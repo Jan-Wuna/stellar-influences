@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Neptune Cupido`
 - Astronomicon triad-set: `VP Y ¡`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Neptune/Cupido = Vernal Point](../activations/neptune-cupido-equals-vernal-point.md)
-- [Vernal Point/Cupido = Neptune](../activations/vernal-point-cupido-equals-neptune.md)
-- [Vernal Point/Neptune = Cupido](../activations/vernal-point-neptune-equals-cupido.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Cupido](../axes/neptune-cupido.md) | Vernal Point | [Neptune/Cupido = Vernal Point](../activations/neptune-cupido-equals-vernal-point.md) |
+| [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | Neptune | [Vernal Point/Cupido = Neptune](../activations/vernal-point-cupido-equals-neptune.md) |
+| [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Cupido | [Vernal Point/Neptune = Cupido](../activations/vernal-point-neptune-equals-cupido.md) |
 
 ## Source Coverage
 
-- `Neptune/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `392`
-- `Vernal Point/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `45`
-- `Vernal Point/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Neptune/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `247`
+- `Neptune/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `392`
+- `Vernal Point/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `48`
+- `Vernal Point/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, printed page `45`
+- `Vernal Point/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `46`
+- `Vernal Point/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, printed page `41`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Vernal Point`: This activation externalizes family and communal dissatisfaction, making dissolution visible at the collective level through moves, withdrawals, and loss of confidence in shared institutions.
-- `Vernal Point/Cupido = Neptune`: This formula emphasizes collapse of a corporation, fraudulent banks or other institutions, and suppressed organizations.
-- `Vernal Point/Neptune = Cupido`: This formula emphasizes precarious marital conditions, dormant art, and dissolution of unions.
+The set links [Neptune/Cupido = Vernal Point](../activations/neptune-cupido-equals-vernal-point.md), [Vernal Point/Cupido = Neptune](../activations/vernal-point-cupido-equals-neptune.md), and [Vernal Point/Neptune = Cupido](../activations/vernal-point-neptune-equals-cupido.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

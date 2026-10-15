@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Apollon`
 - Astronomicon axis: `X/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 240.
+
 Sudden experiences. Expansion by leaps and bounds. Many under tension, excited. Mathematics. To measure. Revolutionary knowledge. New science. Astrology. Sudden expansion. Surprising successes. Surprises in science, commerce or trade. Successes in the field of technology. The technical sciences.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Successive reforms, expansion of technology, freedom pulses, new knowledge (including astirology), sudden success, technical experience, surprising experience, unrest in trade, and increasing tensions
+- Source page: printed pp. 382–383; PDF p. 190.
+
+Successful reforms, expansion of technology, impulses toward freedom, new knowledge (including astrology), sudden success, technical experiences, surprising experience, unrest in trade, increasing tensions.
+
+## Comparative Schema
+
+- core meaning: sudden expansion and surprising experience, particularly through new knowledge, technical work, science, or trade ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: excitement, tension, and impulses toward freedom or new knowledge; no more developed personality pattern is stated.
+- body/health: the pair summaries provide no specific bodily or medical claim.
+- social/relationship: many people under tension and commercial or scientific activity are named; no particular intimate relationship pattern is supplied.
+- events/manifestations: rapid expansion, successful reforms, technical success, mathematical measurement, revolutionary knowledge, astrology, and surprises or unrest in commerce.
+- conflicts/notes: success and expansion coexist with rising tension and trade unrest. The brief pair summaries do not supply a necessary sequence or a closing factor's specific manifestation.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Successive reforms, expansion of technology, freedom pulses, new knowledge (incl
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to sudden experiences. Expansion by leaps and bounds. Many under tension, excited. Mathematics. To measure. Revolutionary knowledge. New science. Astrology. Sudden expansion. Surprising successes. Surprises in science, commerce or trade. Successes in the field of technology. The technical sciences.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Apollon` concerns expansion that occurs through a leap, surprise, or new discovery rather than a uniformly gradual process. Its distinctive field is knowledge put to work: mathematics and measurement, new science, astrology, technical achievement, and commercial experience are all explicit in the [Witte pair summary](#pair-summary). The [ABC summary](#abc-pair-summary) also connects successful reforms, technological expansion and new knowledge with sudden success and surprising experience.
+
+Expansion can excite or unsettle many people, and trade may experience unrest as well as success. The pair evidence therefore supports a range of discovery, rapid growth, and increasing tension; it gives no blanket promise of prosperity and no specific bodily or intimate-relationship outcome.
 
 ## Links
 

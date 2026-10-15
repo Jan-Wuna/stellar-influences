@@ -27,17 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [MC/MC](../axes/mc-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+Source: “Meridian + Meridian,” Apollon entry, PDF p. 57.
+
 The mental horizon. One’s own life experiences. To be a scientist, merchant or trader. To be peaceful. To be open minded. To possess psychic wealth. Generous disposition. To be magnanimous. Glory and success for the native. A successful moment (minute).
+
+## Comparative Schema
+
+- core meaning: Personal mental breadth, life experience, openness, and favorable accomplishment.
+- psychology: Open-mindedness, inner wealth, peacefulness, generosity, and magnanimity.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Generous disposition and scientific, commercial, or trading roles.
+- events/manifestations: Personal glory, success, and a successful moment among Witte's examples.
+- conflicts/notes: Success and occupational roles are possibilities in one source; neither is guaranteed.
+
+## Contradictions
+
+Only one source entry is represented. It combines broad experience and generous disposition with particular scientific or commercial roles and favorable outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/MC = Apollon` widens the axis into broad experience, mental wealth, and success through science or trade.
-- Chart expression: an open and generous self-image, a wide personal horizon, and an identity that grows through knowledge, commerce, peace, and expansive life experience.
+In `MC/MC = Apollon`, Apollon specifies the repeated MC pair's personal and emotional orientation through breadth of experience, an open mental horizon, and inner wealth. Witte connects this with peace, generosity, and magnanimity, while naming scientific or commercial roles and personal success as particular expressions. The entry supports a broad and receptive disposition without making a profession or favorable outcome inevitable. ([Witte](#witte-entry), “Meridian + Meridian,” PDF p. 57)
 
 ## Links
 
@@ -45,3 +63,4 @@ The mental horizon. One’s own life experiences. To be a scientist, merchant or
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)
 - [MC/MC](../axes/mc-mc.md)
+- [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

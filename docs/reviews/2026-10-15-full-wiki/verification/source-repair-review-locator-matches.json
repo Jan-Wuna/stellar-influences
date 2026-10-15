@@ -1,0 +1,880 @@
+{
+  "generated_at": "2026-10-15T10:03:14.587Z",
+  "verifier": "/root/source_integrity_gate",
+  "scope": "Per-record raw-PDF verification of locator-only deltas. Entire retained Witte entry must occur on the explicitly cited raw PDF page after deterministic normalization; every newly added metadata line must be Witte-only. No source wording is changed. This verifies the new locator, not pre-existing glyph assignments.",
+  "raw_source": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+  "method": "PyMuPDF direct get_text on each cited PDF page through required deep11; no parser map imported. Whole-entry normalization uses Unicode NFKD, casefold and removal of non-ASCII-alphanumeric characters, whitespace and punctuation. Exact full substring required, no fuzzy similarity or sampled sibling approval.",
+  "printed_folio_checks": "Hades/Hades metadata additionally asserts printed279/280. Raw PDF275 printed279 was read directly and visually; raw PDF276 printed280 was inspected visually because text extraction omitted it.",
+  "records": [
+    {
+      "path": "wiki/activations/admetos-admetos-equals-apollon.md",
+      "before_sha256": "80113519d99b4291805f2fec949cdeaa0d2685a1ca102a24a5e61fffa904eff2",
+      "after_sha256": "341acae00bca8b85294e6bb9d42f95fb1953e15cf0d61f28c64faf97887d4cac",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.",
+      "entry_sha256": "d44ec674e2ad108297aa779b6dd157d0593c00fc411a7198dc0154d4d5f50379",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 1643,
+      "normalized_length": 214,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-cupido.md",
+      "before_sha256": "556b7ab9b9fd77ea4997f1fc12c20f2d722b078d73b9f10ef1ae67fccea7a076",
+      "after_sha256": "4a0dd387423fa0c8f1bd02d6b8647b3694607e094f1e4d57d609ded2991aac69",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. Hermitage. To become a hermit. Monasticism. Monastery. End of being together with others.",
+      "entry_sha256": "96f1069eb116a9a7a509f8a635903403faef339aa64e49f6fc69356ad00c08ae",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 813,
+      "normalized_length": 142,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-hades.md",
+      "before_sha256": "1d1dd7304c1e1f82b70e6f092231e07dece2de245e001760469f1bec2ceb8a82",
+      "after_sha256": "1101ddb1aabbeb6de1a413c092c593b509156a5a0179ab5a3fb54b6a3067b5fc",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Scantness. Frugality. Great and deep sadness. Pessimism. Coldness. Aversion. Lack of reliability and firmness. Negligence. To stunt or shrivel. Attrition. Worn out materials. Lack of raw materials. Raw materials from old materials or junk. Prehistoric time. The distant or remote past.",
+      "entry_sha256": "852c0b39b9446c548542ddf882eca76ed76f59d31537c20aae9f3d27f012dd5e",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 956,
+      "normalized_length": 230,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-kronos.md",
+      "before_sha256": "6d7f128207cb414e987da48d1a0a73ff0ec334e726df9150bc7ef78837bb5913",
+      "after_sha256": "300f15689aecf9c6033780ca550e9ddb98376f44a02a30306a55923d5004e55f",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Main formula for an odd character. Differences. Odd being. Fall of a ruler or a government. Differences in altitude. Hills. Mountains. Odd character who leads a secluded life. Great depth, cave or cleft. A life apart from others. Fall from great height.",
+      "entry_sha256": "ce46012749a685f2a47fbf3302aa192b5849aeb20c8a9c7e89ed8c13d72fc898",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 1441,
+      "normalized_length": 200,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-mc.md",
+      "before_sha256": "2d81d6012bed366de9fd3abf99abccdfee33e4eb5da48ec2c04834832f7bbb71",
+      "after_sha256": "537b0eaf2d1247a1ab01275548b9c7e823443f62a44f9483fbff4c7ef91f4349",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "One’s firmness, perseverance and steadfastness. To be insensible, apathetic, hard hearted. A conservative attitude. Standing on firm ground. Going back to the primary cause of things. To feel paralyzed. A dead soul. The moment (minute) of death.",
+      "entry_sha256": "546305456047d274221fe2ae80b01a02a26c01fed54997b7010d4753bc0c0b19",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 320,
+      "normalized_length": 195,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-mercury.md",
+      "before_sha256": "0a32e61e931f9e1f462ca507a16545f5f5c1f6ffac74bd8b12307db3e65055d1",
+      "after_sha256": "bc114d046c31e9ed7d035cf8fa83a99be6a5087c6494690890990d9602cc9072",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Serious or Limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.",
+      "entry_sha256": "7b27e83c17e7babd33694197e00f6553ea64fb00fb949ba83e156718bebf2e60",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 1389,
+      "normalized_length": 223,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-moon.md",
+      "before_sha256": "75144798bd5edf04714a9c867913dd5910ecae500303675ca2e350a31e9ac7ec",
+      "after_sha256": "65ee8c46a845bba316a1e594a3ae6476b0351e25fcc207969f1ca35308c6fd53",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The closed or locked room. Excluded from the public. Dying nation. Stoic character. Death of a female person. Hour of death. Change in the state of aggregation. Consolidation, freezing, thawing or softening.",
+      "entry_sha256": "5b18a997e581cc3da6a5d5146289f8010bdab838c7acf333304b8b7349511105",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 944,
+      "normalized_length": 225,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-neptune.md",
+      "before_sha256": "ac3df9edbff4262563af4de33f8c54ba70fbc4ba67d75f9f44f0fab292a2b0a1",
+      "after_sha256": "01a883da6db9cd937c0e1c3ecaed1bb252d5faedde06c1792ea9a4195a127a0c",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Narcotics. Poisons. Deadly poison or drinks. Decay, decline, shrinkage. Lack of water. Lack of air. Cold air, ice, turning into ice. To change from one aggregate to another. Solidification. The process of freezing or thawing. To soften or harden.",
+      "entry_sha256": "8be8bd3251a635f19a0325fb1eabe2e2303abafbd135cd8fa81dca980f79e75e",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 372,
+      "normalized_length": 193,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-node.md",
+      "before_sha256": "00b2181d169260cdf4814ef2367d73a5e3cdbcf606258129bef25c19be2c4e41",
+      "after_sha256": "a8d3646d4f7f4d3a8af502042984b0ef1023b71f8aa139a7b879d7ec7b608760",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Small exclusive circle. Connections with a few. Shackles. Connections which are oppressive and are a burden. Few connections. Reliable or very close connections. Static or unchangeable connections. Connections which are of great hindrance. Joining raw materials.",
+      "entry_sha256": "2ba2c20ab20abc6e8e273a09af1f1b35599cb7c950dfca0c55c112f50f5373ab",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 1170,
+      "normalized_length": 218,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-pluto.md",
+      "before_sha256": "41d97716dbd36560744822187cad5b2220be675bb36a9b6ecd8197e7a26a2982",
+      "after_sha256": "5cbfeda309557db65ed7ea24b781b10bbd1d6037e68d07e2643f68c04b7584ae",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "The foundation. To go into the depth. To return to the basic origin. Basic changes. Deeply rooted growths (development). Roots. Radical transformations. Deep reaching transformation. Change from the bottom up. From raw material to finished products. From the beginning to the end. The beginning of the end.",
+      "entry_sha256": "6c6c39d360f86a67c017dddeb682fa23af093ebb8a2a960b63e5e42be9be442c",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 566,
+      "normalized_length": 246,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-poseidon.md",
+      "before_sha256": "6543060957729d6a72522acb50c7e3e0d50c2d4509a493545aafe2a99a087d86",
+      "after_sha256": "c8f9be522dfe30b7c6c6ec8a39632049876e6848683d733d16e5a327931ac985",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vibration. Dematerialization. Spirit and matter. The two sides of the same entity.",
+      "entry_sha256": "63460e39a0d426d69191f1f41634caea29a5c66430db6378c807d3feb920b357",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 2029,
+      "normalized_length": 128,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-saturn.md",
+      "before_sha256": "0fc794f75e5ca26a76f7d502381486a74a32d98b82f3094d42d6b914accfa618",
+      "after_sha256": "f755041d39af49ddf6467f422c0ec24dd02d53a95b7cf64af4c7fd1e43ba3e66",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Patience. Duration. Long time. Forbearance. Valley. Bottlenecks. To be in a tight spot. To overcome a tight spot. Stoppage. Standstill. Coldness. Stiffness. Dryness. Depression. To be compelled to wait. Trials of patience.",
+      "entry_sha256": "99299f97d64a73074890288a92063f0dd7615f29559d412fad9e8b16edf0494e",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 0,
+      "normalized_length": 175,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-sun.md",
+      "before_sha256": "b986fad339da102e61dda09cbbe85356d739d24c69f409a1bad0ecd02d51536e",
+      "after_sha256": "58b9a34296ded2a249d0d7ee77bf199abccc77c37503abf03f587d64fc0b1bc2",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. Homeland. That which is conservative. An object of raw material. An object under pressure. Body without motion. Body in repose. Standstill of the body. Day of death. Landed property.",
+      "entry_sha256": "92e066873bec34829606ec08c5c306d22bfa1f481f532219969943a48b40b5a6",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 735,
+      "normalized_length": 208,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-uranus.md",
+      "before_sha256": "5324f4eaa0f7b4477e3a3d36b13cc907e24085668e868fde10eefc80e944ef5c",
+      "after_sha256": "039873d741c33a5bb22fb306d960e21c302dc16b510d9d3285c89d6f0962e196",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Sudden rupture-like separation. Shock commotion. Destruction through convulsive natural events. Earthquake. To break off. To break up. To break down. To tear up. Rags. Homicide. Accidents. Fissures, cracks, shreds. Separations by sudden breaks.",
+      "entry_sha256": "da57208289a0cafe97514af4e950173579b61cde7b7de592beacde55a6944b45",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 175,
+      "normalized_length": 196,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-venus.md",
+      "before_sha256": "e8be454f338b5448623b481f6207179924a9f8cf43567baca5c7202a30abd217",
+      "after_sha256": "6d194c20d38467e013a64e65111fcf49e708307912601fdfba5c8d16b4a638c8",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Connected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heartlessness. Death of love. Without sensation. Limited feeling.",
+      "entry_sha256": "eabed95458b9cd7eedea8bc127c72a5ce639dd8c1d35b47764e64bc80082ddaf",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 1612,
+      "normalized_length": 225,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-vernal-point.md",
+      "before_sha256": "304a6a9ca0945a94a453d4bab00e87b5077c0fcb056f6c948662cbbad8513ae9",
+      "after_sha256": "74cc32b7cfb2fa4faeb36d6e2f21bcbd2330afc70b33c1a47a4fd595f1d69d78",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 309,
+      "entry": "Circulation. Rest. Standstill. Death on Earth. Raw materials. Resistance of the general public. Base origin. General shrinkage, reduction, decrease, compression.",
+      "entry_sha256": "de77dfc5e88716b4e1b356cc7edcba966179ff3b812f0dff35b208cd29547609",
+      "raw_page_text_sha256": "e73510fa6c23c24a0e56d8e212d6617136ae8f3e393400c8a34d87cd45112786",
+      "normalized_start": 188,
+      "normalized_length": 131,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-vulcanus.md",
+      "before_sha256": "28c895d566c9efcdfc3a7c4fa25f2912c56843c49bb1c4f40ce2cf327988d02c",
+      "after_sha256": "da40594ac982afd50d5ae4a6b6b1ac7df4176162455a30a72f7c3fe17e7e337b",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "Buffets of fate. To be tempered. Mighty hindrance. Compression. Forming of blocks or boulders. Hardening. Stoppage. Pressing load. Ballast or heavy weight. Congestion, hindrance. Jamming, compressing, heaviness.",
+      "entry_sha256": "be9a217a00c79ba08e22d49cb52cfe4a37090285252afbe970766c8fb487f0de",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 1858,
+      "normalized_length": 171,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/admetos-admetos-equals-zeus.md",
+      "before_sha256": "d333a95d44d1ecc92453f9027c6150a32793a6538824a5bdf2c2eced9fdc52da",
+      "after_sha256": "543f5d20ba486ffaa3689b5d1375bb41c0347c6b7c6dc1738466311c0dd0d1ac",
+      "ledger": "activations-001.jsonl",
+      "pdf_page": 310,
+      "entry": "First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.",
+      "entry_sha256": "f54f92107758e9ee725b8543741d6cc4810cdcbc5dc27394eb4808278a7e25e1",
+      "raw_page_text_sha256": "67e9eb21b65a30cce28a436fedf333b19f31e46191c2c43613dfb87dd2ec856f",
+      "normalized_start": 1186,
+      "normalized_length": 255,
+      "added_metadata": [
+        "Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start)."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-poseidon-equals-node.md",
+      "before_sha256": "215cbe7a52600bc0ccc39833c5f2d03bc71641178dd1f721fce42cd73fe72ea9",
+      "after_sha256": "fa4b0c3a2ca225bc39161d122f276c9b0157a9f1e70a0147ee3f17a4447a3559",
+      "ledger": "activations-003.jsonl",
+      "pdf_page": 308,
+      "entry": "To be connected with comrades, colleagues, fellow sufferers or congenial persons.",
+      "entry_sha256": "5ece372e9ca8017495212673a815b5b9f6f75b4744229e44a5471be4527853b8",
+      "raw_page_text_sha256": "c47adf6521474b93deed13cf1622f8daeb90f04d53ed2e76faad5a86594e0ee3",
+      "normalized_start": 795,
+      "normalized_length": 68,
+      "added_metadata": [
+        "Source locator: one-based PDF p. 308, entry start; printed page not established here."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-poseidon-equals-sun.md",
+      "before_sha256": "b906b8b985cdb404302b5ac2e911f474524d7e9a0d4e13bfdd7a77b0e33e4644",
+      "after_sha256": "075783f78706bccbf6397938e4c398bbf1722864715e706f4e6e782bf5228987",
+      "ledger": "activations-003.jsonl",
+      "pdf_page": 308,
+      "entry": "The physical appearance as an expression of the mental and emotional attitude. The man who reveals his mental and emotional disposition, who shows his attitude. Days which are very exacting concerning the disposition and attitude.",
+      "entry_sha256": "6affd0f2feb5dfca502cf5ffea1dbe7057ac875049568684d562d986e3dc3ea6",
+      "raw_page_text_sha256": "c47adf6521474b93deed13cf1622f8daeb90f04d53ed2e76faad5a86594e0ee3",
+      "normalized_start": 533,
+      "normalized_length": 192,
+      "added_metadata": [
+        "Source locator: one-based PDF p. 308, entry start; printed page not established here."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-poseidon-equals-uranus.md",
+      "before_sha256": "509dc42d407bbc60f7612973c5e0d4d194ee218d760b202379857366d86c27a2",
+      "after_sha256": "64910fae6c4948293381cdec3342a191141370ef0da122913a2d515ba9ad9fa8",
+      "ledger": "activations-003.jsonl",
+      "pdf_page": 308,
+      "entry": "Surprisingly connected with congenial persons. To have a prophetic disposition.",
+      "entry_sha256": "5f234c13d6bd12442e11d96211628d8ad5fa4876e3b38c2b425a72e47c2162bb",
+      "raw_page_text_sha256": "c47adf6521474b93deed13cf1622f8daeb90f04d53ed2e76faad5a86594e0ee3",
+      "normalized_start": 1216,
+      "normalized_length": 68,
+      "added_metadata": [
+        "Source locator: one-based PDF p. 308, entry start; printed page not established here."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-poseidon-equals-vulcanus.md",
+      "before_sha256": "4135b2a265369ac58577197bdeb9c3ed413c79bce6a691619756686ed7ebbf1c",
+      "after_sha256": "a085fceb253ca94916a2cb7fd8f2f808185974592225460a6a9abc324fdf75bb",
+      "ledger": "activations-003.jsonl",
+      "pdf_page": 308,
+      "entry": "To gain great success through colleagues and comrades. To be noted or to create a sensation.",
+      "entry_sha256": "62faa0712f073e43854407008e08e9d294a770eeafb6b2cbf3dc0b95da324914",
+      "raw_page_text_sha256": "c47adf6521474b93deed13cf1622f8daeb90f04d53ed2e76faad5a86594e0ee3",
+      "normalized_start": 1910,
+      "normalized_length": 75,
+      "added_metadata": [
+        "Source locator: one-based PDF p. 308, entry start; printed page not established here."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-admetos.md",
+      "before_sha256": "19894818add638d449f6036e626e61a4784c49b51eca5e26330c34191efebc94",
+      "after_sha256": "fa9ebc9fb820622290d62cf83033706bfe5ee32bffd3639e75454292c1a8f738",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Settled. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.",
+      "entry_sha256": "2eafe52b79d0c19f2083552f1b35577968a686131dcaf66f107436b7a6b85346",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 1830,
+      "normalized_length": 219,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Admetos entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-apollon.md",
+      "before_sha256": "8314df75579fbec7f2cf51a45e5b30800394e9338c353beb178175c5ab77fdbb",
+      "after_sha256": "2d4d992f8b5779c889c73497c723535a765ba04b2b0e5b0bd27a63e1a0fb5dd1",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Equalization of others. Many acquaintances. To have customers. Acquaintance with representatives of commerce, trade and science. Matters that are take place far away or come from a distant location. To get to know many places. Interests that are spreading out into new areas. For the merchant, a growing customer base and the sale of merchandise.",
+      "entry_sha256": "ddb7a1ad46d1e136ab575306e77df1bf9dd2c801983a08a172e1595e3af17284",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 1548,
+      "normalized_length": 282,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Apollon entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-cupido.md",
+      "before_sha256": "a55a77d21d8f39503142d73b7dcf403d454064ff672054ee9684860d4c2d9f6d",
+      "after_sha256": "5da9ff942265f0d400c0430149bccedc6f9c86018537ec5e244dd64094697c6d",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.",
+      "entry_sha256": "a8761da5369b0191f08a9822bf78e905654ef5fd33d896bce4b27c6592a1ada8",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 389,
+      "normalized_length": 282,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Cupido entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-hades.md",
+      "before_sha256": "19156796200ab929039374ebdc6eed0ed0b22d97785ffccca8cd0a671002c04b",
+      "after_sha256": "0baacffa13698b105b192450262595857ed76ed3c1f8869eae41a75562032210",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Others resign, refuse or are unable. The relation to servants and the socially inferior. To come into contact with disagreeable things. Acquaintance with disagreeable people. Difficulties at the close surroundings. Contaminated environment. Ugly or old surroundings. To be in acquaintance with sick, lonely or old persons. Others are in need. Unpleasantness with other people. Formula for a physician (others are sick).",
+      "entry_sha256": "69ec58ea6d20300271fb12b7f041b32f5c3f24774229bbe7ea89e199b865e657",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 672,
+      "normalized_length": 344,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Hades entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-jupiter.md",
+      "before_sha256": "9fa86c6de1d50cfa4130c340e74aef8fc3796a1ea977f03902ed37e3695805b1",
+      "after_sha256": "fcb2a0ac8941666233015d494fd9eba85ed3c67ad29b95d58e8d3025b149067f",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Luck with other people; or other peoples luck (fortune). To experience good deeds form others. Prospering surroundings. Wealthy friends or companions. Fortunate acquaintances. Happy relations to the surroundings.",
+      "entry_sha256": "3caa38d8d0d23ac6a8194744dbc979f8dac03911c5172536fdbf15ef4a3c58ed",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 1787,
+      "normalized_length": 176,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Jupiter entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-kronos.md",
+      "before_sha256": "4fd4ea0a8f9ac7048fe6bae5a11e7d16521f70253fe7c7853acb54dd27bf6388",
+      "after_sha256": "02a2a2aed85f2ac6d02a7a898e7783488c109879d35c5997829b3b6af6f50df6",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.",
+      "entry_sha256": "fdc21f422c98269b4fec388549b9e7183a1e3e3b4568f0357e8b06fc422d341f",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 1287,
+      "normalized_length": 260,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Kronos entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-mars.md",
+      "before_sha256": "5bb833501040d48fae00f91e9d7774118ea869df0f6e2e1c05a64f09e496a38f",
+      "after_sha256": "2f522f2bc2833f1122373dc8f4f57dbe2747a5d01ae8992156ff0b3a785b6daf",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.",
+      "entry_sha256": "419aeb2df4e26d7d7311feb961f80e35595f7c3eb302dc518411cb002bc66e9b",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 1516,
+      "normalized_length": 271,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Mars entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-mc.md",
+      "before_sha256": "39d151a9a2071a38c38c2b73f4802fb1a052db1c0b38e66830f9fb30d9c9fc66",
+      "after_sha256": "9dfe15820a278599749ab312344f021f2bfd8ef2eeace560f06f83a64f4f2853",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Ones relationship, position or attitude towards others. To join with others for a common objective. The social and vocational relations in the closer surroundings. Others influence one’s own emotions. In this minute at this place.",
+      "entry_sha256": "8529c9203f40b9630e9f71990680dc888ca2c0dbe049d46699e1ab53dfaa9d3f",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 343,
+      "normalized_length": 189,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” MC entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-mercury.md",
+      "before_sha256": "861d4bde4c358e2a9808d6b161f000e2510d09514a586fe7b172554a4c012252",
+      "after_sha256": "b0a78cf6fdae578c82cfd17af88fb5b9ba049d668af4ec3314c01b3e7225c909",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.",
+      "entry_sha256": "5ffaafdb13b07fbd19f6fc3b0688a44a041c1f936f9c1cdaa07285335ae622d2",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 1108,
+      "normalized_length": 178,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Mercury entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-moon.md",
+      "before_sha256": "b667a6d4a884ad086ddd78ea25ce198c88e3c2316ba19e1f53c0818d0020ad4b",
+      "after_sha256": "1393570a69caa8a7218a051eede0ae1b493994ade3bf6cc6773a078529a540c2",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.",
+      "entry_sha256": "76f6ad915191582cd22e04694a0de735b3279e683b9b8c968f39fcfc00acaea8",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 755,
+      "normalized_length": 158,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Moon entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-neptune.md",
+      "before_sha256": "3477ba73911ba0fc47af6aa6d7c28b7d661c69e82c08e773d13a40e3235579f7",
+      "after_sha256": "4f78e817c3f3236e8926fa3c8b529260625244215dd2330d5ef01453fecd307d",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.",
+      "entry_sha256": "b251dc049f1679188199bae4a9c0073f578cbbcb2eea7759cfd933c5d047ab6a",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 1,
+      "normalized_length": 209,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Neptune entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-node.md",
+      "before_sha256": "33b94111669f13d98a6f00cc13ff5a1a08d2eb35c6ac3b162a70887fea9eb0dc",
+      "after_sha256": "93b7359e1bee92d9c1215056428daab8e43985a3d1e89b03ea4e9a60d86329e5",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.",
+      "entry_sha256": "b1e880d5a70277b89d6ba6f20bbbe6774ee32420672696a7a2263a5eb779c40f",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 914,
+      "normalized_length": 194,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Node entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-pluto.md",
+      "before_sha256": "aa55ac7fa89ed71b5731392fd2a17f1722e6d8615441fdb19c3821704736d572",
+      "after_sha256": "0e2f505565dd2e5baa0b861de999282d7372457b6000fec2d29d1ae270872aaa",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.",
+      "entry_sha256": "b0a3e0cef0e2be87740c05e7d7dee4bfb9811b13f2d9d5243b7e14eaa34557fb",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 211,
+      "normalized_length": 177,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Pluto entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-poseidon.md",
+      "before_sha256": "cc4ea86bf39dde36821cba4afe33a5c0cd58898d982860442c7e4d6c81531aac",
+      "after_sha256": "b3c919c21ae44906a3b88ecb8cc4f537872cd2f84c6f3ccb5dab857f99dd59fb",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Acquaintances which are high-minded, such as deep thinker or genius. Others are high sensible. Acquaintances to spiritual people. The intellectual-spiritual environmental impressions. Others with mental, cognitive or educational skills. Water masses or oceans in the close surroundings.",
+      "entry_sha256": "c8a7a3a3fc4e868a7f6a16ef040de19760fb513cf36bc504f0d51291fb8a21bf",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 2252,
+      "normalized_length": 240,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Poseidon entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-saturn.md",
+      "before_sha256": "9c798631c76eff78e41dc217024304e136a7e553c293f362444751d4ccd2adf3",
+      "after_sha256": "dfc0e04ad99d8f5aedb5a9e227ac947636bf8c39c290ddb33ace0af6dd88e65f",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Estrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.",
+      "entry_sha256": "9f02ead59a2d2705ee4e61721de695db069cf76334d31c8fe36f925ddee437dc",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 1963,
+      "normalized_length": 170,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Saturn entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-sun.md",
+      "before_sha256": "513bed92422344cdd989b6855cc7443e724f0edd3a1ab3c32493108071cfd530",
+      "after_sha256": "9ebe8f41ea400a5892172d82ce896f0f35db11123ae9a4f59a23e536936088b3",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.",
+      "entry_sha256": "105ec5ef4c87405dc99649345231fb6b0d45bb55c53c8c5ab37216c5f4404710",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 533,
+      "normalized_length": 221,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Sun entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-uranus.md",
+      "before_sha256": "10358a3f7b1440b6c0a89f6248efa83b4f22ed3968347f6d5a95695e2d966591",
+      "after_sha256": "1b2f25471d4ab41627d1e4080e784db1ffba1e3c79a4445ba7c8948405413e29",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.",
+      "entry_sha256": "3dec8659f15dae5f530d5335a8689be59fbd159b28e18a1da1b802f197fa5bae",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 2135,
+      "normalized_length": 309,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Uranus entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-venus.md",
+      "before_sha256": "ecb8d8291d2a5d177762cb4aa2dae51670656aec52de66fcbb1a5395fbb8ee53",
+      "after_sha256": "70c6bf35095861e0f2b6dd7172b9adcf53ee403763946fba52829f05a9ceb795",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.",
+      "entry_sha256": "793320c1fee174f0fb3e753ebafbf480a21c1214e735d279a3e5150bbbf62279",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 1287,
+      "normalized_length": 229,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Venus entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-vernal-point.md",
+      "before_sha256": "1af7f90d40100907df255d2f34fb19bdc214eaa68bd422236da04e0de1281757",
+      "after_sha256": "5dbc5101bcc30f86e527d2b831207ffd619fc3c8e2ba48ffe8ce993397a0c47a",
+      "ledger": "",
+      "pdf_page": 78,
+      "entry": "Meetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.",
+      "entry_sha256": "f04a4d50e3f28888affb02596e4a50aab25140139fe041e6cd4a5e73d0fb89a0",
+      "raw_page_text_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "normalized_start": 181,
+      "normalized_length": 161,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 78 (one-based), “Asc + Asc,” Vernal Point entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-vulcanus.md",
+      "before_sha256": "81618833b750c03b6646882040a98f044715df8cc7eb80b9a461f2b47bfcfbaa",
+      "after_sha256": "ec72cfb47cd221fe362d28bd91e873c476fae7b25cfa9145219b4f95cd09a869",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Others are superior. To experience force from others. Powerful, strong or forceful personalities in the close environment. Others act violently. Surroundings occupied by great energies or powerful influences, whether natural or biological.",
+      "entry_sha256": "0fb08803ae8dd507b3b882a148dda3bcf2f4754872ba7fd33f701d0c37f7472a",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 2050,
+      "normalized_length": 201,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Vulcanus entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-zeus.md",
+      "before_sha256": "6cbe906f1bc07912f41c46a61704c3ff9650a48ab4519cc0f444631c056590de",
+      "after_sha256": "6680993c3dd86806fafb01400e0406fdb8b49d621cde94c91bae27e609173bdc",
+      "ledger": "",
+      "pdf_page": 79,
+      "entry": "Others are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.",
+      "entry_sha256": "3cae0d2ef099c85474fd76c2dd81c1dc4bf97cc54a0e4b71a04fe2e786c7025e",
+      "raw_page_text_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "normalized_start": 1017,
+      "normalized_length": 269,
+      "added_metadata": [
+        "Source reference: Witte, Rudolph & Lefeldt, PDF p. 79 (one-based), “Asc + Asc,” Zeus entry start; printed page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-jupiter.md",
+      "before_sha256": "53972de1277fe770dbae5889f5ccb9c20f70119a5c4b703f14adfd3884e833c3",
+      "after_sha256": "92e2ef4aac0b57e27757005ae5013e16127c8c5e84d725447ea5287c831ec0d0",
+      "ledger": "activations-012.jsonl",
+      "pdf_page": 276,
+      "entry": "Saddened disturbed or hidden happiness. Lack of money. To be lucky with raw materials, antiquities, old materials, junk or on the black market. Clouded happiness. Money losses. Bargaining. Dirty financial transactions. Money laundering. Poor cash flow.",
+      "entry_sha256": "e155b2f861e441c3bef2b26aa211b4e2d15e297d3dfdfc62d7106eb6dce9e36a",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 1,
+      "normalized_length": 205,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-kronos.md",
+      "before_sha256": "4a54915c6495b8aa1219756eedc4621ec2ce6d89b1fbdacb72860ba797f7a562",
+      "after_sha256": "57cb133dd9bfa7014392dd21fa6e5f131d394f147f68642ecd0e40a7a3ef366e",
+      "ledger": "activations-012.jsonl",
+      "pdf_page": 276,
+      "entry": "Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.",
+      "entry_sha256": "cd92e54f6076c8e0020a70564356d300e8b7b9b481af148337f0508862cbb3e9",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 1609,
+      "normalized_length": 193,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-mars.md",
+      "before_sha256": "3d9822e251995cb3773ea5a0f5139e1d8af8cd25273022f399a059bbfa8a04ca",
+      "after_sha256": "5d17c71813b6bf900a67754fdd83e769e091ba30b807214b184528ba348acc59",
+      "ledger": "activations-012.jsonl",
+      "pdf_page": 275,
+      "entry": "Fatigue. Weariness. Atrocity, vulgar acts. To cause damages. Base services. Male servant. Slave labor. Murder. Homicide. Unusual death. Serious sickness. Faulty or bad actions. Working in solitude. Working in poverty. Preparation for recycling. Working under difficult conditions. Working in outflow channels. Dealing with old things, historical things, waste or refuse. To serve. A serious act. Evil deed. Lack of activity.",
+      "entry_sha256": "1bb1699b851f66198474fbeeb6efaa5da3d93527228760318d627e0eeff935b2",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 2211,
+      "normalized_length": 340,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-mc.md",
+      "before_sha256": "86ab33ab3793241f489710f78a102f6cfcc956b01ab3417a053af33922908d4b",
+      "after_sha256": "47f048cf4cec28fa59d6772e275857b8b86b001f428d9bb845eef40654b013f1",
+      "ledger": "activations-012.jsonl",
+      "pdf_page": 275,
+      "entry": "To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily offended. Grief through deficiencies causes the feeling of inferiority. Business losses. Pursued by misfortune. Poor profession or wrong goals of life. Profession in waste management. Misguided emotions. Inclined toward serving others. Historian. The attitude towards the past. A bad moment (minute).",
+      "entry_sha256": "8d8768b4c40b1c125d4f19c280360d6e6663b61e426cb1d2a4aa1362a9464ea6",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 437,
+      "normalized_length": 307,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-mercury.md",
+      "before_sha256": "1937dc53276fa1e6a544a0ea10b46b326f091cb254ebd5506b1bd3a73824b982",
+      "after_sha256": "2c725e7d60b40abc349049e0ed23d0267162272a8b32c8e83805f7c1b1ca77ef",
+      "ledger": "activations-012.jsonl",
+      "pdf_page": 275,
+      "entry": "To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden thoughts. Ugly thinking. Stupid, malicious, drastic way or expression. Old plans, information or conversations. Old movements. The worried mind. Negative dialogues. Bad or sad news.",
+      "entry_sha256": "34657fca1244f94a56811d9f93d080e33d93dd5b69e856a6cb60718ea3c98b59",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 1777,
+      "normalized_length": 206,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-moon.md",
+      "before_sha256": "aefd9b148ad02929afaa67dd929b279b2c7bcc8b0979ac92e446803ebd22882a",
+      "after_sha256": "d53074dc2f58de14b0ce27d2ad0f8f66b28f394999c93274e69847a99b68bc37",
+      "ledger": "",
+      "pdf_page": 275,
+      "entry": "Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.",
+      "entry_sha256": "d166b6322ab9b070401796e79d1f51d0ffca321dfce88ac5909b593de2fe9ddc",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 1344,
+      "normalized_length": 256,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-neptune.md",
+      "before_sha256": "1cbe30d6683267c3e48cd4d6d5a11537ebf5b2a011f920566564a5a6be804444",
+      "after_sha256": "ca3ebdb5dfe8920c7758d44a69a49974f9221ad9dfe05e8dc5df83367143ba8c",
+      "ledger": "",
+      "pdf_page": 276,
+      "entry": "Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.",
+      "entry_sha256": "582e0ea633c2269cf415fd467d798d1c0f3f3d9aac6ca83a8887cecb1da485b1",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 647,
+      "normalized_length": 184,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-node.md",
+      "before_sha256": "4593c2495189b85baaa56bd60c569aa5d7ac3263c0a83337e55f7fb5317c03f4",
+      "after_sha256": "f9f5b1401380cc24dff37505c70259aef266e64a81415909f4a135a5564e00aa",
+      "ledger": "",
+      "pdf_page": 275,
+      "entry": "A mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.",
+      "entry_sha256": "d9c3b9bd196c396a59cf5fcd574401dac7810d52537d61b483fa62e2ccaaa00b",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 1601,
+      "normalized_length": 176,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-poseidon.md",
+      "before_sha256": "638c7764df4a2ae0ccf9d5f78c0e150f3ad4dc519ce98c7db6d4808387e41f86",
+      "after_sha256": "5de5b5a8d081cd16e08af2e5e04eaec2561731af016d4629e7705d73c583803b",
+      "ledger": "",
+      "pdf_page": 276,
+      "entry": "Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.",
+      "entry_sha256": "d74b8a6ae488710cd67801c2c609edcceafa010bc8c9931d4a80481914fd70ec",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 2372,
+      "normalized_length": 162,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-saturn.md",
+      "before_sha256": "7badbbe12dd4156fcd18d85e450c4f86cda174465c48cbddabed50f819d088b8",
+      "after_sha256": "47bdc8617b744be5a73f69df465071526d7eea4f791ecca715f36713d4c6f966",
+      "ledger": "",
+      "pdf_page": 276,
+      "entry": "Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.",
+      "entry_sha256": "b824f351dcd707b8e5ecabd834e8b3d5e94ac37ccc9d972847e21d5252641ba0",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 206,
+      "normalized_length": 260,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-sun.md",
+      "before_sha256": "981c4259c33a3d535bbca742f4ab73bf265aadb3e09e911c3aba26e4512ae0b8",
+      "after_sha256": "bf61a16dbac51b50b72bbd060fd5e2569611112a9f9da2f6561307faaa15a23e",
+      "ledger": "",
+      "pdf_page": 275,
+      "entry": "Diseased body. Deformed or mutilated body. To be oppressed or hindered in developing the body and personality. Pursued by misfortune. Carrier of secrets. Physical troubles. Old objects. The body’s susceptibility to sickness. Waste. Garbage day. (In the solar cycle: hard period or a period with an upcoming illness.)",
+      "entry_sha256": "6830ecc874ac2dbcbf8d3c8891fa2af05cf1a2eaaea8132617e4aa6270734799",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 1090,
+      "normalized_length": 254,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-venus.md",
+      "before_sha256": "2c0d8772678509a55d8bf10f570dae7d6156475e70ed920ea68b785bce23c922",
+      "after_sha256": "c94aadbda7871176fe701b4b6046cfcdb6d2426235ab04e75c71dae9c0cbb33f",
+      "ledger": "",
+      "pdf_page": 275,
+      "entry": "Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.",
+      "entry_sha256": "0588d1e5c268e342346d2fc115d2ab7cf338fd087a858fbe0e3da3867b0b1d67",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 1984,
+      "normalized_length": 226,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-vernal-point.md",
+      "before_sha256": "25f4bb96a88087bb9ea60c2a237aaf85f878b6657d8721cce0ed201f5ebcb344",
+      "after_sha256": "02446f13cff03910f2a04dbc854ad16992e738a90b4059abc71c31e455875359",
+      "ledger": "",
+      "pdf_page": 275,
+      "entry": "General poverty, misfortune, tribulations, plagues. Coal mines. Worldwide disease. Diseases in general. Something is hidden for general public. Contaminated areas of the earth. Public service. General health system. Catastrophes.",
+      "entry_sha256": "c3c7d03f8c67cac24872a2d59eee24ee95bdd67426d450ac9ada5caaad764644",
+      "raw_page_text_sha256": "3e087c3acc6407cfcab8b184abb6e81a4ccb3791988197a651a07f68c4e8ec85",
+      "normalized_start": 247,
+      "normalized_length": 189,
+      "added_metadata": [
+        "- PDF page: 275 (printed p. 279)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-vulcanus.md",
+      "before_sha256": "97ac94e86974cd2b26d3127cf411699f0f59d7e9306a7f86d157338146cf24f0",
+      "after_sha256": "21eed7ba33c320562cdde6ebcdd1d53f3920cf9a7cbcd1e798a23467b3aa4ba5",
+      "ledger": "",
+      "pdf_page": 276,
+      "entry": "Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.",
+      "entry_sha256": "070a4371028481ab15efcd4e19adcd68be7d13ccde501bca908026c3e0229b29",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 2219,
+      "normalized_length": 152,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-zeus.md",
+      "before_sha256": "2889a11bec8d8c8d5a5171060c3978fef3f967955cdcb7e95306c5ca9a332e2d",
+      "after_sha256": "ff8d6ba20381bb076b163d34e0d4710c0628e62c7acfbee49e40c92bdc92c65d",
+      "ledger": "",
+      "pdf_page": 276,
+      "entry": "Relaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.",
+      "entry_sha256": "abc5c3b1a2ee7bde27e076db443a568d5c4a91e937bc419637c8eff5b76d19d4",
+      "raw_page_text_sha256": "eb033bfb9dc2989ffa01e108cc2877465f147853b6ac48f47cb8f6c679cb28a4",
+      "normalized_start": 1258,
+      "normalized_length": 350,
+      "added_metadata": [
+        "- PDF page: 276 (printed p. 280)."
+      ]
+    }
+  ]
+}

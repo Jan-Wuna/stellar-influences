@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Neptune`
 - Astronomicon formula: `V/Z = Y`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Neptune row.
+
 Commencing unnoticeable fortunate change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful development of metaphysics, exchangeable legal development, joy over developments in the air, uncertain financial development, beneficial change of water, uncertain success development, and growing success through intuition
+- Source reference: printed page 331; one-based PDF page 164, Jupiter/Pluto Neptune row; complete German row checked.
+
+Successful development of metaphysics, disappointing legal development, joy over developments in the air, uncertain financial development, advantageous change of water, uncertain development of success, and growing success through intuition
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+- Source reference: printed page 235; one-based PDF page 237, coded Neptune entry 0826 and its footnote51. The following Node entry0827 and footnote52 are separate.
+
 Inclination to deceive others, and to cheat and seduce people. A general disappointment, suffering damage or loss through others without being aware of it.
+
+- Footnote `51`: To Neptune = Jupiter/Pluto one might add: a tendency for infection.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Neptune entry; exact full paragraph checked.
 
 To have grandiose imaginative visions. A tremendous willingness to do what ever one needs to do to help others. To motivate others and evoke great enthusiasm in them for the purpose of deceiving, using, or duping them.
 
@@ -66,26 +78,27 @@ To have grandiose imaginative visions. A tremendous willingness to do what ever 
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 Using drugs to enhance escapes from reality or pressure; you are drawn to mystical religions and abstract ideas to explain what life is about; your goals in life are unclear and you have confused thoughts, goals, or plans.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Unnoticed fortunate change in Witte alongside uncertain development, grand visions and deception in other entries.
+- psychology: Intuition or willingness to help can coexist with confused goals and motivating others to deceive them.
+- body/health: Ebertin's footnote51 adds a historical 'tendency for infection'; it gives no condition, diagnostic criteria or causal mechanism. Munkasey names drug-assisted escape without medical instructions.
+- social/relationship: Helping others, deceiving or being deceived, and mystical affiliations are distinct examples.
+- events/manifestations: Hidden change, disappointing legal development, uncertain finances and unclear plans.
+- conflicts/notes: Footnote51 belongs to Neptune0826, not Node0827; favorable hidden change is not evidence that deceptive acts are beneficial.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's beginning of unnoticed fortunate change differs from Ebertin's disappointment and unrecognized loss. Sandbach explicitly permits both helping and deceptive mobilization, while ABC combines intuitive success with uncertain development. These differences remain rather than forming one inevitably corrupt or beneficial vision.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Neptune`: powerful ideals, unseen large developments, and readiness to help or mobilize others around a compelling vision. Main caution: corruption by illusion: deception, seduction, hidden damage, or morally blurred zeal can grow behind an inspiring surface.
+In `Jupiter/Pluto = Neptune`, the [source entries](#source-entries) bring unseen development and strong imagination together with uncertainty about purpose and result. Witte allows a fortunate change beginning unnoticed; ABC adds intuitive success but uncertain finances and disappointing legal development. Sandbach's vision may motivate help or be used to deceive, and Ebertin includes loss through others without awareness. Munkasey adds confused plans and escape from pressure. The source's infection footnote remains separately attributed, without turning this interpretive mixture into a medical prediction.
 
 ## Links
 

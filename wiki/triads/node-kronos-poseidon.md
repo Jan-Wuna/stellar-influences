@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Kronos Poseidon`
 - Astronomicon triad-set: `g ¤ ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Kronos/Poseidon = Node](../activations/kronos-poseidon-equals-node.md)
-- [Node/Kronos = Poseidon](../activations/node-kronos-equals-poseidon.md)
-- [Node/Poseidon = Kronos](../activations/node-poseidon-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Poseidon = Node](../activations/kronos-poseidon-equals-node.md) | [Kronos/Poseidon](../axes/kronos-poseidon.md) | [Node](../factors/node.md) |
+| [Node/Kronos = Poseidon](../activations/node-kronos-equals-poseidon.md) | [Node/Kronos](../axes/node-kronos.md) | [Poseidon](../factors/poseidon.md) |
+| [Node/Poseidon = Kronos](../activations/node-poseidon-equals-kronos.md) | [Node/Poseidon](../axes/node-poseidon.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `Kronos/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `466`
-- `Node/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `231`
-- `Node/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `239`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Kronos/Poseidon = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-poseidon-equals-node.md#witte-entry), one-based PDF entry-start p. `302`.
+- `Kronos/Poseidon = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-poseidon-equals-node.md#abc-entry), printed p. `466`.
+- `Node/Kronos = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-poseidon.md#abc-entry), printed p. `231`.
+- `Node/Poseidon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-poseidon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `156`.
+- `Node/Poseidon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-poseidon-equals-kronos.md#abc-entry), printed p. `239`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Node`: cultural or intellectual groups, connection through shared mental attitude, and associations formed for common study or higher endeavor.
-- `Node/Kronos = Poseidon`: Connection through great mental accomplishment. Connections with intellectually leading people.
-- `Node/Poseidon = Kronos`: Connections with mentally, superior people. To let others influence oneself.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

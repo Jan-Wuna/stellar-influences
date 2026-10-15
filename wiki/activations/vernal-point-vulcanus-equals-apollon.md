@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Apollon Vulcanus](../triads/vernal-point-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 Wholesale merchants. Power of trade and commerce. Great expansion or success. Far reaching power and influence. Powerful through the use of science.
 
@@ -42,13 +46,29 @@ Wholesale merchants. Power of trade and commerce. Great expansion or success. Fa
 
 #### ABC Entry
 
-Broadening the public Violence, freedom of violence in the public, power of science in the public Life, public Trade power, strong public success, and increasing public influence
+- Source page: 57; PDF page: 27 (one-based spread).
+
+Expansion of public power, freedom from violence in public, the power of science in public life, public trade power, strong success in public, and increasing influence of the public.
+
+## Comparative Schema
+
+- core meaning: Wide-reaching public power through trade or science.
+- psychology: The entries emphasize effectiveness rather than a distinct mental disposition.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Wholesale merchants and an increasingly influential public.
+- events/manifestations: Commercial expansion, scientific power and substantial success.
+- conflicts/notes: ABC explicitly includes freedom from violence, not freedom to use violence.
+
+## Contradictions
+
+The sources agree on expansion, commerce and science. ABC adds nonviolence as a separate public condition, which should not be reversed into license for violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Apollon`: wholesale merchants, power of trade and commerce, great expansion or success, far reaching power and influence, and powerful through the use of science.
-- Practical expression: broadening the public Violence, freedom of violence in the public, power of science in the public Life, public Trade power, and strong public success.
+`Vernal Point/Vulcanus = Apollon` connects public influence with broad reach and successful expansion. Witte’s wholesale merchants and commercial power meet ABC’s trade power; both also name science as a means or field of substantial influence. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC’s increasing influence of the public extends the social scale. Its explicit freedom from violence is a separate condition alongside expansion, not permission to exercise violence. ([ABC](#abc-entry))
 
 ## Links
 

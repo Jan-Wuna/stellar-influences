@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Mercury`
 - Astronomicon formula: `W/g = T`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 Farewell letters. Mournful tidings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of news communication, external language contacts, serious language connection, distanced youth connections, distanced traffic connections, separate message connection, age related language contacts, and connection of youth and age
+- Source page: `216`; PDF page: `107`.
+
+Tasks of communicating news, sustained language contacts, serious conversational connection, disturbed connections among the young, disturbed transport connections, separated news communication, language contacts in old age, and connection between youth and age.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0905`.
 
 Inclination to form one's own conclusions, difficulties when exchanging thoughts or ideas with others. Thoughts of separation, estrangement or alienation, news of mourning, bereavement or any other loss.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 To make deep connections when one communicates. To think about the problems inherent in making progress. One’s mind may have great difficulty in letting go of old, long-established ideas.
 
@@ -70,22 +80,21 @@ Thoughts of using assistance from others to further your aims and goals in life;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Communication and thought concerning difficult or enduring connections.
+- psychology: Independent conclusions, fixed ideas, and questions about accepting help.
+- body/health: No bodily claim in these entries.
+- social/relationship: Difficulty exchanging ideas; deep communication and links between youth and age.
+- events/manifestations: Farewell letters, mournful news, and conversations about assistance.
+- conflicts/notes: Depth and continuity in communication coexist with difficulty exchanging ideas and news of separation.
 
 ## Contradictions
 
-- None recorded yet.
+Difficulty in exchange and depth of communication can coexist; no direct disagreement is established by the entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Mercury`: serious agreements, dependable exchange, and the ability to define social commitments clearly. Main caution: constricted relating: guarded language or overcautious judgment can make interaction dry, defensive, or overly procedural.
+In `Saturn/Node = Mercury`, Mercury specifies how a difficult connection is thought about and communicated. Farewell messages and news of loss sit beside difficulty exchanging ideas, holding on to established views, and questioning the help others offer ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). Communication can also create depth and continuity: [ABC](#abc-entry) includes sustained language contact and connections between youth and age. The common thread is the effort to maintain, understand, or release a bond through thought and speech.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Pluto Cupido`
 - Astronomicon triad-set: `V Z ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Cupido = Pluto](../activations/jupiter-cupido-equals-pluto.md)
-- [Jupiter/Pluto = Cupido](../activations/jupiter-pluto-equals-cupido.md)
-- [Pluto/Cupido = Jupiter](../activations/pluto-cupido-equals-jupiter.md)
+- [Jupiter/Cupido = Pluto](../activations/jupiter-cupido-equals-pluto.md): base axis [Jupiter/Cupido](../axes/jupiter-cupido.md); activator [Pluto](../factors/pluto.md).
+- [Jupiter/Pluto = Cupido](../activations/jupiter-pluto-equals-cupido.md): base axis [Jupiter/Pluto](../axes/jupiter-pluto.md); activator [Cupido](../factors/cupido.md).
+- [Pluto/Cupido = Jupiter](../activations/pluto-cupido-equals-jupiter.md): base axis [Pluto/Cupido](../axes/pluto-cupido.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `333`
-- `Jupiter/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `331`
-- `Pluto/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `408`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Cupido = Pluto](../activations/jupiter-cupido-equals-pluto.md#witte-entry) (PDF entry-start p. 211); [Jupiter/Pluto = Cupido](../activations/jupiter-pluto-equals-cupido.md#witte-entry) (PDF entry-start p. 210); [Pluto/Cupido = Jupiter](../activations/pluto-cupido-equals-jupiter.md#witte-entry) (PDF entry-start p. 257).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Cupido = Pluto](../activations/jupiter-cupido-equals-pluto.md#abc-entry) (printed p. 333); [Jupiter/Pluto = Cupido](../activations/jupiter-pluto-equals-cupido.md#abc-entry) (printed p. 331); [Pluto/Cupido = Jupiter](../activations/pluto-cupido-equals-jupiter.md#abc-entry) (printed p. 408).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Pluto`: the beginning and growth of pleasant family or communal connections.
-- `Jupiter/Pluto = Cupido`: family happily reunited in its former life and fortunate development in art, family, or among associates.
-- `Pluto/Cupido = Jupiter`: This activation emphasizes happy and fortunate family; Happy and fortunate development of familiar and social relations.
+Jupiter, Pluto and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Pluto/Cupido](../axes/pluto-cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)

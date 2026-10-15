@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Node`
 - Astronomicon formula: `Y/Asc = g`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be embroiled in fraudulent activities. Uncertain, unstable behavior of the counterpart in a connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Encounters in an insecure environment, connected by water to a place, fine tuning in a partner connection, contacts in a foreign place, connected with an exchanged partner, weak partner binding, and connections with others in the water
+Encounters in uncertain surroundings, connected to a place by water, sensitivity in a partner connection, contacts in a foreign place, connected with a disappointed partner, weak partner bond, and connections with others in water
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `288`, entry code `1032`.
 
 #### Ebertin Entry
 
 Suffering from falsehood, fraud or malice through one's association with disharmonious people. An accessory to malicious actions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ One encounters connections with others that cause one to either feel confused or
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Aids your ability to attract others to your schemes or dreams of the future; aim
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: connections that involve uncertainty or deception, but may also widen one's sense of identity.
+- psychology: relationships may confuse self-understanding or reveal deeper levels of oneself.
+- body/health: none of the entries supplies a bodily or health claim.
+- social/relationship: unstable counterparts, association with harmful people, visionary ties, and group persuasion are explicit.
+- events/manifestations: involvement in fraudulent activities, foreign-place contacts, and meeting people who sell are examples.
+- conflicts/notes: compassionate rapport is not the shared claim of these entries; association does not by itself prove complicity.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize fraudulent or harmful association. Sandbach includes deeper self-awareness through encounters, while Munkasey includes persuasion and visionary connections without making them necessarily fraudulent.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Node`: compassionate rapport, intuitive relating, and the ability to connect through softness, empathy, or shared ideals. Main caution: blurred boundaries: contact with others can become deceptive, draining, dependent, or hard to define cleanly.
+In Neptune/Asc = Node, Node specifies the pair through encounters whose influence or reliability is uncertain. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries include fraudulent association; [ABC](#abc-entry) adds a weak bond or connection with a disappointed partner (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) describes encounters that either confuse identity or disclose deeper aspects of it, and [Munkasey](#munkasey-entry) adds persuasion and visionary ties. This retains both misleading involvement and potentially enlarging self-understanding, without presuming compassion, harm, or complicity in every connection.
 
 ## Links
 

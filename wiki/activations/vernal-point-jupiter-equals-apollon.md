@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Apollon](../triads/vernal-point-jupiter-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Luck and increase in commerce and industry. Expanded fortune. Fortunate crowds.
 
@@ -42,13 +46,27 @@ Luck and increase in commerce and industry. Expanded fortune. Fortunate crowds.
 
 #### ABC Entry
 
-Money ceremony in public, commercial success in public, commercial law in public life, public money for science, public money trade, public law success, and good luck in public life
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Increase of money in public, commercial success in public, commercial law in public life, public funds for science, public money trading, public legal success, and much good fortune in public life
+
+## Comparative Schema
+
+- core meaning: Expanded public prosperity through trade, industry, law, and science.
+- psychology: Good fortune is emphasized; no separate mental trait is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Fortunate crowds and public support for science extend the collective scope.
+- events/manifestations: Commercial growth, increased money, and legal success.
+- conflicts/notes: The scan reads increase of money, not a money ceremony.
+
+## Contradictions
+
+No direct contradiction is established. Commerce, science funding, and legal success are related examples of public advantage, not requirements that all occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Apollon`: luck and increase in commerce and industry, expanded fortune, and fortunate crowds.
-- Practical expression: money ceremony in public, commercial success in public, commercial law in public life, public money for science, and public money trade.
+In `Vernal Point/Jupiter = Apollon`, public advantage expands through commerce and the institutions that support it. The [Witte entry](#witte-entry) describes growth in trade and industry and fortune shared by crowds. The restored [ABC entry](#abc-entry) gives this a financial and civic form through increased money, commercial law, scientific funding, and legal success. The coherent theme is prosperity operating on a wider public scale.
 
 ## Links
 

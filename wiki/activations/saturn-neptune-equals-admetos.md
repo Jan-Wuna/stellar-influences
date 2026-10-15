@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Admetos](../triads/saturn-neptune-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: printed p. 226; PDF p. 222.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Prevented to unfold. To be always in a mess. A chronic disease which leads to de
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.
+
 #### ABC Entry
 
-Perseverance and patience in the water, depression due to concentration weakness, limitations and insecurity due to pain, Greek concentration on the future, problematic air circulation, and losses in deep water
+Perseverance and patience in water, depression through weakness of concentration, restrictions and insecurity through pains, thorough concentration on the future, problematic air circulation, and losses in deep water.
+
+## Comparative Schema
+
+- core meaning: blocked development and persistent difficulty met by endurance and patience.
+- psychology: weak concentration, depression, insecurity, and thorough attention to the future in ABC.
+- body/health: Witte asserts fatal chronic disease; ABC names pain and problematic air circulation. These remain historical source claims.
+- social/relationship: Neither entry identifies a particular relationship.
+- events/manifestations: restricted development, continuing disorder, and ABC's losses in deep water.
+- conflicts/notes: ABC's Greek concentration was a mistranslation of gründliche Konzentration, thorough concentration.
+
+## Contradictions
+
+- The patience and concentration motifs do not establish resolution of the stated difficulties.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Admetos`: prevented to unfold, to be always in a mess, a chronic disease which leads to death.
-- Practical expression: perseverance, patience in the water, depression due to concentration weakness, limitations, and insecurity due to pain.
+In `Saturn/Neptune = Admetos`, Admetos specifies the Saturn/Neptune axis through blocked development, persistent difficulty, and the patience required within it. [Witte](#witte-entry) describes being prevented from unfolding and remaining in a mess. [ABC](#abc-entry) adds weak concentration, pain-related insecurity, and thorough attention to the future, together with its concrete air and water motifs. Witte's fatal chronic-disease statement remains a historical medical attribution, rather than an outcome established by this formula.
 
 ## Links
 

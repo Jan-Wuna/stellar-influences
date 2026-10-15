@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Zeus](../triads/vernal-point-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ Fruitful deeds. Directed energies. Combustion. Machinery power.
 
 #### ABC Entry
 
-Effortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, creative impulses from publicity, and determined action in the public Life
+- Source reference: printed p. `33`, one-based PDF p. `15`, complete Zeus row.
+
+German passage transcribed from the scan:
+
+> Anstrengende Öffentlichkeits-Arbeit, Arbeits-Leistungen für das öffentliche Leben, Führungs-Arbeit im öffentlichen Leben, öffentliche Arbeits-Ziele, schöpferische Impulse aus der Öffentlichkeit, zielstrebiges Handeln im öffentlichen Leben
+
+Editorial translation: Strenuous public work; work accomplishments for public life; leadership work in public life; public work goals; creative impulses from the public; purposeful action in public life.
+
+## Comparative Schema
+
+- Core meaning: Public effort directed toward an intended result.
+- Psychology: Determination and creative impulses associated with public life.
+- Body/health: Neither entry offers a medical claim.
+- Social/relationship: Work accomplishments and leadership work for public life; no specific interpersonal bond is described.
+- Events/manifestations: Fruitful deeds, demanding public work, combustion, and machinery power.
+- Conflicts/notes: ABC explicitly names leadership work; neither entry specifies a particular office or institution.
+
+## Contradictions
+
+The entries share directed effort. Machinery and combustion in Witte are concrete manifestations beside ABC's public work goals, not competing definitions. ABC adds leadership work alongside public work goals.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Zeus`: fruitful deeds, directed energies, combustion, and machinery power.
-- Practical expression: effortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, and creative impulses from publicity.
+In `Vernal Point/Mars = Zeus`, Zeus makes public activity purposeful: effort and creative impulses are organized toward a work goal and fruitful action. The [Witte Entry](#witte-entry) (PDF p. 42) also names combustion and machinery power, concrete forms of directed energy; the [ABC Entry](#abc-entry) (printed p. 33; PDF p. 15) stresses demanding work and determined action in public life.
 
 ## Links
 

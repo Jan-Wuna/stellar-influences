@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Pluto Poseidon`
 - Astronomicon triad-set: `Y Z ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md)
-- [Neptune/Poseidon = Pluto](../activations/neptune-poseidon-equals-pluto.md)
-- [Pluto/Poseidon = Neptune](../activations/pluto-poseidon-equals-neptune.md)
+- [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md): base axis [Neptune/Pluto](../axes/neptune-pluto.md); activator [Poseidon](../factors/poseidon.md).
+- [Neptune/Poseidon = Pluto](../activations/neptune-poseidon-equals-pluto.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Poseidon = Neptune](../activations/pluto-poseidon-equals-neptune.md): base axis [Pluto/Poseidon](../axes/pluto-poseidon.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `391`
-- `Neptune/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `407`
-- `Pluto/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
-- `Pluto/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md#witte-entry) (PDF entry-start p. 246); [Neptune/Poseidon = Pluto](../activations/neptune-poseidon-equals-pluto.md#witte-entry) (PDF entry-start p. 254); [Pluto/Poseidon = Neptune](../activations/pluto-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 264).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md#abc-entry) (printed p. 391); [Neptune/Poseidon = Pluto](../activations/neptune-poseidon-equals-pluto.md#abc-entry) (printed p. 407); [Pluto/Poseidon = Neptune](../activations/pluto-poseidon-equals-neptune.md#abc-entry) (printed p. 423).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Poseidon`: This activation spiritualizes deep Neptunian-Plutonian change into quiet inner development, secret wisdom, and subtle ideological influence. It shows transformation working below the threshold of ordinary awareness, especially through suggestion, receptivity, and hidden shifts in worldview.
-- `Neptune/Poseidon = Pluto`: This activation transforms subtle belief through crisis, correction, and worldview reversal. It can mark a reforming or missionary impulse in which truth is pursued through error, disillusionment, and deep changes in conviction.
-- `Pluto/Poseidon = Neptune`: This activation emphasizes the slow unnoticeable beginning of a highly mental transformation or development; Creations of the imagination.
+Neptune, Pluto and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Pluto/Poseidon](../axes/pluto-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)

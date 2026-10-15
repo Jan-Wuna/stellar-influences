@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - Triad hub: [Zeus Admetos Vulcanus](../triads/zeus-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
+- PDF page: 295 (one-based).
+
+A great enterprise is started on a small scale with expedients. To lay the foundation for a great work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-beginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, contain fire force, consolidated leadership force, consolidate goals of power, creative circulatory energy, and resistance against the production of force
+- Source page: 457; PDF page: 227 (one-based spread).
+
+Beginning strong depressions, blockage of leadership power, depressive leadership influence, restricted energy output, containing the power of fire, consolidated leadership strength, consolidating power goals, creative circulatory energy, and resistance to the generation of force or violence.
+
+## Comparative Schema
+
+- core meaning: A large undertaking begins within narrow limits, with effort either blocked or consolidated.
+- psychology: ABC names depressive influence and strong depressions; these remain attributed descriptions.
+- body/health: Creative circulatory energy is an undefined ABC expression, not an account of physiology.
+- social/relationship: Leadership power can be blocked or its aims consolidated.
+- events/manifestations: A small beginning lays foundations for major work; energy is restricted and fire contained.
+- conflicts/notes: Restriction and a durable foundation coexist; depression wording supplies no diagnosis.
+
+## Contradictions
+
+Witte emphasizes a small practical foundation for a great enterprise, while ABC includes obstruction, containment and consolidated aims. These are different possibilities within limited activity, not proof that every restriction is productive. The scan removes the stray Witte text "Pee el". ABC's force/violence vocabulary and circulatory-energy image do not specify a mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Vulcanus = Admetos`: A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.
-- Practical expression: beginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, and contain fire force.
+In `Zeus/Vulcanus = Admetos`, Admetos specifies Zeus/Vulcanus through powerful effort confined to a small beginning or a restricted field. The [Witte entry](#witte-entry) makes that limitation a foundation for a great work; the [ABC entry](#abc-entry) also allows blocked leadership, reduced output and containment of fire, alongside consolidated strength and aims. The unifying issue is what concentrated power can establish within limits, while obstruction remains a separate possibility.
+
+ABC's depressive and circulatory expressions stay attributed to that entry. They do not establish a clinical condition or a bodily process.
 
 ## Links
 

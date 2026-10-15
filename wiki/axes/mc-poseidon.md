@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `77`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ The divine spark in men. The own intellectual aspiration for knowledge and educa
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `98`; PDF page: `48` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Gcist soul, I recognize my insight, my idea, my clarity, my culture, my spirituality, my reason, my truth, psychic clarity, soul and spirit, and soul culture
+German pair summary (transcribed from printed page `98`; PDF page `48`):
+
+> Geist-Seele, ich erkenne, meine Einsicht, meine Idee, meine Klarheit, meine Kultur, meine Vergeistigung, meine Vernunft, meine Wahrheit, seelische Klarheit, Seele und Geist, Seelen-Kultur
+
+Editorial translation from the German passage: Spirit-soul, I recognize, my insight, my idea, my clarity, my culture, my spiritualization, my reason, my truth, clarity of the soul, soul and spirit, culture of the soul.
+
+## Comparative Schema
+
+- core meaning: Personal aspiration toward knowledge, education, and a higher self-image ([pair summary](#pair-summary)).
+- psychology: Deep thinking, intellectual skills, clarity, ideas, and truth are the usable shared themes ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- body/health: The summaries provide no medical correspondence; flooding is a separate event association.
+- social/relationship: Education and culture are named, but the entries do not develop a relationship pattern ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- events/manifestations: Giving life to a project or plan is explicit. Witte also lists the moment of a large flooding as a distinct association ([pair summary](#pair-summary)).
+- conflicts/notes: Intellectual aspiration does not prove attainment. Geist-Seele and Seele und Geist are distinct printed expressions; the separate flooding association does not explain the psychological themes.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Gcist soul, I recognize my insight, my idea, my clarity, my culture, my spiritua
 - [MC/Poseidon = Vulcanus](../activations/mc-poseidon-equals-vulcanus.md)
 - [MC/Poseidon = Zeus](../activations/mc-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The pair summary distinguishes being a deep thinker from seeking to become one. Its flooding example remains separate from intellectual and spiritual aspiration. The ABC `Gcist soul` is unresolved OCR; it is preserved without supplying a reconstructed definition.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon` is the axis of the divine spark in the self, intellectual aspiration, higher knowledge, deep thinking, education, and the life direction shaped by mental or spiritual ideals.
-- Chart expression: a refined inner image, the wish to understand and teach, and a personality oriented toward wisdom, cognition, worldview, and giving form or life to ideas, plans, and elevated purposes.
+`MC/Poseidon` concerns the wish to understand and to develop oneself through knowledge, education, and thought. An ideal of what one could become links intellectual aspiration with a higher self-image; the [pair summary](#pair-summary) explicitly includes both deep thinking and the desire to become a deep thinker. Clarity, truth, ideas, and culture in the [ABC summary](#abc-pair-summary) belong to this orientation. Giving life to a project or plan is one practical expression, while the source's separate flooding association does not establish a general psychological or predictive rule.
 
 ## Links
 

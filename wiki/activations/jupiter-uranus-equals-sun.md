@@ -29,6 +29,8 @@ updated_at: 2026-06-20
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Sun`
 - Astronomicon formula: `V/X = S`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -40,17 +42,23 @@ updated_at: 2026-06-20
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden bodily happiness. The little luck of the day. Man enjoying himself well. Day of sudden luck.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Rejoicing in the personal rhythm, mesmerizing Glticks impulses, personal tensions away from money, personal legal event, sudden joy in the day, legal event on the day, technical success of the man, Surprising joy in the day, and unrest in the financial center
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, Sun row.
+
+Joy in one's personal rhythm, human impulses of happiness, personal tensions because of money, a personal legal event, sudden joy during the day, a legal event during the day, a man's technical success, surprising joy during the day, and unrest in the financial center.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0795.
 
 Good intellectual grasp, inventive mind, farsightedness, physical agility or mobility. Sudden physical happiness, birth.
 
@@ -58,7 +66,9 @@ Good intellectual grasp, inventive mind, farsightedness, physical agility or mob
 
 #### Sandbach Entry
 
-To have an enthusiasm for pursuing one’s own independent goals. Egotism ex pressed through a rebelliousness of spirit.
+- Source reference: one-based PDF p. 80, Jupiter/Uranus, Sun paragraph.
+
+To have an enthusiasm for pursuing one’s own independent goals. Egotism expressed through a rebelliousness of spirit.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,6 +76,8 @@ To have an enthusiasm for pursuing one’s own independent goals. Egotism ex pre
 - Source page: `260`
 
 #### Munkasey Entry
+
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
 
 The decisiveness you bring to changing from the ordinary or commonplace in your life to the modern and new; changes in outlook or perspective which help you understand the role of incorporating new ideas in life.
 
@@ -76,26 +88,27 @@ The decisiveness you bring to changing from the ordinary or commonplace in your 
 
 #### Ober Entry
 
+- Source reference: retained one-based PDF p. 126, Jupiter/Uranus Interpretation, Sun example; paraphrase unchanged in this review.
+
 If the Sun is at Jupiter/Uranus, Ober gives sudden mental and physical benefits at different periods throughout life.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden mental or bodily benefit accompanies inventive understanding and enthusiasm for independent goals.
+- psychology: Farsightedness and decisiveness coexist with Sandbach's explicit rebellious egotism.
+- body/health: Witte describes bodily happiness and Ebertin agility, physical happiness and birth; these remain historical source claims rather than a diagnosis.
+- social/relationship: Pursuit of an independent path is explicit; the entries do not establish contempt for ordinary rules.
+- events/manifestations: Technical success, new ideas, daily joy, personal legal events and financial tension are specific examples.
+- conflicts/notes: ABC's money clause means tension because of money; mental/physical benefit does not erase its financial unrest or Sandbach's egotism.
 
 ## Contradictions
 
-- None recorded yet.
+Favorable personal experiences and rebellious egotism concern different dimensions. ABC's financial tension and unrest remain beside joy and technical success; the sources do not state that confidence causes these practical difficulties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Sun`: intellectual agility, enthusiasm for one's own path, sudden happiness, and a self that thrives on new possibilities or unconventional success. Main caution: rebellious egotism: confidence in one's uniqueness can become exaggeration, impatience with limits, or acting as if ordinary rules do not apply.
+`Jupiter/Uranus = Sun` joins inventive understanding with the impulse to pursue an independent course. A change in outlook can make new ideas usable, and fortunate experiences may be felt mentally or physically. The range also includes personal financial tension and a rebellious expression of egotism. [Ebertin](#ebertin-entry), [Witte](#witte-entry) and [Ober](#ober-entry) supply the favorable personal account; [Munkasey](#munkasey-entry) describes decisive change, [Sandbach](#sandbach-entry) the independent drive, and [ABC](#abc-entry) its daily, technical, legal and financial settings.
 
 ## Links
 

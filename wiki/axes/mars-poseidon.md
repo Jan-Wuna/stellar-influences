@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `204`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Ethics. Mental or spiritual activity. Moral behavior. To act according to knowle
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `322`; PDF page: `160` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-eimkhtsvoHes creation, creation of knowledge, mental activity, ideeu actions, creation of clarity, reason--handling, and creation of truth
+German pair summary (transcribed from printed page `322`; PDF page `160`):
+
+> Arbeits-Kultur, einsichtsvolles Schaffen, Erkenntnisse schaffen, geistige Tätigkeit, Handlungen aus Erkenntnis, ideelle Handlungen, klarer Wille, Klarheit schaffen, Kultur-Arbeit, Vernunft-Handlungen, Wahrheit schaffen
+
+Editorial translation from the German passage: Work culture, insightful productive activity, creating insights, mental or spiritual activity, actions arising from insight, idealistic actions, clear will, creating clarity, cultural work, reasonable actions, creating truth.
+
+## Comparative Schema
+
+- core meaning: Action guided by knowledge, understanding, and ethical purpose; see the [Pair Summary](#pair-summary).
+- psychology: Mental or spiritual effort, insightful activity, a clear will and the wish to make things clear are explicit in ABC.
+- body/health: Neither pair entry provides a specific bodily or medical correspondence.
+- social/relationship: Moral behavior and educational work concern conduct toward others; intimate relationship patterns are not separately developed.
+- events/manifestations: Education, mental or spiritual work, and oceanography are explicit examples in the Pair Summary.
+- conflicts/notes: ABC links work culture, insightful activity, clarity, reason, truth and action arising from insight. These remain source expressions without establishing moral superiority.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ eimkhtsvoHes creation, creation of knowledge, mental activity, ideeu actions, cr
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon` is the axis of moralized action, intellectual effort, spiritual activity, and work guided by principle, understanding, or doctrine.
-- Chart expression: action shaped by ethics and ideas: educational work, thoughtful struggle, spiritual or philosophical effort, and practical activity that wants to align behavior with what is known or believed to be right.
+`Mars/Poseidon` connects action with understanding and ethical purpose. Mental or spiritual work becomes something undertaken, taught, or expressed in conduct: the [Pair Summary](#pair-summary) explicitly joins moral behavior, acting according to knowledge, and educational work. Oceanography is a further concrete field named by that entry, without requiring it to explain the other meanings.
+
+The [ABC Pair Summary](#abc-pair-summary) adds insightful productive activity, actions arising from insight, a clear will, and creating clarity or truth. The entries do not establish moral superiority.
 
 ## Links
 

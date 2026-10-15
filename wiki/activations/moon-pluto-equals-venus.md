@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Venus`
 - Astronomicon formula: `R/Z = Q`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Passing harmonious connections to women or girls. Flirtations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `190`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Developing love for women, evolution of women through love, joy at the development of women, peaceful development of a people, transformation of harmonious feelings, unclear feelings of love, insecurity in the love of women, and people art in the Wandel
+Developing love for a woman, evolution of a woman through love, joy in a woman's development, peaceful development of a people, transformation of harmonious feelings, unclear feelings of love, uncertainty in love for a woman, and folk art undergoing change.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0413`.
 
 #### Ebertin Entry
 
 Strong feelings, vivid expression. Desire to forcefully bring about motherhood. Sudden intensification of amorous feeling and emotion.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `36` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Taking delight in the rituals of psychological purification; gaining enjoyment i
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: love or pleasure attaches to heightened emotional intensity and vulnerability.
+- psychology: vivid feeling and delight in emotional depth may include attraction to irrationality or punishment.
+- body/health: Ebertin's desire for motherhood and Munkasey's fascination with removing maternal instincts are psychological themes here, not reproductive predictions.
+- social/relationship: passing flirtations, suddenly intensified affection, and love of extreme vulnerability are distinct examples.
+- events/manifestations: changing love, emotional purification rituals, and changes in folk art are represented.
+- conflicts/notes: enjoyment of punishment is Munkasey's particular claim; intensity does not establish reciprocal, enduring, or beneficial attachment.
 
 ## Contradictions
 
-- None recorded yet.
+- Witte's passing connections and Sandbach's consuming love differ in intensity and duration; neither makes a universal claim that rules out the other. The motherhood-related desires in Ebertin and Munkasey point in different directions and should remain distinct possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Venus`: compelling warmth, enduring attachment, and the ability to love with depth and regenerative power. Main caution: possessive tenderness: affection can become jealous, controlling, or too heavy to remain light and reciprocal.
+Venus specifies the Moon/Pluto pair through pleasure in emotional depth and the intensification of affection. This ranges from Witte's passing harmonious contacts and flirtation to Ebertin's sudden amorous feeling and Sandbach's attraction to extreme vulnerability; depth of feeling alone does not establish permanence ([Witte entry](#witte-entry); [Ebertin entry](#ebertin-entry), printed p. 135; [Sandbach entry](#sandbach-entry)).
+
+The attraction can also fasten on difficult experiences. Munkasey describes delight in psychological purification, punishment, and deep emotional situations. These uncommon claims limit any uniformly comforting reading: the entry describes what becomes compelling, without proving that it is beneficial ([Munkasey entry](#munkasey-entry), p. 132).
 
 ## Links
 

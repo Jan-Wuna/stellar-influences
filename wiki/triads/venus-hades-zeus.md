@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Hades Zeus`
 - Astronomicon triad-set: `Q ¢ £`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Hades/Zeus = Venus](../activations/hades-zeus-equals-venus.md)
-- [Venus/Hades = Zeus](../activations/venus-hades-equals-zeus.md)
-- [Venus/Zeus = Hades](../activations/venus-zeus-equals-hades.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Hades/Zeus](../axes/hades-zeus.md) | Venus | [Hades/Zeus = Venus](../activations/hades-zeus-equals-venus.md) |
+| [Venus/Hades](../axes/venus-hades.md) | Zeus | [Venus/Hades = Zeus](../activations/venus-hades-equals-zeus.md) |
+| [Venus/Zeus](../axes/venus-zeus.md) | Hades | [Venus/Zeus = Hades](../activations/venus-zeus-equals-hades.md) |
 
 ## Source Coverage
 
-- `Hades/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `277`
-- `Hades/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `438`
-- `Venus/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
-- `Venus/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `285`
-- `Venus/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `287`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Hades/Zeus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-zeus-equals-venus.md#witte-entry), one-based PDF entry-start p. `277`.
+- `Hades/Zeus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-zeus-equals-venus.md#abc-entry), printed p. `438`.
+- `Venus/Hades = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-hades-equals-zeus.md#witte-entry), one-based PDF entry-start p. `183`.
+- `Venus/Hades = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-hades-equals-zeus.md#abc-entry), printed p. `285`.
+- `Venus/Zeus = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-zeus-equals-hades.md#witte-entry), one-based PDF entry-start p. `184`.
+- `Venus/Zeus = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-zeus-equals-hades.md#abc-entry), printed p. `287`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Venus`: menial service, ugly conduct by women, and injury to women by fire.
-- `Venus/Hades = Zeus`: to enforce service or to be forced to serve.
-- `Venus/Zeus = Hades`: sorrows through adverse circumstances in service relations.
+The `Venus Hades Zeus` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

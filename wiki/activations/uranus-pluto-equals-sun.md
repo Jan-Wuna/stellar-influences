@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Physical development which commences suddenly. The man who suddenly faces a chan
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 372.
+
 #### ABC Entry
 
 Exciting personal changes, eventful changes in the day, sudden change of person, different body rhythm, changes in a technical center, surprising change of person, and growing personal tensions
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 269, entry 0951.
+
 #### Ebertin Entry
 
 Urge for independence and freedom, untiring creative work, tendency to make the highest demands on one's physical energy, strong emotional tensions. Over-excitement of the nerves, a breakdown, a catastrophe.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 105 (chapter start only; exact entry page not established).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Adds determination to pursue unusual subjects of interest, in such fields as ast
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Sudden development in personal life, bodily routines or goals.
+- psychology: Independence, unusual aims and intense dedication.
+- body/health: Witte describes changed meals; Ebertin historically associates nervous overexcitement and breakdown.
+- social/relationship: Munkasey warns of pursuing one's own ideas to the exclusion of others' needs.
+- events/manifestations: Changed schedules, personal circumstances or direction of effort.
+- conflicts/notes: Retain the concrete nutrition motif alongside broader changes of purpose.
 
 ## Contradictions
 
-- None recorded yet.
+The nutrition and schedule examples are narrower than the other sources' accounts of goals and independence. This is a difference of scope, not proof of contradiction. Ebertin's breakdown and catastrophe language remains an attributed possibility.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Sun`: revolutionary identity, forceful self-reinvention, and the ability to embody major turning points in visible ways. Main caution: ego fused with upheaval: self-expression can become too extreme, destructive, or attached to being the breaker of forms.
+In `Uranus/Pluto = Sun`, Sun specifies sudden development in the person's activities, physical routines and aims. The concrete example is a changed pattern of meals; the wider expression is determination to pursue unusual goals even when events force those goals to change. [Witte](#witte-entry), [ABC](#abc-entry) and [Sandbach](#sandbach-entry) establish this range. [Ebertin](#ebertin-entry) adds strain from demanding too much physical energy, while [Munkasey](#munkasey-entry) warns that dedication can exclude other people's interests.
 
 ## Links
 

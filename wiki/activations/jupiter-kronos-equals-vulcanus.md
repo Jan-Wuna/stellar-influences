@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Kronos = Vulcanus`
 - Astronomicon formula: `V/¤ = §`
 - Axis page: [Jupiter/Kronos](../axes/jupiter-kronos.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 214; printed page 218, Jupiter/Kronos section, Vulcanus row.
+
 To enjoy great influence through fortunate leadership. Great fortune through the power of the state. Fortunate leader of the state. Secretary of state. Chancellor.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special energy of joy, dominant money power, successful state power, successful influence of Hierarchic, financial power of the state, joy over special energy, power advantages of the state, and state law violence
+- Source reference: printed page 339; one-based PDF page 168, Jupiter/Kronos section, Vulcanus row; complete row visually checked.
+
+Special energy of joy, dominant financial power, successful state power, successful exercise of state authority, successful influence of the hierarchy, the state's financial strength, joy over special energy, power advantages of the state, and state legal authority
+
+## Comparative Schema
+
+- core meaning: Influence through fortunate leadership and state power.
+- psychology: Joy and special energy in ABC.
+- body/health: No bodily condition is stated.
+- social/relationship: State leaders, secretary of state and chancellor in Witte; hierarchy and legal authority in ABC.
+- events/manifestations: Financial strength, successful state authority and benefits through state power.
+- conflicts/notes: ABC's Staats-Gewalt and Rechts-Gewalt concern state and legal authority here; the former law-violence wording was misleading.
+
+## Contradictions
+
+Both entries emphasize favorable power and influence. This does not establish that every use of governmental authority is beneficial or that all financial fortune depends on state backing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Vulcanus`: rank backed by concentrated force. It favors commanding public power, heavy institutional influence, and prosperity supported by the full strength of governmental authority.
+In `Jupiter/Kronos = Vulcanus`, [Witte](#witte-entry) links great influence and fortune with successful leadership and the power of the state, naming a secretary of state or chancellor. [ABC](#abc-entry) adds dominant financial power, the state's financial strength, hierarchy and legal authority. Joy and energy accompany those institutional examples. The common theme is effective public power and its financial influence, with the examples retained as possibilities rather than a universal model of prosperity.
 
 ## Links
 

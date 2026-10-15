@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `T/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `169`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Lofty mental qualities. A noble way of thinking. Honorable thinking. Great thoug
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `260`; PDF page: `129` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Awareness of youth, authorship of language, special words, dominance of youth, great traffic, young boss, dominance of opinion, self confidence, language of the boss, speaking of the state, and important language
+German pair summary (transcribed from printed page `260`; PDF page `129`):
+
+> Ansehen der Jugend, Autorität der Sprache, besondere Worte, Dominanz der Jugend, großer Verkehr, junger Chef, Meinungs-Dominanz, selbstbewußtes Denken, Sprache des Chefs, vom Staat sprechen, wichtige Gespräche
+
+Editorial translation from the German passage: Standing of youth, authority of language, particular words, dominance of youth, extensive traffic or communication, young chief, dominance of opinion, self-confident thinking, language of the chief, speaking about the state, important conversations.
+
+## Comparative Schema
+
+- core meaning: Thought and language carrying authority, importance, or an elevated ideal ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Great ideas, honorable thinking, honesty, and confidence in one's judgment are source themes ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- body/health: Neither summary provides a bodily or medical correspondence.
+- social/relationship: Leadership through ideas and the language of officials or a boss are explicit possibilities ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- events/manifestations: Decrees, orders, official letters, state inquiry, and court decisions are named examples ([pair summary](#pair-summary)).
+- conflicts/notes: A noble ideal of thought and institutional authority are distinct strands. ABC's authority of language, standing of youth and dominance of opinion do not make every authoritative statement honorable.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Awareness of youth, authorship of language, special words, dominance of youth, g
 - [Mercury/Kronos = Vulcanus](../activations/mercury-kronos-equals-vulcanus.md)
 - [Mercury/Kronos = Zeus](../activations/mercury-kronos-equals-zeus.md)
 
+## Contradictions
+
+The summaries place honorable thought beside official power without establishing that every authoritative statement is honorable. ABC's authority of language and standing of youth remain distinct source expressions, alongside self-confident thinking and important conversations.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos` is the axis of elevated thought, noble judgment, official communication, decrees, state inquiry, great ideas, and the mental authority to formulate principles or commands.
-- Chart expression: honorable and high-minded intelligence, leadership through ideas, authoritative speech, court or governmental decisions, and a style of thinking that seeks stature, justice, and public consequence.
+`Mercury/Kronos` concerns thought and speech that claim importance or carry authority. The [pair summary](#pair-summary) brings together elevated ideas and honorable thinking with official letters, orders, and court decisions; the [ABC summary](#abc-pair-summary) adds dominant opinion and the language of leaders. Its two strands are an ideal of intellectual integrity and the practical authority to formulate decisions. Their relationship remains open: an official communication can be consequential without fulfilling the source's ideal of noble thought.
 
 ## Links
 

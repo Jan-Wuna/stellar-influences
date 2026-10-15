@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = MC`
 - Astronomicon formula: `T/g = MC`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `141`.
+
 #### Witte Entry
 
-One s own correspondence or exchange of thoughts. One’s own train of thinking. Thought associations.
+One’s own correspondence or exchange of thoughts. One’s own train of thinking. Thought associations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `208`; PDF page: `103`.
+
 #### ABC Entry
 
-I at the mentally connected, my media connections, my communication to the youth, my written connections, my language connections, my connections in the youth, and mental contact communication
+German passage (transcribed from PDF page `103`, printed page `208`):
+
+> Beseelte Gespräche in Verbindungen, ich bin gedanklich verbunden, meine Medien-Verbindungen, meine Beziehung zur Jugend, meine schriftlichen Verbindungen, meine Sprach-Verbindungen, meine Verbindungen in der Jugend, seelische Kontakt-Vermittlung
+
+Editorial translation from the German passage: Soulful conversations within connections; I am mentally connected; my media connections; my relationship with youth; my written connections; my language connections; my connections in youth; facilitating contact at the level of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `168`; entry code: `0553`.
 
 #### Ebertin Entry
 
 Stimulating companions, inclination to associate other people's interests with one's own, desire to be the central figure in negotiations and discussions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `51` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Development of an understanding of how those who share similar interests are abl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: One's own correspondence, thought associations and participation in exchange.
+- psychology: Ebertin describes linking others' interests with one's own and seeking a central role in discussion.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Stimulating companions and groups that enhance prestige are specific examples.
+- events/manifestations: Negotiation, discussion and intentions in giving information recur.
+- conflicts/notes: Sandbach emphasizes spiritual implications of ideas; Munkasey separately emphasizes stature and reputation.
 
 ## Contradictions
 
-- None recorded yet.
+The sources describe different uses of personal connection: private thought associations, shared interests, reputation and spiritual meaning. A career or a tendency to chatter is not required.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = MC`: networked vocation, visible mediation, and career growth through writing, speaking, organizing, or shared plans. Main caution: reputation through chatter: outer role can become too dependent on connection, opinion, or mental busyness rather than depth.
+In `Mercury/Node = MC`, MC makes the connection of thoughts personal: one's own correspondence, mental associations and place in discussion come forward. Ebertin links personal and others' interests, while Munkasey describes groups that can increase stature or reputation and asks about the intention behind giving information. Sandbach gives a separate spiritual use of connecting ideas. The distinction is between participation in exchange and the personal purpose it serves, without requiring a public career ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Connections with the authorities. Diplomatic connections. Connections to issues 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `230`; PDF page: `114` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Respected connections, special links, relations with the state, dominant links, independence in connections, state links, and priority links
+German pair summary (transcribed from printed page `230`; PDF page `114`):
+
+> Angesehene Verbindungen, besondere Verbindungen, Beziehungen zum Staat, dominante Verbindungen, Selbständigkeit in Verbindungen, staatliche Verbindungen, vorrangige Verbindungen
+
+Editorial translation from the German passage: Respected connections, special connections, relationships with the state, dominant connections, independence within connections, state connections, priority connections.
+
+## Comparative Schema
+
+- core meaning: connections distinguished by authority, standing, or exceptional importance ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: independence within connections and dominance are explicit ABC possibilities; the entries do not establish a complete personality profile.
+- body/health: neither pair entry supplies a bodily or medical correspondence.
+- social/relationship: respected or exceptional associations, contacts with extraordinary people, and relations with authorities recur.
+- events/manifestations: diplomatic contacts, state affairs, official connections, and matters of legislation are named settings.
+- conflicts/notes: High standing does not establish a connection's quality or guarantee advancement. Dominance and independence remain distinct possibilities.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Respected connections, special links, relations with the state, dominant links, 
 - [Node/Kronos = Vulcanus](../activations/node-kronos-equals-vulcanus.md)
 - [Node/Kronos = Zeus](../activations/node-kronos-equals-zeus.md)
 
+## Contradictions
+
+Official standing, exceptional contacts, dominance and independence describe different aspects of a connection, with no direct contradiction established.
+
+ABC's complete bold pair list was checked against printed230/PDF114; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos` combines connection, alliance, and shared ties with authority, stature, and high standards.
-- In practice, it most often shows connections with the authorities, along with diplomatic connections.
+`Node/Kronos` describes associations marked out by authority, public standing, or an exceptional person. The [pair summary](#pair-summary) extends from official and diplomatic relations to unusually significant personal connections; the [ABC entry](#abc-pair-summary) adds respected ties and relations with the state. Legislation and diplomacy are concrete settings for this theme, not required features of every relationship.
+
+Status within a connection can also raise questions of dominance and independence, both named by the ABC. The entries therefore support attention to who has authority and how autonomy is maintained, without promising promotion or treating prominence as proof of a good relationship. Third-factor manifestations remain on the oriented activation pages.
 
 ## Links
 

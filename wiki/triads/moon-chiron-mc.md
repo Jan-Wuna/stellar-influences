@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron MC`
 - Astronomicon triad-set: `R Chiron MC`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/MC = Moon](../activations/chiron-mc-equals-moon.md)
-- [Moon/Chiron = MC](../activations/moon-chiron-equals-mc.md)
-- [Moon/MC = Chiron](../activations/moon-mc-equals-chiron.md)
+- [Chiron/MC = Moon](../activations/chiron-mc-equals-moon.md): base axis [Chiron/MC](../axes/chiron-mc.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = MC](../activations/moon-chiron-equals-mc.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [MC](../factors/mc.md).
+- [Moon/MC = Chiron](../activations/moon-mc-equals-chiron.md): base axis [Moon/MC](../axes/moon-mc.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/MC = Moon`: John, page `102`
-- `Moon/Chiron = MC`: John, page `32`
-- `Moon/MC = Chiron`: John, page `40`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/MC = Moon](../activations/chiron-mc-equals-moon.md#sandbach-entry) (PDF chapter-start p. 102; exact entry page unverified); [Moon/Chiron = MC](../activations/moon-chiron-equals-mc.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/MC = Chiron](../activations/moon-mc-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 40; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Moon`: nurturing vocation, healing parenting, and a public role that makes others feel meaningful and capable. Main caution: over-identifying with being needed by everyone.
-- `Moon/Chiron = MC`: One’s path in this lifetime has to do with bringing the warmth of nurturing and love to others in a very pure form, and creating a sense of security wherever one goes.
-- `Moon/MC = Chiron`: Your energy helps others to be more receptive and impressionable to mes sages and impulses coming from the spiritual realms. You also help them to get in touch with how they feel about their place in life and what type of life work would be truly emotionally fulfilling for them.
+Moon, Chiron and MC form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/MC](../axes/chiron-mc.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/MC](../axes/moon-mc.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [MC](../factors/mc.md)

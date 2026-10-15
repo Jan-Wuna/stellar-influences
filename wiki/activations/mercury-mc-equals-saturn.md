@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Saturn MC](../triads/mercury-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 Thinking about separation or travel. Grief. Bereavement. Distress.
 
@@ -45,17 +49,25 @@ Thinking about separation or travel. Grief. Bereavement. Distress.
 
 #### ABC Entry
 
-Thoughts of a mature soul, I mature through speech, I write in old age, I speak hard, my thoughts are cmst, my inhibited thoughts, my mind concentration, my hard youth, mcinc speech problems, and my separation thoughts
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Gedanken einer reifen Seele, ich reife durch Gespräche, ich schreibe im Alter, ich spreche hart, meine Gedanken sind ernst, meine gehemmten Gedanken, meine Gedanken-Konzentration, meine harte Jugend, meine Sprach-Probleme, meine Trennungs-Gedanken
+
+Editorial translation from the German passage: Thoughts of a mature soul; I mature through conversations; I write in old age; I speak harshly; my thoughts are serious; my inhibited thoughts; my concentration of thought; my hard youth; my language problems; my thoughts of separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0572.
 
 A pessimistic outlook, melancholy disposition, love of solitude and deep meditation. Separation, mourning. Abandonment of one's aims in life pursued hitherto.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 Uncertainty about what one thinks. Coming to conclusions slowly and grad ually, oftentimes with much suffering of doubt. The need to be alone to figure out on one’s own what one thinks. A fear or shyness concerning sharing one’s ideas with the world. The feeling that one has a lack of authority figures to guide one’s mind and give one needed information.
 
@@ -70,22 +82,21 @@ Brings a sternness or sense of austerity to your demeanor and self-hood; the sen
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A serious inward outlook shaped by doubt, duty, or separation.
+- psychology: Solitude, slow conclusions, pessimism, and a sense of obligation.
+- body/health: Melancholy and distress are historical source descriptions, not diagnoses.
+- social/relationship: Fear of sharing ideas and a felt lack of guidance.
+- events/manifestations: Mourning or relinquished aims in Ebertin; commitments to completion in Munkasey.
+- conflicts/notes: Munkasey's duty differs from the discouragement of other entries; both remain visible.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's stern obligation and commitments differ from the grief or relinquished aims elsewhere. ABC adds maturity through conversation, serious thought and concentration; these are distinct outcomes of a weighty outlook.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Saturn`: disciplined thought, realistic self-examination, and the capacity to form durable conclusions through patience and austerity. Main caution: pessimism: fear of exposure, melancholy, or discouragement can stall communication, vocation, or the will to pursue prior aims.
+Saturn specifies Mercury/MC through thought that becomes serious, solitary, or burdened. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries emphasize grief, separation, and a pessimistic outlook; [Sandbach](#sandbach-entry) explains slow conclusions, doubt, and reluctance to share ideas. [Munkasey](#munkasey-entry) (p. 184) preserves a different expression in austerity, obligation, and commitments to finishing. The connective theme is weight given to one's thinking and direction, with duty and discouragement kept distinct.
 
 ## Links
 

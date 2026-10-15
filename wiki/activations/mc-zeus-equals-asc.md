@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [Asc MC Zeus](../triads/asc-mc-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Teaching. To help others intellectually. To force one’s own will on others. In
 
 #### ABC Entry
 
-fiery partner schele, I start with others, I shape the environment, inner fire of the partner, my goal !Ur the environment, my efforts with the partner, my pleasures for the environment, and spiritual partner carriage
+- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).
+
+Guide others inwardly, fiery partner-soul, I begin with others, I shape the surroundings, inner fire of the partner, my goal for the surroundings, my efforts with the partner, my achievements for the surroundings, inner guidance of the partner.
+
+## Comparative Schema
+
+- **Core meaning:** Direction and instruction in personal contact.
+- **Psychology:** The urge to guide or impose one's will.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Teaching, intellectual assistance and coercive direction.
+- **Events/manifestations:** Starting with others and shaping the immediate environment.
+- **Conflicts/notes:** ABC names achievements for the surroundings and inner guidance of the partner; Witte retains both helpful instruction and imposing one's will.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 88 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC names achievements for the surroundings and inner guidance of the partner; Witte retains both helpful instruction and imposing one's will.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Asc` brings the axis out through teaching, instruction, and direct personal influence.
-- Chart expression: an instructive presence, active intellectual help, and a habit of guiding others through firm direction that can also become pressure or will-imposition.
+Asc specifies `MC/Zeus` through directing other people: the [Witte Entry](#witte-entry) ranges from teaching and intellectual help to imposing one's will. The [ABC Entry](#abc-entry) adds starting with others, shaping the environment and effort with a partner. Guidance can be helpful or coercive here; neither version should erase the other.
 
 ## Links
 

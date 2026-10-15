@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Mars`
 - Astronomicon formula: `W/Asc = U`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 Compelled to do depressing work. Disgusted with work. Slow to make up one’s mind, slowed action. Death. Obsequies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work in an old place, work problems with others, serious partner work, patience with others at work, stored work at the place, site cancellations through work, problematic environmental work, separation from work at the place, and loss of work at the place
+- Source page: 114 (printed); PDF page: 56.
+
+Work in an old place, work problems with others, serious partnership work, patience with others at work, disturbed work at the place, local disturbances through work, problematic environmental work, separation from work at the place, loss of work at the place.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 260 (printed); PDF page: 262; entry code: 0919.
 
 Taking strong action against depression and inhibition, obstinacy, self-will. Being placed in disquieting or turbulent circumstances, separation, mourning and bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 94 (exact entry text checked; chapter begins on PDF page 94).
 
 Action carried out in a careful, patient, serious manner. The desire and ability to work on your own limitations and inadequacies.
 
@@ -70,22 +82,23 @@ You vacillate between wanting to restrain your impulses and being physically act
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Action and work occur under restraint, ranging from patient effort to aversion or forced inactivity.
+- Psychology: Careful action, self-will, variable patience, and desire to work on limitations.
+- Body/health: Witte's death and obsequies and Ebertin's bereavement are historical extreme examples, not forecasts.
+- Social/relationship: Preference to work alone; separation or bereavement in the severe source range.
+- Events/manifestations: Disrupted work, local work loss, and turbulent circumstances.
+- Conflicts/notes: Patient action differs from work aversion; mourning and death examples remain historical extremes.
 
 ## Contradictions
 
-- None recorded yet.
+Patient action differs from work aversion; mourning and death examples remain historical extremes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Mars`: endurance, disciplined action, and the capacity to hold ground in difficult close-contact situations. Main caution: harshness: pent-up anger or defensive rigidity can turn interactions combative, exhausting, or self-defeating.
+In `Saturn/Asc = Mars`, Mars specifies the pair through the struggle between restraint and action. The [Sandbach entry](#sandbach-entry) describes careful, patient work on one's limitations, while [Munkasey](#munkasey-entry) retains energy and a preference to be alone alongside uneven patience. The [ABC entry](#abc-entry) locates many difficulties in work with others and the local environment.
+
+The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) also preserve aversion to work, obstinate action, turbulent circumstances, and severe separation or bereavement examples. This range cannot be reduced either to disciplined endurance or to a prediction of death.
 
 ## Links
 

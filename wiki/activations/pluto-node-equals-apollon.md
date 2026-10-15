@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Pluto Node Apollon](../triads/pluto-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ New connections with many, with scientists, commerce, trade or industry. Many ch
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 223; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Expansion of a trade connection, successful development of Y bonded, growing links to the economy, changing success in a relationship, knowledge development bonded in Y, and increasing changes in connections
+Editorial translation (checked against the scan): Expansion of a trade connection, successful development of connections, growing connections with the economy, changing success in a relationship, development of knowledge within connections, increasing transformations in connections.
+
+## Comparative Schema
+
+- core meaning: Many or expanding connections, especially in science, commerce, trade, or industry.
+- psychology: Knowledge develops within connections; no fuller individual profile is given.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Scientific and economic contacts and numerous changing ties.
+- events/manifestations: Expanding trade connections, successful development, changing success, and increasing transformations.
+- conflicts/notes: Changing success qualifies the successful-development wording.
+
+## Contradictions
+
+Expansion and success are represented beside changing connections or results; breadth does not guarantee stability.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Node = Apollon`: connections broaden development; New relationships open a wider field of growth or consequence.
-- Practical expression: expansion of a trade connection, successful development of Y bonded, growing links to the economy, changing success in a relationship, and knowledge development bonded in Y.
+Apollon specifies Pluto/Node through connections that become numerous or reach into science and economic activity. The [Witte entry](#witte-entry) names scientists, commerce, trade, and industry, while the [ABC entry](#abc-entry) adds expansion of a trade connection, knowledge developing within ties, and links with the economy. Success can change and connections can remain mobile, so the broader reach does not guarantee a stable or uniformly favorable result.
 
 ## Links
 

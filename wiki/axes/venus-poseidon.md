@@ -66,19 +66,36 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+- PDF page: 189.
+
 Inclinations for mental or spiritual things. Platonic love. Faith. Worldview. Spiritualized love. Love related to a worldwide concept. To be in harmony with the infinite. Idealization of love and harmony. Mental harmony. Peaceful ocean.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Poseidon`
+- Printed pages: `296-297`; PDF page: `147` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-spiritual love, harmonious spirit, clarity in love, arts and culture, love of truth, beauty of culture, jamming love, preference for clarity, and true harmony
+Joy through clarity, a culture of peace, spiritual love, a harmonious spirit, clarity in love, art and culture, love of truth, beauty of culture, love of reason, preference for clarity, and true harmony.
+
+## Comparative Schema
+
+- core meaning: Love and harmony understood through spiritual ideals, truth and clarity ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Faith, worldview, mental harmony, idealization of love and a preference for clear understanding.
+- body/health: Neither pair summary supplies a bodily or medical claim.
+- social/relationship: Platonic and spiritualized love; affection can relate to a worldwide ideal and a culture of peace.
+- events/manifestations: Art and culture express this ideal of beauty. Witte also gives the distinct image "peaceful ocean."
+- conflicts/notes: Idealization is explicit in Witte, while Udo emphasizes truth, reason and clarity. These are differences of emphasis; neither short summary supplies a developed conflict account.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ spiritual love, harmonious spirit, clarity in love, arts and culture, love of tr
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon`: inclinations for mental or spiritual things.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Poseidon` directs affection toward an ideal of spiritual and mental harmony. Platonic love, faith and worldview broaden personal feeling into an idea of love that can include the world as a whole. Udo's emphasis on truth, reason and clarity gives this ideal a further concern with understanding what is loved ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+
+Beauty in art and culture, a culture of peace and joy through clarity are explicit expressions of this theme. Witte also names idealization and harmony with the infinite, with peaceful ocean as a distinct literal image. The entries support these contemplative and cultural meanings, while leaving the practical difficulties of sustaining them undeveloped; idealization does not itself establish truth or guarantee a relationship outcome ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)). Each closing factor requires its own oriented activation.
 
 ## Links
 

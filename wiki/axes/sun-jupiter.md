@@ -17,6 +17,7 @@ related_activations:
   - Sun/Jupiter = Chiron
   - Sun/Jupiter = Cupido
   - Sun/Jupiter = Hades
+  - Sun/Jupiter = Jupiter
   - Sun/Jupiter = Kronos
   - Sun/Jupiter = Mars
   - Sun/Jupiter = MC
@@ -27,6 +28,7 @@ related_activations:
   - Sun/Jupiter = Pluto
   - Sun/Jupiter = Poseidon
   - Sun/Jupiter = Saturn
+  - Sun/Jupiter = Sun
   - Sun/Jupiter = Uranus
   - Sun/Jupiter = Venus
   - Sun/Jupiter = Vernal Point
@@ -75,13 +77,15 @@ updated_at: 2026-06-20
 - Axis: `Sun/Jupiter`
 - Astronomicon axis: `S/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Jupiter/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/JUPITER`
-- Source page: `71`
+- Source heading: `SUN + JUPITER`
+- Source page: PDF p. 106.
 
 #### Pair Summary
 
@@ -91,37 +95,46 @@ Physical happiness. The fortunate man. The cheerful man. The rich or wealthy man
 
 #### ABC Pair Summary
 
-Successful person, successful day, financial man, pleasure of man, money center, glycious man, human joy, personal advantages, personal rights, rights person, rights center, and satisfied man
+- Source page: printed pp. 148–149; PDF p. 73.
+
+Successful person, successful day, financial man, joy of the man, money center, happy person, human joy, personal advantages, personal right, person of law, center of law, satisfied man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source page: printed p. 89; PDF p. 91.
+
 #### Principle
 
-Health, joy, recognition. Psychologica/ Correspondence + Good health, good morał qualities, the urge to climb socially, a reli gious outlook, striving for possessions and power, will to expand. - Materialistic mentality, pretentious, negligent, heedless, extrava gant and squandering, ostentatious. The inclination to spend money unnecessarily. C Creative power, capability to perform record achievements. Biologica/ Correspondence Tissue elements of the organs, particularly of the glands (in contras! to the supporting tissues), regenerative functions of the blood. (Sun/Jupiter is particularly important for the restoration ofhealth). Sociologica/ Correspondence Wealthy people, healthy persons, people of prominence, persons higher up in the social scale than oneself.
+Health, joy, recognition.
 
 #### Psychological Correspondence
 
-- None extracted.
++ Good health, good moral qualities, the urge to climb socially, a religious outlook, striving for possessions and power, will to expand. - Materialistic mentality, pretentious, negligent, heedless, extravagant and squandering, ostentatious. The inclination to spend money unnecessarily. C Creative power, capability to perform record achievements.
 
 #### Biological Correspondence
 
-- None extracted.
+Tissue elements of the organs, particularly of the glands (in contrast to the supporting tissues), regenerative functions of the blood. (Sun/Jupiter is particularly important for the restoration of health).
 
 #### Sociological Correspondence
 
-- None extracted.
+Wealthy people, healthy persons, people of prominence, persons higher up in the social scale than oneself.
 
 #### Probable Manifestations
 
-+ Advancement in life, recognition, success in the materiał or spiri tual sphere. - Contlicts caused by an arrogant and pretentious demeanor, illness through wrong nutrition, differences with people in one's environ ment or with superiors, a person in conflict with the laws of the land or realm. Q/h
++ Advancement in life, recognition, success in the material or spiritual sphere. - Conflicts caused by an arrogant and pretentious demeanor, illness through wrong nutrition, differences with people in one's environment or with superiors, a person in conflict with the laws of the land or realm.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
+- Source locator: PDF pp. `10–11`, complete pair brainstorm ending before Sun/Saturn. Verified line-break word splits are joined; the printed compound hyphens in `Philosopher-clowns` and `self-doubt` are retained.
+
 #### Falis Entry
 
-Believing in you. Having faith that everything will work out. Optimists. Oppor tunists. Self-indulgent. Glutton for attention. Glutton for self-expression. Shining through your generosity. Shining through your beliefs. Shining through your ap petite for learning. Creativity overboard. Fat friars. Broad range of self-expression. Loud laughers. Self-development through education. Self-development through travel. Identifying with a certain philosophy or set of beliefs. Having your identity bound up with your religion. Preachers. Religious zealots. Overly enthusiastic about your own projects, creative pursuits and self-expression. Out of proportion view of your importance. Out of proportion need to be seen and acknowledged. Having an inflated sense of how much your contribution matters in any situation. Extravagant. Self-important. Stretching your personal limits. Too big for your britches. Supreme confidence. Out of proportion confidence. Being full of yourself. Outshining everyone else. Not letting anyone else shine when you are around. Dad was overwhelming and overbearing. Dad seemed to loom larger than life. Dad cast a huge shadow. Dad left big shoes to fill. Dad was an enormously generous and slap happy kind of person. Dad was a preacher, teacher or traveler. Dad was in volved in law or philosophy. Dad had a tendency to lecture. Dad was a teacher or professor. Dad was a gambler. Feeling at one with Lady Luck. Recognizing when opportunity is knocking. Identi fying with gamblers and risk-takers. Expecting to win the lottery any day now. Wait ing for your lucky break. Getting involved in get rich quick schemes. Liking to take shortcuts. Opportunities fall into your lap. Taking your good fortune for granted. Expecting everything to go your way. Identifying with people who fly by the seat of their pants. Identifying with people who seem larger than life. Having the sense that you can accomplish anything. The world is your oyster. Needing to look before you leap. Tending to rely on things working out rather than putting in the effort to make them work out. Good-humored. Light-hearted. Buoyant sense of self. The ability not to take life too seriously. Easygoing sense of self. Generous will. Philan thropists. A prosperous attitude. Assuming an attitude of abundance. Positive affir mations. Affirming your role and path in life. Self-assured. Finding joy in being alive. Radiantly full self-expression. Embracing life to the fullest. Exploring every thing that life has to offer. Strong need to protect anything you see as an extension of yourself. Protecting your identity. Believing in justice. Knowing that things will get better. An enormous sense of loy alty. Long-winded, blustery, preachy, lecturing types. Consumed with finding mean ing in life and fascinated with the meaning of life. Philosophers. Philosopher clowns. Comedians. Intuitive people. Being able to grasp the big picture. Having vision and having the confidence to realize your vision. The ability to banish self doubt. The ability to triumph over life circumstances. Being above pettiness. Living life with gusto. Not having time for trivial details. Wanting to get to the good part. Teachers. Philosophers. Guides. Gurus. Wise Ones. Sages. Conduits for higher consciousness. Consciousness expanders. "Trip" takers. Adventurers and explor ers. You can never have too much of a good thing. Living a life of excess. Living large. Fat Cats. Having a big heart.
+Believing in you. Having faith that everything will work out. Optimists. Opportunists. Self-indulgent. Glutton for attention. Glutton for self-expression. Shining through your generosity. Shining through your beliefs. Shining through your appetite for learning. Creativity overboard. Fat friars. Broad range of self-expression. Loud laughers. Self-development through education. Self-development through travel. Identifying with a certain philosophy or set of beliefs. Having your identity bound up with your religion. Preachers. Religious zealots. Overly enthusiastic about your own projects, creative pursuits and self-expression. Out of proportion view of your importance. Out of proportion need to be seen and acknowledged. Having an inflated sense of how much your contribution matters in any situation. Extravagant. Self-important. Stretching your personal limits. Too big for your britches. Supreme confidence. Out of proportion confidence. Being full of yourself. Outshining everyone else. Not letting anyone else shine when you are around. Dad was overwhelming and overbearing. Dad seemed to loom larger than life. Dad cast a huge shadow. Dad left big shoes to fill. Dad was an enormously generous and slap happy kind of person. Dad was a preacher, teacher or traveler. Dad was involved in law or philosophy. Dad had a tendency to lecture. Dad was a teacher or professor. Dad was a gambler. Feeling at one with Lady Luck. Recognizing when opportunity is knocking. Identifying with gamblers and risk-takers. Expecting to win the lottery any day now. Waiting for your lucky break. Getting involved in get rich quick schemes. Liking to take shortcuts. Opportunities fall into your lap. Taking your good fortune for granted. Expecting everything to go your way. Identifying with people who fly by the seat of their pants. Identifying with people who seem larger than life. Having the sense that you can accomplish anything. The world is your oyster. Needing to look before you leap. Tending to rely on things working out rather than putting in the effort to make them work out. Good-humored. Light-hearted. Buoyant sense of self. The ability not to take life too seriously. Easygoing sense of self. Generous will. Philanthropists. A prosperous attitude. Assuming an attitude of abundance. Positive affirmations. Affirming your role and path in life. Self-assured. Finding joy in being alive. Radiantly full self-expression. Embracing life to the fullest. Exploring everything that life has to offer. Strong need to protect anything you see as an extension of yourself. Protecting your identity. Believing in justice. Knowing that things will get better. An enormous sense of loyalty. Long-winded, blustery, preachy, lecturing types. Consumed with finding meaning in life and fascinated with the meaning of life. Philosophers. Philosopher-clowns. Comedians. Intuitive people. Being able to grasp the big picture. Having vision and having the confidence to realize your vision. The ability to banish self-doubt. The ability to triumph over life circumstances. Being above pettiness. Living life with gusto. Not having time for trivial details. Wanting to get to the good part. Teachers. Philosophers. Guides. Gurus. Wise Ones. Sages. Conduits for higher consciousness. Consciousness expanders. "Trip" takers. Adventurers and explorers. You can never have too much of a good thing. Living a life of excess. Living large. Fat Cats. Having a big heart.
 
 ### Charles Carter - The Astrological Aspects
+
+- Source locator: printed/PDF pp. `12–14`, complete aspect categories and Examples ending before Sun/Saturn.
+- Editorial note: the actual source forms `high beneficent`, `self-opiniated`, `Sullvian`, and `Bismark`, and the absent stop after the quoted `stunts`, are retained as printed.
 
 #### Harmonious Aspects
 
@@ -173,6 +186,8 @@ The effects on the health are chiefly due to imprudence and excess in diet and t
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF pp. 12–13.
+
 #### Principle
 
 Optimism concerning the reaching of goals. Vibrant enthusiasm with a meaningful focus. Self-confidence which leads to success. Having too many agendas. Either being arrogantly self-confident or seeming that way. Seeming egotism as a cover for feelings of worthlessness. This combination often causes residual jealousy coming from other people.
@@ -222,7 +237,7 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Jupiter: Self- Assurance`
-- PDF page(s): `283`
+- PDF page(s): `283–284`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -230,8 +245,8 @@ Your personal vitality and vigor; excessive cholesterol deposits in the heart ar
 - shadow: The Megalomaniac and the Self-Righteous Man
 - comparison: Essence Meaning Will Success Magnanimity High-mindedness Fame Honor Development of the self Development of meaning
 - general: Self-assurance . Designing one's life with optimism and confidence . Going through life with luck and success . The meaning of life .
-- harmony: The Respectable Person. A talent for happiness and the feeling of being chosen. Optimistic feeling for life that is full of self- assurance and also passed on to others. Always interested in expansion, improvement, growth, and promotion. Creative, capable of enthusiasm, tolerant, trustworthy, demanding, generous, kind, and humane.
-- discord: The Fat Soul. Self-satisfied in judging oneself and one's own achievements. Is too good and fine for everything. Pomposity, wastefulness, and smugness that can be intolerable because of a constant concern about appearing in the light of the imaginary greatness. Emotional and physical fatness. Unreliable, indolent, conceited, demanding.
+- harmony: The Respectable Person. A talent for happiness and the feeling of being chosen. Optimistic feeling for life that is full of self- assurance and also passed on to others. Always interested in expansion, improvement, growth, and promotion. Creative, capable of enthusiasm, tolerant, trustworthy, demanding, generous, kind, and humane. Inner and outer dignity, noble sentiments, and always concerned with living and acting in an ethically faultless manner.
+- discord: The Fat Soul. Self-satisfied in judging oneself and one's own achievements. Is too good and fine for everything. Pomposity, wastefulness, and smugness that can be intolerable because of a constant concern about appearing in the light of the imaginary greatness. Emotional and physical fatness. Unreliable, indolent, conceited, demanding. Exaggerated attitude of expectation toward life. Con games. Collects all attributes that promise to increase one's own value.
 
 ### Aren Ober - Midpoint Interpretation Simplified
 
@@ -244,12 +259,12 @@ Ober treats Sun/Jupiter as the `success` midpoint and gives its reusable axis fi
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Joy, confidence, growth, and recognition, with development possible through material achievement, learning, or spiritual meaning. ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Hand](#pair-delineation))
+- psychology: Generosity, enthusiasm, and a broad sense of possibility can become self-importance, excessive promises, or confidence unsupported by effort. ([Falis](#falis-entry), [Munkasey, source p. 71](#basic-ideas))
+- body/health: Well-being and vitality recur alongside overweight or corpulence. Ebertin's regenerative and glandular claims, Carter's dietary and liver claims, and Munkasey's heart and liver claims remain historical astrological correspondences. ([pair summary](#pair-summary), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Carter](#inharmonious-aspects), [Munkasey](#with-body-or-mind))
+- social/relationship: Encouragement, respected judgment, and pleasure in companionship contrast with monopolizing attention or neglecting a partner's needs. ([Munkasey, source p. 71](#in-your-relationships))
+- events/manifestations: Intellectual or creative achievement, education, recognition, and financial or social opportunity are included; imprudence can instead bring legal or financial entanglement. ([Carter](#charles-carter---the-astrological-aspects), [Ebertin](#probable-manifestations))
+- conflicts/notes: Carter's harmonious-aspect account emphasizes modest needs, intellectual satisfaction, and little travel; wealth, ambition, and adventure are therefore not uniform pair meanings. Aspect conditions do not specify a third-factor activation. ([Carter](#harmonious-aspects))
 
 ## Related Activations
 
@@ -259,6 +274,7 @@ Ober treats Sun/Jupiter as the `success` midpoint and gives its reusable axis fi
 - [Sun/Jupiter = Chiron](../activations/sun-jupiter-equals-chiron.md)
 - [Sun/Jupiter = Cupido](../activations/sun-jupiter-equals-cupido.md)
 - [Sun/Jupiter = Hades](../activations/sun-jupiter-equals-hades.md)
+- [Sun/Jupiter = Jupiter](../activations/sun-jupiter-equals-jupiter.md)
 - [Sun/Jupiter = Kronos](../activations/sun-jupiter-equals-kronos.md)
 - [Sun/Jupiter = Mars](../activations/sun-jupiter-equals-mars.md)
 - [Sun/Jupiter = MC](../activations/sun-jupiter-equals-mc.md)
@@ -269,6 +285,7 @@ Ober treats Sun/Jupiter as the `success` midpoint and gives its reusable axis fi
 - [Sun/Jupiter = Pluto](../activations/sun-jupiter-equals-pluto.md)
 - [Sun/Jupiter = Poseidon](../activations/sun-jupiter-equals-poseidon.md)
 - [Sun/Jupiter = Saturn](../activations/sun-jupiter-equals-saturn.md)
+- [Sun/Jupiter = Sun](../activations/sun-jupiter-equals-sun.md)
 - [Sun/Jupiter = Uranus](../activations/sun-jupiter-equals-uranus.md)
 - [Sun/Jupiter = Venus](../activations/sun-jupiter-equals-venus.md)
 - [Sun/Jupiter = Vernal Point](../activations/sun-jupiter-equals-vernal-point.md)
@@ -277,15 +294,14 @@ Ober treats Sun/Jupiter as the `success` midpoint and gives its reusable axis fi
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The broad growth and abundance motifs do not erase Carter's explicit qualification: harmonious Sun-Jupiter aspects can describe a quiet, intellectually rich life with modest possessions and little interest in travel. His restless, hazard-seeking description belongs to the inharmonious aspect family. These qualifications limit any blanket promise of wealth or adventure; they do not assign those aspect families to this midpoint axis. ([Carter](#charles-carter---the-astrological-aspects))
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter` is the axis of confident growth, recognition, vitality, success, and the urge to enlarge life through faith, meaning, opportunity, and achievement. It combines self-expression with optimism, generosity, status, and the will to rise.
-- Chart expression: a naturally affirmative life-current: enthusiasm, leadership, creative confidence, prosperity-mindedness, social or professional advancement, and the sense that life should open outward. When distorted, the same pattern can become arrogance, grandiosity, waste, imprudence, or dependence on luck and applause.
+`Sun/Jupiter` describes personal life enlarged by confidence, enjoyment, and a sense of meaning. Optimism encourages learning, creative achievement, generosity, and the development of judgment that others can respect. Recognition and material opportunity belong to this field, but so does growth in understanding or spiritual purpose. In relationships, the same affirmative current can become encouragement and pleasure in one another's company. ([Hand](#pair-delineation), [Munkasey, source p. 71](#basic-ideas), [relationship entries](#in-your-relationships))
+
+The distinction is between confidence that sustains worthwhile development and self-importance that outruns facts, effort, or consideration for others. The latter appears as overpromising, extravagance, imprudence, and dependence on being admired. The range also includes quiet intellectual contentment: Carter specifically resists equating harmonious Sun-Jupiter contacts with wealth, restless travel, or strong worldly ambition. Success is therefore a broad theme, not a guarantee of riches, health, or any particular event; bodily claims remain attributed source correspondences. ([Falis](#falis-entry), [Carter's qualification](#harmonious-aspects), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences))
 
 ## Links
 

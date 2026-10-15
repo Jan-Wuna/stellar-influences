@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Moon`
 - Astronomicon triad-set: `VP S R`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Moon = Vernal Point](../activations/sun-moon-equals-vernal-point.md)
-- [Vernal Point/Moon = Sun](../activations/vernal-point-moon-equals-sun.md)
-- [Vernal Point/Sun = Moon](../activations/vernal-point-sun-equals-moon.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Moon = Vernal Point](../activations/sun-moon-equals-vernal-point.md) | [Sun/Moon](../axes/sun-moon.md) | Vernal Point |
+| [Vernal Point/Moon = Sun](../activations/vernal-point-moon-equals-sun.md) | [Vernal Point/Moon](../axes/vernal-point-moon.md) | Sun |
+| [Vernal Point/Sun = Moon](../activations/vernal-point-sun-equals-moon.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Moon |
 
 ## Source Coverage
 
-- `Sun/Moon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `138`
-- `Vernal Point/Moon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
-- `Vernal Point/Moon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `24`
-- `Vernal Point/Sun = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `22`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Moon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `101`.
+- `Sun/Moon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-vernal-point.md#abc-entry), printed p. `138`.
+- `Vernal Point/Moon = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-moon-equals-sun.md#witte-entry), one-based PDF entry-start p. `38`.
+- `Vernal Point/Moon = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-moon-equals-sun.md#abc-entry), printed p. `24`.
+- `Vernal Point/Sun = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-moon.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Moon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-moon.md#abc-entry), printed p. `22`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Moon = Vernal Point`: This formula emphasizes the person appearing vividly in the immediate environment and circumstance mirroring the self.
-- `Vernal Point/Moon = Sun`: This formula emphasizes sensitivity of the body, a man’s woman, and a women.
-- `Vernal Point/Sun = Moon`: This formula emphasizes bodies of female persons, friendships with female persons, and the day and the hour in public life.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

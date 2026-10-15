@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Moon Mars Vulcanus](../triads/moon-mars-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Clever, energetic people. Strong persons who can become violent. Physically strong acting female.
 
@@ -42,13 +46,27 @@ Clever, energetic people. Strong persons who can become violent. Physically stro
 
 #### ABC Entry
 
-One stop shopping activities, violence activities of a people, violence acting against women, force work of a woman, power will of a woman, strong action of a struggle, force of a strong people, will involvement of a woman, and will power of a people
+Source: “Mars + Vulkanus,” printed p. 320 (PDF p. 159).
+
+Influential emotional activity, violent activity by a people, violence against a woman, a woman's forceful work, a woman's will for power, strong emotional actions, the active strength of a strong people, a woman's influence on the will, and a people's willpower.
+
+## Comparative Schema
+
+- core meaning: Powerful activity expressed through feelings, energetic people, and collective will.
+- psychology: Strong emotional actions and influence on the will.
+- body/health: Witte includes physical strength in historically gendered terms; no diagnosis is supplied.
+- social/relationship: Women's power and work, a people's activity, and violence by a people or against a woman are distinct source examples.
+- events/manifestations: Energetic action, influential emotional activity, and collective strength.
+- conflicts/notes: Historical gender and violence claims remain attributed; emotional or physical strength does not establish dangerousness.
+
+## Contradictions
+
+Both entries include strength and possible violence. ABC also develops emotional influence and collective will, rather than describing only physically forceful people.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Moon` embodies strong force in people, especially in practical or physical responsiveness.
-- Chart expression: clever and energetic people, strong personalities capable of violence, and in particular physically forceful or powerfully acting women.
+In `Mars/Vulcanus = Moon`, Moon specifies powerful effort through emotional action, energetic people, and collective will. Witte names clever, strong, active people, including a physically strong woman; ABC adds influential feelings, women's work and will, and a people's active strength. Their historical examples also include violence by a people and violence against a woman. Those distinct roles remain visible without turning strength, feeling, or gender into a judgment of violent character. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 320 / PDF p. 159)
 
 ## Links
 

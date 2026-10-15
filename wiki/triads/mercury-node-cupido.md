@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Node Cupido`
 - Astronomicon triad-set: `T g ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Cupido = Node](../activations/mercury-cupido-equals-node.md)
-- [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md)
-- [Node/Cupido = Mercury](../activations/node-cupido-equals-mercury.md)
+- [Mercury/Cupido = Node](../activations/mercury-cupido-equals-node.md): base axis [Mercury/Cupido](../axes/mercury-cupido.md); activator [Node](../factors/node.md).
+- [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md): base axis [Mercury/Node](../axes/mercury-node.md); activator [Cupido](../factors/cupido.md).
+- [Node/Cupido = Mercury](../activations/node-cupido-equals-mercury.md): base axis [Node/Cupido](../axes/node-cupido.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
-- `Mercury/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `254`
-- `Mercury/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `209`
-- `Node/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `224`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Cupido = Node](../activations/mercury-cupido-equals-node.md#witte-entry) (PDF entry-start p. 166); [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md#witte-entry) (PDF entry-start p. 141); [Node/Cupido = Mercury](../activations/node-cupido-equals-mercury.md#witte-entry) (PDF entry-start p. 149).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Cupido = Node](../activations/mercury-cupido-equals-node.md#abc-entry) (printed p. 254); [Mercury/Node = Cupido](../activations/mercury-node-equals-cupido.md#abc-entry) (printed p. 209); [Node/Cupido = Mercury](../activations/node-cupido-equals-mercury.md#abc-entry) (printed p. 224).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Node`: socializes the axis through communities, agencies, and shared artistic ideas.
-- `Mercury/Node = Cupido`: socializes the axis through courtship, associates, entertainment, and art.
-- `Node/Cupido = Mercury`: A marriage proposal. A letter of invitation.
+Mercury, Node and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Mercury/Node](../axes/mercury-node.md)
+- [Node/Cupido](../axes/node-cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)

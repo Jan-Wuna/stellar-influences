@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Uranus Asc Cupido](../triads/uranus-asc-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 88.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To get married suddenly. Exciting events in the home.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 117; PDF p. 57.
+
 #### ABC Entry
 
 Dynamic partner community, excited local community, shared surprises on the spot, community for environmental technology, rhythmic partner community, technical community on the spot, and unrest in the shared environment
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Sudden events within a home, partnership or local community.
+- psychology: Excitement and shared surprise.
+- body/health: No bodily condition is given.
+- social/relationship: Sudden marriage and dynamic partner or local communities.
+- events/manifestations: Domestic events and technical or environmental associations.
+- conflicts/notes: Marriage is one source example; group activity is not confined to intimate relationships.
+
+## Contradictions
+
+Witte gives sudden marriage and exciting home events. ABC adds local community, shared rhythm and environmental technology, including unrest. These are distinct shared settings without a promised marriage or a necessary disruption.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Asc = Cupido`: To get married suddenly. Exciting events in the home.
-- Practical expression: dynamic partner community, excited local community, shared surprises on the spot, community for environmental technology, and rhythmic partner community.
+In `Uranus/Asc = Cupido`, Cupido specifies unexpected interaction as an event within a shared home, partnership or community. [Witte](#witte-entry) gives sudden marriage and exciting domestic events. [ABC](#abc-entry) extends this to local groups, shared surprises and technical or environmental associations. Shared rhythm can accompany the excitement, while unrest in the common environment remains possible.
 
 ## Links
 

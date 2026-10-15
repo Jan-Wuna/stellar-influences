@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Venus Mars Zeus](../triads/venus-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Intimate relations with military matters. Hospitals, military physicians. Passionate sensuality.
 
@@ -42,13 +46,27 @@ Intimate relations with military matters. Hospitals, military physicians. Passio
 
 #### ABC Entry
 
-Effortful peace activity, work performance in the arts, joyful creative activity, working on peace objectives, work artistic work design, artistic work objectives, preference for work with fire, and will for love witnessing
+Source: “Mars + Zeus,” printed p. 312 (PDF p. 155).
+
+Strenuous peace activity, work achievements in art, joyful creative activity, working toward peace goals, harmonious work design, artistic work goals, preference for work with fire, and will toward procreation in love.
+
+## Comparative Schema
+
+- core meaning: Creative or directed activity through sensuality, art, harmony, and peace work.
+- psychology: Joy in creation and preference for fire work in ABC's entry.
+- body/health: Witte names hospitals and military physicians as settings, without a diagnosis.
+- social/relationship: Passionate sensuality, close involvement with military matters, and procreative will in love.
+- events/manifestations: Artistic achievement, harmonious work design, and effort toward peace goals.
+- conflicts/notes: Military/medical settings and peace work remain distinct examples; no healing outcome is established.
+
+## Contradictions
+
+Witte emphasizes sensuality and military or medical connections; ABC also emphasizes art, harmonious work, and peace. These settings remain side by side.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Venus` softens the axis through intimacy, care, and sensuality while keeping a martial or technical undertone.
-- Chart expression: passionate attraction mixed with military or medical settings, and to pleasure, relationship, or healing connected with forceful or duty-bound contexts.
+In `Mars/Zeus = Venus`, Venus specifies directed and creative effort through sensuality, art, and efforts toward harmony or peace. Witte names passionate sensuality and close connections with military matters, hospitals, or military physicians. ABC also supplies joyful creation, artistic goals, harmonious work design, and peace work, with fire work and procreative will in love as particular examples. Their distinct settings support a wider range than intimacy in military life alone, without implying a medical or healing outcome. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 312 / PDF p. 155)
 
 ## Links
 

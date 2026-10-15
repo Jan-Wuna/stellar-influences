@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Zeus = Apollon`
 - Astronomicon formula: `R/£ = ¥`
 - Axis page: [Moon/Zeus](../axes/moon-zeus.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `132` (entry start; one-based).
+
 #### Witte Entry
 
 Increase in working hours. Extension of production.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `197`, PDF p. `97` (entry).
+
 #### ABC Entry
 
-Efforts of people science, experiences of a creative gemitt, success of a leading woman, successful design of an hour, gebar success of a woman, trade achievements of a people, and scientific achievements of a woman
+Efforts in a people's science, experiences of a creative disposition, a leading woman's success, successful shaping of an hour, a woman's success in childbirth, a people's commercial achievements, and a woman's scientific achievements
+
+## Comparative Schema
+
+- core meaning: expanded working time or production and achievement in creative, commercial, or scientific activity.
+- psychology: experience of a creative disposition is named without a broader personality account.
+- body/health: ABC's childbirth-success example is a historical association, not a health or fertility prediction.
+- social/relationship: a successful leading woman is one example alongside collective achievement.
+- events/manifestations: extended production, commerce, scientific work, and successful shaping of an hour are stated.
+- conflicts/notes: longer hours and successful achievement are distinct claims; added work time does not by itself prove success.
+
+## Contradictions
+
+Witte gives increased hours and production; ABC supplies examples of achievement. The entries do not assert that longer working time necessarily causes those successes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus = Apollon`: Increase in working hours. Extension of production.
-- Practical expression: efforts of people science, experiences of a creative gemitt, success of a leading woman, successful design of an hour, and gebar success of a woman.
+In Moon/Zeus = Apollon, Apollon specifies the pair through expanded work and a wider field of achievement. The [Witte entry](#witte-entry) names longer working hours and extended production; [ABC](#abc-entry) adds commercial and scientific achievements, creative experience, and a leading woman's success (printed p. 197, PDF p. 97). Its childbirth example remains a specific historical association. These entries connect the orientation with productive scope without making hours worked a guarantee of results.
 
 ## Links
 

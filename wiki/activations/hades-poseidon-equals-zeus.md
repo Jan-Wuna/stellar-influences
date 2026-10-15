@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Hades/Poseidon = Zeus`
 - Astronomicon formula: `¢/¨ = £`
 - Axis page: [Hades/Poseidon](../axes/hades-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 286, Hades + Poseidon, oriented activator row.
+
 Through isolation or separation to become the target of hate and spitefulness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dangerous mental objective, mental achievements in old age, spiritual ministry, lack of spiritual aim, lack of clarity of movement, creative culture of the past, and attesting hidden truths
+- Source reference: printed p. 449; one-based PDF p. 223, Hades + Poseidon, Zeus row.
+
+Dangerous intellectual or spiritual goal setting, intellectual or spiritual accomplishments in old age, intellectual or spiritual leadership service, lack of intellectual or spiritual pursuit of goals, deficient clarity of leadership, creative culture of the past, and bearing witness to hidden truths.
+
+## Comparative Schema
+
+- Core meaning: Mental separation becomes a target, or intellectual purpose takes a concealed or difficult form ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry), printed p. 449).
+- Psychology: Witte names others' hate and spite; ABC also describes lack of intellectual or spiritual pursuit of goals.
+- Body/health: Neither entry specifies bodily injury or a diagnosis.
+- Social/relationship: Targeted hostility is Witte's explicit relational manifestation.
+- Events/manifestations: Intellectual achievement in old age, past creative culture, and attesting hidden truths occur in ABC.
+- Conflicts/notes: ABC gives deficient clarity of leadership rather than movement, alongside leadership service and a lack of goal pursuit. These examples do not imply a particular public office or religious ministry.
+
+## Contradictions
+
+Witte emphasizes hostility received; ABC includes intellectual achievements and service. Those different emphases do not make all mental purpose an act of aggression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Poseidon = Zeus`: difference drawing aimed hostility. It can show ideological targeting, deliberate opposition, and aggression provoked by the very fact of standing mentally apart.
+In `Hades/Poseidon = Zeus`, Zeus specifies the Hades/Poseidon pair through targeting and intellectual purpose. The [Witte Entry](#witte-entry) makes separation the reason a person becomes a target of hate or spite. The [ABC Entry](#abc-entry) also includes accomplishments in old age, leadership service, creative culture from the past and bearing witness to hidden truths, beside dangerous goal setting, lack of goal pursuit and deficient clarity of leadership. Received hostility and purposeful cultural work remain distinct strands.
 
 ## Links
 

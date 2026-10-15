@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Apollon = Neptune`
 - Astronomicon formula: `V/¥ = Y`
 - Axis page: [Jupiter/Apollon](../axes/jupiter-apollon.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: PDF p. 215.
+
 Lucky prophecy, also disappointed of prophecy. The uncertain fortune of future.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Luck and success through fine tuning, exchangeable experience, foreign legal knowledge, success through intuition, growth, uncertainty in money trading, and foreign legal uncertainty
+- Source reference: printed p. 341; PDF p. 169.
+
+Happiness and success through sensitivity, disappointing legal experiences, success through metaphysical knowledge, foreign legal knowledge, legal success through intuition, gradual increase of money, uncertainty in money trading, and widespread legal uncertainty.
+
+## Comparative Schema
+
+- Core meaning: Success and uncertainty can coexist in foresight, finance or law.
+- Psychology: Sensitivity, intuition, and disappointment.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Foreign legal knowledge and widespread legal uncertainty.
+- Events/manifestations: Fulfilled or disappointed prophecy, metaphysical success, and gradual money increase.
+- Conflicts/notes: Successful intuition does not certify a forecast; uncertainty remains explicit.
+
+## Contradictions
+
+Witte explicitly allows both fortunate and disappointed prophecy; ABC likewise retains intuitive success beside legal or financial uncertainty.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Neptune`: optimism and foresight mixed with ambiguity. It can show inspired expectation, but also the risk that vision outruns what can actually be secured.
+In `Jupiter/Apollon = Neptune`, Neptune specifies the Jupiter/Apollon axis through sensitive or intuitive success alongside uncertain forecasts, trade, and legal experience. Sensitivity, metaphysical knowledge and intuition are given as routes to success, while legal experience or money trading may remain disappointing or uncertain. The prophetic range is expressly mixed: a prediction can prove fortunate or disappoint. This combination therefore concerns perceptive possibility under uncertainty, retaining gradual financial increase without promising that every expectation becomes secure. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

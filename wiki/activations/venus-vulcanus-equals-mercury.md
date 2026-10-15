@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Mercury`
 - Astronomicon formula: `Q/§ = T`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Mercury row; actual glyph and neighboring rows checked.
+
 Mighty longing for exchange of thoughts with friends and acquaintances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports of violence in love, influence of the female youth, influential thoughts of love, joy of youth in violence, prefer powerful thoughts, strong ones through harmonious thinking, strengthening of a young love, and words about the power of love
+- Source reference: printed p. 294; one-based PDF p. 146, Venus/Vulcanus, Mercury row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: Reports about force or violence in love, influence of female youth, influential thoughts of love, young people's joy in force or violence, preferring powerful thoughts, strength through harmonious thinking, strengthening of a young love, and words about the power of love.
+
+## Comparative Schema
+
+- core meaning: Strong desire for communication and influential thoughts about love.
+- psychology: Longing to exchange ideas, preference for powerful thoughts and strength through harmonious thinking.
+- body/health: No bodily or medical condition is supplied.
+- social/relationship: Conversation with friends and acquaintances; young love in ABC.
+- events/manifestations: Words about love's power and reports of force or violence in love.
+- conflicts/notes: ABC's female-youth and young-people clauses remain attributed historical claims. Gewalt retains force/power or violence rather than a universal description of youth.
+
+## Contradictions
+
+Friendly exchange, harmonious thinking and force-or-violence reports concern different contents of communication. Neither determines every speaker's character.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Mercury`: mighty longing for exchange of thoughts with friends and acquaintances.
-- Practical expression: reports of violence in love, influence of the female youth, influential thoughts of love, oy of youth in violence, and prefer powerful thoughts.
+In `Venus/Vulcanus = Mercury`, attraction finds expression in a strong urge to exchange thoughts. The [Witte entry](#witte-entry) locates that longing among friends and acquaintances; the [ABC entry](#abc-entry) adds influential love thoughts, strength through harmonious thinking and words about love's power. Its strengthening of young love and female-youth examples remain attributed, alongside reports of force or violence in love and young people's joy in force or violence. Strong communication does not make those historical youth claims universal or imply that every exchange is violent.
 
 ## Links
 

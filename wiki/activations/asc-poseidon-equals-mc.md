@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `Asc/¨ = MC`
 - Axis page: [Asc/Poseidon](../axes/asc-poseidon.md)
 - Triad hub: [Asc MC Poseidon](../triads/asc-mc-poseidon.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -38,16 +39,29 @@ updated_at: 2026-05-04
 
 To exchange mentally and spiritually with others. Mental influence through others.
 
+Source reference: one-based PDF page 98, Ascendant + Poseidon, MC row.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Besekltc environment Culture, bcselter culture place, my insightful partner, my cultural place, my spiritual partner, my insights from the partner, my cultivated environment, my environmental fdeen, and truth mcines partner
+Ensouled culture in the surroundings, an ensouled cultural place, my insightful partner, my cultural place, my spiritualized partner, my insights from the partner, my cultivated surroundings, my ideas concerning the surroundings, and truth of my partner.
+
+Source reference: printed page 136, one-based PDF page 67, Aszendent + Poseidon, MC row. “Beseelte” and “beseelter” retain ensouled; “vergeistigter” retains spiritualized. The entry gives no further mechanism for these terms.
+
+## Comparative Schema
+
+- **Core meaning:** Personal mental or spiritual exchange, with influence and insight received through others.
+- **Psychology:** One's ideas and insights are placed in relation to an insightful or spiritualized partner.
+- **Body/health:** Neither entry supplies a bodily or health delineation.
+- **Social/relationship:** Exchange with others and mental influence through them; ABC specifies my partner and the partner's truth.
+- **Events/manifestations:** A cultural place and cultivated or ensouled culture in one's surroundings.
+- **Conflicts/notes:** The entries overlap in exchange and influence. They do not specify a vocation, teaching role or dependence on others' opinions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = MC`: formative conversations, a vocation colored by ideas or teaching, and an environment where one's development is strongly guided by what others think or know. Main caution: overreliance on borrowed influence.
+`Asc/Poseidon = MC` describes personal involvement in mental or spiritual exchange with others. The [Witte entry](#witte-entry) explicitly includes mental influence through other people; the [ABC entry](#abc-entry) gives that exchange a partner and cultural setting through my insights from the partner, the partner's truth and my cultivated surroundings. Influence, insight and shared cultural life organize the interpretation, while the entry leaves the strength and practical form of that influence open.
 
 ## Links
 

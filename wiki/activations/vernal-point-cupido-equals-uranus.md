@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Uranus`
 - Astronomicon formula: `VP/¡ = X`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 48 (one-based).
+
 Sudden events in corporations or communities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community in the public sphere, new person in the public sphere, and Reforrn Community in the public sphere
+- Source page: 45; PDF page: 21 (one-based spread).
+
+Dynamic community in public, excited community in public, a shared public event, new art in public, a public reform community, and tensions in a public community
+
+## Comparative Schema
+
+- core meaning: Sudden or dynamic events affecting a public community.
+- psychology: Collective excitement and tension.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: A corporation or community is the setting of the event.
+- events/manifestations: Shared events, new art, and a reform community.
+- conflicts/notes: The scan says new art, not new person; the event's exact nature remains open.
+
+## Contradictions
+
+Shared excitement and tension can be different responses to an event. Sudden activity does not establish that a new person arrives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Uranus`: sudden events in corporations or communities.
-- Practical expression: community in the public sphere, new person in the public sphere, and reforrn Community in the public sphere.
+In `Vernal Point/Cupido = Uranus`, Uranus specifies the pair through sudden activity within a public community. The [Witte entry](#witte-entry) names events in corporations or communities; the restored [ABC entry](#abc-entry) makes the group dynamic or excited, with shared events, new art, reform, or tension. The organizing meaning is a collective setting stirred into change, without requiring a particular participant or outcome.
 
 ## Links
 

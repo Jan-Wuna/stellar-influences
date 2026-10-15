@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Poseidon = Venus`
 - Astronomicon formula: `¡/¨ = Q`
 - Axis page: [Cupido/Poseidon](../axes/cupido-poseidon.md)
@@ -36,18 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 278; PDF p. 274.
+
 To be in harmony or in peace in a spiritual, cultural or philosophical community.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Common Language, Common Youth Community Common Peace Ideas, Common Preference for Truth, Community for Peace and Culture, Harmony in a Spiritual Community, Beauty of Culture and art, and art
+Source: printed p. 436; PDF p. 217, Venus row.
+
+German: "Gemeinsame Friedens-Ideen, gemeinsame Vorliebe für Wahrheit, Gemeinschaft für Frieden und Kultur, Harmonie in einer geistigen Gemeinschaft, Schönheit von Kultur und Kunst, Kunst in einer Kultur-Gemeinschaft, wahre Harmonie in einer Gemeinschaft".
+
+English translation: Shared ideas for peace; shared preference for truth; a community for peace and culture; harmony in an intellectual or spiritual community; beauty of culture and art; art within a cultural community; true harmony within a community.
+
+Venus begins "Gemeinsame Friedens-Ideen" and ends "wahre Harmonie in einer Gemeinschaft"; Mercury's preceding language/youth material is excluded.
+
+## Comparative Schema
+
+- Core meaning: Peace, harmony and shared appreciation within communities of culture or outlook ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Shared preference for truth and appreciation of beauty are explicit.
+- Body/health: No bodily condition is named.
+- Social/relationship: A community for peace/culture and harmony in spiritual or intellectual association are named.
+- Events/manifestations: Art within cultural community and shared peace ideas are examples.
+- Conflicts/notes: Venus begins shared peace ideas; the former language/youth opening belonged to Mercury.
+
+## Contradictions
+
+Both entries emphasize peace and harmony; ABC adds truth, beauty and cultural art. No direct opposing claim is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon = Venus`: ideals becoming relationally graceful, producing concord, refined taste, and a sense of peaceful shared value. Main caution: preferring harmony so much that false ideas go unchallenged.
+In `Cupido/Poseidon = Venus`, Venus specifies shared outlook through peace and harmony within spiritual, cultural or philosophical association ([Witte Entry](#witte-entry)). ABC connects that accord with shared peace ideas, preference for truth, the beauty of art and culture, and art within a cultural community. The organizing theme is shared appreciation and peaceful communal life ([ABC Entry](#abc-entry)).
 
 ## Links
 

@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Node`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = g`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Node](../triads/sun-venus-node.md)
@@ -45,7 +46,9 @@ Flirtations. Love affairs. Celebrating festivities. Attending shows. Getting con
 
 #### ABC Entry
 
-Harmonic connection to man, corporal love connection, love connection on the day, personal harmonic connection, gentle encounter people, day of harmonious contacts, meetings of schaner people, and connected by human affection
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, node row (eight clauses). Translation from the German scan:
+
+A harmonious connection to the man; a physical connection in love; a connection in love during the day; a personal harmonious connection; encountering beautiful people; a day of harmonious contacts; a meeting of beautiful people; connected through human affection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Helps you meet others who teach you how to develop your basic ways of showing de
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Affection creates contacts and shared enjoyment.
+- psychology: A desire to share love and develop positive self-love is named.
+- body/health: No health claim is supplied.
+- social/relationship: Flirtation, loving groups, and contact with art lovers are explicit.
+- events/manifestations: Festivities, shows, and artistic events provide concrete settings.
+- conflicts/notes: Sandbach's negative karma is an attributed spiritual claim, not an independently established consequence.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. ABC's harmonious contacts and meetings of beautiful people do not establish a particular event; Sandbach's negative karma remains an attributed spiritual claim.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Node`: friendship, partnership, and cooperative belonging that amplifies charm, affection, and relational value. Main caution: dependence on social validation: liking and being liked can become too central to identity and emotional security.
+Node specifies Sun/Venus as connection made through affection, shared pleasure, and appreciation of art. Meetings, festivities, and groups can teach ways of expressing devotion; Sandbach also places positive self-love and the consequences of egotism within his spiritual interpretation. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

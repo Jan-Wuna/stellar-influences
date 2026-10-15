@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Sun Saturn Neptune](../triads/sun-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Adds effectiveness to any deceptive practices you initiate; a weakness of charac
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal purpose and vitality affected by discouraging or deceptive conditions.
+- psychology: sensitivity and desire to realize ideals; Munkasey also allows renewed confidence.
+- body/health: Witte, Ebertin, and Sandbach's vitality/illness claims remain attributed.
+- social/relationship: Munkasey includes concealed weakness and effective deceptive presentation.
+- events/manifestations: trying to embody ideals or presenting illusions with drama.
+- conflicts/notes: ABC opens with the preceding ASC entry's environmental tail; gendered language remains source-specific.
 
 ## Contradictions
 
-- None recorded yet.
+- Renewed confidence and weakened vitality are different possibilities in the entries; neither establishes humility or compassion as an inevitable result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Sun`: humility, serious compassion, and the effort to maintain purpose when clarity or strength is compromised. Main caution: defeatism: depletion or disillusionment can erode confidence until will retreats instead of acting.
+Sun specifies the Saturn/Neptune axis as a personal involvement in conditions that may drain vitality or blur purpose. [Sandbach](#sandbach-entry) links sensitivity with the desire to embody ideals, while [Witte](#witte-entry) and [Ebertin](#ebertin-entry) stress weakness in their historical health vocabulary. [Munkasey](#munkasey-entry) allows both confidence against nervousness and a more effective display of illusion. The question is how personal conviction is expressed; sincerity or compassion cannot be assumed.
 
 ## Links
 

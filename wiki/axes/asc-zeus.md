@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `93`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Others are near. Things or matters which are in the immediate environment of the
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `126–127`; PDF page: `62`.
+
 #### ABC Pair Summary
 
-Fire in the environment, fiery partner, partner guide, environmentLeader, local design, local leadership, uniworld efforts, environment objectives, procreation site, and goals of others
+Fire in the surroundings, fiery partner, creative partner, partner leadership, environmental achievements, shaping the place, local leadership, environmental efforts, environmental goals, place of procreation, and others' goals.
+
+## Comparative Schema
+
+- Core meaning: Work and creation with others, together with pressure in the immediate environment, organize the [Pair Summary](#pair-summary).
+- Psychology: Goals of others and pressure exerted by them are explicit; the response to pressure is not specified.
+- Body/health: ABC names a "procreation site," but the pair entries do not develop a bodily mechanism or clinical correspondence.
+- Social/relationship: Working, being, and creating with others coexist with disputes and threats in the [Pair Summary](#pair-summary); ABC adds local leadership and partner direction.
+- Events/manifestations: Manufacturing plants, fire, and machines are explicit settings; local design, environmental objectives, and the goals of others occur in the [ABC Pair Summary](#abc-pair-summary).
+- Conflicts/notes: Collaboration and dispute are different possibilities, not a demonstrated source disagreement. ABC emphasizes local shaping, achievements, and goals alongside fire and a creative partner.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ Fire in the environment, fiery partner, partner guide, environmentLeader, local 
 - [Asc/Zeus = Vernal Point](../activations/asc-zeus-equals-vernal-point.md)
 - [Asc/Zeus = Vulcanus](../activations/asc-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+The entries preserve both creating together and experiencing pressure, dispute, or threat. Neither side is presented here as the inevitable result of collaboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Zeus`: a near field of active work with others: shared tasks, industrial or mechanical settings, disputes, threats, creative exertion, and pressure to do, make, or accomplish something in company.
-- Chart expression: collaborative action, productive strain, local conflict, work under pressure, association with machinery, tools, trains, fire, or manufacturing environments, and a life shaped by directed activity in the immediate world. Liabilities: quarrel, coercion, overpressure, threat, overstimulation, and a near field that turns too combative or mechanically driven for ease.
+`Asc/Zeus` concerns directed activity in the immediate environment, especially working or creating with others. Manufacturing, fire, and machines give that shared activity concrete settings in the [Pair Summary](#pair-summary), while local design, leadership, and other people's goals appear in the intelligible [ABC Pair Summary](#abc-pair-summary). Pressure from others, disputes, and threats are also explicit possibilities. The pair can therefore describe joint production or a contested field of action, without requiring every collaboration to become conflict.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Pluto Zeus Kronos](../triads/pluto-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The start of increased production and efforts. Transformation and developments p
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 415; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-The beginning of major changes, special development goals, leadership dominance, great fire development, creative development of a hierarchy, self ordinary developmental design, changes in governance, and change of governance
+Editorial translation (checked against the scan): Beginning great changes, special development goals, developing leadership dominance, great development of fire, creative unfolding of a hierarchy, independent shaping of development, changes in state leadership, change of state leadership.
+
+## Comparative Schema
+
+- core meaning: Increased production and effort pushing development forward.
+- psychology: Development goals and leadership dominance are ABC themes.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Creative hierarchy development and changes in state leadership.
+- events/manifestations: Beginning major changes, increased production, and great fire development.
+- conflicts/notes: The entries do not require duty or advancement as the reason for increased effort.
+
+## Contradictions
+
+Witte stresses production and effort; ABC adds leadership and fire. These are additional settings, without an explicit incompatible claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Zeus`: intensified duty and performance in service of advancement or authority.
-- Practical expression: the beginning of major changes, special development goals, leadership dominance, great fire development, and creative development of a hierarchy.
+Zeus specifies Pluto/Kronos through increased effort that pushes transformation ahead. The [Witte entry](#witte-entry) names the start of greater production and effort; the [ABC entry](#abc-entry) adds development goals, dominant leadership, and independent shaping of development. Creative change within hierarchy, changes of state leadership, and great fire development remain concrete possibilities rather than a general promise of advancement.
 
 ## Links
 

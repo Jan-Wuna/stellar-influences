@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `45`, chapter heading `ARIES + URANUS` (normalized here as Vernal Point/Uranus).
 
 Excitement in general. Sudden events. Events that come quickly. Eruptions. Explosions. Renewal, reforms or tension in public life. Excited world public. General environmental technology. Earth science.
 
@@ -79,13 +83,28 @@ Excitement in general. Sudden events. Events that come quickly. Eruptions. Explo
 
 #### ABC Pair Summary
 
-Excited public, renewals in the public life, public event, tensions in ()openness, and technology in the public
+Source reference: printed page `38`, PDF page `18`, bold pair summary.
+
+Source wording: "Aufgeregte Öffentlichkeit, Erneuerungen im öffentlichen Leben, öffentliche Reformen, öffentlicher Rhythmus, öffentliches Ereignis, Spannungen in der Öffentlichkeit, Technik in der Öffentlichkeit".
+
+Editorial translation, checked against the scan: An excited public; renewals in public life; public reforms; public rhythm; a public event; tensions in public life; technology in public life.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be involved in large-scale movements for change or reform. To be known as unusual, eccentric, or a reformer or innovator. One's relationships to change and reform in the greater social order. Social elements that deviate from the norm. Pairs with Neptune
+Source reference: PDF page `212`, entry `Uranus/Aries`.
+
+To be involved in large-scale movements for change or reform. To be known as unusual, eccentric, or a reformer or innovator. One's relationships to change and reform in the greater social order. Social elements that deviate from the norm.
+
+## Comparative Schema
+
+- Core meaning: Public excitement, sudden change, reform, and renewal, with technology and earth science also represented.
+- Psychology: Being publicly known as unusual, eccentric, or innovative; the entries do not establish an inward personality profile.
+- Body/health: No specific bodily or health meaning is stated. Eruptions and explosions are general manifestations in the pair summary.
+- Social/relationship: Participation in wider reform movements and a relationship to social elements that depart from the norm.
+- Events/manifestations: Sudden events, public tensions, eruptions, explosions, technological activity, and changes in public life.
+- Conflicts/notes: Renewal and tension belong to the same range. Public recognition as a reformer is Hand's contribution; abrupt physical events are explicit in Witte's summary.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ To be involved in large-scale movements for change or reform. To be known as unu
 - [Vernal Point/Uranus = Vulcanus](../activations/vernal-point-uranus-equals-vulcanus.md)
 - [Vernal Point/Uranus = Zeus](../activations/vernal-point-uranus-equals-zeus.md)
 
+## Contradictions
+
+The entries differ in emphasis rather than state a direct contradiction: Witte includes sudden physical events and technology, while Hand emphasizes social reform and public reputation. The ABC translation has been checked against printed page `38`, restoring public reforms and rhythm. Hand's next heading, "Pairs with Neptune," has been removed from this entry after checking its boundary on PDF page `212`.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus` is the axis of public unrest, social reform, innovation, and sudden change in the collective field.
-- Chart expression: reform movements, eccentric public identity, technological or scientific association, and the capacity to shock, awaken, or modernize the wider world. Liabilities: instability, public rupture, erratic influence, and rebellion that excites change without sustaining order.
+`Vernal Point/Uranus` concerns change that becomes a public matter: excitement, renewal, reform, or tension in the wider social world. The [pair summary](#pair-summary) includes abrupt events, eruptions, and explosions alongside technology and earth science. The [pair delineation](#pair-delineation) gives that public change a social expression through reform movements and a reputation for being unusual, eccentric, or innovative.
+
+The shared theme is a departure from the established public norm, whether through an event, technology, or involvement in reform. The [ABC pair summary](#abc-pair-summary) adds public rhythm alongside renewal and tension. The entries do not establish how a reform develops or which particular event follows; particular activated manifestations belong to the linked activation pages.
 
 ## Links
 

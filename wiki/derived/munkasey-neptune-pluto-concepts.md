@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Neptune/Pluto` as source-native image material.
+Preserve Munkasey's concept phrases for `Neptune/Pluto` as source-native image material.
+
+Start with the [Neptune/Pluto interpretation](../axes/neptune-pluto.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/neptune-pluto.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Neptune/Pluto](../axes/neptune-pluto.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `329`
+- Source concept page (printed): `329` (PDF page `330`).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Neptune/Pluto` as source-native 
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/neptune-pluto.md#related-activations) to find the exact formula and orientation.
+
+"Purifies Wastes", "Mystical Purification", and "A Terminal Weakness" preserve concrete, mystical, and health-related wording within the same list. The last phrase remains the author's prompt and provides no clinical prognosis.

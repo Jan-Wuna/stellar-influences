@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Kronos`
 - Astronomicon formula: `V/W = ¤`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Estate settled through probate court. Separated by the authorities for a long time. State buildings. Huge buildings. Castles.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of the legal state, special joy in old age, successful self governingness through patience, financial losses by the state, happiness and prestige in old age, great advantage through patience, obligations of the legal state, and problematic state finances
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Tasks of the state under the rule of law, special joy in old age, successful independence through patience, financial losses through the state, happiness and prestige in old age, great advantage through patience, duties of the state under the rule of law, and problematic state finances.
+
+## Comparative Schema
+
+- Core meaning: Settlement, separation, and buildings enter an official or state setting ([Witte Entry](#witte-entry)).
+- Psychology: Patience and late-life satisfaction are ABC examples, not a general personality verdict.
+- Body/health: References to old age do not establish a medical claim.
+- Social/relationship: Authorities can enforce prolonged separation.
+- Events/manifestations: Probate, state buildings, castles, and problematic state finances are explicit ([ABC Entry](#abc-entry)).
+- Conflicts/notes: ABC's Selbständigkeit is independence, and Rechts-Staat denotes the state under the rule of law. Independence through patience remains beside losses through the state.
+
+## Contradictions
+
+Official settlement and state-related losses are different possible outcomes, not proof that institutional involvement is uniformly favorable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Kronos`: ambition being shaped by institutional authority and long duration. It favors stable order and formal settlement, but can also show bureaucratic distance or separation enforced from above.
+In `Jupiter/Saturn = Kronos`, Kronos places the pair's building and separation themes under official authority. The [Witte Entry](#witte-entry) names probate settlement, prolonged separation by authorities, and large or state buildings. The [ABC Entry](#abc-entry) adds state obligations and financial problems, alongside independence and advantages through patience and happiness or prestige in old age. The organizing theme is formal structure and its consequences, with settlement and constraint both retained.
 
 ## Links
 

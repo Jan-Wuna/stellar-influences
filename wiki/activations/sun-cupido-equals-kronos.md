@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Cupido = Kronos`
 - Astronomicon formula: `S/¡ = ¤`
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: 111.
+
 #### Witte Entry
 
-Artist marriage. Marriage of rank. To live in association with people who are ina higher social class. To be forerunner in a community. Personally associated with experts, independent or outstanding persons. An authority in the arts.
+Artist marriage. Marriage of rank. To live in association with people who are in a higher social class. To be forerunner in a community. Personally associated with experts, independent or outstanding persons. An authority in the arts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page: 159 (printed); PDF page: 78.
+
 #### ABC Entry
 
-Authoritat of an artistic man, Hierarchic of a men's community, Mannliche Filtrations community, personal prestige in the community, self sustained persons of a community, and state art
+Authority of an artistic person, hierarchy of a men's community, a male leadership community, personal prestige in the community, self-confident persons in a community, and a state art center.
+
+## Comparative Schema
+
+- Core meaning: Authority, rank and recognition within a community.
+- Psychology: Self-confidence and personal prestige.
+- Body/health: No specific health claim is present.
+- Social/relationship: Association or marriage with prominent people and experts.
+- Events/manifestations: Leadership in an association; artistic authority or a state art center.
+- Conflicts/notes: The entry's class and male-leadership terms remain historical source descriptions.
+
+## Contradictions
+
+Rank, leadership and artistic expertise are related emphases, not identical social roles.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Kronos`: artist marriage and marriage of rank.
-- Practical expression: mannliche Filtrations community, personal prestige in the community, and self sustained persons of a community.
+Kronos specifies Sun/Cupido through standing and authority within shared life. Marriage to a person of rank, association with experts and leadership in a community all make social participation a setting for distinction. Artistic authority and the state art center bring the same emphasis into cultural life; the source's class and gender examples illustrate its historical framing rather than rules for who can lead. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

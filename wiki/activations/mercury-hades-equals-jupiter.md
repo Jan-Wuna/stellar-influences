@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
 - Triad hub: [Mercury Jupiter Hades](../triads/mercury-jupiter-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Hades`
+- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Good fortune gone. To love to think of the past. To be deceived in money matters
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Hades`
+- Source locator: printed p. `256`, PDF p. `127` (entry).
+- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Reports on financial crime, financial emergency call, joy over writings from the past, money shortage of youth, lack of speech pleasure, lack of right thinking, legal talk in need, and satisfied thoughts in old age
+Reports of financial crime, a financial emergency call, joy in writings from the past, young people's shortage of money, lack of pleasure in conversation, deficient legal thinking, adjudication in distress, and contented thoughts in old age.
+
+## Comparative Schema
+
+- core meaning: Money and satisfaction are related to past things and to possible losses or wrongdoing.
+- psychology: Enjoyment of past writings and satisfied thoughts in old age coexist with loss of conversation pleasure.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Mixed society is named by Witte without itself being labeled criminal or disreputable.
+- events/manifestations: Money deception, buying second-hand things, stolen-goods enrichment, financial crime reports, and emergency requests are recorded.
+- conflicts/notes: The sources' criminal examples are possibilities, not evidence of wrongdoing; ordinary second-hand purchases remain distinct.
+
+## Contradictions
+
+The entries describe different settings or expressions rather than a direct contradiction. Historical clinical and moral terms remain attributed; thematic overlap does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Jupiter` entangles the axis with loss, nostalgia, and morally tainted gain.
-- Chart expression: fortune spoiled or deceived away, attachment to the past, money matters involving old or second-hand things, and prosperity sought in questionable company or through compromised means.
+In `Mercury/Hades = Jupiter`, Jupiter specifies Mercury/Hades through financial matters and satisfaction linked with the past. [Witte](#witte-entry) records lost fortune, money deception, old or second-hand purchases, enjoyment of the past, and enrichment through stolen goods; [ABC](#abc-entry) adds financial distress and crime reports but also pleasure in old writings and contented thoughts in age. Gains, losses, and nostalgia all remain in range. Neither second-hand buying nor mixed company establishes dishonesty.
 
 ## Links
 

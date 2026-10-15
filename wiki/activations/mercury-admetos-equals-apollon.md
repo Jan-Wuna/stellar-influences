@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Apollon Admetos](../triads/mercury-apollon-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Apollon entry, PDF p. 171.
 
 One’s ideas are not liked and accepted, but are refused by many.
 
@@ -42,13 +46,29 @@ One’s ideas are not liked and accepted, but are refused by many.
 
 #### ABC Entry
 
-Continuing trade language, blocked media freedom, successful thought deepening, strengthening of knowledge in youth, free thought circle, grild youth experiences, extensive earth movement, and increasing depression in youth
+Source: “Merkur + Admetos,” Apollon entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Continuing trade discussions, blocked media freedom, successful deepening of thought, strengthening of knowledge in youth, free circulation of thought, thorough experiences in youth, extensive earth movement, increasing depression in youth.
+
+## Comparative Schema
+
+- **Core meaning:** Concentrated ideas meeting broad refusal, alongside depth of understanding.
+- **Psychology:** Deepening thought and consolidating knowledge.
+- **Body/health:** ABC's depression-in-youth phrase is attributed, not diagnostic.
+- **Social/relationship:** Refusal of one's ideas by many and restricted media freedom.
+- **Events/manifestations:** Continued trade discussions; ABC also names extensive earth movement.
+- **Conflicts/notes:** Refusal of ideas, restricted media freedom and successful deepening of thought describe different outcomes. Earth movement is a separate, unexplained physical example.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte's refusal by many concerns acceptance of ideas. ABC also names free circulation of thought and successful deepening alongside blocked media freedom. These possibilities differ in setting and outcome; the page does not establish which one applies.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Apollon` widens the axis only to meet broad refusal and non-acceptance.
-- Chart expression: ideas presented to many but rejected, serious thought that fails to gain circulation, and concentrated views that meet collective resistance instead of uptake.
+In `Mercury/Admetos = Apollon`, Apollon specifies concentrated or restricted thought and communication through their circulation, reception and development. Witte describes ideas refused by many, while ABC includes sustained trade discussions, blocked media freedom, freely circulating thoughts and successful deepening of understanding. Social acceptance and depth of understanding therefore remain different outcomes. ABC's youth-depression wording remains attributed, and its separate earth-movement clause supplies no explanation or prediction. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

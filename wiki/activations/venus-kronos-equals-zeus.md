@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Venus Zeus Kronos](../triads/venus-zeus-kronos.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Kronos`
+- Source reference: PDF page `185` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Creation of institutions of public utility and charitable character. The Red Cro
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Kronos`
+- Source reference: printed page `289`; PDF page `143` (one-based).
+
 #### ABC Entry
 
-Start of a great love, special love witness, dominating arts performances, peaceful state feet, great peace efforts, self andige arts direction, state services for the arts, Tibetan harmony design, and preference for great achievements
+Beginning of a great love, special procreation in love, dominant artistic achievements, peaceful state leadership, great efforts for peace, an independent artistic direction, state services for art, superior shaping of harmony, and preference for great achievements.
+
+## Comparative Schema
+
+- Core meaning: Creating organized forms for benevolence, peace, artistic achievement, or great love.
+- Psychology: Preference for great achievements and efforts for peace.
+- Body/health: The ABC lists procreation in love historically; the Red Cross is an institutional example, not a medical prediction.
+- Social/relationship: Charitable institutions, state services for art, and the beginning of great love.
+- Events/manifestations: Founding public-benefit institutions, peaceful state leadership, and an independent artistic direction.
+- Conflicts/notes: The Red Cross illustrates organized charity; procreation and institutional achievements remain attributed possibilities.
+
+## Contradictions
+
+- The Red Cross illustrates organized charity; procreation and institutional achievements remain attributed possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Zeus`: creation of institutions of public utility and charitable character.
-- Practical expression: start of a great love, special love witness, dominating arts performances, peaceful state feet, and great peace efforts.
+`Venus/Kronos = Zeus` gives benevolent or harmonious aims a created form. [Witte](#witte-entry) names institutions of public utility and charity, with the Red Cross as an example. The [ABC entry](#abc-entry) extends purposeful achievement to peaceful state leadership, efforts for peace, state services for art, independent artistic direction, and the shaping of harmony. Its beginning of great love and procreation in love supply a personal range alongside the institutional one. These are supported manifestations, with neither a specific institution nor a reproductive outcome determined by the formula.
 
 ## Links
 

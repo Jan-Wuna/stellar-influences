@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Venus Pluto Apollon](../triads/venus-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 The beginning of a love. Many expect a pleasant change.
 
@@ -42,13 +46,27 @@ The beginning of a love. Many expect a pleasant change.
 
 #### ABC Entry
 
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
 Extending Harmonic Development, Successful Peace Developments, Preference for Scientific Developments, Growing Success in Love, Change Through Love Experiences, and Developing Knowledge Of Love
+
+## Comparative Schema
+
+- core meaning: expanding harmonious development or the beginning and growth of love.
+- psychology: expectation of pleasant change and a preference for scientific development.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: new love, growing success in love and successful peace development.
+- events/manifestations: change through love experiences and increasing knowledge of love.
+- conflicts/notes: Witte's expectation of pleasant change is not identical to ABC's successful developments; neither makes every expansion a romantic event.
+
+## Contradictions
+
+Witte's expectation of pleasant change is not identical to ABC's successful developments; neither makes every expansion a romantic event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Venus`: the beginning of a love; Many expect a pleasant change.
-- Practical expression: extending Harmonic Development, successful Peace Developments, preference for Scientific Developments, growing Success in Love, and change Through Love Experiences.
+Venus specifies `Pluto/Apollon` through development that expands harmony, peace or love. The [Witte entry](#witte-entry) names love beginning and a shared expectation of pleasant change; the [ABC entry](#abc-entry) develops success in love, learning through loving experience and peace development. A preference for scientific development is also explicitly preserved. The range therefore concerns agreeable growth without reducing every favorable or scientific change to romance.
 
 ## Links
 

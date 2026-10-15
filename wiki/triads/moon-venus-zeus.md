@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Venus Zeus`
 - Astronomicon triad-set: `R Q £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md)
-- [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md)
-- [Venus/Zeus = Moon](../activations/venus-zeus-equals-moon.md)
+- [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Zeus](../factors/zeus.md).
+- [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md): base axis [Moon/Zeus](../axes/moon-zeus.md); activator [Venus](../factors/venus.md).
+- [Venus/Zeus = Moon](../activations/venus-zeus-equals-moon.md): base axis [Venus/Zeus](../axes/venus-zeus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Venus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Moon/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `196`
-- `Venus/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `286`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md#witte-entry) (PDF entry-start p. 123); [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md#witte-entry) (PDF entry-start p. 132); [Venus/Zeus = Moon](../activations/venus-zeus-equals-moon.md#witte-entry) (PDF entry-start p. 184).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Venus = Zeus](../activations/moon-venus-equals-zeus.md#abc-entry) (printed p. 179); [Moon/Zeus = Venus](../activations/moon-zeus-equals-venus.md#abc-entry) (printed p. 196); [Venus/Zeus = Moon](../activations/venus-zeus-equals-moon.md#abc-entry) (printed p. 286).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Zeus`: This activation energizes `Moon/Venus` through betrothal, desire for motherhood, and active increase of family life. It turns affection toward generation, commitment, and the wish to make love fruitful and concrete.
-- `Moon/Zeus = Venus`: Fiery love nature. Hot blooded. Hour of progeny.
-- `Venus/Zeus = Moon`: pregnancy, gestation.
+Moon, Venus and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Venus](../axes/moon-venus.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
+- [Venus/Zeus](../axes/venus-zeus.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Zeus](../factors/zeus.md)

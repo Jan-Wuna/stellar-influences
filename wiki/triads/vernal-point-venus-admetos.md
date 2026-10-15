@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Venus Admetos`
 - Astronomicon triad-set: `VP Q ¦`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Venus/Admetos = Vernal Point](../activations/venus-admetos-equals-vernal-point.md)
-- [Vernal Point/Admetos = Venus](../activations/vernal-point-admetos-equals-venus.md)
-- [Vernal Point/Venus = Admetos](../activations/vernal-point-venus-equals-admetos.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Venus/Admetos = Vernal Point](../activations/venus-admetos-equals-vernal-point.md) | [Venus/Admetos](../axes/venus-admetos.md) | Vernal Point |
+| [Vernal Point/Admetos = Venus](../activations/vernal-point-admetos-equals-venus.md) | [Vernal Point/Admetos](../axes/vernal-point-admetos.md) | Venus |
+| [Vernal Point/Venus = Admetos](../activations/vernal-point-venus-equals-admetos.md) | [Vernal Point/Venus](../axes/vernal-point-venus.md) | Admetos |
 
 ## Source Coverage
 
-- `Venus/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
-- `Venus/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `292`
-- `Vernal Point/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
-- `Vernal Point/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `54`
-- `Vernal Point/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
-- `Vernal Point/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `31`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Venus/Admetos = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-admetos-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `187`.
+- `Venus/Admetos = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-admetos-equals-vernal-point.md#abc-entry), printed p. `292`.
+- `Vernal Point/Admetos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-admetos-equals-venus.md#witte-entry), one-based PDF entry-start p. `53`.
+- `Vernal Point/Admetos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-admetos-equals-venus.md#abc-entry), printed p. `54`.
+- `Vernal Point/Venus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-venus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `41`.
+- `Vernal Point/Venus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-venus-equals-admetos.md#abc-entry), printed p. `31`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Vernal Point`: harmonious community in close circle.
-- `Vernal Point/Admetos = Venus`: This formula emphasizes to be without feelings and insensitive.
-- `Vernal Point/Venus = Admetos`: This formula emphasizes desired solitude and harmony in a close circle.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

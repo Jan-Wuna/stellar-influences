@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Saturn Zeus](../triads/vernal-point-saturn-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Activity accompanied by great losses. Losses by fire.
 
 disturbed public leadership, hard efforts in public, public leadership tasks, public performance problems, problems of public leadership, damage by fire in public, and loss heavy efforts in public
 
+## Comparative Schema
+
+- Core meaning: Public effort under difficulty, with performance problems and loss among the examples.
+- Psychology: Hard effort is described, but no specific emotional response is established.
+- Body/health: Fire loss is named without a bodily injury or medical diagnosis.
+- Social/relationship: Disturbed public leadership and difficult public leadership tasks are explicit.
+- Events/manifestations: Losses accompanying work, damage by fire, and public performance problems are concrete possibilities.
+- Conflicts/notes: The loss examples remain attributed possibilities, not an unavoidable consequence of the formula.
+
+## Contradictions
+
+ABC's difficult public leadership expands the work-and-loss emphasis in Witte. No direct contradiction is established, and the entries do not identify the cause or scale of a particular loss.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Saturn`: activity accompanied by great losses and losses by fire.
-- Practical expression: disturbed public leadership, hard efforts in public, public leadership tasks, public performance problems, and problems of public leadership.
+In `Vernal Point/Zeus = Saturn`, Saturn specifies the pair as public activity that demands hard effort and may encounter impaired leadership, performance problems, or losses. Fire damage is a concrete instance of the losses named in both entries, while public leadership tasks give the difficulty an institutional setting. See the [Witte Entry](#witte-entry) (PDF p. 50) and [ABC Entry](#abc-entry) (printed p. 49; PDF p. 23). These examples do not establish that every demanding task produces loss.
 
 ## Links
 

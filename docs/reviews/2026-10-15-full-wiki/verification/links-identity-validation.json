@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-10-15T16:28:00.607860+00:00",
+  "interpreter": "C:\\pyMADMAX2\\miniconda3\\envs\\deep11\\python.exe",
+  "scope": "Rendered CommonMark links; GFM-style heading anchors with duplicate suffixes; explicit HTML IDs; formula identities and actual triad source unions. No substantive review coverage is inferred.",
+  "counts": {
+    "markdown_files": 7497,
+    "live": 7491,
+    "links": 129920,
+    "factors": 23,
+    "axes": 266,
+    "activations": 5472,
+    "triads": 1618
+  },
+  "checks": {
+    "internal_file_links": {
+      "checked": 129920,
+      "passed": true,
+      "failures": []
+    },
+    "internal_fragments": {
+      "checked": 129920,
+      "passed": true,
+      "failures": []
+    },
+    "duplicate_explicit_ids": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "manifest_coverage_metadata": {
+      "checked": 7490,
+      "passed": true,
+      "failures": []
+    },
+    "canonical_identities": {
+      "checked": 7379,
+      "passed": true,
+      "failures": []
+    },
+    "cross_page_relationships": {
+      "checked": 7356,
+      "passed": true,
+      "failures": []
+    },
+    "triad_source_coverage": {
+      "checked": 1618,
+      "passed": true,
+      "failures": []
+    }
+  }
+}

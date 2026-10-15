@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Jupiter MC](../triads/mercury-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 To be elated. Thinking of luck and success. To have wishes. To laugh up one’s sleeve.
 
@@ -45,17 +49,25 @@ To be elated. Thinking of luck and success. To have wishes. To laugh up one’s 
 
 #### ABC Entry
 
-Stirred joy in youth, successful soul description, I think successful, I write about joy, I speak of money, my Glock in youth, my young Glock, my right thinking, psychic glock in thinking, and beneficial soul description
+German passage (transcribed from PDF page `33`, printed page `68`):
+
+> Beseelte Freude in der Jugend, erfolgreiche Seelen-Beschreibung, ich denke erfolgreich, ich schreibe über Freude, ich spreche von Geld, mein Glück in der Jugend, mein junges Glück, mein Rechts-Denken, seelisches Glück im Denken, vorteilhafte Seelen-Beschreibung
+
+Editorial translation from the German passage: Soulful joy in youth; successful description of the soul; I think successfully; I write about joy; I speak of money; my happiness in youth; my young happiness; my thoughts about law; inner happiness in thinking; an advantageous description of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0571.
 
 A wealth of thoughts, optimistic outlook, the fortunate ability of having self-knowledge. The capacity to be happy or to recognize one's good fortune.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 To have copious thoughts about many things. To be enthusiastic about explor ing ideas in all their complexity and interconnectedness. Success through publicizing one’s ideas and or through using one’s cleverness in one’s career.
 
@@ -70,22 +82,21 @@ Adds a successful quality to your writing and speeches and helps you to gain rec
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: An optimistic and expansive personal outlook with recognition through expression.
+- psychology: Self-knowledge, happiness, and enthusiasm for exploring ideas.
+- body/health: No specific bodily or health claim appears.
+- social/relationship: Understanding and forgiving others; publicizing ideas.
+- events/manifestations: Successful writing, speeches, and recognition for completed work.
+- conflicts/notes: The entries describe favorable possibilities without adding an adverse follow-through claim.
 
 ## Contradictions
 
-- None recorded yet.
+The sources emphasize favorable thinking, expression, and recognition. Witte's private amusement is a separate tone within that range; Sandbach retains a chapter-start locator.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Jupiter`: constructive ambition, happy self-knowledge, and the capacity to think broadly about aims and opportunities. Main caution: inflation: too many plans, too much optimism, or intellectual expansion that outruns realism can weaken follow-through.
+Jupiter specifies Mercury/MC through abundant thought and a hopeful view of one's possibilities. Ebertin joins optimism to self-knowledge and recognizing good fortune; Sandbach adds exploring complex ideas and publicizing them. Munkasey makes recognition for writing, speeches, and finished work explicit, and adds understanding or forgiving others. ABC's happiness in thinking and successful description of the soul preserve the personal strand alongside outward recognition ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Cupido Hades Apollon](../triads/cupido-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Obstacles caused by an artistic or scientific association or caused by a great o
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 431).
+
 #### ABC Entry
 
-Experiences of a community in need, success of a community through deprivation, dangerous trade in of a community, shared experiences from the past, knowledge of the past, and scientific crime of a community
+Editorial English translation, checked against the German scan:
+
+Experiences of a community in need; success of a community through deprivation; dangerous trade within a community; shared experiences from the past; artistic knowledge from the past; scientific criminality of a community.
+
+## Comparative Schema
+
+- core meaning: Large associations facing obstacles or tragedy, with deprivation and past experience also represented.
+- psychology: No distinct inner disposition is specified.
+- body/health: No specific physical or medical claim.
+- social/relationship: Artistic or scientific associations and great organizations encountering hardship.
+- events/manifestations: Tragedy involving wide circles; dangerous trade; success through deprivation; art knowledge from the past and scientific criminality.
+- conflicts/notes: Hardship and criminality are source possibilities; prestige, scandal or collective disgrace are not established.
+
+## Contradictions And Differences
+
+Hardship and criminality are source possibilities; prestige, scandal or collective disgrace are not established. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Hades`: setbacks inside large associations, scandal, disappointment, or tragedy affecting many connected people. Main caution: collective burden, decay, or disgrace within an otherwise prestigious group.
+`Cupido/Apollon = Hades` concerns difficulties involving a large association. The [Witte entry](#witte-entry) names obstacles caused by artistic or scientific organizations and tragedy affecting wide circles. The [ABC entry](#abc-entry) adds need, deprivation, dangerous trade and scientific criminality, but also success through deprivation and artistic knowledge or shared experience from the past. These distinct possibilities should not be reduced to scandal or disgrace.
 
 ## Links
 

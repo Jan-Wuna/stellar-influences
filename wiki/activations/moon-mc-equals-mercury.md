@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Mercury`
 - Astronomicon formula: `R/MC = T`
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Mercury row under Meridian + Moon checked.
+
 #### Witte Entry
 
 Thoughts are stimulated by women. One’s own active thoughts. The own perspective or viewpoint in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 64; one-based PDF p. 31, complete ten-clause Mercury row checked.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Reports about my people, animated hours in youth, animated female youth, talk ab
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 143; one-based PDF p. 145, coded entry `0448`, complete entry checked.
+
 #### Ebertin Entry
 
 Thought processes are influenced by the activity of the soul, soul stirrings are governed by the application of common sense or reason. An emotional and mental contact with the female.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 40, complete Mercury paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Communication that is emotionally uplifting and/or which brings feelings out int
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Mer` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Your ability to mentally adapt and conform to the pressures your family or mothe
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication shaped by personal feeling and maternal or collective experience. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- psychology: Active thought and emotional awareness interact; Ebertin also gives reason a role in governing inner stirrings. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- body/health: No bodily condition or diagnosis is specified.
+- social/relationship: Emotional and mental contact, discussion of family self-concepts and the influence of maternal ideas are stated. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Reports, conversation, language, a public viewpoint and emotionally uplifting communication are represented. [ABC](#abc-entry); [Witte](#witte-entry); [Sandbach](#sandbach-entry).
+- conflicts/notes: Thoughtful emotional expression differs from conforming to inherited pressure. ABC's mobile-wife adjective does not specify travel or a particular behavior.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share a connection between feeling and thought, but do not reduce reason to mood: Ebertin explicitly includes common sense governing inner stirrings. Munkasey's family-pressure examples qualify the more uplifting communication emphasized by Sandbach.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Mercury`: nurturing communication, public sensitivity in thought, and a visible role built through words, mediation, or attentiveness to changing moods. Main caution: fluctuating judgment: outer direction can shift too easily with feeling, gossip, or nervous reactivity.
+In `Moon/MC = Mercury`, inner feeling enters thought, conversation and the way one understands a place in life. The [Witte](#witte-entry) and [ABC](#abc-entry) entries include active thought, personal opinions, public viewpoints and the language or concerns of a people. The [Ebertin entry](#ebertin-entry) describes a reciprocal process: inner life influences thinking, while reason can govern emotional stirrings. The [Sandbach entry](#sandbach-entry) develops communication that brings feelings into the open; the [Munkasey entry](#munkasey-entry) adds the need to recognize maternal ideas and family expectations within one's thinking. The sources support emotional articulation and reflection without implying gossip or unstable judgment.
 
 ## Links
 

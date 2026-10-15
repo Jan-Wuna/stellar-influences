@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Uranus`
 - Astronomicon formula: `T/Y = X`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Highly gifted civil engineer. Imaginative flashes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Exciting future news, exchangeable youth reform, event in water traffic, talk about future technology, tension in air traffic, intuitive thought impulses, creeping unrest in youth, and refined movement rhythm
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Aufregende Zukunfts-Nachrichten, enttäuschende Jugend-Reform, Ereignis im Wasser-Verkehr, Gespräche über Zukunfts-Technik, Spannungen im Luft-Verkehr, intuitive Gedanken-Impulse, schleichende Unruhe in der Jugend, verfeinerter Bewegungs-Rhythmus
+
+Editorial translation from the German passage: Exciting news about the future; disappointing youth reform; an event in water transport; conversations about future technology; tensions in air transport; intuitive thought impulses; creeping unrest among youth; a refined rhythm of movement.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `161`; entry code: `0525`.
 
 #### Ebertin Entry
 
 A suddenly stepped up power of imagination, ideas. Inventions, inspirations. A suddenly misguided imagination, convulsive disturbances in connection with the nervous system.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Increased ability to gain inspiration by using rational analysis along with psyc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden imaginative flashes, inventions and experimental ideas.
+- psychology: Unusual insight coexists with misguided imagination or a sudden lack of ideas.
+- body/health: Ebertin's convulsive nervous-system disturbances remain an attributed historical claim.
+- social/relationship: Munkasey includes unusual friends with psychic skills.
+- events/manifestations: Civil engineering, inventions, astrology and discussions of future technology are source-specific examples.
+- conflicts/notes: Sudden inspiration and loss of ideas are both retained.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Sandbach emphasize gifted or experimental imagination. Ebertin also permits misdirection, while Munkasey includes a sudden absence of ideas; inspiration is therefore not continuous or assured.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Uranus`: inspired breakthrough, innovative symbolism, and the ability to articulate subtle realities in startling new ways. Main caution: erratic clarity: inspiration can turn scattered, overexcited, or too detached from practical verification.
+In `Mercury/Neptune = Uranus`, Uranus specifies the axis through a sudden rise in imagination and unusual, experimental ideas. Witte names imaginative flashes and a gifted civil engineer; Ebertin adds inventions, while Sandbach emphasizes subtlety. The same sudden change can misguide imagination or leave ideas absent, as Munkasey explicitly allows. ABC's intuitive impulses, future technology and air or water transport events give concrete settings without making every flash a reliable breakthrough ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

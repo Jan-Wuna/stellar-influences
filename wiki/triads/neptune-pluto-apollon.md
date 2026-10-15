@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Pluto Apollon`
 - Astronomicon triad-set: `Y Z ¥`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Apollon = Pluto](../activations/neptune-apollon-equals-pluto.md)
-- [Neptune/Pluto = Apollon](../activations/neptune-pluto-equals-apollon.md)
-- [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md)
+- [Neptune/Apollon = Pluto](../activations/neptune-apollon-equals-pluto.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Pluto](../factors/pluto.md).
+- [Neptune/Pluto = Apollon](../activations/neptune-pluto-equals-apollon.md): base axis [Neptune/Pluto](../axes/neptune-pluto.md); activator [Apollon](../factors/apollon.md).
+- [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md): base axis [Pluto/Apollon](../axes/pluto-apollon.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `401`
-- `Neptune/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `391`
-- `Pluto/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `417`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Apollon = Pluto](../activations/neptune-apollon-equals-pluto.md#witte-entry) (PDF entry-start p. 251); [Neptune/Pluto = Apollon](../activations/neptune-pluto-equals-apollon.md#witte-entry) (PDF entry-start p. 246); [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 261).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Apollon = Pluto](../activations/neptune-apollon-equals-pluto.md#abc-entry) (printed p. 401); [Neptune/Pluto = Apollon](../activations/neptune-pluto-equals-apollon.md#abc-entry) (printed p. 391); [Pluto/Apollon = Neptune](../activations/pluto-apollon-equals-neptune.md#abc-entry) (printed p. 417).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Pluto`: This activation transforms `Neptune/Apollon` from minor concealment into mass fraud and large-scale deception. It shows diffuse or speculative falsehoods gaining force and reach until they become system-wide and deeply consequential.
-- `Neptune/Pluto = Apollon`: This activation enlarges subtle transformation through secret research and collective systems, showing scientific or social changes that spread quietly before becoming widely apparent.
-- `Pluto/Apollon = Neptune`: This activation emphasizes great transformation below the surface; Slow beginning of large dissolution.
+Neptune, Pluto and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Pluto/Apollon](../axes/pluto-apollon.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)

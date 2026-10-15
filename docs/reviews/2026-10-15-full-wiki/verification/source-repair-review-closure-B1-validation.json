@@ -1,0 +1,19 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": 103,
+  "accepted": 103,
+  "held": 0,
+  "pending_owner": 0,
+  "strict_seven_field_schema_current_normalized_source_hashes_global_unique_owner_record_hashes_all_evidence_hashes_and_snapshot": "passed",
+  "classification_counts": {
+    "repaired": 80,
+    "stale_flag_cleared_with_proof": 19,
+    "genuine_source_limit_confirmed_with_proof": 4
+  },
+  "artifacts": {
+    "allowances.json": "083d8e39593236df15a642b73a9fe401e1e8ff93307e791e1f591be94942566c",
+    "audit.json": "0acd6bf76608ec70da7fca1fa3b355d9c4c632adc38a65a408759b4f12ff32dc",
+    "decisions.md": "0386818a3176379b589966f428b2b23ee31f18c3ae43a00c545b289d3069fc55",
+    "final-snapshot.json": "07b92bf725dbb807aadddb0672f3352f4c5d891e0f78164d704fe5b53855a524"
+  }
+}

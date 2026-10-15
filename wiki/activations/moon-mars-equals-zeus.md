@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/Mars = Zeus`
 - Astronomicon formula: `R/U = £`
@@ -34,21 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: printed p. 128; one-based PDF p. 124, complete Zeus row checked.
+
 #### Witte Entry
 
 The prolific woman. Women able to conceive and give birth. Work requiring great emotional exertion. Creative constructive work. Military service. Soldiers.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 181; one-based PDF p. 89, complete eight-clause Zeus row checked.
+
 #### ABC Entry
 
-Actions of a leading people, women's work performances, strenuous work hour, strenuous women's activity, fiery gemits actions, women in their work, creative women's work, and performance will of a Y olkes
+Editorial translation checked against the German scan: Actions of a leading people; a woman's work achievements; a strenuous working hour; strenuous women's activity; fiery emotional actions; women in leadership activity; creative women's work; a people's will to achieve.
+
+## Comparative Schema
+
+- core meaning: Emotionally demanding, creative or constructive activity directed toward achievement. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: Fiery emotional action and a will to achieve are explicit; no broader temperament is established. [ABC](#abc-entry).
+- body/health: Witte names women able to conceive and give birth. This is an attributed historical correspondence, not a finding of fertility or a predicted outcome. [Witte](#witte-entry).
+- social/relationship: Women's leadership activity and collective achievements appear beside military service and soldiers as distinct source settings. [ABC](#abc-entry); [Witte](#witte-entry).
+- events/manifestations: Strenuous working hours, creative or constructive work, work achievements and emotional exertion. [Witte](#witte-entry); [ABC](#abc-entry).
+- conflicts/notes: Creative, military and procreative examples retain their own scopes; one does not establish the others.
+
+## Contradictions
+
+No explicit mutually exclusive claim is apparent. Witte supplies creative, military and procreative examples; ABC adds leadership and the will to achieve. Their breadth does not establish a single required occupation or outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Mars = Zeus`: generation, construction, and emotionally fueled creation. It can express through fertility, motherhood, military or technical labor, or work that requires deep passion, so instinctive force becomes productive, procreative, and materially formative.
-- Practical expression: actions of a leading people, women's work performances, strenuous work hour, strenuous women's activity, and fiery gemits actions.
+In `Moon/Mars = Zeus`, Zeus specifies the pair through activity that requires emotional exertion and aims to create or accomplish something. The [Witte entry](#witte-entry) names creative, constructive work and military service. The [ABC entry](#abc-entry) makes strenuous work, achievement, women's leadership and collective will explicit, so the emotional drive has a directed practical expression.
+
+Witte also gives distinct reproductive examples. Those remain his historical claims alongside the work examples; they do not turn creative activity or strong effort into evidence of actual fertility.
 
 ## Links
 

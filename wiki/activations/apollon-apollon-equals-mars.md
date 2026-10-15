@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Mars`
 - Astronomicon formula: `¥/¥ = U`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 304, Mars row.
+
 Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.
+
+## Comparative Schema
+
+- core meaning: Successful, enlarged activity in peaceful, scientific, or commercial work.
+- psychology: Generosity in action is explicit; restlessness or scattered effort is not.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Peacemaking and the roles of scientist or merchant.
+- events/manifestations: A rising market, expanded activity, trading, handicraft, and industry.
+- conflicts/notes: The entry does not equate enlarged activity with overproduction or systems overheating.
+
+## Contradictions
+
+The single entry groups related forms of successful activity. It gives no conditions selecting one field and no adverse counterpart.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Mars`: commercial momentum, successful work, market activity, and purposeful expansion that grows through action rather than theory alone. Main caution: restless overproduction: the drive to enlarge activity can overheat systems, scatter effort, or mistake motion for real gain.
+In `Apollon/Apollon = Mars`, Mars specifies the repeated pair through successful activity that expands in scope. The [Witte entry](#witte-entry) places peaceful and generous action beside scientific, commercial, industrial, and handicraft work, with market growth as a concrete expression. Peacemaking, science, and trade are retained as different fields of action, without an added theory of restless overproduction.
 
 ## Links
 

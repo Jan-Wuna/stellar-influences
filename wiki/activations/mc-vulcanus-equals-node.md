@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [Node MC Vulcanus](../triads/node-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To have great influence through own connections.
 
 #### ABC Entry
 
-My influence in connections, my encounter with the Force, my influential connections, the psychic influence of a connection, psychic violence in a connection, strong psychic connection, and connected by psychic energy
+- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+My influence in connections, my encounter with power, my influential connections, inner influence of a connection, psychic violence in a connection, strong inner connection, connected through psychic energy.
+
+## Comparative Schema
+
+- **Core meaning:** Power through connections.
+- **Psychology:** An encounter with power within a bond.
+- **Body/health:** No bodily condition is established.
+- **Social/relationship:** Strong, influential connections; ABC also names violence within a connection.
+- **Events/manifestations:** Exercising influence through contacts.
+- **Conflicts/notes:** ABC's Macht is ordinary power in this context, not a named metaphysical entity. The separate violence-in-a-connection example remains attributed rather than defining every strong bond.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 96 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Influence gained through one's connections can coexist with power or psychic violence encountered within a connection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Node` joins the axis to strong influence through one's connections.
-- Chart expression: powerful networks, impactful alliances, and a life path in which personal force is magnified through who one knows and how one is linked to others.
+Node specifies `MC/Vulcanus` through influence gained or exercised within connections. The [Witte Entry](#witte-entry) stresses great influence through one's contacts; the [ABC Entry](#abc-entry) adds strong bonds and power encountered in a connection, including psychological violence. Networks may therefore carry force in more than one direction; beneficial alliances are not the only supported expression.
 
 ## Links
 

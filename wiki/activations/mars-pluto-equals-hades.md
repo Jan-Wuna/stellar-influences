@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto Hades](../triads/mars-pluto-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Plans which are worthless, which cannot be brought about, which are out of date.
 
@@ -42,13 +46,27 @@ Plans which are worthless, which cannot be brought about, which are out of date.
 
 #### ABC Entry
 
-Develop secret activity, develop dangerous actions, dangerous alternationacts, inadequate will development, adverse change of work, change through will renunciation, and defective development work
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing secret activity, developing dangerous actions, dangerous actions of change, deficient unfolding of the will, disadvantageous change of work, changes through renouncing the will, and deficient development work.
+
+## Comparative Schema
+
+- core meaning: Deficient or dangerous development and plans that cannot be realized or are outdated.
+- psychology: Inadequate unfolding or renunciation of will.
+- body/health: Danger is named without a specific bodily or medical effect.
+- social/relationship: No particular relationship pattern is supplied.
+- events/manifestations: Secret activity, dangerous changes, disadvantageous work change, and unrealizable plans.
+- conflicts/notes: Witte's worthless or outdated plans and ABC's dangerous or secret activity are distinct examples; secrecy alone is not labeled criminal.
+
+## Contradictions
+
+The sources overlap on difficulty in development, but Witte emphasizes unusable plans and ABC deficient, secret, or dangerous activity. They do not specify the same cause for every failure.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Pluto = Hades` corrupts planning into stale, worthless, or unrealizable schemes.
-- Chart expression: plans that are outdated, unusable, or impossible to bring about, with transformative intention collapsing into futility or decay.
+In `Mars/Pluto = Hades`, Hades specifies developing work and plans through deficiency, disadvantage, or danger. Witte names plans that are outdated, worthless, or impossible to carry out; ABC adds secret or dangerous activity, adverse work changes, and changes through renouncing the will. These examples describe different difficulties rather than a single claim that every plan is corrupt or futile. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152)
 
 ## Links
 

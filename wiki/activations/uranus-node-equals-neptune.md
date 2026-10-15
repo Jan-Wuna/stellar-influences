@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Neptune`
 - Astronomicon formula: `X/g = Y`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Neptune entry.
+
 #### Witte Entry
 
 To become a widower or widow suddenly. To be suddenly connected with a disagreeable heritage. Taking over things or matters highly disorganized. To be connected with chaotic things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 219 (PDF p. 108), Node/Uranus spread, Neptune entry.
+
 #### ABC Entry
 
-Excitement in connection with water, impulses for a future connection, sudden dissolution of a connection, exchange in a ncuen connection, nervousness in an unclear relationship, uncertainty and unrest in a connection Exciting change of a connection, development of a dynamic connection, and development
+Excitement in connection with water, impulses for a future connection, sudden dissolution of a connection, deception in a new relationship, nervousness in an unclear relationship, and uncertainty and unrest in a connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0970`.
 
 #### Ebertin Entry
 
 A person easily influenced or impressed by others. The misfortune to be suddenly deceived by others, undermining of an association, retirement of a partner from a joint enterprise.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Neptune entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Mental or spiritual inspiration for developing important and new scientific or a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uncertain relationships alongside imaginative connections. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Impressionability, confusion, and intuitive inspiration. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Witte's sudden widowhood is an attributed event, not a medical prediction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Undermined associations and withdrawal from joint enterprises. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Dissolution of a connection and taking over disorganized matters. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Imaginative insight and unreliable partnerships are different strands; the severe widowhood and deception examples remain attributed. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Unclear or dissolving partnerships coexist with imaginative insight and unusual mental connections. Witte's widowhood and disorganized inheritance and Ebertin's deception remain attributed examples; imagination does not make an unclear partnership reliable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Neptune`: inspired circles, compassionate reform, and the ability to connect through shared idealism or subtle perception. Main caution: social haze: instability and projection can make alliances beautiful, radical, and unreliable all at once.
+Neptune specifies Uranus/Node through connections marked by uncertainty, dissolution, or difficult circumstances. Ebertin adds deception and a partner's withdrawal, while Witte gives disorganized matters and sudden widowhood as severe examples. A separate imaginative strand finds new mental connections and a changed view of the past; that creative capacity does not turn an unclear partnership into a reliable one. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

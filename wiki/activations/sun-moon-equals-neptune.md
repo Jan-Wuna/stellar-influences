@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Neptune`
 - Astronomicon formula: `S/R = Y`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, Neptune entry under Sun + Moon.
+
 Cooling off in partnerships, friendships or marriage because of error, misunderstanding, lies or deception. The denial or separation of a marriage. Days of uncertainty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-fluidity in the female body, bodily weakness of the woman, persons of a foreign people, sensitivity of the female body, weak personal feelings, weak hour of the man, unclear feelings of the man, and uncertainty between woman and man
+Source locator: printed page 139 / PDF page 68, Neptune glyph row under Sun + Moon. The opening Flüssigkeit means fluid in the body, rather than abstract fluidity.
+
+Fluid in the female body, bodily weakness of the woman, persons of a foreign people, sensitivity of the female body, weak personal feelings, weak hour of the man, unclear feelings of the man, and uncertainty between woman and man
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 78, entry 0189.
 
 Inner discontentment, the tendency to torment oneself, the disposition to get upset quite easily. Shared suffering, mistake, misunderstandings, illusions or deceptions, the undermining of associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 8, Neptune entry under Sun/Moon.
 
 One’s vitality is strongly influenced by one’s psychic sensitivity. One is strongly energized by being able to pursue one’s ideals and visions. Negative psychic energy may drain the vitality and cause psychic disturbances. At times confusion may feel as if it is taking over one’s whole life. Vitality and health are enhanced through visu alization, positive use of the imagination, homeopathy, meditation, etc.
 
@@ -70,22 +80,21 @@ Realizing the importance of thinking thru your plans and ideas about life; dream
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Ideals and sensitivity accompany uncertainty about feelings, plans and personal bonds.
+- psychology: Imagination and visions can energize; confusion, discontentment or unrealistic expectations can undermine confidence.
+- body/health: ABC's bodily weakness and Sandbach's psychic-energy, vitality and remedy claims remain attributed; no diagnosis or treatment recommendation follows.
+- social/relationship: Misunderstanding, deception or cooling in bonds; ABC includes uncertain feelings between woman and man.
+- events/manifestations: Reconsidering plans, dreaming of redirection and dealing with mistaken expectations; separation appears as a source example.
+- conflicts/notes: Sandbach's energizing ideals coexist with the adverse emphasis elsewhere; foreign origin and gendered examples do not establish character or outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize misunderstanding and undermined associations. Sandbach also describes energy gained from ideals and imagination, while Munkasey distinguishes possible redirection from delusion about capacity or effort. These are differing expressions, not evidence that every bond must fail.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Neptune`: soulful partnership, imaginative inner life, and the hope that balance can be found through tenderness, faith, or transcendence. Main caution: blurred coherence: the luminary field can become vague, idealized, or too permeable to hold reliable personal boundaries.
+In `Sun/Moon = Neptune`, Neptune specifies the Sun/Moon pair through sensitivity and imagined possibilities that can make feelings, plans or relationships difficult to judge clearly. [Sandbach](#sandbach-entry) describes ideals and visions as energizing, while [Munkasey](#munkasey-entry) sets possible redirection beside delusions about ability and effort. In close bonds, [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [ABC](#abc-entry) emphasize uncertain feeling, misunderstanding or disappointed connection. The coherent tension is between what is envisioned and what can be understood or sustained. The source passages' separation examples, psychic explanations and health claims remain attributed; they supply neither an inevitable outcome nor medical advice.
 
 ## Links
 

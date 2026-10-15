@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Moon`
 - Astronomicon formula: `VP/¡ = R`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ Societies for women. National festivals. Union of nations.
 
 women's communities in public life, women in public community, emotional community in public, the hour of community in public, people's community in public life, and people's art in public
 
+## Comparative Schema
+
+- Core meaning: Public community among people or nations.
+- Psychology: Emotional community is an ABC theme.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Societies for women and union of nations are stated examples.
+- Events/manifestations: National festivals and people's art.
+- Conflicts/notes: Gendered associations remain source examples, not universal assignments.
+
+## Contradictions
+
+No direct conflict appears; women's societies, national unions, and festivals are different scales or forms of community.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Moon`: societies for women, national festivals, and union of nations.
-- Practical expression: women in public community, emotional community in public, the hour of community in public, people's community in public life, and people's art in public.
+Moon specifies `Vernal Point/Cupido` through public belonging among groups of people, from societies for women to national festivals and unions of nations. The ABC adds emotional community and people's art. These are attributed forms of collective life, without making gender or nationality a rule governing every community. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 44 / PDF p. 21.)
 
 ## Links
 

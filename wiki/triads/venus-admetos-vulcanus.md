@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Admetos Vulcanus`
 - Astronomicon triad-set: `Q ¦ §`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Admetos/Vulcanus = Venus](../activations/admetos-vulcanus-equals-venus.md)
-- [Venus/Admetos = Vulcanus](../activations/venus-admetos-equals-vulcanus.md)
-- [Venus/Vulcanus = Admetos](../activations/venus-vulcanus-equals-admetos.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Admetos/Vulcanus](../axes/admetos-vulcanus.md) | `Venus` | [Admetos/Vulcanus = Venus](../activations/admetos-vulcanus-equals-venus.md) |
+| [Venus/Admetos](../axes/venus-admetos.md) | `Vulcanus` | [Venus/Admetos = Vulcanus](../activations/venus-admetos-equals-vulcanus.md) |
+| [Venus/Vulcanus](../axes/venus-vulcanus.md) | `Admetos` | [Venus/Vulcanus = Admetos](../activations/venus-vulcanus-equals-admetos.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Admetos/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
-- `Admetos/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `474`
-- `Venus/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
-- `Venus/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `293`
-- `Venus/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `295`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Admetos/Vulcanus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/admetos-vulcanus-equals-venus.md#witte-entry), one-based PDF entry-start p. `311`.
+- `Admetos/Vulcanus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/admetos-vulcanus-equals-venus.md#abc-entry), printed p. `474`.
+- `Venus/Admetos = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-admetos-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `187`.
+- `Venus/Admetos = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-admetos-equals-vulcanus.md#abc-entry), printed p. `293`.
+- `Venus/Vulcanus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-vulcanus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `188`.
+- `Venus/Vulcanus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-vulcanus-equals-admetos.md#abc-entry), printed p. `295`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Venus`: repellent hardness, unkindness, and harsh treatment in relational or value-centered matters.
-- `Venus/Admetos = Vulcanus`: deep, true and passionate love.
-- `Venus/Vulcanus = Admetos`: to be attractive to many.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Poseidon](../axes/mars-poseidon.md)
 - Triad hub: [Moon Mars Poseidon](../triads/moon-mars-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Poseidon,” PDF p. 204.
 
 Inner struggle for ethics, morals or philosophy of life. Persons showing a moral attitude. Ideological conflicts in public life. The moral-ideological influence in public.
 
@@ -42,13 +46,27 @@ Inner struggle for ethics, morals or philosophy of life. Persons showing a moral
 
 #### ABC Entry
 
-Women's spiritual activity, women's ideal actions, actions from clear feelings, people's cultural creations, women's cultural activity, women's active activity, creating people's culture, and a people's truth will
+Source: “Mars + Poseidon,” printed p. 322 (PDF p. 160).
+
+A woman's mental or spiritual activity, a woman's actions guided by ideals, actions from clear feelings, a people's cultural creation, a woman's cultural activity, a woman acting rationally, creating a people's culture, and a people's will for truth.
+
+## Comparative Schema
+
+- core meaning: Intellectual or ethical activity expressed through feeling, culture, and public ideology.
+- psychology: Inner struggle over ethics or philosophy and action from clear feelings.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Public moral influence, collective culture, and historically gendered examples involving women.
+- events/manifestations: Ideological conflicts, cultural work, and a collective will for truth.
+- conflicts/notes: Women's roles remain source-specific examples; cultural or rational action is not necessarily ideological conflict.
+
+## Contradictions
+
+Witte emphasizes inner or public struggle and moral influence, while ABC includes rational and cultural activity. The entries retain both conflict and constructive expression of convictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Moon` makes ethics and ideology felt inwardly and publicly as emotional or collective struggle.
-- Chart expression: inner moral conflict, people displaying moral attitudes, and ideological tensions shaping public life or the emotional atmosphere of a group.
+In `Mars/Poseidon = Moon`, Moon specifies intellectual and ethical activity through feelings, cultural life, and collective convictions. Witte includes inner struggle over a philosophy of life and ideological conflict or influence in public. ABC also describes clear feelings, rational action, and a people's cultural work or will for truth, with women's roles as historical examples. The range includes cultural creation and principled activity as well as struggle, without making conflict the necessary form of every conviction. ([Witte](#witte-entry), PDF p. 204; [ABC](#abc-entry), printed p. 322 / PDF p. 160)
 
 ## Links
 

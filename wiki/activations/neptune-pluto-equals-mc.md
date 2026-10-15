@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = MC`
 - Astronomicon formula: `Y/Z = MC`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 To be mysterious. To develop the future from the past. To be in the state of development or transformation, where the consequences for the future cannot be visualized. To stay hidden, to keep in the background. To be missing.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-I exchange development, I change the water, my intuitive development, my creeping vcrandendmgen, my unsichcre development, my growing uncertainty, my growing expectations, and my future
+I pretend development, I change the water, my intuitive development, my creeping changes, my uncertain development, my growing uncertainty, my growing expectations, and my future development
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `282`, entry code `1009`.
 
 #### Ebertin Entry
 
 An intensified and purified soul life, high spiritual aspiration, self-knowledge, mystical peculiarities.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The tendency to idealize parent figures and people in authority, and conse quent
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Adjusting your personal aims or ambitions about changing yourself; pushing ahead
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal development whose future consequences remain unclear.
+- psychology: self-knowledge, spiritual aspiration, idealizing authority, and changing personal aims are explicit.
+- body/health: no specific medical claim is supplied.
+- social/relationship: staying in the background, seeking recognition, and expectations of parents or authorities are named.
+- events/manifestations: hidden transformation, career dedication, and adjustment of ambitions are stated.
+- conflicts/notes: the sources do not establish scandal, subtle leadership, or manipulation behind the scenes.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes hidden development with uncertain consequences. Ebertin describes spiritual self-knowledge; Sandbach adds dedication and possible disappointment in authority, while Munkasey emphasizes changing aims and seeking recognition.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = MC`: profound influence, subtle leadership, and a life path altered by long-wave inner change or collective undercurrents. Main caution: obscured purpose: vocation can become scandal-prone, manipulated from behind the scenes, or pulled by unclear forces.
+In Neptune/Pluto = MC, personal development is underway before its implications are clear. [Witte](#witte-entry) names transformation whose future consequences cannot yet be visualized; [ABC](#abc-entry) adds growing expectations, uncertainty, and pretended development. [Ebertin](#ebertin-entry) describes spiritual self-knowledge, while [Sandbach](#sandbach-entry) includes career dedication and idealized authorities. [Munkasey](#munkasey-entry) adds adjustment of personal aims and the wish for recognition, without establishing a fixed leadership role or scandalous purpose.
 
 ## Links
 

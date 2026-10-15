@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Zeus = Venus`
 - Astronomicon formula: `V/£ = Q`
 - Axis page: [Jupiter/Zeus](../axes/jupiter-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 213, Jupiter + Zeus, oriented activator row.
+
 To do one’s work with love. Great Joy out of work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning love pleasure, success through artistic achievement, successful love denial, joy through harmony strikes, happy beginning of a love, harmony and joy through performance, and artistic achievement success
+- Source reference: printed p. 336; one-based PDF p. 167, Jupiter + Zeus, oriented activator row.
+
+Beginning joy in love, success through artistic accomplishment, successful procreation through love, joy through striving for harmony, a happy beginning of love, harmony and joy through accomplishment, artistic accomplishments, and a preference for financial leadership.
+
+## Comparative Schema
+
+- core meaning: Loving work and enjoying accomplishment, with artistic and relational success.
+- psychology: Great joy in work and joy in striving for harmony.
+- body/health: ABC's successful procreation through love is historical source wording, without a clinical fertility claim.
+- social/relationship: A happy beginning of love and a preference for financial leadership extend the work theme.
+- events/manifestations: Artistic accomplishments, beginning love and joyful productive activity.
+- conflicts/notes: ABC's Liebes-Zeugung is procreation through love, not denial of love; its final financial preference is restored.
+
+## Contradictions
+
+Both entries connect activity with love and joy. ABC extends the account to art, love beginning and financial leadership; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Zeus = Venus`: loving one's work, finding joy in creation, and experiencing pleasure through productive activity.
-- Chart expression: harmonious labor, artistic satisfaction, and success that feels enjoyable rather than burdensome.
+`Jupiter/Zeus = Venus` connects work with love, harmony and enjoyment. Artistic accomplishment and the happy beginning of love are further expressions of the same favorable tone. [Witte](#witte-entry) emphasizes doing one's work with love and great joy; [ABC](#abc-entry) adds its specific artistic, relational and financial examples.
 
 ## Links
 

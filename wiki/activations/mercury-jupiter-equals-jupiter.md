@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Jupiter`
 - Astronomicon formula: `T/V = V`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -41,22 +43,21 @@ Additional insight and comprehension to efforts for motivating and influencing t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Added comprehension in persuasion and motivating others ([Munkasey](#munkasey-entry)).
+- psychology: Insight supports efforts to influence opinions.
+- body/health: No bodily condition appears.
+- social/relationship: Plans to induce others to adopt one's methods are explicit.
+- events/manifestations: Gambling schemes and religious studies are additional listed settings.
+- conflicts/notes: The repeated Jupiter orientation does not promise success or validate a gambling plan.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's With Itself entry is present. It lists persuasion, gambling luck, and religious studies without saying that these must occur together.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Jupiter`: Additional insight and comprehension to efforts for motivating and influencing the opinions of others; success with plans to induce others to adopt one's methods; further luck with gambling schemes; religious studies.
+In `Mercury/Jupiter = Jupiter`, the repeated Jupiter specifies the Mercury/Jupiter axis through added insight used to motivate people or influence their opinions. Munkasey's example of getting others to adopt one's methods makes the persuasive aim concrete. Religious studies and further luck with gambling schemes are additional source associations; they do not establish a reliable financial outcome ([Munkasey](#munkasey-entry)).
 
 ## Links
 

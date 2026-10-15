@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Kronos](../triads/vernal-point-node-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Connection of people with higher or special rank. Connection of states.
 
@@ -42,13 +46,27 @@ Connection of people with higher or special rank. Connection of states.
 
 #### ABC Entry
 
-Special relations in the public, relations with the public Authoritates, state mediations in the public Life, primary links in the public, and important links in the public
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Special public connections, relationships with public authorities, state mediation in public life, priority public connections, and important public connections
+
+## Comparative Schema
+
+- core meaning: Public connections carrying rank, authority, or state importance.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Association of higher-ranking people or states.
+- events/manifestations: Official relationships, mediation, and priority links.
+- conflicts/notes: Rank and importance describe the connection; they do not establish personal worth.
+
+## Contradictions
+
+No direct contradiction is established. Connections among states and relationships with officials operate at different institutional levels.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Kronos`: connection of people with higher or special rank and connection of states.
-- Practical expression: special relations in the public, state mediations in the public Life, primary links in the public, and important links in the public.
+In `Vernal Point/Node = Kronos`, public association is specified through authority and rank. The [Witte entry](#witte-entry) names links among people of higher or special standing and among states. The restored [ABC entry](#abc-entry) adds public authorities, state mediation, and important or priority connections. The coherent emphasis is a relationship carrying institutional weight.
 
 ## Links
 

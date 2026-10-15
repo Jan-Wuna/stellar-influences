@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Vulcanus`
 - Astronomicon formula: `Q/¡ = §`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Mighty longing for harmony with others, or for marital happiness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-united artistic community, common power of love, power of the harmonious whole, power and beauty of the arts, power of an artist community, and love of violence in the community
+- Source page: 283 (printed); PDF page: 140; scanned activator row checked.
+
+The influence of a harmonious community, an influential art community, shared power of love, the strength of the harmonious whole, the power and beauty of art, the power of an artists' community, and a preference for violence within the community.
+
+## Comparative Schema
+
+- Core meaning: Powerful longing and collective affectionate influence.
+- Psychology: Strong desire for shared harmony.
+- Body/health: No specific health claim.
+- Social/relationship: Longing for marital happiness and group unity.
+- Events/manifestations: Influential artists' community and collective power.
+- Conflicts/notes: ABC also includes preference for violence within a community.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+ABC also includes preference for violence within a community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Vulcanus`: mighty longing for harmony with others, or for marital happiness.
-- Practical expression: united artistic community, common power of love, power of the harmonious whole, power, and beauty of the arts.
+Vulcanus specifies Venus/Cupido through the strength of longing for harmony and the power a shared circle can exercise. Collective love, influential art, and the harmonious whole express that force. ABC also explicitly retains preference for violence within a community, so strong unity is not automatically peaceful. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

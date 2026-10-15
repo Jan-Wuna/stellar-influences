@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Asc`
 - Astronomicon formula: `Y/g = Asc`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
-To be deserted by odters. Not able to find a following. Others are being deserted. Unclear contacts with the environment.
+To be deserted by others. Not able to find a following. Others are being deserted. Unclear contacts with the environment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+Dissolution of a partner relationship, disappointing connections with places, intuitive connection to the partner, place of metaphysical encounter, sensitivity in the relationship to others, uncertain contacts with the surroundings, and connection to a place by the water
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `285`, entry code `1020`.
 
 #### Ebertin Entry
 
 Tendency to feel uncomfortable in the presence of other people, the misfortune to suffer from inhibitions. Experiencing deceit and untruthfulness from others, disappointment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Unrealistic imaginings and/or fantasies about the self. Idealizing oneself frust
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increased ideas that you do best when you are alone; helps you ignore the reacti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: unclear contact with others and self-understanding shaped by uncertain relationships.
+- psychology: social discomfort, inhibition, self-idealization, and concentrating on one's own needs are explicit.
+- body/health: no specific medical claim is given.
+- social/relationship: desertion, deceptive treatment, intuitive contact with a partner, and sensitivity toward others are stated.
+- events/manifestations: partner separation, uncertain contact with surroundings, and a place by water are named.
+- conflicts/notes: Munkasey describes reducing attention to outside influences, while ABC also describes sensitivity toward others.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress desertion, discomfort, and deception. ABC also names intuitive partner contact; Sandbach turns to self-idealization, while Munkasey emphasizes independence from outside reactions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Asc`: compassionate presence, intuitive rapport, and the ability to sense the emotional or spiritual atmosphere of connection quickly. Main caution: self-loss in contact: identity can blur inside relationships, projection, or unrealistic social longing.
+In Neptune/Node = Asc, uncertain connection becomes immediate in encounters with others and in one's sense of self. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe unclear contact, desertion, discomfort, or deception; [ABC](#abc-entry) also includes sensitivity and intuitive contact with a partner. [Sandbach](#sandbach-entry) warns that idealizing oneself can hinder growth, while [Munkasey](#munkasey-entry) describes turning attention away from others' reactions toward one's own needs. These passages support neither automatic rapport nor a universal loss of identity.
 
 ## Links
 

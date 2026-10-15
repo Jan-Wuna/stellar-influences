@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Kronos`
 - Astronomicon formula: `T/Y = ¤`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Wealth of thoughts. Versatile theoretical talents. Fine intuition.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Especially sensitive youth, thoughts about a subtle authority, self sufficient air traffic, uncertainty of a young boss, state traffic on the water, important talk about metaphysics, and future expectations of youth
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Besonders feinfühlige Jugend, Gedanken über eine feinstoffliche Obrigkeit, selbständiger Luft-Verkehr, Unsicherheit eines jungen Chefs, staatlicher Verkehr auf dem Wasser, wichtige Gespräche über Metaphysik, Zukunfts-Erwartung der Jugend
+
+Editorial translation from the German passage: Especially sensitive youth; thoughts about a subtle authority; independent air transport; uncertainty of a young boss; state transport on water; important conversations about metaphysics; youth's expectations of the future.
+
+## Comparative Schema
+
+- core meaning: Rich theoretical thinking and fine intuition ([Witte](#witte-entry)).
+- psychology: Versatile theoretical talent and sensitive thought coexist with uncertainty in a young leader.
+- body/health: No distinct bodily or medical claim is established.
+- social/relationship: ABC includes a subtle authority and important conversations about metaphysics.
+- events/manifestations: Independent air transport, state water transport and youth's future expectations are ABC examples.
+- conflicts/notes: Theoretical gifts do not remove ABC's explicit uncertainty.
+
+## Contradictions
+
+Witte emphasizes gifts without an adverse clause; ABC also includes uncertainty in a young boss. Both are retained rather than recast as assured authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Neptune = Kronos` elevates the axis into rich theory and fine intuition.
-- Chart expression: wealth of thought, versatile theoretical gifts, and intuition refined enough to operate with unusual reach, dignity, or mental breadth.
+In `Mercury/Neptune = Kronos`, Kronos specifies the axis through a wealth of thoughts, versatile theoretical talent and fine intuition. ABC gives that sensitivity an authority-related setting: a subtle authority, important metaphysical conversations and the uncertain young boss. Independent air transport and state water transport remain literal examples in that source. The theoretical gifts are therefore clearer than any claim of assured command or personal dignity ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

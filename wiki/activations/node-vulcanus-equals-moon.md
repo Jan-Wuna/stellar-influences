@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Moon Node Vulcanus](../triads/moon-node-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Persons in public power get excited about the native.
 
 #### ABC Entry
 
-Encounters with violence in the people, influential connection to the people, power of the woman in connection, strong collective connection, connected with an energetic woman, and strong women's connection
+Encounters with violence among the people, a woman's influence in a connection, influential connection with the people, a woman's power in a connection, strong emotional connection, connected with an energetic woman, strong connection with women.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 155; [ABC Entry](#abc-entry), printed p. 236, PDF p. 117.
+
+- Core meaning: Influential public ties and strong emotional bonds.
+- Psychology: Excitement and emotional strength within connections.
+- Body/health: Violence among the people is mentioned without a medical claim.
+- Social/relationship: Public power, the populace and woman-specific source examples.
+- Events/manifestations: Attracting attention from powerful people and forming strong bonds.
+- Conflicts/notes: The source's gendered examples remain attributed, not universal.
+
+## Contradictions
+
+ABC's emotional and woman-specific examples expand on Witte's public-power statement. The old translation's 'collective' obscured Gefühls, emotional.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Moon`: Persons in public power get excited about the native.
-- Practical focus: persons in public power get excited about the native.
+Moon specifies `Node/Vulcanus` through influential ties with people and strong emotional connections. The [Witte Entry](#witte-entry) describes the attention or excitement of people in public power; the corrected [ABC Entry](#abc-entry) adds connections with the populace and its historical examples of a woman's influence. Strong feeling and public influence organize the passage, without assigning power, violence or emotional traits universally by gender.
 
 ## Links
 

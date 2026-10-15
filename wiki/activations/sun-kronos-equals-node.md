@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Node Kronos](../triads/sun-node-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Connections with the authorities or leading persons. Manager. Representative of the government. Embassy.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Node entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Relationships with individuals, contacts with respected people, man time priority in connection, personal standing in connection, personal ties with the state, and self reliant connections of a man
+Relationships with leading people, contacts with respected people, male precedence in connections, personal standing in connections, personal ties with the state, and a man's independent connections.
+
+Source locator: printed p. 164, PDF p. 81, Sun/Kronos, Node entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Connections with authority, leadership or people of standing.
+- psychology: No developed inner portrait is supplied by these entries.
+- body/health: No bodily condition is supplied by these entries.
+- social/relationship: Respected or leading contacts, personal standing in associations and independent connections.
+- events/manifestations: Management, government representation, embassy work and personal ties with the state.
+- conflicts/notes: ABC's male-precedence clause is historical source wording; the entries do not establish that all authoritative connections are beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Node`: connections with authorities and associations of rank.
-- Practical expression: relationships with individuals, contacts with respected people, man time priority in connection, personal standing in connection, and personal ties with the state.
+`Sun/Kronos = Node` makes contact with authority the central theme. [Witte](#witte-entry) gives connections with leaders and roles in management, government representation or an embassy; [ABC](#abc-entry) adds respected contacts, personal standing within associations and ties with the state. Its independent connections preserve personal autonomy within that social field. The shared emphasis is who one is connected with and the position held through those connections, with male precedence retained as an attributed historical example.
 
 ## Links
 

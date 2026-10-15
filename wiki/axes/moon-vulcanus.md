@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `R/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a c
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `204`; PDF page: `101` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Influence of the woman, Influence of the animals, energetic woman, violence against the woman, violence against a people, power feelings, power of the people, power of the woman, strong woman, strong actions, hour of violence, and hour of strength
+German pair summary (transcribed from printed page `204`; PDF page `101`):
+
+> Einfluß der Frau, Einfluß der Gefühle, energische Frau, Gewalt gegen die Frau, Gewalt gegen ein Volk, Macht-Gefühle, Macht des Volkes, Macht der Frau, starke Frau, starke Gefühle, Stunde der Gewalt, Stunde der Kraft
+
+Editorial translation from the German passage: Influence of the woman, influence of feelings, energetic woman, violence against the woman, violence against a people, feelings of power, power of the people, power of the woman, strong woman, strong feelings, hour of violence, hour of strength.
+
+## Comparative Schema
+
+- core meaning: strong feeling and influential public or collective power connect both pair summaries.
+- psychology: consciousness of power, mighty feelings, and the capacity to cause a sensation are central motifs.
+- body/health: neither pair summary establishes a specific bodily or medical correspondence; references to force or violence do not establish an illness.
+- social/relationship: the historical entries emphasize women's influence, executive authority, and the power of a people or nation.
+- events/manifestations: public sensation, collective influence, energetic action, and violence against women or peoples mark the stated range.
+- conflicts/notes: Strength, influence and coercion are distinct expressions; the literal gendered source claims do not make violence inevitable.
 
 ## Related Activations
 
@@ -103,13 +120,18 @@ Influence of the woman, Influence of the animals, energetic woman, violence agai
 - [Moon/Vulcanus = Vernal Point](../activations/moon-vulcanus-equals-vernal-point.md)
 - [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+ABC explicitly says influence of feelings and strong feelings; neither the former animal wording nor an added action theme belongs to those clauses.
+
+ABC's complete bold pair list was checked against printed204/PDF101; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus` is the axis of mighty feeling, public or female influence, executive power, strong women, strong peoples, and the force of a nation or crowd.
-- Constructively it supports emotional strength, public influence, energetic women, powerful collective response, and the capacity to act with unusual force.
-- The shadow is overpowering sensation, coercive public might, violence against women or peoples, and emotional power that becomes too strong to handle cleanly.
-- Activations show where the power-field lands: in public action, leadership, media, danger, social pressure, or bodily and emotional force.
+`Moon/Vulcanus` brings feeling into the sphere of force and influence. The emphasis is on emotions with weight, a consciousness of power, and the ability of a person or a people to make a strong public impression. Executive power and a powerful nation sit beside mighty feeling in [Witte's pair summary](#pair-summary), so the pair covers personal emotional strength and collective influence rather than only one person's temperament.
+
+The range also includes coercion: [Udo's pair summary](#abc-pair-summary) explicitly names violence against women or peoples alongside influence and strength. The sources' repeated emphasis on women is historical gendered doctrine, not an exclusive rule about who can express the pair. These summaries support neither a specific medical conclusion nor a guaranteed act of violence; a third factor's particular expression belongs on its own activation page.
 
 ## Links
 

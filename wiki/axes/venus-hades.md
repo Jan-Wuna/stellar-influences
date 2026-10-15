@@ -66,19 +66,36 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+- PDF page: 183.
+
 Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Hades`
+- Printed pages: `284-285`; PDF page: `141` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Old love, peace service, consecration of peace, femininity love, criminality and artificiality, criminal love, past artificiality, love service, love heart, love for the past, lack of harmony, and hidden love
+Old love, service to peace, endangerment of peace, dangerous love, crime and art, criminal love, art of the past, service in love, sorrow in love, love of the past, lack of harmony, and hidden love.
+
+## Comparative Schema
+
+- core meaning: Love marked by sorrow, secrecy or compromised harmony, alongside attachment to old love and the beauty of the past ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Grief and love worries appear with appreciation of old beautiful things and aging beautifully.
+- body/health: Witte lists voluntary sterility and reproductive disorders as historical correspondences; these entries supply no diagnostic basis.
+- social/relationship: Hidden or troubled attachments, old love and service in love. Witte's references to purchasable love, servants and "immorality" retain his historical social vocabulary.
+- events/manifestations: Service roles, art of the past and beauty in age appear alongside threats to peace and dangerous or criminal contexts for love.
+- conflicts/notes: Service to peace and endangerment of peace are distinct possibilities; art of the past and beauty in age coexist with sorrow, danger and secrecy. Historical moral labels do not establish a person's character.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Old love, peace service, consecration of peace, femininity love, criminality and
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades`: repulsiveness in love.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Hades` brings affection into contact with sorrow, secrecy and impaired harmony. Love worries, grief and hidden attachments recur in the pair entries, while Udo includes dangerous love and threats to peace. This gives the pair a difficult relational range without making every attachment a moral judgment ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+
+There is also affection for what has a past: old love, old beautiful things, art of earlier times and beauty in aging. Service is another explicit motif, ranging from Witte's domestic service roles to Udo's service in love and service to peace. These meanings preserve care and appreciation within a pair whose other expressions involve deprivation or distress; Witte's historical sexual, medical and moral classifications remain attributed source claims without establishing a person's conduct, illness or relationship outcome ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)). Each closing factor requires its own oriented activation.
 
 ## Links
 

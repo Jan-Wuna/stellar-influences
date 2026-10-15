@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Mars Node](../triads/venus-mars-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Sexual love union. Impulses, actions and decisions of pleasant relations.
 
 #### ABC Entry
 
-Joyful contact work, establishing peace contacts, peaceful youth work, harmonious activity in Y bonding, creating harmonious relationships, love activity in relationships, and making connections to the arts
+- Source reference: printed p. 210; one-based PDF p. 104, Venus/Node, Mars row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Joyful contact work, establishing peace contacts, peaceful youth work, harmonious activity in connections, creating harmonious relationships, activity in love within relationships, and establishing connections to art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ You encounter others with whom you have sexual attraction; the assertion of your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action and desire expressed through loving or pleasant connections.
+- psychology: Initiative, assertiveness, persistence, and demands for immediate satisfaction.
+- body/health: Sexual attraction and the procreative urge are stated; no diagnosis follows.
+- social/relationship: Forming loving ties, physical attraction, and working for group harmony.
+- events/manifestations: Contact work, peace contacts, artistic connections, and entry into a sexual union.
+- conflicts/notes: Physical attraction alone and immediate gratification qualify the harmonious possibilities; ABC also explicitly retains harmonious activity in connections.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from considerate action for group harmony to physical attraction alone and immediate gratification. These are contrasting expressions, rather than mutually exclusive claims about the formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Mars`: lively rapport, romantic pursuit, and the courage to make connection concrete instead of merely pleasant. Main caution: friction in attraction: desire can turn competitive, impatient, or quarrelsome when harmony and impulse collide.
+In `Venus/Node = Mars`, Mars specifies the Venus/Node connection through action: pursuing attraction, asserting interests, or taking the initiative to create loving ties. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) foreground sexual union and physical attraction, while the [Sandbach entry](#sandbach-entry) directs initiative toward its effect on other people and group harmony. The [Munkasey entry](#munkasey-entry) retains both persistence and demands for immediate satisfaction. These passages support a tension between considerate initiative and urgency of desire.
+
+ABC gives this initiative further settings in peaceful youth work, harmonious activity in connections and establishing connections to art ([ABC entry](#abc-entry)).
 
 ## Links
 

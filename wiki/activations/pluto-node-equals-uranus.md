@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Uranus Pluto Node](../triads/uranus-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 148 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Surprisingly sudden new connections. Sudden change through an encounter.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed p. 223 (PDF p. 110).
+
 #### ABC Entry
 
-Exciting changes in a connection, development of a new relationship, sudden change of relationship, sudden change through an encounter, development of ties in the telecommunications industry, and growing unrest in a connection
+Exciting changes in a connection, development of a new relationship, sudden change of relationship, sudden change through an encounter, developing connections in technology, and growing unrest in a connection
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed p. 293, entry 1054.
 
 #### Ebertin Entry
 
 Big upsets within a community, emotional suffering through separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: Chapter starts at PDF p. 114 (one-based); exact activation page is not established.
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Unexpected results from others when you meet with them; novel ideas from meeting
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden encounters or changes disrupt existing connections.
+- psychology: Liberation from power struggles and limiting ties; unrest or suffering.
+- body/health: No bodily condition is specified.
+- social/relationship: New contacts, opposition or separation can reshape a community.
+- events/manifestations: Unexpected meetings, novel ideas and science or engineering contacts.
+- conflicts/notes: Disruption is not uniformly beneficial or destructive.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden change is shared, while Ebertin stresses suffering and Sandbach stresses release from limiting ties. These are different consequences rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Uranus`: catalytic networks, revolutionary contact, and the ability to encounter rapid life change through intense social links. Main caution: extreme instability: affiliations can become explosive, obsessive, or too reactive to sustain constructive collective purpose.
+In `Pluto/Node = Uranus`, Uranus specifies changing connections through surprise: an encounter can suddenly establish a tie, unsettle a group or bring opposition. The [Witte entry](#witte-entry) states the sudden change directly; [Munkasey](#munkasey-entry), printed p. 344, includes novel ideas and influential scientific or engineering contacts. [Sandbach](#sandbach-entry) frames release from power struggles, while [Ebertin](#ebertin-entry) preserves the painful possibility of community upheaval and separation. The entry does not guarantee that disruption is liberating.
 
 ## Links
 

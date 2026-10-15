@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Node Zeus`
 - Astronomicon triad-set: `T g £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md)
-- [Mercury/Zeus = Node](../activations/mercury-zeus-equals-node.md)
-- [Node/Zeus = Mercury](../activations/node-zeus-equals-mercury.md)
+- [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md): base axis [Mercury/Node](../axes/mercury-node.md); activator [Zeus](../factors/zeus.md).
+- [Mercury/Zeus = Node](../activations/mercury-zeus-equals-node.md): base axis [Mercury/Zeus](../axes/mercury-zeus.md); activator [Node](../factors/node.md).
+- [Node/Zeus = Mercury](../activations/node-zeus-equals-mercury.md): base axis [Node/Zeus](../axes/node-zeus.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `209`
-- `Mercury/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
-- `Mercury/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `258`
-- `Node/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `228`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md#witte-entry) (PDF entry-start p. 141); [Mercury/Zeus = Node](../activations/mercury-zeus-equals-node.md#witte-entry) (PDF entry-start p. 168); [Node/Zeus = Mercury](../activations/node-zeus-equals-mercury.md#witte-entry) (PDF entry-start p. 151).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Node = Zeus](../activations/mercury-node-equals-zeus.md#abc-entry) (printed p. 209); [Mercury/Zeus = Node](../activations/mercury-zeus-equals-node.md#abc-entry) (printed p. 258); [Node/Zeus = Mercury](../activations/node-zeus-equals-mercury.md#abc-entry) (printed p. 228).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Node = Zeus`: directs the axis into inventive collaboration and technical thought-links.
-- `Mercury/Zeus = Node`: Organizations, unions or connections that come into being upon command. Connections upon command.
-- `Node/Zeus = Mercury`: Concentration. Employed in thought. Sketches for an intellectual work.
+Mercury, Node and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Node](../axes/mercury-node.md)
+- [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Node/Zeus](../axes/node-zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)

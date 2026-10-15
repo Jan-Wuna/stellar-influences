@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Hades Admetos`
 - Astronomicon triad-set: `Z ¢ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Admetos = Pluto](../activations/hades-admetos-equals-pluto.md)
-- [Pluto/Admetos = Hades](../activations/pluto-admetos-equals-hades.md)
-- [Pluto/Hades = Admetos](../activations/pluto-hades-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Admetos = Pluto](../activations/hades-admetos-equals-pluto.md) | [Hades/Admetos](../axes/hades-admetos.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Admetos = Hades](../activations/pluto-admetos-equals-hades.md) | [Pluto/Admetos](../axes/pluto-admetos.md) | [Hades](../factors/hades.md) |
+| [Pluto/Hades = Admetos](../activations/pluto-hades-equals-admetos.md) | [Pluto/Hades](../axes/pluto-hades.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Hades/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `282`
-- `Hades/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `445`
-- `Pluto/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `419`
-- `Pluto/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
-- `Pluto/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `411`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-admetos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `282`.
+- `Hades/Admetos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-admetos-equals-pluto.md#abc-entry), printed p. `445`.
+- `Pluto/Admetos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-hades.md#witte-entry), one-based PDF entry-start p. `262`.
+- `Pluto/Admetos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-hades.md#abc-entry), printed p. `419`.
+- `Pluto/Hades = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-hades-equals-admetos.md#witte-entry), one-based PDF entry-start p. `258`.
+- `Pluto/Hades = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-hades-equals-admetos.md#abc-entry), printed p. `411`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Pluto`: increasing shortage of raw materials, lowered standards of living, persistent scantness, and the possibility of rebuilding from severe depletion.
-- `Pluto/Admetos = Hades`: This activation emphasizes bad things, sorrow and sadness are on the way; An evil change of the existing conditions.
-- `Pluto/Hades = Admetos`: This activation emphasizes first symptoms of a deep seated transformation; Changes which first are called off a few times, until they succeed.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

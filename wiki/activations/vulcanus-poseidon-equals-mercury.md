@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - Triad hub: [Mercury Vulcanus Poseidon](../triads/mercury-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 315 (one-based).
 
 Talks, thoughts and opinions about honor, dignity and decency.
 
@@ -42,13 +46,27 @@ Talks, thoughts and opinions about honor, dignity and decency.
 
 #### ABC Entry
 
+- Source page: 478; PDF page: 238 (one-based spread).
+
 Influence of a cultural language, influential ideas in youth, thoughts on the power of truth, ideas of violence in youth, cultural influence of the media, cultural opinion influence, spiritual news influence, and strong spiritual movement
+
+## Comparative Schema
+
+- Core meaning: Mental and cultural influence carried by thoughts, speech, opinions, language, and media.
+- Psychology: Thinking about honor, dignity, decency, and the power of truth is explicit.
+- Body/health: No medical claim is supplied.
+- Social/relationship: Language, media, and ideas in youth are named channels of influence.
+- Events/manifestations: Discussions of values, cultural opinion formation, and spiritually influential news are examples.
+- Conflicts/notes: ABC also names ideas of violence in youth; influence is not presented as uniformly beneficial.
+
+## Contradictions
+
+Discussion of honorable values does not contradict the presence of violent ideas, because the entries describe different possible contents of thought and communication. Neither establishes that discussing a value means practicing it.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vulcanus/Poseidon = Mercury`: Talks, thoughts and opinions about honor, dignity and decency.
-- Practical expression: influence of a cultural language, influential ideas in youth, thoughts on the power of truth, ideas of violence in youth, and cultural influence of the media.
+In `Vulcanus/Poseidon = Mercury`, Mercury specifies the pair through the circulation and consideration of influential ideas. Talks and opinions about honor or truth become part of the same field as cultural language, media, news, and formative ideas in youth. The [Witte Entry](#witte-entry) supplies the explicit value discussions (PDF p. 315), and the [ABC Entry](#abc-entry) supplies their communication channels and wider range (printed p. 478; PDF p. 238). ABC's violent-idea example keeps the reading open to harmful as well as constructive influence.
 
 ## Links
 

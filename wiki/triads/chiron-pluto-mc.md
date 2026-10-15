@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Pluto MC`
 - Astronomicon triad-set: `Chiron Z MC`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/MC = Pluto](../activations/chiron-mc-equals-pluto.md)
-- [Chiron/Pluto = MC](../activations/chiron-pluto-equals-mc.md)
-- [Pluto/MC = Chiron](../activations/pluto-mc-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/MC = Pluto](../activations/chiron-mc-equals-pluto.md) | [Chiron/MC](../axes/chiron-mc.md) | [Pluto](../factors/pluto.md) |
+| [Chiron/Pluto = MC](../activations/chiron-pluto-equals-mc.md) | [Chiron/Pluto](../axes/chiron-pluto.md) | [MC](../factors/mc.md) |
+| [Pluto/MC = Chiron](../activations/pluto-mc-equals-chiron.md) | [Pluto/MC](../axes/pluto-mc.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/MC = Pluto`: John, page `102`
-- `Chiron/Pluto = MC`: John, page `99`
-- `Pluto/MC = Chiron`: John, page `117`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/MC = Pluto` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-pluto.md#sandbach-entry) | retained chapter-start one-based PDF p. 102; exact formula page not established |
+| `Chiron/Pluto = MC` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-pluto-equals-mc.md#sandbach-entry) | retained chapter-start one-based PDF p. 99; exact formula page not established |
+| `Pluto/MC = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-mc-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 117; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Pluto`: vocation as a deep inner pressure and transformative calling. Main caution: forcing purpose through will rather than allowing deeper receptivity.
-- `Chiron/Pluto = MC`: vocation under deep pressure and to a purpose that matures through surrender rather than sheer force. Main caution: mistaking spiritual purpose for another project of willpower.
-- `Pluto/MC = Chiron` brings Chiron into the axis of deep life direction, security, and inner authority. It can help others locate a truer source of stability and become more receptive to spiritual reality; the caution is to support security before pressing for release of old defenses.
+Use this hub to choose the exact orientation for the unordered set `Chiron Pluto MC`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

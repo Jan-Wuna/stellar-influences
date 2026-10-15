@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Saturn`
 - Astronomicon formula: `T/W = W`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/SATURN With Itself`
-- Source page: `162`
+- Source page: `162`; one-based PDF page `163` (With Itself passage checked in actual PDF text).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Conservative views when presenting findings; enhanced respect for your reputatio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Findings are presented conservatively with concern for factual responsibility.
+- psychology: Respect for a serious reputation accompanies cautious presentation.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Others may rebuff work results; behavior instructions appear in an unclear final clause.
+- events/manifestations: Presenting findings and responding to work results are concrete activities.
+- conflicts/notes: The awkward 'disobedience obeying instructions' is present in actual source text and remains unresolved in meaning.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey supplies this repeated-factor entry. Its final clause is linguistically ambiguous rather than evidence of a settled contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Saturn`: Conservative views when presenting findings; enhanced respect for one's reputation as a serious or responsible person with facts; rebuffs from others about work results; disobedience obeying instructions on how to behave.
+In `Mercury/Saturn = Saturn`, Saturn specifies the pair through conservative presentation and responsibility for facts. The entry emphasizes regard for a serious reputation while allowing rebuffs from others over work results; careful presentation therefore does not guarantee acceptance. The final behavior-instruction clause is unclear in the actual source and is excluded from a confident interpretation. ([Munkasey](#munkasey-entry))
 
 ## Links
 

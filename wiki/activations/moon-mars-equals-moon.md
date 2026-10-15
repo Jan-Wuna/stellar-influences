@@ -18,10 +18,12 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Moon`
 - Astronomicon formula: `R/U = R`
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS With Itself`
-- Source page: `114`
+- Source page: `114` (printed); one-based PDF p. 115, Moon under `MOON/MARS With Itself`; actual entry checked.
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Stimulates your intuition for romances or battles where the hero saves a heroine
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Caring and sympathetic involvement in competitive or protective stories and situations. [Munkasey](#munkasey-entry).
+- psychology: Intuition for rescue romances or battles, sympathy, and concern for competitors. [Munkasey](#munkasey-entry).
+- body/health: The mothering example concerns care; it does not establish pregnancy, fertility, or another bodily outcome. [Munkasey](#munkasey-entry).
+- social/relationship: Giving care and emotional support to people engaged in competition. The rescue example explicitly allows either sex to rescue the other. [Munkasey](#munkasey-entry).
+- events/manifestations: Mothering, caring for competitors, and imaginative engagement with rescue narratives. [Munkasey](#munkasey-entry).
+- conflicts/notes: Only Munkasey is represented. Moon repeats a pair member; no separate three-factor hub exists.
 
 ## Contradictions
 
-- None recorded yet.
+No competing source account is present. Romance, battle, and mothering are linked by the entry's concern for people needing care, not asserted to be equivalent events.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Moon`: Stimulates one's intuition for romances or battles where the hero saves a heroine (or, viceversa); the sympathy and caring one give when mothering; basic feelings about caring for those who are engaged in competitions.
+In Munkasey's `Moon/Mars = Moon`, the repeated Moon specifies the pair through sympathy for people in active, competitive, or vulnerable situations. Caregiving and interest in rescue narratives connect feeling with the contest or protective action, rather than establishing a combative character. This remains the scope of the one represented entry. [Munkasey entry](#munkasey-entry), printed p. 114.
 
 ## Links
 

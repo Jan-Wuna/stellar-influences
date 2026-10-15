@@ -23,12 +23,14 @@ related_activations:
   - Venus/Neptune = MC
   - Venus/Neptune = Mercury
   - Venus/Neptune = Moon
+  - Venus/Neptune = Neptune
   - Venus/Neptune = Node
   - Venus/Neptune = Pluto
   - Venus/Neptune = Poseidon
   - Venus/Neptune = Saturn
   - Venus/Neptune = Sun
   - Venus/Neptune = Uranus
+  - Venus/Neptune = Venus
   - Venus/Neptune = Vernal Point
   - Venus/Neptune = Vulcanus
   - Venus/Neptune = Zeus
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Venus/Neptune`
 - Astronomicon axis: `Q/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); each related activation retains its own oriented formula.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/NEPTUNE`
-- Source page: `203`
+- Source heading: `VENUS + NEPTUNE`
+- PDF page: 180.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Rapture. Sensitive, renouncing, false or unhappy love. Deceptive hopes. Hidden a
 
 #### ABC Pair Summary
 
-Joy in the air, harmony through subtlety, secret love, liehes exchange, love expectation, love weakness, refined love, preference for metaphysics, and future wishes
+- Printed pages: 278–279; PDF page: 138.
+
+Joy in the air, harmony through sensitivity, secret love, love of water, disappointment in love, expectation of love, weakness in love, unclear wishes, refined love, preference for metaphysics, future wishes.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 187; PDF page: 189.
 
 #### Principle
 
@@ -112,7 +119,7 @@ Artists, musicians, mystics, dreamers and visionaries.
 
 #### Probable Manifestations
 
-+ Romantic and reveling love, longing for love, peculiar desires and objectives, an unstable existence and changing occupations. - Difficult realization of ideals and wishes, awakening from emotional infatuation with the awareness of disappointment or disillusionment. Wrong ways of love. Venus/Neptune 9/^
++ Romantic and reveling love, longing for love, peculiar desires and objectives, an unstable existence and changing occupations. - Difficult realization of ideals and wishes, awakening from emotional infatuation with the awareness of disappointment or disillusionment. Wrong ways of love.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -188,6 +195,8 @@ There is often a tendency to experiment with diet and to practice vegetarianism,
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 61 (Principle and Process).
+
 #### Principle
 
 Idealized love. Self-sacrifice in love. A refined expression of love. To engage in imagining beautiful illusions and fantasies to which one can potentially become addicted. Attraction to that which is refined and/or exalted. Confusion in love and in relationships. Impracticality where both love and money are concerned but also the ability to use one’s intuition to make money and to know what the loved one needs. The ability to intuit the true worth of things.
@@ -197,6 +206,8 @@ Idealized love. Self-sacrifice in love. A refined expression of love. To engage 
 The purifying and refining of one’s ability to love. Developing the ability to see through illusions into the eternal value and beauty underlying everything. The refine ment of one’s tastes.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF pages: 206–207.
 
 #### Pair Delineation
 
@@ -239,25 +250,25 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Neptune: The Dream of Love`
-- PDF page(s): `315`
+- PDF page(s): `315–316`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Beautiful Muse and the Wonderful One
 - shadow: The Weakling and the Drinker
 - comparison: Art Spirituality Connecting Merging Loving Adoring Eroticism Mysticism
-- general: Transcendental love . Becoming flooded with music . Experiencing boundless love . Achieving highest spirituality through love . Being touched in one's innermost heart by art . Finding redemption through love . Being inspired to artistic creativity by the divine . The dream relationship .
+- general: Transcendental (♆) love (♀). Becoming flooded (♆) with music (♀). Experiencing boundless (♆) love (♀). Achieving highest spirituality (♆) through love (♀). Being touched in one's innermost heart (♆) by art (♀). Finding redemption (♆) through love (♀). Being inspired to artistic creativity (♀) by the divine (♆). The dream (♆) relationship (♀).
 - harmony: Intuitive Love. Deep feeling of being soul mates and a wordless understanding of each other that borders on perfection. Great willingness to be devoted and to sacrifice. Being upheld by the spirit of love. Delicacy of feeling. Mystic, romantic, idealized love that leads to experiences beyond the personal. Highly refined sense of taste and art, above all in the area of music.
-- discord: Intoxication of Love. Insatiable, vast longing that makes a person extremely easy to seduce. “High-flying” love and intoxication of love with subsequent bitter disillusionment. Getting lost in deceptive, misleading ideals and confused, unclear relationships. Violently getting high with intoxicants as aphrodisiacs. Getting off the track erotically.
+- discord: Intoxication of Love. Insatiable, vast longing that makes a person extremely easy to seduce. “High-flying” love and intoxication of love with subsequent bitter disillusionment. Getting lost in deceptive, misleading ideals and confused, unclear relationships. Violently getting high with intoxicants as aphrodisiacs. Getting off the track erotically. Being deceived in love and/or deceiving others. Genuine encounters are avoided as a result of lasting disappointments or an instinctive fear of disappointments and only dwelt on in dreams. Or searching for fulfillment in transfigured, Platonic love. Corny lapses of taste.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: refined affection, romantic imagination and ideals of beauty, with the possibility of unclear wishes, deception or disappointment ([ABC](#abc-pair-summary), [Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: sensitivity, artistic receptivity and compassion coexist with suggestibility, indecision, fantasy or difficulty seeing a loved person clearly ([psychological correspondence](#psychological-correspondence), [Falis](#falis-entry), [Sandbach](#principle-1)).
+- body/health: Ebertin lists glandular/reproductive weakness and Munkasey drug/sensory/kidney/blood claims; Carter gives bodily effects less weight in his harmonious account. These remain historical source claims, without a diagnosis ([biological](#biological-correspondence), [body or mind](#with-body-or-mind), [Carter](#harmonious-aspects)).
+- social/relationship: romance, compassion and self-sacrifice may accompany idealization, secrecy or neglect; Hand also includes care across large differences of circumstance ([relationships](#in-your-relationships), [Hand](#pair-delineation)).
+- events/manifestations: artistic/music expression, spiritual interests, love of water and secret attachments; financial confusion, deceptive valuation or artistic fraud appear in particular entries ([ABC](#abc-pair-summary), [Falis](#falis-entry), [politics/business](#in-politics-or-business)).
+- conflicts/notes: idealized love is not necessarily realized love. Carter allows strong artistic achievement under discordant aspects; harmony/discord and conjunction claims retain their conditions, and historical sexual labels do not establish a person's character ([Carter](#inharmonious-aspects), [aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
@@ -273,12 +284,14 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 - [Venus/Neptune = MC](../activations/venus-neptune-equals-mc.md)
 - [Venus/Neptune = Mercury](../activations/venus-neptune-equals-mercury.md)
 - [Venus/Neptune = Moon](../activations/venus-neptune-equals-moon.md)
+- [Venus/Neptune = Neptune](../activations/venus-neptune-equals-neptune.md)
 - [Venus/Neptune = Node](../activations/venus-neptune-equals-node.md)
 - [Venus/Neptune = Pluto](../activations/venus-neptune-equals-pluto.md)
 - [Venus/Neptune = Poseidon](../activations/venus-neptune-equals-poseidon.md)
 - [Venus/Neptune = Saturn](../activations/venus-neptune-equals-saturn.md)
 - [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md)
 - [Venus/Neptune = Uranus](../activations/venus-neptune-equals-uranus.md)
+- [Venus/Neptune = Venus](../activations/venus-neptune-equals-venus.md)
 - [Venus/Neptune = Vernal Point](../activations/venus-neptune-equals-vernal-point.md)
 - [Venus/Neptune = Vulcanus](../activations/venus-neptune-equals-vulcanus.md)
 - [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
@@ -289,11 +302,11 @@ Inner reactions to drugs; weakness in the kidneys or bladder; weakened senses in
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune` is the axis of idealized love, refined beauty, romantic imagination, and compassionate longing. It combines affection, art, pleasure, and value with dream, mysticism, glamour, sacrifice, and the urge to transcend ordinary personal desire.
-- Chart expression: artistic sensitivity, poetic or spiritual love, empathy, tenderness, enchantment, and attraction to what feels elevated, elusive, or redemptive. Liabilities: illusion, disappointment, porous boundaries, deception, escapism, impractical attachments, and financial or emotional leakage when fantasy replaces clear value judgment.
+`Venus/Neptune` links affection and appreciation with imagination, sensitivity and longing for an ideal. [Ebertin](#psychological-correspondence), [Hand](#pair-delineation) and [Carter](#harmonious-aspects) describe receptivity to beauty, art and music; [Falis](#falis-entry) extends that range into visionary creativity, compassion and spiritual love. [Sandbach](#principle-1) pairs self-sacrifice and refined expression with the possibility of becoming absorbed in beautiful illusions. [Udo](#abc-pair-summary) adds secret love, unclear wishes, expectation and disappointment, alongside literal love of water and preference for metaphysics. A vivid ideal may therefore inspire affection or art while leaving its practical realization uncertain.
+
+In relationships, romance and compassion can coexist with idealization, vague promises, neglect or withdrawal. Hand also includes loving people in very different circumstances, through either giving or receiving care ([pair delineation](#pair-delineation)); Munkasey's [relationship alternatives](#in-your-relationships) keep devotion beside deception and neglected needs. His [public sphere](#in-politics-or-business) extends idealized or misleading valuation into resources, inflation and artistic fraud. [Carter](#inharmonious-aspects) does not make discordant aspects inferior in artistic achievement, and [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) preserves both intuitive devotion and disappointed or evasive love. Those conditions and the historical bodily and sexual classifications establish no guaranteed talent, moral character, diagnosis or relationship fate. Each closing factor requires its own oriented activation.
 
 ## Links
 

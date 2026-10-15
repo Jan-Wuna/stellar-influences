@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = MC`
 - Astronomicon formula: `Y/¥ = MC`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 To embezzle. To be under a grand illusion or great deception. To be uncertain with many about the future. To look or go into the future with fear. To scientifically reveal the future.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `400`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-In my knowledge of the future, my successful intuition, my successful breathing, my insecure freedom, my pre exchanged knowledge, my understanding of the future, and my growing refinement of the soul
+I spread metaphysics, my metaphysical knowledge, my knowledge of the future, my successful intuition, my successful breathing, my uncertain freedom, my pretended knowledge, increasing my uncertainty, and increasing refinement of the soul
+
+## Comparative Schema
+
+- core meaning: personal involvement in great illusion, uncertainty about the future, or attempts to reveal it.
+- psychology: fear about the future and increasing uncertainty coexist with claimed intuition.
+- body/health: successful breathing is ABC's source claim, not a bodily finding.
+- social/relationship: Witte names uncertainty shared with many and embezzlement as distinct examples.
+- events/manifestations: spreading metaphysics, pretended knowledge, and scientific revelation of the future are stated.
+- conflicts/notes: claims to know or reveal the future are attributed; neither source establishes predictive accuracy.
+
+## Contradictions
+
+Witte's future-revelation statement coexists with fear and deception; ABC likewise includes intuition and pretended knowledge. These different possibilities are retained without treating claimed insight as verified.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = MC`: To embezzle. To be under a grand illusion or great deception. To be uncertain with many about the future. To look or go into the future with fear. To scientifically reveal the future.
-- Practical focus: personalizes `Neptune/Apollon` as grand illusion, fear about the future, or the urge to reveal future patterns scientifically. It turns large-scale deception and possibility into a life-direction issue, where the self becomes entangled with both false promise and prophetic inquiry.
-- Practical expression: in my knowledge of the future, my successful intuition, my successful breathing, my insecure freedom, and my pre exchanged knowledge.
+In Neptune/Apollon = MC, MC specifies the pair through personal involvement in uncertainty, illusion, and claims about the future. The [Witte entry](#witte-entry) names fear of the future, great deception, and an attempt to reveal the future scientifically; [ABC](#abc-entry) adds spreading metaphysics, claimed intuition, pretended knowledge, and increasing uncertainty (printed p. 400, PDF p. 199). Its breathing and soul-refinement phrases remain attributed source language. The aspiration to know the future does not establish that knowledge's accuracy.
 
 ## Links
 

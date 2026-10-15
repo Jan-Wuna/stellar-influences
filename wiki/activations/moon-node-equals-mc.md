@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/g = MC`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Triad hub: [Moon Node MC](../triads/moon-node-mc.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `121`.
 
 #### Witte Entry
 
@@ -43,17 +46,25 @@ Sympathy toward women. Moment of contact or connection with a woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `174`; PDF p. `86`.
+
 #### ABC Entry
 
-My relationship with the mother and my relationship with my wife
+My contact with the mother; my relationships as a woman; my emotional relationships; my connections to women; my connections to the people; an emotional bond with the mother; the hour of an emotional connection; connection with my wife.
+
+- Source check: the complete MC paragraph was translated from the visually checked original. The previous English reduced its distinct phrases to relationships with mother and wife.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source passage: printed p. `138`, entry `0433`.
+
 #### Ebertin Entry
 
-Cultivation of individual soul unions. The initiation of a soul union. Moon-Ascendant
+Cultivation of individual soul unions. The initiation of a soul union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF pp. `38–39` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +81,21 @@ Achieving success thru meeting or allying with those who share your interests an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: MC specifies the pair through personally significant emotional ties and connections that shape one's work or goals.
+- psychology: sympathy, learning through connection, and security through emotional mastery are explicit themes.
+- body/health: no entry supplies a specific bodily or health claim.
+- social/relationship: maternal and intimate bonds, emotionally meaningful unions, and alliances with shared interests are represented.
+- events/manifestations: meeting influential people, recognition, and bringing people together in one's career appear in the entries.
+- conflicts/notes: personally meaningful bonds and career alliances are different settings; the entries do not establish a need to please a group.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries move between personal bonds and vocational alliances without asserting that the two are identical or incompatible. Their shared theme of connection does not make every intimate relationship a professional alliance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = MC`: caring institutions, relational vocation, and public roles strengthened through kinship, care, and collective responsiveness. Main caution: overdependence on social feeling: direction can become too shaped by the need to belong or please one's group.
+In `Moon/Node = MC`, MC specifies the pair through emotional connections that matter personally and can help shape a vocation or direction. [Sandbach](#sandbach-entry) describes bringing people together on a feeling level in one's work; [Munkasey, p. 136](#munkasey-entry) adds alliances around shared goals, recognition, and learning through contacts. The checked [ABC entry, p. 174](#abc-entry) preserves intimate and maternal ties within this personal range. The entries support meaningful connection and alliance, without establishing a vocation in caring institutions or a need to please a group.
 
 ## Links
 

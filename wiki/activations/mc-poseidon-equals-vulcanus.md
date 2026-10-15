@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [MC Vulcanus Poseidon](../triads/mc-vulcanus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ To have a comprehensive intellect.
 
 Energy of the spirit soul, my influence through reason, my cultural influence, my influential idea, my power of insight, my spiritual energy, my spiritual power, power through psychic clarity, psychic power influence, and strong spirit soul
 
+## Comparative Schema
+
+- **Core meaning:** Comprehensive understanding with mental force.
+- **Psychology:** Energy directed through insight and clarity.
+- **Body/health:** No bodily or health condition is supplied.
+- **Social/relationship:** Influence through ideas and culture.
+- **Events/manifestations:** The expression of influential ideas.
+- **Conflicts/notes:** The short Witte entry is amplified by ABC, not independently proved by repetition.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 99 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; related wording is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Vulcanus` massively strengthens the axis through comprehensive intellect and forceful understanding.
-- Chart expression: a powerful mind, far-reaching comprehension, and a life direction supported by exceptional mental force or conceptual command.
+Vulcanus specifies `MC/Poseidon` through comprehensive intellect in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) connects inner clarity and insight with mental energy, influential ideas and cultural influence. The coherent theme is understanding exerting force or influence; the entries do not establish exceptional ability or power over others as a certainty.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = MC`
 - Astronomicon formula: `W/Asc = MC`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be overlooked or to suffer setbacks through others. Estrangement. Being left by others. The mental influence of separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Others are hurt to me, I'm hard to the other, my partner is sick, my partner is patient, my difficulties with others, my environmental tasks, and my problems with the environment
+- Source page: 114 (printed); PDF page: 56.
+
+Others are hard on me, I am hard on others, my partner is serious, my partner is patient, my difficulties with others, my environmental tasks, my environmental problems, my separation from the place, inner strain of the partner.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 261 (printed); PDF page: 263; entry code: 0925.
 
 Difficult growth of individual expression, the inclination to feel depressed, oppressed, inhibited, frustrated or slighted by others. Suffering from other people's actions, gaining experience. Emotional suffering through separation, the misfortune to be hindered in the fulfilment of one's objectives in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 95 (exact entry text checked; chapter begins on PDF page 94).
 
 Connection with authority figures who reinforce one’s sense of personal limitations and inadequacies. This is happening so that eventually you will learn to con nect more with your spiritual self so that your identity become gradually more in align ment with it.
 
@@ -70,22 +82,23 @@ The acclaim you receive due to the isolated analysis you performed; a slow start
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Other people's actions and restrictions shape personal expression, while solitary effort may gain recognition.
+- Psychology: Feeling slighted, inhibited, or oppressed; learning from limiting experiences.
+- Body/health: The entries describe emotional suffering or low mood without establishing a medical diagnosis.
+- Social/relationship: Estrangement and authority figures who reinforce inadequacy.
+- Events/manifestations: Separation, setbacks, slowly achieved career goals, and honored personal guarantees.
+- Conflicts/notes: The record includes both painful exclusion and acclaim for isolated analysis; one does not erase the other.
 
 ## Contradictions
 
-- None recorded yet.
+The record includes both painful exclusion and acclaim for isolated analysis; one does not erase the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = MC`: mature authority, consistent conduct, and a life path that depends on steadiness more than display. Main caution: overidentification with burden: image and mission can become too rigidly fused and hard to humanize.
+In `Saturn/Asc = MC`, MC specifies the pair through the personal experience of other people's limits or actions. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) center on setbacks, estrangement, and difficulty expressing oneself; [Sandbach](#sandbach-entry) adds limiting authority relationships and interprets them through eventual spiritual realignment. The [ABC entry](#abc-entry) retains reciprocal harshness as well as partner patience.
+
+[Munkasey](#munkasey-entry) supplies a different outcome: recognition for isolated analysis, slowly achieved goals, and promises kept. This preserves a constructive result of solitary effort without promising that exclusion necessarily produces growth.
 
 ## Links
 

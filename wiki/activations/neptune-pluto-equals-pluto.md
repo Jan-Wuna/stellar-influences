@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Pluto`
 - Astronomicon formula: `Y/Z = Z`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO With Itself`
-- Source page: `330`
+- Source reference: printed p. `330` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Helps push you to extremes to avoid situations where events have gone too far; b
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: extreme avoidance and contamination of systems intended to remove impurities.
+- psychology: going to extremes to avoid an excessive situation is explicit.
+- body/health: contamination is a material example without a specific personal diagnosis.
+- social/relationship: others' disfavor when punishment is avoided is named.
+- events/manifestations: impurity entering a purification system is an explicit example.
+- conflicts/notes: the source's judgement of punishment due is attributed; the entry does not identify a person's guilt or a particular contaminant.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-pair entry is present; no independent source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Pluto`: Helps push one to extremes to avoid situations where events have gone too far; brings disfavor from others when one avoid punishment due; adds impurity into systems which are designed to remove most contaminants.
+For Neptune/Pluto = Pluto, [Munkasey](#munkasey-entry) connects extreme avoidance with others' disfavor when consequences are evaded (printed p. 330). A separate material example concerns impurities entering systems designed to remove them. The entry supplies no specific judgement of guilt or mechanism for contamination.
 
 ## Links
 

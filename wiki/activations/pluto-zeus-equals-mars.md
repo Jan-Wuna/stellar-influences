@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Mars`
 - Astronomicon formula: `Z/£ = U`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 Obligations of landlord. Duties of the father. Chivalrous duty. Military duty. Planning of housekeeping.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful development activity, developing work performance, designing development work, producing a filthy change, growing work performance, growing filtration impulses, changing work flow, and changing work goals
+- Source page: 412 (printed); PDF page: 205.
+
+Demanding development activity, developing work performance, shaping development work, bringing about a change of leadership, growing work performance, growing leadership impulses, change in work leadership, changing work goals.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Work and practical duties develop through increased performance.
+- Psychology: Effortful development and growing impulses toward leadership.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Historical landlord, fatherhood, chivalric, military, and household duties.
+- Events/manifestations: Changes in work leadership and work goals; planning housekeeping.
+- Conflicts/notes: The historical duty categories describe the source's examples rather than universal roles.
+
+## Contradictions
+
+The historical duty categories describe the source's examples rather than universal roles.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Mars`: obligations of landlord; Duties of the father; Chivalrous duty; Military duty; Planning of housekeeping.
-- Practical expression: effortful development activity, developing work performance, designing development work, producing a filthy change, and growing work performance.
+In `Pluto/Zeus = Mars`, Mars specifies the pair through work and duties that require practical performance. The [Witte entry](#witte-entry) lists household, paternal, landlord, chivalric, and military obligations; the [ABC entry](#abc-entry) adds developing work performance and changing work leadership or goals. The shared emphasis is directed effort, while the historical social roles remain examples rather than prescriptions.
 
 ## Links
 

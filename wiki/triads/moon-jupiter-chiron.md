@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Jupiter Chiron`
 - Astronomicon triad-set: `R V Chiron`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Chiron = Moon](../activations/jupiter-chiron-equals-moon.md)
-- [Moon/Chiron = Jupiter](../activations/moon-chiron-equals-jupiter.md)
-- [Moon/Jupiter = Chiron](../activations/moon-jupiter-equals-chiron.md)
+- [Jupiter/Chiron = Moon](../activations/jupiter-chiron-equals-moon.md): base axis [Jupiter/Chiron](../axes/jupiter-chiron.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Jupiter](../activations/moon-chiron-equals-jupiter.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Jupiter](../factors/jupiter.md).
+- [Moon/Jupiter = Chiron](../activations/moon-jupiter-equals-chiron.md): base axis [Moon/Jupiter](../axes/moon-jupiter.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Jupiter/Chiron = Moon`: John, page `79`
-- `Moon/Chiron = Jupiter`: John, page `32`
-- `Moon/Jupiter = Chiron`: John, page `29`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Jupiter/Chiron = Moon](../activations/jupiter-chiron-equals-moon.md#sandbach-entry) (PDF chapter-start p. 79; exact entry page unverified); [Moon/Chiron = Jupiter](../activations/moon-chiron-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Jupiter = Chiron](../activations/moon-jupiter-equals-chiron.md#sandbach-entry) (PDF p. 30; exact entry checked).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Chiron = Moon`: generosity and openness with a deeply healing emotional effect, plus an instinct for spontaneously overcoming limits and obstructions.
-- `Moon/Chiron = Jupiter`: An enthusiasm and optimism that nurtures others in a profoundly healing way. A generous way of nurturing others that helps them to overcome emotional blocks and encourages them to be more aligned with their instincts.
-- `Moon/Jupiter = Chiron`: Your energy helps others to get more fully in touch with their feelings and to accept them. You innately encourage others to feel greater security and faith in the workings of the universe.
+Moon, Jupiter and Chiron form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Chiron](../axes/jupiter-chiron.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Jupiter](../axes/moon-jupiter.md)
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Chiron](../factors/chiron.md)

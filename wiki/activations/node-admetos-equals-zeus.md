@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Zeus`
 - Astronomicon formula: `g/¦ = £`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 Start work with a few. Difficult beginning of work with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Especially out of the box connection, blocked state relations, end of a special relationship, fundamental links with the boss, firm ties with the state, deepening of state misconduct, and important limitation of a connection
+Enduring performance within a connection, blocked striving toward goals within a connection, thorough relationships to leaders, shaping contacts at a standstill, deepening connections to leaders, and purposeful consolidation of contacts
+
+## Comparative Schema
+
+- core meaning: starting work among a few with endurance, blocked aims or a difficult beginning.
+- psychology: goal-directed contact and sustained performance are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: relationships to leaders may deepen or become firmer.
+- events/manifestations: contact formation at a standstill and purposeful consolidation are ABC examples.
+- conflicts/notes: a small work group is not inherently difficult; Witte separately states difficulty at the beginning.
+
+## Contradictions
+
+Witte stresses the start of work and a difficult beginning. ABC adds endurance and purposeful consolidation alongside blocked aims; the outcome is not fixed by the initial difficulty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Zeus`: Start work with a few. Difficult beginning of work with others.
-- Practical focus: difficult beginning of work with others.
-- In difficult expression, it can mark start work with a few.
+Node/Admetos = Zeus concerns the beginning and persistence of joint work. [Witte](#witte-entry) names starting with a few and a difficult beginning with others. [ABC](#abc-entry) adds enduring performance and purposeful consolidation of contacts, while retaining blocked aims or contact formation at a standstill (printed p. 235, PDF p. 116). The connection to leaders may deepen. This supports persistence within a limited circle without making the size of the group the cause of difficulty.
 
 ## Links
 

@@ -33,23 +33,31 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Pluto Node](../triads/mars-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Planning of common activities.
+Source: “NODES + MARS,” PDF p. 143.
+
+Planning of common activities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Relations with the development work, links in the development process, links in a connection, intermediation arrangements, growth in the relationship, changes in the relationship with the work, and change in the relationship between work and work
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
+Relationship to development work, developing connections at work, creating changes within a connection, unfolding mediation work, growing energy for action within a relationship, changes in one's relationship to work, and changing connections at work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Dragon's Head,” printed p. 217, entry 0755 (continues onto the following page).
 
 Performance of joint record achievements, violent or forced separation of a partnership or union.
 
@@ -57,7 +65,9 @@ Performance of joint record achievements, violent or forced separation of a part
 
 #### Sandbach Entry
 
-The need to overcome or resolve one’s conflicts with other people. A driving urge to have one’s connections with other be positive and productive, but to achieve this one needs to resolve differences and clear the air of hostilities and resentments. Ascendant: One learns about who one is through interacting with groups. The need to not let one’s personality or self-concept stand in the way of accomplishing things with other people and with groups.
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75. The following Ascendant paragraph belongs to the separate [Asc activation](mars-node-equals-asc.md#sandbach-entry).
+
+The need to overcome or resolve one’s conflicts with other people. A driving urge to have one’s connections with other be positive and productive, but to achieve this one needs to resolve differences and clear the air of hostilities and resentments.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Increased needs to be in control of groups and associations which wield influenc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Planned or intensified joint effort and changes within connections.
+- psychology: A driving need for productive ties, conflict resolution, or control of influential groups.
+- body/health: No medical effect is stated.
+- social/relationship: Joint achievements, resolving resentment, control in sexual ties, or forced separation.
+- events/manifestations: Common plans, development of work connections, mediation, and record achievements.
+- conflicts/notes: Productive cooperation and coercive separation remain distinct possibilities; resolving conflict is Sandbach's stated condition for positive ties.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from planning and developing cooperation to control or forced separation. Sandbach's constructive account explicitly requires resolving differences, rather than assuming intensity alone ensures success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Pluto`: high-impact teamwork, planned common action, and the ability to accomplish demanding things with others when conflict is dealt with directly. Main caution: coercion: collective pressure can turn productive effort into forced separation, domination, or power struggle.
+In `Mars/Node = Pluto`, Pluto specifies shared action through concentrated effort and changes in how connections work. Witte names common plans, ABC develops work relationships and mediation, and Ebertin includes joint record achievements as well as forced separation. Sandbach makes positive, productive ties depend on resolving differences and clearing resentment; Munkasey instead emphasizes control over influential groups or sexual ties. Cooperation and coercion therefore remain different expressions of the listed intensity. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105; [Ebertin](#ebertin-entry), entry 0755, printed p. 217 and continuation; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

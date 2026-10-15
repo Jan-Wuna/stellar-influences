@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Mars Saturn MC](../triads/mars-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To work slowly. Not being able to work properly. To terminate or interrupt work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Work of a mature soul, patient soul work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work
+Work of a mature soul, patient soul-work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0931`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Lack of initiative and enterprise, tendency to be docile or to give in. Feeling defenseless, suffering under oppression, need to obediently accept one's destiny, enforced separation, mourning and bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Increased personal effort and energy put into growing and developing self as a p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious work and effort that may advance gradually or meet interruption.
+- psychology: discipline, stamina, and concentration contrast with docility or lack of initiative.
+- body/health: Munkasey names stamina; the entries establish no specific medical condition.
+- social/relationship: oppression, enforced separation, and the struggle to improve one's position.
+- events/manifestations: slow or interrupted work, professional advance, loss of work, and bereavement.
+- conflicts/notes: Ethical persistence and loss of initiative remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+- The entry's active perseverance and Ebertin's inhibited initiative should remain side by side.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Mars`: tenacity, disciplined effort, and the ability to persist when outer life is demanding and unforgiving. Main caution: frustrated ambition: suppressed anger or excessive strain can turn work into bitterness, exhaustion, or open conflict.
+In `Saturn/MC = Mars`, Mars specifies the Saturn/MC axis through the effort, discipline, and difficulties of work. [ABC](#abc-entry) joins serious work and patient concentration to problems and loss of work. [Witte](#witte-entry) makes the obstruction concrete in slow, interrupted, or improperly performed work and sorrow arising from one's own actions.
+
+[Sandbach](#sandbach-entry) describes careful ethical action and gradual professional advance, while [Munkasey](#munkasey-entry) emphasizes stamina and the drive to improve oneself. [Ebertin](#ebertin-entry) supplies the contrasting possibility of lost initiative, defenselessness, and submission under oppression. Sustained effort and inhibited action are both supported expressions.
 
 ## Links
 

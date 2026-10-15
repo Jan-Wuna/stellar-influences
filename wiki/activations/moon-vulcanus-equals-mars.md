@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = U`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Mars Vulcanus](../triads/moon-mars-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Mighty care. Welfare departments, which cause lots of interest. To have great influence on female persons, to be very impressed by them. Doing well with female persons and people of public interest and influence.
+- Source passage: PDF p. 136; Mars row checked visually.
+
+Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Labour power of a people, influential activity of a woman, energetic action of a woman, violence actions against the woman, actions of a strong woman, powerful GemOt's impulses, strong people will, and will power of a woman
+- Source passage: printed p. 204; PDF p. 101.
+
+Labour power of a people, a woman's influential activity, a woman's energetic action, acts of violence against a woman, a strong woman's actions, powerful emotional impulses, a people's strong will, and a woman's willpower.
+
+Editorial translation checked against the German scan and Mars row symbol.
+
+## Comparative Schema
+
+- core meaning: power becomes action, effort, and forceful deeds ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: strong will and powerful emotional impulses are ABC's explicit motives.
+- body/health: no medical claim is supplied; battle and violence are harmful event examples.
+- social/relationship: influence over public or armed authorities appears in Witte; ABC includes influential activity and violence against a woman.
+- events/manifestations: collective labour, great effort, battle, and deeds attracting public interest illustrate the activation.
+- conflicts/notes: purposeful action and coercive action remain distinct possibilities; the gendered subjects belong to the sources' examples.
+
+## Contradictions
+
+The entries connect influence with action at personal and collective scales. They do not directly contradict one another, but neither makes violence necessary to effective action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Mars`: Mighty care. Welfare departments, which cause lots of interest. To have great influence on female persons, to be very impressed by them. Doing well with female persons and people of public interest and influence.
-- Practical expression: labour power of a people, influential activity of a woman, energetic action of a woman, violence actions against the woman, and actions of a strong woman.
+Mars specifies Moon/Vulcanus through the effort and deeds by which power takes effect. [Witte](#witte-entry) describes public attention, collective exertion, and influence involving armed or public authorities; [ABC](#abc-entry) adds labour, willpower, and emotional impulses driving action. Battle and violence against a woman remain adverse examples within this forceful range, without making violence an inevitable expression.
 
 ## Links
 

@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Uranus Vulcanus](../triads/sun-uranus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Suddenly great physical effort. Overworking the body. Overstrain.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `153`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
-Excitements about violence a day, dynamic influence of a person, energy refees for man, powerful body stresses, nervousness in a power center, new body force, strong personal restlessness, and technical energy center
+Excitement about violence during the day, a person's dynamic influence, energy reforms for people, powerful bodily tensions, nervousness in a center of power, new bodily strength, strong personal restlessness, and a technical energy center.
+
+## Comparative Schema
+
+- core meaning: Sudden excitation is intensified as physical effort, force and powerful tension.
+- psychology: Strong restlessness and nervousness in a center of power are named.
+- body/health: Overwork and overstrain are Witte's bodily examples, without a medical diagnosis.
+- social/relationship: ABC names a person's dynamic influence and excitement about violence.
+- events/manifestations: New bodily strength, energy reforms and a technical energy center broaden the examples beyond strain.
+- conflicts/notes: Violence is a named circumstance, not a claim that every person with this formula acts violently.
+
+## Contradictions
+
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Uranus = Vulcanus`: explosive force and powerful disruption.
-- Practical expression: excitements about violence a day, dynamic influence of a person, energy refees for man, powerful body stresses, and nervousness in a power center.
+In `Sun/Uranus = Vulcanus`, Vulcanus intensifies excitation as great physical effort and powerful tension. [Witte](#witte-entry) (printed p. 112) stresses overworking the body and overstrain, while [ABC](#abc-entry) (printed p. 153) also includes new bodily strength, dynamic personal influence and energy reforms. The range joins increased force with possible restlessness and excess effort. ABC's violence example remains a particular circumstance; it does not establish inevitable explosive or violent behavior.
 
 ## Links
 

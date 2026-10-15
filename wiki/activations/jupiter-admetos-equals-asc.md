@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Admetos = Asc`
 - Astronomicon formula: `V/¦ = Asc`
 - Axis page: [Jupiter/Admetos](../axes/jupiter-admetos.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 220; PDF p. 216.
+
 A quiet, lonely, retiring place or location. To spend more money than others. To be envied by others. Others lack money.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked money center, restricted right center, success through corporal perseverance, successful strike day, financial restriction of a center, gross success of a man, gross personal right, and personal money circle
+- Source reference: printed p. 342; PDF p. 170.
+
+Blocked finances of a location, successful blockade of a location, consolidation of the partner's rights, consolidation of successes in the environment, stabilization of money at the location, thorough success of the partner, restriction of the partner's rights, and stabilization of local rights.
+
+## Comparative Schema
+
+- Core meaning: Seclusion and local financial or legal limits.
+- Psychology: Being envied by others is explicit in Witte.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Partner's rights, local rights, and others lacking money.
+- Events/manifestations: A quiet location, greater spending than others, local blockade, and financial stabilization.
+- Conflicts/notes: Successful blockade is distinct from a prosperous or comfortable environment.
+
+## Contradictions
+
+Witte's secluded location and relative spending add a social setting to ABC's local and partner-rights meanings.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Asc`: a life field of secluded comfort or private sufficiency. It can show living quietly while carrying a heavier financial outflow than appears from outside.
+In `Jupiter/Admetos = Asc`, Asc specifies the Jupiter/Admetos axis through the immediate place, other people, and their financial or legal circumstances. The [Witte Entry](#witte-entry) describes a quiet, retiring place while also naming greater spending than others, envy, and others' lack of money. The [ABC Entry](#abc-entry) concentrates on local finances and rights, which can be blocked, stabilized or restricted. The formula concerns one's surroundings and partners; seclusion alone does not establish comfort or private wealth.
 
 ## Links
 

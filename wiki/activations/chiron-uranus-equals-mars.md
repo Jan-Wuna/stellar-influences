@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/Uranus](../axes/chiron-uranus.md)
 - Triad hub: [Mars Chiron Uranus](../triads/mars-chiron-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 97 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
 To be willing to experiment and to change one’s direction and plan of action on inspiration. Actions whose impulse arises from sudden and/or unexpected insights.
 
+## Comparative Schema
+
+- core meaning: Experimental action and changes of plan arising from inspiration.
+- psychology: Willingness to experiment and respond to unexpected insight.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: No specific interpersonal setting is supplied.
+- events/manifestations: Changing direction or a plan of action on inspiration.
+- conflicts/notes: Sudden insight does not itself establish courage, healing, or a harmful lack of structure.
+
+## Contradictions
+
+The entry gives responsive experimentation without an explicit competing claim about impulsiveness.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Mars`: healing through bold improvisation and courageous responsiveness. Main caution: impulsiveness or abandoning useful structure too quickly.
+Mars specifies Chiron/Uranus through willingness to experiment in action. The [Sandbach entry](#sandbach-entry) links a changed direction or plan with inspiration and sudden or unexpected insights. Its scope is how action is initiated and revised, without a separate promise of healing or a requirement to discard useful structure.
 
 ## Links
 

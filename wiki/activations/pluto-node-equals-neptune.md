@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Neptune Pluto Node](../triads/neptune-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Connections of a very passing nature. Development of sensitivity in a relationsh
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 223; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Development of precision in a compound, contact development in the air, slipping changes in a compound, change in development in a compound, change in a relation by V c cn, and see above
+Editorial translation (checked against the scan): Developing sensitivity in a connection, developing contacts in the air, gradual changes in a connection, uncertain development in a relationship, changes in a relationship through denial or negation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
 
 #### Ebertin Entry
 
 Attainment of success within a community by means of lies and fraud. Disadvantages and losses.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF pages 115–116 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Increases the potential for you to be deceived by others, or for you to deceive 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Passing or subtle connections in which sensitivity, uncertainty, or deception can develop.
+- psychology: Imagination about the past, intuitive awareness, confusion, or obsessive idealization.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Deception by others or of others, doubts about friends, and sensitivity within a tie.
+- events/manifestations: Brief connections, losses, concealed gradual changes, changes through denial, or growth through intuition.
+- conflicts/notes: Intuition and imagined pressure do not independently establish what others intend.
 
 ## Contradictions
 
-- None recorded yet.
+Sensitivity and intuition coexist with fraud and confusion. A passing connection is not necessarily deceptive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Neptune`: psychic or karmic-feeling ties, subtle group influence, and the ability to encounter major change through hidden relational processes. Main caution: covert entanglement: associations can become deceptive, draining, or too saturated with fantasy and manipulation.
+Neptune specifies Pluto/Node through connections that may be brief, subtle, or uncertain. The [Witte entry](#witte-entry) joins passing ties with developing sensitivity, and [ABC](#abc-entry) adds gradual changes and changes in a relationship through denial or negation. The range also includes lies, fraud, and losses in [Ebertin](#ebertin-entry), with deception in either direction and doubts about friends in [Munkasey](#munkasey-entry). [Sandbach](#sandbach-entry) preserves both overwhelming or idealized images of the past and intuition that can guide growth. These alternatives prevent sensitivity from becoming proof of a hidden or karmic bond.
 
 ## Links
 

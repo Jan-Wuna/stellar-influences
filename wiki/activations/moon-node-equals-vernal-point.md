@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Vernal Point`
 - Astronomicon formula: `R/g = VP`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 Connections with female persons, or of female persons. The mind in relation to the generality.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `174`, PDF p. `86` (entry).
+
 #### ABC Entry
 
-Women's rights
+Mediation for women in public life, emotional relationships in public life, public connections with women, a maternal bond in public life, the hour of a connection in public, and connections among peoples in public
+
+## Comparative Schema
+
+- core meaning: connections involving women or peoples in the public sphere.
+- psychology: Witte names the mind's relation to the general public.
+- body/health: no bodily or health implication is stated.
+- social/relationship: public female and maternal ties, mediation for women, and connections among peoples are explicit.
+- events/manifestations: an hour of public connection and public mediation are named.
+- conflicts/notes: a public setting does not establish the purpose or political character of a connection.
+
+## Contradictions
+
+Witte identifies connections and the mind in relation to the general public; ABC supplies concrete public settings. The entries do not state a direct disagreement or establish a particular political program.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Node = Vernal Point`: Connections with female persons, or of female persons. The mind in relation to the generality.
-- Practical focus: externalizes `Moon/Node` into public-minded relationship, female connection, and feeling tied to the general field. It emphasizes association as something visible, collective, and oriented toward the wider social atmosphere.
-- Practical expression: women's rights.
+In Moon/Node = Vernal Point, Vernal Point specifies the pair through connection in public life. The [Witte entry](#witte-entry) links women and the mind's relation to the general public; the [ABC entry](#abc-entry) places emotional and maternal ties, mediation for women, and connections among peoples in that public setting (printed p. 174, PDF p. 86). The emphasis is where and among whom association occurs, rather than a specific doctrine of rights.
 
 ## Links
 

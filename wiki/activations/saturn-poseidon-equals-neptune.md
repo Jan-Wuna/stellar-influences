@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Neptune`
 - Astronomicon formula: `W/¨ = Y`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,34 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 Lack of leadership or dignity. To lose one’s grip or one’s bearings. To let others take over.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source page: `369`; PDF page: `183`.
+
 burdensome spiritual weakness, disappointing problems with the truth, recognition of future duties, serious insights in metaphysics, concentration on clear water, cultural duties for the future, and problematic denial of the truth
 
+## Comparative Schema
+
+- core meaning: Difficulty maintaining direction or truth alongside a search for deeper understanding.
+- psychology: Lost bearings, disappointment and serious metaphysical insight are distinct source possibilities.
+- body/health: Spiritual weakness is source language; no bodily condition is specified.
+- social/relationship: Others may take over when leadership or direction weakens.
+- events/manifestations: Recognizing future duties, cultural tasks and concentration on clear water are ABC examples.
+- conflicts/notes: Insight and problematic denial of truth both appear; no single response is guaranteed.
+
+## Contradictions
+
+Witte emphasizes loss of bearings and relinquished leadership; ABC also includes insight and recognition of tasks. These differ in emphasis rather than directly denying one another.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Neptune`: lack of leadership or dignity, to lose one’s grip or one’s bearings, to let others take over.
-- Practical expression: burdensome spiritual weakness, disappointing problems with the truth, recognition of future duties, serious insights in metaphysics, and concentration on clear water.
+In `Saturn/Poseidon = Neptune`, Neptune specifies the outlook through uncertainty of direction: one may lose one's bearings or allow others to take over, while truth becomes difficult or disappointing ([Witte](#witte-entry), [ABC](#abc-entry)). ABC also retains serious metaphysical insights and recognition of future cultural duties. The tension is between weakened orientation and a search for understanding; insight does not by itself establish that denial or uncertainty has been resolved. The clear-water reference remains a specific ABC example without an added symbolic explanation.
 
 ## Links
 

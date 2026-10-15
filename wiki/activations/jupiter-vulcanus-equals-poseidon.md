@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Poseidon`
 - Astronomicon formula: `V/§ = ¨`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, oriented activator row; printed page unconfirmed.
+
 Great reason, wisdom, faith. HappinesS through reason, wisdom, righteous intelligence, insight.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of Law and reason, successful mental influence, successful cultural power, joy over spiritual power, happiness through spiritual energy, clarity through strong law, powerful cultural law, and strong legal culture
+- Source reference: printed p. 345; one-based PDF p. 171, Jupiter + Vulkanus, oriented activator row.
+
+Influence of law and reason, successful intellectual/spiritual influence, successful cultural power, joy in intellectual/spiritual strength, happiness through intellectual/spiritual energy, clarity through strong law, powerful cultural law, and strong legal culture.
+
+## Comparative Schema
+
+- core meaning: Happiness through reason, wisdom, faith and insight meets intellectual, cultural and legal influence.
+- psychology: Joy in intellectual/spiritual strength and happiness through its energy are explicit motifs.
+- body/health: The intellectual/spiritual energy language does not specify a bodily condition or medical effect.
+- social/relationship: Cultural power, cultural law and strong legal culture supply collective settings.
+- events/manifestations: Successful intellectual/spiritual influence and clarity through strong law.
+- conflicts/notes: ABC's geistig allows intellectual as well as spiritual meaning; neither entry establishes that success itself proves moral justification.
+
+## Contradictions
+
+Witte emphasizes reason, wisdom, faith and righteous intelligence. ABC specifies intellectual/spiritual influence and cultural/legal power. No direct contradiction is stated; these are not a claim that every powerful outcome is morally justified.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Poseidon`: happiness through clear intelligence, righteous understanding, principled belief, and mentally or spiritually guided strength.
-- Chart expression: wise power, fortunate judgment, and success that feels morally or intellectually justified.
+`Jupiter/Vulcanus = Poseidon` connects happiness with reason, wisdom and insight. Intellectual or spiritual strength can also have an outward influence through culture, law and the clarity of legal understanding. [Witte's reason and wisdom](#witte-entry) and [ABC's cultural and legal clauses](#abc-entry) support this relationship between understanding and influence without treating worldly success as proof of righteousness.
 
 ## Links
 

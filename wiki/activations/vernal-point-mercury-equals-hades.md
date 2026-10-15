@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Hades](../triads/vernal-point-mercury-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 The ugly mindset of the public. Old news. News about history.
 
@@ -42,13 +46,27 @@ The ugly mindset of the public. Old news. News about history.
 
 #### ABC Entry
 
-danger to youth in public life, dangerous public traffic, secret reports in public, youth crime in public, and hidden public opinion
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Worried public opinion, danger to youth in public life, dangerous public traffic, secret reports in public, youth crime in public, and concealed public opinion
+
+## Comparative Schema
+
+- core meaning: Public communication concerned with danger, concealment, or the past.
+- psychology: Worried public opinion is explicit; Witte's ugly mindset is evaluative.
+- body/health: No specific bodily or health claim is supplied.
+- social/relationship: Danger to youth and youth crime are distinct source examples.
+- events/manifestations: Dangerous traffic, secret reports, old news, and historical news.
+- conflicts/notes: Historical news is not inherently harmful; the omitted worry clause is restored.
+
+## Contradictions
+
+News about history and old news are neutral historical examples alongside adverse public opinion and danger. These scopes remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Hades`: the ugly mindset of the public, old news, and news about history.
-- Practical expression: danger to youth in public life, dangerous public traffic, secret reports in public, youth crime in public, and hidden public opinion.
+In `Vernal Point/Mercury = Hades`, public thought turns toward worry, hidden information, or what belongs to the past. The [Witte entry](#witte-entry) gives an evaluative description of public mindset and names old or historical news. The restored [ABC entry](#abc-entry) adds worried opinion, secret reports, youth-related danger or crime, and dangerous traffic. The synthesis preserves historical inquiry as a separate expression from harmful or concealed public communication.
 
 ## Links
 

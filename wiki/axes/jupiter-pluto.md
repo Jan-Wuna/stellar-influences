@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Pluto
 factor_a: Jupiter
 factor_b: Pluto
 related_activations:
+  - Jupiter/Pluto = Jupiter
+  - Jupiter/Pluto = Pluto
   - Jupiter/Pluto = Admetos
   - Jupiter/Pluto = Apollon
   - Jupiter/Pluto = Asc
@@ -74,12 +76,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/PLUTO`
-- Source page: `267`
+- Source heading: `JUPITER + PLUTO`
+- PDF page: `210`
 
 #### Pair Summary
 
@@ -87,11 +91,15 @@ Fortunate development, change or transformation. Healthy growth. Currency Exchan
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `330–331`; PDF page: `164`.
+
 #### ABC Pair Summary
 
-Finanz development, joy, legal, vortdlhafter Wandel, and wachsendes happiness
+Development funds, successful development, financial development, unfolding joy, money transaction, fortunate change, legal development, change through money, advantageous transformation, and growing happiness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `234`; PDF page: `236` (complete pair entry and heading footnote 50).
 
 #### Principle
 
@@ -103,7 +111,7 @@ Desire for power (plutocracy).
 
 #### Biological Correspondence
 
-Regeneration of the organs {restitutio ad integrum). Blood transfusion.
+Regeneration of the organs (restitutio ad integrum). Blood transfusion.
 
 #### Sociological Correspondence
 
@@ -111,7 +119,11 @@ Organizers handling large projects, professors and teachers of economy and of la
 
 #### Probable Manifestations
 
-+ Leading or participating in uprisings, attainment of leadership. - Loss of social standing and wealth, conflict with the authorities and the executors of governmental power (arrest). The misfortune to lose everything. 50 Blood transfusions have frequently been found to have Sun-Neptune-Pluto combinations and these chiefly in the case where the results were unsatisfactory or had unfortunate consequences. See also 0266. As a rule, Jupiter/Pluto indicates a successful blood transfusion.
++ Leading or participating in uprisings, attainment of leadership. - Loss of social standing and wealth, conflict with the authorities and the executors of governmental power (arrest). The misfortune to lose everything.
+
+#### Source Footnote 50
+
+Blood transfusions have frequently been found to have Sun-Neptune-Pluto combinations and these chiefly in the case where the results were unsatisfactory or had unfortunate consequences. See also 0266. As a rule, Jupiter/Pluto indicates a successful blood transfusion.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -183,14 +195,17 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** A powerful drive to grow, improve, and transform, expressed through large aims, resources, organization, or influence ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Hand](#robert-hand---horoscope-symbols)).
+- **Psychology:** Enthusiasm and persistence can support renewal; grandiosity, compulsive excess, and fanatical certainty are explicitly difficult expressions.
+- **Body/health:** Ebertin's regeneration/transfusion assertions and Munkasey's `Primary cancer indicator` are historical source claims, not medical evidence. The separately preserved source footnote 50 refers to Sun-Neptune-Pluto and then Jupiter/Pluto; its historical medical assertions remain distinct from the pair's interpretation.
+- **Social/relationship:** Leadership and support for disadvantaged people coexist with the risk of exploitation, coercion, and treating others as instruments of personal power ([Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+- **Events/manifestations:** Large projects, attainment or loss of standing, financial transformation, conflict with authority, and major changes are named possibilities. Falis adds recovering value from discarded things and retaining optimism under pressure.
+- **Conflicts/notes:** Constructive renewal and destructive control are alternatives, not proof that one leads inevitably to the other. ABC emphasizes favorable development, financial change, and growing happiness without supplying the other entries' full power-conflict range.
 
 ## Related Activations
+
+- [Jupiter/Pluto = Jupiter](../activations/jupiter-pluto-equals-jupiter.md)
+- [Jupiter/Pluto = Pluto](../activations/jupiter-pluto-equals-pluto.md)
 
 - [Jupiter/Pluto = Admetos](../activations/jupiter-pluto-equals-admetos.md)
 - [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md)
@@ -216,15 +231,14 @@ Primary cancer indicator; tends to accumulate fat and poisons in the body; ineff
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Witte's favorable development and the other entries' leadership, renewal, exploitation, and loss give different breadths of interpretation. Their positive and negative possibilities are not direct contradictions, and beneficial transformation must not erase the explicit coercive range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto` is the axis of magnified power, ambitious growth, large-scale influence, and regenerative success. It combines expansion, faith, law, and opportunity with control, depth, pressure, and the urge to transform systems or masses.
-- Chart expression: leadership, strategic organization, reform, resilience under extreme conditions, and the ability to turn crisis into greater reach or authority. Liabilities: fanaticism, megalomania, exploitation, speculative excess, moral inflation, and power struggles driven by the conviction that one must prevail at any cost.
+Jupiter/Pluto describes an intense drive for growth that seeks the power and resources to make substantial changes. Large aims, organizing ability, and persistent enthusiasm can support leadership, renewal, or the determination to improve difficult conditions. Transformation also includes finding value in what has been discarded and sustaining optimism through turmoil ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Falis](#michelle-falis---planet-combinations-astrological-brainstorms)).
+
+The difficult range concerns what this drive demands of others and how far it goes: excess, fanaticism, exploitation, or coercive control can accompany the pursuit of influence. Growth may also bring conflict with people in authority or those threatened by achievement. These possibilities preserve the pair's tension between improvement and domination without promising either wealth or downfall ([Hand](#robert-hand---horoscope-symbols); [Munkasey, printed p. 267](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); [Banzhaf/Haebler, PDF p. 329](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [Sun MC Kronos](../triads/sun-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 To strive for independence. To exert personal authority.
 
@@ -42,13 +46,27 @@ To strive for independence. To exert personal authority.
 
 #### ABC Entry
 
-Dominance of the inner being of one person, my great body, my self being as a human being, my personal authority, my corporal dominance, my personal self esteem, a human being's spiritual great, and important minute of the day
+Source: “Meridian + Kronos,” printed p. 90 (PDF p. 44).
+
+Dominance of a person's inner being, my large body, my self-confidence as a person, my personal authority, my bodily dominance, my personal independence, a person's inner or soul greatness, and an important minute during the day.
+
+## Comparative Schema
+
+- core meaning: Personal authority and independence expressed through the individual, self-confidence, and bodily presence.
+- psychology: Striving for independence and inner stature.
+- body/health: ABC names a large body or bodily dominance, without a medical effect.
+- social/relationship: Exerting personal authority, without a specified rank or institution.
+- events/manifestations: Personal independence and an important moment during the day.
+- conflicts/notes: Authority and bodily presence do not establish sovereignty over others or a formal rank.
+
+## Contradictions
+
+Witte gives a concise independence/authority statement; ABC develops self-confidence, bodily presence, and inner stature. No direct conflict is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Sun` embodies the axis in the striving for independence and personal authority.
-- Chart expression: a life directed toward commanding one's own course, asserting rank openly, and making personal greatness or sovereignty the center of identity.
+In `MC/Kronos = Sun`, Sun specifies personal authority and independence through one's own self-confidence, presence, and conduct. Witte names striving for independence and exerting personal authority; ABC adds bodily presence, inner stature, and personal independence. The emphasis is individual authority and self-direction, without requiring formal rank or a sovereign position over other people. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 90 / PDF p. 44)
 
 ## Links
 

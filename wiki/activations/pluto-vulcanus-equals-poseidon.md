@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Vulcanus = Poseidon`
 - Astronomicon formula: `Z/§ = ¨`
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 263.
+
 Great transformations of inclinations towards world concept.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced cultural development, tremendous mental changes, violent change in truth, powerful unfolding of truth, strong spiritual development, transfonnation of spiritual energies, altered cultural influence, and growing spiritual force
+- Source page: 421 (printed); PDF page: 209.
+
+Influential cultural development, tremendous spiritual or intellectual changes, violent alteration of truth, forceful unfolding of truth, strong spiritual development, transformation of spiritual energies, changed cultural influence, growing spiritual strength.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Powerful changes in outlook, culture, and spiritual or intellectual development.
+- Psychology: Transformation of one's world conception and growth of spiritual strength.
+- Body/health: No specific medical correspondence is established by these entries.
+- Social/relationship: Cultural influence rather than a specific relationship outcome.
+- Events/manifestations: Changed cultural influence and forceful development or alteration of truth.
+- Conflicts/notes: The source's language of truth records a claim about outlook; it does not certify a belief as true.
+
+## Contradictions
+
+The source's language of truth records a claim about outlook; it does not certify a belief as true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Poseidon`: great transformations of inclinations towards world concept.
-- Practical expression: influenced cultural development, tremendous mental changes, violent change in truth, powerful unfolding of truth, and strong spiritual development.
+In `Pluto/Vulcanus = Poseidon`, Poseidon specifies `Pluto/Vulcanus` through a powerful transformation of outlook. The [Witte entry](#witte-entry) centers on one's world conception; the [ABC entry](#abc-entry) adds cultural change, spiritual development, and the forceful unfolding or alteration of truth. This describes the strength of a change in worldview, while leaving the truth of any resulting belief unestablished.
 
 ## Links
 

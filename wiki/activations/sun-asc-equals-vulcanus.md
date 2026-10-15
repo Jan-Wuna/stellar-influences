@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Vulcanus](../triads/sun-asc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be associated with powerful and prestigious people who have a strong influenc
 
 Influence of other persons, energy center of the place, violence of the man's partner, power of the personal partner, power over the body of the partner, power center of a place, strong people in the vicinity, and strong environmental center
 
+## Comparative Schema
+
+- core meaning: Personal contact with power and influence.
+- psychology: Influence is emphasized; no separate psychological mechanism is established.
+- body/health: ABC names power over a partner's body, not a diagnosis.
+- social/relationship: Powerful or prestigious associates and unequal power within partnerships.
+- events/manifestations: Contact with influential people and local centers of power.
+- conflicts/notes: ABC's coercive phrases are retained as possibilities and do not establish inevitable violence.
+
+## Contradictions
+
+Prestige and coercion describe different uses of power, not an explicit contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Vulcanus`: powerful persons and the energetic, vigorous personality.
-- Practical expression: influence of other persons, energy center of the place, violence of the man's partner, power of the personal partner, and power over the body of the partner.
+Vulcanus specifies the Sun/Asc axis through association with people who exert substantial power or influence. The [Witte entry](#witte-entry) emphasizes powerful and prestigious contacts, while the [ABC entry](#abc-entry) also names local centers of power and power within a partnership. ABC includes coercive possibilities, including violence and power over a partner's body; these remain source-attributed extremes within a wider theme of forceful relationships.
 
 ## Links
 

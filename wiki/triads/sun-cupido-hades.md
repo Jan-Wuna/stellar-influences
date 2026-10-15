@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Cupido Hades`
 - Astronomicon triad-set: `S ¡ ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Hades = Sun](../activations/cupido-hades-equals-sun.md)
-- [Sun/Cupido = Hades](../activations/sun-cupido-equals-hades.md)
-- [Sun/Hades = Cupido](../activations/sun-hades-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Hades = Sun](../activations/cupido-hades-equals-sun.md) | [Cupido/Hades](../axes/cupido-hades.md) | [Sun](../factors/sun.md) |
+| [Sun/Cupido = Hades](../activations/sun-cupido-equals-hades.md) | [Sun/Cupido](../axes/sun-cupido.md) | [Hades](../factors/hades.md) |
+| [Sun/Hades = Cupido](../activations/sun-hades-equals-cupido.md) | [Sun/Hades](../axes/sun-hades.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
-- `Cupido/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `424`
-- `Sun/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
-- `Sun/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `159`
-- `Sun/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Hades = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-hades-equals-sun.md#witte-entry), one-based PDF entry-start p. `267`.
+- `Cupido/Hades = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-hades-equals-sun.md#abc-entry), printed p. `424`.
+- `Sun/Cupido = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-cupido-equals-hades.md#witte-entry), one-based PDF entry-start p. `111`.
+- `Sun/Cupido = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-cupido-equals-hades.md#abc-entry), printed p. `159`.
+- `Sun/Hades = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-cupido.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-cupido.md#abc-entry), printed p. `161`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Sun`: the poor husband, a man who feels dependence through poverty, or an itinerant artist surviving by roaming.
-- `Sun/Cupido = Hades`: This formula emphasizes anti-social tendencies and orphanage.
-- `Sun/Hades = Cupido`: This formula emphasizes common mourning and mourning in the family.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Admetos`
 - Astronomicon formula: `Q/§ = ¦`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To be attractive to many. Great urge for science.
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Admetos row; actual glyph and neighboring rows checked.
+
+Strongly rejected caused by appearance. To be very unattractive. Love with great hindrances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Persistent power of love, depression through violent love, strengthening of peacepower, gritty artificial influence, powerful limitations in love, strong limitation of the artist, preference for continued influence, and resistance to love violence
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Admetos row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: Enduring power of love, depression through violent love, consolidation of the power of peace, thorough artistic influence, powerful restrictions in love, strong restriction of art, preference for lasting influence, and resistance to violence in love.
+
+## Comparative Schema
+
+- core meaning: Enduring love-power subject to hindrance, restriction or rejection.
+- psychology: ABC names depression through violent love and a preference for lasting influence.
+- body/health: ABC's depression wording is historical attribution, not a clinical conclusion.
+- social/relationship: Restrictions in love, rejection associated with appearance in Witte, and resistance to violence in ABC.
+- events/manifestations: Consolidation of peace-power, thorough artistic influence and restriction of art.
+- conflicts/notes: The former Witte attraction/science paragraph belongs to Apollon. Thorough artistic influence translates gründlicher Kunst-Einfluß; it does not mean gritty or artificial influence.
+
+## Contradictions
+
+Love's endurance and influence coexist with hindrance, rejection and restrictions. ABC explicitly names resistance to violence; its depression phrase does not establish a diagnosis or an inevitable outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Admetos`: to be attractive to many.
-- Practical expression: persistent power of love, depression through violent love, strengthening of peacepower, gritty artificial influence, and powerful limitations in love.
+In `Venus/Vulcanus = Admetos`, powerful affection meets limits while its influence may endure. The [Witte entry](#witte-entry) names rejection associated with appearance and love facing great hindrances; the [ABC entry](#abc-entry) adds powerful restrictions in love, lasting influence and resistance to violence. Endurance therefore remains distinct from freedom from obstruction. ABC also preserves consolidation of peace-power, thorough artistic influence and restriction of art. Its depression through violent love is an attributed historical claim, without establishing a clinical outcome.
 
 ## Links
 

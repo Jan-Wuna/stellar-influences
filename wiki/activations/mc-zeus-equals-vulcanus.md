@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [MC Zeus Vulcanus](../triads/mc-zeus-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Zeus,” Vulcanus entry, PDF p. 72.
 
 The urge for action cannot be stopped. The word “impossible” does not exist.
 
@@ -42,13 +46,29 @@ The urge for action cannot be stopped. The word “impossible” does not exist.
 
 #### ABC Entry
 
+Source: “Meridian + Zeus,” Vulcanus entry, printed p. 89 / PDF p. 43. Translation checked against the German passage.
+
 Fiery power of the soul, I produce force, inner leadership power, my energetic leadership, my leadership power, my power of achievement, my goals of power, my powerful efforts, my creative energies, and psychic leadership influence
+
+## Comparative Schema
+
+- **Core meaning:** Persistent and forceful drive toward action.
+- **Psychology:** A refusal to accept limits, as Witte's emphatic image.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Energetic leadership and influence.
+- **Events/manifestations:** Powerful effort and creative accomplishment.
+- **Conflicts/notes:** Witte's absolute wording is retained as rhetoric, not a guarantee of success.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 89 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+Witte uses an absolute image of unstoppable action. ABC names force, inner leadership, power goals and creative energy, without supplying an external result for every effort.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Vulcanus` makes the axis relentless, unstoppable, and difficult to resist.
-- Chart expression: overpowering drive, action pursued as if nothing were impossible, and a vocational force that keeps pressing until the intended result is achieved.
+In `MC/Zeus = Vulcanus`, Vulcanus specifies the pair's personal creative effort through forceful persistence and the power to direct activity. Witte expresses the urge emphatically as unstoppable and rejecting the impossible; ABC connects energetic leadership, power goals and creative energy with powerful efforts. These descriptions concern the intensity and direction of striving, while Witte's absolute wording does not guarantee that every intended result can be achieved. ([Witte](#witte-entry), PDF p. 72; [ABC](#abc-entry), printed p. 89 / PDF p. 43)
 
 ## Links
 

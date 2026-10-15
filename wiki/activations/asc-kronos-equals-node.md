@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Kronos](../axes/asc-kronos.md)
 - Triad hub: [Node Asc Kronos](../triads/node-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 To be received by independent people. To be engaged to work. To enter a position.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Node row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Directing contacts for others, connected to a large place, self reliant partner connection, connection to local authority, meeting in a permanent place, primary connection to the partner, and important connections at the place
+Directing contacts for others, connection with a large place, an independent partner connection, connection to local authorities, meeting at a state site, a priority connection to the partner, and important local connections.
+
+Source reference: Udo Rudolph, printed p. 128, one-based PDF p. 63, “Aszendent + Kronos,” Node glyph row; checked on the actual scan. “Staatlichen Platz” means state site, not permanent place; “selbständige” retains independence.
+
+## Comparative Schema
+
+- **Core meaning:** Connections bring entry into work or link people with authorities and significant places ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Neither entry gives a personal motive for seeking contacts or a trait of dependence.
+- **Body/health:** Neither entry gives a body or health claim.
+- **Social/relationship:** Reception by independent people, directing contacts for others, and an independent partner connection are explicit.
+- **Events/manifestations:** Engagement to work, entry into a position, contact with local authorities, and a meeting at a state site are concrete examples.
+- **Conflicts/notes:** Independence is expressly represented; connection with hierarchy does not by itself establish dependency.
+
+## Contradictions
+
+Witte's work entry and ABC's contacts with authorities or places overlap in institutional connection. Both also include independence, with no explicit opposition or rule of necessary dependence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Node`: appointments, professional entry, and relationships structured by authority, status, or official inclusion. Main caution: connection through hierarchy: the ties gained often come with dependency built in.
+In `Asc/Kronos = Node`, Node specifies the pair through connections that bring people into work or into contact with authority. Witte names reception by independent people, being engaged to work, and entering a position. ABC adds directing contacts for others, links to local authorities or a large place, and a meeting at a state site. Its independent partner connection keeps independence within the range of these institutional ties. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

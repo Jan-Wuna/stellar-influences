@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Encourages more recklessness than usual; numerous physical encounters with other
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Reckless activity can become entangled with force and moral justification.
+- psychology: Increased anger over others' morals and religious excuses for force are explicit.
+- body/health: Physical encounters are stated without a medical condition.
+- social/relationship: Encounters with others and reactions to their standards are central.
+- events/manifestations: The passage names numerous physical encounters without a particular event.
+- conflicts/notes: This “With Itself” entry concerns a difficult repeated-factor expression; it does not inherit other activations' favorable meanings.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present; it gives no independent comparison or countervailing favorable account.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Jupiter`: Encourages more recklessness than usual; numerous physical encounters with others; allows the use religious scruples as an excuse for using force in situations; increased anger over the morals of others as they apply to one.
+In this repeated-factor formula, Jupiter specifies the Mars/Jupiter axis through increased recklessness and morally justified force. The [Munkasey entry](#munkasey-entry) connects frequent physical encounters with religious scruples used as excuses and anger at other people's morals. Its scope is this particular difficult expression; the passage neither endorses the justification nor establishes that force is warranted.
+
+Source locator: Munkasey, “MARS/JUPITER With Itself,” printed p. 226.
 
 ## Links
 

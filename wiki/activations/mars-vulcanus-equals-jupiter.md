@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Jupiter Vulcanus](../triads/mars-jupiter-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Joyous and hopeful activity. Optimistic attitude towards activity. Joy over the successful and results of a deed.
 
@@ -42,13 +46,27 @@ Joyous and hopeful activity. Optimistic attitude towards activity. Joy over the 
 
 #### ABC Entry
 
-Influenced success actions, influential money activity, successful work force, financial force through work, power through work with money, powerful work joy, right wing influence on work, strong impulses of joy, and strong work right
+Source: “Mars + Vulkanus,” printed p. 320 (PDF p. 159).
+
+Influential successful actions, influential financial activity, successful working strength, financial strength through work, power through working with money, great joy in work, legal influence on work, strong impulses of joy, and strong labour law.
+
+## Comparative Schema
+
+- core meaning: Powerful effort expressed with success, joy, financial strength, or legal influence.
+- psychology: Hope, optimism about activity, and pleasure in a deed's results.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Influence through money and legal conditions affecting work.
+- events/manifestations: Successful work, financial activity, and strong labour law in ABC's terms.
+- conflicts/notes: Favorable source possibilities do not establish that every powerful undertaking succeeds.
+
+## Contradictions
+
+No direct conflict appears: Witte emphasizes hopeful activity and results, while ABC develops work, money, and legal expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Jupiter` gives great force a hopeful, successful, and confident expression.
-- Chart expression: joyful and optimistic effort, strong confidence in action, and pleasure in the success or concrete results produced by powerful deeds.
+In `Mars/Vulcanus = Jupiter`, Jupiter specifies powerful effort through hopeful activity, successful results, and joy in what is accomplished. Witte emphasizes the optimistic attitude and pleasure in a deed's outcome; ABC makes the work setting more concrete through financial strength, influence through money, and legal conditions affecting labour. These are favorable possibilities in the entries rather than a promise that forceful action must succeed. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 320 / PDF p. 159)
 
 ## Links
 

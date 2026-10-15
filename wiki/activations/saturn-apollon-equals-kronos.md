@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Kronos`
 - Astronomicon formula: `W/¥ = ¤`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Successful method. Government methods. Forms of government.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Loss of reputation leading, spread of great pain, concentration on special knowledge, acceptance of public duties, priority tasks of science, important old knowledge, and increasing state losses
+- Source page: 363 (printed); PDF page: 180.
+
+Reputation losses of leaders, spread of great pain, concentration on special knowledge, increase of state duties, priority tasks of science, important old knowledge, increasing state losses.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Government method and specialized knowledge under public responsibility.
+- Psychology: Concentration on special knowledge.
+- Body/health: Painful experience is named without specifying a medical condition or establishing a diagnosis.
+- Social/relationship: Reputation losses of leaders and increasing state duties or losses.
+- Events/manifestations: Forms of government, scientific priorities, and widespread pain.
+- Conflicts/notes: Witte's successful method is not a guarantee against ABC's public losses.
+
+## Contradictions
+
+Witte's successful method is not a guarantee against ABC's public losses.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Kronos`: successful method, government methods, forms of government.
-- Practical expression: loss of reputation leading, spread of great pain, concentration on special knowledge, acceptance of public duties, and priority tasks of science.
+In `Saturn/Apollon = Kronos`, Kronos specifies the pair through government methods and forms of government in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds specialized knowledge and scientific priorities, with growing state duties and losses or damage to leaders' reputation. Successful method remains one source expression alongside the burdens of public responsibility.
 
 ## Links
 

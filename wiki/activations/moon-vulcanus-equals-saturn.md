@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = W`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Saturn Vulcanus](../triads/moon-saturn-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To cause public interest through one’s own good fortune. To spread optimism around oneself. Dealing with optimistic women, to spend happy hours with them. To be fortunate with representatives of the public and with people having financial power.
+- Source passage: PDF p. 136; Saturn row checked visually.
+
+To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source passage: printed p. 205; PDF p. 101.
+
 tremendous tasks for a people, influence of a mature woman, energy problems of a people, loss of influence of a woman, power of a woman in old age, power of a woman through patience, strong emotional problems, and hour of separation from the woman
+
+## Comparative Schema
+
+- core meaning: power meets demanding tasks, loss, or separation ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: emotional problems and patience appear in ABC's contrasting examples.
+- body/health: no specific medical claim is present; collective energy problems are not an individual diagnosis.
+- social/relationship: noisy separation, lost public influence, and separation from a woman are explicit examples.
+- events/manifestations: a strike, watch-duty, major collective tasks, and influence in old age occur in the entries.
+- conflicts/notes: patience and maturity may sustain power even where other examples describe its loss.
+
+## Contradictions
+
+Witte stresses separation and lost influence; ABC also gives power through patience or age. These are different expressions under difficulty, not a statement that age always weakens or strengthens influence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Saturn`: To cause public interest through one’s own good fortune. To spread optimism around oneself. Dealing with optimistic women, to spend happy hours with them. To be fortunate with representatives of the public and with people having financial power.
-- Practical expression: tremendous tasks for a people, influence of a mature woman, energy problems of a people, loss of influence of a woman, and power of a woman in old age.
+Saturn specifies Moon/Vulcanus where influence is tested by demands, separation, or loss. [Witte](#witte-entry) describes a noisy break and loss of public influence; [ABC](#abc-entry) adds major tasks and energy difficulties while retaining power gained through patience or maturity. The range includes both diminished influence and the strength required to persist, without making either a universal result of age.
 
 ## Links
 

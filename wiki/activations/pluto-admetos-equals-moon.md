@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Moon Pluto Admetos](../triads/moon-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 Deep reaching transformation through or with women in the life of a people or in the public.
 
@@ -42,13 +46,27 @@ Deep reaching transformation through or with women in the life of a people or in
 
 #### ABC Entry
 
-Blocked development of animals, grild transformation of women, hour of a restrictive change, profound changes in a people, changes in feelings depression, growing feelings blockade, and growing depression in a woman
+- Source page: 418 (printed); PDF page: 208 (one-based; exact row checked).
+
+Blocked emotional development, thorough transformation of a woman, the hour of a restrictive change, profound changes within a people, changes through emotional depressions, growing emotional blockage, growing depression in a woman.
+
+## Comparative Schema
+
+- core meaning: deep change in emotional life, through women or within a people.
+- psychology: blocked emotional development and the source's growing depression or emotional blockage.
+- body/health: the depression statements are attributed historical claims, not diagnoses of women or a people.
+- social/relationship: transformation through or with women and changes in collective or public life.
+- events/manifestations: a restrictive change and profound changes within a people.
+- conflicts/notes: Historical gendered statements remain attributed; emotional restriction and collective transformation are distinct scales of the source's range.
+
+## Contradictions
+
+Historical gendered statements remain attributed; emotional restriction and collective transformation are distinct scales of the source's range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Moon`: deep reaching transformation through or with women in the life of a people or in the public.
-- Practical expression: blocked development of animals, hour of a restrictive change, profound changes in a people, changes in feelings depression, and growing feelings blockade.
+Moon specifies `Pluto/Admetos` through profound change in emotional or collective life. The [Witte entry](#witte-entry) locates transformation through or with women in a people's life or in public; the [ABC entry](#abc-entry) adds blocked emotional development and changes through emotional depression. The supported tension is between deep transformation and feelings becoming more restricted. Its gendered examples and depression language remain historical source statements, without diagnosing a person or population.
 
 ## Links
 

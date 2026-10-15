@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Cupido Zeus Admetos`
 - Astronomicon triad-set: `¡ £ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Admetos = Zeus](../activations/cupido-admetos-equals-zeus.md)
-- [Cupido/Zeus = Admetos](../activations/cupido-zeus-equals-admetos.md)
-- [Zeus/Admetos = Cupido](../activations/zeus-admetos-equals-cupido.md)
+- [Cupido/Admetos = Zeus](../activations/cupido-admetos-equals-zeus.md): base axis [Cupido/Admetos](../axes/cupido-admetos.md); activator [Zeus](../factors/zeus.md).
+- [Cupido/Zeus = Admetos](../activations/cupido-zeus-equals-admetos.md): base axis [Cupido/Zeus](../axes/cupido-zeus.md); activator [Admetos](../factors/admetos.md).
+- [Zeus/Admetos = Cupido](../activations/zeus-admetos-equals-cupido.md): base axis [Zeus/Admetos](../axes/zeus-admetos.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Cupido/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `433`
-- `Cupido/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
-- `Cupido/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `427`
-- `Zeus/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+The following coverage records the source subentries currently present on each linked activation page.
+
+- `Cupido/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-admetos-equals-zeus.md#witte-entry), PDF entry-start page `271`.
+- `Cupido/Admetos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-admetos-equals-zeus.md#abc-entry), printed page `433`.
+- `Cupido/Zeus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-zeus-equals-admetos.md#witte-entry), PDF entry-start page `268`.
+- `Cupido/Zeus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-zeus-equals-admetos.md#abc-entry), printed page `427`.
+- `Zeus/Admetos = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-cupido.md#witte-entry), PDF entry-start page `293`.
+- `Zeus/Admetos = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-cupido.md#abc-entry), printed page `455`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Zeus`: tackling a problem, delay in a newly established firm, or the start of a major artistic creation under obstruction.
-- `Cupido/Zeus = Admetos`: concerted effort meeting grave obstacles and the difficult start of a young firm or new organization.
-- `Zeus/Admetos = Cupido`: Changes of conditions in the family as well as socially; Changes in the general social forms or manners.
+Cupido, Zeus and Admetos form one unordered lookup set, but the three formulas change the midpoint pair and the activator. Follow the exact formula above for its interpretation and source entries; use its base axis for the shared pair meaning and its factor links for standalone evidence. The orientations are not interchangeable.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Cupido/Admetos](../axes/cupido-admetos.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)

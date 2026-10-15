@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Asc`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = Asc`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Asc Zeus](../triads/sun-asc-zeus.md)
@@ -44,11 +45,25 @@ Convocation (mustering troops into service). Comradeship. To back others. Handli
 
 leading other people, fire on the day at the place, fiery personal partner, leadership figures in the environment, founding of a center at the place, persons of local leadership, personal efforts with others, and creative people in the environment
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Effort is organized with or on behalf of others.
+- psychology: The entries do not establish a separate emotional trait.
+- body/health: No health claim is supplied.
+- social/relationship: Comradeship, backing others, and leading people are explicit.
+- events/manifestations: Mustering troops, handling machines, and local leadership are examples.
+- conflicts/notes: Witte's military example is one setting alongside ordinary cooperative effort.
+
+## Contradictions
+
+No direct contradiction is established by the entries; the listed manifestations remain alternatives. No direct contradiction is established within the available entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Asc`: active in an environment and to be active.
-- Practical expression: leading other people, fire on the day at the place, fiery personal partner, leadership figures in the environment, and founding of a center at the place.
+Asc specifies Sun/Zeus through active engagement with other people: comradeship, backing others, or directing shared effort. Witte's mustering of troops and handling of machines give concrete expressions, while ABC places leaders and creative people in the local environment. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

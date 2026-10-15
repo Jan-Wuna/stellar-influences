@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Apollon Admetos`
 - Astronomicon triad-set: `Z ¥ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Apollon/Admetos = Pluto](../activations/apollon-admetos-equals-pluto.md)
-- [Pluto/Admetos = Apollon](../activations/pluto-admetos-equals-apollon.md)
-- [Pluto/Apollon = Admetos](../activations/pluto-apollon-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Admetos = Pluto](../activations/apollon-admetos-equals-pluto.md) | [Apollon/Admetos](../axes/apollon-admetos.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Admetos = Apollon](../activations/pluto-admetos-equals-apollon.md) | [Pluto/Admetos](../axes/pluto-admetos.md) | [Apollon](../factors/apollon.md) |
+| [Pluto/Apollon = Admetos](../activations/pluto-apollon-equals-admetos.md) | [Pluto/Apollon](../axes/pluto-apollon.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Apollon/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
-- `Apollon/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `469`
-- `Pluto/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `419`
-- `Pluto/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `417`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Apollon/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-admetos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `306`.
+- `Apollon/Admetos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-admetos-equals-pluto.md#abc-entry), printed p. `469`.
+- `Pluto/Admetos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `262`.
+- `Pluto/Admetos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-apollon.md#abc-entry), printed p. `419`.
+- `Pluto/Apollon = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-apollon-equals-admetos.md#witte-entry), one-based PDF entry-start p. `261`.
+- `Pluto/Apollon = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-apollon-equals-admetos.md#abc-entry), printed p. `417`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Pluto`: a development that begins well and proceeds along a satisfying, favorable line once it is underway.
-- `Pluto/Admetos = Apollon`: This activation emphasizes the change that brings happiness, contentment and is satisfactory.
-- `Pluto/Apollon = Admetos`: This activation emphasizes stagnation of development in a small circle; To be satisfied about it; Radical change for a few.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

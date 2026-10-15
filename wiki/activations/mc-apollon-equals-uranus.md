@@ -30,25 +30,39 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Uranus MC Apollon](../triads/uranus-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<•) Sudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.
+- Source passage: `MERIDIAN + APOLLON`; one-based PDF page `74` (Uranus row checked against the raw scan).
+
+Sudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-My new knowledge, my surprising success, my strength impulses, my tchnic experiences, ncues knowledge of the soul, reforming the knowledge of the soul, experiencing psychic excitement, and surprising liberation of the soul
+- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+My new knowledge, my surprising success, my impulses toward freedom, my technical experiences, new knowledge of the soul, reforming knowledge of the soul, experiencing inner excitement, surprising liberation of the soul.
+
+## Comparative Schema
+
+- **Core meaning:** Sudden experience and new knowledge.
+- **Psychology:** Excitement and a surprising sense of liberation are represented.
+- **Body/health:** No particular medical meaning is established.
+- **Social/relationship:** The entry gives no defined relationship pattern.
+- **Events/manifestations:** Technology, industry, factories, and astrology are named settings.
+- **Conflicts/notes:** ABC's impulse is toward freedom, with technical experience and new knowledge of the soul. Witte's astrologer is one named example among technology, industry and factories, not an exclusive vocation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Uranus` electrifies the axis through sudden experiences and technical-scientific connection.
-- Chart expression: unexpected widening of the horizon, innovative science, and a life role linked to technology, industry, or astrology as a specialized field of insight.
+Uranus specifies `MC/Apollon` through sudden experiences and new knowledge, particularly in technical or industrial settings. Surprise, excitement, and unexpected liberation connect the two entries; Witte also names the astrologer as a specific example, without making it the only field of expression. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 93.)
 
 ## Links
 

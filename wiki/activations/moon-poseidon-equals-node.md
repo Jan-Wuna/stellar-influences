@@ -25,6 +25,7 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Poseidon = Node`
 - Astronomicon formula: `R/¨ = g`
 - Axis page: [Moon/Poseidon](../axes/moon-poseidon.md)
@@ -34,21 +35,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Poseidon`, PDF p. `138` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 To be in contact with receptive people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Poseidon`, printed p. `206`, PDF p. `102` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Encounters with cultured women, knowledgeable fellowship, spiritual connection with women, clear feelings in a connection, contacts with insightful women, hour of truth in a connection, and V ties to the culture of a people
+Encounters with cultured women, an insightful emotional connection, a spiritual connection with a woman, clear feelings in a connection, contacts with insightful women, an hour of truth in a connection, and connections with a people's culture.
+
+## Comparative Schema
+
+- core meaning: contact with receptive or insightful people.
+- psychology: clarity and insight within an emotional connection are represented in ABC.
+- body/health: neither entry supplies a bodily or health manifestation.
+- social/relationship: receptive contacts, cultured women, spiritual connection, and cultural ties are explicit.
+- events/manifestations: encounters and an hour of truth within a connection.
+- conflicts/notes: contact is established as a motif, but neither permanence nor agreement is specified.
+
+## Contradictions
+
+- No direct incompatibility is stated. Witte supplies a broad contact motif; ABC gives emotional, spiritual, and cultural examples without claiming that every connection has all those qualities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Node`: To be in contact with receptive people.
-- Practical expression: encounters with cultured women, knowledgeable fellowship, spiritual connection with women, clear feelings in a connection, and contacts with insightful women.
+Node specifies the Moon/Poseidon pair through connections in which receptivity and understanding matter. Witte's contact with receptive people becomes more particular in ABC's encounters with insightful or cultured women, clear feelings within a connection, and ties to a people's culture ([Witte entry](#witte-entry); [ABC entry](#abc-entry), printed p. 206). The orientation concerns the quality and subject of contact; it does not establish how long the tie lasts.
 
 ## Links
 

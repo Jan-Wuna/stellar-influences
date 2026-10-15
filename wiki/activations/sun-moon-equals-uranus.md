@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Uranus`
 - Astronomicon formula: `S/R = X`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, Uranus entry under Sun + Moon.
+
 Exciting and trying days. Daily tension. Sudden events in a partnership or marriage. A clash in marriage or partnership.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting body feeling, agitated woman's body, man's impulse, body rhythm, new woman for the man, new man for the woman, special event with the woman, personal feeling tensions, and tensions between woman and man
+Source locator: printed page 139 / PDF page 68, Uranus glyph row under Sun + Moon. English translation checked against the scan.
+
+Exciting bodily feeling, the woman's excited body, the man's impulses of feeling, a bodily rhythm full of feeling, a new woman for the man, a new man for the woman, a personal event with the woman, personal emotional tensions, and tensions between woman and man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 78, entry 0188.
 
 The urge for freedom, the urge to act independently, lack of adaptability, inner rebellion. Sudden events in friendship, marriage, parental home, shared upsets, sudden conflicts, separation of the partners.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 7, Uranus entry under Sun/Moon.
 
 To direct one’s energies in an independent or sporadic manner, and usually along unique or unusual lines. A whole-hearted love of speculation and innovation. A genius for bringing to light energies in the subconscious. One is vitalized by being able to live freely and by following one’s own path above and beyond the restrictions of so cial demands and any limitations that others might try to impose.
 
@@ -70,22 +80,21 @@ Setting yourself aside from the ordinary or mundane; applying ingenuity to compl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Independent energy, emotional excitement and sudden change in personal bonds.
+- psychology: Freedom, innovation and ingenuity; rebellion or lack of adaptability can accompany the independence.
+- body/health: Excited bodily feeling and rhythm; Sandbach describes vitality through freedom, without a specified medical outcome.
+- social/relationship: Tension, new partners and sudden events or clashes in friendship, marriage or the parental home.
+- events/manifestations: Unusual plans and approaches, sudden turns and innovative ideas; Munkasey includes astrological methods.
+- conflicts/notes: Creative freedom and disruptive tension are different expressions; separation and new-partner examples are not inevitable outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress tension and disruption, while Sandbach and Munkasey also emphasize innovation, ingenuity and freedom. ABC includes both excitement and interpersonal tension, without resolving the range into one required outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Uranus`: sudden emotional realization, unusual bonds, and the capacity to break stale patterns between purpose and feeling quickly. Main caution: instability: the luminary field can become too restless, reactive, or divided between closeness and independence to settle easily.
+In `Sun/Moon = Uranus`, Uranus specifies the Sun/Moon pair through an independent or sudden expression of energy and feeling. [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) describe unusual approaches, innovation and following one's own path; [ABC](#abc-entry) gives bodily excitement and emotional impulses alongside tension between partners. That independence can also meet a difficulty in adapting, which [Ebertin](#ebertin-entry) links with rebellion and shared upsets, while [Witte](#witte-entry) describes sudden events and clashes in bonds. The range joins inventive freedom with potentially disruptive change; it does not require a new partner, separation or a particular event schedule.
 
 ## Links
 

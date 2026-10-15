@@ -1,0 +1,1072 @@
+{
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "paths": [
+    {
+      "path": "wiki/axes/admetos-poseidon.md",
+      "queue_index": 0,
+      "before_sha256": "95439534e26c612885980c96cb814c9e3cb58b2e3db2ba5f602bae49ea96d505",
+      "after_sha256": "b8d79d6bdbbafce1a1df152fc204cffff2401e82e17278516573719785a2951a",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/admetos-vulcanus.md",
+      "queue_index": 1,
+      "before_sha256": "77a795c68f94338f1c8571f95aa2552c40a747b717f5e217f0e6e09bd84f2e6e",
+      "after_sha256": "1994c00275ccc30386de003ea3114ed1e4746d14f666362055f15e3c65e47622",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/apollon-admetos.md",
+      "queue_index": 2,
+      "before_sha256": "ea718e8de0ac5361b0ca87555b0ea3d28883bb36680dda677dd2e41f35942be1",
+      "after_sha256": "9ddb0cecceb209fc9bd14d9e26d72e79568040bfd1bc5ef35a3bb51b8699efb8",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/apollon-poseidon.md",
+      "queue_index": 3,
+      "before_sha256": "b701fbcbd6918831e0d7e23104d6c614e99cdd96baf22a237b666cfad8dd8bb6",
+      "after_sha256": "31488f16743b97dadbf5c185bc949158102494e0c11586e1517c2a46154c953d",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/apollon-vulcanus.md",
+      "queue_index": 4,
+      "before_sha256": "600c9373f767039523b07ee0fcc957e25846eb032ee12185735c21a3e365edff",
+      "after_sha256": "ec590aa36f028858a0431d0e89c0216ac0c51d7d53a42d9494dffa7169b19ca3",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/asc-admetos.md",
+      "queue_index": 5,
+      "before_sha256": "abd4c964e21e65584257a1b1d0aaa8842871388df5a3ec846d3ad923b40537f0",
+      "after_sha256": "abd4c964e21e65584257a1b1d0aaa8842871388df5a3ec846d3ad923b40537f0",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/asc-apollon.md",
+      "queue_index": 6,
+      "before_sha256": "d86f3d5af300421d0ab1d29173f75bdfd89dff7981e690e0487f26c181240a7c",
+      "after_sha256": "d86f3d5af300421d0ab1d29173f75bdfd89dff7981e690e0487f26c181240a7c",
+      "ledger": "axes-001.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/asc-mc.md",
+      "queue_index": 7,
+      "before_sha256": "236b3bbc144caac66e0ace5f261fa631bff372694c4b1e9fc75f4de4eab3a70d",
+      "after_sha256": "7d785367cc87fdbc75b14c0664e3ed53b07a4b540ffe41041eb08eef644a262b",
+      "ledger": "axes-002.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/asc-poseidon.md",
+      "queue_index": 8,
+      "before_sha256": "c8dcae27098903f54affdeead27a634b6b923546ed7f34b4d72f9d8db1e7f5fc",
+      "after_sha256": "7b53f13b453119dcf8ea02e5c1ba5efb4fd34a3ed3302b1a70b427b50f284b8c",
+      "ledger": "axes-002.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/chiron-pluto.md",
+      "queue_index": 9,
+      "before_sha256": "67e210cb4dd3c0b439b7db5c2bfa14cda5263edee160c80733f89841194806e1",
+      "after_sha256": "67e210cb4dd3c0b439b7db5c2bfa14cda5263edee160c80733f89841194806e1",
+      "ledger": "axes-003.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/chiron-uranus.md",
+      "queue_index": 10,
+      "before_sha256": "d717b6411eb328d26cc968d736e63563d76e2143b4f820bcdad94bfcf0054adc",
+      "after_sha256": "d717b6411eb328d26cc968d736e63563d76e2143b4f820bcdad94bfcf0054adc",
+      "ledger": "axes-003.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/cupido-apollon.md",
+      "queue_index": 11,
+      "before_sha256": "ca5dd73565500c90bb4635552e7ec4a414fad9288a4db7fe65158b5fa7e75819",
+      "after_sha256": "ca5dd73565500c90bb4635552e7ec4a414fad9288a4db7fe65158b5fa7e75819",
+      "ledger": "axes-003.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/cupido-kronos.md",
+      "queue_index": 12,
+      "before_sha256": "cc3da166d0f76d365bf4d4237418170e67d2982af17997c672ad8bf5a7d259b7",
+      "after_sha256": "cc3da166d0f76d365bf4d4237418170e67d2982af17997c672ad8bf5a7d259b7",
+      "ledger": "axes-003.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/cupido-vulcanus.md",
+      "queue_index": 13,
+      "before_sha256": "cdf59a02c1cdc76b595e99581c0927cea86d4240c9dd7a5fb0f1ba27139fcb35",
+      "after_sha256": "cdf59a02c1cdc76b595e99581c0927cea86d4240c9dd7a5fb0f1ba27139fcb35",
+      "ledger": "axes-003.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/hades-admetos.md",
+      "queue_index": 14,
+      "before_sha256": "75c9c3a071449c5e4d220501f7149d3fe063513cdb0002fbecfb19d8601e02b6",
+      "after_sha256": "75c9c3a071449c5e4d220501f7149d3fe063513cdb0002fbecfb19d8601e02b6",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/hades-kronos.md",
+      "queue_index": 15,
+      "before_sha256": "00d401bbb903e3ccfd3bc4db690073671cb1972a1eb4f30f0789b60809004a98",
+      "after_sha256": "00d401bbb903e3ccfd3bc4db690073671cb1972a1eb4f30f0789b60809004a98",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/hades-poseidon.md",
+      "queue_index": 16,
+      "before_sha256": "c4d7abf4c0aedb5e5f366dce7de9551c2e598bc88afa82b41a1e45de4192ed69",
+      "after_sha256": "c4d7abf4c0aedb5e5f366dce7de9551c2e598bc88afa82b41a1e45de4192ed69",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/hades-vulcanus.md",
+      "queue_index": 17,
+      "before_sha256": "3fffa36258c8b21c37de64b2afec54dfdb5e87ecc4fcca2206d287551fd48953",
+      "after_sha256": "3fffa36258c8b21c37de64b2afec54dfdb5e87ecc4fcca2206d287551fd48953",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/hades-zeus.md",
+      "queue_index": 18,
+      "before_sha256": "8bd8a2f2e10532d421a62f92051a812934d45c62e04c8d842133eeee84509cc1",
+      "after_sha256": "8bd8a2f2e10532d421a62f92051a812934d45c62e04c8d842133eeee84509cc1",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/jupiter-admetos.md",
+      "queue_index": 19,
+      "before_sha256": "a538dbfdc360665c92c8210ac124e418ef906892111f4a5badc1718ccc687199",
+      "after_sha256": "a538dbfdc360665c92c8210ac124e418ef906892111f4a5badc1718ccc687199",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/jupiter-apollon.md",
+      "queue_index": 20,
+      "before_sha256": "e1d4772f3fb14e7c1d09623780d153c7307c62d4c2eed2f02d4daf0c5cdc98ce",
+      "after_sha256": "e1d4772f3fb14e7c1d09623780d153c7307c62d4c2eed2f02d4daf0c5cdc98ce",
+      "ledger": "axes-004.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/jupiter-asc.md",
+      "queue_index": 21,
+      "before_sha256": "cba6a0dabaf7624364c5f3aab98958714e614caa763625f2862d38b7f49e8c9e",
+      "after_sha256": "10bc1e5e7b47650911f9b9282aa7a17b7568339329a0b15b3d5d5041dd378746",
+      "ledger": "axes-005.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-mc.md",
+      "queue_index": 22,
+      "before_sha256": "bf3af47b4f072c765a87739befaf4d0b1bf6fe001e6c2b7deeb611882d9e590f",
+      "after_sha256": "c407a8d58a433082c57a7faee061680f670d692bb41d360a87b18a994eff259d",
+      "ledger": "axes-005.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-pluto.md",
+      "queue_index": 23,
+      "before_sha256": "9472e763f4f9bb76306b38c1fbe4ead601b976797036cf6a137b3632106ea6e9",
+      "after_sha256": "7493e46bfbf4683e9084d2f0540cfa075e29c87abce7ac46e87caf2831705d5f",
+      "ledger": "axes-005.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-poseidon.md",
+      "queue_index": 24,
+      "before_sha256": "9d5a3c41bde6e1485d90536124b1de6c37bdd9959c60b1778f552b73a7d32d6a",
+      "after_sha256": "be6f6fc2d70a59563881d43e8adbcd42ce6234d391d16157293f03e926f441a9",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-saturn.md",
+      "queue_index": 25,
+      "before_sha256": "c058e692e6ff782f67ee333b6c72bdf2f3d7f4ed9c3c19ad8121abadea929bbe",
+      "after_sha256": "f2bc7bb5f7eb1d43b5532db2d8f6bdbb70fe9cede698b244ed2659d90c4ee983",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-uranus.md",
+      "queue_index": 26,
+      "before_sha256": "9ad67728b23666c37539cf1f3ce232234d9ef73c14f0d6396242b7896ecb0422",
+      "after_sha256": "6f1955cceaeddc14b05490e0d29fb8267c7cdd6ee671f6729f8751ff8c9bb1c1",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-vulcanus.md",
+      "queue_index": 27,
+      "before_sha256": "e338505285360dbfa160055b8f9f861d402f96ad361ab96173c5c8f07e3e8281",
+      "after_sha256": "b521b93edbe63c277491e9446eb3e8a0bdf01ceffb3d90b2ba09b31253d28980",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/jupiter-zeus.md",
+      "queue_index": 28,
+      "before_sha256": "62c22080dbfaa58cdf07a8f0aa9bd5f2658809781325e34c79dd0299995e2565",
+      "after_sha256": "dbb1fdd983d32a5f7ca172b108693992bdee6c5a33d7388ed9b7ef0c89a5081f",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/kronos-admetos.md",
+      "queue_index": 29,
+      "before_sha256": "28f35145bd933aaa7eefca66342e798609344b6a6ae43b502e0c14aa1dd64890",
+      "after_sha256": "ff1aa7e79ea0b0d1a31bf2283c40268eea3bfc3fb50cbbf18fe7af39e77a745a",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/kronos-apollon.md",
+      "queue_index": 30,
+      "before_sha256": "88770d12ed813ed9963f038f0d01c6839ffff2988f94816817cfca20764f43e3",
+      "after_sha256": "026bf568034aa1e08e3ad5bb5975f690bd2deb21913fcc73b3e641a7732d9627",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/kronos-poseidon.md",
+      "queue_index": 31,
+      "before_sha256": "d6a5a97a2c76b05ef193650980afc563c905950b524b7d4d6dcdce9cd6e28c47",
+      "after_sha256": "ae1bdac9165549a62e6159b6424e2c25381db1d1c11d11041801d16d55766d6e",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/kronos-vulcanus.md",
+      "queue_index": 32,
+      "before_sha256": "ca64459bc9d087531cfeabbb5bb72c1f5b3bab50749483788ad89a437266b985",
+      "after_sha256": "91ee963e6c6b7fac878433efb9f39deae2fa4c64e201440c7f15c5e7e4223931",
+      "ledger": "axes-006.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-admetos.md",
+      "queue_index": 33,
+      "before_sha256": "dc2ace8090f49272e72a8a78f9508288c3462cec75c04a42d063430193171418",
+      "after_sha256": "7f6a5eb85add409fee5afe7c03bc97647b267890ae33afdfc98902fd88a06a08",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-cupido.md",
+      "queue_index": 34,
+      "before_sha256": "c064cbfab68d4041188961b2834952ed74a24eef26d9c2139ead279b89bc76fa",
+      "after_sha256": "4a532863e2ccf1088b416b6b5bd67e75c46a8038cac407ea5cc551d051bedfd3",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-hades.md",
+      "queue_index": 35,
+      "before_sha256": "cc03e50523f97a0d555b00f3330c3ee9c28203fde3affbb91754894be6ee645d",
+      "after_sha256": "2a95dbe7fb1b2948e72740dcb8936f85ae1561deb221b387c5ffc412f3746057",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-jupiter.md",
+      "queue_index": 36,
+      "before_sha256": "61e764a66734cbea0479914bd270223b200c39759aa10065635973177b3a06d0",
+      "after_sha256": "2eb683d8fe4847ecf5c596c81c05f2e3e6e003fcd16431ff75e1de101686a3ad",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-kronos.md",
+      "queue_index": 37,
+      "before_sha256": "e7583ad65650ad6fee60f443707ab041bbc718a93051e9c4ae12fcd1dd94dd06",
+      "after_sha256": "7e52b8878e4fad2d76c4eb2855bd52c5a30bfe27b9945ab3c34c43984cbd737e",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-mc.md",
+      "queue_index": 38,
+      "before_sha256": "5ec3c0a6f82ca8c39530d18b6966cd46bb40800bae814891bd4e730eb0b5934e",
+      "after_sha256": "882e6fcea0087d05fc6f44ccb6a060f62a21b79327c8ad4f4c14cce3f42c2c02",
+      "ledger": "axes-007.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-neptune.md",
+      "queue_index": 39,
+      "before_sha256": "83fa74f2cdd2349633616d17fd4c19ea8da1f2938306e8d1b2032db172f6f6cd",
+      "after_sha256": "92468108895f33c1871b8602f1bbad63ddfa1a1cb82821d04499eed50ca03a4a",
+      "ledger": "axes-008.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-node.md",
+      "queue_index": 40,
+      "before_sha256": "10d5fb5deaeeeebc0d8ae8cc03b2ddc27d3f79a3223e3cbca19e10ec34db3710",
+      "after_sha256": "302a994bf32bdc98bf7d996c9be585ac73c43f7ea1b74aa6b0ea36f75eab0ec1",
+      "ledger": "axes-008.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-poseidon.md",
+      "queue_index": 41,
+      "before_sha256": "0b1a5df36a6569607aca5c1b07dabb5da1b00e2f7f3fa5e88a3c667ead406348",
+      "after_sha256": "fa2c130c88b7638ba575422dab3c97ff5ae83f84257f6e5e2373d590d3f960cb",
+      "ledger": "axes-008.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-saturn.md",
+      "queue_index": 42,
+      "before_sha256": "368053c57094d5ab921fb9e343c6d71a292197aac77c01b94b5dd195624afe5a",
+      "after_sha256": "2493af4130910abe174e99a70251e9566634f9adbe65e74302e24bb65e095a00",
+      "ledger": "axes-008.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-uranus.md",
+      "queue_index": 43,
+      "before_sha256": "491431d3d99472df71112f893a70b7914e23a78283ff3008be3dbe2d500453a9",
+      "after_sha256": "c2ff0cf03aadc4cb3a964e01f3860afb43825f22c5ae2e65ee590a07a682475c",
+      "ledger": "axes-008.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mars-vulcanus.md",
+      "queue_index": 44,
+      "before_sha256": "206eb6e484c28ceb8a7fe229dbcc903fac93d01399a90f9eb883486995023bec",
+      "after_sha256": "878acdb0de805d318a89326c2d4d4106a3d38120bcc8ebda334cf57efc896afa",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mc-apollon.md",
+      "queue_index": 45,
+      "before_sha256": "9b08f0ae49408bc9835a2cfa44af4ce10dfa31a9145ffd5aa76640e5ba3d6577",
+      "after_sha256": "31616b740140bef694a8379861524182007ff2eb3f71846b24f139827ad84ea3",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mc-cupido.md",
+      "queue_index": 46,
+      "before_sha256": "4735cf9b5d91bce50b493256a828df28b4fb7352874d7a45c2a9ab39625cb224",
+      "after_sha256": "9fa930b8ab7a08a7583b7ded8cb67c56a0967b5ee457b1c1a2952d74614e790e",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mc-hades.md",
+      "queue_index": 47,
+      "before_sha256": "7b7818b87758347b3d00f98f357318b4f470f123d0778d7156eef3dfaf6e8c34",
+      "after_sha256": "7faba5e229aafafb59ce419046ae6450960b85f9fe8de1fc49a072cd1c9f6148",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mc-kronos.md",
+      "queue_index": 48,
+      "before_sha256": "ffbb6b2af456bebd5a2d2c9a400c81d78c51121c5d6d18f3b1cbfd4d1882145e",
+      "after_sha256": "5fad36fe97f24e45c631dcde9c55f8016988d045f5da880ae087ce99c6324b5e",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mc-poseidon.md",
+      "queue_index": 49,
+      "before_sha256": "58085c443c343c4e18aaef12466b8f27c1840601e2481e1de8db3bd57693b365",
+      "after_sha256": "ed24d42eaf9f6c1afee068f8f7debcf51869fc8ddc15c7d09cb7e60ba15461a0",
+      "ledger": "axes-009.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-admetos.md",
+      "queue_index": 50,
+      "before_sha256": "a5afdc31326af2c746b59412ed29c03b04346e761da72c495bce66b20b157d68",
+      "after_sha256": "0483bb521992adda01d1780d287a3c05b8e9458d6fbf1b868c228f1b799f61fd",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-apollon.md",
+      "queue_index": 51,
+      "before_sha256": "3d2c55f05c2eb3782aca6e24e3f44b13a6d490c23a1d7b8de3e5675d96b6d645",
+      "after_sha256": "5b42557741fcb430de63e8d1b1b750dbb69ca54ed4078d3c292348eea1190e88",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-cupido.md",
+      "queue_index": 52,
+      "before_sha256": "a948c7662a7a1bc32d2c94570e8e77fcf446abb75763a6868c92c3b3009c93a7",
+      "after_sha256": "346b43930b8d6398f0c69001c4146b85d6c57da7ae9f3554dcc2d3d2e6e8392e",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-hades.md",
+      "queue_index": 53,
+      "before_sha256": "71d4dc050a0feb8aa67dba2b226421cf953713e4e2888399420eb8f5c0f6ef49",
+      "after_sha256": "fdaa666dc948906db2999fe6bf615ae3ce7f4a4900caf4f331d678579aa5be8e",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-jupiter.md",
+      "queue_index": 54,
+      "before_sha256": "9ef5881d992d1a3b90ffaefc6ed50e557c738c3ec959322efd37e0f95257bf0c",
+      "after_sha256": "8583e78707333a579d9583efd411972d787c6de54e16b826d9c8a49cbb3f055b",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-kronos.md",
+      "queue_index": 55,
+      "before_sha256": "0d7a120405a45e26604e0adfabac11de6a281f5b65752ceb015292e5771c8d0c",
+      "after_sha256": "df3df23b81fb07740593e17a485c65fe44bec71760283677fe17a3e56cee8dbe",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-mars.md",
+      "queue_index": 56,
+      "before_sha256": "e7b1b1ebbb66ead872e4ffc2cc184bf99d19862fa854941a4af1a71a8cfc595f",
+      "after_sha256": "28ee90d4036678b439601f429bdc61d4890fbdbb17c94ce94a92f7b94f770b1f",
+      "ledger": "axes-010.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-mc.md",
+      "queue_index": 57,
+      "before_sha256": "5313c8fbb31db70cd9f3d65f8958d63a12b9922463ad5d18d48495228209ee6b",
+      "after_sha256": "bda661d75dd692150f72a273f4e8f8adbc5c437d4beac1ffaad772aa513a6e86",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-neptune.md",
+      "queue_index": 58,
+      "before_sha256": "739f9d1941c3bb17fc92c5d91b8147c8ac7206af944f2b3be488a59a2e5e7a62",
+      "after_sha256": "7a7b692930f678537aa034d205d1c404f08303652fa76f78faddf0047da0fe57",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-node.md",
+      "queue_index": 59,
+      "before_sha256": "4e7dba40dde5e3e0aedb7038b7990ce51a7571d73a05469dc194d16f7da85a97",
+      "after_sha256": "eb5b5e5cd8f325f695b8c55f1f48a2e3e56bc289e7375c067baaf8fd38384eb1",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-pluto.md",
+      "queue_index": 60,
+      "before_sha256": "143d49a39af15b682d1dc095ac223ee3e78b438b553cd84ef84e26406bf91853",
+      "after_sha256": "2a3c40e17575dc0507857e7c030ef6f9dd1ab6cfdd709fe4f71a5051af4a06d0",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-poseidon.md",
+      "queue_index": 61,
+      "before_sha256": "054be7d34a80377eeeacfee57c1c2b09ff2f25cee7bcab9c6b8e9087493547b8",
+      "after_sha256": "054be7d34a80377eeeacfee57c1c2b09ff2f25cee7bcab9c6b8e9087493547b8",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/mercury-saturn.md",
+      "queue_index": 62,
+      "before_sha256": "22a5bcfac861a8829aab1be7bed2a54f23e95c38ba04e076ae21dbb4afe5852e",
+      "after_sha256": "848b8efaa33ac0dda65001d2dea9d177808d22da17e08ad770e6f0146b779c11",
+      "ledger": "axes-011.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/mercury-venus.md",
+      "queue_index": 63,
+      "before_sha256": "53039256c06e1de9cbd37dbcb9daa5d265cc17fb5e6a1317ba3666eb5772c415",
+      "after_sha256": "a81fab824350a6c803a0557e8b5b5230c51322da7a76ac0e41e9c8e08f6bad4e",
+      "ledger": "axes-012.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-jupiter.md",
+      "queue_index": 64,
+      "before_sha256": "3660fab40165f28deb31ac0b8a53aaaadf24b1aee294a8e59cec9357cc2d04c9",
+      "after_sha256": "1ba2968d85070b0523f381cf4be1812e6a310d7192fe9c7fb9f9b4256e695b64",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mars.md",
+      "queue_index": 65,
+      "before_sha256": "c207db1141d32646e3341dddf5c40ff1ef02ce1283d6060a93be77412aa8794c",
+      "after_sha256": "d9ff53359d26897834fcceaf8bc2ee65a4be2d9bef19bccdea4b54fc133ead05",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mc.md",
+      "queue_index": 66,
+      "before_sha256": "b55cdbe7186d6928b4f6fdb97d262eac067b91a5ebc3bd914aa8ccaa85c9e547",
+      "after_sha256": "cf2e4146a543a08d16eb35e8a726c9500eec81aee38bfdc537514b8136d4fcd6",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mercury.md",
+      "queue_index": 67,
+      "before_sha256": "192ab81fef9bbf9e8ce572f63ff71f498c1c5fb5575e652ad2c2a5dd840c3604",
+      "after_sha256": "53eb667391cc4f86dad7f867159ad1187e1e6cde08b2132b9184b8c32d61df58",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-node.md",
+      "queue_index": 68,
+      "before_sha256": "42775c087d1f83805c6cc742966d537a70ba06c3b3bc926a3ed8005f6f77ca55",
+      "after_sha256": "52d852518ff905a646fc454c0716e84eb8171dce8376993f4abe14d166b88aad",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-pluto.md",
+      "queue_index": 69,
+      "before_sha256": "46d0a85e81d16a4135b471d7e6bd8450990f465b6ce2b1b99cd69d02c217b52d",
+      "after_sha256": "b8554441201f0476582681c73a805746c167e1b96fbfb021c6db10843b0ddcc4",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-saturn.md",
+      "queue_index": 70,
+      "before_sha256": "c18957f14160045f58294cc2b4c76242cc45605d6253d71aa049d78165564115",
+      "after_sha256": "982ee39c6cc87111afd4c7eaf6e35427bbcee07c0e9f715e563393431b0722c0",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-venus.md",
+      "queue_index": 71,
+      "before_sha256": "d587509cfe68515c2554bad5804f0c24959c457fddd656d992b1709b22f278af",
+      "after_sha256": "1cc62ff6be43d95d5f117dcc6b39c2a2e8072a0a6c899a978da4e6de63cc5817",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-vulcanus.md",
+      "queue_index": 72,
+      "before_sha256": "ad01f0a6bc8ab474d8af8fcf4f617bac7ec7775116c6806d11ad4357af6e502e",
+      "after_sha256": "ad01f0a6bc8ab474d8af8fcf4f617bac7ec7775116c6806d11ad4357af6e502e",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/moon-zeus.md",
+      "queue_index": 73,
+      "before_sha256": "b3eb3f09e59eefeecd3c2a7415b0e4e13caa5669fbff65dea5d53a8913cbea34",
+      "after_sha256": "b3eb3f09e59eefeecd3c2a7415b0e4e13caa5669fbff65dea5d53a8913cbea34",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-admetos.md",
+      "queue_index": 74,
+      "before_sha256": "09a1cea96488c2302ef1a2795df35018351401d93c98a069bf49b7c412c8d0be",
+      "after_sha256": "09a1cea96488c2302ef1a2795df35018351401d93c98a069bf49b7c412c8d0be",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-apollon.md",
+      "queue_index": 75,
+      "before_sha256": "fe34a739e6705a29bbe4d653de7ab5e54373f4cf1914932573b7d2cb6387be1f",
+      "after_sha256": "fe34a739e6705a29bbe4d653de7ab5e54373f4cf1914932573b7d2cb6387be1f",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-asc.md",
+      "queue_index": 76,
+      "before_sha256": "00d1ef5f6ffcdae5c9dbf492f51e824322904a079c8cfe14466f727873acfa3c",
+      "after_sha256": "43c7a689bb3ec31fa7fcb897d089c6e4e459016b9a732509112bcce3b8b5ea0b",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/neptune-cupido.md",
+      "queue_index": 77,
+      "before_sha256": "d29c3779c07db2f62f2bef82413f44b4c43d41f8450a9526bc53201848f4d772",
+      "after_sha256": "d29c3779c07db2f62f2bef82413f44b4c43d41f8450a9526bc53201848f4d772",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-hades.md",
+      "queue_index": 78,
+      "before_sha256": "b0ba3edd523522e68ff6704091b79143476ec8c1d6f6cef8f27191415a223e3b",
+      "after_sha256": "b0ba3edd523522e68ff6704091b79143476ec8c1d6f6cef8f27191415a223e3b",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-kronos.md",
+      "queue_index": 79,
+      "before_sha256": "58801e2502c114a7a8473ddd2ee1b46f9e8529a9259f6ee364dc934d15b2dfd6",
+      "after_sha256": "58801e2502c114a7a8473ddd2ee1b46f9e8529a9259f6ee364dc934d15b2dfd6",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/neptune-mc.md",
+      "queue_index": 80,
+      "before_sha256": "bbaaa850effc31e2ac8b58450d408ba76392f6daa3af900283026363a5987e9c",
+      "after_sha256": "7d2fe66dc7807a2bc5290dcc5c4f5836f5ce1332db6ddd70d72b43f2dfe87ff7",
+      "ledger": "axes-015.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/neptune-node.md",
+      "queue_index": 81,
+      "before_sha256": "ab6bc1aa170bd89b52c12232391f30430e29d6094ab7e06f70291babd2d4f81b",
+      "after_sha256": "75f00839c2cbfe484ca111e27c6ecc8f908fe9f7b0569eb2aad624492055d46c",
+      "ledger": "axes-016.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/node-asc.md",
+      "queue_index": 82,
+      "before_sha256": "cd03a06061ffd9c37d5df4b2fbecfbd090429df53ecab20fa78dac5cd0cc3ccd",
+      "after_sha256": "88ed243b1679e29f59e9f11f4d2d5fd58003f906182f3bda40cb0e0d461341e2",
+      "ledger": "axes-016.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/node-hades.md",
+      "queue_index": 83,
+      "before_sha256": "ee6e2fe462d90ddbd65bb5e8ab845ac4f068bb3f774c6f18892aa5f1a743732f",
+      "after_sha256": "ee6e2fe462d90ddbd65bb5e8ab845ac4f068bb3f774c6f18892aa5f1a743732f",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/node-kronos.md",
+      "queue_index": 84,
+      "before_sha256": "68c0700415d3b5beddef3b8ac3f3b1541f5c4ceb7a680c4939cc7d293fed24c4",
+      "after_sha256": "68c0700415d3b5beddef3b8ac3f3b1541f5c4ceb7a680c4939cc7d293fed24c4",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/node-mc.md",
+      "queue_index": 85,
+      "before_sha256": "1123880b2163c524a9372616cc2805b52aa042aa786c4b4e46641551c1a6e42d",
+      "after_sha256": "4894d612afabb80afb333c5b2e7951b3cc47404a87892d8c2956fd8c30e68afc",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/node-poseidon.md",
+      "queue_index": 86,
+      "before_sha256": "4eae3851577d01b6ea1cb23b276267d62960ddf160057940bac55da85c02373d",
+      "after_sha256": "4eae3851577d01b6ea1cb23b276267d62960ddf160057940bac55da85c02373d",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/node-vulcanus.md",
+      "queue_index": 87,
+      "before_sha256": "ec3e6224674b5164155dc8afcd12a821784dbe53cbb2fe0cd4dabdf971827915",
+      "after_sha256": "ec3e6224674b5164155dc8afcd12a821784dbe53cbb2fe0cd4dabdf971827915",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/node-zeus.md",
+      "queue_index": 88,
+      "before_sha256": "2ae9163361f6033648077f20a28256b9315cbcc11ce25fb93ff399ee1ec59bc5",
+      "after_sha256": "2ae9163361f6033648077f20a28256b9315cbcc11ce25fb93ff399ee1ec59bc5",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/pluto-admetos.md",
+      "queue_index": 89,
+      "before_sha256": "4659ab70693be3a62923a60cfa049afd9fbc9131779b151275777c2f514eec91",
+      "after_sha256": "4659ab70693be3a62923a60cfa049afd9fbc9131779b151275777c2f514eec91",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/pluto-apollon.md",
+      "queue_index": 90,
+      "before_sha256": "01cf1c43273a0f50e845d4277978bfc8b460e476d5bb320bb5052fcac6362346",
+      "after_sha256": "01cf1c43273a0f50e845d4277978bfc8b460e476d5bb320bb5052fcac6362346",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/pluto-asc.md",
+      "queue_index": 91,
+      "before_sha256": "d84e871971938f6119bb7e2475c216b348f7f881d9ec35ed7e16bd637c591d19",
+      "after_sha256": "f14f1898cf734142f71ab0b50e9c6ce4f3fd6fada33caffca04abccb42c09827",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/pluto-node.md",
+      "queue_index": 92,
+      "before_sha256": "b5cac33b163c86106d60d6c2ed4999051de0dbec172889a20e687e91217c8890",
+      "after_sha256": "0149b2c97574cc1e713cecba5f388c881fd5dab1fea5df77f583022dd25d3c3c",
+      "ledger": "axes-018.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/saturn-admetos.md",
+      "queue_index": 93,
+      "before_sha256": "159eae20ceb5af09ad64b790e4ec1d96cf371e8b9d6bd3a20119fc4c101d129f",
+      "after_sha256": "159eae20ceb5af09ad64b790e4ec1d96cf371e8b9d6bd3a20119fc4c101d129f",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-apollon.md",
+      "queue_index": 94,
+      "before_sha256": "03e7cfc349243d67ebaf6fac34d14890734e888cb2fd71ba9c35423b742e3c51",
+      "after_sha256": "03e7cfc349243d67ebaf6fac34d14890734e888cb2fd71ba9c35423b742e3c51",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-chiron.md",
+      "queue_index": 95,
+      "before_sha256": "ea7b82fd3a50f56416d3cd7fcf4742b5732f4d75fe1deefedccdd84de32acaa9",
+      "after_sha256": "ea7b82fd3a50f56416d3cd7fcf4742b5732f4d75fe1deefedccdd84de32acaa9",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-cupido.md",
+      "queue_index": 96,
+      "before_sha256": "6eaacf6e650a95f6802c4d013c3dd124a2c998e14f7c540da0c45b7dff75e0ab",
+      "after_sha256": "6eaacf6e650a95f6802c4d013c3dd124a2c998e14f7c540da0c45b7dff75e0ab",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-hades.md",
+      "queue_index": 97,
+      "before_sha256": "ede16fdd580251163ae5329aa3909d68c0fe540887bdc7a1883160996b906071",
+      "after_sha256": "ede16fdd580251163ae5329aa3909d68c0fe540887bdc7a1883160996b906071",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-kronos.md",
+      "queue_index": 98,
+      "before_sha256": "9425de575af342b921b963c783ea585dc80aabca483312fb5c9bbf552109307b",
+      "after_sha256": "9425de575af342b921b963c783ea585dc80aabca483312fb5c9bbf552109307b",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/axes/saturn-mc.md",
+      "queue_index": 99,
+      "before_sha256": "fd461c4f33560fbeee824ec7c3b1dee55041d52a9110ca132e2cab7d09ce9f3b",
+      "after_sha256": "2cf3ea0bbb6d2f6e6732de01e947ff40b7a3895804aab6e7dbb4756fada1285f",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/saturn-neptune.md",
+      "queue_index": 100,
+      "before_sha256": "a30d2a4b42162e0cd4cbb473d80a2094c52fbd12a6f6b40b35cd3abafeb933a2",
+      "after_sha256": "4693e06ab087c05a52b71381a974daee800088bf334c00cc3ced6bd32376c637",
+      "ledger": "axes-019.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "queue_index": 101,
+      "before_sha256": "92d96bd2ba0f71a7c9b72a9f07e5df8511cbd90fd6ad29fa04c9a661ebf77162",
+      "after_sha256": "c60dad2e7e2486f4b034e780c4302fb4b6fabd477da0fb3a5237ca732e549899",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "queue_index": 102,
+      "before_sha256": "d026e09be39c077ab9f2e864eb9f889e3efc9453b335a1402f00d368b8700de7",
+      "after_sha256": "2ce9d4d9677600ccd7fbc3436d5a7066d03c40012044cfec032a34be767fe996",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "queue_index": 103,
+      "before_sha256": "ad9a7e0ea86b0ef9d1c66fb69ad5ddbc47663f1b498ac31ad9f05d63585fc470",
+      "after_sha256": "51d52e6a8d724ea8aaa3ecf9eba00be1e1af7e1bb49a81684759fad3474d08db",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "queue_index": 104,
+      "before_sha256": "3c27394079000667519a0ac970497f0bbcb4be58ee45f95a35053acd65adb9a0",
+      "after_sha256": "ecba78208767d0f49db41125bbaba39eb648108af4e8eef9182b630c85417fa4",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "queue_index": 105,
+      "before_sha256": "93135d4103885d9cc554f30abbec1a51a9bafdcae7ae630ea47e0325866ee817",
+      "after_sha256": "fed611b4fe83e9272f874a017faef666d34f3bbe29cb5994aee9d9e00bcefbfe",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "queue_index": 106,
+      "before_sha256": "44d8cccc888b011da68952579513a2184cfb51325cd9313156449926d1ab9965",
+      "after_sha256": "fa769ad54fdb142c3a556c00541a45d1fcd22849e79ed1b16d1fa096692fd3fe",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "queue_index": 107,
+      "before_sha256": "8c8fa2f815bb7aa74248c44bca33ea765afadfc93cd403390ee17bfacd557277",
+      "after_sha256": "0daa303244492d0d68b98c14e188f024b8c9f5f445c7b449b312ee222c343a3d",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/asc.md",
+      "queue_index": 108,
+      "before_sha256": "7c3e2a879856dfa1cb2281b0d06b64d13873525b19d05a9c297b3fe1bebeb893",
+      "after_sha256": "f26705817afea705394efa9c57e7345e0511b725419222872960d7ca77ed680a",
+      "ledger": "factors-001.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/jupiter.md",
+      "queue_index": 109,
+      "before_sha256": "b2c0ec3b0e43909d6db5db785294569593d616715ccd4c4e9e256b86c17112a6",
+      "after_sha256": "6f4975f5fd997493334556d943a62b2e5f0301b05a3c6ef8f4e128d78b9e7dbe",
+      "ledger": "factors-002.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mars.md",
+      "queue_index": 110,
+      "before_sha256": "d9f49bd646042180dbcbc52d7681087a19d9d48643347d7dde3e3634bc810bc2",
+      "after_sha256": "12a402b2f3f2043e7e45a281129ef80f9a4da790d04f4811debc6765543054be",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mc.md",
+      "queue_index": 111,
+      "before_sha256": "7dcb12a6fe3760f07d4a0533478d485ce1f01ef8ef56a0ce842cdd3ee2b725cb",
+      "after_sha256": "1db73963d20caa29c06701b0a63c3286e6ba7ea10a6ea5de3d7a0457ff79dcdd",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mercury.md",
+      "queue_index": 112,
+      "before_sha256": "afb01052415a3bdbfd8b2e89adacc297aceefb35baa53af7384cc624bab96946",
+      "after_sha256": "5851b25f0b775dbd7c1c617f489521d355dc67c719147deba1798754a406f7b8",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/moon.md",
+      "queue_index": 113,
+      "before_sha256": "81af6e490c8f6d22a0a1a5862f5d80f40535a38b4fc048b48ef55669a40c1d3f",
+      "after_sha256": "af41996da7e7c6ad44946951124fab8486df8cf879817777324115ba4f062943",
+      "ledger": "factors-004.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/neptune.md",
+      "queue_index": 114,
+      "before_sha256": "b8b3d015dd18eb528173c84e324bab5e36272f98481a2959fd3dedbd4f795054",
+      "after_sha256": "b1b0333ee0eb1414e7247a4590f74810b213def481acbb31671d3c1a1232fba8",
+      "ledger": "factors-004.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/pluto.md",
+      "queue_index": 115,
+      "before_sha256": "65b0eb3b4c2ca49e0182996867dd72157633dba5ccc39678553b42f4c59d8e5c",
+      "after_sha256": "57269f82b55373f4c9ae86e4b2f2e13e394a0748432f37ed5636c46fd47a6bdf",
+      "ledger": "factors-005.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/saturn.md",
+      "queue_index": 116,
+      "before_sha256": "d58a8e8c933df159e7dfe51b87d9df2af6651f304ae04c71a0899b697f3215c5",
+      "after_sha256": "eaee095da38f5c335396afbe63a1b9348fa8086ddff3f311fa05868fee2f5416",
+      "ledger": "factors-005.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/sun.md",
+      "queue_index": 117,
+      "before_sha256": "2000b4a938851c758d22f933bc09b77dbb1395481421b42e442bc3c2115e396c",
+      "after_sha256": "ca745187fc3bdc814602782f0078b0d39b07c8ef2311ed6e24d1d00bd087906e",
+      "ledger": "factors-006.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    }
+  ],
+  "generated_at": "2026-10-15T14:30:34.630Z",
+  "verifier": "/root/activation_review_084_088",
+  "closure_editor": "/root/activation_review_035_038",
+  "scope": "Author-distinct independent closure review. Source hashes are initial snapshots; approve only editor-reported stable batches and final current bindings. Original queue issues are verification leads, not confirmed defects."
+}

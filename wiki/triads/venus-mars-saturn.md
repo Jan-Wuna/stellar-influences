@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Mars/Saturn = Venus](../activations/mars-saturn-equals-venus.md)
-- [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md)
-- [Venus/Saturn = Mars](../activations/venus-saturn-equals-mars.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Saturn = Venus](../activations/mars-saturn-equals-venus.md) | [Mars/Saturn](../axes/mars-saturn.md) | [Venus](../factors/venus.md) |
+| [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md) | [Venus/Mars](../axes/venus-mars.md) | [Saturn](../factors/saturn.md) |
+| [Venus/Saturn = Mars](../activations/venus-saturn-equals-mars.md) | [Venus/Saturn](../axes/venus-saturn.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Mars/Saturn = Venus`: Michael, page `228`
-- `Venus/Mars = Saturn`: Michael, page `188`
-- `Venus/Saturn = Mars`: Michael, page `196`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Mars/Saturn = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-saturn-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-saturn-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/mars-saturn-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mars-saturn-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mars-saturn-equals-venus.md#munkasey-entry), printed p. `228`.
+- `Venus/Mars = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-mars-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-mars-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-mars-equals-saturn.md#munkasey-entry), printed p. `188`.
+- `Venus/Saturn = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-mars.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-mars.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-saturn-equals-mars.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-saturn-equals-mars.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-saturn-equals-mars.md#munkasey-entry), printed p. `196`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

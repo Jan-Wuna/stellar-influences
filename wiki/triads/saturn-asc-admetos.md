@@ -28,25 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Asc Admetos`
 - Astronomicon triad-set: `W Asc ¦`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Asc/Admetos = Saturn](../activations/asc-admetos-equals-saturn.md)
-- [Saturn/Admetos = Asc](../activations/saturn-admetos-equals-asc.md)
-- [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md)
+- [Asc/Admetos = Saturn](../activations/asc-admetos-equals-saturn.md) — base axis [Asc/Admetos](../axes/asc-admetos.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Admetos = Asc](../activations/saturn-admetos-equals-asc.md) — base axis [Saturn/Admetos](../axes/saturn-admetos.md); activator [Asc](../factors/asc.md).
+- [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md) — base axis [Saturn/Asc](../axes/saturn-asc.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Asc/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
-- `Asc/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `133`
-- `Saturn/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
-- `Saturn/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `364`
-- `Saturn/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
-- `Saturn/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `115`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Asc/Admetos = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-admetos-equals-saturn.md#witte-entry), one-based PDF p. `96` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-admetos-equals-saturn.md#abc-entry), printed p. `133` (PDF p. `65`).
+- `Saturn/Admetos = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-admetos-equals-asc.md#witte-entry), one-based PDF p. `229` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-admetos-equals-asc.md#abc-entry), printed p. `364` (PDF p. `181`).
+- `Saturn/Asc = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-asc-equals-admetos.md#witte-entry), one-based PDF p. `87` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-asc-equals-admetos.md#abc-entry), printed p. `115` (PDF p. `56`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Saturn`: a domicile or environment experienced as heavy, burdensome, and socially diminishing.
+Use this hub to select an orientation of the unordered set `Saturn Asc Admetos`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

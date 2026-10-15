@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Pluto Cupido`
 - Astronomicon triad-set: `VP Z ¡`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Pluto/Cupido = Vernal Point](../activations/pluto-cupido-equals-vernal-point.md)
-- [Vernal Point/Cupido = Pluto](../activations/vernal-point-cupido-equals-pluto.md)
-- [Vernal Point/Pluto = Cupido](../activations/vernal-point-pluto-equals-cupido.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Pluto/Cupido](../axes/pluto-cupido.md) | Vernal Point | [Pluto/Cupido = Vernal Point](../activations/pluto-cupido-equals-vernal-point.md) |
+| [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | Pluto | [Vernal Point/Cupido = Pluto](../activations/vernal-point-cupido-equals-pluto.md) |
+| [Vernal Point/Pluto](../axes/vernal-point-pluto.md) | Cupido | [Vernal Point/Pluto = Cupido](../activations/vernal-point-pluto-equals-cupido.md) |
 
 ## Source Coverage
 
-- `Pluto/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `408`
-- `Vernal Point/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `45`
-- `Vernal Point/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
-- `Vernal Point/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `43`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Pluto/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `257`
+- `Pluto/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `408`
+- `Vernal Point/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `48`
+- `Vernal Point/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, printed page `45`
+- `Vernal Point/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `47`
+- `Vernal Point/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, printed page `43`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Vernal Point`: This activation emphasizes the evolving structure of human society; General social transformations.
-- `Vernal Point/Cupido = Pluto`: This formula emphasizes e Communities or corporations in establishment or development and art develops.
-- `Vernal Point/Pluto = Cupido`: This formula emphasizes growth of families and communities, engagement, marriage, births, and tradition.
+The set links [Pluto/Cupido = Vernal Point](../activations/pluto-cupido-equals-vernal-point.md), [Vernal Point/Cupido = Pluto](../activations/vernal-point-cupido-equals-pluto.md), and [Vernal Point/Pluto = Cupido](../activations/vernal-point-pluto-equals-cupido.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Focusing within yourself and concentrating on clearing up past matters which nee
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Reassessment of past matters and of one's dealings with others.
+- psychology: Inward concentration and clearer appraisal of other people.
+- body/health: The entry makes no bodily claim.
+- social/relationship: Possible fallout with people exploiting one's talents or position.
+- events/manifestations: Reviewing unfinished matters and changing exploitative contacts.
+- conflicts/notes: This repeated-factor formula has one source and no distinct triad hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented; there is no source comparison from which to establish agreement or contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Pluto`: Focusing within oneself and concentrating on clearing up past matters which need to be re-evaluated; seeing more clearly what others are; may bring a fallout with others who are using one for one's talents or position.
+With Pluto specifying Pluto/Asc, the [Munkasey entry](#munkasey-entry) concentrates the reading on inward reassessment and its consequences for relationships. Clearing up past matters may change how one sees other people, including recognition that someone is using one's talents or position. Fallout is a possible result of that recognition, not a necessary outcome of every contact. The evidence is this single entry on printed page 350.
 
 ## Links
 

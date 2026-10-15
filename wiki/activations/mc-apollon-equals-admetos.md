@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [MC Apollon Admetos](../triads/mc-apollon-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To be content and saturated. Satisfied with the achieved, no more aspirations.
 
 #### ABC Entry
 
-Blocking my success, limiting my freedom, grinning knowledge of the soul, my success through grtindlichkeit, my successful resistance, my depression experiences, my restricted authority, and deepening my knowledge
+- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+Blocking my success, limiting my freedom, thorough knowledge of the soul, my success through thoroughness, my successful resistance, my experiences of depression, my restricted authority, deepening my knowledge.
+
+## Comparative Schema
+
+- **Core meaning:** Contentment or restriction brings expansion to a halt.
+- **Psychology:** Satisfaction without further aspiration contrasts with experiences of obstruction.
+- **Body/health:** ABC's depression experiences are historical emotional language, not a diagnosis.
+- **Social/relationship:** Restricted authority is named; no defined partnership follows.
+- **Events/manifestations:** Success may be blocked, while thoroughness can support success and knowledge may deepen.
+- **Conflicts/notes:** Witte's contentment without further aspiration differs from ABC's obstruction and successful resistance; ABC also retains thorough knowledge and deepening of knowledge. Its depression language remains an attributed historical association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Admetos` compresses the axis into saturation, contentment, and an end to striving.
-- Chart expression: a broad life outlook settling into self-sufficient satisfaction, where expansion slows because what has already been achieved feels enough.
+Admetos specifies `MC/Apollon` through the stopping or limiting of expansion. Satisfaction with what is achieved can end further striving, while ABC presents a more constrained outcome: success blocked, freedom limited, and authority restricted. Thorough knowledge, successful resistance and deepening of knowledge remain available alongside these limits, rather than making every restriction welcome. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 93.)
 
 ## Links
 

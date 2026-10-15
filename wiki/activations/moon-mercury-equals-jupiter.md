@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Jupiter`
 - Astronomicon formula: `R/T = V`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 The happy (fortunate) girl. The fortunate young woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Successful women's language, successful women's youth, joyful women's thoughts, women's thoughts on money, people's finances, talk about women's rights, happy young women, and women's opinion on justice
+Successful women's conversations, successful female youth, joyful thoughts of a woman, a woman's thoughts about money, conversations about the people's finances, conversations about women's rights, a happy young woman, and women's opinion on justice
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0330`.
+
 #### Ebertin Entry
 
-judgement, constructive, social or religious thinking. A large sphere of thoughts, synthesized or coordinated thinking. Successful plans, a happy young woman.
+Sound judgement, constructive, social or religious thinking. A large sphere of thoughts, synthesized or coordinated thinking. Successful plans, a happy young woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Advice received on how to display emotional appeal in discussions; theory of lan
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: constructive or expansive thought and abundant emotional expression ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: coordinated thinking and enthusiasm coexist with the possibility of excess subjectivity or self-disclosure.
+- body/health: these entries state no specific bodily or health implication.
+- social/relationship: emotional appeal, advice about speaking, and judgments of speech connect expression with its reception by others.
+- events/manifestations: successful plans, discussions of finances or rights, and much talk about family or home are named examples.
+- conflicts/notes: happiness and successful expression are possibilities; Sandbach's excess is a qualification, not an inevitable outcome.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give constructive and excessive expressions without asserting mutually exclusive outcomes. Ebertin's coordinated thinking and Sandbach's subjective excess differ in emphasis; neither cancels the other, and recurring wording does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Jupiter`: supportive conversation, humane intelligence, and the ability to widen emotional perspective through language. Main caution: overstatement: emotion and belief can fuse into exaggeration, preaching, or loose mental proportion.
+In Moon/Mercury = Jupiter, Jupiter specifies the Moon/Mercury pair through constructive thought and an abundance of emotional communication. The [Ebertin entry](#ebertin-entry) connects broad, coordinated thinking with successful plans; [Sandbach](#sandbach-entry) describes exuberant expression that can succeed but can also reveal too much or become excessively subjective. [Munkasey](#munkasey-entry) brings this into discussion through emotional appeal, advice, and abundant talk about family or home (p. 104).
+
+The [ABC entry](#abc-entry) gives concrete subjects for these conversations, including money, public finances, and women's rights (printed p. 176, PDF p. 87). Productive or joyful expression and possible excess remain part of the range; preaching is not stated.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Mercury`
 - Astronomicon formula: `W/¥ = T`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Language, method of speech. Grammar. Regulations about vacations. The thoughts are directed to separation of many. To speak to many about separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports of old knowledge, reports of pain experiences, success through patient speech, successful concentration on thinking, problems expanding in traffic, discussing problems of science, and success between youth and age
+- Source page: 362 (printed); PDF page: 180.
+
+Reports about old knowledge, reports about painful experiences, success through patient conversations, successful concentration on thinking, expansion of problems in transport, discussing problems of science, success between youth and old age.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Method in language and thought, including communication about separation.
+- Psychology: Concentration on thinking and patience in conversation.
+- Body/health: Painful experience is named without specifying a medical condition or establishing a diagnosis.
+- Social/relationship: Speaking to many about separations and discussing scientific problems.
+- Events/manifestations: Grammar, vacation regulations, reports of old knowledge or pain, and transport problems.
+- Conflicts/notes: Specific administrative and transport examples accompany the broader speech theme.
+
+## Contradictions
+
+Specific administrative and transport examples accompany the broader speech theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Mercury`: language, method of speech, grammar, regulations about vacations.
-- Practical expression: reports of old knowledge, reports of pain experiences, success through patient speech, successful concentration on thinking, and problems expanding in traffic.
+In `Saturn/Apollon = Mercury`, Mercury specifies the pair through ordered speech and thought: grammar and a method of speaking organize the [Witte entry](#witte-entry), which also names vacation regulations and discussions of separation. The [ABC entry](#abc-entry) adds patient conversation, concentrated thinking, and reports about knowledge or painful experience, with scientific and transport problems as particular settings.
 
 ## Links
 

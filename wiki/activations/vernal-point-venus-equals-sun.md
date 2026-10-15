@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Q = S`
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Sun Venus](../triads/vernal-point-sun-venus.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -44,11 +45,23 @@ Day of peaceful public life. A harmonious physical appearance. Preference for ce
 
 Peace center in public, harmonious people in public, art center in public, personal preference for the public, gentle people in public, and day of joy in public
 
+## Comparative Schema
+
+- core meaning: public harmony is expressed through people, appearance, and a peaceful or joyful day.
+- psychology: personal preferences and attraction to public life are named.
+- body/health: Witte gives harmonious physical appearance; no health condition follows from it.
+- social/relationship: harmonious people and public peace are explicit, without a specified relationship outcome.
+- events/manifestations: jewelry, an art center, a peace center, and a day of public joy are concrete examples.
+- conflicts/notes: ABC's “gentle people” is `schöne Menschen`, beautiful people, in the scan (printed p. 30; PDF p. 14). Witte's “love properties of the body” is left at its stated level.
+
+## Contradictions
+
+- The entries connect public peace with people and beauty; their different examples do not establish a conflict or a universal standard of appearance.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Sun`: day of peaceful public life, a harmonious physical appearance, preference for certain things, jewelry, and the love properties of the body.
-- Practical expression: peace center in public, harmonious people in public, art center in public, personal preference for the public, and gentle people in public.
+In `Vernal Point/Venus = Sun`, Sun specifies public harmony through its visible human and bodily expression: harmonious people, pleasing appearance, and personal taste accompany a peaceful or joyful public day. The [Witte entry](#witte-entry) includes jewelry and physical appearance (PDF p. 41); the [ABC entry](#abc-entry) adds centers of peace and art and a personal preference for public life (printed p. 30; PDF p. 14). The scan's “beautiful people” clarifies the retained “gentle people” translation. These examples describe the entry's range without turning appearance into a health or character judgment.
 
 ## Links
 

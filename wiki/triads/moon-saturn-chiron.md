@@ -19,35 +19,43 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Saturn Chiron`
 - Astronomicon triad-set: `R W Chiron`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Chiron = Saturn](../activations/moon-chiron-equals-saturn.md)
-- [Moon/Saturn = Chiron](../activations/moon-saturn-equals-chiron.md)
-- [Saturn/Chiron = Moon](../activations/saturn-chiron-equals-moon.md)
+- [Moon/Chiron = Saturn](../activations/moon-chiron-equals-saturn.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Saturn](../factors/saturn.md).
+- [Moon/Saturn = Chiron](../activations/moon-saturn-equals-chiron.md): base axis [Moon/Saturn](../axes/moon-saturn.md); activator [Chiron](../factors/chiron.md).
+- [Saturn/Chiron = Moon](../activations/saturn-chiron-equals-moon.md): base axis [Saturn/Chiron](../axes/saturn-chiron.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Chiron = Saturn`: John, page `32`
-- `Moon/Saturn = Chiron`: John, page `31`
-- `Saturn/Chiron = Moon`: John, page `87`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Moon/Chiron = Saturn](../activations/moon-chiron-equals-saturn.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Saturn = Chiron](../activations/moon-saturn-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 31; exact entry page unverified); [Saturn/Chiron = Moon](../activations/saturn-chiron-equals-moon.md#sandbach-entry) (PDF chapter-start p. 87; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Chiron = Saturn`: A fear of clearing the emotional body, but one knows at a very deep level that this must be done. Many of the limitations and difficulties in one’s life can be cleared by allowing one’s emotions to flow and by knowing that one is ultimately safe and there fore need not hold on to or store feelings that need to be let go of.
-- `Moon/Saturn = Chiron`: One’s energy helps others to get more in touch with negative feelings, and to understand them more deeply - which helps to release them. One helps others to take their own feelings more seriously and to see the need they have for nurturing.
-- `Saturn/Chiron = Moon` feels limitations, fears, and restrictions instinctively, especially in other people. The healing comes through emotional recognition and containment; the caution is absorbing others' heaviness or becoming responsible for feelings that are not one's own.
+Moon, Saturn and Chiron form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Saturn](../axes/moon-saturn.md)
+- [Saturn/Chiron](../axes/saturn-chiron.md)
 - [Moon](../factors/moon.md)
 - [Saturn](../factors/saturn.md)
 - [Chiron](../factors/chiron.md)

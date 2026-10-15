@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Sun`
 - Astronomicon formula: `R/Q = S`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: printed p. `127`, PDF p. `123` (entry).
+
 #### Witte Entry
 
 Woman’s love for the man. The man who is favored by women. The mother. Daily repeating harmonious hours. A feminine man.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Joy of the woman over the man, joy of the man over the woman, love between man and woman, love fellow of the man, personal harmony feeling, personal skill of a woman, beauty of the woman body, day and hour of love, and center of the people art
+A woman's joy in the man, a man's joy in the woman, love between man and woman, a man's feelings of love, a personal feeling of harmony, a woman's personal art, beauty of the female body, day and hour of love, and a center of folk art
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `117`, entry `0339`.
+
 #### Ebertin Entry
 
-Marital love, protective care of the family, graceftil, appreciation of artistic forms. Actors or stage performers. The expression of love.
+Marital love, protective care of the family, graceful, appreciation of artistic forms. Actors or stage performers. The expression of love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +80,23 @@ The importance you place on considering others and their needs; the confidence w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: expressing love and caring for others as a valued, energizing activity.
+- psychology: awareness of exchanged feelings, confidence in nurturing, and appreciation of artistic forms are named.
+- body/health: bodily beauty and motherhood are historical examples; no health condition is established.
+- social/relationship: marital love, family protection, and attention to another's needs are stated.
+- events/manifestations: acting or stage performance, folk art, and repeated harmonious hours are examples.
+- conflicts/notes: the sources emphasize care and expression without establishing that affection defines all of a person's purpose.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize caring and affectionate expression in personal, family, or artistic settings. These settings overlap without an explicit contradiction or evidence that every expression brings respect or harmony.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Sun` channels the tender, receptive love of the Moon/Venus axis through the Sun, making affection more vital, visible, intentional, and identity-forming. It points to relational warmth that wants to express itself openly and to care that becomes central to purpose or selfhood.
-- Chart expression: the conscious expression of love: protective family feeling, vitality through emotional exchange, appreciation of beauty in living form, and a solar need to give shape, meaning, and presence to affection.
+In Moon/Venus = Sun, Sun specifies the pair through active expression of love and attention to another person's needs. [Sandbach](#sandbach-entry) describes vitality from shared feelings and a wish to understand their meaning; [Munkasey](#munkasey-entry) adds confidence in nurturing and respect gained through care (p. 108). [Witte](#witte-entry) retains affection between woman and man and repeated harmonious hours.
+
+Artistic expression is also specific: [Ebertin](#ebertin-entry) names appreciation of artistic forms and stage performers alongside family care, and [ABC](#abc-entry) adds personal art and folk art (printed p. 178, PDF p. 88). These support meaningful care and expression without making affection a complete account of identity or vocation.
 
 ## Links
 

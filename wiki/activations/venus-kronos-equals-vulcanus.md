@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Venus Kronos Vulcanus](../triads/venus-kronos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Kronos`
+- Source reference: PDF page `185` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Mighty exceptional privileges. Preferential treatment. Most-favored nation claus
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Kronos`
+- Source reference: printed page `289`; PDF page `143` (one-based).
+
 #### ABC Entry
 
-One of the state prefer, one sided peace authority, joy over the unity of the hierarchy, great power of love, love for the strong state, power joy of the state, powerful artistic power, and state peace power
+Preferring the influence of the state, influential authority for peace, joy over the influence of hierarchy, great strength of love, love of the strong state, the state's joy in power, powerful artistic strength, and state power for peace.
+
+## Comparative Schema
+
+- Core meaning: Strong preferential treatment and the effective influence of love, art, or authority.
+- Psychology: Preference for state influence, love of a strong state, and pleasure in hierarchical influence.
+- Body/health: Neither activation entry supplies a bodily or health claim.
+- Social/relationship: Exceptional privileges and unequal distribution of favor.
+- Events/manifestations: A most-favored nation clause; influential peace authority, artistic strength, and state power.
+- Conflicts/notes: The state may enjoy power in the ABC wording; this is distinct from assuming all powerful influence is charitable.
+
+## Contradictions
+
+- The state may enjoy power in the ABC wording; this is distinct from assuming all powerful influence is charitable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Vulcanus`: mighty exceptional privileges.
-- Practical expression: one sided peace authority, great power of love, and love for the strong state.
+`Venus/Kronos = Vulcanus` makes favor or benevolence forceful and consequential. [Witte](#witte-entry) emphasizes exceptional privilege and preferential treatment, with a most-favored nation clause as a diplomatic example. The [ABC entry](#abc-entry) adds the influence of state and hierarchy, great strength in love, powerful art, and authority for peace. It also explicitly includes love of a strong state and the state's pleasure in power. These preserve a distinction between effective support and enjoyment of influence; strength alone does not establish benevolent use.
 
 ## Links
 

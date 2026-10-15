@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Cupido = Pluto`
 - Astronomicon formula: `V/¡ = Z`
 - Axis page: [Jupiter/Cupido](../axes/jupiter-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-P Beginning and development of pleasant family connections.
+- Source reference: printed p. 215; PDF p. 211.
+
+Beginning and development of pleasant family connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-developments with shared money, happy development of a community, changes through shared happiness, and changes in a legal community
+- Source reference: printed p. 333; PDF p. 165.
+
+Developments involving shared money, developing community rights, happy development of a community, changes through shared happiness, changes in a legal community, and transformation of community rights.
+
+## Comparative Schema
+
+- core meaning: Pleasant family or communal connections begin and develop through change.
+- psychology: The entries describe a developmental process, without establishing forcefulness or deliberate control.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte names the beginning and development of pleasant family connections.
+- events/manifestations: Shared money develops, communities change, and community rights are developed or transformed.
+- conflicts/notes: The scan confirms Witte's leading P is the Pluto glyph; it is removed from prose. Development does not establish forceful consolidation.
+
+## Contradictions
+
+- The family and financial or legal examples describe different fields of development rather than incompatible accounts.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Pluto`: happy association becoming stronger, deeper, and more consequential over time. It can show the forceful consolidation of family ties or the deliberate development of a successful shared bond.
+In `Jupiter/Cupido = Pluto`, Pluto specifies the Jupiter/Cupido axis through shared ties taking shape and developing. Pleasant family connections begin or grow, while communities, common money and community rights undergo change. Happy communal development links the relational and organizational forms; the entries do not specify a deliberate strategy or forceful consolidation. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

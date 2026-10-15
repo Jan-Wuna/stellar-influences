@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Neptune Asc](../triads/venus-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 To be deceived in love or cheated. To be made to believe that one is treated well. Separation of harmonious relations.
 
@@ -45,17 +49,23 @@ To be deceived in love or cheated. To be made to believe that one is treated wel
 
 #### ABC Entry
 
-Harmony through subtlety in the environment, harmony with the future partner, in harmony with the metaphysical environment, unsafe love partner, insecurity of the partner in the air, preference for fine feeling partners, and prefer water as an environment
+- Source page: 109 (printed); PDF page: 53; scanned activator row checked.
+
+Harmony through subtlety in the environment, harmony with the future partner, in harmony with the metaphysical environment, uncertain love partner, uncertainty of the partner in the air, preference for fine feeling partners, and prefer water as an environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 196 (printed), entry `0670`.
 
 Lack of good taste, immoral conduct. An undermining activity, falsehood, disappointment in love unions or in artistic associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 To feel that the expression of love is a spiritual obligation. To be uncertain as to whether or not others value and appreciate you. One is able to love others in a subtle, delicate manner, which many people may not be consciously aware of, but will receive the love all the same.
 
@@ -70,22 +80,23 @@ Adds a mystical quality to your appearance, expressions, and demeanor; you find 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Subtle affection coexists with uncertainty about appearances and appreciation.
+- **psychology:** Sandbach names uncertainty about being valued and delicate expression of love.
+- **body/health:** Munkasey's drug-related statement is an attributed source claim, not health guidance.
+- **social/relationship:** Witte and Ebertin name deception and disappointment in love or artistic ties.
+- **events/manifestations:** False appearances and the ending of harmonious relations are adverse possibilities.
+- **conflicts/notes:** Delicate lovingness and deceptive appearances remain ethically different possibilities.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Delicate lovingness and deceptive appearances remain ethically different possibilities. Ebertin's moral label and Munkasey's drug statement are historical source claims, not judgments or advice. ABC's “uncertainty of the partner in the air” is retained literally without inventing a specific event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Neptune`: artistic self-presentation, soft magnetism, and a personal field that feels refined, compassionate, or enchanted. Main caution: weak definition: attraction can become vague, porous, or too reliant on projection and atmosphere.
+In `Venus/Asc = Neptune`, Neptune specifies the Venus/Asc axis through affection whose meaning or reception is difficult to read. [Sandbach](#sandbach-entry) allows delicate lovingness together with uncertainty about being appreciated; [Witte](#witte-entry) and [Ebertin](#ebertin-entry) give the materially adverse alternatives of deceptive treatment and disappointment in love or artistic associations. [Munkasey](#munkasey-entry) also names false appearances. Subtle expression and unreliable appearances therefore share a problem of clarity, while remaining ethically different possibilities.
 
 ## Links
 

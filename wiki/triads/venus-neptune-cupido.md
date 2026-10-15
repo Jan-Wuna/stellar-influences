@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Neptune Cupido`
 - Astronomicon triad-set: `Q Y ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Cupido = Venus](../activations/neptune-cupido-equals-venus.md)
-- [Venus/Cupido = Neptune](../activations/venus-cupido-equals-neptune.md)
-- [Venus/Neptune = Cupido](../activations/venus-neptune-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Cupido = Venus](../activations/neptune-cupido-equals-venus.md) | [Neptune/Cupido](../axes/neptune-cupido.md) | [Venus](../factors/venus.md) |
+| [Venus/Cupido = Neptune](../activations/venus-cupido-equals-neptune.md) | [Venus/Cupido](../axes/venus-cupido.md) | [Neptune](../factors/neptune.md) |
+| [Venus/Neptune = Cupido](../activations/venus-neptune-equals-cupido.md) | [Venus/Neptune](../axes/venus-neptune.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Neptune/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `392`
-- `Venus/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `283`
-- `Venus/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `279`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Cupido = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-cupido-equals-venus.md#witte-entry), one-based PDF entry-start p. `247`.
+- `Neptune/Cupido = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-cupido-equals-venus.md#abc-entry), printed p. `392`.
+- `Venus/Cupido = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-neptune.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-neptune.md#abc-entry), printed p. `283`.
+- `Venus/Neptune = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-cupido.md#witte-entry), one-based PDF entry-start p. `180`.
+- `Venus/Neptune = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-cupido.md#abc-entry), printed p. `279`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Venus`: This activation moves dissolution into love and promise, showing deceptive affection, broken engagement, or discord in marriages formed on unstable emotional ground.
-- `Venus/Cupido = Neptune`: misunderstood love in married life.
-- `Venus/Neptune = Cupido`: misunderstanding in marital life.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

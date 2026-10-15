@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Cupido Apollon`
 - Astronomicon triad-set: `Y ¡ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Apollon = Neptune](../activations/cupido-apollon-equals-neptune.md)
-- [Neptune/Apollon = Cupido](../activations/neptune-apollon-equals-cupido.md)
-- [Neptune/Cupido = Apollon](../activations/neptune-cupido-equals-apollon.md)
+- [Cupido/Apollon = Neptune](../activations/cupido-apollon-equals-neptune.md): base axis [Cupido/Apollon](../axes/cupido-apollon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Apollon = Cupido](../activations/neptune-apollon-equals-cupido.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Cupido](../factors/cupido.md).
+- [Neptune/Cupido = Apollon](../activations/neptune-cupido-equals-apollon.md): base axis [Neptune/Cupido](../axes/neptune-cupido.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Cupido/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
-- `Cupido/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `431`
-- `Neptune/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `401`
-- `Neptune/Cupido = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `393`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Apollon = Neptune](../activations/cupido-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 270); [Neptune/Apollon = Cupido](../activations/neptune-apollon-equals-cupido.md#witte-entry) (PDF entry-start p. 251); [Neptune/Cupido = Apollon](../activations/neptune-cupido-equals-apollon.md#witte-entry) (PDF entry-start p. 247).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Apollon = Neptune](../activations/cupido-apollon-equals-neptune.md#abc-entry) (printed p. 431); [Neptune/Apollon = Cupido](../activations/neptune-apollon-equals-cupido.md#abc-entry) (printed p. 401); [Neptune/Cupido = Apollon](../activations/neptune-cupido-equals-apollon.md#abc-entry) (printed p. 393).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Neptune`: the breakup of a broad union or family association and unclear reception of new artistic forms.
-- `Neptune/Apollon = Cupido`: This activation socializes `Neptune/Apollon` through widespread dissolution of marriages, partnerships, and communal bonds. It shows the axis working through collective relationship breakdown, where emotional or legal union gives way on a larger scale.
-- `Neptune/Cupido = Apollon`: This activation expands dissolution across families, associations, and housing, turning private instability into broader social breakdown or the growth of secretive collective structures.
+Neptune, Cupido and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Apollon](../axes/cupido-apollon.md)
+- [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Neptune/Cupido](../axes/neptune-cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)

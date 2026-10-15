@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Pluto`
 - Astronomicon formula: `¢/£ = Z`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 282; PDF p. 278.
+
 Reduction of duties, to avoid or shirk a duty. Increase of idleness and vice. Resumption of duties. To neutralize hate or growing hate. Smouldering fire. Growing fire. Overcoming an aversion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-change, disadvantageous change of leadership, growing achievements from the past, growing lack of leadership, growing fire criminality, and changing service at the fire
+- Source reference: printed p. 439; PDF p. 218.
+
+Developing services, dangerous development of fire, inadequate unfolding of performance, disadvantageous change of leadership, growing achievements from the past, growing lack of leadership, increasing fire-related crime, and changing service at a fire.
+
+## Comparative Schema
+
+- Core meaning: Development and reversal can involve both withdrawal and resumption of activity.
+- Psychology: Growing hate or neutralizing hate; overcoming aversion.
+- Body/health: Neither entry specifies a bodily condition.
+- Social/relationship: Changing leadership and increasing leadership deficiency.
+- Events/manifestations: Reducing or resuming duties, developing services, smouldering or growing fire.
+- Conflicts/notes: ABC's opening three clauses were displaced into Neptune; growth and recovery are alternatives, not a forced crisis.
+
+## Contradictions
+
+The sources explicitly retain opposite developments: duties may be resumed or shirked, and hate may increase or be neutralized. Neither direction is predetermined.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Pluto`: the destructive impulse entering a phase of escalation, reversal, or reorganization. It can show hate or inactivity growing beneath the surface until something forces a shift.
+In `Hades/Zeus = Pluto`, Pluto specifies the Hades/Zeus axis through changes in duties, performance, leadership, and the course of fire or hostility. The [Witte Entry](#witte-entry) explicitly allows duties to be reduced or resumed, hate to grow or be neutralized, and aversion to be overcome. The [ABC Entry](#abc-entry) develops the same range through unfolding services and performance, changing leadership, and increasing fire or fire-related crime. Development is the common thread, with deterioration and renewed activity both preserved; no passage says an external crisis must force the change.
 
 ## Links
 

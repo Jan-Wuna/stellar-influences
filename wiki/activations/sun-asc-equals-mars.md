@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Mars Asc](../triads/sun-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Enhances your personal levels of enthusiasm and energy; strengthens your persona
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action and assertion in direct relationships.
+- psychology: Confidence, enthusiasm, fighting spirit, and possible indignation.
+- body/health: Physical work and daily activity are mentioned; no specific diagnosis is given.
+- social/relationship: Co-workers and people pursuing common interests.
+- events/manifestations: Cooperation, work, quarrels, and potentially brawls.
+- conflicts/notes: Constructive effort and conflict are both explicit possibilities; physical strain is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+Cooperation and quarrelling are alternative expressions in these entries, not mutually exclusive claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Mars`: initiative, fighting spirit, and a personal style that acts quickly and visibly. Main caution: friction: impatience, aggression, or excessive self-assertion can provoke conflict or physical strain.
+Mars specifies the Sun/Asc axis as active engagement with others: work, self-assertion, and the defense of shared interests. The [ABC](#abc-entry) and [Ebertin](#ebertin-entry) entries connect co-workers and diligence with cooperation, while [Witte](#witte-entry) also gives quarrels and brawls. The [Sandbach entry](#sandbach-entry) identifies a specific source of friction, an overly self-important manner; [Munkasey](#munkasey-entry) adds energy and an active daily life.
 
 ## Links
 

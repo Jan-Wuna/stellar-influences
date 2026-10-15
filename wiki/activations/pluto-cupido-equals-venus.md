@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Venus Pluto Cupido](../triads/venus-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Pleasant transformation and change of familiar or other social relations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 408; PDF page 203.
+
 #### ABC Entry
 
-Common development for peace, common artificial development, harmonious development in the community, developing love art, changing in a harmonious community, and developing preference for the community
+Shared development toward peace, shared artistic development, harmonious development within the community, unfolding the art of love, changes within a harmonious community, developing a preference for the community.
+
+## Comparative Schema
+
+- core meaning: Pleasant or harmonious collective and family change.
+- psychology: Preference for community and a shared movement toward peace.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Pleasant changes in family or other social relations.
+- events/manifestations: Harmonious collective development.
+- conflicts/notes: ABC includes shared artistic development and unfolding the art of love.
+
+## Contradictions
+
+The pleasant and harmonious themes fit together. ABC's shared artistic development gives harmony an additional creative expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Venus`: pleasant transformation and change of familiar or other social relations.
-- Practical expression: common development for peace, common artificial development, harmonious development in the community, developing love art, and changing in a harmonious community.
+Venus specifies Pluto/Cupido through a change in shared life experienced as pleasant or harmonious. The [Witte entry](#witte-entry) applies this to family and other social relations; [ABC](#abc-entry) adds shared development toward peace and growing preference for community. Shared artistic development in ABC is another concrete form of this harmonious change.
 
 ## Links
 

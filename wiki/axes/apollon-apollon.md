@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Apollon/Apollon`
 - Astronomicon axis: `¥/¥`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greatest expansion. Science, Experience. Far wide. Peace. Arts.
+
+## Comparative Schema
+
+- Core meaning: Greatest expansion and success organize the [Pair Summary](#pair-summary), whose fields include commerce, science, religion, philosophy, and the arts.
+- Psychology: Experience and philosophy provide an intellectual dimension; no specific personality profile or psychological liability is developed.
+- Body/health: The entry supplies no bodily correspondence or clinical claim.
+- Social/relationship: Peace and the collective fields of economy, trade, religion, and art are explicit; personal relationship dynamics are not specified.
+- Events/manifestations: Commerce, trade, economy, glory, success, and activity extending far and wide are the entry's named manifestations.
+- Conflicts/notes: This single brief source entry emphasizes expansion without developing conditions or limits for each listed field.
 
 ## Related Activations
 
@@ -78,11 +89,14 @@ Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greates
 - [Apollon/Apollon = Vulcanus](../activations/apollon-apollon-equals-vulcanus.md)
 - [Apollon/Apollon = Poseidon](../activations/apollon-apollon-equals-poseidon.md)
 
+## Contradictions
+
+No internal incompatibility is established by this short list. Its single-source scope does not establish wider agreement or a complete account of possible difficulties.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon` is the pure amplification of the Apollon principle: greatest expansion, wide distribution, commerce, science, philosophy, arts, peace, and success operating at large scale.
-- Chart expression: prosperity, recognition, globalization, intellectual or spiritual breadth, and systems, enterprises, or ideas that extend far beyond a local field. Liabilities: inflation, grandiosity, overreach, and enlargement that outruns proportion, substance, or practical control.
+`Apollon/Apollon` emphasizes expansion, success, and activity reaching far and wide. Commerce and the economy share this field with science, experience, philosophy, religion, and the arts; glory and peace are also explicit in the [Pair Summary](#pair-summary). The entry thus connects breadth of activity with intellectual and cultural pursuits, rather than limiting success to money alone. Its compact list does not explain a mechanism or specify when an outcome applies.
 
 ## Links
 

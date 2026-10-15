@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Moon`
 - Astronomicon formula: `T/V = R`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Talkative women. Happy and social public. Happy youth in public life. Enjoyment of physical motions (female). Public financial discussions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-A woman's joy in movement, a woman's successful thoughts, a financial language in the people, a joy in the young woman's youth, a talk about joy, a young woman's glock, women's media success, women's legal thoughts, and people's legal opinion
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> Bewegungs-Freude einer Frau, erfolgreiche Gedanken einer Frau, Finanz-Gespräche im Volk, Freude an der weiblichen Jugend, Gespräche über Gefühle der Freude, Glück einer jungen Frau, Medien-Erfolg der Frau, Rechts-Gedanken der Frau, Rechts-Meinung des Volkes
+
+Editorial translation from the German passage: A woman's enjoyment of movement; a woman's successful thoughts; financial conversations among the people; pleasure in female youth; conversations about feelings of joy; a young woman's happiness; a woman's media success; a woman's thoughts about law; the people's opinion on law.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Protecting your information and sources of data; your sentiments about how you u
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Expanded ideas linked with security, encouragement, imagination, or public exchange ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [Witte](#witte-entry)).
+- psychology: Thinking can provide security or become excessive coping with negative emotions.
+- body/health: Witte and ABC mention enjoyment of movement without specifying disease.
+- social/relationship: Talkative women, happy youth, and a sociable public are historically attributed examples.
+- events/manifestations: Public financial discussion, protecting data sources, and imaginative presentation are named.
+- conflicts/notes: Encouragement and overthinking remain distinct; gender examples do not define everyone with this formula.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's sociable public setting differs from Sandbach's inward security and coping themes. Munkasey adds protecting information as well as presenting it; the sources do not require indiscriminate openness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Moon`: encouraging speech, nurturing intelligence, and the ability to connect ideas to lived emotional reality. Main caution: sentimental excess: thought can drift toward overreaction, optimism, or mood-colored conclusions that outrun proportion.
+In `Mercury/Jupiter = Moon`, Moon specifies the wider exchange of ideas through feelings of security, encouragement, and imaginative presentation. Thinking may help someone feel secure, yet too much thinking can also serve as a way of coping with negative emotion. The public strand includes sociable exchange, financial discussion, and historically gendered examples involving women; Munkasey's protection of information sources adds selectivity to the sharing of knowledge ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

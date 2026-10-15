@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
 - Triad hub: [Vernal Point Kronos Admetos](../triads/vernal-point-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 300, Kronos + Admetos, Vernal Point row.
 
 To withdraw from the generality. Men who join together to live in an odd way, who live for the same idea.
 
@@ -42,13 +46,29 @@ To withdraw from the generality. Men who join together to live in an odd way, wh
 
 #### ABC Entry
 
-Especially depressed public, end of the public self governingness, consolidated authority in the public life, public resistance to the state, state restriction for the public, and superior resistance in the public
+- Source reference: printed p. 462; one-based PDF p. 230, Kronos + Admetos, Vernal Point row.
+
+An especially depressed public, end of public independence, established authority in public life, public resistance to the state, state restriction on the public, and superior resistance in public life.
+
+## Comparative Schema
+
+- **Core meaning:** Withdrawal from the generality and restriction or consolidation in public life.
+- **Psychology:** Shared commitment to an idea is explicit; ABC adds a depressed public.
+- **Body/health:** No personal physical condition is established by the public-depression language.
+- **Social/relationship:** People living unusually around a common idea; public resistance to the state.
+- **Events/manifestations:** Collective withdrawal, loss of public independence, or consolidation of public authority.
+- **Conflicts/notes:** Witte's historical "Men" wording is attributed; public restriction is not the same as chosen withdrawal.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 300 (entry start); [ABC entry](#abc-entry), printed p. 462.
+
+## Contradictions
+
+The entries distinguish voluntary association from restrictions imposed on the public. They do not establish that the uncommon group and the state are the same actor.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Vernal Point`: withdrawal from the generality and association with others who live in an unusual way for a common idea.
-- Chart expression: visible separation from the mainstream and communal life organized around special principles or uncommon living.
+In `Kronos/Admetos = Vernal Point`, Vernal Point places the pair in relation to the wider public. The [Witte entry](#witte-entry) describes withdrawing from the generality and joining others around an uncommon way of life or shared idea. The [ABC entry](#abc-entry) adds public independence, resistance, and state restriction, allowing a distinction between chosen separation and limits imposed on public life.
 
 ## Links
 

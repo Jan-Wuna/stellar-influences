@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Mars Zeus Kronos](../triads/mars-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Executive, military power of the state, for example: leader of the army. To make
 
 #### ABC Entry
 
-Efforts made by the State, Chief's Labour Services, particularly creative power, State Works, large efforts for work, self sustaining work design, and important work performances
+Strenuous state work, work achievements of the chief, particularly creative drive, leadership work of the state, dealing with a major fire, great efforts for work, independent work design, and important work achievements.
+
+- Source reference: printed p. 315, PDF p. 156, Zeus row; restored `Führungs-Arbeit des Staates` and `Groß-Feuer behandeln`, state leadership work and dealing with a major fire.
+
+## Comparative Schema
+
+- core meaning: Directed official or independent work involves leadership, effort and creative performance.
+- psychology: Creative drive is explicit without a detailed personality account.
+- body/health: No bodily condition is stated.
+- social/relationship: Witte names military/state executive power and autocratic actions.
+- events/manifestations: State leadership, dealing with major fire and independent work design are ABC settings.
+- conflicts/notes: Military command is one example; the entry also includes creative work and response to fire.
+
+## Contradictions
+
+Witte emphasizes military and autocratic action; ABC supplies broader leadership, creative work and fire-response settings. These are different roles rather than one required occupation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Zeus` directs executive force into military command, strategic initiative, and purposeful assertion.
-- Chart expression: military or executive state power, leadership of armed force, and making one's way through decisive, autocratic, and goal-driven action.
+Zeus specifies the Mars/Kronos axis through directed leadership and work achievement. Military/state command in [Witte](#witte-entry) connects with the chief's achievements, state leadership and independent work design in [ABC](#abc-entry). ABC also names dealing with a major fire and particularly creative drive. The broader work range must remain beside Witte's autocratic examples rather than being reduced to armed command.
+
+Evidence: Witte PDF p. 200; ABC printed p. 315, PDF p. 156.
 
 ## Links
 

@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Jupiter Cupido`
 - Astronomicon triad-set: `Q V ¡`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Jupiter/Cupido = Venus](../activations/jupiter-cupido-equals-venus.md)
-- [Venus/Cupido = Jupiter](../activations/venus-cupido-equals-jupiter.md)
-- [Venus/Jupiter = Cupido](../activations/venus-jupiter-equals-cupido.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Cupido](../axes/jupiter-cupido.md) | Venus | [Jupiter/Cupido = Venus](../activations/jupiter-cupido-equals-venus.md) |
+| [Venus/Cupido](../axes/venus-cupido.md) | Jupiter | [Venus/Cupido = Jupiter](../activations/venus-cupido-equals-jupiter.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Cupido | [Venus/Jupiter = Cupido](../activations/venus-jupiter-equals-cupido.md) |
 
 ## Source Coverage
 
-- `Jupiter/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `332`
-- `Venus/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `282`
-- `Venus/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `273`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Jupiter/Cupido = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-cupido-equals-venus.md#witte-entry), one-based PDF entry-start p. `211`.
+- `Jupiter/Cupido = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-cupido-equals-venus.md#abc-entry), printed p. `332`.
+- `Venus/Cupido = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-jupiter.md#abc-entry), printed p. `282`.
+- `Venus/Jupiter = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-jupiter-equals-cupido.md#witte-entry), one-based PDF entry-start p. `177`.
+- `Venus/Jupiter = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-jupiter-equals-cupido.md#abc-entry), printed p. `273`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Venus`: love happiness in married life, harmony in company, balanced family or company finances, and freedom from debt.
-- `Venus/Cupido = Jupiter`: great happiness in married life.
-- `Venus/Jupiter = Cupido`: love’s happiness in marital life.
+The `Venus Jupiter Cupido` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

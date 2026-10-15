@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Mars Node](../triads/vernal-point-mars-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Erotic union with many people. Union with many for common activities.
 
@@ -42,13 +46,27 @@ Erotic union with many people. Union with many for common activities.
 
 #### ABC Entry
 
-Actions in public Relationships, establishing relations with the public, public Work Vencillation, public encounters, effective connections in public Life, and connected with public work
+- Source page: 26; PDF page: 12 (one-based spread).
+
+Actions within public connections, creating relations with the public, public employment placement, bringing about public encounters, energetic connections in public life, and connection with public relations work
+
+## Comparative Schema
+
+- core meaning: Public connections actively made or used for shared work.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Union for common activity and Witte's erotic-union example.
+- events/manifestations: Employment placement, arranged encounters, and energetic links.
+- conflicts/notes: Erotic union and common work are separate source examples.
+
+## Contradictions
+
+The erotic example differs from ordinary employment or cooperative work. The source does not make all common activity erotic.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Mars`: erotic union with many people and union with many for common activities.
-- Practical expression: actions in public Relationships, establishing relations with the public, public Work Vencillation, public encounters, and effective connections in public Life.
+In `Vernal Point/Node = Mars`, public association becomes active and purposeful. The [Witte entry](#witte-entry) gives union for common activities and an erotic-union example. The restored [ABC entry](#abc-entry) emphasizes making connections, arranging encounters, employment placement, and public relations work. The synthesis centers on action that joins people while preserving the distinct scope of Witte's erotic example.
 
 ## Links
 

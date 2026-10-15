@@ -28,25 +28,29 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Node Zeus`
 - Astronomicon triad-set: `W g £`
 
+This hub groups the unordered `Saturn Node Zeus` set for sibling lookup. [Choose the exact orientation](#orientation-map); each linked activation keeps its own meaning.
+
 ## Orientation Map
 
-- [Node/Zeus = Saturn](../activations/node-zeus-equals-saturn.md)
-- [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md)
-- [Saturn/Zeus = Node](../activations/saturn-zeus-equals-node.md)
+- [Node/Zeus = Saturn](../activations/node-zeus-equals-saturn.md) — base axis [Node/Zeus](../axes/node-zeus.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Node = Zeus](../activations/saturn-node-equals-zeus.md) — base axis [Saturn/Node](../axes/saturn-node.md); activator [Zeus](../factors/zeus.md).
+- [Saturn/Zeus = Node](../activations/saturn-zeus-equals-node.md) — base axis [Saturn/Zeus](../axes/saturn-zeus.md); activator [Node](../factors/node.md).
 
 ## Source Coverage
 
-- `Node/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `229`
-- `Saturn/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `217`
-- `Saturn/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
-- `Saturn/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `358`
+Coverage below records the source entries currently present on each linked activation page; it does not establish complete coverage of the source works. The references retained here use the page systems named beside them.
+
+- `Node/Zeus = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-zeus-equals-saturn.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `151`.
+- `Node/Zeus = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-zeus-equals-saturn.md#udo-rudolph---abc-for-planetary-pictures), printed page `229`.
+- `Saturn/Node = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-zeus.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `145`.
+- `Saturn/Node = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-zeus.md#udo-rudolph---abc-for-planetary-pictures), printed page `217`.
+- `Saturn/Zeus = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-zeus-equals-node.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `226`.
+- `Saturn/Zeus = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-zeus-equals-node.md#udo-rudolph---abc-for-planetary-pictures), printed page `358`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Saturn`: To drop a matter.
+Use the [Orientation Map](#orientation-map) to choose the base pair and the factor after `=`. For this triad, `Node/Zeus = Saturn`, `Saturn/Node = Zeus` and `Saturn/Zeus = Node` are distinct reading routes. Follow the selected activation for its source entries and interpretation; the unordered triad supplies no merged meaning.
 
 ## Links
 

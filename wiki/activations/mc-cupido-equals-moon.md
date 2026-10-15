@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Moon MC Cupido](../triads/moon-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ In the company of women. Dealings with congregated women. Community aspirations 
 
 Blessed women's community, my wife's community, my soul's community, my whole life, my community's feelings, my community with the woman, my people's community, the soul of a people's community, and the soul's community with the woman
 
+## Comparative Schema
+
+- **Core meaning:** Community feeling and public communal aspirations.
+- **Psychology:** Feelings of belonging are represented.
+- **Body/health:** No bodily or medical association is established.
+- **Social/relationship:** Women's gatherings, a wife's community, and a people's community are source examples.
+- **Events/manifestations:** Public communal activity and the historically gendered example of a female art performer are explicit.
+- **Conflicts/notes:** ABC's “my whole life” is unreliable against meine ganzen Gefiihle; exclude it. Beseelte does not itself establish the English “blessed” as a theological claim.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Moon` emotionalizes the axis through women, public community feeling, and feminine performance.
-- Chart expression: belonging shaped by women's circles, collective emotional aspirations, and a life direction expressed through feminine or public artistic participation.
+Moon specifies `MC/Cupido` through feeling within community and public aspirations for belonging. The sources name gatherings of women, a wife, and a female performer alongside community feeling; those gendered examples remain attributed historical formulations rather than rules about feminine identity. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 84.)
 
 ## Links
 

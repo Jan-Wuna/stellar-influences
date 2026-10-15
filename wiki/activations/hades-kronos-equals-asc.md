@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Kronos = Asc`
 - Astronomicon formula: `¢/¤ = Asc`
 - Axis page: [Hades/Kronos](../axes/hades-kronos.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: PDF p. 279.
+
 Great damage to the native through meanness of others. To be involved in serious misfortune.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Source: printed p. 440; PDF p. 219, Asc row.
+
+German: "Ansehen eines Ortes in der Vergangenheit, Autoritäts-Mangel des Partners, besondere Umwelt-Nachteile, große Not für die Umwelt, großes Geheimnis des Partners, mangelhafte Orts-Hierarchie, verborgene Hierarchie in der Umwelt".
+
+English translation: A place's standing in the past; a partner's lack of authority; particular disadvantages in one's surroundings; great need in the surroundings; a partner's great secret; a deficient local hierarchy; a hidden hierarchy in the surroundings.
+
+## Comparative Schema
+
+- Core meaning: Adversity through contact with others and deficiencies or secrets in local and partner authority ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: No individual personality or motive is described.
+- Body/health: No bodily condition is named.
+- Social/relationship: A partner lacking authority or holding a secret and a hidden local hierarchy are explicit.
+- Events/manifestations: Serious misfortune and damage through others' meanness are named.
+- Conflicts/notes: Witte says others, not specifically superiors; ABC's surroundings and past standing retain their separate scope.
+
+## Contradictions
+
+Witte describes serious harm from others; ABC adds local past standing, partner secrets and deficient or hidden hierarchy. No direct opposing claim is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Asc`: life being shaped by harmful contact with bad authority, cruel superiors, or high-level misconduct. The person may suffer the effects of meanness coming from above rather than from equals.
+In `Hades/Kronos = Asc`, Asc specifies adverse authority through encounters and conditions in one's surroundings. Witte names serious misfortune and harm through others' meanness ([Witte Entry](#witte-entry)). ABC locates related difficulty in a partner's lack of authority or secret, a deficient or hidden local hierarchy, and need in the surroundings, while separately retaining a place's standing in the past ([ABC Entry](#abc-entry)).
 
 ## Links
 

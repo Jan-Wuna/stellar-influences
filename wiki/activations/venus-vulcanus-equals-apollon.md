@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Apollon`
 - Astronomicon formula: `Q/§ = ¥`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To be favored or preferred by the state or superiors. Great diligence and conscientiousness.
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Apollon row; actual glyph and neighboring rows checked.
+
+To be attractive to many. Great urge for science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Expansion of the power of love, influential knowledge of the arts, influential peace science, successful power of love, powerful Harrnonia expansion, strong love of freedom, great success in the arts, and increasing power of peace
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Apollon row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: Expansion of the power of love, influential knowledge of art, influential science of peace, successful power of love, powerful expansion of harmony, strong love of freedom, much success in art, and increasing power of peace.
+
+## Comparative Schema
+
+- core meaning: Love, attraction and harmonious influence extending widely.
+- psychology: A strong urge for science and love of freedom.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Attraction to many and expansion of love-power.
+- events/manifestations: Artistic success, influential art knowledge, science of peace and increasing peace-power.
+- conflicts/notes: The former state-favor paragraph belongs to Kronos; mächtige Harmonie-Ausdehnung means powerful expansion of harmony. Science of peace remains literal without a specified discipline.
+
+## Contradictions
+
+Wide attraction, science, art and expansion of harmony are compatible emphases. The entries do not say that popularity guarantees artistic success or establish a particular scientific discipline.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Apollon`: to be favored or preferred by the state or superiors.
-- Practical expression: expansion of the power of love, influential knowledge of the arts, influential peace science, successful power of love, and powerful Harrnonia expansion.
+In `Venus/Vulcanus = Apollon`, the pair's attraction and harmonious influence extend beyond a single bond. The [Witte entry](#witte-entry) names attraction to many and a great urge for science; the [ABC entry](#abc-entry) adds expansion of love-power and harmony, influential art knowledge, artistic success and love of freedom. Its science of peace and increasing peace-power preserve a wider peaceful range, without specifying a discipline or making success inevitable.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Sun`
 - Astronomicon formula: `Y/¢ = S`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Weakening, danger of infection. Danger of destruction of the body. Danger in water. Death by drowning. Sea voyages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `394`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Old man in the water, dangerous human weak, lack of life of a man, corporal danger in the water, personal lack of air, personal weakness from the past, personal loss of water, and unknown old man
+Old man in water, dangerous human weaknesses, lack of fluids of a man, bodily danger in water, personal lack of air, personal weaknesses from the past, personal water damage, and unknown old man
+
+## Comparative Schema
+
+- core meaning: personal or bodily vulnerability, with water and air among the stated conditions.
+- psychology: personal past weaknesses are named, without a claim of self-endangering drift.
+- body/health: infection, fluid deficiency, destruction of the body, and drowning are historical claims, not diagnoses or forecasts.
+- social/relationship: ABC's old or unknown man is a gendered source example; no particular relationship is supplied.
+- events/manifestations: sea voyages and personal water damage are explicit.
+- conflicts/notes: ordinary travel on water does not establish the severe bodily outcomes listed alongside it.
+
+## Contradictions
+
+Both sources include bodily danger and water, but Witte also gives sea voyages and ABC an old man. Their presence does not make either an accident prediction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Sun`: Weakening, danger of infection. Danger of destruction of the body. Danger in water. Death by drowning. Sea voyages.
-- Practical focus: personalizes hidden decline as bodily weakening, infection risk, and exposure to watery danger, making physical vulnerability and self-endangering drift central themes.
-- Practical expression: old man in the water, dangerous human weak, lack of life of a man, corporal danger in the water, and personal lack of air.
+In Neptune/Hades = Sun, Sun specifies the pair through personal vulnerability and bodily or material conditions. The [Witte entry](#witte-entry) gives weakening, infection danger, and sea voyages; [ABC](#abc-entry) adds fluid deficiency, lack of air, past weaknesses, and personal water damage (printed p. 394, PDF p. 196). The severe drowning or bodily-destruction claims remain attributed historical examples. These passages do not establish self-endangering drift or predict that ordinary sea travel produces harm.
 
 ## Links
 

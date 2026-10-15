@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [Node MC Zeus](../triads/node-mc-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Team-work. Wanting to be active with many people.
 
 #### ABC Entry
 
-F your soul en connection, I create contacts, I drive in a connection, I form connections, inner fire of a connection, my goal in a connection, my efforts in a connection, and spiritual guidance in a connection
+- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).
+
+Fiery soul connection, I create contacts, I lead within a connection, I shape connections, inner fire of a connection, my goal within a connection, my efforts within a connection, inner guidance within a connection.
+
+## Comparative Schema
+
+- **Core meaning:** Purposeful shared activity.
+- **Psychology:** A desire to act with others.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Teamwork and forming connections.
+- **Events/manifestations:** Creating contacts and pursuing goals within connections.
+- **Conflicts/notes:** ABC says leading within a connection (ich führe), alongside creating contacts and shaping bonds; teamwork does not guarantee success.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 88 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC says leading within a connection (ich führe), alongside creating contacts and shaping bonds; teamwork does not guarantee success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Node` socializes the axis into teamwork and shared activity.
-- Chart expression: wanting to work with many people, to build through cooperation, and to experience directed effort as something strengthened by participation and group engagement.
+Node specifies `MC/Zeus` through teamwork and wanting to be active with many people in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds creating contacts, shaping connections and effort toward a goal within a bond. The organizing theme is purposeful activity with others; cooperation is an emphasis, without a promise that group work succeeds.
 
 ## Links
 

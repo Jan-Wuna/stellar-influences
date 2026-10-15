@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Kronos = Node`
 - Astronomicon formula: `V/¤ = g`
 - Axis page: [Jupiter/Kronos](../axes/jupiter-kronos.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 218; one-based PDF page 214, Jupiter/Kronos section, Node row.
+
 Connection with leading persons or with people who experience great luck.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Bm:iations, particularly successful connections, success through contacts with authors, and important financial connections
+- Source reference: printed page 338; one-based PDF page 168, Jupiter/Kronos section, Node row; complete row checked between neighboring glyphs.
+
+Prestige through financial relationships, particularly successful connections, success through contacts with the state, successful encounters with authorities, conveying joy and self-confidence, connections to the legal hierarchy, and important financial connections
+
+## Comparative Schema
+
+- core meaning: Connections with leaders or fortunate people in Witte; successful state, legal and financial ties in ABC.
+- psychology: ABC explicitly includes conveying joy and self-confidence.
+- body/health: No bodily condition is stated.
+- social/relationship: Leading persons, authorities and state contacts.
+- events/manifestations: Prestige through financial relationships and links to the legal hierarchy.
+- conflicts/notes: The former authors wording mistranslated authorities; the sources do not specify patrons or elites as a distinct category.
+
+## Contradictions
+
+Both entries emphasize successful connections. Neither guarantees that contact with a leader or authority creates personal wealth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Node`: prosperity and rank moving through networks. It favors helpful ties to elites, patrons, or unusually fortunate people.
+For `Jupiter/Kronos = Node`, [Witte](#witte-entry) locates the formula in connections with leading people or people experiencing great luck. [ABC](#abc-entry) specifies state contacts, encounters with authorities and important financial or legal ties. Those connections can carry prestige or convey joy and self-confidence. The focus is the relationship to authority and fortunate circumstances, without assuming a patronage system or automatic financial benefit.
 
 ## Links
 

@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Saturn Vulcanus`
 - Astronomicon triad-set: `Q W §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Vulcanus = Venus](../activations/saturn-vulcanus-equals-venus.md)
-- [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
-- [Venus/Vulcanus = Saturn](../activations/venus-vulcanus-equals-saturn.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Vulcanus = Venus](../activations/saturn-vulcanus-equals-venus.md) | [Saturn/Vulcanus](../axes/saturn-vulcanus.md) | [Venus](../factors/venus.md) |
+| [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md) | [Venus/Saturn](../axes/venus-saturn.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Venus/Vulcanus = Saturn](../activations/venus-vulcanus-equals-saturn.md) | [Venus/Vulcanus](../axes/venus-vulcanus.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
-- `Saturn/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `366`
-- `Venus/Saturn = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `275`
-- `Venus/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `295`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Saturn/Vulcanus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-vulcanus-equals-venus.md#witte-entry), one-based PDF entry-start p. `230`.
+- `Saturn/Vulcanus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-vulcanus-equals-venus.md#abc-entry), printed p. `366`.
+- `Venus/Saturn = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `178`.
+- `Venus/Saturn = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-vulcanus.md#abc-entry), printed p. `275`.
+- `Venus/Vulcanus = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-vulcanus-equals-saturn.md#witte-entry), one-based PDF entry-start p. `188`.
+- `Venus/Vulcanus = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-vulcanus-equals-saturn.md#abc-entry), printed p. `295`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Vulcanus`: disharmonies in an otherwise great love.
-- `Venus/Vulcanus = Saturn`: the sorrows of parting.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

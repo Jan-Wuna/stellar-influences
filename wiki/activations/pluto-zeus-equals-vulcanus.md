@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Vulcanus`
 - Astronomicon formula: `Z/£ = §`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 To make mighty efforts. Great change in duties which have to be performed. Increase of duties.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning power development, development of fiery energies, development of filtration force, development of enormous achievements, powerful filtration influence, creative influence development, growing filtration power, and growing violence efforts
+- Source page: 413 (printed); PDF page: 205.
+
+Beginning unfolding of power, development of fiery energies, developing leadership strength, developing tremendous achievements, mighty leadership influence, creative unfolding of influence, growing leadership power, growing violent exertions.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Mighty exertion and a substantial increase or change in duties.
+- Psychology: Growing exertion and developing leadership strength.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Strong leadership influence and growing leadership power.
+- Events/manifestations: Great achievements, beginning power development, and fiery energies.
+- Conflicts/notes: The increase of effort includes growing violent exertion in ABC, not only accomplishment.
+
+## Contradictions
+
+The increase of effort includes growing violent exertion in ABC, not only accomplishment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Vulcanus`: to make mighty efforts; Great change in duties which have to be performed; Increase of duties.
-- Practical expression: beginning power development, development of fiery energies, development of filtration force, development of enormous achievements, and powerful filtration influence.
+In `Pluto/Zeus = Vulcanus`, Vulcanus specifies the pair through mighty efforts and a major increase or change in duties in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds developing leadership strength, great achievements, and growing influence or power. Its fiery energies and growing violent exertion preserve the more forceful edge of the range without making every accomplishment violent.
 
 ## Links
 

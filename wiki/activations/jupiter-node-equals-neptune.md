@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Neptune`
 - Astronomicon formula: `V/g = Y`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Neptune row; complete row and neighbors checked.
+
 Gradual cooling off of friendship. Money related deception. Insecure legal mediation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dissolving of a successful link, Frcude by means of a physical link, non material link with water, exchange in connection with money, unclear financial commitments, insecure legal entity, and advantages by means of control
+- Source reference: printed page 215; one-based PDF page 106, Mondknoten/Jupiter section, Neptune row; complete German wording checked.
+
+Dissolution of a successful connection, joy through a subtle or immaterial connection, a fortunate connection with water, deception involving money, unclear financial connections, uncertain legal mediation, and advantages through refining a relationship
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0838; retained printed coded-entry locator.
 
 Emotional inhibitions in unions or partnerships, indecision or vacillation, instability, unreliability. The stage of getting sober again, disappointment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Neptune entry; exact paragraph checked.
 
 The ability to feel many subtle, hidden, or unspoken connections. Too much going on between oneself and the world causes confusion or disorientation.
 
@@ -66,26 +76,27 @@ The ability to feel many subtle, hidden, or unspoken connections. Too much going
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 Others see you as more mysterious and mystical than intended; being deceived by the promises or intentions of friends; errors of judgment about the desires or needs of associates; increased needs for religious contacts.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Subtle connections alongside dissolution, deception and uncertainty.
+- psychology: Sensitivity to hidden or unspoken connections in Sandbach; indecision, inhibition or disappointment in Ebertin.
+- body/health: No bodily condition is stated; ABC's feinstofflich is a subtle/immaterial source concept, not a physical finding.
+- social/relationship: Friendship cooling, promises of friends, religious contacts and relationships needing refinement.
+- events/manifestations: Money-related deception, unclear finances, legal mediation and confusion from too many connections.
+- conflicts/notes: ABC's physical connection, exchange, entity and control wording were mistranslations; actual favorable refinement remains beside the risks.
 
 ## Contradictions
 
-- None recorded yet.
+Subtle perception and favorable refinement in Sandbach/ABC coexist with deception, cooling friendship and disappointment. The sources do not establish that feeling a hidden connection accurately reveals another person's intentions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Neptune`: intuitive social sensitivity, spiritualized connection, and the feeling that relationships carry hidden layers or expectations. Main caution: false hope in association: friendship can cool, agreements can blur, and the native may lose clarity about what others actually offer or intend.
+For `Jupiter/Node = Neptune`, the [source entries](#source-entries) combine sensitivity to subtle or unspoken connections with uncertainty about what those ties mean. Friendship may cool; money or promises can deceive; indecision and too much relational input can create confusion. ABC also allows joy through a subtle connection and advantage through refining a relationship. Munkasey adds religious contacts and mistakes about others' needs or intentions. The shared concern is the gap between a sensed connection and a dependable understanding of it.
 
 ## Links
 

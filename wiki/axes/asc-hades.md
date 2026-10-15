@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `92`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Others resign, refuse or are unable. The relation to servants and the socially i
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `124–125`; PDF page: `61`.
+
 #### ABC Pair Summary
 
-Disadvantage of other, fictitious environment, criminal environment, disadvantages of others, partner deficiency, tradition of others, environmental service, pollution, hidden environment, past environment, and polluted environment
+Disadvantage affecting others, endangered environment, criminal environment, disadvantages through others, lack of a partner, others' traditions, environmental service, environmental pollution, hidden environment, past environment, and polluted environment.
+
+## Comparative Schema
+
+- Core meaning: Difficult surroundings and contact with others in need connect the [Pair Summary](#pair-summary) with disadvantage, pollution, and environmental service in the [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Refusal, resignation, inability, and unpleasant dealings are source descriptions of encounters with others; they do not establish the reader's character or emotional response.
+- Body/health: The [Pair Summary](#pair-summary) historically associates the pair with sick people and a physician's contact with them. It does not diagnose the person being interpreted or equate age and loneliness with illness.
+- Social/relationship: Need, difficult acquaintances, and service are explicit. The source's phrase "socially inferior" records its historical class language and is not adopted as a judgment of people's worth.
+- Events/manifestations: Contaminated or old surroundings, pollution, hidden or past environments, and another person's traditions are present across the two summaries.
+- Conflicts/notes: Service, being endangered, and disadvantage through others describe different relations to difficult surroundings. The historical class and illness language does not establish moral inferiority or a diagnosis.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ Disadvantage of other, fictitious environment, criminal environment, disadvantag
 - [Asc/Hades = Vulcanus](../activations/asc-hades-equals-vulcanus.md)
 - [Asc/Hades = Zeus](../activations/asc-hades-equals-zeus.md)
 
+## Contradictions
+
+The entries emphasize difficult conditions, but also preserve service, tradition, and hidden or past environments. These are not interchangeable with illness or moral inferiority; no direct source disagreement is established by the available wording.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades`: a troubled near field: unpleasant people, degraded surroundings, contact with sickness, want, age, loneliness, and the burdens of what is socially or materially diminished.
-- Chart expression: difficult acquaintances, contaminated environments, caregiving or medical contact, low or damaged conditions nearby, and a life strongly affected by the weakness, need, or negativity of others in the immediate vicinity. Liabilities: disgust, entanglement in decline, exposure to harm, and an environment that repeatedly pulls the native into dirty, painful, or depressing realities.
+`Asc/Hades` concerns contact with difficult conditions nearby: contaminated surroundings, disadvantage, unpleasant dealings, or people who need help. Environmental service in the [ABC Pair Summary](#abc-pair-summary) belongs beside the [Pair Summary's](#pair-summary) historical example of a physician encountering sick people. This gives the pair a possible relation to serving need as well as experiencing difficulty; it does not make sickness a diagnosis for the person whose axis is being read. The entries also retain older surroundings, traditions, and hidden or past environments. Their historical class judgments remain attributed source language rather than a measure of anyone's worth.
 
 ## Links
 

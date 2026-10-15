@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Poseidon = Kronos`
 - Astronomicon formula: `V/¨ = ¤`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 222; one-based PDF p. 218, Jupiter + Poseidon, oriented activator row.
+
 Right and successful leadership through good judgement. The intelligent chief, boss, superior. The judicious government.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special spiritual success, dominant money culture, successful spiritual hierarchy, happiness through spiritual hierarchy, great joy over clarity, clarity of state finances, rights of the cultural state, legal superiority through clarity, and state cultural achievements
+- Source reference: printed p. 347; one-based PDF p. 172, Jupiter/Poseidon, oriented activator row.
+
+Special intellectual/spiritual success, dominant money culture, a successful intellectual/spiritual hierarchy, happiness through intellectual/spiritual hierarchy, great joy in clarity, clarity of state finances, rights of the cultural state, legal superiority through clarity, and state cultural achievements.
+
+## Comparative Schema
+
+- core meaning: Successful leadership through good judgment, with clarity in intellectual authority, law and state finances.
+- psychology: Intelligence, sound judgment and joy in clarity are emphasized.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: A judicious government or intelligent superior has collective and hierarchical expression.
+- events/manifestations: Clear state finances, state cultural achievements and legal superiority through clarity.
+- conflicts/notes: ABC's geistig can include intellectual as well as spiritual hierarchy; neither source specifies a religious office.
+
+## Contradictions
+
+Witte describes intelligent leadership and judicious government. ABC extends the account to intellectual/spiritual hierarchy, state finances and cultural law. No direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Kronos`: wisdom becoming authoritative and effective. It favors leaders who govern well because they see clearly, reason correctly, and act from conscience.
+`Jupiter/Poseidon = Kronos` connects clear understanding with responsible authority. Good judgment can make a chief or government effective; clarity also matters in state finances, legal standing and cultural achievements. The hierarchy can be intellectual or spiritual, with happiness linked to its success. [Witte's leadership account](#witte-entry) and [ABC's institutional clauses](#abc-entry) support this range of authority.
 
 ## Links
 

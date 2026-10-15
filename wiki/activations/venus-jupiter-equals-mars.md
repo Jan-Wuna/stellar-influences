@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Mars Jupiter](../triads/venus-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Happy sexual intercourse. Harmony. Joy and happiness through acts of friends or 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `272`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-To love work with money, to work for peace through law, to work for successful artistic activity, to work for money, to enjoy peace making, to want love happiness, to want love lappiness, and to want love la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la la-
+Loving work with money, efforts for peace through law, successful artistic activity, working on financial wishes, joy over efforts for peace, happiness in harmonious work, wanting happiness in love, and preference for legal activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source reference: printed page `179`, coded entry `0594`.
 
 #### Ebertin Entry
 
 A harmonious sex life, strong powers of wishing. Decisions are made through the joy of love (engagement, wedding). Procreation, birth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source reference: PDF page `56` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ The energy and forcefulness you put into the convictions you develop about life 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Active affection, harmonious cooperation, and forceful pursuit of desires or convictions.
+- Psychology: Strong wishes, charming self-assertion, enthusiasm for study, or irritation when convictions are misunderstood.
+- Body/health: Witte and Ebertin discuss sexual harmony; Ebertin also lists procreation and birth as historical manifestations, not predictions.
+- Social/relationship: Joy through friends, relatives, joint action, and decisions prompted by love.
+- Events/manifestations: Artistic work, efforts for peace through law, financial tasks, and possible engagement or marriage in Ebertin.
+- Conflicts/notes: Cooperative love and charming assertion coexist with luxury-seeking and Munkasey's irritation over convictions.
 
 ## Contradictions
 
-- None recorded yet.
+- Cooperative love and charming assertion coexist with luxury-seeking and Munkasey's irritation over convictions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Mars`: passionate warmth, celebratory initiative, and the ability to pursue love, beauty, or opportunity with confidence. Main caution: overdone appetite: desire can become hedonistic, wasteful, or too forceful to remain genuinely gracious.
+`Venus/Jupiter = Mars` puts affection and enjoyment into action: cooperating with loved ones, asserting oneself with charm, and working toward desired outcomes. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize sexual harmony and decisions made through love; Ebertin's engagement, marriage, procreation, and birth remain historical possibilities, not predicted events. The [ABC entry](#abc-entry) extends the active meaning to artistic work, money, and efforts for peace through law. [Sandbach](#sandbach-entry) adds both reassuring charm and a passion for luxury. [Munkasey](#munkasey-entry) gives the force a different object in convictions and further study, including irritation when others do not understand. Active warmth can thus support cooperation while desire or conviction can still create friction.
 
 ## Links
 

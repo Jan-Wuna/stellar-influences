@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Kronos`
 - Astronomicon formula: `Y/Z = ¤`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Abilities develop unnoticed. Slow changes in relation to the boss, to superiors or to the authorities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Exchange specific developments, develop state weak, self exploited development through fine tuning, uncertain developments in the authority, growing expectations of the state, and growing weakness in the management of the government
+Pretending special developments, unfolding state weakness, self-confident unfolding through sensitivity, uncertain developments among authorities, growing expectations of the state, and growing weakness of leadership
+
+## Comparative Schema
+
+- core meaning: unnoticed development of ability and gradual changes involving authority.
+- psychology: self-confident unfolding through sensitivity is explicit.
+- body/health: no health claim is supplied.
+- social/relationship: bosses, superiors, authorities, state expectations, and weak leadership are named.
+- events/manifestations: pretended special developments and unfolding state weakness are stated.
+- conflicts/notes: Witte's developing abilities are not all deceptive; ABC separately names pretending special progress.
+
+## Contradictions
+
+Witte emphasizes quiet development of abilities and changes concerning superiors. ABC adds confident sensitivity alongside pretence, state weakness, and uncertain authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Kronos`: Abilities develop unnoticed. Slow changes in relation to the boss, to superiors or to the authorities.
-- Practical focus: elevates hidden transformation into the sphere of authority, showing abilities developing quietly and slow changes taking shape in relation to bosses, superiors, or institutions.
-- Practical expression: exchange specific developments, develop state weak, self exploited development through fine tuning, uncertain developments in the authority, and growing expectations of the state.
+In Neptune/Pluto = Kronos, development concerns ability or authority and may proceed unnoticed. [Witte](#witte-entry) names slowly developing abilities and changes concerning superiors; [ABC](#abc-entry) adds self-confident unfolding through sensitivity, but also pretended special development and growing leadership weakness (printed p. 391, PDF p. 194). The entry therefore distinguishes developing capacity from uncertain or misrepresented institutional progress.
 
 ## Links
 

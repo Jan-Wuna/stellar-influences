@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Asc`
 - Astronomicon formula: `Q/¦ = Asc`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Respect and sympathy from a few.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Perseverance in the love of the partner, depressing artist in the place, restricted harmony in the environment, end of one partner love, consolidation of love to a place, stabilization of harmony to the environment, deepening of partner love, and preference for environmental blockades
+- Source page: 292 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Perseverance in love for the partner, depressing art in the locality, restricted harmony in the environment, the end of love for a partner, consolidation of love for a place, stabilization of harmony with the environment, deepening of love for the partner, and a preference for environmental blockages.
+
+## Comparative Schema
+
+- Core meaning: Selective affection tied to partner or place.
+- Psychology: Perseverance and deepening attachment.
+- Body/health: No specific health claim.
+- Social/relationship: Respect from a few; deepened or ended partner-love.
+- Events/manifestations: Art and restricted environmental harmony.
+- Conflicts/notes: Endurance and ending are alternatives within the same relational range.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Endurance and ending are alternatives within the same relational range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Asc`: respect and sympathy from a few.
-- Practical expression: perseverance in the love of the partner, depressing artist in the place, restricted harmony in the environment, end of one partner love, and consolidation of love to a place.
+Asc specifies Venus/Admetos through close attachments to people and places. Respect from a few and perseverance with a partner can deepen an existing bond; restricted harmony or the end of partner-love expresses the narrowing differently. The local art setting remains explicit in ABC. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

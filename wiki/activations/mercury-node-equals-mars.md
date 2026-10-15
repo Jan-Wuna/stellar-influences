@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = Mars`
 - Astronomicon formula: `T/g = U`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `141`.
+
 #### Witte Entry
 
 Correspondence. Working out the same thoughts together with others. To recruit co-workers. To seek partners.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `208`; PDF page: `103`.
+
 #### ABC Entry
 
-Activation of connections through language, communication of messages, thinking and action, wanting to communicate language, establishing contacts in writing, creating language connections, and connection to youth work
+German passage (transcribed from PDF page `103`, printed page `208`):
+
+> Aktivierung von Verbindungen durch Gespräche, Bemühungen einer Nachrichten-Vermittlung, Denken und Handeln verbinden, Gespräche vermitteln wollen, Kontakte schriftlich herstellen, Sprach-Verbindungen schaffen, Verbindung zur Jugend-Arbeit
+
+Editorial translation from the German passage: Activating connections through conversation; efforts to relay news; connecting thinking and action; wanting to facilitate conversations; establishing contacts in writing; creating language connections; a connection to youth work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `167`; entry code: `0546`.
 
 #### Ebertin Entry
 
 Intense teamwork, realization of thoughts and plans in common with others. An association formed for the purpose of doing teamwork, partnership.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `51` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Spying for secrets by close groups of allied people; struggles to effectively re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Realizing shared thoughts and plans through teamwork.
+- psychology: Sandbach links sharing ideas with the impulse to act and seek feedback.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Recruiting co-workers, seeking partners and working out thoughts together recur.
+- events/manifestations: Correspondence, relaying news and sending information to many people are examples.
+- conflicts/notes: Munkasey additionally includes spying and struggles to convey ideas; clear communication is not assured.
 
 ## Contradictions
 
-- None recorded yet.
+Most entries stress cooperation. Munkasey's spying and difficulty conveying ideas remain distinct adverse possibilities; generalized quarrelsomeness is not stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Mars`: productive teamwork, decisive coordination, and the power to mobilize people through clear and forceful communication. Main caution: combative networking: shared mental projects can become quarrelsome, rushed, or too driven by verbal heat.
+In `Mercury/Node = Mars`, Mars specifies intellectual connection through joint action. Witte's co-workers and partners and Ebertin's teamwork turn shared thought into a common task; Sandbach adds that exchange itself impels action and invites feedback. ABC gives correspondence and relaying news practical form. Munkasey also permits spying or struggling to convey ideas, so the distinction is between working through an association and assuming that every active network communicates openly or effectively ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

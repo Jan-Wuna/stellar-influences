@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = Sun`
 - Astronomicon formula: `S/g = S`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -41,22 +43,21 @@ Adds importance to the personal recognition you can give to others, and the help
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Recognition given to others and help received through special personal ties.
+- psychology: Increased emphasis on personal convictions.
+- body/health: The paragraph supplies no bodily or medical claim.
+- social/relationship: Friends and allies with special bonds; recognition and reciprocal help.
+- events/manifestations: A memorable time with friends or allies and support received through existing ties.
+- conflicts/notes: One repeated-Sun paragraph supports this interpretation; the exchange of recognition and help is not a guaranteed return.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is represented, so no cross-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = Sun`: Adds importance to the personal recognition one can give to others, and the help one receive in return thru one's ties; a rememberable time with friends and allies with whom one has special bonds; adds to personal convictions.
+In `Sun/Node = Sun`, the repeated Sun specifies the Sun/Node pair through the importance of recognizing others and receiving help through one's ties. [Munkasey's entry](#munkasey-entry) places this exchange within special bonds with friends and allies, alongside memorable shared experience and strengthened personal convictions. The emphasis is on the personal significance of those relationships and exchanges, within the scope of this brief paragraph.
 
 ## Links
 

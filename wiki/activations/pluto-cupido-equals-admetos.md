@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Pluto Cupido Admetos](../triads/pluto-cupido-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To retire into oneself, to become a hermit. Complete transformation and change i
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 409; PDF page 203.
+
 #### ABC Entry
 
 Blocked development of a community, depressive developments in of a community, end of a common development, consolidation through joint development, joint development to the whole, and resistance to a common development
 
+## Comparative Schema
+
+- core meaning: Stalled or consolidated collective development.
+- psychology: Withdrawal into oneself; a hermit-like retreat in Witte.
+- body/health: ABC's 'depressive' collective developments do not establish clinical depression.
+- social/relationship: Altered social position and resistance to joint development.
+- events/manifestations: Ending a shared undertaking or transforming social surroundings.
+- conflicts/notes: Consolidation and blockage are distinct possibilities.
+
+## Contradictions
+
+ABC's consolidation is not the same as its stalled development; Witte adds withdrawal rather than resolving the range into one outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Admetos`: to retire into oneself, to become a hermit; Complete transformation and change in social position or social circumstances or social surroundings.
-- Practical expression: blocked development of a community, depressive developments in a community, end of a common development, consolidation through joint development, and joint development to the whole.
+Admetos specifies Pluto/Cupido through a collective change that can stop, encounter resistance, or consolidate. The [ABC entry](#abc-entry) retains both blocked development and stabilization through shared effort. The [Witte entry](#witte-entry) adds withdrawal and a complete change of social position or surroundings: the group setting may change profoundly even when participation contracts.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Poseidon](../triads/vernal-point-sun-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 The daily education in general. Spirit. The astral body.
 
@@ -42,13 +46,27 @@ The daily education in general. Spirit. The astral body.
 
 #### ABC Entry
 
-Insightful man in public, spiritual world of man, spiritual center in public, spiritual person in public, public culture center, and useful person in public life
+- Source page: 23; PDF page: 10 (one-based spread).
+
+An insightful man in public, a man's intellectual world, a public intellectual center, an intelligent person in public, a public cultural center, and a reasonable person in public life
+
+## Comparative Schema
+
+- core meaning: Public personal life expressed through understanding, education, and culture.
+- psychology: Insight, intelligence, reason, and spirit are source themes.
+- body/health: Astral body is Witte's doctrinal term, not a medical claim.
+- social/relationship: Insightful or reasonable public persons.
+- events/manifestations: Daily education and intellectual or cultural centers.
+- conflicts/notes: Reasonable replaces useful; the astral-body term remains attributed without a physical mechanism.
+
+## Contradictions
+
+No direct contradiction is established. Educational and intellectual examples do not independently verify the source's astral-body doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Poseidon`: the daily education in general, spirit, and the astral body.
-- Practical expression: insightful man in public, spiritual world of man, spiritual center in public, spiritual person in public, and public culture center.
+In `Vernal Point/Sun = Poseidon`, public personal life is specified through insight and cultural understanding. The [Witte entry](#witte-entry) names daily education, spirit, and the astral body. The restored [ABC entry](#abc-entry) adds intelligent or reasonable people and intellectual or cultural centers. The synthesis connects persons with public understanding, retaining the astral-body term as attributed doctrine rather than an established bodily mechanism.
 
 ## Links
 

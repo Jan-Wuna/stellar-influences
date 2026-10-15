@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Admetos](../axes/mars-admetos.md)
 - Triad hub: [Mars Admetos Poseidon](../triads/mars-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 202 (one-based), Mars + Admetos, Poseidon entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Culture or education in a special field. Mental submission. Mental suppression. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 319; PDF p. 158 (one-based), Mars + Admetos, Poseidon entry.
+
 #### ABC Entry
 
-Perseverance in spiritual activity, blocked cultural work, restricted reason actions, strengthening spiritual impulses, spiritual work with primordial material, clarity through grtindical work, deepening in spiritual work, and creating truth through grtindlichkeit
+Perseverance in spiritual activity; blocked cultural work; restricted rational actions; consolidation of spiritual impulses; intellectual work with primordial matter; clarity through thorough work; immersion in spiritual work; create truth through thoroughness.
+
+## Comparative Schema
+
+- Core meaning: Specialized culture or education meets restriction, while spiritual work can be sustained and deepened.
+- Psychology: Mental submission and suppression coexist with spiritual perseverance and consolidated impulses.
+- Body/health: Neither entry supplies a particular medical claim.
+- Social/relationship: Suppression of spiritual liberty and blocked cultural work are explicit social constraints.
+- Events/manifestations: Clarity through thorough work, intellectual work with primordial matter, and immersion in spiritual work occur.
+- Conflicts/notes: Witte's suppression and ABC's clarity through thoroughness are different expressions, not a proved causal sequence.
+
+## Contradictions And Tensions
+
+Witte's suppression and ABC's clarity through thoroughness are different expressions, not a proved causal sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Poseidon`: special cultural or educational work, but also mental submission and suppression of spiritual liberty.
-- Chart expression: concentrated study in a narrow field, while warning that ideology or education can become instruments of mental constriction.
+With Poseidon, Mars/Admetos describes a concentrated cultural, educational, or spiritual field in which freedom can be restricted. Witte names mental submission and suppression of spiritual liberty. ABC retains blocked cultural work and restricted rational action, but also perseverance, consolidated spiritual impulses, and deepened spiritual work. Clarity and truth through thoroughness provide a constructive expression, with intellectual work on primordial matter separately preserved. The sources do not establish that suppression is required for insight. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

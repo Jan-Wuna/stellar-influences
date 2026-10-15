@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Zeus`
 - Astronomicon formula: `T/X = £`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Sudden cogent train of thoughts. Sudden arrangements. Fire alarm. To blow up by explosives. News about outbreak of war.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting fire messages, youth with new goals, creative impulses of the youth, plotting fire messages, discussing technical designs, technical achievements of the youth, reporting on technical achievements, and discussing procreation events
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting fire messages, youth with new goals, creative impulses of the youth, sudden fire messages, discussing technical designs, technical achievements of the youth, reporting on technical achievements, and discussing procreation events
+
+## Comparative Schema
+
+- core meaning: Sudden thought organizes action, goals or technical creation.
+- psychology: Cogent thought and creative impulses are explicit.
+- body/health: No medical condition is stated.
+- social/relationship: Youth with new goals and reports of technical achievements are social settings.
+- events/manifestations: Sudden arrangements, fire alarms, explosions and outbreak-of-war news are examples.
+- conflicts/notes: The scan supports sudden fire messages; former 'plotting' wording is not doctrine.
+
+## Contradictions
+
+Creative goals and technical achievements coexist with severe fire, explosive or war-news examples. The latter are not an inevitable outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Uranus = Zeus`: Sudden cogent train of thoughts. Sudden arrangements. Fire alarm. To blow up by explosives. News about outbreak of war.
-- Practical expression: exciting fire messages, youth with new goals, creative impulses of the youth, plotting fire messages, and discussing technical designs.
+In `Mercury/Uranus = Zeus`, Zeus specifies sudden thought through cogent arrangements, creative impulses and technical goals. Young people with new aims, technical design and reports of achievement express purposeful creation; conversations about procreation retain another source-specific setting. Fire alarms, sudden fire reports, explosions and news of war describe the severe event range without making it a forecast. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

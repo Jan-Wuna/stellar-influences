@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = Cupido`
 - Astronomicon formula: `T/g = ¡`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `141`.
+
 #### Witte Entry
 
 Courting. Marriage intentions. Exchange of thoughts with associates. Social entertainment. To establish connections with artists.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `209`; PDF page: `103`.
+
 #### ABC Entry
 
-Meeting in a youth community, by common thinking, connected together in transport, common youth relations, language on common relations, and news memorial community
+German passage (transcribed from PDF page `103`, printed page `209`):
+
+> Begegnungen in einer Jugend-Gemeinschaft, durch gemeinsames Denken verbunden, gemeinsam im Verkehr verbunden, gemeinsame Jugend-Verbindungen, Gespräche über gemeinsame Beziehungen, Nachrichten-Vermittlungs-Gemeinschaft
+
+Editorial translation from the German passage: Encounters in a youth community; connected through shared thinking; connected together in transport; shared youth connections; conversations about shared relationships; a community for relaying news.
+
+## Comparative Schema
+
+- core meaning: Communicative bonds among associates, artists, social groups or prospective spouses.
+- psychology: Shared thinking supports a sense of connection in ABC.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Courtship, marriage intentions and social entertainment are Witte's specific expressions.
+- events/manifestations: A youth community, common transport links and a news-relay community are ABC examples.
+- conflicts/notes: Courtship and group exchange are related settings, not requirements that every contact becomes marriage.
+
+## Contradictions
+
+No direct conflict is stated. Witte stresses courtship, artists and entertainment; ABC emphasizes a community joined by thought, transport and relaying news.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Node = Cupido` socializes the axis through courtship, associates, entertainment, and art.
-- Chart expression: marriage intentions, social amusement, exchange with companions or associates, and connection-building that is colored by artistry, romance, and group belonging.
+In `Mercury/Node = Cupido`, Cupido specifies intellectual connection through companions and a shared social setting. Exchange with associates, artists and prospective spouses gives Witte's courtship and entertainment examples their communicative basis. ABC similarly describes a youth community joined by common thought, transport and relaying news. Social or romantic belonging is therefore a setting for exchange, without making marriage the outcome of every contact ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -22,12 +22,14 @@ related_activations:
   - Moon/Uranus = Mars
   - Moon/Uranus = MC
   - Moon/Uranus = Mercury
+  - Moon/Uranus = Moon
   - Moon/Uranus = Neptune
   - Moon/Uranus = Node
   - Moon/Uranus = Pluto
   - Moon/Uranus = Poseidon
   - Moon/Uranus = Saturn
   - Moon/Uranus = Sun
+  - Moon/Uranus = Uranus
   - Moon/Uranus = Venus
   - Moon/Uranus = Vernal Point
   - Moon/Uranus = Vulcanus
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/URANUS`
-- Source page: `123`
+- Source heading: `MOON + URANUS`
+- PDF page (one-based): `127` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -88,9 +92,11 @@ Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of the
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `186–187`; PDF page (one-based): `92` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Eventful hour, excited woman, excited gemtite, fiihls impulses, impulses of woman, ncue woman, nervous woman, reform woman, hour rhythm, iisurrapid woman, tjnruhe in the people, and people reform
+Eventful hour, excited woman, excited mood, emotional impulses, a woman's impulses, new woman, nervous woman, reforming woman, rhythm of the hours, surprised woman, unrest among a people, reform of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -207,7 +213,7 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Uranus: Emotional Dynamite`
-- PDF page(s): `296`
+- PDF page(s): `296–297` (complete harmony and discord checked against PDF297).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -215,17 +221,17 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - shadow: The Noncommittal Woman and the Agitator
 - comparison: Closeness Distance Patience Impatience Dependence Independence Feeling of security Freedom Emotion Idea Monopolizing Taking flight
 - general: Surprising , unpredictable , vacillating , crazy feelings . Longing for freedom and independence . Tension between closeness and distance . The spirit of departure . Electrifying feelings . Sudden emergence of unconscious powers . Emotional fireworks .
-- harmony: The Genius at Improvising. Can spontaneously and easily adjust and adapt to new situations and people. Remains inwardly very flexible and always open for what is new. Yet, still capable of adequately integrating the need for a feeling of emotional security and the demand for independence and freedom.
-- discord: The Individual Incapable of Commitment. Need for freedom that takes on a compulsive character. Can never really open up to anything on the emotional level. In any type of agreement, always keeps at least one (inner) loophole open.
+- harmony: The Genius at Improvising. Can spontaneously and easily adjust and adapt to new situations and people. Remains inwardly very flexible and always open for what is new. Yet, still capable of adequately integrating the need for a feeling of emotional security and the demand for independence and freedom. But tolerates neither closed doors nor demands placed on one. Must always do everything voluntarily (a compulsion in itself). Very bright, lively, quick-witted, and imaginative. Has a strongly distinct intuition, and sometimes even clairvoyant abilities.
+- discord: The Individual Incapable of Commitment. Need for freedom that takes on a compulsive character. Can never really open up to anything on the emotional level. In any type of agreement, always keeps at least one (inner) loophole open. Hates all words of limitation like “never” and “always” and therefore tries to keep at least one option open at all times and in all places. For this reason, prefers to fall in love in “harmless cases,” which means in people who are quite certain to be unreachable. Hysterical and easily excitable. Tends to have stage fright. Contradictory, strongly fluctuating, and easily irritated emotions. Quickly feels harassed, coerced, restricted, unfree, and then tears away abruptly and curtly. Chronic dissatisfaction with the present. Tends to have solitary ways.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sudden feeling, emotional independence, awakening, and changes to familiar habits or attachments.
+- psychology: instinctive insight, originality, determination, and unusual interests coexist with restlessness, tension, overexcitement, or uncompromising self-will.
+- body/health: Ebertin lists circulatory and reproductive rhythms, and Munkasey stomach spasms and other bodily correspondences. Ebertin explicitly cautions against diagnosing schizophrenia from this pair; these are historical claims, not diagnoses.
+- social/relationship: a need for freedom within family and relationships can support unusual affiliations or disrupt care and attachment; the sources include both helpful friends and difficulties through alliances.
+- events/manifestations: sudden success, changes of circumstance, breaks with old routines, reform, and public excitement are explicit; Munkasey adds unconventional care or erratic leadership.
+- conflicts/notes: independence need not mean inability to care or commit. Carter's inflexible conviction and Banzhaf/Haebler's flexible improvisation are materially different descriptions even within favorable aspect categories.
 
 ## Related Activations
 
@@ -240,12 +246,14 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 - [Moon/Uranus = Mars](../activations/moon-uranus-equals-mars.md)
 - [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
 - [Moon/Uranus = Mercury](../activations/moon-uranus-equals-mercury.md)
+- [Moon/Uranus = Moon](../activations/moon-uranus-equals-moon.md)
 - [Moon/Uranus = Neptune](../activations/moon-uranus-equals-neptune.md)
 - [Moon/Uranus = Node](../activations/moon-uranus-equals-node.md)
 - [Moon/Uranus = Pluto](../activations/moon-uranus-equals-pluto.md)
 - [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md)
 - [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
 - [Moon/Uranus = Sun](../activations/moon-uranus-equals-sun.md)
+- [Moon/Uranus = Uranus](../activations/moon-uranus-equals-uranus.md)
 - [Moon/Uranus = Venus](../activations/moon-uranus-equals-venus.md)
 - [Moon/Uranus = Vernal Point](../activations/moon-uranus-equals-vernal-point.md)
 - [Moon/Uranus = Vulcanus](../activations/moon-uranus-equals-vulcanus.md)
@@ -253,15 +261,17 @@ Stomach spasms; extremes of eyesight (good or bad); changes in the body’s acid
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- A real difference of emphasis remains: Carter describes even the good aspects as too inflexible and devoted to rigid duty, whereas Banzhaf/Haebler's harmony entry stresses inward flexibility and spontaneous adaptation. Both preserve independence, but the pair alone does not choose between those capacities. Carter also allows outstanding talent under inharmonious aspects.
+- Source repairs: ABC's complete bold summary was retranslated from PDF92, printed186–187, restoring mood, impulses, new/surprised woman and popular unrest. Banzhaf/Haebler's complete harmony and discord endings were restored from PDF297, with the source range corrected to296–297.
+- Ebertin explicitly rejects diagnosing schizophrenia from every Moon/Uranus aspect; his `23` and trailing `Moon/Uranus D/W` are extraction debris. Carter's moral and sexual judgments remain historical assertions rather than a measure of unconventional people.
+- Locator correction: Witte's exact pair passage is PDF127; Munkasey's printed123 remains his separate reference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus` is the axis of emotional freedom, restlessness, unconventional nurture, and sudden changes in habit or attachment. It combines feeling, memory, and domestic pattern with independence, surprise, tension, intuition, and the urge to break from emotional confinement.
-- Chart expression: originality in private life, quick instinctive insight, nonconformity, reformist feeling, and the need for space inside relationships, family, and routine. Liabilities: instability, emotional detachment, erratic responses, nervous strain, disrupted security, and difficulty sustaining steady warmth when freedom and closeness feel incompatible.
+`Moon/Uranus` describes an emotional need for freedom and a readiness for feeling to change or break into action suddenly. Familiar routines may feel confining, while new impressions, unusual companions, or an independent way of living can feel enlivening. Insight and originality coexist with restlessness and disruptive reactions: the tension is how to preserve room for one's own feelings without making care and attachment impossible. The sources allow both an uncompromising conviction and flexible improvisation, so independence does not establish either emotional rigidity or instability on its own ([Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols), [Carter](#charles-carter---the-astrological-aspects), [Banzhaf/Haebler, PDF pp. 296–297](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
+
+The shared theme reaches beyond private restlessness to awakening, reform, sudden changes of circumstance, and excitement among a people. Friends may support a distinctive purpose, yet alliances and domestic expectations can also become sources of strain. Unconventional nurture or inventive responses to family needs remain possible alongside detachment and inconsistent care; no particular break, illness, or failure to commit follows automatically. A third factor's contribution must be read in the exact activation formula ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Munkasey, printed p. 123](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
 

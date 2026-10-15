@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Chiron`
 - Astronomicon formula: `W/Z = Chiron`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: `91` (chapter start; exact entry page unrecorded).
+
 Your energy subtly communicates to other people that any and all limits can be transcended. The ability to heal even the deepest fears, and to help others transmute the most negative of emotions.
+
+## Comparative Schema
+
+- core meaning: Transcending limits and transforming deeply negative emotions in Sandbach's framework.
+- psychology: Deep fear is presented as capable of transformation.
+- body/health: Healing refers here to fear and emotion; no bodily condition or treatment is specified.
+- social/relationship: Subtly conveying possibility to others and helping their emotional transformation.
+- events/manifestations: No concrete external event is supplied in this entry.
+- conflicts/notes: The claim that all limits can be transcended is the source's spiritual assertion, not an established universal result.
+
+## Contradictions
+
+Only Sandbach is represented here. The entry offers an affirmative spiritual interpretation without a second source for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Pluto = Chiron` carries a message that even severe limits and deep fears can be transformed. It can support the transmutation of very negative emotion; the caution is to avoid coercive redemption narratives or pushing people through material that needs time and containment.
+In `Saturn/Pluto = Chiron`, Chiron specifies limits and deep fear as material for transformation: one's presence communicates that obstacles can be transcended, and assistance to others concerns changing even strongly negative emotions ([Sandbach](#sandbach-entry)). This is Sandbach's spiritual account of the exact formula. The entry's healing language concerns fear and emotion; it supplies neither a medical treatment claim nor a concrete event prediction.
 
 ## Links
 

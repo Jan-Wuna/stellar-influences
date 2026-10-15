@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Mars MC Apollon](../triads/mars-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Elaborate activities in commerce, industry and science. To free oneself.
 
 Extension of my work, expansion of psychic activity, freedom impulses of the soul, processing my knowledge, my commercial activity, my activity success, my scientific activity, scientific soul work, and increasing soul work
 
+## Comparative Schema
+
+- **Core meaning:** Expanding work and applying knowledge through activity.
+- **Psychology:** Impulses toward freedom and active inner effort are represented.
+- **Body/health:** No particular bodily or medical finding is supplied.
+- **Social/relationship:** Commerce provides a field of exchange; no specific bond is described.
+- **Events/manifestations:** Industrial, commercial, and scientific work are explicit activities.
+- **Conflicts/notes:** “Soul work” remains the source's broad inner-life language; the entries do not define a therapy or technical practice.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Mars` energizes the axis into elaborate activity across commerce, industry, and science.
-- Chart expression: vigorous enterprise, applied work on a broad scale, and the use of action or effort to expand one's field and free oneself through productive accomplishment.
+Mars specifies `MC/Apollon` through extensive, applied activity: knowledge is put to work in commerce, industry, or science. ABC adds the expansion of work and impulses toward freedom, linking practical effort with the possibility of freeing oneself rather than making productivity a universal route to liberation. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

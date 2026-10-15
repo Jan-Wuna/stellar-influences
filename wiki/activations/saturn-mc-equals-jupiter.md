@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Jupiter Saturn MC](../triads/jupiter-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ A change of residence. Constraining happiness. Happy separation. To lose of burd
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Lost Soul Peace, Happiness of a mature soul, Inner Happiness by Empathy, My Success by Perseverance, My Financial Loss, My Steady Happiness, My Joy in Old Age, My Right problems, and Soul Joy despite Pain
+Disturbed soul-peace, happiness of a mature soul, inner happiness through seriousness, my success through endurance, my financial losses, my disturbed happiness, my joy in old age, my legal problems, and soul-joy despite pains.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0932`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Plain and simple, modest, contented. Clinging to hopes or trying to look on the good side of things. Changing fortunes, change of abode or residence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Activates others to give you counsel and advice about your self-imposed limitati
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: patient growth and modest satisfaction amid personal limits or changing fortunes.
+- psychology: hope, disciplined learning, contentment, and joy despite difficulties.
+- body/health: ABC names pains; no specific bodily condition is established.
+- social/relationship: helpful counsel, social understanding, and a separation that can be happy.
+- events/manifestations: career progress, study, changed residence, financial losses, and legal problems.
+- conflicts/notes: The source's To lose of burden is retained verbatim; its damaged wording is not used to assert relief.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries preserve hope and satisfaction alongside disrupted happiness and losses.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Jupiter`: sober leadership, trustworthy judgment, and expansion that can hold its shape over time. Main caution: moralized ambition: the wish to succeed correctly can become rigid, self-righteous, or too fearful of risk.
+In `Saturn/MC = Jupiter`, Jupiter specifies the Saturn/MC axis through patient progress and the possibility of finding satisfaction amid limits. [Ebertin](#ebertin-entry) describes modest contentment and holding to hope; [Sandbach](#sandbach-entry) adds enthusiasm for disciplined career progress and learning through difficulties in spiritual growth. [Munkasey](#munkasey-entry) connects counsel, study, and social understanding with growth beyond self-imposed limits.
+
+Contentment does not erase reversals. [ABC](#abc-entry) retains disturbed peace, financial loss, and legal problems beside endurance and joy despite pain. [Witte](#witte-entry) and Ebertin both name a change of residence, while Witte also includes happy separation and constrained happiness.
 
 ## Links
 

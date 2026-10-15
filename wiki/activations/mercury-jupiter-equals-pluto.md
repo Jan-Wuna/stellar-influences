@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Pluto`
 - Astronomicon formula: `T/V = Z`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 To recognize a fortunate change. The adjustment of a judgment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `245`; PDF page: `121`.
+
 #### ABC Entry
 
-Successful language development, successful media language, Frcude about linancial development, language about money changes, report about Rcchts developments, and favorable word exchange
+German passage (transcribed from PDF page `121`, printed page `245`):
+
+> Erfolgreiche Sprach-Entwicklung, erfolgreiche Medien-Sprache, Freude über finanzielle Entwicklung, Gespräche über Geld-Veränderungen, gute Entfaltung der Jugend, über Rechts-Entwicklungen berichten, vorteilhafter Wort-Wechsel
+
+Editorial translation from the German passage: Successful language development; successful media language; pleasure in financial development; conversations about changes in money; good development of young people; reporting on legal developments; an advantageous exchange of words.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Immense criticism or rebuffs for theories which are inadequately studied or pres
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Enlarging or revising ideas and judgments, with criticism or suppression as another strand ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: The desire for an all-inclusive overview can exhaust the thinker.
+- body/health: Sandbach's exhaustion is attributed; no specific bodily condition is given.
+- social/relationship: Munkasey describes rebuffs and suppression of discourse.
+- events/manifestations: Changed judgments, financial or legal developments, and elimination of books are explicit.
+- conflicts/notes: Munkasey's suppression must remain alongside the favorable changes in Witte and ABC.
 
 ## Contradictions
 
-- None recorded yet.
+Witte recognizes a fortunate change, while Munkasey describes criticism and suppression. Sandbach's expanding mind can reach a breakthrough through exhaustion. These are materially different outcomes, not one uniformly empowering effect.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Pluto`: powerful teaching, penetrating strategy, and the ability to turn broad ideas into transformative force. Main caution: coercive certainty: persuasion can become manipulative, doctrinaire, or too invested in mental power over others.
+In `Mercury/Jupiter = Pluto`, Pluto specifies expansive understanding through development or revision: recognizing a favorable change, adjusting judgment, or continually enlarging an idea. The urge for a comprehensive view can become exhausting, and Munkasey supplies a sharper contrary strand in which theories meet rebuff or discussions and books are suppressed. The formula therefore includes changing understanding and pressure on its expression, without warrant for assuming manipulative teaching in every case ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

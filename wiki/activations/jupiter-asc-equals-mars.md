@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 112 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0847; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Mars`
 - Astronomicon formula: `V/Asc = U`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ Adds a sharpness and loudness to the way you greet people; greeting others with 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Shared activity makes contact with others fruitful: cooperation, offers, and partnership initiatives recur across the entries.
+- psychology: Sandbach describes initiative to enrich relationships and anger expressed through overcompensation; Munkasey adds hearty, forceful greetings.
+- body/health: No entry establishes a bodily condition; Ebertin's wish for a beautiful home concerns domestic life.
+- social/relationship: Ebertin's pleasant cooperation and favorable business association meet Witte's willing reception and betrothal.
+- events/manifestations: Proposals, orders, engagement, and successful work with partners are named manifestations; Munkasey emphasizes active introductions.
+- conflicts/notes: ABC's work and financial motifs are located at printed p. 112 (PDF p. 55) in the evidence cache. These entries do not make every energetic encounter favorable.
 
 ## Contradictions
 
-- None recorded yet.
+- The constructive cooperation and overcompensating anger are different possible expressions, not mutually exclusive claims. The entries provide no rule for deciding which expression applies.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Mars`: constructive action with others, favorable associations, direct pursuit of partnership or shared plans, and enthusiasm translated into doing. Main caution: heated overcompensation: impatience, pushiness, or anger can distort an otherwise generous and promising relational field.
+In `Jupiter/Asc = Mars`, Mars specifies the Jupiter/Asc pair through active cooperation: opportunities with others become offers, shared work, and deliberate efforts to develop a relationship. [Witte](#witte-entry) names proposals and betrothal, while [Ebertin](#ebertin-entry) describes pleasant cooperation and a favorable business association; [ABC](#abc-entry) gives the work-partner expression (printed p. 112, PDF p. 55).
+
+The same initiative can make an introduction loud or forceful, as [Munkasey](#munkasey-entry) describes on p. 276. [Sandbach](#sandbach-entry) places anger beside the wish to enlarge relationships, so enthusiasm and overcompensation are alternatives within this orientation, not a guarantee of harmonious conduct.
 
 ## Links
 

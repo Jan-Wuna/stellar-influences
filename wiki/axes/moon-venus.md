@@ -11,6 +11,8 @@ normalized_axis: Moon/Venus
 factor_a: Moon
 factor_b: Venus
 related_activations:
+  - Moon/Venus = Moon
+  - Moon/Venus = Venus
   - Moon/Venus = Admetos
   - Moon/Venus = Apollon
   - Moon/Venus = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/Q`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/VENUS`
-- Source page: `107`
+- Source heading: `MOON + VENUS`
+- PDF page: `123`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. P
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `178`; PDF page: `88` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Joy of the woman, peaceful people, harmony prison, kiss of a woman, love of the woman, loving woman, lovable woman, hour of harmony, preference for a people, benevolent woman, and folk art
+German pair summary (transcribed from printed page `178`; PDF page `88`):
+
+> Freude der Frau, friedliches Volk, Harmonie-Gefühl, Kunst einer Frau, Liebe zur Frau, liebende Frau, liebenswerte Frau, schöne Frau, Stunde der Harmonie, Vorliebe für ein Volk, wohlwollende Frau, Volks-Kunst
+
+Editorial translation from the German passage: Joy of the woman, peaceful people, feeling of harmony, art of a woman, love for the woman, loving woman, lovable woman, beautiful woman, hour of harmony, preference for a people, benevolent woman, folk art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -209,7 +219,7 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Venus: Peace of Mind`
-- PDF page(s): `292`
+- PDF page(s): `292–293` (complete pair entry and boundary before Moon-Mars checked against scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -217,19 +227,22 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 - shadow: The Moody Woman and the Vain Lady
 - comparison: Loving care Eroticism Disposition Sensuality Closeness Flirtation Security Temptation Feeling Taste Atmosphere Style Mother Young woman Watching over Enticing Longing Willingness Family Couple Motherly love Erotic love Soul Peace
 - general: Longing for love and a feeling of security . Dreaming of love and eroticism . A good feeling in matters of taste , style , and art . Harmonious , loving , and peaceful feelings .
-- harmony: The Charmer. Harmony between disposition and erotic aura. Charming, very feminine, lovable, and always willing to fall in love. Great desire for love and tenderness. Capable of deep, genuine love, devotion, and sympathy. Friendly, tender, gentle, affectionate, and loving with a sure sense of what is right and the right moment in a relationship.
-- discord: The Unfulfilled Person. Torn back and forth between the wish for emotional security and the enticing call of desire. Both at the same time are apparently not satisfying. As a result, an uneven temper, dissatisfaction, extreme sensitivity, moodiness, jealousy, and unpredictably passionate: sometimes lustful, sometimes inhibited.
+- harmony: The Charmer. Harmony between disposition and erotic aura. Charming, very feminine, lovable, and always willing to fall in love. Great desire for love and tenderness. Capable of deep, genuine love, devotion, and sympathy. Friendly, tender, gentle, affectionate, and loving with a sure sense of what is right and the right moment in a relationship. Doesn't like confrontations.
+- discord: The Unfulfilled Person. Torn back and forth between the wish for emotional security and the enticing call of desire. Both at the same time are apparently not satisfying. As a result, an uneven temper, dissatisfaction, extreme sensitivity, moodiness, jealousy, and unpredictably passionate: sometimes lustful, sometimes inhibited. Also a tendency toward secrets and vicarious satisfaction like erotic or sweet things. Difficulties in marriage and relationships. Conflict between family sense and relationship with partner, as well as in the roles of mother and beloved.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: affectionate feeling, nurturing love, beauty, and the pleasure of emotional harmony recur across the pair entries.
+- psychology: tenderness, artistic sensitivity, and appreciation of value range into moodiness, jealousy, shyness, and uncertainty about receiving affection.
+- body/health: Ebertin associates this pair with glands, menstruation, and conception; Munkasey adds sensory sensitivity, kidneys, and eating-related illness. These are attributed historical associations, not diagnoses or fertility predictions.
+- social/relationship: care, romance, family warmth, and sociability coexist with tension between emotional security and erotic desire, or between parenting and sexuality.
+- events/manifestations: the entries include art, a pleasing home, family formation, public peace, and Munkasey's food or manufacturing productivity and preservation of cultural customs.
+- conflicts/notes: Carter's aspect conditions and historical gendered or reproductive claims remain attributed. ABC's feeling-of-harmony and art-of-a-woman clauses are now restored from the scan.
 
 ## Related Activations
+
+- [Moon/Venus = Moon](../activations/moon-venus-equals-moon.md)
+- [Moon/Venus = Venus](../activations/moon-venus-equals-venus.md)
 
 - [Moon/Venus = Admetos](../activations/moon-venus-equals-admetos.md)
 - [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md)
@@ -255,15 +268,16 @@ Female organs; your sensitivity to taste, smell, touch, etc.; glandular balances
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Harmony and affection recur, while Carter's family outcomes remain aspect-specific. Banzhaf's complete pair passage continues onto PDF293; its formerly omitted harmony and discord endings are restored.
+
+ABC's complete bold pair list was checked against printed178/PDF88; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus` is the axis of affectionate feeling, tenderness, receptivity, nurturance, and the emotional experience of beauty, love, and harmony. It describes how comfort, care, and attraction are felt in the body and in relationship.
-- Chart expression: the need to feel loved, soothed, appreciated, and at home in a pleasing emotional environment. It supports grace, artistic sensitivity, family warmth, and romantic responsiveness, but can also show moodiness, dependency, or relational insecurity when harmony is missing.
+`Moon/Venus` joins affection with the need for a loving, pleasing environment: caring for someone, receiving tenderness, and responding emotionally to beauty are closely connected. Art, music, food, home life, and simple pleasures can become ways of giving and receiving care. The shared theme extends from intimate warmth to peaceful relations within a wider community. This reading rests on [Witte's pair summary](#pair-summary), [Hand's tender and nurturing love](#pair-delineation), and [Munkasey's account of care, appreciation, and enjoyment](#basic-ideas).
+
+The same sensitivity makes the response to affection changeable. Feeling attractive or appreciated may support ease and grace, while insecurity can produce jealousy, moodiness, idealization, or doubt about whether care is welcome. [Falis](#falis-entry) and [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) also preserve a particular tension between emotional security, sexuality, and parenting. [Carter](#harmonious-aspects) adds calm judgment and a sense of proportion, and [Munkasey's public-life entries](#in-politics-or-business) extend the pair to productive nourishment and cultural customs. These are a supported range of pair meanings; the historical motherhood and health associations do not establish a person's sex, reproductive outcome, or illness, and the linked activations retain their own oriented meanings.
 
 ## Links
 

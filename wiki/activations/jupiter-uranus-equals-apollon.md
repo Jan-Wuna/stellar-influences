@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Apollon`
 - Astronomicon formula: `V/X = ¥`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Much money suddenly appears. Sudden luck for many. Good fortune through astrology.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dynamic money renunciation, success in legal tensions, success through new knowledge, successful trade events, new legal knowledge, surprising expansion of joy, great pleasure through technology, and advantage through technical knowledge
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+Dynamic increase of money, success amid legal tensions, success through new knowledge, successful trade events, new legal knowledge, surprising expansion of joy, much joy through technology, and advantage through technical knowledge.
+
+## Comparative Schema
+
+- Core meaning: Sudden fortune extends to many or involves substantial money ([Witte Entry](#witte-entry)).
+- Psychology: Joy expands through new knowledge in ABC.
+- Body/health: No bodily or medical claim is supplied.
+- Social/relationship: Collective good fortune is explicit; particular partnerships are not specified.
+- Events/manifestations: Trade, technology, legal knowledge, and astrology are source examples ([ABC Entry](#abc-entry)).
+- Conflicts/notes: Raw ABC inspection confirms Geld-Vermehrung, increase of money, rather than renunciation. Both sources retain favorable financial possibilities without guaranteeing an outcome.
+
+## Contradictions
+
+Witte's sudden appearance of much money and ABC's dynamic increase of money overlap. ABC adds legal tensions, new knowledge and technology; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Apollon`: lucky breakthrough moving through big networks, new knowledge, or expanding markets. It favors sudden enlargement and collective opportunity.
+In `Jupiter/Uranus = Apollon`, Apollon enlarges the pair's sudden fortune in scope: the [Witte Entry](#witte-entry) names much money, luck for many, and benefit through astrology. The [ABC Entry](#abc-entry) also gives increasing money and connects success with new knowledge, trade, legal knowledge and technology. These examples support a wider field of opportunity without supplying a guaranteed financial result.
 
 ## Links
 

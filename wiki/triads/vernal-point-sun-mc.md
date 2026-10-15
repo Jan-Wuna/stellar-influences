@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun MC`
 - Astronomicon triad-set: `VP S MC`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/MC = Vernal Point](../activations/sun-mc-equals-vernal-point.md)
-- [Vernal Point/MC = Sun](../activations/vernal-point-mc-equals-sun.md)
-- [Vernal Point/Sun = MC](../activations/vernal-point-sun-equals-mc.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/MC = Vernal Point](../activations/sun-mc-equals-vernal-point.md) | [Sun/MC](../axes/sun-mc.md) | Vernal Point |
+| [Vernal Point/MC = Sun](../activations/vernal-point-mc-equals-sun.md) | [Vernal Point/MC](../axes/vernal-point-mc.md) | Sun |
+| [Vernal Point/Sun = MC](../activations/vernal-point-sun-equals-mc.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | MC |
 
 ## Source Coverage
 
-- `Sun/MC = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `62`
-- `Vernal Point/MC = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
-- `Vernal Point/MC = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `18`
-- `Vernal Point/Sun = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = MC`: Udo Rudolph - ABC for Planetary Pictures, page `22`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/MC = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mc-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `59`.
+- `Sun/MC = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mc-equals-vernal-point.md#abc-entry), printed p. `62`.
+- `Vernal Point/MC = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-mc-equals-sun.md#witte-entry), one-based PDF entry-start p. `35`.
+- `Vernal Point/MC = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-mc-equals-sun.md#abc-entry), printed p. `18`.
+- `Vernal Point/Sun = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-mc.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-mc.md#abc-entry), printed p. `22`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Vernal Point`: This formula emphasizes the person standing out in the immediate environment and circumstance defining direction.
-- `Vernal Point/MC = Sun`: This formula emphasizes the body in public and the behavior.
-- `Vernal Point/Sun = MC`: This formula emphasizes bodily contact with the general public, or in the moment and personal connection with things and matters: of the daily life or at a moment.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Vernal Point/MC = Sun excludes a doubtful ABC translation of the personal description. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

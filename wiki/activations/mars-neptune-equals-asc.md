@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Asc](../triads/mars-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Rejection of acquaintances. To be infected by other persons. Deaths.
 
@@ -45,17 +49,23 @@ Rejection of acquaintances. To be infected by other persons. Deaths.
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Work partners in the air, a workplace by water, dissolution activities at the location, work by others at the location, weak will of a partner, work in the surrounding environment on/in or with water, weakness of will in others, and future work for the surrounding environment.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-A weak and unstable person, lack of vigor necessary for advancement in life. Sharing of grief and sorrow with others, termination of associations or unions,
+Source: “Mars/Neptune,” printed p. 212, entry 0732.
+
+A weak and unstable person, lack of vigor necessary for advancement in life. Sharing of grief and sorrow with others, termination of associations or unions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 73.
 
 Confused and chaotic conflicts in the personality. One who comes across as a subtly aggressive or assertive person.
 
@@ -70,22 +80,21 @@ Developing a strong mental focus on the subtle ways you use to compel or coerce 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Confusion, weakened will, or reduced effectiveness expressed through encounters and the work environment.
+- psychology: Conflicted self-presentation and subtle aggression or coercion.
+- body/health: Witte's infection and deaths, and Ebertin's lack of vigor, are historical source claims.
+- social/relationship: Work partners and weakened will in relationships; rejection, shared sorrow, endings, and subtle influence.
+- events/manifestations: Tense encounters, termination of unions, and air- or water-related work environments.
+- conflicts/notes: ABC's work settings and future activity do not carry all the harmful outcomes listed in the other entries.
 
 ## Contradictions
 
-- None recorded yet.
+The sources share troubled contact but differ in severity. Ordinary work settings in ABC, subtle assertion in Sandbach, and endings or medical claims elsewhere remain distinct examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Asc`: vulnerability in associations, sorrow shared with others, and personality conflicts shaped by hidden tensions, exhaustion, or confusion. Main caution: instability: unclear self-assertion can invite disappointment, dissolution of ties, or exposure to unhealthy influences.
+In `Mars/Neptune = Asc`, Asc specifies the pair through encounters and surroundings in which uncertain assertion, confusion, or weakened will affects contact. ABC includes work partners and water-related workplaces as well as the weak will of a partner or others; Ebertin names shared sorrow and endings of associations. Sandbach describes conflicted presentation, while Munkasey examines subtle coercion and the sources of tension. ABC's future work for the environment also keeps the range wider than failed encounters alone. ([ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 212, entry 0732; [Sandbach](#sandbach-entry), PDF p. 73; [Munkasey](#munkasey-entry), printed p. 236) Witte's infection and death statements remain attributed historical claims. ([Witte](#witte-entry), PDF p. 195)
 
 ## Links
 

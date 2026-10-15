@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `55`, chapter heading `ARIES + POSEIDON` (normalized here as Vernal Point/Poseidon).
 
 Ideas, spirit, education, cognition, understanding and culture in the general public. Water masses or great floods on Earth. Worlds awareness. The world of the civilized.
 
@@ -78,7 +82,18 @@ Ideas, spirit, education, cognition, understanding and culture in the general pu
 
 #### ABC Pair Summary
 
+Source reference: printed page `58`, PDF page `28`, bold pair summary; English rendering checked against the scan.
+
 Clarity in public life, culture in public life, public ideas, public truth, a spiritualized public, a reasonable public, publication of insights, and world culture
+
+## Comparative Schema
+
+- Core meaning: Ideas, understanding, education, and culture in public life recur across the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary).
+- Psychology: Cognition, clarity, reason, and understanding are named in a public context; the entries do not establish that every person's ideas are true.
+- Body/health: No specific medical claim appears. Witte's water masses and great floods are separate physical-world associations.
+- Social/relationship: Public education, culture, spiritual ideas, and world awareness give the pair a collective intellectual range.
+- Events/manifestations: Publication of insights and public cultural or educational activity are supported; floods remain an additional explicitly attributed association in the pair summary.
+- Conflicts/notes: The sources' truth and reason vocabulary does not certify a particular idea. Witte's "world of the civilized" remains historical wording; no hierarchy of peoples is inferred from it.
 
 ## Related Activations
 
@@ -103,11 +118,16 @@ Clarity in public life, culture in public life, public ideas, public truth, a sp
 - [Vernal Point/Poseidon = Vulcanus](../activations/vernal-point-poseidon-equals-vulcanus.md)
 - [Vernal Point/Poseidon = Zeus](../activations/vernal-point-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The intellectual and cultural entries overlap. Witte also lists water masses and floods, a distinct association whose relation to the cultural themes is not explained here; it should remain visible without being converted into a metaphor or a forecast.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes ideas, spirit, education, cognition, understanding and culture in the general public, water masses or great floods on Earth, worlds awareness, and the world of the civilized.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Vernal Point/Poseidon concerns ideas and understanding shared through public culture. Education, cognition, and world awareness in the [pair summary](#pair-summary) connect with clarity, public ideas, truth, and publication of insights in the [ABC entry](#abc-pair-summary). The theme is knowledge and culture made part of a wider public life, rather than private understanding alone.
+
+The entries' references to truth and reason describe their symbolic range, not proof of the correctness of a particular idea. Witte's pair summary also names water masses and great floods as a separate association; the page does not establish a link between that physical theme and the intellectual one.
 
 ## Links
 

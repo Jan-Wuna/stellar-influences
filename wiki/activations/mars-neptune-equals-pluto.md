@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Pluto](../triads/mars-neptune-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Reject plan. Secret plans. Work is never finished. Destruction before finishing.
 
@@ -45,17 +49,23 @@ Reject plan. Secret plans. Work is never finished. Destruction before finishing.
 
 #### ABC Entry
 
-Development work for the future, development work in the air or in the air, creating air pollution, weak will development, and uncertainty due to changing work
+Source: “Mars + Neptun,” printed p. 305 (PDF p. 151).
+
+Developing activities in metaphysics, disappointing change of work, development work for the future, development work in air or water, bringing about a change of air, weak unfolding of the will, and uncertainty through changing work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Neptune,” printed p. 211, entry 0730.
 
 Tendency to cause damage to others brutally or to suffer likewise. (Dissolution, death.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 73.
 
 Confused or chaotic actions that wreak havoc. An extreme impulse to act out of one’s idealism and/or intuition. The driving need to transmute negative or destructive psychic energy into a something positive. Acting out of a sense of spiritual obligation can create profound and far-reaching changes in one’s life.
 
@@ -70,22 +80,21 @@ Compulsion with finding the source of and using the available energies of mystic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intense, hidden, or confused effort with a possibility of disruption or transformation.
+- psychology: Compulsion, violent dreams, idealistic urgency, and a wish to withdraw.
+- body/health: Ebertin's dissolution and death are historical claims, not medical predictions.
+- social/relationship: Harm inflicted or suffered in Ebertin; spiritual obligation in Sandbach.
+- events/manifestations: Secret or rejected plans, unfinished work, air/water development work, disappointing work changes, and far-reaching change.
+- conflicts/notes: ABC's change of air does not specify pollution; destructive effects and constructive transformation remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach combines havoc with an effort to transform destructive energy, while ABC includes future development and work changes. The entries therefore do not support an exclusively destructive account.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Pluto`: profound psychic pressure, hidden plans, and the urge to transmute destructive patterns into something purposeful. Main caution: severity: confusion joined to force can become ruthless damage, breakdown before completion, or actions with far-reaching destructive consequences.
+In `Mars/Neptune = Pluto`, Pluto specifies the pair through intense action whose effects may be disruptive or transformative. Witte names secret plans and destruction before completion; Sandbach includes chaotic harm but also the effort to turn destructive psychic energy toward something positive. Munkasey adds compulsive pursuit of subtle forces and violent dreams. ABC includes metaphysical and future development, work in air or water, and disappointment or uncertainty through work changes. Its change of air does not establish pollution, and Ebertin's dissolution and death remain attributed historical examples. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 305 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 211, entry 0730; [Sandbach](#sandbach-entry), PDF p. 73; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Asc`
 - Astronomicon formula: `T/¤ = Asc`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 Tied to others through great ideas. Acquaintance with thinkers and poets.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `260`; PDF page: `129`.
+
 #### ABC Entry
 
-Authority of the partner in the language, reports of a local authority, special environmental language, dominance of the youth in one place, environmental report of the state, priority environmental language, important language with other, and important young partners
+German passage (transcribed from PDF page `129`, printed page `260`):
+
+> Autorität des Partners im Gespräch, Berichte einer Orts-Behörde, besondere Umwelt-Gespräche, Dominanz der Jugend an einem Ort, Umwelt-Bericht des Staates, vorrangige Umwelt-Gespräche, wichtige Gespräche mit anderen, wichtiger junger Partner
+
+Editorial translation from the German passage: A partner's authority in conversation; reports from a local authority; particular conversations about one's surroundings; dominance of young people in a place; a state environmental report; priority environmental discussions; important conversations with others; an important young partner.
+
+## Comparative Schema
+
+- core meaning: Personal ties through important ideas and authoritative conversation ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: No distinct inner state is specified.
+- body/health: No bodily condition appears.
+- social/relationship: Thinkers, poets, a conversation partner, and a young partner are named.
+- events/manifestations: Local-authority reports and environmental discussions are ABC examples.
+- conflicts/notes: Meeting distinguished thinkers does not itself confer authority on the reader.
+
+## Contradictions
+
+Witte's literary and intellectual contacts differ from ABC's local and official settings. The shared field is direct association through significant communication.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Asc` brings the axis into personal ties through elevated ideas and cultivated company.
-- Chart expression: relationships formed through serious thought, and to contact with poets, thinkers, or other people whose ideas carry distinction and stature.
+In `Mercury/Kronos = Asc`, Asc specifies authoritative thought in encounters with other people. Witte names ties through great ideas and acquaintance with thinkers or poets; ABC places important conversations beside a partner's authority and local official reports. Intellectual company and consequential direct discussion are the supported connection, without assuming that every partner is a public leader ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

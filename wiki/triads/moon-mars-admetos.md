@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Mars Admetos`
 - Astronomicon triad-set: `R U ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Admetos = Moon](../activations/mars-admetos-equals-moon.md)
-- [Moon/Admetos = Mars](../activations/moon-admetos-equals-mars.md)
-- [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
+- [Mars/Admetos = Moon](../activations/mars-admetos-equals-moon.md): base axis [Mars/Admetos](../axes/mars-admetos.md); activator [Moon](../factors/moon.md).
+- [Moon/Admetos = Mars](../activations/moon-admetos-equals-mars.md): base axis [Moon/Admetos](../axes/moon-admetos.md); activator [Mars](../factors/mars.md).
+- [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md): base axis [Moon/Mars](../axes/moon-mars.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Mars/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
-- `Mars/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `318`
-- `Moon/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `202`
-- `Moon/Mars = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `181`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Admetos = Moon](../activations/mars-admetos-equals-moon.md#witte-entry) (PDF entry-start p. 202); [Moon/Admetos = Mars](../activations/moon-admetos-equals-mars.md#witte-entry) (PDF entry-start p. 135); [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md#witte-entry) (PDF entry-start p. 124).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Admetos = Moon](../activations/mars-admetos-equals-moon.md#abc-entry) (printed p. 318); [Moon/Admetos = Mars](../activations/moon-admetos-equals-mars.md#abc-entry) (printed p. 202); [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md#abc-entry) (printed p. 181).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Moon`: depressed, crowded, pessimistic people and a public or female field that feels terrorized or hemmed in.
-- `Moon/Admetos = Mars`: Forced to work in crowded places. Prison labor. Slave labor.
-- `Moon/Mars = Admetos`: This activation constricts `Moon/Mars` into concentrated labor, reduced domestic ease, and effort under limitation. It often shows energy forced into narrow channels, making work specialized or burdensome while emotional drive has to cope with cramped living conditions, delays in establishing a home, or a smaller field of action than desired.
+Moon, Mars and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Admetos](../axes/mars-admetos.md)
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/Mars](../axes/moon-mars.md)
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Admetos](../factors/admetos.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Asc`
 - Astronomicon formula: `¢/£ = Asc`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 281; PDF p. 277.
+
 Others are obnoxious, hateful and negative, disorderly or lazy. Disorder and dirt in the surroundings. Damage by fire. To be visited by destructive fire.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Service at the fire place, commercial goal of the partner, dangerous fire at the place, defective location feeling, defective environmental stress, environmental guidance service, hidden partner fohnmg, and procreation passion of the partner
+- Source reference: printed p. 438; PDF p. 218.
+
+Service at the site of a fire, dangerous pursuit of goals by the partner, dangerous fire at the location, inadequate local leadership, inadequate striving in the environment, leadership service in the environment, hidden leadership of the partner, and the partner's renunciation of procreation.
+
+## Comparative Schema
+
+- Core meaning: Harmful or inadequate conditions encountered through other people and the immediate environment.
+- Psychology: Witte describes others as hateful or negative; ABC emphasizes dangerous goals and inadequate striving.
+- Body/health: Fire damage is named, but neither entry establishes a specific bodily diagnosis.
+- Social/relationship: The partner's goals, hidden leadership, and renunciation of procreation are explicit ABC meanings.
+- Events/manifestations: Disorder, dirt, destructive fire, service at a fire site, and deficient local leadership.
+- Conflicts/notes: Witte's judgments of others remain its attributed descriptions; ABC's renunciation of procreation is not a claim of infertility.
+
+## Contradictions
+
+Exposure to destructive fire and service at a fire site describe different relations to the danger. The entries do not establish that the person causes the surrounding disorder or fire.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Asc`: daily life being shaped by low-quality force in the environment. It can show obnoxious people, surrounding disorder, and direct exposure to harmful or incendiary conditions.
+In `Hades/Zeus = Asc`, Asc specifies the Hades/Zeus axis through other people and local conditions. The [Witte Entry](#witte-entry) concentrates on antagonistic or disorderly surroundings and exposure to destructive fire. The [ABC Entry](#abc-entry) also describes service at a fire site, dangerous goals pursued by a partner, and inadequate or hidden leadership in the environment. The distinction matters: this formula can concern dealing with a difficult setting or serving within it, rather than causing its damage. The partner's renunciation of procreation is an additional specific ABC meaning.
 
 ## Links
 

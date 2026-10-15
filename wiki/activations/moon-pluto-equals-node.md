@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Node`
 - Astronomicon formula: `R/Z = g`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Fluctuating and uncertain connections. Hourly changes in connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `190`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Development of links with women, change of a relationship with women, develop links with the people, transformation of the realms into connections, growing development of the environment, and changing relationships with women
+Development of connections with a woman, change in an emotionally significant relationship, developing connections with the people, transformation of feelings in connections, growing unfolding of feeling, and changeable relationships with women.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0419`.
 
 #### Ebertin Entry
 
 Upsets in association or in teamwork caused by peculiar emotional reactions and lack of adaptability.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `37` (entry checked directly; chapter starts on PDF p. `36`).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Finding others who share ideas for eliminating toxins from the body; rituals whi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotionally consequential connections undergo change or become unsettled.
+- psychology: intense attachment to the past and emotional reactions can complicate adaptation to others.
+- body/health: Munkasey describes shared ideas and rituals for bodily purification; their effectiveness is not established by the entry.
+- social/relationship: fluctuating connections, teamwork upsets, emotionally intense encounters, and possible help from powerful women.
+- events/manifestations: changing associations, seeking impactful connections, and finding others with shared purification interests.
+- conflicts/notes: the gendered relationship examples belong to the source entries; they do not limit every manifestation to women or establish permanent bonds.
 
 ## Contradictions
 
-- None recorded yet.
+- Change and difficulty in association recur, but Munkasey's unexpected help is a distinct possibility rather than a denial of that difficulty. The entries describe changing ties and do not establish their permanence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Node`: powerful alliance, crisis-tested belonging, and the ability to stay bonded through difficult shared conditions. Main caution: possessive connection: emotional ties can become controlling, fear-bound, or hard to leave once pressure accumulates.
+Node specifies the Moon/Pluto pair through connections that carry emotional force and can change rapidly. Strong reactions or difficulty adapting may unsettle association and teamwork; Sandbach adds the need to release stressful attachment to the past while seeking encounters with a deep emotional impact ([Witte entry](#witte-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry)).
+
+These connections need not only disrupt. Munkasey includes unexpected help from powerful women and meeting people who share purification interests, alongside attraction to power or wealth. Those are bounded possibilities in this orientation, not a promise that intense ties will endure ([Munkasey entry](#munkasey-entry), p. 132).
 
 ## Links
 

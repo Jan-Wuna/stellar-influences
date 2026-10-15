@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Pluto Admetos Poseidon](../triads/pluto-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Deep reaching changes in the mental and spiritual attitude and in the concept of the world. '>«
+- PDF page: 262 (one-based; exact row checked).
+
+Deep reaching changes in the mental and spiritual attitude and in the concept of the world.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Restricted spiritual development, consolidation through spiritual growth, spiritual depth growth, grild truth unfolding, clarity about transformation of primordial energy, profound spiritual development, and growing knowledge about primordial material
+- Source page: 419 (printed); PDF page: 208 (one-based; exact row checked).
+
+Restricted intellectual or spiritual development, consolidation through intellectual or spiritual growth, deep intellectual or spiritual growth, thorough unfolding of truth, clarity about transformation of primal energy, profound intellectual or spiritual development, growing knowledge of primal material.
+
+## Comparative Schema
+
+- core meaning: deep change in mental or spiritual attitudes and one's view of the world.
+- psychology: restricted growth can coexist with consolidation, insight and thorough pursuit of truth.
+- body/health: the entries state no bodily condition; primal energy is their source vocabulary.
+- social/relationship: no particular relationship or group is specified.
+- events/manifestations: a transformed world view and growing knowledge of primal material.
+- conflicts/notes: Depth is explicit, but a generally slow tempo was not stated in these activation entries; restricted development and consolidation remain distinct.
+
+## Contradictions
+
+Depth is explicit, but a generally slow tempo was not stated in these activation entries; restricted development and consolidation remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Poseidon` brings deep, slow change into the mental and spiritual attitude, altering the concept of the world from the roots.
-- Practical expression: restricted spiritual development, consolidation through spiritual growth, spiritual depth, clarity about transformation of primordial energy, and growing knowledge about primordial material.
+Poseidon specifies `Pluto/Admetos` through a change reaching deeply into mental or spiritual attitudes and the conception of the world. The [Witte entry](#witte-entry) makes that shift explicit; the [ABC entry](#abc-entry) adds both restricted development and consolidation through spiritual growth, with truth, primal energy and primal material among its concerns. The transformation can deepen understanding while meeting limits. Its depth alone does not establish how quickly it unfolds.
 
 ## Links
 

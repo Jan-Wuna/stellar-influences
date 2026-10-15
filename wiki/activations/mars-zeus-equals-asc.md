@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Asc Zeus](../triads/mars-asc-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Energetic action of others, or against others. Acquaintance with soldiers, officers, machinists, or technicians. To be threatened by quick firing weapons. Conflicts.
 
@@ -42,13 +46,27 @@ Energetic action of others, or against others. Acquaintance with soldiers, offic
 
 #### ABC Entry
 
-Others design the work, more strenuous work place, work services at the place, fire at the place work, leading activity at one place, leadership activities of others, creative partner actions, environmental arbcit start, and will of local transportation
+Source: “Mars + Zeus,” printed p. 312 (PDF p. 155).
+
+Others shape the work, a strenuous workplace, work achievements at the location, working with fire at the location, leading activity at a location, others' leadership activity, creative actions by a partner, beginning work in the surroundings, and the will of local leadership.
+
+## Comparative Schema
+
+- core meaning: Directed or energetic work through others, partners, and the local setting.
+- psychology: Others' initiative and local leadership's will in ABC's entry.
+- body/health: Witte names a weapon threat, without supplying a diagnosis.
+- social/relationship: Contacts with soldiers, officers, machinists, or technicians; creative partner action and possible conflict.
+- events/manifestations: A strenuous workplace, local fire work, and work shaped or led by others.
+- conflicts/notes: Technical contact and partner work do not themselves establish a threat; conflict is a distinct source expression.
+
+## Contradictions
+
+Witte includes conflict and weapons alongside technical contacts. ABC develops constructive or demanding local work and partner leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Asc` brings the axis into direct contact with other people through conflict, technicians, soldiers, or threats.
-- Chart expression: confrontational encounters, active or martial surroundings, and exposure to forceful, mechanical, or weapon-linked people and situations.
+In `Mars/Zeus = Asc`, Asc specifies directed and creative effort through other people and the immediate work setting. Witte includes energetic action with or against others and contacts with military or technical people; ABC adds work shaped by others, creative partner actions, local leadership, and work with fire. Conflict and a weapon threat remain Witte possibilities, alongside substantial work and collaboration. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 312 / PDF p. 155)
 
 ## Links
 

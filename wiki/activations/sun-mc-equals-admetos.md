@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun MC Admetos](../triads/sun-mc-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To have great perseverance. Holding tenaciously to ideas.
 
 #### ABC Entry
 
-A person's firm soul, my bright man, my body circle, my caring endurance, my personal limitations, my personal strength, my personal deepening, and man's mental depression
+Source: ABC printed p. 63, supplied PDF p. 30, Meridian + Sonne, Admetos row (eight clauses). Translation from the German scan:
+
+A person's firm soul; my thorough man; my bodily circulation; my physical endurance; my personal restriction; my personal firmness; my personal deepening; the man's depression of the soul.
+
+## Comparative Schema
+
+- core meaning: Personal steadiness and tenacious adherence to ideas.
+- psychology: Perseverance, firmness, and personal deepening.
+- body/health: ABC names bodily circulation and physical endurance; these do not establish a diagnosis.
+- social/relationship: No distinct social pattern is established.
+- events/manifestations: Maintaining an idea or experiencing personal limitation.
+- conflicts/notes: ABC also names restriction and depression of the soul; no diagnosis or outcome is inferred.
+
+## Contradictions
+
+Witte's perseverance and ABC's limitation describe different aspects of holding firm. ABC also names bodily circulation, physical endurance and depression of the soul; these remain attributed motifs and do not establish a diagnosis.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Admetos`: steadfastness and fixed direction.
-- Practical expression: a person's firm soul, my bright man, my body circle, my caring endurance, and my personal limitations.
+In `Sun/MC = Admetos`, Admetos specifies the Sun/MC relation to one's own embodied and inner direction through steadiness and limitation. The [Witte Entry](#witte-entry) describes perseverance and holding tenaciously to ideas; the [ABC Entry](#abc-entry) adds thoroughness, personal firmness, physical endurance, deepening and restriction. The supported pattern is an orientation that holds its ground. ABC's bodily circulation and depression examples remain attributed and do not establish a physiological mechanism or diagnosis.
 
 ## Links
 

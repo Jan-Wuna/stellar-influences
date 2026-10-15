@@ -18,7 +18,7 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -26,6 +26,8 @@ updated_at: 2026-05-06
 - Formula: `Asc/MC = Asc`
 - Axis page: [Asc/MC](../axes/asc-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -36,26 +38,27 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
-Focusing on your personal needs and developing your inner attitudes toward selfacceptance and self-worth; realizing that you are a unique human being and feeling comfortable with your achievements in life.
+Focusing on your personal needs and developing your inner attitudes toward self-acceptance and self-worth; realizing that you are a unique human being and feeling comfortable with your achievements in life.
+
+Source reference: Michael Munkasey, printed p. 366, one-based PDF p. 367, “ASCENDANT/MIDHEAVEN With Itself,” Asc row; checked on the actual scan. The adjacent MC row is a separate activation.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Attention to personal needs supports self-acceptance and recognition of one's uniqueness ([Munkasey entry](#munkasey-entry)).
+- **Psychology:** Inner attitudes toward self-worth and comfort with one's achievements are explicit.
+- **Body/health:** The entry supplies no body or health claim.
+- **Social/relationship:** The passage centers on one's relation to oneself; no specific partnership or social event is stated.
+- **Events/manifestations:** Achievements in life are mentioned as something to feel comfortable with, without predicting a particular achievement.
+- **Conflicts/notes:** Only the Asc row is represented; the neighboring MC activation must retain its separate wording.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry connects personal needs, uniqueness, and self-acceptance without an explicit opposition. It cannot establish agreement with another source or with the separate MC activation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Asc/MC = Asc`: Focusing on one's personal needs and developing one's inner attitudes toward self-acceptance and self-worth; realizing that one is a unique human being and feeling comfortable with one's achievements in life.
+In `Asc/MC = Asc`, Asc specifies the pair through attention to one's own needs and inner attitudes toward self-worth. Munkasey's Asc row connects recognition of personal uniqueness with self-acceptance and feeling comfortable with life's achievements. This is an inward assessment of oneself rather than a prediction of a particular success, and the interpretation rests on that one source row. ([Munkasey entry](#munkasey-entry))
 
 ## Links
 

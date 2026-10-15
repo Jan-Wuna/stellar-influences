@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Neptune MC](../triads/sun-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Body and soul are sensitive and react to low level influences at an early stage. Slackening, therefore debility and dislike. Dislike of everything.
 
+Source locator: PDF p. 59, Meridian + Sun, Neptune entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-My sensitive man, my weakened body, my body in water, my personal premonitions, the soul's disappointment in a person, the man's sensitive soul, the man's unknown soul, the refinement of the human soul, the unfolding of the soul in the body, the unfolding of my person, and the development of body and soul
+My sensitive man, my weakened body, my body in water, my personal premonitions, a person's inner disappointment, the man's sensitive soul, the man's unknown soul, and the refinement of the human soul.
+
+Source locator: printed p. 63, PDF p. 30, Sun/MC, Neptune entry. The actual row ends “Verfeinerung der menschliche Seele”; the following unfolding/development clauses belong to Pluto.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ My sensitive man, my weakened body, my body in water, my personal premonitions, 
 
 The wrong attitude to life, pursuit of wrong objectives, apathy, indifference, a weak will to live. Disappointments, confusion or lack of clarity.
 
+Source locator: printed p. 111, coded entry 0322.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 Doubts about one’s career, and the importance of it. To be idealistic and/or impractical about one’s work. Difficulty in being clear about one’s objectives in life. A craving for a more spiritual relationship to the world. The ability to intuit what one need to do to follow one’s spiritual path.
+
+Source locator: PDF p. 25, Sun/Midheaven, complete Neptune entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Credit for your work with disadvantaged people, or those who have substance or m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal aims experienced through sensitivity or uncertainty.
+- psychology: Doubt, idealism, unclear objectives, or spiritual intuition.
+- body/health: Witte’s sensitivity and debility claims remain attributed.
+- social/relationship: Work with disadvantaged people in Munkasey.
+- events/manifestations: Vocational doubt, disappointment, or recognition for service.
+- conflicts/notes: Intuition, sensitivity and service coexist with confusion or uncertainty; the sources' bodily and will-related labels are not individual assessments.
 
 ## Contradictions
 
-- None recorded yet.
+The difficulty-of-direction emphasis is qualified by Sandbach's spiritual intuition and Munkasey's service example. ABC's exact Neptune row ends at refinement of the human soul, before the separate Pluto development row.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Neptune`: intuitive grasp of calling, idealistic public purpose, and the search for a more refined or spiritual relationship to the world. Main caution: confusion: apathy, disappointment, or impracticality can blur aims until direction weakens.
+In `Sun/MC = Neptune`, Neptune specifies Sun/MC personal direction through sensitivity, idealism, and difficulty making aims clear. [Witte](#witte-entry) and [ABC](#abc-entry) describe sensitivity in body and inner life, with ABC also retaining premonitions and refinement. The [Ebertin Entry](#ebertin-entry) stresses confusion or disappointment, while the [Sandbach Entry](#sandbach-entry) also allows intuition about a spiritual path. The [Munkasey Entry](#munkasey-entry) adds both vocational uncertainty and recognition for work with disadvantaged people. The range includes uncertain direction and a search for a spiritual relation to the world; the attributed bodily and weak-will claims do not establish a diagnosis.
 
 ## Links
 

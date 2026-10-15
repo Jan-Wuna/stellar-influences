@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Pluto`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = Z`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Pluto](../triads/sun-venus-pluto.md)
@@ -45,7 +46,9 @@ Beauty and harmony of the developing body. Appetite. The desire to eat. The sens
 
 #### ABC Entry
 
-Development of a peaceful person, development of a artificial centre, harmonious personal development, corporal development of love, developing human affection, personal transformation through love, and growing personal love
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, pluto row (seven clauses). Translation from the German scan:
+
+Development of a peaceful person; development of an art center; harmonious personal development; physical unfolding of love; developing human affection; personal transformation through love; growing personal love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Increases the depth of feeling and emotion you put into your expressions of appr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love and value intensify or develop through change.
+- psychology: Obsessive attachment or a major change of values is possible.
+- body/health: Witte separately names appetite, taste, and bodily development.
+- social/relationship: Deep gratitude can accompany strong expectations of return.
+- events/manifestations: Growing affection, excess in love, and sudden endings are named.
+- conflicts/notes: Witte's appetite theme is distinct from the later psychological emphases.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's appetite theme is distinct from the later psychological emphases. ABC's development of an art center is a concrete artistic example alongside developing love.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Pluto`: compelling charm, passionate commitment, and the power to alter life through attraction, beauty, and relational intensity. Main caution: possessive value-expression: attraction and self-worth can become controlling, obsessive, or too pressure-laden.
+Pluto specifies Sun/Venus through development and intensification of affection: love can grow and transform what matters, but may also become excessive or obsessive. Gratitude and pleasure may carry strong expectations of return. Witte additionally places appetite, taste, and the developing body's beauty in this orientation; that bodily strand should not be lost in a purely relational reading. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

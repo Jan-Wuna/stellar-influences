@@ -25,9 +25,11 @@ related_activations:
   - Uranus/Pluto = Moon
   - Uranus/Pluto = Neptune
   - Uranus/Pluto = Node
+  - Uranus/Pluto = Pluto
   - Uranus/Pluto = Poseidon
   - Uranus/Pluto = Saturn
   - Uranus/Pluto = Sun
+  - Uranus/Pluto = Uranus
   - Uranus/Pluto = Venus
   - Uranus/Pluto = Vernal Point
   - Uranus/Pluto = Vulcanus
@@ -73,13 +75,14 @@ updated_at: 2026-06-20
 - Axis: `Uranus/Pluto`
 - Astronomicon axis: `X/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); related activations retain their distinct closing-factor meanings.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `URANUS/PLUTO`
-- Source page: `311`
+- Source heading: `URANUS + PLUTO`
+- PDF page: 235.
 
 #### Pair Summary
 
@@ -89,9 +92,13 @@ Mutations. Jumps. To leap. Explosions. Changes and transformations which start s
 
 #### ABC Pair Summary
 
-Exciting changes, new developments, sudden changes, reformdevelopment, rhythm change, technical changes, surprising changes, growing tensions, and changing impulses
+- Printed pages: 372–373; PDF page: 185.
+
+Exciting changes, new developments, sudden transformations, development of reform, change of rhythm, technical changes, surprising transformations, growing tensions, changing impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 268; PDF page: 270.
 
 #### Principle
 
@@ -111,7 +118,7 @@ Pioneers, reformers, explorers, people who are very much out of the ordinary or 
 
 #### Probable Manifestations
 
-+ Attainment of great objectives by an immense application of effort, bringing new things into being, creation of new conditions of living. - Acts of violence, upsets, subversive activities, putting the gun to someone's head, enforcement of decisions, accidents. Uranus/Pluto W
++ Attainment of great objectives by an immense application of effort, bringing new things into being, creation of new conditions of living. - Acts of violence, upsets, subversive activities, putting the gun to someone's head, enforcement of decisions, accidents.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -120,6 +127,8 @@ Pioneers, reformers, explorers, people who are very much out of the ordinary or 
 X-ray insight. Shocking transformations. Awakening to something deeper. Awaking to deep healing. Awakening to underlying problems and issues. Progress that de mands total change. Awakening to the dark side. Awakening to what everyone has tried to sweep under the rug. Awakening to unpleasant truths. A period of time that demands complete overhaul almost overnight. Sexual revolution. Underground movements. Plutonian power and Uranian revolution. Changes, revolutions, and transformations in ways you can't predict and don't expect. Breaking down abso lutely every barrier. Total, utter, complete and sudden loss of innocence. Everyone is awakened and exposed to what is really going on. Nowhere to hide. Shocking destruction and annihilation. Unpredicted power struggles. Awakening to group power. The power of the people. The powerful influence of groups to trans form existing structures. The power of the individual to make profound and irre versible changes. Influential movements. Existing structures and assumptions fall apart. Reversals of power. People on the fringe of society come into power. Out siders gain power and influence. Shocking deaths. Circumstances that are com pletely and utterly beyond your control. The outpouring of long-repressed emo tions and long-held dirty secrets. Taboos truths. Sexual truths. Truths about power and corruption. Truths about control and domination. Truths about death and de struction. Willfully exploring your sexuality. Shockingly sexual. Sexual liberation. Making drastic changes when you don't know what else to do. "Something has to give." Events that bring you into shocking awareness of your ability to survive. Insight into the occult. The healing power of the occult. The healing power of as trology. Psychology and astrology join together. Radical, cutting-edge therapies. Sudden consuming passion for the healing arts. Extreme eccentricity. Crazy para noia. The hidden power of technology. The power of technology to transform lives. The power of revolution. Making progress in breaking through taboo subjects. Breaking sexual taboos. Breaking power taboos. Breaking death taboos. Breaking taboos about healing and catharsis. Breaking race taboos. Breaking gender taboos. Progressive ideas about healing and regeneration. Progressive ideas about sexu ality and power in society. Finding original ways to renew your resources. Tech nology used for recycling. Sudden awareness of how you've been wasting re sources. Technology used for healing. Technology to transform the world. Taboos about flight, space and what the universe holds. Technology paves the way to re sources for hidden wealth. Technology allows us to explore the depths. Technology becomes one of the greatest resources. The end of the predictable. The end of knowing what's next. The end of thinking you've got it all figured out. Complete and unavoidable total reversals. Sudden awareness of how you feel about certain taboos. Sudden insight into collective re pressed desires. Societal taboos are exposed and torn apart. Direct experience into the basest parts of society. Direct healing experiences. Crackling transformations. Radical purging. Shock and awe. Breaking through control mechanisms. Deep internal revolution and awakening. Recent Uranus / Pluto conjunctions occurred between 1845-1856 and 1960-1972. The next exact conjunction will be in 2104.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: 105 (Principle and Process).
 
 #### Principle
 
@@ -130,6 +139,8 @@ An extreme desire for freedom and for change. A complete and potentially drastic
 The overthrowing of deeply entrenched restrictions and limitations. Giving in to one’s deepest urges to change.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 211.
 
 #### Pair Delineation
 
@@ -170,25 +181,29 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Uranus-Pluto: The Metamorphosis`
-- PDF page(s): `337`
+- PDF page(s): `336–338` (scope on336; pair entry337–338).
+
+#### Scope
+
+The aspects Uranus enters into with the planets that move slowly usually exist for many years at a time. This is why they have less to say about the individual than the generation coming into the world during this period of time. However, there is always an individual meaning for these aspects when personal planets are included in the aspect or this generational aspect is part of a major configuration in the horoscope.
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Rebel and the Powerful Person
 - shadow: The Eccentric and the Power of Darkness
 - comparison: Freedom Constraint Conscious perception Unconscious urge Light Shadow Highest heights Deepest depths
-- general: Sudden deep-reaching changes . Rebellion against dependence and suppression . Bursting the bonds .
+- general: Sudden (♅) deep-reaching changes (♇). Rebellion (♅) against dependence (♇) and suppression (♇). Bursting (♅) the bonds (♇).
 - harmony: Desire for Freedom. Powerful urge for individual freedom. Sudden perceptions and insights into power structures or collective shadow areas. Rigorous upheavals. Liberation movements.
 - discord: The Despot. Willful, irresponsible misuse of power for questionable, eccentric goals. Extreme inner tension and vacillations between highest heights and deepest depths, between total freedom and complete constraint.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sudden, deep transformation, release of pent-up forces and the struggle to create new conditions ([Witte](#pair-summary), [Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: strong purpose, creative power, endurance and desire for freedom coexist with impatience, scattered effort, fanaticism or destructive compulsion ([psychological correspondence](#psychological-correspondence), [Sandbach](#principle-1)).
+- body/health: Ebertin names altered biological rhythms, pulse/breathing and fever spots; Munkasey lists bowel, cellular, toxic and dependency claims. These historical correspondences establish no diagnosis or medical outcome ([biological](#biological-correspondence), [body or mind](#with-body-or-mind)).
+- social/relationship: liberation from imposed limits, reform groups and taboo-breaking may coexist with power struggles or demanding one's own freedom while controlling a partner ([Falis](#falis-entry), [Munkasey](#in-your-relationships)).
+- events/manifestations: inventions, technical changes, new living conditions and reform; coercion, violent upheaval and accidents are adverse possibilities within particular source lists ([ABC](#abc-pair-summary), [manifestations](#probable-manifestations), [politics/business](#in-politics-or-business)).
+- conflicts/notes: change may be constructive, coercive or both contested and sustained; it is not inevitably destructive. Banzhaf/Haebler's generational/aspect conditions and harmony/discord distinctions remain explicit ([scope](#scope), [aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
@@ -206,9 +221,11 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 - [Uranus/Pluto = Moon](../activations/uranus-pluto-equals-moon.md)
 - [Uranus/Pluto = Neptune](../activations/uranus-pluto-equals-neptune.md)
 - [Uranus/Pluto = Node](../activations/uranus-pluto-equals-node.md)
+- [Uranus/Pluto = Pluto](../activations/uranus-pluto-equals-pluto.md)
 - [Uranus/Pluto = Poseidon](../activations/uranus-pluto-equals-poseidon.md)
 - [Uranus/Pluto = Saturn](../activations/uranus-pluto-equals-saturn.md)
 - [Uranus/Pluto = Sun](../activations/uranus-pluto-equals-sun.md)
+- [Uranus/Pluto = Uranus](../activations/uranus-pluto-equals-uranus.md)
 - [Uranus/Pluto = Venus](../activations/uranus-pluto-equals-venus.md)
 - [Uranus/Pluto = Vernal Point](../activations/uranus-pluto-equals-vernal-point.md)
 - [Uranus/Pluto = Vulcanus](../activations/uranus-pluto-equals-vulcanus.md)
@@ -220,11 +237,11 @@ Stress reactions which cause colon spasms or problems; hemorrhoids; piles; abnor
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto` is the axis of radical upheaval, revolutionary breakthrough, and total transformation set off by sudden force. It combines freedom, innovation, awakening, and shock with pressure, destruction, regeneration, and the collapse of entrenched systems.
-- Chart expression: reform, explosive invention, uncompromising change, liberation from stagnant structures, and the power to bring a buried crisis abruptly into the open. Liabilities: violence, fanaticism, destabilization, reckless extremity, sudden breakdowns, and the urge to force irreversible change before a situation can absorb it.
+`Uranus/Pluto` joins sudden change with deep transformation: a leap, shock or release of pent-up forces may alter conditions that seemed fixed. [Witte](#pair-summary) and [Udo](#abc-pair-summary) include inventions, technical change and new developments, while [Hand](#pair-delineation) notes that an abrupt event can have long-standing causes. [Ebertin](#psychological-correspondence) supplies both the creative energy and endurance needed to establish reforms and the impatience, fanaticism or destructive action that can distort that effort. [Sandbach](#principle-1) adds an extreme desire for freedom and the growth of distinctive gifts through overthrowing entrenched limits.
+
+The struggle over freedom can also become a struggle over power. [Falis](#falis-entry) extends the pair into exposing hidden problems and taboos, collective movements, healing interests and technologies that transform resources or lives. [Munkasey](#in-your-relationships) describes wanting an independent partner while possibly refusing to relinquish control; his [public sphere](#in-politics-or-business) ranges from modernization and new information tools to forced changes and upheaval. [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) similarly separates liberation and insight into power structures from misuse of power, within explicit [generational and aspect conditions](#scope). These alternatives do not predict violence, illness or a necessary irreversible event; each closing factor belongs to its own oriented activation.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `98` (complete bold pair paragraph checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Acquaintances which are high-minded, such as deep thinker or genius. Others are 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `136–137`; PDF page: `67`.
+
 #### ABC Pair Summary
 
-insight of the other, culture place, place of truth, place culture, partner idea, environmental knowledge, llmwelt idea, environment culture, spiritualized environment, spiritualized partner, nifty partner, and truth of the other
+The other's insight, cultural place, place of truth, local culture, partner's idea, insights into the environment, environmental idea, environmental culture, spiritualized environment, spiritualized partner, reasonable partner, and the other's truth.
+
+## Comparative Schema
+
+- Core meaning: Intellectual, spiritual, and cultural qualities are encountered through nearby people and places in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Insight, ideas, cognitive abilities, and environmental impressions are explicit in the summaries.
+- Body/health: No clinical correspondence is supplied. Sensitivity-like wording in the [Pair Summary](#pair-summary) is not a medical statement.
+- Social/relationship: Acquaintances with thinkers, spiritual people, and people with educational skills connect with partner ideas and another person's insight or truth.
+- Events/manifestations: Culture and places associated with truth or intellectual activity occur in ABC. The [Pair Summary](#pair-summary) separately names nearby water masses or oceans.
+- Conflicts/notes: The water association is preserved without forcing it into the intellectual theme. Witte's "Others are high sensible" remains linguistically unclear in the English source and is not used for a more specific claim.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ insight of the other, culture place, place of truth, place culture, partner idea
 - [Asc/Poseidon = Vulcanus](../activations/asc-poseidon-equals-vulcanus.md)
 - [Asc/Poseidon = Zeus](../activations/asc-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The two summaries overlap in cultural and intellectual surroundings. Nearby water is an additional Witte association, not a demonstrated contradiction; its unclear sensitivity wording limits a more exact comparison.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon`: a refined or high-minded near field: contact with thinkers, teachers, spiritual people, principled company, and surroundings shaped by ideas, insight, and subtle impression.
-- Chart expression: intellectually or spiritually colored acquaintances, educational influence in the immediate environment, and a life that is sensitized to ideals, concepts, and higher meanings in the people nearby. Liabilities: abstraction, elitism, impractical idealization, suggestibility, or a near field that becomes mentally rarefied and detached from ordinary realities.
+`Asc/Poseidon` concerns an environment encountered through thought, culture, and spiritual interests. Acquaintances with thinkers or people with cognitive and educational abilities give this theme a human setting in the [Pair Summary](#pair-summary); the [ABC Pair Summary](#abc-pair-summary) adds a partner's ideas and insight, cultural places, and the truth of another person. The pair thus directs attention to the intellectual or spiritual impressions received from people and places nearby. The [Pair Summary](#pair-summary) also explicitly associates it with nearby water masses or oceans, a separate meaning that the intellectual theme does not explain.
 
 ## Links
 

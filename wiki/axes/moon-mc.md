@@ -11,6 +11,8 @@ normalized_axis: Moon/MC
 factor_a: Moon
 factor_b: MC
 related_activations:
+  - Moon/MC = MC
+  - Moon/MC = Moon
   - Moon/MC = Admetos
   - Moon/MC = Apollon
   - Moon/MC = Asc
@@ -72,12 +74,14 @@ updated_at: 2026-05-06
 - Astronomicon axis: `R/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/MIDHEAVEN`
-- Source page: `143`
+- Source heading: `MERIDIAN + MOON`
+- PDF page: `60`
 
 #### Pair Summary
 
@@ -85,11 +89,19 @@ The psychological influence of women. One’s own mind. The own attitude towards
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `64`; PDF page: `31` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-fictitious minute, felicitous soul, emotional and soul, I as a woman, my wife, my mother, my feelings, mother soul, people soul, and female psyche
+German pair summary (transcribed from printed page `64`; PDF page `31`):
+
+> Beseelte Stunde, gefühlvolle Minute, gefühlvolle Seele, Gemüt und Seele, ich als Frau, ich fühle, mein Volk, meine Frau, meine Mutter, meine Gefühle, Mutter-Seele, Volks-Seele, weibliche Psyche
+
+Editorial translation from the German passage: Ensouled hour, feeling-filled minute, feeling-filled soul, disposition and soul, I as a woman, I feel, my people, my wife, my mother, my feelings, mother-soul, soul of a people, female psyche.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `142`; PDF page: `144` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -109,9 +121,11 @@ The female sex, people with feeling and sentiment.
 
 #### Probable Manifestations
 
-+ Strong soul ties, a soul relationship with the female sex, entering into a spiritual relationship with a member of the opposite sex. - Changing life objectives lead to many changes in life. Moon/Medium Coeli D/M
++ Strong soul ties, a soul relationship with the female sex, entering into a spiritual relationship with a member of the opposite sex. - Changing life objectives lead to many changes in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `40` (complete Principle/Process before Sun row checked against scan).
 
 #### Principle
 
@@ -122,6 +136,8 @@ The highest attainment possible for one’s emotions, meaning the achieve ment o
 Development of the ability to be open to guidance by spiritual forces and to maintain emotional attunement to their energy.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: `204` (complete Moon/Midheaven paragraph checked against scan).
 
 #### Pair Delineation
 
@@ -161,14 +177,17 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: one's inner emotional life and its relation to personal aims, family history, and direction in life.
+- psychology: depth of feeling, receptive spiritual aspiration, and nurturing ability coexist with impressionability, changing moods, or wavering objectives.
+- body/health: Ebertin lists distribution of bodily liquids, collapse, and blood donation; Munkasey adds heredity and stomach correspondences. These are attributed historical claims, not medical conclusions.
+- social/relationship: early family and maternal experiences shape expectations of care, intimacy, and rapport; older entries describe women through the sources' gendered models of emotional life.
+- events/manifestations: changing goals, strong emotional bonds, and public concerns influencing personal or political aims are represented; Munkasey additionally discusses food production and disrupted long-range policies.
+- conflicts/notes: Inner life, family conditioning and spiritual aspiration remain distinct source emphases. ABC's feeling-filled wording supplies neither a fictitious-minute theme nor a promise of happiness.
 
 ## Related Activations
+
+- [Moon/MC = MC](../activations/moon-mc-equals-mc.md)
+- [Moon/MC = Moon](../activations/moon-mc-equals-moon.md)
 
 - [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
 - [Moon/MC = Apollon](../activations/moon-mc-equals-apollon.md)
@@ -194,15 +213,16 @@ Family genetic patterns which make you crave or be sensitive to certain drugs; h
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Ebertin's inner soul life, Hand's conditioning by the past, and Sandbach's spiritual aspiration address related but distinct dimensions. Munkasey's positive and harsh maternal examples are alternatives, not an assertion that both occurred.
+- ABC's complete bold list is now transcribed from printed64/PDF31, restoring the ensouled hour, I feel and my people. The former fictitious/felicitous translations are removed.
+- Ebertin's complete pair paragraph is printed142/PDF144; its following heading is excluded. Sandbach's complete Principle/Process are PDF40, and Hand's complete Moon/Midheaven paragraph is PDF204.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC` is the axis of soul expression, emotional vocation, and life direction shaped by feeling, family imprint, and receptivity. It combines mood, memory, nurture, and instinct with purpose, reputation, self-direction, and the way one lives out inner needs in the world.
-- Chart expression: sensitivity, care, strong inner life, emotional attunement to purpose, and a path strongly influenced by maternal, domestic, or public feeling currents. Liabilities: wavering goals, mood-driven decisions, dependence on approval or protection, and a life course that shifts repeatedly because the emotional base remains unstable or unresolved.
+`Moon/MC` concerns the relationship between one's inner emotional life and the direction one tries to give life. Deep feeling, the wish to care, and receptivity to spiritual values can become purposes rather than passing moods. Early family experience supplies another part of that direction: familiar attitudes and expectations of protection can shape what feels meaningful, secure, or possible. The pair thus includes both emotional self-understanding and the difficulty of keeping aims steady when feelings change ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Hand](#robert-hand---horoscope-symbols), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+
+In relationships this may concern tender rapport, the need for care, or unresolved family bonds that complicate intimacy; in public life it can concern how personal aims respond to the feelings of a people. Neither a particular maternal history nor a career outcome follows automatically. Witte's emotional hour preserves a separate occasion-related meaning, while the exact expression of the pair through a third factor belongs to the corresponding activation ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Munkasey, printed p. 143](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
 

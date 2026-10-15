@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Vulcanus = Kronos`
 - Astronomicon formula: `Z/§ = ¤`
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 263.
+
 Great development of the capabilities. Trial of these abilities. Government changes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special violence developments, influential developments in the state, great energydevelopment, power development of the hierarchic, power changes in the state, independence of violence developments, and growing state power
+- Source page: 421 (printed); PDF page: 209.
+
+Special developments of violence, influential developments in the state, great unfolding of energy, unfolding the strength of the hierarchy, changes of power in the state, developments of violence becoming independent, growing state power.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Development and testing of capabilities, including changes in governing power.
+- Psychology: The brief Witte entry names tested abilities without developing an emotional profile.
+- Body/health: No specific medical correspondence is established by these entries.
+- Social/relationship: Hierarchy, government, and growing state power.
+- Events/manifestations: Government changes, major energy development, and violence developing independently.
+- Conflicts/notes: Personal capability and state power are distinct scales; violence is one stated possibility.
+
+## Contradictions
+
+Personal capability and state power are distinct scales; violence is one stated possibility.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Kronos`: great development of the capabilities; Trial of these abilities; Government changes.
-- Practical expression: special violence developments, influential developments in the state, great energydevelopment, power development of the hierarchic, and power changes in the state.
+In `Pluto/Vulcanus = Kronos`, Kronos specifies `Pluto/Vulcanus` through capabilities that develop and are put to the test, with government changes another explicit expression in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) extends the theme to hierarchy and growing state power, including violence developing independently. The political examples do not turn every development of ability into coercion.
 
 ## Links
 

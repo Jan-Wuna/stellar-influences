@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun MC Hades`
 - Astronomicon triad-set: `S MC ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Hades = Sun](../activations/mc-hades-equals-sun.md)
-- [Sun/Hades = MC](../activations/sun-hades-equals-mc.md)
-- [Sun/MC = Hades](../activations/sun-mc-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Hades = Sun](../activations/mc-hades-equals-sun.md) | [MC/Hades](../axes/mc-hades.md) | [Sun](../factors/sun.md) |
+| [Sun/Hades = MC](../activations/sun-hades-equals-mc.md) | [Sun/Hades](../axes/sun-hades.md) | [MC](../factors/mc.md) |
+| [Sun/MC = Hades](../activations/sun-mc-equals-hades.md) | [Sun/MC](../axes/sun-mc.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `MC/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
-- `MC/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `86`
-- `Sun/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `160`
-- `Sun/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `63`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Hades = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-hades-equals-sun.md#witte-entry), one-based PDF entry-start p. `71`.
+- `MC/Hades = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-hades-equals-sun.md#abc-entry), printed p. `86`.
+- `Sun/Hades = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-mc.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-mc.md#abc-entry), printed p. `160`.
+- `Sun/MC = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mc-equals-hades.md#witte-entry), one-based PDF entry-start p. `59`.
+- `Sun/MC = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mc-equals-hades.md#abc-entry), printed p. `63`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Sun`: embodies the axis through bodily decline, sickness, and male-linked sorrow.
-- `Sun/Hades = MC`: This formula emphasizes ruined or broken down and to a sufferer.
-- `Sun/MC = Hades`: This formula emphasizes a burdened life direction and suffering attached to worldly standing.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

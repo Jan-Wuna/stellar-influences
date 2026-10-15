@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Asc`
 - Astronomicon formula: `T/V = Asc`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Happy and cheerful entertainment and conversation. Positive dialogues in the near environment or with the counterpart.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-Discussions on an ori of the right, successful language in the environment, successful partner pri:iche, happy others describe, happy youth in the environment, media success in the place, and exercise joy with others
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> Besprechungen an einem Ort des Rechtes, erfolgreiche Gespräche in der Umwelt, erfolgreiche Partner-Gespräche, Freude anderer beschreiben, glückliche Jugend im Umfeld, Medien-Erfolg am Ort, Bewegungs-Freude mit anderen
+
+Editorial translation from the German passage: Discussions at a place of law or justice; successful conversations in one's surroundings; successful conversations with a partner; describing others' joy; happy young people nearby; local media success; enjoyment of movement with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ A focus on presenting information from your accumulation of knowledge; increased
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Presenting knowledge in direct exchange, with cheerful conversation and possible overtalking ([Witte](#witte-entry), [Munkasey](#munkasey-entry), [Sandbach](#sandbach-entry)).
+- psychology: Sandbach links insecurity with talking too much.
+- body/health: No bodily condition is stated.
+- social/relationship: Flexibility can help presentation or become excessive compromise in relationships.
+- events/manifestations: Positive local dialogue, presenting research, suppressing opinions, and discussing communication are explicit.
+- conflicts/notes: Flexibility has both useful and limiting forms in the retained entries.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's cheerful conversation and Munkasey's flexible presentation differ from Sandbach's warning that excessive flexibility or talk can undermine being heard. Munkasey also names repression of opinions; neither constant outspokenness nor confidence is required.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Asc`: persuasive sociability, teacherly presence, and the ability to embody meaning through speech and conduct. Main caution: overstatement: breadth of mind can become self-promoting, glib, or too certain of its own conclusions.
+In `Mercury/Jupiter = Asc`, Asc specifies the sharing of accumulated knowledge in direct conversation. Cheerful local exchange and flexible presentation of research can make ideas accessible, but adapting too far or talking too much may weaken the exchange. Sandbach connects the latter with insecurity, while Munkasey also allows suppression of opinions. The relevant question is how knowledge is presented and received, rather than an assumed teacherly or self-promoting personality ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

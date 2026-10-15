@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Uranus/Cupido = Vernal Point`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/¡ = VP`
 - Axis page: [Uranus/Cupido](../axes/uranus-cupido.md)
 - Triad hub: [Vernal Point Uranus Cupido](../triads/vernal-point-uranus-cupido.md)
@@ -34,21 +35,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 236.
+
 #### Witte Entry
 
 A quickly contracted marriage. Communities, partnerships which are surprisingly found together.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 374; PDF p. 186.
+
 #### ABC Entry
 
-common rhythm us in the public, arts and technology in the public, new artist in the public, public artist event, and reform of the community in the public life
+An excited community in public, shared rhythm in public, art and technology in public, new art in public, a public art event, reforming the community in public life.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 236) and [ABC](#abc-entry) (printed p. 374; PDF p. 186).
+
+- core meaning: Unexpected association appears in communal or public life.
+- psychology: Public excitement and shared rhythm are named, without defining an individual temperament.
+- body/health: No bodily or medical condition is supplied.
+- social/relationship: Witte names a quickly contracted marriage and surprisingly formed partnerships or communities.
+- events/manifestations: Public art, technology, artistic events and community reform are explicit.
+- conflicts/notes: Public collective activity and a quick marriage are separate examples; neither necessarily implies the other.
+
+## Contradictions
+
+The entries join surprising association with public communal activity, but do not establish that every association is a public wedding.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Cupido = Vernal Point`: A quickly contracted marriage. Communities, partnerships which are surprisingly found together.
-- Practical expression: common rhythm us in the public, arts, technology in the public, new artist in the public, and public artist event.
+Vernal Point specifies Uranus/Cupido through association becoming part of communal or public life. [Witte](#witte-entry) names quickly formed marriage, partnership or community; [ABC](#abc-entry) places shared rhythm, new art, technology and reform in public settings. The common theme is people or activities unexpectedly coming together where a wider community participates, with the precise form left open between a union and a public undertaking.
 
 ## Links
 

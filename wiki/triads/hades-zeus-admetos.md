@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Hades Zeus Admetos`
 - Astronomicon triad-set: `¢ £ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Admetos = Zeus](../activations/hades-admetos-equals-zeus.md)
-- [Hades/Zeus = Admetos](../activations/hades-zeus-equals-admetos.md)
-- [Zeus/Admetos = Hades](../activations/zeus-admetos-equals-hades.md)
+- [Hades/Admetos = Zeus](../activations/hades-admetos-equals-zeus.md): base axis [Hades/Admetos](../axes/hades-admetos.md); activator [Zeus](../factors/zeus.md).
+- [Hades/Zeus = Admetos](../activations/hades-zeus-equals-admetos.md): base axis [Hades/Zeus](../axes/hades-zeus.md); activator [Admetos](../factors/admetos.md).
+- [Zeus/Admetos = Hades](../activations/zeus-admetos-equals-hades.md): base axis [Zeus/Admetos](../axes/zeus-admetos.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Hades/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
-- `Hades/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `445`
-- `Hades/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `278`
-- `Hades/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `439`
-- `Zeus/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+The following coverage records the source subentries currently present on each linked activation page.
+
+- `Hades/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-admetos-equals-zeus.md#witte-entry), PDF entry-start page `284`.
+- `Hades/Admetos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-admetos-equals-zeus.md#abc-entry), printed page `445`.
+- `Hades/Zeus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-zeus-equals-admetos.md#witte-entry), PDF entry-start page `278`.
+- `Hades/Zeus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-zeus-equals-admetos.md#abc-entry), printed page `439`.
+- `Zeus/Admetos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-hades.md#witte-entry), PDF entry-start page `293`.
+- `Zeus/Admetos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-hades.md#abc-entry), printed page `455`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Zeus`: effort to relieve poor conditions or raw-material shortage, but also fanatical eagerness carried by hatred or conflict.
-- `Hades/Zeus = Admetos`: recreation with only a few, small groups in conflict, coal mines, and deep or irreconcilable hate among a limited number of people.
-- `Zeus/Admetos = Hades`: To find the existing conditions repulsive and disgusting. Forced to be part of Tie. T creating disgusting things.
+Hades, Zeus and Admetos form one unordered lookup set, but the three formulas change the midpoint pair and the activator. Follow the exact formula above for its interpretation and source entries; use its base axis for the shared pair meaning and its factor links for standalone evidence. The orientations are not interchangeable.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Zeus/Admetos](../axes/zeus-admetos.md)
+- [Hades/Zeus](../axes/hades-zeus.md)
+- [Hades/Admetos](../axes/hades-admetos.md)
 - [Hades](../factors/hades.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = Asc`
 - Astronomicon formula: `S/g = Asc`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 102, Asc entry under Sun + Nodes.
+
 Physical connections or meetings with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+Source locator: printed page 140 / PDF page 69, Asc glyph row under Sun + Node.
 
 relationship between person and environment, year of an encounter on the spot, bodily contact with the partner, personal environmental connections, connected with the people of the place, personal relationships on the spot, and connection with the environment of the man
 
@@ -51,11 +57,15 @@ relationship between person and environment, year of an encounter on the spot, b
 
 #### Ebertin Entry
 
+Source locator: printed page 106, entry 0300 under Sun/Dragon's Head.
+
 The desire to make personal contacts, seeking contacts.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 22, Ascendant entry under Sun/Node.
 
 The tendency to want to form one’s identity around goals held in common with other individuals or groups. One come’s across as someone who can be con nected with in a meaningful way. The need in relationships to always be exploring new meaning.
 
@@ -70,22 +80,21 @@ An effective concentration on maintaining or establishing ties to helpful groups
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking and maintaining personal contact around shared purposes.
+- psychology: Identity formed around common goals, the search for meaning and recognition within groups.
+- body/health: Bodily contact and physical meetings are explicit; no medical outcome is specified.
+- social/relationship: Personal ties, helpful groups and connections with people in one's surroundings.
+- events/manifestations: Establishing or maintaining ties, meetings and their rituals, and developing importance within a group.
+- conflicts/notes: Individual meetings and group participation are different scales of contact; ABC's year example supplies no timing method.
 
 ## Contradictions
 
-- None recorded yet.
+The brief contact statements overlap with the longer accounts of shared goals and group participation. Sandbach emphasizes continuing exploration of meaning, while Munkasey includes recognition and meeting rituals; no direct disagreement is stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = Asc`: relationship-seeking, social presence, and a recognizable ability to make personal contact around common aims. Main caution: over-identification with belonging: the self can become too dependent on being seen, accepted, or mirrored by others.
+In `Sun/Node = Asc`, Asc specifies the Sun/Node pair through personal contact made and sustained in one's surroundings. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) give meetings, bodily contact and seeking connections as concrete forms. [Sandbach](#sandbach-entry) explains what can make those ties meaningful: goals held in common and an identity shaped through participation in them. [Munkasey](#munkasey-entry) extends that involvement to helpful groups, their meeting rituals and the recognition one seeks within them. The connection is active participation in a shared purpose, with meaning continuing to develop through the relationship.
 
 ## Links
 

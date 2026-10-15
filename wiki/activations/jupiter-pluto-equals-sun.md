@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Sun`
 - Astronomicon formula: `V/Z = S`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Sun row.
+
 Fortunate run of the day. Happy, fortunate physical development. The man who is accustomed to take abundant meals.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of a right center, successful personal development, developing joy in the day, person I ihe money transaction, changes in a money center, growing finances of a person, and growing personal joy
+- Source reference: printed page 330; one-based PDF page 164, Jupiter/Pluto Sun row; complete German row checked.
+
+Development of a legal center, successful personal development, developing joy during the day, a personal financial transaction, changes in a financial center, a person's growing finances, and growing personal joy
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 235; one-based PDF page 237, Jupiter/Pluto coded entry 0819; actual factor glyph and paragraph visually checked.
 
 Successful use of extraordinary physical or mental powers, creation of magical effects.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Sun entry; exact full paragraph checked.
 
 A person with a huge ego. The desire to be a high profile individual. To become a master of great powers. One who has extremely big goals.
 
@@ -66,26 +76,27 @@ A person with a huge ego. The desire to be a high profile individual. To become 
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 An accumulation of personal power and influence; a fundamental need to grow in power and prestige in society and be noticed for this; a focus on the importance of gathering acclaim; efforts to be less compulsive personally.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate personal development, extraordinary powers and large ambitions.
+- psychology: A large ego and high-profile aims in Sandbach; desire for acclaim and reduced personal compulsion in Munkasey.
+- body/health: Witte names fortunate physical development and abundant meals; Ebertin names extraordinary physical or mental powers without a clinical measure.
+- social/relationship: Personal power, prestige and social notice.
+- events/manifestations: Financial transactions, growing personal finances and the development of a legal/financial center.
+- conflicts/notes: Ebertin's magical-effects phrase is source vocabulary, not an independently verified mechanism; reduced compulsion is an explicit Munkasey possibility.
 
 ## Contradictions
 
-- None recorded yet.
+The entries combine favorable development with strong demands for power or acclaim. Munkasey also names efforts to be less compulsive, so intense ambition is not the sole direction of the passage.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Sun`: big goals, strong presence, and successful use of exceptional mental or physical power. Main caution: ego inflation: the wish to be high-profile or masterful can become grandiose, making self-importance part of the problem.
+For `Jupiter/Pluto = Sun`, the [source entries](#source-entries) emphasize personal development and the use of considerable physical or mental capacity. ABC supplies practical forms in personal finances and legal or financial centers; Witte also gives ordinary bodily and daily examples. Sandbach's large goals and wish for prominence align with Munkasey's accumulation of power and acclaim. His efforts to become less compulsive remain an explicit qualification. The source's broad power imagery therefore sits beside both concrete development and the handling of ambition.
 
 ## Links
 

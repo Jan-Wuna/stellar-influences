@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Moon`
 - Astronomicon formula: `Q/¡ = R`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Marital happiness of the woman. Pleasant company with others. Arts presented to the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-The woman in the love community, common love charity, love community with women, peaceful people community, harmony of a women's community, and women's beauty in the arts
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+The woman in a community of love, shared feelings of love, loving community with women, a peaceful community of a people, harmony within a community of women, women's beauty in art, and a preference for communities of feeling.
+
+## Comparative Schema
+
+- Core meaning: Shared affection expressed as common feeling.
+- Psychology: Shared love and communities of feeling.
+- Body/health: Historical women-language; no medical claim.
+- Social/relationship: Pleasant company and women's communities.
+- Events/manifestations: Art presented to the public.
+- Conflicts/notes: Gendered examples remain historical associations, not universal traits.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Gendered examples remain historical associations, not universal traits.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Moon`: marital happiness of the woman.
-- Practical expression: the woman in the love community, common love charity, love community with women, peaceful people community, and harmony of a women's community.
+Moon specifies Venus/Cupido through affection felt and shared within a circle. Pleasant company, communities of women, and common feelings of love connect personal warmth with collective harmony. Publicly presented art is another explicit expression; the gendered source language remains attributed. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

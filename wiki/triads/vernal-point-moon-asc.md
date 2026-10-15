@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Moon Asc`
 - Astronomicon triad-set: `VP R Asc`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Moon/Asc = Vernal Point](../activations/moon-asc-equals-vernal-point.md)
-- [Vernal Point/Asc = Moon](../activations/vernal-point-asc-equals-moon.md)
-- [Vernal Point/Moon = Asc](../activations/vernal-point-moon-equals-asc.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Moon/Asc](../axes/moon-asc.md) | Vernal Point | [Moon/Asc = Vernal Point](../activations/moon-asc-equals-vernal-point.md) |
+| [Vernal Point/Asc](../axes/vernal-point-asc.md) | Moon | [Vernal Point/Asc = Moon](../activations/vernal-point-asc-equals-moon.md) |
+| [Vernal Point/Moon](../axes/vernal-point-moon.md) | Asc | [Vernal Point/Moon = Asc](../activations/vernal-point-moon-equals-asc.md) |
 
 ## Source Coverage
 
-- `Moon/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `102`
-- `Vernal Point/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `20`
-- `Vernal Point/Moon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
-- `Vernal Point/Moon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `24`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Moon/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `81`
+- `Moon/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `102`
+- `Vernal Point/Asc = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `36`
+- `Vernal Point/Asc = Moon`: Udo Rudolph - ABC for Planetary Pictures, printed page `20`
+- `Vernal Point/Moon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `38`
+- `Vernal Point/Moon = Asc`: Udo Rudolph - ABC for Planetary Pictures, printed page `24`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Asc = Vernal Point`: This activation externalizes `Moon/Asc` into visibility, recognition, and ordinary public contact. It points to being known by many people, encountering women in open or social settings, and having emotional identity become easier to notice, circulate, and register in the immediate world.
-- `Vernal Point/Asc = Moon`: This formula emphasizes acquaintances with female persons, many places one gets to know, not settling down, and very populated locations.
-- `Vernal Point/Moon = Asc`: This formula emphasizes acquaintances with women, meetings at another place, and taking part in a course.
+The set links [Moon/Asc = Vernal Point](../activations/moon-asc-equals-vernal-point.md), [Vernal Point/Asc = Moon](../activations/vernal-point-asc-equals-moon.md), and [Vernal Point/Moon = Asc](../activations/vernal-point-moon-equals-asc.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

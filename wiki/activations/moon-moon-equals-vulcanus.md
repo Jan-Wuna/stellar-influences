@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Moon = Vulcanus`
 - Astronomicon formula: `R/R = §`
 - Axis page: [Moon/Moon](../axes/moon-moon.md)
@@ -29,15 +31,29 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: [Witte, Rudolph & Lefeldt](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), `Moon + Moon`, PDF p. `120` (entry start; one-based).
+
 #### Witte Entry
 
 The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.
 
+## Comparative Schema
+
+- core meaning: power, influence, public sensation, and intense feeling ([Witte](#witte-entry)).
+- psychology: a mighty mind, consciousness of power, and mighty feelings are named.
+- body/health: no bodily or health condition is specified.
+- social/relationship: influential women, public figures, executive power, and a mighty nation are examples.
+- events/manifestations: causing a sensation and exercising public or collective power are explicit.
+- conflicts/notes: influence does not establish benevolent leadership or inevitable coercion.
+
+## Contradictions
+
+This page contains one Witte entry. Its several examples do not supply an independent comparison or require every manifestation to occur together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon = Vulcanus`: The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.
-- Practical focus: magnifies `Moon/Moon` into power, influence, and mighty feeling. It can show dominant women, forceful publics, and emotional life experienced at great intensity, making lunar receptivity more commanding, sensational, and capable of exerting strong collective pressure.
+In Moon/Moon = Vulcanus, Vulcanus specifies the repeated Moon pair through power and influence. The [Witte entry](#witte-entry) links a mighty mind and mighty feelings to influential women, public figures, executive power, and the power of a people. Public sensation connects the strength of an impression to that social range; the entry leaves the purpose and quality of the influence open.
 
 ## Links
 

@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Venus = Vernal Point`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = VP`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Vernal Point Sun Venus](../triads/vernal-point-sun-venus.md)
@@ -42,12 +43,29 @@ Harmony on the earth. Love. The loving man. The lovers.
 
 #### ABC Entry
 
-(i) the general public and the general public
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, Vernal Point row (six clauses). Translation from the German scan:
+
+Peaceful people in public; human affection in public life; a public art center; personal harmony in public life; personal preference for the public sphere; a beautiful person in public.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Love and harmony have a shared, public expression.
+- psychology: ABC names personal harmony and preference for the public sphere.
+- body/health: Beauty is named without a health claim.
+- social/relationship: Lovers, peaceful people and public affection are explicit.
+- events/manifestations: A public art center and a beautiful person in public are ABC examples.
+- conflicts/notes: These broad settings do not identify a particular event or occupation.
+
+## Contradictions
+
+No direct contradiction is established. Witte's love and harmony on earth has a broad shared scope; ABC specifically adds public affection, harmony, art and beauty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Venus = Vernal Point`: attraction or harmony appearing in the immediate environment.
+Vernal Point specifies Sun/Venus as love and harmony expressed in a shared public setting. [Witte](#witte-entry) gives lovers and harmony on earth; [ABC](#abc-entry) makes the public setting concrete through peaceful people, affection, personal harmony, an art center and a beautiful person in public. These are public expressions of the theme without identifying a particular event or occupation.
 
 ## Links
 

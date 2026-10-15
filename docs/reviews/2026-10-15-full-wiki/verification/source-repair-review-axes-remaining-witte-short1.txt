@@ -1,0 +1,66 @@
+Independent remaining-axis raw Witte locator checks
+Reviewer: /root/activation_review_013_015
+Source: immutable Vault Rules for Planetary Pictures 2020 PDF.
+Only unchanged Witte pair prose with added page references is certified here as locator-bearing; no new factual or medical endorsement.
+
+=== asc-cupido: PDF 91 ===
+A + 4
+ASCENDANT + CUPIDO
+The parental home. Family following. The apartment. The home. Houses. Dwellings. 
+Social connections. Other people are united. Business partnership. Acquaintance 
+with artists. Common endeavors. Family ties. The conditions that are present where 
+one resides. Relations with group members. The outer appearance of the family, 
+association or group.
+
+=== asc-hades: PDF 92 ===
+A + <?
+ASCENDANT + HADES
+Others resign, refuse or are unable. The relation to servants and the socially inferior. 
+To come into contact with disagreeable things. Acquaintance with disagreeable 
+people. Difficulties at the close surroundings. Contaminated environment. Ugly or 
+old surroundings. To be in acquaintance with sick, lonely or old persons. Others are 
+in need. Unpleasantness with other people. Formula for a physician (others are sick).
+
+=== asc-kronos: PDF 94 ===
+A + T
+ASCENDANT + KRONOS
+Things which come to the native from above. Workman. Employee. Official. Others 
+are superiors. The influence of the state on the environment. Officials in the near.
+To come in touch with employees, officials or authorities. Things upon which one is 
+dependent. Orders emanating from the authorities. Extraordinary place.
+
+=== asc-poseidon: PDF 98 ===
+A + x
+ASCENDANT + POSEIDON
+Acquaintances which are high-minded, such as deep thinker or genius. Others 
+are high sensible. Acquaintances to spiritual people. The intellectual-spiritual 
+environmental impressions. Others with mental, cognitive or educational skills.
+Water masses or oceans in the close surroundings.
+
+=== asc-vulcanus: PDF 97 ===
+AU
+ASCENDANT + VULCANUS
+Others are superior. To experience force from others. Powerful, strong or forcefill 
+personalities in the close environment. Others act violently. Surroundings occupied 
+by great energies or powerful influences, whether natural or biological.
+
+=== asc-zeus: PDF 93 ===
+A + A
+ASCENDANT + ZEUS 
+Others are near. Things or matters which are in the immediate environment of the 
+native. To work with others, being together with others. To be under the pressure by 
+others. Working activities in a manufacturing plant. To have something to do with 
+fire or machines. To be the object of disputes. To be threatened. Creating with others.
+
+=== cupido-admetos: PDF 271 ===
+CUPIDO + ADMETOS 
+To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. 
+Hermitage. To become a hermit. Monasticism. Monastery. End of being together 
+with others.
+
+=== hades-apollon: PDF 280 ===
+HADES + APOLLON
+Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. 
+Trade with old objects. Science of the past. Knowledge of history. Occult science. 
+Secret science. Magic. Great meanness, great vileness. Many in need.
+

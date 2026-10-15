@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Mars`
 - Astronomicon formula: `V/W = U`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Happy activity of short duration. The results of an activity only show later. Betrothal with following separation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-See above
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Joy in work in old age, success through concentrated work, successful separation from work, concentration on successful work, problematic legal activity, difficult financial activity, separation from successful work, and losses through labor law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: retained printed p. 226, coded entry 0787; passage unchanged in this review.
 
 Lack of endurance or tenacity, discontent, an inconstant will. Desire to enforce a change of circumstances and conditions in life, the act of separation.
 
@@ -57,7 +65,9 @@ Lack of endurance or tenacity, discontent, an inconstant will. Desire to enforce
 
 #### Sandbach Entry
 
-One’s assertiveness has much staying power. One will not give up until one ac complishes what one set out to do.
+- Source reference: one-based PDF p. 78, Jupiter/Saturn, Mars paragraph.
+
+One’s assertiveness has much staying power. One will not give up until one accomplishes what one set out to do.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,26 +76,27 @@ One’s assertiveness has much staying power. One will not give up until one ac 
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Emphasizes the efforts you go thru to effect positive changes in your social life thru sports or competitive activities; introduces duress as a means for forcing social change; added irritation over delays for new beginnings.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Action confronts delay, change, or separation ([Witte Entry](#witte-entry)).
+- Psychology: Sandbach's staying power directly contrasts with Ebertin's lack of endurance.
+- Body/health: Sports are an activity example in Munkasey, not a medical claim.
+- Social/relationship: Competitive effort, social pressure, and separation are explicit.
+- Events/manifestations: Results may arrive late; brief activity and a betrothal followed by separation are Witte's examples. ABC adds concentrated work, joy in work in old age, separation from work and legal/financial difficulties.
+- Conflicts/notes: Raw ABC inspection gives eight actual Mars clauses; the former See above belonged to the following Jupiter row. Sandbach's Mars paragraph is on PDF p. 78; accomplishes is normalized across a typographical split.
 
 ## Contradictions
 
-- None recorded yet.
+There is a substantive disagreement about endurance: [Ebertin](#ebertin-entry) describes its lack, while [Sandbach](#sandbach-entry) describes persistence until completion. Neither can be silently converted into the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Mars`: staying power, delayed results, and readiness to work through resistance rather than quit. Main caution: frustration in action: the drive to accomplish can alternate with discontent, impatience, or sudden breaks when progress feels too slow.
+In `Jupiter/Saturn = Mars`, Mars brings the pair's changes and delays into effort and assertion. The [Witte Entry](#witte-entry) describes brief activity and late results, while the [Munkasey Entry](#munkasey-entry) adds competitive effort, pressure for social change, and irritation at delays. The [ABC Entry](#abc-entry) adds concentrated work and joy in work in old age, together with separation from work and legal or financial difficulties. Endurance remains disputed: the [Ebertin Entry](#ebertin-entry) describes an inconstant will, but the [Sandbach Entry](#sandbach-entry) describes strong staying power. The secure common concern is action under constraint, not a single agreed level of persistence.
 
 ## Links
 

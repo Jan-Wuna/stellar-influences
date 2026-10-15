@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Kronos`
 - Astronomicon formula: `g/¦ = ¤`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 Bad contact with the authorities or the chief. The connection with leading persons, with superiors, with authorities is interrupted. Dealing with “has-beens”. Government without power.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Blocked trade connection, consolidation by knowledge renunciation, restricted links, gross knowledge renunciation, knowledge deepening in connections, and increasing integration in a connection
+An especially enduring connection, blocked state relationships, the end of a special relationship, thorough connections to the chief, a firm connection to the state, deepening state mediation, and an important restriction within a connection
+
+## Comparative Schema
+
+- core meaning: institutional or superior contacts may be firm, blocked or interrupted.
+- psychology: no specific personal motive is stated.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: connections to a chief, leading persons, authorities and the state are explicit.
+- events/manifestations: a powerless government and ending a special relationship are particular examples.
+- conflicts/notes: Witte's has-beens label is historical evaluative wording, not a general status judgement.
+
+## Contradictions
+
+Witte emphasizes interrupted authority contacts and powerlessness. ABC also includes exceptional endurance and firm state ties, so interruption is not universal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Kronos`: Bad contact with the authorities or the chief. The connection with leading persons, with superiors, with authorities is interrupted. Dealing with “has-beens”. Government without power.
-- Practical focus: bad contact with the authorities or the chief; also the connection with leading persons, with superiors, with authorities is interrupted.
+Node/Admetos = Kronos concerns the durability and limits of contact with authority. [Witte](#witte-entry) describes interrupted connections to chiefs or officials and a government without power. [ABC](#abc-entry) adds blocked state relations and an ending, but also enduring, thorough or firm ties to a chief and the state (printed p. 235, PDF p. 116). These are different conditions of institutional connection. Witte's evaluative label for former leading figures remains attributed rather than adopted as a judgement.
 
 ## Links
 

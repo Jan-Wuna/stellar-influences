@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Zeus`
 - Astronomicon formula: `R/MC = £`
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Zeus row under Meridian + Moon checked.
+
 #### Witte Entry
 
 A fiery emotional life. Creative active brain. To be stimulated by women into creative activity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 65; one-based PDF p. 31, complete nine-clause Zeus row checked.
+
 #### ABC Entry
 
-The perpetuation of my people, I produce My wife's achievements, My people's achievements, My efforts as a woman, My fiery works, My creations as a woman, My creative wife, and Se'elian achievements of the woman
+Editorial translation checked against the German scan: Leadership of my people; I generate feelings; my wife's achievements; my people's achievements; my efforts as a woman; my fiery feelings; my creations as a woman; my creative wife; a woman's inner achievements.
+
+## Comparative Schema
+
+- core meaning: Fiery personal feeling joined with creative activity, effort and achievement. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: An active creative mind, generating feelings and strong emotional fire are stated. [Witte](#witte-entry); [ABC](#abc-entry).
+- body/health: Neither entry specifies a bodily condition, diagnosis or reproductive outcome.
+- social/relationship: Creative stimulation through women and a creative wife's achievements appear beside leadership and achievements of a people. [Witte](#witte-entry); [ABC](#abc-entry).
+- events/manifestations: Personal creations, effort, inner achievements and collective leadership are source examples; no specific post or successful result is assured. [ABC](#abc-entry).
+- conflicts/notes: Emotional intensity, creation and leadership are related examples, without making every strong feeling productive or prescribing a gender role.
+
+## Contradictions
+
+The entries are compatible in linking emotional fire with creative activity. ABC adds personal and collective achievement and leadership examples. These additions do not establish a fixed life path or a guaranteed creative result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/MC = Zeus`: A fiery emotional life. Creative active brain. To be stimulated by women into creative activity.
-- Practical focus: ignites `Moon/MC` into creative passion, emotional heat, and mentally active productivity. It favors a life path energized by desire, inspiration, or encouragement from women, so feeling becomes a spark for making, initiating, and turning inner fire into outward expression.
-- Practical expression: the perpetuation of my people, i produce My wife's achievements, my people's achievements, my efforts as a woman, and my fiery works.
+In `Moon/MC = Zeus`, personal feeling is described as fiery and creatively active. The [Witte entry](#witte-entry) joins emotional intensity with a creative mind and stimulation through women. The restored [ABC entry](#abc-entry) adds generating feelings, effort, personal creations and particular examples of a wife's or a people's achievements and leadership. The orientation connects inner emotional fire with directed creative expression, while leaving these personal and collective examples as possibilities rather than an assured life path.
 
 ## Links
 

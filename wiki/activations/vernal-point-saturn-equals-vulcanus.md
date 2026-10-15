@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Vulcanus](../triads/vernal-point-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 To cordon off. A state of emergency. The state of siege. General obstruction or hindrance. To be watched over.
 
@@ -42,13 +46,27 @@ To cordon off. A state of emergency. The state of siege. General obstruction or 
 
 #### ABC Entry
 
-Tasks of the public Power, influence of the public Tasks, energy cancellations in the public, power problems in the public Life, power losses in the public, and losses by the public Violence
+- Source page: 37; PDF page: 17 (one-based spread).
+
+Tasks of public power, influence on public tasks, public energy disturbances, power problems in public life, public losses of power, and losses through public force or violence
+
+## Comparative Schema
+
+- core meaning: Public burdens involving power, energy, obstruction, and imposed control.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No specific bodily or health claim is supplied.
+- social/relationship: Being watched over and limits imposed on the public.
+- events/manifestations: Cordons, emergencies, siege, energy disturbances, and power losses.
+- conflicts/notes: Force retains its coercive range; energy disturbances does not specify a technology.
+
+## Contradictions
+
+No direct contradiction is established. Responsibility of public power and loss through its force are different positions within the power theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Vulcanus`: to cordon off, a state of emergency, the state of siege, general obstruction or hindrance, and to be watched over.
-- Practical expression: tasks of the public Power, influence of the public Tasks, energy cancellations in the public, power problems in the public Life, and power losses in the public.
+In `Vernal Point/Saturn = Vulcanus`, public burdens are specified through force and the limits imposed by power. The [Witte entry](#witte-entry) names cordons, emergency, siege, obstruction, and being watched over. The restored [ABC entry](#abc-entry) adds power's tasks and problems, energy disturbances, and losses of or through power. The synthesis concerns public capacity under heavy constraint and the effects of imposed control.
 
 ## Links
 

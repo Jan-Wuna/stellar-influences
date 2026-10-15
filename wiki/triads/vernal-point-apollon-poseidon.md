@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Apollon Poseidon`
 - Astronomicon triad-set: `VP ¥ ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Apollon/Poseidon = Vernal Point](../activations/apollon-poseidon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Poseidon](../activations/vernal-point-apollon-equals-poseidon.md)
-- [Vernal Point/Poseidon = Apollon](../activations/vernal-point-poseidon-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Poseidon = Vernal Point](../activations/apollon-poseidon-equals-vernal-point.md) | [Apollon/Poseidon](../axes/apollon-poseidon.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Apollon = Poseidon](../activations/vernal-point-apollon-equals-poseidon.md) | [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | [Poseidon](../factors/poseidon.md) |
+| [Vernal Point/Poseidon = Apollon](../activations/vernal-point-poseidon-equals-apollon.md) | [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Apollon/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
-- `Apollon/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `472`
-- `Vernal Point/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
-- `Vernal Point/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `59`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Apollon/Poseidon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-poseidon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `308`.
+- `Apollon/Poseidon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-poseidon-equals-vernal-point.md#abc-entry), printed p. `472`.
+- `Vernal Point/Apollon = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-poseidon.md#abc-entry), printed p. `53`.
+- `Vernal Point/Poseidon = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-poseidon-equals-apollon.md#witte-entry), one-based PDF entry-start p. `55`.
+- `Vernal Point/Poseidon = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-poseidon-equals-apollon.md#abc-entry), printed p. `59`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Vernal Point`: the prevailing world-attitude or a general public disposition shaped by broad ideas, worldview, and shared feeling-tones.
-- `Vernal Point/Apollon = Poseidon`: This formula emphasizes spreading extensive ideas to the world and knowledge and education about public economy.
-- `Vernal Point/Poseidon = Apollon`: This formula emphasizes the general mental or spiritual freedom.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

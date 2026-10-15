@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Sun Pluto Cupido](../triads/sun-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To be a member of an association. The man who is or will be placed in changed so
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 408; PDF page 203.
+
 #### ABC Entry
 
 development of a community of persons, shared personal development, developing of a community center, men's community in transformation, personal artistic development, and changes in of a community center
 
+## Comparative Schema
+
+- core meaning: Personal involvement in building or changing a community.
+- psychology: Shared personal development and daily adjustment to social change.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Association membership and active organizational partnership.
+- events/manifestations: Building an organization or developing a community center.
+- conflicts/notes: Historical male examples do not limit participation to men.
+
+## Contradictions
+
+Witte's membership, daily adaptation, and active building are a wider range than passive belonging; ABC adds personal and artistic development.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Sun`: to be a member of an association.
-- Practical expression: development of a community of persons, shared personal development, developing of a community center, men's community in transformation, and personal artistic development.
+Sun specifies Pluto/Cupido through personal participation in a changing collective. The [Witte entry](#witte-entry) includes both coping daily with altered social surroundings and actively helping build an organization. [ABC](#abc-entry) adds shared personal development and the development of a community center, with artistic and historically gendered examples. The formula is not confined to the bare fact of membership.
 
 ## Links
 

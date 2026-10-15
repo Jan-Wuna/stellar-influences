@@ -25,6 +25,7 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Poseidon = Jupiter`
 - Astronomicon formula: `R/¨ = V`
 - Axis page: [Moon/Poseidon](../axes/moon-poseidon.md)
@@ -34,21 +35,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Poseidon`, PDF p. `138` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Fortunate inspiration. Correct leadership by instinct.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Poseidon`, printed p. `206`, PDF p. `102` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Achievements of a woman, joy in the hour of enlightenment, mental GI tick of a woman, cultural successes of a woman, clear women's finances, legal clarity for a people, legal culture for women, and benefits of cultured women
+Successes of a sensible woman, joy in an hour of enlightenment, mental or spiritual happiness of a woman, cultural successes of a woman, clear finances of a woman, legal clarity for a people, legal culture for women, and advantages for cultured women.
+
+## Comparative Schema
+
+- core meaning: inspiration and clarity have favorable or helpful expression.
+- psychology: joy at understanding and mental or spiritual happiness are explicit in ABC.
+- body/health: neither entry states a bodily or health outcome.
+- social/relationship: Witte describes correct leadership by instinct; ABC includes benefits for cultured women.
+- events/manifestations: successful cultural activity, clear finances, and legal clarity are particular ABC examples.
+- conflicts/notes: fortunate inspiration is source wording, not a guarantee that every instinct or financial decision is correct.
+
+## Contradictions
+
+- No adverse counterpart is stated in these entries. Their favorable language covers different settings, but does not establish that all the listed successes or forms of clarity occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Jupiter`: Fortunate inspiration. Correct leadership by instinct.
-- Practical expression: achievements of a woman, joy in the hour of enlightenment, mental GI tick of a woman, cultural successes of a woman, and clear women's finances.
+Jupiter specifies the Moon/Poseidon pair through helpful inspiration and the satisfaction of understanding. Witte describes fortunate inspiration and correct instinctive leadership; ABC gives more concrete favorable expressions in joy, cultural success, clear finances, and legal clarity ([Witte entry](#witte-entry); [ABC entry](#abc-entry), printed p. 206). These are the entry's positive possibilities, with no basis for treating every intuition as reliable or every outcome as successful.
 
 ## Links
 

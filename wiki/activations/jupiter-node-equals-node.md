@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Node`
 - Astronomicon formula: `V/g = g`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: printed source page 274, Jupiter/Node With Itself, Node paragraph; retained printed-page locator, not a newly verified PDF page.
+
 Increased need to have others as friends with whom you can share ideas and ideals; a need to contact or maintain friendships with important people; adds to your need to understand group or personal karma and its effects.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Friendships for sharing ideas and ideals and contact with important people.
+- psychology: A desire to understand the source's concept of group or personal karma.
+- body/health: No bodily condition is stated.
+- social/relationship: Maintaining friendships and exchanging ideals.
+- events/manifestations: Contacting important people and pursuing shared understanding.
+- conflicts/notes: Single-source repeated-factor orientation; karma remains Munkasey's interpretive term rather than an independently demonstrated cause.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry gives related social and karmic interests, with no competing source account. It does not specify whether the important people are friends, authorities or some other category.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Node`: Increased need to have others as friends with whom one can share ideas and ideals; a need to contact or maintain friendships with important people; adds to one's need to understand group or personal karma and its effects.
+With Node repeated in `Jupiter/Node = Node`, the [Munkasey entry](#munkasey-entry) emphasizes maintaining friendships in which ideas and ideals can be shared. Important people are sought or kept in contact, and the source adds a wish to understand group or personal karma. The orientation centers on the meaning and continuity of these ties. Its repeated Node paragraph remains distinct from the repeated Jupiter paragraph's interest in social motivation and helpful approval.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Node](../factors/node.md)
 - [Node](../factors/node.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Zeus Vulcanus`
 - Astronomicon triad-set: `R £ §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md)
-- [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md)
-- [Zeus/Vulcanus = Moon](../activations/zeus-vulcanus-equals-moon.md)
+- [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md): base axis [Moon/Vulcanus](../axes/moon-vulcanus.md); activator [Zeus](../factors/zeus.md).
+- [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md): base axis [Moon/Zeus](../axes/moon-zeus.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Zeus/Vulcanus = Moon](../activations/zeus-vulcanus-equals-moon.md): base axis [Zeus/Vulcanus](../axes/zeus-vulcanus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
-- `Moon/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `205`
-- `Moon/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `197`
-- `Zeus/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
-- `Zeus/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `456`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md#witte-entry) (PDF entry-start p. 137); [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md#witte-entry) (PDF entry-start p. 132); [Zeus/Vulcanus = Moon](../activations/zeus-vulcanus-equals-moon.md#witte-entry) (PDF entry-start p. 295).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Vulcanus = Zeus](../activations/moon-vulcanus-equals-zeus.md#abc-entry) (printed p. 205); [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md#abc-entry) (printed p. 197); [Zeus/Vulcanus = Moon](../activations/zeus-vulcanus-equals-moon.md#abc-entry) (printed p. 456).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Zeus`: Events of importance prescribed by natural law. Starding creations, accomplishments and deeds. Great help by the representatives of public power.
-- `Moon/Zeus = Vulcanus`: Every minute taken up. To exert oneself under expenditure of all one’s force. Record accomplishment.
-- `Zeus/Vulcanus = Moon`: Persons, the public, a people or women who concentrate all their efforts in one direction.
+Moon, Zeus and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
+- [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Apollon](../triads/venus-saturn-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 Friendship with teachers or educators. Passing harmony with many.
 
@@ -42,13 +46,27 @@ Friendship with teachers or educators. Passing harmony with many.
 
 #### ABC Entry
 
+- Source page: 275; PDF page: 136 (one-based spread).
+
 Tasks for the arts and science, empathetic knowledge of the arts, focus on the science of love, problems of peace science, lossful love experiences, lots of harmony in old age, and lots of love pain
+
+## Comparative Schema
+
+- core meaning: Love and harmony in wider educational, artistic, or scientific settings.
+- psychology: Concentration on understanding love; painful love experience is also named.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Friendship with teachers or educators and passing harmony with many.
+- events/manifestations: Tasks in art and science, peace-science problems, harmony in old age.
+- conflicts/notes: ABC's empathetic knowledge of the arts differs from native ernsthaftes Kunst-Wissen; excluded.
+
+## Contradictions
+
+Harmony with many and painful love experience are separate possibilities, not evidence of lasting ease in every association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Apollon`: friendship with teachers or educators.
-- Practical expression: tasks for the arts, science, empathetic knowledge of the arts, focus on the science of love, and problems of peace science.
+In `Venus/Saturn = Apollon`, Apollon specifies the pair through a wider circle of contact and study. The [Witte entry](#witte-entry) names teachers, educators, and passing harmony with many; the clear [ABC wording](#abc-entry) extends the setting to tasks in art and science and concentration on love as a subject of study. Harmony in old age and love pain remain contrasting possibilities within that range.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Zeus`
 - Astronomicon formula: `Y/¤ = £`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Wars with negative results for the government. Air war. Air force, air armament.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `399`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Deployment of state support, special performance in the air, major efforts in the water, unclear state objectives, uncertain beginning of self sufficiency, priority efforts in metaphysics, and important future design
+Dissolution of state leadership, special achievement in the air, great efforts in water, unclear state objectives, uncertain beginning of independence, priority efforts in metaphysics, and important shaping of the future
+
+## Comparative Schema
+
+- core meaning: governmental action and effort, with adverse war results and uncertain objectives among the examples.
+- psychology: unclear state aims and uncertain beginnings are explicit without a universal governmental ambition.
+- body/health: neither entry supplies a bodily or health diagnosis.
+- social/relationship: government, state leadership, and air forces are stated settings.
+- events/manifestations: air war, armament, leadership dissolution, special air achievement, and future-shaping are named.
+- conflicts/notes: ABC's efforts and achievements are not all military or stated to end negatively.
+
+## Contradictions
+
+Witte's war examples include negative results for government. ABC adds civilian or unspecified efforts and achievement, so the adverse outcome should not be generalized to every governmental project.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Zeus`: Wars with negative results for the government. Air war. Air force, air armament.
-- Practical focus: militarizes compromised authority, showing governmental ambition expressed through war, air power, or armament that ultimately returns negative results to those directing it.
-- Practical expression: deployment of state support, special performance in the air, major efforts in the water, unclear state objectives, and uncertain beginning of self-sufficiency.
+In Neptune/Kronos = Zeus, Zeus specifies the pair through governmental effort, aims, and particular military or technical settings. The [Witte entry](#witte-entry) describes wars with negative results and air forces or armament; [ABC](#abc-entry) adds state-leadership dissolution and unclear objectives beside special air achievement and future-shaping (printed p. 399, PDF p. 198). Its water and metaphysical efforts are not necessarily military. The passages therefore retain adverse war results without making every official effort a form of warfare or an inevitable failure.
 
 ## Links
 

@@ -1,0 +1,1158 @@
+{
+  "paths": [
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mercury.md",
+      "before_sha256": "a5197e462269d6bfb46c50525cc553855fc34a5241568d34ef315aa266d0062d",
+      "after_sha256": "e18f536e291bdec876d4b46c56b76b79d5257d1a32644cdf4e4ee6c4d3285b41",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-neptune.md",
+      "before_sha256": "bdfc6f12b0908159e2f90d50634761a8f34b8b1658d4d947d88b69df624eca12",
+      "after_sha256": "6c419b58a643b2a8319ced48ebc12925ba7b500b80dfec4184c53a145d28d9c0",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-neptune.md",
+      "before_sha256": "b08c60cdb7b0857d5d0a87721ff992e48577f26ec9d85c127b770145da524517",
+      "after_sha256": "8ea8a7cb072635572988e41765bc65361d123f1cbf289d72085ef40bb9b9ec4d",
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-jupiter.md",
+      "before_sha256": "5ac0e8c7b0657a674ad48c6367e7147c5291d4b02d5e4ecb3a6c85e2c4a4990c",
+      "after_sha256": "1f785a41e85a3332ec785a13a11b5777a0af0445f6587bf12417ef8b69ab7987",
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mars.md",
+      "before_sha256": "b30ff6cdc885dd95db8bd132d2c98fe3d234df8859d7b2e576f3b10c6214e44b",
+      "after_sha256": "7fda6a63343656a721fd8e023e32689fcc0fed26b69a49bb5b82a5917a13df5d",
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mc.md",
+      "before_sha256": "34460d280cd411b12180043816fd714e207a3e374d0e51056da049f1899dd497",
+      "after_sha256": "08916e0978b4caaeb88b6a23f70a7c3ec21dd58700f0a8e91b9775223efb5a4c",
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-sun.md",
+      "before_sha256": "7d42fe2ea27e9e648833f9e6abc6e267617eec9b053a2eec7b11b0bd2c54607d",
+      "after_sha256": "e461f824ca915bc8f0eaa877aa54bc07e3c03aa149c0ef639561f7c7b9362315",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-uranus.md",
+      "before_sha256": "ed1391c134f54eb6fd2553002f1a62389bd2208537121d0287a1b52e912502a0",
+      "after_sha256": "de06acaa51aeb528c30a981d16dcdf90f9e876bdc1c85c55c333afdc5bb8b2e1",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-venus.md",
+      "before_sha256": "e27f9e0d48fe95fc4b0e1288dd07d985b78a8e7a3be7e0426083abd2f2ec0602",
+      "after_sha256": "3b897a135d0bd0e4a11c96386dc0c92e40d9996ab8931bb9c4c00a4e3c38686b",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-vernal-point.md",
+      "before_sha256": "2c9ade0bab3abea6d819144da7fd9f8e6467c1c31d30a67f8bcb26cb88a0c180",
+      "after_sha256": "ea0aa8cc1d9c4651b66ab337b180060a78111dd13b21876554eadab3ee47aed6",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-vulcanus.md",
+      "before_sha256": "df973bcc1946aac241b2329150faf05d02e57d9085574aea441c71f001f20fce",
+      "after_sha256": "f1656736d01c3002695c95b30660b49ac4ed121df43fcf90c542c3d25a32fc48",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-zeus.md",
+      "before_sha256": "c6a410e197072cc463f9ec6632e1c68a13fa3953fc29f3a117b6c1456546ab12",
+      "after_sha256": "60084cc49014b90fe49c2d1d3e538552311e2376bd66e52df5422aa04b5bc265",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-admetos.md",
+      "before_sha256": "10fc5fc9f4c06f52e228b0aab69b8adcd8a60d2b9b8696d04df4f0d1eba678d3",
+      "after_sha256": "08be86f076efd98ff4cb83402f1c2910eab6e82b668eb8a90195e33e10b87613",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-apollon.md",
+      "before_sha256": "08311dcac2c551b90419fbded34e3437ce7819ecb256ec8682b5203325a4f140",
+      "after_sha256": "e20889e743aaae6aba530810b59c1ae6a9ce7790eea6503a30f5834c963598d5",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-asc.md",
+      "before_sha256": "d80ee94e142c5ced8db37ac4fa59590eed50f6328fb0a37af1de8981fc40f276",
+      "after_sha256": "d295c8bcf36bef664ec9a0526237bd67aaf3d8edfadc4228baf2cb5fe233ac69",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-hades.md",
+      "before_sha256": "7f4b6dc3e9704f09d4e137bc6cf18d637097ce2c23b5c82866d31c60af2995d4",
+      "after_sha256": "a3f6d729d2ec42a3fc2796a6316a18944aa1ffef408aebea18227400a6a649b9",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-jupiter.md",
+      "before_sha256": "af267c040bd014ff5a84781a10b4cf7107f3f3391b58204807a25b70b5bc3ee5",
+      "after_sha256": "d3ca581f1b6e3053c8337c330a4fd4d1e8ddb5b723aa1a6addfbf430e80e15f1",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-mars.md",
+      "before_sha256": "c9027d01c2842e8a9ae7714613ffc00d8a5acd1361780b8ebfe3879d46a69df9",
+      "after_sha256": "590f3ea3e6092446d0aa8cbfab82504fcd43a5b6664ce70452ccc3a2777db0a3",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-mc.md",
+      "before_sha256": "7a3d7b4196a8f5769b2db84008dd957d87f18f77523074c2369844a580f730d7",
+      "after_sha256": "7310c47cdd0c73e019e62fdd8e34121343952568ee844f9b1f40a0d6307b9fce",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-mercury.md",
+      "before_sha256": "716ce76869e0049bd120dba99e5b22702ea4ac1cbf846030956a6effece81b25",
+      "after_sha256": "1247b4cf7bbbf968f18f10532a68bb70fd318bbb4e374f6ab35dca9454881798",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-moon.md",
+      "before_sha256": "b56c1447b214f125bb00a85bbdec24208078afed01f5f343e1589d4222657683",
+      "after_sha256": "0115808b9e94fd375bd80697484719ab1b8856c7e70258315f47b386904ae141",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-neptune.md",
+      "before_sha256": "b51b4c4851d8ccf7dbb20e9651d9de218df6484c4ae8e9ac66648f7aaf784825",
+      "after_sha256": "7eae35605180f9c65edd214fb6b3ea60f65616df14239ea4682726da4879e48e",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-node.md",
+      "before_sha256": "7b7e5eee62db25ce67ebec769ce557fe25767a4d0ca68a5faf2725bff9b0ff65",
+      "after_sha256": "1526ef1e30631b43b7cd26e7d49854661bbee83179502deb800285a28db86d77",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-pluto.md",
+      "before_sha256": "450bb8837894141570b30e3e9b7cd97e776fcad161851a97cbcce757b20c68c1",
+      "after_sha256": "236ec169b8fc58dbe005e6d77b5234fbece337636a18844f1bf7b72e00af6ac9",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-poseidon.md",
+      "before_sha256": "35c582d3b53335f095cc68967f42769f05bd504d5212e91c90502507770929fd",
+      "after_sha256": "d420ed75c5d26f7f59aef54f83ecf4f1405c89e13320d638de9d1b1673dea952",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-saturn.md",
+      "before_sha256": "f41f7aecbbe5590bf107eef0369f7d2ba1ce7beacd9c907621af1c4ef15e8313",
+      "after_sha256": "55fa5d3aa8953d7838e133beaeb0f5d7870355a8ad51ec5378562ce7103ae6e2",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-sun.md",
+      "before_sha256": "d4caf88becd1731755ded108517dbe7291870fbdd2d8e23a8cf1344b1a50d0da",
+      "after_sha256": "e8c498e7e7c5ad297ca632ef0d2c8ddb3e7cb01cfa4cd2729156d86fa0e9ea4f",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-uranus.md",
+      "before_sha256": "d5a2d55596341b4823ab585dbb3ca31c73a2abeb1e8977ed4f371eac8996866a",
+      "after_sha256": "cb55e40686188934abb350f6bb96874da8e160aec3b6a0dce9c4a986212b2ade",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-venus.md",
+      "before_sha256": "78dc6b92d918cf8609b431d613e4c8bd787284aed1e007e22f7dc97719b5341a",
+      "after_sha256": "b79257d490ca6b2d232621dfe7057861a5ddcbc4a2197b0b2dd0806ff5e1e4c8",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-vernal-point.md",
+      "before_sha256": "52b165c5c619e3d161a084ed1f39a616ed741b69e296938552304fb9030b3a7f",
+      "after_sha256": "0e08cd7fa7c48c49253bd4516ea0718fb72d24154b5e994038bee0e53f971592",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-vulcanus.md",
+      "before_sha256": "a09a5912569c36cb2d06875745c9dd10f7ff9dcff03e5a29c4cc0d3f1c6139c7",
+      "after_sha256": "d615ea279c9dce7639dc1c0cf09b4eea0f585b566a9207997aa2161ae9aebe38",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-zeus.md",
+      "before_sha256": "f2a50418e9c670588b8b2ff3c6615d9c83c5c43b1d33c3fa512091574081dc2d",
+      "after_sha256": "52b2a77481c18b45b27d26e60effdd9582b782a5454a47b75044d1f8d92163e2",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-admetos.md",
+      "before_sha256": "bb49d10772e83eb68ee4fc0a9af45fa43c7d499b70835aab4620b0fd926a0c16",
+      "after_sha256": "efbc5297c45fe87e2b1c505dd07c1bfa5b3cd2f648e18cae4fbb7c9554d5129d",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-apollon.md",
+      "before_sha256": "e1feca5bf87eb50da2be2c022aeff2805405e9bc20a7c29717bafeb4d73cbf52",
+      "after_sha256": "245b6dbb70e551ddfe4727785a7111ba9df8b6529e2aa1f0abe64feea140b772",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-asc.md",
+      "before_sha256": "96fadb25b606fafa59994c6fd6d773257a10bb3e88afb17f562600d1f57e7a98",
+      "after_sha256": "cb81b4ae00c205fbaeef073920b05438be77b0c967e655d2fd61cf5a96b83f04",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-hades.md",
+      "before_sha256": "ebb08714062922b7a292487f8aa190740d6f1fd21ab5a90684bcb457dbeff2ee",
+      "after_sha256": "c0aff4165ce4180fefdd3442d95aadf693f0d500194181b604900c451179392d",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-jupiter.md",
+      "before_sha256": "b2ceb3caf0bb8ddf7b2b53b2ad69cfdc4b4b933f74e04a2386fd2eac05025cff",
+      "after_sha256": "561177312d4f85942fb8eabfd73795985059bfc0d434c80e4d964b87eb83abf9",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-kronos.md",
+      "before_sha256": "e5188d8cf5dd6c4de7af05262b9052e8aae0dbf8b3dc08e0f411557386e111ca",
+      "after_sha256": "3a81a0f792fdad970e3b822f23fb32bf8692e8faa580b7a4d1cd2114da18d863",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-mars.md",
+      "before_sha256": "83cffbae5fc14bd601750c6b1d4fa7fd7e3289d216f6800f8254c10be2c70200",
+      "after_sha256": "99e4e7f5c02f4572c453621a85f7eccc54608535089cb8bfce899ee548ac94e1",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-mc.md",
+      "before_sha256": "58509bbf24bce275a1a1e3258b56c8676d5289c6549395dba8e736f636cc7f6e",
+      "after_sha256": "a4314bb3638f2bd1f4fb957330b63df59aeed80b56778e791f3bc016ce112210",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-mercury.md",
+      "before_sha256": "c29734dab494337aaec15fc2e35140d8d6377bd775752435cc232a63c2c47dbe",
+      "after_sha256": "f6ec43bc608fe2989ce4d3d73647094f22d46234e86983a783c334fdfdda5988",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-moon.md",
+      "before_sha256": "af235fba35e9cc0baede1a057cbca18aba8715de3a0715d7c137d0f8aeaeb6d3",
+      "after_sha256": "e62f51189a1ae38ed4dd6850a719f942052c5092b1d29d4b162ea26809dfca1f",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-neptune.md",
+      "before_sha256": "731dd6cf797124476d532aa890fdf4e7a79e0a8033fa8afa6bdd2b64f195452e",
+      "after_sha256": "c9e06696753f3f033924460f568a03f21e18552f95e21159a066a5dadeb6f87c",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-node.md",
+      "before_sha256": "793283e075d69a63a6e5923a81d081a544ee05689ecc9b72984dd7bafb6740c3",
+      "after_sha256": "965a253ebccc210fd9dc3e08a226ff9e8a33b74b1e2d7b844ea1e76bd247f7fe",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-pluto.md",
+      "before_sha256": "1d78aa5fd99c222a551e366cce717057b8d5fb5efb964ae36fbbd5161ffcfe13",
+      "after_sha256": "e75a403607bbf61433836b14a3be2deed68c6fa7f4e6531871d073b9d5a45f16",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-saturn.md",
+      "before_sha256": "c8d3f4a30d51edd2fd94996f9c89eaf5a8ab689600bb4c89b66f862f67a4d280",
+      "after_sha256": "4949b0530f5579a7920f3461c051a24c5b7832620eef6af4d7c9f8df45639d94",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-sun.md",
+      "before_sha256": "3a650da947980a80d812e9e56583fc49d0791bfe615022dfd25a24d03708b3df",
+      "after_sha256": "36e92d73296fbf077f45a9e8511795b0dd75ac97dca30e36fe3724eead5e4cb5",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-uranus.md",
+      "before_sha256": "2e7b39a995d7ef7dc9c40c907d446da7b6cf827c0a420fd2f35d4a93b8f3e9f3",
+      "after_sha256": "bd2326a52e51ec56a2451da440c37eff5334859812f207dfde4efb7e36b11aff",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-venus.md",
+      "before_sha256": "29b8f271266fdbd00d3a2a85f26f438d8e0c729a4bc76e92c1e5cf254708084a",
+      "after_sha256": "0573ead893617327ffb248b669d56cf91cafe6a07cdc6d4708d15bf4feccbff1",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-vernal-point.md",
+      "before_sha256": "181a2f2598a5b8de1f651956b96c10a77ed714c4d127582187f8b0cbb29bb933",
+      "after_sha256": "a8532798b4065b155a7d300538d19853d6e5d6c3c191d6b46e6556c9def6608a",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-vulcanus.md",
+      "before_sha256": "6b8962050aa46076cb64effc94d6b6ef5dd8b820d7cdbcf526e2da12e7a9d32a",
+      "after_sha256": "89a3d8258d30cea5af6ca5cf98f50d9d08e236841e3433fc5ebbedaf3feac0ff",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-zeus.md",
+      "before_sha256": "d4bb596a4935f9e7f7d309fbedc7acc36d45ef19eb44ea099f00ef89bbc77d3a",
+      "after_sha256": "cc6aebe19a3f5ff04dd4d94ee07f4a643f1372b73c9242d1a2330e79476338c7",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-admetos.md",
+      "before_sha256": "81e764f1c2d389a37ea138ed3684cab8f41fdf74c173d2467278aab690f0651c",
+      "after_sha256": "b6a9ddbcd2853712026691972bcc2498db1ac139cf86fe2f1a8efc25da2cefb6",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-apollon.md",
+      "before_sha256": "71f6f7bbd3cf33fc3090986b840cd4771305c507af7a8eb6e61e08ad94234d62",
+      "after_sha256": "bb24d0454d6bd353f7b80d1774d867271d3c202594125ceac3591e31283cb026",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-asc.md",
+      "before_sha256": "e6c0966dbe1eaf91e9e7a425896cb665b8f9f87308cc40f90d63c0244d6c0325",
+      "after_sha256": "4fdfe79da5dfc3230db1c8f87f0fe186434c881015471f18c7ec4165b2a4edd5",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-hades.md",
+      "before_sha256": "beedf91fcaf07b7c969e13e53e908be9ca49669e26073e7094220c19d3cabb6f",
+      "after_sha256": "1fa5e20badf5f95dce1e542943cb146a25507a1f8db9ed9814e3373d84aacd3d",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-jupiter.md",
+      "before_sha256": "0fb8323702a2097ca405bbfcac16ab279858397673e5744adee0a3732fe0476b",
+      "after_sha256": "4e955472b64c661d08ea5ed3d5d4c5b52f7c21bde055a608b88a5ab83d29ad66",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-kronos.md",
+      "before_sha256": "e5f6c77f8fc82d262d7d0a955c50278663e1f8d680e3bf6cc1091c924945fd2c",
+      "after_sha256": "b304d18036e6250caeb23d1ebda3f3afa698e16f73955ee732fda71277cb0226",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-mars.md",
+      "before_sha256": "f4322e3b872ce2d40a58876ed58b019aeae2c2c73c2d4b0e3b15f0ebb13028fd",
+      "after_sha256": "31c8532d82845a70bdb25c4879a668a9116a81bbd500c4c980d4c0f266aa01c8",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-mc.md",
+      "before_sha256": "15adf800d0dd9297a3b36cfbb817f2f5b91e9f8e3c144e28237d09a82fa49195",
+      "after_sha256": "15faeb32f9ada490861902b2d17158034e9e13005338fee522e3134df22a5e85",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-mercury.md",
+      "before_sha256": "ee7d1ec178ad54b0eb88f1415346fd5ff059e541283bce6512c15340c5869330",
+      "after_sha256": "bd96db493f3330bc04ea2d8990b82a5c9054afde8ba6e82e9958f63b366fa63f",
+      "ledger": "activations-010.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-moon.md",
+      "before_sha256": "3ea1c3a14bc1bfa4b43b13fa33636f3fc619b49b49864292e9c6216f3c34d819",
+      "after_sha256": "5b8a813e70df98ffc85426771ab0b422815ad46f800396188fc2f2da21a702aa",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-neptune.md",
+      "before_sha256": "cfbe6c0f86b4996999704927dbd28a61a7c4556f298eabc719b121ce6a3bc979",
+      "after_sha256": "0af4a263cf6166fa3fe9e41494a898f221e0a066a978bbd9276507f53bea8bef",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-node.md",
+      "before_sha256": "88a1a72f6a1bbefe3f1cc2ba661f26d739aed22ddc4b1aaf2222e546f4c66e0b",
+      "after_sha256": "271d1deaf99ae47f05e131193278530f5b4852c932151fe974ec74ab15e995f6",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-pluto.md",
+      "before_sha256": "d6751930a79a96c47b78dc188618ded5be8de39eb4771cf65a54674bf31960ca",
+      "after_sha256": "27702315c603759e645d6f75e915440f018de969fc46f49db0e0346ac2d8e10d",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-poseidon.md",
+      "before_sha256": "137f7a5626a30cce1765d7506d886b6bae22e0f7406b90abf00122a8803ac86f",
+      "after_sha256": "2dac3f07be222c7f145c06461f62ed124f1162c1e2c156c5eb3eedee43005cbd",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-saturn.md",
+      "before_sha256": "03743cbd9fc7cab5ae1a70edaad5f5023abc07ff70ff0471ede2032598708cf4",
+      "after_sha256": "bbe7a57275578e7268de7494e56756318845c95838c1021f7f0f3fc483ef8f82",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-sun.md",
+      "before_sha256": "997ff3d792d6f8f429a5128125b938ab597bee1cffa4fb2b56056a15d70cda01",
+      "after_sha256": "bbad6b3492409a9d69d00cea4e1b9493d293594d5e214910f9da62f599bbcb8d",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-uranus.md",
+      "before_sha256": "c62fae22bf454a8add449ca63c406505132565bbb488c8351cf8440486ac6527",
+      "after_sha256": "f4e0c7f4b565bb93468f09949a61a3bad355834fa9f9ea53f157802f35838887",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-venus.md",
+      "before_sha256": "26d0b87aac9211ca380628ba10e28f240a3907da7688457dabe03f589848ad80",
+      "after_sha256": "4d2072e44d355d255b0f74eda8e35a5e236d95ec604479c804aba999eaf3ebcb",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-vernal-point.md",
+      "before_sha256": "d6048a95921af6e3aea1636dd6616f924678e958ffdbff76bfb219824b90680c",
+      "after_sha256": "696a1cc23c6658acf184c871ea5b31fdca0b04bc1612db4d062c2bedfb440a9b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-vulcanus-equals-zeus.md",
+      "before_sha256": "bcd58c917a5e8484be747b954e573ad8b3faf6006f523dea37ed4e27a876e2ab",
+      "after_sha256": "b1fa79c39a6b5a9c9507d4f2e1321057b480832fd5eb0cbee3b99feb0d427f4b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-admetos.md",
+      "before_sha256": "c0c0be487a90a84bc093aaa13a9277509c354d09c4474d757e6536d36d7e76e2",
+      "after_sha256": "164ec31c0df76bc8fbf1b0dc3f42f249c410feacdaf107738e1ce62e55f60911",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-apollon.md",
+      "before_sha256": "4851b615590fc43e63e39db81af77901243cee3a45a5e46e5b57b48f38bc4580",
+      "after_sha256": "3089f68113540d87511a89f0afb1409cebddbb25fd06dbd4bd1b09bcbf16a477",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-asc.md",
+      "before_sha256": "ae0f3263dc061f40b5c0c4feabaa7bca66830bf34f3a3faf64e26256376b61a3",
+      "after_sha256": "de5bd40678c96219c8c2feaf0d64edeea836027320e70282d86b78c6611c0eb6",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-hades.md",
+      "before_sha256": "4ad6f5590654066953e5843e4da48f39ac8765dc440898ca994fae27de64cac6",
+      "after_sha256": "84795fc934e426bf1485540f87382c8b030da166d443d44ec1539f5ec94769a8",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-jupiter.md",
+      "before_sha256": "3306f4b4c8eacf30b39445b58607735d5d9677c7d788c599d8b18a447db9bf6f",
+      "after_sha256": "809676f35355fea54f866bfa3709effd96b2612e0a4865c0fae49e743c9d2545",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-kronos.md",
+      "before_sha256": "682b6500191191fdc3787e3b84ba24f0532fcdc5cde433c79de08816bf394763",
+      "after_sha256": "d6a1b2034167ab7faf4b2321ed3c89c93aedc2fb64698db21dbd30b2ae355e3f",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-mars.md",
+      "before_sha256": "71936951fd77ad8d49ce950bbae5411090074d5d4b6f7f959cc0849315c2c8d2",
+      "after_sha256": "309e837de5f7e3a874fd56435d526d56dc40204c4d080d9840b6e5d29543b17c",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-mc.md",
+      "before_sha256": "537f4d4734974af037b774f604f472b725d63679717dad23d4ecb79d95fa0f8c",
+      "after_sha256": "5d33fa7a3ee31c5e7e718603723e076e5acc60a474f072d2538bf0d6aeea8e90",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-mercury.md",
+      "before_sha256": "e276b7b432718dc1150490372517b18f73935962fc743a34af692a8815336c4d",
+      "after_sha256": "1827b4aef26bb7c2a49ccaf56926860bc919f1262cc20b3e926dba4896039c95",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-moon.md",
+      "before_sha256": "e3add06e4e9b3e940dbd30ce6e38c9865c86626cb51e6fcdf46c957b63868537",
+      "after_sha256": "b5643933620709fd222ed2844065bb1154cfb872b5749a4e78741512284a5e9b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-neptune.md",
+      "before_sha256": "2fb1026cfeb21077ba9d452b7026981e01dc5e10edc2bd9cbaf10bad92b606e3",
+      "after_sha256": "b96f0f359bcf11bd878a246ff2882f4237c405af0787cd1e085d472a1d7f437b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-node.md",
+      "before_sha256": "0f7372cc8994aa1b93920a405aaa8542afa2d14674c565a069168c92fd075a81",
+      "after_sha256": "8ec0a4018b5d1b2147bdc1eed81e1e4fb2eb1a1b1d3df9d0761d010e215fc7d5",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-pluto.md",
+      "before_sha256": "26cf70990a7fdad3db8ec149558d3933bd0b41919d533c81b7b33c60d25cd014",
+      "after_sha256": "5f221a87580a242a6717bed0aa868b14c7f204414346c179dfe2f6717d9819ab",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-poseidon.md",
+      "before_sha256": "af858664425009b681ce13960e128ae53160071d7c7193d6c3d4398013518a3b",
+      "after_sha256": "cf4ec9686508327685a5a8a7aa29fa58271e442b9136603e0169385a40f7f98b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-saturn.md",
+      "before_sha256": "8f4aca247585e473cc53b5e0c817f39ef1e41db5da477d10c2ac85e8674a359e",
+      "after_sha256": "00dcf7b55c026e3ad0671254a8087c40e61ecda83c62337355fa2bfa3f3305ea",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-sun.md",
+      "before_sha256": "027fe2f7504fe898bce36f88dc80e6a3b1983ee1776a12c823a0eee6d304a516",
+      "after_sha256": "2c23d00c63afb5561eaa255d9453090e976799ce9e19e358f899b5bfb3047d97",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-uranus.md",
+      "before_sha256": "6fb2d3000fa0d213784cea020acb2601b77c061cd8d76eb6bda3052eb3c68a7b",
+      "after_sha256": "fe267db4a02ed213048367705ad8b9f7c3e3d4bc86eb64ab9f8367a3a5831987",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-venus.md",
+      "before_sha256": "7060eecfde9d1257f04fe9287988652e5d7858a311679b3eb54579334317d970",
+      "after_sha256": "483b2e5b2c92245263ef6476a90e0bb0ad070506c402fa6d6d2f6ad7ba517b50",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-vernal-point.md",
+      "before_sha256": "9f821a4157f9ecba627420c6376c6878342019da4fd9fde082677b2d0c357376",
+      "after_sha256": "8eff04f42b2fb685b122e97f2a118b280421dc326428b945ac964e1d45130302",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-vulcanus.md",
+      "before_sha256": "5a03206e3a937a4c7c8d47e5d88a3b2ea5d8b4fa7590e14d0dc3950d74f02dd9",
+      "after_sha256": "ca01c2507082a340681d0d4a8850477f7f43dcaebe511d3cbcee4caf5bde4bff",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-apollon.md",
+      "before_sha256": "2e29d3f5b89c40e6989327ac023bd7b4a1fac36fcbd029ed56a959bfd21d3a96",
+      "after_sha256": "5534c08fb03b89227612be9c5fb9c2f254b2cad772dcd6d77b959f5b648d170d",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-asc.md",
+      "before_sha256": "c84f59eb7928e9401552dcb55e726e3516965058df9150f3ba80b81c54854e00",
+      "after_sha256": "17f15132d35ce724baaa38cd08373b84ca31fcbf82efebccf89ff28ba3e0917b",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-cupido.md",
+      "before_sha256": "0faa96096c74aef4e4b6f86f58667380cd9f7ef1afebeb2dc0bcc6069bfa94c2",
+      "after_sha256": "2777d58586ad610b6a58d641b7cac24f9785073edcba2a5f3a30a3e303a31331",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-jupiter.md",
+      "before_sha256": "9ccc589eb5651c03244bf5fabfda89806d20470139902eeb6220c7e4de109164",
+      "after_sha256": "53a959a95ff8eb6d9061e887c3a6280e3bb7107cf1e7a47dad3dc099c387e551",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-kronos.md",
+      "before_sha256": "fb9d335150213c3351008eff2f117d1ab0b2c9b0037adde7addea354f522a30c",
+      "after_sha256": "49eb8b02ffdeb6c75400957c71e3cc45ba264b791ae4e6f8370a637f17c17b38",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-mars.md",
+      "before_sha256": "123df65ca5761e0de3a04afa81ac288c748169411c848571a6c6b690fd63f513",
+      "after_sha256": "f72f3cffe87c7a48af3eab9a3d61bccec8d173fb251cfaa8231e885587917dc3",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-mercury.md",
+      "before_sha256": "80f53022c2c766ee418be17fbe88f9ef723e2f23a57c241f5248da2e5d8b6726",
+      "after_sha256": "8ec9b7b7ed5ce90883ffd3874d41b949411e252e6f54094645c7e6f2987dfc39",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-moon.md",
+      "before_sha256": "e340fd8a3a4ded66490058298a3c3d710dfb739e93feacf2334f091df0d5b98a",
+      "after_sha256": "848ddec7eedd1dd863b51aa52b7dfc0e0ad235a7e94a086026494d26bfc8af0e",
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-pluto.md",
+      "before_sha256": "910e66e5c751b2e90bfb648a2fe761e7c2c41922ea3c5507ff2a75898eed470f",
+      "after_sha256": "7c4d48283dbbb0f6c89e1e2c9baf9f18a0808211d821e97ac8d92eb3be2eb052",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-uranus.md",
+      "before_sha256": "21458b0a346290e5dee9d9f19ed57fa8c6164a1a85c395aa4000d130da875eff",
+      "after_sha256": "4a63f76ce5c5eb7506046ed6fe3451fec94d85ceaea9b33c127a77449ee3b1f2",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-admetos.md",
+      "before_sha256": "4b80c240d4246d050d6222284b5da85fbc7b5df7fdf225c5246d3244ff621f6d",
+      "after_sha256": "eec69c3080ae8c716804b1697a5ca8b36efa315fd2978f4c153df3eb88ac2eda",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-apollon.md",
+      "before_sha256": "762d149eeee97b151b1e1122d47b692d2270e399bdfcdd99714c0600d9c1a108",
+      "after_sha256": "06bb2d2345dba4510ccdba1a8048e6388b796c8f203d4109845721f4a188daf0",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-asc.md",
+      "before_sha256": "59ad75da6c77a7fa30a1c41a36ec68980816cd9fdaa5d011c733c957f9284ab6",
+      "after_sha256": "c507b25489673266a731ce8b1949d5b977822b6f72cd2b46c17cc35fd7f60ebe",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-cupido.md",
+      "before_sha256": "4cac99d592e8d43cc4c9313648541eec9a59a7da3b18f9232d07939e80f8c04e",
+      "after_sha256": "4bec519ec01c3ee74e06fd55c0abd3ef2a4bf0af5f655e0eb33ba1c544ee3bdb",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-jupiter.md",
+      "before_sha256": "d13633c75b23a9be6758a70254a02c696695c11f224926761b9546cc244a8139",
+      "after_sha256": "d0b740029e6013b4291fdd0e1cb7475eb587efc9601892bd8a344b5e13a60b7e",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-mars.md",
+      "before_sha256": "68be8ca0fb16c45a480c4247a671e326a8b2ffd0ac04eea56b37093be732005f",
+      "after_sha256": "01240e05b8e8f02db2f9444a1dab7d4d75ec75bcf89480d3a35c45e6877bc0dc",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-mc.md",
+      "before_sha256": "668e08c839470404961dec5391ee03331d0a4abd855ad8586fd12f21f1273bfa",
+      "after_sha256": "e295148e304c6b54ca1f6f9bd9b71fd8f5a626cbfcb77698db88a1ae83d799b1",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-mercury.md",
+      "before_sha256": "ac5475d8c76df893b070721622017258e76c5c58417272cdba97e39cd3c0ec61",
+      "after_sha256": "5970aafe674fd9bc9242508d84d49585b4595b22392470d55ae27445eca58cf5",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-moon.md",
+      "before_sha256": "2b616ade40310c931bc7e1589bcf815576c0a42d6ee903c143f9b957ed21f6d7",
+      "after_sha256": "c7d557651cf673a4a7a87351efdf678d39049b879ca6f52c42e618bef9a7b846",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-neptune.md",
+      "before_sha256": "da6e952847508ca111737967d7522f8e2a224330fd1a2db737df3e50e527fa04",
+      "after_sha256": "375b44871bc65a21293179264f6dd318c783242b7b353b13bcfb70fdca427a54",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-node.md",
+      "before_sha256": "dd2dfbf02b3c9636f40a69c6906c5ff264792dd00e99b470c6408d83573c87bd",
+      "after_sha256": "fd657baaa258f063126b08d810b07d5f8e7b8abc6984c1862b47a14ccd473ee4",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-pluto.md",
+      "before_sha256": "94935086bf104ab9d8e8bc443d2a2869e7bc0f65656b666c6b238af8862b5baa",
+      "after_sha256": "65afdf244f25345bf7c4f78811a13ec354b867ef6d585dd291bf3dcb5f461a72",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-poseidon.md",
+      "before_sha256": "a4e73cfd0e778bc0848079e9f149dae520845dd689026fdee1da4151dc329bc8",
+      "after_sha256": "4dd6f58d3a5e1849d1bd089f7b87c850b006e30f0aa9a32854314e87b7c46365",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-saturn.md",
+      "before_sha256": "c9504b9ea9dd12d62d53158c9d85eea629187e059a6ee48eddd93a39fdd391d1",
+      "after_sha256": "f71840d87480682b876560f2f90cd75915924689fd59d41bb701221b7e49af8a",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-sun.md",
+      "before_sha256": "c6ee8f841c154a2e9825ffac3767a47447855ed97c583a89f96ebc752f0b6c9d",
+      "after_sha256": "a40ff092af6bec6f36faf4edc12a81d525ab1308c20b3f4bfddb2f9577ff2c8e",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-uranus.md",
+      "before_sha256": "5a0f3ef1de2128f937f9df251f3ddb83950728711349e411de215a45b6fdc7ea",
+      "after_sha256": "1a198adabd324d4ce61d928cdae518b6cb7646b115a385a941ae4ee19efbc1bb",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-venus.md",
+      "before_sha256": "91c8b1716f9d42bf05c64837d50cc94b75e4bb5f32b072c5f1737d1560a4fa95",
+      "after_sha256": "9866252b07a480e45a8f8df8e777ddb9e8e67e289885e57214af231d57c05eec",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-vernal-point.md",
+      "before_sha256": "2aa8ebe911d573ef2455d8e5c3ac75e7c41a85d08c3f2867705278ea8ce6be02",
+      "after_sha256": "a73873f38ae8f8994e8e9a763897649a84357a562948ba68ecc9535797b4d0f2",
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-mc.md",
+      "before_sha256": "0957c936bce49f876b5480187184731bbb4eae117c596ac958eb632496469af6",
+      "after_sha256": "c0571a39b6048b26ae8206243ccb8c5fcf7e615dd0ef572b4e63fd0113f82140",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-vernal-point.md",
+      "before_sha256": "c6122cf813493e9294f94d75d603f545b59a77c60ed209536ba4e751a9a52a92",
+      "after_sha256": "677909ac1fc1eac53c4dc5325fc5bc4751c9d8b4ce6c18df91677a05fdff965c",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-admetos.md",
+      "before_sha256": "bfe9b8e9066b9201851b8086d9f9607cadece1bd95babb751c682e3de2eaec7b",
+      "after_sha256": "22b0c4a4e46b1de880cb09ebc0144b5ea6fced7485f1c96140b3fed8ed5f09ac",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-apollon.md",
+      "before_sha256": "16a0539a599895ed5625d5fb1aede658ad0092294f01bbe3ab4145a404156deb",
+      "after_sha256": "bf9fffbe83fd34e44240382bf690fa0cd4d7c1a0cb9ff23eb70130b37b95ad74",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-asc.md",
+      "before_sha256": "58157f5d4e20f098787762c1409d11f49fbe3917a1b935352eebb69313474564",
+      "after_sha256": "00938022579b192ddf99e75ef3d80b7a9a0634f4865d0ac79ffbfb4a0583a799",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-cupido.md",
+      "before_sha256": "46a8e440b183c501389b2fe89a5b4b3bcc8c88322c06044720800570bb2368b0",
+      "after_sha256": "8d419a2c8b33a304391a22bebf09e83660e1c7321ed59cc04afcbe59b0bb7d83",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-jupiter.md",
+      "before_sha256": "9933e4b300b8eca0bae3562bab654f3d7078e2dc2251c5b767e8e3f7c763f542",
+      "after_sha256": "d65d7b6bbbc3034eada0cb0d1a5de5a50f90091e52a91aef309434f6699a3073",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-kronos.md",
+      "before_sha256": "eb5dc937e1b22fd40b98d69c3f32bf492a7bb308bf7a4c98491c172c58c00192",
+      "after_sha256": "5b38f8c72714c2e783374ff58b3e67203bfb936d0b7b0578714df1f9ddb2706d",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-mars.md",
+      "before_sha256": "ddf4d896d75c70d08245720a43d4367003801ea80a9f87373ae72efb61e31c22",
+      "after_sha256": "187e483e084360ed7477b50117b03981ece50852a67dbcfa44d02c8e396164b6",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-mc.md",
+      "before_sha256": "3e67281636d69a1b2882b9687aba29c54a6e9f6306db28c1d79fcb18ae7c63f8",
+      "after_sha256": "31aaac5f28cbf64b9532a3f6cd0a8f2cd1c3e42f2e7e9f00dfe3333339d33e1b",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-mercury.md",
+      "before_sha256": "5a4f043a543d58becad31804f69a8c03a5b368533d72c92f49861cb57e3b1e3b",
+      "after_sha256": "09886b563ef8f9f003932797bc01435d3472da5e575a3e0827718b282d6a088c",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-moon.md",
+      "before_sha256": "8d039d5c440d86a11811ea1c67f9f00016dda138d9113f3c9caef07e57f9d724",
+      "after_sha256": "d853a3de6b40e1324d9afcb67f8a0cec096ab455b135c15d728b03a652989de7",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-neptune.md",
+      "before_sha256": "8cc049916aaf2b26c90892f8119394c7f425fadf1815c0a53aeff85f3cd26738",
+      "after_sha256": "7bc9c1b8608533fb6f447c7e1b06c311f6dcda839aac6463110053109bd5bbab",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-node.md",
+      "before_sha256": "a23b10833b1c09864f1d12d95238141856235da6d450e34b67c7cafb5b533d4f",
+      "after_sha256": "a4ea16a66928fcb7a767833f887b6a9c2f958a765c55f9e54f2c8a1cd249caed",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-pluto.md",
+      "before_sha256": "1afcee1a0722c2860605b174a419e000e8c0a63253d34d7fe9758b35236b58f9",
+      "after_sha256": "d564cff560009516f4e01d88c71e54eb2ebbaddac96e95938d6b201dcdbaad36",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-poseidon.md",
+      "before_sha256": "61cc8e1ca141bb3601c348cf1ad1a1cfe78f534db8b58c09159d6ffc3d4b9941",
+      "after_sha256": "a0c6f567530d29ebc3b8d10eb4e06db1da8db791d22504ef88d6ee83195bf8a6",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-saturn.md",
+      "before_sha256": "89db94959feae7767ed1fdaf70debe2f606064a31b501ff4595282348504e0ac",
+      "after_sha256": "b1b2a43ea7376b73d7597c18d38266b814545fd79f44d89dfdf07828910ce72e",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-sun.md",
+      "before_sha256": "594e9cf224bb76174e633c1392d98f27f53e38f48c4aeb68aaa792efc6169844",
+      "after_sha256": "c3d2b5b91b1775571c2c6e499991e9efa91ba93804b1bf4f61bd6bf6a0e638bd",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-uranus.md",
+      "before_sha256": "8d387829c3229aa302ccb66d30acd46f66b3a3a648f75dcb419a936768d14ca6",
+      "after_sha256": "b374c0f2e3e206233a5bbf1008dd5b6d898697e8841b6cae53a4728ba7c44a06",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-venus.md",
+      "before_sha256": "ea79d054c70bb892b6db2225d475b2de43df298455773a6b8de3250909fcfd77",
+      "after_sha256": "6fada24459bf4790f8ddf280145f8ef4540f9530d8b150134dd9e834641ce740",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-vernal-point.md",
+      "before_sha256": "02f0f07b5b09d2742e5062b8e6570d7ad22b3143389cd98559c48c0c74d82748",
+      "after_sha256": "6bf88f7951a8d57fc0d1520d097050beefb1d3d8f99f0a944ffea968549e4f90",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-vulcanus.md",
+      "before_sha256": "3c4e809fdf3b98da4a74c032c98f2f3c8cae949262026e73e7a1fb5c4ee5593f",
+      "after_sha256": "f945fb8b7dc6edb74f2888abb7ecf2cef41b9fd3155c13b3913fb693e448e809",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    }
+  ],
+  "pending_ledger_excluded": [],
+  "candidate_artifact_generated_at": "2026-10-15T12:37:17.473319+00:00",
+  "groups": [
+    "cupido-admetos",
+    "cupido-apollon",
+    "cupido-hades",
+    "cupido-kronos",
+    "cupido-poseidon",
+    "cupido-vulcanus",
+    "cupido-zeus",
+    "hades-admetos",
+    "hades-hades",
+    "hades-kronos",
+    "hades-vulcanus",
+    "hades-zeus"
+  ],
+  "scope": "All full current/baseline Source Entries and actual raw evidence for every changed block/reference; exclude only exact approved hashes and unledgered pages.",
+  "exclusions": "No global bank/wiki/ledger changes; raw Vault immutable; no children."
+}

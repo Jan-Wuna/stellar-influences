@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Zeus = Jupiter`
 - Astronomicon formula: `¡/£ = V`
 - Axis page: [Cupido/Zeus](../axes/cupido-zeus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 272; PDF p. 268.
+
 Fortunate artistic creation. The forming of banks and other financial institutions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting successes of a community, successful establishment of a community, money generation community, joint legal efforts, achievement of a community, and generation achievement of a community
+Source: printed p. 426; PDF p. 212, Jupiter row.
+
+German: "Beginnende Erfolge einer Gemeinschaft, erfolgreiche Gründung einer Gemeinschaft, Geld-Erzeugungs-Gemeinschaft, gemeinsame Rechts-Anstrengungen, Leistungs-Erfolge einer Gemeinschaft, Zeugungs-Erfolge einer Gemeinschaft".
+
+English translation: Beginning successes of a community; successful founding of a community; a money-generating community; shared legal efforts; successful achievements of a community; procreative successes of a community.
+
+## Comparative Schema
+
+- Core meaning: Successful communal founding and achievement in art, finance and shared legal effort ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: No individual psychological pattern is described.
+- Body/health: Procreative success is a historical source phrase without a fertility assessment.
+- Social/relationship: A successfully founded community and shared legal efforts are named.
+- Events/manifestations: Fortunate artistic creation, establishing banks and money generation are explicit.
+- Conflicts/notes: Performance and procreative successes are distinct clauses; no inherent-worth judgment follows.
+
+## Contradictions
+
+Witte supplies artistic and financial founding examples; ABC adds communal, legal and procreative success. The success theme is shared without independent validation of each claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Jupiter`: new communal structures that prosper materially or creatively when initiative is well directed. Main caution: equating success or financing with inherent worth.
+In `Cupido/Zeus = Jupiter`, Jupiter specifies communal founding through success and fortunate creation. Artistic creation and establishing banks or other financial institutions give Witte's concrete expressions ([Witte Entry](#witte-entry)). ABC adds a successful communal beginning, money generation and shared legal efforts, while distinguishing successful performance from its historical procreative-success phrase ([ABC Entry](#abc-entry)).
 
 ## Links
 

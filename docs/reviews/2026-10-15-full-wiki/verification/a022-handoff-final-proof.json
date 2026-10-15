@@ -1,0 +1,121 @@
+{
+  "assignment": "activations-022",
+  "assigned": 55,
+  "recorded": 55,
+  "unique": 55,
+  "missing": [],
+  "foreign": [],
+  "errors": [],
+  "repairs": 63,
+  "repair_sources": {
+    "udo-rudolph-abc-fur-planetenbilder": 55,
+    "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures": 8
+  },
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p158.png",
+      "sha256": "654c507d383d0d1feb8e2f32dfc324e47fd6eee1e8e4938197e6c1091ba3fdc4"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p231.png",
+      "sha256": "b34a4f819f77426e6bf6c9c7482b3154eed6f549f9691b4a36fbc5b926c4c7a1"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p232.png",
+      "sha256": "0b61a67d20aa3203caa3f5b22504819dbbd575a026a4ad4d3673d8540a84e43c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-witte-p202.png",
+      "sha256": "6004ec0ea77f8f76303d0a8f9e99957122b2713a2ef779645e0cff2f994eddc7"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-witte-p301.png",
+      "sha256": "c264902806c63ba79e8c7da3e94a04dc53a3f0e9a4b090d3283ea3ecccaf8699"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-witte-p302.png",
+      "sha256": "dca4d5cf13f6e353bdff8cf68bcdb98db03ccb81c8b5b036346e80412776ece6"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-witte-p303.png",
+      "sha256": "80dc9c661f38d556e6b92b52bf40d2f1d6923c94b9b0129871f1d6972ddfad4f"
+    }
+  ],
+  "missing_proofs": [],
+  "current_sha256": {
+    "wiki/activations/kronos-poseidon-equals-asc.md": "c93b4f471b91b71b5b69706ff2e63c9ad3f6465856c02910535ebf090add98be",
+    "wiki/activations/kronos-poseidon-equals-cupido.md": "23210dc8aead72217b95878b89938eb5a2a0fd1d158e12ea154e839ac76a8e76",
+    "wiki/activations/kronos-poseidon-equals-hades.md": "307989185758d06ca3fbc30d55906e67cf644816dba9826fa973de48575ae294",
+    "wiki/activations/kronos-poseidon-equals-jupiter.md": "def40ecc4708b62395ef6884da95b7450cb42c5d891907cb72da6f25df37dcee",
+    "wiki/activations/kronos-poseidon-equals-mars.md": "7152bebdf0d23f6266992b6c500882ae1d915977cbe03f3907d951ebe8a9adad",
+    "wiki/activations/kronos-poseidon-equals-mc.md": "eb712d143b957343fd7bf26bdabb28ffdd39d735e4fb8412162dec72f31a88e0",
+    "wiki/activations/kronos-poseidon-equals-mercury.md": "92cbb7e0fbe2c11570b2d93c19a84205adae3a8f7b7fa923b7f161bdcd375fdb",
+    "wiki/activations/kronos-poseidon-equals-moon.md": "9c5c36676abd2e995a2435c2fe563c245a35ddc9141606a024068ac50a99ba8e",
+    "wiki/activations/kronos-poseidon-equals-neptune.md": "e216db08a47be22fd5a6961dd4a05425df34cf90e1a574c4164dd5232493f2e1",
+    "wiki/activations/kronos-poseidon-equals-node.md": "209c18a97b3cb2978e33160bec1ebc9a3c28557765c46c1091eee3309ab8e5d2",
+    "wiki/activations/kronos-poseidon-equals-pluto.md": "fab7af83f6b03efac400dfd5e00b04b332f0fe4590d4b3046352860f9abb2aab",
+    "wiki/activations/kronos-poseidon-equals-saturn.md": "57a4b63d568700191712e318f5cf6c7ef21397bee3d3ce97c9b53e1aed028053",
+    "wiki/activations/kronos-poseidon-equals-sun.md": "fadfb4316322e56779b69d1342bbfd19acf3557dadf13c8c97908008be10c6f2",
+    "wiki/activations/kronos-poseidon-equals-uranus.md": "0d4a5a3473c4144b8bec3ed6c898cd05b47d91b9d372eef5cdec03111b1125df",
+    "wiki/activations/kronos-poseidon-equals-venus.md": "d987caee10afa084152ed9744d166bd195aaade187ce341250b37fa17b7900f5",
+    "wiki/activations/kronos-poseidon-equals-vernal-point.md": "513b78db1097b94c12f672a6e796b0e28102b749a8635b8de51881080e00b732",
+    "wiki/activations/kronos-poseidon-equals-vulcanus.md": "58569a6759fe321b258bca4d21e09262ce14ed80fcbea7695be86a3576c866a0",
+    "wiki/activations/kronos-poseidon-equals-zeus.md": "5c6d7ea199a47ee9278850937dbb8c41bae298439de31da5523aa5bd8f64399e",
+    "wiki/activations/kronos-vulcanus-equals-admetos.md": "b57e474d365580613d5d3304479aa3220817ccad2ed30aad2cdc6540b25b7d3a",
+    "wiki/activations/kronos-vulcanus-equals-apollon.md": "fb25762972fd4008267852251f1595d6f9aba4266f5decd47d46bde89de4d3c7",
+    "wiki/activations/kronos-vulcanus-equals-asc.md": "36d488ee446af1d2a5202f7337779da9deba18bc9db28031de14b1d3cf4596f1",
+    "wiki/activations/kronos-vulcanus-equals-cupido.md": "e80348038dba89e73a96ad7e321cfd5930ee55a6f8334f44c2e0d685b8b91ef8",
+    "wiki/activations/kronos-vulcanus-equals-hades.md": "924cccd59f42f8cea4e169a2c58c8feccf68abed78ae62baaf61c62a23b606ba",
+    "wiki/activations/kronos-vulcanus-equals-jupiter.md": "fc5db7756b74e69de3a302e87c3723b889c30fac2cf3c68d332053300805655f",
+    "wiki/activations/kronos-vulcanus-equals-mars.md": "28cb41140f1fea9c340d6ae64812b202e83fb3d84a429f9c06b7828bcdf3fc52",
+    "wiki/activations/kronos-vulcanus-equals-mc.md": "8be05da50d1be36afc65433c075450f0b13cf6085babd1fbb691b7abb107982b",
+    "wiki/activations/kronos-vulcanus-equals-mercury.md": "d180c077429949717a961540da34a82069f4d42b442dd058b7188dc9ca7e3db9",
+    "wiki/activations/kronos-vulcanus-equals-moon.md": "3c5a8b64dd424b452a1216f07807e99586b40530e8dbc11940ac1922c07df63c",
+    "wiki/activations/kronos-vulcanus-equals-neptune.md": "e75b5011d81de9814daa5e42d36e49f681cba270c0453a7ffb43bc507fa3b4cc",
+    "wiki/activations/kronos-vulcanus-equals-node.md": "858110756542fe077529be506aeb5bd474c45df10ee536bb36e1163215ab9958",
+    "wiki/activations/kronos-vulcanus-equals-pluto.md": "b24aac53876bb39fcb54dcd1cf15e769c883c2ac2a11951218944350394fd4ee",
+    "wiki/activations/kronos-vulcanus-equals-poseidon.md": "0c9b200742fcd147f19b695ac60868df1855a96cef9cdff20236e43d501f65cd",
+    "wiki/activations/kronos-vulcanus-equals-saturn.md": "42c5e933800b3e91f0e479750c189dfea7838814e83781c0a85192706403258b",
+    "wiki/activations/kronos-vulcanus-equals-sun.md": "2579ed3d17f5f5d39f6bc91b754a0ba1598858a5184ffba3071951a4c901afb2",
+    "wiki/activations/kronos-vulcanus-equals-uranus.md": "fa8ee2e90b8102ec00a6c1a453b9fd5344e9f90b890ebfdbc952cf37e91299d3",
+    "wiki/activations/kronos-vulcanus-equals-venus.md": "27b85d3ea4a9ba2e5b61a606b55c30990fca3d571a7601e7d65c9bda9fb24135",
+    "wiki/activations/kronos-vulcanus-equals-vernal-point.md": "dfbe10e59026e24721ca64c20bba1268526fd14ff742febb23367cffa9f15900",
+    "wiki/activations/kronos-vulcanus-equals-zeus.md": "4f6ddf04d2b1dcb2ca4b319df2eed8dcbd21154ef1a61c13d9e92ea295c9b632",
+    "wiki/activations/mars-admetos-equals-apollon.md": "7f1512e3817e063e6652ea16da1aa7737f9a935089d35929ceb358519be1ae5f",
+    "wiki/activations/mars-admetos-equals-asc.md": "12d7c19c501cf657c080f9bf33140972d8987d0121c350df9c055a5f6d433469",
+    "wiki/activations/mars-admetos-equals-cupido.md": "fb0632659e9bdcb829a571ee5e329aeb6da11197e378506cc38aa6d19d7c3aa4",
+    "wiki/activations/mars-admetos-equals-hades.md": "8662b4ca64e1fe32622f1c49cf8255fd89d8679bddf36ba949d316fcba4d96ce",
+    "wiki/activations/mars-admetos-equals-jupiter.md": "d03af4c9a4c06987bbaf8f2fd6b8d5f0912474d6086588937142fb20afb9f025",
+    "wiki/activations/mars-admetos-equals-kronos.md": "b63a2d63d09274dd8a98ad657e6d2a791a997d3316d8f13d551351898365ce5c",
+    "wiki/activations/mars-admetos-equals-mc.md": "a3de603fe09a9710e7b31e0a19ac67308f9858ad48a5437efa6e95ad868167c8",
+    "wiki/activations/mars-admetos-equals-mercury.md": "71fe35e32ab1f2526440d5c7ee500186bac66deeb6d759943be643f2838e4c9d",
+    "wiki/activations/mars-admetos-equals-moon.md": "d8c956e9b1e50c030817ccfd77225f22cdaab78646bbffcfbd56efb7955cf639",
+    "wiki/activations/mars-admetos-equals-neptune.md": "b9a0bf76145999d259cef874a81c0fe1db1f25dc283c90bf0e2bbb861c589240",
+    "wiki/activations/mars-admetos-equals-node.md": "a241bc646f0b2afa3b787485b827de0ff3fac98317dc296f65f9c0f66f2daf1f",
+    "wiki/activations/mars-admetos-equals-pluto.md": "ffbf91ac5625fdea176a69b1c58988e6f4adffd5239c206f5a1cfeb6ec3f447e",
+    "wiki/activations/mars-admetos-equals-poseidon.md": "c5c4dd8d3e6a7a962541ab1a215b75c4c3c70df520abe45c5cc6855e86ab0042",
+    "wiki/activations/mars-admetos-equals-saturn.md": "c611381533e2e2dc7e498891ae6fed11a38db22fdd4296c77b76d9dac808d721",
+    "wiki/activations/mars-admetos-equals-sun.md": "d06c39ccc862de3f6c10a1ea56c7371a5367dfb940a01d9047227786b6bb7029",
+    "wiki/activations/mars-admetos-equals-uranus.md": "d02744ca9601f98cd9d134fadf332db34ac72d00d617c9e81ac6f172bc8fe24f",
+    "wiki/activations/mars-admetos-equals-venus.md": "fd82abd7e63c36fd387d33466541f2eed61a3f59ef1ec965cb64338de9d8d374"
+  },
+  "unresolved": [
+    {
+      "path": "wiki/activations/mars-admetos-equals-saturn.md",
+      "issues": [
+        "Witte PDF202 exact scanned Saturn wording 'Spreading work' gives no further explanation of its intended sense. Preserved literally; excluded specific distribution, exhaustion, or attrition inferences."
+      ]
+    }
+  ],
+  "artifact_sha256": {
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl": "69434e7cf280842b3b861e98ee9f86e5d5c4dca3e60af9a5ed3edf8e9bbc83c0",
+    "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-source-repairs.jsonl": "444a52da6553c5e3bed4123d8bb954a98352167779540945a1358967564f7b4f"
+  },
+  "scoped_git_diff_check": {
+    "exitCode": 0,
+    "stdout": "",
+    "stderr": "",
+    "timedOut": false
+  },
+  "scope_note": "All 55 pages read completely; base axes and relevant manifest/evidence/known-issues records read. Actual full diffs inspected in bounded batches. No global checks or approvals claimed."
+}

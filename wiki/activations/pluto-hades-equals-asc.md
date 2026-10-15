@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Hades](../axes/pluto-hades.md)
 - Triad hub: [Pluto Asc Hades](../triads/pluto-asc-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 258 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Others withdraw from an association because of inability. Dealing with people wh
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 410; PDF page 204.
+
 #### ABC Entry
 
-Developments from the past of a place, difficult environmental development, poor partner development, adverse changes in the place, change of partner in old age, hidden change of partner bcim, and renunciation of local changes
+Developments from the past of a place, difficult environmental development, deficient partner development, adverse changes at the location, a change of partner in old age, hidden change in the partner, forgoing changes of place.
+
+## Comparative Schema
+
+- core meaning: Difficult change in immediate relations and surroundings.
+- psychology: Inability to cope is Witte's attributed description, not an identity judgment.
+- body/health: No specific bodily or health condition is supplied.
+- social/relationship: Others may withdraw from an association when difficulties overwhelm them.
+- events/manifestations: Adverse local change or partner adjustment in old age.
+- conflicts/notes: ABC distinguishes a hidden change in the partner from a change of partner in old age.
+
+## Contradictions
+
+Witte stresses the people encountered and their withdrawal; ABC stresses difficult local and partner changes. These do not establish that every association fails.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Hades = Asc`: others withdraw from an association because of inability.
-- Practical expression: developments from the past of a place, difficult environmental development, poor partner development, adverse changes in the place, and change of partner in old age.
+Asc specifies Pluto/Hades through difficult developments involving other people or the immediate environment. The [Witte entry](#witte-entry) describes dealing with people unable to cope who may withdraw from an association. [ABC](#abc-entry) adds adverse local changes and poor partner development, including changes connected with a place's past. The reading concerns strain in these circumstances, without turning Witte's harsh wording into a fixed judgment of a person.
 
 ## Links
 

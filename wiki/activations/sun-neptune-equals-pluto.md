@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Pluto`
 - Astronomicon formula: `S/Y = Z`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ The development of susceptibility of the body. Unnoticed changes inside the body
 
 #### ABC Entry
 
-Exchangeable development of a person, development of body gills, insecure personal development, personal future development, weak personal development, growing personal sensitivity, and growing personal insecurity
+Source locator: printed page 155 / PDF page 76, Pluto glyph under Sonne + Neptun. English translation checked against the complete row.
+
+A person's disappointing development, development of bodily poisons, insecure personal development, personal development of the future, weak personal development, growing personal sensitivity, and growing personal uncertainty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Affliction through emotional or physical suffering, an extremely high sensitivit
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Pluto entry under Planets activating the Sun/Neptune midpoint.
 
 Unrelenting psychic sensitivity whose purpose is to bring transformation into one’s life. Obsessiveness which may have a weakening effect on one’s vitality. One feels intensely the importance of all the hidden energies at work in life, and needs to contact those and work with them as a means of furthering one’s evolution.
 
@@ -70,22 +76,21 @@ Using creative visualization techniques to bring damage or harm to others; troub
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Heightened sensitivity developing into change, insecurity, or obsession.
+- psychology: Intense attention to hidden energies; idealizing people can obscure judgment.
+- body/health: Witte's unnoticed bodily changes, Ebertin's suffering and ABC's bodily poisons remain attributed claims.
+- social/relationship: Munkasey describes harm or trouble through idealization, self-centeredness, or greed.
+- events/manifestations: Transformative inner work or reverses caused by lack of clarity.
+- conflicts/notes: ABC's growing sensitivity and uncertainty are distinct developmental examples, without establishing an inevitable crisis.
 
 ## Contradictions
 
-- None recorded yet.
+- Transformative sensitivity and harmful idealization are different applications. ABC names both disappointing development and growing sensitivity; these do not establish a single outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Pluto`: transformative psychic awareness, penetrating contact with subtle realities, and crises that force the native to change relationship to dream, weakness, and illusion. Main caution: extremity: obsession, deception, or emotional and bodily strain can become consuming.
+Pluto specifies the Sun/Neptune axis as sensitivity that becomes persistent enough to change one's life, or consuming enough to weaken clarity. [Sandbach Entry](#sandbach-entry) connects unrelenting sensitivity with transformation and possible obsession; [Munkasey Entry](#munkasey-entry) shows how idealizing people or situations can lead to trouble. The bodily-change and suffering descriptions in [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) remain source claims, not inevitable consequences.
 
 ## Links
 

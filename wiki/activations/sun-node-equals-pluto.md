@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = Pluto`
 - Astronomicon formula: `S/g = Z`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 102, Pluto entry under Sun + Nodes.
+
 Contacts with like-minded people concerning diet. New connections. Changes in connections or relationships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+Source locator: printed page 141 / PDF page 69, Pluto glyph row under Sun + Node.
 
 development of a personal connection, change of a bodily connection, connection to a center of development, growing personal relationships, and changing personal connections
 
@@ -51,11 +57,19 @@ development of a personal connection, change of a bodily connection, connection 
 
 #### Ebertin Entry
 
-Urge to use compulsion with others. Desire to exercise influence over the masses. 17 Sun/Node = Pluto can be interpreted as "bound up with a mass destiny," e.g., in the case of natural disasters, war or emergency measures.
+Source locator: printed page 105 / PDF page 107, entry 0299 and its footnote 17 under Sun/Dragon's Head.
+
+Urge to use compulsion with others. Desire to exercise influence over the masses.
+
+#### Source Footnote 17
+
+Sun/Node = Pluto can be interpreted as "bound up with a mass destiny," e.g., in the case of natural disasters, war or emergency measures.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 22, Pluto entry under Sun/Node.
 
 To be arrogant in dealing with other people. The ability to help others to focus ever more deeply on a commonly held purpose. Tremendous difficulty in letting go of the past because one has convinced oneself of how important it is.
 
@@ -70,22 +84,21 @@ The power you acquire from associating with the right people; concealing your ti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Developing or changing connections, including ties through which influence is concentrated.
+- psychology: Focus on common purpose, arrogance or compulsion, and difficulty letting go of the past.
+- body/health: Bodily relationships and diet-related contacts are named without a health outcome.
+- social/relationship: New or changing bonds, like-minded people, influential groups and concealed associations.
+- events/manifestations: Developing connections and secret meetings about power; Ebertin's footnote gives collective-crisis examples.
+- conflicts/notes: Ordinary development differs from coercion or mass involvement; the historical footnote supplies no disaster or war forecast.
 
 ## Contradictions
 
-- None recorded yet.
+ABC and Witte emphasize development and changing ties. Ebertin and Munkasey emphasize influence or concealed power, while Sandbach includes both deeper common purpose and arrogance or attachment to the past. These different levels of intensity are not one compulsory outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = Pluto`: powerful group impact, transformative new connections, and the ability to focus others on a common purpose with unusual force. Main caution: coercion: influence can turn arrogant, compulsive, or entangled with group crisis, control, or mass pressure.
+In `Sun/Node = Pluto`, Pluto specifies the Sun/Node pair through connections that develop, change or become a means of concentrated influence. [Witte](#witte-entry) and [ABC](#abc-entry) give new, growing and changing relationships; [Sandbach](#sandbach-entry) adds the ability to deepen a common purpose alongside arrogance and difficulty releasing the past. [Ebertin](#ebertin-entry) describes compulsion and mass influence, while [Munkasey](#munkasey-entry) includes concealed alliances and meetings where power is divided. The shared field is the changing force of association, ranging from personal development to coercive or collective involvement. [Ebertin's footnote](#source-footnote-17) remains an attributed historical interpretation, without making collective crisis a required outcome.
 
 ## Links
 

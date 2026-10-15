@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Neptune Zeus`
 - Astronomicon triad-set: `Q Y £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Zeus = Venus](../activations/neptune-zeus-equals-venus.md)
-- [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md)
-- [Venus/Zeus = Neptune](../activations/venus-zeus-equals-neptune.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Zeus = Venus](../activations/neptune-zeus-equals-venus.md) | [Neptune/Zeus](../axes/neptune-zeus.md) | [Venus](../factors/venus.md) |
+| [Venus/Neptune = Zeus](../activations/venus-neptune-equals-zeus.md) | [Venus/Neptune](../axes/venus-neptune.md) | [Zeus](../factors/zeus.md) |
+| [Venus/Zeus = Neptune](../activations/venus-zeus-equals-neptune.md) | [Venus/Zeus](../axes/venus-zeus.md) | [Neptune](../factors/neptune.md) |
 
 ## Source Coverage
 
-- `Neptune/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `396`
-- `Venus/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `279`
-- `Venus/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `287`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Zeus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-zeus-equals-venus.md#witte-entry), one-based PDF entry-start p. `249`.
+- `Neptune/Zeus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-zeus-equals-venus.md#abc-entry), printed p. `396`.
+- `Venus/Neptune = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-zeus.md#witte-entry), one-based PDF entry-start p. `180`.
+- `Venus/Neptune = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-zeus.md#abc-entry), printed p. `279`.
+- `Venus/Zeus = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-zeus-equals-neptune.md#witte-entry), one-based PDF entry-start p. `184`.
+- `Venus/Zeus = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-zeus-equals-neptune.md#abc-entry), printed p. `287`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Venus`: Pleasure, love, or fertility is touched by dissolution and loss, pointing to unhappy affection, broken continuation, or damage to reproduction.
-- `Venus/Neptune = Zeus`: inherited blood diseases.
-- `Venus/Zeus = Neptune`: no ambition or desire.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

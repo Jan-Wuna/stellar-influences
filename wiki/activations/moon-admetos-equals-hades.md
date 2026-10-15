@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Hades Admetos](../triads/moon-hades-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ The hours without hope. People lack space and raw materials. People without a ba
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 203; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-Blockades caused by the lack of peace, the deprivation of a woman in the past, the circulatory system of a woman, the criminal suppression of a woman, the lack of a woman's firmness, the need for Gemtits depression, and the deepening of a woman in the past
+German passage (transcribed from PDF page `100`, printed page `203`):
+
+> Blockaden durch Gefühls-Mangel, Entbehrungen einer Frau in der Vergangenheit, Kreislauf-Kummer einer Frau, kriminelle Unterdrückung einer Frau, Mangel einer Frau an Festigkeit, Not durch Gemüts-Depressionen, Vertiefung einer Frau in die Vergangenheit
+
+Editorial translation from the German passage: Blockages through lack of feeling; a woman's past deprivation; a woman's circulatory distress; criminal suppression of a woman; a woman's lack of firmness; distress through depressed moods; a woman's absorption in the past.
+
+## Comparative Schema
+
+- core meaning: Constricted life conditions become severe deprivation.
+- psychology: Hopelessness is Witte's stated emotional example.
+- body/health: ABC's circulatory distress and depressed-mood distress remain historical attributed claims.
+- social/relationship: Suppression of a woman and a people lacking living space are separate examples.
+- events/manifestations: Lack of raw materials and a basis for life are concrete Witte settings.
+- conflicts/notes: Lack of feeling, past absorption and literal deprivation are distinct examples.
+
+## Contradictions
+
+The sources share severe restriction and deprivation. ABC's emotional and circulatory examples extend this range without making every limitation a bodily condition.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Hades`: The hours without hope. People lack space and raw materials. People without a basis for life.
-- Practical expression: blockades caused by the lack of peace, the deprivation of a woman in the past, the circulatory system of a woman, the criminal suppression of a woman, and the lack of a woman's firmness.
+In `Moon/Admetos = Hades`, Hades specifies the axis through severe deprivation and lack of a sustaining basis. [Witte](#witte-entry) names hopeless hours, insufficient space and raw materials; [ABC](#abc-entry) examples add past deprivation and suppression of a woman. These severe historical associations remain bounded source claims, without predicting hopelessness or diagnosing depression.
 
 ## Links
 

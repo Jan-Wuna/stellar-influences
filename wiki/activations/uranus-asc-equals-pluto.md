@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Pluto`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = Z`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Uranus Pluto Asc](../triads/uranus-pluto-asc.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 Sudden new acquaintances. Surprising changes in or of the place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 117; PDF p. 57.
+
 #### ABC Entry
 
-Development of tensions with other, ncue partner development, sudden changes in the environment, reform development for the environment, environmental technology develop, and restless development of a place
+Development of tensions with others, new partner development, a surprising change of partner, sudden changes in the surroundings, development of reform for the surroundings, developing environmental technology, restless development of a location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 276; PDF p. 278; entry code `0983`.
 
 #### Ebertin Entry
 
 Desire to attain success even under the most difficult circumstances, use of force.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ May lower you in the opinion of others who already think you are too unconventio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 117; PDF p. 57), [Ebertin](#ebertin-entry) (p. 276, entry 0983), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Abrupt changes in contacts or surroundings acquire a forceful, sometimes power-seeking expression.
+- psychology: Determination under difficulty and a wish to catch others off guard are explicit.
+- body/health: Munkasey's "morbid outcomes" is unspecified and does not establish a diagnosis.
+- social/relationship: Surprising others can assert power or lower their opinion of unconventional behavior.
+- events/manifestations: New acquaintances, changes of place, and eliminating disliked habits are named.
+- conflicts/notes: Ordinary changes of acquaintance are not equivalent to deliberate shock tactics.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from changes of place or partner to deliberate use of surprise for power. These describe different expressions, not an inevitable progression. Munkasey's unspecified "morbid outcomes" is retained without expansion into a concrete event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Pluto`: strong impact, uncompromising authenticity, and the ability to alter the field around oneself quickly and deeply. Main caution: extremity: power struggles, shock tactics, or obsessive independence can isolate or destabilize the person.
+Pluto specifies Uranus/Asc as forceful change in contact and surroundings, ranging from sudden new acquaintances to the deliberate use of surprise to gain power over others. Determination can persist through difficulty, but an extreme or conspicuously unconventional manner may also lower others' regard; changing habits they dislike is another stated possibility. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

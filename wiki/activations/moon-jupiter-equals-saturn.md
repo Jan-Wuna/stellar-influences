@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Jupiter = Saturn`
 - Astronomicon formula: `R/V = W`
@@ -39,17 +41,25 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source reference: printed page `129`, PDF page `125`, `MOON + JUPITER`, Saturn row.
+
 Saddening of happy moments. A woman separated from happiness. Girls whose betrothal has been broken off. To be separated from the mother. The successful hour of separation (birth).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-serious rieving woman, financial burdens of a people, money losses of a woman, stored mother G!Uck, problematic women's right, legal problems of a people, hour of success through patience, loss of a successful woman, and satisfied woman in old age
+Source reference: printed page `183`, PDF page `90`, `Mond + Jupiter`, Saturn row.
+
+Source wording: "Ernste reife Frau, finanzielle Belastungen eines Volkes, Geld-Verluste einer Frau, gestörtes Mutter-Glück, problematisches Frauen-Recht, Rechts-Probleme eines Volkes, Stunde des Erfolges durch Geduld, Verluste einer erfolgreichen Frau, zufriedene Frau im Alter".
+
+Editorial translation, checked against the scan: A serious, mature woman; a people's financial burdens; a woman's monetary losses; disturbed maternal happiness; problematic women's rights; a people's legal problems; an hour of success through patience; a successful woman's losses; a woman content in old age.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source reference: printed page `123`, PDF page `125`, entry `0367`.
 
 Indifference, negligence, injustice, inner conflict. Inability to be happy, social disadvantages or injuries, cut off from happiness, separation from wife. Successes with and through old people. Diseases of the liver and gall bladder.
 
@@ -57,12 +67,14 @@ Indifference, negligence, injustice, inner conflict. Inability to be happy, soci
 
 #### Sandbach Entry
 
+Source reference: PDF page `30`, Saturn under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`.
+
 Having much feeling, but tending to hold it back, maybe out of fear or because one feels one will receive back disapproval. Fears which manifest as an over concern for the security of oneself and one’s loved ones. The fear of being overwhelmed, or of overwhelming others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/JUPITER with Planets and Points`
-- Source page: `116`
+- Source page: printed `116`, PDF page `117`, `Sat` row.
 
 #### Munkasey Entry
 
@@ -70,22 +82,23 @@ Thinking more deeply about the religious and philosophical ideas of people; adde
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Happiness and emotional abundance encounter separation, inhibition, or burdens; patience and age also have supported favorable expressions.
+- psychology: Held-back feeling, fear of disapproval or overwhelm, inner conflict, and lasting emotional misconceptions; Munkasey also names deeper philosophical or religious reflection.
+- body/health: Ebertin's liver and gall-bladder disease claim remains attributed historical doctrine. Witte's birth example is his specific successful separation, not a diagnosis or birth prediction.
+- social/relationship: Broken betrothal, separation from wife or mother, and concern about family security; Ebertin also names success with and through older people.
+- events/manifestations: Financial burdens and losses, legal problems, disturbed maternal happiness, short spurts of luck, and success through patience or contentment in old age.
+- conflicts/notes: The unfavorable range is prominent but not exclusive. Witte's successful birth-separation and ABC's success through patience must remain distinct from the other loss examples.
 
 ## Contradictions
 
-- None recorded yet.
+The sources emphasize inhibited or interrupted happiness, but retain success through patience, older people, or a particular separation. These favorable clauses qualify the range without cancelling the adverse claims. ABC's former "rieving", "stored mother G!Uck" and singular loss wording were translation damage; the actual row names maturity, disturbed maternal happiness, and a successful woman's losses.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Jupiter = Saturn`: dependable support, disciplined care, and the ability to preserve good feeling through patience and structure. Main caution: constrained optimism: heaviness or caution can shrink emotional openness before it has room to act.
+In `Moon/Jupiter = Saturn`, the [pair's happiness and emotional breadth](../axes/moon-jupiter.md#derived-synthesis) meet restraint, separation, or burdens. Witte describes saddened happy moments and broken attachments; Ebertin includes difficulty being happy and social disadvantage. Sandbach explains a more inward form: much feeling is present but held back through fear of disapproval, insecurity, or overwhelm. Munkasey's concern for family security connects that inhibition with the needs of loved ones. ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry))
+
+The range also includes serious reflection, success through patience, success with older people, and contentment in old age. Witte even names birth as a successful separation. These specific favorable expressions sit alongside the financial, legal, and emotional difficulties. ([Munkasey](#munkasey-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Witte](#witte-entry))
 
 ## Links
 

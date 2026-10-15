@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury MC](../triads/sun-mercury-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 The concept of the ego. The type of mind. The desire to appear young.
 
+Source locator: PDF p. 103, Sun/Mercury, MC entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports on the seas of man en, accommodating body language, accommodating personal language, my body in youth, my body movements, my personal youth, my personal opinion, and my language in the day
+Reports about a person's soul, soulful body language, soulful personal conversations, my body in youth, my bodily movements, my personal youth, my personal opinion, and my conversations during the day.
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, MC entry. Translation checked against the German row; Seele is soul and beseelt is rendered as soulful.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Reports on the seas of man en, accommodating body language, accommodating person
 
 Ego-conscious thinking, tendency to develop one's own mental concepts, ability to stand by one's own convictions and to speak up for oneself. Intellectual worker, business person.
 
+Source locator: printed p. 82, coded entry 0205.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The desire to make one’s ideas public. The need to align one’s ideas and thinking with one’s spiritual purpose. The desire for one’s own personal ideas to have authority and credibility in the world. One is working in this lifetime toward attaining confidence in communicating.
+
+Source locator: PDF p. 10, Sun/Mercury, complete Midheaven entry at the top of the page.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Communicating effectively and clearly to enhance your standing among others; stu
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: One's own ideas, convictions and inner life made conscious and communicated.
+- psychology: Ego-conscious thought, personal opinion and developing confidence in expression.
+- body/health: Body language, movement and youthful appearance are named without a health assessment.
+- social/relationship: Speaking for oneself and seeking effective communication, standing or credibility among others.
+- events/manifestations: Publicizing ideas, studying language or speech, and clarifying plans toward goals.
+- conflicts/notes: Desired authority or credibility does not establish an idea's truth; spiritual-purpose language remains Sandbach's framework.
 
 ## Contradictions
 
-- None recorded yet.
+The entries connect personal thought with expression and self-understanding. Sandbach adds spiritual alignment and confidence, while Munkasey specifies practical communication study and clearer plans. Witte and ABC retain body, youth and inner-life meanings beyond professional standing alone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = MC`: publicizing ideas, standing by convictions, and building reputation through mental competence and articulated viewpoint. Main caution: self-importance: thought can become too identified with status, credibility, or the need to appear mentally superior.
+`Sun/Mercury = MC` makes thought and communication personally owned: one's concepts, convictions and way of expressing them. [Witte](#witte-entry) names the concept of ego and type of mind; [ABC](#abc-entry) adds personal opinion and conversations linked with body and inner life. [Ebertin](#ebertin-entry) emphasizes developing one's concepts and speaking for oneself. [Sandbach](#sandbach-entry) connects public ideas with spiritual purpose and confidence, while [Munkasey](#munkasey-entry) gives communication study and clearer plans as practical forms. The emphasis is expressing a personally meaningful viewpoint effectively; seeking credibility does not itself make that viewpoint authoritative or true.
 
 ## Links
 

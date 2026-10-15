@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Mercury = Zeus`
 - Astronomicon formula: `R/T = £`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `122` (entry; one-based).
+
 #### Witte Entry
 
 Youth or nation under compulsion. To grasp a thought quickly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `177`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Movable creative woman, fiery skills of youth, achievements of the youth of a people, opinion of the woman on procreation, opinions of the people FUhrung, news about womenServices, creative women language, and female youth FUhrung
+Mobile creative woman, fiery feelings of youth, achievements of the youth of a people, a woman's opinion on procreation, opinions of the people's leadership, news about women's achievements, creative women's conversations, and female youth leadership
+
+## Comparative Schema
+
+- core meaning: quick mental grasp and directed or compelled youth activity ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Witte names grasping a thought quickly; ABC includes fiery feelings in youth.
+- body/health: No bodily or health condition is stated; procreation appears as a topic of opinion.
+- social/relationship: youth leadership, a creative woman, and a nation under compulsion are examples.
+- events/manifestations: youth achievements, news of women's achievements, and creative conversation are named.
+- conflicts/notes: creative achievement and compulsion are different possibilities; urgency is not stated as their necessary cause.
+
+## Contradictions
+
+No direct contradiction is stated. Witte describes compulsion and quick comprehension; ABC adds creative achievement and leadership. Neither entry requires all these expressions to occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Mercury = Zeus`: Youth or nation under compulsion. To grasp a thought quickly.
-- Practical focus: sharpens `Moon/Mercury` through compulsion, quick mental grasp, and pressured youth or collective thought. It can show emotional ideas seized rapidly under stress or urgency, making the mind more reactive, driven, and fast to formulate or execute intent.
-- Practical expression: movable creative woman, fiery skills of youth, achievements of the youth of a people, opinion of the woman on procreation, and opinions of the people FUhrung.
+In Moon/Mercury = Zeus, Zeus specifies the Moon/Mercury pair through thoughts grasped quickly and youth or collective activity shaped by compulsion or creative direction. The [Witte entry](#witte-entry) explicitly joins a youth or nation under compulsion with quick comprehension. The [ABC entry](#abc-entry) gives a broader creative and leadership range: fiery youthful feelings, achievements, creative women's conversations, opinions about procreation, and female youth leadership (printed p. 177, PDF p. 87). These entries support directed mental and social activity without making stress or reactive behavior a universal explanation.
 
 ## Links
 

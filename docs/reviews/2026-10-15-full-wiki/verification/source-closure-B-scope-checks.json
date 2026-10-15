@@ -1,0 +1,692 @@
+[
+  {
+    "path": "wiki/activations/mc-apollon-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-cupido.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-hades.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-moon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-asc-equals-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-asc-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-hades.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-kronos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mars.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-moon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-apollon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-cupido.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-kronos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-moon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-hades.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-kronos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-cupido-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-admetos.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-apollon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-cupido.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-hades-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-poseidon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-vulcanus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-admetos-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-kronos-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mc-mc-equals-poseidon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-admetos-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-apollon-equals-moon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-kronos-equals-apollon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-mars-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-mars-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-asc.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-moon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-venus-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-vulcanus-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/mercury-zeus-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-admetos-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-asc-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-poseidon.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-sun.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-saturn.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-zeus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-mars-equals-venus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-node.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-vernal-point.md",
+    "errors": [],
+    "outcome": "changed"
+  }
+]

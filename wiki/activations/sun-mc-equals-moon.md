@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Moon MC](../triads/sun-moon-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Ones personal attitude toward women. One’s own mind. To represent oneself to the public with heart and soul.
 
+Source locator: PDF p. 59, Meridian + Sun, Moon entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-The man's wife, the woman's husband, my wife's body, my husband's body, the man's soul, the woman's body and soul, my body's body, my personal belongings, the hour and the minute of the day, and the centre of my people
+A man's soulful woman, a woman's soulful man, my wife's body, my husband's feelings, a man's feeling soul, a woman's body and soul, my bodily feeling, my personal feelings, the hour and minute of the day, and the center of my people.
+
+Source locator: printed p. 62, PDF p. 30, Sun/MC, Moon entry. Translation checked against the German row; beseelt is rendered as soulful, and the feeling clauses retain Gefühl rather than body or property.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ The man's wife, the woman's husband, my wife's body, my husband's body, the man'
 
 Subconscious stirrings, an instinctively right understanding of life's aims. The "I" in relation to the "Thou," attitude to the other sex, the recognition of the "Thou" in oneself.
 
+Source locator: printed p. 111, coded entry 0315.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The emotional need to feel that one’s work is important and/or that one is adept at doing it, and to feel that one has a meaningful relationship to the world at large. To feel vulnerable about how good a job one is doing and/or feeling vulnerable when placed in a position of leadership or importance. An instinctive understanding of what one’s life purpose is, which negatively could be colored by emotional dysfunctions but positively will be clear as long as one will listen to and follow one’s true feelings.
+
+Source locator: PDF p. 24, Sun/Midheaven, complete Moon entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Fears about what to do or how to become recognized for your contributions; under
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal direction experienced through feelings and close relations.
+- psychology: Instinctive purpose alongside vulnerability about one’s contribution.
+- body/health: ABC names bodily feeling and body/soul relations without a diagnosis.
+- social/relationship: Family influence, relationship to others, and public self-expression.
+- events/manifestations: Seeking meaningful work or presenting oneself wholeheartedly.
+- conflicts/notes: Instinctive purpose and emotional vulnerability coexist; sex-specific categories remain attributed, while Munkasey explicitly includes equality.
 
 ## Contradictions
 
-- None recorded yet.
+Instinctive understanding and vulnerability are complementary possibilities in the entries. Historical sex-specific statements remain attributed; Munkasey explicitly includes equality across family, social, and business life. ABC's bodily feeling and the sources' soul language supply no precise medical conclusion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Moon`: instinctive understanding of one's path, emotionally resonant leadership, and the need to feel that work or role truly matters. Main caution: vulnerability: emotional dysfunction, insecurity, or dependence on response from others can cloud direction.
+In `Sun/MC = Moon`, Moon specifies Sun/MC personal direction through feeling and the need for a meaningful relation to the world. The [Sandbach Entry](#sandbach-entry) pairs an instinctive sense of purpose with vulnerability about competence or leadership; the [Ebertin Entry](#ebertin-entry) connects personal aims with recognition of the other person within oneself. The [Munkasey Entry](#munkasey-entry) adds family influence, equality and uncertainty about recognition. [Witte](#witte-entry) gives wholehearted public self-expression, while [ABC](#abc-entry) retains personal and bodily feelings within close relationships. The pattern concerns how purpose feels and how relationships shape it, without assuming that emotional sensitivity guarantees leadership.
 
 ## Links
 

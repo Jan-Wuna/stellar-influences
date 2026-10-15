@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Saturn`
 - Astronomicon formula: `VP/¡ = W`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ Separations in associations. Divorces. Disconnections in groups or companies.
 
 tasks of an artistic community, shared concentration on the public, shared public tasks, shared damage in public, problems of a public community, and losses of a community in public
 
+## Comparative Schema
+
+- Core meaning: Public associations facing separation, tasks, or losses.
+- Psychology: Shared concentration on public matters.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Divorce and disconnection within groups or companies.
+- Events/manifestations: Public duties, community problems, shared damage, and losses.
+- Conflicts/notes: Joint tasks do not necessarily cause the stated separations.
+
+## Contradictions
+
+Continuing to perform tasks and experiencing separation are different possibilities; no entry says that all public duty ends in dissolution.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Saturn`: separations in associations, divorces, and disconnections in groups or companies.
-- Practical expression: tasks of an artistic community, shared concentration on the public, shared public tasks, shared damage in public, and problems of a public community.
+Saturn specifies `Vernal Point/Cupido` through demands or losses borne within public association. Shared tasks and concentration on public matters stand beside damage, community problems, and the Witte examples of divorce or disconnection in groups and companies. The entries support both burdens carried together and relationships that separate, without making one the inevitable result of the other. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 45 / PDF p. 21.)
 
 ## Links
 

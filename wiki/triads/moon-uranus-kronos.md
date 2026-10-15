@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Kronos`
 - Astronomicon triad-set: `R X ¤`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Kronos = Uranus](../activations/moon-kronos-equals-uranus.md)
-- [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md)
-- [Uranus/Kronos = Moon](../activations/uranus-kronos-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Kronos = Uranus](../activations/moon-kronos-equals-uranus.md) | [Moon/Kronos](../axes/moon-kronos.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Kronos](../factors/kronos.md) |
+| [Uranus/Kronos = Moon](../activations/uranus-kronos-equals-moon.md) | [Uranus/Kronos](../axes/uranus-kronos.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `199`
-- `Moon/Uranus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `380`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Kronos = Uranus](../activations/moon-kronos-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-kronos-equals-uranus.md#witte-entry) (PDF p. 133); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-kronos-equals-uranus.md#abc-entry) (printed p. 199) |
+| [Moon/Uranus = Kronos](../activations/moon-uranus-equals-kronos.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-kronos.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-kronos.md#abc-entry) (printed p. 187) |
+| [Uranus/Kronos = Moon](../activations/uranus-kronos-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-kronos-equals-moon.md#witte-entry) (PDF p. 239); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-kronos-equals-moon.md#abc-entry) (printed p. 380) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos = Uranus`: Leading women act suddenly. Officials or boards interfere surprisingly.
-- `Moon/Uranus = Kronos`: This activation elevates `Moon/Uranus` through commanding disruption and authority-driven excitation. It favors leaders, high-impact events, and public arousal stirred from above, making instability more directive, organized, and politically consequential.
+`Moon Uranus Kronos` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

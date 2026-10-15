@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Pluto Cupido Admetos](../triads/pluto-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 Changes in the social or family relations.
 
@@ -42,13 +46,27 @@ Changes in the social or family relations.
 
 #### ABC Entry
 
-Development of perseverance in of a community, blocked development in of a community, development of a consolidated community, joint profound changes, grim change in of a community, and growing depression in of a community
+- Source page: 419 (printed); PDF page: 208 (one-based; exact row checked).
+
+Developing perseverance within a community, blocked development within a community, unfolding of a consolidated community, shared profound changes, thorough change within a community, growing depressions within a community.
+
+## Comparative Schema
+
+- core meaning: deep change in family, social relations or a community's development.
+- psychology: collective perseverance and the source's growing depressions.
+- body/health: community depression is historical source wording, not a diagnosis of members.
+- social/relationship: family relations and communities undergoing consolidation or blocked development.
+- events/manifestations: shared profound change and a community becoming more firmly established.
+- conflicts/notes: Consolidation and blocked growth are different possible conditions; the depth of change does not determine its quality.
+
+## Contradictions
+
+Consolidation and blocked growth are different possible conditions; the depth of change does not determine its quality.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Cupido`: changes in the social or family relations.
-- Practical expression: development of perseverance in a community, blocked development in a community, development of a consolidated community, joint profound changes, and grim change in a community.
+Cupido specifies `Pluto/Admetos` through deep change in family or collective life. The [Witte entry](#witte-entry) names social and family relations; the [ABC entry](#abc-entry) develops the contrast between a community consolidating through perseverance and its growth becoming blocked. Changes can be shared and thorough without necessarily being beneficial. ABC's growing depressions within a community remains its historical characterization of a difficult collective condition.
 
 ## Links
 

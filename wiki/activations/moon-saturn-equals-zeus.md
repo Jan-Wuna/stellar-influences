@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
 - Triad hub: [Moon Saturn Zeus](../triads/moon-saturn-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,18 +40,35 @@ updated_at: 2026-05-04
 
 To be separated from the husband. Surviving wife with children. Disturbingly active.
 
+Source locator: PDF p. 126.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exhaustive efforts of a woman, fire damage for a people, patient women's support, concentrated achievements of a people, creative woman in old age, organization of evening hours, performance problems of a woman, and separation stress of women
+Enduring efforts of a woman, fire damage affecting a people, patient leadership by women, concentrated achievements of a people, creative woman in old age, shaping the evening hours, performance problems of a woman, a woman's striving for separation.
+
+Translation checked against the German scan: printed p. 185, PDF p. 91. “Ausdauernde” denotes enduring effort; “Frauen-Führung” and “Trennungs-Streben” concern leadership and striving for separation, respectively.
+
+## Comparative Schema
+
+- **Core meaning:** Persistent or disturbing activity alongside separation, concentrated achievement, or creative effort ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Endurance and concentrated effort; Witte also calls the activity disturbing.
+- **Body/health:** Neither entry supplies a bodily condition. ABC's fire damage is a disaster example, not a diagnosis.
+- **Social/relationship:** Witte names separation from a husband and a surviving wife with children; ABC adds women's leadership and a woman's wish to separate.
+- **Events/manifestations:** Sustained effort, collective achievements, performance problems, fire damage, and organization of evening hours.
+- **Conflicts/notes:** Creative effort in older age is a sourced example. The gendered family descriptions do not establish a universal role or outcome.
+
+## Contradictions
+
+The entries combine disruption and sustained achievement rather than presenting mutually exclusive claims. Separation, survival, and creative work are distinct examples; neither entry says that one must cause the others.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Saturn = Zeus`: To be separated from the husband. Surviving wife with children. Disturbingly active.
-- Practical focus: `Moon/Saturn` is energized through separation that still demands action, duty, or continued production. It can show bereaved or separated women carrying on with force, making emotional burden active, restless, and difficult to set down.
-- Practical expression: exhaustive efforts of a woman, fire damage for a people, patient women's support, concentrated achievements of a people, and creative woman in old age.
+Zeus specifies Moon/Saturn through activity that persists amid difficulty or separation. The [Witte entry](#witte-entry) places separation and a surviving wife with children beside disturbing activity; the [ABC entry](#abc-entry) adds enduring effort, concentrated achievement, and creativity in older age. Together these support a reading of sustained action under demanding circumstances, without asserting that bereavement or separation is necessary.
+
+ABC retains a wider range: leadership, performance problems, shaping the evening hours, and collective fire damage. These examples should remain distinct rather than being forced into one family narrative.
 
 ## Links
 

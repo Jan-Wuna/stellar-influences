@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Saturn`
 - Astronomicon formula: `W/g = W`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -41,22 +43,21 @@ Shortened meetings with others; lessened involvement with groups which are orien
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Reduced contact and interruption of established cooperation.
+- psychology: The entry describes rebuffs without specifying an inner response.
+- body/health: No bodily or health claim appears in this entry.
+- social/relationship: Less group involvement and rejection of ideas or work by colleagues.
+- events/manifestations: Shorter meetings and breaks in relations or procedures.
+- conflicts/notes: Reduced participation and rejection are related possibilities; no cause is specified.
 
 ## Contradictions
 
-- None recorded yet.
+This single entry gives a consistent account of diminished contact and interruption; it provides no second source for comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Saturn`: Shortened meetings with others; lessened involvement with groups which are oriented to methodical procedures; increased rebuffs received from colleagues about ideas or work; breaks in relations or procedures.
+In `Saturn/Node = Saturn`, Saturn specifies the connection through reduced participation: meetings become shorter, involvement in methodical groups lessens, and colleagues rebuff one's ideas or work. Breaks can affect either relationships or procedures, linking social withdrawal with interruption of how joint work is organized ([Munkasey](#munkasey-entry), p. 298). The entry supplies these manifestations without explaining their cause or prescribing a response.
 
 ## Links
 

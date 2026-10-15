@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Zeus = MC`
 - Astronomicon formula: `R/£ = MC`
 - Axis page: [Moon/Zeus](../axes/moon-zeus.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `132` (entry start; one-based).
+
 #### Witte Entry
 
 Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize the time for creative work. Moment of conception.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `196`, PDF p. `97` (entry).
+
 #### ABC Entry
 
-efforts of my ensouled woman, ensouled leadership of a people, leadership of my woman, achievements of my woman, leadership of my people, my creative emotional nature, my fiery woman, creative soul of the woman, and goals of my woman
+efforts of an ensouled woman, ensouled leadership of a people, leadership of my woman, achievements of my woman, leadership of my people, my creative emotional nature, my fiery woman, creative soul of the woman, and goals of my woman
+
+## Comparative Schema
+
+- core meaning: creative talent and deliberate use of time for personally significant work.
+- psychology: a fiery mental disposition, discipline, and a creative emotional nature are named.
+- body/health: Witte's moment of conception is a historical association, not evidence of fertility.
+- social/relationship: ABC gives first-person examples involving a woman's leadership, accomplishments, and goals.
+- events/manifestations: using time for creative work and leadership of a people are stated.
+- conflicts/notes: ABC's ensouled wording is preserved at its stated level without adding a mechanism or doctrine.
+
+## Contradictions
+
+Witte emphasizes disciplined creative use of time; ABC adds first-person leadership and relational examples. These differ in setting without requiring that personal creativity take a public leadership role.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus = MC`: Fiery disposition of the mind. Creative talent. Disciplined behavior. To utilize the time for creative work. Moment of conception.
-- Practical expression: efforts of my ensouled woman, ensouled leadership of a people, leadership of my woman, achievements of my woman, and leadership of my people.
+In Moon/Zeus = MC, MC specifies the pair through creative talent and disciplined use of one's time. The [Witte entry](#witte-entry) names a fiery mental disposition and time devoted to creative work; [ABC](#abc-entry) adds first-person creative feeling and examples of a woman's accomplishments, leadership, and goals (printed p. 196, PDF p. 97). Witte's moment-of-conception claim remains an attributed historical association, separate from the work and leadership themes.
 
 ## Links
 

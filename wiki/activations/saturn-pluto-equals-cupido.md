@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Cupido`
 - Astronomicon formula: `W/Z = ¡`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Slow adaptation of new circumstances, which are of long duration. Divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source page: `353`; PDF page: `175`.
+
 patient development of a community, shared development in old age, shared mature development, problematic transformation of a community, change of a community through separation, and loss filled change of a community
+
+## Comparative Schema
+
+- core meaning: Gradual adaptation and maturation within a shared life or community.
+- psychology: Patience is named; no fuller individual psychological portrait is supplied.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Joint development and community change, including separation or divorce.
+- events/manifestations: Long-lasting new circumstances, shared development in old age and losses within a community.
+- conflicts/notes: Shared maturation and painful communal change are different possible trajectories.
+
+## Contradictions
+
+Witte emphasizes adaptation and divorce; ABC includes both shared maturation and separation-driven community change. These are compatible ranges rather than an established source disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Pluto = Cupido`: slow adaptation of new circumstances, which are of long duration, divorce.
-- Practical expression: patient development of a community, shared development in old age, shared mature development, problematic transformation of a community, and change of a community through separation.
+In `Saturn/Pluto = Cupido`, Cupido specifies development in a shared setting: people adapt slowly to lasting new circumstances, and a community can mature through patient joint development ([Witte](#witte-entry), [ABC](#abc-entry)). The same shared structure may change through separation, divorce or loss. The organizing theme is gradual alteration of life together, whose outcome can be maturation or a difficult reconfiguration of the community.
 
 ## Links
 

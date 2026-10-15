@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Jupiter](../triads/vernal-point-moon-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Happiness of women. Happy populace.
 
@@ -42,13 +46,27 @@ Happiness of women. Happy populace.
 
 #### ABC Entry
 
-Financial woman in the public, Glicks in the public, Mother joy in the public, Public funds of a people, Public rights of the people, and Satisfied people in the public
+- Source page: 24; PDF page: 11 (one-based spread).
+
+A successful woman in public, a woman in finance in public, feelings of happiness in public, mothers' joys in public, public funds of a people, public rights of a people, and a contented people in public
+
+## Comparative Schema
+
+- core meaning: Happiness and material or civic benefit in public collective life.
+- psychology: Feelings of happiness and contentment are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Women's success, mothers' joys, and a happy populace.
+- events/manifestations: Public funds and public rights of a people.
+- conflicts/notes: The scan restores the omitted successful-woman clause and the damaged happiness wording.
+
+## Contradictions
+
+No direct contradiction is established. Personal success and a contented population are different scales of benefit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Jupiter`: happiness of women and happy populace.
-- Practical expression: financial woman in the public, glicks in the public, mother joy in the public, public funds of a people, and public rights of the people.
+In `Vernal Point/Moon = Jupiter`, public feeling is qualified by happiness and satisfaction. The [Witte entry](#witte-entry) names happy women and a happy populace. The restored [ABC entry](#abc-entry) links the sources' examples of women's success and mothers' joys with a people's funds, rights, and contentment. The synthesis connects felt well-being with favorable public conditions without prescribing who must experience them.
 
 ## Links
 

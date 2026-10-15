@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `201`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Generous way of acting. Peaceful, scientific or commercial activities. Successfu
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `316–317` (cached pair-spread locator; scan not checked).
+
 #### ABC Pair Summary
 
 Work in the economy, work experience, success action, peace making, business activity, commercial success, will to freedom, increase of power, scientific work, create a lot of work, and knowledge
+
+## Comparative Schema
+
+- core meaning: Work expands in scope and effectiveness, particularly in commerce, science, industry, and peaceful enterprise; see the [Pair Summary](#pair-summary).
+- psychology: Generosity in action and the will to freedom accompany practical effort in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary).
+- body/health: Neither pair entry develops a specific bodily or medical meaning; increased activity alone does not establish one.
+- social/relationship: Peacemaking and commercial or scientific cooperation are supported; intimate relationships are not separately described.
+- events/manifestations: Successful trading, a rising market, scientific work, handicraft, industry, and the enlargement of activity are explicit examples.
+- conflicts/notes: Both entries emphasize productive expansion. They do not establish market volatility, commercial disputes, or failure through overextension as meanings of this pair.
 
 ## Related Activations
 
@@ -106,8 +121,9 @@ Work in the economy, work experience, success action, peace making, business act
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon`: productive expansion: successful activity in trade, industry, science, and peaceful enterprise, with effort widening its field, markets rising, and work becoming more comprehensive and commercially or intellectually effective.
-- Chart expression: energetic growth rather than conflict for its own sake. It favors merchants, scientists, technicians, industrial activity, trade circulation, broad practical effort, and the generous or open-handed use of action to enlarge results, while its liabilities are overstretched activity, market volatility, disputes in commerce or science, and the failure of large undertakings when direction is lost.
+`Mars/Apollon` describes productive activity that widens its reach. Trade, industry, handicraft, and science give this expansion concrete forms, while generosity and peacemaking describe how action can be carried out. The [Pair Summary](#pair-summary) joins successful work with enlargement of activity and a rising market; the [ABC Pair Summary](#abc-pair-summary) adds work experience, commercial success, scientific work, and the creation of knowledge.
+
+The shared emphasis is effective, expanding work, not an assurance that any particular undertaking succeeds. These entries offer no separate negative account from which to derive volatility or overextension.
 
 ## Links
 

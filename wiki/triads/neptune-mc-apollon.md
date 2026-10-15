@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune MC Apollon`
 - Astronomicon triad-set: `Y MC ¥`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Apollon = Neptune](../activations/mc-apollon-equals-neptune.md)
-- [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md)
-- [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md)
+- [MC/Apollon = Neptune](../activations/mc-apollon-equals-neptune.md): base axis [MC/Apollon](../axes/mc-apollon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [MC](../factors/mc.md).
+- [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md): base axis [Neptune/MC](../axes/neptune-mc.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `MC/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
-- `MC/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `93`
-- `Neptune/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `400`
-- `Neptune/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `81`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Apollon = Neptune](../activations/mc-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 74); [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md#witte-entry) (PDF entry-start p. 251); [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md#witte-entry) (PDF entry-start p. 68).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Apollon = Neptune](../activations/mc-apollon-equals-neptune.md#abc-entry) (printed p. 93); [Neptune/Apollon = MC](../activations/neptune-apollon-equals-mc.md#abc-entry) (printed p. 400); [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md#abc-entry) (printed p. 81).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Neptune`: opens the axis into strange experience and unexplored scientific territory.
-- `Neptune/Apollon = MC`: This activation personalizes `Neptune/Apollon` as grand illusion, fear about the future, or the urge to reveal future patterns scientifically. It turns large-scale deception and possibility into a life-direction issue, where the self becomes entangled with both false promise and prophetic inquiry.
-- `Neptune/MC = Apollon`: This activation broadens personal or vocational uncertainty into extensive fraud, making deception large in scale, reach, or consequence rather than merely local or private.
+Neptune, MC and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [MC/Apollon = Neptune ABC entry](../activations/mc-apollon-equals-neptune.md#abc-entry) retains “Extension of a psychic weak” and “rnetaphysical”. These specific wording limits require source checking; the paragraph remains represented.
 
 ## Links
 
+- [MC/Apollon](../axes/mc-apollon.md)
+- [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Neptune/MC](../axes/neptune-mc.md)
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Apollon](../factors/apollon.md)

@@ -1,0 +1,54 @@
+{
+  "batch": "D003",
+  "targets": 30,
+  "source_repaired": 19,
+  "unchanged_flagged_sources": 11,
+  "review_counts_added": 0,
+  "source_page_owner_bindings_fresh": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p053.png",
+      "sha256": "933aa7a9bb9e0fa12357516b720ad3ec3589aeaf57ff46fe0c21ff025c39cd03"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p134.png",
+      "sha256": "6eed27f3dae7c8391cb71b80be636b17bf7da8abba7fea50ddf849809a4481c0"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p138.png",
+      "sha256": "fb7b2f02659a6ae17e0e31182f616e0a99eb265e04beb83bd58b662006d5bf3c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p180.png",
+      "sha256": "675849eff78969e541461227a8baa39c45f5715e48b523ee139a580aefdec57c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf104.png",
+      "sha256": "308fecc7274bd205ae1feb9b8914a905c770f779620a9dbc98e688b9dd3688a8"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf135.png",
+      "sha256": "4a1dc34058b16e93d76a2b3b66e944a6649a1baa69515a13da1e2835a9b0f579"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf062.png",
+      "sha256": "7e318b4ab14fb3b6c978aa9dc3510ccc5d14081f7f9787c99bc55734a576b7cb"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf065.png",
+      "sha256": "8c70d6e0c3f36fb41ab4126f4bc67287b888ae3e3634f29ac22e83491b557d42"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf066.png",
+      "sha256": "73aef1a3969896aac25c05eb5367a2b1a848af658159a681fe9d67b7fd5f481f"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-ebertin-pdf198.png",
+      "sha256": "dad49b3ac58bd2e8e86088bb0bd5ebb09348e2bb7d3449c8bf141e40959e3bd9"
+    }
+  ],
+  "stage_absent": true,
+  "pending_patch_status": "resolved and applied through authorized apply_patch move-stage-and-back",
+  "whitespace_exit_code": 0,
+  "failures": []
+}

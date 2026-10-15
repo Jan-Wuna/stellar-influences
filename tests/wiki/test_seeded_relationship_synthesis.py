@@ -4697,9 +4697,15 @@ def test_seeded_jupiter_mc_additional_activation_cluster_has_real_derived_synthe
 
     for slug in SEEDED_JUPITER_MC_ADDITIONAL_ACTIVATION_CLUSTER:
         record = by_slug[slug]
-        assert record["retrieval_role"] == "canonical_answer"
+        if slug == "jupiter-mc-equals-chiron":
+            assert record["retrieval_role"] == "structural_only"
+            assert record["structural_only"] is True
+            assert record["answer_surface"] is False
+        else:
+            assert record["retrieval_role"] == "canonical_answer"
+            assert record["structural_only"] is False
+            assert record["answer_surface"] is True
         assert record["has_real_derived_synthesis"] is True or is_deferred_answer_surface(record)
-        assert record["answer_surface"] is True
 
 
 def test_seeded_jupiter_neptune_additional_activation_cluster_has_real_derived_synthesis():

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Saturn Apollon](../triads/mars-saturn-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Periodic or passing activity in commerce, trade or science. End of trade activit
 
 Work tasks of science, work success through patience, success in difficult work, serious activity in science, problematic work expansion, painful work experiences, and lossy trade activity
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 201 (entry start); [ABC Entry](#abc-entry), printed p. 317 (entry).
+
+- Core meaning: Scientific or commercial work is temporary, difficult, limited, or brought to an end.
+- Psychology: ABC preserves patience and seriousness as ways of working through difficulty.
+- Body/health: Painful work experience is mentioned, without a specific bodily condition.
+- Social/relationship: The entries concern work demands and trade, rather than a distinct intimate relationship claim.
+- Events/manifestations: Temporary work, cessation of trade, difficult expansion, and trade losses are named.
+- Conflicts/notes: Success through patience qualifies a purely negative reading; painful experience is not a diagnosis.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Saturn`: passing commercial or scientific activity and the cessation or restriction of trade effort.
-- Chart expression: cyclic discipline and realism, but it also marks contraction, market cooling, and the end of a formerly extended field of work.
+Saturn specifies the Mars/Apollon axis through the time and difficulty involved in sustaining work. [Witte Entry](#witte-entry) emphasizes temporary activity and the end of trade, while [ABC Entry](#abc-entry) retains serious scientific work and success achieved through patience. The range runs from persevering with demanding tasks to contraction or cessation of work.
 
 ## Links
 

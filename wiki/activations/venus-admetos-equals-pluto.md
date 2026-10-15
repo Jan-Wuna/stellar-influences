@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Pluto`
 - Astronomicon formula: `Q/¦ = Z`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Change through a deep love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Constricted community of peace, end of a harmonious community, consolidation of the female principle in the community, consolidation of a community by artificial means, consolidation of a community of love, and common love for profoundness
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Depressing developments in art, restricted development of peace, thorough transformation of the feminine principle, thorough unfolding of harmony, thorough changes in art, developing deep affection, and a preference for thorough developments.
+
+## Comparative Schema
+
+- Core meaning: Deep affection brings thorough change.
+- Psychology: A preference for sustained development.
+- Body/health: No specific health claim.
+- Social/relationship: Developing deep affection.
+- Events/manifestations: Changes in art, harmony, and peace.
+- Conflicts/notes: ABC's feminine principle is historical terminology, not a biological mechanism.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+ABC's feminine principle is historical terminology, not a biological mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Pluto`: change through a deep love.
-- Practical expression: constricted community of peace, end of a harmonious community, consolidation of the female principle in the community, consolidation of a community by artificial means, and consolidation of a community of love.
+Pluto specifies Venus/Admetos through change produced by deep attachment. ABC extends the process into thorough artistic changes and the unfolding of harmony, while allowing depressed artistic development or restricted progress toward peace. Development concerns the depth of change, rather than a guarantee that every change is welcome. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

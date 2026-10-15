@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Vernal Point Moon Asc](../triads/vernal-point-moon-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Acquaintances with women in public. Meeting with women of one’s acquaintance. To be known by many people. To appear in the public.
 
@@ -42,14 +46,27 @@ Acquaintances with women in public. Meeting with women of one’s acquaintance. 
 
 #### ABC Entry
 
-Other people in the world, and women in the public sphere, women as partners in the public sphere, mitters in the human environment, hours at the place in the world, and from CJEMPLOYMENT to CJEMPLOYMENT
+- Source passage: `Aszendent + Mond`; printed p. `102`; PDF page `50` (complete oriented row checked against actual scan).
+
+Other peoples in public, other women in public, women as partners in public life, mothers in public surroundings, hour at the place in the world, surrounded by feelings in public.
+
+## Comparative Schema
+
+- core meaning: Emotional and female acquaintances enter a public setting.
+- psychology: The entries describe public contact, without a separate account of inner motivation.
+- body/health: No bodily or health manifestation is stated.
+- social/relationship: Meeting women one knows and contact with other peoples in public.
+- events/manifestations: Being known by many people and appearing before the public are Witte's concrete examples.
+- conflicts/notes: ABC's final clause is surrounded by feelings in public; its mother and other-peoples examples remain distinct.
+
+## Contradictions
+
+No direct contradiction is established. The local, public and relational examples retain their distinct source settings and do not imply universal outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Asc = Vernal Point`: Acquaintances with women in public. Meeting with women of one’s acquaintance. To be known by many people. To appear in the public.
-- Practical focus: externalizes `Moon/Asc` into visibility, recognition, and ordinary public contact. It points to being known by many people, encountering women in open or social settings, and having emotional identity become easier to notice, circulate, and register in the immediate world.
-- Practical expression: other people in the world, women in the public sphere, women as partners in the public sphere, mitters in the human environment, and hours at the place in the world.
+In `Moon/Asc = Vernal Point`, familiar contacts become public encounters: meeting women one knows, appearing publicly and being known by many people establish visibility through relationships. Women as partners, mothers and other peoples are specific participants in public life, while being surrounded by feelings preserves the collective emotional atmosphere. The public setting need not erase the personal relationships through which it is experienced. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

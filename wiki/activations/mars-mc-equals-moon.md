@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Moon Mars MC](../triads/moon-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To give orders to a woman. The correct use and division of one’s time.
 
@@ -45,17 +49,23 @@ To give orders to a woman. The correct use and division of one’s time.
 
 #### ABC Entry
 
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
 Actions of my people, treatment of a woman's soul, emotional soul work, I work with women, I act as a woman, I want to feel, my woman acts, my emotional actions, my emotional impulses, the will of my people, and psychic power of action of the woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0772.
+
 Impulsive, premature action, lack of deliberation or thought, strong emotional excitability. Desire to impose one's will upon a woman, an independent or excitable woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
 
 Conflicts with authority figures cause feelings of insecurity. The emotional need to act on the dictates of Spirit. One feels secure when working on something that feels like it will benefit the world, or fulfill one’s spiritual mission.
 
@@ -70,22 +80,21 @@ Realizing that you have emotions and the role these can play in making you a uni
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action shaped by emotional impulses, security, and care.
+- psychology: Excitability or premature action alongside the need for meaningful, spiritually directed work.
+- body/health: No specific physical condition is supplied.
+- social/relationship: Care and sympathy in Munkasey; historical gendered examples about directing women in Witte and Ebertin.
+- events/manifestations: Emotional work and allocation of time; action felt to benefit the world.
+- conflicts/notes: The gendered language is source-specific, not a rule about women. Caring purpose and emotional excitability are different emphases, not mutual exclusions.
 
 ## Contradictions
 
-- None recorded yet.
+No direct conflict is established: Ebertin stresses excitability, Sandbach emotional security through purpose, and Munkasey care. These emphases do not require the same emotional response in every circumstance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Moon`: emotionally charged work, strong feeling about one's duties, and the need to act in ways that create security or fulfill a felt purpose. Main caution: excitability: emotional pressure can turn authority into impulsiveness, mood-driven decisions, or needless clashes.
+In `Mars/MC = Moon`, Moon specifies personal action through feeling: impulses can press for immediate expression, while meaningful work can provide emotional security. ABC's emotional work, Sandbach's sense of spiritual mission, and Munkasey's caring response widen the reading beyond excitability. ([ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0772; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252) Witte also names the division of time. His and Ebertin's examples about directing or imposing a will upon a woman remain attributed historical gender claims, not general descriptions of women or relationships. ([Witte entry](#witte-entry), PDF p. 64)
 
 ## Links
 

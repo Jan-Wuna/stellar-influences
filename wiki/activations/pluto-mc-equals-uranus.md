@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Uranus Pluto MC](../triads/uranus-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ One’s development is uneven, it leaps. Sudden changes of the mind. The revolut
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Dynamic soul development, development of psychic tensions, I change rhythm us, my dynamic growth, my new development, my sudden change, my technical development, and soul impulses develop
+Editorial translation (checked against the scan): Dynamic unfolding of the soul, development of inner tensions, I change the rhythm, my dynamic growth, my new development, my sudden change, my technical development, developing impulses of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Restless, indefatigable, enduring, prudent, organizing ability. Sudden attainment of one's aim or aspiration with irresistible power, sudden occupational changes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Sudden or drastic reversals which change your stature or reputation; progressive
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or uneven personal change affecting outlook, security, career, or reputation.
+- psychology: Abrupt mood or attitude changes, tension, insecurity, or deeper security.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Friends may encourage goals; public standing may reverse.
+- events/manifestations: Sudden attainment, occupational changes, technical development, and drastic reversals.
+- conflicts/notes: A sudden opening can unsettle as well as free circumstances.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden attainment and drastic reversals are materially different possibilities; surprise does not establish a beneficial breakthrough.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Uranus`: catalytic reform, disruptive influence, and the ability to reinvent vocation through sudden breakthrough. Main caution: unstable power: public direction can become extreme, destructive, or too chaotic to sustain durable transformation.
+Uranus specifies Pluto/MC through development that moves in leaps. Sudden changes of mind, mood, or attitude in the [Witte entry](#witte-entry) and dynamic inner change in [ABC](#abc-entry) can extend to abrupt attainment or occupational change in [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) includes both extreme insecurity and an opening to deeper security or spiritual realities. [Munkasey](#munkasey-entry) adds drastic reversals of standing, helpful friends, and an interest in applying astrology. The abruptness unites these expressions without determining whether the change liberates or destabilizes.
 
 ## Links
 

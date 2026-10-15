@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = Y`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Neptune Vulcanus](../triads/moon-neptune-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior. Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence, at the same time not resisting public influence. To deal with confused and hypocritical representatives of public power. Gas-poisoning.
+- Source passage: PDF p. 136; Neptune row checked visually.
+
+Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence, at the same time not resisting public influence. To deal with confused and hypocritical representatives of public power. Gas-poisoning.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source passage: printed p. 205; PDF p. 101; Neptune row boundary checked visually.
+
 dissolution of the power of a woman, sensitivity of an influential woman, foreign violence against a people, power of a foreign woman, powerful disappointment of a woman, strong intuitions of a woman, deceptive emotional influences, and insecurity through violence against women
+
+## Comparative Schema
+
+- core meaning: influence becomes uncertain, weakened, or difficult to assess ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: sensitivity and intuition coexist with disappointment and deceptive emotional influence.
+- body/health: Witte names gas poisoning and weakness as historical associations; these do not establish a diagnosis or exposure.
+- social/relationship: confused or hypocritical public representatives and foreign power are explicit examples.
+- events/manifestations: withdrawal from public influence, dissolution of power, and insecurity through violence occur in the entries.
+- conflicts/notes: subtle perception and deception are different possibilities; sensitivity alone does not establish reliable knowledge.
+
+## Contradictions
+
+The entries juxtapose acute sensitivity with weakness or deception. These are not mutually exclusive claims. ABC's intuition and foreign-woman examples do not establish that all outside influence is deceptive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Neptune`: To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior. Fine sense, scent and great sensitivity. To be noticed for weakness, want and unfitness. To withdraw from public influence.
-- Practical expression: dissolution of the power of a woman, sensitivity of an influential woman, foreign violence against a people, power of a foreign woman, and powerful disappointment of a woman.
+Neptune specifies Moon/Vulcanus where influence is felt sensitively but loses certainty or effectiveness. [Witte](#witte-entry) describes retreat from public influence and confused representatives; [ABC](#abc-entry) adds dissolved power, disappointment, intuition, and deceptive feelings. The thread is a less secure grasp on power, while sensitivity can still be present. Witte's gas-poisoning example remains an attributed historical association, not a prediction.
 
 ## Links
 

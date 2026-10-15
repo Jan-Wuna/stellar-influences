@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `Q/Chiron`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: 59 (Principle and Process).
 
 #### Principle
 
@@ -60,6 +64,15 @@ The ability to appreciate how all situations - even ones we would usually think 
 #### Process
 
 Attunement to all forms of beauty and through this bringing the energy of beauty into the world to soothe, uplift and calm others. The channeling of spiritual love into physical reality.
+
+## Comparative Schema
+
+- core meaning: Appreciation of beauty becomes a means of spiritual growth and of bringing calm and love into ordinary life ([Principle](#principle), [Process](#process)).
+- psychology: Recognizing worth in oneself, other people and difficult situations; Sandbach connects selfishness with fear and describes understanding that fear.
+- body/health: "Healing balm" describes a soothing presence in this entry; it supplies no medical condition or treatment claim.
+- social/relationship: Helping others enjoy life, recognize their beauty and feel at peace through kindness and appreciation.
+- events/manifestations: Bringing beauty into the world and giving spiritual love a physical expression; no particular external event is specified.
+- conflicts/notes: This is a single-source pair interpretation. Its constructive spiritual emphasis does not establish a separate adverse range; the two sections are parts of one account.
 
 ## Related Activations
 
@@ -79,8 +92,9 @@ Attunement to all forms of beauty and through this bringing the energy of beauty
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Chiron`: the ability to appreciate how all situations - even ones we would usually think of as negative — can further ones spiritual growth. Other source material adds attunement to all forms of beauty and through this bringing the energy of beauty into the world to soothe, uplift and calm others.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Chiron` makes appreciation of beauty a way of finding worth and spiritual meaning, including in people or situations usually judged negatively. That appreciation can become a soothing presence: helping others enjoy life, see their own value and feel more at peace. Sandbach's [Principle](#principle) and [Process](#process) describe one movement from recognizing beauty to expressing love through it in the world.
+
+The same account connects selfishness with fear, proposing understanding of that fear as part of opening to love. Its language of healing concerns this emotional and spiritual work. The page's single source offers this constructive possibility without establishing a medical effect or an independent account of relational difficulties ([Principle](#principle)). Each closing factor belongs to its own oriented activation.
 
 ## Links
 

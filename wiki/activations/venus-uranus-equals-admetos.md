@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
 - Triad hub: [Venus Uranus Admetos](../triads/venus-uranus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 179 (one-based).
 
 Surprising harmony with few. Sudden inclination to meditate.
 
@@ -42,13 +46,27 @@ Surprising harmony with few. Sudden inclination to meditate.
 
 #### ABC Entry
 
-Excitement through the end of love, constant love tension, depressing love event, dynamic peace deepening, dynamic primal production in the arts, grtindish new love, sudden harmony deepening, and restless cycle through love
+- Source page: 277; PDF page: 137 (one-based spread).
+
+Excitement through the end of love, continuing tension in love, depressing love event, dynamic deepening of peace, dynamic primal creation in art, thorough new love, sudden deepening of harmony, and restless circulation through love
+
+## Comparative Schema
+
+- core meaning: Sudden harmony or inward depth alongside tension and endings in love.
+- psychology: An inclination to meditate, continuing tension, or a depressing love event.
+- body/health: ABC's restless circulation is an attributed historical association, not a diagnosis.
+- social/relationship: Surprising harmony with few; a new love or the end of love.
+- events/manifestations: Sudden deepening of harmony and primal creation in art.
+- conflicts/notes: Urzeugung in art is source imagery whose mechanism is not explained.
+
+## Contradictions
+
+The end of love and thorough new love are separate possibilities. Surprising harmony is not evidence that all tension resolves.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Uranus = Admetos`: surprising harmony with few.
-- Practical expression: excitement through the end of love, constant love tension, depressing love event, dynamic peace deepening, and dynamic primal production in the arts.
+In `Venus/Uranus = Admetos`, Admetos specifies the pair through depth or a narrow circle of harmony amid sudden tension. The [Witte entry](#witte-entry) joins surprising harmony with few to an inclination to meditate. The [ABC entry](#abc-entry) adds continuing love tension and endings, but also thorough new love and sudden deepening of harmony. These support both constriction and deepening without treating an ending as a necessary route to a new relationship.
 
 ## Links
 

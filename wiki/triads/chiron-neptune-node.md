@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,40 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Neptune Node`
 - Astronomicon triad-set: `Chiron Y g`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/Neptune = Node](../activations/chiron-neptune-equals-node.md)
-- [Chiron/Node = Neptune](../activations/chiron-node-equals-neptune.md)
-- [Neptune/Node = Chiron](../activations/neptune-node-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Neptune = Node](../activations/chiron-neptune-equals-node.md) | [Chiron/Neptune](../axes/chiron-neptune.md) | [Node](../factors/node.md) |
+| [Chiron/Node = Neptune](../activations/chiron-node-equals-neptune.md) | [Chiron/Node](../axes/chiron-node.md) | [Neptune](../factors/neptune.md) |
+| [Neptune/Node = Chiron](../activations/neptune-node-equals-chiron.md) | [Neptune/Node](../axes/neptune-node.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked canonical pages (3/3).
 
 ## Source Coverage
 
-- `Chiron/Neptune = Node`: John, page `97`
-- `Chiron/Node = Neptune`: John, page `100`
-- `Neptune/Node = Chiron`: John, page `111`
+This map records the source subentries currently present on the linked activation pages. Locators below retain parser references and have not been checked against page images in this hub review. Entry-start and chapter-start locators do not confirm an exact formula page.
+
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md): source subsections on 2/3 orientations; no source-bearing paragraph for `Neptune/Node = Chiron`.
+
+Source-subsection presence does not establish agreement or resolve damaged text and cross-references.
+
+| Orientation | Source subentry or omission | Retained locator |
+| --- | --- | --- |
+| `Chiron/Neptune = Node` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-neptune-equals-node.md#sandbach-entry) | retained chapter-start one-based PDF p. 97; exact formula page not established |
+| `Chiron/Node = Neptune` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-node-equals-neptune.md#sandbach-entry) | retained chapter-start one-based PDF p. 100; exact formula page not established |
+| `Neptune/Node = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-node-equals-chiron.md#derived-synthesis) | No ingested source paragraph; legacy hub locator p. 111 retained unverified; printed/PDF numbering and exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Node`: spiritually attuned connection, relationship as intuitive guidance, and healing through recognizing what is really moving beneath the surface of a bond. Main caution: surrendering judgment to unexamined atmosphere or wishful interpretation.
-- `Chiron/Node = Neptune`: mystical connectedness, subtle evolutionary awareness, and healing through surrender of past attachment. Main caution: turning unresolved past material into fantasy, confusion, or spiritual blur.
-- `Neptune/Node = Chiron` has no source-bearing activation paragraph currently ingested on this page; treat it as an orientation placeholder rather than interpretive doctrine.
+Use this hub to select the exact orientation for the unordered set `Chiron Neptune Node`. The pair before `=` is the base axis and the factor after it is the activator. Open the selected activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas; differences between their entries do not by themselves establish a contradiction. Assess disagreements within the chosen activation. This hub records navigation and source coverage without combining their doctrine.
 
 ## Links
 

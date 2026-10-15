@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Neptune Asc](../triads/mercury-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT + MERCURY`
+- Source locator: PDF p. `83` (oriented entry; scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ To discuss unclear matters. To be told lies by others. Nasty slander.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Merkur`
+- Source locator: printed p. `107`, PDF p. `52` (entry).
+- Text basis: translation checked against the raw scan on PDF p. `52`; supplied parser-normalized OCR was not itself visually verified.
+
 #### ABC Entry
 
-Thinking of the future of the partner, foreign language in the environment, language about the air in the environment, language with the partner about metaphysics, uncertainty of a young partner, water movement in the environment development of the language with others, language about the development of cines Ortes, and language
+Thinking about the partner's future, a foreign language in the environment, conversations about the air in the environment, conversations with the partner about metaphysics, sensitivity in local language use, uncertainty of a young partner, and movement of water in the surrounding area.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `170`, PDF p. `172`, entry `0562` (scan checked).
 
 #### Ebertin Entry
 
 Falsehood, deception, slander or libel. Tendency to think badly of others, the misfortune to be disappointed or deceived by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. `53` (complete Neptune entry; chapter starts on p. `52`; scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ To perceive subtle connections between ideas. To feel a spiritual obligation to 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source locator: printed p. `180`, PDF p. `181` (Neptune entry; scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Confusion about the motivations and intentions of others; helps you relate to ot
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Unclear communication and intuitive perception are both represented ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Confusion about motives, subtle connections among ideas, and intuitive relating form the psychological range.
+- body/health: No bodily or health condition is stated in the legible entries.
+- social/relationship: Deception, disappointment, slander, and a spiritual obligation to share ideas are distinct recorded possibilities.
+- events/manifestations: Discussing unclear matters and loosely observing or recording events are concrete manifestations.
+- conflicts/notes: The scan shows that the development-of-language passage belongs to the next Pluto entry; it has been restored there rather than interpreted as Neptune.
 
 ## Contradictions
 
-- None recorded yet.
+Intuitive or spiritual understanding does not erase the separate warnings about deception and slander. These describe a range, not a guaranteed benefit or harm. The Neptune/Pluto entry boundary was corrected from the scan.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Neptune`: porous boundaries in thought exchange, suggestibility, and the tendency to discuss what is uncertain, hidden, or hard to define. Main caution: slander, confusion, or being misled or misjudged through vague, distorted, or deceptive communication.
+In `Mercury/Asc = Neptune`, Neptune specifies communication with others as difficult to fix with ordinary observation alone. Subtle connections and intuitive relating may accompany uncertainty about motives or a loose account of events ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), p. 180). [Witte](#witte-entry) and [Ebertin](#ebertin-entry) give the more adverse possibilities of lies, slander, deception, and disappointment; these remain possibilities, not proof that another person is dishonest. The [ABC entry](#abc-entry) (printed p. 107) also includes future concerns, foreign language, metaphysics, and sensitivity in language.
 
 ## Links
 

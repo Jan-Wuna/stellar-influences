@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Hades = Sun`
 - Astronomicon formula: `¡/¢ = S`
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 267 (one-based PDF numbering).
+
 Poor husband. The man who very much feels his dependence through poverty. Itinerant artist. To make a living by roaming around.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old art, disadvantaged person community, dangerous people of a community, dangerous man community, lack of a person community, persons with a common past, and centre of a criminal community
+- Source page: 424 (printed); PDF page: 211.
+
+Old art centre, disadvantaged community of people, endangered people in a community, dangerous community of men, lack in a community of people, people with a common past, and centre of a criminal community.
+
+## Comparative Schema
+
+- Core meaning: A person or centre of a community is marked by poverty, disadvantage, or a shared past.
+- Psychology: Witte explicitly describes feeling dependent through poverty.
+- Body/health: No specific bodily or medical claim appears in these entries.
+- Social/relationship: A poor husband, disadvantaged people, and communities sharing a past are named; ABC also lists dangerous or criminal associations.
+- Events/manifestations: An itinerant artist earns a living by travelling; ABC adds an old art centre.
+- Conflicts/notes: The gendered and criminal examples are source-specific descriptions, not universal identities.
+
+## Contradictions
+
+The entries overlap in social disadvantage but range from artistic livelihood to dangerous associations. They do not establish that these examples necessarily occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Sun`: identity shaped by deprivation, social dependence, or the need to keep moving in order to live. Main caution: letting hardship define the whole sense of self.
+In `Cupido/Hades = Sun`, Sun specifies the Cupido/Hades pair through the person or human centre of a community shaped by hardship or a shared past. [Witte](#witte-entry) makes this concrete as a husband feeling dependent through poverty or an itinerant artist making a living by travelling. [ABC](#abc-entry) broadens the setting to an old art centre and disadvantaged or endangered people, while separately naming dangerous and criminal associations. These are alternative social settings; the formula does not by itself identify a person as criminal or make poverty their whole identity.
 
 ## Links
 

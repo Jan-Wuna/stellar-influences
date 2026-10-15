@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Node Admetos](../triads/sun-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Definitively separated connections. Connections with estate or landscape. To be bound to the soil.
 
@@ -42,13 +46,27 @@ Definitively separated connections. Connections with estate or landscape. To be 
 
 #### ABC Entry
 
-blocked personal connection, close personal verb, contacts to solidified persons, connected with grilend people, personal deepening of a connection, and connection to berilked people
+Source locator: printed page 168; PDF page 83 (one-based).
+
+Endurance in a personal connection, a blocked personal connection, a close personal connection, contacts with firmly established people, connection with thorough people, personal deepening of a connection, and connection with distressed people.
+
+## Comparative Schema
+
+- core meaning: Enduring, deepened, blocked or definitively separated bonds.
+- psychology: Thoroughness and personal deepening are named through connections.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Close or enduring ties and contacts with established, thorough or distressed people.
+- events/manifestations: Separated connections and ties to property, landscape or soil.
+- conflicts/notes: Witte's separation and ABC's closeness are different conditions; the formula does not establish hidden connections.
+
+## Contradictions And Comparison Notes
+
+The entries retain the range from enduring closeness to definitive separation. Ties to land are a specific Witte setting rather than evidence that all personal bonds concern property.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Node`: reserve towards others and hidden connections.
-- Practical expression: blocked personal connection, close personal verb, contacts to solidified persons, and personal deepening of a connection.
+For `Sun/Admetos = Node`, the entries concern the endurance, depth or restriction of a connection. [ABC](#abc-entry) describes close ties, perseverance within them and contacts with established or thorough people, alongside blocked ties and connections with distressed people. [Witte](#witte-entry) adds definitive separation and being bound to property, landscape or soil. These passages preserve both durable attachment and severance, without implying that either outcome follows from every bond.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Asc Vulcanus`
 - Astronomicon triad-set: `Z Asc §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Vulcanus = Pluto](../activations/asc-vulcanus-equals-pluto.md)
-- [Pluto/Asc = Vulcanus](../activations/pluto-asc-equals-vulcanus.md)
-- [Pluto/Vulcanus = Asc](../activations/pluto-vulcanus-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Vulcanus = Pluto](../activations/asc-vulcanus-equals-pluto.md) | [Asc/Vulcanus](../axes/asc-vulcanus.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Asc = Vulcanus](../activations/pluto-asc-equals-vulcanus.md) | [Pluto/Asc](../axes/pluto-asc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Pluto/Vulcanus = Asc](../activations/pluto-vulcanus-equals-asc.md) | [Pluto/Vulcanus](../axes/pluto-vulcanus.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `135`
-- `Pluto/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `121`
-- `Pluto/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
-- `Pluto/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `420`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Vulcanus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-vulcanus-equals-pluto.md#witte-entry), one-based PDF entry-start p. `97`.
+- `Asc/Vulcanus = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-vulcanus-equals-pluto.md#abc-entry), printed p. `135`.
+- `Pluto/Asc = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `90`.
+- `Pluto/Asc = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-vulcanus.md#abc-entry), printed p. `121`.
+- `Pluto/Vulcanus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-vulcanus-equals-asc.md#witte-entry), one-based PDF entry-start p. `263`.
+- `Pluto/Vulcanus = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-vulcanus-equals-asc.md#abc-entry), printed p. `420`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Pluto`: quick or intense change caused by the powerful impact of others.
-- `Pluto/Asc = Vulcanus`: This activation emphasizes changes of the place in connection with important or decisive changes in the life of the native.
-- `Pluto/Vulcanus = Asc`: This activation emphasizes great transformations in the surroundings experienced with others.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Admetos`
 - Astronomicon formula: `Y/Z = ¦`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 In the bottom hidden. Far reaching, profound transformations through dissolution.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Dissolving a blockade development, ending a creeping development, changing the size of the water, expecting uncertainty due to growing under driving, deepening in future developments, and growing barriers
+Dissolution of a Blockade-Entwicklung (development of a blockade), ending of a creeping development, thorough change of the water, uncertainty through growing oppression, deeper involvement in future developments, and expecting increasing restrictions
+
+## Comparative Schema
+
+- core meaning: profound transformation through dissolution, alongside restrictions or an ending development.
+- psychology: uncertainty through growing oppression and expectations of restriction are explicit.
+- body/health: change of water is a literal example, without an individual health claim.
+- social/relationship: growing oppression is stated; no specific relationship type is named.
+- events/manifestations: ending a creeping development and deeper involvement in future developments are named.
+- conflicts/notes: Blockade-Entwicklung is an unexplained compound and is retained literally outside confident synthesis; no fixed pace follows from Witte's depth language.
+
+## Contradictions
+
+Witte emphasizes hidden, profound transformation through dissolution. ABC adds endings, water change, oppression, and restrictions rather than a single account of improvement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Admetos`: In the bottom hidden. Far reaching, profound transformations through dissolution.
-- Practical focus: compresses hidden transformation into profound, low-visibility change, where dissolution works at depth and gradually reshapes conditions from below the surface.
-- Practical expression: dissolving a blockade development, ending a creeping development, changing the size of the water, expecting uncertainty due to growing under driving, and deepening in future developments.
+In Neptune/Pluto = Admetos, dissolution and hidden change are qualified by limits. [Witte](#witte-entry) names profound transformations through dissolution; [ABC](#abc-entry) adds ending a creeping development, uncertainty through growing oppression, and expected restrictions (printed p. 391, PDF p. 194). The synthesis therefore preserves both depth of change and constrained development, without converting the unexplained Blockade-Entwicklung compound into a confident mechanism.
 
 ## Links
 

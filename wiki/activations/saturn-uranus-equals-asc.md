@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Asc](../triads/saturn-uranus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Grave misunderstandings with others. Sudden separation from other people.
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Serious disturbances with the partner, new burdens in the environment, sudden disturbances in the environment, painful unrest in the locality, technical disturbances in the surroundings, technical tasks concerning the environment, surprising separation from the partner, and unrest over losses in the environment.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ A sudden focus upon forces for change which had been abruptly halted due to trad
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Abrupt change and constraint encountered through other people and one's surroundings.
+- psychology: A serious, independent or eccentric manner can combine tradition with innovation.
+- body/health: Emotional suffering is described by Ebertin; no specific physical diagnosis is established.
+- social/relationship: Misunderstanding, separation, shared suffering and bereavement.
+- events/manifestations: Environmental or technical disturbances; halted change becomes a public issue.
+- conflicts/notes: Personal style and adverse encounters are different emphases, not proof of one inevitable outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's description of personal style does not contradict the difficult encounters emphasized by Witte and Ebertin; the entries address different manifestations.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Asc`: disciplined originality, strong self-containment under pressure, and a manner that signals seriousness with a disruptive edge. Main caution: nervous rigidity: strain can make conduct brittle, abrupt, or hard for others to read safely.
+Asc specifies Saturn/Uranus through contact with others and the immediate environment: misunderstanding or disrupted circumstances can bring separation, isolation or shared grief. It also describes the manner in which this tension is presented—serious and independent, joining traditional and innovative qualities. The [Witte](#witte-entry) (PDF p. 221, entry start), [Ebertin](#ebertin-entry) (printed p. 248) and [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) entries ground this range; [Munkasey](#munkasey-entry) (printed p. 284) extends it to public attitudes toward change interrupted by tradition.
 
 ## Links
 

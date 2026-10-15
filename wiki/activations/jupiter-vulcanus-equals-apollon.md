@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Apollon`
 - Astronomicon formula: `V/§ = ¥`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, Apollon row; printed page unconfirmed.
+
 Good luck and happiness through money, great income, increase of property.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Expansion of right power, influential right success, successful knowledge influence, powerful trade rights, strong money trading, extensive power of money, much influence through money, knowledge of money influence, and increasing power success
+- Source reference: printed p. 345; one-based PDF p. 171, Jupiter + Vulkanus, Apollon row.
+
+Expansion of legal power, influential legal success, successful influence through knowledge, powerful trading rights, strong trading in money, extensive financial power, much influence through money, knowledge of money's influence, and increasing successes in power.
+
+## Comparative Schema
+
+- core meaning: Happiness through money, substantial income and increased property meet expanding financial and legal influence.
+- psychology: Knowledge of money's influence is stated, without a general personality profile.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Trading rights, legal success and money's influence define practical relations of power.
+- events/manifestations: Great income, property increase, trading in money and increasing power successes.
+- conflicts/notes: The entries describe favorable financial possibilities without specifying a business mechanism or promising a result.
+
+## Contradictions
+
+Witte's income and property gains overlap with ABC's financial influence and expanding power. ABC also specifies knowledge, trading rights and legal success; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Apollon`: powerful luck expressed through money flow, accumulation, and widening financial reach.
-- Chart expression: strong commercial success, rising assets, and gain that grows by scale as well as strength.
+`Jupiter/Vulcanus = Apollon` brings financial benefit together with a wider reach of influence. Substantial income or increased property can be accompanied by financial power, trading rights and legal success, while knowledge of how money exerts influence adds an intellectual dimension. [Witte](#witte-entry) supplies the income and property account, and [ABC](#abc-entry) specifies the legal, commercial and knowledge-related expressions of that influence.
 
 ## Links
 

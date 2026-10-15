@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Mercury Neptune](../triads/vernal-point-mercury-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Thoughts, uncertainties.
 
@@ -42,13 +46,27 @@ Thoughts, uncertainties.
 
 #### ABC Entry
 
-Exchanged youth in public, foreign languages in public, insecure public traffic, insecure public news, water messages for the public, and future opinions in public
+- Source page: 40; PDF page: 19 (one-based spread).
+
+Disappointed youth in public, foreign languages in public, uncertain public traffic, unsettling public news, water reports for the public, and public opinions about the future
+
+## Comparative Schema
+
+- core meaning: Public uncertainty expressed through thought, news, and circulation.
+- psychology: Uncertain thoughts and disappointment are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Disappointed youth and foreign-language communication.
+- events/manifestations: Unsettling news, uncertain traffic, water reports, and future opinion.
+- conflicts/notes: Disappointed replaces exchanged; foreign language alone does not imply misinformation.
+
+## Contradictions
+
+Neutral foreign-language and water-report examples coexist with uncertainty and unsettling news. They remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Mercury`: thoughts, uncertainties.
-- Practical expression: exchanged youth in public, foreign languages in public, insecure public traffic, insecure public news, and water messages for the public.
+In `Vernal Point/Neptune = Mercury`, public uncertainty becomes a matter of thought and information. The [Witte entry](#witte-entry) names thoughts and uncertainties. The restored [ABC entry](#abc-entry) develops this through disappointed youth, unsettling news, uncertain traffic, and opinions about the future, with foreign languages and water reports as additional settings. The synthesis concerns unsettled communication without classifying every unfamiliar message as unreliable.
 
 ## Links
 

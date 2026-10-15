@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/Q`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `41`, chapter heading `ARIES + VENUS` (normalized here as Vernal Point/Venus).
 
 Attraction in general. Love in general. To surround many people with love. Peace, harmony, good will or art in public life. Expressions of love in general.
 
@@ -79,13 +83,28 @@ Attraction in general. Love in general. To surround many people with love. Peace
 
 #### ABC Pair Summary
 
-Peace in the public, harmony in the public life, artist in the public, public joy, beauty of the world, preference for the public, and world peace
+Source reference: printed page `30`, PDF page `14`, bold pair summary.
+
+Source wording: "Frieden in der Öffentlichkeit, Harmonie im öffentlichen Leben, Kunst in der Öffentlichkeit, öffentliche Freude, Schönheit der Welt, Vorliebe für die Öffentlichkeit, Welt-Frieden".
+
+Editorial translation, checked against the scan: Peace in public life; harmony in public life; art in public life; public joy; beauty of the world; a preference for public life; world peace.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be known as an artist or creative person, or for involvement with beauty, decoration, or the arts. To be known in some way for one's love or beauty. Pairs with Mars
+Source reference: PDF page `207`, entry `Venus/Aries`.
+
+To be known as an artist or creative person, or for involvement with beauty, decoration, or the arts. To be known in some way for one's love or beauty.
+
+## Comparative Schema
+
+- Core meaning: Love, attraction, peace, harmony, goodwill, beauty, and art expressed in public life.
+- Psychology: Affection and appreciation are the stated themes; the ABC entry also names a preference for the public, without supplying a wider personality profile.
+- Body/health: Beauty is mentioned, but no bodily condition or health claim is established.
+- Social/relationship: Extending love or goodwill to many people, public harmony, and being known for love or beauty.
+- Events/manifestations: Artistic or creative recognition, involvement in decoration or the arts, public joy, and the stated ideal of world peace.
+- Conflicts/notes: Public visibility and harmony do not by themselves establish popularity, superficiality, or a private relationship outcome.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ To be known as an artist or creative person, or for involvement with beauty, dec
 - [Vernal Point/Venus = Vulcanus](../activations/vernal-point-venus-equals-vulcanus.md)
 - [Vernal Point/Venus = Zeus](../activations/vernal-point-venus-equals-zeus.md)
 
+## Contradictions
+
+The entries share public love, harmony, and art, but their overlap does not prove independent corroboration. The ABC scan reads "Kunst in der Öffentlichkeit," art in public life; Hand separately and explicitly supports being known as an artist. His next heading, "Pairs with Mars," has been removed from this entry after checking its boundary on PDF page `207`.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus` is the axis of public charm, collective attraction, social harmony, and visibility through beauty, love, art, or goodwill.
-- Chart expression: artistic reputation, public likability, graceful social influence, and the ability to draw wider appreciation through style, value, or affection. Liabilities: popularity-seeking, decorative superficiality, and letting approval, beauty, or comfort replace deeper substance.
+`Vernal Point/Venus` brings love, beauty, and harmony into public life. In the [pair summary](#pair-summary), attraction and affection extend toward many people through goodwill, peace, or art; the [ABC pair summary](#abc-pair-summary) adds public joy, the beauty of the world, and world peace. The [pair delineation](#pair-delineation) makes public recognition explicit: one may be known for artistic work, creativity, decoration, love, or beauty.
+
+The pair therefore joins an appreciative public atmosphere with visibility through what is loved or found beautiful. Its entries support both shared harmony and artistic reputation, without establishing universal approval, a private romantic outcome, or a specific defect of character.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Asc MC](../triads/mars-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Others act upon or with me. To make common cause with others.
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Actions in my locality, my partner's work, soulful work at the place, my work partner, my workplace, my actions for the surroundings, my activity at the place, the mental energy of others, and impulses of the soul from and toward the partner.
+
+- Source reference: printed p. 110 (PDF p. 54), Ascendant + Mars, MC row; English checked against the scanned German.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ A comrade in arms or a fighter, a vigorous colleague or eoworker, the pursuit of
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF pp. 76–77 (complete entry).
 
 The need to spiritualize one’s personal assertiveness, that is, to always assert oneself in such a way that it allows a higher purpose to flow through.
 
@@ -70,22 +76,23 @@ Helps you confirm the impressions you receive about the attitudes and inclinatio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [Sandbach Entry](#sandbach-entry), PDF pp. 76–77 (complete entry); [Munkasey Entry](#munkasey-entry), printed p. 248 (entry page); [Ebertin Entry](#ebertin-entry), printed p. 221 (coded entry, code 0769); [ABC Entry](#abc-entry), printed p. 110 (entry).
+
+- Core meaning: One's own activity is shaped through joint action and the actions of others.
+- Psychology: Tempering energy and testing impressions accompany a wish to serve a higher purpose.
+- Body/health: The entries concern initiative and psychological impressions without a medical claim.
+- Social/relationship: Comrades, vigorous colleagues, a work partner, and making common cause are explicit.
+- Events/manifestations: A joint task, one's workplace, and local activity are concrete settings.
+- Conflicts/notes: The ABC dash-only English entry has been replaced from the visible MC row on printed p.110/PDF54; Sandbach's complete entry spans PDF pp. 76–77.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis; the different manifestations do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = MC`: active vocational engagement, forceful teamwork, and a role that mobilizes people around a practical objective. Main caution: overidentifying with struggle: purposeful action can harden into domination, constant combativeness, or a life organized around conflict.
+MC specifies the Mars/Asc axis as one's own participation in action with others. Making common cause and achieving a joint task link [Witte Entry](#witte-entry) with [Ebertin Entry](#ebertin-entry); the scan-checked [ABC Entry](#abc-entry) situates this in one's workplace and partner activity. [Munkasey Entry](#munkasey-entry) adds tempering energy and checking impressions, while [Sandbach Entry](#sandbach-entry) asks that personal assertiveness serve a higher purpose. Initiative is therefore considered in relation to both companions and the purpose of the work.
 
 ## Links
 

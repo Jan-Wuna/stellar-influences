@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Neptune`
 - Astronomicon formula: `Z/£ = Y`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 Wasted efforts. Duties which are performed in vain. Unselfish work. Long-range work, not living to see the result.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful air changes, beginning of poor development, refined development, weak developmental struts, marginalization by fire water, growing design weakness, changing future zigzag, and temporary development in water
+- Source page: 413 (printed); PDF page: 205.
+
+Demanding changes of air, beginning of a future development, developing refined leadership, weak striving toward development, change through fire-water, growing weakness in shaping, changing future goals, purposeful development in water.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Effort whose result is uncertain, deferred, or not personally seen.
+- Psychology: Weak striving and growing weakness in shaping a development.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Unselfish work is explicit; no intimate relationship outcome is supplied.
+- Events/manifestations: Wasted duties, long-range work, changing future goals, and water or air changes.
+- Conflicts/notes: Unselfish work and effort in vain are distinct possibilities; the result is not uniformly failure.
+
+## Contradictions
+
+Unselfish work and effort in vain are distinct possibilities; the result is not uniformly failure.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Neptune`: wasted efforts; Duties which are performed in vain; Unselfish work; Long-range work, not living to see the result.
-- Practical expression: effortful air changes, beginning of poor development, refined development, weak developmental struts, and marginalization by fire water.
+In `Pluto/Zeus = Neptune`, Neptune specifies the pair through work whose result may remain beyond the worker's experience. The [Witte entry](#witte-entry) distinguishes wasted effort from unselfish or long-range work whose result one does not live to see. The [ABC entry](#abc-entry) adds weakness in shaping development and changing future goals, with separate air, water, and refined-leadership examples. Unseen results do not by themselves establish failure.
 
 ## Links
 

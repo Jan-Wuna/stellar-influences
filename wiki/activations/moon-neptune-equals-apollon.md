@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Apollon`
 - Astronomicon formula: `R/Y = ¥`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 The many hours of the night. Extended rest during the night. To have many hours for relaxation. Disappointed or deceived populace.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `189`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-Expansion of metaphysics in the people, experiences of a fine feeling woman, a feeling of future knowledge, metaphysical knowledge for the woman, refinement by Gefuhls Knowledge, future success of women, and future knowledge for the people
+Expansion of metaphysics among the people, experiences of a sensitive woman, knowledge through feeling for the future, metaphysical knowledge for a woman, refinement through knowledge gained through feeling, a woman's future success, and knowledge of the future for the people
+
+## Comparative Schema
+
+- core meaning: extended rest, collective disappointment, and a wider range of metaphysical experience ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: ABC associates sensitive experience and knowledge through feeling with refinement.
+- body/health: Witte describes extended night rest, without a medical claim.
+- social/relationship: a disappointed or deceived populace and the spread of metaphysics among people are explicit.
+- events/manifestations: many hours of relaxation and a woman's future success are named.
+- conflicts/notes: ABC's knowledge of the future is a doctrinal association, not evidence of a demonstrated forecasting ability.
+
+## Contradictions
+
+Witte's long rest and disappointed populace differ from ABC's metaphysical knowledge and future-success examples. They do not directly negate each other, and the entries do not explain when one expression replaces another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Apollon`: The many hours of the night. Extended rest during the night. To have many hours for relaxation. Disappointed or deceived populace.
-- Practical focus: expands `Moon/Neptune` into longer night cycles, more diffuse relaxation, and emotional atmosphere spread across a wider collective field. It can bring spacious retreat and receptivity, but also broad disappointment, deception, or confused public feeling.
-- Practical expression: expansion of metaphysics in the people, experiences of a fine feeling woman, a feeling of future knowledge, metaphysical knowledge for the woman, and refinement by Gefuhls Knowledge.
+In Moon/Neptune = Apollon, Apollon specifies the pair through greater extent of rest or sensitive experience. The [Witte entry](#witte-entry) gives many hours of night and relaxation, alongside a disappointed or deceived populace. The [ABC entry](#abc-entry) extends the range into metaphysical experience, refinement through feeling, and knowledge concerning the future (printed p. 189, PDF p. 93). These remain distinct source possibilities: extended rest does not imply collective deception, and the attributed future-knowledge claims do not establish predictive ability.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Hades = Neptune`
 - Astronomicon formula: `T/¢ = Y`
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `167`.
+
 #### Witte Entry
 
 To be outwitted by trickery. Uncertainties lead to bad plans or a worried mind.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `257`; PDF page: `127`.
+
 #### ABC Entry
 
-Old foreign language, worried future thoughts, dangerous future of youth, dangers of metaphysics for youth, secret language about the future, disadvantage by thought weakness, emergency call from the water, past and future of youth Dangerous development in youth, developing treacherous thoughts, and nightly ju-
+German passage (transcribed from PDF page `127`, printed page `257`):
+
+> Alte Fremd-Sprache, besorgte Zukunfts-Gedanken, gefährdete Zukunft der Jugend, Gefahren der Metaphysik für die Jugend, Geheim-Gespräche über die Zukunft, Nachteile durch Gedanken-Schwäche, Not-Ruf aus dem Wasser, Vergangenheit und Zukunft der Jugend
+
+Editorial translation from the German passage: An old foreign language; worried thoughts about the future; an endangered future for young people; dangers of metaphysics for young people; secret conversations about the future; disadvantages through weakness of thought; an emergency call from water; the past and future of young people.
+
+## Comparative Schema
+
+- core meaning: Uncertainty and trickery disrupt thought or planning ([Witte](#witte-entry)).
+- psychology: A worried mind and anxiety about the future are explicit.
+- body/health: Neither entry establishes a bodily condition.
+- social/relationship: Being outwitted and secret discussion concern unreliable exchange.
+- events/manifestations: Bad plans and an emergency call from water are listed separately.
+- conflicts/notes: The verified Neptune row ends with the past and future of young people; Pluto's development clauses are separate.
+
+## Contradictions
+
+The scan-verified ABC passage has been restored with its distinct clauses. These examples supplement Witte's entry without establishing that all listed conditions occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Neptune` confuses the axis further through deception and uncertainty.
-- Chart expression: being outwitted by trickery, anxious uncertainty, and plans that turn bad because the mind is misled, worried, or unable to trust what it sees.
+In `Mercury/Hades = Neptune`, Neptune specifies troubled thought and communication through uncertainty: someone can be outwitted, while uncertainty feeds worry or bad plans. ABC extends this to concern about young people's future, secret future-oriented conversations, an old foreign language, and an emergency call from water. The entry spans deception, anxious anticipation, and specific kinds of messages, without making each example a necessary outcome ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

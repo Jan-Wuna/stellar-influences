@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `T/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `166`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `254`; PDF page: `126` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Summary of thoughts, community thinking, language about art, common youth, youth community, media community, language arts, synthesis thinking, and transport community
+German pair summary (transcribed from printed page `254`; PDF page `126`):
+
+> Gedanken zusammenfassen, Gemeinschafts-Denken, Gespräche über Kunst, gemeinsame Jugend, Jugend-Gemeinschaft, Medien-Gemeinschaft, Sprach-Kunst, Synthese-Denken, Verkehrs-Gemeinschaft
+
+Editorial translation from the German passage: Bringing thoughts together, community thinking, conversations about art, shared youth, youth community, media community, art of language, synthesis thinking, traffic or communications community.
+
+## Comparative Schema
+
+- core meaning: Thought and speech oriented toward family, community, art, and shared expression ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Artistic judgment, aesthetic taste, and thinking in terms of a shared whole ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- body/health: Neither summary provides a bodily or medical correspondence.
+- social/relationship: Social conversation, family thoughts, and marriage intentions are explicit; intentions do not establish an event ([pair summary](#pair-summary)).
+- events/manifestations: Conversation about art, music, speech, and shared media or youth groups are named possibilities ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: Conversations about art, language art and synthesis thinking are explicit ABC expressions. Their coexistence does not establish a promised marriage or a fixed domestic role.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Summary of thoughts, community thinking, language about art, common youth, youth
 - [Mercury/Cupido = Vulcanus](../activations/mercury-cupido-equals-vulcanus.md)
 - [Mercury/Cupido = Zeus](../activations/mercury-cupido-equals-zeus.md)
 
+## Contradictions
+
+No incompatible assertion appears in these brief summaries. ABC independently names conversations about art, the art of language, shared youth and synthesis thinking alongside the artistic and communal themes in Witte.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido` is the axis of social and domestic thought, artistic taste, family-minded conversation, and communication shaped by marriage, association, art, and belonging.
-- Chart expression: a mind oriented toward family, group life, music, speech, social exchange, and the wish to speak, think, or plan within a shared aesthetic or communal context.
+`Mercury/Cupido` concerns thinking and communicating within a shared world of family, community, and art. Social conversation and thoughts of marriage sit beside music, speech, and artistic taste in the [pair summary](#pair-summary): both relationships and aesthetic interests provide something people can consider or express together. The [ABC summary](#abc-pair-summary) adds collective thinking and synthesis, meaning the bringing together of thoughts. These entries support shared expression and consideration of belonging without specifying a marriage outcome or a fixed domestic role.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Uranus Neptune](../triads/saturn-uranus-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Uncommon or unexpected recoveries from weaknesses which surface after a dormant 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: a sudden change or unusual insight within persistent uncertain conditions.
+- psychology: excitability and unrest, alongside original problem perception.
+- body/health: Witte and Ebertin describe sudden illness; Munkasey describes unexpected recovery, all attributed.
+- social/relationship: no specific relationship pattern is established.
+- events/manifestations: inventive realization of imagination; novel mystical practices in Munkasey.
+- conflicts/notes: sudden onset and recovery are alternatives, not a reliable health forecast.
 
 ## Contradictions
 
-- None recorded yet.
+- Witte's sudden onset and Munkasey's unexpected recovery point in opposite directions; the shared suddenness does not determine which occurs.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Uranus`: difficult awakening, structural change born from exhaustion, and the need to break patterns that quietly corrode life. Main caution: collapse through tension: nerves, boundaries, or systems can give way abruptly after prolonged uncertainty.
+Uranus specifies the Saturn/Neptune axis through an abrupt or unusual turn. [Ebertin](#ebertin-entry) emphasizes unrest; [Sandbach](#sandbach-entry) instead describes original insight into hidden structures and inventive ways to realize imagination. [Munkasey](#munkasey-entry) includes unexpected recovery after dormant weakness, contrasting with [Witte's](#witte-entry) sudden illness imagery. Sudden emergence is the shared pattern; a necessary collapse or a guaranteed recovery is not established.
 
 ## Links
 

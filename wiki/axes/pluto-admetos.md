@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ The foundation. To go into the depth. To return to the basic origin. Basic chang
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `418`; PDF page: `208` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Detaching, depressive development, restricted development, gross change, change in the cycle, and growing resistance
+German pair summary (transcribed from printed page `418`; PDF page `208`):
+
+> Ausdauer entwickeln, depressive Entwicklung, eingeschränkte Entwicklung, Festigkeit entwickeln, gründliche Wandlung, Kreislauf-Veränderung, Tiefen-Wachstum, Transformation von Urenergie, wachsender Widerstand
+
+Editorial translation from the German passage: Developing endurance, depressive development, restricted development, developing firmness, thorough transformation, change in circulation or cycle, growth in depth, transformation of primordial energy, growing resistance.
+
+## Comparative Schema
+
+- core meaning: change reaching foundations, origins, or deeply rooted conditions ([Pair Summary](#pair-summary)).
+- psychology: the ABC names restricted or depressive development and growing resistance; “depressive” remains its historical description, not a diagnosis.
+- body/health: the ABC's “change in the cycle” is too unspecific to establish a bodily mechanism or condition.
+- social/relationship: the pair summaries do not directly delineate partnership or group relations.
+- events/manifestations: bottom-up transformation, growth at the roots, conversion of raw material into a finished product, and a process reaching its end are Witte's examples.
+- conflicts/notes: ABC restores endurance, firmness, thorough transformation and growth in depth. Kreislauf and Urenergie do not establish a bodily mechanism or physical energy theory.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Detaching, depressive development, restricted development, gross change, change 
 - [Pluto/Admetos = Vulcanus](../activations/pluto-admetos-equals-vulcanus.md)
 - [Pluto/Admetos = Zeus](../activations/pluto-admetos-equals-zeus.md)
 
+## Contradictions
+
+Deep change and restricted development can describe distinct conditions of a process. The complete scan restores clauses formerly lost or mistranslated.
+
+ABC's complete bold pair list was checked against printed418/PDF208; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes the foundation; To go into the depth; To return to the basic origin; Basic changes; Deeply rooted growths (development); Roots; Radical transformations.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Admetos` concerns change at the roots of a process: returning to an origin, working on foundations, or transforming something from the bottom up. The [pair summary](#pair-summary) keeps both growth and completion in view, from deeply rooted development and the conversion of raw material into a finished product to the beginning of an ending. Depth here concerns how far change reaches, rather than how quickly it proceeds.
+
+The intelligible [ABC wording](#abc-pair-summary) adds restricted development and growing resistance, so this is not an unqualified promise of progress. Its “depressive development” is source language, not a clinical conclusion. Several other ABC phrases remain damaged or mistranslated and add no secure meaning; neither entry establishes a general relationship or medical delineation.
 
 ## Links
 

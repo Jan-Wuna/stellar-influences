@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Vernal Point`
 - Astronomicon formula: `V/W = VP`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Separation favored by good fortune. Change of place. Real estate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I at the very happy with age, my success through concentration, my GILick is the duty, my advantage through patience, my successful separations, my financial problems, my legal problems, and spelen pleasure in old age
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, Vernal Point row; adjacent MC row excluded.
+
+Disruptions of success in public, joy and sorrow in public life, financial losses in public life, legal problems in public, compensation for pain for the public, and advantages in public for the elderly.
+
+## Comparative Schema
+
+- Core meaning: Fortunate separation and change of place coexist with public joy, sorrow and practical problems ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: ABC names joy and sorrow in public life without specifying an individual temperament.
+- Body/health: ABC names compensation for pain without identifying an illness or injury.
+- Social/relationship: ABC explicitly places losses, legal problems, compensation and elderly people's advantages in the public sphere.
+- Events/manifestations: Real estate and relocation coexist with public financial losses, legal problems and compensation.
+- Conflicts/notes: Raw ABC inspection identifies six public clauses under Vernal Point; the former first-person paragraph belonged to MC. Compensation is stated without a particular legal procedure.
+
+## Contradictions
+
+Witte emphasizes favorable separation and property matters; ABC retains public losses and legal problems beside compensation and advantages for the elderly. The favorable and difficult possibilities remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Vernal Point`: progress through relocation, strategic distance, or public repositioning. It favors constructive change when one accepts that separation can be part of stable growth.
+In `Jupiter/Saturn = Vernal Point`, Vernal Point presents the pair's separation in the general terms actually supplied by the [Witte Entry](#witte-entry): a fortunate parting, change of place, and real estate. The [ABC Entry](#abc-entry) extends the setting to public life, where joy and sorrow, losses and legal problems occur alongside compensation and advantages for the elderly. Relocation and property matters therefore remain concrete possibilities within a broader public range of favorable and difficult circumstances.
 
 ## Links
 

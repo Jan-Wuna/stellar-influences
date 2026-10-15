@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Cupido`
 - Astronomicon formula: `T/V = ¡`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Merry society, Wedding and speeches accompanied by cheerfulness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `245`; PDF page: `121`.
+
 #### ABC Entry
 
 Successful Community language, successful media community, financial community language, happy youth community, good news for of a community, common language about money, and positive thinking in the community
 
+## Comparative Schema
+
+- core meaning: Cheerful communication in company or community ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Positive thinking and shared cheerfulness are explicit.
+- body/health: No bodily condition appears.
+- social/relationship: Merry society, a wedding, and youth or media communities are named.
+- events/manifestations: Wedding speeches, good community news, and discussion of money are examples.
+- conflicts/notes: The social settings do not establish a wedding or permanent bond in every case.
+
+## Contradictions
+
+Witte's festive gathering and ABC's practical community communication are different settings of shared exchange. A wedding is one concrete manifestation rather than the required outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Cupido` socializes the axis into festive company, ceremony, and cheerful speech.
-- Chart expression: merry gatherings, weddings, and celebratory speaking, with joy, fellowship, and shared goodwill expressed through words and social ritual.
+In `Mercury/Jupiter = Cupido`, Cupido specifies favorable exchange through company and community. Witte's merry gathering, wedding, and cheerful speeches make the festive strand explicit; ABC adds good news for a group, common discussions of money, and positive community thinking. The shared theme is communication that people participate in together, ranging from celebration to practical group affairs ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

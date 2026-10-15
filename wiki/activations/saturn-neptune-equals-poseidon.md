@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Poseidon](../triads/saturn-neptune-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Psychic-mental influence upon bad habits and illness. Psychology. Mental disorde
 
 #### ABC Entry
 
-Interchangeable cultural losses, fine tuning mature spirit, fine tuning through mental maturity, concentration on future prosperity, clear tasks for the future, concentration on new ideas, and recognition of air problems
+Source: ABC printed p. 351, supplied PDF p. 174, Saturn + Neptun, poseidon row (seven clauses). Translation from the German scan:
+
+Disappointing cultural losses; a sensitive mature mind/spirit; sensitivity through mental/spiritual maturity; concentration on future truth; clear tasks for the future; concentration on new ideas; recognizing air problems.
+
+## Comparative Schema
+
+- core meaning: mental influence and sensitivity directed toward difficult conditions and future ideas.
+- psychology: Witte names psychology; ABC includes mental maturity and clear future tasks.
+- body/health: Witte's influence on illness and mental-disorder language remain historical claims.
+- social/relationship: ABC names cultural losses; no specific personal relationship is described.
+- events/manifestations: concentration on new ideas and recognizing problems.
+- conflicts/notes: ABC names future truth and disappointing cultural losses; it supplies no wealth prediction.
+
+## Contradictions
+
+- Witte's clinical vocabulary and ABC's mature-ideas emphasis differ in scope; neither establishes a universal diagnosis or a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Poseidon`: psychic-mental influence upon bad habits and illness, psychology, mental disorder.
-- Practical expression: interchangeable cultural losses, fine tuning mature spirit, fine tuning through mental maturity, concentration on future prosperity, and clear tasks for the future.
+Poseidon specifies the Saturn/Neptune axis through mental influence and the effort to give difficult conditions a clear intellectual direction. [Witte](#witte-entry) names psychology and influence upon habits; [ABC](#abc-entry) adds mental maturity, concentration on future truth, clear future tasks, and attention to new ideas. Together these support a bounded focus on understanding and directing thought. Witte's illness terminology remains attributed, and ABC's future-truth phrase does not support a prediction of wealth.
 
 ## Links
 

@@ -1,0 +1,274 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twenty new080 Uranus/Cupido full reviews. Nineteen ABC prose repairs and one preserved ABC entry (Admetos), one Witte glyph-fragment repair (Pluto).",
+  "actual_source_inspection": [
+    "Actual ABC PDF186 printed374–375, all twenty glyph-owned rows personally read.",
+    "Actual Witte236, all twenty glyph rows personally read; leading E at Pluto belongs to alternate Pluto glyph, not prose.",
+    "Neptune seven clauses end unbekannte Spannungen in einer Gemeinschaft; Pluto six begin Gemeinsame dynamische Veränderungen, gemeinsamer Rhythmus-Wechsel, Entwicklung von Spannungen.",
+    "Mars eight printed clauses include gemeinsamen Rhythmus schaffen twice. Poseidon seven include geistige Erneuerung, neue spirituelle Kunst, vernünftige Impulse. Vernal Point faint first clause reads Erregte Gemeinschaft in der Öffentlichkeit."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-cupido-equals-admetos.md",
+      "old_abc": "enduring tensions in of a community, restricted technical community, excitement of a blocked community, shared deepening into technology, suddenly depressed community, and surprising suppression of a community",
+      "new_abc": "enduring tensions in of a community, restricted technical community, excitement of a blocked community, shared deepening into technology, suddenly depressed community, and surprising suppression of a community",
+      "printed_page": 375,
+      "finding": "All six ABC and Witte236 clauses verified; source prose retained."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-apollon.md",
+      "old_abc": "Oynamic trade community, success through technical knowledge, successful technical community, successful art event, joint new experiences, new art successes, new knowledge for the community, and increasing impulses to the whole",
+      "new_abc": "Dynamic trading community, success through technical knowledge, a successful technical community, a successful art event, shared new experiences, new artistic successes, new knowledge for the community, increasing impulses toward the whole.",
+      "printed_page": 375,
+      "finding": "Eight clauses verified; Oynamic corrected and art/new knowledge kept distinct from literal mass weddings."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-asc.md",
+      "old_abc": "common partner Rhythm, art at the place, strangen partner community, art the Partners, art and Technik at the place, Tensions in of a community at the place, technical community, and environmental impulses of a community",
+      "new_abc": "Shared partner rhythm, an art event at the location, a tense partner community, the partner's artistic impulses, art and technology at the location, tensions in a community at the location, a local technical community, environmental impulses of a community.",
+      "printed_page": 374,
+      "finding": "Restored eight complete clauses: art event/partner artistic impulses and tense partner community, rather than strangen or unspecified art."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-hades.md",
+      "old_abc": "Agitated community in need, mysterious tensions in of a community, artificial impulses from the past, inadequate technical synthesis, sudden danger to of a community, Surprising common deprivations, and hidden common distress",
+      "new_abc": "An agitated community in need, mysterious tensions in a community, artistic impulses from the past, inadequate technical synthesis, sudden danger to a community, surprising shared privations, hidden shared distress.",
+      "printed_page": 375,
+      "finding": "Seven clauses verified; Kunst-Impulse means artistic impulses, not artificial impulses."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-jupiter.md",
+      "old_abc": "Success of a technical community, successful art event, aroused legal community, common arousal of money, impulses of a legal community, reform of a community, unrest in a financial community, and advantage of arts and technology",
+      "new_abc": "Success of a technical community, a successful art event, an excited legal community, shared excitement over money, impulses of a legal community, reform successes of a community, unrest in a financial community, advantage for art and technology.",
+      "printed_page": 374,
+      "finding": "All eight clauses restored; Reform-Erfolge specifies reform successes, and shared excitement concerns money."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-kronos.md",
+      "old_abc": "Special tensions in the Community, oynamics of a hierarchical community, great artistic event, hierarchical technical community, new dominant arts, restless state community, and state reform community",
+      "new_abc": "Special tensions in the community, dynamics of a hierarchical community, a major art event, a hierarchical technical community, new dominant art, a restless state community, a state reform community.",
+      "printed_page": 375,
+      "finding": "Seven clauses verified; Oynamics corrected to dynamics; art remains art."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mars.md",
+      "old_abc": "Introducing new skills, dynamic community work, creating common rhythm, impulses for artistic work, artistic activity in technology, tensions in a work community, and technical work community",
+      "new_abc": "Efforts toward new art, dynamic communal work, creating a shared rhythm, impulses for artistic work, artistic activity in technology, tensions in a work community, creating a shared rhythm, a technical work community.",
+      "printed_page": 374,
+      "finding": "Eight source clauses restored including repeated shared-rhythm clause; Bemühungen um neue Kunst means efforts toward new art, not introducing skills."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mc.md",
+      "old_abc": "Bcselte's art event, excited soul community, common soul pulses, my impulses to the whole, my new community, my new artificial, my technical community, new soul community, and soulful artificial impulses",
+      "new_abc": "A soulful art event, an excited community of souls, shared soul impulses, my impulses toward the whole, my new community, my new art, my technical community, a new community of souls, soulful artistic impulses.",
+      "printed_page": 374,
+      "finding": "Nine clauses restored: Beseeltes/soul and Kunst/art fragments resolved; no artificiality."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mercury.md",
+      "old_abc": "Report on art events, dynamic youth community, excited transport community, shared experiences in youth, new news from of a community, technical media community, and technical synthesis discuss",
+      "new_abc": "A report on an art event, a dynamic youth community, an excited transport community, shared experiences in youth, new news from a community, a technical media community, discussing technical synthesis.",
+      "printed_page": 374,
+      "finding": "Seven clauses verified; repaired grammatical fragments without turning Verkehrs-Gemeinschaft into a general social claim."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-moon.md",
+      "old_abc": "Agitated people's community, a community's impulse, women's artificial impulses, nervous women's community, new people arts, new community culture, women's technical community, and people art",
+      "new_abc": "An excited community of a people, emotional impulses of a community, artistic impulses of a woman, a nervous women's community, new folk art, a new feeling of community, women in a technical community, a folk-art event.",
+      "printed_page": 374,
+      "finding": "Eight clauses restored: Gefühls emotional impulses/community feeling and Kunst artistic/folk art, with historical gendered/community language retained."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-neptune.md",
+      "old_abc": "Oynamic Future Community, subtle impulses in of a community, common air technology, artistic water technology, sudden dissolution of a community, weakness of a nervous community, unknown tensions in of a community Common dynamic changes, common rhythm change, and development of",
+      "new_abc": "A dynamic community of the future, subtle-material impulses in a community, shared air technology, artistic water technology, sudden dissolution of a community, weakness of a nervous community, unknown tensions in a community.",
+      "printed_page": 375,
+      "finding": "Restored seven complete Neptune clauses; removed following Pluto's first three clauses. Actual row ends unbekannte Spannungen in einer Gemeinschaft."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-node.md",
+      "old_abc": "Meeting through a common event, relations with the new artist, dynamic connections in of a community, joint impulses of a connection, connecting the artist with technology, and connection to a technical community",
+      "new_abc": "An encounter through a shared event, relationships with new art, dynamic connections in a community, shared impulses of a connection, joining art with technology, a connection to a technical community.",
+      "printed_page": 374,
+      "finding": "Six clauses verified; Kunst=new art, not a new artist; art rather than artist is joined with technology."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-pluto.md",
+      "old_abc": "tensions in of a community, new developments in art, sudden transformations in of a community, and technical development community",
+      "new_abc": "Shared dynamic changes, a shared change of rhythm, development of tensions in a community, new artistic developments, sudden transformations in a community, a technical development community.",
+      "printed_page": 375,
+      "finding": "All six Pluto clauses restored; first three formerly absorbed by Neptune. Witte leading E is a Pluto glyph remnant, not prose."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-poseidon.md",
+      "old_abc": "Dynamic cultural community, spiritual emancipation of a community, common cultural event, clarity in a spiritual community, new spiritual skill, Surprising truth for of a community, and powerful impulses to the whole",
+      "new_abc": "A dynamic cultural community, spiritual renewal of a community, a shared cultural event, clarity in a spiritual community, new spiritual art, surprising truth for a community, rational impulses toward the whole.",
+      "printed_page": 375,
+      "finding": "Seven clauses verified: Erneuerung=renewal not emancipation, spirituelle Kunst=spiritual art not skill, vernünftige=rational not powerful."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-saturn.md",
+      "old_abc": "Common technical tasks, joint technical losses, new tasks in the arts, sudden losses of a community, separation event in of a community, and shocks and tensions in of a community",
+      "new_abc": "Shared technical tasks, shared losses through technology, new tasks in art, sudden losses of a community, a separation event in a community, disturbances and tensions in a community.",
+      "printed_page": 375,
+      "finding": "Six clauses verified; Verluste durch die Technik means losses through technology; Störungen means disturbances rather than shocks."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-sun.md",
+      "old_abc": "Dynamic art, aroused person community, impulses of a men's community, art on the day, personal art, common body rhythm, technical synthesis centre, and center for new artist",
+      "new_abc": "A dynamic art center, an excited community of persons, impulses of a men's community, an art event on the day, personal artistic impulses, a shared bodily rhythm, a technical synthesis center, a center for new art.",
+      "printed_page": 374,
+      "finding": "Eight clauses restored; omitted center/event/impulse meanings and new art rather than new artist recovered."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-venus.md",
+      "old_abc": "Dynamic arts community, common arts event, common love experience, common y preference fiir (!surprises, harmony impulses of a community, sudden peace in of a community, and Surrender love community",
+      "new_abc": "A dynamic art community, a shared art event, a shared experience of love, a shared preference for surprises, impulses toward harmony in a community, sudden peace in a community, a surprising love community.",
+      "printed_page": 374,
+      "finding": "Seven clauses restored; damaged preference-for-surprises text and überraschende love community corrected; no surrender meaning."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-vernal-point.md",
+      "old_abc": "common rhythm us in the public, arts and technology in the public, new artist in the public, public artist event, and reform of the community in the public life",
+      "new_abc": "An excited community in public, shared rhythm in public, art and technology in public, new art in public, a public art event, reforming the community in public life.",
+      "printed_page": 374,
+      "finding": "Six complete clauses restored including omitted first excited-community clause; Kunst is art not artist. Faint first clause read against actual scan."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-vulcanus.md",
+      "old_abc": "Influential impulses of a community, power of a technical community, new force in of a community, tensions in a power community, supreme force of a community, and unrest in a powerful community",
+      "new_abc": "Influential impulses of a community, the power of a technical community, new strength in a community, tensions in a power community, surprising force or violence of a community, unrest in a powerful community.",
+      "printed_page": 375,
+      "finding": "Six clauses verified; überraschende Gewalt is surprising force/violence, not supreme force; full semantic range retained."
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-zeus.md",
+      "old_abc": "Dynamic leadership community, fiery community impulses, common technical leadership, common procreation impulses, creative artificial impulses, new common goals, new artificial direction, technical performance community, and technical synthesis design",
+      "new_abc": "A dynamic leadership community, fiery communal impulses, shared technical leadership, shared procreative impulses, creative artistic impulses, new shared goals, a new artistic direction, a technical achievement community, shaping technical synthesis.",
+      "printed_page": 375,
+      "finding": "Nine clauses verified; creative Kunst/art and new artistic direction repaired from artificial; procreation and technical leadership preserved."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-cupido-equals-admetos.md",
+      "sha256": "4c2e4604fcd27ea9d6cd2c3c2ab7d0ee118b4c867c9377bfed49223451fe8429",
+      "source_section_sha256": "24c160c960bea68aed4a2eb63c33c077c2c8304c7983eddc6f59261b8a473cbf",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-apollon.md",
+      "sha256": "6907eba3cc1f0e9b653a5d5098cc1e5d24ef5c67bac3dd8c6283527d74945980",
+      "source_section_sha256": "754ac2bc89cefeaf6074da6008ce37a600e926ef8255cd20370472602be0e896",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-asc.md",
+      "sha256": "d94791cbf4effdb44c2ca5dcecae072a5895d53649cb9c14de6988c6bf6ec7b4",
+      "source_section_sha256": "69659d48cbba4c6c754ebe84cb15c2bbb8da75090e50b47f2977f0efbd7e8aab",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-hades.md",
+      "sha256": "e05fb9e203d09b1640bc1ab43a9049ca7be3d2ce2aaf511152ab7d3249447644",
+      "source_section_sha256": "7b7bdb09271c0ebc7128f234b8124e3799812c0681065230bfc9482809c2e6cd",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-jupiter.md",
+      "sha256": "85cadc35afbcb90f479a811e6f83ba7dc5d015676fb70af2baf53929027c2f38",
+      "source_section_sha256": "63cd2a7b4b2bb6fe61920d7ddcdcdc9d20a41dcc05dad38434346187db6ab561",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-kronos.md",
+      "sha256": "24296e8bc2586ce5a6786031edc6247da5d912fbcdc00451e5d98a65857c5648",
+      "source_section_sha256": "1c156bfaaebbd1088ff63c2c6e6174804588aa2801d0f7c859a8577742269cb8",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mars.md",
+      "sha256": "8b1f3f289440b7b4f687868997433beef381ea30b43137f36ff871250134baf6",
+      "source_section_sha256": "5fcee8b3f6bb745c481af7a0df3dae86ab98f2df3f9012f5973a2e2e54d501b2",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mc.md",
+      "sha256": "806317a45fc6dbd062b8250ae08d51cda1f9a8ab673ea8ae223662fbfb626a48",
+      "source_section_sha256": "6ddb9f4daa3bd77a1babfc220ceec7724b2d66dd09cebe8069a95972f411b9f7",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-mercury.md",
+      "sha256": "bc2dbe33e3d974dcdb88db37717adf60e5add4cf62e3209f7d63e0ba66bb4aa9",
+      "source_section_sha256": "94a4e8beaec0bb4a402f7815e0cc419d398f6e725d188426bebc8d4323a6f855",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-moon.md",
+      "sha256": "f9126281ed762ba070f8283ce07731d737bf751c6af9e56388e690eaf7a7eb62",
+      "source_section_sha256": "e47125acca225b0ee3eaf981b8d7fafba45b33071d98b3a2c2471d3ad2d1509d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-neptune.md",
+      "sha256": "89e227435045d03bbe52381ab9b79de27af7688c9e79bc4e0c8b5a0574fcd059",
+      "source_section_sha256": "1051c37e1308b05b485d1752b103ef742e40865b7f7928b3a7aaadf6db62dcde",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-node.md",
+      "sha256": "14d1c6c0ba51dfad680fde7b117a78e9ca7e7a658bb8ec05268f1605af1e1743",
+      "source_section_sha256": "1c14dad80280b88b21732881400b690833940b48f81b3700e6f2276e6c92f644",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-pluto.md",
+      "sha256": "99e28fe1df21ffea8422b912e274df2461f30c53ee6db1c40bc2352721bd367a",
+      "source_section_sha256": "44a941b900cb00bf9668b621bdb0bb72f4dfd9326f7046938853f909e594f950",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-poseidon.md",
+      "sha256": "0d4f46336e4e2149380bb14524d26894b63c8fa1f7b51d966aa1206cac05e125",
+      "source_section_sha256": "747ba0bd374b7a68fa3fe4d22a5e4ae5b97d025c87cc91ec8c42fa6b7d9d0a8d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-saturn.md",
+      "sha256": "da3033483ca28ff400a4e95837e23cf9ffe02ea32862ac7fa4b1a8ad7e91d97a",
+      "source_section_sha256": "9f7e7042fd2e7cb0c1aaea720ca93c2c003b139a61d3ee3cd70c2f7cac99a9f9",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-sun.md",
+      "sha256": "a6932bad200d62bb3c167a5fa5da831399d71672418eb119b5e2cf53cfa34be9",
+      "source_section_sha256": "6c3de741e43dac62d44c3179dfffcea6cb56fa0034d32192fed505fa4ba3cb28",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-venus.md",
+      "sha256": "b33a8842eaace1cd8b155fa580e512c59ea3959d63facb945422f0b675072568",
+      "source_section_sha256": "1d7bed8f7b0228b595bc7d1f0fc9f94e3625d4ed3bc62580686b9557afee9aea",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-vernal-point.md",
+      "sha256": "27612d5a76cd1c296c859ef608e4bfe8c3c7b47047f5422efd09a0fc80439976",
+      "source_section_sha256": "4df34c5892f12bfec0f63a3a9ba36085212cb828f2400eb7d4f20d8f2c4f8d28",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-vulcanus.md",
+      "sha256": "f0678524bb16d000b5b2dd9baa8f6415a7d72fe44774ad25eb1985259b294ef5",
+      "source_section_sha256": "5b232e538c735da03a8d0c18f72cbb58b230eb943089a30ce726d61f8d26ecc1",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-cupido-equals-zeus.md",
+      "sha256": "321c1f6bf59bde29139c2b892094171ab8899ffda10e23ade1a254fc5d69a203",
+      "source_section_sha256": "190e177045cbaf534c16f4255ce9c2915ea180c10ba6ec5b70bf663ee95c88ce",
+      "outcome": "changed"
+    }
+  ]
+}

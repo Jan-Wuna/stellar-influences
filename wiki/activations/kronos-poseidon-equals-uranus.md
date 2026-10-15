@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - Triad hub: [Uranus Kronos Poseidon](../triads/uranus-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 302 (one-based), Kronos + Poseidon, Uranus entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To obtain surprisingly sudden clarity and certainty in highly spiritual or intel
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 467; PDF p. 232 (one-based), Kronos + Poseidon, Uranus entry.
+
 #### ABC Entry
 
-spiritual impulses of authority, great spiritual renewal, great technical clarity, great technical superiority, cultural event in the state, independent cultural reform, tensions through a special idea, and important spiritual impulses
+Intellectual impulses from authority; great intellectual renewal; great technical clarity; great technical superiority; a cultural event in the state; independent cultural reform; tensions through a special idea; important intellectual impulses.
+
+## Comparative Schema
+
+- Core meaning: Sudden clarity and intellectual certainty accompany renewal, reform, and technical distinction.
+- Psychology: Surprising insight is explicit, while ABC also retains tensions arising from a special idea.
+- Body/health: No particular body or health claim is developed.
+- Social/relationship: Intellectual impulses from authority and cultural reform place the theme in public institutions.
+- Events/manifestations: Technical clarity or superiority, cultural events, and intellectual renewal are stated manifestations.
+- Conflicts/notes: Certainty is an experience in the entry, not proof that an idea is correct.
+
+## Contradictions And Tensions
+
+Certainty is an experience in the entry, not proof that an idea is correct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Uranus`: abrupt certainty and breakthrough understanding in highly spiritual or intellectual subjects.
-- Chart expression: revelation, rapid insight, and decisive mental illumination that changes the whole frame at once.
+With Uranus, Kronos/Poseidon emphasizes the arrival of clarity and new intellectual impulses. Witte describes surprising sudden certainty in spiritual or intellectual subjects; ABC broadens this to renewal, technical clarity, and independent cultural reform. A cultural event in the state and impulses from authority retain the public setting, while tensions through a special idea preserve the less settled side. The felt certainty of an insight should remain distinct from a claim that it is demonstrably true. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

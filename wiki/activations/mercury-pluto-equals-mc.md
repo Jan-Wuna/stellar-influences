@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Pluto MC](../triads/mercury-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,18 @@ Thinking and understanding are one thing. The capability of adjusting one’s th
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 252; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-I think of change, my change of mind, my movement in the water, my development in the traffic, my development in the youth, my opinion development, my soul development, and the growing language of the soul
+I think of change, my change of mind, my movement in the water, my development in the traffic, my development in the youth, my opinion development, developing soulful thoughts, and the growing language of the soul
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source reference: printed p. 165; entry `0541` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +67,16 @@ Ability to cope with any situation, good powers of observation, keen powers of j
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source reference: PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 Creating deeper and truer communication should be a major part of one’s life’s work. Mental battles with employers. A need to allow one’s mind to be mentally receptive to spiritual energy rather than shutting it out due to rigidly and relentlessly held attitudes and ideas.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 172 (entry page).
 
 - Source heading: `MERCURY/PLUTO with Planets and Points`
 - Source page: `172`
@@ -70,22 +87,21 @@ Added needs to grow and develop thru what you learn about life; receiving recogn
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal adaptation through observation, judgment, and developing thought. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry).
+- psychology: Foresight and flexibility, with rigid attitudes a possible obstacle. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: Witte links mental mobility with outward nimbleness; no medical condition is stated.
+- social/relationship: Recognition for achievements and possible mental battles with employers. [Munkasey](#munkasey-entry), p. 172; [Sandbach](#sandbach-entry).
+- events/manifestations: Arranging matters well, changing behavior to gain recognition, and pursuing deeper communication as life work. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry).
+- conflicts/notes: Personal development is broader than public messaging; secrecy is not stated in these entries.
 
 ## Contradictions
 
-- None recorded yet.
+Adaptability and rigid attitudes are contrasting possibilities. Recognition is one theme, not the sole definition of MC here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = MC`: forceful messaging, serious analysis, and public effectiveness gained through mental leverage. Main caution: controlling ambition: vocation can become secretive, overpressured, or too dependent on influence and strategy.
+In `Mercury/Pluto = MC`, MC specifies developing thought through one's own adjustment, judgment, and life work. The ability to observe and arrange matters is linked with mental flexibility, rather than merely with forceful speech. [Witte](#witte-entry); [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) adds the task of making communication deeper while loosening rigid attitudes, and [Munkasey](#munkasey-entry), p. 172, adds growth through learning and the wish for recognition.
 
 ## Links
 

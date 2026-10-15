@@ -25,6 +25,7 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Poseidon = Mercury`
 - Astronomicon formula: `R/¨ = T`
 - Axis page: [Moon/Poseidon](../axes/moon-poseidon.md)
@@ -34,21 +35,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Poseidon`, PDF p. `138` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Conversations with people who are mentally inspired. Receptive of ideas. Born graphologist. Media who speak or write.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Poseidon`, printed p. `206`, PDF p. `102` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Culture language between women, insightful young woman, talk about the spirit of the hour, talk about the hour of enlightenment, youth culture of a people, media culture of a people, and truthfulness of female youth
+Cultural conversations between women, an insightful young woman, conversations about the spirit of the hour, conversations about the hour of enlightenment, youth culture of a people, media culture of a people, and truthfulness of female youth.
+
+## Comparative Schema
+
+- core meaning: receptive understanding is exchanged through conversation, speech, and writing.
+- psychology: openness to ideas and insight are represented.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: conversations with inspired people and cultural conversations between women.
+- events/manifestations: youth and media culture; Witte separately names graphology and speaking or writing media.
+- conflicts/notes: Witte's "Media" is preserved in its source wording; it should not be silently equated with ABC's modern media-culture phrase.
+
+## Contradictions
+
+- No direct conflict is stated. The entries share communication and receptivity, while their particular examples of graphology, media, youth, and cultural conversation remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Mercury`: Conversations with people who are mentally inspired. Receptive of ideas. Born graphologist. Media who speak or write.
-- Practical expression: culture language between women, insightful young woman, talk about the spirit of the hour, talk about the hour of enlightenment, and youth culture of a people.
+Mercury specifies the Moon/Poseidon pair through the reception and communication of ideas. Conversations with inspired people, cultural exchange, and discussion of moments of understanding join an openness to impressions with speech or writing ([Witte entry](#witte-entry); [ABC entry](#abc-entry), printed p. 206). Witte's graphologist and speaking or writing media are particular source examples, while ABC adds youth and media culture; these should not be treated as interchangeable occupations or practices.
 
 ## Links
 

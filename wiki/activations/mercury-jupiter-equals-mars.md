@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Mars`
 - Astronomicon formula: `T/V = U`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Activity accompanied by merry chatter. Reaction to financial reports.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-Working on youth law, successful working language, successful description of work, successful youth work, joy about media activity, thoughts about work pleasure, good news for the youth, about the, and "work" of money report
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> Arbeit am Jugend-Recht, erfolgreiche Arbeits-Gespräche, erfolgreiche Beschreibung der Arbeit, erfolgreiche Jugend-Arbeit, Freude über Medien-Tätigkeit, Gedanken über Arbeits-Freude, gute Nachricht für die Jugend, über die „Arbeit“ des Geldes berichten
+
+Editorial translation from the German passage: Work on youth law; successful work discussions; successful description of work; successful youth work; pleasure in media activity; thoughts about enjoyment of work; good news for young people; reporting on the “work” of money.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ The effort and energy you put into pursuing various types of knowledge or educat
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Active effort in learning, communicating, and putting considered ideas to work ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Willingness to revise an inefficient approach is explicit.
+- body/health: No bodily condition appears.
+- social/relationship: Excessive talk can cause conflict; initiative can bring issues into discussion.
+- events/manifestations: Merry chatter during activity, response to finance reports, work discussions, and military law are named.
+- conflicts/notes: The entry supports initiative and adjustment, rather than a general entrepreneurial identity.
 
 ## Contradictions
 
-- None recorded yet.
+Cheerful activity, forceful communication, and conflict from overtalking are distinct possibilities. Sandbach also permits changing one's approach, so persistence need not imply rigidity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Mars`: entrepreneurial thought, bold teaching, and the courage to advance a plan or worldview decisively. Main caution: argumentative excess: confidence in ideas can become pushy, rash, or too eager to win rather than discern.
+In `Mercury/Jupiter = Mars`, Mars specifies expanded thought through effort and action: pursuing education, communicating experience, and bringing issues forward to work them out. The source range includes cheerful chatter during activity and reaction to financial reports, while Sandbach adds the need to modify an inefficient approach and the conflict caused by saying too much. Initiative here concerns using and discussing knowledge, with military law as one specifically named application ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

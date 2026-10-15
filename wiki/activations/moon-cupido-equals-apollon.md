@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Cupido](../axes/moon-cupido.md)
 - Triad hub: [Moon Cupido Apollon](../triads/moon-cupido-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).
 
 To learn together with many other people, to spend leisure hours together with them.
 
@@ -42,13 +46,27 @@ To learn together with many other people, to spend leisure hours together with t
 
 #### ABC Entry
 
-Extension of community owned, successful people art, wife of the arts science, trade community in the people, artist experiences of a woman, scientific women community, and increasing people community
+- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan).
+
+Expansion of feelings of community, successful folk art, woman of art scholarship, trading community among the people, a woman's experiences in art, scientific women's community, growing people's community.
+
+## Comparative Schema
+
+- core meaning: Community extends into learning and a wider circle.
+- psychology: Shared learning is explicit; a separate account of individual motivation is absent.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Leisure with many other people; ABC also names trade and scientific women's communities.
+- events/manifestations: Learning together and an increasing community are concrete examples.
+- conflicts/notes: The scan restores expansion of community feelings and a woman of art scholarship; collective learning and artistic experience retain distinct settings.
+
+## Contradictions
+
+No direct contradiction is established. The entries retain distinct social, emotional and artistic examples within this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Apollon`: To learn together with many other people, to spend leisure hours together with them.
-- Practical expression: extension of community owned, successful people art, wife of the arts science, trade community in the people, and artist experiences of a woman.
+In `Moon/Cupido = Apollon`, shared life widens through learning with many people and spending leisure together. Expanding feelings of community accompany a growing people's community, trading associations and a scientific women's community. Successful folk art, a woman of art scholarship and her artistic experiences give that breadth cultural and intellectual forms. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

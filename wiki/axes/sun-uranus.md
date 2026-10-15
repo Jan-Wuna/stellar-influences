@@ -28,6 +28,8 @@ related_activations:
   - Sun/Uranus = Pluto
   - Sun/Uranus = Poseidon
   - Sun/Uranus = Saturn
+  - Sun/Uranus = Sun
+  - Sun/Uranus = Uranus
   - Sun/Uranus = Venus
   - Sun/Uranus = Vernal Point
   - Sun/Uranus = Vulcanus
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Sun/Uranus`
 - Astronomicon axis: `S/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/URANUS`
-- Source page: `79`
+- Source heading: `SUN + URANUS`
+- Source page: PDF p. 108.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Tension of the body. Nervousness. Sudden physically exciting events. Apoplexy. A
 
 #### ABC Pair Summary
 
-Dynamic man, agitated person, corporal tensions, nervous person, new persons, personal excitement, personal rhythm, personal event, tension day, technical center, restless person, and day of reform
+- Source page: printed pp. 152–153; PDF p. 75.
+
+Dynamic man, agitated person, physical tensions, nervous person, new people, personal excitement, personal rhythm, personal event, day of tension, technical center, restless person, day of reform.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 95; PDF p. 97.
 
 #### Principle
 
@@ -112,7 +119,11 @@ Innovator, reformer, inventor, technician, rebel.
 
 #### Probable Manifestations
 
-+ A sudden turn in life, improvement of living conditions, a change of place or vocation, carrying out of innovations, reforms. - States of tension, sudden setbacks in life, upsetting experiences, sudden adjustment to new conditions or circumstances in life (found repeatedly in cases of military call-up and of imprisonment), connection with accidents or catastrophes. 8 Under Biological Correspondence it should be noted that Sun/Uranus combinations show a tendency to cardiac embolism if too little care is taken of the health. GW
++ A sudden turn in life, improvement of living conditions, a change of place or vocation, carrying out of innovations, reforms. - States of tension, sudden setbacks in life, upsetting experiences, sudden adjustment to new conditions or circumstances in life (found repeatedly in cases of military call-up and of imprisonment), connection with accidents or catastrophes.
+
+#### Source Note 8
+
+Under Biological Correspondence it should be noted that Sun/Uranus combinations show a tendency to cardiac embolism if too little care is taken of the health.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -168,6 +179,8 @@ It is not a criminal contact and appears to indicate peril to the emotional natu
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF p. 17.
+
 #### Principle
 
 To realize the importance of one’s own individual uniqueness, and to find the self-confidence to express it. The sudden or unusual revealing of unexpected meaning in life, often through inspiration. A change of purpose or direction in life. The ability to see for oneself what is important apart from what other people think.
@@ -177,6 +190,8 @@ To realize the importance of one’s own individual uniqueness, and to find the 
 The realization of one’s completeness as an original and utterly unique ex pression of the Spiritual Light. The discovery of meaning through inspiration. Chang ing one’s life direction so that it more fully reflects who one really is.
 
 ### Robert Hand - Horoscope Symbols
+
+- Source page: PDF pp. 201–202.
 
 #### Pair Delineation
 
@@ -219,7 +234,7 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Uranus: Eccentricity`
-- PDF page(s): `285`
+- PDF page(s): `285–286`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -227,17 +242,17 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - shadow: The Irresponsible Person and the Traitor
 - comparison: Essence Individuality Focus of attention Outside Creativity Upheaval Development Mutation Equanimity Rebellion
 - general: The free person . Consciousness of uniqueness . The original , crazy , or eccentric mind .
-- harmony: The Casual Individual. Great striving for independence, autonomy, and the freedom to live a completely individual life. Very interested in experimenting. Imaginative and inventive. Sometimes ingenious and often ahead of the times. Can easily adapt to new ideas, plans that have changed suddenly, unfamiliar situations, and new relationships.
-- discord: The Self-Sufficient Person. Exaggerated, sometimes problematic striving for independence that sooner or later experiences every form of contractual obligation or verbal agreement as an intolerable prison. As a result, more often than not commits a breach of contract out of emotional self-defense.
+- harmony: The Casual Individual. Great striving for independence, autonomy, and the freedom to live a completely individual life. Very interested in experimenting. Imaginative and inventive. Sometimes ingenious and often ahead of the times. Can easily adapt to new ideas, plans that have changed suddenly, unfamiliar situations, and new relationships. On the other hand, tolerates no type of routine, constricting structures, or restrictions of one's independence.
+- discord: The Self-Sufficient Person. Exaggerated, sometimes problematic striving for independence that sooner or later experiences every form of contractual obligation or verbal agreement as an intolerable prison. As a result, more often than not commits a breach of contract out of “emotional self-defense” because personal freedom is always more important than any type of responsibility. Inwardly restless and torn. Constantly seeks change. Sudden and radical break with old habits in life, people, or attitudes. Unpredictable, egocentric, cold-blooded, impersonal, willful, and seditious.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: an independent and original expression of self, often accompanied by sudden change, reform, or bodily excitement ([Ebertin](#principle), [Hand](#pair-delineation), [Witte](#pair-summary)).
+- psychology: inventive confidence and a clear individual purpose coexist with impatience, obstinacy, caprice, and restless resistance to expectations ([Ebertin](#psychological-correspondence), [Falis](#falis-entry)).
+- body/health: tension, nervousness, sudden bodily reactions, and stress recur. Ebertin's cardiac claims, Carter's ailments, and Munkasey's injury and blood-pressure associations remain attributed historical material ([Witte](#pair-summary), [Munkasey](#with-body-or-mind)).
+- social/relationship: leadership and personal magnetism, freedom for oneself and a partner, unconventional attachments, or difficulty accepting another person's independence ([Carter](#harmonious-aspects), [Munkasey](#in-your-relationships)).
+- events/manifestations: innovations, changes of vocation or circumstances, experimental creative work, reforms, and disruptive reversals; the institutional range includes legislative reform and rebellion ([Ebertin](#probable-manifestations), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: independence may sustain an original purpose or become rebellion for attention. Carter differentiates aspect conditions; neither catastrophe nor successful reform follows inevitably from the pair.
 
 ## Related Activations
 
@@ -258,6 +273,8 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 - [Sun/Uranus = Pluto](../activations/sun-uranus-equals-pluto.md)
 - [Sun/Uranus = Poseidon](../activations/sun-uranus-equals-poseidon.md)
 - [Sun/Uranus = Saturn](../activations/sun-uranus-equals-saturn.md)
+- [Sun/Uranus = Sun](../activations/sun-uranus-equals-sun.md)
+- [Sun/Uranus = Uranus](../activations/sun-uranus-equals-uranus.md)
 - [Sun/Uranus = Venus](../activations/sun-uranus-equals-venus.md)
 - [Sun/Uranus = Vernal Point](../activations/sun-uranus-equals-vernal-point.md)
 - [Sun/Uranus = Vulcanus](../activations/sun-uranus-equals-vulcanus.md)
@@ -265,15 +282,15 @@ Blood pressure abnormalities; bodily reactions to stress; shock or trauma; deafn
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The sources span stable, independent leadership and abrupt changes of aim. Carter's aspect-conditioned emphasis on steadiness and Falis's changing self-expression should both remain visible rather than being converted into a single fixed temperament.
+- The historical medical and gender claims in Carter and Ebertin are source claims; they are not general conclusions about a person with this axis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus` is the axis of liberated individuality, originality, reform, and sudden self-assertion. It combines identity, will, and visibility with freedom, disruption, innovation, nervous voltage, and the refusal to live by ordinary patterns.
-- Chart expression: inventive self-expression, independence, unconventional leadership, breakthrough change, and the need to follow an individual path even when it breaks with consensus. Liabilities: instability, self-will, alienation, abrupt reversals, rebelliousness, and strain produced by living in continual tension against limits.
+`Sun/Uranus` concerns the need to express a distinctive self and act from an independently recognized purpose. Invention, reform, experimental play, and sudden insight can make an individual path possible; restlessness and bodily tension give that process an urgent quality. The difficulty arises when freedom becomes refusal of every expectation, or originality becomes self-will and attention-seeking ([Ebertin](#psychological-correspondence), [Falis](#falis-entry), [Hand](#pair-delineation)).
+
+Its range includes both convincing independent leadership and abrupt changes that disrupt established work or attachments. In relationships the same theme is the ability to grant a partner autonomy, or the difficulty of tolerating that autonomy while insisting on one's own. Technical innovation and public reform are explicit possibilities, while accidents and medical conditions remain attributed source associations rather than inevitable outcomes. Carter's differing aspect conditions qualify his account and do not make this unordered pair a single fixed personality type ([Carter](#harmonious-aspects), [Munkasey's relationship entry](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
 
 ## Links
 

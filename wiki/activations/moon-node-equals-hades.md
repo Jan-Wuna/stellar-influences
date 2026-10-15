@@ -29,10 +29,13 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/g = ¢`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Triad hub: [Moon Node Hades](../triads/moon-node-hades.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `121`.
 
 #### Witte Entry
 
@@ -40,16 +43,29 @@ Poor connections of women. The rejection of relationships with women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `175`; PDF p. `86`.
+
 #### ABC Entry
 
-Disappointment in connection with women, dangerous contacts with women, criminal connection with women, grim GemOts connection, connected with criminal women, disadvantages caused by flimsy relationships, and hidden relations with women
+Privations in a connection with a woman, dangerous contacts with women, a criminal connection with women, a sorrowful emotional connection, connected with criminal women, disadvantages through emotional relationships, and hidden relationships with a woman
+
+## Comparative Schema
+
+- core meaning: Hades specifies the pair through deprived, sorrowful, rejected, or disadvantageous connections.
+- psychology: the checked ABC wording concerns sorrow in an emotional bond rather than an undefined grim disposition.
+- body/health: neither entry establishes a bodily or clinical condition.
+- social/relationship: rejection, hidden ties, dangerous contacts, and criminal associations are source-specific examples.
+- events/manifestations: privation and disadvantage arising through relationships are explicit; the entries do not establish that any particular person is criminal.
+- conflicts/notes: the sources' gendered examples remain attributed; shame, neglect, and social inferiority are not established by the wording here.
+
+## Contradictions
+
+- Witte's poor or rejected ties and ABC's privation and sorrow overlap in difficulty, while ABC adds danger and secrecy. No explicit incompatible claim is established, and overlap does not make the listed harms inevitable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Node = Hades`: Poor connections of women. The rejection of relationships with women.
-- Practical focus: degrades `Moon/Node` into poor connection, relational rejection, and emotionally unsatisfying association. It can show difficult female bonds, social inferiority, or belonging marked by neglect, shame, or exclusion.
-- Practical expression: disappointment in connection with women, dangerous contacts with women, criminal connection with women, grim GemOts connection, and connected with criminal women.
+In `Moon/Node = Hades`, Hades specifies the pair through connections marked by privation, sorrow, rejection, or disadvantage. [Witte](#witte-entry) emphasizes poor and rejected relationships; the checked [ABC entry, p. 175](#abc-entry) adds hidden or dangerous contacts and emotional ties that bring disadvantage. These describe troubled forms of association, not a judgment that women or emotionally involved people are inherently dangerous or socially inferior.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Neptune`
 - Astronomicon formula: `Q/§ = Y`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To wield a surprisingly great power of attraction. To suddenly fall passionately in love.
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Neptune row; the preceding sudden-attraction row belongs to Uranus and is excluded.
+
+Faked or pretended love or attraction. Passing fancy or affection. The sexual urge is muddled, unclear and confused.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exchangeable peace power, subtle Licbcs energy, massive love exchange, metaphysical influence, new art, strong I, to metaphysics, preference for water energy, and influence on future peace
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Neptune row; complete nine-clause row checked.
+
+Editorial translation, checked against the scan: Disappointing power of peace, subtle or immaterial love energy, great disappointment in love, metaphysical influence on art, new artistic influences, weak power of peace, strong love of metaphysics, preference for water energy, and influencing future peace.
+
+## Comparative Schema
+
+- core meaning: powerful attraction or affection expressed through uncertainty, transience or disappointment, alongside subtle love energy and metaphysical interests.
+- psychology: pretended affection, passing fancy and confused desire in Witte; strong love of metaphysics in ABC.
+- body/health: Witte's description of a confused sexual urge is attributed historical vocabulary, not a medical diagnosis.
+- social/relationship: love or attraction may be pretended or passing, with great disappointment among ABC's stated possibilities.
+- events/manifestations: metaphysical and new artistic influences, water energy, and influence on future peace; ABC also names disappointing or weak power of peace.
+- conflicts/notes: the sudden-attraction passage belongs to Uranus, not Neptune. The Neptune entries distinguish uncertain or disappointing affection from subtle energy and metaphysical influence; neither makes every relationship deceptive.
+
+## Contradictions
+
+Witte describes pretended or passing affection and confused desire; ABC retains great disappointment alongside subtle love energy, metaphysical interests and artistic influence. These are different expressions, not a guarantee that attraction is false. ABC's power-of-peace and water-energy phrases do not identify a specific technical setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Neptune`: to wield a surprisingly great power of attraction.
-- Practical expression: exchangeable peace power, subtle Licbcs energy, massive love exchange, metaphysical influence, and new art.
+In `Venus/Vulcanus = Neptune`, Neptune specifies the pair through uncertainty about affection and desire. The [Witte entry](#witte-entry) names pretended love or attraction, passing fancy, and a sexual urge described as muddled or confused; the [ABC Entry](#abc-entry) adds great disappointment in love. Strong attraction therefore does not by itself establish the reality or persistence of affection in these entries.
+
+ABC also preserves subtle or immaterial love energy, strong love of metaphysics, and metaphysical or new artistic influences. Its disappointing or weak power of peace, preference for water energy, and influence on future peace extend the range beyond personal attraction without specifying a technical mechanism. These meanings belong to the checked Neptune row; the sudden passionate falling-in-love passage belongs to Uranus.
 
 ## Links
 

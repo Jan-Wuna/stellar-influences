@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Poseidon`
 - Astronomicon formula: `T/Y = ¨`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 High minded intuition. To search into ideas intuitively.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Reports on metaphysical truths, foreign cultural reports, foreign language culture, intellectual youth culture, intellectual language about metaphysics, clarity through intuitive thinking, the need for a future youth, and refined media culture
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Berichte über metaphysische Wahrheiten, fremde Kultur-Berichte, fremde Sprach-Kultur, geistreiche Jugend-Kultur, geistvolle Gespräche über Metaphysik, Klarheit durch intuitives Denken, Vernunft einer zukünftigen Jugend, verfeinerte Medien-Kultur
+
+Editorial translation from the German passage: Reports about metaphysical truths; foreign cultural reports; foreign-language culture; intellectually lively youth culture; thoughtful conversations about metaphysics; clarity through intuitive thinking; reason among future youth; refined media culture.
+
+## Comparative Schema
+
+- core meaning: High-minded intuition and intuitive investigation of ideas ([Witte](#witte-entry)).
+- psychology: ABC explicitly connects intuitive thinking with clarity.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Foreign language and cultural reports, youth culture and metaphysical conversations are ABC examples.
+- events/manifestations: Metaphysical reports and refined media culture provide concrete communicative settings.
+- conflicts/notes: ABC's reason or good sense of future youth must not be translated as need.
+
+## Contradictions
+
+The sources agree on an affirmative intellectual use of intuition. They do not establish that every intuitive impression is true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Neptune = Poseidon` spiritualizes the axis into high-minded intuition and idea-search.
-- Chart expression: intuitively seeking out ideas, perceiving subtle truths, and letting elevated or spiritual mentality guide the movement of thought.
+In `Mercury/Neptune = Poseidon`, Poseidon specifies the axis through high-minded intuition used to investigate ideas. ABC makes the connection explicit as clarity through intuitive thinking, then places it in metaphysical conversation, foreign-language culture and refined media work. Its reference to reason among future youth adds an intellectual quality, rather than a need for youth. This supports intuitive inquiry and cultural communication without certifying every impression as truth ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

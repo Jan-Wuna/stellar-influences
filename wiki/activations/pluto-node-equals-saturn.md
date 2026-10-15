@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Saturn Pluto Node](../triads/saturn-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 148 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ New connections by separating from the old ones. New connections which become ef
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed p. 223 (PDF p. 110).
+
 #### ABC Entry
 
-Task interaction in a connection, stressful development of a relationship, developing patience in a connection, lossful change in a connection, growth by separation of a relationship, and changes in an emergency connection
+Linking tasks within a connection, stressful development of a relationship, developing patience in a connection, lossful change in a connection, growth by separation of a relationship, and changes in a serious connection
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed p. 293, entry 1053.
 
 #### Ebertin Entry
 
 Lack of adaptability, rebelliousness or truculence, revolt, fighting against oppression. Violent termination of relationships.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: Chapter starts at PDF p. 114 (one-based); exact activation page is not established.
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Lessens desires to use and discard others; allows you realize that personal trus
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connections change under pressure, separation or the need for patience.
+- psychology: Fear of powerful ties and resistance to oppression coexist with growing discernment.
+- body/health: No bodily condition is specified; stress is described psychologically.
+- social/relationship: Old ties may end; trust can develop slowly.
+- events/manifestations: Delayed connections, separation and eventual relational change.
+- conflicts/notes: Munkasey's restraint differs materially from the coercive and disruptive accounts.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin stresses revolt and violent termination, whereas Munkasey describes less use of others and trust built over time. These are distinct possible expressions, not a shared promise of enduring loyalty.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Saturn`: serious loyalty, enduring but transformative bonds, and the ability to withstand difficult group conditions. Main caution: oppressive connection: ties can become isolating, punitive, or too fused with fear, burden, and control.
+In `Pluto/Node = Saturn`, Saturn specifies changing relationships through limits, delay and the pressure to separate or rebuild trust. The [Witte entry](#witte-entry) describes new connections emerging from old ones ending, and [Sandbach](#sandbach-entry) describes fear and pressure around powerful ties. [Ebertin](#ebertin-entry) gives a confrontational extreme. [Munkasey](#munkasey-entry), printed p. 344, instead emphasizes slowing down and ceasing to use or discard people; that constructive account must remain distinct from the harsher manifestations.
 
 ## Links
 

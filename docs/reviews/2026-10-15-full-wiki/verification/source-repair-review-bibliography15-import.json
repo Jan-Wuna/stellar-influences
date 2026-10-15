@@ -1,0 +1,12 @@
+{
+  "verifier": "/root/source_integrity_gate",
+  "source_audit": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-bibliography15-audit.json",
+  "source_audit_sha256": "e86e392c525c882fef8bb953ce2d7b1f0dbcda44f1a5c7772619bcedfc54c9b2",
+  "accepted_catalogues": 15,
+  "held": 0,
+  "current_file_and_lf_hashes_checked": 15,
+  "unique_original_record_raw_and_canonical_hashes_checked": 15,
+  "proof_hashes_checked": 33,
+  "source_entries_allowances_created": 0,
+  "issues": []
+}

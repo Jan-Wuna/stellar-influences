@@ -18,10 +18,12 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Mars`
 - Astronomicon formula: `R/U = U`
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS With Itself`
-- Source page: `114`
+- Source page: `114` (printed); one-based PDF p. 115, Mars under `MOON/MARS With Itself`; actual entry checked.
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Generating noise or activity, in general; an instinctive reaction to defend your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quick emotional action, self-defense, and persistence within Munkasey's repeated-pair entry. [Munkasey](#munkasey-entry).
+- psychology: Emotional involvement may fluctuate while persistence increases; reactions can be rapid and instinctive. [Munkasey](#munkasey-entry).
+- body/health: The need for protection is named, but no injury, illness, or bodily outcome is specified. [Munkasey](#munkasey-entry).
+- social/relationship: Self-defense is the only explicit relational setting; the entry does not establish aggression toward others. [Munkasey](#munkasey-entry).
+- events/manifestations: Generating noise or activity, defending oneself, and responding quickly at an emotional level. [Munkasey](#munkasey-entry).
+- conflicts/notes: Only Munkasey is represented. Mars repeats a member of the pair, and the page has no distinct three-factor hub.
 
 ## Contradictions
 
-- None recorded yet.
+This single entry offers no competing source account. Persistence and fluctuating emotional involvement are explicitly compatible within it.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Mars`: Generating noise or activity, in general; an instinctive reaction to defend oneself when one needs protection; greater persistence even when one's emotional involvement fluctuates; quick responses at an emotional level.
+In Munkasey's `Moon/Mars = Mars`, the repeated Mars specifies the pair through overt activity and quick emotional response. Instinctive self-defense and persistence give the activity a particular shape: effort can continue even when emotional involvement varies. The passage establishes those possibilities, not a general claim of aggression or invulnerability. [Munkasey entry](#munkasey-entry), printed p. 114.
 
 ## Links
 

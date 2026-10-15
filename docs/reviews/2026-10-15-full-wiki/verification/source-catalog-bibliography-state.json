@@ -1,0 +1,582 @@
+{
+  "created_at": "2026-10-15T14:29:54.277352+00:00",
+  "scope": "15 catalogue bibliographic sections and original source ledger records only; no new page reviews",
+  "status": "followup_saved_verified_pending_independent_review",
+  "pages": [
+    {
+      "path": "wiki/sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 1,
+      "pre_page_sha256": "bf508415745ab5dc680635a769b9277931ad0a2fc04aef136d1924b7cc8a4e33",
+      "frontmatter_sha256": "aa1fd2bcf5675f315195d60ff1c4b0c704d566da2498edda05db3c039553f2b0",
+      "pre_record_sha256": "26f694d4ff0cbd2d9b5d99bf42a9d5f30c402dbe4bfb9710279466c4046a4bf9",
+      "outside_bibliography_sha256": "bda12f69489e035bf3bcea5b953a20f5b3faaacff46045846d8dd9cbf58eb1fc",
+      "history_sha256": "035b863b8602bcbc59811727634c4ec2dfad126d9c229f53b3946bfce44db1c4",
+      "pre_bibliographic_body": "- Authors: Alfred Witte, Ludwig Rudolph, Hermann Lefeldt\n- Title: *Rules for Planetary Pictures*\n- Vault file: `Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf`\n- Edition, publisher, and publication date are not recorded here; `2020` is part of the vault filename.",
+      "recorded_raw_path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+      "final": {
+        "path": "wiki/sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md",
+        "current_page_sha256": "08d0e8e8acfe359fee8be2343d5f8ab8c6e80962dd0d844e767b3217950b82b7",
+        "current_file_sha256": "4458f84dfc518d6ddc514e317c9b85f552a629d65dc0bba33289fb97ba70dffc",
+        "frontmatter_sha256": "aa1fd2bcf5675f315195d60ff1c4b0c704d566da2498edda05db3c039553f2b0",
+        "history_sha256": "035b863b8602bcbc59811727634c4ec2dfad126d9c229f53b3946bfce44db1c4",
+        "bibliography_sha256": "ab31f6a91d8d57e50d9b2df46594deb41e1caa070f64f1f7ecea9b2d29e3300e",
+        "raw_sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 1,
+        "current_record_sha256": "47a8a054e8dc4625ae88e77214b499771bacf3982feef42e0f423d375bf9fa99",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-witte-pdf001.png",
+            "sha256": "d2bb9acd49e2ec9bd63024d93e13d4596b8c2fc50c36693cbd41cf6ddd57a299"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-witte-pdf002.png",
+            "sha256": "fbef8b57cf53a46cd87a3bd32a799be866f012ddf9a54e021cbfc1eef547adbe"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-witte-pdf003.png",
+            "sha256": "1a3876fdd33df1bf8f8d667e1b71f89f2aa65631bbd5f13069f48746ee1517b6"
+          }
+        ],
+        "relative_links_checked": 26
+      }
+    },
+    {
+      "path": "wiki/sources/aren-ober-midpoint-interpretation.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 2,
+      "pre_page_sha256": "2bca8b4a989dbf499b21f103b8c035d11d58fbf0ee2efc3f730f0f1158ee9007",
+      "frontmatter_sha256": "30851159847b1c2f83f53d6b9330ce4500bcb1a261bb44e4adc91ef50d527099",
+      "pre_record_sha256": "e89ede65ab8a0a44e0ab205fae5eaa69c4d511186762943f7fa0eabc8833a532",
+      "outside_bibliography_sha256": "b4fba7e763926ed8a86d917be47bfb729644a2b7f4c821d4752eb7558e01e9d8",
+      "history_sha256": "e24897cdd926d2aa6a45ede3a502e70369f6e66dadaf74b7bc207f50c4b63178",
+      "pre_bibliographic_body": "- Author: Aren Ober\n- Title: *Midpoint Interpretation Simplified*\n- Edition: 2nd edition\n- Reference PDF: `W:/books references etc/!master list astro/midpoints - Aren Ober - Midpoint Interpretation.pdf`\n- Publication year and publisher are not recorded here. The reference PDF is outside this repository's vault.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/midpoints - Aren Ober - Midpoint Interpretation.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "c1a767e024255745a3a8d1d1b1e7f5b482f6e67b42b4667b96a3ab5fee098f73",
+      "final": {
+        "path": "wiki/sources/aren-ober-midpoint-interpretation.md",
+        "current_page_sha256": "89cb74d1d0ff169feb7b1b17799df0ed44fdd0403e4b280c0bedde1bd6eb1605",
+        "current_file_sha256": "89cb74d1d0ff169feb7b1b17799df0ed44fdd0403e4b280c0bedde1bd6eb1605",
+        "frontmatter_sha256": "30851159847b1c2f83f53d6b9330ce4500bcb1a261bb44e4adc91ef50d527099",
+        "history_sha256": "e24897cdd926d2aa6a45ede3a502e70369f6e66dadaf74b7bc207f50c4b63178",
+        "bibliography_sha256": "a2eb426b46d4bc5da0c77974e7dd52ea0d4b78fe0a6759e5df6a933dc7dac558",
+        "raw_sha256": "c1a767e024255745a3a8d1d1b1e7f5b482f6e67b42b4667b96a3ab5fee098f73",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 2,
+        "current_record_sha256": "82ce61608d5d3c4d0fb289f356f58482d759e98db1cc25c1d2c71af099f986c3",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-ober-pdf001.png",
+            "sha256": "174bf8d61e832e3defbc0c1785f64920d273dab18a95336be02687dac1fe35d1"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-ober-pdf002.png",
+            "sha256": "5562c633e263b7348155ccca38329216bb81022221187d1320b7801ec4e09241"
+          }
+        ],
+        "relative_links_checked": 16
+      }
+    },
+    {
+      "path": "wiki/sources/charles-carter-the-astrological-aspects.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 3,
+      "pre_page_sha256": "2d729d15ff33e87d4ba1cfa7a95a77ca78d1bcd568f8e535b0c3d6a42ecd346c",
+      "frontmatter_sha256": "f2dcc56fbe65a0620bce60b37294b847ff48b19c316077943f1680e833ddbb42",
+      "pre_record_sha256": "9d1fd84d3fab8b8e0149c2e4d4744b34a8747a30c72428a87288fff9ad29a5d2",
+      "outside_bibliography_sha256": "04c0b921942325b25c478160953d94bc28756f70678ee29754b98dfa040510cd",
+      "history_sha256": "eb0699501fe040640790f9d30171f019ceb081af82e6b86456f48d79f3198009",
+      "pre_bibliographic_body": "- Author: Charles Carter\n- Title: *The Astrological Aspects*\n- Vault file: `Stellar Influences Vault/Book_2000_Charles Carter_The Astrological Aspects.pdf`\n- Edition, publisher, and publication date are not recorded here; the filename alone does not establish them.",
+      "recorded_raw_path": "Stellar Influences Vault/Book_2000_Charles Carter_The Astrological Aspects.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "447e05e45d1131cf7f93dec84254e18a0dfe7f9abb959b21a6d2f749963b772b",
+      "final": {
+        "path": "wiki/sources/charles-carter-the-astrological-aspects.md",
+        "current_page_sha256": "51aff962a673c534edc650d7f7f21ac36b024665167e04f3d0eeb613b525f460",
+        "current_file_sha256": "8ede000ded3e5ccd86a089afc2f79898759b84bf8febe2f9ad733446f5add175",
+        "frontmatter_sha256": "f2dcc56fbe65a0620bce60b37294b847ff48b19c316077943f1680e833ddbb42",
+        "history_sha256": "eb0699501fe040640790f9d30171f019ceb081af82e6b86456f48d79f3198009",
+        "bibliography_sha256": "a8cbb7b62002e1b11c56490f305540505857ad9abcd25b653d0cffc537d73deb",
+        "raw_sha256": "447e05e45d1131cf7f93dec84254e18a0dfe7f9abb959b21a6d2f749963b772b",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 3,
+        "current_record_sha256": "bb3f0dd006cb19bfa465ee3625eb4b99cbbff304425d1afaf99c5c186990cfa6",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-carter-pdf001.png",
+            "sha256": "b126cb4fc8a4503851866670bb90d1a10141f0f393c9b142e2664aa59699ec53"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-carter-pdf005.png",
+            "sha256": "58b4038f297f8d18f0d4f0a077114b0edc748f028590fb5ba60b9e93961e2a57"
+          }
+        ],
+        "relative_links_checked": 12
+      }
+    },
+    {
+      "path": "wiki/sources/don-mcbroom-midpoints.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 4,
+      "pre_page_sha256": "2ecbd81c04c8ed82d5e0638e74495301c5375e01e98cccf7a1a7c4e6931c2b74",
+      "frontmatter_sha256": "14080d26ad36408c95665ab2cf673c862046e81558c6e89facfe2c4cc26930d3",
+      "pre_record_sha256": "4aa357644b229fc780b9a5c4c03893df551af5de1407f1512bc2966c7f316fae",
+      "outside_bibliography_sha256": "46a0b95948695a739501319b346b9b7984e49a2da4c396ae1c4d65d1d3c30166",
+      "history_sha256": "4b4b678be1497e50728da47ffe9ce7cf1a8ab093d62c27f6b8230f8153591463",
+      "pre_bibliographic_body": "- Author: Don McBroom\n- Title: *Midpoints*\n- Vault file: `Stellar Influences Vault/Book_2007_Don Mcbroom_Midpoints.pdf`\n- Edition, publisher, and publication date are not recorded here; the filename alone does not establish them.",
+      "recorded_raw_path": "Stellar Influences Vault/Book_2007_Don Mcbroom_Midpoints.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "26cec253ae5b4b41235f4ebb072badb6783f45c539a84493f39b471dc7ccf34f",
+      "final": {
+        "path": "wiki/sources/don-mcbroom-midpoints.md",
+        "current_page_sha256": "cd0767b0db25f27ef6cc780e08f6e4675e4c24afbd325403a4ff40ebe324c319",
+        "current_file_sha256": "243ca8be2c1a426590b5e8ba2efef4dabcab1068caf77b20bcb018ecc4438d5a",
+        "frontmatter_sha256": "14080d26ad36408c95665ab2cf673c862046e81558c6e89facfe2c4cc26930d3",
+        "history_sha256": "4b4b678be1497e50728da47ffe9ce7cf1a8ab093d62c27f6b8230f8153591463",
+        "bibliography_sha256": "59c4c4d26911eabf4214a03443bd9127115855bab609025f0fef7f22a44a65be",
+        "raw_sha256": "26cec253ae5b4b41235f4ebb072badb6783f45c539a84493f39b471dc7ccf34f",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 4,
+        "current_record_sha256": "db3779984cc36db1fb2f55aff898f521085464754e9ca8f055f3dde09e04a681",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-mcbroom-pdf001.png",
+            "sha256": "07b24c914ae541139b880660f5374e3ff43c0db750f184d1ba883c2d7801696e"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-mcbroom-pdf002.png",
+            "sha256": "c3a5d5da1f8615b9040f0b066805ef8febf743cec2b607d8e29d37af4b00673d"
+          }
+        ],
+        "relative_links_checked": 11
+      }
+    },
+    {
+      "path": "wiki/sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 5,
+      "pre_page_sha256": "6f9f558def099fb6ebbb98b48623524bcb78f130ab3f8d35e800ee57d09cdad5",
+      "frontmatter_sha256": "99033bf55f34666a61088740427fcd835958fe0d174ec00dec3faa5c5ce18a03",
+      "pre_record_sha256": "9a5a73efc6266838755c566432a71bb3261ce30dcd1ae97834817d66f8349cbe",
+      "outside_bibliography_sha256": "09f3cbf827ba61eb6723a80ed497cd7e5f1753cf0408d3d0b196a37e203bb420",
+      "history_sha256": "6c9524d3a4aeaa6bb46ff0839033e41d506d19921ae52733b73073b49b871787",
+      "pre_bibliographic_body": "- Authors: Hajo Banzhaf and Anna Haebler\n- Title: *Keywords for Astrology*\n- Reference PDF: `W:/books references etc/!master list astro/Keywords for Astrology Hajo Banzhaf and Anna Haebler 2024.pdf`\n- Edition, publisher, and publication date are not recorded here; `2024` is part of the external reference filename.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/Keywords for Astrology Hajo Banzhaf and Anna Haebler 2024.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "b4e5581b9da7e7f6526b6a8014012fda9dc1d891bd075015467b60cc6550a15f",
+      "final": {
+        "path": "wiki/sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md",
+        "current_page_sha256": "9d358bc04ccd091edcd485a83e8fe3d4c7e562e5bd0d873fa82124303b13c8bf",
+        "current_file_sha256": "8b88963adf8d1746c3d083efad8e052fd2c533cf60cba2403a3f6a2bb6f25536",
+        "frontmatter_sha256": "99033bf55f34666a61088740427fcd835958fe0d174ec00dec3faa5c5ce18a03",
+        "history_sha256": "6c9524d3a4aeaa6bb46ff0839033e41d506d19921ae52733b73073b49b871787",
+        "bibliography_sha256": "22cbbccdaa0468e118a5766f6d86f343817186401b05a55a25e2061b25bef782",
+        "raw_sha256": "b4e5581b9da7e7f6526b6a8014012fda9dc1d891bd075015467b60cc6550a15f",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 5,
+        "current_record_sha256": "72846ebe13f3dc6872ad5e170bfb0a4e474037ac2a8a642bb727ddc42b6705f7",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-banzhaf-pdf001.png",
+            "sha256": "4cc018504db94106d0feb0dc0a4877da01fc6c41aa41666994d9a8ce71da3809"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-banzhaf-pdf002.png",
+            "sha256": "690687cf9dc9d56a5edbaf3a70c811bc645c8334c397d955d9690b44ca2cbc7d"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-banzhaf-pdf003.png",
+            "sha256": "2d7c21c9cbba927f3e4090b545a6b7953e3d0675f00d4584b3041171aab598cd"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-banzhaf-pdf004.png",
+            "sha256": "776ebc11e01a67969240b221d030d1599b2d31accf42a8003befa0d1f1ffc50d"
+          }
+        ],
+        "relative_links_checked": 13
+      }
+    },
+    {
+      "path": "wiki/sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 6,
+      "pre_page_sha256": "660cc20f55a4eb04ca13f60e9f5d9db0bec86aa17c708856567d03ee8a55456f",
+      "frontmatter_sha256": "4ce957327bd865ad18bfad30e8f92d0c9dffc6106d6d1390da684e7f746c71db",
+      "pre_record_sha256": "ebd01a5f0256af182da6827f74236cad03f790a64889f864401d31651d343fbe",
+      "outside_bibliography_sha256": "27d1cdbe1b955aacaa314b82f63b01124f48df5418261a64a0e41373a842f23d",
+      "history_sha256": "773cd40fc7dd259aa51099e365cc301b6139ac8e952ddf5a5f7b04c26a2c9f11",
+      "pre_bibliographic_body": "- Author: John Sandbach\n- Title: *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*\n- Vault file: `Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf`\n- Edition, publisher, and publication date are not recorded here; the filename alone does not establish them.",
+      "recorded_raw_path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895",
+      "final": {
+        "path": "wiki/sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md",
+        "current_page_sha256": "61fcda23de7658a4b2e6da13b3107d05b0d970743a9a74bb9a8ce8a50c76978b",
+        "current_file_sha256": "8aef8ba1279dd1b33bbcbad5beeeba8efafbbb0731ee14227536858d40b44e70",
+        "frontmatter_sha256": "4ce957327bd865ad18bfad30e8f92d0c9dffc6106d6d1390da684e7f746c71db",
+        "history_sha256": "773cd40fc7dd259aa51099e365cc301b6139ac8e952ddf5a5f7b04c26a2c9f11",
+        "bibliography_sha256": "0a269ad4c74a642bc433ad6dc9d2a3f18aec79bf95221b2276d9e01eb34ff052",
+        "raw_sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 6,
+        "current_record_sha256": "8c18a4c0b38e40dd43c3a59f994565d0a4d86d70bf95dc7d281c326a8a59f1e9",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-sandbach-pdf001.png",
+            "sha256": "feecd3d622dbf38d3b2dafd6a5a2b156eefbe8ba48483bbffa5bb0d112b56ae5"
+          }
+        ],
+        "relative_links_checked": 22
+      }
+    },
+    {
+      "path": "wiki/sources/l-edward-johndro-astrological-dictionary.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 7,
+      "pre_page_sha256": "c0513d6eca023160d797011f562af6bafd9aad5154a7098b015e1c4ca1b03d00",
+      "frontmatter_sha256": "00524014a7fceb82026dfa9e6ce80d9430690ceb0676ec7e5d0d0c579c167874",
+      "pre_record_sha256": "0ccba14463d5763040ec3c750296258b2c5959e8de338ba23f3e7488d72b3902",
+      "outside_bibliography_sha256": "1399c9b75a4bf66f162a05f0a21d8872b00c069cd684b35379007a4f133e0113",
+      "history_sha256": "d6ab8d98d7660fbd04256d2d0623b2e132f61d88093830f5b7c5a71de68b51d0",
+      "pre_bibliographic_body": "- Author: L. Edward Johndro\n- Title: *Astrological Dictionary*\n- Reference PDF: `W:/books references etc/!master list astro/planetary expressions - L Edward Johndro - Astrological Dictionary.pdf`\n- Edition, publisher, and publication date are not recorded here. The reference PDF is outside this repository's vault.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/planetary expressions - L Edward Johndro - Astrological Dictionary.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "3f2d6b614bd9f437bb3c55096d8a7b1a67edf4e8020dec66072c058dfe51d758",
+      "final": {
+        "path": "wiki/sources/l-edward-johndro-astrological-dictionary.md",
+        "current_page_sha256": "3f38ad47797ba13b053f96b76394b4956898cb5500397f85594cce1f6cb9c4a8",
+        "current_file_sha256": "aa19cefdb05eeefc12dab0c7f4b94394d1ba43018c64156ed844bc63978e7423",
+        "frontmatter_sha256": "00524014a7fceb82026dfa9e6ce80d9430690ceb0676ec7e5d0d0c579c167874",
+        "history_sha256": "d6ab8d98d7660fbd04256d2d0623b2e132f61d88093830f5b7c5a71de68b51d0",
+        "bibliography_sha256": "e662b4fe2c404cc9939eb48eadf0cfc3466bcd3596de1bb4cf4dd5444165f92d",
+        "raw_sha256": "3f2d6b614bd9f437bb3c55096d8a7b1a67edf4e8020dec66072c058dfe51d758",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 7,
+        "current_record_sha256": "c040a2dd9999ed1a9e616183060a9e3e4ca19f84f7991516a0370f28fb2169e6",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-johndro-pdf001.png",
+            "sha256": "873437538ad191846908c327b99fb3017a4cd0c463af823e32e41adef2cc1b53"
+          }
+        ],
+        "relative_links_checked": 11
+      }
+    },
+    {
+      "path": "wiki/sources/manly-p-hall-astrological-keywords.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 8,
+      "pre_page_sha256": "21ffc056b3afd64b586af978158e17cdfa9ff92ca8b301f3b5b6f996a452c20c",
+      "frontmatter_sha256": "290cf444ff4dba9c5be681b53f06cad7ecf8f8844951ca84c14b28d89d649c5a",
+      "pre_record_sha256": "5b2e1859c2f0c537a7bfb34db35894f07865a279d5f696cd0f9687f6e042e607",
+      "outside_bibliography_sha256": "1aec8afb57916b93139d9805e1b97f41ba55191aeb297355c3cb12191eee23c1",
+      "history_sha256": "9c948ec851b5ced2e65facf39b6ba4029cb3057fe87df01172ea9c2a590eee4a",
+      "pre_bibliographic_body": "- Author: Manly P. Hall\n- Title: *Astrological Keywords*\n- Reference PDF: `W:/books references etc/!master list astro/varia - Manly P Hall - Astrological Keywords.pdf`\n- Admitted PDF page range: `104-121` (printed pages `102-119`)\n- Edition, publisher, and publication date are not recorded here. The reference PDF is outside this repository's vault.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/varia - Manly P Hall - Astrological Keywords.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "8c9c88626b0551797bb4728837f0e01d50e0b91a4122cf5962d83e85f327251d",
+      "final": {
+        "path": "wiki/sources/manly-p-hall-astrological-keywords.md",
+        "current_page_sha256": "b2982f2851511480715bbce89bb59ad4f9f90171f11d4164bf939c431fb594f1",
+        "current_file_sha256": "b2982f2851511480715bbce89bb59ad4f9f90171f11d4164bf939c431fb594f1",
+        "frontmatter_sha256": "290cf444ff4dba9c5be681b53f06cad7ecf8f8844951ca84c14b28d89d649c5a",
+        "history_sha256": "9c948ec851b5ced2e65facf39b6ba4029cb3057fe87df01172ea9c2a590eee4a",
+        "bibliography_sha256": "472c02e3329235a928d1a3f1072c159c9544a7f81a450c54030b1df82ed56d9a",
+        "raw_sha256": "8c9c88626b0551797bb4728837f0e01d50e0b91a4122cf5962d83e85f327251d",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 8,
+        "current_record_sha256": "4e37aa6bfa66297a4c53bc31c0cb8ba944d6d8c4966b1b354584fb2389e76ca5",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-hall-pdf003.png",
+            "sha256": "92c9ca2edb2a5cdb8b08d4be16788bbed7b8fa3f17593c38c4018443644195a7"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-hall-pdf004.png",
+            "sha256": "67ae01cb2f73841ed50458f6f6fc29e7528c40a150baa294aa441dd6302c193b"
+          }
+        ],
+        "relative_links_checked": 10
+      }
+    },
+    {
+      "path": "wiki/sources/michael-harding-charles-harvey-working-with-astrology.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 9,
+      "pre_page_sha256": "a7de21b9ad9d5cdbb0d311dd21b9ce7c0f3d995e7adb71e96876613f12ca51f0",
+      "frontmatter_sha256": "378c65bbb7702cc4e6d6d09bfdbff427fefda4a1646c8643322f331200ac6759",
+      "pre_record_sha256": "287cc26efe6eb563ff354ee49c79f71b21e8a4998b9c87a6978aa378a55b75f1",
+      "outside_bibliography_sha256": "3fbb3653ec5728d9953dc9cf816a280fe3e23eb0ab827de22b33605ba41b11d1",
+      "history_sha256": "ccead0ee54a1d7a3584c582c7522b8a376d78709991c668bd463b3001f8b3f4b",
+      "pre_bibliographic_body": "- Authors: Michael Harding and Charles Harvey\n- Title: *Working with Astrology: The Psychology of Harmonics, Midpoints and Astro\\*Carto\\*Graphy*\n- Reference PDF: `W:/books references etc/!master list astro/harmonics - Michael Harding Charles Harvey - Working with astrology_harmonics, midpoints and Astro_Carto_Graphy.pdf`\n- Edition, publisher, and publication date are not recorded here. The reference PDF is outside this repository's vault.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/harmonics - Michael Harding Charles Harvey - Working with astrology_harmonics, midpoints and Astro_Carto_Graphy.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "733182edf1b7486a39c8baac8758048804268553b3d8dd24d00cc3efca60df27",
+      "final": {
+        "path": "wiki/sources/michael-harding-charles-harvey-working-with-astrology.md",
+        "current_page_sha256": "f00740cc17ee4ddb357dc40006810753aed3dacc36d2dd03231c705666fec539",
+        "current_file_sha256": "f00740cc17ee4ddb357dc40006810753aed3dacc36d2dd03231c705666fec539",
+        "frontmatter_sha256": "378c65bbb7702cc4e6d6d09bfdbff427fefda4a1646c8643322f331200ac6759",
+        "history_sha256": "ccead0ee54a1d7a3584c582c7522b8a376d78709991c668bd463b3001f8b3f4b",
+        "bibliography_sha256": "2c5311b1875bd4151fe638832e3275f4e64ca2b25e94668be467145fd999fc62",
+        "raw_sha256": "733182edf1b7486a39c8baac8758048804268553b3d8dd24d00cc3efca60df27",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 9,
+        "current_record_sha256": "5834ca576010b0cb4c0a2c01d777e9a39a53bd49132c56c17992a84f1e71a0e4",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-harding-harvey-pdf001.png",
+            "sha256": "6e5ef028710d7a0201e346e992dadeab54581234bd1e73ddc6bcaedadd27bb1a"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-harding-harvey-pdf002.png",
+            "sha256": "ab18ed39d6e673d0349b729e21adac11ef0a8f867206ea2621349db3282af090"
+          }
+        ],
+        "relative_links_checked": 4
+      }
+    },
+    {
+      "path": "wiki/sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 10,
+      "pre_page_sha256": "18044d8bfc74916c64780ede77c6b18bf2e16baf04fa0a7b71b486a6b68b1061",
+      "frontmatter_sha256": "b9a5bb827db85c589c6c2d8b69d75b16593c7034314b0de4722e9c98411aa850",
+      "pre_record_sha256": "8faa5776fa449340534b83135a9db22f238b15d587870ddae7a874f2c45d1247",
+      "outside_bibliography_sha256": "867b77cfdd1cf8402decb3afa9240a8cf7a7cfe58a0a5424b69fb379eb79f4f0",
+      "history_sha256": "6706f033c3e691cefb7b2b6e3f2dc7003e2f3d316f680f4bd699ac96778ed7e0",
+      "pre_bibliographic_body": "- Author: Michael Munkasey\n- Title: *Midpoints: Unleashing the Power of the Planets*\n- Vault file: `Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf`\n- Edition, publisher, and publication date are not recorded here.",
+      "recorded_raw_path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6",
+      "final": {
+        "path": "wiki/sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md",
+        "current_page_sha256": "69a84e370a5475727248d7e56135df4d9c63b76e7f5522edf77c3b2ebc999ac8",
+        "current_file_sha256": "8a241b0e8f8e2faced4aee18eef35cfb9dc7134e0dc78c648dfd4fc742ef716c",
+        "frontmatter_sha256": "b9a5bb827db85c589c6c2d8b69d75b16593c7034314b0de4722e9c98411aa850",
+        "history_sha256": "6706f033c3e691cefb7b2b6e3f2dc7003e2f3d316f680f4bd699ac96778ed7e0",
+        "bibliography_sha256": "551d47cbb153fe688086fac7963f9270d3bfa3a19fec1c6f7de0dc7348d37c26",
+        "raw_sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 10,
+        "current_record_sha256": "fe35e6921e76f405fab11f7901316192224774d8ac4faf24173a0421e84d3aac",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-munkasey-pdf001.png",
+            "sha256": "78d51d4db21af32ddc35d51e2631718c4e2a3fdb731895859908b942e383efd1"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-munkasey-pdf002.png",
+            "sha256": "8dbd78cdc5f18f68ea96572bc6821761b5bb6e41b051519e6b4f8036bb9f3fd8"
+          }
+        ],
+        "relative_links_checked": 17
+      }
+    },
+    {
+      "path": "wiki/sources/michelle-falis-planet-combinations-astrological-brainstorms.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 11,
+      "pre_page_sha256": "d8ab3c17f662ebb844d1d14122049859e34f020041f8635070859d1329690fcc",
+      "frontmatter_sha256": "6f8811c51641cce5c81a97c6c3e04849c261e2b5fd8d8f995dc2d861256f6830",
+      "pre_record_sha256": "8a2a8aa2c3bb9e101eabcb64840d63e2bc547b652cbda4481c283df8c3b032fe",
+      "outside_bibliography_sha256": "9425f142c3e968876d2af0f4505c87025dc56e0937e3ac97141e3dfa0bf90d07",
+      "history_sha256": "8fef35e6558d13a0e2107cc534dfd940f58bf46252155222708daa7c1c1782b3",
+      "pre_bibliographic_body": "- Author: Michelle Falis\n- Title: *Planet Combinations: Astrological Brainstorms*\n- Vault file: `Stellar Influences Vault/Book_2012_Michelle Falis_AstroFix_Planet Combinations- Astrological Brainstorms_kindle.pdf`\n- Edition, publisher, and publication date are not recorded here; the filename alone does not establish them.",
+      "recorded_raw_path": "Stellar Influences Vault/Book_2012_Michelle Falis_AstroFix_Planet Combinations- Astrological Brainstorms_kindle.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "4eaae184b9801b5eefc59b6f42cdeb5a5d91930dc0e13f5e51736d0c0a2feac4",
+      "final": {
+        "path": "wiki/sources/michelle-falis-planet-combinations-astrological-brainstorms.md",
+        "current_page_sha256": "d1c0c882849a0a4fe11f661637f8b0195b176f0512cfd7e8b84b1ca3bad404ff",
+        "current_file_sha256": "cf48748c5d1d7de000bba0b4dd8cccc4c469c730a85f7aec91f5f6be997094b9",
+        "frontmatter_sha256": "6f8811c51641cce5c81a97c6c3e04849c261e2b5fd8d8f995dc2d861256f6830",
+        "history_sha256": "8fef35e6558d13a0e2107cc534dfd940f58bf46252155222708daa7c1c1782b3",
+        "bibliography_sha256": "ec6e8380ec3a0104f61c47f9e804f4d9b1791a8213f9d16907affa69a5baac30",
+        "raw_sha256": "4eaae184b9801b5eefc59b6f42cdeb5a5d91930dc0e13f5e51736d0c0a2feac4",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 11,
+        "current_record_sha256": "6b4b0891295685ea6ebea0a40004a42656f6a63a821d8c5798705fa0117eb3d5",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-falis-pdf001.png",
+            "sha256": "6994af356cd9f794667f71eed4eaa18cbbf3c84d6369c3178ee9addf50dda738"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-falis-pdf083.png",
+            "sha256": "06229f5aebb4d5736da596438668a1048cba40331f3078dd1a441e9a8f5ccf16"
+          }
+        ],
+        "relative_links_checked": 12
+      }
+    },
+    {
+      "path": "wiki/sources/reinhold-ebertin-the-combination-of-stellar-influences.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 12,
+      "pre_page_sha256": "997b42d27bf42cc4d596caed43ce729744ddc9798305a2e6d2d8d8c74893cf29",
+      "frontmatter_sha256": "ee3b028d5e3ad2ffaedf1acd20fade758a7b50684e73a77743b52dd36c3cd421",
+      "pre_record_sha256": "6190907be99339d3f268ede5b8d2548446179b533f0ea217495a57bb2dba85bf",
+      "outside_bibliography_sha256": "888f4ad8cbe19b7f39822aab24393cd9af511c2052a2825f8772ec3327ac6594",
+      "history_sha256": "0b0b73bde99ebf1532ec9abc9f5c8ca3ca8bf7e95b087396666929d56e694f5d",
+      "pre_bibliographic_body": "- Author: Reinhold Ebertin\n- Title: *The Combination of Stellar Influences*\n- Vault file: `Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf`\n- Edition, publisher, and publication date are not recorded here.",
+      "recorded_raw_path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+      "final": {
+        "path": "wiki/sources/reinhold-ebertin-the-combination-of-stellar-influences.md",
+        "current_page_sha256": "afc7ac52ec6e33d7d9e76a402bd0dfa8492c269a094396e640d89281f85cb89f",
+        "current_file_sha256": "afc7ac52ec6e33d7d9e76a402bd0dfa8492c269a094396e640d89281f85cb89f",
+        "frontmatter_sha256": "ee3b028d5e3ad2ffaedf1acd20fade758a7b50684e73a77743b52dd36c3cd421",
+        "history_sha256": "0b0b73bde99ebf1532ec9abc9f5c8ca3ca8bf7e95b087396666929d56e694f5d",
+        "bibliography_sha256": "ce19244d0d5c0c02cb316a7bf1c9c21b607f126431e03d0480fa19e4cbb62f34",
+        "raw_sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 12,
+        "current_record_sha256": "3a3598b50dc0d7dc6e089abdce9342b4184457626f54aacb806742009b4e089f",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-ebertin-pdf001.png",
+            "sha256": "527f37bc500be680a55c5ad9769762a09a7c2b206f4e16738a3392dd0c8fd53b"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-ebertin-pdf002.png",
+            "sha256": "a4faa7b94d2f7bf1df114fb6f5b0d3ebe20e1f8d7f81f9345c4be2ed545c51b6"
+          }
+        ],
+        "relative_links_checked": 17
+      }
+    },
+    {
+      "path": "wiki/sources/robert-hand-horoscope-symbols.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 13,
+      "pre_page_sha256": "44684d52190739fa8787a975b448dceba07a46b9761c519e28a0a3d77e8e965a",
+      "frontmatter_sha256": "3c17e4761e46d18289e2f65a92238758d19cd1183f18088444ff224c420bc884",
+      "pre_record_sha256": "028bf3af3263c38ca4d7a0a6c1301ef3bd63b468469e2182ace30d36ce6c01a1",
+      "outside_bibliography_sha256": "31835a29477d6a8c55cecefe9afff3b343ffe591bf39ec56eec6de25dadd8b81",
+      "history_sha256": "d92aeb731dafba6017f087d4f29847e189b1366ba5f55fcc57ffd858d988140f",
+      "pre_bibliographic_body": "- Author: Robert Hand\n- Title: *Horoscope Symbols*\n- Vault file: `Stellar Influences Vault/planetary expressions - Robert Hand - Horoscope Symbols.pdf`\n- Edition, publisher, and publication date are not recorded here.",
+      "recorded_raw_path": "Stellar Influences Vault/planetary expressions - Robert Hand - Horoscope Symbols.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "e9f003e53c51a5f01ebae0f861a69369918068182b47cff00aab63c39f5a729c",
+      "final": {
+        "path": "wiki/sources/robert-hand-horoscope-symbols.md",
+        "current_page_sha256": "7fce50271b022129531e1f546df13ed26f794f2c3eb4f09c1d8d3a645964fb0f",
+        "current_file_sha256": "88182b8f61ac9767a032f395257cb64af3e5e71dcdd5573ce62ebfec5def4d13",
+        "frontmatter_sha256": "3c17e4761e46d18289e2f65a92238758d19cd1183f18088444ff224c420bc884",
+        "history_sha256": "d92aeb731dafba6017f087d4f29847e189b1366ba5f55fcc57ffd858d988140f",
+        "bibliography_sha256": "b7a2012e43cb189a7dfe639314158b8427489ea9cf3d9c3555e651a2c70e0dd9",
+        "raw_sha256": "e9f003e53c51a5f01ebae0f861a69369918068182b47cff00aab63c39f5a729c",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 13,
+        "current_record_sha256": "f5765ad7e84af8d58d321ea0f99e9b55ecdc2480b434e3f07e6d370e56a88a88",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-hand-pdf001.png",
+            "sha256": "39b5aa53362eacd399015810d7002f43af3b5f22fadc754607d33fbdde28099f"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-hand-pdf002.png",
+            "sha256": "efe6d6dd72c59dcf85584ecf903abd512383ff5cf847d507051fde0a98fa121e"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-hand-pdf441.png",
+            "sha256": "c700652f93db67f80c6a182e98adcc109c1c222bfe9f8ff5343dea2c7c1d6339"
+          }
+        ],
+        "relative_links_checked": 18
+      }
+    },
+    {
+      "path": "wiki/sources/udo-rudolph-abc-fur-planetenbilder.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 14,
+      "pre_page_sha256": "77b64e26924948953694350e0f341b565af7c142e975acc6fb46cc301b45fe16",
+      "frontmatter_sha256": "cdffba14789ce92e3ffbb46387dc2e638cb703b10ab8f3ff6428b1e076db8875",
+      "pre_record_sha256": "27f1281b2aadd23967877077e0f41b67700fe1aac1f0edc067b29ecfeb0a70b3",
+      "outside_bibliography_sha256": "30acbf7684d19782d14a1839f10e531b02e87e525089b0ba50046c66d485ba97",
+      "history_sha256": "8b5a9f637c0f268f4ad7cd17e4394878522deb41089293902ed2df055c936e69",
+      "pre_bibliographic_body": "- Author: Udo Rudolph\n- Title: *ABC for Planetary Pictures*\n- Vault file: `Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf`\n- The catalog uses an English title and English delineations. Edition, publisher, and publication date are not recorded here.",
+      "recorded_raw_path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+      "final": {
+        "path": "wiki/sources/udo-rudolph-abc-fur-planetenbilder.md",
+        "current_page_sha256": "2e43e12bb89b0a0059159e6b004b9579425bc39a04645009520f3dffbc93d2ec",
+        "current_file_sha256": "2e43e12bb89b0a0059159e6b004b9579425bc39a04645009520f3dffbc93d2ec",
+        "frontmatter_sha256": "cdffba14789ce92e3ffbb46387dc2e638cb703b10ab8f3ff6428b1e076db8875",
+        "history_sha256": "8b5a9f637c0f268f4ad7cd17e4394878522deb41089293902ed2df055c936e69",
+        "bibliography_sha256": "671af7347c594b187404bed11e981e5c96cba9a31941a21241db784f2386de1a",
+        "raw_sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 14,
+        "current_record_sha256": "9155ba739d98d4eba1848aa4b4771bcf7eeb6a9dbee0e5d0b84408735d8464c5",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-abc-pdf001.png",
+            "sha256": "262e75037603f4f2816b766ad1f225d0f326c19175f27950ea7baf252744c3e5"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-abc-pdf002.png",
+            "sha256": "32f9fa1dc2ad6d8fa6718a752c49f71c041e8650d77db481c016523ff5e736a6"
+          }
+        ],
+        "relative_links_checked": 28
+      }
+    },
+    {
+      "path": "wiki/sources/zane-b-stein-the-quadrant-midpoints.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+      "ledger_line": 15,
+      "pre_page_sha256": "7b71f6fd73c9ab8fad5c395661f39cf481496bb8972449323fe248d697ea7095",
+      "frontmatter_sha256": "bda265ea729906e318c35934c54722f83dac4eb28b34bce839b9313f82ef052b",
+      "pre_record_sha256": "4c9d1c8be98389980432e3a68ed901ad14fc97d2b2455d05bac2d92708b36d3f",
+      "outside_bibliography_sha256": "ad1fc6875e3a6a083914891bd9b9aca0cda16b105e0780aa25259c2090ba9299",
+      "history_sha256": "2be59ba4fb2d796d3ad59fc08fbb16187ea526131c9bbc5ad86cbb1ac50044fe",
+      "pre_bibliographic_body": "- Author: Zane B. Stein\n- Title: *The Quadrant Midpoints: The Chart's Backbone*\n- Reference PDF: `W:/books references etc/!master list astro/midpoints - Zane B Stein The Quadrant Midpoints The Chart's Backbone.pdf`\n- Inspected range for this ingest: PDF pages `2-11`\n- Edition, publisher, and publication date are not recorded here. The reference PDF is outside this repository's vault.",
+      "recorded_raw_path": "W:/books references etc/!master list astro/midpoints - Zane B Stein The Quadrant Midpoints The Chart's Backbone.pdf",
+      "raw_file_exists": true,
+      "raw_sha256": "f92e0bd5293442c70fc33a2ca5a5cb5ff3798dd53ff186017e12159c5c33aae3",
+      "final": {
+        "path": "wiki/sources/zane-b-stein-the-quadrant-midpoints.md",
+        "current_page_sha256": "aebde396def7c9f4ddbdf491067b2c8446d8a38fd8390796a9e79e8ff509d4f4",
+        "current_file_sha256": "aebde396def7c9f4ddbdf491067b2c8446d8a38fd8390796a9e79e8ff509d4f4",
+        "frontmatter_sha256": "bda265ea729906e318c35934c54722f83dac4eb28b34bce839b9313f82ef052b",
+        "history_sha256": "2be59ba4fb2d796d3ad59fc08fbb16187ea526131c9bbc5ad86cbb1ac50044fe",
+        "bibliography_sha256": "501ea806eedcc1e6a9d4651c1da38df6092d328c0b1aea2ab50c1131426c1f3d",
+        "raw_sha256": "f92e0bd5293442c70fc33a2ca5a5cb5ff3798dd53ff186017e12159c5c33aae3",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/sources-001.jsonl",
+        "ledger_line": 15,
+        "current_record_sha256": "960348cef50ceea7eb100367ea7899151d4c613e9d0ffba1308483b91dd626f0",
+        "proof_images": [
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-stein-pdf001.png",
+            "sha256": "d05cf79cf90d4ca7e168c8cc309264bc8360b0152e51bfa9c4249a6b778b141a"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-stein-pdf022.png",
+            "sha256": "41252322732e205d6808b3df1ebf8aa708c757991bedfe0a20f3eedfa900b79f"
+          },
+          {
+            "path": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-stein-pdf023.png",
+            "sha256": "342a5bfe6f4946d27038fd809b6d3e187cca95e72bf1b072af2ee4f5492dec2e"
+          }
+        ],
+        "relative_links_checked": 8
+      }
+    }
+  ],
+  "completion": {
+    "reviewed_existing_catalogues": 15,
+    "new_review_records": 0,
+    "all_frontmatter_and_ingestion_history_unchanged": true,
+    "raw_documents_unchanged": 15,
+    "proof_images_personally_viewed": 33,
+    "audit": "docs/reviews/2026-10-15-full-wiki/verification/source-catalog-bibliography-audit.json"
+  }
+}

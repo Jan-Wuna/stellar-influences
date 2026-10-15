@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Venus`
 - Astronomicon formula: `VP/¡ = Q`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 48 (one-based).
+
 A harmonious community. Clubs to promote sociability.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Pleasure for the public art, common joy in the public, art for the public Community, public Peace community, gentle clientele in the public, and preference for the public art
+- Source page: 44; PDF page: 21 (one-based spread).
+
+Joy in public art, shared joy in public, harmonious community in public, art for the public community, public peace community, fine arts in public, and preference for public art
+
+## Comparative Schema
+
+- core meaning: Enjoyment and harmony within public association.
+- psychology: Shared joy and appreciation of art.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Clubs promoting sociability and peace communities.
+- events/manifestations: Art offered to a public community and fine arts.
+- conflicts/notes: The scan's fine arts does not mean gentle clientele.
+
+## Contradictions
+
+The readable entries share sociability and cultural enjoyment without specifying one type of membership or artistic work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Venus`: a harmonious community and clubs to promote sociability.
-- Practical expression: pleasure for the public art, common joy in the public, art for the public Community, public Peace community, and gentle clientele in the public.
+In `Vernal Point/Cupido = Venus`, Venus specifies the pair through enjoyment and harmony in public association. The [Witte entry](#witte-entry) names harmonious communities and clubs promoting sociability. The [ABC entry](#abc-entry) connects shared joy and peace communities with public art and the fine arts. The integrated meaning is people finding common enjoyment or cultural expression, without identifying one required kind of group.
 
 ## Links
 

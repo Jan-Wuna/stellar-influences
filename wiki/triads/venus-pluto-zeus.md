@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Pluto Zeus`
 - Astronomicon triad-set: `Q Z £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Pluto/Zeus = Venus](../activations/pluto-zeus-equals-venus.md)
-- [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md)
-- [Venus/Zeus = Pluto](../activations/venus-zeus-equals-pluto.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Zeus = Venus](../activations/pluto-zeus-equals-venus.md) | [Pluto/Zeus](../axes/pluto-zeus.md) | [Venus](../factors/venus.md) |
+| [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md) | [Venus/Pluto](../axes/venus-pluto.md) | [Zeus](../factors/zeus.md) |
+| [Venus/Zeus = Pluto](../activations/venus-zeus-equals-pluto.md) | [Venus/Zeus](../axes/venus-zeus.md) | [Pluto](../factors/pluto.md) |
 
 ## Source Coverage
 
-- `Pluto/Zeus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `412`
-- `Venus/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `281`
-- `Venus/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `287`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Pluto/Zeus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-venus.md#witte-entry), one-based PDF entry-start p. `259`.
+- `Pluto/Zeus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-venus.md#abc-entry), printed p. `412`.
+- `Venus/Pluto = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-zeus.md#witte-entry), one-based PDF entry-start p. `181`.
+- `Venus/Pluto = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-zeus.md#abc-entry), printed p. `281`.
+- `Venus/Zeus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-zeus-equals-pluto.md#witte-entry), one-based PDF entry-start p. `184`.
+- `Venus/Zeus = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-zeus-equals-pluto.md#abc-entry), printed p. `287`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Venus`: This activation emphasizes marital duties; Duties of a mother; The pleasant duty; Female housework.
-- `Venus/Pluto = Zeus`: good progress of current matters.
-- `Venus/Zeus = Pluto`: increased activities.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

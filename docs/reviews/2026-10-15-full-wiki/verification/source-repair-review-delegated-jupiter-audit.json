@@ -1,0 +1,370 @@
+{
+  "checked_at": "2026-10-15T11:44:18.394577+00:00",
+  "scope": "Independent delegated Jupiter source-repair acceptance only; not full-page or whole-wiki completion.",
+  "records": 54,
+  "unique_paths": 54,
+  "groups": {
+    "jupiter-hades": 13,
+    "jupiter-jupiter": 21,
+    "jupiter-kronos": 20
+  },
+  "initial_exact_primary_approval_exclusions": 0,
+  "proof_images": 7,
+  "strict_bank_sha256": "ec33236573b94e674755ab305fb12cbf3ba89ef436d2852e981bbedc627abff2",
+  "checks": [
+    {
+      "path": "wiki/activations/jupiter-hades-equals-cupido.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-moon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-neptune.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-node.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-pluto.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-poseidon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-saturn.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-sun.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-uranus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-venus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-vernal-point.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-vulcanus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-hades-equals-zeus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-admetos.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-apollon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-asc.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-cupido.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-hades.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-kronos.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-mars.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-mc.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-mercury.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-moon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-neptune.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-node.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-pluto.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-poseidon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-saturn.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-sun.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-uranus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-venus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-vernal-point.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-vulcanus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-jupiter-equals-zeus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-admetos.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-apollon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-asc.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-cupido.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-hades.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-mars.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-mc.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-mercury.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-moon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-neptune.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-node.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-pluto.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-poseidon.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-saturn.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-sun.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-uranus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-venus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-vernal-point.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-vulcanus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-zeus.md",
+      "before_matches": true,
+      "current_matches": true,
+      "ledger_present": true
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png",
+      "sha256": "32ddfa22124af59982a9fa21a1a21b2bcd4038472c99ef004e7643ba9d34f801"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png",
+      "sha256": "7cb97ee3ad932f33e87c96953aa46475962cd262ef42c46e1ad8894854f0a22c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "sha256": "4db0087375cca668e638cbc07b493b5dbdd92b32ba0244cbb742082e03513028"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png",
+      "sha256": "d1172f687c60017e9258bbdfedf411244c425551767b0882380558d13aa76524"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png",
+      "sha256": "99c15d236a9a78c4dfc31206914070541e1ba1692105754cf628ae220f3aa85e"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "sha256": "54bca0c87086228b33fac5c006669dde8bb3108d64456c10bf45cd691e68763c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "sha256": "20897b665b4b2c0113bea0b475c3eba6cb4bb2819eae22c74afbf8950a2b2cbd"
+    }
+  ]
+}

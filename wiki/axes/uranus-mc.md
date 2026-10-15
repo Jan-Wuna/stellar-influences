@@ -20,6 +20,7 @@ related_activations:
   - Uranus/MC = Jupiter
   - Uranus/MC = Kronos
   - Uranus/MC = Mars
+  - Uranus/MC = MC
   - Uranus/MC = Mercury
   - Uranus/MC = Moon
   - Uranus/MC = Neptune
@@ -28,6 +29,7 @@ related_activations:
   - Uranus/MC = Poseidon
   - Uranus/MC = Saturn
   - Uranus/MC = Sun
+  - Uranus/MC = Uranus
   - Uranus/MC = Venus
   - Uranus/MC = Vernal Point
   - Uranus/MC = Vulcanus
@@ -72,13 +74,14 @@ updated_at: 2026-06-20
 - Axis: `Uranus/MC`
 - Astronomicon axis: `X/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); each related activation retains its distinct closing-factor meaning.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `URANUS/MIDHEAVEN`
-- Source page: `323`
+- Source heading: `MERIDIAN + URANUS`
+- PDF page: 67.
 
 #### Pair Summary
 
@@ -88,9 +91,13 @@ To have a mind to do something. Personal tension. To be excited. Vibrations. One
 
 #### ABC Pair Summary
 
+- Printed pages: 78–79; PDF page: 38.
+
 Exciting minutes, dynamic soul, dynamic self, excited soul, my rhythm, my restlessness, my nervousness, psychic arousal, psychic impulses, and emotional tensions
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 277; PDF page: 279.
 
 #### Principle
 
@@ -102,7 +109,7 @@ Power of assertion.
 
 #### Biological Correspondence
 
-Eurhythmies. Controlled breathing activity. (Yogi formula.)
+Eurhythmics. Controlled breathing activity. (Yogi formula.)
 
 #### Sociological Correspondence
 
@@ -110,9 +117,11 @@ Original personalities.
 
 #### Probable Manifestations
 
-+ Ability to advance in one's career or occupation in life, the good fortune to bring about fortunate changes, change of occupation, sudden rearrangement of one's circumstances. - Disadvantage through hasty or premature action, sudden turn of destiny, big upsets. Uranus/Medium Coeli WM
++ Ability to advance in one's career or occupation in life, the good fortune to bring about fortunate changes, change of occupation, sudden rearrangement of one's circumstances. - Disadvantage through hasty or premature action, sudden turn of destiny, big upsets.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: 108–109 (Principle and Process).
 
 #### Principle
 
@@ -124,9 +133,11 @@ Opening oneself up to messages and other impulses coming from the spir itual rea
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page: 211.
+
 #### Pair Delineation
 
-One's ow ?n independence, one's sense of being unusual. To desire to go one's own way, to be free. The uniqueness of one's personal objectives or life path. Often connected with people who are in a career that is unusual or has to do with science or technology.
+One's own independence, one's sense of being unusual. To desire to go one's own way, to be free. The uniqueness of one's personal objectives or life path. Often connected with people who are in a career that is unusual or has to do with science or technology.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -163,7 +174,7 @@ You may find much stress in your work environment; a stubbornness or resistance 
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Uranus-Medium Coeli`
-- PDF page(s): `338`
+- PDF page(s): `338–339`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -172,12 +183,12 @@ You may find much stress in your work environment; a stubbornness or resistance 
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: personal excitation and assertion directed toward an independent, unusual or innovative life path ([Witte](#pair-summary), [Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: originality, readiness and organizing energy coexist with impatience, nervous tension, changing aims and premature action ([Udo](#abc-pair-summary), [Ebertin](#psychological-correspondence)).
+- body/health: Ebertin names eurhythmies and controlled breathing; Munkasey lists work stress, varicose veins, lower-leg injuries and cramps. These source claims do not establish a diagnosis ([biological](#biological-correspondence), [body or mind](#with-body-or-mind)).
+- social/relationship: independence may favor friendship and unconventional partners, or conflict with affection and commitment; freedom also meets occupational rules and authority ([Munkasey](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
+- events/manifestations: sudden vocational changes, distinctive technical work, recognition or notoriety, and reform in public policy; haste can bring setbacks ([manifestations](#probable-manifestations), [basic ideas](#basic-ideas), [politics/business](#in-politics-or-business)).
+- conflicts/notes: personal excitement, vocational independence and spiritual opening are different emphases. Banzhaf/Haebler's harmony/discord alternatives and Munkasey's thesis/anti remain conditional source formulations; they do not make every independent path unstable.
 
 ## Related Activations
 
@@ -190,6 +201,7 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - [Uranus/MC = Jupiter](../activations/uranus-mc-equals-jupiter.md)
 - [Uranus/MC = Kronos](../activations/uranus-mc-equals-kronos.md)
 - [Uranus/MC = Mars](../activations/uranus-mc-equals-mars.md)
+- [Uranus/MC = MC](../activations/uranus-mc-equals-mc.md)
 - [Uranus/MC = Mercury](../activations/uranus-mc-equals-mercury.md)
 - [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md)
 - [Uranus/MC = Neptune](../activations/uranus-mc-equals-neptune.md)
@@ -198,6 +210,7 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - [Uranus/MC = Poseidon](../activations/uranus-mc-equals-poseidon.md)
 - [Uranus/MC = Saturn](../activations/uranus-mc-equals-saturn.md)
 - [Uranus/MC = Sun](../activations/uranus-mc-equals-sun.md)
+- [Uranus/MC = Uranus](../activations/uranus-mc-equals-uranus.md)
 - [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md)
 - [Uranus/MC = Vernal Point](../activations/uranus-mc-equals-vernal-point.md)
 - [Uranus/MC = Vulcanus](../activations/uranus-mc-equals-vulcanus.md)
@@ -209,11 +222,11 @@ You may find much stress in your work environment; a stubbornness or resistance 
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC` is the axis of unconventional life direction, sudden vocational change, and the drive to pursue an independent or innovative path. It combines disruption, originality, breakthrough, and rebellion with purpose, status, public role, and the shaping of destiny.
-- Chart expression: unusual goals, inventive public expression, rapid changes in career or circumstances, and strong resistance to confining authority. Liabilities: hasty action, erratic aims, notoriety, upheaval, and the tendency to reject structure before a workable direction has formed.
+`Uranus/MC` joins personal excitement and the urge to act with the need to find one's own direction. The [Witte](#pair-summary) and [Udo](#abc-pair-summary) summaries emphasize immediate tension, decisions, rhythm and nervous or emotional arousal. [Ebertin](#psychological-correspondence), [Hand](#pair-delineation) and [Sandbach](#principle-1) extend this into unusual goals, independent work and an experimental life path. Originality can support energetic organization, technical or scientific work, and sudden vocational change; haste, changing aims and emotional excitability can instead disrupt that direction.
+
+Freedom is also a social question: [Munkasey](#in-your-relationships) contrasts friendship and unconventional partners with difficulty accepting affection or commitment, while [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) contrasts individual or humanistic professional goals with conflict over occupational constraints. Sandbach additionally describes opening to spiritual impulses and loosening dependence on authority ([Process](#process)); Munkasey adds public-policy reform and possible recognition or notoriety ([basic ideas](#basic-ideas), [politics/business](#in-politics-or-business)). These are branches of the pair's meaning, without a guaranteed profession, outcome or medical condition. A closing factor must be read in its own oriented activation.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Node`
 - Astronomicon formula: `g/Asc = g`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT With Itself`
-- Source page: `358`
+- Source reference: printed p. `358`, PDF p. `359` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Questions about your purpose and role in life and how to find groups or others w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: seeking purpose or direction through contact with groups and other people.
+- psychology: questions about role in life and old habits or ideas are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: others may help provide answers or fresh impetus.
+- events/manifestations: finding supportive groups and renewing worn-out ideas are the stated manifestations.
+- conflicts/notes: Munkasey is the only source here; no separate triad interpretation or guaranteed answer is supplied.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey supplies this repeated-factor entry, so no source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Node`: Questions about one's purpose and role in life and how to find groups or others who can help provide such answers; the roles of other people in bringing fresh impetus and direction to old or worn out habits or ideas.
+Node/Asc = Node concerns seeking people or groups that help clarify purpose and role. The [Munkasey entry](#munkasey-entry), printed p. 358 (PDF p. 359), describes others bringing fresh impetus and direction to old habits or ideas. The emphasis is on questions and renewal through contact, without a guarantee that a particular group supplies the answers or a separate merged-triad meaning.
 
 ## Links
 

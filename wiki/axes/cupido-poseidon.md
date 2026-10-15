@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -79,6 +81,15 @@ Spiritual, educational, cultural or philosophical associations or companies. A c
 #### ABC Pair Summary
 
 Community of insight, spiritual community, shared clarity, shared truth, community of ideas, culture and art, cultural community, and reasonable community
+
+## Comparative Schema
+
+- Core meaning: Community formed around shared ideas, spiritual outlook, education, and culture ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Shared insight, clarity, and truth are named; no individual personality diagnosis follows.
+- Body/health: No bodily condition or treatment is supplied.
+- Social/relationship: A common worldview or spiritual attitude provides the stated basis of association.
+- Events/manifestations: Educational, philosophical, and cultural organizations, think tanks, art, and marine institutes are explicit examples.
+- Conflicts/notes: "Culturally elite" is the source's social description. Marine institutes are listed without an explanation of their connection to the other examples. Witte PDF p. 274 is a chapter start; ABC printed pp. 436-437 is a pair spread.
 
 ## Related Activations
 
@@ -106,8 +117,9 @@ Community of insight, spiritual community, shared clarity, shared truth, communi
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon`: a community organized around belief, knowledge, cultural refinement, or shared ideals: spiritual groups, educational or philosophical associations, think tanks, and intellectually or culturally elite circles.
-- Chart expression: belonging shaped by common doctrine, elevated outlook, cultural mission, or intellectual affinity. It can show communities held together by faith, education, ideology, or a refined mental atmosphere rather than by blood or mere convenience. Liabilities: elitism, doctrinaire belonging, abstraction replacing human warmth, and the tendency for group identity to harden around worldview instead of reality.
+`Cupido/Poseidon` describes people coming together through a shared outlook, understanding, or cultural purpose. Spiritual, philosophical, and educational associations give this common orientation an organized form, while the ABC summary adds shared insight, clarity, truth, and ideas ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+Think tanks, cultural groups, and art make association through thought and culture concrete. Marine institutes are also specifically listed, although the entry does not explain their relationship to the other examples ([Pair Summary](#pair-summary)).
 
 ## Links
 

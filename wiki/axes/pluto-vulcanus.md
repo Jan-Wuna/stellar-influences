@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + VULCANUS`
+- PDF page (one-based): `263` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Mighty changes or transformations that occurs with great speed. Unhealthy, rushe
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `420–421`; PDF page (one-based): `209` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Influenced changes, energy development, energy transformation, development of violence, violent change, change of power, powerful development 1 Developing strong, growing force, and changing influence
+Influential changes, development of energy, transformation of energy, unfolding of violence, violent change, change of power, powerful development, developing strength, growing force, changing influence.
+
+## Comparative Schema
+
+- core meaning: powerful development or transformation, with Witte placing particular weight on speed ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: the summaries do not provide a detailed personality or emotional profile; their pressure is in the development itself.
+- body/health: Witte's “Unhealthy, rushed development” is a broad historical characterization, not a specified disease or medical assessment.
+- social/relationship: the ABC names changing power and influence; neither summary directly delineates intimate relationships.
+- events/manifestations: mighty and rapid changes in circumstances, growing force, energy transformation, violent change, and greenhouse growth are explicit source examples.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, restoring influential changes and developing strength. Power, speed and violence remain distinct emphases; none is required in every expression.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Influenced changes, energy development, energy transformation, development of vi
 - [Pluto/Vulcanus = Vernal Point](../activations/pluto-vulcanus-equals-vernal-point.md)
 - [Pluto/Vulcanus = Zeus](../activations/pluto-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Witte emphasizes development that is too swift, while the ABC emphasizes energy, strength, and power shifts. Forceful change need not always be rapid or violent; these are distinct parts of the source range. ABC's complete bold summary was retranslated from PDF209, printed420–421; Witte's exact pair passage is confirmed on PDF263.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes mighty changes or transformations that occurs with great speed; Unhealthy, rushed development; The changes (growth) inside the greenhouse; Quick transformation; Mighty change in circumstances.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Vulcanus` describes development with substantial force behind it. The [pair summary](#pair-summary) stresses mighty changes occurring quickly and explicitly warns of development moving too fast; the [ABC entry](#abc-pair-summary) adds energy transformation, growing force, and changes of power or influence. The shared theme is the strength of a transformation, with excessive speed a particular qualification in Witte.
+
+The unusual example of growth inside a greenhouse remains a literal source expression of development; the entry does not explain it further. The ABC also includes influential changes, developing strength and violent change, but power, speed, and violence are not interchangeable. Witte's “unhealthy” wording establishes no medical diagnosis. Third-factor outcomes remain on separate [activation pages](#related-activations).
 
 ## Links
 

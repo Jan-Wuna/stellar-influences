@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Node Vulcanus Poseidon](../triads/node-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 155 (one-based; exact row checked).
 
 Eagerness mentally as well as spiritually. Mighty connection through mental faculties.
 
@@ -42,13 +46,27 @@ Eagerness mentally as well as spiritually. Mighty connection through mental facu
 
 #### ABC Entry
 
-Spiritual energies, spiritual influence in a connection, encounter mental violence, violence in ideological union, power of truth in a connection, power of a spiritual union, and strong cultural relations
+- Source page: 237 (printed); PDF page: 117 (one-based; exact row checked).
+
+Transmit intellectual or spiritual energies, intellectual or spiritual influence within a connection, encounter mental coercion, coercive force within an ideological association, power of truth within a connection, strength of an intellectual or spiritual union, strong cultural relationships.
+
+## Comparative Schema
+
+- core meaning: the power of ideas, spirit or culture within a connection.
+- psychology: mental and spiritual eagerness and the force exerted through ideas.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: strong cultural or spiritual associations, including the source's ideological coercion.
+- events/manifestations: transmitting intellectual or spiritual energies and exercising influence through mental faculties.
+- conflicts/notes: Witte emphasizes mental ability; ABC also names mental coercion and force in ideological bonds. Influence and coercion must remain distinguishable.
+
+## Contradictions
+
+Witte emphasizes mental ability; ABC also names mental coercion and force in ideological bonds. Influence and coercion must remain distinguishable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Poseidon`: Eagerness mentally as well as spiritually. Mighty connection through mental faculties.
-- Practical focus: eagerness mentally as well as spiritually; also mighty connection through mental faculties.
+Poseidon specifies `Node/Vulcanus` through the force exerted by ideas, mental faculties or spiritual conviction in a connection. The [Witte entry](#witte-entry) emphasizes intellectual and spiritual eagerness, and the [ABC entry](#abc-entry) adds the power of truth and strong cultural or spiritual ties. That influence has a difficult range as well: ABC explicitly names mental coercion and force within ideological association. The distinction is between a strong bond of understanding and the pressure ideas can exert within it.
 
 ## Links
 

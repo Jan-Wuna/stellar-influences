@@ -28,27 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Zeus Poseidon`
 - Astronomicon triad-set: `Z £ ¨`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Pluto/Poseidon = Zeus](../activations/pluto-poseidon-equals-zeus.md)
-- [Pluto/Zeus = Poseidon](../activations/pluto-zeus-equals-poseidon.md)
-- [Zeus/Poseidon = Pluto](../activations/zeus-poseidon-equals-pluto.md)
+- [Pluto/Poseidon = Zeus](../activations/pluto-poseidon-equals-zeus.md) — base axis [Pluto/Poseidon](../axes/pluto-poseidon.md); activator [Zeus](../factors/zeus.md).
+- [Pluto/Zeus = Poseidon](../activations/pluto-zeus-equals-poseidon.md) — base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Poseidon](../factors/poseidon.md).
+- [Zeus/Poseidon = Pluto](../activations/zeus-poseidon-equals-pluto.md) — base axis [Zeus/Poseidon](../axes/zeus-poseidon.md); activator [Pluto](../factors/pluto.md).
 
 ## Source Coverage
 
-- `Pluto/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
-- `Pluto/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `423`
-- `Pluto/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `413`
-- `Zeus/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
-- `Zeus/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `459`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Pluto/Poseidon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-poseidon-equals-zeus.md#witte-entry), one-based PDF p. `264` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-poseidon-equals-zeus.md#abc-entry), printed p. `423` (PDF p. `210`).
+- `Pluto/Zeus = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-poseidon.md#witte-entry), one-based PDF p. `259` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-poseidon.md#abc-entry), printed p. `413` (PDF p. `205`).
+- `Zeus/Poseidon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-poseidon-equals-pluto.md#witte-entry), one-based PDF p. `296` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-poseidon-equals-pluto.md#abc-entry), printed p. `459` (PDF p. `228`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Poseidon = Zeus`: This activation emphasizes to be in part leading (by inner conviction) in the development of a new outlook in life.
-- `Pluto/Zeus = Poseidon`: This activation emphasizes to develop a new way to see the world; To show the duties to be derived from such doctrine.
-- `Zeus/Poseidon = Pluto`: To lead from the background or secretly. False witnesses or faked proofs.
+Use this hub to select an orientation of the unordered set `Pluto Zeus Poseidon`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

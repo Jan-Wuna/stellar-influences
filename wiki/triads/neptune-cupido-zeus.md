@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Cupido Zeus`
 - Astronomicon triad-set: `Y ¡ £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Zeus = Neptune](../activations/cupido-zeus-equals-neptune.md)
-- [Neptune/Cupido = Zeus](../activations/neptune-cupido-equals-zeus.md)
-- [Neptune/Zeus = Cupido](../activations/neptune-zeus-equals-cupido.md)
+- [Cupido/Zeus = Neptune](../activations/cupido-zeus-equals-neptune.md): base axis [Cupido/Zeus](../axes/cupido-zeus.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Cupido = Zeus](../activations/neptune-cupido-equals-zeus.md): base axis [Neptune/Cupido](../axes/neptune-cupido.md); activator [Zeus](../factors/zeus.md).
+- [Neptune/Zeus = Cupido](../activations/neptune-zeus-equals-cupido.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Cupido/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
-- `Cupido/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `427`
-- `Neptune/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `393`
-- `Neptune/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `397`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Zeus = Neptune](../activations/cupido-zeus-equals-neptune.md#witte-entry) (PDF entry-start p. 268); [Neptune/Cupido = Zeus](../activations/neptune-cupido-equals-zeus.md#witte-entry) (PDF entry-start p. 247); [Neptune/Zeus = Cupido](../activations/neptune-zeus-equals-cupido.md#witte-entry) (PDF entry-start p. 249).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Zeus = Neptune](../activations/cupido-zeus-equals-neptune.md#abc-entry) (printed p. 427); [Neptune/Cupido = Zeus](../activations/neptune-cupido-equals-zeus.md#abc-entry) (printed p. 393); [Neptune/Zeus = Cupido](../activations/neptune-zeus-equals-cupido.md#abc-entry) (printed p. 397).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Neptune`: bankruptcy of a new concern, secret military organization, or units forced into inactivity and dissolution.
-- `Neptune/Cupido = Zeus`: This activation directs communal instability into family burden, shelter stress, and marginal belonging, showing poor domestic conditions, displaced households, or those set apart within the family structure.
-- `Neptune/Zeus = Cupido`: Union and collaboration are frustrated, showing promises or proposals that do not culminate, strained agreements, or stylized creative expression without stable joining.
+Neptune, Cupido and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Zeus](../axes/cupido-zeus.md)
+- [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Zeus](../factors/zeus.md)

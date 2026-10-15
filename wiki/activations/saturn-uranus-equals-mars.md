@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Mars Saturn Uranus](../triads/mars-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Sudden separating acts or actions. Sudden end through injury. To switch off tech
 
 #### ABC Entry
 
-Complaints in case of painful events, serious activity in technology, stratification rhythm, concentration on technical work, sudden cancellation activity, technical work, and surprising separation actions
+Efforts in painful events, serious activity in technology, disturbed rhythm of activity, concentration on technical work, sudden disruptive activity, working on technical tasks, and surprising acts of separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Increased irritation with changes which alter conservative traditions; impatienc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action releases or intensifies accumulated tension.
+- psychology: Irritation, anger and the possibility of balancing openness with caution.
+- body/health: Injury and accident remain Witte's and Ebertin's attributed possibilities.
+- social/relationship: Provocation, decisive contests and resistance to imposed change.
+- events/manifestations: Separating acts, technical work and switching off devices.
+- conflicts/notes: The capacity for careful action coexists with forced or violent release.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach includes balanced action; Ebertin includes misused energy and violence. These are different possibilities rather than a single inevitable response.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Mars`: decisive action under strain, technical courage, and the ability to force movement when systems are jammed. Main caution: rupture: impatience, irritation, or compressed aggression can trigger accidents, severance, or counterproductive conflict.
+Mars specifies Saturn/Uranus as action under tension: effort can accomplish technical tasks or force a separation, while provocation can turn release into conflict. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) includes switching off devices; [Ebertin](#ebertin-entry) (printed p. 247) includes toil and violent release. [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) also allows action that balances freedom with caution. Injury is an attributed possibility, not a conclusion that follows from every instance of this formula.
 
 ## Links
 

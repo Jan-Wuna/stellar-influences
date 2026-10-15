@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Cupido](../triads/sun-asc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Family celebrations, betrothals and weddings. To strive for sociability. To enjo
 
 Common personal environment, common local centre, common human environment, man of an environmental community, man of a partner community, human community in the vicinity, and human partner community
 
+## Comparative Schema
+
+- core meaning: Participation in a family or social community.
+- psychology: A wish for sociability and enjoyment of gatherings.
+- body/health: No specific health claim is given.
+- social/relationship: Family ties, artists, and club members supply the social setting.
+- events/manifestations: Celebrations, betrothals, weddings, and shared gatherings.
+- conflicts/notes: Community membership is supported; a guaranteed marriage is not asserted.
+
+## Contradictions
+
+The two entries emphasize sociability and shared surroundings without an explicit opposing claim.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Cupido`: to find company or to establish a family and family ties.
-- Practical expression: common personal environment, common local centre, common human environment, man of an environmental community, and man of a partner community.
+Cupido specifies the Sun/Asc axis through belonging to a shared personal environment: sociability becomes participation in a family, club, or artistic circle. The [Witte entry](#witte-entry) makes this concrete in family celebrations, betrothals, weddings, and activity at social gatherings; the [ABC entry](#abc-entry) emphasizes the common local and partner community.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Poseidon = Neptune`
 - Astronomicon formula: `V/¨ = Y`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 218, Jupiter + Poseidon, Neptune row.
+
 Delicacy for right and justice. A mind that is enough developed to sense the higher things. To have a sentiment for or to forefeel the metaphysical truth.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exchange of law and reason, successful ideas in the air, successful right idea, foreign right culture, joy over clear water, spiritual happiness through metaphysics, weak cultural success, and advantage through clear air
+- Source reference: printed p. 347; one-based PDF p. 172, Jupiter + Poseidon, Neptune row.
+
+Disappointment over law and reason, successful ideas in the air, a successful legal idea, foreign legal culture, joy in clear water, intellectual or spiritual happiness through metaphysics, weak cultural success, and advantage through clear air.
+
+## Comparative Schema
+
+- Core meaning: Intuitive sensitivity to justice and metaphysical truth ([Witte Entry](#witte-entry)).
+- Psychology: Subtle anticipation and a feeling for higher meanings are explicit.
+- Body/health: ABC lists clear water and air without stating a medical condition or effect.
+- Social/relationship: ABC mentions a foreign legal culture, without a defined relationship outcome.
+- Events/manifestations: Metaphysical happiness, ideas, and weak cultural success coexist in the [ABC Entry](#abc-entry).
+- Conflicts/notes: ABC explicitly gives disappointment over law and reason, alongside successful ideas and weak cultural success. Its air and water examples retain their literal source scope.
+
+## Contradictions
+
+Witte's refined perception and ABC's weaker cultural results have different scopes. Neither establishes an infallible ethical judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Neptune`: judgment becoming intuitive and spiritually sensitive without losing its ethical center. It favors refined conscience and subtle perception of truth.
+In `Jupiter/Poseidon = Neptune`, Neptune specifies the pair's concern with right and understanding as a delicate, intuitive feeling for truth. The [Witte Entry](#witte-entry) describes forefeeling metaphysical truth rather than demonstrable certainty. The complete [ABC Entry](#abc-entry) adds spiritual happiness through metaphysics, ideas “in the air,” and weak cultural success. Sensitivity and uncertain practical realization therefore belong together here; ethical infallibility is not established.
 
 ## Links
 

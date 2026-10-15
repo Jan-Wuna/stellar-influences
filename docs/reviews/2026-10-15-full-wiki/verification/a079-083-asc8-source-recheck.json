@@ -1,0 +1,125 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Eight final missing079 Uranus/Asc reviews; four ABC source repairs, two ABC locator-only additions, one preserved Munkasey passage and one documented Sandbach omission.",
+  "actual_source_inspection": [
+    "verification/a079-083-udo-pdf057.png, printed116–117: all six assigned ABC rows personally compared with their glyphs.",
+    "verification/a079-083-witte-pdf088.png: all six assigned Witte rows personally checked; source wording preserved.",
+    "verification/a079-083-sandbach-107.png and a079-083-sandbach-108.png: exact Jupiter PDF108; no Chiron in Uranus/Asc chapter. Previous Chiron above chapter heading belongs to preceding midpoint.",
+    "verification/a079-083-ebertin-pdf277.png: printed275 entry0980 confirms Jupiter and locator."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-admetos.md",
+      "old_abc": "Unsettling environmental barriers, blocking environmental technology, blocked technology on site, depressing event on site, stabilising environmental rhythm, technical barriers on site, and surprising consolidation of the environment",
+      "new_abc": "Unsettling environmental barriers, blocking environmental technology, blocked technology on site, depressing event on site, stabilising environmental rhythm, technical barriers on site, and surprising consolidation of the environment",
+      "printed_page": 117,
+      "finding": "All seven ABC and Witte clauses checked; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-apollon.md",
+      "old_abc": "Expansion of technology on site, success impulses of the partner, successful environmental technology, trade events with others, place of technical knowledge, tiben ashende partnerExperiences, nurturing the unrest at the site, and scientific environment refonn",
+      "new_abc": "Expansion of technology at the location, impulses toward success from the partner, successful environmental technology, trade events with others, a place of technical knowledge, surprising experiences with the partner, increased unrest at the location, scientific reform of the environment.",
+      "printed_page": 117,
+      "finding": "Repaired surprising partner experiences, Vermehrung der Unruhe=increased unrest and scientific environmental reform; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-asc.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Munkasey repeated-factor passage and printed322 reference preserved; narrow coexistence/privacy meaning."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-chiron.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Actual Sandbach107–108 confirms omission: chapter starts near end107, rows continue108 Saturn→Neptune with no Chiron. Preceding Chiron on107 belongs to prior chapter; no source ingest."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-cupido.md",
+      "old_abc": "Dynamic partner community, excited local community, shared surprises on the spot, community for environmental technology, rhythmic partner community, technical community on the spot, and unrest in the shared environment",
+      "new_abc": "Dynamic partner community, excited local community, shared surprises on the spot, community for environmental technology, rhythmic partner community, technical community on the spot, and unrest in the shared environment",
+      "printed_page": 117,
+      "finding": "All seven ABC and Witte clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-hades.md",
+      "old_abc": "Excitement about a dirty place, danger at the place by technology, criminal event at the place, defective environmental technology, adverse refutations at the place, sudden grief with the partner, Uben ashing distress in the environment, and hidden unrest at the place",
+      "new_abc": "Excitement about a dirty place, danger at the location through technology, a criminal event at the location, deficient environmental technology, disadvantageous reforms at the location, sudden grief with the partner, surprising distress in the environment, hidden unrest at the location.",
+      "printed_page": 117,
+      "finding": "Nachteilige Reformen means disadvantageous reforms, not refutations; repaired surprising distress. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-jupiter.md",
+      "old_abc": "Excitements in a money place, successful events in the environment, successful environmental technology, joyfully excited partner, joyful surprise by the partner, happiness's pulse at the place, sudden happiness at the place, and tensions at a place of right",
+      "new_abc": "Excitement at a place of money, successful events in the surroundings, successful environmental technology, a joyfully excited partner, a joyful surprise through the partner, impulses of good fortune at the location, sudden good fortune at the location, tensions at a place of law.",
+      "printed_page": 116,
+      "finding": "Repaired Glücks-Impulse as impulses of good fortune and Ort des Rechtes as a place of law; eight ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-kronos.md",
+      "old_abc": "Special event on site, great tensions with the partner, sudden superiority of the partner, reformation of the environmental authority, state environmental technology, state event on site, ubiquitous independence of the partner, and important place of technology",
+      "new_abc": "A special event at the location, great tensions with the partner, sudden superiority of the partner, reform of the environmental authority, state environmental technology, a state event at the location, surprising independence of the partner, an important place of technology.",
+      "printed_page": 117,
+      "finding": "Überraschende Selbständigkeit means surprising independence, not ubiquitous independence; all eight clauses verified."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-admetos.md",
+      "sha256": "df4f36bfea0cceacea902c657080f099897f1922e209fed8234697dfaf2d5fbb",
+      "source_section_sha256": "143a4d2aa28a5ce5219e52ba61e096c60241f454ab2ec6c5b1aef7336e1f1e27",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-apollon.md",
+      "sha256": "f1ca505193c73e34d2b8ae87b7610321193eeb4d8541afc727386760f7bd9b59",
+      "source_section_sha256": "3c4d6e25d4fe5f0dbe3c075d2f041b8ca18f4cd01fa6f45af5378930e408a50f",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-asc.md",
+      "sha256": "6e322153e5b46a17bb01194f1c1ded2d10981d3b27fd61d0235cde01f64a9dae",
+      "source_section_sha256": "0dcbcf27e938d232072e1f6e8db1e24a8e4b638a5c77fd8f3e0040775b1561de",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-chiron.md",
+      "sha256": "50b0b41abe7de4cff93cc06c3d0038233fa13b302879e4fae48d752d5f77aa9d",
+      "source_section_sha256": "519d522ad82a795bb33d321ff4cb7a8e8d5dc80dd33ace243ab487bf3fc461d5",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-cupido.md",
+      "sha256": "eb39b0a335e98aed29ca4afd00f08d62651506587ecdd2bfe691c6ed0942d287",
+      "source_section_sha256": "52878871967a526e470b6b7710f0a68e47eec460af6c6fd29adbdd2d707b7774",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-hades.md",
+      "sha256": "3671792ff3a187a250662b02566c26e23a0d764b9bcc524c6e1e522bc358bfdb",
+      "source_section_sha256": "015f0e94aa702cdb8fbeee830e239b382a36543c8a156f94cbd2a10e6b29826b",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-jupiter.md",
+      "sha256": "f1d9f8e8b1efa6eccdf7634f2624f58c8aeeff519d9255aac021c3695ab50b26",
+      "source_section_sha256": "14929fc563a97321f5617904a791353b376828ac467772f0e4c9a7868d9e342f",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-kronos.md",
+      "sha256": "5ea9a45bfeb34d6a418d07bd96fa320cdafbd5aaa74999d656ecf7b75bd12d91",
+      "source_section_sha256": "045e8cbdf78a4d6c2abe2c5ecc37b1780af0f1d3c8513cdaddf9a4b8df1f0922",
+      "checks": "metadata/formula/unique adjacent anchor/early route/schema6/preserved other source prose/Links/relative targets passed"
+    }
+  ],
+  "verification": [
+    "Fullpage/baseline context, manifest, evidence and canonical axis reads complete.",
+    "Actual diffs read in two four-page batches; source preservation and scoped identity/anchor/schema/link/whitespace checks passed."
+  ],
+  "unresolved": [
+    "Uranus/Asc = Chiron supplies no delineation because the source chapter omits that activator."
+  ]
+}

@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `Asc/§ = ¥`
 - Axis page: [Asc/Vulcanus](../axes/asc-vulcanus.md)
 - Triad hub: [Asc Apollon Vulcanus](../triads/asc-apollon-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -38,16 +39,29 @@ updated_at: 2026-05-04
 
 Others back the native with success. To achieve great successes and advantages through others.
 
+Source reference: one-based PDF page 97, Ascendant + Vulcanus, Apollon row.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-expansion of spatial energy, influential environmental science, successful partner influence, expansion of force on the spot, power experiences of the partner, place for knowledge of energy, increased violation of the environment, and growing environmental influence
+Expansion of spatial energy, influential science concerning the surroundings, successful partner influence, expansion of force or violence at the place, the partner's experiences of power, a place for knowledge of energy, increased violation of the surroundings, and increasing influence involving the surroundings.
+
+Source reference: printed page 135, one-based PDF page 66, Aszendent + Vulkanus, Apollon row. “Gewalt” includes force or violence; “Umwelt-Vergewaltigung” uses a rape/violation term for the surroundings without specifying an act. Spatial energy and science concerning the surroundings are broad source compounds, with no technical mechanism or discipline identified.
+
+## Comparative Schema
+
+- **Core meaning:** Successful backing through others, with expansion of influence, energy and power in ABC.
+- **Psychology:** The partner's experiences of power; no specific personality trait is stated.
+- **Body/health:** Neither entry supplies a bodily or health delineation.
+- **Social/relationship:** Others support the native's success and advantage; ABC also names successful partner influence.
+- **Events/manifestations:** Expanding spatial energy or local force, knowledge of energy, influential science and increased violation of the surroundings.
+- **Conflicts/notes:** Witte emphasizes benefit, while ABC also includes force, violence and violation. Those adverse clauses limit an exclusively favorable reading without making dependence on allies an explicit claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Apollon`: strong allies, influential backing, and a near field where force multiplies into gain, scale, and opportunity. Main caution: dependence on support networks that may become too dominant.
+`Asc/Vulcanus = Apollon` describes success or advantage through other people's backing. The [Witte entry](#witte-entry) states that favorable possibility directly, and the [ABC entry](#abc-entry) adds successful partner influence and expanding influence, energy and experiences of power. ABC also names expansion of force or violence and increased violation of the surroundings. The interpretation therefore retains both effective support and the broader, potentially adverse expansion of power, rather than treating every increase in influence as a benefit.
 
 ## Links
 

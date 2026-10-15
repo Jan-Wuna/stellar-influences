@@ -33,13 +33,17 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Node Asc](../triads/mars-node-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-To exert charm of sex upon a woman. To enter into a sex union. To be called upon, to be asked. In connection with others under compulsion.
+To enter into a sex union. To be called upon, to be asked. In connection with others under compulsion.
+
+- Source reference: PDF p. 85, Node row; the preceding sentence about exerting sexual charm belongs to Moon.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
@@ -57,6 +61,8 @@ Comradeship and good fellowship, teamwork, the guidance of others. A union based
 
 #### Sandbach Entry
 
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
+
 The need to develop more effective ways of asserting the self, and to find con nections with others wherein one can be productive.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -70,22 +76,25 @@ Prompts you to seek those who are similarly active and energetic; brings urges f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Productive action develops through contacts, teamwork and shared energy.
+- psychology: Seeking compatible attitudes and understanding motives are explicit.
+- body/health: Physical attraction and sexual union appear; no medical condition is specified.
+- social/relationship: Comradeship, guidance, work connections and compelled association are represented.
+- events/manifestations: Being called upon and joining a work partner are concrete examples.
+- conflicts/notes: Compulsion is one Witte possibility; it does not characterize every productive connection.
 
 ## Contradictions
 
-- None recorded yet.
+Voluntary comradeship and compelled association describe different kinds of connection. The entries do not state a single necessary relationship outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Node`: comradeship, productive partnership, strong mutual pull, and the search for people who can match one's energy and support decisive action. Main caution: compulsion in relating: connection can become driven by pressure, utility, or raw attraction more than emotional balance.
+`Mars/Asc = Node` specifies action with others through the connections that make joint activity possible. Work contacts in [ABC](#abc-entry), comradeship and teamwork in [Ebertin](#ebertin-entry), and the search for similarly energetic friends in [Munkasey](#munkasey-entry) converge on productive association. [Sandbach](#sandbach-entry) adds developing more effective assertion within those connections.
+
+[Witte](#witte-entry) also names sexual union, being called upon and association under compulsion. Together with Ebertin's physical attraction, these retain forms of connection beyond work without making pressure or attraction the motive of every partnership.
+
+Evidence: Witte PDF p. 85; ABC printed p. 110, PDF p. 54; Ebertin printed p. 221, code 0768; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

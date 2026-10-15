@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Pluto`
 - Astronomicon formula: `R/T = Z`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,11 +39,17 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 The growing youth. Time of puberty. Training of youth. Irresponsible. Inconsistent. Change in conception of one’s pattern of existence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `177`, PDF p. `87` (entry).
 
 #### ABC Entry
 
@@ -49,11 +57,16 @@ unfolding of the youth of a people, development of the language of a people, wom
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0334`.
+
 #### Ebertin Entry
 
 The necessity to adjust one's thinking to new conditions or circumstances, reorientation of thinking caused by special events or experiences coupled with destiny. Tragic realizations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Communicating emotionally powerful feelings; the transition from analytical reas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: reorientation of thought and powerful emotional communication ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: new circumstances may require changed thinking; intense need to share feelings can be transformative or obsessive.
+- body/health: Witte names puberty as a developmental example; the entries do not establish a health diagnosis.
+- social/relationship: sharing emotion and nurturing through communication are explicit interpersonal expressions.
+- events/manifestations: youth training, public changes of opinion, investigative research, and consequential realizations are examples.
+- conflicts/notes: Witte's inconsistency, Ebertin's tragic realizations, and Sandbach's regeneration remain distinct expressions; suspicion is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+The entries offer difficult and constructive forms of change, not mutually exclusive outcomes. Puberty and youth training are concrete Witte examples; they do not mean that every instance is youthful or that transformation is always beneficial.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Pluto`: psychological acuity, penetrating speech, and the ability to understand what lies beneath emotional surfaces. Main caution: mental compulsion: thought can become suspicious, obsessive, or too influenced by buried emotional pressure.
+In Moon/Mercury = Pluto, Pluto specifies the Moon/Mercury pair through changes in thinking and the force of emotional communication. The [Ebertin entry](#ebertin-entry) requires thought to adjust to new conditions or consequential experiences, sometimes with tragic realizations. The [ABC entry](#abc-entry) extends development to language, youth, and public opinion (printed p. 177, PDF p. 87), while [Witte](#witte-entry) retains puberty, training, and inconsistency.
+
+The [Sandbach entry](#sandbach-entry) gives emotional sharing both an obsessive urgency and a transforming or regenerative capacity. [Munkasey](#munkasey-entry) adds powerful responses, investigative research, and a transition from analysis to emotional insight (p. 104). These entries support intensity and reorientation; they do not establish suspicion or a universal ability to see beneath another person's emotions.
 
 ## Links
 

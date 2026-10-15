@@ -1,0 +1,103 @@
+{
+  "generated_at": "2026-10-15T14:09:44.433Z",
+  "verifier": "/root/activation_review_010_012",
+  "scope": "Twelve of root's fourteen targeted repairs. Explicit expansion of prior eleven with Venus/Uranus=VernalPoint. Saturn/Asc remains013015 axes148 and Jupiter/Neptune=MC remains063066 Jupiter173. Approve only final repaired source and amended unique owner.",
+  "paths": [
+    {
+      "path": "wiki/activations/hades-kronos-equals-vulcanus.md",
+      "before_sha256": "ee4c725d52f0de1a07919d721d7bfd72c2022def124c7b74f658483ee62e285c",
+      "after_sha256": "ccede2d14df15d62e5bfe96d06aa66fa275376449719bdbfd3cca452524cffc5",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 1,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-neptune.md",
+      "before_sha256": "0f3ef2c8f7ba3ac7132be5d392291fbd6fcde67c2b04ded79e28bf8939cc16ce",
+      "after_sha256": "61359413fb9910e8b8e826485b9464b4b96edd6374d7d5536e0660679ff95129",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 13,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-venus.md",
+      "before_sha256": "668ce9b23439b34dbd1749e5c35674bed96db99c7563ac6b71045efafa3278be",
+      "after_sha256": "75775c84c53913d8b3cb790e844d68fc395741f35bf34814a6635fd6889c6686",
+      "ledger": "activations-017.jsonl",
+      "ledger_line": 18,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+      "before_sha256": "069d91e008df7a2fa43c83f41913c463009ed2815f585c9f154b42a7a38c6253",
+      "after_sha256": "e7ca9832e2785f0f5a522b11f813c3b341d07f41811ffd006fba173657e2cb26",
+      "ledger": "activations-028.jsonl",
+      "ledger_line": 31,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-neptune.md",
+      "before_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+      "after_sha256": "195926486a83a9cdc215837bd0db7fd783d1c3aaf15ccf7abc02974a11ddfdd2",
+      "ledger": "activations-056.jsonl",
+      "ledger_line": 36,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-uranus.md",
+      "before_sha256": "24f1c26dd4e84f6be88bb81ce7bd0c99997f5f43460443850351ac6687de9061",
+      "after_sha256": "f23fd857fdd93902feb7c6bda53e5b34fe4d0d80609c6ad8c6cd6464a4817b8c",
+      "ledger": "activations-056.jsonl",
+      "ledger_line": 41,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-mc.md",
+      "before_sha256": "9b5aabee154ca24651652526b3e2cbe12c09fe0029df864ac7dd8f67651fc4c0",
+      "after_sha256": "db9bb644fbb6cbe0e9a2288d461d11af986241d9d793e5e746b35769c8d62187",
+      "ledger": "activations-071.jsonl",
+      "ledger_line": 6,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-neptune.md",
+      "before_sha256": "9ce8fffbece29f256d25ce2356545476bafa6386509f0ce187af9d3234c094d5",
+      "after_sha256": "184c51a5c7c217279d0f38e8ec95e201cbeca47ac43a93898e683dd378b5027e",
+      "ledger": "activations-071.jsonl",
+      "ledger_line": 9,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-pluto.md",
+      "before_sha256": "f90bebd47ba5523dc152de9cb41bbecbac8bcedc46976145a993f5c564da57ea",
+      "after_sha256": "04ee4d80799e38e4e98a70181bccd3a53bcaca595f11696b76614f902881a729",
+      "ledger": "activations-071.jsonl",
+      "ledger_line": 11,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+      "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+      "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 39,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "after_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 4,
+      "currently_matches_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-vernal-point.md",
+      "before_sha256": "14566aff47c9ec1c59aa37556f9e1f466be0de44a13ebba2b9c6e1d0fcc52fab",
+      "after_sha256": "a4523adc6a5866f3c606e2133542d412ad96b39e4db4750bda3867819fd1c1d9",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 4,
+      "currently_matches_baseline": false
+    }
+  ]
+}

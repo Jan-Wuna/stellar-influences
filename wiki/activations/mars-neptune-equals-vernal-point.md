@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Vernal Point Mars Neptune](../triads/vernal-point-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 General infection, destruction, dissolution.
 
@@ -42,13 +46,27 @@ General infection, destruction, dissolution.
 
 #### ABC Entry
 
-(i) public policy, public policy resolution, exchange of views, public policy action, public policy action in the public sphere, activities of outsiders in the public sphere, and future work for the public sector
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Dissolution actions in public, dissolution of the public will, disappointing public activity, mistaken actions in public, activity of outsiders in public, and future work for the public.
+
+## Comparative Schema
+
+- core meaning: Dissolution or uncertain activity in the public sphere.
+- psychology: Dissolution of public will and disappointment in public activity.
+- body/health: General infection is Witte's historical claim.
+- social/relationship: A collective or public field rather than a specific personal relationship.
+- events/manifestations: Public mistakes, activity by outsiders, future public work, and general destruction or dissolution.
+- conflicts/notes: Future public work broadens ABC's range beyond dissolution; the entry gives no specific policy doctrine.
+
+## Contradictions
+
+The sources overlap on dissolution. ABC also specifies public mistakes, outside activity, and future work, without requiring every public action to end in destruction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Neptune = Vernal Point` makes infection, destruction, and dissolution collective or publicly visible.
-- Chart expression: generalized weakening, widespread breakdown, and a public atmosphere marked by decay, contagion, or dissolving force.
+In `Mars/Neptune = Vernal Point`, Vernal Point specifies the pair through activity in public life: dissolution of collective will, disappointing activity, mistakes, or work by outsiders. ABC also includes future work for the public, keeping the range wider than Witte's short list of general destruction and dissolution. Witte's infection statement remains an attributed historical claim; the entries supply no specific public-policy doctrine. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151)
 
 ## Links
 

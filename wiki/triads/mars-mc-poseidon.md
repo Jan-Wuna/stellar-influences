@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars MC Poseidon`
 - Astronomicon triad-set: `U MC ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Poseidon = Mars](../activations/mc-poseidon-equals-mars.md)
-- [Mars/MC = Poseidon](../activations/mars-mc-equals-poseidon.md)
-- [Mars/Poseidon = MC](../activations/mars-poseidon-equals-mc.md)
+- [MC/Poseidon = Mars](../activations/mc-poseidon-equals-mars.md): base axis [MC/Poseidon](../axes/mc-poseidon.md); activator [Mars](../factors/mars.md).
+- [Mars/MC = Poseidon](../activations/mars-mc-equals-poseidon.md): base axis [Mars/MC](../axes/mars-mc.md); activator [Poseidon](../factors/poseidon.md).
+- [Mars/Poseidon = MC](../activations/mars-poseidon-equals-mc.md): base axis [Mars/Poseidon](../axes/mars-poseidon.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `MC/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
-- `MC/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `98`
-- `Mars/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `73`
-- `Mars/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
-- `Mars/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `322`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Poseidon = Mars](../activations/mc-poseidon-equals-mars.md#witte-entry) (PDF entry-start p. 77); [Mars/MC = Poseidon](../activations/mars-mc-equals-poseidon.md#witte-entry) (PDF entry-start p. 64); [Mars/Poseidon = MC](../activations/mars-poseidon-equals-mc.md#witte-entry) (PDF entry-start p. 204).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Poseidon = Mars](../activations/mc-poseidon-equals-mars.md#abc-entry) (printed p. 98); [Mars/MC = Poseidon](../activations/mars-mc-equals-poseidon.md#abc-entry) (printed p. 73); [Mars/Poseidon = MC](../activations/mars-poseidon-equals-mc.md#abc-entry) (printed p. 322).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Mars`: energizes the axis into intellectual activity and mental independence.
-- `Mars/MC = Poseidon`: refines vocation through morality, intellect, and high-minded insight.
-- `Mars/Poseidon = MC`: internalizes the axis as personal moral conduct, ethical example, and conscious intellectual activity.
+Mars, MC and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Poseidon](../axes/mc-poseidon.md)
+- [Mars/MC](../axes/mars-mc.md)
+- [Mars/Poseidon](../axes/mars-poseidon.md)
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)

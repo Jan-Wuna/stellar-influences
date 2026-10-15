@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Node Asc](../triads/mars-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Node + Mars,” PDF p. 143.
 
 Common activity with others. Sexual relationships of other people.
 
@@ -45,17 +49,23 @@ Common activity with others. Sexual relationships of other people.
 
 #### ABC Entry
 
-On the spot mobility, other links, meetings at the workplace, contacts with the environment, impulses in a partner relationship, effective relations with the partner, and working relationship
+Source: “Mondknoten + Mars,” printed p. 212 (PDF p. 105).
+
+Work meetings at the location, others create connections, encounters at the workplace, activating relations with the surroundings, impulses in a partner relationship, energetic relations with the partner, and introducing work partners.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Dragon's Head,” printed p. 218, entry 0756.
 
 Comradeship or good fellowship, cultivation of personal association or contacts, energetic and vigorous cooperation. A sex union, family ties.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
 
 One learns about who one is through interacting with groups. The need to not let one's personality or self-concept stand in the way of accomplishing things with other people and with groups.
 
@@ -70,22 +80,21 @@ Focusing on the need for bringing others into your life to develop your ideas an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Active cooperation and contact through doing things with others.
+- psychology: Learning about oneself through groups while preventing self-concept from obstructing shared work.
+- body/health: Sexual union is mentioned without a health assertion.
+- social/relationship: Comradeship, family or sexual ties, partnerships, and work contacts.
+- events/manifestations: Workplace meetings, energetic cooperation, and bringing people together to develop ideas.
+- conflicts/notes: Family and sexual ties are particular examples of association; the entries do not characterize every cooperative bond as sexual.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap on energetic association and cooperation. Sandbach's concern about self-concept adds a condition for working together rather than contradicting that shared emphasis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Asc`: comradeship, active family or sexual bonds, and a style that naturally forms contact through doing things together. Main caution: that connection can become too physical, too driven, or too conflict-prone when cooperation is fused with raw impulse.
+In `Mars/Node = Asc`, Asc specifies shared action through direct encounters and cooperation. Comradeship, workplace meetings, introducing work partners, family ties, and sexual union are concrete forms in the entries. Sandbach adds learning about oneself through groups and keeping self-concept from obstructing shared accomplishment. Munkasey emphasizes understanding others' needs in professional meetings and bringing people in to develop ideas. The shared focus is active association, with family and sexual ties as particular expressions rather than a rule for every bond. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 212 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 218, entry 0756; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

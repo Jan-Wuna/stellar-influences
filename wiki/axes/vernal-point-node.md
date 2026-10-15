@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `39`, chapter heading `ARIES + NODES` (normalized here as Vernal Point/Node).
 
 Union of many persons, alliances, in general. Connections with and in the general public. General and international connections or relationships. General network.
 
@@ -79,15 +83,28 @@ Union of many persons, alliances, in general. Connections with and in the genera
 
 #### ABC Pair Summary
 
-Public relations, public relations life, public meetings, public relations mediations, and meetings in the public sphere
+Source reference: printed page `26`, PDF page `12`, bold pair summary.
+
+Source wording: "Beziehungen zur Öffentlichkeit, Bindungen im öffentlichen Leben, Kontakte im öffentlichen Leben, öffentliche Begegnungen, öffentliche Vermittlungen, Treffen in der Öffentlichkeit, Verbindungen in der Öffentlichkeit".
+
+Editorial translation, checked against the scan: Relations with the public; bonds in public life; contacts in public life; public encounters; public mediations; meetings in public life; connections in public life.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To make connections with larger social groups. To become involved in a social movement. To be able to connect with many
+Source reference: PDF pages `213–214`, entry `Nodes/Aries`, continued across the page break.
 
-people. Facility in getting involved with groups, ease of integrating oneself.
+To make connections with larger social groups. To become involved in a social movement. To be able to connect with many people. Facility in getting involved with groups, ease of integrating oneself.
+
+## Comparative Schema
+
+- Core meaning: Connections among many people and participation in wider networks recur across the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Facility in joining groups and integrating oneself is explicit in the pair delineation; dependence on a group is not established.
+- Body/health: These entries supply no specific bodily or medical association.
+- Social/relationship: Alliances, general and international relationships, larger social groups, and social movements form the supported range.
+- Events/manifestations: Public encounters, meetings, mediation, and forming connections are named examples.
+- Conflicts/notes: The checked ABC paragraph distinguishes bonds, contacts, encounters, mediation, meetings, and connections. These are related forms of public linkage, without evidence that they always carry one purpose or outcome.
 
 ## Related Activations
 
@@ -112,11 +129,16 @@ people. Facility in getting involved with groups, ease of integrating oneself.
 - [Vernal Point/Node = Vulcanus](../activations/vernal-point-node-equals-vulcanus.md)
 - [Vernal Point/Node = Zeus](../activations/vernal-point-node-equals-zeus.md)
 
+## Contradictions
+
+No direct contradiction is established. General or international networks in the pair summary and individual ease of joining a group in the pair delineation describe different scales; neither implies that every connection becomes a political or social movement.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node` is the axis of collective alliance, mass networking, and participation in groups, movements, or broad relational structures beyond the personal circle.
-- Chart expression: social integration, public connections, movements, alliances with many people, and the ability to plug into wider networks and communities. Liabilities: diffuse loyalties, herd dependence, social overextension, and losing individual direction inside collective belonging.
+Vernal Point/Node describes connections that extend into a wider public: alliances, networks, and relationships among many people. The [pair summary](#pair-summary) includes general and international connections, the [ABC entry](#abc-pair-summary) distinguishes public bonds, contacts, meetings, and mediation, and the [pair delineation](#pair-delineation) adds participation in larger groups or social movements.
+
+The personal expression is the ability to connect and integrate with such groups, rather than only the existence of a network. These entries support social participation and breadth of connection, but do not establish a group's purpose, the durability of an alliance, or a loss of individual direction.
 
 ## Links
 

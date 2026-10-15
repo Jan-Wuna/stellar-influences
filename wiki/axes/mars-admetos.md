@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `202`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Specialism. Special work. The sinking trend of the market. The decrease of work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `318`; PDF page: `158` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Perseverance, blocked work, depression impulses, restricted Tatigkcit, earth work, consolidation of the will, Greek actions, impulses subdriick, rotational activity, working on primordial substances, and deepening into the work
+German pair summary (transcribed from printed page `318`; PDF page `158`):
+
+> Ausdauernde Tätigkeit, blockierte Arbeit, Depressions-Impulse, eingeschränkte Tätigkeit, Erd-Arbeit, Festigung des Willens, gründliche Aktionen, Impulse unterdrücken, Rotations-Tätigkeit, Urstoffe bearbeiten, Vertiefung in die Arbeit
+
+Editorial translation from the German passage: Enduring activity, blocked work, depressive impulses, restricted activity, earth work, consolidation of the will, thorough actions, suppression of impulses, rotational activity, working on primordial materials, immersion in work.
+
+## Comparative Schema
+
+- core meaning: Action narrowed, obstructed, or concentrated into special work; the [Pair Summary](#pair-summary) ranges from specialization to immobility.
+- psychology: Perseverance and consolidation of will stand alongside suppressed impulses in the [ABC Pair Summary](#abc-pair-summary); these are different responses to restriction.
+- body/health: The Pair Summary mentions extreme cold, while ABC uses a depression-related term. Neither entry establishes a clinical condition or a general health outcome.
+- social/relationship: Suppression and oppression describe constrained agency and working conditions; these entries do not develop a separate account of intimate relationships.
+- events/manifestations: Reduced employment, a narrowing field of activity, work in wreckage, and the sinking market are named in the Pair Summary; ABC also names earth work and deepening into work.
+- conflicts/notes: Specialization and perseverance need not mean total blockage. ABC also names thorough actions, suppressed impulses, rotation and working on Urstoffe, without explaining a physical mechanism.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Perseverance, blocked work, depression impulses, restricted Tatigkcit, earth wor
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos`: constrained action: special work in limited conditions, suppression, throttling, wreckage, reduced labor, narrowed range, grave hindrance, and force pressed down toward immobility.
-- Chart expression: action under pressure rather than free movement. It favors specialized or difficult labor, work in ruins or fragments, and concentrated effort in a tight field, while its liabilities are oppression, terror, pessimism, coldness, market decline, blocked motion, and the breaking down of active conditions.
+`Mars/Admetos` describes action confined to a narrow field. That confinement can give work a specialized, concentrated character, or become a hindrance so severe that activity decreases or stops. Work with wreckage and fragments belongs to this same restricted field of effort; it is not evidence that every expression ends in failure. The [Pair Summary](#pair-summary) supplies this range, while the [ABC Pair Summary](#abc-pair-summary) adds perseverance, consolidation of will, and deepening into work.
+
+The oppressive and destructive possibilities remain part of the source entry, alongside sustained effort. They do not justify a universal prognosis of defeat or a medical reading of the pair. ABC's thorough actions, suppression of impulses, rotational activity and work on primordial materials remain distinct source expressions ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

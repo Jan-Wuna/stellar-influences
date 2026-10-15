@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Jupiter = Hades`
 - Astronomicon formula: `R/V = ¢`
@@ -36,20 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: printed page `129`, PDF page `125`, `MOON + JUPITER`, Hades row.
+
 Easy going, happy woman. Happy hours in sad circumstances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of a people through deprivation, financial disadvantage of a woman, financial crime in a people, lack of joy for a woman, lack of justice, poor rights of a woman, and legal disadvantages of a people
+Source reference: printed page `183`, PDF page `90`, `Mond + Jupiter`, Hades row.
+
+Source wording: "Erfolg eines Volkes durch Entbehrungen, finanzielle Benachteiligung einer Frau, Finanz-Kriminalität in einem Volk, Mangel an Freude für eine Frau, mangelndes Rechts-Gefühl, mangelhafte Rechte einer Frau, Rechts-Nachteile eines Volkes".
+
+Editorial translation, checked against the scan: A people's success through deprivation; a woman's financial disadvantage; financial crime among a people; lack of joy for a woman; a deficient sense of justice; inadequate rights for a woman; a people's legal disadvantages.
+
+## Comparative Schema
+
+- core meaning: Happiness or success under adverse conditions, with loss of joy and financial or legal disadvantage also represented.
+- psychology: Witte's easygoing happiness in sad circumstances contrasts with ABC's lack of joy and deficient sense of justice.
+- body/health: No bodily condition or clinical claim is specified.
+- social/relationship: A happy woman in Witte's historical wording; women's financial disadvantage or inadequate rights in ABC.
+- events/manifestations: Happy hours in sadness, success through deprivation, financial crime, and legal disadvantages affecting a people.
+- conflicts/notes: Happiness amid hardship and a lack of happiness remain different possibilities. A deficient sense of justice is distinct from deficient rights or an adverse legal position.
+
+## Contradictions
+
+Witte emphasizes happiness that can coexist with sad circumstances. ABC also names success through deprivation, but includes lack of joy, financial crime, and legal disadvantage. The more severe claims must remain visible rather than being absorbed into a reassuring account of making do. The translation now distinguishes "Rechts-Gefühl" (sense of justice) from rights and legal conditions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Jupiter = Hades`: Easy going, happy woman. Happy hours in sad circumstances.
-- Practical focus: places `Moon/Jupiter` in mixed conditions where ease survives inside difficulty. It can show good humor or emotional generosity persisting through sadness, poverty, or worn circumstances, so happiness here is real but touched by compromise, melancholy, or the need to make do.
-- Practical expression: success of a people through deprivation, financial disadvantage of a woman, financial crime in a people, lack of joy for a woman, and lack of justice.
+In `Moon/Jupiter = Hades`, the [Moon/Jupiter concern with happiness and fortunate conditions](../axes/moon-jupiter.md#derived-synthesis) meets hardship. Witte describes happy hours in sad circumstances, while ABC includes a people's success through deprivation. These support the possibility of happiness or success under adverse conditions without establishing that hardship is itself beneficial. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also names lack of joy, financial disadvantage or crime, inadequate rights, and legal disadvantages. Those expressions preserve a harsher range than happiness surviving sadness alone. Its deficient sense of justice concerns an attitude, while inadequate rights and legal disadvantages concern conditions; keeping them distinct prevents a moral judgment from replacing the source's social and financial meanings. ([ABC](#abc-entry))
 
 ## Links
 

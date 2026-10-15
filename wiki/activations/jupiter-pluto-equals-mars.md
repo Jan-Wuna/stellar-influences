@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Mars`
 - Astronomicon formula: `V/Z = U`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Mars row.
+
 To plan successfully. The carrying out of fortunate plans.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developing work pleasure, developing work law, successfully mitigating work, successful activity development, developing financial activity, different legal work, beneficial development work, and growing activity success
+- Source reference: printed page 330; one-based PDF page 164, Jupiter/Pluto Mars row; complete eight-clause row checked.
+
+Developing joy in work, developing labor law, successful efforts to obtain work, successful development of activity, developing financial activity, changed legal work, advantageous development work, and increasing success in activity
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 235, Jupiter/Pluto coded entry 0823; retained printed coded-entry locator.
 
 Organizing talent, ability to inspire others with enthusiasm, desire to achieve great things.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Mars entry; exact paragraph checked, chapter begins on page 82.
 
 You place high expectations of your own actions, are very enthusiastic about what you are doing, and expect to get a lot done. To go way too far in overdoing some thing. A person who will not be stopped.
 
@@ -66,26 +76,27 @@ You place high expectations of your own actions, are very enthusiastic about wha
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 You may fight others for your rights; a controlling or ruthless purpose in life; using others to fight your physical battles or to protect you; you should assert yourself and rights; feeling diminished or insecure before others.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful planning and substantial effort, with possible excess or controlling action.
+- psychology: Organizing talent and inspired enthusiasm in Ebertin; high expectations and overdoing in Sandbach.
+- body/health: Munkasey mentions physical battles or protection, without a medical claim.
+- social/relationship: Inspiring others, fighting for rights or using others in conflict are distinct source examples.
+- events/manifestations: Obtaining work, developing activity, financial/legal work and executing plans.
+- conflicts/notes: Strong effort is not uniformly constructive: Munkasey includes ruthless purpose and insecurity, while Sandbach explicitly allows excessive action.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, ABC and Ebertin emphasize effective planning and work. Sandbach qualifies this with overdoing, and Munkasey adds controlling or ruthless purposes and insecurity. These differences should not be compressed into uncomplicated determination.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Mars`: major effort, strategic action, and the will to achieve something significant rather than ordinary. Main caution: overdoing it: the same unstoppable energy that drives success can become obsessive, excessive, or unwilling to recognize limits.
+In `Jupiter/Pluto = Mars`, the [source entries](#source-entries) emphasize planning, organization and energetic effort toward large aims. ABC supplies concrete work, labor-law, financial and legal activities; Ebertin adds the ability to inspire others. Sandbach's high expectations can become overdoing, and Munkasey introduces conflict over rights, control or the use of others for protection. The shared intensity therefore supports achievement while leaving the purpose and proportion of the action open to the sources' explicit qualifications.
 
 ## Links
 

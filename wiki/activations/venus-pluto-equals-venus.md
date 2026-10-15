@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Softens the deep and powerful impulses which could be used for destruction; adde
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Softening powerful impulses while intensifying pleasure or attraction.
+- psychology: Enjoyment may attach to dangerous or reckless activity.
+- body/health: Danger is mentioned as an activity's quality; no bodily outcome is specified.
+- social/relationship: A deeply satisfying attraction or love is a stated possibility.
+- events/manifestations: Participation in dangerous or reckless activities may bring added pleasure.
+- conflicts/notes: The single passage does not equate softening destructive impulses with eliminating risk.
 
 ## Contradictions
 
-- None recorded yet.
+Softened destructive impulses and enjoyment of danger are different aspects of the same entry. They need not cancel one another, and satisfaction does not establish safety.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Venus`: Softens the deep and powerful impulses which could be used for destruction; added pleasures received from participating in activities which are very dangerous or reckless; may bring a deeply satisfying attraction or love.
+In `Venus/Pluto = Venus`, Venus specifies the Venus/Pluto pattern by softening impulses that could be destructive and by bringing pleasure or deeply satisfying attraction. The [Munkasey entry](#munkasey-entry) also locates pleasure in dangerous or reckless activities. The connection between these clauses is a change in how powerful impulses are experienced, with attraction and satisfaction possible while risk remains explicitly present.
 
 ## Links
 

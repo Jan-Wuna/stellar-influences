@@ -13,6 +13,7 @@ factor_b: Asc
 related_activations:
   - Moon/Asc = Admetos
   - Moon/Asc = Apollon
+  - Moon/Asc = Asc
   - Moon/Asc = Chiron
   - Moon/Asc = Cupido
   - Moon/Asc = Hades
@@ -21,6 +22,7 @@ related_activations:
   - Moon/Asc = Mars
   - Moon/Asc = MC
   - Moon/Asc = Mercury
+  - Moon/Asc = Moon
   - Moon/Asc = Neptune
   - Moon/Asc = Node
   - Moon/Asc = Pluto
@@ -70,14 +72,16 @@ updated_at: 2026-06-20
 
 - Axis: `Moon/Asc`
 - Astronomicon axis: `R/Asc`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/ASCENDANT`
-- Source page: `139`
+- Source heading: `ASCENDANT + MOON`
+- PDF page (one-based): `81` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -85,9 +89,11 @@ Acquaintances with female persons. The people of the closer surroundings. To be 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `102–103`; PDF page (one-based): `50` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Other women, other folk, woman as partner, fabled environment, fiihlvoher partner, near the mother, place of the woman, mother of others, hour at the place, and environment of the mother
+Other women, other peoples, woman as partner, an emotionally responsive environment, an emotionally responsive partner, near the mother, place of the woman, mother of others, hour at the place, environment of the mother.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -145,21 +151,22 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 #### Banzhaf/Haebler Aspect Keywords
 
 - harmony: The Obliging Individual. Sensitive, imaginative, impressionable, cautious, usually reacts, tends to have a feminine form of expression. Willingness to adapt and be compliant.
-- discord: The Touchy Person. Difficulties in showing feelings and putting one's own wishes into practice. Emotionally blocked in the manner of expression. At the same time, moody and touchy toward others. Tends to get involved in misunderstandings. Moon-Medium Coeli HARMONY: Ms. or Mr. Popularity. Instinctive urge to be in the public eye.
+- discord: The Touchy Person. Difficulties in showing feelings and putting one's own wishes into practice. Emotionally blocked in the manner of expression. At the same time, moody and touchy toward others. Tends to get involved in misunderstandings.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Emotional exchange with nearby people and surroundings, especially familiar, domestic or female relationships.
+- psychology: Receptivity, care and sensitivity to moods range into insecurity, touchiness and identifying too strongly with passing feelings.
+- body/health: Munkasey alone here names sinus, dust and allergy sensitivities; these remain attributed associations, not diagnoses from the pair.
+- social/relationship: Familiar ties, emotional habits and a need for security shape contact; sensitivity to another's mood or space can help or unsettle relating.
+- events/manifestations: Female acquaintances, being brought into public by others, local emotional atmosphere and collective needs appear alongside private domestic exchange.
+- conflicts/notes: Sandbach develops emotional awareness toward freedom from emotional identification; Banzhaf/Haebler distinguish compliant from blocked expression. Adjacent Moon/MC text was removed from their entry after scan-confirming the boundary.
 
 ## Related Activations
 
 - [Moon/Asc = Admetos](../activations/moon-asc-equals-admetos.md)
 - [Moon/Asc = Apollon](../activations/moon-asc-equals-apollon.md)
+- [Moon/Asc = Asc](../activations/moon-asc-equals-asc.md)
 - [Moon/Asc = Chiron](../activations/moon-asc-equals-chiron.md)
 - [Moon/Asc = Cupido](../activations/moon-asc-equals-cupido.md)
 - [Moon/Asc = Hades](../activations/moon-asc-equals-hades.md)
@@ -168,6 +175,7 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - [Moon/Asc = Mars](../activations/moon-asc-equals-mars.md)
 - [Moon/Asc = MC](../activations/moon-asc-equals-mc.md)
 - [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md)
+- [Moon/Asc = Moon](../activations/moon-asc-equals-moon.md)
 - [Moon/Asc = Neptune](../activations/moon-asc-equals-neptune.md)
 - [Moon/Asc = Node](../activations/moon-asc-equals-node.md)
 - [Moon/Asc = Pluto](../activations/moon-asc-equals-pluto.md)
@@ -186,11 +194,11 @@ Sinus sensitivities or infections; emotions held in check due to social or envir
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc` is the axis of emotional immediacy, sensitivity to the environment, and relationships shaped by habit, mood, and the need for security. It combines feeling, instinct, receptivity, and fluctuation with personality, close contact, physical presence, and the people nearest at hand.
-- Chart expression: a responsive, caring, and impressionable manner, strong emotional exchange with others, domestic or familiar ties, and intuition sharpened by immediate surroundings. Liabilities: insecurity, moodiness, overidentification with passing feelings, and difficulty maintaining objectivity when reacting to other people.
+`Moon/Asc` concerns the exchange of feeling with the people and atmosphere nearest at hand. Contact can be familiar, domestic and protective, shaped by habits of responding and a need to feel secure. [Hand](#robert-hand---horoscope-symbols) emphasizes longstanding emotional relationships and expression to or from the immediate environment; [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) connects care and receptivity with awareness of other people's moods and psychological space. The same impressionability can become insecurity, moodiness or a reaction that makes it hard to see oneself objectively. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) develops this tension as a process of recognizing emotions without making each passing feeling one's identity.
+
+The [Witte](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) and [ABC](#udo-rudolph---abc-for-planetary-pictures) summaries retain concrete female acquaintances, partners, mothers and the quality of a particular place or hour. Those motifs give the pair local and public expressions as well as private ones, including being brought into public by others. [Banzhaf and Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) distinguish a responsive, accommodating manner from blocked expression and touchiness; accommodation is not guaranteed. Munkasey's bodily associations remain specific to his entry. Neither the gendered examples nor the pair as a whole determines a relationship role or medical condition; particular closing factors have separate [activation pages](#related-activations).
 
 ## Links
 

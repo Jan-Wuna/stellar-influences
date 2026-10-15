@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Node = Uranus](../activations/saturn-node-equals-uranus.md)
-- [Saturn/Uranus = Node](../activations/saturn-uranus-equals-node.md)
-- [Uranus/Node = Saturn](../activations/uranus-node-equals-saturn.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Node = Uranus](../activations/saturn-node-equals-uranus.md) | [Saturn/Node](../axes/saturn-node.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Node](../activations/saturn-uranus-equals-node.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Node](../factors/node.md) |
+| [Uranus/Node = Saturn](../activations/uranus-node-equals-saturn.md) | [Uranus/Node](../axes/uranus-node.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Node = Uranus`: Michael, page `296`
-- `Saturn/Uranus = Node`: Michael, page `284`
-- `Uranus/Node = Saturn`: Michael, page `316`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Node = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-node-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-node-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-node-equals-uranus.md#munkasey-entry), printed p. `296`.
+- `Saturn/Uranus = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-uranus-equals-node.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-uranus-equals-node.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-uranus-equals-node.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-uranus-equals-node.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-uranus-equals-node.md#munkasey-entry), printed p. `284`.
+- `Uranus/Node = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-node-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-node-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-node-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-node-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-node-equals-saturn.md#munkasey-entry), printed p. `316`.
+
+For `Saturn/Node = Uranus`, the linked entry retains Witte one-based PDF entry-start p. `145`, ABC printed p. `217` (PDF p. `107`), Ebertin printed p. `257`, entry `0909`, and Sandbach one-based PDF chapter-start p. `92`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

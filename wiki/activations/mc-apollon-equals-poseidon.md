@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [MC Apollon Poseidon](../triads/mc-apollon-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Experiences though mental or spiritual spheres. To study philosophy or spiritual
 
 Experiences of the spirit soul, success through psychic insight, my success through clarity, my spiritual success, my cultural success, my knowledge of the spirit, my spiritual freedom, psychic insights and experiences, and science of soul and spirit
 
+## Comparative Schema
+
+- **Core meaning:** Experience and knowledge in philosophical or spiritual spheres.
+- **Psychology:** Personal convictions, clarity, and insight are explicit.
+- **Body/health:** No specific bodily or health claim is supplied.
+- **Social/relationship:** Cultural success is represented without a defined partnership claim.
+- **Events/manifestations:** Study of philosophy or spiritual sciences is named.
+- **Conflicts/notes:** Witte's disinclination toward material things is one sourced disposition, not a requirement that every expression reject material life.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Poseidon` spiritualizes the axis through philosophy, conviction, and non-material values.
-- Chart expression: a broad inner horizon shaped by spiritual study, firm beliefs, and experience gained in mental or philosophical spheres rather than through material pursuit.
+Poseidon specifies `MC/Apollon` through philosophical and spiritual experience. Conviction and study beyond material concerns meet ABC's clarity, insight, cultural success, and spiritual freedom; knowledge here is directed toward meaning and inner understanding rather than a stated material reward. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 93.)
 
 ## Links
 

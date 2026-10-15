@@ -1,0 +1,125 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/saturn-asc-equals-pluto.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Pluto"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Poseidon"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-saturn.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Saturn"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Sun"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Uranus"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Venus"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-vulcanus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Vulcanus"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-zeus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Zeus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/saturn-asc-equals-pluto.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Development of one of the most important partners, development problems in the environment, development of a separation from the partner, development with the partner, problematic change in the environment, change in an old place, and growing problems with the environment",
+      "new_text": "Unfolding of a serious partner, problems of development in the surroundings, development of a separation from the partner, disturbed development with the partner, problematic environmental development, change of an old place, growing environmental problems.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact full glyph row visually read; Uranus bullet-only corrupt cache restored from raw paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-uranus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",
+      "new_text": "Excitement through losses at the place, serious tensions with the partner, new partner tasks, sudden difficulties with the partner, sudden separation from others, problematic disturbances at the place, technical disturbances at the place, surprising environmental tasks.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact full glyph row visually read; Uranus bullet-only corrupt cache restored from raw paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-venus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Peace problems in the place, patience in the love of the partner, steored harmony with the partner, village peace, harmony with a serious partner, love problems with the partner, separation from a gentle place, and preference for an old place",
+      "new_text": "Peace problems at the place, patience in love toward the partner, disturbed harmony with the partner, disturbed local peace, harmony with a serious partner, love problems with the partner, separation from a beautiful place, preference for an old place.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact full glyph row visually read; Uranus bullet-only corrupt cache restored from raw paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-vulcanus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Influence of an old place, energy problems of a place, powerful patience of a partner, strong shocks in the place, stagnant environmental energy, enormous urban environment, violent separation from the partner, and loss of a place by violence",
+      "new_text": "Influence of an old place, energy problems of a place, powerful patience of a partner, strong disturbances at the place, disturbed environmental energy, a severely disturbed environment, violent separation from the partner, losses of a place through violence.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact full glyph row visually read; Uranus bullet-only corrupt cache restored from raw paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-zeus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Effortful environmental tasks, task design for the environment, serious partner efforts, care problems in the environment, patient goal seeking on site, inhibited partner services, loss of fire on site, and procreation problems with the partner",
+      "new_text": "Demanding environmental tasks, shaping tasks for the environment, serious partner exertions, leadership problems in the surroundings, patient striving toward goals at the place, inhibited partner performance, loss through fire at the place, procreation problems with the partner.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact full glyph row visually read; Uranus bullet-only corrupt cache restored from raw paragraph."
+    }
+  ]
+}

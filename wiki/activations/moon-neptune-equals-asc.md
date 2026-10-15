@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Asc`
 - Astronomicon formula: `R/Y = Asc`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 Acquaintances or association with sensitive persons, or with virgins. Nightly association.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `188`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-forgiving women in the environment, weak hour with the partner, hour of exchange with the partner, insecure women in the environment, unclear partners, refined partner chairs, and future of another people
+A partner's sensitive emotional nature, foreign women in the surroundings, a weak hour with the partner, an hour of disappointment with the partner, an insecure woman in the surroundings, unclear feelings of the partner, refined feelings of the partner, and the future of another people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `133`, entry `0408`.
 
 #### Ebertin Entry
 
 An unstable personality, dependency upon all environmental influences, ability or faculty to see through other people. Associations with sensitive, weak or sick persons.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `36` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Enhanced abilities to focus on people and read their states of mind or feelings 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sensitivity to others and uncertainty within relationships ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: emotional confusion and environmental susceptibility coexist with the sources' descriptions of perceiving others' feelings.
+- body/health: Ebertin's associations with weak or sick people are historical social examples, not a diagnosis of the reader.
+- social/relationship: sensitive acquaintances, partners, and sharing visions or fantasies are central.
+- events/manifestations: nightly association and moments of disappointment with a partner are named.
+- conflicts/notes: psychic sensitivity is a source claim; it does not make every impression of another person accurate.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe both confusion and sensitivity to hidden feelings. Sandbach explicitly frames the latter as the better possibility, so these are qualified alternatives rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Asc`: empathic charm, soulful receptivity, and the ability to register and reflect moods that others barely notice. Main caution: weak boundary in presence: self-presentation can become vague, drained, or too open to projection and confusion.
+In Moon/Neptune = Asc, Asc specifies the pair through encounters in which subtle feelings are noticed but relationships may also become unclear. [Sandbach](#sandbach-entry) places emotional confusion beside sensitivity to another person's finer or hidden feelings. [Ebertin](#ebertin-entry) likewise joins environmental susceptibility to a claimed ability to see through people, while [Munkasey](#munkasey-entry) emphasizes attention to feelings rather than stated intentions and sharing visions with others (p. 128).
+
+The [Witte entry](#witte-entry) preserves sensitive acquaintances and nightly association; [ABC](#abc-entry) adds a partner's sensitivity, unclear or refined feelings, and disappointment (printed p. 188, PDF p. 93). Sensitivity is the connecting theme, with confusion as an explicit limit rather than proof that an impression is true.
 
 ## Links
 

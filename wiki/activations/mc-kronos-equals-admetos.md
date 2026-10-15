@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [MC Kronos Admetos](../triads/mc-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 One’s own capability finds no recognition. An authority in a small circle. The end of authority.
 
@@ -42,13 +46,27 @@ One’s own capability finds no recognition. An authority in a small circle. The
 
 #### ABC Entry
 
-Consolidation of my self esteem, my firm standing, my limited self esteem, my blocked authority, my limitation by the boss, my submission by the authority, and resistance by a great soul
+Source: “Meridian + Kronos,” printed p. 91 (PDF p. 44).
+
+Consolidation of my independence, my established reputation, my restricted self-confidence, my blocked authority, my restriction by the chief, my suppression by authority, and resistance of a great soul.
+
+## Comparative Schema
+
+- core meaning: Personal authority or independence consolidated, restricted, unrecognized, or ended.
+- psychology: Restricted self-confidence and resistance alongside firmness.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Authority within a small circle and restriction or suppression by a chief or authorities.
+- events/manifestations: Unrecognized capability, blocked authority, or its end.
+- conflicts/notes: Consolidating independence differs from losing authority; neither describes every outcome of the formula.
+
+## Contradictions
+
+Witte emphasizes limited recognition and authority. ABC also includes consolidation of independence and reputation, alongside restrictions imposed by others.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Admetos` narrows the axis through unrecognized ability and reduced authority.
-- Chart expression: greatness confined to a small circle, capability that finds little acknowledgment, and authority under compression, decline, or eventual termination.
+In `MC/Kronos = Admetos`, Admetos specifies personal authority and independence through consolidation, resistance, or restriction. Witte describes capability finding no recognition, authority in a small circle, and the end of authority. ABC also retains established reputation and strengthened independence alongside blocked authority and suppression by a superior. The range includes maintaining a limited position as well as losing it, without making decline the only expression. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 91 / PDF p. 44)
 
 ## Links
 

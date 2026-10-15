@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Uranus Pluto Node](../triads/uranus-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Connected with sudden changes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 372.
+
 #### ABC Entry
 
 Exciting changes in a connection, development of rhythmic connections, development of connections to technology, eventful development in a connection, development of new connections, and sudden connection change
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 269, entry 0959.
+
 #### Ebertin Entry
 
 untiring colleague, a continually active partner. Desire to accomplish immense tasks through teamwork, the experience of sharing upsets or excitement with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 105 (chapter start only; exact entry page not established).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ You are drawn to others who have ideas similar to yours about how to change the 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Sudden change experienced through connections and collaboration.
+- psychology: Readiness for unusual changes and freedom to be oneself.
+- body/health: These entries do not establish a distinct bodily claim.
+- social/relationship: Active colleagues, supportive partners and shared reforming ideas.
+- events/manifestations: New connections, joint undertakings and shared excitement.
+- conflicts/notes: The entries do not establish fanaticism or manipulation.
 
 ## Contradictions
 
-- None recorded yet.
+Shared excitement and supportive collaboration are compatible emphases. No direct contradiction is established by these excerpts; they do not guarantee that every association is supportive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Node`: catalytic alliances, reformist groups, and the ability to change through intense social encounter. Main caution: explosive entanglement: associations can become fanatical, manipulative, or too unstable to hold constructive purpose.
+In `Uranus/Pluto = Node`, Node places sudden development in associations: changes are shared with others, and new connections can form around an ambitious task or a different approach to the world. The common thread is active participation with people who support change, whether as an untiring colleague or a partner who allows individuality. [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) support this relational focus.
 
 ## Links
 

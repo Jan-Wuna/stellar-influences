@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Apollon`
 - Astronomicon formula: `Y/¨ = ¥`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Many who are on an equal plane hide their opinions, they are not sincere. Many have a false concept of the world.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `407`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Spreading of unclear ideas, intellectual successes through intuition, clear knowledge of the future, sensitization of science from the mind, dissemination of metaphysical truths, refinement of culture knowledge, and increasing metaphysical knowledge
+Spread of unclear ideas, successes of mind through intuition, clear knowledge of the future, sensitization of the science of mind, dissemination of metaphysical truths, refinement of cultural knowledge, and increasing metaphysical insights
+
+## Comparative Schema
+
+- core meaning: ideas or claims of knowledge extending to many people.
+- psychology: unclear ideas and intuitive understanding are explicit.
+- body/health: no bodily or health claim is supplied.
+- social/relationship: many concealing their opinions or sharing a false worldview are Witte's examples.
+- events/manifestations: spread of ideas, cultural knowledge, and metaphysical teaching are named.
+- conflicts/notes: ABC's clear future knowledge is an attributed claim, not established predictive ability; widespread ideas are not all insincere.
+
+## Contradictions
+
+Witte emphasizes collective concealment and false worldview. ABC also names refinement and knowledge while retaining the spread of unclear ideas.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Apollon`: Many who are on an equal plane hide their opinions, they are not sincere. Many have a false concept of the world.
-- Practical focus: enlarges the axis into collective insincerity and shared false worldview, showing many people concealing what they believe while drifting into mistaken ideas together.
-- Practical expression: spreading of unclear ideas, intellectual successes through intuition, clear knowledge of the future, sensitization of science from the mind, and dissemination of metaphysical truths.
+In Neptune/Poseidon = Apollon, the emphasis falls on ideas and knowledge shared or spread widely. [Witte](#witte-entry) names concealed opinions and false worldviews among many; [ABC](#abc-entry) includes unclear ideas, metaphysical dissemination, and refinement of cultural knowledge (printed p. 407, PDF p. 202). Its positive claims of intuitive understanding or future knowledge remain source attributions, while the scale of an idea's reach does not establish its truth or sincerity.
 
 ## Links
 

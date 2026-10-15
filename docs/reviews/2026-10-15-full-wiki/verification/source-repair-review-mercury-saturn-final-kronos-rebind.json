@@ -1,0 +1,51 @@
+{
+  "path": "wiki/activations/saturn-cupido-equals-kronos.md",
+  "verified_by": "/root/source_check_saturn",
+  "raw": "Trennung einer Gemeinschaft durch den Staat",
+  "printed_page": 355,
+  "pdf_page": 176,
+  "proof": [
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mercury-saturn-final-abc-pdf176.png"
+  ],
+  "previous_source_sha256": "c5a9c476f8d6c07b8078c4fac1863db9d83da8f3cfdacb1a0f93539186eb46af",
+  "final_source_sha256": "a866b6a658e8f805b1b1658001be904513cfc725f41773d21660580d37404fa0",
+  "previous_ledger_record_sha256": "6a1f40f15e74473ae421b7418435fc9c4e6e43a961c73c294877922ca3097a0c",
+  "ledger": "activations-065.jsonl",
+  "ledger_line": 28,
+  "ledger_record_sha256": "9509eee08972ed0bece23b0321eef841141ec4749ebd374a97b65afb005f594d",
+  "final_complete_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 224.\n\nSeparation by force majeure. To be divorced by the state.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 355 (printed); PDF page: 176.\n\nAuthority of serious art, shared state losses, a disturbed state community, concentration on the whole state, disturbances in a community's authorities, separation of a community through the state, important communal tasks.\n\nTranslation and paragraph boundary checked against the full German glyph row.",
+  "final_complete_unique_owner_record": {
+    "path": "wiki/activations/saturn-cupido-equals-kronos.md",
+    "reviewer": "/root/activation_review_063_066",
+    "full_read": true,
+    "status": "reviewed",
+    "outcome": "changed",
+    "problems": [
+      "The kronos list summary omitted source range and had no schema or early route.",
+      "ABC cached wording was damaged, incomplete or mistranslated: Authoritat of a serious artist, joint state losses, state community, concentration on the whole state, interference in the authority of a community, separation of a community by the state, and important Community tasks"
+    ],
+    "changes": [
+      "Authority or state power shapes a community's separation and tasks.",
+      "Added six source-grounded categories, source-linked exact-oriented prose, a bounded source-difference note and early route.",
+      "Retranslated full ABC glyph row with exact printed/PDF locator; preserved complete Witte passage and added PDF224 locator.",
+      "Independent audit follow-up: corrected separation within a community to separation of a community through the state; Trennung einer Gemeinschaft names the community itself as what separates."
+    ],
+    "verification": [
+      "Read complete activation/frontmatter/entries/links, manifest/evidence and full Saturn/Cupido axis.",
+      "Visually read complete ABC176 printed354–355 and Witte224 scans, including every owned glyph row and adjacent boundaries.",
+      "Inspected full actual changed lines; scoped baseline metadata/orientation/single adjacent anchor/schema/early route/local file+fragment/whitespace checks passed.",
+      "Skipped the already recorded Moon review and made no further Moon edits.",
+      "Root independently inspected the complete ABC PDF176/printed355 Kronos row and applied/read back the exact within-to-of correction; existing review count and all other source wording retained."
+    ],
+    "unresolved": [],
+    "evidence": [
+      "wiki/activations/saturn-cupido-equals-kronos.md#witte-entry (PDF224)",
+      "wiki/activations/saturn-cupido-equals-kronos.md#abc-entry (ABC PDF176 printed355)",
+      "wiki/axes/saturn-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/a063-066-witte-p224.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mercury-saturn-final-abc-pdf176.png"
+    ]
+  },
+  "decision": "ABC printed355/PDF176 Kronos complete row personally inspected. Trennung einer Gemeinschaft durch den Staat supports separation of a community through the state; final correction and amended 065 record independently reread. All actual changed ABC claims verified; unchanged inherited prose outside certification."
+}

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Mars`
 - Astronomicon formula: `Y/g = U`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Connections and separations, with an unfortunate sex aspect. An active termination of a connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Work in connection with water, want to dissolve a connection, exchange work connections, delicate contact creating, sensitive mediation activity, unclear actions in connections, and establish connections to metaphysics
+Work in connection with water, wanting to dissolve a connection, disappointing work connections, sensitively creating contacts, sensitive mediation activity, unclear actions in connections, and establishing connections to metaphysics
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1015`.
 
 #### Ebertin Entry
 
 Experiencing disharmony when working or living with other people, inability to adapt or adjust oneself to circumstances or conditions. A disharmonious association, association with sick people.
 
+- Historical footnote 63 (printed p. 284): Mars = Neptune/Node can under special circumstances indicate admission to hospital or an institution.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ Action hampered by confusing or muddled connections with others. Anger caused by
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Brings an insistence to your demands to remain isolated from others; angry react
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action affected by confused or disharmonious connections, including active termination.
+- psychology: anger over demands, misunderstandings, and unrealistic expectations is explicit.
+- body/health: Ebertin names association with sick people and, in a separate historical footnote, possible institutional admission; neither supplies an individual diagnosis.
+- social/relationship: disharmony in shared work or life, defending solitude, and sensitive mediation are stated.
+- events/manifestations: ending a connection, work with water, and establishing metaphysical contacts are named.
+- conflicts/notes: Sandbach's intuitive guidance is his spiritual interpretation; rescue dynamics and fighting to preserve a bond are not stated.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes active termination; Ebertin and Sandbach emphasize disharmony or hampered action, while Munkasey describes defending isolation. ABC also preserves sensitive contact-making and mediation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Mars`: protective action, rescue dynamics, and the attempt to fight for a bond, cause, or collective dream. Main caution: hidden hostility: contact can become passive-aggressive, draining, deceptive, or entangled in unclear conflict.
+In Neptune/Node = Mars, uncertainty in connection affects action and the willingness to remain involved. [Witte](#witte-entry) names active termination, [Ebertin](#ebertin-entry) describes disharmony in shared work or life, and [Sandbach](#sandbach-entry) links confused ties with hampered action and anger. [Munkasey](#munkasey-entry) adds active defence of solitude; [ABC](#abc-entry) also includes sensitive contact-making and mediation. The entry therefore spans withdrawal and sensitive engagement, without establishing a rescue role or a duty to preserve the bond.
 
 ## Links
 

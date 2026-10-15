@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Apollon`
 - Astronomicon formula: `V/g = ¥`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Apollon row; actual row and glyph checked.
+
 To be happily joined with many. Fine connections with merchants, scientists.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Expansion of a successful relationship, relations to money trade, relations to law science, joy in relationships experienced, connection with vie! money, connection to business law, and many successful connections
+- Source reference: printed page 215; one-based PDF page 106, Mondknoten/Jupiter section, Apollon row.
+
+Expansion of a successful relationship, connections to financial trading, connections to legal scholarship, experiencing joy in relationships, connection with much money, connection to commercial law, and many successful connections
+
+## Comparative Schema
+
+- core meaning: Numerous fortunate connections and expansion of successful relationships.
+- psychology: Joy experienced in relationships.
+- body/health: No bodily condition is stated.
+- social/relationship: Merchants and scientists in Witte; financial trading and legal scholarship in ABC.
+- events/manifestations: Connections involving substantial money, commercial law and many successful ties.
+- conflicts/notes: The sources describe breadth without setting a hierarchy between many contacts and a one-to-one partnership.
+
+## Contradictions
+
+Both entries are favorable about successful connections. Their commercial, scientific and legal examples are different settings, not a claim that every connection serves all three.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Apollon`: social luck growing through wider circles, trade, learning, and professional networks. It favors beneficial association on a broader scale than simple one-to-one partnership.
+In `Jupiter/Node = Apollon`, [Witte](#witte-entry) describes being happily joined with many people, including merchants and scientists. [ABC](#abc-entry) reinforces the breadth through many successful connections and an expanding relationship, with financial trading, legal scholarship and commercial law as concrete settings. Joy and substantial money are additional possibilities. The common emphasis is the widening of beneficial connections, without diminishing the value of an individual partnership.
 
 ## Links
 

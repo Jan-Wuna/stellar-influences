@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Pluto`
 - Astronomicon formula: `g/Asc = Z`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,17 +39,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 To prepare the way for new acquaintances. Widening of connections. Change through connections. New connections through changes of own’s location.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `105`, PDF p. `51` (entry).
+
 #### ABC Entry
 
-Development of a partner link, development of links to the environment, change of part connection, change of contacts at the site, increase of turnover, change of connections in the environment, and change of location contact
+Unfolding a partner connection, developing connections to the surroundings, changing a partner connection, changes in local contacts, growing relations with the surroundings, transformation of connections in the surroundings, and changing local contacts
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `302`, PDF p. `304`, entry code `1092`.
 
 #### Ebertin Entry
 
@@ -55,14 +63,18 @@ The misfortune of having to live or to work together with others through an act 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source reference: PDF p. `120` (entry; chapter starts on PDF p. `118`).
+
 #### Sandbach Entry
 
 To feel an intense identification with the past, and the need to look deeply at that attachment so that you may come to a true understanding of it. The past does not allow you to overlook or avoid it — it must be dealt with before you can more on, and you have an obsessive, overpowering need to move on. To be potently impacted by how others see you, either for better or worse.
 
+The wording 'before you can more on' appears in Sandbach's actual PDF p. 120 and is retained without silently supplying another word.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356`, PDF p. `357` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Changes in the fabric of society due to your support of groups and friends with 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: new or changing acquaintances and local ties, with powerful or compulsory associations among the examples.
+- psychology: intense identification with the past and sensitivity to how others see one are explicit in Sandbach.
+- body/health: no specific bodily condition is supplied.
+- social/relationship: Ebertin describes compelled cohabitation or work; Munkasey adds powerful allies and retaliation noticed from associates.
+- events/manifestations: changes of location, widening contacts and social change through group support are named.
+- conflicts/notes: the passages do not establish magnetic presence or a universal wish to dominate.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize new or changing ties. Ebertin gives compulsory associations, while Sandbach and Munkasey add different forms of intensity; change is not uniformly chosen or harmful.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Pluto`: magnetic presence, consequential bonds, and the ability to change through intense personal contact. Main caution: entanglement: selfhood can become overdefined by control struggles, compulsive ties, or the need to dominate or survive within the immediate environment.
+Node/Asc = Pluto concerns connections that change one's circumstances or develop through changed surroundings. [Witte](#witte-entry) names new acquaintances and relocation; [ABC](#abc-entry) adds evolving partner and local ties. [Ebertin](#ebertin-entry) gives the particular difficulty of compelled living or work associations. [Sandbach](#sandbach-entry) emphasizes attachment to the past and the impact of others' views (PDF p. 120), while [Munkasey](#munkasey-entry) includes powerful allies and retaliation from associates. These qualify the change theme without establishing a universal struggle for dominance.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Neptune Hades](../triads/mars-neptune-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ Cheated out of earnings. Unusual death by poison gasses. Murder by drowning or t
 
 #### ABC Entry
 
-Work with dirty water, deficient work for the future, dangerous work in the air or in the water, dangerous will weakness, criminal action in the air, insecurity due to work shortage, dangerous work in metaphysics Development of work criminality, and dangerous work developments
+Work with dirty water, hardship-laden work for the future, dangerous work in the air or in water, dangerous weakness of will, criminal actions in the air, uncertainty due to lack of work, and hidden activities in metaphysics.
+
+- Source reference: printed p. 311, PDF p. 154, Neptune row. The row ends with `verborgene Aktivitäten in der Metaphysik`; `Entwicklung der Arbeits-Kriminalität` begins the following Pluto row and is retained there.
+
+## Comparative Schema
+
+- core meaning: Difficult work involves uncertainty, deprivation or concealed danger.
+- psychology: Weakness of will and uncertainty through work shortage are ABC themes.
+- body/health: Witte's poison, gas and drowning deaths are historical source claims, not predicted outcomes.
+- social/relationship: Being cheated out of earnings is explicit.
+- events/manifestations: Dirty water, dangerous air/water work and hidden metaphysical activity are retained.
+- conflicts/notes: The Pluto development phrases have been removed from this row after scan verification; future work is hardship-laden, not merely deficient.
+
+## Contradictions
+
+Witte emphasizes lost earnings and fatal danger; ABC also includes specific work settings and uncertainty. The broader settings do not entail those severe outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Neptune`: earnings slipping away, danger from concealed enemies, and damaged action operating through poison, drowning, gas, or betrayal rather than open force.
+Neptune specifies the Mars/Hades axis through uncertain or deprived work and concealed danger. Being cheated out of earnings in [Witte](#witte-entry) connects with work shortage and hardship in [ABC](#abc-entry). ABC also locates activity in dirty water, air, future work and metaphysics. Witte's fatal examples remain explicit source claims; neither these settings nor uncertainty establish a particular dangerous event or the presence of a concealed enemy.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 311, PDF p. 154, Neptune glyph paragraph.
 
 ## Links
 

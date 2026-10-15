@@ -11,6 +11,8 @@ normalized_axis: Mercury/Pluto
 factor_a: Mercury
 factor_b: Pluto
 related_activations:
+  - Mercury/Pluto = Mercury
+  - Mercury/Pluto = Pluto
   - Mercury/Pluto = Admetos
   - Mercury/Pluto = Apollon
   - Mercury/Pluto = Asc
@@ -73,13 +75,14 @@ updated_at: 2026-06-20
 - Axis: `Mercury/Pluto`
 - Astronomicon axis: `T/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/PLUTO`
-- Source page: `171`
+- Source heading: `MERCURY + PLUTO`
+- PDF page: `165`
 
 #### Pair Summary
 
@@ -87,11 +90,19 @@ The function of the nerves. External and internal motion. The development of the
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `252`; PDF page: `125` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Development of the Youth, Developing thinking, conversations about evolution, media development, Opinion changes, Opinion development, Language development, Changing thinking, Growing traffic, and word exchange
+German pair summary (transcribed from printed page `252`; PDF page `125`):
+
+> Entwicklung der Jugend, Denken entwickeln, Gespräche über Evolution, Medien-Entwicklung, Meinungs-Änderungen, Meinungs-Entfaltung, Sprach-Entwicklung, Veränderungen im Denken, wachsender Verkehr, Wort-Wechsel
+
+Editorial translation from the German passage: Development of youth, developing thinking, conversations about evolution, media development, changes of opinion, unfolding of opinion, language development, changes in thinking, increasing traffic, exchange of words.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `163`; PDF page: `165` (formation and pair prose/boundary checked against scan).
 
 #### Principle
 
@@ -103,7 +114,7 @@ The art of persuasion, suggestion.
 
 #### Biological Correspondence
 
-Metabolism of the nervous system, fonnation of new nerve substance. Nervous irritation.
+Metabolism of the nervous system, formation of new nerve substance. Nervous irritation.
 
 #### Sociological Correspondence
 
@@ -111,13 +122,13 @@ A convincing speaker, the power to influence the public or the masses, a critic,
 
 #### Probable Manifestations
 
-+ Success as a speaker or writer (mostly in specialized fields), the attainment of public recognition. - Tendency to overtax one's strength, disturbances of the nervous system through excessive zeal or eagerness. Mercury/Pluto 5/f
++ Success as a speaker or writer (mostly in specialized fields), the attainment of public recognition. - Tendency to overtax one's strength, disturbances of the nervous system through excessive zeal or eagerness.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
 #### Falis Entry
 
-Mystery writers. Sleuths. Whodunnit? Crime writers. Tunnel vision. Fixation. Get ting stuck on a particular idea or concept. Obsessive thoughts. Secretive. Probing. Investigators. Researchers. Detectives. Paranoid. Deeply suspicious mind. Con spiracy theorists. Attempting to uncover plots where none may exist. Psychopath. Deranged. Powerful words and language - for better or worse. The power of per suasion. Withholding information to gain power. Using information to gain power over others. Keeping silent. Concealing your thoughts. The need for privacy in communication. Secret languages. Coded languages. Occult knowledge. The ferret. Healing words. Catharsis through language. Getting to the bottom of things. Speaking in absolutes. The dirty mind. Smutty. Sex on the brain. Thinking the worst of people. Trying to uncover everyone's deep dark secrets. Mentally turning some thing innocent into something else entirely. Deft. Subtle. Penetrating. Relentless. Passionate communication. Overwhelming people with words. Controlling people with words. Abusive language. Mind control. Thought control. Mind manipulation. Uncovering layers of thought. Plunging deeper and deeper into an idea or concept. Inability to gain distance from your own ideas. Lack of objectivity. Pushing your ideas on other people. Inability to consider another viewpoint. Impressing your opinions on others through sheer passion and conviction, not logic. Deeply healing conversations. The ability to cut to the core of an issue. Psychother apists. Cutting through the crap. A willingness to broach taboo subjects. A will ingness to bring unpopular topics out for discussion. A willingness to take a look at the problems that society would rather sweep under the rug. The need to purge dark thoughts through writing or conversation. Writing about the underworld. Looking to get to the root of problems. Looking to solve a mystery from the bottom up. Needing a mystery to unravel. Finding ways to rebirth the mind. Take an idea and transforming it - for better or worse. The ability to fully, fundamentally, and to tally, change your mind.
+Mystery writers. Sleuths. Whodunnit? Crime writers. Tunnel vision. Fixation. Getting stuck on a particular idea or concept. Obsessive thoughts. Secretive. Probing. Investigators. Researchers. Detectives. Paranoid. Deeply suspicious mind. Conspiracy theorists. Attempting to uncover plots where none may exist. Psychopath. Deranged. Powerful words and language - for better or worse. The power of persuasion. Withholding information to gain power. Using information to gain power over others. Keeping silent. Concealing your thoughts. The need for privacy in communication. Secret languages. Coded languages. Occult knowledge. The ferret. Healing words. Catharsis through language. Getting to the bottom of things. Speaking in absolutes. The dirty mind. Smutty. Sex on the brain. Thinking the worst of people. Trying to uncover everyone's deep dark secrets. Mentally turning something innocent into something else entirely. Deft. Subtle. Penetrating. Relentless. Passionate communication. Overwhelming people with words. Controlling people with words. Abusive language. Mind control. Thought control. Mind manipulation. Uncovering layers of thought. Plunging deeper and deeper into an idea or concept. Inability to gain distance from your own ideas. Lack of objectivity. Pushing your ideas on other people. Inability to consider another viewpoint. Impressing your opinions on others through sheer passion and conviction, not logic. Deeply healing conversations. The ability to cut to the core of an issue. Psychotherapists. Cutting through the crap. A willingness to broach taboo subjects. A willingness to bring unpopular topics out for discussion. A willingness to take a look at the problems that society would rather sweep under the rug. The need to purge dark thoughts through writing or conversation. Writing about the underworld. Looking to get to the root of problems. Looking to solve a mystery from the bottom up. Needing a mystery to unravel. Finding ways to rebirth the mind. Take an idea and transforming it - for better or worse. The ability to fully, fundamentally, and totally, change your mind.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -183,14 +194,17 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: changing thought and exerting influence through penetrating inquiry or persuasive language ([Pair Summary](#pair-summary), [Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: keen observation and willingness to examine motives range into fixation, suspicion, impatience, and extreme conviction ([Falis](#falis-entry), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
+- body/health: Ebertin names nervous metabolism and irritation; Munkasey lists glandular, toxic, and degenerative conditions. These are attributed medical correspondences, not clinical findings ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: persuasive speech, intimate discussion, and loyalty coexist in the entries with secrecy, verbal coercion, and attempts to control a partner ([Hand](#pair-delineation), [Munkasey](#in-your-relationships)).
+- events/manifestations: research, specialized writing, criticism, investigation, intelligence communications, and the disclosure or withholding of information are named ([Probable Manifestations](#probable-manifestations), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: Developmental language and coercive themes remain distinct emphases. Historical psychiatric labels and judgments about sexuality are attributed source claims.
 
 ## Related Activations
+
+- [Mercury/Pluto = Mercury](../activations/mercury-pluto-equals-mercury.md)
+- [Mercury/Pluto = Pluto](../activations/mercury-pluto-equals-pluto.md)
 
 - [Mercury/Pluto = Admetos](../activations/mercury-pluto-equals-admetos.md)
 - [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md)
@@ -216,15 +230,16 @@ Pituitary or endocrine glandular imbalances are highlighted; breakdown of body t
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Mental development, insight, and powerful expression receive different emphases from secrecy and domination. The entries support a range rather than one uniformly beneficial or destructive outcome.
+- Falis's psychiatric labels and Munkasey's placement of `bisexual sharing` in an Anti list are source judgments, not diagnoses or grounds for treating sexual orientation as a pathology.
+- ABC's development-of-youth clause and Ebertin's `formation` are repaired from actual scans. Falis's printed line-end hyphens are joined in ordinary prose; Sandbach PDF50 actually prints `miscom munication` and `de sire`, which are retained as source artifacts.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto` is the axis of penetrating thought, persuasive intensity, research, and transformative communication. It combines language, analysis, and nervous alertness with secrecy, depth, pressure, compulsion, and the power to uncover what is hidden.
-- Chart expression: investigation, psychological insight, strategic speech, powerful writing, relentless questioning, and the ability to influence others through concentrated thought or language. Liabilities: obsession, suspicion, manipulation, verbal coercion, mental power struggles, and communication so intense or secretive that it distorts trust and objectivity.
+`Mercury/Pluto` joins the transformation of thought with the power of thought to affect others. Inquiry can penetrate beneath an accepted explanation, uncover motives, or change an outlook fundamentally; speech and writing can then carry unusual persuasive force. Research, criticism, investigation, specialized writing, and conversations that confront difficult subjects are recurring expressions. The developmental meaning includes changing one's own understanding, not only changing someone else's mind ([Pair Summary](#pair-summary), [Udo Rudolph](#abc-pair-summary), [Ebertin](#principle), [Falis](#falis-entry), [Hand](#pair-delineation)).
+
+The same intensity can harden into a fixed idea, suspicious interpretation, withholding of information, or a struggle to control what others think. Sandbach makes the limit explicit: communication can become so intense that it breaks down. Munkasey's security and intelligence themes preserve a more institutional expression of secrecy, while the other entries also allow insight and constructive change. These are alternatives within the pair's range, not proof of criminality, a psychiatric condition, or a particular relationship outcome ([Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Munkasey](#in-politics-or-business), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [Jupiter MC Zeus](../triads/jupiter-mc-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To encourage cheerfulness. To promote pleasure. Creative attitude with success o
 
 #### ABC Entry
 
-Glitteringly flown soul, glimmering fiery soul, I begin successfully, I create joy, inner joy fire, my right to joy, my goal is money, my efforts for money, my successful bounties, and my legal activity
+- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).
+
+Happily guided soul, happy fiery soul, I begin successfully, I create joy, inner fire of joy, my right to joy, my goal is money, my efforts for money, my successful creations, my legal activity.
+
+## Comparative Schema
+
+- **Core meaning:** Creative initiative linked with enjoyment and success.
+- **Psychology:** Cheerfulness and the desire to create joy.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Encouraging pleasure and cheerfulness in others.
+- **Events/manifestations:** Successful beginnings and efforts toward money.
+- **Conflicts/notes:** ABC names happiness and successful creations; legal activity (Rechts-Tätigkeit) is a separate clause and no success is guaranteed.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 88 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC names happiness and successful creations; legal activity (Rechts-Tätigkeit) is a separate clause and no success is guaranteed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Jupiter` brightens the axis with success, pleasure, and encouraging creative confidence.
-- Chart expression: fortunate enterprise, cheerful productivity, and a self-directed work drive that tends to promote enjoyment, growth, and successful accomplishment.
+Jupiter specifies `MC/Zeus` through a creative attitude associated with success, pleasure and the encouragement of cheerfulness in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds successful beginnings, creating joy and efforts toward money. This joins productive initiative with enjoyment and reward, without guaranteeing success or financial gain.
 
 ## Links
 

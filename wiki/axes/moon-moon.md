@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Moon/Moon`
 - Astronomicon axis: `R/R`
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entry](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Female persons. The people. The public. The hour. Changeable things. Function of the brain, the emotional state, the glands, the secretions and liquids of the body.
+
+## Comparative Schema
+
+- core meaning: the source groups women, the people or public, an hour, and changeable things under the repeated Moon identity.
+- psychology: the emotional state and brain function are named, but the summary gives no developed character profile or positive/adverse division.
+- body/health: glands, secretions, and bodily liquids are Witte's historical correspondences; the entry names no disease or diagnosis.
+- social/relationship: female persons and the public are explicit referents; no specific family or partnership dynamic is stated.
+- events/manifestations: the hour and changeable things supply a situational reference, without selecting a particular event.
+- conflicts/notes: this is a single-source repeated-factor entry. It does not establish a second factor's contribution or support generic claims about integration, rigidity, or overreach.
 
 ## Related Activations
 
@@ -78,11 +89,17 @@ Female persons. The people. The public. The hour. Changeable things. Function of
 - [Moon/Moon = Vulcanus](../activations/moon-moon-equals-vulcanus.md)
 - [Moon/Moon = Poseidon](../activations/moon-moon-equals-poseidon.md)
 
+## Contradictions
+
+- Only one short pair summary is present, so there is no cross-source disagreement to assess. Its several referents are not evidence that every public, emotional, or bodily topic occurs together.
+- The evidence map supplies a Witte PDF chapter start at 119, not an exact printed pair-summary page or visual verification. The summary gives no basis for a universal benefit, liability, or event prediction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon` concentrates pure lunar life: feeling, fluctuation, the public mood, female presence, bodily rhythms, and the mutable psychic atmosphere of an hour or a people. It describes emotional receptivity in its most undiluted form, so later activations show how instinctive life becomes protected, socialized, burdened, fortunate, forceful, or publicly expressed.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Moon/Moon` repeats a single factor, and its short source summary supplies a set of lunar referents rather than an interaction between two different factors. The emotional state, the people or public, female persons in the source's historical terminology, and changeable things connect this entry to felt and collective life. The hour is also an explicit referent, while glands, secretions, and bodily liquids remain attributed historical bodily correspondences ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+
+The summary does not explain a constructive or adverse character pattern, a relationship outcome, or a specific event. Those meanings cannot be supplied by intensifying the Moon in general: any formula such as `Moon/Moon = Jupiter` requires the evidence of that exact activation page.
 
 ## Links
 

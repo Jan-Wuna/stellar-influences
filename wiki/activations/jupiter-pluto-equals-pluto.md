@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Pluto`
 - Astronomicon formula: `V/Z = Z`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: printed source page 270, Jupiter/Pluto With Itself, Pluto paragraph; retained printed-page locator, not a newly verified PDF page.
+
 Seeking a legal redress for wrongs imposed; an understanding of the power of the forces of destruction and how to use or subjugate with these; increasing needs to control and eliminate forces of great destructive powers.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Redress for wrongs and understanding or controlling destructive power.
+- psychology: An increasing need to control or eliminate destructive forces.
+- body/health: No bodily condition is stated.
+- social/relationship: Legal redress for imposed wrongs supplies the interpersonal/legal context.
+- events/manifestations: Attempts at redress, control or subjugation of powerful destructive forces.
+- conflicts/notes: Single-source repeated-factor orientation; the entry supplies motives and broad acts, not a legal procedure or a method of destruction.
 
 ## Contradictions
 
-- None recorded yet.
+The passage includes using destructive forces as well as seeking to control or eliminate them. The source does not explain how these possibilities relate, so no uniform benevolent purpose is assumed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Pluto`: Seeking a legal redress for wrongs imposed; an understanding of the power of the forces of destruction and how to use or subjugate with these; increasing needs to control and eliminate forces of great destructive powers.
+With Pluto repeated in `Jupiter/Pluto = Pluto`, the [Munkasey entry](#munkasey-entry) focuses on responding to wrongs and dealing with destructive power. Legal redress is one route; understanding, using, subjugating or eliminating powerful forces are other stated possibilities. The tension is between controlling harm and using the very forces one recognizes as destructive. The source does not specify how those forces are used or controlled.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Pluto](../factors/pluto.md)
 - [Pluto](../factors/pluto.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

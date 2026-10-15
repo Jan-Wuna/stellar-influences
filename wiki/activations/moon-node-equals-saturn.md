@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Saturn`
 - Astronomicon formula: `R/g = W`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 Annulment of union with women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `175`, PDF p. `86` (entry).
+
 #### ABC Entry
 
-Tasks in relation to woman, disturbance Gef'Lihls connection, disturbance relation to mother, connected with older woman, problematic connection to woman, separation of connection to woman, and separation hour of a connection
+Tasks in a relationship with a woman, a disturbed emotional connection, a disturbed relationship with the mother, connected with an older woman, a problematic connection with a woman, separation of a connection with a woman, and the hour of separation in a connection
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `137`, entry `0428`.
 
 #### Ebertin Entry
 
 Inhibitions in teamwork or in living with women. Suffering, disadvantages or losses through associations. Separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `38` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Older and wiser people who give you sound advice about your life’s direction; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: difficulty, restraint, or separation in association, alongside some enduring ties.
+- psychology: discomfort with vulnerability and sharing feelings requires time and patience in Sandbach.
+- body/health: no bodily or clinical condition is specified.
+- social/relationship: losses through associations, maternal difficulties, older advisers, and lasting bonds are examples.
+- events/manifestations: annulment, separation, frustrated meetings, and parental preparation for trials are named.
+- conflicts/notes: Munkasey's sound advice and lasting ties broaden the range beyond separation; endurance does not define every bond.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize annulment, loss, and separation; Munkasey also includes sound advice and lasting emotional ties. This is a material difference in range rather than evidence that all difficult bonds endure or all lasting bonds end.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Saturn`: dependable attachment, mature community, and bonds that prove themselves under strain. Main caution: heavy belonging: ties can feel burdensome, hesitant, or shaped more by duty than by emotional ease.
+In Moon/Node = Saturn, Saturn specifies the pair through limits and difficulty in making or maintaining emotional connections. [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) emphasize disturbed ties, loss, or separation. [Sandbach](#sandbach-entry) gives an inward expression: discomfort with vulnerability and the time needed to share feelings.
+
+[Munkasey](#munkasey-entry) retains frustration in arranging meetings but also older advisers, parental preparation, and lasting emotional bonds (p. 136). Time and constraint can therefore appear as patient development or as separation; the entries do not establish dependable attachment as the only result.
 
 ## Links
 

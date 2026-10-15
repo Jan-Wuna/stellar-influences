@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Vernal Point MC Cupido](../triads/vernal-point-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ To take part in common endeavors. To participate in general artistic offerings.
 
 Inspired community in public, inspired art in public, inspired public community, shared actions in public life, my public community, and my art in public
 
+## Comparative Schema
+
+- **Core meaning:** Public participation in communal and artistic endeavors.
+- **Psychology:** The entries emphasize participation rather than a distinct psychological trait.
+- **Body/health:** No bodily or medical meaning is supplied.
+- **Social/relationship:** Shared actions and public community are explicit.
+- **Events/manifestations:** Public art and common endeavors are named.
+- **Conflicts/notes:** The word “inspired” in ABC is source wording; it does not itself establish spiritual authority or artistic excellence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Vernal Point` externalizes the axis into participation in common and artistic offerings.
-- Chart expression: public involvement in shared enterprises, general access to artistic life, and identity formed through joining what a community collectively creates or enjoys.
+Vernal Point specifies `MC/Cupido` through taking part in public and shared endeavors. Artistic offerings and public community connect personal participation with collective activity; the evidence establishes involvement, without adding a general theory of identity formation. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 84.)
 
 ## Links
 

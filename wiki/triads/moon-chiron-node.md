@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron Node`
 - Astronomicon triad-set: `R Chiron g`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Node = Moon](../activations/chiron-node-equals-moon.md)
-- [Moon/Chiron = Node](../activations/moon-chiron-equals-node.md)
-- [Moon/Node = Chiron](../activations/moon-node-equals-chiron.md)
+- [Chiron/Node = Moon](../activations/chiron-node-equals-moon.md): base axis [Chiron/Node](../axes/chiron-node.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Node](../activations/moon-chiron-equals-node.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Node](../factors/node.md).
+- [Moon/Node = Chiron](../activations/moon-node-equals-chiron.md): base axis [Moon/Node](../axes/moon-node.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Node = Moon`: John, page `100`
-- `Moon/Chiron = Node`: John, page `32`
-- `Moon/Node = Chiron`: John, page `37`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Node = Moon](../activations/chiron-node-equals-moon.md#sandbach-entry) (PDF chapter-start p. 100; exact entry page unverified); [Moon/Chiron = Node](../activations/moon-chiron-equals-node.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Node = Chiron](../activations/moon-node-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 37; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Node = Moon`: relational healing through feeling, memory, and instinctive guidance. Main caution: becoming emotionally bound to the past instead of using feeling to release it.
-- `Moon/Chiron = Node`: When connecting with others one naturally helps them to get in touch with their feelings and to allow them to flow in a cleansing, healing manner.
-- `Moon/Node = Chiron`: Your energy helps others to be aware of the emotional aspects of their connec tion with others, as well as what they need for their own personal emotional growth. You trigger others to work through their feelings, and often do this with no conscious effort to do so.
+Moon, Chiron and Node form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Node](../axes/chiron-node.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Node](../axes/moon-node.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [Node](../factors/node.md)

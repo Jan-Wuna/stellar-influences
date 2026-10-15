@@ -66,19 +66,36 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+- PDF page: 186.
+
 Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of music. Peace-loving. Expanded harmony. Religiously inclined.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Apollon`
+- Printed pages: `290-291`; PDF page: `144` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Successful arts, pleasure love, harmony proliferation, arts trade, arts and crafts, arts knowledge, love experience, love success, much harmony, beauty success, science of love, and increasing love
+Successful art, love of freedom, spreading harmony, art trade, art and commerce, knowledge of art, experience in love, success in love, much harmony, success through beauty, the science of love, and increasing love.
+
+## Comparative Schema
+
+- core meaning: Love and harmony extending outward through many friendships, artistic knowledge and successful cultural activity ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Peacefulness, faithfulness, love of freedom and an inclination to understand art or love.
+- body/health: Neither pair summary supplies a bodily or medical claim.
+- social/relationship: Friendship and harmony with many coexist with faithfulness, growing affection and experience in love.
+- events/manifestations: Art and music studied as fields of knowledge; successful art, art trade and the spread of harmony.
+- conflicts/notes: Religious inclination belongs specifically to Witte's summary; love of freedom is explicit in Udo. No adversity is specified in these short entries, and successful expression is not guaranteed.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Successful arts, pleasure love, harmony proliferation, arts trade, arts and craf
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon`: friendship.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Apollon` describes affection and harmony spreading through a wider circle. Friendship, peace and faithfulness can accompany contact with many people, while love gains experience and scope. The artistic side is equally specific: knowledge of art and music, successful artistic work and the trade or commercial life surrounding art extend appreciation into a broader field ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+
+Love of freedom adds room for affection to expand; Witte also includes religious inclination. These summaries emphasize peaceful participation and cultivated understanding. They provide no particular adverse outcome or guarantee that success will occur in every artistic or relational setting ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)). Each closing factor requires its own oriented activation.
 
 ## Links
 

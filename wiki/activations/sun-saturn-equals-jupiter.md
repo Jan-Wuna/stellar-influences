@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = Jupiter`
 - Astronomicon formula: `S/W = V`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 To be fortunate in old age. Fortunate through older people. To change the location.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks in a right center, success through personal patience, loss of money of a person, concentration of a person on money, personal financial tasks, personal joy in old age, legal problems of a man, and mature glick of a man
+- Source passage: `Sonne + Saturn`; printed p. `150`; one-based PDF page `74` (oriented row checked against the scan).
+
+Tasks in a legal center, success through personal patience, a person's loss of money, concentration on money, personal financial tasks, personal joy in old age, a man's legal problems, a man's mature good fortune.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Saturn`; printed p. `93`; one-based PDF page `95`; entry code `0247` (oriented row checked against the scan).
 
 Phlegmatic temperament, propensity to corpulence, happiness in solitude. Good fortune of a sick, old or serious person. A fortunate separation from someone.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `15` (exact activator entry checked in the raw PDF).
 
 Enthusiasm for the patient and persistent attainment of goals and for working toward them in a focused and organized manner. One’s enthusiasm is inhibited by a lack of self-confidence. Enthusiasm for finding the deeper spiritual meanings at work in life.
 
@@ -70,22 +80,21 @@ An increased need for an already abundant supply of self-discipline; expands you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Patience, organized effort and disciplined seriousness can coexist with good fortune, especially in old age or through older people. [Witte](#witte-entry) · [ABC](#abc-entry) · [Sandbach](#sandbach-entry)
+- psychology: Enthusiasm may support persistent goals or be inhibited by low confidence; Ebertin adds happiness in solitude and Munkasey a strong moral sense. [Sandbach](#sandbach-entry) · [Ebertin](#ebertin-entry) · [Munkasey](#munkasey-entry)
+- body/health: Ebertin's phlegmatic temperament and propensity to corpulence, and good fortune of a sick or old person, remain historical characterizations rather than diagnoses. [Ebertin](#ebertin-entry)
+- social/relationship: Older people may bring benefits; Ebertin allows a fortunate separation, and Munkasey adds generosity to an otherwise tightfisted disposition. [Witte](#witte-entry) · [Ebertin](#ebertin-entry) · [Munkasey](#munkasey-entry)
+- events/manifestations: Success through patience, financial tasks or losses, legal problems, joy in old age and a change of location are explicit examples. [Witte](#witte-entry) · [ABC](#abc-entry)
+- conflicts/notes: Good fortune is explicitly present, so patience is not a replacement for luck in these sources. Financial loss and inhibited enthusiasm remain alongside the favorable outcomes. [Witte](#witte-entry) · [ABC](#abc-entry) · [Sandbach](#sandbach-entry)
 
 ## Contradictions
 
-- None recorded yet.
+Favorable fortune and enjoyment coexist with financial loss, legal difficulty and inhibited enthusiasm. The entries give no rule selecting one outcome; Ebertin even allows separation itself to be fortunate.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Jupiter`: sober leadership, responsible expansion, and benefits that come from patience rather than luck. Main caution: compensatory ambition: the hunger for recognition can become rigid, moralizing, or overly dependent on status as proof of worth.
+`Sun/Saturn = Jupiter` permits benefit within a serious, disciplined life. Patience and organized pursuit of goals can support success, while older people, old age or solitude may become sources of good fortune or contentment. That favorable range does not erase financial responsibilities, losses or inhibited enthusiasm. Munkasey's generosity and moral seriousness add a social expression, and Ebertin preserves the possibility of a separation that is beneficial. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

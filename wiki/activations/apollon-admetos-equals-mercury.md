@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Apollon/Admetos](../axes/apollon-admetos.md)
 - Triad hub: [Mercury Apollon Admetos](../triads/mercury-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 To express one’s satisfaction. To talk about it satisfaction.
 
+Source reference: PDF p. 306 (one-based), exact entry start, checked on the scan; the awkward second sentence is printed as quoted.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Barriers to trade traffic, success through perseverance in youth, freedom restrictions in youth, grilndliches scientific thinking, grilndliche language Experiencen, Verkehrs Enlargement restrict, and increase of depressive thinking
+Barriers to trade traffic, success through perseverance in youth, freedom restrictions in youth, thorough scientific thinking, thorough language experiences, restriction of traffic expansion, and increase of depressive thinking
+
+Source reference: printed p. 468 (PDF p. 233), exact activation entry. Mercury's row on the scan confirms the scientific-thinking, language-experience, and "Verkehrs-Erweiterung einschränken" phrases, repairing untranslated OCR.
+
+## Comparative Schema
+
+- **Core meaning:** Expressed satisfaction, with the ABC range extending to thorough thinking and constrained exchange. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Psychology:** Scientific thought and increased depressive thinking are named, without a clinical assessment. ([ABC Entry](#abc-entry))
+- **Body/health:** No bodily condition is specified. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Social/relationship:** Language experience, trade traffic, and freedom restrictions in youth are explicit. ([ABC Entry](#abc-entry))
+- **Events/manifestations:** Talking about satisfaction, success through perseverance in youth, and restricted traffic expansion. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Conflicts/notes:** Expressing satisfaction does not establish repetitive thought or resistance to inquiry. ([Witte Entry](#witte-entry))
+
+## Contradictions
+
+The entries do not directly contradict each other. Witte describes expressing satisfaction; the ABC entry addresses the depth and limits of thought, language, and exchange without making all thought contented.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Mercury`: clear expression of contentment and a mind that can articulate why things feel enough. Main caution: repetitive closure: thought and conversation may circle around established satisfaction instead of opening to new inquiry or change.
+Mercury specifies `Apollon/Admetos` through expression, thinking, and exchange. The [Witte entry](#witte-entry) simply describes expressing or talking about satisfaction. The [ABC entry](#abc-entry) broadens that field to thorough scientific and language experience, perseverance in youth, and restrictions on trade, traffic, or freedom. Its depressive-thinking phrase remains another sourced possibility, rather than a reason to infer that contentment closes the mind.
 
 ## Links
 

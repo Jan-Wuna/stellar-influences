@@ -27,16 +27,36 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Sun](../axes/sun-sun.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + SUN`
+- Source locator: PDF p. `100` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
 The father. The master. The boss (male or female). To be superior. Capabilities of the body. Independence. Power of the state. The king. The ruling prince. President. Disposition to leadership. To deal with officials. Official requests, summons. To be in service. One must appear before the authorities. Day of independence. (In the solar cycle: an extraordinary period.)
 
+## Comparative Schema
+
+- core meaning: The person is placed in authority, independence, leadership, or dealings with officials.
+- psychology: Independence and a disposition to leadership are stated; sovereign selfhood is not.
+- body/health: Capabilities of the body are named without a health condition.
+- social/relationship: Father, master, boss of either gender, rulers, officials, and persons in service are different roles.
+- events/manifestations: Official requests, summons, appearing before authorities, and independence are listed.
+- conflicts/notes: Holding authority and answering to it are separate possibilities; the solar-cycle remark remains source text.
+
+## Contradictions
+
+Only Witte is represented; cross-source agreement or disagreement cannot be assessed.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Sun = Kronos`: authority, rank, or a sovereign sense of self.
+In `Sun/Sun = Kronos`, Kronos specifies the repeated Sun pair through the person or body's capabilities in relation to authority and independence. The [Witte entry](#witte-entry) (PDF p. 100) places leadership and the boss alongside service, official requests, and having to appear before authorities. Its range includes both exercising authority and dealing with it; the listed ranks do not establish that the individual necessarily holds one.
 
 ## Links
 
@@ -44,3 +64,4 @@ The father. The master. The boss (male or female). To be superior. Capabilities 
 - [Sun](../factors/sun.md)
 - [Kronos](../factors/kronos.md)
 - [Sun/Sun](../axes/sun-sun.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

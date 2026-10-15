@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Mars`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = U`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Mars Uranus Asc](../triads/mars-uranus-asc.md)
@@ -37,11 +38,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 Surprising deeds of others. To be injured physically by another person.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 116; PDF p. 57.
 
 #### ABC Entry
 
@@ -49,11 +54,15 @@ Work in environmental technology, excitement at the place of work, new work part
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 275; PDF p. 277; entry code `0979`.
+
 #### Ebertin Entry
 
 Vigorous or active intervention in one's environment, inclination to become physically violent. Practical cooperation in the technological or industrial sphere. Suffering threats, injuries or wounds.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Adds a forcefulness to the way you interrupt others and set demands for your nee
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 116; PDF p. 57), [Ebertin](#ebertin-entry) (p. 275, entry 0979), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Forceful, independent action changes the immediate social environment.
+- psychology: Insistence on doing things one's own way can become rebellion against direction.
+- body/health: Witte and Ebertin include injury inflicted by others, threats, and wounds among their historical correspondences.
+- social/relationship: Demands and interruptions may surprise or intimidate others; practical cooperation is another expression.
+- events/manifestations: Technical work, workplace agitation, and vigorous intervention are explicit examples.
+- conflicts/notes: Acting forcefully and suffering another person's force are different roles within the entries.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. The entries distinguish practical cooperation, disruptive self-assertion, and harm received from others; these are alternative manifestations, not one inevitable sequence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Mars`: courageous initiative, technical quickness, and the ability to act decisively in changing conditions. Main caution: volatility: impatience, provocation, or nervous force can trigger conflict, accidents, or broken rapport.
+Mars specifies Uranus/Asc as forceful action in contact with others: doing things independently, interrupting established arrangements, or insisting on one's needs. The same entry also supports practical cooperation in technical work, so independence need not take the form of confrontation. ([ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).) Witte and Ebertin separately include threats or physical injury received from others; that historical claim should remain distinct from the person's own assertiveness. ([Witte](#witte-entry), [Ebertin](#ebertin-entry).)
 
 ## Links
 

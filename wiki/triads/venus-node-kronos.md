@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Node Kronos`
 - Astronomicon triad-set: `Q g ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Kronos = Venus](../activations/node-kronos-equals-venus.md)
-- [Venus/Kronos = Node](../activations/venus-kronos-equals-node.md)
-- [Venus/Node = Kronos](../activations/venus-node-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Kronos = Venus](../activations/node-kronos-equals-venus.md) | [Node/Kronos](../axes/node-kronos.md) | [Venus](../factors/venus.md) |
+| [Venus/Kronos = Node](../activations/venus-kronos-equals-node.md) | [Venus/Kronos](../axes/venus-kronos.md) | [Node](../factors/node.md) |
+| [Venus/Node = Kronos](../activations/venus-node-equals-kronos.md) | [Venus/Node](../axes/venus-node.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `Node/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `230`
-- `Venus/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
-- `Venus/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `288`
-- `Venus/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `211`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Kronos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-venus.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-venus.md#abc-entry), printed p. `230`.
+- `Venus/Kronos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-kronos-equals-node.md#witte-entry), one-based PDF entry-start p. `185`.
+- `Venus/Kronos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-kronos-equals-node.md#abc-entry), printed p. `288`.
+- `Venus/Node = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-node-equals-kronos.md#witte-entry), one-based PDF entry-start p. `142`.
+- `Venus/Node = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-node-equals-kronos.md#abc-entry), printed p. `211`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Venus`: Acquaintance with the future husband. Harmonious connections with the authorities.
-- `Venus/Kronos = Node`: connections with a benefactor or a sponsor.
-- `Venus/Node = Kronos`: civil wedding.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

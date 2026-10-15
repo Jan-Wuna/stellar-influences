@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Cupido Admetos`
 - Astronomicon triad-set: `S ¡ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Admetos = Sun](../activations/cupido-admetos-equals-sun.md)
-- [Sun/Admetos = Cupido](../activations/sun-admetos-equals-cupido.md)
-- [Sun/Cupido = Admetos](../activations/sun-cupido-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Admetos = Sun](../activations/cupido-admetos-equals-sun.md) | [Cupido/Admetos](../axes/cupido-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Cupido](../activations/sun-admetos-equals-cupido.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Cupido](../factors/cupido.md) |
+| [Sun/Cupido = Admetos](../activations/sun-cupido-equals-admetos.md) | [Sun/Cupido](../axes/sun-cupido.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Cupido/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `432`
-- `Sun/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `169`
-- `Sun/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
-- `Sun/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `159`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `271`.
+- `Cupido/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-admetos-equals-sun.md#abc-entry), printed p. `432`.
+- `Sun/Admetos = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-cupido.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-cupido.md#abc-entry), printed p. `169`.
+- `Sun/Cupido = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-cupido-equals-admetos.md#witte-entry), one-based PDF entry-start p. `111`.
+- `Sun/Cupido = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-cupido-equals-admetos.md#abc-entry), printed p. `159`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Sun`: directly experiencing the dissolution of family, partnership, or community and being personally involved in that end.
-- `Sun/Admetos = Cupido`: This formula emphasizes to refuse physical connections with other people and the litde exclusive community.
-- `Sun/Cupido = Admetos`: This formula emphasizes the unmarried man and bachelor.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

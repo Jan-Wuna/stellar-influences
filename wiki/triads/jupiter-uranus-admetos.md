@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Uranus Admetos`
 - Astronomicon triad-set: `V X ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Admetos = Uranus](../activations/jupiter-admetos-equals-uranus.md)
-- [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md)
-- [Uranus/Admetos = Jupiter](../activations/uranus-admetos-equals-jupiter.md)
+- [Jupiter/Admetos = Uranus](../activations/jupiter-admetos-equals-uranus.md): base axis [Jupiter/Admetos](../axes/jupiter-admetos.md); activator [Uranus](../factors/uranus.md).
+- [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md): base axis [Jupiter/Uranus](../axes/jupiter-uranus.md); activator [Admetos](../factors/admetos.md).
+- [Uranus/Admetos = Jupiter](../activations/uranus-admetos-equals-jupiter.md): base axis [Uranus/Admetos](../axes/uranus-admetos.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
-- `Jupiter/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `343`
-- `Jupiter/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `327`
-- `Uranus/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
-- `Uranus/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `384`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Admetos = Uranus](../activations/jupiter-admetos-equals-uranus.md#witte-entry) (PDF entry-start p. 216); [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md#witte-entry) (PDF entry-start p. 208); [Uranus/Admetos = Jupiter](../activations/uranus-admetos-equals-jupiter.md#witte-entry) (PDF entry-start p. 241).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Admetos = Uranus](../activations/jupiter-admetos-equals-uranus.md#abc-entry) (printed p. 343); [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md#abc-entry) (printed p. 327); [Uranus/Admetos = Jupiter](../activations/uranus-admetos-equals-jupiter.md#abc-entry) (printed p. 384).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Uranus`: sudden disturbance of rest, grave property damage, and abrupt forced spending.
-- `Jupiter/Uranus = Admetos`: sudden luck for a few, within a small or exclusive group, corporation, or circle.
+Jupiter, Uranus and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [ABC Entry for Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md#abc-entry) has a source-checked rotational-rhythm phrase without a specified process or machine. This literal scope limit remains on the linked activation; the former law and happiness transcription defects are repaired.
 
 ## Links
 
+- [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Uranus/Admetos](../axes/uranus-admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Admetos](../factors/admetos.md)

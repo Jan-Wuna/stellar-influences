@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/Pluto](../axes/chiron-pluto.md)
 - Triad hub: [Saturn Chiron Pluto](../triads/saturn-chiron-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 99 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
 A fear of letting in messages from beyond, and of acting on them. A feeling that one is inadequate to do this, or does not know how to do it. But a sense that one MUST do it, and through patience and focus one WILL eventually do it.
 
+## Comparative Schema
+
+- core meaning: Fear and inadequacy concerning spiritual messages, with patient persistence toward responding.
+- psychology: Fear, uncertainty about ability, obligation, patience, and focus.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: No particular interpersonal setting is supplied.
+- events/manifestations: Eventually receiving or acting on messages in the source's account.
+- conflicts/notes: The emphatic promised eventual response belongs to the source's spiritual framing.
+
+## Contradictions
+
+Fear and a sense of necessity coexist; the entry's confidence in eventual response is not a calculated timing rule.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto = Saturn`: slow transformative healing and a deep test of courage around spiritual responsibility. Main caution: allowing fear or inadequacy to delay a change that insists on happening.
+Saturn specifies Chiron/Pluto through difficulty receiving or acting on what the [Sandbach entry](#sandbach-entry) calls messages from beyond. Fear and inadequacy coexist with a sense that responding is necessary. The source gives patience and focus an eventual resolving role, which remains its spiritual interpretation rather than a timetable or general assurance about an external outcome.
 
 ## Links
 

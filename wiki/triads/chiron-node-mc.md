@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Node MC`
 - Astronomicon triad-set: `Chiron g MC`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/MC = Node](../activations/chiron-mc-equals-node.md)
-- [Chiron/Node = MC](../activations/chiron-node-equals-mc.md)
-- [Node/MC = Chiron](../activations/node-mc-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/MC = Node](../activations/chiron-mc-equals-node.md) | [Chiron/MC](../axes/chiron-mc.md) | [Node](../factors/node.md) |
+| [Chiron/Node = MC](../activations/chiron-node-equals-mc.md) | [Chiron/Node](../axes/chiron-node.md) | [MC](../factors/mc.md) |
+| [Node/MC = Chiron](../activations/node-mc-equals-chiron.md) | [Node/MC](../axes/node-mc.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/MC = Node`: John, page `102`
-- `Chiron/Node = MC`: John, page `100`
-- `Node/MC = Chiron`: John, page `120`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/MC = Node` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-node.md#sandbach-entry) | retained chapter-start one-based PDF p. 102; exact formula page not established |
+| `Chiron/Node = MC` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-node-equals-mc.md#sandbach-entry) | retained chapter-start one-based PDF p. 100; exact formula page not established |
+| `Node/MC = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/node-mc-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 120; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Node`: relationally discovered vocation and to partnerships that either empower purpose or replay disempowering patterns. Main caution: choosing connections that keep old authority wounds in place.
-- `Chiron/Node = MC`: vocation through relational healing, guidance, and helping people reconnect to deeper belonging. Main caution: trying to fulfill purpose without doing the past-clearing that purpose requires.
-- `Node/MC = Chiron`: One’s vibration helps others to be more connected to spiritual energies, and to find true security, as well as let go of old sources of security that no longer serve per sonal growth.
+Use this hub to choose the exact orientation for the unordered set `Chiron Node MC`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

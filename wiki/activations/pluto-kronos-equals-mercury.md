@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Mercury Pluto Kronos](../triads/mercury-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Thoughts, news, talks about great changes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special development in youth, developments in youth in the state, language about the development of a hierarchy, news about major changes, self determined development in traffic, state traffic development, and important thought development
+Editorial translation (checked against the scan): Special development in youth, developments of young people in the state, conversations about the development of a hierarchy, news of great changes, self-confident development in traffic, state traffic development, important thought development.
+
+## Comparative Schema
+
+- core meaning: Thought, news, and conversation about great changes.
+- psychology: Important development of thought and self-confidence in traffic.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Youth, hierarchy, and the state are ABC settings.
+- events/manifestations: News of major change, conversations about hierarchy, and state traffic development.
+- conflicts/notes: The entries do not restrict the subject to advancement or tested ability.
+
+## Contradictions
+
+Witte names the communicative theme; ABC gives youth, hierarchy, and transport settings without an incompatible claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Mercury`: thoughts or discussions about advancement, rank or tested ability.
-- Practical expression: special development in youth, developments in youth in the state, language about the development of a hierarchy, news about major changes, and self determined development in traffic.
+Mercury specifies Pluto/Kronos through thinking, reporting, and talking about great changes. The [Witte entry](#witte-entry) gives that theme directly; the [ABC entry](#abc-entry) locates it in youth development, discussions of hierarchy, and news of major change. Important thought development and traffic or transport development extend the range beyond conversation about personal status.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Kronos](../triads/saturn-uranus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Losses of the father or chief. Intervention by the power of the state. Separatio
 
 #### ABC Entry
 
-Serious unrest in the state, major technical tasks, sudden shocks in the state, surprising shocks of self governingness, surprising separation from the boss, priority refonn tasks, and important painful event
+Serious unrest in the state, major technical tasks, sudden disturbances in the state, surprising disturbances of independence, surprising separation from the chief, priority reform tasks, and an important painful event.
+
+## Comparative Schema
+
+- core meaning: Sudden disruption involving authority, independence or the state.
+- psychology: Unrest under public or supervisory pressure.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Separation from a chief; Witte also names the father.
+- events/manifestations: State intervention, reform tasks and major technical work.
+- conflicts/notes: Authority can cause separation or itself be the subject of loss.
+
+## Contradictions
+
+The entries locate disruption in authority and state affairs; they do not specify one direction of causation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Uranus = Kronos`: losses of the father or chief, intervention by the power of the state, separation through the state.
-- Practical expression: serious unrest in the state, major technical tasks, sudden shocks in the state, surprising shocks of self governingness, and surprising separation from the boss.
+Kronos specifies Saturn/Uranus through authority: state intervention may impose separation, while a chief or father may be lost or left behind. Major technical and reform tasks place this strain within public responsibility. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) and [ABC Entry](#abc-entry) (printed p. 349; PDF p. 173) support disruption of established authority and independence, rather than a general promise of leadership.
 
 ## Links
 

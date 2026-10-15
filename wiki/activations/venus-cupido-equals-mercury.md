@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Mercury`
 - Astronomicon formula: `Q/¡ = T`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 To meet the family of the bride. Thoughts about happiness in married life. Acquaintances through the family.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Thoughts of a art, shared youth love, love community in the youth, news of a art, beauty of the art in conversation, and talk about common peace
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+Thoughts of an art community, shared youthful love, a community of artistic conversation, a community of love in youth, news from an art community, the beauty of art in conversation, and speaking about shared peace.
+
+## Comparative Schema
+
+- Core meaning: Shared harmony expressed through thought and conversation.
+- Psychology: Thoughts of marital happiness and art.
+- Body/health: No specific health claim.
+- Social/relationship: Family introductions; shared youthful love.
+- Events/manifestations: Art news and discussion of common peace.
+- Conflicts/notes: Meeting a bride's family is an explicit example, not a required event.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Meeting a bride's family is an explicit example, not a required event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Mercury`: to meet the family of the bride.
-- Practical expression: thoughts of a art, shared youth love, love community in the youth, news of a art, and beauty of the art in conversation.
+Mercury specifies Venus/Cupido through conversation and acquaintance that give shared affection a voice. Thoughts of marital happiness and meeting family connect intimate ties with an existing circle. ABC adds artistic conversation and news from an art community, extending the exchange beyond marriage. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

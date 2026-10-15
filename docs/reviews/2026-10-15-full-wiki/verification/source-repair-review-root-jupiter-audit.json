@@ -1,0 +1,16 @@
+{
+  "scope": "Twenty Jupiter/Admetos exact source deltas; remaining103 ceded to057059",
+  "fully_read_source_pairs": 20,
+  "fully_read_unique_owner_records": 20,
+  "source_hash_checks": 40,
+  "strict_bank_records": 20,
+  "current_hash_or_schema_errors": [],
+  "primary_gate_additional_raw_check": ["wiki/activations/jupiter-admetos-equals-hades.md"],
+  "source_locations": ["ABC PDF170 printed342-343", "Witte PDF216 printed220"],
+  "specific_unresolved_source_wording": ["Witte literally prints viscous circumstances on Hades; retained and qualified, intended replacement unknown"],
+  "raw_proofs": [
+    "source-repair-review-root-jupiter-admetos-abc-pdf170.png",
+    "source-repair-review-root-jupiter-admetos-witte-pdf216.png",
+    "source-repair-review-root-jupiter-admetos-hades-detail.png"
+  ]
+}

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = MC`
 - Astronomicon formula: `S/R = MC`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, MC entry under Sun + Moon.
+
 Harmony of body, mind and soul. Feelings of friendship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+Source locator: printed page 138 / PDF page 68, MC glyph row under Sun + Moon.
 
 The man's ensouled woman, the ensouled hour of the day, the woman's ensouled man, the feelings of my man, my bodily feeling, my personal feelings, the people of my nation, the mother of my man, the day of my woman, and day hour minute
 
@@ -51,11 +57,15 @@ The man's ensouled woman, the ensouled hour of the day, the woman's ensouled man
 
 #### Ebertin Entry
 
+Source locator: printed page 79, entry 0193.
+
 A harmonious soul life, individual attitude to friendship and marriage. The consummation of marriage.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 8, Midheaven entry under Sun/Moon.
 
 Dedication, body and soul, to one’s spiritual path and/or to one’s career. One wants to feel that one is a meaningful and viable part of society. The desire to master something and to elevate oneself in the world, and/or the desire to grow spiritu ally and to attain to higher levels of consciousness.
 
@@ -70,22 +80,21 @@ Choosing deliberate paths for personal development; growing or developing thru a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal harmony expressed through a deliberately chosen direction in life.
+- psychology: Perspective on one's feelings, development and attainments; dedication to a meaningful path.
+- body/health: Harmony of body, mind and soul and personal bodily feeling; no medical outcome is specified.
+- social/relationship: Friendship and marriage, family or public associations, and participation in society.
+- events/manifestations: Career or spiritual dedication, mastery and personal development; Ebertin includes consummation of marriage.
+- conflicts/notes: Inner harmony and purposeful development are different emphases; the examples do not establish a required public role.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize harmony and personal bonds, while Sandbach and Munkasey emphasize chosen development and direction. These can coexist; no direct conflict is stated in the entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = MC`: relationship-informed purpose, visible inner coherence, and the ability to make one's life path feel emotionally and personally right at once. Main caution: dependence on outer validation: direction can become too tied to whether public role reflects the desired inner union.
+In `Sun/Moon = MC`, MC specifies the Sun/Moon pair through a personally meaningful direction that engages body, feeling and purpose together. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe harmony and an individual attitude to close bonds, while [ABC](#abc-entry) gives a particularly personal register of bodily feeling, emotions and relationships. That involvement becomes deliberate development in [Munkasey's entry](#munkasey-entry) and dedication to a career or spiritual path in [Sandbach's entry](#sandbach-entry). The common thread is investing oneself in a path and in the associations through which one develops; mastery and higher consciousness remain aspirations described by the source, rather than guaranteed attainments.
 
 ## Links
 

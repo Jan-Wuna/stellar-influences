@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Pluto Kronos Apollon](../triads/pluto-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 Great changes in a state, in politics, in the government.
 
@@ -42,13 +46,27 @@ Great changes in a state, in politics, in the government.
 
 #### ABC Entry
 
-Appreciation through growing knowledge, expansion of large scale development, development of self governing, development of state trade developments, extensive changes in the state, priority changes in the economy, and development of important knowledge
+- Source page: 417 (printed); PDF page: 207 (one-based; exact row checked).
+
+Standing through growing knowledge, expansion of a large development, developing independence, state trade developments, extensive changes within the state, priority changes in the economy, developing important knowledge.
+
+## Comparative Schema
+
+- core meaning: large-scale development involving the state, government or important knowledge.
+- psychology: independence and standing gained through knowledge.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: government, state commerce and politics are explicit settings.
+- events/manifestations: great political or governmental changes and priority changes in the economy.
+- conflicts/notes: ABC includes individual independence and knowledge as well as state change; national events are not required for every expression.
+
+## Contradictions
+
+ABC includes individual independence and knowledge as well as state change; national events are not required for every expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Kronos`: great changes in a state, in politics, in the government.
-- Practical expression: appreciation through growing knowledge, expansion of large scale development, development of self governing, development of state trade developments, and extensive changes in the state.
+Kronos specifies `Pluto/Apollon` through development of major standing or consequence. The [Witte entry](#witte-entry) places large changes in state, politics and government at the center; the [ABC entry](#abc-entry) adds state trade, economic priorities and standing gained through important knowledge. Independence is also explicit. The range therefore includes large institutions and a person's developing standing, without requiring the same political event in every case.
 
 ## Links
 

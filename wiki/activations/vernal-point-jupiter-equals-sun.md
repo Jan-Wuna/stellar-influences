@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Sun Jupiter](../triads/vernal-point-sun-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Well being of the body. To be rewarded for accomplishments in sport. Payday.
 
@@ -42,13 +46,27 @@ Well being of the body. To be rewarded for accomplishments in sport. Payday.
 
 #### ABC Entry
 
-Successful people in public, corporal joy in public, public financial center, person right in public life, personal advantages in public life, and right center in the frequentity
+- Source page: 34; PDF page: 16 (one-based spread).
+
+Successful people in public, bodily joy in public, a public financial center, personal rights in public life, personal advantages in public life, and a legal center in public
+
+## Comparative Schema
+
+- core meaning: Public advantage embodied in people, well-being, and financial or legal centers.
+- psychology: Bodily joy is explicitly named.
+- body/health: Witte names bodily well-being and sport accomplishments; these are source associations.
+- social/relationship: Successful people and personal rights in public life.
+- events/manifestations: Payday, sport rewards, and public financial or legal centers.
+- conflicts/notes: A legal center is not an ideological right-wing center.
+
+## Contradictions
+
+No direct contradiction is established. Bodily well-being, reward, and civic rights are separate source examples rather than a diagnostic or financial guarantee.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Sun`: well being of the body, to be rewarded for accomplishments in sport, and payday.
-- Practical expression: successful people in public, corporal joy in public, public financial center, person right in public life, and personal advantages in public life.
+In `Vernal Point/Jupiter = Sun`, public success is made concrete in people, bodily satisfaction, and received rewards. The [Witte entry](#witte-entry) names well-being, sport accomplishments, and payday. The restored [ABC entry](#abc-entry) extends the theme to successful public figures, personal advantages and rights, and financial or legal centers. The picture joins visible personal benefit with the public structures through which it is recognized or received.
 
 ## Links
 

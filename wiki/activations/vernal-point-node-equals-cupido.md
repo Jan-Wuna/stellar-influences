@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Cupido](../triads/vernal-point-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Associations through the arts or family. To join with others in public.
 
@@ -42,13 +46,27 @@ Associations through the arts or family. To join with others in public.
 
 #### ABC Entry
 
+- Source page: 27; PDF page: 12 (one-based spread).
+
 Relationships with public communities, shared encounters in public, shared connections with the public, artistic connections in public life, and mediating public connections
+
+## Comparative Schema
+
+- core meaning: Public connections formed through community, family, and art.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Joining others and relations with public communities.
+- events/manifestations: Shared encounters, artistic connections, and mediation.
+- conflicts/notes: Family and artistic association are particular settings within the collective theme.
+
+## Contradictions
+
+No direct contradiction is established. A family connection and a public association are different kinds of communal link.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Cupido`: associations through the arts or family and to join with others in public.
-- Practical expression: shared encounters in public, shared connections with the public, artistic connections in public life, and mediating public connections.
+In `Vernal Point/Node = Cupido`, public connections gather around a shared community or cultural activity. The [Witte entry](#witte-entry) names association through family or art and joining others in public. The [ABC entry](#abc-entry) adds communal relationships, shared encounters, artistic links, and mediation. The coherent emphasis is belonging and participation made possible through collective connections.
 
 ## Links
 

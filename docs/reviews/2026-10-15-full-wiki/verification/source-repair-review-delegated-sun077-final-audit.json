@@ -1,0 +1,511 @@
+{
+  "scope": "Frozen22 final Sun activation source-repair audit; no wiki/ledger edits.",
+  "verifier": "/root/axis_review",
+  "path_universe": [
+    "wiki/activations/sun-uranus-equals-asc.md",
+    "wiki/activations/sun-uranus-equals-chiron.md",
+    "wiki/activations/sun-uranus-equals-cupido.md",
+    "wiki/activations/sun-uranus-equals-hades.md",
+    "wiki/activations/sun-uranus-equals-jupiter.md",
+    "wiki/activations/sun-uranus-equals-kronos.md",
+    "wiki/activations/sun-uranus-equals-mars.md",
+    "wiki/activations/sun-uranus-equals-mc.md",
+    "wiki/activations/sun-uranus-equals-mercury.md",
+    "wiki/activations/sun-uranus-equals-moon.md",
+    "wiki/activations/sun-uranus-equals-neptune.md",
+    "wiki/activations/sun-uranus-equals-node.md",
+    "wiki/activations/sun-uranus-equals-pluto.md",
+    "wiki/activations/sun-uranus-equals-poseidon.md",
+    "wiki/activations/sun-uranus-equals-saturn.md",
+    "wiki/activations/sun-uranus-equals-sun.md",
+    "wiki/activations/sun-uranus-equals-uranus.md",
+    "wiki/activations/sun-uranus-equals-venus.md",
+    "wiki/activations/sun-uranus-equals-vernal-point.md",
+    "wiki/activations/sun-uranus-equals-vulcanus.md",
+    "wiki/activations/sun-uranus-equals-zeus.md",
+    "wiki/activations/sun-venus-equals-admetos.md"
+  ],
+  "reviewed": [
+    {
+      "path": "wiki/activations/sun-uranus-equals-asc.md",
+      "before_sha256": "80ac1885e6239a8ee2a1410284dc43e4cc852cfe55e7a25e4536a0c445be047f",
+      "after_sha256": "1057fbdd33db1160a29b72d4da505eddd4eab72399b309f2d0dedf0a7f018cca",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 owner record read. Actual ABC PDF75 printed152 Asc glyph-bounded eight clauses personally inspected: erregt restores excited people, neue Personen new people, all local/partner/reform/technical-center clauses complete. Unchanged Witte full three-sentence Asc row and SUN+URANUS heading verified printed112/PDF108; Ebertin0264 full entry exact printed97/PDF99; Sandbach full two-sentence Ascendant entry exact18 and chapter heading17; Munkasey full ASC row and heading exact printed80/PDF81 in Unleashing the Power of the Planets. All changed ABC wording and every added/changed heading/locator verified directly.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-chiron.md",
+      "before_sha256": "7317b3a289b0bd5f2db71220107c868ac6576c74e457c0688dfaff5fbcc7b790",
+      "after_sha256": "15e66499a416b6bf07c274e210f99614b7722cbe68a97a84d3982ab80ecd277b",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 owner record read. Actual Sandbach PDF18 complete Chiron paragraph personally inspected: indi vidual is a typography split within individual, joined without lexical change; both complete sentences retain confidence, individual purpose and uniqueness. Exact Chiron locator18 and Sun/Uranus chapter heading17 directly verified. No imported orientation.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-cupido.md",
+      "before_sha256": "43ae9ebeeccea3bef1ddeae23b013895c91e9ab72238d336c8b2c929e9531b56",
+      "after_sha256": "bec6ae77855eb403a0532f1526c0a1eda9969ba612df644c94b76c57756460e2",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 owner record read. Locator/heading additions only: actual Witte printed112/PDF108 full three-sentence Cupido row and ABC printed153/PDF75 full seven-clause Cupido glyph row personally checked, both bodies unchanged. SUN+URANUS and Sonne+Uranus headings and exact locators verified; inherited literal community-of-men/shared-body-rhythm English retained, no blanket new translation certification.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-hades.md",
+      "before_sha256": "7648f9869bf5c6720b5d1b5b92daea9d67d49ea7b15709299a6c56f901998927",
+      "after_sha256": "0b02f79114c18b6b4bf32d8a44631b7a8a8b924af088358d8ec094f7df06aead",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Witte printed112/PDF108 Hades complete five-sentence glyph row personally inspected: The front-line soldier corrects Ine OCR. Actual ABC printed153/PDF75 Hades seven clauses read: Unruhe durch koerperliche Maengel supports restlessness due to bodily deficiencies; all other wording retained. Both added headings and exact locators verified; historical crime/military examples stay source-native.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-jupiter.md",
+      "before_sha256": "fcd58add0d20be2be54dc88d069a909189942e1ad6b0a26dbdc3465b52567932",
+      "after_sha256": "7eab6917bff36ba97cce73526b9f3440154d75f5a85e76efde80afcc1f02056e",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed152/PDF75 Jupiter nine-clause glyph row personally inspected: neues Personen-Recht and Rechts-Ereignis am Tag support new law concerning persons and legal event during the day; other clauses retained. Actual Sandbach17 full four-sentence Jupiter paragraph personally inspected: percep tions typography join verified. Witte complete four-sentence row printed112/PDF108, Ebertin0259 full entry printed96/PDF98, Sandbach Sun/Uranus heading17, Munkasey Jup complete row printed80/PDF81 all exact new headings/locators verified.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-kronos.md",
+      "before_sha256": "f1cb743c1a73d4b7017545ec5b813f15b9fe6179770fc7ede9b8edb25db4603b",
+      "after_sha256": "7f3af267e90609afc58d4bd07d13c040ce61c14449b9f0df90aab46ea16ed3bf",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Kronos eight-clause glyph row personally inspected: staatliche Reformen supports reforms rather than refonnes; other clauses retained. Witte complete four-sentence husband/father/authority/dictator row exact printed112/PDF108 verified. Both added source headings and exact locators correct.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-mars.md",
+      "before_sha256": "5c0885a3683094fa1a0dbd8a984bbb0a3b57644a7bf02b57e701cdb2bd3806a4",
+      "after_sha256": "185c18abbd7efaa688fa8689a035adcdf64d303fdc6e9eea1de89e0e9b819085",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed152/PDF75 Mars glyph-bounded eight clauses personally inspected: treatment of bodily tensions, determined Willens-Mensch, excited actions and full work/rhythm/reform/restlessness range translated without lost clauses. Unchanged Witte seven-sentence row exact printed112/PDF108, Ebertin0258 full entry printed96/PDF98, Sandbach full three-sentence Mars entry17 including literal one own, and Munkasey full Mars row printed80/PDF81 all directly verified. Every new heading/locator correct.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-mc.md",
+      "before_sha256": "84b39a3a9ef7374a4c5364c0bbdee1f4e7524e72368dc1baa59132a4d96626aa",
+      "after_sha256": "f5168da9d7c380c3302027ddcd792ea542b4aba6180020588a64d37caecdde83",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Witte printed112/PDF108 MC glyph row personally inspected: Easily excited, irritated comma confirms punctuation repair, full three sentences retained. Actual Sandbach18 full three-sentence Midheaven paragraph personally inspected: distinc tive joined as distinctive. Unchanged ABC eight-clause MC row exact printed152/PDF75; Ebertin0265 complete entry printed97/PDF99; Sandbach chapter17 heading and Munkasey MC full row printed80/PDF81 verified. All added headings/locators exact.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-mercury.md",
+      "before_sha256": "fbab8d60111247f8a4f151f354013c221b23410aa6d2a7a7795f20774f2eb9a2",
+      "after_sha256": "1c74683080a5eb54d2b6f45121ae89643c3aadba5167813089cac2a655adb286",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed152/PDF75 Mercury glyph-bounded eight clauses personally inspected: erregte Personal-Gespraeche supports excited staff discussions, other clauses retained. Unchanged Witte full seven-sentence Mercury row exact printed112/PDF108, Ebertin0256 full entry printed96/PDF98, Sandbach full four-sentence Mercury entry17 and Munkasey full Mer row printed80/PDF81 directly verified. All new headings/locators exact.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-moon.md",
+      "before_sha256": "76eebe86b9ef36061fba60e2fbcfbffc9bb8a8af424121b579ba78bcd0627aa3",
+      "after_sha256": "4f1cf4d1c050d29c8dcddaf89b7f88ef62d69de2855b30db4a6a30358f678f16",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Sandbach PDF17 complete Moon four-sentence paragraph personally inspected: ex press joined as express while literal what you feels retained. All added headings/locators verified directly: Witte full Moon row printed112/PDF108; ABC full eight-clause Moon glyph row printed152/PDF75 unchanged; Ebertin0255 complete entry printed96/PDF98 including printed women grammar; Munkasey complete Moon row printed80/PDF81. No native gender/medical clause removed.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-neptune.md",
+      "before_sha256": "7adbdcef7f7a3992a1b563ceaa65dc0eda319e9af8a5943536cebebdb862ac7c",
+      "after_sha256": "46da4a813f6bc6a654a75ca896d7f53658003c39588859c170f3731705d56622",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Neptune seven-clause glyph row personally inspected: missing surprising bodily weakness restored, Luft air and Verneinung rejection of reforms correct; all clauses complete. Sandbach18 full three-sentence Neptune entry inspected, unique ness joined without lexical change. Actual Ebertin printed96/PDF98 shows superscript9 attached to0261 Neptune and full aircraft-disaster footnote9, now restored under exact formula with isolated-cases qualifier retained. Witte full seven-sentence row printed112/PDF108, Sandbach heading17 and Munkasey full Nep row printed80/PDF81 verify all new headings/locators.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-node.md",
+      "before_sha256": "f4e4d4611e2dd5c91ad3df3f55ee0ab32f64f1e6017febe5d8ede65dd14b8681",
+      "after_sha256": "7efcb37afd899f505e039bf0e51806c39d67012ef6b3655f059ab3830aa3c991",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Ebertin printed96–97/PDF98–99 personally inspected:0263 Node continues from sudden to experiences with other persons across pages; intervening footer9 explicitly belongs0261 Neptune, so removal from Node and cross-page sentence join correct. No legitimate Node wording lost. Added exact Witte full three-sentence row printed112/PDF108, ABC full seven-clause row printed152/PDF75, Sandbach full three-sentence Node entry18/chapter heading17 and Munkasey full Nod row printed80/PDF81 all directly verified; unchanged other source bodies preserved.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-pluto.md",
+      "before_sha256": "f63e8461de2e7623759e93cfb12dff3cafe2618df6fbc976f0a8a87502970487",
+      "after_sha256": "ca741e6bc79119e764bb281f2ebb65b91f96436c8b632faf8cfa6d8d1a30982f",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Pluto six-clause glyph row personally inspected: ueberraschende persoenliche Veraenderung supports surprising personal change, distinct from preceding Personen-Wechsel. Actual Sandbach18 full three-sentence Pluto entry inspected: qual ities joined as qualities. Witte full four-sentence bodily-tone/nervousness row printed112/PDF108, Ebertin0262 full entry printed96/PDF98 including Imprisonment parenthesis, Sandbach heading17 and Munkasey full Plu row printed80/PDF81 verify all new headings/locators.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-poseidon.md",
+      "before_sha256": "214f4d89fe66f2893a8eefca5474a82b8006ed37061b6ad3dec744b31aa72f44",
+      "after_sha256": "79294cbbb841c566c1649dc39f73fdf4f13ee00099eebc23582deb51c312b9b9",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Witte printed112/PDF108 final Poseidon glyph row personally inspected: opening visibly To be tense, so missing To restoration correct; all five sentences preserved. Actual ABC printed153/PDF75 Poseidon eight-clause row inspected: Reformen supports reforms rather than reflections; other wording retained. Both new headings/locators exact. Literal phosphorescent/transparent-body/light-bearer imagery remains unexplained as the owner explicitly records, no added interpretation certified.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-saturn.md",
+      "before_sha256": "81e76cc3c345c4435ca5e7be1f6728e212fc14434ae750bbae4f5ccb9941e010",
+      "after_sha256": "182fde7c00f116ff7ce04b2cdc64d2deda0179e158f1192cb40f2194574baa42",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Saturn eight-clause glyph row personally inspected: Belastungen burdens, Personen-Verluste loss of people, Rhythmus im Alter rhythm in old age and verlustreiche Reformen reforms involving losses all correct. Actual Sandbach18 full three-sentence Saturn paragraph inspected: self-con fidence joined as self-confidence. Unchanged Witte full seven-sentence Saturn row printed112/PDF108, Ebertin0260 full entry printed96/PDF98, Sandbach heading17 and Munkasey full Sat row printed80/PDF81 verify all new headings/locators.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-sun.md",
+      "before_sha256": "c10b26d20e982d30cfe72b721e5f9153e2735df69185c652ffbaee5e8ebd1a8d",
+      "after_sha256": "2f382e891f59dbea42740cd7368930705763db20724d219d69dc8ff148cf939d",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Locator-only replacement: actual Munkasey Unleashing printed82/PDF83 SUN/URANUS With Itself Sun row personally read in full, distinct from the following Ura row. Complete unchanged paragraph including genuinely printed to to verified. Exact new Sun locator and retained heading correct; no repeated-orientation merge.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf83.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-uranus.md",
+      "before_sha256": "470e413a503e92c86e99f760f226f104838b583f6c8b6a96d119fed8adf01a6c",
+      "after_sha256": "c40a45770fe3b0538ac9903e01cf1e012b7e5484e23431109e3639fbb904f289",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Locator-only replacement: actual Munkasey Unleashing printed82/PDF83 SUN/URANUS With Itself Ura row personally read in full, distinct from preceding Sun row and following examples section. Complete unchanged novelty/inventiveness/detachment/resolution paragraph verified. Exact new Uranus locator correct; no repeated-orientation merge.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf83.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-venus.md",
+      "before_sha256": "26971cd2a3b61d23c42f3f52fd24545211c9eb6569565027dcfa3d0bffce5581",
+      "after_sha256": "fff912069ff0b7ff778dd671e2287459a0a951259a95a0ef3482e80b13914739",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual Sandbach17 full five-sentence Venus entry personally inspected: individ ual's typography join as individual's correct, may also dissolve swiftly qualifier preserved. All new headings/locators verified directly against complete exact rows: Witte four-sentence Venus printed112/PDF108, ABC eight-clause Venus printed152/PDF75 unchanged, Ebertin0257 full entry printed96/PDF98, Sandbach Sun/Uranus heading17 and Munkasey full Ven row printed80/PDF81 including genuinely printed flattery when you are you. Unexplained printed phrase retained without expansion.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf83.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-vernal-point.md",
+      "before_sha256": "e73c3f2d233e33e9fd5ea21a2be95039e55f23d611ea6df67fb0161d0f8e6fae",
+      "after_sha256": "5467ccf87b7f47cb1e55036b64e422fb3e55f74c11e4fce7d6793fff23fd2136",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed152/PDF75 Vernal Point glyph-bounded six-clause row personally inspected: dash-only placeholder replaced by full public reform/excited people/new people/eventful day/personal excitement/technical-center translation, all six clauses complete. Witte full four-sentence row exact printed112/PDF108 personally inspected including genuinely printed Lightening spelling retained. Both added source headings and exact locators correct.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf71.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf104.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-vulcanus.md",
+      "before_sha256": "a4ab34c5657a0ac741b4da2b5431e77103049ddf6c295ea2c5ce3b4c9e0fa487",
+      "after_sha256": "2865fc9d4128668fc23bea951de4432a19349319fa7dfbb646487684d14c459d",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Vulcanus eight-clause glyph row personally inspected: excitement about violence during day, dynamic influence, Energien-Reformen, powerful bodily tensions, power-center nervousness, new bodily strength, personal restlessness and technical energy center all correctly restored. Unchanged complete Witte three-sentence great-effort/overwork/overstrain row exact printed112/PDF108 verified. Both new headings/locators correct.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf71.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf104.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-zeus.md",
+      "before_sha256": "ef0e7358eb41ccfa589e97631a009fcc971e60f69cb0a66456742fc9ccb395f4",
+      "after_sha256": "78ace7ecb93c30b7e8a5a1b2b5a14708c1a015532983ad2ebca80cde6ef6831f",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed153/PDF75 Zeus eight-clause glyph row personally inspected: omitted neue Fuehrungs-Person restored as new leader, Reform-Streben as striving for reform, full dynamic goal/creative/technical/fire/rhythmic-body/performance-center sequence retained. Unchanged Witte full three-sentence blood-pressure/agitated-will/rage row exact printed112/PDF108 verified. Both new headings/locators correct.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf71.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf104.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-admetos.md",
+      "before_sha256": "dbbac84d2fb6ec112a85e9da6794596cb37b325e93dc045e1f1da3e66f1935f8",
+      "after_sha256": "d78c76b9e529958235a2d6bba09dd73df622dfe9120ca94fdd9533e3ed96cc86",
+      "unique_owner": "activations-077.jsonl",
+      "decision": "allow",
+      "full_before_current_source_read": true,
+      "full_owner_record_read": true,
+      "changed_blocks_and_all_new_refs_checked": true,
+      "reason": "Full baseline/current Source Entries and full unique amended077 record read. Actual ABC printed145/PDF71 Sun+Venus Admetos seven-clause glyph row personally inspected: Unterdrueckung suppression, gefestigte Person steady person, and limits/restriction/end-of-harmonious-day/strengthened-harmony/deepened-affection/goodwill all complete. Actual Witte Sun+Venus exact Admetos glyph row personally inspected PDF104: unchanged full two-sentence response/incapacity passage verified, no printed folio visible so honest PDF-only locator valid. All added headings/locators checked.",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf71.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf104.png"
+      ]
+    }
+  ],
+  "holds": [],
+  "status": "complete",
+  "reviewed_count": 22,
+  "approved_count": 22,
+  "remaining_count": 0,
+  "accepted_count": 22,
+  "held_count": 0,
+  "unreviewed_count": 0,
+  "accepted_paths": [
+    "wiki/activations/sun-uranus-equals-asc.md",
+    "wiki/activations/sun-uranus-equals-chiron.md",
+    "wiki/activations/sun-uranus-equals-cupido.md",
+    "wiki/activations/sun-uranus-equals-hades.md",
+    "wiki/activations/sun-uranus-equals-jupiter.md",
+    "wiki/activations/sun-uranus-equals-kronos.md",
+    "wiki/activations/sun-uranus-equals-mars.md",
+    "wiki/activations/sun-uranus-equals-mc.md",
+    "wiki/activations/sun-uranus-equals-mercury.md",
+    "wiki/activations/sun-uranus-equals-moon.md",
+    "wiki/activations/sun-uranus-equals-neptune.md",
+    "wiki/activations/sun-uranus-equals-node.md",
+    "wiki/activations/sun-uranus-equals-pluto.md",
+    "wiki/activations/sun-uranus-equals-poseidon.md",
+    "wiki/activations/sun-uranus-equals-saturn.md",
+    "wiki/activations/sun-uranus-equals-sun.md",
+    "wiki/activations/sun-uranus-equals-uranus.md",
+    "wiki/activations/sun-uranus-equals-venus.md",
+    "wiki/activations/sun-uranus-equals-vernal-point.md",
+    "wiki/activations/sun-uranus-equals-vulcanus.md",
+    "wiki/activations/sun-uranus-equals-zeus.md",
+    "wiki/activations/sun-venus-equals-admetos.md"
+  ],
+  "held_paths": [],
+  "unreviewed_paths": [],
+  "final_validation": {
+    "checked_at_utc": "2026-10-15T14:29:12.545648+00:00",
+    "frozen_candidate_file_sha256": "4eaa72ae1c4ff71fd716455ebdf3822d26f1a32f13653cf33de24c5031323f7b",
+    "approval_bank_file_sha256": "be0bce651e248d0663770f40ddeb9c16c6e0720d8988ce428aaf2454bf8cbf2b",
+    "frozen_unique_paths_checked": 22,
+    "strict_validator_Allowance_schema_passed": 22,
+    "unique_reviewed_amended_original_owner_passed": 22,
+    "current_baseline_and_frozen_source_hashes_passed": 22,
+    "full_source_and_owner_reads_recorded": 22,
+    "every_changed_block_and_new_reference_checked": 22,
+    "nonempty_proof_files_referenced": 10,
+    "proof_sha256": {
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf71.png": "a6b84d27677756c8d0f5a7886e83994e8167bb2e3bfc59f08ee3117d34a483e0",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-abc-pdf75.png": "d797b6fa8939466a134c862540e9c7aa2c34755b442d6f12e7c336d32526bbb0",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf98.png": "960038445292f551c197f175fcdc988c7a1f918320c3b3b90fd11e9eaffdd13c",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-ebertin-pdf99.png": "859c62702841aeb5b43fad104bcb026493844b42b87c8d0bbd4e8fc2f813cb84",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf81.png": "04a4424307a620f63a3b366e934fa2530824eeb7aaa5b45c09cc89d3ad94e95f",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-munkasey-pdf83.png": "771157ec69ca0151b20e8c4e03073fa0ec6f38d76f597296aa5b9c829925e6d6",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf17.png": "b49b44bd0e8e891a6d7a8ba04a8b450c4abcadbf346cfde32a4812947092939a",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-sandbach-pdf18.png": "68af0371eee48a21f83279469fb6b77bc066468c69e83448f45b407ac94fb0f2",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf104.png": "b2faa2be8fa02b3029373e20b20e2b53cb72b91361dc4a961ff87eef5ac7a692",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun077-final-witte-pdf108.png": "e95d65a8fa3848b35d5f2925ff88575b091067f0544e1284635b078aee2f3cfb"
+    },
+    "owner_ledger_counts": {
+      "activations-077.jsonl": 22
+    },
+    "prior_Pluto144_bank_unchanged_sha256": "5a1288c35672cef9682f34a359aea2343f9f360ffa0fe34eae894845406c1f3f",
+    "accepted": 22,
+    "held": 0,
+    "unreviewed": 0,
+    "missing_or_duplicate_paths": [],
+    "failures": []
+  },
+  "limits": "All22 complete baseline/current Source Entries sections and all22 full unique amended original077 owner records were read. Every changed source block and added/changed heading or reference was directly checked against immutable raw source files. Actual pages were rendered through Poppler and personally inspected for translation, typography, glyph and boundary repairs. No new source defect or hold found. Literal source grammar and explicitly unexplained imagery are preserved; locator-only approvals do not newly certify unchanged cached translations wholesale. Exact normalized source-body hashes approve only the saved sections, not future changes. Prior144 Pluto bank untouched. This audit edited only its three owned artifacts and owned-prefix proof images; no wiki, ledger or global allowance bank edits."
+}

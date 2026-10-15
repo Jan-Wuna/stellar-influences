@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Saturn Asc](../triads/moon-saturn-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Separations from female acquaintances and difficulties through them.
 
@@ -44,11 +48,15 @@ Separations from female acquaintances and difficulties through them.
 
 #### ABC Entry
 
-Evening hour at the place, older woman as partner, other burdened women, GernUts burden by the partner, woman as partner at the age, dead mother at the place, separation from the woman in the environment, separation hour at the place, and losses by and ere people
+- Source passage: `Aszendent + Mond`; printed p. `103`; PDF page `50` (complete oriented row checked against actual scan).
+
+Evening hour at the place, older woman as partner, other burdened women, emotional burden through the partner, woman as partner in old age, disturbed mother at the place, separation from the woman in the environment, hour of separation at the place, losses through other peoples.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Saturn entry at one-based PDF page `39` (checked in actual raw PDF text).
 
 Caution in sharing one’s feelings with others and a tendency to do this grad ually. A fear of being vulnerable in one-on-one contacts and so a tendency to be held back when relating. To be negative about one’s feelings about oneself.
 
@@ -63,22 +71,21 @@ A blocked perception of the emotional attitudes of others; imposing discipline o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional contact is constrained by separation, burden, reserve or difficulty.
+- psychology: Cautious disclosure, fear of vulnerability, negative self-feeling and disciplined emotional expression.
+- body/health: The source names emotional burden and a disturbed mother at the place; it gives no death claim or medical diagnosis.
+- social/relationship: Relations may feel stern or inhibited; traditional entries include older partners and separation from women.
+- events/manifestations: Separation, losses through other peoples, an evening hour and a partner in old age are distinct examples.
+- conflicts/notes: The actual scan reads gestörte Mutter, meaning disturbed mother; the inherited dead-mother rendering is incorrect.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. Reserved sharing, emotional discipline and separation are distinct forms of constrained contact; the actual disturbed-mother wording supplies no death claim.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Saturn`: emotional discipline, reliability, and the ability to stay composed under strain. Main caution: withdrawal: heaviness, inhibition, or fear of hurt can make closeness feel limited, formal, or harder to trust.
+In `Moon/Asc = Saturn`, emotional contact is constrained by reserve, burden or separation. Feelings may be shared gradually because vulnerability feels difficult; disciplined expression and blocked perception of another's emotions can make the relationship seem stern. Separation from female acquaintances, older partners and emotional burden provide specific traditional settings. The scan's disturbed mother at the place remains an attributed example of disturbance, without the inherited mistranslation's death implication. ([Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry); [Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

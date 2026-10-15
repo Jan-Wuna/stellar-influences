@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Jupiter Pluto MC](../triads/jupiter-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Fortunate development of soul and spirit. Plutocratic attitudes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Successful psychic development, joy over my development, my right to unfold, my financial changes, my glimmering changes, my growing finances, developing beneficial psychic change, and soul pleasure
+Editorial translation (checked against the scan): Successful inner development, joy in my development, my right to develop, my financial changes, my fortunate changes, my growing finances, beneficial inner transformations, developing joy of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Unusual objectives and unusual successes. The possession of financial power.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Fortunate events which propel you into positions where you can add to your prest
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Favorable personal development alongside expanded success, wealth, or power.
+- psychology: Enthusiasm, optimism, joy in development, and possible selfish ambition.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Prestige, recognition, political power, and financial influence.
+- events/manifestations: Unusual successes, financial power, fortunate opportunities, and growing finances.
+- conflicts/notes: Constructive growth and self-serving pursuit of power remain separate possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Optimism about changing the world coexists with plutocratic or selfish attitudes; success does not establish a benevolent purpose.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Jupiter`: consequential leadership, ambitious reform, and the ability to grow through pressure, reinvention, and public reach. Main caution: grandiose control: success can become too tied to domination, ideological certainty, or the hunger for larger power.
+Jupiter specifies Pluto/MC through development that opens possibilities for success or influence. Favorable inner growth in the [Witte entry](#witte-entry) and joy in personal development in [ABC](#abc-entry) accompany unusual success and financial power in [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) adds optimism about changing the world and expanding worldly or spiritual power. The same opportunities can serve self-interest: [Munkasey](#munkasey-entry) includes the wish for political recognition and selfish use of personal power. A favorable outcome therefore does not by itself establish the purpose for which influence is used.
 
 ## Links
 

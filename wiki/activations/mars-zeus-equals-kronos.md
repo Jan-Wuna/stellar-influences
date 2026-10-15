@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Zeus Kronos](../triads/mars-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Master in activity. The machinist (boss). Leader of military detachment. Energetic work is encouraged by the authorities.
 
@@ -42,13 +46,27 @@ Master in activity. The machinist (boss). Leader of military detachment. Energet
 
 #### ABC Entry
 
-Efforts of the State, special will benefits, special creative power, self sustaining filthy activity, state work benefits, state filthy work, important filthy activity, and determined actions of the chief
+Source: “Mars + Zeus,” printed p. 313 (PDF p. 155).
+
+Strenuous activity by the state, special achievements of will, special creative energy, independent leadership activity, state work achievements, state leadership work, important leadership activity, and goal-directed actions by the chief.
+
+## Comparative Schema
+
+- core meaning: Directed or creative effort expressed through mastery, leadership, authority, and state work.
+- psychology: Special achievements of will and goal-directed action by a chief.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Technical or military leadership and support from authorities.
+- events/manifestations: Independent leadership activity, state work achievement, and important directed work.
+- conflicts/notes: ABC's independent leadership is retained alongside state and authority settings; no rank or title is required by every phrase.
+
+## Contradictions
+
+The entries overlap on mastery and leadership. ABC also explicitly includes independent leadership and special creative energy.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Kronos` raises the axis into mastery, command, and officially backed technical leadership.
-- Chart expression: authoritative execution, leadership over machinery or armed effort, and goal-oriented work strengthened by rank, title, or institutional support.
+In `Mars/Zeus = Kronos`, Kronos specifies directed and creative effort through mastery and leadership. Witte gives technical and military leaders and encouragement from authorities as examples. ABC adds state work, special creative energy, goal-directed action by a chief, and independent leadership activity. The shared emphasis is work directed with competence or authority, while independence remains an explicit alternative to a state setting. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 313 / PDF p. 155)
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Jupiter Saturn Neptune](../triads/jupiter-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,11 @@ Disease of the lungs.
 
 #### ABC Entry
 
-the work, difficult work in the air, lossful work in the water success through fine tuning and patience, joy in the age of the water, money problems through water, concentration on a successful future, problematic legal expectations, and creeping
+Source: ABC printed p. 350, supplied PDF p. 174, Saturn + Neptun, jupiter row (seven clauses). Translation from the German scan:
+
+Success through sensitivity and patience; joy by the water in old age; money problems through water; concentration on a successful future; problematic expectations concerning law; creeping monetary losses; losses through water-money (Wasser-Geld).
+
+ABC's Wasser-Geld is printed but its concrete financial/water context is not explained.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ Tendency to be easily upset or depressed, sensitive, narrow-minded, egoism. Inhi
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 91, complete jupiter paragraph under Saturn/Neptune.
 
 An enthusiasm for making one’s ideals manifest in physical reality, and a confi dence and optimism concerning the possible fulfillment of this.
 
@@ -70,22 +78,21 @@ Enlarges and expands on ideas that reality is just a vision; deceptive practices
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: confidence in realizing ideals, with enlarged expectations and possible disillusionment.
+- psychology: Sandbach's optimism differs from Ebertin's sensitivity and depressive tendency.
+- body/health: Witte and Ebertin attribute lung, liver, and weight conditions to this formula; these are historical claims.
+- social/relationship: Munkasey includes religious ceremony concealing deceptive practices.
+- events/manifestations: meditation may yield inspiration; ABC includes success through sensitivity and patience.
+- conflicts/notes: ABC's water-money compound is literal and contextually unspecified; the source's expectations and bodily claims are not forecasts.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries give contrasting psychological possibilities, rather than a single uniformly hopeful or depressive result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Jupiter`: practical spirituality, charitable purpose, and the ability to sustain hope without denying hardship. Main caution: false uplift: belief can become evasive, sentimental, or overly trusting when conditions require sharper discrimination.
+Jupiter specifies the Saturn/Neptune axis through expectations about making an ideal real: [Sandbach](#sandbach-entry) describes enthusiasm and confidence in that effort, while [Munkasey](#munkasey-entry) includes useful inward inspiration alongside beliefs that conceal deception. The common question is what enlarged hope actually produces. [Ebertin's](#ebertin-entry) easily upset or depressed response remains a contrasting possibility, so optimism is not an assured outcome of this orientation.
 
 ## Links
 

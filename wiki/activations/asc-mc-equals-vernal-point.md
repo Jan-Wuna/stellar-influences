@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/MC](../axes/asc-mc.md)
 - Triad hub: [Vernal Point Asc MC](../triads/vernal-point-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 A professional or mental connection with the general public. One’s relationship to others in public life.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Vernal Point row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Other and I in the public sphere, public sphere Environment, my public sphere Life, my environment is the public sphere, my environment in the public sphere, minute on the 011th in the public sphere, and scelen partner for the public life
+Others and I in public, ensouled public surroundings, my partner in public life, my surroundings are the public, my surroundings in public, a minute at the place in public, and a soul partner for public life.
+
+Source reference: Udo Rudolph, printed p. 60, one-based PDF p. 29, “Meridian + Aszendent,” Vernal Point glyph row; checked on the actual scan. The translation restores “beseelte,” “mein Partner,” and “Minute am Ort,” replacing the OCR 011th artifact.
+
+## Comparative Schema
+
+- **Core meaning:** One's relations with others have a public setting ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** A mental connection with the public is stated; dependence on public approval is not.
+- **Body/health:** Neither entry gives a body or health claim.
+- **Social/relationship:** Others and oneself, a partner in public life, and a soul partner for public life are explicit examples.
+- **Events/manifestations:** Professional contact with the general public and public surroundings are named without a specific event prediction.
+- **Conflicts/notes:** Ensouled and soul-partner wording remains broad; the local-minute clause supplies no timing method or measure of exposure.
+
+## Contradictions
+
+Both entries explicitly place relations in public life. ABC adds first-person partner and surroundings examples without a stated opposition or an implication that public contact makes identity dependent on response.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/MC = Vernal Point`: public-facing work, general-interest relevance, and relationships that are shaped as much by collective exposure as by private exchange. Main caution: over-public living: wider connection can enlarge influence, but it can also make identity too dependent on public response or visibility.
+In `Asc/MC = Vernal Point`, Vernal Point specifies the pair by situating one's relations in public life. Witte names a professional or mental connection with the general public; ABC adds oneself and others in public, a partner in public life, and one's surroundings as a public setting. Its soul-partner and ensouled wording remains a broader inner-life description. The entries establish public connection without specifying a profession, degree of exposure, or dependence on approval. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

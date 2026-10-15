@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Uranus`
 - Astronomicon formula: `R/g = X`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden surprising union of woman or with women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `175`, PDF p. `86` (entry).
+
 #### ABC Entry
 
-Exciting connection to women, eventful people, excited women in connection, tense commuting, contact with women, new women's association, and reform links to people
+An exciting connection with a woman, eventful relations among peoples, an excited woman within a connection, a tense emotional connection, contacts through emotional relationships, a new connection with a woman, and reform connections with the people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `137`, entry `0429`.
 
 #### Ebertin Entry
 
 Restlessness in the presence of others. Sudden experiences with others, suddenly entering into a union or alliance.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `38` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ An unusual approach to meeting people who can help you understand life; meetings
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden, unusual, or freely formed connections.
+- psychology: restlessness, excitement, and a wish for emotional freedom are named.
+- body/health: no bodily or clinical condition appears.
+- social/relationship: new alliances, unusual emotional ties, and contacts with inventive people are examples.
+- events/manifestations: surprising unions, meetings with astrologers, and innovative ideas in meetings are explicit.
+- conflicts/notes: tension and free connection are different possibilities; intermittent or unreliable attachment is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+The entries place restless or tense contact alongside freedom and inventive connection. They do not assert that sudden association must be unstable or that emotional freedom excludes continued connection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Uranus`: awakening through relationship, unconventional kinship, and the ability to form bonds around change and difference. Main caution: instability in belonging: emotional ties can turn erratic, on-off, or difficult to rely on consistently.
+In Moon/Node = Uranus, Uranus specifies the pair through sudden or unusual contact. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name surprising unions and sudden alliances, while [Munkasey](#munkasey-entry) includes inventive people, unusual approaches to meetings, and astrological counseling (p. 136). [ABC](#abc-entry) retains both excitement and tension.
+
+[Sandbach](#sandbach-entry) emphasizes the freedom to connect emotionally and an ability to recognize and support changing feelings. This gives the novelty a relational expression without requiring an on-and-off pattern of attachment.
 
 ## Links
 

@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Chiron = Pluto`
 - Astronomicon formula: `W/Chiron = Z`
 - Axis page: [Saturn/Chiron](../axes/saturn-chiron.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 88 (exact entry checked; chapter begins on PDF page 87).
+
 To be obsessed with a desire to understand why one has to endure limitations and restrictions. One’s life is transformed by coming into a profound understanding of one’s fears, which allows one to finally release them.
+
+## Comparative Schema
+
+- Core meaning: An intense search to understand restriction, with transformation through recognition of fear.
+- Psychology: Obsession with why limits must be endured and profound understanding of fear.
+- Body/health: No bodily condition or clinical treatment is specified.
+- Social/relationship: No specific interpersonal outcome is supplied.
+- Events/manifestations: Release of fear and life transformation in the source's account.
+- Conflicts/notes: The entry includes obsession itself; it does not establish that release is inevitable.
+
+## Contradictions
+
+The entry includes obsession itself; it does not establish that release is inevitable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Pluto` intensifies the need to understand why limitation and fear must be endured. It can transform life through profound recognition and release of fear; the caution is fixation on suffering, control, or the wound itself.
+In `Saturn/Chiron = Pluto`, Pluto specifies the pair through an obsessive desire to understand why limitations must be endured. The [Sandbach entry](#sandbach-entry) also describes profound understanding of fear as allowing release and transforming life. Intensity of inquiry and the possibility of release remain distinct parts of this spiritual account.
 
 ## Links
 

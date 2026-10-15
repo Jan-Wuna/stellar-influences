@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Vulcanus](../triads/vernal-point-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Influential connections. A mighty connections between many people.
 
@@ -42,13 +46,27 @@ Influential connections. A mighty connections between many people.
 
 #### ABC Entry
 
-Influenced relations in the public life, powerful connections in the public, connected with the public violence, public energy ventilation, strong communication with the public, and connection with the public energies
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Influential relationships in public life, powerful public connections, connection with public force or violence, public transmission of energy, a strong link with the public, and connection with public energies
+
+## Comparative Schema
+
+- core meaning: Public connections carrying influence, strength, or force.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Powerful links among many people.
+- events/manifestations: Transmission of energy and association with public force.
+- conflicts/notes: Influential replaces influenced; transmission replaces ventilation, and force retains its coercive range.
+
+## Contradictions
+
+No direct contradiction is established. Influential association is broader than connection with violence or coercive public power.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Vulcanus`: influential connections and a mighty connections between many people.
-- Practical expression: influenced relations in the public life, powerful connections in the public, connected with the public violence, public energy ventilation, and strong communication with the public.
+In `Vernal Point/Node = Vulcanus`, public association is specified by its strength and influence. The [Witte entry](#witte-entry) names influential connections and powerful links among many people. The restored [ABC entry](#abc-entry) adds strong public ties, transmission of energy, and connection with public force or violence. The coherent theme is the capacity carried by a connection, without reducing every influential relationship to coercion.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [Mars MC Zeus](../triads/mars-mc-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Always ready to help. Daredevil. Leader. Good strategist. To force something und
 
 Fiery soul impulses, leadership activity of the soul, my begetting will, my aim in creation, my strenuous work, my work achievements, my leadership activity, my activity design, and my activity objects
 
+## Comparative Schema
+
+- **Core meaning:** Strategic action and forceful execution.
+- **Psychology:** Daring, readiness to help and determination.
+- **Body/health:** ABC's 'begetting will' is reproductive symbolism, not a fertility assessment.
+- **Social/relationship:** Leadership, assistance and control.
+- **Events/manifestations:** Strenuous work and creative accomplishment.
+- **Conflicts/notes:** Readiness to help and coercive will are different possibilities, not proof of inconsistency.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 88 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; related wording is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Mars` charges the axis with daring, strategy, and forceful execution.
-- Chart expression: bold leadership, readiness to act, and the will to take control of situations through decisive, goal-directed action.
+Mars specifies `MC/Zeus` through daring action, strategy and taking control. The [Witte Entry](#witte-entry) includes readiness to help as well as imposing one's will, while the [ABC Entry](#abc-entry) adds strenuous work, leadership and creative aims. The same directed activity can assist others or assert control; the formula does not establish which expression will occur.
 
 ## Links
 

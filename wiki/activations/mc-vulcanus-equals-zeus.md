@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [MC Zeus Vulcanus](../triads/mc-zeus-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Controlling abundant energies. To supervise machines.
 
 Generation of psychic energy, fire of a strong soul, my leadership influence, my power goal, my energy achievements, my fiery energy, my leadership strengths, my creative power, my strong efforts, and creative soul power
 
+## Comparative Schema
+
+- **Core meaning:** Directed control of abundant energy.
+- **Psychology:** Strong effort and a defined goal.
+- **Body/health:** Inner energy is named, without a medical claim.
+- **Social/relationship:** Leadership and supervisory influence.
+- **Events/manifestations:** Machine supervision and creative accomplishment.
+- **Conflicts/notes:** Technical supervision and inner creative drive are different expressions, not a contradiction.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; related wording is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Zeus` directs the axis toward controlled powerful energies and machinery.
-- Chart expression: supervising engines, directing abundant force, and using strength purposefully in technical, industrial, or energetic systems.
+Zeus specifies `MC/Vulcanus` through the control of abundant energy and supervision of machines in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds leadership, creative power and strong effort toward a goal. These connect directing force with purposeful production, while the machinery example remains a particular manifestation rather than a required occupation.
 
 ## Links
 

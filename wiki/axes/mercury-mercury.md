@@ -45,6 +45,7 @@ updated_at: 2026-04-21
 
 - Axis: `Mercury/Mercury`
 - Astronomicon axis: `T/T`
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -53,6 +54,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, plans, mental developments. Movement. The content of thinking. Thoughts. News. Opinion. Assertion. Exchange of information. Mind games. Agility. Young people.
+
+## Comparative Schema
+
+- core meaning: thinking and the expression or exchange of its contents ([Pair Summary](#pair-summary)).
+- psychology: ideas, plans, opinions, mental development, and agility are named, without a separate account of emotional motivation.
+- body/health: no medical or anatomical correspondence is supplied; the words movement and agility do not establish one.
+- social/relationship: speech, writing, mimicry, and information exchange provide channels between people; young people are an explicit association.
+- events/manifestations: news, assertions, plans, and mind games are included, without a predicted event sequence.
+- conflicts/notes: this is one source's self-pair summary; repetition of Mercury does not supply a distinct third-factor interpretation or independent corroboration.
 
 ## Related Activations
 
@@ -81,8 +91,9 @@ Intellectuality. Thoughts expressed through speech, writing, or mimic. Ideas, pl
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Mercury` is the axis of pure thinking, speech, writing, news, exchange, mimic, and the restless movement of ideas themselves.
-- Chart expression: intellectuality, correspondence, opinion, plans, mental agility, youthful curiosity, and a life strongly organized around information, conversation, and the continual motion of mind.
+`Mercury/Mercury` collects the activities of thinking and giving thought an outward form: speech, writing, mimicry, assertions, plans, and the exchange of news. Mental development and agility connect these expressions, while movement, mind games, and young people broaden the summary beyond verbal reasoning alone ([Witte, Rudolph and Lefeldt's Pair Summary](#pair-summary)).
+
+The entry names a field of activity rather than a fixed character or outcome. It does not establish that the person is restless, unusually curious, successful in communication, or medically affected. Its single-source scope also leaves the effects of a third factor to the linked activation pages.
 
 ## Links
 

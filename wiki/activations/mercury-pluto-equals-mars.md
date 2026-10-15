@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Mars Pluto](../triads/mercury-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,18 @@ From thinking and understanding to action. To plan and carry out something.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 252; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Developing a youth connection, developing youth through work, developing thought work, changing media activity, news about changed work, reporting about change of work, and effective exchange of places
+Developing a youth connection, developing youth through work, developing thought work, changing media activity, news about changed work, reporting about change of work, and vigorous verbal exchange
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source reference: printed p. 164; entry `0534` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +67,16 @@ Indefatigable, ability to master great tasks, sharp criticism, desire to attack 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source reference: PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 The ability to always be clever and resourceful when any challenge comes up, or when something arises that threatens to obstruct or inhibit what one is trying to do.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 172 (entry page).
 
 - Source heading: `MERCURY/PLUTO with Planets and Points`
 - Source page: `172`
@@ -70,22 +87,21 @@ Aggressiveness and persistency in quests for sexual power and control; an untiri
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Carrying thought and plans into action with persistence. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- psychology: Resourcefulness under obstruction, with sharp criticism or aggressive demands also possible. [Sandbach](#sandbach-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- body/health: Munkasey mentions mental preparation for difficult exercise and sexual power; these are attributed motifs, not diagnoses.
+- social/relationship: Criticism, attacks on others, and demands over information use can strain exchange. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry), p. 172.
+- events/manifestations: Planning and execution, changes of work, and persistent information-seeking. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Ebertin's blackmailer example is a possible manifestation, not an identity inferred from this formula.
 
 ## Contradictions
 
-- None recorded yet.
+Resourcefulness and aggression are different possible expressions; the entries do not make criminal conduct inevitable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Mars`: tactical speech, concentrated effort, and the will to push thought into immediate effect. Main caution: mental aggression: perception can become combative, coercive, or too destructive in pursuit of control.
+In `Mercury/Pluto = Mars`, Mars specifies developing thought through execution: understanding becomes a plan that is carried out, and obstacles can elicit resourceful, sustained effort. [Witte](#witte-entry); [Sandbach](#sandbach-entry). That persistence also has a forceful range, including sharp criticism, attacks, and demands to control information. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry), p. 172. ABC's work changes and vigorous verbal exchanges give concrete settings without requiring an aggressive outcome.
 
 ## Links
 

@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `U/V = S`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Sun Mars Jupiter](../triads/sun-mars-jupiter.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -45,7 +46,9 @@ Exchange of rings. Day of betrothal. Procreation. The man who is happy and succe
 
 #### ABC Entry
 
-Centre for Work Right, Success Will of a Man, Successfully Acting Man, Joy through Personal Tatkrafi, Money Trade Centre, Personal Work Joy, Personal Work Right, Personal GIUcks Impulse, and Personal Law Success
+A center for labor rights, a man's will to succeed, a person acting successfully, joy through personal energy for action, a money-trading center, personal joy in work, personal labor rights, personal impulses of happiness, and personal legal success.
+
+- Source reference: printed p. 298, PDF p. 148, Sun row; `erfolgreich tätiger Mensch` means a person acting successfully, distinct from the preceding male-specific phrase.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,25 @@ Strengthens determination about life’s objectives; improves the respect you re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal determination, enterprise and creative organization, with pride capable of becoming excess.
+- psychology: Sandbach describes confidence in goals and an overcompensating ego; Ebertin adds pride and honor, and Munkasey adds self-respect and correcting judgment.
+- body/health: Witte's procreation/birth-of-a-boy statements and Ebertin's sexual and birth claims are attributed historical associations, not health or sex predictions.
+- social/relationship: Engagement, marriage and happy attachment appear in Witte and Ebertin.
+- events/manifestations: Successful work, organizing ability and energy in legal or religious defense are the principal practical examples.
+- conflicts/notes: Witte's male-specific language does not establish a universal gender rule; enthusiasm is qualified by Sandbach's overdoing.
 
 ## Contradictions
 
-- None recorded yet.
+The favorable enterprise theme is qualified by explicit ego excess. Gendered and reproductive examples have a narrower historical scope than the shared determination theme.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Sun`: leadership, organizing talent, healthy drive, happy attachment, and the sense that action should achieve something worthy and visible. Main caution: egoic overreach: pride and enthusiasm can expand faster than judgment and lead to doing too much.
+Sun specifies the Mars/Jupiter axis through personal purpose: confidence in goals, determination to act and the capacity to organize creative effort. [Munkasey's](#munkasey-entry) emphasis on self-respect and correcting errors gives that confidence a practical measure beyond simply pressing harder; [ABC](#abc-entry) adds joy through personal activity and work.
+
+Happy attachment and betrothal belong to the social examples in [Witte](#witte-entry) and [Ebertin](#ebertin-entry), while [Sandbach](#sandbach-entry) warns that self-assertion can become compensatory overreach. The historical male and reproductive wording is retained as attributed source material, not generalized into a rule about sex or gender.
+
+Evidence: [ABC](#abc-entry), printed p. 298, PDF p. 148; [Witte](#witte-entry), PDF p. 192; [Ebertin](#ebertin-entry), printed p. 202, entry 0687; [Sandbach](#sandbach-entry), PDF p. 67, Sun paragraph checked directly; [Munkasey](#munkasey-entry), printed p. 224.
 
 ## Links
 

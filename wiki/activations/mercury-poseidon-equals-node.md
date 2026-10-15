@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Poseidon](../axes/mercury-poseidon.md)
 - Triad hub: [Mercury Node Poseidon](../triads/mercury-node-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Poseidon`
+- Source reference: PDF p. 173 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Connected with people who are spiritually minded.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Poseidon`
+- Source reference: printed p. 268; PDF p. 133 (one-based) (entry).
+
 #### ABC Entry
 
 Reports about cultural encounters, clear language in one connection, insightful language connections, spirited youth encounters, ideas in youth connections, clear traffic connections, and cultural connections of youth
 
+## Comparative Schema
+
+- core meaning: Ideas and spiritual interests expressed through connections. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: Insightful and clear conversation is emphasized; no further personality claim is supplied. [ABC](#abc-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Connections with spiritually minded people and cultural youth encounters. [Witte](#witte-entry); [ABC](#abc-entry).
+- events/manifestations: Reports on cultural encounters and exchange of ideas within associations. [ABC](#abc-entry).
+- conflicts/notes: The entries describe shared interests and conversation, not proof of shared truth.
+
+## Contradictions
+
+No direct contradiction is identified; the entries concern spiritual and cultural connections at different levels.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Poseidon = Node`: Connected with people who are spiritually minded.
-- Practical expression: reports about cultural encounters, clear language in one connection, insightful language connections, spirited youth encounters, and ideas in youth connections.
+In `Mercury/Poseidon = Node`, Node specifies ideas through association with people who share intellectual or spiritual interests. Clear conversation, insightful contacts, and cultural encounters among youth give the connection a concrete communicative form. [Witte](#witte-entry); [ABC](#abc-entry). The link is through the subject and quality of exchange, without requiring agreement on every idea.
 
 ## Links
 

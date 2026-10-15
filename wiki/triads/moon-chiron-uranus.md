@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron Uranus`
 - Astronomicon triad-set: `R Chiron X`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Uranus = Moon](../activations/chiron-uranus-equals-moon.md)
-- [Moon/Chiron = Uranus](../activations/moon-chiron-equals-uranus.md)
-- [Moon/Uranus = Chiron](../activations/moon-uranus-equals-chiron.md)
+- [Chiron/Uranus = Moon](../activations/chiron-uranus-equals-moon.md): base axis [Chiron/Uranus](../axes/chiron-uranus.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Uranus](../activations/moon-chiron-equals-uranus.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Uranus](../factors/uranus.md).
+- [Moon/Uranus = Chiron](../activations/moon-uranus-equals-chiron.md): base axis [Moon/Uranus](../axes/moon-uranus.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Uranus = Moon`: John, page `96`
-- `Moon/Chiron = Uranus`: John, page `32`
-- `Moon/Uranus = Chiron`: John, page `33`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Uranus = Moon](../activations/chiron-uranus-equals-moon.md#sandbach-entry) (PDF chapter-start p. 96; exact entry page unverified); [Moon/Chiron = Uranus](../activations/moon-chiron-equals-uranus.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Uranus = Chiron](../activations/moon-uranus-equals-chiron.md#sandbach-entry) (PDF p. 34; exact entry checked).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Moon`: emotional liberation, fresh feeling, and healing through not forcing emotion into old scripts. Main caution: confusing emotional unpredictability with deeper freedom.
-- `Moon/Chiron = Uranus`: When one allow one's originality and uniqueness as an individual to shine forth it has an emotionally cleansing and clearing effect on others, which helps them to re ceive the nurturing from the universe that they need.
-- `Moon/Uranus = Chiron`: Your energy helps others to release pent-up energies in their unconscious and to get more deeply in touch with their instincts. Also, you help them to experience life in a newer, freer way. The ability to free others from insecurities.
+Moon, Chiron and Uranus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Uranus](../axes/chiron-uranus.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Uranus](../axes/moon-uranus.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [Uranus](../factors/uranus.md)

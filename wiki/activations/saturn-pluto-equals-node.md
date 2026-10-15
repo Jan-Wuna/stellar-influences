@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Node`
 - Astronomicon formula: `W/Z = g`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 To be tied to people, things or conditions, to which one gets very slowly used to. Separated connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source page: `352`; PDF page: `175`.
 
 Development of a painful connection, developing contacts in old age, problematic change in a relationship, maturity development in a connection, lossy change in a relationship, and growing tasks of a connection
 
@@ -51,11 +57,15 @@ Development of a painful connection, developing contacts in old age, problematic
 
 #### Ebertin Entry
 
+- Source page: `254`; entry code: `0899`.
+
 The misery of the masses, common suffering shared with many people together.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 One’s connections are imbued with deep seriousness and profundity. One relentlessly seeks to go beyond the limits of one’s connections and to connect at an ever deeper level. The need in this lifetime for spiritual transformation.
 
@@ -70,22 +80,21 @@ Associating with or meeting those who plan and work hard before they proceed wit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious connections that develop slowly under difficult or consequential conditions.
+- psychology: A persistent wish to deepen connection and move beyond its limits.
+- body/health: Shared suffering is named without a specific bodily condition.
+- social/relationship: Painful bonds, collective hardship and contacts with people who hold influence.
+- events/manifestations: Slow adjustment, separation, growing shared tasks and meetings before important work.
+- conflicts/notes: Spiritual transformation and destiny language remain source-attributed; connections need not imply coercion.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe painful ties, collective suffering and purposeful association at different scales. Sandbach adds a spiritual account of depth; this is a difference of framework, not an explicit denial of hardship.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Node`: consequential alliances, institutional toughness, and bonds formed through necessity rather than ease. Main caution: coercion: group ties can become controlling, fear-based, or difficult to leave without deep consequence.
+In `Saturn/Pluto = Node`, Node specifies the development through ties to other people: adjustment may be slow, a bond may become painful, and its tasks may grow as it matures or changes ([Witte](#witte-entry), [ABC](#abc-entry)). Shared hardship can extend beyond one relationship to a wider group ([Ebertin](#ebertin-entry)). Other entries emphasize deliberately seeking deeper connection or meeting people who plan carefully and hold influence ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). The connection is consequential, but its depth does not by itself establish either spiritual transformation or abuse of power.
 
 ## Links
 

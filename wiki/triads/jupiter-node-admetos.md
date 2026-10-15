@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Node Admetos`
 - Astronomicon triad-set: `V g ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Admetos = Node](../activations/jupiter-admetos-equals-node.md)
-- [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
-- [Node/Admetos = Jupiter](../activations/node-admetos-equals-jupiter.md)
+- [Jupiter/Admetos = Node](../activations/jupiter-admetos-equals-node.md): base axis [Jupiter/Admetos](../axes/jupiter-admetos.md); activator [Node](../factors/node.md).
+- [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md): base axis [Jupiter/Node](../axes/jupiter-node.md); activator [Admetos](../factors/admetos.md).
+- [Node/Admetos = Jupiter](../activations/node-admetos-equals-jupiter.md): base axis [Node/Admetos](../axes/node-admetos.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
-- `Jupiter/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `342`
-- `Jupiter/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
-- `Jupiter/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `215`
-- `Node/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `234`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Admetos = Node](../activations/jupiter-admetos-equals-node.md#witte-entry) (PDF entry-start p. 216); [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md#witte-entry) (PDF entry-start p. 144); [Node/Admetos = Jupiter](../activations/node-admetos-equals-jupiter.md#witte-entry) (PDF entry-start p. 154).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Admetos = Node](../activations/jupiter-admetos-equals-node.md#abc-entry) (printed p. 342); [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md#abc-entry) (printed p. 215); [Node/Admetos = Jupiter](../activations/node-admetos-equals-jupiter.md#abc-entry) (printed p. 234).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Node`: feeling lucky through connection with only a few.
-- `Jupiter/Node = Admetos`: the ending of a happy union.
-- `Node/Admetos = Jupiter`: To be modest. To be happy and fortunate with few. Content with little. To have a modest stroke of fortune. Free from bonds.
+Jupiter, Node and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Jupiter/Node](../axes/jupiter-node.md)
+- [Node/Admetos](../axes/node-admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)

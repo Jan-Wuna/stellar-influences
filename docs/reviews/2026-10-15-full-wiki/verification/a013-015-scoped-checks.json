@@ -1,0 +1,38 @@
+{
+  "assignments": {
+    "activations-013": {
+      "assigned": 55,
+      "records": 55,
+      "unique": 55,
+      "missing": [],
+      "duplicates": [],
+      "outside": []
+    },
+    "activations-014": {
+      "assigned": 55,
+      "records": 55,
+      "unique": 55,
+      "missing": [],
+      "duplicates": [],
+      "outside": []
+    },
+    "activations-015": {
+      "assigned": 55,
+      "records": 55,
+      "unique": 55,
+      "missing": [],
+      "duplicates": [],
+      "outside": []
+    }
+  },
+  "continuation_records": 104,
+  "source_changed_blocks": 77,
+  "source_changed_pages": 72,
+  "source_diff_sha256": "d8e6195802d26194ef7031ebc173540b363e8a651d58643394eff6db77950d79",
+  "scoped_git_diff_check_exit": 0,
+  "errors": [],
+  "scope": "104 continuation pages; existing61 records preserved; no whole-corpus test or independent source-approval claim",
+  "bibliographic_limits": [
+    "Hades/Vulcanus=MC and Vernal Point: exact Witte PDF285 usable; printed folio not visible."
+  ]
+}

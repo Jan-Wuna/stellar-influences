@@ -28,25 +28,29 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Node Poseidon`
 - Astronomicon triad-set: `W g ¨`
 
+This hub groups the unordered `Saturn Node Poseidon` set for sibling lookup. [Choose the exact orientation](#orientation-map); each linked activation keeps its own meaning.
+
 ## Orientation Map
 
-- [Node/Poseidon = Saturn](../activations/node-poseidon-equals-saturn.md)
-- [Saturn/Node = Poseidon](../activations/saturn-node-equals-poseidon.md)
-- [Saturn/Poseidon = Node](../activations/saturn-poseidon-equals-node.md)
+- [Node/Poseidon = Saturn](../activations/node-poseidon-equals-saturn.md) — base axis [Node/Poseidon](../axes/node-poseidon.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Node = Poseidon](../activations/saturn-node-equals-poseidon.md) — base axis [Saturn/Node](../axes/saturn-node.md); activator [Poseidon](../factors/poseidon.md).
+- [Saturn/Poseidon = Node](../activations/saturn-poseidon-equals-node.md) — base axis [Saturn/Poseidon](../axes/saturn-poseidon.md); activator [Node](../factors/node.md).
 
 ## Source Coverage
 
-- `Node/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `239`
-- `Saturn/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `217`
-- `Saturn/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
-- `Saturn/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `368`
+Coverage below records the source entries currently present on each linked activation page; it does not establish complete coverage of the source works. The references retained here use the page systems named beside them.
+
+- `Node/Poseidon = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-poseidon-equals-saturn.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `156`.
+- `Node/Poseidon = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-poseidon-equals-saturn.md#udo-rudolph---abc-for-planetary-pictures), printed page `239`.
+- `Saturn/Node = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-poseidon.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `145`.
+- `Saturn/Node = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-poseidon.md#udo-rudolph---abc-for-planetary-pictures), printed page `217`.
+- `Saturn/Poseidon = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-poseidon-equals-node.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `231`.
+- `Saturn/Poseidon = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-poseidon-equals-node.md#udo-rudolph---abc-for-planetary-pictures), printed page `368`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Saturn`: To have to deal with educators and students. Serious or separated mental connections.
+Use the [Orientation Map](#orientation-map) to choose the base pair and the factor after `=`. For this triad, `Node/Poseidon = Saturn`, `Saturn/Node = Poseidon` and `Saturn/Poseidon = Node` are distinct reading routes. Follow the selected activation for its source entries and interpretation; the unordered triad supplies no merged meaning.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Printed page: `273`; PDF page: `269` (complete bold pair paragraph checked against actual scan).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ The head of the family. Distinguished or illustrious society or company. Great a
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `428`; PDF page: `213` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-View of a community, special community, joint leadership, hierarchical community, art, self sufficient art, self conscious community, state community, and important community
+German pair summary (transcribed from printed page `428`; PDF page `213`):
+
+> Ansehen einer Gemeinschaft, besondere Gemeinschaft, gemeinsame Leitung, hierarchische Gemeinschaft, Kunst-Autorität, selbständige Kunst, selbstbewußte Gemeinschaft, staatliche Gemeinschaft, wichtige Gemeinschaft
+
+Editorial translation from the German passage: Standing of a community, special community, joint leadership, hierarchical community, authority in art, independent art, self-confident community, state community, important community.
+
+## Comparative Schema
+
+- Core meaning: Authority, prominence, and formal organization within family, society, and art ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: The entries emphasize standing and leadership rather than an individual's emotional style.
+- Body/health: No physical condition or treatment is named.
+- Social/relationship: The head of a family, distinguished company, joint leadership, and a hierarchical community are explicit themes.
+- Events/manifestations: Large enterprises, government meetings, registry and marriage offices, patronage, and recognized art are examples.
+- Conflicts/notes: Standing and artistic authority are named alongside official leadership and hierarchy. These are distinct collective expressions, without a claim that prominence always entails dominance.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ View of a community, special community, joint leadership, hierarchical community
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Kronos`: distinguished communal form: the head of the family, illustrious societies, large corporations, patronage, registry offices, official marriage structures, and art backed by status or high recognition.
-- Chart expression: bonds organized through hierarchy, prestige, and public authority, often showing elite circles, noble or official family structures, state-recognized unions, and artistic or social life carried by rank and institution. It can show patronage, ceremonial office, prominent social position, and communities that take their shape from formal standing. Liabilities: elitism, cold formality, domination by status, and the substitution of rank, legality, or public image for living human bond.
+`Cupido/Kronos` concerns association with recognized leadership, standing, or institutional authority. The head of a family, distinguished society, a large enterprise, and a meeting of government leaders place collective life within a formal order. Registry and marriage offices make this official dimension concrete ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+Artistic distinction and patronage belong to the same range: great art, artists, and their protectors are specifically named. Recognition and support within collective life therefore connect the institutional and artistic examples ([Pair Summary](#pair-summary)).
 
 ## Links
 

@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + POSEIDON`
+- PDF page (one-based): `264` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Mental, spiritual and educational transformation and development. The developmen
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `422–423`; PDF page (one-based): `210` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-insight, evolution knowledge, intellectual development, ideas change, cultural changes, change development, truth development, and growing Kjarheit
+Developing insight, insights into evolution, mental/spiritual development, change of ideas, clear development, cultural transformations, development of reason, unfolding of truth, growing clarity.
+
+## Comparative Schema
+
+- core meaning: transformation of understanding, ideas, spiritual orientation, or worldview ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: development of mental skills and changes in mental/spiritual inclinations are explicit in Witte; ABC adds insight, changing ideas, development of reason and growing clarity.
+- body/health: neither pair summary supplies a bodily or medical correspondence.
+- social/relationship: educational and cultural developments are named, but intimate or group relationships are not directly delineated.
+- events/manifestations: a changing view of life or the world and cultural change are source expressions; no concrete event sequence is given.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, restoring development of reason, clear development and growing clarity. These source ideals do not prove that every changed view is true or superior.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ insight, evolution knowledge, intellectual development, ideas change, cultural c
 - [Pluto/Poseidon = Vulcanus](../activations/pluto-poseidon-equals-vulcanus.md)
 - [Pluto/Poseidon = Zeus](../activations/pluto-poseidon-equals-zeus.md)
 
+## Contradictions
+
+Mental, spiritual, educational, and cultural changes are distinct contexts of the shared development theme; these brief entries supply no explicit incompatible claim. ABC's complete bold summary was retranslated from PDF210, printed422–423; Witte's exact pair passage is confirmed on PDF264.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes mental, spiritual and educational transformation and development; The development of the spiritual and mental behavior and inclinations.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Poseidon` concerns development that changes how life is understood. The [pair summary](#pair-summary) connects mental, spiritual, and educational transformation with a changed view of the world and the growth of mental skills. The [ABC entry](#abc-pair-summary) extends this to developing insight and reason, changing ideas, cultural transformations and growing clarity, so the range includes both personal understanding and a wider intellectual or cultural setting.
+
+The summaries do not establish that every new idea is true, that spiritual growth follows one necessary course, or that a specific event must occur. ABC's unfolding of truth names an ideal within the source's vocabulary rather than independently verifying a belief. No bodily or relationship delineation can be supplied from these entries alone, and third-factor specifications remain separate [activations](#related-activations).
 
 ## Links
 

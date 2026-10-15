@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,27 +67,44 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
-The relationship, the emotional or the mental attitude, of the native toward the world in general. The I” as embodied on the earth. Particularities of the time (moment) for several in one place.
+Source reference: PDF page `35`, chapter heading `ARIES + MERIDIAN` (normalized here as Vernal Point/MC).
+
+The relationship, the emotional or the mental attitude, of the native toward the world in general. The “I” as embodied on the earth. Particularities of the time (moment) for several in one place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-I, in public life, my public, my world, minute in public, soul of the earth, earth inner, the public consciousness, and the self in public
+Source reference: printed page `18`, PDF page `8`, bold pair summary.
+
+Source wording: "Beseelte Öffentlichkeit, ich im öffentlichen Leben, meine Öffentlichkeit, meine Welt, Minute in der Öffentlichkeit, Seele der Erde, Erd-Inneres, das öffentliche Bewußtsein, das Selbst in der Öffentlichkeit".
+
+Editorial translation, checked against the scan: A public imbued with soul; I in public life; my public; my world; a minute in public life; soul of the Earth; the Earth's interior; public consciousness; the self in public life.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
+Source reference: PDF page `214`, entry `Midheaven/Aries`.
+
 One's own seeking to get ahead in the larger social world. The ability to achieve one's goals in the context of the prevailing social order. Seems to relate to the ability of a person to become well known.
 
-ZODIACAL POSITION
+## Comparative Schema
+
+- Core meaning: The self's relation to the wider world connects the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Emotional or mental attitude toward the world and the wish to advance within its social order are explicit.
+- Body/health: The phrase about the "I" embodied on Earth is a description of selfhood, not a specific medical association in these entries.
+- Social/relationship: Public consciousness, one's world, and the prevailing social order provide the setting for personal goals and public recognition.
+- Events/manifestations: Achieving goals in that order and possibly becoming well known are supported by Hand, who states the latter tentatively. ABC separately names the soul and interior of the Earth without explaining their connection to public advancement.
+- Conflicts/notes: Witte's quotation punctuation and ABC's literal phrases have been checked against the scans. Hand's following chapter heading, "ZODIACAL POSITION," begins on PDF page `215` and is excluded from the pair entry.
 
 ## Related Activations
 
@@ -112,11 +129,16 @@ ZODIACAL POSITION
 - [Vernal Point/MC = Vulcanus](../activations/vernal-point-mc-equals-vulcanus.md)
 - [Vernal Point/MC = Zeus](../activations/vernal-point-mc-equals-zeus.md)
 
+## Contradictions
+
+The pair summary describes a relation and attitude toward the world; the pair delineation emphasizes advancement within the social order. This is a difference of emphasis, not proof that public ambition exhausts the axis or that recognition is assured.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC` is the axis of public ambition, worldly significance, and the effort to establish oneself meaningfully within the prevailing social order.
-- Chart expression: reputation, achievement, vocation with broad visibility, and the desire to become known or consequential beyond one's private sphere. Liabilities: status hunger, overidentification with recognition, and sacrificing inner direction to public expectations.
+Vernal Point/MC concerns how the self relates to the wider world: the emotional or mental attitude taken toward it and the place one seeks within it. That relation is explicit in the [pair summary](#pair-summary) and the public-self language of the [ABC entry](#abc-pair-summary). The [pair delineation](#pair-delineation) gives it an active form in pursuing goals and advancement within the prevailing social order.
+
+Public achievement is thus one expression of a broader self-and-world relationship. Hand only tentatively connects it with becoming well known, so visibility remains a possibility rather than a promised result. ABC also preserves the soul and interior of the Earth as distinct motifs; the entries do not explain their relationship to social advancement.
 
 ## Links
 

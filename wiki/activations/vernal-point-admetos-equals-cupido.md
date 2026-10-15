@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Cupido Admetos](../triads/vernal-point-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Something is under exclusion of the public. Small communities. Property of a company. Deaths in the family. Isolation. Dead arts.
 
@@ -42,13 +46,27 @@ Something is under exclusion of the public. Small communities. Property of a com
 
 #### ABC Entry
 
-Community in the public sphere
+- Source page: 55; PDF page: 26 (one-based spread).
+
+A community's perseverance in public, a restricted public community, shared public circulation, shared public resistance, a thoroughgoing community in public life, and a suppressed community in public
+
+## Comparative Schema
+
+- core meaning: A community's restricted access, isolation, property, or public resistance.
+- psychology: Collective perseverance is named.
+- body/health: No bodily mechanism is supplied.
+- social/relationship: Small communities and family or company settings.
+- events/manifestations: Exclusion of the public, company property, isolation, and suppressed community; Witte also lists family deaths and dead arts.
+- conflicts/notes: Shared public circulation is source terminology without a supplied mechanism; death examples remain attributed.
+
+## Contradictions
+
+Exclusion from the public and a community's public perseverance are different conditions. The restored ABC entry is more specific than its former location-only summary.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Cupido`: something is under exclusion of the public, small communities, property of a company, deaths in the family, and isolation.
-- Practical expression: community in the public sphere.
+In `Vernal Point/Admetos = Cupido`, Cupido specifies the pair through a bounded community or association. The [Witte entry](#witte-entry) names exclusion of the public, small communities, company property, and isolation. The restored [ABC entry](#abc-entry) adds collective perseverance and resistance under restriction or suppression. Family deaths and dead arts remain separate historical Witte examples; the organizing social theme is the community's limits and persistence rather than an inevitable loss.
 
 ## Links
 

@@ -27,8 +27,10 @@ related_activations:
   - Venus/Saturn = Node
   - Venus/Saturn = Pluto
   - Venus/Saturn = Poseidon
+  - Venus/Saturn = Saturn
   - Venus/Saturn = Sun
   - Venus/Saturn = Uranus
+  - Venus/Saturn = Venus
   - Venus/Saturn = Vernal Point
   - Venus/Saturn = Vulcanus
   - Venus/Saturn = Zeus
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Venus/Saturn`
 - Astronomicon axis: `Q/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); related activations retain distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/SATURN`
-- Source page: `195`
+- Source heading: `VENUS + SATURN`
+- PDF page: 178.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Interrupted harmony. Hindered inclinations. Passing affection. Love’s sorrow. 
 
 #### ABC Pair Summary
 
-serious art, Friedenstorungen, segregated love, harmony in old age, harmonyproblems, inhibitions in love, concentration on the artificial, love as a task, love pain, problematic artificial, and maturing love
+- Printed pages: 274–275; PDF page: 136.
+
+Serious art, disturbances of peace, separated love, harmony in old age, harmony problems, inhibitions in love, concentration on art, love as a task, pain in love, problematic art, maturing love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 181; PDF page: 183.
 
 #### Principle
 
@@ -112,7 +119,7 @@ Lonely people inspired by a great sense of duty, but also the opposite, such as 
 
 #### Probable Manifestations
 
-+ Love unions with appreciable difference in age, the capability to make sacrifices for other people. - Difficulties in love life, scenes of jealousy, the stage of sobering down again, separation in love. (Separation from the mother.) Venus/Saturn 9/h
++ Love unions with appreciable difference in age, the capability to make sacrifices for other people. - Difficulties in love life, scenes of jealousy, the stage of sobering down again, separation in love. (Separation from the mother.)
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -170,6 +177,8 @@ It must be stated frankly that this combination is of a serious kind. I have cer
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 57 (Principle and Process).
+
 #### Principle
 
 Spiritual love. Love hard-won. A lack of love in one’s life which at worst can make one cold-hearted. To seek love that is deep and enduring. Simple, classic, and/ or conservative tastes. To appreciate things in a profound way. A dislike of clutter. The flowering of love in maturity. To be attracted to older people. A love union that is of a practical nature. Feeling that one cannot connect may lead to a desire for solitude.
@@ -179,6 +188,8 @@ Spiritual love. Love hard-won. A lack of love in one’s life which at worst can
 The appreciation of the value of limitations and the growth and awareness which they may bring. A continual deepening of one ability to love, and especially to be able to value the challenges and restrictions of life. The ability to perceive the spiritual value inherent in all life.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 206.
 
 #### Pair Delineation
 
@@ -219,25 +230,25 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Saturn: Commitment`
-- PDF page(s): `313`
+- PDF page(s): `313–314`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Young Girl and the Wise Old Man
 - shadow: The Heartless Woman and the Embittered Man
 - comparison: Grace Severity Playful Responsible Light Heavy Love Duty Affectionate Tough Pampered Austere Open Closed Erotic Ascetic Says “yes” Says “no” Carefree Mistrusting Cheerful Serious
-- general: Simple beauty . Enjoyment of clear forms and structure . The beauty of the bare —the winter landscape. The peace of stillness . Not permitting oneself anything .
-- harmony: The Dutiful Individual. Caring, responsible, faithful, and steadfast in friendship and partnership. Sobriety and earnest in matters of love. Seeks a mature partner. Great loyalty within the relationship. Can— when it appears to be necessary—love in strict asceticism. Love that blossoms under particularly difficult, modest, or impoverished circumstances.
-- discord: The Unhappy Person. Difficulties making contact. Feels lonely and unloved—with and without a relationship. Mistrustful, stiff, and usually disapproving about matters of love and toward everything feminine. Can't believe that one is truly loved and continuously demands new guarantees and proof of love in a relationship. Inability to enjoy, or embitterment causes asceticism.
+- general: Simple (♄) beauty (♀). Enjoyment (♀) of clear forms (♄) and structure (♄). The beauty (♀) of the bare (♄)—the winter landscape. The peace (♀) of stillness (♄). Not permitting (♀) oneself anything (♄).
+- harmony: The Dutiful Individual. Caring, responsible, faithful, and steadfast in friendship and partnership. Sobriety and earnest in matters of love. Seeks a mature partner. Great loyalty within the relationship. Can— when it appears to be necessary—love in strict asceticism. Love that blossoms under particularly difficult, modest, or impoverished circumstances. Believing in a partner who is difficult, ill, or marked by destiny.
+- discord: The Unhappy Person. Difficulties making contact. Feels lonely and unloved—with and without a relationship. Mistrustful, stiff, and usually disapproving about matters of love and toward everything feminine. Can't believe that one is truly loved and continuously demands new guarantees and proof of love in a relationship. Inability to enjoy, or embitterment causes asceticism. “Falls in love” only when it's a hopeless case or becomes completely withdrawn because of fear of being rejected or deserted in any case. Relationships with a large age difference. Extreme outer hardening as a result of difficult, unmastered inner wounds. Lacking in imagination, blunt, and inhibited when it comes to eroticism. Can't really pamper oneself. Bad taste.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: affection and pleasure under restraint, duty or limitation, with serious enduring love as well as inhibition and separation ([Witte](#pair-summary), [ABC](#abc-pair-summary), [Ebertin](#principle)).
+- psychology: loyalty, realism, thrift and self-control coexist with fear of rejection, dissatisfaction, jealousy or difficulty expressing warmth ([psychological correspondence](#psychological-correspondence), [aspect keywords](#banzhafhaebler-aspect-keywords)).
+- body/health: Ebertin supplies glandular and Munkasey sensory/throat/joint claims; Carter calls ill-health less characteristic than emotional difficulty. These historical correspondences establish no diagnosis ([biological](#biological-correspondence), [body or mind](#with-body-or-mind), [Carter](#inharmonious-aspects)).
+- social/relationship: mature or age-different bonds, fidelity and sacrifice may coexist with blocked affection, solitude or family obligations ([manifestations](#probable-manifestations), [Sandbach](#principle-1), [Carter](#inharmonious-aspects)).
+- events/manifestations: disciplined art, classic taste, harmony in age, practical/commercial creativity and financial restriction; separation is one source branch rather than an inevitable result ([ABC](#abc-pair-summary), [Falis](#falis-entry), [Hand](#pair-delineation), [politics/business](#in-politics-or-business)).
+- conflicts/notes: Carter gives ordinary happiness a more severe assessment across aspect classes, while other entries explicitly include enduring enjoyment and maturity. Harmony/discord distinctions remain source-specific; neither fidelity nor misfortune is automatic ([Carter](#harmonious-aspects), [Munkasey](#basic-ideas)).
 
 ## Related Activations
 
@@ -257,23 +268,24 @@ Diminishes your sense of smell and taste; restricts passages in the throat; poor
 - [Venus/Saturn = Node](../activations/venus-saturn-equals-node.md)
 - [Venus/Saturn = Pluto](../activations/venus-saturn-equals-pluto.md)
 - [Venus/Saturn = Poseidon](../activations/venus-saturn-equals-poseidon.md)
+- [Venus/Saturn = Saturn](../activations/venus-saturn-equals-saturn.md)
 - [Venus/Saturn = Sun](../activations/venus-saturn-equals-sun.md)
 - [Venus/Saturn = Uranus](../activations/venus-saturn-equals-uranus.md)
+- [Venus/Saturn = Venus](../activations/venus-saturn-equals-venus.md)
 - [Venus/Saturn = Vernal Point](../activations/venus-saturn-equals-vernal-point.md)
 - [Venus/Saturn = Vulcanus](../activations/venus-saturn-equals-vulcanus.md)
 - [Venus/Saturn = Zeus](../activations/venus-saturn-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Carter treats ordinary happiness more pessimistically even under harmonious aspects, while allowing spiritual beauty and loyalty. Witte, Udo, Sandbach and Munkasey explicitly retain long-lasting love, maturity or enduring enjoyment. These differences in weight should not be flattened into either universal misery or assured commitment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn` is the axis of restrained affection, loyalty, seriousness, and enduring value built through limitation or sacrifice. It combines love, pleasure, beauty, and relationship with duty, realism, delay, sobriety, and the weight of emotional consequences.
-- Chart expression: fidelity, mature bonds, classic taste, thrift, patient artistry, and the ability to value what lasts rather than what merely pleases in the moment. Liabilities: coldness, inhibition, loneliness, jealousy, fear of rejection, delayed or burdened relationships, and the feeling that love or pleasure must be earned through hardship, duty, or self-denial.
+`Venus/Saturn` places affection and enjoyment in contact with limits, duty and time. Love may become serious, reserved or difficult to express; the same range includes fidelity, self-control, maturity and an enduring attachment. The [Witte](#pair-summary) and [Udo](#abc-pair-summary) summaries retain long-lasting or maturing love beside sorrow, separation and inhibited affection. [Ebertin](#psychological-correspondence) adds realism and loyalty alongside emotional dissatisfaction, while [Sandbach](#principle-1) describes profound appreciation, simple tastes and love flowering in maturity. His [Process](#process) treats limitations as possible occasions for deeper love and spiritual understanding.
+
+This seriousness also reaches art and material life: [Falis](#falis-entry) includes creative discipline and classic beauty, [Hand](#pair-delineation) practical or commercial creativity, and [Munkasey](#in-politics-or-business) restrictions on wealth and enterprise value. In relationships, simple enduring affection can coexist with inadequate enjoyment, coolness or fear of rejection ([Munkasey](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)). [Carter](#harmonious-aspects) gives ordinary happiness a more severe assessment across aspect classes, though he allows spiritual beauty and unusual loyalty; that emphasis remains distinct from the other entries' enduring enjoyment. These alternatives and historical bodily or family examples establish no inevitable separation, illness or fixed character. Each closing factor requires its own oriented activation.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Pluto MC Kronos](../triads/pluto-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To develop and show one’s ability. Subjected to great tests in destiny as well
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-my special development, my development in hierarchy, my development in the State, my development to self gloriousness, my great change, my growing authorship, and my self glorious psychic development
+Editorial translation (checked against the scan): My special development, my development within hierarchy, my development in the state, my development toward independence, my great change, my growing authority, independent inner development.
+
+## Comparative Schema
+
+- core meaning: Developing and showing ability while undergoing major tests and personal change.
+- psychology: Independent inner development and personal authority.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Personal development within hierarchy or the state.
+- events/manifestations: Major life changes and tests of ability in daily life.
+- conflicts/notes: Tests are explicit; increased rank or responsibility is not guaranteed.
+
+## Contradictions
+
+Witte stresses testing and demonstrating ability; ABC emphasizes independence and authority. The latter does not establish that every test is passed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = MC`: personal development toward authority; The native grows into greater responsibility or rank.
-- Practical expression: my special development, my development in hierarchy, my development in the State, my development to self gloriousness, and my great change.
+MC specifies Pluto/Kronos through personal development tested in daily life and larger changes. The [Witte entry](#witte-entry) links showing one's ability with great tests and transformation; the [ABC entry](#abc-entry) adds development within hierarchy or the state, independence, and growing authority. This is a development of capacity and position under pressure, with no assurance that the test leads to greater rank.
 
 ## Links
 

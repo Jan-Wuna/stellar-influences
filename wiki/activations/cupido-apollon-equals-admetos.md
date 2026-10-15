@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Cupido Apollon Admetos](../triads/cupido-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ To be noticed in a small circle for artistic or scientific accomplishments. The 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 431).
+
 #### ABC Entry
 
-Blocked artistic freedom, restricted success community, successful deepening in the arts, freedom restriction of a community, fundamental knowledge of the arts, resistance to a successful community, and increasingly blocked communities
+Editorial English translation, checked against the German scan:
+
+Blocked artistic freedom; restricted success community; successful deepening in art; restriction of a community's freedom; thorough artistic knowledge; resistance against a successful community; increasingly blocked communities.
+
+## Comparative Schema
+
+- core meaning: Recognition and knowledge within restricted artistic or scientific association.
+- psychology: No distinct psychological disposition is specified.
+- body/health: No specific physical or medical claim.
+- social/relationship: Recognition in a small circle.
+- events/manifestations: Hindered artistic or scientific possibilities; restricted freedom and deepening artistic knowledge.
+- conflicts/notes: Restriction coexists with successful deepening; the entries do not describe a group's exclusivity.
+
+## Contradictions And Differences
+
+Restriction coexists with successful deepening; the entries do not describe a group's exclusivity. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Admetos`: real merit in a restricted network and to success that stays contained rather than spreading widely. Main caution: remaining boxed into a niche or having expansion blocked just as recognition begins.
+`Cupido/Apollon = Admetos` concerns artistic or scientific accomplishment recognized within a small circle while wider possibilities remain hindered. The [Witte entry](#witte-entry) gives that restricted recognition; the [ABC entry](#abc-entry) adds blocked artistic freedom and communal success, but also successful deepening in art and thorough artistic knowledge. The formula therefore permits substantive accomplishment under limits without establishing why those limits occur.
 
 ## Links
 

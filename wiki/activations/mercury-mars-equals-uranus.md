@@ -33,27 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Mars Uranus](../triads/mercury-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<4> To talk loud and quickly. Inclined to sudden anger. Sudden executed act. Raving.
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
+
+To talk loud and quickly. Inclined to sudden anger. Sudden executed act. Raving.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `243`; PDF page: `120`.
+
 #### ABC Entry
 
-Exciting language at work, talk about work rhythm, talk about renewal of work, exciting number activity, edit language renewal, active movement rhythm, and restless work meetings
+German passage (transcribed from PDF page `120`, printed page `243`):
+
+> Aufregende Gespräche bei der Arbeit, Gespräche über Arbeits-Rhythmus, Gespräche über Erneuerung der Arbeit, spannende Erzähl-Tätigkeit, Sprach-Erneuerung bearbeiten, tatkräftiger Bewegungs-Rhythmus, unruhige Arbeits-Besprechungen
+
+Editorial translation from the German passage: Exciting conversations at work; conversations about work rhythm; conversations about renewal of work; exciting storytelling activity; working on language renewal; energetic movement rhythm; restless work discussions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `149`; entry code: `0476`.
 
 #### Ebertin Entry
 
 To act with lightning speed, decision-making during a state of emotional upset, loss of self-control (frenzy, delirium or violent insanity). An exciting surprise, a decision made in haste, action without deliberation. Danger of catastrophes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Unusual approaches to discussing arguments which have irritated people in the pa
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden, original thought and rapidly executed action.
+- psychology: Inventive debate can coexist with anger, emotional upset, or loss of deliberation.
+- body/health: Sandbach's accident statement and Ebertin's historical psychiatric terms remain attributed, not diagnostic.
+- social/relationship: Unexpected approaches to old arguments and surprising outcomes from talks.
+- events/manifestations: Rapid decisions, sudden acts, and revised ideas.
+- conflicts/notes: Originality and dangerous haste are distinct; ABC includes exciting storytelling and restless work discussions.
 
 ## Contradictions
 
-- None recorded yet.
+Original argument, unexpected outcomes and hasty anger are distinct possibilities. ABC adds storytelling and work renewal; Ebertin's psychiatric language remains historical.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Uranus`: originality under pressure, fast tactical intelligence, and a gift for breaking deadlocks through unexpected ideas or arguments. Main caution: volatility: haste, frenzy, or overexcitation can turn sharp intelligence into reckless or catastrophic action.
+Uranus specifies Mercury/Mars through suddenness in ideas, argument, and action. [Sandbach](#sandbach-entry) describes original ways of joining ideas and a talent for debate, while [Witte](#witte-entry) and [Ebertin](#ebertin-entry) show speed becoming anger or action without deliberation. [Munkasey](#munkasey-entry) (p. 152) adds unexpected approaches and outcomes in discussion. The entries support inventive verbal speed alongside volatility; their accident and catastrophe examples do not establish that a particular event will occur.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Apollon Vulcanus](../triads/saturn-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To teach or to educate. One who is taught and educated. Many are under supervisi
 
 Successful influence in old age, enormous tasks of science, enormous pain experiences, powerful success concentration, loss of a successful influence, a lot of shocks from violence, increasing energy problems, and increasing hardness and violence
 
+## Comparative Schema
+
+- core meaning: Supervision, education and large demands on knowledge or influence.
+- psychology: Strong concentration on success.
+- body/health: ABC mentions intense painful experiences without a specific diagnosis.
+- social/relationship: Teaching or being taught; many supervise or are supervised.
+- events/manifestations: Large scientific tasks, energy problems and loss of effective influence.
+- conflicts/notes: Witte's education theme remains distinct from ABC's force and success vocabulary.
+
+## Contradictions
+
+The sources emphasize education and supervision versus large-scale demands and force; neither explicitly denies the other's field.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Apollon`: to teach or to educate, one who is taught and educated, many are under supervision or have something to supervise.
-- Practical expression: successful influence in old age, enormous tasks of science, enormous pain experiences, powerful success concentration, and loss of a successful influence.
+Apollon specifies Saturn/Vulcanus through the reach of supervision and demanding work with knowledge. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) describes teaching, being educated and responsibility for many; the [ABC Entry](#abc-entry) (printed p. 367; PDF p. 182) adds scientific tasks and intense concentration on success alongside loss of influence and energy problems. Education is therefore a sourced practical expression, while the broader burdens should not be collapsed into it.
 
 ## Links
 

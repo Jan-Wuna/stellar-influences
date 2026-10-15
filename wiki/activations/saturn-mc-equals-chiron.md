@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn Chiron MC](../triads/saturn-chiron-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
 Your vibration helps others to be more high minded and to feel a deeper con nection to their spiritual self. You also help them, to the extent that they are ready, to listen to and follow their own inner guidance.
 
+## Comparative Schema
+
+- core meaning: helping others connect with their spiritual self and inner guidance.
+- psychology: a more high-minded outlook and attention to inner direction.
+- body/health: The entry contains no bodily or medical claim.
+- social/relationship: an encouraging influence on others, qualified by their readiness.
+- events/manifestations: others may become more receptive to their own inner guidance.
+- conflicts/notes: This is Sandbach's single spiritual-framework entry; it does not specify a vocation or a clinical healing outcome.
+
+## Contradictions
+
+- The readiness qualification limits the scope of the helping influence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/MC = Chiron` channels Chiron through seriousness of purpose and inner guidance. The presence can help others connect with a higher-minded or spiritual self and follow their own direction; the caution is to respect readiness rather than press guidance onto someone prematurely.
+In `Saturn/MC = Chiron`, Chiron specifies the Saturn/MC axis through an influence that helps others listen to their own spiritual guidance. [Sandbach](#sandbach-entry) describes encouraging a more high-minded outlook and a deeper connection with the spiritual self. That help depends expressly on the other person's readiness; the entry presents inner guidance as something they follow themselves.
 
 ## Links
 

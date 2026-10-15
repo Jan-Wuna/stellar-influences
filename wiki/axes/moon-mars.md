@@ -11,6 +11,8 @@ normalized_axis: Moon/Mars
 factor_a: Moon
 factor_b: Mars
 related_activations:
+  - Moon/Mars = Mars
+  - Moon/Mars = Moon
   - Moon/Mars = Admetos
   - Moon/Mars = Apollon
   - Moon/Mars = Asc
@@ -75,24 +77,30 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/U`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/MARS`
-- Source page: `111`
+- Source heading: `MOON + MARS`
+- Printed page: `128`; PDF page: `124`
 
 #### Pair Summary
 
-Consciousness. The active brain. Working processes in the brain. Acts of volition. The sweetheart. The wife or mistress. The active woman, rhe household. The working time. The working hour. The industrious or efficacious populace. Energetic woman. The labouring class. The working people. The working woman.
+Consciousness. The active brain. Working processes in the brain. Acts of volition. The sweetheart. The wife or mistress. The active woman. The household. The working time. The working hour. The industrious or efficacious populace. Energetic woman. The labouring class. The working people. The working woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Printed pages: `180–181`; PDF page: `89`
 
 #### ABC Pair Summary
 
 Hour of work, women's work, actions of feeling, the woman's actions, the masculine principle in the woman, a productive people, hour of drive, feminine drive, and the will of the people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `119`; PDF page: `121`
 
 #### Principle
 
@@ -112,7 +120,7 @@ The wife, a woman colleague, a woman imbued with fighting spirit, a hard-working
 
 #### Probable Manifestations
 
-+ Enterprises which have been started with vigor. The state of becoming a wife. - The tendency to become involved in quarrels, demonstration of intolerance, marital differences. Moon/Mars D/cT
++ Enterprises which have been started with vigor. The state of becoming a wife. - The tendency to become involved in quarrels, demonstration of intolerance, marital differences.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -121,6 +129,8 @@ The wife, a woman colleague, a woman imbued with fighting spirit, a hard-working
 Forcefully acting on emotions. Energetic emotional life. Touchy feelings. Defen sive. Standing up for mom. Standing up for women in general. Fighting on behalf of women. Fighting against women. Fighting with mom. Anger toward mom. Feel ing emotionally nourished through activity. Feeling happy when active. Feeling happy with physical exertion. Feeling happy being the leader. Leading women. Being aggressive with women. An aggressive woman. A woman in a man's world. Feeling happy being alone. Feeling happy being independent. Feel good about standing up for yourself. Standing up for people you care for. Changing action pat terns. Acting on feelings. Fluctuating action. Acting on intuition. Acting from a place of inner knowing. Feeling out actions. Emotional aggression. Responding with anger. Responding with force. Abrupt responses. Emotional drive. Driven by hunger. Habitual violence. Domestic violence. Quick responses. Eating quickly. Quick to move-on emotionally. Feeling supported by men. Feeling nurtured by the masculine. Feeling comforted by men. Feeling comfortable with speed. Feeling happy when things are moving fast. Comfortable with violence. Liking an active home. Wanting stimulation at home. Needing stimulation to feel relaxed and safe. Comfortable with competition. Nourished and supported by competition. Needing competition to feel happy. Needing to be competitive. Competitive with mom. Competitive at home. Com peting with women who seem like mother figures. Emotionally brave. Emotionally daring. A habit of taking risks. Unafraid. Sexual habits. Aggressive habits. Asserting how you feel. Recognizing your individual feelings. Fighting for your emotional rights. Fighting to make your feelings known. Actively securing your home and family. Actively defending the country. Steamy emotional life. Getting hot under the collar. You know what you want and you know how to get it. You know how to go after what will make you happy. You assert yourself toward getting your needs met. You assert yourself in getting what will make you happy. Emotionally fierce. Domestic leader. Leading by appealing to emotions. An angry mother. An independent woman. An independent mother. A brave mother. A mother who is a leader. A mother who experienced violence. A mother who is assertive. A mother who is defensive. A violent mother. A sporty mother. Mom is a fitness trainer. Mom is a race car driver. Mom is an athlete. Moody actions. Acting on moods. Domestic warrior. Feeling like a warrior. How you feel about the masculine. How mom nur tured the masculine in her son. Whether a man feels in touch with his masculine side, or estranged from it. How you feel about your masculine role models. How you feel about violence. Feeling like a man. Feminist.
 
 ### Charles Carter - The Astrological Aspects
+
+- Printed/PDF pages: `24–25` (flagged spellings and complete pair boundary checked against scans).
 
 #### Harmonious Aspects
 
@@ -215,7 +225,7 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Mars: Daring`
-- PDF page(s): `293`
+- PDF page(s): `293–294` (complete pair entry and boundary checked against scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -224,18 +234,21 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 - comparison: Feminine Masculine Passive Active Wish Deed Passion Courage Powers of the soul Muscle power Mother Son Longing Greed Homeland War
 - general: Passionate desire . Acting on the basis of feeling . Becoming emotionally excited . Conquering or defending her nest . Fighting for one's own or an entrusted brood .
 - harmony: The Spunky Person. Spontaneous, courageous actions based on an emotional impulse. Good sense of the right point in time. The more vehement and holy the feelings, the greater the intrepidity. Committed champion of those who have been entrusted to one, and the needy. Or the fervent protector of nature. Decisive, passionate, direct, and open.
-- discord: The Uncontrolled Individual. Severe tensions between disposition and aggression, anger and instinctual desire as the cause of massive problems with aggression like destructive frenzy and acts committed in the heat of passion, as well as stomach problems resulting from “swallowing” anger. Deeply injured, churned-up feelings lead to explosive outbursts of passion.
+- discord: The Uncontrolled Individual. Severe tensions between disposition and aggression, anger and instinctual desire as the cause of massive problems with aggression like destructive frenzy and acts committed in the heat of passion, as well as stomach problems resulting from “swallowing” anger. Deeply injured, churned-up feelings lead to explosive outbursts of passion, vindictiveness, uncontrolled instinctive behavior, and chronic irritability. Constant inner unrest and hastiness. Aggressive feelings toward everything that is motherly. Fighting, repressing, or devastating what could provide a feeling of security.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: feeling moves directly into action, producing emotional assertion, protective effort, enterprise, or impulsive conflict.
+- psychology: courage, frankness, practical will, and quick instinct coexist with irritability, impatience, rashness, and fluctuating energy; Carter also preserves a quieter, penetrating form of practical thought.
+- body/health: Ebertin associates the pair with involuntary muscular reactions and thyroid conditions; Munkasey and Banzhaf/Haebler discuss heat and stomach complaints. These remain historical medical correspondences, not diagnoses or life-expectancy claims.
+- social/relationship: defending those one cares for can turn into anger at their needs; sources describe active women and family competition, with conflicts over emotional expression and care.
+- events/manifestations: vigorous undertakings, work and labor, physical competition, and quarrels are explicit; Witte and Udo extend productive action to the working people, while Munkasey includes land and resource activity.
+- conflicts/notes: action from feeling need not mean aggression or violence. Carter's aspect distinctions, gendered judgments, and conditional family examples remain limited to their stated contexts; activation outcomes are not interchangeable pair meanings.
 
 ## Related Activations
+
+- [Moon/Mars = Mars](../activations/moon-mars-equals-mars.md)
+- [Moon/Mars = Moon](../activations/moon-mars-equals-moon.md)
 
 - [Moon/Mars = Admetos](../activations/moon-mars-equals-admetos.md)
 - [Moon/Mars = Apollon](../activations/moon-mars-equals-apollon.md)
@@ -261,15 +274,15 @@ Glandular secretions which come too quickly; heat buildup in or on the body; ene
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Protective courage, active care, and quarrelsome haste are a range within the entries; Carter's additional deep-thinking expression should not be erased by an exclusively combative reading. His judgments about marriage, women, illness, and lifespan remain historical source claims.
+- Carter actually prints `Marian austerity` on printed/PDF24 and `imcompatibility` on25; these literal source spellings are retained without inferring replacements. Banzhaf's omitted discord continuation is restored from PDF294.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars` is the axis of reactive passion, instinctive action, emotional courage, and the urge to defend needs immediately. It combines feeling, habit, and nurture with heat, assertion, conflict, and the body's quick response to hunger, pressure, or threat.
-- Chart expression: frank emotional expression, protective force, industriousness, competitive feeling, and the tendency to act from instinct rather than deliberation. Liabilities: irritability, touchiness, quarrels, domestic conflict, rash reactions, and moods that turn quickly into anger, haste, or combativeness.
+`Moon/Mars` describes feeling that promptly becomes an act: asserting a need, meeting a challenge, protecting someone, or expressing anger. Its strength is direct, courageous involvement rather than detached concern. The same immediacy can outrun patience and become touchiness, quarrelling, or action taken before its consequences are considered. Caring and fighting are therefore linked possibilities: the wish to defend can mobilize effort, yet frustration with another's needs can turn that effort against them ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols), [Munkasey, printed p. 111](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+
+The pair also concerns work and practical purpose, including industrious people, active women in the sources' historical language, and the effort of running or defending a household. Carter retains a less obvious expression in deep, penetrating thought with a practical aim, so outward combativeness does not exhaust the evidence. Physical vigor, competition, domestic conflict, or violence are possible source examples, not necessary outcomes of the pair; specific activations must be read on their own pages ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Udo Rudolph](#udo-rudolph---abc-for-planetary-pictures), [Carter](#charles-carter---the-astrological-aspects), [Banzhaf/Haebler, PDF p. 293](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

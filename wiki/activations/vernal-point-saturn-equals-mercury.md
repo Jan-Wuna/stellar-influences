@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Mercury Saturn](../triads/vernal-point-mercury-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Gloomy thoughts. News of losses. Deserted.
 
@@ -42,13 +46,27 @@ Gloomy thoughts. News of losses. Deserted.
 
 #### ABC Entry
 
-Incriminating public speech, reports on public tasks, youth and age in public life, news about public losses, problems of youth in public life, and separation language in public
+- Source page: 36; PDF page: 17 (one-based spread).
+
+Burdensome public conversations, reports about public tasks, youth and age in public life, news of public losses, problems of youth in public life, and public conversations about separation
+
+## Comparative Schema
+
+- core meaning: Public burdens expressed through thought, news, and difficult conversations.
+- psychology: Gloomy thoughts are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Youth, age, and separation conversations.
+- events/manifestations: Reports on public tasks and news of losses.
+- conflicts/notes: Burdensome conversation is not necessarily incriminating speech.
+
+## Contradictions
+
+No direct contradiction is established. Reporting public tasks and difficult news are different forms of serious communication.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Mercury`: gloomy thoughts, news of losses, and deserted.
-- Practical expression: incriminating public speech, reports on public tasks, youth, age in public life, and news about public losses.
+In `Vernal Point/Saturn = Mercury`, public difficulty is thought about, discussed, and reported. The [Witte entry](#witte-entry) emphasizes gloomy thoughts and news of losses. The restored [ABC entry](#abc-entry) adds burdensome conversations, public tasks, youth problems, and separation discussions. The common theme is communication carrying the weight of obligations or loss, without an unsupported accusation of wrongdoing.
 
 ## Links
 

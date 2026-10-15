@@ -19,10 +19,12 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entry](#source-entries).
 
 - Formula: `Moon/MC = Chiron`
 - Astronomicon formula: `R/MC = Chiron`
@@ -33,15 +35,29 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source locator: one-based PDF p. 40, complete Chiron paragraph between Saturn and Uranus under the Moon/Midheaven chapter checked.
+
 #### Sandbach Entry
 
 Your energy helps others to be more receptive and impressionable to mes sages and impulses coming from the spiritual realms. You also help them to get in touch with how they feel about their place in life and what type of life work would be truly emotionally fulfilling for them.
 
+## Comparative Schema
+
+- core meaning: Helping others become receptive to spiritual impulses and recognize emotionally fulfilling life work. [Sandbach](#sandbach-entry).
+- psychology: Greater contact with feelings about one's place in life and receptivity to spiritual messages are stated. [Sandbach](#sandbach-entry).
+- body/health: No bodily condition, diagnosis or healing outcome is specified.
+- social/relationship: The emphasis is on helping other people understand their feelings and life work. [Sandbach](#sandbach-entry).
+- events/manifestations: Exploring what work would be emotionally fulfilling is a source example; no occupation is prescribed. [Sandbach](#sandbach-entry).
+- conflicts/notes: This is one source's spiritual interpretation; it does not establish a special ability or a promise of inner repair.
+
+## Contradictions
+
+Only Sandbach is represented for this orientation, so no cross-source agreement or disagreement can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/MC = Chiron`: Your energy helps others to be more receptive and impressionable to mes sages and impulses coming from the spiritual realms. You also help them to get in touch with how they feel about their place in life and what type of life work would be truly emotionally fulfilling for them.
-- Practical focus: makes `Moon/MC` receptive, healing, and vocationally clarifying. The person often helps others sense what kind of life path would truly nourish them, while opening spiritual or intuitive channels, so emotional selfhood becomes a guide toward calling, belonging, and inner repair.
+In `Moon/MC = Chiron`, the [Sandbach entry](#sandbach-entry) places the emphasis on helping others become receptive to spiritual messages and impulses, while recognizing how they feel about their place in life. The practical direction is toward understanding what kind of life work would feel emotionally fulfilling. This single-source account connects spiritual receptivity with emotional orientation in life; it does not specify a healing outcome or a particular calling.
 
 ## Links
 

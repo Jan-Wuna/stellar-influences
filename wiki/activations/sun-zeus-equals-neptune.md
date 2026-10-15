@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Neptune`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = Y`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Neptune Zeus](../triads/sun-neptune-zeus.md)
@@ -42,13 +43,31 @@ Denial of procreation. Incompetent leader. Fraudulent leader. Leading into unexp
 
 #### ABC Entry
 
-Fire water for the man, achievements of a man in the Lull, practical objectives in metaphysics, personal efforts in the water, sensitivity of a creative person, start of a man in the air, and procreation weakness of a man
+Source: ABC printed p. 163, supplied PDF p. 80, Sonne + Zeus, Neptune row (seven clauses). Translation from the German scan:
+
+Fire-water for the man; a man's achievements in the air; personal goals in metaphysics; personal efforts in water; sensitivity of a creative person; a man's start into the air; a man's procreative weakness.
+
+The scan prints Feuer-Wasser and Luft; this short row does not explain their concrete context.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Leadership or procreative intention may fail or be refused.
+- psychology: Witte includes incompetence and fraud in leadership.
+- body/health: Witte's denial of procreation and ABC's procreative weakness remain attributed historical claims.
+- social/relationship: The fraudulent leader is a source possibility, not a general character judgment.
+- events/manifestations: Unexplored territories and fire departments are Witte's concrete alternatives.
+- conflicts/notes: The entry's unexplored-field theme differs from failed leadership and must remain visible.
+
+## Contradictions
+
+No direct contradiction is established. ABC's creative sensitivity and personal metaphysical goals broaden the range beyond failed leadership. Its literal fire-water and air phrases remain contextually unspecified, rather than authorizing a particular substance, occupation or event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Neptune`: creative imagination and fiery inspiration.
-- Practical expression: fire water for the man, achievements of a man in the Lull, practical objectives in metaphysics, personal efforts in the water, and sensitivity of a creative person.
+Neptune specifies Sun/Zeus through uncertain direction of creative or leading effort: Witte includes incompetent or fraudulent leadership and denial of procreation. He also gives leading into unexplored territory and fire departments, while ABC adds creative sensitivity and personal metaphysical goals, preserving a wider range than failure alone. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

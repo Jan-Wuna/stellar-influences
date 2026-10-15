@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mercury Mars Neptune](../triads/mercury-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Obstructed action of the brain. The boundary between genius and insanity. Hypertensive thinking.
 
@@ -45,11 +49,15 @@ Obstructed action of the brain. The boundary between genius and insanity. Hypert
 
 #### ABC Entry
 
-Work meetings in the air, reports on foreign work, movement work in the water, fine tuning youth work, talk about future work, metaphysical actions of the youth, insecure working language, and traffic activity in the water
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Work discussions in the air, reports on work by others, movement work in water, sensitive work with youth, conversations about future work, metaphysical actions of youth, uncertain work discussions, and transport activity in water.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Neptune,” printed p. 211, entry 0725.
 
 Thoughtlessness, nervous weakness (in consequence of drugs or misuse of energy), weakness of mind, sensitive nerves, (a receptive mind). Many plans without a chance of realization.
 
@@ -57,7 +65,9 @@ Thoughtlessness, nervous weakness (in consequence of drugs or misuse of energy),
 
 #### Sandbach Entry
 
-To be capable of a subtle pointedness or intensity when communicating. Psy chic disturbances and attacks agitate the nervous system. To be clever and resourceful in figuring out ways to help people.
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 72.
+
+To be capable of a subtle pointedness or intensity when communicating. Psychic disturbances and attacks agitate the nervous system. To be clever and resourceful in figuring out ways to help people.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ The adaptability you show when taking the power of the visions or dreams you hav
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sensitive or intense communication and plans whose practical realization may be uncertain.
+- psychology: Resourcefulness and receptivity alongside thoughtlessness or unrealizable plans.
+- body/health: Witte's brain and mental-illness language, Ebertin's drug- or energy-related nervous weakness, and Sandbach's nervous agitation are attributed claims.
+- social/relationship: Sharing dreams or visions and helping others through clever solutions.
+- events/manifestations: Work discussions, gathering mystical knowledge, and plans that may remain unrealized.
+- conflicts/notes: Clever, helpful communication and receptive thought coexist with obstruction or unrealizable plans; they are not a uniform judgment of mental ability.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's resourceful help differs in emphasis from Witte's obstruction and Ebertin's unrealizable plans. The entries retain both effective communication and difficulty carrying plans through.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Mercury`: inspired ideas, perceptive sensitivity, and cleverness in helping or understanding hidden conflicts. Main caution: mental unreliability: too many unrealizable plans, overstimulated nerves, or confused intensity can blur judgment and weaken execution.
+In `Mars/Neptune = Mercury`, Mercury specifies the pair through sensitive, pointed communication and the attempt to carry subtle ideas into action. Sandbach's resourceful help and Munkasey's sharing of visions sit beside Ebertin's many unrealizable plans. ABC gives concrete settings: work discussions, sensitive work with youth, future-work conversations, and transport activity in water. These preserve both ingenuity and uncertainty in execution. The brain, mental-illness, and nervous-system statements remain attributed historical or spiritual claims. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 211, entry 0725; [Sandbach](#sandbach-entry), PDF p. 72; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

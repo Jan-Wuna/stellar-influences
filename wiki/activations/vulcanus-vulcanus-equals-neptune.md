@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Vulcanus/Vulcanus](../axes/vulcanus-vulcanus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 #### Witte Entry
 
-§fnsibility. Power one cannot hear or see. The might of the fine material forces. j^S^n’ T° be without power, might, strength or influence. Mighty deception or issolution. Power comes from hidden sources. Powerlessness.
+- PDF page: 313 (one-based).
+
+Sensibility. Power one cannot hear or see. The might of the fine material forces. To resign. To be without power, might, strength or influence. Mighty deception or dissolution. Power comes from hidden sources. Powerlessness.
+
+## Comparative Schema
+
+- core meaning: Power becomes hidden, dissolved or absent.
+- psychology: Sensitivity and resignation.
+- body/health: Fine-material forces are source vocabulary without a medical mechanism.
+- social/relationship: Unseen influence and loss of influence.
+- events/manifestations: Hidden sources of power, deception and powerlessness.
+- conflicts/notes: One source only; hidden power and no power are distinct alternatives.
+
+## Contradictions
+
+Only Witte is present. Unseen force, deception and actual powerlessness should remain distinguishable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vulcanus/Vulcanus = Neptune` dissolves or conceals great force: power one cannot hear or see, the might of fine-material forces, hidden sources of power, deception or dissolution, and loss of power, strength, or influence.
+`Vulcanus/Vulcanus = Neptune` describes force whose presence or effectiveness is unclear. Witte gives power that cannot be heard or seen and hidden sources of influence, but also dissolution, resignation and complete powerlessness. Sensibility and fine-material forces remain attributed source terms; hidden influence should not be assumed where the entry also permits its absence. ([Witte](#witte-entry))
 
 ## Links
 

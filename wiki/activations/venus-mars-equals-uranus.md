@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Uranus](../triads/venus-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Sexual violence (interference). By surprise or unexpectedly to meet again relati
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `271`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Exciting peace work, peaceful will impulses, experience love wooln, new Licbe's efforts, sudden love actions, rhythmic art, restlessness in peace commitments, and preference for technical work
+Exciting peace work, peaceful impulses of will, wanting to experience love, new efforts in love, sudden acts of love, rhythmic artistic activity, unrest in efforts for peace, and preference for technical work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0584`.
 
 #### Ebertin Entry
 
 Passionate desire, excessive expression of love. A sudden awakening of physical passion, an irresistible force of desire, sexual assault (an abdominal operation).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ An upsetting or unusual movement when showing grace during action; expressing be
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Abrupt or individual passion, unusual action, and sudden re-established contact.
+- Psychology: Sudden desire, inspired effectiveness, independence, or erratic anger.
+- Body/health: The historical entries include sexual violence and an abdominal operation; neither establishes an event or medical outcome.
+- Social/relationship: Unexpected meetings with relatives or old intimates; abrupt passion may delight or intimidate a partner.
+- Events/manifestations: Rhythmic art, technical work, inventive accomplishment, and renewed relationships.
+- Conflicts/notes: The severe violence clauses must not be equated with consensual passion or attributed to a person's conduct.
 
 ## Contradictions
 
-- None recorded yet.
+- The severe violence clauses must not be equated with consensual passion or attributed to a person's conduct.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Uranus`: exciting magnetism, inventive pleasure, and the ability to ignite change through attraction and action together. Main caution: volatile desire: relationships can become erratic, impulsive, or too addicted to intensity and novelty to stabilize.
+`Venus/Mars = Uranus` makes passion and action sudden or highly individual. [Witte](#witte-entry) includes unexpected meetings with relatives or old intimates and re-established relations, while the [ABC entry](#abc-entry) adds abrupt acts of love, rhythmic art, technical work, and unrest in peace efforts. [Sandbach](#sandbach-entry) allows both inspired ways of accomplishing things and passionate expression that may delight or intimidate a partner. [Munkasey](#munkasey-entry) adds unusual movement, independence, and erratic anger. The sexual violence or assault clauses in Witte and [Ebertin](#ebertin-entry) are severe historical assertions, distinct from consensual intensity; Ebertin's operation reference is likewise no medical prediction.
 
 ## Links
 

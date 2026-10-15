@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Z = V`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
 - Triad hub: [Vernal Point Jupiter Pluto](../triads/vernal-point-jupiter-pluto.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ Fortunate developments. Changes in the monetary system.
 
 #### ABC Entry
 
-Successful changes in the public, financial changes in the public, gliickliche development in the public, legal developments in the public life, and satisfaction about the public changes
+- Source reference: printed p. `42`, one-based PDF p. `20`, complete Jupiter row.
+
+German passage transcribed from the scan:
+
+> Erfolgreiche Wandlungen in der Öffentlichkeit, finanzielle Veränderungen in der Öffentlichkeit, glückliche Entfaltung in der Öffentlichkeit, Rechts-Entwicklungen im öffentlichen Leben, Zufriedenheit über die öffentlichen Veränderungen
+
+Editorial translation: Successful changes in public; financial changes in public; fortunate unfolding in public; legal developments in public life; satisfaction with public changes.
+
+## Comparative Schema
+
+- Core meaning: Favorable public development, especially financial, monetary, and legal change.
+- Psychology: Satisfaction with public changes is explicitly named.
+- Body/health: No specific bodily or health meaning is supplied by either entry.
+- Social/relationship: The setting is public institutions and collective change; a particular personal relationship is not described.
+- Events/manifestations: Monetary-system changes, financial developments, and legal developments provide the concrete examples.
+- Conflicts/notes: ABC names fortunate unfolding alongside success and satisfaction; these are possible qualities, not a guarantee of every financial or legal change.
+
+## Contradictions
+
+The entries do not oppose one another: monetary change is a particular example within a broader favorable-development theme. Neither promises that every monetary or legal change will succeed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Jupiter`: fortunate developments and changes in the monetary system.
-- Practical expression: successful changes in the public, financial changes in the public, gliickliche development in the public, legal developments in the public life, and satisfaction about the public changes.
+In `Vernal Point/Pluto = Jupiter`, Jupiter specifies public development through favorable outcomes and satisfaction with change. The concrete field includes changes in money, finance, and law, joining the monetary-system example in the [Witte entry](#witte-entry) with the wider public financial and legal developments in the [ABC entry](#abc-entry). The formula's supported theme is successful or welcome development in those settings, without a guarantee of personal wealth.
 
 ## Links
 

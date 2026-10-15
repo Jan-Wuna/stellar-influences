@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Node MC](../triads/mercury-node-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 Thoughts about the beginning of new relationships.
 
@@ -45,17 +49,25 @@ Thoughts about the beginning of new relationships.
 
 #### ABC Entry
 
-I at the thinking of connections, my meetings in the Y return, my relations in the youth, my conversations with the youth, my contacts with the media, and my opinion on ties
+German passage (transcribed from PDF page `33`, printed page `68`):
+
+> Beseelte Gesprächs-Verbindung, beseelte Kontakte in der Jugend, ich denke an Verbindungen, meine Begegnungen im Verkehr, meine Beziehungen in der Jugend, meine Gespräche mit der Jugend, meine Kontakte zu den Medien, meine Meinung über Bindungen
+
+Editorial translation from the German passage: A soulful conversational connection; soulful contacts in youth; I think of connections; my encounters in traffic; my relationships in youth; my conversations with young people; my contacts with the media; my opinion about ties.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 174, coded entry 0576.
 
 Desire to let other people know one's opinions, tendency to seek friends with the same interests in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 To connect with people in the search for ultimate truth. To need connections with others who will respect and look up to one’s ideas. In this lifetime one is growing in terms of developing one’s mental powers and the ability to think clearly and spiritually.
 
@@ -70,22 +82,21 @@ Associations with different people who can help you to gain stature and recognit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal views developed or shared through relationships.
+- psychology: Seeking others with related interests and respect for one's ideas.
+- body/health: No specific bodily or health claim appears.
+- social/relationship: New relationships, friendship, family kinship, and truth-seeking connections.
+- events/manifestations: Contacts that offer opportunities or recognition.
+- conflicts/notes: Sandbach's need for respect is explicit, without establishing dependence on agreement.
 
 ## Contradictions
 
-- None recorded yet.
+Seeking like-minded friends, respectful truth-seeking companions, and opportunity-opening associates are different uses of relationships. They do not require uniform agreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Node`: friendships of mind, collaborative planning, and development through exchanging ideas with people who matter to one's aims. Main caution: dependence on agreement: the search for resonance can turn into echo chambers or overreliance on approval from one's circle.
+Node specifies Mercury/MC through relationships that give one's thinking an audience or a direction. The [Witte entry](#witte-entry) names thoughts about new relationships, and [Ebertin](#ebertin-entry) connects sharing opinions with seeking like-minded friends. [Sandbach](#sandbach-entry) gives the particular wish for truth-seeking companions who respect one's ideas, while [Munkasey](#munkasey-entry) (p. 184) adds family kinship and contacts that open opportunities. These are different uses of connection, without assuming that agreement necessarily becomes dependence.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Neptune](../triads/sun-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,17 +47,29 @@ The fraudulent active man. The deceived husband. The impotent husband. To lose t
 
 #### ABC Entry
 
-Work of foreign persons, fine daily work, corporal work on/in or with water, personal work in the air, and refinement of personal work
+Source locator: printed page 147 / PDF page 72, Neptune glyph under Sonne + Mars. English translation checked against the complete seven-clause row.
+
+Work of unfamiliar persons, sensitive daily efforts, physical work at/in or with water, personal activity in the air, personal shaping of the future, unclear personal will, and refinement of personal work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Disinclination to work, lack of energy, dishonest activity. The undermining of one's vocational position, receiving notice, disappointment, fraud. Lack of vitality, illness. Deceived, defrauded or weak husband. 5In interpretations on the basis of transits or directions the conditions and circumstances of the native would always be considered. A call-up for military service can only occur if the native is a certain age or if a war has broken out. At other times such a combination would work out differently. In the case of criminals Uranus = Sun/Mars might result in imprisonment. These combinations may perhaps best be interpreted as a compulsory change in the life and the work of the native.
+Source locator: printed page 87 / PDF page 89, code 0225 (Neptune).
+
+Disinclination to work, lack of energy, dishonest activity. The undermining of one's vocational position, receiving notice, disappointment, fraud. Lack of vitality, illness. Deceived, defrauded or weak husband.
+
+#### Contextual Source Footnote 5
+
+Source locator: printed page 87 / PDF page 89. The footnote marker belongs to Uranus, code 0224, rather than Neptune, code 0225. Retained here as source context.
+
+In interpretations on the basis of transits or directions the conditions and circumstances of the native would always be considered. A call-up for military service can only occur if the native is a certain age or if a war has broken out. At other times such a combination would work out differently. In the case of criminals Uranus = Sun/Mars might result in imprisonment. These combinations may perhaps best be interpreted as a compulsory change in the life and the work of the native.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 12, complete Neptune entry under Planets activating the Sun/Mars midpoint.
 
 To feel unable to get things accomplished. Lack of vitality due to one’s subtle energies being out of balance, or maybe due to the draining of one’s subtle energies.
 
@@ -70,22 +84,21 @@ Adds a basic fundamental flaw in your physical development; alcohol or drugs whi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Effort frustrated, depleted, or difficult to assess accurately.
+- psychology: Feeling unable to accomplish; idealized competitive ability.
+- body/health: Fatigue and illness are attributed source claims.
+- social/relationship: Deception and husband examples remain attributed.
+- events/manifestations: Vocational undermining, disappointment, or refined work.
+- conflicts/notes: Ebertin's separately labeled footnote 5 is attached to Uranus, code 0224; it supplies no additional Neptune doctrine.
 
 ## Contradictions
 
-- None recorded yet.
+ABC also names refined work and work with water or air, unlike the depletion emphasis elsewhere; these are different applications rather than a direct denial. The separately labeled Ebertin footnote is marked at Uranus = Sun/Mars and does not define Neptune’s activation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Neptune`: depleted vitality, vocational undermining, and action compromised by subtle imbalance, disappointment, or dishonesty. Main caution: demobilization: force leaks away through exhaustion, deception, or goals that cannot be clearly or honestly pursued.
+In `Sun/Mars = Neptune`, Neptune specifies Sun/Mars activity through reduced effectiveness or uncertainty about one’s capacity to act. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) include being out of action and vocational disappointment; the [Sandbach Entry](#sandbach-entry) describes feeling unable to accomplish, with its subtle-energy explanation remaining attributed. The [Munkasey Entry](#munkasey-entry) adds an idealized or deceptive view of physical ability. The [ABC Entry](#abc-entry) preserves a separate refinement and water-or-air work strand, so the formula should not be reduced to dishonesty or illness.
 
 ## Links
 

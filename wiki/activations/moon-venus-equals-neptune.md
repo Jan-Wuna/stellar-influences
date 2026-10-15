@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Neptune`
 - Astronomicon formula: `R/Q = Y`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,36 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: printed p. `127`, PDF p. `123` (entry).
+
 #### Witte Entry
 
 Unselfish love. Dreaming. Unfortunate (unhappy) love of a woman. The infection of a woman. Interruption of pregnancy. Denial of motherhood.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `179`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Interchangeable love for women, exchange of a gentle woman, peace expectations of a people, love exchange of a woman, unclear women's whims, uncertainty of women's love, refined love for women, and belief in love for women
+Disappointing love for a woman, a beautiful woman's disappointment, a people's expectations of peace, a woman's disappointment in love, unclear wishes of women, a woman's uncertainty in love, refined love for a woman, and rejection of love for a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `117`, entry `0345`.
+
 #### Ebertin Entry
 
-Moody, impressionable, tendency to be tempted or seduced easily, misguided or misdirected feelings of love, an unnatural behavior. Weakened or abnormal gland activity. Love expressing itself in the wrong way, an unhappy love, the necessity for renunciation. 18 In many cases one can replace the word "love" with the word "art." MoonA/enus = Mercury has been found in the case of many artistically creative people. 19 Moon/Venus = Uranus has often been found in female charts to indicate early love relationships, seduction and rape.
+Moody, impressionable, tendency to be tempted or seduced easily, misguided or misdirected feelings of love, an unnatural behavior. Weakened or abnormal gland activity. Love expressing itself in the wrong way, an unhappy love, the necessity for renunciation.
+
+Source footnotes on printed p. `117` (PDF p. `119`) are separate from Neptune entry `0345`:
+
+- `18`, attached to Mars entry `0341`: “In many cases one can replace the word "love" with the word "art." Moon/Venus = Mercury has been found in the case of many artistically creative people.”
+- `19`, attached to Uranus entry `0344`: “Moon/Venus = Uranus has often been found in female charts to indicate early love relationships, seduction and rape.” This is Ebertin's historical claim about that orientation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `28` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +85,23 @@ Increased sensitivity to the artistic side of life, and your ability to read the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sensitivity or refined feeling accompanied by uncertainty, disappointment, or confused emotional exchange.
+- psychology: impressionability, dreaming, hidden feelings, and artistic sensitivity are named.
+- body/health: Witte's infection and pregnancy claims and Ebertin's glandular claims remain historical doctrine.
+- social/relationship: unselfish or unhappy love, disappearing love, and misuse of another's good intentions are examples.
+- events/manifestations: expectations of peace, artistic responsiveness, renunciation, and love's disappearance are stated.
+- conflicts/notes: Ebertin's footnotes18/19 concern other activators and are separated; intuitive feeling does not settle accuracy.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach describes both attunement and confusion in relationships; Munkasey similarly pairs artistic sensitivity with misuse or disappearing love. Ebertin's evaluative and bodily language remains attributed rather than defining those sensitivities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Neptune` channels the tender, receptive love of the Moon/Venus axis through Neptune, turning affection into romantic longing, idealized tenderness, and soulful sensitivity. It points to emotional harmony experienced as dream, devotion, or the wish to be dissolved into beauty and care.
-- Chart expression: romantic softness, aesthetic feeling, and the need to love through compassion, atmosphere, and subtle emotional resonance. Main caution: idealized attachment, because tenderness can become porous, projected, or too vague to hold cleanly in real life.
+In Moon/Venus = Neptune, Neptune specifies the pair through sensitivity to affection whose meaning or reliability may be uncertain. [Sandbach](#sandbach-entry) describes awareness of subtle feelings and intuitive nurturing alongside confusion about emotional exchanges. [Munkasey](#munkasey-entry) adds artistic sensitivity, temporary involvement, and the possible misuse of help (p. 108), while [ABC](#abc-entry) names disappointment, unclear wishes, and refined love (printed p. 179, PDF p. 88).
+
+The [Witte entry](#witte-entry) includes dreaming, unselfish love, and unhappy love. Its infection and reproductive claims, together with [Ebertin's](#ebertin-entry) glandular claims and historically evaluative language, remain attributed source doctrine. Emotional sensitivity does not establish those conditions or guarantee insight into another person.
 
 ## Links
 

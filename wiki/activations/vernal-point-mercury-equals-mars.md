@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Mars](../triads/vernal-point-mercury-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 General excitement. Quarrels in public. Masses in action.
 
@@ -42,13 +46,27 @@ General excitement. Quarrels in public. Masses in action.
 
 #### ABC Entry
 
-Discuss actions in the public, work meetings in the public, language about public work, youth work in the public life, media creation in the public, and news activity for the public
+- Source page: 28; PDF page: 13 (one-based spread).
+
+Discussing public actions, public work discussions, conversations about public relations work, youth work in public life, media creation in public, and news activity for the public
+
+## Comparative Schema
+
+- core meaning: Public thought turned into activity, debate, and communicative work.
+- psychology: General excitement is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Masses in action and public quarrels.
+- events/manifestations: Work discussions, youth work, media creation, and news activity.
+- conflicts/notes: Quarrels are one possibility; practical communication need not be contentious.
+
+## Contradictions
+
+Witte emphasizes excitement and quarrels, while ABC also supplies ordinary working discussion and media production. Both forms remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Mars`: general excitement, quarrels in public, and masses in action.
-- Practical expression: discuss actions in the public, work meetings in the public, language about public work, youth work in the public life, and media creation in the public.
+In `Vernal Point/Mercury = Mars`, public thought becomes active speech and organized communication. The [Witte entry](#witte-entry) highlights excitement, quarrels, and masses in action. The restored [ABC entry](#abc-entry) gives a practical range of work discussions, public relations, youth work, media creation, and news activity. The shared theme is communication doing something in public, with conflict as one possible form.
 
 ## Links
 

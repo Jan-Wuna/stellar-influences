@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Pluto = Moon`
 - Astronomicon formula: `X/Z = R`
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 235, `URANUS + PLUTO`, Moon entry.
+
 #### Witte Entry
 
 Actions of the glands change suddenly. Sudden changes in the public for several persons, especially females.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. 372 (PDF p. 185), Uranus/Pluto spread, Moon entry.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Exciting changes of a people, excited feelings development, sudden change of a w
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. 269 (PDF p. 271), code `0952`.
+
 #### Ebertin Entry
 
 Intuition, restlessness, daring and audacious, ambition, determination. Bringing about changes by force.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Pluto midpoint`, Moon entry (chapter begins on PDF p. 105).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ A sensitivity and awareness of the needs of others, despite desires to work alon
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional freedom, determination and changing feeling patterns. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Intuition, restlessness, ambition and an intense need to be oneself. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Witte's changing glandular action remains an attributed historical correspondence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Others' needs can remain important alongside a wish to work alone. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Public changes, women's changing rhythms and new presentations of traditional methods. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Sensitivity to others and overcoming their impressions are different emphases; gland and gender examples do not establish a diagnosis or universal role. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's emotional freedom and resistance to others' impressions coexist with Munkasey's sensitivity to their needs. Witte's glandular and gender-specific claims and Ebertin's forceful change remain attributed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Moon`: radical emotional awakening, intense instinctive change, and the ability to feel collective rupture personally. Main caution: nervous or emotional extremity: the inner life can become too unstable, compulsive, or crisis-driven to rest safely.
+Moon specifies Uranus/Pluto through a determined need for emotional freedom and change. Feelings may emerge with unusual openness, while intuition and restlessness support the wish to be oneself despite others' impressions. Sensitivity to others can remain present even with a desire to work alone, and new explanations may reshape traditional methods. The glandular, public and gender-specific examples remain attributed source associations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

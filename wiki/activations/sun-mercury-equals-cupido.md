@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Cupido](../triads/sun-mercury-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Thoughts about art, community or marriage. An early marriage. Correspondence between marriage partners. Young male relatives, or ones in-laws.
 
+Source locator: PDF p. 103, Sun/Mercury, Cupido entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-mobile community of persons, shared body language, community for bodily movement, community of young people, conversations in of a community center, male conversation community, and community of personal traffic
+Mobile community of persons, shared body language, community for bodily movement, community of young people, conversations in a community center, male conversation community, and a community for passenger transport.
+
+Source locator: printed p. 143, PDF p. 70, Sun/Mercury, Cupido entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Thought, communication or movement shared within a community or relationship.
+- psychology: Thoughts about art, community or marriage are explicit; no fuller character portrait is supplied.
+- body/health: Shared body language and bodily movement are named without a health claim.
+- social/relationship: Marriage correspondence, young relatives or in-laws, youth groups and conversation communities.
+- events/manifestations: A community center, passenger-transport community and Witte's early-marriage example.
+- conflicts/notes: Early marriage is a historical source association, not an age or timing rule; shared activity does not establish a family-defined identity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mercury = Cupido`: family speech and identity expressed through one's circle.
-- Practical expression: mobile community of persons, shared body language, community for bodily movement, community of young people, and conversations in a community center.
+`Sun/Mercury = Cupido` places thinking and communication within shared life. [Witte](#witte-entry) gives thoughts about art, community or marriage, correspondence between partners and young relatives or in-laws; [ABC](#abc-entry) adds conversation communities, youth groups and shared body language or movement. Its community center and passenger-transport association extend the same collective setting into everyday organization. The emphasis is exchange and activity among people connected together, with marriage and kinship retained as particular forms rather than the whole meaning.
 
 ## Links
 

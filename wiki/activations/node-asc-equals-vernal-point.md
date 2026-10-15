@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Asc](../axes/node-asc.md)
 - Triad hub: [Vernal Point Node Asc](../triads/vernal-point-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Acquaintances and connections with many in public life.
 
 Meetings at public places, public partner mediation, partner connections in public, environmental connections in public life, and connections with others in public
 
+## Comparative Schema
+
+- core meaning: Acquaintances and partner connections in public life.
+- psychology: No specific motive or psychological disposition is stated.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Contact with many people and public partner mediation.
+- events/manifestations: Meetings at public places and connections made in public.
+- conflicts/notes: Public setting is explicit; fame, office, and personal popularity are not established.
+
+## Contradictions
+
+The two entries share a public-contact theme. Neither states how successful or enduring these contacts become.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Asc = Vernal Point`: Acquaintances and connections with many in public life.
-- Practical focus: acquaintances and connections with many in public life.
+Vernal Point specifies Node/Asc as encounters and partnerships taking place in public life. The emphasis is on meeting others in public places and being connected with many people, including public partner mediation. The [Witte entry](#witte-entry) and [ABC entry](#abc-entry) support this setting; they do not establish fame or a particular public role.
 
 ## Links
 

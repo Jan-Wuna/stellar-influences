@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Venus = Vulcanus`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = §`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Vulcanus](../triads/sun-venus-vulcanus.md)
@@ -42,13 +43,29 @@ Passionate love of a man. Physical longing for something.
 
 #### ABC Entry
 
-Influence of a artificial center, joy over body power, love power of man, power through carperal love, powerful peace center, personal love influence, strength and shame of a man, and preference for body power
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, Vulcanus row (eight clauses). Translation from the German scan:
+
+Influence of an art center; joy in bodily strength; the man's power of love; power through physical love; a powerful center of peace; personal influence through love; a man's strength and beauty; preference for bodily strength.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Affection is experienced as passion and physical longing.
+- psychology: Strong desire and personal influence through love are explicit.
+- body/health: Physical longing and enjoyment of strength are named without illness.
+- social/relationship: Love may be forcefully felt or influential.
+- events/manifestations: ABC includes a powerful peace center as a separate manifestation.
+- conflicts/notes: The entries do not establish coercion as the necessary outcome of strong passion.
+
+## Contradictions
+
+The entries do not establish coercion as the necessary outcome of strong passion. ABC also names influence of an art center, strength and beauty as distinct examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Venus = Vulcanus`: strong affection, powerful attraction, or forceful pleasure.
-- Practical expression: influence of a artificial center, love power of man, power through carperal love, and powerful peace center.
+Vulcanus specifies Sun/Venus as passionate love and physical longing, giving affection an experience of force and intensity. ABC also describes personal influence through love and enjoyment of bodily strength; those themes support powerful attraction without requiring a coercive relationship. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Vernal Point Pluto Apollon](../triads/vernal-point-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 A general transformation or change which starts from small beginnings. A changed attitude towards people in general. To set a precedent. Test case.
 
@@ -42,13 +46,27 @@ A general transformation or change which starts from small beginnings. A changed
 
 #### ABC Entry
 
-Development in the public, development of science in the public, growth of the public, and success of the public
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
+Expansion of a development in public, development of science in public life, successful changes in the public, extensive changes in public, growing public success.
+
+## Comparative Schema
+
+- core meaning: a small beginning becoming a general or public transformation.
+- psychology: a changed attitude toward people in general is explicit.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: the public is the field of development and changed outlook.
+- events/manifestations: setting a precedent, a test case, public scientific development and growing public success.
+- conflicts/notes: A general transformation and an altered personal attitude are different source scales; public success is a possibility rather than a guaranteed result.
+
+## Contradictions
+
+A general transformation and an altered personal attitude are different source scales; public success is a possibility rather than a guaranteed result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Vernal Point`: a general transformation or change which starts from small beginnings; A changed attitude towards people in general; To set a precedent; Test case.
-- Practical expression: development in the public, development of science in the public, growth of the public, and success of the public.
+Vernal Point specifies `Pluto/Apollon` through a development whose consequences enter general or public life. The [Witte entry](#witte-entry) traces small beginnings into a wider change, including a precedent or test case and a changed attitude toward people. The [ABC entry](#abc-entry) adds public scientific development and expanding public success. The distinctive range includes both a consequential public development and a changed personal relation to the public.
 
 ## Links
 

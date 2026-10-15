@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Vernal Point Mars Kronos](../triads/vernal-point-mars-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Police authorities. Governmental powers.
 
 #### ABC Entry
 
-13esondc activity in the OfTentlichkcit, active in the public sphere, self employed activities in the public sphere, public sector work, superior activity in the public sphere, and important public impulses
+Special activity in public, independent activity in public, self-confident public actions, state public-relations work, superior activity in public, and important impulses from the public.
+
+- Source reference: printed p. 314, PDF p. 156, Vernal Point row; the scan distinguishes independent activity from self-confident public action.
+
+## Comparative Schema
+
+- core meaning: Official or independent action takes a public form.
+- psychology: Self-confident public action is explicit in ABC.
+- body/health: No bodily condition is stated.
+- social/relationship: Witte names police authorities and governmental powers.
+- events/manifestations: Public-relations work by the state and important impulses from the public are ABC settings.
+- conflicts/notes: Public independent activity extends beyond holding government or police office.
+
+## Contradictions
+
+Witte gives brief institutional examples; ABC also includes independent and self-confident public work. These settings broaden the range without a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Vernal Point` makes executive authority publicly visible and collectively operative.
-- Chart expression: police power, governmental force, and the public face of official authority as a real presence in the wider environment.
+Vernal Point specifies the Mars/Kronos axis through public activity. Police and government powers in [Witte](#witte-entry) sit beside independent work, self-confident actions and state public-relations work in [ABC](#abc-entry). The setting is public, while the entries do not require every actor to hold office or exercise police power.
+
+Evidence: Witte PDF p. 200; ABC printed p. 314, PDF p. 156.
 
 ## Links
 

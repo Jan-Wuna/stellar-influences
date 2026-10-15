@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = MC`
 - Astronomicon formula: `X/£ = MC`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Energetic willpower. The dictator. Subjected to force.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting soul voltages, dynamic soul flow, fiery soul impulses, my new beginning, my procreation experience, my motion pulses, my new efforts, my rhythmic design, and creative psychic impulses
+- Source page: 378 (printed); PDF page: 188.
+
+Beginning inner tensions, dynamic inner direction, fiery soul impulses, my new beginning, my procreation experience, my leadership impulses, my new efforts, my rhythmic design, and creative psychic impulses
+
+## Comparative Schema
+
+- Core meaning: Personal will and inner creative direction.
+- Psychology: Strong will; inner tension.
+- Body/health: Procreation experience is historical source language.
+- Social/relationship: Domination or subjection to force.
+- Events/manifestations: A personal new beginning.
+- Conflicts/notes: The person may exert force or be subjected to it.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The person may exert force or be subjected to it.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = MC`: Energetic willpower. The dictator. Subjected to force.
-- Practical expression: starting soul voltages, dynamic soul flow, fiery soul impulses, my new beginning, and my procreation experience.
+MC specifies Uranus/Zeus as a personally experienced drive to begin and direct. Creative impulses and inner tension can become energetic willpower. Witte's dictator and subjection-to-force expressions show opposite positions within that encounter with directed power, rather than a single fixed personality. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

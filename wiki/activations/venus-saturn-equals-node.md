@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Node](../triads/venus-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 Separated connections for the time being restored. Passing separated love union. To start an Illegitimate union.
 
@@ -45,17 +49,23 @@ Separated connections for the time being restored. Passing separated love union.
 
 #### ABC Entry
 
-Deteriorated peace contacts, stored harmony in a relationship, harmonious connections in old age, problematic connections to the artificial, mature love connection, lossy love connection, and fondness for serious connections
+- Source page: 274; PDF page: 136 (one-based spread).
+
+Disturbed peace contacts, disturbed harmony in a relationship, harmonious connections in old age, problematic connections with art, mature love connection, love connection involving loss, and preference for serious connections
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 183; entry code: 0611.
 
 Coolness in love unions of short duration, illegitimate ties.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 57 (one-based; entry-specific page not established).
 
 In this lifetime one is growing in terms of recognizing what is most valuable to the self and holding steadily to that value. Difficulty in relating to groups, sometimes because one feels undervalued in them.
 
@@ -70,22 +80,21 @@ Meeting serious older but charming people who can help you find answers to your 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious or disrupted ties, with possible mature support and reconnection.
+- psychology: Feeling undervalued in groups and holding steadily to personal values.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Brief cool love unions, restored connections, mature love, or attraction to an older person.
+- events/manifestations: Helpful older or business contacts and harmonious connections in old age.
+- conflicts/notes: Illegitimate and karmic are attributed source terms; lasting commitment is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Short duration and reconnection differ from mature support in old age. Helpful serious contacts do not establish that every union endures.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Node`: lasting commitments, dependable partnerships, and alliances built on duty, loyalty, and realistic expectations. Main caution: relationships can feel burdened, lonely, or sustained more by obligation than warmth.
+In `Venus/Saturn = Node`, Node specifies the pair through the quality and limits of connections. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) retain separation, restored ties, and cool unions of short duration. [Sandbach](#sandbach-entry) adds difficulty feeling valued in groups and steadiness toward personal values. The [ABC entry](#abc-entry) also allows mature love and harmony in old age, while [Munkasey](#munkasey-entry) names helpful older and business contacts. These preserve support and disruption as alternatives rather than a promise of lasting commitment.
 
 ## Links
 

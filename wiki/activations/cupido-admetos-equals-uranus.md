@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Uranus Cupido Admetos](../triads/uranus-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 271 (printed 275).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ Surprisingly sudden dissolution or breakdown in a partnership or grave disturban
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 433).
+
 #### ABC Entry
 
 Perseverance and dynamism of a community, blocked rhythm of a community, depressing art event, sudden end of a community, tensions caused by restrictions in of a community, and opposition of a community to reforms
 
+## Comparative Schema
+
+- core meaning: Sudden communal disruption and resistance, with endurance and dynamism also represented.
+- psychology: Tension arising from restriction.
+- body/health: No specific physical or medical claim.
+- social/relationship: Abrupt partnership breakdown or disturbance in married life in Witte's examples.
+- events/manifestations: Sudden communal ending, blocked rhythm, depressing art event and resistance to reform.
+- conflicts/notes: Witte's claim that everybody turns against the native is a source statement, not an assured outcome.
+
+## Contradictions And Differences
+
+Witte's claim that everybody turns against the native is a source statement, not an assured outcome. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Uranus`: abrupt relational rupture, sudden group turning, and destabilization of what once held together. Main caution: being caught unprepared by a break that happens all at once.
+`Cupido/Admetos = Uranus` brings abrupt disruption and tension into association. The [Witte entry](#witte-entry) emphasizes sudden breakdown, disturbances in married life and others turning against the person. The [ABC entry](#abc-entry) retains sudden ending and restriction, including blocked communal rhythm and resistance to reform, while also naming communal endurance and dynamism. The range supports disruption or resistance within a community without requiring universal rejection.
 
 ## Links
 

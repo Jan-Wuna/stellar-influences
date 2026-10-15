@@ -1,0 +1,2209 @@
+[
+  {
+    "path": "wiki/activations/uranus-admetos-equals-apollon.md",
+    "before_sha256": "b2012bc34914af0e5ba7b4b83fee1ae35d99d696468ebd5a402e6b31cd6b29de",
+    "after_sha256": "41dca9f9cc433479b131af03042bb59fd46f5e00e57127d72eee8ecf612d3614",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed385/PDF191 Apollon glyph has seven clauses, including gründliche Wissens-Erneuerung and neues Wissen vom Urstoff; current renewal/primordial-matter translation preserves them. Unchanged Witte relaxation paragraph is correctly located at PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-asc.md",
+    "before_sha256": "c8179048e5b591e8a58163f15e0d8f2287015c1675b496f5de588e7866c3465b",
+    "after_sha256": "de0beb7d3ecf57c08920a30019d1c8280dc280ec2ccdb494b22f9ef99cf5f263",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed384/PDF191 Asc glyph has eight clauses; current text restores überraschend blockierte Umwelt and preserves the local/partner/technical-tension range. Full unchanged Witte separation paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-cupido.md",
+    "before_sha256": "1d227ef8e8bbe57c703a58fd5fdfe028097a1882cd39c8c76ecebaff189f6dda",
+    "after_sha256": "d1ca6b9cc21234c6f6ed088124d609dc1de1b73e1a17e5c16756327b5cecd4f9",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed385/PDF191 Cupido glyph has six clauses, including gemeinsame technische Vertiefung; shared deepening into technical matters repairs experience without dropping the stabilizing alternatives. Witte community break-off paragraph and PDF241 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-hades.md",
+    "before_sha256": "96baff7f611f3c4f289b0e99a302b8d199a0cdd8f63e9ca4a025595c1dcf7496",
+    "after_sha256": "cdb5f7b5d3301b172a27ec2786d31e833f60c7890234c85802c29534e80fb736",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed385/PDF191 Hades glyph has seven clauses; current circulation/cycle dynamics, criminal suppression, past inquiry and consolidation through renunciation retain each. Full unchanged Witte need/illness/secrets paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-jupiter.md",
+    "before_sha256": "2b035859af3d0390f27db7140ef9e44014aed122b6b11744e067e289f9b810e0",
+    "after_sha256": "d98bf92d2411387905553cc03aa3bb55415191b8071232684f4e5f6eaebb230f",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed384/PDF191 Jupiter glyph has eight clauses; Rechts-Beschränkung is restriction of rights, and circulation/cycle renewal remains bounded. Full unchanged Witte material-loss paragraph and PDF241 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-kronos.md",
+    "before_sha256": "a100e43da0cd0dae180f810a4160c4948466989addcd43a25f4d30230c63b276",
+    "after_sha256": "bf4de59d4974432ede589bc95d5504d2f47858ad5fd038516a5f68bcc31c2a51",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed385/PDF191 clauses match the Kronos glyph; Behörden-Unterdrückung correctly becomes suppression by authorities, with concentration/compression and independent technical cycle retained. Witte authority/government/responsibility paragraph and PDF241 match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-mars.md",
+    "before_sha256": "26b74be543bba908d0aa658c719d63f714d91157cfe163454634c03c83401235",
+    "after_sha256": "377e201ff3342583d129e7707b4c058846b5a2d325fb3e19499f80ff4b6a571b",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed384/PDF191 Mars clauses retain rhythmic endurance, thorough technical work, new primordial matter and suppression of restlessness while creating. Unchanged full Witte activity/terror/suppression paragraph is on PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-mc.md",
+    "before_sha256": "f6dd907a14135089502069672e2d45037e0d5306597a4647e8804c56e3266cff",
+    "after_sha256": "ef7705105f0b7eb7db3e861b145db460868ff1641ca04a99eb2eff40a3d1c50f",
+    "ledger": "activations-079.jsonl",
+    "reason": "Nine ABC printed384/PDF191 MC clauses restore emotional renewal, technical blockage and both kinds of deepening; blocked/enduring rhythm and restless circulation/cycle remain. Unchanged Witte murder/violent-commotion paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-mercury.md",
+    "before_sha256": "42a080b289b3096142b3cae4c1a4c49ee58f154abebf5b36ad901f8635660008",
+    "after_sha256": "2827d77838cdb30d25188e5e6d9b16c91a2fb4fd47ee0dcfc143c10d5e270816",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed384/PDF191 Mercury clauses correctly repair gründliche Gedanken and Verkehrs-Stau as thorough thoughts and traffic jam while retaining youth/media/movement clauses. Full unchanged Witte grave-enmity sentence matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-moon.md",
+    "before_sha256": "2118a11afbee58f303005483a16efa103677a03aff4b387d758c6088dab8f4a8",
+    "after_sha256": "de80473f44af24ee0b82048714b6371322ba8f238ebb949c4eaaea4badcad870",
+    "ledger": "activations-079.jsonl",
+    "reason": "Nine ABC printed384/PDF191 Moon clauses restore opening blocked emotional impulses and Gefühle as feelings, retaining the repeated distinct woman/population examples. Witte full separation/public-event paragraph and PDF241 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-neptune.md",
+    "before_sha256": "68417ee5eb998b9b2f1f8fe1ee658e8d715ea05be9750e825c09ab091a048728",
+    "after_sha256": "170d597d7c4560cb5375db0d2b8f6e2a65d71dace5413d1a5955911d97e01417",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed385/PDF191 Neptune clauses match; Luft-Begrenzung is air restriction and weakness arises through suppressed nervousness, correcting both pollution artifacts. Full Witte vain-rebellion paragraph and PDF241 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-node.md",
+    "before_sha256": "c9703c641f0e68ea762b9fe53dc1424ee07a45cc207f71220d6ab566f2816237",
+    "after_sha256": "766cee62d8d724b61764948c848fc6efc016500f8bbcf957578097e1c41e6c7b",
+    "ledger": "activations-079.jsonl",
+    "reason": "Six ABC printed384/PDF191 Node clauses match including technical contacts, blockage event, restricted relationships and stabilizing impulses. Full unchanged Witte break-off sentence is correctly located at PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-pluto.md",
+    "before_sha256": "080326a749e59e9474bfc01e4e71b3077b98ec4ec75e12bd9f8cf9404bb1e1d4",
+    "after_sha256": "522503112909776951846445c63f0653461d23c7d4c1bcdb65a74ccd01ee0065",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed385/PDF191 Pluto clauses include restrictive technical development as third clause, followed by end of change, consolidation, reform development and deepening; current text restores the lost technical meaning. Witte clarity/development paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-poseidon.md",
+    "before_sha256": "14898573ff1318a28f773a4deda99433f5ccf8bd02f52bab2356ee10a8b7c3bd",
+    "after_sha256": "c0382295e91078110150b2931ce60898121cd1c63aa244e0ce88ba0d7fb38ace",
+    "ledger": "activations-079.jsonl",
+    "reason": "Six ABC printed385/PDF191 Poseidon clauses support intellectual renewal, thorough cultural renewal and investigation into truth; current repair removes emanation/enlarging artifacts. Unchanged Witte investigation/clarity sentence matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-saturn.md",
+    "before_sha256": "a9ff920acfe40f50cd6a82256e35090efb7845d51afed2fbd74285046937e941",
+    "after_sha256": "93ce5027e9695df2f5b437457fd4dfc114107f86b1ee3afb1135b46bbf43634e",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed385/PDF191 Saturn clauses support renewed patience, strike and circulation/cycle disturbances, with losses and technical tasks retained. Full Witte enmity/death paragraph and PDF241 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-sun.md",
+    "before_sha256": "34cda4b54c9206dd806dc84723d0b47ffceab5d8e37f79e6c49a27c222cc1a09",
+    "after_sha256": "ac485c2c93dade277eb4a4fd94fcd206d60b78752377e5c4172cd28c8dc47333",
+    "ledger": "activations-079.jsonl",
+    "reason": "All six ABC Sun clauses on printed384/PDF191 replace the dash-only cache, from excitement of a depressed person through surprising personal consolidation; physical nervousness and technical deepening are retained. Full unchanged Witte danger/earth/ploughing paragraph and PDF241 match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-venus.md",
+    "before_sha256": "60d6e0533ed0fb0942144644bbdd1764bc69c578deb6f3978d92042f0d52f424",
+    "after_sha256": "821ea0bd35bd95b17b7fc9da1750e755d227cf20e82553caea2f1ea08a042feb",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed384/PDF191 Venus clauses match the peace/art/love/harmony/technical-preference range, including sudden concentration of harmony and consolidation of peace. Full unchanged Witte wronging/injury/tact paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-vernal-point.md",
+    "before_sha256": "71571e44c71366a044e1f2192b3be761b311cf208f8b5e8178087df1548f29db",
+    "after_sha256": "e9b8cecafb4f342ffc52c6ba4e9a2a473c5b6b786cc14658a14b345bdf31ff9e",
+    "ledger": "activations-079.jsonl",
+    "reason": "Six ABC public-row clauses on printed384/PDF191 replace the symbol-only cache: blockage, new circulation/cycle, restriction, reform, technical blockage and strike unrest. Full Witte public violent-event paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-vulcanus.md",
+    "before_sha256": "95b242dd628880b7495a43864c306c8a023c84d3a1fdd6335e46ba9e65479b58",
+    "after_sha256": "173c52cfd6629873fadbc1ced7115bd95a2b7f7a7d645fb6bf5f590f03b0fd6f",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed385/PDF191 Vulcanus clauses preserve psychic energy, knowledge renewal, power/technology and sudden force/violence spread; Energie-Wissenschaft correctly becomes energy science. Full Witte suppression/freedom paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-admetos-equals-zeus.md",
+    "before_sha256": "03c264b38dd123d31fabba81cd488ffeaf31eec9154821b7a526046b13a023d5",
+    "after_sha256": "4d9c29c736fdd1ad0897b1d0b69bec13d86a02890770541104b8774b2b4ee3ca",
+    "ledger": "activations-079.jsonl",
+    "reason": "All seven ABC printed385/PDF191 Zeus clauses are restored from the two-clause cache, including leadership impulses, technical achievement, psychic-energy reshaping, aims and beginning depression. Full unchanged Witte difficult-task/work-start paragraph matches PDF241.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf191.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf241.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-admetos.md",
+    "before_sha256": "e6e8a55b2a5c0006ae782e3e0a604e10f485d39fe8070e01d48ae417019c0ac1",
+    "after_sha256": "64e6fff6c1637c563b3fedbfd1c4eee3df4186c78748ac1b06f13ef284fdc43b",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed383/PDF190 Admetos clauses correctly restore thorough knowledge renewal and technical success, primordial-matter knowledge and deepening. Full unchanged Witte break/relaxation/concentration paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-asc.md",
+    "before_sha256": "02d41f6a961f8257990d3d81b6935ac308a28f870c722c40cb09d0e090b6a443",
+    "after_sha256": "7adbe29c293ec25ea13d360aab70b00aff6277694c6ec7d8ef4b3d3d39f55c5a",
+    "ledger": "activations-079.jsonl",
+    "reason": "Locator-only change: complete baseline/current ABC eight-clause environmental/partner paragraph is unchanged and agrees with printed382/PDF190. Witte cheerful tension/expectation sentence is unchanged and correctly located at PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-cupido.md",
+    "before_sha256": "d2810496b887526623d64427805b792db354ad707d69d5d3883e11e7e38fcef3",
+    "after_sha256": "e7cb524da5fbd011f8e43654affc4701e96725133e1bcc6d6cac207145d09802",
+    "ledger": "activations-079.jsonl",
+    "reason": "Fresh full before/current Source Entries and full amended owner record reread after independent repair. ABC printed383/PDF190 Cupido has seven clauses: Erneuerung/erneuern means renewal/renewing and neues technisches Wissen now correctly says new technical knowledge. Full unchanged Witte community/science/art paragraph and PDF240 locator match. Earlier latest overstatement is resolved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-hades.md",
+    "before_sha256": "c8befd53bda41d43dd43feda7d376bc00301959928122bab79e4df631991a672",
+    "after_sha256": "f9fe6d935ea00ce87956d92a057dc6fb297acd53b8e143566f0ebcc5465adb86",
+    "ledger": "activations-079.jsonl",
+    "reason": "Locator-only change: complete ABC seven-clause danger/science/past/need/hidden-freedom paragraph is unchanged and matches printed383/PDF190. Full Witte historical/Hamburg School paragraph matches PDF240; no repaired prose is being certified beyond the actual unchanged passage.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-jupiter.md",
+    "before_sha256": "8cc0caefedc6700b36a132c356771c2c7a17d4693c8ef546b55470b0abb60a25",
+    "after_sha256": "25e34cf3201c65a2c23d4d59923b1121ef9eafc087163768c2ec1d8619a52652",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed382/PDF190 Jupiter clauses support both commercial advantages and advantages through technical experience, restoring the two damaged closing clauses. Full Witte happy astrological-success paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-kronos.md",
+    "before_sha256": "5d0656160081085617ff22035d9e3e2f6d9ca90c1f0f47cc91e5defbe7dbd8a9",
+    "after_sha256": "cbf4fed6068167268212f94727989e1cb25cec6179c4b551c1980659a03ef278",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed383/PDF190 Kronos clauses match; Vermehrung der Spannungen correctly repairs recognition to increase in state tensions. Full unchanged Witte state-measures/authority paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-mars.md",
+    "before_sha256": "c2ef75dbbc28833ea5d560dc488aadf03c1bedba0f90e77b5df3ed8ccf663ce3",
+    "after_sha256": "0a0694378df27adaf6e155527c41c074c6d9ce2a78f283877dea8aedc0119eac",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed382/PDF190 Mars clauses match peace work, reform, technical work/rhythm, commercial renewal, new knowledge, success and tension; refonn is repaired. Full unchanged Witte scientific/peaceful/commercial/astrological activity paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-mc.md",
+    "before_sha256": "c4f09af01c7d8834486dc7f9a9b9c6f30ff83b2fb59fc98cf7edd4cff3d5e81c",
+    "after_sha256": "f7c130a66f8bdd14e2c593cd6f8a16b10fb64459a9cb13cbcfbf1f279ec58cc9",
+    "ledger": "activations-079.jsonl",
+    "reason": "Nine ABC printed382/PDF190 MC clauses match; große seelische Überraschung is emotional surprise, correctly removing superiority while retaining personal success/freedom, technical experience and emotional tension. Full Witte personal tense expectation/newness/astrologer paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-mercury.md",
+    "before_sha256": "944b2b375ecbb20da7338b8b46918009525b2b2eb7b08b84e13298abc1073795",
+    "after_sha256": "97ecf78f59f3a716d1f11c8bb0da07356eeba3fdfeb89b0981364f3b25bc87c3",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed382/PDF190 Mercury clauses match transport technology, movement rhythm, scientific thought, success/trade reports and youth tensions. Full Witte astrological thought/conversation/storytelling paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-moon.md",
+    "before_sha256": "73f10fc2157b8a5f11183fe31d4bec9e1c2d101f9af41d18baadb6f6f6f310f0",
+    "after_sha256": "0ed79bf9806102aedef8020bffeb30a82ea9f060052e2c9cf3761263d58e7379",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed382/PDF190 Moon clauses match; Gefühle means feelings, removing refugees without losing the separate woman/people/technical-success clauses. Full Witte tense public and female engineer/astrologer paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-neptune.md",
+    "before_sha256": "980a273fcc04c44bc74e77310a5745226baf677b190b8e0aefb7201079c38929",
+    "after_sha256": "b67cc17bc4dd8b3cd1e1127e147548dba40ca929d43aca3f60d6684052c645df",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed383/PDF190 Neptune has exactly eight clauses ending viel Feingefühl für Rhythmus; current repair restores increased excitement/disappointments and removes the following Pluto opening. Full unchanged Witte alternating tension/relaxation/uncertainty paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-node.md",
+    "before_sha256": "d21a33def45e3c601b0c7d90def8155e2e5315f441907fa97fbe507ee288dcbb",
+    "after_sha256": "0b1b4bc2b9f78157e0659050108d9c0e563c9c18e2f9b884ae1fa68a919121b6",
+    "ledger": "activations-079.jsonl",
+    "reason": "Seven ABC printed382/PDF190 Node clauses match technical/trade/science connections and restore increasing tensions in connections at the end. Full Witte tense expectation/connections-expansion paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-pluto.md",
+    "before_sha256": "b11f8ec739b62d4889cac69653b0fc5584d3a17995a741654c82d1d937ac0fdf",
+    "after_sha256": "11f05265246527c4d8a5132dd2c4cc47e4ee590373c56939c749007ab27193d7",
+    "ledger": "activations-079.jsonl",
+    "reason": "ABC printed383/PDF190 Pluto glyph begins disquieting trade changes, successful new and technical development; all eight clauses are restored through transformation by new knowledge, separately from Neptune. Full Witte small-to-large development paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-poseidon.md",
+    "before_sha256": "810192d85de3f7db3db3ff16cebfb3a7e01023ad22d3e98020333d70774d7d08",
+    "after_sha256": "774535504289828f0f7cbd5b5afdf859b2dbf419ff59cdfaabcf5fae5b6b8e5a",
+    "ledger": "activations-079.jsonl",
+    "reason": "Locator-only change: full unchanged nine-clause ABC intellectual/cultural/spiritual renewal paragraph matches printed383/PDF190; Geist retains the existing intellectual/spiritual range without a new repaired claim. Full Witte clarity/exchange/horizon paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-saturn.md",
+    "before_sha256": "711fce397355f192957ab18c49762935cd570e0595decd926b9d5e16921d2a56",
+    "after_sha256": "c31d22fff660e03e9128ec0eedc335d2ecfcca5cb58d151069c94bb8a42c9d6c",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed383/PDF190 Saturn clauses correctly repair increased losses and increase in tasks, preserving pain, freedom/trade disturbance and technical problems. Full Witte disappointment/throttled hopes/prediction-failure paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-sun.md",
+    "before_sha256": "a8f39a102ee8702cdd7988012080e4eaf4d499dcd5d7659ed5cec5186301a218",
+    "after_sha256": "4b58ab0422bef884df78876771731f354743b6f9b34013c472ff85e767384557",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed382/PDF190 Sun clauses match successful technical center, personal experience/rhythm/success, technical man, public tension and trade/knowledge centers; previously untranslated opening repaired. Full Witte cheerful-expectation/astrologer paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-venus.md",
+    "before_sha256": "481cb2fef223ccccdd72a9531fb6ba884a560f4dd8e151b374b8209ebd54e5d5",
+    "after_sha256": "da9c01f4e91e5914be5fc88d00b7530d2681fb34a5c5725c58da4be05d84fba2",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed382/PDF190 Venus clauses correctly restore Kunst-Impulse as artistic impulses and Reformen as reforms, retaining harmony, peace science, love and new knowledge. Full Witte surprise favor sentence matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-vernal-point.md",
+    "before_sha256": "de6e33452275ee1056e8c1388dc3fef3442d60ae4eab39809dc838c73a23177d",
+    "after_sha256": "a5736613e25faaa85d73624b5c6cae8c31048f4433ac03f30b024a44f63fe644",
+    "ledger": "activations-079.jsonl",
+    "reason": "Six ABC printed382/PDF190 public-row clauses match; wirtschaftliche Erneuerung is economic renewal, removing the inferred recovery. Full Witte public tense expectation/decision sentence matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-vulcanus.md",
+    "before_sha256": "ad529f9efa93334e4c68f71a21c032cb341fdad8f475af9ce64eb7d8e052de0f",
+    "after_sha256": "9c22c7f5870eaf58a21aba606410dc29a0a5b85c43d16ef1764390cc4713e2ae",
+    "ledger": "activations-079.jsonl",
+    "reason": "Locator-only change: full unchanged eight-clause ABC power/knowledge/technical-energy paragraph matches printed383/PDF190; force/violence is the inherited Gewalt range. Full Witte tension/astrological success/innovation paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-apollon-equals-zeus.md",
+    "before_sha256": "430c74f5748e5a173be2c47402c2f5226906937e87aefcf8841d26af5daaa1f4",
+    "after_sha256": "3a516ec30039e3f8f67e1c888dd2757aa977f0f6bc72187b3122ab8afed4cd5a",
+    "ledger": "activations-079.jsonl",
+    "reason": "Eight ABC printed383/PDF190 Zeus clauses correctly repair leadership authority, experienced technical leadership and technical goal-setting, retaining trade/science/creative knowledge/fire and technical success. Full Witte energy-direction/scientific-problems paragraph matches PDF240.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf190.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf240.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-neptune.md",
+    "before_sha256": "5d37f430573aedbc41080ea2333ac00886124a49d5e970a6838dffabba8859e3",
+    "after_sha256": "70fde6b610c7e8c9c6bfe4026144dde6806029f44bf4792a4c329467c38c53c7",
+    "ledger": "activations-081.jsonl",
+    "reason": "All eight ABC Neptune clauses on printed79/PDF38 are restored from the bullet cache, stopping before Pluto. Actual Ebertin printed278/PDF280 code0994 ends with a period; punctuation repair adds no prose. Complete Witte row is PDF67. Sandbach full Neptune paragraph is exact PDF109 and Uranus/MC chapter starts PDF108. Munkasey printed324 source text and locator are unchanged, not a new repair.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf038.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf067.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf280.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf108.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf109.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-neptune.md",
+    "before_sha256": "16c8ec31806b89d25bacb4531a162abc45488ca88769be10a2533ae4eb9a1764",
+    "after_sha256": "7b104a46b4b8db7b4792fdbac3535bc8c88d55c1bf69dcb54823e4e5b0733c93",
+    "ledger": "activations-083.jsonl",
+    "reason": "Six ABC Neptune clauses on printed373/PDF185 run from Feinstoffliche Transformations-Impulse through Wasser-Veränderung durch Technik; following Pluto siehe oben is excluded. Full Witte unknown-development paragraph is PDF235. Added Ebertin printed269/code0958 matches raw PDF271; Sandbach PDF105 is accurately qualified chapter-start only, with unchanged Neptune paragraph on106. Munkasey locator/prose unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf271.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf272.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf105.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-node.md",
+    "before_sha256": "8daa1df67ee9c0b331c6c1c8d061f17987f837528bd97a6f853bf4b923a32b00",
+    "after_sha256": "a7676ed7152e7df0aa36edf28626fb5a3d45cd4bcc8f78a7d208f493aa90979c",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator-only source delta: ABC six-clause connection paragraph matches printed372/PDF185; Witte connection sentence is PDF235. Ebertin code0959 begins printed269/PDF271 and continues270/PDF272; the inherited missing initial An is not a repaired claim. Sandbach105 is correctly qualified chapter-start only; actual unchanged Node paragraph is106. Munkasey312 unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf271.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf272.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf105.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-poseidon.md",
+    "before_sha256": "4d3f10753ea31308e0df1642926f47d3ef6bf164a40f1fde9da0db9c2ab1af93",
+    "after_sha256": "2c12af415111c2811d5b946a3e1f3ab6e3f56cd722f6878de588a9ec3f5cf3b1",
+    "ledger": "activations-083.jsonl",
+    "reason": "All eight ABC printed373/PDF185 Poseidon clauses restored from the truncated tail, including intellectual impulses, culture reform, truth unfolding and rational reform development; neighboring Vulcanus material is separated correctly. Full unchanged Witte mental/spiritual clarity sentence matches PDF235.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-saturn.md",
+    "before_sha256": "e243c24fc6f806dd9dbc9a27d3bceda8811bc7e2cadc617f1e071d5606bb524c",
+    "after_sha256": "f79e11c762022e1a59eadbf95fc272a22406093d0cb9c3cedc6079a2df0dd15f",
+    "ledger": "activations-083.jsonl",
+    "reason": "Seven ABC printed373/PDF185 Saturn clauses restored from tail-only cache, stopping before Uranus siehe oben; old-age development, separation, loss-bearing technical development and nervousness retained. Witte disruption/separation paragraph is PDF235; Ebertin printed269/code0957 and qualified Sandbach105 chapter-start reference match actual raw passages. Other source prose unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf271.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf272.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf105.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-sun.md",
+    "before_sha256": "5eada3abcb1667be578723cd3ce8ebf64b7de192652691022f0662fff8d73059",
+    "after_sha256": "51bce9229c04541de3bb52cc68685d474eb759c531d958cf4ef89aa40fc5b4ee",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator-only source delta: full Witte bodily/nutrition paragraph is PDF235, ABC seven-clause personal-change paragraph is printed372/PDF185, Ebertin code0951 is printed269/PDF271, Sandbach chapter-start105 valid and qualified. ABC inherited surprising change of person is a loose rendering of persönliche Wandlung, not a new repair; no new source prose changed. Munkasey312 unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf271.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf272.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf105.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-venus.md",
+    "before_sha256": "a93fcc8ed8dffea9ca5e1da52575bd92a6b1fb68a5e0633d6efc86de9b6209f1",
+    "after_sha256": "71dcd9a12d07ac42cf13f5d6bfe8835fb7ba8dc41fff81c43be4ab76ba326f3c",
+    "ledger": "activations-083.jsonl",
+    "reason": "Seven ABC Venus clauses on printed372/PDF185 retain harmony/love/peace and correctly repair neue Kunst-Entwicklungen to artistic developments. Added Witte235, Ebertin printed269/code0954 and qualified Sandbach105 chapter-start references match actual raw originals; remaining source paragraphs and Munkasey312 unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf271.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf272.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf105.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-vernal-point.md",
+    "before_sha256": "96272e898b22cb3465ba83011fb98e24ed963bd9fbbc1a9c50a8c25ac86fdb5f",
+    "after_sha256": "15f1c907f46cd9f351c1d096684898c1b91c31bfe6d87c4b303144a4c4847e07",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator-only source delta: complete unchanged six-clause ABC public-change paragraph matches printed372/PDF185; full unchanged Witte public-adaptation sentence is PDF235. Added references correctly identify these exact oriented rows.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-vulcanus.md",
+    "before_sha256": "a0a16f16d205359b7b92376e2d3e829302d20ba9342a205e3966084fd840225f",
+    "after_sha256": "6a123b4098d52b08ba8459dc37923480435d8de5ee33a10d9059bb6eb59a4b18",
+    "ledger": "activations-083.jsonl",
+    "reason": "All eight ABC Vulcanus clauses on printed373/PDF185 are restored from exciting power changes through surprising strength development, without the following Poseidon paragraph. Force/violence ambiguity is retained. Full unchanged Witte explosive change/mighty jumps paragraph matches PDF235.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-zeus.md",
+    "before_sha256": "e37fcae7d5e6638984394c44213221c3992ef10a0efa5630af6915cb8ab5a955",
+    "after_sha256": "8688971d17e07d2993a98f1c258c783294b94eb7d715c1c452d6f276eba59681",
+    "ledger": "activations-083.jsonl",
+    "reason": "Seven ABC printed373/PDF185 Zeus clauses are restored from strenuous reform development through surprising aim-striving, including technical achievement, purposeful developments, fire and leadership change. Following state/Kronos prose is correctly excluded. Full unchanged Witte consequential-change paragraph matches PDF235.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf185.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf235.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-admetos.md",
+    "before_sha256": "5324f4eaa0f7b4477e3a3d36b13cc907e24085668e868fde10eefc80e944ef5c",
+    "after_sha256": "6bcf858de124d4f94a81805edf21575e34bee36c975814c69b6928e08ea0b1b2",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full rupture/shock/natural-event/fissure/separation row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-apollon.md",
+    "before_sha256": "bb9a18d3cd8a0a82d93be16d20ca517da0b1c6dfb09529a502652c7522d1db07",
+    "after_sha256": "8edb07e3d8e343c8ece9a54b1dd04624551b6c065d4fa5fb99a1f828e9a4891f",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full expansion/mathematics/new-science/astrology/technical-success row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-asc.md",
+    "before_sha256": "10358a3f7b1440b6c0a89f6248efa83b4f22ed3968347f6d5a95695e2d966591",
+    "after_sha256": "f6bd7faac9ab88a902a716759efb2fcb93a5b5793f5be09da5e35ccdaa6f98ca",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full other-people/encounters/location/engineering/environmental-technology row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-cupido.md",
+    "before_sha256": "e5afcf370625faf6815e3e52408bff0cf68d104862bd134a3f7b25cb8e91a3db",
+    "after_sha256": "6c84ef19a1543da338662939e9220c7fbdf4a9b471d5165cbf86997f8e19f68b",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full marriage/family/wedding/art/innovation-technology-energy-association row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-hades.md",
+    "before_sha256": "408fbc46fbb4cbe2b86ad1e51d4ff9e8a15b485e7d741d30d0411474bd66cf20",
+    "after_sha256": "f95ce8c971ee543049c632cebc0a8a02e2355ca41a93bf4d98054855a24be617",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full disgust/mean-acts/damage/violence/old-technology row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-jupiter.md",
+    "before_sha256": "f1df64a64065abfd11230b3bff19e2880bbf0d1e42f2e2f62dea1e0ba2553914",
+    "after_sha256": "130906ea35ce6f5d296755bdd4d3194044714eeafb62b4f73d937d3a54129f78",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full material-luck/poor-pictures conditional misfortune/technical-money/currency-reform row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-kronos.md",
+    "before_sha256": "5b3881e3e3b07e40a4a3761bb83d46cd27359aed68ae2dd70e20a514cce0419d",
+    "after_sha256": "387a13fc2c353b8fe3002c5655b125759104b1e75654602e0249913c47cf72a5",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full command/authority/state-decrees/outstanding-innovation-or-skill row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-mars.md",
+    "before_sha256": "77abc9d3522086f4046d45776f9ebcd36715a54d53d3a2a9596952db23cb7e66",
+    "after_sha256": "e089e824e185740dbf12f17a3f16e973e810b93922c6163fb12d09abdfe65ad8",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full sudden-action/fighting/wounds/surgery/new-work/technology-mathematics row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-mc.md",
+    "before_sha256": "ec74bdbf3f544a071080c8246375222083eaf45c9961f6e099e012bb04b705ed",
+    "after_sha256": "6d567ec85375d10e234bd499a9ec995cce2d110a526266432d92518cfde7537a",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full personal-tension/excitement/vibration/decision/ambition/impatient-minute row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-mercury.md",
+    "before_sha256": "e430698ffdc15c9148ce6bb182922469d53054a9531df8c1ab0cfb1e7445f323",
+    "after_sha256": "dae4e7741b42f11bbf694b2aa4bd1106a4affc0ff5fdd369486d59ababcb553c",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full nerves/logic/mathematics/inspiration/information/occupational-association row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-moon.md",
+    "before_sha256": "0cdfd13295d392c879a775b8565af41dc7ec64c085effe670366b97c368c4c7d",
+    "after_sha256": "1547cfcfaa7453240012ba156ec012bf2c7a64b2fa19977814d517f22aae3ebe",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full arousal/interest/restlessness/women/populace/eventful-hour row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-neptune.md",
+    "before_sha256": "f3e09db464d4b92cb5fbc95b06fdf39bf43078cb94ee2b232861e1d7aac1866f",
+    "after_sha256": "cb9b3850a82a5057e4c14dd509bd64987594cba3abc05935ee563987ff692736",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full incapacity/beyond/crisis/revolution/confusion/endings/futile-excitement/uncertainty row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-node.md",
+    "before_sha256": "14738949a277decb54f7b6739441be52eed8d3aef49c1000c12b8eb8e5c53419",
+    "after_sha256": "9ebd7c35840bb0ec169098794437e02bab7994e23f56fcc71fceb8215f538222",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full sudden-contact/unconventional/technical-network-and-connector row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-pluto.md",
+    "before_sha256": "6c5c4e2dca4b6cd038b324a5f6381dab7386019d7dc4593c0c82b491908f0b05",
+    "after_sha256": "d8bcd71d3a37ca23ef6b77346c482254ea3ef79978b5c466747c5c753c01a5cc",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full mutation/jumps/explosion/shock-onset/technical-change/unexpected-development row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-poseidon.md",
+    "before_sha256": "535f8eb8f9fc9a84e676a60f0a037cea33bfc844864d237cf47bca279902d3c4",
+    "after_sha256": "f56a3b4808d51d22d0a835292b6e06d83c6676b4a2f466416e94ad4edd9c74d2",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full alertness/life/truth/phosphorus/propaganda/film-television/light/proof-revelation row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-saturn.md",
+    "before_sha256": "1264a1c4403bcfbbbf02709501bddd839ffde62214fe8ac88a2504c8c368cb3b",
+    "after_sha256": "54218237f4f9205d78f36fbbc3e6d4ef7075b31b1741c38fc677186d9fe30a9e",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full quarrels/separation/death/delay/technical-disturbance/loss/old-age/shutdown-outdated-technology row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-sun.md",
+    "before_sha256": "bb2160d8968baadfa4b62e3a62329121e344db5ada6cb1456db14958b88406c9",
+    "after_sha256": "2e63e130a6e7df55626d89fa63b855f90e5c883808bf92fac444e0560b24eef7",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full bodily-tension/nervousness/apoplexy/accident/reaction/solar-cycle-aside row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-venus.md",
+    "before_sha256": "f64404e8e11330e3eca2cde80d65f616155e0c249eeae37e82b57772d2a95119",
+    "after_sha256": "32823958b8b0d8042370ee4c2b723b94d6c6513d8b56ecb8e328d268768c39cd",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full sensual-selectiveness/romantic-love/childbirth/desired-event/affection row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-vernal-point.md",
+    "before_sha256": "42cf1fa8e9eb20206a0c9702d4978b7b2e6468388b0d2419cf2ed013ee6c21f9",
+    "after_sha256": "de1bcb8d99d7fdac06308bc29807f3f71149e13581c48d135172ab353e9d5d59",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full general-events/eruptions/explosions/public-renewal/environmental-technology/earth-science row matches its actual glyph on immutable Witte PDF232. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf232.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-vulcanus.md",
+    "before_sha256": "ad1d22e02b46256d760eb815b5d1578b6c2ee126109dacbb1874e803009d8dd7",
+    "after_sha256": "458b35a7a0e71baee8162ffbb5c7bf7390fd1b11be43fdddbdf7b643b616de6e",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full force/thunderbolt/explosion/engine-electric-power/lightning/fire/new-energy row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-uranus-equals-zeus.md",
+    "before_sha256": "97db642da758eb987ca064304ca796f94955fcae51597879c4efc6fbab6d2822",
+    "after_sha256": "5ac61985fc2ddab8cc0f79599ae70add157da2bd2640b1771b60eff17521d66a",
+    "ledger": "activations-083.jsonl",
+    "reason": "Locator/source-heading/catalog-link additions only; entire baseline and current Witte prose is unchanged. The full will/firearms/fire-explosion/war/motor-dynamo/fatherhood/natural-forces row matches its actual glyph on immutable Witte PDF233. Added source identity is correct; no new doctrine, timing model or prose repair is being approved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf233.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-admetos.md",
+    "before_sha256": "c1c0c7afd99efe552103c9a7f2774c11f55fa9fdd8046e4b7ecade94c5a24d05",
+    "after_sha256": "51ce53accc61c409fbee49b2071d44ed1f74e95439cf96fdb9bd03ed40eab6ff",
+    "ledger": "activations-084.jsonl",
+    "reason": "ABC printed379/PDF188 eight-clause Admetos row supports enduring rhythmic effort, thorough new beginning and suppressed reform striving; repairs replace exhaustive/grinning/under-drinking artifacts without changing the other clauses. Full Witte dangerous-fuel/explosive-material paragraph and added PDF238 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-apollon.md",
+    "before_sha256": "5cdf1134c37e5c22c7fef7d3219b39f40b918707779ef59cb122ba9da631d3df",
+    "after_sha256": "379c5eb6c8e14cc2dd39cd7890c0c0d30895346c469d35ce8bb454a45c034959",
+    "ledger": "activations-084.jsonl",
+    "reason": "ABC printed379/PDF188 eight-clause Apollon row has erfolgreiche dynamische Führung, correctly repaired to dynamic leadership; remaining knowledge/science/technical/reform clauses match. Full Witte power-expansion/spreading-war paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-asc.md",
+    "before_sha256": "997006d008d54e3865647fb3a0d3ea77087a23c439ced4695ecffac9053f8329",
+    "after_sha256": "bf47a1621434c2b81bf8db2a963b982197dcbc997912136a96dbdcc6f3edcfc6",
+    "ledger": "activations-084.jsonl",
+    "reason": "ABC printed378/PDF188 Asc row has dynamische Führung eines Ortes, correctly repaired as dynamic leadership of a place; all seven partner/environment/fire/technical clauses match. Full Witte others' will/arbitrariness/lightning paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-cupido.md",
+    "before_sha256": "b77971e8fc3356e869ae8e8f64e5fc0c7abb62607d5febeaf5801cb24b3db8f0",
+    "after_sha256": "1d141d7136855f1fa3f44b8618bd450e86326ca07e35ef63170638d451f6fc28",
+    "ledger": "activations-084.jsonl",
+    "reason": "ABC printed379/PDF188 Cupido row has dynamische Führungs-Gemeinschaft, supporting leadership community instead of movement community; seven clauses retain shared effort/new beginning/procreation/direction/reform. Inherited awkward community syntax is not a new meaning change. Full Witte marriage/community/machine-gun paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-hades.md",
+    "before_sha256": "f8a742431bde55443edf8a81ff64de88f5a74167ae9a5a486648e26a96bbde85",
+    "after_sha256": "23c10c455fc7542e7a4a096f30c9b128c791240cd3c5b201e0e6ecd8bea7d278",
+    "ledger": "activations-084.jsonl",
+    "reason": "ABC printed379/PDF188 Hades row has kriminelle Führung, correctly repaired as criminal leadership; all seven difficult-beginning/fire/creative-past clauses match. Full Witte destructive-natural-forces paragraph and PDF238 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-jupiter.md",
+    "before_sha256": "1c1cb605a285a91a0a37a7c6d61274d077c957ef43248e01cee94934393a0af9",
+    "after_sha256": "1df250bb7d3761543209af03a01b01973e4208b92b4d4b11e63b80a0f2842766",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed378/PDF188 Jupiter clauses match; Finanz-Führung correctly becomes financial leadership and Rechts-Impulse legal impulses. Other beneficent/legal/technical/money/new-beginning wording is inherited. Full Witte beneficent-powers/tropical-rainstorms paragraph matches added PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-kronos.md",
+    "before_sha256": "374bd11cee7ed3108741fcf1063d33db99521d4ab1183ef47d7b987481528ae5",
+    "after_sha256": "da53210e9d742cb07ae44ec4e69cc7ab30a5a6006e4414307c8f207b7466009d",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed379/PDF188 Kronos clauses support state leadership, major fire and independent rhythmic design, correcting welfare/gross-fire/self-ordinary artifacts. Inherited self conscious for selbstbewusst is not a new repair. Full Witte creative-model/master/state-forces/wars paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-mars.md",
+    "before_sha256": "fa9d7bc4e00ce67f1d38c2ad1c98dbe7ce428ca2f9334f0ca7703968627fce5d",
+    "after_sha256": "721ca0a78dc811def3d6dc7303c6f26eab43a5f370c2868601a228a633f2b346",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed378/PDF188 Mars clauses have dynamische Führungs-Arbeit, correctly repaired to dynamic leadership work; technical achievement/new activity/direction/will clauses retained. Full Witte boy-procreation/resistance/rebellion/grenades paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-mc.md",
+    "before_sha256": "5326b708f5db3fcb5fac3cf705a591c60dfed212e36de0a55affc9681c0efa7f",
+    "after_sha256": "34e06610a0cadf14d9e61a23211ce26005d15feddea77077efc5d1e132856a45",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed378/PDF188 MC clauses support beginning inner tensions, dynamic inner direction and leadership impulses, correcting voltages/flow/motion artifacts. Remaining soul/new-beginning/procreation/effort/rhythm/creative clauses retained. Full Witte willpower/dictator/subjected-force paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-mercury.md",
+    "before_sha256": "ceb5249a75e78ed48a8a5bc81ce6b274efb03c1699e336c38016b558df23a65c",
+    "after_sha256": "4cbb5743b91c1418e679bc8e1d9fd371bcbe2de596345bfab2edd40f3239d18c",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed378/PDF188 Mercury clauses have Jugend-Führung and Führungs-Gespräche, correctly repaired to youth leadership and discussions of leadership. Remaining fire/news/technical/youth/language/media/traffic clauses inherited and retained. Full Witte rapid-thought/command/creative-thought paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-moon.md",
+    "before_sha256": "bbe7fa5683d2640a3c0029d46a0e49415c33b7a3b511ee7c1f6d163241a341cf",
+    "after_sha256": "fbabb89fdd61cb6427a691c6e7a5c8c7b38ca324668ad2b6590dc7a54591f278",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed378/PDF188 Moon clauses support leadership of a people and gefühlvolle Gestaltungs-Impulse as emotional creative impulses, correcting movement/powerful artifacts. Full Witte command/eagerness/furies/explosion/nation-in-arms paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-neptune.md",
+    "before_sha256": "477ac5aa99dbff7e7731198bde804fdb31fb735cee2ab8590938c81b3272b126",
+    "after_sha256": "5779c551c1fe92f1447fcfe9b367bb6ec737c9edd43fd841474bdec0094a6a41",
+    "ledger": "activations-084.jsonl",
+    "reason": "Seven ABC Neptune clauses on printed379/PDF188 end unsicherer Neu-Beginn; sudden disappointment through leadership is restored and following Pluto development clauses removed. All water/metaphysics/alcohol/air clauses remain. Full Witte thunderstorm/elemental-exposure/sea-storm paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-node.md",
+    "before_sha256": "44a728d21ac04547bb03cc8d8cf2986f89e65961327c1b4155f486e796a1c02f",
+    "after_sha256": "4c27a9ccf0ba1d9db64ec1b3a442e4962f44b27f07548c58cfb3e77a17b0bac2",
+    "ledger": "activations-084.jsonl",
+    "reason": "Seven ABC printed378/PDF188 Node clauses end Verbindung zur neuen Führung, correctly repaired to connection with new leadership; restlessness, new relationship/direction, fire, creativity and procreation retained. Full Witte energetic-work/nature-forces paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-pluto.md",
+    "before_sha256": "e372ffe9d258422a117466c6dad2f524f65d9c845afcb305b5d7a469cc56f101",
+    "after_sha256": "ea1a9811bf7786b0359d464d331de49d2cd6d0742dff2117b38bbca22ca8ea4e",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed379/PDF188 Pluto clauses begin new development/restless change/dynamic performance development, correctly restored from material formerly absorbed by Neptune; Führung repaired to leadership. Full Witte production/forces/volition paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-poseidon.md",
+    "before_sha256": "c2693581e5c281fe7b802f91fac3507202c4f35913429c638b059d2205e7921b",
+    "after_sha256": "5209dedd0252100166ef5298975d8472962cda766b2b651c3b056f9b86e6bc22",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed379/PDF188 Poseidon clauses support Wahrheit as truth, geistige Führung as spiritual/intellectual leadership and geistvolle technische Führung as inspired technical leadership, correcting honesty/filtration artifacts. Remaining ideas/testimony/culture clauses retained. Full Witte mental-force/knowledge-impulses paragraph is PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-saturn.md",
+    "before_sha256": "3cc899ed677dfa248225378fa52b68df136faebbc950c0348ecd4b75ea623262",
+    "after_sha256": "3c3e731a2a711cedd4cd738d11d67f172b74fa7ca09d9a27bdc3d0045a36c4be",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed379/PDF188 Saturn clauses support gestörte schöpferische Impulse as disturbed creative impulses and Führung as leadership/problems involving losses. New repairs are faithful; inherited awkward loss/fire syntax is retained. Full Witte reluctant-force/explosion-loss/storm paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-sun.md",
+    "before_sha256": "f867b6d1db8561ea612c8a271107511af857415a3a592eff631307b4fefcc1ef",
+    "after_sha256": "1169c7d801e51d5a0a2fd15606c4a0451bd7c69499a6c93cf9bec4a2b84c451d",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed378/PDF188 Sun clauses support persönliche Führungs-Impulse and Führungs-Zentrum as personal leadership impulses and leadership center, correcting movement artifacts. Full Witte violent-person/accomplishment/thought-direction/explosion paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-venus.md",
+    "before_sha256": "7b5e81d8c25dc777368d78b95389ad1393b27ceb243add788e2d1a4b2ec8c0b8",
+    "after_sha256": "dd2cc5c30ccd2624c56deada33a2f6eafbcff4b4266f62b752c748c8b9545512",
+    "ledger": "activations-084.jsonl",
+    "reason": "Eight ABC printed378/PDF188 Venus clauses support Kunst-Richtung/Kunst-Gestaltung/Kunst-Impulse as artistic, correcting artificial in all three repaired clauses. Existing peace/surprise/love wording is retained. Full Witte girl-procreation/harmony/nature-direction paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-vernal-point.md",
+    "before_sha256": "a00c932c65a6e4bd386f331bdc420a6aa325dc77e598ea719f88daf343673d38",
+    "after_sha256": "1fa13677cb981fefd0449dca6f91ce8de4767af621a0c4a470c6974af31b4949",
+    "ledger": "activations-084.jsonl",
+    "reason": "Six ABC public-row clauses on printed378/PDF188 support dynamische öffentliche Führung as dynamic public leadership, with OCR ()public repaired; inherited loose beginning-unrest/open-life phrasing was not changed. Full Witte public violence/storm/eruption/directed-forces paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/uranus-zeus-equals-vulcanus.md",
+    "before_sha256": "f49aa012f494aa9d0f9ef0e963e79c2d278b1de0e20984519b3ef2aade51ccc0",
+    "after_sha256": "407a0fce9b55c98967a6462b16750fe3925fc81e73be0667df00dabf9b6eee28",
+    "ledger": "activations-084.jsonl",
+    "reason": "Nine ABC printed379/PDF188 Vulcanus clauses have dynamische Führungs-Kraft, correctly repaired to dynamic leadership force; power/new-beginning/violence/technical/fire clauses retained. Full Witte carrying-through-ideas/mighty-explosion paragraph matches PDF238.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf188.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf238.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-admetos.md",
+    "before_sha256": "8b09fab68e01c9fbc51f66bdbe361dc80d79c49749b05c4049175747694e7a99",
+    "after_sha256": "7a0e07b3683d23e6dab422390aae813487bbda3cf4cd216b0dd0913963e9ea2d",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed399/PDF198 Admetos clauses include omitted großer Flüssigkeits-Stau (great fluid accumulation), authority weakened through depression, independent metaphysical deepening and air/water limits. Current repair retains all. Full unchanged Witte poor-management/heavy-bodies/planets paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-apollon.md",
+    "before_sha256": "36ed6b83d0a4db5d950bd6f5532cef74d169ad8ad702147a0eba0b932e9ccbbd",
+    "after_sha256": "df173c9562fdcabbf089d6333def640cb2339c8bc0485e9d094121a9757820f9",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed399/PDF198 Apollon clauses support air supremacy and future direction, replacing highness/future-thinking artifacts. Full Witte management-failure/deceived-leadership paragraph is PDF250; inherited trailing 1' residue remains explicitly unresolved and is not a new repair or doctrinal claim.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-asc.md",
+    "before_sha256": "367bbca21f55bcc45bcbb16f80fff14c85a4f58d93cd13aa67add2ef2a6fc902",
+    "after_sha256": "f043d75c5499334ce889e663f0ae4c546eceb89ecab7076de5f2817081fe63c7",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed398/PDF198 Asc clauses correctly restore others pretending superiority, sensitive partner/environment, disappointment, local future-direction and unknown hierarchy. Full Witte establishment-dissolution/unpleasantness paragraph and PDF250 locator match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-cupido.md",
+    "before_sha256": "3fa73ed30a9497eb45491bc08a388ba44b2abf57485e91e8611c690be25cd391",
+    "after_sha256": "c5f2865ee1f4d0fd302c6d38c4f3f37fa718f341a4a98b722a8e34bea6babeb2",
+    "ledger": "activations-051.jsonl",
+    "reason": "All seven ABC Cupido clauses on printed399/PDF198 replace unrelated economic-union policy text: dissolution, expectations/sensitivity, shared air superiority/future direction, independent air community and unknown hierarchy. Full unchanged Witte marriage/secret-community/management/art paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-hades.md",
+    "before_sha256": "8c1b44b10f618bedd98776d07a875e75edb3f004b8a39b091a7392e67de32fa2",
+    "after_sha256": "c2df9be6b29657487136b0d0c14c6990a0473d07960b8d5ebc5ae46e9e4844a0",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed399/PDF198 Hades clauses match, including concealed future direction rather than relief; past/water-danger/privation/state-service claims retained. Full unchanged Witte ruined firm/leader/government-catastrophe paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-jupiter.md",
+    "before_sha256": "30852481f70187e51de2f63098f930ca0bcdc869cc228c3b1087a384d3a097c4",
+    "after_sha256": "97bf5c9c81905ee4c7cb85762eff694195a6d115cecb89b8b8d31a2d71c7b8f0",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed398/PDF198 Jupiter clauses correctly restore sensitivity, air supremacy, future direction, financial-hierarchy weaknesses and subtle guidance while retaining legal uncertainty and state finance. Full unchanged Witte easy-money/extravagance/shrinking-property/inflation paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-mars.md",
+    "before_sha256": "5cadc775882b48478ea7a0cf9d2a1cba61babd3ee8b310b802d02ba69b6b9de1",
+    "after_sha256": "aafbb788dede37a8b5d3e477567e564776a08f22f4fc18015f984a932a4b4c45",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed398/PDF198 Mars clauses restore disappointment, air supremacy, state work by/in/with water and air authority; no air-holiness/horde artifact remains. Full unchanged Witte unsuccessful-deeds/attacks/aeronautical-accidents paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-mc.md",
+    "before_sha256": "aa79e42d01e4ee2854982e742d0aca68784929f85bfd7c2f9f15e7a03b9f2a81",
+    "after_sha256": "5cbd25b121fcaa871ebb4661821e7894ad0fd77e6fc0217db5de5d0e5f5f0a5d",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed398/PDF198 MC clauses restore the omitted opening sensitivity and replace exchange with disappointment, preserving authority weakness, expectations, uncertainty, air independence and soul sensitivity/hierarchy. Soul-hierarchy remains literally bounded in owner record. Full Witte incompetent-manager sentence matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-mercury.md",
+    "before_sha256": "99b5ee3b51b6b3633768dd303739d356051a7c3734619c0aad4807d2f88f984b",
+    "after_sha256": "1e066fab68ad5fdc093c4fc10ba02a2032ee928c31158105e99a8a52c1714f88",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed398/PDF198 Mercury clauses correctly restore language sensitivity, disappointing state news, independent air and state water traffic, and media-induced state uncertainty. Full unchanged Witte great-or-impracticable-ideas/inventions paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-moon.md",
+    "before_sha256": "23a37788b07d785daf1c28055ce0ec47d3bc45f082ec5f4cf90aed2d40b3e218",
+    "after_sha256": "60fdaa7336a74e648bca7adac8d7b761798e1542a850e93b6897b3843d34be73",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed398/PDF198 Moon clauses correctly restore woman's sensitivity/disappointment, emotional weakness, collective waterside/state themes, uncertain feeling guidance and public leadership. Full unchanged Witte sensitiveness/deceiving-persons/aviation paragraph matches PDF250; gender wording remains source-specific.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-node.md",
+    "before_sha256": "3ec96ab96061110807cc22dff02f8c394cfc7983584b07f6a192956c580cfa5a",
+    "after_sha256": "f676387a20ca1087b78bd56486db590f13ca981a34c4fbca2f8a49acdd6e45ef",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed398/PDF198 Node clauses restore disappointment, conveying sensitivity and future direction, with state/water-authority/future-connection clauses retained. Full unchanged Witte secret-machination/insincere-people/deception/inefficient-management paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-pluto.md",
+    "before_sha256": "6feb9e8e19dd020bb1ba58ddbe7bd72ab8bc541658c3af4996ce813f421f1426",
+    "after_sha256": "4e8b7d881344b62eb092baf859528edf15f015fee191ac905b81b5eb5e05f873",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed399/PDF198 Pluto clauses restore the omitted special-development/weak-state/evolution opening, sensitivity, future-shaping, unknown-energy transformation, foreign authority and increasing disappointment. Full unchanged Witte political-diplomatic/background/incompetent-leadership paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-poseidon.md",
+    "before_sha256": "b8a89f673c1924719f1724c7b6e8b14ac40d276cb56c7b856deebca092503315",
+    "after_sha256": "59ba14d6d6255bdc400d6fb99b73f70cf55c831b315cdbeb132d632d9fb12e60",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed399/PDF198 Poseidon clauses support sensitive ideas, clear water, foreign cultural state, refined authority, unknown spiritual hierarchy, denial of truths and rational future guidance; opinion/future-change artifacts removed. Full Witte mental-attitude/refusal/failure paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-saturn.md",
+    "before_sha256": "339f4776fe53dc492b96952da6f1e15d86d74235ac45f3844363167353a5e177",
+    "after_sha256": "25e91244bee5a713cddd44e4035acc6fd72d721c06447de5accf8e1d675df37f",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed399/PDF198 Saturn clauses correctly restore disappointment over losses and sensitivity/patience, preserving unknown hierarchy, state uncertainty/weakness and future boss tasks. Full unchanged Witte management-breakdown losses sentence matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-sun.md",
+    "before_sha256": "e7d518dae57bbca7d63b516f98779028a42649a7b31c0b98f1c5b66d37437a14",
+    "after_sha256": "21efbea4cb7360b793eac3fbd60c048e9ad7941b7cac76127c9b2b9b29e9ab36",
+    "ledger": "activations-051.jsonl",
+    "reason": "Eight ABC printed398/PDF198 Sun clauses correctly restore sensitivity, disappointment, authority weakness and water/air/state subjects. Both changed sources checked: actual Witte Sun row on PDF250 visibly prints greatly deceived, validating the gready OCR repair; all other Witte prose retained.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-uranus.md",
+    "before_sha256": "7299e6ab522bfbc434f64bfce9a36502793f2f00739cf03f3e75974ccbc48385",
+    "after_sha256": "a9a7314f7bf4e42b0e1832fd814e92b4777cf99123da9e39467473c863b177b8",
+    "ledger": "activations-051.jsonl",
+    "reason": "Independent finding resolved by owner, followed by fresh complete before/current Source Entries and full amended051 record reread. All eight ABC printed399/PDF198 Uranus clauses match, including Unsicherheit durch neuen Chef now correctly uncertainty through a new boss; owner transcription also corrected. Full unchanged Witte revolution/intervention paragraph is PDF250. Earlier missing-new hold is resolved.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-venus.md",
+    "before_sha256": "9d5173123f710abcad43ac5e5655720f1069978eab0a9ded590e281375de9c84",
+    "after_sha256": "21e0dcb41a6985f4dd1a9e96930b258a170179f36822afb6ed14dea18c4adc62",
+    "ledger": "activations-051.jsonl",
+    "reason": "Seven ABC printed398/PDF198 Venus clauses correctly restore sensitivity, love disappointment, peaceful future direction, weak self-confidence and peace/state hierarchy themes. Full unchanged Witte unfulfilled-love/sacrificing-love/abbess paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-vernal-point.md",
+    "before_sha256": "85168f29160dc51b13100e41cc847c6a61c3a4a6d892fa92923da227a421ddaf",
+    "after_sha256": "0336a7ae1f9ec5e8ce2ecebf92fb001bc41e523fd29b2e3bbe000f14f1c7496b",
+    "ledger": "activations-052.jsonl",
+    "reason": "Six ABC printed398/PDF198 public-row clauses restore disappointment, weak authorities, unknown public hierarchy and future direction without the public/exchange/discussion artifacts. Full unchanged Witte public wrong-impression/ruling-incompetence paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-vulcanus.md",
+    "before_sha256": "df6c3b9da065d51c6a0d87385aaf7e18c957bbff6670320db8ad42b55530c257",
+    "after_sha256": "bd506bd15746465e42393f2ce452507e5f1e8998f8310b165d7eb25ef73dd03a",
+    "ledger": "activations-052.jsonl",
+    "reason": "Nine ABC printed399/PDF198 Vulcanus clauses correctly restore energy of water, state power uncertainty/weakness, air power, violence-induced uncertainty and pretending strength. Full unchanged Witte mighty-deception/diplomacy paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-zeus.md",
+    "before_sha256": "92f8bab0243248bc1cb07bab05aeacc3e830525e9b83799c7e03b4f8d76f7cc9",
+    "after_sha256": "4b8080664d40d2f807225f35ab1eae4abd403d31fbf4543e4cf5423446970dcd",
+    "ledger": "activations-052.jsonl",
+    "reason": "Seven ABC printed399/PDF198 Zeus clauses begin dissolution of state leadership, correctly replacing deployment/support; air/water achievement/effort, unclear state aims, uncertain independence and metaphysical/future-shaping clauses preserved. Full unchanged Witte government-war/air-war/air-armament paragraph matches PDF250.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf198.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-admetos.md",
+    "before_sha256": "ac3df9edbff4262563af4de33f8c54ba70fbc4ba67d75f9f44f0fab292a2b0a1",
+    "after_sha256": "ae9bcb697ff7a25ddcc52d87e8dc1cefa436316bb1033e3330cdfa50744c3f14",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete narcotics/poison/decay/water-air/cold/aggregate-change/freezing-thawing row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-apollon.md",
+    "before_sha256": "db2b97969b8b153cf9b9d529b63b45475a43813b9b3d4663fcdf117dbe73f188",
+    "after_sha256": "fd46deb9c8256acc515c0e4913bc9cef6b323eae6d84308fc43e882d42246c30",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete embezzlement/corruption/large-deception-dissolution/chemistry/future-occult-science/air-gas-water row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-asc.md",
+    "before_sha256": "3477ba73911ba0fc47af6aa6d7c28b7d661c69e82c08e773d13a40e3235579f7",
+    "after_sha256": "cc909ffd6cae3ef6fedd56451246e3e0989f8e1f51569ed6dab54053b538fa94",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete deception/negative-others/refusal/unclear-relations/uncertain-location row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-cupido.md",
+    "before_sha256": "6e85c7c3c18c8cf1666bc9d04cbf85c4f51e17116486866f56b182e2adbc18b1",
+    "after_sha256": "15ef24b83a243c5aa8ea24d7a82910b70da465ff087280e85c9d5057161b8b6f",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete unfortunate-parents/family-association/housing/marriage-dissolution/dwindling-art row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-hades.md",
+    "before_sha256": "1cbe30d6683267c3e48cd4d6d5a11537ebf5b2a011f920566564a5a6be804444",
+    "after_sha256": "53bcd82a467eeb27881a5cb9f2c6db53a2dfb3c76c8812bc8c14e0b51dfe1899",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete error/deception/decay/water-catastrophe/dropsy/air-water-scarcity/epidemic/storm row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-jupiter.md",
+    "before_sha256": "b1a4116ef29c5967c4bad1a1cbee2bb1f67594cf8b643ed2682de6ae443e2900",
+    "after_sha256": "dfb83265eed5d13270e480938569bff0928507e3827edf7a66acb033e1afc82e",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete lucky-mood/easy-money/shortage-loss/speculation/financial-transaction/future-life row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-kronos.md",
+    "before_sha256": "755ab3b28610612f7d9d6d9441c8c2bcc6a63e7f20365b5e74f43abd6c67469c",
+    "after_sha256": "88790452a7d79ea43b2b54b79f276bb38fb61de43e50741f960368be6ff6d267",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete diplomacy/deception/incompetent-management/uncertainty/air/father-authorities/decree-annulment row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; unexplained inherited phrases remain unexpanded.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-mars.md",
+    "before_sha256": "5de02458d74c5afe42a0ce1e34177acd90137fc14e3d5c8f88f9bbb6fffd146d",
+    "after_sha256": "f0e6bc08f103629ab515341ca948df763ad76f48a091d07b33cf05b3e25322b9",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete rejection/failure/poison/hindered-plans/unknown-conditions/water-air-labor row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-mc.md",
+    "before_sha256": "44f49663a22a522d776740933dfe7d8142794b34d206e50177d4bc277014972e",
+    "after_sha256": "0d03bf2091ca1dbfea6dc49f558a0ac36b7a9537f35205a8033e1d04352b71b8",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete refusal/uncertainty/wrong-ideas/deception/intuition/future/unknown/discomfort/minute row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-mercury.md",
+    "before_sha256": "88887378ff2428b8e7a2a7da98bc88aa59d539cdf5396eefe909da5317e8fc05",
+    "after_sha256": "3a97201e18b743579bc4b63383368fda59c0457488e86e83ef2c2e492d536023",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete intuition/fantasy/unclear-false-thinking/rambling/water-air-motion row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-moon.md",
+    "before_sha256": "08e38c06c3424ba122960b4925be9139872b6cfc21153012763e0e03a3c150a7",
+    "after_sha256": "9c0bf82a97a9486ce98ad37b971317e4638864509b93bcb289cf1dfe715f4906",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete sleep/dream/receptivity/tact/woman/relaxation/gas/inspiration/weather-smell row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-node.md",
+    "before_sha256": "2abd9c9e92b9b3b8b19993cc5e8694499c6cdced756ca956f056afb86642af82",
+    "after_sha256": "84e557220130ba2f8c6b5a423724b238f81833a2ff4f7e29b60fb623e07cedc2",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete union-dissolution/secret-future/uncertain-unreliable/metaphysical-unknown/avoided-contacts row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-pluto.md",
+    "before_sha256": "69bdefa09db20f75832eef68e0a3a5bfb2e1aa599e5ea3af079f302433ba5a96",
+    "after_sha256": "f17112c7447b639e00818591327634a07fed181fe4d6c905e538dbe74e542314",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete hidden-transformation/future-recognition/below-radar/creeping-crisis/uncertain-turnaround row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-poseidon.md",
+    "before_sha256": "3aac24a0ba327aeef37bebd94b22b0335af3d046b9579945e1383ecd53d477bd",
+    "after_sha256": "09ae17d7accfa8403f04a8c73990202f886d030351be95b92d3ccb3178d055ba",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete metaphysics/psychology/light-mirror/misrepresentation/worldview/enthusiasm-fanaticism/spiritualization/steam/deception row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording is retained rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-saturn.md",
+    "before_sha256": "95a67495e1cbd7965b664285f93ccc07e95ed1bb29292db36506cc66520db332",
+    "after_sha256": "6d947de06a0bb853ef34f5e5d8bccf4907574d617cf31ebf5bc14d980b7a6697",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete long-duration/disease/theft/fraud/patience/old-age-intuition/creeping-loss/gas-air-water row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-sun.md",
+    "before_sha256": "5ca8397aad3e4feb23fa49057737c4976212f4febb75ca0f69c5be64afc20103",
+    "after_sha256": "ed2a3ae2cb49860a1817f1b47b33a82afd2cacda986360bba69e217d82bd234e",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete delicate-body-object/weakness/blood/balloon-airplane-ship/relaxation/decay/solar-cycle-aside row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-uranus.md",
+    "before_sha256": "f3e09db464d4b92cb5fbc95b06fdf39bf43078cb94ee2b232861e1d7aac1866f",
+    "after_sha256": "5bf8dbfc43dd26d3362d56cf4eb507ed7e0daf1d9f2645f8984e379b4b507dc1",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete incapacity/beyond/crisis/revolution/confusion/endings/futile-excitement/uncertainty row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-venus.md",
+    "before_sha256": "1d0794a79dc95f97a90245d56e8c65a282b0838dbbad8372fc4731250c821e05",
+    "after_sha256": "6c762cf453ad18bc3a5790308a57d0d9a35c9a9254c81f7f4e1c61195d8d03ce",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete rapture/sensitive-renouncing-false-love/secret-feelings/historical-sex-wording/disappointment-affection row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-vernal-point.md",
+    "before_sha256": "7aae408d8f165e565c01a139cb25050331b5031a96988c5c9464a98d22c33e94",
+    "after_sha256": "2d3c40ea76b930ff5e1caa0b33d19187232d8be883f72b3d8cef36eac42c1194",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete public-daydream/disappointment/poisoning/deception-dissolution/uncertainty/air-water row matches the actual glyph on immutable Witte PDF244. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf244.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-vulcanus.md",
+    "before_sha256": "47a50aabbee6b3e1233f35bbdb6945ecf15d1157058e5b11d57113eba5a82994",
+    "after_sha256": "4fc07942fee1bfcd4caac42ad6b84dc8c9b02f2c4d54eef89e534b2502a2c01b",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete sensibility/unseen-force/resignation/powerlessness/deception-hidden-sources row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-neptune-equals-zeus.md",
+    "before_sha256": "ae6243380d6496cafc1e892fe15eacff0ee93a832a4d9174129f949aaa2b2e2f",
+    "after_sha256": "f9501eb1f8bfa9f91053159650e034af2287cb079eb0ee4b798fe9284140f004",
+    "ledger": "activations-052.jsonl",
+    "reason": "Source-attribution and locator additions only; full baseline/current Witte prose unchanged. The complete creative-imagination/wasted-energy/sterility/gas-fuel-steam/weapons/provocation/fire/scald-loss row matches the actual glyph on immutable Witte PDF245. Added source identity and one-based entry reference are correct; historical/unclear source wording remains attributed rather than newly reconstructed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-witte-pdf245.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-admetos.md",
+    "before_sha256": "28f1eeb651dc8c1f4f65099fb26e46ceaa5f4186cc82f2e5d3aa1ee5d622f9a5",
+    "after_sha256": "30bbe84041e2a1bbe74164e22097b932bfce224145aa310772128f4cb0a2bca9",
+    "ledger": "activations-052.jsonl",
+    "reason": "Seven ABC printed221/PDF109 Admetos clauses correctly restore sensitivity from fine chair, preserving endurance/air blockage/weakness/uncertain-ending/water/stabilization. Changed Witte Connections typo is visibly confirmed at actual PDF147, with full row retained.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-apollon.md",
+    "before_sha256": "d7c759689df7dbc5162416f329265769446b8b2cc05d91b43dbdfb639b530d86",
+    "after_sha256": "52adb78c660a28f5c502b9d643238b017af4de9e4c6bfd240d8d474d3bc09973",
+    "ledger": "activations-052.jsonl",
+    "reason": "Six ABC printed221/PDF109 Apollon clauses correctly restore Auflösung as dissolution and retain successful metaphysical connection, creeping community expansion, uncertain relationship success and trade knowledge/links. Full Witte many-union dissolution sentence matches added PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-asc.md",
+    "before_sha256": "dd8ed4dfb9cc94dc4adf546814f74e87876b109ae493e400ee6856c053c1a9c2",
+    "after_sha256": "e6da06c2f76e9a38efa1f581b9dd68b4ef719d903dd7e95e69cfe2910ace9383",
+    "ledger": "activations-052.jsonl",
+    "reason": "All seven ABC Asc clauses on printed220/PDF109 replace the bullet-only cache; changed Witte others spelling is visibly confirmed in actual PDF147. Added Ebertin printed285/code1020 matches PDF287, Sandbach exact112/chapter111 matches full actual chapter, and Munkasey printed332 entry is actual PDF333. All unchanged source paragraphs read and retained.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-chiron.md",
+    "before_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "after_sha256": "685954513212f3dad11393147eae69cba97a5f42d35caf4e133effa6d366573a",
+    "ledger": "activations-052.jsonl",
+    "reason": "Before page had no Source Entries body. New source-check block is verified against the entire actual Sandbach Neptune/Node chapter on PDF111–112: activators run Saturn to Uranus, Pluto, Ascendant, Midheaven, with no Chiron paragraph. This accurately documents absence and preserves a structural placeholder without inventing delineation.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-cupido.md",
+    "before_sha256": "d25acc4b739deb4280b214aaa16d4d3574507f8a51c4af76112d4f38aae24b7b",
+    "after_sha256": "f3db8a90d7416d7714b235f283a6fefc78873a9a0d62fe39614584ab3f195432",
+    "ledger": "activations-052.jsonl",
+    "reason": "Six ABC printed221/PDF109 Cupido clauses restore shared-connection sensitivity, disappointing community encounters, dissolution of contacts and metaphysical community without repeated malformed community tokens. Full unchanged Witte marriage/family separation paragraph matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-hades.md",
+    "before_sha256": "c0ad77307116b038ef9fe004e885fb41d08c88cb19743cb07742dc70afe399ba",
+    "after_sha256": "4a8bd02e7624cbee9bd0b9aaf4fa7109de3c16cb928b2bf4cfb65ab4e7880ebd",
+    "ledger": "activations-052.jsonl",
+    "reason": "Six ABC printed221/PDF109 Hades clauses correctly restore sensitivity and weakness while retaining secret metaphysical, criminal, past and distress connections. Undefined criminal connection is kept bounded. Full unchanged Witte poverty/shunning/hopeless-condition paragraph matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-jupiter.md",
+    "before_sha256": "820ace687645ea3fad8b1da3b5f48b35c992d99792ea4052deacb6245e3cd36e",
+    "after_sha256": "fc3ff4818dba590f14d3ebc04e91d748347b422d5d040250b2b18edf868feaca",
+    "ledger": "activations-052.jsonl",
+    "reason": "Seven ABC printed220/PDF109 Jupiter clauses restore dissolution, subtle-material connection, sensitivity and money intermediation. Added Witte147, Ebertin printed284/code1016 (actual286), Sandbach exact112/chapter111 and Munkasey printed332(actual333) references all match complete original paragraphs; other source wording unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-kronos.md",
+    "before_sha256": "5224a4b3ab6e40db85d31aca934654826e55c056a78fd72f4abd68f50eba3ef7",
+    "after_sha256": "d0cfa2f9611816b105a29c516802a784d4a71ee86212b59d71fadbc0343b3cc4",
+    "ledger": "activations-052.jsonl",
+    "reason": "Seven ABC printed221/PDF109 Kronos clauses restore dissolution, state disappointment, expectant/hopeful relationships with authorities and sensitivity, retaining state/water/air connections. Full unchanged Witte state-contact/dissolved-union/deserted-leader paragraph matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-mars.md",
+    "before_sha256": "e2c2d1ad8508cb1706dc5e11557768ace01c77666a9902f8e220e95ac0b7205f",
+    "after_sha256": "b9e2584af438048d76e11572ffb2ad41c96fdddc84fd8005342ab626b35d0682",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed220/PDF109 Mars clauses correctly restore disappointing work connections and sensitive contact creation. Historical Ebertin footnote63 is separately and accurately restored with under special circumstances; actual printed284/PDF286/code1015 and footnote checked. Witte147, exact Sandbach112/chapter111 and Munkasey printed332/PDF333 paragraphs/refs all match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-mc.md",
+    "before_sha256": "2429c51cb4743362b0477b00bb0e9265a6ce42fd4b0c8d78c9222649b2fa0407",
+    "after_sha256": "d288beb37a69c2bf567db4b2e7fadee7b3b60a6432fe1cf119ebe0f2ed5b3ed2",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed220/PDF109 MC clauses correctly restore soul-connection, sensitivity, uncertainty, future connection and dissolution, with psychic/unclear-soul clauses retained. Changed Witte To see spacing matches actual147. Ebertin printed285/code1021(PDF287), Sandbach exact112/chapter111 and Munkasey332/PDF333 references match full actual paragraphs.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-mercury.md",
+    "before_sha256": "b53cc3cfc80b837408b8708fddecd865ea35644037d0eb9302d61f1631676443",
+    "after_sha256": "1d7c693f6480861eb9a82913d823e0f654cc2e0a8ea98049615d6a8aac91ffbe",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed220/PDF109 Mercury clauses restore metaphysical conversations, dissolution of youth connection, disappointing contacts, sensitivity/news mediation and water transport. Changed Witte fruitless spelling matches actual147. Ebertin printed284/code1013(PDF286), Sandbach exact111 and Munkasey332/PDF333 references match full actual paragraphs.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-moon.md",
+    "before_sha256": "8c02b7cabac20cdab47de25dadcb634072f081e9e33d84dce3b807a79cbeaeb0",
+    "after_sha256": "62ece3b1a42e585696f49563ad7dec13f132fc0d7590df1e098ddf5afa83380f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed220/PDF109 Moon clauses correctly restore emotional dissolution, disappointment/sensitivity and uncertainty of feeling rather than a woman's uncertainty. Full unchanged Witte147 paragraph, Ebertin printed284/code1012(PDF286), Sandbach exact111 and Munkasey printed332/PDF333 paragraphs and added references match actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-neptune.md",
+    "before_sha256": "000bfb1e2e6237bc464cf9c7c88d53afa3b79ba501559d7b09e5964612625c01",
+    "after_sha256": "1584fb1aa5dcab7d036135fd7e67ffa0b9dc8187ea5fe123127af20dfd2f3c25",
+    "ledger": "activations-053.jsonl",
+    "reason": "Typed locator label only: complete baseline/current Munkasey prose and NEPTUNE/NODE With Itself heading are unchanged. The Nep dreaminess/direction/evasion/neglecting-help paragraph exactly matches printed334 on actual PDF335, preserving the activated repeated factor.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf335.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-node.md",
+    "before_sha256": "78358221243aed24be34d4d89688f9d1dd251c2600e93e2799f27e3f95bb2d50",
+    "after_sha256": "71cc969984680f00a2961775a3570511b7d3eab93dde51e63a86f5a485f90f9f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Typed locator label only: complete baseline/current Munkasey prose and NEPTUNE/NODE With Itself heading are unchanged. The Nod inspiring-people/knowledge-opportunity/mystical-religious-occult-groups/spiritual-persons paragraph exactly matches printed334 on actual PDF335, preserving the activated repeated factor.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf335.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-pluto.md",
+    "before_sha256": "ad472dfa1ea996109bbc8a76393d41425eb323147cc07a439e08952ce328098d",
+    "after_sha256": "c449481f9de2940969808f6a40e0f52e6e725a80756d2623b831765e3ded1e20",
+    "ledger": "activations-053.jsonl",
+    "reason": "Five ABC printed221/PDF109 Pluto clauses correctly restore unfolding sensitivity and growing disappointment, preserving intuitive/uncertain development and metaphysical transformation. Added Witte147, Ebertin printed285/code1019(PDF287), exact Sandbach112/chapter111 and Munkasey332/PDF333 all match full actual paragraphs.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-poseidon.md",
+    "before_sha256": "43b65548da9e4c407cce4dc6382f58b12ba5a42788dc2ffc346ff0b20309fae3",
+    "after_sha256": "1c9ec33112f7ca529c107436028f7ec12d22d55525a06143dddffb5c73aad11b",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed221/PDF109 Poseidon clauses restore disappointing truth, sensitivity in an intellectually rich (geistvoll) relationship and uncertainty in intellectual connection, retaining cultural/metaphysical clauses. Full unchanged Witte high-minded/spiritual-dissolution/unreliable-people paragraph matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-saturn.md",
+    "before_sha256": "84ec26552d5559600b7c3f68fa16093480cc6dadf632c4911cd39c2b3a37a2c6",
+    "after_sha256": "463c4e874334d6fcd1cb2988f44c6e299ddcd2e32f28df5a4c3710bd27e07e31",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed221/PDF109 Saturn clauses correctly restore sensitivity and gestörte Verbindung am Wasser as disturbed connection by water, replacing spatial wording. Added Witte147, Ebertin printed284/code1017(PDF286), exact Sandbach112/chapter111 and Munkasey332/PDF333 all match full actual paragraphs.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-sun.md",
+    "before_sha256": "3e18eede83c4b8afe087aff0de6ea72f2b9e79a416d7a49180816b44087a22d9",
+    "after_sha256": "b97fbeef1b3cb2126824a4313226e5dee3ac4670a6a63363f48f82029a8d4338",
+    "ledger": "activations-053.jsonl",
+    "reason": "All seven ABC printed220/PDF109 Sun clauses replace dash-only cache, including sensitive personal/metaphysical/water/air contacts, sensitive people, unclear man contacts and uncertainty. Full Witte147 paragraph and added Ebertin printed284/code1011(PDF286), Sandbach exact111, Munkasey332/PDF333 references match actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-uranus.md",
+    "before_sha256": "c18ed25007a46a17aae840493df0dcb830870cddb6b6ffe2bc839d1942e47e2c",
+    "after_sha256": "c6c1725a65c620c993a07309c82ac7d713a09a2567734bb3b42e6690375d6a70",
+    "ledger": "activations-053.jsonl",
+    "reason": "Found and corrected: an intermediate Witte repair wrongly singularized Passing union or connections. Personally re-viewed high-resolution immutable PDF147 row and reread complete final baseline/current source sections plus full amended unique053 record; baseline plural connections is restored. ABCsix clauses match printed221/PDF109; Ebertin1018 continuous printed284–285/PDF286–287 sentence correctly excludes Mars63 footnote. Added Sandbach112/chapter111 and Munkasey332 references match actual raw. Full final source and owner record rebound after correction.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147-uranus.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-venus.md",
+    "before_sha256": "1f3b8881b1a149ab2d987ea6b775142b3b28ed3fa9c7bf87dd3d008317420df4",
+    "after_sha256": "e4ad92ee2b318e58fff53883a40820021b0e7598f8abe00b7cd571ab35d22b1e",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed220/PDF109 Venus clauses correctly restore dissolution, sensitivity and uncertain peace/love contacts, retaining future art/air joy/water preference. Full unchanged Witte147 paragraph, Ebertin printed284/code1014(PDF286), exact Sandbach111 and Munkasey332/PDF333 references match actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf286.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf287.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf112.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-vernal-point.md",
+    "before_sha256": "46791a19491ed432ed734eddd70fb5889849f5091679addf986bee4eda3036b4",
+    "after_sha256": "37c7455056271ef6753bd5433c09cf1b4b20cf9b5f49dfdc0b512ce202b781a3",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC public-row clauses on printed220/PDF109 replace dash-only cache: public dissolution, public water, disappointing links, air connections, uncertainty and water mediation. Full unchanged Witte general dissolution/separation sentence matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-vulcanus.md",
+    "before_sha256": "48cf0af8b4ff35d253a8b69622cfb664296ea8130b8befc4091fa7734f4337e3",
+    "after_sha256": "73d194c75275aae081aed388ae47faa0f3f847167298eb3c4ad9ce8cb0c2947c",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed221/PDF109 Vulcanus clauses restore disappointing influence and subtle-material energies, retaining air/energy weakness/great uncertainty/water-force range. Undefined historical energies remain bounded. Full unchanged Witte mighty-disappointment/grave-dissolution paragraph matches PDF147.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-zeus.md",
+    "before_sha256": "ab1a474a76fce244368460c6886b6651128eca6cd44f04f383dd916f8a61729a",
+    "after_sha256": "3bbbdba807057fa8e8d759acdb50b9b1f29cbfa49c387b289f1dd13f2e8c86ac",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed221/PDF109 Zeus clauses correctly restore dissolution, sensitivity, goal-striving and uncertainty rather than certainty at contact's beginning. Changed Witte Settling spelling is visibly confirmed at PDF147; all three source sentences retained.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf109.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-admetos.md",
+    "before_sha256": "9f48ae1ef09dd2bb76a3ad02c1a6628dc9b2f14fbcf088aa1f10f2cdd400a00d",
+    "after_sha256": "10bf2478ef238c1f371563a2806915c97630c833d82a0ccd0d7a3663216cfd5e",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed391/PDF194 Admetos clauses correctly restore thorough water change, growing oppression and expected increasing restrictions; Blockade-Entwicklung is literally glossed and bounded. Full unchanged Witte bottom-hidden/profound-dissolution paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-apollon.md",
+    "before_sha256": "76ff063d6f68c1cde4fb58f40ddb11392da00c213f4be2e63a0987c6c87b6c6e",
+    "after_sha256": "e115dd0c4a796543ef74dfbc798b64e59ac33d440c2e61979deebdd94f3e15be",
+    "ledger": "activations-053.jsonl",
+    "reason": "Eight ABC printed391/PDF194 Apollon clauses correctly restore intuition, future knowledge development, unfolding sensitivity and pretending development, preserving air/trade/water subjects. Full unchanged Witte secret-science/hidden-change paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-asc.md",
+    "before_sha256": "6b02cd116593cdd0d188ee65e3d76373aedfc3052f7bc040c000b28110a3f0a5",
+    "after_sha256": "7a8dc77641200d6f5c6732cd606ddecfdf40595d5ddeb7b20c61bad4ca958556",
+    "ledger": "activations-053.jsonl",
+    "reason": "Eight ABC printed390/PDF194 Asc clauses correctly restore pretending environmental developments and uncertain partner development, retaining air/water/location/expectation clauses. Full Witte246 paragraph and added Ebertin printed282/code1008(PDF284), Sandbach exact111/chapter110 and Munkasey328/PDF329 references all match actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-chiron.md",
+    "before_sha256": "115c0f3d47ca7d549185638de808e9ea65be6d361c4b8c46374533084a89e74d",
+    "after_sha256": "43d20383edf51ee27390b31ac3a88f5d62d92c9fd3a2700d1b903c6f56743b6c",
+    "ledger": "activations-053.jsonl",
+    "reason": "Exact locator addition only: complete unchanged Sandbach Chiron paragraph is present on actual PDF110 within Neptune/Pluto chapter starting110. Unlike Neptune/Node's gap, this exact orientation has source-bearing content; all energy/subtle-reality/ideals/uplifting clauses match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-cupido.md",
+    "before_sha256": "0bb965097e28cf425f7911ed981d07fe7944fd17002a882da7a3c2db4b831edf",
+    "after_sha256": "bee5c97df7cd5251aa2683e1455c8b268de01690f3c9babda357d6e8b141e9c9",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed391/PDF194 Cupido clauses restore disappointed development community, developing shared sensitivity and metaphysical community, with creeping/uncertain development and growing community expectations retained. Full unchanged Witte slow family/home/engagement/sickness/secret-matters paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-hades.md",
+    "before_sha256": "02a48cb3513baca5a14048f5295075460c693afaac78942929b944a0cffc92c5",
+    "after_sha256": "3fb66ede164f4191444d339d22090b7a8f3032be932555142297d65763fe5faa",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed391/PDF194 Hades clauses restore impeded development, intuition deficiency, adverse air change and uncertainty through criminality, preserving secret/dangerous development and the separately repeated future-impediment clause. Full unchanged Witte epidemic/treachery paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-jupiter.md",
+    "before_sha256": "9bc5d8e570ed9cb903e067a3409481191c52fd74b52f1d872128ca392cb00c18",
+    "after_sha256": "001afb1f4c55c58d706796106cdfed89eac5ee00aed7a9ad771f8846c8edfd2f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed390/PDF194 Jupiter clauses restore pretending financial development, intuition and legal/air uncertainty. Separately restored Ebertin footnote61 accurately retains In some cases and gambler, confirmed with code1004 on printed281/PDF283. Full Witte246, exact Sandbach110 and Munkasey printed328/PDF329 references/unchanged paragraphs match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-kronos.md",
+    "before_sha256": "3e50b350b88f36b093d256a82dbc3a72bf2b2484107ebfd9e2650d1af021044d",
+    "after_sha256": "36801dcc9b99b3222bcfe54eaa440274ce5751ff46f8983f00995c8dd212a30e",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed391/PDF194 Kronos clauses correctly restore pretending developments, state weakness, self-confident unfolding through sensitivity, uncertain authorities, state expectations and leadership weakness. Full unchanged Witte unnoticed abilities/boss-superiors-authorities paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-mars.md",
+    "before_sha256": "3f729cec12b3281807ec538a54bf7aaef0e0f88966bfd56ef15872df84dd26d8",
+    "after_sha256": "1154a4e54205b8e24f0f26956f628aba7663bd9cf5e27b72a8e8bf3186607317",
+    "ledger": "activations-053.jsonl",
+    "reason": "Eight ABC printed390/PDF194 Mars clauses correctly restore sensitivity, water rather than weather, uncertain work development and expecting work changes. Full Witte246 paragraph and Ebertin printed281/code1003(PDF283), exact Sandbach110, Munkasey printed328/PDF329 references/unchanged paragraphs all match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-mc.md",
+    "before_sha256": "b8b13d263a0950c07db61e00c8c91126e1ef68c695c000c97425ae4288be400c",
+    "after_sha256": "eba0a8725599bc806b53a1fb3f9e2aa81897349fac684bada82ddb8f5d39713f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Eight ABC printed390/PDF194 MC clauses correctly restore pretending development and creeping/uncertain/future development. Full Witte246 paragraph and Ebertin printed282/code1009(PDF284), exact Sandbach111/chapter110 and Munkasey328/PDF329 references/unchanged paragraphs match actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-mercury.md",
+    "before_sha256": "9edeaf46743a535bcf20ade6a392d0697f6a25c79e2ab64fa0595ea228386121",
+    "after_sha256": "20923e6a202ef79e9baba78d39b15142bf4695d6552ba5b6e8f89e3ece858894",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed390/PDF194 Mercury clauses correctly repair water rather than world. Sandbach actual110 visibly separates small 3 Highlighters- label inside the sentence; moving it to explicit unexplained artifact note preserves provenance and restores sentence flow. Added Witte246, Ebertin printed281/code1001(PDF283), Sandbach110 and Munkasey328/PDF329 references all match.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-moon.md",
+    "before_sha256": "b6f9ce5d59164712a69a89f40dcb905d0da919a3aa99b8922b64bf375f9f3ef4",
+    "after_sha256": "3f515fe22ea4b6585446e1dbda227e48577f8e46c8b0b28d5fd840921a7e68bb",
+    "ledger": "activations-053.jsonl",
+    "reason": "Historical Ebertin footnote60 is separately restored with its exact In some cases wording and Moon formula, confirmed on printed281/PDF283/code1000. Full unchanged ABC printed390/PDF194 seven-clause Moon row, Witte246, exact Sandbach110 and Munkasey328/PDF329 source paragraphs and added references match originals; no new ABC repair is claimed.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-neptune.md",
+    "before_sha256": "c8fefc3ed16801ad0cdab55870deae9a44879039e1deeed751621c0afd700002",
+    "after_sha256": "2a0e1b033e85bedcdcab986f2036ddd0b0c51df108ce593c59beeb2085dd12fc",
+    "ledger": "activations-053.jsonl",
+    "reason": "Typed locator label only: complete baseline/current Munkasey Nep intensity/use-of-others/misled-intentions/power-passion-dreams paragraph and NEPTUNE/PLUTO With Itself heading are unchanged. Actual PDF331 visibly carries printed330 and the exact repeated-factor paragraph; no new source prose repaired.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf331.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-node.md",
+    "before_sha256": "a901f21a5d67966316d75a600fd5605ca0dfb55d4e20f82e137e999356a755ea",
+    "after_sha256": "a783a5a43cc3250b43593481e7c6a04a46c413647058ae0bfcea4d04eca9c36f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed390/PDF194 Node clauses correctly restore Täuschung as deception about connection development instead of exchange, retaining refined/creeping/uncertain/future/expectation clauses. Full Witte246 paragraph and added Ebertin printed282/code1007(PDF284), exact Sandbach111/chapter110 and Munkasey328/PDF329 references all match full actual originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-pluto.md",
+    "before_sha256": "6c8411fcf40c4fff3c89b0d9eaaeb0f2c6a4a6f90440c8aabaaedda51bbe7cfe",
+    "after_sha256": "68c97da5eab71524c6e4651b4e54cd9d6f31f2d6a1bfc9c2e9cf3cd146c30e18",
+    "ledger": "activations-053.jsonl",
+    "reason": "Typed locator label only: complete baseline/current Munkasey Plu extremes/avoiding-punishment/impurity-in-purifying-systems paragraph and NEPTUNE/PLUTO With Itself heading are unchanged. Actual PDF331 visibly carries printed330 and the exact repeated-factor paragraph; no new source prose repaired.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf331.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-poseidon.md",
+    "before_sha256": "d2aa72cc5e24551b1f1b1aaba674e4f6807fb46be7935557751fa6c0a17d0661",
+    "after_sha256": "804f58d6b2b2eb2fa9c7d170d6360146993476c115ca94476c5399080c5471a9",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed391/PDF194 Poseidon clauses correctly restore disappointing culture development, pretending mental growth, future culture, weak unfolding of reason, refined mental development and increasing clarity. Full unchanged Witte unnoticed-spiritual-change/secret-wisdom paragraph matches PDF246.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-saturn.md",
+    "before_sha256": "7c3d0b5e3eb8f073b3fd986c1d7d1d1cdbeea21599b54948d4e5aa6d48ad74b7",
+    "after_sha256": "a2fc06d47777940626d9e55527815186ed63c72047eee01543c9e82a79018b68",
+    "ledger": "activations-053.jsonl",
+    "reason": "Seven ABC printed391/PDF194 Saturn clauses restore disappointment through loss-bearing development, literal inhibited breathing development, weakness, developmental disturbances and water problems without collapsed-development artifact. Full Witte246 paragraph and Ebertin printed281/code1005(PDF283), exact Sandbach110 and Munkasey328/PDF329 references match actual full originals.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-sun.md",
+    "before_sha256": "fb8dc75a59d84d152f9799d68e5cc8756450f1eedcb508040e10d018cd0ad9f3",
+    "after_sha256": "aa6493ad2b0147ab7116a897516246df38c1dbbaeafd6b53c7ebde2f010ea0dc",
+    "ledger": "activations-053.jsonl",
+    "reason": "Six ABC printed390/PDF194 Sun clauses restore pretending personal development, bodily change, uncertainty, human change through metaphysics, expectations and air-development center. Full Witte246 paragraph and Ebertin printed281/code0999(PDF283), exact Sandbach110 and Munkasey328/PDF329 references match actual full originals; historical medical wording unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-uranus.md",
+    "before_sha256": "e79c6a70f273454e095325c5b06a8a2c0bbf0471a4dd704d5d58e72c4e42a2f6",
+    "after_sha256": "06bda276319a896d9830581aa6717e5ae80f2a0c72f9b52f13d0d320d24b21b4",
+    "ledger": "activations-053.jsonl",
+    "reason": "Full baseline/current source sections and unique full owner record read. All six ABC clauses match printed391/PDF194, including pretending technical development. Ebertin1006 crosses printed281–282: the sentence is rejoined, footnote62 remains separate, and the differently oriented Moon60/Jupiter61 material is removed. Added Witte246, Sandbach110–111 and Munkasey328 locators match actual raw passages; remaining source prose is unchanged.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf284.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf111.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-venus.md",
+    "before_sha256": "452ed8e7a749fdf1ef07b1c0309c803063966460c5ee4c9ae73c6d3d246112b0",
+    "after_sha256": "0b682a14fe3b9b9452eda04fe44c12915ac63fed6696b8851d76d166c72cda4f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Full baseline/current source sections and full unique owner record read. The repaired ABC eight-clause Venus row matches printed390/PDF194, including uncertain development of a love and developing a preference for water. All added Witte246, Ebertin1002 printed281, Sandbach110 and Munkasey328 references match the actual passages; unchanged prose remains verbatim.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png",
+      "verification/source-repair-review-uranus-neptune-ebertin-pdf283.png",
+      "verification/source-repair-review-uranus-neptune-sandbach-pdf110.png",
+      "verification/source-repair-review-uranus-neptune-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-vernal-point.md",
+    "before_sha256": "540f6c3cfa3c536d05b6fcbac02e6feea412f651017f459d473a863d71b786d7",
+    "after_sha256": "f10261e80253ee436e8fc6a5bd3cc4c71f64fc88b0521295b5019039d9e3b331",
+    "ledger": "activations-053.jsonl",
+    "reason": "Full baseline/current source sections and full unique owner record read. All six ABC printed390/PDF194 clauses match, repairing pretending, public rather than private development, and transformations in public waters. Witte246 unchanged passage and added locator match the actual raw row.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-vulcanus.md",
+    "before_sha256": "58f05a5da40292d73259432976f8e3ca88d91e13cd177ae2bca3aee8c73765e8",
+    "after_sha256": "dc88f0ec899d3bd3b02b121f880e6cd126e81d2305a1256b1bbd6e3cefe8d94c",
+    "ledger": "activations-053.jsonl",
+    "reason": "Full baseline/current source sections and full unique owner record read. ABC seven-clause printed391/PDF194 row matches sensitivity, intuition, developing violence, water-energy and pretending growing power. Witte246 unchanged passage retains therapy and sport as source-native categories; added locator matches actual raw.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-zeus.md",
+    "before_sha256": "3cee22b87421157ffac50adb48ad8ff04eb04c5e54f0006c3015a3354bcf56c4",
+    "after_sha256": "cd8805c1c3e50d97febb975374b6ed417d031f102ad68a33238b98ce0aadd558",
+    "ledger": "activations-053.jsonl",
+    "reason": "Full baseline/current source sections and full unique owner record read. ABC eight-clause printed391/PDF194 row matches, including weak leadership rather than movement and uncertain procreation development. Witte246 unchanged complete five-sentence secret-orders row and added locator match actual raw.",
+    "evidence": [
+      "verification/source-repair-review-uranus-neptune-abc-pdf194.png",
+      "verification/source-repair-review-uranus-neptune-witte-pdf246.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  }
+]

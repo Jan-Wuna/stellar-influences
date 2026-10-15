@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators: [ABC](#abc-entry): printed p. 112 (PDF p. 55), Node glyph row checked against the scan. Other locators remain parser-cache leads: [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 242, entry 0852; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Node`
 - Astronomicon formula: `V/Asc = g`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ Added ability to attract and meet the right people; a sense of destiny which inc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Beneficial relations take shape as meetings, affiliations, and supportive connections.
+- psychology: Sandbach emphasizes encouragement and relationships that expand self-awareness and identity.
+- body/health: No bodily condition is specified; Munkasey's sexual encounter is a social example.
+- social/relationship: Witte's good relations and Ebertin's happy associations emphasize congenial company.
+- events/manifestations: Festivities, successful partner connections, well-received presentations, and meeting suitable people are named.
+- conflicts/notes: ABC includes both partner ties and wider environmental connections. These favorable examples do not specify a guaranteed meeting or outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries vary in emphasis between enjoyment, helpful connections, and identity growth. They do not establish an explicit disagreement or a necessary adverse expression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Node`: good relations, festive or supportive company, and connections that help the native feel more confident, visible, and socially integrated. Main caution: to avoid treating sociability as sufficient in itself; growth still depends on the quality of associations, not just their pleasantness.
+In `Jupiter/Asc = Node`, Node specifies the Jupiter/Asc pair through connection itself: a meeting or association becomes the means of enjoying company and expanding one's sense of self. [Witte](#witte-entry) gives good relations; [Ebertin](#ebertin-entry) makes this concrete in festivities and happy associations, and [Sandbach](#sandbach-entry) emphasizes encouraging people who assist growth in self-awareness.
+
+[Munkasey](#munkasey-entry), p. 276, adds attracting suitable people and receiving a favorable response to presentations. His specific sexual and political examples remain examples, not conditions for the interpretation.
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Poseidon = Asc`
 - Astronomicon formula: `¥/¨ = Asc`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 308, Asc row.
+
 People of the surroundings show their disposition and attitude. Others demonstrate a very broad intellectual perspective.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful experience of the partner, successful cultural site, successful environmental culture, local intellectual science, great freedom of the other, cultural knowledge of others, and increasing knowledge of the environment
+Reference: printed p. 472 (one-based PDF p. 235), Asc row.
+
+Successful idea of the partner, a successful cultural location, successful culture in the surroundings, spiritual science at the location, intellectual freedom of the other, cultural knowledge of others, and increasing understanding of the surroundings.
+
+## Comparative Schema
+
+- core meaning: Intellectual outlook and cultural understanding encountered through other people and surroundings.
+- psychology: Others reveal their disposition and broad intellectual perspective.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: A partner's successful idea, others' intellectual freedom, and their cultural knowledge.
+- events/manifestations: Successful cultural settings and increasing understanding of the surroundings.
+- conflicts/notes: Asc's entry concerns other people and the setting; a fixed personal identity based on attitude is not supplied.
+
+## Contradictions
+
+The entries emphasize compatible aspects of the intellectual environment without establishing a direct disagreement or guaranteeing that every contact shares one outlook.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Asc`: a public manner shaped by worldview, and to contact with people who openly display wide or thoughtful perspectives. Main caution: living too much through attitude: identity can become an expression of viewpoint rather than grounded personal substance.
+In `Apollon/Poseidon = Asc`, Asc specifies the pair through people whose attitudes and broad perspectives become visible in one's surroundings. The [Witte entry](#witte-entry) emphasizes others' disposition; the [ABC entry](#abc-entry) adds a partner's successful idea, intellectual freedom, cultural knowledge, and successful cultural settings. The recurring concern is the intellectual and cultural quality of contact with others.
 
 ## Links
 

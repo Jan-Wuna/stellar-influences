@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Saturn Zeus`
 - Astronomicon triad-set: `R W £`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md)
-- [Moon/Zeus = Saturn](../activations/moon-zeus-equals-saturn.md)
-- [Saturn/Zeus = Moon](../activations/saturn-zeus-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md) | [Moon/Saturn](../axes/moon-saturn.md) | [Zeus](../factors/zeus.md) |
+| [Moon/Zeus = Saturn](../activations/moon-zeus-equals-saturn.md) | [Moon/Zeus](../axes/moon-zeus.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Zeus = Moon](../activations/saturn-zeus-equals-moon.md) | [Saturn/Zeus](../axes/saturn-zeus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Saturn = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `185`
-- `Moon/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `197`
-- `Saturn/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
-- `Saturn/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `358`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Saturn = Zeus](../activations/moon-saturn-equals-zeus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-saturn-equals-zeus.md#witte-entry) (PDF p. 126); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-saturn-equals-zeus.md#abc-entry) (printed p. 185) |
+| [Moon/Zeus = Saturn](../activations/moon-zeus-equals-saturn.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-zeus-equals-saturn.md#witte-entry) (PDF p. 132); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-zeus-equals-saturn.md#abc-entry) (printed p. 197) |
+| [Saturn/Zeus = Moon](../activations/saturn-zeus-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/saturn-zeus-equals-moon.md#witte-entry) (PDF p. 226); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/saturn-zeus-equals-moon.md#abc-entry) (printed p. 358) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Saturn = Zeus`: This activation energizes `Moon/Saturn` through separation that still demands action, duty, or continued production. It can show bereaved or separated women carrying on with force, making emotional burden active, restless, and difficult to set down.
-- `Moon/Zeus = Saturn`: Depressed mind. Inhibitory intervention. Stopping someone or something. Late procreation.
+`Moon Saturn Zeus` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

@@ -1,0 +1,32 @@
+[
+  {
+    "path": "wiki/axes/saturn-uranus.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/axes/sun-chiron.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/axes/sun-jupiter.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/axes/sun-mercury.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/axes/sun-neptune.md",
+    "errors": [],
+    "outcome": "changed"
+  },
+  {
+    "path": "wiki/axes/sun-pluto.md",
+    "errors": [],
+    "outcome": "changed"
+  }
+]

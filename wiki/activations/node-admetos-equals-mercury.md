@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Mercury`
 - Astronomicon formula: `g/¦ = T`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 Little thinking. Declining to think. Turning the thoughts away. Mentally sad. Limited consciousness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `234`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Limitation of movement in connections, depressing media reports, profound media communication, deepening of language in connections, contacts in traffic stau, deepening deep thoughts about relationships, and V commitment to youth
+Restriction of movement within connections, depressing media reports, thorough media communication, deepening conversations within connections, contacts in a traffic jam, deep thoughts about relationships, and deepening the connection to youth
+
+## Comparative Schema
+
+- core meaning: limited or withdrawn thinking alongside deepened thought and communication about ties.
+- psychology: mental sadness and turning thoughts away are Witte's descriptions.
+- body/health: limited consciousness is historical wording without a diagnosis.
+- social/relationship: deeper conversations and connections to youth are explicit.
+- events/manifestations: media reports and contacts in traffic congestion are particular examples.
+- conflicts/notes: deep thought and withdrawal are alternatives; no fixed intellectual capacity is established.
+
+## Contradictions
+
+Witte stresses reduced or averted thought. ABC includes thorough communication and deeper relationship thought as well as restriction and depressing reports.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Mercury`: Little thinking. Declining to think. Turning the thoughts away. Mentally sad. Limited consciousness.
-- Practical focus: little thinking; also declining to think.
-- In difficult expression, it can mark limited consciousness.
+Node/Admetos = Mercury concerns thought and communication within constrained connections. [Witte](#witte-entry) names turning thoughts away and mental sadness; [ABC](#abc-entry) adds deeper conversations, thorough media communication and thought about relationships, beside restricted movement and depressing reports (printed p. 234, PDF p. 116). This supports withdrawal and depth as different expressions, without a judgement about intellectual capacity. Traffic congestion and connection to youth remain specific social examples.
 
 ## Links
 

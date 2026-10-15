@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Cupido Admetos`
 - Astronomicon triad-set: `Z ¡ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Admetos = Pluto](../activations/cupido-admetos-equals-pluto.md)
-- [Pluto/Admetos = Cupido](../activations/pluto-admetos-equals-cupido.md)
-- [Pluto/Cupido = Admetos](../activations/pluto-cupido-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Admetos = Pluto](../activations/cupido-admetos-equals-pluto.md) | [Cupido/Admetos](../axes/cupido-admetos.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Admetos = Cupido](../activations/pluto-admetos-equals-cupido.md) | [Pluto/Admetos](../axes/pluto-admetos.md) | [Cupido](../factors/cupido.md) |
+| [Pluto/Cupido = Admetos](../activations/pluto-cupido-equals-admetos.md) | [Pluto/Cupido](../axes/pluto-cupido.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Cupido/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `433`
-- `Pluto/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `419`
-- `Pluto/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `409`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-admetos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `271`.
+- `Cupido/Admetos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-admetos-equals-pluto.md#abc-entry), printed p. `433`.
+- `Pluto/Admetos = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-cupido.md#witte-entry), one-based PDF entry-start p. `262`.
+- `Pluto/Admetos = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-cupido.md#abc-entry), printed p. `419`.
+- `Pluto/Cupido = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-cupido-equals-admetos.md#witte-entry), one-based PDF entry-start p. `257`.
+- `Pluto/Cupido = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-cupido-equals-admetos.md#abc-entry), printed p. `409`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Pluto`: far-reaching transformation in family or partnership, or a passing reunion that temporarily alters communal conditions.
-- `Pluto/Admetos = Cupido`: This activation emphasizes changes in the social or family relations.
-- `Pluto/Cupido = Admetos`: This activation emphasizes to retire into oneself, to become a hermit; Complete transformation and change in social position or social circumstances or social surroundings.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

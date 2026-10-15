@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Mars`
 - Astronomicon formula: `W/¥ = U`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Systematic proceedings. Activities are carried out after a certain method.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Editing old knowledge, broadening the problems of work, success through patient work, successful embezzlement in old age, successful concentration on work, concentrated embezzlement of knowledge, developing mature knowledge, and lossy trade work
+- Source page: 362 (printed); PDF page: 180.
+
+Working on old knowledge, expansion of work-related problems, success through patient work, successful efforts in old age, successful concentration on work, concentrated efforts toward knowledge, working toward mature knowledge, loss-making commercial work.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Systematic activity and patient work with knowledge.
+- Psychology: Successful concentration on work and concentrated efforts toward knowledge.
+- Body/health: No specific medical correspondence is supplied in these entries.
+- Social/relationship: Work-related problems and commercial work.
+- Events/manifestations: Developing mature knowledge, successful efforts in old age, and trade losses.
+- Conflicts/notes: The former embezzlement wording was a cache error for efforts, not criminal doctrine.
+
+## Contradictions
+
+The former embezzlement wording was a cache error for efforts, not criminal doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Mars`: systematic proceedings, activities are carried out after a certain method.
-- Practical expression: editing old knowledge, broadening the problems of work, success through patient work, successful embezzlement in old age, and successful concentration on work.
+In `Saturn/Apollon = Mars`, Mars specifies the pair through activities carried out systematically according to a method in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) makes patient work and concentrated efforts toward knowledge central, while also naming expanding work problems and loss-making commercial work. The checked passage concerns efforts, not the former cache's embezzlement claim.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Hades Kronos](../triads/sun-hades-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Not constructive. Obstacles through independent persons or enterprises. To conceal important secrets. Big, outstanding crook. Criminal Investigation Department.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Hades entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Authoritat's deficiency of a person, disadvantaged independent people, special disadvantages for a person, mystery of a state man, people with special past, and human great by renunciation
+A person's lack of authority, disadvantaged independent people, special disadvantages for a person, a statesman's secret, people with a special past, and human greatness through renunciation.
+
+Source locator: printed p. 165, PDF p. 81, Sun/Kronos, Hades entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Authority or independence complicated by disadvantage, obstacles and concealed matters.
+- psychology: Keeping important secrets and greatness through renunciation are explicit alternatives.
+- body/health: No bodily condition is supplied by these entries.
+- social/relationship: Disadvantaged independent people and obstacles through independent persons or enterprises.
+- events/manifestations: A statesman's secret, a significant past and Witte's criminal-investigation setting.
+- conflicts/notes: Criminal labels are historical source examples, not character judgments; ABC also gives greatness through renunciation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Hades`: the inspector and poor government.
-- Practical expression: disadvantaged independent people, special disadvantages for a person, mystery of a state man, and people with special past.
+`Sun/Kronos = Hades` brings authority and independence into contact with disadvantage or hidden matters. [Witte](#witte-entry) describes obstacles through independent people or enterprises and concealed important secrets; [ABC](#abc-entry) adds deficient authority, disadvantaged independent people and a statesman's secret. ABC's greatness through renunciation preserves a different response to limitation. Witte's criminal and investigation examples are specific attributed settings, rather than grounds for labeling a person or reducing the whole formula to poor government.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Admetos`
 - Astronomicon formula: `X/£ = ¦`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exhaustive rhythmic efforts, restriction of creative impulses, restricted dynamic leadership, consolidation of a new leadership, grinning new beginnings, sudden beginnings of depression, under drinking reform struggles, and deepening into new goals
+- Source page: 379 (printed); PDF page: 188.
+
+Enduring rhythmic efforts, restriction of creative impulses, restricted dynamic leadership, consolidation of a new leadership, a thorough new beginning, sudden beginnings of depression, suppressed striving for reform, and deepening into new goals
+
+## Comparative Schema
+
+- Core meaning: Creative effort restricted or consolidated.
+- Psychology: Endurance; deepening new aims.
+- Body/health: ABC names depression historically; no diagnosis.
+- Social/relationship: Restricted or consolidated leadership.
+- Events/manifestations: Explosive raw materials and fragments.
+- Conflicts/notes: Dangerous materials and disciplined persistence are separate supported expressions.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Dangerous materials and disciplined persistence are separate supported expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Admetos`: Dangerous fuels. Explosive raw materials. Rags and broken pieces through explosion.
-- Practical expression: exhaustive rhythmic efforts, restriction of creative impulses, restricted dynamic leadership, consolidation of a new leadership, and grinning new beginnings.
+Admetos specifies Uranus/Zeus through force concentrated in resistant material or constrained creative effort. Witte's explosive raw materials describe destructive release; ABC also allows enduring work and consolidation of a new direction. Its depression language remains an attributed historical claim. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

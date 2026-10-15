@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Admetos = Zeus`
 - Astronomicon formula: `V/¦ = £`
 - Axis page: [Jupiter/Admetos](../axes/jupiter-admetos.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 220; PDF p. 216.
+
 To be fortunate in overcoming a constrained position. To get something moving again. The compulsion to spend money.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked money production, restrictive legal services, success through effort and perseverance, successful deepening into the right, difficult financial beginning, consolidation of success through effort, and fundamental success
+- Source reference: printed p. 343; PDF p. 170.
+
+Blocked production of money, restrictive legal services, success through effort and perseverance, successful deepening into law, a difficult financial beginning, consolidation of success through effort, and thorough creative success.
+
+## Comparative Schema
+
+- Core meaning: Overcoming constraint through effort, with financial difficulty or compelled spending.
+- Psychology: Perseverance is explicit in ABC.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Restrictive legal services and deepening into law.
+- Events/manifestations: Getting something moving again, blocked money production, and creative success.
+- Conflicts/notes: A restart may require spending; creative success is not limited to finance.
+
+## Contradictions
+
+ABC's blocked start and Witte's successful restart describe different positions within the range; neither guarantees eventual success.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Zeus`: fortune expressed through restart and release from standstill. It can show paying the price to get life or work moving again.
+In `Jupiter/Admetos = Zeus`, Zeus specifies the Jupiter/Admetos axis through effort that restarts constrained activity and consolidates success. The [Witte Entry](#witte-entry) describes overcoming a constrained position, getting something moving again, and compelled spending. The [ABC Entry](#abc-entry) similarly places a difficult financial beginning or blocked money production beside success through effort, perseverance and creative work. The unifying movement is renewed activity under limits, with effort and expenditure explicit rather than effortless release.
 
 ## Links
 

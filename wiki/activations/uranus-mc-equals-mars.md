@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Mars`
 - Astronomicon formula: `X/MC = U`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 A spontaneous decision. Sudden physical attacks on others. To beat about oneself.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 78; PDF p. 38.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Dynamic soul activity, I work in technology, my work rhythm, my excited actions,
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 278; PDF p. 280; entry code `0991`.
+
 #### Ebertin Entry
 
 Tendency to quickly become violent, lack of self-control, attainment of importance and authority through the display of unusual energy. Quarrels, accidents, injuries, operations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Increased energy for pursuing your ideas despite opposition or resistance; adds 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 78; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0991), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Forceful initiative in work and an independent course. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Assertiveness, rebelliousness, and difficulty controlling aggression in the sources. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin lists injuries and operations; these are historical associations, not diagnoses. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Challenging authority and pursuing ideas despite opposition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Spontaneous decisions, mechanical invention, quarrels, and source-attributed accidents. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Constructive invention and destructive aggression are alternative expressions; no direct contradiction determines which will occur. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Constructive technical invention and destructive aggression are alternative expressions within these entries. Their bodily and injury examples remain attributed, without determining which expression occurs.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Mars`: bold initiative, technical daring, and the power to act quickly when outer life needs rupture or reform. Main caution: volatility: haste, rebellion, or confrontational force can create accidents, public conflict, or self-defeating reversals.
+Mars specifies Uranus/MC through rapid, forceful action in pursuit of an independent direction. Technical and mechanical skill can channel that energy into inventions or work despite resistance, while the same entries describe spontaneous decisions, confrontation, and aggression toward others. Ebertin's accidents, injuries, and operations remain attributed historical possibilities; initiative does not by itself establish violence or injury. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

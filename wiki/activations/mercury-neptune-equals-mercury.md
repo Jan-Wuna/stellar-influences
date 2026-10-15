@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Mercury`
 - Astronomicon formula: `T/Y = T`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -41,22 +43,21 @@ Increased awareness of the subtle forces and activities of life over which scien
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Attention to subtle forces and the possibility of unreal inquiries.
+- psychology: Munkasey pairs increased awareness with pursuits that occupy time and resources without a real basis.
+- body/health: No bodily or medical claim is established.
+- social/relationship: No distinct interpersonal claim is given.
+- events/manifestations: Time and resources may be spent on inquiries lacking reality.
+- conflicts/notes: Single-source repeated-pair activation; the source's claim about science remains attributed.
 
 ## Contradictions
 
-- None recorded yet.
+No comparison between sources is possible. Munkasey keeps subtle awareness beside an inquiry that lacks reality; these are distinct expressions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Mercury`: Increased awareness of the subtle forces and activities of life over which science has no explanation or control; inquires designed to occupy one's time and resources, but which have no reality behind them.
+In `Mercury/Neptune = Mercury`, Mercury directs the axis toward awareness and inquiry into subtle forces. Munkasey describes these as beyond scientific explanation or control, while also warning of inquiries that consume time and resources without a real basis. This repeated-pair activation therefore includes both heightened attention and the possibility that the pursuit has no substance ([Munkasey](#munkasey-entry)).
 
 ## Links
 

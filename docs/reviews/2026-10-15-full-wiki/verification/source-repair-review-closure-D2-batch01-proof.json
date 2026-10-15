@@ -1,0 +1,585 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+      "before_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+      "current_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "9f140e6db92bef076ea355184183fec4042bfd1ca9dd8162cbc939fd00bca78f",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe general morality. Mental activity. Philosophical activity or labor.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork in the world of mind, mental power for the public Life, clarity of the public Will, culture creating in the public, vegetable public work, and truth create for the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe general morality. Mental activity. Philosophical activity or labor.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Poseidon row.\n\nGerman passage transcribed from the scan:\n\n> Arbeit in der Welt des Geistes, geistige Tatkraft für das öffentliche Leben, Klarheit des öffentlichen Willens, Kultur-Schaffen in der Öffentlichkeit, vernünftige Öffentlichkeits-Arbeit, Wahrheit schaffen für die Öffentlichkeit\n\nEditorial translation: Work in the world of the mind; intellectual drive for public life; clarity of public will; cultural creation in public; rational public work; creating truth for the public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Keyword repetition, missing schema and contradiction assessment; synthesis repeated vegetable public work."
+        ],
+        "changes": [
+          "Connected Poseidon to intellectual and cultural public work; added Identity link, six categories, bounded contradiction note and source links.",
+          "Targeted D095–103 source closure: restored the complete scan-verified ABC glyph row with German passage and labeled translation; reconciled dependent schema/contradiction/synthesis exclusions without changing the oriented formula."
+        ],
+        "verification": [
+          "Read full page and manifest record; compared both source entries with native evidence and exact locators; inspected patch for orientation and adjacent anchor.",
+          "Personally viewed actual ABC PDF15 complete glyph row and neighbours, printed33; read complete current page and original owner record. Saved source delta and dependent prose checked against this bounded repair."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry: PDF 42 entry_start",
+          "#abc-entry: printed 33, PDF 15; German Arbeit in der Welt des Geistes and Kultur-Schaffen",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png: ABC printed33/PDF15, complete poseidon row."
+        ],
+        "resolved_source_issues": [
+          "ABC vegetable public work corresponds to OCR vemilnftige Offentlichkeits-Arbeit; excluded pending scan verification."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "poseidon",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeit in der Welt des Geistes, geistige Tatkraft für das öffentliche Leben, Klarheit des öffentlichen Willens, Kultur-Schaffen in der Öffentlichkeit, vernünftige Öffentlichkeits-Arbeit, Wahrheit schaffen für die Öffentlichkeit",
+          "editorial_translation": "Work in the world of the mind; intellectual drive for public life; clarity of public will; cultural creation in public; rational public work; creating truth for the public.",
+          "before_source_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+          "after_source_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 1,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+            "text": "ABC vegetable public work corresponds to OCR vemilnftige Offentlichkeits-Arbeit; excluded pending scan verification.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+            "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+            "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+        "after_source_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+        "before_page_sha256": "ea76332d55718f19e9d57e91f7a28f70808dbd8985c6a616c72a5c5e2ae856cd",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe general morality. Mental activity. Philosophical activity or labor.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork in the world of mind, mental power for the public Life, clarity of the public Will, culture creating in the public, vegetable public work, and truth create for the public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe general morality. Mental activity. Philosophical activity or labor.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Poseidon row.\n\nGerman passage transcribed from the scan:\n\n> Arbeit in der Welt des Geistes, geistige Tatkraft für das öffentliche Leben, Klarheit des öffentlichen Willens, Kultur-Schaffen in der Öffentlichkeit, vernünftige Öffentlichkeits-Arbeit, Wahrheit schaffen für die Öffentlichkeit\n\nEditorial translation: Work in the world of the mind; intellectual drive for public life; clarity of public will; cultural creation in public; rational public work; creating truth for the public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "poseidon",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeit in der Welt des Geistes, geistige Tatkraft für das öffentliche Leben, Klarheit des öffentlichen Willens, Kultur-Schaffen in der Öffentlichkeit, vernünftige Öffentlichkeits-Arbeit, Wahrheit schaffen für die Öffentlichkeit",
+          "editorial_translation": "Work in the world of the mind; intellectual drive for public life; clarity of public will; cultural creation in public; rational public work; creating truth for the public.",
+          "before_source_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+          "after_source_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/activation_review_023_044"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete poseidon glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and rational public work and cultural creation.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is not newly source-certified."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+      "before_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+      "current_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "9788c510b94e74ceea218d082f43b74b7be5290a20e4be2bf7d920257e15baab",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nburdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, separation actions in the public, and lossful public activity",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Saturn row.\n\nGerman passage transcribed from the scan:\n\n> Arbeits-Aufgaben für die Öffentlichkeit, belastendes Schaffen für die Öffentlichkeit, gestörte Öffentlichkeits-Arbeit, gestörter öffentlicher Wille, hemmende Impulse aus der Öffentlichkeit, Trennungs-Handlungen in der Öffentlichkeit, verlustreiche öffentliche Tätigkeit\n\nEditorial translation: Work tasks for the public; burdensome work for the public; disturbed public work; disturbed public will; inhibiting impulses from the public; acts of separation in public; public activity involving losses.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Synthesis repeated damaged stortc/stort wording and fatal example without bounds; schema absent."
+        ],
+        "changes": [
+          "Explained interrupted public labor and separation; attributed fatal example; added schema, contradiction bounds, Identity and source links.",
+          "Targeted D095–103 source closure: restored the complete scan-verified ABC glyph row with German passage and labeled translation; reconciled dependent schema/contradiction/synthesis exclusions without changing the oriented formula."
+        ],
+        "verification": [
+          "Read full page and manifest; compared German and Witte evidence, retained source text; checked exact orientation and adjacent anchor in patch.",
+          "Personally viewed actual ABC PDF15 complete glyph row and neighbours, printed33; read complete current page and original owner record. Saved source delta and dependent prose checked against this bounded repair."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry: PDF 42 entry_start",
+          "#abc-entry: printed 33, PDF 15; burdensome work, inhibiting impulses and separation",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png: ABC printed33/PDF15, complete saturn row."
+        ],
+        "resolved_source_issues": [
+          "ABC stortc public work / stort public will and native ~rbeits-Aufgaben / gestortc remain uncorrected without scan verification."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "saturn",
+          "complete_clause_count": 7,
+          "german_passage": "Arbeits-Aufgaben für die Öffentlichkeit, belastendes Schaffen für die Öffentlichkeit, gestörte Öffentlichkeits-Arbeit, gestörter öffentlicher Wille, hemmende Impulse aus der Öffentlichkeit, Trennungs-Handlungen in der Öffentlichkeit, verlustreiche öffentliche Tätigkeit",
+          "editorial_translation": "Work tasks for the public; burdensome work for the public; disturbed public work; disturbed public will; inhibiting impulses from the public; acts of separation in public; public activity involving losses.",
+          "before_source_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+          "after_source_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 2,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mars-equals-saturn.md",
+            "text": "ABC stortc public work / stort public will and native ~rbeits-Aufgaben / gestortc remain uncorrected without scan verification.",
+            "kind": "source_verification_scope",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-saturn.md",
+            "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-saturn.md",
+            "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+        "after_source_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+        "before_page_sha256": "824019d7ffe42f4f268ba6845914a957bebadcda270ba301c95122d851f86e1f",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nburdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, separation actions in the public, and lossful public activity",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHindrances or stoppage of work. The beginning of toilsome work. Acts of separation. Death while performing work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Saturn row.\n\nGerman passage transcribed from the scan:\n\n> Arbeits-Aufgaben für die Öffentlichkeit, belastendes Schaffen für die Öffentlichkeit, gestörte Öffentlichkeits-Arbeit, gestörter öffentlicher Wille, hemmende Impulse aus der Öffentlichkeit, Trennungs-Handlungen in der Öffentlichkeit, verlustreiche öffentliche Tätigkeit\n\nEditorial translation: Work tasks for the public; burdensome work for the public; disturbed public work; disturbed public will; inhibiting impulses from the public; acts of separation in public; public activity involving losses.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "saturn",
+          "complete_clause_count": 7,
+          "german_passage": "Arbeits-Aufgaben für die Öffentlichkeit, belastendes Schaffen für die Öffentlichkeit, gestörte Öffentlichkeits-Arbeit, gestörter öffentlicher Wille, hemmende Impulse aus der Öffentlichkeit, Trennungs-Handlungen in der Öffentlichkeit, verlustreiche öffentliche Tätigkeit",
+          "editorial_translation": "Work tasks for the public; burdensome work for the public; disturbed public work; disturbed public will; inhibiting impulses from the public; acts of separation in public; public activity involving losses.",
+          "before_source_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+          "after_source_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/activation_review_023_044"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete saturn glyph row, 7 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and restored Arbeits-Aufgaben and the full sequence of public-work hindrances.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is not newly source-certified."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+      "before_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+      "current_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "05cf8eeff2c23023dabf6e9a618bb6298bcd76173eafa50ec18fcf90da148272",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nClose acquaintances. Relatives on the father's side. Deeds born out of love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork joy in public, peace activity in public, peace will in public, artistic activity for the public, reduction work in public, and preference for public activity",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nClose acquaintances. Relatives on the father's side. Deeds born out of love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `32`, one-based PDF p. `15`, complete Venus row.\n\nGerman passage transcribed from the scan:\n\n> Arbeits-Freude in der Öffentlichkeit, Friedens-Tätigkeit in der Öffentlichkeit, Friedens-Wille in der Öffentlichkeit, künstlerische Tätigkeit für die Öffentlichkeit, Verschönerungs-Arbeiten in der Öffentlichkeit, Vorliebe für öffentliche Tätigkeit\n\nEditorial translation: Joy in public work; peace activity in public; public will for peace; artistic activity for the public; beautification work in public; preference for public activity.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Copied keywords and damaged reduction work; missing schema."
+        ],
+        "changes": [
+          "Connected loving deeds with peaceful/artistic public work; bounded paternal-relative example; added six categories, contradiction and source links.",
+          "Targeted D095–103 source closure: restored the complete scan-verified ABC glyph row with German passage and labeled translation; reconciled dependent schema/contradiction/synthesis exclusions without changing the oriented formula."
+        ],
+        "verification": [
+          "Full page and relevant manifest read; compared English with German Verschonerungs-Arbeiten; checked oriented formula and anchor; actual batch diff reviewed.",
+          "Personally viewed actual ABC PDF15 complete glyph row and neighbours, printed32; read complete current page and original owner record. Saved source delta and dependent prose checked against this bounded repair."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF42 entry_start",
+          "#abc-entry printed32 PDF15; Arbeits-Freude, Friedens-Tatigkeit",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png: ABC printed32/PDF15, complete venus row."
+        ],
+        "resolved_source_issues": [
+          "ABC reduction work remains uncorrected and excluded; native Verschonerungs-Arbeiten requires scan-backed repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 32,
+          "pdf_page_one_based": 15,
+          "glyph_row": "venus",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeits-Freude in der Öffentlichkeit, Friedens-Tätigkeit in der Öffentlichkeit, Friedens-Wille in der Öffentlichkeit, künstlerische Tätigkeit für die Öffentlichkeit, Verschönerungs-Arbeiten in der Öffentlichkeit, Vorliebe für öffentliche Tätigkeit",
+          "editorial_translation": "Joy in public work; peace activity in public; public will for peace; artistic activity for the public; beautification work in public; preference for public activity.",
+          "before_source_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+          "after_source_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 5,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mars-equals-venus.md",
+            "text": "ABC reduction work remains uncorrected and excluded; native Verschonerungs-Arbeiten requires scan-backed repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-mars.md",
+            "text": "Vernal Point/Mars = Venus retains an unresolved damaged ABC translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-mars.md",
+            "text": "Vernal Point/Mars = Venus retains an unresolved damaged ABC translation.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+        "after_source_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+        "before_page_sha256": "fb022b0541efb3635145577c38c79b030483a4415902bf02eb3e04b4e15d127f",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nClose acquaintances. Relatives on the father's side. Deeds born out of love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork joy in public, peace activity in public, peace will in public, artistic activity for the public, reduction work in public, and preference for public activity",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nClose acquaintances. Relatives on the father's side. Deeds born out of love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `32`, one-based PDF p. `15`, complete Venus row.\n\nGerman passage transcribed from the scan:\n\n> Arbeits-Freude in der Öffentlichkeit, Friedens-Tätigkeit in der Öffentlichkeit, Friedens-Wille in der Öffentlichkeit, künstlerische Tätigkeit für die Öffentlichkeit, Verschönerungs-Arbeiten in der Öffentlichkeit, Vorliebe für öffentliche Tätigkeit\n\nEditorial translation: Joy in public work; peace activity in public; public will for peace; artistic activity for the public; beautification work in public; preference for public activity.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 32,
+          "pdf_page_one_based": 15,
+          "glyph_row": "venus",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeits-Freude in der Öffentlichkeit, Friedens-Tätigkeit in der Öffentlichkeit, Friedens-Wille in der Öffentlichkeit, künstlerische Tätigkeit für die Öffentlichkeit, Verschönerungs-Arbeiten in der Öffentlichkeit, Vorliebe für öffentliche Tätigkeit",
+          "editorial_translation": "Joy in public work; peace activity in public; public will for peace; artistic activity for the public; beautification work in public; preference for public activity.",
+          "before_source_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+          "after_source_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/activation_review_023_044"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete venus glyph row, 6 clauses, ABC printed 32/PDF15; verified German, labeled translation, printed/PDF locator and Verschönerungs-Arbeiten as beautification work.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is not newly source-certified."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "before_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+      "current_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "37524dba5deefb74b8542a673c1d47b6d41713087cdd239903110df3dd27da2b",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEfficiency of labor. Mechanical energies.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWorking with energy in the public, influential creation for the public, working on orphans in the public, violence activity in the public, strength work in the public, and powerful actions in the public sphere",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEfficiency of labor. Mechanical energies.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Vulcanus row.\n\nGerman passage transcribed from the scan:\n\n> Arbeit mit Energien in der Öffentlichkeit, einflußreiches Schaffen für die Öffentlichkeit, Gewalt in der Öffentlichkeit bearbeiten, Gewalt-Tätigkeit in der Öffentlichkeit, Kraft-Arbeit in der Öffentlichkeit, machtvolle Aktionen in der Öffentlichkeit\n\nEditorial translation: Work with energies in public; influential work for the public; working on force or violence in public; activity involving force or violence in public; strength work in public; powerful actions in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Synthesis repeated working on orphans; missing comparative categories."
+        ],
+        "changes": [
+          "Explained effective energetic public labor with bounded force/violence range; added navigation, schema and source references.",
+          "Targeted D095–103 source closure: restored the complete scan-verified ABC glyph row with German passage and labeled translation; reconciled dependent schema/contradiction/synthesis exclusions without changing the oriented formula."
+        ],
+        "verification": [
+          "Full page and manifest read; compared native Gewait and translated orphans; exact Vulcanus orientation and adjacent anchor checked; actual batch diff reviewed.",
+          "Personally viewed actual ABC PDF15 complete glyph row and neighbours, printed33; read complete current page and original owner record. Saved source delta and dependent prose checked against this bounded repair."
+        ],
+        "unresolved": [
+          "ABC Gewalt permits force or violence; bearbeiten does not specify whether this is applying, opposing or otherwise working on it."
+        ],
+        "evidence": [
+          "#witte-entry PDF42 entry_start; efficient labor, mechanical energies",
+          "#abc-entry printed33 PDF15; energetic public work",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png: ABC printed33/PDF15, complete vulcanus row."
+        ],
+        "resolved_source_issues": [
+          "ABC working on orphans corresponds to native OCR Gewait in der Offentlichkeit bearbeiten; excluded without repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "vulcanus",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeit mit Energien in der Öffentlichkeit, einflußreiches Schaffen für die Öffentlichkeit, Gewalt in der Öffentlichkeit bearbeiten, Gewalt-Tätigkeit in der Öffentlichkeit, Kraft-Arbeit in der Öffentlichkeit, machtvolle Aktionen in der Öffentlichkeit",
+          "editorial_translation": "Work with energies in public; influential work for the public; working on force or violence in public; activity involving force or violence in public; strength work in public; powerful actions in public.",
+          "before_source_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+          "after_source_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 6,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+            "text": "ABC working on orphans corresponds to native OCR Gewait in der Offentlichkeit bearbeiten; excluded without repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-vulcanus.md",
+            "text": "Vernal Point/Mars = Vulcanus excludes a damaged ABC translation; the cached orphan reference is not established by the source wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-vulcanus.md",
+            "text": "Vernal Point/Mars = Vulcanus excludes a damaged ABC translation; the cached orphan reference is not established by the source wording.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+        "after_source_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+        "before_page_sha256": "8f228e9198d10638d36dee059d40ae4524729b58f102b82be9d40038c1a9752c",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEfficiency of labor. Mechanical energies.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWorking with energy in the public, influential creation for the public, working on orphans in the public, violence activity in the public, strength work in the public, and powerful actions in the public sphere",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEfficiency of labor. Mechanical energies.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Vulcanus row.\n\nGerman passage transcribed from the scan:\n\n> Arbeit mit Energien in der Öffentlichkeit, einflußreiches Schaffen für die Öffentlichkeit, Gewalt in der Öffentlichkeit bearbeiten, Gewalt-Tätigkeit in der Öffentlichkeit, Kraft-Arbeit in der Öffentlichkeit, machtvolle Aktionen in der Öffentlichkeit\n\nEditorial translation: Work with energies in public; influential work for the public; working on force or violence in public; activity involving force or violence in public; strength work in public; powerful actions in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "vulcanus",
+          "complete_clause_count": 6,
+          "german_passage": "Arbeit mit Energien in der Öffentlichkeit, einflußreiches Schaffen für die Öffentlichkeit, Gewalt in der Öffentlichkeit bearbeiten, Gewalt-Tätigkeit in der Öffentlichkeit, Kraft-Arbeit in der Öffentlichkeit, machtvolle Aktionen in der Öffentlichkeit",
+          "editorial_translation": "Work with energies in public; influential work for the public; working on force or violence in public; activity involving force or violence in public; strength work in public; powerful actions in public.",
+          "before_source_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+          "after_source_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [
+          "ABC Gewalt permits force or violence; bearbeiten does not specify whether this is applying, opposing or otherwise working on it."
+        ],
+        "independent_review": "pending /root/activation_review_023_044"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete vulcanus glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and Gewalt in der Öffentlichkeit bearbeiten rather than the damaged orphan claim.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is not newly source-certified.",
+          "Gewalt permits force or violence; bearbeiten does not specify applying, opposing or otherwise working on it."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+      "before_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+      "current_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "69cc2fb89cb76c3b5db66b7ea81b091efcde3114de6482a0e6cfc136a300a693",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFruitful deeds. Directed energies. Combustion. Machinery power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEffortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, creative impulses from publicity, and determined action in the public Life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFruitful deeds. Directed energies. Combustion. Machinery power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Zeus row.\n\nGerman passage transcribed from the scan:\n\n> Anstrengende Öffentlichkeits-Arbeit, Arbeits-Leistungen für das öffentliche Leben, Führungs-Arbeit im öffentlichen Leben, öffentliche Arbeits-Ziele, schöpferische Impulse aus der Öffentlichkeit, zielstrebiges Handeln im öffentlichen Leben\n\nEditorial translation: Strenuous public work; work accomplishments for public life; leadership work in public life; public work goals; creative impulses from the public; purposeful action in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Mechanical keyword list and unclear serviceWork translation."
+        ],
+        "changes": [
+          "Connected directed energy and determined public work; retained combustion/machinery; supplied schema, limits and local citations.",
+          "Targeted D095–103 source closure: restored the complete scan-verified ABC glyph row with German passage and labeled translation; reconciled dependent schema/contradiction/synthesis exclusions without changing the oriented formula."
+        ],
+        "verification": [
+          "Full page and manifest read; compared native FUhrungsArbeit; formula, exact locators and adjacent anchor checked; batch diff reviewed.",
+          "Personally viewed actual ABC PDF15 complete glyph row and neighbours, printed33; read complete current page and original owner record. Saved source delta and dependent prose checked against this bounded repair."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF42 entry_start",
+          "#abc-entry printed33 PDF15; Arbeits-Ziele and zielstrebiges Handeln",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png: ABC printed33/PDF15, complete zeus row."
+        ],
+        "resolved_source_issues": [
+          "ABC serviceWork is unclear against native FUhrungsArbeit; not used as a distinct synthesis claim."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Anstrengende Öffentlichkeits-Arbeit, Arbeits-Leistungen für das öffentliche Leben, Führungs-Arbeit im öffentlichen Leben, öffentliche Arbeits-Ziele, schöpferische Impulse aus der Öffentlichkeit, zielstrebiges Handeln im öffentlichen Leben",
+          "editorial_translation": "Strenuous public work; work accomplishments for public life; leadership work in public life; public work goals; creative impulses from the public; purposeful action in public life.",
+          "before_source_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+          "after_source_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 7,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mars-equals-zeus.md",
+            "text": "ABC serviceWork is unclear against native FUhrungsArbeit; not used as a distinct synthesis claim.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-zeus.md",
+            "text": "Vernal Point/Mars = Zeus retains an unresolved translated ABC compound; the source heading does not certify every phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+        "after_source_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+        "before_page_sha256": "c06b97e079da079d93d28e6dc37ed6704ece430e4715fae12acca12947dd8e6b",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFruitful deeds. Directed energies. Combustion. Machinery power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEffortful public work, work services for the public Life, serviceWork in the public Life, public Work goals, creative impulses from publicity, and determined action in the public Life",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFruitful deeds. Directed energies. Combustion. Machinery power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `33`, one-based PDF p. `15`, complete Zeus row.\n\nGerman passage transcribed from the scan:\n\n> Anstrengende Öffentlichkeits-Arbeit, Arbeits-Leistungen für das öffentliche Leben, Führungs-Arbeit im öffentlichen Leben, öffentliche Arbeits-Ziele, schöpferische Impulse aus der Öffentlichkeit, zielstrebiges Handeln im öffentlichen Leben\n\nEditorial translation: Strenuous public work; work accomplishments for public life; leadership work in public life; public work goals; creative impulses from the public; purposeful action in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 ABC row and dependent prose closure; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Anstrengende Öffentlichkeits-Arbeit, Arbeits-Leistungen für das öffentliche Leben, Führungs-Arbeit im öffentlichen Leben, öffentliche Arbeits-Ziele, schöpferische Impulse aus der Öffentlichkeit, zielstrebiges Handeln im öffentlichen Leben",
+          "editorial_translation": "Strenuous public work; work accomplishments for public life; leadership work in public life; public work goals; creative impulses from the public; purposeful action in public life.",
+          "before_source_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+          "after_source_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/activation_review_023_044"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete zeus glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and Führungs-Arbeit as leadership work.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is not newly source-certified."
+        ]
+      }
+    }
+  ]
+}

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Mars Zeus](../triads/vernal-point-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ General energetic work. Ready to use weapons. Weapons of war. War turmoil. The f
 
 #### ABC Entry
 
-Effortful activities in public, working with fire in public, feeding activity in public, effective public filtration, activity with fire in public, and determined public work
+Strenuous activities in public, work with fire in public, leadership activity in public, energetic public leadership, activity with fire in public, and purposeful public relations work.
+
+## Comparative Schema
+
+- Core meaning: Energetic public work and the active use of fire or weapons.
+- Psychology: Readiness to act is explicit; a broader personality description is not supplied.
+- Body/health: Strenuous activity is named, but no medical condition is established.
+- Social/relationship: Work takes place publicly; the military examples concern collective conflict rather than intimate relationships.
+- Events/manifestations: Public labor, work with fire, armaments, war turmoil, and the flame-thrower are concrete examples.
+- Conflicts/notes: The ABC leadership phrases were repaired against the German scan; they do not describe feeding or filtration.
+
+## Contradictions
+
+Public labor and military activity are different applications, not a demonstrated disagreement. The ABC English was corrected against the German table at printed p. 48 (PDF p. 23), replacing the mistranslated feeding and filtration phrases with leadership activity and energetic public leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Mars`: general energetic work, ready to use weapons, weapons of war, war turmoil, and the flame-thrower.
-- Practical expression: effortful activities in public, working with fire in public, feeding activity in public, effective public filtration, and activity with fire in public.
+In `Vernal Point/Zeus = Mars`, Mars specifies the pair as energetic activity carried into public work, leadership, or purposeful public relations, especially work involving fire. The range extends to the readiness to use weapons and to warfare; these are particular examples of forceful action, not necessary outcomes of every reading. This connects the active public leadership of the [ABC Entry](#abc-entry) (printed p. 48; PDF p. 23) with the energetic and military examples in the [Witte Entry](#witte-entry) (PDF p. 50).
 
 ## Links
 

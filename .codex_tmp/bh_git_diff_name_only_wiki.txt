@@ -1,0 +1,32 @@
+﻿warning: in the working copy of 'wiki/axes/jupiter-neptune.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/mercury-asc.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/sun-moon.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/venus-node.md', LF will be replaced by CRLF the next time Git touches it
+wiki/axes/jupiter-neptune.md
+wiki/axes/mars-jupiter.md
+wiki/axes/mars-pluto.md
+wiki/axes/mars-saturn.md
+wiki/axes/mars-uranus.md
+wiki/axes/mercury-asc.md
+wiki/axes/mercury-saturn.md
+wiki/axes/mercury-uranus.md
+wiki/axes/moon-jupiter.md
+wiki/axes/moon-mars.md
+wiki/axes/moon-mercury.md
+wiki/axes/moon-neptune.md
+wiki/axes/moon-pluto.md
+wiki/axes/moon-saturn.md
+wiki/axes/saturn-neptune.md
+wiki/axes/sun-moon.md
+wiki/axes/sun-neptune.md
+wiki/axes/sun-pluto.md
+wiki/axes/sun-saturn.md
+wiki/axes/sun-uranus.md
+wiki/axes/venus-jupiter.md
+wiki/axes/venus-neptune.md
+wiki/axes/venus-node.md
+wiki/axes/venus-pluto.md
+wiki/axes/venus-saturn.md
+wiki/axes/venus-uranus.md
+wiki/query-manifest.json
+wiki/sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md

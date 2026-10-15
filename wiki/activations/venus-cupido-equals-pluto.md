@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Pluto`
 - Astronomicon formula: `Q/¡ = Z`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Harmoniously developing marriage or association. Conjugal bliss through the descendants.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of a community of peace, development of the arts, development of a common preference, development of harmony in the community, and growing love in the community
+- Source page: 283 (printed); PDF page: 140; scanned activator row checked.
+
+Development of a peace community, unfolding of a peaceful community, shared unfolding of art, developing a shared preference, unfolding harmony in a community, and growing love within the community.
+
+## Comparative Schema
+
+- Core meaning: A shared loving community develops.
+- Psychology: Common preferences take shape.
+- Body/health: No specific health claim.
+- Social/relationship: Growing love within marriage or association.
+- Events/manifestations: Shared artistic development and descendants.
+- Conflicts/notes: Descendants are Witte's historical example, not a fertility prediction.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Descendants are Witte's historical example, not a fertility prediction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Pluto`: harmoniously developing marriage or association.
-- Practical expression: development of a community of peace, development of the arts, development of a common preference, development of harmony in the community, and growing love in the community.
+Pluto specifies Venus/Cupido through the growth of a marriage or association in harmony. Common preferences, artistic development, and increasing love connect the bond with what its members build together. Witte also names joy through descendants, retained as a source example rather than a reproductive prediction. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

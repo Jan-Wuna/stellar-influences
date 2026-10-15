@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Moon = Sun`
 - Astronomicon formula: `R/R = S`
 - Axis page: [Moon/Moon](../axes/moon-moon.md)
@@ -29,15 +31,29 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: [Witte, Rudolph & Lefeldt](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), `Moon + Moon`, PDF p. `119` (entry start; one-based).
+
 #### Witte Entry
 
 Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
 
+## Comparative Schema
+
+- core meaning: relations between women and men, bodily contact, and the course of a day ([Witte](#witte-entry)).
+- psychology: mutual attitudes of a man and a woman are stated.
+- body/health: a woman's body and physical relations are source associations; no health condition is given.
+- social/relationship: marriage, parents, friendship, and partnerships are historical examples.
+- events/manifestations: the day, hour, and course of the day preserve a temporal range.
+- conflicts/notes: the entry does not assert balance between private and public life or universal gender complementarity.
+
+## Contradictions
+
+This page contains one Witte entry. Its several examples do not supply an independent comparison or require every manifestation to occur together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon = Sun`: Man and woman (husband and wife). Marriage, parents, friendships, partnerships of male and female. The day and the hour. The course of the day. The attitude of a man towards a woman and vice versa. Physical relations to female persons. The body of a female. The course of the day.
-- Practical focus: balances `Moon/Moon` through complementarity between male and female, private and public, day and hour. It emphasizes marriage, partnership, and mutual orientation, so pure lunar feeling becomes more relationally embodied and tied to shared life between counterparts.
+In Moon/Moon = Sun, Sun specifies the repeated Moon pair through relations between women and men. The [Witte entry](#witte-entry) connects marriage, parenthood, friendship, and partnership with mutual attitudes and physical relations. The woman's body and the course of the day retain bodily and temporal meanings alongside the social theme; the entry does not make all these examples a single model of partnership.
 
 ## Links
 

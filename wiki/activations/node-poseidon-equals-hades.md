@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Node Hades Poseidon](../triads/node-hades-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ To be tied to others whose mentality is far below that of the native.
 
 Old cultural connections, dangerous mental relationships, mental deficiency in a connection, spiritual connection to the past, clarity by renunciation of attachment, criminal cultural connections, and criminal truth mediation
 
+## Comparative Schema
+
+The categories below summarize the [Witte Entry](#witte-entry) (PDF p. 156) and [ABC Entry](#abc-entry) (printed p. 239; PDF p. 118).
+
+- Core meaning: Intellectual or cultural ties complicated by limitation, danger or the past.
+- Psychology: A perceived lack of understanding, or clarity through relinquishing a tie.
+- Body/health: No bodily diagnosis is established by these entries.
+- Social/relationship: Difficult associations and connections to earlier culture.
+- Events/manifestations: Renunciation of an attachment or participation in compromised cultural contacts.
+- Conflicts/notes: Witte's ranking of mentality and ABC's criminal examples remain attributed historical claims.
+
+## Contradictions
+
+The historical value judgment in Witte is narrower than ABC's varied examples. Past cultural connections are not inherently dangerous or criminal, and the entries should not be collapsed into that equation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Hades`: To be tied to others whose mentality is far below that of the native.
-- Practical focus: to be tied to others whose mentality is far below that of the native.
+Hades specifies `Node/Poseidon` through difficulty, limitation or troubling associations within an intellectual or cultural connection. The [Witte Entry](#witte-entry) frames this in a historical hierarchy of mentality, which should remain an attributed judgment rather than a verdict on other people. The [ABC Entry](#abc-entry) adds ties to the cultural past, dangerous or compromised relationships, and clarity gained by relinquishing an attachment. Contact with the past and harmful involvement are distinct possibilities, not equivalent conditions.
 
 ## Links
 

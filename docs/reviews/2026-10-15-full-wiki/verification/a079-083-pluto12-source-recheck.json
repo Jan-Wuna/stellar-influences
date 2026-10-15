@@ -1,0 +1,460 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Final12 missing082 Uranus/Pluto full reviews, counted once. Completes all220 missing at handoff.",
+  "source_repairs": "Nine ABC text repairs; Moon and Mars seven clauses preserved, Chiron soleSandbach preserved. Cupido unrelated parliamentary contamination replaced with six clauses; Hades7/Zeus boundary, Kronos7/Apollon8 boundary, Apollon8/Admetos6 boundary and Admetos6/Vulcanus boundary restored. Jupiter Glück repaired without neighboring Saturn import. All nonABC source prose preserved.",
+  "verified_clause_counts": {
+    "Admetos": 6,
+    "Apollon": 8,
+    "Asc": 7,
+    "Cupido": 6,
+    "Hades": 7,
+    "Jupiter": 7,
+    "Kronos": 7,
+    "Mars": 7,
+    "MC": 8,
+    "Mercury": 7,
+    "Moon": 7
+  },
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-pluto-equals-admetos.md",
+      "sha256": "1c4e8bc4c2a2a9f06d4338b456079a1d3aaf9b53802c16d896f1621ab1bd4507",
+      "source_section_sha256": "3613abea526d062234c5e32d897056160b29cb2cb55521c8502a93453d1fe484",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Restored six-clause Admetos row from actual185: opening restrictions/blockage/suppression/tensions recovered, gründliche means thorough rather than grim; removed Vulcanus power/violence clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-apollon.md",
+      "sha256": "b06c7e7932a05bb4f54f8115ae41d0a644d9e47b8bcc66e1b4173aef6b64ab5e",
+      "source_section_sha256": "0496002739bc7a53dd03b812c8d33695363ddf1edca75da55e90a888a157689e",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Restored all eight Apollon clauses, recovering first five from Kronos's absorbed tail and sixth damaged Metaphysik start; removed Admetos restriction/blockage clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-asc.md",
+      "sha256": "7d2b29f7688f44d92cd01eb42b95f219e77e2463fa6bbea361d8d81425c36fea",
+      "source_section_sha256": "774e2cba59cc7eabf1c821a26764c8b31a72c1a3e0f2671cb3dff6b98b2240b0",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Repaired iibcrra-;chender partner changes to surprising change of partner; all seven ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-chiron.md",
+      "sha256": "6abf21f3ea59356c48980bb60bd2ece10531458c7a4dd561e52129d02ef267d5",
+      "source_section_sha256": "5ee5d12587f83636f031c7fb6613ef497493cbf73d71b4b636f84f4fe90f6947",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Sole Sandbach prose preserved, including source-native eventu ally; exact106 verified rather than105 chapter start."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-cupido.md",
+      "sha256": "6c0d92afad0af6052773b7062379c832ad07a879c2dbb40cc891e8de3eff4826",
+      "source_section_sha256": "ee6c329d00775dd5f018775e3b6084cbfb8c59a45a4f24cf4279c2d83d4f2729",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Replaced wholly unrelated rapporteur/report praise contamination with complete six-clause Cupido glyph row; community/art/shared-rhythm meanings restored."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-hades.md",
+      "sha256": "9880d4979eecc462750e6607c2f10f00af229eaaf2d17f63363ea35dc30058a4",
+      "source_section_sha256": "6012057ec41dfd2537506112073b04209869cd7718bf34d819e0e67f3d973234",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Replaced three Zeus-contaminated fragments with actual seven-clause Hades row: sorrow/deficient/disadvantageous/dangerous/criminal/hidden/renunciation technical development."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-jupiter.md",
+      "sha256": "287f572dde86c9ebba1d134c598383a067f256ca18fd41ba9ebe5c8b9cbb74db",
+      "source_section_sha256": "1316c8f132cbc998a9249330a9c3efb8e16095d9ad19dfd6f9d2cf5e5023d04f",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Repaired G!Uck to luck (Glück); all seven actual372 clauses verified without importing adjacent Saturn row."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-kronos.md",
+      "sha256": "6b380c7327e3aa2a810fb932e8417e9db133b5c48855f13cec3e9ace099ec24d",
+      "source_section_sha256": "f2a87c945eb0f1e2d4cbdaae1340b8b06b8e37e20d1acc8fdcb1eff289ea3a07",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Restored seven complete Kronos clauses from actual373, recovering missing first five/state reform and growing-superiority prefix; removed Apollon air/future-science/metaphysics spillover."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mars.md",
+      "sha256": "98b12b4f1096613326a1fa6ab24d3a5b7c09bc95f70cbf09993df7f0bcbb7ad1",
+      "source_section_sha256": "db131df6fe7e430d45f782e407fd84ac4335791b13918200870a705eabc24557",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "All seven ABC clauses and full Witte/Ebertin/Sandbach/Munkasey prose preserved after scan/evidence comparison; quoted bending or breaking phrase retained."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mc.md",
+      "sha256": "db0ba5182290cca913a55bfe9b99804d15099ccd17c5116a2147980494cb5a57",
+      "source_section_sha256": "ae2188007ccbc6eead3218c148ab6d7d4acd359962c905c321302f156cef20cc",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Repaired vcrenderterr Rhythm us to my changed rhythm and seelisch as emotional; all eight ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mercury.md",
+      "sha256": "fea40d92f6eef01814a67bc7203ab0a1ace445c77b72302effe61ac6e149d021",
+      "source_section_sha256": "b702b23c36f81dcd8e595a04a64bc40524affe887f185911c665011c5e98347d",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "Rendered unruhige Jugend-Entwicklung as restless rather than troubled; all seven ABC clauses verified, including youth, transport and language change."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-moon.md",
+      "sha256": "4a894e086f61904716f6d381acbf349afd262c751030b1f516724def513380f2",
+      "source_section_sha256": "a068df5263d0e78697df83330df158f5d440671567fe8fb129893a75724ea438",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/nonABCsource preservation passed",
+      "repair": "All seven ABC clauses and complete Witte/Ebertin/Sandbach/Munkasey prose preserved after actual scan/evidence comparison; source-specific women, public and gland examples retained."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-pluto-equals-admetos.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Restored six-clause Admetos row from actual185: opening restrictions/blockage/suppression/tensions recovered, gründliche means thorough rather than grim; removed Vulcanus power/violence clauses."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Restored six-clause Admetos row from actual185: opening restrictions/blockage/suppression/tensions recovered, gründliche means thorough rather than grim; removed Vulcanus power/violence clauses.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed373/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "1c4e8bc4c2a2a9f06d4338b456079a1d3aaf9b53802c16d896f1621ab1bd4507"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-apollon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Restored all eight Apollon clauses, recovering first five from Kronos's absorbed tail and sixth damaged Metaphysik start; removed Admetos restriction/blockage clauses."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Restored all eight Apollon clauses, recovering first five from Kronos's absorbed tail and sixth damaged Metaphysik start; removed Admetos restriction/blockage clauses.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed373/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "b06c7e7932a05bb4f54f8115ae41d0a644d9e47b8bcc66e1b4173aef6b64ab5e"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-asc.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Repaired iibcrra-;chender partner changes to surprising change of partner; all seven ABC clauses verified."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Repaired iibcrra-;chender partner changes to surprising change of partner; all seven ABC clauses verified.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed270/PDF272, code0960; verification/a079-083-ebertin-pluto-272.png.",
+        "Sandbach exactPDF106; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "7d2b29f7688f44d92cd01eb42b95f219e77e2463fa6bbea361d8d81425c36fea"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-chiron.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Sole Sandbach prose preserved, including source-native eventu ally; exact106 verified rather than105 chapter start."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Sole Sandbach prose preserved, including source-native eventu ally; exact106 verified rather than105 chapter start.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Sandbach exactPDF106; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "6abf21f3ea59356c48980bb60bd2ece10531458c7a4dd561e52129d02ef267d5"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-cupido.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Replaced wholly unrelated rapporteur/report praise contamination with complete six-clause Cupido glyph row; community/art/shared-rhythm meanings restored."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Replaced wholly unrelated rapporteur/report praise contamination with complete six-clause Cupido glyph row; community/art/shared-rhythm meanings restored.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed373/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "6c0d92afad0af6052773b7062379c832ad07a879c2dbb40cc891e8de3eff4826"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-hades.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Replaced three Zeus-contaminated fragments with actual seven-clause Hades row: sorrow/deficient/disadvantageous/dangerous/criminal/hidden/renunciation technical development."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Replaced three Zeus-contaminated fragments with actual seven-clause Hades row: sorrow/deficient/disadvantageous/dangerous/criminal/hidden/renunciation technical development.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed373/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "9880d4979eecc462750e6607c2f10f00af229eaaf2d17f63363ea35dc30058a4"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-jupiter.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Repaired G!Uck to luck (Glück); all seven actual372 clauses verified without importing adjacent Saturn row."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Repaired G!Uck to luck (Glück); all seven actual372 clauses verified without importing adjacent Saturn row.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed269/PDF271, code0956; verification/a079-083-ebertin-pluto-271.png.",
+        "Sandbach exactPDF106; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "287f572dde86c9ebba1d134c598383a067f256ca18fd41ba9ebe5c8b9cbb74db"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-kronos.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Restored seven complete Kronos clauses from actual373, recovering missing first five/state reform and growing-superiority prefix; removed Apollon air/future-science/metaphysics spillover."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Restored seven complete Kronos clauses from actual373, recovering missing first five/state reform and growing-superiority prefix; removed Apollon air/future-science/metaphysics spillover.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed373/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "6b380c7327e3aa2a810fb932e8417e9db133b5c48855f13cec3e9ace099ec24d"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mars.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "All seven ABC clauses and full Witte/Ebertin/Sandbach/Munkasey prose preserved after scan/evidence comparison; quoted bending or breaking phrase retained."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "All seven ABC clauses and full Witte/Ebertin/Sandbach/Munkasey prose preserved after scan/evidence comparison; quoted bending or breaking phrase retained.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed269/PDF271, code0955; verification/a079-083-ebertin-pluto-271.png.",
+        "Sandbach exactPDF105–106; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "98b12b4f1096613326a1fa6ab24d3a5b7c09bc95f70cbf09993df7f0bcbb7ad1"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mc.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Repaired vcrenderterr Rhythm us to my changed rhythm and seelisch as emotional; all eight ABC clauses verified."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Repaired vcrenderterr Rhythm us to my changed rhythm and seelisch as emotional; all eight ABC clauses verified.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed270/PDF272, code0961; verification/a079-083-ebertin-pluto-272.png.",
+        "Sandbach exactPDF106; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "db0ba5182290cca913a55bfe9b99804d15099ccd17c5116a2147980494cb5a57"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-mercury.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "Rendered unruhige Jugend-Entwicklung as restless rather than troubled; all seven ABC clauses verified, including youth, transport and language change."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "Rendered unruhige Jugend-Entwicklung as restless rather than troubled; all seven ABC clauses verified, including youth, transport and language change.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed269/PDF271, code0953; verification/a079-083-ebertin-pluto-271.png.",
+        "Sandbach exactPDF105; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "fea40d92f6eef01814a67bc7203ab0a1ace445c77b72302effe61ac6e149d021"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-moon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword synthesis required coherent exact-oriented source-linked explanation and meaningful comparative schema.",
+        "All seven ABC clauses and complete Witte/Ebertin/Sandbach/Munkasey prose preserved after actual scan/evidence comparison; source-specific women, public and gland examples retained."
+      ],
+      "changes": [
+        "Wrote coherent exact-oriented Derived Synthesis and all six meaningful categories, early route, adjacent unique stable anchor and bounded differences.",
+        "All seven ABC clauses and complete Witte/Ebertin/Sandbach/Munkasey prose preserved after actual scan/evidence comparison; source-specific women, public and gland examples retained.",
+        "Added exact numbering-system source locators; preserved full identities, historical bodily/gender/medical/spiritual and severe claims without turning them into predictions."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Pluto axis and all matching original082 evidence.",
+        "Personally inspected actual ABC185 printed372–373/Witte235 complete glyph rows, exact Sandbach105–106 and Ebertin271–272 entries where represented; parser used only as lead.",
+        "Read all actual diffs in three four-page groups; scoped metadata/formula/unique anchor/route/schema6/nonABCprose preservation/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed372/PDF185; verification/a079-083-udo-pdf185.png.",
+        "Witte PDF235; verification/a079-083-witte-pdf235.png.",
+        "Ebertin printed269/PDF271, code0952; verification/a079-083-ebertin-pluto-271.png.",
+        "Sandbach exactPDF105; verification/a079-083-sandbach-neptune-105.png and a079-083-sandbach-node-106.png.",
+        "Munkasey printed312; exact source prose preserved against baseline and assigned evidence, no new raw visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto12-source-recheck.json",
+      "sha256": "4a894e086f61904716f6d381acbf349afd262c751030b1f516724def513380f2"
+    }
+  ]
+}
+

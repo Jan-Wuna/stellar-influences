@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Increased discontent with the present way others are using your abilities and en
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Discontent with restricted independence and others' use of one's energies.
+- psychology: Determination to gain freedom despite obstacles or costs.
+- body/health: No bodily or medical effect is described.
+- social/relationship: Resistance to others directing one's abilities and effort.
+- events/manifestations: Fighting for independence from restrictions.
+- conflicts/notes: This single entry describes a motive and willingness to struggle, without promising a successful outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is represented, so no comparison between sources is possible.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Uranus`: Increased discontent with the present way others are using one's abilities and energies; a need for independence from any restrictions, and a willingness to fight for one's independence despite the obstacles or costs.
+In `Mars/Uranus = Uranus`, repeated Uranus specifies the pair's struggle for independence as dissatisfaction with how others use one's abilities and energies. Munkasey connects that dissatisfaction with willingness to resist restrictions despite obstacles or costs. The entry describes the motive and readiness to fight for freedom; it does not say how the struggle ends. ([Munkasey](#munkasey-entry), “MARS/URANUS With Itself,” printed p. 234)
 
 ## Links
 

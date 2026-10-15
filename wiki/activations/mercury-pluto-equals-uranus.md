@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Uranus Pluto](../triads/mercury-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,18 @@ Surprising and sudden changes in thinking. Sudden new cognizance. Mathematical o
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 253; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Exciting change of opinion, dynamic development of youth, sudden change of opinion, spontaneous change of thinking, tchnic development of the media, report on technical development, and changing movement rhythm
+Exciting change of opinion, dynamic development of youth, sudden change of opinion, spontaneous change of thinking, technical development of the media, report on technical development, and changing movement rhythm
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source reference: printed p. 164; entry `0537` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +67,16 @@ An irresistible power of suggestion, fanatical pursuit of one's plans. Nervous b
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source reference: PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 A genius for expressing ideas with intensity, and for influencing others. Intense communications with other people that happen suddenly and/or are unpredictable.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 172 (entry page).
 
 - Source heading: `MERCURY/PLUTO with Planets and Points`
 - Source page: `172`
@@ -70,22 +87,21 @@ Remaining aloof from others who do your bidding to obtain data in any way possib
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden changes of mind and intense, unpredictable communication. [Witte](#witte-entry); [Sandbach](#sandbach-entry).
+- psychology: Power of suggestion and pursuit of plans can become fanatical. [Ebertin](#ebertin-entry).
+- body/health: Ebertin's nervous-breakdown assertion is a historical overexertion claim, not a diagnosis.
+- social/relationship: Strong influence on others and possible aloofness from information-gathering associates. [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry), p. 172.
+- events/manifestations: Technical or mathematical corrections, engineering insight, and research into astrology's validity. [Witte](#witte-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Unusual insight does not establish truth; investigation of astrology's validity is a research interest, not a result.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is identified; technical insight and overextension are different possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Uranus`: revelatory intelligence, disruptive truth-telling, and the power to transform systems through sharp mental shocks. Main caution: explosive thinking: insight can become extreme, destabilizing, or too destructive to sustain dialogue.
+In `Mercury/Pluto = Uranus`, Uranus specifies developing thought through abrupt recognition, changed opinions, and communication that can arrive with unusual force. [Witte](#witte-entry); [Sandbach](#sandbach-entry). Technical correction and engineering insight provide concrete applications, while Ebertin's fanatical pursuit of plans marks the possibility of overextension. [Munkasey](#munkasey-entry), p. 172; [Ebertin](#ebertin-entry). The entries support sudden and influential thinking without validating every resulting idea or medical claim.
 
 ## Links
 

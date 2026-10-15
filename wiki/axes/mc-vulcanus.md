@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `76`
 
 #### Pair Summary
 
@@ -79,6 +83,15 @@ One’s personal power, might and authority. Emotional attitude to high power. T
 #### ABC Pair Summary
 
 Power, influence of the soul, power of the soul, my influence, my energy, my power, my strength, psychic energy, psychic violence, psychic power, and strong soul
+
+## Comparative Schema
+
+- core meaning: Personal power and awareness of one's influence ([pair summary](#pair-summary)).
+- psychology: A forceful personality and an emotional attitude toward power, with inner strength emphasized in the ABC entry ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- body/health: Energy and strength are named, but no specific bodily or medical correspondence is developed.
+- social/relationship: Authority and the effect one has on others are explicit; no particular relationship outcome is stated ([pair summary](#pair-summary)).
+- events/manifestations: Exercising personal influence is supported; Witte separately names the minute of a volcanic eruption ([pair summary](#pair-summary)).
+- conflicts/notes: Possessing power, feeling powerful, and one's attitude toward power are distinct. The volcanic example remains a separate event association.
 
 ## Related Activations
 
@@ -103,11 +116,14 @@ Power, influence of the soul, power of the soul, my influence, my energy, my pow
 - [MC/Vulcanus = Vernal Point](../activations/mc-vulcanus-equals-vernal-point.md)
 - [MC/Vulcanus = Zeus](../activations/mc-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+The summaries emphasize personal strength and influence without specifying how that power must be used. The ABC `psychic violence` is translation-sensitive, and Witte's volcanic-eruption example remains a separate source association rather than a trait or prediction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus` is the axis of personal power, might, forceful authority, and the life direction shaped by direct awareness of one's own strength and impact.
-- Chart expression: a powerful personality, strong personal influence, emotional attitude toward high power, and a self that experiences vocation, status, and action through concentrated force, authority, and eruptive potency.
+`MC/Vulcanus` concerns the experience and exercise of personal power. The [pair summary](#pair-summary) joins a forceful personality and personal influence with awareness of one's strength and an emotional response to power. The [ABC summary](#abc-pair-summary) also emphasizes inner energy and strength. This supports a reading centered on how strongly one asserts or experiences one's presence, while leaving the purpose and consequences of that influence open. Witte's volcanic-eruption association remains a separate example in the source entry.
 
 ## Links
 

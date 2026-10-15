@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Node Zeus`
 - Astronomicon triad-set: `VP g £`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Node/Zeus = Vernal Point](../activations/node-zeus-equals-vernal-point.md)
-- [Vernal Point/Node = Zeus](../activations/vernal-point-node-equals-zeus.md)
-- [Vernal Point/Zeus = Node](../activations/vernal-point-zeus-equals-node.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Node/Zeus](../axes/node-zeus.md) | Vernal Point | [Node/Zeus = Vernal Point](../activations/node-zeus-equals-vernal-point.md) |
+| [Vernal Point/Node](../axes/vernal-point-node.md) | Zeus | [Vernal Point/Node = Zeus](../activations/vernal-point-node-equals-zeus.md) |
+| [Vernal Point/Zeus](../axes/vernal-point-zeus.md) | Node | [Vernal Point/Zeus = Node](../activations/vernal-point-zeus-equals-node.md) |
 
 ## Source Coverage
 
-- `Node/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `228`
-- `Vernal Point/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `27`
-- `Vernal Point/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
-- `Vernal Point/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `48`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Node/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `151`
+- `Node/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `228`
+- `Vernal Point/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `39`
+- `Vernal Point/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, printed page `27`
+- `Vernal Point/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `50`
+- `Vernal Point/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, printed page `48`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Vernal Point`: To elect. To select. Mating. To create (produce) something with several other people. To be with others in an armed group.
-- `Vernal Point/Node = Zeus`: This formula emphasizes general procreation, swarming, and to join together for production.
-- `Vernal Point/Zeus = Node`: This formula emphasizes the contact with or relationships to flammable materials, machinery or arms.
+The set links [Node/Zeus = Vernal Point](../activations/node-zeus-equals-vernal-point.md), [Vernal Point/Node = Zeus](../activations/vernal-point-node-equals-zeus.md), and [Vernal Point/Zeus = Node](../activations/vernal-point-zeus-equals-node.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

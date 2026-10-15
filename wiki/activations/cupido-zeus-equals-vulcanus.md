@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Zeus = Vulcanus`
 - Astronomicon formula: `¡/£ = §`
 - Axis page: [Cupido/Zeus](../axes/cupido-zeus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To unfold ones abilities and strength without hindrance. Opportunity for those who have the abilities and strength. Great artistic accomplishments.
+Source: printed p. 272; PDF p. 268.
+
+To unfold one's abilities and strength without hindrance. Opportunity for those who have the abilities and strength. Great artistic accomplishments.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced leadership community, energy services of a community, common filtration power, joint power efforts, community against fire violence, powerful achievements of a community, and creative artificial influence
+Source: printed p. 427; PDF p. 212, Vulcanus row.
+
+German: "Einflußreiche Führungs-Gemeinschaft, Energie-Leistungen einer Gemeinschaft, gemeinsame Führungs-Macht, gemeinsame Macht-Anstrengungen, Gemeinschaft gegen Feuer-Gewalt, kraftvolle Leistungen einer Gemeinschaft, schöpferischer Kunst-Einfluß".
+
+English translation: An influential leadership community; energy achievements of a community; shared leadership power; shared efforts of power; a community against the force or violence of fire; powerful communal achievements; creative artistic influence.
+
+## Comparative Schema
+
+- Core meaning: Unhindered capacity and powerful communal or artistic accomplishment ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: No account of personal insensitivity or motive is supplied.
+- Body/health: Strength and ability are source capacities without a medical claim.
+- Social/relationship: Influential communal leadership and shared leadership power are named.
+- Events/manifestations: Opportunity for capable people, great art, energy achievements and communal action against fire are examples.
+- Conflicts/notes: Artistic influence replaces artificial influence; the text does not specify power becoming self-validating.
+
+## Contradictions
+
+Witte emphasizes unhindered ability and opportunity; ABC adds influential leadership, shared power and protection against fire. These are distinct expressions of effective capacity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Vulcanus`: directed communal initiative backed by enough concentrated power to actually realize its intentions. Main caution: power becoming self-validating and insensitive to limits or consequences.
+In `Cupido/Zeus = Vulcanus`, Vulcanus specifies shared founding and effort through strength that can act without hindrance. Opportunity for people with ability and strength and major artistic accomplishment make that capacity concrete ([Witte Entry](#witte-entry)). ABC adds influential leadership, shared leadership power, powerful communal achievements and creative artistic influence, with a community acting against fire's force among its examples ([ABC Entry](#abc-entry)).
 
 ## Links
 

@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Y = W`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -43,17 +46,25 @@ Sickly, nervous women. Damage and separation through secrets of female persons. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `189`; PDF p. `93`.
+
 #### ABC Entry
 
-Arousal of a weak woman, subtle pulses of animals, nervousness by unclear means, sudden insecurity of a woman, hour of sudden exchange, technical future of a people, and unrest by strangers
+Weakness of a woman in old age; burdens caused by foreign women; a woman's concentration on the future; problems of a disappointed woman; disturbances caused by unclear feelings; refinement of feelings in old age; deception of a people involving losses.
+
+- Source check: translation corrected from the Saturn-symbol entry on printed p. `189` (PDF p. `93`, visually checked). The former imported paragraph beginning "Arousal of a weak woman" belongs to Uranus on that spread.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: printed p. `132`, entry `0404`.
 
 #### Ebertin Entry
 
 hopelessness and despair, tendency to be strongly influenced by prevailing and temporary circumstances. Suffering of the soul, pathological states of depression, tendency to feel inhibited, frustrated or paralyzed.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `35` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +81,21 @@ Added elements of caution and reserve when you start to neglect the things you c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Saturn specifies the pair through burden, inhibition, caution, and confronting disappointment.
+- psychology: feeling oppressed by sensitivity, indecision, and discouragement accompanies the possibility of grounding fantasies.
+- body/health: Witte names disturbed sleep and insomnia; Ebertin uses historical pathological language for depression. Neither establishes a diagnosis.
+- social/relationship: others' feelings can feel burdensome; Witte also describes separation associated with secrets.
+- events/manifestations: sleeplessness, prolonged indecision, and disappointed expectations are concrete expressions; ABC adds refinement of feelings with age.
+- conflicts/notes: the ABC paragraph has been corrected against the printed Saturn symbol; its former sudden-arousal wording belonged to Uranus.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's grounding and Sandbach's emotional refinement are possible responses to the burden emphasized by Ebertin and Witte. The entries do not show that caution always produces either resignation or constructive endurance. The source-assignment error is documented above.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Saturn`: compassionate stamina, realism about suffering, and the ability to carry delicate responsibilities soberly. Main caution: depletion through discouragement: sadness, fatigue, or fear can harden soft feeling into resignation.
+In `Moon/Neptune = Saturn`, Saturn specifies the pair as sensitivity experienced under constraint: others' feelings may weigh heavily, while uncertainty can become inhibition or prolonged indecision. [Sandbach](#sandbach-entry) and [Ebertin](#ebertin-entry) describe this burden; [Munkasey, p. 128](#munkasey-entry) adds the possibility of grounding fantasies through caution. The checked [ABC entry, p. 189](#abc-entry) includes refinement of feeling with age, but this and Sandbach's proposed emotional elevation remain possibilities rather than evidence of assured stamina.
 
 ## Links
 

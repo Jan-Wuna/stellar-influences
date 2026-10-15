@@ -28,9 +28,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 174 (entry page).
 
 - Source heading: `MERCURY/PLUTO With Itself`
 - Source page: `174`
@@ -41,22 +45,21 @@ A ruthlessness when seeking whatever information you desire; increased needs to 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Forceful pursuit and concealment of information. [Munkasey](#munkasey-entry), p. 174.
+- psychology: Ruthlessness in seeking data and a heightened need for secrecy. [Munkasey](#munkasey-entry).
+- body/health: Depressing news is mentioned; no clinical condition is specified.
+- social/relationship: Hiding actions and activities from other people. [Munkasey](#munkasey-entry).
+- events/manifestations: Hearing discouraging information or reaching its end. [Munkasey](#munkasey-entry).
+- conflicts/notes: Only a repeated-pair entry is present; the final phrase is not a promise of favorable news.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; no cross-source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Pluto`: A ruthlessness when seeking whatever information one desire; increased needs to hide one's actions and activities from others; increased likelihood to hearing depressing information; the end of discouraging information.
+In `Mercury/Pluto = Pluto`, Pluto specifies the pair through an uncompromising search for information and a wish to keep one's own activities hidden. [Munkasey](#munkasey-entry), p. 174, also includes discouraging news and its ending. Those alternatives should remain open: the entry supports an intense relationship with information, without establishing either permanent secrecy or a guaranteed resolution.
 
 ## Links
 

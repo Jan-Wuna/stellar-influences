@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Zeus`
 - Astronomicon triad-set: `R T £`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mercury/Zeus = Moon](../activations/mercury-zeus-equals-moon.md)
-- [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md)
-- [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md)
+- [Mercury/Zeus = Moon](../activations/mercury-zeus-equals-moon.md): base axis [Mercury/Zeus](../axes/mercury-zeus.md); activator [Moon](../factors/moon.md).
+- [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md): base axis [Moon/Mercury](../axes/moon-mercury.md); activator [Zeus](../factors/zeus.md).
+- [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md): base axis [Moon/Zeus](../axes/moon-zeus.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
-- `Mercury/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `258`
-- `Moon/Mercury = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
-- `Moon/Mercury = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `177`
-- `Moon/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `196`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Zeus = Moon](../activations/mercury-zeus-equals-moon.md#witte-entry) (PDF entry-start p. 168); [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md#witte-entry) (PDF entry-start p. 122); [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md#witte-entry) (PDF entry-start p. 132).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Zeus = Moon](../activations/mercury-zeus-equals-moon.md#abc-entry) (printed p. 258); [Moon/Mercury = Zeus](../activations/moon-mercury-equals-zeus.md#abc-entry) (printed p. 177); [Moon/Zeus = Mercury](../activations/moon-zeus-equals-mercury.md#abc-entry) (printed p. 196).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Zeus = Moon`: Publicity through original thoughts. Edicts for the populace. Women who command. Laws for women. Mustering, recruiting.
-- `Moon/Mercury = Zeus`: This activation sharpens `Moon/Mercury` through compulsion, quick mental grasp, and pressured youth or collective thought. It can show emotional ideas seized rapidly under stress or urgency, making the mind more reactive, driven, and fast to formulate or execute intent.
-- `Moon/Zeus = Mercury`: Live mind. Creative thoughts. Very temperamental. Exchange of information on female conception.
+Moon, Mercury and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Zeus](../factors/zeus.md)

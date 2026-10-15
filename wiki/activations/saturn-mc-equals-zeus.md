@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn MC Zeus](../triads/saturn-mc-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Limited activity. Compelled to quit one’s aims. Worries over support. Cares of
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.
+
 #### ABC Entry
 
-My tasks design, my serious efforts, my patient handling, my inhibited creativity, my concentration on the goal, my performance loss, achievements of a mature soul, and my procreation problems
+Shaping my tasks, my serious efforts, my patient leadership, my inhibited creativity, my concentration on the goal, my loss of performance, achievements of a mature soul, and my procreation problems.
+
+## Comparative Schema
+
+- core meaning: purposeful work and responsibility constrained in action or performance.
+- psychology: serious effort, patient leadership, and goal concentration.
+- body/health: ABC names procreation problems as a historical source claim.
+- social/relationship: Witte names cares of fatherhood and worries over support.
+- events/manifestations: limited activity, abandoned aims, inhibited creativity, and loss of performance.
+- conflicts/notes: Achievements of a mature soul coexist with limitations; parenthood language remains source-specific.
+
+## Contradictions
+
+- The entries do not promise that focused effort overcomes the stated constraints.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/MC = Zeus`: limited activity, compelled to quit one’s aims, worries over support.
-- Practical expression: my tasks design, my serious efforts, my patient handling, my inhibited creativity, and my concentration on the goal.
+In `Saturn/MC = Zeus`, Zeus specifies the Saturn/MC axis through purposeful effort that meets limits. [ABC](#abc-entry) combines shaping tasks, patient leadership, and goal concentration with inhibited creativity, reduced performance, and procreation problems. [Witte](#witte-entry) adds limited activity, having to abandon aims, worries over support, and cares of fatherhood. Goal-directed work and responsibility remain central even where action or achievement is constrained.
 
 ## Links
 

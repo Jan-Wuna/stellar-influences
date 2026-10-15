@@ -18,10 +18,12 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entry](#source-entries).
 
 - Formula: `Moon/MC = Moon`
 - Astronomicon formula: `R/MC = R`
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN With Itself`
-- Source page: `146`
+- Source page: printed `146`; one-based PDF p. 147, complete `Moon` row under `MOON/MIDHEAVEN With Itself` checked.
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Focusing on the role that family plays in giving you direction and impetus in li
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Family involvement in direction, motivation and preparation for desired positions. [Munkasey](#munkasey-entry).
+- psychology: Motivation toward goals appears alongside indecision over career direction or change. [Munkasey](#munkasey-entry).
+- body/health: No bodily condition or diagnosis is specified.
+- social/relationship: Family can supply direction and impetus; the entry does not identify a particular family member. [Munkasey](#munkasey-entry).
+- events/manifestations: Preparation for wanted positions or posts and considering career change are examples. [Munkasey](#munkasey-entry).
+- conflicts/notes: Support and indecision coexist in this single-source repeated-pair entry; there is no distinct three-factor hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented. The same entry includes support for preparation and indecision about direction, so family support should not be made a guarantee of certainty or attainment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Moon`: Focusing on the role that family plays in giving one direction and impetus in life to achieve one's goals; represents support for preparing oneself for the positions and posts wanted; indecision about career direction or change.
+For the repeated-pair activation `Moon/MC = Moon`, the [Munkasey entry](#munkasey-entry) places family within the process of finding direction and working toward goals. Support can help with preparation for desired positions, while uncertainty about career direction or change remains another stated possibility. The focus is the relation between family impetus, preparation and choice; the entry does not promise an appointment or a settled career path.
 
 ## Links
 

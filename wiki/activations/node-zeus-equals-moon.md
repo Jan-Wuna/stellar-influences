@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Moon Node Zeus](../triads/moon-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 To be a candidate. The elected one (female). The people elected or drafted to serve in army.
 
@@ -42,13 +46,27 @@ To be a candidate. The elected one (female). The people elected or drafted to se
 
 #### ABC Entry
 
-Encounter with a creative woman, beginning of a fleeting union, relationships with a leading woman, creative ties with the people, creative ties in a union, connection with the leadership of a people, and procreation relationship with women
+- Source page: 228 (printed); PDF page: 113 (one-based; exact row checked).
+
+Encounter with a creative woman, beginning of an emotional connection, relationships with a leading woman, creative connections with the people, creative feelings within a connection, connection with the leadership of a people, a procreative connection with a woman.
+
+## Comparative Schema
+
+- core meaning: creative or selected participation involving women, a people or emotional connection.
+- psychology: creative feelings and the beginning of an emotional bond.
+- body/health: ABC names a procreative connection, without a fertility or medical conclusion.
+- social/relationship: a creative or leading woman, collective leadership and people selected for service.
+- events/manifestations: candidacy, election or military drafting in Witte, and a newly forming emotional connection in ABC.
+- conflicts/notes: The female-specific and military formulations are historical source examples. Emotional and public selection settings remain distinct.
+
+## Contradictions
+
+The female-specific and military formulations are historical source examples. Emotional and public selection settings remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Moon`: To be a candidate. The elected one (female). The people elected or drafted to serve in army.
-- Practical focus: to be a candidate; also the elected one (female).
+Moon specifies `Node/Zeus` through creative or selected participation in a connection involving women or a people. The [Witte entry](#witte-entry) names candidacy, an elected woman and people selected or drafted for military service; the [ABC entry](#abc-entry) adds creative feelings, an emerging emotional bond and ties with a creative or leading woman. The historical gendered and military examples retain their particular scope, while emotional connection and public selection remain different supported expressions.
 
 ## Links
 

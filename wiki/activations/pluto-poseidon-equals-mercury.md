@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Poseidon](../axes/pluto-poseidon.md)
 - Triad hub: [Mercury Pluto Poseidon](../triads/mercury-pluto-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 264 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Thoughts, opinions an conversations about changes and transformations in philoso
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 422; PDF page 210 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Reports on cultural changes, intellectual development of youth, development of intellectual language, clear traffic development, development of spoken culture, change of a culture language, development of powerful language, and changes in media culture
+Editorial translation (checked against the scan): Reports on cultural changes, mental/spiritual development of young people, developing mental/spiritual conversations, clear development of traffic or transport, developing a culture of speech, change in a cultural language, rational development of conversation, changes in media culture.
+
+## Comparative Schema
+
+- core meaning: Changes in understanding developed or expressed through dialogue and communication.
+- psychology: Thoughts and opinions about philosophical change.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Dialogue, youth development, language, and media culture.
+- events/manifestations: Reports of cultural changes and development of speech or transport.
+- conflicts/notes: Clear transport development is an additional ABC example, not a definition of philosophical dialogue.
+
+## Contradictions
+
+Witte's philosophical dialogue and ABC's language, media, youth, and transport settings are different expressions, without an explicit incompatibility.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Poseidon = Mercury`: thoughts, opinions an conversations about changes and transformations in philosophical matters; To effect changes in such things though dialogue.
-- Practical expression: reports on cultural changes, intellectual development of youth, development of intellectual language, clear traffic development, and development of spoken culture.
+Mercury specifies Pluto/Poseidon through communication about changing ideas. The [Witte entry](#witte-entry) connects thoughts, opinions, and philosophical conversations with changes brought about through dialogue. The [ABC entry](#abc-entry) adds reports of cultural change, youth development, rational conversation, and changing speech or media culture. Its transport-development clause is a further concrete setting, while the main shared emphasis is understanding that develops through communication.
 
 ## Links
 

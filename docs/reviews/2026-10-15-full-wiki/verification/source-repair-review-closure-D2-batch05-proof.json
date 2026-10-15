@@ -1,0 +1,350 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+      "before_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+      "current_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "702cf9a7301444dbed4ea2c290e74d8767d728cdd040c90a8e0aa0ded1a632dc",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe education system. The condition of education and culture in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nLimitation of the public Culture, strengthening of ideas in the public, spiritual manifestation in the public Life, spiritual deepening in the public Life, and increasing communication in the public Life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe education system. The condition of education and culture in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `59`, one-based PDF p. `28`, complete Admetos row.\n\nGerman passage transcribed from the scan:\n\n> Einschränkung der öffentlichen Kultur, Festigung von Ideen in der Öffentlichkeit, geistige Manifestation im öffentlichen Leben, geistige Vertiefung in der Öffentlichkeit, Unterdrückung der Wahrheit im öffentlichen Leben, zunehmende Vernunft im öffentlichen Leben\n\nEditorial translation: Restriction of public culture; consolidation of ideas in public; spiritual manifestation in public life; spiritual deepening in public; suppression of truth in public life; increasing reason in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Interpretation repeated source lists; six-category comparison and bounded contradiction assessment absent.",
+          "Native 'Unterdrtickung der W ahrheit im offentlichen Leben' omitted from cached English; not repaired without scan.",
+          "Cached 'increasing communication' versus native 'zunehmende Vemunft' excluded."
+        ],
+        "changes": [
+          "Rewrote connected interpretation around: The condition of public education and culture, including limitation and consolidation of ideas.",
+          "Added Identity interpretation route, six evidence-bounded categories, Contradictions and local source-heading links.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Fully read complete page, relevant manifest record and matching native source-evidence records.",
+          "Inspected complete git diff after revision; source entries and frontmatter unchanged.",
+          "Checked exact orientation, source heading targets and immediately adjacent synthesis anchor.",
+          "Personally viewed actual ABC PDF28 whole own glyph row and neighbours, printed59; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#abc-entry; parser locator {\"system\":\"printed\",\"page\":59,\"pdf_page\":28,\"granularity\":\"entry\"}; not visually verified",
+          "#witte-entry; parser locator {\"system\":\"pdf_one_based\",\"page\":55,\"pdf_page\":55,\"granularity\":\"entry_start\"}; not visually verified",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png: complete admetos row, printed59/PDF28."
+        ],
+        "resolved_source_issues": [
+          "Native 'Unterdrtickung der W ahrheit im offentlichen Leben' omitted from cached English; not repaired without scan.",
+          "Cached 'increasing communication' versus native 'zunehmende Vemunft' excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 59,
+          "pdf_page_one_based": 28,
+          "glyph_row": "admetos",
+          "complete_clause_count": 6,
+          "german_passage": "Einschränkung der öffentlichen Kultur, Festigung von Ideen in der Öffentlichkeit, geistige Manifestation im öffentlichen Leben, geistige Vertiefung in der Öffentlichkeit, Unterdrückung der Wahrheit im öffentlichen Leben, zunehmende Vernunft im öffentlichen Leben",
+          "editorial_translation": "Restriction of public culture; consolidation of ideas in public; spiritual manifestation in public life; spiritual deepening in public; suppression of truth in public life; increasing reason in public life.",
+          "before_source_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+          "after_source_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 18,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+            "text": "Native 'Unterdrtickung der W ahrheit im offentlichen Leben' omitted from cached English; not repaired without scan.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+            "text": "Cached 'increasing communication' versus native 'zunehmende Vemunft' excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-admetos-poseidon.md",
+            "text": "Vernal Point/Poseidon = Admetos records an omitted ABC truth-suppression clause and uncertain closing wording; its ABC heading does not establish complete English coverage. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+        "source_after_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+        "page_sha256": "27f93416195db287ae77a7c3b4db3a6e90ca22a542e574538de3a0dc22dad0aa",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 59,
+          "pdf_page_one_based": 28,
+          "glyph_row": "admetos",
+          "complete_clause_count": 6,
+          "german_passage": "Einschränkung der öffentlichen Kultur, Festigung von Ideen in der Öffentlichkeit, geistige Manifestation im öffentlichen Leben, geistige Vertiefung in der Öffentlichkeit, Unterdrückung der Wahrheit im öffentlichen Leben, zunehmende Vernunft im öffentlichen Leben",
+          "editorial_translation": "Restriction of public culture; consolidation of ideas in public; spiritual manifestation in public life; spiritual deepening in public; suppression of truth in public life; increasing reason in public life.",
+          "before_source_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+          "after_source_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected ABC printed59/PDF28 complete admetos glyph row and neighbours (6 clauses). All German, labeled English and exact new locator verified; the omitted suppression-of-truth clause is restored and zunehmende Vernunft is increasing reason.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+      "before_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+      "current_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "33e74b234eeabc12c3c4ff37407655a3892eca085a89333b96764c16ce26d286",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo deal with spiritualized men. Persons in the immediate environment who have special skills of knowledge.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nClarification rnit dern partners in the public, frequent environmental ideas, public cultureplace, place for the public truth, local spirit irn environment, environmental culture in the public life, and vcmPoor partner in the public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo deal with spiritualized men. Persons in the immediate environment who have special skills of knowledge.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `58`, one-based PDF p. `28`, complete Asc row.\n\nGerman passage transcribed from the scan:\n\n> Klarheit mit dem Partner in der Öffentlichkeit, öffentliche Umwelt-Ideen, öffentlicher Kultur-Ort, Ort für öffentliche Wahrheit, Orts-Geist im Umfeld, Umwelt-Kultur im öffentlichen Leben, vernünftiger Partner im öffentlichen Leben\n\nEditorial translation: Clarity with the partner in public; public ideas about one's surroundings; a public cultural place; a place for public truth; spirit of place in one's surroundings; culture of the surroundings in public life; a reasonable partner in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Interpretation repeated source lists; six-category comparison and bounded contradiction assessment absent.",
+          "ABC 'frequent environmental ideas', 'vcmPoor partner', 'rnit dern', 'irn' retain OCR/translation damage; native evidence consulted, no scan checked."
+        ],
+        "changes": [
+          "Rewrote connected interpretation around: Public intellectual or spiritual life encountered through people and the immediate environment.",
+          "Added Identity interpretation route, six evidence-bounded categories, Contradictions and local source-heading links.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Fully read complete page, relevant manifest record and matching native source-evidence records.",
+          "Inspected complete git diff after revision; source entries and frontmatter unchanged.",
+          "Checked exact orientation, source heading targets and immediately adjacent synthesis anchor.",
+          "Personally viewed actual ABC PDF28 whole own glyph row and neighbours, printed58; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#abc-entry; parser locator {\"system\":\"printed\",\"page\":58,\"pdf_page\":28,\"granularity\":\"entry\"}; not visually verified",
+          "#witte-entry; parser locator {\"system\":\"pdf_one_based\",\"page\":55,\"pdf_page\":55,\"granularity\":\"entry_start\"}; not visually verified",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png: complete asc row, printed58/PDF28."
+        ],
+        "resolved_source_issues": [
+          "ABC 'frequent environmental ideas', 'vcmPoor partner', 'rnit dern', 'irn' retain OCR/translation damage; native evidence consulted, no scan checked."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 58,
+          "pdf_page_one_based": 28,
+          "glyph_row": "asc",
+          "complete_clause_count": 7,
+          "german_passage": "Klarheit mit dem Partner in der Öffentlichkeit, öffentliche Umwelt-Ideen, öffentlicher Kultur-Ort, Ort für öffentliche Wahrheit, Orts-Geist im Umfeld, Umwelt-Kultur im öffentlichen Leben, vernünftiger Partner im öffentlichen Leben",
+          "editorial_translation": "Clarity with the partner in public; public ideas about one's surroundings; a public cultural place; a place for public truth; spirit of place in one's surroundings; culture of the surroundings in public life; a reasonable partner in public life.",
+          "before_source_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+          "after_source_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 20,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+            "text": "ABC 'frequent environmental ideas', 'vcmPoor partner', 'rnit dern', 'irn' retain OCR/translation damage; native evidence consulted, no scan checked.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-asc-poseidon.md",
+            "text": "Vernal Point/Poseidon = Asc excludes unreliable ABC environment and partner translations. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-asc-poseidon.md",
+            "text": "Vernal Point/Poseidon = Asc excludes unreliable ABC environment and partner translations.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+        "source_after_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+        "page_sha256": "4724a68578c8a012532d043d21b21e5df20a40a0fe86fea69d31b6b09e136f08",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 58,
+          "pdf_page_one_based": 28,
+          "glyph_row": "asc",
+          "complete_clause_count": 7,
+          "german_passage": "Klarheit mit dem Partner in der Öffentlichkeit, öffentliche Umwelt-Ideen, öffentlicher Kultur-Ort, Ort für öffentliche Wahrheit, Orts-Geist im Umfeld, Umwelt-Kultur im öffentlichen Leben, vernünftiger Partner im öffentlichen Leben",
+          "editorial_translation": "Clarity with the partner in public; public ideas about one's surroundings; a public cultural place; a place for public truth; spirit of place in one's surroundings; culture of the surroundings in public life; a reasonable partner in public life.",
+          "before_source_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+          "after_source_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected ABC printed58/PDF28 complete asc glyph row and neighbours (7 clauses). All German, labeled English and exact new locator verified; surroundings, spirit of place and a reasonable partner remain distinct.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+      "before_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+      "current_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 21,
+      "ledger_record_sha256": "b3511db467bcc2051f586173bb4f48641299df5200f6ad3db51dba2bd4a1b2cd",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe refined mental attitude in marriage, community or art. Spiritual communities. Societies based on a common perception of the world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nCommunity in the public sphere, intellectual synthesis in the public sphere, common culture in the public sphere Life, public sphere art and culture, and world culture community",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe refined mental attitude in marriage, community or art. Spiritual communities. Societies based on a common perception of the world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `59`, one-based PDF p. `28`, complete Cupido row.\n\nGerman passage transcribed from the scan:\n\n> Geistige Gemeinschaft in der Öffentlichkeit, geistige Synthese in der Öffentlichkeit, gemeinsame Kultur im öffentlichen Leben, öffentliche Kunst und Kultur, vernünftige Gemeinschaft in der Öffentlichkeit, Welt-Kultur-Gemeinschaft\n\nEditorial translation: Intellectual community in public; intellectual synthesis in public; shared culture in public life; public art and culture; a reasonable community in public; a world-cultural community.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Interpretation repeated source lists; six-category comparison and bounded contradiction assessment absent.",
+          "Native OCR 'vemUnftige Gemeinschafl' omitted from cached English; source entries preserved, damaged clause not added to synthesis."
+        ],
+        "changes": [
+          "Rewrote connected interpretation around: Shared intellectual or spiritual culture expressed in community and art.",
+          "Added Identity interpretation route, six evidence-bounded categories, Contradictions and local source-heading links.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Fully read complete page, relevant manifest record and matching native source-evidence records.",
+          "Inspected complete git diff after revision; source entries and frontmatter unchanged.",
+          "Checked exact orientation, source heading targets and immediately adjacent synthesis anchor.",
+          "Personally viewed actual ABC PDF28 whole own glyph row and neighbours, printed59; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#abc-entry; parser locator {\"system\":\"printed\",\"page\":59,\"pdf_page\":28,\"granularity\":\"entry\"}; not visually verified",
+          "#witte-entry; parser locator {\"system\":\"pdf_one_based\",\"page\":55,\"pdf_page\":55,\"granularity\":\"entry_start\"}; not visually verified",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png: complete cupido row, printed59/PDF28."
+        ],
+        "resolved_source_issues": [
+          "Native OCR 'vemUnftige Gemeinschafl' omitted from cached English; source entries preserved, damaged clause not added to synthesis."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 59,
+          "pdf_page_one_based": 28,
+          "glyph_row": "cupido",
+          "complete_clause_count": 6,
+          "german_passage": "Geistige Gemeinschaft in der Öffentlichkeit, geistige Synthese in der Öffentlichkeit, gemeinsame Kultur im öffentlichen Leben, öffentliche Kunst und Kultur, vernünftige Gemeinschaft in der Öffentlichkeit, Welt-Kultur-Gemeinschaft",
+          "editorial_translation": "Intellectual community in public; intellectual synthesis in public; shared culture in public life; public art and culture; a reasonable community in public; a world-cultural community.",
+          "before_source_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+          "after_source_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 21,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+            "text": "Native OCR 'vemUnftige Gemeinschafl' omitted from cached English; source entries preserved, damaged clause not added to synthesis.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+        "source_after_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+        "page_sha256": "3944913e19c096f53fee15fdcbc930273ae03776b94018af408bb59e605dfc61",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 59,
+          "pdf_page_one_based": 28,
+          "glyph_row": "cupido",
+          "complete_clause_count": 6,
+          "german_passage": "Geistige Gemeinschaft in der Öffentlichkeit, geistige Synthese in der Öffentlichkeit, gemeinsame Kultur im öffentlichen Leben, öffentliche Kunst und Kultur, vernünftige Gemeinschaft in der Öffentlichkeit, Welt-Kultur-Gemeinschaft",
+          "editorial_translation": "Intellectual community in public; intellectual synthesis in public; shared culture in public life; public art and culture; a reasonable community in public; a world-cultural community.",
+          "before_source_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+          "after_source_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected ABC printed59/PDF28 complete cupido glyph row and neighbours (6 clauses). All German, labeled English and exact new locator verified; the omitted vernünftige Gemeinschaft clause is restored as reasonable community.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    }
+  ]
+}

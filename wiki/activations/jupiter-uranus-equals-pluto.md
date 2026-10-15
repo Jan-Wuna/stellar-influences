@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Pluto`
 - Astronomicon formula: `V/X = Z`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden beginning of a fortunate development. Sudden fortunate turnaround.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-mic development, new legal development, unrest due to changes in money, changes due to financial reform, and growing advantages due to technology
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+Dynamic development of gains, successful technical development, joy in dynamic development, new legal development, unrest through changes in monetary affairs, changes through financial reform, and growing advantages through technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-An unusual striving for knowledge and understanding, strong awareness of purpose or life objective, a far-seeing creative activity. A sud- ** In isolated cases Pluto = Jupiter/Uranus indicates unusual success or unusual inventions. den change in financial circumstances.
+- Source reference: printed pp. 229–230; one-based PDF pp. 231–232, coded entry 0802 with footnote 48 on printed p. 229.
+
+An unusual striving for knowledge and understanding, strong awareness of purpose or life objective, a far-seeing creative activity. A sudden change in financial circumstances.
+
+- Footnote 48: In isolated cases Pluto = Jupiter/Uranus indicates unusual success or unusual inventions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Pluto paragraph; chapter begins on p. 80.
 
 To have an extreme need to be free and to express the self openly. Personal transformation comes through trusting the inspirations that one receives.
 
@@ -66,26 +78,27 @@ To have an extreme need to be free and to express the self openly. Personal tran
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Extreme efforts to produce novel or original changes in life; devices with the potential to transform the world; extreme reworking of your designs or ideas to ensure they will work properly and be received correctly.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: New possibilities become a fortunate turn or intensive transformation ([Witte Entry](#witte-entry)).
+- Psychology: Strong purpose, freedom of expression, and trust in inspiration are explicit.
+- Body/health: No bodily or medical claim is established.
+- Social/relationship: Reception of designs and ideas appears in Munkasey; a particular personal bond is not specified.
+- Events/manifestations: Financial change, original devices, and extensive design revision are concrete examples.
+- Conflicts/notes: Raw ABC inspection restores the complete seven-clause Pluto row whose opening had been attached to Neptune. Ebertin0802 spans printed pp. 229–230; footnote 48 is separated from the word sudden and retains its isolated-cases condition. Sandbach's exact Pluto paragraph is on PDF p. 81.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden turnaround and intensive revision concern onset and process rather than necessarily opposing claims. Ebertin explicitly limits unusual success or invention to isolated cases.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Pluto`: big creative or strategic efforts, unusual inventions, radical shifts in fortune, and transformation through trusting powerful inspirations. Main caution: extremity: the urge to force liberation or success can become compulsive, disruptive, or destabilizing.
+In `Jupiter/Uranus = Pluto`, Pluto gives the pair's novelty a transformative scope. The [Witte Entry](#witte-entry) describes a sudden fortunate turnaround; the [Ebertin Entry](#ebertin-entry) adds strong purpose and far-seeing creativity. The [Sandbach Entry](#sandbach-entry) emphasizes inspiration and freedom, while the [Munkasey Entry](#munkasey-entry) makes the effort concrete through novel devices and repeated design revision. The [ABC Entry](#abc-entry) adds dynamic gains, technical and legal development, financial reform and unrest in monetary change. Unusual invention remains Ebertin's conditional example, not an assured outcome of this orientation.
 
 ## Links
 

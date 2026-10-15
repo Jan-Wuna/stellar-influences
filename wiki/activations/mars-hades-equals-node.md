@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Node Hades](../triads/mars-node-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ Connections which make success difficult or impossible. To be connected with mur
 
 Dangerous connections want, mysterious activity in connections, impulses from past connections, contact actions in need, lack of contact at work, criminal activity in connections, and inadequate work mediation
 
+## Comparative Schema
+
+- core meaning: Connections can complicate difficult work or involve danger and need.
+- psychology: ABC names wanting dangerous connections and impulses from past ties.
+- body/health: No specific bodily condition is stated.
+- social/relationship: Obstructive connections, missing work contacts and criminal association are explicit.
+- events/manifestations: Contact in need and inadequate work mediation are ABC examples.
+- conflicts/notes: Association with an affair is not proof of committing it; moral contamination is not established.
+
+## Contradictions
+
+The entries include harmful connections and lack of needed contact. These are different relational difficulties, not a claim that all connection is harmful.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Node`: destructive ties, companionship that lowers or endangers, and social contact carrying real moral or practical contamination.
+Node specifies the Mars/Hades axis through connections that affect difficult work and adverse circumstances. [Witte](#witte-entry) names ties that obstruct success or connect someone with severe affairs. [ABC](#abc-entry) adds past connections, contact in need, missing work contacts and inadequate work mediation. The evidence concerns difficult association and access to contact; it does not establish guilt or moral contamination through association alone.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 310, PDF p. 154.
 
 ## Links
 

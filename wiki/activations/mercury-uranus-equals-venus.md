@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Venus`
 - Astronomicon formula: `T/X = Q`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Sudden love. Sense for rhythmic or plastic beauty. Singing. Sudden pleasant news. Sudden news from friends. Excitement with or through acquaintances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting youth love, dynamic media arts, exciting love language, tense peace language, harmonious movement rhythm, harmonious reform language, new peace language, and preference for technical language
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting youthful love, dynamic media art, agitated love conversations, tense peace conversations, harmonious rhythm of movement, harmonious reform conversations, new peace conversations, a preference for technical conversations.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `158`; one-based PDF page `160`; entry code `0509` (actual PDF passage checked).
 
 An artistic feeling or perception, an eye for artistic creation and work, ability to think in forms or shapes and to resonate and tune in into rhythms such as occur in dancing, gymnastics and song. A sudden recognition or awareness of a personal love relationship, a sudden act of love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 A love of free-ranging talk, and of people who can communicate openly. An appreciation of art that communicates something original and/or surprising. A need for a love involvement with an independent thinker who will stimulate one’s mind. Thinking outside the box generates valuable ideas.
 
@@ -70,22 +80,23 @@ Your love for mechanical and abstract objects outweighs your love of people and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Original communication engages love, artistic perception and rhythm.
+- psychology: Appreciation of surprising ideas coexists with a strong demand for freedom.
+- body/health: Dancing, gymnastics and singing are bodily activities, not health diagnoses.
+- social/relationship: Stimulating independent partners and open conversation sit beside difficulty committing.
+- events/manifestations: Sudden love, pleasant news, media art and peace conversations are examples.
+- conflicts/notes: Munkasey's preference for objects and freedom materially qualifies the more relational examples.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, Ebertin and Sandbach retain love and artistic responsiveness; Munkasey explicitly allows attachment to objects to outweigh interest in people. The distinction matters for relationship interpretation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Venus`: sparkling conversation, creative diplomacy, and the ability to attract through intelligence and originality. Main caution: inconsistent charm: relating can become flirtatious, unreliable, or too mentally erratic to feel steady.
+In `Mercury/Uranus = Venus`, Venus specifies original communication through pleasure in independent minds, surprising art and rhythmic or visual beauty. Open conversation, singing, dance and a sudden recognition of love give quick perception an affectionate or artistic expression; exciting messages and media art extend the same range. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [ABC](#abc-entry))
+
+A stimulating love involvement remains one possibility rather than a guarantee of commitment. Munkasey instead emphasizes a demand for freedom, difficulty recognizing inner feelings and an attraction to mechanical or abstract objects that can outweigh interest in people. That qualification belongs beside the warmer relational examples. ([Munkasey](#munkasey-entry))
 
 ## Links
 

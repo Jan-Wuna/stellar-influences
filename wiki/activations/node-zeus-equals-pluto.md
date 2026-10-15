@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Pluto Node Zeus](../triads/pluto-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 Several people increase their accomplishments. To quarrel about superiority.
 
@@ -42,13 +46,27 @@ Several people increase their accomplishments. To quarrel about superiority.
 
 #### ABC Entry
 
-Development of a conjugation link, development of services in a connection, development of schopfcric relations, and growing aim in a connection
+- Source page: 229 (printed); PDF page: 113 (one-based; exact row checked).
+
+Develop strenuous contacts, changes beginning within a relationship, development of a procreative connection, developing achievements within a connection, developing creative relationships, growing pursuit of goals within a connection.
+
+## Comparative Schema
+
+- core meaning: developing creative cooperation and increasing accomplishment.
+- psychology: growing pursuit of goals and disputes over superiority.
+- body/health: development of a procreative connection is named without a medical prediction.
+- social/relationship: several people increasing their accomplishments and creative relationships developing.
+- events/manifestations: changes beginning in a relationship and development of shared achievements.
+- conflicts/notes: Increasing accomplishment and quarrelling over superiority are competing possibilities; growth does not establish harmony.
+
+## Contradictions
+
+Increasing accomplishment and quarrelling over superiority are competing possibilities; growth does not establish harmony.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Pluto`: Several people increase their accomplishments. To quarrel about superiority.
-- Practical focus: several people increase their accomplishments; also to quarrel about superiority.
+Pluto specifies `Node/Zeus` through the development of a creative association and its accomplishments. The [Witte entry](#witte-entry) joins several people's increasing output to quarrelling over superiority; the [ABC entry](#abc-entry) describes emerging changes, developing creative ties and a growing pursuit of goals. Development of a procreative connection is also explicit. The distinctive tension is between expanding what people can accomplish together and competing over who stands above the others.
 
 ## Links
 

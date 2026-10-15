@@ -1,0 +1,957 @@
+{
+  "paths": [
+    {
+      "path": "wiki/activations/moon-admetos-equals-apollon.md",
+      "before_sha256": "6da17b50e8fdd669c9baca9192c191283bec68aed2cb384579bb397494f3f00a",
+      "after_sha256": "ea008a2db7c097618030bb78906909e9d90a895841b3c317059d547124b9e076",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-asc.md",
+      "before_sha256": "51afd7cdd1f56cbd753337ed4eb7831d276d396f1b63a62507d50c903ed53a69",
+      "after_sha256": "db6cc9b831e3c37e54a602512a4d64296cce632ebc6b301512137933ff403455",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-cupido.md",
+      "before_sha256": "b9632c2c6e06ab6ad071ce37c249a401b3fa420bcaffd71f3cf6ff09721e307a",
+      "after_sha256": "66ba3cf0e9e15ea687864ead71cebfb797525c0023a07bd67bd921a682f38cf9",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-hades.md",
+      "before_sha256": "aa374becbb691c95656e323cb7f7ef26adbda1b4980b9f08f163b0daa12a9ce3",
+      "after_sha256": "61fd04cc45126e9d65f94d528069d3f6e2988b11ee2d783d33d59f249f4f4974",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-jupiter.md",
+      "before_sha256": "ad6f7c9ef09960da4b363d60d1ac15e4d91794709767bd65f129c1ba16027c49",
+      "after_sha256": "1ef308f237d807f6a1bd888145ee965d2c797de2da47b9a8424131df81357de3",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-kronos.md",
+      "before_sha256": "7926f2d7e5a3d630ff0de9b904a946aaa432256ae15e48df5aa7943b280476fe",
+      "after_sha256": "1b9244dd8306af5c4b4b7365726e310ba5e0ab7d2457d54a33525771b19fc41e",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mars.md",
+      "before_sha256": "dfb6174758ad103c342fb86393df28499df1630ed75fc4a1a49f7d8b4246b962",
+      "after_sha256": "13964c233fbad9db009016ec81f7200191d3ff50176ea51247f8356627b3d9ed",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mc.md",
+      "before_sha256": "6014dc17364991142dcdac0507a38bee0f0b9b001858f4026b128f3d8991f1cf",
+      "after_sha256": "aa55422179e8a7056e032289bf83e156d7f9a866f8ed380d22add22aa900ea82",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mercury.md",
+      "before_sha256": "a97b6618c5c1aa8104e0539c7bc207b7182881125bdaf594a33aeacc47ca3b31",
+      "after_sha256": "02220bc007721085c7113b0e6097a671ae3a189b82a04d4db10bf566131a02aa",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-neptune.md",
+      "before_sha256": "715113f43a20e7ac393dfc2134bd4d32870bc97069205b563caa9a4e72ba592d",
+      "after_sha256": "0f990d1e7614e9b2e953f29f64efab17d63301efbdb50a4baa9e64630086a654",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-node.md",
+      "before_sha256": "3cd5b7d1aeb30292be913ab15a89ed97b9eb424478076bfd01dec4c70f840cd8",
+      "after_sha256": "0ef804df53c7d85cc98f37fb661b342e87c17d9230ec43ade0104dba66d6c30c",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-pluto.md",
+      "before_sha256": "222daf19d0d086a25674989a17b70c3cddbf76e95603027eb7cba3c33d607907",
+      "after_sha256": "01026c1dbe21e96c00a600759c6b2c68ff12ac90794993402d797187e356699f",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-poseidon.md",
+      "before_sha256": "d5930853e81f1a5f4935cb2ef5c8ed15fe9edfec7ae675312cfb783dda89824c",
+      "after_sha256": "bdb4a3bf2c5036693b3b6e3f55bd2ec1cc0d13e188fcf9d862c6269fe65bab15",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-saturn.md",
+      "before_sha256": "3edd36a256622b17a743972b9014b95acbb14cc9ed1d90a415cd71dd5a4e82e5",
+      "after_sha256": "f2f36e719e57e0957e67ee23c8f4a0e482fd9c1cfb636d39c3256d8cdeaaa40c",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-sun.md",
+      "before_sha256": "e27288ba9cfd8c5b05a9fbb188e79783dd9197e46b09e30950a2e721f35df9d2",
+      "after_sha256": "a91adf305575462d3e3a9012dffd07a4e79072327e50ef7966e7420bef85baed",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-uranus.md",
+      "before_sha256": "6dc4c14bb5ac83f5c45db3f39f032012570b2bbaa66786833424f087942b1fb9",
+      "after_sha256": "b420079fc9782e0438cc976e52b3075d7769603ea12ff4f1ba887c0ec26aa548",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-venus.md",
+      "before_sha256": "8b8b8a0e3365d9819e89ffbcf600a1fd383100c06aa7903e84efb6091ce207b7",
+      "after_sha256": "6e4c9255afcb09277efa7250835ac1d0cfe5b677da13238e5a36c503fbb1f7d9",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-vernal-point.md",
+      "before_sha256": "4196050d58027cbcc0aed804aa6a02ddd67962ac4d5ded2a1e80a2e5692424a1",
+      "after_sha256": "4bc07cbd9b7d7515bce77df9ee6cd25469b152f60e3be96e52d8875af13c4985",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-vulcanus.md",
+      "before_sha256": "a4c063d0bb6aeb255e9335dc1e38b171ff1336367e725341facc586b3df8d289",
+      "after_sha256": "9caeb8eb3eb02f21057f6f85ee770260d98758072bb2f97a5d304fefc18adebb",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-zeus.md",
+      "before_sha256": "249f4592769f550913735c73214b66d52632d764890127926b43f0dcd7c026f0",
+      "after_sha256": "836f5f35717cb1237c81d2a341a476748bbe8d8e5b39af1d00e3769be64a29a3",
+      "ledger": "activations-041.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mc.md",
+      "before_sha256": "0df9d5112bcb9d909acbe1e65c2c69adf740b09f125d0037cde05f0fc4bac57e",
+      "after_sha256": "efa73802c46c00c3914dabd8f29be726dcbb0b035df3a9e0126fb3f4cce1ca30",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mercury.md",
+      "before_sha256": "560b3b7b068fa43afa921cb41ab747d70e9156b0afc3273ced9b0e0fcd54b80e",
+      "after_sha256": "c264fda48ad7a61eba457f126426f8ca0665d0833a721d780952d95bc141334d",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-neptune.md",
+      "before_sha256": "2759a3a5c17685ea3682fc76438b6732dc5d517f32273c59d0af5f481fb89df0",
+      "after_sha256": "b4ea6b8b964e006f88b36745256709310f9e9811a1cc6e8318778c39749c6190",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-node.md",
+      "before_sha256": "9e12c51d75163fc313bf933af0790582c7fe8c6a789b1d2dbabdf323623f6651",
+      "after_sha256": "011349cc5b29305f5ffb177c0df68054a4704af3be6f4bf45e6bd4ccee43c61b",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-pluto.md",
+      "before_sha256": "3f0d34898a9bb79fd4ee3d4af31bed369dcb825efae1096d06c29fa6f11995a1",
+      "after_sha256": "d3a1ea5ba1c2860f57059dde58ef421c3b8de18d18efc76aef0e7ec2edadfdd7",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-poseidon.md",
+      "before_sha256": "a86c85a5a86c0697a6c4c1d39840c5c1a002aed6e5cf6d282f674a296c8904a4",
+      "after_sha256": "14b263d80596e1cabcc8e81488348819aefabab14196201a8164ee12d968f394",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-saturn.md",
+      "before_sha256": "690ba73750a5a93583c2908878d6e752b5ae010a1af6d4855732702f4331dfbb",
+      "after_sha256": "6306bb921611d5db7f77548c5917a9bce25e2a76c6e274f55b8194d19afb559c",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-sun.md",
+      "before_sha256": "f0e05e2667d272eaaeb8e77a696f0d6b37650dbc58383c2530afee4c0f0d38e0",
+      "after_sha256": "0dfb3e72e4a3bc1541f640ba4d702607b307d302ba2c984d4ed86108ef4186a0",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-uranus.md",
+      "before_sha256": "200104971961aa986c4469bcb280a395fbd78d43cae7a222e93008fae37f01da",
+      "after_sha256": "155538ce42e6c9a294d65e2d62152fe0047f395564dc0b44036246eaa534d90a",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-venus.md",
+      "before_sha256": "c1b38306b7496b4ec1a54c9e1c47ddbbd32d5a4ce273ab90e9f27b9786e4d101",
+      "after_sha256": "1345c67fd41fc0db5fe7fc7d75a481a4b0a4fa6c6fdfc3a9f60fa375143b0c9f",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-vernal-point.md",
+      "before_sha256": "368ac1e095cc7ede4b68f16f88ca3a914f0ae030d18c99fdfc7ac68fcedaa3cd",
+      "after_sha256": "784f66dac9db9e9fd10263507c8c9d5ae53b99573837c18c506a7db2d284dc54",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-vulcanus.md",
+      "before_sha256": "b6acd2dc26005257626dadd7dff16dca8ba3367e6664f22a13576156db6c4ec1",
+      "after_sha256": "44aa8673710726c910360051bc8015f56e959211ccede3ad38f6421cccdd8a6a",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-zeus.md",
+      "before_sha256": "9083937a78b136be4dfd1fcfdb1cc01d53794215e59ff65223d4c0a3663e1b52",
+      "after_sha256": "2f4e45d49afdf6e6895145e769d8c0f4c446dd55e24bd3d5930a77b834ccdaf9",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-apollon.md",
+      "before_sha256": "b5edfd5e71a89f4c5f29fe42f657b37b66c29d3275e74c7482f8215a17266414",
+      "after_sha256": "d42cb76ae95ce6bfff482448598a9a7420a43cd35834f8d87cc9bccd5fc39468",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-asc.md",
+      "before_sha256": "117c8cd98a429865a74dfb07f6b6b574181896f1f11167e9025bb979abd38431",
+      "after_sha256": "149d796edf38a8d778ba90c4fe52ac43df208ed871cef7c5abbb3ead41fe45e2",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-chiron.md",
+      "before_sha256": "a67cb2b864d8dc070612786cf80b2e4cb0736c05a443ced404f1dc42ca689865",
+      "after_sha256": "5ba4a2a80895ba5c70d6e08776ca9693e70656db91be8d9f8f5601316d245fcb",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-cupido.md",
+      "before_sha256": "991f08ab35930844d9bbaba53d6bef917f2348848cc85a42e0327a1d038ab9a1",
+      "after_sha256": "a5790d4d5bc6bd1e06ac2eb644e8efcf0114af18a83c37609bb2c500e22d7ea1",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-hades.md",
+      "before_sha256": "92e18e9cd8e4cef66c88ae005326f6dd3c388c4055edb44f1a6f3cc37dc12132",
+      "after_sha256": "9455208cc4544abc9fffc94f83726f1c0725d8e7161b4ff6ec49fda1f3d20838",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-jupiter.md",
+      "before_sha256": "108ca800a5983e6bd995ac10525915aefe2c699c24fe44dcc92af2a1ecfc0d93",
+      "after_sha256": "f955ad17d3a5f419afbb5d623af545abe30036a4b65d4aa6b50053993a62a1d2",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-kronos.md",
+      "before_sha256": "92f17f9e4a434db2089e90aa0a9b0a4789114c3210260a7d0b988accb5664876",
+      "after_sha256": "70c97fb36c54816c385b6e127901be82c55a72008cde1b4cd79156805c52e830",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-mars.md",
+      "before_sha256": "1237e458dc7c4e9d6511cd22389f1a9e64eb0efc9804339a700328c79ad57c6e",
+      "after_sha256": "16343f9e405bd061e1acc8b13c7f3c6460def7848ca664357b9990fb8ddf7abf",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-mc.md",
+      "before_sha256": "b837723e66eb61f66a77681697c5b84e07c5958e56b236c64f1f4d6c870ffe75",
+      "after_sha256": "6aabf6049268f52c01888641db02528341f362b5e4baccb9ba73a760d35a0f46",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-mercury.md",
+      "before_sha256": "3dfe4f4dec2070128c263d9c1e4baf371fba97c4c1af96ef2fde6e0a8ed689e8",
+      "after_sha256": "be60754511e8a38f638e7f1081a946f7d7319a4256e099872895f048f37e55e3",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-moon.md",
+      "before_sha256": "df7e622339f9bdebc61c7ad4a9ce4191c90198431cafa6a7bffd1931251dc521",
+      "after_sha256": "491ce806a2afb2847c0f44380da50343d2fdfe6c669503ce7b487d163543da99",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-neptune.md",
+      "before_sha256": "50308256cd9b733138996468b19585599c578d6a0bc388d9b2dd305889fc908c",
+      "after_sha256": "04ad23611808bc668a1f6f2329276cfab7f9e9394ddad366d9dbabe34e788fb4",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-node.md",
+      "before_sha256": "5e92eca8f982c1cc52b0a021e3abbc5f3ff8c02d3adc754c9d637f883c2c259c",
+      "after_sha256": "ce3f21a3ed328a364079ccc465f3a8114c70e46b73fc0ca2779ae2f51ac50a66",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-pluto.md",
+      "before_sha256": "eda2f8c9629bf8f843b884939732a8865283447a5c2e9b901a641e648d3c08d2",
+      "after_sha256": "67fa0ff5d8be12e4cfb26619d46c6b0303329c901edcca267507948690134857",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-poseidon.md",
+      "before_sha256": "8050cbdc11d575579018a0ba7ec60ec149f8aa7659990bc75b0417277b067c25",
+      "after_sha256": "84e8bc2eb491c18758a7d21e0d16f9950b18eaafc4052c8330b93d0ed1235198",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-saturn.md",
+      "before_sha256": "c2b53b4a270e0b32a1ae951c4f2e8067ffd7e10f0dfcd1471ced5ce4f02c233f",
+      "after_sha256": "10ff01e504ad855aa57b7e14db342f9ef85c8f27920746d0936c9305306061de",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-sun.md",
+      "before_sha256": "c2ff697bc144c8c6dc890e8852b298a6777634e80bf9009f7f4b82b914586945",
+      "after_sha256": "0a3e1094eb9177c851159f8ecaac3bba05992767e549d3fd83f03315fd1b5ad6",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-uranus.md",
+      "before_sha256": "d47ab29a9ea82ed06fcecb43984b55d09ce7c4ecf8719b803abc42276860560b",
+      "after_sha256": "25120d78781ab0bba6a7148949dc97c7a1487d03b848c25c970ed0c76c0825ff",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-venus.md",
+      "before_sha256": "0d07dcfaab26c6fcdf5e150d6f452b44939a14a603f3c0a3e66de547a506100b",
+      "after_sha256": "fc290ed7e1b232c74092fe9a9b3e11622193ca92ffd07efa11b02f8a8ae96a57",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-vernal-point.md",
+      "before_sha256": "61d38264455b407b2495a230f8e9737c499a20554bc14f7ed4e87643f544890b",
+      "after_sha256": "056af29981a5d242a5b7dddc8052f81b06c82d5bd8a5f123a29ffc18ec9cb3f9",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-vulcanus.md",
+      "before_sha256": "1a04098b9a2f69ace480bda4280644828385050542ac91df389a503f72500ca1",
+      "after_sha256": "077dd2cad6b4c1b19ad43604e19ed26547664147d6e0dfb99983b392e63464b9",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-zeus.md",
+      "before_sha256": "5d611cb9678820eb5da8e5fa0b2933d651a0a46ee70d5b1ce7aee5b212a611b0",
+      "after_sha256": "81ea67c432698a3f23638ed472b36307bd3b89bddc532072ead55b607969c704",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-admetos.md",
+      "before_sha256": "ca9a0ebb0ad0c8e29ede82f6ff8b9ca47c48421d566d869e34eef71c23eae50c",
+      "after_sha256": "d11ba815d73024c27ef100b82afbf75e3d878491870b651da5f76ec1b4fa94f7",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-apollon.md",
+      "before_sha256": "74bf2962d605b8ebe87b7787e0f9a9e1c8f9827d9d6ee165335feb68cd5781bf",
+      "after_sha256": "6b3cd516372c1bf1c3f5d098168a33d498c3740796654cdb7e37462ae68fd794",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-asc.md",
+      "before_sha256": "aaf72e5dc2b013c53a482368eba1d474fce074acd453e05a4685bd9ec457a3ee",
+      "after_sha256": "7ac64feb3f61186637268794c259cfa6900275b3f2067ca04344f33646632889",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-chiron.md",
+      "before_sha256": "7a937537c78f31e08c58110075fc1b446a50615faf0c2cd5cf3cc21fabce3a10",
+      "after_sha256": "3331cec71644dda3073e272d35dd7a567a75e7cbe9f29b19b88b9370bc9f1c5e",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-cupido.md",
+      "before_sha256": "8f29ea0311a47483f4b179e75f711c49ba5ea74537be05f8853def93c8d205a5",
+      "after_sha256": "434fa966eb52b3bdfa2b208bea846df17428206b84c6d0f4d2d2d52f8410b06c",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-hades.md",
+      "before_sha256": "95bee0eddbba0d254c55b245eacb2d9f349fb9068d16a67ebe93f30870453ce4",
+      "after_sha256": "9940271b04d6f92f891decd96a4abcf43d214c5f6796825b98aaf2d6242b7ec7",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-jupiter.md",
+      "before_sha256": "5b7917ec2d03c1119eb0655250ff39dc699bc67ff6f0d56d0b79c72b8bd8a16e",
+      "after_sha256": "3261dc93e90ec5b894456d8a8b4227c6cc078d9ba3b31f72e72ee986f53e52ee",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-kronos.md",
+      "before_sha256": "b599dd8051465152743c75abc1ce6742db19d447adad544433d0330235ef1451",
+      "after_sha256": "4004c2ac8ce046080abe3131f292b63e541a7c064094600949395f5eb7bf53cc",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-mars.md",
+      "before_sha256": "c0ec98f7fa1f94f33abf8726fe4310b605d62fe330487a0d33f48a2eeacce79f",
+      "after_sha256": "aaeab5099cefa972a7f3136fb9336dd8360160a1aa777ce878c0bd0d9f225841",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-mc.md",
+      "before_sha256": "06681a40890b01b8d004b7e493a2f0968a0a09b676c47e32de349acce0a85ad8",
+      "after_sha256": "d0bb2c93272a064805a9567c6a665e11a917d545d2b9c23d9788f669718370de",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-mercury.md",
+      "before_sha256": "6838dd1dad0c51beb016ecb00c7377577509257240080303d85f9675a6b25393",
+      "after_sha256": "cae152c238e5fb3f3e089035af79571fde44a6da57d41b050352f9371d62fe5f",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-moon.md",
+      "before_sha256": "16e75a0d71a93f1da433958f050c149edf75ae2a6a62de20ae896e54c4e63ec7",
+      "after_sha256": "64d30219d3966a74c371993f4415bc555d63181f139266c8fa0e32abab7d1fcd",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-neptune.md",
+      "before_sha256": "658b863e0e40fb687e42bff5d39f2a3d58279326f54f73f84f66ca7748ddbcc2",
+      "after_sha256": "dda82dbe594e35324513ef2876b7e1788eb99333cf85ef9b905e3301cb3521ef",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-node.md",
+      "before_sha256": "e7595ee06f6dbbc13e795030dbd1b0de00ad642fd1c5a28053c345c116bff123",
+      "after_sha256": "c9a9ab6ff5eeaf5d41e7582b1ff859abe2777c5814f8fd3b4921b5e4109fefb9",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-pluto.md",
+      "before_sha256": "4832fb2463d0b4da1f90e2f5c0c22f0d2509613fb6453c8fa83a515cadcb66b7",
+      "after_sha256": "41538b8472901c1766375363e669eedd0cb81715d8999568f136f956de4d6733",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-poseidon.md",
+      "before_sha256": "2ec673bf9151bb1fc95476f8d465ba5db6b0e39f97812433e322c0e530e88b60",
+      "after_sha256": "5f53c1c75462d7ba2bf1698bc0f521ddabd279f79a83072935c96eef108edc66",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-saturn.md",
+      "before_sha256": "0563d181874010dedd287b2219feb3ac2d305321c168be4ec6e77ac5826ba67f",
+      "after_sha256": "18c5f4ebaa55c34c412ab92c71ce48ecb1018ddb9c4d04311a49032ed003da88",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-sun.md",
+      "before_sha256": "559176ffd6473df51c87059f6e61da5115b56eb2f5ec357fdfb7543b66a62a28",
+      "after_sha256": "29eb5becc1f9c06108f4f36fdca31bad0c3eb4f41843435b0e6f0daed0eb1cde",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-uranus.md",
+      "before_sha256": "cc33824735d462a5e65418502fad2bfa95013ab8eaf1ca83dfc8f54c4a7bc499",
+      "after_sha256": "45bb198165a24f062b6e89f0de0bc64ce9d5a85abeb3963c6a1723421b2e36ad",
+      "ledger": "activations-044.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": false
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-admetos.md",
+      "before_sha256": "4d7a3611459b543e8af9cb2becbbc645eb3225a4b290f77826c2c9a052a16a88",
+      "after_sha256": "69f35df6d267a8c69a7eb519ecc9db272fe01d3d1aeb49300b479739179024b5",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-apollon.md",
+      "before_sha256": "6e3d2aa273d4514314215ba3935d36adc64da756b908dd0895cd79eba66e6ba2",
+      "after_sha256": "8a1baf96f66f4ecc3e908e082b923357f3eaf5bb4ad90842decd27f93d5808ec",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-asc.md",
+      "before_sha256": "1bf302f982b17b1e66427ce717a382d9b0710bc5ece0f7c3164323e57cea106c",
+      "after_sha256": "eb81c30b19f37aef2439df3d7d574a0d83ff598ae4d7335d16956de8c03f63c9",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-chiron.md",
+      "before_sha256": "a2e3d2a3bbe638ec1618ced57aa41a43fa098ff3d606456a5a20262978c6afd1",
+      "after_sha256": "ad1e4c975d27918e2200b51187317c1a209195cd0893e377061dfa035bd475d1",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-cupido.md",
+      "before_sha256": "3b7623e5108ef6b2887b07b50e4b7b1740339e32bacb8e2a498f0197769dd979",
+      "after_sha256": "cf801d92d90e1e19cecbe594cb583fd82e0ed531ba5b3eec08fbabbf9ba72a5d",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-hades.md",
+      "before_sha256": "172d175521a744ba01bcd17251efdba8ed3b9ab384325ea0f6ccc84120640e58",
+      "after_sha256": "d44f5a0c638f527ef1b620d63bfad433e6029e50fba7aec2948a8445bc2b89a9",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-jupiter.md",
+      "before_sha256": "54fa31475adae08abbb32a6672547cda5034d74aacedeebd43520c902913d21d",
+      "after_sha256": "7aa9b0e9995fa99d84318d1c99a2bcfcd2b71cc072938cafa8bacf6d79d87281",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-kronos.md",
+      "before_sha256": "159a1c81c7f524988c63097896d2b9cbb7552c22e91db3afb71df7f79a740753",
+      "after_sha256": "55660d6e3c3778fc2c72a5baae139b20bca11ac055e745f1d88518337828b999",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-mars.md",
+      "before_sha256": "85850889f3aa4222977a8634e5e8fb931fbe5c6852fef56bbae7e830491f213e",
+      "after_sha256": "2ac9ede27d86070152cd8fa0f48c8d075573bb673b5a0dcacee1aef99a8d2809",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-mc.md",
+      "before_sha256": "fb58b4a863b1e5f35a968dc760a81771e99f161badaf38e778078431222d180b",
+      "after_sha256": "ed0f51944c19d5a0e0e630fa725a14789045af6acdca1ea46129ba18f2a89e16",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-mercury.md",
+      "before_sha256": "81b5dbb8fcebea44abf03ff7bb6b1ca4f039c1f57159b68974f47efe286f9a12",
+      "after_sha256": "0f64484b1fa440149c1acf23d27a4e44e56fc1522e6302106d1761a43a9601bb",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-neptune.md",
+      "before_sha256": "496a01b2244fafec081af33582e60bf63d4b3b204d00d89d7dbb801db08cb848",
+      "after_sha256": "b8a5bc429248f31610d72364a55717982437f8d02e7349f891f88d5a33d8d738",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-node.md",
+      "before_sha256": "ee361b1a3d668686b61d81f2b819e11d8ce6cd5d86ce892f55111d26700232c4",
+      "after_sha256": "99496073dc0e3aaeb66e21c1a42f5b5417b803b693f1b590a723abd693d0e7f0",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-pluto.md",
+      "before_sha256": "29bcc6e36a6e22d340dafc13cc09dc7139534a148fc93a66b36fe1a8a4dd15c0",
+      "after_sha256": "9f4a5d3b34af0ace472f0748a76ca1620cb976b9d7e80a7efb68b7e07c73a592",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-poseidon.md",
+      "before_sha256": "791f0eaf090247ae1abade2b6b39751d5412218649528e4a19af493202ffde12",
+      "after_sha256": "2925400e4ba23d543f561db68e67c7f25fb903994fed03d7b35ff55dbb494aa6",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-saturn.md",
+      "before_sha256": "8b89cff86b65c5594887ef7bff2820f073610a180249125152aefa3d53770768",
+      "after_sha256": "c0e9b8db4003f4d245983b0ccde85f1ba2a93520369810aba64a2c6c1a611033",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-sun.md",
+      "before_sha256": "699f66fb5feb5c241f2536bcd179e01e959007d89e15ad35af1958ab62f0272c",
+      "after_sha256": "be1238aa058a8c61ed47f66667d4104efa25df04d741e6219e1fb59309411874",
+      "ledger": "activations-048.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-uranus.md",
+      "before_sha256": "ccf76ac92c3deadd1af83a6ab7bc1aad9b226c71b3dc6fc9b373dd4624cdbe60",
+      "after_sha256": "bbca317304d3a4ef11cdae68a12c5e0d1c443481c59648032ee675b0e7119d1d",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-vernal-point.md",
+      "before_sha256": "928b12c6988c339eebff33722fa2155c49c4c96168e011c5769f4395feb9b4e2",
+      "after_sha256": "2ba7d1370c1977da246681eb06582e156afa1986e9c86e291d9e5d6ab9989069",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-vulcanus.md",
+      "before_sha256": "ac5d44aa872648977a417116e0ae6fdf126590c4f2b7fe054674ad0f7c2596b9",
+      "after_sha256": "c3d09787cd57bbfbef5c7d55a8c93b49e3cfb71a04378294488de387ea335083",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-zeus.md",
+      "before_sha256": "b94e233cf17312c3f75fa88f4f0dff29e3ec19bc0c0508bf3a9a6a46673e6268",
+      "after_sha256": "e1ce6638b2d85642e2abb47d81fbbd6a276680df230ea2a761a65d73b110c844",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-admetos.md",
+      "before_sha256": "d0df96e44c5fa80a814cec64124a60132e2e96c9b946f74c97b7d47b6b14c255",
+      "after_sha256": "31425e89b4e49470c3ca03e710221b6d3564e893365172a35dbb7641d8239a58",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-apollon.md",
+      "before_sha256": "3c42a3d57c87056f534d0415f5f77f560e020ca0b8269171ce73900e5bde6c2c",
+      "after_sha256": "5f4be87fdcbd4cd16b8d23de7cb92943dd12518c9b3ca01b4bf6ca6fa6ba9cae",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-asc.md",
+      "before_sha256": "bcc4c2f33756afeb06dcda9caddf5f10be8635fc3a8039a1a47bd1fcbbf6a807",
+      "after_sha256": "c53b37fc4aeb9a82f7e54f0f643ac43ef14bf7a7100fb8504dc5033a375b3045",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-cupido.md",
+      "before_sha256": "0a90ae2c20a05d2bdb3f6d0f95d5f54a58ce9f049e24e1dca2e19c4714b631cf",
+      "after_sha256": "2108251abe03f7783da8756fdc9e93d14b74a52e0462941ab99dcbe323d39ff3",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-hades.md",
+      "before_sha256": "f4ce0516cb9acabdad94380f79814fdef7000e96e3b203ccbe0cb8aac010b838",
+      "after_sha256": "249958557933608eec642cae38702fcd0fed3b7729e26f67f2fe11ab66011659",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-jupiter.md",
+      "before_sha256": "8f891d87c2c26d83d463c20825c7e8939b743235adb11da97d4ec56db16df8d3",
+      "after_sha256": "dae94e7a6d18289e5b9f2d4cae290f57dda95b77b145e83424240cf114ecf4b3",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-kronos.md",
+      "before_sha256": "6b90e51805cd5ba764e86f0d79dfc4f71758fc1ab5bb9b2c366ee66a8476a67d",
+      "after_sha256": "c44924a5f7ae46521c7297e6a3598746fabbe4980e97ec2072efd033ece28086",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-mars.md",
+      "before_sha256": "680e1b40eb4f2deac77cb907caf4ed4a72dbed5367cf432d8a8105a936616ac9",
+      "after_sha256": "845c42dbb02fcb661b09f5526ce552829e764a067d3ec872fa322ef58c3599ae",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-mc.md",
+      "before_sha256": "58c5addb3b6237c3fbb4ec608b7edae0c6c9282f54ae0965a8d8bf1c55e9d4d1",
+      "after_sha256": "8823f6cd05dcd0f6b1ecbc77883ddb017c2d71512802c674fc5f1824ce39e2d0",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-mercury.md",
+      "before_sha256": "e247925d67c378df8d995b9b5c66a394e58c8b7409ba5dbdccfddee52cb6a479",
+      "after_sha256": "e05d811ca3f3eb8b0ec1343389f5f6bc9c5e450a5a6c35667a7e276e387d0864",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-neptune.md",
+      "before_sha256": "85c7e32d5f35fd7be93988e7408d242d76732409f58031bcc9132f6db9925d46",
+      "after_sha256": "cb97c2a9759ad88207f1c4b786a442fe2c6c226c328c9a302e1b45c36f95f689",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-node.md",
+      "before_sha256": "7d02c4b4a6e50b71e956dd9e1c575c0546408289cf01ea60505146f5c2acfcf9",
+      "after_sha256": "2cc2bbffc1d212b48cf20a32feceaf56026b3cd231da4063ecdb282642454a33",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-pluto.md",
+      "before_sha256": "f656f980eea36616658b7154e6903770d5290f9d1cb32a01de42507621cadc47",
+      "after_sha256": "666fce80fa90efd636f29bee59d1cf7fd08803a13d5d22749a8136e316a58b17",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-poseidon.md",
+      "before_sha256": "89918bf16326da6b5118247aa597bfd0cfe769c8638e3f53576fbcf46bc662a8",
+      "after_sha256": "18d59faa896afc5bf968110cf52f96b7a14209fa56be9fafa14cfdf2c1c57a32",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-saturn.md",
+      "before_sha256": "1f6bf149a7393c9ad9960e3c9217f83f7dd1c96f9801ad08005ae355c0ee3ba2",
+      "after_sha256": "858862deb715f49cd39cd5a78ac551fbd86ec57dd3d7fe9e5035770ad761842c",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-sun.md",
+      "before_sha256": "e747d91767549f7e83a04bc2eb1e442edefae667a0638bfad49d271eb8b3a376",
+      "after_sha256": "af78144e6a520428a430774322f7ccf1052c853f7235d8564d12e25dba622361",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-uranus.md",
+      "before_sha256": "5ca4d62bca16039358caee7049472280931525a9634c0c7c35945307096cf7ac",
+      "after_sha256": "47bdbd556dc8ef11bcd1ce4b17643fc255cf484dc4e8a1264cbdb05e64a02317",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-venus.md",
+      "before_sha256": "7cef33b6bb7adcf2b501fecdfa050ba824a3e66e2098045fd8803bf73d529a89",
+      "after_sha256": "74f5470462c3210d988979d2d2f091615142092b9c66a3f0bd26b56b73140d41",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-vernal-point.md",
+      "before_sha256": "430decb1de4049645bacc1b19c440edb90c00fbd655295524cf3ad5cf14e6f33",
+      "after_sha256": "8c96f6e9a47c3389ca28d0d0f0b64ec6e341c3b7593d5b107d082265b8618690",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-vulcanus.md",
+      "before_sha256": "686ae2448421b409249f9f71bd8c339bdec9d2fe93a09c3495f61024bd5c9469",
+      "after_sha256": "6057d2230eb5c85b7bf47f44a980aba08482f1a471d505554ac248992cc505b5",
+      "ledger": "activations-049.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    }
+  ],
+  "pending_ledger_excluded": [
+    "wiki/activations/moon-cupido-equals-admetos.md",
+    "wiki/activations/moon-cupido-equals-apollon.md",
+    "wiki/activations/moon-cupido-equals-asc.md",
+    "wiki/activations/moon-cupido-equals-hades.md",
+    "wiki/activations/moon-cupido-equals-jupiter.md",
+    "wiki/activations/moon-cupido-equals-kronos.md",
+    "wiki/activations/moon-cupido-equals-mars.md",
+    "wiki/activations/moon-cupido-equals-mc.md",
+    "wiki/activations/moon-cupido-equals-mercury.md",
+    "wiki/activations/moon-cupido-equals-neptune.md",
+    "wiki/activations/moon-cupido-equals-node.md",
+    "wiki/activations/moon-cupido-equals-pluto.md",
+    "wiki/activations/moon-cupido-equals-poseidon.md",
+    "wiki/activations/moon-cupido-equals-saturn.md",
+    "wiki/activations/moon-cupido-equals-sun.md",
+    "wiki/activations/moon-cupido-equals-uranus.md",
+    "wiki/activations/moon-cupido-equals-venus.md",
+    "wiki/activations/moon-cupido-equals-vernal-point.md",
+    "wiki/activations/moon-cupido-equals-vulcanus.md",
+    "wiki/activations/moon-cupido-equals-zeus.md"
+  ],
+  "candidate_artifact_generated_at": "2026-10-15T13:09:11.946381+00:00",
+  "groups": [
+    "moon-admetos",
+    "moon-apollon",
+    "moon-asc",
+    "moon-cupido",
+    "moon-mars",
+    "moon-mc",
+    "moon-venus",
+    "moon-zeus"
+  ]
+}

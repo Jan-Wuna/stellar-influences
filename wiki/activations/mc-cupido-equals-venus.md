@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Venus MC Cupido](../triads/venus-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ The love of harmonious company. An eye for beauty. Enthusiasm.
 
 I love the whole, the inner harmony of a community, my peaceful community, my love of community, and my fondness for the arts
 
+## Comparative Schema
+
+- **Core meaning:** Enjoyment of beauty and harmonious association.
+- **Psychology:** Enthusiasm and aesthetic appreciation are explicit.
+- **Body/health:** No bodily or health association is established.
+- **Social/relationship:** Peaceful company and love of community are named.
+- **Events/manifestations:** Participation in the arts is represented as a preference.
+- **Conflicts/notes:** The entries have overlapping favorable emphasis; that is not evidence that conflict is impossible in actual group life.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Venus` sweetens the axis through harmonious company, beauty, and enthusiasm.
-- Chart expression: love of pleasant association, strong aesthetic appreciation, and a warm communal life animated by taste, charm, and delight in beauty.
+Venus specifies `MC/Cupido` through enjoyment of harmonious company and beauty. Enthusiasm, affection for community, and a fondness for the arts reinforce a picture of shared pleasure and peace; these describe taste and attachment without guaranteeing a harmonious relationship. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 84.)
 
 ## Links
 

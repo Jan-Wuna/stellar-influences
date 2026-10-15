@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Mars Vulcanus`
 - Astronomicon triad-set: `R U §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Vulcanus = Moon](../activations/mars-vulcanus-equals-moon.md)
-- [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md)
-- [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md)
+- [Mars/Vulcanus = Moon](../activations/mars-vulcanus-equals-moon.md): base axis [Mars/Vulcanus](../axes/mars-vulcanus.md); activator [Moon](../factors/moon.md).
+- [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md): base axis [Moon/Mars](../axes/moon-mars.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md): base axis [Moon/Vulcanus](../axes/moon-vulcanus.md); activator [Mars](../factors/mars.md).
 
 ## Source Coverage
 
-- `Mars/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
-- `Mars/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `320`
-- `Moon/Mars = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `181`
-- `Moon/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
-- `Moon/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `204`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Vulcanus = Moon](../activations/mars-vulcanus-equals-moon.md#witte-entry) (PDF entry-start p. 203); [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md#witte-entry) (PDF entry-start p. 124); [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md#witte-entry) (PDF entry-start p. 136).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Vulcanus = Moon](../activations/mars-vulcanus-equals-moon.md#abc-entry) (printed p. 320); [Moon/Mars = Vulcanus](../activations/moon-mars-equals-vulcanus.md#abc-entry) (printed p. 181); [Moon/Vulcanus = Mars](../activations/moon-vulcanus-equals-mars.md#abc-entry) (printed p. 204).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Moon`: embodies strong force in people, especially in practical or physical responsiveness.
-- `Moon/Mars = Vulcanus`: This activation intensifies `Moon/Mars` with heavy demands, sustained exertion, and commanding domestic or collective power. It often shows overtime, large-scale effort, or a forceful home atmosphere, making emotional drive strong enough to carry major workloads, maintain control, or express the raw power of a group.
-- `Moon/Vulcanus = Mars`: Mighty care. Welfare departments, which cause lots of interest. To have great influence on female persons, to be very impressed by them. Doing well with female persons and people of public interest and influence.
+Moon, Mars and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Vulcanus](../axes/mars-vulcanus.md)
+- [Moon/Mars](../axes/moon-mars.md)
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Vulcanus](../factors/vulcanus.md)

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Pluto`
 - Astronomicon formula: `R/Q = Z`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,38 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: printed p. `127`, PDF p. `123` (entry).
+
 #### Witte Entry
 
 Development toward the harmony of the soul. Awakening of love. The course (progress) of pregnancy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `179`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-The development of a woman's love, the peaceful development of a people, the change of her life through love, the harmonious development of a woman, the development of harmonious animals, the development of a woman, and the growth of woman's joy
+Development of a woman's love, a people's peaceful development, emotional change through love, a woman's harmonious development, developing harmonious feelings, a woman's artistic development, and a woman's growing joy
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `118`, PDF p. `120`, entry `0346`.
 
 #### Ebertin Entry
 
 Uncontrollable desire for motherhood, sudden intensification of amorous feelings. An unusual love experience.
 
+<a id="ebertin-source-note-20"></a>
+#### Ebertin Source Note 20
+
+- Source reference: printed p. `118`, PDF p. `120`, footnote `20`.
+
+Ebertin says `Moon/Venus = Pluto` often gives indications similar to entry `0344`, the [Uranus entry](moon-venus-equals-uranus.md#ebertin-entry). This is the author's explicit comparison, without merging the orientations or automatically transferring every medical or violence-related claim from Uranus to Pluto.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `28` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +87,23 @@ Intensified needs to show concern and to help those who are less fortunate; depl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: developing or intensifying love and a strong urge to nurture.
+- psychology: strong reactions to exchanged feelings and potentially overpowering care are named.
+- body/health: Witte's course of pregnancy and Ebertin's desire for motherhood remain historical associations.
+- social/relationship: intense love, concern for disadvantaged people, and depletion through caring are examples.
+- events/manifestations: awakening love, artistic development, growing joy, and drastic turns in love are stated.
+- conflicts/notes: intensity does not establish enduring attachment or possessiveness; Munkasey's reciprocation against wording remains unexplained.
 
 ## Contradictions
 
-- None recorded yet.
+Harmonious development and growing joy coexist with overpowering care and depleted resources. The entries give different possible effects of intensity, not a promise that intense love produces harmony.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Pluto` channels the tender, receptive love of the Moon/Venus axis through Pluto, intensifying affection into deep attachment, transformative care, and emotionally consequential love. It points to tenderness fused with depth, desire, and the need to bond in ways that matter profoundly.
-- Chart expression: magnetic warmth, enduring attachment, and the power of care to change a life from the inside out. Main caution: possessive tenderness, because love and comfort can become too heavy, controlling, or difficult to release.
+In Moon/Venus = Pluto, Pluto specifies the pair through love that develops or intensifies and can strongly affect care for others. [Witte](#witte-entry) describes awakening love and development toward inner harmony; [ABC](#abc-entry) adds emotional change through love, artistic development, and growing joy (printed p. 179, PDF p. 88). [Ebertin](#ebertin-entry) names sudden intensification of amorous feelings.
+
+[Sandbach](#sandbach-entry) gives strong reactions in relationships and a potentially overpowering urge to nurture; [Munkasey](#munkasey-entry) adds concern for disadvantaged people and depletion of one's resources through care (p. 108). These qualify the harmonious strand without establishing possessive or enduring attachment. Pregnancy and motherhood remain specific historical associations.
 
 ## Links
 

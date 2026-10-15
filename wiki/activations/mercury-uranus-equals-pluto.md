@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Pluto`
 - Astronomicon formula: `T/X = Z`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 To readjust one’s own thoughts suddenly. Quick at repartee.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-of youth, language over technical changes, rhythmical evolution, development of speech techniques, and transformation of new thoughts
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting development of news, exciting exchange of words, dynamic development of young people, conversations about technical changes, rhythmic development of movement, developing speaking technique, transformation of new thoughts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `159`; entry code `0514` (supplied source-map locator; not visually verified).
 
 A good mathematician, indefatigable in one's work or creative activity, hasty realization of plans. Over-strained or over-stimulated nerves.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 To be very intent on particular ideas which often involve research or experimen tation. Mental intensity which could potentially result in nervous difficulties.
 
@@ -70,22 +80,23 @@ Enhanced ability to design and be creative with potentially important items; an 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intense original thought readjusts ideas or pursues research and creative development.
+- psychology: Sustained intent and hasty realization coexist.
+- body/health: Nervous strain and overstimulation are attributed source associations, not diagnoses.
+- social/relationship: Quick repartee and added vulgarity or slurs are separate speech examples.
+- events/manifestations: Experimentation, design, reuse of waste and sudden reverses are concrete manifestations.
+- conflicts/notes: Creative ability and complications both remain; the entry does not establish an inevitable breakthrough.
 
 ## Contradictions
 
-- None recorded yet.
+Persistent work and creative design coexist with haste, nervous difficulties or reverses. These describe a range rather than a guaranteed transformation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Pluto`: breakthrough research, uncompromising truth-telling, and the ability to transform systems through sharp mental shocks. Main caution: extremity: thought can become obsessive, destructive, or too explosive for real dialogue.
+In `Mercury/Uranus = Pluto`, Pluto specifies original thought through intensity, research and a rapid readjustment of ideas. Determined experimentation or creative work can develop designs, technical changes and new ways to reuse material. ABC's changing news, dynamic youth development and development of speaking technique retain communication as part of that transformation. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry); [ABC](#abc-entry))
+
+Hasty realization, sudden reverses and speech that becomes vulgar or insulting mark difficult possibilities. Nervous strain is an attributed association, not a diagnosis; intense thought alone does not establish either discovery or harm.
 
 ## Links
 

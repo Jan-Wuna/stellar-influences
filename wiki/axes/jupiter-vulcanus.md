@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `217`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Optimism. Confidence. Huge luck. Success by force. The power of money and financ
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `344`; PDF page: `171` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Enea·gie success, success by Cewalt, joy in power, money influence, money power, Giddicher influence, enormous Vortcil, power success, powerful joy, Rcchts power, and strong advantage
+German pair summary (transcribed from printed page `344`; PDF page `171`):
+
+> Energie-Erfolg, Erfolg durch Gewalt, Freude an der Macht, Geld-Einfluß, Geld-Macht, glücklicher Einfluß, gewaltiger Vorteil, Macht-Erfolg, mächtige Freude, Rechts-Einfluß, Rechts-Macht, starker Vorteil
+
+Editorial translation from the German passage: Success through energy, success through force or violence, joy in power, influence of money, power of money, fortunate influence, enormous advantage, success of power, powerful joy, legal influence, legal power, strong advantage.
+
+## Comparative Schema
+
+- **Core meaning:** Success and advantage expressed through effective power, especially the influence of money ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Optimism and confidence accompany the source's large scale of benefit.
+- **Body/health:** No specific bodily condition is stated; the phrase `Benefice energy` is unclear and is not treated as medical evidence.
+- **Social/relationship:** Benevolent power and influential financial power describe how benefit may be exercised toward or among others.
+- **Events/manifestations:** Excellent credit, financial influence, and success by force are explicit possibilities; no particular mechanism or event is specified.
+- **Conflicts/notes:** Benevolence, financial or legal power, and success through force or violence remain distinct expressions without an explanation of their relationship. Actual Witte PDF217 prints Benefice energy; its intended wording remains unclear.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Enea·gie success, success by Cewalt, joy in power, money influence, money power
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus`: powerful good fortune: influential success, strong credit, financial leverage, benevolent strength, and prosperity backed by force, resources, or sheer capacity.
-- Chart expression: benefits that do not stay small. It favors large-scale gain, confidence that carries weight, and success that can be enforced, financed, or materially amplified, while also implying that the same concentrated power can magnify excess or overreach if judgment and ethics weaken.
+Jupiter/Vulcanus joins confidence and optimism with the ability to make success effective on a large scale. The usable pair summary emphasizes influential financial power, excellent credit, and success by force, while also naming benevolent power: benefit can be both substantial and actively exercised ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). ABC adds the influence and power of money, legal influence and power, and success through force or violence ([ABC Pair Summary](#abc-pair-summary)). The lists do not resolve every tension between benevolence and force or specify the consequences of misusing power.
 
 ## Links
 

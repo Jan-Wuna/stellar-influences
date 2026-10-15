@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Pluto`
 - Astronomicon formula: `S/Z = Z`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -41,22 +43,21 @@ Ridding yourself of unwanted forces from life and concentrating on those things 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: The repeated Pluto entry concentrates life on central aims while removing unwanted influences.
+- psychology: Focus is paired with relinquishing vengeance and ruthless methods.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Unwanted forces are mentioned without specifying a relationship or group.
+- events/manifestations: Removing unwanted influences and abandoning destructive means are the stated processes.
+- conflicts/notes: This is one Munkasey With Itself entry, distinct from the repeated Sun entry and without a separate triad hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is represented. Its concentration on central aims includes relinquishing vengeance rather than endorsing every means of attaining a goal.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Pluto`: Ridding oneself of unwanted forces from life and concentrating on those things which are central and important to one's destiny; eliminating vengeance and ruthlessness as a means for achieving one's goals or purposes.
+In `Sun/Pluto = Pluto`, the repeated Pluto specifies a process of clearing away unwanted influences so attention can settle on what is central to one's aims. Munkasey pairs that concentration with eliminating vengeance and ruthlessness as methods. The entry therefore includes restraint in how purpose is pursued, without supplying a separate event prediction. ([Munkasey, p. 90](#munkasey-entry).)
 
 ## Links
 

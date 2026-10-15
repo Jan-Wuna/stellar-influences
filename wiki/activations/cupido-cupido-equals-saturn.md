@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Cupido/Cupido](../axes/cupido-cupido.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Read the source entry](#witte-entry)
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 266 (one-based; exact activator row).
 
 #### Witte Entry
 
-Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successfill companies.
+Separations in community, marriage, family or partnership. Divorces. Losses of firms. Losses in art trade. Serious art. Common tasks or losses. Restrictions of associations. Old or lasting associations or companies. A consolidated firm or community. Unsocial.
+
+## Comparative Schema
+
+- core meaning: Restricted, separated or lasting communal structures.
+- psychology: The source includes an unsocial quality without explaining motive.
+- body/health: No bodily or health claim.
+- social/relationship: Separation and divorce in family or partnership, alongside old or lasting association.
+- events/manifestations: Firm losses, losses in art trade, serious art, common tasks and consolidated community.
+- conflicts/notes: Separation and lasting consolidation coexist; the latter is not described as necessarily joyless.
+
+## Contradictions And Differences
+
+Separation and lasting consolidation coexist; the latter is not described as necessarily joyless. Only one source entry is present, so independent agreement is not established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Cupido = Saturn`: communal bonds that produce security, money, and visible success when people cooperate well. Main caution: making happiness too dependent on gain, reputation, or institutional success.
+`Cupido/Cupido = Saturn` concerns the limits, losses and durability of communal structures. The [Witte entry](#witte-entry) includes separation, divorce, firm or art-trade losses and restrictions, but also old or lasting associations and a consolidated firm or community. Serious art and common tasks remain part of the range, so restriction cannot be reduced to universal breakup.
 
 ## Links
 
@@ -44,3 +63,4 @@ Family happiness. Fortunate or successful partnership. Happy and successful comm
 - [Cupido](../factors/cupido.md)
 - [Saturn](../factors/saturn.md)
 - [Cupido/Cupido](../axes/cupido-cupido.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

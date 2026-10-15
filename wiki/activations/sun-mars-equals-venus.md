@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Venus Mars](../triads/sun-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Adds a sensual flavor in your basic appeal to others; the grace of movement you 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Activity shaped by pleasure, affection, and creative expression.
+- psychology: Appreciation expressed actively; enjoyment of disciplined work.
+- body/health: Graceful movement and pleasure in activity, without diagnosis.
+- social/relationship: Erotic love and active appreciation of others.
+- events/manifestations: Artistic effort, creative work, or intense love expression.
+- conflicts/notes: The entries do not establish possessiveness or impaired judgment.
 
 ## Contradictions
 
-- None recorded yet.
+Erotic intensity and ease in work are different applications, not contradictions. Ebertin’s procreation and Witte’s gendered examples remain attributed rather than universal requirements.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Venus`: active love, strong erotic charge, and the ability to work or create with smoothness and enjoyment. Main caution: desire taking command: pleasure, attraction, or possessive passion can steer action more strongly than judgment.
+In `Sun/Mars = Venus`, Venus specifies Sun/Mars activity through enjoyment, attraction, and active appreciation. The [Sandbach Entry](#sandbach-entry) joins assertive love with smooth accomplishment and an appreciation of discipline; the [Munkasey Entry](#munkasey-entry) adds pleasure in movement and energy devoted to art. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) give erotic and creative expression as examples. The unifying theme is effort that expresses or gains pleasure and affection, without the unsupported inference that desire necessarily overwhelms judgment.
 
 ## Links
 

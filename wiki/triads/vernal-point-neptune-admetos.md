@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Neptune Admetos`
 - Astronomicon triad-set: `VP Y ¦`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Neptune/Admetos = Vernal Point](../activations/neptune-admetos-equals-vernal-point.md)
-- [Vernal Point/Admetos = Neptune](../activations/vernal-point-admetos-equals-neptune.md)
-- [Vernal Point/Neptune = Admetos](../activations/vernal-point-neptune-equals-admetos.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Admetos](../axes/neptune-admetos.md) | Vernal Point | [Neptune/Admetos = Vernal Point](../activations/neptune-admetos-equals-vernal-point.md) |
+| [Vernal Point/Admetos](../axes/vernal-point-admetos.md) | Neptune | [Vernal Point/Admetos = Neptune](../activations/vernal-point-admetos-equals-neptune.md) |
+| [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Admetos | [Vernal Point/Neptune = Admetos](../activations/vernal-point-neptune-equals-admetos.md) |
 
 ## Source Coverage
 
-- `Neptune/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `402`
-- `Vernal Point/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
-- `Vernal Point/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `55`
-- `Vernal Point/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Neptune/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `252`
+- `Neptune/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `402`
+- `Vernal Point/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `53`
+- `Vernal Point/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, printed page `55`
+- `Vernal Point/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `46`
+- `Vernal Point/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, printed page `41`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Vernal Point`: This activation externalizes `Neptune/Admetos` into general changes of existence and widely shared shifts in living form. It turns the axis outward so that transformation is no longer private or local, but part of the common field of life.
-- `Vernal Point/Admetos = Neptune`: This formula emphasizes to make solid, solidification, to stop a dissolution or a putrefaction, conservation, and to embalm.
-- `Vernal Point/Neptune = Admetos`: This formula emphasizes until now uncertain conditions are settled, forming of ice, and icing up glaciation.
+The set links [Neptune/Admetos = Vernal Point](../activations/neptune-admetos-equals-vernal-point.md), [Vernal Point/Admetos = Neptune](../activations/vernal-point-admetos-equals-neptune.md), and [Vernal Point/Neptune = Admetos](../activations/vernal-point-neptune-equals-admetos.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

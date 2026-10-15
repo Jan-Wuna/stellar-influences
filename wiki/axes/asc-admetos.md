@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `96` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Settled. Stationary. Others are pushed in the background or feel inferior. Other
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `132`; PDF page: `65` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Perseverance of other, biocised environment, depressed partner, restricted environment, limitation by others, consolidation of the environment, Greek partner, place end, congestion in the place, environmental cycle, and primordial energy in the space
+German pair summary (transcribed from printed page `132`; PDF page `65`):
+
+> Ausdauer anderer, blockierte Umwelt, deprimierter Partner, eingeschränkte Umwelt, Einschränkung durch andere, Festigung der Umwelt, gründlicher Partner, Orts-Ende, Stau im Ort, Umwelt-Kreislauf, Urenergie im Raum
+
+Editorial translation from the German passage: Other people's endurance, blocked surroundings, depressed partner, restricted surroundings, restriction through others, consolidation of the surroundings, thorough partner, end of a place, congestion at a place, environmental cycle, primordial energy in space.
+
+## Comparative Schema
+
+- Core meaning: Settled or restricted surroundings, few acquaintances, and limits imposed by others unite the [Pair Summary](#pair-summary) with the [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Withdrawal, conservative attitudes, and feeling inferior are source descriptions of other people. They do not establish an inevitable personality for the person whose axis is being read.
+- Body/health: ABC names a "depressed partner" without a clinical account. No bodily mechanism or diagnosis is supplied by these pair entries.
+- Social/relationship: Few acquaintances, others retiring or withdrawing, and constraining relations are explicit; ABC also names another person's perseverance.
+- Events/manifestations: Being stationary in one place and having narrow surroundings are explicit in the [Pair Summary](#pair-summary); environmental consolidation, congestion, and a cycle appear in the [ABC Pair Summary](#abc-pair-summary).
+- Conflicts/notes: A stable place and a constraining place are different possible expressions. ABC also names a thorough partner. Its brief environmental-cycle and primordial-energy phrases supply no physical mechanism.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Perseverance of other, biocised environment, depressed partner, restricted envir
 - [Asc/Admetos = Vulcanus](../activations/asc-admetos-equals-vulcanus.md)
 - [Asc/Admetos = Zeus](../activations/asc-admetos-equals-zeus.md)
 
+## Contradictions
+
+The entries describe both persistence or consolidation and restriction or withdrawal. This range does not establish that settlement is always harmful, or that other people must have every listed characteristic.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos`: a settled, stationary, or limited life-field in which surroundings are narrow, conservative, fixed, or socially unequal, and others tend to withdraw, feel inferior, or stay in the background.
-- Chart expression: rootedness, domicile, confinement, reserve, few acquaintances, limited surroundings, and a person who stands apart from the environment through weight, solidity, or social pressure. Liabilities: stagnation, isolation, rigidity, envy, servility, and the feeling of being stuck in a place, role, or set of constraining relations.
+`Asc/Admetos` concerns a close environment that is settled, narrowed, or held within limits. Being stationary in one place and having few acquaintances connect the physical setting with the social field; other people may withdraw or be experienced as constraining in the [Pair Summary](#pair-summary). The [ABC wording](#abc-pair-summary) adds perseverance and environmental consolidation alongside restriction and congestion. The pair therefore allows both continuity and limitation, without turning every settled relationship into isolation or assigning one fixed character to everyone involved.
 
 ## Links
 

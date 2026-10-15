@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Admetos/Poseidon = Saturn`
 - Astronomicon formula: `¦/¨ = W`
 - Axis page: [Admetos/Poseidon](../axes/admetos-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 312, Saturn row.
+
 Interruption of an education or training. Hindrances in such matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Depression en through mental obstruction, empathetic mental deepening, mental depression in old age, profound clarity through perseverance, concentrated deepening into truth, losses through mental restriction, and lossful suppression of truth
+Reference: printed p. 477 (PDF p. 237), Saturn row, checked on the scan.
+
+Depression through intellectual disturbance, serious intellectual deepening, intellectual deepening in old age, thorough clarity through perseverance, concentrated deepening into truth, losses through intellectual restriction, and costly suppression of truth.
+
+## Comparative Schema
+
+- core meaning: Interrupted education and concentrated understanding amid intellectual limits.
+- psychology: Serious study, perseverance, and concentration on truth.
+- body/health: ABC's depression association is historical source language, without a diagnosis.
+- social/relationship: No specific relationship pattern is supplied.
+- events/manifestations: Hindrances to training, study in old age, and losses through restriction.
+- conflicts/notes: Clarity through perseverance and interrupted education are both represented.
+
+## Contradictions
+
+The entries retain obstruction and deeper understanding as different possibilities; they give no rule determining which applies.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Saturn`: serious study tested by delay, hardship, or institutional barriers. Main caution: arrested cultivation: training is cut off, progress stalls, and what should refine the person instead becomes a source of deprivation or frustration.
+In `Admetos/Poseidon = Saturn`, Saturn specifies the pair through education that encounters interruption and through serious, concentrated inquiry. The [Witte entry](#witte-entry) names hindrances to training; the [ABC entry](#abc-entry) also allows clarity through perseverance and intellectual deepening in old age. Losses through restricted understanding or suppressed truth remain part of the range. Neither entry identifies institutional barriers as the necessary cause.
 
 ## Links
 

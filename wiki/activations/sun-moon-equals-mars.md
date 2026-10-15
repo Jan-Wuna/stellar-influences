@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Mars`
 - Astronomicon formula: `S/R = U`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, Mars entry under Sun + Moon.
+
 Marriage. Wedlock. The act of marriage. A marriage of reproduction. A sexual relationship. The daily working hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Treatment of women's body, activating man's feelings, actions between man and woman, men's feelings, activating body's feelings, human feelings, men of people, and day and hour of work
+Source locator: printed page 138 / PDF page 68, Mars glyph row under Sun + Moon. English translation checked against the scan.
+
+Treatment of the woman's body, activating the man's feelings, actions between man and woman, the man's impulses of feeling, activating bodily feelings, human actions arising from feeling, productive people of a nation, and day and hour of work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 78, entry 0185.
 
 The urge to bring to fruition ideals and wishes, sexual attraction between husband and wife, desire for children. The urge to marry, the realization of joint objectives, sex-union, marriage.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 7, Mars entry under Sun/Moon.
 
 Tremendous vitality manifesting through ones actions. Whole-hearted assertive ness. The ability to balance feeling and thinking when one asserts oneself. One feels that life has meaning when one has things to work on and do. Challenges can be very meaningful and vitalizing.
 
@@ -70,22 +80,21 @@ Becoming more self-reliant; strengthens personal drive and initiative; a need to
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Vitality and feeling expressed in action, work and pursuit of joint objectives.
+- psychology: Initiative, self-reliance and wholehearted assertion; anger or pressure on others can accompany the drive.
+- body/health: Bodily feelings and vitality are explicit; ABC's treatment of a woman's body specifies no condition or medical result.
+- social/relationship: Joint objectives, sexual attraction and marriage; Munkasey also describes imposing one's will on others.
+- events/manifestations: Productive work, meaningful challenges and realizing wishes; marriage and procreation remain source examples.
+- conflicts/notes: Balanced assertion and forceful pressure describe different expressions; gendered sexual examples do not establish an inevitable outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's balanced assertion and meaningful action coexist with Munkasey's warning about forcing others and anger. The entries describe a range of initiative, rather than a direct contradiction or a requirement for conflict.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Mars`: passion in relationship, courage in self-definition, and the capacity to act when inner division demands resolution. Main caution: friction: force can sharpen the luminary field into conflict, impatience, or reactive struggle between feeling and intention.
+In `Sun/Moon = Mars`, Mars specifies the Sun/Moon pair through feeling and vitality becoming action: work to do, wishes to realize and objectives to pursue with another person. [ABC](#abc-entry) makes the activation of feeling explicit, while [Witte](#witte-entry) and [Ebertin](#ebertin-entry) include work, sexual relationship and marriage among its expressions. [Sandbach](#sandbach-entry) connects wholehearted assertion with meaningful challenges and a balance of feeling and thought. [Munkasey](#munkasey-entry) marks the point where personal drive becomes pressure on others or anger, so forceful initiative need not imply balanced cooperation. The sexual and procreative examples remain source claims, without establishing a required relationship outcome or timing.
 
 ## Links
 

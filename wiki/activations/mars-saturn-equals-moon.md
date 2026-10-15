@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Moon`
 - Astronomicon formula: `U/W = R`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Moon row.
+
 Disappointing changes where work is concerned. Sickness or death of female persons. Death among the people, or death of people of public interest. The hour of death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Women's problems, the actions of a mature woman, hard rough work, concentrated actions of the rough, problematic actions of the people, painful struggles, and lossful actions of a people
+- Source reference: printed p. 300; one-based PDF p. 149, Mars + Saturn, Moon row.
+
+Working on women's problems, disturbed emotional impulses, actions of a mature woman, hard work by women, concentrated actions of the woman, problematic actions of the people, painful emotional impulses, and actions of a people involving loss.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 205; one-based PDF p. 207, coded entry 0700.
 
 Weakness of will, a mood or fit of depression, lack of courage. Illness, separation or death of female persons.
 
@@ -57,7 +65,9 @@ Weakness of will, a mood or fit of depression, lack of courage. Illness, separat
 
 #### Sandbach Entry
 
-The emotional need to know what the outcome of one’s actions will be. When you feel insecure you limit your field of action. To be overly sensitive to criticism or neg ative reactions coming from other people.
+- Source reference: one-based PDF p. 68, Planets activating the Mars/Saturn midpoint, Moon paragraph.
+
+The emotional need to know what the outcome of one’s actions will be. When you feel insecure you limit your field of action. To be overly sensitive to criticism or negative reactions coming from other people.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Awareness of the need to restrain impulsive activity; a mother who is very activ
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Emotional caution and restrained action amid uncertain outcomes or fluctuating energy.
+- Psychology: Sensitivity to criticism and insecurity can narrow activity; Munkasey also includes developing courage.
+- Body/health: Ebertin's depression language and Witte's illness or death of women are historical source claims, not diagnostic or gender rules.
+- Social/relationship: Family restrictions can provoke anger; an active mother is a separate Munkasey example.
+- Events/manifestations: Disappointing work changes, controlled impulses, and fluctuations in energy.
+- Conflicts/notes: ABC's women, woman and people examples are historical formulations; its disturbed and painful emotional impulses are distinct clauses and remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's lack of courage and Munkasey's development of courage preserve different possibilities. Historical sex-specific illness language does not establish a universal pattern.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Moon`: careful emotional self-control, seriousness in everyday life, and sensitivity to the consequences of action. Main caution: emotional inhibition: weakness of will, depression, and fear of negative reaction can narrow life and deepen sorrow.
+In `Mars/Saturn = Moon`, Moon specifies restrained effort through emotional security, reactions to criticism, and the wish to know how an action will turn out. Insecurity may limit activity, while awareness of impulsiveness can support the development of courage. This uses [Sandbach](#sandbach-entry) (exact Moon paragraph at PDF p. 68) and [Munkasey](#munkasey-entry) (printed p. 228). [Witte](#witte-entry) (PDF p. 193) and [Ebertin](#ebertin-entry) (printed p. 205, code 0700) retain historical loss and mood examples; they establish neither a diagnosis nor a gender-based prognosis.
 
 ## Links
 

@@ -19,31 +19,43 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Chiron Asc MC`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Asc/MC = Chiron](../activations/asc-mc-equals-chiron.md)
-- [Chiron/Asc = MC](../activations/chiron-asc-equals-mc.md)
-- [Chiron/MC = Asc](../activations/chiron-mc-equals-asc.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/MC = Chiron](../activations/asc-mc-equals-chiron.md) | [Asc/MC](../axes/asc-mc.md) | [Chiron](../factors/chiron.md) |
+| [Chiron/Asc = MC](../activations/chiron-asc-equals-mc.md) | [Chiron/Asc](../axes/chiron-asc.md) | [MC](../factors/mc.md) |
+| [Chiron/MC = Asc](../activations/chiron-mc-equals-asc.md) | [Chiron/MC](../axes/chiron-mc.md) | [Asc](../factors/asc.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Asc/MC = Chiron`: John, page `121`
-- `Chiron/Asc = MC`: John, page `101`
-- `Chiron/MC = Asc`: John, page `102`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Asc/MC = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/asc-mc-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 121; exact formula page not established |
+| `Chiron/Asc = MC` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-asc-equals-mc.md#sandbach-entry) | retained chapter-start one-based PDF p. 101; exact formula page not established |
+| `Chiron/MC = Asc` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-asc.md#sandbach-entry) | retained chapter-start one-based PDF p. 102; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/MC = Chiron`: subtle mentoring, restorative contact, and a life direction shaped by guiding others past limiting self-definitions toward wider meaning. Main caution: overidentification with the healing role: this works best when help is offered in proportion to another person's readiness rather than imposed as a mission.
-- `Chiron/Asc = MC`: vocational frustration when identity stagnates and to clearer purpose when self-definition becomes more open and healed. Main caution: clinging to an outdated self-image and expecting life direction to change anyway.
-- `Chiron/MC = Asc`: public or vocational healing authority that depends on self-permission and identity openness. Main caution: self-doubt or a defended self-image blocking guidance.
+Use this hub to choose the exact orientation for the unordered set `Chiron Asc MC`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Node`
 - Astronomicon formula: `R/T = g`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Connection with youth. Friends, acquaintances since the time of youth. Thought connections. Associations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Women's language in connections, friendly language connections, youth connections of a people, m it the opinion of the people connect, stud de the media connection, connections of a young woman, and people connections in youth
+Women's conversations in connections, emotional language connections, youth connections of a people, connecting with the people's opinion, hour of the media connection, connections of a young woman, and connections among peoples in youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed pp. `114–115`, one-based PDF pp. `116–117`, entry `0335`.
 
 #### Ebertin Entry
 
 The desire to exchange thoughts or ideas with other people, a thought union with others, initiating contacts, getting acquainted with the female sex.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Associations with others who teach you how to control and use your feelings when
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: forming connections through thought exchange and emotional communication ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: learning openness and clarity, and learning to use feelings in communication, are explicit.
+- body/health: no specific bodily or health condition is stated.
+- social/relationship: youth acquaintances, intimate confidants, and people who discuss nurturing are source examples.
+- events/manifestations: initiating contacts, exchanging ideas, and associations that teach communication skills are described.
+- conflicts/notes: the ABC's media-connection-hour phrase remains literal but interpretively unclear; no entry establishes loss of independent judgment.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is stated. Witte's longstanding youth contacts, Ebertin's new contacts, and Sandbach's search for open communication describe different relationships, rather than competing claims about one required outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Node`: relational intelligence, connecting conversation, and a social field built through responsive thinking and emotionally aware exchange. Main caution: over-adaptation in talk: opinions and mood can shift too much to maintain clear independent judgment.
+In Moon/Mercury = Node, Node specifies the Moon/Mercury pair through relationships formed or sustained by exchanging thoughts and feelings. The [Witte entry](#witte-entry) includes acquaintances from youth and thought connections, while [Ebertin](#ebertin-entry) names the desire to exchange ideas and initiate contacts. [Sandbach](#sandbach-entry) adds seeking people with whom feelings can be shared openly and intimately; [Munkasey](#munkasey-entry) describes associates who teach emotional communication or discuss nurturing (p. 104).
+
+The supported emphasis is connection and learning through communication. Nothing in these entries makes excessive adaptation or loss of independent judgment a necessary caution.
 
 ## Links
 

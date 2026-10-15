@@ -1,0 +1,440 @@
+{
+  "status": "complete_independently_accepted",
+  "author_dispositions": 80,
+  "retained_assignment": "original activations016ÔÇô022 queue targets",
+  "retained_expected": 48,
+  "retained_completed": 48,
+  "retained_missing": [],
+  "retained_extra": [],
+  "completed_before_handoff_preserved": 32,
+  "review_counts_added": 0,
+  "independently_accepted_at_receipt": 80,
+  "pending_A2": 0,
+  "canonical_stage_files": 0,
+  "receipts": [
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-batch01-receipt.json",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-batch02-receipt.json",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-batch03-receipt.json",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-batch04-final9-receipt.json"
+  ],
+  "remaining_source_limits": [
+    {
+      "path": "wiki/activations/hades-poseidon-equals-jupiter.md",
+      "limits": [
+        "ABC does not specify the practical form of dangerous financial culture or dangerous legal truth."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-mercury.md",
+      "limits": [
+        "ABC does not state the circumstances in which conversation is reasonably forgone."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-node.md",
+      "limits": [
+        "ABC does not specify whether reasonable renunciation means foregoing or ending a particular connection."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-sun.md",
+      "limits": [
+        "ABC does not identify a specific practice or medical condition in deficient bodily culture."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-uranus.md",
+      "limits": [
+        "ABC does not specify the technology or circumstances of its reasonable renunciation."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-vulcanus.md",
+      "limits": [
+        "ABC does not specify the practical mechanism of hidden intellectual or spiritual force."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-asc.md",
+      "limits": [
+        "ABC mein Orts-Recht is legible, but the particular jurisdiction or legal entitlement is not specified."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-kronos.md",
+      "limits": [
+        "ABC mein Rechts-Staat names a state governed by law without specifying a particular state or political role."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-mars.md",
+      "limits": [
+        "ABC “my money works” supplies no particular financial mechanism."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-neptune.md",
+      "limits": [
+        "ABC's joy in the air and water has no specified setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-pluto.md",
+      "limits": [
+        "ABC's changes through the law do not specify a proceeding or legal mechanism."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-poseidon.md",
+      "limits": [
+        "ABC's intellectual or spiritual right is not defined more specifically."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-saturn.md",
+      "limits": [
+        "ABC's compensation for pain and suffering does not specify an injury or legal case."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-vernal-point.md",
+      "limits": [
+        "ABC's public right does not specify a particular entitlement or legal context."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-vulcanus.md",
+      "limits": [
+        "ABC's legal advantage and scale of success have no particular circumstance specified."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-zeus.md",
+      "limits": [
+        "ABC's leadership wording names no particular office or institution."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-poseidon.md",
+      "limits": [
+        "Witte printed197/PDF193 actually reads “Interruption or a mental activity”; the awkward printed wording remains unchanged."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-admetos.md",
+      "limits": [
+        "ABC's on/in/with water, deep water and Wasser-Stau examples specify no technical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-apollon.md",
+      "limits": [
+        "ABC's water and unknown-knowledge examples specify no particular technical setting or field of knowledge."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-asc.md",
+      "limits": [
+        "ABC's air and water examples do not specify a technical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-cupido.md",
+      "limits": [
+        "ABC's air, water and legal examples specify no particular technical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-hades.md",
+      "limits": [
+        "ABC's future success from the past specifies no particular event or mechanism."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-kronos.md",
+      "limits": [
+        "ABC's air, water and legal examples specify no particular technical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-mars.md",
+      "limits": [
+        "ABC's air and water examples do not specify a technical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-mc.md",
+      "limits": [
+        "ABC's air and water examples do not specify a technical setting; Munkasey printed264 was not newly source-verified in this closure."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-mc.md",
+      "limits": [
+        "ABC's unusual Geist-Seele compound is retained literally without a further definition."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-neptune.md",
+      "limits": [
+        "ABC's air and water examples specify no technical or medical setting."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-pluto.md",
+      "limits": [
+        "Witte PDF218 prints “Happy development or reason, intelligence, wisdom and conscience”; the awkward or remains unchanged."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-saturn.md",
+      "limits": [
+        "ABC's Rechts-Probleme durchgeistigen gives no specific legal or intellectual method."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-uranus.md",
+      "limits": [
+        "ABC's legal event is not specified more concretely."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-admetos.md",
+      "limits": [
+        "ABC printed325/PDF161 does not explain the precise force of gründliche Rechts-Probleme (thorough legal problems); retained literally."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-moon.md",
+      "limits": [
+        "Witte PDF207 prints “Fortunate separation from a woman or from.” as an incomplete phrase; the absent object remains unexpanded."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-node.md",
+      "limits": [
+        "Sandbach PDF79 prints Seeing out groups; this awkward source wording is retained as printed."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-ebertin-p229.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-sandbach-p79.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+      "limits": [
+        "ABC's compensation for pain specifies no injury or particular legal procedure."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-admetos-equals-kronos.md",
+      "limits": [
+        "ABC's Urstoff (primordial matter) is not defined as a particular material or scientific concept in this row."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p158.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-admetos-equals-neptune.md",
+      "limits": [
+        "ABC's backed-up water and Urstoff examples specify no technical setting or particular material."
+      ],
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p158.png"
+      ]
+    }
+  ],
+  "retained_paths": [
+    "wiki/activations/jupiter-mc-equals-asc.md",
+    "wiki/activations/jupiter-mc-equals-kronos.md",
+    "wiki/activations/jupiter-mc-equals-mars.md",
+    "wiki/activations/jupiter-mc-equals-moon.md",
+    "wiki/activations/jupiter-mc-equals-neptune.md",
+    "wiki/activations/jupiter-mc-equals-node.md",
+    "wiki/activations/jupiter-mc-equals-pluto.md",
+    "wiki/activations/jupiter-mc-equals-poseidon.md",
+    "wiki/activations/jupiter-mc-equals-saturn.md",
+    "wiki/activations/jupiter-mc-equals-sun.md",
+    "wiki/activations/jupiter-mc-equals-venus.md",
+    "wiki/activations/jupiter-mc-equals-vernal-point.md",
+    "wiki/activations/jupiter-mc-equals-vulcanus.md",
+    "wiki/activations/jupiter-mc-equals-zeus.md",
+    "wiki/activations/jupiter-neptune-equals-admetos.md",
+    "wiki/activations/jupiter-neptune-equals-apollon.md",
+    "wiki/activations/jupiter-neptune-equals-asc.md",
+    "wiki/activations/jupiter-neptune-equals-cupido.md",
+    "wiki/activations/jupiter-neptune-equals-hades.md",
+    "wiki/activations/jupiter-neptune-equals-kronos.md",
+    "wiki/activations/jupiter-neptune-equals-mars.md",
+    "wiki/activations/jupiter-neptune-equals-mc.md",
+    "wiki/activations/jupiter-kronos-equals-pluto.md",
+    "wiki/activations/jupiter-poseidon-equals-mc.md",
+    "wiki/activations/jupiter-poseidon-equals-mercury.md",
+    "wiki/activations/jupiter-poseidon-equals-moon.md",
+    "wiki/activations/jupiter-poseidon-equals-neptune.md",
+    "wiki/activations/jupiter-poseidon-equals-pluto.md",
+    "wiki/activations/jupiter-poseidon-equals-saturn.md",
+    "wiki/activations/jupiter-poseidon-equals-sun.md",
+    "wiki/activations/jupiter-poseidon-equals-uranus.md",
+    "wiki/activations/jupiter-poseidon-equals-venus.md",
+    "wiki/activations/jupiter-poseidon-equals-vernal-point.md",
+    "wiki/activations/jupiter-poseidon-equals-zeus.md",
+    "wiki/activations/jupiter-saturn-equals-admetos.md",
+    "wiki/activations/jupiter-saturn-equals-moon.md",
+    "wiki/activations/jupiter-saturn-equals-node.md",
+    "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+    "wiki/activations/jupiter-uranus-equals-mc.md",
+    "wiki/activations/kronos-apollon-equals-asc.md",
+    "wiki/activations/kronos-apollon-equals-sun.md",
+    "wiki/activations/kronos-apollon-equals-uranus.md",
+    "wiki/activations/kronos-apollon-equals-venus.md",
+    "wiki/activations/kronos-apollon-equals-vernal-point.md",
+    "wiki/activations/kronos-poseidon-equals-asc.md",
+    "wiki/activations/kronos-vulcanus-equals-mc.md",
+    "wiki/activations/mars-admetos-equals-kronos.md",
+    "wiki/activations/mars-admetos-equals-neptune.md"
+  ]
+}

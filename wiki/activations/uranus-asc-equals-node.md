@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Node`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = g`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Uranus Node Asc](../triads/uranus-node-asc.md)
@@ -37,11 +38,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 To want an acquaintance. Others want to get acquainted with the native.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 116; PDF p. 57.
 
 #### ABC Entry
 
@@ -49,11 +54,15 @@ Eventful encounter in one place, tense connection to another, contact with new p
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 276; PDF p. 278; entry code `0984`.
+
 #### Ebertin Entry
 
-to seek stimulation and change in conjunction with others. An association dictated by common interests. Sudden contacts or introductions to other people, bringing about sudden changes jointly with others.
+Tendency to seek stimulation and change in conjunction with others. An association dictated by common interests. Sudden contacts or introductions to other people, bringing about sudden changes jointly with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ An attraction to people who have needs to bring attention to themselves; present
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 116; PDF p. 57), [Ebertin](#ebertin-entry) (p. 276, entry 0984), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Sudden acquaintance and shared change connect people around individuality or common interests.
+- psychology: Stimulation and freedom from other people's restrictive expectations are explicit needs.
+- body/health: These entries do not establish a bodily condition.
+- social/relationship: Associations can allow openness and self-expression, while ABC also names tense connections.
+- events/manifestations: Unexpected introductions, encounters with friends, and joint changes are examples.
+- conflicts/notes: Wanting contact and resisting restrictive labels are compatible; neither establishes inevitable separation.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. The wish for acquaintance and the wish to remain oneself concern different aspects of connection; ABC's tension does not by itself establish a failed association.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Node`: stimulating associations, progressive circles, and the power to catalyze change in others through direct contact. Main caution: unstable relating: restlessness or refusal of compromise can produce abrupt separations and uneven loyalty.
+Node specifies Uranus/Asc as the making of connections: sudden introductions or unexpected meetings bring together people seeking stimulation, shared change, or room to express their individuality. The association can be based on common interests while still requiring freedom from restrictive expectations. ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).) ABC adds tense connections and a partner's rhythm as possible qualities of the contact, without establishing inevitable separation. ([ABC](#abc-entry).)
 
 ## Links
 

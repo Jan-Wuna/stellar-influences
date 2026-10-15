@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
 - Triad hub: [Venus Mars Uranus](../triads/venus-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 179 (one-based).
 
 Passionate sensuality, refined however. Sudden new acquaintances that become intimate.
 
@@ -45,17 +49,23 @@ Passionate sensuality, refined however. Sudden new acquaintances that become int
 
 #### ABC Entry
 
-Excitement through artistic work, creating new peace, sudden harmonyActs, exciting love actions, harmonizing tensions in work, wanting love experiences, and preference for rhythmic work
+- Source page: 276; PDF page: 137 (one-based spread).
+
+Excitement through artistic work, creating new peace, sudden actions toward harmony, exciting actions in love, harmonizing tensions at work, wanting love experiences, and preference for rhythmic work
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 185; entry code: 0618.
 
 A great measure of excitability in love, quick response to the stimuli of the senses, suddenly active power of creation. A sudden stepping up of sex life, procreation, birth. (Operation.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 60 (one-based; entry-specific page not established).
 
 One is passionate in expressing one’s love in an open, uninhibited fashion. One suddenly acts on feelings of love. To be aggressive or even militant about expressing one’s own independent values.
 
@@ -70,22 +80,21 @@ Effort and energy placed into novel or unique forms of appreciation and/or satis
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Acting suddenly on attraction, creative impulses, or independent values.
+- psychology: Excitability, quick sensory response, passionate expression, or detached experimentation.
+- body/health: Ebertin's procreation, birth, and parenthesized operation are historical claims, not medical predictions.
+- social/relationship: New acquaintances becoming intimate and unusual tests of sexual love.
+- events/manifestations: Rhythmic work, artistic effort, and attempts to harmonize work tensions.
+- conflicts/notes: Munkasey's emotionless pursuit differs from the passionate strand and remains visible.
 
 ## Contradictions
 
-- None recorded yet.
+Passionate expression and emotionless pursuit of unusual enjoyment are materially different possibilities. Neither should be flattened into a universal style of desire.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Mars`: romantic daring, erotic experimentation, and the ability to act boldly on attraction, creativity, or the need for freedom. Main caution: desire can become rash, combative, or inconsistent, producing hot-cold pursuit and abrupt conflict.
+In `Venus/Uranus = Mars`, Mars specifies the pair through immediate action on attraction or creative stimulus. [Witte](#witte-entry) names sudden intimacy; [Ebertin](#ebertin-entry) describes quick sensory response, and [Sandbach](#sandbach-entry) adds open passion or forceful expression of independent values. The [ABC entry](#abc-entry) places similar energy in art and rhythmic work. [Munkasey](#munkasey-entry) also allows an emotionless pursuit of unusual enjoyment, a distinct alternative to passionate expression. The reproductive and operation references remain attributed historical doctrine.
 
 ## Links
 

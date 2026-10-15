@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Impels you to spend much time in soliciting others for their opinion and help wi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking people whose advice or resources can support one's work.
+- psychology: Sustained interest in others' opinions and help with ideas.
+- body/health: No bodily or medical effect is described.
+- social/relationship: Soliciting assistance and finding people with useful resources.
+- events/manifestations: Time spent consulting others or locating help for assignments.
+- conflicts/notes: The single With Itself entry describes resource-seeking without guaranteeing that help will arrive.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is present; no comparison between sources is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Node`: Impels one to spend much time in soliciting others for their opinion and help with one's ideas in life; tracing other people who have resources one needs or will find helpful in one's work or assignments.
+In `Mars/Node = Node`, repeated Node specifies shared action through the effort to find useful people and resources. Munkasey describes spending time seeking opinions and help, then locating people whose resources support one's work or assignments. The emphasis is the search for assistance rather than a guaranteed successful alliance. ([Munkasey entry](#munkasey-entry), printed p. 246)
 
 ## Links
 

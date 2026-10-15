@@ -1,0 +1,567 @@
+{
+  "batch": "closure-E-001",
+  "reviewer": "/root/activation_review_035_038",
+  "count": 21,
+  "hash_contract": "LF text; Source Entries between heading and next level-two heading; trailing HTML anchors removed; strip; SHA256 utf8. File hash is raw bytes; record hash is LF-normalized individual JSONL line.",
+  "scope": "Exact target raw passages and retained limits only. Whole completed reviews are not repeated. Unchanged source blocks outside proof scope are not newly certified.",
+  "targets": [
+    {
+      "path": "wiki/axes/admetos-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Replaced mental-enrichment/submission mistranslations with scan-verified suppression; retained German and labeled English, verified Witte exact PDF312 and ABC printed476/PDF237; removed resolved caveats and retained literal Urzeugung limit.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p237.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p312.png"
+      ],
+      "raw_locators": [
+        "ABC printed476/PDF237 bold pair summary",
+        "Witte PDF312 exact bold pair summary"
+      ],
+      "before_closure_source_sha256": "95439534e26c612885980c96cb814c9e3cb58b2e3db2ba5f602bae49ea96d505",
+      "original_source_sha256": "95439534e26c612885980c96cb814c9e3cb58b2e3db2ba5f602bae49ea96d505",
+      "before_closure_file_sha256": "d24032f5ce2423a27deec398a9e56f07ebe79dd3f2a2527255691ee6710ebd3d",
+      "unresolved": [
+        "Witte PDF312 has no visible printed folio; exact pair passage is located by PDF page.",
+        "ABC geistige Urzeugung is literal source wording with no explained physical or metaphysical mechanism."
+      ],
+      "after_source_sha256": "b8d79d6bdbbafce1a1df152fc204cffff2401e82e17278516573719785a2951a",
+      "after_file_sha256": "d6ea83dc242dd6c440933dab740a9bffc86b7aa3b5e95e3507249a6f42224d84",
+      "owner_record_line": 2,
+      "owner_record_sha256": "d96f1c7db50404731e3e6d8c585595d62debee4cc581f62da902629d6706ec00",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/admetos-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Restored omitted energy-and-endurance clause and forcible-suppression meaning from full bold ABC summary; verified Witte exact PDF311 and ABC474/PDF236, preserving source-native depression/primordial-force limits.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p236.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p311.png"
+      ],
+      "raw_locators": [
+        "ABC printed474/PDF236 bold pair summary",
+        "Witte PDF311 exact bold pair summary"
+      ],
+      "before_closure_source_sha256": "77a795c68f94338f1c8571f95aa2552c40a747b717f5e217f0e6e09bd84f2e6e",
+      "original_source_sha256": "77a795c68f94338f1c8571f95aa2552c40a747b717f5e217f0e6e09bd84f2e6e",
+      "before_closure_file_sha256": "d414cb61c938f374ed1843fe0974e223fba8fb72bbf6da7f9a32097ce2b0b731",
+      "unresolved": [
+        "Witte PDF311 has no visible printed folio; exact pair passage is located by PDF page.",
+        "ABC Depressions-Einfluß and Ur-Kraft are not given a clinical definition or physical mechanism."
+      ],
+      "after_source_sha256": "1994c00275ccc30386de003ea3114ed1e4746d14f666362055f15e3c65e47622",
+      "after_file_sha256": "579f4fb218a4b1eedda76adcb9b7b97e2deaeec726c6f369bd2b8e098639a5f2",
+      "owner_record_line": 3,
+      "owner_record_sha256": "18e88fd51c94cdcbd8c7e0c80575758f186644bfa2c6fbc4da9359922ec2888a",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/apollon-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Repaired thorough-experience OCR and translated complete ABC pair summary from actual468/PDF233; Witte306 pair verified and exact locators added. Removed obsolete damaged-token caveat.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p233.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p306.png"
+      ],
+      "raw_locators": [
+        "ABC printed468/PDF233 bold pair summary",
+        "Witte PDF306 exact bold pair summary"
+      ],
+      "before_closure_source_sha256": "ea718e8de0ac5361b0ca87555b0ea3d28883bb36680dda677dd2e41f35942be1",
+      "original_source_sha256": "ea718e8de0ac5361b0ca87555b0ea3d28883bb36680dda677dd2e41f35942be1",
+      "before_closure_file_sha256": "80f72d38fd0e76cdc03086a9e4351c0684be019e3cef2b70a0a50a13690977b4",
+      "unresolved": [
+        "Witte PDF306 has no visible printed folio; exact pair passage is located by PDF page.",
+        "ABC viel Depressionen remains a source keyword without a specified clinical or economic sense."
+      ],
+      "after_source_sha256": "9ddb0cecceb209fc9bd14d9e26d72e79568040bfd1bc5ef35a3bb51b8699efb8",
+      "after_file_sha256": "6fc3757c35cbc6387b52fba12fc5a2515e5bf304362d7b0d024deb395575ed6a",
+      "owner_record_line": 4,
+      "owner_record_sha256": "d1cf007df6a1a864db3cd5a01ed1d39ed7447e508b3dc604b795b30105fe056d",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/apollon-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Repaired Erfolgs-Idee typography and translated the full ABC pair summary at472/PDF235; Witte308 bold pair verified; retained Geistes-Wissenschaft disciplinary range instead of inventing a system.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p235.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p308.png"
+      ],
+      "raw_locators": [
+        "ABC printed472/PDF235 bold pair summary",
+        "Witte PDF308 exact bold pair summary"
+      ],
+      "before_closure_source_sha256": "b701fbcbd6918831e0d7e23104d6c614e99cdd96baf22a237b666cfad8dd8bb6",
+      "original_source_sha256": "b701fbcbd6918831e0d7e23104d6c614e99cdd96baf22a237b666cfad8dd8bb6",
+      "before_closure_file_sha256": "2551be3a532bf9466f0116a92472b7904d94c85df1ce0e9ad8feae25210fa8bc",
+      "unresolved": [
+        "Witte PDF308 has no visible printed folio; exact pair passage is located by PDF page.",
+        "ABC Geistes-Wissenschaft has no single disciplinary definition in the short pair summary."
+      ],
+      "after_source_sha256": "31488f16743b97dadbf5c185bc949158102494e0c11586e1517c2a46154c953d",
+      "after_file_sha256": "68907b89a5d54e900ac579844ae9c9249e578712176759e0eb11f72372353c20",
+      "owner_record_line": 6,
+      "owner_record_sha256": "6fd20e1905b1c7b28cd3a1338c9f8a1ae4a4742656103fc521477fd64d3a4681",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/apollon-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Replaced damaged energy/power compounds and restored final strong-success/increasing-violence items from ABC470/PDF234. Witte307 pair verified; dependent comparison now preserves successful expansion alongside violence.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p234.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p307.png"
+      ],
+      "raw_locators": [
+        "ABC printed470/PDF234 bold pair summary",
+        "Witte PDF307 exact bold pair summary"
+      ],
+      "before_closure_source_sha256": "600c9373f767039523b07ee0fcc957e25846eb032ee12185735c21a3e365edff",
+      "original_source_sha256": "600c9373f767039523b07ee0fcc957e25846eb032ee12185735c21a3e365edff",
+      "before_closure_file_sha256": "68b1fb29934ce5f6feb5fa6296f31a36117050cf16c9b45b8944a56dea0bd528",
+      "unresolved": [
+        "Witte PDF307 has no visible printed folio; exact pair passage is located by PDF page.",
+        "ABC Gewalt retains force/violence language; the pair summary supplies no particular act or mechanism."
+      ],
+      "after_source_sha256": "ec590aa36f028858a0431d0e89c0216ac0c51d7d53a42d9494dffa7169b19ca3",
+      "after_file_sha256": "9edc3e540f18d4f15ce8723abc6de7603dff45557ac6dcad9dfd4b74b7e5f22b",
+      "owner_record_line": 7,
+      "owner_record_sha256": "4ffee3fdcf5a92e859c26a4ee000b5f5e8af6be74317ee344d73197bdf3e12fd",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/asc-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Personally scan-transcribed all eleven ABC clauses, correcting blocked surroundings and thorough partner; verified complete Witte bold pair paragraph and exact PDF96. Removed obsolete damage caveats while preserving the limits of Urenergie im Raum and Umwelt-Kreislauf.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p96.png"
+      ],
+      "raw_locators": [
+        "ABC printed132/PDF65, complete bold pair list",
+        "Witte PDF96, complete bold pair paragraph, no printed folio visible"
+      ],
+      "before_closure_source_sha256": "abd4c964e21e65584257a1b1d0aaa8842871388df5a3ec846d3ad923b40537f0",
+      "original_source_sha256": "abd4c964e21e65584257a1b1d0aaa8842871388df5a3ec846d3ad923b40537f0",
+      "before_closure_file_sha256": "467af3edf111ed2d783f8efc5fa271dc44b9f43aee114eb2e63af835a6371313",
+      "unresolved": [
+        "ABC Umwelt-Kreislauf and Urenergie im Raum are terse source expressions without an explained mechanism; the literal translation adds none.",
+        "Witte PDF96 identifies the exact pair paragraph; no printed folio is visible."
+      ],
+      "after_source_sha256": "968e150e05ae2796bce274b8dd911bceb7392a3fc33e177d61b5544e2c5039f7",
+      "after_file_sha256": "c33b5f850216b6709e58465b5ab77979d62cbede2425976a34f53a53567da408",
+      "owner_record_line": 8,
+      "owner_record_sha256": "81fe1e4b958e4fbf5ce7740af54be1a1dad7139b6fb746d22d62170d7cd1bb23",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/asc-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "summary": "Personally scan-transcribed complete eleven-clause ABC pair list, restoring Handels-Platz and Umwelt-Erfolge; checked Witte PDF95 complete bold pair boundary. Independent audit corrected my initial scan misread: actual Matters that are take place is retained verbatim. Removed obsolete ABC damage caveats.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p64.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p95.png"
+      ],
+      "raw_locators": [
+        "ABC printed130/PDF64, complete bold pair list",
+        "Witte PDF95, complete bold pair paragraph, no printed folio visible"
+      ],
+      "before_closure_source_sha256": "d86f3d5af300421d0ab1d29173f75bdfd89dff7981e690e0487f26c181240a7c",
+      "original_source_sha256": "d86f3d5af300421d0ab1d29173f75bdfd89dff7981e690e0487f26c181240a7c",
+      "before_closure_file_sha256": "78301b88fcbf13e4ee8b41f52f987dc0906c1aa9870632d0dc5a881c968e8693",
+      "unresolved": [
+        "Witte's brief Equalization of others is preserved without supplying an explanation absent from the pair paragraph.",
+        "Witte PDF95 identifies the exact pair paragraph; no printed folio is visible.",
+        "Actual Witte PDF95 prints Matters that are take place; the source-native grammatical error is retained without inferring intended authorial correction."
+      ],
+      "after_source_sha256": "69b3ef4d996bb8534e96e0c5c6f9213f350953a86662f52b93608beb3ffa14ec",
+      "after_file_sha256": "606e337761424a104cf686e97312353bef76441d5219395dd763037386b7fd9a",
+      "owner_record_line": 9,
+      "owner_record_sha256": "f6dd02be8b4bfb8f7491b3ef0f1ebe7247cabba27835daa967ca87e9d36f9d85",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/asc-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl",
+      "summary": "Personally verified entire Ebertin entry on printed306/PDF308: separated heading footnote67 from manifestations, retained its exact text including printed comma after this, and removed repeated running formula/header Ascendant/Medium Coeli A/M. Updated obsolete source-quality caveat without extending interpretation.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p308.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed306/PDF308, Ascendant/Medium Coeli entry and footnote67"
+      ],
+      "before_closure_source_sha256": "7d785367cc87fdbc75b14c0664e3ed53b07a4b540ffe41041eb08eef644a262b",
+      "original_source_sha256": "236b3bbc144caac66e0ace5f261fa631bff372694c4b1e9fc75f4de4eab3a70d",
+      "before_closure_file_sha256": "63f1866d5b57fce7c8f3423e35d314b5f3e90ebbac81296d19c8b0fc290325b7",
+      "unresolved": [],
+      "after_source_sha256": "07734451a424783bf1ed29a463ee7da90e33772e89422417c8f54721bfced51a",
+      "after_file_sha256": "e782aec2744b0aff168cc9a9eca6564a4656739357d01449351d0772b847f69e",
+      "owner_record_line": 4,
+      "owner_record_sha256": "666fe61cee502e1657a16696eb1a8b08e3721a90042867065756a57b5818ea0e",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/asc-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl",
+      "summary": "Personally checked actual Witte PDF98 complete bold pair paragraph: Others are high sensible is genuinely printed, rather than recoverable OCR. Retained the phrase, existing interpretation limit and separate nearby-water association; no new transcription or ABC re-certification claimed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p98.png"
+      ],
+      "raw_locators": [
+        "Witte PDF98, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "7b53f13b453119dcf8ea02e5c1ba5efb4fd34a3ed3302b1a70b427b50f284b8c",
+      "original_source_sha256": "c8dcae27098903f54affdeead27a634b6b923546ed7f34b4d72f9d8db1e7f5fc",
+      "before_closure_file_sha256": "8749a93c921f0591c0203ba478e58bd4858d1c39b708969b74b9f22a71fb5c79",
+      "unresolved": [
+        "Actual Witte PDF98 prints Others are high sensible; its intended linguistic meaning remains unspecified and is excluded from more specific inference.",
+        "No printed folio is visible on Witte PDF98."
+      ],
+      "after_source_sha256": "50476b1ac25990b236566566c102f3909fa80e53faf0bb0fc4406340334bd5ef",
+      "after_file_sha256": "91d8f2fde8b93ebf4e191cb4ea3754cf42720acdf339a8834aa4a1b583219cf5",
+      "owner_record_line": 5,
+      "owner_record_sha256": "99ba9bd3fe531a5a6415b28e0aad720e20a8480c9d0e92adf25e194eef446902",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/chiron-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "summary": "Personally verified complete Sandbach Principle/Process on actual PDF99. Restored the omitted dash in is - fear based; confirmed to overcoming and tran scending are actually printed. Replaced stale unverified OCR/chapter-start holds with precise printed-wording limit.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p99.png"
+      ],
+      "raw_locators": [
+        "Sandbach PDF99, complete Principle and Process"
+      ],
+      "before_closure_source_sha256": "67e210cb4dd3c0b439b7db5c2bfa14cda5263edee160c80733f89841194806e1",
+      "original_source_sha256": "67e210cb4dd3c0b439b7db5c2bfa14cda5263edee160c80733f89841194806e1",
+      "before_closure_file_sha256": "b89a0c1840d95010e6739c8a03234cce28f3f3b24c0c637eae893e28f9fcf5ae",
+      "unresolved": [
+        "Actual Sandbach PDF99 prints to overcoming and tran scending. These source-native irregularities are retained; no authorial correction is inferred."
+      ],
+      "after_source_sha256": "07e2993ca2de3e3edc27e45eb5b88c36beed24dfa2443daa7ca0b7d68f623426",
+      "after_file_sha256": "0b19098890a587b3774b9c5bf4ea1ddde8dd7e13f32acbb55f20dc1999177568",
+      "owner_record_line": 2,
+      "owner_record_sha256": "e1bb7bb124ecd6a0468157d09235523a8090f396e1724e132564fae7e7daacae",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/chiron-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "summary": "Personally verified complete Sandbach Principle and cross-page Process on actual PDF96–97. Restored taken-for-granted from the printed compound across the line break; confirmed inspi ration and awaken ing are genuinely printed. Replaced stale unverified OCR and chapter-start holds with exact passage locators and source-native limits.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p97.png"
+      ],
+      "raw_locators": [
+        "Sandbach PDF96, complete Principle and beginning of Process",
+        "Sandbach PDF97, Process continuation ending before Sun row"
+      ],
+      "before_closure_source_sha256": "d717b6411eb328d26cc968d736e63563d76e2143b4f820bcdad94bfcf0054adc",
+      "original_source_sha256": "d717b6411eb328d26cc968d736e63563d76e2143b4f820bcdad94bfcf0054adc",
+      "before_closure_file_sha256": "901acc10bf6a6425a6ce70117f75fed3827d8a5fcec03f44f98ddea97efebe1c",
+      "unresolved": [
+        "Actual Sandbach PDF97 prints inspi ration and awaken ing. These source-native spacing irregularities are retained without an inferred authorial correction."
+      ],
+      "after_source_sha256": "d4df3ec16e7d58b1eb2a737273e5eda8f27b4f5f1642c989f461eebba941c53e",
+      "after_file_sha256": "7ab2f32fbd5ca88e92116bbc01b75c1950795a28045204d2882b14a6845aa033",
+      "owner_record_line": 3,
+      "owner_record_sha256": "61a97621a724ee9e28c57fd25a6e957360db85c162465bb10eb3080088e38cbb",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/cupido-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p270.png"
+      ],
+      "raw_locators": [
+        "ABC printed430/PDF214, complete bold pair list",
+        "Witte printed274/PDF270, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "ca5dd73565500c90bb4635552e7ec4a414fad9288a4db7fe65158b5fa7e75819",
+      "original_source_sha256": "ca5dd73565500c90bb4635552e7ec4a414fad9288a4db7fe65158b5fa7e75819",
+      "before_closure_file_sha256": "10e65974ad542142e6822e9e1b86f27f754706f08ed6da658076899b960ddfd5",
+      "unresolved": [],
+      "after_source_sha256": "3e6fc9dd897968a3aeac3c60c6cafec23d558f030ff6846f251a9ffa048c138f",
+      "after_file_sha256": "7932d80bfd5afe40ff56f6bb0b80db67d1186bc55d949a19d67d99804e637c4f",
+      "owner_record_line": 5,
+      "owner_record_sha256": "e17290f94c76908ff678247c09f1d1adab7719c81e76a863dc41a78f8b9aab05",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/cupido-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p213.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p269.png"
+      ],
+      "raw_locators": [
+        "ABC printed428/PDF213, complete bold pair list",
+        "Witte printed273/PDF269, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "cc3da166d0f76d365bf4d4237418170e67d2982af17997c672ad8bf5a7d259b7",
+      "original_source_sha256": "cc3da166d0f76d365bf4d4237418170e67d2982af17997c672ad8bf5a7d259b7",
+      "before_closure_file_sha256": "afa83473ce5c3a656357e1319f77fbb1e80807df4ef28a42996846db747eb19b",
+      "unresolved": [],
+      "after_source_sha256": "59a7f4744ea351214b5201eb04db0b17bc66948ebe7c9b6cb1c728fa25a2a087",
+      "after_file_sha256": "7e4238eb687894ab585d1771330a22449d90378a4d858cbccf89490374e628fd",
+      "owner_record_line": 8,
+      "owner_record_sha256": "45ebc0cdc1e0fe9b08627b3863c08bc784cdd155c95f1d074151659bc48d7296",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/cupido-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p216.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p273.png"
+      ],
+      "raw_locators": [
+        "ABC printed434/PDF216, complete bold pair list",
+        "Witte printed277/PDF273, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "cdf59a02c1cdc76b595e99581c0927cea86d4240c9dd7a5fb0f1ba27139fcb35",
+      "original_source_sha256": "cdf59a02c1cdc76b595e99581c0927cea86d4240c9dd7a5fb0f1ba27139fcb35",
+      "before_closure_file_sha256": "42e7a41c961a99653d7dc74b6e2efc939208c94971b8cbb4057bc77e38d21089",
+      "unresolved": [],
+      "after_source_sha256": "190cdc6c32673f75ce7059eb695f631ff1b732924d9830f85169c264e683f098",
+      "after_file_sha256": "c9a08524da1bd0c783a437fcb6827dbcc1f78aea3b51eac3528cbaadf8e74a6d",
+      "owner_record_line": 10,
+      "owner_record_sha256": "9101173731fc26ecdffb047bbfe8a633c5dd6c255cf11169e7400af836aa201f",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/hades-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p284.png"
+      ],
+      "raw_locators": [
+        "ABC printed444/PDF221, complete bold pair list",
+        "Witte PDF284, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "75c9c3a071449c5e4d220501f7149d3fe063513cdb0002fbecfb19d8601e02b6",
+      "original_source_sha256": "75c9c3a071449c5e4d220501f7149d3fe063513cdb0002fbecfb19d8601e02b6",
+      "before_closure_file_sha256": "4b9c2d8e68ed9ac5976db95568c1098828c87070851d1ab63afeac51141a96b0",
+      "unresolved": [
+        "Exact Witte PDF284 pair paragraph verified; printed folio is not legible in the supplied page image."
+      ],
+      "after_source_sha256": "a05e0f8f7375665f95f7f00e76a4520a52d505bd914e30acfcb40729e71ef901",
+      "after_file_sha256": "68662bfde92f19dffdd90f098d74e00c84652473d5547ec7fa906bf7f417e44e",
+      "owner_record_line": 2,
+      "owner_record_sha256": "d0faf6bece88fd026308f7dbab004aee6acf9272c2215b7c78f0ca38ec76c39d",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/hades-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p219.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p279.png"
+      ],
+      "raw_locators": [
+        "ABC printed440/PDF219, complete bold pair list",
+        "Witte PDF279, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "00d401bbb903e3ccfd3bc4db690073671cb1972a1eb4f30f0789b60809004a98",
+      "original_source_sha256": "00d401bbb903e3ccfd3bc4db690073671cb1972a1eb4f30f0789b60809004a98",
+      "before_closure_file_sha256": "4982de50e4b34bedccf643066b4f786de750d8879c54ac2248d08fd603f7633c",
+      "unresolved": [
+        "Exact Witte PDF279 pair paragraph verified; printed folio is not legible in the supplied page image."
+      ],
+      "after_source_sha256": "08c56f0683eae487e6e3765d6cb226774e3a24430e9a20bb62073ba8b2e0a73b",
+      "after_file_sha256": "755af11e67db08e5a123e018cf4092ef72c55d776a23fb5cb9eb71741e0458ec",
+      "owner_record_line": 5,
+      "owner_record_sha256": "5c46ca6ecfcd5c5bb5a5825d6ce731a78e5b8a4fc4839c2788a83a84a2856f0a",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/hades-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p223.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p286.png"
+      ],
+      "raw_locators": [
+        "ABC printed448/PDF223, complete bold pair list",
+        "Witte PDF286, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "c4d7abf4c0aedb5e5f366dce7de9551c2e598bc88afa82b41a1e45de4192ed69",
+      "original_source_sha256": "c4d7abf4c0aedb5e5f366dce7de9551c2e598bc88afa82b41a1e45de4192ed69",
+      "before_closure_file_sha256": "5954be0fa6bcd3e06c8fd8dacf9329e162bcaa6e1842ea3a36b849966656cad3",
+      "unresolved": [
+        "Exact Witte PDF286 pair paragraph verified; printed folio is not legible in the supplied page image."
+      ],
+      "after_source_sha256": "58c23e3e1709b7f9e79a18300ec600dd975b1cc4f8ffe5c7ebbf89fee8279609",
+      "after_file_sha256": "ce781e07f1e5ccc8da0acbb1c827ea3a4acadfc86d6201ddd25db2c9c217994c",
+      "owner_record_line": 6,
+      "owner_record_sha256": "eb56241f0d20f88eb912d4c4d77933c3d22ad32ad15b6726a15c58fbe9d75672",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/hades-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p222.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p285.png"
+      ],
+      "raw_locators": [
+        "ABC printed446/PDF222, complete bold pair list",
+        "Witte PDF285, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "3fffa36258c8b21c37de64b2afec54dfdb5e87ecc4fcca2206d287551fd48953",
+      "original_source_sha256": "3fffa36258c8b21c37de64b2afec54dfdb5e87ecc4fcca2206d287551fd48953",
+      "before_closure_file_sha256": "77c4bc6612c26f262a1e9a60054d7e808f8d50698fe883dea7cf97dd1c30fbae",
+      "unresolved": [
+        "Exact Witte PDF285 pair paragraph verified; printed folio is not legible in the supplied page image."
+      ],
+      "after_source_sha256": "921130d4bb0c47a425b419f944b2bab2682192aefadcd1cd0a07dfc1e867e85e",
+      "after_file_sha256": "c72b2e07568ac37e3e00d0f8189b3399a9dbfcd4dee9feba9c4d9d6ba31db625",
+      "owner_record_line": 7,
+      "owner_record_sha256": "e6aa15657aeb4dd3c74c3f6a8bb32463d7074f99f723ee83c395d10325dafc42",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/hades-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p277.png"
+      ],
+      "raw_locators": [
+        "ABC printed438/PDF218, complete bold pair list",
+        "Witte printed281/PDF277, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "8bd8a2f2e10532d421a62f92051a812934d45c62e04c8d842133eeee84509cc1",
+      "original_source_sha256": "8bd8a2f2e10532d421a62f92051a812934d45c62e04c8d842133eeee84509cc1",
+      "before_closure_file_sha256": "f6b2e06c8f32bb1eb287caf2890d90f6610b5a1f5c8d737d5eb5e531acb28199",
+      "unresolved": [],
+      "after_source_sha256": "c573b6f88cfdda5a6efdf1638663482069ab18aaaf6bc36f1a76f4228edde3f3",
+      "after_file_sha256": "b893cf099f3d29c0558e1dd0ba0719b9c1d1c1dd2af4bd10deef3369b9cd3fad",
+      "owner_record_line": 8,
+      "owner_record_sha256": "fd04f35fc86fe87a69f5a8c0eb5ce3e4ff79809712f0c0646bfef90fec1ba02a",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/jupiter-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p170.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p216.png"
+      ],
+      "raw_locators": [
+        "ABC printed342/PDF170, complete bold pair list",
+        "Witte printed220/PDF216, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "a538dbfdc360665c92c8210ac124e418ef906892111f4a5badc1718ccc687199",
+      "original_source_sha256": "a538dbfdc360665c92c8210ac124e418ef906892111f4a5badc1718ccc687199",
+      "before_closure_file_sha256": "3fdba17ccc09a581deb06d77643579a8929c7bf1f74e10a9ca89db87d988ace9",
+      "unresolved": [],
+      "after_source_sha256": "33323a1df7320bfa1a4ec06a83bc71eccc98f8fcc6cb3fb977edefa62df36d5b",
+      "after_file_sha256": "b312359ebb5c63f74369455d03c29a51b8bcbb0283236b79ffbc60280e68dc94",
+      "owner_record_line": 9,
+      "owner_record_sha256": "8c8d9db1c02fa492d1847eb1735f26c20b18ed8adb2349cbb7d45c15f6c05afa",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/jupiter-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing omissions and mistranslations; independently read complete actual Witte bold pair paragraph and its boundary. Replaced stale damage/locator caveats and dependent prose with the checked meaning; original review amended without a new count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p169.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p215.png"
+      ],
+      "raw_locators": [
+        "ABC printed340/PDF169, complete bold pair list",
+        "Witte PDF215, complete bold pair paragraph"
+      ],
+      "before_closure_source_sha256": "e1d4772f3fb14e7c1d09623780d153c7307c62d4c2eed2f02d4daf0c5cdc98ce",
+      "original_source_sha256": "e1d4772f3fb14e7c1d09623780d153c7307c62d4c2eed2f02d4daf0c5cdc98ce",
+      "before_closure_file_sha256": "0c71ad662ca3f38c4582dd61fa9ac916d91fdc7ba6d5d8518bbaaadab34f19cf",
+      "unresolved": [
+        "Exact Witte PDF215 pair paragraph verified; printed folio is not legible in the supplied page image."
+      ],
+      "after_source_sha256": "f55fbf6d62739baf9856c9a6557b846c52e3f702d2f60bd10a74954101f154c3",
+      "after_file_sha256": "47ef68a743c44e878d6489953e74a44296476de84ebb2f0d96f4534a5196ff16",
+      "owner_record_line": 10,
+      "owner_record_sha256": "db993c49f907904561e888c71096acd6133673f490ef75a8014eed4522bf7902",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    }
+  ]
+}

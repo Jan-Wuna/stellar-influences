@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Neptune](../triads/venus-jupiter-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Love and affection with obstacles. Hopelessness of love’s happiness. Deception
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `273`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Exchanged peace joy, joy over harmony of water, joy and harmony in the air, joyful love expectation, insecure love happiness, and refined love happiness
+Disappointed joy in peace, joy over harmony by the water, joy and harmony in the air, joyful expectation of love, happiness through love of metaphysics, uncertain success in peace, uncertain happiness in love, and refined happiness in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source reference: printed page `179`, coded entry `0597`.
 
 #### Ebertin Entry
 
 Negligence, lack of correct behavior, falsehood. Hopelessness, a disharmonious or destructive relationship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source reference: PDF page `57` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Aids the inflation or expansion of any current process; weakens any limitations 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Imagined or refined happiness in love, with uncertainty, deception, or dissipation of enjoyment.
+- Psychology: Rich romantic imagination and luxury fantasies; confusion or impracticality can weaken fulfillment.
+- Body/health: Sandbach associates overindulgence with dissipated energy; Munkasey discusses illusions about welfare or health, not a diagnosis.
+- Social/relationship: Love may be hoped for, idealized, obstructed, or experienced as deceptive or destructive.
+- Events/manifestations: Ethereal beauty, joyful expectations, love of metaphysics, and uncertain peace success.
+- Conflicts/notes: Sandbach's imaginative richness and the ABC's refined love coexist with Witte's and Ebertin's strongly adverse relationship descriptions.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's imaginative richness and the ABC's refined love coexist with Witte's and Ebertin's strongly adverse relationship descriptions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Neptune`: inspired devotion, artistic richness, and the ability to enchant through kindness, beauty, and hope. Main caution: unreal sweetness: love and pleasure can become too idealized, escapist, or vulnerable to disappointment and excess.
+`Venus/Jupiter = Neptune` gives love and enjoyment an imaginative, subtle quality while making their fulfillment uncertain. [Sandbach](#sandbach-entry) describes rich romantic fantasy and ethereal beauty, together with impractical luxury-seeking and depleted energy through indulgence. The [ABC entry](#abc-entry) holds refined happiness and joyful expectation beside disappointment and insecure success, including happiness through love of metaphysics. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize obstacles, deception, hopelessness, and destructive relationships more strongly. [Munkasey](#munkasey-entry) adds expanding illusions and confusion that delays progress, including illusions about welfare or health. The imaginative promise and the risk of misjudging what is attainable both belong to this orientation.
 
 ## Links
 

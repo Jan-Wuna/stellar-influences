@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Asc](../triads/saturn-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: printed p. 226; PDF p. 222.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Infection of other people. To be infected. To vaccinate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 350; PDF p. 174. Activator and translation checked against the German row.
+
 #### ABC Entry
 
-Weaknesses, my tried and tested expectations, mental sensitivity for problems and separations in the environment, feelings and patience of the partner, inhibitions at an early ori, concentration weakness of the partner, and problematic air at the
+Dissolutions and separations in the environment, sensitivity and patience of the partner, inhibitions at an unfamiliar place, the partner's weakness of concentration, problematic air at the place, creeping losses in the environment, and water problems at the place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0888`, printed p. 251; PDF p. 253.
 
 #### Ebertin Entry
 
 An emotionally depressing environment, oppressive family circumstances, emotional suffering caused by other persons, limitation of freedom.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 91.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Noticing the pretenses or false intentions of others; inhibitions about correcti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sensitivity in one's personal presence and vulnerability to environmental or interpersonal difficulties.
+- psychology: delicacy, serious idealism, emotional suffering, and inhibited correction of disappointments.
+- body/health: Witte names infection and vaccination as historical correspondences; ABC names weak concentration and local air/water problems.
+- social/relationship: a sensitive or patient partner, oppressive family circumstances, and others' false intentions.
+- events/manifestations: environmental separation and losses, restricted freedom, and revising past errors or lax practices.
+- conflicts/notes: The ABC Asc row begins at Auflösungen; the former opening belonged to MC and its missing final clauses are restored.
 
 ## Contradictions
 
-- None recorded yet.
+- Serious idealism and oppressive surroundings are different emphases; the sources do not establish a universal capacity to bear hardship without complaint.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Asc`: quiet seriousness, compassionate reserve, and the ability to carry difficult atmospheres without complaint. Main caution: depletion: the environment can reinforce weakness, discouragement, or a habit of disappearing behind burden and ambiguity.
+In `Saturn/Neptune = Asc`, Asc specifies the Saturn/Neptune axis through a sensitive personal presence and difficult conditions involving other people or one's surroundings. [ABC](#abc-entry) names environmental separations and gradual losses, a patient or sensitive partner, and problems at an unfamiliar place. [Ebertin](#ebertin-entry) emphasizes oppressive family circumstances, emotional suffering caused by others, and restricted freedom.
+
+[Sandbach](#sandbach-entry) describes a delicate, serious, dedicated idealist. [Munkasey](#munkasey-entry) adds noticing false intentions while feeling inhibited about correcting longstanding disappointments or lax practices. [Witte](#witte-entry) contributes historical infection and vaccination motifs, which remain attributed rather than diagnostic conclusions.
 
 ## Links
 

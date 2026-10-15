@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune MC](../triads/saturn-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ To be diseases, to feel sick. To be under the spell or impression of a long and 
 
 #### ABC Entry
 
-The problems of the ()voluntaryity, disturbances and insecurity in the public sphere is my abandonment in metaphysics, my intuition in old age, my inhibitions in the water, my concentration on the future, my problems in the air, and my concentration problems
+- Source page: `350`; PDF page: `174`.
+
+My tasks in metaphysics, my intuition in old age, my inhibitions in water, my concentration on the future, my problems in the air, my weakness of concentration, my problematic expectations, and emotional sensitivity to problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +61,9 @@ A peculiar character, frequent change of mood, tendency to quickly lose courage,
 
 #### Sandbach Entry
 
-One’s spiritual goal in this lifetime is to define and clarify one’s
+- PDF page: `91` (exact entry page).
+
+One’s spiritual goal in this lifetime is to define and clarify one’s imagination so that it may become a vehicle for one’s spiritual growth.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +76,21 @@ Taking a definite stand on practices which degrade or lessen the quality of life
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal direction under discouragement, uncertainty, or pressure to correct degrading conditions.
+- psychology: Ebertin describes changing moods, lost courage, and wavering between materialism and idealism.
+- body/health: Witte and Ebertin's illness and chronic suffering statements remain attributed.
+- social/relationship: Munkasey links reputation with taking a stand against harmful practices.
+- events/manifestations: corrective work may demand sustained effort instead of inefficient shortcuts.
+- conflicts/notes: Clarifying imagination is Sandbach's spiritual account; ABC pairs intuition and sensitivity with concentration difficulties and problematic expectations.
 
 ## Contradictions
 
-- None recorded yet.
+- Corrective public action, subjective discouragement and spiritual clarification are different emphases, not mutually exclusive claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = MC`: serious compassion, patient vocation, and work that often unfolds under obscurity, limitation, or diffuse pressure. Main caution: discouragement: outer direction can feel blocked, draining, or unclear enough to weaken resolve.
+MC specifies the Saturn/Neptune axis as a problem of personal direction and resolve. [Ebertin](#ebertin-entry) describes wavering convictions and quickly lost courage; [Munkasey](#munkasey-entry) gives a more outward expression in taking a definite stand against practices that degrade life. The connection is the demand to sustain a position when conditions feel discouraging. [ABC](#abc-entry) places intuition and emotional sensitivity beside concentration difficulties and problematic expectations; [Sandbach](#sandbach-entry) describes clarifying imagination as a vehicle for spiritual growth. These inward accounts complement the concrete demand for sustained corrective work.
 
 ## Links
 

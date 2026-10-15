@@ -1,0 +1,561 @@
+{
+  "scope": "E4 exact nine previously unread targets; old flags/new closure source deltas/references only; no unseen historical allowance scope asserted; zero new full-review counts.",
+  "verified_by": "/root/axis_review",
+  "path_universe": [
+    "wiki/axes/moon-jupiter.md",
+    "wiki/axes/moon-mars.md",
+    "wiki/axes/moon-mc.md",
+    "wiki/axes/moon-mercury.md",
+    "wiki/axes/moon-node.md",
+    "wiki/axes/moon-pluto.md",
+    "wiki/axes/moon-saturn.md",
+    "wiki/axes/pluto-asc.md",
+    "wiki/axes/pluto-node.md"
+  ],
+  "candidate_file": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E4-candidates.json",
+  "candidate_file_sha256": "854255a892855c6ac679c87ebf2f424bf3ad747d11dd0583c066a7657ce34f75",
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "reviewed": [
+    {
+      "path": "wiki/axes/moon-jupiter.md",
+      "queue_index": 64,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "3660fab40165f28deb31ac0b8a53aaaadf24b1aee294a8e59cec9357cc2d04c9",
+      "after_sha256": "de236230d98de352b0c8f7e800d83ce5c0c7eb5f0243ac20d022fc8ee0bfb544",
+      "page_sha256": "cd3a3712eaf859e5fedd272044f491c540077f8ec9326035bac1ee544c2a447d",
+      "ledger": "axes-013.jsonl",
+      "owner_record_sha256": "f5dabb69340908117a0f39ea3a6a2093b9dcdd77f88140df874cafa61973c31b",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-jupiter.md",
+          "text": "Udo OCR Volks-Fremle and Ebertin/Hand extraction debris remain unrepaired; evidence map is not visually verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-jupiter.md",
+          "text": "Banzhaf PDF 294 is retained from canonical entry; no supplementary raw-page record was available at review.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Udo OCR Volks-Fremle and Ebertin/Hand extraction debris remain unrepaired; evidence map is not visually verified.",
+        "Banzhaf PDF 294 is retained from canonical entry; no supplementary raw-page record was available at review."
+      ],
+      "finding": "Personally inspected actual ABC90/printed182 twelve-item bold summary, Ebertin124/printed122 full pair boundary, Hand203 complete paragraph, and Banzhaf294–295 full pair. German quotation/translation restores Volks-Freude and final Volks-Recht; removed Ebertin trailing heading and Hand OCR7; recovered final harmony sentence matches scan. All new references and exact bounded before/after delta checked; full amended013 record read.",
+      "material_defects": [],
+      "genuine_source_conditions": [],
+      "context_limits": [],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "1ba2968d85070b0523f381cf4be1812e6a310d7192fe9c7fb9f9b4256e695b64",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p90.png",
+          "sha256": "3bc90ebae38b401935f5de6e03abe87e1cfd6c90196c98cb9355f162de598e21"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p124.png",
+          "sha256": "9f71b99f662045754186447557a5e6fc46c459de6274f4bb70332b4450887851"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p203.png",
+          "sha256": "5100c0d9003f7648750eaf5520f6c6b1b67610bd8d54702b024438cb56fe72cf"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p294.png",
+          "sha256": "14808a48a281f11a703134acbd7470931c1a2bbce911febab2a4ce39557f1e3e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p295.png",
+          "sha256": "886a2c71e386e161f0ba575d7134149ff296f048027ba5472320b95c98771ba9"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-mars.md",
+      "queue_index": 65,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "c207db1141d32646e3341dddf5c40ff1ef02ce1283d6060a93be77412aa8794c",
+      "after_sha256": "94b6b44cf02a1618515ba5b9c49e7599d3f804d5f67f8ffad33bb1cfe26c7790",
+      "page_sha256": "e8c2ca0686349aa3a06a85273925f59a86e254429a24ae4eb7c8c878f2c160ef",
+      "ledger": "axes-013.jsonl",
+      "owner_record_sha256": "b986741317ff1fad175a36f9e0e04d7f2d2c7e80f4aa65efb2f0eede9a46e137",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-mars.md",
+          "text": "Carter Marian austerity and imcompatibility remain unverified source spellings, excluded from added claims.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mars.md",
+          "text": "Banzhaf PDF293 retained without supplementary raw-page verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Carter Marian austerity and imcompatibility remain unverified source spellings, excluded from added claims.",
+        "Banzhaf PDF293 retained without supplementary raw-page verification."
+      ],
+      "finding": "Personally inspected actual Carter24–25 and Banzhaf293–294. Carter's Marian austerity and imcompatibility are literal supplied-source spellings, retained. Complete restored Banzhaf discord continuation and exact293–294 range match scan through the security sentence. New Carter locator verified; precise bounded delta and full amended013 record read. Prior ABC/Witte/Ebertin repairs unchanged by this closure.",
+      "material_defects": [],
+      "genuine_source_conditions": [
+        "Actual Carter printed/PDF24–25 reads 'Marian austerity' and 'imcompatibility'; retained as literal supplied-source wording."
+      ],
+      "context_limits": [
+        "Carter's attributed historical health, marital and gender claims remain conditional source claims."
+      ],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "d9ff53359d26897834fcceaf8bc2ee65a4be2d9bef19bccdea4b54fc133ead05",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p24.png",
+          "sha256": "456ba20e6ce888737635da64b41795e2e35fdf44d5223ddddc9a003fb21d89f8"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p25.png",
+          "sha256": "6cd28f3ead83a03dfc8aafc15129408276b8c8a714787dd78209e622816d8f22"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p293.png",
+          "sha256": "c67c9b08f10e115f697019f332319d40362ea533f79c000c24b509a9b06dc33f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p294.png",
+          "sha256": "14808a48a281f11a703134acbd7470931c1a2bbce911febab2a4ce39557f1e3e"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-mc.md",
+      "queue_index": 66,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "b55cdbe7186d6928b4f6fdb97d262eac067b91a5ebc3bd914aa8ccaa85c9e547",
+      "after_sha256": "34626ff231d7770f7647c835013e749a767e19a320f9fb5711b12ae9351be770",
+      "page_sha256": "76b5ca5126576586b3a21ef51aa8af5e20196d5e17428ed39cf12041ffe6cf8a",
+      "ledger": "axes-013.jsonl",
+      "owner_record_sha256": "80aa06b5f053e5e294c43353448def3d85e7fb12fe4b949b8c9b72c1dc9efd18",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-mc.md",
+          "text": "Udo printed pp. 64-65 / PDF 31 pair-spread OCR is not visually verified; damaged translation remains unrepaired.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mc.md",
+          "text": "Ebertin printed 142 and Sandbach PDF 40 are chapter starts; Hand PDF 204 is entry start, not proof of every exact passage boundary.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Udo printed pp. 64-65 / PDF 31 pair-spread OCR is not visually verified; damaged translation remains unrepaired.",
+        "Ebertin printed 142 and Sandbach PDF 40 are chapter starts; Hand PDF 204 is entry start, not proof of every exact passage boundary."
+      ],
+      "finding": "Personally inspected ABC31/printed64 thirteen-item bold summary, Ebertin144/printed142 pair, Sandbach40 Principle/Process boundary, and Hand204 complete Moon/Midheaven paragraph. Restored German/translation preserves hour, minute, feeling/soul, personal and collective clauses. Removed Ebertin heading debris; every new reference is exact. Sandbach's actual internal spaces are retained. Precise bounded delta and full amended013 record read.",
+      "material_defects": [],
+      "genuine_source_conditions": [
+        "Actual Sandbach PDF40 prints internal spaces 'achieve ment' and 're ceptive'; retained as supplied-source artifacts."
+      ],
+      "context_limits": [],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "cf2e4146a543a08d16eb35e8a726c9500eec81aee38bfdc537514b8136d4fcd6",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p31.png",
+          "sha256": "6af7134ec27793ad7fbcc012ba6d2df1256024ca999130e3cea8caf7fb023169"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p144.png",
+          "sha256": "6ce8b5fe007ffcc0903ef0545ce0f5f7f5f17955bb6924ab73ec7b1b1234432f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p40.png",
+          "sha256": "05dcab789124b47706f5cc4c15a2c690c3759098d1c08b7cb7b90e291eac5c9a"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p204.png",
+          "sha256": "b4fc3b7ee1b5dbd79c6cf8f880d8edec0cd0068d2bc7d5a6f46f7b3bcecada65"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-mercury.md",
+      "queue_index": 67,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "192ab81fef9bbf9e8ce572f63ff71f498c1c5fb5575e652ad2c2a5dd840c3604",
+      "after_sha256": "7e073f7128396ca789d8dedb2712e16579e59b194503cb76fe953291cc469d37",
+      "page_sha256": "92e12da0eac21bee185c5dcd96bcc39d8be991ef0994f9e12f1641037f38f77e",
+      "ledger": "axes-013.jsonl",
+      "owner_record_sha256": "872c537766e0859512b3654ecdd307d8602b4310e5f9349ec1c6563bbd942f9a",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-mercury.md",
+          "text": "Extraction/spelling problems remain preserved; Udo printed pp. 176-177 / PDF 87 map is not visual verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mercury.md",
+          "text": "Banzhaf PDF 291 retained from canonical entry without supplementary raw-page verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Extraction/spelling problems remain preserved; Udo printed pp. 176-177 / PDF 87 map is not visual verification.",
+        "Banzhaf PDF 291 retained from canonical entry without supplementary raw-page verification."
+      ],
+      "finding": "Personally inspected ABC87/printed176 twelve-item bold summary, Ebertin115/printed113 pair, Hand202–203 continuation, Falis21, Carter21 and Banzhaf291–292 complete pair. New quotation/translation and references match; trailing W removed, Hand paragraph rejoined, Banzhaf harmony/discord endings restored. Synaethesia and Carter's unclosed parenthesis are literal source conditions. Exact bounded delta and full amended013 record read.",
+      "material_defects": [],
+      "genuine_source_conditions": [
+        "Actual Falis PDF21 prints 'Synaethesia'; actual Carter printed/PDF21 leaves the parenthesis around the Boer-question example unclosed. Retained source spelling/punctuation."
+      ],
+      "context_limits": [],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "53eb667391cc4f86dad7f867159ad1187e1e6cde08b2132b9184b8c32d61df58",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p87.png",
+          "sha256": "6905b3c4a925e26dd043c54a16ed99255e7bcd5470656dc918b535fb1a46a79e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p115.png",
+          "sha256": "2e7bfd2c330082e4cbb34e34dfe96a444e8b8abf0d6f775bb71188dbe34dfdd7"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p202.png",
+          "sha256": "02959de8f36a2d272d9cfd50e7317b647d3607c3e507f55063cdf3d962615692"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p203.png",
+          "sha256": "5100c0d9003f7648750eaf5520f6c6b1b67610bd8d54702b024438cb56fe72cf"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-falis-p21.png",
+          "sha256": "51c7cf1396709a66862a5bbf43a560595de4e2e88d8728b3b9b9e78a7067aa94"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p21.png",
+          "sha256": "fd22bcaf577dc5ba1c6bf2ec5f47e461a7238b797d1be430be386c3436ea0dc3"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p291.png",
+          "sha256": "7b153fcda4b5eda80ef20e9b5e535dfb42bb408ba1daefc49119819f62a05519"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p292.png",
+          "sha256": "5102721c795cb4b71e5e662173e1a7ea612f15a98e776b4e863a750afe0cff06"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-node.md",
+      "queue_index": 68,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "42775c087d1f83805c6cc742966d537a70ba06c3b3bc926a3ed8005f6f77ca55",
+      "after_sha256": "0c0364dd2de3878b203edeb09ec7f7b0657520d8a02ae0ca726d95783a077209",
+      "page_sha256": "00df397b35982daa2f220a0c6d10215041e5058135689a993ce6c37298024bb0",
+      "ledger": "axes-014.jsonl",
+      "owner_record_sha256": "28c93f1e3963cbff4065eb35a58d5b4ee9c04f62484c65be3533e386d1840608",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-node.md",
+          "text": "Ebertin trailing Moon/Dragon's Head D/Q extraction artifact retained and explicitly excluded from doctrine; no scan-based repair claimed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Ebertin trailing Moon/Dragon's Head D/Q extraction artifact retained and explicitly excluded from doctrine; no scan-based repair claimed."
+      ],
+      "finding": "Personally inspected complete Ebertin138/printed136 Moon/Dragon's Head pair. Removed trailing formula/header debris lies outside the pair's manifestation text; all pair prose and new exact locator match. Exact bounded delta and full amended014 record read; unchanged earlier ABC/Witte source repairs are outside this closure's new changes.",
+      "material_defects": [],
+      "genuine_source_conditions": [],
+      "context_limits": [],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "52d852518ff905a646fc454c0716e84eb8171dce8376993f4abe14d166b88aad",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p138.png",
+          "sha256": "37a13149905d506ff9459ab93264babc3ec562c5a9edcab22f4f72f2f06a8f19"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-pluto.md",
+      "queue_index": 69,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "46d0a85e81d16a4135b471d7e6bd8450990f465b6ce2b1b99cd69d02c217b52d",
+      "after_sha256": "52ebdc12a508280ead1560fc3f4c1b21062542622f5806c03ace8fc043355a3e",
+      "page_sha256": "20917b2ff38f4e2baaef3bc169fee24027c74b392875c7c11376f799ee957382",
+      "ledger": "axes-014.jsonl",
+      "owner_record_sha256": "fe3debd48a2d0433a4057b7941c0e8200f31f2a5833cb4f60c3fee2447860d3e",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-pluto.md",
+          "text": "Ebertin trailing Moon/Pluto D/% extraction artifact retained, explicitly excluded; severe-illness qualification preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Ebertin trailing Moon/Pluto D/% extraction artifact retained, explicitly excluded; severe-illness qualification preserved."
+      ],
+      "finding": "Personally inspected complete Ebertin136/printed134 pair and footnote25. Footnote is correctly separated, every word of the severe-illness qualification retained, and trailing heading debris removed. Exact new locator matches. Exact bounded delta and full amended014 record read; unchanged earlier source repairs are outside this closure's new changes.",
+      "material_defects": [],
+      "genuine_source_conditions": [],
+      "context_limits": [
+        "Footnote25 explicitly says Moon/Pluto cannot definitely establish severe illness; the attributed historical clinic claim is not a diagnosis."
+      ],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "b8554441201f0476582681c73a805746c167e1b96fbfb021c6db10843b0ddcc4",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p136.png",
+          "sha256": "7d4702a821f7565f413aa979b61835403b2eda5b04bdb043d9411ec5187a7094"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/moon-saturn.md",
+      "queue_index": 70,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "c18957f14160045f58294cc2b4c76242cc45605d6253d71aa049d78165564115",
+      "after_sha256": "2c39ec6f3f48704140d9cf20cfaad2d59cd7e0b3c2439eb51e73f294b014ea3b",
+      "page_sha256": "08e45cc6fe735e373f25077d520089ccc59aa2398869346008dfe1855f6fb9de",
+      "ledger": "axes-014.jsonl",
+      "owner_record_sha256": "908765f57fa87cb42e9606980d2b6875f3f5be968bc7e1f4a6f3d0d6458fc389",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/moon-saturn.md",
+          "text": "Witte trough separation, Ebertin Satum and trailing Moon/Saturn D/h, and Carter unclosed correspondent quotation retained as specific source-quality limits, excluded from added doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Witte trough separation, Ebertin Satum and trailing Moon/Saturn D/h, and Carter unclosed correspondent quotation retained as specific source-quality limits, excluded from added doctrine."
+      ],
+      "finding": "Personally inspected Ebertin127/printed125 full pair/footnote22, Witte126/printed130 pair summary and Carter28–29 quotation continuation/boundary. Saturn spelling and footnote separation match Ebertin; new exact reference and removed following heading are correct. Witte trough and Carter's absent closing quotation mark are literal supplied-source conditions. Exact bounded delta and full amended014 record read.",
+      "material_defects": [],
+      "genuine_source_conditions": [
+        "Actual Witte printed130/PDF126 prints 'trough separation'; Carter printed/PDF28–29 supplies no closing quotation mark for the correspondent passage. Retained source irregularities."
+      ],
+      "context_limits": [
+        "Ebertin footnote22 expressly makes negative interpretations conditional on strong environmental, maternal or family/relationship difficulties."
+      ],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "982ee39c6cc87111afd4c7eaf6e35427bbcee07c0e9f715e563393431b0722c0",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p127.png",
+          "sha256": "fbe4ad03e5bd12d4a1fbb1764bef6e645ed2f19c52fd524890a085e1007badca"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p126.png",
+          "sha256": "3df1b64383513904ca4baa2843ca0c3c69c7a0460d01bb3a4e68717ad6a4f876"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p28.png",
+          "sha256": "abe091e99e8ab8e978ae7049371fc30fea8c8c45c026ad54f894a66f3a9ae14b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p29.png",
+          "sha256": "fca14ca29490ddf35414a701897bef5a8dd606741904612716a7e6cbba6da9be"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/pluto-asc.md",
+      "queue_index": 91,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "d84e871971938f6119bb7e2475c216b348f7f881d9ec35ed7e16bd637c591d19",
+      "after_sha256": "a6bb7bb144e13d97f89f2e7a94bf950231a5c0a5a81d63f1da5c1757c5e35461",
+      "page_sha256": "f8cbfb74d62c1af88419b8bc13ccd7d17555ba2a94b8a53ddd8db00436719b51",
+      "ledger": "axes-017.jsonl",
+      "owner_record_sha256": "1ef71ce1e9ec829b990b08060e262c00ca6f982a01961c3647fb801f4eac5633",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/pluto-asc.md",
+          "text": "Banzhaf/Haebler next-entry contamination remains preserved pending scan verification of existing PDF p. 343.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Banzhaf/Haebler next-entry contamination remains preserved pending scan verification of existing PDF p. 343.",
+        "ABC pp. 120-121/PDF59, Ebertin printed chapter start294, Hand PDF213, Munkasey printed347 and Sandbach PDF chapter start116 were not visually verified here."
+      ],
+      "finding": "Personally inspected Banzhaf343–344 and Ebertin296/printed294. Pluto/Asc harmony/discord ends on343; removed Pluto/MC heading and High-Powered Person text belong to the next pair. Ebertin trailing header removed and exact new locator matches complete pair. Precise bounded delta and full amended017 record read; unchanged other-source material is not newly recertified.",
+      "material_defects": [],
+      "genuine_source_conditions": [],
+      "context_limits": [
+        "Unchanged ABC, Hand, Munkasey and Sandbach locator granularity is outside this bounded Banzhaf/Ebertin closure."
+      ],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "f14f1898cf734142f71ab0b50e9c6ce4f3fd6fada33caffca04abccb42c09827",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p343.png",
+          "sha256": "b4957c0bc3db7a28e4d4449ad7821e68e201f8bc7fdf08db5576f95a6ca53bfd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p344.png",
+          "sha256": "b628e32ede1f2a66c86cd0495386d890fc3c1932b8737c300d69c2a9269db34c"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p296.png",
+          "sha256": "34b6f69ac4c4d3eaf742c703331ff83768b1e6e0ac1f35741c247f6f9d2b3f91"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    },
+    {
+      "path": "wiki/axes/pluto-node.md",
+      "queue_index": 92,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "b5cac33b163c86106d60d6c2ed4999051de0dbec172889a20e687e91217c8890",
+      "after_sha256": "01dfa91734acf0c6e1c0f388ccb008a96e7f7729868bcb619a9942b48c25b18a",
+      "page_sha256": "a4b396cf0737845b3af8329b172da63d8bcdb88008a47a2b5ad991cc797fa0dd",
+      "ledger": "axes-018.jsonl",
+      "owner_record_sha256": "f2bcf9072e43789cb3cbecbe262af7394e09a9f6e4cda9c40253159dadb0d40f",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/axes/pluto-node.md",
+          "text": "Ebertin trailing formula debris retained/excluded; mapped Ebertin printed292 and Banzhaf existing343 not freshly scan-verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Ebertin trailing formula debris retained/excluded; mapped Ebertin printed292 and Banzhaf existing343 not freshly scan-verified."
+      ],
+      "finding": "Personally inspected Ebertin294/printed292 full pair and Banzhaf343 full Pluto/North Node harmony/discord. Removed Ebertin formula/header debris is outside manifestation prose; new exact reference matches. Saved Banzhaf paragraph is complete and belongs to this pair. Precise bounded delta and full amended018 record read; unchanged earlier repairs are outside this closure's new changes.",
+      "material_defects": [],
+      "genuine_source_conditions": [],
+      "context_limits": [
+        "Attributed Ebertin pregnancy and destiny language remains source-specific rather than a guaranteed outcome."
+      ],
+      "new_ref_locator_limits": [],
+      "before_closure_source_sha256": "0149b2c97574cc1e713cecba5f388c881fd5dab1fea5df77f583022dd25d3c3c",
+      "exact_new_source_delta_and_references_read": true,
+      "full_amended_unique_owner_record_read": true,
+      "all_provided_flagged_proof_images_personally_inspected": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p294.png",
+          "sha256": "ed2f040c370d5e6b9d36db209d17fc6c669f950593ff20f7f31a2cbe79b5fba7"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p343.png",
+          "sha256": "b4957c0bc3db7a28e4d4449ad7821e68e201f8bc7fdf08db5576f95a6ca53bfd"
+        }
+      ],
+      "author_batch": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-002.json",
+      "author_batch_sha256": "6cfa451443439809c424e4d49e241c280a4264afca2555401e840df0d03c0bb6",
+      "exact_delta_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-final-nine-delta.json",
+      "exact_delta_artifact_sha256": "574ffed34cce9469b888c8b19ea422fba5e4a80e13b9f3ced9a2db019d8aa487",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0
+    }
+  ],
+  "accepted_count": 9,
+  "held_count": 0,
+  "unreviewed_paths": [],
+  "unreviewed_count": 0,
+  "status": "complete"
+}

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Pluto`
 - Astronomicon formula: `W/Asc = Z`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To put up with increasing disrespect and repression. Others effect a separation. Slow separation from others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of one of the most important partners, development problems in the environment, development of a separation from the partner, development with the partner, problematic change in the environment, change in an old place, and growing problems with the environment
+- Source page: 115 (printed); PDF page: 56.
+
+Unfolding of a serious partner, problems of development in the surroundings, development of a separation from the partner, disturbed development with the partner, problematic environmental development, change of an old place, growing environmental problems.
+
+Translation checked against the full exact glyph row in the German scan.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 260 (printed); PDF page: 262; entry code: 0923.
 
 Suffering through violent or brutal suppression. Compulsory confinement or retention.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 95 (exact entry text checked; chapter begins on PDF page 94).
 
 You are relentlessly pushed to come to terms with the limitations you place on your own identity. An extreme need to spiritualize one’s identity. To be obsessively rigid in one’s personality. An intensely defensive persona.
 
@@ -70,22 +82,23 @@ You have a need to accumulate and control data and facts about perceptions of ot
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Relationships and identity face intensified restriction, repression, or a developing separation.
+- Psychology: Defensive rigidity, pressure to face self-imposed limits, and selective control of information.
+- Body/health: Violent suppression and confinement are historical extreme examples, not medical findings.
+- Social/relationship: Disrespect, coercion, confinement, and separation effected by others.
+- Events/manifestations: Slow separation and difficult changes involving a place or partner.
+- Conflicts/notes: The severe external-pressure examples and inner defensive patterns are different scales, not proof that one causes the other.
 
 ## Contradictions
 
-- None recorded yet.
+The severe external-pressure examples and inner defensive patterns are different scales, not proof that one causes the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Pluto`: strong boundaries, magnetic severity, and the ability to withstand harsh conditions without outward collapse. Main caution: severity: self-protection can become coercive, obsessive, or so controlled that real contact disappears.
+In `Saturn/Asc = Pluto`, Pluto specifies the pair through pressure on both contact and identity. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) preserve increasing disrespect, repression, confinement, and separation imposed by others; the [ABC entry](#abc-entry) adds disturbed partner development and growing environmental problems.
+
+[Sandbach](#sandbach-entry) describes an intensely defensive or rigid identity and pressure to face one's own limits. [Munkasey](#munkasey-entry) adds control of information and rejection of facts that do not fit an existing worldview. These inner patterns and external restrictions remain separate source possibilities, without turning endurance under pressure into a promised strength.
 
 ## Links
 

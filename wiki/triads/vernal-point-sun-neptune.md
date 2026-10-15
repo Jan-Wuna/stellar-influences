@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Neptune`
 - Astronomicon triad-set: `VP S Y`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Neptune = Vernal Point](../activations/sun-neptune-equals-vernal-point.md)
-- [Vernal Point/Neptune = Sun](../activations/vernal-point-neptune-equals-sun.md)
-- [Vernal Point/Sun = Neptune](../activations/vernal-point-sun-equals-neptune.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Neptune = Vernal Point](../activations/sun-neptune-equals-vernal-point.md) | [Sun/Neptune](../axes/sun-neptune.md) | Vernal Point |
+| [Vernal Point/Neptune = Sun](../activations/vernal-point-neptune-equals-sun.md) | [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Sun |
+| [Vernal Point/Sun = Neptune](../activations/vernal-point-sun-equals-neptune.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Neptune |
 
 ## Source Coverage
 
-- `Sun/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `154`
-- `Vernal Point/Neptune = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `40`
-- `Vernal Point/Sun = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `23`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Neptune = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-neptune-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `109`.
+- `Sun/Neptune = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-neptune-equals-vernal-point.md#abc-entry), printed p. `154`.
+- `Vernal Point/Neptune = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-neptune-equals-sun.md#witte-entry), one-based PDF entry-start p. `46`.
+- `Vernal Point/Neptune = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-neptune-equals-sun.md#abc-entry), printed p. `40`.
+- `Vernal Point/Sun = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-neptune.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-neptune.md#abc-entry), printed p. `23`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Neptune = Vernal Point`: This formula emphasizes confusion or spiritual atmosphere in the environment.
-- `Vernal Point/Neptune = Sun`: This formula emphasizes sensitivity of the body, damage to the body through general illusions or poisoning, diseases of the blood, and not equal to demands.
-- `Vernal Point/Sun = Neptune`: This formula emphasizes frail and delicate bodies, hindered in activity, many deceive themselves or are deceived, physical breakdown, and negative pole of the body.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

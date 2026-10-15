@@ -27,24 +27,32 @@ updated_at: 2026-04-21
 - Triad-set: `Venus Jupiter Chiron`
 - Astronomicon triad-set: `Q V Chiron`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Jupiter/Chiron = Venus](../activations/jupiter-chiron-equals-venus.md)
-- [Venus/Chiron = Jupiter](../activations/venus-chiron-equals-jupiter.md)
-- [Venus/Jupiter = Chiron](../activations/venus-jupiter-equals-chiron.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Chiron](../axes/jupiter-chiron.md) | Venus | [Jupiter/Chiron = Venus](../activations/jupiter-chiron-equals-venus.md) |
+| [Venus/Chiron](../axes/venus-chiron.md) | Jupiter | [Venus/Chiron = Jupiter](../activations/venus-chiron-equals-jupiter.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Chiron | [Venus/Jupiter = Chiron](../activations/venus-jupiter-equals-chiron.md) |
 
 ## Source Coverage
 
-- `Jupiter/Chiron = Venus`: John, page `79`
-- `Venus/Chiron = Jupiter`: John, page `58`
-- `Venus/Jupiter = Chiron`: John, page `56`
+All three exact orientations currently contain John Sandbach alone. These inherited one-based PDF pages identify chapter starts, not verified exact entry pages or printed folios.
+
+- `Jupiter/Chiron = Venus`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/jupiter-chiron-equals-venus.md#sandbach-entry), one-based PDF chapter-start p. `79`.
+- `Venus/Chiron = Jupiter`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-chiron-equals-jupiter.md#sandbach-entry), one-based PDF chapter-start p. `58`.
+- `Venus/Jupiter = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-jupiter-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `56`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Chiron = Venus`: healing through kindness, beauty, and relational warmth. It can show hope transmitted by how one loves, values, and appreciates.
-- `Venus/Chiron = Jupiter`: an enthusiasm and expansiveness that is generous and loving toward all and which promotes an awareness of the deepest and most meaningful values inherent in everything.
-- `Venus/Jupiter = Chiron`: one intuitively help others to access the love which is there all around them and always ready to be taken in.
+The `Venus Jupiter Chiron` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

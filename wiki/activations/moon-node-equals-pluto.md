@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Pluto`
 - Astronomicon formula: `R/g = Z`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 The beginning of changes in the state of the mind. Transformation of the soul. Connections or unions in the state of forming.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `175`, PDF p. `86` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ hour of the unfolding of a connection, changes in the connections among peoples,
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `137`, entry `0431`.
+
 #### Ebertin Entry
 
 Fateful associations between women. Separation through higher power or providence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `38` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Censuring associates you thought would be helpful to you; the revenge that you o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: formation, transformation, and consequential changes in relationships.
+- psychology: vulnerability, emotional growth, and letting go of old feelings are explicit.
+- body/health: no bodily or clinical condition is stated.
+- social/relationship: new unions, maternal bonds, powerful supporters, and fateful associations are examples.
+- events/manifestations: growing ties, separation, censuring associates, and revenge at meetings are named.
+- conflicts/notes: emotional transformation and the source's providential separation are different claims; neither establishes resilient alliance in every case.
 
 ## Contradictions
 
-- None recorded yet.
+The entries span forming and growing bonds, separation, and emotionally forceful encounters. These are different possible changes; Ebertin's attribution to providence is not an explanation shared by all the entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Pluto`: profound kinship, resilient alliance, and the ability to hold together under intense shared conditions. Main caution: possessive belonging: emotional ties can become controlling, fearful, or too hard to leave once pressure builds.
+In Moon/Node = Pluto, Pluto specifies the pair through relationships in formation or transformation. [Witte](#witte-entry) connects changing mental states with unions taking shape; [ABC](#abc-entry) adds growing emotional ties and a transformed maternal bond. [Sandbach](#sandbach-entry) locates personal change in allowing vulnerability, sharing feelings, and releasing old emotional patterns.
+
+The range also includes rupture and power. [Ebertin](#ebertin-entry) names fateful associations and separation attributed to a higher power, while [Munkasey](#munkasey-entry) gives censure, revenge, and ties to powerful supporters (p. 136). The supported theme is consequential change through connection, whose outcome may differ across these examples.
 
 ## Links
 

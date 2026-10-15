@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Saturn Pluto Admetos](../triads/saturn-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 Difficulty through divorce. Changes of existing conditions through separations.
 
@@ -42,13 +46,27 @@ Difficulty through divorce. Changes of existing conditions through separations.
 
 #### ABC Entry
 
-Restricted development in old age, developing firmness in old age, focusing on growing deepening, grilning changes in old age, slow consolidation of development, and lossy blockage of development
+- Source page: 419 (printed); PDF page: 208 (one-based; exact row checked).
+
+Restricted development in old age, developing firmness in old age, concentration on growing depth, thorough changes in old age, slow consolidation of a development, a loss-laden blockage of development.
+
+## Comparative Schema
+
+- core meaning: changes of conditions through separation, restriction or slow consolidation.
+- psychology: concentration on depth and developing firmness amid limits.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: divorce or separation in Witte, and development in old age in ABC.
+- events/manifestations: restricted growth, thorough changes in old age and slow consolidation.
+- conflicts/notes: Slow consolidation and loss-laden blockage are alternatives within ABC; Witte adds the concrete separation setting.
+
+## Contradictions
+
+Slow consolidation and loss-laden blockage are alternatives within ABC; Witte adds the concrete separation setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Saturn`: difficulty through divorce; Changes of existing conditions through separations.
-- Practical expression: restricted development in old age, developing firmness in old age, focusing on growing deepening, and slow consolidation of development.
+Saturn specifies `Pluto/Admetos` through deep change constrained by separation or limits. The [Witte entry](#witte-entry) names divorce and changed conditions through separation; the [ABC entry](#abc-entry) extends the range to old age, growing depth and firmness, and development that consolidates slowly or becomes blocked with loss. The shared meaning is change shaped by restriction, with patient consolidation preserved alongside the more difficult outcomes.
 
 ## Links
 

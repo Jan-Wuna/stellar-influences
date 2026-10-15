@@ -1,0 +1,2092 @@
+{
+  "verifier": "/root/activation_review_084_088",
+  "candidate_universe": 97,
+  "accepted": 97,
+  "held": 0,
+  "unreviewed": 0,
+  "hash_rule": "Exact validator Source Entries BODY, excludes heading, terminal next-section anchor stripped, .strip(), LF UTF-8 SHA256.",
+  "owner_record_hash_rule": "SHA256 of complete saved UTF-8 JSONL record line excluding its newline, with no JSON reserialization.",
+  "pending_final_rebind_check": false,
+  "final_verification": {
+    "exact_universe": 97,
+    "strict_seven_field_schema": "passed",
+    "unique_owner_records": 97,
+    "proof_hashes": 29,
+    "errors": [],
+    "scoped_whitespace_check_exit": 0
+  },
+  "resolved_findings": [
+    {
+      "path": "wiki/activations/sun-pluto-equals-node.md",
+      "finding": "Witte printed though had been silently normalized to through.",
+      "resolution": "Printed quotation restored; editorial grammatical normalization explicitly labeled outside source wording. Complete saved source and amended original076 line12 reread against actual Witte110/printed114 scan."
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-uranus.md",
+      "finding": "Correct Witte power to see and visualize was replaced by pose and visualize and a false printed limitation.",
+      "resolution": "Actual quotation restored; false note/unresolved removed; dependent prose corrected. Full saved source/page and amended original076 line37 reread against actual Witte118/printed122 scan."
+    },
+    {
+      "paths": [
+        "wiki/activations/sun-poseidon-equals-venus.md",
+        "wiki/activations/sun-poseidon-equals-vernal-point.md",
+        "wiki/activations/sun-poseidon-equals-vulcanus.md",
+        "wiki/activations/sun-poseidon-equals-zeus.md"
+      ],
+      "finding": "Shared verification in four complete076 records repeated false Uranus scan claim.",
+      "resolution": "All four original records38–41 amended in place; complete saved records and source sections independently reread. No page source change needed."
+    }
+  ],
+  "viewed_proof_inventory": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+      "sha256": "31879c2ce2a0ad18351348a1dd3d36f7153b863213bed99fcba85b5c72ca711f",
+      "bytes": 404497
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+      "sha256": "47f8ed3bca812b1470e4e9147294fd09674dfca2c324e272abc880c7a5077dad",
+      "bytes": 342705
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf75.png",
+      "sha256": "8cbe5fc7a45ee9cea7580941ec81ee88ebf6757cb46738923599ba13dee07efb",
+      "bytes": 330858
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf76.png",
+      "sha256": "f7414e97fbddfda87fd7db7359dea19483b17199133ae6d98b28d0b04c34ad54",
+      "bytes": 466535
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+      "sha256": "edbfe3c5368f00b2c877fea14fe6f32d6048f67b45126243a976ec28151e9120",
+      "bytes": 475189
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+      "sha256": "55c44503e1734926c5f29d9c8169d4b9823a8269c79d1c2a3412da4a7af24551",
+      "bytes": 329938
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+      "sha256": "17c8d2aac26d304d7d050ad1254254392682796a8261e99fddc3a83522ce64aa",
+      "bytes": 2100
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+      "sha256": "b437303f455233ac91154ad43819f803a02adcabd49bb7c13496dd526ae4b3f7",
+      "bytes": 423969
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png",
+      "sha256": "dcca9ecb50f4002d78632b8bbb98468ba7b9bb1ecbd50bca9b556c6817f21f0a",
+      "bytes": 159598
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+      "sha256": "026215c6ff839012016c62b6248110b722b48927be6b12ef93be4a64d3753447",
+      "bytes": 1904
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+      "sha256": "5a36c62b1fb916d71a211fe7b1abad136b70c50b43090b63cec4ec83d4b7079b",
+      "bytes": 391468
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png",
+      "sha256": "9bf4e5551d73edee108a49fe73a72a6ede501eb97309b92f9df9c030eda9aaee",
+      "bytes": 75587
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+      "sha256": "9207b970e20108717862ea501c11aee5d86fbd93c1570da283dab00783eece29",
+      "bytes": 1751
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+      "sha256": "36147bf1f9d93687e7010663a89f0bf4e89f6161da5752cccb4dd779afe1a22f",
+      "bytes": 396192
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+      "sha256": "f10fb13489e2f8c836d3ac0aad94f6d4528355613081d425fa8e05c604daef7b",
+      "bytes": 87890
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+      "sha256": "7bc7dea7c6eda8ffccc5fda2772be2951d723d6ebe59b7bc28dabf09dd1abc37",
+      "bytes": 5857
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+      "sha256": "777c50be0a85a7f658867f2fb14dd79a19299d1f2dfa9d3b3bd281b988adf2c8",
+      "bytes": 508220
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png",
+      "sha256": "76478727c634f184d59637352ea2123ed71c5826afb911645faeb6b89d1471a6",
+      "bytes": 480449
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+      "sha256": "7e0f3cd56960b064161c17af84c0c51e90edc364f50ca926d089a95a2315d67e",
+      "bytes": 474873
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+      "sha256": "8141c8a08108c04c8d765efe3e2d2a5b9bcd36395e961985f71295107d2d795d",
+      "bytes": 462247
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+      "sha256": "d8117d1f7b2e9d7b354959893ad3cd79968cd9c045f6ca97e695098102024639",
+      "bytes": 444759
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png",
+      "sha256": "c9338e24477b3ee97f12a536f52fe78a4317a311dd5c933d7f28b7598c9b409d",
+      "bytes": 239938
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+      "sha256": "2388a51717389bd4af190b78f32d310f69ecf3691e46e63f8d4e4981be6434dc",
+      "bytes": 136131
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+      "sha256": "410bbdb01eb046fb0496e69f050662896b85796f7facb524d12d91c904959901",
+      "bytes": 398303
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf108.png",
+      "sha256": "43e6ecbc1e2ef7a7611772c7c9848a0270075ac65b85c13a46667f3370373a71",
+      "bytes": 239164
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf109.png",
+      "sha256": "2b41c91093d2f5968db41670c4b230bdcc67b1a304c0fa42b7bcade446d7f468",
+      "bytes": 182657
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+      "sha256": "b27810fb03b4497ebbcca74d54460920ee797186c12e4230a2c6ce1714a3248a",
+      "bytes": 180962
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png",
+      "sha256": "a5413ac1b85649578c0fdf3ff524d9831feb6f81b3920e33596366bc275a9cdc",
+      "bytes": 806509
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+      "sha256": "e437425c48dc756fd39b95a2fa542ff8db57e3a2416a2d69284c13f82ff47817",
+      "bytes": 222081
+    }
+  ],
+  "paths": [
+    {
+      "path": "wiki/activations/sun-neptune-equals-admetos.md",
+      "before_sha256": "7655fa5333b6b3a142987eb691b2fe585c9330cce44d0fd11619c92c9aa28d10",
+      "after_sha256": "436fe6c51da0bbf3845ad312a6cf51405d8aba2ad757fbdb1655c0f7a8089e1d",
+      "current_page_sha256": "0f26a5f35e0902faa840a847fe3ac112db15c82495b131259c2e294d8e6478ae",
+      "owner_count": 1,
+      "ledger": "activations-074.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "3d1dc4888f92aa879472c6a810ab1717a8d72cfc44b774d5f2a589e0ac01724d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Both full source bodies and full unique record independently read. Actual ABC76 printed155 Admetos glyph row and Witte109 printed113 exact row viewed; all seven translated clauses and new references match.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf76.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf109.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-asc.md",
+      "before_sha256": "7b5ccbfb02d757ca4928e14d0bed1a7351b7097cac94c7980a0efbdc69018536",
+      "after_sha256": "5b2d56fdae7936787a1c25a96bbc987f3713eeeb7e7654b8c284460f237f2cdb",
+      "current_page_sha256": "72591d0082547ce89b20199d0ae3c45cd4152c94cd430717bace9944ba219a2e",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 25,
+      "owner_record_sha256": "0b9df73c2a62ccb124a8ade87d349404c3860722812933b6333866e5734d2a8a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-chiron.md",
+      "before_sha256": "22de245a8a8386da048c8e5874c6ba27dbad0fb094cf5e01bfc18d0bd426752a",
+      "after_sha256": "ceffa3158447f7b32890dffad3b1b3c40cb4a9812a8e904fea7cb6449f4f2b60",
+      "current_page_sha256": "d4b3947d59cec5feed718ceec0923f8f85bf0ead5f4d30b55f86de612af5dee6",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 26,
+      "owner_record_sha256": "2b8d56434b12bab14871979b021fdeb0086cbdb4b7c40ff9dde9d642e8b6ae43",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-cupido.md",
+      "before_sha256": "edec8866f69664cb92cce8fa4021cf64e77e0bfb60ccacd317e663fdf3f6f75a",
+      "after_sha256": "6f8ad5260ddc3a2fcb172ca2bace0ec8fc7c82a3d024fe49b9a7d267f8baeb78",
+      "current_page_sha256": "fb86aa9e481220085b3b842fc7fc2eed32be5ed7836713eb1d21050e12878d8c",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 27,
+      "owner_record_sha256": "b46918df392ef714077680e65f308aeb06cf8a055686bd274a80afbec9fd702a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-hades.md",
+      "before_sha256": "5f0b1e2932fdb3590a176b9e869a2c8872ee66f32420648c6343141f52d61f60",
+      "after_sha256": "e59ee041d1bc9fd0cf72a2ec10d4be9baf30fd5378996b33ce7a18876af0987b",
+      "current_page_sha256": "6e78e2f910524651b8f0fb8c44276ca08c5aaee47ee0502ad42f85f3e54282f1",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 28,
+      "owner_record_sha256": "ccb1e7952815a1c4a8de66fdb5319330cc67bb6dc763dec292823a75d2e58d6d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-jupiter.md",
+      "before_sha256": "033cef1608834938bcf4faeab98e5e85331885f10238b86918a706dcca2792eb",
+      "after_sha256": "57505d29f5cbce2457931052b39e2c1c4b522e9ecb6cb0807e344626762022f2",
+      "current_page_sha256": "fd1b7c005e3d471dcb606982dc007a2f2f7de8a1983c992a3ff0b3612990ad7f",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 29,
+      "owner_record_sha256": "e32cebfd34c4edb0108df67d236cbb104bf15c676a071708d1aa55056600e912",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-kronos.md",
+      "before_sha256": "314657dcfecbacc846cd9037e83bfd8d86352341ae30008410ce307d7f3fbc35",
+      "after_sha256": "04a56bc6ce719e19ac06b25c19d299fc5847d3ee361583876f3bf9f98973c71d",
+      "current_page_sha256": "a86d9dc942291c8e74c3684884f329924a6a3d216ba3a820e8e333212f763fd0",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 30,
+      "owner_record_sha256": "1954e8225374f2fdb769d54ab7a7888dec527c070b599a0bdde7c78da6387be7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-mars.md",
+      "before_sha256": "38f652f53cc7fbeec29566c2ccaa265bd3f053e23c79baf209cc4bcf742f43d3",
+      "after_sha256": "b28c196ec75c855419bdbe74de4ea2d7fc933bd2988dcac0d6a0b2ae3e77308a",
+      "current_page_sha256": "afe36af6feef218c93dc12e26ba9e0b839fcb7f18f83f7b6d7ce7c7117ef19d2",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 31,
+      "owner_record_sha256": "9223b8f2bd581ce2882538b432453cf2409bb0a595c74a86f558bd425e41ce49",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-mc.md",
+      "before_sha256": "ab488788657da9aed1788700b62223e16723c0939ee0fe6c5f783a5f7ef66178",
+      "after_sha256": "f3c3cd519374491bff78f46e397395d055e2cc73945b5ddca5d626f4f978f754",
+      "current_page_sha256": "337d842bd9f8b5ba2043a093338e487bb0825289d9eaae180f1359881b5c7e3a",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 32,
+      "owner_record_sha256": "570d4b3c2318900e6d288b9777888f93c369dfd8f647860350a4499ed98520b5",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-mercury.md",
+      "before_sha256": "cbc75df1777ec2c7b97fd97f7a9c8ae565c10ebb7efaa02e8924f69788497b76",
+      "after_sha256": "418d25bd2a82d9887cb01d1d551f7560d4a4c9db37edaecce3630c4efe19582f",
+      "current_page_sha256": "cb0b864e350a7a07b815bd2e0850635195419d8fc772a27273d5e1f6ec7f17ad",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 33,
+      "owner_record_sha256": "0ea507789aff92f89bb9b02ead1fe41658f98eb281ce1709cad0db20c6cc0020",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-moon.md",
+      "before_sha256": "204dd6df77348a948646ca851d5df9c004647730506d3d965b2cc34dd7f0791d",
+      "after_sha256": "5d80e7d8d4609d7752cb0de1831ddf34a480d9b639bf1c0242de9cb2326d1d08",
+      "current_page_sha256": "25bfd28d679b9612223b1afcc5574b40203698d6df1ef27004068c5f829dfb75",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 34,
+      "owner_record_sha256": "04926eabbd293667ed763d2ade75cd745b2e7e4ec29278e33bc353c8c3984316",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-neptune.md",
+      "before_sha256": "e24cd3a2efe17670a8233406260a9747c805bd9ae1677b952a0b1e3086279a8c",
+      "after_sha256": "30a6d9b454c4e1549d2da26ca5ac8cd8fcd7dd86f7a433e1e87d045c68085bff",
+      "current_page_sha256": "aadd918ee3583c0eaf67934568fb756996e4efa8b5a3142f1067f66044ee7f60",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 35,
+      "owner_record_sha256": "3877fc3d6b642b1de6cfcceec5184d098f4175e5eb062beb38bcfca9b8c69b82",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-pluto.md",
+      "before_sha256": "fec3f523a0033d03ef8073cbe41266639dbda4200cdf807838715e165de4bd89",
+      "after_sha256": "d0d9cda90b2be31b47c85cb178477028bbe113ec2c9bf8b1f16c1cf1fb45b63f",
+      "current_page_sha256": "5a6de222d7f965f961351782da571cca2f8ed8c75af748daa555447f2fa209d2",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 37,
+      "owner_record_sha256": "8b656303542e4649d18cb9874ea7889c7eea577156a2045a9cbda9b233b0acfe",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-poseidon.md",
+      "before_sha256": "f48ac78b629d9ad6de7c6ae8df6720185d3938308105a2b41b7039639e0f35ea",
+      "after_sha256": "136a18c8b8c73905d519b58c5b570b06eecbebf9aeb96c75d0620b548a048e79",
+      "current_page_sha256": "9d85ac1d1fe563d5c03c467ec5ab3912ae33008333551e8105f477f06391adbd",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 38,
+      "owner_record_sha256": "7c6987d505b3c091ff8b4361d9e9109cf5f2f198f72ab36394cd9caa8d44d40f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-saturn.md",
+      "before_sha256": "116527b40086545c53a91b649f41e3962dcd1445f06a59858c0edf20c7308531",
+      "after_sha256": "5dd1f8a64bf6d61b4b66ba42d69957c705c03f77a90e6d640cd03d1aaf01687b",
+      "current_page_sha256": "7c99c1f249e419eedf6c2a733e5f3b87b51ddfcd85340f462c2a6fbdaa6e7f85",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 39,
+      "owner_record_sha256": "fb6f37fabdba6b82e37ffd33b6de28bdf49bc94fadd43e9504e4178d8b93de1d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-uranus.md",
+      "before_sha256": "a98bb12b72af96ae8af800ae3a54b3ca0bda749d177a801c61b49600d3528263",
+      "after_sha256": "23d1e9dbb029018a7ac6f559720d717706d09e32fbcf2e6c9eca24f5275a7197",
+      "current_page_sha256": "89610ef35645720e47bee8eeda247678424a9a221372bb83c0c958bb1223d737",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 41,
+      "owner_record_sha256": "92096e19292102e1d414d8d59784c4250ae055599a9d26c20a08f2ba5bc7d976",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-venus.md",
+      "before_sha256": "6aed821a1f7f6f2214d3c0d6f89f844cf0bd35f639848d6e60e20d41415c8d08",
+      "after_sha256": "fca33e2d493dabfda85e59a04bdf41781d37809f342fe92a3fac99e44c796832",
+      "current_page_sha256": "5bc2880388d8c74d9259c2557aa1017f22e5f4c81d9b7c1b83e7d434ae6a9377",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 42,
+      "owner_record_sha256": "edd552349ac902b66b0dcacf0d76d89f958daa3983b3cb36c7b79cab1c5c5445",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf22.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107-108.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-vernal-point.md",
+      "before_sha256": "050942382ed9498fb6ef246706261d53685ef6867aceec301419f563461c8f6e",
+      "after_sha256": "48b7189310687fccabae1a329b1964da05ddb399aad5665b3104537ac5863f53",
+      "current_page_sha256": "a19b264365e91924c1d2241746b5ee38593ec3e549a1fad1f84cb9669b3b7c1f",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 43,
+      "owner_record_sha256": "61192a823481cf584dfe4397c77217fc46b745058afada78b99c9ace09e47517",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-vulcanus.md",
+      "before_sha256": "6f42c8392bd70c90b7d6918375e252dd5a4d121d76790d8901cb858b1d9772aa",
+      "after_sha256": "98ada94f1bf9d4d4e690d4d7f326698ff2c2bb4e209926e713800fa3716aab77",
+      "current_page_sha256": "881400e4cba54312e287dc14c30eb8a37e0b556f06860a5f3052c4e500e73fa7",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 44,
+      "owner_record_sha256": "1f80507747bafaa94dafb5a3d1391ee4f3e77fd86df1d165e49ba4c34c06062f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-zeus.md",
+      "before_sha256": "74427580b32fa4be29fba2a70c24b5955e569b6cf64d35062364829002d3a777",
+      "after_sha256": "facee30b3558658d715cfbfc65bda91ad4fe0ffe9a1cee66e507b41dfc599013",
+      "current_page_sha256": "427e49826a1c02432c2e979fb2e2c759ca52bceb3dcc1cbb803eb5d49528eda7",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 45,
+      "owner_record_sha256": "4495a2eb5c479d1787fa7169c484074470d8359f5b6374d15b8c1584af187ec3",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC69 printed140–141 and Witte102 exact glyph row personally viewed; all changed English clauses and new locators checked. Where present, actual Sandbach21–22 relevant paragraph and actual Ebertin107–108 printed105–106/code references checked; 0299 footnote17 visually verified. Unchanged Munkasey entry and existing92 reference preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf102.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-admetos.md",
+      "before_sha256": "28b03b5802da59ded98d51d536a1a29db2b7cfacf698a89ce5630295bcd19898",
+      "after_sha256": "273d9499aaa905d1ed1977fc153777f7a781cf7b40a0100822ba3029149b737e",
+      "current_page_sha256": "be67f8eb937cee75f1543807da03196cad53404543ea87e2e2d7ea3ea4906739",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 46,
+      "owner_record_sha256": "9eb6586e30eb40be54f1b269295aa782339743948930482eab62f78daf269883",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-apollon.md",
+      "before_sha256": "fb901cca35a811380253912893d7b11d79e71f9435ee34a0b994d2d7a5638e7b",
+      "after_sha256": "e2216c32435743c755c8d2be50e04c2a76454f6dd456096407ff489a102be6a3",
+      "current_page_sha256": "61196f6d111a91fcb5abb816592d7010cdb3e2c3241d02004e55ba3f535cc6b9",
+      "owner_count": 1,
+      "ledger": "activations-075.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "db90e11bcfcb6210c62514ab2349e0e3d74e8b457b9d6d25611f8fde34fb3e70",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-asc.md",
+      "before_sha256": "48a1088c96ca2e02419a074f17044173d5c1d9b81c1124fb1938eeca652e72da",
+      "after_sha256": "945ac5e7bc61a01074c451b1ca43a182b5852759b81dbcd8afc571f8385af658",
+      "current_page_sha256": "2b2c94ce2302846ff8d287adbd57b74f69962b0cf3a23f644418b51932dc0fe2",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 1,
+      "owner_record_sha256": "ec8f4b26b59b05e5ce9fce53509915d46f9093985b2566d90ee7ecff304bff55",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-chiron.md",
+      "before_sha256": "40b2de5be4fe844845284440c8744430e4c65719c9ff2f8393fdd26a89a1ec6f",
+      "after_sha256": "b56050575bb72d495d8690fdc351e19f577d153f1a02bf439a944ef508abf999",
+      "current_page_sha256": "b7e681f011028ac0a2d216128bd8a2bde23d0c4e9632e19a9d6f9049cd71ced8",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 2,
+      "owner_record_sha256": "4f96f03e443c9e931930b7b3601ee69ca73469781a7fb43d382416bae55da90d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-cupido.md",
+      "before_sha256": "5ed1282e479651a4dbc62c93a9fce296d11c5cc11e113e07c6bd8a7da69f8101",
+      "after_sha256": "663303c951dba0f07b8392de846798b298bd97834fdecb9004d3d38366c579ea",
+      "current_page_sha256": "c727b3551bfcab12a112c551adb7c345d2b399e746f7ebdfde0c64db14ebda1b",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 3,
+      "owner_record_sha256": "e7756601d26fbf0c3c40ebc06dc06eb139dd0c128abb371a4096180dfdd5abe3",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-hades.md",
+      "before_sha256": "cf96e1ff1a0e495a2ac59318b3c653f9b17ded8e5b9bce546c605c5658de99e9",
+      "after_sha256": "339e0d48ea3da10c95d66ec1e2c1bcbc12e909beb82852d6c2b7eb9248cb6735",
+      "current_page_sha256": "43f6e6bec4c47bdbd6459fa79b0826a4afd0396028c8bc9eeeadc995552134d1",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 4,
+      "owner_record_sha256": "91d2b9d49187692b46f21ad877bf6fe58c0b27cfb3cbaa144179be8216eb430f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-jupiter.md",
+      "before_sha256": "0898b0847ebcfcfd98960f33ca41ee3a8816cfa86d2d34f99630ceb207b2f87e",
+      "after_sha256": "8426a1cbbc8f2c0b749040025564f481db00c93588885b83ab6eb3f4527e3f7d",
+      "current_page_sha256": "0786be65fc9a3ea001997b10a3b85e2d411a523f8aaa163268f07a5e3ddfd4d6",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 5,
+      "owner_record_sha256": "2eebe4f0beec58decb8718aad6f2cc64d179168ead6a7cb91c323bc56d99f334",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-kronos.md",
+      "before_sha256": "08cc305ca42c9e51a0bcd5913c8e5cbd943dc69f7a3b4a7492505ba71274937c",
+      "after_sha256": "fc7164c05e358b71c8faffe35c9b7441ff0be4f15ff96f18b842aa87b096139f",
+      "current_page_sha256": "63de6193c5f176a0c7e140d103e6e1c251546f5472e7d5eebca29170a7daa4fa",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 6,
+      "owner_record_sha256": "f093c1a86af1e841f60adfe1a07b3e82638279a9f91e3f3a79cbc553f7208d6b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mars.md",
+      "before_sha256": "088c6a0ed6acd72e56267c93b6950fb80e45ad811b0fe3a945521fbc481a82d6",
+      "after_sha256": "f9f5cfb69e1c343e1e15a7a4e160b163412925a13883ad3a6573cee8c1d5d12b",
+      "current_page_sha256": "7c9788bcf61b03a35806b692fd5ced9e046f325887ee0f3dc359c09f96945a75",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 7,
+      "owner_record_sha256": "bcd5a7b3e9087fae0f119a28aae1ac325defcfb3d5fcc3fe5a45cec22b8051bf",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mc.md",
+      "before_sha256": "98bc8dc1e05283630fb9ea30f0f19c41f0a91e61c9c8f6232f67c0860f273dcd",
+      "after_sha256": "1bfae0a2f85c451ef8f059f744fa0d97ddcc5ee0efbc1546b93a2eab57f2f9d0",
+      "current_page_sha256": "5c9f1723e95879c683834bfab0e8c46ae3f0be1d3bc38bb5f30541f0bfa21bf3",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 8,
+      "owner_record_sha256": "7c472057924aef698909eacae6ebe2848fd446ba832862c0407ee6451715129f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mercury.md",
+      "before_sha256": "c30ee29eba1c4cf92c5025a8568bdd82a9d3269cae1f89e8010b82590b6c87d5",
+      "after_sha256": "a33a322a7d714dee51f13c2eedb90b9528a9d124bee69ee2473aced2b81e85dd",
+      "current_page_sha256": "b4581f781cfc339f188afeeb7e4acfcfc91bac6e481c443fe533a58251b6464f",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 9,
+      "owner_record_sha256": "89b1a4bd720e3a5f3e5c084923a4389a7de7acec7ca15769f95ce7c0abf9a8df",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-moon.md",
+      "before_sha256": "224a81397602e09e79ab937a656412f9f5b526feac5f5de719307d0b4684eb61",
+      "after_sha256": "cabd15ff68020dde15c650782ff92e0a9780fa4f2620025aaf42b004b3fc8df5",
+      "current_page_sha256": "842209c17450ed3e0a8f7001f019f59020e0b7f5b95cc377b3339001dbdf8436",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 10,
+      "owner_record_sha256": "e2cb7f756622326fd253cf58dac0661f76a9ef760971316d51d584ef892a52dd",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-neptune.md",
+      "before_sha256": "284574e39427dc5941ec824edbd67e7558c7051257203159b8932cc5e84da0a5",
+      "after_sha256": "5b34f1529810e897fc83e05aa7a28f18cca4763ad7d345e5f8d75db8c0db45e8",
+      "current_page_sha256": "48c0e46392e4de04c9300d06fb9bbdc52ad2e58cfc9280378847e88abad21159",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 11,
+      "owner_record_sha256": "971db5a2fb42b75624ebb46a3578f8c612f944f0539c7b6fe650a9fdc524adf1",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-node.md",
+      "before_sha256": "0fad418c2214bcaaf99c754e4bbe7c28d3dfe4783426a915c201415d9ea6e923",
+      "after_sha256": "c2d7935a7cd0ae1642ff22834cb6c4e8d0ae2239e693f941661c43ea96baf7ab",
+      "current_page_sha256": "670282b3f961f49eda21f2eeda473e8032640718cb32f2d739ee019714f2505e",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 12,
+      "owner_record_sha256": "fc1e25d8b7a87964ea9054630755f63de31b3937a3b2288ed0722abbb8526b12",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "After owner repair, independently reread full saved source and complete amended076 line12 record. Exact Witte110/printed114 quotation now retains though; through reading is explicitly editorial outside quotation. All ABC77, Ebertin105/printed103 code0287 and Sandbach21 new references/blocks independently checked against actual raw passages; Node glyph and code visually confirmed. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-poseidon.md",
+      "before_sha256": "c896c2b9a5d35e1417eec6183b5c3d4b93679f892b44a70295d1da1748b60615",
+      "after_sha256": "6d1d4772cbdd0d64681361869a9b8d2b9ba801f6fbd3d194ccb1ced02bd75154",
+      "current_page_sha256": "064ff15565dddb4d0efde85346478bece05e812b8514412e80ad0834597b1bfd",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 14,
+      "owner_record_sha256": "951d133a0590aa395d0c45af6334c1077641d18f3a73370b02f2583ab8200d46",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-saturn.md",
+      "before_sha256": "b0580e694329b37716540df0d497ac2568dd652ea4d4142b2d0ff0346772ff68",
+      "after_sha256": "42855586300b3dbfffd74b8f32c4ac20aeb69b4f592359bf3e6eeb4631389ed2",
+      "current_page_sha256": "b8139fd0c52a6e8b6d5e791189b527d395fc95b53441f495ec954a5d33c8124e",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 15,
+      "owner_record_sha256": "326ae86a11c1903181f32b912460ebf806e82bf1bbea0097b1a3ea2100058c1d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-uranus.md",
+      "before_sha256": "74ab82b01e547dc9dcc63f1bfc4735ab4c4b6ec2331ea1d461c40df14fe35b06",
+      "after_sha256": "37335b507878cb10c0bfa634fda988c839bab39e59c2d96dd4d3aa78cb0cce4f",
+      "current_page_sha256": "e8beeba3fdec58d1fca0a9a85d1ba1609b1ee92e8e8077489b4b93f830b3ba55",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 17,
+      "owner_record_sha256": "9f07e73477813efd1730f91fb68a602988617afa11a4abefb84639fac0207219",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-venus.md",
+      "before_sha256": "25aa7cadb55502e616c817f7abfc606f13abc3ebe1e0e725336e0a7feb1431bc",
+      "after_sha256": "a1e25386e2c1ef55c986675da956453615dafbc61347b2ef40b2fe9df2125a89",
+      "current_page_sha256": "ce0a3ce75da83103d572c0e4aa632c1ad0689faa8d877fe987b4fdc7ba340a25",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 18,
+      "owner_record_sha256": "ddb779ea3e28df80908e8fbad9ff36624c5bd35cd567098fc858314c92dde6b0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104-105.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf104.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf20.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf105.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-vernal-point.md",
+      "before_sha256": "408aa6aa0563a6a29ae43036bd0a7a3feb1371581cc19f673f43182d54017db4",
+      "after_sha256": "ceb7f296f37471473a3e9a8910092e17b964117032f13ad89db06c6382a4c242",
+      "current_page_sha256": "f5f3adb02120a1a0587ca3a15b07df909e0f4eae4e5e09df94101d6f6f98af1a",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 19,
+      "owner_record_sha256": "6d08621efa4abcfb8461c218d0cb71e2c7256feba4c606cb66a1134e28f11cc1",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-vulcanus.md",
+      "before_sha256": "1e569b8e87bc39c6e75e2099c54a672263626e445fcc8103e2ecd219b2423475",
+      "after_sha256": "264f39188f7049db01815a7bf88b9c2320cb152886ec7642998014d159553b4e",
+      "current_page_sha256": "c42ea8e459f85113a139a09f9267f027c57b7ceb41dce637e6ca23b2e181ba08",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 20,
+      "owner_record_sha256": "f37c8ee14de811936c4ad75f8ee9e55db2d6831b399c5fd8ea281f3d62997435",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-zeus.md",
+      "before_sha256": "200321e609770027e7302cb63201df601fe4e376de7059ea00e2242b2361e6d6",
+      "after_sha256": "bf01bc6c9818f421d877a019333e24d5cda6c89d78c001e37b46a449a06c6253",
+      "current_page_sha256": "a7c01e0761db9d8a3d5b3859321f70822d3d648d429c7b8b0320cf4f5b02a6cb",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 21,
+      "owner_record_sha256": "309e3b74d41094dc9efa21c84d24096e49bb0ba4da9066201f1584940e7d2059",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. ABC77 printed156–157 and Witte110 printed114 exact glyph rows personally viewed; every changed translation clause checked. Where present, Sandbach20–21 paragraphs and Ebertin104–105 printed102–103 coded entries checked in actual raw text; Ebertin104 scan verifies Impediments, footnotes15/16 and printed platic spelling. Unchanged Munkasey88 block preserved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf77.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf110.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-admetos.md",
+      "before_sha256": "d3b011aaae95e7f6d904641cb5becd7fc98043337c7d11cf3b9744e3ea9dbefa",
+      "after_sha256": "07d8651b77ef8b2a9579aafb8e14e9ac516a1d679580cf063b5cca592f9a12ee",
+      "current_page_sha256": "c2f07ad1ded49eb577db5fd549e68b95a13cdec2d4f45dd338448c4ae62c2dc6",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 22,
+      "owner_record_sha256": "7553725f93750fe2df56db3b7bf870d16e353aff1f4c91295b73700dd41fcf84",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-apollon.md",
+      "before_sha256": "79df0fb3962c91142bae38bce521f70453e8e690ca39def198f757f7b06f3a48",
+      "after_sha256": "9237be50574197e222501eba83f11ab6b7b7c3b75a81b7f5feb05bb1e8e2fb42",
+      "current_page_sha256": "38d1f1b6f5cb4bc7588fd73d884e83f5a578c40adc675481deefc15b8d14f7af",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 23,
+      "owner_record_sha256": "73583a528c848ff21cd511112a8914eca4790f9228c382fdfce34bede8fe2e50",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-asc.md",
+      "before_sha256": "da3c869bcbfb7b9649cff470e44decd13525cde502de8347d6598c5feb19577b",
+      "after_sha256": "a77b0e20200efc886723bda78f2a9c770d608a073f27393fe367371ce3f11e0e",
+      "current_page_sha256": "99649f924b0c3f00ce5cba72fd04242062ecfdb9e063bd6bf27a8e4364c0ec23",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 24,
+      "owner_record_sha256": "4c6a4ed49e4c6fcbec2f0846f9966557a193617ea9aba4b08e835ce54d23cd50",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-cupido.md",
+      "before_sha256": "05c8ecd35c82ff52d2b7817f6271087e82ef4688481797549839f968d4e47c06",
+      "after_sha256": "eb39ff5046417a099e4f15245564c82c90b5199aee2645166a2174e9b54ea334",
+      "current_page_sha256": "2332e766493252af221a8f544a083f466df17e0d0f14505ab9b3f6a955fd83bb",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 25,
+      "owner_record_sha256": "de71bbb0cfbff20ff9c63d691ad9628fb9ae33279b21f961e5e8fe117c97c8a7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-hades.md",
+      "before_sha256": "f5b5728a1e22596a5f86b4b5f68ac52b310f86ad635c78574dca080a710769b2",
+      "after_sha256": "ebc2653b9bc9babed3214921292409c1fa484795ad11c1013dfa13fab9df5cdb",
+      "current_page_sha256": "5341132f664466454419f205f58177954f6f76007c227cfde3044e08ea8a5b3f",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 26,
+      "owner_record_sha256": "8e95442769afbfe45b3f4def575a179339456c41b0cc150e606a2190544b920d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-jupiter.md",
+      "before_sha256": "daa0e96c49c03eee8353e1cb54d7f48c0762581e92b15d468345d9f85be91775",
+      "after_sha256": "ed15e0ecbf38bf8ddedbb918ecf628c8af4a0462dbcbf5743efce559608724a6",
+      "current_page_sha256": "2838291b6928abe93123a2dfbaca90e2b77568c10b4f72b37a667797518357a9",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 27,
+      "owner_record_sha256": "39edb9e096c7e79d637308bee9a20d95364a7e421cb57cd7dc819b59325614a8",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-kronos.md",
+      "before_sha256": "a87cb1cad4cb3836d7b6e4d18f1943d30347ae08b107fd61cd124d360318cfd3",
+      "after_sha256": "91df5f204440aed6c641171600f3c9710801224fc22a82b47850ca5387752f10",
+      "current_page_sha256": "cb999a44e856a38ebbf33d00b741b1910e3a6966ea83560a750b094f62f1a4d2",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 28,
+      "owner_record_sha256": "0379db35b4583d619c79f4c4454c3e7dc56a6d16bff53bddc772b006b126dbe4",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mars.md",
+      "before_sha256": "17900a115b5efa0cb87f807039baf846031812f7dee8d0183c10d0afb812a3ac",
+      "after_sha256": "ce026c6e99fe61c3e6b3a3b09405ad299518f65409202d42185cc0fadf5f182b",
+      "current_page_sha256": "477bdda0245b17be384fb5856d0aab182fa109d9b440cb0dbd03e709ba340094",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 29,
+      "owner_record_sha256": "d9f2539808b7b6af7b82e65db53340931dd4957d9a16d44c66d39784da420480",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mc.md",
+      "before_sha256": "9daaa1a6969c94b110669b4e2cdea5edc6550419f96afc4038390cbe9899c039",
+      "after_sha256": "6e8cd79a44930dd005040eb41da80bf0277ac9ee4585c6ef10cb82f240503539",
+      "current_page_sha256": "e65ee534cb2a5318dc079cd0716156c9ee53e1cd57a0dae4d36be9b4ea9d5d1d",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 30,
+      "owner_record_sha256": "428366cd146142099a0bdc91944c90dd37d16b89feb0a743632f685c15633226",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mercury.md",
+      "before_sha256": "6f7ac19fcab1f445553d181d5bbb02233f2269f5ffcd0abc953f0fb8a8ade626",
+      "after_sha256": "ba0cea3297b4bd41466397a7dae2db2ca1538b74aa3a73d40ea8479603bf20b9",
+      "current_page_sha256": "ce104468c8da57c719bfc303b5b13a98194c800d3da00da2ea68b9fb25a6458c",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 31,
+      "owner_record_sha256": "59d1291fdcf6e428ef30ff38ea518e00cde931efd38a6291417b6a710696d842",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-moon.md",
+      "before_sha256": "87aa8e335cf4c5efb2320e0b617f8c86263d985fb9a294ffcebf45d580959c9b",
+      "after_sha256": "03787af580eae57918d95218c062a21945d3b9fa1351514de5de8d9e6b71d509",
+      "current_page_sha256": "78ff7198056130183b947df3d4058d65971401ac4ca5ec6742ac3ffc284d0b49",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 32,
+      "owner_record_sha256": "9152c90f453b13622caf7d6a989810f34bc4b8700e08b360b55d45e46dfa621b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-neptune.md",
+      "before_sha256": "dbbdff5cbe74ac6d954fb5910bd6d49d01d2ac541ac9ed75c3c028a2ec2ada43",
+      "after_sha256": "a51a03ed3400d94ffa558a6e9b7cba223eae1ac6d211bf70eafdd3dae78bf6fe",
+      "current_page_sha256": "c14abe4acde2d43b9131db66524ce57171801ea877363fe7eb35a4af3920c5b7",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 33,
+      "owner_record_sha256": "3dc390f603f33b550921babb72b3ad8f0ea6809e62730bc6453cb674fc041296",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-node.md",
+      "before_sha256": "4006735dd3d6ed03050d0f81f7911e9754c52053d9a2e12e6bb3e980373e689c",
+      "after_sha256": "3cdc9450a49b86ae74c33f7956405fa488cf1d2e457c0492a3b7f50fd74f836d",
+      "current_page_sha256": "1d124703ad7c175c955f7eac97a7dc7aa2442568909a9bd4ea8bc3e022d7b878",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 34,
+      "owner_record_sha256": "e075cfd7a3777c302727482d54dafe26ea3d6f82860c7099094258fa0b83e097",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-pluto.md",
+      "before_sha256": "f8516e7a75f2819668dc77cc415090a695d5d4313197332c060ca25713f42e1b",
+      "after_sha256": "83ffdee236ec34ffde7ed1480ffa97c135c12489a939a4addc4ef68ce194adcc",
+      "current_page_sha256": "a2538206ebadf5a0801900b5710d069211426a1f1c1a2738e98e78c452f20b7f",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 35,
+      "owner_record_sha256": "950ac18b7118c0f5c9da8fd6b97a062a5099610052cd68c1b2db1a0932dc8a37",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-saturn.md",
+      "before_sha256": "490518331a24d8f12691404b141da572515189eac0126777d371108e64b89a56",
+      "after_sha256": "9365737a00c8c38b1de5a0fe61883eef833a9c4e72ca555ff3422bb178aae149",
+      "current_page_sha256": "d4a7fa23bbfa0f968c4e245d84e0960f10673b352bd10951a0de7789b219e6d7",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 36,
+      "owner_record_sha256": "7cbe4f0b1af372c1ec07ec50bf3a0c55f8a21a5652ae6947c25bc04d566bbb03",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Complete baseline/current source sections and full unique owner record read. Actual ABC85 printed172–173 all exact glyph rows and Witte118 printed122 personally viewed. All changed English translation clauses, restored complete Witte Pluto/Saturn continuations and new references checked; German Gewalt ambiguity retained explicitly.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-uranus.md",
+      "before_sha256": "a41cc032cce9739b0b04e1bf8e094ffbb8135caeed252797b299a46735cd80e2",
+      "after_sha256": "d9ce76fb512c01717762cc93dead097afd479bc3f86fa1aceeea61f8e397e0c7",
+      "current_page_sha256": "f81a0fd6619ca9ed8ecb808fb19d880fff3e55b201551d575f27e54b29e528df",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 37,
+      "owner_record_sha256": "1b794c64e2780e8b378fb868da5857bc6431ebcfbc6292d442461ec93593d9dc",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "After owner repair, independently reread full saved source/page and complete amended076 line37 record. Actual Witte118/printed122 power to see and visualize restored; false printed-text note and unresolved removed; dependent prose agrees. ABC85/printed173 exact glyph-owned translation and both new references checked. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-venus.md",
+      "before_sha256": "b57d8dd4d1f7a536920fa890c295a92f9f257ee5ec28a5f0fa3244115a00cb29",
+      "after_sha256": "8e4ef330448e22f475d9f5350619606e4d43df406e473a737f40cc93adc2c600",
+      "current_page_sha256": "e729ce344f36361e5adf3d7b44192aa62980edd5d86844a283fbc5d45f35b715",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 38,
+      "owner_record_sha256": "7b53790633a45986b39495cf636f6c574a0791e3dacec1366fa7b5f7bef1b362",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Independently reread full source section and complete amended076 record after owner corrected shared Witte Uranus verification claim to actual power to see and visualize. This page's ABC85/Witte118 source blocks and new locators match personally viewed exact rows; no page source change needed for this record-only hold. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-vernal-point.md",
+      "before_sha256": "5825fccb5a2b61f44417d80dce141936ac8065b9d02526927c5427a254a4ae53",
+      "after_sha256": "f922a88d3839a0b4a6dbe6eb467c86c267e1fcfdc01346f20de72110ae2c7a39",
+      "current_page_sha256": "7f3e8a068198f78c875e576966a7015086b9797080204339b27abd4ad751c09a",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 39,
+      "owner_record_sha256": "deeca41d87b040c18cf9c7d105488a2be5ff40bfab61b9cf8e23ab598ac6924f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Independently reread full source section and complete amended076 record after owner corrected shared Witte Uranus verification claim to actual power to see and visualize. This page's ABC85/Witte118 source blocks and new locators match personally viewed exact rows; no page source change needed for this record-only hold. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-vulcanus.md",
+      "before_sha256": "757c7bec00cdcaf8d266bd6c6bc537a1265e39e0c1b5b1437ff39991bdf76619",
+      "after_sha256": "05f828c61282ac63034a92884d8286de4b9f5a595bf8d1ceff0d9666a1db59a1",
+      "current_page_sha256": "420303a5229c88819d86239582466e9752c6abf6680a87dbe85a6936f9a50f08",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 40,
+      "owner_record_sha256": "2911248d2426cba42554b1e8e57bb7e599969eb6eaf80b8ada7db07f451ad2d7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Independently reread full source section and complete amended076 record after owner corrected shared Witte Uranus verification claim to actual power to see and visualize. This page's ABC85/Witte118 source blocks and new locators match personally viewed exact rows; no page source change needed for this record-only hold. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-zeus.md",
+      "before_sha256": "3d5ae6ad0e18e06ca1ad504fd095c634cf1febeafb246804c9ecc6021102ffe3",
+      "after_sha256": "8f1916c676d385fbc7147c2a528a64dfac7ef682ad1eb4d0633335d535ddfe2d",
+      "current_page_sha256": "adbfa1d075dad34385d71daa20b5f9f1a77e612b7b494430cdbad5d9b6cbc88c",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 41,
+      "owner_record_sha256": "51c2b27cfc11748c7706ed43683f8129605fae0bee030bf4b0c293bef260df2a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Independently reread full source section and complete amended076 record after owner corrected shared Witte Uranus verification claim to actual power to see and visualize. This page's ABC85/Witte118 source blocks and new locators match personally viewed exact rows; no page source change needed for this record-only hold. Original hold resolved.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf85.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf118.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-admetos.md",
+      "before_sha256": "38dcdec31bb90a6484a526809fb7c687bc20d8d3e35215b7e697c1e498175e65",
+      "after_sha256": "ff1727d6062b338f923fa85bd6ed435238a9717396181d55a946e2fb40f658ff",
+      "current_page_sha256": "b1bf45fc3ecc8b4c30fbb7b61028c0fe739b74bd1cad2804124e7e2bc7a00725",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 42,
+      "owner_record_sha256": "376c7bc606e92db0dc0ffd7ccca2c0b06e5bb90862eccabd1eab97052ce16daf",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-apollon.md",
+      "before_sha256": "95072b52ae7716a7e63409a2653efa3f98a4d1de0171a5415b1509a6a6d07434",
+      "after_sha256": "c5bbdd5fec41a6126ad54db8a479835759e57ed92bab76391fc017edee49b4d3",
+      "current_page_sha256": "b47000ff5feaa1609b7b39735e61b72ed42c3429a20dc3d34c8a13513ef0fda0",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 43,
+      "owner_record_sha256": "e890c2adfe8cf1af3b145dff4d1687dbdd5bc6d083823daceaae0030bd0bc6c6",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-asc.md",
+      "before_sha256": "dcd7e35a3e8c3f9e07edfc0a5fe5f07e2a27a5bdf4df640e5f35e3ebf8eee8fb",
+      "after_sha256": "74aae792a0de97cdc0c42ac2f61551539f3502a0a6c580a70ce5179b9e9950ec",
+      "current_page_sha256": "08bfdb62d30e900a214fdc84e7251751a981f93247a9ede85756a51b0187e304",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 44,
+      "owner_record_sha256": "09fab5c4f8858077e5d3e82af74eac9f1bf1b8715d994bb0b2cbc5139eeea5ae",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-chiron.md",
+      "before_sha256": "5b7093e37cf187447942611681176033de11b93a66c734f91610c7e9ae7d62f5",
+      "after_sha256": "e916d043a8db1a37d19c81f093bdeb513895ead564b9abd1a61bd52d1da9de27",
+      "current_page_sha256": "2cc2f83b8dc1fc1b3e6faa0b11e32b61d588254f2ec6fdb62c6f119afa7fabaf",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 45,
+      "owner_record_sha256": "efafdf5a13a9c44c4760e4cee442b72cb0844b7dfa2037e64824d8426b25c25e",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-cupido.md",
+      "before_sha256": "092b6dbd3571f8803075fbd581c6696945ecb452fb64b04a2d677023fcc40070",
+      "after_sha256": "231cb57756b7c2a45c034dee3beb9f343b8263c7eba32fb0de6b555cd13234fb",
+      "current_page_sha256": "67216bb77d8b6f5a3e223dfa8ba77adee10bc8782c95201046fd008576b032fa",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 46,
+      "owner_record_sha256": "6e82dce8bbafc02d0b28b4bc4ee0cffd9efa6e9d63b376b76145ca1f6bfb724a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-hades.md",
+      "before_sha256": "38bd330c4300df6c8aa63ffe226ffe3f87004e5f8683a34db48e664a29dcac64",
+      "after_sha256": "2498a48b3d4276ac7fac2843a03f5b4f5d39f1099fdeb4e82c0a0841036b0810",
+      "current_page_sha256": "a2d42cf376c3acdeca3a1ec843e94b300841cafc7d9c1d3dec4a43990642d1a4",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "eef087ad5af7129ee9876bec6f0a5e0ede8dc681379c8ff80e02cfe12a68920e",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-jupiter.md",
+      "before_sha256": "f8a4b0e760ec702e27980a4d7d9ebd9c065721f0d589c6641bc79893bdce9326",
+      "after_sha256": "2740c8f18eda8600585cf3f409307e00a28fed292db827f3fb7e61b1c8d6fc2e",
+      "current_page_sha256": "38415923602ca12f77b2c9b1c19f8a80f570c1a357413b662405db541b1da5e6",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 48,
+      "owner_record_sha256": "7b6b724a9c3633321e82039233da37de1a50aa446fa7f4121b94b3bc1846f2c9",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-kronos.md",
+      "before_sha256": "15cfad36dd0e9ff55c2e0beebedba3ccba520c621b24e5c16c10e7b795af649a",
+      "after_sha256": "2085c9fe5b056e9460f120e853fe6015f2f2db076a36167e91489cd6759921d5",
+      "current_page_sha256": "907b6ab8ae2aeb8a13c7072295ea9100df3377427e0b005eaac11a05af562863",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 49,
+      "owner_record_sha256": "092ecac1a45f6aa6354db51c1de182a1888382f202721a0fde9166a7b888803f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mars.md",
+      "before_sha256": "986d9686eacab2eed27682c6d9b2cd9a2ee402cc042da7ca5d9de503d1929189",
+      "after_sha256": "b5cda6527e5e917e945dfd7cc03fe08b70a27d434119900a4addff710bfff55c",
+      "current_page_sha256": "7cf596f4dedeea1eac429c9ec7a1b20ab6d28f264ea04e5b6a4c4f71ec633a4b",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 50,
+      "owner_record_sha256": "cd2a748b69c94d51a18af77dbac3d2cba0920e91e8212e29af8f5be784a407fa",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mc.md",
+      "before_sha256": "557bdef8d6426f70ed507752a7a7a9e0c3171702934273d76b042e6e773cc1d9",
+      "after_sha256": "40164cb57bf17dc6cd430bc503d6b0c99b150d7b3f91fd4f030540b705a948e2",
+      "current_page_sha256": "52b32e2f20fab548c207a361d61eadf6027ee38f13e501d6d527eaa10b4859e4",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 51,
+      "owner_record_sha256": "0018b79b0228459e704aa65000b4fa57cd5291aa32c845d38b29b113ac29e349",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mercury.md",
+      "before_sha256": "ea53f3e8d29a373061f82ea94ccefbe132cf83fbe79d9a032a63cf5ad354cf54",
+      "after_sha256": "7f78466711f9e153c7f89a1f53e2a75721bcfbddc88b93018e8977b6890bef59",
+      "current_page_sha256": "8ba389f69a98ef3b496e7abeb8d2942e7d87c10f10bfc701416471f2faa4b2bd",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 52,
+      "owner_record_sha256": "f55af3c1adcf58e55727d9ecc60b5852ab6c078fb4a4db2b1569ddf797548a8a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-moon.md",
+      "before_sha256": "cf7a1359b9e17d35eb71f522777d46c57e62ae9748a4c8b37fe1572748559c33",
+      "after_sha256": "89ecbc82b63c0ecdf773e889f05fb1faedd8c941b088d5a8f6b9af5f90f674b7",
+      "current_page_sha256": "32c8d8ce6419509f3997d30c41fc8a34649f78a1ba7447c57f202a4bf266664c",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 53,
+      "owner_record_sha256": "fb8639b4c31bf81be78595afa9889ad3ae37770252fc94a90692d1947fe42021",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-neptune.md",
+      "before_sha256": "86e4c68454201a640fb4a0f7c7e63df499a36a8ee057daaccdc5e7ad0dd3f7f6",
+      "after_sha256": "7f4fee9f1a965c40cde5a386cb6b050ab7ccdeef5abdd6db78786015611a23f2",
+      "current_page_sha256": "8038c958ab3bba17bf496c69614d244fc8e63bcddd64c1d00a54d5844d85e46b",
+      "owner_count": 1,
+      "ledger": "activations-076.jsonl",
+      "ledger_line": 54,
+      "owner_record_sha256": "4ce91c499be3458c066ea82664610afa2e967e1b57535721dbdf3f9b649b4688",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source bodies and full unique owner record independently read. ABC74 printed150–151 and Witte107 exact glyph-owned rows personally viewed; changed translations preserve all clauses. Where present, actual Ebertin95–96 printed93–94 coded rows and Sandbach14–15 exact activator paragraphs read/viewed; new locators and joined split words checked. Existing Munkasey76 entry unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf74.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95-96.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf95.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-ebertin-pdf96.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14-15.txt",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf14.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-sandbach-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-admetos.md",
+      "before_sha256": "b986fad339da102e61dda09cbbe85356d739d24c69f409a1bad0ecd02d51536e",
+      "after_sha256": "377ebd91b646c7f21b30de9c52eb9a54f7bcf745f0d4283401579b473f64a26f",
+      "current_page_sha256": "3c4dc80923af49ce1a3d9be52e892470662ad81c3fad147e5e53dda301d8007d",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 11,
+      "owner_record_sha256": "6b44eeda51252dbdc1d1277cfec42252260afdd497faa79acced563c9bdb06cc",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-apollon.md",
+      "before_sha256": "d61f36048ff31bed2f121ca0b96d853ec467bec3897e087512253881b645ed7a",
+      "after_sha256": "7d01ee8355fa5b4d915f5d8ae767d94976873a5ee76eae7d1101a4b657f6de6f",
+      "current_page_sha256": "78e93b359f206d89b225d886d7f7270a4db0b290f8f90cc31d78f8389f425258",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 12,
+      "owner_record_sha256": "131632bb796d16675a1d4aa6e8c88b711c86eda6c9e766b4724ee27d26d82f54",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-asc.md",
+      "before_sha256": "513bed92422344cdd989b6855cc7443e724f0edd3a1ab3c32493108071cfd530",
+      "after_sha256": "54807884b94d8a37d162515ae218307d400b140ae3d780c6b6c9d6475d106577",
+      "current_page_sha256": "faeb9ca61cf408638ed61199c1deb67b89b612662a04be4558015689cfa6b97f",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 13,
+      "owner_record_sha256": "882e12efeb00189f2a0cbe26f4a85573a93661d618e79d34373f33bb50c26835",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-cupido.md",
+      "before_sha256": "04e83f36bb941e7b4acb1e63e983f2fab85401ba911c61284fb2d3b99301ef2a",
+      "after_sha256": "a9f93be336eecd9afce5f3548f61fda1bd9947225f3ad2fbc9119d3df8be86b8",
+      "current_page_sha256": "3db14965619c2bef350fa5ddc1a1f7516e1348385d263adba76c33ce7b37b4fc",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 14,
+      "owner_record_sha256": "33822335ff61ea5b9d7f11b6b3c1cbadc41f6889cbe7b3b9a147b52f9536d32a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-hades.md",
+      "before_sha256": "981c4259c33a3d535bbca742f4ab73bf265aadb3e09e911c3aba26e4512ae0b8",
+      "after_sha256": "360e07ee58b18f5b7ec071db2ff91a1fc51e28d8d675680ef8578680096d343d",
+      "current_page_sha256": "68dc765ea8a309a413fa7bdc09417592ff1151847557b1def8b0306fdbfe6faf",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 15,
+      "owner_record_sha256": "48a58a79f3d2f2bed7827a0429f1883d491a58596d95c206bb7f1b96e339c46d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-jupiter.md",
+      "before_sha256": "a2e429b20bb79205519749a0ef58c60effa5c5a15d15d4909095d18c981dbb17",
+      "after_sha256": "5f83684ef1937061dafbb6391f491f1a12a5b4609ceb0b7e7f43a1ac891cc371",
+      "current_page_sha256": "1041c81f47c9bb5703e8f7ea132fddb5dd679868182404f515bc8901b4882f80",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 16,
+      "owner_record_sha256": "a17e71e667ba7a38d10b357aa64ceceb9698db345ed8ac8f727e17da846b8ede",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-kronos.md",
+      "before_sha256": "1e45af69bee657b6125544e3afc0ccbc29d6fe547df54b7fb6f64b7ed2eb5e5c",
+      "after_sha256": "6b5cd3a38a0a63730a00a33ee5d030fead7e920db70f9c4b907fbeefb1bdd52c",
+      "current_page_sha256": "35ab5a128046d2dd6100f846923518459b60451581ba0eb976629219906cc047",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 17,
+      "owner_record_sha256": "fcd40c105676d58ffe7c58c0f57e5bfec9f7ffc334481f17bc73250b1faaf3b5",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-mars.md",
+      "before_sha256": "d553e5244c68b34c2e16492b41a6e894efcc25c4de5bce68d86f8d4852e62d22",
+      "after_sha256": "d0bb1081199d0360d914bd7e2f8e6516db37adaa5b3b4dc893b84279b0a47fce",
+      "current_page_sha256": "be609029498486e11f6008a095b253a38e4f301bb86c4e09101bf3a372855149",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 18,
+      "owner_record_sha256": "1d58394d91b4749728861e528dcd4b9d4fdc007d56169eb714218fdb0b3aae7c",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-mc.md",
+      "before_sha256": "8857b1957d3d58f6219e55525ae0a92364df9c638fc8483946f1e6942b47df13",
+      "after_sha256": "7fc7ca10d3c22a4985b509e8d6292345e91fc5b39279ea8a5000b1a5343148ac",
+      "current_page_sha256": "e6301bac10e81378fdf02b3d54e0a6dc90ca791c50b795a77debc15c51c8ca1c",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 19,
+      "owner_record_sha256": "654ee48b94cf1252df8dc6787c485cd90de160b088456d78e6479458e651ac01",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-mercury.md",
+      "before_sha256": "0efd65548770b040a51cae3fce3006af8f41eccd4d99b521768eac9f106d5b94",
+      "after_sha256": "89b11c379c197be7ce4b54109d1f0666fb5177c3532c4697e62b36ccf44ca37c",
+      "current_page_sha256": "ce4780ee1f645fbf1b6fbeb21a84ac07993565e435c80b6468c3d4abdbd053ac",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 20,
+      "owner_record_sha256": "fcd6b3e75750f361b62e94b2f79b353b14ea3f5d6b38779dfe8d399e59167c37",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-moon.md",
+      "before_sha256": "33f5779498543fb1e297935f888f7df0e5781dbdb18d4780c2620ba53386d705",
+      "after_sha256": "fcc9ce95781cc716ca4a480a22fcbc83ece0bf404d2280d2b5019c93cd6effe7",
+      "current_page_sha256": "afb4d93637483cb58f3bc391c67e9ee240192f49bee1ad01a96dc25df0d899b1",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 21,
+      "owner_record_sha256": "9eb2c300a18cc240587b69b5e229829dbfd4624e1fa1ed1d542b4cca733750d0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-neptune.md",
+      "before_sha256": "5ca8397aad3e4feb23fa49057737c4976212f4febb75ca0f69c5be64afc20103",
+      "after_sha256": "cc196cd5d31ebc82645462d58a49b0365cacae597eab668ddd6de5ecda3e6107",
+      "current_page_sha256": "8881bba25077ef72813d64f022b99244fae542d0ba09a3357514a00a6f161f9c",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 22,
+      "owner_record_sha256": "4805c2fe88aaece5c162bbfabb01991dd6b1a767798c073faae2803c36b347a0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-node.md",
+      "before_sha256": "93dfa0188d3da1d2622609a2a2974dc392bb13aeb55897fd39d5614a2220bc48",
+      "after_sha256": "65dabfb5d509b860e192da458d06a0f35b337af712ebe0adb419eac920a642ac",
+      "current_page_sha256": "fefa9b27c962a19c851aff91373a24f48ead6470fda9f05c19e3877fa049b231",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 23,
+      "owner_record_sha256": "0645ed79e209f3e706aa6cd99de578b4146284105c58852e70c3def3e9869267",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-pluto.md",
+      "before_sha256": "673fe2c96e67ecfc464a80d87a7b5dc6480c33980bebe160e573ee7fccc43d66",
+      "after_sha256": "c24f8d4e151543b02d1bb996704c9939abf010dc5e1f947fcd0af85c30f1722b",
+      "current_page_sha256": "d2df3af1e7a29324796130e5c713a395be9ea37f44a6f9cba903e8a46a4fc9a3",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 24,
+      "owner_record_sha256": "522f44cba96f62150a332284496a87b130445b06009ff71dd62568939740877e",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-poseidon.md",
+      "before_sha256": "184efade256e30cbca7a1ba80973bb7f5c2a9ffc70ff0d4c81980b610a0169eb",
+      "after_sha256": "54cf2a101787f78caaa98a3ca2b7df151abb2e41c20fdee2c565984395749e29",
+      "current_page_sha256": "f1f9d5904a760c815fb069337e4009a468227a3335f73c23619fb17304ee0da6",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 25,
+      "owner_record_sha256": "18fb91bec7ca72a6664f53888c10a4a87705d2aa358c37c9ac00306c2686ee08",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-saturn.md",
+      "before_sha256": "4202712cca86315c71b45eada2963203e99a45ad8258b7ddda15bdce7247b48c",
+      "after_sha256": "067b7f3edccfcb6f5fd91b8ba6fbe200303d6eb658a78062ba59e81ff44af3bd",
+      "current_page_sha256": "6d003feb1a2fbbe685b1eebfff6b20740e96386a8064bda0debfc0eaf44a019b",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 26,
+      "owner_record_sha256": "2f399486c75a25eb157752428c9dd138732d7f30ddc76b215c59751e4982143a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-uranus.md",
+      "before_sha256": "5559ee86ef975e9cca15ff11814de12b5238f5de3bfb3b9252603b33af4f162d",
+      "after_sha256": "f32610609dbb0c9e1e24782db80e2234e603c076ed23d4b470b1e3a14359e617",
+      "current_page_sha256": "abcc3b58ca8543216127e50803fe7a19dcc33dd9b9e0e6dc6cef299562e7f807",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 27,
+      "owner_record_sha256": "1922434e2e59aef391b8318c58d0904c742ac8bdf7c5d88bbdcfd7ec8ecd24ac",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-venus.md",
+      "before_sha256": "64ee912e89311cfb05a14c9a600f0a4491f8221e8b89eb305c74bb691ea29b0d",
+      "after_sha256": "9a4447d6ba76ed16ca3f920471d7dd84df122f2aef6044ea991f0dddb09943ef",
+      "current_page_sha256": "8c74072efae72fc6dae0966fff175d441c715e07d114d94ec2a1d5c2bd0a35ed",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 28,
+      "owner_record_sha256": "fd74dc5a19cc7923313c531623147340e1b4d39a753c973ca26b5db05fedf725",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-vernal-point.md",
+      "before_sha256": "84964053743ff6dc62afc99dcf6cd8dfdc630363c73e75b56e760a69b1670aaa",
+      "after_sha256": "49d88dc89e4a011d838baa095f3a8a1109a5e729f07fd619781110b492f42014",
+      "current_page_sha256": "1f0f266696b79f32f4582eac7b84ca98b0b88aa3dc1358182fc458dcd8d7e2d2",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 29,
+      "owner_record_sha256": "38af0a6b7785cbdecf4af338c9acda9e93137c362966b1b993ef872a874f28ba",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-vulcanus.md",
+      "before_sha256": "af423ce74085b7c93b2369cc2aeefbffa77f04d035b25a3cb564ff15731b6167",
+      "after_sha256": "caac06cbc7fed0e3c7740731abfb04877756eb36394e2216711797b57db66e91",
+      "current_page_sha256": "9148b9c8e8075af35e20d21bb55c4b0448e29bbdc31be049cdb9099da61decad",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 30,
+      "owner_record_sha256": "cc94e624606e15883f349160215597ffd9519b0b1aeb9f11e90c98b6dab6b56a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-sun-equals-zeus.md",
+      "before_sha256": "622f9b12d910594368c5569972c12dba43d092b18f326343aa30a07c940b040f",
+      "after_sha256": "b929e861b61f0521b2ef7f41cbf4ed635d1c358f3aa9abbaa0bc6c2168fa8e05",
+      "current_page_sha256": "314439e2edb40df29778562631aa4dc60fde67a649bc399b464deae98baf7c61",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 31,
+      "owner_record_sha256": "16fe5209cf2ec491e84eaed61f49a06841a465fcb81b5c7f0a6b2dcb303c5e57",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and full unique owner record independently read. Actual Witte99–100 repeated Sun/Sun heading and every exact activator glyph row personally viewed; all new named source headings/locators and bounded one-word repairs successful, The, restlessness and removed Vulcanus display glyph match scans. Source-native parentheses and uncommon phrases retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf99.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf100.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-admetos.md",
+      "before_sha256": "02131567cd67caeb10ccfad314c76f11a4e068480f356b4354a8132bcdaa9159",
+      "after_sha256": "0532916fa7e05075f4121f285cb008aa10b4c2889ff9f75f6fa451054253fd48",
+      "current_page_sha256": "8d381772e11919bb1e392bbf9214689368744ebbd8a72c0556add5c65a33faea",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 32,
+      "owner_record_sha256": "9af4faadd2360b85d20c1b7dfc9c6a6ba074de81abde92457a857cc65fe71df5",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and complete unique owner record independently read. Personally viewed actual Witte108/printed112 and ABC75/printed153 exact Admetos/Apollon glyph rows; all new headings and locators match. Existing complete Witte and seven/eight-clause ABC paragraphs unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf108.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-uranus-equals-apollon.md",
+      "before_sha256": "2e2b2e3aa0b32517cb4e852629a8a0c5c7b1e5d5729b2226801203d036f0ad46",
+      "after_sha256": "5c8165d49aeed542195825484282d8127af0e91f8ab5cdaa9ef27a7f58cf65b5",
+      "current_page_sha256": "ce255c3685305a40904531b3e6ccab6c7a1c179ad81167b7f8a4cfa44dd96359",
+      "owner_count": 1,
+      "ledger": "activations-077.jsonl",
+      "ledger_line": 33,
+      "owner_record_sha256": "6ce6306d8d8f69679de4f77ee82f2080ff6f614eadb7d54eb6b0a3b1c09deee2",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "decision": "Full baseline/current source sections and complete unique owner record independently read. Personally viewed actual Witte108/printed112 and ABC75/printed153 exact Admetos/Apollon glyph rows; all new headings and locators match. Existing complete Witte and seven/eight-clause ABC paragraphs unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf75.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf108.png"
+      ]
+    }
+  ]
+}

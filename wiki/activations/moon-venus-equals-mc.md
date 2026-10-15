@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = MC`
 - Astronomicon formula: `R/Q = MC`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 To be adored by women. To have others mother oneself. To be a mother. The attitude or feelings of a feminine woman. To experience a harmonic hour.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Joy over mcinc woman, I at the cine harmonious woman, my wife is adorable, my joy as a woman, my harmonious hour, my love for woman, my loving wife, my beauty as a woman, my fondness for cin people, and soul harmonic with the woman
+Joy in my wife, I am a harmonious woman, my wife is lovable, my joy as a woman, my harmonious hour, my love for a woman, my loving wife, my beauty as a woman, my fondness for a people, and harmony of soul with a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `118`, entry `0349`.
+
 #### Ebertin Entry
 
-A heart filled with love. A loving wife or mother. The state of becoming a wife or mother. 20 Moon/Venus = Pluto often gives similar indications as under 0344.
+A heart filled with love. A loving wife or mother. The state of becoming a wife or mother.
+
+Source footnote `20` on printed p. `118` (PDF p. `120`) is attached to Pluto entry `0346`, not MC: “Moon/Venus = Pluto often gives similar indications as under 0344.”
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `28` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +82,23 @@ Appreciating people more as you mature; further understanding of how helping and
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: care, loving feeling, and everyday artistry as a personally significant role or vocation.
+- psychology: a heart filled with love and growing appreciation of people are named.
+- body/health: wifehood and motherhood are historical role examples; no bodily condition is specified.
+- social/relationship: being mothered, caring for others, loving partnership, and recognition from women are examples.
+- events/manifestations: nurturing work, home beautification, food artistry, and unexpected rewards from helping people are stated.
+- conflicts/notes: Ebertin's footnote20 concerns Pluto, not this MC entry; recognition does not establish dependence on approval.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from receiving care to making care or everyday artistry a vocation. Ebertin's separately identified footnote refers to Moon/Venus = Pluto and does not transfer that orientation's claims to MC.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = MC` channels the tender, receptive love of the Moon/Venus axis through the MC, making care, beauty, and harmony part of life direction and public role. It points to vocation shaped by emotional grace, support, and the wish to create a pleasing outer environment.
-- Chart expression: public warmth, relational vocation, and a path in which emotional value and social attractiveness become visibly purposeful. Main caution: approval-shaped direction, because outer purpose can become too dependent on being appreciated, liked, or found gentle.
+In Moon/Venus = MC, MC specifies the pair through a personally significant role in giving or receiving care. The [Witte entry](#witte-entry) includes being mothered and experiencing a harmonious hour; [Ebertin](#ebertin-entry) describes a loving heart and the roles of wife or mother. [ABC](#abc-entry) retains first-person examples of loving partnership and harmony (printed p. 178, PDF p. 88).
+
+[Sandbach](#sandbach-entry) explicitly places soothing, nurturing, home beautification, and artistry in everyday things within a career or life path. [Munkasey](#munkasey-entry) adds deeper appreciation of people and unexpected rewards from helping them (p. 108). These support care and artistry as meaningful work without establishing that one's direction depends on approval.
 
 ## Links
 

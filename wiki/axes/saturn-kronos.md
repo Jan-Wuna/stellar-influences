@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page `227`, complete bold pair summary under the exact pair heading.
 
 #### Pair Summary
 
@@ -78,7 +82,20 @@ Old gentleman. High age. Late fulfillment. Long time or duration. Great hindranc
 
 #### ABC Pair Summary
 
-Renown losses, tasks of the authorities, authorship in old age, special ceduld, serious author=hit, great pain, concentration on the special, problems of the state, loss of self reliance, and important tasks
+Losses of reputation, tasks of the authorities, authority in old age, particular patience, serious authority, great pain, concentration on the particular, problems of the state, loss of independence, and important tasks.
+
+- Source locator: printed p. `360`; PDF page `179`, complete bold pair summary.
+- German source: `Ansehens-Verluste, Aufgaben der Obrigkeit, Autorität im Alter, besondere Geduld, ernste Autorität, große Schmerzen, Konzentration auf das Besondere, Probleme des Staates, Verlust der Selbständigkeit, wichtige Aufgaben`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
+
+## Comparative Schema
+
+- core meaning: age, delayed fulfillment, and restrictions or losses involving authority and independence ([pair summary](#pair-summary)).
+- psychology: seriousness and patience in important tasks are present in intact wording, but no developed personality account is supplied.
+- body/health: ABC names great pain; neither entry establishes a specific disease or medical mechanism.
+- social/relationship: older or ruling people, separation from the father, and relations with authorities.
+- events/manifestations: late fulfillment, long separation, loss of independence, losses suffered or imposed by authorities, and shutdown of government structures.
+- conflicts/notes: The scan confirms ABC's authority in old age, particular patience, serious authority, and loss of independence. Its authority wording supplies no literary-authorship meaning.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Renown losses, tasks of the authorities, authorship in old age, special ceduld, 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on old gentleman, high age, late fulfillment, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Kronos` concerns the intersection of time and authority: advanced age or late fulfillment, important responsibilities, and the hindrance or loss of independent standing. The [pair summary](#pair-summary) moves from an old gentleman and long duration to impeded rulers, losses involving authorities, and separation from the father. Its outcomes can concern those holding authority or those affected by it, so the pair should not be reduced to personal ambition alone.
+
+Long separations, shutdown of government structures, and the unusual alternatives of a great landowner or someone urgently needing help remain within the source's range. The [ABC entry](#abc-pair-summary) adds state problems, important tasks, patience, and loss of independence alongside authority in old age. The pair offers no assurance that delay will culminate in status; activation-specific outcomes require their own entries.
 
 ## Links
 

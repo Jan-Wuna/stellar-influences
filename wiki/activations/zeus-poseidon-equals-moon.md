@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Poseidon = Moon`
 - Astronomicon formula: `£/¨ = R`
 - Axis page: [Zeus/Poseidon](../axes/zeus-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: PDF p. 296, Zeus + Poseidon, Moon row; checked against the scan.
+
 Several people witness something, testify to the truth and facts. The public must prove its mental conviction.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts to create a sense of clarity, leading culture people, clarity of a leading woman, clear sense of responsibility, cultural achievements of a woman, achievements of a culture people, creative spirit of a woman, and freedom of thought of women
+Reference: printed p. 458 (PDF p. 228), Zeus + Poseidon, Moon row; checked against the German scan.
+
+Efforts toward emotional clarity, a leading cultural people, clarity of a leading woman, clear emotional guidance, cultural achievements of a woman, achievements of a cultural people, a woman's creative spirit, and a woman's striving for truth.
+
+## Comparative Schema
+
+- Core meaning: Collective testimony and emotionally clear cultural expression.
+- Psychology: Effort toward emotional clarity and guidance.
+- Body/health: No bodily or medical description is given.
+- Social/relationship: The public and a cultural people in both entries, with ABC also naming women.
+- Events/manifestations: Witnessing facts, proving collective conviction, and cultural achievement.
+- Conflicts/notes: ABC's gendered examples remain attributed, not universal claims about women.
+
+## Contradictions
+
+The scan corrects "clear sense of responsibility" to clear emotional guidance and "freedom of thought" to striving for truth. Collective testimony and gendered cultural examples are different emphases, not conflicting formula identities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Poseidon = Moon`: Several people witness something, testify to the truth and facts. The public must prove its mental conviction.
-- Practical expression: efforts to create a sense of clarity, leading culture people, clarity of a leading woman, clear sense of responsibility, and cultural achievements of a woman.
+In `Zeus/Poseidon = Moon`, Moon specifies Zeus/Poseidon through collective testimony and the emotional clarity accompanying cultural expression. The [Witte entry](#witte-entry) concerns people witnessing facts and showing their conviction; the [ABC entry](#abc-entry) connects clarity and creative achievement with a cultural people and, in its historical wording, women. The common thread is conviction expressed by people collectively, with emotional and cultural dimensions.
+
+The gendered examples remain ABC's attributed language and do not establish a universal female trait.
 
 ## Links
 

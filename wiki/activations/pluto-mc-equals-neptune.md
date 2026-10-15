@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Neptune Pluto MC](../triads/neptune-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ The evolution and transformation of one’s awareness are hardly noticed on the 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Dissolution of a psychic development, my development of breathing, my intuitive unfolding, my subtle changes, my growing sensitivity, uncertain inner development, refined psychic development, and see above
+Editorial translation (checked against the scan): Dissolution of an inner development, my development of breathing, unfolding of my intuition, my subtle changes, my growing sensitivity, uncertain inner development, refined inner development.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
+
 #### Ebertin Entry
 
-Peculiar objectives in life, mystic vision, purified and refined soul life, great imagination. A person subject to wrong ideas, taking the wrong path. The experience of grave disappointments. 66 Mercury = Pluto/MC should not only be interpreted as success in an academic subject but as success in a specialized field or profession. /
+Peculiar objectives in life, mystic vision, purified and refined soul life, great imagination. A person subject to wrong ideas, taking the wrong path. The experience of grave disappointments.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Inwardly sees the need for change on a larger scale; may bring temporary setback
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Subtle self-transformation, imagination, intuition, and uncertainty about objectives.
+- psychology: Sensitive inner development, fantasy, insecurity, wrong ideas, or refined imagination.
+- body/health: ABC mentions development of breathing without a condition or medical recommendation.
+- social/relationship: Reputation and power may be pursued through dubious practices in Munkasey.
+- events/manifestations: Initially unnoticed self-change, temporary setbacks, and grave disappointments.
+- conflicts/notes: Ebertin's Mercury note66 is separate from the Neptune delineation; spiritual or psychic causes remain source claims.
 
 ## Contradictions
 
-- None recorded yet.
+Refined imagination and intuitive development coexist with mistaken paths and disappointment; no entry guarantees spiritual authority.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Neptune`: occult or spiritual authority, subtle public influence, and the ability to guide change through what is implied rather than plainly stated. Main caution: obscured ambition: career can become scandal-prone, manipulative, or too entangled in illusion and covert power.
+Neptune specifies Pluto/MC through self-transformation that can proceed subtly and remain hard to see on the surface in the [Witte entry](#witte-entry). Intuition and growing sensitivity in [ABC](#abc-entry) connect with imagination and mystical vision in [Ebertin](#ebertin-entry), but wrong ideas and grave disappointment remain explicit possibilities. [Sandbach](#sandbach-entry) describes insecurity that may have no basis in physical reality, alongside its spiritual interpretation; [Munkasey](#munkasey-entry) adds setbacks caused by illusions about change and thoughts of dubious methods to increase standing. The interpretation therefore holds subtle insight and uncertainty together without turning them into assured authority.
 
 ## Links
 

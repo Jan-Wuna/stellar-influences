@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point MC Admetos](../triads/vernal-point-mc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Checkmated. Strong resistance in general. To be exhausted.
 
@@ -42,13 +46,27 @@ Checkmated. Strong resistance in general. To be exhausted.
 
 #### ABC Entry
 
-I at the engrossed in the public sphere, my public circulation, my perseverance in the open mindedness, my firmness in public life, and my psychic support in the public sphere
+- Source page: 54; PDF page: 26 (one-based spread).
+
+I am restricted in public, my public circulation, my perseverance in public, my firmness in public life, and inner suppression in public
+
+## Comparative Schema
+
+- core meaning: Personally felt public restriction and resistance, with firmness or perseverance.
+- psychology: Feeling checkmated, inner suppression, or persistence.
+- body/health: Exhaustion is named without a medical explanation.
+- social/relationship: No detailed relationship outcome is supplied.
+- events/manifestations: One's restricted place or activity in public life.
+- conflicts/notes: The scan says suppression, not psychic support, and public rather than open-mindedness.
+
+## Contradictions
+
+Exhaustion and perseverance are different possible responses to restriction. Firmness does not establish that a blockage has ended.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = MC`: checkmated, strong resistance in general, and to be exhausted.
-- Practical expression: i at the engrossed in the public sphere, my public circulation, my perseverance in the open mindedness, my firmness in public life, and my psychic support in the public sphere.
+In `Vernal Point/Admetos = MC`, MC specifies the pair as one's own encounter with public restriction. The [Witte entry](#witte-entry) describes being checkmated, facing strong resistance, or being exhausted. The [ABC entry](#abc-entry) adds personal firmness and perseverance alongside inner suppression in public. The connected meaning is the burden or endurance of a constrained public position, without making persistence proof of eventual release.
 
 ## Links
 

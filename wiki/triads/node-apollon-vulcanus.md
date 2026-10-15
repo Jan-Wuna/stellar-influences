@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Apollon Vulcanus`
 - Astronomicon triad-set: `g ¥ §`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Apollon/Vulcanus = Node](../activations/apollon-vulcanus-equals-node.md)
-- [Node/Apollon = Vulcanus](../activations/node-apollon-equals-vulcanus.md)
-- [Node/Vulcanus = Apollon](../activations/node-vulcanus-equals-apollon.md)
+- [Apollon/Vulcanus = Node](../activations/apollon-vulcanus-equals-node.md): base axis [Apollon/Vulcanus](../axes/apollon-vulcanus.md); activator [Node](../factors/node.md).
+- [Node/Apollon = Vulcanus](../activations/node-apollon-equals-vulcanus.md): base axis [Node/Apollon](../axes/node-apollon.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Node/Vulcanus = Apollon](../activations/node-vulcanus-equals-apollon.md): base axis [Node/Vulcanus](../axes/node-vulcanus.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Apollon/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
-- `Apollon/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `470`
-- `Node/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
-- `Node/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `233`
-- `Node/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
-- `Node/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `237`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Apollon/Vulcanus = Node](../activations/apollon-vulcanus-equals-node.md#witte-entry) (PDF entry-start p. 307); [Node/Apollon = Vulcanus](../activations/node-apollon-equals-vulcanus.md#witte-entry) (PDF entry-start p. 153); [Node/Vulcanus = Apollon](../activations/node-vulcanus-equals-apollon.md#witte-entry) (PDF entry-start p. 155).
+- Udo Rudolph - ABC for Planetary Pictures: [Apollon/Vulcanus = Node](../activations/apollon-vulcanus-equals-node.md#abc-entry) (printed p. 470); [Node/Apollon = Vulcanus](../activations/node-apollon-equals-vulcanus.md#abc-entry) (printed p. 233); [Node/Vulcanus = Apollon](../activations/node-vulcanus-equals-apollon.md#abc-entry) (printed p. 237).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Node`: success through connections, strategic alliances, and being strongly or advantageously linked.
-- `Node/Apollon = Vulcanus`: Unlimited freedom. Expansive power. Strong and outstanding successes in connection with science and industry.
-- `Node/Vulcanus = Apollon`: Success and promotion through mighty connection. To cause much excitement, excitation. Many get excited.
+Node, Apollon and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Node/Apollon](../axes/node-apollon.md)
+- [Node/Vulcanus](../axes/node-vulcanus.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)

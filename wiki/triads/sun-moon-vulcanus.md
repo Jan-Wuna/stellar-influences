@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Moon Vulcanus`
 - Astronomicon triad-set: `S R §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Moon/Vulcanus = Sun](../activations/moon-vulcanus-equals-sun.md)
-- [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md)
-- [Sun/Vulcanus = Moon](../activations/sun-vulcanus-equals-moon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Vulcanus = Sun](../activations/moon-vulcanus-equals-sun.md) | [Moon/Vulcanus](../axes/moon-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/Moon = Vulcanus](../activations/sun-moon-equals-vulcanus.md) | [Sun/Moon](../axes/sun-moon.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = Moon](../activations/sun-vulcanus-equals-moon.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
-- `Moon/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `204`
-- `Sun/Moon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `139`
-- `Sun/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `170`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Moon/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/moon-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `136`.
+- `Moon/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/moon-vulcanus-equals-sun.md#abc-entry), printed p. `204`.
+- `Sun/Moon = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `101`.
+- `Sun/Moon = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-vulcanus.md#abc-entry), printed p. `139`.
+- `Sun/Vulcanus = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-moon.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Moon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-moon.md#abc-entry), printed p. `170`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Sun`: To cause public interest through others, or others cause public interest for the native. To experience great events with others. Being connected with others through great events and having together great influence on the public, to meet these people socially.
-- `Sun/Moon = Vulcanus`: This formula emphasizes powerful embodiment and concentrated vitality.
-- `Sun/Vulcanus = Moon`: This formula emphasizes powerful embodiment and concentrated vitality in ordinary life.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Chiron = Asc`
 - Astronomicon formula: `Q/Chiron = Asc`
 - Axis page: [Venus/Chiron](../axes/venus-chiron.md)
@@ -35,12 +37,29 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 60 (exact entry passage checked in the raw PDF text).
+
 One’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.
+
+## Comparative Schema
+
+- Core meaning: A loving presence creates relational harmony.
+- Psychology: Peace expressed through personality.
+- Body/health: No bodily condition or treatment claim.
+- Social/relationship: An atmosphere of accord around the person.
+- Events/manifestations: A calming social atmosphere; no specific event.
+- Conflicts/notes: This short entry gives one constructive possibility and no adverse range.
+
+These categories follow the [Sandbach entry](#sandbach-entry).
+
+## Contradictions
+
+This short entry gives one constructive possibility and no adverse range. No second source is represented for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Chiron = Asc`: one’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.
+Asc specifies Venus/Chiron through the immediate impression a person makes: a loving, peaceful presence helps create harmony around them. The emphasis is the atmosphere of interaction, rather than a particular achievement or relationship outcome. Sandbach supplies no separate account of difficulties for this orientation. ([Sandbach](#sandbach-entry).)
 
 ## Links
 

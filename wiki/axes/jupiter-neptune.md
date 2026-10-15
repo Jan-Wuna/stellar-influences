@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Neptune
 factor_a: Jupiter
 factor_b: Neptune
 related_activations:
+  - Jupiter/Neptune = Jupiter
+  - Jupiter/Neptune = Neptune
   - Jupiter/Neptune = Admetos
   - Jupiter/Neptune = Apollon
   - Jupiter/Neptune = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/NEPTUNE`
-- Source page: `263`
+- Source heading: `JUPITER + NEPTUNE`
+- PDF page: `209`
 
 #### Pair Summary
 
@@ -88,9 +92,11 @@ Lucky mood. Easily acquired money. Shortage of money. Money losses. Easily made 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `328–329`; PDF page: `163`.
+
 #### ABC Pair Summary
 
-financial weakness, foreign money, foreign reverence, joy in the air, money weakness, glticks expectations, legal uncertainty, water law, and future happiness
+Disappointed good fortune, success through sensitivity, financial weakness, others' or foreign money, others' or foreign law, joy in the air, money weakness, expectations of good fortune, legal uncertainty, water law, and future happiness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -240,14 +246,17 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** Expansive imagination and idealism, with compassion and hope that can exceed material certainty ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+- **Psychology:** Rich feeling, artistic vision, and spiritual interest coexist with susceptibility, excessive fantasy, and disappointment when reality differs from an ideal.
+- **Body/health:** Ebertin's organ and blood claims, Carter's bodily and psychiatric anecdotes, and Munkasey's metabolic correspondences remain attributed historical assertions. None is used here as a diagnosis or medical explanation.
+- **Social/relationship:** Humanitarian concern, hospitality, charitable help, and forgiveness recur; overgiving, overlooking faults, and unclear expectations are difficult alternatives ([Carter](#charles-carter---the-astrological-aspects); [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+- **Events/manifestations:** Art, music, religious or charitable activity, speculative gains and losses, and uncertain possessions are explicit possibilities. Falis adds oil, water, and large imaginative creations as distinctive examples.
+- **Conflicts/notes:** Carter retains aspect-specific and contextual conditions; their outcomes are not universal midpoint rules. ABC's `fremdes` permits others' or foreign money/law; its disappointment, sensitivity, uncertainty, and future happiness retain a range of possibilities.
 
 ## Related Activations
+
+- [Jupiter/Neptune = Jupiter](../activations/jupiter-neptune-equals-jupiter.md)
+- [Jupiter/Neptune = Neptune](../activations/jupiter-neptune-equals-neptune.md)
 
 - [Jupiter/Neptune = Admetos](../activations/jupiter-neptune-equals-admetos.md)
 - [Jupiter/Neptune = Apollon](../activations/jupiter-neptune-equals-apollon.md)
@@ -273,15 +282,14 @@ Fatty deposits in body caused by stress or weakness; not enough exercise or body
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Compassionate service and impractical dreaming overlap in the entries without being the same outcome. Easy gain, shortage, and losses are presented as a range; Carter further qualifies his aspect interpretations by the surrounding configuration. His historical gendered and medical judgments remain attributed to him.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune` is the axis of idealism, compassion, expansive imagination, spiritual or artistic longing, and hope that reaches beyond ordinary limits. It combines generosity, faith, and possibility with sensitivity, fantasy, mysticism, and the urge to redeem or uplift.
-- Chart expression: humanitarian feeling, rich vision, artistic or devotional inspiration, and the desire to help, forgive, dream, or believe in something larger than material life. Its main liability is lack of realism: gullibility, speculation, self-deception, waste, scandal, blurred judgment, or chasing a beautiful possibility that cannot hold in concrete reality.
+Jupiter/Neptune describes hope and feeling reaching beyond immediate material circumstances. Imagination, spiritual interest, and concern for others can become art, music, hospitality, or service undertaken with little thought of personal gain. The connecting theme is receptivity to a larger possibility, whether envisioned creatively or felt as compassion ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Carter](#charles-carter---the-astrological-aspects); [Hand](#robert-hand---horoscope-symbols)).
+
+That openness can also weaken discrimination: an attractive possibility may be mistaken for something secure, sympathy may become overgiving, or forgiveness may leave a relationship unclear. Dreaming, speculation, waste, and being easily deceived are sourced alternatives to constructive idealism, not inevitable results. The financial range includes both gain and loss, while spiritual and artistic fulfillment remains a separate kind of benefit ([Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Munkasey, printed p. 263](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); [Falis](#michelle-falis---planet-combinations-astrological-brainstorms)).
 
 ## Links
 

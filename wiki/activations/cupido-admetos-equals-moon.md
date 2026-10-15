@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Moon Cupido Admetos](../triads/moon-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 271 (printed 275).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Women, whose husbands are absent, lonely and deserted women. Passing association
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 432).
+
 #### ABC Entry
 
-Community of the people, blocked Community of the people, depressed Community of the people, narrowed Community of of women, consolidated Community of of women, common Community of the people, and united Community of the people
+Editorial English translation, checked against the German scan:
+
+Endurance of a people's community; blocked community of feeling; depressed people's community; restricted women's community; consolidated women's community; consolidating shared feelings; thorough people's community; suppressed emotional community.
+
+## Comparative Schema
+
+- core meaning: Restricted or enduring collective feeling, alongside lonely or passing association.
+- psychology: Lonely relaxation, depressed communal feeling and consolidation of shared feelings.
+- body/health: No specific physical or medical claim; source emotional terms do not establish diagnoses.
+- social/relationship: Witte's historical examples concern women with absent husbands, deserted women and passing association.
+- events/manifestations: Restricted or consolidated women's communities; suppressed emotional community and communal endurance.
+- conflicts/notes: Gendered examples stay attributed; ABC includes firmer shared feeling as well as restriction.
+
+## Contradictions And Differences
+
+Gendered examples stay attributed; ABC includes firmer shared feeling as well as restriction. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Moon`: emotional solitude, temporary female or domestic company, and the quiet ache of absence in close life. Main caution: normalizing loneliness as one's emotional resting state.
+`Cupido/Admetos = Moon` concerns association as an emotional or collective experience. The [Witte entry](#witte-entry) uses historical examples of women with absent husbands, lonely or deserted women, passing association and solitary relaxation. The [ABC entry](#abc-entry) broadens the range to restricted or consolidated women's communities and the endurance, blockage or suppression of collective feeling. Consolidating shared feelings is also explicit, so the formula does not establish loneliness or emotional harm for every woman or community.
 
 ## Links
 

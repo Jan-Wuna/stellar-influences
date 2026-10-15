@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Asc Cupido`
 - Astronomicon triad-set: `Y Asc ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md)
-- [Neptune/Asc = Cupido](../activations/neptune-asc-equals-cupido.md)
-- [Neptune/Cupido = Asc](../activations/neptune-cupido-equals-asc.md)
+- [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md): base axis [Asc/Cupido](../axes/asc-cupido.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Asc = Cupido](../activations/neptune-asc-equals-cupido.md): base axis [Neptune/Asc](../axes/neptune-asc.md); activator [Cupido](../factors/cupido.md).
+- [Neptune/Cupido = Asc](../activations/neptune-cupido-equals-asc.md): base axis [Neptune/Cupido](../axes/neptune-cupido.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
-- `Asc/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `123`
-- `Neptune/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `392`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md#witte-entry) (PDF entry-start p. 91); [Neptune/Asc = Cupido](../activations/neptune-asc-equals-cupido.md#witte-entry) (PDF entry-start p. 89); [Neptune/Cupido = Asc](../activations/neptune-cupido-equals-asc.md#witte-entry) (PDF entry-start p. 247).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Cupido = Neptune](../activations/asc-cupido-equals-neptune.md#abc-entry) (printed p. 123); [Neptune/Asc = Cupido](../activations/neptune-asc-equals-cupido.md#abc-entry) (printed p. 119); [Neptune/Cupido = Asc](../activations/neptune-cupido-equals-asc.md#abc-entry) (printed p. 392).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Neptune`: breakdown of betrothal, parental letdown, weakened home cohesion, or shortage of adequate living space.
-- `Neptune/Asc = Cupido`: This activation moves deception into marriage, home, and intimate belonging, showing unhappy unions, secrecy in domestic life, or disillusionment about the true state of close bonds.
-- `Neptune/Cupido = Asc`: This activation personalizes relational uncertainty through precarious unions, brief partnerships, and unsettled domestic conditions, making belonging itself feel unstable or unreliable.
+Neptune, Asc and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Cupido](../axes/asc-cupido.md)
+- [Neptune/Asc](../axes/neptune-asc.md)
+- [Neptune/Cupido](../axes/neptune-cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Venus Jupiter MC](../triads/venus-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Venus row under `Meridian + Jupiter`.
 
 Blissful feelings because of love.
 
@@ -45,17 +49,25 @@ Blissful feelings because of love.
 
 #### ABC Entry
 
-Enchanted love joy, money through my kiss, my kiss success, my right to peace, my right to love, my joy at the kiss, my advantages through harmony, minute of love happiness, and psychic satisfaction through the kiss
+- Source reference: printed p. 74; one-based PDF p. 36, Venus row under `MC + Jupiter`.
+
+> Beseelte Liebes-Freude, Geld durch meine Kunst, mein Kunst-Erfolg, mein Recht auf Frieden, mein Recht auf Liebe, meine Freude an der Kunst, meine Vorteile durch Harmonie, Minute des Liebes-Glücks, seelische Zufriedenheit durch Kunst
+
+Editorial translation: Soulful joy in love; money through my art; my artistic success; my right to peace; my right to love; my joy in art; my advantages through harmony; a minute of happiness in love; inner satisfaction through art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 244; one-based PDF p. 246, coded entry `0858` (`Jupiter/Medium Coeli = Venus`).
 
 Richness of feelings, artistic aspirations and aims, capacity for an abundant expression of love. Success in artwork, happiness in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 86, complete Venus entry under `Jupiter/Midheaven`.
 
 To be attracted to people with authority, or who have a lot of integrity. To love for one’s work to grow and unfold. To love art that synthesizes many things together. To find it easy to get along with employers.
 
@@ -66,26 +78,29 @@ To be attracted to people with authority, or who have a lot of integrity. To lov
 
 #### Munkasey Entry
 
+- Source reference: printed p. 280; one-based PDF p. 281, `Ven` row under `JUPITER/MIDHEAVEN with Planets and Points`.
+
 Highlights your need to bring various forms of relaxation and introspection into your life as part of your learning and growing process; realizing the importance of cooperation given to or received from others in life.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal growth and happiness are expressed through love, artistic aspiration and cooperation.
+- psychology: Rich feeling, joy in art, inner satisfaction and the place of relaxation or introspection in learning.
+- body/health: Munkasey mentions relaxation without asserting a medical outcome.
+- social/relationship: Happiness in love, attraction to integrity or authority, ease with employers and cooperation.
+- events/manifestations: Artistic success, income through art, satisfying love and supportive professional contact are source examples, not promised outcomes.
+- conflicts/notes: ABC's rights to peace and love and its income-through-art phrase retain their own scope alongside the other entries' feelings, work and cooperation.
 
 ## Contradictions
 
-- None recorded yet.
+The entries supply complementary settings for affection and satisfaction. ABC names artistic income, success and inner satisfaction as well as rights to peace and love; Sandbach describes enjoyment of developing work and relations with employers, while Munkasey adds reflection and cooperation. The sources do not establish that affection or artistic interest guarantees financial or professional success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Venus`: rich feeling, art interests, favorable ties with employers or authority, and a public style helped by charm, love, or aesthetic value. Main caution: comfort and idealized pleasure: attraction to what feels good can soften discipline or make fulfillment seem easier than it is.
+In `Jupiter/MC = Venus`, Venus specifies personal happiness through loving, artistic and cooperative participation. [Witte](#witte-entry) names fulfillment through love, while [Ebertin](#ebertin-entry) joins rich feeling with artistic aims. The [ABC entry](#abc-entry) makes art a source of joy, inner satisfaction and possible income, and also names rights to peace and love.
+
+[Sandbach](#sandbach-entry) extends this to enjoying one's developing work and getting along with employers. [Munkasey](#munkasey-entry) brings relaxation, reflection and mutual help into growth. The connecting theme is development made rewarding through appreciation and relationship; the financial and professional expressions remain possibilities within that range.
 
 ## Links
 

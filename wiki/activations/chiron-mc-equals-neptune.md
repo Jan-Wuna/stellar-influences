@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/MC](../axes/chiron-mc.md)
 - Triad hub: [Chiron Neptune MC](../triads/chiron-neptune-mc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,21 @@ updated_at: 2026-04-21
 
 Intuitive insights into the life purpose of both oneself and others. An idealism that looks to heal the negative parental and authoritarian images that have plagued the world.
 
+Source locator: one-based PDF page 103, exact activation paragraph; PDF page 102 is the chapter start. Checked against the actual PDF.
+
+## Comparative Schema
+
+- **Core meaning:** Intuitive life-purpose insight and idealism directed toward healing negative parental and authoritarian images.
+- **Psychology:** Insight concerns both one's own purpose and other people's purpose.
+- **Body/health:** Healing concerns images of parents and authority; the paragraph gives no clinical diagnosis or treatment.
+- **Social/relationship:** The negative images are described as a problem affecting the world.
+- **Events/manifestations:** Seeking to heal those images is the stated idealistic aim.
+- **Conflicts/notes:** Sandbach describes an aim, without promising successful healing or adding a warning about vague or ungrounded intuition.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Neptune`: compassionate vision, intuitive guidance, and vocation shaped by idealistic healing of collective wounds. Main caution: vagueness or idealization when insight is not grounded.
+`Chiron/MC = Neptune` combines intuitive insight into one's own and others' life purpose with an idealistic wish to heal negative parental and authoritarian images. Sandbach gives that wish a wider social scope by describing the images as having plagued the world; he does not specify how the healing occurs. ([Sandbach Entry](#sandbach-entry))
 
 ## Links
 

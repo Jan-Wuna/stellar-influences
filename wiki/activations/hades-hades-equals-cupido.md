@@ -26,6 +26,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `¢/¢ = ¡`
 - Axis page: [Hades/Hades](../axes/hades-hades.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -33,10 +34,23 @@ updated_at: 2026-04-21
 
 Paupers. Marriage in poverty. Low and vile company. Egoism. Individualism. Poor societies or associations. Unfortunate firms. Sad environment. Storage of supply. To stock. To hoard. Collection of antiques. Museums. Socially low surroundings. Coarse art. Unsuccessful art. Poor family. Sad social circumstances. Dirty, lowbrow art, and bad art productions.
 
+## Comparative Schema
+
+- **Core meaning:** The repeated pair is specified in family, associations, art, and collections, with poverty or difficulty prominent.
+- **Psychology:** Egoism and individualism are source keywords; collecting antiques is not established as a sign of either.
+- **Body/health:** No distinct illness or bodily mechanism is described.
+- **Social/relationship:** Marriage in poverty, a poor family, struggling firms, and associations are explicit settings.
+- **Events/manifestations:** Stocking supplies, hoarding, antique collections, museums, and unsuccessful artistic production are included.
+- **Conflicts/notes:** The source's class and aesthetic judgments remain attributed; museums and antiques are not inherently degraded or “past their prime.”
+
+## Contradictions
+
+Only one source entry is present. Collecting and social hardship are separate examples; their juxtaposition does not prove a causal connection.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Hades = Cupido`: worn-down partnership or group belonging. It can show poor relations, degraded artistic or social circles, or attachment to old objects, lowbrow art, museums, and the preservation of what is already past its prime.
+In `Hades/Hades = Cupido`, Cupido specifies the repeated Hades pair through family and group circumstances, artistic production, and collected objects. The [Witte entry](#witte-entry) includes marriage or family in poverty and struggling associations, while also recording stocks of supplies, hoarding, antiques, and museums (PDF entry start p. 276). The reading should keep these settings distinct. Its moralized descriptions of social company or art do not establish that poverty, collecting, or preserving older objects is itself a personal or cultural failing.
 
 ## Links
 

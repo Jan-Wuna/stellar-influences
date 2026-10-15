@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS + VULCANUS`
+- PDF page: `188`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ The biological urge of man. Great power of attraction. Passion. Mighty love. Ard
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `294–295`; PDF page: `146`
+
 #### ABC Pair Summary
 
-One flour of beauty, peace power, harmonious force, power of joy, artificial influence, love energy, love violence, power of love, powerful harmony, and strength of the female principle
+Influence of beauty, power of peace, harmonious force, power of joy, influence of art, energy of love, force or violence in love, power of love, mighty harmony, strength of the feminine principle.
+
+German pair summary checked: “Einfluß der Schönheit, Friedens-Macht, harmonische Kraft, Kraft der Freude, Kunst-Einfluß, Liebes-Energie, Liebes-Gewalt, Macht der Liebe, mächtige Harmonie, Stärke des weiblichen Prinzips”. `Gewalt` carries force/power and violence; the pair summary alone does not specify which expression occurs.
+
+## Comparative Schema
+
+- Core meaning: Powerful attraction, love, beauty, and harmony join force with affection and artistic influence.
+- Psychology: Passion, ardent desire, and longing range from strong devotion to the source's "overblown love."
+- Body/health: The pair summary's "biological urge of man" is historical language for bodily desire; it supplies no medical diagnosis or outcome.
+- Social/relationship: Great attraction and mighty love are explicit. The ABC entry also uses a gendered "female principle," which remains an attributed symbolic category.
+- Events/manifestations: Passionate action, influential art or beauty, and the force of joy or peace are explicit, without a specified relationship event.
+- Conflicts/notes: Witte's overblown love and ABC's Liebes-Gewalt preserve excessive or forceful possibilities beside harmony. Gewalt can mean power or violence; neither coercion nor a beneficial outcome follows necessarily from the pair.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ One flour of beauty, peace power, harmonious force, power of joy, artificial inf
 - [Venus/Vulcanus = Vernal Point](../activations/venus-vulcanus-equals-vernal-point.md)
 - [Venus/Vulcanus = Zeus](../activations/venus-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Strong love and harmony coexist with Witte's “overblown love” and ABC's “Liebes-Gewalt.” The latter allows force/power or violence in love; its ambiguity must not erase either the peaceful motifs or the possible excess.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus`: the biological urge of man.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Venus/Vulcanus describes affection and attraction experienced with great force: ardent desire, longing, and passionate action. The same force can appear in beauty or art that exerts an influence, in the power of joy, and in efforts toward peace and harmony. Love is thus one expression of a broader capacity for attraction and harmonious influence ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
+
+The range also includes Witte's “overblown love” and ABC's “Liebes-Gewalt,” whose force/power or violence must be read with its peaceful themes. Powerful affection can therefore be harmonious or excessive; the pair alone does not decide the expression or establish coercion. Bodily desire and the source's feminine principle remain explicit, without becoming a medical conclusion or a limit on who can express the pair ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
 
 ## Links
 

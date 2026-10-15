@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Venus Cupido Admetos](../triads/venus-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 271 (printed 275).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Love without duration. Denial of efforts by others for a partnership or the reve
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 432).
+
 #### ABC Entry
 
-Blocked peace community, restricted love community, end of a harmonious community, joy of a consolidated community, stagnant traffic community, fundamental harmony in of a community, and deepening into the arts of love
+Editorial English translation, checked against the German scan:
+
+Blocked peace community; restricted love community; end of a harmonious community; joy of a consolidated community; stalled traffic community; thorough harmony within a community; deepening in the art of love.
+
+## Comparative Schema
+
+- core meaning: Love and harmony constrained or ended, with joy in consolidated community also present.
+- psychology: Coolness or negativity in efforts toward partnership; joy in a firm community.
+- body/health: No specific physical or medical claim.
+- social/relationship: Short-lived love, denied partnership efforts and restricted loving or peaceful association.
+- events/manifestations: End of a harmonious community; stalled traffic community; thorough harmony and deepening in the art of love.
+- conflicts/notes: Witte's cool or short-lived association differs materially from ABC's consolidated joy and harmony.
+
+## Contradictions And Differences
+
+Witte's cool or short-lived association differs materially from ABC's consolidated joy and harmony. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Venus`: affection that cannot sustain, to relational efforts that fail to warm the bond, and to social coldness. Main caution: mistaking temporary attraction for enduring union.
+`Cupido/Admetos = Venus` concerns affection and harmony under limits. The [Witte entry](#witte-entry) stresses love without duration, denied partnership efforts and cool responses; the [ABC entry](#abc-entry) includes restricted love and ended harmony, but also joy in a consolidated community, thorough harmony and deepening in the art of love. Its separate traffic-community clause remains part of the source range. The positive clauses prevent treating rejection or brevity as the formula's sole meaning.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Neptune`
 - Astronomicon formula: `S/Z = Y`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,23 +41,39 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Imperceptible changes in the body. Weakened condition. The lack of appetite. To be very fastidious about food. Refusing of rich foods. To try unfamiliar food. Rejection of narcotics and drugs.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-disappointing development of the person, subtle development of the body, personal development for the future, weak bodily development, growing bodily weakness, growing refinement of the body, and center for air changes see above
+- Source passage: `Sonne + Pluto`; printed p. `157`; one-based PDF page `77` (oriented row checked against the scan).
+
+disappointing development of the person, subtle development of the body, personal development for the future, weak bodily development, growing bodily weakness, growing refinement of the body, and center for changes in air
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-in physical or mental development, high degree of sensitivity and impressionability, lack of vigor. Undermining of health or of vocational position, martyrdom. 15 Sun/Pluto = Uranus is often found in the charts of pioneers who introduce new ideas, inventions or reforms with great effort and exertion. 16 Sun/Pluto = Neptune has frequently shown a tendency to blood diseases or poliomyelitis.
+- Source passage: `Sun/Pluto`; printed p. `102`; one-based PDF page `104`; entry code `0286` and footnote `16` (checked against actual text and scan; adjacent footnote `15` marked as Uranus context).
+
+Impediments in physical or mental development, high degree of sensitivity and impressionability, lack of vigor. Undermining of health or of vocational position, martyrdom.
+
+##### Ebertin Footnote 16
+
+16 Sun/Pluto = Neptune has frequently shown a tendency to blood diseases or poliomyelitis.
+
+##### Ebertin Adjacent Footnote 15 - Uranus Context
+
+15 Sun/Pluto = Uranus is often found in the charts of pioneers who introduce new ideas, inventions or reforms with great effort and exertion.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `21` (exact Neptune entry checked in actual raw PDF text).
 
 Personal power expressed in a refined or subtle manner. Obsessively focus ing on goals drains one’s energy. The ability to intuitively perceive the ego state of other people and the ways that it needs to be transformed.
 
@@ -70,22 +88,21 @@ Weakens resolve to conquer the world alone; a lessened intensity of purpose in l
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development and personal power become subtle, refined, weakened or obstructed.
+- psychology: Goal fixation may drain energy; intuitive insight, inspiration, devotion and lessened solitary ambition are also present.
+- body/health: Witte's weakness/appetite examples and Ebertin's developmental and disease claims remain historical associations.
+- social/relationship: Subtle awareness of another's ego and undermined vocational position supply interpersonal or public settings.
+- events/manifestations: Unfamiliar foods, refusal of rich foods or drugs, future-oriented development and bodily refinement are named.
+- conflicts/notes: Ebertin's footnote16 belongs to Neptune; adjacent footnote15 concerns Uranus and is preserved as context rather than Neptune doctrine.
 
 ## Contradictions
 
-- None recorded yet.
+The sources include both refinement and diminished vigor, without establishing one necessary outcome. Witte's rejection of narcotics remains distinct from an inference of drug use.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Neptune`: the ability to perceive and work beneath the surface, especially where power and ego need healing or reorientation. Main caution: exhaustion: obsessive focus, undermined health, or self-sacrificing power struggles can consume force from within.
+In `Sun/Pluto = Neptune`, change can be imperceptible or refined, while concentrated purpose may lose force or drain energy. Intuitive perception of another's ego, inspiration and devotion give the subtle expression a relational or spiritual form. Bodily weakness, appetite and food choices supply specific traditional settings, and vocational undermining is another adverse example. Ebertin's developmental and disease correspondences remain attributed historical claims; the separately preserved Uranus footnote does not describe this orientation. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

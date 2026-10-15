@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Node`
 - Astronomicon formula: `W/g = g`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -41,22 +43,21 @@ Added needs to associate with people who have similar ideas in life to yours; op
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Finding assistance through like-minded, conscientious associates.
+- psychology: A stronger need to associate with people who share one's ideas.
+- body/health: No bodily or health claim appears in this entry.
+- social/relationship: Cooperation with careful workers and help from older, wiser people.
+- events/manifestations: Opportunities for group work and meetings that bring assistance.
+- conflicts/notes: This With Itself entry describes opportunities and assistance; it does not establish outcomes for every association.
 
 ## Contradictions
 
-- None recorded yet.
+This single entry presents compatible forms of association and assistance; it provides no comparison from which to establish a source disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Node`: Added needs to associate with people who have similar ideas in life to yours; opportunities to work with people or groups who are conscientious about their efforts; meeting older and wiser people who offer assistance.
+In `Saturn/Node = Node`, Node specifies the Saturn/Node connection through the people one seeks and meets: shared ideas and conscientious effort make cooperation possible, while older or wiser associates offer help. The emphasis is on finding useful, compatible company and opportunities to work together ([Munkasey](#munkasey-entry), p. 298). These are possibilities in this With Itself entry, with no bodily or health interpretation supplied.
 
 ## Links
 

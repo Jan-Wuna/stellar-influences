@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Asc = Cupido`
 - Astronomicon formula: `V/Asc = ¡`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: PDF p. 86.
+
 Wedding guests. Harmony in the family. One’s own peaceful home is one’s paradise.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of another community, successful local community, successful partner community, local financial community, joint community success, local community success, and satisfied artists on site
+- Source reference: printed p. 113; PDF p. 55.
+
+Success of another community, a successful local community, a successful partner community, a local financial community, shared environmental success, shared joy at the location, a location's community rights, and contented artists at the location.
+
+
+## Comparative Schema
+
+- Core meaning: Peaceful home and successful communities.
+- Psychology: Shared joy and contentment.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Family harmony, wedding guests, and partner or local communities.
+- Events/manifestations: Local financial community, community rights, and contented artists.
+- Conflicts/notes: The formula extends beyond the household into local collective life.
+
+## Contradictions
+
+ABC's community rights and local artists broaden Witte's home and family range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Asc = Cupido`: good fortune expressed through family accord, celebration, and private happiness. It favors sociable harmony inside the household and intimate circle.
+In `Jupiter/Asc = Cupido`, Cupido specifies the Jupiter/Asc axis through family harmony, community success, and shared local enjoyment. Family harmony, wedding guests and a peaceful home give the formula an intimate expression. Shared local joy, successful communities, community rights and contented artists extend it beyond the household. The common field is a harmonious group or place in which enjoyment and practical community success are shared. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

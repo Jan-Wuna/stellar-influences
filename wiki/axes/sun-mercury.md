@@ -21,12 +21,14 @@ related_activations:
   - Sun/Mercury = Kronos
   - Sun/Mercury = Mars
   - Sun/Mercury = MC
+  - Sun/Mercury = Mercury
   - Sun/Mercury = Moon
   - Sun/Mercury = Neptune
   - Sun/Mercury = Node
   - Sun/Mercury = Pluto
   - Sun/Mercury = Poseidon
   - Sun/Mercury = Saturn
+  - Sun/Mercury = Sun
   - Sun/Mercury = Uranus
   - Sun/Mercury = Venus
   - Sun/Mercury = Vernal Point
@@ -74,13 +76,15 @@ updated_at: 2026-06-20
 - Axis: `Sun/Mercury`
 - Astronomicon axis: `S/T`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Mercury/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/MERCURY`
-- Source page: `59`
+- Source heading: `SUN + MERCURY`
+- Source page: PDF p. 103.
 
 #### Pair Summary
 
@@ -90,9 +94,13 @@ A body in motion. Young body. The head. The nerves. Consciousness. Thoughts in g
 
 #### ABC Pair Summary
 
-Thinking man, mobile body, young people, body language, media center, person conversion, personal language, personal youth, personal opinion, persijnliche Schrift, language center, and Tages conversation
+- Source page: printed pp. 142–143; PDF p. 70.
+
+Thinking person, movable body, young people, body language, media center, traffic of people, personal conversations, personal youth, personal opinion, personal writing, speech center, conversations of the day.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 80; PDF p. 82.
 
 #### Principle
 
@@ -112,15 +120,20 @@ Young people, intellectual workers, business people.
 
 #### Probable Manifestations
 
-+ Good chances of developing the practical and mental faculties, success in business. - Inclination to nervousness through overwork. O/S
++ Good chances of developing the practical and mental faculties, success in business. - Inclination to nervousness through overwork.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
+- Source locator: PDF pp. `5–6`, complete pair brainstorm ending before Sun/Venus; verified line-break word splits are joined.
+- Editorial note: the unusual printed phrase `using physical gestures are moving around a lot of possibilities` is retained literally.
+
 #### Falis Entry
 
-Identifying with your thoughts. Self-absorbed thought patterns. Fusing together your identity and the way you think. Becoming overly fond of your own ideas. You are what you think. I think therefore I am. I am my thoughts. Thinking and being fused together. Self-identified tricksters. Self-identified nervous wrecks. To exist is to communicate. Communicating is part of who you are. Talkers. To be yourself you must find a way to communicate who you are. The method of communication you choose defines you. You realize yourself by expressing your thoughts. You find out who you are through your ability to express yourself clearly. You have to speak up for yourself. You have to speak up on your own behalf. You must learn to let the world know who you are and what you want. Exploring communication methods gives you the tools you need to become better aware of who you are. The more clearly you communicate, the better people under stand what you are about. Clear communication affects your vitality. Clear com munication affects your ability to be creative. Clear communication influences how much you feel like yourself. Frustration comes through poor communication skills. Writing, speaking, teaching and listening are skills that, when developed, encour age personal growth. You identify yourself as a writer, teacher, instructor, blogger, or person who has something important to say. You may give more weight to your words than is warranted. Myopic. Can't see past the end of your nose. You are so closely identified with your own thoughts that it never occurs to you that you might be wrong. If someone challenges your viewpoint it feels as if they are challenging you. Ego and thoughts wrapped up together. Lack of objectivity. Needing to communicate who you are. People for whom affirmations work. Cultivating the habit of being consciously aware of what you are thinking. Developing mindfulness. A relentless inner mono logue. Having an internal narrator. Being consciously aware of the tendency to nar rate your life as you are living it. Writing an autobiography. Being so wrapped up in thinking about yourself that you are never fully present in your own life. Spending a lot of time thinking about what people think about you. Self-centered thought pat terns. Because there is such a strong link between your mind and who you are, your words match your core self. Impossible to separate how you think from who you are. Curiosity. Inability to keep your attention focused. Scattered objectives. In addition to com municating through spoken language, communicating through body language in the form of being a dancer, using physical gestures are moving around a lot of possibilities. Comedians who use slapstick or physical gags. Mimics. Imper sonators. People who like puzzles, games and solving riddles. Storytellers. Salespeople. Hawkers. Barkers. Carnies. Ad men. Talking heads. News anchors. Taxi drivers. Bus drivers. Chauffeurs. People who like to bike around town. Skate boarders. Gossips. Sibling relationships have a strong influence over who you are. You identify with your siblings. Dad strongly identified with his own thoughts. Dad was a thinker. Dad likes games. Dad lacks objectivity. Dad had a strong relationship with a sib ling. One of your father's siblings had a strong influence over him. Your father has manual dexterity. Your father works with his hands. Your father shines through his intellect. Dad is a reader.
+Identifying with your thoughts. Self-absorbed thought patterns. Fusing together your identity and the way you think. Becoming overly fond of your own ideas. You are what you think. I think therefore I am. I am my thoughts. Thinking and being fused together. Self-identified tricksters. Self-identified nervous wrecks. To exist is to communicate. Communicating is part of who you are. Talkers. To be yourself you must find a way to communicate who you are. The method of communication you choose defines you. You realize yourself by expressing your thoughts. You find out who you are through your ability to express yourself clearly. You have to speak up for yourself. You have to speak up on your own behalf. You must learn to let the world know who you are and what you want. Exploring communication methods gives you the tools you need to become better aware of who you are. The more clearly you communicate, the better people understand what you are about. Clear communication affects your vitality. Clear communication affects your ability to be creative. Clear communication influences how much you feel like yourself. Frustration comes through poor communication skills. Writing, speaking, teaching and listening are skills that, when developed, encourage personal growth. You identify yourself as a writer, teacher, instructor, blogger, or person who has something important to say. You may give more weight to your words than is warranted. Myopic. Can't see past the end of your nose. You are so closely identified with your own thoughts that it never occurs to you that you might be wrong. If someone challenges your viewpoint it feels as if they are challenging you. Ego and thoughts wrapped up together. Lack of objectivity. Needing to communicate who you are. People for whom affirmations work. Cultivating the habit of being consciously aware of what you are thinking. Developing mindfulness. A relentless inner monologue. Having an internal narrator. Being consciously aware of the tendency to narrate your life as you are living it. Writing an autobiography. Being so wrapped up in thinking about yourself that you are never fully present in your own life. Spending a lot of time thinking about what people think about you. Self-centered thought patterns. Because there is such a strong link between your mind and who you are, your words match your core self. Impossible to separate how you think from who you are. Curiosity. Inability to keep your attention focused. Scattered objectives. In addition to communicating through spoken language, communicating through body language in the form of being a dancer, using physical gestures are moving around a lot of possibilities. Comedians who use slapstick or physical gags. Mimics. Impersonators. People who like puzzles, games and solving riddles. Storytellers. Salespeople. Hawkers. Barkers. Carnies. Ad men. Talking heads. News anchors. Taxi drivers. Bus drivers. Chauffeurs. People who like to bike around town. Skateboarders. Gossips. Sibling relationships have a strong influence over who you are. You identify with your siblings. Dad strongly identified with his own thoughts. Dad was a thinker. Dad likes games. Dad lacks objectivity. Dad had a strong relationship with a sibling. One of your father's siblings had a strong influence over him. Your father has manual dexterity. Your father works with his hands. Your father shines through his intellect. Dad is a reader.
 
 ### Charles Carter - The Astrological Aspects
+
+- Source locator: printed/PDF pp. `8–9`, complete pair overview and Examples ending before Sun/Venus. The source's spelling, quotations and aspect qualifications are retained.
 
 #### Pair Overview
 
@@ -152,13 +165,16 @@ Psychologically the mind will benefit by the cultivation of adaptability, and by
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF p. 8.
+- Editorial note: the actual printed spellings `orqamzinq` and `thouqhts` are retained; their context concerns organizing thoughts. The visible split `communi cates` is joined editorially.
+
 #### Principle
 
 The purposeful orqamzinq of thouqhts and the ability to rank ideas in terms of their relative importance. The ability to communicate objectively. The importance of one’s ideas. One’s own ideas. Egotistical thinking. Thinking for oneself.
 
 #### Process
 
-One perceives the relative value of each and every idea and is able to see them as a part of a larger, meaningful pattern. One prioritizes when one communi cates, which makes the communication clear and meaningful.
+One perceives the relative value of each and every idea and is able to see them as a part of a larger, meaningful pattern. One prioritizes when one communicates, which makes the communication clear and meaningful.
 
 ### Robert Hand - Horoscope Symbols
 
@@ -201,23 +217,23 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Mercury: Cleverness`
-- PDF page(s): `280`
+- PDF page(s): `280–281`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Smart King and His Herald
 - shadow: The Boss and His Wily Attorney
 - comparison: Mind Reason Organization Tactic Venturing Calculating Courage to face life Agility Will to live Orientation
-- general: Perceiving, understanding, thinking through, ordering, and formulating (all ) what is essential . The distance between critical perception ( ) and subjective wanting . Self-criticism . Making oneself understood ( ). Since the Sun and Mercury are never more than 28° apart from each other, there are no tension aspects between these two planets.
+- general: Perceiving, understanding, thinking through, ordering, and formulating (all ☿) what is essential (☉). The distance between critical perception (☿) and subjective wanting (☉). Self-criticism (☉-☿). Making oneself understood (☿). Since the Sun and Mercury are never more than 28° apart from each other, there are no tension aspects between these two planets. Their concurrence is judged by other criteria: If the Sun and Mercury are in different signs, this increases the objectivity of the thoughts because thinking (☿) can take another standpoint than the will (☉). If they are in the same sign, thinking loses the critical distance to the character and is subjectively colored by the will. The most favorable distance between the Sun and Mercury is considered to be an interval of 3° to 8° because here—expressed in images—Mercury's power of thought can develop in the Sun's best light. If the distance is less, it is called a “combust Mercury”: it no longer produces any achievements of its own but stands completely in the Sun's service, exclusively concerned with justifying the Sun's activities. The crass subjectivity of this conjunction is also valid if the two planets are not located in the same sign.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Conscious thought and the mental or verbal expression of personal purpose. ([Ebertin](#principle), [Hand](#pair-delineation))
+- psychology: Clear practical reasoning, organization, wit, and curiosity contrast with scattered aims or identification with one's own ideas so strong that criticism feels personal. ([Ebertin](#psychological-correspondence), [Falis](#falis-entry), [Munkasey, source p. 59](#basic-ideas))
+- body/health: Bodily movement and youth occur in the pair summaries. Ebertin's tissue and puberty associations and Munkasey's nervous-system, lung, and assimilation claims remain historical correspondences, alongside Ebertin's warning about nervous overwork. ([Pair Summary](#pair-summary), [Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind))
+- social/relationship: Speaking, listening, humor, and trusted information can connect people; unclear expression and incompatible viewpoints can obstruct that connection. ([Falis](#falis-entry), [Munkasey](#in-your-relationships))
+- events/manifestations: Writing, teaching, business, analysis, media presentation, and bodily expression give thought an observable form. ([Falis](#falis-entry), [Munkasey](#in-politics-or-business))
+- conflicts/notes: The capacity to reason and the risk of subjective judgment coexist; neither intelligence nor its absence follows from the pair alone. Carter's conjunction account and Banzhaf/Haebler's sign/distance conditions remain source-specific aspect doctrine rather than rules for every midpoint expression. ([Carter](#pair-overview), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords))
 
 ## Related Activations
 
@@ -231,12 +247,14 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 - [Sun/Mercury = Kronos](../activations/sun-mercury-equals-kronos.md)
 - [Sun/Mercury = Mars](../activations/sun-mercury-equals-mars.md)
 - [Sun/Mercury = MC](../activations/sun-mercury-equals-mc.md)
+- [Sun/Mercury = Mercury](../activations/sun-mercury-equals-mercury.md)
 - [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
 - [Sun/Mercury = Neptune](../activations/sun-mercury-equals-neptune.md)
 - [Sun/Mercury = Node](../activations/sun-mercury-equals-node.md)
 - [Sun/Mercury = Pluto](../activations/sun-mercury-equals-pluto.md)
 - [Sun/Mercury = Poseidon](../activations/sun-mercury-equals-poseidon.md)
 - [Sun/Mercury = Saturn](../activations/sun-mercury-equals-saturn.md)
+- [Sun/Mercury = Sun](../activations/sun-mercury-equals-sun.md)
 - [Sun/Mercury = Uranus](../activations/sun-mercury-equals-uranus.md)
 - [Sun/Mercury = Venus](../activations/sun-mercury-equals-venus.md)
 - [Sun/Mercury = Vernal Point](../activations/sun-mercury-equals-vernal-point.md)
@@ -245,15 +263,14 @@ The vitality of your nervous system; the overall state and efficiency of your lu
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Clear communication and subjective or dogmatic thought are conditional possibilities, not incompatible definitions. Carter challenges the simple claim that a close Sun-Mercury conjunction impairs intellectual ability and instead emphasizes flexibility and impartiality. Banzhaf/Haebler retains a stronger claim that a combust Mercury has no achievements of its own, within its specific sign and distance discussion. These different judgments remain attributed to their aspect frameworks; neither defines every expression of this unordered pair. ([Carter](#pair-overview), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords))
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury` is the axis of conscious thought, articulate self-expression, practical intelligence, and identity fused with mind and speech. It combines will, purpose, and vitality with language, reasoning, information, and the need to say what one means.
-- Chart expression: mental clarity, communicative confidence, curiosity, wit, business sense, and the desire to define oneself through ideas, teaching, writing, speaking, or analysis. Its main liability is over-personal thinking: dogmatism, self-referential judgment, nervous overwork, or treating a challenge to one's ideas as a challenge to the self.
+`Sun/Mercury` brings personal purpose into thought and expression. It concerns understanding, arranging ideas, and making one's intentions known through speech, writing, teaching, analysis, or the expressive body. Practical judgment and wit can help a person communicate with confidence, while the close identification of thinking with selfhood makes the content and manner of communication personally significant. ([Hand](#pair-delineation), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Falis](#falis-entry))
+
+The central tension is that having a clear personal voice does not ensure an impartial view. Thought can become self-absorbed, categorical, scattered, or resistant to correction; misunderstanding then affects both relationships and one's sense of being recognized. The range includes deliberate prioritizing of ideas and meaningful communication as well as these limits. Youth, movement, daily conversations and nervous overwork remain additional source motifs. Anatomical claims do not establish a diagnosis, and the differing [aspect judgments](#contradictions) do not determine a person's intellectual capacity from this pair alone. ([Sandbach's Process](#process), [Carter](#pair-overview), [Munkasey, source p. 59](#in-your-relationships), [ABC Pair Summary](#abc-pair-summary))
 
 ## Links
 

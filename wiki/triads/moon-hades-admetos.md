@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Hades Admetos`
 - Astronomicon triad-set: `R ¢ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Admetos = Moon](../activations/hades-admetos-equals-moon.md)
-- [Moon/Admetos = Hades](../activations/moon-admetos-equals-hades.md)
-- [Moon/Hades = Admetos](../activations/moon-hades-equals-admetos.md)
+- [Hades/Admetos = Moon](../activations/hades-admetos-equals-moon.md): base axis [Hades/Admetos](../axes/hades-admetos.md); activator [Moon](../factors/moon.md).
+- [Moon/Admetos = Hades](../activations/moon-admetos-equals-hades.md): base axis [Moon/Admetos](../axes/moon-admetos.md); activator [Hades](../factors/hades.md).
+- [Moon/Hades = Admetos](../activations/moon-hades-equals-admetos.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Hades/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
-- `Hades/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `444`
-- `Moon/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `203`
-- `Moon/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `195`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Admetos = Moon](../activations/hades-admetos-equals-moon.md#witte-entry) (PDF entry-start p. 282); [Moon/Admetos = Hades](../activations/moon-admetos-equals-hades.md#witte-entry) (PDF entry-start p. 135); [Moon/Hades = Admetos](../activations/moon-hades-equals-admetos.md#witte-entry) (PDF entry-start p. 131).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Admetos = Moon](../activations/hades-admetos-equals-moon.md#abc-entry) (printed p. 444); [Moon/Admetos = Hades](../activations/moon-admetos-equals-hades.md#abc-entry) (printed p. 203); [Moon/Hades = Admetos](../activations/moon-hades-equals-admetos.md#abc-entry) (printed p. 195).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Moon`: an oppressed or diseased frame of mind, needy women or persons, and deficiency symptoms among the public.
-- `Moon/Admetos = Hades`: The hours without hope. People lack space and raw materials. People without a basis for life.
-- `Moon/Hades = Admetos`: People dying of misery and plague.
+Moon, Hades and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Admetos](../axes/hades-admetos.md)
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/Hades](../axes/moon-hades.md)
 - [Moon](../factors/moon.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)

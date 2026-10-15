@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Asc = Uranus`
 - Astronomicon formula: `Q/Asc = X`
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 84; scanned activator row checked.
+
 Suddenly be lost in love. Surprising experience of sympathy and goodwill.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source page: 109 (printed); PDF page: 53; scanned activator row checked.
 
 Excitement in a peaceful place, harmonious partner impulses, love experience with the partner, new love partner, place of rhythmic arts, sudden harmony with other, restless peace in the place, and preference for a technical environment
 
@@ -51,11 +57,15 @@ Excitement in a peaceful place, harmonious partner impulses, love experience wit
 
 #### Ebertin Entry
 
+- Source page: 196 (printed), entry `0669`.
+
 Inclined to quick attractions to beautiful and pleasant people, sudden notions of love. Love at first sight.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 To have an unusual or distinctive attractiveness. A genius for putting others at ease or compelling them to be attracted to you. The desire to be free and open in ex pressing one’s loving personality.
 
@@ -70,22 +80,23 @@ You make your appearance distinct so that people will notice you; you have progr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Distinctive charm and sudden attraction.
+- Psychology: Freedom, progressive style, and sudden jealousy.
+- Body/health: No specific health claim.
+- Social/relationship: Love at first sight; openness or compelled attraction.
+- Events/manifestations: A new partner, rhythmic art, technical surroundings.
+- Conflicts/notes: Freedom in affectionate expression, distinctive appearance, and sudden attraction coexist with compelling attention or sudden jealousy.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Freedom in affectionate expression, distinctive appearance, and sudden attraction coexist with compelling attention or sudden jealousy. These entries do not establish chronic inconsistency.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Uranus`: stimulating presence, unconventional appeal, and relationships sparked through difference or sudden mutual recognition. Main caution: inconsistency in attachment: freedom and novelty can make charm vivid but harder to anchor in steadiness.
+Uranus specifies Venus/Asc through a distinctive presence that can evoke attraction suddenly. New love, unexpected goodwill, and freedom in showing affection connect personal contact with originality of style. Sandbach's compelled attraction and Munkasey's sudden jealousy retain a less comfortable range alongside putting others at ease. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).)
 
 ## Links
 

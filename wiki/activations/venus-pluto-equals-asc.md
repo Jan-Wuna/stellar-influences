@@ -33,19 +33,26 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Pluto Asc](../triads/venus-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Tlac beginning of a pleasant change in the environment. Friendlier surroundings. Others show consideration. The native show consideration to others.
+- Source reference: PDF page `181` (one-based); scanned Asc row checked.
+
+The beginning of a pleasant change in the environment. Friendlier surroundings. Others show consideration. The native show consideration to others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `280`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-Harmonious environmental changes, harmonious partner change, harmonious change in the vicinity, artistic development in the place, developing love for the partner, love of the place change, and preparation for changes in the environment
+Harmonious changes in the environment, harmonious change of partner, harmonious change nearby, artistic development at the place, developing love for the partner, loving a change of place, and preference for changes in the environment.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +77,21 @@ Concentrating on the need for a polite response to those who have a destructive 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Change in surroundings or encounters, with strong interpersonal attraction or influence.
+- psychology: Craving love, compelling attractiveness, and the possibility of seeking power struggles.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Friendlier surroundings and consideration coexist with unusual love affairs or adversarial encounters.
+- events/manifestations: Environmental or partner changes, artistic development in a place, and false glamour.
+- conflicts/notes: Munkasey's destructive or punishing encounters materially qualify the favorable environmental meanings.
 
 ## Contradictions
 
-- None recorded yet.
+Friendlier surroundings and encounters with destructive intent are substantially different possibilities. The page supports both; neither can stand as the formula's single guaranteed social outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Asc`: magnetic presence, compelling attractiveness, and the ability to transform relationships through sheer force of contact. Main caution: self-presentation can turn controlling, obsessive, or crisis-prone.
+In `Venus/Pluto = Asc`, Asc specifies Venus/Pluto change in the immediate environment and in encounters with other people. The [Witte](#witte-entry) and [ABC entries](#abc-entry) describe friendlier surroundings, consideration, and harmonious changes of place or partner. The [Ebertin](#ebertin-entry) and [Sandbach entries](#sandbach-entry) add compelling attraction and influence, including power struggles. The [Munkasey entry](#munkasey-entry) retains the harder case of polite responses to destructive intent and the creation of false glamour. Attraction and pleasant change therefore remain possibilities alongside difficult uses of interpersonal influence.
 
 ## Links
 

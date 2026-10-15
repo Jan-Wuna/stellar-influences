@@ -27,28 +27,29 @@ updated_at: 2026-05-04
 
 - Triad-set: `Sun Jupiter Apollon`
 - Astronomicon triad-set: `S V ¥`
+- This is a structural hub for an unordered factor set; the orientations remain distinct. [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md)
-- [Sun/Apollon = Jupiter](../activations/sun-apollon-equals-jupiter.md)
-- [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md)
+- [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md) — base axis: [Jupiter/Apollon](../axes/jupiter-apollon.md); activated factor: [Sun](../factors/sun.md).
+- [Sun/Apollon = Jupiter](../activations/sun-apollon-equals-jupiter.md) — base axis: [Sun/Apollon](../axes/sun-apollon.md); activated factor: [Jupiter](../factors/jupiter.md).
+- [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md) — base axis: [Sun/Jupiter](../axes/sun-jupiter.md); activated factor: [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Jupiter/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
-- `Jupiter/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `340`
-- `Sun/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
-- `Sun/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `166`
-- `Sun/Jupiter = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `149`
+All three orientations are represented by the linked activation pages. This lists their current source entries, not a complete survey of the literature. Locators labelled as parser aids are unverified finding aids; source images were not checked in this structural review.
+
+- **Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures**: [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md#source-entries) — one-based PDF entry-start p. `215` (parser aid); [Sun/Apollon = Jupiter](../activations/sun-apollon-equals-jupiter.md#source-entries) — one-based PDF entry-start p. `115` (parser aid); [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md#source-entries) — one-based PDF entry-start p. `106` (parser aid).
+- **Udo Rudolph - ABC for Planetary Pictures**: [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md#source-entries) — printed p. `340` (parser aid); [Sun/Apollon = Jupiter](../activations/sun-apollon-equals-jupiter.md#source-entries) — printed p. `166` (parser aid); [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md#source-entries) — printed p. `149` (parser aid).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Sun`: many lucky days, success in science or commerce, and the figure of the capitalist or prosperous central actor.
-- `Sun/Apollon = Jupiter`: This formula emphasizes successful and grand and successful in art.
-- `Sun/Jupiter = Apollon`: This formula emphasizes success and abundance and happiness in all things.
+Read the orientation that matches the formula being queried: [Jupiter/Apollon = Sun](../activations/jupiter-apollon-equals-sun.md#derived-synthesis); [Sun/Apollon = Jupiter](../activations/sun-apollon-equals-jupiter.md#derived-synthesis); [Sun/Jupiter = Apollon](../activations/sun-jupiter-equals-apollon.md#derived-synthesis). The factor set connects these siblings for navigation only. Their interpretations, source qualifications, and any source disagreements belong to the separate activation pages.
+
+## Contradictions Across Orientations
+
+Different orientations make distinct claims; differences in their wording do not by themselves establish a contradiction. This hub checks orientation and source representation only. Consult the linked activation entries for any comparison of doctrine or disputed source passage.
 
 ## Links
 

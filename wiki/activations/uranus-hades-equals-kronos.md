@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Uranus/Hades = Kronos`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/¢ = ¤`
 - Axis page: [Uranus/Hades](../axes/uranus-hades.md)
 - Triad hub: [Uranus Hades Kronos](../triads/uranus-hades-kronos.md)
@@ -34,21 +35,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 237.
+
 #### Witte Entry
 
 Misfortune, great evil deeds and mean acts in or by government. Death (murder) of a person of high standing.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 377; PDF p. 187.
+
 #### ABC Entry
 
-Special technical secrets, dangerous tensions in the state, great unrest by renunciation, sudden danger to the state, surprising authoritarian deficiency, unrest due to state shortages, and important impulses from the past
+Special technical secrets, dangerous tensions in the state, great unrest through renunciation, sudden danger to the state, a surprising lack of authority, unrest over state deficiencies, important impulses from the past.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 237) and [ABC](#abc-entry) (printed p. 377; PDF p. 187).
+
+- core meaning: Distress or hidden difficulty concerns state power, government or authority.
+- psychology: Great unrest and dangerous state tensions are named, without establishing an individual's morality.
+- body/health: Witte's death or murder of a high-standing person is a historical event claim, not a health rule.
+- social/relationship: Harmful acts in or by government and a lack of authority are explicit.
+- events/manifestations: Technical secrets, state deficiencies and important past impulses are examples.
+- conflicts/notes: The formula does not establish that any particular government or official commits wrongdoing.
+
+## Contradictions
+
+Witte's harmful governmental acts and ABC's lack of authority concern different failures of state power. Important past impulses and technical secrets do not by themselves establish a crime.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Hades = Kronos`: Misfortune, great evil deeds and mean acts in or by government. Death (murder) of a person of high standing.
-- Practical expression: special technical secrets, dangerous tensions in the state, great unrest by renunciation, sudden danger to the state, and surprising authoritarian deficiency.
+Kronos specifies Uranus/Hades through difficulties involving government or authority: state tension, deficient authority or sudden danger to the state gives the problem an institutional scale. [ABC](#abc-entry) also names technical secrets and important impulses from the past. [Witte](#witte-entry) supplies stronger historical examples of harmful governmental acts and the death of a person of high standing. These remain possibilities within the source rather than allegations about a particular official.
 
 ## Links
 

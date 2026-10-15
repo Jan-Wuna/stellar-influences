@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Asc Apollon`
 - Astronomicon triad-set: `VP Asc ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Apollon = Vernal Point](../activations/asc-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Asc](../activations/vernal-point-apollon-equals-asc.md)
-- [Vernal Point/Asc = Apollon](../activations/vernal-point-asc-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Apollon = Vernal Point](../activations/asc-apollon-equals-vernal-point.md) | [Asc/Apollon](../axes/asc-apollon.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Apollon = Asc](../activations/vernal-point-apollon-equals-asc.md) | [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | [Asc](../factors/asc.md) |
+| [Vernal Point/Asc = Apollon](../activations/vernal-point-asc-equals-apollon.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Asc/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `130`
-- `Vernal Point/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `52`
-- `Vernal Point/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `21`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `95`.
+- `Asc/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-apollon-equals-vernal-point.md#abc-entry), printed p. `130`.
+- `Vernal Point/Apollon = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-asc.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-asc.md#abc-entry), printed p. `52`.
+- `Vernal Point/Asc = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-apollon.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-apollon.md#abc-entry), printed p. `21`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Vernal Point`: general familiarity, wide but often superficial relations, and contact with traders or scientific people across broader public and international space.
-- `Vernal Point/Apollon = Asc`: This formula emphasizes get to know many places, to know many people, and to have many customers.
-- `Vernal Point/Asc = Apollon`: This formula emphasizes many meetings, many customers, many people, a crowd, and distant places.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

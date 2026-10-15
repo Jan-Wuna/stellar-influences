@@ -28,27 +28,38 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Apollon Vulcanus`
 - Astronomicon triad-set: `S ¥ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Apollon/Vulcanus = Sun](../activations/apollon-vulcanus-equals-sun.md)
-- [Sun/Apollon = Vulcanus](../activations/sun-apollon-equals-vulcanus.md)
-- [Sun/Vulcanus = Apollon](../activations/sun-vulcanus-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Vulcanus = Sun](../activations/apollon-vulcanus-equals-sun.md) | [Apollon/Vulcanus](../axes/apollon-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/Apollon = Vulcanus](../activations/sun-apollon-equals-vulcanus.md) | [Sun/Apollon](../axes/sun-apollon.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = Apollon](../activations/sun-vulcanus-equals-apollon.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Apollon/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
-- `Apollon/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `470`
-- `Sun/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
-- `Sun/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `167`
-- `Sun/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `171`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Apollon/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `307`.
+- `Apollon/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-vulcanus-equals-sun.md#abc-entry), printed p. `470`.
+- `Sun/Apollon = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-apollon-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `115`.
+- `Sun/Apollon = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-apollon-equals-vulcanus.md#abc-entry), printed p. `167`.
+- `Sun/Vulcanus = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-apollon.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-apollon.md#abc-entry), printed p. `171`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Sun`: the successful and influential person whose fortune and power are clearly expressed.
-- `Sun/Apollon = Vulcanus`: This formula emphasizes great strength or power and mastery.
-- `Sun/Vulcanus = Apollon`: This formula emphasizes great strength joined with success and mastery on a large scale.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

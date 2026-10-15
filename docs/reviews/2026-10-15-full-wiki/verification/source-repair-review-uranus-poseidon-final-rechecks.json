@@ -1,0 +1,608 @@
+{
+  "scope": "All20 final substantive Uranus/Poseidon source repairs independently reread against actual raw Witte243 and ABC193 scans, full initial baseline/current section delta and amended unique083 records. Every clause and source boundary checked individually. Replaces all prior locator-only decisions for these exact sections;3 material holds resolved.",
+  "proof": [
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-admetos.md",
+      "before_sha256": "d436fbef90fecd63a14ec9da449cddb87b12c63df478efe7b7e104c86cf18dfc",
+      "after_sha256": "b99be691eddeaaf018644601440ff103de1d1f458cf0ed8a08fee9c2ac14f59b",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 12,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nExciting concentration of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual renewal, thorough cultural renewal, sudden restriction of power, tension through suppressed truth, deepening into new ideas.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Exciting concentration of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual renewal, thorough cultural renewal, sudden restriction of power, tension through suppressed truth, deepening into new ideas.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo search into the bottom of a matter. To end such a search. To relax mentally. To be noted in a narrow circle. Diminished mental tenseness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nExciting concentration of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual renewal, thorough cultural renewal, sudden restriction of power, tension through suppressed truth, deepening into new ideas.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-apollon.md",
+      "before_sha256": "9bcf5934b32ff140d93de17b481028ad5f9293aed48329b598f1c1dfe03a03e7",
+      "after_sha256": "2174747f4b3ea8aa06fc710db570b1b788ef42be76d10b57d1b8d4a38a0bc266",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 13,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nExpansion of a spiritual renewal, renewal of cultural freedom, successful cultural renewal, new scientific ideas, surprising spread of truth, rational impulses of freedom, increasing new insights.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Expansion of a spiritual renewal, renewal of cultural freedom, successful cultural renewal, new scientific ideas, surprising spread of truth, rational impulses of freedom, increasing new insights.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nMany people are mentally influenced, inspired or enlightened. Many are kept under tension. To find like-minded people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nExpansion of a spiritual renewal, renewal of cultural freedom, successful cultural renewal, new scientific ideas, surprising spread of truth, rational impulses of freedom, increasing new insights.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-asc.md",
+      "before_sha256": "2a500414a191fbb45ee5b3c4c1e682884f5b9deccbb4077b7bfb041f721f0068",
+      "after_sha256": "a78420760dc7dd2aef0770019830549c318cde9cdbce3b26f107251b8fe6087c",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 14,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth of the partner, intellectual renewal of the environment, a cultural event at the location, cultural renewal of the environment, new ideas of the partner, sudden clarity with others, surprising insights into the environment, rational technology at the location.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Exciting truth of the partner, intellectual renewal of the environment, a cultural event at the location, cultural renewal of the environment, new ideas of the partner, sudden clarity with others, surprising insights into the environment, rational technology at the location.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo instill ideas in others, to stimulate them mentally or to be stimulated. To spread enlightenment and propaganda together with others. Showing motion pictures to a community.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth of the partner, intellectual renewal of the environment, a cultural event at the location, cultural renewal of the environment, new ideas of the partner, sudden clarity with others, surprising insights into the environment, rational technology at the location.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-cupido.md",
+      "before_sha256": "5e1e43419329a5f6c79a4a60fc712d2127cd086e34b59ace48057e6374855b34",
+      "after_sha256": "b08307fa43ffd6a08b89dfa9f9c4c21a61de6eba2f3b254153b2f4d63dce1734",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 15,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDisquieting truth for a community, a dynamic intellectual community, intellectual renewal within a community, a shared cultural event, new shared ideas, sudden clarity within a community, a community of technical ideas.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "old_text": "Community policy, economic and social cohesion, and structural funds",
+        "new_text": "Disquieting truth for a community, a dynamic intellectual community, intellectual renewal within a community, a shared cultural event, new shared ideas, sudden clarity within a community, a community of technical ideas.",
+        "finding": "Replaced unrelated EU-policy contamination with all seven Cupido clauses. German begins Beunruhigende Wahrheit für eine Gemeinschaft and ends technische Ideen-Gemeinschaft.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo explain, to clear up, to enlighten together with others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDisquieting truth for a community, a dynamic intellectual community, intellectual renewal within a community, a shared cultural event, new shared ideas, sudden clarity within a community, a community of technical ideas.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-hades.md",
+      "before_sha256": "7765a5196babc869029fb26679d50dc1157abcabb6ea449a6b6b8fac107f03cd",
+      "after_sha256": "54763a41f7a6e037f9d3e24080830a84fa9b49016a6808bac84f416d1063ee8d",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 16,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDangerous technical ideas, spiritual impulses from the past, a deficient cultural event, sudden clarity in distress, exciting criminal insights, surprising mental distress, hidden cultural renewal, forgoing new ideas.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Dangerous technical ideas, spiritual impulses from the past, a deficient cultural event, sudden clarity in distress, exciting criminal insights, surprising mental distress, hidden cultural renewal, forgoing new ideas.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo bring light and clarity into an evil and dark or obscure matter. To make things of the past come to life again.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDangerous technical ideas, spiritual impulses from the past, a deficient cultural event, sudden clarity in distress, exciting criminal insights, surprising mental distress, hidden cultural renewal, forgoing new ideas.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-jupiter.md",
+      "before_sha256": "32363fc4df60bef93e5e730826d0d4e72fbd880b5c541d35aa1c7c75a3d89a04",
+      "after_sha256": "46305cbc42502a840b6888d3bbd6b5671ac91bd90eeb86be92dcc00a4b2b537f",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 17,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nSuccessful cultural renewal, successful spiritual impulses, joy over sudden truth, intellectual renewal of law, a new culture of money, new legal ideas, surprising legal clarity, a rational legal event.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Successful cultural renewal, successful spiritual impulses, joy over sudden truth, intellectual renewal of law, a new culture of money, new legal ideas, surprising legal clarity, a rational legal event.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo be conscientious. Fortune and success through conscientiousness, or through carefulness and attention.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nSuccessful cultural renewal, successful spiritual impulses, joy over sudden truth, intellectual renewal of law, a new culture of money, new legal ideas, surprising legal clarity, a rational legal event.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-kronos.md",
+      "before_sha256": "2d28a5c996f0be33d11875acb348bc81507cba6288142fdff5ef64b94f78f85d",
+      "after_sha256": "9aebcf8cd440cf5496b8806937bd4e41c8c1b53f07eb6ef39535e09aa1962b17",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 18,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nA special cultural event, renewed intellectual authority, mental tensions in the state, great technical ideas, impulses of the spiritual hierarchy, new intellectual authority, new important ideas, state reform ideas, an important state event.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "A special cultural event, renewed intellectual authority, mental tensions in the state, great technical ideas, impulses of the spiritual hierarchy, new intellectual authority, new important ideas, state reform ideas, an important state event.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo suddenly become an intellectual authority. To balance accounts with the chief, authorities or government. To check deeds. To be extremely stressed.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nA special cultural event, renewed intellectual authority, mental tensions in the state, great technical ideas, impulses of the spiritual hierarchy, new intellectual authority, new important ideas, state reform ideas, an important state event.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-mars.md",
+      "before_sha256": "709d30a2c057714cf42e728aa56a9e9a9b82eec0ce3943a032bc0a4b732f1bff",
+      "after_sha256": "bf4b9c2d4365b6d9e997066afaca1eb5bf30ccf37fd11aaeccf8ccbf3e93f518",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 19,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nAddressing exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bringing about cultural renewal, new spiritual work, working on new ideas, surprisingly clear actions, rational technical work.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Addressing exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bringing about cultural renewal, new spiritual work, working on new ideas, surprisingly clear actions, rational technical work.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo press energetically for attention and carefulness. To demand conscientiousness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nAddressing exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bringing about cultural renewal, new spiritual work, working on new ideas, surprisingly clear actions, rational technical work.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-mc.md",
+      "before_sha256": "e76723fcdbb4aab6cc39fbfb6b3e337ada09b4feb9ab7ad68ee043b451b9e504",
+      "after_sha256": "cbe7393a9f90e5c8936750e21b1e9924b3cff4866914799779c3b2d514fba6fd",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 20,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nAn excited mind-soul, my restless mind, my spiritual renewal, my spiritual impulses, my cultural renewal, my new ideas, my sudden clarity, a new culture of the soul, emotional arousal through truth.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "An excited mind-soul, my restless mind, my spiritual renewal, my spiritual impulses, my cultural renewal, my new ideas, my sudden clarity, a new culture of the soul, emotional arousal through truth.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo be mentally alive and alert. Mental preparedness and tenseness. To strive for light, knowledge and truth.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nAn excited mind-soul, my restless mind, my spiritual renewal, my spiritual impulses, my cultural renewal, my new ideas, my sudden clarity, a new culture of the soul, emotional arousal through truth.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-mercury.md",
+      "before_sha256": "a585dd0ee2bee0d93408ed42df2c3b7213b5e30132a1c1e89881e4d5c6e4ead5",
+      "after_sha256": "50935f0dac9e31476ed4fc7241a62c7e1b407eadf9d1d6523392655cf7d0fbfc",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 21,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nReports about cultural renewal, intellectual impulses from young people, conversations about intellectual renewal, ideas for transport technology, new insights of young people, sudden clarity of thought, news about cultural events, surprising truths in the media.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Reports about cultural renewal, intellectual impulses from young people, conversations about intellectual renewal, ideas for transport technology, new insights of young people, sudden clarity of thought, news about cultural events, surprising truths in the media.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo become tense as the result of new ideas. Visionary recognition. To send or receive a sign of life.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nReports about cultural renewal, intellectual impulses from young people, conversations about intellectual renewal, ideas for transport technology, new insights of young people, sudden clarity of thought, news about cultural events, surprising truths in the media.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-moon.md",
+      "before_sha256": "83e3754a19f5e56256c30417218bafc457322655673977b2fff8b1a223c389a2",
+      "after_sha256": "54da047d854bee2274446a53eceb0986b18e255d149c56eb061abc1fcf0ec97f",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 22,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth for a woman, spiritual impulses for a woman, a cultural event for the people, cultural renewal of a people, new ideas for a woman, new ideas for a people, sudden clarity about a woman, a spiritually excited woman, surprising clarity of feeling.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Exciting truth for a woman, spiritual impulses for a woman, a cultural event for the people, cultural renewal of a people, new ideas for a woman, new ideas for a people, sudden clarity about a woman, a spiritually excited woman, surprising clarity of feeling.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nHours of mental tenseness and alertness. Persons who are mentally alert. Persons who are possessed with an idea. Public propaganda. Propaganda for political elections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth for a woman, spiritual impulses for a woman, a cultural event for the people, cultural renewal of a people, new ideas for a woman, new ideas for a people, sudden clarity about a woman, a spiritually excited woman, surprising clarity of feeling.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-neptune.md",
+      "before_sha256": "e7d0ab6b84123e2204811789f0806ba5fa2c3a7b0ac5c173a94df8f8cdf3a3ad",
+      "after_sha256": "6d24070bf1a193880fb26c9e5808876ea28882de82d03dc2277c5e6d5ec55fd1",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 23,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nSubtle spiritual impulses, intellectual renewal of metaphysics, denial of a cultural renewal, new insights in metaphysics, new ideas for the future, new cultural expectations, surprising clarity through intuition, refinement through new insights.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "old_text": "Fine spiritual impulses, mental embodiment of metaphysics, vemcination of culture renewal, new findings in metaphysics, new futures, new cultural expectations, surprising clarity through intuition, refinement through ncue insight of spiritual reform development, new evolutionary knowledge, and suspense through development",
+        "new_text": "Subtle spiritual impulses, intellectual renewal of metaphysics, denial of a cultural renewal, new insights in metaphysics, new ideas for the future, new cultural expectations, surprising clarity through intuition, refinement through new insights.",
+        "finding": "Restored eight Neptune clauses, ending Verfeinerung durch neue Einsichten. Removed following Pluto opening; Verneinung is denial, not vemcination.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nNot recognizing the truth. To deceive oneself. To twist and spin the truth around. To make believe or deceive. To be deceived.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nSubtle spiritual impulses, intellectual renewal of metaphysics, denial of a cultural renewal, new insights in metaphysics, new ideas for the future, new cultural expectations, surprising clarity through intuition, refinement through new insights.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-node.md",
+      "before_sha256": "6bcd83e44ba505b8bbf878eedde6e21cd676407ef0ba9da63112aea081236931",
+      "after_sha256": "4bdf5bcfa01ec86a1591a56be198cfa1db1fd8878950593a5c5ba8aa1318fb3d",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 24,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth in a connection, spiritual impulses in a relationship, new insights in a connection, new cultural connections, sudden clarity in a connection, linking technical ideas, a surprising spiritual connection.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Exciting truth in a connection, spiritual impulses in a relationship, new insights in a connection, new cultural connections, sudden clarity in a connection, linking technical ideas, a surprising spiritual connection.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo be connected with representatives of an idea. To have dealings with propagandists.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truth in a connection, spiritual impulses in a relationship, new insights in a connection, new cultural connections, sudden clarity in a connection, linking technical ideas, a surprising spiritual connection.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-pluto.md",
+      "before_sha256": "021d40f0d3859f1c5ef0ba040f2d4a2b8c0f1446247718de4e1a40fdff0521c0",
+      "after_sha256": "523d6eae87288d47280aa653b62ffae8435c316b65f277eae8666c5a266e7a15",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 25,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nIntellectual reform and development, new insights into evolution, tensions through the unfolding of ideas, developing surprising insight, changes through cultural renewal, changes through new ideas, growing cultural reform.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "old_text": "Developing ideas, Surprising insight, changes through cultural emanation, changes through new ideas, and growing cultural reform",
+        "new_text": "Intellectual reform and development, new insights into evolution, tensions through the unfolding of ideas, developing surprising insight, changes through cultural renewal, changes through new ideas, growing cultural reform.",
+        "finding": "Restored all seven Pluto clauses, including opening previously absorbed into Neptune: Geistige Reform-Entwicklung, neue Evolutions-Erkenntnisse, Spannungen durch Entfaltung von Ideen. Corrected cultural emanation to renewal.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo create light, to enlighten, to back truth with clarity. To awake interest, to give mental stimulant. To bring to life.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nIntellectual reform and development, new insights into evolution, tensions through the unfolding of ideas, developing surprising insight, changes through cultural renewal, changes through new ideas, growing cultural reform.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-saturn.md",
+      "before_sha256": "f79ba8e0bdc48bcdcd77e4108d1da73ab07efcead18b8e2e7768528cc03b2f97",
+      "after_sha256": "127a6ed837d6b2059b2b54f598ddaeb2ab3c86652b38ca81793d24457c173670",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 26,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nTasks of cultural renewal, a serious cultural event, intellectual tasks of technology, disturbed mental concentration, sudden clarity through concentration, problems of spiritual renewal, surprising problems with truth.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Tasks of cultural renewal, a serious cultural event, intellectual tasks of technology, disturbed mental concentration, sudden clarity through concentration, problems of spiritual renewal, surprising problems with truth.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nExpiring life or light. To give up the mental soul, to breathe ones last. Death occurs.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nTasks of cultural renewal, a serious cultural event, intellectual tasks of technology, disturbed mental concentration, sudden clarity through concentration, problems of spiritual renewal, surprising problems with truth.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-sun.md",
+      "before_sha256": "7165ffbb98fd31f458091a4f1cc8179d6ce7710e48ebe23e4e6bd09509351742",
+      "after_sha256": "0bf7a83309afcce0bfa22c9cc5192482c2d57da60d96c04d25b0f7523a1b0c91",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 27,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nA dynamic mind in the body, impulses of the mental body, a new spiritual center, new ideas of a man, personal spiritual renewal, a personal cultural event, a spiritually excited body, surprising clarity for a person.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "A dynamic mind in the body, impulses of the mental body, a new spiritual center, new ideas of a man, personal spiritual renewal, a personal cultural event, a spiritually excited body, surprising clarity for a person.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nDays of mental tension and tenseness. To be excited or provoked through opinions, ideas or thoughts. The man who appears as the bearer of an idea, who represents an idea, or conviction. To incite propaganda.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nA dynamic mind in the body, impulses of the mental body, a new spiritual center, new ideas of a man, personal spiritual renewal, a personal cultural event, a spiritually excited body, surprising clarity for a person.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-venus.md",
+      "before_sha256": "9e7b8674111e88e0f64bb0471ecb5761f6f208dcac3370738ff9e54de63e36ee",
+      "after_sha256": "6d2979578f75ac1df40d256d1bce29659e04d253aab290bb0f37ea06e7fb6459",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 28,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nRenewal of the culture of love, spiritual renewal of love, a harmonious cultural event, a new culture of peace, new cultural ideas, sudden clarity in love, sudden cultural peace, spiritual artistic impulses, surprising spiritual harmony.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Renewal of the culture of love, spiritual renewal of love, a harmonious cultural event, a new culture of peace, new cultural ideas, sudden clarity in love, sudden cultural peace, spiritual artistic impulses, surprising spiritual harmony.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nHarmony and harmonious relations that are the result of faith, religion and the same view of life.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nRenewal of the culture of love, spiritual renewal of love, a harmonious cultural event, a new culture of peace, new cultural ideas, sudden clarity in love, sudden cultural peace, spiritual artistic impulses, surprising spiritual harmony.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-vernal-point.md",
+      "before_sha256": "1cb280317745e394e4ee7aad2c4f7f4b3656e61a324274ec6616c99772510b39",
+      "after_sha256": "3e2b564da54bc134609ebf5ff7efbeb56e148435c29662f35665fffaa27815d6",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 29,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truths in public, spiritual renewal in public life, spiritual impulses in public life, a public cultural event, cultural renewal in public, sudden clarity for the public.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 388,
+        "pdf_page": 193,
+        "new_text": "Exciting truths in public, spiritual renewal in public life, spiritual impulses in public life, a public cultural event, cultural renewal in public, sudden clarity for the public.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nMental alertness in general. To carry out propaganda. Eager expectations of the general public brought into motion through ideas. Motion pictures. Enlightenment.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 388; PDF p. 193.\n\n#### ABC Entry\n\nExciting truths in public, spiritual renewal in public life, spiritual impulses in public life, a public cultural event, cultural renewal in public, sudden clarity for the public.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-vulcanus.md",
+      "before_sha256": "36717de27fbeeff4aeb04f38361df97d9bf97d8e90e96276a248da6993939b8b",
+      "after_sha256": "1d19233abeb1de683c68e88eca5ce2f249ff24f80ba59f85fefa54424390ca9d",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 30,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDynamic spiritual power, the influence of technical ideas, the influence of culture and technology, influential new ideas, spiritual energy impulses, powerful cultural renewal, nervousness through mental violence, new spiritual energies, surprising power of insight.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Dynamic spiritual power, the influence of technical ideas, the influence of culture and technology, influential new ideas, spiritual energy impulses, powerful cultural renewal, nervousness through mental violence, new spiritual energies, surprising power of insight.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nForceful insight and clear sight. To be a great mental stimulant. To create mental tenseness. To draw mighty attention.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nDynamic spiritual power, the influence of technical ideas, the influence of culture and technology, influential new ideas, spiritual energy impulses, powerful cultural renewal, nervousness through mental violence, new spiritual energies, surprising power of insight.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/uranus-poseidon-equals-zeus.md",
+      "before_sha256": "e7c57d2d7836bd91a3b18960fb7fdc1d2c87e322801425bc1599f62d37980ebd",
+      "after_sha256": "13d7de2fbca3740d43924b49f53a022a3f2cf274dccc76a0844d6468d3f73eda",
+      "ledger": "activations-083.jsonl",
+      "ledger_line": 31,
+      "witte_prose_unchanged": true,
+      "witte_locator": [
+        "- Source locator: PDF p. 243 (entry start)."
+      ],
+      "abc_current": "Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nBeginning a cultural renewal, renewal of spiritual leadership, shaping spiritual renewal, fiery spiritual impulses, spiritual leadership impulses, beginning spiritual reforms, shaping cultural events, creating new ideas, a suddenly clear objective.",
+      "owner_recheck": {
+        "reviewer": "a079-083",
+        "full_read": true,
+        "status": "source_repaired",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "printed_page": 389,
+        "pdf_page": 193,
+        "new_text": "Beginning a cultural renewal, renewal of spiritual leadership, shaping spiritual renewal, fiery spiritual impulses, spiritual leadership impulses, beginning spiritual reforms, shaping cultural events, creating new ideas, a suddenly clear objective.",
+        "finding": "Compared every clause and row glyph with the actual scan; restored renewal and other mistranslated wording without borrowing adjacent rows.",
+        "proof": [
+          "verification/source-repair-review-locator-udo-pdf193.png",
+          "verification/source-repair-review-locator-witte-pdf243.png"
+        ]
+      },
+      "owner_unresolved": [],
+      "full_current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF p. 243 (entry start).\n\n#### Witte Entry\n\nTo enforce or insist upon a clarification or a clear cut statement.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: printed p. 389; PDF p. 193.\n\n#### ABC Entry\n\nBeginning a cultural renewal, renewal of spiritual leadership, shaping spiritual renewal, fiery spiritual impulses, spiritual leadership impulses, beginning spiritual reforms, shaping cultural events, creating new ideas, a suddenly clear objective.",
+      "decision": "accepted_after_full_source_recheck",
+      "abc_clauses_verified": 9
+    }
+  ]
+}

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Saturn](../triads/vernal-point-sun-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Physical sickness. Physical separations. Sorrow, losses or grief for several. Later years of life.
 
@@ -42,13 +46,27 @@ Physical sickness. Physical separations. Sorrow, losses or grief for several. La
 
 #### ABC Entry
 
-Old man in public, serious people in public life, human toughness in public, personal problems in public life, personal lossc in public life, and difficulties in the world of man
+- Source page: 23; PDF page: 10 (one-based spread).
+
+An older man in public, serious public figures, human hardships in public, personal problems in public life, personal losses in public life, and difficulties in a man's world
+
+## Comparative Schema
+
+- core meaning: Public personal or bodily life burdened by hardship, separation, age, or loss.
+- psychology: Sorrow and grief are explicit.
+- body/health: Witte names physical sickness as an attributed association.
+- social/relationship: Loss or grief affecting several and older persons.
+- events/manifestations: Personal public problems, separation, and later years.
+- conflicts/notes: Human hardships replaces toughness; age and seriousness are not diagnoses.
+
+## Contradictions
+
+No direct contradiction is established. Later age, serious public demeanor, bodily sickness, and personal loss are distinct source examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Saturn`: physical sickness, physical separations, sorrow, losses or grief for several, and later years of life.
-- Practical expression: old man in public, serious people in public life, human toughness in public, personal problems in public life, and personal lossc in public life.
+In `Vernal Point/Sun = Saturn`, public personal life is considered through limitation and hardship. The [Witte entry](#witte-entry) names sickness, physical separation, shared grief or loss, and later years. The restored [ABC entry](#abc-entry) adds serious or older persons, personal problems, and hardships. The coherent emphasis is the weight of public personal experience, without making ordinary age or seriousness evidence of illness.
 
 ## Links
 

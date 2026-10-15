@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Moon`
 - Astronomicon formula: `W/g = R`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 Separated wife. To become a widow. Feelings in a disturbed connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excluding mediation of a people, relationships of a woman in old age, contracted connection to a woman, distanced refugees in a connection, problematic connection to a woman, and connection to an old woman
+- Source page: `216`; PDF page: `107`.
+
+Enduring mediation by a people, a woman's relationships in old age, inhibited emotional connection, a separated connection with a woman, disturbed feelings in a connection, a problematic emotional connection, and connection with an old woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0904`.
 
 Emotional inhibitions in the presence of others, feeling of loneliness in one's soul experiences. Inhibitions in contact with the other sex. A person standing alone in life, a widow or an orphan.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 The emotional need for strong, stable connections with others - though in neurotic states these stable conditions might well be dysfunctional and/or destructive. To feel vulnerable when entering into new experiences, and possibly the tendency to not be able to be objective about them.
 
@@ -70,22 +80,21 @@ Appreciation for the compassion others bring when you are in need of their assis
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional security and vulnerability within strained connections.
+- psychology: Loneliness, inhibited feeling, and a need for stable bonds.
+- body/health: No physical condition is established.
+- social/relationship: Separation, compassionate help, public assistance, and ties to women-led societies.
+- events/manifestations: Widowhood and orphanhood are historical examples; connections in old age also appear.
+- conflicts/notes: A stable connection may be dysfunctional; gendered examples remain source-specific.
 
 ## Contradictions
 
-- None recorded yet.
+The entries distinguish need for stability, actual isolation, and receipt of help. These are different conditions rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Moon`: steady caregiving, long-term commitment, and the ability to stay connected under difficult conditions. Main caution: heaviness: sadness, familial burden, or emotional inhibition can make ties feel more dutiful than nourishing.
+In `Saturn/Node = Moon`, Moon specifies the emotional experience of a difficult connection: loneliness, inhibited contact, and vulnerability can intensify the need for a stable bond. Stability alone does not make that bond sustaining, as Sandbach explicitly allows destructive attachments ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)). The complementary possibility is sensitivity to compassionate help, including public assistance and women-led groups ([Munkasey](#munkasey-entry)). [Witte's](#witte-entry) widowhood and [ABC's](#abc-entry) connections with women in old age remain particular historical and gendered examples.
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Poseidon = Jupiter`
 - Astronomicon formula: `¥/¨ = V`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 308, Jupiter row.
+
 Congenial with others who share in the same mental and emotional disposition.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful legal culture, joy through knowledge of the mind, joy over success ideas, clear legal success, effective legal knowledge, reliable money increase, lots of money filr cine idea, and increasing legal knowledge
+Reference: printed p. 472 (one-based PDF p. 235), Jupiter row.
+
+Successful legal culture, joy through knowledge of the mind, joy over successful ideas, clear legal success, reasonable legal knowledge, reasonable increase of money, much money for an idea, and increasing legal understanding.
+
+## Comparative Schema
+
+- core meaning: Congenial outlook, successful ideas, and reasoned legal or financial understanding.
+- psychology: Joy in knowledge and successful ideas; shared mental and emotional disposition.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: Congeniality with others of similar disposition.
+- events/manifestations: Legal success, increased legal understanding, and money associated with an idea.
+- conflicts/notes: Reasonable increase of money does not mean reliable or guaranteed profit; assumed agreement and idealization are not stated.
+
+## Contradictions
+
+The entries emphasize different favorable expressions: shared outlook in Witte, and knowledge, ideas, law, and money in ABC. Neither guarantees that one brings the others.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Jupiter`: encouraging alliances, expansive agreement of outlook, and the happy enlargement of cultured or spiritual companionship. Main caution: optimistic idealization: harmony of mind may be assumed too quickly and gloss over real difference.
+In `Apollon/Poseidon = Jupiter`, Jupiter specifies the pair through congenial understanding and the success or enjoyment associated with ideas. The [Witte entry](#witte-entry) locates congeniality in a shared mental and emotional disposition. The [ABC entry](#abc-entry) adds joy in knowledge, successful ideas, and reasoned legal or financial matters, extending the range from intellectual companionship to practical uses of understanding.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Admetos`
 - Astronomicon formula: `Y/Asc = ¦`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To pay much attention not to be deceived or defrauded.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Depressions of an exchanged partner, limitations in a foreign place, psychic energy of a delicate partner, stabilization of a weak partner, V deepening in a subtle environment, and water blockade on the site
+Depressions of a disappointed partner, limitations in a foreign place, psychic energy of a sensitive partner, stabilization of a weak partner, deepening into a subtle environment, and water blockade at the location
+
+## Comparative Schema
+
+- core meaning: attention to avoiding deception, with restriction and stabilization in a partnership or environment.
+- psychology: Witte calls for attention; ABC names a disappointed partner's depression and sensitivity.
+- body/health: ABC's depression is a historical source description, not a clinical assessment.
+- social/relationship: a sensitive or weak partner is the explicit relationship setting.
+- events/manifestations: limitations in a foreign place, stabilizing a partner, and a local water blockade are stated.
+- conflicts/notes: Feinstofflich remains a source description of a subtle environment without a specified physical mechanism.
+
+## Contradictions
+
+Witte emphasizes avoiding fraud, whereas ABC also describes sensitivity and stabilization. The latter do not establish deception by the partner.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Asc = Admetos`: To pay much attention not to be deceived or defrauded.
-- Practical focus: compresses relational uncertainty into vigilance and guardedness, showing a need to narrow exposure so deception, fraud, or manipulation cannot easily take hold.
-- Practical expression: depressions of an exchanged partner, limitations in a foreign place, psychic energy of a delicate partner, stabilization of a weak partner, and v deepening in a subtle environment.
+In Neptune/Asc = Admetos, Admetos specifies the pair through careful attention and constraining or stabilizing circumstances involving a partner. The [Witte entry](#witte-entry) calls for attention to avoid deception; [ABC](#abc-entry) adds disappointment, sensitivity, restriction in a foreign place, and stabilization of a weak partner (printed p. 119, PDF p. 58). Its local water blockade is a separate concrete example. This supports guarded attention and limitation without assuming that sensitivity or weakness makes a partner deceptive.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Jupiter Hades`
 - Astronomicon triad-set: `R V ¢`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Hades = Moon](../activations/jupiter-hades-equals-moon.md)
-- [Moon/Hades = Jupiter](../activations/moon-hades-equals-jupiter.md)
-- [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md)
+- [Jupiter/Hades = Moon](../activations/jupiter-hades-equals-moon.md): base axis [Jupiter/Hades](../axes/jupiter-hades.md); activator [Moon](../factors/moon.md).
+- [Moon/Hades = Jupiter](../activations/moon-hades-equals-jupiter.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Jupiter](../factors/jupiter.md).
+- [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md): base axis [Moon/Jupiter](../axes/moon-jupiter.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Jupiter/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
-- `Jupiter/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `334`
-- `Moon/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `194`
-- `Moon/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `183`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Hades = Moon](../activations/jupiter-hades-equals-moon.md#witte-entry) (PDF entry-start p. 212); [Moon/Hades = Jupiter](../activations/moon-hades-equals-jupiter.md#witte-entry) (PDF entry-start p. 131); [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md#witte-entry) (PDF entry-start p. 125).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Hades = Moon](../activations/jupiter-hades-equals-moon.md#abc-entry) (printed p. 334); [Moon/Hades = Jupiter](../activations/moon-hades-equals-jupiter.md#abc-entry) (printed p. 194); [Moon/Jupiter = Hades](../activations/moon-jupiter-equals-hades.md#abc-entry) (printed p. 183).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Hades = Moon`: a woman's disturbed happiness, lack of money among women or the public, and female or social life under economic degradation.
-- `Moon/Hades = Jupiter`: Happy widowhood. The merry widow. Food or money worries. Earning money in a base, immoral way. Hour of great wastage.
-- `Moon/Jupiter = Hades`: This activation places `Moon/Jupiter` in mixed conditions where ease survives inside difficulty. It can show good humor or emotional generosity persisting through sadness, poverty, or worn circumstances, so happiness here is real but touched by compromise, melancholy, or the need to make do.
+Moon, Jupiter and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Moon/Hades](../axes/moon-hades.md)
+- [Moon/Jupiter](../axes/moon-jupiter.md)
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Cupido`
 - Astronomicon formula: `Y/§ = ¡`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 To go into a partnership, which is soon dissolved.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `405`, PDF p. `201` (entry).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+Dissolution of a Gewalt-Gemeinschaft (community of force), influence of water for the community, influence of a foreign community, influential metaphysical community, shared rejection of violence, violent dissolution of a community, and powerful community in the air
+
+## Comparative Schema
+
+- core meaning: partnership or community whose continuity and use of force are at issue.
+- psychology: the entry supplies no distinct psychological motive.
+- body/health: no health claim is supplied.
+- social/relationship: a soon-dissolved partnership, foreign community influence, and shared rejection of violence are named.
+- events/manifestations: violent community dissolution and an influential metaphysical community are stated.
+- conflicts/notes: Gewalt-Gemeinschaft is retained literally and unexplained; the source does not identify a particular organization or explain every breakup through deception.
+
+## Contradictions
+
+Witte describes entering a partnership soon dissolved. ABC adds several distinct community examples, including both rejecting violence and violent dissolution.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Cupido`: To go into a partnership, which is soon dissolved.
-- Practical focus: unstable hidden pressure enters partnership and group bonds. It often points to unions that form under strain, lose coherence quickly, or dissolve once the underlying weakness or deception becomes impossible to ignore.
-- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
+In Neptune/Vulcanus = Cupido, the continuity and influence of a partnership or community are central. [Witte](#witte-entry) names a partnership soon dissolved; [ABC](#abc-entry) adds community influence, shared rejection of violence, and violent dissolution as different expressions (printed p. 405, PDF p. 201). The source does not provide one cause for all such unions; the unexplained Gewalt-Gemeinschaft compound remains outside confident synthesis.
 
 ## Links
 

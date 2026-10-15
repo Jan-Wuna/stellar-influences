@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Cupido Kronos`
 - Astronomicon triad-set: `VP ¡ ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Kronos = Vernal Point](../activations/cupido-kronos-equals-vernal-point.md)
-- [Vernal Point/Cupido = Kronos](../activations/vernal-point-cupido-equals-kronos.md)
-- [Vernal Point/Kronos = Cupido](../activations/vernal-point-kronos-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Kronos = Vernal Point](../activations/cupido-kronos-equals-vernal-point.md) | [Cupido/Kronos](../axes/cupido-kronos.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Cupido = Kronos](../activations/vernal-point-cupido-equals-kronos.md) | [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | [Kronos](../factors/kronos.md) |
+| [Vernal Point/Kronos = Cupido](../activations/vernal-point-kronos-equals-cupido.md) | [Vernal Point/Kronos](../axes/vernal-point-kronos.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
-- `Cupido/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `428`
-- `Vernal Point/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `45`
-- `Vernal Point/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
-- `Vernal Point/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `51`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Kronos = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-kronos-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `269`.
+- `Cupido/Kronos = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-kronos-equals-vernal-point.md#abc-entry), printed p. `428`.
+- `Vernal Point/Cupido = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-cupido-equals-kronos.md#witte-entry), one-based PDF entry-start p. `48`.
+- `Vernal Point/Cupido = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-cupido-equals-kronos.md#abc-entry), printed p. `45`.
+- `Vernal Point/Kronos = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-kronos-equals-cupido.md#witte-entry), one-based PDF entry-start p. `51`.
+- `Vernal Point/Kronos = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-kronos-equals-cupido.md#abc-entry), printed p. `51`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Kronos = Vernal Point`: exhibiting one's capacities and engaging publicly in artistic activity.
-- `Vernal Point/Cupido = Kronos`: This formula emphasizes a great financial institution, e.g, a national bank, important or leading stock company, distinguished society, and a high artistic standard.
-- `Vernal Point/Kronos = Cupido`: This formula emphasizes a manager, recognized by the public as a master of arts, and leadership of a public association.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

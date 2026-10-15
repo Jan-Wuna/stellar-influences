@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Mars`
 - Astronomicon formula: `T/¤ = U`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 Thinkers stepping into public life. Obliged to assent. Closing of an agreement. Honorable, decent way of doing things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `260`; PDF page: `129`.
+
 #### ABC Entry
 
-Special activities of the youth, talk about state power, self employed youthwork, youth work of the authority, self employed youth work, government impulses for youth, important work meetings, and important thought work
+German passage (transcribed from PDF page `129`, printed page `260`):
+
+> Besondere Aktivitäten der Jugend, Gespräche über staatliche Tatkraft, selbständige Jugend-Arbeit, Jugend-Arbeit der Behörde, selbständige Arbeit der Jugend, staatliche Impulse für die Jugend, wichtige Arbeits-Besprechungen, wichtige Gedanken-Arbeit
+
+Editorial translation from the German passage: Particular activities of young people; conversations about state initiative; independent youth work; an authority's youth work; young people's independent work; state initiatives for young people; important work meetings; important mental work.
+
+## Comparative Schema
+
+- core meaning: Important ideas put into public activity or agreement ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Important mental work is named without a separate emotional disposition.
+- body/health: No bodily condition appears.
+- social/relationship: Public thinkers and authorities engaged in youth work are examples.
+- events/manifestations: Assent, concluding an agreement, official initiative, and work meetings are explicit.
+- conflicts/notes: Witte says obliged to assent, so agreement need not mean freely shared conviction.
+
+## Contradictions
+
+Witte combines honorable action with being obliged to assent. Those clauses preserve the distinction between the form of an agreement and the freedom of the person agreeing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Mars` activates the axis into public engagement, agreement, and honorable action.
-- Chart expression: thinkers stepping into public life, formal assent, binding agreements, and a principled, decent way of acting on important ideas.
+In `Mercury/Kronos = Mars`, Mars specifies authoritative thought through action: thinkers enter public life, work is discussed, and agreements are concluded. ABC adds independent youth work, official initiative, and important mental work. Witte's “obliged to assent” keeps a qualification within the account: formal agreement can be required, even where the same entry values honorable conduct ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

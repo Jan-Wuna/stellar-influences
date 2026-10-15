@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Moon Uranus](../triads/vernal-point-moon-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 Excited or eccentric women in public. Uproar of the population. The populace is in danger.
 
@@ -42,13 +46,29 @@ Excited or eccentric women in public. Uproar of the population. The populace is 
 
 #### ABC Entry
 
+- Source page: 38; PDF page: 18 (one-based spread).
+
 Excitement of a woman in public, excited people in public, emotional excitement in public, women's reform in public, emotional rhythms in public, and public reforms for a people
+
+## Comparative Schema
+
+- core meaning: Public emotional excitement and collective unrest.
+- psychology: Agitation and emotionally charged rhythms.
+- body/health: No distinct medical claim; danger to the populace is Witte’s event association.
+- social/relationship: Women, a people and reforms concerning them.
+- events/manifestations: Public uproar and women’s or collective reforms.
+- conflicts/notes: Witte’s “eccentric women” is historical gendered wording, not a general claim about women.
+
+## Contradictions
+
+The entries agree on emotional public agitation. Witte emphasizes uproar and danger; ABC also gives reform and feeling-filled public rhythms.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Moon`: excited or eccentric women in public, uproar of the population, and the populace is in danger.
-- Practical expression: excitement of a woman in public, excited people in public, emotional excitement in public, women's reform in public, and emotional rhythms in public.
+`Vernal Point/Uranus = Moon` describes excitement felt across a public or collective setting. ABC connects a woman’s agitation, an excited people and emotional rhythms with public reforms; Witte adds uproar of the population and danger to the populace. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+The reform examples allow a less destructive expression than Witte’s danger branch. His characterization of women as excited or eccentric remains attributed historical wording rather than an assumption about women generally. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

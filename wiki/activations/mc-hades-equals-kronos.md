@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `MC/Hades = Kronos`
 - Astronomicon formula: `MC/¢ = ¤`
 - Axis page: [MC/Hades](../axes/mc-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: “Meridian + Hades,” PDF p. 71.
+
 To get into an ill humor because of interference of authorities or the government. Damages through independent action.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special danger of the soul, great mental distress, I deprive the hierarchy, my reputation from the past, my special service, my beloved state, my great mystery, my lack of self gloriousness, and my hidden psychic guidance
+Source: “Meridian + Hades,” printed p. 87 (PDF p. 42).
+
+Particular danger to the soul, great inner distress, I lack the hierarchy, my reputation from the past, my special service, my endangered state, my great secret, my lack of independence, and hidden inner or soul guidance.
+
+## Comparative Schema
+
+- **Core meaning:** Personal distress involving authority or independent action.
+- **Psychology:** Ill humor and severe emotional distress.
+- **Body/health:** No specific bodily claim is supplied.
+- **Social/relationship:** Authorities, government, hierarchy, reputation and special service.
+- **Events/manifestations:** Official interference, damage through independent action, or a lack of independence.
+- **Conflicts/notes:** Distress can involve authority or autonomy; an endangered state is not an expression of affection for the state.
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 71; [ABC Entry](#abc-entry), printed p. 87, PDF p. 42.
+
+## Contradictions
+
+Witte includes damage through independent action, while ABC includes lack of independence and an endangered state. These different directions remain distinct rather than establishing one uniformly favorable relationship to authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Kronos` raises the axis into conflict with authority and governmental interference.
-- Chart expression: sourness caused by officials, damages from independent action, and a burdened self struggling against rank, power, or imposed control.
+Kronos specifies `MC/Hades` through personal distress in relation to authority and independence. Witte names ill humor from official interference and damage through independent action; ABC also includes a lack of independence, an endangered state, special service, and a reputation carried from the past. The common thread is the personal burden of authority and autonomy, with both interference and independent action capable of becoming difficult in these entries. ([Witte](#witte-entry), PDF p. 71; [ABC](#abc-entry), printed p. 87 / PDF p. 42)
 
 ## Links
 

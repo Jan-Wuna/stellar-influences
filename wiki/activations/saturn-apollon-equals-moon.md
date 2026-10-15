@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Moon`
 - Astronomicon formula: `W/¥ = R`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 The woman who wants to separate. Persons who incline to separations. Many separations in the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old people's knowledge, tasks of science for the people, success of a woman in old age, successful patience of a single people, successful concentration of a woman, freedom loss of a people, trade problems of a people, and pain experience of a woman
+- Source page: 362 (printed); PDF page: 180.
+
+Old knowledge of a people, tasks of science for the people, a woman's success in old age, successful patience of a people, successful concentration of a woman, loss of a people's freedom, trade problems of a people, painful experiences of a woman.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Public or personal separation alongside patient knowledge and achievement involving women or a people.
+- Psychology: Successful patience and concentration, with painful experience also named.
+- Body/health: Painful experience is named without specifying a medical condition or establishing a diagnosis.
+- Social/relationship: A woman seeking separation; public separations and loss of a people's freedom.
+- Events/manifestations: Traditional knowledge, scientific tasks for a people, and trade problems.
+- Conflicts/notes: The historical gender categories remain attributed, and success does not erase separation or loss.
+
+## Contradictions
+
+The historical gender categories remain attributed, and success does not erase separation or loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Moon`: the woman who wants to separate, persons who incline to separations, many separations in the public.
-- Practical expression: old people's knowledge, tasks of science for the people, success of a woman in old age, successful patience of a single people, and successful concentration of a woman.
+In `Saturn/Apollon = Moon`, Moon specifies the pair through a people's or a woman's experience of method, patience, and separation. The [Witte entry](#witte-entry) emphasizes inclination to separate and public separations; the [ABC entry](#abc-entry) adds inherited popular knowledge, patient success, and concentration, while retaining lost freedom, trade problems, and pain. Its gender categories remain historical examples rather than universal roles.
 
 ## Links
 

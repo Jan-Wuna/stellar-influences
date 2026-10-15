@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Asc Cupido](../triads/mars-asc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Acting in union with others. The wedding of other people. Cooperation with an ar
 
 Working with other communities, local community, community work for the environment, joint activities around the partner, actions around of a community, community action, and partnership work
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [ABC Entry](#abc-entry), printed p. 111 (entry).
+
+- Core meaning: Activity with others becomes joint or community action.
+- Psychology: The entries establish cooperation without a distinct psychological profile.
+- Body/health: No bodily or medical condition is specified in these community entries.
+- Social/relationship: Artists, partners, neighbours, and working communities act together.
+- Events/manifestations: Others' weddings, artistic cooperation, and neighbourhood action are explicit.
+- Conflicts/notes: The wedding belongs to other people in Witte's wording; a personal wedding is not established by this entry.
+
+## Contradictions
+
+The entries differ in emphasis; conditional excess and different manifestations do not establish a direct contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Asc = Cupido` channels assertive presence into union, teamwork, and shared activity with family, partners, artists, or the immediate community.
-- Chart expression: cooperative action, weddings or alliances, neighborhood involvement, and energetic participation in group or artistic efforts rather than isolated struggle.
+Cupido specifies the Mars/Asc axis as acting in union with others. Artistic cooperation and common neighbourhood action in [Witte Entry](#witte-entry) connect with partnership and local community work in [ABC Entry](#abc-entry). The page concerns coordinated activity among people; its specific wedding example is the wedding of others, and should retain that distinction.
 
 ## Links
 

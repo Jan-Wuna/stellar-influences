@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Asc Zeus`
 - Astronomicon triad-set: `g Asc £`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Zeus = Node](../activations/asc-zeus-equals-node.md)
-- [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md)
-- [Node/Zeus = Asc](../activations/node-zeus-equals-asc.md)
+- [Asc/Zeus = Node](../activations/asc-zeus-equals-node.md): base axis [Asc/Zeus](../axes/asc-zeus.md); activator [Node](../factors/node.md).
+- [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md): base axis [Node/Asc](../axes/node-asc.md); activator [Zeus](../factors/zeus.md).
+- [Node/Zeus = Asc](../activations/node-zeus-equals-asc.md): base axis [Node/Zeus](../axes/node-zeus.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
-- `Asc/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `126`
-- `Node/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `105`
-- `Node/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `228`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Zeus = Node](../activations/asc-zeus-equals-node.md#witte-entry) (PDF entry-start p. 93); [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md#witte-entry) (PDF entry-start p. 82); [Node/Zeus = Asc](../activations/node-zeus-equals-asc.md#witte-entry) (PDF entry-start p. 151).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Zeus = Node](../activations/asc-zeus-equals-node.md#abc-entry) (printed p. 126); [Node/Asc = Zeus](../activations/node-asc-equals-zeus.md#abc-entry) (printed p. 105); [Node/Zeus = Asc](../activations/node-zeus-equals-asc.md#abc-entry) (printed p. 228).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Zeus = Node`: getting something done with others and joining effort around a practical aim.
-- `Node/Asc = Zeus`: Known persons get excited, they deal with or work with fire. Working with others. Connections with creative persons.
-- `Node/Zeus = Asc`: To commit something with several others. To be armed together with others.
+Node, Asc and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Zeus](../axes/asc-zeus.md)
+- [Node/Asc](../axes/node-asc.md)
+- [Node/Zeus](../axes/node-zeus.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)

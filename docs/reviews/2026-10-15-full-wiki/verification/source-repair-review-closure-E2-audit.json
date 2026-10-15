@@ -1,0 +1,609 @@
+{
+  "scope": "E2: seven unaccepted factor Hand-flag deltas only; prior accepted source histories preserved under primary-gate authorization; E1 retains111 targets. No new full-review counts.",
+  "verified_by": "/root/axis_review",
+  "path_universe": [
+    "wiki/factors/asc.md",
+    "wiki/factors/mars.md",
+    "wiki/factors/mc.md",
+    "wiki/factors/mercury.md",
+    "wiki/factors/neptune.md",
+    "wiki/factors/pluto.md",
+    "wiki/factors/saturn.md"
+  ],
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "candidate_file": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-candidates.json",
+  "candidate_file_sha256": "91ef17d917348558bbf11f3b8808585a70b22515aad4b2bbd32f2e76b0eb7b03",
+  "reviewed": [
+    {
+      "path": "wiki/factors/asc.md",
+      "queue_index": 108,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "7c3e2a879856dfa1cb2281b0d06b64d13873525b19d05a9c297b3fe1bebeb893",
+      "after_sha256": "2a82251a70a3d30d7a77aa9949f41a138eb264ffdbc1a512035c71ab57b116c3",
+      "page_sha256": "4bc3f813a06c7bf4a6bc66a56406bfea54f41671c59e0414b13ed01f8b22e8ca",
+      "ledger": "factors-001.jsonl",
+      "owner_record_sha256": "5c4f53bb1ea020745b25dec1f9eaf5ea0bd25aef9b804e15b4a3fd690612a21a",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/asc.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Rules Asc passage personally inspected on PDF27 during the targeted continuation; no printed folio is visible, so its printed bibliographic page remains unavailable.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+        "Virgo0162/Libra0163 duplication is genuinely printed72/PDF74. Authorial/editorial intent remains unresolved; both passages retained without a conflicting edition."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF103 and verified saved other way, whole, both whatever forms, I.C., other words and true when against the specific inherited-OCR flag. Read the complete amended original001 record. Shared angle wording is faithful; prior PDF104 chapter9/boundary and Ebertin/ABC history are preserved, without repeating their source review.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [
+          "Ebertin Virgo0162/Libra0163 duplication remains a genuine printed condition whose authorial intent is unresolved."
+        ],
+        "locator_limits": [
+          "Rules PDF27 and Hand PDF102–104 printed folios remain unestablished; this token check does not invent them."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "f26705817afea705394efa9c57e7345e0511b725419222872960d7ca77ed680a",
+      "takeover_canonical_sha256": "a87de6402a9d19b61e7686447563dbd9b0ebf0003f3aee09f9d05cc10d4969c3",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p103.png",
+          "sha256": "0beb93877efb63e891e79d3341b93d66d47367e281c10c7d4cb3bba4e5cf262f"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/asc.md",
+        "before_sha256": "7c3e2a879856dfa1cb2281b0d06b64d13873525b19d05a9c297b3fe1bebeb893",
+        "after_sha256": "f26705817afea705394efa9c57e7345e0511b725419222872960d7ca77ed680a",
+        "ledger": "factors-001.jsonl",
+        "reason": "Independently checked the exact changed Source Entries block against the baseline and unique amended owner ledger. ABC dictionary quotation/English preserves all eleven printed items including the qualified external-disposition phrase; actual Ebertin pages confirm Taurus code0158/printed71, signs-only native heading, and the real Virgo/Libra duplication. Hand closing words and Chapter9 boundary match the actual PDF104 scan; excerpt start/range independently matched direct raw text. Approval concerns the changed source passages and locators; inherited unviewed OCR is not certified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-abc-pdf7.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf73.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf74.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf75.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf104.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-001.jsonl"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/mars.md",
+      "queue_index": 110,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "d9f49bd646042180dbcbc52d7681087a19d9d48643347d7dde3e3634bc810bc2",
+      "after_sha256": "2f6b4c663b7472405d28135cff15323dc36315b29fc47c667dde819f93b1485c",
+      "page_sha256": "da0d375b105133a66a079a266b98bf649767d174d74847d5cce783c42f775e58",
+      "ledger": "factors-003.jsonl",
+      "owner_record_sha256": "ec6c61683f21c5b5e16c6d899dba45b9129238dc215f25ce9c104c10e213bd58",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/mars.md",
+          "text": "Other inherited OCR outside viewed Hand PDF72–73 remains unchanged; no whole-source proofread claimed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 28 and Hand at PDF pp. 71-74; their printed folios were not established. Ebertin's printed p. 55 is a chapter-start locator rather than a separate locator for every introductory paragraph. Hall's PDF pp. 104-121 do not identify individual attribute pages.",
+        "Other inherited OCR outside viewed Hand PDF72–73 remains unchanged; no whole-source proofread claimed."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF71–74 and high-resolution PDF71 detail. Verified removal of stray when quote, closed as-if quotation, with, Those who, with Venus and very. The facsimile genuinely prints extemely, retained and explicitly labeled. Read the complete amended original003 record; prior Mars/Ares, own-integrity and boundary repairs are preserved.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [
+          "Actual Hand PDF71 prints extemely; no missing r is supplied without a clearer witness."
+        ],
+        "locator_limits": [
+          "Witte/Hand printed folios remain unestablished. Ebertin printed55 is chapter-start; Hall PDF104–121 remains a broad attribute range."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "12a402b2f3f2043e7e45a281129ef80f9a4da790d04f4811debc6765543054be",
+      "takeover_canonical_sha256": "3bfc0b1c23177cbe893ac0091c94c4c6c46ef3b3f79cb43ba92c40d910ac693e",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p071.png",
+          "sha256": "3c955560e185e4dc5d554abc3cade11f67e874cf847a67c25530c05c381c33e2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p071-extemely.png",
+          "sha256": "6573e42de84e4cef3752509630a37a17a3e1b097d076e16e611c00d6cb3dd03d"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf72.png",
+          "sha256": "f37723436a5c437f20a47c17cc997749c698f6ce13db6c03bb5304134d38055f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf73.png",
+          "sha256": "76da5896c373ed864c45a13b8194b63cbf6ef5e577a9ec8b6d14e3bf1b6089fd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p074.png",
+          "sha256": "c8ce90c2f417c3705f6c239812d477d40eb077cd800ea1f713f8ce0387f7e6a6"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/mars.md",
+        "before_sha256": "d9f49bd646042180dbcbc52d7681087a19d9d48643347d7dde3e3634bc810bc2",
+        "after_sha256": "12a402b2f3f2043e7e45a281129ef80f9a4da790d04f4811debc6765543054be",
+        "ledger": "factors-003.jsonl",
+        "reason": "Independently read the complete baseline/current source delta and amended factors-003 record. Personally viewed actual Hand PDF72–73: Mars/Ares in the mythology sentence, own integrity, when, own and with repairs all match the printed passage. Direct raw first/last text matches the71–74 excerpt locator. Gender and medical claims remain attributed historical source statements; inherited OCR outside the viewed words is not covered by this approval.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf72.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf73.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-003.jsonl"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/mc.md",
+      "queue_index": 111,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "7dcb12a6fe3760f07d4a0533478d485ce1f01ef8ef56a0ce842cdd3ee2b725cb",
+      "after_sha256": "85923e4d22552c9769b76e0cc76067ece546481b07e5bd81d0a01697511ee6f1",
+      "page_sha256": "b6b29b59142da5f6ade3db44b0597cbc6d8d9e70999a597880133ba809c2c9df",
+      "ledger": "factors-003.jsonl",
+      "owner_record_sha256": "3c04be8dfe4e422303815ced479ad5bdeb4b1031d3c6dbd559f46e08078ad4be",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/mc.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 27 and Hand at PDF pp. 102-104; their printed folios were not established. Ebertin's printed p. 74 is a chapter-start locator rather than a separate locator for each introductory claim.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF103 and verified saved other way, whole, both whatever forms, I.C., other words and true when against the specific inherited-OCR flag. Read the complete amended original003 record. Prior PDF104 chapter9/boundary and Ebertin sign/footnote repair history are preserved without duplicate review.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [],
+        "locator_limits": [
+          "Witte PDF27 and Hand PDF102–104 printed folios remain unestablished. Ebertin printed74 is a chapter-start locator."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "1db73963d20caa29c06701b0a63c3286e6ba7ea10a6ea5de3d7a0457ff79dcdd",
+      "takeover_canonical_sha256": "1f3c74236246a935f214569385beaa395c92cb1d3ba7d09cfc2c7163d402c909",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p103.png",
+          "sha256": "0beb93877efb63e891e79d3341b93d66d47367e281c10c7d4cb3bba4e5cf262f"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/mc.md",
+        "before_sha256": "7dcb12a6fe3760f07d4a0533478d485ce1f01ef8ef56a0ce842cdd3ee2b725cb",
+        "after_sha256": "1db73963d20caa29c06701b0a63c3286e6ba7ea10a6ea5de3d7a0457ff79dcdd",
+        "ledger": "factors-003.jsonl",
+        "reason": "Independently compared baseline/current source section and amended factors-003 owner record. Personally viewed Ebertin PDF76–78: all twelve sign glyph/code rows0170–0181 match the restored labels and passages, Taurus crosses the page break around the separately printed footnote, Scorpio is0177/printed75, and the recovered Pisces paragraph is0181/printed76. Full historical footnote matches the actual scan and is explicitly attributed. Hand PDF104 confirms Chapter9 and the repaired closing words, with direct raw excerpt-start/range match. Earlier unviewed source OCR is outside this delta approval.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf76.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf77.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf78.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf104.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-003.jsonl"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/mercury.md",
+      "queue_index": 112,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "afb01052415a3bdbfd8b2e89adacc297aceefb35baa53af7384cc624bab96946",
+      "after_sha256": "57e0a5f8afb38d85ea64d8b7984c344e600fd3a167369ba31c772579f767414a",
+      "page_sha256": "7f8645486e55b59a2e0d309d5ade887e756823fdccf1a4407a4ebb340317d577",
+      "ledger": "factors-003.jsonl",
+      "owner_record_sha256": "c16af5d570b6f09ac6b1e6f20bb6e39b693ae865478c8fc12580a20d831824b3",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/mercury.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 27 and Hand at PDF pp. 61-67; their printed folios were not established. Ebertin's printed p. 50 is a chapter-start locator, and Hall's PDF pp. 104-121 do not pinpoint each attribute.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF61,63,64. Verified writing, both Mercury occurrences, the brain, secondary and carry in their full sentence contexts. Read the complete amended original003 record. Previously accepted communication/creation ending and bounded61–64 excerpt remain preserved; no new passage is ingested.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [],
+        "locator_limits": [
+          "Witte/Hand printed folios remain unestablished. Ebertin printed50 is chapter-start; Hall PDF104–121 does not locate individual attributes."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "5851b25f0b775dbd7c1c617f489521d355dc67c719147deba1798754a406f7b8",
+      "takeover_canonical_sha256": "0b069277b83e22af63d1109e9f8b121e125ab5178f35e6969dca639460f9fe7d",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p061.png",
+          "sha256": "622f79fddad829e152c652638a6131632c11e1e56e680bd51ebbb91bf5f7a328"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p063.png",
+          "sha256": "4407c02510eaaad6157f2f80aaa0b248a8c73e96087bb6a144a735a59a03bc47"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf64.png",
+          "sha256": "57419cddc11ed63569c3c9c0587e9147d83e520fbf862c38a172f4af64b0a30d"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/mercury.md",
+        "before_sha256": "afb01052415a3bdbfd8b2e89adacc297aceefb35baa53af7384cc624bab96946",
+        "after_sha256": "5851b25f0b775dbd7c1c617f489521d355dc67c719147deba1798754a406f7b8",
+        "ledger": "factors-003.jsonl",
+        "reason": "Actual ABC PDF7/printed16 Mercury row has all14 quoted words, including omitted Bewegung and Verkehr; the English movement/traffic rendering and ordinary intercourse/exchange range are accurate. Actual Hand64 closes the same art-communication paragraph with though the act of creation is Venusian, confirming the repaired sentence. Direct raw61 first passage and64 closing passage verify the explicitly labeled excerpt range; subsequent chapter content is not claimed.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-abc-pdf7.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf64.png"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/neptune.md",
+      "queue_index": 114,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "b8b3d015dd18eb528173c84e324bab5e36272f98481a2959fd3dedbd4f795054",
+      "after_sha256": "a0f57ae1c2a3c3355115cac3437b850ef3c857b1cfa8ab9c948d30c07a89725d",
+      "page_sha256": "02b23f63f439273216a4d8eb2ef1b1463b1724068b9b0b6ef8560a48e14af6ed",
+      "ledger": "factors-004.jsonl",
+      "owner_record_sha256": "399ecfde513d0ce338faf635730c4704f9ac44772eb2f3cb3cb8604d36500fa5",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/neptune.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Witte Neptune has a model-located chapter start at PDF p. 28; the source-evidence record does not supply its printed folio, and the scan was not viewed.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF89–91. Verified divinity, mystery, deal with, and principle. Like with a period; the last punctuation callback was saved and the amended original004 record independently reread. Prior other-factor qualification and bounded excerpt ending are preserved. No new material source defect remains.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [],
+        "locator_limits": [
+          "Witte Neptune PDF28 remains model-located and its printed folio is unestablished; unchanged Witte text is outside this Hand-token approval."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "b1b0333ee0eb1414e7247a4590f74810b213def481acbb31671d3c1a1232fba8",
+      "takeover_canonical_sha256": "233df794c51a4f6c7e8fe0645865b830f46d4ff538167649c6db63b07b3a4dc2",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p089.png",
+          "sha256": "dcdd1eab514c60eda096c50ca4d6ad988d0c6e9349dbc4eacfe6b83350d7edf7"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p090.png",
+          "sha256": "e29cb47f669967a6ab0c4986cab37b754a114beb614773043edb1925f22aefbb"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf91.png",
+          "sha256": "97374aefae8f7f25eef60963d90a7a9f682ae3cdf4a23d001149bfaa227e308d"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/neptune.md",
+        "before_sha256": "b8b3d015dd18eb528173c84e324bab5e36272f98481a2959fd3dedbd4f795054",
+        "after_sha256": "b1b0333ee0eb1414e7247a4590f74810b213def481acbb31671d3c1a1232fba8",
+        "ledger": "factors-004.jsonl",
+        "reason": "Independently read baseline/current section and amended factors-004 record. ABC PDF7's full twenty-four-word dictionary and labeled translation match the restored future, sensitivity, subtle/refinement, intuition and liquid/water/gas/air/formless/negation tail. Actual Ebertin PDF66–68 confirms every native conditional sign/house row0118–0129 and its printed64–66 locator, preserving historical claims. Actual Hand PDF91 completes the withdrawal passage with the necessary other-planet qualification Pluto and Saturn; bounded excerpt range/start/end directly match raw text. Inherited OCR outside changed passages is not certified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-abc-pdf7.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf66.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf67.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf68.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf91.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/pluto.md",
+      "queue_index": 115,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "65b0eb3b4c2ca49e0182996867dd72157633dba5ccc39678553b42f4c59d8e5c",
+      "after_sha256": "0b616e3f7d52cd29191f657fc4e3ebc9dcd89fbd0e582daa8089ad8f5d2e07dc",
+      "page_sha256": "9cac3f50320dd25f13636eca8101c27f8e241f00af2ec7e66667d91dca9df3be",
+      "ledger": "factors-005.jsonl",
+      "owner_record_sha256": "c49d987f4f52f81325668fe91cf56d358691f1314e47707113ac8e7f963b8d29",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/pluto.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Printed folios are not established for Rules (known PDF p. 28), Hand (known PDF pp. 94-100), Banzhaf/Haebler (inherited PDF p. 50) and Johndro (inherited PDF pp. 24-25). These are missing printed folios, not missing passage locators; no printed numbers were invented.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF94–97. Verified ordinary, the Earth, very, subtly, momentary, with, unquoted When, fulfill, both own forms, will and both energy repairs. Read complete amended original005 record. Historical medical/political/occult claims and their qualifications, prior PDF99/100 boundary, and other source histories remain preserved.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [],
+        "locator_limits": [
+          "Printed folios remain unestablished for Rules PDF28, Hand PDF94–100, Banzhaf/Haebler PDF50 and Johndro PDF24–25; no printed numbers invented."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "57269f82b55373f4c9ae86e4b2f2e13e394a0748432f37ed5636c46fd47a6bdf",
+      "takeover_canonical_sha256": "6cf4b227476e23fff1b7efb802cb798522f71e8d468b2fe6465b33b666e02ac5",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf94.png",
+          "sha256": "2599db90b0a013c5f90de975dd117ee452f3fc26d8ba39fbf90be8578ab78184"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p095.png",
+          "sha256": "08e6975fbb1ad18ec67fe99262d5bc7c9480144f5307241214f607f06f9d9a39"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p096.png",
+          "sha256": "dab6f4a2521babd3f34363339a2352bf1f56bd96319c3d84c2b2b9ad31f70e2d"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p097.png",
+          "sha256": "b34ce4b94ca638a9f33412cb1b5ed5b7f049e5260ba1284f4e8c5fae81db3006"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/pluto.md",
+        "before_sha256": "65b0eb3b4c2ca49e0182996867dd72157633dba5ccc39678553b42f4c59d8e5c",
+        "after_sha256": "57269f82b55373f4c9ae86e4b2f2e13e394a0748432f37ed5636c46fd47a6bdf",
+        "ledger": "factors-005.jsonl",
+        "reason": "Independently compared baseline/current source block and amended factors-005 owner ledger. Actual Ebertin PDF69–70 confirms Gemini0133 is a separate glyph/houseIII row, all subsequent Cancer–Pisces labels/codes0134–0142, Capricorn0140/printed68, and complete conditional prose. Actual Hand PDF99–100 confirms the Pluto paragraph ends on99, wre is we, and the isolated5 belongs to the next chapter; direct raw start/end supports the94–99 excerpt. Earlier unviewed Hand OCR remains outside this delta approval.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf69.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf70.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf99.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf100.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-005.jsonl"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    },
+    {
+      "path": "wiki/factors/saturn.md",
+      "queue_index": 116,
+      "decision": "accepted",
+      "classification": "repaired-and-verified",
+      "before_sha256": "d58a8e8c933df159e7dfe51b87d9df2af6651f304ae04c71a0899b697f3215c5",
+      "after_sha256": "10f8911ad947356df2cc2d8436fbf2b809bf4870f2a8024161eeded22991b848",
+      "page_sha256": "0ab77a6ff109e11cf24afc0e0d9ac30bec5988ba6773ac756457c6facb4b855a",
+      "ledger": "factors-005.jsonl",
+      "owner_record_sha256": "3dc615b7f9c8fe9e72faa2529998c2b70e4b8f8d8094d4e11a6e3506ab424422",
+      "unique_owner_count": 1,
+      "original_issues": [
+        {
+          "holder": "wiki/factors/saturn.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [
+        "Printed folios are not established for Rules (known PDF p. 28), Hand (known PDF pp. 79-84), Banzhaf/Haebler (inherited PDF p. 42), Johndro (inherited PDF pp. 14-17) and Hall (inherited PDF pp. 105-121). These are missing printed folios, not missing passage locators; no printed numbers were invented.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ],
+      "finding": "Narrow independent closure supplement to preserved prior source approvals: personally inspected actual Hand PDF79–81,83–84. Verified awareness, slow-moving, well, we, know, writers, was, now, power, how, who, what, when, share with, wrought/the years, very/without and deal with. Read complete amended original005 record. Previously accepted Uranus closing sentence and boundary, and earlier source repair histories remain preserved.",
+      "material_defects": [],
+      "remaining_source_limits": {
+        "genuine_printed_conditions": [],
+        "locator_limits": [
+          "Printed folios remain unestablished for Rules PDF28, Hand PDF79–84, Banzhaf/Haebler PDF42, Johndro PDF14–17 and Hall PDF105–121."
+        ],
+        "context_limits": [
+          "Prior attributed historical and conditional claims are preserved; this is a bounded Hand-token check, not a new whole-source review."
+        ]
+      },
+      "takeover_source_sha256": "eaee095da38f5c335396afbe63a1b9348fa8086ddff3f311fa05868fee2f5416",
+      "takeover_canonical_sha256": "f9ef983099bc4864c152453204b583cf16c30e2654b9906dcea05ab22bf5eb94",
+      "exact_takeover_and_saved_source_deltas_read": true,
+      "complete_amended_unique_owner_record_read": true,
+      "new_changed_tokens_personally_scan_checked": true,
+      "prior_accepted_source_history_reused_only_within_previous_scope": true,
+      "proofs": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p079.png",
+          "sha256": "edb7e9384e31eb82b895461a78174a22898278826aede10e272758151d847136"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p080.png",
+          "sha256": "95c0ffd10fb042d28d7cc5737c3dbe59e2ecec5cf2220c20912d920526915fbb"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p081.png",
+          "sha256": "0d52ec7da4034723762500a63790b6431f4aaa4c2c8907a4940689a1886bee1b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf83.png",
+          "sha256": "f7b902422d14cf01a15ffe0cc6d4c5aef71157099867ac9989bdc793ac038cb8"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf84.png",
+          "sha256": "5b870cb583a634daebb537e9024721fe0c4ce1afcfada5998a526ec91367ae39"
+        }
+      ],
+      "stable_author_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-receipt.json",
+      "stable_author_receipt_sha256": "3722003334a7a6e948e15f2d1944f91155a085cf177077b01b4a21525eb56f31",
+      "stable_author_decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "stable_author_decisions_sha256": "ebd8e64bcd9ac3ecd6a493f8b9fdc9cc8f4238360d00042bc5406ac927bee783",
+      "exact_takeover_export": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-takeover-baselines.json",
+      "exact_takeover_export_sha256": "ea34f4d0aaf01b419a7e332b0e3669d204db042b4c3739c2cd4f2aeb27b97d76",
+      "verified_by": "/root/axis_review",
+      "new_full_review_counts": 0,
+      "historical_prior_scope": {
+        "path": "wiki/factors/saturn.md",
+        "before_sha256": "d58a8e8c933df159e7dfe51b87d9df2af6651f304ae04c71a0899b697f3215c5",
+        "after_sha256": "eaee095da38f5c335396afbe63a1b9348fa8086ddff3f311fa05868fee2f5416",
+        "ledger": "factors-005.jsonl",
+        "reason": "Actual ABC PDF7/printed16 Saturn line has all17 quoted keywords from Belastung to Langsamkeit, matching the complete labeled English. Actual Hand84 ends the Saturn section with Uranus, to create disruptions in the orderly world of Saturn so that creative energies can flow, before the separate Uranus heading. The restored tail belongs to Saturn; raw79 start and84 end confirm the chapter/excerpt range.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-abc-pdf7.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-hand-pdf84.png"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "historical_prior_scope_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E2-prior-scopes.json",
+      "historical_prior_scope_artifact_sha256": "fad3d1d13727693ec00cc53ca3f0e8d0b20641b1e3a7c09d4d94b69ccc4f68a5"
+    }
+  ],
+  "accepted_count": 7,
+  "held_count": 0,
+  "unreviewed_paths": [],
+  "unreviewed_count": 0,
+  "status": "complete",
+  "final_validation": {
+    "status": "pass",
+    "exact_targets": 7,
+    "accepted": 7,
+    "held": 0,
+    "unreviewed": 0,
+    "strict_seven_field_allowance_rows": 7,
+    "new_proof_images_personally_inspected": 21,
+    "unique_original_factor_records_retained": 23,
+    "original_records_reviewed": 23,
+    "no_new_full_review_counts": true,
+    "checks": [
+      "exact frozen E2 candidate and parent-queue hashes",
+      "all7 original baseline and cumulative current Source Entries BODY hashes",
+      "all7 current canonical and unique actual original JSONL record-line hashes",
+      "all exact takeover before byte hashes and current after text",
+      "historical prior scope hashes matched exact takeover Source Entries",
+      "every new proof and stable receipt/decision/baseline/prior-scope artifact hash",
+      "strict7 schema and exact allowance/audit correspondence"
+    ],
+    "allowance_bank_sha256": "e2ee75de6edf887226ab1bc0e623596e0930057360b3f3a0242f6e47154a1b64"
+  }
+}

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Neptune`
 - Astronomicon formula: `U/W = Y`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Neptune row.
+
 Death by poison, gas, plague, or cunning (treachery).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-disappointing loss of work, serious metaphysical activity, sensitivity in difficult work, patient work with water, concentrated future work, weak disturbance of will, uncertainty through actions involving loss, unsettling disturbances of will, develop activities in old age, development of a serious activity, and patient development
+- Source reference: printed p. 301; one-based PDF p. 149, Mars + Saturn, Neptune row.
+
+Disappointing loss of work, serious metaphysical activity, sensitivity during problematic work, patient work with water, concentrated work for the future, weak disturbance of the will, uncertainty through actions involving loss, and unsettling disturbances of the will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 205; one-based PDF p. 207, coded entry 0705.
 
 Weak vitality, insufficient power to tackle resistance or life obstacles. Waning powers and weakening efforts, self-torment, undermining of vitality (through poison, gas or an epidemic). Mysterious death, grievous and grave loss.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 69, Planets activating the Mars/Saturn midpoint, Neptune paragraph.
 
 Pent up hostility or frustration has a draining influence on one. To be touch and sensitive about one’s ideals. The urge to do something practical to actualize one’s ideals.
 
@@ -70,22 +80,21 @@ A weakening of well prepared plans for the development of desires; defects in tr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Weakened effort, uncertain preparedness, and the draining effect of unresolved frustration.
+- Psychology: Self-torment, sensitivity about ideals, and a wish to give ideals practical form.
+- Body/health: Witte and Ebertin historically connect depletion with poison, gas, epidemics, and death; these are attributed claims.
+- Social/relationship: Munkasey includes pretense or cover-ups about preparedness, without proving deception in every instance.
+- Events/manifestations: Defective training, inefficient planning, work loss, and sensitive or metaphysical work.
+- Conflicts/notes: The complete ABC Neptune row ends with unsettling disturbances of the will. The following activity-in-old-age and developmental-work clauses belong to Pluto and are kept on that separate page.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's practical idealism and ABC's sensitive work broaden an otherwise severe picture. The entries do not establish that frustration causes toxic exposure or death.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Neptune`: practical attempts to actualize ideals despite exhaustion, fear, or unseen weakening influences. Main caution: corrosive depletion: blocked force can become self-torment, mysterious loss of strength, or grave damage through toxins, epidemics, or draining circumstances.
+In `Mars/Saturn = Neptune`, Neptune specifies constrained effort through depletion, uncertainty, or weakened preparation. Pent-up frustration may feel draining, while the wish to make an ideal practical remains possible. [Sandbach](#sandbach-entry) (exact Neptune paragraph at PDF p. 69) and [Munkasey](#munkasey-entry) (printed p. 228) support that focus. [Witte](#witte-entry) (PDF p. 193) and [Ebertin](#ebertin-entry) (printed p. 205, code 0705) supply severe historical medical examples, which are not diagnoses or inevitable outcomes.
 
 ## Links
 

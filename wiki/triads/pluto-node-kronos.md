@@ -28,27 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Node Kronos`
 - Astronomicon triad-set: `Z g ¤`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Node/Kronos = Pluto](../activations/node-kronos-equals-pluto.md)
-- [Pluto/Kronos = Node](../activations/pluto-kronos-equals-node.md)
-- [Pluto/Node = Kronos](../activations/pluto-node-equals-kronos.md)
+- [Node/Kronos = Pluto](../activations/node-kronos-equals-pluto.md) — base axis [Node/Kronos](../axes/node-kronos.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Kronos = Node](../activations/pluto-kronos-equals-node.md) — base axis [Pluto/Kronos](../axes/pluto-kronos.md); activator [Node](../factors/node.md).
+- [Pluto/Node = Kronos](../activations/pluto-node-equals-kronos.md) — base axis [Pluto/Node](../axes/pluto-node.md); activator [Kronos](../factors/kronos.md).
 
 ## Source Coverage
 
-- `Node/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `231`
-- `Pluto/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
-- `Pluto/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `414`
-- `Pluto/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `223`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Node/Kronos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-pluto.md#witte-entry), one-based PDF p. `152` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-pluto.md#abc-entry), printed p. `231` (PDF p. `114`).
+- `Pluto/Kronos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-kronos-equals-node.md#witte-entry), one-based PDF p. `260` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-kronos-equals-node.md#abc-entry), printed p. `414` (PDF p. `206`).
+- `Pluto/Node = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-node-equals-kronos.md#witte-entry), one-based PDF p. `148` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-node-equals-kronos.md#abc-entry), printed p. `223` (PDF p. `110`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Pluto`: P Desire to dominate. Developments, changes in connection with the authorities.
-- `Pluto/Kronos = Node`: This activation emphasizes new ties to authority or to capable, influential people.
-- `Pluto/Node = Kronos`: This activation emphasizes ties to authority, rank or tested capability develop or change.
+Use this hub to select an orientation of the unordered set `Pluto Node Kronos`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

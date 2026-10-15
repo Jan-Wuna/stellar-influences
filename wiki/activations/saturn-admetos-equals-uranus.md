@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Uranus`
 - Astronomicon formula: `W/¦ = X`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ Sudden jarring stop or throttling. To suddenly apply a brake. To suddenly change
 
 #### ABC Entry
 
-Congested circulatory rhythm, dynamic task deepening, severe tension due to depression, sudden problems densification, severe technical problems, and resistance to difficult reform
+Burdened circulatory rhythm, dynamic deepening of tasks, serious tension through depression, sudden intensification of problems, severe technical problems, unexpected intensification of pain, and resistance to difficult reform
+
+## Comparative Schema
+
+- Core meaning: sudden interruption or reversal under pressure.
+- Psychology: tension and resistance to difficult reform.
+- Body/health: ABC's circulation and intensified-pain associations remain historical.
+- Social/relationship: no specific relationship pattern is stated.
+- Events/manifestations: braking, reversing course, technical problems and dynamic task work.
+- Conflicts/notes: abrupt change does not necessarily remove the underlying obstacle.
+
+## Contradictions
+
+The entries describe a range of manifestations. Abrupt change does not necessarily remove the underlying obstacle; this is a qualification, not proof of agreement across sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Uranus`: sudden jarring stop or throttling, to suddenly apply a brake, to suddenly change the course.
-- Practical expression: congested circulatory rhythm, dynamic task deepening, severe tension due to depression, sudden problems densification, and severe technical problems.
+In `Saturn/Admetos = Uranus`, Uranus specifies the Saturn/Admetos pair through abrupt interruption: a brake is applied, progress is throttled or the course reverses. The [Witte entry](#witte-entry) uses these concrete images (PDF p. 229). The [ABC entry](#abc-entry) adds suddenly intensified problems, technical difficulty and resistance to reform, but also dynamic engagement with tasks (printed p. 365; PDF p. 181). The common thread is a sharp change in constrained circumstances; its historical pain and circulation language does not establish a medical prediction.
 
 ## Links
 

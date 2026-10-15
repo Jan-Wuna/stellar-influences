@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Admetos](../triads/sun-asc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 80 (one-based).
 
 A dislike for making new acquaintances. Sterile relations. To stick to the same people.
 
@@ -42,13 +46,27 @@ A dislike for making new acquaintances. Sterile relations. To stick to the same 
 
 #### ABC Entry
 
-Depression of the personal partner, strengthening of the personal environment, grilndlicher mannlicher partner, body circle of the partner, person blockade in the environment, congestion in the center of the place, and control of other persons
+Source locator: printed page 101; PDF page 49 (one-based).
+
+Depression of the personal partner, strengthening of the personal environment, a thorough male partner, the partner's bodily circulation, a blockage of people in the surroundings, congestion in the local center, and oppression of other people.
+
+## Comparative Schema
+
+- core meaning: Fixed or restricted relations and surroundings, with environmental strengthening also named.
+- psychology: Dislike of new acquaintances; a partner's depression remains historical source language.
+- body/health: ABC names the partner's circulation without a specific bodily disorder.
+- social/relationship: Remaining with the same people, sterile relations and a thorough partner.
+- events/manifestations: Local congestion, blocked people and oppression of others.
+- conflicts/notes: Familiarity or thoroughness does not itself establish oppression; “sterile relations” is Witte's wording.
+
+## Contradictions And Comparison Notes
+
+Witte emphasizes unchanged acquaintances and resistance to new ones; ABC adds blocked or strengthened surroundings and a partner's condition. Those settings do not establish a universal inward withdrawal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Admetos`: one who withdraws into oneself and reserve.
-- Practical expression: depression of the personal partner, strengthening of the personal environment, body circle of the partner, and person blockade in the environment.
+For `Sun/Asc = Admetos`, personal relations and surroundings tend toward fixity or restriction in the entries. [Witte](#witte-entry) describes avoiding new acquaintances and staying with the same people; [ABC](#abc-entry) adds a thorough partner and strengthened surroundings, but also blocked people, local congestion and oppression. This preserves both the established quality of an environment and its possible constraints. A partner's depression and circulation remain particular source attributions rather than conclusions about their health.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Hades Vulcanus](../triads/mars-hades-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Dangerous force. Warlike energies. To move the earth by mechanical energies. Dredging work. Destruction of the earth’s crust.
 
@@ -42,13 +46,27 @@ Dangerous force. Warlike energies. To move the earth by mechanical energies. Dre
 
 #### ABC Entry
 
-Influential actions from the past, danger through violence activity, dangerous energies in action, lack of strength at work, criminal violence actions, strong labour lack, hidden will influ/3, and renunciation of labor powers
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Influential actions from the past, danger through violent activity, dangerous energies in action, lack of strength at work, criminal acts of violence, severe lack of work, hidden influence on the will, and relinquishing working forces.
+
+## Comparative Schema
+
+- core meaning: Powerful activity in dangerous, destructive, mechanical, or deficient conditions.
+- psychology: Hidden influence on the will and lack of working strength in ABC's entry.
+- body/health: No diagnosis is supplied; dangerous energies and violence remain source examples.
+- social/relationship: Criminal violence, influential past actions, and relinquishing working forces.
+- events/manifestations: Dredging, mechanical earth-moving, destruction of the earth's crust, and severe lack of work.
+- conflicts/notes: Mechanical earthwork, violence, and lack of work are distinct expressions; one does not establish the others.
+
+## Contradictions
+
+Witte emphasizes dangerous or mechanical force, while ABC also includes deficiency, past influence, and relinquishment. These different emphases are retained.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Hades` turns strong force dangerous, warlike, and destructive in crude or geological ways.
-- Chart expression: hazardous energies, martial destruction, heavy mechanical labor such as dredging, and force applied in ways that damage the earth, infrastructure, or basic material conditions.
+In `Mars/Vulcanus = Hades`, Hades specifies powerful effort through dangerous or deficient conditions and particular forms of mechanical work. Witte names warlike energies, dredging, earth-moving, and destruction of the earth's crust. ABC retains dangerous or criminal violence, but also lack of strength or work, hidden influence on the will, and actions from the past. The range includes both force being applied and force being unavailable; ordinary earthwork does not by itself imply criminal or violent conduct. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

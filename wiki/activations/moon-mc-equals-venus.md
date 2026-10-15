@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Venus`
 - Astronomicon formula: `R/MC = Q`
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Venus row under Meridian + Moon checked.
+
 #### Witte Entry
 
 To have a preference for women. A harmonious mind. Feminine attitude. The femininity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 64; one-based PDF p. 31, complete eleven-clause Venus row checked.
+
 #### ABC Entry
 
-Blessed people art, I at the a gentle woman, I feel harmony, harmony with my wife, kiss of my people, my passion for the arts, my soul peace, my love faith, my love as a woman, my love for the woman, and the beauty of a soul full of passion
+Editorial translation checked against the German scan: Soulful folk art; I am a beautiful woman; I feel harmony; harmony with my wife; the art of my people; my feeling for art; my peace of soul; my loving feelings; my love as a woman; my love for a woman; beauty of a feelingful soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 143; one-based PDF p. 145, coded entry `0449`, complete entry checked.
 
 #### Ebertin Entry
 
 One's own attitude toward love, deep attachments. The state of experiencing a deep attachment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 40, complete Venus paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To experience emotional exaltation when one is loving another. In love one opens
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Ven` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ The role of feminine values or virtues in your life, and how you express these t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal feeling expressed through love, harmony, attachment and art. [Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry).
+- psychology: A harmonious mind, inner peace, deep attachment and exalted feeling in love are stated. [Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: No bodily condition or diagnosis is specified.
+- social/relationship: Love, harmony with a wife and parenting as a possible goal are represented; feminine values are source-specific language rather than prescribed roles. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Artistic feeling, folk art, spiritual appreciation in everyday experience and protecting personal values, status or career are examples. [ABC](#abc-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Deep attachment and protecting values do not establish approval dependence, public popularity or an artistic occupation.
 
 ## Contradictions
 
-- None recorded yet.
+The entries broadly agree on love and harmony. Sandbach adds a spiritual dimension to love and art, while Munkasey emphasizes values, protection and parenting. These are additional possibilities rather than proof of a single public purpose.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Venus`: popular appeal, nurturing artistry, and public purpose strengthened through tact, kindness, and emotional charm. Main caution: approval-shaped direction: comfort and likability can become too central to vocation and self-worth.
+In `Moon/MC = Venus`, personal emotional life is shaped by love, attachment and a wish for harmony. The [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) entries connect inner peace and affectionate feeling with deep attachment and artistic appreciation. The [Sandbach entry](#sandbach-entry) adds spiritual openness in love and a sense of spirituality in ordinary experience. The [Munkasey entry](#munkasey-entry) carries the theme into values expressed through personal development, protection of what matters and parenting as one possible goal. These meanings do not make public approval or popularity the measure of personal worth.
 
 ## Links
 

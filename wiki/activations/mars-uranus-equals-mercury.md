@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Mercury`
 - Astronomicon formula: `U/X = T`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -70,22 +72,21 @@ You find working with metal and mechanical objects interesting; you devote much 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden, lively communication and independently planned or researched action.
+- Psychology: Refreshing passion can coexist with agitation and the wish to have one's views debated.
+- Body/health: Ebertin and Sandbach's nervous-system descriptions remain attributed; no neurological diagnosis follows.
+- Social/relationship: Surprising news, forceful debate, and insistence on being heard are explicit.
+- Events/manifestations: Research, inventions, mechanical work, rhythmic movement, and dynamic meetings.
+- Conflicts/notes: Detailed calculation in Ebertin and careful factual presentation in Munkasey prevent a reading of sheer impulsiveness.
 
 ## Contradictions
 
-- None recorded yet.
+Alarming news and refreshing communication are different expressions, not evidence that lively speech is necessarily distressing.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Mercury`: inventive ideas, lively speech, and the ability to act mentally with boldness and technical precision. Main caution: over-stimulation: nerves can be overtaxed and speech can turn into shocking argument, abrupt debate, or mental agitation.
+In `Mars/Uranus = Mercury`, Mercury specifies sudden activity through news, debate, research, and inventive thought. Lively expression can surprise others, while careful calculation and factual precision give the energy a deliberate use. Agitation and forceful argument remain possible. See [Witte](#witte-entry) (PDF p. 194), [ABC](#abc-entry) (printed p. 302), [Ebertin](#ebertin-entry) (printed p. 208, code 0713), [Sandbach](#sandbach-entry) (chapter starts at PDF p. 71), and [Munkasey](#munkasey-entry) (printed p. 232). The historical nervous-system claims do not establish a diagnosis.
 
 ## Links
 

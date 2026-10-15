@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Mercury`
 - Astronomicon formula: `V/g = T`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Mercury row; glyph and adjacent entries checked.
+
 Clearly expressing one’s thoughts. Good entertainment. Mental sympathy. Happy connections in the youth.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful thought connections, successful contacts with youth, joyful encounters through language, language about legal obligations, happy connections in youth, advantages through language connections, and advantageous media relations
+- Source reference: printed page 214; one-based PDF page 106, Mondknoten/Jupiter section, Mercury row; complete German row checked.
+
+Successful connections of thought, successful contacts with youth, joyful encounters through conversation, discussions of legal obligations, happy connections in youth, advantages through linguistic connections, and advantageous media relations
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0833; retained printed coded-entry locator.
 
 Inclination to cultivate an exchange of thoughts with others, organizing and arranging associations or unions, sociable. Joint or shared successes, good cooperation between people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Mercury entry; exact paragraph checked, chapter begins on page 84.
 
 A mind capable of making connections and synthesizing ideas. Communica tion that expresses a positive and enthusiastic attitude toward potentials for growth.
 
@@ -66,26 +76,27 @@ A mind capable of making connections and synthesizing ideas. Communica tion that
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed-page locator, not a newly verified PDF page.
+
 Writing or stating your opinions more clearly to influence groups or associates; increased desires to do research in the legal, political or religious fields; further pursuit of education; discussions of opportunities with associates.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Exchange and synthesis of ideas supporting successful connections.
+- psychology: Mental sympathy, positive thinking and enthusiasm about growth.
+- body/health: No bodily condition is stated.
+- social/relationship: Sociability, arranging associations and shared cooperation.
+- events/manifestations: Writing clear opinions, education, research, media relations and discussion of opportunities.
+- conflicts/notes: No entry here states excessive talking or poor discernment; those former cautions should not be manufactured.
 
 ## Contradictions
 
-- None recorded yet.
+The entries are largely complementary: mental sympathy, organized cooperation and clear communication. Their legal, political or religious research examples specify subject matter rather than incompatible meanings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Mercury`: lively exchange, mental sympathy, group organization, and communication that helps people cooperate or see wider possibilities together. Main caution: social optimism in words outrunning discernment, producing too much talking or overly easy assumptions about common understanding.
+In `Jupiter/Node = Mercury`, the [source entries](#source-entries) give successful connection a mental and verbal form. Clear expression, mental sympathy and exchange of ideas support organizing groups and cooperating with others. Sandbach adds the ability to synthesize ideas and communicate enthusiasm for growth. ABC and Munkasey provide concrete settings in conversation, media, legal obligations, research and education. The shared focus is communication that helps people connect and recognize opportunities, without an unsupported excess-talking caution.
 
 ## Links
 

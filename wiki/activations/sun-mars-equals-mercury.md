@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mercury Mars](../triads/sun-mercury-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ The commander. A man who gets angry and is tends to assault.
 
 #### ABC Entry
 
-Activities of young people, thought work of a person, language of a person's corporal activity, news from the work centre, personal youth work, language activity of a man, activity in person traffic, and active young man
+Source locator: printed page 146 / PDF page 72, Mercury glyph under Sonne + Mars. English translation checked against the complete row.
+
+Activity of young people, a person's mental work, conversations about physical activity, news from the work center, personal youth work, the man's speech activity, activity in passenger transport, and an energetic young man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Readiness for action, desire to bring plans to realization. The thinking fighter
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 11, complete Mercury entry under Planets activating the Sun/Mars midpoint.
 
 Constructive thinking that take the long-range into account. An egotistically aggressive way of communicating. Cleverness in figuring out how to actualize one’s goals.
 
@@ -70,22 +76,21 @@ The mental preparation you need for excelling at any physical activity; your abi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thinking and preparation directed toward effective action.
+- psychology: Constructive planning or aggressive communication.
+- body/health: Physical training and practiced tasks in Munkasey.
+- social/relationship: Commanding speech and dealing with competitors.
+- events/manifestations: Putting plans into practice or perfecting skills.
+- conflicts/notes: ABC's passenger-transport example specifies an activity field, without establishing an occupation.
 
 ## Contradictions
 
-- None recorded yet.
+Constructive thought and combative communication are alternatives within the entries, not a direct contradiction. Witte’s assault example remains an attributed extreme. ABC's conversations, speech and passenger transport are separate activity examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Mercury`: readiness for action, clever execution, and the ability to think competitively about how to achieve goals. Main caution: combative thought: speech can become aggressive and plans can be pushed too hard or too fast.
+In `Sun/Mars = Mercury`, Mercury specifies Sun/Mars activity through thought, planning, and communication. The [Ebertin Entry](#ebertin-entry) links readiness for action to realizing a plan; the [Munkasey Entry](#munkasey-entry) gives mental preparation and repeated practice as ways to improve performance. The [Sandbach Entry](#sandbach-entry) shows the same directed intelligence becoming aggressive in speech. The pattern is thinking in order to act effectively, with communication capable of becoming a contest itself.
 
 ## Links
 

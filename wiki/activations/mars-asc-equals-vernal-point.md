@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Vernal Point Mars Asc](../triads/vernal-point-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ To be impressed by the actions or deeds of other people in general. To participa
 
 Others working in public, work in public places, impulses of others in public, public work on the spot, public partner work, environmental work in public, and will of the public on the spot
 
+## Comparative Schema
+
+- core meaning: Action involving others occurs in public or responds to people in general.
+- psychology: Being impressed by other people's deeds is explicit.
+- body/health: No bodily condition is stated.
+- social/relationship: Public partner work and participation in fighting are source examples.
+- events/manifestations: Work in public places and public activity at a locality are named.
+- conflicts/notes: Participation in fighting is one Witte manifestation; public work does not imply conflict by itself.
+
+## Contradictions
+
+Public work and fighting differ in emphasis. The entries do not establish that public activity must become a conflict.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Asc = Vernal Point` makes the Mars/Asc axis public and collective, so one is impressed by, drawn into, or identified with the deeds and conflicts of people in general.
-- Chart expression: participation in fighting, strong reaction to public action, and a personal environment charged by general social tension, struggle, or mobilization.
+Vernal Point specifies the Mars/Asc axis through action with others in a public setting. [ABC](#abc-entry) names work in public places, public partner work and the public's will at a locality; [Witte](#witte-entry) adds being impressed by people's deeds and participating in fighting. Public engagement unifies the entries, while fighting remains a particular manifestation rather than the meaning of every shared activity.
+
+Evidence: Witte PDF p. 85; ABC printed p. 110, PDF p. 54.
 
 ## Links
 

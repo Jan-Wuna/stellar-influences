@@ -4,21 +4,22 @@ page_type: factor
 slug: chiron
 status: source_ingested
 framework_scope: modern_astrology
+structural_only: true
 factors:
   - Chiron
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Factor: Chiron
 - Canonical page type: structural factor page created because the source treats `Chiron` as a first-class participant in axis and activation formulas.
-- This page is source-bounded to Sandbach's modern midpoint corpus.
-- Do not read it as a comparative factor doctrine page.
-- This factor page should not be used as standalone `Chiron` doctrine.
+- Scope: Sandbach's modern midpoint corpus; no standalone Chiron chapter is ingested here, so this page supports formula lookup rather than standalone factor doctrine.
+
+[Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -27,11 +28,19 @@ updated_at: 2026-04-21
 - No standalone factor chapter material from this source is ingested on this page.
 - `Chiron` appears canonically through Sandbach axis pages, activation pages, and triad hubs.
 
+## Comparative Schema
+
+- core meaning: Chiron is a canonical participant in the source's formulas; this entry establishes structural identity without a standalone factor meaning. ([Sandbach scope entry](#source-entries))
+- psychology: No standalone psychological account is ingested here.
+- body/health: No standalone bodily or medical account is ingested here.
+- social/relationship: No standalone relationship meaning is ingested here.
+- events/manifestations: Meanings belong to the relevant axis or oriented activation entries; this page supplies no independent event delineation.
+- conflicts/notes: The absence of a standalone entry is a scope limit, not a source assertion that Chiron lacks meaning. Formula-specific claims must not be promoted into general Chiron doctrine through this structural page.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron` is present here as a structural factor because Sandbach uses it in axis and activation formulas, but no standalone factor chapter is currently ingested on this page.
-- Use the linked `Chiron` axes and activations for actual delineation; this page should not be treated as independent `Chiron` doctrine until a source-bearing factor entry is added.
+Chiron has a canonical identity here because Sandbach uses it in axis and activation formulas. The [source entry](#source-entries) contains no standalone factor chapter, so it supports a structural role rather than an independent interpretation of Chiron. Use the [related axes](#related-axes) for shared pair meanings and retrieve the exact oriented activation for an explicit formula; the structural triad hubs serve sibling lookup rather than merged doctrine.
 
 ## Related Axes
 

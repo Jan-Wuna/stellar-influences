@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Asc](../triads/sun-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Physical activity toward (or with) another person. Other people act or interfere
 
 #### ABC Entry
 
-Centre for local employment, actions of other persons, corporal work for the environment, environmental actions, place of daily work, personal activities of the partner, working conditions of the environment, and personal partners
+Source locator: printed page 146 / PDF page 72, Asc glyph under Sonne + Mars. English translation checked against the complete row.
+
+Work center at the location, actions of other persons, physical work for the surroundings, human actions in the surroundings, location of daily work, personal vigor of the partner, personal work for the surroundings, and personal partner's will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Devoting oneself and one's whole energy completely to a definite cause, cooperat
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 12, complete Ascendant entry under Planets activating the Sun/Mars midpoint.
 
 One’s identity is formed around the need for important and/or meaningful accomplishment. A forcefully confident personality. The desire to engage in meaningful activity as a means of relating to others. A tendency to want to boss or direct the other person in relationships.
 
@@ -70,22 +76,21 @@ Concentrating on your need to develop and practice until you meet and then excee
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal effort meets another person or the surroundings.
+- psychology: Confidence, practice, and concentration on accomplishment.
+- body/health: Physical activity is named without a medical conclusion.
+- social/relationship: Teamwork can shade into directing or bossing others.
+- events/manifestations: Cooperative work, competition, or interference by others.
+- conflicts/notes: ABC's partner's will and work for the surroundings describe the interpersonal setting; cooperation and interference remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Teamwork and interference are different relational possibilities, not mutually exclusive assertions. ABC adds the partner's will and work for the surroundings without requiring either outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Asc`: decisive personality, energetic teamwork, and the need to prove oneself by doing rather than merely declaring. Main caution: bossiness: drive can become overly directive, competitive, or hard for partners and associates to live with.
+In `Sun/Mars = Asc`, Asc specifies Sun/Mars activity through direct engagement with others. The [Witte Entry](#witte-entry) includes acting with or toward another person and encountering their interference, while the [Ebertin Entry](#ebertin-entry) emphasizes wholehearted teamwork. The [Sandbach Entry](#sandbach-entry) explains how meaningful accomplishment can shape identity and relationships, including the tendency to boss a partner. The [Munkasey Entry](#munkasey-entry) adds focused practice and attention to competitors: purposeful effort becomes visible in the way one works alongside, against, or through other people.
 
 ## Links
 

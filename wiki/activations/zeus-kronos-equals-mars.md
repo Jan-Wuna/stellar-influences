@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Mars Zeus Kronos](../triads/mars-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-The creative ability of the womb. Love’s labor. Expansive peaceful work. To experience friendship and affection through great accomplishment. Diplomat. Peaceful military power.
+- PDF page: 289 (one-based).
+
+Acting out of power, to enforce implicitly. Brightly blazing conflagration. Sharpshooters. War machines. Armored ships, tanks.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special activity design, joy over self organization, filthy work with the state, self employed performance will, self employed work performance, self governing leadership activity, state management work, and determined action of the boss
+- Source page: 450; PDF page: 224 (one-based spread).
+
+Special shaping of activity, joy in independent creation, leadership activity in the state, self-confident will to achieve, independent work achievements, independent leadership activity, state leadership work, and purposeful action of the chief.
+
+## Comparative Schema
+
+- core meaning: Authority and determined effort become forceful action.
+- psychology: Self-confident will to achieve and joy in independent creation.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: State leadership work and purposeful action by a chief.
+- events/manifestations: Independent work, enforcement, military machinery and blazing fire.
+- conflicts/notes: The prior Witte entry belonged to Venus; constructive work and armed force remain separate.
+
+## Contradictions
+
+ABC emphasizes independent and official work. Witte emphasizes enforcement, military machinery and fire; the difference in severity should remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Mars`: The creative ability of the womb. Love’s labor. Expansive peaceful work. To experience friendship and affection through great accomplishment. Diplomat. Peaceful military power.
-- Practical expression: special activity design, filthy work with the state, self employed performance will, and self employed work performance.
+`Zeus/Kronos = Mars` puts authority and determined effort into action. ABC gives independent work, leadership activity and purposeful action by a chief, supported by self-confident will; Witte describes the more forceful branch of enforcement through power. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+Sharpshooters, armored ships, tanks and a blazing conflagration are Witte’s specific extreme examples. They should remain distinct from the broader constructive field of independent or state work. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

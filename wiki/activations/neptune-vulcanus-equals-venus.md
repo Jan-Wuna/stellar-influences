@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Venus`
 - Astronomicon formula: `Y/§ = Q`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 To be without any power of attraction. To be greatly deceived in ones love and affections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `404`, PDF p. `201` (entry).
+
 #### ABC Entry
 
 disappointing power of peace, subtle energies of love, subtle artistic influence, peaceful air power, weakened power of love, tremendous deception in love, harmonious influence through metaphysics, and powerful uncertainty in love
 
+## Comparative Schema
+
+- core meaning: weakened attraction or love and possible deception in affection.
+- psychology: great uncertainty in love is explicit.
+- body/health: subtle love-energy is historical language without a medical mechanism.
+- social/relationship: deception in love and weakened power of affection are named.
+- events/manifestations: artistic influence, peaceful air power, and harmonious metaphysical influence are stated.
+- conflicts/notes: the source does not establish coercion masked as care, dependency, or approval-seeking.
+
+## Contradictions
+
+Witte emphasizes loss of attraction and deception in love. ABC also includes art and harmonious influence alongside weakened love and uncertainty.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Venus`: To be without any power of attraction. To be greatly deceived in ones love and affections.
-- Practical focus: moves hidden force into love, value, and attraction, showing deception in affections and bonds where sympathy, dependence, or vulnerability become the price of approval or attachment. It can mark both loss of magnetism and coercive emotional dynamics masked as care.
-- Practical expression: disappointing power of peace, subtle energies of love, subtle artistic influence, peaceful air power, and weakened power of love.
+In Neptune/Vulcanus = Venus, attraction and affection are considered through weakness, uncertainty, or deception. [Witte](#witte-entry) names absent attraction and being deceived in love; [ABC](#abc-entry) adds weakened love-power and uncertainty, but also artistic and harmonious influence (printed p. 404, PDF p. 201). These distinctions do not support an added account of coercive care, dependence, or the price of approval.
 
 ## Links
 

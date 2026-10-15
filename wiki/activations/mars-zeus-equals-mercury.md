@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mercury Mars Zeus](../triads/mercury-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Energetic and creative thinking. Messages about military activities, rocket ignition, shooting or conflagrations.
 
@@ -42,13 +46,27 @@ Energetic and creative thinking. Messages about military activities, rocket igni
 
 #### ABC Entry
 
-Exhaustive work with the youth, work design for the youth, work objectives discuss, reports on work performance, fiery speech activity, thoughts on procreationacts, opinions on filthy work, and activity in youth welfare
+Source: “Mars + Zeus,” printed p. 312 (PDF p. 155).
+
+Strenuous work with youth, work design for youth, discussing work goals, reports on work achievements, fiery conversational activity, thoughts of procreative acts, opinions about leadership work, and activity in youth leadership.
+
+## Comparative Schema
+
+- core meaning: Directed and creative activity through thinking, conversation, and reports about work or events.
+- psychology: Energetic thought and opinions about leadership.
+- body/health: Thoughts of procreation are named, without a medical effect.
+- social/relationship: Work with youth, youth leadership, and fiery conversation.
+- events/manifestations: Reports on achievements, military activity, rocket ignition, shooting, or fires.
+- conflicts/notes: Reporting a violent or technical event is distinct from participating in it; no calculation method is supplied.
+
+## Contradictions
+
+Witte emphasizes energetic thought and event messages; ABC supplies youth work, work-goal discussion, and leadership opinions as further settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Mercury` makes the axis mental, communicative, and technically articulate.
-- Chart expression: inventive thinking, active planning, and messages, calculations, or reports tied to conflict, machinery, ignition, or decisive operations.
+In `Mars/Zeus = Mercury`, Mercury specifies directed and creative effort through thought, conversation, and reporting. Witte describes energetic thinking and messages about military activity, ignition, shooting, or fires; ABC also includes work with youth, discussion of work goals, reports on achievement, and opinions about leadership. These entries connect active thought with concrete subjects without making every message participation in the event it describes. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 312 / PDF p. 155)
 
 ## Links
 

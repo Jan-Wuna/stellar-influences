@@ -1,0 +1,94 @@
+{
+  "pages_reviewed": 13,
+  "changed_from_baseline": 13,
+  "pages": [
+    {
+      "path": "wiki/derived/munkasey-venus-neptune-concepts.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "source_concepts_preserved_verbatim": true,
+      "concept_count": 98,
+      "concept_page_preserved": true
+    },
+    {
+      "path": "wiki/derived/munkasey-venus-node-concepts.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "source_concepts_preserved_verbatim": true,
+      "concept_count": 98,
+      "concept_page_preserved": true
+    },
+    {
+      "path": "wiki/derived/munkasey-venus-pluto-concepts.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "source_concepts_preserved_verbatim": true,
+      "concept_count": 98,
+      "concept_page_preserved": true
+    },
+    {
+      "path": "wiki/derived/munkasey-venus-saturn-concepts.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "source_concepts_preserved_verbatim": true,
+      "concept_count": 98,
+      "concept_page_preserved": true
+    },
+    {
+      "path": "wiki/derived/munkasey-venus-uranus-concepts.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "source_concepts_preserved_verbatim": true,
+      "concept_count": 98,
+      "concept_page_preserved": true
+    },
+    {
+      "path": "wiki/derived/orientation-matters-sun-moon-venus.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "synthesis_anchor_adjacent": true
+    },
+    {
+      "path": "wiki/derived/orientation-reading-throughline-witte-sandbach.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "synthesis_anchor_adjacent": true
+    },
+    {
+      "path": "wiki/derived/shared-factor-throughline-witte-ebertin.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": [],
+      "synthesis_anchor_adjacent": true
+    },
+    {
+      "path": "wiki/derived/shared-factors-witte-vs-ebertin.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": []
+    },
+    {
+      "path": "wiki/derived/udo-rudolph-abc-coverage-map.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": []
+    },
+    {
+      "path": "wiki/derived/udo-rudolph-abc-translation-qa.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": []
+    },
+    {
+      "path": "wiki/derived/vault-source-coverage-audit.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": []
+    },
+    {
+      "path": "wiki/derived/witte-vs-sandbach-on-orientation-specific-triads.md",
+      "changed_from_baseline": true,
+      "non_date_metadata_changes": []
+    }
+  ],
+  "local_links_checked": 163,
+  "link_errors": [],
+  "coverage_summary_preserved": true,
+  "coverage_factor_index_preserved": true,
+  "vault_original_classification_and_history_lines_preserved": true
+}

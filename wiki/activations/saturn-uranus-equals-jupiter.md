@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Jupiter Saturn Uranus](../triads/jupiter-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Sudden separation from happiness. Sudden losses of money or real estate. A huge 
 
 #### ABC Entry
 
-Successful concentration on technology, serious unrest due to money, sudden legal cancellations, sudden money loss, painful legal event, difficult financial finances, and advantage by ii surprising separation
+Successful concentration on technology, serious unrest over money, sudden legal disturbances, sudden loss of money, a painful legal event, difficult financial reform, and advantage through surprising separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Opinion and advice on how to effect change to traditional ways; many suggestions
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A turn in strained conditions can release tension or bring material loss.
+- psychology: Adaptability and confidence in integrating established ways with innovation.
+- body/health: No specific bodily claim is supplied.
+- social/relationship: Advice on change and conflict between conservative and radical positions.
+- events/manifestations: Money or property losses, legal disturbances, technical success and possible advantage through separation.
+- conflicts/notes: Fortunate release and adverse turns are both represented; improvement is conditional.
 
 ## Contradictions
 
-- None recorded yet.
+The beneficial release described by Ebertin and ABC stands beside Witte's losses; these are alternative outcomes and must not be flattened into assured progress.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Jupiter`: strategic modernization, credible breakthroughs, and the ability to improve rigid conditions without losing realism. Main caution: overconfident experimentation: the wish to solve strain quickly can lead to unstable optimism or reform that outruns its foundation.
+Jupiter specifies Saturn/Uranus at a turning point where tension may open into fortunate release or financial and practical disruption. Adaptability and ideas for joining established practice with innovation support constructive change, yet the same entries retain losses and damage. The [Ebertin Entry](#ebertin-entry) (printed p. 247) holds both possibilities together; [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) and [Munkasey](#munkasey-entry) (printed p. 284) develop the capacity to think through reform, while [Witte](#witte-entry) (PDF p. 221, entry start) and [ABC](#abc-entry) (printed p. 348; PDF p. 173) keep its material stakes visible.
 
 ## Links
 

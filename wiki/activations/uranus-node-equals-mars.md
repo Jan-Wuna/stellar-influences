@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Mars`
 - Astronomicon formula: `X/g = U`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Mars entry.
+
 #### Witte Entry
 
 Sudden unions in connection with one’s own work. To be again united with one’s own work. To be embroiled in fights and arguments.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Mars entry.
+
 #### ABC Entry
 
-Support for new connections, dynamic mediation activity, excited actions in connections, new relationship to work, reform of work renunciation, creating links to technology, and creating connections suddenly
+Efforts toward new connections, dynamic mediation activity, excited actions in connections, a new relationship to work, reform of job placement, creating connections to technology, and suddenly establishing connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0967`.
 
 #### Ebertin Entry
 
 Tendency to become easily excited in the presence of others, quarreling, exercising self-control only with the greatest difficulty. Disputes accompanied by violence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Mars entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Adds energy and impetus to push ahead with needed changes; added strength to pus
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Energetic creation or renewal of connections. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Excitability, experimentation, and difficulty with self-control in the sources. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Violent disputes are an event association, not a medical diagnosis. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Work unions, mediation, arguments, and intertwined love and attraction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden work connections and action against opposition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Constructive mediation and disputes are different possibilities; violent examples remain attributed rather than expected. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Experimentation and energetic creation of work connections coexist with argument and difficulty with self-control. Ebertin's violent disputes remain attributed severe examples rather than an inevitable expression of energetic contact.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Mars`: catalytic teamwork, collective courage, and the ability to break deadlock socially through forceful initiative. Main caution: social volatility: quarrels, rash moves, or abrupt confrontations can fracture the ties they energize.
+Mars specifies Uranus/Node through energetic action that makes or reactivates connections, especially around work. Experimenting with one's approach and pushing ideas despite opposition can enliven these bonds, while excitement can also turn into argument or difficulty with self-control. Ebertin's violent disputes remain an attributed severe expression, distinct from constructive mediation or a renewed work connection. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

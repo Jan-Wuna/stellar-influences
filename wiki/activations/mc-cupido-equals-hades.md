@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [MC Cupido Hades](../triads/mc-cupido-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To collect old things or art objects. The own sense of art is directed towards a
 
 #### ABC Entry
 
-Inward distress of a community, I have in the community, my fellowship in the community, my sorrow in the community, my pleasure from the past, disadvantages of a soul community, and mental distress in of a community
+- Source passage: `Meridian + Cupido`; printed p. `85`; one-based PDF page `41` (complete oriented row checked against the raw scan).
+
+Inner distress of a community, I experience deprivation in the community, my secret within the community, my sorrow within the community, my art from the past, disadvantages of a soul community, inner distress within a community.
+
+## Comparative Schema
+
+- **Core meaning:** Old material and communal distress are distinct supported themes.
+- **Psychology:** Sorrow and inner distress within a group are represented.
+- **Body/health:** The entries establish no specific medical condition.
+- **Social/relationship:** ABC describes disadvantages within community; Witte's “vulgar” judgment is historical.
+- **Events/manifestations:** Collecting old things, art objects, or supplies is explicit.
+- **Conflicts/notes:** ABC names deprivation, a secret and art from the past; Witte's vulgarity remains an attributed historical judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Hades` lowers the axis into antique taste, hoarding, and degraded or vulgar company.
-- Chart expression: communal or artistic life drawn toward old things, stored supplies, antiquity, or inferior circles, with group taste taking on a coarse or decayed quality.
+Hades specifies `MC/Cupido` through communal difficulty and an interest in old objects or art. Collecting antiquities or supplies belongs beside sorrow and distress in community; Witte's evaluative phrase “vulgar company” remains an attributed taste judgment rather than a description of every group involved. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [MC Cupido Apollon](../triads/mc-cupido-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ To have many members in the family. To have an extensive social life. To feel co
 
 Experienced souls of a community, expansion of a psychic community, my success in the arts, my commercial community, my knowledge of the community, soul experiences in the community, and spread of inspired arts
 
+## Comparative Schema
+
+- **Core meaning:** Broadening family and communal participation.
+- **Psychology:** Comfort in company is explicitly represented.
+- **Body/health:** No bodily or medical meaning is established.
+- **Social/relationship:** Large families and extensive social connections are named.
+- **Events/manifestations:** Scientific, trading, religious, and artistic communities are possible settings.
+- **Conflicts/notes:** Witte's “com ortable” is an OCR defect; it does not alter the bounded social theme or establish universal popularity.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Apollon` expands the axis into large families, broad social life, and wide communal affiliation.
-- Chart expression: many connections, comfort in company, shared interests with commercial, scientific, or religious groups, and a life path widened through collective participation.
+Apollon specifies `MC/Cupido` through the extension of family, social life, and common interests. Comfort among many people joins community knowledge and artistic success, with scientific, commercial, and religious circles providing explicit settings for participation. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

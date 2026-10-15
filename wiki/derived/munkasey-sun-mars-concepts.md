@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Sun/Mars` as source-native image material.
+Preserve Munkasey's concept phrases for `Sun/Mars` from the third page of the pair chapter as source-native image material.
+
+[Read the Sun/Mars interpretation](../axes/sun-mars.md#derived-synthesis) for the shared pair meaning and follow the axis page's activation links for explicit formulas.
 
 ## Evidence Base
 
 - [Sun/Mars](../axes/sun-mars.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `69`
+- Source concept page: `69` (printed); PDF page `70` (1-based).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Sun/Mars` as source-native image
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+These are Munkasey's concept prompts for the pair. The [source list](#source-concepts) includes “Genuine Courage” alongside “Prefers Violence” (p. `69`), without stating how to choose between such images. Their different emphases should remain visible.
+
+The list supplies images and vocabulary rather than a comparative delineation or an interpretation of an added activating factor. Terms such as “Official Hysteria” and “Spontaneous Masculinity” remain Munkasey's wording; they do not establish medical findings or universal claims about gender.

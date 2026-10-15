@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Apollon Vulcanus`
 - Astronomicon triad-set: `VP ¥ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Apollon/Vulcanus = Vernal Point](../activations/apollon-vulcanus-equals-vernal-point.md)
-- [Vernal Point/Apollon = Vulcanus](../activations/vernal-point-apollon-equals-vulcanus.md)
-- [Vernal Point/Vulcanus = Apollon](../activations/vernal-point-vulcanus-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Vulcanus = Vernal Point](../activations/apollon-vulcanus-equals-vernal-point.md) | [Apollon/Vulcanus](../axes/apollon-vulcanus.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Apollon = Vulcanus](../activations/vernal-point-apollon-equals-vulcanus.md) | [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Vernal Point/Vulcanus = Apollon](../activations/vernal-point-vulcanus-equals-apollon.md) | [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Apollon/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
-- `Apollon/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `470`
-- `Vernal Point/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
-- `Vernal Point/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `57`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Apollon/Vulcanus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-vulcanus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `307`.
+- `Apollon/Vulcanus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-vulcanus-equals-vernal-point.md#abc-entry), printed p. `470`.
+- `Vernal Point/Apollon = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-vulcanus.md#abc-entry), printed p. `53`.
+- `Vernal Point/Vulcanus = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-vulcanus-equals-apollon.md#witte-entry), one-based PDF entry-start p. `54`.
+- `Vernal Point/Vulcanus = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-vulcanus-equals-apollon.md#abc-entry), printed p. `57`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Vernal Point`: general prosperity, broad public wealth, and strong success visible across the social environment.
-- `Vernal Point/Apollon = Vulcanus`: This formula emphasizes enormous expansion and spreading out and great successes.
-- `Vernal Point/Vulcanus = Apollon`: This formula emphasizes wholesale merchants, power of trade and commerce, great expansion or success, far reaching power and influence, and powerful through the use of science.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

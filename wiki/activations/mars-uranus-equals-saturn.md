@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Saturn`
 - Astronomicon formula: `U/X = W`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source: one-based PDF p. 194, Saturn row under Mars/Uranus.
+
 Sudden stop or interruption of one’s work. Violent separation. Amputation. Caesarian section.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting star impulses, disturbing trade losses, serious reform actions, concentration on technical work, new work tasks, sudden loss of activity, surprising separation actions, and loss of reform activity
+English translation: Agitating disturbance impulses; unsettling trade losses; serious reform actions; concentration on technical work; new work tasks; sudden loss of activity; surprising separation actions; reform activity involving losses.
+
+Source: printed p. 303 (one-based PDF p. 150), Saturn row under Mars/Uranus.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: printed p. 208 (one-based PDF p. 210), entry 0716.
 
 Violence, lack of adaptability. Energy concentrated on separation, heavy injury, operation, violent destruction.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: one-based PDF p. 71, exact Saturn paragraph under Mars/Uranus.
 
 To wish to be uninhibited in one’s actions, but to be shy about it or afraid of doing so. To act in an independent or uninhibited fashion, but to do so with caution and circumspection.
 
@@ -70,22 +80,21 @@ You may be known as a rash and impulsive person, but you carefully examine all s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden activity meets interruption, separation, caution, or restricted expression.
+- Psychology: The wish for independence can coexist with shyness, fear, or careful consideration.
+- Body/health: Witte and Ebertin's amputation, Caesarean section, and severe-injury examples remain historical medical claims.
+- Social/relationship: Munkasey includes isolation and a wish for solitude.
+- Events/manifestations: Stopped work, sudden loss of activity, reform difficulties, and concentrated technical work.
+- Conflicts/notes: The printed opening is `Aufregende Stör-Impulse`, agitating disturbance impulses, rather than star impulses. The final `verlustreiche Reform-Tätigkeit` means reform activity involving losses, rather than loss of reform activity.
 
 ## Contradictions
 
-- None recorded yet.
+Cautious independent action and violent separation are distinct possibilities. Restraint does not establish a causal route to bodily injury.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Saturn`: disciplined independence, cautious rebellion, and the ability to act decisively even under restrictive conditions. Main caution: violent severance: blocked explosive force can result in sudden interruption, harsh separation, or serious bodily consequence.
+In `Mars/Uranus = Saturn`, Saturn specifies spontaneous action through a stop, separation, or cautious restriction. The wish to act independently may persist while fear, circumspection, or solitude limits its expression. See [Sandbach](#sandbach-entry) (exact Saturn paragraph, PDF p. 71), [Munkasey](#munkasey-entry) (printed p. 232), and the complete [ABC entry](#abc-entry) (printed p. 303). [Witte](#witte-entry) (PDF p. 194) and [Ebertin](#ebertin-entry) (printed p. 208, code 0716) retain historical surgical and injury examples rather than establishing a prognosis.
 
 ## Links
 

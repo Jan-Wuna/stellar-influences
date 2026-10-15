@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Cupido`
 - Astronomicon axis: `X/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 236.
+
 Sudden marriage. Sudden wedding. Sudden event in the family. Wedding celebrations. Surprises, unexpected events in married life, partnership. To be united or reunited with the family by surprise. Unforeseen event during the wedding. Sudden innovations in art. Associations, groups or companies in the fields of innovation, technology or energy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-common rhythm us, tense community, art event, new artist, reform community, and technical synthesis
+- Source page: printed pp. 374–375; PDF p. 186.
+
+Excited community, common rhythm, tense community, impulses toward the whole, art event, art and technology, new art, reform community, technical synthesis.
+
+## Comparative Schema
+
+- core meaning: surprise, excitement, or innovation within a family, partnership, group, or artistic undertaking ([Witte](#pair-summary)).
+- psychology: excitement and communal tension are named; the short entries do not establish a general individual temperament.
+- body/health: no specific bodily or medical claim is supplied by these pair summaries.
+- social/relationship: sudden marriage, wedding celebrations, unexpected family events, and surprising reunions; organizations in technology or energy are also explicit ([Witte](#pair-summary)).
+- events/manifestations: unforeseen partnership events, artistic innovations, art joined with technology, common rhythm, community reform, and technical synthesis ([Witte](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: unexpectedness does not determine whether a group event is welcome or disruptive. Common rhythm and impulses toward the whole coexist with communal excitement and tension.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ common rhythm us, tense community, art event, new artist, reform community, and 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to sudden marriage. Sudden wedding. Sudden event in the family. Wedding celebrations. Surprises, unexpected events in married life, partnership. To be united or reunited with the family by surprise. Unforeseen event during the wedding. Sudden innovations in art. Associations, groups or companies in the fields of innovation, technology or energy.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Cupido` concerns a shared life or collective undertaking animated by surprise and innovation. Sudden marriage, an unforeseen family event, or an unexpected reunion expresses this through kinship and partnership; artistic innovation and organizations devoted to technology or energy express it through collective work. These are explicit parts of the [Witte summary](#pair-summary), rather than meanings borrowed from particular activations.
+
+The [ABC summary](#abc-pair-summary) adds common rhythm and impulses toward the whole alongside community tension, reform, artistic events, and technical synthesis. The common theme is a change or impulse affecting how people or activities come together. It does not guarantee a wedding, imply a breakup, or establish whether the surprise will be welcome; the pair entries leave those outcomes open.
 
 ## Links
 

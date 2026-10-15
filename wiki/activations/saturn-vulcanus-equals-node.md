@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Node Vulcanus](../triads/saturn-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To experience strong hindrances in or through one’s connections. To be connect
 
 lose an influential connection, influential connection in old age, unite energy with endurance, unite patience and power, violence in a disturbed relationship, enormous tasks of a relationship, and strong disturbances in a relationship
 
+## Comparative Schema
+
+- core meaning: Connections carry heavy demands or join endurance with power.
+- psychology: Patience and vigilance are relational qualities here.
+- body/health: No specific bodily or medical claim is supplied.
+- social/relationship: Hindrances through associates, lost influential ties and violence in disturbed relationships.
+- events/manifestations: Immense shared tasks and strong disturbances in a connection.
+- conflicts/notes: Association can combine resources or impose constraints.
+
+## Contradictions
+
+ABC's joining of patience and power does not contradict Witte's hindrances through connections; the relationship can be supportive or restrictive.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Node`: to experience strong hindrances in or through one’s connections.
-- Practical expression: lose an influential connection, influential connection in old age, unite energy with endurance, unite patience, and power.
+Node specifies Saturn/Vulcanus through connections that combine energy and endurance or impose strong hindrances. Vigilant associates and shared patience can support demanding tasks, yet an influential connection may be lost or become a setting for disruptive force. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) and [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) ground both sides of association; neither makes connection itself a guarantee of support.
 
 ## Links
 

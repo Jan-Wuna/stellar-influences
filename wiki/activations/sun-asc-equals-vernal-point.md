@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Vernal Point Sun Asc](../triads/vernal-point-sun-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ The physical relationships one generally acquires. The facade, outward appearanc
 
 #### ABC Entry
 
-Other subjects in public, Public Place centre, Place and day in public, Man's partners in public life, People in public environment, Human resources environment, and Personal partners in public life
+Source locator: printed page 100 / PDF page 49, Vernal Point glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Other persons in public, public local center, location and day in public, male partners in public life, people in public surroundings, personal public surroundings, and personal partner in public life.
+
+## Comparative Schema
+
+- core meaning: The visible person and their relationships in public life.
+- psychology: Outward appearance is described; no distinct psychological trait is established.
+- body/health: The body's public appearance is mentioned, not a health condition.
+- social/relationship: Personal partners and other people in public surroundings.
+- events/manifestations: Public encounters and activity around a local center.
+- conflicts/notes: Public surroundings and personal partners are specified; neither entry establishes fame, an occupation or authority.
+
+## Contradictions
+
+Both entries locate personal contact in public; no explicit opposing claim is present.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Vernal Point`: the person in the environment and the presence of a person.
-- Practical expression: other subjects in public, public Place centre, place, day in public, and man's partners in public life.
+Vernal Point specifies the Sun/Asc axis by placing personal appearance and relationships in public surroundings. The [Witte entry](#witte-entry) concerns the body's outward facade in the general public, and the [ABC entry](#abc-entry) repeatedly locates people, partners, and a local center in public life. The common theme is the visible person among others, without an additional claim of fame or authority.
 
 ## Links
 

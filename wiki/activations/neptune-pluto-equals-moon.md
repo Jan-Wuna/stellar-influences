@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Moon`
 - Astronomicon formula: `Y/Z = R`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Mysterious persons. Persons who slowly and unnoticeable change their attitude towards the native. It can also mean the public or especially women who change their attitude.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `390`, PDF p. `194` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,17 @@ dissolving developments of a people, feigned emotional change, creeping emotiona
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `281`, entry code `1000`.
+
 #### Ebertin Entry
 
 Strange soul experiences, highly sensitive, changes of mood, an immediate response to every influence. A peculiar or strange woman, supernatural experiences.
 
+- Historical footnote 60 (printed p. 281): In some cases Moon = Neptune/Pluto was found in the case of alcoholics.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ One who is extremely emotionally sensitive and extremely impressionable to subtl
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Increases the care you bring to transforming the lives of self or others for the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional sensitivity and changing attitudes under subtle or uncertain influence.
+- psychology: mood changes, intense ideals, and security derived from fantasy are explicit.
+- body/health: Sandbach's asthma and allergy claims and Ebertin's separate alcoholism footnote are historical claims, not diagnoses or established causal evidence.
+- social/relationship: people or women changing their attitude and emotionally improving others' lives are source examples.
+- events/manifestations: feigned emotional change, uncertain collective development, and brief escapes are named.
+- conflicts/notes: the source does not establish ancestral undercurrents or healing ability; gendered descriptions remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+Witte focuses on others' changing attitudes; ABC includes feigned feeling and collective or woman-specific development. Ebertin and Sandbach emphasize sensitivity and unusual experiences, while Munkasey adds emotional betterment and escape.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Moon`: profound intuition, healing depth, and the capacity to feel collective or ancestral undercurrents strongly. Main caution: psychic overwhelm: the emotional life can become compulsive, flooded, or quietly eroded by invisible pressures.
+In Neptune/Pluto = Moon, emotional sensitivity is considered alongside changing attitudes, fantasy, and ideals. [Witte](#witte-entry) describes people whose attitude changes unnoticed; [ABC](#abc-entry) adds feigned emotional change, weak emotional unfolding, and uncertain development. [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) emphasize sensitivity and intense inner experience, while [Munkasey](#munkasey-entry) includes emotional betterment and brief escape. The historical health claims remain attributed and do not establish a healing capacity or medical mechanism.
 
 ## Links
 

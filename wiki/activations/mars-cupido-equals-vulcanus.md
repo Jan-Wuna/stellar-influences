@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Mars Cupido Vulcanus](../triads/mars-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ To possess great influence in a study-group or cooperative community. Potent coo
 
 #### ABC Entry
 
-Influenced labour community, energies of a labour community, joint powerful actions, violence actions of a community, strong labour community, strong will of a community, and will of a community to power
+An influential work community, the energies of a work community, shared powerful actions, violent actions of a community, a strong work community, a community's strong will, and a community's will to power.
+
+- Source reference: printed p. 309, PDF p. 153, Vulcanus row; `Einflußreiche` means influential, not influenced.
+
+## Comparative Schema
+
+- core meaning: Cooperative activity carries strength, power and influence.
+- psychology: Strong shared will and will to power are ABC themes.
+- body/health: Violence appears without a specific bodily condition.
+- social/relationship: Group influence and marrying into an influential family are Witte examples.
+- events/manifestations: Potent joint work and influence through artistic ability are explicit.
+- conflicts/notes: Violence is one ABC manifestation; influence through cooperation or art does not by itself imply coercion.
+
+## Contradictions
+
+Witte emphasizes influence and potent cooperation; ABC also retains violence and will to power. These broaden the range rather than directly contradicting one another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Vulcanus`: forceful group work, strong artistic or communal impact, and marriage or family ties linked to people with real power, leverage, or commanding presence.
+Vulcanus specifies the Mars/Cupido axis through the power and influence of shared activity. [Witte](#witte-entry) names potent cooperation, artistic influence and marriage into an influential family. [ABC](#abc-entry) adds the energy and strong will of a community, retaining violent action and will to power as difficult manifestations. The common theme is collective strength; how that strength is used remains material to the different examples.
+
+Evidence: Witte PDF p. 197; ABC printed p. 309, PDF p. 153.
 
 ## Links
 

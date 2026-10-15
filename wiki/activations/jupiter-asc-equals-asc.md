@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Asc = Asc`
 - Astronomicon formula: `V/Asc = Asc`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -41,22 +43,21 @@ Increased ability to remember the names and faces of people you meet; any inflat
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Better recognition of names and faces can coexist with inflated self-worth.
+- Psychology: Inflated estimates of ability and increased gullibility.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Misreading intentions and attempts to use others or being used.
+- Events/manifestations: Remembering people encountered and evaluating their intentions.
+- Conflicts/notes: A single With Itself paragraph supplies this repeated-factor orientation; no independent comparison is available.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry deliberately places improved recall beside inflated self-estimation and gullibility; it does not claim these are mutually exclusive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Asc`: Increased ability to remember the names and faces of people one meets; any inflation of one's self worth and ability; expands one's gullibility about people and their intentions, or how one feels one can use them, or vice-versa.
+In `Jupiter/Asc = Asc`, Asc specifies the Jupiter/Asc axis through social recognition, self-evaluation, and judgment of others. The [Munkasey Entry](#munkasey-entry) joins improved memory for people with potentially inflated self-worth and ability. Social attentiveness can therefore coexist with gullibility about motives, including how one might use others or be used. The paragraph gives a mixed account of recognition and judgment rather than an assurance of sound interpersonal understanding.
 
 ## Links
 

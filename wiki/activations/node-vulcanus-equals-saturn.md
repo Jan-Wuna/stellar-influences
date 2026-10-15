@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Saturn Node Vulcanus](../triads/saturn-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 155 (one-based; exact row checked).
 
 To be forced. To submit to force. Separation of a stable connection.
 
@@ -42,13 +46,27 @@ To be forced. To submit to force. Separation of a stable connection.
 
 #### ABC Entry
 
-Influential connections in old age, energy losses in a relationship, enormous problems in a connection, concentration on the connection to power, and strong in a mature relationship
+- Source page: 237 (printed); PDF page: 117 (one-based; exact row checked).
+
+Influential connections in old age, losses of energy within a relationship, disturbed influence within a connection, enormous problems within a connection, concentration on the connection to power, strength within a mature relationship, loss-laden contacts with force.
+
+## Comparative Schema
+
+- core meaning: constraint, loss or concentrated strength in an influential connection.
+- psychology: submission to force and concentration on a connection to power.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: a stable tie may separate; influential relationships in old age and mature strength are also named.
+- events/manifestations: forced submission, energy loss, problems and loss-laden contacts with force.
+- conflicts/notes: ABC's strength in maturity remains a distinct possibility beside Witte's compulsion and separation; neither cancels the other.
+
+## Contradictions
+
+ABC's strength in maturity remains a distinct possibility beside Witte's compulsion and separation; neither cancels the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Saturn`: To be forced. To submit to force. Separation of a stable connection.
-- Practical focus: to be forced; also to submit to force.
+Saturn specifies `Node/Vulcanus` through the pressure or limit placed on a powerful connection. The [Witte entry](#witte-entry) names being forced, submitting to force and separation of a stable tie; the [ABC entry](#abc-entry) adds energy losses, disturbed influence and major problems within the relationship. ABC also preserves influential contacts in old age and strength in a mature bond. The connection can therefore carry concentrated strength as well as constraint, with its stability alone offering no guarantee against separation.
 
 ## Links
 

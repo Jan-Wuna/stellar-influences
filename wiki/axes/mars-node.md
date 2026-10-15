@@ -11,6 +11,8 @@ normalized_axis: Mars/Node
 factor_a: Mars
 factor_b: Node
 related_activations:
+  - Mars/Node = Mars
+  - Mars/Node = Node
   - Mars/Node = Admetos
   - Mars/Node = Apollon
   - Mars/Node = Asc
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/NODE`
-- Source page: `243`
+- Source heading: `NODES + MARS`
+- PDF page: `143`
 
 #### Pair Summary
 
@@ -86,9 +90,15 @@ Working community. Concerted action. Betrothal. Sexual union. Erotic unions. Com
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `212`; PDF page: `105` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-A work Trefften, work mediation, relationships aktivieren, Kontaktwant, wirdkraftige relationships, Verbindungs Impulse, and mediation activity
+German pair summary (transcribed from printed page `212`; PDF page `105`):
+
+> Arbeits-Treffen, Arbeits-Vermittlung, Beziehungen aktivieren, Kontakte wollen, tatkräftige Beziehungen, Verbindungen schaffen, Verbindungs-Impulse, Vermittlungs-Tätigkeit
+
+Editorial translation from the German passage: Work meetings, work placement or mediation, activating relationships, wanting contacts, active relationships, creating connections, impulses toward connection, mediating activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +182,17 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Connections formed or exercised through common action; cooperation and conflict both belong to the [Pair Summary](#pair-summary), [Principle](#principle), and [Pair Delineation](#pair-delineation).
+- psychology: Comradeship, team spirit, and a social conscience coexist with insistence, impatience, quarrels, and the need to change ineffective ways of doing things.
+- body/health: Ebertin's "astral body," climacteric, and eunuch-related statements and Munkasey's muscle/ligament claims are attributed historical correspondences, not medical or gender conclusions about a person.
+- social/relationship: Coworkers, associations, new friendships, physical attraction, and sexual union are represented. Attraction alone is one stated kind of union, not the definition of every bond on the page.
+- events/manifestations: Shared success, entering or interrupting an association, joint sport, meetings, and disagreements over collective action are explicit. Military assistance and treaties are Munkasey's institutional examples.
+- conflicts/notes: Banzhaf/Haebler's North Node discussion adds action in relation to life priorities; it does not replace the other entries' concrete associations. ABC explicitly names activating relationships, creating connections, meetings and mediation.
 
 ## Related Activations
+
+- [Mars/Node = Mars](../activations/mars-node-equals-mars.md)
+- [Mars/Node = Node](../activations/mars-node-equals-node.md)
 
 - [Mars/Node = Admetos](../activations/mars-node-equals-admetos.md)
 - [Mars/Node = Apollon](../activations/mars-node-equals-apollon.md)
@@ -205,15 +218,15 @@ Tears and rips of the muscles or ligaments which hold any body tubes, like the i
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Cooperative work, physical attraction, and conflict within associations describe different forms of connection. The entries do not establish that every union rests on attraction alone or that every shared activity becomes a dispute.
+- ABC's damaged English wording is preserved without confident expansion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node` is the axis of active collaboration, shared effort, and bonds formed through work, struggle, sex, or common action. It combines drive, competition, and physical initiative with association, alliance, and the need to do things with other people.
-- Chart expression: teamwork, comradeship, productive group action, social activism, and relationships energized by mutual effort or strong physical attraction. Liabilities: conflict within associations, sexualized or combative entanglements, impatience with group process, and partnerships that become battlegrounds over will, pace, or control.
+`Mars/Node` describes doing things with other people and forming bonds through the activity itself. Work, sport, shared aims, and physical attraction bring people together in the [Pair Summary](#pair-summary), [Principle](#principle), and [Pair Delineation](#pair-delineation). Team spirit and a wish to cooperate can make that connection productive, while competing wills and lack of adaptability can interrupt it.
+
+Taking initiative in a group also exposes one's pace and expectations to other people. Meetings, criticism, bureaucratic delays, and the search for helpful friends make this concrete in [Basic Ideas](#basic-ideas); mutual attraction and insistence on having one's own way give it an intimate expression in [In Your Relationships](#in-your-relationships). The [Process](#process) adds the possibility of leaving ineffective patterns behind and forming new connections, so conflict is part of the range rather than the only outcome.
 
 ## Links
 

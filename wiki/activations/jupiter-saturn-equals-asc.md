@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Asc`
 - Astronomicon formula: `V/W = Asc`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Separation for a person. Change of residence. Separation in the close environment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of man in old age, financial loss of man, joy and suffering of a man, personal money loss, happiness of a person through patience, personal happiness through perseverance, personal money losses, and legal problems of a man
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, Asc row.
+
+Disruptions of success in the surroundings, successful separation from others, financial burdens in the surroundings, loss of money through others, happiness with others in old age, successes through concentration, legal problems at the place, and compensation for pain through others.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: retained printed p. 227, coded entry 0792; passage unchanged in this review.
 
 An inconstant or insecure attitude with regard to other persons. Change of residence, change of occupation, a separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 79, Jupiter/Saturn, Ascendant paragraph; chapter begins on p. 78.
 
 One who stands up for one's values, and who tries to do what is right.
 
@@ -66,26 +76,27 @@ One who stands up for one's values, and who tries to do what is right.
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Changes on how you observe or react to others; new ways you judge or reflect on your personal relationships; increased awareness of coping with the forces of change encountered daily; cycles of expansion or contraction.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Changing circumstances reshape contact with others ([Munkasey Entry](#munkasey-entry), p. 256).
+- Psychology: Ebertin's insecurity contrasts with Sandbach's willingness to stand by values.
+- Body/health: No specific bodily or medical claim is established by these entries.
+- Social/relationship: Reassessment, separation, and principles all enter relationships; they are alternative emphases.
+- Events/manifestations: Changes of residence or occupation are explicit ([Ebertin Entry](#ebertin-entry), printed p. 227, code 0792); ABC adds local financial burdens, losses through others and happiness with others in old age.
+- Conflicts/notes: Raw ABC inspection identifies the actual Asc row; the former man/personal-loss paragraph belonged to Sun. Sandbach's Ascendant paragraph is on PDF p. 79, beyond the chapter start.
 
 ## Contradictions
 
-- None recorded yet.
+The entries contrast social insecurity with principled conduct; they do not establish a single inevitable response to change. ABC places both losses through others and happiness with others in old age within that changing social setting.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Asc`: principled self-presentation, realistic contact with others, and growth through adapting to changing circumstances or environments. Main caution: social insecurity: caution can become inconstancy or withdrawal when the native feels progress with others is too fragile.
+In `Jupiter/Saturn = Asc`, Asc places the pair's changes and limits in one's immediate surroundings and dealings with others. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) name separation and relocation; the [Munkasey Entry](#munkasey-entry) connects change with how relationships are observed and judged. The [Sandbach Entry](#sandbach-entry) adds standing by values. The [ABC Entry](#abc-entry) places financial burdens and losses through others beside successful separation and happiness with others in old age. Together these describe reassessing contact under changing conditions, with insecurity and principled steadiness retained as distinct responses.
 
 ## Links
 

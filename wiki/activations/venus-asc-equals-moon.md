@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Moon Venus Asc](../triads/moon-venus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 Nice female acquaintances. A woman’s love for the native.
 
@@ -45,17 +49,23 @@ Nice female acquaintances. A woman’s love for the native.
 
 #### ABC Entry
 
-Joy with other women, peaceful woman in the environment, feeling for partner harmony, the arts of other people, harmony with a woman in the nearness, feeling love of the partner, love feeling of the partner, place of people art, and gentle woman in the environment
+- Source page: 108 (printed); PDF page: 53; scanned activator row checked.
+
+Joy with other women, peaceful woman in the environment, feeling for partner harmony, the art of other peoples, harmony with a woman in the nearness, feeling love of the partner, love feeling of the partner, place of folk art, and beautiful woman in the environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 196 (printed), entry `0664`.
 
 Attractive and engaging nature, motherliness. The expression of fondness, a love relationship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 The emotional need to have peace and harmony between oneself and others. To nurture others by soothing them and showing them love.
 
@@ -70,22 +80,23 @@ Your concerns for your feminine traits and side are enhanced; adds to your moodi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Affection is expressed through emotional responsiveness and soothing contact.
+- **psychology:** Sandbach names a need for peace; Munkasey separately names moodiness and variability.
+- **body/health:** The entries supply no medical condition.
+- **social/relationship:** Fondness, love relationships and attentive hosting are explicit.
+- **events/manifestations:** Soothing others and pleasing chosen guests are concrete expressions.
+- **conflicts/notes:** Nurturance and mood variability can coexist.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Nurturance and mood variability can coexist. Female acquaintances, motherliness, and feminine traits are source framing; the ABC scan also names folk art and a beautiful woman.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Moon`: sweetness, approachability, and a soothing manner that helps others feel welcome and safe. Main caution: mood-based charm: sensitivity and the desire for affection can make self-presentation overly adaptive or dependent on reassurance.
+In `Venus/Asc = Moon`, Moon specifies the Venus/Asc axis through emotional responsiveness in personal contact. [Ebertin](#ebertin-entry) names an engaging nature and expression of fondness; [Sandbach](#sandbach-entry) describes soothing and showing love to others to sustain peace between people. [Munkasey](#munkasey-entry) adds sensitivity to others' desires and the pleasure of hosting, alongside mood variability. Warmth and changing feeling both belong to the range, without establishing dependence on reassurance.
 
 ## Links
 

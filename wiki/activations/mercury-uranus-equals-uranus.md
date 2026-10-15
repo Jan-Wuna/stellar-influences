@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Uranus`
 - Astronomicon formula: `T/X = X`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -41,22 +43,21 @@ Insight into mechanical or engineering processes; added discontent about how the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Novel insight engages engineering processes and technical applications.
+- psychology: Discontent concerns how the world works and how others influence one's life.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Dissatisfaction with other people's role in running one's life is explicit.
+- events/manifestations: Applications of computers or astrology and understanding machinery are examples.
+- conflicts/notes: This is one repeated-factor With Itself entry; it does not establish a separate three-factor hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey supplies this orientation here, so no cross-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Uranus`: Insight into mechanical or engineering processes; added discontent about how the world operates and the role that people play in running one's life; novel insights into the use and application of computers or astrology.
+In `Mercury/Uranus = Uranus`, Uranus specifies original insight through how mechanical or engineering processes work and how computers or astrology can be applied. The same entry includes discontent with the world's operation and with other people's influence over one's life. Technical novelty and personal dissatisfaction therefore remain side by side in this repeated-factor meaning. ([Munkasey](#munkasey-entry))
 
 ## Links
 

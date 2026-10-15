@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Node Kronos`
 - Astronomicon triad-set: `S g ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Kronos = Sun](../activations/node-kronos-equals-sun.md)
-- [Sun/Kronos = Node](../activations/sun-kronos-equals-node.md)
-- [Sun/Node = Kronos](../activations/sun-node-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Kronos = Sun](../activations/node-kronos-equals-sun.md) | [Node/Kronos](../axes/node-kronos.md) | [Sun](../factors/sun.md) |
+| [Sun/Kronos = Node](../activations/sun-kronos-equals-node.md) | [Sun/Kronos](../axes/sun-kronos.md) | [Node](../factors/node.md) |
+| [Sun/Node = Kronos](../activations/sun-node-equals-kronos.md) | [Sun/Node](../axes/sun-node.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `Node/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `230`
-- `Sun/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
-- `Sun/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `164`
-- `Sun/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `141`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Kronos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-sun.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-sun.md#abc-entry), printed p. `230`.
+- `Sun/Kronos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-kronos-equals-node.md#witte-entry), one-based PDF entry-start p. `114`.
+- `Sun/Kronos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-kronos-equals-node.md#abc-entry), printed p. `164`.
+- `Sun/Node = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-kronos.md#witte-entry), one-based PDF entry-start p. `102`.
+- `Sun/Node = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-kronos.md#abc-entry), printed p. `141`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Sun`: Entangled with the officials. To be summoned.
-- `Sun/Kronos = Node`: This formula emphasizes connections with authorities and associations of rank.
-- `Sun/Node = Kronos`: This formula emphasizes associations with authority and rank-conscious connections.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

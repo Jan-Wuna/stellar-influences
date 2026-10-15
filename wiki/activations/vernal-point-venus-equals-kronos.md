@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Kronos](../triads/vernal-point-venus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 41 (one-based).
 
 General peaceable thinking. Peace. General willingness to help. A charitable attitude of the public.
 
@@ -42,13 +46,29 @@ General peaceable thinking. Peace. General willingness to help. A charitable att
 
 #### ABC Entry
 
-Special harmony in the public, dominance of beauty in the public life, self conscious beauty in the public, state peace in the public, and preference for the special in the public
+- Source page: 31; PDF page: 14 (one-based spread).
+
+Special harmony in public, dominance of beauty in public life, self-confident beauty in public, state peace in public, and a liking for the exceptional in public.
+
+## Comparative Schema
+
+- core meaning: Prominent public harmony and peace.
+- psychology: Peaceable thinking and willingness to help.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Public charity and helpfulness.
+- events/manifestations: State peace, conspicuous beauty and appreciation of the exceptional.
+- conflicts/notes: Self-confident beauty does not imply embarrassment or insecurity.
+
+## Contradictions
+
+Witte emphasizes peaceable and charitable attitudes. ABC adds the prominence of beauty and state peace without directly opposing that social theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Kronos`: general peaceable thinking, peace, general willingness to help, and a charitable attitude of the public.
-- Practical expression: special harmony in the public, dominance of beauty in the public life, self conscious beauty in the public, state peace in the public, and preference for the special in the public.
+`Vernal Point/Venus = Kronos` gives harmony a prominent public expression. Witte’s peaceable thinking and willingness to help support a charitable social attitude; ABC adds special harmony, state peace and beauty that stands out confidently. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+A liking for the exceptional and the dominance of beauty describe the aesthetic branch. These sit alongside public helpfulness rather than establishing that authority or distinction alone guarantees peace. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Node Vulcanus](../triads/mars-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Connected with physically strong and energetic people.
 
@@ -42,13 +46,27 @@ Connected with physically strong and energetic people.
 
 #### ABC Entry
 
-Individual connections in work, combining energies through work, violence activity in one connection, strong working connections, strong will to connect, mediation of labor powers, and will force in one connection
+Source: “Mars + Vulkanus,” printed p. 320 (PDF p. 159).
+
+Influential connections at work, combining energies through work, violent activity within a connection, strong work connections, a strong will to connect, mediation or placement of working forces, and willpower within a connection.
+
+## Comparative Schema
+
+- core meaning: Connections with energetic people and the joining of working strength.
+- psychology: Strong will to connect and willpower within a relationship or association.
+- body/health: Witte mentions physical strength, without a medical effect.
+- social/relationship: Influential work connections and association with strong people; violence within a connection is also named.
+- events/manifestations: Combining energies and mediating or placing working forces.
+- conflicts/notes: Energetic cooperation and violent activity are distinct possibilities in the entries.
+
+## Contradictions
+
+ABC broadens Witte's strong-person association to work connections, mediation, shared will, and a possible violent expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Node` links one with physically strong, forceful, and energetic people.
-- Chart expression: connection, cooperation, or association with powerful individuals whose presence intensifies the whole field of action.
+In `Mars/Vulcanus = Node`, Node specifies powerful effort through connections and the joining of energies. Witte describes association with physically strong, energetic people; ABC adds influential work contacts, a strong will to connect, and mediation or placement of working forces. Its violent-activity example remains one possible expression within a connection, alongside substantial cooperation. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 320 / PDF p. 159)
 
 ## Links
 

@@ -24,10 +24,12 @@ related_activations:
   - Uranus/Node = Mercury
   - Uranus/Node = Moon
   - Uranus/Node = Neptune
+  - Uranus/Node = Node
   - Uranus/Node = Pluto
   - Uranus/Node = Poseidon
   - Uranus/Node = Saturn
   - Uranus/Node = Sun
+  - Uranus/Node = Uranus
   - Uranus/Node = Venus
   - Uranus/Node = Vernal Point
   - Uranus/Node = Vulcanus
@@ -72,13 +74,14 @@ updated_at: 2026-06-20
 - Axis: `Uranus/Node`
 - Astronomicon axis: `X/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); each related activation retains its distinct oriented formula.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `URANUS/NODE`
-- Source page: `315`
+- Source heading: `NODES + URANUS`
+- PDF page: 146.
 
 #### Pair Summary
 
@@ -88,9 +91,13 @@ Sudden events. Exciting connections. Sudden union, connections, encounters or co
 
 #### ABC Pair Summary
 
-Exciting connection, eventful contacts, excited encounter, new verhimhmg, pimic encounter, reform connection, rhythmic connection, and restless relationship. Connection to technology
+- Printed pages: 218–219; PDF page: 108.
+
+Exciting connection, eventful contacts, excited encounter, new connection, sudden encounter, reform connection, rhythmic connection, restless relationship, connection to technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 271; PDF page: 273.
 
 #### Principle
 
@@ -110,9 +117,11 @@ Restless work associations, a political association advocating reforms, industri
 
 #### Probable Manifestations
 
-+ Sudden acquaintanceships, the commencement of associations, sharing life experiences with others. - Sudden incidents in communal life, experiencing upsets with other persons. Uranus/Dragon's Head W/Q
++ Sudden acquaintanceships, the commencement of associations, sharing life experiences with others. - Sudden incidents in communal life, experiencing upsets with other persons.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: 106 (Principle and Process).
 
 #### Principle
 
@@ -123,6 +132,8 @@ To connect with others freely. Sudden contacts, or sudden changes in one’s con
 The testing of the limits of one’s connections, and the bringing of greater freedom and openness to them. The forming and dissolving of connections at will, or as needed.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 211.
 
 #### Pair Delineation
 
@@ -172,12 +183,12 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sudden, exciting or unconventional connections and shared experiences, with freedom to form or change associations ([Witte](#pair-summary), [Ebertin](#principle), [Sandbach](#process)).
+- psychology: liveliness, curiosity and desire for variety can accompany restlessness, nervous irritability or conflict in company ([psychological correspondence](#psychological-correspondence)).
+- body/health: Ebertin names disturbing dreams and periodic illnesses; Munkasey lists stress complications, hearing and nerve problems and unusual social disease/behavior. These are source claims, not causal diagnoses ([biological](#biological-correspondence), [body or mind](#with-body-or-mind)).
+- social/relationship: new or unusual acquaintances, technical/reform groups and shared interests; openness and individuality coexist with unreliable ties, indifference to help or communal quarrels ([Hand](#pair-delineation), [Munkasey](#basic-ideas), [relationships](#in-your-relationships)).
+- events/manifestations: sudden meetings and unions, changing associations, technological teamwork and reform alliances; Witte also explicitly includes literal electronic/network connections ([Witte](#pair-summary), [manifestations](#probable-manifestations), [politics/business](#in-politics-or-business)).
+- conflicts/notes: unstable contacts are one expression, not an inevitable fate of every bond. Banzhaf/Haebler's life-task/individuality emphasis and harmony/discord conditions differ from the contact-centered entries ([aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
@@ -194,10 +205,12 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - [Uranus/Node = Mercury](../activations/uranus-node-equals-mercury.md)
 - [Uranus/Node = Moon](../activations/uranus-node-equals-moon.md)
 - [Uranus/Node = Neptune](../activations/uranus-node-equals-neptune.md)
+- [Uranus/Node = Node](../activations/uranus-node-equals-node.md)
 - [Uranus/Node = Pluto](../activations/uranus-node-equals-pluto.md)
 - [Uranus/Node = Poseidon](../activations/uranus-node-equals-poseidon.md)
 - [Uranus/Node = Saturn](../activations/uranus-node-equals-saturn.md)
 - [Uranus/Node = Sun](../activations/uranus-node-equals-sun.md)
+- [Uranus/Node = Uranus](../activations/uranus-node-equals-uranus.md)
 - [Uranus/Node = Venus](../activations/uranus-node-equals-venus.md)
 - [Uranus/Node = Vernal Point](../activations/uranus-node-equals-vernal-point.md)
 - [Uranus/Node = Vulcanus](../activations/uranus-node-equals-vulcanus.md)
@@ -209,11 +222,11 @@ Sudden onset of complications due to stress in life; deafness as you close out a
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node` is the axis of unconventional associations, sudden meetings, and collective experience shaped by freedom, change, and instability. It combines originality, disruption, awakening, and surprise with bonds, groups, teamwork, and shared life with others.
-- Chart expression: unusual friends, reformist or technical alliances, rapidly formed contacts, and relationships that function as vehicles for liberation or shock. Liabilities: unreliable ties, nervous quarrels, communal upsets, abrupt separations, and the inability to keep associations steady for long.
+`Uranus/Node` describes connections that arrive suddenly, bring excitement or variety, or allow people to associate in an unconventional way. [Witte](#pair-summary) and [Udo](#abc-pair-summary) include new encounters, reform connections, rhythm and links to technology; Witte's network nodes and electrical connectors are literal technical meanings as well. [Ebertin](#psychological-correspondence) places lively shared experience alongside nervous irritability and communal upsets, while [Hand](#pair-delineation) emphasizes unusual people and connections that may form or break suddenly. The common thread is change and freedom within connection, rather than a guaranteed inability to sustain a bond.
+
+[Sandbach](#principle-1) develops the growth of individuality and [testing of a connection's limits](#process), including forming or dissolving associations as needed. [Munkasey](#basic-ideas) adds scientific or astrological groups, unexpected alliances and shared unconventional interests, with shared interests or indifference to others' help in his [relationship alternatives](#in-your-relationships). His [public sphere](#in-politics-or-business) includes reform and modernization alliances. [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) shifts attention toward putting individuality into life's tasks or struggling with commitment to them. These emphases remain distinct; bodily claims do not establish illness, and a closing factor requires its own oriented activation.
 
 ## Links
 

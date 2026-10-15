@@ -19,6 +19,7 @@ related_activations:
   - Sun/Mars = Hades
   - Sun/Mars = Jupiter
   - Sun/Mars = Kronos
+  - Sun/Mars = Mars
   - Sun/Mars = MC
   - Sun/Mars = Mercury
   - Sun/Mars = Moon
@@ -27,6 +28,7 @@ related_activations:
   - Sun/Mars = Pluto
   - Sun/Mars = Poseidon
   - Sun/Mars = Saturn
+  - Sun/Mars = Sun
   - Sun/Mars = Uranus
   - Sun/Mars = Venus
   - Sun/Mars = Vernal Point
@@ -74,13 +76,15 @@ updated_at: 2026-06-20
 - Axis: `Sun/Mars`
 - Astronomicon axis: `S/U`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Mars/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/MARS`
-- Source page: `67`
+- Source heading: `SUN + MARS`
+- Source page: PDF p. 105.
 
 #### Pair Summary
 
@@ -90,9 +94,13 @@ The man. The husband. The active man. The soldier. The action of the living body
 
 #### ABC Pair Summary
 
-Work man, work centre, acting people, corporal work, human creation, personal activity, personal will, day of work, and effective man
+- Source page: printed pp. 146–147; PDF p. 72.
+
+Working man, work center, people taking action, physical work, human creation, personal activity, personal will, day of work, daily work, energetic man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 86; PDF p. 88.
 
 #### Principle
 
@@ -100,19 +108,19 @@ The will to live, vitality and vigor, activity.
 
 #### Psychological Correspondence
 
-+ Energy, virility, determination, power of attainment, courage to fight, endeavor, ambition, desire to exercise power, desire to lead. - Hastiness, obstinacy, stubbornness, restlessness, inclination to quarrel, violence. C Power of attainment, desire to be in the limelight, ability to make decisions quickly. A hot-blooded nature. Biologica/ Correspondence Muscular tissue, cell activity, sperms. Cell inflammation.
++ Energy, virility, determination, power of attainment, courage to fight, endeavor, ambition, desire to exercise power, desire to lead. - Hastiness, obstinacy, stubbornness, restlessness, inclination to quarrel, violence. C Power of attainment, desire to be in the limelight, ability to make decisions quickly. A hot-blooded nature.
 
 #### Biological Correspondence
 
-- None extracted.
+Muscular tissue, cell activity, sperms. Cell inflammation.
 
 #### Sociological Correspondence
 
-Fighter, soldier, surgeon, sculptor. lntellectual fighter. Probable Manifestation + Advancement in life through one's own effort, acceptance ofleading positions, overcoming of difficulties and dangers, vocational success, extraordinary achievements. - Failures caused by too heavy demands made upon oneself and upon others, overstrain, a strained relationship with other persons. Upsets (cardiac troubles). O/cT
+Fighter, soldier, surgeon, sculptor. Intellectual fighter.
 
 #### Probable Manifestations
 
-- None extracted.
++ Advancement in life through one's own effort, acceptance of leading positions, overcoming of difficulties and dangers, vocational success, extraordinary achievements. - Failures caused by too heavy demands made upon oneself and upon others, overstrain, a strained relationship with other persons. Upsets (cardiac troubles).
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -172,6 +180,8 @@ As an example of the above statement take King Georg V. with Sun in aspect to Ma
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF p. 11.
+
 #### Principle
 
 Purposeful assertiveness. The ability to gear one’s actions toward longrange considerations. The ability to take on meaningful battles. Too much effort depletes vi tality. Driving oneself.
@@ -221,7 +231,7 @@ Muscular development of the body; the inner strength you have to overcome infect
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Mars: Bravery`
-- PDF page(s): `282`
+- PDF page(s): `282–283`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -229,17 +239,17 @@ Muscular development of the body; the inner strength you have to overcome infect
 - shadow: The Tyrant and His Torturer
 - comparison: Leading Implementing Strength of will Muscle power Conscious wanting Instinctive desiring Will Instinct Development of self Power of assertion Man Youth Masculinity Virile power
 - general: Courage and power to believe in oneself , assert the personality , and penetrate through to the development of the nature of the world. The struggle for existence .
-- harmony: The Dynamo. Characteristics and assertive force combine harmoniously into a clear, self-confident determination. Aggressiveness is directed outwardly in a healthy, appropriate manner. Distinct, sometimes imposing masculine traits and well-assessed willingness to take risks. Active, dynamic, goal-oriented, energetic.
-- discord: The Self-Destruct Mechanism. At variance with oneself. Inwardly torn and contradictory masculinity. Hothead who restlessly takes on challenges without thinking them over and frequently endangers oneself in the process. Conflict between will, use of energy, and goal.
+- harmony: The Dynamo. Characteristics and assertive force combine harmoniously into a clear, self-confident determination. Aggressiveness is directed outwardly in a healthy, appropriate manner. Distinct, sometimes imposing masculine traits and well-assessed willingness to take risks. Active, dynamic, goal-oriented, energetic. Pronounced willfulness and considerable strength of ego.
+- discord: The Self-Destruct Mechanism. At variance with oneself. Inwardly torn and contradictory masculinity. Hothead who restlessly takes on challenges without thinking them over and frequently endangers oneself in the process. Conflict between will, use of energy, and goal. Aggressiveness is sometimes angrily directed at the outside world and then again directed in a destructive manner against one's own self. Energy is wasted and used at the wrong point in time, creating a ruinous exploitation of one's own powers and unpredictable energy eruptions. Has a difficult time reducing and controlling instinctual tensions. Erratic, irritable, impatient, frustrated, opinionated, stubborn, and aggressive.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Vitality directed into action, initiative, work, and purposeful assertion. ([Ebertin](#principle), [Hand](#pair-delineation), [ABC Pair Summary](#abc-pair-summary))
+- psychology: Courage, determination, and quick decisions can become impatience, antagonism, or a need to prove oneself through constant challenges. Meaningful goals give effort a direction. ([Falis](#falis-entry), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
+- body/health: Physical strength, stamina, and expenditure of energy are prominent. Ebertin, Carter, and Munkasey also attribute inflammation, strain, injury, or cardiac trouble to the combination; these remain historical correspondences rather than diagnoses. ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Carter](#charles-carter---the-astrological-aspects), [Munkasey](#with-body-or-mind))
+- social/relationship: Leadership, competition, and physical intimacy coexist with conflict over authority, the demand to be first, or neglect of a partner's needs. Historical male-role associations remain attributed examples. ([Hand](#pair-delineation), [Munkasey, source p. 67](#in-your-relationships))
+- events/manifestations: Work, enterprise, sport, intellectual contest, and achievement through effort are represented, alongside overwork and quarrels. Munkasey extends the pair to military leadership and aggression in public affairs. ([Carter](#charles-carter---the-astrological-aspects), [Munkasey](#in-politics-or-business))
+- conflicts/notes: Carter explicitly includes mental courage, incisive writing, self-control, and endurance; the pair is not limited to physical combat. Aspect-family distinctions and source gender claims are not universal midpoint outcomes. ([Carter](#harmonious-aspects))
 
 ## Related Activations
 
@@ -251,6 +261,7 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [Sun/Mars = Hades](../activations/sun-mars-equals-hades.md)
 - [Sun/Mars = Jupiter](../activations/sun-mars-equals-jupiter.md)
 - [Sun/Mars = Kronos](../activations/sun-mars-equals-kronos.md)
+- [Sun/Mars = Mars](../activations/sun-mars-equals-mars.md)
 - [Sun/Mars = MC](../activations/sun-mars-equals-mc.md)
 - [Sun/Mars = Mercury](../activations/sun-mars-equals-mercury.md)
 - [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md)
@@ -259,6 +270,7 @@ Muscular development of the body; the inner strength you have to overcome infect
 - [Sun/Mars = Pluto](../activations/sun-mars-equals-pluto.md)
 - [Sun/Mars = Poseidon](../activations/sun-mars-equals-poseidon.md)
 - [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md)
+- [Sun/Mars = Sun](../activations/sun-mars-equals-sun.md)
 - [Sun/Mars = Uranus](../activations/sun-mars-equals-uranus.md)
 - [Sun/Mars = Venus](../activations/sun-mars-equals-venus.md)
 - [Sun/Mars = Vernal Point](../activations/sun-mars-equals-vernal-point.md)
@@ -267,15 +279,14 @@ Muscular development of the body; the inner strength you have to overcome infect
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Purposeful courage and destructive haste are conditional expressions throughout these entries. Carter's intellectual and self-controlled range qualifies a purely combative reading, while Sandbach's warning that excessive effort depletes vitality limits any assumption that more force is always beneficial. Carter's aspect families remain distinct from an unordered midpoint pair. ([Carter](#harmonious-aspects), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars` is the axis of assertive vitality, courage, initiative, and forceful self-expression. It combines identity, will, and visibility with action, competition, heat, and the urge to press forward decisively.
-- Chart expression: leadership drive, frankness, enterprise, physical or competitive energy, and the need to act on conviction without delay. Liabilities: haste, quarrels, irritability, reckless force, domineering behavior, and overstrain when willpower becomes combative or cannot tolerate restraint.
+`Sun/Mars` concerns making purpose effective through action. Initiative, courage, determination, and the use of energy join in the need to do something, meet a challenge, or achieve through one's own effort. Its range includes physical work and competition, but also intellectual struggle, incisive expression, disciplined endurance, and leadership. Meaningful activity is central: the ability to choose a worthwhile battle matters as much as the readiness to fight. ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Carter](#harmonious-aspects), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
+
+The same pressure toward action can become haste, quarrels, resistance to every restraint, or demands that exhaust oneself and others. In partnership, physical enthusiasm can support intimacy, while insistence on being first can undermine it. The pair thus concerns the direction and expenditure of vitality rather than an inevitable aggressive character. Historical descriptions of male roles, bodily injury, and illness remain attributed source claims; they do not establish a person's sex, conduct, or medical condition. ([Munkasey, source p. 67](#basic-ideas), [relationship entries](#in-your-relationships), [Hand](#pair-delineation))
 
 ## Links
 

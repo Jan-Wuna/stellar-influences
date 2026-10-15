@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Neptune Pluto`
 - Astronomicon triad-set: `Chiron Y Z`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/Neptune = Pluto](../activations/chiron-neptune-equals-pluto.md)
-- [Chiron/Pluto = Neptune](../activations/chiron-pluto-equals-neptune.md)
-- [Neptune/Pluto = Chiron](../activations/neptune-pluto-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Neptune = Pluto](../activations/chiron-neptune-equals-pluto.md) | [Chiron/Neptune](../axes/chiron-neptune.md) | [Pluto](../factors/pluto.md) |
+| [Chiron/Pluto = Neptune](../activations/chiron-pluto-equals-neptune.md) | [Chiron/Pluto](../axes/chiron-pluto.md) | [Neptune](../factors/neptune.md) |
+| [Neptune/Pluto = Chiron](../activations/neptune-pluto-equals-chiron.md) | [Neptune/Pluto](../axes/neptune-pluto.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/Neptune = Pluto`: John, page `97`
-- `Chiron/Pluto = Neptune`: John, page `99`
-- `Neptune/Pluto = Chiron`: John, page `110`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/Neptune = Pluto` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-neptune-equals-pluto.md#sandbach-entry) | retained chapter-start one-based PDF p. 97; exact formula page not established |
+| `Chiron/Pluto = Neptune` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-pluto-equals-neptune.md#sandbach-entry) | retained chapter-start one-based PDF p. 99; exact formula page not established |
+| `Neptune/Pluto = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-pluto-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 110; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Pluto`: transformative intuition, inescapable subtle knowing, and healing through facing what deeper perception insists upon. Main caution: compulsion, obsession, or being ruled by intuition without enough testing.
-- `Chiron/Pluto = Neptune`: visionary healing, transformative imaginative life, and depth reached through moving beyond extreme confusion. Main caution: drowning in fantasy or assuming all intensity is spiritual truth.
-- `Neptune/Pluto = Chiron`: A person who’s energy helps others to experience subtler levels of reality, and open their consciousness to other planes of being. They also help others to rekindle their ideals and to uplift their minds and hearts to higher levels.
+Use this hub to choose the exact orientation for the unordered set `Chiron Neptune Pluto`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

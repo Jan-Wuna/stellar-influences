@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Saturn Hades Kronos](../triads/saturn-hades-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 Collapse of independent establishments. To suffer enmities, vile acts or mean deeds from leading and powerful persons or from the authority.
 
@@ -42,13 +46,29 @@ Collapse of independent establishments. To suffer enmities, vile acts or mean de
 
 #### ABC Entry
 
-Disadvantages due to loss of reputation, special patience in need, great disadvantage due to pain, concentration on a special danger, loss of need due to great Y, losses due to criminal authority, and important tasks from the past
+Disadvantage through loss of reputation, particular patience in distress, great disadvantage through pain, concentration on a particular danger, distress through great losses, losses through criminal authorities, and important tasks from the past.
+
+Translation checked against the German scan: printed p. 361, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Institutional loss or abuse of authority produces distress and disadvantage.
+- Psychology: Patience in need and focused attention to a particular danger.
+- Body/health: Pain is mentioned without a specific condition or bodily mechanism.
+- Social/relationship: Harm from powerful persons or criminal authority; damaged reputation.
+- Events/manifestations: Collapse of independent establishments, great losses, and important tasks from the past.
+- Conflicts/notes: The scan reads distress through great losses; the former English fragment "loss of need due to great Y" reversed and damaged the statement.
+
+## Contradictions
+
+The entries overlap in authority-related harm. Witte's institutional collapse is one concrete example, not a necessary outcome of every task from the past or every reputational setback.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Hades`: collapse of independent establishments.
-- Practical expression: disadvantages due to loss of reputation, special patience in need, great disadvantage due to pain, concentration on a special danger, and loss of need due to great Y.
+In `Saturn/Kronos = Hades`, Hades specifies the Saturn/Kronos axis through damaging losses and the misuse of authority. The [Witte entry, PDF p. 227](#witte-entry) names institutional collapse and hostile acts by powerful people; the verified [ABC entry, printed p. 361](#abc-entry) connects reputation loss, criminal authorities, and great losses with distress.
+
+Patience in need, attention to danger, and important tasks from the past describe how the situation may be encountered. They do not remove the harm, but they prevent the formula from being reduced to the single extreme of an establishment collapsing.
 
 ## Links
 

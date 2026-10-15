@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Mercury`
 - Astronomicon formula: `W/¡ = T`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 To think about separation from a community. To intend divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports of joint losses, joint tasks of young people, discussion of common tasks, discussion of Community tasks, language difficulties in the Community, and losses in the transport community
+- Source page: 354 (printed); PDF page: 176.
+
+Reports about shared losses, shared tasks of youth, discussing shared tasks, conversations about community tasks, language difficulties within the community, losses within a transport community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Thought and conversation concern communal tasks, losses, or separation.
+- Psychology: Thinking about leaving a community or intending divorce.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Discussion of shared tasks and language difficulties within a community.
+- Events/manifestations: Reports of shared losses, tasks of youth, and transport-community losses.
+- Conflicts/notes: Intention and discussion are retained as mental or communicative meanings rather than completed separation.
+
+## Contradictions
+
+Intention and discussion are retained as mental or communicative meanings rather than completed separation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Mercury`: to think about separation from a community, to intend divorce.
-- Practical expression: reports of joint losses, joint tasks of young people, discussion of common tasks, discussion of Community tasks, and language difficulties in the Community.
+In `Saturn/Cupido = Mercury`, Mercury specifies the pair through considering and discussing communal duties or separation. The [Witte entry](#witte-entry) names thoughts of leaving a community and the intention to divorce; the [ABC entry](#abc-entry) adds conversations about common tasks, reports of shared losses, and language difficulties. These preserve the distinction between an intention or discussion and a completed departure.
 
 ## Links
 

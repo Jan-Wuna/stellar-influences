@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon MC Kronos`
 - Astronomicon triad-set: `R MC ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md)
-- [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md)
-- [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md)
+- [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md): base axis [MC/Kronos](../axes/mc-kronos.md); activator [Moon](../factors/moon.md).
+- [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [MC](../factors/mc.md).
+- [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md): base axis [Moon/MC](../axes/moon-mc.md); activator [Kronos](../factors/kronos.md).
 
 ## Source Coverage
 
-- `MC/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `90`
-- `Moon/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `198`
-- `Moon/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
-- `Moon/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `65`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md#witte-entry) (PDF entry-start p. 73); [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md#witte-entry) (PDF entry-start p. 133); [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md#witte-entry) (PDF entry-start p. 60).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Kronos = Moon](../activations/mc-kronos-equals-moon.md#abc-entry) (printed p. 90); [Moon/Kronos = MC](../activations/moon-kronos-equals-mc.md#abc-entry) (printed p. 198); [Moon/MC = Kronos](../activations/moon-mc-equals-kronos.md#abc-entry) (printed p. 65).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Moon`: emotionalizes the axis through public office and managerial responsibility.
-- `Moon/Kronos = MC`: Nobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.
-- `Moon/MC = Kronos`: This activation elevates `Moon/MC` through nobility of mind, generosity, and higher personal stature. It points to emotional selfhood supported by dignity and good judgment, making the person's public bearing more magnanimous, principled, and capable of guiding others from a larger view.
+Moon, MC and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Kronos](../axes/mc-kronos.md)
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/MC](../axes/moon-mc.md)
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Mercury`
 - Astronomicon formula: `T/V = T`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -41,22 +43,21 @@ Enhanced ability to be articulate and persuasive thru advertising, public relati
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Articulate persuasion and study of how communication reaches others ([Munkasey](#munkasey-entry)).
+- psychology: The passage emphasizes communicative ability rather than a separate emotional disposition.
+- body/health: No bodily condition appears.
+- social/relationship: Influencing an audience is explicit.
+- events/manifestations: Advertising, public relations, speech, writing, and popular writings are named.
+- conflicts/notes: This single-source With Itself entry describes communication methods, without validating a message.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented. The repeated Mercury orientation concerns articulation and persuasive reach; the passage contains no separate adverse category.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Mercury`: Enhanced ability to be articulate and persuasive thru advertising, public relations, speech, or writing efforts; gathering information on using communications to reach and influence others effectively; popular writings.
+In `Mercury/Jupiter = Mercury`, repeated Mercury specifies expansive communication through articulation and persuasive reach. Munkasey connects advertising, public relations, speaking, and writing with gathering information about how to influence an audience effectively. The emphasis is how ideas are conveyed and gain a readership, rather than whether their content is true or worthwhile ([Munkasey](#munkasey-entry)).
 
 ## Links
 

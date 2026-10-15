@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Admetos](../triads/vernal-point-mercury-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Standing manner of speech.
 
 Blockage of public opinion, blocked media in public, restriction of youth in public life, speech restrictions in public life, and news blockade for the public
 
+## Comparative Schema
+
+- Core meaning: Limits on the expression or circulation of public communication.
+- Psychology: Neither entry identifies motives for blockage.
+- Body/health: No bodily claim is supplied.
+- Social/relationship: Restrictions affecting youth and public conversation.
+- Events/manifestations: Blocked media, restricted speech, and news blockade.
+- Conflicts/notes: Witte's "Standing manner of speech" is terse and does not itself establish censorship.
+
+## Contradictions
+
+ABC clearly describes blocked communication; Witte's brief wording is too limited to establish the same mechanism or contradict it. The entries leave the source and purpose of restriction unspecified.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Admetos`: standing manner of speech.
-- Practical expression: blockage of public opinion, blocked media in public, restriction of youth in public life, speech restrictions in public life, and news blockade for the public.
+In `Vernal Point/Mercury = Admetos`, Admetos specifies public communication through restriction: opinions, media, conversation, and news can be prevented from circulating. This is explicit in the [ABC Entry](#abc-entry) (printed p. 29; PDF p. 13). The [Witte Entry](#witte-entry) (PDF p. 40) adds only "Standing manner of speech," so it should not be expanded into a separate theory of censorship or its causes.
 
 ## Links
 

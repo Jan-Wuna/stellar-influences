@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Neptune`
 - Astronomicon formula: `V/X = Y`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Luck through occult matters or matters from beyond. Good fortune through deaths. Inheritance. Legacy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exchangeable money event, finesse for legal events, joy through work in metaphysics, joyful event in the air, sudden legal uncertainty, legal tensions through water, future successes in technology, advantages through water technology Dynamic profit development, successful technical development, and Freudc over dyna-
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, Neptune row; following Pluto row excluded.
+
+A disappointing financial event, sensitivity to legal events, joy through work in metaphysics, a joyful event in the air, sudden legal uncertainty, legal tensions through water, future successes in technology, and advantages through water technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0801.
 
 Guided by false perceptions, quick disappointment, lack of prudence and farsightedness. Unearned gains, a fortunate turn after a loss, e.g., inheritance after a death, favorable prospects after the loss of a position.
 
@@ -57,7 +65,9 @@ Guided by false perceptions, quick disappointment, lack of prudence and farsight
 
 #### Sandbach Entry
 
-To over-react to something that is imagined rather than real. To have an exu berantly creative imagination.
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Neptune paragraph; chapter begins on p. 80.
+
+To over-react to something that is imagined rather than real. To have an exuberantly creative imagination.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,26 +76,27 @@ To over-react to something that is imagined rather than real. To have an exu ber
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Delusion about your ability to improve life thru constant modernization; an avoidance of reality in the pursuit of your dreams; helps with the visualization of new products which you feel will make the world a better place.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Unusual opportunity coexists with uncertainty about what is real ([Ebertin Entry](#ebertin-entry)).
+- Psychology: Creative imagination and visualization coexist with false perception or disappointment.
+- Body/health: Death is an inheritance context in the historical entries, not a prediction of bodily harm.
+- Social/relationship: Occult interests and dreams of improving the world are explicit; a specific partnership is not established.
+- Events/manifestations: Inheritance, legacy, and improved prospects after losing a position are source examples.
+- Conflicts/notes: Raw ABC inspection restores eight Neptune clauses and excludes Pluto's following development row. Its joyful event in the air and legal tensions through water are retained without an invented setting. Sandbach's exact Neptune paragraph is on PDF p. 81; exuberantly is normalized across a typographical split.
 
 ## Contradictions
 
-- None recorded yet.
+Fortunate external results and mistaken perceptions concern different dimensions. They do not establish that imagination causes gains or that bereavement is necessarily fortunate.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Neptune`: unusual spiritual or imaginal opportunity, inheritance or gain after release, and exuberant faith in possibilities beyond the obvious. Main caution: false perception: hope can outrun realism and lead to confusion, disappointment, or chasing what is not actually there.
+In `Jupiter/Uranus = Neptune`, Neptune specifies the pair's possibilities through imagination, occult interests, and uncertain perception. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) include inheritance or a favorable turn after loss. The [Sandbach Entry](#sandbach-entry) and [Munkasey Entry](#munkasey-entry) pair creative imagination and visualization with overreaction or avoidance of reality. The [ABC Entry](#abc-entry) adds a disappointing financial event and legal uncertainty alongside metaphysical work, future technical success and water technology. Unusual opportunity and unreliable judgment therefore coexist; one does not validate the other.
 
 ## Links
 

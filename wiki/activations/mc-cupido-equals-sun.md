@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Sun MC Cupido](../triads/sun-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To marry. To be a member of a community, association, corporation. To be a perfo
 
 #### ABC Entry
 
-The soul of a man, the soul of an animated community, my center, body and soul together, my whole person, and my personal community
+- Source passage: `Meridian + Cupido`; printed p. `84`; one-based PDF page `41` (complete oriented row checked against the raw scan).
+
+Ensouled community of people, the inner nature of a male community, the artistic soul of a man, people of an ensouled community, my art center, body and soul together, my whole person, my personal community.
+
+## Comparative Schema
+
+- **Core meaning:** Personal involvement in communal and artistic life.
+- **Psychology:** The whole person is placed in relation to community.
+- **Body/health:** ABC joins body and soul without naming a disorder.
+- **Social/relationship:** Marriage and membership in a community, association, or corporation are explicit.
+- **Events/manifestations:** Performing in the arts and marrying are named possibilities.
+- **Conflicts/notes:** ABC's male-community and man examples remain historical gendered language; its complete row also includes people, art and the whole person.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Sun` embodies the axis in marriage, membership, and visible artistic participation.
-- Chart expression: a life directed toward joining, performing, and identifying oneself through partnership, association, or recognized communal roles.
+Sun specifies `MC/Cupido` through personal participation in marriage, associations, or art. Membership and performance join ABC's whole-person and personal-community language, making joining a concrete activity rather than a claim that identity must depend on a group. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 84.)
 
 ## Links
 

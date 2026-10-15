@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Moon Mars Hades](../triads/moon-mars-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ Persons, and in particular women, who commit mean deeds. Hard death of the wife.
 
 work service for the people, serving activity of a woman, dangerous work of a woman, lack of emotional impulses, disadvantageous emotional actions, lack of drive in a people, hidden activity in the people, and will of a people in distress
 
+## Comparative Schema
+
+- core meaning: Difficult service or action involves the public and emotional participation.
+- psychology: Lack of emotional impulses and adverse emotional actions are ABC themes.
+- body/health: Witte includes the wife's death as historical doctrine, not a predicted outcome.
+- social/relationship: Public service and woman-specific examples remain attributed to their sources.
+- events/manifestations: Waste management, hidden public activity and a people in distress are named.
+- conflicts/notes: Practical waste work is distinct from wrongdoing; the entry does not establish a general female or domestic trait.
+
+## Contradictions
+
+The entries include practical public service as well as harmful acts and severe events. Their shared setting does not make every form of service harmful.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Moon`: degraded public or domestic conditions, emotional heaviness, and everyday environments marked by refuse, hardship, or harsh female and family experience.
+Moon specifies the Mars/Hades axis through public service and emotional action under difficult conditions. Waste management in [Witte](#witte-entry) connects with service for the people and public distress in [ABC](#abc-entry), which also names diminished emotional impulses and adverse emotional actions. The woman-specific and fatal examples remain historical source formulations; they do not establish a general trait of women or reduce practical service to degradation.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 310, PDF p. 154.
 
 ## Links
 

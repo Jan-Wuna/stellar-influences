@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Mercury`
 - Astronomicon formula: `R/T = T`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -41,22 +43,21 @@ Discussing your feelings for family members in a rational and logical way; encou
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: reasoned expression of feelings through speech or writing ([Munkasey](#munkasey-entry)).
+- psychology: self-teaching and education are linked with clearer emotional expression.
+- body/health: the entry states no specific bodily or health implication.
+- social/relationship: feelings for family members are the stated subject of discussion.
+- events/manifestations: rational family discussion, self-education, speeches, and writing are concrete expressions.
+- conflicts/notes: the repeated Mercury identity remains this exact activation; the entry does not establish every form of intellectual ability.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present. Rational discussion and learning to express emotion are compatible parts of its account; no source comparison can be made.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Mercury`: Discussing one's feelings for family members in a rational and logical way; encourages one to go thru some self-teaching and education to allow one's emotion to express itself more clearly thru one's speeches or writing.
+In Moon/Mercury = Mercury, Mercury specifies the Moon/Mercury pair through learning to express feeling more clearly and rationally. The [Munkasey entry](#munkasey-entry) connects discussion of feelings for family members with self-teaching and education, carrying that greater clarity into speech or writing (p. 106). The emphasis is the articulation of emotion, rather than a general claim about intelligence.
 
 ## Links
 

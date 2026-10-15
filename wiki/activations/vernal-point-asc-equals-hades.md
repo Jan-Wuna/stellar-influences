@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Hades`
 - Astronomicon formula: `VP/Asc = ¢`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ To meet sick people. To seek bad company. Poor, miserable areas. Ugly, vacated o
 
 Disadvantaged public environment, dangerous public place, criminal place in public, criminal partners in public life, lack in the public environment, public environmental service, and traditional place in public
 
+## Comparative Schema
+
+- Core meaning: Difficult public surroundings and encounters with people in need.
+- Psychology: Seeking company judged unsuitable is one stated possibility.
+- Body/health: Sick people are encountered; no personal diagnosis is established.
+- Social/relationship: Disadvantaged or criminal partners appear in the ABC entry.
+- Events/manifestations: Damaged places, public service, and traditional public sites.
+- Conflicts/notes: Service and tradition broaden the entry beyond its adverse examples.
+
+## Contradictions
+
+The entries share difficult surroundings; public service and traditional sites add distinct possibilities rather than contradicting them.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Hades`: to meet sick people, to seek bad company, poor, miserable areas, and ugly, vacated or destroyed places.
-- Practical expression: disadvantaged public environment, dangerous public place, criminal place in public, criminal partners in public life, and lack in the public environment.
+Hades specifies `Vernal Point/Asc` through encounters with hardship in public surroundings: people who are ill or disadvantaged, company described as harmful, and neglected or damaged places. These are the entries' possible encounters, not judgments about everyone in such settings. The ABC entry also names public service and traditional public sites, which should remain available alongside the adverse examples. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 21 / PDF p. 9.)
 
 ## Links
 

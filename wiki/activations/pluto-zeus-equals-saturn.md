@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Saturn`
 - Astronomicon formula: `Z/£ = W`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 To get out of performing duties, to shirk one’s duties. Badly performed duty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Start of a slow development, stressful change of direction, concentration on a strenuous development, developing mature achievements, creative development tasks, losses due to fire development, and growing achievements due to empathy
+- Source page: 413 (printed); PDF page: 205.
+
+Beginning of a slow development, burdensome change of leadership, concentration on a demanding development, developing mature achievements, creative development tasks, losses through fire development, growing performance through seriousness.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Duties may be poorly performed or development may proceed slowly and seriously.
+- Psychology: Concentration on demanding development and seriousness in performance.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Burdensome changes of leadership.
+- Events/manifestations: Mature achievements, creative development tasks, and losses through fire development.
+- Conflicts/notes: Witte's shirking contrasts with ABC's concentrated, mature effort; neither should erase the other.
+
+## Contradictions
+
+Witte's shirking contrasts with ABC's concentrated, mature effort; neither should erase the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Saturn`: to get out of performing duties, to shirk one’s duties; Badly performed duty.
-- Practical expression: start of a slow development, stressful change of direction, concentration on a strenuous development, developing mature achievements, and creative development tasks.
+In `Pluto/Zeus = Saturn`, Saturn specifies the pair through difficulty in performing duty, but the entries preserve different possibilities. The [Witte entry](#witte-entry) emphasizes shirking or badly performed duties, while the [ABC entry](#abc-entry) includes slow development, concentration, mature achievements, and growing performance through seriousness. Burdens and losses coexist with disciplined effort rather than defining everyone as negligent.
 
 ## Links
 

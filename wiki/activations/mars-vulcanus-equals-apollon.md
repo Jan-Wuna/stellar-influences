@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Apollon Vulcanus](../triads/mars-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Mighty successful activity in scientific or commercial fields.
 
@@ -42,13 +46,27 @@ Mighty successful activity in scientific or commercial fields.
 
 #### ABC Entry
 
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
 Extension of violence actions, expansion of influential activity, successful will power, tremendous success activity, enormous successes of science, powerful trade activity, scientific work influence, and increasing violence activity
+
+## Comparative Schema
+
+- core meaning: Powerful successful activity in science or commerce and expansion of influence.
+- psychology: Successful willpower in ABC's entry.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Influence through work and trade; ABC also includes expanding violent activity.
+- events/manifestations: Scientific success, powerful commerce, and the extension of influential activity.
+- conflicts/notes: Scientific or commercial success and increasing violence are separate expressions retained by the sources.
+
+## Contradictions
+
+Witte's entry is favorable; ABC preserves success alongside expansion of violence. The difficult range should not disappear from the comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Apollon` extends great force into successful scientific, commercial, or large-scale productive activity.
-- Chart expression: powerful effort that succeeds in business or science, with strength applied effectively across broad technical or economic fields.
+In `Mars/Vulcanus = Apollon`, Apollon specifies powerful effort through scientific or commercial success and the extension of influence. Witte names mighty successful activity in those fields, and ABC adds successful willpower, powerful trade, and influential work. ABC also explicitly includes the expansion of violent activity, so increased reach is not uniformly constructive within the source material. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

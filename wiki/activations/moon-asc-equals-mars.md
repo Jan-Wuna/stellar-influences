@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Asc = Mars`
 - Astronomicon formula: `R/Asc = U`
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `81`.
+
 #### Witte Entry
 
 The wife. The mother. Quarrels with female persons. Common activity with others in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `102`; PDF page: `50`.
+
 #### ABC Entry
 
-woman's place of work, women acting in the environment, partner's impulse, melodious actions of others, hour of activity in the place, woman's activity in the place, the power of other women, and the will of other peoples
+German passage (transcribed from PDF page `50`, printed page `102`):
+
+> Arbeit der Mutter in der Nähe, Arbeits-Platz der Frau, handelnde Frauen in der Umwelt, Gefühls-Impulse des Partners, gefühlvolle Handlungen anderer, Stunde der Aktivität am Ort, Tätigkeit der Frau am Ort, Tatkraft anderer Frauen, Wille anderer Völker
+
+Editorial translation from the German passage: The mother's work nearby; a woman's workplace; women acting in the surroundings; a partner's emotional impulses; others' actions arising from feeling; an hour of activity at the place; a woman's activity at the place; other women's energy for action; the will of other peoples.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `39` (exact Mars activation passage checked against the raw page).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ An irritation and impatience with those who interfere with your procedures; quic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Feeling moves into immediate action, shared activity or quarrels.
+- psychology: Spontaneous action depends on self-feeling; impatience with interference is explicit.
+- body/health: No distinct bodily or medical condition is supplied.
+- social/relationship: Activity with nearby people, emotional expression in relationships and a personal style of care are retained.
+- events/manifestations: A mother's nearby work, women's workplace activity and joint public activity are examples.
+- conflicts/notes: Action and emotional expression do not alone establish protective courage, honesty or accuracy.
 
 ## Contradictions
 
-- None recorded yet.
+Witte retains quarrels alongside common activity; Sandbach emphasizes mood-driven action and sharing. Munkasey includes impatience as well as developing a personal style of caring, so action is neither uniformly hostile nor uniformly helpful.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Mars`: protective courage, direct emotional honesty, and the ability to act on instinct without delay. Main caution: reactivity: mood and temper can surface too fast and turn closeness into conflict or strain.
+In `Moon/Asc = Mars`, Mars turns the pair's sensitivity to nearby people into action. Witte and ABC give concrete work or shared public activity alongside quarrels; Sandbach describes acting when a mood strikes and expressing feeling within a relationship. Munkasey adds quick impressions, a personal style of care and impatience when others interfere. The common connection is feeling that prompts an immediate response, with cooperative activity and friction kept distinct; the entries do not establish that a quick response is necessarily courageous or accurate ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

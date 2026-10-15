@@ -48,9 +48,13 @@ updated_at: 2026-04-21
 - Axis: `Chiron/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: `101–102` (Principle and Process).
 
 #### Principle
 
@@ -59,6 +63,15 @@ The need to realize that one is able to connect with spirit guides, nature spiri
 #### Process
 
 The ability to realize the power of the moment, to unite with it, and to channel spiritual energies into the now.
+
+## Comparative Schema
+
+- Core meaning: Confidence and identity are to arise from a spiritual source, with freedom from limiting definitions imposed by others, in the [Principle](#principle).
+- Psychology: The entry contrasts spiritually grounded confidence with reliance on passing material conditions and other people's projections.
+- Body/health: Healing is spiritual language in the [Principle](#principle), with no clinical mechanism, bodily condition, or treatment claim specified.
+- Social/relationship: Other people's limiting projections are to be released; the source also names spirit guides, nature spirits, and angels within its spiritual framework.
+- Events/manifestations: The [Process](#process) emphasizes participation in the present moment and channeling spiritual energies into it, rather than a specific external event.
+- Conflicts/notes: This is one source's Principle and Process, not independent corroboration. The preserved passage contains the split word "spiri tual"; the PDF locator identifies the passage without assuming printed pagination.
 
 ## Related Activations
 
@@ -75,11 +88,14 @@ The ability to realize the power of the moment, to unite with it, and to channel
 - [Chiron/Asc = Uranus](../activations/chiron-asc-equals-uranus.md)
 - [Chiron/Asc = Venus](../activations/chiron-asc-equals-venus.md)
 
+## Contradictions
+
+The Principle's release of imposed definitions and the Process's present-moment participation are compatible emphases. No direct contradiction is established within this single entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc`: identity healing: learning to let confidence arise from spiritual alignment rather than from transient worldly labels, and becoming a more transparent channel for healing presence.
-- Chart expression: the urge to shed projections imposed by others, to loosen rigid self-concepts, and to allow the moment itself to become a site of healing and spiritual attunement. Liabilities: clinging to wounded identity, seeking confidence through external validation, or treating spiritual identity as another fixed mask rather than as a living process.
+`Chiron/Asc` concerns a change in the basis of self-confidence: releasing limiting definitions received from others and allowing identity to be guided by the spiritual self. In the source's framework, this makes room for a flexible, transforming healing presence and for connection with spirit guides, nature spirits, and angels in the [Principle](#principle). The [Process](#process) brings that receptivity into the present moment. The shared movement is from externally imposed or passing definitions toward spiritually grounded participation in what is happening now.
 
 ## Links
 

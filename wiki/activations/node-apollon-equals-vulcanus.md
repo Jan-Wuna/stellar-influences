@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Vulcanus`
 - Astronomicon formula: `g/¥ = §`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
 Unlimited freedom. Expansive power. Strong and outstanding successes in connection with science and industry.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `233`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-expansion of violence in connections, influential connection to science, success through a powerful connection, successful mediation of energy, powerful trade connection, much influence of a connection, and increasing violence in connections
+expansion of violence in connections, influential connection to science, success through a powerful connection, successful mediation of energy, powerful trade connection, much influence within a connection, and increasing violence in connections
+
+## Comparative Schema
+
+- core meaning: expansive power and influential scientific or commercial ties.
+- psychology: Witte's unlimited freedom is a source expression, not inherently a difficulty.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: powerful trade and scientific connections can be influential or violent in the stated alternatives.
+- events/manifestations: outstanding industrial success and energy mediation are named.
+- conflicts/notes: success and violence coexist in the source range without making one the cause of the other.
+
+## Contradictions
+
+Witte emphasizes expansive power, freedom and success. ABC also names increasing violence within connections; the difference should remain visible rather than making every powerful tie coercive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Vulcanus`: Unlimited freedom. Expansive power. Strong and outstanding successes in connection with science and industry.
-- Practical focus: expansive power; also strong and outstanding successes in connection with science and industry.
-- In difficult expression, it can mark unlimited freedom.
+Node/Apollon = Vulcanus concerns the scale and influence of connections. [Witte](#witte-entry) names expansive power and outstanding success in science or industry. [ABC](#abc-entry) adds powerful trade ties and energy mediation, while separately retaining violence within connections (printed p. 233, PDF p. 115). This supports both accomplishment and a more difficult use of power. Unlimited freedom is not by itself a negative expression, and neither success nor influence proves coercion.
 
 ## Links
 

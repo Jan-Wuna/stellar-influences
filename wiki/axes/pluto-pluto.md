@@ -46,13 +46,27 @@ updated_at: 2026-04-21
 - Axis: `Pluto/Pluto`
 - Astronomicon axis: `Z/Z`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `PLUTO + PLUTO`
+- PDF page (one-based): `255` (exact pair passage checked in raw PDF text).
+
 #### Pair Summary
 
 Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Upheaval. Metamorphosis. Change from within. Immediate past.
+
+## Comparative Schema
+
+- core meaning: development and transformation, including growth, turnaround, and change from within ([Pair Summary](#pair-summary)).
+- psychology: inner change is named, but no motive, emotional quality, or personality profile is supplied.
+- body/health: metamorphosis and growth are broad source terms; the entry gives no bodily function or medical condition.
+- social/relationship: no specific interpersonal or collective setting is established by this pair summary.
+- events/manifestations: division, reshaping, upheaval, and turnaround belong to the source range; “immediate past” is also listed without further explanation.
+- conflicts/notes: this single-source repeated-factor entry supplies a vocabulary of change, not two independent factor meanings, a timing method, or a third-factor activation.
 
 ## Related Activations
 
@@ -78,11 +92,16 @@ Development. Transformation. Turnaround. Change. Growth. Division. Reshaping Uph
 - [Pluto/Pluto = Vulcanus](../activations/pluto-pluto-equals-vulcanus.md)
 - [Pluto/Pluto = Poseidon](../activations/pluto-pluto-equals-poseidon.md)
 
+## Contradictions
+
+Only one pair summary is present. Growth, division, and upheaval are different forms of change rather than a demonstrated contradiction; the entry does not explain the contextual use of “immediate past.” Witte's exact pair passage is confirmed on PDF255, without claiming a separately checked printed folio.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes development; Transformation; Turnaround; Change; Growth; Division; Reshaping Upheaval; Metamorphosis; Change from within; Immediate past.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Pluto` gathers the [source's vocabulary of transformation](#pair-summary). Development and growth can reshape something from within; turnaround, division, and upheaval name other forms that change may take. The repeated-factor entry therefore establishes a field of becoming or alteration without fixing whether it is gradual, welcome, or beneficial.
+
+“Immediate past” remains a distinct source keyword whose use is not explained here; it does not establish a timing method. This brief single-source entry supplies neither a generic constructive/shadow psychology nor a particular medical or relationship outcome. The separate activations provide their own third-factor specifications.
 
 ## Links
 

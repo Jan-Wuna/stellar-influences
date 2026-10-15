@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Apollon`
 - Astronomicon formula: `Q/¦ = ¥`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,18 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Affectionate and perpetual friendship in a small circle. Music circle.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-see above
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Enduring love of freedom, blocked success in peace, restricted science of peace, the end of freedom in love, successful deepening into art, thorough knowledge of art, deepening the joy of knowledge, and increasing restriction of wishes.
+
+## Comparative Schema
+
+- Core meaning: Enduring affection within a small circle.
+- Psychology: Joy in knowledge; thorough artistic interest.
+- Body/health: No specific health claim.
+- Social/relationship: Perpetual friendship and freedom in love.
+- Events/manifestations: A music circle; deepened art and knowledge.
+- Conflicts/notes: ABC adds limits on peace, freedom, and wishes to Witte's affectionate circle.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+ABC adds limits on peace, freedom, and wishes to Witte's affectionate circle.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Apollon`: affectionate and perpetual friendship in a small circle.
+Apollon specifies Venus/Admetos through lasting affection in a small circle, with music giving that shared life a concrete form. ABC extends this toward sustained love of freedom and deep artistic knowledge, while retaining restrictions on wishes and freedom. Depth and endurance therefore coexist with limits. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

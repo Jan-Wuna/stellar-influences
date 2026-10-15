@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Kronos`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = ¤`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Zeus Kronos](../triads/sun-zeus-kronos.md)
@@ -42,13 +43,29 @@ Leading in action. High military rank. General field marshal.
 
 #### ABC Entry
 
-Appreciated creative person, head of a filtration center, gro/3 fire per day, personal performance superiority, personal self sustaining striving, state performance center, important personal efforts, and determined person leadership
+Source: ABC printed p. 163, supplied PDF p. 80, Sonne + Zeus, kronos row (eight clauses). Translation from the German scan:
+
+A respected creative person; head of a leadership center; a major fire during the day; personal superiority in performance; personal independent striving; a state performance center; important personal efforts; goal-directed leadership of persons.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Action is directed from a position of high leadership.
+- psychology: ABC includes important personal effort and determined direction.
+- body/health: No health claim is supplied.
+- social/relationship: Witte names high military rank and a field marshal.
+- events/manifestations: State performance centers are an additional ABC setting.
+- conflicts/notes: High rank is Witte's example; it is not assigned to everyone with this formula.
+
+## Contradictions
+
+No direct contradiction is established. ABC includes independent striving and a major fire as distinct examples beside leadership; Witte's high military rank does not establish a particular occupation for everyone.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Kronos`: forceful leadership and creative command.
-- Practical expression: appreciated creative person, head of a filtration center, personal performance superiority, and personal self sustaining striving.
+Kronos specifies Sun/Zeus as leadership exercised in action, with Witte's high military rank providing its most concrete example. ABC adds significant personal effort and direction in a state setting, supporting authoritative achievement without establishing a particular rank or occupation. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

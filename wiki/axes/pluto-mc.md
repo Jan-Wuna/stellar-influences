@@ -20,10 +20,12 @@ related_activations:
   - Pluto/MC = Jupiter
   - Pluto/MC = Kronos
   - Pluto/MC = Mars
+  - Pluto/MC = MC
   - Pluto/MC = Mercury
   - Pluto/MC = Moon
   - Pluto/MC = Neptune
   - Pluto/MC = Node
+  - Pluto/MC = Pluto
   - Pluto/MC = Poseidon
   - Pluto/MC = Saturn
   - Pluto/MC = Sun
@@ -72,12 +74,14 @@ updated_at: 2026-05-06
 - Astronomicon axis: `Z/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `PLUTO/MIDHEAVEN`
-- Source page: `351`
+- Source heading: `MERIDIAN + PLUTO`
+- PDF page (one-based): `69` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -85,9 +89,11 @@ One’s own intellectual capacity, as well as the ability and possibility of dev
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `82–83`; PDF page (one-based): `40` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Conscious development, I change, I transform, my development, my changes, psychic development, psychic changes, and self transformation
+Conscious development, I change, I transform, I switch, my unfolding, my development, my changes, unfolding of the soul, development of the soul, transformations of the soul, self-transformation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -113,6 +119,8 @@ People excelling in their particular profession or occupation. Experts of great 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page (one-based): `117` (exact Principle and Process checked in raw PDF text).
+
 #### Principle
 
 To be transformed and empowered by being open and receptive to spiritual forces. An intense and relentless pursuit of one’s spiritual path, or to pursue worldly success with the same intensity. Power struggles with employers and/or those in au thority. To be obsessed with the need for security, and ultimately to find true security in spiritual realities.
@@ -123,9 +131,11 @@ The craving to find a truly meaningful place in the world. The desire to wield s
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page (one-based): `213` (complete pair entry and `own ego development` checked against the scan).
+
 #### Pair Delineation
 
-Striving toward one's goals, the desire to achieve one's objectives at any cost. The transformation of the self. Crises in one's o^ ego development from which a new self emerges. To be strong-willed or ambitious. To have the sense of being an agent of destiny.
+Striving toward one's goals, the desire to achieve one's objectives at any cost. The transformation of the self. Crises in one's own ego development from which a new self emerges. To be strong-willed or ambitious. To have the sense of being an agent of destiny.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -161,12 +171,12 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: inner transformation and the shaping of individuality, goals, and one's place in the world ([Pair Summary](#pair-summary); [Principle](#principle); [Pair Delineation](#pair-delineation)).
+- psychology: ambition, self-control, authority, and clarification of personal goals can support development; obsession with status, misuse of power, and punitive self-control can obstruct it ([Psychological Correspondence](#psychological-correspondence); [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin names recuperation and decisions about treatment; Munkasey lists stress, toxins, and elimination problems. These are attributed historical correspondences, not medical guidance ([Biological Correspondence](#biological-correspondence); [With Body or Mind](#with-body-or-mind)).
+- social/relationship: expertise and professional authority are prominent, while Munkasey distinguishes mutual growth from dependence or undermining a partner's identity ([Sociological Correspondence](#sociological-correspondence); [In Your Relationships](#in-your-relationships)).
+- events/manifestations: recognition, independence, crisis, repairing a reputation, large research projects, and waste disposal are source examples; ruin through power misuse is conditional ([Probable Manifestations](#probable-manifestations); [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: intellectual development, vocation, spiritual purpose, and family reputation are distinct emphases. Witte's exact locator, ABC's full summary and Hand's damaged `own` were repaired from direct source checks; Sandbach's `au thority` remains a word-break artifact.
 
 ## Related Activations
 
@@ -179,10 +189,12 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 - [Pluto/MC = Jupiter](../activations/pluto-mc-equals-jupiter.md)
 - [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md)
 - [Pluto/MC = Mars](../activations/pluto-mc-equals-mars.md)
+- [Pluto/MC = MC](../activations/pluto-mc-equals-mc.md)
 - [Pluto/MC = Mercury](../activations/pluto-mc-equals-mercury.md)
 - [Pluto/MC = Moon](../activations/pluto-mc-equals-moon.md)
 - [Pluto/MC = Neptune](../activations/pluto-mc-equals-neptune.md)
 - [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
+- [Pluto/MC = Pluto](../activations/pluto-mc-equals-pluto.md)
 - [Pluto/MC = Poseidon](../activations/pluto-mc-equals-poseidon.md)
 - [Pluto/MC = Saturn](../activations/pluto-mc-equals-saturn.md)
 - [Pluto/MC = Sun](../activations/pluto-mc-equals-sun.md)
@@ -194,15 +206,16 @@ Toxins which accumulate due to the stress of living or work; colon or eliminatio
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Recognition, inner change, mutual growth, and misuse of power describe different possibilities rather than a required sequence. Sandbach's spiritual path is a specific interpretive emphasis; Munkasey's reputation and family themes extend beyond public ambition. Their medical and esoteric statements remain attributed source doctrine.
+
+Witte's exact pair passage is PDF69; Munkasey's printed351 remains his separate reference. ABC's complete bold summary was retranslated from PDF40, printed82–83; Hand's full entry and `own ego development` were checked against PDF213. Sandbach's exact Principle and Process are confirmed on PDF117. Ebertin's mapped printed chapter start297 remains a parser locator without fresh scan verification; trailing formula debris and word breaks supply no additional doctrine.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC` is the axis of transformative destiny, forceful ambition, and the urge to reshape one's life direction through power, crisis, and deep self-redefinition. It combines compulsion, authority, destruction, and regeneration with vocation, status, purpose, and public standing.
-- Chart expression: decisive turning points in career and identity, the need to wield influence, and a life path marked by profound rises, reversals, or reinventions. Liabilities: obsession with control, abuse of authority, antisocial conduct, and sudden collapse when power is pursued destructively.
+`Pluto/MC` concerns becoming a different person through inner development and a changed sense of purpose or position. The [pair summary](#pair-summary) emphasizes intellectual capacity and stages of inner transformation; [Ebertin](#principle) calls this the shaping of individuality, while [Hand](#pair-delineation) connects it with determined pursuit of goals and crises from which a new self emerges. Professional authority and recognition are part of that range, alongside the conscious development named in the [ABC entry](#abc-pair-summary).
+
+The central tension is how power and self-control serve that development. They can support competence, independence, or growth with a partner, but can also become status obsession, domination, or self-punishment ([Ebertin](#psychological-correspondence); [Munkasey](#in-your-personal-life)). [Sandbach](#principle-1) adds the search for a meaningful worldly or spiritual place and conflict with authority. Munkasey's family-reputation, research, and waste-disposal examples preserve a wider range than career alone; historical medical claims and language of destiny do not establish a diagnosis or inevitable rise and collapse.
 
 ## Links
 

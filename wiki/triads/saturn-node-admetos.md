@@ -28,25 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Node Admetos`
 - Astronomicon triad-set: `W g ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Admetos = Saturn](../activations/node-admetos-equals-saturn.md)
-- [Saturn/Admetos = Node](../activations/saturn-admetos-equals-node.md)
-- [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Admetos = Saturn](../activations/node-admetos-equals-saturn.md) | [Node/Admetos](../axes/node-admetos.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Admetos = Node](../activations/saturn-admetos-equals-node.md) | [Saturn/Admetos](../axes/saturn-admetos.md) | [Node](../factors/node.md) |
+| [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md) | [Saturn/Node](../axes/saturn-node.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Node/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `235`
-- `Saturn/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
-- `Saturn/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `364`
-- `Saturn/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `217`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Admetos = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-admetos-equals-saturn.md#witte-entry), one-based PDF entry-start p. `154`.
+- `Node/Admetos = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-admetos-equals-saturn.md#abc-entry), printed p. `235`.
+- `Saturn/Admetos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-admetos-equals-node.md#witte-entry), one-based PDF entry-start p. `229`.
+- `Saturn/Admetos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-admetos-equals-node.md#abc-entry), printed p. `364`.
+- `Saturn/Node = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-admetos.md#witte-entry), one-based PDF entry-start p. `145`.
+- `Saturn/Node = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-admetos.md#abc-entry), printed p. `217`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Saturn`: End of an oppression. Separating connection with a few. Oppressive bonds. To pant under a heavy burden.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Saturn/Node = Admetos reports that its ABC excerpt omits the scan's final task-attachment clause. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

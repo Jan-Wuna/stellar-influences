@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Jupiter Node](../triads/vernal-point-jupiter-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Happy companionship with others. Successful in the general public with others.
 
@@ -42,13 +46,27 @@ Happy companionship with others. Successful in the general public with others.
 
 #### ABC Entry
 
-Successful public relations, joyful public encounter, happiness in public relations, public financial relations, legal relations in public life, and beneficial public contacts life
+- Source page: 26; PDF page: 12 (one-based spread).
+
+Successful public connections, a joyful public encounter, happiness in relations with the public, public financial connections, legal connections in public life, and advantageous public contacts
+
+## Comparative Schema
+
+- core meaning: Public connections associated with happiness, success, and advantage.
+- psychology: Joyful encounter and happy companionship are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Success with others and beneficial public contacts.
+- events/manifestations: Financial and legal connections.
+- conflicts/notes: Financial or legal links are settings for advantage, not guarantees of gain.
+
+## Contradictions
+
+No direct contradiction is established. Happy companionship and financial or legal association are distinct examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Jupiter`: happy companionship with others and successful in the general public with others.
-- Practical expression: successful public relations, oyful public encounter, happiness in public relations, public financial relations, and legal relations in public life.
+In `Vernal Point/Node = Jupiter`, public connections are specified through shared happiness and favorable association. The [Witte entry](#witte-entry) names happy companionship and success with others. The restored [ABC entry](#abc-entry) adds joyful encounters, advantageous contacts, and financial or legal links. The synthesis centers on benefit through relationship while leaving its concrete form open.
 
 ## Links
 

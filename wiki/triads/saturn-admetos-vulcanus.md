@@ -28,25 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Admetos Vulcanus`
 - Astronomicon triad-set: `W ¦ §`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Admetos/Vulcanus = Saturn](../activations/admetos-vulcanus-equals-saturn.md)
-- [Saturn/Admetos = Vulcanus](../activations/saturn-admetos-equals-vulcanus.md)
-- [Saturn/Vulcanus = Admetos](../activations/saturn-vulcanus-equals-admetos.md)
+- [Admetos/Vulcanus = Saturn](../activations/admetos-vulcanus-equals-saturn.md) — base axis [Admetos/Vulcanus](../axes/admetos-vulcanus.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Admetos = Vulcanus](../activations/saturn-admetos-equals-vulcanus.md) — base axis [Saturn/Admetos](../axes/saturn-admetos.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Saturn/Vulcanus = Admetos](../activations/saturn-vulcanus-equals-admetos.md) — base axis [Saturn/Vulcanus](../axes/saturn-vulcanus.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
-- `Admetos/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `475`
-- `Saturn/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
-- `Saturn/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `365`
-- `Saturn/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
-- `Saturn/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `367`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Admetos/Vulcanus = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/admetos-vulcanus-equals-saturn.md#witte-entry), one-based PDF p. `311` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/admetos-vulcanus-equals-saturn.md#abc-entry), printed p. `475` (PDF p. `236`).
+- `Saturn/Admetos = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-admetos-equals-vulcanus.md#witte-entry), one-based PDF p. `229` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-admetos-equals-vulcanus.md#abc-entry), printed p. `365` (PDF p. `181`).
+- `Saturn/Vulcanus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-vulcanus-equals-admetos.md#witte-entry), one-based PDF p. `230` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-vulcanus-equals-admetos.md#abc-entry), printed p. `367` (PDF p. `182`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Saturn`: slow-building blows of fate and long trials that demand sustained endurance without quick relief.
+Use this hub to select an orientation of the unordered set `Saturn Admetos Vulcanus`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

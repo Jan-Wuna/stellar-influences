@@ -1,0 +1,252 @@
+{
+  "scope": "Third stable11 B045–066 PlutoHades/Kronos source repairs; independent B2 rebind pending.",
+  "count": 11,
+  "cumulative": 39,
+  "new_reviews": 0,
+  "actual_raw_scans_personally_viewed": [
+    "ABC204",
+    "ABC206",
+    "Witte258"
+  ],
+  "exact_intended_bytes": [
+    {
+      "path": "wiki/activations/pluto-hades-equals-admetos.md",
+      "raw_sha256": "3437997877564a24de9b92caba3e4e5e4e750e430aad45da27e1af605512ac31",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-apollon.md",
+      "raw_sha256": "d212a875f2b464aaf6156b5070c9ae14cfbdfd8403ad5133ce50ed0d049aeb3a",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-asc.md",
+      "raw_sha256": "ea23b85f2e816e88643738d14b485876236c8f22683d693a7acdcc3ba6d8f0ee",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mc.md",
+      "raw_sha256": "232a51bab25cc840bc3399e245254a22d70f6714a483b891600541fe192df805",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-neptune.md",
+      "raw_sha256": "01e76920190c311b0880da49484711648fa225ce2d5d99ad867cbfed30c0bfad",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+      "raw_sha256": "1e92b37b59d702b511a653b277dab1b5046a1dc94554d8805d7ab794f79603c8",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+      "raw_sha256": "a35533c096bcba26178780ed10380d8f403d23fcb0f77ff87dedee3bcdf189f0",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-zeus.md",
+      "raw_sha256": "81e812612c6e67a935ecb36903b06dd9ef69b3caf3606e82ca01099847152e5b",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+      "raw_sha256": "8d7a91c1b5b7ffabcf08e5f08ef0e82ecfb672013206479b83c558908eb0b1f5",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+      "raw_sha256": "ada002ffe3a02a4e91a9ce3dc2605b7113259a31c1cc8d678b71152cd215fa36",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-asc.md",
+      "raw_sha256": "c7c4de805ae95339a4fedf32cdc8f7742c75c451cb878f9ccb59911e9f3dd718",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    }
+  ],
+  "all_temporary_stages_absent": true,
+  "move_stage_back": [
+    {
+      "path": "wiki/activations/pluto-hades-equals-admetos.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-admetos.md",
+      "pre_sha256": "f744b7a9edc20480198685a67e1339552940168b1d668690ce6df83f33760969"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-apollon.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-apollon.md",
+      "pre_sha256": "8778b426c6656e3fc4eec4a42956508d34e0571a60c3f6b43091e9491a7cc2a5"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-asc.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-asc.md",
+      "pre_sha256": "b6f696231629a3431dcb81e60a7ad1ffd23d7f7a1dbe73c8c17c0496ead4e828"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mc.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-mc.md",
+      "pre_sha256": "73ed7585654483cc554d1560c0eedd74a3c8df2c1444b8b1d0b09bd304dff909"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-neptune.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-neptune.md",
+      "pre_sha256": "989c94ffa1ccf92508e9e6d3553fb8381a8b86ebc3169e61b656613e8c7141df"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-vernal-point.md",
+      "pre_sha256": "fc2c4b332a0e22ac845d9beb871bc22d15121dc38c325c85d305f1e1cb2df210"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-vulcanus.md",
+      "pre_sha256": "0ff5291d975c0c20172c2ed61b657d1946f7cce6c5baa754c83a5205e8cea3b6"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-zeus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-hades-equals-zeus.md",
+      "pre_sha256": "6c6fddaba10e13da03ec12638e31b29ef7d4f7c57ba701aaf040e1ba8fbb2141"
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-kronos-equals-admetos.md",
+      "pre_sha256": "5390fad94c9fa30b4c1a1be6eae54a1ebe2398af77a9710c23b721da52fd537e"
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-kronos-equals-apollon.md",
+      "pre_sha256": "dd4cc16ed2af4717727a12c2b7a6c8348117165e3299391f892b10979b64e868"
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-asc.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-kronos-equals-asc.md",
+      "pre_sha256": "249e19d048a9a090103b41683e680f825149cc987245c78dbf566fd3addcbce1"
+    }
+  ],
+  "bindings": [
+    {
+      "path": "wiki/activations/pluto-hades-equals-admetos.md",
+      "ledger_line": 33,
+      "before_source_section_sha256": "69cabcae22eb31b1efdb534bdeaa1235270751ad8e02d28b1d48d1ed0bb1b191",
+      "final_source_section_sha256": "7b31c820bee85dc0ebe8a90a15df255a22cff9bd81510609cc92b23c05922076",
+      "final_page_sha256": "3437997877564a24de9b92caba3e4e5e4e750e430aad45da27e1af605512ac31",
+      "current_record_sha256": "41988a6255db67ca99c25309fcb15f61cba405f01de05820f79b7c98d6e239e6",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-apollon.md",
+      "ledger_line": 34,
+      "before_source_section_sha256": "dc0b5ca3936a78ce33387052363a240331645cc9de7a551ba17c4c8aa17e342c",
+      "final_source_section_sha256": "38a97aed7ecb178f407a32920228477c1e5d04f8dea8cdbbde7bf55ad350a201",
+      "final_page_sha256": "d212a875f2b464aaf6156b5070c9ae14cfbdfd8403ad5133ce50ed0d049aeb3a",
+      "current_record_sha256": "2445415ac1697510ed53f6e9accdb6746b1bbb9c728740b6d8d64bc395904922",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-asc.md",
+      "ledger_line": 35,
+      "before_source_section_sha256": "345a42046c093f0bf2c7bb058c5ad393e17c9c169f078e74129653745cf256a1",
+      "final_source_section_sha256": "d832d6f308552593f0a0bd631dafb762762276205dd1f6d2f06f67a010fc36de",
+      "final_page_sha256": "ea23b85f2e816e88643738d14b485876236c8f22683d693a7acdcc3ba6d8f0ee",
+      "current_record_sha256": "1e60986cd4a381e19a61efe1bb39d3f99061aff94da63fd4078ff76b4673d3d1",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mc.md",
+      "ledger_line": 40,
+      "before_source_section_sha256": "05fc00406b29513f58065838e73f8d1191250a0d89dc4d1f4b39ab54f07dbdf2",
+      "final_source_section_sha256": "59b2604818ffe2e5dafb76820b9fd47fafee00d2f64817feedc1fb45ce1a0e8d",
+      "final_page_sha256": "232a51bab25cc840bc3399e245254a22d70f6714a483b891600541fe192df805",
+      "current_record_sha256": "815da03bae9e0c1bb83e493d1880dba2a02427cee07c95344937438a2212cbaf",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-neptune.md",
+      "ledger_line": 43,
+      "before_source_section_sha256": "39f8198ae90e399a7af157ce75dc122138822df5acb7a57aca717c33966bba2a",
+      "final_source_section_sha256": "d77fbcca92eb234746b4d0d104628244c4d289e18cc7d20e40b794990d6b894d",
+      "final_page_sha256": "01e76920190c311b0880da49484711648fa225ce2d5d99ad867cbfed30c0bfad",
+      "current_record_sha256": "93bc44c06da993596806bada24998bbfbf8f604628a3aa4a0fe7b48500fc2e8b",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+      "ledger_line": 50,
+      "before_source_section_sha256": "ba5548b45aa3000c4170d7996f4d974fd801bb3e635938ca737932c230e4e36c",
+      "final_source_section_sha256": "808b8de1a1637c5caff37dff5c4e56adff831deaad162dea7d8f6ba993221605",
+      "final_page_sha256": "1e92b37b59d702b511a653b277dab1b5046a1dc94554d8805d7ab794f79603c8",
+      "current_record_sha256": "4c0d27b69beebd7aeaf3742e4e02a390b9bbb7c5aa5b59ea2cdd0153438ebd43",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+      "ledger_line": 51,
+      "before_source_section_sha256": "e655812292a180b471217115dfb48015478b5b7ed59d7cf5fb970d7456e587cb",
+      "final_source_section_sha256": "75a7a29f09f638757ac8c309fcf774834ac6da97cf8b76b567e050c35437000e",
+      "final_page_sha256": "a35533c096bcba26178780ed10380d8f403d23fcb0f77ff87dedee3bcdf189f0",
+      "current_record_sha256": "66dd5200fe2cc2b9706f803efba13e5241fdba6ae24b70f4d278546b671a0a0a",
+      "unresolved": [
+        "Actual Witte one-based PDF258 genuinely prints A misfortune rarely comes along. The intended idiom is unclear; it is retained without a guessed correction and does not independently support synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-zeus.md",
+      "ledger_line": 52,
+      "before_source_section_sha256": "d652b9292cec8bd6fe44cf17db15c123a748c06f0a53ba439d23eeabf5e42098",
+      "final_source_section_sha256": "9f2e8256444087e09bcb093c4417132a08c49b02f04231a146128a5e1b682491",
+      "final_page_sha256": "81e812612c6e67a935ecb36903b06dd9ef69b3caf3606e82ca01099847152e5b",
+      "current_record_sha256": "8d4fcaa17132ab78075a3914460f687c1860a172b3e662c525a3ef2b125c3dc3",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+      "ledger_line": 53,
+      "before_source_section_sha256": "4897c63248ed05332c2fe1e6a3869e41f3277ceb664371aaa92b291e2b3b99d6",
+      "final_source_section_sha256": "206eaaf7288cd35eb849a87252bcf38be9f044fa391a00364868e1df60f86abb",
+      "final_page_sha256": "8d7a91c1b5b7ffabcf08e5f08ef0e82ecfb672013206479b83c558908eb0b1f5",
+      "current_record_sha256": "8c646e27b83a9a96d0937937662eaa08572a55a6b8236fd89d432ca9a7dace59",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+      "ledger_line": 54,
+      "before_source_section_sha256": "626f0b743c9ecc3a2c4e0747f46c5dec5fda50c2742311335b05789dd25c59c9",
+      "final_source_section_sha256": "0a927e172c4c1a0be9d6ff904ed6944f299c436b37b58bc5f28c20c3d9f7d26c",
+      "final_page_sha256": "ada002ffe3a02a4e91a9ce3dc2605b7113259a31c1cc8d678b71152cd215fa36",
+      "current_record_sha256": "e3709eb03983dcf99fe301bad120db5d3af70eb35d4cb89112632dccbae81eec",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-asc.md",
+      "ledger_line": 55,
+      "before_source_section_sha256": "655c5aebdd3f9ed1ec45d91aab4049e81b5ef4af66426d7701b824e9e0e4a476",
+      "final_source_section_sha256": "9fd65bcdfb3b280f531565ef1afd469648f2a84e42552d1c80cad1e35b76f3ed",
+      "final_page_sha256": "c7c4de805ae95339a4fedf32cdc8f7742c75c451cb878f9ccb59911e9f3dd718",
+      "current_record_sha256": "087e18f601e9f24a614e15c8b01a170158221c03936bf6f33d6632873e30c5ee",
+      "unresolved": []
+    }
+  ],
+  "receipt": "source-closure-B045-066-decisions.jsonl"
+}

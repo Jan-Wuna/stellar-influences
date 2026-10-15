@@ -28,27 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Zeus Admetos`
 - Astronomicon triad-set: `Z £ ¦`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Pluto/Admetos = Zeus](../activations/pluto-admetos-equals-zeus.md)
-- [Pluto/Zeus = Admetos](../activations/pluto-zeus-equals-admetos.md)
-- [Zeus/Admetos = Pluto](../activations/zeus-admetos-equals-pluto.md)
+- [Pluto/Admetos = Zeus](../activations/pluto-admetos-equals-zeus.md) — base axis [Pluto/Admetos](../axes/pluto-admetos.md); activator [Zeus](../factors/zeus.md).
+- [Pluto/Zeus = Admetos](../activations/pluto-zeus-equals-admetos.md) — base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Admetos](../factors/admetos.md).
+- [Zeus/Admetos = Pluto](../activations/zeus-admetos-equals-pluto.md) — base axis [Zeus/Admetos](../axes/zeus-admetos.md); activator [Pluto](../factors/pluto.md).
 
 ## Source Coverage
 
-- `Pluto/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `419`
-- `Pluto/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `413`
-- `Zeus/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Pluto/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-zeus.md#witte-entry), one-based PDF p. `262` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-zeus.md#abc-entry), printed p. `419` (PDF p. `208`).
+- `Pluto/Zeus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-admetos.md#witte-entry), one-based PDF p. `259` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-admetos.md#abc-entry), printed p. `413` (PDF p. `205`).
+- `Zeus/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-pluto.md#witte-entry), one-based PDF p. `293` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-pluto.md#abc-entry), printed p. `455` (PDF p. `226`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Zeus`: This activation emphasizes to be forced to make up for lost time; To increase one’s production or work under most trying and difficult circumstances.
-- `Pluto/Zeus = Admetos`: This activation emphasizes to have to overcome the greatest difficulties at the start; Performance of duty under difficult or aggravating circumstances.
-- `Zeus/Admetos = Pluto`: The beginning of a change of conditions. Things keep going. Several changes before a definite settlement.
+Use this hub to select an orientation of the unordered set `Pluto Zeus Admetos`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

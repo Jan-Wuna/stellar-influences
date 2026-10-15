@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = MC`
 - Astronomicon formula: `X/Y = MC`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, MC entry.
+
 #### Witte Entry
 
 I am unconscious. I am put out. I cannot think and act clearly. Anesthesia. To be in mourning. Communication with the deceased.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, MC entry.
+
 #### ABC Entry
 
-Peine psych impulses, my metaphysical experiences, my sudden premonitions, my tcchnical feeling, my surprise weakness, my restlessness in the air, emotional arousal in the water, and unknown psychic tension
+Fine emotional impulses, my metaphysical experiences, my sudden premonitions, my technical sensitivity, my surprising weakness, my unrest in the air, emotional excitement in water, and unknown emotional tension.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 267 (PDF p. 269), code `0949`.
 
 #### Ebertin Entry
 
 Growth and development of the subconscious forces, inner vision, a peculiar disposition and strange interests. Unconsciousness, lack of stamina, a nervous breakdown, mourning, dissolution.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Neptune midpoint`, Midheaven entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ The reputation you develop from your insight into ideas, gadgets, or people; you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal inner vision with limits on clarity or effective action. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Subconscious development, unusual interests, and uncertain mental tension. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Witte/Ebertin name anesthesia, unconsciousness, and breakdown; these remain historical associations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Helping humanity and a reputation for insight. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Mourning, developing insight, and restraining unfinished ideas. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Inner vision and impaired clarity remain distinguishable; Munkasey's right-brain wording is an attributed explanatory claim. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Inner vision and spiritual vocation coexist with impaired clarity, mourning and diminished stamina. Munkasey's right-brain account remains the source's explanatory claim, not established neuroscience.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = MC`: inspired vocation, imaginative reform, and the capacity to steer life through subtle signals and unconventional callings. Main caution: diffuse mission: outer direction can become erratic, overly idealized, or difficult to embody consistently.
+MC specifies Uranus/Neptune through the person's inner vision and difficulty maintaining clear thought or action. Spiritual security and a vocation of helping humanity can give that inward experience meaning, while the older entries retain unconsciousness, mourning, and diminished stamina. Insight and impairment must remain distinguishable: a spiritual interpretation does not make an episode of confusion or loss a source of reliable knowledge. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Poseidon](../triads/vernal-point-moon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Women with outspoken intellectual inclinations. National education.
 
@@ -42,13 +46,27 @@ Women with outspoken intellectual inclinations. National education.
 
 #### ABC Entry
 
-Women of insight in the public sphere, findings of the Mother of the World, women's culture in the public sphere, women's intellectual world, clarity in the public sphere through women, culture of a people in the public sphere, and hour of public awareness
+- Source page: 25; PDF page: 11 (one-based spread).
+
+An insightful woman in public, insights of the mothers of the world, women's culture in public life, women's intellectual world, public clarity through women, a people's public culture, and an hour of public truth
+
+## Comparative Schema
+
+- core meaning: Public collective life expressed through insight, culture, and education.
+- psychology: Intellectual inclination, insight, and clarity are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Women's intellectual contributions and mothers' insights.
+- events/manifestations: National education, public culture, and truth.
+- conflicts/notes: Mothers is plural and truth is explicit; the old Mother-of-the-World and awareness wording obscured both.
+
+## Contradictions
+
+No direct contradiction is established. Education and truth are source themes, not independent proof that every public cultural claim is correct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Poseidon`: women with outspoken intellectual inclinations and national education.
-- Practical expression: women of insight in the public sphere, findings of the Mother of the World, women's culture in the public sphere, women's intellectual world, and clarity in the public sphere through women.
+In `Vernal Point/Moon = Poseidon`, public life is specified through intellectual and cultural understanding. The [Witte entry](#witte-entry) names intellectually inclined women and national education. The restored [ABC entry](#abc-entry) adds mothers' insights, women's intellectual world, a people's culture, clarity, and public truth. The synthesis joins collective education with the sources' particular examples of women contributing insight.
 
 ## Links
 

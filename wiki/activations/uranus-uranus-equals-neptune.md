@@ -27,16 +27,39 @@ updated_at: 2026-04-21
 - Axis page: [Uranus/Uranus](../axes/uranus-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 233 (entry start).
+
+- Source catalog: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md).
 
 #### Witte Entry
 
 Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the beyond. Crisis. Dead persons. Revolution. Sudden disagreeable events. To cause sudden confusion and deception of a revolutionary kind. To give up something. To bring an end to something. Futile excitement. Sudden uncertainty.
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry).
+
+- core meaning: Sudden uncertainty, confusion or an ending.
+- psychology: Futile excitement, deception and feeling checkmated.
+- body/health: Witte historically includes incapacity, unconsciousness and death.
+- social/relationship: The entry allows causing or experiencing deception.
+- events/manifestations: A sudden crisis or giving something up.
+- conflicts/notes: The severe bodily examples remain attributed rather than predictive.
+
+## Contradictions
+
+Only Witte is present. Its list moves between uncertainty, endings and literal bodily extremes without specifying that they coincide; a medical or mortality conclusion cannot be drawn from this excerpt.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Uranus = Neptune`: Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the beyond. Crisis. Dead persons. Revolution. Sudden disagreeable events. To cause sudden confusion and deception of a revolutionary kind. To give up something. To bring an end to something. Futile excitement. Sudden uncertainty.
+In `Uranus/Uranus = Neptune`, Neptune specifies sudden disturbance through uncertainty, confusion or the sense that action has become futile. [Witte](#witte-entry) includes giving something up or bringing it to an end, alongside deception and revolutionary disruption. Its historical associations with unconsciousness and death remain separate, attributed extremes rather than necessary outcomes.
 
 ## Links
 

@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Hades`
 - Astronomicon triad-set: `R g ¢`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Hades = Node](../activations/moon-hades-equals-node.md)
-- [Moon/Node = Hades](../activations/moon-node-equals-hades.md)
-- [Node/Hades = Moon](../activations/node-hades-equals-moon.md)
+- [Moon/Hades = Node](../activations/moon-hades-equals-node.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Node](../factors/node.md).
+- [Moon/Node = Hades](../activations/moon-node-equals-hades.md): base axis [Moon/Node](../axes/moon-node.md); activator [Hades](../factors/hades.md).
+- [Node/Hades = Moon](../activations/node-hades-equals-moon.md): base axis [Node/Hades](../axes/node-hades.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `194`
-- `Moon/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `175`
-- `Node/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `226`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Hades = Node](../activations/moon-hades-equals-node.md#witte-entry) (PDF entry-start p. 131); [Moon/Node = Hades](../activations/moon-node-equals-hades.md#witte-entry) (PDF entry-start p. 121); [Node/Hades = Moon](../activations/node-hades-equals-moon.md#witte-entry) (PDF entry-start p. 150).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Hades = Node](../activations/moon-hades-equals-node.md#abc-entry) (printed p. 194); [Moon/Node = Hades](../activations/moon-node-equals-hades.md#abc-entry) (printed p. 175); [Node/Hades = Moon](../activations/node-hades-equals-moon.md#abc-entry) (printed p. 226).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Node`: Prospect of becoming a widow. Connections which cause worries. Connection to old women.
-- `Moon/Node = Hades`: This activation degrades `Moon/Node` into poor connection, relational rejection, and emotionally unsatisfying association. It can show difficult female bonds, social inferiority, or belonging marked by neglect, shame, or exclusion.
-- `Node/Hades = Moon`: Women with bad company. To be disgusted with the public conditions. To be slandered in public. To be exposed to such things.
+Moon, Node and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Hades](../axes/moon-hades.md)
+- [Moon/Node](../axes/moon-node.md)
+- [Node/Hades](../axes/node-hades.md)
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)

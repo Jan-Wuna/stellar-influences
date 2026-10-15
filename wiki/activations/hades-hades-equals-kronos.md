@@ -26,17 +26,33 @@ updated_at: 2026-04-21
 - Astronomicon formula: `¢/¢ = ¤`
 - Axis page: [Hades/Hades](../axes/hades-hades.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 #### Witte Entry
 
+- PDF page: 276 (printed p. 280).
+
 Great baseness and meanness, poverty or want. Poor government. Plain clothes police. The criminal on a large scale. Organized crime. Detective force. Criminal police. To be obliged to give up independence. Death and ruin in ruling circles.
+
+## Comparative Schema
+
+- **Core meaning:** Government, policing, organized crime, and independence specify the repeated pair.
+- **Psychology:** The source's moral judgments remain attributed; no individual character diagnosis is supplied.
+- **Body/health:** Death in ruling circles is a historical event example, not a medical prediction.
+- **Social/relationship:** Government, detectives, plain-clothes police, and organized crime are distinct institutional settings.
+- **Events/manifestations:** Poor government, surrender of independence, criminal investigation, and ruin in ruling circles are represented.
+- **Conflicts/notes:** Police and criminal organizations must not be collapsed into one moral identity; both occur in the list.
+
+## Contradictions
+
+Only one source entry is present. Law enforcement and organized crime are different settings, not a contradiction or proof that authority is necessarily corrupt.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Hades = Kronos`: misery administered from above or tied to rank and command. It can show loss of independence, degraded leadership, and the public consequences of corrupt or mean authority.
+In `Hades/Hades = Kronos`, Kronos specifies the repeated Hades pair in institutional authority and independence. The [Witte entry](#witte-entry) includes poor government and loss of independence, but also plain-clothes police and detectives alongside organized crime (PDF entry start p. 276). Its scope therefore includes dealing with wrongdoing as well as participating in it. The recorded death or ruin in ruling circles remains a severe historical possibility, not an inevitable consequence or a verdict that every authority is corrupt.
 
 ## Links
 

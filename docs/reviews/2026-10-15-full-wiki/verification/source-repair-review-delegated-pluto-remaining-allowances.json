@@ -1,0 +1,1886 @@
+[
+  {
+    "path": "wiki/activations/pluto-admetos-equals-apollon.md",
+    "before_sha256": "edfa92e1237a4b45283347e413a8560731e01500d9cfda397772e7850394a11f",
+    "after_sha256": "58df0e65c6b5b5b87991f718ef8211da9c08a8ab544cd366f7650adc29402266",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Apollon row unchanged and exact at PDF262; ABC printed419/PDF208 complete seven-clause translation checked against actual glyph-bounded row. Thorough knowledge/science change and primal material restored; Kreislauf remains cycle/circulation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-asc.md",
+    "before_sha256": "f6e83bdd3d3dbe0ed50e4342eb0d4e7dcaafe6bbce24c3710772d5afb0015fbb",
+    "after_sha256": "0628fb37938b3b1ea584b3c5000d7db077bda252a1f82f79e4bc21a8354e9a2c",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Asc row unchanged and exact at PDF262; ABC printed418/PDF208 six clauses checked: blocked partner development, place restriction, consolidation, thorough place changes, profound partner change, depressions of partner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-cupido.md",
+    "before_sha256": "f021a3d7c5a25776e2e57b843eba33ea9cc643a3e5d56bce5b56dbc407760142",
+    "after_sha256": "25efcdfea66857bcae85b5e588d15491b5469afd95c9cc3e90165c8c75be1ee4",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Cupido row unchanged and exact at PDF262; ABC printed419/PDF208 six clauses checked, including consolidated-community unfolding, shared profound changes, thorough change and growing depressions.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-hades.md",
+    "before_sha256": "7028f7ddb5620330a8aafd962817e109fe6d9f1f9889ca1ab13406f1e29c6941",
+    "after_sha256": "d6e65e72a3a90512db981f53c050ccd31fb202b5153cbca43741493de3c83fbb",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Hades full crisis/ruin row unchanged and exact at PDF262; ABC printed419/PDF208 six clauses checked, retaining criminal-development restriction, past development, cycle/circulation and resistance to criminality.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-jupiter.md",
+    "before_sha256": "eedbea8472710c51d8ba52f829d2cbe9f48bbcc99bcb5b95f5b2f3e4abe4232b",
+    "after_sha256": "bbc32bba9c5b3c48ae3cd2239e5dc42707e01111928bbb0c21179cacd47a01b5",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Jupiter caution about natal Pluto in negative pictures fully retained at exact PDF262 row; ABC printed418/PDF208 seven clauses checked, restoring thoroughness/finance and retaining cycle/circulation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-kronos.md",
+    "before_sha256": "5cd1204bc014e113a3340c4547e56420fae94a1b74be15d968e3afe163c0409c",
+    "after_sha256": "0f03f8c6fd41a49ed36603e765e4d9031bed4fb1b3d7a4775f7ab40c4d409689",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Kronos full national/personal government distinction unchanged at exact PDF262 row; ABC printed419/PDF208 seven clauses checked, authority rather than authorship and thorough hierarchy/state changes restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-mars.md",
+    "before_sha256": "cfa907e31517d93868bcb1eaad3b2158175693402215996718ac2feb42c6f921",
+    "after_sha256": "e579917bcaf753781720c334f93744f70dd5753d8a754d928141b7823b207a48",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Mars suppression qualification fully retained at exact PDF262 row; ABC printed418/PDF208 seven clauses checked, thorough work changes and cycle/circulation wording restored without medical selection.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-mc.md",
+    "before_sha256": "c11ea6f39499788e2be14d25a623c2d2878a0088a2a961abd407bdd7516c6578",
+    "after_sha256": "4bb5150f5bc5abe92b009fe1b0119705a0f7f603ba2e7275436140bd994c8e84",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte MC complete three-sentence row unchanged and exact at PDF262; ABC printed418/PDF208 eight clauses checked, restoring growing resistance, inner firmness and final profound inner change; cycle/circulation open.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-mercury.md",
+    "before_sha256": "034514bd32a5e222b916e117decc769bffa74bf35aa8a0fdb9b73b8f21a70dd7",
+    "after_sha256": "68ce9c715efbf583222bcdb4df535461fb97b350abafe2d4e5349d46375ce12b",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Mercury complete two-sentence row at262; ABC418/208 seven clauses checked. Conversations replace languages; thorough thought development and cycle/circulation retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-moon.md",
+    "before_sha256": "59c0a37cdf56006edbbc418648c7d061e09b57c591bb090e76d356637735134e",
+    "after_sha256": "6456b760f78df217c43c1e562f01d70da71fab2ecc2f40091f0e0f7fcb2ccfb2",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Moon row at262; ABC418/208 seven clauses checked. Gemüt is emotional development, not animals; thorough transformation and growing blockage/depression retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-neptune.md",
+    "before_sha256": "ee485e83c652ce0d13119cf7a4fa7fc523e98451adc34b3276b6d46593a2edf6",
+    "after_sha256": "1407e8bfd6b95528fabfc622c4ef646e136e04460da61d84c48e0e15e140dfd3",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Neptune complete two-sentence row at262; ABC419/208 six clauses checked. Liquid buildup, sensitivity, backed-up water and phase transition restored; neighboring Pluto see-above removed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-node.md",
+    "before_sha256": "07eefeeaf39f0ebd525d0ea70eeb5082d1cbd3af6f818033786dc6d3f2e2b408",
+    "after_sha256": "2ad73a01f9d71c09d25dc26cc34c9b6e2a7786d9dea931ff101d99821519e23f",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Node full two-sentence row at262; ABC418/208 six clauses checked. Verbindung means relationship/connection in this row; restriction, thorough relationships, depression and firmness retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-poseidon.md",
+    "before_sha256": "396c123c0b770ff559c7b3dbbba3424b3d252cfe5a4f8d59dacd4ca9817b409d",
+    "after_sha256": "fa885d95d4c95bdb9b01fd3598bf69111edde8a2a2f27a3e127d1553be81d4f1",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Poseidon complete sentence at262; removed trailing footer artifact confirmed in scan. ABC419/208 seven clauses checked, geistig intellectual/spiritual and thorough truth unfolding retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-saturn.md",
+    "before_sha256": "a5fa0d7a31eb9543eb4948aeba53755b08d85c5f27f382da98aa9c57c8ca59b5",
+    "after_sha256": "a6cb26f0e4293b837371deaf34c45eeec814864fc6a45876b9d876322814df6c",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Saturn complete divorce/separation row at262; ABC419/208 six clauses checked. Thorough changes, slow consolidation and loss-laden blockage retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-sun.md",
+    "before_sha256": "17a4de7f5cc338f097f50c3b66c41944e9bd0a31b0215d50ea73da597523f623",
+    "after_sha256": "c93539f12dccab26e7f64f397106d00c34792b8d0b5d64aad4e5af019777545d",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Sun complete bodily/exterior-condition/meals row at262; ABC418/208 seven clauses checked. Thorough personal change restored with bodily/masculine claims intact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-uranus.md",
+    "before_sha256": "3e77d50744a24856a19e007cb35b5ec86b4a27c7dea281abce23cbc591dd5a6b",
+    "after_sha256": "e52871b6d8d3765fff6b37bbbc8f6100d737edb04cbd9e8faa32dd4a065d9b15",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only source change: complete unchanged Witte Uranus row at262 and six-clause ABC419/208 row checked. Inherited stress-development English remains tension wording, not newly inferred doctrine.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-venus.md",
+    "before_sha256": "7d2d52195e42e4de5b1989dddefa8c603d637cf695087c5486ae90723a7675f1",
+    "after_sha256": "23fcdb534cdd385a5ae87911a4c6523b8c345cb1a790718029dd61e39e3c35be",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Venus complete pleasant-change row at262; ABC418/208 six clauses checked. Thoroughness restored beside depressed peace, restricted harmony and cycle/circulation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-vernal-point.md",
+    "before_sha256": "e1b0b540ac6333fd4f1e252cb1259f56c9b127f43b8d4c1d472f1ef46ade6bcf",
+    "after_sha256": "f959d4823db9522380615e5f993928bfa35789a20f30f8f3d3f8dc14048428ab",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Vernal Point full two-sentence row at262; ABC418/208 five clauses checked. Omitted blocked developments and thorough public-life changes restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-vulcanus.md",
+    "before_sha256": "8132ec1c6d9ec32540ef6573c755df5cb1281d2a2909867c692afaa0e19e6288",
+    "after_sha256": "f515759fb8b76ab61a490c273188043291c3288f5f2bcf13ec69ebdcf76e177c",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Vulcanus complete obstacle row at262; ABC419/208 seven clauses checked. Added cycle/circulation openness; inherited Gewalt force/violence renderings remain source possibilities, not compulsory violence.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-zeus.md",
+    "before_sha256": "5a66e88c7ce074a726ad54105b652ef1c40b31835182ba8e20a0380f98c75a8e",
+    "after_sha256": "6e0ae0b785514c2732d1748e61854e5ddbe7a54088b086999e5dfff9f908d4e8",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Zeus full three-sentence production/compulsion row at262; ABC419/208 seven clauses checked. Achievement unfolding and procreation restored; cycle/circulation remains open.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf262.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf208.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-admetos.md",
+    "before_sha256": "d77b92c905b28ab67087cacc4c5dd4080a67aec567270093502ac6fb95c30c25",
+    "after_sha256": "aa0dabedc44024f99eef13c84a5755ad366a8d667765394a790ab50cfc8f6ea5",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Admetos full three-sentence stagnation/satisfaction row at261; ABC417/207 six clauses checked. Thorough knowledge development and omitted extensive changes through restrictions restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-cupido.md",
+    "before_sha256": "caed97b7398ab531a754743c23fb76f320f919ea562e600951b2f843bbe00693",
+    "after_sha256": "939f2bfd3d886ddc6991b193becffbaadb1aa70c2866eed4d8e1c5ec6b458577",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged full Witte Cupido documentary/family row at261 and complete six-clause ABC417/207 glyph-bounded row checked. Inherited freedom-development wording retained without further interpretive expansion.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-hades.md",
+    "before_sha256": "b5a11175f3ab7a025d3c9aed9553f2edd44725d9e6b22a1b985f012e8e44fff3",
+    "after_sha256": "164cece7ae87c143d606da39b0d406c23002240cd66902d3fde537fc30cf213b",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged full Witte Hades refusal/avoidance row at261 and six-clause ABC417/207 row checked, including successful past development and hidden knowledge.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-jupiter.md",
+    "before_sha256": "41ba34be5aa9623c543506e05f35d31ee0f046b384fe758a98f37c65365a25bf",
+    "after_sha256": "bc65c8c2de61a0b7d249936313e29c6b3e84b5950938d9464492496fd06d3145",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Jupiter two-sentence pleasant consequence/one-time gain row at261; ABC416/207 six clauses checked. Geld-Vermehrung is increasing money and Wandlungen transformation, not ownership/growth substitution.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-kronos.md",
+    "before_sha256": "7d2d2beb750e2cd0b815e4038d127565870747d1c88a226b51025ad6f3d1e999",
+    "after_sha256": "f48be9b733630a6050f49fccf3a2c1e6a871a02833c8f5b78bedfd16a090357f",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Kronos complete state/politics/government row at261; ABC417/207 seven clauses checked. Ansehen standing and Selbständigkeit independence restored without requiring self-government.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-mars.md",
+    "before_sha256": "8f7ffa76c01e3f49912d4e0deff854a04e4360594b59bf2e9c9bf2eec92223ad",
+    "after_sha256": "09604b006567ff1308f14cb4b5e9b26a6ece78273ef8ae9fb352c230c799bc61",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Mars full two-sentence trade/science activity row at261; ABC416/207 six clauses checked. Transformation glyph and final scientific developmental efforts repaired.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-mc.md",
+    "before_sha256": "b76a83ff87c9dee9f48754bfffced530631515a994350b85f4a1084309c8ca53",
+    "after_sha256": "5291ce213b393d669a66bc8c3956fb5fc0418f931c12dab9bd9458db30514ff9",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte MC full six-sentence personal-development row at261; ABC416/207 seven clauses checked, initial successful inner development and successful change restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-mercury.md",
+    "before_sha256": "1c7b466b7b84470bf9722c5f57e9f05473422a803c7983c3018bb597e9c9864e",
+    "after_sha256": "e194a302d7d6134c21b36a40872032f79d0fbd0f7ca179620000ac52c88f99d6",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged Witte Mercury complete two-sentence row at261 and ABC416/207 six clauses checked. Inherited language-about wording refers to Gespräche conversations, not a foreign-language claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-moon.md",
+    "before_sha256": "5e60661f3f76a392390df4095979f50257c1178ab21b2644c596aac37c57e7a8",
+    "after_sha256": "88447638613bb0d193e43c25ad952bcd97c0efa6274ddb25fb222875c96905b3",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged Witte Moon full precedent/first-event row at261 and ABC416/207 seven clauses checked, including women's transformative experience and knowledge about women.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-neptune.md",
+    "before_sha256": "8b7c5586840c754f2ae1c985653be084929e84905a1a1057d6c621210171a5b8",
+    "after_sha256": "b2cd3de3158fc9819405cfc7f253a80660f20b9a044732afecec90c027f268b6",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Neptune full below-surface/slow-dissolution row at261; ABC417/207 six clauses checked. Subtle matter/connections restored and neighboring Pluto see-above removed at actual glyph boundary.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-node.md",
+    "before_sha256": "7e3f07686c580c9e463624d6887e412eece3d1e7e38d1a4d9ee221b7bde2bab0",
+    "after_sha256": "6e3eae0caa395f9874307f9ee8ca8d4932361b3de446128f005d44f23c6d8f47",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: complete unchanged Witte Node precedent row at261 and ABC416/207 seven connection/trade/business clauses checked; no new meaning from locators.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-poseidon.md",
+    "before_sha256": "3d2ff6b56dccfc4070e06e2aed0f55de233020607b5124e1c5e565b88ed6913a",
+    "after_sha256": "acd455d0a740d44430c5a62bb2110bda95aad8b5730d529522eccd22a297403d",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged Witte Poseidon complete shared-worldview sentence at261 and ABC417/207 seven clauses inspected. Inherited spiritual/intellectual compounds remain literal source language, not broad evidentiary validation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-saturn.md",
+    "before_sha256": "ff30b8ed70016c1a54b417360fe954a7c561fb5534e73a9259793ded0a4009fb",
+    "after_sha256": "adb7e4096642dd1b2fe0998cf2dfbadf23c0a6d86e0433f2ee5c05b34c028187",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Saturn complete one-time/no-consequence row at261; ABC417/207 seven clauses checked. Gestörte trade development restored as disrupted; patience, mature experience and knowledge of pain retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-sun.md",
+    "before_sha256": "f7ab224678db3856bb4da08aad55274d43c936f6f92c462f047a3f6aa99f3893",
+    "after_sha256": "6b35cd6250cc665fa7e6d64b378aad45962e68719993cc554e7c2dd991090bb3",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Sun complete three-sentence bodily/daily-change row at261; ABC416/207 seven clauses checked. Trading center, personal transformation successes and human knowledge restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-uranus.md",
+    "before_sha256": "610c78ad611564215cfe0464453559c2149026aa9826c18f876b3bbd040ad9b9",
+    "after_sha256": "2ae4bb8d8de6add83425456df853dd82d56732a78c60700793f05356e8531af8",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Uranus complete sudden/future-consequence row at261; ABC417/207 seven clauses checked. Technical transformation success and scientific reform restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-venus.md",
+    "before_sha256": "1f0a40e42578b39cacf51598ea2f2df252e5141beb468939ba35ea069ff822e4",
+    "after_sha256": "c7f27dcee319a6083a50a1188d98f4d1e16a2ddc3d0011c252149f94f3a918ce",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: complete unchanged Witte Venus beginning/expectation row at261 and six-clause ABC416/207 row checked. Inherited harmonic-development capitalization/rendering not expanded beyond actual harmonious-development row.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-vernal-point.md",
+    "before_sha256": "c9f0ea592a9738551e1865342ae19b6f976db7cbc8559e592b448467b14f7992",
+    "after_sha256": "52fd388bb2ff080ad215fd19af806e5c9ae982cf7a2e8a0be34d48cffcf83b33",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Vernal Point complete four-sentence small-beginning/precedent row at261; ABC416/207 five clauses checked. Expansion and successful/extensive public changes restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-vulcanus.md",
+    "before_sha256": "2374fcc2270d15301b74af270b6dbc159b37ce2d09e95167ac0203088a63754a",
+    "after_sha256": "6e779951d463349314c6926692d310e2078e6de87002a5749093475e87eeb310",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Vulcanus complete extraordinary-consequence row at261; ABC417/207 eight clauses checked. Energy transformation glyph repaired; power, trade, force and Gewalt experience retained as source wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-zeus.md",
+    "before_sha256": "da193fb19b7e7335e76cab6a545fcce3baef45a4edca5d56d271a08f784b9563",
+    "after_sha256": "00fe9f56fdc6c8cfc01c7bdc154f64cf59392097070492f15f0e2bf5f3e69798",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Zeus complete two-sentence relief/easier-work row at261; ABC417/207 seven clauses checked. Directing trade developments, leadership success and goal-directed knowledge restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-admetos.md",
+    "before_sha256": "efeab94c16e30db9b207e89ca6ae38778b3e8de31943ce08629f0b7421e968d4",
+    "after_sha256": "7e79d6027161911326d863cdec78701362850a7f5c738814a82810680912fe88",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Admetos row at90 and ABC121/59 seven clauses checked. Unterdrückung suppression and gründliche thorough transformations restored, preserving depression/consolidation/resistance.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-apollon.md",
+    "before_sha256": "bac230a31f24a6caa7462e5cbf4f3a63eb8f1fa78bc74e09d45c4e87cbb5cbcd",
+    "after_sha256": "e758739f50aaa6de45bc0ad0b92648a4d05c35c4b6f5e01abb2966c9c4a0547e",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Apollon full four-sentence changes/travel row at90; ABC121/59 seven clauses checked. Place change, surroundings and actual wechselnde partner experiences preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-cupido.md",
+    "before_sha256": "0b63eeec88558651a3d60d442c7bb7a55a9b13ca6f341a2b5199516e55107724",
+    "after_sha256": "ab8f26b090eb2e217adff73f04d75d7a66e0f5c080a3c6ff6191421ed7f11b1b",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Cupido complete home/social relation row at90; ABC121/59 seven clauses checked. Art development, community causation and growing surrounding community restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-chiron.md",
+    "before_sha256": "d96e879ffa14858bda10db029408020786955487f16c58c72e810c7efab876a8",
+    "after_sha256": "bf66369183ec53835c464e0ff052d88a1535e8974ee31cf4b0684ba00c157321",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: unchanged full Sandbach Chiron paragraph exactly matches actual PDF117. PDF116 establishes Pluto/Ascendant heading and117 contains Chiron before the next Pluto/Midheaven heading; no sibling orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-hades.md",
+    "before_sha256": "2dd72ea3262bc8c4e09158797da809c911b44b6f6721532bf13123f862284d71",
+    "after_sha256": "93cba3e27a14aec1ea7b2e346aa123679c2962bbba6def3a1834591de863faf6",
+    "ledger": "activations-059.jsonl",
+    "reason": "Locator-only repair: complete unchanged Witte Hades three-sentence local-deficiency row at90 and ABC121/59 eight clauses inspected. Environment means surroundings here; no expansion of inherited crime/danger claims.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-kronos.md",
+    "before_sha256": "6d9faff7c2009ce9ae1a2ffb192bb37aa82207dea749d74c6db175aa348b51a2",
+    "after_sha256": "4f96bd46d02664a620989c23bb5c7758a9b71b2201147077dfee1ac51ea8077f",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Kronos full education/students/demands row at90; ABC121/59 seven clauses checked. Self-confident partner development and separate growing standing/important partner change restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-jupiter.md",
+    "before_sha256": "bf587fe89367cddbd99f5dc4c4a85dc939660fd4439ee47a8491fa81c4019f2a",
+    "after_sha256": "b2063a5c0bb19e96bf2accaa44f4356ef00945ab314ab282e3b4a1073fb58856",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Jupiter row90 and ABC120/59 eight clauses inspected; mixed German and environmental-law clauses restored. Unchanged Ebertin1064 exactly at297 printed295; unchanged Sandbach Jupiter117 under Pluto/Asc confirmed by116 heading. Munkasey block/reference unchanged; allowance covers verified changes/new refs.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-mars.md",
+    "before_sha256": "52c152d4521c02100c9fe09158ae819f3cf3b30827b06155295c5dab165742ac",
+    "after_sha256": "d54dc3cdefef39b8a5b3f615df0bc5aea1bbff5790a6ff40e2b591d03f8712ba",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Mars full two-sentence row90 and ABC120/59 eight clauses inspected, effort toward place change restored. Unchanged Ebertin1063 exactly at297 printed295; unchanged Sandbach Mars116 exact under Pluto/Asc. Munkasey block/reference unchanged; no new provenance claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-mc.md",
+    "before_sha256": "080463c9b4374979927c689e58ec4f5fa1563388221e38886d5bf9f218224e69",
+    "after_sha256": "cc9a21e1808d8c74d062bcd52868160e197ffd98f64c17ea48143015668812b5",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte MC full row90 and ABC120/59 nine clauses inspected, restoring others changing me, partner unfolding and inner rather than physical development. Ebertin1069 exactly298 printed296 and Sandbach MC117 full rows match; Munkasey unchanged, allowance limited to changes/new refs.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf298.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-mercury.md",
+    "before_sha256": "3fab339b580572d5f59d5a1733e269f4016199faeb526df4fc31632cb1e92836",
+    "after_sha256": "d2e610937ceb2151872f2ee93486340691a919bcde88674662767744d5ddbc91",
+    "ledger": "activations-059.jsonl",
+    "reason": "Witte Mercury full row90 and ABC120/59 eight clauses inspected; Gespräche restored as conversations. Ebertin1061 exactly297 printed295 and Sandbach Mercury116 full rows match; Munkasey unchanged, no new provenance claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf298.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-moon.md",
+    "before_sha256": "65c1e3bdf3514f9fb5459fced9303bc3c90c5d701d1e6e53f977cc68bbab4b11",
+    "after_sha256": "59be3926a215d133162058d6a21a8d55023fe8aaea3f52d1f9d51bb4ce0c7472",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: all source prose unchanged. Witte90 Moon row, ABC120/59 Moon row, Ebertin1060 printed295/PDF297 verified. Sandbach116 valid conservative chapter-start route, actual Moon row also there. Inherited ABC duplicate partner-change English is not certified: German is partner feeling-change/transforming feelings; owner's explicit hold/exclusion retained. Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf298.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-neptune.md",
+    "before_sha256": "d386efd134b2c35cb293796efdf7058ef7ab363f5c6951026be9e9e9b339cbd6",
+    "after_sha256": "0ecd9716e68722951b91ad282031dc6c34d2c5bbb3cc482764c4f20ab5aff224",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full source prose unchanged. Witte Neptune90, ABC Neptune121/59 and Ebertin1067 printed295/PDF297 correct; Sandbach116 is valid chapter start (actual Neptune117). Inherited ABC omits disappointment/sensitivity/metaphysics and retains neighboring see-above; owner's hold preserved, no translation approval. Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf298.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-node.md",
+    "before_sha256": "af87788a77cd9f80bd2fabd1d752b7402dacc5d0eba2d52c9737452cb9d3c17a",
+    "after_sha256": "086fda3cc23be9a8b2a3030c932e0d6cc600ed153fe35c49aba0225b99d069ef",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full source prose unchanged. Witte Node90, ABC Node120/59 and Ebertin1068 printed296/PDF298 correct; Sandbach116 valid chapter start, actual Node117. Inherited awkward ABC place-for-connections wording is not newly certified as a translation; Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf298.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+    "before_sha256": "bf4d13d65fb073dde7ebca8e572bcf8c43bec99672e7d9f172c35924fdcf773d",
+    "after_sha256": "c02b61ce463d03d06eb977da588ca0e67c893968527e130e2fe9eabfd5fc5d67",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: Witte full Poseidon90 and ABC complete Poseidon121/59 glyph-bounded row correctly located. Full source prose unchanged; inherited future partner change is not certified (vernünftiger means reasonable), and owner's explicit translation hold remains; waves is literal undefined Witte wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-saturn.md",
+    "before_sha256": "baa1342dc00e0a98d484af57a877b36c7ce181a2d438b20d90c6879283c66ca2",
+    "after_sha256": "bc3ee437b6c817848354d8ce535ebf5da8866a56c2297feb79da9acd03979d43",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full source prose unchanged. Witte Saturn90, ABC Saturn121/59 and Ebertin1065 printed295/PDF297 correct; Sandbach116 valid chapter start, actual Saturn117. Inherited lossy wording and Sandbach ele ments split not normalized or certified as new translation; Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-sun.md",
+    "before_sha256": "110d628b80b69da914249ea414151543ec7792051d46b706475e2ab1c483d66b",
+    "after_sha256": "16097cb0e53b8bab2b51e8660aa9923270fc8f284571fff9d8a10f4d87a54ff6",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: unchanged Witte Sun90, ABC Sun120/59 and Ebertin1059 printed295/PDF297 exact. Sandbach116 conservatively chapter-start-qualified and contains exact Sun row; Munkasey unchanged, no new provenance claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-uranus.md",
+    "before_sha256": "0587cb1887f40889537399b76e708c88bdc0de38d48e71d7ece5db521fa0216a",
+    "after_sha256": "aeb5cfa39d777cd4db7c437f099210148df5936b390778d691ddfdf46d6e86f2",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: unchanged Witte Uranus90, ABC Uranus121/59 and Ebertin1066 printed295/PDF297 exact. Sandbach116 valid chapter start, actual Uranus117; inherited some thing split retained, Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-venus.md",
+    "before_sha256": "a902cb1bfaf428611426ed5fff0a637688b20d1a43e1786c7bd0ae61192793f6",
+    "after_sha256": "04e4072d70d621da208d776230c0e8899ac71a706805a9b2263452b89b90a909",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: all source prose unchanged. Witte Venus90, ABC Venus120/59 and Ebertin1062 printed295/PDF297 exact; Sandbach116 conservatively chapter-start-qualified and contains Venus row. Inherited ABC grammar retained, no fresh translation certification; Munkasey unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf297.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.txt"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+    "before_sha256": "4022515d07cfcedb24381c9909ea31989a95b0fe85810d9b2f11e1c835277ea1",
+    "after_sha256": "88ced2a276eb1f4fd5151ad5fee24e906ddf036af1254ce69340d500bb0e813c",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: complete unchanged Witte Vernal Point90 and ABC120/59 exact rows located. Inherited eins/an translation damage not certified; owner's explicit hold retained, no native wording change.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-vulcanus.md",
+    "before_sha256": "8dba140179d7b4646be28a893022a26cf3e2165b013b67629c4213dcaab362d6",
+    "after_sha256": "692771cc653a7dc4ef975f12459de2c27d3738776feda91b79162ef6f34028dd",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: complete unchanged Witte Vulcanus90 and ABC121/59 eight-clause row located. Inherited Gewalt force/violence vocabulary remains a range; no mandatory violence or new translation claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-zeus.md",
+    "before_sha256": "c0811647d7f6d81bc7bae57194b62577bf8cb71c02d3a86de3c2abe59a8cc525",
+    "after_sha256": "de85792dc571dbf075b2b6992da51c383c5935a83956b409e5aacec74ef95b79",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: complete unchanged Witte Zeus90 and ABC121/59 seven-clause row located. Inherited services rendering of Leistungen is not newly certified as translation; no source prose change.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf90.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf59.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+    "before_sha256": "4897c63248ed05332c2fe1e6a3869e41f3277ceb664371aaa92b291e2b3b99d6",
+    "after_sha256": "28d41620bea5f1b860d80017b159f7632793ea464662a31d59fc66f1c280a027",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full Witte Admetos260 and ABC415/206 exact row located; inherited grim/self-governing/self-glorification/grilnd wording is not certified as translation. Owner explicitly excludes these damaged gründlich/independence clauses; no source prose change.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+    "before_sha256": "626f0b743c9ecc3a2c4e0747f46c5dec5fda50c2742311335b05789dd25c59c9",
+    "after_sha256": "9075d40aa61fca325a06a9351c5a66b6aa4a6a967737452907440f30a520435f",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full Witte Apollon260 and ABC415/206 exact row located; inherited authoritarian/self-existence/self-governing mistranslations are not certified. Actual authority/independence/self-confidence meanings and owner's explicit source hold remain.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-asc.md",
+    "before_sha256": "655c5aebdd3f9ed1ec45d91aab4049e81b5ef4af66426d7701b824e9e0e4a476",
+    "after_sha256": "e035f086032759ba1b21af1bad9e4e9f2382f9d90b450251924952a2e56b0eca",
+    "ledger": "activations-060.jsonl",
+    "reason": "Locator-only: full Witte Asc260 and ABC414/206 exact row located. Inherited authorship is not certified: actual Autorität means authority; owner explicitly holds/excludes it. No source prose change.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-hades.md",
+    "before_sha256": "4acb7ba4e6e05db7d7eedac4554f25e62799d8b74c48580993750bf27681e6eb",
+    "after_sha256": "08de76a63119d2f85bea914f224938f64d8dea26830493d5b953612e61d2ab10",
+    "ledger": "activations-061.jsonl",
+    "reason": "Witte Hades full treachery row260 and complete ABC415/206 seven-clause new translation inspected: impeded independence, dangerous/criminal state developments, past developments, hidden direction, criminal superiority, lack of authority.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-jupiter.md",
+    "before_sha256": "efe6a49b65ef036867f21e1c96067026eaacaca97e99c1a58518c41f701fa2d7",
+    "after_sha256": "b1eb6959b260366a315fca3a289060e3a606a45dda6ab4ebd05850e1b3d0ab51",
+    "ledger": "activations-061.jsonl",
+    "reason": "Locator-only: complete unchanged Witte Jupiter260 and ABC Jupiter414/206 seven-clause row checked, including legal independence/state finances/law; no new native prose.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-mars.md",
+    "before_sha256": "67ea8876bcfe4ced22854bb4743a33cfcf5d8bb856d3c8546edb19e8d5aef34c",
+    "after_sha256": "abaf7bef49356cac95d217810904f78000df5b3b8450ad404ddd35766e49b500",
+    "ledger": "activations-061.jsonl",
+    "reason": "Witte Mars full three-sentence planning/checked/government row260 and ABC414/206 seven clauses inspected. Self-confident action and independent work restored from distinct German terms.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-mc.md",
+    "before_sha256": "58d050e8015cc5b98f16877b6a71377aeb87a04bef3f509ff41b2b386a8af7dd",
+    "after_sha256": "8b0309050ebdde61c6893a85f9fe3a7f8c86fa17bd694f59199f5614e34541db",
+    "ledger": "activations-061.jsonl",
+    "reason": "Witte MC full ability/tests/transformation row260 and ABC414/206 seven clauses inspected. Independence, growing authority and independent inner development restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-mercury.md",
+    "before_sha256": "7231b107ab6116d1477c2b7f5aa2571ecaa59062992af71a306a7244bb81a9a4",
+    "after_sha256": "311c360ffb7a579bf6c58fed9177451e1cb1d394edbf23d10d83b1bec53eb962",
+    "ledger": "activations-061.jsonl",
+    "reason": "Witte Mercury full thoughts/news/talks row260 and ABC414/206 seven clauses inspected. Gespräche conversations and selbstbewußte self-confident development restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-moon.md",
+    "before_sha256": "77b7cad10a7dee6823ac84f4cb0338c798135f0d232f1f9480c07f1ac639b4a7",
+    "after_sha256": "2aafce018c7c2ce134d6c8671a979fba7e148bc7223df9eb71b745b62351faec",
+    "ledger": "activations-061.jsonl",
+    "reason": "Witte Moon full three-sentence women/nation/public row260 and ABC414/206 seven clauses inspected. Emotional development and direction, singular woman's authority and collective self-confidence restored.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-apollon-equals-asc.md",
+    "before_sha256": "41d4a1236275d817f160e10c6c4ae2f63f1105cd11a9817cd06167496bc8dcd3",
+    "after_sha256": "5d92507d785c28c0e47a4890b02f746f1da391b23073ad2bd785eb2b87eec07a",
+    "ledger": "activations-059.jsonl",
+    "reason": "Independently reread the entire saved repaired page, complete before/current Source Entries and amended unique059 owner record. Actual ABC PDF207 printed416 Asc glyph-bounded eight clauses read: wachsende Handels-Partner means growing trading partners, now restored in source and dependent social/synthesis wording. All eight translated clauses and exact ABC locator verified; unchanged Witte complete two-sentence row matches actual PDF261. Rebind after owner repair, not owner self-approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-cupido.md",
+    "before_sha256": "89be1df673a2e05a901d4c099c88ba5d46b4a14f8c7cae99f3cd670fd764e932",
+    "after_sha256": "7bd6f8bdb508c154fe80d2495d43da6f0fe585404c87550365d44c59658c77b2",
+    "ledger": "activations-061.jsonl",
+    "reason": "Independently reread the entire saved repaired page, complete before/current Source Entries and amended unique061 owner record. Actual ABC PDF206 printed415 Cupido glyph-bounded six clauses read: staatlichen Gemeinschaften means state or governmental communities, now correctly broadened in source and dependent social category. All six clauses and exact ABC locator verified; unchanged complete Witte three-sentence row matches actual PDF260. Rebind after owner repair, not owner self-approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf261.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-neptune.md",
+    "before_sha256": "6a309891819b24551335bbd268b9d9f7f232db6bceb49fb7e34f25119718bbb7",
+    "after_sha256": "d51a4bbb0bf83cc002b2c1fedbf929105c0a98092b3e1031574882284bea5bca",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF260 exact Neptune row and ABC PDF206 printed415 Neptune glyph-bounded seven clauses personally read. New translation correctly restores Feingefuehl as sensitivity, selbstaendige as independent and unsichere as uncertain; air/water/metaphysics scope and all clauses retained, neighboring Pluto see-above excluded. Complete unchanged Witte three-sentence government-crisis passage verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-node.md",
+    "before_sha256": "c555febf3a431fece7b1dad1a41315f0701dabf540b79e9b70decc55661c6cf2",
+    "after_sha256": "8e890a189217ada22a7a5361f6bc38942aa22b3bed6b6aa488c89442fa587b9d",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF260 Node row and ABC PDF206 printed414 Node glyph-bounded six clauses personally read. New translation correctly restores authority and retains change of direction in a connection, growing connections with the state and important contacts; all six clauses verified. Complete unchanged Witte connection-change sentence verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-poseidon.md",
+    "before_sha256": "5e422576fb4bea0d4f06d1e0a581913052ae580c9a192fb63d63ae43f0157046",
+    "after_sha256": "995437329fe3f6c86d8ffc122fe8318ad5dd1e2861aa2f465fb7066e5e56b658",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF260 Poseidon row and ABC PDF206 printed415 Poseidon glyph-bounded seven clauses personally read. New translation restores independence and changes, retains open mental/spiritual range and cultural-state/truth/insight clauses. Complete unchanged Witte three-sentence mental change, spirit and world-concept passage verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-saturn.md",
+    "before_sha256": "3c29080a507a0a6852a6f4ff0dd87e82e612367d3ba04cecec8df4eb536c9b6d",
+    "after_sha256": "7573657b19019211fd0983c017ab3c13aec2a4e7e541bf796697194aaa24670f",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF260 Saturn row and ABC PDF206 printed415 Saturn glyph-bounded six clauses personally read. New translation restores gestoerte as disturbed, independence, old-age/state change and growing disturbances; all six clauses verified. Complete unchanged Witte four-sentence exam/separation/government/form passage verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-sun.md",
+    "before_sha256": "1e52a69ff56eafe131016daddeedac73b88482ead80e142beeeb27744782b2d9",
+    "after_sha256": "137c8dfc4448b31c9b32bd0a0b21127f24f28e1fb93df27c32f29bc1db103c63",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF260 Sun row and ABC PDF206 printed414 Sun glyph-bounded seven clauses personally read. New translation restores independence and authority and retains hierarchical development, great personal change and state development centre; all seven clauses verified. Complete unchanged Witte drastic-day/body-function/diet passage verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-uranus.md",
+    "before_sha256": "3c3e1c09a8112de2be9a5bdd6329b3506508d77ec301569437fda50c3ecb1335",
+    "after_sha256": "7e1389c1e5b6707fbbcbb9aca8feab39e0bde9ac038266da95220d2c90e9cbc9",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF260 Uranus glyph row personally inspected: stray leading caret is an extracted glyph artifact, not prose; complete sentence retained. ABC PDF206 printed415 exact seven clauses restore authority rather than authorship; technical development, dominant rhythm, hierarchy, self-confidence, state changes and reforms all verified. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-venus.md",
+    "before_sha256": "0c77d5d8a8f8605f9bdddf661369e315365a51b61e6c4532a79b4da68662a699",
+    "after_sha256": "c5178404765c979d96df89c8995f250bc27994bc66bb423d745ff8136d7ba45d",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF260 Venus complete authority-favor sentence and ABC PDF206 printed414 Venus seven-clause glyph row personally inspected. Revised translation correctly restores independence in love, self-confident development through beauty and authority in art; other clauses complete. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-vernal-point.md",
+    "before_sha256": "0f9a2fe387602b8f20761c38482c0fc6d9a0fe32c924e8536083eea1003baa19",
+    "after_sha256": "362b5dbe548da85b4cbeef5dcd694c4934c2419faefe05010ff21034f6a40487",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF260 Vernal Point complete general-change sentence and ABC PDF206 printed414 Vernal Point five-clause glyph row personally inspected. Revised translation correctly restores self-confident public development and public authority, without public sphere Life/Authoritat extraction fragments. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-vulcanus.md",
+    "before_sha256": "012617013c6cd1893a234d4446573248284a16764d666520e5954b3b96d9b18e",
+    "after_sha256": "a6d69ae87c11cb93770cb2db1bbed1b96fd77befef7b1150a4ad6fc53d855765",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF260 Vulcanus complete two-sentence state-power passage and ABC PDF206 printed415 Vulcanus eight-clause glyph row personally inspected. Power changes replace deviations, self-confidence and authority restored; Gewalt retains force/violence range explicitly in authority clause. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-zeus.md",
+    "before_sha256": "866342d0c7b2896438ab9f6d409a9dff30f549b363b0c43afc06bc1d832b1167",
+    "after_sha256": "27c572be715bbdc9273a1baf15e589494dd5d18d96ec2ffd18a9b565d4ad7d0e",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF260 Zeus complete two-sentence production/effort passage and ABC PDF206 printed415 Zeus eight-clause glyph row personally inspected. Revised translation restores independent shaping of development and distinct changes in/of state leadership; fire, creative hierarchy and goals retained. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf260.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf206.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-admetos.md",
+    "before_sha256": "31bb35bd388573b6c5925fffe4b4d21e6de1d4dea08caa9629ad048e1ea58442",
+    "after_sha256": "8f2aba6bdc4e595cee3735df3f81c3e97405698321d8930d0585fed6834bee61",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual Witte PDF69 Admetos complete two-sentence row and ABC PDF40 printed83 seven-clause Admetos glyph row personally inspected. Revised translation correctly restores gruendliche as thorough and seelische Unterdrueckung as inner repression, retaining blocked/restricted development, firmness and profound changes. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-apollon.md",
+    "before_sha256": "54f4d4b0c9c459f69d9cdb2ac258d7654add743b87ab686048eff285aedca517",
+    "after_sha256": "45376cdbf5948cf865dec82263802ed300ea2c1bdb96e81cab397e0f3e6bc050",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Locator-only change: unchanged Witte complete Apollon row matches PDF69 and unchanged ABC eight-clause Apollon row is present on PDF40 printed83. Actual pages personally inspected; inherited awkward English soul growth experience/psychic freedom develop is not newly certified as an exact translation. Approval covers the two added exact locators and source-prose preservation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-asc.md",
+    "before_sha256": "1ee9f739a5b11a33520b787ee45992846421c95a1c9d448e52f9449423b116ca",
+    "after_sha256": "1aeffd44bc58da5c3dedad4b51d35e6856f7e40fe7f1d8d6b10a4f1b998cd953",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Actual ABC PDF40 printed82 Asc glyph-bounded eight clauses personally inspected: ich wechsele den Partner supports I change partners, Orts-Veraenderungen changes of place, seelisch inner development. Witte exact complete row verified PDF69. New Ebertin locator verified actual PDF301 printed299 code1081 Asc complete two-sentence entry; Sandbach exact Ascendant entry matched actual PDF118 including all four sentences. Munkasey352 heading, reference and complete source prose unchanged from before; no new Munkasey claim or locator certified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-chiron.md",
+    "before_sha256": "b575e382d7812334d8641300eb4df4e38485faf7a7cf6da8bfdf5da8093f24fd",
+    "after_sha256": "33e0edc08409b21c9be554396241320c5a3cf6e040f6ba24ed7edc3d3fd9baaf",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current Source Entries and unique061 owner record read. Locator-only change to Sandbach: complete unchanged Chiron two-sentence entry matched actual PDF118 under Pluto/Midheaven, bounded by Saturn and Uranus entries. Exact new locator verified; no translation/glyph/boundary prose edit.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-cupido.md",
+    "before_sha256": "117b7a4b7ebab17ac98d00eb3ef4f67bd4bc1cf678fa875fa6873a01c68336f3",
+    "after_sha256": "e40ae8c5af6c9cba609fc032968d03c5d4571bea5ce99f82f0e8e6f1fe68482a",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Cupido seven-clause glyph row personally inspected: ich veraendere die Gemeinschaft correctly restores I change the community in place of I old age. All shared soul/community/whole and inner transformation clauses verified; unchanged complete Witte five-sentence ancestors/children/traditions/heredity/community-talent row verified PDF69. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-hades.md",
+    "before_sha256": "db73aa136e6c89b56b79948cf724a7ca3eeafbe7e93c8891629c1f167b3ba4e6",
+    "after_sha256": "c3d52729dffb85327774604fd6d161536cfc972a211f26c80f7be46d574e30bc",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Hades seven-clause glyph row personally inspected: im Verborgenen correctly restored twice as in secret, without Y recovered/V fragments. All clauses verified; unchanged complete Witte four-sentence decline/disease-better-or-worse/far-past row verified PDF69. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-jupiter.md",
+    "before_sha256": "9a9aed699e36e07ca2c9fc6e084b72487787a165edcf7faa46813c8e59554c8f",
+    "after_sha256": "139ae6db42f925b8a2a336822cecfe3ce9cea098eedda7765733762765b89b3c",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed82 Jupiter eight-clause glyph row personally inspected: gluecklichen Veraenderungen correctly restored as fortunate changes; joy/right/finances/beneficial inner transformation clauses complete. Witte complete two-sentence row verified PDF69. Added Ebertin exact1076 Jupiter locator matches full entry PDF300 printed298; Sandbach exact full Jupiter entry matches PDF118. Complete Munkasey352 source block and reference unchanged; no new Munkasey certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-kronos.md",
+    "before_sha256": "cf6bf1d3d0c296155bf6af68dcc678c763e0270e7ef22faca51b00dc5b8c4844",
+    "after_sha256": "d84c1114c060cb35e901f281eebc38a5dbb01442877b4d3bb98ff5543811ecb1",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Kronos seven-clause glyph row personally inspected: Aufwaerts-Entwicklung restored as upward development, seelische Groesse as inner greatness; independence/hierarchy/state clauses complete. Unchanged Witte complete three-sentence upward-knowledge/mastery row verified PDF69. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-mars.md",
+    "before_sha256": "bf8ae013274d3e75c17cc143f9ad8e96158c9401cf36f58d2f0843607565af25",
+    "after_sha256": "330f063282af19f04107870ce12228b7a8682f74720b3eceb15f02d5eb4fd6ee",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed82 Mars eight-clause glyph row personally inspected: Bemuehung and Evolutions-Bemuehungen correctly restore efforts, all work/change/soul-impulse clauses retained. Witte complete three-sentence row verified PDF69. New Ebertin1075 exact full entry verified PDF300 printed298; Sandbach full Mars entry verified actual PDF118, including inherited ad vancing extraction split left unchanged. Munkasey352 complete block/reference unchanged; no new Munkasey certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-mercury.md",
+    "before_sha256": "0774862f74452dae95bb582bdd7b697d40c156b84a8c20f652935b87f1f2b122",
+    "after_sha256": "8bffb80fd571a8eb165f6ec74fcd7d7d7b2e61f3edc899af9ef9461d29c3f519",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Ebertin PDF300 printed298 personally inspected: superscript66 belongs to1073 Mercury, and source note66 explicitly Mercury=Pluto/MC; relocation from Neptune to Mercury restores actual attachment and complete note wording. New Ebertin exact locator verified. Unchanged Witte complete row matches69, unchanged ABC Mercury seven clauses present PDF40 printed82. Sandbach full four-sentence Mercury entry spans117–118, exact new range verified, inherited power fully split unchanged. Munkasey352 complete block/reference unchanged; no new Munkasey certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-neptune.md",
+    "before_sha256": "d3932d88151b15e59bdf521acc82a2ddc4a90143c3d769e666ab8f6208ed1888",
+    "after_sha256": "b21ef36edd0bc8874470906a565c9571a8725fcf351680c70a0dbb3f0bc5c7e9",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Neptune seven-clause glyph row personally inspected: neighboring Pluto see-above excluded; intuition, breathing, subtle change, sensitivity, uncertainty and refined development complete. Actual Ebertin PDF300 printed298 personally inspected: full1079 Neptune entry ends with grave disappointments; Mercury-specific footnote66 and footer slash removed from wrong attachment and note restored on Mercury page. Witte complete two-sentence row verified69; Sandbach full Neptune entry exact118, inherited ac tual split unchanged. Munkasey352 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-node.md",
+    "before_sha256": "9875961b0d09867b306108991904066b3917b61e0a93d2731dfcb62f72629c20",
+    "after_sha256": "b963b501b623f08ea9ce3b7baa9c9ed377658d72ac9a5a367963b02e261009f5",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed82 Node seven-clause glyph row personally inspected: Wandlungen correctly restores transformations, inner connections retain changing/growing distinctions. Witte complete two-sentence row verified69. Ebertin1080 exact full Node entry verified PDF301 printed299; Sandbach full Node entry matched118 including inherited To be drawn people wording. Munkasey352 complete source/reference unchanged; no new Munkasey certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-poseidon.md",
+    "before_sha256": "556c5063df846e79eb583a018c30aa94f49393c13b29327b548e36e83fa01075",
+    "after_sha256": "d1ede805b899ea3bd98cadcf4381687743f689146672b00b169068e86ac3c75c",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual Witte PDF69 final Poseidon glyph row personally inspected: complete two-sentence perceptive-change/materialism-spiritualism passage ends without cached dash separator; deletion verified. Exact new ABC locator PDF40 printed83 holds unchanged eight-clause Poseidon row; inherited awkward psychic/spiritual/cultural English is not newly certified as exact translation. Approval covers verified separator repair and new locators.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-saturn.md",
+    "before_sha256": "3f93d99d84a3c3b89693aa4f60793c788b89786c9a1680fac5879999957edf2d",
+    "after_sha256": "97c2d44d4950771ecb748a603f60e5df9fc9ff847fbef5eda4790a9aaab5711d",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Saturn eight-clause glyph row personally inspected: Gehemmte seelische Verbindung correctly restored as inhibited inner connection, with slow/problematic development, old-age changes, losses/maturity/pain complete. Witte complete two-sentence row verified69. Ebertin1077 full entry exact PDF300 printed298 and Sandbach full Saturn entry exact118 verified. Munkasey352 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-sun.md",
+    "before_sha256": "3f1b1e37ab699d460ae751a4ea94d3cd6eb7ad361071ccaef3ed85c17e20e88e",
+    "after_sha256": "8428fec05e9519e57ae8a69d19953cf02f9a47df8026651cc4a7c2630d2a5f1c",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed82 Sun eight-clause glyph row personally inspected: Koerper restored as body, personal change repaired, meines Mannes retains my husband and all bodily/inner transformation clauses complete. Witte complete bodily-development sentence verified69; Ebertin1071 full entry exact PDF300 printed298 and Sandbach full Sun entry exact117 verified. Munkasey352 complete block/reference unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-uranus.md",
+    "before_sha256": "455bb4151db49c676596769b8a5492a2d3d7e045919a8554716c5b3b8c79102a",
+    "after_sha256": "cb3a8333f504615051f9436878f49e53fd8ab4651d399998094c2dc0051b24bd",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Uranus eight-clause glyph row personally inspected: ich wechsele den Rhythmus correctly restores change the rhythm and all dynamic/new/sudden/technical/soul-impulse clauses complete. Witte complete four-sentence uneven/sudden change passage verified69. Ebertin1078 full entry exact PDF300 printed298 and Sandbach full four-sentence Uranus entry exact118 verified. Munkasey352 complete block/reference unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-venus.md",
+    "before_sha256": "54398be52732eb5b3da1a277a4b7497455e283fb5d6119827c18d849c007750f",
+    "after_sha256": "84f7be54c70f4d0b7b69c7134b8af8821c87f846d2dbbfbeec98b6ac9ea436e4",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed82 Venus eight-clause glyph row personally inspected: Beseelte Kunst-Entwicklung restores soulful artistic development; ich veraendere die Kunst restores I change art, other harmony/peace/love clauses complete. Witte complete two-sentence row verified69. Ebertin1074 full Venus entry exact PDF300 printed298 and Sandbach full Venus entry exact118 verified, inherited rela tionships/foun dations splits unchanged. Munkasey352 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-vulcanus.md",
+    "before_sha256": "2216f4c4b95c124e9ef7f7ab077d53cbe9bcfe054daa413665fb9847cda1e607",
+    "after_sha256": "e7cb8afe94f7a50ca575321905cbf4e7aa050efa1ed5d3658abcd4a72920f440",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Vulcanus nine-clause glyph row personally inspected: full strength/influence/evolution/power/energy sequence restored; Veraenderung durch seelische Gewalt explicitly rendered change through inner force or violence, not generic change of soul force. Witte complete two-sentence row verified69. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-zeus.md",
+    "before_sha256": "9bd511b03c80007c7077acfeacb9d1c210351d620b3285ec50818b45fddb953f",
+    "after_sha256": "6764ace00bb7cda106da2858825db4d6f79004e62ca76136d190927c306cbe7e",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF40 printed83 Zeus eight-clause glyph row personally inspected: Seelen-Fuehrung wechseln correctly restores changing guidance of the soul; fire, creativity, effort, goal and accomplishments complete. Witte complete four-sentence inner-vocation/performance/progress/leadership row verified69. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf118.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-admetos.md",
+    "before_sha256": "0d0f88de45472fd8bc0d716cf3043990a7813b9961b32acf70b08067e7248c9d",
+    "after_sha256": "8557e713a17d9fffdb3330002f37034239a7e2f4c46978c672e15f9928468c8c",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed223 Admetos six-clause glyph row personally inspected: gruendliche restored as thorough, Unterdrueckung as repression, Wechsel beenden ends changes rather than ending relationships. Endurance/restriction/end-development clauses complete. Unchanged Witte sound long-duration connection sentence verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-apollon.md",
+    "before_sha256": "e5147ed07ef23247eceba613ef17f51f720bd6f9cfb1350ddb729556ccb3c6d6",
+    "after_sha256": "55c16ebebaf5c589a733acf9c264c7fb38e6caa06d2d2048f183c05006f9a155",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed223 Apollon six-clause glyph row personally inspected: Y bonded fragments restored to development of connections and knowledge within connections, economic ties/changing success/increasing transformations complete. Unchanged Witte complete two-sentence many/science/commerce/trade/industry row verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-asc.md",
+    "before_sha256": "0881ee5fd214b7e6a6ca3bce9fba9717b6dd53e3f68527b63332e63fc544d180",
+    "after_sha256": "68529fda0fc3d24209dc203e6f78935142dc56de8e0a8070a49e4f9300647cb9",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed222 Asc seven-clause glyph row personally inspected: partner contacts, environmental contacts/relations, connection to others, growing place connections and changing contacts/partners complete. Witte full two-sentence place/environment change row verified148. Ebertin1056 full entry exact PDF295 printed293 and Sandbach full two-sentence Ascendant entry exact116 verified. Munkasey344 complete source/reference unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-chiron.md",
+    "before_sha256": "77ead662697642d6ed4ea09c4f693c1801dc482d15dddeb74b68e53189aaa655",
+    "after_sha256": "ea4621313eb6216d7365dc46004e4a041521e0773bd3c16933c614f1d2f31936",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Locator-only Sandbach addition: complete two-sentence Pluto/Node Chiron entry matched actual PDF115, including literal source get go wording preserved unchanged. Exact new locator verified; no claim to correct that inherited/source wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-cupido.md",
+    "before_sha256": "f8121d9f279887f78614c59b4a7bf2f892773ea6c55f25691d1c5da48e9e947c",
+    "after_sha256": "dd6057c84c2c830126707ea0b572d8dc7a85108c49e00705e5f95839769980f8",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed223 Cupido six-clause glyph row personally inspected: severe Community relations truncation replaced by complete community/shared relationship development/change/growing ties sequence. Witte full three-sentence family-number/social-change/old-connection renewal row verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-hades.md",
+    "before_sha256": "8246ce6eb4f54f6333aa74269cbf0bcd36b1fe0bf9cbdb53126aa4ad879d2b85",
+    "after_sha256": "30dcf3e44ca0193d6e1352cf5a167ad9be2808940aa363334f661008d098e697",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Locator-only additions: actual Witte PDF148 exact Hades complete failure/untenable sentence and ABC PDF110 printed223 six-clause Hades row verified. Source prose unchanged; no blanket new translation certification of inherited English links/in need wording. Both added locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-jupiter.md",
+    "before_sha256": "504150d8fd4afc108cf5ef3172fe4c3fab2b773c30c296ac194d4e5a6be2bd07",
+    "after_sha256": "d862cc0d7e20f8e7a9095d931ec5bdd000389ec3cb3258638e4410cbc76670a4",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Locator-only additions: unchanged full Witte Jupiter sentence exact148, ABC six-clause Jupiter row exact PDF110 printed222, Ebertin1052 complete two-sentence entry exact PDF295 printed293, Sandbach complete two-sentence Jupiter entry exact115. Munkasey344 complete source/reference unchanged including inherited manger spelling; no new Munkasey certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-kronos.md",
+    "before_sha256": "c98118593c41d556ffb2fefd9e48ba2e43952c0de1d84ce6463e42cb028436e0",
+    "after_sha256": "1c5144748a1411af14e6022ef55124102ed3a8d8fce66f9ca9cc57da284a5772",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed223 Kronos six-clause glyph row personally inspected: Selbstaendigkeit correctly restored as independence, state/authority/important and great-change clauses complete. Witte full student/beginner sentence verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-mars.md",
+    "before_sha256": "fc0614afa8cf7da6dfc341fbad03868c1230d602e54fb4a4ad0503f9f5f3a93f",
+    "after_sha256": "b82ef2581b1e43283a2c06b2ce10ff930be64feeab43a4fbf796dbcbd6b0a03c",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed222 Mars six-clause glyph row personally inspected: Taetigkeit in Verbindungen restored as activity within connections, mediating activities/changed conduct/growing ties/changing contacts complete. Witte exact full working-agreement sentence verified148; Ebertin1051 full two-sentence violence/control entry exact PDF295 printed293; Sandbach full Mars two-sentence entry exact115. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-mc.md",
+    "before_sha256": "c86dea196527f877ff5398ba8e2bbf660a9a8431e330fb3c48831370caf5354c",
+    "after_sha256": "e139185f83df193233be276ac144fbc3fe6bf69b600b37d64a993d72439be612",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed222 MC seven-clause glyph row personally inspected: seelische Beziehung correctly inner relationship and wechselnde Begegnungen changing encounters, all inner-contact/connection/change clauses complete. Witte full two-sentence change/meeting/development row verified148; Ebertin1057 full entry exact PDF295 printed293; Sandbach full two-sentence MC entry exact116, inherited trans formational split unchanged. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-mercury.md",
+    "before_sha256": "19e1b055fa9631bbceeec0bcaf8930f5e36498b513187c9adccdbf9f91ba2af7",
+    "after_sha256": "eed9bcd07082eb7372c8e8737f271a8b225c6af5fcf29d8dbcafaf087fc871ec",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed222 Mercury seven-clause glyph row personally inspected: Kontakt-Gespraeche restores contact conversations, Vermitteln conveying and Verknuepfung link with traffic development correctly distinguished. Witte full speech/writing/correspondence sentence verified148; Ebertin1049 full two-sentence entry exact PDF295 printed293; Sandbach full Mercury entry exact115, inherited communi cates split unchanged. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-moon.md",
+    "before_sha256": "5a87283b1e8962ee4ce19d89ae7530a64ff36d33258ce5299bb5ca84253e73f1",
+    "after_sha256": "8c4ad662f38365d84aa2b594508d0c856bd5e2db5626ebd03296d20d0bcdbc2d",
+    "ledger": "activations-061.jsonl",
+    "reason": "Full before/current source sections and unique061 record read. Actual ABC PDF110 printed222 Moon seven-clause glyph row personally inspected: Gefuehl opening and both Gefuehle clauses restore feelings rather than skills, women/contact/relationship/popular connection clauses complete. Witte full two-sentence attitude/superficial-connections entry verified148; Ebertin1048 full entry exact PDF295 printed293; Sandbach full three-sentence Moon entry exact115 verified. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-poseidon.md",
+    "before_sha256": "22327d594c6eb5467295059571c25d371aaac3d279da50b561271e8b599b441e",
+    "after_sha256": "037572ae9f69d43d0a51e85da62ab74022e2e152b61cbf338e888791aaacc62a",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed223 Poseidon seven-clause glyph row personally inspected: vernuenftige Beziehungen supports sensible relationships rather than future; other cultural/spiritual/knowledge/truth/clear-development wording unchanged. Witte complete mental/spiritual-development sentence exact148 verified. Both new locators exact; approval certifies bounded corrected word and locators, not all inherited English as a new translation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-saturn.md",
+    "before_sha256": "0db610a2a2c69f598e5871c9c8f01b25df3fb885a84a72beb5f3d5933fb0d8cc",
+    "after_sha256": "2619a70d4db449063da4d82bff0ca9774f796f6e7184dd5eff689a985b1a72e0",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed223 Saturn six-clause glyph row personally inspected: Aufgaben-Verknuepfung task linkage and ernsten Verbindung serious connection correctly repair prior task interaction/emergency. Other clauses unchanged. Witte full three-sentence separation/old-age row verified148; Ebertin1053 exact printed293/PDF295 full entry verified. Qualified Sandbach chapter-start114 verified actual heading there; complete Saturn entry actually115, so conservative locator is valid and explicitly not exact. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-sun.md",
+    "before_sha256": "6b507c70011075265010eb8ad733f06eda19c415f40994aeb4bdd855d2582f4c",
+    "after_sha256": "ae9d6abbc2ef41fdd4bda0658cd48f1543175aa98c60727abbe6a3267382780f",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed222 Sun glyph-bounded six clauses personally inspected: Kontakte zum Mann entwickeln correctly restores developing contacts with a man in place of man made. Other clauses unchanged. Witte full three-sentence personal/food connections row verified148; Ebertin1047 exact printed293/PDF295 full entry verified. Qualified Sandbach chapter-start114 verified actual heading; full Sun entry actually115, so conservative locator remains valid and explicitly not exact. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-uranus.md",
+    "before_sha256": "3c68c7b4b515c4929581ac131a55399783db1c839954a863a33863399735c8cf",
+    "after_sha256": "104d015dd28bd3864e525aa932c868237221e7427426492e0996c09e86b5d649",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed223 Uranus six-clause glyph row personally inspected: Verbindungen in der Technik correctly broadens telecommunications-industry restriction to connections in technology. All other source prose unchanged. Witte full two-sentence row exact148; Ebertin1054 full entry exact printed293/PDF295; Sandbach qualified chapter-start114 verified and actual complete Uranus entry115 read. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-venus.md",
+    "before_sha256": "2e40cf0d3089339c0de1cb59509063e933fa7f31c037d8fd48fad53ce5039ba7",
+    "after_sha256": "a4b4f5fb4f0544df02cf1bf60a4de752c1cb0f60a0cb37d3d5e59b9c4fea9f8b",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed222 Venus six-clause glyph row personally inspected: Kontakt-Veraenderungen correctly repairs contactY changes as changes in contacts; article repair leaves meaning intact. Witte full two-sentence row exact148; Ebertin1050 full entry exact printed293/PDF295; Sandbach qualified chapter-start114 verified and actual complete Venus entry115 read. Munkasey344 unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-vernal-point.md",
+    "before_sha256": "f462f0a946aa71ebae7167290ae6e4329297592c55e65f03edc4074996cd980a",
+    "after_sha256": "2e5a7ebef8ef694a7492b1e5b2aa5595389a0c5ec2b455fe883a1ee759a15b4f",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Locator-only additions: unchanged Witte Vernal Point complete two-sentence public-connection-change row exact148 and unchanged ABC five-clause public-connection row exact PDF110 printed222 personally checked. Added locators exact; inherited translation not rewritten or blanket certified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-vulcanus.md",
+    "before_sha256": "fbf15a4aa984a5344bd9c64532630f55eabd1b6256eafc40eeb1fa5926e00b68",
+    "after_sha256": "2cfbff85c9a69ce3c26cebf0094bcf3e0dba9414e663b06b922fe7b240400d58",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed223 Vulcanus seven-clause glyph row personally inspected: maechtige Veraenderung is powerful change in the connection; starke Wechsel-Beziehung strong reciprocal relationship, correctly replacing damaged power/Y/change clauses. Other strength/energy/violence/influence wording unchanged. Witte full great-importance sentence verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-zeus.md",
+    "before_sha256": "2419356630b27aec700441c113785612197c9a05b40fa47f836474b551003350",
+    "after_sha256": "4ec1123a9738550bb99475aab97e736df53ec05f626a6ffd6c0d33af061043ab",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual ABC PDF110 printed223 Zeus six-clause glyph row personally inspected: Zeugungs-Verbindung correctly restores procreative connection rather than generation connection. Other efforts/contacts/creativity/accomplishment/goals unchanged. Witte complete two-sentence new-connections/accomplishments row verified148. Both new locators exact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-admetos.md",
+    "before_sha256": "41d97716dbd36560744822187cad5b2220be675bb36a9b6ecd8197e7a26a2982",
+    "after_sha256": "3d6a35d2791e4e187eb0bdfe56362b7b45da3c32789c66f7e8f4a587bf662cc4",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added source attribution and exact locator only: unchanged complete twelve-sentence Admetos paragraph personally matched actual Witte PDF256 under Pluto+Pluto and exact Admetos glyph, including roots/foundation/raw-to-finished/beginning-of-end boundaries. No doctrine moved from another orientation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-apollon.md",
+    "before_sha256": "0d1814d9ca1aec6774009ca8cba43febbc28328731c0c4d3d3ff9236bcf62be9",
+    "after_sha256": "0e6312d11f1e1001b809d73aec178f2807b7d6128477164c10b7a7ec5bc1a603",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added source attribution and exact locator only: unchanged complete eleven-sentence Apollon paragraph personally matched actual Witte PDF256 under Pluto+Pluto and exact Apollon glyph, from small staff through large-scale commerce. Inherited printed small staff wording preserved. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-asc.md",
+    "before_sha256": "aa55ac7fa89ed71b5731392fd2a17f1722e6d8615441fdb19c3821704736d572",
+    "after_sha256": "eeadcd520db890b5fd8c783d5e60105afdc0fe2b20ca9cb585f5bfcbfe9bfea9",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added source attribution and exact locator only: unchanged complete seven-sentence Asc paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Asc glyph, including moving/transience/immediate-environment clauses. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-cupido.md",
+    "before_sha256": "230300d31d859453eab1f50e89a0d0a572b13a9c419dc5a46f07b973960c9488",
+    "after_sha256": "de699ac5c80e19c45ad3879b998e55707929926406bdc1eadd521b4377998377",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added source attribution and exact locator only: unchanged complete seven-sentence Cupido paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Cupido glyph, including all family/tradition/society/art/club/ancestry clauses. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-hades.md",
+    "before_sha256": "a3d916c573fbd000474afc5876b994ad19a705a10b8359f991bd0bde0d3b7bd6",
+    "after_sha256": "fd48a190bd258cf27cab870d357a1d2f2f32b6b3d1ca9300d71230be42e42aa7",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added source attribution and exact locator only: unchanged complete ten-sentence Hades paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Hades glyph, from unreliable through decadence. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-jupiter.md",
+    "before_sha256": "91fc9fc480d0cb00ea17d267ded2ec7317b42a345ce4e7e13b0560b63c2d3e96",
+    "after_sha256": "80f3ff4a0f4be34ea379d0265aaafa5991c9bdd7be4a17493af7bf61110305c5",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual Witte PDF255 Pluto+Pluto Jupiter glyph and complete seven-sentence paragraph personally inspected: judicial-system word visibly transformation, so transformatiofi OCR repair verified. Added attribution and exact locator correct; all other fortunate/healthy/financial/fluctuation clauses preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-kronos.md",
+    "before_sha256": "3c8614feb2d9e8b6eaaee5d5517dcc471f038a967bc5ca73fee9ceee0b73dfcb",
+    "after_sha256": "13d6e81e600bdfb51713b78ad706190f8f7cd398da7b52d3013b9349f039e2ce",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete sixteen-sentence Kronos paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Kronos glyph, including government/proving/mastery/rising boundaries. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-mars.md",
+    "before_sha256": "988b7d72f191f3d6b6a2f11676ceb440df13b7a4dfcfa3dff12d0205e1b7c770",
+    "after_sha256": "252e692291f7dcdcce4365370d18cf959a1a95494128b7b5ae3abaf74da81f50",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete eleven-sentence Mars paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Mars glyph, from organizing/planning through multiple work and actively bringing change. Printed possessive punctuation difference inherited unchanged, no new lexical repair.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-mc.md",
+    "before_sha256": "a803c8af7b79221e7221b2ad82e0ff57a4b9f30f7e43f6c762d18d55802de5f2",
+    "after_sha256": "7b4217bd39edd7c3b425e82b5ba1687ad8f18f224515526325388e1429a74207",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete eight-sentence MC paragraph personally matched actual Witte PDF255 under Pluto+Pluto and MC glyph, including intellectual capacity, inner metamorphosis and minute of change. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-mercury.md",
+    "before_sha256": "d1924f337122f27e36a57e2d535aa20038f1852d19198b1e8b1e4631bf6b4a22",
+    "after_sha256": "596821feb58e5f657b8535a5616b85cb5a2970b241e21d08641b187f1314d650",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete seven-sentence Mercury paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Mercury glyph, including nerves, motion, thinking/understanding and outlook. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-moon.md",
+    "before_sha256": "80143a869c0e7ce932fc5028bad75014f0fc64ec17503bc1cfe4abe698035b4c",
+    "after_sha256": "61051cd28e1c290d66b9ca8cb8896fc8f1c9b90414fb15845eacc90dd29e52bc",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete nine-sentence Moon paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Moon glyph, including historical female/public instability wording, brain/glands and rapid-change range. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-neptune.md",
+    "before_sha256": "69bdefa09db20f75832eef68e0a3a5bfb2e1aa599e5ea3af079f302433ba5a96",
+    "after_sha256": "ce87ddf3bb785b4c3e8c241dd403198e28a5e6473c499dc29169334d3493d0e9",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete eight-sentence Neptune paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Neptune glyph, including hidden development, future recognition, crisis and uncertain turnaround. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-node.md",
+    "before_sha256": "e8d196180300ef60d16e3ec926adf1760150344131ffb9665585922b9ef3925d",
+    "after_sha256": "42ba594002b2fcfe73dc19af26a169e8cb86ea1b12ab635eb1d7073b62a40a80",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete six-sentence Node paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Node glyph, including new/acquaintance/event-changing/expectant relationships and renewal. Inherited dash punctuation simplification unchanged; no new prose repair.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-poseidon.md",
+    "before_sha256": "3cba94eafca928a0aacaf8212740928baf4bbcf7da7fe51ce4c0adff42272b0c",
+    "after_sha256": "6509789ee90249237b29b0e877dd74c6a6a0856cf59f038067c4138657cb743d",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Actual Witte PDF256 final Poseidon glyph and complete four-sentence paragraph personally inspected: source ends elevated mental skills, while -»Zn is extracted bottom folio/footer debris, not doctrine; removal verified. Added attribution and exact locator correct; all mental/spiritual/educational/worldview clauses preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-saturn.md",
+    "before_sha256": "470399985335c55bdb15266d610d58648f7b1232d45b7de64d26237999c73910",
+    "after_sha256": "8e75e332ca2606703f8a3a69fcbac6db70d041a3d7ba2907e7c76ecd014ef13d",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete seven-sentence Saturn paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Saturn glyph, including slow/obstructed development and separation/divorce/transformation. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-sun.md",
+    "before_sha256": "673fe2c96e67ecfc464a80d87a7b5dc6480c33980bebe160e573ee7fccc43d66",
+    "after_sha256": "8cc0cb367dfa6b6dfdb895f130cb3544867b57a2280db5358d5bb27297df4167",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete Sun paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Sun glyph, including all bodily development, circulation/nourishment/regeneration/organs/living-condition clauses and final solar-cycle parenthesis. Historical source clause preserved, no new timing layer added.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-uranus.md",
+    "before_sha256": "6c5c4e2dca4b6cd038b324a5f6381dab7386019d7dc4593c0c82b491908f0b05",
+    "after_sha256": "04cc163cf2dc8e563bcc85c7664f4d532b2e466588734b74d3f30fb1612fd3a7",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete eight-sentence Uranus paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Uranus glyph, including mutations, shock, technology and unexpected turnaround. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-venus.md",
+    "before_sha256": "e7de8665c5feb83bf5349cd68acc87d7a9d30d370a3c8e6a3ea2e256000af8a5",
+    "after_sha256": "9947b4480cd4a5b1ae910608339c8c60519e6d77d8afd0bf06278cb4999fb18b",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete eight-sentence Venus paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Venus glyph, including wishes/hope/love/consideration/well-being and glandular development. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-vernal-point.md",
+    "before_sha256": "61c5f52e1f034bf46c527aece09054895d0535a5b827c50cd85f200c2a9feb54",
+    "after_sha256": "89cd2a3a5d49ee09e3b7a0c08d88da9c60e2753445c793bb54fc47f6b2da69db",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete seven-sentence Vernal Point paragraph personally matched actual Witte PDF255 under Pluto+Pluto and Vernal Point glyph, including public/world transformation, immediate past, plutocracy and metamorphoses. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-vulcanus.md",
+    "before_sha256": "3885b3f2e25d1dd0f88a870191819261fa08b030fc3475051b11f389bc612b9c",
+    "after_sha256": "14061fbc9f65cf28900c0d76f25d9525dec5443989ac39dd83d08520d3489e8d",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete six-sentence Vulcanus paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Vulcanus glyph, including unhealthy rushed/greenhouse growth and excessive speed. Literal printed occurs retained unchanged. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-pluto-equals-zeus.md",
+    "before_sha256": "7d28e035dd6527ad5199f9889ccb0ecb311712feb330b0ab94e25f04e109310f",
+    "after_sha256": "088d4c30f5c2c0bd5b0743e8fa0add0b0afc1b86ba2b527b9e6bb62757f1f2f7",
+    "ledger": "activations-062.jsonl",
+    "reason": "Full before/current source sections and unique062 record read. Added attribution and exact locator only: unchanged complete ten-sentence Zeus paragraph personally matched actual Witte PDF256 under Pluto+Pluto and Zeus glyph, including duties/efforts/immediate vicinity/accomplishment/creative power/new beginnings. No orientation transfer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf256.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-moon.md",
+    "before_sha256": "4c48fe340a646725164dc79d074686a79bb744ca3571650e9fd8884101df097a",
+    "after_sha256": "88ef85cae9edeb0c154c979550d31ce9fe8dba0652820bc0189941f388c42828",
+    "ledger": "activations-061.jsonl",
+    "reason": "Independently reread full saved repaired page, complete before/current Source Entries and amended unique061 record after owner correction. Actual ABC PDF40 printed82 Moon nine-clause glyph row personally inspected at3x: Entfaltung meiner Frau explicitly retains my, now my wife or female partner; historical wife/woman range quoted in conflicts note. All nine ABC clauses verified including restored change of female partner and mood. Witte69 full sentence, Ebertin1072 full entry PDF300 printed298 and Sandbach full Moon entry117 exact newrefs verified. Munkasey352 unchanged. Exact fresh hash rebound after repair, not self-approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40-moon-detail.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-mc-equals-vernal-point.md",
+    "before_sha256": "5d3a0210a3a4b5c1e3276726d4bc31b2907234fdf3f69cc77ddfc373c36968b1",
+    "after_sha256": "09460ae77882e99d442f3e611f96bf0c51dcf3fd7c90563d82d5e10ec9129e09",
+    "ledger": "activations-061.jsonl",
+    "reason": "Independently reread full saved repaired page, complete before/current Source Entries and amended unique061 record after owner correction. Actual ABC PDF40 printed82 Vernal Point six-clause glyph row personally inspected: mein Wechsel in die Oeffentlichkeit correctly restored as my move into public life and dependent events/synthesis now retain direction into. All six ABC clauses verified, including inner-development clauses missing in baseline. Unchanged complete Witte69 sentence verified; both new locators exact. Fresh repaired hash rebound, not self-approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf40-moon-detail.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/pluto-node-equals-neptune.md",
+    "before_sha256": "8e9e722ec5d498c3a373a9600e4084efca669951e502c03a36092d595f7d8c1b",
+    "after_sha256": "a60169fe934ad5055abf45a5402e0f6e81474632ab18508374da68d3e65ff7e7",
+    "ledger": "activations-061.jsonl",
+    "reason": "Independently reread full saved repaired page, complete before/current Source Entries and amended unique061 owner record after owner correction. Actual ABC PDF110 printed223 Neptune five-clause glyph row personally inspected at3x: Verneinung is denial or negation, now restored in final clause and dependent events/synthesis; previous false refinement confirmation removed from original061 record. All five ABC clauses and exclusion of neighboring Pluto see-above verified. Complete Witte148 row, Ebertin1055 full entry PDF295 printed293 and Sandbach complete Neptune entry115–116 exactrefs verified. Munkasey344 unchanged. Fresh repaired hash rebound after independent saved-page/record reread, not self-approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110-neptune-detail.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf110.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-witte-pdf148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-ebertin-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-sandbach-pdf116.png"
+    ],
+    "verified_by": "/root/axis_review"
+  }
+]

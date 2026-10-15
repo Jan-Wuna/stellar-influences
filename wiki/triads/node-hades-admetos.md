@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Node Hades Admetos`
 - Astronomicon triad-set: `g ¢ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Admetos = Node](../activations/hades-admetos-equals-node.md)
-- [Node/Admetos = Hades](../activations/node-admetos-equals-hades.md)
-- [Node/Hades = Admetos](../activations/node-hades-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Admetos = Node](../activations/hades-admetos-equals-node.md) | [Hades/Admetos](../axes/hades-admetos.md) | [Node](../factors/node.md) |
+| [Node/Admetos = Hades](../activations/node-admetos-equals-hades.md) | [Node/Admetos](../axes/node-admetos.md) | [Hades](../factors/hades.md) |
+| [Node/Hades = Admetos](../activations/node-hades-equals-admetos.md) | [Node/Hades](../axes/node-hades.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Hades/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
-- `Hades/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `444`
-- `Node/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `235`
-- `Node/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Admetos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-admetos-equals-node.md#witte-entry), one-based PDF entry-start p. `284`.
+- `Hades/Admetos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-admetos-equals-node.md#abc-entry), printed p. `444`.
+- `Node/Admetos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-admetos-equals-hades.md#witte-entry), one-based PDF entry-start p. `154`.
+- `Node/Admetos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-admetos-equals-hades.md#abc-entry), printed p. `235`.
+- `Node/Hades = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-hades-equals-admetos.md#witte-entry), one-based PDF entry-start p. `150`.
+- `Node/Hades = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-hades-equals-admetos.md#abc-entry), printed p. `227`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Node`: contact with poverty and relationships that feel lowering, heavy, or dispiriting.
-- `Node/Admetos = Hades`: To suffer a lack of life’s necessities with a few. Lack, poverty, sickness, disagreeableness hinder.
-- `Node/Hades = Admetos`: Disagreeableness in a small circle. Junk dealer.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Node/Hades = Admetos retains damaged ABC “Y bonding” and “grtind” fragments. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

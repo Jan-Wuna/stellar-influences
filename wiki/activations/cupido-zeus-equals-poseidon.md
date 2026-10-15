@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Cupido/Zeus = Poseidon`
 - Astronomicon formula: `¡/£ = ¨`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 268 (printed p. 272), Poseidon row.
+
 Founding of a community based on the same conviction. Artistic creation on a mental plane. Common efforts inspired by outlook on life.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community policy, economic and social cohesion, and structural funds
+Reference: printed p. 427 (one-based PDF p. 212), Poseidon row.
+
+Insights of a leadership community, spiritual fire of a community, a spiritual leadership community, spiritual aims of a community, clarity in shared leadership, a creative cultural community, and reasonable leadership of a community.
+
+## Comparative Schema
+
+- core meaning: Community formed and directed through shared conviction, spiritual aims, and creative purpose.
+- psychology: A shared outlook, insights, and the source's spiritual fire of a community.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: A community united by conviction, shared leadership, and cultural creativity.
+- events/manifestations: Founding a community, artistic creation on a mental plane, and common efforts inspired by outlook on life.
+- conflicts/notes: ABC's leadership and clarity meanings complement Witte's shared conviction. Its German row contains no structural-funds or economic-cohesion claim.
+
+## Contradictions
+
+No direct disagreement is established in these entries. Witte emphasizes founding and shared outlook; ABC emphasizes the community's insights, aims, and leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Poseidon`: new communal forms built around doctrine, worldview, or a consciously held ideal. Main caution: founding institutions around abstraction without enough practical and ethical grounding.
+In `Cupido/Zeus = Poseidon`, Poseidon specifies the pair through a community's shared conviction and the ideas that guide its common efforts. The [Witte entry](#witte-entry) connects founding such a community with artistic creation on a mental plane and an inspiring outlook on life. The [ABC entry](#abc-entry) adds spiritual aims, cultural creativity, and clarity or reason in shared leadership. The unifying theme is purposeful cooperation shaped by a common understanding.
 
 ## Links
 

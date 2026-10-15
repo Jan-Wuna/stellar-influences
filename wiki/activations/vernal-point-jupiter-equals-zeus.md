@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Zeus](../triads/vernal-point-jupiter-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Fortunate creation. The happiness in one's work.
 
@@ -42,13 +46,27 @@ Fortunate creation. The happiness in one's work.
 
 #### ABC Entry
 
-past successes in the public, Y insists on public money Successful goal seeking in the public, good leadership in the public life, public finance future, public pleasure fire, legal services in the public life, and benefits through public efforts life
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Successful pursuit of goals in public, good leadership in public life, public financial leadership, public celebratory fire, legal achievements in public life, and advantages through efforts in public life
+
+## Comparative Schema
+
+- core meaning: Successful public creation, directed effort, and leadership.
+- psychology: Happiness in work and successful goal-striving are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Good leadership and management of public finance.
+- events/manifestations: Legal achievements, benefits through effort, and celebratory fire.
+- conflicts/notes: The opening past-success and renunciation clauses belonged to Hades and were removed at the scanned glyph boundary.
+
+## Contradictions
+
+No direct contradiction is established. Financial leadership and celebratory fire are separate source examples of successful public activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Zeus`: fortunate creation and the happiness in one's work.
-- Practical expression: past successes in the public, y insists on public money Successful goal seeking in the public, good leadership in the public life, public finance future, and public pleasure fire.
+In `Vernal Point/Jupiter = Zeus`, public benefit is produced through directed effort. The [Witte entry](#witte-entry) names fortunate creation and happiness in work. The restored [ABC entry](#abc-entry) makes the activity purposeful through successful goals, good leadership, financial direction, and legal achievements, with celebratory fire as a concrete example. The interpretation centers on effective creation and effort; the misplaced Hades clauses no longer distort this entry.
 
 ## Links
 

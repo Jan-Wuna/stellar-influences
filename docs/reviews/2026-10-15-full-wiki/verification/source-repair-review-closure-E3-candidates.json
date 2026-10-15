@@ -1,0 +1,66 @@
+{
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "paths": [
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "queue_index": 101,
+      "before_sha256": "92d96bd2ba0f71a7c9b72a9f07e5df8511cbd90fd6ad29fa04c9a661ebf77162",
+      "after_sha256": "c60dad2e7e2486f4b034e780c4302fb4b6fabd477da0fb3a5237ca732e549899",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "queue_index": 102,
+      "before_sha256": "d026e09be39c077ab9f2e864eb9f889e3efc9453b335a1402f00d368b8700de7",
+      "after_sha256": "2ce9d4d9677600ccd7fbc3436d5a7066d03c40012044cfec032a34be767fe996",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "queue_index": 103,
+      "before_sha256": "ad9a7e0ea86b0ef9d1c66fb69ad5ddbc47663f1b498ac31ad9f05d63585fc470",
+      "after_sha256": "51d52e6a8d724ea8aaa3ecf9eba00be1e1af7e1bb49a81684759fad3474d08db",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "queue_index": 104,
+      "before_sha256": "3c27394079000667519a0ac970497f0bbcb4be58ee45f95a35053acd65adb9a0",
+      "after_sha256": "ecba78208767d0f49db41125bbaba39eb648108af4e8eef9182b630c85417fa4",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "queue_index": 106,
+      "before_sha256": "44d8cccc888b011da68952579513a2184cfb51325cd9313156449926d1ab9965",
+      "after_sha256": "fa769ad54fdb142c3a556c00541a45d1fcd22849e79ed1b16d1fa096692fd3fe",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "queue_index": 107,
+      "before_sha256": "8c8fa2f815bb7aa74248c44bca33ea765afadfc93cd403390ee17bfacd557277",
+      "after_sha256": "0daa303244492d0d68b98c14e188f024b8c9f5f445c7b449b312ee222c343a3d",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    }
+  ],
+  "generated_at": "2026-10-15T14:30:34.630Z",
+  "verifier": "/root/activation_review_013_015",
+  "closure_editor": "/root/activation_review_035_038",
+  "scope": "Root-authorized final six unread E axes; parent original118 history preserved. Only necessary flagged deltas/new refs and current source/owner bindings. No canonical edits.",
+  "parent_original_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-candidates.json",
+  "active_partition": "E3"
+}

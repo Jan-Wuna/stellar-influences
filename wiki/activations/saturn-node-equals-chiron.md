@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
 - Triad hub: [Saturn Chiron Node](../triads/saturn-chiron-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 One’s vibration naturally and inevitably brings depth to all one’s connections. You intuitively heal others’ fear of letting go of the past and or fear of entering into new situations and contacts.
 
+## Comparative Schema
+
+- core meaning: depth in connections and relief of fear around relational change.
+- psychology: fear of releasing the past or entering new situations.
+- body/health: healing is relational language here; no bodily condition is specified.
+- social/relationship: intuitive support for people hesitant about new contacts.
+- events/manifestations: easing a transition toward new connections.
+- conflicts/notes: Sandbach is the sole source; 'inevitability' describes the asserted deepening influence, not inevitable bonds.
+
+## Contradictions
+
+- Only one source is present; it does not describe inevitable bonds or a burden caused by remaining attached to the past.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Node = Chiron` gives depth and inevitability to connections, especially where people fear letting go of the past or entering new contact. It can heal relational caution; the caution is that bonds may become heavy if they keep circling the past instead of opening the next step.
+Chiron specifies the Saturn/Node axis through deepening contact while addressing fear of change. The sole [Sandbach entry](#sandbach-entry) describes an intuitive influence that helps others let go of the past and enter new situations or contacts. Its healing language concerns relational fear, with no bodily claim supplied. The bounded interpretation is support at a difficult transition in connection; the source does not say a bond itself is inevitable or necessarily becomes burdensome.
 
 ## Links
 

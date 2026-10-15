@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Z = MC`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
 - Triad hub: [Vernal Point Pluto MC](../triads/vernal-point-pluto-mc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ One’s own goals are influenced by general developments.
 
 #### ABC Entry
 
-I encourage the public, my development in the public, my development in the public life, my changes in the public sphere, and mental changes in the public sphere
+- Source reference: printed p. `42`, one-based PDF p. `20`, complete MC row.
+
+German passage transcribed from the scan:
+
+> Ich verändere die Öffentlichkeit, meine Entwicklung in der Öffentlichkeit, meine Entfaltung im öffentlichen Leben, meine Veränderungen in der Öffentlichkeit, seelische Wandlungen in der Öffentlichkeit
+
+Editorial translation: I change public life; my development in public; my unfolding in public life; my changes in public; inner transformations in public.
+
+## Comparative Schema
+
+- Core meaning: Personal development and goals are involved in public change, including one's own effect on public life.
+- Psychology: Personal and inner changes in the public sphere are stated; the entries give no specific diagnosis.
+- Body/health: No bodily or medical manifestation is supplied.
+- Social/relationship: The relation is between one's own development and public life, without a specified partnership.
+- Events/manifestations: Changes in personal goals and personal development in public are the concrete themes.
+- Conflicts/notes: ABC explicitly says "I change public life"; its inner transformations do not supply a medical diagnosis.
+
+## Contradictions
+
+The Witte entry stresses general developments affecting personal goals; the ABC entry also names personal influence on public life. Being affected by change and contributing to it are different directions of emphasis, not mutually exclusive claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = MC`: one’s own goals are influenced by general developments.
-- Practical expression: i encourage the public, my development in the public, my development in the public life, my changes in the public sphere, and mental changes in the public sphere.
+In `Vernal Point/Pluto = MC`, MC brings public development into relation with one's own goals and development. General changes may shape personal aims, while the person also changes public life and develops within it. This connects the statement about goals in the [Witte entry](#witte-entry) with personal participation, development, and inner transformation in the [ABC entry](#abc-entry).
 
 ## Links
 

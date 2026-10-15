@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Neptune](../triads/saturn-uranus-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ To suddenly be separated by untruth or falsehood. Separation by anesthesia.
 
 #### ABC Entry
 
-Exciting losses due to separation, concentration on the technology of the future, pliatory water problems, stress caused by unknown hazards, and technical future implications
+Agitating losses through separation, concentration on the technology of the future, sudden water problems, tension through unknown pains, technical tasks of the future, surprising difficulties in the air, and uncertainty through nervous disturbances.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Helps weakens or mask changes designed to break traditional roles; the delusion 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Change and separation become obscured, weakened or inwardly imagined.
+- psychology: Difficulty facing emotional stress alongside original imagination and spiritual questioning.
+- body/health: Witte names anesthesia; ABC attributes unknown pains and nervous disturbances.
+- social/relationship: Separation through falsehood and experiences of mourning or bereavement.
+- events/manifestations: Future technical tasks, water problems and difficulties in the air are ABC examples.
+- conflicts/notes: Subtle integration and resignation are distinct possibilities; improvement is not assured.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's imaginative integration differs from Ebertin's weakening resistance and Munkasey's delusion; a constructive vision is not proof that change succeeds.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Neptune`: difficult adjustment, reform under confusing circumstances, and the need to recognize hidden drains before change can succeed. Main caution: disorientation: strain can become diffuse enough to sap nerve, judgment, and confidence all at once.
+Neptune specifies Saturn/Uranus as change whose direction or force may be difficult to grasp. Resistance can weaken into resignation or be obscured by falsehood, while imagination may find a subtle way to join old and new. The [Ebertin Entry](#ebertin-entry) (printed p. 247), [Sandbach Entry](#sandbach-entry) (PDF p. 88, chapter start only) and [Munkasey Entry](#munkasey-entry) (printed p. 284) preserve those differing possibilities. The anesthesia example in [Witte](#witte-entry) (PDF p. 221, entry start) is a specific attributed form of separation, not a general medical prediction.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Venus`
 - Astronomicon formula: `V/W = Q`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Ripening of love’s happiness. Breaking off an engagement. Passing harmony. The break-up of loves happiness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work pleasure in old age, success through concentrated work, successful separation from work, concentration on success work, problematic legal activity, difficult financial activity, separation from a successful work, and losses through work law
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Joy and sorrow in love, peace and joy in old age, successes in peace through perseverance, disturbed happiness in love, harmony and joy in old age, concentration on peace law, problematic love of money, and problematic advantages through beauty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 226; one-based PDF p. 228, coded entry 0786.
 
 Lack of endurance or tenacity, discontent, inconstancy in love. Changing fortunes in love.
 
@@ -57,7 +65,9 @@ Lack of endurance or tenacity, discontent, inconstancy in love. Changing fortune
 
 #### Sandbach Entry
 
-One is patient and persistent in the realm of love and is willing to allow it to de velop and unfold gradually.
+- Source reference: one-based PDF p. 78, Jupiter/Saturn, Venus paragraph.
+
+One is patient and persistent in the realm of love and is willing to allow it to develop and unfold gradually.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,26 +76,27 @@ One is patient and persistent in the realm of love and is willing to allow it to
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Increased appreciation for the value of planning and organization in the arts, etc.; learning new ways of showing affections, or developing social manners and grace; jealousy due to the social recognition given to others.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Affection develops gradually or undergoes changing fortune ([Witte Entry](#witte-entry)).
+- Psychology: Sandbach's patience in love directly contrasts with Ebertin's inconstancy.
+- Body/health: No bodily or medical claim is established.
+- Social/relationship: New ways of showing affection coexist with jealousy about recognition.
+- Events/manifestations: Ripening love, a broken engagement, and organization in the arts are specific examples.
+- Conflicts/notes: Raw ABC inspection restores Venus's eight love/peace/beauty clauses; the former work paragraph belonged to Mars. Peace law is retained literally without a particular institution. Sandbach's exact Venus paragraph is on PDF p. 78; develop is normalized across a typographical split.
 
 ## Contradictions
 
-- None recorded yet.
+There is a substantive difference over endurance in love: Ebertin describes its lack, whereas Sandbach describes persistence. Witte preserves both ripening and breakup as possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Venus`: persistence in relationship, willingness to let feeling unfold slowly, and the possibility of mature affection shaped by realism. Main caution: changing fortune in love: discontent, broken engagements, or passing harmony can result if emotional steadiness is weaker than the desire for lasting union.
+In `Jupiter/Saturn = Venus`, Venus specifies the pair's development and separation through love, affection, and the arts. The [Witte Entry](#witte-entry) includes both ripening happiness and broken engagements. Endurance is disputed: the [Sandbach Entry](#sandbach-entry) emphasizes patient unfolding, while the [Ebertin Entry](#ebertin-entry) emphasizes inconstancy. The [Munkasey Entry](#munkasey-entry) adds organized artistic activity and changing expressions of affection. The [ABC Entry](#abc-entry) keeps disturbed happiness in love beside peace through perseverance and harmony in old age, with problematic money or beauty advantages as further possibilities. These support a range of relational adjustments rather than a guaranteed mature union or a diagnosis of its failure.
 
 ## Links
 

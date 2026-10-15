@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Zeus Admetos](../triads/venus-zeus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Harmonious creation with many. Great increase. To face heavy resistance. Only be understood by few. Devoted activities are not understood.
 
@@ -42,13 +46,27 @@ Harmonious creation with many. Great increase. To face heavy resistance. Only be
 
 #### ABC Entry
 
-Blocked love denial, depressing peace design, restricted peace objectives, deepening harmony through lucid achievements, and harmonious leadership
+- Source page: 287; PDF page: 142 (one-based spread).
+
+Blocked procreation in love, depressing shaping of peace, restricted peace goals, ending peace efforts, thorough efforts in love, harmony through thorough achievements, and deepening harmonious leadership
+
+## Comparative Schema
+
+- core meaning: Creation or devoted effort meeting resistance and limited understanding.
+- psychology: Feeling misunderstood; thorough effort and a depressing peace task.
+- body/health: Blocked procreation is historical source doctrine without a medical mechanism.
+- social/relationship: Harmonious creation with many, yet understanding from few.
+- events/manifestations: Restricted peace goals, ending peace efforts, and deepening harmonious leadership.
+- conflicts/notes: Witte's many/few clauses are retained together; ABC's Zeugung means procreation, not denial.
+
+## Contradictions
+
+Creation with many and being understood by few coexist in Witte's row. They are not grounds to delete either clause or guarantee acceptance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Admetos`: harmonious creation with many.
-- Practical expression: blocked love denial, depressing peace design, restricted peace objectives, deepening harmony through lucid achievements, and harmonious leadership.
+In `Venus/Zeus = Admetos`, Admetos specifies the pair through devoted creation that may meet resistance or limited understanding. The [Witte entry](#witte-entry) retains harmonious creation with many and great increase alongside heavy resistance and being understood by few. The [ABC entry](#abc-entry) adds restricted peace goals, thorough efforts in love, and harmony through thorough achievement. The organizing tension is effort and creation under limits; neither wide participation nor diligence guarantees being understood.
 
 ## Links
 

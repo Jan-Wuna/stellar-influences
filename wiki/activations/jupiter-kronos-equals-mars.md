@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Kronos = Mars`
 - Astronomicon formula: `V/¤ = U`
 - Axis page: [Jupiter/Kronos](../axes/jupiter-kronos.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 218; one-based PDF page 214, Jupiter/Kronos section, Mars row.
+
 To assert oneself with success. To act as a financial manager. Activity in the high finance sector. Investment of an exceptionally amount of money.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-AWPritlt flkArbeit Law, special work pleasure, success of a legal authoriUU, and state success reliefs
+- Source reference: printed page 338; one-based PDF page 168, Jupiter/Kronos section, Mars row; full row and neighbors checked against the scan.
+
+Prestige through good work, authority in labor law, special joy in work, successful legal work, actions of a legal authority, state efforts toward success, activity in the financial hierarchy, and important financial activity
+
+## Comparative Schema
+
+- core meaning: Successful assertion and financial management in Witte; skilled work and legal or financial activity in ABC.
+- psychology: Joy in work and successful self-assertion.
+- body/health: No bodily condition is stated.
+- social/relationship: Financial managers, labor law and legal authority provide explicit roles.
+- events/manifestations: High-finance activity, exceptionally large investment, successful legal work and state efforts.
+- conflicts/notes: The sources name work and investment, not a requirement for boldness or a commanding economic position.
+
+## Contradictions
+
+Both entries describe effective action. ABC broadens financial management into labor law and legal work; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Mars`: authority becoming active, executive, and financially forceful. It favors bold management, major investment decisions, and action taken from a commanding economic position.
+In `Jupiter/Kronos = Mars`, [Witte](#witte-entry) makes authority active through successful self-assertion, financial management and large investment. [ABC](#abc-entry) adds prestige through good work, joy in work, labor-law authority and successful legal activity. State efforts and work within the financial hierarchy provide further settings. The common emphasis is effective professional action, without requiring the unsupported characterization of every act as bold or forceful.
 
 ## Links
 

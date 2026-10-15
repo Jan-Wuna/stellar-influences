@@ -22,10 +22,12 @@ related_activations:
   - Moon/Saturn = Mars
   - Moon/Saturn = MC
   - Moon/Saturn = Mercury
+  - Moon/Saturn = Moon
   - Moon/Saturn = Neptune
   - Moon/Saturn = Node
   - Moon/Saturn = Pluto
   - Moon/Saturn = Poseidon
+  - Moon/Saturn = Saturn
   - Moon/Saturn = Sun
   - Moon/Saturn = Uranus
   - Moon/Saturn = Venus
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/SATURN`
-- Source page: `119`
+- Source heading: `MOON + SATURN`
+- PDF page (one-based): `126` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -88,11 +92,15 @@ Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy w
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `184–185`; PDF page (one-based): `91` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Evening hour, old woman, tasks of woman, burden of a people, serious hour, women's problems, Ceduld of a woman, patient people, separate woman, Schmcrzen of women, and losses of a people
+Evening hour, old woman, a woman's tasks, burden on a people, serious hour, women's problems, a woman's patience, a patient people, disturbances of feeling, separated woman, a woman's pains, losses of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `125`; PDF page: `127` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -112,7 +120,11 @@ Inhibited, lonely and sad people. The lonely woman or mother.
 
 #### Probable Manifestations
 
-+ Tendency or inclination to build upon the tradition of the family or vocation, inherited or assigned positions, difficult advancement in life, often alone in life. - Disadvantages or worries through the family, psychical depressions, estrangement or separation from the wife or mother, isolation. 22 One is inclined to consider any aspects between the Moon and Satum as tragic, but one should not forget that on average the Moon forms a new aspect with Satum every three or four days. The negative interpretations are generally correct if the influences of the environment are very strong, if the relationship with the mother is unsatisfactory, the family has been separated or relationships generally are not good or permanent. Moon/Saturn D/h
++ Tendency or inclination to build upon the tradition of the family or vocation, inherited or assigned positions, difficult advancement in life, often alone in life. - Disadvantages or worries through the family, psychical depressions, estrangement or separation from the wife or mother, isolation.
+
+#### Source Footnote 22
+
+One is inclined to consider any aspects between the Moon and Saturn as tragic, but one should not forget that on average the Moon forms a new aspect with Saturn every three or four days. The negative interpretations are generally correct if the influences of the environment are very strong, if the relationship with the mother is unsatisfactory, the family has been separated or relationships generally are not good or permanent.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -221,7 +233,7 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Saturn: Serious feelings`
-- PDF page(s): `295`
+- PDF page(s): `295–296` (complete harmony and discord endings checked against PDF296).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -229,17 +241,17 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - shadow: The Embittered Lady and Her Adversary
 - comparison: Dream Reality Indulgence Toughness Wish Fact Desire Duty Affect Control Mood Framework Wish for the feeling of security Reliability Running wild Limiting Soft Brittle
 - general: Stable , controlled , and/or serious feelings . Resolute , disciplined , and sober in everyday life . Feelings of guilt . The earnest woman .
-- harmony: The Conscientious Individual. Committed, stable feelings. Great staying power, prudence, faithfulness, and performance of one's duty, even under difficult conditions. Willing and able to tolerate hardships, deprivation, and necessary renunciation. Very composed, even in sorrowful situations. Inwardly willing and able to tighten one's belt and be modest, leave, or let go when necessary.
-- discord: The Hardhearted Person. Merciless with oneself and others. Inhibited, emotionally withdrawn, lonely, or even embittered. Personal feelings and wishes are repressed and those of others are held in contempt or viewed with suspicious mistrust. Sometimes absurd envy of others. Can't express oneself emotionally. Lacks feeling of security, feels unloved and often worthless.
+- harmony: The Conscientious Individual. Committed, stable feelings. Great staying power, prudence, faithfulness, and performance of one's duty, even under difficult conditions. Willing and able to tolerate hardships, deprivation, and necessary renunciation. Very composed, even in sorrowful situations. Inwardly willing and able to tighten one's belt and be modest, leave, or let go when necessary. Clear feeling for what is feasible and enjoyment of what has been achieved. Willing to take responsibility. Serious and dependable.
+- discord: The Hardhearted Person. Merciless with oneself and others. Inhibited, emotionally withdrawn, lonely, or even embittered. Personal feelings and wishes are repressed and those of others are held in contempt or viewed with suspicious mistrust. Sometimes absurd envy of others. Can't express oneself emotionally. Lacks feeling of security, feels unloved and often worthless. Can't let go, and therefore remains bound even to situations that are unbearable, hopeless, and self-destructive. Extreme, insatiable need for a feeling of security. Leaden emotions.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: emotional restraint and self-control, encompassing duty, endurance, separation, and the management of vulnerable needs.
+- psychology: care, conscientiousness, thrift, and mastery of habits range into inhibition, fear, inadequacy, melancholy, or harsh self-denial.
+- body/health: Ebertin gives chronic fluid-balance and membrane correspondences; Munkasey adds joint, digestive, fertility, and congestion themes. These are attributed historical medical claims, not diagnoses.
+- social/relationship: reliable responsibility and practical parenting coexist with loneliness, restricted affection, or difficult family models; deprivation is a possible source example, not a necessary childhood history.
+- events/manifestations: separation, solitary or evening hours, caretaking, inherited positions, and continuity of family or vocational tradition recur; Munkasey also describes institutions coordinating production and commerce.
+- conflicts/notes: emotional discipline is not equivalent to absence of care. Ebertin explicitly qualifies tragic readings by environment and relationship conditions; Carter's aspect and whole-chart qualifications must remain attached to his examples.
 
 ## Related Activations
 
@@ -254,10 +266,12 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 - [Moon/Saturn = Mars](../activations/moon-saturn-equals-mars.md)
 - [Moon/Saturn = MC](../activations/moon-saturn-equals-mc.md)
 - [Moon/Saturn = Mercury](../activations/moon-saturn-equals-mercury.md)
+- [Moon/Saturn = Moon](../activations/moon-saturn-equals-moon.md)
 - [Moon/Saturn = Neptune](../activations/moon-saturn-equals-neptune.md)
 - [Moon/Saturn = Node](../activations/moon-saturn-equals-node.md)
 - [Moon/Saturn = Pluto](../activations/moon-saturn-equals-pluto.md)
 - [Moon/Saturn = Poseidon](../activations/moon-saturn-equals-poseidon.md)
+- [Moon/Saturn = Saturn](../activations/moon-saturn-equals-saturn.md)
 - [Moon/Saturn = Sun](../activations/moon-saturn-equals-sun.md)
 - [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
 - [Moon/Saturn = Venus](../activations/moon-saturn-equals-venus.md)
@@ -267,15 +281,16 @@ Hypo-acidity conditions in the stomach; fluids collecting in joints; water on th
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The sources preserve disciplined care and painful inhibition as different expressions of restraint. Ebertin explicitly warns against treating every Moon/Saturn aspect as tragic, connecting negative readings to strong environmental and relationship conditions. Carter's inherited office and conscientious work qualify a loss-only interpretation.
+- Actual Witte PDF126/printed130 reads `trough separation`, and Carter printed/PDF28–29 leaves the correspondent quotation unclosed; those printed irregularities are retained. Ebertin's Saturn glyphs are restored, actual footnote22 is separated, and its following heading is excluded. Existing ABC patience, pain and feeling-disturbance repairs are preserved.
+- Locator correction: Witte's exact pair passage is PDF126; Munkasey's printed119 remains his separate reference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn` is the axis of emotional restraint, duty, sobriety, and the hard lessons of security, deprivation, and endurance. It combines feeling, habit, and care with caution, structure, loneliness, discipline, and the need to manage vulnerability carefully.
-- Chart expression: self-control, maturity, thrift, responsibility, patient caretaking, and the capacity to endure difficult conditions without losing functional order. Liabilities: melancholy, fear, inhibition, emotional coldness, isolation, resentment, and the feeling of being unsupported, burdened, or forced to grow up too early.
+`Moon/Saturn` concerns how feeling is contained, protected, disciplined, or denied. Care may become conscientious responsibility, steady habits, and the ability to endure a difficult situation; restraint may also make needs hard to express and leave someone feeling lonely, inadequate, or uncared for. The distinction matters: controlled emotion can support dependable care, while suppression can restrict both giving and receiving it. The evidence includes learning emotional self-sufficiency as well as painful inhibition, rather than a universal story of deprivation ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols), [Banzhaf/Haebler, PDF pp. 295–296](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
+
+Family and work bring these themes into practical form: taking responsibility for others, maintaining a tradition, or succeeding to an established position can require patience and modest, sustained effort. Separation, time alone, and evening hours remain explicit meanings, but the pair does not prove bereavement, an unhappy upbringing, or clinical depression. Ebertin's environmental qualification and Carter's conditional distinctions limit such claims; the particular expression through a third factor belongs to the exact activation page ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Carter](#charles-carter---the-astrological-aspects), [Munkasey, printed p. 119](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
 

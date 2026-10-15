@@ -1,0 +1,246 @@
+{
+  "verdict": "INCOMPLETE",
+  "scope": "All sixteen exact-current-hash decisions were merged into the 1,645-candidate matrix and bound to the owning full-page ledger. The authoritative decisions and allowances remain source-repair-review.json and source-repair-allowances.json.",
+  "decisions": [
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-admetos.md",
+      "before_sha256": "3998dba3b681ab36e8e859d58f4408d91611587d5b8f2dbfb04532c1d8c16e52",
+      "after_sha256": "83148c5c7a079478a2ba39db1108937459ff53d8a57eac1c24e3e9121b53c66a",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 23,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Admetos glyph owns only Wickedness and evil acts in a limited scope; the removed community fragment belongs to Cupido. ABC printed447/PDF222 Admetos row has seven clauses, including gründlicher Einfluß/Macht-Verzicht, Ausdauer and Unterdrückung krimineller Gewalt; all seven new clauses preserve them.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-asc.md",
+      "before_sha256": "f5b87c098442c850500bbcc48e2620d318a52d49bd93048ac85524be8be95091",
+      "after_sha256": "93de2b69a859c742121e096ab3c4058c6ea97634a1f607246791bbb76f4a4d17",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 25,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Asc glyph owns all five sentences, ending To be implicated through others in filthy matters and Together with others in great peril; these formerly split into Sun. ABC printed446/PDF222 Asc row has nine distinct clauses about past influence, energy/power shortage, dangerous partner influence, secret local power, disadvantage, grief and hidden energy; all match the restored English.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-cupido.md",
+      "before_sha256": "3b67ad0c81dc42b0dc163871515bbb6c60431ab7da0b6ffbcc122d0235365b0b",
+      "after_sha256": "f8d7e3920ce68423febc491a8f4d8946e1e7b1ebe79db60880f0dc4f8741510d",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 26,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Cupido glyph owns the complete three-sentence oppressed/decimated communities paragraph ending Gang of criminals; the old long-lasting sentence belongs to Pluto. ABC printed447/PDF222 Cupido row has six clauses, correctly retaining dangerous influence and the literal but unexplained Energie-Dienst-Gemeinschaft.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-jupiter.md",
+      "before_sha256": "a20ca7628250915f9c23ffec0d4008e7f642b3af6a1a96afe5945988ce3e8f3d",
+      "after_sha256": "b6cc28b4fb5291e01c909e271613f52dae7279a711482ab6ca30f84095b232f7",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 27,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Jupiter glyph owns the three happiness/protection/escape sentences; the former injustice/activity paragraph is Mars. ABC printed446/PDF222 Jupiter has eight clauses: successful past influence, dangerous financial influence, legal disadvantage, criminal financial/legal force, hidden joy, inadequate legal influence and past legal power. All are restored without neighboring content.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-mars.md",
+      "before_sha256": "92575619029ce6d78b684b7625502713a4c49a1038498cb9f38607abb9859727",
+      "after_sha256": "32c6ed3d8016e8e81de11d95b41adc3beede07f5ce6e2c86f5bb0437b281dfd5",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 37,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Mars glyph owns the five injustice/activity/destruction/war/rebellion sentences; sexual weakness belongs to Venus. All seven ABC printed446/PDF222 Mars clauses match the repaired English, including hidden violent activity and inadequate working strength.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-mercury.md",
+      "before_sha256": "36ca05c1e470aa6b8a4d0ee45f9aa46324dd98051dd8622104998bfa2067dfaa",
+      "after_sha256": "5760628c70eb8c366de961bda162b305c0f6bfa8caf6926cc5cebe1cc04c1b46",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 35,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Mercury glyph owns only Unpleasant writings and News about atrocities or immediately threatening dangers; personal danger/dealings belongs to Node. ABC printed446/PDF222 restores gefährlicher Verkehrs-Einfluß and Verzicht der Jugend auf Gewalt and accurately renders all other hidden-energy/past/media/power clauses.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-moon.md",
+      "before_sha256": "f6ff8c5967f795944359ca0472ef9e0f6b679bc28dbe9946ee05d1a3956b5f9c",
+      "after_sha256": "bb4ba3c8ba46fa611622cb86a07ed3fc746afc9faeacdcb70bbabce93a1a722a",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 33,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Moon glyph owns the four weakened-woman/people and moral-character sentences. The scan literally prints viscous; the new note preserves it without conjectural correction. Bodily contamination belongs to Sun. All eight ABC printed446/PDF222 clauses match, especially hidden feelings, lack of emotional strength and a woman's hidden power.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-neptune.md",
+      "before_sha256": "a1817e27912b472697abc1c124d879aeaf5f8e09a8fc4d18ea1af108ee7a5080",
+      "after_sha256": "7ad2065ee0decd1c534837b3fae0fe891a2e83a8608c48d01fa5fc0df94f73c4",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 40,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Neptune glyph owns the two powerlessness/dissolution sentences; sudden oppression/murder belongs to Uranus. ABC printed447/PDF222 has seven clauses: polluted air, disappointing past influence, dangerous air/water force, danger from air, disadvantageous weakness of power, violent crime and hidden sensitivity. All corrected qualifiers match.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-node.md",
+      "before_sha256": "c171766faf1452be76808482583bf9bed4101d1cebb1df61dbd0a1c1e6fca5b3",
+      "after_sha256": "61140f6ac56fa4a01ea9d90a1d17643daa6979e4870776292c467e117d419fac",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 34,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Node glyph owns the three danger/dealings/harassment sentences; weakened people belong to Moon. All six ABC printed446/PDF222 Node clauses match, ending sorrow through a connection to violence; no row-boundary substitution remains.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-pluto.md",
+      "before_sha256": "950ab30c0af09322d5b5267352510917718bf167fb84e8f6bb8bad20d3df73a4",
+      "after_sha256": "3e4796a06f516f0ce1779299b19e80e3d575419516e1b12230c6b5f9a59ab592",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 30,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Pluto glyph owns only Evil things in the making which last a long time. The adjacent E-like mark is an alternative Pluto glyph, not prose; removed powerlessness belongs to Neptune. ABC printed447/PDF222 Pluto has eight clauses, including restored hidden development of power and corrected enormous disadvantages; all match.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-poseidon.md",
+      "before_sha256": "c812b876198ada886468a63785a17934e0c39b27596d6f6e5b45462d15b47e19",
+      "after_sha256": "dc586ebd9862e87c15b82704e98905535d3c0c4645d8728229f5e47d950f5ee8",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 29,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Poseidon glyph owns exactly the three conscience/ruling world outlook/past sentences. The removed compiled paragraphs belong individually to Cupido, Zeus, Kronos, Apollon and Admetos on the same scan. ABC printed447/PDF222 Poseidon has eight culture/truth/spiritual strength/past/energy/hidden idea/renunciation clauses, faithfully rendered.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-saturn.md",
+      "before_sha256": "c2c544206addfce3904c0c6ceb69cb65a58e212808e8151cd4811d3d4c5bfabe",
+      "after_sha256": "a8a7a3740118b2229252a44d5c8e0e920258c1294c234fdb7c337a44158bf86b",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 38,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Saturn glyph owns four separation/hindrance/suspicion/war-service sentences; happiness/protection belongs to Jupiter. All seven ABC printed447/PDF222 Saturn clauses match, including grief/loss through violence and final disturbing influence from the past.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-sun.md",
+      "before_sha256": "504f1bbb59dc8fabfce58694478d81951ae97d77e2670a154210dd461a9ef035",
+      "after_sha256": "aeeb1d24ce8fabc4adda2be9d31d45d940f35294dbc179ce63d380be15b4c37b",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 32,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Sun glyph owns the four bodily contamination/weakness/obstacles/dependency sentences. The former two implications-through-others sentences complete Asc. ABC printed446/PDF222 Sun's eight clauses correctly restore criminal man, bodily disadvantage, hidden power center and past influence.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-uranus.md",
+      "before_sha256": "9ebcf8faaa44d40e6e5c427739f3674438fb00ba3cd1e3fce5b5e78168852f03",
+      "after_sha256": "5309ed537ecd44169a9d0725f72175de6624e7191cce84986078770428510c83",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 39,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 has two alternative Uranus glyphs, as independently established from the raw factor key28; their row owns Sudden heavy oppression and Sudden terrible murder. Separation/suspicion belongs to Saturn. All seven ABC printed447/PDF222 Uranus clauses match, including surprising criminal influence and hidden technical energy.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-venus.md",
+      "before_sha256": "ff0160dffead9d7ec13e6dd8e70e16f42cbfdb17fb72f6f1a8c1d3c359cfcad5",
+      "after_sha256": "6afc3224c42f2c85b7888d5317c5eece879b4a62cfb1c20ddbc1d8f20a382450",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 36,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Venus glyph owns Repulsiveness in love and Weakness in sexual strength; news/writings belongs to Mercury. ABC printed446/PDF222 Venus has eight clauses; restored artistic past influence, love in adversity and lack of harmonious influence match the scan alongside service, strength, sorrow, hidden art and renunciation.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-zeus.md",
+      "before_sha256": "b075c485116b782a6fc8bfe6cbddef9d835370b870aecaf8873f7d17b92b96bb",
+      "after_sha256": "768a044cf51acb2f7a4e0257b41150646e27242a029f21daac10f7753667d5af",
+      "ledger": "activations-013.jsonl",
+      "ledger_line": 31,
+      "raw_passage_verification": "complete",
+      "decision": "merged_into_current_candidate_matrix",
+      "reason": "Witte285 Zeus glyph owns exactly Meanness, malignancy and evil deeds born out of hate or a weak will; the removed community paragraph belongs to Cupido. ABC printed447/PDF222 Zeus has nine clauses, including hidden creative force and past capacity for achievement. After gate feedback, Mangel an Energie-Leistungen is now lack of energetic achievement, preserving the source relation; every clause and locator matches the scan.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-witte-p285.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-011-013-abc-p222.png"
+      ],
+      "verified_by": "/root/source_integrity_gate"
+    }
+  ]
+}

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Zeus Apollon](../triads/vernal-point-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Mechanical engineering. Technical institute. The general creativity in sciences.
 
@@ -42,13 +46,27 @@ Mechanical engineering. Technical institute. The general creativity in sciences.
 
 #### ABC Entry
 
-Successful expansion in public, experienced running in public life, fire expansion in public, performance success in public life, public trade efforts, and increasing public efforts
+- Source page: 53; PDF page: 25 (one-based spread).
+
+Successful expansion in public, experienced leadership in public life, expansion of fire in public, achievement success in public life, public trade efforts, and increasing efforts in public
+
+## Comparative Schema
+
+- core meaning: Directed public expansion and technical or scientific creation.
+- psychology: Experienced leadership is named.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Leadership in public affairs.
+- events/manifestations: Mechanical engineering, technical institutes, trade efforts, and fire spreading.
+- conflicts/notes: The scan says leadership, not running; literal fire remains a separate example.
+
+## Contradictions
+
+Scientific creativity and spreading fire are distinct applications. Successful direction is a stated possibility rather than a universal result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Zeus`: mechanical engineering, technical institute, and the general creativity in sciences.
-- Practical expression: successful expansion in public, experienced running in public life, fire expansion in public, performance success in public life, and public trade efforts.
+In `Vernal Point/Apollon = Zeus`, Zeus specifies the pair through directed public effort and technical creation. The [Witte entry](#witte-entry) names mechanical engineering, technical institutes, and scientific creativity. The [ABC entry](#abc-entry) adds experienced leadership, expanding effort, and trade achievement, while retaining fire spreading as a literal possibility. The organizing meaning is broad activity given a practical direction, without equating every technical undertaking with that fire example.
 
 ## Links
 

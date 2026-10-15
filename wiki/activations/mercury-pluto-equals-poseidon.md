@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Pluto Poseidon](../triads/mercury-pluto-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Development of deep, mental or spiritualized thinking. To develop ideas.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 253; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Development of the media culture, intellectual development of the youth, intellectual change language, language about spiritual evolution, developing clear thoughts, developing young people in the future, growing knowledge of the youth, and growing youth culture
+Development of media culture, intellectual or spiritual development of youth, thoughtful exchanges in conversation, conversations about spiritual evolution, developing clear thoughts, sensible development of youth, growing understanding among youth, and growing youth culture
+
+## Comparative Schema
+
+- core meaning: Developing clear, deep, intellectual or spiritual thought. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: Elaboration of ideas and increasing understanding. [Witte](#witte-entry); [ABC](#abc-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Youth culture and media culture are explicit collective settings. [ABC](#abc-entry).
+- events/manifestations: Discussions of spiritual evolution and the growth of youth culture. [ABC](#abc-entry).
+- conflicts/notes: ABC's 'vernünftige' means reasonable or sensible here; it does not refer to future development.
+
+## Contradictions
+
+No direct contradiction is identified; Witte's brief statement and ABC's cultural examples have different scope.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Pluto = Poseidon`: Development of deep, mental or spiritualized thinking. To develop ideas.
-- Practical expression: development of the media culture, intellectual development of the youth, intellectual change language, language about spiritual evolution, and developing clear thoughts.
+In `Mercury/Pluto = Poseidon`, Poseidon specifies developing thought through depth, clarity, and intellectual or spiritual understanding. Ideas are elaborated rather than merely exchanged. [Witte](#witte-entry). [ABC](#abc-entry) places this development in thoughtful dialogue, media culture, and the growing understanding and culture of youth. These are subjects and aims of development, not confirmation that an idea is true.
 
 ## Links
 

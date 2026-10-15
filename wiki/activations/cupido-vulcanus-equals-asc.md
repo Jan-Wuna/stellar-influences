@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Vulcanus = Asc`
 - Astronomicon formula: `¡/§ = Asc`
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 277; PDF p. 273.
+
 Others bring their power to bear through their community. Great esteem or respect for the artistic accomplishments of others. Great artistic creations together with others. The friendship or company of great artists.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential partner community, joint power in the place, common space energy, violence community in the place, powerful local community, strong environmental community, strong partner community, and environment influence cine community
+Source: printed p. 434; PDF p. 216, Asc row.
+
+German: "Einflußreiche Partner-Gemeinschaft, gemeinsame Macht am Ort, gemeinsame Raum-Energie, Gewalt-Gemeinschaft am Ort, mächtige Orts-Gemeinschaft, starke Umwelt-Gemeinschaft, starke Partner-Gemeinschaft, Umwelt-Einfluß einer Gemeinschaft".
+
+English translation: An influential partner community; shared power at a locality; shared spatial energy; a community of force or violence at the locality; a powerful local community; a strong surrounding community; a strong partner community; a community's influence on its surroundings.
+
+## Comparative Schema
+
+- Core meaning: Encounter with collective power and artistic accomplishment through others ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Esteem or respect for others' artistic accomplishments is explicit.
+- Body/health: No bodily condition is named; spatial energy is an undefined ABC phrase.
+- Social/relationship: Friendship with great artists, shared artistic creation and strong partner communities are named.
+- Events/manifestations: Others exerting power through their community and local communal influence are examples.
+- Conflicts/notes: Admiration and collaboration are stated without an inferred loss of autonomy.
+
+## Contradictions
+
+Witte emphasizes other people and artists; ABC develops local, surrounding and partner communities. Both describe situated collective influence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Asc`: daily life shaped by powerful groups, strong collaborators, and visible respect for major artistic or communal accomplishment. Main caution: losing autonomy inside admiration or group force.
+In `Cupido/Vulcanus = Asc`, Asc specifies collective strength through others and one's surroundings. People exert power through their community, while respect for artistic accomplishment, collaboration and friendship with great artists give that influence a cultural form ([Witte Entry](#witte-entry)). ABC extends it to influential partners, shared local power and strong surrounding or partner communities; its local force-or-violence example retains a separate coercive possibility ([ABC Entry](#abc-entry)).
 
 ## Links
 

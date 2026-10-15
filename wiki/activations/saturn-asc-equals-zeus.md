@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Zeus`
 - Astronomicon formula: `W/Asc = £`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 Separation from the father or from the parents.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful environmental tasks, task design for the environment, serious partner efforts, care problems in the environment, patient goal seeking on site, inhibited partner services, loss of fire on site, and procreation problems with the partner
+- Source page: 115 (printed); PDF page: 56.
+
+Demanding environmental tasks, shaping tasks for the environment, serious partner exertions, leadership problems in the surroundings, patient striving toward goals at the place, inhibited partner performance, loss through fire at the place, procreation problems with the partner.
+
+Translation checked against the full exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Demanding environmental or partner tasks, with a separate parental-separation theme.
+- Psychology: Serious partner effort and patient striving toward goals.
+- Body/health: ABC names procreation problems as a historical association, without specifying a medical condition.
+- Social/relationship: Separation from father or parents and inhibited partner performance.
+- Events/manifestations: Leadership problems, local fire losses, and procreation problems with a partner.
+- Conflicts/notes: The parental example and environmental task list are distinct, with no causal bridge supplied.
+
+## Contradictions
+
+The parental example and environmental task list are distinct, with no causal bridge supplied.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Zeus`: separation from the father or from the parents.
-- Practical expression: effortful environmental tasks, task design for the environment, serious partner efforts, care problems in the environment, and patient goal seeking on site.
+In `Saturn/Asc = Zeus`, Zeus specifies the pair through separation from a father or parents in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) gives another field of directed effort: demanding environmental tasks, serious partner work, and patient goals, alongside leadership problems and inhibited performance. Its fire-loss and procreation examples remain attributed possibilities without a stated causal connection to parental separation.
 
 ## Links
 

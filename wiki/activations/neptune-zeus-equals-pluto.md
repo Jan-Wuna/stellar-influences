@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Pluto`
 - Astronomicon formula: `Y/£ = Z`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
-Increased accomplishments which are not noticeable on the surface. To work quiedy, in solitude. To perform one’s duties quiedy. To develop concealed weapons.
+Increased accomplishments which are not noticeable on the surface. To work quietly, in solitude. To perform one’s duties quietly. To develop concealed weapons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Interchangeable performance development, evolution through unknown movement, intuitive movement of time, creative development, development of future objectives, growing performance in the water, and growing striving for refinement
+Disappointing development of performance, evolution through unknown guidance, unfolding intuitive leadership, developing creative sensitivity, developing metaphysical goals, developing future goals, growing performance in water, and growing striving for refinement
+
+## Comparative Schema
+
+- core meaning: development of accomplishments that may remain unnoticed, alongside disappointing performance.
+- psychology: intuitive leadership and growing creative sensitivity are named.
+- body/health: no specific bodily claim is supplied.
+- social/relationship: solitary work is explicit, but not a required way of relating.
+- events/manifestations: concealed-weapons development and growing work in water are particular examples.
+- conflicts/notes: unnoticed accomplishment does not imply that every hidden activity is effective or covert.
+
+## Contradictions
+
+Witte emphasizes quiet accomplishment. ABC includes disappointing development as well as growth and refinement, so effectiveness cannot be assumed throughout.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Pluto`: Increased accomplishments which are not noticeable on the surface. To work quiedy, in solitude. To perform one’s duties quiedy. To develop concealed weapons.
-- Work and accomplishment proceed quietly but effectively beneath the surface, with hidden development, solitary execution, or covert buildup of force.
-- Practical expression: interchangeable performance development, evolution through unknown movement, intuitive movement of time, creative development, and development of future objectives.
+Neptune/Zeus = Pluto concerns work developing beyond what is immediately visible. [Witte](#witte-entry) describes quiet, solitary accomplishment and duties; [ABC](#abc-entry) adds growing sensitivity, intuitive leadership and future or metaphysical goals, while also naming disappointing performance (printed p. 397, PDF p. 197). The development may be quiet or mixed in result. Concealed weapons remain a specific source example, without turning all private work into a covert buildup of force.
 
 ## Links
 

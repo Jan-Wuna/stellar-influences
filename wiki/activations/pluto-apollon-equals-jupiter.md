@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Jupiter Pluto Apollon](../triads/jupiter-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 An event with pleasant consequences. A gain happening but once.
 
@@ -42,13 +46,27 @@ An event with pleasant consequences. A gain happening but once.
 
 #### ABC Entry
 
-Extension of successful development, successful changes in legal knowledge, extensive changes in the monetary system, beneficial trade developments, growing money ownership, and growth in financial science
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
+Expansion of a successful development, successful changes in legal knowledge, extensive changes in money matters, advantageous trade developments, increasing money, transformations within financial science.
+
+## Comparative Schema
+
+- core meaning: development with favorable consequences, especially in trade, money or legal knowledge.
+- psychology: the entries do not state a distinct motive or character profile.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: no particular partnership or group is specified.
+- events/manifestations: a one-time gain, beneficial trade and extensive financial changes.
+- conflicts/notes: Witte's gain happens but once in this entry; the favorable range does not promise repeated benefit or profit.
+
+## Contradictions
+
+Witte's gain happens but once in this entry; the favorable range does not promise repeated benefit or profit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Jupiter`: an event with pleasant consequences; A gain happening but once.
-- Practical expression: extension of successful development, successful changes in legal knowledge, extensive changes in the monetary system, beneficial trade developments, and growing money ownership.
+Jupiter specifies `Pluto/Apollon` through a development whose consequences are favorable. The [Witte entry](#witte-entry) names a pleasant result and a gain occurring once; the [ABC entry](#abc-entry) extends this to successful legal knowledge, beneficial trade and changes in money matters or financial science. The unifying theme is benefit emerging from a development, while the one-time gain remains a particular Witte possibility rather than a promise of recurring profit.
 
 ## Links
 

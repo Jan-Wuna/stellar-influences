@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Apollon](../axes/venus-apollon.md)
 - Triad hub: [Venus Apollon Vulcanus](../triads/venus-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Unquestionably reliable friends. Successes in the arts, sciences or economics.
 
 #### ABC Entry
 
-Experience the power of love, successful influence of the artist, successful peace power, powerful peace art, power of artistic freedom, powerful freedom love, preference for the influence of science, and increasing influence of love
+Experience the power of love, successful influence of art, successful peace power, powerful peace art, power of artistic freedom, powerful freedom love, preference for the influence of science, and increasing influence of love
+
+- Source page: 291 (printed; PDF p. 144). The Vulcanus row reads “erfolgreicher Einfluß der Kunst”: influence of art, not an individual artist.
+
+## Comparative Schema
+
+- **core meaning:** Reliable friendship accompanies success in cultural or economic activity.
+- **psychology:** ABC emphasizes experiencing the force of love and freedom.
+- **body/health:** No bodily claim is supplied.
+- **social/relationship:** Witte stresses exceptionally reliable friends.
+- **events/manifestations:** Artistic, scientific or economic successes are explicit.
+- **conflicts/notes:** Influence in love is a possibility, not authority over another person.
+
+## Contradictions
+
+Reliability, success and influence are compatible emphases; neither entry promises that every undertaking succeeds.
+
+The ABC row and glyph were checked against PDF p. 144. Witte's evidence-cache locator is PDF p. 186 (entry start).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon = Vulcanus`: unquestionably reliable friends.
-- Practical expression: experience the power of love, successful influence of the artist, successful peace power, powerful peace art, and power of artistic freedom.
+In `Venus/Apollon = Vulcanus`, Vulcanus specifies the Venus/Apollon axis through reliable friendship and the effective influence of love, art or knowledge. [Witte](#witte-entry) names unquestionably reliable friends alongside success in art, science or economics; [ABC](#abc-entry) emphasizes the power of love, artistic freedom and the influence of art and science. Dependable ties and effective cultural participation are the connected themes of this orientation.
 
 ## Links
 

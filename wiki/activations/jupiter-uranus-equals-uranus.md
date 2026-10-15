@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Uranus`
 - Astronomicon formula: `V/X = X`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 262, JUPITER/URANUS With Itself; passage unchanged in this review.
+
 Realizing that your present status of life must change, and that you may be the only person pushing for such change; increased desire to step aside from the ordinary mold of life created for you; freedom from religious promises.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A need to change one's current life and step outside an ordinary mold.
+- psychology: One may feel that one alone is pushing for the required change.
+- body/health: No specific body or health claim appears in the entry.
+- social/relationship: The ordinary life created for one and freedom from religious promises give the change a social or commitment-related setting.
+- events/manifestations: Changing one's present status and departing from a prescribed mold; no particular external event is named.
+- conflicts/notes: This is one source on a repeated-factor formula; freedom from religious promises does not specify a religion, procedure or universal outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is present. The urgency of change and the possibility of being its sole advocate are stated together, without an independent source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Uranus`: Realizing that one's present status of life must change, and that one may be the only person pushing for such change; increased desire to step aside from the ordinary mold of life created for one; freedom from religious promises.
+`Jupiter/Uranus = Uranus` intensifies the need to move beyond a life that feels already prescribed. The person may recognize a necessary change while being the only one pressing for it, so independence includes carrying that initiative personally. Freedom from religious promises is one stated expression of release from an existing commitment. This synthesis follows [Munkasey's single entry](#munkasey-entry), which does not identify a particular event or promise lucky gain.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Uranus](../factors/uranus.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Uranus](../axes/jupiter-uranus.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

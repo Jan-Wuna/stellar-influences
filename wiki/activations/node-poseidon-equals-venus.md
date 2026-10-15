@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Venus Node Poseidon](../triads/venus-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Spiritually harmonious connections. Tied to people of the same religion.
 
 #### ABC Entry
 
-Joy of cultural connections, spiritual beauty of a connection, harmonious culture mediation, ideal love relationship, artistic ideas combining, cultured spiritual connection, spiritualized love relationship, and impoverished peace mediation
+Joy of cultural connections, spiritual beauty of a connection, harmonious culture mediation, ideal love relationship, artistic ideas combining, cultured spiritual connection, spiritualized love relationship, and reasonable peace mediation
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 238, PDF p. 118.
+
+- Core meaning: Harmony in an intellectual or spiritual connection.
+- Psychology: Pleasure in shared culture, beauty and ideals.
+- Body/health: No bodily or medical claim is stated.
+- Social/relationship: Shared religion, ideal love and artistic association.
+- Events/manifestations: Combining artistic ideas and mediating for peace.
+- Conflicts/notes: Religious, romantic and artistic examples remain distinct possibilities.
+
+## Contradictions
+
+The entries emphasize different settings for harmony. The old ABC 'impoverished' was a mistranslation of vernünftige, reasonable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Venus`: Spiritually harmonious connections. Tied to people of the same religion.
-- Practical focus: spiritually harmonious connections; also tied to people of the same religion.
+Venus specifies `Node/Poseidon` as a harmonious intellectual or spiritual bond. The [Witte Entry](#witte-entry) includes shared religion, while the [ABC Entry](#abc-entry) extends the connection to cultural pleasure, artistic ideas, ideal love and reasonable mediation for peace. Shared belief is one setting for this harmony, rather than a requirement that every such connection be religious or romantic.
 
 ## Links
 

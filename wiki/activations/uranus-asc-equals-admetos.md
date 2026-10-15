@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Uranus Asc Admetos](../triads/uranus-asc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 88.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Sudden and definite quitting, and moving away. To become unsettled, to be fright
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 117; PDF p. 57.
+
 #### ABC Entry
 
 Unsettling environmental barriers, blocking environmental technology, blocked technology on site, depressing event on site, stabilising environmental rhythm, technical barriers on site, and surprising consolidation of the environment
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Abrupt departure or local restriction, with a distinct stabilizing possibility.
+- psychology: Being unsettled or startled from rest; a depressing event in ABC.
+- body/health: No specific bodily condition is supplied.
+- social/relationship: Quitting or moving away changes an immediate setting, without a specified intimate bond.
+- events/manifestations: Blocked technology, technical restrictions and surprising consolidation of the environment.
+- conflicts/notes: Leaving a setting and making it firmer are different outcomes preserved by the entries.
+
+## Contradictions
+
+Witte emphasizes sudden quitting, departure and disturbed rest. ABC adds local barriers and blocked technology, but also stabilizing rhythm and environmental consolidation. The excerpts do not make disruption or stabilization inevitable.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Asc = Admetos`: Sudden and definite quitting, and moving away. To become unsettled, to be frightened up from a comfortable rest.
-- Practical expression: unsettling environmental barriers, blocking environmental technology, blocked technology on site, depressing event on site, and stabilising environmental rhythm.
+In `Uranus/Asc = Admetos`, Admetos specifies a sudden change in the immediate surroundings through departure, restriction or consolidation. [Witte](#witte-entry) describes definite quitting or moving away and being startled from rest. [ABC](#abc-entry) adds blocked technology and local constraints, while retaining a stabilizing environmental rhythm and surprising consolidation. A setting may be interrupted or made firmer; the entries preserve both possibilities.
 
 ## Links
 

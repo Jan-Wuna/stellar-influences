@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `T/Chiron`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `46` (Principle and Process).
 
 #### Principle
 
@@ -60,6 +64,15 @@ Leaving behind ideas that hold one in a rut while embracing and assimilating ide
 #### Process
 
 Allowing spiritual forces to take over the mind and guide it so that communi cation eventually becomes full, open, and clear.
+
+## Comparative Schema
+
+- core meaning: Releasing limiting ideas and finding communication that helps a situation evolve ([Principle](#principle)).
+- psychology: Receptivity to timely ideas and willingness to leave habitual mental ruts ([Principle](#principle)).
+- body/health: Healing refers here to a situation and communication; no bodily condition or medical effect is specified ([Principle](#principle)).
+- social/relationship: Saying what brings people together and makes communication fuller, clearer, and more open ([Principle](#principle), [Process](#process)).
+- events/manifestations: Unexpected insight or a timely helpful message is presented within Sandbach's spiritual model ([Principle](#principle)).
+- conflicts/notes: This is one source's account. Its angels and nonphysical messages remain attributed beliefs, not independently established explanations of communication.
 
 ## Related Activations
 
@@ -76,11 +89,14 @@ Allowing spiritual forces to take over the mind and guide it so that communi cat
 - [Mercury/Chiron = Uranus](../activations/mercury-chiron-equals-uranus.md)
 - [Mercury/Chiron = Venus](../activations/mercury-chiron-equals-venus.md)
 
+## Contradictions
+
+Only Sandbach's Principle and Process are present, so there is no comparison between sources. They describe compatible aims: replacing limiting ideas and allowing communication to become clear. The word split `communi cation` is a transcription artifact retained in the source entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron`: healing communication: the right ideas arriving at the right time to help thought evolve beyond old ruts.
-- Chart expression: spiritually guided messages, restorative dialogue, and an instinct for words that reconnect people with themselves, with each other, and with wider sources of meaning. It can show communication that mends, integrates, and quietly reveals deeper connections.
+`Mercury/Chiron` concerns communication that helps people move beyond limiting ideas. In Sandbach's [Principle](#principle), receptivity allows a timely idea or the right words to improve a situation and bring people together; the [Process](#process) carries this toward fuller, clearer exchange. The unifying movement is from a mental rut toward a more helpful way of understanding and speaking. Sandbach explains this through spiritual guidance and messages beyond the physical realm, an attributed framework rather than an established cause or a medical claim.
 
 ## Links
 

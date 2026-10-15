@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Hades](../axes/moon-hades.md)
 - Triad hub: [Moon Hades Kronos](../triads/moon-hades-kronos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Great worries or cares. Parent s worries. Made poor through government. Social service for widows and orphans.
+- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).
+
+Great worries or cares. Parent’s worries. Made poor through government. Social service for widows and orphans.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Presence of an old woman, danger to the boss's wife, deprivation of a great woman, dangerous self being of the woman, lack of a boss's chair, great feelings Kummer, criminal authority of a people, and need of a self professed Y olkes
+- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (complete oriented row checked against actual scan).
+
+Standing of an old woman, danger for the boss's wife, deprivations of a great woman, endangered self-confidence of a woman, lack of feeling of the boss, great emotional grief, criminal authorities of a people, need of a self-confident people.
+
+## Comparative Schema
+
+- core meaning: Hardship is connected with authority, major responsibility and public provision.
+- psychology: Great cares and a parent's worries coexist with endangered self-confidence and lack of feeling in authority.
+- body/health: The entries establish no bodily or medical condition.
+- social/relationship: Authorities, parents, widows and orphans are Witte's stated social roles.
+- events/manifestations: Government-caused impoverishment and social service for widows and orphans.
+- conflicts/notes: The scan gives an old woman's standing, endangered self-confidence and lack of feeling of the boss; no chair is named.
+
+## Contradictions
+
+No direct contradiction is established. The historical examples remain separate possibilities rather than diagnoses or character conclusions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Kronos`: Great worries or cares. Parent s worries. Made poor through government. Social service for widows and orphans.
-- Practical expression: presence of an old woman, danger to the boss's wife, deprivation of a great woman, dangerous self being of the woman, and lack of a boss's chair.
+In `Moon/Hades = Kronos`, hardship involves authority and responsibility: great or parental cares accompany government-caused impoverishment and social service for widows and orphans. An old woman's standing and a great woman's deprivation preserve status-related settings, while endangered self-confidence, a boss's lack of feeling and great emotional grief describe strain around authority. Criminal authorities and a self-confident people in need remain distinct collective examples. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

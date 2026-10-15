@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Uranus`
 - Astronomicon formula: `R/Z = X`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Eventful and fluctuating hours. Sudden changes in relation to others. Sudden event that transforms the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `191`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Exciting environment development, dynamic feelings impulses, sudden insecurity of a woman, reform development of a people, technical evolution of people, unrest due to changing fluids, and growing technique of a people
+Exciting development of feelings, dynamic impulses of mood, sudden insecurity in a woman, development of reform among a people, technological evolution of a people, unrest through changing feelings, and growing technology of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0417`.
 
 #### Ebertin Entry
 
 An extremely emotional life, fanaticism, desire to fight, urge to do something. Nervous crises through excesses. Sudden upsets.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `37` (entry checked directly; chapter starts on PDF p. `36`).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Becoming agitated or emotionally upset over vacillation; strange ways of elimina
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden changes release or unsettle emotional intensity.
+- psychology: agitation, an urge to act, unexpected intense feelings, and intuitive inspiration are represented.
+- body/health: Ebertin's nervous crises through excess remain an attributed historical claim, not a diagnosis.
+- social/relationship: Witte includes abrupt changes in relations and events that transform the public.
+- events/manifestations: collective reform and technological change appear in ABC; Munkasey adds unusual household disposal and electrical water-system problems.
+- conflicts/notes: intuitive support for emotional change and disruptive upsets are alternative possibilities; useful change is not guaranteed by suddenness.
 
 ## Contradictions
 
-- None recorded yet.
+- Suddenness and emotional disturbance recur, while Sandbach also allows inspiration and support for transformation. The constructive possibility does not cancel the upsets described elsewhere; no necessary outcome is agreed across the entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Uranus`: transformative breakthroughs, fierce intuitive alertness, and the ability to change emotional patterns abruptly when they can no longer hold. Main caution: explosive intensity: upheaval can become too severe, destabilizing, or impossible to regulate smoothly.
+Uranus specifies the Moon/Pluto pair through sudden emotional release and rapidly changing circumstances. The intensity may arrive as agitation, an urge to act, or an abrupt change in relations; Sandbach also describes inspiration and intuitive ways of supporting emotional transformation ([Witte entry](#witte-entry); [Ebertin entry](#ebertin-entry), printed p. 135; [Sandbach entry](#sandbach-entry)).
+
+The same suddenness can concern public change or practical disruption rather than an inner breakthrough. ABC includes reform and technological development, while Munkasey retains the unusual concrete example of electrical water-carrying systems. The page therefore supports both inspired change and destabilization without treating either as inevitable ([ABC entry](#abc-entry), printed p. 191; [Munkasey entry](#munkasey-entry), p. 132).
 
 ## Links
 

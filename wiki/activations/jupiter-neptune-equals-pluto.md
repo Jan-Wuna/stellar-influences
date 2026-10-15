@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Neptune = Pluto`
 - Astronomicon formula: `V/Y = Z`
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 213; one-based PDF page 209, Jupiter/Neptune section, Pluto row.
+
 Beginning of a hidden fortunate development. Increase of possessions not noticed on the surface of things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-see above
+- Source reference: printed page 329; one-based PDF page 163, Jupiter/Neptun section, Pluto row; checked against the complete German row.
+
+Successful development of metaphysics, disappointing legal development, joy over developments in the air, uncertainty through changes in financial affairs, advantageous change of water, uncertain development of success, and growing financial weakness
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 232, coded activation entry 0814; retained printed coded-entry locator.
 
 Unreasonable plans, far-reaching speculation. A great loss.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 82, Pluto entry; exact row checked, chapter begins on page 81.
 
 Impracticality has drastic results. The need to look deeply into one’s imaginings to find out their inner meaning. Intense and/or persistent dreams and imaginings which are there to help one transform one’s life.
 
@@ -66,26 +76,27 @@ Impracticality has drastic results. The need to look deeply into one’s imagini
 
 #### Munkasey Entry
 
+- Source reference: printed source page 264, Jupiter/Neptune with Planets and Points; retained source-page locator, not a newly verified PDF page.
+
 Condemnation or suppression of theories about the mystical or occult; the development or use of weapons based upon esoteric principles; application of ideas gained from dreams or visions to control waste or pollution.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Unseen fortunate development in Witte versus speculative loss in Ebertin; ABC gives mixed legal/financial development.
+- psychology: Sandbach calls for examining persistent imaginings and their inner meaning.
+- body/health: No bodily condition is named.
+- social/relationship: Munkasey includes suppression of mystical theories and the application of dream-derived ideas.
+- events/manifestations: Hidden growth of possessions, far-reaching speculation, loss, financial weakness and waste/pollution control.
+- conflicts/notes: The ABC Pluto row is substantive; the former See above belonged to the preceding Jupiter glyph.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's hidden increase of possessions differs materially from Ebertin's great loss through unreasonable plans and speculation. ABC contains both favorable and uncertain development. These alternatives should stay visible rather than being harmonized into guaranteed unseen growth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Pluto`: persistent visions, unseen expansions, and the pressure to confront the deeper meaning behind one's fantasies and hopes. Main caution: extremity: unreasonable plans and far-reaching speculation can produce drastic results if intensity is not matched by realism.
+In `Jupiter/Neptune = Pluto`, the [source entries](#source-entries) describe powerful consequences of developments that may be hidden, imagined or speculative. Witte allows an unseen increase of possessions; Ebertin gives unreasonable plans and great loss. Sandbach's persistent dreams call for deep examination of their meaning, while ABC preserves both advantageous change and growing financial weakness. Munkasey adds suppression or application of mystical ideas, including using dream-derived insights against waste or pollution. The orientation therefore carries both constructive development and costly impracticality.
 
 ## Links
 

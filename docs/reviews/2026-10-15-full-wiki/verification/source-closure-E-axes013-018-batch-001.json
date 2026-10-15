@@ -1,0 +1,492 @@
+{
+  "batch": "closure-E-axes013-018-001",
+  "count": 20,
+  "reviewer": "/root/activation_review_035_038",
+  "scope": "Original E queue71–90; source blocks outside each listed actual raw proof scope are preserved, not newly certified.",
+  "hash_contract": "LF normalized Source Entries to next level-two heading, trailing HTML anchors removed, strip; SHA256 utf8. Raw file bytes, unique owner record line.",
+  "targets": [
+    {
+      "path": "wiki/axes/moon-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p88.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p292.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p293.png"
+      ],
+      "raw_locators": [
+        "ABC printed178/PDF88, complete bold pair list",
+        "Banzhaf PDF292–293 complete Moon/Venus entry, omitted endings restored before Moon/Mars heading"
+      ],
+      "before_closure_source_sha256": "1cc62ff6be43d95d5f117dcc6b39c2a2e8072a0a6c899a978da4e6de63cc5817",
+      "original_source_sha256": "d587509cfe68515c2554bad5804f0c24959c457fddd656d992b1709b22f278af",
+      "before_closure_file_sha256": "faf8b2a6e8a4d91ca9d4d5009e7e5422ba6fa8e0a702d9ec8d7b4652c1faa236",
+      "unresolved": [],
+      "after_source_sha256": "854d58a551fa8012bd54ecd59feb446af345489ed4862cea4464af3c0f3a08fa",
+      "after_file_sha256": "2df6e1ee2efab3a8e893ef22684951b459332192b2f5d55dca3a3750611b7a4f",
+      "owner_record_line": 1,
+      "owner_record_sha256": "c344365062801bd26846536d831282b47a584902cc1a67b1bddc9d28c8825c53",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p101.png"
+      ],
+      "raw_locators": [
+        "ABC printed204/PDF101, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "ad01f0a6bc8ab474d8af8fcf4f617bac7ec7775116c6806d11ad4357af6e502e",
+      "original_source_sha256": "ad01f0a6bc8ab474d8af8fcf4f617bac7ec7775116c6806d11ad4357af6e502e",
+      "before_closure_file_sha256": "4a4e1fc3584128869eef75d3f987f3bf8383914742cbf7dc01833e7740cba203",
+      "unresolved": [],
+      "after_source_sha256": "1f09ba2dab6f0b3d196a20f711001e751ef677bff27bbfe52f78fcc6a90a256b",
+      "after_file_sha256": "4cd59c7871e4f80c48481cabe13dfc5d842f2ad9baa260b6c60bdfc9b571db38",
+      "owner_record_line": 2,
+      "owner_record_sha256": "9463931fe7f339426cf3e024f6f599e3576975a6b48d7397fe8c6b98b3fa81fe",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p97.png"
+      ],
+      "raw_locators": [
+        "ABC printed196/PDF97, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "b3eb3f09e59eefeecd3c2a7415b0e4e13caa5669fbff65dea5d53a8913cbea34",
+      "original_source_sha256": "b3eb3f09e59eefeecd3c2a7415b0e4e13caa5669fbff65dea5d53a8913cbea34",
+      "before_closure_file_sha256": "8b06c8cc89378b47ca35463e1ed099e6dd6c0cea96be02e5fbbf6bea6ab4e7f6",
+      "unresolved": [],
+      "after_source_sha256": "8ffc4cf898c46a14e4d0ad14e06f74bab6ec9259ab222e5ec96a175aee746fd0",
+      "after_file_sha256": "ea6e8cb19ad0218961430e2f5740baff48eca00a9faeae5b35e295af19ed7521",
+      "owner_record_line": 3,
+      "owner_record_sha256": "43fbfafc2169f499156b508e9cd5d219e1e6112933ffefff027964f651a5b6a9",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p200.png"
+      ],
+      "raw_locators": [
+        "ABC printed402/PDF200, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "09a1cea96488c2302ef1a2795df35018351401d93c98a069bf49b7c412c8d0be",
+      "original_source_sha256": "09a1cea96488c2302ef1a2795df35018351401d93c98a069bf49b7c412c8d0be",
+      "before_closure_file_sha256": "c1245efd3b385d3d76b00052238e46ecb573f90ef7dea076445b91708fd84c9e",
+      "unresolved": [
+        "ABC Gestaltloses, Feinstoff and Kreislauf-Schwäche are literal source terms without a specified physical mechanism or diagnosis."
+      ],
+      "after_source_sha256": "1f1662ac420a54ed9d2fed5465e604ba705e7e0ef09a4cacc2337158c2810476",
+      "after_file_sha256": "1dce2161e4783e136d610e73f2929c9d6a3459d9dadb02351a76afbb75a2a14a",
+      "owner_record_line": 4,
+      "owner_record_sha256": "d59985517223a266fc1662409c08cc12c63965b6c84ae70e38b773ac40d86f31",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p199.png"
+      ],
+      "raw_locators": [
+        "ABC printed400/PDF199, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "fe34a739e6705a29bbe4d653de7ab5e54373f4cf1914932573b7d2cb6387be1f",
+      "original_source_sha256": "fe34a739e6705a29bbe4d653de7ab5e54373f4cf1914932573b7d2cb6387be1f",
+      "before_closure_file_sha256": "cbd12be1775a527025d02ea1d945f78b5631c0aa112b6f88907bf71a8c29de2b",
+      "unresolved": [],
+      "after_source_sha256": "0f1c917e3031eaac9b8d8dc67d01095dd873fb7a69182ce16b65cf269a2ce584",
+      "after_file_sha256": "cfd04b58b53ea8c140d1170e17418276f8ffe6deda2863a2f1b25382dd74abff",
+      "owner_record_line": 5,
+      "owner_record_sha256": "3a46449869a910e3e4400cda78db1bf58a4cb11010a59433fd15763edf758570",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p58.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p341.png"
+      ],
+      "raw_locators": [
+        "ABC printed118/PDF58, complete bold pair list",
+        "Banzhaf PDF341 complete Neptune/Ascendant harmony/discord match saved text"
+      ],
+      "before_closure_source_sha256": "43c7a689bb3ec31fa7fcb897d089c6e4e459016b9a732509112bcce3b8b5ea0b",
+      "original_source_sha256": "00d1ef5f6ffcdae5c9dbf492f51e824322904a079c8cfe14466f727873acfa3c",
+      "before_closure_file_sha256": "533cd51ac0d70147335795a4f6a05e6bddb88fa91a9b9b8e7bfef4f0d292ee92",
+      "unresolved": [],
+      "after_source_sha256": "4b847c4d927f1a806b2eba1a45cba1f3f19f00d80dbfd5a83782d6f849e217bf",
+      "after_file_sha256": "14316020664abfbcee700e5466f9d925cde0ba1be73e044c113caefa888751e8",
+      "owner_record_line": 6,
+      "owner_record_sha256": "e12cfc0e82fdf8a11015d49a75aad8f79d169d73f03e9fd4925620b52baceb8b",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p195.png"
+      ],
+      "raw_locators": [
+        "ABC printed392/PDF195, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "d29c3779c07db2f62f2bef82413f44b4c43d41f8450a9526bc53201848f4d772",
+      "original_source_sha256": "d29c3779c07db2f62f2bef82413f44b4c43d41f8450a9526bc53201848f4d772",
+      "before_closure_file_sha256": "af855d23ef6c3d9f365799ce1f09c253a0abe20f738224d80e7c7c04020b0b73",
+      "unresolved": [],
+      "after_source_sha256": "ae87c92ec7a4047cfed44b5ea51e18eadc4a001f81f0c947d2128037bbe281d5",
+      "after_file_sha256": "3c5f469d28ece3efe3e93b20f6c1ebd40e1f8d16fba6b779b4cea984510ae567",
+      "owner_record_line": 7,
+      "owner_record_sha256": "f9e8a4dffa9d6492203d5fc093aa8fd2d1647565c6f8d4bb5793eca74514e6c9",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p196.png"
+      ],
+      "raw_locators": [
+        "ABC printed394/PDF196, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "b0ba3edd523522e68ff6704091b79143476ec8c1d6f6cef8f27191415a223e3b",
+      "original_source_sha256": "b0ba3edd523522e68ff6704091b79143476ec8c1d6f6cef8f27191415a223e3b",
+      "before_closure_file_sha256": "4436c201161ef888bab12f42ca6e570118f48c2fc02a782fe395b5500ef93441",
+      "unresolved": [
+        "ABC Luft-Kriminalität is legible but the short pair list does not define the criminal act."
+      ],
+      "after_source_sha256": "c0be42281b04893b564487b0e2046e0939c62ff6699a3cb9b2e0edb500128f3b",
+      "after_file_sha256": "dae8fcabbd930ff452e039945b20cbcc4645ae3aae44e7b3ddb0c78ffd3e1306",
+      "owner_record_line": 8,
+      "owner_record_sha256": "07776ad2dc8841a636c94f5bdabc3343f69368d062021d19a882fead45194b7a",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p198.png"
+      ],
+      "raw_locators": [
+        "ABC printed398/PDF198, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "58801e2502c114a7a8473ddd2ee1b46f9e8529a9259f6ee364dc934d15b2dfd6",
+      "original_source_sha256": "58801e2502c114a7a8473ddd2ee1b46f9e8529a9259f6ee364dc934d15b2dfd6",
+      "before_closure_file_sha256": "1108656acf89a578469f98c7417d8aa60392891ccb4e5bf99518a5e01efbc26f",
+      "unresolved": [
+        "ABC feinstoffliche Autorität is literal source vocabulary without an explained physical or metaphysical mechanism."
+      ],
+      "after_source_sha256": "49ab2919fad99e37a088352bbad9c81a71131b51e349b2d5a53bd8948390ee52",
+      "after_file_sha256": "5bf1b53486ae7944d0578dd9771ff569cafb8ad45dda3c5b212c30c21f5bd49f",
+      "owner_record_line": 9,
+      "owner_record_sha256": "a58dd7502b2d3bc58b96626476402efbb3d5808fba728a5cbea74cc55b0102d4",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p39.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p291.png"
+      ],
+      "raw_locators": [
+        "ABC printed80/PDF39, complete bold pair list",
+        "Ebertin printed289/PDF291 complete pair and footnote64; following heading excluded"
+      ],
+      "before_closure_source_sha256": "7d2fe66dc7807a2bc5290dcc5c4f5836f5ce1332db6ddd70d72b43f2dfe87ff7",
+      "original_source_sha256": "bbaaa850effc31e2ac8b58450d408ba76392f6daa3af900283026363a5987e9c",
+      "before_closure_file_sha256": "3e4f0c54b6a344c74d512fd3314f1ca8c0ae9f0b0cd95bf5764281e999a27d3b",
+      "unresolved": [],
+      "after_source_sha256": "444809c31fcb8e37cb378080fe3922ec325b7c25341f6348609a5a446f0947ea",
+      "after_file_sha256": "efba2075f2e71e190eb24d615f39aba02f17f2d8de3957ec050c4c695cac8e42",
+      "owner_record_line": 10,
+      "owner_record_sha256": "eb641904a6c6fe9472bb0eeb1e7cb09febda1c731ae5dd3bd49a3f374877b91b",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p112.png"
+      ],
+      "raw_locators": [
+        "ABC printed226/PDF112, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "ee6e2fe462d90ddbd65bb5e8ab845ac4f068bb3f774c6f18892aa5f1a743732f",
+      "original_source_sha256": "ee6e2fe462d90ddbd65bb5e8ab845ac4f068bb3f774c6f18892aa5f1a743732f",
+      "before_closure_file_sha256": "38b141c33827ff5200427fbd28a801692f89233586ccf577b05af2a53a2e9952",
+      "unresolved": [],
+      "after_source_sha256": "c047bd60d5751349d817af0abf5825f29ce325215bffa72c95b49e51594b5ec7",
+      "after_file_sha256": "cdcb6127c977297ec92649d821b71259ae62af90f2513d20cd37f16ec16b31c5",
+      "owner_record_line": 1,
+      "owner_record_sha256": "a818b6d59f83a7d4db31209205565e85460d50418f8840b1a4bf2c2ca9d1e151",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p114.png"
+      ],
+      "raw_locators": [
+        "ABC printed230/PDF114, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "68c0700415d3b5beddef3b8ac3f3b1541f5c4ceb7a680c4939cc7d293fed24c4",
+      "original_source_sha256": "68c0700415d3b5beddef3b8ac3f3b1541f5c4ceb7a680c4939cc7d293fed24c4",
+      "before_closure_file_sha256": "b205f948f5f899eac35ed494a910be6a8bb70aefa5865e3725c4ef3559d8fd45",
+      "unresolved": [],
+      "after_source_sha256": "e5f00552b1c92641339fea7d06efd8639c1ea2c7469efc6debef2c447a0fc73f",
+      "after_file_sha256": "ba49b75d1dbfbba9c6f03e5ac42379619b416b70e9d2a9cc495a85dcc8793194",
+      "owner_record_line": 2,
+      "owner_record_sha256": "01fb091627c04fded714ff7322685194d973232d437716367bc998f76a0c59e7",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count. Independent follow-up: Witte PDF61 apostrophe restored in One’s close personal connections after personally inspecting the actual bold pair paragraph.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p61.png"
+      ],
+      "raw_locators": [
+        "ABC printed66/PDF32, complete bold pair list",
+        "Ebertin printed303/PDF305 complete pair boundary",
+        "Witte PDF61 complete bold pair paragraph; apostrophe-only correction"
+      ],
+      "before_closure_source_sha256": "4894d612afabb80afb333c5b2e7951b3cc47404a87892d8c2956fd8c30e68afc",
+      "original_source_sha256": "1123880b2163c524a9372616cc2805b52aa042aa786c4b4e46641551c1a6e42d",
+      "before_closure_file_sha256": "e811de631382611ab92fc7a6a8a7fcf385766f816be3a94f9fadbcbcff242381",
+      "unresolved": [
+        "ABC Selbst-Verknüpfung is legible and rendered literally as self-linking; the short list supplies no defined technique."
+      ],
+      "after_source_sha256": "83f41f602ed7a10b2b4ab5df86f6efbb4e280e218b319c923f550b9f03aaa7a6",
+      "after_file_sha256": "c4e19668b3847d65d4bad3d4a4c61f9eac32d005b3ba7f53bc3ac7dd839b9212",
+      "owner_record_line": 3,
+      "owner_record_sha256": "0bee5abccb14d397f847fc190b46f06e5df9f8073f70563da2d757a2d5f2fc41",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p118.png"
+      ],
+      "raw_locators": [
+        "ABC printed238/PDF118, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "4eae3851577d01b6ea1cb23b276267d62960ddf160057940bac55da85c02373d",
+      "original_source_sha256": "4eae3851577d01b6ea1cb23b276267d62960ddf160057940bac55da85c02373d",
+      "before_closure_file_sha256": "e87a8e04494fe6fbb1ed0cea8218a9d794c896aca924bd193ee8bdb7ba0e50d2",
+      "unresolved": [],
+      "after_source_sha256": "aa1b9b364ae6c9af0c16b53f9eb2fe684a730b861e2c1557e24833a0a1274637",
+      "after_file_sha256": "cec23c9871d8fca1874ee6dd3ba4646e508b931dd9b0bbb0eb20bf21df28073f",
+      "owner_record_line": 5,
+      "owner_record_sha256": "5823fce7aa55fdf202fe4fa4de744513fe6b2997b7bd8884bd2093198d7a6e92",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p117.png"
+      ],
+      "raw_locators": [
+        "ABC printed236/PDF117, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "ec3e6224674b5164155dc8afcd12a821784dbe53cbb2fe0cd4dabdf971827915",
+      "original_source_sha256": "ec3e6224674b5164155dc8afcd12a821784dbe53cbb2fe0cd4dabdf971827915",
+      "before_closure_file_sha256": "b9401f821ec8826e6eae7d27223180aff23a10c531f8d65f383cf811b9c21ad0",
+      "unresolved": [],
+      "after_source_sha256": "417faff15287a452b1810c52bc04ccb4c6e499eddd176af21313b5aa0bd3df0e",
+      "after_file_sha256": "24101f8c894822d8016228ae681638f24db373765814eacc7bfa1b23eb7c80ba",
+      "owner_record_line": 6,
+      "owner_record_sha256": "f1985aa545d395d71f53ba76724738452a93fb35b4f4ebd334fb8370db9b4556",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p113.png"
+      ],
+      "raw_locators": [
+        "ABC printed228/PDF113, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "2ae9163361f6033648077f20a28256b9315cbcc11ce25fb93ff399ee1ec59bc5",
+      "original_source_sha256": "2ae9163361f6033648077f20a28256b9315cbcc11ce25fb93ff399ee1ec59bc5",
+      "before_closure_file_sha256": "af433b258ad076fe96a5c26abd78b2b62325f7490da31d0cebc1ef8f5516307d",
+      "unresolved": [],
+      "after_source_sha256": "df836d68509de01edbb26ce774a698316b23f6310c7b1a37686eb9c66133efcd",
+      "after_file_sha256": "c4e3ae63a2f8b8217482498439c1bee775656cc988a7f9c879cfb55ee814c0d5",
+      "owner_record_line": 7,
+      "owner_record_sha256": "5778d82d929c4c90b4f674ab53074fbbbc9e8bf8ff6358ed6cc8c357191b6247",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/pluto-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p208.png"
+      ],
+      "raw_locators": [
+        "ABC printed418/PDF208, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "4659ab70693be3a62923a60cfa049afd9fbc9131779b151275777c2f514eec91",
+      "original_source_sha256": "4659ab70693be3a62923a60cfa049afd9fbc9131779b151275777c2f514eec91",
+      "before_closure_file_sha256": "c8f7eda81b9edcd6235bdb7d2a6af679a2c76a56856b4b7d008a6cc8d2208049",
+      "unresolved": [
+        "ABC Kreislauf-Veränderung and Transformation von Urenergie remain terse source terms without a specified bodily or physical mechanism."
+      ],
+      "after_source_sha256": "a2036fc08c4601340fd6839901191e1287a45fcc525e381eb357a0c5557ecbcf",
+      "after_file_sha256": "cba92a3dda048fe86c1a1e40af7b31b8060b433646dd3423601da2a73a47fe20",
+      "owner_record_line": 8,
+      "owner_record_sha256": "c11ea277866bb453d9eb4d2a680fa4f3a622ec715e5c05549a06f98f478b72c0",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/pluto-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p207.png"
+      ],
+      "raw_locators": [
+        "ABC printed416/PDF207, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "01cf1c43273a0f50e845d4277978bfc8b460e476d5bb320bb5052fcac6362346",
+      "original_source_sha256": "01cf1c43273a0f50e845d4277978bfc8b460e476d5bb320bb5052fcac6362346",
+      "before_closure_file_sha256": "13a728b4f492a9c80a3c9e47e13b9b51bdb67a524c5f5bd1fcc83f99a75060de",
+      "unresolved": [],
+      "after_source_sha256": "da09b366bcfc58de6955643b54459af57407d0d497fef3ea57ecf4292d366c9b",
+      "after_file_sha256": "270d72960ea416a7bfa636eafd45058788bb4c504b809ab8a9fd19f8a8fc155a",
+      "owner_record_line": 9,
+      "owner_record_sha256": "afc7ca685f55e44dcdefaabfcfcf5ca7c9266e903f2065f711ece2cb3ec73830",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/neptune-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl",
+      "summary": "Removed extraction squares around Ebertin's actual plus marker after personally inspecting complete printed283/PDF285; all native category prose retained.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p285.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed283/PDF285 complete pair summary and marker"
+      ],
+      "before_closure_source_sha256": "75f00839c2cbfe484ca111e27c6ecc8f908fe9f7b0569eb2aad624492055d46c",
+      "original_source_sha256": "ab6bc1aa170bd89b52c12232391f30430e29d6094ab7e06f70291babd2d4f81b",
+      "before_closure_file_sha256": "af9e23432b56c2a2575a012858a475c025370c0a9191f2331fd9639eb3d08b92",
+      "unresolved": [],
+      "after_source_sha256": "8a0cd95dcca616c503b63db1d47116d4496539ead4eef56182ddbdec26d7892f",
+      "after_file_sha256": "0d192ddd3a5d0b7b3f15dee7685d4e88a889411766ee566fc6fbcfbbe7788de4",
+      "owner_record_line": 2,
+      "owner_record_sha256": "e526b52ee1c2bf6351bb326f1c9eb7d774050f73acc6c0265fa87744b50d0cfd",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/node-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl",
+      "summary": "Removed only the merged following Ebertin heading after personally inspecting complete printed300/PDF302; preserved genuine source wording 'The power of faculty of memory' and 'The ability, to get along'.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p302.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed300/PDF302 complete pair and boundary"
+      ],
+      "before_closure_source_sha256": "88ed243b1679e29f59e9f11f4d2d5fd58003f906182f3bda40cb0e0d461341e2",
+      "original_source_sha256": "cd03a06061ffd9c37d5df4b2fbecfbd090429df53ecab20fa78dac5cd0cc3ccd",
+      "before_closure_file_sha256": "84c511c44b8715b7543abe2422523814d82c84f6dffdc1edd02425049392e18a",
+      "unresolved": [
+        "Actual Ebertin printed300/PDF302 prints 'The power of faculty of memory' and 'The ability, to get along'; retained source wording, not repaired by inferring authorial intent."
+      ],
+      "after_source_sha256": "92e66f0ee5f366dec8f685144f5a145eb88ae7af4d9e62b27eb45bbb4033d35f",
+      "after_file_sha256": "af6134fe6acbd4d3964e5ff535a63994c5a36121a61646297287564bd0824999",
+      "owner_record_line": 9,
+      "owner_record_sha256": "11900890790300f9b8e5261c3ad6ceba6e06ac8e6a854d80a3a2dbac12cd0f53",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    }
+  ]
+}

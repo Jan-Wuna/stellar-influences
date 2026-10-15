@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Neptune`
 - Astronomicon formula: `W/Asc = Y`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be separated through falsehood or lies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old place on the water, tasks in the environment, small and medium sized partners, pollution and insecurity in the environment, air pollution at the site, unknown disturbances in the environment, and water pollution at the site
+- Source page: 115 (printed); PDF page: 56.
+
+An old place by water, tasks at waters in the surroundings, a serious sensitive partner, inhibitions and uncertainty in the environment, problems with the air at the place, weak patience of the partner, unknown disturbances in the surroundings, separation from a place by water.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 260 (printed); PDF page: 262; entry code: 0922.
 
 A depressing environment, emotional suffering through others. Separation caused through disagreements.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 95 (exact entry text checked; chapter begins on PDF page 94).
 
 To have idealistic fantasies about being taken seriously. Confusion or chaos affecting the structure of one’s relationships and the potential for deep intuitive insights into the problems, limitations and restrictions encountered in them. The breaking down of personality structure, so that it might be reconstituted at a higher and more refined level.
 
@@ -70,22 +82,23 @@ Developing an understanding about that side of life which is not easily explaine
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Uncertainty, idealization, or deception complicates contact, with possible intuitive insight.
+- Psychology: Dreaming, confusion, idealistic fantasies, and insight into relational limitations.
+- Body/health: The entries describe emotional suffering or low mood without establishing a medical diagnosis.
+- Social/relationship: Separation through lies or disagreements and confused relationship structures.
+- Events/manifestations: Water-side places, air problems, unknown disturbances, and separation from a waterside place.
+- Conflicts/notes: Sandbach's refined reconstruction is a spiritual possibility, not a guaranteed outcome of confusion.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's refined reconstruction is a spiritual possibility, not a guaranteed outcome of confusion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Neptune`: quiet compassion, subdued self-presentation, and the ability to endure subtle or draining atmospheres without dramatizing them. Main caution: erosion of boundary: weariness, confusion, or passivity can make self-protection inconsistent and costly.
+In `Saturn/Asc = Neptune`, Neptune specifies the pair through uncertainty in how people and surroundings are understood. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) emphasize separation through lies or disagreements and emotional suffering, while the [ABC entry](#abc-entry) includes sensitive but inhibited partners and environmental uncertainty.
+
+[Sandbach](#sandbach-entry) allows intuitive insight into relational limits and interprets personality breakdown as potentially followed by refinement; [Munkasey](#munkasey-entry) describes inward dreaming and interest in what physical science does not explain. The difference in emphasis between relational disruption and inward or intuitive experience remains open within the sources.
 
 ## Links
 

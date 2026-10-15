@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Mars Jupiter](../triads/vernal-point-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Births. Fruits. Love-happiness of or with men. Successful acts.
 
@@ -42,13 +46,27 @@ Births. Fruits. Love-happiness of or with men. Successful acts.
 
 #### ABC Entry
 
+- Source page: 34; PDF page: 16 (one-based spread).
+
 Work with public money, work pleasure in public, successful public actions, public financial activity, joy in work for the public, happiness through public activity, and public legal activity
+
+## Comparative Schema
+
+- core meaning: Successful public action and productive work.
+- psychology: Pleasure in work and joy in serving the public are explicit.
+- body/health: Births are a source example; no clinical claim is supplied.
+- social/relationship: Witte includes love-happiness involving men.
+- events/manifestations: Work with public money, financial or legal activity, and successful acts.
+- conflicts/notes: Births, fruits, affection, and civic work are distinct manifestations.
+
+## Contradictions
+
+No direct contradiction is established. Witte's personal and productive examples are broader than ABC's public work and finance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Mars`: births, fruits, love-happiness of or with men, and successful acts.
-- Practical expression: work with public money, work pleasure in public, successful public actions, public financial activity, and oy in work for the public.
+In `Vernal Point/Jupiter = Mars`, public benefit is made active through work and successful deeds. The [ABC entry](#abc-entry) emphasizes enjoyment of work for the public, including financial and legal activity. The [Witte entry](#witte-entry) supplies successful acts, births, fruits, and love-happiness involving men. The shared theme is productive success and satisfaction in action; the individual examples do not require a single combined event.
 
 ## Links
 

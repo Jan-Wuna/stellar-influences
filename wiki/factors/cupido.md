@@ -11,7 +11,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -20,11 +20,15 @@ updated_at: 2026-05-04
 - Astronomicon token: `¡`
 - Canonical page type: comparative factor page grounded in standalone source entries.
 
+[Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Factor Entry
+
+Source locator: PDF page `29`.
 
 Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
 
@@ -32,14 +36,23 @@ Family. Sociability. Societies. Associations. Collections. Art. Marriage. The gr
 
 #### ABC Keyword Entry
 
-Community, the whole, together, artist, and synthesis
+Source locator: printed page `17`, PDF page `7`; heading `Cupido, CU`. English rendering checked against the German keyword list.
+
+Community, the whole, together, art, and synthesis
+
+## Comparative Schema
+
+- core meaning: belonging to or forming a shared whole, with community and synthesis joining the family, association, and art meanings ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- psychology: sociability and an orientation toward being together; the entries do not supply a separate psychological theory ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- body/health: neither standalone entry supplies a bodily or health correspondence.
+- social/relationship: family, marriage, societies, associations, and the group are explicit forms of togetherness ([Witte](#witte-factor-entry)).
+- events/manifestations: community efforts, public limited companies, collections, and art give the shared-whole theme concrete forms ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- conflicts/notes: the entries state no explicit adverse pole. They support collective belonging without establishing that a group must be harmonious or that individuality must be sacrificed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido` is the factor of community, family, marriage, association, art, synthesis, and the forms through which people become part of a shared whole.
-- Chart expression: domestic and communal cohesion, partnership as belonging, clubs, companies, aesthetic circles, collective effort, and the wish to create or preserve meaningful bonds.
-- Its liabilities are clannishness, conformity, social dependency, collective pressure, empty association, and belonging to the group at the expense of individuality, honesty, or living feeling.
+Cupido concerns the forms through which people or things belong to a shared whole. Family and marriage are its intimate expressions; societies, associations, companies, and community efforts give togetherness an organized form. Collections, art, and synthesis extend the same motif to gathering or composing parts into a whole. Sociability is therefore central, but the range reaches beyond personal affection to membership, collective effort, and artistic composition. ([Witte Factor Entry](#witte-factor-entry); [ABC Keyword Entry](#abc-keyword-entry), printed p. 17.)
 
 ## Related Axes
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Venus Pluto Kronos](../triads/venus-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The authorities, the government, chief, the boss prefer the native in connection
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special developments in the arts, development to self governance in love, development of great joy, great preference for change, harmonious development in the hierarchy, self sustained development through beauty, and growing authorship in the arts
+Editorial translation (checked against the scan): Special developments in art, development toward independence in love, developing great joy, great preference for changes, harmonious development within hierarchy, self-confident development through beauty, growing authority in art.
+
+## Comparative Schema
+
+- core meaning: Favor from authorities during major changes, with harmonious or artistic development.
+- psychology: Great joy, preference for change, and self-confidence through beauty.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Superiors, hierarchy, independence in love, and authority in art.
+- events/manifestations: Artistic developments and harmonious changes within hierarchy.
+- conflicts/notes: Favor is explicit; lasting advancement or relationship success is not guaranteed.
+
+## Contradictions
+
+Witte's preference from superiors and ABC's love, art, or beauty settings are compatible but distinct possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Venus`: pleasant advancement; Relationships or values support rising status or capability.
-- Practical expression: special developments in the arts, development to self governance in love, development of great joy, great preference for change, and harmonious development in the hierarchy.
+Venus specifies Pluto/Kronos through favorable treatment or harmonious development around major change. The [Witte entry](#witte-entry) describes preference from authorities or a boss; the [ABC entry](#abc-entry) adds great joy, harmony within hierarchy, artistic development, and independence in love. Its self-confidence through beauty and growing authority in art broaden the setting without guaranteeing higher rank or a successful relationship.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Node](../triads/vernal-point-mars-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 Connections through work. General working relationships. Uniting activity.
 
@@ -42,13 +46,27 @@ Connections through work. General working relationships. Uniting activity.
 
 #### ABC Entry
 
-Working meeting in public, meeting with the public will, connecting public works, connecting public impulses, communicating public activity, and creating public relations
+- Source page: 32; PDF page: 15 (one-based spread).
+
+A public work meeting, encounter with the public will, connecting public works, connecting impulses from the public, connections through public activity, and creating connections in public
+
+## Comparative Schema
+
+- core meaning: Public action creates and joins working relationships.
+- psychology: Encounter with public will is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Connections through work and uniting activity are central.
+- events/manifestations: Work meetings and linking public projects or impulses.
+- conflicts/notes: Creating connections is broader than professional public relations.
+
+## Contradictions
+
+No direct contradiction is established. Meetings and connected projects are distinct expressions of cooperation through work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Node`: connections through work, general working relationships, and uniting activity.
-- Practical expression: working meeting in public, meeting with the public will, connecting public works, connecting public impulses, and communicating public activity.
+In `Vernal Point/Mars = Node`, public work connects people and activities. The [Witte entry](#witte-entry) names working relationships and uniting action. The restored [ABC entry](#abc-entry) adds meetings, encounters with public will, and the joining of public works or impulses. The coherent emphasis is association created through doing something together in public life.
 
 ## Links
 

@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Pluto Node Asc](../triads/pluto-node-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Changes in the relations or connections cause changes in or of the place where y
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 222; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-partner Kontaktc cntwickcln, developing environmental contacts, changing relationships with the environment, connecting with others, developing growing local connections, changing contacts with the environment, and changing partner relations
+Editorial translation (checked against the scan): Developing partner contacts, developing environmental contacts, changes in relations with the surroundings, developing a connection with others, growing connections with a place, changing contacts with the surroundings, changing partner relationships.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
 
 #### Ebertin Entry
 
 Desire to gain influence upon the public.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 116 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Reading the potential and intentions of the people you meet; added ability to fo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Changing connections affecting surroundings, public influence, and personal identity.
+- psychology: Fear of losing the self may sustain old identity patterns; releasing them is Sandbach's empowering possibility.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Partners, nearby people, groups, and public influence.
+- events/manifestations: Changes of residence or surroundings, new environmental contacts, and meetings.
+- conflicts/notes: Judging intentions by appearance is Munkasey's claim, not a validated method.
 
 ## Contradictions
 
-- None recorded yet.
+Local or relational change and resistance to changing identity are distinct emphases; the entries do not require fateful encounters.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Asc`: magnetic social presence, fateful personal encounters, and the ability to transform through intense one-to-one or group contact. Main caution: self-loss in power ties: identity can become overdefined by manipulation, pressure, or obsessive relational dynamics.
+Asc specifies Pluto/Node through connections that change the immediate surroundings and the way the person relates to others. The [Witte entry](#witte-entry) includes changes of residence or nearby environment, and [ABC](#abc-entry) adds partner and environmental contacts. Public influence in [Ebertin](#ebertin-entry) and attention to others' intentions at meetings in [Munkasey](#munkasey-entry) extend this into social action. [Sandbach](#sandbach-entry) adds a personal obstacle: fear of losing the self can keep old definitions of identity in place, while releasing restrictive identifications is presented as empowering. None of these claims makes every meeting fated.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¤/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `300`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Main formula for an odd character. Differences. Odd being. Fall of a ruler or a 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `462`; PDF page: `230` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Special perseverance, blocked self sandiness, end of self sandiness, strengthened authoritarianism, great depressions, general superiority, circulatory steering, stately restraints, superior resistance, and important primal energy
+German pair summary (transcribed from printed page `462`; PDF page `230`):
+
+> Besondere Ausdauer, blockierte Selbständigkeit, Ende der Selbständigkeit, gefestigte Autorität, große Depressionen, gründliche Überlegenheit, Kreislauf-Lenkung, staatliche Einschränkungen, überlegener Widerstand, wichtige Urenergie
+
+Editorial translation from the German passage: Particular endurance, blocked independence, end of independence, consolidated authority, great depressions, thorough superiority, direction of circulation, restrictions imposed by the state, superior resistance, important primordial energy.
+
+## Comparative Schema
+
+- **Core meaning:** Separation and marked differences in level or position, including seclusion and the loss of an elevated position ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** The historical source describes an `odd character` living apart; this is attributed language, not a diagnosis or a universal judgment of character.
+- **Body/health:** Witte's summary gives no bodily condition. ABC names great depressions and direction of circulation without specifying a diagnosis or medical mechanism.
+- **Social/relationship:** A life apart from others and the fall of a ruler or government place separation at both personal and public levels.
+- **Events/manifestations:** Hills, mountains, caves, clefts, differences in altitude, falls from height, and political downfall are distinct examples, not a single necessary sequence.
+- **Conflicts/notes:** Literal terrain and social separation share a contrast of levels, without proving that seclusion causes downfall. ABC adds blocked or ended independence, consolidated authority, state restrictions, endurance and resistance. Its brief circulation, depression and primordial-energy terms supply no medical or physical mechanism.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Special perseverance, blocked self sandiness, end of self sandiness, strengthene
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos`: isolated rank or exceptional exclusion: an odd or special position, life apart from others, authority under restriction, and the possibility of falling from height, office, or superiority into confinement or isolation.
-- Chart expression: sharp difference in level, status, or condition. It favors exclusive positions, unusual or secluded authority, mountain-or-depth symbolism, and people marked off from the generality, while its liabilities are suppression, difficult special treatment, misfit status, and downfall from power or elevation.
+Kronos/Admetos brings together separation and pronounced differences in level. The usable pair summary ranges from a secluded life to the fall of a ruler or government, and from hills and mountains to caves, clefts, and falls from height. What connects these examples is being apart from others or occupying a markedly different position, with loss of elevation as one possible expression ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). These examples do not establish a causal progression from unusual character to isolation or downfall; ABC's distinct expressions of constrained independence, endurance, and resistance do not supply one ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

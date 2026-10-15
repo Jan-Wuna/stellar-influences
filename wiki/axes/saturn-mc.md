@@ -11,6 +11,8 @@ normalized_axis: Saturn/MC
 factor_a: Saturn
 factor_b: MC
 related_activations:
+  - Saturn/MC = MC
+  - Saturn/MC = Saturn
   - Saturn/MC = Admetos
   - Saturn/MC = Apollon
   - Saturn/MC = Asc
@@ -72,12 +74,14 @@ updated_at: 2026-05-06
 - Astronomicon axis: `W/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SATURN/MIDHEAVEN`
-- Source page: `303`
+- Source heading: `MERIDIAN + SATURN`
+- PDF page: `66`
 
 #### Pair Summary
 
@@ -87,9 +91,15 @@ To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dej
 
 #### ABC Pair Summary
 
-Old soul, my tasks, my perseverance, my seriousness, my patience, my hard, my inhibitions, my concentration, my duty, my problems, my pains, and my losses
+Old soul, my tasks, my perseverance, my seriousness, my patience, my hardness, my inhibitions, my concentration, my duty, my problems, my pains, my losses, and inner tasks.
+
+- Source locator: printed p. `76`; PDF page `37`, complete bold pair summary.
+- German source: `Alte Seele, meine Aufgaben, meine Ausdauer, mein Ernst, meine Geduld, meine Härte, meine Hemmungen, meine Konzentration, meine Pflicht, meine Probleme, meine Schmerzen, meine Verluste, seelische Aufgaben`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `262`; PDF page `264`, complete pair entry and footnote 56. Repeated extracted title/glyph material is omitted from prose.
 
 #### Principle
 
@@ -97,7 +107,7 @@ Hindered growth or development.
 
 #### Psychological Correspondence
 
--I- Slow development, tenacious adherence to one's objectives or aims in life. Inclination to occupy oneself with one's own personality. - Lack of striving for an objective, emotional inhibitions, lack of courage or despondency, feelings of inferiority. C Inhibited or retarded development.
++ Slow development, tenacious adherence to one's objectives or aims in life. Inclination to occupy oneself with one's own personality. - Lack of striving for an objective, emotional inhibitions, lack of courage or despondency, feelings of inferiority. C Inhibited or retarded development.
 
 #### Biological Correspondence
 
@@ -109,17 +119,21 @@ Emotionally inhibited or suffering people.
 
 #### Probable Manifestations
 
-+ Tendency to cling to hopes, to gain experience, changes of aims or aspirations in life. - The need to struggle against difficulties or odds. The act of separation, difficulties in one's career and occupation. 56 A limitation such as that which Satum/MC represents need not always work out as a disadvantage. This combination can be found in the charts of important personalities. It is therefore always important to examine the other combinations as well. Saturn/Medium Coeli VM
++ Tendency to cling to hopes, to gain experience, changes of aims or aspirations in life. - The need to struggle against difficulties or odds. The act of separation, difficulties in one's career and occupation.
+
+Footnote 56: A limitation such as that which Saturn/MC represents need not always work out as a disadvantage. This combination can be found in the charts of important personalities. It is therefore always important to examine the other combinations as well.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source locator: PDF page `95`, complete Principle and Process; visible internal word splits are joined editorially.
+
 #### Principle
 
-The finding of true spirituality through union with the Spiritual Light. Difficul ties in allowing in spiritual messages. The need to listen to the spiritual self within rather than to outer authorities. Trouble with authority figures. The slow attainment of success in one’s career. The tendency to question whether or not one is following the right ca reer, because one so deeply yearns for a line of work that is truly and spiritually fitting for the self.
+The finding of true spirituality through union with the Spiritual Light. Difficulties in allowing in spiritual messages. The need to listen to the spiritual self within rather than to outer authorities. Trouble with authority figures. The slow attainment of success in one’s career. The tendency to question whether or not one is following the right career, because one so deeply yearns for a line of work that is truly and spiritually fitting for the self.
 
 #### Process
 
-The realization of the restrictions that society imposes on oneself, and the finding of creative ways of working with these. The questioning of authorities and au thority figures in an attempt to find answers that resonate with what one deeply knows to be spiritual truth.
+The realization of the restrictions that society imposes on oneself, and the finding of creative ways of working with these. The questioning of authorities and authority figures in an attempt to find answers that resonate with what one deeply knows to be spiritual truth.
 
 ### Robert Hand - Horoscope Symbols
 
@@ -161,14 +175,17 @@ Seeking psychological counseling to find the person you are or should be; adopti
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: self-definition and life direction formed through duty, restraint, slow development, and persistence.
+- psychology: concentrated purpose and a precise sense of self coexist with discouragement, inferiority, and fear of inadequate achievement.
+- body/health: Ebertin's historical biological claims include pain and severe illness; Munkasey discusses counseling and damaging self-restrictions. These remain attributed claims, not clinical conclusions.
+- social/relationship: solitude and independence, conflict with authority, or a steady but dependent role in partnership.
+- events/manifestations: slow career achievement, persistent work, changed aims, separation, and formal constraints on organizational goals.
+- conflicts/notes: Hand emphasizes uniqueness and precise direction where Ebertin emphasizes hindered development; these are alternatives, not proof of a uniformly blocked vocation. ABC's scan confirms `meine Härte` (my hardness) and the omitted `seelische Aufgaben` (inner tasks). Ebertin's qualification is preserved separately as footnote 56; repeated extracted title/glyph material is excluded from prose.
 
 ## Related Activations
+
+- [Saturn/MC = MC](../activations/saturn-mc-equals-mc.md)
+- [Saturn/MC = Saturn](../activations/saturn-mc-equals-saturn.md)
 
 - [Saturn/MC = Admetos](../activations/saturn-mc-equals-admetos.md)
 - [Saturn/MC = Apollon](../activations/saturn-mc-equals-apollon.md)
@@ -194,15 +211,17 @@ Seeking psychological counseling to find the person you are or should be; adopti
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Hand's strong sense of direction and Ebertin's lack of striving occupy different parts of the pair's range; Ebertin expressly warns that limitation need not be disadvantageous.
+- Sandbach's spiritually fitting vocation is his own framework; it does not replace the other entries' accounts of self-definition, burden, or career.
+- ABC's `my hard` is incomplete English; the evidence map also contains a final mental/spiritual-task phrase absent from the local entry (printed pp. 76–77; PDF 37). No source repair is made here.
+- Sandbach PDF 95 is only a chapter-start lookup.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC` is the axis of burdened vocation, disciplined ambition, and life direction shaped by duty, delay, and endurance. It combines structure, pressure, realism, and persistence with purpose, status, self-definition, and public development.
-- Chart expression: the long climb, serious responsibility, slow consolidation of standing, and a need to define oneself through hard work and tested achievement. Liabilities: defeatism, feelings of inferiority, blocked progress, heaviness, and the sense that life advances only through strain.
+`Saturn/MC` concerns the serious work of defining a direction and sustaining it through limits. The [pair summary](#pair-summary) begins with burden, duty, concentration, and sorrow, while [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) develops persistent learning, work, and the search for one's goals. [Hand](#robert-hand---horoscope-symbols) adds a sharply defined individuality that may be difficult to compromise. Purpose may consolidate slowly or feel inhibited; the evidence supports both possibilities.
+
+Loneliness, discouragement, altered aims, and difficulties with authority or career are part of that range. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) gives the search a spiritual dimension: finding work and answers that fit inner conviction rather than simply accepting outer authority. [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) explicitly cautions against equating limitation with disadvantage. His historical health claims do not establish a diagnosis, and neither career failure nor eventual recognition follows from this pair alone.
 
 ## Links
 

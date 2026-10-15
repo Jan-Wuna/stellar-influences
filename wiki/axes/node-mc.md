@@ -11,6 +11,8 @@ normalized_axis: Node/MC
 factor_a: Node
 factor_b: MC
 related_activations:
+  - Node/MC = MC
+  - Node/MC = Node
   - Node/MC = Admetos
   - Node/MC = Apollon
   - Node/MC = Asc
@@ -72,24 +74,34 @@ updated_at: 2026-05-06
 - Astronomicon axis: `g/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NODE/MIDHEAVEN`
-- Source page: `359`
+- Source heading: `MERIDIAN + NODES`
+- PDF page: `61`
 
 #### Pair Summary
 
-Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+Soul mates. One’s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `66`; PDF page: `32` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief
+German pair summary (transcribed from printed page `66`; PDF page `32`):
+
+> Ich verbinde, meine Beziehungen, meine Bindungen, meine Kontakte, Minute einer Verbindung, Seelen-Begegnung, Seelen-Verbindung, seelische Kontakte, seelische Verbindung, Selbst-Verknüpfung
+
+Editorial translation from the German passage: I connect, my relationships, my bonds, my contacts, minute of a connection, encounter of souls, connection of souls, soul contacts, soul connection, self-linking.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `303`; PDF page: `305` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -109,7 +121,7 @@ Associations of people with the same interests. Friends with the same outlook on
 
 #### Probable Manifestations
 
-+ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M
++ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -161,14 +173,17 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: personally significant bonds and shared aims that help shape one's development or life course ([Pair Summary](#pair-summary); [Pair Delineation](#pair-delineation); [Basic Ideas](#basic-ideas)).
+- psychology: seeking inner understanding and common ideals can support growth; inconstancy, private interests overriding group aims, and fear of abandoning old security can obstruct it ([Psychological Correspondence](#psychological-correspondence); [Sandbach's Principle](#principle-1)).
+- body/health: Ebertin's astral-body and soul language is historical esoteric doctrine; Munkasey describes psychological adaptation to roots and encounters with qualified advisers, not a diagnosis ([Biological Correspondence](#biological-correspondence); [With Body or Mind](#with-body-or-mind)).
+- social/relationship: compatible friends, professional contacts, shared outlooks, and supportive allies recur; familiarity or good intentions can also drain resources or lead someone astray ([Sociological Correspondence](#sociological-correspondence); [In Your Relationships](#in-your-relationships)).
+- events/manifestations: taking the initiative to meet, entering a functioning group, forming an association, receiving aid, and revising old obligations are named expressions ([Pair Delineation](#pair-delineation); [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: Spiritual development, social affinities and contact moment remain distinct source emphases. ABC Selbst-Verknüpfung is literal self-linking, without an explained technical method.
 
 ## Related Activations
+
+- [Node/MC = MC](../activations/node-mc-equals-mc.md)
+- [Node/MC = Node](../activations/node-mc-equals-node.md)
 
 - [Node/MC = Admetos](../activations/node-mc-equals-admetos.md)
 - [Node/MC = Apollon](../activations/node-mc-equals-apollon.md)
@@ -194,15 +209,16 @@ Psychological coping or adaptation with your roots or origins; encounters with t
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Supportive and misleading associations remain alternatives. The scan restores Selbst-Verknüpfung rather than the former self relief; Ebertin's following heading is excluded without changing its esoteric biological claims.
+
+ABC's complete bold pair list was checked against printed66/PDF32; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC` is the axis of life-shaping association, shared purpose, and bonds that affect destiny, status, or direction in the world. It combines affiliation, alliance, and mutual interests with vocation, maturity, authority, and the formation of one's public course.
-- Chart expression: meaningful partnerships, group aims, companions who influence development, and the need to grow through associations that align with one's evolving path. Liabilities: inconstancy in shared aims, being led astray by familiar or well-intentioned people, and sacrificing the larger direction of life to shallow belonging or borrowed purpose.
+`Node/MC` concerns personally meaningful associations that influence how someone develops and participates in the world. Emotional and professional bonds in the [pair summary](#pair-summary) meet the wish for shared ideals and inner understanding in [Ebertin's account](#psychological-correspondence). [Hand](#pair-delineation) emphasizes initiating contact and becoming part of a functioning group, while [Munkasey](#basic-ideas) follows the friends and allies who help a person mature. A connection matters here through the direction and development it supports, rather than through belonging alone.
+
+The same field includes unstable common aims, private interests taking precedence, or familiar and well-intentioned people whose help proves unsuitable ([Ebertin](#probable-manifestations); [Munkasey](#in-your-relationships)). [Sandbach](#principle-1) adds the specific task of releasing old forms of spiritual security and revising one's relationship to authority. Witte's moment of contact and Munkasey's aid, social-class, and sexual examples remain within the wider range, without defining every bond. Damaged ABC “self relief” and historical esoteric health language establish no further confident personal or medical conclusion.
 
 ## Links
 

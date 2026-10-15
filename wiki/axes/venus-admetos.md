@@ -66,19 +66,36 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+- PDF page: 187.
+
 Connected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heartlessness. Death of love. Without sensation. Limited feeling.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Admetos`
+- Printed pages: `292-293`; PDF page: `145` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Blocked joy, depression in love, depressing artificiality, limitation of love, limitation of se:htinity, consolidation of love, groinish affection, enhancement of joy, and deepening of harmony
+Blocked joy, depression in love, depressing art, restriction of love, restriction of beauty, consolidation of love, profound affection, suppression of joy, and deepening of harmony.
+
+## Comparative Schema
+
+- core meaning: Affection narrowed to a few people, with the possibility of deep commitment or severely limited feeling ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Selectivity, inwardness and meditation accompany fidelity; repression, numbness and depressed enjoyment describe the restrictive range.
+- body/health: Witte's historical terms "frigidity" and "without sensation" appear in an affectional context; the entries establish no separate bodily mechanism.
+- social/relationship: Few but deep friendships and unselfish love stand alongside consolidation, emotional withdrawal and the end of a love.
+- events/manifestations: Witte includes endings of affection and deaths of female persons; these remain attributed historical claims. Udo also extends restriction to beauty and art.
+- conflicts/notes: Deepening harmony and suppressing joy both appear in Udo's summary; consolidation of affection and restriction of feeling remain distinct possibilities, without deciding a particular attachment's outcome.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Blocked joy, depression in love, depressing artificiality, limitation of love, l
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos`: connected in love and friendship with a few.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Admetos` concentrates affection: love and friendship may involve few people yet carry fidelity, unselfishness and unusual depth. The same narrowing can become a restriction of feeling, with repressed affection, inward withdrawal or an ending of love. This range connects Witte's selective, deep attachments with Udo's consolidation of love and deepening of harmony ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+
+Depth therefore coexists with the possibility of emotional closure. Blocked enjoyment, depression in love and suppression of joy belong to the restrictive side of the pair; meditation and turning inward are also explicitly named. Restriction also extends to art and beauty. The entries support both enduring closeness and diminished access to feeling, without deciding which form a particular attachment takes; Witte's death examples remain historical source claims rather than a forecast ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)). Each closing factor requires its own oriented activation.
 
 ## Links
 

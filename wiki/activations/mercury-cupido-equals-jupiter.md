@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Cupido](../axes/mercury-cupido.md)
 - Triad hub: [Mercury Jupiter Cupido](../triads/mercury-jupiter-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Cupido`
+- Source locator: PDF p. `166` (complete oriented entry; scan checked; no printed page number visible).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Fortunate through sociable entertainment with others or through artistic thought
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Cupido`
+- Source locator: printed p. `254`, PDF p. `126` (entry).
+- Text basis: raw PDF p. `126` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Movement joy of a community, successful language community, successful young community, joy through artificial language, common financial language, common youth joys, common legal thinking, and legal talk for of a community
+A community's enjoyment of movement, a successful conversation community, a successful young community, joy through conversations about art, shared financial conversations, shared youth pleasures, shared legal thinking, and adjudication for a community.
+
+## Comparative Schema
+
+- core meaning: Sociability, artistic thought, and shared plans have fortunate or successful expressions.
+- psychology: Joy in activity and in discussing art are ABC emphases.
+- body/health: No bodily or health statement is supplied.
+- social/relationship: Successful conversation groups and shared youth enjoyment are named.
+- events/manifestations: Successful common plans, jewelry products, financial discussion, and adjudication for a community are recorded.
+- conflicts/notes: Jewelry is a specific Witte example; decorative abundance is a broader inference not established here.
+
+## Contradictions
+
+The entries supply different examples within this orientation; no direct contradiction is established, and repeated themes are not proof of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Jupiter` brightens the axis through fortunate sociability and successful shared plans.
-- Chart expression: luck through social entertainment, artistic ideas that prosper, cooperative plans that work out well, and an atmosphere of decorative abundance or ornamentation.
+In `Mercury/Cupido = Jupiter`, Jupiter specifies Mercury/Cupido through favorable social and artistic cooperation. [Witte](#witte-entry) links sociable entertainment and artistic thoughts with good fortune, successful shared plans, and jewelry products. [ABC](#abc-entry) adds joy in activity or art discussion, successful groups, and shared financial or legal concerns. These are source possibilities rather than a promise that group plans will succeed.
 
 ## Links
 

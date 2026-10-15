@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Mercury`
 - Astronomicon triad-set: `VP S T`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Mercury = Vernal Point](../activations/sun-mercury-equals-vernal-point.md)
-- [Vernal Point/Mercury = Sun](../activations/vernal-point-mercury-equals-sun.md)
-- [Vernal Point/Sun = Mercury](../activations/vernal-point-sun-equals-mercury.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Mercury = Vernal Point](../activations/sun-mercury-equals-vernal-point.md) | [Sun/Mercury](../axes/sun-mercury.md) | Vernal Point |
+| [Vernal Point/Mercury = Sun](../activations/vernal-point-mercury-equals-sun.md) | [Vernal Point/Mercury](../axes/vernal-point-mercury.md) | Sun |
+| [Vernal Point/Sun = Mercury](../activations/vernal-point-sun-equals-mercury.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Mercury |
 
 ## Source Coverage
 
-- `Sun/Mercury = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
-- `Sun/Mercury = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `142`
-- `Vernal Point/Mercury = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
-- `Vernal Point/Mercury = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `28`
-- `Vernal Point/Sun = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `22`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Mercury = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mercury-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `103`.
+- `Sun/Mercury = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mercury-equals-vernal-point.md#abc-entry), printed p. `142`.
+- `Vernal Point/Mercury = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-mercury-equals-sun.md#witte-entry), one-based PDF entry-start p. `40`.
+- `Vernal Point/Mercury = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-mercury-equals-sun.md#abc-entry), printed p. `28`.
+- `Vernal Point/Sun = Mercury`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-mercury.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Mercury`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-mercury.md#abc-entry), printed p. `22`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mercury = Vernal Point`: This formula emphasizes thoughts shaped by the environment and identity expressed through immediate circumstances.
-- `Vernal Point/Mercury = Sun`: This formula emphasizes thoughts are focused upon a certain object or matter, focussed thought, topics of conversation, and condition of the nerves.
-- `Vernal Point/Sun = Mercury`: This formula emphasizes young body, relating to youth, to be in motion, thoughts of many people on a day, and body on the move.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

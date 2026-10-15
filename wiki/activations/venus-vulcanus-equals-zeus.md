@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
 - Triad hub: [Venus Zeus Vulcanus](../triads/venus-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-To attend to duty with love and care. To like old things or antiques. To be attracted to dirty things or matters.
+- PDF page: 188 (one-based; scanned row checked).
+
+The ability to control the sexual urge, the vegetative events or proceedings of the body. Autogenic training, the ability to control oneself.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning love influence, influential artistic achievement, joy over procreation power, tremendous artificial achievements, powerful efforts in love, powerful peace efforts, strong artificial direction, and preference for tremendous achievements
+- Source page: 295; PDF page: 146 (one-based spread).
+
+Beginning influence of love, influential artistic achievement, joy in procreative power, tremendous artistic achievements, powerful efforts in love, powerful peace efforts, strong artistic direction, and preference for tremendous achievements
+
+## Comparative Schema
+
+- core meaning: Self-control or directed powerful effort in love and artistic creation.
+- psychology: The ability to control oneself is explicit in Witte.
+- body/health: Witte's sexual and vegetative self-control and autogenic training are historical claims, not medical guidance.
+- social/relationship: Powerful efforts in love and joy in procreative power.
+- events/manifestations: Influential artistic work, strong artistic direction, and powerful peace efforts.
+- conflicts/notes: The former Witte passage belonged to Hades; the Zeus glyph owns the self-control paragraph.
+
+## Contradictions
+
+Witte emphasizes self-control and ABC powerful directed effort. They are distinct emphases, with no claim that artistic effort proves control of bodily functions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Zeus`: to attend to duty with love and care.
-- Practical expression: beginning love influence, influential artistic achievement, tremendous artificial achievements, and powerful efforts in love.
+In `Venus/Vulcanus = Zeus`, Zeus specifies the pair through self-control or the direction of powerful effort. The scanned [Witte entry](#witte-entry) names the ability to control oneself, including historical sexual and bodily claims and autogenic training. The [ABC entry](#abc-entry) gives directed effort a creative setting in influential art, strong artistic direction, and powerful efforts toward love or peace. These support control and purposeful expression as related themes without turning the bodily doctrine into medical advice.
 
 ## Links
 

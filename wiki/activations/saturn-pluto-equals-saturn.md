@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Saturn`
 - Astronomicon formula: `W/Z = W`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -41,22 +43,21 @@ Becoming more realistic about what is good and what is bad in your life; increas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Realistic appraisal of what should remain in one's life and what should end.
+- psychology: Examining what is good or bad and deciding what to retain or eliminate.
+- body/health: No bodily or health claim appears in this entry.
+- social/relationship: No particular relationship is specified; retribution is mentioned without an agent or cause.
+- events/manifestations: Decisions about continuation or elimination; severe retribution is a source-attributed possibility.
+- conflicts/notes: The entry does not explain when retribution occurs or establish it as inevitable.
 
 ## Contradictions
 
-- None recorded yet.
+This single entry links appraisal and elimination while adding a severe possible consequence. It supplies no second source or conditions that establish a contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Saturn`: Becoming more realistic about what is good and what is bad in one's life; increases need to examine all that continues in one's life and what can be eliminated and what can be kept; can bring terrible retributions.
+In `Saturn/Pluto = Saturn`, Saturn specifies development through a realistic inventory of one's life: what continues is examined, and choices concern what can be retained or eliminated ([Munkasey](#munkasey-entry), p. 294). The entry also names “terrible retributions” as a possibility, without giving a cause, agent or condition. That severe phrase remains attributed to the source and cannot establish a specific consequence from the formula alone.
 
 ## Links
 

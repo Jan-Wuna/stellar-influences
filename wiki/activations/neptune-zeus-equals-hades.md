@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Hades`
 - Astronomicon formula: `Y/£ = ¢`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Damages caused by firedamp. Fire losses by gas mixtures.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Disappointment of metaphysical goals, grief caused by fire water, criminal movement indiscriminate, disadvantages caused by unclear objective, unknown criminal movement, unsafe beginning in secret, and insecurity caused by lack of leadership
+Privations for metaphysical goals, sorrow through Feuer-Wasser, dissolving criminal leadership, disadvantages through unclear aims, unknown criminal leadership, an uncertain beginning in secret, and insecurity through lack of leadership
+
+ABC's chapter heading glosses Feuer-Wasser as alcohol (printed p. 396, PDF p. 197).
+
+## Comparative Schema
+
+- core meaning: loss or insecurity in particular hazardous or poorly directed circumstances.
+- psychology: unclear aims and sorrow are named.
+- body/health: fire damage and alcohol-related sorrow are source examples, not a diagnosis.
+- social/relationship: criminal leadership and its dissolution appear as alternatives.
+- events/manifestations: Witte specifically names firedamp and fire losses from gas mixtures.
+- conflicts/notes: the passages do not establish that every hidden condition is dirty or toxic.
+
+## Contradictions
+
+Witte gives specific gas-fire losses. ABC adds privation, unclear aims, deficient or criminal leadership and its dissolution; these should not be reduced to one physical mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Hades`: Damages caused by firedamp. Fire losses by gas mixtures.
-- Hidden, dirty, or toxic fire conditions are emphasized here, with destructive gas mixtures or firedamp bringing damage and loss.
-- Practical expression: disappointment of metaphysical goals, grief caused by fire water, criminal movement indiscriminate, disadvantages caused by unclear objective, and unknown criminal movement.
+Neptune/Zeus = Hades connects uncertain direction with privation or damage. [Witte](#witte-entry) gives the specific examples of firedamp and fire losses from gas mixtures. [ABC](#abc-entry) adds unclear aims, deficient or criminal leadership, and dissolving that leadership, as well as sorrow through Feuer-Wasser, glossed as alcohol in the chapter heading (printed pp. 396–397, PDF p. 197). The examples remain distinct; they do not imply that every concealed activity is toxic or criminal.
 
 ## Links
 

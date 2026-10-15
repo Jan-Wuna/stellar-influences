@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,25 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Zeus Kronos`
 - Astronomicon triad-set: `X £ ¤`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Uranus/Kronos = Zeus](../activations/uranus-kronos-equals-zeus.md)
-- [Uranus/Zeus = Kronos](../activations/uranus-zeus-equals-kronos.md)
-- [Zeus/Kronos = Uranus](../activations/zeus-kronos-equals-uranus.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Uranus/Kronos](../axes/uranus-kronos.md) | `Zeus` | [Uranus/Kronos = Zeus](../activations/uranus-kronos-equals-zeus.md) |
+| [Uranus/Zeus](../axes/uranus-zeus.md) | `Kronos` | [Uranus/Zeus = Kronos](../activations/uranus-zeus-equals-kronos.md) |
+| [Zeus/Kronos](../axes/zeus-kronos.md) | `Uranus` | [Zeus/Kronos = Uranus](../activations/zeus-kronos-equals-uranus.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Uranus/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `381`
-- `Uranus/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
-- `Uranus/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `379`
-- `Zeus/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
-- `Zeus/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `451`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Uranus/Kronos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-kronos-equals-zeus.md#witte-entry), one-based PDF entry-start p. `239`.
+- `Uranus/Kronos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-kronos-equals-zeus.md#abc-entry), printed p. `381`.
+- `Uranus/Zeus = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-zeus-equals-kronos.md#witte-entry), one-based PDF entry-start p. `238`.
+- `Uranus/Zeus = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-zeus-equals-kronos.md#abc-entry), printed p. `379`.
+- `Zeus/Kronos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-kronos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `289`.
+- `Zeus/Kronos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-kronos-equals-uranus.md#abc-entry), printed p. `451`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Uranus`: To hold money back for savings. To save money. Great losses in war or in the machine industry. To be a replacement, to train replacements, to use replacements.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

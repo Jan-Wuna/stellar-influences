@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Saturn Chiron Pluto`
 - Astronomicon triad-set: `W Chiron Z`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/Pluto = Saturn](../activations/chiron-pluto-equals-saturn.md)
-- [Saturn/Chiron = Pluto](../activations/saturn-chiron-equals-pluto.md)
-- [Saturn/Pluto = Chiron](../activations/saturn-pluto-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Pluto = Saturn](../activations/chiron-pluto-equals-saturn.md) | [Chiron/Pluto](../axes/chiron-pluto.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Chiron = Pluto](../activations/saturn-chiron-equals-pluto.md) | [Saturn/Chiron](../axes/saturn-chiron.md) | [Pluto](../factors/pluto.md) |
+| [Saturn/Pluto = Chiron](../activations/saturn-pluto-equals-chiron.md) | [Saturn/Pluto](../axes/saturn-pluto.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Chiron/Pluto = Saturn`: John, page `99`
-- `Saturn/Chiron = Pluto`: John, page `87`
-- `Saturn/Pluto = Chiron`: John, page `91`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/Pluto = Saturn`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-pluto-equals-saturn.md#sandbach-entry), one-based PDF chapter-start p. `99`.
+- `Saturn/Chiron = Pluto`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-chiron-equals-pluto.md#sandbach-entry), one-based PDF chapter-start p. `87`.
+- `Saturn/Pluto = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-pluto-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `91`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto = Saturn`: slow transformative healing and a deep test of courage around spiritual responsibility. Main caution: allowing fear or inadequacy to delay a change that insists on happening.
-- `Saturn/Chiron = Pluto` intensifies the need to understand why limitation and fear must be endured. It can transform life through profound recognition and release of fear; the caution is fixation on suffering, control, or the wound itself.
-- `Saturn/Pluto = Chiron` carries a message that even severe limits and deep fears can be transformed. It can support the transmutation of very negative emotion; the caution is to avoid coercive redemption narratives or pushing people through material that needs time and containment.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

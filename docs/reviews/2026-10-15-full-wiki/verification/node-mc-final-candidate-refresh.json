@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-10-15T16:33:09.120300+00:00",
+  "reason": "Single independently requested Node/MC apostrophe callback; unchanged validator extraction and candidate contract. Full final validator will regenerate every row.",
+  "before_candidate": {
+    "path": "wiki/axes/node-mc.md",
+    "before_sha256": "1123880b2163c524a9372616cc2805b52aa042aa786c4b4e46641551c1a6e42d",
+    "after_sha256": "8da38cc4f9fcc5cf99d2a1380131e2e2fb0bf1bfa0e9536f78f204e87ccbb791",
+    "before_page_sha256": "b46d0835462009ab597f233ce13e16fd089ee9110bd79f8463b9390a3665eb93",
+    "after_page_sha256": "f71e827c658b96dbfa7078c9d794c97dfc748c18e87c4496bd90910b8ea5b688",
+    "original_blocks_retained": false,
+    "ledger": "axes-017.jsonl",
+    "ledger_record": {
+      "path": "wiki/axes/node-mc.md",
+      "reviewer": "axes_017_018",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema described storage rather than meanings; synthesis lacked local evidence links and anchor adjacency.",
+        "Witte heading NODE/MIDHEAVEN and page 359 duplicate Munkasey metadata; evidence map gives MC + Node and PDF chapter start 61.",
+        "ABC self relief rests on damaged Selbst-VerlmUpfung; Ebertin and Sandbach retain minor extraction artifacts."
+      ],
+      "changes": [
+        "Added Identity route and six specific categories linking personal bonds, shared aims, development, group participation, misleading help, and old security.",
+        "Rewrote connected synthesis with source links and retained spiritual, social-class, sexual, moment-of-contact, and aid examples with attribution/limits.",
+        "Flagged damaged translation and conflicting metadata without altering source blocks; distinguished all known locator systems.",
+        "Bounded structural follow-up only: added exact existing oriented activation metadata and local links: Node/MC = MC, Node/MC = Node. No doctrine rereview or additional count.",
+        "Bounded locator-only follow-up: replaced demonstrably copied Witte heading/page with actual MERIDIAN + NODES PDF61 from complete exact raw pair-summary match; cleared only corresponding Witte locator caveat. No source wording, synthesis, identity or review count change; printed folio not claimed.",
+        "Bounded source closure E by /root/activation_review_035_038: Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+        "Preclosure ABC body: I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief\n"
+      ],
+      "verification": [
+        "Read all 216 original lines without truncation, including all six source blocks and companion link.",
+        "Read every source-evidence record for this page, including German ABC wording and source locator granularity.",
+        "Inspected actual git diff and revised prose against the full entries.",
+        "Before-snapshot comparison confirms source entries/frontmatter unchanged; anchor adjacency, six categories, Identity route, and local file targets passed.",
+        "Matched every added formula to its actual activation frontmatter normalized_formula and exact axis; verified final metadata equals complete actual formula set, local targets exist, all other frontmatter and prose/source sections remain identical to pre-correction file.",
+        "Personally read complete actual raw matching pair passage and source-native heading, then inspected exact locator/caveat replacement. Asserted all source wording, Derived Synthesis, identity metadata and other text remain identical to pre-follow-up file. Existing original record amended in place.",
+        "Closure E: read actual flagged current source paragraphs and existing owner record; personally inspected docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png; docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png; source-native identity, summary boundary, locator and dependent prose checked. Existing review count unchanged."
+      ],
+      "unresolved": [
+        "ABC Selbst-Verknüpfung is legible and rendered literally as self-linking; the short list supplies no defined technique."
+      ],
+      "evidence": [
+        "Witte Pair Summary and ABC Pair Summary: close/emotional/professional bonds and contact moment.",
+        "Ebertin Principle, Psychological/Sociological Correspondence and Probable Manifestations: personal associations, common ideals, competing personal interests.",
+        "Sandbach Principle/Process: spiritual development, security, and authority; Hand Pair Delineation: initiative and functioning groups.",
+        "Munkasey Basic Ideas and personal/relationship/body/politics fields: maturation, unsuitable help, roots, aid, class and sexual examples.",
+        "verification/axes-bounded-witte-locators-raw.txt: node-mc actual PDF61 complete exact pair-summary match.",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png"
+      ]
+    },
+    "source_proof_pointers": [
+      "docs/reviews/2026-10-15-full-wiki/evidence/axes-017.jsonl: path=wiki/axes/node-mc.md"
+    ],
+    "approved": false,
+    "diff": "--- before Source Entries\n+++ current Source Entries\n@@ -1,7 +1,7 @@\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n \n-- Source heading: `NODE/MIDHEAVEN`\n-- Source page: `359`\n+- Source heading: `MERIDIAN + NODES`\n+- PDF page: `61`\n \n #### Pair Summary\n \n@@ -9,11 +9,19 @@\n \n ### Udo Rudolph - ABC for Planetary Pictures\n \n+- Printed source page: `66`; PDF page: `32` (bold pair summary checked against actual scan).\n+\n #### ABC Pair Summary\n \n-I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief\n+German pair summary (transcribed from printed page `66`; PDF page `32`):\n+\n+> Ich verbinde, meine Beziehungen, meine Bindungen, meine Kontakte, Minute einer Verbindung, Seelen-Begegnung, Seelen-Verbindung, seelische Kontakte, seelische Verbindung, Selbst-Verknüpfung\n+\n+Editorial translation from the German passage: I connect, my relationships, my bonds, my contacts, minute of a connection, encounter of souls, connection of souls, soul contacts, soul connection, self-linking.\n \n ### Reinhold Ebertin - The Combination of Stellar Influences\n+\n+- Printed page: `303`; PDF page: `305` (pair prose and boundary checked against scan).\n \n #### Principle\n \n@@ -33,7 +41,7 @@\n \n #### Probable Manifestations\n \n-+ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M\n++ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people.\n \n ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n \n"
+  },
+  "after_candidate": {
+    "path": "wiki/axes/node-mc.md",
+    "before_sha256": "1123880b2163c524a9372616cc2805b52aa042aa786c4b4e46641551c1a6e42d",
+    "after_sha256": "83f41f602ed7a10b2b4ab5df86f6efbb4e280e218b319c923f550b9f03aaa7a6",
+    "before_page_sha256": "b46d0835462009ab597f233ce13e16fd089ee9110bd79f8463b9390a3665eb93",
+    "after_page_sha256": "c4e19668b3847d65d4bad3d4a4c61f9eac32d005b3ba7f53bc3ac7dd839b9212",
+    "original_blocks_retained": false,
+    "ledger": "axes-017.jsonl",
+    "ledger_record": {
+      "path": "wiki/axes/node-mc.md",
+      "reviewer": "axes_017_018",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema described storage rather than meanings; synthesis lacked local evidence links and anchor adjacency.",
+        "Witte heading NODE/MIDHEAVEN and page 359 duplicate Munkasey metadata; evidence map gives MC + Node and PDF chapter start 61.",
+        "ABC self relief rests on damaged Selbst-VerlmUpfung; Ebertin and Sandbach retain minor extraction artifacts."
+      ],
+      "changes": [
+        "Added Identity route and six specific categories linking personal bonds, shared aims, development, group participation, misleading help, and old security.",
+        "Rewrote connected synthesis with source links and retained spiritual, social-class, sexual, moment-of-contact, and aid examples with attribution/limits.",
+        "Flagged damaged translation and conflicting metadata without altering source blocks; distinguished all known locator systems.",
+        "Bounded structural follow-up only: added exact existing oriented activation metadata and local links: Node/MC = MC, Node/MC = Node. No doctrine rereview or additional count.",
+        "Bounded locator-only follow-up: replaced demonstrably copied Witte heading/page with actual MERIDIAN + NODES PDF61 from complete exact raw pair-summary match; cleared only corresponding Witte locator caveat. No source wording, synthesis, identity or review count change; printed folio not claimed.",
+        "Bounded source closure E by /root/activation_review_035_038: Personally scan-transcribed the complete flagged ABC bold list, repaired translation/omitted clauses and dependent caveats. Preserved unrelated source blocks and amended the original unique owner record without a new review count.",
+        "Preclosure ABC body: I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief\n",
+        "Bounded source closure E by /root/activation_review_035_038: Independent bounded checker follow-up: personally inspected actual Witte PDF61 and restored only the apostrophe in One’s close personal connections; preserved all accepted ABC/Ebertin repairs and existing original review count."
+      ],
+      "verification": [
+        "Read all 216 original lines without truncation, including all six source blocks and companion link.",
+        "Read every source-evidence record for this page, including German ABC wording and source locator granularity.",
+        "Inspected actual git diff and revised prose against the full entries.",
+        "Before-snapshot comparison confirms source entries/frontmatter unchanged; anchor adjacency, six categories, Identity route, and local file targets passed.",
+        "Matched every added formula to its actual activation frontmatter normalized_formula and exact axis; verified final metadata equals complete actual formula set, local targets exist, all other frontmatter and prose/source sections remain identical to pre-correction file.",
+        "Personally read complete actual raw matching pair passage and source-native heading, then inspected exact locator/caveat replacement. Asserted all source wording, Derived Synthesis, identity metadata and other text remain identical to pre-follow-up file. Existing original record amended in place.",
+        "Closure E: read actual flagged current source paragraphs and existing owner record; personally inspected docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png; docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png; source-native identity, summary boundary, locator and dependent prose checked. Existing review count unchanged.",
+        "Closure E: read actual flagged current source paragraphs and existing owner record; personally inspected docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p61.png; source-native identity, summary boundary, locator and dependent prose checked. Existing review count unchanged."
+      ],
+      "unresolved": [
+        "ABC Selbst-Verknüpfung is legible and rendered literally as self-linking; the short list supplies no defined technique."
+      ],
+      "evidence": [
+        "Witte Pair Summary and ABC Pair Summary: close/emotional/professional bonds and contact moment.",
+        "Ebertin Principle, Psychological/Sociological Correspondence and Probable Manifestations: personal associations, common ideals, competing personal interests.",
+        "Sandbach Principle/Process: spiritual development, security, and authority; Hand Pair Delineation: initiative and functioning groups.",
+        "Munkasey Basic Ideas and personal/relationship/body/politics fields: maturation, unsuitable help, roots, aid, class and sexual examples.",
+        "verification/axes-bounded-witte-locators-raw.txt: node-mc actual PDF61 complete exact pair-summary match.",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p61.png"
+      ]
+    },
+    "source_proof_pointers": [
+      "docs/reviews/2026-10-15-full-wiki/evidence/axes-017.jsonl: path=wiki/axes/node-mc.md"
+    ],
+    "approved": false,
+    "diff": "--- before Source Entries\n+++ current Source Entries\n@@ -1,19 +1,27 @@\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n \n-- Source heading: `NODE/MIDHEAVEN`\n-- Source page: `359`\n+- Source heading: `MERIDIAN + NODES`\n+- PDF page: `61`\n \n #### Pair Summary\n \n-Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.\n+Soul mates. One’s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.\n \n ### Udo Rudolph - ABC for Planetary Pictures\n \n+- Printed source page: `66`; PDF page: `32` (bold pair summary checked against actual scan).\n+\n #### ABC Pair Summary\n \n-I bind, my relationships, my bonds, my contacts, minute of a bond, soul encounter, soul connection, psychic contacts, psychic connection, and self relief\n+German pair summary (transcribed from printed page `66`; PDF page `32`):\n+\n+> Ich verbinde, meine Beziehungen, meine Bindungen, meine Kontakte, Minute einer Verbindung, Seelen-Begegnung, Seelen-Verbindung, seelische Kontakte, seelische Verbindung, Selbst-Verknüpfung\n+\n+Editorial translation from the German passage: I connect, my relationships, my bonds, my contacts, minute of a connection, encounter of souls, connection of souls, soul contacts, soul connection, self-linking.\n \n ### Reinhold Ebertin - The Combination of Stellar Influences\n+\n+- Printed page: `303`; PDF page: `305` (pair prose and boundary checked against scan).\n \n #### Principle\n \n@@ -33,7 +41,7 @@\n \n #### Probable Manifestations\n \n-+ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people. Dragon's Head/Medium Coeli ^/M\n++ Establishment of an association for the attainment of joint objectives. Unions based on a mutual inner understanding. - Cropping up of difficulties in the pursuit of joint and common interests between people.\n \n ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n \n"
+  }
+}

@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Saturn Cupido`
 - Astronomicon triad-set: `Q W ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Cupido = Venus](../activations/saturn-cupido-equals-venus.md)
-- [Venus/Cupido = Saturn](../activations/venus-cupido-equals-saturn.md)
-- [Venus/Saturn = Cupido](../activations/venus-saturn-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Cupido = Venus](../activations/saturn-cupido-equals-venus.md) | [Saturn/Cupido](../axes/saturn-cupido.md) | [Venus](../factors/venus.md) |
+| [Venus/Cupido = Saturn](../activations/venus-cupido-equals-saturn.md) | [Venus/Cupido](../axes/venus-cupido.md) | [Saturn](../factors/saturn.md) |
+| [Venus/Saturn = Cupido](../activations/venus-saturn-equals-cupido.md) | [Venus/Saturn](../axes/venus-saturn.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Saturn/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
-- `Saturn/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `354`
-- `Venus/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `283`
-- `Venus/Saturn = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `275`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Saturn/Cupido = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-cupido-equals-venus.md#witte-entry), one-based PDF entry-start p. `224`.
+- `Saturn/Cupido = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-cupido-equals-venus.md#abc-entry), printed p. `354`.
+- `Venus/Cupido = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-saturn.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-saturn.md#abc-entry), printed p. `283`.
+- `Venus/Saturn = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-cupido.md#witte-entry), one-based PDF entry-start p. `178`.
+- `Venus/Saturn = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-cupido.md#abc-entry), printed p. `275`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Saturn`: separated marital happiness.
-- `Venus/Saturn = Cupido`: passing harmony with associates.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

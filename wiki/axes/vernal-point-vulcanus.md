@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `54`, chapter heading `ARIES + VULCANUS` (normalized here as Vernal Point/Vulcanus).
 
 Power, might and forces in general. Extraordinary energies in general or on Earth. Energies of the earth body. Violence in the general public.
 
@@ -78,7 +82,20 @@ Power, might and forces in general. Extraordinary energies in general or on Eart
 
 #### ABC Pair Summary
 
-Influence in the public life, energy in the public fifties, violence in the public, public power, strong in the public, and world power
+Source reference: printed page `56`, PDF page `27`, bold pair summary.
+
+Source wording: "Einflußreiche Öffentlichkeit, Einfluß im öffentlichen Leben, Energie im öffentlichen Leben, Energien der Welt, Gewalt in der Öffentlichkeit, öffentliche Macht, Stärke in der Öffentlichkeit, Welt-Macht".
+
+Editorial translation, checked against the scan: An influential public; influence in public life; energy in public life; energies of the world; force or violence in public life; public power; strength in public life; world power.
+
+## Comparative Schema
+
+- Core meaning: Power, might, and extraordinary force in the public world or in the Earth itself.
+- Psychology: The entries do not establish a personal temperament or a method of exercising self-control.
+- Body/health: The "earth body" is the Earth in the pair summary; no human bodily condition is specified.
+- Social/relationship: Public influence, strength, power, and violence, extending to the ABC entry's world-power theme.
+- Events/manifestations: Extraordinary terrestrial energies and force or violence in public life; no particular event is required by the pair alone.
+- Conflicts/notes: Public influence and public violence are both represented. Energy in public life and energies of the world replace the damaged cached phrase "energy in the public fifties".
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Influence in the public life, energy in the public fifties, violence in the publ
 - [Vernal Point/Vulcanus = Venus](../activations/vernal-point-vulcanus-equals-venus.md)
 - [Vernal Point/Vulcanus = Zeus](../activations/vernal-point-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Witte emphasizes force in general and the Earth's energies, while ABC concentrates on public influence and power. These are different settings for the theme, not a direct contradiction. The ABC summary is a labeled translation checked against printed page `56`; no numerical or age-related meaning is supported by its former "public fifties" wording.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes power, might and forces in general, extraordinary energies in general or on Earth, energies of the earth body, and violence in the general public.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Vernal Point/Vulcanus` concerns power on a public or terrestrial scale. The [pair summary](#pair-summary) places extraordinary energy in the Earth as well as in general life, and explicitly includes public violence. The [ABC pair summary](#abc-pair-summary) gives the social range as public influence, energy, strength, public power, and world power.
+
+What unifies these meanings is the presence and reach of force, whether physical or exercised in public life. The entry does not specify a leadership style, a personal health condition, or a particular catastrophe. Its violent possibilities remain part of the range without becoming the required outcome of every instance.
 
 ## Links
 

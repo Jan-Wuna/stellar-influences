@@ -46,13 +46,27 @@ updated_at: 2026-04-21
 - Axis: `Saturn/Saturn`
 - Astronomicon axis: `W/W`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `SATURN + SATURN`
+- PDF page (one-based): `219` (exact pair passage checked in raw PDF text).
+
 #### Pair Summary
 
 Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistances, delays. Long and lasting effect. Perseverance, persistence, thoroughness, slowness, alienation, loneliness, cold, old age, firmness, hardness, hardening, deposits, displeasure, stinginess, envy.
+
+## Comparative Schema
+
+- core meaning: restriction and delay together with persistence, thoroughness, and a long-lasting effect ([pair summary](#pair-summary)).
+- psychology: perseverance and firmness coexist with displeasure, envy, and the source's description of stinginess.
+- body/health: cold, old age, hardness, hardening, and deposits are source vocabulary; no particular disease or medical explanation is established here.
+- social/relationship: alienation, loneliness, separation, and the effect of withholding or displeasure in contact.
+- events/manifestations: obstacles, resistance, slowness, losses, and lasting consequences.
+- conflicts/notes: this single Witte entry is a self-pair, not evidence that a second independent factor doubles Saturn's effects. Its persistence and hindrance meanings are alternatives within the same list.
 
 ## Related Activations
 
@@ -81,8 +95,9 @@ Restriction. Inhibitions. To hinder. Separations. Losses. Difficulties, resistan
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on restriction, inhibitions, to hinder, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Saturn` brings together limits and duration in one self-pair: things are hindered, delayed, or separated, yet they may also persist or have a long-lasting effect. The [pair summary](#pair-summary) explicitly places perseverance and thoroughness alongside resistance and slowness. The shared theme is what holds, hardens, or takes time; the list does not make persistence automatically beneficial or delay inevitably final.
+
+Alienation, loneliness, displeasure, stinginess, and envy describe the source's harder social and psychological range. Cold, old age, hardening, and deposits remain its physical vocabulary without establishing a diagnosis. This is one brief Witte account, and its self-pair structure supplies no warrant for a claim of doubled intensity or for borrowing outcomes from the linked activation pages.
 
 ## Links
 

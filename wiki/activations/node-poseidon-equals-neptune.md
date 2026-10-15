@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Neptune Node Poseidon](../triads/neptune-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Relations to high minded people. Dissolution of present relations.
 
 #### ABC Entry
 
-disappointment in a spiritual connection, sensitivity in a spiritual relationship, ideal connection in the air, mediating clear water, cultural contacts for the future, and spiritual development in a connection
+Disappointment in a mental or spiritual connection, sensitivity in a mental or spiritual relationship, an ideal connection in the air, mediating clear water, clarity through a connection with metaphysics, cultural contacts for the future, connection with foreign cultures.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 239, PDF p. 118.
+
+- Core meaning: Sensitive or uncertain intellectual and spiritual ties.
+- Psychology: Disappointment, sensitivity and an ideal connection still in the air.
+- Body/health: Clear-water mediation is a literal ABC example, not a health claim.
+- Social/relationship: Relations with high-minded people or foreign cultures.
+- Events/manifestations: Dissolution of existing relations and future cultural contacts.
+- Conflicts/notes: ABC's former final phrase belonged to the following Pluto paragraph.
+
+## Contradictions
+
+Witte's dissolution and ABC's sensitivity or future contacts are different possibilities. The scanned Neptune passage ends with foreign cultures; it does not include Pluto's spiritual development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Neptune`: Relations to high minded people. Dissolution of present relations.
-- Practical focus: relations to high minded people; also dissolution of present relations.
+Neptune specifies `Node/Poseidon` through a mental or spiritual relationship that may be sensitive, uncertain or dissolving. The [Witte Entry](#witte-entry) joins high-minded association with the ending of existing relations; the corrected [ABC Entry](#abc-entry) includes disappointment, sensitivity, metaphysical interests and contacts with foreign cultures. These are several possibilities within the entry, rather than a rule that an ideal connection must fail.
 
 ## Links
 

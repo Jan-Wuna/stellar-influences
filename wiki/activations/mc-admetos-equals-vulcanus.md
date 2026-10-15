@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [MC Admetos Vulcanus](../triads/mc-admetos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Great perseverance and powers of resistance.
 
 #### ABC Entry
 
-Influence by psychic depth, end of psychic violence, consolidation by the power of the soul, violent drifting of the soul, my strengthened influence, my blocked power, my restricted power, and strong psychic resistance
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+Influence through inner depth, end of inner violence, consolidation through the power of the soul, violent suppression of the soul, my consolidated influence, my blocked power, my restricted strength, strong inner resistance.
+
+## Comparative Schema
+
+- **Core meaning:** Great persistence and resistance, with constrained power also represented.
+- **Psychology:** Strong inner resistance and firmness are explicit.
+- **Body/health:** No particular bodily disorder is established by these entries.
+- **Social/relationship:** Influence and the end of psychic violence are ABC's relational possibilities.
+- **Events/manifestations:** Consolidating influence or finding one's power blocked are stated alternatives.
+- **Conflicts/notes:** ABC's violent suppression is distinct from the end of inner violence, blocked power and restricted strength; these are attributed alternatives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Vulcanus` massively strengthens the axis through exceptional endurance and resistance.
-- Chart expression: great staying power, formidable toughness, and a life stance able to bear pressure, opposition, or strain for a very long time.
+Vulcanus specifies `MC/Admetos` through pronounced perseverance and resistance. That strength can consolidate personal influence, yet ABC also describes blocked power and restricted force; the orientation includes both the capacity to withstand pressure and the limits imposed on one's power. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

@@ -28,12 +28,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS With Itself`
-- Source page: `82`
+- Source locator: printed p. `82`, PDF p. `83` (Sun row under With Itself; raw scan checked).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Enhances needs to be known as an independent person and one who is your own self
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Independence and individuality are emphasized through the repeated Sun activation.
+- psychology: Determination to follow distinct and original objectives is central.
+- body/health: No body or health claim is stated in this entry.
+- social/relationship: The wish to be known as independent is explicit; a particular relationship outcome is not.
+- events/manifestations: Proceeding with original life objectives is the supplied practical expression.
+- conflicts/notes: This is one source's repeated-factor row; it does not supply an external event prediction.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-factor entry is present; a comparison between sources is not available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Sun`: Enhances needs to be known as an independent person and one who is one's own self; concern shown for personal freedoms and individuality; one's determination to to proceed with distinct and original objectives in life.
+In `Sun/Uranus = Sun`, the repeated Sun emphasizes being known as an independent person and maintaining personal freedom. This concern takes direction through determination to pursue distinct and original objectives ([Munkasey](#munkasey-entry), printed p. 82, Sun row). The passage supports a focused account of individuality and chosen aims; it supplies no specific bodily condition or inevitable external event.
 
 ## Links
 

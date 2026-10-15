@@ -1,0 +1,446 @@
+{
+  "batch": "source-closure-A023-024",
+  "status": "stable_pending_independent_audit",
+  "targets": 15,
+  "repaired": 12,
+  "already_substantively_repaired": 2,
+  "genuine_printed_limit": 1,
+  "review_counts_added": 0,
+  "original_ledger_counts": {
+    "activations-023.jsonl": 55,
+    "activations-024.jsonl": 55
+  },
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A023-024-decisions.jsonl",
+  "scope": "Exact source-closure-A-queue targets whose original ledger basename is activations-023.jsonl or activations-024.jsonl; no other paths.",
+  "independent_auditor": "/root/activation_review_063_066",
+  "verification": {
+    "complete_saved_text_equals_intended": true,
+    "frontmatter_unchanged": true,
+    "stable_anchor_adjacent": true,
+    "six_categories": true,
+    "local_file_links_exist": true,
+    "unique_existing_owners": true,
+    "every_current_full_owner_equals_intended": true,
+    "stage_paths_remaining": [],
+    "failures": [],
+    "scope_limits": "Only flagged source blocks and newly repaired ABC rows/added locators receive this closure check; other inherited source prose gains no new factual certification. Three already repaired targets were personally scan checked for exact flags, not closed by bank membership."
+  },
+  "bindings": [
+    {
+      "id": "A023024-001",
+      "path": "wiki/activations/mars-apollon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 4,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "7d75843c1ad27f3c514c890014f5fbee87a8259a1340c160fca000b91b96f93f",
+      "canonical_file_bytes_sha256": "7d75843c1ad27f3c514c890014f5fbee87a8259a1340c160fca000b91b96f93f",
+      "source_entries_sha256": "2defdda94904b7fc02ec9d620d1b4f8f58bd522cc34129ab6b06df64aa23a85a",
+      "owner_record_sha256": "1431c03eac0bd401f79b4e87b827931e0fa3226a577ec98ecd66100a73846b44",
+      "abc_clause_count": 7,
+      "actual_locators": [
+        "ABC printed317/PDF157 exact admetos glyph row",
+        "Witte PDF201 exact admetos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-002",
+      "path": "wiki/activations/mars-apollon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 5,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "44be332569503b6217da2400546a147e696bcfdaac63ad36835b85d107916373",
+      "canonical_file_bytes_sha256": "44be332569503b6217da2400546a147e696bcfdaac63ad36835b85d107916373",
+      "source_entries_sha256": "91aebdad91a498da5ccf57666ab33b19653e653abd96b533ad52e54207a1c621",
+      "owner_record_sha256": "2acddfb220151ca9a2bbbf040f57d57f5d3ab63f330106e5de1d325560c71924",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact asc glyph row",
+        "Witte PDF201 exact asc row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-003",
+      "path": "wiki/activations/mars-apollon-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 7,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "e372261032a6faaeb2f7c7206082c4659fcdf8ba6d6621cc147d62b506f2995f",
+      "canonical_file_bytes_sha256": "e372261032a6faaeb2f7c7206082c4659fcdf8ba6d6621cc147d62b506f2995f",
+      "source_entries_sha256": "2fed7fa52a7a75964a00b603736b542125b090a281392200590cfe907a35a900",
+      "owner_record_sha256": "a65d0de1e14054bcf2a38bb13ffa2e90364b8f8e287e9cad850ac74c0b4a34b4",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed317/PDF157 exact hades glyph row",
+        "Witte PDF201 exact hades row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-004",
+      "path": "wiki/activations/mars-apollon-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 8,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "bf32e0278f716e2075ec067dc9055015f18c34763546f69aa963ce387594c88a",
+      "canonical_file_bytes_sha256": "bf32e0278f716e2075ec067dc9055015f18c34763546f69aa963ce387594c88a",
+      "source_entries_sha256": "42654a8d9e4caae4cb79a2ac04d2fcff4514340e4f28e14ab163aeb5aea90b8c",
+      "owner_record_sha256": "9956315181333ea7472e6f69c2482670926fd5abea9d003cfd21314efb75dff5",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact jupiter glyph row",
+        "Witte PDF201 exact jupiter row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-005",
+      "path": "wiki/activations/mars-apollon-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 10,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "a815cd04d4c369c4f5887d149b1f0a87994a7a1c10271d97de7e174699bf42f1",
+      "canonical_file_bytes_sha256": "a815cd04d4c369c4f5887d149b1f0a87994a7a1c10271d97de7e174699bf42f1",
+      "source_entries_sha256": "6d6aa05a27501ac1ba2f8b0c191e7efe64c6742029e039079fbc2359ea740813",
+      "owner_record_sha256": "dde378a26179bad04fdf3862239a38946250e40abd0335052358bd871f49cab7",
+      "abc_clause_count": 9,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact mc glyph row",
+        "Witte PDF201 exact mc row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": [
+        "Successful treatment of the soul remains a historical source claim, not demonstrated therapeutic efficacy."
+      ]
+    },
+    {
+      "id": "A023024-006",
+      "path": "wiki/activations/mars-apollon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 12,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "fe017b3e6b4e03265ea5d95c2486765d078c0ca1cc4af06cfc1f1ada24fce827",
+      "canonical_file_bytes_sha256": "fe017b3e6b4e03265ea5d95c2486765d078c0ca1cc4af06cfc1f1ada24fce827",
+      "source_entries_sha256": "d7a845b28c6bec548ae53f183806334ad14e43fff4099851fa9130ac6c77ec10",
+      "owner_record_sha256": "f8fa74bbd9f7bf3599a9c2709fed613f693ceaadb462ba5d5039572c216d13d9",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact moon glyph row",
+        "Witte PDF201 exact moon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": [
+        "Woman-specific phrases are preserved as historical source wording, not a universal gender rule."
+      ]
+    },
+    {
+      "id": "A023024-007",
+      "path": "wiki/activations/mars-apollon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 13,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "b8706ff7971ec77a2b3429905d8bc375eca405de848eb9c8d9596734771d51b8",
+      "canonical_file_bytes_sha256": "b8706ff7971ec77a2b3429905d8bc375eca405de848eb9c8d9596734771d51b8",
+      "source_entries_sha256": "9c705c8f9fa6725d8d12ec93a9fa53976bf58f684463de4e45bec2293eeba70c",
+      "owner_record_sha256": "d04e197cda103199252c454fce713a3162e320c231abe4b44d9291c917363e04",
+      "abc_clause_count": 7,
+      "actual_locators": [
+        "ABC printed317/PDF157 exact neptune glyph row",
+        "Witte PDF201 exact neptune row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-008",
+      "path": "wiki/activations/mars-apollon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 18,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "1975f85b052a7be824d118a55c61de3425cd8be1750d829f36648de5232e286f",
+      "canonical_file_bytes_sha256": "1975f85b052a7be824d118a55c61de3425cd8be1750d829f36648de5232e286f",
+      "source_entries_sha256": "f4ea4f6a1f122ba809646bf37f8aa07f8cd5e4795dd9bb7e9098df60bd1f560a",
+      "owner_record_sha256": "ce5d4837c62660bd32bdc70a0b83f67c3eea98227c5a0136a835b5c67d3ce23d",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact sun glyph row",
+        "Witte PDF201 exact sun row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": [
+        "Historical male-specific wording does not establish an exclusive capacity or a bodily diagnosis."
+      ]
+    },
+    {
+      "id": "A023024-009",
+      "path": "wiki/activations/mars-apollon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 19,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "1915bb38f242bfbd4824a57f363a9db98ab29197f21c12cccee9f15e341d2e80",
+      "canonical_file_bytes_sha256": "1915bb38f242bfbd4824a57f363a9db98ab29197f21c12cccee9f15e341d2e80",
+      "source_entries_sha256": "652c509f42f8eff7ce9d748062c9e51a0b26c27c3a16e083de76ba65a942b4f7",
+      "owner_record_sha256": "dc4f2ca5e767408acf91bb72464b276d4b72d9b10138fc121fdb01ff6541c605",
+      "abc_clause_count": 9,
+      "actual_locators": [
+        "ABC printed317/PDF157 exact uranus glyph row",
+        "Witte PDF201 exact uranus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-010",
+      "path": "wiki/activations/mars-apollon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 20,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "febbbbc43a3adca6bb2cca6a3dec112c6b451c646a514a2ef6c784051b87cfa9",
+      "canonical_file_bytes_sha256": "febbbbc43a3adca6bb2cca6a3dec112c6b451c646a514a2ef6c784051b87cfa9",
+      "source_entries_sha256": "f617de412b14bfe39bb67c02eed2b2a94ef3f51e0c7acaa1408c6eb662e48906",
+      "owner_record_sha256": "b06b5eda418fc049a8f5fc341c9587e2b54add1b70704251f79a444e007069a9",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact venus glyph row",
+        "Witte PDF201 exact venus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-011",
+      "path": "wiki/activations/mars-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 21,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "8b946494b2a3bbc5a88ca3261437d98d2b39a8fc67d76f77acbf8744c1be5440",
+      "canonical_file_bytes_sha256": "8b946494b2a3bbc5a88ca3261437d98d2b39a8fc67d76f77acbf8744c1be5440",
+      "source_entries_sha256": "9e8aac0479dfa48fd44b47391c658103cb501ecc3d2459212037ef3244bc1de1",
+      "owner_record_sha256": "75951d8960c948f27f36ac5ca21b6731a06728bf33d8c017d91c9ea882a712a6",
+      "abc_clause_count": 6,
+      "actual_locators": [
+        "ABC printed316/PDF157 exact vernal-point glyph row",
+        "Witte PDF201 exact vernal-point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-012",
+      "path": "wiki/activations/mars-apollon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 23,
+      "original_reviewer": "review_023_025",
+      "canonical_sha256": "ccfe15431dd8921f3b6d619e9b8a49992aa90f9c9f28b0b9d7e741551ae8acb9",
+      "canonical_file_bytes_sha256": "ccfe15431dd8921f3b6d619e9b8a49992aa90f9c9f28b0b9d7e741551ae8acb9",
+      "source_entries_sha256": "b3d41b461b3b69b7bbd40070b8d67f011efd4aee3142cf74d4dd1a129c268e8f",
+      "owner_record_sha256": "76f875d9ccbe49f12bb1fb3d3685fa4992a314114baf416a769d02a89f9a87e6",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed317/PDF157 exact zeus glyph row",
+        "Witte PDF201 exact zeus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf157.png",
+          "sha256": "fe719fce86344b3aa988142c190e15a0fd1b04003a4d97a0e496edffc2d54227"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf201.png",
+          "sha256": "6bb81c734d3213ccef9f7b1d5ae995c08d847725ce548d49ebba7453bdf84662"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's procreative example is a historical claim, not a fertility assessment."
+      ]
+    },
+    {
+      "id": "A023024-013",
+      "path": "wiki/activations/mars-asc-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 36,
+      "original_reviewer": "activation_review_023_044",
+      "canonical_sha256": "f77c906887525a7d7d0fa5a3e662d6d349f7d274972f66ae80dfc28572f97960",
+      "canonical_file_bytes_sha256": "8d3077d97d6d377bb3e5d45374a159b3a1f0049c1c6c852e8a376491912ab1d2",
+      "source_entries_sha256": "3b8a21016b091fab20d16a6eaf5ebb1e45a36a66457259d236a7e1a6d30fcc25",
+      "owner_record_sha256": "fe21b618a1603f68a4df7e07be0b096fb6acdfc267eff208173dac1b324c9153",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed111/PDF54 exact Neptune or Poseidon glyph row",
+        "Witte PDF85 exact Neptune or Poseidon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf054.png",
+          "sha256": "262f6dd2394ca250fc38d6b604de9231b16c586108a9f4c6ea9e6187d0fecf0d"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf085.png",
+          "sha256": "72b08c8d939ee939568e6c95e65765de604e2c08ac5e2edfdcc460af4a60255e"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A023024-014",
+      "path": "wiki/activations/mars-asc-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "ledger_line": 39,
+      "original_reviewer": "activation_review_023_044",
+      "canonical_sha256": "e0d854985f43ccf66d375bc441881a54830e71251009ca1855a65bee19ee1586",
+      "canonical_file_bytes_sha256": "e0d854985f43ccf66d375bc441881a54830e71251009ca1855a65bee19ee1586",
+      "source_entries_sha256": "c1887286f5e7e0fb31086c3a0a3b3f2165b2a9d79a17dca114dd281b922ea362",
+      "owner_record_sha256": "68f240ce16a8ac5c9ae5bb41ec97f23956267a235fa313156861219534442704",
+      "abc_clause_count": 8,
+      "actual_locators": [
+        "ABC printed111/PDF54 exact Neptune or Poseidon glyph row",
+        "Witte PDF85 exact Neptune or Poseidon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf054.png",
+          "sha256": "262f6dd2394ca250fc38d6b604de9231b16c586108a9f4c6ea9e6187d0fecf0d"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf085.png",
+          "sha256": "72b08c8d939ee939568e6c95e65765de604e2c08ac5e2edfdcc460af4a60255e"
+        }
+      ],
+      "remaining_limits": [
+        "Witte To experience comprehensive through others remains linguistically unclear; scan confirms wording, not intended meaning."
+      ]
+    },
+    {
+      "id": "A023024-015",
+      "path": "wiki/activations/mars-hades-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-024.jsonl",
+      "ledger_line": 33,
+      "original_reviewer": "activation_review_023_044",
+      "canonical_sha256": "7d7ea000963ec730390afc56206aeda54e76c9e048a1da817b922576d18406b8",
+      "canonical_file_bytes_sha256": "7d7ea000963ec730390afc56206aeda54e76c9e048a1da817b922576d18406b8",
+      "source_entries_sha256": "e84f5b0665768d72335185218253a8b6c53bc146de907bdaafa216fa0ff723ea",
+      "owner_record_sha256": "9333b1f4624355ff353ad371a976f8ab196c0c85e226eaeefcd0fd4835bddc48",
+      "abc_clause_count": 7,
+      "actual_locators": [
+        "ABC printed311/PDF154 Neptune seven-clause row before Pluto glyph",
+        "Witte printed202/PDF198 Neptune row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf154.png",
+          "sha256": "78c51395c641037ced7c9199b1f1124860aea49fbb903c487c3c55a7c64fb35e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf198.png",
+          "sha256": "d45d2dd4882d6ba5b80d5657d7d07ff8f55153e761bf1188074e0bc17203b594"
+        }
+      ],
+      "remaining_limits": []
+    }
+  ],
+  "move_fallback": "Each locked canonical file was apply_patch-moved with its intended hunks to a unique same-directory .a023024 stage and immediately apply_patch-moved back using unchanged title context. Both original ledgers likewise restored immediately with exact intended record hunks. Full-file post-read equality and absence of every stage path verified; no truncation found."
+}

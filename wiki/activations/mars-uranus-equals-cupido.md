@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Cupido`
 - Astronomicon formula: `U/X = ¡`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -44,11 +46,23 @@ Sudden wedding, also quarrels in married life. A surprise action together with o
 
 dynamic will of a community, shared work technology, shared reform activity, new community work, rhythm of a work community, tensions in shared work, create technical synthesis, and restless community activity
 
+## Comparative Schema
+
+- Core meaning: Sudden joint action and dynamic or restless community work.
+- Psychology: Shared will and tension can coexist in collective activity.
+- Body/health: No specific bodily or medical claim appears.
+- Social/relationship: Sudden marriage, marital quarrel, and cooperation are separate examples.
+- Events/manifestations: Collaborative art, technical synthesis, reform work, and new group projects.
+- Conflicts/notes: The entries do not establish that sudden union must lead to quarrel.
+
+## Contradictions
+
+Union, conflict, and creative cooperation are different possibilities within shared activity.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Cupido` shocks communal or marital bonds into sudden union, sudden quarrel, or abrupt shared activity.
-- Chart expression: sudden weddings, sudden disputes in marriage, and surprising cooperative or artistic actions that begin abruptly with others.
+In `Mars/Uranus = Cupido`, Cupido specifies spontaneous action through a community, marriage, or collaborative project. A sudden wedding or quarrel is one possibility; art, reform, and technical work with others provide equally explicit settings. The [Witte entry](#witte-entry) (PDF p. 194) and [ABC entry](#abc-entry) (printed p. 303) unite these examples through dynamic shared activity, without establishing a necessary sequence from union to disruption.
 
 ## Links
 

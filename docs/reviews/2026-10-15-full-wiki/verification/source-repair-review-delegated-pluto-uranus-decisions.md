@@ -1,0 +1,26 @@
+# Independent Pluto/Uranus source-repair decisions
+
+Verifier: `/root/source_check_saturn`. All 100 delegated sections accepted; zero held or pending. Pluto/Poseidon, Pluto/Vulcanus, Pluto/Zeus, Poseidon/Poseidon and Uranus/Vulcanus each contribute 20 exact, uniquely ledgered records. Sixty-five initial source deltas were newer than the validator snapshot. This supplemental bank records source acceptance; it adds no full-page editorial review count.
+
+Read every complete current Source Entries section, its complete reverse delta to the original before/wiki capture, and every value of its unique owning ledger record. Exact duplicate ledger strings were referenced within bounded batches, with each unique statement retained. All 180 current source blocks were read: 100 Witte and 80 ABC. Every changed substantive clause, added quotation, translation, source heading and reference was checked against actual raw source passages. The actual glyph keys had already been personally inspected during the Saturn assignment; each activator and its adjacent boundaries were checked again on these scans. Parser maps and owner assertions were leads only.
+
+Personally inspected and saved ten fresh raw-source proof pages under the source-repair-review-pluto-uranus prefix:
+
+- ABC PDF192, visibly printed386–387: Uranus/Vulcanus.
+- ABC PDF205, visibly printed412–413: Pluto/Zeus.
+- ABC PDF209, visibly printed420–421: Pluto/Vulcanus.
+- ABC PDF210, visibly printed422–423: Pluto/Poseidon.
+- Witte PDF242: Uranus/Vulcanus; PDF259: Pluto/Zeus; PDF263: Pluto/Vulcanus; PDF264: Pluto/Poseidon.
+- Witte PDF316–317: Poseidon/Poseidon, with the precise activator page checked separately for every record.
+
+All Witte references in this bundle are one-based PDF locators, distinct from printed pagination. The ABC printed folios are directly visible on the paired scans. Complete raw text extractions accompany the proof images. All ten image byte hashes are bound in the audit.
+
+Three independent findings were repaired by their content owners before final acceptance. Pluto/Vulcanus = Cupido initially replaced unrelated economic prose with a translation whose first clause shifted Entwicklungs-Gemeinschaft to a community undergoing development. The final section preserves the complete six-clause German row and labels the translation, beginning Influence of a development community. Its full final page and amended existing062 record were independently reread against PDF209. Uranus/Vulcanus = Mars inherited emboldenment for power for Bemühungen um Macht-Erneuerung; the final clause is efforts toward renewal of power. Uranus/Vulcanus = Poseidon inherited powerful emanation of culture for mächtige Erneuerung der Kultur; the final clause is powerful renewal of culture. Both full final pages and amended existing084 records were independently reread against PDF192. No duplicate review record was created. These three current source hashes are rebound from the initial candidate capture; all original hashes remain unchanged.
+
+Other verified repairs include replacement of unrelated Cupido economic or parliamentary prose; restoring gründlich as thorough and Vernunft as reason; recovering leadership clauses from filtration corruption; restoring missing Pluto openings; separating Neptune from the following Pluto row; and removing the extraneous OZ’O after the actual Pluto/Poseidon Vulcanus sentence. Poseidon/Poseidon = Admetos now reads Culture. Education. and Radiation. Vibration., exactly matching its own Witte PDF317 row. The repeated personal-power renewal clauses in the Uranus/Vulcanus Sun row are present in the raw German source and are preserved. No sibling orientation was substituted or merged.
+
+Acceptance is bounded to exact source deltas and new reference metadata. Locator-only allowances explicitly exclude broad certification of inherited English wording. In blocks with a narrow repair, unchanged surrounding English is also excluded from a new transcription certificate. Source-native entry headings, quotations, minority claims and differences between the two sources remain distinct. Medical, violence, gender, spiritual and timing statements remain attributed historical doctrine; this verification does not establish conditions or predictions. There is no unresolved damaged changed passage.
+
+The strict bank contains only path, before_sha256, after_sha256, ledger, reason, evidence as a string list, and verified_by=/root/source_check_saturn. The audit and final snapshot bind each original/current normalized Source Entries hash and the current unique owning ledger filename, line and record hash. Normalization follows validate_review.source_section: CRLF to LF, omit the Source Entries heading, strip terminal standalone anchors and outer whitespace, then UTF8 SHA256. No wiki, owner ledger, global bank, validator or generator was edited by this verifier. The immutable Vault was read only.
+
+Final validation passed: 100 strict records, 200 original/current source hashes, 100 unique current owner record bindings and ten personally inspected proof image hashes. Scoped git diff --check exited zero. Final allowance-bank SHA256: 463e73c226c79c0c59bdb4624e411cabd21a8b0fd1710d5ea7c948e5f39c554d.

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Apollon = Cupido`
 - Astronomicon formula: `¢/¥ = ¡`
 - Axis page: [Hades/Apollon](../axes/hades-apollon.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To begin or to end the time of great emergency. The development of occult abilities.
+Source: printed p. 284; PDF p. 280.
+
+Unpleasantness with the family or societies. Historic scientific society. Unpleasantness in connection with garbage, rags or other old material.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success through shared deprivations, successful skills of the past, dangerous freedom of the community, secret knowledge of a community, lack of common knowledge, adverse common experiences, and hidden trade community
+Source: printed p. 443; PDF p. 220, Cupido row.
+
+German: "Erfolg durch gemeinsame Entbehrungen, erfolgreiche Kunst der Vergangenheit, gefährdete Freiheit der Gemeinschaft, geheimes Wissen einer Gemeinschaft, mangelhaftes gemeinsames Wissen, nachteilige gemeinsame Erfahrungen, verborgene Handels-Gemeinschaft".
+
+English translation: Success through shared privations; successful art of the past; endangered freedom of the community; a community's secret knowledge; deficient shared knowledge; adverse shared experiences; a hidden commercial community.
+
+## Comparative Schema
+
+- Core meaning: Communal hardship, historical knowledge and old-material settings, alongside shared success ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Adverse shared experiences are named without a personality profile.
+- Body/health: No bodily condition is named.
+- Social/relationship: Family/society unpleasantness, a historic scientific society and threatened communal freedom are explicit.
+- Events/manifestations: Old-material unpleasantness, successful past art, secret knowledge and hidden trade are examples.
+- Conflicts/notes: The former Witte emergency/occult passage belongs to Pluto; Cupido's glyph owns the family/history/old-material row.
+
+## Contradictions
+
+Witte emphasizes family or society unpleasantness and historical/material associations; ABC also retains shared success and past art. These are different communal expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Cupido`: associations forming around crisis, secrecy, or hidden study as people bond through shared hardship or occult interest. Main caution: turning emergency or secrecy into the basis of belonging.
+In `Hades/Apollon = Cupido`, Cupido specifies collective need and old or hidden knowledge within association. Family or society unpleasantness, a historic scientific society and difficulties involving garbage, rags or old material give the exact Witte range ([Witte Entry](#witte-entry)). ABC connects communal privation with success, past art and secret or deficient shared knowledge, alongside endangered freedom and a hidden commercial community. These meanings preserve communal achievement and historical association as well as difficulty ([ABC Entry](#abc-entry)).
 
 ## Links
 

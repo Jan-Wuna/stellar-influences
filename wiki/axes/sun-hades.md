@@ -65,6 +65,8 @@ updated_at: 2026-05-04
 - Axis: `Sun/Hades`
 - Astronomicon axis: `S/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Hades/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
@@ -72,13 +74,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 112.
+
 Diseased body. Deformed or mutilated body. To be oppressed or hindered in developing the body and personality. Pursued by misfortune. Carrier of secrets. Physical troubles. Old objects. The body’s susceptibility to sickness. Waste. Garbage day. (In the solar cycle: hard period or a period with an upcoming illness.)
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-After body, disadvantaged person, service--staff, secret of a man, corporal disadvantage, krimineHe person, personal deprivation, personal service, person in need, disadvantages of the day, and renunciation of the man
+- Source page: printed pp. 160–161; PDF p. 79.
+
+Old body, disadvantaged person, service staff, secret of a man, physical disadvantage, criminal person, personal deprivation, personal service, person in need, disadvantages during the day, renunciation of the man.
+
+## Comparative Schema
+
+- core meaning: Personal disadvantage, deprivation, and conditions that hinder the body or the development of personality. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- psychology: Oppression, frustrated development, and carrying secrets are stated; the entries do not establish a universal personality defect. ([Pair Summary](#pair-summary))
+- body/health: Witte associates the pair with physical troubles, illness susceptibility, and damaged bodies; ABC adds an old body. These are historical astrological attributions, not diagnoses. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- social/relationship: Need, disadvantage, service staff, personal service, secrecy, and renunciation of a man are included. ABC also names a criminal person as a source association, not a justified judgment about an individual. ([ABC Pair Summary](#abc-pair-summary))
+- events/manifestations: Physical difficulty, deprivation, and hindrance coexist with the concrete motifs of old objects, waste, and garbage collection. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- conflicts/notes: The terse entries combine bodily trouble with service, secrets, old material and waste without explaining a necessary connection. Witte's solar-cycle parenthesis remains source context rather than a timing method.
 
 ## Related Activations
 
@@ -103,11 +118,16 @@ After body, disadvantaged person, service--staff, secret of a man, corporal disa
 - [Sun/Hades = Vulcanus](../activations/sun-hades-equals-vulcanus.md)
 - [Sun/Hades = Zeus](../activations/sun-hades-equals-zeus.md)
 
+## Contradictions
+
+Both entries emphasize disadvantage, but their terse lists do not explain how bodily trouble, service, secrets, and discarded material relate in a particular case. Their overlapping vocabulary does not establish independent corroboration or a necessary sequence of events.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on suffering, weakness, and difficult or decaying conditions touching the person directly.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Hades` gathers conditions of personal hardship: deprivation, restricted development, and bodily difficulty. Its distinctive emphasis is on disadvantage that touches the person directly, alongside the less psychological images of old objects, waste, and garbage. Secrecy and service also belong to the admitted range, so the pair is not exhausted by a description of suffering. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+
+The entries offer a field of meanings rather than a single inevitable outcome or a moral judgment about a person. Witte's illness and bodily-damage language remains an attributed historical correspondence. ABC adds an old body, service staff, renunciation of a man and the label `criminal person`; these specific associations do not justify diagnosing illness or attributing criminal conduct to someone. No timing rule or third-factor manifestation follows from this pair alone. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
 
 ## Links
 

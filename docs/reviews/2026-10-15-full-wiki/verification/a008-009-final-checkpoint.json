@@ -1,0 +1,718 @@
+{
+  "date": "2026-10-15",
+  "reviewer": "activation_review_008_009",
+  "assignments": [
+    "activations-008",
+    "activations-009"
+  ],
+  "ledger_counts": {
+    "activations-008": 55,
+    "activations-009": 55
+  },
+  "new_reviews": 95,
+  "preserved_prior_reviews": 15,
+  "bounded_existing_record_amendments": 11,
+  "source_repair_records": 48,
+  "unique_repaired_pages": 47,
+  "checks": [
+    "All 110 assignment paths have exactly one complete original-ledger record; both shards contain 55 unique paths.",
+    "Canonical formula, full factor identities, axis and activated_by consistency checked for all110; repeated Cupido identity and two-factor triad_set exception retained.",
+    "All110 have an early interpretation route, one immediately adjacent unique synthesis anchor and six meaningful comparative labels.",
+    "All110 local Markdown file targets and heading fragments resolve; all110 differ from archived before/wiki baseline.",
+    "Scoped git diff --check passed for110 wiki paths and both ledger shards.",
+    "Complete actual new-page diffs inspected in bounded batches; synthesis compared against own exact-oriented source entries.",
+    "Source-section comparison found no unexplained changes beyond47 newly repaired pages and4 preexisting repaired pages.",
+    "All48 saved source-repair records' final text is present on the named page.",
+    "Bounded11 Chiron/Node locator amendments preserve native source text and prior synthesis; exact PDF100 or101 personally verified in raw PDF and scan."
+  ],
+  "unresolved": [
+    {
+      "path": "wiki/activations/chiron-node-equals-mercury.md",
+      "unresolved": [
+        "Actual Sandbach PDF100 scan itself reads 'Through communicating one’s helps'; native grammatical defect remains preserved rather than conjecturally emended."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mercury.md",
+      "unresolved": [
+        "Witte per se with the thoughts is awkward source wording; ABC news community and shared depressions are not further defined."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mc.md",
+      "unresolved": [
+        "ABC old art imbued with soul and community of souls from the past are source phrases without further explanation in this entry."
+      ]
+    }
+  ],
+  "source_proof": "docs/reviews/2026-10-15-full-wiki/verification/a008-009-source-repairs.jsonl",
+  "independent_source_gate": "Managed separately by root/source_integrity_gate; this checkpoint is scoped verification, not an approval-bank edit.",
+  "paths": [
+    {
+      "path": "wiki/activations/chiron-node-equals-jupiter.md",
+      "sha256": "6bb0fff3178e1fd2cf99d1a59512c406d70572cd7599335e75036152d18df38d",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mars.md",
+      "sha256": "c4d2ff22cce958851209615b436a5d46febc8890b494ca2e3551a10f8a78357c",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mc.md",
+      "sha256": "50905cef618b842aaff04b8b281171eb5f0903dd069f9ec7e5a9871c6217f830",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mercury.md",
+      "sha256": "b8f9a99786e3a7dfab1f862e9656a7b980d8d3723c0215ad01f2acc1e13881ce",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": [
+        "Actual Sandbach PDF100 scan itself reads 'Through communicating one’s helps'; native grammatical defect remains preserved rather than conjecturally emended."
+      ]
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-moon.md",
+      "sha256": "a0a116af4a4cd8879c565f0ee10d5eb280e52f7314a4c8705c0a8f57c3e11a1d",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-neptune.md",
+      "sha256": "5a494ecc1001f0792e11ad796b84000ecfe02275460dc7df33b5ec262c15446e",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-pluto.md",
+      "sha256": "2ad38ad9dca080db39cc052aa69563fa7867b2bff7ba84a8400ad6299295406c",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-saturn.md",
+      "sha256": "7b94a93fcfb4426822fb2b0945c778cf406f2af4ea0494446ae872c17cdbbc1a",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-sun.md",
+      "sha256": "a1a5bcfdf72640fab81479760f81aab86916d049581e773faf0bdc12c9a66565",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-uranus.md",
+      "sha256": "04f657591f0bdbb5c969a8746c400f90edbf68ec7306bb616e72da0d45862ca5",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-venus.md",
+      "sha256": "9a1ac682dd52cc2c8b5dec00db588af7c526ec39896b7e90f86be08c16629156",
+      "reviewer": "leaf_a002_005_008",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mercury.md",
+      "sha256": "6571d39bd2d76361854503b6485ef655114802c848c5660c0f91e751418dc3b5",
+      "reviewer": "activation_review_001_022",
+      "unresolved": [
+        "Witte per se with the thoughts is awkward source wording; ABC news community and shared depressions are not further defined."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-neptune.md",
+      "sha256": "f487c32c1da9d7a507933167d4cebf656e77428908bbb14574da7145c942b791",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-asc.md",
+      "sha256": "e2d5fff76c82d3dc3d83051faca669395b8f85e24b01c93897558fe10b69a52c",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-jupiter.md",
+      "sha256": "5cc3f30817475cd7b29f0714ecab2c71d98d550ef0a7f14d81cde494eae28f82",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-mars.md",
+      "sha256": "7da3de625377096b8af5ba8ab95f9c0d62893281930b3896a6bf3173e7d9128f",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-mc.md",
+      "sha256": "117a8fdcc0c43e08808d27fcce7753d22d3615f9afe53d6e603b6bceb213e99e",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-mercury.md",
+      "sha256": "c6dd38e3127333b434b85d2d507ac83e17e8b7d8e93952229d3f7fbdadf94760",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-moon.md",
+      "sha256": "751dce7330546ca01e0900310f8cdc3556ae9ecc73da156c289a35c341eb85c7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-neptune.md",
+      "sha256": "d8e74cd5ac1a8b4b6cc647cc06dd45f413b52872d4d1df6b124e713c5bd41cd5",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-node.md",
+      "sha256": "91d7f8f030a013730ec10cf8af3363be06dcebf5e9470d48f2d0cb7a0692eb75",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-saturn.md",
+      "sha256": "a65190ea49f6064b7eb69331c6ceb138af8a89e0aade3d3288f799267256619e",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-sun.md",
+      "sha256": "422d87a6f89df033c57e0880bbd04fd3237896b4360f88b6a64c0db415f19b6d",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-uranus.md",
+      "sha256": "30685e9f35dc7ec42d2459656302058be8e78e16eb884a13c0b0632e020ac880",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-pluto-equals-venus.md",
+      "sha256": "d50e7a0ad5513a75b44467c991bcae3a58a723a5e2708f1742503881a1c184c4",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-asc.md",
+      "sha256": "72c4fa743c71811ec552f1b235ea94acb2023dfb80cfdfb37b7ea90b754d64ed",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-jupiter.md",
+      "sha256": "7df1d4ab11697f81e9772a1fbb67e98349e76e9c65c6d65a202a38fe3c62cb3e",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-mars.md",
+      "sha256": "0b422c498f9b556916078dbe5dd167059573a513e5477c890df79b5161b38991",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-mc.md",
+      "sha256": "c59ad571e86efcf461547c7f056d7ba8d7fc7c3491329c7161b018331a0a06eb",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-mercury.md",
+      "sha256": "5ebcf08211673655965caa073329d258a3d7596e3024ed6290710777a53d1a64",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-moon.md",
+      "sha256": "56fb814dbdaabfd7ce4d73818908f7e8794c5bb944564671b05cec7ec6987b4a",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-neptune.md",
+      "sha256": "b6ad5de1b7e0f349ed5cd677e33b703457af2ebd1a906dd0a48b2553b623de08",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-node.md",
+      "sha256": "92f2d6fa8e74e3e12a4c93400ca577a02395e413a0a010bc971480f69cdc2f6b",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-pluto.md",
+      "sha256": "012ef450f28fcabec6d50d09776a20934323062b8b472f20b463d425b681830c",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-saturn.md",
+      "sha256": "2936c938bcb1a64f7dedfadfe885d52ecd048bc1b82fe3df8184e9bba6e52882",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-sun.md",
+      "sha256": "b447bc21da151f2b52557d123cd3ffa3606a7a003ffe1bf66b94bc3bf2a223a7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/chiron-uranus-equals-venus.md",
+      "sha256": "1a233ca570899fe9d23588f763b5721f09af309630c21b408304d3d1f44e6eae",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-apollon.md",
+      "sha256": "4815f44a961fb3529f21efb62552da0922ff7bfa55271d720f67ef1a10a2cbaa",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-asc.md",
+      "sha256": "69d6697ab0f5acaa27399e9c6acd48de1cfa3bb6bf8b75f66fc210cafbe67901",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-hades.md",
+      "sha256": "d54117734006de4729bcbd949965414a46ae38ea22ce86aadeb661f526aafc70",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-jupiter.md",
+      "sha256": "df466cd2efcf28431e02d9082fbe937262cf67796af8715d8db761ce8ae17953",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-kronos.md",
+      "sha256": "1b6937025b0c41e5c08dcccd78f03098c4fb3ad3a18f9920394ea6324dff556a",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mars.md",
+      "sha256": "93ea2975a159e09d2effb89d0ef65e5aec49517fd57285463e7a4845ed7d76cb",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mc.md",
+      "sha256": "e63176d7f55dd8c22455bb4b41de30bbee8c492833f70ba5d073627a9d5c9fe7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-moon.md",
+      "sha256": "06e87b52118c1aa1640ae7f9d433a36e164ffbb89cde66d15de9c1798c83c500",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-node.md",
+      "sha256": "07382ae453ce5fa65ce7a0286139b8e7fcd53969833b1a2891f3fbaa1c736aa2",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-pluto.md",
+      "sha256": "253b1ccd2641c06402faf0a5ea0ab05b02a82e58421f14dfc113c46f25de2ccf",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-poseidon.md",
+      "sha256": "fbaf11fa5b3b218577b94f8671e1186bd538ebc0a5356866e47acb655c4f121f",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-saturn.md",
+      "sha256": "2f7c7b02e3076aad49e41ea4b08539110c7345fecc1d8c72573fddb19fb8312c",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-sun.md",
+      "sha256": "00a6ecba5b833805d30340c23ca86bd132f4bd73b4f2a886403385ac3f631797",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-uranus.md",
+      "sha256": "2bb85139abbdeef9221958f35d6a5201eea67197f90318616abfabde6376f074",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-venus.md",
+      "sha256": "6362410431b1c0b84f23af39715cc136ba2b69818986787bc6437e8c95199bfc",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-vernal-point.md",
+      "sha256": "37ecb6a27b0618a2378663e20b48854d0a23f7d70a8efc16f495aefd96b70df0",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-vulcanus.md",
+      "sha256": "5e02125986438c696c7260980e75939a3b8c33069164e0ffe9ee4900ac4bd360",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-zeus.md",
+      "sha256": "ec62b4a48ef35af0dc13494e2216ce3ea762305caea4ebb09b1ff45510e80048",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-jupiter.md",
+      "sha256": "1731b8a8eaf0222556cd708e6c632b641c2c0852ea07c06af245b53709134e1c",
+      "reviewer": "activation_review_001_022",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mars.md",
+      "sha256": "16b59030d02f0eec0bb638eb630d1f8f0b9e23a2914058f32fc41bb22255023f",
+      "reviewer": "activation_review_001_022",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mc.md",
+      "sha256": "b217b01e3e5b3e09a323de97b0afad4eee0a3f616a062daaa0d43f1bbc5d2a77",
+      "reviewer": "activation_review_001_022",
+      "unresolved": [
+        "ABC old art imbued with soul and community of souls from the past are source phrases without further explanation in this entry."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-neptune.md",
+      "sha256": "cc361913734821216a6290cc865a847e027d20688ffe3a2313a19696535e7b48",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-admetos.md",
+      "sha256": "c936fdd5eb96d05c9f16abfec7d838fc2e52b80385342e703db0c8961e67e1dc",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-asc.md",
+      "sha256": "79f0e31085fa53899fc93816303d67dd866dfa36a2ff2da3849f6110d38b3324",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-hades.md",
+      "sha256": "ae8229b7fbae104e8b2fb9861d0dea9816a9b4753a6cbcb921f8f84800cd862b",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-jupiter.md",
+      "sha256": "2dd9cc4d9c10c26eeba6ee853031073ce85d15a429cbfbae4d28593e0b638880",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-kronos.md",
+      "sha256": "977a871fb2463b50c00c348b27cf8dabed71261a72d67610da739ef44e1954f0",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mars.md",
+      "sha256": "1cd87feafa1e94392331e8e3bd1c033cac3be4c0cc770dfa9180801225c31268",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mc.md",
+      "sha256": "7fc551d2ca693f89033316ab822f3bd06f51ff956eb40a61eb649a7f497b06c7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mercury.md",
+      "sha256": "05aacf43e10dbcc2805e78d3fc385a5448a8c9694483fd83243f2ef2fbffd85a",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-moon.md",
+      "sha256": "645f66340cd801ab8cfa759040a0115718ef6c4aee0a2255578288d1449c633b",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-node.md",
+      "sha256": "09acc15bd29c9b302d7adaec42f481304768d72e5a980ef0602e4cfdfd9d9bfc",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-pluto.md",
+      "sha256": "37b911f62a0a2870ad3b6115b1b8ff4d57fe51795978dcbafd88b822c6856ea7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-poseidon.md",
+      "sha256": "5f8786d82759bfbb366dc4bac6e87aa0ddb5f5cb5ab77ee7a868d394f3117a23",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-saturn.md",
+      "sha256": "36582bf82ea6f6e1e4ecb8d0339334d061b5b6708dc3fe0d5853c826a94d49d1",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-sun.md",
+      "sha256": "71d07e0d143bbd5aed2ee8aea1729185246f0f9588e849c0ee05ac09f6df9302",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-uranus.md",
+      "sha256": "93fe4127f41c5892089445c2bd29cb0cfa6545718f1254b32f9efa2fc0271f54",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-venus.md",
+      "sha256": "97172f6a67d0ae0372c1d54fa5451a401fed574cf862c7a5e16e3475b83650a1",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-vernal-point.md",
+      "sha256": "5f117766a49606679aadcd1bb4c592c92e9918011c8ac45efef7a56f3c7af8bd",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-vulcanus.md",
+      "sha256": "9cecb21a3ee709dd7a283f95de1be028259ecde160105d87dc3301dad80aaf03",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-zeus.md",
+      "sha256": "52cb3a40faa9569a5382d61b322abced957215a0d891b3afc99db3ecaf659bad",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-admetos.md",
+      "sha256": "e794997692b5a3066c4d0bc64b449f02b2459ed30eb0d6b9babaa4f7b21999d2",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-apollon.md",
+      "sha256": "505e0523edbda029d60f98394dd97602ce72449b80ad9e01a479ebaed5f06634",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-asc.md",
+      "sha256": "d1635326c353a4d89b4cc521b401cbedf97d3016364cdf835577136415d4d0b4",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-hades.md",
+      "sha256": "818d4ef01d4868e962faa20f7d78057247e7a0f73fafc9f6c36b9130c523287e",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-jupiter.md",
+      "sha256": "006ef22184fcbb25a1be5d09be9e1eadfb6370ec68d2c8bb60cf28440b231254",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-kronos.md",
+      "sha256": "c5c04c2cb29d812ac55d972a44471f4f76d9083740de4fb7be8364c25c0a232d",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mars.md",
+      "sha256": "f99890d7b1cd50a01594f93d1f791e9dd14b9bfe65ec10bfbb717a4e0eff4ceb",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mc.md",
+      "sha256": "12eb72ffa28be8c0381b97381fd48e80d75243734ff61913c57c86173a3bb991",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mercury.md",
+      "sha256": "0bd090aab960b2e7593844eb50f230c037490055242f6c8ea54d5c843bd50fc6",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-moon.md",
+      "sha256": "93c55890a443528dd8b8fecb4c357044c7558374f43df15c9cd458c35d4ba51c",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-neptune.md",
+      "sha256": "216a9dbd8893a070b99d8fcd112e12fab2f9cf3da872a176c268a4d608cbe8b8",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-node.md",
+      "sha256": "d47ed8a1102a610c6568830accefaf82a9893d08f2d1a0b28d6b7c81ff597ff2",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-pluto.md",
+      "sha256": "d9e99028b748d9b81f50b9e60045271f95337c43eb99ff9acadd39cdab8e5424",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-poseidon.md",
+      "sha256": "4e6b61e6ce8b0ce3c793913279e1c80c4fcf80c8238f1e1becbc536b71da1d23",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-saturn.md",
+      "sha256": "2eb5436af33f49d58039d9f32512e9c6e8ece6b3efb375ca1d6a4e848f1d1605",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-sun.md",
+      "sha256": "9c503beddd6cc02cd60e171fdc771e0530fe07709830e7f76d4c6c58adc8e64c",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-uranus.md",
+      "sha256": "bf8af4e12dfe4c3615d641db9a0f56534fad1193ca8a5f0e39d506c6360f72a9",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-venus.md",
+      "sha256": "16e229bda3d22094d4ac4d29d90b894416de27efb0e9726b2c726b51e786886b",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-vernal-point.md",
+      "sha256": "95b6b5543ac2709bb68c9728538cded3be3641f1cb08365ddda376f31a78a71a",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-vulcanus.md",
+      "sha256": "aae2ff969c3cbc979413a89980c85071c4146fbba9e558e57e71d5f11e503ec9",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-zeus.md",
+      "sha256": "974674e45e23ebf65fc7b8c3cac4e86d44fbee30310fb04373625c610b20a9b6",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-admetos.md",
+      "sha256": "e469e55c882e715bba1e029e2c628cd2fc517638217cb800789256bcc993d16b",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-apollon.md",
+      "sha256": "56b0534c44812d26a4e3726651348e2de224b336776a5a45fbf14cfc2763d786",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-asc.md",
+      "sha256": "1e9ddd41672f8738cccbaae070f043a04ec416c35b0a41e87253bf92ff43aba0",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-kronos.md",
+      "sha256": "5bf7fc42aee777e67d6970774a13218e765837d6132556028325938dd736dd3e",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mercury.md",
+      "sha256": "b693ebbe24116a474bbbd2074ea8b9dd4dd1f10d788f5729ad8a22794fb5b6b2",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-moon.md",
+      "sha256": "0434993d24d9e9239fc3874c3ea3954b4e92d46487d117369f16f763bd3018d7",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-neptune.md",
+      "sha256": "50da7bbe49fcb56bcb904dc938666244a08f55a47abd4fd076556bfee3f791da",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-node.md",
+      "sha256": "0f6a39e1119b53153b23ba0b61e6c65ef83edaaf0ad8426fd2bfe7caaa1c2744",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-pluto.md",
+      "sha256": "5e3e312d91dfd19fd6d10ebbd353532aa28ea69f44bf0c0504382f2dcf265e36",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-poseidon.md",
+      "sha256": "b2c6e7cfd1cc42c5315be13a9a88780d4c0f121479c880e09e63932154dc35ac",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-saturn.md",
+      "sha256": "242c488a33dbae2368fedab5c10a93380fdcd2b97b63813d9d8893ec2381037f",
+      "reviewer": "activation_review_008_009",
+      "unresolved": []
+    }
+  ]
+}

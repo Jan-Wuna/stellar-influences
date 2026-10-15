@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Neptune Asc](../triads/moon-neptune-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Female persons are withdrawing. Insincere women. Secrecies among female acquaintances. False, slanderous female persons.
 
@@ -44,11 +48,15 @@ Female persons are withdrawing. Insincere women. Secrecies among female acquaint
 
 #### ABC Entry
 
+- Source passage: `Aszendent + Mond`; printed p. `103`; PDF page `50` (complete oriented row checked against actual scan).
+
 Disappointed partner of the woman, expectations of other peoples, sensitivity of the female partner, weak woman as partner, hour at the place in the water, unclear partner feelings, uncertainty of the female partner, and unsettled woman in the environment
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Neptune entry at one-based PDF page `39` (checked in actual raw PDF text).
 
 To be idealistic and self-sacrificing in nurturing another person. To sense the subtleties of emotion flowing between oneself and another person. One’s feelings about oneself are confusing or uncertain.
 
@@ -63,22 +71,21 @@ Becoming more sensitive to others; added confusion about how other’s feelings 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional sensitivity in relationships is accompanied by uncertainty about whose feelings are being perceived.
+- psychology: Subtle empathy, self-sacrifice, confusion about self and misreading another's emotions.
+- body/health: ABC's 'weak woman' is historical characterization, not a diagnosis.
+- social/relationship: Nurture may be sincere, idealized, pretended or insufficiently attentive; Witte also alleges secrecy and insincerity.
+- events/manifestations: Withdrawal, misunderstood feelings and lapses in care are stated manifestations.
+- conflicts/notes: Heightened sensitivity and deceptive behavior are different possibilities; the entries do not equate empathy with dishonesty.
 
 ## Contradictions
 
-- None recorded yet.
+The displayed entries differ in emphasis, but no direct contradiction is established. The examples remain source-attributed possibilities, not universal outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Neptune`: empathic charm, imaginative receptivity, and the capacity to create a soulful or soothing emotional field. Main caution: weak boundary: mood and self-presentation can become vague, drained, or too open to projection.
+In `Moon/Asc = Neptune`, emotional contact is subtle and can become difficult to distinguish from one's own feelings. Idealistic or self-sacrificing nurture and awareness of the emotional flow between people coexist with confusion about self, misreading another's emotions and concern that is merely pretended or insufficiently attentive. Unclear partner feelings and disappointment give that uncertainty interpersonal forms; withdrawal, secrecy and slander remain separate, attributed traditional examples rather than consequences of empathy. ([Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry); [ABC](#abc-entry); [Witte](#witte-entry).)
 
 ## Links
 

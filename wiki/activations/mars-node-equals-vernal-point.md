@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Vernal Point Mars Node](../triads/vernal-point-mars-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Work-communities in general. Sexual unions in general.
 
@@ -42,13 +46,27 @@ Work-communities in general. Sexual unions in general.
 
 #### ABC Entry
 
-(i) to provide information and communication services to the public, to meet the public, to make contacts with the public, and to provide contacts with the public and to promote the public
+Source: “Mondknoten + Mars,” printed p. 212 (PDF p. 105).
+
+Activities connected with the public, mediating work for the public, arranging encounters in public life, wanting contacts with the public, and creating connections for the public.
+
+## Comparative Schema
+
+- core meaning: Shared activity and connections in the public field.
+- psychology: A wish to make public contacts.
+- body/health: Sexual unions are mentioned without a health claim.
+- social/relationship: Work communities and public encounters; sexual union is Witte's separate general example.
+- events/manifestations: Mediating public work and arranging connections or meetings in public life.
+- conflicts/notes: Witte's “in general” gives broad scope; it does not establish that every union is publicly visible.
+
+## Contradictions
+
+ABC specifies public contacts and work, while Witte gives work communities and sexual unions in general. These are different scopes of association rather than conflicting outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Node = Vernal Point` makes cooperation and sexual or work-based union broadly visible and general.
-- Chart expression: work communities and sexual unions as public or widely shared human realities, emphasizing collective participation in active bonds.
+In `Mars/Node = Vernal Point`, Vernal Point specifies shared action through public contacts and work for the public. ABC names arranging encounters, mediating work, and creating connections in public life. Witte gives work communities and sexual unions “in general,” a broader statement that does not by itself establish visibility of every bond. Together the entries support a collective field of active association, with different concrete examples. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 212 / PDF p. 105)
 
 ## Links
 

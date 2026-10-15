@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Saturn Node](../triads/venus-saturn-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ You temper your ideas and thoughts so that they are shorter; others judge you to
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Constraint, worry, sadness, or separation in a valued connection.
+- psychology: Shyness, inhibition, difficulty relaxing, and attachment to old values.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Love difficulties coexist with stated harmonious ties in old age and access to older people's resources.
+- events/manifestations: A short union, separation, persistent frustrations, and contacts with older people.
+- conflicts/notes: Dependability and a relationship proving its worth over time are not established by these entries.
 
 ## Contradictions
 
-- None recorded yet.
+Harmonious connections in old age and painful or short unions are alternative circumstances. Their coexistence prevents reducing this activation to either guaranteed durability or inevitable loss.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Saturn`: dependable affection, mature alliance, and relationships that prove their worth over time. Main caution: inhibited warmth: fear of loss or rejection can make closeness careful, formal, or harder to relax into.
+In `Venus/Node = Saturn`, Saturn specifies the Venus/Node connection through inhibition, limitation, or the need to face a relationship's difficulties. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) include sadness, disturbance, separation, and awakening from a love dream; [Sandbach](#sandbach-entry) emphasizes fear of sharing affection and difficulty feeling at ease. The [ABC](#abc-entry) and [Munkasey entries](#munkasey-entry) also retain connections in old age or with older people. That specific possibility does not convert the formula into a general promise of mature, dependable affection.
 
 ## Links
 

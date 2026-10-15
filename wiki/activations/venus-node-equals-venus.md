@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Meeting people who are pleasant and charming and with whom you are able to enjoy
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasant friendship supported by charm, courtesy, and an agreeable meeting place.
+- psychology: A courteous way of approaching others; no deeper motivation is described.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Enjoyable friendship with pleasant people.
+- events/manifestations: Improving spaces or offices used to receive visitors or friends.
+- conflicts/notes: One Munkasey passage supports this repeated-factor activation; no distinct triad hub exists.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present. Its personal courtesy and attention to meeting spaces are complementary, with no internal contradiction apparent.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Venus`: Meeting people who are pleasant and charming and with whom one is able to enjoy friendship; added charm and courtesy shown to others; enhancing spaces or offices used to meet and impress visitors or friends.
+In `Venus/Node = Venus`, Venus specifies the Venus/Node connection through the pleasant manner and setting of an encounter. The [Munkasey entry](#munkasey-entry) joins enjoyable friendship with added charm and courtesy, then extends the same concern to improving rooms or offices where visitors are received. The entry supports agreeable social presentation and surroundings, without supplying a broader psychological or health claim.
 
 ## Links
 

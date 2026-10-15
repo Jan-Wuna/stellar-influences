@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Chiron](../axes/mars-chiron.md)
 - Triad hub: [Mars Jupiter Chiron](../triads/mars-jupiter-chiron.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 An enthusiasm for being assertive in such a way that healing results. Excesses cause conflicts and a contacting of inner destructive energy that can then be healed.
 
+## Comparative Schema
+
+- core meaning: Enthusiastic assertion is linked with healing and confronting destructive energy.
+- psychology: Excess can bring inner destructive energy into awareness through conflict.
+- body/health: Healing is the source's term; no illness, treatment or bodily outcome is specified.
+- social/relationship: Conflict caused by excess is explicit.
+- events/manifestations: No concrete event is supplied beyond excess leading to conflict.
+- conflicts/notes: The passage allows destructive energy to be healed; it does not endorse excess as necessary or inherently constructive.
+
+## Contradictions
+
+One entry links enthusiasm and healing while retaining the conflicts caused by excess. These are parts of its stated process, not independent contradictory claims.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron = Jupiter`: spirited intervention, constructive excess, and the ability to turn overreaction into insight and recovery. The caution is moral overconfidence or inflaming a situation under the belief that more intensity will automatically heal it.
+Jupiter specifies the Mars/Chiron axis through enthusiasm for assertion that results in healing. The [Sandbach entry](#sandbach-entry) also describes excess causing conflict and contact with inner destructive energy that can then be healed. Its two parts distinguish the aim of helpful assertion from the destructive material exposed by overdoing it; the passage does not make excess a necessary route to healing or specify a medical outcome.
+
+Source locator: Sandbach PDF p. 69 is the Mars/Chiron chapter start; the exact entry page has not been verified.
 
 ## Links
 

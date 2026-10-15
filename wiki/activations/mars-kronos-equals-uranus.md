@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Mars Uranus Kronos](../triads/mars-uranus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Suddenly interfering power of the state. Suppression of uproar.
 
 #### ABC Entry
 
-Exciting activity of the state, particularly strenuous work, dominating rhythmic impulses, dynamic will of the authorities, self standing work rhythm, and state reform activity
+Exciting state activity, particularly strenuous work, dominant rhythmic impulses, a dynamic will of the authorities, new work for the chief, sudden self-confident action, an independent work rhythm, and state reform activity.
+
+- Source reference: printed p. 315, PDF p. 156, Uranus row; restored the omitted `neue Arbeit für den Chef` and `plötzliches selbstbewußtes Handeln` phrases from the scan.
+
+## Comparative Schema
+
+- core meaning: Official or independent action becomes sudden, dynamic or reforming.
+- psychology: Sudden self-confident action and dynamic authoritative will are explicit.
+- body/health: Strenuous work is named without a medical condition.
+- social/relationship: State intervention and a chief receiving new work are source examples.
+- events/manifestations: Suppressing uproar, state reform and independent work rhythms are retained.
+- conflicts/notes: Sudden intervention is one Witte emphasis; reform and new work broaden the entry beyond suppression.
+
+## Contradictions
+
+Witte emphasizes abrupt state interference; ABC also includes reform, new work and rhythm. These examples do not identify every dynamic change with coercion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Uranus` makes official force sudden, disruptive, and sharply interventionist.
-- Chart expression: abrupt use of state power, emergency suppression, and rapid interference by authorities in order to stop disorder or uproar.
+Uranus specifies the Mars/Kronos axis through sudden or dynamic action by independent actors and authorities. Abrupt state interference and suppression in [Witte](#witte-entry) sit beside new work for a chief, self-confident action, rhythm and reform in [ABC](#abc-entry). The evidence retains intervention without making suppression the aim of every change.
+
+Evidence: Witte PDF p. 200; ABC printed p. 315, PDF p. 156.
 
 ## Links
 

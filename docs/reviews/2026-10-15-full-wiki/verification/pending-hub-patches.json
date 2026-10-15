@@ -1,0 +1,434 @@
+{
+  "status": "APPLIED_AND_ORIGINAL_LEDGER_AMENDED_BY_OWNER",
+  "date": "2026-10-15",
+  "durable_amendments_before_handoff": 47,
+  "instructions": "Apply only each exact hub patch after matching current_sha256. Do not amend ledgers or create review records. Return saved targets and hashes to owner for complete readback and exact original ledger amendment.",
+  "entries": [
+    {
+      "path": "wiki/triads/mercury-admetos-poseidon.md",
+      "current_sha256": "a90320ec939cdd617d1d256c0db549803a81ec65cef8738e0816d9ac52790b04",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-admetos-poseidon.md\n@@\n-The [ABC entry for Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md#abc-entry) retains “grild”. Its paragraph is represented with a damaged token requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-admetos-poseidon.md",
+        "activations": [
+          "wiki/activations/mercury-admetos-equals-poseidon.md"
+        ],
+        "replacements": [
+          [
+            "The [ABC entry for Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md#abc-entry) retains “grild”. Its paragraph is represented with a damaged token requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete grild token warning after the full eight-clause ABC Poseidon row was restored from printed p. 265 / PDF p. 131.",
+        "evidence": [
+          "Owner activations-033.jsonl row 20 personally checked the complete glyph row; current ABC reads thorough insights of youth and deep intellectual or spiritual conversations."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf131.png"
+        ],
+        "unresolved": [
+          "ABC's literal suppressed-reason-in-traffic expression remains unexplained; no mechanism is inferred."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-jupiter-admetos.md",
+      "current_sha256": "a20a6fbb266e3b6150cd7a7594f09c190a4f061b0e3d130675046c3b33858972",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-jupiter-admetos.md\n@@\n-The [Mercury/Admetos = Jupiter ABC entry](../activations/mercury-admetos-equals-jupiter.md#abc-entry) retains “grundling”. Its paragraph is represented with that damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-jupiter-admetos.md",
+        "activations": [
+          "wiki/activations/mercury-admetos-equals-jupiter.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Admetos = Jupiter ABC entry](../activations/mercury-admetos-equals-jupiter.md#abc-entry) retains “grundling”. Its paragraph is represented with that damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete grundling warning after the complete seven-clause ABC Jupiter row was restored from printed p. 264 / PDF p. 131.",
+        "evidence": [
+          "Owner activations-033.jsonl row 12 and exact-current independent source allowance verify gründliche Finanz-Gespräche and gründliche Rechts-Meinungen as thorough financial discussions and legal opinions."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf131.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-jupiter-apollon.md",
+      "current_sha256": "db0f648c26119f877c327f0ac495ecede3d9c9975e37c22dc117477fc9c5e9f9",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-jupiter-apollon.md\n@@\n-The [Mercury/Apollon = Jupiter ABC entry](../activations/mercury-apollon-equals-jupiter.md#abc-entry) retains “FOlle”. Its paragraph remains represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-jupiter-apollon.md",
+        "activations": [
+          "wiki/activations/mercury-apollon-equals-jupiter.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Apollon = Jupiter ABC entry](../activations/mercury-apollon-equals-jupiter.md#abc-entry) retains “FOlle”. Its paragraph remains represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete FOlle warning after the complete eight-clause Mercury/Apollon = Jupiter ABC row was restored from printed p. 262 / PDF p. 130.",
+        "evidence": [
+          "Owner activations-033.jsonl row32 verified the actual glyph-owned row; Fülle von Rechts-Meinungen is now abundance of legal opinions, with all financial, legal and scientific clauses retained."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf130.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-jupiter-asc.md",
+      "current_sha256": "da224668bc9f809169a0e9de7fab64e49ec8ccf4181beab0197d8ec74ab30448",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-jupiter-asc.md\n@@\n-No Ebertin subentry is currently present for [Mercury/Jupiter = Asc](../activations/mercury-jupiter-equals-asc.md#source-entries); Ebertin coverage above belongs only to the other two formulas. The [Mercury/Asc = Jupiter ABC entry](../activations/mercury-asc-equals-jupiter.md#abc-entry) retains “Freuden Messricht”, and the [Jupiter/Asc = Mercury activation](../activations/jupiter-asc-equals-mercury.md#contradictions) separately limits its damaged final ABC phrase.\n+No Ebertin subentry is currently present for [Mercury/Jupiter = Asc](../activations/mercury-jupiter-equals-asc.md#source-entries); Ebertin coverage above belongs only to the other two formulas. The [Jupiter/Asc = Mercury activation](../activations/jupiter-asc-equals-mercury.md#contradictions) still limits its damaged final ABC phrase.\n@@\n-[Mercury/Asc = Jupiter](../activations/mercury-asc-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 52; exact entry page unverified)\n+[Mercury/Asc = Jupiter](../activations/mercury-asc-equals-jupiter.md#sandbach-entry) (complete oriented entry, PDF p. 53)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-jupiter-asc.md",
+        "activations": [
+          "wiki/activations/mercury-asc-equals-jupiter.md",
+          "wiki/activations/jupiter-asc-equals-mercury.md"
+        ],
+        "replacements": [
+          [
+            "No Ebertin subentry is currently present for [Mercury/Jupiter = Asc](../activations/mercury-jupiter-equals-asc.md#source-entries); Ebertin coverage above belongs only to the other two formulas. The [Mercury/Asc = Jupiter ABC entry](../activations/mercury-asc-equals-jupiter.md#abc-entry) retains “Freuden Messricht”, and the [Jupiter/Asc = Mercury activation](../activations/jupiter-asc-equals-mercury.md#contradictions) separately limits its damaged final ABC phrase.",
+            "No Ebertin subentry is currently present for [Mercury/Jupiter = Asc](../activations/mercury-jupiter-equals-asc.md#source-entries); Ebertin coverage above belongs only to the other two formulas. The [Jupiter/Asc = Mercury activation](../activations/jupiter-asc-equals-mercury.md#contradictions) still limits its damaged final ABC phrase."
+          ],
+          [
+            "[Mercury/Asc = Jupiter](../activations/mercury-asc-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 52; exact entry page unverified)",
+            "[Mercury/Asc = Jupiter](../activations/mercury-asc-equals-jupiter.md#sandbach-entry) (complete oriented entry, PDF p. 53)"
+          ]
+        ],
+        "reason": "Clear only the repaired Mercury/Asc = Jupiter joyful-news wording warning and update its exact Sandbach p. 53 locator; preserve the distinct Jupiter/Asc = Mercury damaged tail and Mercury/Jupiter = Asc missing Ebertin entry.",
+        "evidence": [
+          "Owner activations-033.jsonl row54 checked actual ABC printed106/PDF52 seven clauses including Freuden-Nachricht and exact complete Sandbach PDF53. Current Jupiter/Asc = Mercury still reads Y orteil and its owning015 row3 keeps the final-phrase limitation."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf052.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-sandbach-pdf053.png"
+        ],
+        "unresolved": [
+          "Mercury/Jupiter = Asc has no current Ebertin source subentry; four other works are represented.",
+          "Jupiter/Asc = Mercury ABC printed112/PDF55 final phrase remains damaged.",
+          "Jupiter/Asc = Mercury: Sandbach PDF p. 85 is a chapter start only.",
+          "Mercury/Jupiter = Asc: Sandbach PDF p. 44 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-jupiter-hades.md",
+      "current_sha256": "9ec864dd08818bde3b7932f2011d93429f33d289d6ea37e9954a24dd66adf429",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-jupiter-hades.md\n@@\n-The [ABC entry for Jupiter/Hades = Mercury](../activations/jupiter-hades-equals-mercury.md#abc-entry) retains “G!Uck”. Its paragraph is represented with a damaged token requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-jupiter-hades.md",
+        "activations": [
+          "wiki/activations/jupiter-hades-equals-mercury.md"
+        ],
+        "replacements": [
+          [
+            "The [ABC entry for Jupiter/Hades = Mercury](../activations/jupiter-hades-equals-mercury.md#abc-entry) retains “G!Uck”. Its paragraph is represented with a damaged token requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete Jupiter/Hades = Mercury ABC G!Uck warning after its complete eight-clause row was restored from printed p. 334 / PDF p. 166.",
+        "evidence": [
+          "Owner activations-015.jsonl row55 checked the actual glyph row; current translation separates hidden thoughts from describing hardship, restores renouncing money and correctly reads happiness."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-015-abc-p166.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-apollon.md",
+      "current_sha256": "37bd6147f3ca50c70a19e6f1f9d4398520e9731c407dc6bffbb932e6fdb16d28",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-neptune-apollon.md\n@@\n-The [Mercury/Apollon = Neptune ABC entry](../activations/mercury-apollon-equals-neptune.md#abc-entry) retains “vie!”. Its paragraph is represented, with that damaged token requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-neptune-apollon.md",
+        "activations": [
+          "wiki/activations/mercury-apollon-equals-neptune.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Apollon = Neptune ABC entry](../activations/mercury-apollon-equals-neptune.md#abc-entry) retains “vie!”. Its paragraph is represented, with that damaged token requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete vie! warning after the complete six-clause Mercury/Apollon = Neptune ABC row and Neptune/Pluto boundary were restored from printed p. 263 / PDF p. 130.",
+        "evidence": [
+          "Owner activations-033.jsonl row38 checked the actual Neptune glyph; current row ends increasing uncertainty of youth, with the following developmental clauses assigned to Pluto."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf130.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-asc.md",
+      "current_sha256": "a467f3b5cedf853af1a8ec1cf8791b593df8d55a5d2c3ff422112dde577d5150",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-neptune-asc.md\n@@\n-The [Mercury/Neptune = Asc ABC entry](../activations/mercury-neptune-equals-asc.md#abc-entry) retains “Ycrkehrs”. Its paragraph is represented, with that damaged token requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-neptune-asc.md",
+        "activations": [
+          "wiki/activations/mercury-neptune-equals-asc.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Neptune = Asc ABC entry](../activations/mercury-neptune-equals-asc.md#abc-entry) retains “Ycrkehrs”. Its paragraph is represented, with that damaged token requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete Ycrkehrs warning after the complete eight-clause Mercury/Neptune = Asc ABC row was restored from printed p. 250 / PDF p. 124.",
+        "evidence": [
+          "Owner activations-037.jsonl row23 and exact-current independent source allowance verify Luft-Verkehrs-Ort as an air-traffic location and preserve local water traffic; the separate chapter-start locators remain qualified."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a035-038-udo-p124.png"
+        ],
+        "unresolved": [
+          "Mercury/Asc = Neptune: Sandbach PDF p. 52 is a chapter start only.",
+          "Mercury/Neptune = Asc: Sandbach PDF p. 49 is a chapter start only.",
+          "Neptune/Asc = Mercury: Sandbach PDF p. 112 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-pluto.md",
+      "current_sha256": "016e89b055d8c4f70008506b8dd51a738846bfde77dfe004e0f5629de1acca36",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-neptune-pluto.md\n@@\n-The [Neptune/Pluto = Mercury Sandbach entry](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) retains the intrusive wording “3 Highlightersother”. The source paragraph is represented with a transcription artifact requiring verification.\n+The [Neptune/Pluto = Mercury Sandbach entry](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) separates the source's visible `3 Highlighters-` label from its restored sentence. The label remains an unexplained document artifact, outside interpretation.\n@@\n-[Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 110; exact entry page unverified)\n+[Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) (exact entry, PDF p. 110)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-neptune-pluto.md",
+        "activations": [
+          "wiki/activations/neptune-pluto-equals-mercury.md"
+        ],
+        "replacements": [
+          [
+            "The [Neptune/Pluto = Mercury Sandbach entry](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) retains the intrusive wording “3 Highlightersother”. The source paragraph is represented with a transcription artifact requiring verification.",
+            "The [Neptune/Pluto = Mercury Sandbach entry](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) separates the source's visible `3 Highlighters-` label from its restored sentence. The label remains an unexplained document artifact, outside interpretation."
+          ],
+          [
+            "[Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 110; exact entry page unverified)",
+            "[Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md#sandbach-entry) (exact entry, PDF p. 110)"
+          ]
+        ],
+        "reason": "Replace the obsolete unverified joined-text warning with the verified physical Sandbach document-artifact qualification and exact Neptune/Pluto = Mercury p. 110 locator.",
+        "evidence": [
+          "Owner activations-053.jsonl row26 and exact-current independent allowance personally checked actual Sandbach PDF110; the small isolated label is physically present between on and other people, now explicitly separated in the canonical source entry."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-045-066-sandbach-pdf110.png"
+        ],
+        "unresolved": [
+          "Sandbach's smaller 3 Highlighters- label is a real unexplained document artifact; it is retained outside interpretive prose.",
+          "Mercury/Neptune = Pluto: Sandbach PDF p. 49 is a chapter start only.",
+          "Mercury/Pluto = Neptune: Sandbach PDF p. 50 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-vulcanus.md",
+      "current_sha256": "80997b5efdbb76de31eda5043651293d43ebe4514bc44d79def2eb324e8cd6ba",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-neptune-vulcanus.md\n@@\n-The [Mercury/Vulcanus = Neptune ABC entry](../activations/mercury-vulcanus-equals-neptune.md#abc-entry) retains “forcec”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-neptune-vulcanus.md",
+        "activations": [
+          "wiki/activations/mercury-vulcanus-equals-neptune.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Vulcanus = Neptune ABC entry](../activations/mercury-vulcanus-equals-neptune.md#abc-entry) retains “forcec”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete forcec warning after the eight-clause Mercury/Vulcanus = Neptune ABC row and Neptune/Pluto boundary were restored from printed p. 267 / PDF p. 132.",
+        "evidence": [
+          "Owner activations-040.jsonl row32 and exact-current independent allowance verify unknown forces and the complete Neptune row, excluding the following Pluto development tail."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf132.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-zeus.md",
+      "current_sha256": "b7212afc11651433d247551116e367f770d96884566661b8e93d68111672cddd",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-neptune-zeus.md\n@@\n-The [Mercury/Zeus = Neptune Witte entry](../activations/mercury-zeus-equals-neptune.md#witte-entry) retains “fruidess”. Its paragraph is represented with a damaged word requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-neptune-zeus.md",
+        "activations": [
+          "wiki/activations/mercury-zeus-equals-neptune.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Zeus = Neptune Witte entry](../activations/mercury-zeus-equals-neptune.md#witte-entry) retains “fruidess”. Its paragraph is represented with a damaged word requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete fruidess transcription warning after the exact Mercury/Zeus = Neptune Witte row was checked on PDF p. 168 and fruitless restored.",
+        "evidence": [
+          "Owner activations-040.jsonl row52 personally checked Witte168; the complete current passage retains secret agreements/laws, destructive or fruitless requests and ineffective commands."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-witte-pdf168.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-node-apollon.md",
+      "current_sha256": "176748d8e43f0b48842e40d62ecaaf94970988582a67f650a0b464ccc090c92b",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-node-apollon.md\n@@\n-The [Mercury/Apollon = Node ABC entry](../activations/mercury-apollon-equals-node.md#abc-entry) retains “1-landels”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-node-apollon.md",
+        "activations": [
+          "wiki/activations/mercury-apollon-equals-node.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Apollon = Node ABC entry](../activations/mercury-apollon-equals-node.md#abc-entry) retains “1-landels”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete 1-landels warning after the complete seven-clause Mercury/Apollon = Node ABC row was restored from printed p. 262 / PDF p. 130.",
+        "evidence": [
+          "Owner activations-033.jsonl row37 checked Handels-Gespräche anknüpfen as initiating trade discussions and retained all media, transport and youth links."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf130.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-pluto-apollon.md",
+      "current_sha256": "b5ce81ea87451742decb6d80ee1cff8b9fa9a71144eff84345fa6369b5042d48",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-pluto-apollon.md\n@@\n-The [Mercury/Apollon = Pluto ABC entry](../activations/mercury-apollon-equals-pluto.md#abc-entry) retains “I landclsLanguage”, and its [Witte entry](../activations/mercury-apollon-equals-pluto.md#witte-entry) begins with an isolated “p”. Both paragraphs remain represented with transcription damage requiring verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-pluto-apollon.md",
+        "activations": [
+          "wiki/activations/mercury-apollon-equals-pluto.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Apollon = Pluto ABC entry](../activations/mercury-apollon-equals-pluto.md#abc-entry) retains “I landclsLanguage”, and its [Witte entry](../activations/mercury-apollon-equals-pluto.md#witte-entry) begins with an isolated “p”. Both paragraphs remain represented with transcription damage requiring verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete ABC I landclsLanguage and Witte p-prefix warnings after the complete Mercury/Apollon = Pluto rows and glyph boundary were verified.",
+        "evidence": [
+          "Owner activations-033.jsonl row39 checked the six-clause ABC printed263/PDF130 Pluto row and Witte PDF170 alternate Pluto display glyph; p is not prose, and the current development row begins with scientific-development reports."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf130.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-witte-pdf170.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-pluto-vulcanus.md",
+      "current_sha256": "0ac604316d707db81d3bb702dc8789730e0af8ad682041011511f17b9f1ceb93",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-pluto-vulcanus.md\n@@\n-The [Mercury/Vulcanus = Pluto ABC entry](../activations/mercury-vulcanus-equals-pluto.md#abc-entry) begins with “gend,”. The paragraph is represented with a damaged opening requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-pluto-vulcanus.md",
+        "activations": [
+          "wiki/activations/mercury-vulcanus-equals-pluto.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Vulcanus = Pluto ABC entry](../activations/mercury-vulcanus-equals-pluto.md#abc-entry) begins with “gend,”. The paragraph is represented with a damaged opening requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete truncated gend opening warning after the complete eight-clause Mercury/Vulcanus = Pluto ABC row was restored from printed p. 267 / PDF p. 132.",
+        "evidence": [
+          "Owner activations-040.jsonl row34 and exact-current independent allowance verify the Pluto opening, including energetic word exchanges, power changes and youth violence; the split Ju-gend belongs within this row."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf132.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-saturn-apollon.md",
+      "current_sha256": "b667317786b466ad49365cb59ef2808c6f0b0fd5a8f4af7fd070b8f60e17928c",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-saturn-apollon.md\n@@\n-The [Mercury/Apollon = Saturn ABC entry](../activations/mercury-apollon-equals-saturn.md#abc-entry) retains “1-landels”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-saturn-apollon.md",
+        "activations": [
+          "wiki/activations/mercury-apollon-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Apollon = Saturn ABC entry](../activations/mercury-apollon-equals-saturn.md#abc-entry) retains “1-landels”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete 1-landels warning after the seven-clause Mercury/Apollon = Saturn ABC row was restored from printed p. 263 / PDF p. 130.",
+        "evidence": [
+          "Owner activations-033.jsonl row41 checked hindered trade discussions and disturbed freedom, preserving scientific tasks/problems and separation thoughts."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-033-abc-pdf130.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-saturn-kronos.md",
+      "current_sha256": "46eeca44d18a2cccf618314993807b2b637ae23cdaabd13c94a1b932291de277",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-saturn-kronos.md\n@@\n-The [Mercury/Kronos = Saturn ABC entry](../activations/mercury-kronos-equals-saturn.md#abc-entry) retains “Authoritate”. Its paragraph is represented with that damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-saturn-kronos.md",
+        "activations": [
+          "wiki/activations/mercury-kronos-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Kronos = Saturn ABC entry](../activations/mercury-kronos-equals-saturn.md#abc-entry) retains “Authoritate”. Its paragraph is represented with that damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete Authoritate warning after the full seven-clause Mercury/Kronos = Saturn ABC row was restored from printed p. 261 / PDF p. 129.",
+        "evidence": [
+          "Owner activations-035.jsonl row49 and exact-current independent source allowance verify Autorität des Alters and the complete row; impaired standing replaces the old stereotyped-prestige mistranslation."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a035-038-udo-p129.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/mercury-saturn-vulcanus.md",
+      "current_sha256": "55d7b8aab305bfd75e36d2cbd2ce6f4d2df052a44167a522fccf0b5cf4474ebe",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/mercury-saturn-vulcanus.md\n@@\n-The [Mercury/Vulcanus = Saturn ABC entry](../activations/mercury-vulcanus-equals-saturn.md#abc-entry) preserves “inhibiting EintlUsse discuss” with an editorial damage note. The source paragraph is represented, but that phrase remains unresolved.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/mercury-saturn-vulcanus.md",
+        "activations": [
+          "wiki/activations/mercury-vulcanus-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Vulcanus = Saturn ABC entry](../activations/mercury-vulcanus-equals-saturn.md#abc-entry) preserves “inhibiting EintlUsse discuss” with an editorial damage note. The source paragraph is represented, but that phrase remains unresolved.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete unresolved EintlUsse phrase after the complete eight-clause Mercury/Vulcanus = Saturn ABC row was restored from printed p. 267 / PDF p. 132.",
+        "evidence": [
+          "Owner activations-040.jsonl row36 and exact-current independent source allowance verify hemmende Einflüsse besprechen as discussing inhibiting influences; the canonical note now records the resolved German wording."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf132.png"
+        ],
+        "unresolved": []
+      }
+    }
+  ]
+}

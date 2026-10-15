@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Venus MC Admetos](../triads/venus-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To be steadfast in one’s sympathies.
 
 #### ABC Entry
 
-End of my love, I strengthen the harmony, my perseverance in love, my grild love, my artistic perseverance, my depression in love, my deepening into the artificial, my fondness for primordial substances, mental blockade through love, and deep psychic love
+- Source passage: `Meridian + Admetos`; printed p. `94`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+End of my love, I strengthen harmony, my endurance in love, my thorough love, my artistic endurance, my depressions in love, my deepening into art, my preference for primordial substances, inner blockage through love, deep inner love.
+
+## Comparative Schema
+
+- **Core meaning:** Deep or persistent affection and sustained artistic engagement.
+- **Psychology:** Fixed sympathies and depth of love are explicit.
+- **Body/health:** ABC's depression in love is an attributed emotional description, not a diagnosis.
+- **Social/relationship:** Harmony, durable attachment, ended love, and blocked affection all occur.
+- **Events/manifestations:** Artistic perseverance and a fondness for primordial substances are uncommon stated details.
+- **Conflicts/notes:** ABC names thorough love and deepening into art; its primordial substances remain a literal motif without a specified material or health use.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Venus` softens the axis only enough to make affections steady and durable.
-- Chart expression: fixed sympathies, faithful liking, and attachments that remain constant, serious, and resistant to change.
+Venus specifies `MC/Admetos` through enduring affection and artistic persistence. Steadfast sympathy can deepen attachment and support harmony, while ABC also names the ending of love or a blockage through it; constancy therefore belongs alongside loss and restriction rather than guaranteeing a lasting partnership. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 94.)
 
 ## Links
 

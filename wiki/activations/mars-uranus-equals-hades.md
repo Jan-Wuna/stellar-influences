@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Hades`
 - Astronomicon formula: `U/X = ¢`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: one-based PDF p. 194, Hades row under Mars/Uranus.
+
 Vulgar acts. Sudden destruction. Murder and homicide. Death by accident.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Danger from sudden actions, defective work time rhythm, criminal over surprise actions, tensions caused by will abuse, spontaneous actions out of need, effective impulses from the past, and restlessness due to work problems
+English translation: Danger through sudden actions; deficient work rhythm; criminal surprise actions; tensions through renunciation of will; spontaneous actions from need; energetic impulses from the past; restlessness through work problems.
+
+Source: printed p. 303 (one-based PDF p. 150), Hades row under Mars/Uranus.
+
+## Comparative Schema
+
+- Core meaning: Danger or disruption arising around sudden action and difficult work.
+- Psychology: Restlessness and tension are ABC themes, not proof of destructive intent.
+- Body/health: Witte's accidental-death example remains an attributed historical claim.
+- Social/relationship: Witte lists homicide; ABC includes criminal surprise actions, without establishing anyone's criminality.
+- Events/manifestations: Spontaneous action from need, poor work rhythm, sudden destruction, and energetic impulses from the past.
+- Conflicts/notes: The printed `Willens-Verzicht` means renunciation of will, rather than abuse of will. Criminal surprise actions are an attributed source example, not a characterization of every sudden act.
+
+## Contradictions
+
+ABC includes action from need and work problems beyond Witte's severe destructive examples. Sudden activity is not automatically catastrophic.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Hades` makes destructive shocks crude, violent, and catastrophic.
-- Chart expression: vulgar acts, sudden destruction, murder, homicide, and accidental death through abrupt and brutal release of force.
+In `Mars/Uranus = Hades`, Hades specifies abrupt action through danger, necessity, or troubled work conditions. Poor work rhythm and work problems can accompany restlessness, while Witte's sudden destruction and homicide remain severe source examples. See the [Witte entry](#witte-entry) (PDF p. 194) and the complete [ABC entry](#abc-entry) (printed p. 303), which also includes tension through renunciation of will. These entries do not establish criminal intent or predict an accidental death.
 
 ## Links
 

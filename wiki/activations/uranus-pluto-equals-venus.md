@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Venus Uranus Pluto](../triads/venus-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Affections and friendships which start with surprise.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 372; PDF p. 185.
+
 #### ABC Entry
 
-Harmonious impulses transform, sudden harmonious development, new artificial developments, sudden change of affection, surprising peace development, growing harmony impulses, and changing love tensions
+Transforming harmonious impulses, sudden harmonious development, new artistic developments, a sudden change of affection, surprising development of peace, growing impulses of harmony, changing tensions in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 269, entry 0954.
 
 #### Ebertin Entry
 
 Creative power, desire to bring the new in art, constant longing for the new. The conquest of love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 105 (chapter start only; exact entry page not established).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Adds a softness to the rough and unusual character you can show; helps you bring
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Unexpected affection and innovation in art.
+- psychology: Attraction to unusual beauty and a longing for novelty.
+- body/health: No distinct health claim is established.
+- social/relationship: Surprising friendships, changing love relationships and courtesy during reform.
+- events/manifestations: Experimental art and new ways of presenting artistic ideas.
+- conflicts/notes: ABC retains both growing harmony and changing love tensions; new art is a stated creative field.
 
 ## Contradictions
 
-- None recorded yet.
+The entries combine sudden attraction and changing relationships with artistic innovation. ABC also retains development of peace, growing harmony and changing love tensions. Its “neue Kunst-Entwicklungen” means new artistic developments, checked on printed p. 372 (PDF p. 185); it does not mean artificial developments.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Venus`: unconventional attraction, radical value shifts, and the power to transform relationships through passion and freedom. Main caution: destabilized attachment: love can become erratic, compulsive, or too committed to intensity over steadiness.
+In `Uranus/Pluto = Venus`, Venus specifies sudden development in affection and artistic creation. Unexpected friendships or attraction to unusual people share a theme with experimental beauty: what is new changes how love or art is expressed. [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) support these motifs; [ABC](#abc-entry) adds artistic development, growing harmony and changing love tensions. [Munkasey](#munkasey-entry) retains a softer, courteous manner alongside a continuing wish for substantial change.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Mars`
 - Astronomicon formula: `U/W = U`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -41,22 +43,21 @@ The abrasiveness you show when pushing forward with efforts that should be halte
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Continuing to push a stalled effort when stopping may be needed.
+- Psychology: Anger, impatience for results, and frustration over earlier impulsiveness.
+- Body/health: The entry gives no bodily or health condition.
+- Social/relationship: Abrasive demands for progress can affect interaction with others.
+- Events/manifestations: Delayed or inactive efforts and loud demands for results.
+- Conflicts/notes: This repeated-factor formula has one source; repetition is not independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented, so no source comparison is possible.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Mars`: The abrasiveness one show when pushing forward with efforts that should be halted; anger over delays caused by impulsive actions taken long ago; loud clamor for results from important efforts that are stalled or inactive.
+In Munkasey's single-source `Mars/Saturn = Mars`, Mars specifies stalled effort through renewed pressure and anger. Pushing ahead can become abrasive when an effort should be halted, particularly where earlier impulsiveness contributed to present delays. The [Munkasey entry](#munkasey-entry) (printed p. 230) describes a frustrated demand for results, without establishing that persistence will remove the obstruction.
 
 ## Links
 

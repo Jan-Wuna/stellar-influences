@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Chiron](../axes/mars-chiron.md)
 - Triad hub: [Moon Mars Chiron](../triads/moon-mars-chiron.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 Feelings that are acted on and/or expressed directly and purely, resulting in a healing of self and situations.
 
+## Comparative Schema
+
+- core meaning: Direct expression or action on feelings is linked with healing.
+- psychology: The entry emphasizes feelings expressed directly and purely.
+- body/health: Healing of self is stated without identifying an illness or bodily process.
+- social/relationship: Situations as well as the self can be affected; no particular relationship is named.
+- events/manifestations: No concrete event is supplied beyond expressing or acting on feelings.
+- conflicts/notes: The entry does not define every impulsive emotional act as healing.
+
+## Contradictions
+
+Only one short entry is present; it provides no independent comparison or competing account.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron = Moon`: honest reactions, cleansing emotional action, and the capacity to let feeling move straight into repair. The caution is emotional impulsiveness or assuming raw expression is always constructive.
+Moon specifies the Mars/Chiron axis through feelings expressed or acted on directly. The [Sandbach entry](#sandbach-entry) links their direct and pure expression with healing of self and situations. This is a compact emotional theme; it supplies neither a medical mechanism nor a claim that every unfiltered reaction is constructive.
+
+Source locator: Sandbach PDF p. 69 is the Mars/Chiron chapter start; the exact entry page has not been verified.
 
 ## Links
 

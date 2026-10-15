@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = Mars`
 - Astronomicon formula: `S/W = U`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 The lonely or secluded man. The widower. To be the cause of another persons death. Death of the father. Overcoming inhibitions through the use of the own will.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Man's work problems, treatment of corporal pain, hard man's work, body stressing activity, concentrated work day, personal patience work, personal separation actions, and difficult work a day
+- Source passage: `Sonne + Saturn`; printed p. `150`; one-based PDF page `74` (oriented row checked against the scan).
+
+A man's work problems, treatment of bodily pain, hard men's work, activity that burdens the body, concentrated working day, personal work requiring patience, personal acts of separation, difficult work during the day.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Saturn`; printed p. `93`; one-based PDF page `95`; entry code `0246` (oriented row checked against the scan).
 
 Inhibitions in mental or physical development, seclusion, feeling of loneliness. Soul crises caused by one's own inhibitions or by other persons, mourning.
 
@@ -57,7 +65,9 @@ Inhibitions in mental or physical development, seclusion, feeling of loneliness.
 
 #### Sandbach Entry
 
-Lack of self-confidence when asserting oneself. Doing things in a carefully con trolled and purposefully organized manner, always with an eye on long-range results. Working too hard depletes vitality. The ability to stick to firm, set, or narrow goals when working or asserting oneself.
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `14` (exact activator entry checked in the raw PDF).
+
+Lack of self-confidence when asserting oneself. Doing things in a carefully controlled and purposefully organized manner, always with an eye on long-range results. Working too hard depletes vitality. The ability to stick to firm, set, or narrow goals when working or asserting oneself.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ An abrupt and abrasive mannerism with an already stern demeanor; fights through 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Will and work confront personal inhibition: controlled effort and endurance coexist with difficulty asserting oneself, seclusion and mourning. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- psychology: The sources allow overcoming inhibition through will and staying with demanding goals, but also low confidence, soul crises and an abrasive manner. [Witte](#witte-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- body/health: Bodily burdens, pain treatment, inhibited development and depleted vitality from overwork are historical source associations. Witte's death examples are not individual medical or mortality predictions. [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Witte](#witte-entry)
+- social/relationship: Loneliness, widowhood and the death of the father occur beside a desire to be in charge and competition; these are distinct relational possibilities. [Witte](#witte-entry) · [Munkasey](#munkasey-entry)
+- events/manifestations: Hard work, patient labor, acts of separation, organized pursuit of long-range results and overcoming inhibitions are explicit manifestations. [ABC](#abc-entry) · [Sandbach](#sandbach-entry) · [Witte](#witte-entry)
+- conflicts/notes: Witte retains the severe claim of causing another person's death; it remains attributed and does not establish violence or culpability. Endurance also does not remove Sandbach's warning that overwork depletes vitality. [Witte](#witte-entry) · [Sandbach](#sandbach-entry)
 
 ## Contradictions
 
-- None recorded yet.
+The entries preserve a real range: effective will and competitive endurance coexist with inhibited development, isolation and mourning. Witte's death examples remain distinct from the practical labor descriptions rather than defining every expression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Mars`: tenacity, discipline in labor, and the capacity to fight through difficult conditions. Main caution: frustrated force: anger can become suppressed, bitter, or self-damaging when action is repeatedly obstructed.
+`Sun/Saturn = Mars` brings effort directly against limits. Work may require patience, control and sustained endurance, and the person's will can overcome inhibition or hold firmly to long-range goals. Yet low confidence in assertion, an abrasive manner or excessive work can make the effort costly; the sources also retain loneliness, seclusion and mourning. Their severe death examples remain attributed possibilities, while the recurring practical theme is action pursued under constraint. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

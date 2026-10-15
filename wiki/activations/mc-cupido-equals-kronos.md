@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [MC Cupido Kronos](../triads/mc-cupido-kronos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ company with independent persons. Head of the board. A genius in the arts. A gre
 
 #### ABC Entry
 
-Renown of an animated community, a great soul of a community, I at the an authoritat in the community, inner guidance of a community, my reputation in the community, my special skill, and my self esteem in the community
+- Source passage: `Meridian + Cupido`; printed p. `85`; one-based PDF page `41` (complete oriented row checked against the raw scan).
+
+Standing of an ensouled community, great soul of a community, I am an authority within the community, inner direction of a community, my standing within the community, my particular art, my independence within the community.
+
+## Comparative Schema
+
+- **Core meaning:** Distinction, authority, and artistic ability in communal life.
+- **Psychology:** The entries emphasize standing rather than a separate personality diagnosis.
+- **Body/health:** No bodily or medical meaning is established.
+- **Social/relationship:** Independent associates, board leadership, and communal reputation are explicit.
+- **Events/manifestations:** A leadership role or notable artistic ability is represented.
+- **Conflicts/notes:** ABC names independence (Selbständigkeit), authority and particular art; these do not establish self-esteem or guaranteed genius.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Kronos` raises the axis into distinction, leadership, and high artistic ability within groups.
-- Chart expression: standing among capable or independent people, leadership in organizations, and exceptional artistic talent or authority inside communal settings.
+Kronos specifies `MC/Cupido` through standing within a group and distinction in art. Leadership of a board, company with independent people, and significant artistic talent join ABC's communal reputation and inner guidance; these are possible roles and abilities rather than a guarantee of genius or status. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

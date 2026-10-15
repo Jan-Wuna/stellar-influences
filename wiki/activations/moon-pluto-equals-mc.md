@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = MC`
 - Astronomicon formula: `R/Z = MC`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 To be exposed to fast or hourly changes. Continuous readjusting. To be “Johnny on the spot”. Likes to attend to his affairs without delay.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `190`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-Implication of women, development of a fine tuning soul, my growing people, my GcmUts ycrung, scelic change of a woman, hour of my change, hour and minute of change, transformation of a people soul, and evolution of my people
+Development of my wife, development of a sensitive soul, my growing people, my emotional change, inner change in a woman, the hour of my transformation, the hour and minute of a change, transformation of a people's soul, and evolution of my people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `135`, entry `0421`.
 
 #### Ebertin Entry
 
 A highly strained emotional life, one-sidedness, the inclination to remain and to act alone and never in accord with other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `37` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Attaining positive psychological growth thru the analysis and evaluation of your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal emotional adjustment and development under changing conditions.
+- psychology: strain, solitary action, mood evaluation, and psychological growth are named.
+- body/health: no bodily or clinical condition is stated.
+- social/relationship: women, a people, and a vocation involving mass nurturing are source examples.
+- events/manifestations: rapid changes, continuous readjustment, and attending promptly to one's affairs are explicit.
+- conflicts/notes: Sandbach's spiritual and karmic account remains its own explanatory model; crisis-tested leadership is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's solitary, strained emotional life differs in emphasis from Sandbach's mass nurturing vocation and Munkasey's positive psychological growth. These are distinct possibilities, without evidence that solitary strain must become public leadership.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = MC`: powerful public feeling, crisis-tested leadership, and the ability to carry heavy emotional realities into visible purpose. Main caution: severe public intensity: vocation can become too burdened by pressure, secrecy, or control dynamics.
+In Moon/Pluto = MC, MC specifies the pair through personal adjustment to emotional and external change. The [Witte entry](#witte-entry) stresses continuous readjustment and prompt attention to affairs; [Ebertin](#ebertin-entry) retains strain and a tendency to act alone. [Munkasey](#munkasey-entry) adds a possible route of growth through examining changing moods and emotionally based tendencies (p. 132).
+
+[ABC](#abc-entry) keeps both personal and collective emotional development in view (printed p. 190, PDF p. 94). [Sandbach](#sandbach-entry) supplies a separate vocational and spiritual range through mass nurturing and attention to subconscious impulses. This preserves the broader source range without making leadership or a public crisis the formula's necessary outcome.
 
 ## Links
 

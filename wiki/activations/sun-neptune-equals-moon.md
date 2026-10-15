@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Moon`
 - Astronomicon formula: `S/Y = R`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ To be dependent on mood or feeling. A weak husband. The divorced man. Death of t
 
 #### ABC Entry
 
-Fine tuning people's body, fine tuning of man for woman, woman and man in the water, woman and man in the air, sensitive woman of man, insecurity between woman and man, and uncertain future of a people
+Source locator: printed page 154 / PDF page 76, Moon glyph under Sonne + Neptun. English translation checked against the complete row; Volks-Körper is retained as a collective-body description.
+
+Sensitive body of a people, the man's sensitivity toward the woman, woman and man in water, woman and man in the air, the man's sensitive woman, uncertainty between woman and man, and uncertain future of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Dependence of one's feeling or moods on external influences, deep inner experien
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 18, complete Moon entry under Planets activating the Sun/Neptune midpoint.
 
 Being receptive to subtle forces, which can empower or drain one, depending on whether one takes them in randomly, or, through an act of will attains to a higher vibrational level. Emotional upsets may drain one’s vitality and/or create subtle imbal ances that may have far-reaching effects. One derives a feeling of security from being able to see into the deeper meanings at work behind all life’s phenomena.
 
@@ -70,22 +76,21 @@ Instinct which leads you into a dream world and away from reality; modesty as an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional receptivity to outside influences and deeper meanings.
+- psychology: Moods respond to surroundings; understanding hidden meaning may provide security or fantasy.
+- body/health: Ebertin's female-function claim and Sandbach's vitality language remain their attributions.
+- social/relationship: Historical husband/spouse descriptions concern impressionability and disappointment; they are not universal gender rules.
+- events/manifestations: Inner experiences and emergence of unconscious material; receptivity to others' dreams.
+- conflicts/notes: Witte's divorce/death examples are source claims, not predictions; ABC's collective-body description does not describe individual anatomy.
 
 ## Contradictions
 
-- None recorded yet.
+- The sources allow receptivity to sustain or unsettle the person; Sandbach explicitly makes this conditional. Witte's husband-death example does not establish a necessary outcome. ABC's sensitive body of a people is a collective description distinct from its individual relationship examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Moon`: psychic receptivity, profound inner experience, and strong emotional attunement to unseen meanings or influences. Main caution: depletion: moods, disappointments, and unconscious dependency can weaken stability, relationship confidence, and bodily resilience.
+Moon specifies the Sun/Neptune axis through emotional receptivity: moods take in outside influences, and a sense of security may come from recognizing deeper meaning behind experience. The same openness can carry a person toward fantasy or emotional exhaustion. [Ebertin Entry](#ebertin-entry), [Sandbach Entry](#sandbach-entry), and [Munkasey Entry](#munkasey-entry) describe that range. The gendered relationship and bodily examples in the older entries remain attributed examples; they do not turn this emotional pattern into a prediction about a spouse or health.
 
 ## Links
 

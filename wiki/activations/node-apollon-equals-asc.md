@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Asc`
 - Astronomicon formula: `g/¥ = Asc`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
-Union of free and equal people. Economic or scientific connections with others. Success due to personal freedom. To evolve unhindered. Connected with business people, scientists or many persons, promotion through these. Free people among each other.
+Union of free and equal people. Economic or scientific connections with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `232`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-Extension of a partner relationship, successful connection to others, extension of environmental contactc, connection with many places, connection to environmental knowledge, many obstacles with the partner, and increasing environmental contacts
+Expansion of a partner relationship, successful connection to others, widening contacts with the surroundings, connections with many places, connection to knowledge of the surroundings, many connections with the partner, and increasing contacts with the surroundings
+
+## Comparative Schema
+
+- core meaning: free, equal or expanding connections involving a partner and surroundings.
+- psychology: no fixed personality type or individual motive is stated.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: economic or scientific contacts with others and a partner are stated settings.
+- events/manifestations: connections to many places and widening local contacts are named.
+- conflicts/notes: success is an attributed possibility, not a guarantee attached to every contact.
+
+## Contradictions
+
+Witte's freedom and equality overlap with ABC's successful expanding contacts. ABC adds the partner's many connections and knowledge of the surroundings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Asc`: Union of free and equal people. Economic or scientific connections with others. Success due to personal freedom. To evolve unhindered. Connected with business people, scientists or many persons, promotion through these. Free people among each other.
-- Practical focus: union of free and equal people; also economic or scientific connections with others.
+Node/Apollon = Asc emphasizes freedom and breadth in contact with others. [Witte](#witte-entry) describes free and equal people and economic or scientific connections with others. [ABC](#abc-entry) adds an expanding partner relationship, many places and increasing knowledge of the surroundings (printed p. 232, PDF p. 115). These passages support widening participation and opportunity through contact, without guaranteeing success or assigning a personality type to every partner.
 
 ## Links
 

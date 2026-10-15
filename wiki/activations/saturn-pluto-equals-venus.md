@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Venus`
 - Astronomicon formula: `W/Z = Q`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Harmony and love develop slowly. Slow separation of a love. Divorce without grieving, to separate in peace. Divorce or separation longed for.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-serious art, Patience and harmony developing, harmonic development in old age, artistic tasks develop, maturity development through love, growing love pain, and w andlung through love separation
+- Source page: `352`; PDF page: `175`.
+
+Serious artistic development, developing patience and harmony, harmonious development in old age, developing artistic tasks, maturation through love, growing pain in love, and transformation through separation in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0894`.
 
 Self-discipline, love of solitude and seclusion, asceticism. Estrangement and alienation, desire to renounce love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 Extreme frustrations felt in love. A love of very deep, transformative connections with other people. A love of anything which is profoundly spiritual. To feel utterly and totally unloved, which can push one toward transformative spiritual experiences and a realization of the power of divine love.
 
@@ -70,22 +80,21 @@ Softening excessive restrictions; delays in the destruction of things which have
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Slow change in love and value, ranging from maturation to separation.
+- psychology: Patience, self-discipline, solitude and profound frustration or longing.
+- body/health: Pain concerns love in ABC; no bodily condition is specified.
+- social/relationship: Deep connection, estrangement, renunciation and peaceful separation are distinct possibilities.
+- events/manifestations: Artistic development, preserving valued beauty and pleasure in organizing work.
+- conflicts/notes: Sandbach's divine-love transformation is a spiritual account; pain does not assure spiritual growth.
 
 ## Contradictions
 
-- None recorded yet.
+Peaceful separation, painful frustration and mature love describe different conditions. The entries preserve all of them without establishing a universal emotional response or a direct source disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Venus`: enduring bonds, disciplined taste, and the ability to preserve value under difficult conditions. Main caution: possessive severity: affection can become guarded, transactional, or too compressed to remain warm and reciprocal.
+In `Saturn/Pluto = Venus`, Venus specifies development through love and what is valued. Affection and harmony can grow slowly, while separation may be peaceful, desired or painfully transformative ([Witte](#witte-entry), [ABC](#abc-entry)). Solitude and renunciation sit beside a wish for deep connection; [Sandbach](#sandbach-entry) interprets the pain of feeling unloved within a spiritual framework ([Ebertin](#ebertin-entry)). Value also takes practical form in artistic development, appreciation of traditional music and preserving beautiful things from destruction ([ABC](#abc-entry), [Munkasey](#munkasey-entry)). These possibilities keep both maturation and loss in view without assuming that either must follow.
 
 ## Links
 

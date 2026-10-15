@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = Mercury`
 - Astronomicon formula: `R/Z = T`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 To be quick and alert mentally. Easily gained knowledge or understanding.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `190`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-The development of women in traffic, the development of the youth of a people, the development of a language society, the change in the language of women, the language of young women, news about the growth of a people, and the transformation of a young woman
+A woman's development in Verkehr, development of a people's youth, developing a sense for language, emotional change through conversations, conversations of young women, news about the growth of a people, and transformation of a young woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `135`, entry `0412`.
 
 #### Ebertin Entry
 
 Far-reaching plans, zeal in pursuit of comprehensive ideas. The gift to wield a powerful influence upon the public through speaking or writing.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `36` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Discussing the role of feelings and concern for others; thinking about the role 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: mentally alert or emotionally powerful thought and communication.
+- psychology: quick understanding, zeal, subconscious intrusion, and possibly irrational thought are named.
+- body/health: no bodily or clinical condition appears.
+- social/relationship: powerful public speaking or writing and concern for others are explicit.
+- events/manifestations: far-reaching plans, mood shifts affecting power, language development, and public growth news are named.
+- conflicts/notes: ABC's Verkehr can refer to traffic or interaction; its intended setting is not established here.
 
 ## Contradictions
 
-- None recorded yet.
+Witte describes quick understanding, while Sandbach includes thinking that may be extremely irrational. Mental speed and emotional force do not establish accuracy; the entries preserve different qualities of thought.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Mercury`: profound insight, emotionally intelligent strategy, and the ability to name what is hidden beneath ordinary surfaces. Main caution: mental compulsion: suspicion, fixation, or intense narrative control can tighten emotional pressure rather than release it.
+In Moon/Pluto = Mercury, Mercury specifies the pair through thought and words with force or reach. The [Witte entry](#witte-entry) gives alertness and readily gained understanding; [Ebertin](#ebertin-entry) adds comprehensive plans and strong public influence through speaking or writing. [ABC](#abc-entry) retains developing language sensitivity and emotional change through conversation (printed p. 190, PDF p. 94).
+
+[Sandbach](#sandbach-entry) places emotional power in communication beside subconscious material intruding into thought, which may be irrational. [Munkasey](#munkasey-entry) connects discussion of feeling and uncertainty with public mood shifts and efforts to make inner insights real (p. 132). The supported strength is impact and range of expression, rather than guaranteed emotional intelligence or factual clarity.
 
 ## Links
 

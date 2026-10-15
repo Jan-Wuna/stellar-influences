@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Your competence in finding and then relating to others what you feel is newswort
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Finding and conveying information judged important or newsworthy.
+- psychology: Judging informational importance and adapting mentally while speaking.
+- body/health: No bodily condition is supplied by this paragraph.
+- social/relationship: Relating news or data to other people effectively.
+- events/manifestations: Selecting information, presenting news and adjusting to a speaking situation.
+- conflicts/notes: This paragraph concerns information and adaptation; the repeated-Mercury paragraph separately emphasizes gesture, delivery and nuance.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source paragraph is present, so independent source comparison is unavailable. The entry describes what one regards as important information, without establishing that every selection is objectively important.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Sun`: one's competence in finding and then relating to others what one feels is newsworthy or important as information or data; the effectiveness of one's ability to present news, and adapt mentally to situations while speaking.
+`Sun/Mercury = Sun` joins finding meaningful information with presenting it to others. [Munkasey](#munkasey-entry) connects the judgment of what is newsworthy with effective reporting and the ability to adapt mentally while speaking. Selection and presentation therefore belong to the same communicative task. This paragraph focuses on information and responsive expression, while the separate repeated-Mercury entry concerns emphasis, gesture and delivery.
 
 ## Links
 

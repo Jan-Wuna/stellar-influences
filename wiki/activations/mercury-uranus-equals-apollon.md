@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Apollon`
 - Astronomicon formula: `T/X = ¥`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Many want to send news suddenly. Many sudden news items. Telegrams or text messages. Sudden astrological thoughts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting experiences in the air, disturbing opinions of science, successful media technology, successful technical description, expansion of youth reform, new trade reports, new knowledge in the language, exciting success reports enduring technical language, excitement of a blocked youth, and excitement about
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting experiences in the air, disturbing scientific opinions, successful media technology, successful technical description, expansion of reform among youth, new trade reports, new knowledge in conversation, exciting reports of success.
+
+## Comparative Schema
+
+- core meaning: Sudden news and technical ideas spread through many messages or successful communication.
+- psychology: Excitement, disturbing scientific opinions and sudden astrological thoughts are named.
+- body/health: No bodily condition is supplied.
+- social/relationship: Many senders, trade reports, science and reform among youth are social settings.
+- events/manifestations: Telegrams, text messages, media technology and success reports are concrete examples.
+- conflicts/notes: The old ABC passage absorbed the start of Admetos; the actual Apollon row has eight clauses.
+
+## Contradictions
+
+Successful technical communication coexists with disturbing opinions or exciting news; neither establishes universal success or alarm.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Uranus = Apollon`: Many want to send news suddenly. Many sudden news items. Telegrams or text messages. Sudden astrological thoughts.
-- Practical expression: exciting experiences in the air, disturbing opinions of science, successful media technology, successful technical description, and expansion of youth reform.
+In `Mercury/Uranus = Apollon`, Apollon specifies sudden communication through many messages, expanding knowledge and technical success. Witte's telegrams or text messages and sudden astrological thoughts sit beside ABC's successful media technology, technical descriptions, new trade reports and knowledge exchanged in conversation. Exciting experiences in the air, disturbing scientific opinions and reform among youth retain the breadth of the examples without making every new report fortunate. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

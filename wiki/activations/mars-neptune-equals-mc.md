@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune MC](../triads/mars-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 The native himself in a rejecting mood. Hopes which prove false. To experience failures and losses. Sorrow on account of disease.
 
@@ -45,19 +49,27 @@ The native himself in a rejecting mood. Hopes which prove false. To experience f
 
 #### ABC Entry
 
-I work on or with water, I at the insecure with the work, mcinc Arhcit in metaphysics, my mis actions, my intuitive work, and activity in or with the work
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Another person's psychological will, I work on/in or with water, I am uncertain at work, I work for the future, my work in metaphysics, my mistaken actions, my intuitive work, and activity in or with the air.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Lack of ego-consciousness, dependence on subconscious influences. Lack of energy, discontent, feelings of inferiority. Hopelessness, failures, a state of weakness or sickness. 43 Node = Mars/Neptune has frequently been found in the case of hospitalization.
+Source: “Mars/Neptune,” printed p. 212 (PDF p. 214), entry 0733.
+
+Lack of ego-consciousness, dependence on subconscious influences. Lack of energy, discontent, feelings of inferiority. Hopelessness, failures, a state of weakness or sickness.
+
+Footnote 43 concerns `Mars/Neptune = Node`, entry 0731, rather than this MC entry: “Node = Mars/Neptune has frequently been found in the case of hospitalization.”
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-Acting on the dictates of spirit. The need to actively express one’s ideals to the world, or in a public way. To have a body of beliefs that makes it difficult for you to get things done practically, and so a need to work to bring one’s ideals down into phys ical, practical reality.
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 73.
+
+Acting on the dictates of spirit. The need to actively express one’s ideals to the world, or in a public way. To have a body of beliefs that makes it difficult for you to get things done practically, and so a need to work to bring one’s ideals down into physical, practical reality.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +82,21 @@ Attaining an understanding of the subtle forces or energies which drive the non-
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal purpose or public ideals struggling for practical expression.
+- psychology: Discouragement or dependence on subconscious influences alongside dreams, meditation, and spiritual motivation.
+- body/health: Witte and Ebertin name sickness or weakness; the Node hospitalization footnote belongs to another formula and is excluded.
+- social/relationship: Expressing ideals publicly and promoting ideas.
+- events/manifestations: False hopes, failures, losses, intuitive or future work, air/water work, and efforts to make ideals practical.
+- conflicts/notes: Ebertin's footnote43 explicitly concerns Node; its hospitalization observation is not evidence for this MC activation.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin and Witte emphasize weakness and failure, while ABC includes future and intuitive work and Munkasey success in promoting ideas. Sandbach explicitly connects spiritual purpose with practical difficulty.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = MC`: public idealism, subtle service, and a life direction affected by hidden drains, sickness, or discouragement. Main caution: ineffectual purpose: belief and aspiration can become hopelessness, failure, or dependence on vague influences instead of workable action.
+In `Mars/Neptune = MC`, MC specifies the pair through one's purpose and the difficulty of giving ideals a practical form. Sandbach connects spiritually motivated public action with beliefs that obstruct getting things done; Munkasey adds using dreams or meditation to address fear or anger and promote ideas. ABC's uncertainty and mistaken actions sit alongside intuitive, future, air, and water work. Witte and Ebertin emphasize false hopes, depleted energy, and failure, with sickness remaining their attributed historical claim. Ebertin's Node-oriented hospitalization footnote does not extend this MC reading. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 212, entry 0733; [Sandbach](#sandbach-entry), PDF p. 73; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 113 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0850; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Neptune`
 - Astronomicon formula: `V/Asc = Y`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -45,7 +48,9 @@ To play games or to speculate with others. To lose money through others. Seeming
 
 #### ABC Entry
 
-Fine for the right of the partner, joy in the water place, money weakness of the partner, happy intuitions in the place, partner pleasure in the air, weak for the money and more, insecure success in the place, and poor luck of the partner
+Sensitivity to the partner's rights, joy at a place by water, the partner's financial weakness, happy intuitions at the place, partner pleasure in the air, a weakness for other people's money, uncertain success at the place, and the partner's future happiness
+
+- Translation note: ABC PDF p. 55, printed p. 113, reads `Feingefühl für das Recht des Partners`, `Schwäche für das Geld anderer`, and `zukünftiges Glück des Partners`; the last means future happiness, not poor luck. See the [review proof](../../docs/reviews/2026-10-15-full-wiki/verification/activations-015-017-source-proof.md).
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,23 @@ Presenting a dreamy and unreal personal quality, and inducing people with your i
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Hopes of happiness through others meet uncertainty, speculation, and possible loss.
+- psychology: Exuberant idealism and intuitive opportunity coexist with confusion through excessive identification with others.
+- body/health: No medical condition is specified; the described unreality concerns presentation and expectations.
+- social/relationship: Shared hopes can rest on seeming happiness or superficial attention to others' needs.
+- events/manifestations: Speculation with others, financial loss, unfulfilled hopes, and disappointment are explicitly named.
+- conflicts/notes: ABC's checked future-happiness phrase preserves a hopeful possibility beside financial weakness and uncertain success.
 
 ## Contradictions
 
-- None recorded yet.
+- Intuitive opportunity and disappointment are possible expressions rather than a settled disagreement. ABC's future happiness is a distinct possibility, not an assertion that financial uncertainty must end badly.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Neptune`: charming hopes, shared dreams, and the wish to find luck through subtle feeling or idealized connection. Main caution: illusion: seeming happiness, speculative risk, misplaced trust, or excessive identification with other people can dissolve the benefits this pattern appears to promise.
+In `Jupiter/Asc = Neptune`, Neptune specifies the Jupiter/Asc pair as opportunity with others that may be hoped for more readily than secured. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) connect shared speculation and expectations with seeming happiness, disappointment, or financial loss.
+
+[Sandbach](#sandbach-entry) retains intuitive opportunity and idealism but warns of confusion through identifying too closely with others. [Munkasey](#munkasey-entry), p. 276, adds an attractive yet impractical presentation and superficial attention to people's needs. [ABC](#abc-entry) keeps future happiness beside financial weakness and uncertain success, preserving the distinction between a compelling social possibility and its practical fulfillment.
 
 ## Links
 

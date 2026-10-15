@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ARIES + APOLLON`
+- PDF page: `52`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ To spread out. To extend on Earth. Quantities. Commerce. Sciences. Trade. Glory.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `52–53`; PDF page: `25`
+
 #### ABC Pair Summary
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+Expansion in public, experiences in public, public freedom, public success, public trade, public knowledge, publication of knowledge, world economy.
+
+German pair summary checked: “Ausdehnung in der Öffentlichkeit, Erfahrungen in der Öffentlichkeit, öffentliche Freiheit, öffentlicher Erfolg, öffentlicher Handel, öffentliches Wissen, Veröffentlichung von Wissen, Welt-Wirtschaft”.
+
+## Comparative Schema
+
+- Core meaning: Expansion, wide distribution, and public success in commerce, trades, and science join public experience and knowledge.
+- Psychology: Recognition, honors, freedom, and peace are named aims or conditions; the summary does not establish an individual personality profile.
+- Body/health: Neither pair summary makes a specific bodily or medical claim.
+- Social/relationship: The global economy, public freedom and peace, and world religions place the meaning in a broad collective sphere.
+- Events/manifestations: Trade, scientific work, publication of knowledge, commercial prosperity, quantities, extension, and general recognition are explicit examples.
+- Conflicts/notes: Public experience, knowledge and freedom widen the range beyond wealth or honors; the entries establish no guaranteed outcome or necessary adverse counterpart.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ To spread out. To extend on Earth. Quantities. Commerce. Sciences. Trade. Glory.
 - [Vernal Point/Apollon = Vulcanus](../activations/vernal-point-apollon-equals-vulcanus.md)
 - [Vernal Point/Apollon = Zeus](../activations/vernal-point-apollon-equals-zeus.md)
 
+## Contradictions
+
+Both entries connect public expansion, commerce, success and freedom; ABC particularly names public experience and publication of knowledge, while Witte also names world religions and peace. No direct contradiction is established by these different emphases.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes to spread out, to extend on Earth, quantities, commerce, and sciences.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Vernal Point/Apollon describes extension into the wider world: goods, knowledge, and activity spread through trade, commerce, and science. Public experience and publication of knowledge give that breadth an experiential and communicative expression, while quantities, prosperity, recognition, and honors show its public and international reach ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
+
+Freedom is shared by the entries, and Witte also includes peace and world religions within that broad sphere. Expansion therefore encompasses public knowledge and freedom as well as commercial success; it does not promise wealth, fame, or peaceful conditions, and the sparse pair entries supply no necessary negative counterpart ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
 
 ## Links
 

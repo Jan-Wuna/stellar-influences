@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Admetos Poseidon`
 - Astronomicon triad-set: `g ¦ ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Node](../activations/admetos-poseidon-equals-node.md)
-- [Node/Admetos = Poseidon](../activations/node-admetos-equals-poseidon.md)
-- [Node/Poseidon = Admetos](../activations/node-poseidon-equals-admetos.md)
+- [Admetos/Poseidon = Node](../activations/admetos-poseidon-equals-node.md): base axis [Admetos/Poseidon](../axes/admetos-poseidon.md); activator [Node](../factors/node.md).
+- [Node/Admetos = Poseidon](../activations/node-admetos-equals-poseidon.md): base axis [Node/Admetos](../axes/node-admetos.md); activator [Poseidon](../factors/poseidon.md).
+- [Node/Poseidon = Admetos](../activations/node-poseidon-equals-admetos.md): base axis [Node/Poseidon](../axes/node-poseidon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `476`
-- `Node/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `235`
-- `Node/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `239`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Poseidon = Node](../activations/admetos-poseidon-equals-node.md#witte-entry) (PDF entry-start p. 312); [Node/Admetos = Poseidon](../activations/node-admetos-equals-poseidon.md#witte-entry) (PDF entry-start p. 154); [Node/Poseidon = Admetos](../activations/node-poseidon-equals-admetos.md#witte-entry) (PDF entry-start p. 156).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Poseidon = Node](../activations/admetos-poseidon-equals-node.md#abc-entry) (printed p. 476); [Node/Admetos = Poseidon](../activations/node-admetos-equals-poseidon.md#abc-entry) (printed p. 235); [Node/Poseidon = Admetos](../activations/node-poseidon-equals-admetos.md#abc-entry) (printed p. 239).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Node`: contact with educated people, educational establishments, and relational networks built through training or culture.
-- `Node/Admetos = Poseidon`: To be in mental or spiritual harmony with a few. Cultural work in a small circle. During education to be subjected to severe restrictions and limitations.
-- `Node/Poseidon = Admetos`: In mental or spiritual community with a few To be connected with cultured people.
+Node, Admetos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Node/Admetos](../axes/node-admetos.md)
+- [Node/Poseidon](../axes/node-poseidon.md)
 - [Node](../factors/node.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)

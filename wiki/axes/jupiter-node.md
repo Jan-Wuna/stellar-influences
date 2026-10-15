@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Node
 factor_a: Jupiter
 factor_b: Node
 related_activations:
+  - Jupiter/Node = Jupiter
+  - Jupiter/Node = Node
   - Jupiter/Node = Admetos
   - Jupiter/Node = Apollon
   - Jupiter/Node = Asc
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/NODE`
-- Source page: `271`
+- Source heading: `NODES + JUPITER`
+- PDF page: `144`
 
 #### Pair Summary
 
@@ -86,9 +90,11 @@ Fortunate union. Fortunate connections. Fortunate contacts. Financial relationsh
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `214–215`; PDF page: `106`.
+
 #### ABC Pair Summary
 
-Relations with the Community, successful relations, financial relations, joyful encounters, money mediation, happiness in bonds, legal relations, mediation, and favourable relations
+Relations with money, successful relationships, financial connections, joyful encounters, money mediation, happiness in connections, legal relationships, legal mediation, and advantageous relationships.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +178,17 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** Connections that offer mutual benefit, assistance, and room to learn or grow ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Hand](#robert-hand---horoscope-symbols)).
+- **Psychology:** Sociability, tact, generosity, and willingness to meet others halfway contrast with self-interest, misjudging people, or exaggerating one's connections ([Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+- **Body/health:** Ebertin's flow-of-force language and Munkasey's joint, ligament, and tissue correspondences remain attributed historical symbolism; neither establishes an individual bodily finding.
+- **Social/relationship:** Helpful contacts, fellowship, advantageous associations, and a beneficial partnership recur. Sandbach adds an expansive way of connecting despite difficulties.
+- **Events/manifestations:** Engagement, marriage, business advantages, shared philosophical study, and opportunities through friends are explicit possibilities. Munkasey's political applications concern treaties, trade, religious groups, and legal relations.
+- **Conflicts/notes:** Banzhaf/Haebler emphasizes meaning and life tasks rather than chiefly interpersonal benefit. ABC adds money relations and legal mediation to the favorable-connection theme.
 
 ## Related Activations
+
+- [Jupiter/Node = Jupiter](../activations/jupiter-node-equals-jupiter.md)
+- [Jupiter/Node = Node](../activations/jupiter-node-equals-node.md)
 
 - [Jupiter/Node = Admetos](../activations/jupiter-node-equals-admetos.md)
 - [Jupiter/Node = Apollon](../activations/jupiter-node-equals-apollon.md)
@@ -205,15 +214,14 @@ Expansion in the joints or connecting tissue; swelling of the joints; stretching
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Mutual benefit and self-interested or mistaken contact are alternative expressions within the entries. Banzhaf/Haebler's focus on purpose broadens the question without directly denying the relationship meanings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node` is the axis of fortunate associations, mutual benefit, fellowship, and growth through alliance. It combines goodwill, opportunity, ethics, and abundance with connection, cooperation, and the formation of supportive ties.
-- Chart expression: sociability, tact, helpful contacts, beneficial networks, and partnerships that widen opportunity, happiness, or understanding for both sides. Liabilities: opportunism, inflated assumptions about friendships or influence, self-interest disguised as fellowship, and poor judgment about which alliances are truly beneficial.
+Jupiter/Node describes growth made possible through connection: meeting someone who can help, forming a mutually beneficial association, or joining others in learning and shared interests. Tact, goodwill, and a generous way of approaching people support bonds that widen opportunity and understanding for both sides ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Hand](#robert-hand---horoscope-symbols)).
+
+Its difficult range concerns the quality of those bonds: looking first to personal gain, judging people poorly, or claiming a closeness or influence that is not there. The benefit of an association therefore cannot be inferred from the size of a network alone. The more personal strand concerns finding meaning and satisfaction in one's path, with unrealistic expectations as an alternative ([Munkasey, printed p. 271](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); [Banzhaf/Haebler, PDF p. 329](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

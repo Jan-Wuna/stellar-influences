@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Pluto Kronos`
 - Astronomicon triad-set: `S Z ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Pluto/Kronos = Sun](../activations/pluto-kronos-equals-sun.md)
-- [Sun/Kronos = Pluto](../activations/sun-kronos-equals-pluto.md)
-- [Sun/Pluto = Kronos](../activations/sun-pluto-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Kronos = Sun](../activations/pluto-kronos-equals-sun.md) | [Pluto/Kronos](../axes/pluto-kronos.md) | [Sun](../factors/sun.md) |
+| [Sun/Kronos = Pluto](../activations/sun-kronos-equals-pluto.md) | [Sun/Kronos](../axes/sun-kronos.md) | [Pluto](../factors/pluto.md) |
+| [Sun/Pluto = Kronos](../activations/sun-pluto-equals-kronos.md) | [Sun/Pluto](../axes/sun-pluto.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `Pluto/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
-- `Pluto/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `414`
-- `Sun/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
-- `Sun/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `165`
-- `Sun/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `157`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Pluto/Kronos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-kronos-equals-sun.md#witte-entry), one-based PDF entry-start p. `260`.
+- `Pluto/Kronos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-kronos-equals-sun.md#abc-entry), printed p. `414`.
+- `Sun/Kronos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-kronos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `114`.
+- `Sun/Kronos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-kronos-equals-pluto.md#abc-entry), printed p. `165`.
+- `Sun/Pluto = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-pluto-equals-kronos.md#witte-entry), one-based PDF entry-start p. `110`.
+- `Sun/Pluto = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-pluto-equals-kronos.md#abc-entry), printed p. `157`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Sun`: This activation emphasizes daily life or the body adjusts to increased responsibility, rank or tested capability.
-- `Sun/Kronos = Pluto`: This formula emphasizes change in authority and transformation through power.
-- `Sun/Pluto = Kronos`: This formula emphasizes transformation through authority and powerful shifts in rank or command.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -32,6 +32,8 @@ updated_at: 2026-05-06
 - Astronomicon formula: `V/MC = T`
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Mercury Jupiter MC](../triads/mercury-jupiter-mc.md)
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -70,22 +72,23 @@ Enhanced ability to verbalize and discuss aspects of personal growth in your lif
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal growth and good fortune are expressed through thought, discussion and planning.
+- psychology: Prudence, enthusiasm for understanding and a positive outlook; Sandbach also describes thought shaped by authority.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Enjoyable conversation, social exchange and useful business associations.
+- events/manifestations: Successful plans, large projects and explanations of changes in one's outlook.
+- conflicts/notes: Sandbach's dependence on authoritative ideas qualifies the favorable judgment motif; the source phrase `spir itual` contains a broken word.
 
 ## Contradictions
 
-- None recorded yet.
+The passages range from mental ease to searching inquiry and authority-influenced thinking. These are different possible expressions, not a demonstrated contradiction. Sandbach's split `spir itual` is retained without extending its meaning.
+
+Source locators in the review cache: ABC printed p. 74 (PDF p. 36); Witte PDF p. 65 (entry start); Ebertin printed p. 244, entry 0857; Sandbach PDF p. 86 (chapter start only; exact activation page unrecorded); Munkasey printed p. 280. These parser-derived locators have not been visually verified in this review.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Mercury`: strong judgment, enjoyable conversation, profitable planning, and a mind drawn to broad projects, truth, or high-minded explanation. Main caution: inflation of thought: big ideas can become excessive talking, mental superiority, or plans that outrun practical follow-through.
+In `Jupiter/MC = Mercury`, Mercury gives personal growth a thinking and speaking form: enjoyable conversation, considered plans and the ability to explain what one has learned. The [Ebertin entry](#ebertin-entry) connects this with farsighted projects and business association, while [Munkasey](#munkasey-entry), printed p. 280, describes discussing changes brought by new philosophies or religions. [Sandbach](#sandbach-entry) adds searching inquiry and the influence of perceived authorities, so an active mind need not always be an independent one.
 
 ## Links
 

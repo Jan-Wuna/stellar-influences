@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Asc Apollon](../triads/mercury-asc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Ascendant + Mercury,” Apollon entry, PDF p. 83.
 
 Scientific or business talks, arguments, actions, deals.
 
@@ -42,13 +46,27 @@ Scientific or business talks, arguments, actions, deals.
 
 #### ABC Entry
 
-Freedom of youth at the place, thoughts of the partner, thoughts about expansion in the environment, success language at the place, language experience of the partner, youth as partner of science, and scientific partner description
+Source: “Aszendent + Merkur,” Apollon entry, printed p. 107 / PDF p. 52. Translation checked against the German passage.
+
+Freedom of youth at the place, the partner's abundance of thoughts, thoughts about expansion in the surroundings, successful conversations at the place, the partner's experience in conversation, youth as a partner of science, scientific description of the partner.
+
+## Comparative Schema
+
+- core meaning: Scientific or business exchange and broader partner/local communication.
+- psychology: Abundant thought and consideration of expansion.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Experienced conversation partners, youthful freedom, and partnership with science.
+- events/manifestations: Scientific/business talks, arguments, actions, deals, and local conversational success.
+- conflicts/notes: Business and scientific examples do not require every partner to hold expertise or every discussion to produce a deal.
+
+## Contradictions
+
+Witte specifies scientific and commercial exchange. ABC adds partner experience, thought abundance and local conversations, broadening the settings without certifying professional competence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Asc = Apollon` widens the Mercury/Asc axis into scientific, commercial, and transactional conversation.
-- Chart expression: business talk, negotiated action, and an outward style that readily moves into deals, arguments, trade, and broad intellectual exchange.
+In `Mercury/Asc = Apollon`, Apollon specifies communication with others and the immediate surroundings through scientific, commercial and extensive exchange. Witte names business or scientific talks, arguments, actions and deals; ABC adds a partner's abundant thoughts and conversational experience, local successful talks and youthful links with science. These expressions connect the subject matter of exchange with experienced or expansive participation, without making expertise or a completed transaction compulsory. ([Witte](#witte-entry), PDF p. 83; [ABC](#abc-entry), printed p. 107 / PDF p. 52)
 
 ## Links
 

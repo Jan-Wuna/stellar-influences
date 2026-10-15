@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Venus`
 - Astronomicon formula: `T/Y = Q`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Superficial acquaintances. Love dreams. Love poem. To adore. Adored by acquaintances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Exchangeable peace language, delicate youth love, harmonic movements in the water, talking about love exchange, unclear love thoughts, insecure young love, preference for foreign languages, and preference for air traffic
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Enttäuschende Friedens-Gespräche, feinfühlige Jugend-Liebe, harmonische Bewegungen im Wasser, über Liebes-Enttäuschung sprechen, unklare Liebes-Gedanken, unsichere junge Liebe, Vorliebe für fremde Sprachen, Vorliebe für Luft-Verkehr
+
+Editorial translation from the German passage: Disappointing peace talks; sensitive young love; harmonious movements in water; speaking about disappointment in love; unclear thoughts of love; uncertain young love; a liking for foreign languages; a liking for air transport.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `161`; entry code: `0521`.
 
 #### Ebertin Entry
 
 Rapturous imaginings, expecting too much of love, strong attractive powers of short duration, a strong fluid-like emanation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Idealistic thinking about beauty and its role in life; idealizing on love and af
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Romantic and beautiful imaginings, love idealization and subtle communication.
+- psychology: Rapture, vanity and fantasy coexist with ungrounded thoughts that remain unrealized.
+- body/health: Ebertin's fluid-like emanation remains his historical wording, not a medical claim.
+- social/relationship: Love dreams, adoration, superficial acquaintances and expecting too much of love are explicit.
+- events/manifestations: Love poetry, appreciation of music or art, and ABC's language interests are examples.
+- conflicts/notes: Strong attraction may be brief; peace talks can disappoint.
 
 ## Contradictions
 
-- None recorded yet.
+The sources agree on romantic imagination but do not equate it with lasting affection. Ebertin emphasizes short duration and excessive expectation; Sandbach allows fantasy without realization, and ABC includes disappointment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Venus`: lyrical speech, artistic diplomacy, and the ability to soothe or enchant through language and tone. Main caution: soft-focus persuasion: expression can become too flattering, evasive, or idealized to stay fully honest.
+In `Mercury/Neptune = Venus`, Venus directs imaginative thought toward love, beauty and subtle communication. Love dreams and poetry, appreciation of the arts and idealization of affection belong together here. The distinction is between a beautiful inner picture and its realization: attraction may be brief, expectations excessive, and fantasy ungrounded. ABC's disappointing peace talks and love disappointment retain this limit alongside sensitive young love and harmonious movement in water ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

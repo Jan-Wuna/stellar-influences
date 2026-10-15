@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Mars`
 - Astronomicon formula: `Y/Asc = U`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be damaged. To be infected by other people. Uncertain, unclear behavior of the counterpart at work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Activities with others in the water, work with a sensitive partner, activities in a subtle environment, work on the environment of water, exchange by work partners, work in a foreign place, and work with others in the air
+Activities with others in water, work with a sensitive partner, efforts in a subtle environment, working on water as the environment, disappointment through a work partner, activity in a foreign place, and activity with others in the air
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1027`.
 
 #### Ebertin Entry
 
 Inclination to fight against disharmonious influences of the environment, experiencing angry upsets or quarrels within one's environment. Primitive and instinctive urges wrongly expressed, unpleasantness in teamwork and cooperation, suffering of harm or damage.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The ability to be subtly aggressive and to actively deceive others. To be indire
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increases the physical energy you have to push thru your ideas or dreams; spirit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action and cooperation complicated by unclear behavior, disappointment, or conflict.
+- psychology: anger may be covert or subtle; forceful promotion of ideas is another explicit possibility.
+- body/health: infection and damage are Witte's historical claims; Munkasey describes physical energy without a medical assessment.
+- social/relationship: work partnerships, teamwork quarrels, and attempts to motivate or bully others are stated.
+- events/manifestations: work in water, air, or a foreign place accompanies disappointment through a work partner.
+- conflicts/notes: delicate action and active deception are distinct alternatives in Sandbach, not proof that subtle conduct is dishonest.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize harm and difficult cooperation; Sandbach includes delicate action as well as covert aggression, and Munkasey includes energetic persuasion or bullying.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Mars`: instinctive reaction, sacrificial effort, and the attempt to act from feeling or vision rather than brute force. Main caution: confused aggression: anger can become passive-aggressive, draining, deceptive, or misdirected.
+In Neptune/Asc = Mars, Mars specifies the pair through action with others whose conduct or aims may be unclear. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe damage and difficult cooperation; [ABC](#abc-entry) adds sensitive work partnerships and disappointment through a work partner (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) distinguishes delicate action from covert anger or deception, while [Munkasey](#munkasey-entry) describes pushing ideas, motivating, or bullying. This retains several forms of action rather than reducing them all to sacrificial effort or passive aggression. Infection remains an attributed historical claim.
 
 ## Links
 

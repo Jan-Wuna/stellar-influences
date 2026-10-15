@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Zeus Admetos](../triads/moon-zeus-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ To feel depressed at work. To work under pressure. To make up one’s mind.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 203; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-Perseverance of a frail woman, limitation of fiery feelings, firm goals of a woman, performance restrictions in the people, gem tit depression after procreation, gross efforts of a woman, hour of creative deepening, and creating deep feelings
+German passage (transcribed from PDF page `100`, printed page `203`):
+
+> Ausdauer einer führenden Frau, Begrenzung feuriger Gefühle, feste Ziele einer Frau, Leistungs-Einschränkungen im Volk, Gemüts-Depression nach Zeugung, gründliche Anstrengungen einer Frau, Stunde der schöpferischen Vertiefung, tiefe Gefühle erzeugen
+
+Editorial translation from the German passage: Endurance of a leading woman; limitation of fiery feelings; a woman's firm aims; restrictions on achievement among the people; depressed mood after procreation; a woman's thorough efforts; an hour of creative deepening; generating deep feelings.
+
+## Comparative Schema
+
+- core meaning: Constricted feeling meets work pressure, goals or decision.
+- psychology: Making up one's mind is Witte's distinct constructive example.
+- body/health: ABC explicitly names depressed mood after procreation; this historical claim does not establish a diagnosis.
+- social/relationship: A woman's goals and a people's performance limits are source-specific examples.
+- events/manifestations: Work under pressure and creative deepening are concrete manifestations.
+- conflicts/notes: The actual German names a leading woman, not a frail one; firm aims coexist with pressure.
+
+## Contradictions
+
+Work pressure and depressed feeling coexist with decision, leadership, thorough efforts and creative deepening.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Zeus`: To feel depressed at work. To work under pressure. To make up one’s mind.
-- Practical expression: perseverance of a frail woman, limitation of fiery feelings, firm goals of a woman, performance restrictions in the people, and gem tit depression after procreation.
+In `Moon/Admetos = Zeus`, Zeus specifies the axis through work pressure and reaching a decision. Witte describes feeling depressed at work and making up one's mind; ABC adds firm goals, endurance of a leading woman, thorough effort and creative deepening. Purpose therefore persists within constraint. ABC's depressed-mood-after-procreation phrase remains a separate historical association rather than a medical prediction ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

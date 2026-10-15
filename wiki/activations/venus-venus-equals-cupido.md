@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Venus = Cupido`
 - Astronomicon formula: `Q/Q = ¡`
 - Axis page: [Venus/Venus](../axes/venus-venus.md)
@@ -33,10 +35,23 @@ updated_at: 2026-04-21
 
 Marital happiness. Pleasant company. Peaceful society or association. Love marriage. Things we are pleased with. Pleasant social activities. Beautiful art creations. Artistic beauties. Beauty. Artist associations.
 
+## Comparative Schema
+
+- core meaning: shared pleasure in partnership, association, and art.
+- psychology: satisfaction in company and beautiful things.
+- body/health: no health condition is stated.
+- social/relationship: love marriage, pleasant company, and peaceful association.
+- events/manifestations: social activities, art creations, and artists' associations.
+- conflicts/notes: marital happiness is one named expression, not an assured outcome.
+
+## Contradictions
+
+The single entry places marriage, sociability, and art under shared enjoyment; these emphases do not contradict one another.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Venus = Cupido`: marital happiness.
+Cupido specifies `Venus/Venus` through enjoyment shared in a union or group. The [Witte entry](#witte-entry), PDF p. 175, joins marital happiness and pleasant company with peaceful associations, social activities, and beautiful artistic creations. Artists' associations are a concrete meeting point of its social and aesthetic themes; the entry does not guarantee happiness in every union.
 
 ## Links
 

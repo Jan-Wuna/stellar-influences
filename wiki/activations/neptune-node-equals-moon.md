@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Moon`
 - Astronomicon formula: `Y/g = R`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 To be tied to people who are confused and without counsel. Marital separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-A uflosung a Gefhls connection, exchangeable connection to a woman, delicate connection to a woman, insecurity of a woman in a connection, unclear connection to the people, unsafe contacts to a woman, and connection to a sensitive woman
+Dissolution of an emotional connection, disappointing connection to a woman, sensitive connection to a woman, uncertainty of feeling in a connection, unclear connection to the people, uncertain contacts with a woman, and connection to a sensitive woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1012`.
 
 #### Ebertin Entry
 
 Lack of adaptability and community spirit. Disappointments, unsatisfactory relationships with females, cessation of an inner understanding between people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The emotional need to connect to people with whom one feels a psychic affinity. 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increased needs to isolate yourself from others; prompts you to fluctuate in you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional affinity and uncertainty in connections, including disappointment or withdrawal.
+- psychology: desire for nurturing, vulnerability, escapism, and fluctuating wishes for company are explicit.
+- body/health: psychic affinity and intuition are attributed spiritual language, not a health mechanism.
+- social/relationship: marital separation, difficulty adapting, and unsatisfactory relations with women are source examples.
+- events/manifestations: dissolution of an emotional tie and alternation between company and isolation are named.
+- conflicts/notes: the gendered examples remain source-specific; deep healing, dependency, or universal emotional enmeshment is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize confused or unsatisfactory ties. Sandbach describes nurturing through shared ideals and vulnerability to subtle influence; Munkasey adds fluctuation between company and isolation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Moon`: compassionate closeness, intuitive sympathy, and the ability to share mood, pain, or healing with others deeply. Main caution: enmeshment: bonds can become draining, dependent, disappointed, or ruled by emotion rather than clarity.
+In Neptune/Node = Moon, the wish for emotional affinity meets uncertainty about connection. [Sandbach](#sandbach-entry) describes seeking nurturing through shared ideals and feeling vulnerable to subtle influence; [Munkasey](#munkasey-entry) adds fluctuating wishes for company, solitude, romance, or escape. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) retain separation and unsatisfactory understanding, while [ABC](#abc-entry) includes both sensitive connection and uncertainty of feeling. These passages support emotional ambivalence without establishing a healing role or inevitable dependency.
 
 ## Links
 

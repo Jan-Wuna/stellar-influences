@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Poseidon`
 - Astronomicon formula: `VP/Z = ¨`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -42,13 +44,31 @@ Developing new ideas. General mental transformations or developments.
 
 #### ABC Entry
 
-Findings about developments in the public, change of ideas in the public, clear changes in the public, cultural development in the public life, development of truth in the public, and development of communication in the public
+- Source reference: printed p. `43`, one-based PDF p. `20`, complete Poseidon row.
+
+German passage transcribed from the scan:
+
+> Erkenntnisse über die Entwicklungen in der Öffentlichkeit, Ideen-Wandel in der Öffentlichkeit, klare Veränderungen in der Öffentlichkeit, Kultur-Entwicklung im öffentlichen Leben, Wahrheits-Entfaltung in der Öffentlichkeit, Vernunfts-Entfaltung in der Öffentlichkeit
+
+Editorial translation: Insights into developments in public; changes of ideas in public; clear changes in public; cultural development in public life; unfolding of truth in public; unfolding of reason in public.
+
+## Comparative Schema
+
+- Core meaning: Public development through new ideas, understanding, and cultural change.
+- Psychology: Mental transformation and changing ideas are explicit.
+- Body/health: No bodily condition or medical interpretation is supplied.
+- Social/relationship: Cultural and intellectual development are situated in public life.
+- Events/manifestations: New ideas, findings about public developments, and development of truth are named.
+- Conflicts/notes: ABC names unfolding of reason, alongside truth and cultural development; a new idea is not thereby established as true.
+
+## Contradictions
+
+The entries overlap in development of ideas; cultural development and truth add emphasis rather than an opposing proposition. They do not establish that every new idea is true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Poseidon`: developing new ideas and general mental transformations or developments.
-- Practical expression: findings about developments in the public, change of ideas in the public, clear changes in the public, cultural development in the public life, and development of truth in the public.
+In `Vernal Point/Pluto = Poseidon`, Poseidon specifies public development through new ideas and changes in understanding. The [Witte entry](#witte-entry) supplies mental transformation; the [ABC entry](#abc-entry) extends this into cultural development, changing public ideas, and the unfolding of truth and reason. These support an intellectual and cultural form of development, without equating every change of opinion with clearer knowledge.
 
 ## Links
 

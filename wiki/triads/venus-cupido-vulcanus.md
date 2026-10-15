@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Cupido Vulcanus`
 - Astronomicon triad-set: `Q ¡ §`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Cupido/Vulcanus = Venus](../activations/cupido-vulcanus-equals-venus.md)
-- [Venus/Cupido = Vulcanus](../activations/venus-cupido-equals-vulcanus.md)
-- [Venus/Vulcanus = Cupido](../activations/venus-vulcanus-equals-cupido.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Cupido/Vulcanus](../axes/cupido-vulcanus.md) | `Venus` | [Cupido/Vulcanus = Venus](../activations/cupido-vulcanus-equals-venus.md) |
+| [Venus/Cupido](../axes/venus-cupido.md) | `Vulcanus` | [Venus/Cupido = Vulcanus](../activations/venus-cupido-equals-vulcanus.md) |
+| [Venus/Vulcanus](../axes/venus-vulcanus.md) | `Cupido` | [Venus/Vulcanus = Cupido](../activations/venus-vulcanus-equals-cupido.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Cupido/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
-- `Cupido/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `434`
-- `Venus/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `283`
-- `Venus/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `295`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Cupido/Vulcanus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-vulcanus-equals-venus.md#witte-entry), one-based PDF entry-start p. `273`.
+- `Cupido/Vulcanus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-vulcanus-equals-venus.md#abc-entry), printed p. `434`.
+- `Venus/Cupido = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-vulcanus.md#abc-entry), printed p. `283`.
+- `Venus/Vulcanus = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-vulcanus-equals-cupido.md#witte-entry), one-based PDF entry-start p. `188`.
+- `Venus/Vulcanus = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-vulcanus-equals-cupido.md#abc-entry), printed p. `295`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Venus`: a union kept intact by powerful harmony and art objects of exceptional beauty.
-- `Venus/Cupido = Vulcanus`: mighty longing for harmony with others, or for marital happiness.
-- `Venus/Vulcanus = Cupido`: to push something forward with fervor.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

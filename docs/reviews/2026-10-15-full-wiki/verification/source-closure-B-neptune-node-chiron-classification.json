@@ -1,0 +1,21 @@
+{
+  "path": "wiki/activations/neptune-node-equals-chiron.md",
+  "original_ledger": "ledgers/activations-052.jsonl",
+  "original_record_line": 51,
+  "sole_page_change": {
+    "field": "structural_only",
+    "before": "absent",
+    "after": true
+  },
+  "other_metadata_unchanged": true,
+  "body_unchanged": true,
+  "source_section_unchanged": true,
+  "source_section_sha256": "685954513212f3dad11393147eae69cba97a5f42d35caf4e133effa6d366573a",
+  "page_sha256": "295bfb11f2f7ae5840ae1de04fbc1e22bbbc4bd539a30dcd0215ad7d0d1a3b85",
+  "record_line_sha256": "9246c75206140659c708fd0561b4aec113690a97b850be472eee26d112cfa586",
+  "proof": "verification/activations-045-066-sandbach-neptune-node-gap.md",
+  "coverage": "Actual complete Sandbach Neptune/Node chapter PDF111–112 has no Chiron entry; documented by original full review and independently accepted by root.",
+  "classification": "lookup-only orientation placeholder; no source-bearing delineation",
+  "new_review_count": 0,
+  "global_metadata_exception": "Root-owned narrow addition of structural_only:true on this exact page only."
+}

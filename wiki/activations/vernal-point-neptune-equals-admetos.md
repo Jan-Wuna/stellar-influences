@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Neptune Admetos](../triads/vernal-point-neptune-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Until now uncertain conditions are settled. Forming of ice. Icing up glaciation.
 
@@ -42,13 +46,27 @@ Until now uncertain conditions are settled. Forming of ice. Icing up glaciation.
 
 #### ABC Entry
 
-Dissolving depression in public, from the air blocked public, exchanging blockades in public life, public water circulation, deep public uncertainty, and water restriction in public life
+- Source page: 41; PDF page: 19 (one-based spread).
+
+Dissolution of public depressions, a public blocked from the air, disappointing blockades in public life, public water circulation, deep public insecurity, and water restrictions in public life
+
+## Comparative Schema
+
+- core meaning: Uncertain public conditions settled or constrained through blockage and restriction.
+- psychology: Dissolving depression and deep insecurity are both source possibilities.
+- body/health: Depression is source language without clinical detail.
+- social/relationship: A public affected by blockades or water restrictions.
+- events/manifestations: Ice formation, glaciation, and water circulation.
+- conflicts/notes: Settlement and relief coexist with blockage; air blockade is retained literally.
+
+## Contradictions
+
+Witte emphasizes the settling of uncertainty; ABC includes relief from depression but also deep insecurity and blockades. These opposing directions remain explicit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Admetos`: until now uncertain conditions are settled, forming of ice, and icing up glaciation.
-- Practical expression: dissolving depression in public, from the air blocked public, exchanging blockades in public life, public water circulation, and deep public uncertainty.
+In `Vernal Point/Neptune = Admetos`, public uncertainty meets a condition of settling, hardening, or restriction. The [Witte entry](#witte-entry) names settled conditions and ice formation. The restored [ABC entry](#abc-entry) adds dissolved depression, blockades, water circulation, and restrictions, while retaining deep insecurity. The synthesis holds possible stabilization or relief beside the constraint that may also define the situation.
 
 ## Links
 

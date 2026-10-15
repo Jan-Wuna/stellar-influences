@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `£/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `296`, chapter heading `ZEUS + POSEIDON`.
 
 Creative mentality. Disposed or minded to. The conviction, the formal proof, the evidence. The certificate or report of a test. Mental leadership. Mental compulsion. Mental work and creation. To be a witness. To attest or to testify. To lead. To prove. To verify. Purposeful education.
 
@@ -78,7 +82,20 @@ Creative mentality. Disposed or minded to. The conviction, the formal proof, the
 
 #### ABC Pair Summary
 
-Encouraging clarity, mind flash, spiritual guidance, spiritual goals, fiery spirit, clan: goals, culture design, cultural achievement, reason effort, and truth witnessing
+Source reference: printed page `458`, PDF page `228`, bold pair summary above the activation rows.
+
+Source wording: "Beginnende Klarheit, Geistes-Blitz, geistige Führung, geistige Ziele, feuriger Geist, klare Ziele, Kultur-Gestaltung, kulturelle Leistung, Vernunft-Anstrengung, Wahrheits-Bezeugung".
+
+Editorial translation, checked against the scan: Emerging clarity; a flash of insight; mental or spiritual leadership and aims; a fiery mind or spirit; clear goals; cultural creation and achievement; effort of reason; bearing witness to truth.
+
+## Comparative Schema
+
+- Core meaning: Purposeful mental creation and leadership, with proof, evidence, verification, and education explicitly emphasized.
+- Psychology: Conviction and creative mentality are stated, along with mental compulsion; conviction alone does not establish truth.
+- Body/health: No clinical or bodily condition is specified by the mental vocabulary.
+- Social/relationship: Teaching, leading through ideas, witnessing, attesting, and testifying, with a coercive possibility retained in mental compulsion.
+- Events/manifestations: Formal proofs, evidence, test certificates or reports, purposeful education, and the ABC entry's cultural achievement and truth witnessing.
+- Conflicts/notes: Evidence and conviction must remain distinguishable. The ABC scan reads emerging clarity and clear goals; the former "clan: goals" wording was an OCR/translation error.
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Encouraging clarity, mind flash, spiritual guidance, spiritual goals, fiery spir
 - [Zeus/Poseidon = Vernal Point](../activations/zeus-poseidon-equals-vernal-point.md)
 - [Zeus/Poseidon = Vulcanus](../activations/zeus-poseidon-equals-vulcanus.md)
 
+## Contradictions
+
+Mental leadership, creation, and testimony recur without an explicit source disagreement. Witte also names mental compulsion, so the educational and evidential themes should not erase a coercive possibility. The ABC emphasis on emerging clarity and clear goals differs in emphasis rather than contradicting that range. Its damaged cached summary has been replaced by a labeled translation checked against printed page `458`.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis frames Zeus through intellect and proof, describing purposeful mental creation, persuasive evidence, and leadership exercised through testimony, verification, or education.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Zeus/Poseidon` concerns purposeful work of the mind, especially where an idea is taught, demonstrated, or attested. The [pair summary](#pair-summary) joins creative mentality and mental leadership with conviction, formal proof, evidence, test reports, witnessing, verification, and purposeful education. The [ABC pair summary](#abc-pair-summary) develops clarity, clear goals, cultural creation, and bearing witness to truth.
+
+The pair's distinctive issue is giving mental content direction and an expressed or evidenced form. That includes conviction but does not certify that a conviction is correct: the source separately names proving and verifying, and retains mental compulsion alongside leadership. Its mental vocabulary supplies no clinical diagnosis or guarantee that a claimed proof is sound.
 
 ## Links
 

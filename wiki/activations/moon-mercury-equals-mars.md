@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Mars`
 - Astronomicon formula: `R/T = U`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Adventure minded youth. Compulsory military service for youth. Energetically acting girl. Clearness and sharpness of intellect and memory. Sudden decision.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Work of the female youth, working language with women, moving women actions, moving thoughts into action, opinions on women work, opinions on the work of the people, news activity for the people, and power of action of a young woman
+Work of female youth, work conversations with women, active women's actions, putting thoughts imbued with feeling into action, opinions on women's work, opinions on the work of the people, news activity for the people, and a young woman's energy for action
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0329`.
 
 #### Ebertin Entry
 
 Thinking directed upon an objective, keen and sharp judgment, a protective care for others which is vigorously undertaken. Primitive and instinctive thinking, procreative urge. A passionate young woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Struggles you go thru to have your concepts of communications adopted by others;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: putting immediate thought and feeling into action or forceful communication ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: sharp judgment and purposeful thought range alongside impulsive decisions and emotion-laden anger.
+- body/health: Ebertin includes a procreative urge; it is not a diagnosis or a general health outcome.
+- social/relationship: vigorous protection of others and struggles to have one's communication adopted are explicit interpersonal expressions.
+- events/manifestations: work, sudden decisions, military service for youth, and debates about family or history are source examples.
+- conflicts/notes: focused action and impulsive expression are different possibilities; the historical gendered examples do not define all women or youth.
 
 ## Contradictions
 
-- None recorded yet.
+The entries do not state an exclusive choice between purposeful action and impulsiveness. Ebertin's objective-directed judgment and Sandbach's spur-of-the-moment changes describe different expressions; Munkasey's communication struggles add a social setting.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Mars`: verbal courage, useful immediacy, and the ability to name tension before it festers. Main caution: argumentative reactivity: words can become cutting, impatient, or too fused with passing emotional charge.
+In Moon/Mercury = Mars, Mars specifies the Moon/Mercury pair by moving thought and feeling toward action. The [Witte entry](#witte-entry) names sharp intellect and sudden decision, and [Ebertin](#ebertin-entry) adds objective-directed thinking and vigorous protection of others. The [ABC entry](#abc-entry) explicitly includes putting thoughts imbued with feeling into action (printed p. 176, PDF p. 87).
+
+This can also be forceful communication driven by the moment: [Sandbach](#sandbach-entry) names impulsive emotional expression and angry words, while [Munkasey](#munkasey-entry) describes emphatic speech, debates, and struggles to get one's communication adopted (p. 104). Decisiveness and argument are a supported range, rather than a guarantee of courage or a claim that tension is resolved.
 
 ## Links
 

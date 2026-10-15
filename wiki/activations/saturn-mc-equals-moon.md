@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Moon Saturn MC](../triads/moon-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To avoid or to deny public appearance. To separate from others. The frame of min
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-My autgae as a woman, my stiff people, my women's problems, my feelings problems, my wife's duties, my people's problems, my mature women's soul, my wife's pain, the woman's emotional pain, and my mother's loss
+My task as a woman, my disturbed people, my women's problems, my emotional problems, my wife's duties, problems of my people, a mature woman's soul, my wife's pains, the woman's soul-pains, and loss of my mother.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0928`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Sadness or melancholy, impressionable, a person easily depressed, inclination to fall into states of depression or psychoses. Suffering from members of the female sex.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 95.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ A restrictive but nurturing parent; stifled in your childhood; a family which do
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional security and family life affected by restriction, authority, or separation.
+- psychology: impressionability, melancholy, career-based security, and possible insecurity.
+- body/health: Ebertin's depression and psychosis wording and ABC's pains remain attributed historical claims.
+- social/relationship: wife, mother, women, and one's people in the sources; restrictive family roles in Munkasey.
+- events/manifestations: withdrawal from public appearance, separation, family duties, and maternal loss.
+- conflicts/notes: Historical gendered roles are preserved without treating them as universal identities.
 
 ## Contradictions
 
-- None recorded yet.
+- Career security, family restriction, and separation are differing emphases; Ebertin's medical language does not establish a diagnosis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Moon`: endurance, responsibility in domestic and public rhythms, and the capacity to carry long-term obligations without spectacle. Main caution: discouragement: sadness or fatigue can make career and purpose feel joyless or isolating.
+In `Saturn/MC = Moon`, Moon specifies the Saturn/MC axis through emotional security, family expectations, and the pain of separation. [Witte](#witte-entry) describes withdrawing from public appearance and a mood shaped by separation from a woman. [ABC](#abc-entry) retains duties and difficulties involving women, wife, mother, and one's people in its historical gendered vocabulary.
+
+[Munkasey](#munkasey-entry) emphasizes strict family values, restrictive upbringing, and subordinating oneself to family needs. [Sandbach](#sandbach-entry) connects security with a settled career but allows insecurity when that career does not fit, alongside impressionability toward authority. [Ebertin](#ebertin-entry) emphasizes melancholy and susceptibility to depression; his psychosis language remains an attributed historical claim.
 
 ## Links
 

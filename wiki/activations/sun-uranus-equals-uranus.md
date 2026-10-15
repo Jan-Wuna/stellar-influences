@@ -28,12 +28,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS With Itself`
-- Source page: `82`
+- Source locator: printed p. `82`, PDF p. `83` (Uranus row under With Itself; raw scan checked).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ The novelty and inventiveness you show as an individual; the detachment you exhi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: The repeated Uranus emphasizes inventive individuality and resolution to follow one's own course.
+- psychology: Novelty, detachment and personal determination are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Exciting others about one's ideas can coexist with detachment and opposition.
+- events/manifestations: Showing inventiveness and persisting with an individual direction are named.
+- conflicts/notes: Despite all opposition describes the source's resolve; success or universal social rejection is not promised.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-factor entry is present; a comparison between sources is not available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Uranus`: The novelty and inventiveness one show as an individual; the detachment one exhibit when exciting others about one's ideas or interests; enhanced personal resolution to go one's own way in life despite all opposition.
+In `Sun/Uranus = Uranus`, the repeated Uranus brings inventiveness and personal independence into sharper focus. Munkasey links showing novel ideas to others with detachment, then adds stronger resolution to follow one's own direction despite opposition ([Munkasey](#munkasey-entry), printed p. 82, Uranus row). This connects originality with persistence; it does not establish that opposition always occurs or that persistence guarantees success.
 
 ## Links
 

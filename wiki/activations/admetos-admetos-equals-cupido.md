@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Admetos/Admetos](../axes/admetos-admetos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 #### Witte Entry
 
+Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 310 (entry start).
+
 To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. Hermitage. To become a hermit. Monasticism. Monastery. End of being together with others.
+
+## Comparative Schema
+
+- core meaning: Separation from association and life apart from others.
+- psychology: Seeking solitude is possible, but the entry also describes being avoided.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Avoiding others, being avoided, and the dissolution of an association.
+- events/manifestations: Hermitage, monasticism, monasteries, and the end of being together.
+- conflicts/notes: The [Witte entry](#witte-entry) does not determine whether solitude is chosen or imposed.
+
+## Contradictions
+
+Avoiding others and being avoided are alternative directions of separation within one entry. No second source is present to establish agreement or disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Admetos = Cupido`: hermitage, monastic separation, and stepping away from group or family entanglement. Main caution: severed belonging: associations dissolve, social warmth recedes, and solitude becomes isolation rather than chosen stillness.
+In `Admetos/Admetos = Cupido`, Cupido specifies the repeated Admetos pair through an ending or withdrawal from association. The [Witte entry](#witte-entry) connects the dissolution of a group and the end of togetherness with solitude, hermitage, and monastic life. It includes both avoiding others and being avoided, so the common thread is separation rather than a claim that isolation must be voluntary or unwelcome. No more specific family meaning is established by this entry.
 
 ## Links
 

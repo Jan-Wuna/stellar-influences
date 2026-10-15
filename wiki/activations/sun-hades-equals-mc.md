@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Hades](../axes/sun-hades.md)
 - Triad hub: [Sun MC Hades](../triads/sun-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 116; PDF page 112 (one-based).
 
 To be misshapen. To be sensible of bodily defects and restrictions. Not to be recognized or to be suppressed.
 
@@ -42,13 +46,27 @@ To be misshapen. To be sensible of bodily defects and restrictions. Not to be re
 
 #### ABC Entry
 
-My mysterious husband, my pecuniary sorrow, my daily service, my renunciation for the man, my corporal disadvantages, my personal past, mental distress, and spiritual service for the man
+Source locator: printed page 160; PDF page 79 (one-based).
+
+My mysterious husband, my personal sorrow, my daily service, my renunciation of the man, my bodily disadvantages, my personal past, a person's inner distress, and service to people's inner life.
+
+## Comparative Schema
+
+- core meaning: Personally experienced disadvantage, sorrow or suppression, alongside daily and inward service.
+- psychology: Inner distress and awareness of bodily limitations.
+- body/health: Witte's bodily-defect language remains historical attribution, not an assessment of appearance or health.
+- social/relationship: Lack of recognition, suppression, a mysterious husband and renunciation of a man.
+- events/manifestations: Daily service and personal history are explicit settings.
+- conflicts/notes: Personal sorrow is not specifically financial; service remains part of the entry rather than total ruin.
+
+## Contradictions And Comparison Notes
+
+Witte emphasizes awareness of restriction and nonrecognition; ABC adds personal history and service. The service clauses provide an additional role without denying the difficult experiences.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Hades = MC`: ruined or broken down and to a sufferer.
-- Practical expression: my mysterious husband, my pecuniary sorrow, my daily service, my renunciation for the man, and my corporal disadvantages.
+For `Sun/Hades = MC`, the entries place disadvantage and sorrow within personal experience. [Witte](#witte-entry) describes awareness of bodily restriction, lack of recognition or suppression; [ABC](#abc-entry) adds personal sorrow, one's past and daily service, including service to people's inner life. Its mysterious-husband and renunciation examples remain specific relational meanings. The formula retains both burden and service, without turning historical bodily language into a judgment of a person's appearance or reducing their whole life to ruin.
 
 ## Links
 

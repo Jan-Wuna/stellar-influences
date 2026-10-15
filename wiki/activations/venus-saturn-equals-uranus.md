@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Uranus](../triads/venus-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 Short harmonious union, then separation. Sudden separated love. Reveling in illicit love.
 
@@ -45,17 +49,23 @@ Short harmonious union, then separation. Sudden separated love. Reveling in illi
 
 #### ABC Entry
 
-Exciting love separation, serious love experience, love impulses in old age, new problems in love, sudden love separation, sudden harmony problems, rhythmic artificial tasks, and tensions through storten peace
+- Source page: 275; PDF page: 136 (one-based spread).
+
+Exciting separation in love, serious love experience, love impulses in old age, new problems in love, sudden separation in love, sudden harmony problems, rhythmic artistic tasks, and tensions through disturbed peace
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 182; entry code: 0608.
 
 A tense love relationship, the desire to suddenly overcome inhibitions or obstacles in love. A strong temporary infatuation, a quarrel between lovers, a sudden separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 57 (one-based; entry-specific page not established).
 
 The desire to be freed from the limitations found in love and other relation ships. Strange or unusual problems encountered when interacting with others. A sud den encountering of someone who one feels a deep love for. Embracing spiritual love is one’s path to personal freedom and discovering one’s unique individuality.
 
@@ -70,22 +80,21 @@ Introduces resentment over disappointments which diminish your enjoyment or appr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Abrupt change or a wish for freedom where love meets restriction.
+- psychology: Temporary infatuation, resentment, rebellion, and desire to overcome inhibition.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Brief harmony, quarrels, sudden separation, or suddenly encountering deep love.
+- events/manifestations: New love impulses, unusual relating problems, and rebellion over enforced dress or conduct.
+- conflicts/notes: Durable unconventional bonds are not established; illicit love remains Witte's historical label.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden deep love and sudden separation are different possibilities. Spiritual freedom is Sandbach's interpretive path, not a guarantee of lasting union.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Uranus`: the ability to modernize commitment, create unconventional but durable bonds, and balance form with originality. Main caution: relationships can flip between distance and need, producing freeze-break cycles, abrupt separations, or rigid self-protection.
+In `Venus/Saturn = Uranus`, Uranus specifies the pair through abrupt changes and reactions against limitation. [Witte](#witte-entry), [Ebertin](#ebertin-entry), and the [ABC entry](#abc-entry) name sudden separation, temporary intensity, or disrupted harmony. [Sandbach](#sandbach-entry) also allows a sudden encounter with deep love and a wish for spiritual freedom. [Munkasey](#munkasey-entry) makes the resistance concrete in resentment and rebellion against imposed dress or behavior. The evidence supports change and tension without promising durable unconventional commitments.
 
 ## Links
 

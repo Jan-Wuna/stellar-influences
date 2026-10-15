@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Jupiter Pluto Admetos](../triads/jupiter-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 The fortunate change of destiny. (Caution: Make sure that the natal Pluto is not found in negative pictures).
 
@@ -42,13 +46,27 @@ The fortunate change of destiny. (Caution: Make sure that the natal Pluto is not
 
 #### ABC Entry
 
-Blocked success development, restricted money development, successful development through perseverance, successful change through grinningness, grinning changes in the financial system, deepening legal development, and beneficial cycle development
+- Source page: 418 (printed); PDF page: 208 (one-based; exact row checked).
+
+Blocked development of success, restricted development of money, successful development through perseverance, successful change through thoroughness, thorough changes in finance, deepening legal development, beneficial cyclical/circulatory development.
+
+## Comparative Schema
+
+- core meaning: a potentially fortunate fundamental change achieved amid limits on success or money.
+- psychology: perseverance and thoroughness support successful development.
+- body/health: ABC's Kreislauf wording can mean a cycle or circulation; it identifies no bodily mechanism or diagnosis.
+- social/relationship: no particular partnership or group is specified.
+- events/manifestations: restricted finances, deepening legal development and thorough changes in finance.
+- conflicts/notes: Witte explicitly qualifies the fortunate change by its negative-picture caution; ABC also retains blocked success and restricted money.
+
+## Contradictions
+
+Witte explicitly qualifies the fortunate change by its negative-picture caution; ABC also retains blocked success and restricted money.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Jupiter`: the fortunate change of destiny; (Caution: Make sure that the natal Pluto is not found in negative pictures).
-- Practical expression: blocked success development, restricted money development, successful development through perseverance, successful change through grinningness, and grinning changes in the financial system.
+Jupiter specifies `Pluto/Admetos` through a fundamental change that may prove fortunate while still involving restriction. The [Witte entry](#witte-entry) gives a fortunate turn of destiny with an explicit negative-picture qualification; the [ABC entry](#abc-entry) joins blocked success and limited money to success through perseverance and thoroughness. Financial and legal changes are concrete fields of expression. The favorable possibility therefore remains conditional, and neither passage promises wealth or an unqualified improvement.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Kronos = Mercury`
 - Astronomicon formula: `V/¤ = T`
 - Axis page: [Jupiter/Kronos](../axes/jupiter-kronos.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 218; one-based PDF page 214, Jupiter/Kronos section, Mercury row.
+
 Fortunate management of thoughts. Master of glib tongue.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-special media successes, reports on funds of the state, htcm, success by the superiority of the child, successful participation of the youth, and important youth law
+- Source reference: printed page 338; one-based PDF page 168, Jupiter/Kronos section, Mercury row; full row and neighbors checked against the scan.
+
+Authority in traffic law, special media successes, reports on state funds, dominant news of success, success through superiority in discussion, successful state consultations, great advantages for youth, and important youth law
+
+## Comparative Schema
+
+- core meaning: Successful thought and speech in Witte; media, discussion and legal reporting in ABC.
+- psychology: Fortunate management of thoughts; verbal fluency in Witte's 'glib tongue' wording.
+- body/health: No bodily condition is stated.
+- social/relationship: Discussion, state consultations and youth rights appear in ABC.
+- events/manifestations: Media success, reports on state funds, traffic law and news of success.
+- conflicts/notes: ABC's discussion-superiority clause concerns conversation, not a child's superiority; youth remains in two separate clauses.
+
+## Contradictions
+
+The entries emphasize effective communication, but 'glib tongue' does not by itself establish ethical quality or control over other people. No source promises that successful rhetoric produces authority in every setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Mercury`: authority working through rhetoric, mental command, and persuasive intelligence. It favors sharp verbal control and the ability to direct others through well-managed thought and language.
+In `Jupiter/Kronos = Mercury`, [Witte](#witte-entry) describes fortunate management of thought and a glib tongue. [ABC](#abc-entry) gives practical forms: media success, reports on state funds, successful discussion and state consultations. Traffic law and youth law add legal contexts, while advantages for youth remain a separate possibility. The orientation concerns effective thought, speech and information; directing other people is not explicitly stated.
 
 ## Links
 

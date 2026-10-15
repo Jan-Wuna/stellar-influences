@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
 - Triad hub: [Mercury Mars Vulcanus](../triads/mercury-mars-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 172 (entry start); source heading: `Mercury + Vulcanus`.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To act fast, to proceed energetically, without noticing resistance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 266; one-based PDF p. 132 (oriented row checked against the scan); source heading: `Merkur + Vulkanus`.
+
 #### ABC Entry
 
-Influential youth work, talk about force work, violence activity of youth, young work force, powerful movement work, powerful thought impulses, powerful thought work, news about violence activity, and strong news activity
+Influential youth work, conversations about strenuous work, violent activity among youth, a young worker, vigorous movement work, powerful thought impulses, powerful mental work, news about violent activity, intense news activity.
+
+## Comparative Schema
+
+- core meaning: Forceful thought is expressed as speed and energetic action.
+- psychology: Proceeding without noticing resistance is Witte's specific qualification.
+- body/health: Movement and work are mentioned, without a specific illness claim.
+- social/relationship: Youth work and reports of violence appear as different ABC examples.
+- events/manifestations: Strong thought impulses, physical effort and news activity are listed.
+- conflicts/notes: Energetic activity and violent activity are not interchangeable; both occur in the source range.
+
+## Contradictions
+
+Energetic activity and violent activity are not interchangeable; both occur in the source range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Vulcanus = Mars`: To act fast, to proceed energetically, without noticing resistance.
-- Practical expression: influential youth work, talk about force work, violence activity of youth, young work force, and powerful movement work.
+In `Mercury/Vulcanus = Mars`, Mars specifies forceful thought through fast, energetic action. Proceeding without noticing resistance connects with vigorous movement, strenuous work and powerful mental impulses; youth work, a young worker and intense news activity supply concrete settings. ([Witte](#witte-entry); [ABC](#abc-entry))
+
+Violent activity among youth and reports about it remain separate ABC examples. Ordinary vigor and violence are not interchangeable, so the range cannot be reduced to either productive effort or aggression alone. ([ABC](#abc-entry))
 
 ## Links
 

@@ -20,38 +20,46 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Cupido`
 - Astronomicon triad-set: `R Z ¡`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Cupido = Pluto](../activations/moon-cupido-equals-pluto.md)
-- [Moon/Pluto = Cupido](../activations/moon-pluto-equals-cupido.md)
-- [Pluto/Cupido = Moon](../activations/pluto-cupido-equals-moon.md)
+- [Moon/Cupido = Pluto](../activations/moon-cupido-equals-pluto.md): base axis [Moon/Cupido](../axes/moon-cupido.md); activator [Pluto](../factors/pluto.md).
+- [Moon/Pluto = Cupido](../activations/moon-pluto-equals-cupido.md): base axis [Moon/Pluto](../axes/moon-pluto.md); activator [Cupido](../factors/cupido.md).
+- [Pluto/Cupido = Moon](../activations/pluto-cupido-equals-moon.md): base axis [Pluto/Cupido](../axes/pluto-cupido.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
-- `Moon/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `193`
-- `Moon/Pluto = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `191`
-- `Pluto/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `408`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Cupido = Pluto](../activations/moon-cupido-equals-pluto.md#witte-entry) (PDF entry-start p. 130); [Moon/Pluto = Cupido](../activations/moon-pluto-equals-cupido.md#witte-entry) (PDF entry-start p. 129); [Pluto/Cupido = Moon](../activations/pluto-cupido-equals-moon.md#witte-entry) (PDF entry-start p. 257).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Cupido = Pluto](../activations/moon-cupido-equals-pluto.md#abc-entry) (printed p. 193); [Moon/Pluto = Cupido](../activations/moon-pluto-equals-cupido.md#abc-entry) (printed p. 191); [Pluto/Cupido = Moon](../activations/pluto-cupido-equals-moon.md#abc-entry) (printed p. 408).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Pluto`: Entertaining hours in company, especially in a society of women.
-- `Moon/Pluto = Cupido`: This activation socializes `Moon/Pluto` through family shifts, transient domestic change, and visitors who alter the emotional atmosphere. It suggests transformation entering the household in passing but noticeable ways, often through kinship or social traffic.
-- `Pluto/Cupido = Moon`: This activation emphasizes passing transformation; A people change its face, it changes the look and the being; Changes in public conditions.
+Moon, Pluto and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Moon/Cupido = Pluto ABC entry](../activations/moon-cupido-equals-pluto.md#abc-entry) retains “cine development”. This is a specific wording limit on a represented entry; its sibling formulas do not supply a replacement.
 
 ## Links
 
+- [Moon/Cupido](../axes/moon-cupido.md)
+- [Moon/Pluto](../axes/moon-pluto.md)
+- [Pluto/Cupido](../axes/pluto-cupido.md)
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Cupido](../factors/cupido.md)

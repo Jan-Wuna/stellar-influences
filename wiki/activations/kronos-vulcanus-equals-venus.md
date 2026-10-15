@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Venus Kronos Vulcanus](../triads/venus-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Venus entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To feel that the power of the state is good and just. In harmony with the power 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 464; PDF p. 231 (one-based), Kronos + Vulkanus, Venus entry.
+
 #### ABC Entry
 
-Special influence of beauty, special power of harmony, peaceful state power, great power of love, great influence of the arts, harmonious influence of the boss, preference for special arts, and benevolent influence of the hierarchy
+Special influence of beauty; special power of harmony; peaceful state power; great power of love; great influence of art; harmonious influence of the chief; preference for special art; benevolent influence of the hierarchy.
+
+## Comparative Schema
+
+- Core meaning: Harmony, benevolence, beauty, and love shape the experience of powerful authority.
+- Psychology: Feeling state power to be good and just is Witte's subjective formulation.
+- Body/health: No specific body or health claim appears.
+- Social/relationship: A chief's harmonious influence and benevolent hierarchy are explicit.
+- Events/manifestations: Peaceful state power and the influence of art and beauty are ABC motifs.
+- Conflicts/notes: Perceived justice is not independent proof that an authority is legitimate.
+
+## Contradictions And Tensions
+
+Perceived justice is not independent proof that an authority is legitimate.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Venus`: feeling that state power is good and fair and living in harmony with the force of government.
-- Chart expression: legitimate authority, acceptance of power as just, and cooperative alignment with official structures.
+With Venus, Kronos/Vulcanus describes a favorable relationship to power and the influence of harmony, love, art, or beauty. Witte carefully frames justice as feeling that state power is good and just. ABC adds peaceful state power, a harmonious chief, and benevolent hierarchical influence, while retaining the power of love and art. The synthesis preserves this favorable experience without converting acceptance of authority into proof of its legitimacy. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

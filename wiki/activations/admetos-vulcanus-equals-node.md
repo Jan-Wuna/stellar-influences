@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Admetos/Vulcanus = Node`
 - Astronomicon formula: `¦/§ = g`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 311, Node row.
+
 Connected with things in which one is severely handicapped. To be under the impact of a heavy blow of fate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked energy connections, influence rich connections deepen, connect energy and endurance, solid power connections, solidification of influence rich connections, strong barriers in one connection, and resistance to violence encounters
+Reference: printed p. 474 (one-based PDF p. 236), Node row.
+
+Blocked energy connections, deepening influential connections, joining energy and endurance, firm power connections, consolidation of influential connections, strong restrictions in a connection, and resistance to encounters with violence.
+
+## Comparative Schema
+
+- core meaning: Connections marked by heavy limitation or consolidated influence and endurance.
+- psychology: No individual temperament is supplied; endurance is joined through connections.
+- body/health: Witte's severely handicapped wording describes impediment without defining a medical condition.
+- social/relationship: Firm power ties, deepened influential contacts, or strong restrictions in a bond.
+- events/manifestations: Blocked energy connections, a heavy blow of fate, and resistance to violent encounters.
+- conflicts/notes: ABC's strengthened ties remain beside its restrictions; the entries do not establish that all alliances transmit misfortune.
+
+## Contradictions
+
+Blocked connections and consolidated influential ties are alternative expressions within ABC. They do not directly deny Witte's connection with severe impediments.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Node`: binding ties formed under pressure and relationships that expose one to heavy obstacles. Main caution: connected burden: alliances become channels through which harsh weight, limitation, or ordeal enters life.
+In `Admetos/Vulcanus = Node`, Node specifies the pair through connections involving severe impediments or a heavy blow of fate in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) gives those connections a broader range: energy may be blocked and a bond restricted, but influential ties can also deepen and combine energy with endurance. Resistance to violent encounters is another supported expression. The common concern is what a connection constrains or consolidates.
 
 ## Links
 

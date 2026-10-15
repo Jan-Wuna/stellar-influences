@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Pluto Hades](../triads/mars-pluto-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ To sink into a serving condition. Failure caused by heavy duties. Slackening of 
 
 #### ABC Entry
 
-Development work, lack of will, hidden development/rbcit, growing criminal activity, and growing labour shortage
+Development of work-related criminality, dangerous developments at work, endangered development work, deficient development of will, hidden development work, growing criminal activity, and growing lack of work.
+
+- Source reference: printed p. 311, PDF p. 154, Pluto row. The row starts with `Entwicklung der Arbeits-Kriminalität`, which the extraction had attached to Neptune; `gefährdete Entwicklungs-Arbeit` continues within this same Pluto paragraph.
+
+## Comparative Schema
+
+- core meaning: Difficult work develops or accumulates burdens that can undermine service.
+- psychology: ABC names deficient development of will.
+- body/health: Overwork is stated without a specific medical condition.
+- social/relationship: Witte describes sinking into a serving condition and heavy duties.
+- events/manifestations: Dangerous work developments, growing crime or work shortage and hidden development work are ABC examples.
+- conflicts/notes: The restored Pluto opening belongs here, not to Neptune; heavy duties do not by themselves establish coercion.
+
+## Contradictions
+
+Witte emphasizes service weakened by burdens; ABC emphasizes dangerous or deficient development. These different manifestations share difficulty without asserting the same event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Pluto`: coercive labor, overpowering obligation, and a degrading workload that eventually weakens the very service it demands.
+Pluto specifies the Mars/Hades axis through developments in difficult work and the accumulation of burdens. [Witte](#witte-entry) describes heavy duties and overwork weakening service; [ABC](#abc-entry) adds dangerous work developments, growing criminal activity or work shortage, and hidden development work. The source range concerns deteriorating or endangered activity, while the retained wording does not itself establish forced labor or a medical result.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 311, PDF p. 154, Pluto glyph paragraph.
 
 ## Links
 

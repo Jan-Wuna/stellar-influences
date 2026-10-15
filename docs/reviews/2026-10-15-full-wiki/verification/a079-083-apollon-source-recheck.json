@@ -1,0 +1,282 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twenty new Uranus/Apollon full reviews in original079 ledger: sixteen source-prose repairs and four source-prose-preserving locator additions.",
+  "actual_source_inspection": [
+    "verification/a079-083-udo-pdf190.png personally viewed: PDF190 printed382–383, all20 glyph-owned rows.",
+    "verification/a079-083-witte-pdf240.png personally viewed: all20 Witte glyph-owned rows; Witte source prose preserved.",
+    "Independent follow-up: actual source-repair-review-uranus-neptune-abc-pdf190.png personally inspected; Cupido sixth clause neues technisches Wissen means new technical knowledge. Prior latest was an overstatement; existing record and report amended, zero new counts."
+  ],
+  "boundary_proof": {
+    "neptune": "Eight clauses end viel Feingefühl für Rhythmus; no trade/development clauses belong to Neptune.",
+    "pluto": "Eight clauses begin Beunruhigende Veränderungen im Handel, erfolgreiche Neu-Entwicklung, erfolgreiche technische Entwicklung; followed by evolutionäre Wissens-Entfaltung, neues Wissen entwickeln, technisches Wissen entwickeln, viel Unruhe durch Veränderungen, Wandlungen durch neues Wissen."
+  },
+  "verification": [
+    "Complete full-page reads, base axis and assigned manifest/evidence comparison.",
+    "Actual diffs read in four bounded five-page batches; scoped whitespace, metadata/formula, unique adjacent anchor, early route, schema6, unchanged Witte/Links and local links passed."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-apollon-equals-admetos.md",
+      "old_abc": "Blocked freedom impulses, brilliant knowledge emulation, grim technical success, sudden consolidation of knowledge, surprising success restriction, restlessness through depression experiences, Urstoff Knowledge emeuem, and deepening in new knowledge",
+      "new_abc": "Blocked impulses toward freedom, thorough renewal of knowledge, thorough technical success, sudden consolidation of knowledge, surprising restriction of success, unrest through experiences of depression, renewing knowledge of primordial matter, deepening into new knowledge.",
+      "printed_page": 383,
+      "finding": "Gründliche Wissens-Erneuerung=thorough renewal of knowledge; gründlicher technischer Erfolg=thorough technical success. All eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-asc.md",
+      "old_abc": "Expansion of local tensions, successful technology nearby, new partner experiences, new environmental knowledge, sudden environmental success, technical environmental experiences, surprising experiences with the partner, and restless trade on site",
+      "new_abc": "Expansion of local tensions, successful technology nearby, new partner experiences, new environmental knowledge, sudden environmental success, technical environmental experiences, surprising experiences with the partner, and restless trade on site",
+      "printed_page": 382,
+      "finding": "All eight ABC and Witte clauses checked; source wording preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-cupido.md",
+      "old_abc": "Extension of tensions in the Community, emancipation of science as a whole, joint freedom impulses, joint experiences emuem, new scientific communities, new technical knowledge, and technical successes for the whole",
+      "new_abc": "Expansion of tensions in the community, renewal of science as a whole, shared impulses toward freedom, renewing shared experiences, new scientific communities, new technical knowledge, technical successes for the whole.",
+      "printed_page": 383,
+      "finding": "Corrected Erneuerung/erneuern to renewal/renewing; sixth clause neues technisches Wissen means new technical knowledge. Seven clauses verified; prior latest overstatement corrected after independent check."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-hades.md",
+      "old_abc": "Extension of dangerous tensions, lack of impulses of science, new knowledge of the past, sudden expansion of danger, technical successes of the past, surprising experiences in need, and hidden freedom pulses",
+      "new_abc": "Extension of dangerous tensions, lack of impulses of science, new knowledge of the past, sudden expansion of danger, technical successes of the past, surprising experiences in need, and hidden freedom pulses",
+      "printed_page": 383,
+      "finding": "All seven ABC clauses and Witte's uncommon historical/Hamburg School association checked; source passages preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-jupiter.md",
+      "old_abc": "Expansion of technical sciences, success through new knowledge, joy over new knowledge, nervousness in money trade, new commercial law, sudden legal success, surprising commercial parts, and V place through technical experience",
+      "new_abc": "Expansion of the technical sciences, success through new knowledge, joy over new knowledge, nervousness in the money business, new commercial law, sudden legal success, surprising commercial advantages, advantages through technical experience.",
+      "printed_page": 382,
+      "finding": "Restored Handels-Vorteile and Vorteile durch technische Erfahrungen as commercial advantages and advantages through technical experience, replacing commercial parts/V place. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-kronos.md",
+      "old_abc": "Special technical successes, new experiences with the authorities, sudden great success, self confidence through new knowledge, surprising state success, recognition of tensions in the state, important technical experiences, and important new knowledge",
+      "new_abc": "Special technical successes, new experiences with the authorities, sudden great success, self-confidence through new knowledge, surprising state success, an increase of tensions in the state, important technical experiences, important new knowledge.",
+      "printed_page": 383,
+      "finding": "Vermehrung der Spannungen im Staat is an increase in state tensions, not recognition. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mars.md",
+      "old_abc": "Exciting peace work, successful refonn activity, successful technical activity, successful work rhythm, renewal of trade activity, creating new knowledge, surprising work success, and increased tensions at work",
+      "new_abc": "Exciting peace work, successful reform activity, successful technical activity, a successful work rhythm, renewal of commercial activity, creating new knowledge, surprising success at work, increased tensions at work.",
+      "printed_page": 382,
+      "finding": "Corrected refonn to reform; all eight ABC clauses checked, including renewal and increased work tension."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mc.md",
+      "old_abc": "Successful psychic impulses, great psychic superiority, my new knowledge, my sudden success, my sudden freedom, my technical experience, my increasing arousal, ncucs knowledge of the soul, and increasing mental tensions",
+      "new_abc": "Successful emotional impulses, a great emotional surprise, my new knowledge, my sudden success, my sudden freedom, my technical experiences, my increasing excitement, new knowledge of the soul, increasing emotional tensions.",
+      "printed_page": 382,
+      "finding": "Große seelische Überraschung is great emotional surprise, not psychic superiority; repaired neues wording. All nine clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mercury.md",
+      "old_abc": "Expansion of traffic technology, reports about new knowledge, successful movementRhythm, new thoughts in science, surprising success news, restless trade reports, and increasing tensions with youth",
+      "new_abc": "Expansion of transport technology, reports about new knowledge, a successful rhythm of movement, new thoughts in science, surprising news of success, restless trade reports, increasing tensions with young people.",
+      "printed_page": 382,
+      "finding": "Verkehrs-Technik rendered transport technology; repaired fused movementRhythm wording. Seven complete clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-moon.md",
+      "old_abc": "Excited masses of people, freedom impulses of a people, new knowledge for the woman, sudden experiences of a woman, technical experiences of a people, surprising success of a woman, a lot of unrest through refugees, and increasing feeling of excitement",
+      "new_abc": "Excited masses of people, impulses toward freedom in a people, new knowledge for a woman, sudden experiences of a woman, technical experiences of a people, surprising success of a woman, much unrest through feelings, increasing emotional excitement.",
+      "printed_page": 382,
+      "finding": "Viel Unruhe durch Gefühle means much unrest through feelings, not refugees. All eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-neptune.md",
+      "old_abc": "Freedom impulses in the air, new knowledge of water, weak ones through ventilated excitement, technical experience with water, restlessness through water masses, surprise by water masses, ventilated exchanges and tensions, a lot of subtlety for rhythm alarming changes in trade, successful new development, and successful tech-",
+      "new_abc": "Impulses toward freedom in the air, new knowledge about water, weakness through increased excitement, technical experiences with water, unrest through masses of water, surprise through masses of water, increased disappointments and tensions, much sensitivity for rhythm.",
+      "printed_page": 383,
+      "finding": "Restored exactly eight Neptune clauses ending viel Feingefühl für Rhythmus. Removed following Pluto opening; vermehrte means increased, not ventilated."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-node.md",
+      "old_abc": "Successful connections to technology, new trade connections, new connections in science, sudden successful encounters, restless trade connections, connection to new knowledge, and increasing tensions in V bonded",
+      "new_abc": "Successful connections with technology, new trade connections, new connections in science, a sudden successful encounter, restless trade connections, a connection with new knowledge, increasing tensions in connections.",
+      "printed_page": 382,
+      "finding": "Restored final zunehmende Spannungen in Verbindungen as increasing tensions in connections. Seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-pluto.md",
+      "old_abc": "development, evolutionary knowledge development, developing new knowledge, developing technical knowledge, a lot of unrest due to changes, and changes due to new knowledge",
+      "new_abc": "Disquieting changes in trade, successful new development, successful technical development, evolutionary unfolding of knowledge, developing new knowledge, developing technical knowledge, much unrest through changes, transformations through new knowledge.",
+      "printed_page": 383,
+      "finding": "Restored eight Pluto clauses beginning Beunruhigende Veränderungen im Handel, erfolgreiche Neu-Entwicklung, erfolgreiche technische Entwicklung; opening formerly absorbed into Neptune."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-poseidon.md",
+      "old_abc": "Spread of new ideas, dynamic success through clarity, successful cultural renewal, spiritual freedom impulses, clarity through technical knowledge, new knowledge of the mind, new cultural knowledge, sudden spiritual experiences, and increasing spiritual renewal",
+      "new_abc": "Spread of new ideas, dynamic success through clarity, successful cultural renewal, spiritual freedom impulses, clarity through technical knowledge, new knowledge of the mind, new cultural knowledge, sudden spiritual experiences, and increasing spiritual renewal",
+      "printed_page": 383,
+      "finding": "All nine ABC clauses and Witte exchange/clarity row verified; source wording preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-saturn.md",
+      "old_abc": "Focus on new knowledge, nervousness due to fatal losses, sudden tasksVeneration, sudden pain experiences, problematic freedom impulses, disturbances and unrest in trade, surprising loss of freedom, and increasing technical problems",
+      "new_abc": "Concentration on new knowledge, nervousness through increased losses, a sudden increase in tasks, sudden experiences of pain, problematic impulses toward freedom, disturbances and unrest in trade, surprising loss of freedom, increasing technical problems.",
+      "printed_page": 383,
+      "finding": "Vermehrte Verluste=increased losses, not fatal losses; Aufgaben-Vermehrung=increase in tasks, not tasksVeneration. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-sun.md",
+      "old_abc": "Successful Tcchnisches Zcntrum, new personal experiences, personal success rhythm, sudden personal success, technically experienced man, many people in tension, restless trade center, and center for new knowledge",
+      "new_abc": "A successful technical center, new personal experiences, a personal rhythm of success, sudden personal success, a technically experienced man, many people under tension, a restless trade center, a center for new knowledge.",
+      "printed_page": 382,
+      "finding": "Translated previously untranslated technisches Zentrum as technical center; all eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-venus.md",
+      "old_abc": "Expansion of harmonious rhythms, successful artificial impulses, joy over increasing Refonnes, new peace science, new knowledge about love, sudden love experience, sudden harmony increase, and preference for new knowledge",
+      "new_abc": "Expansion of harmonious rhythms, successful artistic impulses, joy over increasing reforms, new peace science, new knowledge about love, a sudden experience of love, a sudden increase of harmony, a preference for new knowledge.",
+      "printed_page": 382,
+      "finding": "Kunst-Impulse means artistic impulses, not artificial; repaired Refonnes as reforms. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-vernal-point.md",
+      "old_abc": "Tension--expansion in the public sphere, technical successes in the public sphere, new knowledge for the general public, sudden experiences in the public life, unrest in the public trade, and economic recovery in the public life",
+      "new_abc": "Expansion of tension in public, technical successes in public, new knowledge for the general public, sudden experiences in public life, unrest in public trade, economic renewal in public life.",
+      "printed_page": 382,
+      "finding": "Wirtschaftliche Erneuerung is economic renewal, rather than an inferred recovery; all six clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-vulcanus.md",
+      "old_abc": "Influential knowledge renewal, influential impulses of science, successful power of technology, power through new knowledge, powerful tension expansion, sudden violence proliferation, technical energy science, and surprising power success",
+      "new_abc": "Influential knowledge renewal, influential impulses of science, successful power of technology, power through new knowledge, powerful tension expansion, sudden violence proliferation, technical energy science, and surprising power success",
+      "printed_page": 383,
+      "finding": "All eight ABC clauses and Witte row verified; original source wording preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-zeus.md",
+      "old_abc": "Starting expansion of trade, dynamic movement authorship, experienced technical filtration, successful technical goal, design of a new science, new creative knowledge, sudden fire propagation, and technical knowledge success",
+      "new_abc": "Beginning expansion of trade, dynamic leadership authority, experienced technical leadership, successful technical goal-setting, shaping a new science, new creative knowledge, sudden spread of fire, technical successes in knowledge.",
+      "printed_page": 383,
+      "finding": "Führungs-Autorität is leadership authority; erfahrene technische Führung is experienced technical leadership, not filtration. Eight clauses verified."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-apollon-equals-admetos.md",
+      "sha256": "62fef28c73470f58f1cd7c3e58952f63569b5c48c64f1bc7d3665222e52d54f7",
+      "source_section_sha256": "a21292764c6da2be2efcf71ad8017d71b46bbb86d24bcf585906172bc523205a",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-asc.md",
+      "sha256": "7f28c6b5a6a3405e56912e10bcab5b02ae9eb187e2215c5d262aa08d1fa1403b",
+      "source_section_sha256": "a8fdbd7815417b1214a672dec33e80c844a94598c156252c45dca250149b98ce",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-cupido.md",
+      "sha256": "e91aa793e1b3a2856d0ca662bb97fc25dd0d4dd0a5068a787c4e6187eb7efad3",
+      "source_section_sha256": "25e51f4321fb32b770a19ca970fe133fa97cae0b30e1e3d2b075fb21f92d1fc9",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-hades.md",
+      "sha256": "d56f3af3abc47d715a517db0cbafeca0a283b195899b907ba789550a878b936f",
+      "source_section_sha256": "e34ec899fc895c0606e93ce9dc8119ab6e6ee4cdfa886ec8fe706e05be74d6bb",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-jupiter.md",
+      "sha256": "84ba33fd8f764ab444ccdcede4ca1a76b51a4f22e54cf5f5eae2dabf88fb9308",
+      "source_section_sha256": "127aa96abed565ef92f33a35eeed9ec29879c734761e78f68f085c9080a7ef1a",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-kronos.md",
+      "sha256": "698e3ce6e0ee2d67a7b5f3a777ced7c207f56efdd34745143c346bf3864b8369",
+      "source_section_sha256": "d351c90be06840958461353f2cc4df76036e7ca61df882d30ee8f2618ccb7a7d",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mars.md",
+      "sha256": "0cc9b581cf330378376edebe16424c1bc30a84d0b38b73a102d73b10e136ef19",
+      "source_section_sha256": "9dbe2eb9631e9f9d8ce21789897cec945c3dd2fc07f3f3657c99da96f27e3c59",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mc.md",
+      "sha256": "128d8ec0ca8cb485e3f2048c6f57541ee7802dcf17785b1446e658299db90215",
+      "source_section_sha256": "177248a44582be3b0ffa19580aa86e9e88fcf77dbdbee66c48aa93a344214db5",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-mercury.md",
+      "sha256": "bcdc7aebbacb09be5357ec3eedab9b607aea3b1b775aa28cb6c17fdebac5969c",
+      "source_section_sha256": "482ddaa21f2cf3dd8fcc6d0f96b7fd285a924bbdc6178e089073f13c73307e75",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-moon.md",
+      "sha256": "ba5149a9cb5bf00fdc482e59f580936cfa58df9cee3a23df9bbd781efb5fc4c3",
+      "source_section_sha256": "2b26f0fa86cc45876078d6d6de9232db15ac4b1145517ff15e53b2c55778c157",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-neptune.md",
+      "sha256": "81426127f2498305385f758a67ecef101eff7a7482a490ac8b01e85ad23dfadf",
+      "source_section_sha256": "3d378329fb476b65b6a872d87a9688259ac96576a4eddcc2e41b197680274f87",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-node.md",
+      "sha256": "ac0d7b0744339617c9821fe517b32fb943b62587af7230a7a2851db7d45e6a91",
+      "source_section_sha256": "a45a5f72444e290c059ae11fc171f4767715dada8959c6357f17ff10119a13cb",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-pluto.md",
+      "sha256": "6f8257d453b538ee2be56cc2b38232033f4eb88f70f4b80f5d3eb6452f487755",
+      "source_section_sha256": "d65bdfe5a771f2d6ef315bb1bf11c003751ea5725075e93c11f29ff8c3cb9792",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-poseidon.md",
+      "sha256": "609ba6cdaa033aaf32daafcdfeaca72adc9cdbfb096de6327743a01a333bb050",
+      "source_section_sha256": "1652b334ab17b90d84639ecd8f2e9a581a7e613cf1386041a3319de23275f54d",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-saturn.md",
+      "sha256": "406f72552f4130d8371cfe300457f1546d01fa281771a63e2fd6cdde1002afa5",
+      "source_section_sha256": "06a0ba6e5e6aece20d9c71c2bc10913ab51d94d2b1ab4c3588ecb3b272a9b74b",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-sun.md",
+      "sha256": "e7b2107820b6b4b0f19e882870d1ad4f2f1cd4d1b85dd1600e0f6d864bc63e58",
+      "source_section_sha256": "c3b0346fdbd18c28c4ae63d83f38c33e889ca08c4501d9a25318b6094fb6ca9f",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-venus.md",
+      "sha256": "dce1397623255e9d7df8da4ce73f6b18b360dd10b9613289e61847f331184af1",
+      "source_section_sha256": "ec3111219178eb1f7090792090617e03e9c8964dd1375647f98379aea6ae09cf",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-vernal-point.md",
+      "sha256": "a951008c572902ce3108f89cd096e083402f26b56ac8d2d494ffb5cff79595f0",
+      "source_section_sha256": "2ff490daabe825c2955f3f6caa54e08c8156ece2c9d1e593e905d6b7bd8b36a4",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-vulcanus.md",
+      "sha256": "5910aaccaa52696f05f7a9477c8a62c39fdc9c14bca58e33a21f325708545f87",
+      "source_section_sha256": "53f4b0881dc205e3eea73e4dd810b1b60bf79043e78f7453d681e24dddae16f9",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-apollon-equals-zeus.md",
+      "sha256": "312a2883af82114b36744954823b1866f33640867ca4d16d2b208601ac682f82",
+      "source_section_sha256": "0e7f3b665e9e7dffb728e3a6527cb36a6136291f0bec0806e6de22ec290cf2c3",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    }
+  ],
+  "unresolved": []
+}

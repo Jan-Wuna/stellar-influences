@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Admetos Vulcanus](../triads/mercury-admetos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Vulcanus entry, PDF p. 171.
 
 To put one’s own ideas across in spite of resistance and obstacles.
 
@@ -42,13 +46,29 @@ To put one’s own ideas across in spite of resistance and obstacles.
 
 #### ABC Entry
 
-Limitation of youth violence, deepening of thought force, strengthening of media power, profound talk about power, news about energy restriction, strong depression thoughts, and talking about violence blockads
+Source: “Merkur + Admetos,” Vulcanus entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Limitation of youth violence, deepening mental force, restricted influence of youth, strengthening media power, thorough conversations about power, reports about energy restriction, strong depressive thoughts, discussing blockades of force or violence.
+
+## Comparative Schema
+
+- **Core meaning:** Ideas expressed forcefully despite resistance.
+- **Psychology:** Concentrated mental force.
+- **Body/health:** ABC's depressive-thought language is attributed and non-diagnostic.
+- **Social/relationship:** Restricted youthful influence, media power, and discussions of power or restrictions.
+- **Events/manifestations:** Putting ideas across and reporting energy limitations.
+- **Conflicts/notes:** ABC's “Gewalt-Blockaden” is retained as blockades of force or violence, without an explained mechanism. Expression despite resistance does not guarantee every obstacle yields.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte describes getting ideas across despite resistance. ABC includes mental force and media power beside restricted influence or energy; its explicit “Gewalt-Blockaden” remains unexplained rather than becoming a new claim about violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Vulcanus` arms the axis with force enough to push ideas through resistance.
-- Chart expression: concentrated thought backed by power, the ability to impose one's ideas despite obstacles, and heavy-minded persistence that does not yield under opposition.
+In `Mercury/Admetos = Vulcanus`, Vulcanus specifies concentrated or restricted thought and communication through mental force expressed against resistance. Witte describes putting ideas across despite obstacles; ABC joins deepened mental force and media power with limits on youthful influence or energy and thorough conversations about power. The organizing relation is expression in the presence of limits, without guaranteeing every resistance yields or treating communication as coercion. The depressive and violence-related wording remains attributed source material. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

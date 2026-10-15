@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Apollon](../axes/asc-apollon.md)
 - Triad hub: [Neptune Asc Apollon](../triads/neptune-asc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 Lack of business confidence. Bad credit risk. Unreliable customers.
 
+Source reference: one-based PDF p. 95, “Asc + Apollon,” Neptune row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Others are successful in the air, expansion into the Lull area, exchanging experiences with the partner, trading place on the water, environmental success through sensitivity, environmental success in the water, vie! water in the environment, and knowledge of the future partner
+Others are successful in the air, expansion into the airspace, disappointing experiences with the partner, trading place by the water, environmental success through sensitivity, environmental success in the water, much water in the environment, and knowledge of the future partner.
+
+Source reference: printed p. 131 (one-based PDF p. 64), “Aszendent + Apollon,” Neptune row. “Airspace,” “disappointing,” and “much water” replace translation/OCR damage; the actual scanned row reads “Luft-Raum,” “enttäuschende Erfahrungen,” and “viel Wasser.”
+
+## Comparative Schema
+
+- **Core meaning:** Unreliable commercial dealings and disappointing partner experiences, alongside separate air, water, and sensitivity examples ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Business mistrust and disappointment are stated; ABC also names sensitivity without describing a general temperament.
+- **Body/health:** Neither entry supplies a body or health claim.
+- **Social/relationship:** Witte names unreliable customers and poor credit risk; ABC adds disappointment with a partner.
+- **Events/manifestations:** A trading place by water and successes connected with air or water are ABC examples, distinct from the credit-risk warning.
+- **Conflicts/notes:** “Lull area” and “exchanging experiences” were translation/OCR damage, repaired from the scanned row. Success in a particular setting does not negate unreliability in a transaction.
+
+## Contradictions
+
+Witte's adverse business examples and ABC's disappointing partner experience share a risk theme. ABC also contains favorable air, water, and sensitivity examples. These differ in subject and conditions, so they should remain side by side rather than be forced into one uniformly adverse meaning.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Neptune`: untrustworthy customers, unclear obligations, and an environment where social or commercial reach is undermined by vagueness. Main caution: porous circulation: the expanded field leaks confidence, money, or credibility through unreliability.
+In `Asc/Apollon = Neptune`, Neptune specifies the pair through dealings in which confidence in customers or a partner may prove misplaced: Witte names bad credit risk and unreliable customers, and ABC names disappointing partner experiences. ABC also gives successes associated with air, water, or sensitivity and a trading place by water. Those concrete settings broaden the entry; they do not establish that every contact is deceptive or every outcome a loss. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

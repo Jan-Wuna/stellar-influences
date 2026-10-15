@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Venus Uranus](../triads/sun-venus-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -43,11 +48,16 @@ Sudden events concerning love. Romantic love. To be ecstatic over love. Pleasant
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `152`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
 Dynamic man of the arts, peaceful day event, harmony impulse of the man, harmonious day event, new love of the man, love arousal of the man, personal love event, and center of art and technique
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `96`, PDF p. `98`, entry `0257` (raw scan checked).
 
 #### Ebertin Entry
 
@@ -55,14 +65,17 @@ Sudden outbursts of affection or love, tendency to fall in love quickly. Romanti
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source locator: PDF p. `17` (complete Venus entry; raw scan checked).
+
 #### Sandbach Entry
 
-Love expressed suddenly or unexpectedly. Love relationships can form quickly and may also dissolve swiftly. A sudden shift of focus in love relationships. The need for openness and freedom in love relationships. The ability to appreciate each individ ual’s unique importance.
+Love expressed suddenly or unexpectedly. Love relationships can form quickly and may also dissolve swiftly. A sudden shift of focus in love relationships. The need for openness and freedom in love relationships. The ability to appreciate each individual’s unique importance.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS with Planets and Points`
-- Source page: `80`
+- Source locator: printed p. `80`, PDF p. `81` (complete entry; raw scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Unique forms of expressing affection or love toward others; variety in the ways 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden excitation appears in love, affection, harmony and artistic expression.
+- psychology: Ecstasy, quick attraction and appreciation of individual uniqueness are named.
+- body/health: No specific illness or bodily outcome is stated.
+- social/relationship: Openness and freedom in love coexist with Sandbach's possibility of rapid formation or dissolution.
+- events/manifestations: Pleasant romantic surprises, new love and varied approaches to art or music are examples.
+- conflicts/notes: Swift dissolution is a possibility in one entry; it does not make every attachment unstable.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Venus`: creative originality, exciting relationships, and affection that thrives on honesty and space rather than convention. Main caution: instability in attachment: charm and excitement can outrun steadiness, making bonds difficult to sustain.
+In `Sun/Uranus = Venus`, Venus directs sudden excitation toward affection and love: attraction can arise quickly, feel unusual or bring a pleasant surprise ([Witte](#witte-entry); [Ebertin](#ebertin-entry), entry 0257). Openness, freedom and appreciation of each person's uniqueness connect this excitement to the way relationships are lived; Sandbach allows both quick formation and swift dissolution ([Sandbach](#sandbach-entry), PDF p. 17). [ABC](#abc-entry) (printed p. 152) also names harmony and art, and [Munkasey](#munkasey-entry) adds varied artistic and affectionate expression. These possibilities do not establish that excitement must prevent lasting attachment.
 
 ## Links
 

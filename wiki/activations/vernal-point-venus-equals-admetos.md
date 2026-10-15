@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Admetos](../triads/vernal-point-venus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 41 (one-based).
 
 Desired solitude. Harmony in a close circle.
 
@@ -42,13 +46,29 @@ Desired solitude. Harmony in a close circle.
 
 #### ABC Entry
 
-Restricted beauty of the world, peace blockade in the public, storten harmony in the public, grilndliche joy in the public, artificial deepening in the public, and public peace consolidation
+- Source page: 31; PDF page: 14 (one-based spread).
+
+Restricted beauty of the world, a public blockade of peace, disturbed harmony in public, deep enjoyment in public, deepening of art in public, and public consolidation of peace.
+
+## Comparative Schema
+
+- core meaning: Harmony is restricted, concentrated or consolidated.
+- psychology: Desired solitude and deep enjoyment.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Harmony in a close circle.
+- events/manifestations: Blocked peace, disturbed harmony, deeper art and consolidated peace.
+- conflicts/notes: The restrictive and stabilizing branches coexist.
+
+## Contradictions
+
+Witte’s desired solitude and close-circle harmony are favorable narrowing. ABC also gives blocked peace and disturbed harmony, so restriction has different outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Admetos`: desired solitude and harmony in a close circle.
-- Practical expression: restricted beauty of the world, peace blockade in the public, storten harmony in the public, and artificial deepening in the public.
+`Vernal Point/Venus = Admetos` concentrates harmony within a limited field. Witte’s desired solitude and harmony in a close circle show a welcome form of this narrowing; ABC’s deep enjoyment, deepening of art and consolidation of peace support sustained appreciation. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also gives restricted beauty, blocked peace and disturbed harmony. These are the less favorable possibilities when the same limited public field obstructs enjoyment or agreement. ([ABC](#abc-entry))
 
 ## Links
 

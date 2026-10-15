@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Vulcanus Poseidon](../triads/vernal-point-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 Mental power. Extensive mental influence to the general public.
 
@@ -42,13 +46,29 @@ Mental power. Extensive mental influence to the general public.
 
 #### ABC Entry
 
-Influence of an idea in the public life, knowledge of violence in the public, mental power of the world, power of the mind in the public, public culture influence, reason as strong in public life, and dignity as public power
+- Source page: 57; PDF page: 27 (one-based spread).
+
+The influence of an idea in public life, insights into public force or violence, intellectual strength in the world, the power of the mind in public, public cultural influence, reason as strength in public life, and truth as public power.
+
+## Comparative Schema
+
+- core meaning: Ideas, reason and culture exert public influence.
+- psychology: Intellectual strength and understanding of force.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Extensive mental influence on the public.
+- events/manifestations: Cultural influence and truth presented as a form of public power.
+- conflicts/notes: ABC names truth, not dignity; intellectual power does not prove every idea true.
+
+## Contradictions
+
+The entries agree on mental influence. ABC develops reason, culture and truth as specific forms of that strength.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Poseidon`: mental power and extensive mental influence to the general public.
-- Practical expression: influence of an idea in the public life, knowledge of violence in the public, mental power of the world, power of the mind in the public, and public culture influence.
+`Vernal Point/Vulcanus = Poseidon` locates public power in ideas and intellectual strength. Witte’s extensive mental influence meets ABC’s power of mind, cultural influence and reason as strength, giving the formula a clear public intellectual emphasis. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also names insights into force or violence and truth as public power. These are its stated forms of understanding and influence, without establishing that any particular influential idea is necessarily true. ([ABC](#abc-entry))
 
 ## Links
 

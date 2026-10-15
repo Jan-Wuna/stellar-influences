@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto Poseidon](../triads/mars-pluto-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Mental planning. Mental preliminary work. Mental efforts which are a moral obligation and that one is compelled to perform.
 
@@ -42,13 +46,27 @@ Mental planning. Mental preliminary work. Mental efforts which are a moral oblig
 
 #### ABC Entry
 
-Creating the development of truth, developing cognition activity, developing clear evolutionary impulses, developing spiritual force, developing an idea, developing spiritual development work, developing cultural work, and changing labors
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Bringing about development of truth, unfolding cognitive activity, clear evolutionary impulses, developing spiritual energy for action, activity toward developing an idea, spiritual development work, unfolding cultural work, and a rational change of work.
+
+## Comparative Schema
+
+- core meaning: Mental and morally obligatory planning alongside intellectual or spiritual development.
+- psychology: Clear impulses, cognitive activity, and developing an idea.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Moral obligation is named without a specific relationship outcome.
+- events/manifestations: Preliminary mental work, cultural development, and rational work change.
+- conflicts/notes: A felt moral obligation is Witte's stated motive; the entries do not establish the objective truth or superiority of every plan.
+
+## Contradictions
+
+No direct conflict appears: Witte emphasizes mental groundwork and obligation, while ABC develops ideas, truth, culture, and rational changes of work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Pluto = Poseidon` gives planning a mental, moral, and intellectually obligatory character.
-- Chart expression: conceptual groundwork, moral or intellectual duty in planning, and sustained mental effort compelled by principle or higher responsibility.
+In `Mars/Pluto = Poseidon`, Poseidon specifies developing work and plans through mental groundwork and moral obligation. ABC adds cognitive and spiritual activity, developing ideas and truth, cultural work, and a rational change of work. Witte emphasizes mental effort felt as a duty one is compelled to perform. The connection concerns the intellectual and principled direction of effort without establishing that every resulting plan is correct. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152)
 
 ## Links
 

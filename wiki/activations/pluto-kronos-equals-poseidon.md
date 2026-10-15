@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Pluto Kronos Poseidon](../triads/pluto-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Highly mental or spiritual development. Mental or spiritual influence causes gre
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 415; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Developing special insights, special cultural development, development to spiritual self governingness, great spiritual changes, superiority through the development of truth, differentization of a cultural state, and growing insight of the state
+Editorial translation (checked against the scan): Developing special insights, special cultural development, development toward mental/spiritual independence, great mental/spiritual changes, superiority through development of truth, changes of a cultural state, growing insight of the state.
+
+## Comparative Schema
+
+- core meaning: Major mental or spiritual development and change of worldview.
+- psychology: Special insight and mental/spiritual independence.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Cultural development and the state are ABC settings.
+- events/manifestations: Great changes through mental/spiritual influence and development of a cultural state.
+- conflicts/notes: ABC's superiority through truth is an attributed valuation, not independent proof of a belief.
+
+## Contradictions
+
+Witte emphasizes worldview transformation; ABC adds independence and cultural-state development. Neither requires a leadership role.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Poseidon`: intellectual or ideological development toward leadership or recognized authority.
-- Practical expression: developing special insights, special cultural development, development to spiritual self governingness, great spiritual changes, and superiority through the development of truth.
+Poseidon specifies Pluto/Kronos through mental or spiritual development capable of changing an outlook on the world. The [Witte entry](#witte-entry) names that influence and transformation directly; the [ABC entry](#abc-entry) adds special insight, independence, cultural development, and growing insight in the state. Its claim of superiority through the development of truth remains an attributed valuation, without establishing a person's superiority or requiring recognized leadership.
 
 ## Links
 

@@ -27,16 +27,39 @@ updated_at: 2026-04-21
 - Axis page: [Uranus/Uranus](../axes/uranus-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 233 (entry start).
+
+- Source catalog: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md).
 
 #### Witte Entry
 
 Emphatic expressions, words of command. Authority appearing suddenly. Great tension and collected power. Events of the state. Governmental intervention. To be ordered. Great excitement. Sudden decrees of the government or chief. Outstanding innovation, science or technology —or— outstanding skills in one of these fields.
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry).
+
+- core meaning: Sudden authority, commands or exceptional technical achievement.
+- psychology: Great tension and excitement.
+- body/health: No specific bodily condition is stated.
+- social/relationship: Relations with a chief, government or commanding authority.
+- events/manifestations: Unexpected decrees, state intervention and outstanding innovation.
+- conflicts/notes: Authority and exceptional skill are separate supported expressions.
+
+## Contradictions
+
+Only Witte is present. Governmental commands and outstanding scientific skill are different applications of the entry; no direct contradiction or necessary causal link is established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Uranus = Kronos`: Emphatic expressions, words of command. Authority appearing suddenly. Great tension and collected power. Events of the state. Governmental intervention. To be ordered. Great excitement. Sudden decrees of the government or chief. Outstanding innovation, science or technology —or— outstanding skills in one of these fields.
+In `Uranus/Uranus = Kronos`, Kronos specifies sudden developments through authority or distinction. [Witte](#witte-entry) describes unexpected commands, decrees and governmental intervention amid tension; it also allows exceptional innovation or skill in science and technology. The passage supports both a sudden assertion of authority and a striking achievement, without requiring them to occur together.
 
 ## Links
 

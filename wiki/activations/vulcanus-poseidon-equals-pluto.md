@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - Triad hub: [Pluto Vulcanus Poseidon](../triads/pluto-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
+- PDF page: 315 (one-based).
+
+Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-development, unfold spiritual energies, tremendous cultural development, strong unfolding of truth, transformation of spiritual energies, and growing cultural influence
+- Source page: 479; PDF page: 238 (one-based spread).
+
+Unfolding of spiritual force, development of influential ideas, influential spiritual development, unfolding spiritual energies, tremendous cultural development, strong unfolding of truth, transformation of spiritual energies, and growing cultural influence.
+
+## Comparative Schema
+
+- Core meaning: Development and transformation of self-esteem, ideas, spiritual force, and cultural influence.
+- Psychology: A changing concept of honor and pride is explicit; development is not automatically moral improvement.
+- Body/health: Neither entry supplies a medical claim.
+- Social/relationship: Growing cultural influence is named without a specific relationship outcome.
+- Events/manifestations: Influential ideas develop, spiritual energies unfold or transform, and cultural influence grows.
+- Conflicts/notes: The scan restored ABC's opening clauses from the preceding Neptune misallocation and removed Witte's glyph artifact.
+
+## Contradictions
+
+Inner changes in self-esteem and wider cultural development are compatible emphases. The original German Pluto row at printed p. 479 (PDF p. 238) confirms the restored development clauses; the formula is not interchangeable with the Neptune row.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vulcanus/Poseidon = Pluto`: P Developing a sense of honor, pride, self-esteem. A change in the concept of honor, pride and self-esteem.
-- Practical expression: development, unfold spiritual energies, tremendous cultural development, strong unfolding of truth, and transformation of spiritual energies.
+In `Vulcanus/Poseidon = Pluto`, Pluto specifies the pair as developing and transforming influence: ideas grow in effect, spiritual energies unfold, and cultural influence increases or changes form. At the personal level, the concept of honor, pride, and self-esteem itself develops. The [Witte Entry](#witte-entry) supports that inner change (PDF p. 315), while the scan-restored [ABC Entry](#abc-entry) supplies the intellectual and cultural development (printed p. 479; PDF p. 238). Growth in influence does not by itself establish greater truth or virtue.
 
 ## Links
 

@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Pluto Node MC](../triads/pluto-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To bring other persons under one’s own influence. Relationships which cause a 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Development of my connections, I change connections, I change my connections, psychic development into connections, growing psychic connection, wall boys in psychic connection, and changing psychic connections
+Editorial translation (checked against the scan): Development of my connections, I change connections, I change my connections, inner development within connections, a growing inner connection, transformations in an inner connection, changing inner connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 299; PDF page 301 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Desire to gain leadership by force in a community or group of people. The power of influence over other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Helps others to notice your abilities and ambitions; membership in associations 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal development and influence shaped through connections or groups.
+- psychology: Ambition, changing habits, and a possible shift from worldly power toward helping others spiritually.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Associations can further aims, exert pressure, or become settings for forced leadership.
+- events/manifestations: Changing connections, club membership, and recognition of abilities.
+- conflicts/notes: Relationships that foster development need not be free of pressure or domination.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's forceful leadership and Sandbach's help-oriented spiritual power describe different uses of influence; neither cancels the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Node`: influential partnerships, collective power, and the ability to transform direction through significant associations. Main caution: power entanglement in groups: alliances can become manipulative, controlling, or too costly to integrity and purpose.
+Node specifies Pluto/MC through relationships that shape personal development and extend influence. The [Witte entry](#witte-entry) includes both influencing others and being developed through relationships; [ABC](#abc-entry) adds changing inner connections. Associations that help goals and make abilities visible in [Munkasey](#munkasey-entry) can also become settings for forced leadership in [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) gives a different possible direction, in which pressure from others helps shift the search from worldly power toward spiritual help for others. These possibilities leave the use of group influence open.
 
 ## Links
 

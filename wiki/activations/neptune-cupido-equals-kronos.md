@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Kronos`
 - Astronomicon formula: `Y/¡ = ¤`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Marriage or family separated by authorities. Associations dissolved by the state. Leadership discord causes dissolution of associations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `393`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-Dissolution of a state community, special skills in the water, common future, self sufficiency in the air, common community in the water, insecure state community, and refined self confidence in of a community
+Dissolution of a state community, special art in water, shared direction of the future, independent community in the air, superior community in water, uncertain state community, and refined self-confidence in a community
+
+## Comparative Schema
+
+- core meaning: state or leadership involvement in the separation or direction of associations.
+- psychology: refined self-confidence within a community is ABC's stated psychological example.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: authorities separating families and state dissolution of associations are Witte's particular examples.
+- events/manifestations: leadership discord, uncertain state community, and shared direction of the future are stated.
+- conflicts/notes: independent or superior communities are not automatically examples of coercive authority.
+
+## Contradictions
+
+Witte emphasizes separation imposed by authority and discord. ABC retains uncertain state association but also independence and shared direction, without requiring official dissolution in every case.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Kronos`: Marriage or family separated by authorities. Associations dissolved by the state. Leadership discord causes dissolution of associations.
-- Practical focus: elevates dissolution into the sphere of law and authority, showing families or associations broken apart by official intervention, state power, or leadership conflict.
-- Practical expression: dissolution of a state community, special skills in the water, common future, self-sufficiency in the air, and common community in the water.
+In Neptune/Cupido = Kronos, Kronos specifies the pair through the direction of associations and their relationship to authority. The [Witte entry](#witte-entry) gives separation of families by authorities and association dissolution through the state or leadership discord. [ABC](#abc-entry) adds an uncertain state community, but also an independent community and shared direction of the future (printed p. 393, PDF p. 195). Special art in water is a separate example. The entries retain official disruption and independent collective organization as different possibilities, without assuming the latter is coercive.
 
 ## Links
 

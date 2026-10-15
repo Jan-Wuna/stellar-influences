@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `95` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Equalization of others. Many acquaintances. To have customers. Acquaintance with
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `130`; PDF page: `64` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Others are successful, expansion of a place, experienced partner, business space, hands) square, place of knowledge, partner freedom, partner knowledge, space expansion, environmental experiences, and environmental outcomes
+German pair summary (transcribed from printed page `130`; PDF page `64`):
+
+> Andere sind erfolgreich, Ausdehnung eines Ortes, erfahrener Partner, Gewerbe-Raum, Handels-Platz, Ort des Wissens, Partner-Freiheit, Partner-Wissen, Raum-Ausdehnung, Umwelt-Erfahrungen, Umwelt-Erfolge
+
+Editorial translation from the German passage: Others are successful, expansion of a place, experienced partner, business space, trading place, place of knowledge, partner freedom, partner knowledge, expansion of space, experiences of the surroundings, successes in the surroundings.
+
+## Comparative Schema
+
+- Core meaning: An expanding field of contacts, places, and interests unites the [Pair Summary](#pair-summary) with the [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Interests spreading into new areas and experience or knowledge in a partner are explicit in the summaries.
+- Body/health: Neither pair entry gives a bodily or clinical correspondence.
+- Social/relationship: Many acquaintances, customers, and contacts in commerce, trade, or science are explicit in the [Pair Summary](#pair-summary); ABC also names partner freedom and knowledge.
+- Events/manifestations: A growing customer base, merchandise sales, encounters with many places, and matters arriving from distant locations are named. ABC adds expansion of a place or space.
+- Conflicts/notes: The pair entries share expansion through contacts, knowledge, places, and commerce. ABC's trading place and successes in the surroundings add concrete expressions without establishing the quality or permanence of every contact.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Others are successful, expansion of a place, experienced partner, business space
 - [Asc/Apollon = Vulcanus](../activations/asc-apollon-equals-vulcanus.md)
 - [Asc/Apollon = Zeus](../activations/asc-apollon-equals-zeus.md)
 
+## Contradictions
+
+The entries share an emphasis on greater reach through people, places, knowledge, and commerce. Their brevity does not establish the quality or permanence of every contact.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon`: an enlarged near field: many acquaintances, wider surroundings, customer flow, far-reaching contact, and a life that keeps extending outward through people, places, and interests.
-- Chart expression: social reach, commercial circulation, publicity through acquaintances, broad networks, business contacts, travel or distance entering the immediate environment, and visibility within scientific, technical, or trading circles. Liabilities: superficiality, dispersal, unstable or merely transactional ties, and an outward-expanding life that can privilege breadth over depth.
+`Asc/Apollon` describes surroundings and relationships that open into a wider field. Many acquaintances, customers, and contacts in trade or science link social reach with an expansion of interests and knowledge of places in the [Pair Summary](#pair-summary). Distant matters may enter the immediate environment, while the [ABC Pair Summary](#abc-pair-summary) also names expanding space, an experienced partner, and partner knowledge or freedom. The shared theme is increased reach through people and place.
 
 ## Links
 

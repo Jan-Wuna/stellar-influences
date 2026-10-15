@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Pluto`
 - Astronomicon formula: `Y/g = Z`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Unnoticeable unions. Connections made without the native’s knowledge behind his back, but discovered after.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Development of fine tuning in a connection, development of a connection through intuition, uncertain development of a relationship, growing exchange into a combination, and changes through connection to metaphysics
+Unfolding of sensitivity in a connection, development of a connection through intuition, uncertain development of a relationship, growing disappointment in a relationship, and transformations through connection to metaphysics
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `285`, entry code `1019`.
 
 #### Ebertin Entry
 
 Exercising a bad influence upon associations between people. The breakdown of a relationship between people living together.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ An intense imagination that is in danger of falling into stagnating patterns, or
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increased needs to isolate yourself from the influences of society; brings a wil
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: hidden or changing ties, with strong imagination and withdrawal among the expressions.
+- psychology: intense imagination, stagnating patterns, and a wish for isolation are explicit.
+- body/health: Munkasey's depressions are historical source language, not an individual diagnosis.
+- social/relationship: unnoticed unions, relationship breakdown, and destructive defence of privacy are named.
+- events/manifestations: connections discovered later, uncertain development, and growing disappointment are stated.
+- conflicts/notes: Sandbach allows constructive imaginative change; karmic or fated bonds are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes unnoticed unions, Ebertin harmful influence and breakdown, and Munkasey forceful isolation. Sandbach also allows positive use of imagination; ABC includes sensitivity and intuitive development.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Pluto`: transformative connection, karmic-feeling ties, and the ability to encounter profound change through subtle or fated-seeming bonds. Main caution: manipulative entanglement: contact can become coercive, obsessive, deceptive, or quietly destructive.
+In Neptune/Node = Pluto, connections may develop out of sight or under strong imaginative pressure. [Witte](#witte-entry) names unions discovered later, and [ABC](#abc-entry) adds intuitive development alongside growing disappointment. [Ebertin](#ebertin-entry) describes harmful influence and relationship breakdown; [Munkasey](#munkasey-entry) adds forceful protection of privacy. [Sandbach](#sandbach-entry) retains the possibility of finding constructive uses for intense imagination, without making these ties karmic or fated.
 
 ## Links
 

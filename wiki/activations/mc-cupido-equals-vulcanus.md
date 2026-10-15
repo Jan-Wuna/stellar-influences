@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [MC Cupido Vulcanus](../triads/mc-cupido-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ The great sense for community. To experience a mighty influence through social c
 
 Within the influence of a community, my artistic influence, my community is strong, my power in the community, psychic violence in of a community, psychic power in of a community, and strong souls in of a community
 
+## Comparative Schema
+
+- **Core meaning:** Strong community feeling and social influence.
+- **Psychology:** A pronounced sense for community is explicit.
+- **Body/health:** The entries establish no particular medical condition.
+- **Social/relationship:** Power within a group and psychic violence are historical source descriptions.
+- **Events/manifestations:** Artistic influence and strong social effects are named.
+- **Conflicts/notes:** Influence and violence remain distinct possibilities; the latter must not be softened into an exclusively supportive account of belonging.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Vulcanus` massively strengthens the axis through powerful communal feeling and strong social influence.
-- Chart expression: intense group consciousness, forceful bonds, and major effects on one's life direction through social connections, communities, or collective loyalties.
+Vulcanus specifies `MC/Cupido` through strong communal feeling and the power of social connections. ABC adds artistic influence and power within a group alongside psychic violence, so the force of belonging includes difficult uses of power as well as support and influence. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

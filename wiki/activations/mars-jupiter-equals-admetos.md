@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Admetos](../triads/mars-jupiter-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Poor fruits. Miscarriage. Decreased birth rate. Interruption of a fortunate acti
 
 #### ABC Entry
 
-Blocked money trading, depressing legal activity, restricted work joy, restricted success action, successful will strengthening, successful deepening in the work, profound activity success, and advantage by exhausting work
+Blocked money trading, depressing legal activity, restricted joy in work, restricted successful action, successful strengthening of will, successful deepening in work, thorough success in activity, and advantage through persevering work.
+
+- Source reference: printed p. 299, PDF p. 148, Admetos row; `ausdauernde Arbeit` means persevering work, not exhausting work.
+
+## Comparative Schema
+
+- core meaning: Successful activity meets restriction or gains depth through persistence.
+- psychology: Strengthening will and deepening concentration at work are ABC themes.
+- body/health: Witte's miscarriage and reduced birth-rate examples remain historical claims, not medical predictions.
+- social/relationship: Blocked money trading and difficult legal activity are explicit.
+- events/manifestations: Interrupted fortunate activity coexists with thorough success and advantage through perseverance.
+- conflicts/notes: ABC's favorable persistence themes must remain beside Witte's diminished yield; the entry is not solely blocked success.
+
+## Contradictions
+
+Witte emphasizes interruption and poor yield; ABC also names success through deeper, persevering work. This material difference supports both restriction and concentrated achievement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Jupiter = Admetos` compresses the Mars/Jupiter axis of fortunate action and productive effort into interruption, diminished yield, or blocked fruition.
-- Chart expression: stalled success, reduced results, miscarried plans or pregnancies, and situations where a promising activity is cut off before it can bear its full fruit.
+Admetos specifies the Mars/Jupiter axis through limits on successful activity and the concentration of effort. [Witte](#witte-entry) emphasizes poor yield and interruption; [ABC](#abc-entry) retains blocked finance and restricted work enjoyment but also success through strengthened will, deeper work and perseverance. These favorable expressions prevent reducing the formula to failure alone. Witte's reproductive examples remain historical source claims rather than medical predictions or metaphors for every interrupted plan.
+
+Evidence: Witte PDF p. 192; ABC printed p. 299, PDF p. 148.
 
 ## Links
 

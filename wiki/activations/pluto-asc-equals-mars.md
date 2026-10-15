@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Mars Pluto Asc](../triads/mars-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 90 (one-based; exact row checked).
 
 Planning a change of location. Action leads to changes in others.
 
@@ -45,17 +49,23 @@ Planning a change of location. Action leads to changes in others.
 
 #### ABC Entry
 
-Change of work place, change of location, location for development work, effective environmental developments, developing environmental work, creating changes in the environment, increasing activity of the partner, and changing of the work partner
+- Source page: 120 (printed); PDF page: 59 (one-based; exact row checked).
+
+Change of workplace, efforts toward a change of place, a place for developmental work, energetic developments in the surroundings, developing work on the surroundings, creating changes in the surroundings, growing initiative of a partner, change of work partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 295 (printed); PDF page: 297 (one-based); entry code: 1063 (direct source text checked).
 
 Foolhardiness and daring, tendency to expose oneself to danger. Injury, accident.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 116 (one-based; exact activation located in direct source text).
 
 Whatever one does carries a strong aura of personal uniqueness and power, though it may intimidate other people. Anger over your own personality and forces in it which you can’t seem to get away from or change. To work hard to change oneself.
 
@@ -70,22 +80,23 @@ Magnifies the intensity of your feelings and your insistence on having your way 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action that changes one's surroundings, other people or oneself.
+- psychology: intense will, anger and the effort to change oneself can become intimidating or insistent.
+- body/health: Ebertin's injury and accident statements are historical possibilities, not a diagnosis or prediction.
+- social/relationship: a partner's initiative and work-partner changes coexist with forceful arguments or insistence on having one's way.
+- events/manifestations: planned relocation, workplace change and action leading to change in others.
+- conflicts/notes: Constructive work on change and intimidating behavior are alternative expressions; Ebertin's danger wording does not make injury inevitable.
 
 ## Contradictions
 
-- None recorded yet.
+Constructive work on change and intimidating behavior are alternative expressions; Ebertin's danger wording does not make injury inevitable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Mars`: formidable will, decisive intervention, and the ability to push through resistance under extreme pressure. Main caution: destructive force: action can become ruthless, explosive, or too bound to struggle and domination.
+Mars specifies `Pluto/Asc` through action intended to change people, place or the self. [Witte](#witte-entry) and [ABC](#abc-entry) give relocation plans, workplace changes and practical work on the surroundings; [Sandbach](#sandbach-entry) adds intense personal effort to change oneself. The force of action is therefore directed both outward and inward.
+
+Its difficult range concerns how that force meets other people. [Munkasey](#munkasey-entry) describes quick anger and persistent argument, Sandbach intimidation and anger at one's own personality, and [Ebertin](#ebertin-entry) daring that exposes a person to danger. Injury or accident remains Ebertin's historical possibility, rather than a forecast for every forceful act.
 
 ## Links
 

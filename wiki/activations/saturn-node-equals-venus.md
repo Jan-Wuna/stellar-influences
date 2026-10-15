@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Venus`
 - Astronomicon formula: `W/g = Q`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 Divorces. Breaking off a relationship. Difficult or serious love affair.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Binding to a harmonic task, joy over tasks of a connection, harmony in an emost connection, stellar harmony in a connection, problematic love relationship, separation of a love relationship, and connection to the artificial in old age
+- Source page: `216`; PDF page: `107`.
+
+Binding to a harmonious task, joy over tasks of a connection, harmony in a serious connection, disturbed harmony in a connection, problematic love relationship, separation of a love relationship, and connection to art in old age.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0906`.
 
 Inhibitions in love life, inability to express one's feelings or emotions, lack of adaptability. Difficulties in love or marriage, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 To appreciate the difficulties and limitations inherent in connecting with others. A love of connecting with others in a focused, deep, and/or profound way.
 
@@ -70,22 +80,21 @@ Using people with connections to bankers, artists, musicians, etc. to help you m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Affection and appreciation within connections that involve difficulty or serious engagement.
+- psychology: Inhibited expression of feeling alongside appreciation of deep connection and offered help.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Difficult love, separation and focused, profound bonds.
+- events/manifestations: Divorce, joint beautification, artistic contacts and functional currency exchange.
+- conflicts/notes: Serious connection can contain harmony or disturbed harmony; the entries do not promise enduring affection.
 
 ## Contradictions
 
-- None recorded yet.
+The entries allow both difficulty in love and appreciation of deep connection. ABC explicitly includes harmony and disturbed harmony as alternatives; this is a range of conditions rather than a direct source disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Venus`: dependable affection, enduring social ties, and warmth that grows stronger through time and shared responsibility. Main caution: inhibited reciprocity: fear of loss or disappointment can make love dutiful, careful, and slow to relax.
+In `Saturn/Node = Venus`, Venus specifies the connection through affection, harmony and appreciation. Love can be serious or difficult, with inhibited expression and possible separation; depth of connection remains something valued despite its limits ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)). [ABC](#abc-entry) includes both harmony and its disturbance, while [Munkasey](#munkasey-entry) extends appreciation into practical cooperation: useful introductions, responses to requests for help, beautification projects and currency exchange. The unifying concern is how value and affection operate within a demanding bond, with no single outcome assured.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Zeus Apollon](../triads/sun-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Successful activity. To strive for a goal. Successes with machinery, leading technically. Experienced engineer.
 
@@ -42,13 +46,27 @@ Successful activity. To strive for a goal. Successes with machinery, leading tec
 
 #### ABC Entry
 
-Successful filtration person, successful corporal procreation, expansion of personal striving, filtration person of science, personal trade goals, personal knowledge efforts, and increasing human achievements
+Source locator: printed page 167; PDF page 82 (one-based).
+
+A successful leader, successful physical procreation, expansion of personal striving, a leader in science, personal commercial goals, personal efforts toward knowledge, and increasing human achievements.
+
+## Comparative Schema
+
+- core meaning: Successful goal-directed activity and experienced technical or scientific leadership.
+- psychology: Expanded striving and efforts toward knowledge.
+- body/health: Successful physical procreation is a historical attribution, not a fertility assessment.
+- social/relationship: Successful leaders and scientific leadership.
+- events/manifestations: Machinery, engineering, commercial goals and increasing achievement.
+- conflicts/notes: The entries name specific achievements; they do not establish success in all things.
+
+## Contradictions And Comparison Notes
+
+Both entries emphasize successful activity and leadership. Witte specifies technical machinery and engineering; ABC adds science, commerce, knowledge and a procreative example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Zeus`: successful creativeness and successful in all things.
-- Practical expression: successful filtration person, successful corporal procreation, expansion of personal striving, filtration person of science, and personal trade goals.
+For `Sun/Apollon = Zeus`, success is pursued through directed effort and experienced leadership. [Witte](#witte-entry) describes goal-striving, technical leadership, machinery and an experienced engineer; [ABC](#abc-entry) adds successful scientific leadership, commercial aims, efforts toward knowledge and increasing achievement. Its procreation clause remains a particular historical source meaning. The shared focus is effective action toward defined ends, without extending it to success in every undertaking.
 
 ## Links
 

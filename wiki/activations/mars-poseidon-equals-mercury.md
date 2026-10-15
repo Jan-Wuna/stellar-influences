@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Poseidon](../axes/mars-poseidon.md)
 - Triad hub: [Mercury Mars Poseidon](../triads/mercury-mars-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Poseidon,” PDF p. 204.
 
 Disputes, talks and opinions about ideas, the moral consequences of an idea, its moral value. The truth.
 
@@ -42,13 +46,27 @@ Disputes, talks and opinions about ideas, the moral consequences of an idea, its
 
 #### ABC Entry
 
-Talking about ethics, ethical youth work, intellectual work, talking about work culture, clear thought work, cultural work of the media, intensive work meetings, and reports on cultural actions
+Source: “Mars + Poseidon,” printed p. 322 (PDF p. 160).
+
+Work discussions about ethics, ethical work with youth, discussing mental or spiritual work, conversations about work culture, clear intellectual work, cultural work in the media, rational work discussions, and reporting on cultural actions.
+
+## Comparative Schema
+
+- core meaning: Discussing ideas, truth, ethics, and the moral value of action.
+- psychology: Clear thinking and evaluation of an idea's consequences.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Debate or exchange of opinions about ideas and ethical work with youth.
+- events/manifestations: Cultural reporting, media work, and rational discussions about work.
+- conflicts/notes: Dispute and rational discussion are both named; intellectual clarity does not require agreement among participants.
+
+## Contradictions
+
+No direct conflict appears: Witte emphasizes moral debate and truth, while ABC gives concrete discussions, youth work, and media settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Mercury` verbalizes ethics into debate, ideas, truth-claims, and disputes over meaning or value.
-- Chart expression: discussions and arguments about ideas, their truth, and their moral consequences, with thought focused on principle and intellectual clarification.
+In `Mars/Poseidon = Mercury`, Mercury specifies intellectual and ethical activity through discussion, reporting, and evaluation of ideas. Witte names disputes about an idea's truth, moral value, and consequences; ABC supplies ethical youth work, cultural media work, and rational conversations about work or culture. The common thread is bringing principle into thought and speech, with debate as one possible form rather than a guarantee of agreement. ([Witte](#witte-entry), PDF p. 204; [ABC](#abc-entry), printed p. 322 / PDF p. 160)
 
 ## Links
 

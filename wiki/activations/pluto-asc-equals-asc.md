@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Becoming more aware of people and how they react in the world; added interest in
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: greater awareness of other people and attention to personal surroundings.
+- psychology: interest in what shapes people's reactions and who they become.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: observing others with growing awareness and interest.
+- events/manifestations: keeping personal spaces and surroundings clean.
+- conflicts/notes: Only Munkasey's With Itself entry is represented; the repeated Asc preserves a two-distinct-factor identity without a separate triad hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's With Itself entry is represented; the repeated Asc preserves a two-distinct-factor identity without a separate triad hub.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Asc`: Becoming more aware of people and how they react in the world; added interest in others and what it is that makes them the persons that they become; an interest in keeping surroundings and personal spaces clean.
+In `Pluto/Asc = Asc`, Asc specifies growing awareness of people and of one's immediate surroundings. The [Munkasey entry](#munkasey-entry) connects interest in others' reactions and development with attention to keeping personal space clean. The passage is concrete about observation and environment; it does not by itself establish a wish to control the people being observed. This remains the repeated-Asc member of the source's With Itself treatment.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
-- [Asc](../factors/asc.md)
 - [Asc](../factors/asc.md)
 - [Pluto/Asc](../axes/pluto-asc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

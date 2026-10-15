@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Saturn Asc](../triads/sun-saturn-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Hindrances through others. Separations from acquaintances. Funerals.
 
 #### ABC Entry
 
-Old man's partner, responsibilities of a local centre, patience with other persons, well established personal environment, concentration on the personal environment, personal environment tasks, separations from other people, and losses in the personal environment
+Source locator: printed page 101 / PDF page 49, Saturn glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Older male partner, tasks of a local center, patience with other persons, disturbed personal surroundings, concentration on the personal surroundings, tasks in the personal surroundings, separations from other people, and losses in the personal surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ Self-imposed restrictions on being yourself when meeting others; simple expressi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Restriction and separation in personal relationships.
+- psychology: Inhibition, shyness, and gradual development of confidence.
+- body/health: Shared suffering and funerals are mentioned, but no specific diagnosis is given.
+- social/relationship: Obstacles through others, partings, patience, and shared difficulty.
+- events/manifestations: Separation, losses, funerals, and difficulty gaining recognition.
+- conflicts/notes: ABC places patience and tasks beside disturbed surroundings, separation and losses; these are concurrent source themes rather than a fixed event sequence.
 
 ## Contradictions
 
-- None recorded yet.
+Slowly gained confidence is a qualified possibility alongside inhibition, not a denial of difficulty.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Saturn`: discipline, endurance, and the ability to appear reliable under stress. Main caution: inhibition: defensiveness, fear of exposure, or excessive restraint can diminish spontaneity and isolate the person from others.
+Saturn specifies the Sun/Asc axis through restricted contact, difficult recognition, and separation. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries describe obstacles from others, shared suffering, and parting. [Sandbach](#sandbach-entry) adds fear of appearing self-important but also gradual gains in confidence; [Munkasey](#munkasey-entry) describes both self-imposed restriction and simple, effective self-expression. Restraint therefore need not exclude the slow development of an assured manner.
 
 ## Links
 

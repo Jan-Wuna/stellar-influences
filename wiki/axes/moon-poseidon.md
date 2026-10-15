@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `R/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON + POSEIDON`
+- PDF page (one-based): `138` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ The influence of the spirit upon the soul. A people that is receptive to spiritu
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `206–207`; PDF page (one-based): `102` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Insightful woman, spirit of woman, spirit of a people, clear customs, cultivated woman, cultured people, hour of truth, spiritualized woman, people culture, and truth order
+An insightful woman, spirit of a woman, spirit of a people, clear feelings, cultivated woman, cultivated people, hour of enlightenment, hour of truth, spiritualized woman, reasonable woman, culture of a people, feeling for truth.
+
+## Comparative Schema
+
+- core meaning: receptivity of the emotional or collective life to spiritual, intellectual, and cultural matters.
+- psychology: Witte names spirit influencing soul, subconscious mind, and realization; Udo adds insight, clear feelings, reason and spiritual cultivation, without a developed adverse profile.
+- body/health: neither summary supplies a medical correspondence; Witte's large sea tides are a separate physical referent, not a health claim.
+- social/relationship: a people receptive to spiritual or intellectual issues and cultured women or peoples are explicit historical examples; an intimate-relationship pattern is not established.
+- events/manifestations: an hour of realization or truth, cultural life, the medium, and large sea tides are named, without selecting an event or verifying a medium's abilities.
+- conflicts/notes: the short summaries do not support a generic liability of abstraction or excessive receptivity. ABC's complete bold summary was retranslated from the scan, restoring feelings, enlightenment and reason.
 
 ## Related Activations
 
@@ -103,13 +119,17 @@ Insightful woman, spirit of woman, spirit of a people, clear customs, cultivated
 - [Moon/Poseidon = Vulcanus](../activations/moon-poseidon-equals-vulcanus.md)
 - [Moon/Poseidon = Zeus](../activations/moon-poseidon-equals-zeus.md)
 
+## Contradictions
+
+- The summaries overlap in spiritual or intellectual receptivity and culture. Their brevity does not establish a benefit/shadow split, and the sea-tide reference should not be translated into an invented psychological mechanism.
+- Source repairs: ABC's complete bold summary was retranslated from PDF102, printed206–207, restoring clear feelings, the hour of enlightenment, the reasonable woman and feeling for truth. Witte's exact pair passage is confirmed on PDF138. Historical descriptions of elevated or spiritualized women remain the sources' terminology.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon` is the axis of spirit influencing soul: receptivity to spiritual or intellectual issues, subconscious realization, the medium, cultured people, and the hour of truth.
-- Constructively it gives insight, spiritualized feeling, cultivated women or peoples, and emotional openness to ideals, culture, and clear meaning.
-- The liability is excessive receptivity, abstraction, or being moved by an ideal without enough grounding in lived feeling.
-- Activations show whether the spiritualized feeling becomes speech, public culture, realization, confusion, power, or a shared intellectual atmosphere.
+`Moon/Poseidon` concerns receptivity to spiritual or intellectual meaning in personal and collective life. Witte's influence of spirit upon soul and hour of realization meet Udo's insight, spirit of a people, culture, and hour of truth. The sources describe women in their historical language and a people open to intellectual or spiritual issues; the shared emphasis is receptivity and understanding rather than a detailed character judgment ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Udo Rudolph](#udo-rudolph---abc-for-planetary-pictures)).
+
+Witte also preserves the medium, subconscious mind, and large sea tides. These remain distinct source referents: they do not verify psychic abilities or turn the pair into a physical explanation of spiritual experience. The two short summaries supply no specific bodily condition, relationship outcome, or adverse pattern; a third factor must be interpreted through its exact activation entry.
 
 ## Links
 

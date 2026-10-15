@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Hades`
 - Astronomicon formula: `V/g = ¢`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page `144`, Nodes/Jupiter Hades row; glyph and adjacent rows checked.
+
 Good relations to single women or persons of socially lower levels.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful relationships in need, successful traditional connections, dangerous financial connection, money deficiency in a connection, with financial disadvantages avoided, and criminal financial connection
+- Source reference: printed page `215`; one-based PDF page `106`, Mondknoten/Jupiter Hades row.
+- Translation checked against the scan: `mit finanziellen Nachteilen verknüpft` means linked with financial disadvantages, not their avoidance.
+
+Successful relationships in need; successful traditional connections; a dangerous financial connection; shortage of money in a connection; a fortunate connection from the past; being linked with financial disadvantages; a criminal financial connection.
+
+## Comparative Schema
+
+- core meaning: Useful connections in hardship or inherited relationships, with financial risks also stated.
+- psychology: Not developed separately in these entries.
+- body/health: Not represented in these entries.
+- social/relationship: Witte's historical wording names single women and people of lower social status; ABC includes traditional and past connections.
+- events/manifestations: Money shortage, financial disadvantage or dangerous and criminal financial ties.
+- conflicts/notes: Helpful relations and harmful financial connections are both preserved; the entry does not promise protection from loss.
+
+## Contradictions
+
+Witte's favorable social contacts do not cover ABC's financial dangers. These are different applications, and neither cancels the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Hades`: helpful connection arising across social difference or in conditions that are less polished or privileged. It favors fellowship where dignity and kindness matter more than status.
+In `Jupiter/Node = Hades`, Hades specifies the pair's useful connections through need, tradition or ties carried over from the past. The same entry also names shortage, disadvantage and dangerous financial associations, so a helpful connection is not automatically a financially safe one. [ABC entry](#abc-entry)
+
+The older description of good relations with single women or people of lower social status remains Witte's historical social classification. It does not establish a general character judgment about those people. [Witte entry](#witte-entry)
 
 ## Links
 

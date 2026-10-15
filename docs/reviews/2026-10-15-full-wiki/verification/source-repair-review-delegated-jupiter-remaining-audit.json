@@ -1,0 +1,2869 @@
+{
+  "reviewer": "/root/activation_review_057_059",
+  "scope": "Independent source-only review of all 103 exclusive remaining Jupiter candidates; no whole-page or global source audit claim.",
+  "candidate_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-jupiter-remaining-candidates.json",
+  "candidate_count": 103,
+  "accepted_count": 103,
+  "held_count": 0,
+  "held": [],
+  "complete_before_and_current_source_sections_read": 103,
+  "complete_unique_owner_records_read": 103,
+  "source_change_counts": {
+    "prose_transcription_or_translation": 79,
+    "locator_or_provenance_only": 24
+  },
+  "source_hash_normalization": "Body after ## Source Entries and before next ## heading; excludes trailing next-section HTML anchor(s); CRLF to LF; strip; UTF-8 SHA-256.",
+  "validation": {
+    "before_hashes_match_candidates": true,
+    "current_hashes_match_candidates": true,
+    "unique_owning_records": true,
+    "owner_ledger_matches_candidate": true,
+    "all_proof_images_decoded_as_png": true,
+    "all_24_proof_images_personally_viewed": true,
+    "strict_allowance_fields": 7,
+    "final_saved_json_reopened": true,
+    "final_current_hash_owner_proof_recheck_errors": []
+  },
+  "raw_sources": [
+    {
+      "path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895",
+      "bytes": 367847
+    },
+    {
+      "path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6",
+      "bytes": 2449950
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+      "bytes": 22939879
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+      "bytes": 2914105
+    },
+    {
+      "path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+      "bytes": 11221620
+    }
+  ],
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png",
+      "sha256": "37a5e253028e04c70f95082c28564db7b15768d6cafb123ddd9444b29b2d38c8",
+      "bytes": 408599,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+      "sha256": "5137da8642038e4448f0a18c15a4b3e9ed1c91492db89ac8fe32be7dbe7c9b40",
+      "bytes": 402098,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+      "sha256": "41eb19197339535caf1e68319ad4c715349224e4082826e88b0e2fbd8b97342c",
+      "bytes": 392723,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png",
+      "sha256": "9e64ca9b390bddc7df9252100086054ae13630084336eb6055f7f426c68e91d8",
+      "bytes": 401889,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png",
+      "sha256": "a61829f2e1b10ce914e7c332096a36a76f0e24aac45fbb8e6334871cbcde2801",
+      "bytes": 422930,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png",
+      "sha256": "ec88ef4551ca8766c10f4c3a08eb883821ab819eaedb241fe57fe1031f76cf91",
+      "bytes": 420575,
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+      "sha256": "1aba09d30af68888170210f486093ee8f4d2a23d050ceaddc7e291f1a5499ee2",
+      "bytes": 546984,
+      "format": "PNG",
+      "dimensions": [
+        1424,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf229.png",
+      "sha256": "3151e51b3bb024e07d20b1d780a108c7eca96f9d65f7655f0e0dd4ff9346bdec",
+      "bytes": 175561,
+      "format": "PNG",
+      "dimensions": [
+        1425,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+      "sha256": "7ea147cec5ea2c4a4f97639eefbb6bb16fe751f37b8e1484b7964dc4929bb5be",
+      "bytes": 491035,
+      "format": "PNG",
+      "dimensions": [
+        1425,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf241.png",
+      "sha256": "ed63c5e83ba644f52b5edfa81ba59a50176925671b378b8f7fcf028a344c4400",
+      "bytes": 136916,
+      "format": "PNG",
+      "dimensions": [
+        1425,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png",
+      "sha256": "093481c409c4235a12dbcf4ea07aacb80af8345619b278929c431a38f53adfdf",
+      "bytes": 534445,
+      "format": "PNG",
+      "dimensions": [
+        1855,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf259.png",
+      "sha256": "4019f70cede3ac58b32143f7fb80c9ac5585a4df589de7c47901d603fe2ea2f0",
+      "bytes": 466953,
+      "format": "PNG",
+      "dimensions": [
+        1855,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png",
+      "sha256": "130a39d2619c7a607e68c8a081ce5a6ba079e89190ea20b9e173d7b5c9f0931a",
+      "bytes": 524097,
+      "format": "PNG",
+      "dimensions": [
+        1855,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf275.png",
+      "sha256": "ae08b3a1a3e5f16741619eb9498235859cb9312d1bf50ff5fbae91dccca9fceb",
+      "bytes": 478649,
+      "format": "PNG",
+      "dimensions": [
+        1855,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+      "sha256": "f363abd6bf1fd344358ed2f3c4bf4fda9c88c1fc5ea8fdec5c446e30faeffb35",
+      "bytes": 519083,
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+      "sha256": "dd627e6e4d6ec1ce643d4c25bd4304772feeaa172944522b82ab99076e73bf5e",
+      "bytes": 532932,
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+      "sha256": "b794ca47fa48680eddd38e818e66049587418cff9709276e2653b7f6ad2699ab",
+      "bytes": 494832,
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf085.png",
+      "sha256": "f4645a069b8efe962ecb26f290ba3a98296feb4fd12e796faeeca08f813aacc7",
+      "bytes": 533687,
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+      "sha256": "e7758f883f180af54c300ef36387d2034465f6e136bf5b8381ea19d33ec860ec",
+      "bytes": 146265,
+      "format": "PNG",
+      "dimensions": [
+        1697,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+      "sha256": "b0560f77441ac4f3c86e605a76b6dc15072b1bf1a262ed705498aeb673d02566",
+      "bytes": 168670,
+      "format": "PNG",
+      "dimensions": [
+        1700,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+      "sha256": "8ab916b7dbd5ff96b80500f18d6e37b7dad875d66389513b4d22bbeee671d534",
+      "bytes": 336279,
+      "format": "PNG",
+      "dimensions": [
+        1699,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+      "sha256": "c27142db318f79c125f7e62894154500dbd23b743aae866aa98ca2098113b67b",
+      "bytes": 219798,
+      "format": "PNG",
+      "dimensions": [
+        1699,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+      "sha256": "e22e317bf237f89b4f0111a1d3f338b25a40216b4b93c268f525868ad811468b",
+      "bytes": 175946,
+      "format": "PNG",
+      "dimensions": [
+        1704,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+      "sha256": "aa5915df8844d81db77b4ea560136a7de7e2c489f3d5d347bdada0316f229672",
+      "bytes": 404328,
+      "format": "PNG",
+      "dimensions": [
+        1702,
+        2400
+      ],
+      "personally_viewed": true,
+      "origin": "Fresh pdftoppm render of actual immutable local PDF; page number encoded in filename is one-based PDF page."
+    }
+  ],
+  "decisions": [
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-admetos.md",
+      "before_sha256": "6c143dc1326a26ff231f69eb7b973d77e0c0a376ba6f3a8882251c3c2767ba2f",
+      "after_sha256": "e3838ace28fda9b321b7ee0ec358b9c4a1c0899540b9cd84b90992f8b4ebf6af",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 28,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "8b739370d07e78032c93ea6cbc6a77232b030a3f57c51f62c26fb4636fa61752"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-asc.md",
+      "before_sha256": "5c8446fa5a63b848576967a516e5cf2f036cabc97923b7e014f6d583baa0a519",
+      "after_sha256": "c44d8e98a794781f9d9beeb598722aa91f69bf3a79ff7f3bb2fdf0bc361a93cb",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 29,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "c82d86f8a2a509227c42b6ad655c794d8775cdec6b18c932067ebc2d65e75d03"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-cupido.md",
+      "before_sha256": "98f0c9f822f170dde745a77c46cef0e47597b35bda8e5be827c62004c9438c41",
+      "after_sha256": "2a07b88871e0fb31817af3231d0c1b96e697eecfdfd61b8e551f0dc37ac76d54",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 30,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "fb14d888840f54ee1c68a37e787b845e0179cc3b5cc05af0e1b74164ded6a013"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-hades.md",
+      "before_sha256": "1d20702cca6ce54c43d1564773ea3269bb90941efa41c5f6734a6d46e3dbbac8",
+      "after_sha256": "a84a71c275e938b7f1bfdbf88417da7a69167700c508a81419d3f00af99b42c5",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 31,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "056a9698ab48532ae153bc8195196670f83f40118c7c5c14a07903caa4f5918d"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-kronos.md",
+      "before_sha256": "57a08ed1ce3277086e074a9bfd9ca20add612e4b1b7542782b1ea75563094d50",
+      "after_sha256": "9ef89a32e63ad3f9b8a69fb8856a621b6b8cfb5dd543b48464a660f17090d832",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 32,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "df63ba4aa967c1e712e70aef817283a78837d0d9b25a97247a3e6b375d66d16a"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mars.md",
+      "before_sha256": "85d3caf9ba122ab49e88f97e1a63f5d988959202d19f05f6b490abeb838fd884",
+      "after_sha256": "10daf0de6bec06481d8309c60724641b3737ef80957687d11a4a89e545a0ef86",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 33,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "a6ece13848282a7908493b696713297c4ef7df2a3a55c2ebade587b027d47839"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mc.md",
+      "before_sha256": "1837b0aa4fa85be89994866ddb6657a9becebaeef8f7f2e166832261b32e8fad",
+      "after_sha256": "85fbeb86407e13bde72b9b2f2479ca4049629730af45659047a5c7310216afc2",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 34,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "c5b3ed8f977b45af239784543e9a1d497553b07d72c377eee7b3c1c0e6ccf16c"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mercury.md",
+      "before_sha256": "7e094bbab5598d1f4276a86379d4abb5884f7ffa1fd7b8d3e76686e3dfa27609",
+      "after_sha256": "97e58eaf478ac49f4bbb6858c635abec3a57bd878518a6b25433dbe62bfac393",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 35,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "587517810dd207cf6f1e87fe584e9dee431ab88f80812101ed7586ed2d46d73f"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-moon.md",
+      "before_sha256": "bd30eb587eb4879c52a372964b9e0cd40d5f97bdced13dc660347f424d741ba7",
+      "after_sha256": "e2a9d23ae2bd4b9f1669692d2e1876998eb0de4a39c06e105ea1879bf1e15ede",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 36,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "a0b1a9ebae0416fe76a1b92ad30dc0f6afaeace950c82cb6b2edfc8f5e6b7074"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-neptune.md",
+      "before_sha256": "fa6b6f1363a3e0c5aee0f64e0ef0747ecf53acac75bd4076bc09a5d6820a7238",
+      "after_sha256": "2b5d7b749be1cb36988dbf8296994914b55a64e9b41f0b824b2898fdabfd33ae",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 37,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "52541b42ca4acc20d17405dea8418a2b08c8439d8a1fa7c6ce37ec65ed744c76"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-node.md",
+      "before_sha256": "a55f4681bba31307f8d1bee77fc3e394b7c715681accee3cd56a9cf9999cddcc",
+      "after_sha256": "5dea77f930164039a5379936f5e6fc3e34324a4854b133fb6438ff49e80c119c",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 38,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "ade4aed3e7e6d8e6378e2c8458b271d6b6a69829c1e3728e3f820d8238f0f246"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-pluto.md",
+      "before_sha256": "aaa87731836598f6b6a12b7a8734920c057bb568b24f036b2b0b87bdf5f409d7",
+      "after_sha256": "3ced1dc3c03fef8a18a31c7c1103f5ebd605a67e06c9f723e8efed023e286b0d",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 39,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "69dd4d67d7659e91b524f97fd2065401d355482a0c6aeeae73ff8947676da1a1"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-poseidon.md",
+      "before_sha256": "6f67cb74322081412112e56902327eeb4a906aa1bd570925fcbd46c30b577c97",
+      "after_sha256": "9bb5a73dfdfdee77f99d2603aabfe9cf0925368f646a966dd22a6f04de3a0954",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 40,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "a3633a02b46adb19937408062f8f207d2d90c26be8e4a2c4dab2e335d0f65724"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-saturn.md",
+      "before_sha256": "216c00ecbcc419182ea815116f1e2d0769f06f903365265c701ee6a789b5a59b",
+      "after_sha256": "9947f7f8f3516dfd870afef53a1ee13914eeeb707736f58c610b31edcb8772cc",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 41,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "f81eda108ae08a0814f79402a2af924702f21fe0d0e100b9ee07cc1a2a61ea4b"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-sun.md",
+      "before_sha256": "a0b0701ac4deb0facaab6df056c2eca5fda923b86374198dd58a4ec65644e259",
+      "after_sha256": "477cc40a9c5c74278f4b1fe94845a6c96f1ac8e94945fed8602b20d74a767bb2",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 42,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "18862166da25dbc46b3eecbd6060b7d3beb4d02bbf77aefadc8725971e951eee"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-uranus.md",
+      "before_sha256": "e7f81ad1bb35172fb7bc4f5166a96cebb280b10547b173e3759dba5422de763f",
+      "after_sha256": "38930f79afd12b9136d0a04d65b3eb748fa46562d61e2eb21b8aff11ac491cd5",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 43,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "375c47426fd2ab45d5f2ac33bd36366851bcfc8c809a7adb333fea6770209676"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-venus.md",
+      "before_sha256": "a65dcb09e1fd8646af5d71fed90a0a820bc6a915b45eb300403a3e8d04796ab2",
+      "after_sha256": "5b981eccf2e17d8c7abf21eead94afc1db006ae4c92e1f466627f810b4ca708e",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 44,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "53cf23d6516cc474262f4ddd45de0246f6eed439f64604e7a9d685fc0cd86942"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-vernal-point.md",
+      "before_sha256": "e4b54c356aaf854becd20dd7c92eea1ceb4cca99a3ee5538d4a55a8131ed9a90",
+      "after_sha256": "deb110751effc31fe4b47b03ebd5c68e2f82d9d4087b12387520fa2178b56deb",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 45,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "8521f276a5981fb620a139100f269f8c85d9f0e926fa7f025fa018249c78dd75"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-vulcanus.md",
+      "before_sha256": "2d0b193c3b31b340ac0a53cdc726daf98b11362e1ffc9c2a84082537435b5069",
+      "after_sha256": "7fdd9a16c06ded41bf897dbe4d2c4d33a25144d17bab9a49d1f007d5d5e3e664",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 46,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "6da8952b1eb68bd3cc3806e886dbc5b1a35eeab96096aa069188ab0cba2ac8c8"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-zeus.md",
+      "before_sha256": "0e4bd4f74c098cb08a2189e57223b8e00bd2c5489160e5fcf3e019203ee0da05",
+      "after_sha256": "f77ebec9f14f363644bed25687258d8463ddda783a87afac9310a02e03327880",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 47,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "cc93ec69ebb0e1475441d6cc091becbe101bc1b2dc605bf1ef2b9fc6c0bf5933"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf169.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-admetos.md",
+      "before_sha256": "973603b3fbbba28a7f848e68fceb9435655e135158bfc705e9dc009c1fa17776",
+      "after_sha256": "39b3685d05f37b7960d1e222069dcbb1dc403a69976c7a690c9a3f8be7888da1",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 48,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "88a9178790866678b716b0a09da5f183b1772d6d75fbdca5fbc328401e1bf8f7"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-apollon.md",
+      "before_sha256": "3142dd31117713a98afbce5481ff8d3c55a90c71964cc14d8ac7a630723b86fb",
+      "after_sha256": "3b9ac3538da1aa707cc15ac83c08feb151dfe972053692714085e837cb49513b",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 49,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "39f03b36dd5fd9edd7100bb2ab024608ef49837fe5be0d0b868a78021af21c10"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-chiron.md",
+      "before_sha256": "7efc97257972d74fb4528d469b3388879482d680b791653156faaecba49c9c23",
+      "after_sha256": "a5ee908f5319e9070dae34c48ed30dd7efc03299a4ffc08693cc72be17db8fde",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 55,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "8c8f4dd3ccc57564f384bc91e208585957c6fbad72a32266095fc794424bccc4"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf085.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-cupido.md",
+      "before_sha256": "9bd9c542a13fd7d2a68783779ed6b38613b119b6eb31ac255344afe68316868a",
+      "after_sha256": "0d95b4fba8f8a689209920c50d6db0c79267b4391310d94d003ca77207ea405f",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 50,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "5573e45354c69becd70b273455f4839a7cca9b7b0120a3840eb4332aec278d45"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-hades.md",
+      "before_sha256": "a8e493ad83071cca7ddb2733cfe2f593f9b74dbfe90e002fd9db7513eabe8c0c",
+      "after_sha256": "73fa021aa257cc5a53ab6fb9fec3150531c59cd5f619d9fd3e20e1e4fa5f900d",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 51,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "8cca752756f455a21a31e03216ae8102ece3d1c8d374ce3805ae5386a1ef027b"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-kronos.md",
+      "before_sha256": "c03aadafb29c6de3547e758f28715b7bfe31df01db8890cea639bd20c8dca225",
+      "after_sha256": "ded60ae77f0da8cf033abcf4a160fbe3d849cbe0342f27c4239d198b67ac45e9",
+      "owners": [
+        {
+          "ledger": "activations-014.jsonl",
+          "line": 52,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "c248f6d99a9dc319a77e33004c539345ce1731500b27f88dcecf46842f3a156d"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-neptune.md",
+      "before_sha256": "446c0a79f717c1c1cc60873ab6c30d4778ed89f71ca9c365fe20a570dfca0dec",
+      "after_sha256": "3ad204b354b39f315cad9289d544025e3a003295ef1d60ac489cb00574774897",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 5,
+          "reviewer": "resume_a015_017",
+          "record_sha256": "9c9e669e07d5c92f051c5a76f8741218d460531c8c64282118a27713dec3ab68"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [
+        "Sandbach PDF 85 is chapter start only; its `op portunities` is a retained word-break artifact."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-uranus.md",
+      "before_sha256": "c7499bcbff3eeabe307a871858b5ceb7284b70b65864a99400a37528cbb1e78d",
+      "after_sha256": "42b2806dd373c9dd538a8194102dc8b3d3d68349514b99f65994894a46ae74cf",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 11,
+          "reviewer": "resume_a015_017",
+          "record_sha256": "4897fb8c7a5565254142eda45d8480c3f2a4dcb15207586207f54a02bebc94b6"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [
+        "Sandbach PDF 85 is chapter start only; `per sonality` remains a source word-break artifact."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-venus.md",
+      "before_sha256": "bf22b2fffe71435e589b3949a5cb9455a08807b8863db0789e90c0737044ade8",
+      "after_sha256": "e7ecae73d2541bc2ecb94d93e6ba0cfeba8fef8ac4286590b031d3c11c8c50e2",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 12,
+          "reviewer": "resume_a015_017",
+          "record_sha256": "679d2254ff2f1c7c370f2381db6e2d32db8139bbf0e1e72d239e10f692110bca"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [
+        "Sandbach PDF 85 is chapter start only; `appreci ate` remains a source word-break artifact."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-zeus.md",
+      "before_sha256": "7e702e9edaeed3b8105eb55bf2e3fc6bbe39748dbdd53d3809e6ed890d3c8ccd",
+      "after_sha256": "582eb4b6965610037d1dadab5fba4a766784bc8b6b0d36482d921dacb1431e56",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 15,
+          "reviewer": "resume_a015_017",
+          "record_sha256": "bf96e442af08d75695723b09d5fd1130876a867f6bdd48111541cf52f510ac16"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf086.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf055.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-admetos.md",
+      "before_sha256": "2639a91f544573fa211b9593fe4ea899d5471f513fa52f54b02f5dcbc8a8196a",
+      "after_sha256": "46db4de5341f2dfccc2fcf547d926e3a161f7cf7148810d8e0943bfdc0d39712",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 31,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "f7ee454b54d25879cf4cbddc1717e3032401f7afdebd059c95984562cb8e80bf"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-apollon.md",
+      "before_sha256": "d80305384945aedda183164f4e4950decdc0952717a5b5291af39d91a16a0006",
+      "after_sha256": "c52135ff1afccbb7100e3f4db9a43b4d4041e96d139e4726620a022efd2de46d",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 32,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "a9fbf4c3622b1a53ec8cd6a568d2c2eafc6d2b0f92121084dbb0a4125131a164"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-asc.md",
+      "before_sha256": "edfd53f00c1c2daff8e8c5edbd01738ccefff83894a5b5ebf782a344f9b46cf5",
+      "after_sha256": "9e12e64ddfd20884a56fb36443f157a6af5350f38b523c7773512a22a28a55d6",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 33,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "a6591926f9143ef9775ddfe5662b1f49fba7588d3b0035c1c99059fc23a5cba5"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-hades.md",
+      "before_sha256": "af56f543262f7e90886db2c15af4c81bf068fb7e278b61e658ac3e7d57648c2f",
+      "after_sha256": "86913503b29fb4940c9eb1065365969662d50fdcdc978e91521f5814bf79b84d",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 34,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "86ccaecd3b594f790028ec699c4ea4abeffe8f530863a6a5373521287f2f9acf"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-kronos.md",
+      "before_sha256": "be779e683540a9107838330f481c7e731f131c5743e132975c2b973287b8f43d",
+      "after_sha256": "31337d51f4e8b8fd1be8bd2e6092a10edb314e6849e61cc524a898b210336920",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 35,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "f37cb1afa97e30aadd75b70e0d5a19a7e90cc6971556bdba788142b6841def25"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mars.md",
+      "before_sha256": "0030226045ce9a37dbe9a1d46f4443f4efb4fb53071a444270aac5eb1689ba4a",
+      "after_sha256": "aee757a813a216f7e39a768ad7c79b5cd38f74e993f9aad4b8b0c77aa5297520",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 36,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "c045e67d260b7ef202be4c6a619d5f103a183f73c7055b4bfeb696f52bff0033"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mc.md",
+      "before_sha256": "051b156c682c2a58367097c0912154f9c947748592529390adf95a7eb41a9f31",
+      "after_sha256": "6365ce567db85e36ce514c2e17eb3c6f79522e330f4035685e362428036e4b91",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 37,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "45962d904df37ac4e239a1e93460d19f116c890d27ec41171829527731471abe"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mercury.md",
+      "before_sha256": "95c99fa832ddead0d440bf38828f2cbb7765c460f2f265e243a2cd6168a4a1d4",
+      "after_sha256": "48fb752e15a08f679fe6b276dd07f06bb0d54d45f1c6e0a2f4b09503211e9d58",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 38,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "22c9a23b4eea26a459ddb891fdb8a3c8596dc5d004ffad5a9e818f0fe3b2444c"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-moon.md",
+      "before_sha256": "3819d0a5ef1a229e499a3ef00abc074c2413e43208288c0268d1209728f216f1",
+      "after_sha256": "f877e423b22e63655cd2db8ab5f7a6011b8a441b2030336cb15b1a8ff219821d",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 18,
+          "reviewer": "activation_review_001_022",
+          "record_sha256": "4a92f92c89c96a777514aa2a9af481e29425eb12f8740ca8a6bb099b2ce761a5"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-neptune.md",
+      "before_sha256": "6b4d880e8507586d6a56d6b936aa79572e7e5239d3ecb7db4ca72b840e0557ce",
+      "after_sha256": "8685815a9eacb6bb4ee291effe23c802ba8f32f45c9b6002fe3ebbe1a019ecaf",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 39,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "63d1d929e398aa64e95607af0ac1beef40aac9ef2f61ab713ce017de520807f1"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-node.md",
+      "before_sha256": "0c7e470c03f6650929cafaaed4f5257e97bace3785d4fe953aa1d9f0699f3176",
+      "after_sha256": "35ae00a509a8fe12caab8c53e8ec86a8d01903509d436a372eef0980d9d7cd55",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 40,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "e06f01177e0340345f716802acf9fa795e18b3d96dea9414ff8f05c505227167"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-pluto.md",
+      "before_sha256": "da9d5cdace36a91416ec3766f28bff49787abb0934b6e9014be71732c02fb802",
+      "after_sha256": "c73d92ec1afe4e8967fc56baaadfdb5b59b6ecd55e4d9debe74c4e059c37ed68",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 41,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "29c975abbc363acb3039fa023be49f8fdce2728de4a055b384b814057ed4b5d2"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-poseidon.md",
+      "before_sha256": "116e17c2fee07b7fa1a29059219c466f32cfd8f0c2dd30dd5339ec4584bcd1db",
+      "after_sha256": "103c3b47be2ca69488cf71ad4e872594cd8f73360d3cbadf57db4797575b0b00",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 42,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "30eec6a26e4e3e9ee9744fa82ca1625295803f9a4e34f78c21344fab9054049b"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-saturn.md",
+      "before_sha256": "f710a8bb3d7a34bfadd6906d2e6722d0be77ba1901f13b7ea94303cb759bd856",
+      "after_sha256": "d7f5a368c3cd147dc44b3b50a9ecf58d6820c1be57563a525f4a3d69de4576eb",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 43,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "0a19e20ba8a89708b470554a4e05d412374572fd1e141083c62b7bc7f6250023"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-sun.md",
+      "before_sha256": "a32f50e8e2b81f6c6adafcc93e6070118f44ede5a663becee1392997f6785472",
+      "after_sha256": "e4fc68745ca4026d126d83d796504f5fb697b1d20227eac769e4fdb7a0b26b0f",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 44,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "351ace201e46ccdc48b393831d8887f228dbcd12ac63e501f9d037c41d193ca9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-uranus.md",
+      "before_sha256": "7440476af1a853fe5dc65cf8a008b809a3a989b4b92417a11d57e75f4cb4ba9c",
+      "after_sha256": "a68b71ebfa0639aa1e9d0dfec9105bfe5483f5ee28e2be51947439a363fa4c47",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 17,
+          "reviewer": "activation_review_001_022",
+          "record_sha256": "429cc07bf990983214909979f380240aa7b9f648579be20d584e0b60de32676d"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-venus.md",
+      "before_sha256": "9c8ca8c6932900c6424b8026b55fef87fc7949266acdbfd2616906dd0b44b9ff",
+      "after_sha256": "7628fbd149d2641fdccd08a97d8d119a8a827332b0972389459fd8e3d73d5b40",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 45,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "ce738bc58d9867edbacb871831e4fff3d1319931aaeddfbefc4160faba829f25"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-vernal-point.md",
+      "before_sha256": "7c34fab725fda0dfc2e2d1e0c7956f9df11fb225648fed0e7bf81bb814679f3b",
+      "after_sha256": "3624d9f1fff710d0e046875b5ed96180abeff8921047a756fd6f71a6f402ddb6",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 46,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "683d808abfab876ffc4e73638c2a01db0d1a11a5058c62a8c56056929c38bcc4"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-vulcanus.md",
+      "before_sha256": "5655898e47c7274e584eae010ea3dbff95584574272f1aa84a5da88f9fe9e8ce",
+      "after_sha256": "adb7a4d94775df53f4285d736a1501cc523a80623fcfa91d9565410de5b5dfd0",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 47,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "85828fe6683ea2185b904c8b2f42394c07aa7ba938fc703c1479cfb27ee7feb0"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-zeus.md",
+      "before_sha256": "cdaa669d417effafa81c13c7b581c3b719bc6a128972db88e7ca2c9be2d2c3db",
+      "after_sha256": "a5bfbeca9adf1a5dc543b1f663646bffae3e4d8e54d61ac6a90ca7fc77c1d3f6",
+      "owners": [
+        {
+          "ledger": "activations-015.jsonl",
+          "line": 48,
+          "reviewer": "activation_review_013_015",
+          "record_sha256": "b9c0f03878dd04478f986df0455d63a248e12803b896bf2f89f2bec6d8a32719"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf165.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-admetos.md",
+      "before_sha256": "56a69fe92fda18fdefec9613e3ad8f2b72113ed4f3c32e374117166b63b6c45f",
+      "after_sha256": "4c428328c2d2c68039093a03ebf619fe9257ae563ffc9f0b001a786c776167c0",
+      "owners": [
+        {
+          "ledger": "activations-017.jsonl",
+          "line": 45,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "49eb24b733a8ce17d0eca9fa60061008464a9acbee429ca1e1c07668128ec139"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-apollon.md",
+      "before_sha256": "4f3744e543d2e66c1dddf25a33566e9b200b6bdd9f40fc65cbb490e9b1ed0567",
+      "after_sha256": "9ca8bd2a43b7deaf46f572dd786b01218c743b3b399d7d718ae29882f0fe1138",
+      "owners": [
+        {
+          "ledger": "activations-017.jsonl",
+          "line": 46,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "fb9b69f1f8baa64fed441d4699b079b0b5c6892242f770ab17d6e4d554eeed2b"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-asc.md",
+      "before_sha256": "3438d90855813862a4f099573f6554fec8e1c349d11e322326fc125378789771",
+      "after_sha256": "1e5f421988bc65e626969f95e9b600c260bbae936a57e77c3a46d28d0500568f",
+      "owners": [
+        {
+          "ledger": "activations-017.jsonl",
+          "line": 47,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "053c17270b6aa87cc304907f73d81c7951a7c708fdbbb9a08392d4746245c5bf"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf241.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf085.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-chiron.md",
+      "before_sha256": "d61fc16037fe46fe7d1c3dd6de7ec2543edcfa76b98adcd20ba1eee51835df6f",
+      "after_sha256": "542c63a553418a5391b26f5db26e8f4d83574bfa550a314aef317a122c4a1b33",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 2,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "89775f93f7e51fae0e84d6059416bb3341aa51c215528ff2ecd56f8e7a4174b5"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-cupido.md",
+      "before_sha256": "955eac832f00035bc536bf1dce1ec36f17c011d2790b0b16c88f8bc62897c456",
+      "after_sha256": "d1db26b109f49c205421d7e6eece51648d9c382222d4f3ba53d948e67aee2093",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 3,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "32ddcde48f11b02e36f93a6205894ef971fa5a5838ce1cf0f9d0e759a82618eb"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-hades.md",
+      "before_sha256": "61840bb9d0e0234551aeb0bed691653b3c6eda50c534fbfee940420501f7a2e0",
+      "after_sha256": "51a418ae5c7cf60702efc9d5ffb86ed68ec6e0845c6b9930b0e1696c795502e6",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 4,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "bde63ad93673c1014c0088569ec8be052604725f140965b346b195a5b060f461"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-jupiter.md",
+      "before_sha256": "8441685927d89fd06eb2663189c6de8c71e6881da055e69e9040863fab612192",
+      "after_sha256": "a0c63c6bd5fd0521c4bcbf51e2c9befe31c1aca767c8a508beff4423f81d3649",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 5,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "3c5663f46c5f4de87c08fde5667d286c9e51e156912fd5c7fd523c7f3dabb7b8"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf275.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-kronos.md",
+      "before_sha256": "126e40fc79dc8043011af8c04062d8a0cb2cf397c48f5fb4ad0391d0099b1bd3",
+      "after_sha256": "d34b35379cf5a56f93bfe5e964a0e54cfd05f8b2d40eb5024e69619644e484fa",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 6,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "7c788b06cead877174c5567f160e73a4fbcfea76fef804f749a2b2c31ea54bdb"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mars.md",
+      "before_sha256": "554780818bb31aca871fcdf58b428eb8601cf7a45108c6e2b2ebf0c318386dd4",
+      "after_sha256": "fb3f28f95e355d2412b86ded7c6c72f799fc3d55c8b6f56ac7e4bd107fcdd5c7",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 7,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "0b4eefd93fca6505637a293e1056dcae83b57666fc339aeeb5edcc92f6087904"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mc.md",
+      "before_sha256": "cfe2c120ec4dbb47922ab5a2fb324275e2bc630f3ac6fcf27366344627eca4eb",
+      "after_sha256": "e34cd53992b5ce25ee22b4bcbff56f89a55c6d872b41b567b5728520663892ab",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 8,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "0d3d6fed88fa9b3615da4b7313d2de3fda2453d0530ae8f6eb4c898e9d254d08"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf241.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf085.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mercury.md",
+      "before_sha256": "43f3417030dc3863da93a86e2b1b8d79d6bf483fa8af54ee7a7781b694e7d7b1",
+      "after_sha256": "6146a0af2ad5152ccdf39d9655033c1f3da6d1b35ecf8b00dcc8d49db945251e",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 9,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "b14e9fd4f3ca2f17b6e18ff9ce2d120a200272ad52dc65f448e28ce0c9b33df9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-moon.md",
+      "before_sha256": "02fa6c7e0fdaedea411aa24f3fbd1e4f00b0dad946738b52b9717ca4619acbf3",
+      "after_sha256": "117c4c378efaac16d5eccbd0030a727b90f5f3fc1e60a183e47936c675c1ed3b",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 10,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "e842c2ec6c8bc7a8f9784f82e59354c965c26e34cfc2ed4a91fb19bb53c9c464"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-neptune.md",
+      "before_sha256": "91fb5db5eb9d211ee934a24df56c74120ac111a786120fb2f825f3f39be09d75",
+      "after_sha256": "a447fc1fe40a3c582f0b4ed2193a7d04e050281c841a177704961c266c5382b2",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 11,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "350aa39a89f22fba8b4d8abf34cfe966315b019919aa540e3d48c0e9538ef73a"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-node.md",
+      "before_sha256": "137e7cbad7cf728d158ee456f9ee7651c0c14b5588bc2ff4ae74da720fef69ba",
+      "after_sha256": "8836cc65484b3236d3a8734a9e86bfa77e6aac09480b5cea44e4ac094fd77030",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 12,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "8693c4152c1d4e9c9caaa11311fe977cfb977d3f205354140918b7c529f10681"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf275.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-pluto.md",
+      "before_sha256": "d9ba3f73b56ea5f61da586c2da22034c08f3885146c4304f1bc216526b983a52",
+      "after_sha256": "788a247ac29ce48e80d901f3b315528d0ddec66616cad4825b642f65a1f15ed1",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 13,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "3d8b18bcf32db4916e402133bf11fa099aa86c0c00b82d70f8702d9904c2d0ed"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf085.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-poseidon.md",
+      "before_sha256": "e80dd6e4073971f4b43801bdf458c3e1425f8894a58ff89a209314ebeeef3b64",
+      "after_sha256": "1ed6730bbab9aed16c20f1fff2e2900c19d3883624daaf4f8f3744523cddef63",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 14,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "de30abfb30cf79995e61fd54d0ec9b0ccaafd0db94b2fe38077eb2d83e651f7d"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-saturn.md",
+      "before_sha256": "329d240864dfb4ed4d2a777c0b083ff9a9f10f4fc8a22f9b1fd3b0ce0f2c185f",
+      "after_sha256": "8f2c004ef402f5db699b92fe04719507ee727490e2db75fb5909aed2c0ff854e",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 15,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "948c6a2109e8e962a68fe966c9c5e92907e31999389f8665f75fbab6df7044e9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-sun.md",
+      "before_sha256": "f1b8cf52595217fc0a7be7fe1295b7c1048371d90072bf01fd3965e969b3d960",
+      "after_sha256": "be90d56fb8349ce46584129b6b8bce0070395f17e943329931f2f6ef41efbb03",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 16,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "5ce7a9e3c95f3a38fd292019471f2d9547eed38f0394cef811027459d2d61c12"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-uranus.md",
+      "before_sha256": "ae8470582e26699c7e754319968fb5cc6575b59217d9dc11b576cf8c5ec3249c",
+      "after_sha256": "8a10395089a70fbfa09960b1266ef6eacac19a3d0072b7b2bdaddcedf0b97a7a",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 17,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "8c968e0828b17c2e406553e7220c522da1eca3f52a98373735ef2b3adf674445"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-venus.md",
+      "before_sha256": "c738aa498fa1cb653c2df9c2202e60bfb0abcb9cdb80e85792eb2812530fb6e1",
+      "after_sha256": "fdec7954fe703f7dd7f7e2b05e50164349e2f2bc795c9f7103620b3cc9e1c5f6",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 18,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "17d91143fe28e4b8b3511692294d9594bbb931a824724ed16a2a1b77d9f80ee6"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf240.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf084.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf273.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-vernal-point.md",
+      "before_sha256": "6ad9cc6cc4225aac5980e16a41ab5babb5cbbb36d886a7f878ec061d133bf939",
+      "after_sha256": "28121abd52c70389c82f1fd463b8314eea27b3859fa7ed8930d81a9a4ff96068",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 19,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "4b79ac7caef3e2721ab91cb3b5789209a88cfb8200965662480be570afa36d56"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-vulcanus.md",
+      "before_sha256": "dc99fe83c998940c2e53f41620d7a179e80c6a934f744fcbba24a84b585d21ef",
+      "after_sha256": "75298e6f70b96822cf550cdb52c3c21566aef4685979b7b30691be667d990744",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 20,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "6cecefe26d390554aa5809980bc22e3eaf7afc2294d249db93e1a6d4c76dfc00"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-zeus.md",
+      "before_sha256": "a58b4f1ca4b726edd03427a1b4306a19210b620cdc7560d9864e04784c489d12",
+      "after_sha256": "edb231dff9d593ee84e4f1778da73e55dd6c428c40e97a5a43f8543609f69fe0",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 21,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "11bd90a5d723eb203f2ed4be25bf899c2967ac7268d677538f9dd45b28d4a9a9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf106.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-admetos.md",
+      "before_sha256": "cbafa923537431ea84dcdcde074c656a14b09000c0d725a860e4485bd9ddd646",
+      "after_sha256": "0fd18c218841bb51f618a37a8f77b9a986c77896141afc2e0cbfadd4a0ffe035",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 44,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "c89f726b3db694adaa51d86a7c05d5044adfed82474a588d6bc97fa0c3c4bbe9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-apollon.md",
+      "before_sha256": "74c390386d3b6b5276d7e3ea2a754c001bcbdffca45cdbed425c56727c9f8a86",
+      "after_sha256": "d532a14ef009e648cb6b0e0462009f306ff0bdc33c0d3d465927076259a03c2b",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 45,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "969ae20d2346ef465657a25dc18f7874e086af7f429bde738c5d13cecb5c0e0d"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-asc.md",
+      "before_sha256": "dc67582b68b8809e9502f79f3b14cca622487792ca547c40406c423eb9ee26ce",
+      "after_sha256": "36adec917ff99c009d9eb7d32e7147f5ced601d46bbc899139d210adc5014889",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 46,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "32f567f2f1c96fe9c1c8db350f2ab1bca3b0cb457ebc29d60610438cfc965cfc"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-cupido.md",
+      "before_sha256": "1bf864c6f80eb7bb637f5b09a64fa03c08ca8ce60e370992795811ff1ef860f7",
+      "after_sha256": "5ed765f878c85dcf23f74ef3174532f2a8162fc2e384f2050e77e20ca420fb9f",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 47,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "dbfb12fa1231ffede46dee3150a2483f2019471ff23d04cf8d16d990976f4c16"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-hades.md",
+      "before_sha256": "58b19a9110caf1d5b02a96baca1178626f0dd69dcaae0869bf40b06c02575814",
+      "after_sha256": "f0524b39029ce619003036a2d0a4e2d30655ecb1e005a1d9bbe27a6070334180",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 48,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "d4c1305e63a986a9974d069b44835808b30ff5c201d687aa3f9666c7615ab320"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-kronos.md",
+      "before_sha256": "3ba091eef855599f205bf7393f1ab1d41f6b9a95f04935506aa24eff41ae8cae",
+      "after_sha256": "4db6f85941ecb1aa355720102aeac052ba1a32a6acb60757c98e14ecfc94ea20",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 49,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "a4373605f5ccb164808cb59e440017bd71891a36eab0ef4eb9ba64ebbfa3fd57"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-mars.md",
+      "before_sha256": "bdb80e57ac4512bf6553cd051af62879ac9acbcfc2cbf238b9e9fa2c85df6805",
+      "after_sha256": "3f854664ce472004dc8fb25bc9f786eefba620c1809fd5f7c91b904b5f629da5",
+      "owners": [
+        {
+          "ledger": "activations-018.jsonl",
+          "line": 50,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "9c64884993aa67fc9d1daaadce0b84bba7ebe0fc7079aa3349fb80a77b3f2ada"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf218.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf172.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-admetos.md",
+      "before_sha256": "7a437e6c24fc79d92fc1bcb9f9133092424e3f6a54639a31620386d931c1e32c",
+      "after_sha256": "4f2cae8a54d0c94bd055d8880af39149e7fd3a3a7299bd75816d2d5bbc0209f7",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 14,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "64a4a97ac3d952bc21f4d2d98fd89087985715fcdecabf99be1efaa5456b3d5a"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [
+        "ABC does not explain the precise force of gründliche Rechts-Probleme (thorough legal problems); retained literally without elaboration."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-apollon.md",
+      "before_sha256": "c9e2c40eec8266f785f9add31de17e9da95842642417b39624a487244548c22d",
+      "after_sha256": "b6519c8bfd965ec1cd9f65e4c30d9fd1fa0cbc4081a97515be7a464878e8009c",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 15,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "c849554eaca38ebad6df958f015bc511e6e3e60eae05ba63585214cc8241f431"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-asc.md",
+      "before_sha256": "e213fac678a88a83fd2e16c164c018c4ef701b5aaab034ee46dd4dba2bcee232",
+      "after_sha256": "45da476b2ee32f30b7dd8e573d7fe7f6a85484d1d93a78e6246a440a76c0f543",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 16,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "6ab3c76982e9d5a3644fadf4e48983d70d22ed9ffd07f407d8cd1aaba728373a"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf229.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-chiron.md",
+      "before_sha256": "cdeb35e458dc58209f1ffcc51b5147fb243d6cd350cd3bf3ac85afdb61644043",
+      "after_sha256": "cf43d85c3d855a2d115aaae619887f12de434de3dfdcef64de539c2284f52283",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 17,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "39aa7b49ac6af92a4780d5d77788dc471d9b98b306b5a5027764c53809017bb2"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-cupido.md",
+      "before_sha256": "8e5c6fba410f62539e5851cf304f5295d07bfa5e9e73012ecd5b56f3b9cfebe9",
+      "after_sha256": "d5419f7bdffe14849e88194806630a9b396ae74438584e1a622b9a40a19c9c53",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 18,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "373676aa17a47491703bf50333ff3819ffd4647fba8f34161c45d99b9b5c23e0"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-hades.md",
+      "before_sha256": "1643e1ffdec89bba19e4a0f4484e90848ab38f830472b455c681e1161451cfde",
+      "after_sha256": "222a53caaee0fe8fa8e8df1b3ff736af6193238c66078da1fe7ad6bc414972cc",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 19,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "a32d3335085acdb23984c825f24ea9da4f6b49bcca11c7d6727a86e1b046d9c9"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [
+        "ABC names the secret of success in aging but does not explain what that secret is."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-jupiter.md",
+      "before_sha256": "6dce855d9226de4c088f23001330e6ba6922b8ddb65815888366adadfc50f669",
+      "after_sha256": "222efa96b0c0cfa26790d12e4b5d72d9761ea602003732279adf7e09b2d04807",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 20,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "aba05fa98328bc6ca0917665bde9abe9696aafc23ffedad93080f1d1c82fa5a0"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf259.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-kronos.md",
+      "before_sha256": "986ea7a50c0ec3e1f5929f05b4b45f81934ff1cd9d22c7968921d3112e5cdaf9",
+      "after_sha256": "ddfe2618fac5ee50e0cdafe747c01ccf0031370357b76ab484025d1fc13c9c37",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 21,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "3a6ef0e9be6b910f0481735e06f2e9179a52eaf6bd129aa045e8921e698f2141"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mars.md",
+      "before_sha256": "c354d4b5b1ce8a8c797c787103a77ec4e73add9a1c9acd5575d9a4815ada6a5c",
+      "after_sha256": "ac4eab7481a576337b580edf51484083db9e29fb2dab6dfa8b98e6de4349f7ba",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 22,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "8c0decdad3f3e85904feb3d0f6f3e6ecb7d306157f45ae1acf02dcf4545d7a54"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mc.md",
+      "before_sha256": "4a2afc4998876e707137fabf3e976548782f73b806837fa8befb19f0d547e8a9",
+      "after_sha256": "65d33472fcd10ed77a8e5ebfe325b18de31358d2e70785866768487d380d2a0e",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 23,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "1322cb84048000d39837bb14dbe2d014b6686e500af62bd241c959f8131a7e94"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf229.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mercury.md",
+      "before_sha256": "fb28bbe540dc87b1e38fe06898be33da00a9a8438dbcdddb2b0d8fc9befbf45a",
+      "after_sha256": "70988c26a608fe5537ac7d97244fe4dd8024f656bc8cc277e2ac712d4834ea6f",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 24,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "dca5a4286e54261fd0acde531aefb371d055cea427fee3a229e4344f831d0a2c"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-moon.md",
+      "before_sha256": "3c8af28c22842fbfb9c1be0c9ab728b3318d155b7548814a1246caf8cc4b3745",
+      "after_sha256": "3ede054ceccc1662bc31122dade9ce492b15764cd7a86f4e62466ab5490fe204",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 25,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "3886178214c876993775fde82801f96ca3f77f29e9c893136db0d679a6f80077"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [
+        "Witte207 prints Fortunate separation from a woman or from as an incomplete phrase; the absent object remains unexpanded."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-neptune.md",
+      "before_sha256": "5b34733e1c13362b1284af96e36bc600b19ac55a3d58a9602115c31207256cb1",
+      "after_sha256": "e291199634a5385e0cec4ddc18b2f1a364c10fe73f7eaa65d0561d7105f72523",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 26,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "194235bc72b81389a3d43f7519d9a1d979474839a2c6501b3d66c2a98fd3293f"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [
+        "ABC's inhibited joy in the air and disturbed water law do not specify a technical or situational setting."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-node.md",
+      "before_sha256": "eceb9d86c720eafb437ddb65c524ddce5efddc1b059370142799ce4925c65b3a",
+      "after_sha256": "ad665ef007322e179087ff4bedb7ccbeec35e7e26b6758216cdaa2b5b7109fe2",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 27,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "af705144b7f930a1a96985f11780bc11412aebe982ee35cc296eb05cc74a055e"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "Reinhold Ebertin - The Combination of Stellar Influences"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf229.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-pluto.md",
+      "before_sha256": "9daf4f41a8e20a70e6e798a0cff029aeb0853b64c7f69d2249b409fa8da96b4b",
+      "after_sha256": "c324eb55577ecd5ac3a905bb3f43de99edbff365a245916460dd8c81df2f75dc",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 28,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "7937242b65edb029264220e1f455a268aaec231b162d1ef32c123663f10db367"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "Reinhold Ebertin - The Combination of Stellar Influences"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf229.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-poseidon.md",
+      "before_sha256": "93e51ac477a076dff4f4c9cdd939c4e1a8658e4bc1e5e92a4294164cf5d52eef",
+      "after_sha256": "4f8fee1907ebc35e1c5def040468a841ea034a910563091925c8f617b66b4c20",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 29,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "240c2a438cfab49dffef2ab4dc0db5bf0a00ca28fe26f2957970748c14318043"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-saturn.md",
+      "before_sha256": "96011395778dea8b7e9ef767943e1f35e9ee5a54e8ae5eb90358aa2c769c2969",
+      "after_sha256": "ccd14e42966ea0b762071cbf8cf98d775244518d1a5bd9e57e1a2be4f072d1c4",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 30,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "3c0327187d7dab7c0180041f62d66cb0ad18696a2d51b56bb3522d405df8a25c"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "locator_only",
+      "changed_source_blocks": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf259.png"
+      ],
+      "inherited_or_literal_limits": [
+        "Munkasey259/printed258 literally has Abbreviated comprehension understanding; the grammatical relation is not resolved beyond the explicit scarcity-of-wisdom clause."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-sun.md",
+      "before_sha256": "20314cfb105176a1c60572cd9fa2e3bd83c45674c21d2184589b2e6fdc1b0d99",
+      "after_sha256": "806b787a2dd35a2eae02673077678018a4afb4c51e1245e4684f1293d2a583fb",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 31,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "31240e4c9f6c6a343ac81d4c29c8c541ee38af785f49673c7cd1c184498af1aa"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-uranus.md",
+      "before_sha256": "7c11fd8f5319b4456659408fddd36b824895a8dddc6fe215da72b03653e0c82c",
+      "after_sha256": "df94df38b5000adf0c0cdd3389b958592dd4606850337ea392f676a9d01b95d9",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 32,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "e2329a57cd3200f78be3cf39680a8cb3ab1f840b1266204c1c51f955b3af6bf4"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf079.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-venus.md",
+      "before_sha256": "0fc095ac5133cb871b4f2c1f63ce9cb41a48e72a14dce21110fa7209481abf9e",
+      "after_sha256": "c8294dd35a35a0b6fde806b6e32deba937c742a26cddb4bd27f7f7e9d2cf009a",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 33,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "306dd955276e6c1cf12e9fe8d2648da0dac755f24beb33bf4fc42590cc32eea8"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-ebertin-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-sandbach-pdf078.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-munkasey-pdf257.png"
+      ],
+      "inherited_or_literal_limits": [
+        "ABC's Friedens-Recht (peace law) does not identify a specific institution or legal instrument."
+      ],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+      "before_sha256": "5ff0741c3164a9d9a596d4c32ddc60d64a2361f6c428adc84596e371b1bad726",
+      "after_sha256": "7da04987bb9da28e279233556929c981f9c39850e09e1503d66fe1ce00731142",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 34,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "d40353a2c76671c4918162ac4a99e12efcd5674d692288a5484f08330c30fc5f"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vulcanus.md",
+      "before_sha256": "e967ff3999ddc5c4bcf4b033c9f6493ac70e461dca27128a8f3d3383f08f4914",
+      "after_sha256": "53fd6643d28d4944a46abc3c5cfbb2cb1cbdd7c121db88e7e01e0e1d0d4f97ba",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 35,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "0ae03c655411ef55207f606770309a29c50e9ee6f46bca7e68548d11709dd213"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [],
+      "full_before_current_and_owner_read": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-zeus.md",
+      "before_sha256": "8f0d2cb72015b14cae834628cfb68b06826b530cecbf7ac940533ba968c067c9",
+      "after_sha256": "5e848247494f3425772a61f693eae5e89ad3376e4ec68966aaabe82e03709cbe",
+      "owners": [
+        {
+          "ledger": "activations-019.jsonl",
+          "line": 36,
+          "reviewer": "activation_handoff_016_022",
+          "record_sha256": "7307157b2d992c28e4d93b3796178bfd051d65b856dfcfaf9c8a29d0def6f380"
+        }
+      ],
+      "decision": "accepted",
+      "source_change_class": "substantive",
+      "changed_source_blocks": [
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-witte-pdf207.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-remaining-abc-pdf161.png"
+      ],
+      "inherited_or_literal_limits": [
+        "ABC states financial payments for pain without identifying their mechanism or legal basis."
+      ],
+      "full_before_current_and_owner_read": true
+    }
+  ],
+  "limits": [
+    "Approval concerns only differences/new source-entry locators against protected before/wiki, bound to current hashes.",
+    "Unchanged later-source entries in Jupiter/Asc = Neptune, Uranus and Venus were fully read but not all independently rescanned in full here; inherited word-break and locator caveats are not erased.",
+    "Existing literal and unexplained source phrases listed in owner unresolved arrays remain limits, not missing repaired passages.",
+    "The raw proof set also confirms unchanged retained Node and Saturn Ebertin/Munkasey rows; no new wiki wording or PDF locator was added by this verifier.",
+    "No delegated Jupiter wiki page or owner ledger, global allowance, validator, generated index or Vault file was edited. Separate bounded corrections to two original assignment058 pages were made on independent-checker request and are excluded from this103-path bank."
+  ]
+}

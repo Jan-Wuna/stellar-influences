@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Hades`
 - Astronomicon formula: `U/W = ¢`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Hades row.
+
 Sickness through overexertion or privation. Death through severe sickness or privation. Unusual death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dangerous work problems, hard work service, lack of patience bci Tatigkcit, painful will absorption, hidden work problems, lossful secret activity, lossful criminal activity, and lossful impulses from the past
+- Source reference: printed p. 301; one-based PDF p. 149, Mars + Saturn, Hades row.
+
+Dangerous work problems, hard work in service, lack of patience during activity, painful renunciation of the will, hidden work problems, secret activity involving loss, criminal activity involving loss, and impulses from the past involving loss.
+
+## Comparative Schema
+
+- Core meaning: Dangerous or hidden work problems under hardship and deprivation.
+- Psychology: Impatience and painful relinquishment of will appear in ABC.
+- Body/health: Witte historically attributes sickness or death to overexertion or privation; this remains a source claim, not a diagnosis.
+- Social/relationship: ABC includes secret or criminal activity involving loss, without establishing a person's criminality.
+- Events/manifestations: Hard service, hidden difficulties, and losses tied to past actions.
+- Conflicts/notes: ABC gives painful renunciation of the will and lack of patience during activity; its criminal-activity example does not establish anyone's criminality.
+
+## Contradictions
+
+Witte's severe bodily examples and ABC's dangerous work situations overlap in hardship but do not establish a universal sequence ending in death.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Saturn = Hades` deepens blocked force into privation, severe sickness, and harsh death conditions.
-- Chart expression: sickness through overexertion or want, unusual death, and situations where deprivation and strain grind life down to a destructive degree.
+In `Mars/Saturn = Hades`, Hades specifies strained effort through deprivation, dangerous work, or hidden problems. The focus is the burden of difficult circumstances and loss, rather than a claim that every obstruction becomes fatal. Witte's severe medical and death examples remain attributed historical claims. See the [Witte entry](#witte-entry) (PDF p. 193) and the complete [ABC entry](#abc-entry) (printed p. 301).
 
 ## Links
 

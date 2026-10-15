@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Uranus Asc](../triads/moon-uranus-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Spontaneous relationship. Accidents of female persons, aggravations through them. Rich in eventful hours with others.
 
@@ -44,11 +48,15 @@ Spontaneous relationship. Accidents of female persons, aggravations through them
 
 #### ABC Entry
 
-Other peoples are restless, women in the environment, women as partners, women's mother on the spot, women's excitement, and women's change
+- Source passage: `Aszendent + Mond`; printed p. `103`; PDF page `50` (complete oriented row checked against actual scan).
+
+Other peoples are restless, emotional impulses in the surroundings, excited woman as partner, excited mother at the place, excitement of other women, new feelingful partner, reforms of other peoples, surprise with other women, environmental reform through women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Uranus entry at one-based PDF page `39` (checked in actual raw PDF text).
 
 An uninhibited, sudden, and/or surprising sharing of feelings with others. A ge nius for tracking with the emotional flow between oneself and others. To have strange, unusual or inexplicable feelings about oneself.
 
@@ -63,22 +71,21 @@ Abrupt reception of emotional reactions from others; staying aloof from the unce
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or unusual emotional exchanges specify contact with others.
+- psychology: Spontaneous sharing, unusual self-feelings, abrupt reactions or aloofness.
+- body/health: Witte includes accidents involving women; this is a historical scenario, not an individual risk estimate.
+- social/relationship: Uninhibited emotional sharing and keeping aloof are alternative relational responses.
+- events/manifestations: Spontaneous relationships, eventful hours, surprises and changes in surroundings are listed.
+- conflicts/notes: The scan restores all nine ABC clauses, including emotional impulses, a new partner, reforms and surprise; accidents remain a separate Witte example.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. The local, public and relational examples retain their distinct source settings and do not imply universal outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Uranus`: intuitive awakenings, quick adaptation, and the ability to register change in the environment immediately. Main caution: instability: moods and closeness can shift too abruptly for steady emotional exchange.
+In `Moon/Asc = Uranus`, emotional contact is sudden, surprising or unusual: uninhibited sharing and a quick response to emotional flow coexist with abrupt reactions or aloofness. Excitement in a partner or mother, a new feelingful partner, surprises and reforms in the environment give these shifts concrete interpersonal and collective forms. Spontaneous relationships and eventful hours fit that range; Witte's accident example remains a separate attributed scenario. ([Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry); [ABC](#abc-entry); [Witte](#witte-entry).)
 
 ## Links
 

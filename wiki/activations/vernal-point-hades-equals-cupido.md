@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Cupido Hades](../triads/vernal-point-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Miserable marriage conditions. Historical art in the general public. General lowbrow art.
 
@@ -42,13 +46,27 @@ Miserable marriage conditions. Historical art in the general public. General low
 
 #### ABC Entry
 
-Danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere
+- Source page: 47; PDF page: 22 (one-based spread).
+
+Danger to the whole in public, criminal community in public, art of the past in public, traditional community in public, and art hidden from the public
+
+## Comparative Schema
+
+- core meaning: Public association connected with hardship, tradition, or concealed art.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Miserable marriage conditions or a traditional community.
+- events/manifestations: Historical art, art hidden from the public, and a criminal community as another example.
+- conflicts/notes: Lowbrow is Witte's evaluative term; historical or hidden art does not imply criminality.
+
+## Contradictions
+
+Traditional community, historical art, and criminal community are separate source possibilities. One does not establish the moral character of another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Cupido`: miserable marriage conditions, historical art in the general public, and general lowbrow art.
-- Practical expression: danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere.
+In `Vernal Point/Hades = Cupido`, Cupido specifies the pair through an association's difficult conditions or connection with the past. The [Witte entry](#witte-entry) names miserable marriage conditions and historical art. The [ABC entry](#abc-entry) adds traditional communities, hidden art, and danger to the whole, alongside a criminal-community example. The synthesis keeps cultural inheritance and concealment distinct from wrongdoing rather than treating all historical or private art as deficient.
 
 ## Links
 

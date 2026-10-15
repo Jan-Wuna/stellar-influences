@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Pluto MC Vulcanus](../triads/pluto-mc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The development of one’s might and power. The moment of a mighty change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-The development of my power, the development of my influence, the evolution of my power, the development of my growing energies, the development of psychic energies, the development of soul force, the change of soul force, and the growth of psychic influence
+Editorial translation (checked against the scan): Unfolding of my strength, development of my influence, my evolutionary strength, unfolding of my power, my growing energies, developing inner energies, unfolding strength of the soul, change through inner force or violence, growing inner influence.
+
+## Comparative Schema
+
+- core meaning: Development of personal power, strength, energy, or influence.
+- psychology: Growing inner energy and influence; the source also includes inner force or violence.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Personal influence is explicit without a particular relationship setting.
+- events/manifestations: A mighty change and transformations through inner force.
+- conflicts/notes: Soul-energy language has no specified physical mechanism, and power need not imply external coercion.
+
+## Contradictions
+
+Witte's might and ABC's inner force overlap in magnitude; the entries do not settle whether the force is constructive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/MC = Vulcanus`: powerful inner change; The native comes under the force of major transformation.
-- Practical expression: the development of my power, the development of my influence, the evolution of my power, the development of my growing energies, and the development of psychic energies.
+Vulcanus specifies Pluto/MC through the development of one's own strength and influence. The [Witte entry](#witte-entry) names might, power, and a mighty change; the [ABC entry](#abc-entry) adds growing energies, inner force, and expanding influence. Its change through inner force or violence preserves a more forceful possibility, without supplying a physical energy mechanism or determining how the power will be used.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Moon Node Poseidon](../triads/moon-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To be connected with average people of the same mental attitude.
 
 #### ABC Entry
 
-Insightful connection with women, clear relationship with women, connection with people's culture, clear feelings in a connection, clarity in the connection with the people, communication with a woman, and truth of the meldon contacts
+Insightful connection with a woman, clear relationship with a woman, connection with the culture of the people, clear feelings in a connection, clarity in the connection with the people, a reasonable relationship with a woman, truthfulness of emotional contacts.
+
+## Comparative Schema
+
+The categories below summarize the [Witte Entry](#witte-entry) (PDF p. 156) and [ABC Entry](#abc-entry) (printed p. 238; PDF p. 118).
+
+- Core meaning: Shared outlook and clarity in emotional or collective connections.
+- Psychology: Clear feelings and understanding within a relationship.
+- Body/health: No bodily or medical claim appears in these entries.
+- Social/relationship: People with similar attitudes; ABC also gives woman-specific examples.
+- Events/manifestations: Connections with the culture of the people and with the wider people.
+- Conflicts/notes: The source's gendered examples are attributed and do not define universal female traits.
+
+## Contradictions
+
+Witte stresses a shared mentality, while ABC adds emotional and gendered examples. These are different emphases, and the repaired ABC ending concerns emotional contacts rather than an unidentified 'meldon'.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Moon`: To be connected with average people of the same mental attitude.
-- Practical focus: to be connected with average people of the same mental attitude.
+Moon specifies `Node/Poseidon` through shared outlook among people and clarity in emotional connections. The [Witte Entry](#witte-entry) places the association among ordinary people with a similar mental attitude; the [ABC Entry](#abc-entry) includes the culture of the people and clear feelings, alongside its historical examples involving a woman. These are examples of how understanding is shared, not grounds for assigning an outlook or emotional capacity by gender.
 
 ## Links
 

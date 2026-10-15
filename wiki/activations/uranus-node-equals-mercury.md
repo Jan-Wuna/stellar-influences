@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Mercury`
 - Astronomicon formula: `X/g = T`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Mercury entry.
+
 #### Witte Entry
 
 Sudden information and participation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Mercury entry.
+
 #### ABC Entry
 
-Exciting language contacts, sudden announcement of languages, excited encounter with youth, media relations with technology, new traffic connections, tensions through communication, and connection of youth to technology
+Exciting conversational contacts, sudden initiation of conversations, an excited encounter with young people, media relationships with technology, new transport connections, tensions through transmission of news, and connection of young people to technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0965`.
 
 #### Ebertin Entry
 
 Quick grasp and comprehension of things, speedy assessment of every situation, being united in thought with others, sudden understanding between people. Tendency to criticize others, fast-traveling news.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 106–107, `Planets activating the Uranus/Node midpoint`, Mercury entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Helps you concentrate on education and study before effecting change; grasping n
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Rapid communication and original connections between ideas. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Quick comprehension, speedy assessment, and a critical tendency. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Shared thought, open discussion, and explanation of concepts. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Fast-traveling news, sudden understanding, and new transport or media links. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Understanding and criticism can coexist; the entries do not make every rapid exchange argumentative. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Rapid comprehension and open explanation coexist with criticism or tension through transmission of news. These are different possibilities; a quick exchange is not necessarily an argument.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Mercury`: inventive collaboration, technical or reformist dialogue, and the ability to connect people through stimulating concepts. Main caution: argumentative volatility: abrupt speech or contrarian messaging can destabilize rapport faster than it clarifies it.
+Mercury specifies Uranus/Node through rapid information, unusual mental connections, and shared understanding. Original insights can be discussed openly or made accessible through study and clear explanation of complex concepts. Criticism and tension in communication remain possible, but the entries do not make every quick exchange argumentative. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

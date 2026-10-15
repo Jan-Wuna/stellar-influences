@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Venus Mars](../triads/vernal-point-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ Close acquaintances. Relatives on the father's side. Deeds born out of love.
 
 #### ABC Entry
 
-Work joy in public, peace activity in public, peace will in public, artistic activity for the public, reduction work in public, and preference for public activity
+- Source reference: printed p. `32`, one-based PDF p. `15`, complete Venus row.
+
+German passage transcribed from the scan:
+
+> Arbeits-Freude in der Öffentlichkeit, Friedens-Tätigkeit in der Öffentlichkeit, Friedens-Wille in der Öffentlichkeit, künstlerische Tätigkeit für die Öffentlichkeit, Verschönerungs-Arbeiten in der Öffentlichkeit, Vorliebe für öffentliche Tätigkeit
+
+Editorial translation: Joy in public work; peace activity in public; public will for peace; artistic activity for the public; beautification work in public; preference for public activity.
+
+## Comparative Schema
+
+- Core meaning: Public action motivated by affection, enjoyment, peace, or art.
+- Psychology: Pleasure in public work and a preference for it.
+- Body/health: No bodily claim is given.
+- Social/relationship: Loving deeds, close acquaintances, and Witte's paternal relatives.
+- Events/manifestations: Artistic public activity, beautification work and efforts for peace.
+- Conflicts/notes: ABC names beautification work, not reduction work; neither entry explains the paternal-relative example through that activity.
+
+## Contradictions
+
+Witte emphasizes personal ties, ABC public enjoyment and peaceful work. These emphases can coexist; neither entry explains how the paternal-relative example relates to the other meanings. ABC adds beautification work to its peaceful and artistic public activities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Venus`: close acquaintances, relatives on the father's side, and deeds born out of love.
-- Practical expression: work joy in public, peace activity in public, peace will in public, artistic activity for the public, and reduction work in public.
+In `Vernal Point/Mars = Venus`, Venus gives public activity an affectionate, enjoyable, peaceful, or artistic purpose. Deeds arising from love connect the personal ties in the [Witte Entry](#witte-entry) (PDF p. 42) with the peace and art activities of the [ABC Entry](#abc-entry) (printed p. 32; PDF p. 15). Witte's additional reference to paternal relatives remains a specific source example rather than a rule for all such work.
 
 ## Links
 

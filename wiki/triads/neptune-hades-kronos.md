@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Hades Kronos`
 - Astronomicon triad-set: `Y ¢ ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md)
-- [Neptune/Hades = Kronos](../activations/neptune-hades-equals-kronos.md)
-- [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md)
+- [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md): base axis [Hades/Kronos](../axes/hades-kronos.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Hades = Kronos](../activations/neptune-hades-equals-kronos.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Kronos](../factors/kronos.md).
+- [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Hades/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `441`
-- `Neptune/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `395`
-- `Neptune/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 279); [Neptune/Hades = Kronos](../activations/neptune-hades-equals-kronos.md#witte-entry) (PDF entry-start p. 248); [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md#witte-entry) (PDF entry-start p. 250).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Kronos = Neptune](../activations/hades-kronos-equals-neptune.md#abc-entry) (printed p. 441); [Neptune/Hades = Kronos](../activations/neptune-hades-equals-kronos.md#abc-entry) (printed p. 395); [Neptune/Kronos = Hades](../activations/neptune-kronos-equals-hades.md#abc-entry) (printed p. 399).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Neptune`: corruption producing deceit, and criminal or investigative authority itself becoming wrong, false, or compromised.
-- `Neptune/Hades = Kronos`: This activation elevates decay into the sphere of authority and state power, showing obsolete rule, corruption in governing circles, and ruin or death working through those at the top.
-- `Neptune/Kronos = Hades`: This activation darkens authority into open ruin, bringing misfortune and catastrophe to firms, leaders, or governments already weakened by deception or failed control.
+Neptune, Hades and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Kronos](../axes/hades-kronos.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
+- [Neptune/Kronos](../axes/neptune-kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)

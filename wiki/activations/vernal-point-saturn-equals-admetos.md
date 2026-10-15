@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Admetos](../triads/vernal-point-saturn-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 To be urged into a corner. General restriction and curbing. Obstruction and standstill.
 
@@ -42,13 +46,27 @@ To be urged into a corner. General restriction and curbing. Obstruction and stan
 
 #### ABC Entry
 
-Incrimination in the public, depression problems in the public life, restriction of the public stress, engpaB problems in the public, grim losses in the public, and circulatory disruptions in the public sphere
+- Source page: 37; PDF page: 17 (one-based spread).
+
+Burdensome public suppression, depression problems in public life, restriction of public burdens, public bottleneck problems, thoroughgoing public losses, and disturbances of public circulation
+
+## Comparative Schema
+
+- core meaning: Public burdens intensified through restriction, bottlenecks, or standstill.
+- psychology: Being cornered and depression problems are source descriptions.
+- body/health: Circulation disturbance is named without a specific bodily diagnosis.
+- social/relationship: Public suppression and restricted collective activity.
+- events/manifestations: Obstruction, bottlenecks, and thoroughgoing losses.
+- conflicts/notes: Restriction of burdens can differ from burdensome restriction; both clauses remain explicit.
+
+## Contradictions
+
+The scan includes restriction of public burdens alongside burdensome suppression and obstruction. These should not be flattened into only increasing pressure.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Admetos`: to be urged into a corner, general restriction and curbing, and obstruction and standstill.
-- Practical expression: incrimination in the public, depression problems in the public life, restriction of the public stress, engpaB problems in the public, and grim losses in the public.
+In `Vernal Point/Saturn = Admetos`, public difficulty becomes concentrated in restriction or blockage. The [Witte entry](#witte-entry) names being cornered, curbing, obstruction, and standstill. The restored [ABC entry](#abc-entry) adds suppression, bottlenecks, losses, and circulation disturbances, while also naming restriction of public burdens. The synthesis preserves severe constraint without erasing the distinct possibility of limiting a burden.
 
 ## Links
 

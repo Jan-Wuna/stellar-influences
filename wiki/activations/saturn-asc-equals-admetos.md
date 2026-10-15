@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Admetos`
 - Astronomicon formula: `W/Asc = ¦`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be cornered by other people. To be crowded by local conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Perseverance and patience of the partner, depressions of the serious partner, limitations and inhibitions in the place, grilnlich georten environment, problematic barriers in the environment, problems of an underlying partner, and disturbances of a place by congestion
+- Source page: 115 (printed); PDF page: 56.
+
+Endurance and patience of the partner, depression of the serious partner, restrictions and inhibitions at the place, a thoroughly disturbed environment, problematic restrictions in the environment, problems of an oppressed partner, disturbances of a place through congestion.
+
+Translation and full row boundaries checked against the German activator glyph.
+
+## Comparative Schema
+
+- Core meaning: Contact and surroundings feel constricting, alongside endurance within a partnership.
+- Psychology: Patience and depression of a serious partner are source associations.
+- Body/health: ABC's depression language is historical doctrine, not a clinical finding.
+- Social/relationship: Being cornered by people or constrained by local conditions.
+- Events/manifestations: Restrictions, barriers, congestion, and problems of an oppressed partner.
+- Conflicts/notes: Partner patience and environmental restriction are separate possibilities, not a promised remedy.
+
+## Contradictions
+
+Partner patience and environmental restriction are separate possibilities, not a promised remedy.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Admetos`: to be cornered by other people, to be crowded by local conditions.
-- Practical expression: perseverance, patience of the partner, depressions of the serious partner, limitations, and inhibitions in the place.
+In `Saturn/Asc = Admetos`, Admetos specifies the pair through being cornered by people or crowded by local conditions in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds restrictions, congestion, and an oppressed partner, while also retaining endurance and patience. Its depression language is historical attribution; constriction does not establish a diagnosis or guarantee that patience removes the problem.
 
 ## Links
 

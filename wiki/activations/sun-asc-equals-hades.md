@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Hades](../triads/sun-asc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Acquaintance who have a weak body. Dealing with sick people. To be disgusted wit
 
 #### ABC Entry
 
-Old town centre, dangerous people in the environment, criminal people in the environment, grief of the people in the vicinity, lack of other people, people from the Y in the vicinity, human need in the environment, and disadvantages by man's partners
+Source locator: printed page 101 / PDF page 49, Hades glyph under Aszendent + Sonne. English translation checked against the complete row. Mangel anderer Personen is retained literally; the kind of lack is not specified.
+
+Old local center, endangered persons in the surroundings, criminal people in the surroundings, grief of people nearby, lack/deficiency of other persons, people from the past nearby, human need in the surroundings, and disadvantages through male partners.
+
+## Comparative Schema
+
+- core meaning: Contact with hardship in the personal environment.
+- psychology: Disgust at unpleasant conditions while remaining involved with them.
+- body/health: Witte refers to sick or physically weak acquaintances, not a diagnosis of the reader.
+- social/relationship: Relationships can involve need, grief, or disadvantage.
+- events/manifestations: Dealing with sick people and distressing surroundings; ABC also names an old local center.
+- conflicts/notes: ABC's criminal and need examples and Witte's illness language describe attributed encounters, without establishing the reader's character or health.
+
+## Contradictions
+
+Illness in acquaintances and need in the surroundings are compatible settings, not evidence that every manifestation must occur.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Hades`: weak or feeble at the time and a sufferer.
-- Practical expression: old town centre, dangerous people in the environment, criminal people in the environment, grief of the people in the vicinity, and lack of other people.
+Hades specifies the Sun/Asc axis as contact with distress in one's immediate human surroundings. The [Witte entry](#witte-entry) describes sick acquaintances and being tied to unpleasant circumstances, while the [ABC entry](#abc-entry) names grief, lack, endangered people and need nearby. This describes the people and conditions encountered; it does not establish that the person must themselves be ill.
 
 ## Links
 

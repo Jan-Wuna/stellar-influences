@@ -64,11 +64,16 @@ updated_at: 2026-05-04
 
 - Axis: `Mercury/Vulcanus`
 - Astronomicon axis: `T/§`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY + VULCANUS`
+- PDF page (one-based): `172` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Mighty exerted thinking. The force of thought. The power of thoughts. Great spee
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `266–267`; PDF page (one-based): `132` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Influence of the Word, Energy Report, Thought Power, Youth Violence, Force of Youth, Powerful Movement, media Power, Opinion InfluenceJ, News about Violence, Voice Violence, Strong Traffic, and Language of Power
+Influence of the word, report on energy, power of thought, violence among the young, strength of youth, powerful movement, media power, influence of opinion, news about violence, force of language, heavy traffic, language of power.
+
+## Comparative Schema
+
+- core meaning: Force and speed in thought, words, news and movement.
+- psychology: Strong opinions, concentrated mental exertion and a dominant mind; no separate personality doctrine is developed in these summaries.
+- body/health: Speed and vigorous movement, including speed sports, are explicit; no illness or anatomical correspondence is given.
+- social/relationship: Influence through words, opinion and media can shape others; forceful expression need not mean physical violence.
+- events/manifestations: Important messages, rapid motion, energy reporting, heavy traffic and news of violence occur among the source examples.
+- conflicts/notes: ABC adds youth and media emphases. Violence is one named expression, not the definition of every powerful thought; closing-factor outcomes remain separate.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Influence of the Word, Energy Report, Thought Power, Youth Violence, Force of Yo
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Vulcanus` is the axis of forceful thought, powerful words, fast motion, dominant opinion, and important news, plans, messages, or media influence.
-- Constructively it gives mental power, decisive speech, persuasive reporting, and the capacity to move information quickly and with impact.
-- The liability is verbal force becoming coercive: violent speech, news of violence or power abuse, overpowering opinion, or media pressure that overwhelms judgment.
-- Activations describe the outlet of that force, from Saturn's restraint and Hades' misuse or danger to Kronos' command, Zeus' directed planning, and Poseidon's forceful ideas.
+`Mercury/Vulcanus` concentrates force in thinking, speaking and movement. A strong opinion, an important message or a rapidly moving body carries the same broad theme of mental or physical intensity. The [Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) explicitly joins exerted thought and forceful words with great speed and speed sports. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) extends that range into the influence of opinion, media power, heavy traffic and reports about energy or violence.
+
+The pair therefore concerns both the strength of an idea and the impact of its delivery: words can be important and influential, or become overpowering. ABC's references to violence and youth are particular expressions within this range; they do not make forceful thinking inherently violent. Neither summary supplies a medical diagnosis or a detailed relationship doctrine. The outlet and circumstances of the force belong to the separate [activation pages](#related-activations), rather than being inferred from the unordered pair alone.
 
 ## Links
 

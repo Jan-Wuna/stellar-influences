@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Asc Poseidon`
 - Astronomicon triad-set: `T Asc ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Poseidon = Mercury](../activations/asc-poseidon-equals-mercury.md)
-- [Mercury/Asc = Poseidon](../activations/mercury-asc-equals-poseidon.md)
-- [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md)
+- [Asc/Poseidon = Mercury](../activations/asc-poseidon-equals-mercury.md): base axis [Asc/Poseidon](../axes/asc-poseidon.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Asc = Poseidon](../activations/mercury-asc-equals-poseidon.md): base axis [Mercury/Asc](../axes/mercury-asc.md); activator [Poseidon](../factors/poseidon.md).
+- [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md): base axis [Mercury/Poseidon](../axes/mercury-poseidon.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `136`
-- `Mercury/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
-- `Mercury/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `107`
-- `Mercury/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
-- `Mercury/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `268`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Poseidon = Mercury](../activations/asc-poseidon-equals-mercury.md#witte-entry) (PDF entry-start p. 98); [Mercury/Asc = Poseidon](../activations/mercury-asc-equals-poseidon.md#witte-entry) (PDF entry-start p. 83); [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md#witte-entry) (PDF entry-start p. 173).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Poseidon = Mercury](../activations/asc-poseidon-equals-mercury.md#abc-entry) (printed p. 136); [Mercury/Asc = Poseidon](../activations/mercury-asc-equals-poseidon.md#abc-entry) (printed p. 107); [Mercury/Poseidon = Asc](../activations/mercury-poseidon-equals-asc.md#abc-entry) (printed p. 268).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Mercury`: union of thought with others and coming together around the same concept, message, or intellectual purpose.
-- `Mercury/Asc = Poseidon`: refines the Mercury/Asc axis into connection through thought and ideas.
-- `Mercury/Poseidon = Asc`: To meet or to have dealings with people who represent an idea.
+Mercury, Asc and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Mercury/Asc](../axes/mercury-asc.md)
+- [Mercury/Poseidon](../axes/mercury-poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)

@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `U/V = Y`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Neptune](../triads/mars-jupiter-neptune.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -45,7 +46,9 @@ Denials of betrothals. Dissolution of promises or agreements. Hopeless relations
 
 #### ABC Entry
 
-Work success with water, work joy in the air, exchangeable financial activity, successful work for the future, fine tuning legal actions, subtle happiness's impulses, weak action success, weak will success developing work joy, developing a legal activity, and successful development-
+Work successes with water, joy in work in the air, disappointing financial activity, successful work for the future, sensitive legal actions, subtle impulses of happiness, weak success in action, and weak success of will.
+
+- Source reference: printed p. 299, PDF p. 148, Neptune row. `enttäuschende Finanz-Tätigkeit` means disappointing financial activity. The row ends with `schwacher Willens-Erfolg`; the following development phrases belong to Pluto.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,25 @@ Confusion over how to use the powers or forces available to you; your use of for
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Ideal-driven effort whose practical results can dissolve into confusion or failure.
+- psychology: Sandbach describes enthusiastic idealism and spiritual obligation; Ebertin adds inferiority and falsehood, while Munkasey describes uncertainty about using available force.
+- body/health: Witte and Ebertin retain historical reproductive and sexual claims. These are attributed source associations, not diagnoses or expected outcomes.
+- social/relationship: Broken promises and unsuccessful relationships in Witte and Ebertin coexist with Sandbach's willingness to meet obligations to others.
+- events/manifestations: Unexecuted projects and drained resources coexist with ABC's water, air and future work and Ebertin's nonnegative chemist example.
+- conflicts/notes: The scan restores disappointing finance and removes Pluto's development opening from ABC Neptune; constructive idealism and weak results remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Constructive idealism and disappointed execution are distinct emphases, not proof that every expression ends badly. Ebertin explicitly supplies a nonnegative qualification.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Neptune`: sacrificial effort, inspired obligation, and action driven by faith, imagination, or vision more than by concrete limits. Main caution: unreality: hopeful striving can lead to false promises, hopeless ties, failures of execution, or energy scattered into confusion.
+Neptune specifies the Mars/Jupiter axis through ideals and obligations that can inspire sustained effort while leaving results uncertain. Enthusiastic commitment in [Sandbach](#sandbach-entry) sits beside dissolved promises in [Witte](#witte-entry) and confusion about available force in [Munkasey](#munkasey-entry). The scan-checked [ABC entry](#abc-entry) also retains successful work with water or for the future alongside disappointing finance and weak results.
+
+[Ebertin](#ebertin-entry) explicitly qualifies his unfavorable account with an example of chemists. That exception keeps the formula from becoming a universal failure judgment; the historical sexual and birth-related claims remain attributed source statements.
+
+Evidence: [ABC](#abc-entry), printed p. 299, PDF p. 148; [Witte](#witte-entry), PDF p. 192; [Ebertin](#ebertin-entry), printed p. 202, entry 0693; [Sandbach](#sandbach-entry), PDF p. 68, Neptune paragraph checked directly; [Munkasey](#munkasey-entry), printed p. 224.
 
 ## Links
 

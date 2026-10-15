@@ -1,0 +1,186 @@
+{
+  "verifier": "/root/activation_review_084_088",
+  "scope": "Exact independently read factor closure bindings; new flagged raw checks plus explicitly reused prior completed gate scopes. No new reviews.",
+  "targets": [
+    {
+      "path": "wiki/factors/sun.md",
+      "after_source_sha256": "f551ad22a75e5698dd899d0ce79a27c6c80795928e69b851a4f89dc31a9c6e28",
+      "after_file_sha256": "c0efc42e7f6a5e6daec78742d3156de8e3b5d2ac1a24f7d944fab50312cf15b4",
+      "owner_record_sha256": "c73ce967e2bfcbbcde3a10e753a102341ac086021be08f91167437e06e6acb37",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-006.jsonl",
+      "owner_record_line": 1,
+      "source_editor_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "editor_receipt": {
+        "path": "wiki/factors/sun.md",
+        "editor": "/root/activation_review_045_066",
+        "closure": "E-factors",
+        "status": "specific_flag_resolved",
+        "new_review_count": 0,
+        "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-006.jsonl",
+        "owner_record_line": 1,
+        "original_flag": [
+          {
+            "holder": "wiki/factors/sun.md",
+            "text": "Other inherited Hand OCR forms on PDF52–55 remain uncorrected pending exact passage inspection; the substantive father-role gap on PDF56 is resolved.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "raw_confirmation": "Personally viewed actual Hand PDF52–55. Printed words are which; planetary; will; following dawn; with; Chapter12.) punctuation; they; integrity; very. In particular PDF53 says following dawn. Existing accepted PDF56 father-role passage remains unchanged.",
+        "proofs": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p052.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p053.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p054.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p055.png"
+        ],
+        "preserved_limits": [
+          "Printed bibliographic page numbers remain unrecorded for Witte, Hand, Banzhaf/Haebler, Johndro, and Hall. Available PDF locators are Witte 27, Hand 52-56, Banzhaf/Haebler 28, Johndro 4, and Hall 104-121; no printed numbers were inferred."
+        ],
+        "canonical_before_sha256": "1da2cae8c32ffbc9d9ddacc7093c9a75ec3f03f3d58cd716808eb1d94fd90554",
+        "canonical_sha256": "c0efc42e7f6a5e6daec78742d3156de8e3b5d2ac1a24f7d944fab50312cf15b4",
+        "source_body_sha256": "f551ad22a75e5698dd899d0ce79a27c6c80795928e69b851a4f89dc31a9c6e28",
+        "source_hash_basis": "UTF8 Source Entries section stripped, LF normalized",
+        "owner_record_sha256": "c73ce967e2bfcbbcde3a10e753a102341ac086021be08f91167437e06e6acb37",
+        "record_hash_basis": "complete original owner JSONL line UTF8 excluding newline"
+      },
+      "prior_acceptance": {
+        "artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+        "verified_by": "/root/source_integrity_gate",
+        "before_sha256": "2000b4a938851c758d22f933bc09b77dbb1395481421b42e442bc3c2115e396c",
+        "after_sha256": "ca745187fc3bdc814602782f0078b0d39b07c8ef2311ed6e24d1d00bd087906e",
+        "reason": "Actual Ebertin PDF47/printed45 has Aries0014/I, Taurus0015/II, Gemini0016/III and Cancer0017/IV as distinct glyph rows. PDF48/printed46 then has Leo0018/V through Aquarius0024/XI; PDF49/printed47 has Pisces0025/XII. All twelve existing text paragraphs now belong to their actual rows, correcting the swallowed Gemini and subsequent one-label shift. The conditional sign/house scope note follows the source heading and roman markers. Actual Hand56 prints shaper of the will, particularly the will, ends that paragraph at right., and begins From what has been said as a new paragraph; the same scan prints another's will, not ^vill. These exact repairs and new locators match their raw passages.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf47.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf48.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf49.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-robert-hand-pdf56.png"
+        ]
+      }
+    },
+    {
+      "path": "wiki/factors/jupiter.md",
+      "after_source_sha256": "c0e5498ccac292898f49facabc10e84ee59bda43b14a4751a55d2e88d35a648f",
+      "after_file_sha256": "08e89dc02468995928dcd31a3be2655c2d1904e6d756f1ce2e44af71d29dff0c",
+      "owner_record_sha256": "d9c8c1c81191d75a81d737975a15db630966a806ad3e45bdf6c0912e4669d9c3",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-002.jsonl",
+      "owner_record_line": 3,
+      "source_editor_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "editor_receipt": {
+        "path": "wiki/factors/jupiter.md",
+        "editor": "/root/activation_review_045_066",
+        "closure": "E-factors",
+        "status": "specific_OCR_flag_resolved_excerpt_scope_preserved",
+        "new_review_count": 0,
+        "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-002.jsonl",
+        "owner_record_line": 3,
+        "original_flags": [
+          {
+            "holder": "wiki/factors/jupiter.md",
+            "text": "The Hand source-evidence record describes a PDF74-79 factor-section range, while the preserved local excerpt stops after the repaired sentence on PDF77. The subsequent integration discussion is not ingested; local coverage is explicitly an excerpt.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          },
+          {
+            "holder": "wiki/factors/jupiter.md",
+            "text": "The unchanged Hand excerpt retains OCR tokens including eveiy, famity, physical!} 7, \\vith, grow 7, w 7orld, allow 7s, dow 7n, selfs, farthering, and alwaj^s. They are not used as specialist meanings; the unviewed PDF75-76 wording has not been silently repaired.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "raw_confirmation": "PDF75–77 prints every, family, physically, with, grow, world, allows, down, self's, furthering, always. The excerpt still ends at the accepted Saturn-limit sentence; subsequent integration discussion remains outside its scope.",
+        "proofs": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p075.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p076.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p077.png"
+        ],
+        "preserved_limits": [
+          "Witte PDF28 has no visible printed folio; its printed bibliographic page number remains unavailable despite a verified PDF locator.",
+          "No printed folio is visible on the viewed Hand PDF74 or PDF77 images; the preserved excerpt has verified PDF bounds but no verified printed bibliographic page number.",
+          "The Hand source-evidence record describes a PDF74-79 factor-section range, while the preserved local excerpt stops after the repaired sentence on PDF77. The subsequent integration discussion is not ingested; local coverage is explicitly an excerpt."
+        ],
+        "canonical_before_sha256": "e5a26a04d27666dfa4d7f4fbc10474a1de455fdb0e76d69ab20cfbc3341dee74",
+        "canonical_sha256": "08e89dc02468995928dcd31a3be2655c2d1904e6d756f1ce2e44af71d29dff0c",
+        "source_body_sha256": "c0e5498ccac292898f49facabc10e84ee59bda43b14a4751a55d2e88d35a648f",
+        "source_hash_basis": "UTF8 Source Entries section stripped, LF normalized",
+        "owner_record_sha256": "d9c8c1c81191d75a81d737975a15db630966a806ad3e45bdf6c0912e4669d9c3",
+        "record_hash_basis": "complete original owner JSONL line UTF8 excluding newline"
+      },
+      "prior_acceptance": {
+        "artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+        "verified_by": "/root/source_integrity_gate",
+        "before_sha256": "b2c0ec3b0e43909d6db5db785294569593d616715ccd4c4e9e256b86c17112a6",
+        "after_sha256": "6f4975f5fd997493334556d943a62b2e5f0301b05a3c6ef8f4e128d78b9e7dbe",
+        "reason": "ABC Glück/Güte support Good luck/Kindness; Ebertin printed57 supports the two Harmony repairs; Hand PDF77 supplies only the missing Saturn sentence ending. All four added locators match the inspected raw excerpt bounds. Additional current repair independently verified against actual Ebertin PDF59–60 scans: all twelve0079–0090 sign/house glyph rows are now separated from Sociological Correspondence with their own exact printed57–58 references. All existing row claims are retained. The original factors-002 ledger now records the split and removes its former unresolved run-on claim.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factors-original-abc-pdf7.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-rules-pdf28.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-ebertin-pdf59.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-hand-pdf74.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-hand-pdf75.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-hand-pdf76.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-factors-hand-pdf77.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf59.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf60.png"
+        ]
+      }
+    },
+    {
+      "path": "wiki/factors/moon.md",
+      "after_source_sha256": "a6505ff9f539f6aef73e1c1edd708b18bf9e866f93ee096fa0892e2d57fe7501",
+      "after_file_sha256": "46f768894f57c4d37a4cee970537ac0c056369b754240fb85a34f36873b01a60",
+      "owner_record_sha256": "77ac954749caa67960205c158210ab09a36a37faf32432919e2d0475878f630f",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl",
+      "owner_record_line": 1,
+      "source_editor_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+      "editor_receipt": {
+        "path": "wiki/factors/moon.md",
+        "editor": "/root/activation_review_045_066",
+        "closure": "E-factors",
+        "status": "available_OCR_repaired_genuine_facsimile_defect_bounded",
+        "new_review_count": 0,
+        "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl",
+        "owner_record_line": 1,
+        "original_flags": [
+          {
+            "holder": "wiki/factors/moon.md",
+            "text": "Hand Moon retains OCR damage including Along ^vith, w 7omb and ref ex; these words were not repaired from background knowledge.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "raw_confirmation": "Admitted Moon PDF56–61 excerpt checked for flagged OCR. Ordinary words restored from clear print. PDF59 singular ref ex is visibly defective at high resolution, retained with a facsimile-quality note rather than guessed. Existing PDF56 proof reused for Moon opening Along with only; accepted Sun father-role content not re-reviewed.",
+        "proofs": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p057.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p058.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p059.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p060.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p061.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-robert-hand-pdf56.png: viewed for Moon opening Along with only.",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p059-reflex.png: high-resolution visibly defective singular glyph."
+        ],
+        "preserved_limits": [
+          "Witte Moon passage personally inspected on PDF27 during the targeted continuation; no printed folio is visible, so its printed bibliographic page remains unavailable.",
+          "Hand PDF59 visibly has a defective glyph in the singular word rendered ref ex; following emotional reflexes is legible. A clearer witness is needed for the missing glyph. Exact PDF locator, no printed folio visible."
+        ],
+        "canonical_before_sha256": "b353eebf41b508e9b09fd5cd3735143cdb6d4a3604c0103a063ea29d9c792ddc",
+        "canonical_sha256": "46f768894f57c4d37a4cee970537ac0c056369b754240fb85a34f36873b01a60",
+        "source_body_sha256": "a6505ff9f539f6aef73e1c1edd708b18bf9e866f93ee096fa0892e2d57fe7501",
+        "source_hash_basis": "UTF8 Source Entries section stripped, LF normalized",
+        "owner_record_sha256": "77ac954749caa67960205c158210ab09a36a37faf32432919e2d0475878f630f",
+        "record_hash_basis": "complete original owner JSONL line UTF8 excluding newline"
+      },
+      "prior_acceptance": {
+        "artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+        "verified_by": "/root/source_integrity_gate",
+        "before_sha256": "81af6e490c8f6d22a0a1a5862f5d80f40535a38b4fc048b48ef55669a40c1d3f",
+        "after_sha256": "af41996da7e7c6ad44946951124fab8486df8cf879817777324115ba4f062943",
+        "reason": "Actual Ebertin PDF50–51/printed48–49 confirms Leo0031 continues across the page break and ends before the Virgo0032 glyph. The removed trailing TIJ is the following sign glyph, not lost prose; exact Leo wording, new locator and note match the scans. Baseline/current delta and amended factors-004 owner record checked; inherited Hand OCR remains outside approval.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf50.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf51.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl"
+        ]
+      }
+    }
+  ]
+}

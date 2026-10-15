@@ -1,0 +1,1025 @@
+[
+  {
+    "path": "wiki/activations/admetos-vulcanus-equals-poseidon.md",
+    "before_sha256": "c1e1b074b8e0623951c926589c3f47a74b01ed579e21dd28bd60adba43862807",
+    "after_sha256": "7832e44a5b5ac35e7c889dba5a5d9e60d23ae9f65efdeb8181d5aa548c49296f",
+    "ledger": "activations-001.jsonl",
+    "reason": "ABC236/475 Poseidon complete8clauses and Witte311 checked: Idee is idea and vernünftige restriction is reasonable; !dee/vemitive damage is absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf236.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf311.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/apollon-admetos-equals-vulcanus.md",
+    "before_sha256": "d5be7c5d8b35d357205b21d1593f746c93c41b9a8d3adb44e433e5be38f653f6",
+    "after_sha256": "974fc3e0ea0c15c61c05b9b28d047cdafacbd34f8644c0d5b45ead6e01afaa4e",
+    "ledger": "activations-002.jsonl",
+    "reason": "ABC233/469 Vulcanus7clauses and Witte306 checked: wissenschaftliche Gründlichkeit is scientific thoroughness and eingeschränkte Macht-Fülle restricted fullness of power; the flagged garble is gone. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf233.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf306.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-admetos.md",
+    "before_sha256": "39c14143b54d5cec5deb10625e24c12849c2475c5c322fb6c8bd0ceb0261326c",
+    "after_sha256": "99e35036de4f5204593fa50976a242b7dc0b4a324a323758b0d77d0b835b71d9",
+    "ledger": "activations-003.jsonl",
+    "reason": "ABC234/471 Admetos8clauses and Witte307 checked: gründliches Wissen/Einfluß and Kraft-Vermehrung durch Ausdauer support thorough knowledge/influence and increased strength through endurance; grild is absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf307.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-admetos-equals-mc.md",
+    "before_sha256": "fff0d470810318629882b8d96847ef7bee9316ebd82ad8fd49d53e49bb22631d",
+    "after_sha256": "5316a8217f9e14762843f2849fb216cc1dfc2364efc93617e9d951d31b394da5",
+    "ledger": "activations-003.jsonl",
+    "reason": "ABC65/132 MC complete7clauses and Witte96 checked. The following Asc siehe oben is a separate cross-reference; it is no longer misread as seams on top or substituted for MC. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf96.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-admetos-equals-zeus.md",
+    "before_sha256": "bcff29ba47de3b8c4072f071dc7f89072dc96b859a546d41265e9e1e82155f8b",
+    "after_sha256": "99b9e746e47aa8742b7ea75c85a76c1326d7f9ca30d70a1f678cb4b5a6d3b2cf",
+    "ledger": "activations-003.jsonl",
+    "reason": "ABC65/133 Zeus complete8clauses and Witte96 checked. The preceding Hades tail is separate; the Zeus glyph begins blocked surroundings through fire and includes thorough achievements and leaders' surroundings, with no Greek-services claim. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf96.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-apollon-equals-pluto.md",
+    "before_sha256": "0e85d576b0b18bdd97d9f08126fd57e22b80038f84f46172ec45f4dcc642d7b3",
+    "after_sha256": "9017ae532e1b2be2e8dd648b0dba35f277a01d73c66840900efc648cece8e3ef",
+    "ledger": "activations-004.jsonl",
+    "reason": "ABC64/131 Pluto complete8clauses and Witte95 checked. The former leading B is an alternate Pluto glyph, and the place-change and relocation clauses remain distinct; both new locators match. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf64.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf95.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-apollon-equals-vernal-point.md",
+    "before_sha256": "4d118e3f2b142d82eca14bdf95dc9ea0650272980a2666780c2a275d13f74315",
+    "after_sha256": "e350e0b9f125e34c9c4eaddd1854e9f632c59072aee8451546a6b29007a7dbe7",
+    "ledger": "activations-004.jsonl",
+    "reason": "ABC64/130 Vernal Point7clauses and Witte95 checked; complete public expansion, experience, knowledge and successful public-contact meanings are intact. This clears only Asc/Apollon=Vernal Point; the holder's other orientation is outside this decision. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf64.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf95.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-cupido-equals-vernal-point.md",
+    "before_sha256": "c0a5ade743a6bb1c8ebfd7f5b4b85bbf0efddf2e8f00d1a000ce62b266f10041",
+    "after_sha256": "3423c73a1a6c3e48e6c129bf0a36a856847c18fec797e2829ac1ebf52f42168e",
+    "ledger": "activations-005.jsonl",
+    "reason": "ABC60 actual printed122 footer and Vernal Point6clauses personally inspected; Witte91 passage checked. Current printed122/PDF60 locator is correct, so the inherited121 and parser-only holder flags are obsolete without expanding source meaning. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf60.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf91.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-kronos-equals-admetos.md",
+    "before_sha256": "a235a511c5cb3e279595591f9016d3e152b10d762ab03cea50d3d6e45587668d",
+    "after_sha256": "fffe43b9d14c5c068e678b72fc9c4b97cd8ddd06c72d7fd27a07367b3076fa67",
+    "ledger": "activations-005.jsonl",
+    "reason": "ABC63/129 Admetos7clauses and Witte94 checked; current thoroughness, independent partner and authority-consolidation wording matches the row, so grtindliche damage is absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf63.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf94.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-kronos-equals-mc.md",
+    "before_sha256": "b4607af5591a04205c651f703093d76bfc26356df07afc089d72aebf6487be70",
+    "after_sha256": "948147a37729aa8501b8d0036f820ce2d62c76b93c66877c2b07092ca6dc3949",
+    "ledger": "activations-005.jsonl",
+    "reason": "ABC63/128 MC9clauses and Witte94 checked: my authority, self-confidence, local dominance and partner independence/inner greatness match; mcincs is absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf63.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf94.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-kronos-equals-poseidon.md",
+    "before_sha256": "0833dee339f5ea7422127814c85f4ea7e7ff9d4a9cffd6a840baad3ec6b0489d",
+    "after_sha256": "e735def2d9c3f6c2e3223e95cb65a8b65e7a98207dccc530325e9b8f3b2e10eb",
+    "ledger": "activations-005.jsonl",
+    "reason": "ABC63/129 Poseidon8clauses and Witte94 checked: Andere geistig lenken is active intellectual/spiritual direction of others, and vernünftige guidance is reasonable. The damaged ienkens and strong qualifier are repaired. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf63.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf94.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-mc-equals-kronos.md",
+    "before_sha256": "2c1a0fc6e69130e64e87c130f2f9a2dc621bba9191faa58b19085090b2c73e5c",
+    "after_sha256": "fb09aa8b00deb3d14931a6f64463debf57fa979e9d8964a54ecc411dc891f406",
+    "ledger": "activations-005.jsonl",
+    "reason": "ABC29/61 Kronos9clauses and Witte58 checked: Vorrang is precedence, independent partner/self-independence differ from self-confidence, and inner authority remains broad. Y orrang is absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf29.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf58.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-poseidon-equals-admetos.md",
+    "before_sha256": "72c5d6deb6e0b14bb175cfdeccdac292043db68fb595a837ca20ba241768dcaf",
+    "after_sha256": "9c1a705df59e161309e928427ff617b9f76e59adde716bb32df4d8c7a3353b07",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC67/137 Admetos7clauses and Witte98 checked: vernünftiger Umwelt-Kreislauf is a reasonable cycle of the surroundings and gründliche is thorough. The damaged Kirlauf wording is absent; no ecology or causal sequence is supplied. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf98.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-poseidon-equals-cupido.md",
+    "before_sha256": "fc66feebb3424fda5002fe5785549c41ff847f01de769b39cb912be65f34b2e9",
+    "after_sha256": "5b741f85e1e2df6d2e596dd824553d1c6107c4431487c5eaf35b20d150310488",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC67/137 Cupido8clauses and Witte98 checked: ideelle partner community, synthesis and final reasonable partner community all match; idccllc/Synthcsc damage and omitted final clause are repaired. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf98.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-poseidon-equals-mc.md",
+    "before_sha256": "ba1e31d0ec8c5b503743cc6b9f7e946bfd12fad08f54011f0078f4500bea0b77",
+    "after_sha256": "add41fad95567861f2f7654f54f00a69e182e1190219c4296d8c7a3e8fe5f9b5",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC67/136 MC9clauses and Witte98 checked: ensouled culture/place, spiritualized partner, my surroundings-ideas, partner insight and truth all match; the four flagged OCR fragments are absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf98.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-poseidon-equals-venus.md",
+    "before_sha256": "90c2857e38b54eb9b2243c12dbbcd95bf9a8704e3affb7a39200b602faef15cb",
+    "after_sha256": "598f45fdd0b116cc243d98a0ec5e71d979a8cd6e51d430e3349760cf8d5f4669",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC67/136 Venus7clauses and Witte98 personally checked: Liebes-Kultur is legible love culture, and vernünftige harmony is reasonable. The flagged absence of a practice or relationship form is a genuine source limit, not unresolved corruption. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf98.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-poseidon-equals-zeus.md",
+    "before_sha256": "efb8b29a70ea7d836a1ab593295c43dbda79cb7324fe78217c842a0c18a89ca2",
+    "after_sha256": "c78c2eadfbe614f0137ad2be886d8201abc0dc94c6d19fe8b760a86392f0db07",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC67/137 Zeus8clauses and Witte98 checked: Führende is leading, goal striving retains geistig range and both vergeistigte qualifiers are spiritualized; Fundende is absent and guidance by others is preserved. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf98.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-vulcanus-equals-kronos.md",
+    "before_sha256": "ab75f5fec222ee369169e4855f9b52fbec3ec7667ffb198266f47a552cc85333",
+    "after_sha256": "4c45654d4fc3fbf983fea5ceef155faefba211d37a6f9f614a75c7dc89b7fc0d",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC66/135 Kronos9clauses and Witte97 checked: selbständigen means independent, not self indigenous; explicit state/local hierarchy and force/violence range remain intact. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf66.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf97.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-vulcanus-equals-mc.md",
+    "before_sha256": "3e467ebec929866eed59457434825077372567b47c6a2acc1f866d617ef2baac",
+    "after_sha256": "b28fcfdccdec01c925753837655aabaded7aebe76b403c68964118e6581262bb",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC66/134 MC9clauses and Witte97 checked: Stärke beim Partner is strength with the partner; seelische inner/psychological violence, power and influence are complete, including two formerly omitted influence clauses. Both flagged fragments are absent. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf66.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf97.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/asc-zeus-equals-admetos.md",
+    "before_sha256": "59b76bbaacadc2c52a68e20042e2e2ba22d3c05ad5566f65bc935643afb3b7e4",
+    "after_sha256": "77789e30f79ca6722356d7c85628a635cf5e4f5859e86f55a5d81b197206468a",
+    "ledger": "activations-006.jsonl",
+    "reason": "ABC62/127 Admetos8clauses and Witte93 checked: gründliche means thorough and ausdauernde enduring, with beginning depressions retained separately. The garbled thoroughness flag is resolved; forced beginning remains in Witte. Complete baseline/current source and unique original record were already independently read; target-specific A060 disposition now read, exact unchanged owner/source/page hashes receipt-bound. No artificial owner amendment or new review count.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf62.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf93.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-admetos-equals-kronos.md",
+    "before_sha256": "2dc731bd09f434c12faa33a3fc8c52ecd64d21a1362d336414f8b4811fa97762",
+    "after_sha256": "96fca543b1ebb9731dd3937554507858f05cff8e7c52f3683e2c197dae57d740",
+    "ledger": "activations-008.jsonl",
+    "reason": "The old self-indigenous wording is absent. Completed actual ABC215/printed433 scan check confirms all six Kronos clauses, independent community and thorough superiority. Witte272/printed276 matches. Specific author disposition clears the obsolete flag; current source and unique original owner remain unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf215.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf272.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-admetos-equals-neptune.md",
+    "before_sha256": "bdfc6f12b0908159e2f90d50634761a8f34b8b1658d4d947d88b69df624eca12",
+    "after_sha256": "6c419b58a643b2a8319ced48ebc12925ba7b500b80dfec4184c53a145d28d9c0",
+    "ledger": "activations-008.jsonl",
+    "reason": "The former separator cache is replaced by the full seven-clause ABC215/printed433 Neptune row. Completed glyph/boundary inspection confirms blocked water circulation, shared future and water restrictions; Witte271 matches. No air/water mechanism is inferred. Specific disposition and exact unchanged source/owner bindings clear the flag.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf215.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf271.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-hades-equals-kronos.md",
+    "before_sha256": "0388daa3665eb71da771b619d082c6711670de49afa6cf8090af9caf6d61ef9d",
+    "after_sha256": "a29f245abbac45ef25391385114afa27e25eca53bd05c0eb7398fa939b76ac0a",
+    "ledger": "activations-009.jsonl",
+    "reason": "The policy/cohesion artifact is absent. Completed actual ABC211/printed425 scan check verifies the six-clause disadvantaged-independence row, endangered state community, past artistic authority, lack, dominance and criminal-community self-confidence. Witte267 matches; specific disposition binds unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf267.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-kronos-equals-admetos.md",
+    "before_sha256": "10fc5fc9f4c06f52e228b0aab69b8adcd8a60d2b9b8696d04df4f0d1eba678d3",
+    "after_sha256": "08be86f076efd98ff4cb83402f1c2910eab6e82b668eb8a90195e33e10b87613",
+    "ledger": "activations-010.jsonl",
+    "reason": "Actual ABC213/printed429 scan verified native gruendliche/thoroughgoing hierarchical community and all six clauses, including independent deepening in art. Current native spelling and translation remove grilndlich damage. Witte269/printed273 and specific disposition match the unchanged captured source and original owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf269.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-kronos-equals-apollon.md",
+    "before_sha256": "08311dcac2c551b90419fbded34e3437ce7819ecb256ec8682b5203325a4f140",
+    "after_sha256": "e20889e743aaae6aba530810b59c1ae6a9ce7790eea6503a30f5834c963598d5",
+    "ledger": "activations-010.jsonl",
+    "reason": "The monetary-union artifact is absent. Completed actual ABC213/printed429 inspection confirms all seven scientific-community standing, shared independence, art/state success, superiority and commercial-direction clauses. Witte269/printed273 matches; exact unchanged source/owner and specific disposition clear the flag.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf269.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-poseidon-equals-asc.md",
+    "before_sha256": "96fadb25b606fafa59994c6fd6d773257a10bb3e88afb17f562600d1f57e7a98",
+    "after_sha256": "cb81b4ae00c205fbaeef073920b05438be77b0c967e655d2fd61cf5a96b83f04",
+    "ledger": "activations-010.jsonl",
+    "reason": "Completed actual ABC217/printed436 glyph/boundary inspection verifies the eight-clause Asc row from other spiritual/intellectual communities to reasonable local community, including partners for art/culture. Illir damage and preceding MC tail are absent. Witte274/printed278 and specific disposition match unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf217.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf274.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-poseidon-equals-hades.md",
+    "before_sha256": "ebb08714062922b7a292487f8aa190740d6f1fd21ab5a90684bcb457dbeff2ee",
+    "after_sha256": "c0aff4165ce4180fefdd3442d95aadf693f0d500194181b604900c451179392d",
+    "ledger": "activations-010.jsonl",
+    "reason": "Actual Witte274/printed278 scan confirms the Hades ideology/ignorance connecting clause is grammatically incomplete in print. Current text retains and bounds it without supplying a verb. Completed ABC217/printed437 full-row check confirms seven clauses and art/geistig range. Exact unchanged source/owner bind a genuine source limit.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf217.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf274.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/cupido-zeus-equals-hades.md",
+    "before_sha256": "4ad6f5590654066953e5843e4da48f39ac8765dc440898ca994fae27de64cac6",
+    "after_sha256": "84795fc934e426bf1485540f87382c8b030da166d443d44ec1539f5ec94769a8",
+    "ledger": "activations-011.jsonl",
+    "reason": "The economic/monetary-union artifact is absent. Completed ABC212/printed427 scan check confirms all six Hades clauses: dangerous communal goals, secret efforts, criminal leadership, past art, deficient achievement and fire disadvantage. Witte268/printed272 and specific disposition bind unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf268.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-admetos-equals-mc.md",
+    "before_sha256": "194b68fefcedcca7fcbc424f141181be28fa1d99750658c7c048c064d11def61",
+    "after_sha256": "4fc41a56c4835aefeeda456cbe65348be38a228649a87caa0de5298043395bbd",
+    "ledger": "activations-011.jsonl",
+    "reason": "The digestor artifact is absent. Actual ABC221/printed444 scan confirms mein Mangel an Ausdauer as my lack of perseverance in the complete eight-clause MC row. Witte284 matches its full passage. Completed raw checks plus the specific disposition bind unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf221.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf284.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-admetos-equals-neptune.md",
+    "before_sha256": "a6bd29ee6dc4da68da9c7dda85402ddf23ef98bfbf25bce6e1b0f93a3bbd4283",
+    "after_sha256": "379108fd9da396314db1358964949ba51606928bb4d35486613b772d9352774d",
+    "ledger": "activations-011.jsonl",
+    "reason": "Completed ABC221/printed445 and Witte284 scan checks verify endangered air/water circulation and A change/lack of clarity, with the Neptune/Pluto boundary separated. gfahrdcter and stray A OCR damage are absent. Specific disposition binds unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf221.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf284.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-apollon-equals-neptune.md",
+    "before_sha256": "b4de6a5b317222ce11b920388e6a511d816a11ced24836aed9afbfec8aaa4292",
+    "after_sha256": "3b5a338aaa55149e6cc9b8572835dc24a05644a313119ae7e569c32677584c50",
+    "ledger": "activations-012.jsonl",
+    "reason": "Actual ABC220/printed443 scan verifies spread of a dangerous weakness in the complete six-clause Neptune row. Actual Witte280/printed284 Neptune paragraph includes the humidity, water-system and drainage continuation; it does not belong to Pluto. Specific disposition binds unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf220.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf280.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-apollon-equals-sun.md",
+    "before_sha256": "ad8cccf7f7a8a921fc1f076f434f4aa28880eb3e84fa523a860d76f32ab5729a",
+    "after_sha256": "2d618788fee761a7ab2860041266efce5d88571f0f6212da8a8023d015f59241",
+    "ledger": "activations-012.jsonl",
+    "reason": "Actual ABC220/printed442 scan verifies all seven Sun clauses, including endangered freedom, dangerous experiences, privation and knowledge/centers. Current translation preserves the endangered/dangerous distinction and removes obsolete damaged-English exclusions. Witte280/printed284 and specific disposition bind unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf220.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf280.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-apollon-equals-uranus.md",
+    "before_sha256": "502504c0ab09e18a5a1c711c7c9506c24e4f9e93ba6b47cbc2156ca58377661b",
+    "after_sha256": "4109ae3e6d205f3ceb01c78fb541b5f0e44b6c75bc4d1951e06a5e327b6e0b52",
+    "ledger": "activations-012.jsonl",
+    "reason": "Actual ABC220/printed443 scan verifies all seven Uranus clauses, increase in disturbances of rhythm and renewed knowledge of the past. The cancellations artifact is absent. Witte280/printed284 and specific disposition bind the unchanged source/owner, preserving renewal and sorrow/nervousness.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf220.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf280.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-apollon-equals-vernal-point.md",
+    "before_sha256": "fcec07ba6c6d4fa4c3b405920ac2a7060dc857f39c231fc04c18f7a277f82dc2",
+    "after_sha256": "6e15cf7fe8b9a514b1b4306aefbeb308fb1f01340b12cd84699597321452e4dd",
+    "ledger": "activations-012.jsonl",
+    "reason": "Actual ABC220/printed442 scan verifies all five Vernal Point clauses, endangered public freedom and adverse public experiences. Current complete row removes the old unreliable-English exclusion. Witte280/printed284 and target-specific disposition bind unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf220.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf280.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-kronos-equals-asc.md",
+    "before_sha256": "59ad75da6c77a7fa30a1c41a36ec68980816cd9fdaa5d011c733c957f9284ab6",
+    "after_sha256": "c507b25489673266a731ce8b1949d5b977822b6f72cd2b46c17cc35fd7f60ebe",
+    "ledger": "activations-012.jsonl",
+    "reason": "The separator-only cache is replaced by the seven-clause Asc row verified on actual ABC219/printed440, from the place's standing in the past to hidden local hierarchy. Witte279 clean raw passage confirms its exact PDF locator without certifying clipped printed folio. Specific disposition binds unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf219.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf279.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-kronos-equals-zeus.md",
+    "before_sha256": "303ddba6abff448cea885b9a9b976c7320725e5fa1462ac6d287020761c64685",
+    "after_sha256": "48e5e72eaa6186ee8c0db01a56bf9be780c1d557f6329fdbad44548731b13a3f",
+    "ledger": "activations-013.jsonl",
+    "reason": "Independently read newly saved full source and complete amended013 record. Previously inspected ABC219/printed441 scan verifies all seven restored Zeus clauses, including special achievements through deprivation, large-fire danger and leadership hierarchy/service. Unchanged four-sentence Witte passage cleanly matches PDF279; both new exact references are verified. Exact final page/source/owner hashes match release.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf219.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf279.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-admetos.md",
+    "before_sha256": "ca8f980cf6c87b98eba7d39703db22420faf5fc215e3aa9c572a0cccf2c3c9bb",
+    "after_sha256": "e9848f86e89c0c93c1396a4d48d171825aaed0c7afa6ab886e8c51825986b952",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally inspected complete ABC printed449/PDF223 Admetos row and Witte PDF286 row. All six ABC clauses match, including mysterious intellectual/spiritual restriction and vernünftige restriction through renunciation; the former serious-severity reading is false and is repaired. Witte two sentences remain intact; both new exact PDF locators and ABC printed449 are verified. Full amended unique013 record independently reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-asc.md",
+    "before_sha256": "d8d8be684ba60c30656506f213348280257ee79324300d69bf4c029754694a23",
+    "after_sha256": "f767e63a36852f74ae25a6afd8cc8cac39eb4800c7d23f100924569e0ccce888",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally inspected complete ABC printed448/PDF223 Asc row and Witte PDF286 Asc three sentences. All nine ABC clauses match, including endangered local culture, cultural past of a place, partner's lack of reason and reasonable service in the surroundings; former change/communication/poor-service readings are repaired. Witte prose and newly inserted exact references match actual rows. Full amended unique013 record independently reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-jupiter.md",
+    "before_sha256": "9aaef844b7c19a81604fe3ed76cbf17d8620f6e2793651b29ff49e2a0fd6189f",
+    "after_sha256": "20f2ff42ec58ef31830e5e0f56eb5bf2840ac9d4c79ab6ba544fa17d4afa2a34",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally inspected complete ABC printed448/PDF223 Jupiter eight clauses and Witte PDF286 two sentences. Gefährdete Rechts-Kultur means endangered legal culture, while gefährliche financial culture and legal truth really say dangerous; current English preserves that distinction and broad geistig range. Both new exact locators are verified. Full amended unique013 record independently reread; the practical forms of financial culture/legal truth remain unspecified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-kronos.md",
+    "before_sha256": "6fb450df22590827053300b8aee55bde913771f5e2a4fac9079a3f02ef696b3a",
+    "after_sha256": "f75229fa7e76c969c79e9175094200e7a3f7f9b467ed028b348b7bb8b72e22ed",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally inspected complete ABC printed449/PDF223 Kronos eight clauses and Witte PDF286 authority-loss sentence. Current authority rather than authoritarianism, independent reason rather than self-reliance, official authority and hidden intellectual/spiritual hierarchy match the scan. Added Witte/ABC exact row locators are verified. Witte lexical recovery beyond the retained baseline prose is not claimed. Full amended unique013 record independently reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-mars.md",
+    "before_sha256": "8ca03b519e55d24b9bcbc91999833fb5c25c707c0efcb2137a0b2296c67f16d2",
+    "after_sha256": "d5d9c5c236be18784a5d00ead5bf2047822de060fbe6c2615057d8ba257d460b",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally checked full ABC printed448/PDF223 Mars eight-clause row and Witte PDF286 three sentences. Entbehrungen is deprivation, endangered cultural work differs from dangerous work, and Bemühungen um Vernunft means efforts toward reason, with no munitions. Complete repaired English and both new exact locators match. Full amended unique013 record reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-mc.md",
+    "before_sha256": "212e9880a9b0f3d8a31a397da3b0c8e56fac5ea3989131289f2d7a3f2a91f4ac",
+    "after_sha256": "557fd396eca675d67f750f2138305f798c9a8f803751b1b258f752a68bfa36b2",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally checked full ABC printed448/PDF223 MC nine-clause row and Witte PDF286 MC three sentences. Danger to soul and mind, I serve truth and my reasonable renunciation are visible complete clauses and now correctly restored; all other clauses and geistig range match. Both new exact row references verified. Full amended unique013 record reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-mercury.md",
+    "before_sha256": "d356ba19c9d5870d031433e44ab7ffc612f09d268826403d2d547fa34aac6194",
+    "after_sha256": "03d3fec1f7c36e4cb5e9e016576f00fdeb50684740acd3bbc24dd55e03a02d05",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally checked full ABC printed448/PDF223 Mercury eight-clause row and Witte PDF286 two sentences. The damaged indomitable V clause is vernünftiger Verzicht auf Gespräche: reasonable renunciation of conversations; the preceding conversation about the past is also reasonable. Full English and exact row references match, with circumstances unspecified. Full amended unique013 record reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-moon.md",
+    "before_sha256": "7cebb592fffea46e48bd84956381ad4d367cf848de251953b5017f21b1a68d9f",
+    "after_sha256": "3db75fec2c41ad75792eb8b5667ed219482aedffe1c419b07cc20d60ad545fd4",
+    "ledger": "activations-013.jsonl",
+    "reason": "Personally checked full ABC printed448/PDF223 Moon nine-clause row and Witte PDF286 three sentences. Klare Gefühle verbergen means hiding clear feelings; vernünftiger Verzicht einer Frau means a woman's reasonable renunciation. Ancient cultural people and the remaining collective clauses match; complete Witte source wording remains intact. Both exact locators verified. Full amended unique013 record reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-node.md",
+    "before_sha256": "fcb3c32acef1aa2b0518c4ec2f345af0a819e2b605c5aab281ea3449da9f023d",
+    "after_sha256": "d2ad57eab2430adecb573cfaea737397f34d3289c2d397f2f9eb08ac52f22545",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed448/PDF223 Node six-clause row and Witte PDF286 two sentences personally inspected. Vernunft-Mangel is lack of reason, distinct from reasonable renunciation of a connection; both clauses now complete. Exact new references verified and full amended unique013 record reread. This clears only Hades/Poseidon=Node; the issue's mention of Node/Hades=Poseidon receives no transferred approval.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-pluto.md",
+    "before_sha256": "98e620c9e5ba63519908ce177d29915667a5fa843343a0c2731d9517f3fd1262",
+    "after_sha256": "ed260c8781bef4c9a0a7d6b08ef1a5bc15f82b1ca2a733191e47cc5a1d53c117",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed449/PDF223 Pluto eight clauses and immediately preceding complete Neptune row personally inspected; Pluto begins endangered cultural development and dangerous intellectual/spiritual transformation, with cultural development from the past as its third clause. Witte PDF286 visually confirms the extracted E is part of Pluto's alternate glyph, followed by exactly two retained prose sentences. All repaired clauses and exact new references match; full amended unique013 record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-saturn.md",
+    "before_sha256": "eb28a340bf70c5b4571d08885cf7cac780f59c9b44a8021a51e0e60fa77f127f",
+    "after_sha256": "293305b7e55b5a2030079da5f81ab78fd13a1c50dd4d4c5595c68c39a1ecc133",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed449/PDF223 Saturn seven clauses and Witte PDF286 four sentences personally inspected. Geistige Reife is intellectual/spiritual maturity through deprivation, not traits; separations are through lack of reason, not communication. Remaining clauses and both exact inserted locators match. Historical medical wording remains attributed. Full amended unique013 record independently reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-sun.md",
+    "before_sha256": "84118a9cd51dc464c6943a91fc73407039b465db37ad05ab5995d3ebcfcf48b1",
+    "after_sha256": "74575aa6ac72dd44e3b9445f1755c470fbcd667be825b519b6913854591590b8",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed448/PDF223 Sun eight clauses and Witte PDF286 two sentences personally inspected. Mangel an menschlicher Vernunft is lack of human reason, not courage; final renunciation explicitly is reasonable. All clauses, broad geistig scope and new exact references match. Bodily culture supplies no practice or specific condition. Full amended unique013 record independently reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-uranus.md",
+    "before_sha256": "789c0b6b916f64e266e975590cbbf1990493e15cde865d7b4f2c34c0f11f2eb2",
+    "after_sha256": "1a7c8eb7894db908ed7870018c4f4c365b8ac913c5ca60b92a77d14ee728e3eb",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed449/PDF223 Uranus eight clauses and Witte PDF286 two sentences personally inspected. Reason, hindered intellectual/spiritual renewal, endangered cultural renewal and reasonable technology renunciation replace communication/emancipation/dangerous/urgent errors. All clauses and new exact locators match. Technology and circumstances remain unspecified. Full amended unique013 record reread and receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-venus.md",
+    "before_sha256": "f0e5cabb77bbae8be832c119d5651ccf6f1706fef165ac832b707d8a82a5ce37",
+    "after_sha256": "f7b4a22140899c048cda5753fd9a5de1556fc6768b2841304adc35435d70c077",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed448/PDF223 Venus eight clauses and Witte PDF286 four sentences personally inspected. Vernunft-Mangel in der Liebe is lack of reason in love, not lack of love; the distinct endangered peace culture, love service, renunciation of peace, past/disadvantageous art and culture and old-culture preference remain complete. New exact references verified; full amended unique013 record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-vernal-point.md",
+    "before_sha256": "7d34b4f08b356806cfe334e6b52e8efde2bb524b2f21214638fd8ce9a6a515ec",
+    "after_sha256": "21bd6306efb305399044ce52522fa233b90b9e163d413492d5dd0e1bff117ec5",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed448/PDF223 Vernal Point six clauses and Witte PDF286 two sentences personally inspected. Repetitive damaged cache now correctly states old public spirit, endangered public culture, public intellectual/spiritual service and distress, public cultural past and lack of public clarity; no clause imported from MC or Asc. All original duplicate issue reports addressed and new exact locators verified. Full amended unique013 record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-vulcanus.md",
+    "before_sha256": "6bb9db7c0d0ab07bbf28e78cb83bc235a217670f267ddc9cb7cac6d69202d60d",
+    "after_sha256": "49c8e38c43b5d934815b6983230f969eaa80ae62ce9e83db8bde810ea1347a18",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed449/PDF223 Vulcanus eight clauses and Witte PDF286 three sentences personally inspected. Gewalt-Kriminalität is violent crime, Erkenntnis-Kraft in der Not is power of insight in distress and vernünftiger influence through renunciation is reasonable; current full English matches. Hidden geistige Gewalt retains intellectual/spiritual force without an invented mechanism. New exact locators and full amended unique013 record verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-zeus.md",
+    "before_sha256": "e5bbccb1874dc5769b3ddd468526d71a1b82a044f79b6425427ccc131ac13d86",
+    "after_sha256": "69db2e2882d1071d0663e2276278625c92822f684e9cbc84d8d0aecd56f6e83b",
+    "ledger": "activations-013.jsonl",
+    "reason": "Full ABC printed449/PDF223 Zeus seven clauses and Witte PDF286 sentence personally inspected. Führung is leadership, not movement, and geistiger Führungs-Dienst is intellectual/spiritual leadership service, not a prescribed religious ministry; goal setting, accomplishments, lack of goal pursuit, past creativity and bearing witness remain complete. New exact locators and full amended unique013 record independently verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf286.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-vulcanus-equals-cupido.md",
+    "before_sha256": "3b67ad0c81dc42b0dc163871515bbb6c60431ab7da0b6ffbcc122d0235365b0b",
+    "after_sha256": "f8d7e3920ce68423febc491a8f4d8946e1e7b1ebe79db60880f0dc4f8741510d",
+    "ledger": "activations-013.jsonl",
+    "reason": "Actual Witte285 scan verifies Cupido's three-sentence oppressed/decimated families and communities paragraph ending Gang of criminals; the former E/development text belongs to Pluto. Actual ABC222/printed447 confirms six Cupido clauses. Specific disposition binds unchanged source/owner while retaining the undefined energy-service term.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf285.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-vulcanus-equals-kronos.md",
+    "before_sha256": "14b94549da8865879b7058079f8f5e5b07f0345f103a69fa31aabfc5b9380ca5",
+    "after_sha256": "420e3b4c31126cba582649497915a53e27b4c2f185487f03a12dd3322fb7203f",
+    "ledger": "activations-013.jsonl",
+    "reason": "Independently read newly saved full source and complete amended013 record. Actual ABC222/printed447 scan verifies all eight Kronos clauses, including criminal state violence and the state's renunciation of force/violence. Actual Witte285 verifies the unchanged two-sentence passage and corrects false283 locator to exact285; both new references match. Exact final page/source/owner hashes match release.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf285.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-vulcanus-equals-sun.md",
+    "before_sha256": "504f1bbb59dc8fabfce58694478d81951ae97d77e2670a154210dd461a9ef035",
+    "after_sha256": "aeeb1d24ce8fabc4adda2be9d31d45d940f35294dbc179ce63d380be15b4c37b",
+    "ledger": "activations-013.jsonl",
+    "reason": "Actual ABC222/printed446 scan confirms the complete eight-clause Sun row, bodily energy lack, criminal man, dangerous influence, grief through violence and hidden power center. Witte285 actual four-sentence bodily/dependency Sun paragraph is distinct from Asc. Specific disposition binds unchanged source/owner; sibling Sun/Vulcanus=Hades is not certified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf285.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-vulcanus-equals-uranus.md",
+    "before_sha256": "9ebcf8faaa44d40e6e5c427739f3674438fb00ba3cd1e3fce5b5e78168852f03",
+    "after_sha256": "5309ed537ecd44169a9d0725f72175de6624e7191cce84986078770428510c83",
+    "ledger": "activations-013.jsonl",
+    "reason": "Actual ABC222/printed447 scan confirms all seven Uranus clauses, grief through surprising violence, restlessness through energy lack and hidden technical energy. Witte285 two-sentence sudden-oppression/murder row is distinct from Saturn. Specific disposition binds unchanged source/owner and clears obsolete exclusions.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf285.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/hades-zeus-equals-asc.md",
+    "before_sha256": "58157f5d4e20f098787762c1409d11f49fbe3917a1b935352eebb69313474564",
+    "after_sha256": "00938022579b192ddf99e75ef3d80b7a9a0634f4865d0ac79ffbfb4a0583a799",
+    "ledger": "activations-013.jsonl",
+    "reason": "Actual ABC218/printed438 scan confirms all eight Asc clauses, local/partner leadership and renunciation of procreation. The fohnmg artifact is absent; leadership is not a feeling, and procreation is not passion. Witte277/printed281 and specific disposition bind unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf218.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf277.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-asc-equals-mc.md",
+    "before_sha256": "61ba6459ce6341a6e27eb041cf59fdd6b4b6594402e20face87dfc3f9480f85c",
+    "after_sha256": "d3e4aefd0348e155198d97a52612d46f99a0c3d4120483f81b8f72db90e6a3f8",
+    "ledger": "activations-015.jsonl",
+    "reason": "Independently read newly saved full source and complete amended015 record. Actual ABC55/printed112 scan confirms all ten MC clauses, including omitted mein Glueck mit anderen, partner possessives, local rights and inner/soul joy. Witte86 matches; actual Sandbach86 is the exact Midheaven paragraph, correcting chapter-only85. Ebertin/Munkasey bodies and inherited locators are unchanged. Exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf55.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-asc-equals-mercury.md",
+    "before_sha256": "813310270eec81f003a24eb2701737199c154a975b7e6aae9d0ec4eb24d25d25",
+    "after_sha256": "5c044b40e17a4fc33b9f7b66a465e02cc5a01871f42dc1b8be5863e85d375b29",
+    "ledger": "activations-015.jsonl",
+    "reason": "Independently read newly saved full source and complete amended015 record. Actual ABC55/printed112 scan confirms all eight Mercury clauses, legal conversations and singular advantage through a young partner. Witte86 and exact Sandbach Mercury paragraph85 match new references. Ebertin/Munkasey bodies and inherited locators are unchanged. Exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf55.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf85.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-asc-equals-vernal-point.md",
+    "before_sha256": "6c5dd4c93e6a7e45de170231eb9a73c3cf3bff06e634abcdd541838a2c2e6c1f",
+    "after_sha256": "29e85dd6eb57e6ceb2290a87580e028436965917a76c273e5a1a114c1b75e9d7",
+    "ledger": "activations-015.jsonl",
+    "reason": "Independently read newly saved full source and complete amended015 record. Actual ABC55/printed112 scan confirms all eight Vernal Point clauses, including success in public surroundings and genuine repeated Geld-Ort in der Oeffentlichkeit, explicitly retained. Witte86 exact row and both new references match. Exact final source/page/owner hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf55.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-asc-equals-vulcanus.md",
+    "before_sha256": "325a912eecaf703e8d04d477c944cc7f12db1e5448d24e858c07cdc39883655f",
+    "after_sha256": "a48f2e3963a8d001bb06ee4e97f9bd687805a4aa5e90f66761c6f5dc0fd86778",
+    "ledger": "activations-015.jsonl",
+    "reason": "Independently read newly saved full source and complete amended015 record. Actual ABC55/printed113 scan confirms all nine Vulcanus clauses, including both restored partner-finance and fortunate-partner-influence clauses. Rechts-Gewalt is legal authority in this legal-power context, without physical coercion inferred. Witte86 and both new references match; exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf55.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-cupido-equals-venus.md",
+    "before_sha256": "9c8ca8c6932900c6424b8026b55fef87fc7949266acdbfd2616906dd0b44b9ff",
+    "after_sha256": "7628fbd149d2641fdccd08a97d8d119a8a827332b0972389459fd8e3d73d5b40",
+    "ledger": "activations-015.jsonl",
+    "reason": "Actual ABC165/printed332 scan confirms all seven Venus clauses including happy love community; the old damaged-phrase exclusion is obsolete. Witte211/printed215 and specific flag disposition match the unchanged source and unique original owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf165.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf211.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-cupido-equals-vernal-point.md",
+    "before_sha256": "7c34fab725fda0dfc2e2d1e0c7956f9df11fb225648fed0e7bf81bb814679f3b",
+    "after_sha256": "3624d9f1fff710d0e046875b5ed96180abeff8921047a756fd6f71a6f402ddb6",
+    "ledger": "activations-015.jsonl",
+    "reason": "Actual ABC165/printed332 scan confirms all six Vernal Point clauses, public community joy, art success, financial/legal community and contentment. Unusable/repeated cache fragments are absent and exact ABC/Witte211 references match. Specific disposition binds unchanged source/owner.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf165.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf211.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-pluto.md",
+    "before_sha256": "3e5ddbf315ed96ab8854125ba451edce745eb2b73a89af2a6e094ee1c557586c",
+    "after_sha256": "06ff0c7b36d00bc99fc978f3e802c7fbd1af14fbd4ec26617db026ebe8682b25",
+    "ledger": "activations-016.jsonl",
+    "reason": "Current source is identical to the completed initial full read. Actual ABC168/printed339 scan verifies the complete eight-clause Pluto row, including opening financial-development clauses and unfolding of authority, with no wrinkling artifact. Witte214/printed218 matches. Read the new unique016 closure amendment and specific stale-flag disposition; exact current source/page/record hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf214.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-asc.md",
+    "before_sha256": "9591cc45a8918d59dc60c73e528b4fc32089dd1a566ea718c149783843d2898f",
+    "after_sha256": "b79754f671047096e5fbb526793313fe168fdcc0063066442af8afc2c6f4e4a6",
+    "ledger": "activations-017.jsonl",
+    "reason": "Read all five full baseline/current source blocks and full amended unique017 record. Personally inspected ABC printed74/PDF36 Asc nine clauses: Freude, Glücks-Minute, Orts-Recht and soul joy/happiness are legible and correctly repaired. Witte PDF65 three sentences match; Sandbach PDF87 contains the entire Ascendant paragraph before Saturn/Chiron, verifying its new exact reference. Other source blocks are unchanged. Orts-Recht names no specific entitlement or jurisdiction. No approval transfers to Jupiter/Asc=MC.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf87.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-kronos.md",
+    "before_sha256": "925a4150845016cccc8351a769603273de0b658d5ce7be2ca5a4b43b8b6b8af2",
+    "after_sha256": "cb48b5e4847bcc513927ffb3100e1d5c260af6db55cc5c057fe638d7caba9f76",
+    "ledger": "activations-017.jsonl",
+    "reason": "Read complete baseline/current sources and full amended unique017 record. Personally inspected ABC printed75/PDF36 Kronos nine-clause row: mein Rechts-Staat is legible and means my state governed by law; state benefits, independent success and important success moment remain complete. Witte PDF65 Kronos row verifies the new exact locator; baseline lexical punctuation recovery is not claimed. The source names no particular state or political role.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-mars.md",
+    "before_sha256": "69ecc87d61909607fb8311cf5bd1d68c03819b3e520f40e735e5ef216e068384",
+    "after_sha256": "98533ff4c496c56863267781b757320b6ebc122ef31c9f65b04aa7f8d97eabed",
+    "ledger": "activations-017.jsonl",
+    "reason": "Read all five full baseline/current source blocks and full amended unique017 record. Personally inspected ABC printed74/PDF36 Mars nine clauses: mein Geld arbeitet has a paired source quotation, seelisches Schaffen is creative work of the soul and remaining clauses match. Witte PDF65 two sentences and Sandbach PDF86 entire Mars paragraph/new exact locator verified; source shows the line-broken high-mindedness hyphen now restored. Ebertin/Munkasey blocks are unchanged. No particular money-working mechanism is stated.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-moon.md",
+    "before_sha256": "a7c3f3e6ad368371e0bdbe10db30765ed1b977373409a44a717eadafa3d277b0",
+    "after_sha256": "eceb87f96c303f0240c3b460f537ee5bac3a254648c23159e16f1abffa760652",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/74 Moon10clauses personally scan-checked: Glücks-Minute is moment of happiness, Rechts-Gefühl sense of justice and final Seelen-Freude joy of the woman's soul; historical gendered clauses intact. Witte65 Moon and Sandbach86 entire Moon paragraph/new exact locator match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-neptune.md",
+    "before_sha256": "259e5a04968c0067f20f21db4286a81e37623f00e1827f5e53e5da3a95d9c268",
+    "after_sha256": "94302c703a3375fcafa5678bc15178fa2e4b1a16c67c05e2eceaa657c9fae821",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Neptune9clauses personally scan-checked: disappointment over law, future happiness and weakness for money replace exchange/poor/weak garble; blissful air and water examples remain literal. Witte65 and Sandbach87 Neptune paragraph/new exact locator match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf87.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-node.md",
+    "before_sha256": "9a0f15f57c7d277976c44f40a1109a37f680342970f8b2644009be0e23cc7336",
+    "after_sha256": "a48caacaacb1b9277c748abcb3f8360e9b19e71c0e9c9491ec2404c8b955a687",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/74 Node8clauses personally scan-checked: connection of souls and moment of happiness restore Glücks-Minute without timing inference. Witte65 Node and Sandbach87 Node paragraph/new exact locator match; other source bodies unchanged. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf87.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-pluto.md",
+    "before_sha256": "2dfe9b3bca6da80df49f4ee6dd7a314fec70365a2945fd2e55136e6a0915e517",
+    "after_sha256": "99dee1173f17f96a7958e7457a7eabdce143d098c2e031d261c2ca5eb52b1489",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Pluto8clauses personally scan-checked: changes through law restores Recht and seelisch retains soul/inner-life wording; full development/joy/finance sequence matches. Witte65 and Sandbach87 Pluto paragraph/new exact locator match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf87.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-poseidon.md",
+    "before_sha256": "921f6614992371f7e018466ba0eec954a476d585ced0d8e92d18c23639d90813",
+    "after_sha256": "5995443a188f5d589ab7b536026dd365134231808897b0ef88a14fc88305490a",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Poseidon10clauses personally scan-checked: Glück, moment of happiness and clarity through joy of the soul restored, with broad geistig distinct from explicit spirituell. Witte65 Poseidon2sentences and both new locators match. Other Jupiter/Poseidon orientation in holder flag is outside this decision. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-saturn.md",
+    "before_sha256": "450e704e18487b9adfb904ff60925f1992fff4e2511e7663a80d64bb95c624b8",
+    "after_sha256": "3b233d90355f821d894d11556842334fcd86afe5c5b21a8e9cb0ddb87e82ad5c",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Saturn9clauses personally scan-checked: Schmerzens-Geld is compensation for pain and suffering and Recht law; full list retained. Witte65 Saturn and Sandbach86–87 entire paragraph match, including actual split pa tience now joined. New two-page reference correct. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf87.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-sun.md",
+    "before_sha256": "ea5efbb2f666dcb1792c68ef679707a176e2274e54e28c315cee0cd9e5ad1f2f",
+    "after_sha256": "75e36b7cbae236db3d967681c6382ca8bd06b94bd450da8aab2f9199a9125380",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/74 Sun9clauses personally scan-checked: beseelte person is imbued with soul, not celebrated; final satisfaction of a person's soul and day-joy clause restored. Witte65 and Sandbach86 Sun paragraph match; actual long-range hyphen/new exact locator verified. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-venus.md",
+    "before_sha256": "668ce9b23439b34dbd1749e5c35674bed96db99c7563ac6b71045efafa3278be",
+    "after_sha256": "75775c84c53913d8b3cb790e844d68fc395741f35bf34814a6635fd6889c6686",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/74 Venus9clauses personally scan-checked: all four Kunst phrases mean art and are already correctly repaired; old kiss exclusions are stale. All five new references independently checked: Witte65 Venus, Ebertin246/244 code0858, Sandbach86 Venus, Munkasey281/280 Ven plus ABC36/74. Exact row quote/translation and unchanged other prose match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-ebertin-pdf246.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-munkasey-pdf281.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-vernal-point.md",
+    "before_sha256": "46e725db461f23ca114fb2037cd4373da326cdf13dfd98e23042df3ce4da2bac",
+    "after_sha256": "091ec90adf08361ea636a59da6e02341e5664a5b13cfa0814bf53a16929d84b9",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/74 Vernal Point7clauses personally scan-checked: mein öffentliches Recht is my public right, not right to life, and final public soul-joy clause restored. Full Witte65 Vernal Point2sentences and both inserted exact references match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-vulcanus.md",
+    "before_sha256": "fa702ca931a33ba6ae2fccf9eeb9a3e9909f33beb4724b1067c6b2a7af8717f6",
+    "after_sha256": "774ebcdef7c55722732bbbdd693a4f4b1782d11af5aedd06c06b2b1357b631e9",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Vulcanus10clauses personally scan-checked: happy moment, tremendous happiness and legal advantage replace glamorous/glitch/right-advantage garble; soul influence, energy and financial power remain complete. Witte65 great optimism and both inserted exact references match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-zeus.md",
+    "before_sha256": "5de2e1a5a838a5dc8322174350aa3646fd3e1418b4e1d3e19ebb7e2f0746b186",
+    "after_sha256": "12704f50ddf1a66ed20e60c624abd5315a9fbc65df5d7e390a915d1b0b386261",
+    "ledger": "activations-017.jsonl",
+    "reason": "ABC36/75 Zeus8clauses personally scan-checked: Seelen-Führung is guidance of soul and erfolgreiche Führung successful leadership, not carrying/movement; creative joy, procreation, finance and legal goals retained. Witte65 accomplishment sentence and both inserted exact references match. Complete baseline/current sources and full amended unique017 record independently read; final source/page/owner hashes receipt-bound.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf65.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-neptune-equals-admetos.md",
+    "before_sha256": "6b7aee279457b94ad6a28aed6af00ff5b1f50fb03a5616c0866ff2e179ead291",
+    "after_sha256": "5ad6fc9d8c0e1e9ea4d81673567d7af87d4b1990a3cfc672e6dd01f05279b5de",
+    "ledger": "activations-017.jsonl",
+    "reason": "Independently read newly saved complete Source Entries and full amended017 record. Actual ABC163/printed329 scan verifies all seven Admetos clauses, disappointing legal restrictions, blockade removal and beneficial Wasser-Stau, preserving on/in/with-water alternatives. Witte209/printed213 actual row and both new references match. Exact final source/page/owner hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf209.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-neptune-equals-apollon.md",
+    "before_sha256": "a3496729ac3f100c6f32eb6489a32ed90600e6576106ff91d8a62307f93e3334",
+    "after_sha256": "a023dd65bce14cbe94ecf28ccd1967c126863368b8272ccfe1f9167836bc2468",
+    "ledger": "activations-017.jsonl",
+    "reason": "Independently read newly saved complete Source Entries and full amended017 record. Actual ABC163/printed329 scan verifies Apollon's complete nine-clause row after Kronos, from extensive joy in water through advantage from unknown knowledge and increasing financial weakness. State-money/tax-office material belongs to Kronos and is removed. Witte209/printed213 and new references match; exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf209.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-neptune-equals-asc.md",
+    "before_sha256": "4d6ab302312679918db4d68709813685e709a83d233f48d69d0bf7cd3a373409",
+    "after_sha256": "1efdaf58eb66e6c8cbcaa2d34b050aae70e1f82f22c90923aee7dae0a6bc3df5",
+    "ledger": "activations-017.jsonl",
+    "reason": "Independently read newly saved complete Source Entries and full amended017 record. Actual ABC163/printed328 scan verifies all seven Asc clauses, others' financial uncertainty, sensitivity and the partner's future happiness rather than lack of knowledge. Actual Sandbach82 Ascendant paragraph verifies the joined imaginings word-break and new exact locator. Witte209/printed213 matches; Ebertin/Munkasey bodies and inherited locators are unchanged. Exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf209.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-neptune-equals-cupido.md",
+    "before_sha256": "4bb69ffd8da1a4b0e6cc3c7501a047cd3f4a6b19f4b0069670dd2c9eb14a681e",
+    "after_sha256": "918bd01a2f61ac95bbfb7e83770a4b8a33bdb5ccd33ab96c03c60a4b14685441",
+    "ledger": "activations-017.jsonl",
+    "reason": "Independently read newly saved complete Source Entries and full amended017 record. Actual ABC163/printed329 scan verifies the complete seven-clause Cupido community row after Pluto and before Hades. The former development/metaphysics text belongs to Pluto; actual Cupido has shared financial/legal uncertainty, water rights and success through sensitivity. Witte209/printed213 and new references match; exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf209.png"
+    ],
+    "verified_by": "/root/axis_review"
+  },
+  {
+    "path": "wiki/activations/jupiter-neptune-equals-hades.md",
+    "before_sha256": "cfe7cce47c3c4d657e0e40e71991a2b7cadbf06b5c8ec061b05f3a2471038296",
+    "after_sha256": "4423008694664ca7e76c00a189763abb4ffd1aa66a346a259dcded59203b41f8",
+    "ledger": "activations-017.jsonl",
+    "reason": "Independently read newly saved complete Source Entries and full amended017 record. Actual ABC163/printed329 scan verifies all seven Hades clauses after Cupido and before Zeus: sorrow through happiness expectations, dangerous legal uncertainty, inadequate legal sensitivity, water-law disadvantages, financial crime, future advantages through renunciation and future success from the past. The old Cupido community row is removed. Witte209/printed213 and new references match; exact release hashes bind.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-abc-pdf163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-witte-pdf209.png"
+    ],
+    "verified_by": "/root/axis_review"
+  }
+]

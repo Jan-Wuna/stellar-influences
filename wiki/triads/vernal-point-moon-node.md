@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Moon Node`
 - Astronomicon triad-set: `VP R g`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Moon/Node = Vernal Point](../activations/moon-node-equals-vernal-point.md)
-- [Vernal Point/Moon = Node](../activations/vernal-point-moon-equals-node.md)
-- [Vernal Point/Node = Moon](../activations/vernal-point-node-equals-moon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Moon/Node](../axes/moon-node.md) | Vernal Point | [Moon/Node = Vernal Point](../activations/moon-node-equals-vernal-point.md) |
+| [Vernal Point/Moon](../axes/vernal-point-moon.md) | Node | [Vernal Point/Moon = Node](../activations/vernal-point-moon-equals-node.md) |
+| [Vernal Point/Node](../axes/vernal-point-node.md) | Moon | [Vernal Point/Node = Moon](../activations/vernal-point-node-equals-moon.md) |
 
 ## Source Coverage
 
-- `Moon/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `174`
-- `Vernal Point/Moon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
-- `Vernal Point/Moon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `24`
-- `Vernal Point/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `26`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Moon/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `121`
+- `Moon/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `174`
+- `Vernal Point/Moon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `38`
+- `Vernal Point/Moon = Node`: Udo Rudolph - ABC for Planetary Pictures, printed page `24`
+- `Vernal Point/Node = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `39`
+- `Vernal Point/Node = Moon`: Udo Rudolph - ABC for Planetary Pictures, printed page `26`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Node = Vernal Point`: This activation externalizes `Moon/Node` into public-minded relationship, female connection, and feeling tied to the general field. It emphasizes association as something visible, collective, and oriented toward the wider social atmosphere.
-- `Vernal Point/Moon = Node`: This formula emphasizes union of women and nations.
-- `Vernal Point/Node = Moon`: This formula emphasizes connections with female persons and connections of female persons.
+The set links [Moon/Node = Vernal Point](../activations/moon-node-equals-vernal-point.md), [Vernal Point/Moon = Node](../activations/vernal-point-moon-equals-node.md), and [Vernal Point/Node = Moon](../activations/vernal-point-node-equals-moon.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

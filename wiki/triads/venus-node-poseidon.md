@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Node Poseidon`
 - Astronomicon triad-set: `Q g ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Poseidon = Venus](../activations/node-poseidon-equals-venus.md)
-- [Venus/Node = Poseidon](../activations/venus-node-equals-poseidon.md)
-- [Venus/Poseidon = Node](../activations/venus-poseidon-equals-node.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Poseidon = Venus](../activations/node-poseidon-equals-venus.md) | [Node/Poseidon](../axes/node-poseidon.md) | [Venus](../factors/venus.md) |
+| [Venus/Node = Poseidon](../activations/venus-node-equals-poseidon.md) | [Venus/Node](../axes/venus-node.md) | [Poseidon](../factors/poseidon.md) |
+| [Venus/Poseidon = Node](../activations/venus-poseidon-equals-node.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | [Node](../factors/node.md) |
 
 ## Source Coverage
 
-- `Node/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `238`
-- `Venus/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `211`
-- `Venus/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `296`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `156`.
+- `Node/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-poseidon-equals-venus.md#abc-entry), printed p. `238`.
+- `Venus/Node = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-node-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `142`.
+- `Venus/Node = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-node-equals-poseidon.md#abc-entry), printed p. `211`.
+- `Venus/Poseidon = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-node.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-node.md#abc-entry), printed p. `296`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Venus`: Spiritually harmonious connections. Tied to people of the same religion.
-- `Venus/Node = Poseidon`: mental or spiritual kind of connection or ties.
-- `Venus/Poseidon = Node`: to be connected with matters of belief, philosophy, religion.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

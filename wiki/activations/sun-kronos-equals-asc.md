@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Asc Kronos](../triads/sun-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Connection with the father. To be the boss of others. Intercourse with high and independent people.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Asc entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Individuals in the country, dominant personnel partners, local status, manning in the country, people with an environmental reputation, self employed person, and important day at the place
+Special people in the surroundings, a dominant person as partner, personal prestige at the place, male dominance in the surroundings, people of standing in the surroundings, an independent personal partner, and an important day at the place.
+
+Source locator: printed p. 164, PDF p. 81, Sun/Kronos, Asc entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Authority, standing or independence encountered through other people and the immediate surroundings.
+- psychology: Dominance and independence are named without establishing a universal character trait.
+- body/health: No bodily condition is supplied by these entries.
+- social/relationship: Father connections, being others' boss, a dominant or independent partner, and people of standing.
+- events/manifestations: Local personal prestige and an important day at the place are ABC examples.
+- conflicts/notes: The entries include both exercising authority and meeting authoritative people; gendered dominance and rank are historical source categories.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Asc`: the superior personality and one in authority.
-- Practical expression: individuals in the country, dominant personnel partners, local status, manning in the country, and people with an environmental reputation.
+`Sun/Kronos = Asc` places authority and independence in direct contact with others. [Witte](#witte-entry) includes a connection with the father, being others' boss and associating with people of high standing; [ABC](#abc-entry) adds a dominant or independent partner and personal prestige in the surroundings. The formula can therefore describe either one's position among others or the people encountered there. Its rank and male-dominance examples remain attributed source meanings, not a judgment of anyone's inherent worth.
 
 ## Links
 

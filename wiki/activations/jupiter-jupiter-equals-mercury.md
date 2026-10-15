@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Jupiter = Mercury`
 - Astronomicon formula: `V/V = T`
 - Axis page: [Jupiter/Jupiter](../axes/jupiter-jupiter.md)
@@ -29,18 +31,35 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
 #### Witte Entry
 
-Fortunate union. Fortunate connections. Fortunate contacts. Financial relationship. Successful connections. Relations to matters of money or justice.
+- Source reference: one-based PDF page 205, Jupiter/Jupiter section, Mercury row; glyph and neighboring row boundaries visually checked.
+
+Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. Financial reports. Legal correspondence. Thoughts or news about money.
+
+## Comparative Schema
+
+- core meaning: Cheerful thinking, speech and favorable dialogue.
+- psychology: Joyful thoughts, liking to speak and talkativeness.
+- body/health: No bodily condition is stated.
+- social/relationship: Positive dialogue and communication.
+- events/manifestations: Financial reports, legal correspondence and news or thoughts about money.
+- conflicts/notes: The former union/contact passage belonged to Node; Mercury concerns speech, thought and documents.
+
+## Contradictions
+
+The repaired Mercury row is favorable. The former Node material about unions and contacts is not a second interpretation of Mercury.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Jupiter = Mercury`: luck moving through exchange and association. It favors beneficial contacts, profitable communication, and agreements shaped by shared advantage or legal-financial purpose.
+In `Jupiter/Jupiter = Mercury`, the [Witte entry](#witte-entry) gives good fortune a verbal and mental expression: cheerful thoughts, fluent speech, positive dialogue and favorable news. Legal thinking and correspondence, financial reports and thoughts about money specify practical contexts. The emphasis is communication and documents rather than the Node row's unions and contacts formerly assigned here.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Jupiter](../factors/jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter/Jupiter](../axes/jupiter-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

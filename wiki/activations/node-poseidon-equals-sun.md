@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Sun Node Poseidon](../triads/sun-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Being bodily together with others of the same mind or mentality. Bodily contact 
 
 #### ABC Entry
 
-Meeting with cultured people, ideal connection to a man, clarity in personal relationships, cultural meetings on the day, personal cultural mediation, connection to a culture Zcntrum, and communication in a personal connection
+Meeting with cultured people, ideal connection with a man, clarity in personal relationships, cultural meetings during the day, personal cultural mediation, connection with a cultural center, reason in a personal connection.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 238, PDF p. 118.
+
+- Core meaning: Personal, physically present contact around shared ideas or culture.
+- Psychology: Clarity and reason in personal connections.
+- Body/health: Bodily presence is stated; no disease or treatment is established.
+- Social/relationship: Meetings with like-minded or culturally engaged people.
+- Events/manifestations: Cultural gatherings, personal mediation and contact with a cultural center.
+- Conflicts/notes: Gendered and hierarchical source examples are not universal classifications.
+
+## Contradictions
+
+Witte emphasizes bodily togetherness; ABC names cultural and personal settings. No explicit incompatibility appears, and bodily contact need not mean an intimate relationship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Sun`: Being bodily together with others of the same mind or mentality. Bodily contact with people of high mentality.
-- Practical focus: being bodily together with others of the same mind or mentality; also bodily contact with people of high mentality.
+Sun specifies `Node/Poseidon` through personally meeting people with shared intellectual or cultural interests. The [Witte Entry](#witte-entry) makes physical presence central, and the [ABC Entry](#abc-entry) adds clarity in personal relationships, cultural gatherings and contact with a cultural center. The source's examples involving a man and people of 'high mentality' remain historical descriptions, without determining anyone's gender or intellectual worth.
 
 ## Links
 

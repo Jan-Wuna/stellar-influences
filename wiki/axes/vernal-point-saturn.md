@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `44`, chapter heading `ARIES + SATURN` (normalized here as Vernal Point/Saturn).
 
 Separation, deceleration, parting or death in general. Inhibitions, pressures, problems, disturbances or losses in the general public.
 
@@ -79,13 +83,26 @@ Separation, deceleration, parting or death in general. Inhibitions, pressures, p
 
 #### ABC Pair Summary
 
+Source reference: PDF page `17`, bold pair summary.
+
 Burdens for the public, inhibitions in public, public tasks, problems of public life, disturbances in public, and losses in public life
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-People known for their discipline or rigidity, possibly teachers. To experience great difficulties in the larger world. Success attained only by the greatest care and self-discipline. To experience separations on a grand scale. Pairs with Uranus
+Source reference: PDF page `211`, entry `Saturn/Aries`.
+
+People known for their discipline or rigidity, possibly teachers. To experience great difficulties in the larger world. Success attained only by the greatest care and self-discipline. To experience separations on a grand scale.
+
+## Comparative Schema
+
+- Core meaning: Public burdens, limits, difficulties, and separation organize the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Discipline and rigidity are explicit alternatives in the pair delineation; care and self-discipline are linked there with difficult attainment.
+- Body/health: "Death in general" is a historical association in Witte's pair summary, not a diagnosis or an individual death prediction.
+- Social/relationship: Public tasks, pressures, losses, and separation on a grand scale place the theme in a wider social field.
+- Events/manifestations: Deceleration, parting, disturbances, and success attained with great care are supported expressions. Teachers are an example in the pair delineation.
+- Conflicts/notes: Difficult attainment and public loss are both represented, without specifying a single outcome. Hand's following heading, "Pairs with Uranus," has been excluded after checking PDF page `211`.
 
 ## Related Activations
 
@@ -110,11 +127,16 @@ People known for their discipline or rigidity, possibly teachers. To experience 
 - [Vernal Point/Saturn = Vulcanus](../activations/vernal-point-saturn-equals-vulcanus.md)
 - [Vernal Point/Saturn = Zeus](../activations/vernal-point-saturn-equals-zeus.md)
 
+## Contradictions
+
+Difficulties and losses do not exclude achievement: Hand explicitly allows success attained through great care and discipline. This is a qualified range, not a contradiction or an assurance that burdens always yield success.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn` is the axis of public burden, collective limits, social pressure, and the hard realities that test standing in the larger world.
-- Chart expression: discipline, responsibility, institutional gravity, delayed success, and becoming known through endurance, seriousness, or hard-earned authority. Liabilities: alienation, public inhibition, fear, loss, and a social life dominated by scarcity, separation, or excessive rigidity.
+Vernal Point/Saturn concerns burdens and limits encountered in the wider world. Public pressures, inhibitions, tasks, losses, and separation connect the [pair summary](#pair-summary) with the [ABC entry](#abc-pair-summary). The [pair delineation](#pair-delineation) gives this field a personal expression in being known for discipline or rigidity and in experiencing substantial social difficulty.
+
+Achievement is still part of the supported range, but Hand qualifies it as requiring the greatest care and self-discipline. That does not promise success or make loss inevitable. Witte's general reference to death remains historical source language rather than a prediction about a particular person.
 
 ## Links
 

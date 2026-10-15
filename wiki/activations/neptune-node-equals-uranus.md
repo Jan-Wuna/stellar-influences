@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Uranus`
 - Astronomicon formula: `Y/g = X`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden connections which are not tenable. Passing union or connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Exciting connection with water, exchange of reform connection, impulses for cine inconsistency, sudden dissolution of a connection, exchange in a new relationship, and nervousness in an unclear context
+Exciting connection with water, disappointing reform connection, impulses for a future connection, sudden dissolution of a connection, deception in a new relationship, and nervousness in an unclear relationship
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `284–285`, entry code `1018`.
+
 #### Ebertin Entry
 
-The inability to become an integrated unit of a community owing to an unrestrained self-will, inclination to get upset over the anti-social 63 Mars = Neptune/Node can under special circumstances indicate admission to hospital or an institution. conduct of others. A sudden undermining or destruction of relationships.
+The inability to become an integrated unit of a community owing to an unrestrained self-will, inclination to get upset over the anti-social conduct of others. A sudden undermining or destruction of relationships.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Curious and/or surprising effects resulting from one’s psychic sensitivity whe
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ A tendency to be disruptive and agitated by the actions of other people; sudden 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden or passing connections, disruption, and uncertainty in new relationships.
+- psychology: agitation, nervousness, self-will, and sensitivity to hidden bonds are explicit.
+- body/health: no specific medical claim belongs to this entry; the imported institutional footnote belongs to Mars.
+- social/relationship: difficulty integrating with a community, separation from friends, and deception in a new tie are stated.
+- events/manifestations: sudden dissolution, reform contacts, and inspired scientific or technical work are named.
+- conflicts/notes: Sandbach's psychic sensitivity is attributed; the Mars footnote does not qualify Uranus.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress untenable or disrupted ties. Sandbach emphasizes surprising sensitivity, while Munkasey adds both agitation and constructive inspiration for technical or occult work.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Uranus`: awakened fellowship, unusual communities, and the ability to connect through shared vision or subtle perception beyond ordinary social forms. Main caution: erratic alliance: bonds can dissolve suddenly, confuse boundaries, or chase novelty without trust or steadiness.
+In Neptune/Node = Uranus, connections can form or dissolve abruptly, with agitation around other people's actions. [Witte](#witte-entry) names passing, untenable unions; [Ebertin](#ebertin-entry) describes difficulty integrating and sudden relationship disruption. [ABC](#abc-entry) adds nervousness, new ties, and sudden dissolution. [Munkasey](#munkasey-entry) also allows inspiration in scientific or technical work, while [Sandbach's](#sandbach-entry) account of hidden bonds remains a spiritual interpretation rather than proof of unusual rapport.
 
 ## Links
 

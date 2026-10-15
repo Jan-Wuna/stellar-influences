@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars MC](../triads/vernal-point-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 To be busy. One who has courage. To feel energy in the public. To be ready for public labor. Moment for start-up.
 
@@ -42,13 +46,27 @@ To be busy. One who has courage. To feel energy in the public. To be ready for p
 
 #### ABC Entry
 
-my impulses from the public, my impulses for the public, my public work, my public activity, and mental creativity in the public life
+- Source page: 32; PDF page: 15 (one-based spread).
+
+My work for public life, my impulses from the public, my impulses for the public, my public works, my public activity, and inner creative work in public life
+
+## Comparative Schema
+
+- core meaning: Personally experienced energy and activity directed toward public life.
+- psychology: Courage, felt energy, and readiness for public labor are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: One's impulses respond to the public and are also offered to it.
+- events/manifestations: Busyness, public work, and the start of an undertaking.
+- conflicts/notes: The source's start-up moment is retained without adding a timing technique.
+
+## Contradictions
+
+No direct contradiction is established. Impulses from and for the public describe different directions of involvement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = MC`: to be busy, one who has courage, to feel energy in the public, to be ready for public labor, and moment for start-up.
-- Practical expression: my impulses from the public, my impulses for the public, my public work, my public activity, and mental creativity in the public life.
+In `Vernal Point/Mars = MC`, public activity is experienced as one's own energy, courage, and work. The [Witte entry](#witte-entry) emphasizes busyness, readiness for labor, and a moment of beginning. The restored [ABC entry](#abc-entry) distinguishes impulses received from the public from impulses contributed to it, together with personal public work and inner creation. The reading centers on active personal participation in public life.
 
 ## Links
 

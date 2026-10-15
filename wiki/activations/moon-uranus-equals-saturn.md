@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Saturn Uranus](../triads/moon-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Separations brought about by women or by tension. Exciting and tense hours through sudden separation. Losses caused by uproarious populace.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 exciting emotional disturbances, dynamic woman in old age, eventful hour of separation, sudden separation from the woman, problematic women's reform, problems with a nervous woman, surprising separation from the woman, and unrest through losses among the people
+
+Source locator: printed p. 187, PDF p. 92; Saturn row visually checked.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ exciting emotional disturbances, dynamic woman in old age, eventful hour of sepa
 
 Suppressed excitability or irritability, self-control, self-will. Striving for independence, desire to suddenly separate oneself from others, suffering sudden damage. Sudden illness.
 
+Source locator: printed p. 129, entry 0392.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 To be cautious about expressing sudden feelings which arise. To have difficulty with being emotionally uninhibited. To staunchly maintain one’s independence. To have a negative reaction to an emotional outburst. The spiritual need to let go of control so that one’s subconscious can clean itself out.
+
+Source locator: PDF p. 34, Saturn entry; checked in the PDF text.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,23 @@ Acquiring a discipline to look upon failure of projects or ideas as a further st
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Excitability meeting restraint, independence, or sudden separation ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- **Psychology:** Self-control, suppressed irritability, caution about sudden feeling, and frustration when innovation fails ([Munkasey](#munkasey-entry)).
+- **Body/health:** Ebertin names sudden illness and damage; these remain attributed historical possibilities, not a diagnosis or prognosis.
+- **Social/relationship:** Tension around separation and the wish to maintain independence; ABC includes losses and nervous relationships ([ABC](#abc-entry)).
+- **Events/manifestations:** Abrupt separation, collective losses, failed projects, and learning discipline from setbacks.
+- **Conflicts/notes:** Munkasey's added control and Sandbach's need to release control express a real tension in recommended response; neither is a universal prescription.
 
 ## Contradictions
 
-- None recorded yet.
+Control has different roles: Ebertin and Munkasey describe self-control, while Sandbach also calls for letting go of control to allow emotional release. This difference should remain visible rather than being reduced to a single rule. The separation and project-failure examples are additional settings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Saturn`: disciplined emotional reform, serious adaptation, and the ability to modernize old habits without immediate collapse. Main caution: brittle emotional structure: stored tension can make mood, closeness, and habit feel strained or abruptly severed.
+Saturn specifies Moon/Uranus through restraint around sudden feeling and through the tension of maintaining independence or separating. [Witte](#witte-entry) and [ABC](#abc-entry) make abrupt separation and loss concrete, while [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) describe suppressed excitability and caution about expression.
+
+[Munkasey](#munkasey-entry) gives a practical version in frustration with failed inventions and the discipline to treat setbacks as steps toward a goal. Control remains a qualified theme: Munkasey values added emotional control, but Sandbach also describes a need to release it. The entries support this tension without prescribing either suppression or sudden rupture.
 
 ## Links
 

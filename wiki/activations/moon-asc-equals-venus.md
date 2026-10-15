@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Venus Asc](../triads/moon-venus-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Love affairs with female persons. Pleasant connections (general).
 
@@ -44,11 +48,15 @@ Love affairs with female persons. Pleasant connections (general).
 
 #### ABC Entry
 
-Other gentle women, peaceful atmosphere, peace with other people, harmonious atmosphere, charming environment of the mother, love hour in the place, and gentle women in the environment
+- Source passage: `Aszendent + Mond`; printed p. `102`; PDF page `50` (complete oriented row checked against actual scan).
+
+Other beautiful women, peaceful feelingful surroundings, harmony with the woman as partner, peace with other peoples, harmonious feelingful surroundings, harmonious surroundings of the mother, hour of love at the place, beautiful women in the environment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Venus entry at one-based PDF page `39` (checked in actual raw PDF text).
 
 One’s personality projects a charming openness and intimacy. A love of emo tional sharing with others. One appreciates interaction happening on a feeling level. One easily takes on the role of nurturer.
 
@@ -63,22 +71,21 @@ Projecting a kindness toward others who are uncertain about their life’s situa
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasant, affectionate and supportive contact specifies emotional relating.
+- psychology: Enjoying emotional sharing, intimacy and the role of nurturer.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Kindness toward dependent or uncertain people, love affairs and harmonious surroundings.
+- events/manifestations: Pleasant connections, supportive interaction and a loving occasion are the entries' examples.
+- conflicts/notes: ABC's beautiful women and harmony with a woman as partner are exact scan examples; kindness and gentleness remain supported separately in Munkasey.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. The local, public and relational examples retain their distinct source settings and do not imply universal outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Venus`: warmth, likability, and a naturally pleasing emotional manner that draws others in. Main caution: people-pleasing: the desire for comfort and affection can weaken boundary or objectivity in relationship.
+In `Moon/Asc = Venus`, affection and pleasure make contact open, intimate and supportive. Enjoyment of sharing feelings and a readily assumed nurturing role connect pleasant relationships with kindness toward people who need help. Peaceful surroundings, harmony with a woman as partner or in a mother's environment and peace with other peoples give that ease local and collective settings; beauty remains an additional traditional descriptor. ([Witte](#witte-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry); [ABC](#abc-entry).)
 
 ## Links
 

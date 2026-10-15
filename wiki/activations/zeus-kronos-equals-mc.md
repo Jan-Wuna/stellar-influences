@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [MC Zeus Kronos](../triads/mc-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 289 (one-based).
 
 To be energetically active. The will to see it through. Great strategist. Military expert.
 
@@ -42,13 +46,29 @@ To be energetically active. The will to see it through. Great strategist. Milita
 
 #### ABC Entry
 
-Efforts of a great soul, continous state aid, I at the self sufficient, great mental performance, great inner fire, my special creativity, and my special effort
+- Source page: 450; PDF page: 224 (one-based spread).
+
+Efforts of a great soul, soulful state leadership, I lead independently, great inner achievements, great inner fire, my primary objective, my special creativity, my leadership authority, and a minute of exceptional effort.
+
+## Comparative Schema
+
+- core meaning: Personally directed major effort and leadership.
+- psychology: The will to see a task through, inner fire and a primary goal.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Independent leadership and leadership authority.
+- events/manifestations: Energetic activity, strategy and exceptional personal creativity.
+- conflicts/notes: Great soul and inner fire are source images, not anatomical claims.
+
+## Contradictions
+
+Both stress personal resolve and leadership. Witte adds strategy and military expertise, while ABC develops inwardly animated state leadership and creativity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = MC`: To be energetically active. The will to see it through. Great strategist. Military expert.
-- Practical expression: efforts of a great soul, continous state aid, I at the self sufficient, great mental performance, and great inner fire.
+`Zeus/Kronos = MC` makes exceptional effort personally directed. Witte describes energetic activity and the will to see it through; ABC supplies independent leadership, a primary objective, special creativity and inner fire. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Strategy and military expertise are Witte’s specific roles alongside ABC’s leadership authority. The great-soul and inner-fire language describes the source’s inward emphasis without establishing a medical or supernatural mechanism. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

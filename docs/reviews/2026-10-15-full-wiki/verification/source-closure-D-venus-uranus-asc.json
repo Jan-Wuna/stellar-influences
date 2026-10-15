@@ -1,0 +1,103 @@
+{
+  "path": "wiki/activations/venus-uranus-equals-asc.md",
+  "before_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 179 (one-based).\n\nFlirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 276; PDF page: 137 (one-based spread).\n\nExciting beauty as a partner, dynamic love partner, peace event at the location, tense peace in the environment, harmonious technical environment, new love for the partner, place for art events, and preference for tensions in the surroundings\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\n- Source page: 185; entry code: 0624.\n\nDemonstration of love in the presence of others. A sudden meeting or 34 Venus/Uranus = Moon by direction can indicate conception as well as birth. contact, a hasty engagement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\n- PDF chapter start: 60 (one-based; entry-specific page not established).\n\nTo identify with that which is strange and beautiful. An unusually com pelling personality. The ability to find unique ways of sharing with others, or unexpected points in common. To freely express love toward other people.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/URANUS with Planets and Points`\n- Source page: `200`\n\n#### Munkasey Entry\n\nConcentrating on innovative themes in music, art or finance; a heightened show of affection to those who have unusual talents in artistic fields; the unusual delights you receive from enjoying your personal space.",
+  "after_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 179 (one-based).\n\nFlirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 276; PDF page: 137 (one-based spread).\n\nExciting beauty as a partner, dynamic love partner, peace event at the location, tense peace in the environment, harmonious technical environment, new love for the partner, place for art events, and preference for tensions in the surroundings\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\n- Source reference: printed pp. 185–186; one-based PDF pp. 187–188, coded entry 0624. Footnote 34 belongs to the separate Moon entry 0616 and is excluded from the Asc paragraph.\n\nDemonstration of love in the presence of others. A sudden meeting or contact, a hasty engagement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\n- Source reference: one-based PDF p. 61, Venus/Uranus, Ascendant paragraph.\n\nTo identify with that which is strange and beautiful. An unusually compelling personality. The ability to find unique ways of sharing with others, or unexpected points in common. To freely express love toward other people.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/URANUS with Planets and Points`\n- Source page: `200`\n\n#### Munkasey Entry\n\nConcentrating on innovative themes in music, art or finance; a heightened show of affection to those who have unusual talents in artistic fields; the unusual delights you receive from enjoying your personal space.",
+  "before_sha256": "84a84adfb9545c9062edc21f5fd7a7069d293a70d17747e1068fcc30d0b2c571",
+  "protected_baseline_sha256": "a88d7b4c7858bbd56f095a09d6c5c45afaa3549fa25b92eda6203abd01464e1b",
+  "after_sha256": "1e6daf98e7a639fcc186e93026324cc20ed3ee9a2853e5bd778ebb03c2c7af95",
+  "page_sha256": "3afdb71abc02f3ec346225a5d05258e8291f1a70eeff185312b839ffe9e7ddac",
+  "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-090.jsonl",
+  "owner_line": 36,
+  "owner_record": {
+    "path": "wiki/activations/venus-uranus-equals-asc.md",
+    "reviewer": "activation_review_089_103",
+    "full_read": true,
+    "status": "reviewed",
+    "outcome": "changed",
+    "problems": [
+      "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler.",
+      "Closure D confirmed inherited Ebertin layout spillover: Moon0616 footnote34 interrupted the Asc0624 sentence spanning printed185–186."
+    ],
+    "changes": [
+      "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+      "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+      "Scan-backed ABC repair. Original: dynamic Liebcs partner, peace event on the spot, tense peace in the environment, technical environment in Hamburg, new love for the partner, place for artistic achievements, and preference for tensions in the environment Corrected: Exciting beauty as a partner, dynamic love partner, peace event at the location, tense peace in the environment, harmonious technical environment, new love for the partner, place for art events, and preference for tensions in the surroundings",
+      "Closure D bounded source follow-up by activation_review_057_059: joined the actual Ebertin0624 sentence across PDF187–188, excluded Moon footnote34, gave exact printed185–186/PDF187–188 reference, and updated dependent medical/boundary notes. Established Sandbach Asc paragraph's actual PDF61 locator and joined its compelling word break."
+    ],
+    "verification": [
+      "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+      "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+      "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+      "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+      "Personally viewed complete actual Ebertin PDF187/printed185 and188/printed186, including Moon0616 footnote marker and footnote rule, Asc0624 body and next MC0625 boundary. Personally viewed actual Sandbach61 complete Ascendant paragraph. Read full current page and original090 record; original reviewer, metadata, unaffected sources and adjacent anchor preserved; no new review count."
+    ],
+    "unresolved": [],
+    "evidence": [
+      {
+        "passage": "wiki/activations/venus-uranus-equals-asc.md#witte-entry",
+        "reference": "- PDF page: 179 (one-based).",
+        "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+      },
+      {
+        "passage": "wiki/activations/venus-uranus-equals-asc.md#abc-entry",
+        "reference": "- Source page: 276; PDF page: 137 (one-based spread).",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+      },
+      {
+        "passage": "wiki/activations/venus-uranus-equals-asc.md#ebertin-entry",
+        "reference": "Printed pp. 185–186; one-based PDF pp. 187–188; coded entry 0624. Footnote34 belongs to Moon0616."
+      },
+      {
+        "passage": "wiki/activations/venus-uranus-equals-asc.md#sandbach-entry",
+        "reference": "One-based PDF p. 61; Venus/Uranus, Ascendant paragraph."
+      },
+      {
+        "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-090-udo-pdf137.png",
+        "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+        "passage": "wiki/activations/venus-uranus-equals-asc.md#abc-entry"
+      },
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf187.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf188.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-p061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-venus-uranus-asc.json"
+    ]
+  },
+  "owner_record_sha256": "8eaa785204daf9b53a9602f8154ed1727f7824805a584ef390e43f64575c41b7",
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf187.png",
+      "sha256": "2819878fe0925ba2082d05e5c0dab92bc0e7ae705ba32af45dda1e72d7e76538"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf188.png",
+      "sha256": "a3168ccce6e85f20f2a90f3b1575a78b3eba1466daa0f3cc4a9284b75ce2a873"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-p061.png",
+      "sha256": "182edff4b7b84a32ad05cdcb65393f8a3fc2c694c99ecee3c890a8579fc0930c"
+    }
+  ],
+  "frontmatter_preserved": true,
+  "whitespace_exit_code": 0,
+  "actual_saved_text_matches_authored": true,
+  "ebertin_reference": {
+    "entry": "0624",
+    "printed_pages": [
+      185,
+      186
+    ],
+    "pdf_pages_one_based": [
+      187,
+      188
+    ]
+  },
+  "sandbach_reference": {
+    "paragraph": "Venus/Uranus Ascendant",
+    "pdf_page_one_based": 61
+  },
+  "reason": "Removed inherited Moon0616 footnote34 from the Asc0624 sentence; joined actual cross-page body. Established exact Sandbach61 paragraph and corrected compelling word break.",
+  "personally_viewed_all_changed_raw_passages": true,
+  "review_counts_added": 0,
+  "edited_by": "/root/activation_review_057_059",
+  "independent_acceptance": "pending activation_review_060_062 exact-hash reread"
+}

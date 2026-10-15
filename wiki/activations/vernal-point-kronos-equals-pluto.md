@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Pluto Kronos](../triads/vernal-point-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 To develop eminent skills. Mastery. Great transformations in the public.
 
@@ -42,13 +46,27 @@ To develop eminent skills. Mastery. Great transformations in the public.
 
 #### ABC Entry
 
-Upcoming development in the public life, unfolding of self governing in the public life, public change in the state, altering the reputation in the public, and growing self governing in the public life
+- Source page: 51; PDF page: 24 (one-based spread).
+
+Upward development in public life, unfolding of independence in public life, public change in the state, change of public reputation, and growing independence in public life
+
+## Comparative Schema
+
+- core meaning: Development of public mastery, independence, and standing.
+- psychology: No separate psychological trait is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Changing public reputation and state structures.
+- events/manifestations: Eminent skills, mastery, upward development, and major public transformations.
+- conflicts/notes: The scan reads upward development, not merely upcoming development.
+
+## Contradictions
+
+No direct contradiction is established. Upward development is favorable, while change of reputation or state is not separately assigned a direction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Pluto`: to develop eminent skills, mastery, and great transformations in the public.
-- Practical expression: upcoming development in the public life, unfolding of self governing in the public life, public change in the state, altering the reputation in the public, and growing self governing in the public life.
+In `Vernal Point/Kronos = Pluto`, public authority develops through increasing capability and independence. The [Witte entry](#witte-entry) emphasizes eminent skills, mastery, and major public transformations. The restored [ABC entry](#abc-entry) adds upward development and growing independence, together with changes in the state and public reputation. The picture connects the growth of competence and autonomy with a changing public position.
 
 ## Links
 

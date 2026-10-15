@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `218`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Common sense. Good instinct, insight or intelligence. Wisdom. Conscience. Mental
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `346`; PDF page: `172` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-(c) the right of access to information and the right of access to information
+German pair summary (transcribed from printed page `346`; PDF page `172`):
+
+> Erfolgreiche Idee, Erfolg durch Vernunft, Erkenntnis-Freude, geistiges Glück, Geld für Kultur, Kultur-Erfolg, Kultur-Recht, Rechts-Klarheit, Rechts-Kultur, Recht und Wahrheit, Vorteil durch Klarheit
+
+Editorial translation from the German passage: Successful idea, success through reason, joy in insight, spiritual or mental happiness, money for culture, cultural success, cultural law or rights, legal clarity, legal culture, law and truth, advantage through clarity.
+
+## Comparative Schema
+
+- **Core meaning:** Satisfaction through understanding, sound judgment, and clarity about truth and law ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Common sense, insight, intelligence, wisdom, conscience, and mental happiness are explicit themes.
+- **Body/health:** The summary describes mental satisfaction, not a diagnosis or a specific physical condition.
+- **Social/relationship:** A friendly disposition, successful education, and clear jurisdiction connect understanding with constructive social expression.
+- **Events/manifestations:** Education and the clarification of law are named settings; ABC also names money for culture without specifying a financial outcome.
+- **Conflicts/notes:** Both pair summaries connect success or happiness with insight, reason, culture, and clarity. ABC also names money for culture; neither list makes fortune depend on moral purity.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Common sense. Good instinct, insight or intelligence. Wisdom. Conscience. Mental
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon`: enlightened good fortune: common sense, sound judgment, successful education, lawful understanding, mental happiness, conscience, and the ability to see or uphold what is true and right.
-- Chart expression: prosperity guided by clear mind rather than appetite or force. It favors good judgment, principled success, reasoned law, friendly intelligence, education, and spiritual or philosophical maturity, while also implying that fortune here depends on fidelity to truth and can weaken where judgment is clouded or conscience is ignored.
+Jupiter/Poseidon describes the satisfaction and benefit of understanding clearly. Common sense, insight, reason, and conscience converge in wisdom and mental happiness, with successful education and clarity in law as concrete expressions. The pair's positive theme is a clear and friendly intelligence concerned with truth, rather than a stated promise of financial prosperity ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). The [ABC pair summary](#abc-pair-summary) independently adds successful ideas, joy in insight, cultural success, and advantage through clarity, while also naming money for culture.
 
 ## Links
 

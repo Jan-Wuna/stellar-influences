@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun MC Cupido](../triads/sun-mc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Physical and psychological well-being in married life, in company with others or
 
 Enlivened human community, community of my husband, body and soul together, my corporal community, my person in the community, personal soul community, and spiritual community with the man
 
+## Comparative Schema
+
+- core meaning: Body and inner life experienced in companionship.
+- psychology: Psychological well-being through shared participation in Witte.
+- body/health: Witte attributes physical well-being to company or married life.
+- social/relationship: Marriage, community, and the arts.
+- events/manifestations: Shared bodily and emotional life or artistic company.
+- conflicts/notes: The sources are broader than domestic family direction alone.
+
+## Contradictions
+
+No direct contradiction is apparent. Witte includes the arts and company with others as well as marriage; ABC’s community examples do not reduce the formula to a domestic role.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Cupido`: domestic focus and family as a central life direction.
-- Practical expression: enlivened human community, community of my husband, body, soul together, and my corporal community.
+In `Sun/MC = Cupido`, Cupido specifies the Sun/MC relation of body and inner life through companionship and community. The [Witte Entry](#witte-entry) places physical and psychological well-being in married life, company, or the arts; the [ABC Entry](#abc-entry) repeatedly joins the person with a bodily and emotional community. The unifying theme is experiencing oneself through shared life or participation. Marriage is one example within that range, rather than the formula’s sole direction.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Hades](../triads/vernal-point-venus-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 41 (one-based).
 
 General immorality.
 
@@ -42,13 +46,29 @@ General immorality.
 
 #### ABC Entry
 
-Peace danger in public Life, dangerous beauty of the world, harmony deficiency in public, artificial crime in public, love service in public, and past artist in public
+- Source page: 31; PDF page: 14 (one-based spread).
+
+Danger to peace in public life, endangered beauty of the world, lack of harmony in public, art-related crime in public, service of love in public, and art of the past in public.
+
+## Comparative Schema
+
+- core meaning: Threatened peace, beauty or public harmony.
+- psychology: The entries provide social judgments rather than a distinct mental state.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Lack of harmony and the ambiguous “service of love.”
+- events/manifestations: Danger to peace, art-related crime and art of the past.
+- conflicts/notes: Witte’s immorality is a historical value judgment; the service phrase is unexplained.
+
+## Contradictions
+
+Witte gives a general moral judgment. ABC supplies more concrete threats to harmony but also art of the past, which need not be morally adverse.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Hades`: general immorality.
-- Practical expression: peace danger in public Life, dangerous beauty of the world, harmony deficiency in public, artificial crime in public, and love service in public.
+`Vernal Point/Venus = Hades` describes public peace or beauty under threat in ABC’s entry: endangered beauty, deficient harmony and art-related crime are concrete examples. Witte’s “general immorality” is an attributed historical judgment rather than an objective characterization of people. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+ABC also names art of the past, a separate cultural branch that should not be treated as inherently harmful. Its “service of love” is preserved as an unexplained phrase without assigning a specific occupation or sexual meaning. ([ABC](#abc-entry))
 
 ## Links
 

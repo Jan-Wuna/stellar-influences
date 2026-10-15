@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Node Admetos](../triads/moon-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ Tied to a cramped space. Coming in contact with death or matters of death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 202; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-Exhaustive connection to women, limitation of the feelings of a connection, limitation of the connection to women, depth of a connection, connection to a depressed people, and deepening links to women
+German passage (transcribed from PDF page `100`, printed page `202`):
+
+> Ausdauernde Verbindung zur Frau, Begrenzung der Gefühle einer Verbindung, Einschränkung der Verbindung zu Frauen, Gefühls-Tiefe einer Verbindung, Verbindung zu einem deprimierten Volk, Verbindungen zu Frauen vertiefen
+
+Editorial translation from the German passage: An enduring connection to a woman; limitation of feelings within a connection; restriction of connections to women; emotional depth of a connection; a connection to a depressed people; deepening connections to women.
+
+## Comparative Schema
+
+- core meaning: Connections involve confinement, limits or emotional depth.
+- psychology: ABC describes depth within a connection.
+- body/health: Contact with death in Witte is not a bodily diagnosis or prediction.
+- social/relationship: Limited relationships with women are ABC's gendered examples.
+- events/manifestations: Being tied to a cramped space is Witte's concrete setting.
+- conflicts/notes: Endurance is distinct from exhaustion; contact with death does not imply personal death.
+
+## Contradictions
+
+Enduring connections and emotional depth coexist with spatial or relational restriction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Node`: Tied to a cramped space. Coming in contact with death or matters of death.
-- Practical expression: exhaustive connection to women, limitation of the feelings of a connection, limitation of the connection to women, depth of a connection, and connection to a depressed people.
+In `Moon/Admetos = Node`, Node specifies the axis through connections limited in space or feeling. [Witte](#witte-entry) gives being tied to a cramped space and contact with matters of death; [ABC](#abc-entry) material adds limits and depth within relationships. Contact with death remains a source example, without becoming a forecast of someone's death.
 
 ## Links
 

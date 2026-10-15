@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Pluto = MC`
 - Astronomicon formula: `X/Z = MC`
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 235, `URANUS + PLUTO`, MC entry.
+
 #### Witte Entry
 
 To be adaptable. The talent of applying oneself to changed conditions. To change by leaps and bounds. To be exposed to jerking changes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 372 (PDF p. 185), Uranus/Pluto spread, MC entry.
+
 #### ABC Entry
 
-My exciting changes, my new development, my sudden change, my vcrenderterr Rhythm us, my technical development, my changes through technology, growing mental tensions, and changing mental impulses
+My exciting changes, my new development, my sudden change, my changed rhythm, my technical development, my changes through technology, growing emotional tensions, and changing emotional impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 270 (PDF p. 272), code `0961`.
 
 #### Ebertin Entry
 
 Restless, indefatigable, prudent, visionary, aspirations for innovations and reforms, mobility, the instant grasp and exploitation of every situation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 106, `Planets activating the Uranus/Pluto midpoint`, Midheaven entry (chapter begins on PDF p. 105).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ The influence your family supplied in early life to causes you to rebel at their
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal adaptability and sustained involvement in innovation or reform. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Restlessness, indefatigability, prudence and quick grasp of situations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical condition is supplied. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Reputation for distinctive lifestyles and Munkasey's family-rebellion theme. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Abrupt personal changes and experimental or innovative career breakthroughs. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Adaptability and disruptive change are different emphases; unique ideas do not guarantee recognition or career success. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes adapting to changed conditions, while Sandbach describes radical reform and career breakthroughs. Munkasey's awkward family-influence wording is retained without turning it into a universal account of rebellion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = MC`: reforming ambition, public reinvention, and the ability to alter life direction through decisive rupture. Main caution: unstable vocation: public purpose can become too extreme, destructive, or dependent on crisis as a path to change.
+MC specifies Uranus/Pluto through personal adaptation to abrupt changes and a sustained drive to innovate. Quick understanding and tireless effort can support reform or experimental breakthroughs, while altered rhythms and growing emotional tension register the demands of change. Distinctive ways of living may shape one's reputation, but neither originality nor adaptability guarantees a successful career outcome. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

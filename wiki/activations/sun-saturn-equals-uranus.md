@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `S/W = X`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Triad hub: [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -45,7 +46,7 @@ Trouble or losses through older people. Sudden separations.
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Serious bodily tensions, disturbed bodily rhythm, new tasks in old age, personal tasks in technology, personal difficulties and tensions, sudden separation of a person, unexpected bodily pains.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +57,8 @@ Fluctuating attitude toward life, emotional tension, sudden inhibitions, nervous
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF p. 15, Sun/Saturn, complete Uranus entry before Neptune.
 
 Original and unique ideas concerning the deeper spiritual meanings of life. A genius for perceiving meaning in structures and the way that meaning itself is struc tured. One derives a feeling of freedom when pursuing goals in a disciplined manner. The individual pursuit of long-range goals which may be difficult or arduous to reach.
 
@@ -70,22 +73,23 @@ An abrupt and unusual bent in a stern nature; computers or astrologers play impo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden disruption or unusual turns within a serious, disciplined life.
+- psychology: Ebertin describes emotional tension and fluctuating outlook; Sandbach also describes freedom through disciplined pursuit of difficult goals.
+- body/health: ABC describes bodily tensions, disturbed rhythm, and unexpected pains. These historical associations do not establish a medical condition.
+- social/relationship: sudden separations, difficulties involving older people, and a need for contacts who bring excitement.
+- events/manifestations: unexpected barriers, crises, unusual circumstances, and technical tasks; Munkasey mentions computers and astrologers.
+- conflicts/notes: the former ABC hyphen-only translation has been restored from the German scan at printed p. 151, PDF p. 74. Disruption and disciplined originality remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+- Witte and Ebertin emphasize disruption and separation, while Sandbach emphasizes original understanding and freedom within discipline. These are different expressions, not evidence that every disruption is liberating.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Uranus`: reform under stress, abrupt change in long-standing conditions, and the need to modernize rigid patterns. Main caution: fracture: rebellion, tension, or accumulated strain can produce severance, shocks, or breakdowns.
+Uranus specifies the Sun/Saturn axis through abrupt turns in a serious or disciplined pattern of life. The [Witte entry](#witte-entry) (PDF p. 107) and [Ebertin entry](#ebertin-entry) (printed p. 93, code 0248) emphasize separation, tension, and unusual circumstances; the restored [ABC entry](#abc-entry) (printed p. 151; PDF p. 74) also includes technical tasks and new tasks in old age.
+
+The unexpected is not necessarily only destructive: the [Sandbach entry](#sandbach-entry) describes original perception and freedom found in disciplined, long-range effort, while [Munkasey](#munkasey-entry) (printed p. 76) adds excitement, computers, and unexpected barriers. The formula therefore supports both disturbed continuity and an unusual way of pursuing demanding goals; it does not establish inevitable crisis or illness.
 
 ## Links
 

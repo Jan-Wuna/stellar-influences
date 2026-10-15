@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Asc`
 - Astronomicon formula: `U/X = Asc`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -45,7 +47,9 @@ To be connected with sudden events. To rebel together with others, or others reb
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Source: “Mars + Uranus,” printed p. 302 (PDF p. 150).
+
+A nervous work partner, new work in the surroundings, exciting work with a partner, technical efforts at the location, surprising actions by others, restless work in the surroundings, a restless workplace, a technical workplace, and the partner's will impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ An excitable person with the inclination to commit acts of violence. An upsettin
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Uranus midpoint,” Ascendant entry, PDF p. 72.
 
 A person full of surprises. One comes across as unpredictable, and others may find this exciting and/or threatening.
 
@@ -70,22 +76,23 @@ You may become verbal or abusive to those who do not share your ways, or who imp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Unpredictable action or appearance and dynamic work in one's surroundings.
+- Psychology: Others may find surprise exciting or threatening; agitation and excitability are source possibilities.
+- Body/health: Witte and Ebertin include accidents or injury historically; the formula is not an injury prognosis.
+- Social/relationship: Joint rebellion, opposition, and deliberate agitation coexist with exciting work and will impulses involving a partner.
+- Events/manifestations: Sudden nearby events, unusual mannerisms, and new, technical, or restless local work.
+- Conflicts/notes: The severe violence language in Ebertin does not establish a person's dangerousness; ABC also includes constructive work settings.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach explicitly allows excitement as well as threat. Unconventional presentation and abusive conduct are distinct possibilities, not equivalents.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Asc`: personal daring, unconventional behavior, and a tendency to be closely linked with accidents, shocks, or rebellious interactions. Main caution: volatility in contact: others may experience the native as destabilizing, combative, or dangerous when tension is released too fast.
+In `Mars/Uranus = Asc`, Asc specifies abrupt or dynamic activity through immediate contact, presentation, and one's surroundings. A surprising manner can excite or unsettle others; rebellion, opposition, or deliberate agitation are more difficult expressions. ABC also describes exciting work with a partner and new, technical, or restless local work, extending the range beyond interpersonal disruption. ([Witte](#witte-entry), PDF p. 194; [Sandbach](#sandbach-entry), PDF p. 72; [Munkasey](#munkasey-entry), printed p. 232; [ABC](#abc-entry), printed p. 302 / PDF p. 150)
+
+[Ebertin's](#ebertin-entry) injury and violence examples (printed p. 209, entry0720) remain attributed historical possibilities, not a judgment that an unconventional person is dangerous.
 
 ## Links
 

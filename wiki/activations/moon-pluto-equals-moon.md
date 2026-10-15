@@ -23,6 +23,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Moon`
 - Astronomicon formula: `R/Z = R`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -41,22 +42,21 @@ Additional deep feelings and sentiment with whatever activities you are engaged 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: increased emotional depth and involvement in present activities.
+- psychology: stronger sentiment and greater ability to convey feelings coexist with vacillating urges to discard earlier work.
+- body/health: the entry makes no specific bodily or health claim.
+- social/relationship: conveying feelings is represented; no particular relationship outcome is specified.
+- events/manifestations: emotional investment in current activity and reconsideration of previous work.
+- conflicts/notes: this is Munkasey's repeated-pair entry for Moon as activator, not a separate three-factor orientation.
 
 ## Contradictions
 
-- None recorded yet.
+- Only one entry is present. Its increased emotional involvement and wish to discard previous work can coexist; the page supplies no competing account.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Moon`: Additional deep feelings and sentiment with whatever activities one is engaged in at the moment; added intensity in one's emotional involvement and ability to convey feelings; vacillating needs to discard previous work.
+Moon specifies the Moon/Pluto pair as a deepening of immediate emotional involvement: current activities carry more sentiment, and feelings become more intense and easier to convey. The same involvement can fluctuate into an urge to discard earlier work, so the entry describes changing investment rather than a settled decision to abandon it ([Munkasey entry](#munkasey-entry), p. 134).
 
 ## Links
 

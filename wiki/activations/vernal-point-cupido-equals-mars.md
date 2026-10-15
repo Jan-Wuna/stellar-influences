@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Mars`
 - Astronomicon formula: `VP/¡ = U`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -40,15 +42,30 @@ Participation in social gatherings or performances. Marriages. Marriage office. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Cupido`
+- Source reference: printed page `44`; PDF page `21` (one-based).
+
 #### ABC Entry
 
-Community for the public
+A working community for the public, shared public activity, community work in public, a community of action in public life, forming a public community, and public artistic creation.
+
+## Comparative Schema
+
+- Core meaning: Active participation in public community.
+- Psychology: The entry states participation, not a motive for it.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Social gatherings and marriage.
+- Events/manifestations: Performances, community work, forming a public community, public artistic creation, and a marriage office.
+- Conflicts/notes: ABC extends Witte's participation examples to public work, community formation, and artistic creation.
+
+## Contradictions
+
+Public work and artistic creation in ABC are compatible with Witte's social participation; marriage remains a specific Witte example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Mars`: participation in social gatherings or performances, marriages, marriage office, and active in the community.
-- Practical expression: community for the public.
+Mars specifies `Vernal Point/Cupido` through active participation in collective public life. The [Witte entry](#witte-entry) names gatherings, performances, marriage, and community involvement. The [ABC entry](#abc-entry) adds working together for the public, forming a public community, and public artistic creation. The shared action is participation or organized work, with marriage one specific form rather than the sole meaning.
 
 ## Links
 

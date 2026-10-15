@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Cupido Admetos`
 - Astronomicon triad-set: `T ¡ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Admetos = Mercury](../activations/cupido-admetos-equals-mercury.md)
-- [Mercury/Admetos = Cupido](../activations/mercury-admetos-equals-cupido.md)
-- [Mercury/Cupido = Admetos](../activations/mercury-cupido-equals-admetos.md)
+- [Cupido/Admetos = Mercury](../activations/cupido-admetos-equals-mercury.md): base axis [Cupido/Admetos](../axes/cupido-admetos.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Admetos = Cupido](../activations/mercury-admetos-equals-cupido.md): base axis [Mercury/Admetos](../axes/mercury-admetos.md); activator [Cupido](../factors/cupido.md).
+- [Mercury/Cupido = Admetos](../activations/mercury-cupido-equals-admetos.md): base axis [Mercury/Cupido](../axes/mercury-cupido.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Cupido/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `432`
-- `Mercury/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `265`
-- `Mercury/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
-- `Mercury/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `255`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Admetos = Mercury](../activations/cupido-admetos-equals-mercury.md#witte-entry) (PDF entry-start p. 271); [Mercury/Admetos = Cupido](../activations/mercury-admetos-equals-cupido.md#witte-entry) (PDF entry-start p. 171); [Mercury/Cupido = Admetos](../activations/mercury-cupido-equals-admetos.md#witte-entry) (PDF entry-start p. 166).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Admetos = Mercury](../activations/cupido-admetos-equals-mercury.md#abc-entry) (printed p. 432); [Mercury/Admetos = Cupido](../activations/mercury-admetos-equals-cupido.md#abc-entry) (printed p. 265); [Mercury/Cupido = Admetos](../activations/mercury-cupido-equals-admetos.md#abc-entry) (printed p. 255).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Mercury`: thinking about dissolution, farewell talks, or artistic thought formed in solitude.
-- `Mercury/Admetos = Cupido`: carries the axis into family or community life as isolation, gloom, and narrowed artistic focus.
-- `Mercury/Cupido = Admetos`: narrows the axis into close, melancholy, and solitary exchange.
+Mercury, Cupido and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Mercury/Cupido](../axes/mercury-cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)

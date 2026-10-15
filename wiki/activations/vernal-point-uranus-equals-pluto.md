@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Pluto](../triads/vernal-point-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Developing by leaps and bounds. Mutation.
+- PDF page: 45 (one-based).
+
+Developing by leaps and bounds. Mutation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Life, transformation technology in the public sphere, growth in the public sphere, and changes in the public sphere Rhythm
+- Source page: 39; PDF page: 18 (one-based spread).
+
+Dynamic changes in public, reform developments in public life, transformation technology in public, growing renewals in public, and changes in public rhythm.
+
+## Comparative Schema
+
+- core meaning: Rapid development and evolving public renewal.
+- psychology: The entries describe change rather than a distinct mental state.
+- body/health: Witte names mutation without supplying a medical claim or mechanism.
+- social/relationship: Public life develops through successive reforms.
+- events/manifestations: Transformation technology, growing renewal and changed public rhythm.
+- conflicts/notes: ABC’s first two clauses had been assigned to Neptune; the scan places them under Pluto.
+
+## Contradictions
+
+The entries agree on developing change. Witte stresses leaps and mutation, while ABC describes public reform and transforming technology.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Pluto`: p Developing by leaps and bounds and mutation.
-- Practical expression: life, transformation technology in the public sphere, growth in the public sphere, and changes in the public sphere Rhythm.
+`Vernal Point/Uranus = Pluto` joins abrupt development with a changing public process. Witte’s development by leaps and bounds gives the tempo; ABC supplies dynamic public changes, reform developments and renewals that continue to grow. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Transformation technology and changes in public rhythm are concrete examples of this unfolding renewal. Witte’s isolated term “mutation” adds no documented biological mechanism or diagnosis. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

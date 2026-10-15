@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ A maturity in assessing your role or contributions to life; recognizing and conf
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Mature assessment of one’s role and accomplishments.
+- psychology: Acknowledging achievement without relying entirely on honors.
+- body/health: No body or health claim is stated.
+- social/relationship: One’s contribution is assessed in relation to public recognition.
+- events/manifestations: Confirming accomplishments or coming into public notice.
+- conflicts/notes: Recognition and self-assessment are distinct in the sole entry.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented, so cross-source contradiction cannot be assessed. Lack of external honors does not negate the entry’s recognition of personal accomplishment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = MC`: A maturity in assessing one's role or contributions to life; recognizing and confirming one's accomplishments whether or not others give one the honors or positions one feels are due; projection of self into public notice.
+In `Sun/MC = MC`, MC specifies the Sun/MC personal-role theme through a mature appraisal of contribution and achievement. The [Munkasey Entry](#munkasey-entry) distinguishes recognizing one’s accomplishments from receiving the honors or position one expects, while also including public notice. This repeated-pair activation concerns the assessment and presentation of an established contribution; it does not promise that others will recognize it.
 
 ## Links
 

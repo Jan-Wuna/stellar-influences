@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [MC Hades Apollon](../triads/mc-hades-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Bad times for commerce and trade. To busy oneself with science of antiquity, sec
 
 #### ABC Entry
 
-Dangerous freedom of the soul, I spare the vastness, my success in the past, my lack of knowledge, my hidden knowledge, my knowledge of the past, my dangerous freedom, hidden soul freedom, and science of the soul cummer
+- Source passage: `Meridian + Hades`; printed p. `87`; one-based PDF page `42` (complete oriented row checked against the raw scan).
+
+Dangerous freedom of the soul, I am deprived of breadth, my success in the past, my lack of knowledge, my hidden knowledge, my knowledge of the past, my endangered freedom, hidden freedom of the soul, science of sorrow of the soul.
+
+## Comparative Schema
+
+- **Core meaning:** Difficult trade conditions and inquiry into old or hidden knowledge.
+- **Psychology:** The entries do not establish a general personality drawn to suffering.
+- **Body/health:** No bodily or medical meaning is supplied.
+- **Social/relationship:** Commerce and trade are named social settings.
+- **Events/manifestations:** Historical or antiquarian study and a successful past are represented.
+- **Conflicts/notes:** ABC distinguishes dangerous freedom (Gefährliche Freiheit) from my endangered freedom (gefährdete Freiheit); breadth and a science of soul-sorrow remain terse attributed motifs.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Apollon` broadens the axis into historical, antiquarian, or secret forms of knowledge while worsening ordinary prosperity.
-- Chart expression: bad times for trade or commerce, but also to a mind drawn toward antiquity, hidden science, or the study of troubled historical material.
+Apollon specifies `MC/Hades` through difficult commercial circumstances and knowledge of the past or hidden fields. Historical, antiquarian, or secret sciences coexist with ABC's concealed knowledge and lack of knowledge; inquiry is a separate possibility, not compensation guaranteed by hardship. ([Witte Entry](#witte-entry), PDF p. 71, entry start; [ABC Entry](#abc-entry), printed p. 87.)
 
 ## Links
 

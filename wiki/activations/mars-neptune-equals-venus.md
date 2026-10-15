@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Venus Mars Neptune](../triads/venus-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Denial of love. Diseased kidneys, cause by cold. Weakness of the excretory organs. Venereal diseases.
 
@@ -45,17 +49,23 @@ Denial of love. Diseased kidneys, cause by cold. Weakness of the excretory organ
 
 #### ABC Entry
 
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
 Misactions in love, subtle love impulses, joy by working with water, peace work for the future, harmonious activity in the air, artistic work on or with water, preference for activity in the air, and preference for future work
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Neptune,” printed p. 211, entry 0726.
+
 Wrong ideas about love relationship, peculiar expressions of feeling in love, lack of procreative energy, misdirected passion, misuse of the procreative powers, perversions. Danger of infection, diseases of the kidneys and of the genital organs.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 72.
 
 To sense psychic conflict going on in one’s relationships. To be passionately idealistic about love. To love art that portrays the subtle interactions of energies. To show love in subtle, delicate ways. Confused or impractical actions come about due to laziness.
 
@@ -70,22 +80,21 @@ The consideration you show others even when you are irritated with their impract
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Subtle or idealized love and artistic activity, alongside mistaken or frustrated expression.
+- psychology: Passionate ideals, delicate affection, irritation, and impractical action.
+- body/health: Witte's and Ebertin's kidney, genital, infection, and procreative claims remain attributed historical doctrine.
+- social/relationship: Consideration, appeasement, denied love, and sensing conflict in relationships.
+- events/manifestations: Water-related artistic work, peace work, and harmonious activity in air are examples.
+- conflicts/notes: The sources range from delicate affection to frustrated passion; Ebertin's stigmatizing sexual labels are not adopted as character judgments.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes denial and medical claims, while Sandbach includes delicate love and art and ABC names harmonious activity. These different emphases keep the range wider than frustrated passion alone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Venus`: delicate expressions of love, romantic idealism, artistic sensitivity, and desire shaped by imagination more than by firm clarity. Main caution: distortion in relationship: passion can become confused, impractical, unhealthy, or poorly bounded.
+In `Mars/Neptune = Venus`, Venus specifies the pair through delicate affection, idealized love, and artistic response to subtle experience. Sandbach's sensitive expressions and ABC's art or peace work sit beside mistaken actions in love, denied affection, and Munkasey's consideration or appeasement despite irritation. The range concerns both the wish for harmony and difficulty realizing it. Witte's and Ebertin's medical assertions and stigmatizing sexual language remain attributed historical claims, without turning romantic confusion into a diagnosis. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 211, entry 0726; [Sandbach](#sandbach-entry), PDF p. 72; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

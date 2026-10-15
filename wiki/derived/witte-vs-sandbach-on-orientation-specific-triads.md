@@ -7,21 +7,23 @@ framework_scope: comparative
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-22
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Compare how Alfred Witte and John Sandbach behave on shared triads, while preserving the repo rule that activation meaning stays orientation-specific.
+Compare Witte and Sandbach entries for three exact activations, asking where their meanings overlap and where they differ. Shared triads provide the navigation context; the comparison keeps each activation orientation fixed.
+
+For delineation, use the linked canonical activation pages. [Orientation Reading Throughline](orientation-reading-throughline-witte-sandbach.md#derived-synthesis) gives the compact reading method; this research note records its evidence and limits.
 
 ## Evidence Base
 
 - [Sun Moon Venus](../triads/sun-moon-venus.md)
 - [Sun Moon Mercury](../triads/sun-moon-mercury.md)
 - [Jupiter Neptune Node](../triads/jupiter-neptune-node.md)
-- [Sun/Moon = Venus](../activations/sun-moon-equals-venus.md)
-- [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
-- [Jupiter/Node = Neptune](../activations/jupiter-node-equals-neptune.md)
+- [Sun/Moon = Venus](../activations/sun-moon-equals-venus.md): [Witte Entry](../activations/sun-moon-equals-venus.md#witte-entry), PDF page `101`; [Sandbach Entry](../activations/sun-moon-equals-venus.md#sandbach-entry), chapter begins on PDF page `6`.
+- [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md): [Witte Entry](../activations/sun-mercury-equals-moon.md#witte-entry), PDF page `103`; [Sandbach Entry](../activations/sun-mercury-equals-moon.md#sandbach-entry), chapter begins on PDF page `8`.
+- [Jupiter/Node = Neptune](../activations/jupiter-node-equals-neptune.md): [Witte Entry](../activations/jupiter-node-equals-neptune.md#witte-entry), PDF page `144`; [Sandbach Entry](../activations/jupiter-node-equals-neptune.md#sandbach-entry), chapter begins on PDF page `84`.
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 
@@ -29,33 +31,31 @@ Compare how Alfred Witte and John Sandbach behave on shared triads, while preser
 
 ### Shared Structural Rule
 
-- Both corpora support the same structural discipline: the unordered triad hub is only a hub, while the real doctrine lives on the three oriented activation pages.
-- The current wiki now shows `286` shared Witte+Sandbach triad hubs, which is enough evidence to treat this as a stable comparative pattern rather than a one-off example.
+The wiki represents each unordered triad as a hub and each `A/B = C` orientation as a separate activation. Its manifest records `286` triad hubs with both Witte and Sandbach coverage. That count establishes a substantial shared inventory, not semantic agreement across those hubs, nor proof that their three orientations are interchangeable.
 
-### Difference In Interpretive Altitude
+<a id="difference-in-interpretive-altitude"></a>
+### Difference in Presentation and Meaning
 
-- Witte usually compresses an orientation into short, concrete outcome language: relationship states, events, conditions, or immediate human situations.
-- Sandbach usually treats the same orientation as an inner process: he expands the formula into energetic, psychological, and spiritual development language.
-- The result is not contradiction by default. It is a difference of resolution. Witte is operational and compressed; Sandbach is process-oriented and discursive.
+The sample does show a difference in presentation: Witte writes brief situations, while Sandbach writes fuller accounts of experience. It also shows why presentation cannot explain every difference in meaning.
+
+- At `Sun/Moon = Venus`, Witte's loving friendship, loving marriage, and peaceful hours overlap with Sandbach's appreciation, beauty, and fulfilling romance. Sandbach adds a felt sense of completeness in body and soul.
+- At `Sun/Mercury = Moon`, Witte names a young partner and thinking about or being connected with women at an early age. Sandbach describes an emotional need for clear thinking, vulnerability to others' ideas, and the confidence to form one's own conclusions. Those are different claims attached to the same formula, not a demonstrated event-and-process equivalence.
+- At `Jupiter/Node = Neptune`, Witte names cooling friendship, money-related deception, and insecure legal mediation. Sandbach names sensitivity to hidden connections and confusion from too much going on between oneself and the world. Relational uncertainty offers a possible connection; his entry does not independently establish deception or a legal event.
 
 ### Why Orientation Still Governs The Comparison
 
-- On shared triads such as [Sun Moon Venus](../triads/sun-moon-venus.md) and [Sun Moon Mercury](../triads/sun-moon-mercury.md), the activated factor still changes the claim being made.
-- That means the right comparison is `orientation to orientation`, not `triad to triad`.
-- In practice, Witte and Sandbach can both speak about the same three factors while still saying something materially different on each orientation page, because the activated factor changes what is brought into manifestation.
+The factor after `=` remains part of the formula being compared. Use [Sun Moon Venus](../triads/sun-moon-venus.md) or [Sun Moon Mercury](../triads/sun-moon-mercury.md) to locate sibling formulas, then compare the same orientation across sources. An interpretation on one sibling cannot fill a gap on another merely because all three factors recur.
 
 ### Editorial Consequence
 
-- Use the triad hub only to navigate the unordered factor set.
-- Use the activation pages to compare doctrine.
-- When future comparative synthesis is written, it should line up `A/B = C` against `A/B = C`, not flatten all three orientations into one blended interpretation.
+Start with the exact activation page's `Derived Synthesis`. Combine motifs supported by both entries, and retain attribution where an event, figure, or psychological process belongs to only one. This permits a connected answer without treating stylistic similarity, structural coverage, or shared vocabulary as proof of agreement.
 
 ## Contradictions and Notes
 
-- The strongest recurring difference is style and level of abstraction, not a systematic doctrinal collision.
-- Witte tends to sound like a direct delineation key.
-- Sandbach tends to sound like a reflective interpretation of the same structural relation.
+- These examples establish both overlap and substantive differences; they do not demonstrate a systematic conflict or complete agreement across the corpus.
+- Witte's gendered figures and Sandbach's statements about vitality remain attributed historical interpretations, not universal descriptions or medical conclusions.
+- PDF locators are parser-supplied. Sandbach's locators identify chapter starts only; exact activation-paragraph pagination has not been visually verified here.
 
 ## Open Questions
 
-- Would a larger sample across non-relationship triads show any recurring cases where Witte and Sandbach diverge in substance rather than only in explanatory altitude?
+- How frequently do these types of overlap and substantive difference recur across the `286` shared hubs? That requires a larger entry-by-entry comparison, not a coverage count alone.

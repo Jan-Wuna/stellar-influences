@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Saturn`
 - Astronomicon formula: `X/Y = W`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Saturn entry.
+
 #### Witte Entry
 
 To be thrown into debt or to suffer losses through the deaths of others. Separations because of sudden deaths.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 371 (PDF p. 184), `Uranus + Neptun`, Saturn entry.
+
 #### ABC Entry
 
-Tasks of a poor technology, exchange over sudden losses, fine tuning for technical problems, metaphysical event in old age, creeping restlessness in old age, technical problems of the future, and surprising losses by the weak
+Tasks of a future technology, disappointment over sudden losses, sensitivity to technical problems, a metaphysical event in old age, creeping unrest in old age, technical problems of the future, and surprising losses through weakness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0945`.
 
 #### Ebertin Entry
 
 Depression, instability, pessimism. A painful loss, mourning or bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Saturn entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Increased need for solitude and silence to gain inspiration; puts restrictions o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Loss and restraint amid a search for spiritual understanding. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Pessimism, fear, and gradual questioning of intuitive insights. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's depression wording remains an attributed historical association. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Bereavement, separation, and restricted withdrawal from duties. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Debt or loss through others' deaths and technical future problems. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Questioning spiritual inquiry and limits on withdrawal are compatible emphases; the loss and depression examples remain attributed. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Bereavement, loss and restraint coexist with a gradual, questioning exploration of spiritual experience. Solitude can support inspiration while responsibilities restrict withdrawal; these differences do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Saturn`: disciplined vision, reform under constraint, and the capacity to give shape to subtle or unusual insight. Main caution: strained containment: frustration between inspiration and structure can harden into discouragement or breakdown.
+Saturn specifies Uranus/Neptune through loss, restraint, and a slow questioning approach to inward experience. Mourning and bereavement provide the clearest emotional setting, while debt or separation through another's death gives Witte's concrete social example. Solitude may support inspiration even when unpleasant duties cannot be escaped; the entries present limits on visionary reform rather than an assurance that the vision will take shape. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

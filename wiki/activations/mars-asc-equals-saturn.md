@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Saturn Asc](../triads/mars-saturn-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Through actions of others to be separated from something. To suffer losses. To p
 
 #### ABC Entry
 
-Work tasks for the partner, best work partner, patient partner at work, restricted local activities, concentrated work for the environment, partner problems at work, lossful actions of other, and lossful environmental work
+Work tasks for the partner, a serious work partner, a patient partner at work, inhibited local activities, concentrated work for the surroundings, partner problems at work, others' actions that bring losses, and work for the surroundings that brings losses.
+
+- Source reference: printed p. 111, PDF p. 54, Saturn row; the scan reads 'ernster Arbeits-Partner', a serious work partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Inhibited person, inability to develop and express one's potential capabilities 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 A fear of coming across as aggressive, and so a carefulness in asserting the self. One come’s across as being serious about what one does.
 
@@ -70,22 +76,25 @@ Helps you directly meet any immoderate haste; a decreased ability to express you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action with others is limited, careful, concentrated or marked by loss.
+- psychology: Fear of appearing aggressive and difficulty expressing capabilities are explicit.
+- body/health: Munkasey mentions difficulty expressing oneself through movement, without naming a medical condition.
+- social/relationship: Patient work partners, disputes and sharing worry or mourning are represented.
+- events/manifestations: Separation, losses, funeral rites, planning and preparation are concrete forms.
+- conflicts/notes: Patience and concentration do not erase the entries' difficult experiences; ABC's 'best' has been repaired to 'serious' from the scan.
 
 ## Contradictions
 
-- None recorded yet.
+Careful preparation and inhibited expression are different possible responses to limitation. The entries do not establish that seriousness necessarily results in defeat.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Saturn`: serious effort, careful assertion, endurance under pressure, and learning to use force with discipline rather than impulse. Main caution: frustration: held-back anger can harden into defeatism, chronic disputes, or sorrow tied to conflict and missed expression.
+`Mars/Asc = Saturn` specifies action with others through limitation and deliberate effort. A patient or serious work partner and concentrated work in [ABC](#abc-entry) connect with [Sandbach's](#sandbach-entry) careful self-assertion and [Munkasey's](#munkasey-entry) planning and preparation. This can mean attending closely to how action is expressed.
+
+The range also includes inhibited capabilities, disputes and shared suffering in [Ebertin](#ebertin-entry), and separation, loss or funeral participation in [Witte](#witte-entry). Those experiences remain distinct from useful patience; neither is a necessary outcome of the other.
+
+Evidence: Witte PDF p. 85; ABC printed p. 111, PDF p. 54; Ebertin printed p. 220, code 0764; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

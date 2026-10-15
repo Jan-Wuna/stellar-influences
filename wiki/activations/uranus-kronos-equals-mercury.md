@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Kronos = Mercury`
 - Astronomicon formula: `X/¤ = T`
 - Axis page: [Uranus/Kronos](../axes/uranus-kronos.md)
@@ -34,21 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 239.
+
 #### Witte Entry
 
 Dictator. To give orders suddenly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 380; PDF p. 189.
+
 #### ABC Entry
 
-Special surprise announcement, dominance of technology in traffic, great tensions with youth, self aggrandized thought pulses, state traffic technology, unrest in the media steering, restless youth in the state, and important media event
+A special surprise announcement, dominance of technology in traffic, great tensions with youth, independent thought impulses, state transport technology, unrest in media direction, restless youth in the state, an important media event.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 239), [ABC](#abc-entry) (printed p. 380; PDF p. 189).
+
+- core meaning: Sudden authoritative communication and technical direction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- psychology: Tension involving youth and unrest around media direction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- social/relationship: Orders, youth, and the administration of transport or media. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- events/manifestations: Surprise announcements and important media events. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- conflicts/notes: Independent thought impulses coexist with commands and media direction; no grandiosity claim is supplied. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+
+## Contradictions
+
+Independent thought and sudden commands are different uses of communication. Tension with youth and media unrest do not make every announcement dictatorial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Kronos = Mercury`: Dictator. To give orders suddenly.
-- Practical expression: special surprise announcement, dominance of technology in traffic, great tensions with youth, self aggrandized thought pulses, and state traffic technology.
+Mercury specifies Uranus/Kronos through commands, announcements, and the direction of communication. A sudden order is the sharpest expression; the ABC entry extends the setting to media, transport technology, and tension involving youth. Communication here carries authority and disruption, but the entries do not establish that every surprising message is dictatorial. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

@@ -1,0 +1,1492 @@
+[
+  {
+    "path": "wiki/activations/mc-zeus-equals-admetos.md",
+    "queue_index": 74,
+    "before_sha256": "ff379a4a793309d7061897f60c7a99da5a6c58e32c3de4d6b5579afd0c295d0b",
+    "after_sha256": "ff379a4a793309d7061897f60c7a99da5a6c58e32c3de4d6b5579afd0c295d0b",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 43,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo overcome the difficulties of the beginning. Battles against strongest opposition.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nStrenuous inner deepening, restriction of a fiery soul, consolidation of inner leadership, I shape with perseverance, my beginning depressions, my thorough efforts, my performance limitations.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo overcome the difficulties of the beginning. Battles against strongest opposition.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEffortful psychic deepening, limitation of a fiery soul, consolidation of inner guidance, I shape with perseverance, my beginning depressions, my grilning efforts, and my performance limitations",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-admetos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Persistent effort against opposition.",
+        "ABC 'my grilning efforts' retains OCR damage 'grilndlichen Anstrengungen'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Persistent effort against opposition.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected thorough efforts in the complete seven-clause Admetos row.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 89,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "694e0ca079fd9cf7a2fbbf9440ff9bbdc758a8d3b39c5962d86e1f93496b03d8",
+    "current_sha256": "1dc4b3d75a840995d80f64c8a935e8ee2367ed9670d0e7914d6a57b5affa32b8",
+    "original_sha256": "ff379a4a793309d7061897f60c7a99da5a6c58e32c3de4d6b5579afd0c295d0b",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-admetos.md",
+          "text": "ABC 'my grilning efforts' retains OCR damage 'grilndlichen Anstrengungen'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my grilning efforts' retains OCR damage 'grilndlichen Anstrengungen'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-admetos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 43,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my grilning efforts' retains OCR damage 'grilndlichen Anstrengungen'."
+      ],
+      "decision": "Corrected thorough efforts in the complete seven-clause Admetos row.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "meine gründlichen Anstrengungen",
+      "before_source_section_sha256": "ff379a4a793309d7061897f60c7a99da5a6c58e32c3de4d6b5579afd0c295d0b",
+      "final_source_section_sha256": "1dc4b3d75a840995d80f64c8a935e8ee2367ed9670d0e7914d6a57b5affa32b8",
+      "final_page_sha256": "41ed960e4bcd1fbadfeb4493a6ac5613eb2a1ca6a73bfe894576776c37010731",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed89"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-apollon.md",
+    "queue_index": 75,
+    "before_sha256": "18be979b5d07c39b7c17a0d6682bf868ba2ccb5f919004b8ed96f7a3c99810c6",
+    "after_sha256": "18be979b5d07c39b7c17a0d6682bf868ba2ccb5f919004b8ed96f7a3c99810c6",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 44,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be a scientific researcher. Inventor in trade or commerce. To force to peace.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nExpansion of my goals, successes of a fiery soul, leading science of the soul, my efforts for freedom, my leadership experiences, my commercial achievements, my abundance of achievement, my increasing efforts.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be a scientific researcher. Inventor in trade or commerce. To force to peace.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExtension of my goals, success of a fiery soul, leading science of the soul, my efforts for freedom, my filtration experiences, my trade achievements, my performance fillle, and my increasing efforts",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-apollon.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Directed effort in research, commerce and expanded goals.",
+        "ABC 'my filtration experiences' mismatches OCR 'meine Filhrungs-Erfahrungen'; 'my performance fillle' retains damaged 'Leistungs-Fillle'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Directed effort in research, commerce and expanded goals.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected leadership experiences and abundance of achievement in the complete eight-clause Apollon row.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 89,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "50f73932d4987a57decb6cbeb014627a6596d213986fc6345d591a464813490f",
+    "current_sha256": "fcad9c3e531d84c1260bbe4b5993d05194f989efa8e8ee09ef17c2e2f54922f8",
+    "original_sha256": "18be979b5d07c39b7c17a0d6682bf868ba2ccb5f919004b8ed96f7a3c99810c6",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-apollon.md",
+          "text": "ABC 'my filtration experiences' mismatches OCR 'meine Filhrungs-Erfahrungen'; 'my performance fillle' retains damaged 'Leistungs-Fillle'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my filtration experiences' mismatches OCR 'meine Filhrungs-Erfahrungen'; 'my performance fillle' retains damaged 'Leistungs-Fillle'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-apollon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 44,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my filtration experiences' mismatches OCR 'meine Filhrungs-Erfahrungen'; 'my performance fillle' retains damaged 'Leistungs-Fillle'."
+      ],
+      "decision": "Corrected leadership experiences and abundance of achievement in the complete eight-clause Apollon row.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Führungs-Erfahrungen; Leistungs-Fülle",
+      "before_source_section_sha256": "18be979b5d07c39b7c17a0d6682bf868ba2ccb5f919004b8ed96f7a3c99810c6",
+      "final_source_section_sha256": "fcad9c3e531d84c1260bbe4b5993d05194f989efa8e8ee09ef17c2e2f54922f8",
+      "final_page_sha256": "88882e01f70f75fd237606037ee1fe9593e88e4691d41489df806d1e2a8a9f39",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed89"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-asc.md",
+    "queue_index": 76,
+    "before_sha256": "7e017e15835c7104f447085f08b835ade7d6c8e01a51f1dd74dba67a92563f16",
+    "after_sha256": "7e017e15835c7104f447085f08b835ade7d6c8e01a51f1dd74dba67a92563f16",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 45,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTeaching. To help others intellectually. To force one’s own will on others. Instructions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nGuide others inwardly, fiery partner-soul, I begin with others, I shape the surroundings, inner fire of the partner, my goal for the surroundings, my efforts with the partner, my achievements for the surroundings, inner guidance of the partner.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTeaching. To help others intellectually. To force one’s own will on others. Instructions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nfiery partner schele, I start with others, I shape the environment, inner fire of the partner, my goal !Ur the environment, my efforts with the partner, my pleasures for the environment, and spiritual partner carriage",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-asc.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Direction and instruction in personal contact.",
+        "ABC 'my pleasures for the environment' mismatches OCR 'meine Lcistungcn flir die Um welt'; 'spiritual partner carriage' mismatches 'seelische Partner-Fuhrung'; 'schele'/'!Ur' remain damaged."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Direction and instruction in personal contact.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored the omitted opening guide-others clause and corrected achievements and guidance in all nine Asc clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 88,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "a84cadbf2d70a681fd07730ec54df39d6a02d70e8839878b27bc08a31667c8ce",
+    "current_sha256": "845320bad9196b036553a6c194146696b74c813973bbcedee7e05a57e996f8bc",
+    "original_sha256": "7e017e15835c7104f447085f08b835ade7d6c8e01a51f1dd74dba67a92563f16",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-asc.md",
+          "text": "ABC 'my pleasures for the environment' mismatches OCR 'meine Lcistungcn flir die Um welt'; 'spiritual partner carriage' mismatches 'seelische Partner-Fuhrung'; 'schele'/'!Ur' remain damaged.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/asc-mc-zeus.md",
+          "text": "MC/Zeus = Asc: ABC Entry retains damaged or suspect wording \"schele\" and \"!Ur\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my pleasures for the environment' mismatches OCR 'meine Lcistungcn flir die Um welt'; 'spiritual partner carriage' mismatches 'seelische Partner-Fuhrung'; 'schele'/'!Ur' remain damaged."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-asc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 45,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my pleasures for the environment' mismatches OCR 'meine Lcistungcn flir die Um welt'; 'spiritual partner carriage' mismatches 'seelische Partner-Fuhrung'; 'schele'/'!Ur' remain damaged.",
+        "MC/Zeus = Asc: ABC Entry retains damaged or suspect wording \"schele\" and \"!Ur\"."
+      ],
+      "decision": "Restored the omitted opening guide-others clause and corrected achievements and guidance in all nine Asc clauses.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Andere seelisch führen; Leistungen für die Umwelt; Partner-Führung",
+      "before_source_section_sha256": "7e017e15835c7104f447085f08b835ade7d6c8e01a51f1dd74dba67a92563f16",
+      "final_source_section_sha256": "845320bad9196b036553a6c194146696b74c813973bbcedee7e05a57e996f8bc",
+      "final_page_sha256": "2c40d247c1e041926dd7264a0df3825cf50e86d27b9cfb225083f77418b12b05",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-cupido.md",
+    "queue_index": 77,
+    "before_sha256": "3ddc59d91611c923bcba131ec8e954cc032c9c557274e15f04a200c7d5ff73a3",
+    "after_sha256": "3ddc59d91611c923bcba131ec8e954cc032c9c557274e15f04a200c7d5ff73a3",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 46,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nNeed to work in community. Artistic creativity. To bring something new in art.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nFiery soul community, shared guidance of a soul, shared inner goals, I lead a community, inner fire of a community, my goal for the community, my artistic creations, my achievements for the community.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nNeed to work in community. Artistic creativity. To bring something new in art.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nFiery soul community, common leadership of a soul, common scelic goals, I lead of a community, inner fire of a community, my goal for the community, my artificial creations, and my achievements for the community",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-cupido.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Communal work and artistic creation.",
+        "ABC 'my artificial creations' mistranslates 'meine Kunst-Schopfungen'; no artificiality is inferred."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Communal work and artistic creation.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected artistic creations and the remaining damaged wording in the complete eight-clause Cupido row.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 89,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "389749b7cdd1cc0280a0d3a669b8f3f6a0620d8b80b9e9698a4a84eec162183e",
+    "current_sha256": "702fdc98c873520937b34f8aa216daf8dd51412be418a7007058a5204b830fc6",
+    "original_sha256": "3ddc59d91611c923bcba131ec8e954cc032c9c557274e15f04a200c7d5ff73a3",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-cupido.md",
+          "text": "ABC 'my artificial creations' mistranslates 'meine Kunst-Schopfungen'; no artificiality is inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my artificial creations' mistranslates 'meine Kunst-Schopfungen'; no artificiality is inferred."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-cupido.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 46,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my artificial creations' mistranslates 'meine Kunst-Schopfungen'; no artificiality is inferred."
+      ],
+      "decision": "Corrected artistic creations and the remaining damaged wording in the complete eight-clause Cupido row.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "meine Kunst-Schöpfungen",
+      "before_source_section_sha256": "3ddc59d91611c923bcba131ec8e954cc032c9c557274e15f04a200c7d5ff73a3",
+      "final_source_section_sha256": "702fdc98c873520937b34f8aa216daf8dd51412be418a7007058a5204b830fc6",
+      "final_page_sha256": "8172983f5693f987ff0ccc40a7a981b6b08700628be5d689874b10d2074c59a2",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed89"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+    "queue_index": 78,
+    "before_sha256": "a289c0a05ebd786a26647cc53f1d50ca3a9451337fcf70a96aa1ff0cdb5d8ce1",
+    "after_sha256": "a289c0a05ebd786a26647cc53f1d50ca3a9451337fcf70a96aa1ff0cdb5d8ce1",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 48,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo encourage cheerfulness. To promote pleasure. Creative attitude with success or fortune.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nHappily guided soul, happy fiery soul, I begin successfully, I create joy, inner fire of joy, my right to joy, my goal is money, my efforts for money, my successful creations, my legal activity.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo encourage cheerfulness. To promote pleasure. Creative attitude with success or fortune.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nGlitteringly flown soul, glimmering fiery soul, I begin successfully, I create joy, inner joy fire, my right to joy, my goal is money, my efforts for money, my successful bounties, and my legal activity",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Creative initiative linked with enjoyment and success.",
+        "ABC opening 'Glitteringly flown soul'/'glimmering fiery soul' mistranslates damaged 'Glilcklich geflihrte Seele, glilckliche feurige Seele'; 'successful bounties' mismatches 'erfolgreichen Schopfungen'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Creative initiative linked with enjoyment and success.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected both opening happiness clauses and successful creations in all ten Jupiter clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 88,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "6d7e780b696548027a557deb896d6ff1ba1723b5798a236e1468c3c46362a281",
+    "current_sha256": "cc5a6b8d511f6f623a4cfce112245bc22d8fde18f4fd32df49b38b4fdf90538d",
+    "original_sha256": "a289c0a05ebd786a26647cc53f1d50ca3a9451337fcf70a96aa1ff0cdb5d8ce1",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-jupiter.md",
+          "text": "ABC opening 'Glitteringly flown soul'/'glimmering fiery soul' mistranslates damaged 'Glilcklich geflihrte Seele, glilckliche feurige Seele'; 'successful bounties' mismatches 'erfolgreichen Schopfungen'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-mc-zeus.md",
+          "text": "MC/Zeus = Jupiter ABC printed88/PDF43 retains Glitteringly flown soul; source wording needs verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC opening 'Glitteringly flown soul'/'glimmering fiery soul' mistranslates damaged 'Glilcklich geflihrte Seele, glilckliche feurige Seele'; 'successful bounties' mismatches 'erfolgreichen Schopfungen'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 48,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC opening 'Glitteringly flown soul'/'glimmering fiery soul' mistranslates damaged 'Glilcklich geflihrte Seele, glilckliche feurige Seele'; 'successful bounties' mismatches 'erfolgreichen Schopfungen'.",
+        "MC/Zeus = Jupiter ABC printed88/PDF43 retains Glitteringly flown soul; source wording needs verification."
+      ],
+      "decision": "Corrected both opening happiness clauses and successful creations in all ten Jupiter clauses.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Glücklich geführte Seele; glückliche feurige Seele; erfolgreichen Schöpfungen; Rechts-Tätigkeit",
+      "before_source_section_sha256": "a289c0a05ebd786a26647cc53f1d50ca3a9451337fcf70a96aa1ff0cdb5d8ce1",
+      "final_source_section_sha256": "cc5a6b8d511f6f623a4cfce112245bc22d8fde18f4fd32df49b38b4fdf90538d",
+      "final_page_sha256": "2f72b74679e2138b05f5c7e53ed2ae9a242ae361170868633d4bee7a8f88a587",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-kronos.md",
+    "queue_index": 79,
+    "before_sha256": "40a2ad4d42e05e181878bf05cb6ef4420788ac72ccdd2c6cb8fa52c023497700",
+    "after_sha256": "40a2ad4d42e05e181878bf05cb6ef4420788ac72ccdd2c6cb8fa52c023497700",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 49,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work at something independently. To create something great. A great inventor. Manager of a large technical establishment.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nEnsouled state leadership, great fiery soul, my particular goal, my important product, my beginning independence, my particular achievements, my achievements for the state, my independent efforts, my state leadership.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work at something independently. To create something great. A great inventor. Manager of a large technical establishment.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nServing State Relief, Great fiery soul, my special goal, my important product, my beginning self governingness, my special achievements, my achievements for the State, my self defense efforts, and my State Relief",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-kronos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Independent creation and substantial responsibility.",
+        "ABC 'Serving State Relief'/'my State Relief' mismatches 'Staats-Filhrung'; 'my self defense efforts' mismatches 'meine selbstandigen Anstrengungen'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Independent creation and substantial responsibility.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected state leadership and independent efforts in all nine Kronos clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 89,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "c62d4b60021f2d72a53fd4f83537a5ccd92dc31426bbb7588c6151d54a80ad27",
+    "current_sha256": "ad89655809af15d539485cd31929fee3b18203392dc6a5ccc785d699e6db5e31",
+    "original_sha256": "40a2ad4d42e05e181878bf05cb6ef4420788ac72ccdd2c6cb8fa52c023497700",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-kronos.md",
+          "text": "ABC 'Serving State Relief'/'my State Relief' mismatches 'Staats-Filhrung'; 'my self defense efforts' mismatches 'meine selbstandigen Anstrengungen'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Serving State Relief'/'my State Relief' mismatches 'Staats-Filhrung'; 'my self defense efforts' mismatches 'meine selbstandigen Anstrengungen'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-kronos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 49,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'Serving State Relief'/'my State Relief' mismatches 'Staats-Filhrung'; 'my self defense efforts' mismatches 'meine selbstandigen Anstrengungen'."
+      ],
+      "decision": "Corrected state leadership and independent efforts in all nine Kronos clauses.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Beseelte Staats-Führung; selbständigen Anstrengungen",
+      "before_source_section_sha256": "40a2ad4d42e05e181878bf05cb6ef4420788ac72ccdd2c6cb8fa52c023497700",
+      "final_source_section_sha256": "ad89655809af15d539485cd31929fee3b18203392dc6a5ccc785d699e6db5e31",
+      "final_page_sha256": "6973b20eeb09bef3a790d00b0dc1e24c9a1c6e75aadc860aed9df3c442dcf1d3",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed89"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-moon.md",
+    "queue_index": 80,
+    "before_sha256": "e2b3a5f1baf59bd88dc295ff035b0485cce0b96856eaba9488e32f180d2f777f",
+    "after_sha256": "e2b3a5f1baf59bd88dc295ff035b0485cce0b96856eaba9488e32f180d2f777f",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 52,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo own work in connection with women or the public. To be stimulated to work by women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nEfforts of my people, fiery soul of a woman, I lead as a woman, I generate feelings, my creative temperament, my fiery wife, my wife is goal-oriented, my young wife, my achievements in the hour, goals of my people.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo own work in connection with women or the public. To be stimulated to work by women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEfforts of my people, fiery soul of a woman, I lead as a woman, I bear witness, my creative temper, my fiery wife, my wife is determined, my young wife, my accomplishments in the hour, and my people's goals",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-moon.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Work stimulated through personal and public connections.",
+        "ABC 'I bear witness' mismatches 'ich erzeuge Gefiihle'; source gender claims are attributed rather than universalized."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Work stimulated through personal and public connections.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected generating feelings in the complete ten-clause Moon row while preserving the gendered and hour examples.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 88,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "4cc4c4696e9f4fe8ba40c8f063fa2f8eb2a3a58a2931d617bac962cfb9d02070",
+    "current_sha256": "bfbfce08271c0054e64cefa0593d53b7b854e42d5e0961f4c5e54224b9a1c1d4",
+    "original_sha256": "e2b3a5f1baf59bd88dc295ff035b0485cce0b96856eaba9488e32f180d2f777f",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-moon.md",
+          "text": "ABC 'I bear witness' mismatches 'ich erzeuge Gefiihle'; source gender claims are attributed rather than universalized.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'I bear witness' mismatches 'ich erzeuge Gefiihle'; source gender claims are attributed rather than universalized."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 52,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'I bear witness' mismatches 'ich erzeuge Gefiihle'; source gender claims are attributed rather than universalized."
+      ],
+      "decision": "Corrected generating feelings in the complete ten-clause Moon row while preserving the gendered and hour examples.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "ich erzeuge Gefühle",
+      "before_source_section_sha256": "e2b3a5f1baf59bd88dc295ff035b0485cce0b96856eaba9488e32f180d2f777f",
+      "final_source_section_sha256": "bfbfce08271c0054e64cefa0593d53b7b854e42d5e0961f4c5e54224b9a1c1d4",
+      "final_page_sha256": "a9f56de443490792f045fd3bf40afaceb5e9658ac9612f13f0a8163885eb822b",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-neptune.md",
+    "queue_index": 81,
+    "before_sha256": "eb99481c30c5ac261b357fcb8499e7fd132a0e3fa1a05329875c66dfdee9ad54",
+    "after_sha256": "eb99481c30c5ac261b357fcb8499e7fd132a0e3fa1a05329875c66dfdee9ad54",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 53,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nWeakness of will. Incompetence. Taking on too much. Abandoning plans.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nSensitivity of a fiery soul, I shape the formless, my goal is sensitivity, my efforts in water, my beginning refinement, my creative intuition, my achievements in the air, my weak efforts, creeping inner fire.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nWeakness of will. Incompetence. Taking on too much. Abandoning plans.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nFine feeling of a fiery soul, I shape shapeless, my goal is fine feeling, my efforts in the water, my beginning refinement, my crecative intuition, mcinc achievements in the air, my weak efforts, and creeping inner fire",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-neptune.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Dispersed effort with a subtler creative range.",
+        "ABC 'my crecative intuition' and 'mcinc achievements in the air' retain damaged OCR; no extra precision is inferred."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Dispersed effort with a subtler creative range.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected creative intuition and achievements in air in the complete nine-clause Neptune row.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 89,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "ba37795b54a35b09530366703a5ee0b78a0fd066b10783b8337e92c4915c07a3",
+    "current_sha256": "6d281c2808c0d1b437e9c5fe6a51a07bf356f6b13b21096404d5ba709e050793",
+    "original_sha256": "eb99481c30c5ac261b357fcb8499e7fd132a0e3fa1a05329875c66dfdee9ad54",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-neptune.md",
+          "text": "ABC 'my crecative intuition' and 'mcinc achievements in the air' retain damaged OCR; no extra precision is inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my crecative intuition' and 'mcinc achievements in the air' retain damaged OCR; no extra precision is inferred."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 53,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my crecative intuition' and 'mcinc achievements in the air' retain damaged OCR; no extra precision is inferred."
+      ],
+      "decision": "Corrected creative intuition and achievements in air in the complete nine-clause Neptune row.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "meine kreative Intuition; meine Leistungen in der Luft",
+      "before_source_section_sha256": "eb99481c30c5ac261b357fcb8499e7fd132a0e3fa1a05329875c66dfdee9ad54",
+      "final_source_section_sha256": "6d281c2808c0d1b437e9c5fe6a51a07bf356f6b13b21096404d5ba709e050793",
+      "final_page_sha256": "a65daa996c4fd7bc57461cd7edf4167b199193ae506cbd088763c71ec17914af",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed89"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-node.md",
+    "queue_index": 82,
+    "before_sha256": "2b64ad03097f9a3c326ba7d4a61345fd2e1c3b7a72144e0d74c194fe788f52a1",
+    "after_sha256": "2b64ad03097f9a3c326ba7d4a61345fd2e1c3b7a72144e0d74c194fe788f52a1",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 54,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTeam-work. Wanting to be active with many people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Zeus`; printed p. `88`; one-based PDF page `43` (complete oriented row checked against the raw scan).\n\nFiery soul connection, I create contacts, I lead within a connection, I shape connections, inner fire of a connection, my goal within a connection, my efforts within a connection, inner guidance within a connection.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTeam-work. Wanting to be active with many people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nF your soul en connection, I create contacts, I drive in a connection, I form connections, inner fire of a connection, my goal in a connection, my efforts in a connection, and spiritual guidance in a connection",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-node.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Purposeful shared activity.",
+        "ABC 'F your soul en connection' is OCR/translation damage; 'I drive in a connection' is an uncertain rendering of 'ich fuhre in einer Verbindung'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Purposeful shared activity.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Corrected the opening fiery soul connection and leading within a connection in all eight Node clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Zeus",
+          "locator": {
+            "system": "printed",
+            "page": 88,
+            "pdf_page": 43,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-repair-review-closure-B1-abc-pdf043.png",
+            "verification/activations-033-witte-pdf072.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Zeus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 72,
+            "pdf_page": 72,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "210c710d7e019270b9839eccc8aafcb28adcb9e2a2bb9265640d35cafc3e6de6",
+    "current_sha256": "327645e5d8821d67d532f726c1cb0195fd7df9aa5c9c739f651ac8e7ef555869",
+    "original_sha256": "2b64ad03097f9a3c326ba7d4a61345fd2e1c3b7a72144e0d74c194fe788f52a1",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-zeus-equals-node.md",
+          "text": "ABC 'F your soul en connection' is OCR/translation damage; 'I drive in a connection' is an uncertain rendering of 'ich fuhre in einer Verbindung'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/node-mc-zeus.md",
+          "text": "MC/Zeus = Node qualifies the damaged ABC “F your soul en connection” fragment and an uncertain translation of “ich fuhre”. The activation owner retains the source-text qualification; no raw-source repair was attempted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'F your soul en connection' is OCR/translation damage; 'I drive in a connection' is an uncertain rendering of 'ich fuhre in einer Verbindung'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-node.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 54,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'F your soul en connection' is OCR/translation damage; 'I drive in a connection' is an uncertain rendering of 'ich fuhre in einer Verbindung'.",
+        "MC/Zeus = Node qualifies the damaged ABC “F your soul en connection” fragment and an uncertain translation of “ich fuhre”. The activation owner retains the source-text qualification; no raw-source repair was attempted here."
+      ],
+      "decision": "Corrected the opening fiery soul connection and leading within a connection in all eight Node clauses.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Feurige Seelen-Verbindung; ich führe in einer Verbindung",
+      "before_source_section_sha256": "2b64ad03097f9a3c326ba7d4a61345fd2e1c3b7a72144e0d74c194fe788f52a1",
+      "final_source_section_sha256": "327645e5d8821d67d532f726c1cb0195fd7df9aa5c9c739f651ac8e7ef555869",
+      "final_page_sha256": "63800a89444880c342f8f618b6c14c20e3af8ab9459274aa62d7ab2ee2b28a27",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Unchanged inherited Witte body excluded from substantive certification.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-sun.md",
+    "queue_index": 83,
+    "before_sha256": "b4ce5d322ec977849a1bfedcd4db5c4bb97f5d839581efb4b4395608141b5469",
+    "after_sha256": "9b435a46a63b145b8d59aa7a981a49042c1571e9a32bf1e6ca8090e06667ab67",
+    "ledger": "activations-033.jsonl",
+    "ledger_line": 3,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource: “Meridian + Zeus,” Sun entry, PDF p. 72.\n\nTo spur the body on. Wanting to accomplish a great deal physically. To be a sportsman with body and soul.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource: “Meridian + Zeus,” Sun entry, printed p. 88 / PDF p. 43. Translation checked against the German passage.\n\nFiery male soul, the person as a guide of the soul, inner fire of a person, my fiery man, my personal product, my physical efforts, my personal achievements, my personal goals, centre of inner creativity.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo spur the body on. Wanting to accomplish a great deal physically. To be a sportsman with body and soul.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nFcurige Manncr Scelc, the man as soul carrier, inner fire of a person, my fiery man, my corporal efforts, my personal achievements, my personal goals, and Center for psychic creativity",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-sun.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC opening Fcurige Manncr Scelc was damaged, soul guide mistranslated as soul carrier, and personal product clause omitted; partial review had only flagged the damage."
+      ],
+      "changes": [
+        "Restored all nine Sun clauses from native printed88/PDF43, including fiery male soul, person as soul guide, and personal product.",
+        "Added exact locators and refined six categories/connected synthesis linking bodily effort, inner creativity and personal achievement with historical gender attribution.",
+        "Source-quality closure B: Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.; confirmed the current repair against actual raw evidence; no canonical content change required."
+      ],
+      "verification": [
+        "Read entire current page, manifest and evidence; visually checked exact ABC43 Sun and Witte72 Sun rows and saved scans.",
+        "Inspected actual before/wiki diff and saved full text/tail; checked exact orientation, preserved Witte, six categories, local citations and single adjacent anchor.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed88/PDF43: Feurige Männer-Seele; der Mensch als Seelen-Führer; mein persönliches Erzeugnis",
+        "Witte PDF72: sporting and bodily accomplishment",
+        "verification/activations-033-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "cb0bd623896f5d564909cb81a606cf870978678295d34986e51c33994ce41f7d",
+    "current_sha256": "9b435a46a63b145b8d59aa7a981a49042c1571e9a32bf1e6ca8090e06667ab67",
+    "original_sha256": "b4ce5d322ec977849a1bfedcd4db5c4bb97f5d839581efb4b4395608141b5469",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/sun-mc-zeus.md",
+          "text": "MC/Zeus = Sun qualifies unresolved ABC OCR/translation; Sun/Zeus = MC excludes unreliable bodily/centre renderings of leadership wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-sun.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 3,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "verified_existing",
+      "flags": [
+        "MC/Zeus = Sun qualifies unresolved ABC OCR/translation; Sun/Zeus = MC excludes unreliable bodily/centre renderings of leadership wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "Feurige Männer-Seele; der Mensch als Seelen-Führer; persönliches Erzeugnis",
+      "before_source_section_sha256": "9b435a46a63b145b8d59aa7a981a49042c1571e9a32bf1e6ca8090e06667ab67",
+      "final_source_section_sha256": "9b435a46a63b145b8d59aa7a981a49042c1571e9a32bf1e6ca8090e06667ab67",
+      "final_page_sha256": "76f4fea06c766bd812d719bfc0ed95d6e8ed117e844abb3edce16264ca957e67",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "stale_flag_cleared_with_proof",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Current complete ABC row and Witte72 exact row/locator directly confirmed; old reported damage is stale for this exact activation only.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-venus.md",
+    "queue_index": 84,
+    "before_sha256": "1e16c3f25f705772f89f9dd40dda5e2d0fa1b63daa7f0dac8f2999caf476ebf9",
+    "after_sha256": "d2003b3e5fbe0d766c5fe4c2bd9a9b831780dcbd95316e8a17e6c27f690a8f11",
+    "ledger": "activations-033.jsonl",
+    "ledger_line": 5,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource: “Meridian + Zeus,” Venus entry, PDF p. 72.\n\nWishing to produce something beautiful. Producing with love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource: “Meridian + Zeus,” Venus entry, printed p. 88 / PDF p. 43. Translation checked against the German passage.\n\nHarmony with a fiery soul, harmonious soul guidance, inner love fire, love efforts of the soul, my peace goal, my love efforts, my achievements in the arts, my procreation in love, my preference to lead.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nWishing to produce something beautiful. Producing with love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nHarmony with a fiery soul, harmonious soul guidance, inner love fire, love efforts of the soul, my peace goal, my love efforts, my achievements in the arts, my love witnessing, and my preference to lead",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-venus.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC love witnessing mistranslated the explicit Liebes-Zeugung; partial review had deferred the reproductive clause."
+      ],
+      "changes": [
+        "Repaired procreation in love from native printed88/PDF43, preserving the complete nine-clause row and Witte paragraph.",
+        "Added exact locators and integrated artistic/loving creation with harmonious guidance, keeping fertility and reciprocity limits.",
+        "Source-quality closure B: Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.; confirmed the current repair against actual raw evidence; no canonical content change required."
+      ],
+      "verification": [
+        "Read full page, manifest and native evidence; visually checked exact Venus rows on saved ABC43/Witte72.",
+        "Inspected actual before/wiki diff and full written file boundaries; checked source repair, six categories, precise formula and single adjacent anchor.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed88/PDF43: meine Liebes-Zeugung",
+        "Witte PDF72: producing beauty with love",
+        "verification/activations-033-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "eed3051bee5fce5fb37373a9a8b4cf190378a267987293d4bc055301a8888aac",
+    "current_sha256": "d2003b3e5fbe0d766c5fe4c2bd9a9b831780dcbd95316e8a17e6c27f690a8f11",
+    "original_sha256": "1e16c3f25f705772f89f9dd40dda5e2d0fa1b63daa7f0dac8f2999caf476ebf9",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/venus-mc-zeus.md",
+          "text": "MC/Zeus = Venus excludes an unreliable ABC love-witnessing translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-mc-zeus.md",
+          "text": "MC/Zeus = Venus excludes an unreliable ABC love-witnessing translation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-venus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 5,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "verified_existing",
+      "flags": [
+        "MC/Zeus = Venus excludes an unreliable ABC love-witnessing translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Zeus = Venus excludes an unreliable ABC love-witnessing translation."
+      ],
+      "decision": "Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "meine Liebes-Zeugung",
+      "before_source_section_sha256": "d2003b3e5fbe0d766c5fe4c2bd9a9b831780dcbd95316e8a17e6c27f690a8f11",
+      "final_source_section_sha256": "d2003b3e5fbe0d766c5fe4c2bd9a9b831780dcbd95316e8a17e6c27f690a8f11",
+      "final_page_sha256": "9c19670d7d924d1ba525906654cd1b6e165ec74b640c1218e22381fc98abde18",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "stale_flag_cleared_with_proof",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Current complete ABC row and Witte72 exact row/locator directly confirmed; old reported damage is stale for this exact activation only.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  },
+  {
+    "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+    "queue_index": 85,
+    "before_sha256": "b6497cd00799555d2ef8406586aa81df6fefb41bc571485415cf810bbc17f28a",
+    "after_sha256": "fc4431e00d10ede3c518d41aced4d979169df603cb0a7e7f57a88e9e49579f92",
+    "ledger": "activations-033.jsonl",
+    "ledger_line": 6,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource: “Meridian + Zeus,” Vernal Point entry, PDF p. 72.\n\nTo contribute something through an urge to action.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource: “Meridian + Zeus,” Vernal Point entry, printed p. 88 / PDF p. 43. Translation checked against the German passage.\n\nI produce in public, I shape public life, I strive to enter public life, my start in public, my goals in public, my efforts in public, my creations in public life.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo contribute something through an urge to action.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n(i) I live in the public sphere and I work in the public sphere",
+    "ledger_record": {
+      "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC seven public-production clauses collapsed to repeated work-in-public wording; saved partial review retained only two generic clauses."
+      ],
+      "changes": [
+        "Restored all seven distinct public production/shaping/entry/start/goals/effort/creation clauses from native printed88/PDF43.",
+        "Added exact locators and refined comparison/synthesis linking contribution with public creative effort, without promised recognition.",
+        "Source-quality closure B: Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.; confirmed the current repair against actual raw evidence; no canonical content change required."
+      ],
+      "verification": [
+        "Fully read page, manifest and evidence; visually checked exact ABC43 Vernal Point row and Witte72 row, saved proof.",
+        "Inspected actual original-baseline diff and complete saved boundaries; checked seven clauses, six categories, exact orientation, local citations and single adjacent anchor.",
+        "Personally read actual ABC43 complete spread and Witte72 scan; checked Admetos7/Apollon8/Asc9/Cupido8/Jupiter10/Kronos9/Moon10/Neptune9/Node8 and already-repaired Sun9/Venus9/VernalPoint7 rows, with full saved repair diffs reviewed.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed88/PDF43: public production through public creations, seven clauses",
+        "Witte PDF72: contribution from urge to act",
+        "verification/activations-033-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "24c78e43fde615b46a29af0e1c1eddc4bc4244a386b264d5e21616aaada10d10",
+    "current_sha256": "fc4431e00d10ede3c518d41aced4d979169df603cb0a7e7f57a88e9e49579f92",
+    "original_sha256": "b6497cd00799555d2ef8406586aa81df6fefb41bc571485415cf810bbc17f28a",
+    "closure_flags": {
+      "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-mc-zeus.md",
+          "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-zeus.md",
+          "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 6,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "verified_existing",
+      "flags": [
+        "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts."
+      ],
+      "decision": "Confirmed the already-repaired complete ABC row and exact source references against actual ABC43 and Witte72; original damage flag is stale.",
+      "raw_locator": "ABC PDF43 printed88–89 complete exact MC/Zeus rows; Witte PDF72 corresponding Sun/Venus/VernalPoint rows",
+      "proofs": [
+        "verification/source-repair-review-closure-B1-abc-pdf043.png",
+        "verification/activations-033-witte-pdf072.png"
+      ],
+      "native_check": "ich erzeuge in der Öffentlichkeit; sieben Klauseln",
+      "before_source_section_sha256": "fc4431e00d10ede3c518d41aced4d979169df603cb0a7e7f57a88e9e49579f92",
+      "final_source_section_sha256": "fc4431e00d10ede3c518d41aced4d979169df603cb0a7e7f57a88e9e49579f92",
+      "final_page_sha256": "f40b395c24349a29f8de9d13bd62a5f7560e044fb079be4894c0ccc73c97772b",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-zeus",
+    "independent_classification": "stale_flag_cleared_with_proof",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf043.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-raw-pages.txt"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. New changed flagged blocks and references plus the full amended unique owner record independently read.",
+      "All changed ABC clauses compared directly with actual ABC43 glyph-owned row. Printed88/89 and one-based43 locators verified.",
+      "Current complete ABC row and Witte72 exact row/locator directly confirmed; old reported damage is stale for this exact activation only.",
+      "Historical gender, crime, timing and metaphysical terms remain attributed; no mechanism or empirical validity inferred."
+    ],
+    "raw_locator": "ABC actual PDF43, printed88"
+  }
+]

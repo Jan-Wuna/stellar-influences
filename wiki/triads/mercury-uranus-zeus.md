@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Uranus Zeus`
 - Astronomicon triad-set: `T X £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md)
-- [Mercury/Zeus = Uranus](../activations/mercury-zeus-equals-uranus.md)
-- [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md)
+- [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md): base axis [Mercury/Uranus](../axes/mercury-uranus.md); activator [Zeus](../factors/zeus.md).
+- [Mercury/Zeus = Uranus](../activations/mercury-zeus-equals-uranus.md): base axis [Mercury/Zeus](../axes/mercury-zeus.md); activator [Uranus](../factors/uranus.md).
+- [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md): base axis [Uranus/Zeus](../axes/uranus-zeus.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Uranus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `249`
-- `Mercury/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
-- `Mercury/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `259`
-- `Uranus/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
-- `Uranus/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `378`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md#witte-entry) (PDF entry-start p. 163); [Mercury/Zeus = Uranus](../activations/mercury-zeus-equals-uranus.md#witte-entry) (PDF entry-start p. 168); [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md#witte-entry) (PDF entry-start p. 238).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Uranus = Zeus](../activations/mercury-uranus-equals-zeus.md#abc-entry) (printed p. 249); [Mercury/Zeus = Uranus](../activations/mercury-zeus-equals-uranus.md#abc-entry) (printed p. 259); [Uranus/Zeus = Mercury](../activations/uranus-zeus-equals-mercury.md#abc-entry) (printed p. 378).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Uranus = Zeus`: Sudden cogent train of thoughts. Sudden arrangements. Fire alarm. To blow up by explosives. News about outbreak of war.
-- `Mercury/Zeus = Uranus`: To call a halt. Emergency decrees. Martial law. To carry oneself through with emphasis.
+Mercury, Uranus and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Uranus](../axes/mercury-uranus.md)
+- [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Uranus/Zeus](../axes/uranus-zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)

@@ -33,31 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Pluto MC](../triads/mars-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Building up something. Performing several jobs at the same time. Organizational talent. To have more than one iron in the fire.
+Source: “MC + Mars,” PDF p. 64.
+
+Building up something. Performing several jobs at the same time. Organizational talent. To have more than one iron in the fire.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-development, my developmental work, my will development, scclc impulse unfolding, and psychic developmental work
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+Soulful development work, development of my work, I want to develop, my efforts toward evolution, my development work, the unfolding of my will, unfolding soul impulses, and psychological development work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Extraordinary zeal and great vigor, desire to bring immense tasks to a successful conclusion,
+Source: “Mars/Medium Coeli,” printed p. 224 (PDF p. 226), entry 0779.
+
+Extraordinary zeal and great vigor, desire to bring immense tasks to a successful conclusion.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-An intense desire to develop one’s powers and abilities, and possibly to be an authority. An extreme urge to climb socially or spiritually so that one can use one’s po sition, hopefully for the benefit of the world.
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 78.
+
+An intense desire to develop one’s powers and abilities, and possibly to be an authority. An extreme urge to climb socially or spiritually so that one can use one’s position, hopefully for the benefit of the world.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Activates desires to be noticed for the abilities you have, and thus urges you t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intense effort to build, develop abilities, and carry large tasks through.
+- psychology: Zeal, ambition, and a desire for recognition or authority.
+- body/health: Vigor is described without a specific medical assertion.
+- social/relationship: Seeking appreciation or a position from which to benefit the world.
+- events/manifestations: Building something, managing several jobs, and pursuing demanding objectives.
+- conflicts/notes: Sandbach qualifies benefit to the world as a hope; ambition and recognition do not establish benevolent intent automatically.
 
 ## Contradictions
 
-- None recorded yet.
+No direct conflict appears between developing work, demanding effort, and seeking recognition.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Pluto`: extraordinary zeal, administrative strength, and the ability to sustain multiple demanding objectives at once. Main caution: power-compulsion: the urge to achieve or control can become relentless, overwhelming, or destructive if not kept proportionate.
+In `Mars/MC = Pluto`, Pluto specifies personal action as concentrated development and unusually strong application to demanding tasks. ABC includes development of one's work, will, and inner impulses; building something, managing several jobs, and wanting one's abilities recognized extend that account of ambitious effort. Sandbach makes benefit to the world a hope attached to attaining position, not a guaranteed motive. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 73 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 224, entry 0779; [Sandbach](#sandbach-entry), PDF p. 78; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

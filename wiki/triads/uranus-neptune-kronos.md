@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,25 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Neptune Kronos`
 - Astronomicon triad-set: `X Y ¤`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Neptune/Kronos = Uranus](../activations/neptune-kronos-equals-uranus.md)
-- [Uranus/Kronos = Neptune](../activations/uranus-kronos-equals-neptune.md)
-- [Uranus/Neptune = Kronos](../activations/uranus-neptune-equals-kronos.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Kronos](../axes/neptune-kronos.md) | `Uranus` | [Neptune/Kronos = Uranus](../activations/neptune-kronos-equals-uranus.md) |
+| [Uranus/Kronos](../axes/uranus-kronos.md) | `Neptune` | [Uranus/Kronos = Neptune](../activations/uranus-kronos-equals-neptune.md) |
+| [Uranus/Neptune](../axes/uranus-neptune.md) | `Kronos` | [Uranus/Neptune = Kronos](../activations/uranus-neptune-equals-kronos.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Neptune/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `399`
-- `Uranus/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `381`
-- `Uranus/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `371`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Neptune/Kronos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-kronos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `250`.
+- `Neptune/Kronos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-kronos-equals-uranus.md#abc-entry), printed p. `399`.
+- `Uranus/Kronos = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-kronos-equals-neptune.md#witte-entry), one-based PDF entry-start p. `239`.
+- `Uranus/Kronos = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-kronos-equals-neptune.md#abc-entry), printed p. `381`.
+- `Uranus/Neptune = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-neptune-equals-kronos.md#witte-entry), one-based PDF entry-start p. `234`.
+- `Uranus/Neptune = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-neptune-equals-kronos.md#abc-entry), printed p. `371`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Uranus`: This activation shocks authority into abrupt intervention or revolution from above, where governmental force acts suddenly yet unsuccessfully or destabilizes its own order.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

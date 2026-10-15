@@ -21,7 +21,7 @@ factors:
   - Vernal Point
 aliases: []
 source_pages: []
-updated_at: 2026-04-22
+updated_at: 2026-10-15
 ---
 
 ## Bibliographic Metadata
@@ -30,7 +30,11 @@ updated_at: 2026-04-22
 - Title: *Horoscope Symbols*
 - Vault file: `Stellar Influences Vault/planetary expressions - Robert Hand - Horoscope Symbols.pdf`
 
+The cover (one-based PDF p. 1) confirms Robert Hand, *Horoscope Symbols*, and the Whitford Press imprint, which is visible in the cover image. The next page begins Contents (PDF p. 2). No edition or publication date is supplied by these opening leaves or the back-cover text (PDF p. 441); this copy's issue date remains unidentified.
+
 ## Scope Notes
+
+Current wiki attribution, checked 2026-10-15: 14 factor pages, 91 axis pages, 0 activation pages and 0 structural triad hubs.
 
 - This source now contributes standalone factor material plus the Chapter 9 pair-delineation chapter.
 - Factor coverage is limited to the ten planet chapters plus Hand's reusable treatments of the lunar nodes, Ascendant, Midheaven, and the `Vernal Point` (`00 Aries`).
@@ -38,7 +42,11 @@ updated_at: 2026-04-22
 - The pair chapter covers `91` unordered pair descriptions built from the same fourteen-factor inventory.
 - Neither the factor material nor Chapter 9 states oriented `A/B = C` activation formulas, so no activation or triad pages are changed by this ingest.
 - The chapters on aspects, signs, houses, and midpoint technique are broader reference material that do not map cleanly to the current wiki page model.
-- The rest of `Other Points in the Chart` still mixes reusable `Node`, `Asc`, `MC`, and `Vernal Point` factor material with asteroids, Chiron, fixed stars, hypothetical planets, and picture-point methodology that would require separate scope decisions.
+- Within `Other Points in the Chart`, only the reusable `Node`, `Asc`, `MC`, and `Vernal Point` material is admitted here. Asteroids, Chiron, fixed stars, hypothetical planets, and picture-point methodology remain outside this ingest.
+
+Use the canonical [Sun factor](../factors/sun.md#robert-hand---horoscope-symbols) or [Sun/Moon pair](../axes/sun-moon.md#robert-hand---horoscope-symbols) as entry points to Hand's admitted material. Pair descriptions remain unordered axis doctrine, and the shared Ascendant/Midheaven factor section remains joint source evidence. The counts below describe these selected sections, not all subjects covered by the book.
+
+The Sun entry's broken father-role sentence has been restored against Hand's closing paragraph on one-based PDF p. `56`. Other inherited OCR on PDF pp. `52–55`, including `w 7hich`, `planetaiy` and `follcnving da^`, remains uncorrected pending exact passage inspection. That residual wording is not secure evidence for synthesis; this repair does not certify the rest of Hand's transcription.
 
 ## Factors Covered
 

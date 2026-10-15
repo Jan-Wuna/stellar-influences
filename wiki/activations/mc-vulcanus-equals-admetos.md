@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [MC Admetos Vulcanus](../triads/mc-admetos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To be suppressed or subjugated. Restrained. To suffer failures.
 
 #### ABC Entry
 
-Depression through mental violence, limited mental influence, end of my power, consolidation through psychic energy, my energy cycle, my grild influence, my persevering energy, and condensation of psychic energy
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Depression through mental violence, limited mental influence, end of my power, consolidation through psychic energy, my energy cycle, my thorough influence, my persevering energy, condensation of psychic energy.
+
+## Comparative Schema
+
+- **Core meaning:** Power restrained or concentrated.
+- **Psychology:** Perseverance under limitation; ABC also names depressive experience.
+- **Body/health:** ABC's depression through psychological violence is an attributed claim, not a diagnosis.
+- **Social/relationship:** Suppression or subjugation by others.
+- **Events/manifestations:** Failure, reduced influence and consolidation of energy.
+- **Conflicts/notes:** ABC's thorough influence belongs beside energy consolidation and perseverance; its depression through violence remains an attributed historical association, not a diagnosis.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Suppression and failure coexist with consolidation, perseverance and thorough influence as different possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Admetos` compresses the axis into suppression, subjugation, and failure under force.
-- Chart expression: power restrained or blocked, the self being held down, and life direction shaped by pressure, control, and the experience of strength meeting resistance or defeat.
+Admetos specifies `MC/Vulcanus` through power meeting restraint: the [Witte Entry](#witte-entry) names suppression, subjugation and failure. The [ABC Entry](#abc-entry) adds limited influence and an end of power, but also perseverance and consolidation of inner energy. The reading therefore includes both loss of outward scope and concentration of strength, without making depression an inevitable diagnosis.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Zeus = Asc`
 - Astronomicon formula: `R/£ = Asc`
 - Axis page: [Moon/Zeus](../axes/moon-zeus.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `132` (entry start; one-based).
+
 #### Witte Entry
 
 Others have to obey. Acquaintance with machine personnel, those working with controlled fire or military persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `196`, PDF p. `97` (entry).
+
 #### ABC Entry
 
-leader of the people in the environment, efforts of a woman in the environment, fire at the place in the hour, fiery woman as partner, leading woman as partner, achievements of a woman in the environment, creative emotional nature of the partner, leader of the people at the place, and goals of other women
+A leader of the people in the surroundings, a woman's effort in the surroundings, fire at the place in the hour, a fiery woman as partner, a leading woman as partner, a woman's environmental achievements, the partner's creative disposition, a leader of the people at the place, and other women's goals
+
+## Comparative Schema
+
+- core meaning: creative effort, leadership, and directed activity encountered through people or place.
+- psychology: the partner's creative disposition is stated without a general individual trait claim.
+- body/health: neither entry supplies a bodily or health claim; fire is an event setting.
+- social/relationship: Witte names others' obedience and acquaintances in machinery, controlled fire, or military work.
+- events/manifestations: local leadership, a partner's activity, and fire at a place and hour are examples.
+- conflicts/notes: specific occupational and fire examples are not necessary outcomes of every contact.
+
+## Contradictions
+
+Witte's occupational contacts and obedience differ from ABC's partnership and local leadership examples. These describe varied encounters rather than a single rule about who commands whom.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus = Asc`: Others have to obey. Acquaintance with machine personnel, those working with controlled fire or military persons.
-- Practical expression: leader of the people in the environment, efforts of a woman in the environment, fire at the place in the hour, fiery woman as partner, and leading woman as partner.
+In Moon/Zeus = Asc, Asc specifies the pair through direct encounters with creative effort, leadership, or controlled activity. The [Witte entry](#witte-entry) gives obedience and acquaintances working with machinery, controlled fire, or the military; [ABC](#abc-entry) adds leading or fiery partners, local leaders, and a partner's creative disposition (printed p. 196, PDF p. 97). The place-specific fire example remains separate from these interpersonal possibilities and does not establish an inevitable event.
 
 ## Links
 

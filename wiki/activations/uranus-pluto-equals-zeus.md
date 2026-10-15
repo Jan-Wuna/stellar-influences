@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Uranus Pluto Zeus](../triads/uranus-pluto-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Jerking changes with grave consequences. Changes which inevitably bring other ch
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 373; PDF p. 185.
+
 #### ABC Entry
 
-sudden filtration change, surprising goals unfold exciting changes in the state, special exciting developments, great technical developments, restless developments in the state, state reform development, and growing
+Strenuous developments of reform, the beginning of exciting changes, development of technical achievements, new purposeful developments, sudden changes through fire, a sudden change of leadership, surprisingly developing a drive toward a goal.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Abrupt changes with further consequences, directed through reform or technical aims.
+- psychology: A drive toward a goal is stated, without a wider personality account.
+- body/health: No bodily condition is supplied.
+- social/relationship: A sudden change of leadership is ABC's specific social claim.
+- events/manifestations: Reform, technical achievements, purposeful development and changes through fire.
+- conflicts/notes: The seven-clause Zeus row ends before Kronos's state-development paragraph.
+
+## Contradictions
+
+Witte emphasizes consequences that set further changes in motion. ABC adds strenuous reform, purposeful development, technical achievement, fire and leadership change. The prior filtration wording mistranslated Führung, and the appended state material belongs to Kronos; the complete Zeus row has been checked on printed p. 373 (PDF p. 185).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Pluto = Zeus`: Jerking changes with grave consequences. Changes which inevitably bring other changes.
-- Practical expression: sudden filtration change, surprising goals unfold exciting changes in the state, special exciting developments, great technical developments, and restless developments in the state.
+In `Uranus/Pluto = Zeus`, Zeus specifies sudden development through a consequential, purposeful change. [Witte](#witte-entry) emphasizes an abrupt shift that brings further shifts with it. [ABC](#abc-entry) adds strenuous reform, technical achievement and new goal-directed development, while retaining sudden leadership change and change through fire. These concrete examples give the consequential shift a field of action without promising a particular result.
 
 ## Links
 

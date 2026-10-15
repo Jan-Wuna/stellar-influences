@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node Hades Kronos](../triads/node-hades-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ To make common cause with criminals or to avail oneself of criminal assistance. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `227`, one-based PDF p. `112`; exact activating-factor row.
+
 #### ABC Entry
 
-Special disadvantage of a connection, difficult relations of authority, criminal ties with the state, inadequate independence of a Y bond, connections of a state in need, and important relations from the past
+A special disadvantage of a connection, difficult relations with the authorities, criminal ties with the state, inadequate independence of a connection, connections of a state in need, important relationships from the past.
+
+## Comparative Schema
+
+- core meaning: Difficult or compromised connections involving authority, the state, or a plot.
+- psychology: No general personality or motive is established.
+- body/health: No bodily or health condition is supplied.
+- social/relationship: Criminal assistance in Witte; difficult authority relations in ABC.
+- events/manifestations: Participation in a conspiracy, or important connections from the past.
+- conflicts/notes: ABC's inadequate independence and state-in-need examples broaden its authority theme; these examples do not establish guilt.
+
+## Contradictions
+
+Witte emphasizes collusion; ABC also includes a state in need and important past contacts. Those broader contexts should not all be classified as criminal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Kronos`: To make common cause with criminals or to avail oneself of criminal assistance. To partake in a conspiracy or plot.
-- Practical focus: to make common cause with criminals or to avail oneself of criminal assistance; also to partake in a conspiracy or plot.
+Kronos specifies Node/Hades through a connection with authority or organized assistance under difficult conditions. The [Witte entry](#witte-entry) focuses on criminal assistance and participation in a plot. The [ABC entry](#abc-entry) also describes difficult authority relations, state connections in need, and important contacts from the past. This broader range preserves the criminal examples without making them a judgment on every official connection.
 
 ## Links
 

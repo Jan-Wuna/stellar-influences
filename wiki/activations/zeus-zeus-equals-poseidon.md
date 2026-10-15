@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Zeus/Zeus](../axes/zeus-zeus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) and its [source entry](#witte-entry).
+
 ## Source Entries
 
 #### Witte Entry
 
-First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials. Mighty creations. Machine power. Mighty controlled and adjusted power. Horsepower. Natural forces. The force of external circumstances. Great wars. Loaded with an urge to be active. All forces are directed to one point. Mighty directed forces. Extraordinary eruptions or explosions. Organized or controlled forces. Electrical energies. Creative mentality. Disposed or minded to. The conviction, the formal proof, the evidence. The certificate or report of a test. Mental leadership. Mental compulsion. Mental work and creation. To be a witness. To attest or to testify. To lead. To prove. To verify. Purposeful education.
+Source reference: *Rules for Planetary Pictures*, `Zeus + Zeus`, Poseidon row, PDF page 288 (one-based; visually checked).
+
+Creative mentality. Disposed or minded to. The conviction, the formal proof, the evidence. The certificate or report of a test. Mental leadership. Mental compulsion. Mental work and creation. To be a witness. To attest or to testify. To lead. To prove. To verify. Purposeful education.
+
+## Comparative Schema
+
+- Core meaning: Creative activity takes the form of mental work, purposeful education, leadership, and establishing or attesting evidence.
+- Psychology: Creative mentality and conviction appear alongside mental compulsion; the source does not equate conviction with a proven claim.
+- Body/health: No bodily or medical interpretation is supplied.
+- Social/relationship: Leadership, education, witnessing, and testimony connect mental activity to other people; compulsion is also explicitly retained.
+- Events/manifestations: Producing a test report or certificate, proving, verifying, attesting, testifying, and purposeful education are listed.
+- Conflicts/notes: The original ingest merged the preceding Admetos and Vulcanus rows into this entry. The scan establishes the Poseidon boundary at creative mentality; only that row is retained here.
+
+## Contradictions
+
+The entry contains both mental leadership and mental compulsion without resolving their relationship. These are distinct emphases within one source, not evidence of disagreement between sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Zeus = Poseidon`: First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials. Mighty creations. Machine power. Mighty controlled and adjusted power. Horsepower. Natural forces. The force of external circumstances. Great wars. Loaded with an urge to be active. All forces are directed to one point. Mighty directed forces. Extraordinary eruptions or explosions. Organized or controlled forces. Electrical energies. Creative mentality. Disposed or minded to. The conviction, the formal proof, the evidence. The certificate or report of a test. Mental leadership. Mental compulsion. Mental work and creation. To be a witness. To attest or to testify. To lead. To prove. To verify. Purposeful education.
+In `Zeus/Zeus = Poseidon`, Poseidon specifies directed creation through mental work that leads, teaches, proves, or attests. The [Witte entry](#witte-entry) connects creative mentality with practical forms of evidence: a test report, a certificate, verification, and testimony. Read together, these terms describe bringing an idea into an expressed, demonstrated, or taught form.
+
+The [pair summary](../axes/zeus-zeus.md#pair-summary) supplies the base theme of purposeful activity and leadership. This exact row retains mental compulsion as well as education, so its scope includes pressure in intellectual leadership. A listed conviction is not itself evidence that a person's beliefs are correct.
 
 ## Links
 

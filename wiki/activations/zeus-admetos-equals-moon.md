@@ -20,12 +20,13 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Formula: `Zeus/Admetos = Moon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `£/¦ = R`
 - Axis page: [Zeus/Admetos](../axes/zeus-admetos.md)
 - Triad hub: [Moon Zeus Admetos](../triads/moon-zeus-admetos.md)
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 293 (one-based).
+
 Persons, the public or women who face new problems or surroundings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exhaustive efforts of a woman, beginning depression of a woman, blocked leadership of a people, consolidated leadership of a Y olke, profound efforts of a people, performance restriction of a woman, and resistance to women's leadership
+- Source page: 454; PDF page: 226 (one-based spread).
+
+Sustained efforts by a woman, beginning depressions of a woman, blocked leadership of a people, consolidated leadership of a people, thorough efforts of a people, restricted performance of a woman, and resistance to women's leadership.
+
+Translation checked against the German scan: printed p. 454 (PDF p. 226).
+
+## Comparative Schema
+
+- Core meaning: People or the public encounter unfamiliar problems and surroundings.
+- Psychology: ABC adds depression and sustained effort in its explicitly gendered examples.
+- Body/health: No bodily condition is given; the depression wording is a historical source association.
+- Social/relationship: The public, a people, and women are named, including blocked or consolidated public leadership.
+- Events/manifestations: Facing new surroundings, collective effort, and resistance to women's leadership.
+- Conflicts/notes: The source's gendered examples do not establish traits of all women or a necessary public outcome.
+
+## Contradictions
+
+The scan verifies 'Volkes' (of a people) and sustained effort. The gendered associations are retained as source-specific examples rather than universal claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Admetos = Moon`: Persons, the public or women who face new problems or surroundings.
-- Practical expression: exhaustive efforts of a woman, beginning depression of a woman, blocked leadership of a people, consolidated leadership of a Y olke, and profound efforts of a people.
+In `Zeus/Admetos = Moon`, Moon specifies the difficult new situation through people, the public, or the source's examples involving women. What has changed must be met with persistent effort, and collective leadership may either become consolidated or face obstruction. The reading concerns adaptation to new problems and surroundings; its gendered and depression language remains attributed to these historical entries. ([Witte Entry](#witte-entry), PDF p. 293; [ABC Entry](#abc-entry), printed p. 454, PDF p. 226.)
 
 ## Links
 

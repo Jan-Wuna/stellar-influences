@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Hades Kronos`
 - Astronomicon triad-set: `S ¢ ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Kronos = Sun](../activations/hades-kronos-equals-sun.md)
-- [Sun/Hades = Kronos](../activations/sun-hades-equals-kronos.md)
-- [Sun/Kronos = Hades](../activations/sun-kronos-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Kronos = Sun](../activations/hades-kronos-equals-sun.md) | [Hades/Kronos](../axes/hades-kronos.md) | [Sun](../factors/sun.md) |
+| [Sun/Hades = Kronos](../activations/sun-hades-equals-kronos.md) | [Sun/Hades](../axes/sun-hades.md) | [Kronos](../factors/kronos.md) |
+| [Sun/Kronos = Hades](../activations/sun-kronos-equals-hades.md) | [Sun/Kronos](../axes/sun-kronos.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Hades/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `440`
-- `Sun/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `161`
-- `Sun/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
-- `Sun/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `165`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Kronos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-kronos-equals-sun.md#witte-entry), one-based PDF entry-start p. `279`.
+- `Hades/Kronos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-kronos-equals-sun.md#abc-entry), printed p. `440`.
+- `Sun/Hades = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-kronos.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-kronos.md#abc-entry), printed p. `161`.
+- `Sun/Kronos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-kronos-equals-hades.md#witte-entry), one-based PDF entry-start p. `114`.
+- `Sun/Kronos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-kronos-equals-hades.md#abc-entry), printed p. `165`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Sun`: a run of bad luck, vile treatment, broken official promises, and grave events that press misfortune or death onto the person's path.
-- `Sun/Hades = Kronos`: This formula emphasizes a bad superior and bad conditions in government or in the office.
-- `Sun/Kronos = Hades`: This formula emphasizes the inspector and poor government.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

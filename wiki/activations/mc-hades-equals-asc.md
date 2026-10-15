@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [Asc MC Hades](../triads/asc-mc-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Saddened by the attitude of the environment. To share other peoples worries and 
 
 #### ABC Entry
 
-My partner, my secret partner, my environmental service, my distress with the partner, minute of danger in the place, and mental distress with the partner
+- Source passage: `Meridian + Hades`; printed p. `86`; one-based PDF page `42` (complete oriented row checked against the raw scan).
+
+Old soul of the other, I am deprived of the partner, endangered partner-soul, my secret partner, my partner from the past, my service to the surroundings, my distress with the partner, minute of danger at the place, sorrow of the soul with the partner.
+
+## Comparative Schema
+
+- **Core meaning:** Sorrow experienced through others and one's environment.
+- **Psychology:** Being saddened by others' attitudes and sharing worries are explicit.
+- **Body/health:** No bodily or medical association is established.
+- **Social/relationship:** Trouble with a partner and a secret partner are named.
+- **Events/manifestations:** Environmental service and danger at a place are source possibilities, not a timing rule.
+- **Conflicts/notes:** ABC distinguishes absence, endangered partner-soul, a secret partner and a partner from the past; old-soul and danger-minute language establishes neither personal history nor a timing rule.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Asc` brings the axis into immediate relation with other people's troubles.
-- Chart expression: being saddened by the environment, sharing the worries of others, and carrying grief through close contact with the world's burdens.
+Asc specifies `MC/Hades` through sharing the worries and sorrows of others. Distress within one's surroundings joins ABC's trouble with a partner and service to the environment; these entries describe burdens in close contact, without defining empathy as an inevitable personality trait. ([Witte Entry](#witte-entry), PDF p. 71, entry start; [ABC Entry](#abc-entry), printed p. 86.)
 
 ## Links
 

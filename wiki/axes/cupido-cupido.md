@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Cupido/Cupido`
 - Astronomicon axis: `¡/¡`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Family. Sociability. Societies. Associations. Collections. Art. Marriage. The group. Public limited company. Community efforts.
+
+## Comparative Schema
+
+- Core meaning: Family, marriage, association, and communal effort are the organizing themes ([Pair Summary](#pair-summary)).
+- Psychology: Sociability is named without a further account of individual motives or temperament.
+- Body/health: The summary contains no bodily or health claim.
+- Social/relationship: Family, marriage, societies, and the group are explicit forms of connection.
+- Events/manifestations: Art, collections, a public limited company, and community efforts extend the range beyond personal relationships.
+- Conflicts/notes: The repeated-factor identity remains `Cupido/Cupido`; the entry does not state that repetition intensifies its meanings. Supplied PDF p. 265 is a chapter-start locator only.
 
 ## Related Activations
 
@@ -81,8 +92,9 @@ Family. Sociability. Societies. Associations. Collections. Art. Marriage. The gr
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Cupido` is the pure doubling of the Cupido principle: family, marriage, association, art, group belonging, and communal effort intensified into the group-unit itself.
-- Chart expression: family systems, partnership as institution, clubs, companies, artistic circles, and the social fabric that binds people into a collective. Liabilities: clannishness, conformity, social insularity, and identity becoming overbound to family or group expectations.
+`Cupido/Cupido` centers on people and things brought into association. Family and marriage describe personal bonds; societies, a public limited company, and community efforts describe organized collective life. Art and collections are also explicit parts of the entry's range ([Pair Summary](#pair-summary)).
+
+The common theme is association and sociability. The repeated factor names identify this source entry; the summary does not give an additional rule about intensity.
 
 ## Links
 

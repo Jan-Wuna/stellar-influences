@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Node`
 - Astronomicon formula: `VP/Z = g`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -44,11 +46,23 @@ General changes or transformations in the general public will result in new conn
 
 Developing public relations, developing public contacts, changing public relations, and growing public encounters
 
+## Comparative Schema
+
+- Core meaning: Public development expressed through new or changing connections.
+- Psychology: No specific inner state or personality description is supplied.
+- Body/health: Neither entry supplies a medical or bodily meaning.
+- Social/relationship: Contacts, relations, and encounters in public life are central.
+- Events/manifestations: New connections, developing contacts, and changing public relations are named.
+- Conflicts/notes: "Public relations" is broader here than a modern communications profession; the entries also name contacts and encounters.
+
+## Contradictions
+
+The entries share the theme of changing connections. Neither explicitly opposes the other or establishes the professional meaning of every public relation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Node`: general changes or transformations in the general public will result in new connections.
-- Practical expression: developing public relations, developing public contacts, changing public relations, and growing public encounters.
+In `Vernal Point/Pluto = Node`, Node specifies public development through the connections it creates or changes. The [Witte entry](#witte-entry) links general transformation with new connections; the [ABC entry](#abc-entry) describes developing contacts, changing relations, and growing encounters in public life. The formula therefore concerns development of public connections, without restricting those connections to a particular profession or intimate relationship.
 
 ## Links
 

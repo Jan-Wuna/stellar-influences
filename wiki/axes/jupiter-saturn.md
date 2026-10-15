@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Saturn
 factor_a: Jupiter
 factor_b: Saturn
 related_activations:
+  - Jupiter/Saturn = Jupiter
+  - Jupiter/Saturn = Saturn
   - Jupiter/Saturn = Admetos
   - Jupiter/Saturn = Apollon
   - Jupiter/Saturn = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/SATURN`
-- Source page: `255`
+- Source heading: `JUPITER + SATURN`
+- PDF page: `207`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ updated_at: 2026-06-20
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `324`; PDF page: `161` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Freud and Leid, money loss, Konzentrations Achievements, legal problems, Schmr:1:ens Money, and Advantage by Ceduld
+German pair summary (transcribed from printed page `324`; PDF page `161`):
+
+> Erfolgs-Störungen, erfolgreiche Trennung, Freud und Leid, Geld-Verluste, Gewinn und Verlust, Glück im Alter, Konzentrations-Erfolge, Rechts-Probleme, Schmerzens-Geld, Vorteil durch Geduld
+
+Editorial translation from the German passage: Disruptions of success, successful separation, joy and sorrow, monetary losses, gain and loss, happiness in old age, success through concentration, legal problems, compensation for pain and suffering, advantage through patience.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -240,14 +250,17 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** Growth organized by patience, discipline, and realistic limits, with frustration when expansion and restraint fail to work together ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Hand](#robert-hand---horoscope-symbols)).
+- **Psychology:** Perseverance, duty, and long views coexist with inhibition, pessimism, irritability, or swings in confidence. Moral judgment concerns how principles are applied in one's own life.
+- **Body/health:** Ebertin's disease and organ correspondences, Munkasey's joint/metabolic claims, and Carter's suicide anecdotes remain attributed historical assertions. They do not establish illness or individual risk.
+- **Social/relationship:** Serious commitments, administrative responsibility, judicious help, and realistic assessment of a partner are constructive themes; rigidity over beliefs is a difficult alternative.
+- **Events/manifestations:** Steady achievement, business or administrative work, delayed or changing success, moves, and contentment in seclusion or separation are explicit possibilities. Carter keeps his aspect conditions separate.
+- **Conflicts/notes:** Separation can be happy or painful, and limitation can support or inhibit growth. ABC includes joy and sorrow, gain and loss, success through concentration, legal problems, compensation for pain and suffering, and advantage through patience; it supplies no particular legal case.
 
 ## Related Activations
+
+- [Jupiter/Saturn = Jupiter](../activations/jupiter-saturn-equals-jupiter.md)
+- [Jupiter/Saturn = Saturn](../activations/jupiter-saturn-equals-saturn.md)
 
 - [Jupiter/Saturn = Admetos](../activations/jupiter-saturn-equals-admetos.md)
 - [Jupiter/Saturn = Apollon](../activations/jupiter-saturn-equals-apollon.md)
@@ -273,15 +286,14 @@ Inflammation of the joints; calcium deposits in the liver or hip joints; fluid o
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Witte emphasizes changing success and separation; Ebertin, Sandbach, and Hand explain patient growth as well as frustration. Carter's favorable, conjunction, and difficult-aspect accounts are conditional and must not be flattened into a single prediction. His historical medical and familial judgments remain his assertions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn` is the axis of disciplined growth, patient expansion, realism, moral judgment, and constructive achievement. It brings Jupiter's breadth and aspiration into Saturn's form, restraint, timing, and responsibility.
-- Chart expression: steadiness, perseverance, long-range planning, administrative or business competence, seriousness of purpose, and the ability to build something lasting through effort and self-control. Its tension is equally central: optimism versus pessimism, expansion versus inhibition, freedom versus duty, and the feeling that progress comes only through delay, pressure, or repeated tests.
+Jupiter/Saturn concerns making growth sustainable through patience, organization, and attention to limits. Ambition and optimism can work with discipline to produce steady achievement, a long view, and realistic use of time and resources. Its moral strand asks how one's judgments about what is right become a workable way of living ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Munkasey, printed p. 255](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+
+The tension is that restraint can become inhibition, while eagerness can outrun organization. The entries therefore include frustration, changing confidence, delayed or unstable success, and the effort required to keep going. Seclusion or separation can also bring contentment rather than only loss. Constructive growth and disappointment remain distinct possibilities, with Carter's aspect-specific qualifications preserved in his entry ([Hand](#robert-hand---horoscope-symbols); [Carter](#charles-carter---the-astrological-aspects); [Banzhaf/Haebler, PDF p. 326](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Apollon/Poseidon = Uranus`
+- [Read the interpretation](#derived-synthesis).
 - Astronomicon formula: `¥/¨ = X`
 - Axis page: [Apollon/Poseidon](../axes/apollon-poseidon.md)
 - Triad hub: [Uranus Apollon Poseidon](../triads/uranus-apollon-poseidon.md)
@@ -38,16 +39,31 @@ updated_at: 2026-05-04
 
 Surprisingly connected with congenial persons. To have a prophetic disposition.
 
+Source locator: one-based PDF p. 308, entry start; printed page not established here.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 Exciting cultural dissemination, success through mental tension, successful cultural event, clear technical successes, new spiritual impulses, sudden spiritual experience, reform of mind science, and surprising cultural success
 
+## Comparative Schema
+
+- Core meaning: Unexpected congenial connection and sudden intellectual or cultural impulses ([Witte](#witte-entry), [ABC](#abc-entry)).
+- Psychology: Witte calls the disposition prophetic; ABC names mental tension and sudden spiritual experience.
+- Body/health: Neither entry supplies a bodily or health claim.
+- Social/relationship: A surprising connection with congenial persons ([Witte](#witte-entry)).
+- Events/manifestations: Cultural events and dissemination, technical success, and reform of spiritual or intellectual study ([ABC](#abc-entry)).
+- Conflicts/notes: “Prophetic” remains Witte's characterization, not verified predictive ability. ABC locator: printed p. 473, PDF p. 235, exact parser-normalized entry.
+
+## Contradictions
+
+No direct contradiction is evident. The entries share surprise and new impulses; neither asserts that sudden insight must be unstable or irresponsible.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Uranus`: sudden recognition among like minds, inspired networks, and unconventional or prophetic mental disposition. Main caution: unstable inspiration: insight and connection may arrive too abruptly to become coherent, steady, or responsibly integrated.
+In `Apollon/Poseidon = Uranus`, Uranus specifies the pair through surprise: congenial people connect unexpectedly, and new spiritual impulses or sudden experiences accompany cultural and technical success. Witte's “prophetic disposition” adds a particular characterization of outlook, while ABC extends the theme to exciting cultural dissemination and reform of spiritual or intellectual study. Abruptness is explicit; a necessary failure to integrate it is not ([Witte](#witte-entry), PDF p. 308; [ABC](#abc-entry), printed p. 473).
 
 ## Links
 

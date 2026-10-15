@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Admetos`
 - Astronomicon formula: `V/W = ¦`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 United with a few in restful solitude in crowded limited space.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Depression through separation from happiness, limiting legal problems, strengthening of the happiness in old age, stort money circle, grilndlich concentration on success, grilndlich legal problems, and lossful success blockade
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Depression through separation from happiness, restricting legal problems, consolidation of happiness in old age, disturbed circulation of money, thorough concentration on success, thorough legal problems, and a loss-laden blockage of success.
+
+## Comparative Schema
+
+- Core meaning: Limited space and a small circle define the clearest manifestation ([Witte Entry](#witte-entry)).
+- Psychology: Restful solitude contrasts with ABC's attributed depression and blocked happiness; thorough concentration and consolidated happiness in old age are favorable alternatives.
+- Body/health: “Depression” is ABC's historical wording, not a diagnosis established here.
+- Social/relationship: Being united with a few is explicit, rather than complete isolation.
+- Events/manifestations: Restricted legal circumstances, disturbed money circulation and success blockages occur beside consolidated happiness in old age in the [ABC Entry](#abc-entry).
+- Conflicts/notes: ABC's gründliche Rechts-Probleme is retained literally as thorough legal problems; its precise force is not explained. Raw inspection resolves the former money-circulation and thoroughness transcription errors.
+
+## Contradictions
+
+Restful seclusion and distress under restriction are contrasting possibilities; the entries do not establish that confinement is always welcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Admetos`: mature growth happening under compression rather than breadth. It favors patience in seclusion, but can also describe success or contentment restricted to a tight, enclosed setting.
+In `Jupiter/Saturn = Admetos`, Admetos specifies the pair's limitation as a narrowed setting: the [Witte Entry](#witte-entry) describes a few people together in restful solitude and crowded space. The [ABC Entry](#abc-entry) adds legal restrictions, disturbed money circulation, blocked success and distress separated from happiness, but also thorough concentration and happiness becoming consolidated in old age. The common thread is life concentrated within limits, which may support quiet companionship and settled satisfaction or feel oppressive.
 
 ## Links
 

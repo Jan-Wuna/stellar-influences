@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Zeus/Zeus](../axes/zeus-zeus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 #### Witte Entry
 
-Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking that aims at something. Creative inventions. An order that was obeyed. Single minded thinking. To issue decrees or laws. To pass sentence.
+- PDF page: 287 (one-based), Mars glyph row.
+
+To heat, to fire, to burn. Shooting flames. Danger of fire. Incentive creative work, or forced creative work. Creative activity. Leading activity. Procreation. Engineering. Machines. Military engineering. Officers. To handle firearms. To act goal-oriented. An act followed by consequences. Fires, conflagrations. Directed activity. The urge for deeds. Ignition of a rocket.
+
+## Comparative Schema
+
+- core meaning: Directed activity puts creative energy into consequential action.
+- psychology: An urge for deeds and purposeful work, whether motivated or forced.
+- body/health: Procreation remains an attributed source example, without a medical account.
+- social/relationship: Leadership, officers and military engineering.
+- events/manifestations: Engineering, machines, firearms, heating, fire and rocket ignition.
+- conflicts/notes: The productive and hazardous examples coexist; activity alone does not establish an accident.
+
+## Contradictions
+
+The baseline creative-thinking and decrees paragraph belongs to Mercury. The Mars glyph row concerns directed action, machinery, fire and consequential deeds. It retains both motivated and forced creative work, so purposefulness does not establish voluntary action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Zeus = Mars`: Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking that aims at something. Creative inventions. An order that was obeyed. Single minded thinking. To issue decrees or laws. To pass sentence.
+In `Zeus/Zeus = Mars`, Mars specifies the repeated Zeus pair through directed activity that produces consequences. The corrected [Witte entry](#witte-entry) connects creative work and the urge for deeds with engineering, machinery and leadership, while also naming fire, firearms and rocket ignition. Power is described in the act of being put to work.
+
+Forced work and fire hazards remain alongside productive activity. The entry does not establish consent, a particular accident or a reproductive outcome.
 
 ## Links
 

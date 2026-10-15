@@ -1,0 +1,118 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Eight new081 Uranus/MC reviews: Hades,Kronos,Poseidon,Vernal Point,MC,Uranus,Vulcanus,Zeus. Five ABC prose repairs; one preserved ABC entry(Vulcanus); two preserved sole Munkasey repeated-factor entries. All Witte prose preserved.",
+  "actual_source_inspection": [
+    "Actual ABC38 printed78–79 and Witte67 matching six glyph-owned rows personally inspected.",
+    "Zeus nine clauses recover feurige Seelen-Impulse and ich erzeuge Nervosität. Vernal Point six recover opening exciting minute and personal public rhythm.",
+    "Kronos nine restore technical authority/independent rhythm. Hades eight restore distressed soul; Poseidon ten restore surprising truth, not wisdom.",
+    "MC/Uranus Munkasey printed326 excerpts preserved against baseline and matching evidence; no new raw-scan inspection claimed for unchanged sole-source excerpts."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-hades.md",
+      "old_abc": "Exciting danger minute, excitement of a quirky soul, dangerous tensions of the psyche, my sudden disadvantage, my surprising renunciation, my troubled past, my hidden tensions, and my renunciation of the technique",
+      "new_abc": "An exciting minute of danger, agitation of a distressed soul, dangerous tensions of the psyche, my sudden disadvantage, my surprising renunciation, my restless past, my hidden tensions, my renunciation of technology.",
+      "printed_page": 79,
+      "finding": "Eight clauses verified; bekümmerten Seele=distressed soul rather than quirky soul; no eccentricity claim."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-kronos.md",
+      "old_abc": "With me the technique dominates, especially exciting minute, great emotional arousal, I at the a technical authoritat, inner unrest in the state, my special nervousness, my great tension, my selfish rhythm, and important soul impulses",
+      "new_abc": "Technology dominates with me, an especially exciting minute, great emotional arousal, I am a technical authority, inner unrest in the state, my special nervousness, my great tension, my independent rhythm, important soul impulses.",
+      "printed_page": 79,
+      "finding": "Nine clauses verified; technical authority and independent rhythm restored, not selfish rhythm."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-poseidon.md",
+      "old_abc": "Exciting minute of truth, dynamic spirit soul, culture impulses firr the soul, my dynamic spirit, my spiritual tension, my new ideas, my culture impulses, my sudden clarity, my surprising wisdom, and restlessness firr soul and spirit",
+      "new_abc": "An exciting minute of truth, a dynamic mind-soul, cultural impulses for the soul, my dynamic mind, my intellectual or spiritual tension, my new ideas, my cultural impulses, my sudden clarity, my surprising truth, unrest for soul and mind.",
+      "printed_page": 79,
+      "finding": "Ten clauses verified; Wahrheit=truth not wisdom; für/soul-mind fragments repaired, geistig mental/spiritual range retained."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-vernal-point.md",
+      "old_abc": "my nervousness in the public life, soul impulse in the public life, psychically excited public, and mental tensions in the public",
+      "new_abc": "An exciting minute in public, my nervousness in public life, my rhythm in public, soul impulses in public life, an emotionally excited public, emotional tensions in public.",
+      "printed_page": 78,
+      "finding": "All six clauses restored including omitted opening exciting-minute and personal-public-rhythm clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mc.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Munkasey With Itself printed326 source preserved and compared with matching evidence; no independent source corroboration asserted."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-uranus.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Munkasey With Itself printed326 source preserved and compared with matching evidence; no separate third-factor doctrine inferred."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-vulcanus.md",
+      "old_abc": "Dynamic force of the soul, influence of a dynamic soul, influence by psychic impulses, enormous psychic tensions, powerful psychic arousal, my enormous restlessness, new psychic energy, and strong emotional restlessness",
+      "new_abc": "Dynamic force of the soul, influence of a dynamic soul, influence by psychic impulses, enormous psychic tensions, powerful psychic arousal, my enormous restlessness, new psychic energy, and strong emotional restlessness",
+      "printed_page": 79,
+      "finding": "All eight ABC and Witte67 clauses personally verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-zeus.md",
+      "old_abc": "Beginning of emotional tensions, dynamic creative soul, my strenuous rhythm us, my dynamic goal, my technical achievements, minute of exciting efforts, and creating emotional impulses",
+      "new_abc": "Beginning emotional tensions, a dynamic creative soul, fiery soul impulses, I generate nervousness, my strenuous rhythm, my dynamic goal-setting, my technical achievements, a minute of exciting efforts, generating emotional impulses.",
+      "printed_page": 79,
+      "finding": "Nine full clauses restored, including omitted fiery soul impulses and I generate nervousness; rhythm and goal-setting repaired."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-hades.md",
+      "sha256": "a5e20d43e70a1f771305808e6a59d1e4e7cf943ab8398b21e5fe4a89f5d811bf",
+      "source_section_sha256": "923ddd1b6dc196986066b97eae166fb7ea2e26c58269842dd99191ed7a540093",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-kronos.md",
+      "sha256": "e1f377aa4af1fea6b5e76c71d80531600cb77c420589254135e3f6a7cba4ff76",
+      "source_section_sha256": "0beb7f3171fbef9df768d423b79eb70cbc32344b5db4303de0cb33f05a13c2d9",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-poseidon.md",
+      "sha256": "b2f47c72340629cf6484a49923ffa34ca150e8962fdf9b9a749214ed75e88461",
+      "source_section_sha256": "e6a3b0f7faaf4422cf57facf52873b7431f0fc2f3de5da852aa31f58957334f4",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-vernal-point.md",
+      "sha256": "666a79113c081f45dcc09ba0228dd932776f92c09b5e4109ce268b913e2b2090",
+      "source_section_sha256": "9b97520d5f868153bfd52c52f8ea19cbcfd93078be7acbdd9e828dede8a896d3",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mc.md",
+      "sha256": "b01e942a34e51605c6256768bfa94d12f5e53f484b1c25459ff97b2d920846f5",
+      "source_section_sha256": "ee885aa6ffa440afd8c5b058ff0c992fbeaf81c9ed1045a867b4620c926d9689",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-uranus.md",
+      "sha256": "e625c47c9d91f667901661ec176a4fd3715346f60c1eb4f0f5dab61c542af56f",
+      "source_section_sha256": "028cc495a0264f827f68ffe7d87dc9abfd9e0cecff17fd0bf8eba3e9a337d093",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-vulcanus.md",
+      "sha256": "ff4c5717c0a5be7778e068757d661fa06d7e9f766e371f6ad4318aeb90da72ec",
+      "source_section_sha256": "29b46e5d520d2c2653d62e711c1c67d2c32d69829e3a98073a3df12790a8a236",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-zeus.md",
+      "sha256": "4e00ad6b64d6336d06d22f88e106545891aeb2eaf35b5b11e4deb033d4aa7114",
+      "source_section_sha256": "8809c711109ea2dede79648ca3221847d3bcab417c3e9fd95943cb7b7e16fbed",
+      "outcome": "changed"
+    }
+  ]
+}

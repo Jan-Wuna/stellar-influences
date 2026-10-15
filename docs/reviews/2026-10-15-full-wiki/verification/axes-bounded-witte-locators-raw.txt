@@ -1,0 +1,52 @@
+Bounded exact pair-summary matches read from immutable Witte PDF. Whitespace folded only; no printed folio inferred.
+
+mercury-mc; actual PDF62; MERIDIAN + MERCURY
+One’s own observation. One’s own thinking. To meditate. Monologues. Self-talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
+
+mercury-neptune; actual PDF164; MERCURY + NEPTUNE
+Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
+
+mercury-node; actual PDF141; NODES + MERCURY
+Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
+
+mercury-pluto; actual PDF165; MERCURY + PLUTO
+The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
+
+mercury-saturn; actual PDF162; MERCURY + SATURN
+Logic. Philosophical thinking. Competence to form an opinion, to pass judgement. Thoughts of separation. Parting to travel. To ponder. Deliberation. Impaired thinking. Serious conversations.
+
+moon-jupiter; actual PDF125; MOON + JUPITER
+Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
+
+moon-mc; actual PDF60; MERIDIAN + MOON
+The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
+
+moon-mercury; actual PDF122; MOON + MERCURY
+Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
+
+moon-venus; actual PDF123; MOON + VENUS
+The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
+
+neptune-asc; actual PDF89; ASCENDANT + NEPTUNE
+To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.
+
+neptune-mc; actual PDF68; MERIDIAN + NEPTUNE
+To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
+
+node-mc; actual PDF61; MERIDIAN + NODES
+Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+
+pluto-asc; actual PDF90; ASCENDANT + PLUTO
+Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
+
+saturn-asc; actual PDF87; ASCENDANT + SATURN
+Estrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.
+
+saturn-mc; actual PDF66; MERIDIAN + SATURN
+To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
+
+saturn-neptune; actual PDF222; SATURN + NEPTUNE
+Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
+
+saturn-node; actual PDF145; NODES + SATURN
+Breaking off of connections or other relationships. Difficulties in relationships or with contacts. To participate in separations. End of a connection. Long-term and serious connections. Separations.

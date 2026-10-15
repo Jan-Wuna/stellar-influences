@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Hades](../triads/saturn-neptune-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: printed p. 226; PDF p. 222.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Intestinal complaints. Cancer disease. Typhoid epidemic. Pestilence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.
+
 #### ABC Entry
 
-Dissolving of past stresses, finesse and patience in danger, dangerous concentration weakness, grief caused by unknown pain, disadvantages caused by creeping losses, dirt water problems, and insecurity caused by criminal burdens
+Dissolution of past burdens, sensitivity and patience in danger, dangerous weakness of concentration, grief through unknown pains, disadvantages through creeping losses, dirty-water problems, and insecurity through criminal burdens.
+
+## Comparative Schema
+
+- core meaning: unknown pain, lingering losses, and hidden or past burdens.
+- psychology: grief, insecurity, weak concentration, sensitivity, and patience in danger.
+- body/health: Witte's intestinal complaints, cancer, typhoid, and pestilence remain historical claims; ABC names unknown pains and dirty-water problems.
+- social/relationship: ABC names criminal burdens without specifying an interpersonal role.
+- events/manifestations: gradual losses, disadvantages, and dissolution of past burdens.
+- conflicts/notes: The medical list and ABC's broader burdens remain distinguishable; no illness is inferred as fact.
+
+## Contradictions
+
+- ABC includes dissolution of past burdens alongside ongoing losses and insecurity, without stating that all difficulties end.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Hades`: intestinal complaints, cancer disease, typhoid epidemic.
-- Practical expression: dissolving of past stresses, finesse, patience in danger, dangerous concentration weakness, and grief caused by unknown pain.
+In `Saturn/Neptune = Hades`, Hades specifies the Saturn/Neptune axis through concealed or lingering burdens, unknown pain, and gradual loss. [ABC](#abc-entry) includes sensitivity and patience in danger, difficulty concentrating, dirty-water problems, and insecurity connected with criminal burdens; it also retains dissolution of past burdens. [Witte](#witte-entry) gives a sharply medical historical list—intestinal complaints, cancer, typhoid epidemic, and pestilence. Those named conditions remain Witte's attributions and do not follow as diagnoses or predictions from the formula.
 
 ## Links
 

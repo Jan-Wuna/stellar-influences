@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Jupiter Saturn Vulcanus](../triads/jupiter-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To be careful. To take measures of precaution.
 
 #### ABC Entry
 
-Success through force in old age, successful concentration influence, successful financial influence, joy of power concentration, concentrated right power, problematic moneypower, inhibited right influence, loss of money power, and power loss of money
+Success through strength in old age, successful influence through concentration, successful financial influence, joy over concentration of power, concentrated legal power, problematic money power, inhibited legal influence, money power involving losses, and loss of the power of money.
+
+## Comparative Schema
+
+- core meaning: Precaution in the use of strength, influence and material power.
+- psychology: Carefulness and joy in concentrated power.
+- body/health: No specific bodily or medical claim is supplied.
+- social/relationship: Financial and legal influence may succeed or be restricted.
+- events/manifestations: Success through strength, money-power problems and loss of money's power.
+- conflicts/notes: Witte gives precaution; ABC gives both effective and impaired influence.
+
+## Contradictions
+
+Success and financial impairment are both included in ABC; the text does not establish that concentrated power is always advantageous.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Jupiter`: to be careful, to take measures of precaution.
-- Practical expression: success through force in old age, successful concentration influence, successful financial influence, oy of power concentration, and concentrated right power.
+Jupiter specifies Saturn/Vulcanus through the management of influence and material power. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) emphasizes precaution; the [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) supplies the stakes in financial and legal affairs, where successful concentration exists beside inhibited influence and loss. This supports a careful use of strength while retaining the possibility that money or authority loses its effectiveness.
 
 ## Links
 

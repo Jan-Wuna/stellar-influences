@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Poseidon](../triads/venus-jupiter-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Happiness through mental or spiritual success. Happiness through wisdom, by reas
 
 #### ABC Entry
 
-Joy through peace and culture, joy over right and courage, spiritual happiness through harmony, happiness through harmony and clarity, happiness over spiritual harmony, artificial and cultural success, preference for right clarity, and advantage through truth love
+- Source reference: printed p. 273; one-based PDF p. 135, Venus/Jupiter, Poseidon row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Joy through peace and culture, joy in law and reason, spiritual happiness through harmony, happiness through harmony and clarity, happiness in spiritual harmony, success in art and culture, preference for legal clarity, and advantage through love of truth.
+
+## Comparative Schema
+
+- core meaning: Happiness through wisdom and mental or spiritual success ([Witte](#witte-entry)).
+- psychology: Appreciation of clarity, harmony, and truth ([ABC](#abc-entry)).
+- body/health: Neither entry supplies a bodily or health claim.
+- social/relationship: Peace and cultural harmony are named; a specific partnership event is not ([ABC](#abc-entry)).
+- events/manifestations: Mental or spiritual success and cultural success ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: Recht und Vernunft means law and reason; Kunst- und Kultur-Erfolg means success in art and culture.
+
+## Contradictions
+
+Wisdom, mental or spiritual success, law, reason and clarity are compatible emphases. The short rows do not guarantee a particular legal or cultural outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Jupiter = Poseidon`: happiness through mental or spiritual success.
-- Practical expression: oy through peace, culture, courage, and spiritual happiness through harmony.
+Poseidon specifies Venus/Jupiter as happiness through understanding, wisdom and mental or spiritual success. [Witte](#witte-entry) connects enjoyment with reason and right judgment; the [ABC entry](#abc-entry) adds law and reason, legal clarity, peace, art, culture, harmony and love of truth. These define a range of valued understanding without establishing a particular legal outcome.
 
 ## Links
 

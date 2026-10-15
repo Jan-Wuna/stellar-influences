@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Venus Asc](../triads/mercury-venus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT + MERCURY`
+- Source locator: PDF p. `83` (oriented entry; scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ Exchange of thoughts about love, peace or beauty. To find friendly thinking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Merkur`
+- Source locator: printed p. `106`, PDF p. `52` (entry).
+- Text basis: translation checked against the raw scan on PDF p. `52`; supplied parser-normalized OCR was not itself visually verified.
+
 #### ABC Entry
 
-Description of a gentle environment, talk about artist in the environment, peaceful thoughts in the place, harmonious thinking of the other, dearly Ordiger language partner, love language with the partner, and preference for young partners
+Description of beautiful surroundings, conversations about art in the surrounding area, peaceful local thoughts, harmonious thoughts about the other person, an amiable conversation partner, love conversations with the partner, and a preference for young partners.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `170`, PDF p. `172`, entry `0557` (scan checked).
 
 #### Ebertin Entry
 
 Disclosure of one's feelings to those in one's intimate circle, revealing oneself to others. Interest in art and beauty. Demonstration of love and affection, inclination to talk about love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. `53` (complete Venus entry; chapter starts on p. `52`; scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ Seeking out people who will appreciate one’s ideas. The artist who is searchin
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source locator: printed p. `180`, PDF p. `181` (Venus entry; scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Adds a softness to your speech, and brings a need for using correct manners and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Communication brings affection, appreciation, beauty, or courtesy into relationships.
+- psychology: A wish to have ideas appreciated and an interest in art are described.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Affectionate disclosure, polite speech, artistic community, and a lover who encourages communication are named.
+- events/manifestations: Talking about love, demonstrating affection, and seeking fellow artists are concrete manifestations.
+- conflicts/notes: The preference for young partners belongs to the ABC entry. Dishonesty or excessive smoothing-over is not stated by these passages.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in whether they emphasize affection, art, or manners; no direct contradiction is established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Venus`: tact, artistic or romantic talk, likable self-expression, and connection through beauty, affection, or mutual mental sympathy. Main caution: smoothing over too much: harmony may be preferred to honesty, or love and attraction may become over-talked instead of clearly lived.
+In `Mercury/Asc = Venus`, Venus specifies exchange with others through affection and appreciation: feelings may be disclosed, speech softened by courtesy, and ideas shared with people who value them. Art can provide a setting for this connection, including a community of fellow artists or a relationship that encourages better communication ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), p. 180). [Witte](#witte-entry) names love, peace, and beauty as subjects of the exchange; no need to sacrifice honesty is established.
 
 ## Links
 

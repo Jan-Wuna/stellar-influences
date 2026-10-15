@@ -11,6 +11,8 @@ normalized_axis: Mars/Neptune
 factor_a: Mars
 factor_b: Neptune
 related_activations:
+  - Mars/Neptune = Mars
+  - Mars/Neptune = Neptune
   - Mars/Neptune = Admetos
   - Mars/Neptune = Apollon
   - Mars/Neptune = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/NEPTUNE`
-- Source page: `235`
+- Source heading: `MARS + NEPTUNE`
+- PDF page: `195`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ Rejection. Denial. Destruction. Infection. Failures. Future employment. Causing 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `304`; PDF page: `151` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Work in loose air, Denial work, Dissolvingactivities, IntuitionS••Impulses, metaphysical impulses, unsafe actions, future creating, and will weakness
+German pair summary (transcribed from printed page `304`; PDF page `151`):
+
+> Aktivitäten am/mit Wasser, Arbeit in der Luft, Arbeit verneinen, Auflösungs-Handlungen, Intuitions-Impulse, metaphysische Impulse, unsichere Aktionen, Zukunft-Schaffen, Willens-Schwäche
+
+Editorial translation from the German passage: Activities by or with water, work in the air, rejection of work, acts of dissolution, intuitive impulses, metaphysical impulses, uncertain actions, creating for the future, weakness of will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -230,14 +240,17 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Action shaped by imagination, ideals, sensitivity, or uncertain conditions; the [Pair Summary](#pair-summary) emphasizes insecure work, while the [Process](#process) develops clearer intuitive action.
+- psychology: Devotion, compassionate initiative, and subtle assertion coexist with confusion, avoidance, weak direction, and difficulty translating intention into action.
+- body/health: The source fields associate the pair with muscular weakness, infection, drugs, allergies, and other conditions. These historical claims remain attributed; the pair is not evidence of illness or addiction.
+- social/relationship: Helpfulness and idealistic romance appear beside unclear expectations, deception, or exploitation in [Harmonious Aspects](#harmonious-aspects) and [In Your Relationships](#in-your-relationships).
+- events/manifestations: Artistic performance, dance, music, meditation, spiritual service, covert action, and work involving water or air are supported. Espionage and military scandal are Munkasey's separate institutional examples.
+- conflicts/notes: Inspired or charitable action and ineffective or deceptive action remain distinct possibilities. ABC explicitly names activities by or with water, work in the air, rejection of work, dissolution, intuition and future-oriented creation; the list does not specify a technical or metaphysical mechanism.
 
 ## Related Activations
+
+- [Mars/Neptune = Mars](../activations/mars-neptune-equals-mars.md)
+- [Mars/Neptune = Neptune](../activations/mars-neptune-equals-neptune.md)
 
 - [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
 - [Mars/Neptune = Apollon](../activations/mars-neptune-equals-apollon.md)
@@ -263,15 +276,15 @@ Weakens your overall physical stamina; muscle weakness or atrophy; physical cond
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries preserve a substantial range from helpful, imaginative, or spiritually motivated action to confusion and failed execution. Carter explicitly limits blanket moral condemnation; his aspect-specific judgments do not make deception intrinsic to every expression.
+- ABC's native OCR is also damaged around water/air and intuition wording; these fragments do not extend the interpretation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune` is the axis of diffused or idealized action: energy shaped by imagination, sensitivity, devotion, confusion, sacrifice, or hidden motives. It can describe subtle, inspired, compassionate effort, but also weakened will, unclear direction, and action that leaks away into fantasy, avoidance, or deception.
-- Chart expression: spiritualized effort, artistic or erotic magnetism, covert action, subtle force, and the urge to serve or fight for an ideal. Its difficult side is especially important: frustration, passivity, self-undoing, unclear conflict, exploitation, addiction, infection, exhaustion, or acting without enough clarity, boundaries, or practical force.
+`Mars/Neptune` describes action whose direction is shaped by ideals, imagination, sensitivity, or conditions that are hard to grasp. This can refine effort into compassionate help, spiritual service, artistic performance, or subtle assertion. It can also leave intention without effective execution, as plans dissolve into confusion or activity proceeds under insecure conditions. The [Pair Summary](#pair-summary), [Falis Entry](#falis-entry), and [Pair Delineation](#pair-delineation) retain both sides of this range.
+
+The connecting question is how an imagined or felt purpose becomes an actual deed. The [Process](#process) develops awareness and intuition in action; [Harmonious Aspects](#harmonious-aspects) describes practical helpfulness and controlled feeling, while the other source entries preserve avoidance, deception, and disappointment as difficulties. Romantic inspiration and unclear demands give the same tension a relational form in [In Your Relationships](#in-your-relationships). Historical illness and addiction associations remain attributed source material, not conclusions drawn from the pair alone.
 
 ## Links
 

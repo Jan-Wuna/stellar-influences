@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Mercury`
 - Astronomicon formula: `R/W = T`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Mental depression. Serious thinking (pessimistic) woman. To take leave of women. Conversation in the evening hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Burdening a young woman, reports on the problems of a people, serious women's language, talking about cancellations, opinions of an old woman, hour of evening news, and separation language with the woman
+A young woman's burden, reports about a people's problems, serious conversations among women, discussing disturbances of feeling, an old woman's opinions, an hour of evening news, and conversations about separation with a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0376`.
 
 #### Ebertin Entry
 
 The inclination to ponder or reflect, mediation, prudence and thoughtfulness, sense of duty, conscientious. Thinking of separation, the state of feeling sad, saying good-bye.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Promoting ideas on how to offer better financial or material protection to your 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious reflection and controlled communication about difficult feelings.
+- psychology: prudence, thoughtfulness, duty, sadness, and careful examination of impulses are named.
+- body/health: mental depression is Witte's historical wording; no clinical condition is established.
+- social/relationship: leave-taking, conversations with women, and family protection are examples.
+- events/manifestations: evening news or conversation, practical education, and saying goodbye are stated.
+- conflicts/notes: reflection and emotional control do not guarantee reliable judgment or sparse expression.
 
 ## Contradictions
 
-- None recorded yet.
+The entries connect seriousness with both sadness or separation and practical thoughtfulness. Sandbach's capacity to discuss painful subjects is not negated by Witte's pessimistic example, but neither quality is universal.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Mercury`: reliable intelligence, thoughtful containment, and the ability to verbalize emotional reality without melodrama. Main caution: constricted feeling-thought: worry, pessimism, or inhibition can make expression too burdened or sparse.
+In Moon/Saturn = Mercury, Mercury specifies the pair through serious thought and deliberate emotional communication. [Ebertin](#ebertin-entry) names reflection, prudence, duty, and thoughts of separation; [Sandbach](#sandbach-entry) emphasizes examining impulses and speaking about sensitive or painful subjects. The [Witte entry](#witte-entry) retains pessimistic thinking and evening conversation.
+
+[ABC](#abc-entry) adds discussion of emotional disturbances and separation (printed p. 184, PDF p. 91), while [Munkasey](#munkasey-entry) gives practical education and ideas for protecting family or simplifying emotional life (p. 120). The common thread is measured attention to difficult matters, without equating seriousness with infallible judgment.
 
 ## Links
 

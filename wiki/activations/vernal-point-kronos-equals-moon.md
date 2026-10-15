@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Moon Kronos](../triads/vernal-point-moon-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Independent women. Top officials. Authorities in general. The administrative body. Female manager of a large establishment.
 
@@ -42,13 +46,27 @@ Independent women. Top officials. Authorities in general. The administrative bod
 
 #### ABC Entry
 
-Authoritat of the people in public, dominant woman in public, felicitous authoritat in public life, hierarchic of a people in public, public independence of women, and priority of women in public
+- Source page: 50; PDF page: 24 (one-based spread).
+
+The authority of a people in public, a dominant woman in public, feelingful authority in public life, a people's hierarchy in public, women's public independence, and women's precedence in public
+
+## Comparative Schema
+
+- core meaning: Public authority embodied in administration, a people, or women.
+- psychology: Feelingful authority is the source's emotional qualification.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Independent or leading women and the hierarchy of a people.
+- events/manifestations: Top officials, an administrative body, and management of a large establishment.
+- conflicts/notes: Gendered leadership examples are attributed doctrine; feelingful does not mean fortunate.
+
+## Contradictions
+
+No direct contradiction is established. Individual women and collective administration remain different scales of authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Moon`: independent women, top officials, authorities in general, the administrative body, and female manager of a large establishment.
-- Practical expression: dominant woman in public, and public independence of women.
+In `Vernal Point/Kronos = Moon`, public authority is presented through a people's organization and, in the sources' gendered examples, through women who lead or act independently. The [Witte entry](#witte-entry) names officials, administration, and a woman managing a large establishment. The restored [ABC entry](#abc-entry) adds emotional authority, public independence, and precedence. The synthesis retains both collective authority and personal leadership without treating gender as a universal rule.
 
 ## Links
 

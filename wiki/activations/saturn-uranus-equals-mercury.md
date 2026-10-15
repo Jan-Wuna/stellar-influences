@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Mercury Saturn Uranus](../triads/mercury-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Irritable thinking. Suddenly saying goodbye. Obliged to travel.
 
 #### ABC Entry
 
-Deteriorated movement rhythm, news about new losses, nervous speech cancellations, sudden spatial movements, sudden shocks in youth, lossy traffic disruptions, technical tasks to discuss, and iisurprising speech cancellations
+Disturbed rhythm of movement, news about new losses, nervous speech disturbances, suddenly disturbed movements, sudden disturbances in youth, traffic disturbances involving losses, discussing technical tasks, and surprising speech disturbances.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Educational reforms which break accepted barriers; new ways of communicating rad
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought, speech and movement carry strain or necessary change.
+- psychology: Original structuring of ideas alongside fear of speaking freely and irritability.
+- body/health: Ebertin describes demands on nervous energy; ABC includes nervous speech disturbances.
+- social/relationship: Provocation, resistance and saying goodbye.
+- events/manifestations: Travel, disrupted movement, educational reform and new language.
+- conflicts/notes: Clever integration of old and new ideas does not eliminate communication difficulties.
 
 ## Contradictions
 
-- None recorded yet.
+Inventive thought and inhibited speech are compatible aspects of the entries; no account guarantees clarity or agreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Mercury`: technical intelligence, strategic reform thinking, and the ability to notice where structures no longer function. Main caution: mental strain: overstimulation, rigidity, or argumentative contrariness can weaken clarity and cooperation.
+Mercury specifies Saturn/Uranus through thinking, communication and movement. Ideas may combine traditional and new methods, yet speaking freely can feel risky and provocation can elicit a hard response. The [Sandbach Entry](#sandbach-entry) (PDF p. 88, chapter start only) grounds this mental tension; [Ebertin](#ebertin-entry) (printed p. 247) adds organized resistance and necessary change. [Witte](#witte-entry) (PDF p. 221, entry start) and [ABC](#abc-entry) (printed p. 348; PDF p. 173) retain the concrete possibilities of abrupt farewell, travel and disrupted speech or movement.
 
 ## Links
 

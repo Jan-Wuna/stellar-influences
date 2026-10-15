@@ -1,0 +1,275 @@
+{
+  "scope": "Per-record direct raw Witte matches for metadata-only additions; full unchanged paragraphs, exact section hashes, raw page hashes and normalized offsets. No parser cache or sibling sample used.",
+  "proof": [
+    {
+      "path": "wiki/activations/apollon-apollon-equals-poseidon.md",
+      "before_sha256": "74cad15c5033797543e54b6ab9fb0c204d7416a3a2ff33a6882f40d123ed1984",
+      "after_sha256": "2b5029e0d490c74ab4669a3ad7121913a1918094f753e75161be825e741cd625",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "People with the same mindset. Congenial. Companions of destiny. Fellow sufferers, comrades. Comradeship. Disposition (way of thinking). Spreading of ideas. Insights through experience. People with similar outlook on life. Spiritual science. Humanities. Theological insights.",
+      "entry_sha256": "5469c62a1d18b1225781c7949e3ccdc23b8b6ef765a16c1fed0ebbbd68f53f77",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 2111,
+      "normalized_length": 226,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Poseidon row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-saturn.md",
+      "before_sha256": "47a4c31e9c0924b0a00aeeefe990b558dd8785c35323a025cad188bdb33447e4",
+      "after_sha256": "1d86519990fd692e6be26be747ed661eec27858c07c421f902ab6cbeaf884e96",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "The system. Method. Education. Teacher. Student. Many separate or depart. Separation from many. Teaching procedures. Scientific teaching. Training. Success through patience. Loss of freedom. Problems of science. Serious science. Trade restriction. Limits of expansion.",
+      "entry_sha256": "92feffc029d854e6393cd7d3bc65938f02abd18b0caff352778a0278e70643da",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 2,
+      "normalized_length": 219,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Saturn row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-sun.md",
+      "before_sha256": "ae2c9ce308cfbcdf064a08893b98edf5ba4bfe285f02d49105d4b9c372636d46",
+      "after_sha256": "0934a301bc939f3edf9ab3b3e542348cb1faf6325eb2a586aef436243016343c",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Successes. Fame. Honors. A day of glory. Many people (bodies). Physical expansion and success. The successful man or body. The man who finds recognition. Days devoted to peaceful matters and days which bring success. Daily trade, commerce, business and science. (In the solar cycle: a period which concerns trade).",
+      "entry_sha256": "86edbdd19641e3f89d346d9275c65c68f7f4fc55b8f16b899c6c5bb5f8af6e48",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 804,
+      "normalized_length": 248,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Sun row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-venus.md",
+      "before_sha256": "635aeecf7bfe53fa594e2369f9cddf12691fc302ea60e4bc32c0ce12bc04366d",
+      "after_sha256": "f58aef47e324d555b69395f81fa63e8a398a0e742e499334349f85c44d29305c",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of music. Peace-loving. Expanded harmony. Religiously inclined.",
+      "entry_sha256": "5309eeafc21ab450cd5b9bb28fada384029dd312f1b4e8b713f6ecf285c59e9e",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1558,
+      "normalized_length": 113,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Venus row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-vernal-point.md",
+      "before_sha256": "2c404acb29fa7cff3a5c3c8e135628c285e934fbb4a7606ef2c62dba10031fc3",
+      "after_sha256": "ad07f416fada26cf5af75c0fda08b4b7a801575d678e0c59309f73d00af5dded",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "To spread out. To extend on Earth. Quantities. Commerce. Sciences. Trade. Glory. General recognition, honors, success. General prosperity in commerce, trades and science. The global economy. Freedom and peace in general public. World religions.",
+      "entry_sha256": "b52edf5178040b14576af4d32fc8dd454ebd81536b73873b41825b7f35ce3fb5",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 123,
+      "normalized_length": 196,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Vernal Point row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-vulcanus.md",
+      "before_sha256": "69f726ac728f8d54b6b4fbf950a047f5ccb11db7e984aaa4799f7a2ea1b22283",
+      "after_sha256": "005024423ab2a2f0ff1b27fbb1d4608347340f9db46073d2fcb30321f0494adc",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "Strongest success. Great prosperity. Wealth. Mighty spreading out expansion. Great experience. The science of power. Trading in energy.",
+      "entry_sha256": "1060f57a95398d53d69b347984ebce30fa9c2b40674a5cff90977885f19a51dc",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 1999,
+      "normalized_length": 111,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Vulcanus row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-zeus.md",
+      "before_sha256": "88852d307efc7a37a1f8848c3ba5cae052f2fa5a9337c71095acf0d276c6afcc",
+      "after_sha256": "f22bfc1e6d4a125ab31c531a19b5b968bbbe321fc7a9fbbe9589bde74a3b1229",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "To do research. To experiment. To learn, to study, to collect experience. Natural science. Creative art and science. Modern science. Trials. Practical research. Trade with machines.",
+      "entry_sha256": "dfec824511c2e642566ce0f6299c3ccd6a36b07a02ab2dd23c6db2d19080074a",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 1450,
+      "normalized_length": 145,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Zeus row."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-hades.md",
+      "before_sha256": "7b7818b87758347b3d00f98f357318b4f470f123d0778d7156eef3dfaf6e8c34",
+      "after_sha256": "7faba5e229aafafb59ce419046ae6450960b85f9fe8de1fc49a072cd1c9f6148",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 71,
+      "entry": "To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily offended. Grief through deficiencies causes the feeling of inferiority. Business losses. Pursued by misfortune. Poor profession or wrong goals of life. Profession in waste management. Misguided emotions. Inclined toward serving others. Historian. The attitude towards the past. A bad moment (minute).",
+      "entry_sha256": "8d8768b4c40b1c125d4f19c280360d6e6663b61e426cb1d2a4aa1362a9464ea6",
+      "raw_page_text_sha256": "172015e7fa6fa1acf5db2f52711e1a8a96dce74d8fb9dd120eeff89d6b47bfca",
+      "normalized_start": 13,
+      "normalized_length": 307,
+      "added_metadata": [
+        "- PDF page: `71`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-kronos.md",
+      "before_sha256": "ffbb6b2af456bebd5a2d2c9a400c81d78c51121c5d6d18f3b1cbfd4d1882145e",
+      "after_sha256": "5fad36fe97f24e45c631dcde9c55f8016988d045f5da880ae087ce99c6324b5e",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 73,
+      "entry": "To be independent or outstanding in profession. To direct and accomplish something. Authority. Feeling of self-confident or grandeur. The own authority, greatness and skills. To fill an official position. An independent attitude. To reject the average. Authority bestowed by the state. An outstanding moment (minute).",
+      "entry_sha256": "ae457235f8970e1196906ac9413c171392cb33ffc67f9f3e1887e52dbb978266",
+      "raw_page_text_sha256": "ab3fd2ef55d12e773623092f7a5d45ec8b79cafe2b5425402dfe936540f1f84c",
+      "normalized_start": 16,
+      "normalized_length": 259,
+      "added_metadata": [
+        "- PDF page: `73`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-mc.md",
+      "before_sha256": "bb86418a6c7b26bd22be22d2995367780a794e9d7d51765c034e4d9ffd24c78a",
+      "after_sha256": "4209af1ddabee2c3b0bd33940bdecb650bcf239879c75e892874e25d0ec0f5f2",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 56,
+      "entry": "The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influence. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.",
+      "entry_sha256": "d83bd06c12acb3a8b413560e00c380a2aef059f3d302ffe67793025825a2a0b5",
+      "raw_page_text_sha256": "bb5c6cffbfe28c4b7b8af1a7e6d3c8fc62270dae7007618cff7462a08e4ded19",
+      "normalized_start": 18,
+      "normalized_length": 197,
+      "added_metadata": [
+        "- PDF page: `56`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-poseidon.md",
+      "before_sha256": "58085c443c343c4e18aaef12466b8f27c1840601e2481e1de8db3bd57693b365",
+      "after_sha256": "ed24d42eaf9f6c1afee068f8f7debcf51869fc8ddc15c7d09cb7e60ba15461a0",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 77,
+      "entry": "The divine spark in men. The own intellectual aspiration for knowledge and education. Deep thinker, or seeking to be one. One’s own intellectual knowledge, education or mental skills. One’s own higher self-image or aspiration. To give life to a project or plan. The moment of a large flooding.",
+      "entry_sha256": "3c40b16c59561e2359496a113b12f4e5fb6138a7874cff0773628f5245fe3d5e",
+      "raw_page_text_sha256": "4062502bc5974a86094ea94340f4996030501b7e454b2422d1b0dfd8e8eb3b1a",
+      "normalized_start": 17,
+      "normalized_length": 234,
+      "added_metadata": [
+        "- PDF page: `77`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-vulcanus.md",
+      "before_sha256": "9a3a13458c75ae3cfc44acffba05e5bdc74b027383d46cfb3b0547d9a10bd28f",
+      "after_sha256": "206e2041f7869db528f294cdd0e6a213eb8375a49db54170fa5ed7aac5602731",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 76,
+      "entry": "One’s personal power, might and authority. Emotional attitude to high power. The power and might of one’s own self. The forceful personality. The personal influence. To be conscious of one’s own power. The minute of a volcano eruption.",
+      "entry_sha256": "448cda11f7e88c5ea4b66f4dc9224a4c71f4d2bbb8171aa957ff0474076630e4",
+      "raw_page_text_sha256": "65fc0e270e7a85c96efdfdf84884777d6eeafbf1e09200167fd529e9918eeccb",
+      "normalized_start": 18,
+      "normalized_length": 187,
+      "added_metadata": [
+        "- PDF page: `76`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-zeus.md",
+      "before_sha256": "f7f88aa23f13335a1a229a609a48315a747be4c261ce461b79094c4709bdf712",
+      "after_sha256": "3b408a2f3b3b447ed0a85d0c49464361efb97885ce8cba556e6e77f591b5d542",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 72,
+      "entry": "One’ own creative abilities. Hie thirst for action. The urge to work. Passion for work. The urge to accomplish great feats. Leadership. The want to lead. Being goal- oriented. Consciously controlled energy. The urge to create something. To assert oneself successfully. The moment (minute) of creation or fathering.",
+      "entry_sha256": "08b13301e122cac04945a3bc4ed9cda8a2066234a4affa6b0670971a0fb48a80",
+      "raw_page_text_sha256": "1d660b697c274fe894316312edeed13dbb2d79e9ec9c7f1a995634df197305d4",
+      "normalized_start": 14,
+      "normalized_length": 251,
+      "added_metadata": [
+        "- PDF page: `72`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-admetos.md",
+      "before_sha256": "a5afdc31326af2c746b59412ed29c03b04346e761da72c495bce66b20b157d68",
+      "after_sha256": "0483bb521992adda01d1780d287a3c05b8e9458d6fbf1b868c228f1b799f61fd",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 171,
+      "entry": "Serious or limited thinking. Perseverance in thinking. Profound thinker. Profound concentration of thoughts. Thoughts, news or information of death, grief, standstill, hindrance. Pessimist. End of a motion. Negotiations which are a dead issue. Ponderous, slow and sluggish.",
+      "entry_sha256": "5d630ef956127d71e541e320a95cfd40cd9b38353a18c15c7d0049bef6a79048",
+      "raw_page_text_sha256": "3806ceeab5cbfc6cce24302de2c341c3147f9fb31b37f48c474154015dc88cd6",
+      "normalized_start": 15,
+      "normalized_length": 223,
+      "added_metadata": [
+        "- PDF page: `171`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-apollon.md",
+      "before_sha256": "3d2c55f05c2eb3782aca6e24e3f44b13a6d490c23a1d7b8de3e5675d96b6d645",
+      "after_sha256": "5b42557741fcb430de63e8d1b1b750dbb69ca54ed4078d3c292348eea1190e88",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 170,
+      "entry": "High flight of thought. Scientific thinking. Many talks. Much speaking. Knowledge of languages. Scientific languages. Business talks. Thoughts concentrated on commerce and earnings.",
+      "entry_sha256": "3660d3213b47dd7b2d5e267740bee5eea2906db7d692da5d01bf068810fcdcf5",
+      "raw_page_text_sha256": "b66717116243b871ab68dacb72e89109fa16f0e0f9348c505d5db956a55f3b3a",
+      "normalized_start": 16,
+      "normalized_length": 151,
+      "added_metadata": [
+        "- PDF page: `170`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-cupido.md",
+      "before_sha256": "a948c7662a7a1bc32d2c94570e8e77fcf446abb75763a6868c92c3b3009c93a7",
+      "after_sha256": "346b43930b8d6398f0c69001c4146b85d6c57da7ae9f3554dcc2d3d2e6e8392e",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 166,
+      "entry": "Marriage thoughts. Artistic considerations. Speech. Music. Social conversation. To think of the family. Marriage intentions. Artistic taste. Thoughts or opinions about art.",
+      "entry_sha256": "54b81badedf56e9733e5d18b76f3ab054154749ea63d1710a6364f6e8447143d",
+      "raw_page_text_sha256": "60ece39d07bde28dd7f860b75dccb0794022f60788ed56a7503af675ac5f9e31",
+      "normalized_start": 14,
+      "normalized_length": 142,
+      "added_metadata": [
+        "- PDF page: `166`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-hades.md",
+      "before_sha256": "71d4dc050a0feb8aa67dba2b226421cf953713e4e2888399420eb8f5c0f6ef49",
+      "after_sha256": "fdaa666dc948906db2999fe6bf615ae3ce7f4a4900caf4f331d678579aa5be8e",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 167,
+      "entry": "To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden thoughts. Ugly thinking. Stupid, malicious, drastic way of expression. Old plans, information or conversations. Old movements. The worried mind. Negative dialogues. Bad or sad news.",
+      "entry_sha256": "3f4b6fa99d4ea28dd91edcf85dd775e92a07a53f78f789eb77597af080df513c",
+      "raw_page_text_sha256": "2ce8282eb27c4078f78f19f30c747c0ff2f064490a127708063d7dee49209884",
+      "normalized_start": 12,
+      "normalized_length": 206,
+      "added_metadata": [
+        "- PDF page: `167`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-kronos.md",
+      "before_sha256": "0d7a120405a45e26604e0adfabac11de6a281f5b65752ceb015292e5771c8d0c",
+      "after_sha256": "df3df23b81fb07740593e17a485c65fe44bec71760283677fe17a3e56cee8dbe",
+      "ledger": "axes-010.jsonl",
+      "pdf_page": 169,
+      "entry": "Lofty mental qualities. A noble way of thinking. Honorable thinking. Great thoughts. Main formula for the great spiritual leader. Honesty. The inquiring power of the state. Decrees, orders. Disposals. Great ideas. Official letters. Court decision.",
+      "entry_sha256": "2196c0858c9863f8b5b8e76b5a951a65405bb0a2be4f847cf17b0700c387db67",
+      "raw_page_text_sha256": "8bdaecd67a8ce28df8920bea36d11268f1d46153d4ba17074d8d5f48e29d5600",
+      "normalized_start": 13,
+      "normalized_length": 200,
+      "added_metadata": [
+        "- PDF page: `169`"
+      ]
+    }
+  ]
+}

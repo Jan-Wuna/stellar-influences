@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Z = ¢`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
 - Triad hub: [Vernal Point Pluto Hades](../triads/vernal-point-pluto-hades.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -44,11 +45,23 @@ To be guilty of a failure to act. General decline.
 
 Dangerous developments in public, mysterious changes in public life, criminal developments in public life, poor public growth, and hidden changes in public life
 
+## Comparative Schema
+
+- Core meaning: Public development is described through decline, inadequate growth, and dangerous or concealed change.
+- Psychology: The Witte entry names culpable inaction; it does not establish a general character judgment.
+- Body/health: Neither entry supplies a specific bodily condition or medical interpretation.
+- Social/relationship: Criminal and hidden developments concern public life rather than a specified intimate relationship.
+- Events/manifestations: Failure to act, general decline, and dangerous public changes are the named manifestations.
+- Conflicts/notes: Danger, concealment, criminality, and inadequate growth are distinct possibilities in the entries, not evidence that every concealed change is criminal.
+
+## Contradictions
+
+The entries offer compatible negative emphases, but do not establish that inaction causes each dangerous development. No explicit opposing claim is present.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Hades`: to be guilty of a failure to act and general decline.
-- Practical expression: dangerous developments in public, mysterious changes in public life, criminal developments in public life, poor public growth, and hidden changes in public life.
+In `Vernal Point/Pluto = Hades`, Hades specifies public development as a process that may decline, fail to grow adequately, or unfold through dangerous and concealed changes. The [Witte entry](#witte-entry) adds failure to act to this picture; the [ABC entry](#abc-entry) locates its dangers and hidden developments in public life. These passages support concern about the quality and visibility of change, without making guilt or criminal conduct an inevitable personal attribute.
 
 ## Links
 

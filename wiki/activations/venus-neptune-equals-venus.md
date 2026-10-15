@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Heightened pleasurable feelings when escaping thru dreams or visions; added char
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Pleasure in dreams and illusion, with charm used as attraction.
+- Psychology: Enjoyment of romantic or visionary escape.
+- Body/health: The entry supplies no specific bodily or medical claim.
+- Social/relationship: Sophisticated use of beauty to attract others.
+- Events/manifestations: Dreams, visions, and pleasurable escape from reality.
+- Conflicts/notes: A single repeated-pair entry supports the appeal of illusion without establishing that its promises are real.
 
 ## Contradictions
 
-- None recorded yet.
+- A single repeated-pair entry supports the appeal of illusion without establishing that its promises are real.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Venus`: Heightened pleasurable feelings when escaping thru dreams or visions; added charm and sophistication in using beauty as a strong and potent form of attraction; increased delight in escaping from reality thru illusions.
+`Venus/Neptune = Venus` heightens pleasure in dreams, visions, and the attractions of beauty. [Munkasey's repeated-pair entry](#munkasey-entry) joins charm and sophistication to enjoyment of escaping reality through illusions. The common theme is an appealing experience that can be shaped or imagined. The pleasure is explicit, while the entry does not establish that the image or fantasy will be realized.
 
 ## Links
 

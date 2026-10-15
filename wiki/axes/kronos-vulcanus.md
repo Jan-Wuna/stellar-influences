@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¤/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `301`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ The top authority. The referee. The despot. A great statesman. Politics. Power o
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `464`; PDF page: `231` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Authoritat's influence, special power, influence of the boss, great power, great violence, self conscious force, state violence, state power, strong dominance, and important energy
+German pair summary (transcribed from printed page `464`; PDF page `231`):
+
+> Autoritäts-Einfluß, besondere Macht, Einfluß des Chefs, Groß-Macht, große Gewalt, selbstbewußte Kraft, staatliche Gewalt, Staats-Macht, starke Dominanz, wichtige Energie
+
+Editorial translation from the German passage: Influence of authority, particular power, influence of the chief, great power, great force or violence, self-confident strength, state authority or force, power of the state, strong dominance, important energy.
+
+## Comparative Schema
+
+- **Core meaning:** Concentrated executive or state power capable of exercising substantial force ([pair entries](#source-entries)).
+- **Psychology:** Confidence and strong dominance occur in Rudolph's wording; the entries primarily describe power and roles rather than a complete character profile.
+- **Body/health:** No specific bodily or health meaning is given.
+- **Social/relationship:** The referee, chief, statesman, top authority, and despot describe different ways power can be held over others.
+- **Events/manifestations:** Politics, state power, and a powerful nation are explicit settings. These describe a scale and structure of influence rather than a specified event.
+- **Conflicts/notes:** Authority and despotism both belong to the stated range. German Gewalt can denote force, violence, or public authority; the state setting does not make every expression an allegation of violent conduct.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Authoritat's influence, special power, influence of the boss, great power, great
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus`: supreme authority backed by hard power: the top ruler, the great statesman, executive control, great-power politics, and the state's ability to impose, command, and act with overwhelming force.
-- Chart expression: authority that does not merely legislate or symbolize power but enforces it. It favors strong leadership, decisive command, geopolitical might, bureaucratic force, and concentrated public influence, while its liabilities are despotism, coercion, authoritarian overreach, and the crushing use of state power against resistance or weakness.
+Kronos/Vulcanus describes authority with substantial power to act: executive command, political influence, the power of a state, or the standing of a powerful nation. The pair entries concentrate on who can direct and enforce, ranging from a referee or statesman to a despot ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures); [Rudolph](#udo-rudolph---abc-for-planetary-pictures)). That range preserves a meaningful distinction between authority and domination; it does not make every strong office despotic or every exercise of state power violent.
 
 ## Links
 

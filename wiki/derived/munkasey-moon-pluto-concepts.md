@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Moon/Pluto` as source-native image material.
+Preserve Munkasey's concept phrases for `Moon/Pluto` as source-native image material.
+
+Start with the [Moon/Pluto interpretation](../axes/moon-pluto.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/moon-pluto.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Moon/Pluto](../axes/moon-pluto.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `133`
+- Source concept page (printed): `133` (PDF page `134`).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Moon/Pluto` as source-native ima
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/moon-pluto.md#related-activations) to find the exact formula and orientation.
+
+"Water Distillation" and "Changes of Ownership" are concrete images within this list. Gendered or psychological wording such as "Depressed Women" remains attributed to the source; it is not a diagnosis or a general claim about women.

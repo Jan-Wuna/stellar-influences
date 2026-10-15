@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Zeus/Zeus](../axes/zeus-zeus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 #### Witte Entry
 
-Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
+- PDF page: 288 (one-based), Cupido glyph row.
+
+Foundation of a corporation. Foundation of a new society. Marriage. Artistic creation. Military organization. Artistic activity. Appearance of a new art form. Matrimonial agent. Creator in art.
+
+## Comparative Schema
+
+- core meaning: Creative activity forms associations, unions or artistic works.
+- psychology: The entry supplies no fuller personality account.
+- body/health: No bodily or medical meaning is stated.
+- social/relationship: Corporations, societies, marriage and military organization.
+- events/manifestations: Founding a group, artistic creation and the appearance of a new art form.
+- conflicts/notes: The listed forms do not establish harmony or the success of a union.
+
+## Contradictions
+
+The former creative-imagination and wasted-energy paragraph belongs to Neptune. The Cupido glyph row concerns foundations, marriage, organizations and art. This corrects a source-association error; no second account is supplied for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Zeus = Cupido`: Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
+In `Zeus/Zeus = Cupido`, Cupido specifies the repeated Zeus pair through creating a shared form: a corporation, society, marriage or organization. The corrected [Witte entry](#witte-entry) also names artistic creation and the appearance of a new art form. Founding an association and making art are the paragraph's distinct ways of bringing something into being.
+
+The entry does not establish that a union is harmonious or that a new organization succeeds.
 
 ## Links
 

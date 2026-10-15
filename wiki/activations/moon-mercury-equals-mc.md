@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = MC`
 - Astronomicon formula: `R/T = MC`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Ones own mental flexibility. To be impressed easily. To forget quickly. To be superficial and always searching for the new. To be business like.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-European Parliament and Single European Act
+My feelings in youth, my conversations with women, my conversations about women, my young wife, news from my wife, I think with feeling, opinions about the soul of a people, news of my people, and the language of my people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `115`, entry `0337`.
 
 #### Ebertin Entry
 
 Independent thinking, seeking of soul contacts, ability to form one's own judgement and opinion. Forming a spiritual relationship with a female.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Developing yourself thru studying or identifying with the feeling sides of other
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal development and self-understanding through thought and emotional communication ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: independent judgment and learning to verbalize feelings coexist with Witte's impressionability, forgetfulness, and search for novelty.
+- body/health: no specific bodily or health condition is stated.
+- social/relationship: conversations with women, soul contacts, and nurturing others through words are explicit examples.
+- events/manifestations: studying others' feelings, developing expertise, and personally meaningful conversations are described.
+- conflicts/notes: the former European Parliament sentence was a damaged translation; the checked German is about one's own feelings and conversations, not an institution.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's flexibility can become superficial or forgetful, while Sandbach and Munkasey emphasize security and development through communication. These are different possibilities rather than mutually exclusive assertions; no source establishes a single outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = MC`: caregiving communication, public teaching or mediation, and direction strengthened through attunement to people's needs and moods. Main caution: fluctuating public judgment: outer path can become too changeable, impressionable, or talk-driven.
+In Moon/Mercury = MC, MC specifies the Moon/Mercury pair through one's own emotional thinking and development. The [Ebertin entry](#ebertin-entry) stresses forming independent judgment and meaningful contacts; [Munkasey](#munkasey-entry) describes learning by verbalizing emotional states and studying other people's feelings (p. 104). [Sandbach](#sandbach-entry) links sharing feelings with security and nurturing others through communication.
+
+The [ABC entry](#abc-entry) stays personal, naming one's feelings in youth and one's conversations with or about women (printed p. 176, PDF p. 87). The [Witte entry](#witte-entry) retains an important limit: mental flexibility may include easy impressionability, quick forgetting, or superficial pursuit of novelty. Public teaching and mediation are not stated here.
 
 ## Links
 

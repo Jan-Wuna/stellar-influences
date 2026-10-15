@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [MC Zeus Admetos](../triads/mc-zeus-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Dreading to start something new, but after beginning keeps going.
 
 #### ABC Entry
 
-Consolidation of the psychic fire, I block the movement, I stabilize the performances, my grim aim, my procreation cycle, my limited performance, my grim filthyness, and spiritual fire
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+Consolidation of inner fire, I block leadership, I stabilize achievements, my thorough striving toward a goal, my procreation cycle, my restricted achievement, my thorough leadership, suppressing inner fire.
+
+## Comparative Schema
+
+- **Core meaning:** Hesitant beginnings followed by sustained effort.
+- **Psychology:** Dread of starting something new is explicit.
+- **Body/health:** ABC names a procreation cycle without establishing a medical condition.
+- **Social/relationship:** ABC names blocked leadership and thorough leadership as distinct expressions.
+- **Events/manifestations:** Beginning an undertaking, maintaining performance, and restricted output are stated possibilities.
+- **Conflicts/notes:** ABC names leadership, thorough striving and suppression of inner fire; its procreation cycle supplies no fertility diagnosis or timing rule.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Zeus` directs the axis toward slow-starting but sustained initiative.
-- Chart expression: reluctance at the outset of new efforts, followed by steady continuation once action has begun, so that persistence compensates for hesitancy in starting.
+Zeus specifies `MC/Admetos` through initiative that is difficult to begin but persistent once underway. The ABC entry adds stabilized performance alongside limited performance, so sustained effort and obstruction remain possible together; the entry does not promise that perseverance overcomes every limitation. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

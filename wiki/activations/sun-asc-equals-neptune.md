@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Neptune Asc](../triads/sun-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,15 @@ Physical weakness as compared to other people. To be deceived by persons closely
 
 #### ABC Entry
 
-Exchange with other persons, subtle manly partner, subtle physical environment, corporal weakness of the partner, weak persons in the environment, unclear environment of the man, uncertain personal interaction development of other persons, developments in the centre of the place, and personal change
+- Source reference: printed p. 101; one-based PDF p. 49, complete Neptune row ending before the Pluto glyph.
+
+German passage transcribed from the scan:
+
+> Enttäuschung mit anderen Personen, feinfühliger männlicher Partner, feinstoffliche persönliche Umwelt, körperliche Schwäche des Partners, schwache Personen im Umfeld, unklare Umwelt des Mannes, unsicherer persönlicher Umgang
+
+Editorial translation: Disappointment with other people; a sensitive male partner; subtle personal surroundings (feinstofflich); physical weakness of the partner; weak people in the surroundings; the man's unclear surroundings; uncertain personal dealings.
+
+The source does not explain feinstofflich further here; it is retained as “subtle” without supplying a physical mechanism. The following row beginning “Entfaltung anderer Personen” belongs to Pluto.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +80,23 @@ An inability to relate clearly or effectively to another person; the feeling tha
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uncertainty and sensitivity in personal encounters.
+- psychology: Suggestibility, unclear self-perception and idealism.
+- body/health: Witte's relative physical weakness and ABC's weakness of a partner remain attributed historical associations, not diagnoses.
+- social/relationship: Disappointment, a sensitive partner, deception or slander, and a sense of mystical togetherness are distinct possibilities.
+- events/manifestations: Uncertain personal dealings, unclear surroundings and secret activity in associations.
+- conflicts/notes: ABC's Neptune entry ends at uncertain personal dealings; Pluto's development clauses supply no Neptune interpretation. Its subtle-surroundings term remains unexplained.
 
 ## Contradictions
 
-- None recorded yet.
+Idealistic expression and damaging or unclear contact are differing possibilities; neither cancels the other. ABC's sensitive partner is distinct from its physical-weakness examples, and its subtle-surroundings term does not establish a mechanism linking them.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Neptune`: compassion, artistic impression, and a personal field that evokes fantasy or vulnerability in others. Main caution: weak definition: self-image can blur, boundaries can leak, and the environment can drain vitality.
+Neptune specifies the Sun/Asc axis through uncertain perception of oneself and other people. The [Ebertin](#ebertin-entry) and [Munkasey](#munkasey-entry) entries describe suggestibility, unclear self-projection and illusions about another person's feelings; [Witte](#witte-entry) adds deception and damaging associations. The [ABC entry](#abc-entry) contributes disappointment with others, sensitivity in a male partner and uncertainty in personal dealings.
+
+[Sandbach](#sandbach-entry) retains a different possibility: expressing idealism confidently while being unaware of the impression made. Sensitivity and uncertain contact thus coexist with confident presentation; the sources do not reduce the orientation to one consistent outward manner.
 
 ## Links
 

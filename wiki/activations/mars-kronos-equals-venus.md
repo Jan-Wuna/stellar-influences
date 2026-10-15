@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Venus Mars Kronos](../triads/venus-mars-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Control of sense desires. Good relations with independently acting persons. To b
 
 #### ABC Entry
 
-Special peace activity, dominant love activity, harmonious chief work, impulses of a artist authority, self andig peace work, self andig artistic activity, outstanding artistic work, and important peace impulses
+Special peace activity, dominant love activity, harmonious work by a chief, impulses from an artistic authority, independent peace work, independent artistic activity, outstanding artistic work, and important peace impulses.
+
+- Source reference: printed p. 314, PDF p. 156, Venus row; both damaged `self andig` phrases read `selbständige`, independent.
+
+## Comparative Schema
+
+- core meaning: Independent or authoritative action involves harmony, desire, art or peace.
+- psychology: Witte names control of sensual desires.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Good relations with independent people and favorable treatment by authorities are explicit.
+- events/manifestations: Independent peace/art work, outstanding art and harmonious work by a chief are ABC examples.
+- conflicts/notes: Favorable official treatment is one manifestation; tact and official financial benefits are not established.
+
+## Contradictions
+
+Witte emphasizes restraint and favorable relations; ABC supplies artistic and peace activity. These broaden the range without a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Venus` civilizes executive force through restraint, tact, and favorable dealings with powerful or independent people.
-- Chart expression: disciplined desire, good relations with autonomous people, and being treated well by authorities or receiving benefits through official goodwill.
+Venus specifies the Mars/Kronos axis through harmonious or artistic expressions of independent action and authority. Control of desire and favorable relations in [Witte](#witte-entry) connect with harmonious work by a chief and independent artistic or peace work in [ABC](#abc-entry). The entry includes favorable treatment by authorities without promising institutional benefits or making artistic activity dependent on official goodwill.
+
+Evidence: Witte PDF p. 200; ABC printed p. 314, PDF p. 156.
 
 ## Links
 

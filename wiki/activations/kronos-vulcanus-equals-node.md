@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Node Kronos Vulcanus](../triads/node-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Node entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ In connection with the power of the state, with the forces of the state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 464; PDF p. 231 (one-based), Kronos + Vulkanus, Node entry.
+
 #### ABC Entry
 
-Special power connection, relations to self defense, influential connection to the hierarchy, strong self confidence in connections, connection to state power, and important energy mediation
+A special connection to power; relations with independent leaders; an influential connection to the hierarchy; a connection's great influence; strong self-confidence in connections; connection to state power; important transmission of energy.
+
+## Comparative Schema
+
+- Core meaning: Connections provide access to state power, independent leaders, and a hierarchy.
+- Psychology: Self-confidence within connections is an explicit ABC theme.
+- Body/health: No specific medical or bodily claim appears.
+- Social/relationship: Relations with independent leaders and state forces define the institutional ties.
+- Events/manifestations: A connection's influence and transmission of energy are named.
+- Conflicts/notes: Connection to power does not establish that the person holds executive office.
+
+## Contradictions And Tensions
+
+Connection to power does not establish that the person holds executive office.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Node`: direct connection with the force of the state, involvement with government power, and alliances formed around national or executive strength.
-- Chart expression: political affiliation, official connection, and relationships structured by great-power realities.
+With Node, Kronos/Vulcanus describes connections through which substantial power is encountered or transmitted. Witte centers the entry on state power and state forces; ABC adds independent leaders, a hierarchy, and the influence of a connection itself. Self-confidence within these ties is explicitly retained. The formula concerns the relationship to power, so an official position or an alliance's particular political purpose should not be assumed. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

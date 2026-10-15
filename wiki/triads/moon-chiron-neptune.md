@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron Neptune`
 - Astronomicon triad-set: `R Chiron Y`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Neptune = Moon](../activations/chiron-neptune-equals-moon.md)
-- [Moon/Chiron = Neptune](../activations/moon-chiron-equals-neptune.md)
-- [Moon/Neptune = Chiron](../activations/moon-neptune-equals-chiron.md)
+- [Chiron/Neptune = Moon](../activations/chiron-neptune-equals-moon.md): base axis [Chiron/Neptune](../axes/chiron-neptune.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Neptune](../activations/moon-chiron-equals-neptune.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Neptune](../factors/neptune.md).
+- [Moon/Neptune = Chiron](../activations/moon-neptune-equals-chiron.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Neptune = Moon`: John, page `97`
-- `Moon/Chiron = Neptune`: John, page `32`
-- `Moon/Neptune = Chiron`: John, page `34`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Neptune = Moon](../activations/chiron-neptune-equals-moon.md#sandbach-entry) (PDF chapter-start p. 97; exact entry page unverified); [Moon/Chiron = Neptune](../activations/moon-chiron-equals-neptune.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Neptune = Chiron](../activations/moon-neptune-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 34; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Moon`: deep empathy, soothing emotional presence, and hidden or nonverbal healing. Main caution: emotional flooding or taking on too much unspoken pain.
-- `Moon/Chiron = Neptune`: One intuitive senses how to cause emotional clearing as well as how to nurture others at a very deep level. The products of one’s imagination can have a pro foundly healing effect on the feeling bodies of other people.
-- `Moon/Neptune = Chiron`: One’s energy helps others to perceive the subtleties of their own feelings, and to see how their feelings are being affected by subtle energies and psychic influences. You also help people to feel higher and exalted emotions.
+Moon, Chiron and Neptune form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Neptune](../axes/chiron-neptune.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [Neptune](../factors/neptune.md)

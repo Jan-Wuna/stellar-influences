@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Neptune`
 - Astronomicon formula: `R/Z = Y`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Mysterious persons. Doings behind your back. Unreliable conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `191`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Uncertain Developments in people, Differentiation of a woman through exchange, metaphysical development of a woman, creeping feelings changes, weak feeling development, uncertain feeling development, and growing uncertainty of the woman see above
+Uncertain developments among the people, change in a woman through disappointment, metaphysical development of a woman, gradual changes of mood, weak development of feeling, uncertain unfolding of feeling, and growing uncertainty in a woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0418`.
 
 #### Ebertin Entry
 
 Sensitivity, hypersensitiveness, psychometric gifts or talents. Sentimentality, depression, lack of willpower.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `37` (entry checked directly; chapter starts on PDF p. `36`).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Confusion over the role of death or sex; using the occult to explain the mystica
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional intensity becomes difficult to interpret, with sensitivity, imagination, and uncertainty closely joined.
+- psychology: intuition and imaginative power coexist with confusion, sentimentality, and potentially draining feelings.
+- body/health: Ebertin mentions depression and lack of willpower; these remain attributed historical descriptions, not diagnoses.
+- social/relationship: Witte describes unreliable people or concealed activity; Sandbach includes intuition about another person's need for care.
+- events/manifestations: uncertain conditions, heightened mystical experiences, and seeking miraculous relief from immediate problems.
+- conflicts/notes: the ABC clause about disappointment is a source-specific possibility; sensitivity alone does not establish reliable insight or healing.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries allow both intuitive sensitivity and emotional confusion, without establishing that one rules out the other. Witte stresses external unreliability, while the other entries often describe inner experience. These are differences of emphasis rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Neptune`: healing sensitivity, spiritualized catharsis, and the ability to feel buried emotional layers with unusual depth. Main caution: overwhelming permeability: fear, obsession, or emotional confusion can become hard to separate cleanly from intuition.
+Neptune specifies the Moon/Pluto pair through emotionally powerful impressions whose meaning can be elusive. Imagination, intuition, and sensitivity may be unusually strong, yet the same inner material can drain energy or create confusion and disorientation ([Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry)).
+
+The difficulty can also concern trust in circumstances or in an explanation: Witte describes unreliable conditions and concealed activity, while Munkasey describes unclear inner meanings and seeking miracles to escape immediate problems. Mystical experience is represented, but these entries do not establish healing or reliable insight as its necessary result ([Witte entry](#witte-entry); [Munkasey entry](#munkasey-entry), p. 132).
 
 ## Links
 

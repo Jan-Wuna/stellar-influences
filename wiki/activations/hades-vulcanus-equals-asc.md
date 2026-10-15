@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Hades/Vulcanus = Asc`
 - Astronomicon formula: `¢/§ = Asc`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Together with others under heavy oppression or impressed by violent acts. Vile acts of others. In the surroundings are people of malicious and mean character.
+Reference: one-based PDF p. 285, full Asc row, including the continuation formerly attached to Sun.
+
+Together with others under heavy oppression or impressed by violent acts. Vile acts of others. In the surroundings are people of malicious and mean character. To be implicated through others in filthy matters. Together with others in great peril.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Involvement in the environment, insecurity through violence in the place, insecurity of the partner, insecurity of power in the place, insecurity of the environment, insecurity of the environment in the place, and insecurity of the partner's strength
+Reference: printed p. 446 (one-based PDF p. 222), Asc row.
+
+Influence of the past on others, lack of energy in the partner, dangerous partner influence, secret power at the location, enormous disadvantages for the surroundings, grief through violence at the location, lack of strength in the partner, lack of power at the location, and hidden energy in the surroundings.
+
+## Comparative Schema
+
+- Core meaning: Heavy pressure or violent conduct in the immediate environment ([Witte Entry](#witte-entry)).
+- Psychology: Being affected by violent acts is stated; a lasting personal temperament is not established.
+- Body/health: No specific injury or medical diagnosis is given.
+- Social/relationship: Others may share oppression, implicate one in compromising matters, or exert harmful influence.
+- Events/manifestations: Shared peril, secret power at a location, past influence, and deficient energy or strength in a partner.
+- Conflicts/notes: The complete Witte continuation and nine distinct ABC clauses are restored from the scans; the repeated insecurity translation is excluded.
+
+## Contradictions
+
+Witte distinguishes suffering alongside others from encountering or becoming implicated in their harmful acts. ABC likewise includes dangerous partner influence and deficient partner strength as different conditions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus = Asc`: daily life shaped by brute force in the environment. It can show companionship under threat, direct contact with cruel characters, and a near field marked by intimidation or vile conduct.
+In `Hades/Vulcanus = Asc`, Asc specifies the pair through nearby people and surroundings affected by force or danger. The [Witte entry](#witte-entry) describes shared oppression or peril, others' harmful acts, and implication through them in compromising matters. The [ABC entry](#abc-entry) adds past influence, secret local power, and grief through violence, while a partner may be either dangerously influential or deficient in energy and strength. The range distinguishes exposure to harmful influence from sharing weakness or danger with others.
 
 ## Links
 

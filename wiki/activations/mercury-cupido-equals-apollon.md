@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Cupido](../axes/mercury-cupido.md)
 - Triad hub: [Mercury Cupido Apollon](../triads/mercury-cupido-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Cupido`
+- Source locator: PDF p. `166` (complete oriented entry; scan checked; no printed page number visible).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Big social gatherings. Social entertainment with many. Widespread poetic works. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Cupido`
+- Source locator: printed p. `255`, PDF p. `126` (entry).
+- Text basis: raw PDF p. `126` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Success through language art, successful youth community, successful synthesis thinking, linguistic scientific community, common experiences describe, speechfreedom in the community, and scientific language community
+Success through verbal art, a successful youth community, successful synthesis of thought, a linguistic-scientific community, describing shared experiences, freedom of speech in the community, and a scientific discussion community.
+
+## Comparative Schema
+
+- core meaning: Shared expression reaches many people through gatherings, literature, or learning.
+- psychology: Successful synthesis of thought and freedom of speech are ABC emphases.
+- body/health: No bodily or health statement is supplied.
+- social/relationship: Large social gatherings coexist with linguistic or scientific discussion communities.
+- events/manifestations: Widespread poetry, literature, social entertainment, and describing shared experiences are named.
+- conflicts/notes: Wide circulation is supported; inevitable public visibility or cultural status is not.
+
+## Contradictions
+
+The entries supply different examples within this orientation; no direct contradiction is established, and repeated themes are not proof of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Apollon` enlarges the axis into big gatherings, broad entertainment, and literary spread.
-- Chart expression: social life shared with many, artistic or literary communication reaching wide circles, and communal expression that becomes expansive, public, and culturally visible.
+In `Mercury/Cupido = Apollon`, Apollon specifies Mercury/Cupido through an enlarged field of shared expression: [Witte](#witte-entry) names large gatherings, entertainment with many, widely circulating poetry, and literature. [ABC](#abc-entry) adds success through verbal art, bringing thoughts together, describing common experiences, and communities of language or science. These are ways the group exchange can broaden, not a guarantee of fame.
 
 ## Links
 

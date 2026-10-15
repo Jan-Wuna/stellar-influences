@@ -1,0 +1,9 @@
+# Intermittent apply-patch failure and integrity check
+
+The 013–015 reviewer reported a failed page patch and initially read a PowerShell capacity display as one free byte. Root paused the notified reviewers' writes while checking three possibilities: exhausted storage, a file-specific write restriction, or intermittent failure in the patch tool. No artifacts were deleted, moved, or recreated to free space.
+
+Native `Get-PSDrive -Name W | Format-List Name,Used,Free,Root` and `Get-Volume -DriveLetter W` independently reported 3,016,557,477,888 free bytes on the NTFS volume. The capacity alert was incorrect. The affected page had ordinary Archive attributes. The owner compared its complete contents, final link and EOF to the retained pre-patch text: it was intact, rather than truncated. A smaller apply_patch succeeded, and the final intended contents were verified. Other reviewers likewise verified their latest page, ledger and proof writes.
+
+Root then read all 7,497 initial wiki Markdown pages and templates and parsed all 5,586 ledger rows present at the check. No file was empty, contained NUL bytes, lost its initial frontmatter or original Links heading, or fell below 40 percent of its original text length. All applicable YAML parsed, every ledger JSON object parsed, and there were no duplicate ledger paths. This is a bounded mechanical damage check, not another substantive page review. Earlier full-file hash checks continue to protect the baseline and unrelated files.
+
+The cause of the intermittent patch-tool failure has not been established. Small apply_patch hunks and the already verified Codex apply-patch CLI fallback remain available. Reviewers check intended complete text and ledger JSON after a failure before checkpointing. No upstream tool fix or confirmed storage failure is claimed. Editorial work resumed after the checks; no debugging process or temporary artifact was created.

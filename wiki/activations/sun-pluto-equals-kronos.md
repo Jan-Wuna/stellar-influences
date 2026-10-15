@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Kronos`
 - Astronomicon formula: `S/Z = ¤`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Governmental administration and monitoring of nutrition. Health and virility.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Change of personnel in the state, personal development to the boss, personal autonomy to develop, state development center, growing self governingness of a person, change of man's dominance, and different self being of a person
+- Source passage: `Sonne + Pluto`; printed p. `157`; one-based PDF page `77` (oriented row checked against the scan).
+
+Personnel change in the state, personal development into a boss, developing personal authority, state development center, growing independence of a person, transformation of male dominance, changed self-confidence of a person.
+
+## Comparative Schema
+
+- core meaning: Personal development takes authoritative, independent or governmental forms.
+- psychology: Developing authority and changed self-confidence are explicit ABC examples.
+- body/health: Witte's health and virility are historical correspondences, not individual conclusions.
+- social/relationship: Becoming a boss, state personnel changes and changing male dominance are named.
+- events/manifestations: Government administration of nutrition and a state development center are concrete institutional settings.
+- conflicts/notes: Authority, independence and official supervision are distinct forms; the scan distinguishes authority from autonomy and self-confidence from self-being.
+
+## Contradictions
+
+No direct contradiction is established. Official nutrition supervision and development of personal authority describe different settings for organized development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Pluto = Kronos`: transformation through authority and powerful shifts in rank or command.
-- Practical expression: change of personnel in the state, personal development to the boss, personal autonomy to develop, state development center, and growing self governingness of a person.
+In `Sun/Pluto = Kronos`, development concerns authority and organized oversight: state personnel changes and a state development center sit beside becoming a boss and developing personal authority. Growing independence, changing male dominance and altered self-confidence give that development personal forms. Government administration and monitoring of nutrition retain a specific public function; the accompanying health and virility terms remain attributed historical associations. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

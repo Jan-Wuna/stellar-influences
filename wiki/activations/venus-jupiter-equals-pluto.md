@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Pluto](../triads/venus-jupiter-pluto.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Good fortune and happiness on the way, developing. Coming happiness. Happy chang
 
 #### ABC Entry
 
-Development of joy and harmony, successful fricdens development, Frcude about development_en in the arts, happy development in love, changes through legal peace, love for money, and beneficial development through beauty
+- Source reference: printed p. 273; one-based PDF p. 135, Venus/Jupiter, Pluto row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Development of joy and harmony, successful development of peace, joy in developments in art, happy development in love, changes through legal peace, developing a preference for money, and beneficial development through beauty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,25 @@ Extreme reactions to opinions which others feel damage their areas of interests;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Developing happiness, change, and strong attraction ([Witte](#witte-entry); [Sandbach](#sandbach-entry)).
+- psychology: Generosity as growth, with compulsive wastefulness as a stated alternative ([Sandbach](#sandbach-entry)).
+- body/health: No specific bodily or health manifestation is described.
+- social/relationship: Popularity, mass appeal, and magnetic attraction ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- events/manifestations: Happy change; research and correction of errors ([Witte](#witte-entry); [Munkasey](#munkasey-entry)).
+- conflicts/notes: ABC's developing preference for money is a specific association; generosity and compulsive wastefulness remain distinct alternatives.
 
 ## Contradictions
 
-- None recorded yet.
+Happiness, generosity and wastefulness remain differing possibilities. ABC adds development in art, peace and beauty and a developing preference for money, without promising favorable change in every case.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Pluto`: magnetic generosity, financially or socially consequential alliances, and the ability to attract major support or intense appreciation. Main caution: inflated appetite for power and pleasure: sweetness can become manipulative, excessive, or too bound to gain and control.
+Pluto specifies Venus/Jupiter through developing happiness and unusually strong attraction. Happiness is pictured as something coming into being or changing, while popularity and magnetic appeal give that development a social expression. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) supply those themes; [Sandbach](#sandbach-entry) adds growth through generosity and the distinct risk of compulsive wastefulness.
+
+[Munkasey](#munkasey-entry) gives a different application: strong reactions to opinions, research that supports developing ideas, and hidden resources for correcting errors. This belongs beside the love-and-happiness reading without turning it into a claim about control or manipulation.
+
+The [ABC entry](#abc-entry) also names developments in art and peace, changes through legal peace and a developing preference for money.
 
 ## Links
 

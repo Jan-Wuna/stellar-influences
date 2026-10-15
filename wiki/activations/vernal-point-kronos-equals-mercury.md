@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Mercury Kronos](../triads/vernal-point-mercury-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Intellectual activities for many people. Negotiation between leaders or states.
 
@@ -42,13 +46,27 @@ Intellectual activities for many people. Negotiation between leaders or states.
 
 #### ABC Entry
 
-Youth's reputation in public Life, public authority, media dominance in public Life, public opinion, self employed youth in public Life, and important news for the public
+- Source page: 50; PDF page: 24 (one-based spread).
+
+The reputation of youth in public life, official language in public, media dominance in public life, public opinions about the state, self-confident youth in public life, and important news for the public
+
+## Comparative Schema
+
+- core meaning: Public authority expressed through thought, negotiation, language, and media.
+- psychology: Intellectual activity and self-confident youth are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Negotiations between leaders or states.
+- events/manifestations: Official language, media dominance, important news, and youth's reputation.
+- conflicts/notes: Official language was omitted and self-confidence mistranslated as self-employment.
+
+## Contradictions
+
+No direct contradiction is established. Negotiation, media influence, and youth are distinct source examples of public intellectual activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Mercury`: intellectual activities for many people and negotiation between leaders or states.
-- Practical expression: youth's reputation in public Life, public authority, media dominance in public Life, public opinion, and self employed youth in public Life.
+In `Vernal Point/Kronos = Mercury`, authority operates through communication and intellectual activity. The [Witte entry](#witte-entry) names thinking for many people and negotiation between leaders or states. The restored [ABC entry](#abc-entry) adds official language, media dominance, opinions about the state, important news, and self-confident youth. The common thread is the public force of words, information, and recognized thought.
 
 ## Links
 

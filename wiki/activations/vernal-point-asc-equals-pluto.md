@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Pluto`
 - Astronomicon formula: `VP/Asc = Z`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ Growth of places. Internal developments of a place. Trade, commerce, changes and
 
 Public development of a place, change of place in public, development of the partner in public, change of partner in public life, changes in the public environment, and transformation of a public place
 
+## Comparative Schema
+
+- Core meaning: Development and change of public surroundings.
+- Psychology: No inner response to change is specified.
+- Body/health: No bodily condition is specified.
+- Social/relationship: A partner develops or partners change in public life.
+- Events/manifestations: Local growth, commerce, traffic, relocation, and transformation of a public place.
+- Conflicts/notes: Development need not mean either improvement or deterioration.
+
+## Contradictions
+
+The entries share change of place; partner changes add a social expression without contradicting local development.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Pluto`: growth of places, internal developments of a place, trade, commerce, changes and traffic of a particular place, and change of location.
-- Practical expression: public development of a place, change of place in public, development of the partner in public, change of partner in public life, and changes in the public environment.
+Pluto specifies `Vernal Point/Asc` as a public environment undergoing development or change. Local growth, commerce, traffic, and relocation connect with changes in public partners or a partner's development. The passages establish movement and transformation, without deciding whether a particular change is beneficial. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 21 / PDF p. 9.)
 
 ## Links
 

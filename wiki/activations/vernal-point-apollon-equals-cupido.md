@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Cupido Apollon](../triads/vernal-point-cupido-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Extensive efforts for peace. Societies for peace. Expansion of organizations or companies. The science of the arts.
 
@@ -42,13 +46,27 @@ Extensive efforts for peace. Societies for peace. Expansion of organizations or 
 
 #### ABC Entry
 
+- Source page: 53; PDF page: 25 (one-based spread).
+
 expansion of a community in public life, trade community in public life, shared success in public, shared knowledge of the public, public economic community, and synthesis of knowledge in public
+
+## Comparative Schema
+
+- core meaning: Public expansion or shared knowledge through organizations and communities.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Peace societies, commercial communities, and shared success.
+- events/manifestations: Company expansion, extensive peace efforts, and synthesis of knowledge.
+- conflicts/notes: The science of the arts is a specific source application, not a merged definition of every group.
+
+## Contradictions
+
+Organizations, trade, peace, and art study are different settings for shared scope; no direct disagreement is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Cupido`: extensive efforts for peace, societies for peace, expansion of organizations or companies, and the science of the arts.
-- Practical expression: expansion of a community in public life, trade community in public life, shared success in public, shared knowledge of the public, and public economic community.
+In `Vernal Point/Apollon = Cupido`, Cupido specifies the pair through an organization or community. The [Witte entry](#witte-entry) joins peace societies and extensive peace efforts to company expansion and study of the arts. The [ABC entry](#abc-entry) adds commercial or economic communities, shared success, and synthesis of knowledge. The common thread is collective participation that widens public reach or combines understanding, without requiring all groups to serve the same purpose.
 
 ## Links
 

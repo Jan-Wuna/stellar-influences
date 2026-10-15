@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
 - Triad hub: [Sun Moon Cupido](../triads/sun-moon-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-the bride and bridegroom. Communities of women and men. ‘The betrothed man before the wedding. A woman’s fiance. Societies composed of women. Often in community with people.
+Source locator: printed page 115; PDF page 111 (one-based).
+
+The bride and bridegroom. Communities of women and men. The betrothed man before the wedding. A woman’s fiance. Societies composed of women. Often in community with people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Women and men in the community, a man's community, a community centre for women, a people's artificial centre, a human community, a people's community, and a people's community day
+Source locator: printed page 158; PDF page 78 (one-based).
+
+Woman and man in the community, feelings of a men's community, a community center for women, a people's art center, the human community of a people, a human sense of community, and a day of the people's community.
+
+## Comparative Schema
+
+- core meaning: Participation and shared feeling in communities, with explicit marital and gendered examples.
+- psychology: Community feeling and the feelings of a men's group.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Bride and bridegroom, betrothal, women's societies and communities of women and men.
+- events/manifestations: A community day and community or art centers.
+- conflicts/notes: The entries extend beyond family membership; gendered group examples remain attributed.
+
+## Contradictions And Comparison Notes
+
+Both entries concern people together. Witte specifies marital and women's-group settings; ABC adds shared feeling and collective institutions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Moon`: the family and to have a family.
-- Practical expression: women, men in the community, a man's community, a community centre for women, and a people's artificial centre.
+For `Sun/Cupido = Moon`, belonging is expressed through people sharing community life and feeling. [Witte](#witte-entry) gives the bride and bridegroom, betrothal, women's societies and frequent company; [ABC](#abc-entry) adds community feeling, women's and men's group settings, and community or art centers. These passages connect personal participation with a wider collective life, rather than limiting the formula to having a family.
 
 ## Links
 

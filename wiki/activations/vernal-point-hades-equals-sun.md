@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Sun Hades](../triads/vernal-point-sun-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 To be impoverished because of the general existing conditions. Catastrophes. The miner. Connected with miners and coal mines.
 
@@ -42,13 +46,27 @@ To be impoverished because of the general existing conditions. Catastrophes. The
 
 #### ABC Entry
 
-Crimes centre in public, criminal persons in public, personal deprivations in public, people hidden from the public, and centre for public service
+- Source page: 46; PDF page: 22 (one-based spread).
+
+Criminal center in public, criminal persons in public, harm to persons in public, personal deprivations in public, people hidden from the public, and a center for public service
+
+## Comparative Schema
+
+- core meaning: A person affected by public hardship, concealment, or service.
+- psychology: No distinct personal disposition is supplied.
+- body/health: ABC names harm to persons without specifying an injury or mechanism.
+- social/relationship: Impoverishment through general conditions and hidden people.
+- events/manifestations: Mining or coal-mine connections, catastrophes, and a public-service center.
+- conflicts/notes: Criminal persons are a separate source example; miners or deprived people are not classified as criminal.
+
+## Contradictions
+
+A public-service center and a criminal center are different possibilities. General hardship does not establish personal culpability.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Sun`: to be impoverished because of the general existing conditions, catastrophes, the miner, and connected with miners and coal mines.
-- Practical expression: crimes centre in public, criminal persons in public, personal deprivations in public, people hidden from the public, and centre for public service.
+In `Vernal Point/Hades = Sun`, Sun specifies the pair through a person's place within public conditions of need. The [Witte entry](#witte-entry) names impoverishment, catastrophe, and mining connections. The restored [ABC entry](#abc-entry) adds deprivation, harm, concealment, and a public-service center, alongside separate criminal examples. The common theme is personally encountered public disadvantage or service; the occupation and hardship examples do not imply wrongdoing.
 
 ## Links
 

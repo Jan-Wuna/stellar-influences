@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Poseidon = MC`
 - Astronomicon formula: `¡/¨ = MC`
 - Axis page: [Cupido/Poseidon](../axes/cupido-poseidon.md)
@@ -36,18 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 278; PDF p. 274.
+
 To seek mental or spiritual community. To be attracted by spiritual, educational, cultural or philosophical communities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-The Community of Culture, Arts and Culture in the Public Life I've shared cultural community, spirit and soul, my knowledge of the Community, the knowledge of the soul, my spiritual community, and my ideas
+Source: printed p. 436; PDF p. 217, MC row.
+
+German: "Beseelte Kultur-Gemeinschaft, Geist und Seele zusammen, meine Erkenntnisse über die Gemeinschaft, gemeinsame Erkenntnisse von der Seele, meine geistige Gemeinschaft, meine Ideen für die Gemeinschaft, meine Kultur-Gemeinschaft, meine Klarheit in der Kunst".
+
+English translation: A soulful cultural community; intellect or spirit and soul together; my insights about the community; shared insights about the soul; my intellectual or spiritual community; my ideas for the community; my cultural community; my clarity in art.
+
+MC begins "Beseelte Kultur-Gemeinschaft" and ends "meine Klarheit in der Kunst"; the preceding public-culture clauses belong to Vernal Point.
+
+## Comparative Schema
+
+- Core meaning: Personal attraction to shared intellectual, spiritual or cultural life ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Seeking community, personal insight and ideas for the community are explicit.
+- Body/health: Soul is source language without a bodily or diagnostic claim.
+- Social/relationship: Attraction to spiritual, educational, cultural or philosophical communities is named.
+- Events/manifestations: Personal participation in a cultural community and clarity in art are examples.
+- Conflicts/notes: ABC's soul and spirit vocabulary is retained without an added psychological mechanism.
+
+## Contradictions
+
+Witte describes seeking and attraction; ABC uses first-person insight, ideas and cultural belonging. The entries provide compatible but differently framed examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon = MC`: identity and life direction being guided by the search for a higher-minded group or shared outlook. Main caution: pursuing ideal community without testing whether it is truly sound or humane.
+In `Cupido/Poseidon = MC`, MC specifies shared outlook through a personal search for intellectual or spiritual community and attraction to educational, cultural or philosophical groups ([Witte Entry](#witte-entry)). ABC gives that search a first-person voice through my community, ideas for it, insights about it and clarity in art. Its references to spirit and soul remain part of the source's vocabulary for this shared cultural life ([ABC Entry](#abc-entry)).
 
 ## Links
 

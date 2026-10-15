@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `§/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `315`, chapter heading `VULCANUS + POSEIDON`.
 
 State of mind. Sense of honor. Self-esteem. Self-confidence. Pride. Dignity. Arrogance. The mental influence, power and forces. The powerful mind. The spiritual power.
 
@@ -78,7 +82,20 @@ State of mind. Sense of honor. Self-esteem. Self-confidence. Pride. Dignity. Arr
 
 #### ABC Pair Summary
 
-Influence of reason, influential idea, cognition power, spiritual energies, mental violence, spiritual power, influence of violence, power of wisdom, cultural influence, culture power, power of truth, and strong spirit
+Source reference: printed page `478`, PDF page `238`, bold pair summary.
+
+Source wording: "Einfluß der Vernunft, einflußreiche Idee, Erkenntnis-Kraft, geistige Energien, geistige Gewalt, geistige Macht, Gewalt-Einfluß, Kraft der Weisheit, Kultur-Einfluß, Kultur-Macht, Macht der Wahrheit, starker Geist, vernünftiger Einfluß".
+
+Editorial translation, checked against the scan: Influence of reason; an influential idea; power of insight; mental or spiritual energies; mental force or power; mental or spiritual might; influence of force; power of wisdom; cultural influence and power; power of truth; a strong mind or spirit; reasonable influence. The German `Gewalt` can also carry a sense of violence; the summary does not specify one mode of influence throughout.
+
+## Comparative Schema
+
+- Core meaning: Mental or spiritual power, including the influence of ideas, reason, wisdom, truth, and culture.
+- Psychology: Honor, self-esteem, confidence, pride, dignity, and arrogance are explicitly present in the pair summary.
+- Body/health: No specific bodily or health condition is stated; mental power is not a clinical assessment.
+- Social/relationship: Influence exercised through the mind, ideas, or culture; the ABC vocabulary of force leaves room for coercion without specifying a particular act.
+- Events/manifestations: Cultural influence and the force attributed to ideas or convictions are represented; no particular outward event is specified.
+- Conflicts/notes: Dignified confidence and arrogance are both stated possibilities. The sources' references to truth and wisdom do not certify that an influential idea is true or wise.
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Influence of reason, influential idea, cognition power, spiritual energies, ment
 - [Vulcanus/Poseidon = Vernal Point](../activations/vulcanus-poseidon-equals-vernal-point.md)
 - [Vulcanus/Poseidon = Zeus](../activations/vulcanus-poseidon-equals-zeus.md)
 
+## Contradictions
+
+Witte's confidence, dignity, and arrogance give the pair a range of expressions rather than a simple favorable or unfavorable meaning. ABC's bold paragraph has been checked against printed page `478`. Its `Gewalt` vocabulary admits force, power, or violence; the entry should not be narrowed to benevolent persuasion or treated as proof of a specific violent act. References to truth and wisdom remain source meanings, not certification that a conviction is correct.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes force guided by mind: power, pride, and self-command are filtered through mentality, producing a strong-willed, mentally influential stance that can read as dignified confidence or arrogance.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Vulcanus/Poseidon` describes the force of mind and ideas. The [pair summary](#pair-summary) joins mental or spiritual power with a sense of honor and self-worth, ranging from confidence and dignity to pride and arrogance. The [ABC pair summary](#abc-pair-summary) extends that influence into reason, ideas, insight, wisdom, truth, and culture, while retaining vocabulary that can include coercive force.
+
+The unifying issue is how much force a conviction or mental stance carries, inwardly as self-esteem and outwardly as influence. These entries do not equate strength of conviction with correctness, or describe every such influence as benevolent. They also give no clinical diagnosis or specific event that must follow from the pair.
 
 ## Links
 

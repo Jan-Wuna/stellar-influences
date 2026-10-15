@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Mercury MC](../triads/sun-mercury-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Agility of body and of soul. The condition of the nerves. One’s own thinking. Contemplation. Messages create an emotional reaction that affects the body.
 
+Source locator: PDF p. 59, Meridian + Sun, Mercury entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Movements of my body, talk about body and soul, talk with my husband, my youth body, my husband in traffic, my caring movement, my body language, mentally moved man, and language of animated people
+Movements of my body, talk about body and soul, talk with my husband, my youthful body, my husband in traffic, my physical movement, my body language, an emotionally moved man, and language of animated people.
+
+Source locator: printed p. 62, PDF p. 30, Sun/MC, Mercury entry. Translation checked against the German row, including körperliche Bewegung and seelisch bewegter Mann.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Movements of my body, talk about body and soul, talk with my husband, my youth b
 
 Self-contemplation, the process of meditating about oneself, one's individual attitude to the world outside, to vocation and to communication or contact with others. The gaining of experiences, seeing one's way to achieving goals.
 
+Source locator: printed p. 111, coded entry 0316.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The ability to communicate in a confident and authoritative manner. The attempt to remain high minded and mentally focused. A mind that desires to deal only with what is important. To have thoughts about one’s long-range career plans, and the ability to ingeniously find ways around any blockages to the fulfilling of them.
+
+Source locator: PDF p. 24, Sun/Midheaven, complete Mercury entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Communicating your intentions about your life’s direction; added needs for edu
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Reflection and communication about one’s own direction.
+- psychology: Self-contemplation, focused thought, and ingenuity around obstacles.
+- body/health: Witte attributes bodily reactions to emotionally affecting messages.
+- social/relationship: Confident communication of intentions and contributions.
+- events/manifestations: Planning, educational credentials, or scholarly recognition.
+- conflicts/notes: Bodily movement and emotional response coexist with reflection and career planning; these do not establish a medical condition.
 
 ## Contradictions
 
-- None recorded yet.
+The sources combine inward reflection with outward communication without a direct contradiction. Witte's nerve and body statements remain attributed; ABC's physical movement and body language give concrete bodily expressions without a medical assessment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Mercury`: strategic thinking about career, authoritative communication, and the ingenuity to find ways around obstacles to long-range plans. Main caution: over-mentalization: self-contemplation can become too inward or too concerned with framing rather than doing.
+In `Sun/MC = Mercury`, Mercury specifies Sun/MC personal direction through thought, self-examination, and communication. The [Ebertin Entry](#ebertin-entry) links contemplation of oneself with seeing a way toward goals; the [Sandbach Entry](#sandbach-entry) adds authoritative speech and ingenuity around obstacles to long-range plans. The [Munkasey Entry](#munkasey-entry) gives communicating intentions and obtaining educational recognition as examples. The [Witte Entry](#witte-entry) preserves a bodily-emotional response to messages, while [ABC](#abc-entry) adds movement, body language and conversations about body and soul. This keeps the scope broader than career strategy alone.
 
 ## Links
 

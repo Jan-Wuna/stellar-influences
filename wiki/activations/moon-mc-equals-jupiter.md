@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Jupiter`
 - Astronomicon formula: `R/MC = V`
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Jupiter row under Meridian + Moon checked.
+
 #### Witte Entry
 
 A fortunate state of mind. A good-natured person. Happy hours with women. Births. Phlegmatic person (in a positive sense).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 64; one-based PDF p. 31, complete ten-clause Jupiter row checked.
+
 #### ABC Entry
 
-My wife's money, I'm happy as a woman, I have rights as a woman, my Glinck's oath, my successful wife, my wife's happy, happiness through female psyche, the dignity of a soul, the rights of my people, and the emotional joy of women
+Editorial translation checked against the German scan: My wife's money; I am happy as a woman; I have rights as a woman; my feeling of happiness; my successful wife; my wife is happy; happiness through the feminine psyche; kindness of a feelingful soul; rights of my people; a woman's inner joy.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 143; one-based PDF p. 145, coded entry `0451`, complete entry checked.
 
 #### Ebertin Entry
 
 A rich and deep soul life, optimism and confidence, the joy of hope or expectation, enthusiasm, high aims or noble aspirations in life, a deeply religious or social outlook. A happy relationship to the mother or the wife, a satisfied longing for children.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 40, complete Jupiter paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A wealth of exalted feeling. Enthusiasm for nurturing others equates with one’
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Jup` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Opportunities which come your way which allow you to develop and be the person y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional richness, hope, confidence and generosity, with opportunities for personal development. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- psychology: A fortunate or good-natured state of mind, enthusiasm and high aspirations are stated. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- body/health: Witte names births and a positive phlegmatic temperament; these are attributed examples, not a pregnancy prediction or diagnosis. [Witte](#witte-entry).
+- social/relationship: Nurturing others, encouraging emotional expression and happy mother/wife relationships appear beside the possibility of excessive maternal influence. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: ABC includes a wife's money, success and rights; Munkasey includes opportunities to grow according to one's own wishes. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Maternal or family experience can be supportive or excessive; happiness, birth and financial examples are not guaranteed outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+Most entries emphasize hopeful or generous feeling. Munkasey also describes excessive maternal influence and a contrast between personal development and family expectations. This qualification should remain visible beside the happier family examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Jupiter`: popularity, nurturing leadership, and success through creating hope, protection, or emotional abundance for others. Main caution: excess in public feeling: confidence and care can become inflated, indulgent, or too reliant on praise.
+In `Moon/MC = Jupiter`, personal emotional life is described through richness, hope and a generous wish to nurture. The [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) entries connect emotional abundance with aspirations, social or spiritual purpose, and encouraging others to express their feelings. The [Witte](#witte-entry) and [ABC](#abc-entry) entries add good nature, happiness and particular family, money and rights examples. The [Munkasey entry](#munkasey-entry) qualifies the family theme: growth may mean becoming the person one wants to be despite excessive maternal expectations. Emotional confidence and self-development therefore belong together without implying universal popularity or inevitable success.
 
 ## Links
 

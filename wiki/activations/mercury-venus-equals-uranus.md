@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus Uranus](../triads/mercury-venus-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Sudden acquaintances, quick at repartee. Witty, original. Strange forms of socia
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 241; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Dynamic media arts, exciting thoughts of love, emancipation of the language art, peace events in speech, arts and technology in traffic, love reforrn through the youth, reform Wonsche discuss, exciting knowledge of numbers, and Oberraschende peace Gcsprache
+Dynamic media art, exciting thoughts of love, renewal of the art of language, peace events in conversation, art and technology in transport, reform of love through young people, discussing wishes for reform, exciting storytelling, surprising peace conversations.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 146 (coded entry 0464); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ Inventive ability, the gift of getting ideas, appreciation of the necessity for 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 42 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 A genius for beautiful, artful and/or persuasive communication. The ability to catch others off guard when communicating, often in a delightful, entertaining manner. Having one’s own unique way of beautifully saying things.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Upsetting news about a lover; an unusual or unique person who tells you of feeli
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Originality and suddenness enter artistic or affectionate expression.
+- psychology: Quick wit, inventive ideas and a unique manner of speaking recur.
+- body/health: No health correspondence is supplied.
+- social/relationship: Sudden acquaintances and unusual expressions of love occur; Munkasey also notes upsetting news.
+- events/manifestations: Mathematics, public speaking, rhythms and symbols are specific examples.
+- conflicts/notes: Inventive delight and upsetting news are different possibilities; unreliability was not established as a universal trait.
 
 ## Contradictions
 
-- None recorded yet.
+Inventive delight and upsetting news are different possibilities; unreliability was not established as a universal trait.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Uranus`: sparkling rapport, inventive taste, and the ability to attract through cleverness and social freedom. Main caution: erratic pleasantness: charm can become inconsistent, overstimulated, or too changeable to feel dependable.
+In `Mercury/Venus = Uranus`, Uranus specifies affectionate or artistic expression through quick invention, surprising contact and distinctive communication. Repartee, wit and original speech can delight or persuade, while inventive ideas engage rhythms, numbers or symbols. Renewal of language, dynamic media art, storytelling and unexpected peace conversations give that originality concrete outlets. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [ABC](#abc-entry))
+
+Surprise also reaches relationships: sudden love, an unusual person expressing affection or upsetting news about a lover remain possible. Detached feelings when discussing love qualify the warm examples without establishing universal unreliability. ([Munkasey](#munkasey-entry))
 
 ## Links
 

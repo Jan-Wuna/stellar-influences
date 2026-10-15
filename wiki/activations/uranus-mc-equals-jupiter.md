@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Jupiter`
 - Astronomicon formula: `X/MC = V`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,17 +39,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 Suddenly gladdened or enjoyed by good luck. Sudden personal luck.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 78; PDF p. 38.
+
 #### ABC Entry
 
-my excitement about money, my successful rhythm, my joyful arousal, my restless soul, sudden soul joy, and psychic glick impulses
+Fortunate emotional tensions, my excitement over money, my success through dynamism, my successful rhythm, my joyful excitement, my restless soul, sudden joy of the soul, emotional impulses of good fortune.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 278; PDF p. 280; entry code `0992`.
 
 #### Ebertin Entry
 
@@ -55,9 +63,11 @@ Optimism, joyful realization of plans, ability to resolve tension. Experiencing 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
+
 #### Sandbach Entry
 
-Success through taking an original approach to one’s career. An enthusiasm for fomenting social change. To feel confident about one’s own highly individualistic ap proach to life.
+Success through taking an original approach to one’s career. An enthusiasm for fomenting social change. To feel confident about one’s own highly individualistic approach to life.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,23 @@ Expands ability to use electronic means to publish ideas; success when pursuing 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 78; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0992), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Sudden personal joy and success through originality. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Optimism, enthusiasm, and confidence in an individual approach. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Recognition and appropriate credit for contributions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Realized plans, innovative work, electronic publication, and modernization. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Technical or social success and sudden joy are conditional source possibilities; no general financial result is promised.
 
 ## Contradictions
 
-- None recorded yet.
+Joy, the ability to resolve tension and a restless soul coexist in the sources. Innovative or astrological success is not a guaranteed career or financial result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Jupiter`: breakthrough opportunity, reforming leadership, and growth that comes by embracing change ahead of the crowd. Main caution: overreach: excitement about freedom or success can become speculative, inflated, or too unstable to sustain.
+Jupiter specifies Uranus/MC through sudden joy and success in expressing an original personal direction. Optimism can help resolve tension and bring plans into realization; innovative work, electronic publication, and social modernization give that opportunity practical settings. Recognition for one's contribution is also represented, without a promise that success will occur in every setting. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

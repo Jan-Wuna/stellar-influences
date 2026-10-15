@@ -1,0 +1,3 @@
+﻿Scenario: all wiki/axes/*.md Banzhaf/Haebler blocks, harmony/discord bullets only.
+Invocation: PowerShell scan for terminal comma/semicolon/colon, ellipsis, empty tail, or final dangling conjunction/preposition/article.
+COUNT=0

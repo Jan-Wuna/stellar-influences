@@ -46,13 +46,26 @@ updated_at: 2026-04-21
 - Axis: `Kronos/Kronos`
 - Astronomicon axis: `¤/¤`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `297`
+
 #### Pair Summary
 
 Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.
+
+## Comparative Schema
+
+- **Core meaning:** Authority, independence, and standing above the average through office or mastery ([Pair Summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Personal independence and being masterful in a skill are explicit; a broader personality profile is not supplied.
+- **Body/health:** No bodily or health meaning is given in this pair summary.
+- **Social/relationship:** The ruler, chief, manager, and head of a family express hierarchical roles; the entry also allows others to occupy the superior position.
+- **Events/manifestations:** Executive power and the state describe settings of authority, but the summary specifies no event or outcome.
+- **Conflicts/notes:** The same source includes independence and subordination to others. These are alternative positions within a hierarchy, not proof of a contradiction or a universal claim of personal superiority.
 
 ## Related Activations
 
@@ -81,8 +94,7 @@ Above average. Independence. The executive power. Authority. State. Ruler. Chief
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Kronos`: pure elevated status: the ruler, the chief, the sovereign function, official mastery, superiority, and the formal structures that place someone above the average and in command.
-- Chart expression: concentrated hierarchy and recognized power. It favors leadership, official standing, noble bearing, governance, large institutions, and command roles, while its liabilities are autocracy, rigid hierarchy, loss through authorities, dependence on official structures, and the pressure of superiority itself.
+Kronos/Kronos concerns authority and an elevated position, whether held through executive office, management, family leadership, personal independence, or mastery of a skill. The organizing theme is relative standing: someone has the power or competence to direct, manage, or stand above the average ([Witte, Rudolph & Lefeldt, Pair Summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). The entry explicitly includes being subject to people who are superior, so it does not always place the person being interpreted at the top of the hierarchy.
 
 ## Links
 

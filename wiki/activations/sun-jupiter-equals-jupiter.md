@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Brings you an element of luck with your pursuits and endeavors; seeing the need 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: An element of luck in pursuits, expanded goals and understanding the philosophy behind effort.
+- psychology: Recognizing why one strives and seeing the need to enlarge one's goals.
+- body/health: No bodily condition is supplied by this passage.
+- social/relationship: No particular relationship arrangement is supplied by this passage.
+- events/manifestations: Fortunate pursuits and goal expansion are described without a specific external event.
+- conflicts/notes: This particular “With Itself” paragraph concerns luck, goals and philosophy; the repeated-Sun paragraph separately concerns directness and purpose.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present, so no independent cross-source agreement or disagreement can be established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Jupiter`: Brings one an element of luck with one's pursuits and endeavors; seeing the need for expansion of one's goals; helps one understand better the doctrine and philosophy behind all of one's efforts and endeavors to succeed in life.
+For `Sun/Jupiter = Jupiter`, [Munkasey's “With Itself” passage](#munkasey-entry) connects an element of luck with expanding one's goals and understanding the philosophy behind the effort to succeed. Expansion is therefore more than simply doing more: the entry also asks what doctrine or purpose informs the pursuit. This particular paragraph supplies no bodily or relationship meaning; its luck-and-philosophy focus remains distinct from the repeated-Sun paragraph's directness and purpose.
 
 ## Links
 

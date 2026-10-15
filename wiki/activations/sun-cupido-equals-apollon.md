@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Cupido = Apollon`
 - Astronomicon formula: `S/¡ = ¥`
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: 111.
+
 #### Witte Entry
 
 Successful or famous artists. Trading community. Association of artist.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page: 159 (printed); PDF page: 78.
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, and structural funds
+Expansion of the human community, a successful community of persons, expansion of a community center, personal success in the community, increase of the human community, science of the whole human being.
+
+## Comparative Schema
+
+- Core meaning: Expansion and success in community or artistic life.
+- Psychology: Personal success through participation.
+- Body/health: No specific health claim is supplied.
+- Social/relationship: Artists' associations and trading communities.
+- Events/manifestations: A community grows, its center expands, or an artist gains recognition.
+- Conflicts/notes: The ABC passage also names study of the whole human being.
+
+## Contradictions
+
+The entries emphasize collective expansion and artistic or commercial success; they do not explain ABC's whole-person science.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Apollon`: successful with an artist or in art and artist.
-- Practical expression: community policy, economic, social cohesion, and structural funds.
+Apollon specifies Sun/Cupido through the growth and success of a community or artistic association. The common thread is participation that widens its reach: a group expands, its center grows, or an artist becomes successful or famous. Trade belongs to this collective success, while the ABC entry's study of the whole human being is a separate named application whose method is not explained here. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

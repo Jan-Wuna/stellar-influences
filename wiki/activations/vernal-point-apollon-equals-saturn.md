@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Saturn Apollon](../triads/vernal-point-saturn-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Pedagogy. Scientific teaching. To teach. The student. Hindrances. Agriculture.
 
@@ -42,13 +46,27 @@ Pedagogy. Scientific teaching. To teach. The student. Hindrances. Agriculture.
 
 #### ABC Entry
 
+- Source page: 53; PDF page: 25 (one-based spread).
+
 Extension of public freedom, concentration on public success, public trade losses, problematic public experience, scientific tasks for the public, and increasing public tasks
+
+## Comparative Schema
+
+- core meaning: Teaching and public tasks alongside hindrances or commercial loss.
+- psychology: Concentration on public success.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Teacher and student roles.
+- events/manifestations: Scientific teaching, agriculture, trade losses, and increasing public tasks.
+- conflicts/notes: Agriculture remains a distinct source application; public freedom is also explicitly named.
+
+## Contradictions
+
+Extension of freedom and hindrances are different possible conditions. Scientific tasks do not imply a commercial loss in every case.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Saturn`: pedagogy, scientific teaching, to teach, the student, and hindrances.
-- Practical expression: extension of public freedom, concentration on public success, public trade losses, problematic public experience, and scientific tasks for the public.
+In `Vernal Point/Apollon = Saturn`, Saturn specifies the pair through teaching, tasks, and the limits of public activity. The [Witte entry](#witte-entry) names pedagogy, teachers and students, hindrances, and agriculture. The [ABC entry](#abc-entry) adds scientific tasks, concentration on success, trade losses, and increasing public duties. The common meaning is broad activity organized around learning or responsibility, with freedom and obstacles retained as different conditions.
 
 ## Links
 

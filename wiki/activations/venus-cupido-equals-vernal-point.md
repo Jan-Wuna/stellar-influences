@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Vernal Point`
 - Astronomicon formula: `Q/¡ = VP`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Marital happiness of many people. Social pleasantness in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-peace art in public, shared joy in public, harmony in a public community, shared wishes for the public, public art community, and beauty of art in public
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+The art of peace in public, shared joy in public, harmony within a public community, shared wishes for public life, a public art community, and the beauty of art in public.
+
+## Comparative Schema
+
+- Core meaning: Shared harmony becomes public.
+- Psychology: Public joy and common wishes.
+- Body/health: No specific health claim.
+- Social/relationship: Social pleasantness and public community.
+- Events/manifestations: Public art and peace work.
+- Conflicts/notes: Public harmony does not establish everyone's private marital experience.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Public harmony does not establish everyone's private marital experience.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Vernal Point`: marital happiness of many people.
-- Practical expression: peace art in public, shared joy in public, harmony in a public community, shared wishes for the public, and public art community.
+Vernal Point specifies Venus/Cupido through the public presence of shared enjoyment. Pleasant society, common wishes, and public art bring affection and beauty into collective life. Witte's happiness of many marriages belongs to that broad social range without establishing one person's private outcome. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

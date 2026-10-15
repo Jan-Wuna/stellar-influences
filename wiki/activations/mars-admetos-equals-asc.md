@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Admetos](../axes/mars-admetos.md)
 - Triad hub: [Mars Asc Admetos](../triads/mars-asc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 202 (one-based), Mars + Admetos, Asc entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To retire from work. To cease cooperation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 318; PDF p. 158 (one-based), Mars + Admetos, Asc entry.
+
 #### ABC Entry
 
-On site work with Urston: extensive partner work, blocked environmental work, limitations at work place, earth work at the site, fixed partner will, basic environmental activity, subordinated impulses of the partner, and Willcns limitation of others
+Work locally with primordial matter; persevering work with a partner; blocked work in the surroundings; restrictions at the workplace; earth work locally; a partner's firm will; thorough activity in the surroundings; suppressed impulses of a partner; restriction of others' will.
+
+## Comparative Schema
+
+- Core meaning: Work and cooperation are restricted or ended, alongside persistent partner and local work.
+- Psychology: A partner's firm will and suppressed impulses are explicit.
+- Body/health: Neither entry develops a medical or bodily claim.
+- Social/relationship: Retiring from work, ceasing cooperation, and restrictions on others' will specify the relationship.
+- Events/manifestations: Earth work, work with primordial matter, and workplace restrictions are named.
+- Conflicts/notes: Witte emphasizes withdrawal; ABC also preserves persevering and thorough activity.
+
+## Contradictions And Tensions
+
+Witte emphasizes withdrawal; ABC also preserves persevering and thorough activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Asc`: withdrawal from work, cessation of cooperation, and a personal field in which effort contracts or contact is cut off.
-- Chart expression: retreat, reduced engagement, and visible separation from active participation.
+With Asc, Mars/Admetos concerns how work and its limitations are shared with others or encountered locally. Witte names retirement from work and cessation of cooperation. ABC adds persevering partner work, workplace restrictions, blocked activity in the surroundings, and a partner's firm or suppressed will. Earth work and work with primordial matter retain a concrete local expression. Withdrawal is one stated possibility, while persistent activity within limits remains another. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

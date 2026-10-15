@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Saturn`
 - Astronomicon formula: `R/W = W`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -41,22 +43,21 @@ Added sternness shown toward family members; increased needs to apply discipline
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: heightened discipline in family or management and deliberate commercial planning.
+- psychology: sternness and a perceived need for restrictions are stated.
+- body/health: the single entry supplies no bodily or health claim.
+- social/relationship: family members and people under one's management are the stated recipients of discipline.
+- events/manifestations: planning a more successful commercial approach is an imagined business response.
+- conflicts/notes: envisioned success is not evidence that strictness or a business plan succeeds.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry gives family, management, and commercial examples without claiming that all occur together. It supplies no contrasting source assessment of sternness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Saturn`: Added sternness shown toward family members; increased needs to apply discipline or restrictions when managing others; envisioning a more successful business approach for commercial enterprises thru planning.
+In Moon/Saturn = Saturn, the repeated Saturn specifies the pair through increased sternness toward family and a stronger wish to discipline or restrict people one manages. The [Munkasey entry](#munkasey-entry) also describes envisioning a more successful commercial approach through planning (p. 122). This links restraint with planned action in the stated settings, while leaving the effects of that discipline and the business outcome open.
 
 ## Links
 

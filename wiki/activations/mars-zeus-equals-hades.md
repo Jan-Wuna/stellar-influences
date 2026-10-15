@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Hades Zeus](../triads/mars-hades-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Aggravated work through deficiencies. Lack of fuel. Ashes. Losses through warlike circumstances. Abortion. Death by fire or through serious injury. Suicide by firearms.
 
@@ -42,13 +46,27 @@ Aggravated work through deficiencies. Lack of fuel. Ashes. Losses through warlik
 
 #### ABC Entry
 
-Designing work service, treating deprivation through strenuous work, fire crime, dangerous goals of a work, secret procreation will, criminal feeding activity, lack of creative actions, and creative work in the past
+Source: “Mars + Zeus,” printed p. 313 (PDF p. 155).
+
+Shaping labour service, privations through strenuous work, dealing with fire-related crime, dangerous aims of work, secret procreative will, criminal leadership activity, lack of creative actions, and creative work in the past.
+
+## Comparative Schema
+
+- core meaning: Creative or directed work burdened by deficiency, deprivation, danger, or destructive circumstances.
+- psychology: Lack of creative action and secret procreative will in ABC's terms.
+- body/health: Witte includes historical abortion, injury, and death associations; these are not individual predictions.
+- social/relationship: Labour service, criminal leadership, and war-related losses.
+- events/manifestations: Lack of fuel, ashes, difficult work, fire-related crime, and creative work from the past.
+- conflicts/notes: Working on fire-related crime is distinct from committing it; severe historical examples do not define every instance of difficult work.
+
+## Contradictions
+
+Both entries include deficiency and danger. ABC also includes organizing labour service, addressing fire-related crime, and past creative work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Hades` degrades directed force through deficiency, injury, war loss, and destructive aftermath.
-- Chart expression: damaged productivity, lack of fuel or support, harsh consequences of conflict, and fire, weapons, or labor turning toward ruin, death, or serious loss.
+In `Mars/Zeus = Hades`, Hades specifies directed and creative effort through deficiency, privation, or dangerous conditions. Witte names lack of fuel, ashes, and war-related losses; ABC adds strenuous work, dangerous work aims, criminal leadership, and lack of creative action. ABC also preserves labour service, dealing with fire-related crime, and creative work in the past, which should not all be reduced to destruction. Witte's severe injury, death, and reproductive examples remain historical source associations rather than individual forecasts. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 313 / PDF p. 155)
 
 ## Links
 

@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Mercury`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = T`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Mercury Uranus Asc](../triads/mercury-uranus-asc.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 To receive a message suddenly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 116; PDF p. 57.
+
 #### ABC Entry
 
-Excitement about youth on site, excited young partners, excited opinions in the surrounding area, news about environmental racing, place for news technology, local events discuss, rhythmic movements with the partner, and restless youth in the surrounding area
+Excitement about youth on site, excited young partners, excited opinions in the surrounding area, news about environmental reforms, place for news technology, discussing local events, rhythmic movements with the partner, and restless youth in the surrounding area
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 275; PDF p. 277; entry code `0977`.
 
 #### Ebertin Entry
 
 Act of criticizing, tendency to interfere in everything, curiosity and inquisitiveness, ability to quickly sum up conditions or circumstances, organizing power, ability to quickly grasp things. Making arrangements, sudden news, technological or industrial progress.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Thinking of clever ways of making your mark of uniqueness on life; questioning y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 116; PDF p. 57), [Ebertin](#ebertin-entry) (p. 275, entry 0977), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Sudden information and original expression enliven contact with other people.
+- psychology: Quick comprehension, curiosity, clever naming, and organizing ability are named.
+- body/health: These entries do not establish a bodily condition.
+- social/relationship: Rapid debate can express ingenuity or become criticism and interference.
+- events/manifestations: Unexpected messages, making arrangements, technical progress, and news technology are examples.
+- conflicts/notes: Original expression, practical news and progress coexist with intrusive criticism; none makes every rapid response cooperative.
 
 ## Contradictions
 
-- None recorded yet.
+Original communication and intrusive criticism are different uses of the quick mental response described here. ABC also names news about environmental reforms; that scan-confirmed wording concerns reforms rather than racing.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Mercury`: wit, originality, and the ability to make a memorable impression through ideas, speech, or sudden perception. Main caution: scattered intensity: abrupt language or overstimulated thinking can disrupt steadiness and mutual understanding.
+Mercury specifies Uranus/Asc through sudden messages, quick understanding, and a distinctive way of putting ideas into words. Clever names and rapid debates make individuality audible in an encounter; criticism or interference is a less cooperative expression of the same readiness to respond. ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

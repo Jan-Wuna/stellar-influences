@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Zeus Admetos](../triads/mercury-zeus-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Zeus entry, PDF p. 171.
 
 To concentrate one’s thoughts on directing or leading something. Thoughts about difficulties of a beginning.
 
@@ -42,13 +46,29 @@ To concentrate one’s thoughts on directing or leading something. Thoughts abou
 
 #### ABC Entry
 
-Effortful traffic stau, exhausting youth performances, beginning restriction of movement, blocked youth future, blocked fire of youth, restricted media performances, fiery earth in motion, and creative speech deepening
+Source: “Merkur + Admetos,” Zeus entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Strenuous traffic congestion, enduring achievements of youth, beginning restriction of movement, blocked youth leadership, blocked fire of youth, restricted media achievements, fiery earth in motion, creative deepening of conversation.
+
+## Comparative Schema
+
+- **Core meaning:** Concentration on guidance and difficult beginnings.
+- **Psychology:** Sustained thought about directing an activity.
+- **Body/health:** No health condition is established.
+- **Social/relationship:** Leadership concerns and restricted youth or media activity.
+- **Events/manifestations:** A difficult start, restricted movement, enduring youthful achievements, and creative discussion; fiery earth in motion is separately named.
+- **Conflicts/notes:** Enduring achievement and blocked leadership are different possibilities; neither guarantees that initial obstacles are overcome.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte concerns concentration on guidance and a difficult beginning. ABC retains endurance and creative conversation beside blocked leadership, movement restrictions and constrained media achievement. Limits do not erase every active expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Zeus` directs the axis toward leadership problems, planning, and difficult beginnings.
-- Chart expression: concentrated thought about guiding or directing something, with the mind fixed on how to overcome the first obstacles and start under restrictive conditions.
+In `Mercury/Admetos = Zeus`, Zeus specifies concentrated or restricted thought and communication through directing activity and considering a difficult beginning. Witte focuses on leadership and starting difficulties; ABC adds blocked youthful leadership and restricted media work, alongside enduring achievements and creative conversation. Planning and sustained effort thus remain active under limiting conditions, without a promise that the obstacles are overcome. The separately named fiery earth in motion supplies no added physical-event prediction. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

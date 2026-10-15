@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Hades`
 - Astronomicon triad-set: `R X ¢`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Hades = Uranus](../activations/moon-hades-equals-uranus.md)
-- [Moon/Uranus = Hades](../activations/moon-uranus-equals-hades.md)
-- [Uranus/Hades = Moon](../activations/uranus-hades-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Hades = Uranus](../activations/moon-hades-equals-uranus.md) | [Moon/Hades](../axes/moon-hades.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Hades](../activations/moon-uranus-equals-hades.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Hades](../factors/hades.md) |
+| [Uranus/Hades = Moon](../activations/uranus-hades-equals-moon.md) | [Uranus/Hades](../axes/uranus-hades.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Hades = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `195`
-- `Moon/Uranus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
-- `Uranus/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `376`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Hades = Uranus](../activations/moon-hades-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-hades-equals-uranus.md#witte-entry) (PDF p. 131); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-hades-equals-uranus.md#abc-entry) (printed p. 195) |
+| [Moon/Uranus = Hades](../activations/moon-uranus-equals-hades.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-hades.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-hades.md#abc-entry) (printed p. 187) |
+| [Uranus/Hades = Moon](../activations/uranus-hades-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-hades-equals-moon.md#witte-entry) (PDF p. 237); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-hades-equals-moon.md#abc-entry) (printed p. 376) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Uranus`: Becoming a widow through accident. Sudden worries. To be impoverished suddenly.
-- `Moon/Uranus = Hades`: This activation degrades `Moon/Uranus` into violent excitement, malicious agitation, and socially destructive unrest. It points to emotionally charged shock turning ugly, with disturbance becoming cruel, dangerous, or mob-like rather than liberating.
+`Moon Uranus Hades` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

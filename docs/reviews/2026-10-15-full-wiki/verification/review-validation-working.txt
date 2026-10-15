@@ -1,0 +1,5 @@
+Loading current pages and baseline copies
+Validating ledger records and page outcomes
+Checking metadata, schema, anchors, and live source sections
+Source repair candidates written: 3618; hashing protected files
+{"assignment_partition": 0, "baseline_copies": 0, "baseline_counts": 0, "historical_log": 0, "immediate_synthesis_anchor": 212, "inventory": 0, "ledger_coverage": 1566, "ledger_outcomes": 0, "ledger_schema": 0, "metadata_preservation": 0, "protected_initial_files": 0, "six_schema_categories": 802, "source_entry_preservation": 2660, "storage_filler": 212}

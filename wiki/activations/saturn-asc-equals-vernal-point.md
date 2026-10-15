@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Vernal Point`
 - Astronomicon formula: `W/Asc = VP`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 Parting from other people. Leave-taking. A serious phenomena in public life.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source page: 114 (printed); PDF page: 56.
+
 Old place in public life, inhibitions at a public place, public environmental tasks, problematic public environment, problems with others in public, disturbances at a public place, and separation from a public place
+
+## Comparative Schema
+
+- Core meaning: Leave-taking and serious conditions in the public environment.
+- Psychology: Inhibition in public places rather than a detailed emotional profile.
+- Body/health: No medical correspondence is established in these exact entries.
+- Social/relationship: Parting from others and problems with people in public.
+- Events/manifestations: Public disturbances, environmental tasks, and separation from a public place.
+- Conflicts/notes: The public setting specifies the source range without predicting a particular public event.
+
+## Contradictions
+
+The public setting specifies the source range without predicting a particular public event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Vernal Point`: parting from other people, leave-taking, a serious phenomena in public life.
-- Practical expression: old place in public life, inhibitions at a public place, public environmental tasks, problematic public environment, and problems with others in public.
+In `Saturn/Asc = Vernal Point`, Vernal Point specifies the pair through leave-taking and serious conditions in public life. The [Witte entry](#witte-entry) names parting from others; the [ABC entry](#abc-entry) adds inhibition, disturbances, environmental tasks, and problems with people at public places. The common setting is public contact under difficulty, with no single outcome established.
 
 ## Links
 

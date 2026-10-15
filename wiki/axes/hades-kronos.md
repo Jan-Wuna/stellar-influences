@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¢/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `279` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Great baseness and meanness, poverty or want. Poor government. Plain clothes pol
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `440`; PDF page: `219` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Poor state, lack of autodtats, special disadvantages, dominance of the past, directed Crimea inalitat, great need, great Ceheimnis, criminal authority, state service, and state ceheimnis
+German pair summary (transcribed from printed page `440`; PDF page `219`):
+
+> Armer Staat, Autoritäts-Mangel, besondere Nachteile, Dominanz der Vergangenheit, gelenkte Kriminalität, große Not, großes Geheimnis, kriminelle Obrigkeit, kriminelle Überlegenheit, Staats-Dienst, Staats-Geheimnis
+
+Editorial translation from the German passage: Poor state, lack of authority, particular disadvantages, dominance of the past, directed criminality, great need, great secret, criminal authorities, criminal superiority, state service, state secret.
+
+## Comparative Schema
+
+- Core meaning: Authority and independence under adverse conditions, alongside organized crime and its investigation ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: The source's "baseness and meanness" is evaluative language, not an individual diagnosis.
+- Body/health: Death appears in the historical example of ruling circles; no physical mechanism or medical diagnosis is supplied.
+- Social/relationship: Poor government, relinquished independence, criminal authority, and state service are distinct source examples.
+- Events/manifestations: Organized crime, detectives, plain-clothes police, criminal police, and ruin in ruling circles are named.
+- Conflicts/notes: "Criminal police" denotes a police example alongside criminals; the entry does not equate investigators with offenders. ABC separately names criminal authorities, directed criminality, and state secrets.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Poor state, lack of autodtats, special disadvantages, dominance of the past, dir
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos`: corruption and baseness in high places: poor government, organized crime, criminal police, official meanness, loss of independence under bad authority, and ruin or death in ruling circles.
-- Chart expression: degradation backed by status or power. It can describe corrupt leadership, detective or police involvement, state or elite criminality, and systems where rank magnifies misery instead of correcting it. Liabilities: official betrayal, coercive misrule, high-level scandal, and the normalization of meanness under respectable or commanding forms.
+`Hades/Kronos` concerns authority amid hardship, criminality, or loss of independence. Poor government, organized crime, and adverse events in ruling circles belong to its institutional range. The ABC summary adds state service, criminal authority, and the weight of the past ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+Detectives and plain-clothes or criminal police are also explicitly listed. Investigation of crime must remain distinct from committing it: the pair summary includes both fields and does not make official status proof of corruption ([Pair Summary](#pair-summary)).
 
 ## Links
 

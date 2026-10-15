@@ -8,23 +8,24 @@ factors: []
 aliases: []
 source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-22
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-- This page lists Ebertin activation entries that were skipped during canonical ingest because the activator token could not be decoded confidently.
-- Decoded axis summaries and activation entries are still merged into the live comparative corpus.
+Track Ebertin activation entries withheld during ingest because an activator token could not be decoded confidently. This is a decoding review queue; interpretation belongs on the exact canonical activation page.
 
 ## Status
 
-- No unresolved Ebertin activation entries are currently blocked.
-- Machine-readable manifest: `ebertin-unresolved-activation-review.json`.
+- The [machine-readable manifest](ebertin-unresolved-activation-review.json), dated `2026-04-22` and checked on `2026-10-15`, contains an empty `unresolved_entries` array.
+- The [source catalog's Review Queue](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md#review-queue) likewise records `0` unresolved activation entries. No activator-decoding block is recorded in these artifacts.
+- An empty decoding queue does not establish that every source passage is free of OCR problems or that every possible formula appears in the source.
 
 ## Review List
 
-- None.
+No entries are listed in the checked manifest. If a new undecoded token is found, its source passage and proposed orientation require a separate review before canonical admission.
 
 ## Links
 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [Query Guide: retrieve the exact activation before its axis](../query-guide.md#retrieval-order)

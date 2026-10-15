@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Hades Zeus](../triads/vernal-point-hades-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Coal fire (serviceable). Incinerators, crematoriums. Unemployment.
 
@@ -42,13 +46,27 @@ Coal fire (serviceable). Incinerators, crematoriums. Unemployment.
 
 #### ABC Entry
 
-Fire danger in public, filthy deficit in public life, criminal deficit in public life, performance deficit in public, public deficit service, tradition disputes in public, and hidden public movement
+- Source page: 47; PDF page: 22 (one-based spread).
+
+Fire danger in public, lack of leadership in public life, criminal leadership in public life, lack of performance in public, public leadership service, striving for tradition in public, and concealed public leadership
+
+## Comparative Schema
+
+- core meaning: Deficient, concealed, or dangerous leadership and productive activity in public.
+- psychology: Striving for tradition is explicit.
+- body/health: Fire danger is named; no personal health claim is supplied.
+- social/relationship: Public leadership service and criminal leadership are separate possibilities.
+- events/manifestations: Coal fires, incinerators, crematoriums, and unemployment appear in Witte.
+- conflicts/notes: Leadership and striving were mistranslated as filthy deficit and disputes; scan-backed wording restores them.
+
+## Contradictions
+
+Useful coal fire and public leadership service coexist with fire danger, deficient performance, and criminal leadership. The source does not equate productive or traditional activity with crime.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Zeus`: coal fire (serviceable), incinerators, crematoriums, and unemployment.
-- Practical expression: fire danger in public, filthy deficit in public life, criminal deficit in public life, performance deficit in public, and public deficit service.
+In `Vernal Point/Hades = Zeus`, public action and leadership are examined where capacity is lacking, hidden, or directed toward difficult tasks. The restored [ABC entry](#abc-entry) distinguishes lack of leadership from criminal leadership, alongside service, performance deficits, and striving for tradition. The [Witte entry](#witte-entry) gives concrete fire-related services and unemployment. Together they connect constrained productivity with leadership and fire, while leaving useful service and destructive action distinct.
 
 ## Links
 

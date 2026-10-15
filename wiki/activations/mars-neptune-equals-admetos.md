@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Admetos](../triads/mars-neptune-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Damages caused by cold. Sicknesses caused by cold. Death by frostbite. Destruction of raw materials. Great losses.
 
@@ -42,13 +46,27 @@ Damages caused by cold. Sicknesses caused by cold. Death by frostbite. Destructi
 
 #### ABC Entry
 
-Work in deep water, exhausting work on/in or with water, will consolidating exchanges, depression through metaphysical activity, depressing will weakness, grtindish work in metaphysics, and resistance to unsafe actions
+Source: “Mars + Neptun,” printed p. 305 (PDF p. 151).
+
+Work in deep water, persistent work on/in or with water, disappointments that strengthen the will, depression through metaphysical activity, depressing weakness of will, thorough work in metaphysics, and resistance to uncertain actions.
+
+## Comparative Schema
+
+- core meaning: Cold-related loss in Witte, alongside persistent water work and resistance to uncertain action in ABC.
+- psychology: ABC names disappointments that strengthen will as well as depressing weakness and metaphysical activity.
+- body/health: Cold sickness, frostbite death, and depression are attributed source claims, not medical predictions.
+- social/relationship: No specific interpersonal relationship is described.
+- events/manifestations: Damage to raw materials, great losses, and work in deep water are separate examples.
+- conflicts/notes: ABC's persistence and strengthened will differ materially from Witte's emphasis on severe losses; neither range cancels the other.
+
+## Contradictions
+
+Witte emphasizes destruction and loss; ABC includes persistent work and strengthened will alongside depression and resistance. A uniformly destructive reading would omit ABC's more constructive possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Neptune = Admetos` freezes weakened action into loss, cold damage, and destructive depletion.
-- Chart expression: sickness or death from cold, destruction of raw materials, and heavy losses where drained force is immobilized or broken down under harsh conditions.
+In `Mars/Neptune = Admetos`, Admetos specifies the pair through prolonged or deep activity and severe difficulty in the listed settings. ABC includes persistent water work, thorough metaphysical work, and disappointments that strengthen the will, alongside depressing weakness and resistance to uncertain action. Witte instead emphasizes cold damage, destruction of raw materials, and great losses. Both ranges remain visible; the sickness, frostbite death, and depression statements are attributed historical claims. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 305 / PDF p. 151)
 
 ## Links
 

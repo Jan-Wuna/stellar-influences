@@ -1,0 +1,2244 @@
+[
+  {
+    "path": "wiki/activations/mc-apollon-equals-admetos.md",
+    "queue_index": 10,
+    "before_sha256": "911dd19928cc862cd7b36c280829eedc094061f3d07cf29ec3423d89d5442d0c",
+    "after_sha256": "ca4e4ebebaa6af7d8303c709e9475cd525073b1d3510a6bfda0517ed2b7b9838",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 12,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be content and saturated. Satisfied with the achieved, no more aspirations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nBlocking my success, limiting my freedom, thorough knowledge of the soul, my success through thoroughness, my successful resistance, my experiences of depression, my restricted authority, deepening my knowledge.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be content and saturated. Satisfied with the achieved, no more aspirations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlocking my success, limiting my freedom, grinning knowledge of the soul, my success through grtindlichkeit, my successful resistance, my depression experiences, my restricted authority, and deepening my knowledge",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-admetos.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “grinning knowledge” and untranslated “grtindlichkeit” are damaged. They cannot establish a separate meaning without clean source verification."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Admetos specifies `MC/Apollon` through the stopping or limiting of expansion.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Thorough knowledge of the soul, success through thoroughness; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally viewed actual ABC PDF45 printed92–93 at high resolution in both full page halves and matched every clause in each oriented row. Admetos eight, Asc ten, Cupido seven, Hades eight and Jupiter nine clauses checked. Witte entries retained unchanged; no blanket certification of other source bodies.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-admetos.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-admetos.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "83abb340459e8921393ed0923ecae5c9dbbcfc77a6529fdb9139b524ca087c49",
+    "current_sha256": "ca4e4ebebaa6af7d8303c709e9475cd525073b1d3510a6bfda0517ed2b7b9838",
+    "original_sha256": "911dd19928cc862cd7b36c280829eedc094061f3d07cf29ec3423d89d5442d0c",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-admetos.md",
+          "text": "ABC's “grinning knowledge” and untranslated “grtindlichkeit” are damaged. They cannot establish a separate meaning without clean source verification. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mc-apollon-admetos.md",
+          "text": "MC/Apollon = Admetos ABC printed93/PDF45 retains grinning knowledge and grtindlichkeit; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “grinning knowledge” and untranslated “grtindlichkeit” are damaged. They cannot establish a separate meaning without clean source verification. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-admetos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 12,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “grinning knowledge” and untranslated “grtindlichkeit” are damaged. They cannot establish a separate meaning without clean source verification. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Admetos ABC printed93/PDF45 retains grinning knowledge and grtindlichkeit; source verification required."
+      ],
+      "decision": "Thorough knowledge of the soul, success through thoroughness",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45; printed92–93, exact activator rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "gründliches Wissen von der Seele; mein Erfolg durch Gründlichkeit",
+      "before_source_section_sha256": "911dd19928cc862cd7b36c280829eedc094061f3d07cf29ec3423d89d5442d0c",
+      "final_source_section_sha256": "ca4e4ebebaa6af7d8303c709e9475cd525073b1d3510a6bfda0517ed2b7b9838",
+      "final_page_sha256": "72fe7e9d3763edcad846e72e5de58eeb4199c53d7c6609c86f45205ff2bbd9bb",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-asc.md",
+    "queue_index": 11,
+    "before_sha256": "b8f75d672e1bbc68f81c1d8b4d20d8aaa59fafd876633adc5377ad5cd2a615da",
+    "after_sha256": "e4f2df0a37a572f730114e4fb5a0f394212158b94025664cc22d8e6b6cfb382e",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 13,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have many acquaintances. Social scientists. Knowledge of human nature. One who deals with customers.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nMy success with others, my knowledge of the environment, my knowledge of the partner, my expansion at the location, my freedom at the location, my local experiences, my trading partners, my successes in the environment, inner experiences with a partner, the partner's breadth of soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have many acquaintances. Social scientists. Knowledge of human nature. One who deals with customers.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy success, my knowledge of the environment, my knowledge of the partner, my freedom in the place, my experience in the place, my business partners, my success in the environment, my experience in the sector, and the soul of the partner",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-asc.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC loses distinctions in “experience in the sector” and “the soul of the partner” against Partncr-Erfahrung/Weite. These unclear renderings are excluded from further inference."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Asc specifies `MC/Apollon` through knowledge gained among other people: a wide acquaintance and dealings with customers meet experience of one's surroundings and partners.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Partner experience and breadth; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally viewed actual ABC PDF45 printed92–93 at high resolution in both full page halves and matched every clause in each oriented row. Admetos eight, Asc ten, Cupido seven, Hades eight and Jupiter nine clauses checked. Witte entries retained unchanged; no blanket certification of other source bodies.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-asc.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-asc.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "a56707010a9d14b3d903cef8a79def2303418c2e16ba087f58cff60ed73e22c4",
+    "current_sha256": "e4f2df0a37a572f730114e4fb5a0f394212158b94025664cc22d8e6b6cfb382e",
+    "original_sha256": "b8f75d672e1bbc68f81c1d8b4d20d8aaa59fafd876633adc5377ad5cd2a615da",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-asc.md",
+          "text": "ABC loses distinctions in “experience in the sector” and “the soul of the partner” against Partncr-Erfahrung/Weite. These unclear renderings are excluded from further inference. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC loses distinctions in “experience in the sector” and “the soul of the partner” against Partncr-Erfahrung/Weite. These unclear renderings are excluded from further inference. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-asc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 13,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC loses distinctions in “experience in the sector” and “the soul of the partner” against Partncr-Erfahrung/Weite. These unclear renderings are excluded from further inference. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Partner experience and breadth",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45; printed92–93, exact activator rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "meine Ausbreitung am Ort; seelische Partner-Erfahrung; seelische Weite des Partners",
+      "before_source_section_sha256": "b8f75d672e1bbc68f81c1d8b4d20d8aaa59fafd876633adc5377ad5cd2a615da",
+      "final_source_section_sha256": "e4f2df0a37a572f730114e4fb5a0f394212158b94025664cc22d8e6b6cfb382e",
+      "final_page_sha256": "9f8c42b96e88ce6e60024f5e8680c758a91530370afa2126d5d88d5fe4296276",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-cupido.md",
+    "queue_index": 12,
+    "before_sha256": "f69ad54affadb6df506d47db374fa67d01ca5fb5b5fece06b700f71db3625d12",
+    "after_sha256": "c4592f5ac79f307a570c78cd12524eb02d1fac8284e338484846e95ba47daa75",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 14,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAn experienced art expert. Many connections in the field of art. A friend of peace.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nSuccessful community of souls, shared inner experiences, shared knowledge of the soul, my success in the community, my experiences in the community, inner experiences in the community, growing inner community.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAn experienced art expert. Many connections in the field of art. A friend of peace.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSuccessful soul compassion, shared soul experiences, happy knowledge of the soul, my success in the community, my experiences in the community, seclical experiences in the community, and increasing spiritual pleasure",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-cupido.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “soul compassion”, “happy knowledge”, “seclical”, and “increasing spiritual pleasure” obscure Gerneinschaft/gemeinsames Wissen; exclude the damaged phrases rather than adding claims of pleasure."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Cupido specifies `MC/Apollon` through artistic connections and shared experience.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Shared soul community and knowledge; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally viewed actual ABC PDF45 printed92–93 at high resolution in both full page halves and matched every clause in each oriented row. Admetos eight, Asc ten, Cupido seven, Hades eight and Jupiter nine clauses checked. Witte entries retained unchanged; no blanket certification of other source bodies.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-cupido.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-cupido.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "9cfa3bb3d5f95c206ac05e9f9a2037219a5421ea8f11f74788fe289385e460d7",
+    "current_sha256": "c4592f5ac79f307a570c78cd12524eb02d1fac8284e338484846e95ba47daa75",
+    "original_sha256": "f69ad54affadb6df506d47db374fa67d01ca5fb5b5fece06b700f71db3625d12",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-cupido.md",
+          "text": "ABC's “soul compassion”, “happy knowledge”, “seclical”, and “increasing spiritual pleasure” obscure Gerneinschaft/gemeinsames Wissen; exclude the damaged phrases rather than adding claims of pleasure. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “soul compassion”, “happy knowledge”, “seclical”, and “increasing spiritual pleasure” obscure Gerneinschaft/gemeinsames Wissen; exclude the damaged phrases rather than adding claims of pleasure. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-cupido.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 14,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “soul compassion”, “happy knowledge”, “seclical”, and “increasing spiritual pleasure” obscure Gerneinschaft/gemeinsames Wissen; exclude the damaged phrases rather than adding claims of pleasure. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Shared soul community and knowledge",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45; printed92–93, exact activator rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "Erfolgreiche Seelen-Gemeinschaft; gemeinsames Wissen von der Seele; zunehmende seelische Gemeinschaft",
+      "before_source_section_sha256": "f69ad54affadb6df506d47db374fa67d01ca5fb5b5fece06b700f71db3625d12",
+      "final_source_section_sha256": "c4592f5ac79f307a570c78cd12524eb02d1fac8284e338484846e95ba47daa75",
+      "final_page_sha256": "7f976790f15784847114a3d15ff943872db43d800969b71a9164ac20a44a10cb",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-hades.md",
+    "queue_index": 13,
+    "before_sha256": "4f57b07dc25ee221e33c5468c4fb38f8832d62296d9582fc861dfac5c8211150",
+    "after_sha256": "1ae4308a3cb205f1ab1f29225e4b486c4043391ce9fa45cbd2dd75254ba89af7",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 15,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMaking experiences with evil or old things. Historical scientist. To have knowledge of antiquity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nMy successful renunciation, my secret of success, my hidden knowledge, my successful past, my dangerous experiences, adverse inner experiences, increased sorrow of the soul, increasing inner criminality.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMaking experiences with evil or old things. Historical scientist. To have knowledge of antiquity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy successful renunciation, my secret of success, my hidden knowledge, my successful past, my dangerous experiences, adverse psychic experiences, venerable soul cummer, and increasing mental criminality",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-hades.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “venerable soul cummer” is damaged against vennehrter Seelen-Kummer. Preserve the source wording without deriving a meaning from it."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Hades specifies `MC/Apollon` through knowledge of difficult, hidden, or old material.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Increased sorrow of the soul; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally viewed actual ABC PDF45 printed92–93 at high resolution in both full page halves and matched every clause in each oriented row. Admetos eight, Asc ten, Cupido seven, Hades eight and Jupiter nine clauses checked. Witte entries retained unchanged; no blanket certification of other source bodies.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-hades.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-hades.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "1e81127f5df27c012a2160377d29a0fd2163c22737d948f570b158277be231e3",
+    "current_sha256": "1ae4308a3cb205f1ab1f29225e4b486c4043391ce9fa45cbd2dd75254ba89af7",
+    "original_sha256": "4f57b07dc25ee221e33c5468c4fb38f8832d62296d9582fc861dfac5c8211150",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-hades.md",
+          "text": "ABC's “venerable soul cummer” is damaged against vennehrter Seelen-Kummer. Preserve the source wording without deriving a meaning from it. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “venerable soul cummer” is damaged against vennehrter Seelen-Kummer. Preserve the source wording without deriving a meaning from it. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-hades.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 15,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “venerable soul cummer” is damaged against vennehrter Seelen-Kummer. Preserve the source wording without deriving a meaning from it. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Increased sorrow of the soul",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45; printed92–93, exact activator rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "vermehrter Seelen-Kummer; zunehmende seelische Kriminalität",
+      "before_source_section_sha256": "4f57b07dc25ee221e33c5468c4fb38f8832d62296d9582fc861dfac5c8211150",
+      "final_source_section_sha256": "1ae4308a3cb205f1ab1f29225e4b486c4043391ce9fa45cbd2dd75254ba89af7",
+      "final_page_sha256": "61bbc2bcd8d3afa3faafcf20e056232e0e4f0d656a8fbcb8962f4ba717731c0f",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+    "queue_index": 14,
+    "before_sha256": "41ee8b79c80d346c171a9f40ebafc46a7b9d3398f189fd637e84e42a63b9c8cc",
+    "after_sha256": "cfc17910054828f8be93d26f6a8fa173e631e28c394b3910242e67e520728068",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 16,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHappy experiences. Luck and success in commerce and science.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nJoy in my success, joy and success in the minute, my financial success, my financial knowledge, my legal knowledge, my financial freedom, my legal experiences, experiencing joy of the soul, increase of my money.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHappy experiences. Luck and success in commerce and science.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nJoy over my success, joy and success at the minute, my financial success, my financial knowledge, my legal knowledge, my financial freedom, my legal experiences, soul pleasure, and my money's veneration",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “money's veneration” is unreliable against Vennehrung meines Geldes; exclude the mistranslation. The timing phrase supplies no forecasting rule."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Jupiter specifies `MC/Apollon` through satisfying achievement in commerce and science.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Increase of my money; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally viewed actual ABC PDF45 printed92–93 at high resolution in both full page halves and matched every clause in each oriented row. Admetos eight, Asc ten, Cupido seven, Hades eight and Jupiter nine clauses checked. Witte entries retained unchanged; no blanket certification of other source bodies.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-jupiter.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-jupiter.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "13738423d4093d1518e8a4abaa220a7e7248cbb9ee557fe4007dbca130323171",
+    "current_sha256": "cfc17910054828f8be93d26f6a8fa173e631e28c394b3910242e67e520728068",
+    "original_sha256": "41ee8b79c80d346c171a9f40ebafc46a7b9d3398f189fd637e84e42a63b9c8cc",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-jupiter.md",
+          "text": "ABC's “money's veneration” is unreliable against Vennehrung meines Geldes; exclude the mistranslation. The timing phrase supplies no forecasting rule. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “money's veneration” is unreliable against Vennehrung meines Geldes; exclude the mistranslation. The timing phrase supplies no forecasting rule. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 16,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “money's veneration” is unreliable against Vennehrung meines Geldes; exclude the mistranslation. The timing phrase supplies no forecasting rule. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Increase of my money",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45; printed92–93, exact activator rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "Seelen-Freude erfahren; Vermehrung meines Geldes",
+      "before_source_section_sha256": "41ee8b79c80d346c171a9f40ebafc46a7b9d3398f189fd637e84e42a63b9c8cc",
+      "final_source_section_sha256": "cfc17910054828f8be93d26f6a8fa173e631e28c394b3910242e67e520728068",
+      "final_page_sha256": "cceed80226a90bc0a4215f55d74d4da57eaf3ddac32d894eacf4cb54320a80c5",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-moon.md",
+    "queue_index": 15,
+    "before_sha256": "5b7af11c558f367b4c456054a67943c360e3e4301041b5dd9c074866bd64eb04",
+    "after_sha256": "cd8b22d485e8107e43e297c8ac5510b75f729f2717ba3d06b3e9c53c0b547fe5",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 20,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPsychic experiences. Experiences with women in public. Anthropology.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nExpansion of my people, I am an experienced woman, my knowledge of feeling, my successful wife, my emotional experiences, my increasing feelings, freedom of my people, hour of inner experience, science of a woman's soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPsychic experiences. Experiences with women in public. Anthropology.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExpansion of my people, I at the an experienced woman, my skills, my successful wife, my feelings experiences, my increasing feelings, my people's freedom, hour of emotional experience, and science of the woman's soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-moon.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “I at the” is corrupt, and “my skills” loses Gefllhls-Wissen. Exclude those damaged renderings from synthesis."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Moon specifies `MC/Apollon` through emotional and human experience.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Repaired I am an experienced woman and knowledge of feeling (Gefühls-Wissen), retaining all nine clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 spread; checked Moon nine, Neptune eight, Node seven, Pluto eight and Saturn eight complete clauses, including repeated uncertainty clauses and omitted unfolding verb. Witte source prose retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-moon.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-moon.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "eba5ce9f9b1acf45894d4b5273e14a138bd530afa73bffc4dad589d0c0050533",
+    "current_sha256": "cd8b22d485e8107e43e297c8ac5510b75f729f2717ba3d06b3e9c53c0b547fe5",
+    "original_sha256": "5b7af11c558f367b4c456054a67943c360e3e4301041b5dd9c074866bd64eb04",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-moon.md",
+          "text": "ABC's “I at the” is corrupt, and “my skills” loses Gefllhls-Wissen. Exclude those damaged renderings from synthesis. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “I at the” is corrupt, and “my skills” loses Gefllhls-Wissen. Exclude those damaged renderings from synthesis. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 20,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “I at the” is corrupt, and “my skills” loses Gefllhls-Wissen. Exclude those damaged renderings from synthesis. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Repaired I am an experienced woman and knowledge of feeling (Gefühls-Wissen), retaining all nine clauses.",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45 printed92–93 exact Moon/Neptune/Node/Pluto/Saturn glyph rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "ich bin eine erfahrene Frau; mein Gefühls-Wissen",
+      "before_source_section_sha256": "5b7af11c558f367b4c456054a67943c360e3e4301041b5dd9c074866bd64eb04",
+      "final_source_section_sha256": "cd8b22d485e8107e43e297c8ac5510b75f729f2717ba3d06b3e9c53c0b547fe5",
+      "final_page_sha256": "092e644e0183ce7fc13fb08dc35170a084fa936b503f8b74bd3d89e26fe0ed4a",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-neptune.md",
+    "queue_index": 16,
+    "before_sha256": "c1ef6c1e5bae20d536cfcd6429f1eae44fef4a9cdfd2cd3e56b802c35af6da6a",
+    "after_sha256": "3210a593b3aad93664daa2b5c762227e0b19a0d79a7e3d96cbd2be7e43afea60",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 21,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPeculiar experiences. To penetrate unknown fields of science. To work in a new field of science. Engaged in sciences of the future.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nExpansion of an inner weakness, my success in water, my metaphysical knowledge, my experiences in the air, my freedom in water, my increasing uncertainty, increase of my uncertainty, refinement of knowledge of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPeculiar experiences. To penetrate unknown fields of science. To work in a new field of science. Engaged in sciences of the future.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExtension of a psychic weak, my success in water, my rnetaphysical knowledge, my experiences in the air, my freedom in water, my insecurity, my imagination, and the knowledge of the soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-neptune.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “my imagination” lacks support in the supplied German passage; its opening “psychic weak” is damaged. Neither supports confident additional doctrine."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Neptune specifies `MC/Apollon` through unusual experience and exploration beyond established scientific fields.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored expanding inner weakness, two distinct uncertainty clauses and refinement of knowledge; removed unsupported imagination.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 spread; checked Moon nine, Neptune eight, Node seven, Pluto eight and Saturn eight complete clauses, including repeated uncertainty clauses and omitted unfolding verb. Witte source prose retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-neptune.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-neptune.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "235462535e3154758c0f5c28f6690299179b04a9e8a37e8020da32d39c57fd10",
+    "current_sha256": "3210a593b3aad93664daa2b5c762227e0b19a0d79a7e3d96cbd2be7e43afea60",
+    "original_sha256": "c1ef6c1e5bae20d536cfcd6429f1eae44fef4a9cdfd2cd3e56b802c35af6da6a",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-neptune.md",
+          "text": "ABC's “my imagination” lacks support in the supplied German passage; its opening “psychic weak” is damaged. Neither supports confident additional doctrine. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/neptune-mc-apollon.md",
+          "text": "MC/Apollon = Neptune ABC printed93/PDF45 broken psychic weak/rnetaphysical wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “my imagination” lacks support in the supplied German passage; its opening “psychic weak” is damaged. Neither supports confident additional doctrine. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 21,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “my imagination” lacks support in the supplied German passage; its opening “psychic weak” is damaged. Neither supports confident additional doctrine. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Neptune ABC printed93/PDF45 broken psychic weak/rnetaphysical wording."
+      ],
+      "decision": "Restored expanding inner weakness, two distinct uncertainty clauses and refinement of knowledge; removed unsupported imagination.",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45 printed92–93 exact Moon/Neptune/Node/Pluto/Saturn glyph rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "Ausdehnung einer seelischen Schwäche; meine zunehmende Unsicherheit; Vermehrung meiner Unsicherheit; Verfeinerung des Wissens von der Seele",
+      "before_source_section_sha256": "c1ef6c1e5bae20d536cfcd6429f1eae44fef4a9cdfd2cd3e56b802c35af6da6a",
+      "final_source_section_sha256": "3210a593b3aad93664daa2b5c762227e0b19a0d79a7e3d96cbd2be7e43afea60",
+      "final_page_sha256": "61f3aecbef69faab49691217d3cdda98daf176139911b56e9b0c135face3c7fb",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-node.md",
+    "queue_index": 17,
+    "before_sha256": "fc62b7a4a98e916778b9b55b5465066b02d2a4c7bf89ed2f60390175dc97e589",
+    "after_sha256": "f6486b41257bb0432970cd8e3ee24cada4f2432e7d9b74baab09fd755c42928c",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 22,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo congregate with many people. Meeting scientific people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nSuccessful inner connections, my knowledge about connections, my successful connections, my experiences of contact, my connection to knowledge, connection to the science of the soul, increased inner connections.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo congregate with many people. Meeting scientific people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSuccessful psychic connections, my knowledge of connections, my successful connections, my contact experiences, my connection to knowledge, connection to the science of the soul, and dear psychic connections",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-node.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “dear psychic connections” is unreliable against vennehrte seelische Verbindungen; exclude the adjective rather than assuming affection."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Node specifies `MC/Apollon` through gathering and connections around knowledge.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Repaired increased inner connections (vermehrte seelische Verbindungen), preserving seven clauses without unsupported affection.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 spread; checked Moon nine, Neptune eight, Node seven, Pluto eight and Saturn eight complete clauses, including repeated uncertainty clauses and omitted unfolding verb. Witte source prose retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-node.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-node.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "3c749d3bd431c986bc44ba47b812c74126eeb2611973322b34220e6e9078d378",
+    "current_sha256": "f6486b41257bb0432970cd8e3ee24cada4f2432e7d9b74baab09fd755c42928c",
+    "original_sha256": "fc62b7a4a98e916778b9b55b5465066b02d2a4c7bf89ed2f60390175dc97e589",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-node.md",
+          "text": "ABC's “dear psychic connections” is unreliable against vennehrte seelische Verbindungen; exclude the adjective rather than assuming affection. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/node-mc-apollon.md",
+          "text": "MC/Apollon = Node marks the ABC adjective “dear” unreliable. The activation owner retains the source-text qualification; no raw-source repair was attempted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “dear psychic connections” is unreliable against vennehrte seelische Verbindungen; exclude the adjective rather than assuming affection. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-node.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 22,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “dear psychic connections” is unreliable against vennehrte seelische Verbindungen; exclude the adjective rather than assuming affection. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Node marks the ABC adjective “dear” unreliable. The activation owner retains the source-text qualification; no raw-source repair was attempted here."
+      ],
+      "decision": "Repaired increased inner connections (vermehrte seelische Verbindungen), preserving seven clauses without unsupported affection.",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45 printed92–93 exact Moon/Neptune/Node/Pluto/Saturn glyph rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "vermehrte seelische Verbindungen",
+      "before_source_section_sha256": "fc62b7a4a98e916778b9b55b5465066b02d2a4c7bf89ed2f60390175dc97e589",
+      "final_source_section_sha256": "f6486b41257bb0432970cd8e3ee24cada4f2432e7d9b74baab09fd755c42928c",
+      "final_page_sha256": "33f8748e969d6ffe85f03f3e72413f5d1f8726ca0cca21a32c0a1a6370e99f5f",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-pluto.md",
+    "queue_index": 18,
+    "before_sha256": "f0e930fd0cd7fe199ae53021f4997975236d1c0011057c6ad5bb36f12b614263",
+    "after_sha256": "f0bdcb3484c61c6cf1d6fc2c3a5cb6122282d43938cafeffa86e1bf7acaf9e77",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 23,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe correct evaluation of own experiences. Developing scientific abilities. To experience an extensive change, or many alterations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nDevelopment of my knowledge, successful evolution of the soul, my successful development, my extensive changes, my growing freedom, unfolding breadth of soul, science of the growth of the soul, changing experiences of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe correct evaluation of own experiences. Developing scientific abilities. To experience an extensive change, or many alterations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of my knowledge, successful evolution of the soul, my successful development, my extensive changes, my growing freedom, the scelic expanse, science of the growth of the soul, and changing experiences of the soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-pluto.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “scelic expanse” is damaged English against scelischc Weite entfalten; preserve it without inventing a technical concept."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Pluto specifies `MC/Apollon` through development informed by experience.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Repaired unfolding breadth of soul (seelische Weite entfalten), retaining all eight development clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 spread; checked Moon nine, Neptune eight, Node seven, Pluto eight and Saturn eight complete clauses, including repeated uncertainty clauses and omitted unfolding verb. Witte source prose retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-pluto.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-pluto.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "085765250ec9736a38ecd05a6decf954198e32b082d5ec5c8b5f3cd17effcab1",
+    "current_sha256": "f0bdcb3484c61c6cf1d6fc2c3a5cb6122282d43938cafeffa86e1bf7acaf9e77",
+    "original_sha256": "f0e930fd0cd7fe199ae53021f4997975236d1c0011057c6ad5bb36f12b614263",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-pluto.md",
+          "text": "ABC's “scelic expanse” is damaged English against scelischc Weite entfalten; preserve it without inventing a technical concept. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/pluto-mc-apollon.md",
+          "text": "MC/Apollon = Pluto retains damaged ABC “scelic expanse” wording with a qualification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “scelic expanse” is damaged English against scelischc Weite entfalten; preserve it without inventing a technical concept. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-pluto.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 23,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “scelic expanse” is damaged English against scelischc Weite entfalten; preserve it without inventing a technical concept. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Pluto retains damaged ABC “scelic expanse” wording with a qualification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Repaired unfolding breadth of soul (seelische Weite entfalten), retaining all eight development clauses.",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45 printed92–93 exact Moon/Neptune/Node/Pluto/Saturn glyph rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "seelische Weite entfalten",
+      "before_source_section_sha256": "f0e930fd0cd7fe199ae53021f4997975236d1c0011057c6ad5bb36f12b614263",
+      "final_source_section_sha256": "f0bdcb3484c61c6cf1d6fc2c3a5cb6122282d43938cafeffa86e1bf7acaf9e77",
+      "final_page_sha256": "b96ce624f0d1d62c6292c8246e5e9410f4dc2e70a8b05387b0e73d8836051633",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-saturn.md",
+    "queue_index": 19,
+    "before_sha256": "ac630caa03c1b54589b0354dfc9fa3258a31a88117562b37673defa1e82ea15d",
+    "after_sha256": "1cd79903f7d95d82fddc573d20797c16d0add2421b9d202409f633792792827b",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 25,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be a student of commerce or science. Successful education. To be fortunate through following the correct methods and in the area of education.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nMy serious knowledge, my successful concentration, my problems with knowledge, my extensive inhibitions, my scientific tasks, maturity through inner experiences, spread of inner disturbances, loss of my freedom.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be a student of commerce or science. Successful education. To be fortunate through following the correct methods and in the area of education.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy very best knowledge, my successful concentration, my problerne rnit the knowledge, my extensive productions, my scientific tasks, maturity through psychic experiences, the spread of mental disturbances, and the loss of my freedom",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-saturn.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “very best knowledge” and “extensive productions” are unreliable against emstes Wissen and Hernmungen; exclude them. Successful education and restriction are alternatives, not proven contradiction."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Saturn specifies `MC/Apollon` through concentration and method in learning.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored serious knowledge and extensive inhibitions, with complete eight-clause row and historical disturbance qualification.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 spread; checked Moon nine, Neptune eight, Node seven, Pluto eight and Saturn eight complete clauses, including repeated uncertainty clauses and omitted unfolding verb. Witte source prose retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-saturn.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-saturn.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "e07f24adaf08040ea904f3c8a1a5433f96eff017022926f66e52b56a7ebd7835",
+    "current_sha256": "1cd79903f7d95d82fddc573d20797c16d0add2421b9d202409f633792792827b",
+    "original_sha256": "ac630caa03c1b54589b0354dfc9fa3258a31a88117562b37673defa1e82ea15d",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-saturn.md",
+          "text": "ABC's “very best knowledge” and “extensive productions” are unreliable against emstes Wissen and Hernmungen; exclude them. Successful education and restriction are alternatives, not proven contradiction. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/saturn-mc-apollon.md",
+          "text": "MC/Apollon = Saturn excludes unreliable ABC “very best knowledge” and “extensive productions” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “very best knowledge” and “extensive productions” are unreliable against emstes Wissen and Hernmungen; exclude them. Successful education and restriction are alternatives, not proven contradiction. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-saturn.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 25,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “very best knowledge” and “extensive productions” are unreliable against emstes Wissen and Hernmungen; exclude them. Successful education and restriction are alternatives, not proven contradiction. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Saturn excludes unreliable ABC “very best knowledge” and “extensive productions” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Restored serious knowledge and extensive inhibitions, with complete eight-clause row and historical disturbance qualification.",
+      "raw_locator": "Udo Rudolph ABC; MC + Apollon; one-based PDF45 printed92–93 exact Moon/Neptune/Node/Pluto/Saturn glyph rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png"
+      ],
+      "native_check": "Mein ernstes Wissen; meine umfangreichen Hemmungen",
+      "before_source_section_sha256": "ac630caa03c1b54589b0354dfc9fa3258a31a88117562b37673defa1e82ea15d",
+      "final_source_section_sha256": "1cd79903f7d95d82fddc573d20797c16d0add2421b9d202409f633792792827b",
+      "final_page_sha256": "171d890181c56e7eccb5bda1a08495ce6d8845f6eced6a9d3cae61c065c1628d",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-sun.md",
+    "queue_index": 20,
+    "before_sha256": "f28e201b60d09b936a220eda22f1242806ecb84356b3ab95508a516e92b619e1",
+    "after_sha256": "ed5dd868e0b735aac78d780cf0e8f82949484b8024e3e08eb10be365452c4da1",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 26,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe correct use of the senses. Success as a scientist or through life experience. To have very extensive connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nI am a successful person, my commercial center, my personal success, my knowledge of the body, the fullness of my body (Körper-Fülle), my personal freedom, my many men, a person's breadth of soul, science of body and soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe correct use of the senses. Success as a scientist or through life experience. To have very extensive connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nI at the a crfogrcicher man, my commercial centrurn, my personal success, my knowledge of the body, my body for, my personal freedom, my many men, a human being's spiritual vastness, and science of body and soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-sun.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “I at the a crfogrcicher man”, “centrurn”, and “body for” need source-level translation repair. Exclude the corrupt wording from synthesis."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Sun specifies `MC/Apollon` through personal success supported by perception and experience.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored successful person, commercial center and fullness of body, preserving the nine-clause ABC row.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 Sun nine, Uranus eight, Vernal Point seven, Vulcanus nine and Zeus eight clauses; actual Witte PDF74 Uranus row confirms the leading extraction fragment is a display glyph, not prose. All other Witte wording retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-sun.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-sun.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "18fd8c4d4cf0080aed21392768615b2f8c9df3d59a0de94729fbae18d21bf52b",
+    "current_sha256": "ed5dd868e0b735aac78d780cf0e8f82949484b8024e3e08eb10be365452c4da1",
+    "original_sha256": "f28e201b60d09b936a220eda22f1242806ecb84356b3ab95508a516e92b619e1",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-sun.md",
+          "text": "ABC's “I at the a crfogrcicher man”, “centrurn”, and “body for” need source-level translation repair. Exclude the corrupt wording from synthesis. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-mc-apollon.md",
+          "text": "MC/Apollon = Sun and Sun/MC = Apollon qualify damaged ABC body-related fragments, including “my body flour.” Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “I at the a crfogrcicher man”, “centrurn”, and “body for” need source-level translation repair. Exclude the corrupt wording from synthesis. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-sun.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 26,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “I at the a crfogrcicher man”, “centrurn”, and “body for” need source-level translation repair. Exclude the corrupt wording from synthesis. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Sun and Sun/MC = Apollon qualify damaged ABC body-related fragments, including “my body flour.” Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Restored successful person, commercial center and fullness of body, preserving the nine-clause ABC row.",
+      "raw_locator": "ABC MC + Apollon PDF45 printed92–93; Witte MERIDIAN + APOLLON PDF74 exact Uranus row",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png"
+      ],
+      "native_check": "Ich bin ein erfolgreicher Mensch; meine Körper-Fülle",
+      "before_source_section_sha256": "f28e201b60d09b936a220eda22f1242806ecb84356b3ab95508a516e92b619e1",
+      "final_source_section_sha256": "ed5dd868e0b735aac78d780cf0e8f82949484b8024e3e08eb10be365452c4da1",
+      "final_page_sha256": "e6c11c06b9695cf713bb1cf63c2a96a325010a41a0f9495a48610ceb00d98852",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-uranus.md",
+    "queue_index": 21,
+    "before_sha256": "995f9078fdc81653853278c7007df1c464f311083336ecad0271ad2557800496",
+    "after_sha256": "b079f0d19c144bf1fbed1b7443beb78e7e8269b758d9a84af1570d1392653b65",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 27,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `MERIDIAN + APOLLON`; one-based PDF page `74` (Uranus row checked against the raw scan).\n\nSudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nMy new knowledge, my surprising success, my impulses toward freedom, my technical experiences, new knowledge of the soul, reforming knowledge of the soul, experiencing inner excitement, surprising liberation of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n<•) Sudden experiences. To be scientifically connected with technology, industry or factories. The astrologer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy new knowledge, my surprising success, my strength impulses, my tchnic experiences, ncues knowledge of the soul, reforming the knowledge of the soul, experiencing psychic excitement, and surprising liberation of the soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-uranus.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “strength impulses” is unreliable against Frciheits-Impulse; “tchnic” and “ncues” remain damaged. Witte's leading <•) is an OCR artifact, not doctrine."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Uranus specifies `MC/Apollon` through sudden experiences and new knowledge, particularly in technical or industrial settings.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored freedom impulses and technical/new knowledge; removed Witte's extracted Uranus display fragment after actual row check.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 Sun nine, Uranus eight, Vernal Point seven, Vulcanus nine and Zeus eight clauses; actual Witte PDF74 Uranus row confirms the leading extraction fragment is a display glyph, not prose. All other Witte wording retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-uranus.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-uranus.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "7d9014299be491a4d8201c98110b5c682104d7881fcdc875a88559860c8b2676",
+    "current_sha256": "b079f0d19c144bf1fbed1b7443beb78e7e8269b758d9a84af1570d1392653b65",
+    "original_sha256": "995f9078fdc81653853278c7007df1c464f311083336ecad0271ad2557800496",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-uranus.md",
+          "text": "ABC's “strength impulses” is unreliable against Frciheits-Impulse; “tchnic” and “ncues” remain damaged. Witte's leading <•) is an OCR artifact, not doctrine. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/uranus-mc-apollon.md",
+          "text": "MC/Apollon = Uranus and Uranus/MC = Apollon retain damaged ABC impulse/technical/rhythm wording; Witte's leading extraction symbol is not doctrine. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/uranus-mc-apollon.md",
+          "text": "MC/Apollon = Uranus and Uranus/MC = Apollon retain damaged ABC impulse/technical/rhythm wording; Witte's leading extraction symbol is not doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “strength impulses” is unreliable against Frciheits-Impulse; “tchnic” and “ncues” remain damaged. Witte's leading <•) is an OCR artifact, not doctrine. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-uranus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 27,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “strength impulses” is unreliable against Frciheits-Impulse; “tchnic” and “ncues” remain damaged. Witte's leading <•) is an OCR artifact, not doctrine. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Uranus and Uranus/MC = Apollon retain damaged ABC impulse/technical/rhythm wording; Witte's leading extraction symbol is not doctrine. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Apollon = Uranus and Uranus/MC = Apollon retain damaged ABC impulse/technical/rhythm wording; Witte's leading extraction symbol is not doctrine."
+      ],
+      "decision": "Restored freedom impulses and technical/new knowledge; removed Witte's extracted Uranus display fragment after actual row check.",
+      "raw_locator": "ABC MC + Apollon PDF45 printed92–93; Witte MERIDIAN + APOLLON PDF74 exact Uranus row",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png"
+      ],
+      "native_check": "meine Freiheits-Impulse; meine technischen Erfahrungen; neues Wissen von der Seele",
+      "before_source_section_sha256": "995f9078fdc81653853278c7007df1c464f311083336ecad0271ad2557800496",
+      "final_source_section_sha256": "b079f0d19c144bf1fbed1b7443beb78e7e8269b758d9a84af1570d1392653b65",
+      "final_page_sha256": "d85fb5bb25a3a97d6bdcbf3218e551029c71e8b12a538927633726e7b0aac92b",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts.",
+      "Witte PDF74 Uranus/Pluto alternative glyph read against PDF28 key: the printed symbol is not prose and was removed from the quotation; actual Sudden experiences clause and added PDF reference verified."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf074.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf028.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+    "queue_index": 22,
+    "before_sha256": "c0c8a464e5271d86faf7e62653209224e4dfe31597afbf555d9185d2bae79919",
+    "after_sha256": "8bbde9abfe9e3e5057f4310491b7f5774261d683f9ab31c53b46bc403fc66e89",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 29,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMeeting many people. To hear and see much. Great and rich experiences in a lifetime. Scientists in general. Geoscientists.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nMy success in public life, my trade in public life, my public business, my experiences in public life, my freedom in public life, inner experiences in public life, knowledge of the inner nature of the public.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMeeting many people. To hear and see much. Great and rich experiences in a lifetime. Scientists in general. Geoscientists.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy success in the public sphere and my experience in the public sphere",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's cached translation collapses several German clauses into repeated public experience; the admitted short entry does not independently substantiate the omitted details."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Vernal Point specifies `MC/Apollon` through broad public experience: meeting many people, seeing and hearing much, and accumulating a rich range of encounters.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored all seven public-life clauses, including trade, business, freedom and knowledge of the public's inner nature.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 Sun nine, Uranus eight, Vernal Point seven, Vulcanus nine and Zeus eight clauses; actual Witte PDF74 Uranus row confirms the leading extraction fragment is a display glyph, not prose. All other Witte wording retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-vernal-point.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-vernal-point.md#abc-entry; printed p. 92",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "53f7f2dfbc3c3702cb8391a17cd6b5b20e41062d14cedd67345cce791a1a105b",
+    "current_sha256": "8bbde9abfe9e3e5057f4310491b7f5774261d683f9ab31c53b46bc403fc66e89",
+    "original_sha256": "c0c8a464e5271d86faf7e62653209224e4dfe31597afbf555d9185d2bae79919",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-vernal-point.md",
+          "text": "ABC's cached translation collapses several German clauses into repeated public experience; the admitted short entry does not independently substantiate the omitted details. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-apollon.md",
+          "text": "MC/Apollon = Vernal Point has repeated ABC English that omits several German clauses; its short excerpt does not substantiate the missing details. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-apollon.md",
+          "text": "MC/Apollon = Vernal Point has repeated ABC English that omits several German clauses; its short excerpt does not substantiate the missing details.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's cached translation collapses several German clauses into repeated public experience; the admitted short entry does not independently substantiate the omitted details. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 29,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's cached translation collapses several German clauses into repeated public experience; the admitted short entry does not independently substantiate the omitted details. Source wording remains unchanged pending raw-PDF verification.",
+        "MC/Apollon = Vernal Point has repeated ABC English that omits several German clauses; its short excerpt does not substantiate the missing details. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Apollon = Vernal Point has repeated ABC English that omits several German clauses; its short excerpt does not substantiate the missing details."
+      ],
+      "decision": "Restored all seven public-life clauses, including trade, business, freedom and knowledge of the public's inner nature.",
+      "raw_locator": "ABC MC + Apollon PDF45 printed92–93; Witte MERIDIAN + APOLLON PDF74 exact Uranus row",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png"
+      ],
+      "native_check": "mein Handel in der Öffentlichkeit; mein öffentliches Gewerbe; Wissen vom inneren Wesen der Öffentlichkeit",
+      "before_source_section_sha256": "c0c8a464e5271d86faf7e62653209224e4dfe31597afbf555d9185d2bae79919",
+      "final_source_section_sha256": "8bbde9abfe9e3e5057f4310491b7f5774261d683f9ab31c53b46bc403fc66e89",
+      "final_page_sha256": "33d5a6000e9a940825cdd0be5123f54ccce7b42817546614f8e45ee5211da60a",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+    "queue_index": 23,
+    "before_sha256": "66cd7ddbab535b2269d332942431d76fa582a9bdf6104d121cc2d54fa0571c9c",
+    "after_sha256": "4c42a93b2010fcf4f8604f92c7236bb0c19c9ac69f1c89d49c0bd7dc36cd7e41",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 30,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBroad mental horizon. Great success in personal experiences.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nExpansion of inner force or violence (seelische Gewalt), successful power of the soul, successful inner influence, my influence through knowledge, my experiences with power, my abundance of strength, experiencing inner strength, increase of inner strength, increasing inner influence.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBroad mental horizon. Great success in personal experiences.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExpansion of psychic violence, successful power of the soul, successful psychic influence, my influence through knowledge, my experiences with the power, my strength fillle, experience psychic strength, veneration of the psychic force, and increasing psychic influence",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's “strength fillle” and “veneration of the psychic force” are damaged against Kraft-Fillle and Vennehrung; exclude those renderings."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Vulcanus specifies `MC/Apollon` through a broad mental horizon and influence gained through knowledge.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored abundance of strength and increase of inner strength; retained force/violence range without veneration mistranslation.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 Sun nine, Uranus eight, Vernal Point seven, Vulcanus nine and Zeus eight clauses; actual Witte PDF74 Uranus row confirms the leading extraction fragment is a display glyph, not prose. All other Witte wording retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-vulcanus.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-vulcanus.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "869d99a7f8e7dc1554285ced796c49c3b91944cb33a48439808ed69990ccb677",
+    "current_sha256": "4c42a93b2010fcf4f8604f92c7236bb0c19c9ac69f1c89d49c0bd7dc36cd7e41",
+    "original_sha256": "66cd7ddbab535b2269d332942431d76fa582a9bdf6104d121cc2d54fa0571c9c",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-vulcanus.md",
+          "text": "ABC's “strength fillle” and “veneration of the psychic force” are damaged against Kraft-Fillle and Vennehrung; exclude those renderings. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's “strength fillle” and “veneration of the psychic force” are damaged against Kraft-Fillle and Vennehrung; exclude those renderings. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 30,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's “strength fillle” and “veneration of the psychic force” are damaged against Kraft-Fillle and Vennehrung; exclude those renderings. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Restored abundance of strength and increase of inner strength; retained force/violence range without veneration mistranslation.",
+      "raw_locator": "ABC MC + Apollon PDF45 printed92–93; Witte MERIDIAN + APOLLON PDF74 exact Uranus row",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png"
+      ],
+      "native_check": "meine Kraft-Fülle; Vermehrung der seelischen Kraft",
+      "before_source_section_sha256": "66cd7ddbab535b2269d332942431d76fa582a9bdf6104d121cc2d54fa0571c9c",
+      "final_source_section_sha256": "4c42a93b2010fcf4f8604f92c7236bb0c19c9ac69f1c89d49c0bd7dc36cd7e41",
+      "final_page_sha256": "f361bb6147e44924389848f7da0055aa375af780c5efee4834c639ec3d622a77",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-apollon-equals-zeus.md",
+    "queue_index": 24,
+    "before_sha256": "4e9dae84d26df51ce85ae78224b27906b10e76e37a808570416ec3c63392ec66",
+    "after_sha256": "490e1cb9aeda05c997a50f285d2b8dc01fc50c33495e661642a818fb86020583",
+    "ledger": "activations-030.jsonl",
+    "ledger_line": 31,
+    "source_entries_unchanged_from_baseline": false,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nExperiences in the field of fire, technology and engineering. An interest in the natural sciences.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `MC + Apollon`; printed p. `93`; one-based PDF page `45` (complete oriented row checked against the raw scan).\n\nExpansion of my achievements, success of a fiery soul, successful guidance of the soul (Seelen-Führung), my successful striving toward goals, my creative knowledge, my successful leadership, creative science of the soul, inner experiences of guidance.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nExperiences in the field of fire, technology and engineering. An interest in the natural sciences.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExtension of my achievements, success of a fiery soul, successful soul carrying, my successful goal striving, my creative knowledge, my successful movement, creative science of the soul, and soul carrying experiences",
+    "ledger_record": {
+      "path": "wiki/activations/mc-apollon-equals-zeus.md",
+      "reviewer": "review_030_031",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Comparative Schema absent; prior keyword synthesis needed exact-oriented, evidence-bounded prose.",
+        "ABC's repeated “soul carrying” and “successful movement” misrender FUhrung-related wording; exclude them pending clean source verification."
+      ],
+      "changes": [
+        "Added Identity interpretation link and all six meaningful comparative categories.",
+        "Zeus specifies `MC/Apollon` through experience in fire, technology, engineering, and natural science.",
+        "Initial full review preserved Source Entries verbatim and retained the immediate anchor; closure B subsequently repaired the ABC entry against the actual raw scan.",
+        "Source-quality closure B: Restored guidance and leadership clauses in place of soul carrying and movement, preserving eight clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read the complete original page in untruncated output; compared exact-oriented German/English evidence.",
+        "Verified current Source Entries and frontmatter/identity/link content against the pre-edit read.",
+        "Verified six comparative categories, authored connected synthesis, local entry links, and adjacent anchor.",
+        "Inspected scoped actual diff and matched current prose to authored review; source-evidence-witte cache matches the combined cache for the exact formula.",
+        "Closure B personally inspected actual high-resolution ABC PDF45 Sun nine, Uranus eight, Vernal Point seven, Vulcanus nine and Zeus eight clauses; actual Witte PDF74 Uranus row confirms the leading extraction fragment is a display glyph, not prose. All other Witte wording retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "wiki/activations/mc-apollon-equals-zeus.md#witte-entry; PDF p. 74, entry start",
+        "wiki/activations/mc-apollon-equals-zeus.md#abc-entry; printed p. 93",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence.jsonl: exact formula German original, English cache, and locators.",
+        "docs/reviews/2026-10-15-full-wiki/source-evidence-witte.jsonl: identical Witte entry text, PDF page, and entry_start granularity.",
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "f820d76c8072b197593ec94d356634ba5a61f923498d4bb927a3c9cd94cd23a8",
+    "current_sha256": "490e1cb9aeda05c997a50f285d2b8dc01fc50c33495e661642a818fb86020583",
+    "original_sha256": "4e9dae84d26df51ce85ae78224b27906b10e76e37a808570416ec3c63392ec66",
+    "closure_flags": {
+      "path": "wiki/activations/mc-apollon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "recorded_reviewer": "review_030_031",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-apollon-equals-zeus.md",
+          "text": "ABC's repeated “soul carrying” and “successful movement” misrender FUhrung-related wording; exclude them pending clean source verification. Source wording remains unchanged pending raw-PDF verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC's repeated “soul carrying” and “successful movement” misrender FUhrung-related wording; exclude them pending clean source verification. Source wording remains unchanged pending raw-PDF verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-apollon-equals-zeus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 31,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC's repeated “soul carrying” and “successful movement” misrender FUhrung-related wording; exclude them pending clean source verification. Source wording remains unchanged pending raw-PDF verification."
+      ],
+      "decision": "Restored guidance and leadership clauses in place of soul carrying and movement, preserving eight clauses.",
+      "raw_locator": "ABC MC + Apollon PDF45 printed92–93; Witte MERIDIAN + APOLLON PDF74 exact Uranus row",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf45-left.png",
+        "verification/source-closure-B-abc-pdf45-right.png",
+        "verification/source-closure-B-witte-pdf74.png"
+      ],
+      "native_check": "erfolgreiche Seelen-Führung; meine erfolgreiche Führung; seelische Führungs-Erfahrungen",
+      "before_source_section_sha256": "4e9dae84d26df51ce85ae78224b27906b10e76e37a808570416ec3c63392ec66",
+      "final_source_section_sha256": "490e1cb9aeda05c997a50f285d2b8dc01fc50c33495e661642a818fb86020583",
+      "final_page_sha256": "51d4a33d9dc800f5c62f5d6c6307dd30f80aa67647604a8a06ca1cffbff12381",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-apollon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf045.png"
+    ],
+    "raw_locator": "ABC printed92–93 / actual PDF45"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+    "queue_index": 58,
+    "before_sha256": "59dc054352da20cda32c6ff7471125efccac03acc32ddd0c59b441a918296d79",
+    "after_sha256": "59dc054352da20cda32c6ff7471125efccac03acc32ddd0c59b441a918296d79",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 23,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be suppressed or subjugated. Restrained. To suffer failures.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nDepression through mental violence, limited mental influence, end of my power, consolidation through psychic energy, my energy cycle, my thorough influence, my persevering energy, condensation of psychic energy.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be suppressed or subjugated. Restrained. To suffer failures.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDepression through mental violence, limited mental influence, end of my power, consolidation through psychic energy, my energy cycle, my grild influence, my persevering energy, and condensation of psychic energy",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Power restrained or concentrated.",
+        "ABC 'my grild influence' retains damaged OCR 'grilndlicher Einfluf3'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Power restrained or concentrated.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired gründlicher Einfluß as thorough influence; full eight-clause raw row checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected both high-resolution actual ABC PDF47 halves and matched every clause: Admetos eight, Apollon eight, Cupido eight, Hades nine and Jupiter nine. Confirmed gründlicher, Energie-Fülle, Kunst, gefährdete Macht and Rechts-Einfluß against the visible print. Witte source bodies retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "0c0c1cb364fbbf47a100e915138c3348b8f80fca3aed593833ffdf1362a31b2a",
+    "current_sha256": "222183939439c9038c882b0a5c30b013a6f8cd79a42e734e14922261d0a16484",
+    "original_sha256": "59dc054352da20cda32c6ff7471125efccac03acc32ddd0c59b441a918296d79",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-admetos.md",
+          "text": "ABC 'my grild influence' retains damaged OCR 'grilndlicher Einfluf3'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my grild influence' retains damaged OCR 'grilndlicher Einfluf3'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 23,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my grild influence' retains damaged OCR 'grilndlicher Einfluf3'."
+      ],
+      "decision": "Repaired gründlicher Einfluß as thorough influence; full eight-clause raw row checked.",
+      "raw_locator": "Udo Rudolph ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Admetos/Apollon/Cupido/Hades/Jupiter rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "mein gründlicher Einfluß",
+      "before_source_section_sha256": "59dc054352da20cda32c6ff7471125efccac03acc32ddd0c59b441a918296d79",
+      "final_source_section_sha256": "222183939439c9038c882b0a5c30b013a6f8cd79a42e734e14922261d0a16484",
+      "final_page_sha256": "dc9901d4e2b7332451a5e01194e66aa5b7ef54ee1b7c30733c6b3cacf53cde22",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+    "queue_index": 59,
+    "before_sha256": "28d7314b8df95856754178294e2d123bcaa943bceec0a41045df3999e841d504",
+    "after_sha256": "28d7314b8df95856754178294e2d123bcaa943bceec0a41045df3999e841d504",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 24,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSuccessful wielding of power. Expansion.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nExpansion of psychic violence, success through psychic energy, my successful influence, my strong success, my abundance of energy, extensive psychic influence, science of the influence of the soul, increasing psychic influence.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSuccessful wielding of power. Expansion.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExpansion of psychic violence, success through psychic energy, my successful influence, my strong success, my energy bulb, extensive psychic influence, science of the influence of the soul, and increasing psychic influence",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Successful exercise and expansion of influence.",
+        "ABC 'my energy bulb' mismatches German OCR 'meine Energie-FUlle'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Successful exercise and expansion of influence.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired Energie-Fülle as abundance of energy; retained the separate violence claim and eight source clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected both high-resolution actual ABC PDF47 halves and matched every clause: Admetos eight, Apollon eight, Cupido eight, Hades nine and Jupiter nine. Confirmed gründlicher, Energie-Fülle, Kunst, gefährdete Macht and Rechts-Einfluß against the visible print. Witte source bodies retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "f90a5871878a30dd18bfd27a9e8feb56a5f6e1527974a7dbb8ea33c923be410f",
+    "current_sha256": "ba99469238f8fd1166592d217712e4484dd20e5145bd9fbacbc6a6ce7a24fcc9",
+    "original_sha256": "28d7314b8df95856754178294e2d123bcaa943bceec0a41045df3999e841d504",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-apollon.md",
+          "text": "ABC 'my energy bulb' mismatches German OCR 'meine Energie-FUlle'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mc-apollon-vulcanus.md",
+          "text": "MC/Vulcanus = Apollon ABC printed97/PDF47 retains my energy bulb; translation verification required.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my energy bulb' mismatches German OCR 'meine Energie-FUlle'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 24,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my energy bulb' mismatches German OCR 'meine Energie-FUlle'.",
+        "MC/Vulcanus = Apollon ABC printed97/PDF47 retains my energy bulb; translation verification required."
+      ],
+      "decision": "Repaired Energie-Fülle as abundance of energy; retained the separate violence claim and eight source clauses.",
+      "raw_locator": "Udo Rudolph ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Admetos/Apollon/Cupido/Hades/Jupiter rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "meine Energie-Fülle",
+      "before_source_section_sha256": "28d7314b8df95856754178294e2d123bcaa943bceec0a41045df3999e841d504",
+      "final_source_section_sha256": "ba99469238f8fd1166592d217712e4484dd20e5145bd9fbacbc6a6ce7a24fcc9",
+      "final_page_sha256": "8dd18153275aceaca77c2f1bfb1dd670983a94ce75e5f0d7833767af4a15b712",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+    "queue_index": 60,
+    "before_sha256": "2d177402573a78a2b63f2afd3cede1ecffe41bbce4c950592108440b047735a9",
+    "after_sha256": "2d177402573a78a2b63f2afd3cede1ecffe41bbce4c950592108440b047735a9",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 26,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMight and influence through family or community.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nShared psychic influence, my influence in the community, my artistic strength, my strong community, psychic energy of a community, inner influence of art, inner strength of a community, strong community of souls.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMight and influence through family or community.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nCommon psychic influence, my influence in the community, my artistic strength, my strong community, psychic energy of a community, psychic influence of the artist, psychic power of a community, and strong soul community",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Influence through communal and artistic life.",
+        "ABC 'psychic influence of the artist' mismatches German OCR 'seelischer Einfluf3 der Kunst'; no artist-specific claim is synthesized."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Influence through communal and artistic life.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored influence of art rather than an artist, and Kraft as inner strength of community; all eight clauses checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected both high-resolution actual ABC PDF47 halves and matched every clause: Admetos eight, Apollon eight, Cupido eight, Hades nine and Jupiter nine. Confirmed gründlicher, Energie-Fülle, Kunst, gefährdete Macht and Rechts-Einfluß against the visible print. Witte source bodies retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "9c7eac92373bd635c6947821b2155a8de557ae15eadfdddb5f81758130d79d7c",
+    "current_sha256": "4c22476edceb80b94a85ee06912fe3f890cdb9b03cdda6e662daabd329fdb9d6",
+    "original_sha256": "2d177402573a78a2b63f2afd3cede1ecffe41bbce4c950592108440b047735a9",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-cupido.md",
+          "text": "ABC 'psychic influence of the artist' mismatches German OCR 'seelischer Einfluf3 der Kunst'; no artist-specific claim is synthesized.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'psychic influence of the artist' mismatches German OCR 'seelischer Einfluf3 der Kunst'; no artist-specific claim is synthesized."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 26,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'psychic influence of the artist' mismatches German OCR 'seelischer Einfluf3 der Kunst'; no artist-specific claim is synthesized."
+      ],
+      "decision": "Restored influence of art rather than an artist, and Kraft as inner strength of community; all eight clauses checked.",
+      "raw_locator": "Udo Rudolph ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Admetos/Apollon/Cupido/Hades/Jupiter rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "seelischer Einfluß der Kunst; seelische Kraft einer Gemeinschaft",
+      "before_source_section_sha256": "2d177402573a78a2b63f2afd3cede1ecffe41bbce4c950592108440b047735a9",
+      "final_source_section_sha256": "4c22476edceb80b94a85ee06912fe3f890cdb9b03cdda6e662daabd329fdb9d6",
+      "final_page_sha256": "a5cda216dba636367ccbcfb05b1bcc4e3d71743ace33b19fd84e2e5e1539199f",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+    "queue_index": 61,
+    "before_sha256": "02e05d16b114d2b5350b40cb41895cb920aafaee457917f78d9196ce117f3310",
+    "after_sha256": "02e05d16b114d2b5350b40cb41895cb920aafaee457917f78d9196ce117f3310",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 27,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEncircled by danger. Ignoring danger. To deliberately commit oneself to danger. To take up the fight against something which is repulsive.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nDanger through psychic violence, power of a serving soul, lack of psychic energy, my hidden influence, my energy deficiency, my endangered power, my power in the past, crime involving psychic violence, strong emotional grief.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEncircled by danger. Ignoring danger. To deliberately commit oneself to danger. To take up the fight against something which is repulsive.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDanger by psychic violence, power of a serving soul, lack of psychic energy, my hidden influence, my energy deficiency, my dangerous power, my power in the past, psychic violence crime, and strong emotional grief",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Power encountered under dangerous or difficult conditions.",
+        "ABC 'my dangerous power' mismatches 'meine gefahrdete Macht'; the threatened-power nuance is not silently repaired."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Power encountered under dangerous or difficult conditions.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored endangered power (gefährdete Macht), distinguishing threatened power from dangerous power; nine clauses checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected both high-resolution actual ABC PDF47 halves and matched every clause: Admetos eight, Apollon eight, Cupido eight, Hades nine and Jupiter nine. Confirmed gründlicher, Energie-Fülle, Kunst, gefährdete Macht and Rechts-Einfluß against the visible print. Witte source bodies retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "741785a377983cd011bed64b52ad0f7df13aa1d99ba766cc842be3606ef263a8",
+    "current_sha256": "0435df2aa4071543e196578c33bdb5ad20a737b2cfdee53d593b32e50a467f62",
+    "original_sha256": "02e05d16b114d2b5350b40cb41895cb920aafaee457917f78d9196ce117f3310",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-hades.md",
+          "text": "ABC 'my dangerous power' mismatches 'meine gefahrdete Macht'; the threatened-power nuance is not silently repaired.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my dangerous power' mismatches 'meine gefahrdete Macht'; the threatened-power nuance is not silently repaired."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 27,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my dangerous power' mismatches 'meine gefahrdete Macht'; the threatened-power nuance is not silently repaired."
+      ],
+      "decision": "Restored endangered power (gefährdete Macht), distinguishing threatened power from dangerous power; nine clauses checked.",
+      "raw_locator": "Udo Rudolph ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Admetos/Apollon/Cupido/Hades/Jupiter rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "meine gefährdete Macht",
+      "before_source_section_sha256": "02e05d16b114d2b5350b40cb41895cb920aafaee457917f78d9196ce117f3310",
+      "final_source_section_sha256": "0435df2aa4071543e196578c33bdb5ad20a737b2cfdee53d593b32e50a467f62",
+      "final_page_sha256": "a2172a940483d02e7dbe2edccb7d47727bafa0325bf1c67393f71160b70c6c0d",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+    "queue_index": 62,
+    "before_sha256": "9826cc0b450e117b31cf2b4985e858ca77f4288fd1995f8bd5b387ca5e05dc14",
+    "after_sha256": "9826cc0b450e117b31cf2b4985e858ca77f4288fd1995f8bd5b387ca5e05dc14",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 28,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nLuck and success through the exercise of personal power. The optimist.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nSuccess through psychic energy, successful psychic influence, joy in psychic violence, joy of a strong soul, my successful influence, my strength through joy, my legal influence (Rechts-Einfluß), my financial power, psychic influence through money.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nLuck and success through the exercise of personal power. The optimist.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSuccess through psychic energy, successful psychic influence, joy in psychic violence, joy of a strong soul, my successful influence, my strength through joy, my right wing influence, my financial power, and psychic influence through money",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Optimism and success through personal influence.",
+        "ABC 'my right wing influence' mismatches 'mein Rechts-Einfluf3' (printed p.96/PDF47); excluded from synthesis."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Optimism and success through personal influence.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored legal influence (Rechts-Einfluß) rather than right-wing influence; full nine-clause row checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected both high-resolution actual ABC PDF47 halves and matched every clause: Admetos eight, Apollon eight, Cupido eight, Hades nine and Jupiter nine. Confirmed gründlicher, Energie-Fülle, Kunst, gefährdete Macht and Rechts-Einfluß against the visible print. Witte source bodies retained unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "90c7802973e07d81bc3f37825e003447e42afcc322feee2784596f7cc8a71242",
+    "current_sha256": "bc529564a7b3508371b586e072b059e9247dacce55835236deb915c976653823",
+    "original_sha256": "9826cc0b450e117b31cf2b4985e858ca77f4288fd1995f8bd5b387ca5e05dc14",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+          "text": "ABC 'my right wing influence' mismatches 'mein Rechts-Einfluf3' (printed p.96/PDF47); excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Jupiter ABC printed96/PDF47 flags my right wing influence as mistranslating mein Rechts-Einfluf3.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my right wing influence' mismatches 'mein Rechts-Einfluf3' (printed p.96/PDF47); excluded from synthesis."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 28,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my right wing influence' mismatches 'mein Rechts-Einfluf3' (printed p.96/PDF47); excluded from synthesis.",
+        "MC/Vulcanus = Jupiter ABC printed96/PDF47 flags my right wing influence as mistranslating mein Rechts-Einfluf3."
+      ],
+      "decision": "Restored legal influence (Rechts-Einfluß) rather than right-wing influence; full nine-clause row checked.",
+      "raw_locator": "Udo Rudolph ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Admetos/Apollon/Cupido/Hades/Jupiter rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "mein Rechts-Einfluß",
+      "before_source_section_sha256": "9826cc0b450e117b31cf2b4985e858ca77f4288fd1995f8bd5b387ca5e05dc14",
+      "final_source_section_sha256": "bc529564a7b3508371b586e072b059e9247dacce55835236deb915c976653823",
+      "final_page_sha256": "7a62aa096efd0802f767c4c82821dd95d03f5196f4729998eb65d08396aa81d3",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  }
+]

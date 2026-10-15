@@ -28,27 +28,38 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Asc Vulcanus`
 - Astronomicon triad-set: `S Asc §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Vulcanus = Sun](../activations/asc-vulcanus-equals-sun.md)
-- [Sun/Asc = Vulcanus](../activations/sun-asc-equals-vulcanus.md)
-- [Sun/Vulcanus = Asc](../activations/sun-vulcanus-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Vulcanus = Sun](../activations/asc-vulcanus-equals-sun.md) | [Asc/Vulcanus](../axes/asc-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/Asc = Vulcanus](../activations/sun-asc-equals-vulcanus.md) | [Sun/Asc](../axes/sun-asc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = Asc](../activations/sun-vulcanus-equals-asc.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `134`
-- `Sun/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
-- `Sun/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `101`
-- `Sun/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `170`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `97`.
+- `Asc/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-vulcanus-equals-sun.md#abc-entry), printed p. `134`.
+- `Sun/Asc = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-asc-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `80`.
+- `Sun/Asc = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-asc-equals-vulcanus.md#abc-entry), printed p. `101`.
+- `Sun/Vulcanus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-asc.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-asc.md#abc-entry), printed p. `170`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Sun`: dealing with stronger people and being checked, measured, or contained by their greater vitality or force.
-- `Sun/Asc = Vulcanus`: This formula emphasizes powerful persons and the energetic, vigorous personality.
-- `Sun/Vulcanus = Asc`: This formula emphasizes powerful persons and vigorous personal presence.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Jupiter Vulcanus`
 - Astronomicon triad-set: `VP V §`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Jupiter/Vulcanus = Vernal Point](../activations/jupiter-vulcanus-equals-vernal-point.md)
-- [Vernal Point/Jupiter = Vulcanus](../activations/vernal-point-jupiter-equals-vulcanus.md)
-- [Vernal Point/Vulcanus = Jupiter](../activations/vernal-point-vulcanus-equals-jupiter.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md) | `Vernal Point` | [Jupiter/Vulcanus = Vernal Point](../activations/jupiter-vulcanus-equals-vernal-point.md) |
+| [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md) | `Vulcanus` | [Vernal Point/Jupiter = Vulcanus](../activations/vernal-point-jupiter-equals-vulcanus.md) |
+| [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md) | `Jupiter` | [Vernal Point/Vulcanus = Jupiter](../activations/vernal-point-vulcanus-equals-jupiter.md) |
 
 ## Source Coverage
 
-- `Jupiter/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
-- `Jupiter/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `344`
-- `Vernal Point/Jupiter = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
-- `Vernal Point/Jupiter = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `35`
-- `Vernal Point/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
-- `Vernal Point/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `56`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Jupiter/Vulcanus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-vulcanus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `217`.
+- `Jupiter/Vulcanus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-vulcanus-equals-vernal-point.md#abc-entry), printed p. `344`.
+- `Vernal Point/Jupiter = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-jupiter-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `43`.
+- `Vernal Point/Jupiter = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-jupiter-equals-vulcanus.md#abc-entry), printed p. `35`.
+- `Vernal Point/Vulcanus = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-vulcanus-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `54`.
+- `Vernal Point/Vulcanus = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-vulcanus-equals-jupiter.md#abc-entry), printed p. `56`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Vernal Point`: general confidence, broad encouragement, and prosperity or trust that becomes publicly noticeable or widely distributed.
-- `Vernal Point/Jupiter = Vulcanus`: This formula emphasizes great success in general things or matters and general optimism.
-- `Vernal Point/Vulcanus = Jupiter`: This formula emphasizes great fortune, power through possessions, financial power, and powerful justice.
+Use the orientation whose base pair and activating factor match the requested formula. `Jupiter/Vulcanus = Vernal Point` activates `Jupiter/Vulcanus` with `Vernal Point`; it is distinct from `Vernal Point/Jupiter = Vulcanus` and `Vernal Point/Vulcanus = Jupiter`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Asc`
 - Astronomicon formula: `T/W = Asc`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 To take leave. To depart or go away. To move. To travel. Serious conversation with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Report on problems of a place, opinions on environmental tasks, hard language in the environment, Pa tner language on separation, problems of youth in the place, and separation from the partner of young people
+- Source passage: `Merkur + Saturn`; printed p. `246`; one-based PDF page `122` (oriented row checked against the scan).
+
+Reports about a place's problems, opinions about tasks in the environment, difficult conversations in the environment, concentration on other languages, conversations with a partner about separation, problems of young people at the place, separation from the partner of one's youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Saturn`; printed p. `156`; entry code `0504` (supplied source-map locator; not visually verified).
 
 Tendency to seclude oneself, going one's own way in life, tendency to be preoccupied with one's own ideas and thoughts, a short journey, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Saturn midpoint`; one-based PDF page `46` (exact oriented passage checked in the actual PDF text).
 
 A person who tends to keep their ideas to themselves, or who doesn’t say much. A person who presents themselves as a serious thinker. The tendency to see oneself as not very intelligent. Uncertainty as to how one’s ideas are being received.
 
@@ -70,22 +80,23 @@ Meetings with people who are disciplined thinkers; a sharp sense of reality; an 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious communication shapes personal dealings, departures or withdrawal.
+- psychology: Disciplined realism coexists with silence, self-doubt and preoccupation.
+- body/health: No specific bodily condition is stated.
+- social/relationship: Serious conversations, cautious attention and uncertainty about reception are explicit.
+- events/manifestations: Travel, moving and separation appear beside meetings with disciplined thinkers.
+- conflicts/notes: Clear understanding and intellectual self-doubt are different possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ over confidence and withdrawal without making either inevitable. Serious conversation and departure are distinct expressions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Asc`: mental steadiness, caution, and the ability to present oneself as thoughtful and dependable. Main caution: self-inhibition: reserve can become rigidity, self-doubt, or overly guarded communication.
+In `Mercury/Saturn = Asc`, Asc specifies disciplined or inhibited thought through one's personal manner and dealings with others. A serious, realistic presentation can support clear understanding and substantive conversation; reserve can also leave ideas unspoken or make their reception uncertain. Intellectual self-doubt remains a possible self-perception, not an assessment of ability. ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Departure, moving, travel and separation give interpersonal distance a concrete expression. ABC's local problems, other languages and separation from the partner of one's youth preserve practical communication alongside withdrawal. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry))
 
 ## Links
 

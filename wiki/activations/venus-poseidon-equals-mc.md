@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus MC Poseidon](../triads/venus-mc-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 To be faithful. Ones own religious inclination. Personal worldview.
 
@@ -42,13 +46,27 @@ To be faithful. Ones own religious inclination. Personal worldview.
 
 #### ABC Entry
 
-Spirit and soul in I larmonie, I love clarity, my spiritual harmony, my artificial ideas, my love of culture, my love of the Vcmunft, my love of truth, the beauty of a spirit scelc, soul peace through truth, and psychic joy through knowledge
+- Source page: 296; PDF page: 147 (one-based spread).
+
+Spirit and soul in harmony, I love clarity, my spiritual harmony, my art ideas, my love of culture, my love of reason, my love of truth, beauty of a spiritual soul, peace of soul through truth, and inner joy through understanding
+
+## Comparative Schema
+
+- core meaning: A personally held worldview and inward spiritual or cultural harmony.
+- psychology: Love of clarity, truth, reason, culture, and understanding.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: No specific relationship outcome is supplied.
+- events/manifestations: Personal art ideas and peace of soul through truth.
+- conflicts/notes: Faithfulness here is placed with religious inclination; no marital promise is established.
+
+## Contradictions
+
+Witte emphasizes personal faith and ABC inward clarity and harmony. These are compatible emphases without requiring a particular creed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = MC`: to be faithful.
-- Practical expression: spirit, soul in I larmonie, i love clarity, my spiritual harmony, and my artificial ideas.
+In `Venus/Poseidon = MC`, MC specifies the pair as one's own religious inclination, worldview, and inward harmony. The [Witte entry](#witte-entry) places faithfulness alongside a personal conception of the world; the [ABC entry](#abc-entry) makes the personal voice explicit in love of clarity, culture, reason, and truth. Art ideas and joy through understanding give that inward orientation a creative and reflective expression. The entry does not establish a specific religion or relationship outcome.
 
 ## Links
 

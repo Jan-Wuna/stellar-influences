@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Admetos`
 - Astronomicon formula: `Q/¡ = ¦`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Death of the wife in loneliness. End of marital happiness. Harmonious community with few.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Depressed love community, restricted harmony of a community, consolidation of common love, harmonious deepening in of a community, common origination in the arts, grilndish preference for the whole, and subordinated love community
+- Source page: 283 (printed); PDF page: 140; scanned activator row checked.
+
+A depressed community of love, restricted harmony in a community, consolidation of shared love, harmonious deepening within a community, shared original creation in art, a thorough preference for the whole, and a suppressed community of love.
+
+## Comparative Schema
+
+- Core meaning: Shared affection narrows, consolidates, or ends.
+- Psychology: Depressed or deepened community feeling.
+- Body/health: Wife-death is historical doctrine, not a prediction.
+- Social/relationship: A few harmonious ties; shared love under restriction.
+- Events/manifestations: Original art created together.
+- Conflicts/notes: Consolidation and suppression are different possibilities.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Consolidation and suppression are different possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Admetos`: death of the wife in loneliness.
-- Practical expression: depressed love community, restricted harmony of a community, consolidation of common love, harmonious deepening in a community, and common origination in the arts.
+Admetos specifies Venus/Cupido through shared love brought within narrow limits. Harmony with a few people and deepening a community can consolidate affection, while suppression or an ending of marital happiness describes the restrictive range. Witte's wife-death statement remains attributed historical doctrine. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

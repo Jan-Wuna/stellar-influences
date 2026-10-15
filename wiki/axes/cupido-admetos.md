@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+- Printed page: 275; PDF page: 271.
 
 To be avoided or avoid others. Dissolution of an association. Solitude. Lonely places. Hermitage. To become a hermit. Monasticism. Monastery. End of being together with others.
 
@@ -78,7 +82,20 @@ To be avoided or avoid others. Dissolution of an association. Solitude. Lonely p
 
 #### ABC Pair Summary
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- Printed pages: 432–433; PDF page: 215.
+
+German pair summary: “Blockierte Gemeinschaft, deprimierende Kunst, deprimierte Gemeinschaft, gefestigte Gemeinschaft, gemeinsame Ausdauer, gemeinsame Einschränkung, gemeinsamer Widerstand, unterdrückte Gemeinschaft, Widerstands-Gemeinschaft”.
+
+Translation: Blocked community, depressing art, depressed community, consolidated community, shared endurance, shared restriction, shared resistance, suppressed community, community of resistance.
+
+## Comparative Schema
+
+- Core meaning: Association under restriction, withdrawal or dissolution, with consolidated community and shared endurance as another explicit range ([Pair Summary](#pair-summary), [ABC](#abc-pair-summary)).
+- Psychology: Avoiding others or being avoided is named; Udo adds a depressed community and depressing art without supplying an individual clinical diagnosis.
+- Body/health: Neither pair summary establishes a physical condition or treatment.
+- Social/relationship: An association can dissolve or become solitary/monastic; Udo also names consolidation, shared restriction, suppression and collective resistance.
+- Events/manifestations: Hermitage, monastery, lonely places and the end of companionship, alongside endurance or resistance within a community and depressing art.
+- Conflicts/notes: Witte's withdrawal and dissolution coexist with Udo's consolidated community and shared endurance. Restriction does not necessarily dissolve every association, and the entries do not determine whether seclusion is chosen or imposed.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ To be avoided or avoid others. Dissolution of an association. Solitude. Lonely p
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos`: association under withdrawal: solitude, separation from group life, lonely places, withdrawn partnership, hermitage, monastic conditions, and the end or cooling of being together.
-- Chart expression: relationships or communities becoming reduced, enclosed, avoided, or cut off from wider participation. It can show hermit-like life, small closed circles, estrangement, and durable conditions of emotional or social distance. Liabilities: loneliness, exclusion, deadened partnership, emotional coldness, and the slow dissolution of what once bound people together.
+`Cupido/Admetos` concerns association under limits: people may withdraw, be avoided, or reach the end of being together. Solitude, lonely places, hermitage and monastic life are explicit settings in the [Witte summary](#pair-summary). [Udo](#abc-pair-summary) also names blocked, depressed or suppressed community and shared restriction, extending the difficulty into the condition of a group that still exists.
+
+Consolidation and shared endurance are another explicit possibility in Udo's summary, alongside shared resistance and a community of resistance. Depressing art adds a distinct cultural expression. These meanings preserve the possibility of remaining together under limits as well as separation; the entries do not decide whether seclusion is chosen or imposed, or determine a particular group's outcome. Each closing factor requires its own oriented activation.
 
 ## Links
 

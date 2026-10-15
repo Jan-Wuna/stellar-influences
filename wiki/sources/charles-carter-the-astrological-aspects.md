@@ -16,7 +16,7 @@ factors:
   - Venus
 aliases: []
 source_pages: []
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Bibliographic Metadata
@@ -25,14 +25,22 @@ updated_at: 2026-04-21
 - Title: *The Astrological Aspects*
 - Vault file: `Stellar Influences Vault/Book_2000_Charles Carter_The Astrological Aspects.pdf`
 
+The heading on one-based PDF p. 1 identifies *The Astrological Aspects* by C. E. O. Carter. The introduction is signed Charles E. O. Carter and dated June 1930 on the leaf numbered 5 (PDF p. 5). That is an introduction date, not an established publication date for this reflowed copy; its edition, publisher and issue date remain unidentified.
+
 ## Scope Notes
 
+Current wiki attribution, checked 2026-10-15: 0 factor pages, 36 axis pages, 0 activation pages and 0 structural triad hubs.
+
 - This is an aspect-based source rather than a midpoint-source corpus.
-- It is intentionally collapsed into canonical axis pages so Carter can sit beside the existing midpoint-axis entries.
+- Its pair material is placed on unordered canonical axis pages for comparison with midpoint sources. This shared page identity does not turn Carter's aspect-family statements into midpoint or activation doctrine.
 - Carter does not create activation pages, triad hubs, or factor pages in this ingest.
 - Pair overviews, aspect-family sections, and family-grouped example lists are preserved where the source provides them.
 
+For pair interpretation, start with a canonical axis such as [Sun/Moon](../axes/sun-moon.md#charles-carter---the-astrological-aspects), where Carter's overview and aspect families remain distinct. Use this catalog for provenance and coverage; the [Query Guide](../query-guide.md) routes other kinds of question.
+
 ## Factors Covered
+
+These factors participate in Carter's admitted pair entries. The links lead to shared factor pages, not standalone Carter factor chapters.
 
 - [Jupiter](../factors/jupiter.md)
 - [Mars](../factors/mars.md)

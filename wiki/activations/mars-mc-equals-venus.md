@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Venus Mars MC](../triads/venus-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To be sexually stimulated or to stimulate others. One’s own action for peace.
 
@@ -45,17 +49,23 @@ To be sexually stimulated or to stimulate others. One’s own action for peace.
 
 #### ABC Entry
 
-Joy of the soul through work, harmonious soul work, my artist creating, my work joy, my peaceful actions, my harmonious actions, my love activity, psychic harmony, and preference for psychic action power
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Joy of the soul through work, harmonious soul work, my artistic creation, my joy in work, my peaceful actions, my harmonious actions, my loving activity, establishing inner harmony, and a preference for psychological energy for action.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0774.
 
 Sexual desire, tendency to do everything with love. Acting or deciding anything purely from motives of love, a person giving way to sexual impulse.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
 
 One expresses love by acting in an ethical, moral, and spiritual manner. One finds value in attempting to align one’s actions with highminded principles. It is easy for one to work hard at one’s career.
 
@@ -70,22 +80,21 @@ Appreciation of the personal growth and development process; generating beauty a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action motivated by love, harmony, beauty, or valued principles.
+- psychology: Enjoyment of work and appreciation of personal development.
+- body/health: Sexual stimulation or desire is named without a medical claim.
+- social/relationship: Peace-making, charm, politeness, and loving or sexual impulses.
+- events/manifestations: Artistic activity, harmonious work, and ethical effort.
+- conflicts/notes: Sexual impulse, peaceful action, and principled love are distinct expressions rather than a necessary sequence.
 
 ## Contradictions
 
-- None recorded yet.
+No direct conflict is established: Ebertin emphasizes loving and sexual motives, Sandbach principled conduct, and Munkasey beauty and serenity during growth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Venus`: graceful leadership, love-motivated ambition, artistic productivity, and a capacity to work hard when desire and values are engaged. Main caution: bias through attraction: decisions can be made too personally, too romantically, or too easily under the sway of pleasure.
+In `Mars/MC = Venus`, Venus specifies personal action through what is loved or valued. Peaceful conduct, pleasure in work, artistic creation, and sexual attraction appear alongside Sandbach's effort to act from ethical principles. ABC includes establishing inner harmony; Munkasey adds beauty, serenity, and politeness during growth. Ebertin's giving way to sexual impulse remains one possibility within this range, not a general claim that attraction spoils judgment. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0774; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

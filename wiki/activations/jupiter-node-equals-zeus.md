@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Zeus`
 - Astronomicon formula: `V/g = £`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Zeus row; full entry and factor glyph checked.
+
 Increase in the family in prospect. Fortunate common creation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful efforts of a link, financial objectives in a link, happy beginning of a link, achievements of a legal Yennistlung, performance of a link, and procreation success of a link
+- Source reference: printed page 215; one-based PDF page 106, Mondknoten/Jupiter section, Zeus row; full German entry and neighbors checked.
+
+Successful efforts of a connection, financial goals within a connection, a happy beginning of a connection, achievements of legal mediation, successful accomplishments of a connection, and successful procreation within a connection
+
+## Comparative Schema
+
+- core meaning: Fortunate joint creation and successful shared effort.
+- psychology: The entries do not develop a separate psychological trait.
+- body/health: Procreation and prospective family increase are historical examples, without diagnostic detail or a guaranteed outcome.
+- social/relationship: Common creation and joint financial or legal efforts.
+- events/manifestations: A happy beginning, legal-mediation achievements and successful shared accomplishments.
+- conflicts/notes: The sources do not state that all productive activity expands automatically; their creation and family examples remain alternatives.
+
+## Contradictions
+
+The entries are favorable and complementary. Joint creation, financial goals and family increase are distinct applications rather than a requirement that one connection produce all of them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Zeus`: connection becoming fertile, productive, and future-building. It favors shared ventures, family growth, and activity that expands because people work well together.
+For `Jupiter/Node = Zeus`, [Witte](#witte-entry) gives fortunate common creation and the prospect of an increase in the family. [ABC](#abc-entry) adds successful effort, financial goals, legal-mediation achievements and a happy beginning within a connection. Successful procreation is one of its specific examples. The shared emphasis is a connection producing or accomplishing something together, without making every relationship a promise of family growth.
 
 ## Links
 

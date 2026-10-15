@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Vernal Point Saturn Neptune](../triads/vernal-point-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ General plagues. Serious sickness in the family. A situation in the general publ
 
 #### ABC Entry
 
-Disengagements and losses in the public life, inhibitions in the public confidence, concentration--pigs in the public, air problems in the public, and unrecognized
+Source: ABC printed p. 350, supplied PDF p. 174, Saturn + Neptun, vernal-point row (six clauses). Translation from the German scan:
+
+Disappointments and losses in public life; inhibitions in public waters; weakness of concentration in public; air problems in public; unknown problems of the public; disturbances and uncertainty in public.
+
+## Comparative Schema
+
+- core meaning: prolonged difficulties affecting public life.
+- psychology: ABC names public concentration weakness and insecurity, not an individual character.
+- body/health: Witte's epidemic and family-illness language remains historical attribution.
+- social/relationship: the general public and family are the named settings.
+- events/manifestations: public losses and conditions continuing over time.
+- conflicts/notes: Public waters, air problems and uncertainty are broad source examples, without a specific event forecast.
+
+## Contradictions
+
+- Both entries emphasize collective difficulty; their brevity does not establish independent agreement or a forecast of epidemic disease.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Vernal Point`: general plagues, serious sickness in the family, a situation in the general public of long duration.
-- Practical expression: disengagements, losses in the public life, inhibitions in the public confidence, concentration--pigs in the public, and air problems in the public.
+Vernal Point specifies the Saturn/Neptune axis at the level of public conditions. [Witte](#witte-entry) describes a long-lasting situation in the general public, and [ABC](#abc-entry) places disappointment, loss, and uncertainty in public life. The bounded throughline is a collective problem that persists, rather than a private emotional trait. Witte's plague and contagion language remains a historical claim; the formula does not establish that a public health event will occur.
 
 ## Links
 

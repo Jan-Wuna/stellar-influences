@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Asc Kronos`
 - Astronomicon triad-set: `Y Asc ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md)
-- [Neptune/Asc = Kronos](../activations/neptune-asc-equals-kronos.md)
-- [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md)
+- [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md): base axis [Asc/Kronos](../axes/asc-kronos.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Asc = Kronos](../activations/neptune-asc-equals-kronos.md): base axis [Neptune/Asc](../axes/neptune-asc.md); activator [Kronos](../factors/kronos.md).
+- [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
-- `Asc/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `129`
-- `Neptune/Asc = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Kronos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `398`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 94); [Neptune/Asc = Kronos](../activations/neptune-asc-equals-kronos.md#witte-entry) (PDF entry-start p. 89); [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md#witte-entry) (PDF entry-start p. 250).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Kronos = Neptune](../activations/asc-kronos-equals-neptune.md#abc-entry) (printed p. 129); [Neptune/Asc = Kronos](../activations/neptune-asc-equals-kronos.md#abc-entry) (printed p. 119); [Neptune/Kronos = Asc](../activations/neptune-kronos-equals-asc.md#abc-entry) (printed p. 398).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Neptune`: unstable official structure, false command, or loss of employment through hidden weakness at the top.
-- `Neptune/Asc = Kronos`: This activation elevates deception into questions of authority and leadership, showing distrust of power, rejection of superiors, or participation in fraudulent enterprises directed from above.
-- `Neptune/Kronos = Asc`: This activation personalizes institutional dissolution, placing one in direct contact with failing establishments, unpleasant conditions, or the unraveling of formal structures.
+Neptune, Asc and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Kronos](../axes/asc-kronos.md)
+- [Neptune/Asc](../axes/neptune-asc.md)
+- [Neptune/Kronos](../axes/neptune-kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Kronos](../factors/kronos.md)

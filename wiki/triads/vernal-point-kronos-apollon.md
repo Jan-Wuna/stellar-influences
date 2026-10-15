@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Kronos Apollon`
 - Astronomicon triad-set: `VP ¤ ¥`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Kronos/Apollon = Vernal Point](../activations/kronos-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Kronos](../activations/vernal-point-apollon-equals-kronos.md)
-- [Vernal Point/Kronos = Apollon](../activations/vernal-point-kronos-equals-apollon.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Kronos/Apollon](../axes/kronos-apollon.md) | `Vernal Point` | [Kronos/Apollon = Vernal Point](../activations/kronos-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | `Kronos` | [Vernal Point/Apollon = Kronos](../activations/vernal-point-apollon-equals-kronos.md) |
+| [Vernal Point/Kronos](../axes/vernal-point-kronos.md) | `Apollon` | [Vernal Point/Kronos = Apollon](../activations/vernal-point-kronos-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Kronos/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `Vernal Point/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
-- `Vernal Point/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `51`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Kronos/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `299`.
+- `Kronos/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-apollon-equals-vernal-point.md#abc-entry), printed p. `460`.
+- `Vernal Point/Apollon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-kronos.md#abc-entry), printed p. `53`.
+- `Vernal Point/Kronos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-kronos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `51`.
+- `Vernal Point/Kronos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-kronos-equals-apollon.md#abc-entry), printed p. `51`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Vernal Point`: the public rise of authority, expanding matters in general, and a collective ability to understand a subject.
-- `Vernal Point/Apollon = Kronos`: This formula emphasizes one who is a scientific authority and great masses of people.
-- `Vernal Point/Kronos = Apollon`: This formula emphasizes great expansion, scientific authorities, and religious leadership.
+Use the orientation whose base pair and activating factor match the requested formula. `Kronos/Apollon = Vernal Point` activates `Kronos/Apollon` with `Vernal Point`; it is distinct from `Vernal Point/Apollon = Kronos` and `Vernal Point/Kronos = Apollon`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

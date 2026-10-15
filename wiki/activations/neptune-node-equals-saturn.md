@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Saturn`
 - Astronomicon formula: `Y/g = W`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Losses because of separations. Tied for good to something very disagreeable.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Dissolving a problematic link, serious links to metaphysics, patience and fine tuning in one connection, spatial connection to the water, separation of an unclear relationship, and losses by dissolving a bond
+Dissolution of a problematic connection, serious connection to metaphysics, patience and sensitivity in a connection, disturbed connection by the water, separation of an unclear relationship, and loss through dissolution of a connection
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1017`.
 
 #### Ebertin Entry
 
 Demonstration of emotional inhibitions when in contact with others. Disadvantages or painful and grievous losses through associations with others, separation through deceit, perfidy or untruthfulness. Emotional suffering caused through a partner.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To feel oppressed by others but to not know why. This is probably due to an over
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Adds stability to your planning for what you want from life, but also adds to yo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: restricted or painful ties and a preference for fewer contacts or solitude.
+- psychology: inhibition, fear, feeling oppressed, and tolerating solitude are explicit.
+- body/health: Sandbach's psychic-receptivity explanation is attributed, not a medical mechanism.
+- social/relationship: losses through associations, separation through deceit, and a disagreeable lasting tie are named.
+- events/manifestations: stable planning, a few close friends, and disturbed contact by water are stated.
+- conflicts/notes: Munkasey's useful solitude differs from enforced isolation or painful separation; loyal endurance is not a universal role.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress loss or disagreeable ties. Sandbach attributes fear to sensitivity, while Munkasey gives isolation and a few close friendships a potentially stabilizing role.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Saturn`: loyal endurance, compassionate responsibility, and the ability to stay present to difficult social or relational conditions. Main caution: lonely disillusionment: ties can become inhibited, sorrowful, distrustful, or silently draining.
+In Neptune/Node = Saturn, connection is narrowed by inhibition, loss, or a desire for solitude. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe painful association or separation; [ABC](#abc-entry) adds patience and sensitivity within a connection. [Munkasey](#munkasey-entry) supplies the distinct possibility of stable planning and tolerable solitude with a few close friends. [Sandbach's](#sandbach-entry) explanation through psychic receptivity remains attributed, while the entries distinguish chosen solitude from distressing restriction.
 
 ## Links
 

@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Uranus Neptune`
 - Astronomicon triad-set: `Chiron X Y`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/Neptune = Uranus](../activations/chiron-neptune-equals-uranus.md)
-- [Chiron/Uranus = Neptune](../activations/chiron-uranus-equals-neptune.md)
-- [Uranus/Neptune = Chiron](../activations/uranus-neptune-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Neptune = Uranus](../activations/chiron-neptune-equals-uranus.md) | [Chiron/Neptune](../axes/chiron-neptune.md) | [Uranus](../factors/uranus.md) |
+| [Chiron/Uranus = Neptune](../activations/chiron-uranus-equals-neptune.md) | [Chiron/Uranus](../axes/chiron-uranus.md) | [Neptune](../factors/neptune.md) |
+| [Uranus/Neptune = Chiron](../activations/uranus-neptune-equals-chiron.md) | [Uranus/Neptune](../axes/uranus-neptune.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/Neptune = Uranus`: John, page `97`
-- `Chiron/Uranus = Neptune`: John, page `96`
-- `Uranus/Neptune = Chiron`: John, page `104`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/Neptune = Uranus` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-neptune-equals-uranus.md#sandbach-entry) | retained chapter-start one-based PDF p. 97; exact formula page not established |
+| `Chiron/Uranus = Neptune` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-uranus-equals-neptune.md#sandbach-entry) | retained chapter-start one-based PDF p. 96; exact formula page not established |
+| `Uranus/Neptune = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-neptune-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 104; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Uranus`: sudden healing insight, unconventional sensitivity, and inspired methods that bypass stale patterns. Main caution: instability or mistaking every impulse for revelation.
-- `Chiron/Uranus = Neptune`: synchronistic healing, symbolic guidance, and imaginative openness to nonordinary messages. Main caution: overreading signs or drifting into magical thinking without discernment.
-- `Uranus/Neptune = Chiron`: One’s vibration brings a subtle cosmic element to everything one touches and every person one meets. Healing others through making them aware that they are much greater, more powerful, and wiser than any and all of their problems.
+Use this hub to choose the exact orientation for the unordered set `Chiron Uranus Neptune`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

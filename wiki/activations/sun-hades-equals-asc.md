@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Hades](../axes/sun-hades.md)
 - Triad hub: [Sun Asc Hades](../triads/sun-asc-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-To deal with the sick, as a profession, e.g. physician. To keep secrets. To be under professional discretion. To have difficulties through acquaintances or in
+Source locator: printed page 116; PDF page 112 (one-based).
+
+To deal with the sick, as a profession, e.g. physician. To keep secrets. To be under professional discretion. To have difficulties through acquaintances or in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old persons on the ground, and more people in need, service staff on the spot, disadvantages for other persons, personal hardship of the partner, environmental service, criminal persons in the environment, grief with the man as a partner, and renunciation of man's partners
+Source locator: printed page 160; PDF page 79 (one-based).
+
+Old people at the place, other people in need, local service staff, disadvantages for other people, the partner's personal hardship, personal service to one's surroundings, criminal people in the environment, grief involving the man as partner, and renunciation of male partners.
+
+## Comparative Schema
+
+- core meaning: Contact with need, service, discretion or difficulties among nearby people.
+- psychology: Keeping secrets and professional discretion; no unsympathetic disposition is established.
+- body/health: Witte names professional contact with sick people, not the native's diagnosis.
+- social/relationship: A partner's hardship, troubled acquaintances, local service staff and renunciation of male partners.
+- events/manifestations: Service to the surroundings and difficulties through acquaintances or in general.
+- conflicts/notes: Criminal contacts are ABC examples, not evidence of the person's own criminal character.
+
+## Contradictions And Comparison Notes
+
+Witte emphasizes professional care and discretion alongside acquaintance difficulties. ABC adds local need, service and partner hardship; these do not establish unsympathetic behavior.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Hades = Asc`: sickness in the environment and unsympathetic behavior.
-- Practical expression: old persons on the ground, more people in need, service staff on the spot, disadvantages for other persons, and personal hardship of the partner.
+For `Sun/Hades = Asc`, the entries place need and difficulty in one's dealings with other people. [Witte](#witte-entry) describes professional contact with sick people, keeping secrets and professional discretion; [ABC](#abc-entry) adds local service, people in need and a partner's hardship or grief. Troublesome acquaintances, criminal people nearby and renunciation of male partners remain particular examples. The connection is service or difficult contact within the human environment, without turning proximity to need into a diagnosis or a judgment of unsympathetic character.
 
 ## Links
 

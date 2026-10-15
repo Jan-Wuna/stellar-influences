@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Zeus`
 - Astronomicon formula: `T/Y = £`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Creative ideas without limits. Many problems without execution. Unsolved tasks.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Exhaustive language about metaphysics, exchangeable media performance, fire in air traffic, design of air traffic, achievements in foreign language, creative thoughts about metaphysics, determined thinking about the future, and future achievements of young people
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Anstrengende Gespräche über Metaphysik, enttäuschende Medien-Leistung, Feuer im Luft-Verkehr, Gestaltung des Luft-Verkehrs, Leistungen in fremder Sprache, schöpferische Gedanken zur Metaphysik, zielstrebiges Zukunfts-Denken, Zukunfts-Leistungen der Jugend
+
+Editorial translation from the German passage: Strenuous conversations about metaphysics; disappointing media performance; fire in air transport; shaping air transport; achievements in a foreign language; creative thoughts about metaphysics; purposeful thinking about the future; youth's future achievements.
+
+## Comparative Schema
+
+- core meaning: Limitless creative ideas with tasks that may remain unresolved ([Witte](#witte-entry)).
+- psychology: ABC adds purposeful thinking about the future and creative metaphysical thoughts.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Foreign-language achievement and youth's future performance are ABC examples.
+- events/manifestations: Media performance, air-transport design and fire in air transport are distinct examples.
+- conflicts/notes: Creative conception and execution are not equivalent.
+
+## Contradictions
+
+Witte emphasizes ideas without execution and unsolved tasks. ABC also permits purposeful future thinking and achievement; the orientation is not a categorical inability to act.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Neptune = Zeus` drives the axis into limitless creative ideation without follow-through.
-- Chart expression: boundless imaginative ideas, but also to unresolved problems, unrealized plans, and too much inspired conception without enough execution.
+In `Mercury/Neptune = Zeus`, Zeus specifies the axis through creative conception and its relation to execution. Witte allows ideas without limits while problems and tasks remain unresolved. ABC adds purposeful future thinking, creative metaphysical ideas and achievement in foreign languages, alongside disappointing media performance. The distinction is between generating a conception and carrying it through; lack of follow-through is a stated possibility, not the only outcome ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

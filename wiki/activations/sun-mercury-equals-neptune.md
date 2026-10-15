@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Neptune](../triads/sun-mercury-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Inspiration. Author. Not clear, rambling, impractical thinking. Sluggish. Swindle. Fraud.
 
+Source locator: PDF p. 103, Sun/Mercury, Neptune entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-reports about subtle bodies, body moving in water, personal traffic in the air, personal conversations about the future, weak young people, uncertain personal youth, uncertainty in personal conversations, refinement of body language, development of young people, development of the young body, and conversations about bodily matters
+Reports about subtle bodies, body moving in water, passenger traffic in the air, personal conversations about the future, weak young people, uncertain personal youth, uncertainty in personal conversations, and refinement of body language.
+
+Source locator: printed p. 143, PDF p. 70, Sun/Mercury, Neptune entry. The actual row ends Verfeinerung der Körper-Sprache; the following development clauses belong to Pluto.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ reports about subtle bodies, body moving in water, personal traffic in the air, 
 
 The play of imagination, the development of fantasy and imagination, inspiration, the tendency to simulate and to deceive oneself. Writers and visionaries, swindlers or crooks. The experience of deception.
 
+Source locator: printed p. 82, coded entry 0201.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 A refined and subtle way of communicating which, at its worst, could be misunderstood or overlooked by other people. An unformed or confused way of putting one’s ideas across. To be uncertain about one’s own opinions, which most naturally al ways tend to be colored or based on one’s intuition.
+
+Source locator: PDF p. 9, Sun/Mercury, complete Neptune entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Artificial means of getting ideas across; deceptive communications; weakened lin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Imaginative or subtle thought and communication that may be uncertain, confused or deceptive.
+- psychology: Inspiration, intuition, fantasy, uncertain opinions and possible self-deception.
+- body/health: Subtle bodies, weakness and bodily movement are source expressions, not medical findings.
+- social/relationship: Misunderstood, overlooked or weakened communication and uncertainty in conversation.
+- events/manifestations: Authorship, hidden meanings, future discussions and air passenger traffic are source examples.
+- conflicts/notes: Subtle expression and deception are distinct alternatives; the criminal labels do not establish an individual's character.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin retain both inspiration and deceptive or impractical thought. Sandbach specifies refinement that may be missed or confused; Munkasey adds idealism and weakened or deceptive communication. Intuition therefore does not resolve the uncertainty described in these entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Neptune`: inspiration, authorship, symbolic thinking, and opinions guided more by intuition than hard logic. Main caution: ambiguity: confused wording, self-deception, or impractical thought can make communication hard to trust or apply.
+`Sun/Mercury = Neptune` gives thought and communication an imaginative, intuitive or subtle form whose meaning may be uncertain. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) include inspiration and authorship alongside impractical thought or self-deception; [ABC](#abc-entry) adds uncertainty in conversation and refined body language. [Sandbach](#sandbach-entry) distinguishes subtle expression from confused wording and notes that others may miss it. [Munkasey](#munkasey-entry) retains hidden meanings, idealism and weakened or deceptive communication. The range includes inspiration without making it a guarantee of clarity, and deceit remains a particular source alternative rather than a character judgment.
 
 ## Links
 

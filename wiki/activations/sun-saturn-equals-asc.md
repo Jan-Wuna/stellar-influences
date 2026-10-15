@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = Asc`
 - Astronomicon formula: `S/W = Asc`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 Personal hindrance and difficulties through others or in general. Separations from persons or from personal relationships. Physical separations in the near environment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old man as a partner, bclappete people on the ground, crnste people in the environment, corporal problems of others, personal problems by partners, personal environmental tasks, problems of one or two centres, and difficulties with personal partner
+- Source passage: `Sonne + Saturn`; printed p. `150`; one-based PDF page `74` (oriented row checked against the scan).
+
+Old man as partner, burdened people at the location, serious people in the environment, bodily problems of others, personal inhibitions through partners, personal environmental tasks, problems of a local center, difficulties with one's personal partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Saturn`; printed p. `94`; one-based PDF page `96`; entry code `0252` (oriented row checked against the scan).
 
 Difficulties in the development of one's own personality, the misunderstood person. Separation.
 
@@ -57,7 +65,9 @@ Difficulties in the development of one's own personality, the misunderstood pers
 
 #### Sandbach Entry
 
-One’s outer demeanor has a rigidly egotistical quality, or a lack of confi dence, sometimes with the latter causing the former. When more highly evolved one comes across as having important ideas of great wisdom to impart to others. The per sonality projects a humble, sincere and/or simple alignment with purpose
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `15` (exact activator entry checked in the raw PDF).
+
+One’s outer demeanor has a rigidly egotistical quality, or a lack of confidence, sometimes with the latter causing the former. When more highly evolved one comes across as having important ideas of great wisdom to impart to others. The personality projects a humble, sincere and/or simple alignment with purpose
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Strengthens your focus on your need to be more serious; paying more attention or
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seriousness and inhibition are encountered through other people, the local environment and the way one's own personality is presented. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry)
+- psychology: Feeling misunderstood or lacking confidence can coexist with rigid self-presentation; Sandbach also allows humility and wisdom, while Munkasey emphasizes caution and realistic reactions. [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- body/health: ABC includes other people's bodily problems and an older man as partner. Neither this nor Witte's physical separation establishes a specific personal diagnosis. [ABC](#abc-entry) · [Witte](#witte-entry)
+- social/relationship: Partner-related inhibitions, personal hindrances through others and separation from relationships are explicit; Sandbach adds the possibility of imparting wisdom through a sincere manner. [Witte](#witte-entry) · [ABC](#abc-entry) · [Sandbach](#sandbach-entry)
+- events/manifestations: The sources include separations nearby, tasks in one's environment, greater caution in dealings and mental images of goals. [Witte](#witte-entry) · [ABC](#abc-entry) · [Munkasey](#munkasey-entry)
+- conflicts/notes: Restrictive or misunderstood self-expression and a humble, purposeful demeanor are alternative source possibilities. Sandbach's developmental language is retained without making wisdom inevitable. [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry)
 
 ## Contradictions
 
-- None recorded yet.
+The entries allow both inhibited or rigid self-presentation and a sincere, purposeful manner. Sandbach explicitly differentiates his more highly evolved possibility; Witte and Ebertin emphasize hindrance and separation, while Munkasey adds practical caution.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Asc`: maturity, caution, and the ability to carry weight visibly in one's manner and daily conduct. Main caution: inhibition: the environment can reinforce loneliness, defensiveness, or a habit of expecting burden before ease.
+`Sun/Saturn = Asc` brings personal limits into contact with other people and the immediate environment. A partner's difficulties, local burdens or separation can reinforce inhibition, and the person may feel misunderstood or present a rigid exterior. The same seriousness can also appear as caution, realistic responses and a humble alignment with purpose; Sandbach preserves wisdom shared with others as his developmental alternative. The point of connection is how seriousness is encountered and expressed in relationship, rather than a single inevitable manner. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

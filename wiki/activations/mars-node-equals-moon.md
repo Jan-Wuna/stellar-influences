@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Moon Mars Node](../triads/moon-mars-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Common activity with a woman or of women. Sex union of a woman.
 
@@ -45,17 +49,23 @@ Common activity with a woman or of women. Sex union of a woman.
 
 #### ABC Entry
 
-Active Gemtits connection, women's employment, activating relationships with women, activating feelings in connections, effective women relationship, establishing a connection with women, and connected with the will of the people to establish people connections
+Source: “Mondknoten + Mars,” printed p. 212 (PDF p. 105).
+
+Active emotional connection, work placement for women, activating relations with a woman, activating feelings in connections, energetic relations with women, establishing a connection with a woman, connected with the will of the people, and establishing connections between peoples.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Dragon's Head,” printed p. 217, entry 0748.
 
 The presence of soul contact, an emotional attitude toward other people. Unions based on soul affinity, an association or organization consisting only of women members.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
 
 The emotional need to have constructive interaction with groups or individuals. To feel vulnerable about the reactions one gets when asserting oneself with individuals or groups. To overreact to the conflicts that happen with the people or groups with whom one is connected.
 
@@ -70,22 +80,21 @@ The inner apprehension and fear you develop about the acceptance of your ideas a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional contact and the need for constructive interaction with others.
+- psychology: Sensitivity to reactions, fear about acceptance, overreaction, or indecision despite apparent firmness.
+- body/health: Sexual union appears without a medical claim.
+- social/relationship: Soul affinity, group engagement, and historically gendered examples involving women.
+- events/manifestations: Women's organizations, work placement, emotional contacts, and connections between peoples.
+- conflicts/notes: Gendered examples remain source-specific; emotional vulnerability does not characterize every cooperative encounter.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's soul affinity and Sandbach's need for constructive interaction coexist with vulnerability and apprehension in the later entries. Connection need not be uniformly secure or conflicted.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Moon`: soul contact, strong emotional engagement with groups or partners, and the need to feel constructive involvement rather than detached participation. Main caution: overreaction: emotional vulnerability can make ordinary group conflict feel personal and destabilizing.
+In `Mars/Node = Moon`, Moon specifies shared action through emotional contact and the need to feel constructively involved. Ebertin emphasizes soul affinity; Sandbach adds vulnerability to others' reactions and possible overreaction to conflict, while Munkasey describes fear about acceptance and indecision despite insistence on one's ideas. ABC's emotional contacts extend to work placement and connections between peoples. The women's organizations and sexual unions named in the older entries remain particular historical examples. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 212 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 217, entry 0748; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

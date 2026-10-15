@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Venus Saturn Neptune](../triads/venus-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Diabetes. Venereal diseases.
 
 #### ABC Entry
 
-about creeping losses, insecure movement in old age, ambiguity between young and old exchanging love separation, delicate patient love, staggered love through weakness, harmony through perseverance and intuition, secret love problems, and problematic
+Source: ABC printed p. 350, supplied PDF p. 174, Saturn + Neptun, venus row (eight clauses). Translation from the German scan:
+
+Disappointing separation in love; sensitive patient love; love disturbed by weakness; harmony through endurance and intuition; secret problems in love; problematic expectations in love; love maturing through sensitivity; unknown disturbances of harmony.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Inhibited sex life, lack of energy and initiative, faintness or feebleness. Inhi
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF pp. 90–91, complete Venus paragraph under Saturn/Neptune.
 
 In love one feels a need to deny the self by putting the other person first. One who is seriously idealistic about romance. The ability to appreciate suffering, and to have intuitive insights into its spiritual meaning and purpose.
 
@@ -70,22 +76,21 @@ Choosing the correct forms of relaxation; deception about the values being prese
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: love and valuation shaped by idealism, inhibition, or disappointment.
+- psychology: self-denial in romance and attempts to find meaning in suffering.
+- body/health: Witte and Ebertin's sexual, glandular, and disease claims remain attributed.
+- social/relationship: putting a partner first; suffering in love; patient love in ABC.
+- events/manifestations: reworking older art or music; disappointing goods or wealth values.
+- conflicts/notes: ABC includes both patient or maturing love and separation or disturbed harmony; suffering does not establish devotion.
 
 ## Contradictions
 
-- None recorded yet.
+- Patient love and inhibited affection are differing possibilities; the accounts do not establish that suffering proves devotion or refinement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Venus`: compassionate devotion, quiet beauty, and the capacity to love under difficult circumstances without losing refinement. Main caution: disillusionment: weak boundaries or fear of loss can make attachment sorrowful, passive, or quietly draining.
+Venus specifies the Saturn/Neptune axis through what is loved or valued under difficult expectations. [Sandbach](#sandbach-entry) describes romantic idealism and putting the other person first, while [Ebertin](#ebertin-entry) stresses inhibition and suffering in love. [Munkasey](#munkasey-entry) extends disappointment to misleading values and expensive goods, alongside inspiration for older art. The common thread is an ideal meeting limits in affection or value, without making self-denial a requirement for love.
 
 ## Links
 

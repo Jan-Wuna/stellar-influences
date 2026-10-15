@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
 - Triad hub: [Sun Pluto Cupido](../triads/sun-pluto-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 115; PDF page 111 (one-based).
 
 A change in the manner of nourishment through marriage or community. Transformation in communities. To develop artistic abilities.
 
@@ -42,13 +46,27 @@ A change in the manner of nourishment through marriage or community. Transformat
 
 #### ABC Entry
 
-development in of a community of men, development of the man in the community, evolution of the human community, bodily development in the community, personal development in the community, and growing human community
+Source locator: printed page 159; PDF page 78 (one-based).
+
+Unfolding within a community of men, development of the man in the community, evolution of the human community, bodily development in the community, personal development in the community, and a growing human community.
+
+## Comparative Schema
+
+- core meaning: Personal or collective development within community life.
+- psychology: Developing artistic ability is explicit; no fuller inner portrait is supplied.
+- body/health: Bodily development and changed nourishment are source themes without a specific diagnosis.
+- social/relationship: Development within marriage or community; a growing collective.
+- events/manifestations: Community transformation, artistic development and changed nourishment through shared life.
+- conflicts/notes: Transformation does not itself establish separation or severance from family.
+
+## Contradictions And Comparison Notes
+
+Both entries emphasize development or transformation. Witte adds artistic ability and nourishment; ABC specifies personal, bodily and collective scales of development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Pluto`: a changed environment and separation or severance from the family.
-- Practical expression: development in a community of men, development of the man in the community, evolution of the human community, bodily development in the community, and personal development in the community.
+For `Sun/Cupido = Pluto`, shared life is a setting of development and transformation. [ABC](#abc-entry) describes personal and bodily development within a community as well as growth of the community itself; [Witte](#witte-entry) adds developing artistic abilities and a changed manner of nourishment through marriage or community. The connection is change within communal participation, without making family separation a necessary or established meaning.
 
 ## Links
 

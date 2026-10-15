@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Hades Kronos Admetos`
 - Astronomicon triad-set: `¢ ¤ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Admetos = Kronos](../activations/hades-admetos-equals-kronos.md)
-- [Hades/Kronos = Admetos](../activations/hades-kronos-equals-admetos.md)
-- [Kronos/Admetos = Hades](../activations/kronos-admetos-equals-hades.md)
+- [Hades/Admetos = Kronos](../activations/hades-admetos-equals-kronos.md): base axis [Hades/Admetos](../axes/hades-admetos.md); activator [Kronos](../factors/kronos.md).
+- [Hades/Kronos = Admetos](../activations/hades-kronos-equals-admetos.md): base axis [Hades/Kronos](../axes/hades-kronos.md); activator [Admetos](../factors/admetos.md).
+- [Kronos/Admetos = Hades](../activations/kronos-admetos-equals-hades.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Hades/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
-- `Hades/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `445`
-- `Hades/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `441`
-- `Kronos/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `463`
+The following coverage records the source subentries currently present on each linked activation page.
+
+- `Hades/Admetos = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-admetos-equals-kronos.md#witte-entry), PDF entry-start page `284`.
+- `Hades/Admetos = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-admetos-equals-kronos.md#abc-entry), printed page `445`.
+- `Hades/Kronos = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-kronos-equals-admetos.md#witte-entry), PDF entry-start page `279`.
+- `Hades/Kronos = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-kronos-equals-admetos.md#abc-entry), printed page `441`.
+- `Kronos/Admetos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-admetos-equals-hades.md#witte-entry), PDF entry-start page `300`.
+- `Kronos/Admetos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-admetos-equals-hades.md#abc-entry), printed page `463`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Kronos`: extreme shortage of raw materials, severe negligence, meanness at scale, and strange or troubling methods of government.
-- `Hades/Kronos = Admetos`: hidden evil, limited-scope but serious mean acts, and wrongdoing that stays buried or undiscovered.
-- `Kronos/Admetos = Hades`: odd, difficult-to-detect evil, concealed meanness, and degraded conduct masked by separation, secrecy, or special position.
+Hades, Kronos and Admetos form one unordered lookup set, but the three formulas change the midpoint pair and the activator. Follow the exact formula above for its interpretation and source entries; use its base axis for the shared pair meaning and its factor links for standalone evidence. The orientations are not interchangeable.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Hades/Kronos](../axes/hades-kronos.md)
+- [Hades/Admetos](../axes/hades-admetos.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)

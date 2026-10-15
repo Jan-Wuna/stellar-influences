@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Mars Pluto](../triads/mercury-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
 
 To comprehend and to express thoughts. To demonstrate will power in several different fields. To act according to well made plans.
 
@@ -45,15 +49,23 @@ To comprehend and to express thoughts. To demonstrate will power in several diff
 
 #### ABC Entry
 
-report about changes in work, changed opinion about work, growing activities of youth, growing media activity, and change of words at work
+German passage (transcribed from PDF page `120`, printed page `243`):
+
+> Entwicklungs-Arbeit der Jugend, Entfaltung der Jugend durch Arbeit, Gedanken-Arbeit entwickeln, über Veränderung der Arbeit berichten, veränderte Meinung zur Arbeit, wachsende Aktivitäten der Jugend, wachsende Medien-Tätigkeit, Wort-Wechsel bei der Arbeit
+
+Editorial translation from the German passage: Development work of young people; young people's development through work; developing mental work; reporting on changes in work; changed opinion about work; increasing activities of young people; growing media activity; exchange of words at work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `149`; entry code: `0478`.
 
 #### Ebertin Entry
 
 A fanatical critic, over-zealous orator, sharp analyst. The misfortune of having to suffer heavy attacks or assaults from others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +82,21 @@ Compulsive or continuous talk which irritates others; discussions about any susp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Persistent expression and analysis backed by concentrated will.
+- psychology: Relentless communication and agitation when ideas fail to get across.
+- body/health: Ebertin's assaults are a historical event claim, not a bodily diagnosis.
+- social/relationship: Persuasion can become verbal hostility, abuse, or irritating compulsive talk.
+- events/manifestations: Executing plans, sharp criticism, and angry communication from bosses.
+- conflicts/notes: Constructive planning and coercive speech are distinct; ABC's complete development row is restored.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's well-made plans and expression differ from Sandbach's abuse or Munkasey's irritating talk. ABC adds development and changing work; it does not turn persistence into a necessarily harmful trait.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Pluto`: penetrating analysis, powerful persuasion, and the ability to mobilize plans with concentrated will. Main caution: verbal domination: argument can become coercive, obsessive, or destructive, especially when communication turns into a struggle for control.
+Pluto specifies Mercury/Mars through insistence in thought, speech, and action. The [Witte entry](#witte-entry) supports clear expression and action on well-made plans, while [Ebertin](#ebertin-entry) adds sharp analysis and excessive criticism. [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) (p. 152) show the pressure becoming relentless talk, irritation, or an attempt to gain power through verbal hostility. Persistence connects these examples, without making planning and abuse equivalent.
 
 ## Links
 

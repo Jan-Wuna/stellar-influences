@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Apollon = Uranus`
 - Astronomicon formula: `R/¥ = X`
 - Axis page: [Moon/Apollon](../axes/moon-apollon.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `134`.
+
 #### Witte Entry
 
 To spend many animated hours. Many people suddenly interested in astrology. Surprising expansion of people, or of a rebellion. To be suddenly in the center of a mob. Excited people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `201`; PDF page: `99`.
+
 #### ABC Entry
 
-Successful feelings pulses, impulses of a successful woman, new knowledge for a people, success event of a woman, reform of the people economy, technical successes of a Volkc, surprising success in the hour, and increasing excitement of the atmosphere
+German passage (transcribed from PDF page `99`, printed page `201`):
+
+> Erfolgreiche Gemüts-Impulse, Impulse einer erfolgreichen Frau, neues Wissen für ein Volk, Erfolgs-Ereignis einer Frau, Reform der Volks-Wirtschaft, technische Erfolge eines Volkes, überraschender Erfolg in der Stunde, zunehmende Erregung der Gefühle
+
+Editorial translation from the German passage: Successful emotional impulses; impulses of a successful woman; new knowledge for a people; an event of success for a woman; reform of the national economy; a people's technical successes; surprising success within an hour; increasing excitation of feelings.
+
+## Comparative Schema
+
+- core meaning: Animated hours and sudden excitement or expansion among many people.
+- psychology: Emotional impulses and increasing excitation of feelings are explicit.
+- body/health: No specific bodily or medical condition is supplied.
+- social/relationship: Excited crowds, a rebellion and widespread new interest in astrology are Witte examples.
+- events/manifestations: ABC adds new knowledge, economic reform, technical success and surprising success within an hour.
+- conflicts/notes: Astrology and a mob are distinct examples; neither defines every instance of collective excitement.
+
+## Contradictions
+
+Witte includes disruptive crowd and rebellion scenes; ABC emphasizes reform, technical achievement and success as well as excitement. Sudden collective energy has several possible outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Uranus`: To spend many animated hours. Many people suddenly interested in astrology. Surprising expansion of people, or of a rebellion. To be suddenly in the center of a mob. Excited people.
-- Practical expression: successful feelings pulses, impulses of a successful woman, new knowledge for a people, success event of a woman, and reform of the people economy.
+In `Moon/Apollon = Uranus`, Uranus makes the pair's many hours and collective breadth animated and sudden. Witte describes excited people, an expanding rebellion or unexpectedly finding oneself amid a crowd; ABC adds emotional impulses, reform, new knowledge and technical successes. The connection is abrupt activation across many people or a period of experience. Its successful and disruptive scenes remain alternatives, so neither rebellion nor achievement is assured by the formula ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Pluto`
 - Astronomicon formula: `VP/¡ = Z`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,7 +38,9 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-E Communities or corporations in establishment or development. Art develops.
+- Source reference: PDF page `48` (one-based); scanned activator row checked.
+
+Communities or corporations in establishment or development. Art develops.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
@@ -44,11 +48,23 @@ E Communities or corporations in establishment or development. Art develops.
 
 development of the public community, shared development in public life, artistic development in public, growing public community, growing community in public, and changes in a public community
 
+## Comparative Schema
+
+- Core meaning: Establishment, development, and change of public community.
+- Psychology: No inner response is specified.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Communities or corporations forming and growing.
+- Events/manifestations: Artistic development and change within a public group.
+- Conflicts/notes: The source's adjacent Pluto display modifier is not part of the prose; the actual paragraph begins Communities.
+
+## Contradictions
+
+No direct conflict appears; establishment, growth, and later changes describe different phases or forms of development.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Pluto`: e Communities or corporations in establishment or development and art develops.
-- Practical expression: development of the public community, shared development in public life, artistic development in public, growing public community, and growing community in public.
+Pluto specifies `Vernal Point/Cupido` through public groups taking shape, growing, or changing. The development of communities and corporations connects with the entries' artistic development, so the formula can concern either the association or the art it brings into public life. The text does not prescribe the direction or quality of that development. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 45 / PDF p. 21.)
 
 ## Links
 

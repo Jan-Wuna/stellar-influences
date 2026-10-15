@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Moon Node MC](../triads/moon-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based; exact row checked).
 
 The pursuit of emotional connection. The desire to connect with females. The emotional result of a soul mate relationship.
 
@@ -45,17 +49,23 @@ The pursuit of emotional connection. The desire to connect with females. The emo
 
 #### ABC Entry
 
-Meeting with the soul of a people, my 8egations with women, my contacts with women, soul contacts, hour of a psychic connection, connection with the soul of the woman, and female soul connections
+- Source page: 66 (printed); PDF page: 32 (one-based; exact row checked).
+
+Encounter with the soul of a people, my relationships with women, my contacts with women, feeling soul contacts, the hour of an inner connection, a connecting soul feeling, connection with the soul of a woman, female soul connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 304 (printed); PDF page(s): 306 (one-based); entry code: 1096 (direct source text checked).
 
 The strong part played by the feelings in unions between people, creation of a cozy atmosphere when with another person. An emotional character. The inner ties of a woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 120 (one-based; exact activation located in direct source text).
 
 Emotional insecurities cause one to cling to old ways of relating to the world, or, one finally realizes that one’s true emotional needs are to grow into a more expanded and spiritual way of relating to it.
 
@@ -70,22 +80,23 @@ Compassion from others you meet about your life’s situation; meeting people wh
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional connection and responsiveness within personally significant relationships.
+- psychology: feelings can foster intimacy or preserve old insecurity; growth may answer deeper emotional needs.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: a cozy atmosphere, compassionate helpers and the historically gendered ties with women named in several entries.
+- events/manifestations: encounters with people sensitive to one's growth and help from obscure people in gaining standing.
+- conflicts/notes: Historical female-specific statements remain source examples. Sandbach distinguishes familiar security from expanding spiritual needs without contradicting the intimacy theme.
 
 ## Contradictions
 
-- None recorded yet.
+Historical female-specific statements remain source examples. Sandbach distinguishes familiar security from expanding spiritual needs without contradicting the intimacy theme.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Moon`: nurturing alliances, public sensitivity, and the ability to grow through caring bonds and felt belonging. Main caution: mood-led direction: vocation can become too dependent on approval, familiarity, or emotional comfort inside the group.
+Moon specifies `Node/MC` through the feelings that join people and make a relationship inwardly important. [Witte](#witte-entry) emphasizes seeking emotional connection, [Ebertin](#ebertin-entry) a cozy shared atmosphere, and [Munkasey](#munkasey-entry) compassionate people attentive to one's development. [ABC](#abc-entry) includes the soul of a people as well as ties with women; its gendered language and Ebertin's inner ties of a woman remain historical formulations.
+
+The bond's familiarity is not its only value. [Sandbach](#sandbach-entry) contrasts clinging to old relationships with recognizing emotional needs for a wider spiritual relationship to the world. Comfort and growth can thus pull in different directions within this same emotional field.
 
 ## Links
 

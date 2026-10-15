@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Vernal Point Mars Apollon](../triads/vernal-point-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ The eager and cheerful surroundings. The general public enlarges its field of ac
 
 #### ABC Entry
 
-Successful work in the public, peace activities in the public, commercial success in the public, 6public business activities, public impulses, and scientific work for the public
+Successful work in public, peace activity in public, commercial success in public, public commercial activity, increased impulses from the public, and scientific work for the public.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 201 (exact activator row); [ABC Entry](#abc-entry), printed p. 316, PDF p. 157 (exact activator row).
+
+- Core meaning: Scientific and commercial activity expands in public life.
+- Psychology: Witte describes eager, cheerful surroundings.
+- Body/health: No bodily condition is specified in these public-work entries.
+- Social/relationship: Work for the public and public peace activity are explicit.
+- Events/manifestations: Public commercial success, a wider field of activity, and rising markets are named.
+- Conflicts/notes: Public commercial activity and impulses from the public are ABC examples; a rising market remains Witte's example rather than a forecast.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Vernal Point`: eager and cheerful surroundings, public enlargement of activity, general peaceful enterprise, and rising markets.
-- Chart expression: broad social momentum, market uplift, and a collective atmosphere of active growth.
+Vernal Point specifies the Mars/Apollon axis through expanding activity in public life. Cheerful surroundings and peaceful enterprise in [Witte Entry](#witte-entry) connect with public commercial success and science undertaken for the public in [ABC Entry](#abc-entry). A rising market is one stated manifestation within this broader picture of public work and momentum.
 
 ## Links
 

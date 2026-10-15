@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Vulcanus](../triads/vernal-point-uranus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 Suddenly appearing force. Electrical energies.
 
@@ -42,13 +46,29 @@ Suddenly appearing force. Electrical energies.
 
 #### ABC Entry
 
-Exciting violence in the public, influence of technology in the public life, influential public refonnes, public power event, powerful tensions in the public life, and technical energies in the public
+- Source page: 39; PDF page: 18 (one-based spread).
+
+Agitating force or violence in public, the influence of technology in public life, influential public reforms, a public power event, powerful tensions in public life, and technical energies in public.
+
+## Comparative Schema
+
+- core meaning: Sudden force and powerful public change.
+- psychology: Strong public tension.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Public power and influential reform.
+- events/manifestations: Electrical energy, technical energy and the influence of technology.
+- conflicts/notes: ABC’s Gewalt admits force or violence; the technical examples need not imply violence.
+
+## Contradictions
+
+The sources meet in force and technical energy. ABC also includes public violence and power, which are broader social possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Vulcanus`: suddenly appearing force and electrical energies.
-- Practical expression: exciting violence in the public, influence of technology in the public life, influential public refonnes, public power event, and powerful tensions in the public life.
+`Vernal Point/Uranus = Vulcanus` describes force appearing suddenly in public life. Witte explicitly names electrical energies; ABC extends the technical branch through technology’s influence and public technical energy, alongside powerful tension. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Influential reforms and public power events give a social expression. ABC’s force-or-violence wording preserves a potentially harmful branch without making violence the meaning of every technical or reform example. ([ABC](#abc-entry))
 
 ## Links
 

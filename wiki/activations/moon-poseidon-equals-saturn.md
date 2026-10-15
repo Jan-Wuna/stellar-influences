@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Poseidon = Saturn`
 - Astronomicon formula: `R/¨ = W`
 - Axis page: [Moon/Poseidon](../axes/moon-poseidon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `138` (entry start; one-based).
+
 #### Witte Entry
 
 Mentally or spiritually no contact, no instinctive ability. To face refusal or misunderstanding mentally or spiritually.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `207`, PDF p. `102` (entry).
+
 #### ABC Entry
 
-The truth of a people, the clarity of old age, the cultural abandonment of a people, the patience of a poor woman, the spiritual problems of a people, the loss of the ideals for a people, and the satisfaction of a woman of old
+Burdening truth for a people, insight of a mature woman, clarity of feelings in old age, cultural tasks for a people, patience of a rational woman, mental or spiritual problems of a people, loss of ideals for a people, and a woman's reason in old age
+
+## Comparative Schema
+
+- core meaning: difficult mental or spiritual contact, with burden, patience, or mature insight.
+- psychology: refusal, misunderstanding, lost ideals, patience, and clarity in age are named.
+- body/health: no bodily or health condition is specified; old age is an example rather than an illness.
+- social/relationship: a mature or rational woman and a people facing cultural tasks are source examples.
+- events/manifestations: burdening truth, cultural responsibilities, and difficulty making spiritual contact are explicit.
+- conflicts/notes: ABC preserves mature insight and reason alongside difficulty; Witte's lack of contact does not erase them.
+
+## Contradictions
+
+Witte emphasizes absence of contact or instinctive ability and misunderstanding. ABC also includes mature insight, clear feeling, and patience. This is a material difference in range, without a rule that age or difficulty necessarily brings wisdom.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Saturn`: Mentally or spiritually no contact, no instinctive ability. To face refusal or misunderstanding mentally or spiritually.
-- Practical expression: the truth of a people, the clarity of old age, the cultural abandonment of a people, the patience of a poor woman, and the spiritual problems of a people.
+In Moon/Poseidon = Saturn, Saturn specifies the pair through difficulty in mental or spiritual contact and the effort associated with understanding. [Witte](#witte-entry) emphasizes refusal, misunderstanding, and lack of instinctive ability. [ABC](#abc-entry) retains burdensome truth, cultural tasks, and lost ideals, but also patience, mature insight, clear feelings, and reason in old age (printed p. 207, PDF p. 102). The reading therefore preserves both obstruction and a more measured form of understanding.
 
 ## Links
 

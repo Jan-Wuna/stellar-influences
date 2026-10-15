@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Chiron](../axes/mars-chiron.md)
 - Triad hub: [Mars Chiron Pluto](../triads/mars-chiron-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 One feels a great internal pressure to act on the urges of one’s spiritual inspira tion. One’s life is transformed by taking the initiative to do what one knows one needs to do.
 
+## Comparative Schema
+
+- core meaning: Acting on spiritual inspiration is linked with life transformation.
+- psychology: Great internal pressure to act is explicit.
+- body/health: No bodily condition or medical claim is supplied.
+- social/relationship: The passage does not specify a relationship or conflict with others.
+- events/manifestations: Taking needed initiative is stated without a concrete external event.
+- conflicts/notes: Internal pressure is not itself evidence of coercing others or obsession.
+
+## Contradictions
+
+The single entry connects inner pressure, initiative and transformation without an internal disagreement.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron = Pluto`: root-level reform, fierce spiritual urgency, and life transformation that begins when one finally does what one already knows must be done. The caution is operating under such pressure that conflict becomes obsessive or coercive.
+Pluto specifies the Mars/Chiron axis through strong inner pressure to act on spiritual inspiration. In the [Sandbach entry](#sandbach-entry), taking the initiative to do what one knows is needed transforms one's life. The pressure is explicitly internal; the passage supplies no corresponding claim of obsession or coercion of other people.
+
+Source locator: Sandbach PDF p. 69 is the Mars/Chiron chapter start; the exact entry page has not been verified.
 
 ## Links
 

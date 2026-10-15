@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Pluto Vulcanus](../triads/mercury-pluto-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ To be able or to be obliged to think fast. Mighty transformation in thinking. To
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 253; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Reports of growing violence, energy transformations describe, influential development in youth, influential change of place, developing of thought power, power development through language, strong change in thinking, and growing youth violence
+Reports of growing violence, energy transformations describe, influential development in youth, influential verbal exchange, developing of thought power, power development through language, strong change in thinking, and growing youth violence
+
+## Comparative Schema
+
+- core meaning: Forceful change in thinking and the need or ability to think quickly. [Witte](#witte-entry).
+- psychology: Developing mental force and recognizing a major transformation. [ABC](#abc-entry); [Witte](#witte-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Influential verbal exchanges and increasing youth violence are ABC examples.
+- events/manifestations: Reports on violence, descriptions of energy transformations, and power developed through speech. [ABC](#abc-entry).
+- conflicts/notes: Force of thought and violence are distinct motifs; the latter is not an inferred fact about a person.
+
+## Contradictions
+
+No direct contradiction is identified; capacity, pressure, and violent manifestations have different scope.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Pluto = Vulcanus`: To be able or to be obliged to think fast. Mighty transformation in thinking. To recognize a mighty transformation.
-- Practical expression: reports of growing violence, energy transformations describe, influential development in youth, influential change of place, and developing of thought power.
+In `Mercury/Pluto = Vulcanus`, Vulcanus specifies developing thought through force and speed: a person may need to think quickly or recognize a powerful transformation. [Witte](#witte-entry). [ABC](#abc-entry) extends this to influential verbal exchange and power expressed through language, with reports of violence as a separate concrete subject. The entries support intensity of change without making violence its necessary outcome.
 
 ## Links
 

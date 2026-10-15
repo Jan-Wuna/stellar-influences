@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Uranus Pluto Asc](../triads/uranus-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Sudden surprising changes of the place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 121; PDF page 59.
+
 #### ABC Entry
 
 Exciting partner development, dynamic environmental changes, new environmental developments, sudden partner change, technical transformations on site, changes of a place through technology, and growing environmental stresses
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 295, entry 1066.
+
 #### Ebertin Entry
 
 A frequent change of environment, the misfortune to live in constant anxiety and restlessness. Extraordinary incidents and upsets, accidents.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. `117`, exact complete entry; chapter starts on PDF p. `116`. No printed folio is visible.
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ An increased need to be disruptive toward practices of which you do not approve;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or unusual changes in place, interaction, or personality.
+- psychology: Restlessness, intense individuality, and psychological curiosity.
+- body/health: Ebertin lists accidents as a possibility, without establishing a medical prediction.
+- social/relationship: Unexpected partner changes or disruption of disapproved practices.
+- events/manifestations: Rapid local change, technical transformation, and unusual incidents.
+- conflicts/notes: Vivid individuality and environmental upsets are distinct expressions.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's vivid personal impact and Ebertin's anxious instability differ in emphasis. The entry does not establish that individuality necessarily causes accidents.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Uranus`: catalytic impact, fierce independence, and the ability to force rapid personal change when old forms break down. Main caution: explosive instability: self-presentation can become extreme, shocking, or too reactive to sustain constructive contact.
+Uranus specifies Pluto/Asc through abrupt changes and an unusually vivid impact on others. Sudden changes of place in [Witte](#witte-entry) and technical or partner changes in [ABC](#abc-entry) give this an outward form; [Sandbach](#sandbach-entry) describes unexpected personality transformations and intense individuality. [Munkasey](#munkasey-entry) adds the urge to disrupt disapproved practices and study people, including through astrology. Anxiety and accidents in [Ebertin](#ebertin-entry) are possible difficult manifestations, not universal outcomes.
 
 ## Links
 

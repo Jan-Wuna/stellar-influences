@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Saturn Hades](../triads/vernal-point-saturn-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Poor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putrefaction. Falling into oblivion.
 
@@ -42,13 +46,27 @@ Poor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putr
 
 #### ABC Entry
 
-Public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, public losses Crime, and losses by polluted public
+- Source page: 47; PDF page: 22 (one-based spread).
+
+Tasks in public service, burdensome deficiencies in public life, adverse public problems, hidden losses in public life, losses through public criminality, and losses through a polluted public sphere
+
+## Comparative Schema
+
+- core meaning: Public hardship, service burden, loss, or decay.
+- psychology: Being pitied and falling into oblivion are source descriptions.
+- body/health: Postmortem decay and putrefaction are historical material associations, not diagnoses.
+- social/relationship: Refugees and strangers are listed among people facing hardship.
+- events/manifestations: Hidden losses and losses through crime or pollution.
+- conflicts/notes: Refugee status is not a claim of criminality; human groups and decay examples remain distinct.
+
+## Contradictions
+
+People in need, service tasks, and decay are different source applications. The text establishes no causal link between being a stranger and the listed losses.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Saturn`: poor pitied humans, refugees, strangers, decay, and unidentifiable after death.
-- Practical expression: public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, and public losses Crime.
+In `Vernal Point/Hades = Saturn`, Saturn specifies the pair through sustained public hardship and loss. The [ABC entry](#abc-entry) describes service tasks burdened by deficiencies, hidden losses, and adverse conditions. The [Witte entry](#witte-entry) adds refugees, strangers, and people who are pitied, alongside decay and oblivion. Those human and material examples remain distinct; the synthesis does not turn displacement into wrongdoing or a prediction of death.
 
 ## Links
 

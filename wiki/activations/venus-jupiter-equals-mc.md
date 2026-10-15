@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter MC](../triads/venus-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ The sensation of love. To be recipient of loves joy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `272`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Frcude about inncre harmony, I have success in love, I love success, my artistic success, my love happiness, my fondness for money, beauty flatters me, and satisfaction through soul harmony
+Soulful success in peace, joy over inner harmony, I have success in love, I love success, my artistic success, my happiness in love, my preference for money, beauty makes me happy, and satisfaction through harmony of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source reference: printed page `180`, coded entry `0601`.
 
 #### Ebertin Entry
 
 Ability to radiate one's inner happiness, demonstration of gladness and warm heart when meeting others. A union between two people which is founded on deep affection.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source reference: PDF page `57` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ How you learn to overcome and soften behavior patterns which annoy your friends;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personally experienced happiness in love, inner harmony, and the expression of appreciative values.
+- Psychology: Warm-hearted gladness, satisfaction through inner harmony, and learning to soften behavior that annoys friends.
+- Body/health: No specific medical implication is supplied by these activation entries.
+- Social/relationship: Receiving affection, radiating happiness, and a union founded on deep affection.
+- Events/manifestations: Personal artistic success, recognition for social or philosophical ideas, and Sandbach's possible prosperous career.
+- Conflicts/notes: Sandbach includes spiritual growth and career fortune; Munkasey separately emphasizes interpersonal learning and consequences of ideas.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach includes spiritual growth and career fortune; Munkasey separately emphasizes interpersonal learning and consequences of ideas.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = MC`: social success, fortunate alliances, and the ability to advance through diplomacy, creativity, and positive public feeling. Main caution: image through abundance: career can become too dependent on charm, ease, or an inflated standard of comfort and display.
+`Venus/Jupiter = MC` makes happiness in love and harmony a personally felt source of satisfaction. [Witte](#witte-entry) describes receiving love's joy, the [ABC entry](#abc-entry) adds inner harmony and personal artistic success, and [Ebertin](#ebertin-entry) carries that happiness outward in warm-hearted encounters and deep affection. [Sandbach](#sandbach-entry) relates generous love and appreciation of life to spiritual growth, with a fortunate career as a possible expression. [Munkasey](#munkasey-entry) adds recognition for ideas about justice or philosophy and the work of softening behavior that irritates friends. Personal fulfillment therefore includes both the experience of affection and how one's pleasures, ideas, and conduct affect others.
 
 ## Links
 

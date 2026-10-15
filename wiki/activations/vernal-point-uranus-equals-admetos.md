@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Admetos](../triads/vernal-point-uranus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 Surprising destruction.
 
@@ -42,13 +46,29 @@ Surprising destruction.
 
 #### ABC Entry
 
-Exciting blockage in the public sphere, constraining impulses in the public sphere, gritty emanations in the public sphere Life, deepening in the public sphere Refonnes, technical cycle in the public sphere, and Surprising strike in the public sphere
+- Source page: 39; PDF page: 18 (one-based spread).
+
+An agitating blockage in public, restrictive impulses in public, thorough renewals in public life, deepening public reforms, technical circulation in public, and a surprising strike in public.
+
+## Comparative Schema
+
+- core meaning: Public renewal encounters restriction or interruption.
+- psychology: Agitation associated with blocked or constraining impulses.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: A surprising public strike is an explicit collective example.
+- events/manifestations: Blockades, thorough renewal, deeper reform and technical circulation.
+- conflicts/notes: Witte’s surprising destruction is more severe than several ABC examples.
+
+## Contradictions
+
+Witte gives surprising destruction; ABC includes restriction but also thorough renewal and deepened reform. Retain that difference in severity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Admetos`: surprising destruction.
-- Practical expression: exciting blockage in the public sphere, constraining impulses in the public sphere, gritty emanations in the public sphere Life, deepening in the public sphere Refonnes, and technical cycle in the public sphere.
+`Vernal Point/Uranus = Admetos` describes public agitation where impulses meet restriction. ABC’s blockage and surprising strike show interrupted activity, while Witte gives the more severe possibility of surprising destruction. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+ABC also allows renewal to become thorough and reform to deepen, so restriction is not the only branch. Its technical circulation example remains alongside these public processes without enough explanation to define a particular mechanism. ([ABC](#abc-entry))
 
 ## Links
 

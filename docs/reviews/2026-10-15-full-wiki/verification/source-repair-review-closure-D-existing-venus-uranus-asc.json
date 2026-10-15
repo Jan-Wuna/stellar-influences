@@ -1,0 +1,30 @@
+{
+  "path": "wiki/activations/venus-uranus-equals-asc.md",
+  "status": "resolved_by_existing_independent_current_approval",
+  "recorded_by": "/root/activation_review_023_044",
+  "independent_verifier": "/root/activation_review_060_062",
+  "independent_allowance": {
+    "path": "wiki/activations/venus-uranus-equals-asc.md",
+    "before_sha256": "a88d7b4c7858bbd56f095a09d6c5c45afaa3549fa25b92eda6203abd01464e1b",
+    "after_sha256": "1e6daf98e7a639fcc186e93026324cc20ed3ee9a2853e5bd778ebb03c2c7af95",
+    "ledger": "activations-090.jsonl",
+    "reason": "Read full before/current Source Entries, full final canonical page and full amended unique original090 owner record. Personally read/viewed actual Witte179, ABC137 printed276, Ebertin187–188 printed185–186 and Sandbach60–61. All eight ABC clauses match. Independently confirmed Moon0616 footnote34 belongs below the rule, not inside Asc0624 cross-page body; final Asc sentence and exact two-page reference restored. Sandbach exact61 paragraph/compelling join and amended evidence references verified. Unchanged Munkasey outside delta. Closure hold resolved only after final saved source and complete corrected owner record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf179.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf187.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf188.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-sandbach-pdf61.png"
+    ],
+    "verified_by": "/root/activation_review_060_062"
+  },
+  "independent_bank": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-mars-venus-tnp-remaining-allowances.json",
+  "independent_bank_sha256": "6131b44c939ab38de86774a1779b2fdcf0fbff06761b1b94e4b201f1d0d4ef81",
+  "independent_final_audit": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-mars-venus-tnp-remaining-audit.json",
+  "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 179 (one-based).\n\nFlirtations. Betrothal or marriage. Excitement about the love of others. Favors for others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 276; PDF page: 137 (one-based spread).\n\nExciting beauty as a partner, dynamic love partner, peace event at the location, tense peace in the environment, harmonious technical environment, new love for the partner, place for art events, and preference for tensions in the surroundings\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\n- Source reference: printed pp. 185–186; one-based PDF pp. 187–188, coded entry 0624. Footnote 34 belongs to the separate Moon entry 0616 and is excluded from the Asc paragraph.\n\nDemonstration of love in the presence of others. A sudden meeting or contact, a hasty engagement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\n- Source reference: one-based PDF p. 61, Venus/Uranus, Ascendant paragraph.\n\nTo identify with that which is strange and beautiful. An unusually compelling personality. The ability to find unique ways of sharing with others, or unexpected points in common. To freely express love toward other people.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/URANUS with Planets and Points`\n- Source page: `200`\n\n#### Munkasey Entry\n\nConcentrating on innovative themes in music, art or finance; a heightened show of affection to those who have unusual talents in artistic fields; the unusual delights you receive from enjoying your personal space.",
+  "current_page_sha256": "5b3585cbda3fcbdbef2368acd5223c0fb1dc747d97012e7df9cc49377ef67acc",
+  "owner_ledger": "activations-090.jsonl",
+  "owner_line": 36,
+  "owner_record_sha256": "8eaa785204daf9b53a9602f8154ed1727f7824805a584ef390e43f64575c41b7",
+  "own_checks": "Personally read complete baseline/current pages and full corrected unique090 record plus fresh external strict7 row and final_rebind proof. Source gate explicitly authorized closure by this fresh existing independent approval. Exact current source and owner hashes match; external scope explicitly covers full0624 cross-page sentence, Moon0616 footnote34 separation and Sandbach61/compelling. No claim that external raw scan work was performed by this recorder; no duplicate allowance or review count added."
+}

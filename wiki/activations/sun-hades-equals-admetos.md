@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Hades](../axes/sun-hades.md)
 - Triad hub: [Sun Hades Admetos](../triads/sun-hades-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 116; PDF page 112 (one-based).
 
 Hunger. To be under grave hindrances. Physically limited. Outstanding ugly appearance. Death after long illness and restrictions.
 
@@ -42,13 +46,27 @@ Hunger. To be under grave hindrances. Physically limited. Outstanding ugly appea
 
 #### ABC Entry
 
-Depression of an elderly person, depressing past of a person, difficult body cycle, lack of personal basicity, personal limitations and deprivations, and deepening into the personal past
+Source locator: printed page 161; PDF page 79 (one-based).
+
+Depression of an elderly person, a person's depressing past, difficult bodily circulation, lack of personal thoroughness, personal restrictions and deprivations, and immersion in the personal past.
+
+## Comparative Schema
+
+- core meaning: Severe hindrance, personal deprivation or restriction, with attention to one's past.
+- psychology: A depressing past, depression in old age and lack of thoroughness are ABC claims.
+- body/health: Hunger, circulation, bodily limitation and death after illness remain historical attributions, not medical conclusions.
+- social/relationship: No particular relationship arrangement is supplied by these entries.
+- events/manifestations: Restrictions, deprivation and immersion in personal history.
+- conflicts/notes: Witte's appearance judgment remains attributed; neither entry supplies illness through soil, graves or waste.
+
+## Contradictions And Comparison Notes
+
+Both entries emphasize deprivation or restriction. ABC adds personal history and thoroughness; Witte's severe bodily and appearance examples do not establish facts about an individual.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Hades = Admetos`: illness through the soil or graves and waste matter.
-- Practical expression: depression of an elderly person, depressing past of a person, difficult body cycle, lack of personal basicity, and personal limitations.
+For `Sun/Hades = Admetos`, the entries describe deprivation and restriction in a personal or bodily register. [Witte](#witte-entry) names hunger and grave hindrances; [ABC](#abc-entry) adds personal restrictions, deprivation, lack of thoroughness and immersion in a difficult past. Witte's appearance judgment and mortality claim, and ABC's depression and circulation clauses, remain historical source attributions. The formula supplies no basis for diagnosing illness or assigning a cause in soil, graves or waste.
 
 ## Links
 

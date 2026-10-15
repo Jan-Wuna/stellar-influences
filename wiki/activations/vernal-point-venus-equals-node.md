@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Node](../triads/vernal-point-venus-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 41 (one-based).
 
 Love ties in general. Contacts which are pleasant in the public.
 
@@ -42,13 +46,29 @@ Love ties in general. Contacts which are pleasant in the public.
 
 #### ABC Entry
 
+- Source page: 30; PDF page: 14 (one-based spread).
+
 Encounter with the beauty of the world, harmonious connections in the public life, public love relationships, public peace contacts, relations with the public art, and preference for encounters in the public
+
+## Comparative Schema
+
+- core meaning: Pleasant public contacts and affectionate connections.
+- psychology: Enjoyment of encounters and beauty.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Love ties, harmonious connections and peace contacts.
+- events/manifestations: Public meetings and connections with art.
+- conflicts/notes: The sources support pleasant contact without specifying permanence.
+
+## Contradictions
+
+Both entries emphasize agreeable connections. ABC adds beauty, peace and public art as the subjects or settings of those contacts.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Node`: love ties in general and contacts which are pleasant in the public.
-- Practical expression: encounter with the beauty of the world, harmonious connections in the public life, public love relationships, public peace contacts, and relations with the public art.
+`Vernal Point/Venus = Node` connects public encounters with affection and enjoyment. Witte’s love ties and pleasant contacts meet ABC’s harmonious connections, love relationships and peace contacts in public life. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Meeting the beauty of the world and connecting with public art give aesthetic settings for those relationships. A liking for public encounters supports participation and sociability without specifying how long any particular tie lasts. ([ABC](#abc-entry))
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Mercury`
 - Astronomicon formula: `Q/¢ = T`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 To have one’s thoughts concentrated upon the service one is doing. Thinking about service relations. Obscene Jokes. Owner of a brothel. Mediator, agent.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports on the arts of the past, thoughts on love forgottenness, talk about love service, consider the dangers of love, secret youth love, love hearts in youth, lack of harmony in youth, and preference for languages of the past
+- Source page: 284 (printed); PDF page: 141; scanned activator row checked.
+
+Reports about art of the past, thoughts of renouncing love, conversations about service in love, considering dangers of love, secret youthful love, sorrow in love during youth, lack of harmony in youth, and a preference for languages of the past.
+
+## Comparative Schema
+
+- Core meaning: Thought and communication turn toward service and love-sorrow.
+- Psychology: Reflection on renunciation and danger.
+- Body/health: No specific health claim.
+- Social/relationship: Secret youthful love and service-related mediation.
+- Events/manifestations: Reports on old art, languages of the past, and obscene jokes.
+- Conflicts/notes: Witte's brothel ownership is one explicit example, not an inferred occupation.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's brothel ownership is one explicit example, not an inferred occupation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Mercury`: to have one’s thoughts concentrated upon the service one is doing.
-- Practical expression: reports on the arts of the past, thoughts on love forgottenness, talk about love service, consider the dangers of love, and secret youth love.
+Mercury specifies Venus/Hades through thinking and speaking about service, secret love, or renunciation. Reports on old art and interest in earlier languages give the same attention a cultural setting. Witte additionally names mediation, obscene jokes, and brothel ownership; these uncommon expressions remain distinct source examples. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Jupiter`
 - Astronomicon triad-set: `VP S V`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Jupiter = Vernal Point](../activations/sun-jupiter-equals-vernal-point.md)
-- [Vernal Point/Jupiter = Sun](../activations/vernal-point-jupiter-equals-sun.md)
-- [Vernal Point/Sun = Jupiter](../activations/vernal-point-sun-equals-jupiter.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Jupiter = Vernal Point](../activations/sun-jupiter-equals-vernal-point.md) | [Sun/Jupiter](../axes/sun-jupiter.md) | Vernal Point |
+| [Vernal Point/Jupiter = Sun](../activations/vernal-point-jupiter-equals-sun.md) | [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md) | Sun |
+| [Vernal Point/Sun = Jupiter](../activations/vernal-point-sun-equals-jupiter.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Jupiter |
 
 ## Source Coverage
 
-- `Sun/Jupiter = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `148`
-- `Vernal Point/Jupiter = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
-- `Vernal Point/Jupiter = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `34`
-- `Vernal Point/Sun = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `22`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Jupiter = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-jupiter-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `106`.
+- `Sun/Jupiter = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-jupiter-equals-vernal-point.md#abc-entry), printed p. `148`.
+- `Vernal Point/Jupiter = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-jupiter-equals-sun.md#witte-entry), one-based PDF entry-start p. `43`.
+- `Vernal Point/Jupiter = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-jupiter-equals-sun.md#abc-entry), printed p. `34`.
+- `Vernal Point/Sun = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-jupiter.md#abc-entry), printed p. `22`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Jupiter = Vernal Point`: This formula emphasizes happiness in the environment and fortunate surroundings.
-- `Vernal Point/Jupiter = Sun`: This formula emphasizes well being of the body, to be rewarded for accomplishments in sport, and payday.
-- `Vernal Point/Sun = Jupiter`: This formula emphasizes many people feeling bodily happiness and time of harvesting the fruits of one’s own activities.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

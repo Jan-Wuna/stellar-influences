@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Saturn MC](../triads/vernal-point-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be mournful with others. To appear repulsive or clumsy. To have losses. To fe
 
 Soulful evening in public, my burden in public, my problems in public life, my losses in public, a psychologically disturbed public, and a loss filled minute in public
 
+## Comparative Schema
+
+- Core meaning: Personal public experience marked by burden or loss.
+- Psychology: Mourning, loneliness, and feeling abandoned.
+- Body/health: "Psychologically disturbed public" is source language, not a diagnosis of a population.
+- Social/relationship: Mourning with others and difficult public reception.
+- Events/manifestations: Public problems, burdens, and losses.
+- Conflicts/notes: Witte's "repulsive or clumsy" describes an appearance, not an inherent personal worth.
+
+## Contradictions
+
+Shared mourning and feeling alone are different social expressions of difficulty, not mutually exclusive claims. Both entries list losses; neither gives their cause or makes public rejection inevitable.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Saturn`: to be mournful with others, to appear repulsive or clumsy, to have losses, and to feel abandoned or lonely.
-- Practical expression: soulful evening in public, my burden in public, my problems in public life, my losses in public, and a psychologically disturbed public.
+In `Vernal Point/MC = Saturn`, Saturn specifies one's public experience through burdens, problems, and loss. The inward response may be loneliness or abandonment, yet Witte also places mourning in company with others. The [Witte Entry](#witte-entry) (PDF p. 35) and [ABC Entry](#abc-entry) (printed p. 19; PDF p. 8) support this difficult public experience without establishing a diagnosis or a fixed judgment about how a person appears.
 
 ## Links
 

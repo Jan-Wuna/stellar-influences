@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Apollon`
 - Astronomicon formula: `T/Y = ¥`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 High susceptibility and high sensitivity of the nervous system. The native can cut out the motor nervous systems to influence the vegetative system. To penetrate, to break into a new science in an intuitive way.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Exchangeable trade reports, experiences with air describe, success in foreign languages, successful reports on metaphysics, successful air traffic, successes of youth in water, talk about future knowledge, and much movement in water
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Enttäuschende Handels-Berichte, Erfahrungen mit Luft beschreiben, Erfolg in fremden Sprachen, erfolgreiche Berichte über Metaphysik, erfolgreicher Luft-Verkehr, Erfolge der Jugend im Wasser, Gespräche über Zukunfts-Wissen, viel Bewegung im Wasser
+
+Editorial translation from the German passage: Disappointing trade reports; describing experiences with air; success in foreign languages; successful reports about metaphysics; successful air traffic; young people's successes in water; conversations about future knowledge; much movement in water.
+
+## Comparative Schema
+
+- core meaning: Intuitive inquiry, foreign-language success, and wider knowledge ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Sensitivity and intuitive entry into a new science are Witte's claims.
+- body/health: Witte's motor and vegetative nervous-system claims remain historical doctrine, not medical instruction.
+- social/relationship: No distinct relationship process is specified.
+- events/manifestations: Trade reports, metaphysics, air traffic and activity in water are named.
+- conflicts/notes: Disappointing trade reports are preserved beside successful examples.
+
+## Contradictions
+
+Witte emphasizes intuition and nervous sensitivity; ABC combines disappointing trade reports with successful language, metaphysical and transport activities. No single level of success follows from all these examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Neptune = Apollon` expands the axis into highly sensitive intuitive science.
-- Chart expression: unusual nervous receptivity, fine susceptibility to inner states, and the capacity to penetrate new scientific territory through intuition rather than ordinary linear reasoning.
+In `Mercury/Neptune = Apollon`, Apollon specifies intuitive thought through inquiry into a wider field. Witte describes an intuitive approach to a new science, while ABC adds foreign languages, metaphysical reports, air transport, and movement in water. ABC's disappointing trade reports retain a different outcome within that range. The strong nervous-system statements belong to Witte's historical doctrine and do not establish an ability to control bodily systems ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

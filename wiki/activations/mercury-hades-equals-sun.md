@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Hades = Sun`
 - Astronomicon formula: `T/¢ = S`
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `167`.
+
 #### Witte Entry
 
 To be sick of nerves. A body with a weak nervous system. A young rowdy. To be the victim of sarcasm.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `256`; PDF page: `127`.
+
 #### ABC Entry
 
-Disadvantage of a person by language, reports of human need, secret news center, criminal young man, emergency call center, personal movement deficiency, vcrborgenes youth center, and traffic danger per day
+German passage (transcribed from PDF page `127`, printed page `256`):
+
+> Benachteiligung eines Menschen durch Sprache, Berichte über menschliche Not, geheimes Nachrichten-Zentrum, krimineller junger Mann, Not-Ruf-Zentrale, persönlicher Bewegungs-Mangel, verborgenes Jugend-Zentrum, Verkehrs-Gefahr am Tag
+
+Editorial translation from the German passage: A person's disadvantage through language; reports of human distress; a secret news center; a criminal young man; an emergency-call center; personal lack of movement; a hidden youth center; traffic danger during the day.
+
+## Comparative Schema
+
+- core meaning: Personal disadvantage through speech and difficult messages ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Being the target of sarcasm is explicit; an inner response is unspecified.
+- body/health: Witte's weak nervous system and ABC's movement deficiency remain attributed historical claims.
+- social/relationship: A young rowdy and a criminal young man are source examples.
+- events/manifestations: Reports of need, an emergency-call center, and secret messages occur in ABC.
+- conflicts/notes: The hidden youth center is a verified ABC example; no causal link between sarcasm and illness is stated.
+
+## Contradictions
+
+The scan-verified ABC passage has been restored with its distinct clauses. These examples supplement Witte's entry without establishing that all listed conditions occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Sun` embodies the axis in nervous weakness and exposed humiliation.
-- Chart expression: a weak or overstressed nervous system, coarse or unruly youthful behavior, and personal vitality being cut down by sarcasm, ridicule, or corrosive mental strain.
+In `Mercury/Hades = Sun`, Sun specifies difficult communication in personal terms: disadvantage through speech, being the target of sarcasm, and reports of human need. Emergency and secret-message centers form a separate practical strand in ABC. Witte also gives nervous weakness as a bodily association, which remains attributed historical doctrine rather than a medical conclusion or an effect caused by ridicule ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

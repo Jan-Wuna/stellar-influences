@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/Node](../axes/chiron-node.md)
 - Triad hub: [Chiron Uranus Node](../triads/chiron-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 One experiences spiritual connections in many unexpected and/or surprising ways. A freedom and openness in the experiencing of spiritual connectedness and the ability to help others to find their own individual way of doing this and of coming to their own unique realization of their spiritual connectedness.
 
+Source locator: PDF p. 101 (one-based; exact Uranus entry in the Chiron/Node chapter).
+
+## Comparative Schema
+
+- **Core meaning:** Unexpected spiritual connections experienced with freedom and openness.
+- **Psychology:** Readiness to recognize one's individual way of connecting.
+- **Body/health:** No bodily condition or treatment is specified.
+- **Social/relationship:** Helping others find their own way to spiritual connectedness.
+- **Events/manifestations:** Surprising experiences and unique realizations of connection.
+- **Conflicts/notes:** Surprise is stated; instability or superficiality is not.
+
+## Contradictions
+
+The entry joins personal freedom with helping others find their own approach; no disagreement is recorded.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Node = Uranus`: unconventional connection, startling openings, and freedom in evolutionary process. Main caution: instability or mistaking novelty for depth.
+Uranus specifies `Chiron/Node` through unexpected spiritual connections experienced with freedom and openness. In the [Sandbach entry](#sandbach-entry), that openness also helps others find their own individual way to connect and reach a unique realization. Surprise and individuality are supported; a caution about instability or shallow novelty is not supplied.
 
 ## Links
 

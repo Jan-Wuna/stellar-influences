@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Node`
 - Astronomicon formula: `T/V = g`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Right order of thoughts. To think about happy connection. Master of ceremonies. Cheerleader.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
 Meeting with a young happiness, conveying movement pleasure, connected by good thoughts, successful news connections, talking with a legal mediation, discussing contact successes, and connecting with traffic law
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +71,21 @@ Finding associates or groups who share similar philosophical or religious ideas;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connections that enrich thought and coordinate shared ideas ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Seeking mental enrichment can become scattered attention needing coordination.
+- body/health: No bodily condition is specified.
+- social/relationship: Groups sharing philosophical, religious, or educational interests are explicit.
+- events/manifestations: Meetings, publishing connections, ceremonies, and cheerleading are examples.
+- conflicts/notes: A shared interest does not establish opportunism or a transactional relationship.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's celebratory coordination and Munkasey's shared interests complement Sandbach's mental enrichment. Sandbach also names scattered attention; this is a qualification rather than evidence of exploitative ties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Node`: helpful networks, educational alliances, and the expansion of mental life through exchange with others. Main caution: opportunistic talk: relationships can become too transactional, noisy, or inflated by mutual opinion rather than substance.
+In `Mercury/Jupiter = Node`, Node specifies expansive ideas through contacts and groups that share them. Meetings around philosophy, religion, education, or publishing give concrete form to mental enrichment. Witte's master of ceremonies and cheerleader likewise organize a shared occasion or enthusiasm. Sandbach adds that moving too quickly among interests needs to become meaningful coordination of ideas ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

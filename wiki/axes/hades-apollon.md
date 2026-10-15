@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¢/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `HADES + APOLLON`
+- PDF page: `280`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. T
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `442–443`; PDF page: `220`
+
 #### ABC Pair Summary
 
-Followed by dispensing, informed experiences, dangerous freedom, knowledge, homeHcher handel, grief proliferation, lack of knowledge, and science criminality
+Success through deprivation, dangerous experiences, dangerous freedom, secret knowledge, secret trade, increase of sorrow, lack of knowledge, past success, knowledge of the past, crime in science.
+
+German pair summary checked: “Erfolg durch Entbehrungen, gefährliche Erfahrungen, gefährliche Freiheit, geheimes Wissen, heimlicher Handel, Kummer-Vermehrung, Mangel an Wissen, vergangener Erfolg, Wissen der Vergangenheit, Wissenschafts-Kriminalität”. These terse compounds retain the source's distinct meanings; “gefährliche Freiheit” and “Wissenschafts-Kriminalität” do not specify a particular danger or offense.
+
+## Comparative Schema
+
+- Core meaning: Widespread need alongside knowledge and trade concerned with old, discarded, or hidden things ([Pair Summary](#pair-summary)).
+- Psychology: Lack of experience is named; the sources do not explain a general personality pattern.
+- Body/health: Mass misery and poverty are social descriptions here, not specified bodily diagnoses.
+- Social/relationship: Many people in need and widespread poverty establish a collective scale; no particular intimate relationship is described.
+- Events/manifestations: Junk dealing, trade in old objects, history, occult or secret science, and magic are explicit; ABC also names secret trade, success through deprivation, past success and crime in science.
+- Conflicts/notes: ABC's dangerous experiences/freedom and increase of sorrow preserve adverse meanings beside success through deprivation and knowledge of the past. The terse phrases do not specify a danger, offense or causal relationship among every listed theme.
 
 ## Related Activations
 
@@ -106,8 +124,9 @@ Followed by dispensing, informed experiences, dangerous freedom, knowledge, home
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon`: large-scale deprivation and old knowledge: mass misery, widespread poverty, trade in discarded or antique materials, history and antiquity, occult or secret science, and a broad social field marked by need and hidden or forgotten things.
-- Chart expression: hardship or degradation operating at scale, but also to knowledge drawn from what is old, obscure, or buried. It can show junk and salvage economies, mass social decline, secret or historical learning, and communities dealing with the remains of the past rather than the abundance of the present. Liabilities: large-scale pessimism, fascination with decay, inflated occultism detached from reality, and the spread of misery or meanness through wider systems.
+`Hades/Apollon` has two linked fields: need affecting many people, and knowledge or commerce involving what is old or hidden. Widespread poverty and mass misery establish the collective scale. Junk dealing, trade in old objects, historical knowledge, and secret or occult studies preserve the entry's economic and intellectual range ([Pair Summary](#pair-summary)).
+
+ABC adds success through deprivation alongside dangerous experiences, dangerous freedom and increasing sorrow. Secret trade, past success, knowledge of the past and crime in science further distinguish its commercial and intellectual examples. These are separate source motifs; the summaries do not explain a causal relationship among collective poverty, old objects, secret knowledge and every adverse example, or establish a personal accusation ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

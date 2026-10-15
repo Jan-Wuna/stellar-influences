@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Saturn Poseidon`
 - Astronomicon triad-set: `Q W ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Poseidon = Venus](../activations/saturn-poseidon-equals-venus.md)
-- [Venus/Poseidon = Saturn](../activations/venus-poseidon-equals-saturn.md)
-- [Venus/Saturn = Poseidon](../activations/venus-saturn-equals-poseidon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Poseidon = Venus](../activations/saturn-poseidon-equals-venus.md) | [Saturn/Poseidon](../axes/saturn-poseidon.md) | [Venus](../factors/venus.md) |
+| [Venus/Poseidon = Saturn](../activations/venus-poseidon-equals-saturn.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | [Saturn](../factors/saturn.md) |
+| [Venus/Saturn = Poseidon](../activations/venus-saturn-equals-poseidon.md) | [Venus/Saturn](../axes/venus-saturn.md) | [Poseidon](../factors/poseidon.md) |
 
 ## Source Coverage
 
-- `Saturn/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
-- `Saturn/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `368`
-- `Venus/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `297`
-- `Venus/Saturn = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `178`
-- `Venus/Saturn = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `275`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Saturn/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `231`.
+- `Saturn/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-poseidon-equals-venus.md#abc-entry), printed p. `368`.
+- `Venus/Poseidon = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-saturn.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-saturn.md#abc-entry), printed p. `297`.
+- `Venus/Saturn = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `178`.
+- `Venus/Saturn = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-poseidon.md#abc-entry), printed p. `275`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Saturn`: to be hindered, wronged, separated or persecuted because of faith, religion or world conception.
-- `Venus/Saturn = Poseidon`: disturbed harmony in dealing with wisdom.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Neptune Zeus`
 - Astronomicon triad-set: `T Y £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md)
-- [Mercury/Zeus = Neptune](../activations/mercury-zeus-equals-neptune.md)
-- [Neptune/Zeus = Mercury](../activations/neptune-zeus-equals-mercury.md)
+- [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md): base axis [Mercury/Neptune](../axes/mercury-neptune.md); activator [Zeus](../factors/zeus.md).
+- [Mercury/Zeus = Neptune](../activations/mercury-zeus-equals-neptune.md): base axis [Mercury/Zeus](../axes/mercury-zeus.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Zeus = Mercury](../activations/neptune-zeus-equals-mercury.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
-- `Mercury/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `251`
-- `Mercury/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `168`
-- `Mercury/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `259`
-- `Neptune/Zeus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md#witte-entry) (PDF entry-start p. 164); [Mercury/Zeus = Neptune](../activations/mercury-zeus-equals-neptune.md#witte-entry) (PDF entry-start p. 168); [Neptune/Zeus = Mercury](../activations/neptune-zeus-equals-mercury.md#witte-entry) (PDF entry-start p. 249).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Neptune = Zeus](../activations/mercury-neptune-equals-zeus.md#abc-entry) (printed p. 251); [Mercury/Zeus = Neptune](../activations/mercury-zeus-equals-neptune.md#abc-entry) (printed p. 259); [Neptune/Zeus = Mercury](../activations/neptune-zeus-equals-mercury.md#abc-entry) (printed p. 396).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Neptune = Zeus`: drives the axis into limitless creative ideation without follow-through.
-- `Mercury/Zeus = Neptune`: Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
-- `Neptune/Zeus = Mercury`: The mind moves quickly toward unusual or covert ideas, favoring spontaneous schemes, secret planning, or thought centered on concealed means.
+Mercury, Neptune and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Mercury/Zeus](../axes/mercury-zeus.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)

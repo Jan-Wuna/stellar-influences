@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `U/¤ = g`
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Mars Node Kronos](../triads/mars-node-kronos.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -44,11 +45,27 @@ Connected with independently acting persons. To get into touch with authorities.
 
 Special actions in a connection, relations with the state want, self standing work contacts, state contact work, connections to the hierarchy want, priority contact actions, and important activities combine
 
+## Comparative Schema
+
+- core meaning: Connections with independent people, authorities and government assistance.
+- psychology: ABC describes wanting contact with the state or a hierarchy; no broader psychological profile is provided.
+- body/health: No bodily or medical implication is stated.
+- social/relationship: Independent work contacts, institutional connections and contact with authorities are central.
+- events/manifestations: Government help, state contact work and linking important activities are explicit examples.
+- conflicts/notes: Contact and desired connection do not establish influence over an authority or guarantee that assistance is granted.
+
+## Contradictions
+
+The entries share institutional and independent contacts. Desire for a connection, contact itself and receipt of help are distinct stages in the wording.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Node` socializes the axis through contact with independent people, officials, and institutional support.
-- Chart expression: ties with authorities, alliances with self-directing or powerful people, and practical use of government help or sanctioned assistance.
+Node specifies the Mars/Kronos axis through contacts and connections in independent or official activity. [Witte](#witte-entry) names independent people, authorities and the use of government help; [ABC](#abc-entry) adds work contacts, a wish for hierarchical connections and the linking of important activities.
+
+The emphasis is on access and association. It does not establish that a contact brings power over the institution or that desired support will necessarily be available.
+
+Evidence: [ABC](#abc-entry), printed p. 314, PDF p. 156; [Witte](#witte-entry), PDF p. 200 (entry start).
 
 ## Links
 

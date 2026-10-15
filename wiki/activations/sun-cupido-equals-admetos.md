@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Cupido = Admetos`
 - Astronomicon formula: `S/¡ = ¦`
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: 111.
+
 #### Witte Entry
 
 The unmarried man. Bachelor. Hermit. Monk.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page: 159 (printed); PDF page: 78.
+
 #### ABC Entry
 
 depressed human community, constriction of a community of persons, consolidation of a community of persons, thorough community of persons, personal restrictions in the community, and day of the suppression of a community
 
+## Comparative Schema
+
+- Core meaning: Restriction or consolidation of membership.
+- Psychology: Depressed group life and personal restriction.
+- Body/health: No specific bodily condition is described.
+- Social/relationship: Celibate or solitary lives; membership under constraint.
+- Events/manifestations: Withdrawal, monastic life or a community being consolidated or suppressed.
+- Conflicts/notes: Solitude and strengthened group boundaries are different manifestations.
+
+## Contradictions
+
+Witte describes solitary social roles; ABC also includes consolidation within a group.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Admetos`: the unmarried man and bachelor.
-- Practical expression: depressed human community, constriction of a community of persons, consolidation of a community of persons, thorough community of persons, and personal restrictions in the community.
+Admetos specifies the Sun/Cupido axis through restricted membership: a person may stand outside marriage or ordinary community life, or belong to a group whose boundaries have tightened. Bachelorhood, the hermit and the monk give this withdrawal concrete forms; the ABC entry also allows consolidation within a community, alongside depression and suppression. These are related forms of narrowed participation, rather than a claim that every stable group is unhappy. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

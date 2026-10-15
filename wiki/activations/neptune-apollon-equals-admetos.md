@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Admetos`
 - Astronomicon formula: `Y/¥ = ¦`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 The market is down. Bankruptcies, breakdowns, economic dissolutions. Dying economies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `401`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Successful deepening in metaphysics, staggered amounts of water, profound knowledge of the future, restricted air, insecurity through restriction of freedom, increased uncertainty and depression, and resistance to the spread of metaphysics
+Successful deepening in metaphysics, dammed quantities of water, thorough knowledge of the future, increased restriction of air, insecurity through restriction of freedom, increased uncertainty and depression, and resistance to the spread of metaphysics
+
+## Comparative Schema
+
+- core meaning: economic contraction in Witte, with restriction and increased uncertainty among ABC's examples.
+- psychology: uncertainty and depression are ABC's attributed terms.
+- body/health: depression remains a historical association; air restriction is a separate physical setting.
+- social/relationship: bankruptcies and economic breakdowns are Witte's explicit collective examples.
+- events/manifestations: dammed water, restrictions on freedom, and successful metaphysical deepening are listed.
+- conflicts/notes: Witte's economic decline is not made the cause of every ABC example; future knowledge remains a source claim.
+
+## Contradictions
+
+Witte's market decline differs from ABC's successful metaphysical deepening. The entries retain these different evaluations instead of reducing all success or restriction to economic collapse.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Admetos`: The market is down. Bankruptcies, breakdowns, economic dissolutions. Dying economies.
-- Practical focus: constricts `Neptune/Apollon` into market collapse, economic breakdown, and large systems entering shrinkage or death. It turns broad deception or diffusion into hard material contraction, where the collective field closes down under failure.
-- Practical expression: successful deepening in metaphysics, staggered amounts of water, profound knowledge of the future, restricted air, and insecurity through restriction of freedom.
+In Neptune/Apollon = Admetos, Admetos specifies the pair through economic contraction and restricted scope. The [Witte entry](#witte-entry) names a falling market, bankruptcies, and economic breakdown; [ABC](#abc-entry) adds restricted freedom, increased uncertainty, dammed water, and restricted air (printed p. 401, PDF p. 199). ABC also retains successful metaphysical deepening and knowledge of the future as source claims. These separate examples do not make every restriction an economic collapse or validate the claimed future knowledge.
 
 ## Links
 

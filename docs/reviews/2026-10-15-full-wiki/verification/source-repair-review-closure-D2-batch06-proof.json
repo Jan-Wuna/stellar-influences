@@ -1,0 +1,451 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+      "before_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+      "current_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "6b3008255b74e8c3256f2a3ef86d925b4780d7e6a5f1868d18f16fd1ae08e4ea",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGeneral harmonious development.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nJoy development in the public, harmonious development in the public, artificial development in the public life, growing peace in the public, growing preference for the public, and transformation to the public peace",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGeneral harmonious development.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `31`, one-based PDF p. `14`, complete Pluto row.\n\nGerman passage transcribed from the scan:\n\n> Freude-Entfaltung in der Öffentlichkeit, harmonische Entwicklung in der Öffentlichkeit, Kunst-Entwicklung im öffentlichen Leben, wachsender Friede in der Öffentlichkeit, wachsende Vorliebe für die Öffentlichkeit, Wandlung zum öffentlichen Frieden\n\nEditorial translation: Unfolding of joy in public; harmonious development in public; development of art in public life; growing peace in public; growing preference for public life; change toward public peace.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Mechanical bullets repeated the source, dropped the initial J in joy, and repeated artificial development without checking the German."
+        ],
+        "changes": [
+          "Added Identity interpretation link, six substantive categories and bounded contradiction note; connected Pluto with development of public harmony, joy, peace and art.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Read the complete page and manifest record; inspected actual seven-page Git diff against local passages.",
+          "Compared source block and frontmatter with before snapshot: unchanged; synthesis anchor is adjacent.",
+          "Inspected Udo PDF14 scan and Pluto glyph, printed31: Kunst-Entwicklung means development of art.",
+          "Personally viewed actual ABC PDF14 whole own glyph row and neighbours, printed31; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry, Witte PDF41 entry-start",
+          "#abc-entry, Udo printed31/PDF14, native/cached evidence and inspected scan",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png: complete pluto row, printed31/PDF14."
+        ],
+        "resolved_source_issues": [
+          "ABC Entry still retains the artificial development mistranslation; scan clarification is explicit in editorial sections."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "pluto",
+          "complete_clause_count": 6,
+          "german_passage": "Freude-Entfaltung in der Öffentlichkeit, harmonische Entwicklung in der Öffentlichkeit, Kunst-Entwicklung im öffentlichen Leben, wachsender Friede in der Öffentlichkeit, wachsende Vorliebe für die Öffentlichkeit, Wandlung zum öffentlichen Frieden",
+          "editorial_translation": "Unfolding of joy in public; harmonious development in public; development of art in public life; growing peace in public; growing preference for public life; change toward public peace.",
+          "before_source_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+          "after_source_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "ledger_line": 1,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-venus-equals-pluto.md",
+            "text": "ABC Entry still retains the artificial development mistranslation; scan clarification is explicit in editorial sections.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-pluto.md",
+            "text": "Vernal Point/Venus = Pluto distinguishes the scan's artistic-development wording from the retained artificial-development translation; follow its entry qualification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-pluto.md",
+            "text": "Vernal Point/Venus = Pluto distinguishes the scan's artistic-development wording from the retained artificial-development translation; follow its entry qualification.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+        "source_after_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+        "page_sha256": "d1b957e2234e256d06bdfe334f3f283872b415768457051e5f117c110e20b177",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "pluto",
+          "complete_clause_count": 6,
+          "german_passage": "Freude-Entfaltung in der Öffentlichkeit, harmonische Entwicklung in der Öffentlichkeit, Kunst-Entwicklung im öffentlichen Leben, wachsender Friede in der Öffentlichkeit, wachsende Vorliebe für die Öffentlichkeit, Wandlung zum öffentlichen Frieden",
+          "editorial_translation": "Unfolding of joy in public; harmonious development in public; development of art in public life; growing peace in public; growing preference for public life; change toward public peace.",
+          "before_source_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+          "after_source_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete pluto glyph row and adjacent boundaries, ABC printed31/PDF14 (6 clauses). All German, labeled English and exact reference verified; Kunst-Entwicklung is development of art.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+      "before_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+      "current_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "09a52e5145088d6fc235e64b4ff28c13cedce04968fe4f922cc7f270665c0042",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe end of mating time. Love’s parting.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nJoy in the public in old age, peace tasks in public, peace burdens in public, local public harmony, local beauty of the world, public peace cancellations, and preference for public surrenders",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe end of mating time. Love’s parting.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `31`, one-based PDF p. `14`, complete Saturn row.\n\nGerman passage transcribed from the scan:\n\n> Freude in der Öffentlichkeit im Alter, Friedens-Aufgaben in der Öffentlichkeit, Friedens-Belastungen in der Öffentlichkeit, gestörte öffentliche Harmonie, gestörte Schönheit der Welt, öffentliche Friedens-Störungen, Vorliebe für öffentliche Aufgaben\n\nEditorial translation: Joy in public in old age; peace tasks in public; peace burdens in public; disturbed public harmony; disturbed beauty of the world; public disturbances of peace; preference for public tasks.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Summary lost J in joy and confidently repeated local harmony and public surrenders, which reverse or distort the German."
+        ],
+        "changes": [
+          "Connected Saturn with burdens, interruption, peace work and parting; retained joy in old age and distinguished public from private settings; added six categories and precise translation note.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page/manifest read and actual Git diff examined.",
+          "Source text and frontmatter equal before; adjacent anchor confirmed.",
+          "Inspected Saturn glyph on Udo PDF14/printed31: gestörte harmony/beauty and öffentliche Aufgaben confirmed.",
+          "Personally viewed actual ABC PDF14 whole own glyph row and neighbours, printed31; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry, Witte PDF41 entry-start",
+          "#abc-entry, Udo printed31/PDF14, native/cached record and inspected scan",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png: complete saturn row, printed31/PDF14."
+        ],
+        "resolved_source_issues": [
+          "Retained ABC Entry still says local public harmony, local beauty, public peace cancellations and public surrenders; corrected meanings are bounded in editorial sections."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "saturn",
+          "complete_clause_count": 7,
+          "german_passage": "Freude in der Öffentlichkeit im Alter, Friedens-Aufgaben in der Öffentlichkeit, Friedens-Belastungen in der Öffentlichkeit, gestörte öffentliche Harmonie, gestörte Schönheit der Welt, öffentliche Friedens-Störungen, Vorliebe für öffentliche Aufgaben",
+          "editorial_translation": "Joy in public in old age; peace tasks in public; peace burdens in public; disturbed public harmony; disturbed beauty of the world; public disturbances of peace; preference for public tasks.",
+          "before_source_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+          "after_source_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "ledger_line": 3,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-venus-equals-saturn.md",
+            "text": "Retained ABC Entry still says local public harmony, local beauty, public peace cancellations and public surrenders; corrected meanings are bounded in editorial sections.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-saturn.md",
+            "text": "Vernal Point/Venus = Saturn distinguishes scanned ABC disturbance/task wording from retained local/surrender translation problems. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-venus-saturn.md",
+            "text": "Vernal Point/Venus = Saturn distinguishes scanned ABC disturbance/task wording from retained local/surrender translation problems.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+        "source_after_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+        "page_sha256": "56dcb58326a051639bfa23a063815e3040da3d87c49ad35f1474561e3f693b8e",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "saturn",
+          "complete_clause_count": 7,
+          "german_passage": "Freude in der Öffentlichkeit im Alter, Friedens-Aufgaben in der Öffentlichkeit, Friedens-Belastungen in der Öffentlichkeit, gestörte öffentliche Harmonie, gestörte Schönheit der Welt, öffentliche Friedens-Störungen, Vorliebe für öffentliche Aufgaben",
+          "editorial_translation": "Joy in public in old age; peace tasks in public; peace burdens in public; disturbed public harmony; disturbed beauty of the world; public disturbances of peace; preference for public tasks.",
+          "before_source_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+          "after_source_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete saturn glyph row and adjacent boundaries, ABC printed31/PDF14 (7 clauses). All German, labeled English and exact reference verified; gestörte harmony/beauty and Friedens-Störungen are disturbances; Aufgaben remains tasks.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+      "before_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+      "current_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "609e8bf1307bfb2f1b6b30d1ad70ceb06aecb5158def1abd35c66735e8af506a",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSudden frenzy of love. Sudden events for female persons.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPleasure about public reforms, peace--ercignis in public, harmonious impulses in public life, public art, and preference for public technology",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSudden frenzy of love. Sudden events for female persons.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `31`, one-based PDF p. `14`, complete Uranus row.\n\nGerman passage transcribed from the scan:\n\n> Freude über öffentliche Reformen, Friedens-Ereignis in der Öffentlichkeit, harmonische Impulse im öffentlichen Leben, neue Kunst in der Öffentlichkeit, öffentliche Friedens-Reform, öffentliches Kunst-Ereignis, Vorliebe für öffentliche Technik\n\nEditorial translation: Joy over public reforms; a peace event in public; harmonious impulses in public life; new art in public; public peace reform; a public art event; preference for public technology.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Summary repeated peace--ercignis damage without explanation and presented female-person events without an attribution limit."
+        ],
+        "changes": [
+          "Explained Uranus through sudden love and public change/reform; clarified peace event from inspected German and retained gendered source scope; added six categories.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Read full page and manifest; inspected actual Git diff and source-specific support.",
+          "Source block/frontmatter unchanged and anchor immediately precedes synthesis heading.",
+          "Udo PDF14 scan, Uranus glyph and printed31 Friedens-Ereignis/new art/reform passage inspected.",
+          "Personally viewed actual ABC PDF14 whole own glyph row and neighbours, printed31; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry, Witte PDF41 entry-start",
+          "#abc-entry, Udo printed31/PDF14, native/cached evidence and inspected scan",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png: complete uranus row, printed31/PDF14."
+        ],
+        "resolved_source_issues": [
+          "ABC Entry retains peace--ercignis and compressed public-art content; scan-supported meanings are identified in editorial prose."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "uranus",
+          "complete_clause_count": 7,
+          "german_passage": "Freude über öffentliche Reformen, Friedens-Ereignis in der Öffentlichkeit, harmonische Impulse im öffentlichen Leben, neue Kunst in der Öffentlichkeit, öffentliche Friedens-Reform, öffentliches Kunst-Ereignis, Vorliebe für öffentliche Technik",
+          "editorial_translation": "Joy over public reforms; a peace event in public; harmonious impulses in public life; new art in public; public peace reform; a public art event; preference for public technology.",
+          "before_source_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+          "after_source_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "ledger_line": 5,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-venus-equals-uranus.md",
+            "text": "ABC Entry retains peace--ercignis and compressed public-art content; scan-supported meanings are identified in editorial prose.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+        "source_after_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+        "page_sha256": "e86265d62a56346106292ca297bc7e678196d5c8fe5cb4bc32f35aaf2cd4b4b0",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "uranus",
+          "complete_clause_count": 7,
+          "german_passage": "Freude über öffentliche Reformen, Friedens-Ereignis in der Öffentlichkeit, harmonische Impulse im öffentlichen Leben, neue Kunst in der Öffentlichkeit, öffentliche Friedens-Reform, öffentliches Kunst-Ereignis, Vorliebe für öffentliche Technik",
+          "editorial_translation": "Joy over public reforms; a peace event in public; harmonious impulses in public life; new art in public; public peace reform; a public art event; preference for public technology.",
+          "before_source_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+          "after_source_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete uranus glyph row and adjacent boundaries, ABC printed31/PDF14 (7 clauses). All German, labeled English and exact reference verified; peace reform and the public art event are recovered as separate clauses.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "before_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+      "current_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "c3c72030e74ff5f316586f51136624aa9012ec00718c73d2150b68400ba54a45",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGeneral procreative frenzy. Fortunate sowing time. The good sower.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPeace Efforts in the Public, Meeting Pleasure in the Public Life, art in the Public, Public Peace Fire, Beauty of Schopfung in the Public Life, and Preference for Public Purposes",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGeneral procreative frenzy. Fortunate sowing time. The good sower.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `31`, one-based PDF p. `14`, complete Zeus row.\n\nGerman passage transcribed from the scan:\n\n> Friedens-Anstrengungen in der Öffentlichkeit, Führungs-Freude im öffentlichen Leben, Kunst-Leistungen in der Öffentlichkeit, öffentliches Friedens-Feuer, Schönheit der Schöpfung im öffentlichen Leben, Vorliebe für öffentliche Ziele\n\nEditorial translation: Peace efforts in public; enjoyment of leadership in public life; artistic achievements in public; a public peace fire; beauty of creation in public life; preference for public goals.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Summary repeated Meeting Pleasure and untranslated Schopfung, obscuring leadership, art achievement and creation."
+        ],
+        "changes": [
+          "Explained Zeus through directed peace/art/creative effort while retaining separate procreation/sowing examples; added six categories and exact scan clarification.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page/manifest read; actual Git diff reviewed against both entries.",
+          "Source block/frontmatter unchanged and adjacent anchor confirmed.",
+          "Udo PDF14 scan, Zeus glyph, printed31 Führungs-Freude, Kunst-Leistungen and Schöpfung inspected.",
+          "Personally viewed actual ABC PDF14 whole own glyph row and neighbours, printed31; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [
+          "ABC's öffentliches Friedens-Feuer names a public peace fire without explaining its form or mechanism."
+        ],
+        "evidence": [
+          "#witte-entry, Witte PDF41 entry-start",
+          "#abc-entry, Udo printed31/PDF14, native/cached record and inspected scan",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png: complete zeus row, printed31/PDF14."
+        ],
+        "resolved_source_issues": [
+          "ABC Entry retains Meeting Pleasure, abbreviated art and Schopfung; German meanings are clarified in editorial prose without rewriting source text."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Friedens-Anstrengungen in der Öffentlichkeit, Führungs-Freude im öffentlichen Leben, Kunst-Leistungen in der Öffentlichkeit, öffentliches Friedens-Feuer, Schönheit der Schöpfung im öffentlichen Leben, Vorliebe für öffentliche Ziele",
+          "editorial_translation": "Peace efforts in public; enjoyment of leadership in public life; artistic achievements in public; a public peace fire; beauty of creation in public life; preference for public goals.",
+          "before_source_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+          "after_source_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "ledger_line": 7,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "scan_verified_source_repair",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-venus-equals-zeus.md",
+            "text": "ABC Entry retains Meeting Pleasure, abbreviated art and Schopfung; German meanings are clarified in editorial prose without rewriting source text.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_before_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+        "source_after_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+        "page_sha256": "114aa360deb5f49a4e1523c33fdf7a3ac65df8d999ae802776843704c53abc3b",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 31,
+          "pdf_page_one_based": 14,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Friedens-Anstrengungen in der Öffentlichkeit, Führungs-Freude im öffentlichen Leben, Kunst-Leistungen in der Öffentlichkeit, öffentliches Friedens-Feuer, Schönheit der Schöpfung im öffentlichen Leben, Vorliebe für öffentliche Ziele",
+          "editorial_translation": "Peace efforts in public; enjoyment of leadership in public life; artistic achievements in public; a public peace fire; beauty of creation in public life; preference for public goals.",
+          "before_source_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+          "after_source_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [
+          "ABC's öffentliches Friedens-Feuer names a public peace fire without explaining its form or mechanism."
+        ],
+        "scope": "Stable exact saved page and original amended owner record; independent D2 recheck required."
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected complete zeus glyph row and adjacent boundaries, ABC printed31/PDF14 (6 clauses). All German, labeled English and exact reference verified; Führungs-Freude is enjoyment of leadership; artistic achievements and beauty of creation are restored.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification.",
+          "Öffentliches Friedens-Feuer is a literal public peace fire; its form and mechanism are unexplained."
+        ]
+      }
+    }
+  ]
+}

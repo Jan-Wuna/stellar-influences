@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `199`
 
 #### Pair Summary
 
@@ -79,6 +83,15 @@ To heat, to fire, to burn. Shooting flames. Danger of fire. Incentive creative w
 #### ABC Pair Summary
 
 Effortful work, beginning of work, treating fire, wanting to carry out, leadership, creative activity, will performance, procreation action, and circular action
+
+## Comparative Schema
+
+- core meaning: Directed creative activity, beginning work, and setting an action in motion toward a goal ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: The urge for deeds, leadership, and the will to carry out a purpose ([pair summary](#pair-summary)).
+- body/health: Procreation is included in the source vocabulary; no disease or general bodily condition is specified ([pair summary](#pair-summary)).
+- social/relationship: Leading activity and military officers are named; the summaries do not develop an intimate relationship pattern ([pair summary](#pair-summary)).
+- events/manifestations: Engineering, machinery, handling firearms, ignition, and fires are explicit examples alongside creative work ([pair summary](#pair-summary)).
+- conflicts/notes: Purposeful work includes both constructive creation and dangerous fire. The ABC phrase `circular action` is translation-uncertain and does not establish a separate theme.
 
 ## Related Activations
 
@@ -103,11 +116,14 @@ Effortful work, beginning of work, treating fire, wanting to carry out, leadersh
 - [Mars/Zeus = Vernal Point](../activations/mars-zeus-equals-vernal-point.md)
 - [Mars/Zeus = Vulcanus](../activations/mars-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+The pair summary includes both incentive and forced creative work, as well as directed activity and danger of fire. These are distinct possibilities with different consequences. The ABC `circular action` is inconsistent with the cached OCR `ziclstrebiges Handeln`; its intended wording needs source verification.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus` is the axis of directed force, ignition, purposeful creation, engineering, and deeds carried out with controlled fire or machinery.
-- Chart expression: goal-oriented action that builds, launches, burns, or fights, often through technical work, military effort, weapons, or consequences set in motion by decisive acts.
+`Mars/Zeus` concerns action directed toward creating or setting something in motion. The urge to work, lead, and carry out a purpose connects its creative and engineering meanings: a deed initiates a process and has consequences. Fire, machinery, firearms, and rocket ignition are concrete examples in the [pair summary](#pair-summary), which also preserves the danger of fire and work performed under compulsion. This gives the axis both productive and hazardous expressions; purposeful action alone does not establish safe control. The [ABC summary](#abc-pair-summary) likewise emphasizes starting work, leadership, and creative activity.
 
 ## Links
 

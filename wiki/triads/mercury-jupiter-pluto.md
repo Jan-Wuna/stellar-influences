@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -34,20 +34,38 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md)
-- [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md)
-- [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [Jupiter/Pluto](../axes/jupiter-pluto.md) | [Mercury](../factors/mercury.md) |
+| [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md) | [Mercury/Jupiter](../axes/mercury-jupiter.md) | [Pluto](../factors/pluto.md) |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [Mercury/Pluto](../axes/mercury-pluto.md) | [Jupiter](../factors/jupiter.md) |
+
+All three possible orientations are represented by linked activation pages. The source coverage below applies separately to each formula.
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Mercury`: Michael, page `268`
-- `Mercury/Jupiter = Pluto`: Michael, page `156`
-- `Mercury/Pluto = Jupiter`: Michael, page `172`
+These rows describe the source subentries on the linked activation pages, not the scope of a source catalog. Locators are retained references, not new visual scan checks; chapter starts do not establish an exact formula page.
+
+| Orientation | Source subentry | Retained source locator |
+| --- | --- | --- |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/jupiter-pluto-equals-mercury.md#witte-entry) | PDF p. `210` (one-based; entry start); printed page not recorded. |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [Udo Rudolph](../activations/jupiter-pluto-equals-mercury.md#abc-entry) | printed p. `330`; PDF p. `164` (one-based). |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [Reinhold Ebertin](../activations/jupiter-pluto-equals-mercury.md#ebertin-entry) | printed p. `235`; entry `0821`. |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [John Sandbach](../activations/jupiter-pluto-equals-mercury.md#sandbach-entry) | PDF p. `82` (one-based; chapter start only; exact formula page not established); printed page not recorded. |
+| [Jupiter/Pluto = Mercury](../activations/jupiter-pluto-equals-mercury.md) | [Michael Munkasey](../activations/jupiter-pluto-equals-mercury.md#munkasey-entry) | printed p. `268`. |
+| [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-jupiter-equals-pluto.md#witte-entry) | PDF p. `161` (one-based; entry start); printed page not recorded. |
+| [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md) | [Udo Rudolph](../activations/mercury-jupiter-equals-pluto.md#abc-entry) | printed p. `245`; PDF p. `121` (one-based). |
+| [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md) | [John Sandbach](../activations/mercury-jupiter-equals-pluto.md#sandbach-entry) | PDF p. `44` (one-based; chapter start only; exact formula page not established); printed page not recorded. |
+| [Mercury/Jupiter = Pluto](../activations/mercury-jupiter-equals-pluto.md) | [Michael Munkasey](../activations/mercury-jupiter-equals-pluto.md#munkasey-entry) | printed p. `156`. |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-pluto-equals-jupiter.md#witte-entry) | PDF p. 165 (one-based; entry start). |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [Udo Rudolph](../activations/mercury-pluto-equals-jupiter.md#abc-entry) | printed p. 252; PDF p. 125 (one-based) (entry). |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [Reinhold Ebertin](../activations/mercury-pluto-equals-jupiter.md#ebertin-entry) | printed p. 164; entry `0535` (coded entry). |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [John Sandbach](../activations/mercury-pluto-equals-jupiter.md#sandbach-entry) | PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page. |
+| [Mercury/Pluto = Jupiter](../activations/mercury-pluto-equals-jupiter.md) | [Michael Munkasey](../activations/mercury-pluto-equals-jupiter.md#munkasey-entry) | printed p. 172 (entry page). |
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+This structural hub does not adjudicate disagreements within an activation. Different base axes and activators identify distinct formulas; differences among these orientations are not, by themselves, contradictions.
 
 ## Links
 

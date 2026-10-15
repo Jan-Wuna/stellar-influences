@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Node/Asc](../axes/node-asc.md)
 - Triad hub: [Uranus Node Asc](../triads/uranus-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,23 @@ Focusing upon sudden outbursts at meetings; interruptions at gatherings; meeting
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or stimulating encounters alter existing social connections.
+- psychology: Desire for company and openness to change; Sandbach distinguishes release from reactive rebellion.
+- body/health: No specific bodily condition is described.
+- social/relationship: New acquaintances, changes of partnership, and excitement through associates.
+- events/manifestations: Interruptions or outbursts at gatherings; technical, computing, or astrological meetings in Munkasey.
+- conflicts/notes: The sources connect sudden contact with personal change, but do not establish chronic instability.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis: sudden encounters and meetings versus Sandbach's growth through release from the past. These are compatible possibilities, not evidence that every encounter is beneficial. Sandbach's damaged possessive text is preserved below its heading; its chapter locator is not an exact formula page.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Uranus`: unconventional friendships, stimulating contact, and the ability to reinvent oneself through social change. Main caution: estrangement: identity can become erratic, reactive against closeness, or too unsettled to sustain stable belonging.
+Uranus specifies the Node/Asc connection through sudden encounters and impulses that change how one relates to others. Excitement can bring new acquaintances or redirect a partnership; at a gathering it may appear as an interruption, an outburst, or discussion of technical methods. These concrete forms are supported by the [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), and [Munkasey entries](#munkasey-entry).
+
+The [Sandbach entry](#sandbach-entry) adds a distinction between allowing personal growth and rebelling against the past in a way that keeps one attached to it. This qualifies the sudden-change theme without supporting a general claim that the person cannot sustain closeness.
 
 ## Links
 

@@ -33,29 +33,40 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Asc](../triads/venus-saturn-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 To hinder the inclinations of others. To quit others. To be forsaken.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `274`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-serious art at the place, serious love partncr, peace problems in the environment, patient Licbcs partner, gcstortcr peace problcme with the partner, place for problematic art, rcifcndc partner love, and gentle old environment
+Serious art at the place, a serious partner in love, peace problems in the environment, a patient partner in love, disturbed peace at the place, problems in love with the partner, a place for problematic art, maturing love between partners, and beautiful old surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 183; entry code: 0612.
 
 Emotional inhibitions, shyness in the presence of other people. The desire for solitude or for separation from others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 58 (one-based; exact activator paragraph and adjacent boundary visually checked).
 
 Difficulty in loving oneself. To feel that one is not a lovable person. A need to appreciate one’s own depth. One finds superficiality highly unfulfilling. The need to spiritually relate to everyone and everything.
 
@@ -70,22 +81,21 @@ Concentrating on using charm and manners in social situations where decorum and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious or inhibited relating, with attention to depth and social form.
+- psychology: Shyness, difficulty loving oneself, desire for solitude, and dissatisfaction with superficiality.
+- body/health: No bodily diagnosis is supplied.
+- social/relationship: Leaving or being forsaken; serious partnership and consideration of pleasure's impact on others.
+- events/manifestations: Formal social situations and sterile beauty in the surroundings.
+- conflicts/notes: Decorum differs from inner ease; ABC's place, partner, and art examples do not establish emotional ease.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's charm and decorum concern social conduct, while Ebertin and Sandbach describe inhibition or self-worth. These can coexist; polished manners do not establish emotional ease.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Asc`: composed charm, reliable manners, and a serious approach to love, money, and presentation. Main caution: the native can appear cold, unavailable, or too defended to receive affection easily.
+In `Venus/Saturn = Asc`, Asc specifies the pair in encounters with others and the immediate surroundings. The [Witte entry](#witte-entry) names leaving and being forsaken, while [Ebertin](#ebertin-entry) describes shyness and a wish for solitude. [Sandbach](#sandbach-entry) adds difficulty feeling lovable and a need for depth. [Munkasey's formal manners](#munkasey-entry) offer a different expression: careful consideration of others and social decorum, which need not resolve the inward inhibition. The clear [ABC partner clauses](#abc-entry) retain seriousness and patience.
 
 ## Links
 

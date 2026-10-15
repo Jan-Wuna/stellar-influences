@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Zeus Vulcanus](../triads/venus-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Passionate love desire. Powerful will to procreate.
 
@@ -42,13 +46,27 @@ Passionate love desire. Powerful will to procreate.
 
 #### ABC Entry
 
+- Source page: 287; PDF page: 142 (one-based spread).
+
 Influential art direction, fiery power of love, tremendous efforts for peace, creative art influence, generating love energy, powerful artistic achievement, creative power of love, and preference for fire power
+
+## Comparative Schema
+
+- core meaning: Powerful passionate desire and forceful creative effort.
+- psychology: A strong will to procreate and preference for powerful achievement.
+- body/health: The procreative will is historical source doctrine, not a statement of biological ability.
+- social/relationship: Fiery power of love.
+- events/manifestations: Influential artistic direction, powerful artistic work, and major peace efforts.
+- conflicts/notes: Fire power is source terminology; no specific weapon or violent act is established.
+
+## Contradictions
+
+Passion and peace efforts are different applications of strength. Neither establishes how influence is used in every instance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Vulcanus`: passionate love desire.
-- Practical expression: influential art direction, fiery power of love, tremendous efforts for peace, creative art influence, and generating love energy.
+In `Venus/Zeus = Vulcanus`, Vulcanus specifies the pair through the strength of desire and creative effort. The [Witte entry](#witte-entry) names passionate love desire and a powerful procreative will. The [ABC entry](#abc-entry) extends that intensity into influential artistic direction, powerful achievement, and major efforts for peace. These connect strong motivation with directed creation without equating will with biological capacity or specifying a particular act of force.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Venus Neptune](../triads/vernal-point-venus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Disappointments in love. Unfavorable time for mating.
 
@@ -42,13 +46,27 @@ Disappointments in love. Unfavorable time for mating.
 
 #### ABC Entry
 
-Interchangeable arts in public. Harmony and fine tuning in public Life, love exchange in public Life, public Joy in the water, insecure peace in public, and preference for public Water
+- Source page: 40; PDF page: 19 (one-based spread).
+
+Disappointing art in public, harmony and fine sensitivity in public life, disappointment in love in public life, public joy in water, insecure public peace, and a preference for public water
+
+## Comparative Schema
+
+- core meaning: Public uncertainty involving love, art, harmony, and peace.
+- psychology: Love disappointment, fine sensitivity, and joy in water are explicit.
+- body/health: Witte names an unfavorable time for mating without clinical detail.
+- social/relationship: Uncertain peace and disappointment in affection.
+- events/manifestations: Disappointing art and enjoyment of public water.
+- conflicts/notes: Disappointment replaces interchange or exchange; no timing method is inferred.
+
+## Contradictions
+
+Harmony and enjoyment coexist with insecure peace and disappointment. The sources retain favorable sensitivity alongside unfulfilled affection or art.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Venus`: disappointments in love and unfavorable time for mating.
-- Practical expression: interchangeable arts in public. Harmony, fine tuning in public Life, love exchange in public Life, public Joy in the water, and insecure peace in public.
+In `Vernal Point/Neptune = Venus`, public uncertainty is experienced through affection, aesthetic response, and peace. The [Witte entry](#witte-entry) emphasizes disappointment in love and unfavorable mating conditions. The restored [ABC entry](#abc-entry) adds disappointing art and insecure peace, while retaining harmony, fine sensitivity, and joy in water. The reading holds subtle enjoyment beside the possibility of unfulfilled or unstable harmony.
 
 ## Links
 

@@ -18,7 +18,7 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 - Astronomicon formula: `V/MC = MC`
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +43,23 @@ The reputation you develop by your ability to explain life’s processes and imp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Recognition develops through explaining life, professional proficiency and stated principles.
+- psychology: Attention to the implications of one's aspirations and conduct.
+- body/health: No bodily or medical claim is made.
+- social/relationship: Others recognize one's explanatory ability or work.
+- events/manifestations: Reputation and recognition arising from activities, principles and aspirations.
+- conflicts/notes: This repeated-factor orientation has one Munkasey entry and is distinct from Jupiter/MC = Jupiter.
 
 ## Contradictions
 
-- None recorded yet.
+Only one Munkasey paragraph is present; it supplies no cross-source comparison.
+
+Source locators in the review cache: Munkasey printed p. 282. These parser-derived locators have not been visually verified in this review.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = MC`: The reputation one develop by one's ability to explain life’s processes and implications to others; receiving recognition for proficiency in one's work or for principles one set; the consequences of various activities and aspirations.
+In `Jupiter/MC = MC`, repeated MC specifies success through the reputation one's work, principles and explanations create. The [Munkasey entry](#munkasey-entry), supplied p. 282, connects recognition with proficiency and with helping others understand life's processes. It also includes the consequences of activities and aspirations, so the emphasis is on how a chosen role becomes known and evaluated.
 
 ## Links
 

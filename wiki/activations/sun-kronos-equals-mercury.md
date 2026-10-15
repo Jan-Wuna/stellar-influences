@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Mercury Kronos](../triads/sun-mercury-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Independent thinking. To be fit for intellectual leadership. Chief.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Mercury entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Authority of a young man, special thoughts of a man, dominance of young people, young state man, self wound young people, leaders of the media, speech of a state man, and important day news
+Authority of a young man, a man's special thoughts, dominance of young people, a young statesman, self-confident young people, leaders in the media, a statesman's speech, and important daily news.
+
+Source locator: printed p. 164, PDF p. 81, Sun/Kronos, Mercury entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Independent thought and intellectual or communicative leadership.
+- psychology: Self-confidence and distinctive thought are explicit source themes.
+- body/health: No bodily condition or self-injury claim is supplied by these entries.
+- social/relationship: A chief, young authority figures and leaders in the media.
+- events/manifestations: A statesman's speech and important daily news.
+- conflicts/notes: Intellectual leadership is a capacity or role; the entries do not establish universal mental superiority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Mercury`: the independent thinker and a superior mind.
-- Practical expression: authority of a young man, special thoughts of a man, dominance of young people, young state man, and self wound young people.
+`Sun/Kronos = Mercury` gives authority an intellectual or communicative expression. [Witte](#witte-entry) connects independent thinking with fitness for intellectual leadership; [ABC](#abc-entry) adds distinctive thoughts, self-confident young people, media leaders and a statesman's speech. These passages join the capacity to think independently with roles in directing or informing others. The young-authority and news examples remain particular settings, rather than proof of a universally superior mind.
 
 ## Links
 

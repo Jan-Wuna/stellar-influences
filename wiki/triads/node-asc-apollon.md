@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Asc Apollon`
 - Astronomicon triad-set: `g Asc ¥`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Apollon = Node](../activations/asc-apollon-equals-node.md)
-- [Node/Apollon = Asc](../activations/node-apollon-equals-asc.md)
-- [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md)
+- [Asc/Apollon = Node](../activations/asc-apollon-equals-node.md): base axis [Asc/Apollon](../axes/asc-apollon.md); activator [Node](../factors/node.md).
+- [Node/Apollon = Asc](../activations/node-apollon-equals-asc.md): base axis [Node/Apollon](../axes/node-apollon.md); activator [Asc](../factors/asc.md).
+- [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md): base axis [Node/Asc](../axes/node-asc.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Asc/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `130`
-- `Node/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
-- `Node/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `232`
-- `Node/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `105`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Apollon = Node](../activations/asc-apollon-equals-node.md#witte-entry) (PDF entry-start p. 95); [Node/Apollon = Asc](../activations/node-apollon-equals-asc.md#witte-entry) (PDF entry-start p. 153); [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md#witte-entry) (PDF entry-start p. 82).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Apollon = Node](../activations/asc-apollon-equals-node.md#abc-entry) (printed p. 130); [Node/Apollon = Asc](../activations/node-apollon-equals-asc.md#abc-entry) (printed p. 232); [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md#abc-entry) (printed p. 105).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Node`: making customer connections, building many ties, and serving as a visible intermediary or representative.
-- `Node/Apollon = Asc`: Union of free and equal people. Economic or scientific connections with others. Success due to personal freedom. To evolve unhindered. Connected with business people, scientists or many persons, promotion through these. Free people among each other.
-- `Node/Asc = Apollon`: Relations with business people and trades people in the near environment. General business connections or relations, also acquaintances with scientists and customers. Expanded limits of the immediate environment.
+Node, Asc and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Apollon](../axes/asc-apollon.md)
+- [Node/Apollon](../axes/node-apollon.md)
+- [Node/Asc](../axes/node-asc.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)

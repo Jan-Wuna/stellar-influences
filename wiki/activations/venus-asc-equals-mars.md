@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Mars Asc](../triads/venus-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 To be the object of desire.
 
@@ -45,17 +49,23 @@ To be the object of desire.
 
 #### ABC Entry
 
-Work in a gentle place, harmonious partner work, harmonious work with other, artistic work with others, artistic environmental work, love acts with the partner, creative pleasure for the environment, and preference for peace work
+- Source page: 108 (printed); PDF page: 53; scanned activator row checked.
+
+Work in a beautiful place, harmonious partner work, harmonious work with other, artistic work with others, artistic environmental work, love acts with the partner, creative pleasure for the environment, and preference for peace work
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 196 (printed), entry `0666`.
 
 Awareness of one's personal charms, ability to utilize one's charms to advantage. An impulsive attachment, the desire for love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 To assert oneself in a smooth, non-confrontative manner that takes into account the needs of others. To take the initiative to share with others.
 
@@ -70,22 +80,23 @@ Energy to use ideas about charm, style, and beauty in your life; becoming more a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Affection becomes active initiative, attraction or shared work.
+- **psychology:** Ebertin names awareness and use of personal charm.
+- **body/health:** Munkasey discusses sexual responsiveness, not a medical condition.
+- **social/relationship:** Witte names being desired; Sandbach adds considerate assertion and sharing.
+- **events/manifestations:** ABC lists harmonious partner work and artistic work with others.
+- **conflicts/notes:** Sandbach's smooth assertion and Munkasey's rougher facade are distinct expressions.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's smooth assertion and Munkasey's rougher facade are distinct expressions. The scanned ABC row adds working in a beautiful place, rather than a “gentle” place.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Mars`: seductive confidence, artistic drive, and the courage to make connection tangible instead of merely pleasant. Main caution: friction in charm: attraction can become provocative, impatient, or too competitive for easy harmony.
+In `Venus/Asc = Mars`, Mars specifies the Venus/Asc axis through the active use of charm and the initiative to connect. [Ebertin](#ebertin-entry) names awareness of personal attractiveness and desire for love; [Sandbach](#sandbach-entry) turns initiative toward considerate assertion and sharing. [ABC](#abc-entry) supplies shared artistic or harmonious work, while [Munkasey](#munkasey-entry) also allows sexual responsiveness and a rougher exterior. Attraction can be enacted cooperatively or expressed with a harder edge; the entry does not make impatience or competitiveness inevitable.
 
 ## Links
 

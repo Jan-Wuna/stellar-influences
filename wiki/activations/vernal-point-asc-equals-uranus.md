@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Uranus`
 - Astronomicon formula: `VP/Asc = X`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ Sudden event with several people. Manufacturing plants. Time passes quickly.
 
 Public event Environment, new public partners, nervous public partners Life, public environment reforms, tension in the public environment, technology in a public place, and unrest in a public place
 
+## Comparative Schema
+
+- Core meaning: Sudden events or changes in public surroundings.
+- Psychology: Nervousness, tension, and a sense that time passes quickly.
+- Body/health: Nervous partners are described without a medical diagnosis.
+- Social/relationship: Several people share an event; new public partners appear.
+- Events/manifestations: Manufacturing plants, public technology, reforms, and unrest.
+- Conflicts/notes: Industrial settings and tense contacts are separate examples, not a necessary causal chain.
+
+## Contradictions
+
+No direct conflict appears; suddenness, technology, and reform need not occur together in every expression.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Uranus`: sudden event with several people, manufacturing plants, and time passes quickly.
-- Practical expression: public event Environment, new public partners, nervous public partners Life, public environment reforms, and tension in the public environment.
+Uranus specifies `Vernal Point/Asc` through a public environment stirred by sudden events, new contacts, reform, or unrest. The entries also place the formula in manufacturing and technological settings, while nervousness and rapidly passing time describe possible experiences there. These examples do not establish that every new contact is disruptive. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 21 / PDF p. 9.)
 
 ## Links
 

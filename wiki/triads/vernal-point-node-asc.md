@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Node Asc`
 - Astronomicon triad-set: `VP g Asc`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Node/Asc = Vernal Point](../activations/node-asc-equals-vernal-point.md)
-- [Vernal Point/Asc = Node](../activations/vernal-point-asc-equals-node.md)
-- [Vernal Point/Node = Asc](../activations/vernal-point-node-equals-asc.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Node/Asc](../axes/node-asc.md) | Vernal Point | [Node/Asc = Vernal Point](../activations/node-asc-equals-vernal-point.md) |
+| [Vernal Point/Asc](../axes/vernal-point-asc.md) | Node | [Vernal Point/Asc = Node](../activations/vernal-point-asc-equals-node.md) |
+| [Vernal Point/Node](../axes/vernal-point-node.md) | Asc | [Vernal Point/Node = Asc](../activations/vernal-point-node-equals-asc.md) |
 
 ## Source Coverage
 
-- `Node/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `104`
-- `Vernal Point/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, page `20`
-- `Vernal Point/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `26`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Node/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `82`
+- `Node/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `104`
+- `Vernal Point/Asc = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `36`
+- `Vernal Point/Asc = Node`: Udo Rudolph - ABC for Planetary Pictures, printed page `20`
+- `Vernal Point/Node = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `39`
+- `Vernal Point/Node = Asc`: Udo Rudolph - ABC for Planetary Pictures, printed page `26`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Asc = Vernal Point`: Acquaintances and connections with many in public life.
-- `Vernal Point/Asc = Node`: This formula emphasizes acquaintances and connections with many people in many locations and countries.
-- `Vernal Point/Node = Asc`: This formula emphasizes acquaintance with many people.
+The set links [Node/Asc = Vernal Point](../activations/node-asc-equals-vernal-point.md), [Vernal Point/Asc = Node](../activations/vernal-point-asc-equals-node.md), and [Vernal Point/Node = Asc](../activations/vernal-point-node-equals-asc.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

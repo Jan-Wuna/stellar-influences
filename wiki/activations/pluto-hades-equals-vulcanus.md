@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Hades](../axes/pluto-hades.md)
 - Triad hub: [Pluto Hades Vulcanus](../triads/pluto-hades-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 258 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ A misfortune rarely comes along. Everything goes wrong. Going down at a rapid pa
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 411; PDF page 204.
+
 #### ABC Entry
 
-Influenced developments from the past, difficult change of power, dangerous development of power, huge changes under deprivation, adverse powerChanges, and growing criminal influence
+Influential developments from the past, a difficult change of power, dangerous development of power, enormous changes under privations, adverse changes of power, growing criminal influence.
+
+## Comparative Schema
+
+- core meaning: Rapid or forceful worsening of conditions.
+- psychology: No specific inner psychological state is established.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Dangerous power development and growing criminal influence in ABC.
+- events/manifestations: Compounding misfortune, deprivation, or difficult changes of power.
+- conflicts/notes: Witte genuinely prints 'rarely comes along'; its intended idiom is unclear, while the adjacent worsening statements are explicit.
+
+## Contradictions
+
+Witte emphasizes speed and magnitude; ABC emphasizes power and influence. Neither makes every change of power criminal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Hades = Vulcanus`: powerful destructive change; A worsening situation gains force.
-- Practical expression: influenced developments from the past, difficult change of power, dangerous development of power, huge changes under deprivation, and adverse powerChanges.
+Vulcanus specifies Pluto/Hades through the force and magnitude of adverse development. The [Witte entry](#witte-entry) describes rapid deterioration and conditions in which many things go wrong. [ABC](#abc-entry) adds difficult or dangerous changes of power, major changes under deprivation, and growing criminal influence. These specify an intensifying difficult process, without treating every powerful person as its agent.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Sun MC Apollon](../triads/sun-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ The correct use of the senses. Success as a scientist or through life experience
 
 #### ABC Entry
 
-I at the a crfogrcicher man, my commercial centrurn, my personal success, my knowledge of the body, my body for, my personal freedom, my many men, a human being's spiritual vastness, and science of body and soul
+- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+I am a successful person, my commercial center, my personal success, my knowledge of the body, the fullness of my body (Körper-Fülle), my personal freedom, my many men, a person's breadth of soul, science of body and soul.
+
+## Comparative Schema
+
+- **Core meaning:** Personal achievement through perception, science, and experience.
+- **Psychology:** Using the senses well is explicit.
+- **Body/health:** ABC names knowledge of the body and bodily fullness; these historical examples do not establish a diagnosis.
+- **Social/relationship:** Extensive connections are explicit; ABC's “many men” remains historically attributed.
+- **Events/manifestations:** Scientific success and personal freedom are named possibilities.
+- **Conflicts/notes:** ABC's Körper-Fülle is bodily fullness, not an incomplete sentence about the body. Its references to many men and breadth of soul remain source examples; none establishes a medical finding.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Sun` embodies the axis in correct perception, broad success, and extensive connections.
-- Chart expression: a life directed by sound judgment, success through experience or science, and an outward role enlarged by wide networks and strong personal reach.
+Sun specifies `MC/Apollon` through personal success supported by perception and experience. The correct use of the senses, scientific achievement, and extensive connections join ABC's knowledge of the body and personal freedom; the entries do not establish a general rule that broad contacts guarantee success. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

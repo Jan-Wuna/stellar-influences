@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Saturn`
 - Astronomicon formula: `X/MC = W`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 To rid oneself of something. To kick someone out. To be quarrelsome. Excitement through separation, losses or resistance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 79; PDF p. 38.
+
 #### ABC Entry
 
-Exciting star minute, impulses of a mature soul, my sudden pain, my concentrated tension, my sudden separation, my my rhythm cancellations, my technical tasks, my surprising losses, and my closing seclen impulses
+An exciting minute of disturbance, impulses of a mature soul, my sudden pain, my concentrated tension, my sudden separation, my disturbances of rhythm, my technical tasks, my surprising losses, disturbing soul impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 278; PDF p. 280; entry code `0993`.
 
 #### Ebertin Entry
 
 Frigidity, narrow-mindedness, egoism. Regaining reality and coming down to earth, desire to part quickly, saying good-bye quickly, losing one's job or career position.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Adds to your need to do your tasks alone and without interference or relief from
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 79; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0993), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Separation and constrained pursuit of an individual path. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Fear of exposure, restrained rebellion, and concentrated tension. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: ABC names sudden pain; Ebertin's “frigidity” remains an attributed historical label. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Rapid farewells and the wish to work without interference. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Separation, loss of position, solitary tasks, and fewer rewards. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: A reputation for reliability can coexist with reduced rewards; separation and gradual discovery of an individual path are different outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+Solitary reliable work, fewer rewards, rapid separation and gradual discovery of one's path describe different developments. Historical pain and frigidity language does not establish a diagnosis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Saturn`: disciplined reform, serious innovation, and the capacity to modernize public structures without complete collapse. Main caution: strain: when freedom and control lock against each other, the result can be severance, blockage, or breakdown in direction.
+Saturn specifies Uranus/MC through separation, inhibition, and working out an independent path under pressure. A quick parting or job loss is one expression, while solitary work can earn a reputation for reliability even when rewards are reduced. Fear of displaying individuality and the repression of rebellion complicate the wish to find one's own direction; these remain different developments in work and independence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

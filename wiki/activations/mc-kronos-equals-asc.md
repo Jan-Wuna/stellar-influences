@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [Asc MC Kronos](../triads/asc-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 To lead others. Connections with inferiors.
 
@@ -42,13 +46,27 @@ To lead others. Connections with inferiors.
 
 #### ABC Entry
 
-great soul of an ortec, my special partner, my place in the state, my authority in the place, my place hierarchic, my dominanzam place, my environmental authority, my partner's spiritual great, my partner's independence, and important minute in the place
+Source: “Meridian + Kronos,” printed p. 90 (PDF p. 44).
+
+A great soul of a place, my special partner, my place in the state, my authority at the location, my local hierarchy, my dominance at the location, the authority in my surroundings, my partner's inner or soul greatness, my partner's independence, and an important minute at the location.
+
+## Comparative Schema
+
+- core meaning: Personal authority and independence expressed through leadership, a partner, and the local setting.
+- psychology: Dominance or inner stature in relation to others.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Leading others, hierarchical contacts, and a partner's own independence or stature.
+- events/manifestations: Local authority, one's place in the state, and an important local moment.
+- conflicts/notes: Witte's inferior terminology describes a hierarchical role; the entries do not establish a person's intrinsic superiority.
+
+## Contradictions
+
+Witte emphasizes leading others and hierarchical connections. ABC also includes the partner's independence and inner stature, rather than only one's own dominance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Asc` brings the axis into direct leadership over other people.
-- Chart expression: leading others, standing above immediate surroundings, and shaping relationships through command, oversight, or clear superiority in role.
+In `MC/Kronos = Asc`, Asc specifies personal authority and independence through other people and the local setting. Witte describes leading others and hierarchical contacts; ABC adds local authority, one's place in the state, a special partner, and that partner's own independence or inner stature. The range preserves leadership and the significance of the other person, without turning a hierarchical role into a judgment of intrinsic superiority. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 90 / PDF p. 44)
 
 ## Links
 

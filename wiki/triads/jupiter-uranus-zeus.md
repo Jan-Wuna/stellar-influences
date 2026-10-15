@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Uranus Zeus`
 - Astronomicon triad-set: `V X £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md)
-- [Jupiter/Zeus = Uranus](../activations/jupiter-zeus-equals-uranus.md)
-- [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md)
+- [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md): base axis [Jupiter/Uranus](../axes/jupiter-uranus.md); activator [Zeus](../factors/zeus.md).
+- [Jupiter/Zeus = Uranus](../activations/jupiter-zeus-equals-uranus.md): base axis [Jupiter/Zeus](../axes/jupiter-zeus.md); activator [Uranus](../factors/uranus.md).
+- [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md): base axis [Uranus/Zeus](../axes/uranus-zeus.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Uranus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `208`
-- `Jupiter/Uranus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `327`
-- `Jupiter/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
-- `Jupiter/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `337`
-- `Uranus/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
-- `Uranus/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `378`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md#witte-entry) (PDF entry-start p. 208); [Jupiter/Zeus = Uranus](../activations/jupiter-zeus-equals-uranus.md#witte-entry) (PDF entry-start p. 213); [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md#witte-entry) (PDF entry-start p. 238).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md#abc-entry) (printed p. 327); [Jupiter/Zeus = Uranus](../activations/jupiter-zeus-equals-uranus.md#abc-entry) (printed p. 337); [Uranus/Zeus = Jupiter](../activations/uranus-zeus-equals-jupiter.md#abc-entry) (printed p. 378).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Zeus`: luck that comes as if by natural law, forcing luck, and sudden inventions.
-- `Jupiter/Zeus = Uranus`: abrupt action, quick productive impulse, and the sudden beginning of doing or making something.
+Jupiter, Uranus and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [ABC Entry for Jupiter/Uranus = Zeus](../activations/jupiter-uranus-equals-zeus.md#abc-entry) has a verified fire clause whose particular activity or technical setting remains unspecified. Its former transcription damage is repaired.
 
 ## Links
 
+- [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Uranus/Zeus](../axes/uranus-zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Zeus](../factors/zeus.md)

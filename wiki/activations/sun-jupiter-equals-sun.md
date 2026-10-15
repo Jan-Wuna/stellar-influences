@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ An essential directness and forcefulness when facing your challenges in life; im
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Direct, forceful engagement with challenges and an increased sense of purpose.
+- psychology: Directness, forcefulness and creating possibilities for oneself.
+- body/health: No bodily condition is supplied by this passage.
+- social/relationship: Important or influential people entering one's life.
+- events/manifestations: Opening new self-created potentials while facing challenges.
+- conflicts/notes: This particular “With Itself” paragraph differs from the repeated-Jupiter paragraph; the orientations remain distinct.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present. Its directness and purpose are distinct from the separate repeated-Jupiter paragraph's luck, goal expansion and philosophy.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Sun`: An essential directness and forcefulness when facing one's challenges in life; important and influential people come into one's life; adds to one's sense of purpose and helps to open new potentials which one can create for oneself.
+For `Sun/Jupiter = Sun`, [Munkasey's entry](#munkasey-entry) connects directness in facing challenges with a clearer sense of purpose and possibilities one can create. Important or influential people are another explicit part of the picture, so personal initiative and significant contacts coexist here. This particular paragraph supplies those meanings without a bodily claim; the separate repeated-Jupiter paragraph should not replace it merely because both appear under “With Itself.”
 
 ## Links
 

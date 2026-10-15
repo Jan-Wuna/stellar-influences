@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Admetos`
 - Astronomicon formula: `VP/¡ = ¦`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ Exclusive community or social circle. A private party. Celibacy.
 
 blocked public community, depressed community in public, restricted public community, consolidation of a public community, community in a public standstill, and suppression of a community in public
 
+## Comparative Schema
+
+- Core meaning: Restricted, exclusive, or consolidated public community.
+- Psychology: A depressed community is named without individual diagnosis.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Exclusive circles, private parties, and celibacy in the Witte entry.
+- Events/manifestations: Community blockage, standstill, suppression, or consolidation.
+- Conflicts/notes: Deliberate exclusivity and imposed restriction are distinct possibilities.
+
+## Contradictions
+
+Consolidation need not contradict restriction: a group may become more bounded. The entries do not say whether its limits are chosen or imposed in every case.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Admetos`: exclusive community or social circle, a private party, and celibacy.
-- Practical expression: blocked public community, depressed community in public, restricted public community, consolidation of a public community, and community in a public standstill.
+Admetos specifies `Vernal Point/Cupido` through a community whose participation or movement is limited. An exclusive circle or private party expresses a boundary; blockage, suppression, or standstill expresses a more burdensome limit, while consolidation can make the group more settled. Celibacy remains a separate relationship example in the Witte entry. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 45 / PDF p. 21.)
 
 ## Links
 

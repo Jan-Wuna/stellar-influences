@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Hades Zeus](../triads/mars-hades-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ End of the procreative ability. To be a soldier. Military service. War service. 
 
 #### ABC Entry
 
-Disappointment by strenuous work, working on fire crime, handling of dangerous work, dangerous goals of work, secret procreation Will, lack of creative actions, and creative work service
+Deprivation through strenuous work, addressing fire-related crime, leadership of dangerous work, dangerous work goals, a secret will to procreate, lack of creative actions, and creative service work.
+
+- Source reference: printed p. 311, PDF p. 154, Zeus row; `Entbehrungen` means deprivation and `Führung` means leadership, rather than disappointment and handling.
+
+## Comparative Schema
+
+- core meaning: Directed difficult work involves danger, deprivation or constrained creation.
+- psychology: A secret will to procreate is an ABC theme.
+- body/health: Witte's loss of procreative ability and fatal events are historical source claims, not diagnoses.
+- social/relationship: Military service and leadership of dangerous work are explicit.
+- events/manifestations: Addressing fire-related crime, dangerous goals and creative service are retained.
+- conflicts/notes: Creative service and responding to fire crime differ from causing destruction; fatality is not a necessary result of directed work.
+
+## Contradictions
+
+Witte emphasizes military and fatal examples; ABC also includes responding to crime and creative service. These different roles should not be collapsed into destructive action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Zeus`: harsh directed effort in martial or industrial settings, where damage, burning, weaponry, and fatal machinery become the concrete outcome of degraded action.
+Zeus specifies the Mars/Hades axis through the direction and goals of difficult work. Military service in [Witte](#witte-entry) sits beside leading dangerous work, addressing fire-related crime and creative service in [ABC](#abc-entry). Both retain procreative themes, while Witte also names severe bodily and fatal events. Those remain attributed source examples; the entry includes work responding to danger as well as harmful outcomes and does not make death the result of every undertaking.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 311, PDF p. 154.
 
 ## Links
 

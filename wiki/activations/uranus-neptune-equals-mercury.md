@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Mercury`
 - Astronomicon formula: `X/Y = T`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Mercury entry.
+
 #### Witte Entry
 
 Not to take the realities sufficiently into consideration when thinking. To stray in one’s mind from facts and realities. To be occupied with the hereafter. To think of the dead. To speak of the dead. To converse with the dead.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Mercury entry.
+
 #### ABC Entry
 
-Reports about water technology, subtle thought impulses, talk about metaphysical experiences, sudden thought weakness, exciting talk about ideologies, sensitive media impulses, surprising water movement, and future media technology
+Reports about water technology, subtle-material thought impulses, conversations about metaphysical experiences, sudden weakness of thought, exciting conversations about premonitions, sensitive media impulses, surprising movement of water, and future media technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0941`, with note 59.
 
 #### Ebertin Entry
 
 A peculiar imagination, occupation with the metaphysical sciences and with supernatural problems, investigation or exploration of the unconscious. A longing for far-distant places, plans without the possibility of realization, journeys.
 
+Ebertin's note 59 advises speaking only of “unusual problems” without specifying them.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Mercury entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +82,21 @@ Increased needs for meditation; the inspiration you suddenly receive for plans y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Visionary thought and communication with uncertain factual grounding. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Imagination, meditation, longing, and confusion. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Conversation about metaphysical experience and the deceased in Witte's spiritual vocabulary. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Plans, journeys, new information methods, and engineering ideas. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Visionary communication does not establish factual accuracy. Ebertin's note59 limits the description to unspecified “unusual problems”; spiritual communication remains attributed doctrine. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Visionary communication and distance from facts are different possibilities. Ebertin's note59 expressly limits the description to “unusual problems” without specifying them. Communication with the dead remains attributed spiritual doctrine.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Mercury`: visionary intelligence, inspired messaging, and the ability to articulate what others sense only dimly. Main caution: unstable clarity: subtle insight can slide into confusion, abstraction, or unreliable interpretation when grounding is weak.
+Mercury specifies Uranus/Neptune through subtle imagination and communication that may be visionary or confused. Meditation, inquiry into the unconscious, and sudden inspiration can feed plans or technical ideas, including Munkasey's explicit information-engineering and artificial-intelligence examples. The same entries warn of distance from facts and unrealizable plans, so an inspired account still leaves its factual and practical adequacy open. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

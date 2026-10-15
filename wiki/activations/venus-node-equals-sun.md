@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Sun Venus Node](../triads/sun-venus-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Love ties of the body. Agreeable unions.
 
 #### ABC Entry
 
-Relationships with a art, harmonious connection with the man, love relations of the man, connected with gentle humans, personal encounter with the artist, harmonious person mediation, and center for desire transmitting
+- Source reference: printed p. 210; one-based PDF p. 104, Venus/Node, Sun row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Relationships with an art center, a harmonious connection with a man, a man's love relationships, connection with beautiful people, a personal encounter with art, harmonious mediation between people, and a center for mediating wishes.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Pleasure received from encouragement obtained at meetings with others; highlight
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Loving association that feels personally enlivening and meaningful.
+- psychology: Courtesy, willingness to meet others halfway, and appreciation of life.
+- body/health: Witte names love ties of the body; no medical claim is supplied.
+- social/relationship: Associations through love or artistic interests.
+- events/manifestations: Encouraging meetings and encounters that leave a strong impression.
+- conflicts/notes: Historical references to a man's union remain attributed examples; popularity and conflict avoidance are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Physical ties, loving effort, and purpose through connection differ in focus without a direct contradiction. Gendered source wording does not limit the entire activation to men.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Sun`: popularity, gracious self-expression, and a life pattern in which identity grows through affectionate alliance and mutual recognition. Main caution: self-esteem tied to harmony: the need to be liked can make conflict harder to face directly.
+In `Venus/Node = Sun`, Sun specifies the Venus/Node connection as personally enlivening participation in loving or agreeable association. The [Ebertin entry](#ebertin-entry) stresses courtesy and meeting others halfway; [Sandbach](#sandbach-entry) links loving connection with vitality, purpose, and appreciation of life. The [Munkasey entry](#munkasey-entry) makes encouragement and memorable encounters concrete, alongside the bodily love ties in [Witte](#witte-entry). Historical references to men remain source examples rather than a universal gender rule.
+
+The [ABC entry](#abc-entry) adds an art center, beautiful people, a personal encounter with art and mediation between people or of wishes; its male examples remain historical attribution.
 
 ## Links
 

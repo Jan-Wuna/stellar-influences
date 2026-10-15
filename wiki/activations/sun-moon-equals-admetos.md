@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
 - Triad hub: [Sun Moon Admetos](../triads/sun-moon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Days of no accomplishment. Dead, still day. The end of partnership or marriage.
 
+Source locator: PDF p. 101, Sun/Moon, Admetos entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked feelings of the man, depressed people of a Y olke, restriction of a person's life, firmness between woman and man, woman's body cycle, woman's personal perseverance, and deepening of personal feelings
+Blocked feelings of the man, depressed people of a nation, restriction of a person's feelings, firmness between woman and man, a woman's bodily circulation, a woman's personal perseverance, and deepening of personal feelings.
+
+Source locator: printed p. 139, PDF p. 68, Sun/Moon, Admetos entry. Translation checked against the German row; Gefühle means feelings and Körper-Kreislauf means bodily circulation.
+
+## Comparative Schema
+
+- core meaning: Stillness or restriction in feeling and shared life, alongside firmness and emotional depth.
+- psychology: Blocked or restricted feelings coexist with perseverance and deepening feelings.
+- body/health: ABC's circulation and depression language remains attributed, not a medical assessment.
+- social/relationship: Firmness between woman and man and Witte's ending of partnership or marriage.
+- events/manifestations: Inactivity or lack of accomplishment are Witte examples, not a schedule or forecast.
+- conflicts/notes: Endings and endurance are distinct alternatives; restricted feelings do not establish an inevitable relationship outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Moon = Admetos`: practical activity and grounded, workmanlike embodiment.
-- Practical expression: blocked feelings of the man, depressed people of a Y olke, restriction of a person's life, firmness between woman, and woman's body cycle.
+`Sun/Moon = Admetos` places feeling and shared life in a condition of restriction or stillness. [Witte](#witte-entry) describes lack of accomplishment and the end of a partnership or marriage; [ABC](#abc-entry) gives blocked or restricted feelings, but also firmness between woman and man, perseverance and deeper feeling. These entries preserve both curtailed contact and a sustained or deepened bond within a restricted field. Neither ending nor endurance must follow, and the day, bodily-circulation and depression clauses remain attributed source meanings rather than timing or health conclusions.
 
 ## Links
 

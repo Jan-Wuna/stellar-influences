@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
 - Triad hub: [Neptune Cupido Hades](../triads/neptune-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 267 (one-based; exact activator row).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Falsehood in miserable marriage. The end of a wretched marriage. Dissolution of 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 211 (printed 425).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, economic union, and economic
+Editorial English translation, checked against the German scan:
+
+Disappointment about a shared past; danger for a community in water; disappointed criminal community; weakening of a community through criminality; a community's renunciation of metaphysics; water shortage for a community.
+
+## Comparative Schema
+
+- core meaning: Falsehood and dissolution in troubled partnership, alongside communal disappointment and weakening.
+- psychology: Disappointment concerning a shared past.
+- body/health: Water danger and water shortage are literal communal clauses without a specified illness or treatment.
+- social/relationship: A troubled marriage ending; a disappointed criminal community.
+- events/manifestations: Weakening through criminality and communal renunciation of metaphysics.
+- conflicts/notes: The source's harsh judgments of partnership remain attributed; water and metaphysics clauses are not causes of every breakup.
+
+## Contradictions And Differences
+
+The source's harsh judgments of partnership remain attributed; water and metaphysics clauses are not causes of every breakup. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Neptune`: distressed communal bonds finally collapsing under dishonesty, disgust, or emotional rot. Main caution: lingering in false attachment until dissolution becomes unavoidable.
+`Cupido/Hades = Neptune` concerns falsehood and dissolution within a troubled marriage or partnership. The [Witte entry](#witte-entry) supplies those outcomes in strongly evaluative language. The [ABC entry](#abc-entry) adds disappointment about a shared past, weakening through criminality and a disappointed criminal community, alongside water danger, water shortage and renunciation of metaphysics. These distinct clauses broaden the range without making every troubled bond's dissolution unavoidable.
 
 ## Links
 

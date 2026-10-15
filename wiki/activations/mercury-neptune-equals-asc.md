@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Asc`
 - Astronomicon formula: `T/Y = Asc`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 To be cheated by acquaintances. To be outsmarted. Others speak uncertainly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Exchange of news from the partner, thoughts of the partner, air movements in the surrounding area, air Ycrkehrs place, news about the future of a place, fine thoughts of other, and insecure partners in the youth
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Enttäuschende Nachrichten vom Partner, Gedanken-Schwäche des Partners, Luft-Bewegungen im Umfeld, Luft-Verkehrs-Ort, Nachrichten über die Zukunft eines Ortes, feinfühlige Gedanken anderer, unsichere Partner in der Jugend, Wasser-Verkehr im Ort
+
+Editorial translation from the German passage: Disappointing news from a partner; a partner's weakness of thought; air movements nearby; an air-traffic location; news about a place's future; others' sensitive thoughts; uncertain partners in youth; local water traffic.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `162`; entry code: `0528`.
 
 #### Ebertin Entry
 
 Tendency to open oneself to influences coming from other people, the state of being exploited, deceived or harmed by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Tuning into events occurring around you on a level deeper than the physical; add
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Receptivity to others ranging from subtle impressions to deception ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Idealized self-images and uncertain interpersonal impressions are explicit.
+- body/health: No bodily condition is specified.
+- social/relationship: Being outsmarted, exploited, or subtly relating to others are distinct possibilities.
+- events/manifestations: Disappointing partner news and local air or water traffic are ABC examples.
+- conflicts/notes: Psychic reception is attributed doctrine; it is not equivalent to every external influence.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize exploitation or deception. Sandbach and Munkasey also describe subtle or psychic reception, and Sandbach adds the need to overcome an idealized identity. These differences materially limit a uniformly empathic interpretation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Asc`: poetic manner, empathic listening, and the ability to communicate indirectly through tone, image, or emotional field. Main caution: weak definition in presence: words and identity can become too vague, impressionable, or hard to pin down clearly.
+In `Mercury/Neptune = Asc`, Asc specifies receptive or uncertain thought in direct contact with others. Their words may be unclear, one may be outsmarted or exploited, or impressions may be received in ways the sources describe as subtle or psychic. Sandbach's warning about imagined or idealized identity keeps that receptivity from becoming an assumption of accurate insight. ABC adds partner news and local air or water transport as concrete, separate examples ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

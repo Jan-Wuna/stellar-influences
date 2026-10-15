@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¦/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `312` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `476`; PDF page: `237` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Intensification of knowledge, strengthening of truth, mental limitation, mental enrichment, mental compaction, spiritual depth, mental procreation, fundamental insight, cultural blockade, and submission of truth
+German pair summary (transcribed from printed page `476`; PDF page `237`):
+
+> Erkenntnisse vertiefen, Festigung der Wahrheit, geistige Einschränkung, geistige Unterdrückung, geistige Verdichtung, geistige Tiefe, geistige Urzeugung, gründliche Einsicht, Kultur-Blockade, Unterdrückung der Wahrheit
+
+Editorial translation from the German passage: Deepening insights; consolidation of truth; mental restriction; mental suppression; mental condensation; mental depth; mental primordial generation (geistige Urzeugung); thorough insight; cultural blockade; suppression of truth.
+
+## Comparative Schema
+
+- Core meaning: Mental depth and the concentration of knowledge connect culture and education in the [Pair Summary](#pair-summary) with deepened insight and restricted thought in the [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Deep insight and mental condensation coexist with mental restriction, suppression and cultural blockade.
+- Body/health: No clinical meaning is established. The atom, radiation, vibration, and dematerialization are source-native physical or metaphysical associations in the [Pair Summary](#pair-summary).
+- Social/relationship: Culture and education are the supported social settings; the entries do not specify a personal relationship pattern.
+- Events/manifestations: Education, cultural activity, and the strengthening or restriction of knowledge are named; the [Pair Summary](#pair-summary) also associates the pair with subtle material and spirit's relation to matter.
+- Conflicts/notes: Insight and restriction are both present. ABC's geistige Urzeugung is retained literally without adding a mechanism of mental or spiritual generation.
 
 ## Related Activations
 
@@ -103,11 +122,16 @@ Intensification of knowledge, strengthening of truth, mental limitation, mental 
 - [Admetos/Poseidon = Vulcanus](../activations/admetos-poseidon-equals-vulcanus.md)
 - [Admetos/Poseidon = Zeus](../activations/admetos-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The entries allow depth of understanding alongside mental suppression and cultural restriction. These are different expressions; neither source states that deepening knowledge must remove the restrictions.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon` is the axis of disciplined culture, education, mental depth, subtle substance, and the meeting of spirit with condensed matter. It combines Admetos's gravity, compression, and depth with Poseidon's refinement, clarity, culture, and non-material or atomic subtlety.
-- Chart expression: study, training, instruction, lasting formative influence, deep thought, subtle material processes, and the shaping or cultivation of something essential through patient refinement. Liabilities: sterile idealism, wasted instruction, rejected ideas, rigid educational systems, and influences that become too narrow, abstract, or ineffective to produce living development.
+`Admetos/Poseidon` concerns depth and concentration in understanding: culture and education are brought into contact with fundamental insight, compacted thought, and the strengthening of knowledge. This depth can coexist with mental limitation or cultural blockage, so the pair does not imply that greater concentration necessarily produces greater freedom. These themes connect the [Pair Summary](#pair-summary) with the [ABC Pair Summary](#abc-pair-summary).
+
+The [Pair Summary](#pair-summary) also keeps an uncommon association with fine material, the atom, radiation, vibration, and spirit and matter as two sides of one entity. These are the source's associations, rather than clinical or scientific conclusions established by this page. ABC's literal geistige Urzeugung does not supply a physical or metaphysical mechanism.
 
 ## Links
 

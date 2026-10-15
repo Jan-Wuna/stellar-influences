@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Moon Node](../triads/vernal-point-moon-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Connections with female persons. Connections of female persons.
 
@@ -42,13 +46,27 @@ Connections with female persons. Connections of female persons.
 
 #### ABC Entry
 
-Meeting of Milts in the Public Life, Women's Connections in the Public, Friends' Connections in the Public Life, Mediating Women in the Public, Hour of Meeting in the Public, and people encounters in the Public
+- Source page: 26; PDF page: 12 (one-based spread).
+
+Meetings of mothers in public life, women's public connections, emotional connections in public life, women mediating in public, an hour of public encounter, and public encounters between peoples
+
+## Comparative Schema
+
+- core meaning: Public connections expressed through feeling and the source's examples of women.
+- psychology: Emotional links are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Mothers' meetings, women's associations, and encounters between peoples.
+- events/manifestations: Mediation by women and public meetings.
+- conflicts/notes: Emotional links were mistranslated as friends' links; mothers replaces the damaged Milts wording.
+
+## Contradictions
+
+No direct contradiction is established. Emotional association does not by itself establish friendship; national and individual encounters remain distinct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Moon`: connections with female persons and connections of female persons.
-- Practical expression: meeting of Milts in the Public Life, women's Connections in the Public, friends' Connections in the Public Life, mediating Women in the Public, and hour of Meeting in the Public.
+In `Vernal Point/Node = Moon`, public association is experienced through emotional links and collective encounters. The [Witte entry](#witte-entry) names connections with and among women. The restored [ABC entry](#abc-entry) adds mothers' meetings, mediation by women, and encounters between peoples. The reading joins emotional significance with public contact while attributing the gendered examples to the sources.
 
 ## Links
 

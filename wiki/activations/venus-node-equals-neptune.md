@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Neptune Node](../triads/venus-neptune-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Hopeless love union. To deny a love union. Dissolution of agreeable connections 
 
 #### ABC Entry
 
-Dissolving of a harmonious connection, fine feeling in a love relationship, love weakness in a connection, tendency to metaphysical connections, uncertain fricdens contacts, and preference for refinement of a connection
+- Source reference: printed p. 211; one-based PDF p. 104, Venus/Node, Neptune row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Dissolution of a harmonious connection, sensitivity in a love relationship, weakness of love in a connection, inclination toward metaphysical connections, uncertain peace contacts, and preference for refinement of a connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Ambiguous results from others who share your interests; the artificial fronts ot
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uncertain, unfulfilled, denied, or dissolving love connections.
+- psychology: Fantasy, shyness, confusion, subtle feeling, and disappointment.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Misunderstanding in love and ambiguous interactions with people who share interests.
+- events/manifestations: Dissolution or denial of a union, false appearances, and occult groups are stated examples.
+- conflicts/notes: Subtle affection is possible, but the entries give substantial weight to uncertainty and nonfulfillment.
 
 ## Contradictions
 
-- None recorded yet.
+Subtle connection and hopelessness represent different expressions. The passages do not establish that spiritual or subtle feeling guarantees a viable relationship.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Neptune`: soulful rapport, artistic or spiritual companionship, and ties that feel redemptive or delicately inspiring. Main caution: porous relating: fantasy, projection, or weak boundaries can blur what the bond actually is.
+In `Venus/Node = Neptune`, Neptune specifies the Venus/Node connection through uncertainty about what the bond is or whether it can be fulfilled. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) emphasize denial, disappointment, or dissolution. The [Sandbach entry](#sandbach-entry) retains both fantasy and subtle affection, while [Munkasey](#munkasey-entry) adds ambiguous encounters and artificial fronts. The fine-feeling and metaphysical themes in the [ABC entry](#abc-entry) leave room for sensitivity, without overriding the difficulty of establishing a dependable connection.
+
+ABC's uncertain peace contacts remain explicit alongside sensitivity, metaphysical connections and refinement of a bond ([ABC entry](#abc-entry)).
 
 ## Links
 

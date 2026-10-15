@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Jupiter Chiron Neptune`
 - Astronomicon triad-set: `V Chiron Y`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Neptune = Jupiter](../activations/chiron-neptune-equals-jupiter.md)
-- [Jupiter/Chiron = Neptune](../activations/jupiter-chiron-equals-neptune.md)
-- [Jupiter/Neptune = Chiron](../activations/jupiter-neptune-equals-chiron.md)
+- [Chiron/Neptune = Jupiter](../activations/chiron-neptune-equals-jupiter.md): base axis [Chiron/Neptune](../axes/chiron-neptune.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Chiron = Neptune](../activations/jupiter-chiron-equals-neptune.md): base axis [Jupiter/Chiron](../axes/jupiter-chiron.md); activator [Neptune](../factors/neptune.md).
+- [Jupiter/Neptune = Chiron](../activations/jupiter-neptune-equals-chiron.md): base axis [Jupiter/Neptune](../axes/jupiter-neptune.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Neptune = Jupiter`: John, page `97`
-- `Jupiter/Chiron = Neptune`: John, page `79`
-- `Jupiter/Neptune = Chiron`: John, page `81`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Neptune = Jupiter](../activations/chiron-neptune-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 97; exact entry page unverified); [Jupiter/Chiron = Neptune](../activations/jupiter-chiron-equals-neptune.md#sandbach-entry) (PDF chapter-start p. 79; exact entry page unverified); [Jupiter/Neptune = Chiron](../activations/jupiter-neptune-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 81; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Jupiter`: inspired faith, imaginative wisdom, and healing that works through expansive subtle understanding. Main caution: inflated idealism or trusting inspiration more than discernment.
-- `Jupiter/Chiron = Neptune`: healing through subtle insight, compassion, and spiritual receptivity. It can show deep knowing that arrives quietly but reaches far.
-- `Jupiter/Neptune = Chiron`: visionary compassion becoming therapeutically useful. It favors inspired healing presence, imaginative encouragement, and helping others believe in higher possibilities without forcing them.
+Jupiter, Chiron and Neptune form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Neptune](../axes/chiron-neptune.md)
+- [Jupiter/Chiron](../axes/jupiter-chiron.md)
+- [Jupiter/Neptune](../axes/jupiter-neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Chiron](../factors/chiron.md)
 - [Neptune](../factors/neptune.md)

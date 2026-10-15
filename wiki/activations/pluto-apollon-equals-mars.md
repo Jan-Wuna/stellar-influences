@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Mars Pluto Apollon](../triads/mars-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 Far reaching change in activity. Activity for transformation of trade or science.
 
@@ -42,13 +46,27 @@ Far reaching change in activity. Activity for transformation of trade or science
 
 #### ABC Entry
 
-Extension of a development work, successful transfonnation work, extensive changes in activity, change in development work, growing work success, and scientific development measures
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
+Expansion of developmental work, successful transformation work, extensive changes in activity, changes in developmental work, growing success in work, scientific developmental efforts.
+
+## Comparative Schema
+
+- core meaning: far-reaching changes in activity and work that transforms trade or science.
+- psychology: the entry names effort and activity without a complete inner profile.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: trade and science provide shared fields of work without a specific relationship type.
+- events/manifestations: expanding developmental work and growing work success.
+- conflicts/notes: Changes in activity and activity that produces change are both stated; successful work is an ABC possibility rather than a universal result.
+
+## Contradictions
+
+Changes in activity and activity that produces change are both stated; successful work is an ABC possibility rather than a universal result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Mars`: far reaching change in activity; Activity for transformation of trade or science.
-- Practical expression: extension of a development work, successful transfonnation work, extensive changes in activity, change in development work, and growing work success.
+Mars specifies `Pluto/Apollon` through work that expands or brings extensive transformation. The [Witte entry](#witte-entry) includes both far-reaching changes in activity and activity directed toward transforming trade or science. The [ABC entry](#abc-entry) develops those themes as expanded developmental work, scientific efforts and growing work success. The formula thus concerns what work becomes and what it can change, with success remaining part of the source range rather than assured.
 
 ## Links
 

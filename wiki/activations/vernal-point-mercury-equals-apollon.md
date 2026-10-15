@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Apollon](../triads/vernal-point-mercury-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 Scientific thinking. The thinking of the crowds. Widely spread or publicized opinions. General opinions of religion.
 
@@ -42,13 +46,27 @@ Scientific thinking. The thinking of the crowds. Widely spread or publicized opi
 
 #### ABC Entry
 
-Successful youth in public, success announcements in public life, media successes in public, many opinions in public, and scientific language in public
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Successful youth in public, reports of success in public life, media successes in public, many public opinions, and scientific conversations in public
+
+## Comparative Schema
+
+- core meaning: Public thought and communication extended through science, media, and many opinions.
+- psychology: Scientific thinking and collective thought are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Crowd opinion and successful youth.
+- events/manifestations: Widely publicized views, success reports, and scientific discussion.
+- conflicts/notes: Opinions about religion are a specific Witte example, not established scientific claims.
+
+## Contradictions
+
+No direct contradiction is established. Scientific thought and religious opinion are different public subjects; neither establishes the other's truth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Apollon`: scientific thinking, the thinking of the crowds, widely spread or publicized opinions, and general opinions of religion.
-- Practical expression: successful youth in public, success announcements in public life, media successes in public, many opinions in public, and scientific language in public.
+In `Vernal Point/Mercury = Apollon`, thought and speech acquire a broad public field. The [Witte entry](#witte-entry) connects scientific thinking with crowd opinion, widely publicized views, and opinions about religion. The restored [ABC entry](#abc-entry) adds media success, many opinions, scientific conversations, and reports of achievement. The shared emphasis is the reach and circulation of public ideas, with success as one possible expression.
 
 ## Links
 

@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Mercury Saturn MC](../triads/mercury-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To be sorrowful or brooding. To comprehend slowly. To subject oneself to thought
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Worried serious language, talk about my disturbances, consider my tasks, my thoughts concentration, my separation thoughts, my losses in youth, talk to mature souls, and discuss mental problems
+Soulful, serious speech, conversations about my disturbances, considering my tasks, my thought-concentration, my thoughts of separation, my losses in youth, speaking with mature souls, and discussing soul-related problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0929`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Indulging melancholy thoughts, unhappy experiences, concentrating on oneself, inclination to meditate or brood. Thoughts of separation, the moment of saying good-bye.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 95.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Applying whatever intelligence you have toward making your position or mark in t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious communication and concentrated thinking, including separation thoughts.
+- psychology: reflection, brooding, ethical doubt, and persistent analysis.
+- body/health: The entries give no specific bodily claim.
+- social/relationship: conversations about difficulties, mature souls, and saying goodbye.
+- events/manifestations: formal schooling, slow comprehension, discussing tasks, and separation.
+- conflicts/notes: Concentrated learning and melancholy are different expressions rather than a single outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's concern with ethical authority adds a specific dimension to the other entries' serious or sorrowful thinking.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Mercury`: administrative intelligence, strategic patience, and the ability to think through consequences before acting publicly. Main caution: mental rigidity: worry, pessimism, or overcontrol can make direction feel narrower than it is.
+In `Saturn/MC = Mercury`, Mercury specifies the Saturn/MC axis through serious thought, speech, and concentrated learning. [ABC](#abc-entry) includes discussing difficulties and tasks as well as thoughts of separation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize brooding, melancholy, slow comprehension, and saying goodbye.
+
+[Munkasey](#munkasey-entry) adds persistent logic, analysis, and formal schooling. [Sandbach](#sandbach-entry) gives this seriousness an ethical concern: seeking right thinking and communication while doubting one's own authority. Reflection can therefore support disciplined understanding or become burdened by sorrow and uncertainty.
 
 ## Links
 

@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Venus`
 - Astronomicon triad-set: `VP S Q`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Venus = Vernal Point](../activations/sun-venus-equals-vernal-point.md)
-- [Vernal Point/Sun = Venus](../activations/vernal-point-sun-equals-venus.md)
-- [Vernal Point/Venus = Sun](../activations/vernal-point-venus-equals-sun.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Venus = Vernal Point](../activations/sun-venus-equals-vernal-point.md) | [Sun/Venus](../axes/sun-venus.md) | Vernal Point |
+| [Vernal Point/Sun = Venus](../activations/vernal-point-sun-equals-venus.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Venus |
+| [Vernal Point/Venus = Sun](../activations/vernal-point-venus-equals-sun.md) | [Vernal Point/Venus](../axes/vernal-point-venus.md) | Sun |
 
 ## Source Coverage
 
-- `Sun/Venus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
-- `Sun/Venus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `144`
-- `Vernal Point/Sun = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `22`
-- `Vernal Point/Venus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
-- `Vernal Point/Venus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `30`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Venus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-venus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `104`.
+- `Sun/Venus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-venus-equals-vernal-point.md#abc-entry), printed p. `144`.
+- `Vernal Point/Sun = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-venus.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-venus.md#abc-entry), printed p. `22`.
+- `Vernal Point/Venus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-venus-equals-sun.md#witte-entry), one-based PDF entry-start p. `41`.
+- `Vernal Point/Venus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-venus-equals-sun.md#abc-entry), printed p. `30`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Venus = Vernal Point`: This formula emphasizes attraction or harmony appearing in the immediate environment.
-- `Vernal Point/Sun = Venus`: This formula emphasizes the time of puberty, the ability and activity of love of many people, and the body’s activity in, and capacity for, love.
-- `Vernal Point/Venus = Sun`: This formula emphasizes day of peaceful public life, a harmonious physical appearance, preference for certain things, jewelry, and the love properties of the body.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Sun/Venus = Vernal Point has a collapsed, repetitive ABC translation; the current English does not establish the native entry's detailed content. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

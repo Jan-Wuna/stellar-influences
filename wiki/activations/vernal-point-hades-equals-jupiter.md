@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Jupiter Hades](../triads/vernal-point-jupiter-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Tropical fevers. Liver complaints. Loss of money due to disasters. Dirty or secret financial transactions.
 
@@ -42,13 +46,27 @@ Tropical fevers. Liver complaints. Loss of money due to disasters. Dirty or secr
 
 #### ABC Entry
 
+- Source page: 46; PDF page: 22 (one-based spread).
+
 Successful past in public life, financial crime in public ' joy in public service, danger to public finance, money shortage in public, criminal successes in public, and disadvantages by public law
+
+## Comparative Schema
+
+- core meaning: Financial disadvantage or concealed transactions alongside satisfaction in service.
+- psychology: Joy in public service is explicitly stated.
+- body/health: Witte's tropical fevers and liver complaints are historical medical doctrine, not diagnoses.
+- social/relationship: Public service and disadvantages through public law.
+- events/manifestations: Financial crime, money shortage, disaster-related losses, and past public success.
+- conflicts/notes: Past success and service joy do not erase the adverse finance strand.
+
+## Contradictions
+
+Financial loss and joy in service concern different applications. The historical health associations supply no mechanism linking them to financial conduct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Jupiter`: tropical fevers, liver complaints, loss of money due to disasters, and dirty or secret financial transactions.
-- Practical expression: successful past in public life, financial crime in public ' joy in public service, danger to public finance, money shortage in public, and criminal successes in public.
+In `Vernal Point/Hades = Jupiter`, Jupiter specifies the pair through the contrast between public financial difficulty and satisfaction in service. The [Witte entry](#witte-entry) names disaster losses and secret or disreputable transactions. The [ABC entry](#abc-entry) adds danger to public finances and shortage, while retaining past success and joy in public service. Witte's fever and liver statements remain attributed historical medical doctrine, separate from those economic examples.
 
 ## Links
 

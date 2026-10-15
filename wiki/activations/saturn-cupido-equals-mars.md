@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Mars`
 - Astronomicon formula: `W/¡ = U`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Periodic meetings for working purpose. Interruption of work one accomplishes together with others. Intended divorce (willed).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Joint work tasks, concentration of a work community, problematic community work, maturing of a community through work, difficulties of a work community, and separation from a common work
+- Source page: 354 (printed); PDF page: 176.
+
+Shared work tasks, concentration within a working community, problematic communal work, maturation of a community through work, difficulties of a working community, separation from shared work.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Shared work and its interruption, with maturity possible through communal effort.
+- Psychology: Concentration in a working community.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Periodic work meetings and separation from joint work.
+- Events/manifestations: Communal work tasks, work difficulties, and intended divorce.
+- Conflicts/notes: Maturity through work and interrupted cooperation are different possibilities, not a fixed sequence.
+
+## Contradictions
+
+Maturity through work and interrupted cooperation are different possibilities, not a fixed sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Mars`: periodic meetings for working purpose, interruption of work one accomplishes together with others.
-- Practical expression: joint work tasks, concentration of a work community, problematic community work, maturing of a community through work, and difficulties of a work community.
+In `Saturn/Cupido = Mars`, Mars specifies the pair through working together. The [Witte entry](#witte-entry) includes periodic work meetings and interruption of shared work; the [ABC entry](#abc-entry) adds concentration, difficulty, and a community maturing through work. Intended divorce is another explicit source expression, kept distinct from the practical work setting.
 
 ## Links
 

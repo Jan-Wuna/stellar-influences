@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter MC](../triads/mars-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ The betrothed person. Satisfaction and contentment in one’s activity. Content 
 
 #### ABC Entry
 
-Successful Scelcn Arbcit, good mental action, I work with money, I succeed, my happiness is work, my good will, my right to work, my work joy, my financial activity, my Rchts Action, and psychic GIUcks Impulse
+Successful soul work, good psychological treatment, I work with money, I create successfully, my happiness is work, my good will, my right to work, my joy in work, my financial activity, my legal activity, and psychological impulses of happiness.
+
+- Source reference: printed p. 298, PDF p. 148, MC row; the scan reads `gute seelische Behandlung`, `Rechts-Tätigkeit` and `psychische Glücks-Impulse`.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ A personal growth and nurturing by using the force or energy available to you; a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: One finds satisfaction, growth or enterprise through activity.
+- psychology: Joy in work and life coexist with Sandbach's conditional domination through insecurity.
+- body/health: ABC's psychological treatment and Ebertin's procreative powers remain historical source claims without a specified diagnosis or treatment outcome.
+- social/relationship: Encouraging others to act, engagement and marriage are explicit.
+- events/manifestations: Favorable arrangements, personal finance/legal activity and recognition through competition are named.
+- conflicts/notes: Encouragement can become excessive domination in Sandbach's stated condition; this does not erase the favorable activity themes.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize satisfaction and constructive activity while Sandbach retains a conditional dominant expression. This is a qualification about how authority is expressed, not a denial of the other examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = MC`: leadership that energizes others, a public role shaped by initiative and optimism, and the ability to make action serve growth or advancement. Main caution: dominance through certainty: encouraging action can slip into excessive control or inflated belief in one's own correctness.
+MC specifies the Mars/Jupiter axis through personal satisfaction and growth in activity. Contentment in [Witte](#witte-entry), joy of enterprise in [Ebertin](#ebertin-entry) and work enjoyment in [ABC](#abc-entry) connect with beneficial organization of effort in [Munkasey](#munkasey-entry). [Sandbach](#sandbach-entry) adds authority that encourages others to act, with excessive domination possible when fear and insecurity remain. The evidence joins energetic self-development and encouragement without making leadership uniformly helpful.
+
+Evidence: Witte PDF p. 192; ABC printed p. 298, PDF p. 148; Ebertin printed p. 203, code 0697; Sandbach PDF p. 68 (Midheaven paragraph, checked directly); Munkasey printed p. 224.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Saturn`
 - Astronomicon formula: `S/Z = W`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Slow physical development. Stingy way of living. Fasting. Physical hardening. Excess cartilage in the body. Ossification.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development to the body rcife, local personal development, personal development in old age, personal development tasks, personal hardness unfold, changes through personal separations, and growing body dimension
+- Source passage: `Sonne + Pluto`; printed p. `157`; one-based PDF page `77` (oriented row checked against the scan).
+
+Development toward bodily maturity, disturbed personal development, personal unfolding in old age, personal developmental tasks, unfolding personal hardness, changes through personal separations, growing bodily pain.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Pluto`; printed p. `102`; one-based PDF page `104`; entry code `0284` (exact coded entry checked in actual PDF text).
 
 Ruthless overcoming of obstacles and difficulties, physical impediment. Restriction, separation (by higher power, imprisonment).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `20` (exact Saturn entry checked in actual raw PDF text).
 
 The slow and gradual spiritualizing of the ego, which possibly happens through harsh, difficult or painful events. Being afraid of one’s own personal power and the potential of misusing it. To feel tremendously oppressed by feelings of worthlessness which are only healed when one ceases to use outer, materialistic and/or superficial cri teria to assess the self.
 
@@ -70,22 +80,21 @@ Diminishes desires to achieve power and fame; waiting patiently for any results 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development is slowed, constrained or hardened, while inner change may proceed gradually.
+- psychology: Fear of misusing power, worthlessness and painful ego change coexist with patience and restraint.
+- body/health: Slow growth, hardening, cartilage, ossification, bodily maturity and pain are attributed historical associations.
+- social/relationship: Restrictions and separations coexist with reduced ambition for power or fame.
+- events/manifestations: Fasting, personal development tasks, old-age development and imprisonment are specific examples.
+- conflicts/notes: Ruthlessly overcoming obstacles differs from restraining destructive tendencies; neither exhausts the orientation.
 
 ## Contradictions
 
-- None recorded yet.
+The sources describe both forceful overcoming and restraint, as different expressions. Bodily hardening and spiritual change retain separate frames, without guaranteeing strength from pain.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Saturn`: hard-won strength, ruthless obstacle-clearing, and the possibility of profound inner restructuring through painful experience. Main caution: severity: oppression, imprisonment, self-denial, or worthlessness can turn power inward and make it destructive.
+In `Sun/Pluto = Saturn`, development meets restriction, delay or hardening: physical maturity and old-age unfolding coexist with disturbed development, pain and separation. Personal power may be feared or forcefully used against obstacles, while patience and restraint offer another response. Sandbach's gradual spiritual change addresses worthlessness through a less superficial assessment of self. The bodily and imprisonment examples remain specific historical claims rather than necessary outcomes. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

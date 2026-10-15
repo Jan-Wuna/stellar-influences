@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Pluto`
 - Astronomicon formula: `R/MC = Z`
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Pluto row under Meridian + Moon checked.
+
 #### Witte Entry
 
-E Changes that impress the mind in public. Changes which are personally related to the public. To be infirm or unsteady. Changes influence one’s own mind and emotions.
+Changes that impress the mind in public. Changes which are personally related to the public. To be infirm or unsteady. Changes influence one’s own mind and emotions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 65; one-based PDF p. 31, complete eight-clause Pluto row checked.
+
 #### ABC Entry
 
-Development of the woman, evolution of my people, emotional psychic development, my unfolding as a woman, my emotional development, psychic development of the woman, change of the female psyche, and growing female soul
+Development of my wife, evolution of my people, emotional psychic development, my unfolding as a woman, my emotional development, psychic development of the woman, change of the female psyche, and growing female soul
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 144; one-based PDF p. 146, coded entry `0455`, complete entry checked.
 
 #### Ebertin Entry
 
 A peculiar or strange soul life, a state of great emotional depression, inhibitions of the inner or spiritual evolution through the mother or wife. Emotional shocks and upheavals.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 41, complete Pluto paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A relentless desire to let go of lesser, petty and negative emotions so that one
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Plu` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Extreme and intense pressure to conform to mother’s rules about what you shoul
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Changes in personal emotional life, including development, intense feeling and pressure on self-development. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- psychology: Emotional shocks, inhibited inner growth and a strong wish to relinquish negative feelings are distinct possibilities. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: Witte names infirmity or unsteadiness and Ebertin emotional depression; these remain attributed claims, not a diagnosis or prediction. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- social/relationship: Mother/wife influence and intense responses to authority are represented, including pressure to conform to maternal roles. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Publicly related changes, emotional development and changes in self-projection are stated. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Growth, inhibition and imposed conformity are different outcomes; change is not automatically constructive or coercive.
 
 ## Contradictions
 
-- None recorded yet.
+ABC emphasizes development and growth, whereas Ebertin and Munkasey include inhibited development and pressure to conform. Sandbach describes working through intense emotions. These differences prevent a single assured account of empowerment or crisis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Pluto`: profound impact, crisis-tested nurturing or leadership, and the ability to move others deeply through presence and purpose. Main caution: emotional severity in the outer life: public feeling can become controlling, suspicious, or too intense to regulate easily.
+In `Moon/MC = Pluto`, changes reach personal feeling and the way one develops an inner identity. The [Witte entry](#witte-entry) includes changes affecting the mind and emotions, while the [ABC entry](#abc-entry) gives emotional development and growth. The [Ebertin](#ebertin-entry) and [Munkasey](#munkasey-entry) entries also describe inhibition or forceful maternal expectations, and the [Sandbach entry](#sandbach-entry) adds intense feelings toward authority and a wish to move beyond negative emotions. Development and pressure on development remain separate possibilities; the entries do not establish leadership, suspicion or an ability to control others.
 
 ## Links
 

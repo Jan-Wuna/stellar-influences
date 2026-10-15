@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md)
-- [Venus/MC = Uranus](../activations/venus-mc-equals-uranus.md)
-- [Venus/Uranus = MC](../activations/venus-uranus-equals-mc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Uranus/MC = Venus](../activations/uranus-mc-equals-venus.md) | [Uranus/MC](../axes/uranus-mc.md) | [Venus](../factors/venus.md) |
+| [Venus/MC = Uranus](../activations/venus-mc-equals-uranus.md) | [Venus/MC](../axes/venus-mc.md) | [Uranus](../factors/uranus.md) |
+| [Venus/Uranus = MC](../activations/venus-uranus-equals-mc.md) | [Venus/Uranus](../axes/venus-uranus.md) | [MC](../factors/mc.md) |
 
 ## Source Coverage
 
-- `Uranus/MC = Venus`: Michael, page `324`
-- `Venus/MC = Uranus`: Michael, page `220`
-- `Venus/Uranus = MC`: Michael, page `200`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Uranus/MC = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-mc-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-mc-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-mc-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-mc-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-mc-equals-venus.md#munkasey-entry), printed p. `324`.
+- `Venus/MC = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mc-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mc-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-mc-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-mc-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-mc-equals-uranus.md#munkasey-entry), printed p. `220`.
+- `Venus/Uranus = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-uranus-equals-mc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-uranus-equals-mc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-uranus-equals-mc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-uranus-equals-mc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-uranus-equals-mc.md#munkasey-entry), printed p. `200`.
+
+Locator limitation: Venus/Uranus = MC still supplies Sandbach PDF p. 60 as a chapter-start reference. Uranus/MC = Venus and Venus/MC = Uranus now have checked exact Sandbach entry locators on their linked pages.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

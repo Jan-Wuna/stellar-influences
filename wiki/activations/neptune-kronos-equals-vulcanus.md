@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Vulcanus`
 - Astronomicon formula: `Y/¤ = §`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Mighty deception through incompetent leadership. Diplomacy of a great power.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `399`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Power uncertainty of the state, special energy of the world, great unknown energy, great uncertainty in the air, power weakness of the state, state air power, uncertainty by great violence, pre exchange of great strong, and important subtle influence
+Uncertainty about state power, special energy of water, great unknown energy, great uncertainty in the air, weakness of state power, state air power, uncertainty through great violence, pretending great strength, and important subtle influence
+
+## Comparative Schema
+
+- core meaning: powerful deception or diplomacy, alongside uncertainty about strength and state power.
+- psychology: pretended strength and uncertainty through violence are ABC themes.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: incompetent leadership, a great power, and the state are explicit settings.
+- events/manifestations: diplomacy, state air power, water energy, and subtle influence are stated.
+- conflicts/notes: great-power diplomacy is not automatically incompetent or deceptive; unknown energy is not a defined mechanism.
+
+## Contradictions
+
+Witte includes both deception through failed leadership and diplomacy. ABC's pretended strength qualifies appearances of power without making all state power fraudulent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Vulcanus`: Mighty deception through incompetent leadership. Diplomacy of a great power.
-- Practical focus: intensifies compromised authority into powerful deception, combining great-power diplomacy with the forceful consequences of incompetent or misleading leadership.
-- Practical expression: power uncertainty of the state, special energy of the world, great unknown energy, great uncertainty in the air, and power weakness of the state.
+In Neptune/Kronos = Vulcanus, Vulcanus specifies the pair through the exercise or appearance of power. The [Witte entry](#witte-entry) gives mighty deception through incompetent leadership and diplomacy of a great power; [ABC](#abc-entry) adds state-power weakness, uncertainty, and pretended strength (printed p. 399, PDF p. 198). Water energy, state air power, and subtle influence are separate examples. These distinguish apparent strength from effective power without making diplomacy inherently deceptive or supplying a mechanism for unknown energy.
 
 ## Links
 

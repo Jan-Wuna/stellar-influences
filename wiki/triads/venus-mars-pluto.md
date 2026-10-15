@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md)
-- [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md)
-- [Venus/Pluto = Mars](../activations/venus-pluto-equals-mars.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Pluto = Venus](../activations/mars-pluto-equals-venus.md) | [Mars/Pluto](../axes/mars-pluto.md) | [Venus](../factors/venus.md) |
+| [Venus/Mars = Pluto](../activations/venus-mars-equals-pluto.md) | [Venus/Mars](../axes/venus-mars.md) | [Pluto](../factors/pluto.md) |
+| [Venus/Pluto = Mars](../activations/venus-pluto-equals-mars.md) | [Venus/Pluto](../axes/venus-pluto.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Mars/Pluto = Venus`: Michael, page `240`
-- `Venus/Mars = Pluto`: Michael, page `188`
-- `Venus/Pluto = Mars`: Michael, page `208`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Mars/Pluto = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-pluto-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-pluto-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/mars-pluto-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mars-pluto-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mars-pluto-equals-venus.md#munkasey-entry), printed p. `240`.
+- `Venus/Mars = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-mars-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-mars-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-mars-equals-pluto.md#munkasey-entry), printed p. `188`.
+- `Venus/Pluto = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-mars.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-mars.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-pluto-equals-mars.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-pluto-equals-mars.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-pluto-equals-mars.md#munkasey-entry), printed p. `208`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

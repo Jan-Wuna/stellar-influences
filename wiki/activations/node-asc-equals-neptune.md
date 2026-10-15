@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Neptune`
 - Astronomicon formula: `g/Asc = Y`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 To be wrongly connected. Dissolving of connections, being deceived and kept in uncertainty by them. Misconceptions about relationships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `105`, PDF p. `51` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Dissolution of a partner relationship, sensitivity in the connection to the part
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `301–302`, PDF p. `303–304`, entry code `1091`.
+
 #### Ebertin Entry
 
 Emotional inhibitions or wrong impressions and perceptions. Weakening and termination of associations or unions caused through lies and deceitfulness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `120` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,30 +72,31 @@ The ability to see the subtleties of how one’s identity has been formed by one
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356`, PDF p. `357` (entry).
 
 #### Munkasey Entry
 
 Receiving inspiration from friends and associates who share similar goals and interests; encountering people who unable to follow thru with work promised at prior meetings; dissolving your ties or friendships to others.
 
+The wording 'people who unable' is printed in Munkasey's source (printed p. 356, PDF p. 357) and is retained here.
+
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: uncertain or dissolving connections beside sensitivity and shared inspiration.
+- psychology: wrong perceptions, emotional inhibition and intuitive self-understanding are distinct source emphases.
+- body/health: the entries supply no specific medical condition.
+- social/relationship: deception, unfulfilled work promises and friendships ending are named.
+- events/manifestations: shared-goal inspiration, air connections and metaphysical surroundings are specific examples.
+- conflicts/notes: intuition or inspiration is attributed without guaranteeing accurate knowledge of another person.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize mistaken or deceptive connections. Munkasey also allows inspiration from friends, while Sandbach describes spiritual self-understanding; the entries do not make every sensitive tie deceptive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Neptune`: compassionate rapport, intuitive social reading, and the ability to connect through gentleness or shared feeling. Main caution: blurred identity in contact: ties can become deceptive, draining, or too vague to support clear personal boundaries.
+Node/Asc = Neptune concerns uncertainty in connections and the impressions formed through them. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name misconception, deception and dissolving ties; [ABC](#abc-entry) adds partner sensitivity and uncertain local contact. [Munkasey](#munkasey-entry) also describes inspiration from friends who share goals, while [Sandbach](#sandbach-entry) frames intuition as a way of understanding one's own identity and past (PDF p. 120). The range includes inspiration and mistaken contact, without assuming that intuition accurately reads others or that every tie is draining.
 
 ## Links
 

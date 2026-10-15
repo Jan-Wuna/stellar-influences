@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Zeus`
 - Astronomicon formula: `Y/¨ = £`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Mental creation out of a false concept. To try in vain to pretend.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `407`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Effortful exchange of truth, beginning of reason weakness, spiritual movement, mental future shaping, clear movement through intuition, weak mental effort, sensitization of spiritual goals, and unclear movement ideas
+Strenuous pretence of truth, beginning weakness of reason, pretending leadership of mind, shaping the future of mind, clear leadership through intuition, weak efforts of mind, sensitization of mental goals, and unclear leadership ideas
+
+## Comparative Schema
+
+- core meaning: creation or direction based on ideas whose truth or clarity is uncertain.
+- psychology: weak reasoning, strenuous pretence, and unclear leadership ideas are explicit.
+- body/health: no bodily or health claim is supplied.
+- social/relationship: pretended leadership and clear intuitive leadership are contrasting source expressions.
+- events/manifestations: mental creation, future shaping, and attempts to pretend are named.
+- conflicts/notes: Witte's vain pretence and ABC's possible clear direction remain distinct; imaginative production is not automatically false.
+
+## Contradictions
+
+Witte emphasizes creation from a false concept and failed pretence. ABC includes clear intuitive leadership alongside pretended leadership, weak effort, and unclear aims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Zeus`: Mental creation out of a false concept. To try in vain to pretend.
-- Practical focus: subtle mentality is directed into conceptual production, but with strain around truthfulness or realism. It can show imaginative ideation, mental fabrication, or determined effort spent sustaining a mistaken premise or pretense.
-- Practical expression: effortful exchange of truth, beginning of reason weakness, spiritual movement, mental future shaping, and clear movement through intuition.
+In Neptune/Poseidon = Zeus, ideas are used to create or direct, but their premises may be false or unclear. [Witte](#witte-entry) names mental creation from a false concept and vain pretence; [ABC](#abc-entry) adds pretended leadership and unclear leadership ideas while also allowing clear direction through intuition (printed p. 407, PDF p. 202). The contrast concerns the basis and clarity of direction, without making every imaginative act a fabrication.
 
 ## Links
 

@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Sun/Asc = Uranus](../activations/sun-asc-equals-uranus.md)
-- [Sun/Uranus = Asc](../activations/sun-uranus-equals-asc.md)
-- [Uranus/Asc = Sun](../activations/uranus-asc-equals-sun.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Asc = Uranus](../activations/sun-asc-equals-uranus.md) | [Sun/Asc](../axes/sun-asc.md) | [Uranus](../factors/uranus.md) |
+| [Sun/Uranus = Asc](../activations/sun-uranus-equals-asc.md) | [Sun/Uranus](../axes/sun-uranus.md) | [Asc](../factors/asc.md) |
+| [Uranus/Asc = Sun](../activations/uranus-asc-equals-sun.md) | [Uranus/Asc](../axes/uranus-asc.md) | [Sun](../factors/sun.md) |
 
 ## Source Coverage
 
-- `Sun/Asc = Uranus`: Michael, page `96`
-- `Sun/Uranus = Asc`: Michael, page `80`
-- `Uranus/Asc = Sun`: Michael, page `320`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Sun/Asc = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-asc-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-asc-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-asc-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-asc-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-asc-equals-uranus.md#munkasey-entry), printed p. `96`.
+- `Sun/Uranus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-uranus-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-uranus-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-uranus-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-uranus-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-uranus-equals-asc.md#munkasey-entry), printed p. `80`.
+- `Uranus/Asc = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-asc-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-asc-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-asc-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-asc-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-asc-equals-sun.md#munkasey-entry), printed p. `320`.
+
+Coverage limitation: Uranus/Asc = Sun retains ABC's historical male-partner examples; they do not restrict the orientation to men.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

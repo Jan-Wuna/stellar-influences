@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Hades Apollon](../triads/mars-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ To gather with many lowbrow people, with serving people or soldiers. Trade activ
 
 #### ABC Entry
 
-Extending the lack of work, difficult work of science, adverse experiences at work, hidden emulations of science, vie! Dirt at work, treating science crime, and increasing work from the past
+Expansion of the lack of work, difficult scientific work, adverse experiences at work, hidden scientific efforts, much dirt at work, addressing crime in science, and increasing work from the past.
+
+- Source reference: printed p. 311, PDF p. 154, Apollon row; `verborgene Bemühungen` means hidden efforts and `viel Schmutz` means much dirt.
+
+## Comparative Schema
+
+- core meaning: Difficult work extends into broader gatherings, trade, history or science.
+- psychology: No distinct individual attitude is specified.
+- body/health: No specific bodily condition is stated.
+- social/relationship: Witte names gatherings with service workers and soldiers, using historical class judgments.
+- events/manifestations: Trade, historical/scientific work, increasing shortages and addressing crime in science are explicit.
+- conflicts/notes: Witte's “lowbrow” label is attributed source language; the entry does not establish low standards for everyone in those occupations.
+
+## Contradictions
+
+Witte includes trade, historical and scientific activity; ABC emphasizes its difficulties and hidden work. Different emphases do not establish that every such activity is degraded.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Apollon`: expansion of difficult service into collective or commercial settings, where rough environments and low standards spread across many people.
+Apollon specifies the Mars/Hades axis through a broader field of difficult work and association. Trade, historical or scientific activity in [Witte](#witte-entry) connects with difficult scientific work, hidden efforts and increasing work from the past in [ABC](#abc-entry). ABC also retains spreading work shortages and adverse experience. Witte's class-based labels remain historical wording; they do not justify describing all service workers, soldiers or researchers as having low standards.
+
+Evidence: Witte PDF p. 198; ABC printed p. 311, PDF p. 154.
 
 ## Links
 

@@ -19,7 +19,7 @@ factors:
 aliases:
   - Aren Ober - Midpoint Interpretation
 source_pages: []
-updated_at: 2026-06-20
+updated_at: 2026-10-15
 ---
 
 ## Bibliographic Metadata
@@ -29,7 +29,11 @@ updated_at: 2026-06-20
 - Edition: 2nd edition
 - Reference PDF: `W:/books references etc/!master list astro/midpoints - Aren Ober - Midpoint Interpretation.pdf`
 
+The cover (one-based PDF p. 1) confirms Aren Ober, *Midpoint Interpretation Simplified*, **2nd Edition**. The next leaf is the preface, printed p. iii (PDF p. 2); the available opening leaves supply no publisher or publication year for this second edition. Those two details remain unidentified in the local copy.
+
 ## Scope Notes
+
+Current wiki attribution, checked 2026-10-15: 0 factor pages, 2 axis pages, 14 activation pages and 13 structural triad hubs. Hub counts follow the union of their linked activation sources; they add no merged interpretation.
 
 - Inspected PDF pages `1-12`, `95-105`, `116-118`, and `126-131`.
 - Admitted only reusable chapter 8 midpoint-calculation examples that map directly to existing axis and activation page types.
@@ -37,6 +41,8 @@ updated_at: 2026-06-20
 - Skipped chapter 6 case-study material from pages `95-100`, including the Flying Bank Robber chart narrative and case-bound at-a-glance examples.
 - Skipped chapter 7 pages `101-105` because they introduce forecasting by transits, solar arc directions, and secondary progressions.
 - Skipped Asc/MC, signs, houses, methods, timing layers, and case narrative. No new factor canon or page types were added.
+
+The inspected ranges are a review boundary, not a claim that every page in them was ingested. For delineation, use the linked axis and exact activation pages below; their Ober subentries retain the PDF locators. This catalog describes the bounded chapter 8 contribution rather than the book's full coverage.
 
 ## Axes Covered
 
@@ -62,11 +68,13 @@ updated_at: 2026-06-20
 
 ## Triad Hubs Covered
 
-- None updated. Ober's admitted chapter 8 examples are preserved as orientation-specific activation pages rather than merged into structural triad hubs.
+- Original ingest: no triad hubs were updated.
+- Current structural coverage: `13` hubs contain at least one of the `14` admitted activations. The linked orientations retain their separate meanings.
 
 ## Factors Covered
 
 - Participating factors in admitted entries: Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, and Node.
+- These are participants in the admitted formulas, not standalone Ober factor chapters in the wiki.
 
 ## Ingestion History
 

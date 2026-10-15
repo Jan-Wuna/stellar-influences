@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Jupiter Cupido`
 - Astronomicon triad-set: `VP V ¡`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Jupiter/Cupido = Vernal Point](../activations/jupiter-cupido-equals-vernal-point.md)
-- [Vernal Point/Cupido = Jupiter](../activations/vernal-point-cupido-equals-jupiter.md)
-- [Vernal Point/Jupiter = Cupido](../activations/vernal-point-jupiter-equals-cupido.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Jupiter/Cupido](../axes/jupiter-cupido.md) | `Vernal Point` | [Jupiter/Cupido = Vernal Point](../activations/jupiter-cupido-equals-vernal-point.md) |
+| [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | `Jupiter` | [Vernal Point/Cupido = Jupiter](../activations/vernal-point-cupido-equals-jupiter.md) |
+| [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md) | `Cupido` | [Vernal Point/Jupiter = Cupido](../activations/vernal-point-jupiter-equals-cupido.md) |
 
 ## Source Coverage
 
-- `Jupiter/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `332`
-- `Vernal Point/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `44`
-- `Vernal Point/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
-- `Vernal Point/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Jupiter/Cupido = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-cupido-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `211`.
+- `Jupiter/Cupido = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-cupido-equals-vernal-point.md#abc-entry), printed p. `332`.
+- `Vernal Point/Cupido = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-cupido-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `48`.
+- `Vernal Point/Cupido = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-cupido-equals-jupiter.md#abc-entry), printed p. `44`.
+- `Vernal Point/Jupiter = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-jupiter-equals-cupido.md#witte-entry), one-based PDF entry-start p. `43`.
+- `Vernal Point/Jupiter = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-jupiter-equals-cupido.md#abc-entry), printed p. `35`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Vernal Point`: being happily related to the public and belonging to a contented artistic or communal body.
-- `Vernal Point/Cupido = Jupiter`: This formula emphasizes banks and financial institutions.
-- `Vernal Point/Jupiter = Cupido`: This formula emphasizes happiness in married life.
+Use the orientation whose base pair and activating factor match the requested formula. `Jupiter/Cupido = Vernal Point` activates `Jupiter/Cupido` with `Vernal Point`; it is distinct from `Vernal Point/Cupido = Jupiter` and `Vernal Point/Jupiter = Cupido`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

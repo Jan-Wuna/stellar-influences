@@ -1,0 +1,484 @@
+{
+  "scope": "All20 Pluto/Hades original/current whole source sections and unique owner records independently read. Only two locator lines added per section. Actual Witte258 and ABC204 personally viewed per glyph row;19 locator-only approvals expressly exclude inherited prose defects,1 materially corrupt Moon row held.",
+  "proof": [
+    {
+      "path": "wiki/activations/pluto-hades-equals-admetos.md",
+      "before_sha256": "69cabcae22eb31b1efdb534bdeaa1235270751ad8e02d28b1d48d1ed0bb1b191",
+      "after_sha256": "e21d60c5d5850680814d78224b64f01aed4cfa2fcd2511477b1b857037e31e5c",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 33,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nFirst symptoms of a deep seated transformation. Changes which first are called off a few times, until they succeed.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nBlocked development from the past, depression due to poor developments, restriction due to secret changes, dangerous development cycle, grild changes in old age, and deepening in developments from the past",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Deep change that encounters blockage or repeated postponement.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.411/PDF204: 'grild changes in old age' is damaged against grilndliche (OCR); excluded pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-apollon.md",
+      "before_sha256": "dc0b5ca3936a78ce33387052363a240331645cc9de7a551ba17c4c8aa17e342c",
+      "after_sha256": "34c5a2a30b994dddf0f05d12ea3056efa1d85bb32196530103008377faa78bf8",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 34,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nAn evil development which starts very small, grows and grows bigger.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nSuccessful developments from the past, poor development of knowledge, adverse changes in trade, extensive changes in old age, vie! changes under deprivation, and changes through experiences from the past",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "An expanding harmful development, alongside changes informed by the past.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.411/PDF204: 'vie! changes under deprivation' retains OCR damage and is excluded pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-asc.md",
+      "before_sha256": "345a42046c093f0bf2c7bb058c5ad393e17c9c169f078e74129653745cf256a1",
+      "after_sha256": "42f1bef2386b860ffdf9612ec98dd6620b61354ca3a216ef6849b2a56c2cf8bf",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 35,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nOthers withdraw from an association because of inability. Dealing with people who cannot cope with the appearing difficulties, who fail in the struggle for life.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDevelopments from the past of a place, difficult environmental development, poor partner development, adverse changes in the place, change of partner in old age, hidden change of partner bcim, and renunciation of local changes",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Difficult change in immediate relations and surroundings.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.410/PDF204: 'hidden change of partner bcim' is grammatically damaged; not used to infer changing partners pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-cupido.md",
+      "before_sha256": "361a6152a49a73c519df65a06a8913027541117737fb1f4de0709f04e4025214",
+      "after_sha256": "070004311e83715af220917fc5f13f40e93ed25627fe4f9f22e209c4691ba027",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 36,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nIncapable of marriage. Marriages and partnerships of short duration. Marriage prevented through poverty and shortage. Decrease of members in clubs.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nDevelopments from a common past, common dangerous development, common change in old age, secret change in of a community, poor common development, and adverse change in of a community",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Collective ties strained by deprivation or adverse change.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-jupiter.md",
+      "before_sha256": "03304d27ff71c2ced25c39c561ac7d4a0ca57a54fd628909c3e7edd0f4a0d8f6",
+      "after_sha256": "cb69f1aa4b6756a1fe1b33afbbc5054723531ba3cf7b250e41a954b60afc0563",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 37,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nFictitious luck. Evil things are palliated. Decline of fortune and welfare.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nSuccessful developments from the past, joy about hidden changes, mysterious money development, happiness development in old age, poor money growth, adverse legal development, and growing financial crime",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Apparent benefit or declining welfare, with some constructive past-based developments.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-kronos.md",
+      "before_sha256": "808d5ae1ffc0ce1aab91504f82b939ffe424329b3c558550f6f17f580d04de00",
+      "after_sha256": "004ea400df545640f2d2da1f5f5e89d942389d62e2dcd83323d3394fb810c0b7",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 38,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nThe incompetent chief or boss. Failure of leadership. Incompetent government. Growing dissatisfaction with the government. Bad relation to the chief or to the government.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nSpecial development from the past, great change in old age, poor development of the state, adverse development of reputation, adverse changes for self employed, self conscious development in old age, and hidden changes in the state",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Troubled leadership, state development, or reputation.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mars.md",
+      "before_sha256": "17f24697ec5ff023b1c40b6eccebf3ae2cb8aef6c9f132b212d83e9662d7ce3a",
+      "after_sha256": "baa26b399cfd199f25c989d1eb7e8de8e75695844df3f445b4090d89a74fd605",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 39,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nCorrupt and degenerate and devilish plans and manipulations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDangerous developmental impulses, poor developmental work, adverse change in work, adverse changes in work, abandoning developmental activity, developing power in old age, and growing criminal activity",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Dangerous, poor, or corrupt activity during development.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mc.md",
+      "before_sha256": "05fc00406b29513f58065838e73f8d1191250a0d89dc4d1f4b39ab54f07dbdf2",
+      "after_sha256": "2bb6a3ded528a9387b48d7b743c190cc6df933ade9b04fac42a554326fd950b1",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 40,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nPersonal failure to act. To be unreliable or dishonest. Never get on in the world. To experience a decline. Decadence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDevelopment from my past, my development in service, my dangerous development, my poor development, my changes in old age, my growing deprivations, I grow by renunciation, and hidden soul en growth",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Personal involvement in difficult development or decline.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.410/PDF204: 'hidden soul en growth' is split/garbled; not used for a finer psychological claim pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mercury.md",
+      "before_sha256": "fd4f6527425bb494984217f31c86de9ce53339e3a9d999bd7f72129fbeee09f7",
+      "after_sha256": "182a5054828ac5ec58479f30274419584f5e6a9074b6a5e47289e23132896183",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 41,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nIn a melancholy mood, depressed. To think about grievances. Talk about the situation which is changing for the worse. Pessimism. Error.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nReports of dangerous developments, language about developments of the past, difficult youth development, secret thoughts of changes, adverse traffic development, news about hidden changes, and growing youth crime",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Thought and communication concerning grievance or adverse change.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-moon.md",
+      "before_sha256": "2a7f836431572404a011e68d70117d0126d52c31a50a4370c22b26b35a77de52",
+      "after_sha256": "994db744094ec7731778314f1b9b310783e56ce019d6d3d4663349100dfbe21b",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 42,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nPersons unreliable. Decline of people. People without discipline and order, excited about a nuisance, rebelling against corruption.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDangerous change of a woman, developments from the past of a people, inadequate development of a society, changes for an old woman, and growing vegetable deficiency",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Difficult collective conditions and reactions against corruption.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.410/PDF204: 'inadequate development of a society' vs Gefuhls-Entwicklung; 'growing vegetable deficiency' vs Gefuhls-Mangel; hidden Gemuts changes omitted. Raw scan needed; damaged claims excluded."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "material_hold",
+      "finding": "Actual ABC204/printed410 Moon row has six clauses: dangerous change of a woman, developments from a people's past, deficient emotional development, changes for an older woman, hidden changes of disposition, growing emotional deficiency. Current source substitutes society, omits hidden mood changes, and invents growing vegetable deficiency. Material source corruption remains; locator accuracy does not justify allowance."
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-neptune.md",
+      "before_sha256": "39f8198ae90e399a7af157ce75dc122138822df5acb7a57aca717c33966bba2a",
+      "after_sha256": "0477b1f43e923d07a852dc68e5cbd53984a936514c58b419797e46d1064fc718",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 43,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nTo get slowly, unnoticeable and irresistibly into an evil situation. Sneaking crisis of the most evil kind. Going down. Break down. Deterioration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nRisk of exchange in a development, poor air change, adverse change of the water, dirty water old age, uncertain development from the past, changes due to age weakness, and growing weak danger see above",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Gradual, difficult-to-notice deterioration.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.411/PDF204: 'Risk of exchange' vs Tauschung; 'dirty water old age' vs schmutziges Wasser verandern; 'see above' referent unresolved. Excluded pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-node.md",
+      "before_sha256": "7ba8465aa7ccef9450346527329bd645a231035ef6a98fa2582b4bc2603172a0",
+      "after_sha256": "b884ee4942945da9419c513fe208e2ed9be6ff76f7c9d646fd4630fe66efeec9",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 44,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nConnection with persons who disappoint, who fall short of expectations. The same with things. To be connected with untenable things. Eager for or thinking about remedial measures.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDevelopment of a connection from the past, dangerous development in a connection, development of secret connections, alteration of a connection under deprivation, and renunciation of connection changes",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Connections burdened by disappointment, danger, or untenable circumstances.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-poseidon.md",
+      "before_sha256": "01f9443e76b8540eb41ae5d8dd3c0d0e621ee074bab23f74a40b17cc7f146756",
+      "after_sha256": "da10395e67b2273bfcff9377a6445bce0104052c3bdf81e2fdd969de67e76e7c",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 45,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nTo despair as far as belief and good are concerned. To be without a backbone in worlds concept. Deterioration of faith.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nOld cultural development, spiritual change under deprivation, dangerous change in truth, defective spiritual development, adverse cultural development, hidden spiritual development, and renunciation of a clear development",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Strained faith, worldview, or cultural development.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-saturn.md",
+      "before_sha256": "79c3fcbe6057ba6a9afa592d015755eff267433ddce61a6cc9acdeb659ef9075",
+      "after_sha256": "ee084ea5195ad5fab49157c2d41886b8f313eb6c323d10eb201a14c9ca4200eb",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 46,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nGrievances which cannot be removed for a long time. A bad situation grows worse.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nDevelopments under deprivation and pain, patience despite lack of development, developing dangerous tasks, slow developments in old age, problems caused by secret changes, and losses caused by growing criminality",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Persistent hardship and slow or obstructed development.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-sun.md",
+      "before_sha256": "59de57ba8ecdbaafc92dd893aee76d51cccf74a30a6431d5bee7047121d11650",
+      "after_sha256": "7d02d621b6b02012ce136d0d7a6397b086dd59abeb5009b6ce4d7cc2e899225d",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 47,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nThe man who physically fails, whose body is deteriorating. Chronic disease.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDangerous development of a man, corporal changes in old age, defective corporal development, adverse personal changes, hidden corporal changes, hidden center development, and growing personal danger",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Adverse physical or personal development.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-uranus.md",
+      "before_sha256": "66b41e8177d5f173778bb062f9f14d8bc4221c6c52d287b2cef51b46e1355f0c",
+      "after_sha256": "e2fb207fa31ad61c4fa797d1af910314c16fe1f92c7c3e38c085c83281d05d95",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 48,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nSuddenly experiencing difficulties and hindrances. To be suddenly hard pressed. To get surprisingly into a bad situation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nExciting development of criminality, secret reform developments, lack of dynamism of development, new adverse development, sudden development from the past, surprising development in old age, and renunciation of sudden change",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Sudden difficulty or adverse change.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-venus.md",
+      "before_sha256": "0f22da8dee980fb77b1b2ad181adc3bad4b2b494d714dca91dae5aceafb757cf",
+      "after_sha256": "6e2c8a75a6b43a8efd59be7c01971842547a1bb5106144785d9a7d5c70a9e982",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 49,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nUnreliable in love. Faked affections. Decline of morals.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nHarmonic development from the past, joy in love service, poor peace development, adverse development of love, growing harmony in old age, growing love in secret, and growing beauty through deprivation",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Difficult affection alongside harmony developing under limitation.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+      "before_sha256": "ba5548b45aa3000c4170d7996f4d974fd801bb3e635938ca737932c230e4e36c",
+      "after_sha256": "0fbd197f8a6399fec56670f9514dccb830e493f675f71316058353236afd0287",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 50,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nSymptoms of deterioration and decadence. General decline. General break down.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nDangerous developments in the public life, adverse changes to the public, major changes in the public life, changes in the public from the past, and increasing criminality in the public",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 410; PDF page 204."
+      ],
+      "owner_changes": [
+        "Deterioration in wider public conditions.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.410/PDF204: 'major changes in public life' appears against verborgene Wandlungen; scale is not asserted from this mistranslation pending raw scan."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+      "before_sha256": "e655812292a180b471217115dfb48015478b5b7ed59d7cf5fb970d7456e587cb",
+      "after_sha256": "f76a441a5b1bb4eff02d9e418855395aad52ef9a5416c69ce18bfa5d9aee1e2a",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 51,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nA misfortune rarely comes along. Everything goes wrong. Going down at a rapid pace, in giant strides. Mighty deterioration of the situation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nInfluenced developments from the past, difficult change of power, dangerous development of power, huge changes under deprivation, adverse powerChanges, and growing criminal influence",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Rapid or forceful worsening of conditions.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "Witte PDF258 entry-start: 'A misfortune rarely comes along' may be damaged idiom; not silently corrected or used independently."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-zeus.md",
+      "before_sha256": "d652b9292cec8bd6fe44cf17db15c123a748c06f0a53ba439d23eeabf5e42098",
+      "after_sha256": "29818dc39fd75346793ce4ff936884553bea070e28f43d1c96adbd10a21533bf",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 52,
+      "prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nTo make efforts in vain. Useless efforts, wasted strength.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 411; PDF page 204.\n\n#### ABC Entry\n\nBeginning of dangerous developments, secret changes in direction, criminal developments in the financial system, poor efforts for development, changes in direction in old age, and creative developments from the past",
+      "added_metadata": [
+        "- Source locator: PDF page 258 (one-based; entry start).",
+        "- Source locator: Printed page 411; PDF page 204."
+      ],
+      "owner_changes": [
+        "Misapplied or fruitless effort within difficult development.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity."
+      ],
+      "owner_unresolved": [
+        "ABC p.411/PDF204: 'criminal developments in the financial system' appears against kriminelle Entwicklungen in der Fuhrung (OCR); no raw scan repair."
+      ],
+      "owner_full_read": true,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted"
+    }
+  ]
+}

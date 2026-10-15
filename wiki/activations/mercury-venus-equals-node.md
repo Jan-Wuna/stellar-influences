@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus Node](../triads/mercury-venus-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Talent for sociability. To flirt. Acquaintances by greeting them. Superficial ac
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 240; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Communicating harmony through language, harmony through language connections, young love connection, contacts to female youth, associated with media arts, gentle words in connections, and connection with youth love
+Conveying harmony through conversations, harmony through language connections, a young love connection, contacts with young women, connected with media art, beautiful words in relationships, connection with youthful love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 147 (coded entry 0467); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ Sociable, love of artistic events and entertainment. An association with artists
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 42 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 Connecting with others who appreciate one’s ideas. One finds it easy to be flexible when connecting with others and through one’s words to put them at ease. One is learning in this lifetime to communicate one’s truest and deepest values rather than being content with merely superficial or easy ways of thinking and communicating.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Increased ability to attract others into your life for romance and love; an enco
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Affectionate and artistic communication becomes a means of association.
+- psychology: Flexibility and the wish to express deeper values are explicit in Sandbach.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Flirtation, acquaintances, artistic groups and romantic kinship recur.
+- events/manifestations: Art dealings, introductions and stimulating exchanges of ideas are examples.
+- conflicts/notes: Witte's superficial contact and Sandbach's deeper-values emphasis describe a range of engagement, not incompatible identities.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's superficial contact and Sandbach's deeper-values emphasis describe a range of engagement, not incompatible identities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Node`: easy rapport, charming networking, and the ability to create social cohesion through tactful expression. Main caution: people-pleasing: connection can stay pleasant but shallow, avoiding harder truth or depth.
+In `Mercury/Venus = Node`, Node specifies affectionate or artistic expression through association and agreeable exchange. Greetings, flirtation and sociable manners can bring new acquaintances; shared art, entertainment or media interests provide another setting, while romantic meetings and kinship give contact an affectionate focus. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry))
+
+Easy, flexible words can put others at ease and convey harmony. Sandbach also asks that communication express one's deepest values, qualifying a range that includes Witte's superficial acquaintances rather than treating every pleasant contact as deep. ([Sandbach](#sandbach-entry); [Witte](#witte-entry))
 
 ## Links
 

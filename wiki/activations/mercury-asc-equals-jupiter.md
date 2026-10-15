@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Jupiter Asc](../triads/mercury-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Ascendant + Mercury,” Jupiter entry, PDF p. 83.
 
 To enjoy a good reputation. To be well thought of by others. To be hilarious with others.
 
@@ -45,11 +49,15 @@ To enjoy a good reputation. To be well thought of by others. To be hilarious wit
 
 #### ABC Entry
 
-Freuden Messricht vom partner, gratifying language on the spot, talking to the partner about money, just thinking of the other, happy language with the partner, happy environment in the youth, and advantages by language partners
+Source: “Aszendent + Merkur,” Jupiter entry, printed p. 106 / PDF p. 52. Translation checked against the German passage.
+
+Joyful news from the partner, joyful conversations at the place, conversations with the partner about money, fair thinking by the other person, happy conversations with the partner, happy surroundings in youth, advantages through conversation partners.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mercury/Ascendant,” printed p. 170 / PDF p. 172, entry 0559.
 
 Sociable, lively exchange of ideas and trends of thoughts, cheerful, desire to participate in pleasurable entertainments. Successful conferences or discussion, negotiations, transactions.
 
@@ -57,12 +65,14 @@ Sociable, lively exchange of ideas and trends of thoughts, cheerful, desire to p
 
 #### Sandbach Entry
 
+Source: “Planets activating the Mercury/Ascendant midpoint,” Jupiter entry, PDF p. 53 (complete entry; chapter starts on p. 52).
+
 Sharing ideas with others leads to success, in that one gives and gets lots of good support. Too much sharing of ideas with other people, possibly because one does it instead of taking action. Also, the tendency to share lots of random ideas with others that may lead nowhere, and so a need to select out valuable ideas that are ex changed with others rather than allowing them to get lost in a sea of information.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source page (printed): `180` · PDF page: `181`
 
 #### Munkasey Entry
 
@@ -70,22 +80,23 @@ Increased need for social contacts; observing or evaluating others for their pol
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sociable, supportive communication and beneficial discussion or negotiation.
+- psychology: Cheerfulness, interest in others' motives, and selecting useful ideas from abundant exchange.
+- body/health: No distinct bodily or medical effect is supplied.
+- social/relationship: Good reputation, mutual support, increased social contacts, and evaluating others' potential.
+- events/manifestations: Successful conferences, negotiations or transactions; joyful news and money discussions with a partner.
+- conflicts/notes: Sandbach allows exchange to substitute for action or scatter ideas; Munkasey's evaluation of contacts adds an instrumental motive alongside generosity.
 
 ## Contradictions
 
-- None recorded yet.
+Favorable exchange and reputation coexist with Sandbach's qualified possibility of excessive or unfocused sharing. Munkasey's attention to personal or political usefulness adds a different motive for sociability, without directly contradicting mutual support.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Jupiter`: popularity in speech, successful negotiation, optimism about people, and a reputation helped by communication. Main caution: verbal excess: too much talking, too many scattered ideas, or sociability that substitutes discussion for decisive action.
+In `Mercury/Asc = Jupiter`, Jupiter specifies communication with others and the immediate surroundings through sociability, support and favorable exchange. Good reputation and shared amusement in Witte meet Ebertin's lively discussion and successful negotiations; ABC adds joyful partner news, fair thinking and advantages through conversation. Sandbach describes support flowing both ways, while Munkasey includes curiosity about motives and the personal or political usefulness of contacts. ([Witte](#witte-entry), PDF p. 83; [ABC](#abc-entry), printed p. 106 / PDF p. 52; [Ebertin](#ebertin-entry), printed p. 170, entry 0559; [Sandbach](#sandbach-entry), PDF p. 53; [Munkasey](#munkasey-entry), printed p. 180)
+
+The same abundance of exchange may, in Sandbach's conditional account, replace action or scatter useful ideas among random ones. Selecting what is valuable keeps that qualification beside the supportive possibilities, without making every sociable exchange excessive. ([Sandbach](#sandbach-entry), PDF p. 53)
 
 ## Links
 

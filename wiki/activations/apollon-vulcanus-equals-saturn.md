@@ -20,12 +20,13 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Formula: `Apollon/Vulcanus = Saturn`
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 - Astronomicon formula: `¥/§ = W`
 - Axis page: [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
 - Triad hub: [Saturn Apollon Vulcanus](../triads/saturn-apollon-vulcanus.md)
@@ -36,18 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 307, exact row checked on the scan.
+
 Failures, hindrances and passing interruption of success and great expansion. Decrease in prosperity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Stresses caused by increasing violence, successful influence/3 in old age, influence/3 expansion due to empathy, force increase due to concentration, pain due to experience of violence, loss of energy trade, and loss of power expansion
+Source locator: printed p. 471, one-based PDF p. 234, exact row checked on the scan.
+
+Burdens caused by increasing violence, successful influence in old age, expansion of influence through seriousness, increased strength through concentration, pain through experiences of violence, loss-making energy trade, and loss-making expansion of power.
+
+Translation repair: Ernsthaftigkeit is seriousness, not empathy; verlustreicher Energie-Handel and verlustreiche Macht-Ausdehnung describe loss-making activities rather than their disappearance. Stray /3 OCR was removed. Checked against the scan at the locator above.
+
+## Comparative Schema
+
+- Core meaning: Interrupted success and reduced prosperity, with some gains through seriousness and concentration ([Witte](#witte-entry), [ABC](#abc-entry)).
+- Psychology: Seriousness and concentration can increase influence or strength in ABC.
+- Body/health: ABC names pain through violence as a source claim, without specifying a diagnosis.
+- Social/relationship: Successful influence in old age and burdens from increasing violence.
+- Events/manifestations: Hindrances, passing interruption of expansion, and loss-making energy trade or power expansion.
+- Conflicts/notes: ABC's concentration and later-life influence retain favorable possibilities alongside losses.
+
+## Contradictions
+
+Witte emphasizes declining prosperity and interruption. ABC includes losses but also successful influence and gains through concentration; the difference is a broader range rather than proof of a universal reversal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Saturn`: interruption of growth, contraction after expansion, and periods when power cannot fully convert into result. Main caution: harsh reversal: strong expectations may meet equally strong obstruction, creating frustration or decline.
+In `Apollon/Vulcanus = Saturn`, Saturn specifies the axis through hindrance, interrupted expansion, and reduced prosperity. ABC makes the costs concrete as loss-making energy trade, loss-making expansion of power, and burdens or pain through violence. It also retains successful influence in old age and strength gained through concentration, so seriousness and focused effort are part of this entry alongside interruption and loss ([Witte](#witte-entry), PDF p. 307; [ABC](#abc-entry), printed p. 471).
 
 ## Links
 

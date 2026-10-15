@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Saturn Pluto Asc](../triads/saturn-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Separation from the environment. Changes of the place with difficulties. Isolati
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 121; PDF page 59.
+
 #### ABC Entry
 
 Patient partner development, slow environmental change, problematic partner change, transformation tasks of a place. Changes through separation from the partner, lossy location change, and growing responsibilities as a partner
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 295, entry 1065.
+
 #### Ebertin Entry
 
 Suffering from forcible suppression, being subjected to coercive measures. Emotional suffering caused through the sickness of other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 116 (one-based; chapter start only, not an exact formula locator).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ You appear more stern and unforgiving than you are; adds to an impression that y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Difficult or constrained change in one's environment and relationships.
+- psychology: Fear of personal power, resistance to identity change, or serious detachment.
+- body/health: Ebertin describes distress through others' illness, not a diagnosis of the subject.
+- social/relationship: Separation, isolation, coercion, or a stern appearance.
+- events/manifestations: Difficult relocation, slow partner development, and growing duties.
+- conflicts/notes: Organizing thought is also present; hardship is not the only expression.
 
 ## Contradictions
 
-- None recorded yet.
+The coercion described by Ebertin is more severe than Munkasey's stern appearance and mental organization. These are different ranges of expression, not equivalent outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Saturn`: toughness, self-mastery, and the ability to withstand difficult personal transformations. Main caution: hardening: self-presentation can become grim, defensive, or too identified with control, burden, and emotional shutdown.
+Saturn specifies Pluto/Asc through obstacles, separation, or restraint in change and contact. The [Witte](#witte-entry) and [ABC entries](#abc-entry) describe difficult moves and partner adjustments, while [Sandbach](#sandbach-entry) places the obstacle within fear of personal power or inability to release an old identity. [Munkasey](#munkasey-entry) adds a more contained expression: seriousness, aloofness, and organized thinking. Ebertin's coercion and distress through others' illness remain particular severe examples, not inevitable consequences.
 
 ## Links
 

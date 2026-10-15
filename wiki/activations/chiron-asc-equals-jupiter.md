@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,6 +28,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `Chiron/Asc = V`
 - Axis page: [Chiron/Asc](../axes/chiron-asc.md)
 - Triad hub: [Jupiter Chiron Asc](../triads/jupiter-chiron-asc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -37,10 +38,21 @@ updated_at: 2026-04-21
 
 Eagerness and enthusiasm to spiritualize one’s identity, and to encourage other to see themselves in more cosmic and eternal terms.
 
+Source reference: one-based PDF page 102, Jupiter paragraph under “Planets activating the Chiron/Ascendant midpoint.” PDF page 101 is the chapter start, not this paragraph's page. The actual source's awkward singular “other” is retained.
+
+## Comparative Schema
+
+- **Core meaning:** Enthusiastically placing one's identity in a spiritual, cosmic or eternal perspective and encouraging others to do the same.
+- **Psychology:** Eagerness and enthusiasm directed toward spiritual self-understanding.
+- **Body/health:** This paragraph supplies no bodily or clinical healing claim.
+- **Social/relationship:** Encouraging others to see themselves in cosmic and eternal terms.
+- **Events/manifestations:** The described activity is spiritual encouragement; no concrete event or profession is named.
+- **Conflicts/notes:** This is one source's spiritual account. The paragraph defines no cosmic mechanism and gives no grandiosity or overstatement alternative.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Jupiter`: hopeful identity healing, uplifting guidance, and a confidence that grows through spiritual perspective. Main caution: inflation: spiritual encouragement can become overstatement or a grandiose healing identity.
+`Chiron/Asc = Jupiter` describes enthusiasm for a spiritual understanding of identity that also becomes encouragement for others. In the [Sandbach entry](#sandbach-entry), one's own eagerness to spiritualize the self connects directly with helping other people view themselves in cosmic and eternal terms. The supported emphasis is expansive spiritual self-understanding and shared encouragement; the paragraph does not establish a clinical healing process or a grandiose identity.
 
 ## Links
 

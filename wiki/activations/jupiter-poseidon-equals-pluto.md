@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Poseidon = Pluto`
 - Astronomicon formula: `V/¨ = Z`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-P Happy development or reason, intelligence, wisdom and conscience.
+- Source reference: one-based PDF p. 218, Jupiter + Poseidon, Pluto row.
+
+Happy development or reason, intelligence, wisdom and conscience.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful cultural development, successful spiritual change, joy over gentle change, money for cultural development, developing legal ideas, developing spiritual joy, different legal culture, and beneficial cultural development
+- Source reference: printed p. 347; one-based PDF p. 172, Jupiter + Poseidon, Pluto row.
+
+Successful cultural development, successful intellectual or spiritual transformation, joy in reasonable changes, money for cultural development, developing legal ideas, developing intellectual or spiritual joy, changed legal culture, and advantageous cultural development.
+
+## Comparative Schema
+
+- Core meaning: Development of reason, understanding, and conscience ([Witte Entry](#witte-entry)).
+- Psychology: Wisdom and spiritual joy are presented as developing qualities.
+- Body/health: The entries establish no bodily or medical manifestation.
+- Social/relationship: Cultural and legal development are present; a specific interpersonal outcome is not.
+- Events/manifestations: Cultural funding, developing legal ideas, and spiritual change occur in the [ABC Entry](#abc-entry).
+- Conflicts/notes: ABC gives reasonable changes, not gentle change. Witte's leading P was an alternate Pluto glyph and is omitted from prose; the awkward “development or reason” is genuinely printed and retained.
+
+## Contradictions
+
+The cultural-development themes are compatible, but Witte's printed or remains grammatically awkward. It is not silently changed to of; ABC's reasonable changes do not promise gentle changes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Pluto`: inner truth becoming stronger over time. It favors profound moral development, expanding insight, and the successful transformation of understanding.
+In `Jupiter/Poseidon = Pluto`, Pluto gives the pair's reason and conscience a developmental form. The [Witte Entry](#witte-entry) concerns the happy development of intelligence and wisdom, while the [ABC Entry](#abc-entry) adds cultural development, spiritual change, funding, and legal ideas. The interpretation therefore includes both growing understanding and its cultural expression; it does not require the change to be gentle or exclusively inward.
 
 ## Links
 

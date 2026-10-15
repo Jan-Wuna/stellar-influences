@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Jupiter Zeus](../triads/mars-jupiter-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Successful generation, creation or deed. Sure shot. Success of military activities.
 
@@ -42,13 +46,27 @@ Successful generation, creation or deed. Sure shot. Success of military activiti
 
 #### ABC Entry
 
+Source: “Mars + Zeus,” printed p. 312 (PDF p. 155).
+
 Effortful legal actions, successful work performance, successful will effort, successful procreation will, start financial activities, joy in creative work, money through work performance, and good work performance
+
+## Comparative Schema
+
+- core meaning: Successful directed action, creation, and work achievement.
+- psychology: Joy in creative work and successful exertion of will.
+- body/health: Procreation is named, without a medical conclusion.
+- social/relationship: Legal actions, financial activity, and successful military action among the examples.
+- events/manifestations: Money through work, beginning financial activity, a sure shot, and successful creation.
+- conflicts/notes: Success is a source possibility; no timing or guaranteed outcome is supplied.
+
+## Contradictions
+
+Both entries emphasize successful action. ABC adds financial, legal, and creative-work settings to Witte's concise creation and military examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Jupiter` gives directed action success, accuracy, and fruitful accomplishment.
-- Chart expression: effective enterprise, successful deeds, productive creation, and confident execution that lands its mark in work, technique, or martial effort.
+In `Mars/Zeus = Jupiter`, Jupiter specifies directed and creative effort through successful deeds and satisfying work results. Witte names successful creation, a sure shot, and military success; ABC adds successful exertion of will, joy in creative work, and money earned through performance. Its legal actions and beginnings in financial activity keep the reading concrete, while success remains a source possibility rather than a promised outcome. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 312 / PDF p. 155)
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Kronos`
 - Astronomicon formula: `Y/¥ = ¤`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 Diplomatic deception. Great failure of leading persons. Authority in occult matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `401`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Spread of great uncertainty, authorship through metaphysical knowledge, successful subtle hierarchic, special intuitional successes, extensive leadership weakness, and pre exchange of self evident knowledge
+Spread of great uncertainty, authority through metaphysical knowledge, a successful subtle hierarchy, great metaphysical experiences, special intuitive successes, extensive weakness of leadership, and pretence of independent knowledge
+
+## Comparative Schema
+
+- core meaning: authority or leadership associated with occult knowledge, deception, or failure.
+- psychology: great uncertainty and claimed intuitive success are ABC themes.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: diplomacy, leading persons, occult authority, and a hierarchy are explicit examples.
+- events/manifestations: great leadership failure and pretended independent knowledge are stated.
+- conflicts/notes: metaphysical authority and intuition are source claims, not credentials that settle truth.
+
+## Contradictions
+
+The entries retain authority or claimed success alongside leadership weakness and deception. Prestige therefore does not resolve the uncertainty they describe.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Kronos`: Diplomatic deception. Great failure of leading persons. Authority in occult matters.
-- Practical focus: elevates `Neptune/Apollon` through diplomatic deception, high-level failure, and authority in hidden or occult matters. It shows large uncertainty or fraud operating from above, where leadership and prestige meet illusion, secrecy, or esoteric command.
-- Practical expression: spread of great uncertainty, authorship through metaphysical knowledge, successful subtle hierarchic, special intuitional successes, and extensive leadership weakness.
+In Neptune/Apollon = Kronos, Kronos specifies the pair through authority whose knowledge or effectiveness may be uncertain. The [Witte entry](#witte-entry) names diplomatic deception, leading persons' great failure, and occult authority; [ABC](#abc-entry) adds metaphysical authority, claimed intuitive successes, leadership weakness, and pretended independent knowledge (printed p. 401, PDF p. 199). The examples concern both authority and its limits, without making status proof of insight or every leader deceitful.
 
 ## Links
 

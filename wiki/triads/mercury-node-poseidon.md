@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Node Poseidon`
 - Astronomicon triad-set: `T g ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md)
-- [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md)
-- [Node/Poseidon = Mercury](../activations/node-poseidon-equals-mercury.md)
+- [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md): base axis [Mercury/Node](../axes/mercury-node.md); activator [Poseidon](../factors/poseidon.md).
+- [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md): base axis [Mercury/Poseidon](../axes/mercury-poseidon.md); activator [Node](../factors/node.md).
+- [Node/Poseidon = Mercury](../activations/node-poseidon-equals-mercury.md): base axis [Node/Poseidon](../axes/node-poseidon.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Node = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `141`
-- `Mercury/Node = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `209`
-- `Mercury/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
-- `Mercury/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `268`
-- `Node/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `238`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md#witte-entry) (PDF entry-start p. 141); [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md#witte-entry) (PDF entry-start p. 173); [Node/Poseidon = Mercury](../activations/node-poseidon-equals-mercury.md#witte-entry) (PDF entry-start p. 156).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Node = Poseidon](../activations/mercury-node-equals-poseidon.md#abc-entry) (printed p. 209); [Mercury/Poseidon = Node](../activations/mercury-poseidon-equals-node.md#abc-entry) (printed p. 268); [Node/Poseidon = Mercury](../activations/node-poseidon-equals-mercury.md#abc-entry) (printed p. 238).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Node = Poseidon`: spiritualizes the axis into communion of ideas.
-- `Mercury/Poseidon = Node`: Connected with people who are spiritually minded.
-- `Node/Poseidon = Mercury`: Mental connections through ideas, speech, correspondence, newspapers, books or connection with these things.
+Mercury, Node and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Node](../axes/mercury-node.md)
+- [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Node/Poseidon](../axes/node-poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Node](../factors/node.md)
 - [Poseidon](../factors/poseidon.md)

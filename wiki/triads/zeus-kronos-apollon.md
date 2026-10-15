@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Zeus Kronos Apollon`
 - Astronomicon triad-set: `£ ¤ ¥`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Kronos/Apollon = Zeus](../activations/kronos-apollon-equals-zeus.md)
-- [Zeus/Apollon = Kronos](../activations/zeus-apollon-equals-kronos.md)
-- [Zeus/Kronos = Apollon](../activations/zeus-kronos-equals-apollon.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Apollon = Zeus](../activations/kronos-apollon-equals-zeus.md) | [Kronos/Apollon](../axes/kronos-apollon.md) | Zeus |
+| [Zeus/Apollon = Kronos](../activations/zeus-apollon-equals-kronos.md) | [Zeus/Apollon](../axes/zeus-apollon.md) | Kronos |
+| [Zeus/Kronos = Apollon](../activations/zeus-kronos-equals-apollon.md) | [Zeus/Kronos](../axes/zeus-kronos.md) | Apollon |
 
 ## Source Coverage
 
-- `Kronos/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `461`
-- `Zeus/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `292`
-- `Zeus/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `453`
-- `Zeus/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `290`
-- `Zeus/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `451`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Kronos/Apollon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-apollon-equals-zeus.md#witte-entry), one-based PDF entry-start p. `299`.
+- `Kronos/Apollon = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-apollon-equals-zeus.md#abc-entry), printed p. `461`.
+- `Zeus/Apollon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-apollon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `292`.
+- `Zeus/Apollon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-apollon-equals-kronos.md#abc-entry), printed p. `453`.
+- `Zeus/Kronos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-kronos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `290`.
+- `Zeus/Kronos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-kronos-equals-apollon.md#abc-entry), printed p. `451`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Zeus`: enlarging the field of action, expanding economic life, creating new branches of a system, and specializing in science.
-- `Zeus/Apollon = Kronos`: To be outstanding through one’s eagerness for knowledge, study and research. To outdo or leave others behind, to be without competition. To surpass the competitors in science or economy.
-- `Zeus/Kronos = Apollon`: Eager to learn, to gain knowledge. Many are in competition. Great enterprises and efforts in science, commerce, trades and industry. Expansion of armament or war.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

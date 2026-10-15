@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Apollon](../axes/mercury-apollon.md)
 - Triad hub: [Moon Mercury Apollon](../triads/moon-mercury-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Apollon,” Moon entry, PDF p. 170.
 
 Scientifically minded women. Scientific thoughts in or related to the public.
 
@@ -42,13 +46,27 @@ Scientifically minded women. Scientific thoughts in or related to the public.
 
 #### ABC Entry
 
-Extension of the language of a people, feelings experiences in youth, feeling Funlle in speech, successful female youth, media success of a woman, dissemination of popular opinion, vie! speaking woman, and increasing language with women
+Source: “Merkur + Apollon,” Moon entry, printed p. 262 / PDF p. 130. Translation checked against the German passage.
+
+Expansion of a people's language, emotional experiences in youth, abundance of feeling in conversation, successful female youth, a woman's media success, dissemination of public opinion, a woman who speaks much, increasing conversations with women.
+
+## Comparative Schema
+
+- core meaning: Scientific/public thought and expanded expression involving women or a people.
+- psychology: Youthful emotional experience and abundant feeling in conversation.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Conversations with women and circulation of public opinion.
+- events/manifestations: Women's media success and expansion of a people's language.
+- conflicts/notes: Gendered associations remain historical source language, not a restriction on who can think scientifically.
+
+## Contradictions
+
+Witte emphasizes scientific thought among women or the public; ABC adds emotional expression, media and conversation. These settings do not make gender determine intellectual capacity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Moon` joins the axis to the public and to women through scientific interest.
-- Chart expression: ideas circulating in public life, scientifically minded women, and a feeling life oriented toward study, explanation, and broad-minded thought.
+In `Mercury/Apollon = Moon`, Moon specifies scientific thought and extensive communication through women, public expression and feeling in conversation. Witte names scientifically minded women and scientific thoughts related to the public; ABC adds emotional experience in youth, abundant feeling in exchange, media success and circulating opinion. The connection spans intellectual and emotional expression in social settings, with the historical gendered examples attributed rather than treated as limits on capacity. ([Witte](#witte-entry), PDF p. 170; [ABC](#abc-entry), printed p. 262 / PDF p. 130)
 
 ## Links
 

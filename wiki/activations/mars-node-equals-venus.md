@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Venus Mars Node](../triads/venus-mars-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Common activity with intimate relation. Contact. Sex union.
 
@@ -45,17 +49,23 @@ Common activity with intimate relation. Contact. Sex union.
 
 #### ABC Entry
 
-Joy through mediation activity, creating peace contacts, harmonious activity in connections, creating love relationships, love impulses in a connection, establishing connections to the artificial, and mediation activity in love
+Source: “Mondknoten + Mars,” printed p. 212 (PDF p. 105).
+
+Joy through mediation activity, creating peace contacts, harmonious activity in connections, creating love relationships, love impulses in a connection, establishing connections with art, and mediation activity in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Dragon's Head,” printed p. 217, entry 0750.
 
 Cordial and warm-hearted cooperation or collaboration, desire to establish a love union. A passionate union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
 
 The ability to interact with groups in a fashion that is dynamic yet smooth and diplomatic.
 
@@ -70,22 +80,21 @@ Helps to soften your presentations, and to make your views seem less harsh and m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Warm, diplomatic cooperation and intimate or loving connection.
+- psychology: Joy in mediation, passionate feeling, and a wish to present views acceptably.
+- body/health: Sexual union is named without a medical claim.
+- social/relationship: Love unions, peace contacts, smooth group interaction, and chance attraction.
+- events/manifestations: Mediation in love, artistic contacts, tactful presentations, and passionate union.
+- conflicts/notes: Munkasey retains insistence that one's views prevail even with good manners; tact does not establish equal agreement.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share warmth or smoother interaction. Munkasey's insistence beneath a softened presentation adds a qualification rather than a general claim that attraction undermines boundaries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Venus`: love unions, attractive teamwork, and shared activity that benefits from charm, tact, and mutual desire. Main caution: that warmth and passion can blur limits, making cooperation too dependent on attraction or personal liking.
+In `Mars/Node = Venus`, Venus specifies shared action through warmth, intimacy, and a smooth or diplomatic way of engaging others. Ebertin's cordial cooperation and passionate union connect with ABC's peace contacts, love mediation, and artistic connections. Sandbach names dynamic yet diplomatic group interaction. Munkasey adds softer presentations and chance attraction, while retaining insistence that one's views prevail; pleasant manners therefore need not imply complete agreement. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 212 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 217, entry 0750; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Mercury/Poseidon`
 - Astronomicon axis: `T/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -76,9 +77,24 @@ Spiritualized thinking. Thoughts. Ideas. Talks about spiritual, intellectual or 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `268`; PDF page: `133` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Findings of youth, intellectual language, discussion of ideas, youth culture, clear thoughts, cultural reports, poor language, sound opinion, meaningful, youth, and true words
+German pair summary (transcribed from printed page `268`; PDF page `133`):
+
+> Erkenntnisse der Jugend, geistvolle Gespräche, Ideen besprechen, Jugend-Kultur, klare Gedanken, Kultur-Berichte, vernünftige Gespräche, vernünftige Meinung, vernünftige Jugend, wahre Worte
+
+Editorial translation from the German passage: Insights of youth, intellectual conversations, discussing ideas, youth culture, clear thoughts, cultural reports, reasonable conversations, reasonable opinion, reasonable youth, true words.
+
+## Comparative Schema
+
+- core meaning: spiritualized thinking, mental insight, and the presentation of intellectual or philosophical ideas ([Pair Summary](#pair-summary)).
+- psychology: clear thought, ideals, and sound opinion are named; the entries do not establish an independent negative personality pattern ([ABC Pair Summary](#abc-pair-summary)).
+- body/health: neither pair summary supplies a medical or anatomical correspondence.
+- social/relationship: discussion of ideas and cultural reporting concern communication with others, without a specific relationship outcome.
+- events/manifestations: presenting ideas, philosophical talks, youth culture, and the uncommon association with ocean movements are included.
+- conflicts/notes: The complete ABC list supports reasonable conversation and youth; no independent shadow pattern or activation-specific effect follows from these pair summaries.
 
 ## Related Activations
 
@@ -103,13 +119,17 @@ Findings of youth, intellectual language, discussion of ideas, youth culture, cl
 - [Mercury/Poseidon = Vulcanus](../activations/mercury-poseidon-equals-vulcanus.md)
 - [Mercury/Poseidon = Zeus](../activations/mercury-poseidon-equals-zeus.md)
 
+## Contradictions
+
+- The actual ABC scan reads `vernünftige Gespräche` and `vernünftige Jugend`; the former poor-language and fragmented-youth translations have been replaced.
+- The pair summaries give affirmative intellectual and cultural themes, not evidence for the former generalized shadow claims. Witte's audit PDF page `173` is only a chapter-start locator, not a verified exact passage reference.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Poseidon` is the axis of spiritualized thinking, clear ideas, mental insight, and language used to discuss philosophical, intellectual, cultural, or spiritual matters.
-- Constructively it supports meaningful speech, sound opinion, elevated mentality, and the ability to propose or present ideals in words others can use.
-- The shadow is poor language, over-idealized talk, or ideas that remain too abstract, inaccessible, or detached from practical communication.
-- Activations show what happens to the idea-field: Admetos narrows or deepens it, Apollon spreads it, Vulcanus empowers it, Neptune blurs or develops it, and Hades can pull it toward troubled or hidden material.
+`Mercury/Poseidon` concerns thought and speech directed toward ideas, ideals, and intellectual or spiritual understanding. Philosophical discussion, mental insights, and the ability to propose an idea connect with the clear thoughts, cultural reports, sound opinion, and true words in the second summary. The theme is the articulation of understanding rather than a particular promised achievement ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+The concise entries also preserve youth culture and, in Witte, movements on the ocean; these should not disappear into an exclusively psychological account. They provide no separate medical teaching or well-supported negative pattern, and the reasonable-conversation wording supplies no independent shadow theme. Meanings of formulas with a third factor must be read on their own activation pages.
 
 ## Links
 

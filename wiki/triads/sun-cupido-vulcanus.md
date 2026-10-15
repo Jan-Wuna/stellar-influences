@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Cupido Vulcanus`
 - Astronomicon triad-set: `S ¡ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Vulcanus = Sun](../activations/cupido-vulcanus-equals-sun.md)
-- [Sun/Cupido = Vulcanus](../activations/sun-cupido-equals-vulcanus.md)
-- [Sun/Vulcanus = Cupido](../activations/sun-vulcanus-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Vulcanus = Sun](../activations/cupido-vulcanus-equals-sun.md) | [Cupido/Vulcanus](../axes/cupido-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/Cupido = Vulcanus](../activations/sun-cupido-equals-vulcanus.md) | [Sun/Cupido](../axes/sun-cupido.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = Cupido](../activations/sun-vulcanus-equals-cupido.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
-- `Cupido/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `434`
-- `Sun/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
-- `Sun/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `159`
-- `Sun/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `171`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `273`.
+- `Cupido/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-vulcanus-equals-sun.md#abc-entry), printed p. `434`.
+- `Sun/Cupido = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-cupido-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `111`.
+- `Sun/Cupido = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-cupido-equals-vulcanus.md#abc-entry), printed p. `159`.
+- `Sun/Vulcanus = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-cupido.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-cupido.md#abc-entry), printed p. `171`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Sun`: being a member of a powerful community, days of great artistic production, and a person whose art carries real influence.
-- `Sun/Cupido = Vulcanus`: This formula emphasizes strong family bonds and energetic community.
-- `Sun/Vulcanus = Cupido`: This formula emphasizes strong family bonds and forceful community cohesion.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

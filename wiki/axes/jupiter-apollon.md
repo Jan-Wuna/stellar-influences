@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `215` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Fortune, success, honors. Much fortune and happy experiences. Good luck. Success
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `340`; PDF page: `169` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Exhaustion of satisfaction, successful expansion, financial knowledge, money proliferation, happiness and success, hands on right, legal success, legal knowledge, vie! money, benefits through experience, and increasing joy
+German pair summary (transcribed from printed page `340`; PDF page `169`):
+
+> Ausbreitung von Zufriedenheit, erfolgreiche Ausdehnung, Finanz-Wissen, Geld-Handel, Geld-Vermehrung, Glück und Erfolg, Handels-Recht, Rechts-Erfolg, Rechts-Wissen, viel Geld, Vorteile durch Erfahrungen, zunehmende Freude
+
+Editorial translation from the German passage: Spread of satisfaction, successful expansion, financial knowledge, money trading, increase of money, good fortune and success, commercial law, legal success, legal knowledge, much money, advantages through experience, increasing joy.
+
+## Comparative Schema
+
+- Core meaning: Successful expansion, economic increase, and benefit extending to many ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Happy experiences, satisfaction, and increasing joy are represented without a detailed personality account.
+- Body/health: Neither summary specifies a bodily condition or treatment.
+- Social/relationship: Luck and happiness for many give the theme a shared dimension, without a specific intimate relationship scenario.
+- Events/manifestations: Scientific success, money through science, trade or law, capital, high finance, circulating money, and successful enterprise are examples.
+- Conflicts/notes: The ABC opening names the spread of satisfaction, consistent with the expansion theme. Its financial and legal expressions are broad pair-list terms and supply no specific transaction, case, or jurisdiction.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Exhaustion of satisfaction, successful expansion, financial knowledge, money pro
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon`: expansive good fortune: success in commerce and science, high finance, capital, money in circulation, growth of enterprises, and happiness or benefit shared by many.
-- Chart expression: abundance that grows outward. It favors thriving exchange, enterprise, intellectual success, and broad increase rather than narrow gain. Its liabilities appear when speculation outruns judgment or when scale and money circulation become too detached from solid footing.
+`Jupiter/Apollon` links success with expansion and a widening field of benefit. Scientific achievement, commerce, law, enterprise, and finance provide concrete settings for growth, while circulating money and happiness for many extend the theme beyond one person's gain ([Pair Summary](#pair-summary)).
+
+Financial knowledge, successful expansion, money trading, commercial law, legal success, and increasing joy recur in ABC. Its opening adds the spread of satisfaction ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

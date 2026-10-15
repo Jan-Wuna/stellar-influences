@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Node](../triads/vernal-point-sun-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Bodily contact or union among several people.
 
@@ -42,13 +46,27 @@ Bodily contact or union among several people.
 
 #### ABC Entry
 
-Encounter with the world of man, relations with people of the public life, male connections in the public, public encounter center, personal connections in the public, and place for public communication
+- Source page: 22; PDF page: 10 (one-based spread).
+
+Encounter with a man's world, relations with public figures, public connections among men, a public meeting center, personal public connections, and a place for public mediation
+
+## Comparative Schema
+
+- core meaning: Public personal life connected through bodily presence and social links.
+- psychology: No distinct psychological claim is supplied.
+- body/health: Bodily contact is named without a health claim.
+- social/relationship: Union among several people and personal relations with public figures.
+- events/manifestations: Meeting centers and places of public mediation.
+- conflicts/notes: Connection does not itself establish intimacy or agreement.
+
+## Contradictions
+
+No direct contradiction is established. Bodily union and public mediation are distinct forms of bringing people together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Node`: bodily contact or union among several people.
-- Practical expression: encounter with the world of man, relations with people of the public life, male connections in the public, public encounter center, and personal connections in the public.
+In `Vernal Point/Sun = Node`, public personal life is expressed through connection with others. The [Witte entry](#witte-entry) names bodily contact or union among several people. The restored [ABC entry](#abc-entry) adds relations with public figures, personal links, meeting centers, and mediation. The coherent focus is concrete association through which people enter public life together.
 
 ## Links
 

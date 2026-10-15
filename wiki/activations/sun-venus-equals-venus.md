@@ -24,6 +24,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Venus`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = Q`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
@@ -41,22 +42,23 @@ An increased need to be surrounded by fine things and ornaments; adds to the nee
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry).
+
+- core meaning: Personal enrichment is sought through beautiful surroundings.
+- psychology: Possessions may be measured against what others own.
+- body/health: No health claim is supplied.
+- social/relationship: Comparison with others concerns possessions rather than an explicit partnership claim.
+- events/manifestations: Fine objects, ornaments, music, and art are named.
+- conflicts/notes: This entry distinguishes aesthetic enrichment from competitive ownership.
 
 ## Contradictions
 
-- None recorded yet.
+This entry distinguishes aesthetic enrichment from competitive ownership. No direct contradiction is established within the available entry.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Venus`: An increased need to be surrounded by fine things and ornaments; adds to the needs one has to maintain better and more elaborate possessions than others; the role that music and art have in giving one personal enrichment.
+Venus specifies Sun/Venus as a desire to live among fine things and to gain personal enrichment through music and art. The same desire can become comparative, expressed in wanting possessions more elaborate than those of others. ([Munkasey](#munkasey-entry).)
 
 ## Links
 

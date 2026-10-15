@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Uranus Asc`
 - Astronomicon triad-set: `VP X Asc`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Uranus/Asc = Vernal Point](../activations/uranus-asc-equals-vernal-point.md)
-- [Vernal Point/Asc = Uranus](../activations/vernal-point-asc-equals-uranus.md)
-- [Vernal Point/Uranus = Asc](../activations/vernal-point-uranus-equals-asc.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Uranus/Asc = Vernal Point](../activations/uranus-asc-equals-vernal-point.md) | [Uranus/Asc](../axes/uranus-asc.md) | Vernal Point |
+| [Vernal Point/Asc = Uranus](../activations/vernal-point-asc-equals-uranus.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | Uranus |
+| [Vernal Point/Uranus = Asc](../activations/vernal-point-uranus-equals-asc.md) | [Vernal Point/Uranus](../axes/vernal-point-uranus.md) | Asc |
 
 ## Source Coverage
 
-- `Uranus/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `116`
-- `Vernal Point/Asc = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Uranus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
-- `Vernal Point/Uranus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `38`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Uranus/Asc = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-asc-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `88`.
+- `Uranus/Asc = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-asc-equals-vernal-point.md#abc-entry), printed p. `116`.
+- `Vernal Point/Asc = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-uranus.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-uranus.md#abc-entry), printed p. `21`.
+- `Vernal Point/Uranus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-uranus-equals-asc.md#witte-entry), one-based PDF entry-start p. `45`.
+- `Vernal Point/Uranus = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-uranus-equals-asc.md#abc-entry), printed p. `38`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Uranus`: This formula emphasizes sudden event with several people, manufacturing plants, and time passes quickly.
-- `Vernal Point/Uranus = Asc`: This formula emphasizes sudden experiences with other persons and excitement in the place.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

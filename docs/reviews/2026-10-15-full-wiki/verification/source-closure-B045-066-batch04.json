@@ -1,0 +1,81 @@
+{
+  "scope": "Four final concrete B045–066 held source repairs; independent B2 rebind pending.",
+  "count": 4,
+  "cumulative_repaired": 43,
+  "new_reviews": 0,
+  "exact_intended_bytes": [
+    {
+      "path": "wiki/activations/moon-mercury-equals-node.md",
+      "raw_sha256": "bba81995ab35162409188f70a8dcbc34dfb5dbfc37df33db977db5fbe8181fb4",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/moon-neptune-equals-pluto.md",
+      "raw_sha256": "9d2db7423f20d223c1b8473c61009995686b864989d72def4957706d971aa803",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-mc.md",
+      "raw_sha256": "c7dfe084f8c606670d4f0f4fd19d652249e5dd12386d1c184f06ecb65a358c03",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    },
+    {
+      "path": "wiki/activations/neptune-kronos-equals-apollon.md",
+      "raw_sha256": "c93a56db06bf9543c4ce45f9d71d892dcb9a54ae2081c3c75894516f1862ac8e",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "stage_absent": true
+    }
+  ],
+  "all_stages_absent": true,
+  "bindings": [
+    {
+      "path": "wiki/activations/moon-mercury-equals-node.md",
+      "ledger_line": 14,
+      "before_source_section_sha256": "55d53c870f65fe1dc85c5e1b301ff40e4451cf9935894dfef69305344f7d3988",
+      "final_source_section_sha256": "7bd00dfe81d07d4cbb4ace1b4a7ad63fb5d7f4b8c3e340ea615d1fea0f7e3c4f",
+      "final_page_sha256": "bba81995ab35162409188f70a8dcbc34dfb5dbfc37df33db977db5fbe8181fb4",
+      "current_record_sha256": "e53e8914f72391ecf59a6a0f5edc78918181395fd9c9d3e46e5ce3db80bc782e",
+      "unresolved": [
+        "ABC 'hour of the media connection' corresponds to German 'Stunde der Medien-Verbindung' on PDF87; its interpretive sense remains unclear and is excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-neptune-equals-pluto.md",
+      "ledger_line": 4,
+      "before_source_section_sha256": "0a228b8760835dfd6268de6ee4f4ef8c82a2f530f7099f45aab1117f256d6c3d",
+      "final_source_section_sha256": "5ebf7d959deb1a88ca2e468b50ecf7f7b832280296e536891b45d92261c28827",
+      "final_page_sha256": "9d2db7423f20d223c1b8473c61009995686b864989d72def4957706d971aa803",
+      "current_record_sha256": "23060a2cad59901260515a4bda638891d1b4ed0a7deaf511e276e60dc806d40d",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-mc.md",
+      "ledger_line": 34,
+      "before_source_section_sha256": "58c5addb3b6237c3fbb4ec608b7edae0c6c9282f54ae0965a8d8bf1c55e9d4d1",
+      "final_source_section_sha256": "ba61fea9c50685ec113c94d958586fd85ea98d85de760422aec6602280afad37",
+      "final_page_sha256": "c7dfe084f8c606670d4f0f4fd19d652249e5dd12386d1c184f06ecb65a358c03",
+      "current_record_sha256": "25a5da1dfc516ba94018d029c7fef066861135ff847e56ba7d0ba37a2a8b0821",
+      "unresolved": [
+        "ABC genuinely uses beseelt (ensouled); the row supplies no philosophical mechanism or proof of a spiritual condition."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-kronos-equals-apollon.md",
+      "ledger_line": 40,
+      "before_source_section_sha256": "36ed6b83d0a4db5d950bd6f5532cef74d169ad8ad702147a0eba0b932e9ccbbd",
+      "final_source_section_sha256": "e43d1abf5d524fa3edf88ed5a11a72c1ca58c88b9dede1f5b0fa63af566421cc",
+      "final_page_sha256": "c93a56db06bf9543c4ce45f9d71d892dcb9a54ae2081c3c75894516f1862ac8e",
+      "current_record_sha256": "f2320a7a30bcbbf6a03f0d80b31a62029b34b17643adabf47e653227ef071913",
+      "unresolved": [
+        "Actual Witte PDF250 has a tiny unidentified printed mark after leadership.; its identity/function cannot be established and no character or interpretive meaning is inferred."
+      ]
+    }
+  ]
+}

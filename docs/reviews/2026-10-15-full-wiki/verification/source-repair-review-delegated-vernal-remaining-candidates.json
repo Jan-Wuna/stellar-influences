@@ -1,0 +1,954 @@
+{
+  "paths": [
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-admetos.md",
+      "before_sha256": "009e51ff9a1d2dff24a82b743ec6e040a8d6a5e0098605fc7ed345cf90b8ba40",
+      "after_sha256": "ed25ea4acd59eb8be8770c3a29bbd7f6accddd5327dd08b21fccc0d60153ac82",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-apollon.md",
+      "before_sha256": "cc36479ad27ae69988739ad559ec8804ad7dfc8ab52eac04931f6023ccf38ff3",
+      "after_sha256": "1e5cae8783cddc8fe564e71afb75d6adf836608f8ff90631c92bce9e259e386c",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-asc.md",
+      "before_sha256": "b4ca9289e107ff56f48c005b06d1ca699eb0831c38779c068b679270c8d9b273",
+      "after_sha256": "9069a9fe8d77789261328dd887f0bd3b8b41b3a31cfaa892f701f8449f4fcbb4",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-cupido.md",
+      "before_sha256": "65e7baf1d29640a6b2a077e4e6f6cb27cf9d1b9110b321eeeaf6d40e06dbe479",
+      "after_sha256": "62652eb1ca4a970bc8b7a4dd27da76b9d84ea8f488779c96be5f0b302a3f85dc",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-hades.md",
+      "before_sha256": "a0817fcbae034abbce0a52c27c023bffccc0aa892c32cf8b98e0dd020b24ea5b",
+      "after_sha256": "9f479bdc3f357aecf156a8874a7056c8091813252ca8f817efe3cf9d166818c0",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-jupiter.md",
+      "before_sha256": "a567bc12689b461dff9b301c419ddac37b9f4845b6299f5df40d0174a8c74e6d",
+      "after_sha256": "d3e424f50ecc1c8ef2989982349bdeb43018d0ff209941294a28501faeba061c",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-kronos.md",
+      "before_sha256": "ee5ba0ae302c699413da4fa5ef17da173fcc0dfb0e640c8f2ee311ed1ed80432",
+      "after_sha256": "f4f7530b702cc7af0ae9d5ec48a4447c4cf64e5a5894116e6edae57f5cb9c745",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-mars.md",
+      "before_sha256": "2d851b0522a9211e2be667b2b3ef82e5779bad622cd102b5d407cd25b82b2237",
+      "after_sha256": "0e8695de8d781b3e04fd9f258ab2c176f639c060104b6a550f18f59b25f9d00b",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-mc.md",
+      "before_sha256": "4e25c01004b822f2e1ea97229c853e0020494d707b3fa9fd6f55f7834fa90c99",
+      "after_sha256": "e602bb2a8a9cf00067e397b16dc1d96351b60439ef5bd29c90b6cdd8fc3d405e",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-mercury.md",
+      "before_sha256": "40c59714e77517e152f4c6070805969661690a78aee303442aa62ce1f0db591a",
+      "after_sha256": "289b46cf27a19f14204cb56a49817548020aa0423b7c98ca2686aec4c16ea21d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-moon.md",
+      "before_sha256": "a9803867911b6b1070ad4dffb43b26961dcd87189dd59579c1a9be1822c1083f",
+      "after_sha256": "24f1787cb3b848882518439301b78ebe6be345e95aa863ea7f19ea11d67c050a",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-neptune.md",
+      "before_sha256": "11753c23c2c449405fe85baadf38bd6d4623bd07a4e51c226c9435f9416cbc6a",
+      "after_sha256": "6635213791238446bff6f545bfc0f5727d82145049a69e46deadd9b79f1d4ec4",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-node.md",
+      "before_sha256": "d0e461dff95e1148c383c74b1cd660d2f68e39583c9404a963b25d123b350659",
+      "after_sha256": "b177fef69334ce2e56e62c4e6fb5d6881b0d736d620e8af85dfd7bc68856dea3",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-pluto.md",
+      "before_sha256": "41e30d0f4a8c40fedabd4b4b9d3d2225e1267cd205a2003b0387aa841f12e79d",
+      "after_sha256": "3507470cf09a03e712391e456d5ae00523e212ca2bd45af9104bfb1164ba7b6c",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-poseidon.md",
+      "before_sha256": "cbfa985dcbd463a4b334f6a7fa31ef2bff58eeac8f91a40a65213258dab4fd51",
+      "after_sha256": "a53837d14306c4cdcd2735b0d3b5041fd84adce08825a429fda03399b546c195",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-sun.md",
+      "before_sha256": "13526e8c11f1c34238daea9cbef828434f03b6c28e1f71bf434eddde388dd5cb",
+      "after_sha256": "c5988c924f8b64a4d688396872819e569d94056d0579adcef678f3bd4b2391fd",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-uranus.md",
+      "before_sha256": "d0cf0649c025411496119492d6f546a6a2d0c0d6d1ac28bc8c72da1e33bef7ae",
+      "after_sha256": "0785e853324fc47745617831c6431a299187d61a0d7f63b1a43adf32858fb066",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-venus.md",
+      "before_sha256": "6b354ca6cb2938659aa99af83c4d8d5b045dfbbc174fa0ba37985c09adbad54f",
+      "after_sha256": "8775f799be51b70eb0bf76d43eabba251023a70bfa4884ba7887517c30d2dfda",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-vulcanus.md",
+      "before_sha256": "e1708f3a4b93e71171c15f2163f0c217dacae041f66d8af8e77d25fa447eea87",
+      "after_sha256": "cd8d5cb16c9630dfb8c9be57fc02a76cb0dbbf08ed52bcadf04105e78aae7713",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-saturn-equals-zeus.md",
+      "before_sha256": "8286b1e2b0f09b5d36b4da2c8ef5e3bbf19de9c2ba7450263110145477fe5512",
+      "after_sha256": "691c35b9a5e13958d113d315461836f5d3b200e97229b0a965e06d73fd80c5c3",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-admetos.md",
+      "before_sha256": "90559a7828b3a4f6330527bfc7d1b334416eebbc0d7bae396f93b1eaabcf0f0b",
+      "after_sha256": "1a181b43e8c9dcfd979f4d21381dea35f8cd03b0ac8328f6d871ef4990373991",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-apollon.md",
+      "before_sha256": "1e2541ff16121e033e279f1b3c0f5af49a8db6f5fcbb6e20bb131ef478070f55",
+      "after_sha256": "37ef4ad1f5125a6420cfb38bc8a3ec28994e818cd8ac1dc99f794027b6e44784",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-asc.md",
+      "before_sha256": "893e9bec3d6cbdd1aed65b28cc85848f1f03af2ae0d87d432feaef2a24e03a7e",
+      "after_sha256": "4e7e2ac59bb8139ded458097adad1689eba115ac7dd0a5c50e971d2c95d32304",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-cupido.md",
+      "before_sha256": "b4ac4f576a511f375f1eaed96a7201d8f1f19d47769b8be1f7df16e824db8df5",
+      "after_sha256": "4f44cd20d2457fd25578da6e1234e0f6250d473d2f5b760fcc05216621b2a05f",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-hades.md",
+      "before_sha256": "bb4b244cda8d47707d8c2d5e69d8272cdfeaa74a516d1c2dba3b43e740f75c0d",
+      "after_sha256": "ca3b4db4a8304026ebfe5397d95cd1c26c42975edd81e929cb0324fce2a50e53",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-jupiter.md",
+      "before_sha256": "b172beda5f170d97f08fe2c03d0d6b15e052ecbc7b53974caaae62d3aa68d623",
+      "after_sha256": "d7a8d79c9b08c833f17f1eb1774aeff7e8ce04362e73966e7585a2b799994d4e",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-kronos.md",
+      "before_sha256": "adc70c3b8124237ab23626465df8847609b8330e8e3aad3e7550e920d31bb315",
+      "after_sha256": "85a59d35ca4633ac08dcefd930358886c39bb04f0949f646b4d1afb48806e2c1",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-mars.md",
+      "before_sha256": "ded4a1622e5278adb842b55f32079c755351cb446e649f9f68844409eaa567db",
+      "after_sha256": "171649ffa3393a52d0dd110eb9f41b1e51ff929bd1fa389fe207bdfe736f6288",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-mc.md",
+      "before_sha256": "f382036dee1d58760695e2f52aebb9fa97fced7a9b53c8b3cd60e496f5f1c610",
+      "after_sha256": "7db4c521f8662a4b38c6079ce3337197440ba7e9ba441a3750f20db8651b1816",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-mercury.md",
+      "before_sha256": "f3672f359bd4303e24a95f5159be2a9ef3dff8620a025d27a91d7268a62a3203",
+      "after_sha256": "603c79123f7183ee58d221cf434fe8ba7dfc9d3506974921621fc9df392dbb2f",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-moon.md",
+      "before_sha256": "3ebb1a67284a09a5da3dce150623521611aba3a17bb01193dd4fbeb141858efa",
+      "after_sha256": "82282255610a8407c5e8a8f8538656c2f0c6d221b0e454c701c309b710c79597",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-neptune.md",
+      "before_sha256": "430b3ab2de71d774dfd4161eacb96a75896ad71d258f5b798b9a94e470f19c65",
+      "after_sha256": "6d6f162d1150f894fa2eb1665d246a8f4990e4704ea5b5edcf51b5b04fe3fde3",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-node.md",
+      "before_sha256": "35d73fa757209b3fda4254bbd6ada93a5cff37dc41e83836b9459e8a6c6295b5",
+      "after_sha256": "44ef8e0bb77facef820077be2543cf1ee2608bec3aec060ed5a5cdbd04d19aa3",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-pluto.md",
+      "before_sha256": "5806898c7dd455a046aec9a9ecbaeb4b21026740945db40544a037bc81fe82cb",
+      "after_sha256": "a8ab5b38a4db476cf1dd8593b6d2061d3ae808066101ad74834b85d49f0185e0",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-poseidon.md",
+      "before_sha256": "e9b4f33ffc401158243cbe9aa85919f508bd773c9f528c5e6e9779f70c348de3",
+      "after_sha256": "75855521961212749bceff195ae3e164faa198d86dff3bf103341fb8c4ecb46a",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-saturn.md",
+      "before_sha256": "533a2bbb7e71f966a822d4e298f211a0caeb9a53e268656565507f2c4bf21d93",
+      "after_sha256": "31fcd9d47d0f3325c943808e1151699dd5efd53a7da53064372c7f1cfac90e91",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-uranus.md",
+      "before_sha256": "d11ec76e3d7c18e96164673cbe3e3623f7430627b9edbd13836c9674502c4b92",
+      "after_sha256": "e8b43635d70c42ba973143fd2dedb54ad8749f61f4de3fec73dd7927e70f3828",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-venus.md",
+      "before_sha256": "f61529e2a34364a83e88f888eee6f7107ffe9d9890a6204fb20111fb4a8ee4a1",
+      "after_sha256": "8ec432ec66c0e87da8a0adcb841a8ea28ff567fd15cc7219ec95e9f8fdb0cf5d",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-vulcanus.md",
+      "before_sha256": "8dd7deacb6e2f8e25cb16c329369538961b828509b5d738ab823354a1be4191b",
+      "after_sha256": "9faa712a8239945950bf732f4cbc811909637885def67e39da27be0c51da3a2d",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-sun-equals-zeus.md",
+      "before_sha256": "c1fbc1a9e2a3375a2ac17cb9d5deee0b44c4a39eb3c82784d1d8d79cb9954fed",
+      "after_sha256": "af5cbe6f7fa2f742d83c4822157f7064fbc5e2fb2c04189ee0a710d57ce07cae",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-admetos.md",
+      "before_sha256": "de98aa281db2c0eceb22ed1d8d5d7906336f093c3746d4736847f922abf7e09c",
+      "after_sha256": "a953ec330952f41cc1a995b063c583cd5e2de3786f5b24e018ed78ce329c3fc8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-apollon.md",
+      "before_sha256": "bda9aa83447d5f87214c7ee489e6216f7d78e2ee2f9c444cc60cd9fa33e3504a",
+      "after_sha256": "2d0b69de8c8a342ae6c432431256cd51a42d9552179074971ecffb83aa033534",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-asc.md",
+      "before_sha256": "730d290214dc4b2dfa393963956c4299bd4ffadedcfd59da0eba43fc3903ceca",
+      "after_sha256": "b4385e0bea6dfecf7eaf0f1d46e1aface91cca301d8597a4198db2609860e8f5",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-cupido.md",
+      "before_sha256": "00ecf3b79f3cb0aebf266de0551e0a02dee4c96570b48c4fed197de2ec733c76",
+      "after_sha256": "0a9b33c2c470bee7e6d6cd67c380b52762433edeb09181d0e2ffd2ed580c8b3b",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-hades.md",
+      "before_sha256": "3564cce8e07e856d51e082089c26fbe6fe9ca9cce56d64c9443c0a5ced11870c",
+      "after_sha256": "67b859b87028169c7d3ffbdbbf876d8f006f0dfaffcdd1c859d88c743230e5ea",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-jupiter.md",
+      "before_sha256": "b718efbda1160988f50ee487f8dadea0ac4e1a9ea09de1228cf8fe7927519f7a",
+      "after_sha256": "a9a05c2aab134d6f6b8a94063bb6787b2fb9aacb48bf69b928880f93327e3a35",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-kronos.md",
+      "before_sha256": "fd8b3cfc30ab3d19d7a900d407ae76733aa6719378be356c0809badecfd01bc8",
+      "after_sha256": "8b3f8585f1120acac40d7f71a9e16ba1fe989dd54c84838df00e9b1309d1d612",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-mars.md",
+      "before_sha256": "d0a5a5902df703e7ea440cb958195ffa4ebe5ef28a61e5d1bef6df90334ca076",
+      "after_sha256": "47259a80e12deb0a0508067c8565fcd124c0a3d16c9fe624c1710dd011726356",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-mc.md",
+      "before_sha256": "81b498daed09b18c7a38ceaa3f5ffa787e7286c7ca9473b7fcc45234f5964fd4",
+      "after_sha256": "ce83ce6a093f4ff6f15f65abd5ded3654ccf38eb5eef61c1319f8510eb3598d4",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-mercury.md",
+      "before_sha256": "8758da03f760aa6cf7c33209105a0203fcec1c4408f8c05fdb66fe6f39d38c09",
+      "after_sha256": "90eab5de03f29089c588ce93bb852ebd281f94f441d79c1432a4c7284bad2b54",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-moon.md",
+      "before_sha256": "b6f4a4000bde9f6a0c1b18214f082faf30e6e0ec97cec7335679a44ed2643d40",
+      "after_sha256": "de6ed446e03b5aca7b29cd8ded07afcdf381689770a2b32a9a5727d8147371b4",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-neptune.md",
+      "before_sha256": "77dfa2814bf587d9d9173988aa4a10a0b91acdc9bf98bd27b6af2dd5fe8c4ed7",
+      "after_sha256": "42a80f45f8f9790e296f0b893968b027098a6d52935701d101005a1139d5bb4c",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-node.md",
+      "before_sha256": "6ef0e4b05e2c0f309f1eb57bd4a77b7d1a3ade03eddbc55f044114a9c7d393bd",
+      "after_sha256": "baafa95ef0fe24a099478a5c59e361dd4224aece97651d38dc79b02aeb15bb5d",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+      "after_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-poseidon.md",
+      "before_sha256": "12f9ab8ec24ec16ef7cc0d388b2443af38a2fc76bd98058cb0125d6b0b7501c2",
+      "after_sha256": "db6fb4d1c195730c6036ebae49682b60eccb299db6c2358c843f8d4018c10792",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-saturn.md",
+      "before_sha256": "a5915de0c09d062c7cc0f8dddeb5f578f20590ec965e8d8740640e4dd195eb0f",
+      "after_sha256": "7c58e52417dc735a5cefe103fa2309a20a69e3e89b1178775011437c6d1405c4",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-sun.md",
+      "before_sha256": "6b390a118aedbfa4bf82c58716305f4aed31d1b79d7e0b41f5791d3e84573fdd",
+      "after_sha256": "63d5d500efc1101caff5cb129084b3dc5c78bffcaa54a05f13e7fc6b35a94a98",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-venus.md",
+      "before_sha256": "75e0d4549e15f352ede7fc6d295518f6882a3f60f4a7dc1fead19d54193d7d03",
+      "after_sha256": "94dd2f8366177325c1a43ccfe654c81c6dda6844840ecab9cd10c675657ccfe6",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-vulcanus.md",
+      "before_sha256": "512954589948eb773b4b867b496bbbfe30a2329b78eb39451285d330c015c346",
+      "after_sha256": "b8e9d3f466a88c94a204529c0b3d1f71605ab7bf221145f8d782359f320f63d6",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-zeus.md",
+      "before_sha256": "11ae844fb76a43e43129894f69ca1118574021d0b5b6c4d18353f7ef366d7c22",
+      "after_sha256": "157d9234701c5ef217e9b03af662fef0446f2ecb9a3dc743a6092dbd2fa27eb1",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-admetos.md",
+      "before_sha256": "06572299ba634ce0f20288a00ce68bb2c1a1629f7c9296bfc4d3942272e27e12",
+      "after_sha256": "6b5b9b12f35dc739abf839d769a07333d55f8aa0bd9a624e85320c47ed8ba937",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-apollon.md",
+      "before_sha256": "b0348bdd2fabd518b5d7584a5ea438bad2a6904c42aa1431f9b775e02ff95bb1",
+      "after_sha256": "92594aaf04efde32f76b16aae963abe85214023cceeb8834f28b44a1999702fa",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-asc.md",
+      "before_sha256": "122a69bce6f6fade57bbeffdac2dce3c929aa01b5668c9a90b839de791b2d43f",
+      "after_sha256": "7e53c7d9f1a5f5707ea9b2d0a7b68aca1a4025cd0de73e8df0145ecfd6fd46bc",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-cupido.md",
+      "before_sha256": "423a841dbe50766f67eb03829134be421306f3c04d7ce1767c97b16b0f409a37",
+      "after_sha256": "e5678ee8a02d013fa769449b51e677e6582d1d2491fb8c61576426f571414d31",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-hades.md",
+      "before_sha256": "0830e3fab5ee8075a89acc12c6a113966295ce97423c4c774e215533cfd2f08f",
+      "after_sha256": "1de640223b298ac180a5cf8bdc6baa1ea7dcba5965dd06bd32f3b0f88152a40a",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-jupiter.md",
+      "before_sha256": "6a2647484d32eb21985c7aa3a44ba54c17a28b07509b921b3bfe39f84950bc2a",
+      "after_sha256": "a0fa0c977bdb2a7e7284445a9140ac5181dd97bcc348fe326b9577d248368a17",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-kronos.md",
+      "before_sha256": "a42caa6658435e3d1841c23053dc0799323813b407f330e24ae0e45c1a8357c0",
+      "after_sha256": "42d8f6446b04137cfb230752103b1f63057b63dddb6cf7ccdda5f89e0e9ab1c4",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-mars.md",
+      "before_sha256": "2b87921dba13a7c3de218774fac2a66ec59f04f602661fa92ec838b9d64c6125",
+      "after_sha256": "c12cab18fce367d9bd4e85dd66d0432872cf7689a964452a3b8421f2f17bf738",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-mc.md",
+      "before_sha256": "f8a340f3635d129872df6b44693ea80893030cb56d9e6c63fffc1e3226b3c881",
+      "after_sha256": "fac16462d4d1add59409c7f6a64f8360c9cf2ed11e3645f15eb7165a661525eb",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-mercury.md",
+      "before_sha256": "e31ece751fbbe2785960e69cbc5c204a2346dd7e958da9614a5a7462dd443fae",
+      "after_sha256": "38289472be83021b02efe01f8764632778b415f3494f50cc94e600c197feb439",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-moon.md",
+      "before_sha256": "58ff5e890be6cfc494b861aba4f7abbdb58086766e7a4761ea2f9aae7e0df638",
+      "after_sha256": "4f80eb86303ed609422d29740513c80c924f298faf45b2edf15783176e58e59b",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-neptune.md",
+      "before_sha256": "ae994af22ff5a201dc6a30f6566a4d8cf399e334c77a34e28f5c62cba2bbfbf0",
+      "after_sha256": "18420b4a3bdc6d60cd4112b44ca52d3d5f2be7bbb0870e305c20796a9f14e282",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-node.md",
+      "before_sha256": "becf24429b77f90832976aa8c134c348c8c406c43fad71d3ac94ed1c53b1a869",
+      "after_sha256": "3a3ac06e7f47ed8452ecbef82cc04c8a950c1babb02cd100ef93b5cb1f967a58",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-poseidon.md",
+      "before_sha256": "68e76953f0f89f268c04a9d3447facf69a99d9cab5dc5858219a2b3bf5cbc27c",
+      "after_sha256": "8f37b421b0649a0c9737088655d211affac168ca9a2597049d423fe87c716adc",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-saturn.md",
+      "before_sha256": "8bab05397255342422bef780cd78974ef6d696854d508bed29b9d46d4decb929",
+      "after_sha256": "b4f464a780116370c4f5539d8963460e22d143da2685cf147a2d146b6a35c8e1",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-sun.md",
+      "before_sha256": "84964053743ff6dc62afc99dcf6cd8dfdc630363c73e75b56e760a69b1670aaa",
+      "after_sha256": "29c77d6fb1a4b03ee957400151b9206786f416953273552f236d822151d46ccb",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-uranus.md",
+      "before_sha256": "42cf1fa8e9eb20206a0c9702d4978b7b2e6468388b0d2419cf2ed013ee6c21f9",
+      "after_sha256": "fddaaa1fe4c345418eccf236c795d5101035ca7e1bbc46249c25f9b7bd8c3c7b",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-venus.md",
+      "before_sha256": "e27e09467ecbdf43f244cf9e65b4e692658d454ac622cc810125c155bab494b7",
+      "after_sha256": "d658e5bed2c8c2664ded6cc8a865685dfd3d8da887c03a5aa2c1b2f7db512c40",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-vulcanus.md",
+      "before_sha256": "55f35192a7c94584e3cc478e5839940d932a43f0efaf7118bd19f50d7bb9b368",
+      "after_sha256": "c9c267f88a67065c5b9addd3decd77f9c378f710e5ec45a1690932d5db226d5a",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vernal-point-equals-zeus.md",
+      "before_sha256": "cf1dbd213efbb75544b76a4c2c84db6e982cc46562456b1ff91d96e9252d49a1",
+      "after_sha256": "56eb14b67a06c319be9b0b24070feb955fae90c9cc45011cdbc31b404f2a3e18",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-admetos.md",
+      "before_sha256": "4c45c0f5a6ecd281a8866973433dbee96484947490c92cc022e8b8b3ce774157",
+      "after_sha256": "35a53bb96fd0a1379aeafe4fc2695f4e336f567505476bc69d149f880018541c",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-apollon.md",
+      "before_sha256": "4bf4fcfc2cb28387579ee26a4b035fef7f70d5fd51dba1fd121c8b3a47bb3aaf",
+      "after_sha256": "b1a30725cc84e982f2a29406fdc7979218eb0077935fc8eb1b8f51cb1b5d2a7d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-asc.md",
+      "before_sha256": "736e03031a3506ddcdf38224bb23094b9de5b0e6cb05a69aa2c433286c7c2e70",
+      "after_sha256": "0dd67f2b4eba4f5eef89b6887754e7f09e467380af8df3815e4a87abff2cf0c0",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-cupido.md",
+      "before_sha256": "3b7518794ebdacbb1ca024aca9dc5152e9b05669d5f7a34ef365650417f5f03d",
+      "after_sha256": "4636f1d7746f63eba2e33dbb14d1a5eddf5ce3f51c02285dfd59d40aeb27b3c5",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-hades.md",
+      "before_sha256": "ed875e750629331343143e32fbf8ce8bf210a5f65c52bcfa0e88e4ae6280e24e",
+      "after_sha256": "46d65982e161cb124200fe8bab89d4c62eae8abd5dec41ff8f91c40628525fb5",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-jupiter.md",
+      "before_sha256": "38d8d1300dfb568016df86c0afe8d528d2ae95fec60c9b73924bc777ebe7d800",
+      "after_sha256": "3e068db0b631502c17ea1c22e7cf0803997fb2a245dd0c9fc2fee418cd67e2d3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-kronos.md",
+      "before_sha256": "b8778ff9c49e4c83462a007a8e6e03765d6b9d0cfe9bae8a9bc8c7e666b1dcd3",
+      "after_sha256": "729735647a47d6cce70d205480061a7fc8ed287938efd967794b9e611a3e033e",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-mars.md",
+      "before_sha256": "1ee19f8cb226ae030530cebbc953ad0c8f8c0e4610fa94f06099340fe282020b",
+      "after_sha256": "b6c47966c9f93cd61ef6abfa636a5f99ed7c6c24e3c23761473e66d25057f27d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-mc.md",
+      "before_sha256": "d30fffbb48d3701db154cb7631873143d401915bf752c09ade1b1c2883f08ed6",
+      "after_sha256": "8c3c765309ef740c964285893ec6bb8d747cc2d2cd90952b437c8ca96098f896",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-mercury.md",
+      "before_sha256": "3a0d1711537d6aa0d2faa0b76c22e72c62b9160a693dd629d5043a7f836ec8a6",
+      "after_sha256": "c02cc362232d305b458f0b43e3f916e34a1f1bfdf3f7cd66b22f62a00c007ae3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-moon.md",
+      "before_sha256": "a182351beaa0a07f3a27dab381d9225a086cfa6d094626af858436dcb17df721",
+      "after_sha256": "e6a61dc78c18111c8f2f9dc4b0c3e5668d641456f7908912a3002957e051c111",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-neptune.md",
+      "before_sha256": "774260c025b344efbf7c1f153dffcd5490d9d91fb7a4a7c29816745310270c68",
+      "after_sha256": "91dd691427ec70965c821f9cfa8222f298006926644a5654243176b5682a98d1",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-node.md",
+      "before_sha256": "49fae7515bdbd7349050c65b2f560f22f38640329d2ca3f68fd5cc7da1cf843f",
+      "after_sha256": "369bebf960ea2d4e1e250eb04e8d5c641137e3ef059255afb3b8e9dbfecf40dc",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-pluto.md",
+      "before_sha256": "555d0ef04eec16ad6e0bf3a83d431de4c85e6d6b2a9dd4f542f7f9b73757518d",
+      "after_sha256": "1794455954439799c8d95a362b63dcc7b67096d0a6fffa8603f025656e4b8662",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-poseidon.md",
+      "before_sha256": "f7f7ee0556b3c9ba2636ae55cc516a9d552a0a30407a7fc8e5c227fd50e9f707",
+      "after_sha256": "31a595bc89dcd90ecfc2bfde5987e84192ba1be594c0ccc052ca383e6f5df65f",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-saturn.md",
+      "before_sha256": "8422bba7485211cfbe5369d3eaa7e322dc58b7ec1d9af85255d23707ddbbd404",
+      "after_sha256": "75f85b1ae77e0cb0d65d2c992f9fa738798786cd847aa25ff22cd282648e0bf7",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-sun.md",
+      "before_sha256": "80c435e3614d570e724934a44ee04164a0f622801ccaa80251455cb9f7c94c09",
+      "after_sha256": "fc6090f226cb62e4d02f5a7a959b6bc17b677115a6a203e16a666bd1555a0e6a",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-uranus.md",
+      "before_sha256": "620d19a530f6834fe1407581461947966009fd906897b9841ed93e4361f6ddbf",
+      "after_sha256": "6f978c9a53b62979ff7a2d21a86607f86fb6f3df0776a561d802a8938eebd2bb",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-venus.md",
+      "before_sha256": "3cdf55d835f1f97a0f6ddb9ef350e402992d17c85a0567430195880989f4e457",
+      "after_sha256": "3b607f9d48b6af2c5e48d6cd27dc728bf487e566ee167e15dd1205893e2b6a0d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-vulcanus-equals-zeus.md",
+      "before_sha256": "1d1c33d6d6a2dd990074fbc1cb8bd2883ab8be40f5e77dc318f7d6ed16ffa2fc",
+      "after_sha256": "aec1c4a86ce4ac57865442d8513669f5910bb8546a5f43913b3d2f736eaf37f8",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-admetos.md",
+      "before_sha256": "b1734c8ba3d47f3bdc964406c9f4fe2e8ae69b653628f37505fc5bb7b6c89124",
+      "after_sha256": "b420f4e0ca9f90527e078abf6ad64935317fa86d1d8df57e94040d46da3cf504",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-apollon.md",
+      "before_sha256": "266d2bcd8cb8251bf2fb9da1f969bcad0c3dff572ac460048636228cf7599bb3",
+      "after_sha256": "c5feb38c7e9f5cbc01bb9a1a620811fce71faec789e12af508764b87cf753bee",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-asc.md",
+      "before_sha256": "f6df768b00befb4820ba4de624850fc2eac6da534f2b1730729cbf2b91064ab5",
+      "after_sha256": "f3fc53457f27f741d9c593fa0f52ae03f03411347b22750b4e426b6383b98e6e",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-cupido.md",
+      "before_sha256": "f1e48efb4be4e1ce3493853cd0d974facb920a86148b568f697b226d82d1d890",
+      "after_sha256": "757e3af9862d6679bace036d54c3146dedb5c2e9c07287ac5732225b92a6cadf",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-hades.md",
+      "before_sha256": "4b40a80ae97ca70a214948fc50bf037766e05c60e15938c7ef045f1b650242e1",
+      "after_sha256": "c8d327f38bf14ac0a28f0f46c5559258d32d239f5f4a25bd88477e0354513c80",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-jupiter.md",
+      "before_sha256": "d11518ae8163facf9518d49345ecb81ca469a435155f1fe9bfcc5d37b09f0668",
+      "after_sha256": "68541f446a458b75888bd955e4560fe5f9515d877ca5c83a49d13987520f9345",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-kronos.md",
+      "before_sha256": "704da1f5d6159c6a062d50ee5a2811e66f04ddc82f368fee3049fde4c85542b5",
+      "after_sha256": "d8e46d7fca039d891771a2b59260748264a59cb0167ee5d2343b136f9f272e60",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-mars.md",
+      "before_sha256": "47688732bb8fcf13d7e6d9fda98105a5fa56398dc94a8af1665d9a351e422b1c",
+      "after_sha256": "4ae18a12405386058bcb1f599eab032cac3d2d7254186185dd2e5accc912f036",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-mc.md",
+      "before_sha256": "bad354e94dc5be95659e620e3f7d9c3e3410826e4f30001fd49a2198a72a77b4",
+      "after_sha256": "22c51c8abeca9fc6f71a8449db27661ddb90b24f879ea2ea19c6aff9cfc31339",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-moon.md",
+      "before_sha256": "2eaca688ac1096cb07f937e4e58ab41b85e4380bae3111e658591e1ebb955888",
+      "after_sha256": "7ff0ebba5fbe163278c2ef45e6b69625fa31001b1399ed1252b81bec714b39ad",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-node.md",
+      "before_sha256": "0fc0295f9677997ff1fedf2fcb51b36e62d533ae0045ecca58464879a0f0f658",
+      "after_sha256": "fb74c6b1986022b09b5c849067d31f90c93b7834d8c477e62d3637d5581c4909",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-pluto.md",
+      "before_sha256": "1639febd03c244183eaffd11acbfceac439e565d68c8c436621a262d6283704d",
+      "after_sha256": "ab8ec9c6d4de0c8a566af7784bf9e6426942a60715f9a4669d8912436d93e149",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-poseidon.md",
+      "before_sha256": "9ac7fa5c10a9cecf73c90d716828ae5ac364016f39783d2d0a3824a079aacfa8",
+      "after_sha256": "f663a04e446f981dab9d06fcc21ad2f1f2ce2915f052ab2b1a05ff0c2fea99d0",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-sun.md",
+      "before_sha256": "de6a4bdcfa0c3dc59c6e1b0b58be74cf465e344facf48f169b2f2f8432b6c794",
+      "after_sha256": "60d39b9671fc18cb4b2671c5e1665173856670a4a44eb8a417647eea52e3b750",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-uranus.md",
+      "before_sha256": "4b91a6632deb10c664276d28729f5db91d55dc8ae857cf8aabd5b204d0b0c453",
+      "after_sha256": "6b3cbdae01753cffb9d78bdaed59f99423c24feef765bd30a7c074f34883ce50",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-venus.md",
+      "before_sha256": "ad06be6729e6d4975fde32433af3fe511a87449944166afd7e2af8e782b3a70b",
+      "after_sha256": "318dcdea3c7530c521d4db3cbfd30fc887b5de09d3af32334c83dcaea057c5c7",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-zeus-equals-vulcanus.md",
+      "before_sha256": "0510224dfa408f293079d4b691e830d6e99b222cdc2b41d03838f794106b969f",
+      "after_sha256": "c27941e0ab5549b6c9199deb4160b21364a2a3c3d42e0b5b9e8077977d773376",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    }
+  ],
+  "pending_ledger_excluded": [],
+  "candidate_artifact_generated_at": "2026-10-15T13:09:11.946381+00:00",
+  "exact_current_approved_excluded": [],
+  "verifier": "/root/activation_review_063_066",
+  "generated_at": "2026-10-15T13:36:40.434Z",
+  "scope": [
+    "vernal-point-saturn",
+    "vernal-point-sun",
+    "vernal-point-uranus",
+    "vernal-point-venus",
+    "vernal-point-vernal-point",
+    "vernal-point-vulcanus",
+    "vernal-point-zeus"
+  ]
+}

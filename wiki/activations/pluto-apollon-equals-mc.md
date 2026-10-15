@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Pluto MC Apollon](../triads/pluto-mc-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 The personal ability to develop. To collect experiences. To move in a new direction of development. To start something new. To develop a new science. To experience large changes.
 
@@ -42,13 +46,27 @@ The personal ability to develop. To collect experiences. To move in a new direct
 
 #### ABC Entry
 
-I develop knowledge, my clerical change, my development in trade, my transfonnation successes, my extensive alterations, and my growing success
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
+Successful inner development, I develop knowledge, my successful change, my development in trade, my transformation successes, my extensive changes, my growing success.
+
+## Comparative Schema
+
+- core meaning: personal ability to develop through experience, new directions or large changes.
+- psychology: collecting experience, developing knowledge and readiness to start something new.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: trade is named, but no specific partnership or group is delineated.
+- events/manifestations: a new direction, a new undertaking or science, and personally experienced large changes.
+- conflicts/notes: Witte emphasizes personal capacity and experience; ABC emphasizes successful inner and practical development without establishing a direct disagreement.
+
+## Contradictions
+
+Witte emphasizes personal capacity and experience; ABC emphasizes successful inner and practical development without establishing a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = MC`: the personal ability to develop; To collect experiences; To move in a new direction of development; To start something new.
-- Practical expression: i develop knowledge, my clerical change, my development in trade, my transfonnation successes, and my extensive alterations.
+MC specifies `Pluto/Apollon` through a person's capacity to develop and take a new direction. The [Witte entry](#witte-entry) joins collecting experience with starting something new, developing a science and undergoing large changes; the [ABC entry](#abc-entry) adds inner development, growing knowledge and successful changes in trade or personal circumstances. The development is personally lived as well as outwardly extensive, without being confined to one profession or field.
 
 ## Links
 

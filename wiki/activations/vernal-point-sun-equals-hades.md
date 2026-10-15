@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Hades](../triads/vernal-point-sun-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Frailties of the body. Sickness. Deficiency. Poverty. Unemployment.
 
@@ -42,13 +46,27 @@ Frailties of the body. Sickness. Deficiency. Poverty. Unemployment.
 
 #### ABC Entry
 
-Man's Endangered World, Criminal Persons in Public, Nightcilc by People of Public Life, People of Public Life of the Past, Personal Danger in Public, and Personal Lack in Public
+- Source page: 23; PDF page: 10 (one-based spread).
+
+A man's endangered world, criminal people in public, disadvantages through public figures, public figures of the past, personal public danger, and personal public deprivation
+
+## Comparative Schema
+
+- core meaning: Public personal or bodily life affected by deficiency, danger, or the past.
+- psychology: No distinct psychological claim is supplied.
+- body/health: Witte names bodily frailty and sickness as source associations.
+- social/relationship: Poverty, unemployment, and disadvantages through public figures.
+- events/manifestations: Personal danger and public persons of the past.
+- conflicts/notes: Historical figures, poverty, and illness are not equated with criminality.
+
+## Contradictions
+
+No direct contradiction is established. Criminal persons are a specific example, separate from illness, deprivation, or historical public life.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Hades`: frailties of the body, sickness, deficiency, poverty, and unemployment.
-- Practical expression: man's Endangered World, criminal Persons in Public, nightcilc by People of Public Life, people of Public Life of the Past, and personal Danger in Public.
+In `Vernal Point/Sun = Hades`, public personal life is approached through vulnerability or deficiency. The [Witte entry](#witte-entry) names bodily frailty, sickness, poverty, and unemployment. The restored [ABC entry](#abc-entry) adds danger, personal deprivation, disadvantage through public figures, and persons of the past. The synthesis preserves criminality as a separate named possibility rather than a judgment on people experiencing hardship.
 
 ## Links
 

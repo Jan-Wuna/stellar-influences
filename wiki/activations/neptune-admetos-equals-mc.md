@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = MC`
 - Astronomicon formula: `Y/¦ = MC`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 To change the profession. To enter into a new form of being. To come into different circumstances. To change into a different condition.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `402`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-I'm solid formless, I'm getting out of depression, I'm condensing fine fabric, my fidgety circle: my exchange through constraint, my circulatory weakness, I'm engulfing myself in metaphysics, and insecurity through mental depression
+I consolidate formless things, I free myself from depression, I condense subtle matter, my fluid circulation, my disappointment through restriction, my circulatory weakness, I deepen my involvement in metaphysics, and insecurity through emotional suppression
+
+## Comparative Schema
+
+- core meaning: personal changes of profession, circumstances, or state of being.
+- psychology: release from depression, disappointment, and insecurity under emotional suppression are ABC examples.
+- body/health: circulatory weakness and depression remain historical claims; subtle-matter language is not a physiological mechanism.
+- social/relationship: neither entry specifies a relationship role; the source emphasis is first-person experience.
+- events/manifestations: profession change, new circumstances, and involvement in metaphysics are stated.
+- conflicts/notes: Witte describes change without a frequency claim; ABC's literal metaphysical phrases do not prove a physical process.
+
+## Contradictions
+
+Witte's general state or professional change and ABC's bodily, emotional, and metaphysical phrases differ in subject. Release and weakness remain separate possibilities rather than a fixed sequence of transformation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = MC`: To change the profession. To enter into a new form of being. To come into different circumstances. To change into a different condition.
-- Practical focus: `Neptune/Admetos` becomes a change of role, profession, or basic state of being. It often marks a threshold where life form itself is altered, making hardening or dissolution part of a larger shift in identity, circumstance, or vocation.
-- Practical expression: i'm solid formless, i'm getting out of depression, i'm condensing fine fabric, my fidgety circle: my exchange through constraint, and my circulatory weakness.
+In Neptune/Admetos = MC, MC specifies the pair through personal changes in profession or circumstances. The [Witte entry](#witte-entry) names a new form of being or a different condition; [ABC](#abc-entry) gives first-person release from depression, disappointment through restriction, and deepening involvement in metaphysics (printed p. 402, PDF p. 200). Its circulation and subtle-matter phrases remain attributed historical language. The entries do not establish a physical mechanism or how often such changes occur.
 
 ## Links
 

@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Hades](../triads/venus-jupiter-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Love’s happiness in secrecy. Love’s happiness tied to poverty. Passed away l
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `273`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Endangered love happy, dangerous peace success, successful kiss of the past, loss of love joy, criminal financial wish, lack of love happyness, disadvantage by preference for money, hidden love joy, and renunciation of love joy
+Endangered happiness in love, endangered success in peace, successful art of the past, being deprived of love's joys, criminal financial wishes, lack of happiness in love, disadvantage through preference for money, hidden joy in love, and renunciation of love's joy.
+
+## Comparative Schema
+
+- Core meaning: Love's happiness concealed, deprived, endangered, or connected with difficult material conditions.
+- Psychology: Hidden enjoyment, lack of affection, or renunciation of pleasure in love.
+- Body/health: No specific medical statement is supplied by these activation entries.
+- Social/relationship: Secret love or happiness tied to poverty; deprivation and lost good fortune.
+- Events/manifestations: Endangered peace efforts, success of art from the past, and harmful financial desires.
+- Conflicts/notes: The historical entries include crime in connection with love or financial wishes; this is attributed source language, not a judgment about a person.
+
+## Contradictions
+
+- The historical entries include crime in connection with love or financial wishes; this is attributed source language, not a judgment about a person.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Jupiter = Hades`: love’s happiness in secrecy.
-- Practical expression: endangered love happy, dangerous peace success, successful kiss of the past, loss of love joy, and criminal financial wish.
+`Venus/Jupiter = Hades` describes happiness in love that may be hidden, endangered, lost, or lived under poverty. [Witte](#witte-entry) holds secret happiness beside vanished good fortune, while the [ABC entry](#abc-entry) includes deprivation and renunciation of affection. Concealment can therefore accompany enjoyment, although other clauses concern its absence. The ABC's successful art of the past supplies a distinct constructive expression within this difficult range. Both sources also retain severe historical associations involving crime or harmful financial desire; those claims do not establish conduct or guilt in an individual case.
 
 ## Links
 

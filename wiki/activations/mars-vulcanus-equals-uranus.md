@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Uranus Vulcanus](../triads/mars-uranus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-£*<•> Sudden great display of power. Energies suddenly manifested. Explosions.
+Source: “Mars + Vulcanus,” PDF p. 203.
+
+Sudden great display of power. Energies suddenly manifested. Explosions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting power actions, energy activity in tcchnik, influence of Rcform actions, new influence through work, sudden violence actions, sudden energetic impulses, strong reform impulses, and unrest through violence activity
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Exciting exercises of power, energy activity in technology, influential reform actions, new influence through work, sudden violent actions, sudden energy impulses, strong reform impulses, and unrest through violent activity.
+
+## Comparative Schema
+
+- core meaning: Powerful energies manifested suddenly through technical activity, reform, or forceful events.
+- psychology: Sudden energy impulses in ABC's entry.
+- body/health: Explosions are named, without a diagnosis or specific bodily outcome.
+- social/relationship: Influential reform and unrest through violent activity.
+- events/manifestations: Sudden displays of power, technical energy work, and new influence through work.
+- conflicts/notes: Explosions and violence are source possibilities alongside reform and technical activity.
+
+## Contradictions
+
+Both entries emphasize sudden power. ABC extends the range to technical work and reform, rather than limiting it to explosion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Uranus` releases great force suddenly, explosively, and without warning.
-- Chart expression: abrupt displays of power, energies suddenly breaking out, and explosive events in which strength manifests all at once.
+In `Mars/Vulcanus = Uranus`, Uranus specifies powerful effort through sudden manifestation of energy and new influence. Witte names an abrupt display of power and explosions; ABC also includes technical energy work, influential reform, and strong reform impulses. Sudden violence and the unrest it creates remain difficult expressions alongside those work-related possibilities. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

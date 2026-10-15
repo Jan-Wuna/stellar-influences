@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Hades`
 - Astronomicon axis: `X/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 237.
+
 Distinctly marked loathsomeness or disgust. Sudden mean acts. Exciting damages. Accident. Murder. War atrocities. Sudden death. Unsuspected catastrophes. Danger of being murdered. Old, ancient technology or science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Excitement about Kriminatit, Impulse of the past, sudden distress, technical night organ, technical secret, ii surprising lack, ii surprising light, outdated technique, and hidden tension
+- Source page: printed pp. 376–377; PDF p. 187.
+
+Agitation about criminality, dangerous event, impulses from the past, sudden distress, technical disadvantage, technical secret, surprising lack, surprising renunciation, outdated technology, hidden tension.
+
+## Comparative Schema
+
+- core meaning: sudden distress, damaging events, or revulsion, with a separate concrete reference to old or obsolete technology and science ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: disgust, hidden tension, and distress are named; the entries do not establish a person's criminal intent or moral character.
+- body/health: Witte includes accidents and sudden death among severe examples, without supplying a specific disease or a medical diagnostic rule.
+- social/relationship: harmful acts and war atrocities occur in Witte's event vocabulary; no ordinary partnership pattern is described.
+- events/manifestations: unforeseen catastrophe, damage, violent acts, old technology, technical secrets or disadvantages, and surprising lack or renunciation; the severe examples remain source possibilities rather than predictions.
+- conflicts/notes: obsolete technology is a distinct nonviolent meaning that must remain visible. The brief summaries do not assign responsibility for harm or establish a particular relationship outcome.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Excitement about Kriminatit, Impulse of the past, sudden distress, technical nig
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to distinctly marked loathsomeness or disgust. Sudden mean acts. Exciting damages. Accident. Murder. War atrocities. Sudden death. Unsuspected catastrophes. Danger of being murdered. Old, ancient technology or science.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Hades` concerns a sudden encounter with distress, damage, or something experienced as deeply repellent. The [Witte summary](#pair-summary) emphasizes harmful acts and unforeseen calamity, while the [ABC summary](#abc-pair-summary) adds agitation about criminality, dangerous events, impulses from the past, and hidden tension. These entries support a difficult range of experience, without establishing that a person causes the harm or possesses a criminal character.
+
+Old or obsolete technology and science form a separate, concrete part of the [pair's range](#pair-summary) and should not be lost beneath the severe examples. Technical disadvantage or secrets, surprising lack, and renunciation in the [ABC summary](#abc-pair-summary) further broaden the field beyond a violent incident. Murder, war atrocities, and sudden death remain explicit Witte associations, but they cannot be selected as a forecast from this unordered pair alone; a closing factor requires its own activation evidence.
 
 ## Links
 

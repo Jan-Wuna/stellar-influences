@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Vulcanus`
 - Astronomicon triad-set: `VP S §`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Vulcanus = Vernal Point](../activations/sun-vulcanus-equals-vernal-point.md)
-- [Vernal Point/Sun = Vulcanus](../activations/vernal-point-sun-equals-vulcanus.md)
-- [Vernal Point/Vulcanus = Sun](../activations/vernal-point-vulcanus-equals-sun.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Vulcanus = Vernal Point](../activations/sun-vulcanus-equals-vernal-point.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | Vernal Point |
+| [Vernal Point/Sun = Vulcanus](../activations/vernal-point-sun-equals-vulcanus.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Vulcanus |
+| [Vernal Point/Vulcanus = Sun](../activations/vernal-point-vulcanus-equals-sun.md) | [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md) | Sun |
 
 ## Source Coverage
 
-- `Sun/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `170`
-- `Vernal Point/Sun = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `23`
-- `Vernal Point/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
-- `Vernal Point/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `56`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Vulcanus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-vernal-point.md#abc-entry), printed p. `170`.
+- `Vernal Point/Sun = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-vulcanus.md#abc-entry), printed p. `23`.
+- `Vernal Point/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `54`.
+- `Vernal Point/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-vulcanus-equals-sun.md#abc-entry), printed p. `56`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Vernal Point`: This formula emphasizes concentrated force showing directly in the immediate environment.
-- `Vernal Point/Sun = Vulcanus`: This formula emphasizes strength of the body, power achieved with the body, and eruptions during the day.
-- `Vernal Point/Vulcanus = Sun`: This formula emphasizes one who has a powerful or influential position, e.g, a ruler of a country, and to have strength of body and to use it.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

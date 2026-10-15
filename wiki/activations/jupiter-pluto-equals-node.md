@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Jupiter/Pluto = Node`
 - Astronomicon formula: `V/Z = g`
@@ -39,30 +41,42 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Reference: one-based PDF p. 210.
+
 Fortunate change in connections. New good connections. Many fluctuations in a relationship. Many changes in relationships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developing successful connections, developing money contacts, beneficial change in a relationship, growing joy over a connection, growing legal relationship, changing financial connections, and changing a legal connection
+Reference: printed p. 330 (one-based PDF p. 164).
+
+Developing successful connections, developing money contacts, beneficial change in a relationship, growing joy over a connection, growing legal relationship, changing financial connections, and changing a legal connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Joint aspiration, a relationship to the masses, political activity. A joint or shared success, far-reaching associations. 51 To Neptune = Jupiter/Pluto one might add; a tendency for infection. 52 Jupiter/Pluto = Node has been found frequently in the cases of economists, managers and directors of business concerns.
+Reference: printed p. 235 (one-based PDF p. 237), entry `0827`, footnote 52.
+
+Joint aspiration, a relationship to the masses, political activity. A joint or shared success, far-reaching associations.
+
+Footnote 52: Jupiter/Pluto = Node has been found frequently in the cases of economists, managers and directors of business concerns.
+
+Neighboring-entry provenance: footnote 51 on the same page reads, “To Neptune = Jupiter/Pluto one might add: a tendency for infection.” Its marker belongs to entry `0826`, Neptune, and supplies no health claim for this Node orientation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Reference: one-based PDF p. 83, Jupiter/Pluto, exact Node paragraph; p. 82 is the chapter start.
 
 To be a big motivator of groups. To come together with others for the purpose of transformative expansion. One is needing in this lifetime to harness one’s enthusiasm so that it can power one’s evolution.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/PLUTO with Planets and Points`
-- Source page: `268`
+- Source page: printed p. `268`
 
 #### Munkasey Entry
 
@@ -70,22 +84,23 @@ Increased needs to be the center of attention within your circle of friends or a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Shared aspiration and expanding or changing connections, including group motivation and joint success.
+- Psychology: Enthusiasm directed toward transformation; Munkasey also names a need for attention from friends or an audience.
+- Body/health: No health claim in these Node entries. Ebertin's infection footnote belongs to Neptune.
+- Social/relationship: Broad associations, financial and legal contacts, cooperation, and the possibility of ending ties after using others' services.
+- Events/manifestations: New favorable connections, relationship fluctuations, political activity, and shared success; Ebertin reports an association with economists, managers, and business directors.
+- Conflicts/notes: Successful collective activity and instrumental or fluctuating ties are both represented. The entries do not establish that either must accompany the other.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize different possibilities rather than state a direct contradiction: favorable connections and shared success can coexist with changing relationships, while Munkasey specifically raises attention and cooperation issues. Ebertin's occupational observation remains his reported association, not a criterion for identifying a profession.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Node`: influential circles, shared aspiration, and the ability to motivate many people toward expansive change. Main caution: scale without proportion: alliances can become too fluctuating, too strategic, or too driven by power and reach rather than genuine mutuality.
+In `Jupiter/Pluto = Node`, Node specifies the pair through connections that develop shared aims and widen collective activity. New favorable relationships and changing financial or legal contacts give this movement a practical form; joint aspiration, political activity, and group motivation extend it toward broad associations and transformative expansion. Enthusiasm becomes a resource for bringing people together. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry))
+
+The same relationships can fluctuate or become instrumental. [Munkasey](#munkasey-entry) places cooperation alongside a desire for attention and an ability to break ties after using others' services. This qualifies the collective promise with a specific question about how participation and mutual support are sustained; it does not make exploitation a necessary condition of shared success.
 
 ## Links
 

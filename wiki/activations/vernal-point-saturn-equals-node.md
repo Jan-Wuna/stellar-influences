@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Node](../triads/vernal-point-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 To take leave.
 
@@ -42,13 +46,27 @@ To take leave.
 
 #### ABC Entry
 
-Meetings in the evening in public, burdensome public relations, relations with the public tasks, distanced public relations life, public communication tasks, and problematic public relations
+- Source page: 36; PDF page: 17 (one-based spread).
+
+Public meetings in the evening, burdensome public connections, relations with public tasks, disturbed connections in public life, joining public tasks, and problematic public connections
+
+## Comparative Schema
+
+- core meaning: Public burdens expressed through difficult or separating connections.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Taking leave and disturbed associations.
+- events/manifestations: Evening meetings and links involving public tasks.
+- conflicts/notes: Disturbed connections replaces distanced relations; evening meetings are a separate setting.
+
+## Contradictions
+
+Meeting and joining tasks can persist alongside burden or parting. The sources do not describe only the absence of contact.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Node`: to take leave.
-- Practical expression: meetings in the evening in public, burdensome public relations, relations with the public tasks, distanced public relations life, and public communication tasks.
+In `Vernal Point/Saturn = Node`, public difficulty is carried through associations. The [Witte entry](#witte-entry) names taking leave. The restored [ABC entry](#abc-entry) broadens the theme to burdensome or disturbed connections, public tasks, and evening meetings. The synthesis preserves association under obligation or strain as well as the possibility of parting.
 
 ## Links
 

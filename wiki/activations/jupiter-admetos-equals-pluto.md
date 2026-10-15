@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Admetos = Pluto`
 - Astronomicon formula: `V/¦ = Z`
 - Axis page: [Jupiter/Admetos](../axes/jupiter-admetos.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 220; PDF p. 216.
+
 A deep fortunate change commences.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-through perseverance, fundamental legal development, shrinking legal development, profound change in finance, and growing undergrowth of joy
+- Source reference: printed p. 343; PDF p. 170.
+
+Restricted financial development, blocking development funds, successful development through perseverance, thorough legal development, restricted legal development, profound change in finance, and growing suppression of joy.
+
+## Comparative Schema
+
+- Core meaning: Profound change can be fortunate or restricted.
+- Psychology: ABC includes growing suppression of joy.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Legal development, whether thorough or constrained.
+- Events/manifestations: Blocked development funds, financial change, and success through perseverance.
+- Conflicts/notes: A deep change does not establish slowness or hidden preparation.
+
+## Contradictions
+
+Witte's fortunate change and ABC's increasing suppression of joy are distinct possible outcomes; the entries do not resolve them.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Pluto`: improvement emerging slowly from within constrained conditions. It can show a meaningful change taking root below the surface before it becomes visible.
+In `Jupiter/Admetos = Pluto`, Pluto specifies the Jupiter/Admetos axis through deep change in finance, rights, and the possibilities of success. The [Witte Entry](#witte-entry) gives the beginning of a deeply fortunate change. The [ABC Entry](#abc-entry) adds successful development through perseverance, but also blocked development funds, constrained legal development and increasing suppression of joy. The shared theme is consequential development within limits; the favorable direction of Witte's brief entry does not cancel ABC's adverse alternatives.
 
 ## Links
 

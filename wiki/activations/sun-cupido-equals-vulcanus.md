@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
 - Triad hub: [Sun Cupido Vulcanus](../triads/sun-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 115; PDF page 111 (one-based).
 
 To come into power and influence through marriage. High artistic gift. Talented as an organizer.
 
@@ -42,13 +46,27 @@ To come into power and influence through marriage. High artistic gift. Talented 
 
 #### ABC Entry
 
+Source locator: printed page 159; PDF page 78 (one-based).
+
 Energy centre of a community, common body force, violence in the human community, power of the human community, power center of a community, personal influence in the community, and strong person of a community
+
+## Comparative Schema
+
+- core meaning: Power and influence through marriage or community, with artistic and organizing capacity.
+- psychology: High artistic gift and talent for organization.
+- body/health: Shared bodily strength is named without a specific disorder.
+- social/relationship: Influence gained through marriage and personal power within a group.
+- events/manifestations: Community energy or power centers and violence within a community.
+- conflicts/notes: Strong influence is not the same as affectionate family bonds; violence remains an explicit ABC possibility.
+
+## Contradictions And Comparison Notes
+
+Witte adds artistic gift and organization to marriage-derived influence. ABC gives collective force, power and violence; these should not be softened into uniformly harmonious cohesion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Vulcanus`: strong family bonds and energetic community.
-- Practical expression: energy centre of a community, common body force, violence in the human community, power of the human community, and power center of a community.
+For `Sun/Cupido = Vulcanus`, shared life is a setting of power and influence. [Witte](#witte-entry) describes influence through marriage, artistic gift and organizing talent; [ABC](#abc-entry) adds collective strength, community power centers and strong or influential individuals within a group. ABC also explicitly includes violence. The formula therefore concerns the force and organization of communal or marital participation, without assuming that powerful bonds are affectionate or benign.
 
 ## Links
 

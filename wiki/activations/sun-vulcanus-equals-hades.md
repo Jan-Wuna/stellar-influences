@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Hades`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = ¢`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Hades Vulcanus](../triads/sun-hades-vulcanus.md)
@@ -42,13 +43,29 @@ To be hindered to use one’s physical strength through illness, injury, mutilat
 
 #### ABC Entry
 
-Influential person of the past, dangerous power man, personal power dispensation, criminal influence in the community, lack of body crafl, disadvantages by a violent man, and strong of a criminal community
+Source locator: printed page 171 / PDF page 84, Hades glyph under Sonne + Vulkanus. English translation checked against the complete row.
+
+Influential person from the past, dangerous powerful person, personal renunciation of power, criminal influence in the community, deficient bodily strength, disadvantages through a violent man, and strength of a criminal community.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength is hindered or associated with dangerous uses of power.
+- psychology: A specific psychological trait is not established.
+- body/health: Witte historically attributes diminished strength to illness or injury, including disfigurement.
+- social/relationship: ABC names harmful influence by a violent man and a criminal community.
+- events/manifestations: Loss of usable strength and dangerous power are separate manifestations.
+- conflicts/notes: Witte's bodily limitation and ABC's social danger are distinct emphases.
+
+## Contradictions
+
+Witte's bodily limitation and ABC's social danger are distinct emphases. ABC's renunciation of power, deficient bodily strength and criminal-community strength are separate examples, without establishing that one causes another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Hades`: powerful disease, intense strain, or concentrated suffering.
-- Practical expression: influential person of the past, dangerous power man, personal power dispensation, criminal influence in the community, and lack of body crafl.
+Hades specifies Sun/Vulcanus through strength that is impaired or placed in harmful circumstances. Witte's historical bodily examples concern being unable to use one's strength, while ABC adds dangerous or criminal power in a community. Those social examples should not be treated as consequences of bodily impairment. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

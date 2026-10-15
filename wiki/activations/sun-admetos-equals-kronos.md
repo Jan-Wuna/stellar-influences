@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Kronos Admetos](../triads/sun-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 To own property. Oppression through government or superiors. Death of a high personage.
 
@@ -42,13 +46,27 @@ To own property. Oppression through government or superiors. Death of a high per
 
 #### ABC Entry
 
-Renown of a solid person, especially bewildered person, limitation of personal authorship, solid state man, large rotating body, grilnd personal boss, self conscious personal resistance, superiority through corporal perseverance ljl blocked freedom of man, limitation of personal success, success through personal perseverance, strengthened personal knowledge, and personal success through grinding
+Source locator: printed page 169; PDF page 83 (one-based).
+
+Standing of a firmly established person, an especially oppressed person, restriction of personal authority, a firmly established statesman, a large rotating body, a thorough personal superior, self-confident personal resistance, and superiority through physical endurance.
+
+## Comparative Schema
+
+- core meaning: Established standing, authority or property, alongside oppression and restricted authority.
+- psychology: Self-confident resistance and thoroughness.
+- body/health: ABC names physical endurance; Witte's death example remains a historical attribution.
+- social/relationship: Statesmen, superiors, personal authority and governmental oppression.
+- events/manifestations: Property ownership, established standing and a large rotating body.
+- conflicts/notes: Holding authority and being oppressed by it are distinct positions; Apollon's following row has been removed from ABC.
+
+## Contradictions And Comparison Notes
+
+The entries retain both established position and pressure from authority. ABC's endurance and resistance are capacities within that range; they do not imply immunity from oppression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Kronos`: to own property and oppression through government or superiors.
-- Practical expression: renown of a solid person, especially bewildered person, limitation of personal authorship, solid state man, and large rotating body.
+For `Sun/Admetos = Kronos`, firmness is expressed through established position and its limits. [ABC](#abc-entry) describes standing, a firmly established statesman, thorough supervision and self-confident resistance, together with restricted authority and oppression. [Witte](#witte-entry) adds property ownership and pressure from government or superiors. The formula thus includes holding an established position and being constrained by authority as distinct expressions; the large rotating body and death of a high personage remain particular source examples.
 
 ## Links
 

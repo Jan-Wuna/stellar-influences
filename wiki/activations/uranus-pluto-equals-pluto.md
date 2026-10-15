@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Experiencing inner changes which you build on to improve your outlook on life; p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry).
+
+- core meaning: Inner changes that reshape a way of life.
+- psychology: An improved outlook and altered fundamental thinking.
+- body/health: The entry does not specify a bodily condition.
+- social/relationship: The entry addresses personal outlook rather than a defined relationship.
+- events/manifestations: Changes of lifestyle, ideas or activities.
+- conflicts/notes: This is one Munkasey repeated-pair entry, without independent comparison.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present, so no comparison between sources is possible. Its emphasis is inner and practical change; it does not establish a crisis or a necessary external event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Pluto`: Experiencing inner changes which one build on to improve one's outlook on life; prompts one to change or alter one lifestyle to bring in new ideas or activities; a change to the fundamental ways one operate or think in life.
+In `Uranus/Pluto = Pluto`, Pluto specifies the Uranus/Pluto pair through inner changes that become a revised outlook and way of living. New ideas or activities matter because they alter how a person operates and thinks. This reading stays within [Munkasey's repeated-pair entry](#munkasey-entry), rather than importing a separate three-factor interpretation.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Zeus`
 - Astronomicon formula: `V/Z = £`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Zeus row.
+
 Good circumstances continue to improve. To create the increase of charitable activities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting money development, developing successful timing, successful performanceChanges, joyful performance development, good start for a change, developing legal services, and growing happiness through efforts
+- Source reference: printed page 331; one-based PDF page 164, Jupiter/Pluto Zeus row; complete German row checked.
+
+Beginning financial development, developing successful leadership, successful changes in accomplishment, joyful unfolding of accomplishment, a good beginning for a change, developing legal services, and growing happiness through effort
+
+## Comparative Schema
+
+- core meaning: Improving circumstances, charitable activity and successful effort.
+- psychology: Joy in accomplishment and increasing happiness through effort.
+- body/health: No bodily condition is stated.
+- social/relationship: Charitable activities in Witte; leadership and legal services in ABC.
+- events/manifestations: Beginnings of financial development or change and successful accomplishments.
+- conflicts/notes: Führung concerns leadership, not timing; charitable activity is one Witte application rather than a necessary purpose of every effort.
+
+## Contradictions
+
+Both entries emphasize improvement and effective effort. Witte's charitable scope and ABC's financial/legal examples are complementary, without establishing that all financial development is altruistic.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Zeus`: growth becoming active, constructive, and outwardly useful. It favors producing better conditions over time and channeling power into generous or socially beneficial work.
+In `Jupiter/Pluto = Zeus`, [Witte](#witte-entry) describes good circumstances continuing to improve and an increase in charitable activity. [ABC](#abc-entry) gives improvement active forms in leadership, accomplishment, legal services and the beginning of financial development. Joy and happiness can grow through effort. The shared focus is productive improvement, retaining both the charitable example and the broader professional or financial possibilities.
 
 ## Links
 

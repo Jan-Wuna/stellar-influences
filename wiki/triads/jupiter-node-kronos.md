@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Node Kronos`
 - Astronomicon triad-set: `V g ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Kronos = Node](../activations/jupiter-kronos-equals-node.md)
-- [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md)
-- [Node/Kronos = Jupiter](../activations/node-kronos-equals-jupiter.md)
+- [Jupiter/Kronos = Node](../activations/jupiter-kronos-equals-node.md): base axis [Jupiter/Kronos](../axes/jupiter-kronos.md); activator [Node](../factors/node.md).
+- [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md): base axis [Jupiter/Node](../axes/jupiter-node.md); activator [Kronos](../factors/kronos.md).
+- [Node/Kronos = Jupiter](../activations/node-kronos-equals-jupiter.md): base axis [Node/Kronos](../axes/node-kronos.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
-- `Jupiter/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `338`
-- `Jupiter/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `144`
-- `Jupiter/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `215`
-- `Node/Kronos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `230`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Kronos = Node](../activations/jupiter-kronos-equals-node.md#witte-entry) (PDF entry-start p. 214); [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md#witte-entry) (PDF entry-start p. 144); [Node/Kronos = Jupiter](../activations/node-kronos-equals-jupiter.md#witte-entry) (PDF entry-start p. 152).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Kronos = Node](../activations/jupiter-kronos-equals-node.md#abc-entry) (printed p. 338); [Jupiter/Node = Kronos](../activations/jupiter-node-equals-kronos.md#abc-entry) (printed p. 215); [Node/Kronos = Jupiter](../activations/node-kronos-equals-jupiter.md#abc-entry) (printed p. 230).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Node`: contact with leading persons or with people who experience great luck.
-- `Jupiter/Node = Kronos`: good relations with the father or chief, protective connection, and acquaintance with a future husband.
-- `Node/Kronos = Jupiter`: Court action. Good connections with authorities. Reward. To receive money.
+Jupiter, Node and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Jupiter/Node](../axes/jupiter-node.md)
+- [Node/Kronos](../axes/node-kronos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)

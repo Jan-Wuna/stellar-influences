@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Mars Uranus Poseidon](../triads/mars-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To press energetically for attention and carefulness. To demand conscientiousnes
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 388; PDF p. 193.
+
 #### ABC Entry
 
-treat exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bring about cultural renewal, new spiritual work, work on new ideas, surprisingly clear actions, and rational technical work
+Addressing exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, bringing about cultural renewal, new spiritual work, working on new ideas, surprisingly clear actions, rational technical work.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Energetic demands for care and conscientious work.
+- psychology: Insistence on attention and clear action.
+- body/health: No bodily condition is specified.
+- social/relationship: Demanding conscientiousness from those involved in a task.
+- events/manifestations: Work on new ideas, cultural renewal and technical tasks.
+- conflicts/notes: The excerpts support directed effort without specifying violence.
+
+## Contradictions
+
+The demand for care and the account of active cultural work are different emphases, not a direct contradiction. Neither entry establishes that energetic insistence must become conflict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Mars`: To press energetically for attention and carefulness. To demand conscientiousness.
-- Practical expression: treat exciting truths, insightful work reform, eventful cultural work, spiritual work impulses, and bring about cultural renewal.
+In `Uranus/Poseidon = Mars`, Mars specifies mental or spiritual impulses through work and active insistence on care. [Witte](#witte-entry) centers on demanding attention and conscientiousness; [ABC](#abc-entry) gives work on new ideas, cultural renewal and technical activity as expressions. Understanding is put into action, with the quality of attention remaining central.
 
 ## Links
 

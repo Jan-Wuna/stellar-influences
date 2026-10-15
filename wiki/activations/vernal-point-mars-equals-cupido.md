@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Cupido](../triads/vernal-point-mars-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 Concerted action. A wedding ceremony. Work for public community.
 
@@ -42,13 +46,27 @@ Concerted action. A wedding ceremony. Work for public community.
 
 #### ABC Entry
 
+- Source page: 33; PDF page: 15 (one-based spread).
+
 Shared world of work, shared actions in public life, public action community, public community work, artistic activity in public, and will of a community for the public
+
+## Comparative Schema
+
+- core meaning: Public action organized and carried out together.
+- psychology: A community's will for the public is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Concerted action, community work, and a wedding ceremony.
+- events/manifestations: Shared work, action groups, and public artistic activity.
+- conflicts/notes: The wedding is a specific example within the wider collective-action theme.
+
+## Contradictions
+
+No direct contradiction is established. A marriage ceremony and community work are different settings for coordinated action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Cupido`: concerted action, a wedding ceremony, and work for public community.
-- Practical expression: shared world of work, shared actions in public life, public action community, public community work, and artistic activity in public.
+In `Vernal Point/Mars = Cupido`, activity becomes collective. The [Witte entry](#witte-entry) names concerted action, a wedding ceremony, and work for the public community. The [ABC entry](#abc-entry) develops this through a shared working world, public action groups, communal work, and artistic activity. The coherent emphasis is a group's capacity and will to act together in public life.
 
 ## Links
 

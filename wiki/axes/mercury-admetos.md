@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `T/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `171`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Serious or limited thinking. Perseverance in thinking. Profound thinker. Profoun
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `264`; PDF page: `131` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Endurance of youth, depressive thoughts, depressed youth, earth movement, thought circle, speech vertiction, N achrichten Sparrow, rotational movement, speech barrier, deep thoughts, and traffic stau
+German pair summary (transcribed from printed page `264`; PDF page `131`):
+
+> Ausdauer der Jugend, depressive Gedanken, deprimierte Jugend, Erd-Bewegung, Gedanken-Kreislauf, Gesprächs-Vertiefung, Nachrichten-Sperre, Rotations-Bewegung, schwere Jugend, Sprach-Barriere, tiefe Gedanken, Verkehrs-Stau
+
+Editorial translation from the German passage: Endurance of youth, depressive thoughts, depressed youth, earth movement, circulation of thoughts, deepening of conversation, news blackout, rotational movement, difficult youth, language barrier, deep thoughts, traffic congestion.
+
+## Comparative Schema
+
+- core meaning: Thought and communication under concentration, limitation, or standstill ([pair summary](#pair-summary)).
+- psychology: Perseverance and depth of thought coexist with pessimism, mental restriction, and sluggishness as possible expressions ([pair summary](#pair-summary)).
+- body/health: Depressive thoughts occur in the ABC entry, but no diagnosis follows. The summaries give no securely translated specific bodily condition.
+- social/relationship: Negotiations can reach a dead issue, and speech barriers are named; an intimate relationship pattern is not developed ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- events/manifestations: Stalled negotiations or movement and news concerning grief, death, or hindrance are explicit source examples ([pair summary](#pair-summary)).
+- conflicts/notes: Deep concentration and obstructed thought are different outcomes. ABC names deepened conversation, a news blackout, a language barrier and traffic congestion without making every persistent thought pathological.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Endurance of youth, depressive thoughts, depressed youth, earth movement, though
 - [Mercury/Admetos = Vulcanus](../activations/mercury-admetos-equals-vulcanus.md)
 - [Mercury/Admetos = Zeus](../activations/mercury-admetos-equals-zeus.md)
 
+## Contradictions
+
+Profound concentration and pessimistic limitation are both present in the pair summary; depth does not require pessimism. ABC adds deepened conversation, restricted news or language exchange, and traffic congestion. Its depression-related vocabulary remains source language without a clinical conclusion.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos` is the axis of compressed thought, serious concentration, pessimistic reflection, and information shaped by hindrance, standstill, or finality.
-- Chart expression: a mind that thinks slowly but deeply, persists through heavy conditions, and often experiences news, negotiations, or judgments through blockage, gravity, grief, or deadlock.
+`Mercury/Admetos` concerns thought that stays with a subject, either through sustained concentration or because movement and exchange have become restricted. The [pair summary](#pair-summary) holds profound thinking and perseverance alongside pessimism, sluggishness, and negotiations at a standstill. Its news of grief, death, or hindrance identifies possible subjects of communication, without making those events inevitable. The [ABC summary](#abc-pair-summary) adds depth of conversation and thought beside a news blackout, language barrier, and traffic congestion.
 
 ## Links
 

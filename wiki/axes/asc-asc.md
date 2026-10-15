@@ -45,6 +45,8 @@ updated_at: 2026-04-21
 
 - Axis: `Asc/Asc`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -52,6 +54,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Acquaintances and connections. The near surroundings. The place. Relatives and close friends. The outer appearance. The influence of others on ones own life and lifestyle. The immediate vicinity.
+
+## Comparative Schema
+
+- Core meaning: The immediate setting and nearby people form the organizing field of the [Pair Summary](#pair-summary).
+- Psychology: Other people influence personal life and lifestyle; the entry leaves the person's response to that influence unspecified.
+- Body/health: Outer appearance is named, but the entry supplies no bodily mechanism or health claim.
+- Social/relationship: Acquaintances, connections, relatives, and close friends are explicit in the [Pair Summary](#pair-summary).
+- Events/manifestations: Place, near surroundings, immediate vicinity, and the influence of nearby people on everyday life are the concrete settings supplied.
+- Conflicts/notes: This single brief entry describes a field of life rather than specifying whether its influence is helpful or difficult.
 
 ## Related Activations
 
@@ -77,11 +88,14 @@ Acquaintances and connections. The near surroundings. The place. Relatives and c
 - [Asc/Asc = Vulcanus](../activations/asc-asc-equals-vulcanus.md)
 - [Asc/Asc = Poseidon](../activations/asc-asc-equals-poseidon.md)
 
+## Contradictions
+
+No internal opposition is established in the pair summary. Its limited scope does not establish agreement with other sources or a complete account of environmental influence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Asc` is the pure doubling of the Ascendant principle: immediate environment, acquaintances, near surroundings, appearance, local ties, and the direct influence of other people on personal life and lifestyle.
-- Chart expression: the close social field itself: relatives, neighbors, companions, daily contact, bodily presence in place, and the quality of one's immediate vicinity. Liabilities: overidentification with outer circumstance, social reactivity, and a life that becomes too determined by the moods, pressures, or conditions of the near environment.
+`Asc/Asc` brings the immediate environment into focus: the place itself, outer appearance, and the people with whom life is closely connected. Acquaintances, relatives, and close friends are not merely a background in the [Pair Summary](#pair-summary); their influence on personal life and lifestyle is part of the axis's meaning. The entry describes this nearby social and physical field without deciding whether its influence is supportive or restrictive.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Neptune MC Admetos](../triads/neptune-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Difficult to deceive. One who persevere in his error.
 
 #### ABC Entry
 
-Dissolving my blockade, my profound finesse, my air crcissus, my weak circulation, my perseverance in the water, my limitation in the air, my impurity through depression, and mental depth through finesse
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+Dissolution of my blockage, my thorough sensitivity, my air cycle (Luft-Kreislauf), my weak circulation, my endurance in water, my restriction in the air, my uncertainty through depressions, inner depth through sensitivity.
+
+## Comparative Schema
+
+- **Core meaning:** Persistence alongside the loosening of a personal blockage.
+- **Psychology:** Resistance to deception can coexist with attachment to error; ABC adds sensitivity.
+- **Body/health:** ABC's weak-circulation language is a historical bodily association, not a clinical finding.
+- **Social/relationship:** No particular relationship outcome is established by these entries.
+- **Events/manifestations:** Holding a mistaken course or experiencing release from a blockage are the stated possibilities.
+- **Conflicts/notes:** ABC literally names an air cycle without explaining its mechanism; its circulation and depression language remains historical source association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Neptune` tests the axis through error, illusion, and resistance to being misled.
-- Chart expression: a person hard to fool yet also capable of persisting in false views, holding to error with the same endurance that guards against deception.
+Neptune specifies `MC/Admetos` through a tension between resistance and release: the person may be difficult to deceive yet remain attached to an error, while the ABC entry also allows a blockage to dissolve and sensitivity to deepen. These are alternatives in the entries, rather than a promise that persistence produces sound judgment. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Uranus Neptune](../triads/vernal-point-uranus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Sudden losses of a general character. From the beyond to here.
 
@@ -42,12 +46,27 @@ Sudden losses of a general character. From the beyond to here.
 
 #### ABC Entry
 
-see above Air change in public and unclear wall
+- Source page: 41; PDF page: 19 (one-based spread).
+
+Agitation of a disappointed public, new public disappointments, gradually developing nervousness in public life, surprising deception of the public, unrest and uncertainty in public life, and water technology in public life
+
+## Comparative Schema
+
+- core meaning: Public uncertainty stirred into sudden loss, agitation, or deception.
+- psychology: Nervousness, disappointment, and unrest are explicit.
+- body/health: No specific bodily or health claim is supplied.
+- social/relationship: A disappointed public subjected to surprising deception.
+- events/manifestations: Sudden general losses and water technology.
+- conflicts/notes: ABC's actual Uranus row is restored; Witte's beyond phrase remains unexplained.
+
+## Contradictions
+
+Water technology is a distinct technical setting, not itself deception. Witte's unexplained beyond phrase is preserved without an added doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Uranus`: sudden losses of a general character and from the beyond to here.
+In `Vernal Point/Neptune = Uranus`, public uncertainty becomes eventful and agitated. The [Witte entry](#witte-entry) names sudden general losses. The restored [ABC entry](#abc-entry) adds a disappointed public, developing nervousness, surprising deception, and unrest, alongside water technology as a separate example. The synthesis excludes the wrongly assigned Pluto material and leaves Witte's unexplained beyond phrase without interpretive expansion.
 
 ## Links
 

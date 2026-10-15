@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Hades`
 - Astronomicon formula: `R/Y = ¢`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 Morbid insomnia. To be tortured by bad dreams.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `189`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-Exchange by a criminal woman, finesse of a woman for danger, disadvantages for a weak people, creeping plight in the people, weakness by Gemlits Kummer, unclear past of a woman, and insecurity by women lack
+Disappointment through a criminal woman, a woman's sensitivity to danger, disadvantages for a weak people, creeping distress among the people, weakening through emotional sorrow, a woman's unclear past, and insecurity through a lack of women
+
+## Comparative Schema
+
+- core meaning: disturbed rest, emotional sorrow, and private or collective distress ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: bad dreams, disappointment, and insecurity are named.
+- body/health: Witte's morbid insomnia is a historical association, not a diagnosis.
+- social/relationship: a criminal woman, a disadvantaged people, and a woman's unclear past are source examples.
+- events/manifestations: creeping distress and troubled sleep give concrete manifestations.
+- conflicts/notes: ABC literally names a lack of women; its intended setting is not explained.
+
+## Contradictions
+
+The entries emphasize different forms of distress: Witte concerns insomnia and bad dreams, while ABC adds social disappointment, sorrow, and collective hardship. Neither entry establishes an inevitable causal sequence between them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Hades`: Morbid insomnia. To be tortured by bad dreams.
-- Practical focus: degrades `Moon/Neptune` into insomnia, bad dreams, and emotionally morbid nocturnal states. It shows the receptive imagination turned against ease, making rest, psychic openness, and inner softness vulnerable to disturbance, fear, or unhealthy fixation.
-- Practical expression: exchange by a criminal woman, finesse of a woman for danger, disadvantages for a weak people, creeping plight in the people, and weakness by Gemlits Kummer.
+In Moon/Neptune = Hades, Hades specifies the pair through distress that disrupts rest or accompanies disappointment. The [Witte entry](#witte-entry) is specifically about insomnia and bad dreams. The [ABC entry](#abc-entry) broadens the range to emotional sorrow, insecurity, disadvantage, and creeping hardship among a people (printed p. 189, PDF p. 93). These support troubled rest and difficult emotional or social conditions without making unhealthy fixation their necessary cause.
 
 ## Links
 

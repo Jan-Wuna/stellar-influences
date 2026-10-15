@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Cupido = MC`
 - Astronomicon formula: `S/¡ = MC`
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: 111.
+
 #### Witte Entry
 
 The native as a member of the family, as an artist, or member of an association.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page: 158 (printed); PDF page: 78.
+
 #### ABC Entry
 
-The Community of Men, the Community of men and women, my Community Centre, my husband is an artist, my person in the Community, and my community of men and women
+A soulful men's community, a soulful community of persons, a community of body and soul, my community center, my husband is an artist, my person in the community, and my personal community.
+
+## Comparative Schema
+
+- Core meaning: The person's own place in family, art or association.
+- Psychology: Personal identification and a soulful connection with community.
+- Body/health: ABC names a community of body and soul; no illness is specified.
+- Social/relationship: One's family, association or personal community; an artistic husband.
+- Events/manifestations: Participation as a member or artist.
+- Conflicts/notes: First-person and marital examples need not describe every reader literally.
+
+## Contradictions
+
+Witte identifies personal membership; ABC adds inward participation and a specific husband example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = MC`: domesticity and family.
-- Practical expression: the Community of Men, women, my Community Centre, my husband is an artist, and my person in the Community.
+MC specifies Sun/Cupido through one's own involvement in a family, artistic circle or association. The person is a participant at the center of the reading, rather than merely observing a group. ABC's community of body and soul gives that participation an inward dimension; its example of an artistic husband is one particular expression of personal communal life. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

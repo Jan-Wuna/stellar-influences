@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Asc](../triads/vernal-point-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Being fortunate with other persons.
 
@@ -42,13 +46,27 @@ Being fortunate with other persons.
 
 #### ABC Entry
 
-Success with others in the frequentity, joy in the public environment, money place in the public, happiness with a partner in the public life, public funds for the environment, public place right, and environmental success in the public
+- Source page: 34; PDF page: 16 (one-based spread).
+
+Success with others in public, joy in the public environment, a money-related place in public, happiness with a partner in public life, public funds for the environment, public local law, and environmental successes in public
+
+## Comparative Schema
+
+- core meaning: Public advantage shared with other people and the surrounding environment.
+- psychology: Joy and happiness with a partner are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Success with others is the central relational emphasis.
+- events/manifestations: Environmental funding, local law, and places associated with money.
+- conflicts/notes: The literal money-place compound does not identify a particular institution.
+
+## Contradictions
+
+No direct contradiction is established. Interpersonal good fortune and civic or environmental benefits operate at different scales.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Asc`: being fortunate with other persons.
-- Practical expression: success with others in the frequentity, oy in the public environment, money place in the public, happiness with a partner in the public life, and public funds for the environment.
+In `Vernal Point/Jupiter = Asc`, public success takes shape through the people and surroundings with which one is involved. The [Witte entry](#witte-entry) makes shared good fortune central; the restored [ABC entry](#abc-entry) develops it as happiness with a partner, joy in the environment, and benefits involving environmental funds and local law. These examples connect favorable relationships with favorable public conditions without specifying a particular financial institution.
 
 ## Links
 

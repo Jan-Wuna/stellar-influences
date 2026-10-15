@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Seeking others for consolation and encouragement; brings people into your life w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking connection for encouragement, goals, and fulfillment.
+- psychology: Need for consolation and learning from one's attraction to others.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Helpful people, encouragement, and sexual fulfillment are explicit.
+- events/manifestations: Meeting people who can help fulfill goals; no specific outcome is assured.
+- conflicts/notes: Sexual fulfillment is a relationship need here, not a bodily diagnosis.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present. Its support, goals, and attraction themes are different aspects of connection, without an explicit disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Node`: Seeking others for consolation and encouragement; brings people into one's life who can help one fulfill life’s missions or goals; highlights one's needs for sexual fulfillment; lessons learned from observing attraction to others.
+Node specifies Pluto/Node in the [Munkasey entry](#munkasey-entry) through seeking other people for consolation and encouragement. Helpful contacts can contribute to goals or a sense of mission, while sexual fulfillment and lessons learned from attraction preserve a more personal range. This repeated-factor formula describes needs and opportunities in contact without ensuring fulfillment or supplying a distinct three-factor triad.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
-- [Node](../factors/node.md)
 - [Node](../factors/node.md)
 - [Pluto/Node](../axes/pluto-node.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

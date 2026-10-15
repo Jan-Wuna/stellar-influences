@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Mars Saturn Kronos](../triads/mars-saturn-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 Dissolution of an establishment. Bankruptcy. One’s activities hindered by authorities.
 
@@ -42,13 +46,29 @@ Dissolution of an establishment. Bankruptcy. One’s activities hindered by auth
 
 #### ABC Entry
 
-Work tasks of authority, particularly heavy work, serious state activity, large work problems, concentration on special work, mature work of hierarchy, loss of self employed work, loss of job of the boss, and important work tasks
+Work tasks of authority, particularly heavy work, serious state activity, major work problems, concentration on particular work, mature work within a hierarchy, loss of independent work, loss-making work by the boss, and important work tasks.
+
+Translation checked against the German scan: printed p. 360, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Work and initiative face heavy official demands or loss of independence.
+- Psychology: Concentration on particular work despite major difficulties.
+- Body/health: Heavy work is named, but no specific bodily illness is established.
+- Social/relationship: Authority, hierarchy, and a boss frame the work setting.
+- Events/manifestations: Official obstruction, bankruptcy, dissolution of an establishment, and loss-making or independent work.
+- Conflicts/notes: The scan describes the boss's loss-making work, not necessarily the boss losing a job.
+
+## Contradictions
+
+Mature hierarchical work and important tasks in the ABC entry do not cancel Witte's obstruction and bankruptcy examples. They show that the entry includes sustained work as well as work brought to an end.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Mars`: dissolution of an establishment, bankruptcy, one’s activities hindered by authorities.
-- Practical expression: work tasks of authority, particularly heavy work, serious state activity, large work problems, and concentration on special work.
+In `Saturn/Kronos = Mars`, Mars specifies the Saturn/Kronos axis through work, effort, and initiative under official or hierarchical demands. The verified [ABC entry, printed p. 360](#abc-entry) connects particularly heavy work and concentration with major work problems, lost independence, and a boss's loss-making activity.
+
+The [Witte entry, PDF p. 227](#witte-entry) gives the sharper outcomes of official obstruction, dissolution, and bankruptcy. These remain particular manifestations within a picture that also includes mature work and important tasks, rather than a prediction that demanding work must fail.
 
 ## Links
 

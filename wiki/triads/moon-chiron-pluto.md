@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron Pluto`
 - Astronomicon triad-set: `R Chiron Z`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Pluto = Moon](../activations/chiron-pluto-equals-moon.md)
-- [Moon/Chiron = Pluto](../activations/moon-chiron-equals-pluto.md)
-- [Moon/Pluto = Chiron](../activations/moon-pluto-equals-chiron.md)
+- [Chiron/Pluto = Moon](../activations/chiron-pluto-equals-moon.md): base axis [Chiron/Pluto](../axes/chiron-pluto.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Pluto](../activations/moon-chiron-equals-pluto.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Pluto](../factors/pluto.md).
+- [Moon/Pluto = Chiron](../activations/moon-pluto-equals-chiron.md): base axis [Moon/Pluto](../axes/moon-pluto.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Pluto = Moon`: John, page `99`
-- `Moon/Chiron = Pluto`: John, page `32`
-- `Moon/Pluto = Chiron`: John, page `36`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Pluto = Moon](../activations/chiron-pluto-equals-moon.md#sandbach-entry) (PDF chapter-start p. 99; exact entry page unverified); [Moon/Chiron = Pluto](../activations/moon-chiron-equals-pluto.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Pluto = Chiron](../activations/moon-pluto-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 36; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto = Moon`: healing through surrender to deep feeling and emotional transformation. Main caution: being overwhelmed by feeling or dramatizing intensity instead of allowing it to change one.
-- `Moon/Chiron = Pluto`: The ability to create profound transformations through allowing emotional energy to flow freely. The irresistible urge to allow all that has been repressed in the subcon scious to come forth.
-- `Moon/Pluto = Chiron`: One’s energy helps others to get in touch with intense feelings, and to experi ence emotional transformation. You automatically stir up energies latent in the subcon scious of others and which need to be released.
+Moon, Chiron and Pluto form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Pluto](../axes/chiron-pluto.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Pluto](../axes/moon-pluto.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [Pluto](../factors/pluto.md)

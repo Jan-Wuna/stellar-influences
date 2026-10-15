@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Sun`
 - Astronomicon formula: `Y/Asc = S`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 Personal or bodily losses through other persons, or other influences. Danger of poisoning.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Other people in the air, sensitive people in the environment, exchangeable man partner, feeling of a man's partner, foreign local centre, personal refinement of the environment, weak personnel partners, and water in the local centre
+Other people in the air, sensitive person in the surroundings, disappointed male partner, sensitivity of a male partner, center of a foreign place, personal refinement of the environment, weak person as partner, and water in the center of the place
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1023`.
 
 #### Ebertin Entry
 
 Inclination to face others with a show of physical weakness, the misfortune to be exploited or harmed physically. Suffering degradation and humiliation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Identifying with one’s ideals is a great source of vitality and meaning in one
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Effectively using your perceptive powers to read and understand the motives of t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal vulnerability in dealings with others, alongside identification with ideals and interpretation of motives.
+- psychology: self-idealization may coexist with meaningful ideals and confidence about success.
+- body/health: poisoning, bodily loss, and physical harm are historical Witte/Ebertin claims, not diagnoses or predictions.
+- social/relationship: exploitation and a sensitive or disappointed partner are explicit possibilities.
+- events/manifestations: humiliation, refining one's environment, and determination to stay free from drugs are source examples.
+- conflicts/notes: Munkasey's perceptive ability is a source claim; ideals do not guarantee accurate judgment or protection from harm.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize personal or bodily vulnerability. Sandbach supplies vitality through ideals as well as self-idealization, while Munkasey includes perceiving motives and avoiding drugs.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Sun`: spiritualized self-expression, empathetic presence, and vitality fed by ideals, beauty, or subtle meaning. Main caution: self-idealization: identity can become weakly bounded, ego-deflated, inflated by fantasy, or open to exploitation.
+In Neptune/Asc = Sun, Sun specifies the pair through personal vulnerability and the place of ideals in self-understanding. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe losses or harm through others; [ABC](#abc-entry) adds a sensitive, weak, or disappointed partner (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) places meaning and vitality through ideals beside self-idealization, and [Munkasey](#munkasey-entry) adds interpreting motives and avoiding drugs. The favorable possibilities do not establish protection from harm; the bodily examples remain attributed historical claims.
 
 ## Links
 

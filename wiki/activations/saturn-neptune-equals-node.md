@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Node](../triads/saturn-neptune-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Connections with diseased people, with sick people.
 
 #### ABC Entry
 
-problematic expectations of a people, creeping emotional disturbances, serious connection to metaphysics, sensitivity and patience in a relationship, inhibitions in connection with water, and weakness of concentration in encounters
+Source: ABC printed p. 350, supplied PDF p. 174, Saturn + Neptun, node row (six clauses). Translation from the German scan:
+
+A serious connection to metaphysics; sensitivity and patience in a connection; inhibitions in connection with water; weakness of concentration in encounters; problematic expectations in a relationship; creeping losses in a relationship.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Inhibited or depressed in the presence of others, shyness, feelings of inferiori
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 91, complete node paragraph under Saturn/Neptune.
 
 To experience strange and/or inexplicable uncertainties and insecurities when connecting with other people. The need to clear discordant psychic energy accruing from connection with other people. The need in this lifetime to clearly define one’s ideals, and to work to bring them into physical manifestation.
 
@@ -70,22 +76,21 @@ Attraction to groups or people who feel that neglect in society is acceptable; h
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: connections formed around shared weakness, uncertainty, or efforts against decay.
+- psychology: shyness, inferiority, and insecurity in contact with others.
+- body/health: Witte and Ebertin's associations with illness, hospital, and heredity remain attributed claims.
+- social/relationship: common suffering or uncertain connections; Munkasey includes joint corrective efforts.
+- events/manifestations: bereavement in Ebertin; collective resistance to corruption in Munkasey.
+- conflicts/notes: The Node row concerns connections and relationships; the preceding Moon's people/emotional-disturbance clauses are excluded.
 
 ## Contradictions
 
-- None recorded yet.
+- Association with neglect and joint action against it are alternatives within Munkasey's entry, not a guaranteed outcome of every connection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Node`: compassionate service, loyalty under strain, and group roles that require patience with weakness or ambiguity. Main caution: entanglement: unclear boundaries, guilt, or exhaustion can make relationships heavy and hard to unwind cleanly.
+Node specifies the Saturn/Neptune axis through contact with other people under uncertain or burdensome conditions. [Ebertin](#ebertin-entry) describes inhibited contact and shared suffering, while [Sandbach](#sandbach-entry) emphasizes unexplained insecurity in connection. [Munkasey](#munkasey-entry) gives the relationship a choice of direction: accepting social neglect or joining efforts to reverse decay and corruption. Shared difficulty unifies these accounts; it does not by itself establish compassionate service or loyalty.
 
 ## Links
 

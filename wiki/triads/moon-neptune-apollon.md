@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Apollon`
 - Astronomicon triad-set: `R Y ¥`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Apollon = Neptune](../activations/moon-apollon-equals-neptune.md)
-- [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md)
-- [Neptune/Apollon = Moon](../activations/neptune-apollon-equals-moon.md)
+- [Moon/Apollon = Neptune](../activations/moon-apollon-equals-neptune.md): base axis [Moon/Apollon](../axes/moon-apollon.md); activator [Neptune](../factors/neptune.md).
+- [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Apollon](../factors/apollon.md).
+- [Neptune/Apollon = Moon](../activations/neptune-apollon-equals-moon.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
-- `Moon/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `201`
-- `Moon/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Neptune/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `400`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Apollon = Neptune](../activations/moon-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 134); [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md#witte-entry) (PDF entry-start p. 128); [Neptune/Apollon = Moon](../activations/neptune-apollon-equals-moon.md#witte-entry) (PDF entry-start p. 251).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Apollon = Neptune](../activations/moon-apollon-equals-neptune.md#abc-entry) (printed p. 201); [Moon/Neptune = Apollon](../activations/moon-neptune-equals-apollon.md#abc-entry) (printed p. 189); [Neptune/Apollon = Moon](../activations/neptune-apollon-equals-moon.md#abc-entry) (printed p. 400).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Neptune`: Many feel themselves deceived, cheated out of their future. Misled masses. Mistrust between nations.
-- `Moon/Neptune = Apollon`: This activation expands `Moon/Neptune` into longer night cycles, more diffuse relaxation, and emotional atmosphere spread across a wider collective field. It can bring spacious retreat and receptivity, but also broad disappointment, deception, or confused public feeling.
-- `Neptune/Apollon = Moon`: This activation collectivizes `Neptune/Apollon` by making women, groups, or the public feel deceived or disappointed. It shows broad illusion registering emotionally in the social body, where false hope or unkept promise becomes a shared mood.
+Moon, Neptune and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Apollon](../axes/moon-apollon.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Neptune/Apollon](../axes/neptune-apollon.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)

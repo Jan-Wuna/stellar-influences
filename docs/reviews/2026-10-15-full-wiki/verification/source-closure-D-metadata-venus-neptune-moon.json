@@ -1,0 +1,61 @@
+{
+  "path": "wiki/activations/venus-neptune-equals-moon.md",
+  "reason": "False source coverage metadata: actual complete Sandbach Venus/Neptune chapter omits Moon; no ingest or passage invented.",
+  "source_pages_before": [
+    "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+    "udo-rudolph-abc-fur-planetenbilder",
+    "reinhold-ebertin-the-combination-of-stellar-influences",
+    "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+    "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_pages_after": [
+    "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+    "udo-rudolph-abc-fur-planetenbilder",
+    "reinhold-ebertin-the-combination-of-stellar-influences",
+    "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "removed_source": "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+  "source_list_link_removed": true,
+  "missing_orientation_note_preserved": true,
+  "raw_source": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+  "pdf_pages_one_based": [
+    61,
+    62
+  ],
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-p061.png",
+      "sha256": "182edff4b7b84a32ad05cdcb65393f8a3fc2c694c99ecee3c890a8579fc0930c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf062.png",
+      "sha256": "7e318b4ab14fb3b6c978aa9dc3510ccc5d14081f7f9787c99bc55734a576b7cb"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-neptune-pages61-62.txt",
+      "sha256": "69060cd5f63f496b6c41d98778106489fdc1fd97c10f51eb98f628a6bce5b826"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p138.png",
+      "sha256": "fb7b2f02659a6ae17e0e31182f616e0a99eb265e04beb83bd58b662006d5bf3c"
+    }
+  ],
+  "personally_viewed_complete_chapter": true,
+  "queued_abc_flag": "Actual ABC138 printed278 Moon row personally checked again; current dissolution/art/feelings translation matches complete eight-clause row. autlosation is absent; no source edit needed.",
+  "source_entries_unchanged": true,
+  "source_entries_sha256": "8dd581a440edbd47226c43099f28886ad3597bf5773e102a369afbd037f191cd",
+  "page_sha256": "af7e8492174d6303432f58b7151447a0a205342f555a81c5338fb29117cc6c88",
+  "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-088.jsonl",
+  "owner_line": 34,
+  "original_reviewer": "activation_review_084_088",
+  "owner_record_sha256": "f21a0f8ab119ef50a5205cc273566d69c99fefb2b95b2548ff27d97ed386767b",
+  "checks": {
+    "matches_authored_patch": true,
+    "non_source_pages_frontmatter_preserved": true,
+    "single_adjacent_anchor": true,
+    "whitespace_exit_code": 0
+  },
+  "review_counts_added": 0,
+  "edited_by": "/root/activation_review_057_059",
+  "independent_metadata_allowance": "pending root exact-source_pages validator allowance; no author approval"
+}

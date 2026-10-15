@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Zeus`
 - Astronomicon formula: `V/W = £`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Taking possession of an inheritance. Interruption of creative activity, completion put off till later. Burning buildings. Provisions for parents in exchange of estate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success through hard leadership, success through concentrated efforts, financial damage through fire, financial services for pain, problematic money generation, generating legal problems, loss of creative joy, and procreation success in old age
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Success through harsh leadership, success through concentrated efforts, financial damage through fire, financial payments for pain, problematic generation of money, generating legal problems, loss of creative joy, and successful procreation in old age.
+
+## Comparative Schema
+
+- Core meaning: Creative work is interrupted or completion deferred ([Witte Entry](#witte-entry)).
+- Psychology: Concentrated effort and loss of creative joy coexist in ABC.
+- Body/health: ABC's late-life procreation is a historical claim, not a fertility prediction.
+- Social/relationship: Estate arrangements may include provision for parents.
+- Events/manifestations: Inheritance and buildings damaged by fire are specific examples ([ABC Entry](#abc-entry)).
+- Conflicts/notes: ABC's Finanz-Leistungen für Schmerzen denotes financial payments for pain; the source does not state a payment mechanism or legal basis. Its late-life procreation clause remains an attributed historical claim.
+
+## Contradictions
+
+Successful effort and interrupted creativity are alternative expressions; the source does not promise efficient asset management as their resolution.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Zeus`: effort and ambition being interrupted, redirected, or formalized by material obligations. It favors disciplined management of assets, but warns that creative momentum may be delayed by duty or crisis.
+In `Jupiter/Saturn = Zeus`, Zeus gives the pair's delay and effort a creative and material expression. The [Witte Entry](#witte-entry) explicitly names interrupted creative work, postponed completion, inheritance, and estate provision for parents. The [ABC Entry](#abc-entry) adds concentrated effort and harsh leadership, loss of creative joy, financial damage through fire and payments for pain. Productive aims and obligations meet constraints here, with success and interruption both retained as possibilities.
 
 ## Links
 

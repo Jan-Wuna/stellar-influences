@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Uranus Admetos](../triads/mercury-uranus-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Uranus entry, PDF p. 171.
 
 To be suddenly torn out of one’s resting. Sudden sad news.
 
@@ -42,13 +46,29 @@ To be suddenly torn out of one’s resting. Sudden sad news.
 
 #### ABC Entry
 
-Excitement in traffic stau, excitement about depression of youth, grim mediareform, messages about Qlocked reform, sudden movement restriction, tensions through news block, and deepening of youth into technology
+Source: “Merkur + Admetos,” Uranus entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Agitation in a traffic jam, agitation about depression of youth, thorough media reform, news about blocked reforms, sudden restriction of movement, tension through a news blackout, youth's immersion in technology.
+
+## Comparative Schema
+
+- **Core meaning:** Abrupt disturbance of rest or restricted movement.
+- **Psychology:** Excitement and tension around interruption or news.
+- **Body/health:** No health condition is established.
+- **Social/relationship:** Reactions to news concerning youth or restrictions.
+- **Events/manifestations:** Sudden sad news, movement restriction, thorough media reform and technological study.
+- **Conflicts/notes:** Agitation and blocked reforms coexist with thorough reform or technical study; a crisis is not required for every expression.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte describes an abrupt interruption of rest and sad news. ABC also gives thorough media reform and technical study beside blockage and tension, leaving constructive attention visible alongside disturbance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Uranus` shocks the axis with abrupt interruption and sad news.
-- Chart expression: sudden disturbance of a resting state, unexpected grief-laden information, and deep thought broken open by startling events or messages.
+In `Mercury/Admetos = Uranus`, Uranus specifies concentrated or restricted thought and communication through sudden interruption, agitation and reform. Witte gives being torn from rest and sudden sad news; ABC adds abrupt movement restriction and news-blackout tension, alongside thorough media reform and youthful immersion in technology. Disturbance and directed technical attention remain different expressions, without requiring every study or reform to arise from crisis. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

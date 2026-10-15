@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ARIES + CUPIDO`
+- PDF page: `48`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ Sociability. Joint-stock company. Getting married. Art and art products in gener
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `44–45`; PDF page: `21`
+
 #### ABC Pair Summary
 
-Community in public, common in public, artist in public, artist in public life, public community, and world community
+Community in public, together in public, a shared public sphere, art in public, art in public life, public community, world community.
+
+German pair summary checked: “Gemeinschaft in der Öffentlichkeit, gemeinsam in der Öffentlichkeit, gemeinsame Öffentlichkeit, Kunst in der Öffentlichkeit, Kunst im öffentlichen Leben, öffentliche Gemeinschaft, Welt-Gemeinschaft”.
+
+## Comparative Schema
+
+- Core meaning: Community, association, and art take public form in the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary).
+- Psychology: Sociability is explicit; the entries do not provide a wider account of personal motives or emotional needs.
+- Body/health: No specific bodily or medical association appears in these pair entries.
+- Social/relationship: Public associations, communities, marriage, and social affairs give the pair a collective and affiliative range.
+- Events/manifestations: A joint-stock company, getting married, art products, and public collections are concrete examples in the pair summary.
+- Conflicts/notes: ABC names art, not an artist, and includes a shared public sphere. Marriage, art and corporate association are distinct manifestations, without a guaranteed event or necessary adverse counterpart.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ Community in public, common in public, artist in public, artist in public life, 
 - [Vernal Point/Cupido = Vulcanus](../activations/vernal-point-cupido-equals-vulcanus.md)
 - [Vernal Point/Cupido = Zeus](../activations/vernal-point-cupido-equals-zeus.md)
 
+## Contradictions
+
+No direct contradiction is established. Marriage, corporate association, art, and public community are distinct examples of association in public life, rather than interchangeable events that every instance must produce.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes sociability, joint-stock company, getting married, art and art products in general, and public associations and communities.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Vernal Point/Cupido describes people and cultural products coming together in public life. The [pair summary](#pair-summary) links sociability with communities, public associations, art, and collections, while the [ABC entry](#abc-pair-summary) repeats the public and world-community emphasis. The unifying theme is an association that has a place in a larger social setting.
+
+That association may be intimate, cultural, or organizational: marriage and a joint-stock company both appear in the pair summary. Their inclusion broadens the pair beyond romance, but does not make any one institution or event an inevitable result.
 
 ## Links
 

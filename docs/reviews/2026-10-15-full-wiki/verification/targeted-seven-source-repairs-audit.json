@@ -1,0 +1,48 @@
+{
+  "scope": "Targeted eight already-reviewed source repairs; no independent self-approval",
+  "state": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-state.json",
+  "counts": {
+    "pages_full_followup_read": 8,
+    "changed": 8,
+    "unchanged": 0,
+    "new_full_review_records": 0,
+    "complete_abc_clauses": 57,
+    "original_unresolved_items_resolved": 10,
+    "contextual_limit_pages": 2,
+    "proof_images_personally_viewed": 12,
+    "raw_pdfs_read": 5
+  },
+  "checks": {
+    "canonical_frontmatter_hashes": 8,
+    "existing_links_sections_preserved": 8,
+    "six_schema_categories": 8,
+    "adjacent_stable_synthesis_anchor": 8,
+    "local_link_targets": 8,
+    "all_non_abc_prose_preserved_except_scan_proven_VP_Mars_nonprose_artifact": true,
+    "source_native_headings_preserved": 8,
+    "current_source_hash_matches_original_amended_record": 8,
+    "unique_original_owner_binding": 8,
+    "ledger_counts_unchanged": true,
+    "unrelated_ledger_lines_preserved_by_each_patch": true,
+    "source_delta_and_dependent_prose_manually_inspected": 8,
+    "failures": [],
+    "inherited_evidence_explicitly_labeled_initial_history": 8
+  },
+  "commands": [
+    {
+      "command": "C:/pyMADMAX2/miniconda3/envs/deep11/python.exe inline targeted eight structural/source-delta/current-record audit",
+      "result": "exit0; ALL EIGHT PASS"
+    },
+    {
+      "command": "C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/lint_wiki.py --help",
+      "result": "timed out after20seconds with no output; no linter pass claimed; file has no argparse/sys.argv handling"
+    }
+  ],
+  "limitations": [
+    "This is a bounded eight-page source repair, not another whole-corpus review.",
+    "No rendered wiki-page inspection performed in this lane; source scans personally viewed.",
+    "Retained inherited prose outside specifically changed rows was read for consistency, not newly certified as an independent source edition.",
+    "Independent source-integrity gate is pending; this file is evidence, not an approval bank."
+  ],
+  "state_sha256": "0858f3bc18dfb3864057f3c7fdc4671b6abd9371b4aecc708b30ad3e015c8f57"
+}

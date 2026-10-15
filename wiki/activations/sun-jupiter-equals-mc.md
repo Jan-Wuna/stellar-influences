@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter MC](../triads/sun-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 Successful and lucky times. One’s own personal success and general well being. One’s own feeling of happiness.
 
@@ -45,17 +49,23 @@ Successful and lucky times. One’s own personal success and general well being.
 
 #### ABC Entry
 
-I at the a man, my successful man, my joy as a man, my professional right, my personal finances, a scclical man, and a person's spiritual happiness
+Source locator: printed page 148; PDF page 73 (one-based).
+
+A person's inner joy, my successful man, my joy as a person, my personal success, my personal right, my joy as a man, my personal finances, an inwardly contented person, and a person's inner happiness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 91, coded entry 0241.
 
 Aspiring health, wealth and possessions. A happy, harmonious and wealthy person. Good luck in one's own enterprises.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 14 (one-based), Sun/Jupiter Midheaven entry.
 
 Successfully rising to positions of power and/or authority. Success through other people looking up to you, or admiring your integrity. Having a good reputation, and that resulting in success.
 
@@ -70,22 +80,21 @@ Persevering against all odds and despite the obstacles; using your good luck and
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal success, happiness and recognition, with reputation and perseverance supporting accomplishment.
+- psychology: Inner joy, contentment and persistence despite obstacles.
+- body/health: General well-being and Ebertin's health aspiration do not establish a medical condition.
+- social/relationship: Admiration of integrity and a reputation that supports authority or success.
+- events/manifestations: Success in one's enterprises, personal finances and rewards for completed efforts.
+- conflicts/notes: Recognition and inner happiness are distinct; complacency or praise dependence is not explicitly established here.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in personal success and happiness. Sandbach specifies reputation and authority; Munkasey retains perseverance against obstacles and rewards for completed work, rather than effortless advancement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = MC`: honors, career opportunity, and a sense that outer life should move upward and outward. Main caution: inflated mission: success can become performative, complacent, or too dependent on praise and prestige.
+For `Sun/Jupiter = MC`, success is both personally felt and publicly recognized. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) connect one's own success with happiness, contentment and favorable enterprises or finances. [Sandbach](#sandbach-entry) specifies authority gained through reputation and admired integrity; [Munkasey](#munkasey-entry) adds perseverance through obstacles and rewards for completed efforts. The shared picture is personal satisfaction joined to recognized accomplishment, with persistence retained rather than assuming effortless advancement or inventing a dependence on praise.
 
 ## Links
 

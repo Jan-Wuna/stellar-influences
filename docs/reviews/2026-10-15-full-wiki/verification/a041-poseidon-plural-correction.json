@@ -1,0 +1,29 @@
+{
+  "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+  "ledger": "activations-041.jsonl",
+  "row": 39,
+  "review_count": 55,
+  "old_quote": "Kultur-Erfolg der Frau",
+  "new_quote": "Kultur-Erfolge der Frau",
+  "old_translation": "a woman's cultural success",
+  "new_translation": "a woman's cultural successes",
+  "actual_source": "ABC PDF99, printed201, Poseidon glyph row",
+  "personally_viewed": "verification/source-repair-review-moon-final-abc-pdf099.png",
+  "before_current_fingerprint": {
+    "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+    "before_file_sha256": "287284f4ed02a1bf5c56da82f7a83c2857e62478f9fd0813892620677efe1704",
+    "current_file_sha256": "d9f3136b2fd05a8d5c495093b995ac2f15957790c74d2b8b2b50f1756097b350",
+    "before_source_section_sha256_lf": "6bb6aa255fdfb5db8225725cb497ce2fb6a13036e844501255259785eddd3b4c",
+    "current_source_section_sha256_lf": "5e83aa6201e28890d49c886d280ed2ad71958dcdcb6328b69bfb97a96baffb83"
+  },
+  "after_current_fingerprint": {
+    "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+    "before_file_sha256": "287284f4ed02a1bf5c56da82f7a83c2857e62478f9fd0813892620677efe1704",
+    "current_file_sha256": "60fe2794fd825a977e649e26cc0681c2092cee31a5d3a44f1bc69cf8ffbbf205",
+    "before_source_section_sha256_lf": "6bb6aa255fdfb5db8225725cb497ce2fb6a13036e844501255259785eddd3b4c",
+    "current_source_section_sha256_lf": "b4f78fc7626f11c3fda7ee96b3d0465afed8abe9543292ae60b058d071a7abe8"
+  },
+  "errors": [],
+  "git_diff_check_exit": 0,
+  "git_diff_check_stdout": ""
+}

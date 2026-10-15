@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `47`, chapter heading `ARIES + PLUTO` (normalized here as Vernal Point/Pluto).
 
 General changes, transformations or developments. General turnaround, alterations and modifications. A general boost to development. The world or general public in transformation. Immediate past of the general public. Plutocracy. Metamorphoses.
 
@@ -79,13 +83,28 @@ General changes, transformations or developments. General turnaround, alteration
 
 #### ABC Pair Summary
 
-Allgemcine Changes, developments in the public sphere, public sphere Growth, development in the public sphere Life, changes in the public sphere, and changes in the public sphere Life
+Source reference: printed page `42`, PDF page `20`, bold pair summary.
+
+Source wording: "Allgemeine Veränderungen, entwicklungen in der Öffentlichkeit, öffentliches Wachstum, Entfaltung im öffentlichen Leben, Veränderungen in der Öffentlichkeit, Wandlungen im öffentlichen Leben".
+
+Editorial translation, checked against the scan: General changes; developments in public life; public growth; unfolding in public life; changes in public life; transformations in public life.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be involved in, or the agent of, large-scale social transformations. To be lo^vn as one who brings about change, or as one with a ruthless ^vill. People involved in subversive, hidden, or underground activities.
+Source reference: PDF page `213`, entry `Pluto/Aries`; damaged words checked against the scan.
+
+To be involved in, or the agent of, large-scale social transformations. To be known as one who brings about change, or as one with a ruthless will. People involved in subversive, hidden, or underground activities.
+
+## Comparative Schema
+
+- Core meaning: Change, development, and transformation in the public sphere recur across the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Hand names being known as an agent of change or for a ruthless will; this is a source-specific range, not a judgment about every public transformation.
+- Body/health: These pair entries provide no specific medical association; "metamorphoses" is not identified as a bodily condition.
+- Social/relationship: Large-scale social transformation and hidden, subversive, or underground activities are explicit in the pair delineation.
+- Events/manifestations: Turnarounds, alterations, growth, and development are supported. Witte separately lists the immediate public past and plutocracy (rule by wealth) without developing their relation to the other themes.
+- Conflicts/notes: The ABC paragraph and Hand's words "known" and "will" have been checked against their scans. General development and ruthless or subversive action are distinct expressions; one does not imply the other.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ To be involved in, or the agent of, large-scale social transformations. To be lo
 - [Vernal Point/Pluto = Vulcanus](../activations/vernal-point-pluto-equals-vulcanus.md)
 - [Vernal Point/Pluto = Zeus](../activations/vernal-point-pluto-equals-zeus.md)
 
+## Contradictions
+
+General development is broader than subversive or underground activity. The entries do not establish that all public change is destructive or hidden; Hand adds particular social applications rather than negating the broader pair summaries.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto` is the axis of public transformation, mass upheaval, hidden power, and the forces that change the collective field at depth.
-- Chart expression: large-scale change, social regeneration, subversion, intensified influence, and the ability to affect the world through deep pressure, power, or uncompromising transformation. Liabilities: coercion, ruthless public dynamics, obsession with influence, and entanglement with hidden or destructive forces.
+Vernal Point/Pluto concerns the public world undergoing change, from growth and development to a wider turnaround or transformation. This is the common field of the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary); the [pair delineation](#pair-delineation) adds involvement as an agent of large-scale social change and being known for bringing change or for a ruthless will.
+
+Hidden, subversive, and underground activities are particular applications in Hand's entry, not the definition of every transformation. Witte also preserves less developed associations with the immediate public past and plutocracy, rule by wealth. The entries support a broad process of change without establishing whether it is beneficial, destructive, or carried out through any one means.
 
 ## Links
 

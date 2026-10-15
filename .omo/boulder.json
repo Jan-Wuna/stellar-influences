@@ -1,0 +1,16 @@
+{
+    "schema_version":  2,
+    "active_work_id":  null,
+    "works":  {
+                  "stellar-influences-remaining-book-ingestion":  {
+                                                                      "work_id":  "stellar-influences-remaining-book-ingestion",
+                                                                      "active_plan":  ".omo/plans/stellar-influences-remaining-book-ingestion.md",
+                                                                      "plan_name":  "stellar-influences-remaining-book-ingestion",
+                                                                      "session_ids":  [
+                                                                                          "codex:stellar-influences-remaining-book-ingestion"
+                                                                                      ],
+                                                                      "status":  "completed",
+                                                                      "worktree_path":  null
+                                                                  }
+              }
+}

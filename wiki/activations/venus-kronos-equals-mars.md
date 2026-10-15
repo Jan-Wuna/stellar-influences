@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Venus Mars Kronos](../triads/venus-mars-kronos.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,30 @@ Energetic charitable help. Active charity. To merit benevolence through one’s 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Kronos`
+- Source reference: printed page `288`; PDF page `143` (one-based).
+
 #### ABC Entry
 
-Special peace work, special love mitigations, peace will of the state, harmony acts of the hierarchy, harmony through self andal work, self consciousness through joy at work, preference for important work, and important arts work
+Special peace work, special efforts in love, the state's will for peace, harmonious actions of the hierarchy, harmony through independent work, self-confidence through joy in work, preference for important work, and important artistic work.
+
+## Comparative Schema
+
+- core meaning: Active charity and energetic help ([Witte](#witte-entry)).
+- psychology: Willingness to work for peace and preference for important work ([ABC](#abc-entry)).
+- body/health: Neither entry gives a bodily or health claim.
+- social/relationship: Benevolence may be earned through activity ([Witte](#witte-entry)).
+- events/manifestations: Charitable help, peace work, and artistic work ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: ABC specifies efforts in love and independent work alongside peace and artistic work.
+
+## Contradictions
+
+No direct contradiction is evident. Witte's active charity and ABC's peace, independent, and artistic work are distinct applications of effort.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Mars`: energetic charitable help.
-- Practical expression: special peace work, special love mitigations, peace will of the state, harmony acts of the hierarchy, and harmony through self andal work.
+Mars specifies Venus/Kronos through action that earns goodwill or puts benevolence into practice. [Witte](#witte-entry) makes energetic charitable help central. [ABC](#abc-entry) adds efforts in love, peace work, harmonious actions by a hierarchy, and harmony or self-confidence through independent and enjoyable work. The shared action is an active contribution, with artistic and public work among its specific settings.
 
 ## Links
 

@@ -1,0 +1,142 @@
+[
+  {
+    "path": "wiki/activations/hades-kronos-equals-vulcanus.md",
+    "before_sha256": "ee4c725d52f0de1a07919d721d7bfd72c2022def124c7b74f658483ee62e285c",
+    "after_sha256": "ccede2d14df15d62e5bfe96d06aa66fa275376449719bdbfd3cca452524cffc5",
+    "ledger": "activations-013.jsonl",
+    "reason": "Read full baseline/current Source Entries and full amended unique013 owner record. Personally read actual ABC219/printed441 and Witte279 raw and full glyph scans. Witte three sentences visibly begin Great brutality, meanness and evil despite damaged text extraction; ABC's complete eight-clause Vulcanus row has kriminelle Gewalt gegen den Staat, correctly against the state. Both added exact references and amended receipt match.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf219.png",
+      "verification/source-repair-review-targeted-eleven-witte-pdf279.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/hades-poseidon-equals-neptune.md",
+    "before_sha256": "0f3ef2c8f7ba3ac7132be5d392291fbd6fcde67c2b04ded79e28bf8939cc16ce",
+    "after_sha256": "61359413fb9910e8b8e826485b9464b4b96edd6374d7d5536e0660679ff95129",
+    "ledger": "activations-013.jsonl",
+    "reason": "Read complete baseline/current source sections and full amended unique013 record. Actual ABC223/printed449 text/full scan confirms all seven Neptune clauses, sensitivity to hidden truth, dangerous cultural weakness, mind/spirit weakness and final uncertainty through lack of clarity. Following Pluto row begins Gefährdete Kultur-Entwicklung and is correctly excluded. Witte unchanged; only new ABC reference independently certified.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf223.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/jupiter-mc-equals-venus.md",
+    "before_sha256": "668ce9b23439b34dbd1749e5c35674bed96db99c7563ac6b71045efafa3278be",
+    "after_sha256": "75775c84c53913d8b3cb790e844d68fc395741f35bf34814a6635fd6889c6686",
+    "ledger": "activations-017.jsonl",
+    "reason": "Read full baseline/current five-source sections and full final amended017 record with structured repair receipt. Actual ABC36/printed74 complete nine-clause Venus row, retained German quote and labeled translation match: all four Kunst/art occurrences replace kiss. Independently read actual Witte65 Venus, Ebertin246/printed244 code0858, Sandbach86 complete Venus and Munkasey281/printed280 Ven text/full scans; every added reference matches. All non-ABC source prose unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf036.png",
+      "verification/source-repair-review-targeted-eleven-witte-pdf065.png",
+      "verification/source-repair-review-targeted-eleven-ebertin-pdf246.png",
+      "verification/source-repair-review-targeted-eleven-sandbach-pdf086.png",
+      "verification/source-repair-review-targeted-eleven-munkasey-pdf281.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+    "before_sha256": "069d91e008df7a2fa43c83f41913c463009ed2815f585c9f154b42a7a38c6253",
+    "after_sha256": "e7ca9832e2785f0f5a522b11f813c3b341d07f41811ffd006fba173657e2cb26",
+    "ledger": "activations-028.jsonl",
+    "reason": "Complete baseline/current source sections and full amended unique028 owner record read. Actual ABC149/printed300 full glyph scan/text confirms six Vernal Point clauses from serious public work to actions involving losses in public life; repeated garbage is correctly replaced and MC begins after this row. Productive activity and patient/hard public work are all retained. Exact new ABC locator and owner repair receipt match; Witte historical paragraph unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-neptune.md",
+    "before_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+    "after_sha256": "195926486a83a9cdc215837bd0db7fd783d1c3aaf15ccf7abc02974a11ddfdd2",
+    "ledger": "activations-056.jsonl",
+    "reason": "Personally read complete baseline/current source sections and full final amended unique056 record including structured repair receipt. Actual ABC112/printed227 full Neptune glyph row/text/scan confirms all seven German clauses and labeled English replacing dashes, from sensitivity in old connection through negation of criminal connection. Ambiguity of denial versus rejection is expressly retained, not converted into a legal claim. Exact added ABC reference verified; Witte unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf112.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-uranus.md",
+    "before_sha256": "24f1c26dd4e84f6be88bb81ce7bd0c99997f5f43460443850351ac6687de9061",
+    "after_sha256": "f23fd857fdd93902feb7c6bda53e5b34fe4d0d80609c6ad8c6cd6464a4817b8c",
+    "ledger": "activations-056.jsonl",
+    "reason": "Personally read complete baseline/current source sections and full final amended unique056 record with structured receipt. Actual ABC112/printed227 full Uranus glyph row/text/scan confirms all six German clauses and labeled translation replacing dashes: technology contacts, dangerous events, sorrow through new relations, nervousness, secret-connection tension and unifying impulses in distress. Exact added ABC reference verified and no neighboring Saturn/Neptune clause imported; Witte unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf112.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/sun-asc-equals-mc.md",
+    "before_sha256": "9b5aabee154ca24651652526b3e2cbe12c09fe0029df864ac7dd8f67651fc4c0",
+    "after_sha256": "db9bb644fbb6cbe0e9a2288d461d11af986241d9d793e5e746b35769c8d62187",
+    "ledger": "activations-071.jsonl",
+    "reason": "Complete baseline/current five-source sections and full final amended unique071 record read. Personally checked actual ABC49/printed100 complete MC glyph row/text/scan: all nine clauses, retained German quote and labeled translation match, including soul-language and Tag - Ort - Minute without a timing doctrine. Added exact ABC reference verified; four other source blocks and locators unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf049.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/sun-asc-equals-neptune.md",
+    "before_sha256": "9ce8fffbece29f256d25ce2356545476bafa6386509f0ce187af9d3234c094d5",
+    "after_sha256": "184c51a5c7c217279d0f38e8ec95e201cbeca47ac43a93898e683dd378b5027e",
+    "ledger": "activations-071.jsonl",
+    "reason": "Complete baseline/current five-source sections and full final amended unique071 record read. Actual ABC49/printed101 Neptune glyph row/text/full scan confirms seven clauses, beginning disappointment with other people, with sensitivity, feinstofflich surroundings, physical weakness, unclear surroundings and uncertain dealings. Explicit spiritual/subtle wording retained without a physical mechanism. Neighboring Entfaltung anderer Personen belongs Pluto and is excluded. Added exact ABC reference verified; other source blocks unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf049.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/sun-asc-equals-pluto.md",
+    "before_sha256": "f90bebd47ba5523dc152de9cb41bbecbac8bcedc46976145a993f5c564da57ea",
+    "after_sha256": "04ee4d80799e38e4e98a70181bccd3a53bcaca595f11696b76614f902881a729",
+    "ledger": "activations-071.jsonl",
+    "reason": "Complete baseline/current five-source sections and full final amended unique071 record read. Actual ABC49/printed101 Pluto glyph row/text/full scan confirms all seven clauses, including restored opening Entfaltung anderer Personen, developments at local center, personal/environment/partner changes and growing local center. Neptune boundary now separate; German quote and labeled translation match. Added exact ABC reference verified; four other source blocks unchanged. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf049.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+    "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+    "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+    "ledger": "activations-091.jsonl",
+    "reason": "Read full baseline/current Source Entries and full final amended unique091 record. Personally read actual Witte188 text/full scan: both Uranus glyph variants label sudden attraction, while Neptune labels exactly the three current sentences about pretended love, passing affection and confused sexual urge. Actual ABC146/printed295 Neptune row/text/full scan confirms all nine translated clauses, including art, weak peace power, metaphysics and water energy. Both added references and amended receipt match.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf146.png",
+      "verification/source-repair-review-targeted-eleven-witte-pdf188.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+    "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+    "after_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+    "ledger": "activations-095.jsonl",
+    "reason": "Read full baseline/current Source Entries and full final amended unique095 record, reread after owner explicitly labeled inherited evidence as initial pre-repair history. Actual ABC15/printed33 complete Uranus six-clause German quote/translation and Witte42 full glyph row/text/scans personally checked. Public action, new impulses, reform and technical activity all match; Witte duplicate Uranus-glyph extraction artifact is removed correctly. Both added exact references match. Prior stale-evidence hold resolved by saved amended record and independent reread.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf015.png",
+      "verification/source-repair-review-targeted-eleven-witte-pdf042.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/venus-uranus-equals-vernal-point.md",
+    "before_sha256": "14566aff47c9ec1c59aa37556f9e1f466be0de44a13ebba2b9c6e1d0fcc52fab",
+    "after_sha256": "a4523adc6a5866f3c606e2133542d412ad96b39e4db4750bda3867819fd1c1d9",
+    "ledger": "activations-091.jsonl",
+    "reason": "Read full baseline/current Source Entries and full final amended unique091 record. Actual ABC137/printed276 Vernal Point glyph row/text/full scan confirms all six German clauses and labeled translation: public beauty, dynamic art, harmonious tensions, art event, sudden peace and preference for public tensions. Actual Witte179 full row/text/scan confirms unchanged Mating time. Rutting season. Both added exact references verified; neighboring MC row excluded. Final complete source section and amended owner record reread after inherited evidence was explicitly labeled as initial review history; source text stayed unchanged.",
+    "evidence": [
+      "verification/source-repair-review-targeted-eleven-abc-pdf137.png",
+      "verification/source-repair-review-targeted-eleven-witte-pdf179.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  }
+]

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Mercury`
 - Astronomicon formula: `U/W = T`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -70,22 +72,21 @@ Communication with athletic or military personnel; angry talk in a hushed tone; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Thought and communication shaped by effort, restraint, delay, or distressing information.
+- Psychology: Assertive logic can become concentrated aggression; fear of acting and hopelessness are separate source possibilities.
+- Body/health: Witte and Ebertin discuss news or thoughts of illness and death, not a diagnosis from the formula.
+- Social/relationship: Harsh words can bring sorrow; communication with athletic or military people is Munkasey's distinct example.
+- Events/manifestations: Patient work discussions, difficult speeches, expressions of regret, and news of bereavement.
+- Conflicts/notes: Ebertin's parenthetical 'murderers' is an unexplained historical classification, not grounds for identifying criminality.
 
 ## Contradictions
 
-- None recorded yet.
+Logical assertion and distressing thought describe different expressions; no source establishes that forceful communication must lead to sorrow.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Mercury`: disciplined logic, tough-minded speech, and the ability to communicate with force and focus under pressure. Main caution: mental constriction: fear, hopelessness, or concentrated aggressiveness can turn thought and speech into a vehicle for strain and sorrow.
+In `Mars/Saturn = Mercury`, Mercury specifies constrained effort through thinking and speech. Communication may become concentrated and assertive, but fear, anger, or difficult news can make it strained. Work discussions, expressions of regret, and communication with military or athletic people remain concrete examples. See [Witte](#witte-entry) (PDF p. 193), [ABC](#abc-entry) (printed p. 300), [Ebertin](#ebertin-entry) (printed p. 205, code 0701), [Sandbach](#sandbach-entry) (chapter starts at PDF p. 68), and [Munkasey](#munkasey-entry) (printed p. 228).
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Uranus Pluto](../triads/venus-uranus-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -43,9 +45,12 @@ Sudden start of a harmonious development. Surprisingly give in.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `281`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-Dynamic alternation of the arts, harmonious development of technology, unfolding love impulses, rhythmic artificial development, exciting development of a love, and restlessness through changing love
+Dynamic change in art, harmonious development of technology, unfolding impulses of love, rhythmic artistic development, exciting developments in a love, restlessness through changing love, and restless development of peace.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,21 @@ Indifference to the destructive powers available for personal or political uses;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or restless change in love and harmonious development.
+- psychology: Intense attraction, desire for freedom from it, and alternation between involvement and withdrawal.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Love at first sight, unusual experiences, and attraction to uniqueness.
+- events/manifestations: Sudden starts, technical development, and compromises over extreme uses of power.
+- conflicts/notes: Munkasey's unusual-punishment associations remain a specific adverse strand; authenticity or courage is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden favorable development and unstable engagement with attraction differ from Munkasey's indifference or compromise toward destructive power. The entries do not resolve these into one moral outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Uranus`: awakening attraction, transformative breakthroughs in love or art, and the courage to break stale bonds in pursuit of deeper authenticity. Main caution: relationships can swing between obsession and rupture, with shocks, rebellion, and extreme reversals dominating the field.
+In `Venus/Pluto = Uranus`, Uranus specifies Venus/Pluto development through sudden onset or restless changes of involvement. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) describe sudden harmonious development and awakening to love; [Sandbach](#sandbach-entry) adds movement between intense attraction and withdrawal, with a wish for freedom. The [Munkasey entry](#munkasey-entry) retains a separate power-related expression: indifference to destructive capacities, compromises over their use, and unusual punishment among friends. Suddenness and freedom do not by themselves establish a beneficial breakthrough.
 
 ## Links
 

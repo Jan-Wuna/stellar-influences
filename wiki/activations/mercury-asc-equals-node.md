@@ -21,7 +21,6 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
-  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-05-06
 ---
@@ -33,9 +32,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Node Asc](../triads/mercury-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT + MERCURY`
+- Source locator: PDF p. `83` (oriented entry; scan checked).
 
 #### Witte Entry
 
@@ -43,11 +47,17 @@ To make contact or connections by letter or conversation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Merkur`
+- Source locator: printed p. `106`, PDF p. `52` (entry).
+- Text basis: translation checked against the raw scan on PDF p. `52`; supplied parser-normalized OCR was not itself visually verified.
+
 #### ABC Entry
 
-Relations with youth in the village, young love connection, love encounter in the youth, youth meetings in the surrounding area, news entertainment in the village, partner relationships consider, partner connections ventilate, and traffic connections in the village
+Relations with young people locally, a young love connection, a love encounter in youth, youth meetings in the surrounding area, mediation of news locally, considering partner relationships, mediating connections between partners, and local transport connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `171`, PDF p. `173`, entry `0564` (scan checked).
 
 #### Ebertin Entry
 
@@ -56,7 +66,7 @@ An obliging manner with other people, urge to enter into association with others
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source locator: printed p. `180`, PDF p. `181` (Node entry; scan checked).
 
 #### Munkasey Entry
 
@@ -64,22 +74,21 @@ Initiating observations of other people, and evaluating the roles they may play 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Conversation or correspondence establishes contact and association ([Witte](#witte-entry), [Ebertin](#ebertin-entry)).
+- psychology: Interest in similar ideas and in evaluating others' roles supports the search for kinship ([Munkasey](#munkasey-entry), p. 180).
+- body/health: No bodily or health claim is present.
+- social/relationship: Obliging association, exchange of ideas, meetings, and connections among partners or young people are described.
+- events/manifestations: Letters, conversations, making plans, local meetings, mediation of news, and transport connections are named.
+- conflicts/notes: Sandbach's complete Mercury/Ascendant chapter on PDF pp. 52–53 has no Node activator entry; its unsupported source-list attribution was removed. ABC's mediation wording was checked against the German scan on PDF p. 52.
 
 ## Contradictions
 
-- None recorded yet.
+The entries do not establish a direct contradiction. No claim about superficiality or inadequate commitment is supported here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Node`: friendliness, introductions, collaborative thinking, and alliances built through talk, information, and mutual mental interest. Main caution: superficial or over-obliging relating: connection can stay at the level of exchange without deeper clarity or commitment.
+In `Mercury/Asc = Node`, Node specifies communication with others as the means of making a connection: a letter, conversation, or exchange of plans can bring people into association. Similar ideas and a felt kinship help explain the wish to make contact ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Munkasey](#munkasey-entry), p. 180). The [ABC entry](#abc-entry) adds local youth, partner, and transport connections (printed p. 106); these examples do not imply that every connection becomes an intimate commitment.
 
 ## Links
 
@@ -91,5 +100,4 @@ Initiating observations of other people, and evaluating the roles they may play 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

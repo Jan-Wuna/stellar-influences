@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `U/V = VP`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Vernal Point Mars Jupiter](../triads/vernal-point-mars-jupiter.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -36,7 +37,9 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Births in general. Fruit-bearing deeds. General satisfaction through ones activities.
+Births in general. Fruit-bearing deeds. General satisfaction through one's activities.
+
+- Source reference: PDF p. 192, Vernal Point row; possessive apostrophe checked against the scan.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
@@ -44,11 +47,27 @@ Births in general. Fruit-bearing deeds. General satisfaction through ones activi
 
 joy in work in public, successful public work, good will in public, public financial activity, public legal activity, public money trade, and legal actions in public
 
+## Comparative Schema
+
+- core meaning: Productive activity and satisfaction are placed in a public setting.
+- psychology: Witte names general satisfaction; ABC adds joy in work and goodwill in public.
+- body/health: Witte includes births in general as a historical association; neither entry establishes an individual medical outcome.
+- social/relationship: Public work and goodwill are represented; no specific private relationship is described.
+- events/manifestations: ABC names public financial, legal and money-trading activity; Witte emphasizes fruitful deeds.
+- conflicts/notes: The favorable public examples do not establish universal acclaim or a guaranteed financial result.
+
+## Contradictions
+
+The entries overlap in productive public activity. Their favorable language does not establish that every public undertaking succeeds.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Jupiter = Vernal Point` makes productive action broadly manifest, fruitful, and generally satisfying in the shared world.
-- Chart expression: births, fruit-bearing deeds, and a public or collective sense of satisfaction that comes from active success and visible accomplishment.
+Vernal Point specifies the Mars/Jupiter axis through productive effort and satisfaction in public life. [Witte's](#witte-entry) fruitful deeds give the compact theme, while [ABC](#abc-entry) locates it in public work, financial activity and legal action; the emphasis is on activity that takes place in a shared setting.
+
+Witte also lists births in general. That remains an attributed historical example, distinct from the broader interpretation of public productivity and goodwill.
+
+Evidence: [ABC](#abc-entry), printed p. 298, PDF p. 148; [Witte](#witte-entry), PDF p. 192 (entry start).
 
 ## Links
 

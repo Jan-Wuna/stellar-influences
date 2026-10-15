@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Moon Pluto MC](../triads/moon-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ One’s influence on women or the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-The development of my wife, I develop as a woman, I change the woman, my development as a woman, my Gem Ots W andel, my changes through the woman, soulful development of the woman, and changes in the people's soul
+Editorial translation (checked against the scan): Development of my wife or female partner, I develop as a woman, I change the woman, I change female partners, my development as a woman, my changes of mood, my changes through a woman, soulful development of a woman, changes in the soul of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Inner greatness, ability to exercise a great influence upon others on account of one's own inner qualities. A woman with personality and the qualities of leadership.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 117 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Helps your emotional drive to overcome indecisiveness and forge ahead with your 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal influence and development experienced through feeling, security, or public response.
+- psychology: Emotional drive alternates with vulnerability, insecurity, and a need for comfort.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Influence on women or the public, female leadership, and uncertainty over family acceptance.
+- events/manifestations: Changes of mood, emotional development, and influence through inner qualities.
+- conflicts/notes: Gendered examples and spiritual language remain attributed; strong influence does not establish emotional security. ABC's first clause reads Entfaltung meiner Frau: the possessive my is explicit, and Frau retains its historical wife/woman range.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's inner greatness and leadership coexist with Sandbach's vulnerability and Munkasey's need for comforting; these are different possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Moon`: regenerative life shifts, emotionally charged destiny, and the ability to transform public purpose through deep feeling and endurance. Main caution: mood-driven crisis: public direction can become too reactive, possessive, or haunted by unresolved emotional pressure.
+Moon specifies Pluto/MC through feeling and the experience of influence or security. The [Witte entry](#witte-entry) names influence on women or the public, and [Ebertin](#ebertin-entry) connects influence with inner qualities and a female leadership example. [ABC](#abc-entry) adds changes of mood and inner development. That outward force can coexist with vulnerability: [Sandbach](#sandbach-entry) describes alternating security and insecurity before powerful authority, while [Munkasey](#munkasey-entry) includes emotional drive, the need for comforting, and uncertainty about family acceptance. Neither influence nor determination assures settled inner security.
 
 ## Links
 

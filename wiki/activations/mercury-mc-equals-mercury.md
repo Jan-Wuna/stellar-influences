@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Strengthens your ability to extract information from data, and present it to oth
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Clear handling of information and examination of personal direction.
+- psychology: Assessing progress, aptitudes, and intended accomplishments.
+- body/health: No body or health claim is supplied.
+- social/relationship: Presenting extracted information coherently to others.
+- events/manifestations: Analysis of data and review of one's progress in life.
+- conflicts/notes: Only Munkasey's Mercury-activated repeated-factor entry is represented.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source is represented, so comparison across sources is unavailable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Mercury`: Strengthens one's ability to extract information from data, and present it to others in clear and coherent ways; examining one's progress with life, and where one wants to go or what one wants to accomplish with one's aptitudes.
+Mercury specifies Mercury/MC through making information usable and examining where one's aptitudes lead. [Munkasey's entry](#munkasey-entry) (p. 186) connects extracting data and explaining it clearly to reviewing progress and intended accomplishments. The supported link is between understanding information and directing one's efforts; it should not inherit the completed-product pride wording of Mercury/MC = MC.
 
 ## Links
 

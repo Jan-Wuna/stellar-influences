@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Poseidon`
 - Astronomicon formula: `V/W = ¨`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Mental or spiritual ripening. University building.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful cultural tasks, cognition joy through patience, joy over old cultures, spiritual happiness in old age, loss of financial clarity, clarity in legal problems, concentration on spiritual successes, and problematic legal culture
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Successful cultural tasks, joy in discovery through patience, joy in old cultures, intellectual/spiritual happiness in old age, loss of financial clarity, clarity in legal problems, concentration on spiritual successes, and problematic legal culture.
+
+## Comparative Schema
+
+- Core meaning: Mental or spiritual ripening ([Witte Entry](#witte-entry)).
+- Psychology: Patience supports enjoyment of understanding in ABC.
+- Body/health: The old-age example supplies no medical condition.
+- Social/relationship: Culture, legal clarity, and higher learning are the supported outward settings.
+- Events/manifestations: A university building is explicit; ABC also allows loss of financial clarity ([ABC Entry](#abc-entry)).
+- Conflicts/notes: ABC distinguishes broad intellectual/spiritual happiness (geistiges Glück) from specifically spiritual successes (spirituelle Erfolge). Mental maturation does not establish favorable outcomes in every practical field.
+
+## Contradictions
+
+Spiritual satisfaction and financial uncertainty concern different domains, so neither should cancel the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Poseidon`: patient expansion becoming educational, philosophical, or spiritually cultivated. It favors slow ripening of understanding and institutions devoted to higher learning.
+In `Jupiter/Saturn = Poseidon`, Poseidon specifies the pair's maturation through understanding and culture. The [Witte Entry](#witte-entry) explicitly gives mental or spiritual ripening and a university building; the [ABC Entry](#abc-entry) adds patience, older cultures, and spiritual concentration. Its financial uncertainty remains part of the range, so growth in understanding is not presented as a guarantee of practical clarity or prosperity.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Emphasizes your need to understand others and their reactions to you or life in 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey Entry](#munkasey-entry), printed p. 250 (entry page).
+
+- Core meaning: Activity in one's surroundings prompts observation of people and events.
+- Psychology: Munkasey emphasizes understanding reactions and spending time observing life.
+- Body/health: No bodily condition is specified in this observational entry.
+- Social/relationship: Other people's reactions to oneself and to life are central.
+- Events/manifestations: The settings and circumstances of events receive attention.
+- Conflicts/notes: This is one Munkasey 'With Itself' entry; repeated-factor placement does not add independent evidence.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present; no comparison between independent sources can be made.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Asc`: Emphasizes one's need to understand others and their reactions to one or life in general; helps highlight the surroundings and settings for events and their circumstances as they occur; urges one to spend time observing life.
+In this repeated-factor formula, Asc specifies the Mars/Asc axis by drawing attention to how activity is received by others and situated in an environment. [Munkasey Entry](#munkasey-entry) asks for observation of reactions, settings, and circumstances. Its limited evidence supports understanding an encounter through attentive observation; it supplies no additional claim of conflict or heightened assertiveness.
 
 ## Links
 

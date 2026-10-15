@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Node`
 - Astronomicon formula: `U/X = g`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -70,22 +72,21 @@ Enhances your ability to be active with others; presenting views directly and cl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden connections and unusual joint activity.
+- Psychology: Freedom, experimentation, and direct expression motivate association in Sandbach and Munkasey.
+- Body/health: Witte's appendix-operation example remains a historical claim, not a health forecast.
+- Social/relationship: People connect abruptly, undertake unusual enterprises, or confront opposition together.
+- Events/manifestations: Dynamic group activity, technical connections, unexpected events, and tense work relationships.
+- Conflicts/notes: Joint excitement is explicit; a necessary progression from connection to accident or rebellion is not.
 
 ## Contradictions
 
-- None recorded yet.
+Open cooperation and confrontational exchanges are different source possibilities. Sudden association does not establish instability in every alliance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Node`: unusual enterprises with groups, fast-moving associations, and people drawn together by shared excitement, risk, or independence. Main caution: instability in alliance: sudden connection can easily become sudden upset, accident, or rebellion within the group.
+In `Mars/Uranus = Node`, Node specifies spontaneous action through connections with people or groups. Associations may form suddenly around unusual projects, experimental freedom, or direct exchange of views; tension and confrontation remain possible when ideas are opposed. See [Witte](#witte-entry) (PDF p. 194), [ABC](#abc-entry) (printed p. 302), [Ebertin](#ebertin-entry) (printed p. 209, code 0719), [Sandbach](#sandbach-entry) (chapter starts at PDF p. 71), and [Munkasey](#munkasey-entry) (printed p. 232). The formula does not establish that a fast connection must break down.
 
 ## Links
 

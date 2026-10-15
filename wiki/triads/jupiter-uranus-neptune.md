@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -32,25 +32,40 @@ updated_at: 2026-05-06
 - Astronomicon triad-set: `V X Y`
 - This page is structural only. It does not merge the meanings of its orientations.
 
+[Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md)
-- [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md)
-- [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md)
+- [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md): base axis [Jupiter/Neptune](../axes/jupiter-neptune.md); activator [Uranus](../factors/uranus.md).
+- [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md): base axis [Jupiter/Uranus](../axes/jupiter-uranus.md); activator [Neptune](../factors/neptune.md).
+- [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md): base axis [Uranus/Neptune](../axes/uranus-neptune.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Uranus`: Michael, page `264`
-- `Jupiter/Uranus = Neptune`: Michael, page `260`
-- `Uranus/Neptune = Jupiter`: Michael, page `308`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md#witte-entry) (PDF entry-start p. 209); [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md#witte-entry) (PDF entry-start p. 208); [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md#witte-entry) (PDF entry-start p. 234).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md#abc-entry) (printed p. 329); [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md#abc-entry) (printed p. 327); [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md#abc-entry) (printed p. 370).
+- Reinhold Ebertin - The Combination of Stellar Influences: [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md#ebertin-entry) (printed p. 232, entry 0813); [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md#ebertin-entry) (printed p. 229, entry 0801); [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md#ebertin-entry) (printed p. 266, entry 0944).
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md#sandbach-entry) (PDF p. 82; exact entry checked); [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md#sandbach-entry) (PDF p. 81; exact entry checked); [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md#sandbach-entry) (exact oriented entry, PDF p. 104).
+- Michael Munkasey - Midpoints: Unleashing the Power of the Planets: [Jupiter/Neptune = Uranus](../activations/jupiter-neptune-equals-uranus.md#munkasey-entry) (printed p. 264); [Jupiter/Uranus = Neptune](../activations/jupiter-uranus-equals-neptune.md#munkasey-entry) (printed p. 260); [Uranus/Neptune = Jupiter](../activations/uranus-neptune-equals-jupiter.md#munkasey-entry) (printed p. 308).
+
+<a id="derived-synthesis"></a>
+## Derived Synthesis
+
+Jupiter, Uranus and Neptune form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Jupiter/Uranus = Neptune ABC Entry](../activations/jupiter-uranus-equals-neptune.md#abc-entry) has a verified row boundary, while its air and water examples do not identify a particular setting.
 
 ## Links
 
+- [Jupiter/Neptune](../axes/jupiter-neptune.md)
+- [Jupiter/Uranus](../axes/jupiter-uranus.md)
+- [Uranus/Neptune](../axes/uranus-neptune.md)
 - [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Neptune](../factors/neptune.md)

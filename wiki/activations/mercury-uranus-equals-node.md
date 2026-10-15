@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Node`
 - Astronomicon formula: `T/X = g`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Sudden connection of thoughts, exchange of telegrams, emails. Telephone conversation. Communication via the internet.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
 
 Exciting connections in youth, relations to media technology, connected by rhythmic movements, dynamic thought connection, excited speech connection, new media connection, and tension in connections to youth
 
@@ -51,11 +57,15 @@ Exciting connections in youth, relations to media technology, connected by rhyth
 
 #### Ebertin Entry
 
+- Source passage: `Mercury/Uranus`; printed p. `159`; entry code `0515` (supplied source-map locator; not visually verified).
+
 The ability to give and receive stimulating suggestions, desire to work on the realization of new ideas with others by cooperative effort. Surprising news, turn or changes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 The need to be able to share ideas freely with others. Progressive thinking shared in a group context. The need to develop one’s ideas.
 
@@ -70,22 +80,23 @@ Meeting people who inspire you and help you move toward your life’s destiny; s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: New ideas and sudden communication connect people or groups.
+- psychology: Freedom to exchange and develop ideas is an explicit need.
+- body/health: No bodily condition is stated.
+- social/relationship: Cooperation and inspiring contacts coexist with cutting off unwelcome reactions.
+- events/manifestations: Telegrams, emails, telephone and internet exchanges are concrete examples.
+- conflicts/notes: Munkasey's destiny language remains his account; intellectual openness need not be consistent.
 
 ## Contradictions
 
-- None recorded yet.
+Cooperative stimulation and exclusion of others' opinions are different possibilities. The latter qualifies an exclusively open account of group communication.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Node`: exciting conversation, inventive collaboration, and the ability to catalyze others through fresh thought. Main caution: unstable relating: exchange can become superficial, disruptive, or too unpredictable to deepen well.
+In `Mercury/Uranus = Node`, Node specifies sudden ideas through exchange and cooperation. Stimulating suggestions, freely shared progressive thinking and a joint effort to realize new ideas give intellectual contact a group purpose; telephone, internet, telegram and email exchanges provide concrete channels. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Witte](#witte-entry))
+
+Inspiring meetings and links through media or rhythmic movement sit beside tension with young people. Munkasey also describes mentally cutting others off when their reactions are unwelcome, so the wish for independent exchange can include selective exclusion. His life-destiny language remains attributed to that entry. ([ABC](#abc-entry); [Munkasey](#munkasey-entry))
 
 ## Links
 

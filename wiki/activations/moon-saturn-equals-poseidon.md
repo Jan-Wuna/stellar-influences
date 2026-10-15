@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Poseidon`
 - Astronomicon formula: `R/W = ¨`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Interested in serious mental matters. Hours for educating. Mental activity in the evening hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `185`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Contaminating knowledge for a woman, insight of a cowardly woman, mentally concentrated woman, clarity of a woman through patience, cultural tasks of a people, cultural loss of a people, problems of a woman with the truth, and lost ideas of a people
+Burdensome insight for a woman, a mature woman's insight, a mentally concentrated woman, a woman's clarity through patience, cultural tasks of a people, cultural loss of a people, a woman's problems with the truth, and a people's loss-laden ideas
+
+## Comparative Schema
+
+- core meaning: serious mental work and patient insight, including burdens attached to knowledge or truth.
+- psychology: mental concentration and clarity through patience are stated.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: ABC frames several examples through a mature woman and a people's cultural tasks.
+- events/manifestations: education, evening mental activity, cultural loss, and problems with truth are named.
+- conflicts/notes: serious study is supported; spiritual growth or emotional ordering is not established by these entries.
+
+## Contradictions
+
+Witte emphasizes education and evening mental activity; ABC adds burdensome insight, truth problems, and cultural loss. These extend the range without asserting that study either prevents or causes those difficulties.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Saturn = Poseidon`: Interested in serious mental matters. Hours for educating. Mental activity in the evening hours.
-- Practical focus: spiritualizes `Moon/Saturn` through serious study, evening contemplation, and sober mental work. It channels restraint into education and reflective discipline, making emotional heaviness more thoughtful, principled, and inwardly ordered.
-- Practical expression: contaminating knowledge for a woman, insight of a cowardly woman, mentally concentrated woman, clarity of a woman through patience, and cultural tasks of a people.
+In Moon/Saturn = Poseidon, Poseidon specifies the pair through serious mental matters and patient work toward clarity. The [Witte entry](#witte-entry) names education and mental activity in the evening; [ABC](#abc-entry) adds concentration, mature insight, and clarity through patience (printed p. 185, PDF p. 91). ABC also retains burdensome knowledge, problems with truth, and cultural tasks or losses, so this orientation does not imply an uncomplicated path from study to understanding.
 
 ## Links
 

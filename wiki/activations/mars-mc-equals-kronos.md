@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars MC Kronos](../triads/mars-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 Honorable and dignified way of action. Exercising state power, e.g. Policemen. Governments executive. Uncontested opinion of authority.
 
@@ -42,13 +46,27 @@ Honorable and dignified way of action. Exercising state power, e.g. Policemen. G
 
 #### ABC Entry
 
-Special psychic power, I want the special, my work in hierarchy, my authority work, my self defense actions, my work in the State, my activity is important, and important mental activity
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+Exceptional psychological energy for action, I want the exceptional, my work in the hierarchy, my work for public authorities, my independent actions, my work for the state, my activity is important, and important psychological activity.
+
+## Comparative Schema
+
+- core meaning: Dignified or important activity in a hierarchy or public authority.
+- psychology: A desire to do something exceptional and a sense of authority.
+- body/health: No specific bodily or medical effect is given.
+- social/relationship: Executive or official responsibility; Witte names policing and government.
+- events/manifestations: Work for state bodies, hierarchical work, and the exercise of authority.
+- conflicts/notes: Authority and independence are both named; public office is one expression, not a necessary occupation.
+
+## Contradictions
+
+The entries share official and exceptional activity; ABC also explicitly names independent actions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/MC = Kronos` elevates public action into honorable command, executive force, and official authority.
-- Chart expression: dignified use of power, policing or executive government work, and action carried out from a position that expects obedience and respect.
+In `Mars/MC = Kronos`, Kronos specifies personal action through authority, independence, and work regarded as important or exceptional. Witte's dignified conduct and exercise of state power meet ABC's hierarchical and government work, with policing and executive office as examples rather than necessary occupations. ABC also names independent actions and exceptional psychological energy for action. ([Witte entry](#witte-entry), PDF p. 64; [ABC entry](#abc-entry), printed p. 73 / PDF p. 35)
 
 ## Links
 

@@ -1,0 +1,2861 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "records": 37,
+  "accepted": 37,
+  "held": 0,
+  "pending_owner": 0,
+  "pending_ledger_excluded": [],
+  "exact_current_approved_excluded": [
+    "wiki/activations/mercury-hades-equals-moon.md",
+    "wiki/activations/mercury-hades-equals-neptune.md",
+    "wiki/activations/mercury-hades-equals-node.md",
+    "wiki/activations/mercury-hades-equals-pluto.md",
+    "wiki/activations/mercury-hades-equals-poseidon.md",
+    "wiki/activations/mercury-hades-equals-saturn.md",
+    "wiki/activations/mercury-hades-equals-sun.md",
+    "wiki/activations/mercury-hades-equals-uranus.md",
+    "wiki/activations/mercury-hades-equals-venus.md",
+    "wiki/activations/mercury-hades-equals-vernal-point.md",
+    "wiki/activations/mercury-hades-equals-vulcanus.md",
+    "wiki/activations/mercury-hades-equals-zeus.md",
+    "wiki/activations/saturn-neptune-equals-kronos.md",
+    "wiki/activations/saturn-neptune-equals-mars.md",
+    "wiki/activations/saturn-neptune-equals-mc.md",
+    "wiki/activations/saturn-neptune-equals-mercury.md"
+  ],
+  "groups": {
+    "mercury-hades": 8,
+    "saturn-mc": 23,
+    "saturn-neptune": 6
+  },
+  "source_blocks_read": {
+    "Witte": 33,
+    "ABC": 33,
+    "Ebertin": 12,
+    "Sandbach": 14,
+    "Munkasey": 14
+  },
+  "changed_source_blocks_independently_verified": {
+    "Witte": 33,
+    "ABC": 33,
+    "Ebertin": 12,
+    "Sandbach": 14,
+    "Munkasey": 2
+  },
+  "rebound_current_sections": [],
+  "strict_bank_sha256": "1a46b3acb7c13bb518cb6470372eb87730cd7e8fa2d1d3494d87f617e28f10fe",
+  "proof_images": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png",
+      "sha256": "724c05c4733c27ef591ef96a339cb54aa589fdeebcf3d8b3b5a675efca1a5ba7",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png",
+      "sha256": "861bf3d988a0c39b1d675eea81fc48f017a2b8c49051de5acdac328e52989900",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png",
+      "sha256": "bfb615ab905c3214cd6a321d64be3ebffe61de119de9f8e3e115edd8f0a7d228",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf253.png",
+      "sha256": "ae31bf94158c0230fbdf4784548c78ad22ee72dadbf36c2daafee042cfc0b684",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png",
+      "sha256": "962a332f02b0c170e418712baa8a443dd1fc7284a260e181a3e03e807e9e7cfa",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf266.png",
+      "sha256": "5f46838cf5273f0134c6ea6d3fb649b19b04b86253fc53fa3f34e63be158446e",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf289.png",
+      "sha256": "9940e7d2820e715d29b4a045c97f492786d2dfc7b50315d818746a595dc0a247",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png",
+      "sha256": "5890d993272a53d72117f27e6d8f511d1946d739c333b95396802b3222e1e69e",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf307.png",
+      "sha256": "8810e20b3bc7cde1604c1e962db1d71a39b46205b6a6562a1d581ba226913167",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf090.png",
+      "sha256": "4a32741cc553aed490b9c5807caad0f24b333159c22b04ce4da1e51fd6d1b734",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf091.png",
+      "sha256": "29a2628d3f8c63f07ba5d629dc5c944297d2a1060834a835a3e8ab7edd958ac7",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png",
+      "sha256": "1818b7a02277de1b0951e33a28ac9c098a05d035d28b7e376d51219954988127",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+      "sha256": "1317347c845860cdab703ca059b3328d517238352f85b0ada10489a6a758d802",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf028.png",
+      "sha256": "0321b0bbc440e18e5d8abf6600a4cd30a6989d6f8d67208422133d82f70f5e4c",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png",
+      "sha256": "627e0ac8193e30e08ba3b94962c940f4c650cc3680200454a6b355bcc419e033",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png",
+      "sha256": "fc7d06849c368f0636155e548d9d9c506f7ffd388c7dc6ebf1a01701a9de4f5d",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png",
+      "sha256": "1423435838c0b92388603a3355113896d6f3ded7c40b54a67173d5afaffb091d",
+      "personally_inspected": true
+    }
+  ],
+  "inherited_limits": [
+    "Changed claims and references only; unchanged inherited prose not certified. Historical medical, gender and criminal doctrine remains attributed, not established.",
+    "Witte To lose of burden and Munkasey well down are printed quirks; intended grammar uncertified.",
+    "ABC gestörter Kreislauf and Lebens-Element remain undefined as to precise application. Ebertin57 is a historical attributed report including its explicit diagnostic qualification."
+  ],
+  "checks": [
+    {
+      "path": "wiki/activations/mercury-hades-equals-admetos.md",
+      "final_current_sha256": "c0f039126e9ead9741d1161684d7f0db475194439b539ea45773af19b150d43b",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 48,
+      "ledger_record_sha256": "e50ae7263f9c7cb7f59c0705e9c376c0eedf1ecace9ddf494d9cf7e0e702daec",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "admetos"
+          },
+          "decision": "Witte PDF167, admetos: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "9b87bdae92433c156d7ba2d010623c432259a23f4bcdcf0ed588c853d2b5f72a",
+          "current_block_sha256": "8cd4b4beedf41ccef546b0a3bacf87b6630a45b5499d8ea5efb7bb1f00f0dbac",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 257,
+            "pdf_page": 127,
+            "row": "admetos"
+          },
+          "decision": "ABC printed257/PDF127, admetos: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "6c1b132c045a02fa9d3bbc3944dc4deb9eab83c35391adac4c02dd20253eafaa",
+          "current_block_sha256": "cc2525d1fce8a9d1dd3e6280eb438b27a9c91e11127a235907f7200441712bde",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `257`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Persistent talk about need, blocked emergency call, depressing news from the past, strengthening of secret thoughts, deepening thoughts about the past, dangerous depression of youth, and disadvantages of a restricted youth",
+            "+ Persistent conversations about distress, a blocked emergency call, depressing news from the past, strengthening secret thoughts, deepening thoughts about the past, dangerous depressions among young people, and disadvantages of a restricted youth."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-apollon.md",
+      "final_current_sha256": "fb2d9f0c8712d4f361ad4e22ed6d79089abcda09aa7b930653d760e986bf77bf",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 49,
+      "ledger_record_sha256": "6520aa147be094154cd8354e6a72b44f5cb4ca279bccbb4b3009ac84deac0c1e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "apollon"
+          },
+          "decision": "Witte PDF167, apollon: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "4881ca9c73390b387d6cf55824216331147306d998cc2f9400971cf6796c7add",
+          "current_block_sha256": "c9175afa76185edb255471f923edf27dc82dbfac07e727efb8e4dced48184493",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 257,
+            "pdf_page": 127,
+            "row": "apollon"
+          },
+          "decision": "ABC printed257/PDF127, apollon: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "afcd7e45d22017185262f0dba453e32a47e015a718428e462731928206b1e24c",
+          "current_block_sha256": "3e3574685bedfb2b6431b676594b6cb66343bd0b7b3427b7e00a8bc1942eb167",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `257`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Success through old languages, describing dangerous experiences, danger through freedom of speech, language about successful deprivations, language about secret knowledge, freedom of opinion in danger, news about many in need, and need of youth in freedom",
+            "+ Success through old languages, describing dangerous experiences, danger through freedom of speech, conversations about successful privations, conversations about secret knowledge, freedom of opinion in danger, news about many people in distress, and the distress of youth in freedom."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-asc.md",
+      "final_current_sha256": "b1d32775528225dc4b710902c0ac0db379a0ce504d091220511a34d224622636",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 50,
+      "ledger_record_sha256": "60c03f0f8dbfd59fa14a1ce28ddbe6967f992e7c85a6cf59cb70c13b9f995b6f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "asc"
+          },
+          "decision": "Witte PDF167, asc: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "84dc064c0879e3f0078cee08691375169f9450c4e514a867b3796a3fe8051114",
+          "current_block_sha256": "dfdcfa01dcced16bcff1394c16e9be85c4984225646d88851f6aa6be669e153e",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 256,
+            "pdf_page": 127,
+            "row": "asc"
+          },
+          "decision": "ABC printed256/PDF127, asc: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "48ad62fbeffd2e8bfd282bad5d93a4f2e09f185265cac708b43d06b947d669d0",
+          "current_block_sha256": "afdbddda73a4c8cd44f36df0a2de1123911d279615db42aa39e542a0f757cd1e",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `256`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",
+            "+ Old conversation partners, old writings in the surrounding area, conversations about deficiencies in the environment, dangerous local traffic, a dangerous environment for young people, others' disadvantageous opinions, news from a dangerous place, and the partner's emergency call."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-cupido.md",
+      "final_current_sha256": "33bc756a6aa7178c49f055dbb423f03ef2ffc672b0c79001989df8cfe7d9d668",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 51,
+      "ledger_record_sha256": "6837bbab3d3071a47f790b86586dd26884a9adf8dbba69af038396a1bb83f0a3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "cupido"
+          },
+          "decision": "Witte PDF167, cupido: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "219f721396771a0544ceb8955cfbcb93f1931cc9a2336d8d35d7a92c82eb6abc",
+          "current_block_sha256": "58b3aed4dc8f9bf040b92dfa1bdb058042beb621fab56743c0e50afbdbffe0b3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 257,
+            "pdf_page": 127,
+            "row": "cupido"
+          },
+          "decision": "ABC printed257/PDF127, cupido: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "6da740bb868b6a3c7f8ad3f2af90f212b65f5dc9fe8c633fd73b37a4f6944380",
+          "current_block_sha256": "7efdf46238f9b3e54a80fafbb45b707a51459a5e41bd15a7eb54e57d920398b4",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `257`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Common deprivation of young people, dangers for a young community, youth shortage of a community, opinions on the common past, news about lack of Community, and language skills from the past",
+            "+ Shared deprivation among young people, dangers for a young community, a community's lack of young people, opinions about the shared past, reports of deficiencies within the community, and verbal art from the past."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-jupiter.md",
+      "final_current_sha256": "be64b21b60a7fc6edf54be92aa11038d34e608e9d595ac29702d45394a95c174",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 52,
+      "ledger_record_sha256": "0f74f22321b39758c24a9113aa8ad3baf55e27768dc7e823420af9c853a04e67",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "jupiter"
+          },
+          "decision": "Witte PDF167, jupiter: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "578b693c33336b2cfa48bed2a3488d1da387b55bc32f919b203494dacae2ec8f",
+          "current_block_sha256": "6d95decba941a1d8dfcf3e4a098b7cd12eb1c5497cbe62dbfa80396dec67fc96",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 256,
+            "pdf_page": 127,
+            "row": "jupiter"
+          },
+          "decision": "ABC printed256/PDF127, jupiter: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "695b8c0c86f9ab97fc89d6214ad568db5017b8a99614f78ca777bdc287f4d00f",
+          "current_block_sha256": "c12cb4ea81a46bd9c64a7eb0d714e97c0321bd14465c2f093a315030784fecde",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `256`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Reports on financial crime, financial emergency call, joy over writings from the past, money shortage of youth, lack of speech pleasure, lack of right thinking, legal talk in need, and satisfied thoughts in old age",
+            "+ Reports of financial crime, a financial emergency call, joy in writings from the past, young people's shortage of money, lack of pleasure in conversation, deficient legal thinking, adjudication in distress, and contented thoughts in old age."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-kronos.md",
+      "final_current_sha256": "3ae0e541ee7aec03edb3cb38ecae10d84be1aabfdd1db8530332975534d049c4",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 53,
+      "ledger_record_sha256": "1ea487638a19664d06e26f15666def23daff0c1d56419be9ce5f61abf70966f3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "kronos"
+          },
+          "decision": "Witte PDF167, kronos: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "1a1451573540e83a84331093ae7925db62a90b62746ff7acb439765fc9ba34f0",
+          "current_block_sha256": "7cfefd2608d79fdeac39b0bd1adc294f75b136ed46d824032dced1dae2b636a1",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 257,
+            "pdf_page": 127,
+            "row": "kronos"
+          },
+          "decision": "ABC printed257/PDF127, kronos: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "29f30349f007df330eefe0a7f70393cb46c6f020f53889f5aee2a9ae0ea3c045",
+          "current_block_sha256": "b74640801bb9716749f01d00ec6558a51879311be420f057e05088c6bbe04001",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `257`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Special youth dangers, dangerous media authorship, grief of the young boss, opinions about discrimination by the authorities, news about danger for the state, emergency call of the state, state secret language, and important writings from the past",
+            "+ Special dangers for young people, dangerous media authority, the young leader's distress, opinions about disadvantage imposed by the authorities, reports of danger to the state, a state emergency call, secret state conversations, and important writings from the past."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-mars.md",
+      "final_current_sha256": "bf14558ca6527db3e6ea2e0114645f24af3c02441d875c31c772daf30e6cc15b",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 54,
+      "ledger_record_sha256": "d08068da7084d6a7c6a37f1b2a924d100a05ca2aa42208051425069a96bdab5e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "mars"
+          },
+          "decision": "Witte PDF167, mars: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "3da1cc37e5fccdf79d4d45f2bdc5f55c5cb01cc23b85159c00a48ff6e174cc14",
+          "current_block_sha256": "578dacf9a4ffa9be17be0804e258f9113c4cf2058af6e1d02eaa8e63e2564497",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 256,
+            "pdf_page": 127,
+            "row": "mars"
+          },
+          "decision": "ABC printed256/PDF127, mars: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "441317ff329e077c7cf55d6e59400917fc9dfdd8d1d3367fd25ad532abf029c7",
+          "current_block_sha256": "b95c1f8aceed41843751aeea3abe2500cfbd0dcdc159b3470d661bb8888a5fda",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `256`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Working with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and working emergency calls",
+            "+ Working with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and processing emergency calls."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-mc.md",
+      "final_current_sha256": "d0971bcc7790aad1c543b3b80ddd21fc03dea53ea4abeb7ff53301c6b6a864ac",
+      "unique_owning_ledger": "activations-034.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "e961d7d5a9d7aae85c0b198f82bb525db65574f608d9b9c1cc16baa592e43890",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 167,
+            "printed_page": null,
+            "row": "mc"
+          },
+          "decision": "Witte PDF167, mc: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf167.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "680ca48678fad2f371458fa660589d1cccb707edab19970f64f120c8b063e082",
+          "current_block_sha256": "932a2544203559f4c84db4f62d6d5f48e41109867eb41b508aba578e4ed3e916",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Mercury + Hades`",
+            "+ - Source locator: PDF p. `167` (complete oriented entry; raw scan checked)."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 256,
+            "pdf_page": 127,
+            "row": "mc"
+          },
+          "decision": "ABC printed256/PDF127, mc: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf127.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "b5c7c49c01364e1cd6f741bdec5e10a6aaeb5d59cdd48e9c798824ef9fe4da09",
+          "current_block_sha256": "33b6326bc76faebd2f548f2a76bdfab0a8b8de5098faf978e074551f509054eb",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source heading: `Merkur + Hades`",
+            "+ - Source locator: printed p. `256`, PDF p. `127` (entry).",
+            "+ - Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.",
+            "- Reports on scelic distress, ghernc speleen language, my reports on the past, my thoughts on poverty, my dangerous thoughts, I speak of deprivation, my criminal youth, my disadvantages in youth, and my emergency call",
+            "+ Reports about emotional distress, secret soul-language, my reports about the past, my thoughts about poverty, my dangerous thoughts, I speak of deprivation, my criminal youth, my disadvantages in youth, and my emergency call."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-admetos.md",
+      "final_current_sha256": "2c0f57fa75a29029ce20e0a7e6addd58530efe18181bdcd53647b152cc41e95b",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "5c8b5a7b77b8748e58c601a635b5d10279b0870164f1c5cc007beb55b57c9291",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "admetos"
+          },
+          "decision": "Witte PDF66, admetos: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "c29747ff3e800dbb1191b1ed90282c230d4437b886e9f148b47e29e8598f7243",
+          "current_block_sha256": "5f02fdd137324d0501586aca8afdb5d65e8694ce2b63e5027f634a59a59d9be0",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "admetos"
+          },
+          "decision": "ABC printed77/PDF37, admetos: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded. gestörter Kreislauf remains circulation/cycle, intended application undefined.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "5eea4f441a4568cbd029185b7d8ff9d8e299e72038fe341353964c56b18e0097",
+          "current_block_sha256": "229536aa53ce1a6043657c6ca5b3488c95c97d148433d4a4c1e7e9974ca815ca",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Perseverance of a mature soul, limitation of my tasks, strengthening of my patience, my dead circle, my profound concentration, my painful depression, suppressing my pain, and deepening into mental tasks",
+            "+ Perseverance of a mature soul, limitation of my tasks, strengthening of my patience, my disturbed circulation (`gestörter Kreislauf`), my thorough concentration, my painful depressions, suppression of my pains, and deepening into soul-related tasks."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-apollon.md",
+      "final_current_sha256": "ca56ad9a892e539725e9d14b39a8fbab5c5f127481da860ffe697240b65f29e8",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 28,
+      "ledger_record_sha256": "294b5f649126d5066bf49f61843f058be7b5ab2f3f8638d4c69e0705649b36d0",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "apollon"
+          },
+          "decision": "Witte PDF66, apollon: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "5d4cc1f4b46af3782ab39be477cf5c1c268b1811a155179c93a9b311d12880b4",
+          "current_block_sha256": "76b44c88978353b3dfea61b13639fc699bb3bda9364807cb96801552bd6137d2",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "apollon"
+          },
+          "decision": "ABC printed77/PDF37, apollon: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "d65c2ccc22815e1aaf903004ec0833429d4e477cee09c5d762bab0d39f10f9c8",
+          "current_block_sha256": "11b62a5e5f9034f157b15c3a0278fe3e4cb9c81d2fafc8d804bed5f734b3f02f",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Extending my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, my patience, my concentration on knowledge, my problematic experiences, and my separation successes",
+            "+ Expansion of my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, my successes through patience, my concentration on knowledge, my problematic experiences, and my successes in separation."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-asc.md",
+      "final_current_sha256": "e8cd27a53e4bb5dbb9fc63375885b00a0aca532a3999bf31ec5f4125878dbb4f",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "25af0513488a16a46cdaa888959c9085ac3295d29b6ad9f53c9d0d2e50b40ce3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "asc"
+          },
+          "decision": "Witte PDF66, asc: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "d1805133e4e8be34668b0c94b3f7394f28b53ae795585551bdc1d8d21d7c2732",
+          "current_block_sha256": "0d1e5341a50bf1ff4a896430e0e483da3a26f504cc8c46fa4dffb6116c61d6e3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "asc"
+          },
+          "decision": "ABC printed76/PDF37, asc: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "c6050cfe1dfa7426ca98b5566a8ec62da2a8fc1f543a0bb87161312a276280d3",
+          "current_block_sha256": "12374da292e5f108beb9ac53bae0f4ca4043e5ad37c02bcefb1e85f3de9d5d4f",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Others are hard on me, my partner is emst, my partner is patient, my partner's obligations, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place",
+            "+ Others are hard on me, I am hard on others, my partner is serious, my partner is patient, my partnership duties, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 264,
+            "pdf_page": 266,
+            "entry_code": "0937",
+            "row": "asc"
+          },
+          "decision": "Ebertin printed264/PDF266, code0937: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf266.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "f5a200c39e486ffd71ac0365672d91b42968ffb001fcb36706434707cc9bd148",
+          "current_block_sha256": "96bd4bd8a22bcd0e9151ddc622db3dcba62fcf43a221a362bc0a552bb4f1676e",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0937`, printed p. 264; PDF p. 266."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "asc"
+          },
+          "decision": "Sandbach exact full asc paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "a549d3991bda606f884aa4508fb268f0554d5eaf5db1a0bd9009822d6c604e97",
+          "current_block_sha256": "9e5aa227c2aaaffd83b00f458843d35dfef2d13955f3d9688f5734ce58516ebd",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "asc"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "f97a735680b73895cd8ded7b228803e54a21c9fb38cce722070e813d0f00f8c9",
+          "current_block_sha256": "f97a735680b73895cd8ded7b228803e54a21c9fb38cce722070e813d0f00f8c9",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-chiron.md",
+      "final_current_sha256": "421cd4c87aec39a4e41999e5e2e6536944b274c72f7be39eb18f8e968042e6e3",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 29,
+      "ledger_record_sha256": "aef4c44adc530b4dd5134ed94d66329699ef04910eeadf59518ba4cf82ea0dc8",
+      "sources": [
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "chiron"
+          },
+          "decision": "Sandbach exact full chiron paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "555abf35b0e032cd9c0589435d28f645f133f1d8936bf7836f177d6cb79c2cd7",
+          "current_block_sha256": "421cd4c87aec39a4e41999e5e2e6536944b274c72f7be39eb18f8e968042e6e3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-cupido.md",
+      "final_current_sha256": "f412a3a1620b8b18fa94402ad2fc5de4ca766ba0bfd1b7b0564539db960164b4",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "6c7c471a6fc23e7dedb6957e942619457b310aee8c9d0b13499487d7a680adba",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "cupido"
+          },
+          "decision": "Witte PDF66, cupido: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "5614645a5171bcb87a2eeb506aea10d80109de0d28297ebbb49ccc41d729e4ef",
+          "current_block_sha256": "beba7a7d45ec2ded95fccb75dd680aa9d403617912c53fffbd86fa91f19d2aca",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "cupido"
+          },
+          "decision": "ABC printed77/PDF37, cupido: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "fad05adc22b85dd0879a887c6fe7a4ede11191d442c7fdbd0cfcd1daf8a6ee77",
+          "current_block_sha256": "9ec279e925b6a9218cd089faefe3607d5fe4da4646cb62a0b104fdb72a82b74c",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Old Soul Community, Tasks of a Soul Community, Community of Gcstortcr Souls, My Tasks in the Community, My problems in the Community, My Separation from the Community, and Mature Souls in of a community",
+            "+ Old-soul community, tasks of a soul community, community of disturbed souls, my tasks in the community, my problems in the community, my separation from the community, and mature souls in a community."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-hades.md",
+      "final_current_sha256": "65991afda1ba0e3c45777cb415deebf968079ee1a813bb30e1494473b2694315",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 31,
+      "ledger_record_sha256": "82c264b57c73e2026fae4d87e402b542e3a40853fe03f73bd030430c0e1b83af",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "hades"
+          },
+          "decision": "Witte PDF66, hades: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "09d1668226ff79853a7840310220a7202605e99d53cea4a02fed3632bf89cdb8",
+          "current_block_sha256": "11fa740eeb120ad364cd50ab1a2a1e0ce7e3281d765f629059f81b65a3761e8b",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "hades"
+          },
+          "decision": "ABC printed77/PDF37, hades: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "8efebfa7398264c3fff07879bc6accf55e268d01cf51557136f9c0f43a6093d3",
+          "current_block_sha256": "beb3cc62818681be187ad9946fa39c89ce4c387dcb97eccf54e2e59b077b13ba",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Focusing on soul cummers, my patience in need, my hard past, my concentration on the hidden, my lack of empathy, my disadvantages through inhibitions, my mental problems, and my dangerous pain",
+            "+ Concentration on soul-grief, my patience in need, my hard past, my concentration on the hidden, my lack of seriousness, my disadvantages through inhibitions, my soul-related problems, and my dangerous pains."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-jupiter.md",
+      "final_current_sha256": "38d5f3a23c6a8a0cfcc15164d835b60ca74ee96b2814f97f2a1bde6716aed9c4",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 40,
+      "ledger_record_sha256": "8f35a6628cdc3ea01efb09982c546083d895b87235493073117fc40cefc8764f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "jupiter"
+          },
+          "decision": "Witte PDF66, jupiter: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "0f42334c14cf83b915ed4fc263317c83c67b2b8a5f31c1a1315524ea6b38b305",
+          "current_block_sha256": "0fbd99753ab53106acc17d81c865db20f3fa95dd8b2c5f66ed65fc27d60bda9a",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "jupiter"
+          },
+          "decision": "ABC printed76/PDF37, jupiter: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "114025dc0dc83568a868e3efd4bd156e921f4e39d39798d12c4a182d37f04b06",
+          "current_block_sha256": "2d7a5456581340966db5d51a54d56efeaac3651c4ebc81ae6a6af0d9610e7699",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Lost Soul Peace, Happiness of a mature soul, Inner Happiness by Empathy, My Success by Perseverance, My Financial Loss, My Steady Happiness, My Joy in Old Age, My Right problems, and Soul Joy despite Pain",
+            "+ Disturbed soul-peace, happiness of a mature soul, inner happiness through seriousness, my success through endurance, my financial losses, my disturbed happiness, my joy in old age, my legal problems, and soul-joy despite pains."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0932",
+            "row": "jupiter"
+          },
+          "decision": "Ebertin printed263/PDF265, code0932: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "34cb2ba5058c083b7e07ba4d260b08c219f90ddc6440d9787c5773c464665d71",
+          "current_block_sha256": "98d0701df0f25506668cb46848379e1a9a62b856f73ad5eae45d10a787a3a0a7",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0932`, printed p. 263; PDF p. 265."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "jupiter"
+          },
+          "decision": "Sandbach exact full jupiter paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "7117c26c49ed060df2f3a2954f2333ed8f3792ad90f47a8d761135140cc82db5",
+          "current_block_sha256": "5ec1e46d081cd3444e26d50c199fe8c0ccb6dfc40df6402e0e185dbb38bcb95e",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "jupiter"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "702b31927d81951c0e9a68d705c3af51f9c204d8ce44367bca2c8724d01cce94",
+          "current_block_sha256": "702b31927d81951c0e9a68d705c3af51f9c204d8ce44367bca2c8724d01cce94",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-kronos.md",
+      "final_current_sha256": "4eb6176c961257081084edcfc7c5efeb7658eb9835e071d7185c6f5a8b937e26",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 32,
+      "ledger_record_sha256": "681c90c316d8d01824d56940c28acf508b7f6bba56e9bbcbd20fa8a9363ff09d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "kronos"
+          },
+          "decision": "Witte PDF66, kronos: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "83b014d18ca1be20a04291562c0e2db51c5d82e37a2696529d736065e54521e3",
+          "current_block_sha256": "159b561ed18675869ecd260edd47aa60e9a7d895cc01c9e6fb5e3e54fad4d219",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "kronos"
+          },
+          "decision": "ABC printed77/PDF37, kronos: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "5c7777d744f1a305b17f644f401ebb8260d4f33ffa5d60c0f7e4750337e42e48",
+          "current_block_sha256": "95a9aaebd9ed628029e1c88c599da724635cc9ffbfbf4ea8ec3ee4a3b134858a",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Authority of a mature soul, my special duties, my great perseverance, my important tasks, my great patience, my concentration on the boss, my problems with the state, self believing of an old soul, and primary mental tasks",
+            "+ Authority of a mature soul, my special duties, my great endurance, my important tasks, my great patience, my concentration on the boss, my problems with the state, self-confidence of an old soul, and priority soul-related tasks."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mars.md",
+      "final_current_sha256": "f890c031d76fec92b837727efd90d5a277e99addce4bf244fa40f9b824554660",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 41,
+      "ledger_record_sha256": "4c7bc8150d951b4956117d00f65bea3073dcb46bdc70efb3b6622ce650dd31fe",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "mars"
+          },
+          "decision": "Witte PDF66, mars: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "ab3a7fa4dbbdb459a3709b340bce02eef69677ddea9b567c40dba10115271146",
+          "current_block_sha256": "bcbd063158f4023e28163d7402dbe2048ee9e7204e765bebf844e2cf1d147c81",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "mars"
+          },
+          "decision": "ABC printed76/PDF37, mars: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "cc2256b3bbe5d2c37d4ae3b64764161c24341860c6ee3c6c31af0d762abc776e",
+          "current_block_sha256": "143cfbd88b95e8972c3dff172ee0edb9d1c7728f1619f8e33f79a55851b9d872",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Work of a mature soul, patient soul work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work",
+            "+ Work of a mature soul, patient soul-work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0931",
+            "row": "mars"
+          },
+          "decision": "Ebertin printed263/PDF265, code0931: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "7d1280042c7e1045cc4811132064c5fe4d2aa9dd89470675255feb3ab047d770",
+          "current_block_sha256": "a4cbd055a17ed9d67df886d9f2ec59565ecd91795a9e860aad9adbed0dd5e3c3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0931`, printed p. 263; PDF p. 265."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "mars"
+          },
+          "decision": "Sandbach exact full mars paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "e99efb6525166f9a83dc2e24a8c070df4c96e5a8f41f367e2756c9bc878743ac",
+          "current_block_sha256": "84916f514a56a39bc5c1207444165582876aeb13625646ef1551192a98422d0f",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "mars"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "a7136280b1a66d175115fa2e6d93985fbeea5f57de65da4dc461ea13aed4f215",
+          "current_block_sha256": "a7136280b1a66d175115fa2e6d93985fbeea5f57de65da4dc461ea13aed4f215",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mc.md",
+      "final_current_sha256": "63abffbb3308de96c9cffe7bd544b5b4d192641bcc7287d59cb2e5f15f9d7f41",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "4ab56a5b4539efc4f2302d7bbf474177f874e61439a4e23b30ce66dbcf79854f",
+      "sources": [
+        {
+          "source": "Munkasey",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 306,
+            "pdf_page": 307,
+            "row": "mc"
+          },
+          "decision": "Munkasey printed306/PDF307: source-native heading, exact activated row and complete paragraph checked. New PDF locator verified; inherited prose excluded. Raw prints well down; intended grammar uncertified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf307.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "97c3f04a8c9574e988a84c5f27375ae11e7a798b992d8328c8f05d790d639e56",
+          "current_block_sha256": "63abffbb3308de96c9cffe7bd544b5b4d192641bcc7287d59cb2e5f15f9d7f41",
+          "exact_changed_lines": [
+            "- - Source page: `306`",
+            "+ - Source page: `306` (PDF p. 307)"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mercury.md",
+      "final_current_sha256": "eb2424e6406d7dcaed169989fc19a5568140c8af7770c8121a752515b53d06d1",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 42,
+      "ledger_record_sha256": "16f65f01956f7d7a002cd544bf3ae9e1cf1649a7601e0eb44f2d133c4e98e1b9",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "mercury"
+          },
+          "decision": "Witte PDF66, mercury: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "48e8eaa6b71e0b022d3c0e6007b35c2853b68d7f7dee8140f77a9e3b184c6151",
+          "current_block_sha256": "eb085ddf9f2afda07a1e0dfdb4d8afdca2e3e7d5dfe5aebaf73ee89a1e5c20a8",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "mercury"
+          },
+          "decision": "ABC printed76/PDF37, mercury: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "4caf4352d6530320092b87874378111de2abc5c446f6db9f3565591c71cd2408",
+          "current_block_sha256": "e7fc5d21693e93929d163836bf3af37e1fae991f630eaaddc2353f222d9dce72",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Worried serious language, talk about my disturbances, consider my tasks, my thoughts concentration, my separation thoughts, my losses in youth, talk to mature souls, and discuss mental problems",
+            "+ Soulful, serious speech, conversations about my disturbances, considering my tasks, my thought-concentration, my thoughts of separation, my losses in youth, speaking with mature souls, and discussing soul-related problems."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0929",
+            "row": "mercury"
+          },
+          "decision": "Ebertin printed263/PDF265, code0929: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "8686e330e0bf7c1c0cf899c5326310bb6043b5ef248045e9d9c9e3aa1551764b",
+          "current_block_sha256": "ce2a8ad682383a480426e9ef97b36f23a51e522dd704dc64269a3268a496c5c7",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0929`, printed p. 263; PDF p. 265."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 95,
+            "row": "mercury"
+          },
+          "decision": "Sandbach exact full mercury paragraph PDF95, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "ac398c1316d988d9d9ef47e43fd6ba94c6dd0211880b7d1ce2d9a8c24eb3d135",
+          "current_block_sha256": "7ff8edaee321604fb0999b3a88fd5730b1f00413160d84ace3fa2f07dd0a30e7",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 95."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "mercury"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "91e9e8edf22c4d9221609aea24cd36d4f1b35c71136103896cfdec8130b20c63",
+          "current_block_sha256": "91e9e8edf22c4d9221609aea24cd36d4f1b35c71136103896cfdec8130b20c63",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-moon.md",
+      "final_current_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 43,
+      "ledger_record_sha256": "98f4b63d8207b10a25425218af65dd46ca22ab223ee9f8eaa1c905aebf738e8f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "moon"
+          },
+          "decision": "Witte PDF66, moon: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "b5b2856de99431af207518f997878a77b7bb70d0faa4943e30e09a5ff511c8e8",
+          "current_block_sha256": "f4eb95b7d33265216b941a0d0b00ae06222cd96b4b34352ea2a15c888cdae35d",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "moon"
+          },
+          "decision": "ABC printed76/PDF37, moon: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "f9484e0125b984614b287abdb93b47ecf36d11edeaaf128cc97c131fae6f217e",
+          "current_block_sha256": "a10beea103e7286db9e77429196df0aa0151ae9ae2b446c48ed45f60d7fb33cd",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- My autgae as a woman, my stiff people, my women's problems, my feelings problems, my wife's duties, my people's problems, my mature women's soul, my wife's pain, the woman's emotional pain, and my mother's loss",
+            "+ My task as a woman, my disturbed people, my women's problems, my emotional problems, my wife's duties, problems of my people, a mature woman's soul, my wife's pains, the woman's soul-pains, and loss of my mother."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0928",
+            "row": "moon"
+          },
+          "decision": "Ebertin printed263/PDF265, code0928: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "776d8b49d80a61b669712961be152658bef8659ad57f51ee79d11376dddc0a4e",
+          "current_block_sha256": "0dd7af0b5e98d2cfd74d00f3e8036c88aa3406e5a280ecdd541d40cdff7d9b00",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0928`, printed p. 263; PDF p. 265."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 95,
+            "row": "moon"
+          },
+          "decision": "Sandbach exact full moon paragraph PDF95, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "faad8296f128f43e53a6da43701769c9d004d5172a8519a63f028e967c024d97",
+          "current_block_sha256": "cac33aaf52bd0248bbf6b47140fde37be85114a7edf1d3d8b451ba0b9e516ded",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 95."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "moon"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "0803ec8babfcb7e91203c12f1693fddef34660e76ce3acad03c791a42f08adab",
+          "current_block_sha256": "0803ec8babfcb7e91203c12f1693fddef34660e76ce3acad03c791a42f08adab",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-neptune.md",
+      "final_current_sha256": "c21403a5366a5d8754db64ed450e9d3041c7b6dedf00e84d84e3ed0998755a4b",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 44,
+      "ledger_record_sha256": "e1c41dd40c186319e0db028d0708228479f90596f563155dfebbbf8b3b3d04ed",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "neptune"
+          },
+          "decision": "Witte PDF66, neptune: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "22813abb3acc90e95c771139c0a9352c52e1969ec2a613261c46be7940af3ba0",
+          "current_block_sha256": "efcca92d7cebbb2a5217d0ba3c839a181df51a126b11ae82cdce3a028a8c9c2f",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "neptune"
+          },
+          "decision": "ABC printed77/PDF37, neptune: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded. Neptune ends future problems; Pluto opening three clauses excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "ff12368ded7bf47df5c12a2e5ca8e59479ade749370b4f2661257c472c34048e",
+          "current_block_sha256": "d818c562117135ac0782831d721f506247f06bae46a78223200b4bf6fa968da3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Old soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, the unfolding of the soul as a task, my developmental tasks, and my patience in privation",
+            "+ Old soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, and my future problems."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 264,
+            "pdf_page": 266,
+            "entry_code": "0934",
+            "row": "neptune"
+          },
+          "decision": "Ebertin printed264/PDF266, code0934: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf266.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "4b5061559db8371dc0debc5635627bdfc5ddbf9d3bf63a8a8587bd856e3d5d4a",
+          "current_block_sha256": "5ed1d4b865b1cf6fd4a88d22ec4097bed5bcae31193ceab2ada1203a059c0f60",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0934`, printed p. 264; PDF p. 266."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "neptune"
+          },
+          "decision": "Sandbach exact full neptune paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "6054a889cd460e002bcf07bddac48cf408d46ceaa656654a0317c094923d6512",
+          "current_block_sha256": "1bf3412d682e0c8d775f3e94546d609d63537de8927495814225b7b4265c9d87",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "neptune"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "eaeb6029cf803992b766bd407c3db2b5c712d683dd15447ee5023a8696f7ae37",
+          "current_block_sha256": "eaeb6029cf803992b766bd407c3db2b5c712d683dd15447ee5023a8696f7ae37",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-node.md",
+      "final_current_sha256": "b6d52e285a4918d8ef7c90098a236f440e23fb3e001c99a99e02869a1d32f088",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 45,
+      "ledger_record_sha256": "f7d53a8fd7fdbfe15ab7b9382da946b6934324dc3393d9940d36f0f8ac11bf9f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "node"
+          },
+          "decision": "Witte PDF66, node: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "42bfe8968a0ebf5bb6cffcd4f31b163387caa14c6b54d9f3a94cee9bc1d74731",
+          "current_block_sha256": "f62b1c81a2097a2c6a8569f7fe9b4e8a3342924b8f7dcbb5def851aac5486203",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "node"
+          },
+          "decision": "ABC printed76/PDF37, node: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "e1e18bc33c67065cff789b6e239d9b8b36db56e61ee15ab56a83e601a5d6336e",
+          "current_block_sha256": "65d3589823adf71c33c34ee1f3f51c9e97b86d0eb5028afbbb885e5f35e3e1e6",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Perseverance in my connections, my patience in connections, my inhibitions in encounters, my duties in connections, my problematic connections, mental tasks in connections, and association with mature souls",
+            "+ Endurance in my connections, my patience in connections, my inhibitions in encounters, my duties in connections, my problematic connections, soul-related tasks in connections, and connection with mature souls."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 264,
+            "pdf_page": 266,
+            "entry_code": "0936",
+            "row": "node"
+          },
+          "decision": "Ebertin printed264/PDF266, code0936: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf266.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "ae2e756341141fbe2edff612150b3578b1ef2f0e690e6c682adf115de2625ada",
+          "current_block_sha256": "4685cc54a4b6a060b8a586bf00650fa25461d55c17155b3071d93952d7d94b29",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0936`, printed p. 264; PDF p. 266."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "node"
+          },
+          "decision": "Sandbach exact full node paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "424594d244a80c1c1446faa4c739aa5ecaea620c7c7b77c35051eba0a80e5889",
+          "current_block_sha256": "d358934e5ae6abc9e40af4156e26e0bbaab970b322b1531d1fbed6d7e51b8ec2",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "node"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "0f1922b0de3c0649d7e57d216ebe60674253a9d7bfb078aeb704356e06cdb1e8",
+          "current_block_sha256": "0f1922b0de3c0649d7e57d216ebe60674253a9d7bfb078aeb704356e06cdb1e8",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-pluto.md",
+      "final_current_sha256": "c779456cc1e6f9125fb4006780a9a7ed62fcf6bef73893ddce805c5f37c04f7e",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "b4d481c877c333d3b0e353c64b56a2a05ff494c36bf64ae54581588bd6f89e34",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "pluto"
+          },
+          "decision": "Witte PDF66, pluto: own glyph, full paragraph/boundaries and locator inspected. Changed Pluto display-glyph removal verified against key PDF28.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf028.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "032070ba911f2ef264407a948ccd1e2877b55670c5084b7bf3ea60802b0f747a",
+          "current_block_sha256": "277050a07c39661ec0a1a87b9978d9f93bbdebb2ee2b0797bc558c0fd472c745",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66.",
+            "- E Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.",
+            "+ Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "pluto"
+          },
+          "decision": "ABC printed77/PDF37, pluto: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded. Full eight-clause development row restored; Seelen-Reife is soul-maturity.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "77a88c4de5727017fb9daf049add4ae7557a6d2f2532d9ab30811616401b4214",
+          "current_block_sha256": "205e1fc9965584f4363dd74206199270fc1a6a41a0a3271fd8e170209874def1",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Development, my hard change, my concentrated development, my growing responsibilities, my changing responsibilities, and changes to soul relief",
+            "+ Unfolding of the soul as a task, my developmental tasks, my patience in development, my hard change, my concentrated unfolding, my growing duties, my changing tasks, and transformations toward soul-maturity."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 264,
+            "pdf_page": 266,
+            "entry_code": "0935",
+            "row": "pluto"
+          },
+          "decision": "Ebertin printed264/PDF266, code0935: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf266.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "71909b2ac0e52db6419059bd664b954566487c7b0f20855136a46b1f328d0317",
+          "current_block_sha256": "9bdd3a56ee75cd4600ec936432bbe2c2065f225ddbada3ecdbe07cd24ddbd352",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0935`, printed p. 264; PDF p. 266."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "pluto"
+          },
+          "decision": "Sandbach exact full pluto paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "7782e4283bb84f888aef43095f19bd7926879377ce1eb547da5360ccf997f220",
+          "current_block_sha256": "fcb3d5d27973345c2d25104cb9e0d4df9c9d8a1eceaffc8f0b93c5bd03bf9aaa",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "pluto"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "41936c311b6e12bc30625890a14ead142b497076357f56c429363383be6383e7",
+          "current_block_sha256": "41936c311b6e12bc30625890a14ead142b497076357f56c429363383be6383e7",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-poseidon.md",
+      "final_current_sha256": "9c8f51bb639980b57e0efe223686298aa4939c005879c2eb700baaf58b71d5b7",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 34,
+      "ledger_record_sha256": "d08b2b4c6e681f28b1f62d78672371eae40c482c5d83b192d5d9e78975dea0c4",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "poseidon"
+          },
+          "decision": "Witte PDF66, poseidon: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "0e3d52c3ab99cd3f649262877d578ecbe8753ab9f3816cb4c10d4c0c2f76e66e",
+          "current_block_sha256": "34ac7a7852af4605e08058d2651a107990b0d2aafd77987cceb749cc8f7946a4",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "poseidon"
+          },
+          "decision": "ABC printed77/PDF37, poseidon: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded. Lebens-Element retained without physiological reconstruction.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "a9d176d63e29167bc244ab61cdd075a70a2790e577fbeec94a6b1cb5ef0e7f34",
+          "current_block_sha256": "e774c708e358acd02ebee6ba0f9a7eefd340b7a9066c0e469d6b4a428b41d516",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Findings about soul and spirit, clarity of an old soul, concentration on the life element, my spiritual tasks, my concentration on the mind, mature spirit soul, disturbances between soul and spirit, and separation from the life element",
+            "+ Insights about soul and spirit, clarity of an old soul, concentration on the life-element (`Lebens-Element`), my spiritual tasks, my concentration on spirit, a mature spirit-soul, disturbances between soul and spirit, and separation from the life-element."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-saturn.md",
+      "final_current_sha256": "dafdf77e5655b71906b14c11167567bd4689ba5ae2fbb18c7a9afff2ffcf892e",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 35,
+      "ledger_record_sha256": "8f45baff493359331c2488234c74735ff320bccef982abda6c2d84fb649ce379",
+      "sources": [
+        {
+          "source": "Munkasey",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 306,
+            "pdf_page": 307,
+            "row": "saturn"
+          },
+          "decision": "Munkasey printed306/PDF307: source-native heading, exact activated row and complete paragraph checked. New PDF locator verified; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf307.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "6f889d8fd5eab1f00d0b42f10ab8dbf8fef1c1586b09ee9ffae15200c1029cc0",
+          "current_block_sha256": "dafdf77e5655b71906b14c11167567bd4689ba5ae2fbb18c7a9afff2ffcf892e",
+          "exact_changed_lines": [
+            "- - Source page: `306`",
+            "+ - Source page: `306` (PDF p. 307)"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-sun.md",
+      "final_current_sha256": "1206fcad097bb598ba71d3ea27c20fa7c63bd2e94f65b12b32462fb9f92aca10",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 47,
+      "ledger_record_sha256": "b41d0be5f2560e6cbe8bcdd962045cd9d402cb3f499884b8ebe1dfebb64a6b2f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "sun"
+          },
+          "decision": "Witte PDF66, sun: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "ffed5e0869fb27bcf97d594f13f11ab832a0eeece5f60e27152aed5aae25b732",
+          "current_block_sha256": "0a9536fa7e316185ed369f56c506c6f838c5e0af00ce4cc738bbd4e581bbdb54",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "sun"
+          },
+          "decision": "ABC printed76/PDF37, sun: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "8ce27e779cf4bfbcdf5e19981e6caf4c726f0cd40d0ea509e03a25c7dbaa261b",
+          "current_block_sha256": "a3d7763707d32b03f6ba02b1d1fa5e82ae37a322b99ffb136de8103751522fb2",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- my Ausdaucr as a man, my patience for the people, my corporal pain, my personal abandonment, my personal inhibitions, my personal problems, mature human soul, and my separation from humans",
+            "+ My endurance as a man, my patience for people, my bodily pains, my personal tasks, my personal inhibitions, my personal problems, a mature human soul, and my separation from people."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0927",
+            "row": "sun"
+          },
+          "decision": "Ebertin printed263/PDF265, code0927: exact glyph, complete passage and locator checked. Footnote57 is visibly attached to Sun0927, not Uranus0933; full report and qualification preserved on Sun.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "11fd68bcb8a0857d9a5481555dc5ceb621fac1d0148f791e17d2a8ca17f7ba12",
+          "current_block_sha256": "d83e5ab74ffea8f4513f5f166fbd6ca71772cd7f6bdb9d8e706a40a1bcb9db64",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0927`, printed p. 263; PDF p. 265.",
+            "+ #### Historical Footnote 57 — Sun Activation",
+            "+ ",
+            "+ 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.",
+            "+ ",
+            "+ The source attaches this historical report to the Sun marker (code `0927`), not to Uranus. Its explicit qualification is part of the source's claim.",
+            "+ "
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 95,
+            "row": "sun"
+          },
+          "decision": "Sandbach exact full sun paragraph PDF95, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "09fe00b30e7f4e5a6bb34f0c74576446d8b53dfabf16782da0275aa366e0a1d8",
+          "current_block_sha256": "b5f744d222d8756e56d515cbd40e5e8233ef8c1c69300cc11bdff0b9478b83af",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 95."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "sun"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "3044dded06440e03e2692c36f208ddec9f1d86be144dfadba42b28f91c71a53b",
+          "current_block_sha256": "3044dded06440e03e2692c36f208ddec9f1d86be144dfadba42b28f91c71a53b",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-uranus.md",
+      "final_current_sha256": "7c2e19615fc5780c9a1d8b47478f055d35b5aa33c5342b6884ac90fb134280ff",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 48,
+      "ledger_record_sha256": "6e42b7604c1362c4c115225f3e58002a8f5f01e8e01daa2e7c10296b33adf787",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "uranus"
+          },
+          "decision": "Witte PDF66, uranus: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "abb057a346b59b4af7c8517a61f7f80e4c4fd3780c6c752fb5871050f8c166e8",
+          "current_block_sha256": "38d0cc0272c29979f93875143b12183399e28b001254c58d375c50058daeac75",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "uranus"
+          },
+          "decision": "ABC printed77/PDF37, uranus: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "89d9f271c249455c9b531fb8fac9574b27ca7b6685d6e9610b1d9a1b84a67fe0",
+          "current_block_sha256": "c63d0a9b3e58e939bfe045d9d7b7e69939ad39cb7864e4a277793bb90dc8cd55",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- serious mental tensions, my inhibited rhythm, my inhibiting nervousness my nervous pain, my new duties, my sudden hardness, my Czech pains, sudden pains of the soul, and restlessness of a mature soul",
+            "+ Serious soul-tensions, my inhibited rhythm, my inhibiting nervousness, my nervous pains, my new duties, my sudden hardness, my technical tasks, sudden pains of the soul, and restlessness of a mature soul."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0933",
+            "row": "uranus"
+          },
+          "decision": "Ebertin printed263/PDF265, code0933: exact glyph, complete passage and locator checked. Footnote57 is visibly attached to Sun0927, not Uranus0933; full report and qualification preserved on Sun.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "8d5f89125306f7b158583a870052b33bf29dc22083ec12edd98da417777b5826",
+          "current_block_sha256": "5fdd44ef6932c87deb01c77aabcf6ca7d1ec9d0cde0f335089539d89686ffba6",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0933`, printed p. 263; PDF p. 265.",
+            "- Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement. 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.",
+            "+ Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "uranus"
+          },
+          "decision": "Sandbach exact full uranus paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "8323c37f92e3ffd27b052ae88759599e50330e47e12b077b4a0c2c78b59e032f",
+          "current_block_sha256": "860c8f004ddd4a7ff413d3744248f24f2b44f42a93a951a292886d73d0660a9a",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "uranus"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "f098f0392c1b6cb9033a70f029c34be287e56defb5ab87a16ccfd5fc7ec4120e",
+          "current_block_sha256": "f098f0392c1b6cb9033a70f029c34be287e56defb5ab87a16ccfd5fc7ec4120e",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-venus.md",
+      "final_current_sha256": "c93d23cc2c2d0974bc4fc79f34d21933eae8db7fbaa2c90bbd7e30b343469fa3",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 49,
+      "ledger_record_sha256": "4ac3af4516762842d1e455a56772fb1750352f2f403c30066832a1741f942d76",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "venus"
+          },
+          "decision": "Witte PDF66, venus: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "a0b45f535a65d98ac66677199eb2622ed94aa85de71edd9707152b3e88cdce47",
+          "current_block_sha256": "456703cab6dd169814bb0493ba2a1247aec0062427c36f91bc83ed21eb3ce7d1",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "venus"
+          },
+          "decision": "ABC printed76/PDF37, venus: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "95effa371c077582be913e83d089c5b94b540520dc63102b9920d4144764f7c2",
+          "current_block_sha256": "2937aa62deec14cf1ab8e04d250a0124a43d75c9c7344aea69893d6a684fc3e5",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.",
+            "- Lost Soul Peace, love my duties, my serious skill, my love for patience, my love problems, my love for perseverance, the beauty of a mature soul, psychic harmony in old age, and love for mental tasks",
+            "+ Disturbed soul-peace, loving my tasks, my serious art, my love of patience, my love-problems, my preference for endurance, beauty of a mature soul, soul-harmony in old age, and a preference for soul-related tasks."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 263,
+            "pdf_page": 265,
+            "entry_code": "0930",
+            "row": "venus"
+          },
+          "decision": "Ebertin printed263/PDF265, code0930: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf265.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "b84f01a50b3018cd732d09c1956bc6fa9a741537560727e74a4b64c37536d588",
+          "current_block_sha256": "10e01fb9584be17013fcf3183fc5d3d5769c749c13984e0198037b161064a551",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0930`, printed p. 263; PDF p. 265."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 95,
+            "exact_entry_pdf": 96,
+            "row": "venus"
+          },
+          "decision": "Sandbach exact full venus paragraph PDF96, chapter start PDF95, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf096.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf095.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "4111053488a46576246329c7e4f53bd33f00304fb9262328ddab845c5abccf5f",
+          "current_block_sha256": "a90b7bbe4550736c0ccdb298dc97f013939b7ce77b41ef9b9ceb7267e00650a3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 96."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 304,
+            "pdf_page": 305,
+            "row": "venus"
+          },
+          "decision": "Munkasey printed304/PDF305: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf305.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "95fc240b0e702e34c1fb01a3eb7bd5f242cfb082e98daa3635745229019bced2",
+          "current_block_sha256": "95fc240b0e702e34c1fb01a3eb7bd5f242cfb082e98daa3635745229019bced2",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-vernal-point.md",
+      "final_current_sha256": "dab48134e0b622627984cd420c7f0fd73f5fc74f01466684c8d8dacc51eb19cc",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "2479f3c0de0a86e864cae66d61f438a518ca8245c5938faead800e687b51ba94",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "vernal-point"
+          },
+          "decision": "Witte PDF66, vernal-point: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "da9264e9ce207a9ca83cbe7f0651548e639a74a2b06e140f38d5e9986a168da3",
+          "current_block_sha256": "2b7fea399123d10a28aee91fa223221f20218c1452e2063d4dd490281c4719b9",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 76,
+            "pdf_page": 37,
+            "row": "vernal-point"
+          },
+          "decision": "ABC printed76/PDF37, vernal-point: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "78725e6defbeb2787db157226f1fd37b25fecab3cabc9485ac782aee2d5e7373",
+          "current_block_sha256": "164ef422220128e05441e00ab58fd77f13d312b6da144aee9bb1ad31edd850c4",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 76; PDF p. 37. Translation checked against the German row.",
+            "- My perseverance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and psychic burden through the public",
+            "+ My endurance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and soul-related burden through the public."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-vulcanus.md",
+      "final_current_sha256": "1261a8ed0e37f508b2a427e240bc0fb3bf844208dbef57330cbf3000843976fd",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 37,
+      "ledger_record_sha256": "6a39c8418b7a603d558fba3b0c9adfda86f2fe0b644dd292121d18d3c3456488",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "vulcanus"
+          },
+          "decision": "Witte PDF66, vulcanus: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "88738abcf482bf8f56a38d8bf9c7da8ef7faecf43b33949957501b6b06150d8a",
+          "current_block_sha256": "bfbb8573780e4631e30499a3788b20a6bc673fb33f223d88fffa9ce1ef8786e2",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "vulcanus"
+          },
+          "decision": "ABC printed77/PDF37, vulcanus: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "f4b4c61373c23deace3059e921e0c354403c5e2ee41f3218bb69725c5647e3f2",
+          "current_block_sha256": "58d70d289fbd0b50af09560d15b7017c6a8e938e23743b2b537084bc7d3bf20d",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- Power of an old soul, my energy losses, my strength of patience, my enormous problems, my concentration energy, my powerful endurance, my strong inhibitions, powerful soul problems, and psychic strength despite pain",
+            "+ Power of an old soul, my energy losses, my strength of patience, my enormous problems, my concentration-energy, my mighty endurance, my strong inhibitions, mighty soul-related problems, and soul-strength despite pains."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-zeus.md",
+      "final_current_sha256": "82875523c93fb82823aa5e52d8fcda7639999dabcc1747d745cc3d7bf4118bac",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 38,
+      "ledger_record_sha256": "742e165c2c024ccd26635acc628c8d03192c39d295b535e119dc87f547d3f522",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 66,
+            "printed_page": null,
+            "row": "zeus"
+          },
+          "decision": "Witte PDF66, zeus: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf066.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "a3cd15038f4215175ffa14148b86e92ad50979de50dffc1f28139fa5ef2173b1",
+          "current_block_sha256": "b6c0c52aa206c2d68bd65fb65577e6cdfe12cbae50b2ed91a8ff53c00c1ece72",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 66."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 77,
+            "pdf_page": 37,
+            "row": "zeus"
+          },
+          "decision": "ABC printed77/PDF37, zeus: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf037.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "0cd46e8de8368b583941ec0777930e29ea2b8ceb1ec65f019095777ebc55b1f3",
+          "current_block_sha256": "9ca6a604966d5bc05b3ba74c8980237de37bb7eae7f04dd8c3af383d8ed1f1c3",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.",
+            "- My tasks design, my serious efforts, my patient handling, my inhibited creativity, my concentration on the goal, my performance loss, achievements of a mature soul, and my procreation problems",
+            "+ Shaping my tasks, my serious efforts, my patient leadership, my inhibited creativity, my concentration on the goal, my loss of performance, achievements of a mature soul, and my procreation problems."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-admetos.md",
+      "final_current_sha256": "45bed9a01eaef5fc81988e444e157ff52b274c37c1e1e722a1a3eb634ee04d8b",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 50,
+      "ledger_record_sha256": "6e6737f2235d103259fa8a73469d51eb0dfe9b52dd7edc861907a2df4bc3ff0c",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 222,
+            "printed_page": 226,
+            "row": "admetos"
+          },
+          "decision": "Witte PDF222, admetos: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "1771ea608198f0968242cf784f4b977eced744908630a633409202cc7c3bc804",
+          "current_block_sha256": "2dc0f98ffd6db266ccc958482bd9456b25a8bcbbb2b1460eee80fe4b69592326",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 226; PDF p. 222."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 351,
+            "pdf_page": 174,
+            "row": "admetos"
+          },
+          "decision": "ABC printed351/PDF174, admetos: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "bb041831e91001690f37d96eb6c2807be27f8a87b1f60b67e97c865927a2db22",
+          "current_block_sha256": "5f943254a21434c10f0adfd645311172bb0fdc76a925f379ba14a23a19a66173",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.",
+            "- Perseverance and patience in the water, depression due to concentration weakness, limitations and insecurity due to pain, Greek concentration on the future, problematic air circulation, and losses in deep water",
+            "+ Perseverance and patience in water, depression through weakness of concentration, restrictions and insecurity through pains, thorough concentration on the future, problematic air circulation, and losses in deep water."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-apollon.md",
+      "final_current_sha256": "50234381c307680261ae26f8655901f3f4a82d841c66fa9325806c6b0341c69d",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 51,
+      "ledger_record_sha256": "955880054442c4e2e86bb8d5de972ea62a51c0ff82041be7fb5db37549adf7e9",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 222,
+            "printed_page": 226,
+            "row": "apollon"
+          },
+          "decision": "Witte PDF222, apollon: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "ca6d2264f4fe494bca95df6043e5c52e1c46c51249202eb57c9f8384cec41198",
+          "current_block_sha256": "b39e179e01028358c16f341f7867093f71b931c0f92a2fcd1cf00a43e243c82a",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 226; PDF p. 222."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 351,
+            "pdf_page": 174,
+            "row": "apollon"
+          },
+          "decision": "ABC printed351/PDF174, apollon: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "363bb38f7e92e3cee265dd3ee45a0c69b26d37a967d64a94f0fce296bb67d031",
+          "current_block_sha256": "908c7755601a6ffc983ef95a6a1702e58cbdb52926fd029c784bbafaf53b22e2",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.",
+            "- Extensive insecurity due to pain, successful intuition in old age, busy knowledge of metaphysics, concentration on unknown knowledge, problematic success expectations, and creeping losses in trade",
+            "+ Extensive insecurity through pains, successful intuition in old age, serious knowledge of metaphysics, concentration on unknown knowledge, problematic expectations of success, and creeping losses in trade."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-asc.md",
+      "final_current_sha256": "945736a2795aa19ea84a0d72d16b28ac69b7ec50acd27a01510fcfe1e842c111",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 52,
+      "ledger_record_sha256": "d624a8a9e5983f06f8e1bb46482d47e235b58435fd5fc37d4a7eace0d4fe01e5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 222,
+            "printed_page": 226,
+            "row": "asc"
+          },
+          "decision": "Witte PDF222, asc: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "2e1fe7b32665fa187ea0e4161691f7950e81659ed3d6fa6fafaeebfd2f456539",
+          "current_block_sha256": "ee1641d172c35f78d5f19413310b1d6d9c1ef55027c61c58efe7d1a1455275c8",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 226; PDF p. 222."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 350,
+            "pdf_page": 174,
+            "row": "asc"
+          },
+          "decision": "ABC printed350/PDF174, asc: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded. Asc Auflösungen opening and seven-clause ending verified; absorbed MC tail excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "2913776b3110a91d272cef8722298b749c6784b5124e4c11043f046109d11c62",
+          "current_block_sha256": "38326b59b4dc4c36ee4592047cbcef891f68dc2c92a7e607ee85e1e0ed45eeca",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 350; PDF p. 174. Activator and translation checked against the German row.",
+            "- Weaknesses, my tried and tested expectations, mental sensitivity for problems and separations in the environment, feelings and patience of the partner, inhibitions at an early ori, concentration weakness of the partner, and problematic air at the",
+            "+ Dissolutions and separations in the environment, sensitivity and patience of the partner, inhibitions at an unfamiliar place, the partner's weakness of concentration, problematic air at the place, creeping losses in the environment, and water problems at the place."
+          ]
+        },
+        {
+          "source": "Ebertin",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 251,
+            "pdf_page": 253,
+            "entry_code": "0888",
+            "row": "asc"
+          },
+          "decision": "Ebertin printed251/PDF253, code0888: exact glyph, complete passage and locator checked.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-ebertin-pdf253.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "d250880f9ec10b7afcc0919d41cdc393e503cc9144ed7ac19c9998f9667a36e6",
+          "current_block_sha256": "8a070455c1acd470d853a7eac033e475b5815202c873cff281a567e62794aada",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: code `0888`, printed p. 251; PDF p. 253."
+          ]
+        },
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 90,
+            "exact_entry_pdf": 91,
+            "row": "asc"
+          },
+          "decision": "Sandbach exact full asc paragraph PDF91, chapter start PDF90, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf091.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf090.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "c9bfdebf30fe5f55c940d33cc590d489a7b49cf5a84c674fac35d5a5e81ed435",
+          "current_block_sha256": "1a94a11d3a4889691f94b320ea0eef39417286fcb74d5b027b4f26473c9bb9f8",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 91."
+          ]
+        },
+        {
+          "source": "Munkasey",
+          "delta": "unchanged",
+          "outcome": "inherited_read",
+          "locator": {
+            "printed_page": 288,
+            "pdf_page": 289,
+            "row": "asc"
+          },
+          "decision": "Munkasey printed288/PDF289: source-native heading, exact activated row and complete paragraph checked. Unchanged inherited quotation read; no changed claim approved.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-munkasey-pdf289.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "db5d772a224d8c7a42405cef31c572eb1fe49708690d0c0d75e60dfd4d8a2972",
+          "current_block_sha256": "db5d772a224d8c7a42405cef31c572eb1fe49708690d0c0d75e60dfd4d8a2972",
+          "exact_changed_lines": []
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-chiron.md",
+      "final_current_sha256": "06eab5684177e1c992f0be131c08ad8d9a63a2e7c1b18d1f36cb07226fe510b7",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 53,
+      "ledger_record_sha256": "8807bb5200b2aae5f2e6ee70dbfcceb829847ebca40d10e34a970351f6c8951c",
+      "sources": [
+        {
+          "source": "Sandbach",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "chapter_start_pdf": 90,
+            "exact_entry_pdf": 91,
+            "row": "chiron"
+          },
+          "decision": "Sandbach exact full chiron paragraph PDF91, chapter start PDF90, checked; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf091.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-sandbach-pdf090.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "90851b5bd4e4c28ef48a3a3b67b9e9c7afe840926b2443af36a0e6fbbe33713b",
+          "current_block_sha256": "06eab5684177e1c992f0be131c08ad8d9a63a2e7c1b18d1f36cb07226fe510b7",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: PDF p. 91."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-cupido.md",
+      "final_current_sha256": "6cec61413c8d79653f2d1d109c52ae8638bdd2020f2f5cfc8924c499b5f28453",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 54,
+      "ledger_record_sha256": "da2c28433fb6ea83a73650ff61cb6a7cb2dabce9b9cac67d63347bed4e375a06",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 222,
+            "printed_page": 226,
+            "row": "cupido"
+          },
+          "decision": "Witte PDF222, cupido: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "d245cd41ba693fee2960713817e7077132990fc44d9f392acdde6a239cdb6c5a",
+          "current_block_sha256": "3a25d18dfe0733604aa85120e37f25a55109199494189c2ce1158c8b93eb42af",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 226; PDF p. 222."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 351,
+            "pdf_page": 174,
+            "row": "cupido"
+          },
+          "decision": "ABC printed351/PDF174, cupido: full German row, every changed clause and exact boundary inspected. Locator only; inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "c19addb5187dfab56ad8cc2946a321dbf167462886f86de2312cabc8eaacd125",
+          "current_block_sha256": "f45e50c64f71168f79593d10eb01be1ed92e3113e60d9c4e49f38542e0f2f821",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-hades.md",
+      "final_current_sha256": "dc6f49746be3a3f47fd1d97b4666f29170cad1584bfff29bcac6d1d214ca2c9b",
+      "unique_owning_ledger": "activations-066.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "9d61dab0b9824de2621c767b5e28241e1f8a369c84c4da8695f0ac9bc4b37730",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "heading_and_or_locator_only",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "pdf_page": 222,
+            "printed_page": 226,
+            "row": "hades"
+          },
+          "decision": "Witte PDF222, hades: own glyph, full paragraph/boundaries and locator inspected. Locator only; inherited prose excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-witte-pdf222.png"
+          ],
+          "changed_claims_checked": false,
+          "before_block_sha256": "b6c5445b744eca150425a15bdd97f5ff1cc04739fea6f04f7b98d80dc9869b96",
+          "current_block_sha256": "3f19898260e48dcbbd44f6f0f8c1ecd43a43bcf9df1d9cb5a048f3f8a9a2feb1",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 226; PDF p. 222."
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed_changed_scope",
+          "locator": {
+            "printed_page": 351,
+            "pdf_page": 174,
+            "row": "hades"
+          },
+          "decision": "ABC printed351/PDF174, hades: full German row, every changed clause and exact boundary inspected. Changed claims raw verified; unchanged inherited English excluded.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-mercury-final-abc-pdf174.png"
+          ],
+          "changed_claims_checked": true,
+          "before_block_sha256": "b88a7731de67dc821f65a4e1af987cd9385aefac13a1e763565b3e8f8e91086d",
+          "current_block_sha256": "296e879a7c26882971faa485e98c83a9f83cd0989e7089995dd3bc1949c686c5",
+          "exact_changed_lines": [
+            "+ ",
+            "+ - Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.",
+            "- Dissolving of past stresses, finesse and patience in danger, dangerous concentration weakness, grief caused by unknown pain, disadvantages caused by creeping losses, dirt water problems, and insecurity caused by criminal burdens",
+            "+ Dissolution of past burdens, sensitivity and patience in danger, dangerous weakness of concentration, grief through unknown pains, disadvantages through creeping losses, dirty-water problems, and insecurity through criminal burdens."
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    }
+  ],
+  "unresolved_damaged_changed_passages": []
+}

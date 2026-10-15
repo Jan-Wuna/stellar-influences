@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `212`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Saddened disturbed or hidden happiness. Lack of money. To be lucky with raw mate
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `334–335`; PDF page: `166`.
+
 #### ABC Pair Summary
 
-In the case of the United Kingdom
+Success through deprivation, lack of success, financial crime, joy in old things, joy in serving, money secret, lack of money, good fortune from the past, hidden happiness, disadvantages through law, and dirty money.
+
+## Comparative Schema
+
+- **Core meaning:** Happiness or financial benefit clouded by shortage, loss, concealment, or difficult material circumstances ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Saddened, disturbed, or hidden happiness is explicit; a general character judgment is not established.
+- **Body/health:** The usable pair summary states no specific bodily condition.
+- **Social/relationship:** Bargaining and financial dealings are named, including illicit dealings; ABC adds joy in serving. These do not establish a universal relationship pattern or imply wrongdoing in every expression.
+- **Events/manifestations:** Poor cash flow, losses, and lack of money coexist with possible gains from raw materials, antiquities, old materials, or junk. Black-market dealings and money laundering are separate examples in the source.
+- **Conflicts/notes:** Financial difficulty coexists with gain from particular materials or markets. ABC adds joy in serving, old things, and good fortune from the past; neither service nor old materials implies illicit activity.
 
 ## Related Activations
 
@@ -106,8 +121,7 @@ In the case of the United Kingdom
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Hades`: clouded fortune: saddened happiness, lack of money, money losses, dirty financial transactions, poor cash flow, and gain through low, old, hidden, or questionable materials and markets.
-- Chart expression: prosperity meeting degradation rather than operating cleanly in the open. It can describe bargaining, thrift, survival through scarcity, profit from salvage or concealed channels, and the shadow side of money where happiness is mixed with worry, loss, or moral compromise.
+Jupiter/Hades places happiness and material benefit alongside shortage, loss, or concealment. Clouded satisfaction, lack of money, losses, and poor cash flow coexist with possible success through raw materials, antiquities, old materials, and junk in the [Pair Summary](#pair-summary). The [ABC Pair Summary](#abc-pair-summary) extends that range to joy in serving, joy in old things, good fortune from the past, and success through deprivation. Benefit may therefore occur within difficult or overlooked circumstances. Both summaries also name illicit financial activity; those examples do not turn service or every gain from old or raw materials into a moral allegation.
 
 ## Links
 

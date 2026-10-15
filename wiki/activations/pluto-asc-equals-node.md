@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Pluto Node Asc](../triads/pluto-node-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To form new connections in the place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 120; PDF page 59.
+
 #### ABC Entry
 
 Meeting others on site, developing a place for developing connections, developing partner connections, connecting to environmental development, changing environmental connections, growing environmental encounters, and changing partner relationships
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 296, entry 1068.
+
 #### Ebertin Entry
 
 Sharing the same destiny together with others. Tendency to enter into unusual associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 116 (one-based; chapter start only, not an exact formula locator).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ An enhanced ability to work effectively thru the offices of groups or associatio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Consequential connections formed within a changing social environment.
+- psychology: A changing sense of identity through intense affiliations.
+- body/health: No bodily or clinical meaning is supplied.
+- social/relationship: New local contacts, unusual associations, deep bonds, and leaving unneeded friendships.
+- events/manifestations: Participation in groups and changes in partner relationships.
+- conflicts/notes: A shared-destiny description does not establish that every encounter is fated.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize local connection, group participation, and identity change without a direct contradiction. No coercion claim is established here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Node`: magnetic networking, fateful contact, and the ability to grow through consequential bonds with others. Main caution: relational domination: close ties can become obsessive, coercive, or too charged with power struggle to remain healthy.
+Node specifies Pluto/Asc through connections that alter one's relationship with other people and with oneself. New local associations in [Witte](#witte-entry) can become the intense bonds or effective group participation described by [Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry) adds the need to release an old identity as contacts reshape self-understanding. [Ebertin's shared-destiny language](#ebertin-entry) emphasizes involvement with others, rather than proving that such bonds must dominate or coerce.
 
 ## Links
 

@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Chiron`
 - Astronomicon formula: `V/X = Chiron`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Chiron paragraph; chapter begins on p. 80.
+
 Your vibration spontaneously helps others to experience uninhibited liveliness and enthusiasm - the joy of release. It also encourages people to cultivate and explore their own individual uniqueness.
+
+## Comparative Schema
+
+- Core meaning: Helping others experience joyful release ([Sandbach Entry](#sandbach-entry)).
+- Psychology: Liveliness, enthusiasm, and uninhibited expression are explicit.
+- Body/health: The passage supplies no medical treatment or bodily finding.
+- Social/relationship: Encouraging another person's individuality is the central interpersonal effect.
+- Events/manifestations: The entry describes an influence on people, without naming a concrete external event.
+- Conflicts/notes: The exact Chiron paragraph is on PDF p. 81, beyond the chapter start. Vibration remains the source's metaphor, not a physical mechanism.
+
+## Contradictions
+
+Only one source entry is present; agreement or independent corroboration cannot be established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Chiron`: breakthrough freedom becoming therapeutically contagious. It favors liberating contact, joyful release, and the healing value of encouraging individuality.
+In `Jupiter/Uranus = Chiron`, Chiron specifies the pair's joyful release as encouragement offered to others. The [Sandbach Entry](#sandbach-entry) describes spontaneous liveliness and enthusiasm, together with exploration of individual uniqueness. The supported meaning is interpersonal encouragement toward freer self-expression; therapeutic effectiveness or a medical mechanism is not established by this single passage.
 
 ## Links
 

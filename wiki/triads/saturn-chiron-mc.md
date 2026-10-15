@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Saturn Chiron MC`
 - Astronomicon triad-set: `W Chiron MC`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/MC = Saturn](../activations/chiron-mc-equals-saturn.md)
-- [Saturn/Chiron = MC](../activations/saturn-chiron-equals-mc.md)
-- [Saturn/MC = Chiron](../activations/saturn-mc-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/MC = Saturn](../activations/chiron-mc-equals-saturn.md) | [Chiron/MC](../axes/chiron-mc.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Chiron = MC](../activations/saturn-chiron-equals-mc.md) | [Saturn/Chiron](../axes/saturn-chiron.md) | [MC](../factors/mc.md) |
+| [Saturn/MC = Chiron](../activations/saturn-mc-equals-chiron.md) | [Saturn/MC](../axes/saturn-mc.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Chiron/MC = Saturn`: John, page `102`
-- `Saturn/Chiron = MC`: John, page `87`
-- `Saturn/MC = Chiron`: John, page `95`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/MC = Saturn`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-saturn.md#sandbach-entry), one-based PDF chapter-start p. `102`.
+- `Saturn/Chiron = MC`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-chiron-equals-mc.md#sandbach-entry), one-based PDF chapter-start p. `87`.
+- `Saturn/MC = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-mc-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `95`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Saturn`: blocked vocation and the need to heal one's relationship to authority, place, and worth. Main caution: accepting limitation as destiny instead of as material for healing.
-- `Saturn/Chiron = MC` turns Saturn/Chiron toward vocation, purpose, and life pattern. It points to understanding hardship as part of an ordered life task and bringing a healing sense of structure into career work; the caution is not to reduce vocation to endurance or duty alone.
-- `Saturn/MC = Chiron` channels Chiron through seriousness of purpose and inner guidance. The presence can help others connect with a higher-minded or spiritual self and follow their own direction; the caution is to respect readiness rather than press guidance onto someone prematurely.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

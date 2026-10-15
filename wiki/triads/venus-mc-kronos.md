@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus MC Kronos`
 - Astronomicon triad-set: `Q MC ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Kronos = Venus](../activations/mc-kronos-equals-venus.md)
-- [Venus/Kronos = MC](../activations/venus-kronos-equals-mc.md)
-- [Venus/MC = Kronos](../activations/venus-mc-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Kronos = Venus](../activations/mc-kronos-equals-venus.md) | [MC/Kronos](../axes/mc-kronos.md) | [Venus](../factors/venus.md) |
+| [Venus/Kronos = MC](../activations/venus-kronos-equals-mc.md) | [Venus/Kronos](../axes/venus-kronos.md) | [MC](../factors/mc.md) |
+| [Venus/MC = Kronos](../activations/venus-mc-equals-kronos.md) | [Venus/MC](../axes/venus-mc.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `MC/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `90`
-- `Venus/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
-- `Venus/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `288`
-- `Venus/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
-- `Venus/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `71`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Kronos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-kronos-equals-venus.md#witte-entry), one-based PDF entry-start p. `73`.
+- `MC/Kronos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-kronos-equals-venus.md#abc-entry), printed p. `90`.
+- `Venus/Kronos = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-kronos-equals-mc.md#witte-entry), one-based PDF entry-start p. `185`.
+- `Venus/Kronos = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-kronos-equals-mc.md#abc-entry), printed p. `288`.
+- `Venus/MC = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mc-equals-kronos.md#witte-entry), one-based PDF entry-start p. `63`.
+- `Venus/MC = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mc-equals-kronos.md#abc-entry), printed p. `71`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Venus`: softens the axis through generosity and the distribution of benefits.
-- `Venus/Kronos = MC`: take part in charitable activities.
-- `Venus/MC = Kronos`: an idealistic point of view concerning love.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

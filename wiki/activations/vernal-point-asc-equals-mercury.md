@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Mercury`
 - Astronomicon formula: `VP/Asc = T`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -40,15 +42,30 @@ Conversations. Travelling or traffic connections of a place. Streets and squares
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Aszendent`
+- Source reference: printed page `20`; PDF page `9` (one-based).
+
 #### ABC Entry
 
-Other opinions in public, reports on public environment, youth in public places, young partners in public life, public environment language, and environmentNews in public
+Other opinions in public, reports about public surroundings, youth at public places, young partners in public life, public conversations about the surroundings, and news about the surroundings in public.
+
+## Comparative Schema
+
+- Core meaning: Communication and movement within public surroundings.
+- Psychology: Other people's opinions enter public conversation.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Conversations and young partners in public life.
+- Events/manifestations: Reports, local news, traffic connections, streets, and squares.
+- Conflicts/notes: ABC's surroundings, conversation, and news examples describe communication without specifying a particular medium.
+
+## Contradictions
+
+No direct conflict appears; traffic and communication are separate expressions, with youth added by the ABC entry.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Mercury`: conversations, travelling or traffic connections of a place, and streets and squares.
-- Practical expression: other opinions in public, reports on public environment, youth in public places, young partners in public life, and public environment language.
+Mercury specifies `Vernal Point/Asc` through exchanges and connections in public surroundings: conversations, other people's opinions, reports about the environment, and a place's travel or traffic links. Streets and squares give the setting a concrete form; the ABC entry also includes young people and partners there. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 20 / PDF p. 9.)
 
 ## Links
 

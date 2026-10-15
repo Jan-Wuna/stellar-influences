@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Venus Pluto Node](../triads/venus-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 148 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ New, pleasant connections with women, or representatives of theatres or art. Har
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed p. 222 (PDF p. 110).
+
 #### ABC Entry
 
-Development of a love relationship, harmonious development of a connection, love relationship change, changes in a artistic connection, preference for contactY changes, and growing peace mediation
+Development of a love relationship, harmonious development of a connection, love relationship change, changes in an artistic connection, preference for changes in contacts, and growing peace mediation
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed p. 293, entry 1050.
 
 #### Ebertin Entry
 
 An unusual power of attraction to other people, a tragic love union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: Chapter starts at PDF p. 114 (one-based); exact activation page is not established.
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Influential artists or bankers you meet thru contacts or groups; accumulating fr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Attraction and developing affection shape changing relationships.
+- psychology: Desire for intense closeness may include domination.
+- body/health: No bodily diagnosis is specified; intimacy and sex appear relationally.
+- social/relationship: Pleasant artistic contacts coexist with instrumental or troubled love bonds.
+- events/manifestations: New artistic connections and influential artists or bankers.
+- conflicts/notes: Harmony, tragedy and domination remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize harmonious development; Ebertin's tragic union and Sandbach's domination qualify that optimism. Neither outcome is universal.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Venus`: magnetic companionship, regenerative love bonds, and the ability to create strong social loyalty through warmth and value. Main caution: possessive attachment: affection can become manipulative, consuming, or too entangled with power and control.
+In `Pluto/Node = Venus`, Venus specifies developing connections through attraction, affection and intimacy. The [Witte entry](#witte-entry) includes pleasant artistic contacts and harmonious development; [Munkasey](#munkasey-entry), printed p. 344, adds influential artists or bankers and friendships cultivated for wealth or power. That attraction can therefore be warm or instrumental. [Sandbach](#sandbach-entry) explicitly describes domination within love, and [Ebertin](#ebertin-entry) includes a tragic union; these limits prevent harmony from becoming a promised outcome.
 
 ## Links
 

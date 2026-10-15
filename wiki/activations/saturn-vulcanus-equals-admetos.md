@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Admetos Vulcanus](../triads/saturn-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ One who is put to a severe stress test. To be subjected to great pressure. To be
 
 #### ABC Entry
 
-Loss of influence through depression, curtailment of dead violence, strengthening of influence in old age, strengthening and strong through patience, grim concentration on violence, lossful control of violence, and deepening into enormous tasks
+Loss of influence through depression, restriction of disruptive violence, consolidation of influence in old age, consolidation and strength through patience, thorough concentration on force, suppression of violence involving losses, and immersion in immense tasks.
+
+## Comparative Schema
+
+- core meaning: Great pressure borne through concentrated endurance.
+- psychology: Patience can consolidate strength while depression may reduce influence.
+- body/health: Depression is ABC's attributed term; no specific bodily mechanism is given.
+- social/relationship: Restriction of disruptive violence and subjection to pressure.
+- events/manifestations: Heavy loads, severe tests and immense tasks.
+- conflicts/notes: Strength through patience and loss through suppression are both included.
+
+## Contradictions
+
+Endurance can strengthen influence while oppressive conditions reduce it; the entries do not promise that patience removes the load.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Admetos`: one who is put to a severe stress test, to be subjected to great pressure, to be in a fix.
-- Practical expression: loss of influence through depression, curtailment of dead violence, strengthening of influence in old age, strengthening, and strong through patience.
+Admetos specifies Saturn/Vulcanus as concentrated pressure that must be borne: a severe test, a fix or a heavy load. Patience may consolidate strength and influence, while suppression and depression can accompany loss. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) and [ABC Entry](#abc-entry) (printed p. 367; PDF p. 182) ground endurance within constraint, without turning the ability to bear a burden into a claim that the burden is beneficial.
 
 ## Links
 

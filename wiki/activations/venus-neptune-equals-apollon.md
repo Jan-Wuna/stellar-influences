@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Neptune Apollon](../triads/venus-neptune-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ False friendship of many, or dissolution of friendship with many.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `279`; PDF page `138` (one-based).
+
 #### ABC Entry
 
 expansion of harmony through sensitivity, experience disappointment in love, success of peace through fine feeling, preference for metaphysical knowledge, unknown knowledge about love, refined experiences of love, and preference for knowledge about water
 
+## Comparative Schema
+
+- Core meaning: Widening sensitivity and refined knowledge alongside disappointed or dissolved friendships.
+- Psychology: Interest in metaphysical knowledge and refined experiences of love.
+- Body/health: Neither activation entry supplies a bodily or medical claim.
+- Social/relationship: False friendship involving many people, or dissolution of friendships.
+- Events/manifestations: Expanding harmony through sensitivity, peace success through tact, and knowledge about water.
+- Conflicts/notes: The ABC's favorable sensitivity does not remove Witte's adverse friendship possibilities.
+
+## Contradictions
+
+- The ABC's favorable sensitivity does not remove Witte's adverse friendship possibilities.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Neptune = Apollon`: false friendship of many, or dissolution of friendship with many.
-- Practical expression: expansion of harmony through sensitivity, experience disappointment in love, success of peace through fine feeling, preference for metaphysical knowledge, and unknown knowledge about love.
+`Venus/Neptune = Apollon` expands sensitivity, refined experience, or knowledge while leaving the reliability of friendship uncertain. The [ABC entry](#abc-entry) links sensitivity to broader harmony and peace, and adds metaphysical knowledge and interest in water. [Witte](#witte-entry) emphasizes false friendship or the dissolution of friendships with many people. These form a mixed range: greater refinement or understanding can occur alongside disappointment, without making either outcome inevitable.
 
 ## Links
 

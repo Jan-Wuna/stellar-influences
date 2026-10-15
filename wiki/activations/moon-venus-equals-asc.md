@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Asc`
 - Astronomicon formula: `R/Q = Asc`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 Love acquaintances of a woman. Acquaintance with loving women. To be together with loving women. Acquaintance to a feminine or attractive woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Joy of women, joy of women as partners, peaceful people in the environment, harmony in the environment, Harmonic with women in the vicinity, artist of a woman in the place, loving woman as partner, lovely woman in the environment, and gentle woman in the place
+Other women's joy, joy in a woman as partner, peaceful people in the surroundings, a feeling of harmony in the surroundings, harmony with a woman nearby, a woman's art at the place, a loving woman as partner, a lovable woman in the surroundings, and a beautiful woman at the place
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `118`, entry `0348`.
 
 #### Ebertin Entry
 
 An affectionate behavior toward other people, a harmonious personality. Association with women, a love contact.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `28` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +80,23 @@ Focusing more clearly on the needs of people you meet in your daily encounters; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: affection and care expressed in immediate encounters, manner, or partnership.
+- psychology: gentleness and an urge to make emotional peace are paired with giving in too readily.
+- body/health: the entries supply no specific bodily condition; attractive appearance is a separate historical example.
+- social/relationship: loving acquaintances, partner harmony, and attention to others' welfare are stated.
+- events/manifestations: everyday caring encounters, local art, and being around women are examples.
+- conflicts/notes: Sandbach's readiness to yield qualifies harmony without establishing dependence on approval.
 
 ## Contradictions
 
-- None recorded yet.
+The largely affectionate entries are qualified by Sandbach's tendency to give in too readily. This is a limit within the caring manner, rather than evidence that apparent warmth is insincere.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Asc` channels the tender, receptive love of the Moon/Venus axis through the Asc, making affection visible in personality, manner, and immediate contact. It points to emotional warmth and softness that shows itself directly in presence, charm, and everyday rapport.
-- Chart expression: being lovable in a bodily and relational way: gentleness, receptivity, and the ability to create comfort simply by how one meets others. Main caution: emotional people-pleasing, because the need for harmony can become too dependent on immediate approval or response.
+In Moon/Venus = Asc, Asc specifies the pair through affectionate conduct in direct contact. [Ebertin](#ebertin-entry) describes harmonious behavior toward others; [Sandbach](#sandbach-entry) adds a gentle, loving manner, emotional peacemaking, and an urge to care for loved ones. Sandbach also retains the possibility of yielding too readily, which limits a wholly reassuring reading of that manner.
+
+[Witte](#witte-entry) and [ABC](#abc-entry) give loving acquaintances and harmony with a nearby woman or partner. [Munkasey](#munkasey-entry) makes care concrete through attention to the needs, welfare, and progress of people met in daily life (p. 108). These entries support responsive contact without establishing physical lovability or a need for approval.
 
 ## Links
 

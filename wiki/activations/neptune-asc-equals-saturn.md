@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Saturn`
 - Astronomicon formula: `Y/Asc = W`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be defrauded by others. Damages or obstacles through the refusal of others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Fine feeling of a patient partner, local problems with water, problematic environment in the air, shocks and uncertainty in the environment, separation from the exchanged partner, separation from the place by water, and water damage at the place
+Sensitivity of a patient partner, local problems with water, problematic surroundings in the air, disturbances and uncertainty in the surroundings, separation from the disappointed partner, separation from the place by water, and water damage at the location
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1029`.
 
 #### Ebertin Entry
 
 Tendency to become weak in bad company, emotional suffering caused through others, suffering illness through others. The misfortune to be hindered, harmed or defamed by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Frustration due to others misunderstanding you. A fear of being confused and/ or
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Delays and setbacks when trying to implement your visions and dreams; adds to yo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: obstruction, misunderstanding, and harm involving others, with patience or caution among the responses.
+- psychology: fear of confusion or relational chaos and sensing disappointment are explicit.
+- body/health: Ebertin's illness through others is an attributed historical claim, not a diagnosis.
+- social/relationship: others' refusal, misunderstanding, bad company, and separation from a disappointed partner are stated.
+- events/manifestations: setbacks in implementing dreams, water damage, and separation from a place by water are examples.
+- conflicts/notes: caution or patience does not establish endurance, disciplined compassion, or inevitable isolation.
 
 ## Contradictions
 
-- None recorded yet.
+Harm and obstruction recur, but ABC's patient partner and Munkasey's cautious expression are distinct responses. They do not promise that difficulties will be overcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Saturn`: quiet endurance, disciplined compassion, and the attempt to make subtle perception workable in concrete life. Main caution: discouragement: pressure can harden into inhibition, weakness, isolation, or a chronically depleted sense of self.
+In Neptune/Asc = Saturn, Saturn specifies the pair through obstruction, separation, or misunderstanding involving others. [Witte](#witte-entry) emphasizes fraud and others' refusal; [Ebertin](#ebertin-entry) describes harm and weakness in bad company; [ABC](#abc-entry) adds a patient partner and separation from a disappointed one (printed p. 119, PDF p. 58). [Sandbach](#sandbach-entry) focuses on fear of confusion and misunderstanding, while [Munkasey](#munkasey-entry) adds delays and cautious expression. The shared concern is difficulty in contact or implementation, without assuming disciplined endurance or a necessary resolution.
 
 ## Links
 

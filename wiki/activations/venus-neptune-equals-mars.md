@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Mars Neptune](../triads/venus-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Disharmony with close friends or relatives. Intercourse obstructed by sickness o
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Work through fine felt Harmonization, exchangeable peace activity, joy through activity in the air, harmonic impulses in the water, secret love at work, intuitive artistic work, subtle love actions, and weak love impulses
+Harmonizing work through sensitivity, disappointing peace activity, joy through activity in the air, harmonious impulses in water, secret love at work, intuitive artistic work, sensitive acts of love, and weak impulses of love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0630`.
 
 #### Ebertin Entry
 
 Strong wishing power on an amorous basis, the state of being unsatisfied, misdirected energy, sexual aberration. Love longings without fulfilment, perversions.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF pages `61–62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Actively pursuing deceptions and disguises as a way of life; added courage when 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Active idealized love, subtle self-assertion, or misdirected effort.
+- Psychology: Passionate wishes, sacrifice, evasion, or irritation over failure.
+- Body/health: Witte's sickness-related obstruction and Ebertin's pathologizing sexual terms are historical assertions.
+- Social/relationship: Disharmony with close friends or relatives, unfulfilled longing, or sacrifices made for love.
+- Events/manifestations: Intuitive artistic work, secret love at work, and pursuit of disguises or escape.
+- Conflicts/notes: Sandbach's willing sacrifice and refined assertion remain distinct from Munkasey's deception and the older adverse claims.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's willing sacrifice and refined assertion remain distinct from Munkasey's deception and the older adverse claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Mars`: inspired artistry, passionate compassion, and the ability to act on subtle emotional or aesthetic impulses. Main caution: confused desire: attraction can become deceptive, escapist, or drawn toward what is exciting precisely because it is unclear.
+`Venus/Neptune = Mars` acts on idealized or sensitive love, while the direction of that action can be uncertain. [Sandbach](#sandbach-entry) describes polished self-assertion and initiative in sacrifice for love; the [ABC entry](#abc-entry) adds intuitive artistic work and sensitive affectionate acts. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) stress obstructed intimacy, discord, or longing without fulfillment. [Munkasey](#munkasey-entry) gives activity a more evasive form through disguises, escape, and deceptive gain. The historical sickness and sexual classifications remain attributed, without determining a diagnosis or conduct.
 
 ## Links
 

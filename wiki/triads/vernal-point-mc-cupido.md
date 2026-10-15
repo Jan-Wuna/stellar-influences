@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point MC Cupido`
 - Astronomicon triad-set: `VP MC ¡`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [MC/Cupido = Vernal Point](../activations/mc-cupido-equals-vernal-point.md)
-- [Vernal Point/Cupido = MC](../activations/vernal-point-cupido-equals-mc.md)
-- [Vernal Point/MC = Cupido](../activations/vernal-point-mc-equals-cupido.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [MC/Cupido](../axes/mc-cupido.md) | `Vernal Point` | [MC/Cupido = Vernal Point](../activations/mc-cupido-equals-vernal-point.md) |
+| [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | `MC` | [Vernal Point/Cupido = MC](../activations/vernal-point-cupido-equals-mc.md) |
+| [Vernal Point/MC](../axes/vernal-point-mc.md) | `Cupido` | [Vernal Point/MC = Cupido](../activations/vernal-point-mc-equals-cupido.md) |
 
 ## Source Coverage
 
-- `MC/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `84`
-- `Vernal Point/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `44`
-- `Vernal Point/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
-- `Vernal Point/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `MC/Cupido = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-cupido-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `70`.
+- `MC/Cupido = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-cupido-equals-vernal-point.md#abc-entry), printed p. `84`.
+- `Vernal Point/Cupido = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-cupido-equals-mc.md#witte-entry), one-based PDF entry-start p. `48`.
+- `Vernal Point/Cupido = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-cupido-equals-mc.md#abc-entry), printed p. `44`.
+- `Vernal Point/MC = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-mc-equals-cupido.md#witte-entry), one-based PDF entry-start p. `35`.
+- `Vernal Point/MC = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-mc-equals-cupido.md#abc-entry), printed p. `19`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Vernal Point`: externalizes the axis into participation in common and artistic offerings.
-- `Vernal Point/Cupido = MC`: This formula emphasizes inclined toward sociability, personal or business relationships with joint stock companies, and own attitude towards art.
-- `Vernal Point/MC = Cupido`: This formula emphasizes a sense of sociability, to look and to be social, and to have dealings with the arts, associations or groups.
+Use the orientation whose base pair and activating factor match the requested formula. `MC/Cupido = Vernal Point` activates `MC/Cupido` with `Vernal Point`; it is distinct from `Vernal Point/Cupido = MC` and `Vernal Point/MC = Cupido`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Vernal Point/MC = Cupido retains damaged ABC clauses that prevent complete source comparison. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

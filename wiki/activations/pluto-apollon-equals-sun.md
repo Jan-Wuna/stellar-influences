@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Sun Pluto Apollon](../triads/sun-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 Days which bring large changes. Transformation in the bodily rhythm. The man who experiences incisive changes in his daily life.
 
@@ -42,13 +46,27 @@ Days which bring large changes. Transformation in the bodily rhythm. The man who
 
 #### ABC Entry
 
-Development cine Handcls Zentrums, Crsuccessful corporal development, successful personal change, growing success of a man, growing knowledge of Mcnschen, and scientific development center
+- Source page: 416 (printed); PDF page: 207 (one-based; exact row checked).
+
+Development of a trading center, successful bodily development, successful personal transformation, personal transformation successes, a man's growing success, growing knowledge of human beings, a scientific development center.
+
+## Comparative Schema
+
+- core meaning: large personal change and concrete development in daily or bodily life.
+- psychology: growing knowledge of human beings and personal success are source expressions.
+- body/health: Witte names transformation of bodily rhythm and ABC bodily development; these are historical correspondences, not diagnoses.
+- social/relationship: a trading or scientific center and historically male-specific success are named.
+- events/manifestations: days of large change, incisive changes in daily life and development of a center.
+- conflicts/notes: The concrete bodily, personal and institutional settings are distinct; male-specific wording remains attributed rather than universal.
+
+## Contradictions
+
+The concrete bodily, personal and institutional settings are distinct; male-specific wording remains attributed rather than universal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Sun`: days which bring large changes; Transformation in the bodily rhythm; The man who experiences incisive changes in his daily life.
-- Practical expression: crsuccessful corporal development, successful personal change, growing success of a man, and scientific development center.
+Sun specifies `Pluto/Apollon` through extensive development experienced concretely in personal life. The [Witte entry](#witte-entry) joins days of large change to altered daily circumstances and bodily rhythm; the [ABC entry](#abc-entry) adds personal transformation, growing knowledge of people and development of trading or scientific centers. Those settings preserve both the individual and outward range. The bodily and male-specific claims remain historical source correspondences, not medical findings or universal gender rules.
 
 ## Links
 

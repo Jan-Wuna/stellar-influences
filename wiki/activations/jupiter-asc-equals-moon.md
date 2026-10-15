@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 112 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0844; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Moon`
 - Astronomicon formula: `V/Asc = R`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ Showing sensitivity or emotion before others; enhanced acting abilities; added r
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Warmth and emotional receptivity make relations with the surrounding people rewarding.
+- psychology: Sandbach describes exuberant feelings and an emotional wish to exceed the limits of identity, with social enthusiasm varying by mood.
+- body/health: Witte lists births as a historical manifestation; the entries do not establish a medical condition or a pregnancy prediction.
+- social/relationship: Ebertin's compassion and Munkasey's sensitivity to others' feelings describe emotional rapport; the older women-specific examples remain attributed.
+- events/manifestations: Recognition, a happy event, emotionally expressive performance, and favorable encounters with women are named examples.
+- conflicts/notes: ABC's printed p. 112 (PDF p. 55) cache has damaged tokens 'GIUcksGeftlhl' and 'Yolks-Freude'; they are not independent support for a broader public-life claim.
 
 ## Contradictions
 
-- None recorded yet.
+- Mood-dependent enthusiasm qualifies, rather than contradicts, the descriptions of warmth. The historical association with women and births does not establish a universal rule about gender or bodily events.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Moon`: kindness, benevolence, happy events, good relations with women or the public, and a personality that is received with emotional warmth. Main caution: fluctuation: enthusiasm and social ease can rise and fall with mood, making support feel more variable than it first appears.
+In `Jupiter/Asc = Moon`, Moon specifies the Jupiter/Asc pair through felt rapport: kindness, emotional expressiveness, and receptivity make an encounter warm. [Ebertin](#ebertin-entry) emphasizes benevolence and sympathy; [Munkasey](#munkasey-entry), p. 276, describes reading subtle emotional reactions and expressing feeling before others.
+
+[Sandbach](#sandbach-entry) qualifies this sociability because enthusiasm for relating changes with mood and accompanies a wish to grow beyond a fixed identity. [Witte](#witte-entry) also names births, recognition, and luck through women; these remain that source's specific historical examples rather than universal gender or health claims. Damaged [ABC](#abc-entry) tokens do not enlarge the interpretation.
 
 ## Links
 

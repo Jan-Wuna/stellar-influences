@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Mercury Pluto Node](../triads/mercury-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,17 @@ Applying oneself mentally to one’s connections. To hold the balance between on
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 252; PDF p. 125 (one-based) (entry).
+
 #### ABC Entry
 
 Thinking about changing a relationship, developing a media relationship, developing a news connection, thinking in a connection, developing language connections, developing youth contacts, and growing links with youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source reference: printed p. 164; entry `0539` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +66,16 @@ Desire to be a community spokesman and to dominate others intellectually.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source reference: PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 A need to guide one’s intense thoughts toward supporting one’s evolution rather than allowing obsessive thinking to hold one in old, stagnant patterns.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 172 (entry page).
 
 - Source heading: `MERCURY/PLUTO with Planets and Points`
 - Source page: `172`
@@ -70,22 +86,21 @@ Contacts with people who help you obtain information or news; adds a need to sha
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Applying developing thought to connections and the exchange of information. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: The wish to speak for a community or dominate intellectually; intense thoughts can also become stagnant. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Balancing acquaintances, developing news contacts, and sharing information with allies. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry), p. 172.
+- events/manifestations: Changing a relationship and forming contacts that supply news. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Munkasey's criminal-contact example is specific and does not define all information networks.
 
 ## Contradictions
 
-- None recorded yet.
+Balancing connections and intellectual domination are contrasting possibilities, not evidence that one must accompany the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Node`: consequential networking, revealing dialogue, and relationships formed around serious or transformative thought. Main caution: relational control: connection can become manipulative, suspicious, or too focused on leverage.
+In `Mercury/Pluto = Node`, Node specifies developing thought through one's connections: attention goes to maintaining balance among acquaintances, changing relationships, and obtaining or sharing information. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry), p. 172. Speaking for a community may become a wish to dominate it intellectually, while [Sandbach](#sandbach-entry) cautions that intense thought can sustain old patterns instead of development. These possibilities qualify the social role without turning every association into a struggle for control.
 
 ## Links
 

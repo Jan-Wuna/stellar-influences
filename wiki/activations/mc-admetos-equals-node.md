@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Node MC Admetos](../triads/node-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Seeking acquaintance with steadfast people. To have stable connections and relat
 
 End of my connection, solid soul connection, I block connections, I stabilize connections, cycle of soul connections, my blocked connection, mentally blocked connection, and deep psychic bond
 
+## Comparative Schema
+
+- **Core meaning:** Stabilizing, blocking, or ending a deeply held connection.
+- **Psychology:** A wish for constancy and deep attachment is represented.
+- **Body/health:** The entries do not establish a bodily or health meaning.
+- **Social/relationship:** Steadfast acquaintances and stable relationships are explicit, alongside blocked bonds.
+- **Events/manifestations:** Maintaining a connection or reaching its end are both named.
+- **Conflicts/notes:** ABC broadens Witte's stable relationships with obstruction and endings; these are different possibilities rather than a documented contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Node` joins the axis to stable, reliable people and lasting ties.
-- Chart expression: steady associations, durable relationships, and the tendency to seek contacts whose firmness or constancy matches one's own fixed inner stance.
+Node specifies `MC/Admetos` through the firmness of personal bonds: steadfast acquaintances and stable connections can become deeply rooted attachments. The ABC entry also names blocked connections and their ending, so endurance includes both stabilizing a tie and becoming fixed within it; a durable relationship is one possibility, not the formula's sole outcome. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 94.)
 
 ## Links
 

@@ -1,0 +1,1892 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-candidates.json",
+  "scope_count": 55,
+  "new_review_count": 0,
+  "status": "complete",
+  "counts": {
+    "accepted": 55
+  },
+  "classifications": {
+    "repaired": 35,
+    "stale_flag_cleared_with_proof": 17,
+    "genuine_source_limit_confirmed_with_proof": 3
+  },
+  "allowance_count": 54,
+  "proof_files": {
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json": "baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+    "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png": "495c95edadbcaed5f03b7c104f918b05a59846c199664ff9d1819c90a5dcbb0e",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json": "c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png": "e4f7bab610a973213b86b17971040fb9f3f214f7387cdfb7d365d6c00a849ae2",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch03-proof.json": "19b2eff415cb03adf0166fa05377e6496c8f6bc750e9557ee3ec4a2118a6c333",
+    "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png": "7922304693e0fe2d77438b0175f8da3c95845678b989ee39c4fe969b0567d9c9",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png": "8257f59cf489885a9b3ed510a59fe529d6cb051654c2484ebba0f5eab2f676eb",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-096-witte-pdf46.png": "de7e260447dceb731260f35d1bf3c72b0acd7aef600275f10f30ccadea90a90c",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf19.png": "1bb9814f051e08fda79a4157422e290f5a2558fc4790f269640443691168b4ee",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png": "fdb18f01bf894da5903c9531212debabdb3c89744f5014edabf5591213858434",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf12.png": "b9e2170c42794b16de4518f570c725a10baff66796ad6dbec4bfc20260131618",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json": "44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png": "82af77aca892a39284d79b1bbab4457d10a1577bc1a8331cc3aef5b064254757",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch05-proof.json": "b97c1933abc3d245ba345dda2ff3c5608856e4a3b0a81e8694bbea9b737c6a91",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png": "55ecdd8dc1223110cb20bbfad53cd03d4d443047d5e6945638a36756a9bee462",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch06-proof.json": "33e3c3d209ba31f8e92f4e49f39d8cc43358d09dcedce8fc9e6f047f35cef6e6",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png": "a679251cc1bd5841be008a83f901d9b0099595276a4f733054e4e74c01ea8b59",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json": "e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-098-witte-pdf45.png": "af0b5b17e903b663f52d1a2124b56d56a8437d128ac81d4c931849a0210f68af",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-098-udo-pdf18.png": "29df13a565e90082b7067d273537b538d25425fd1da4dd2e356c11f38399a752",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json": "0f15dc9275c36057767f2e29661ded435296c01700a92bbb04fb7687cdd676fb",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json": "2623625e0e139d61eab5baeeb464ee6fa3e47da75ae06aa641f8a8504fafbf01",
+    "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png": "a54911d8ca079d3e363ef21a0eea8c1cb35d85f0dec65f123b5f50a62dacb1ea",
+    "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png": "292f8a4fd0cc7bfc66399f977ec0a1decd698d862128e9dafc928f7567cc1b07",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf289.png": "2d8cc2df854cd19f64286bd4e7ecd723c2b62ac92610a9514922ff0285a4ce99",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf224.png": "94800411c279086f6708f45f7a9187eb7f73e808d9eff4aa363db5e562af1b2c",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf296.png": "a50ed75248a5852ce755fd5b90baeac68028b92056fcfa0bd76802e86a056860",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf228.png": "865b75f481a913748e64273f84d7c8e05609c6ee83dedfde140e84cdc613cc20",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png": "748c5b2e868693e2c8c57b3d91af78240eb1ad694312978d1d4279ce672b9465",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png": "cc51df3174e419b3eeeac7bd954afeff41f052bbe19dad7de2426c22f28955b3",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-witte-pdf0287.png": "bd982003519dfd384482ddbe92fef106e89989020bf71a0e3767f9cffc98295b",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png": "47947a5c92e69f67f58e1b08c7ddbf00a07af95ffd3dc893907d08fec5a05995",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json": "41015ddb92d8c8c1957a51e99a48de6f5f1332738e465f8c30aa2fd43fb56660"
+  },
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+      "queue_index": 130,
+      "before_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+      "current_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "9f140e6db92bef076ea355184183fec4042bfd1ca9dd8162cbc939fd00bca78f",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+          "text": "ABC vegetable public work corresponds to OCR vemilnftige Offentlichkeits-Arbeit; excluded pending scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+          "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+          "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete poseidon glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and rational public work and cultural creation.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+      "queue_index": 131,
+      "before_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+      "current_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "9788c510b94e74ceea218d082f43b74b7be5290a20e4be2bf7d920257e15baab",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mars-equals-saturn.md",
+          "text": "ABC stortc public work / stort public will and native ~rbeits-Aufgaben / gestortc remain uncorrected without scan verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-saturn.md",
+          "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-saturn.md",
+          "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete saturn glyph row, 7 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and restored Arbeits-Aufgaben and the full sequence of public-work hindrances.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "queue_index": 132,
+      "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "current_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "cece6a2e0a070fdc005cc36431d77cceaaaf58d1c99f40ee924546f3bd0d32d9",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-mars-uranus.md",
+          "text": "Vernal Point/Mars = Uranus retains damaged ABC English that is not used to extend the Witte entry. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-uranus.md",
+          "text": "Vernal Point/Mars = Uranus retains damaged ABC English that is not used to extend the Witte entry.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected actual WittePDF42 complete Uranus row and actualABC printed33/PDF15 all six German/English clauses and both exact references. Removed Witte glyph artifact and recovered public action/reform/technical wording are correct. Preserved prior independent010 verifier provenance; old hub damage flag is stale.",
+      "limitations": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch03-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 19b2eff415cb03adf0166fa05377e6496c8f6bc750e9557ee3ec4a2118a6c333",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+      "queue_index": 133,
+      "before_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+      "current_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "05cf8eeff2c23023dabf6e9a618bb6298bcd76173eafa50ec18fcf90da148272",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mars-equals-venus.md",
+          "text": "ABC reduction work remains uncorrected and excluded; native Verschonerungs-Arbeiten requires scan-backed repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-mars.md",
+          "text": "Vernal Point/Mars = Venus retains an unresolved damaged ABC translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-mars.md",
+          "text": "Vernal Point/Mars = Venus retains an unresolved damaged ABC translation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete venus glyph row, 6 clauses, ABC printed 32/PDF15; verified German, labeled translation, printed/PDF locator and Verschönerungs-Arbeiten as beautification work.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "queue_index": 134,
+      "before_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+      "current_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "37524dba5deefb74b8542a673c1d47b6d41713087cdd239903110df3dd27da2b",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+          "text": "ABC working on orphans corresponds to native OCR Gewait in der Offentlichkeit bearbeiten; excluded without repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-vulcanus.md",
+          "text": "Vernal Point/Mars = Vulcanus excludes a damaged ABC translation; the cached orphan reference is not established by the source wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-vulcanus.md",
+          "text": "Vernal Point/Mars = Vulcanus excludes a damaged ABC translation; the cached orphan reference is not established by the source wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete vulcanus glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and Gewalt in der Öffentlichkeit bearbeiten rather than the damaged orphan claim.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified.",
+        "Gewalt permits force or violence; bearbeiten does not specify applying, opposing or otherwise working on it."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+      "queue_index": 135,
+      "before_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+      "current_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "69cc2fb89cb76c3b5db66b7ea81b091efcde3114de6482a0e6cfc136a300a693",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mars-equals-zeus.md",
+          "text": "ABC serviceWork is unclear against native FUhrungsArbeit; not used as a distinct synthesis claim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-zeus.md",
+          "text": "Vernal Point/Mars = Zeus retains an unresolved translated ABC compound; the source heading does not certify every phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete zeus glyph row, 6 clauses, ABC printed 33/PDF15; verified German, labeled translation, printed/PDF locator and Führungs-Arbeit as leadership work.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch01-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 baf86e162e3d07231fc9a5c582999300b3558bdaec20f22c1ea58eb3ecbd7050",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+      "queue_index": 136,
+      "before_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+      "current_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "c4449e7fff6a34d1e1bbb5ef834bfc55e014ec2f0447e8a1baba6ea561059fc4",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-admetos.md",
+          "text": "ABC mental depression should not become a diagnosis; native OCR seelische Unterdri.ickung needs scan-backed translation review.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete admetos glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Unterdrückung means inner oppression; the freedom/restriction tension is preserved.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification.",
+        "Inner oppression/blockade or criminality wording is source-native historical doctrine, not a diagnosis or factual character judgment."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+      "queue_index": 137,
+      "before_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+      "current_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "338b72ee347a79334a2d468e81faa0eb1cda7e500fc23b0f4941f574ec7d5933",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-asc.md",
+          "text": "ABC Ensuring the environment is unclear against Beseelte Umwelt and remains excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-asc-mc.md",
+          "text": "Vernal Point/MC = Asc retains an unresolved opening translation; its source heading does not certify every phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete asc glyph row and boundaries, ABC printed18/PDF8 (7 clauses). All German, labeled English and new locator verified; Beseelte Umwelt means soulful surroundings and the other/partner clauses remain distinct.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "queue_index": 138,
+      "before_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+      "current_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "381419c2c1e8e7b5a535944376f5c93903889417b63a37cf179e304fceaf187d",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-cupido.md",
+          "text": "ABC Besserte world community / besserte community in the Öffent life / Minute the community remain unclear and excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-cupido.md",
+          "text": "Vernal Point/MC = Cupido retains damaged ABC clauses that prevent complete source comparison. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-cupido.md",
+          "text": "Vernal Point/MC = Cupido retains damaged ABC clauses that prevent complete source comparison.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete cupido glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelte community wording and literal Minute der Gemeinschaft are preserved.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification.",
+        "Minute der Gemeinschaft is printed literally; significance unexplained and no timing method inferred."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+      "queue_index": 139,
+      "before_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+      "current_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "cf0e87099f874de78d924c233443a8d0e5a08110da0eeace347c3c8c21c0d8ca",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-hades.md",
+          "text": "ABC Dangered souls / Crimean inalitat remain awkward or damaged; source criminality language retained without confident interpretive extension.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-hades.md",
+          "text": "Vernal Point/MC = Hades retains damaged ABC wording; source presence does not establish the unclear phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-hades.md",
+          "text": "Vernal Point/MC = Hades retains damaged ABC wording; source presence does not establish the unclear phrase.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete hades glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Gefährdete Seelen means endangered souls and Kriminalität remains attributed source language.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification.",
+        "Inner oppression/blockade or criminality wording is source-native historical doctrine, not a diagnosis or factual character judgment."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+      "queue_index": 140,
+      "before_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+      "current_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 13,
+      "ledger_record_sha256": "ba8b75e8382b9209176f90436b654b08df8f0f8ff24f3cfde2596122e90165bf",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+          "text": "Glicks minute / native Glilcks-Minute remains uncorrected and excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete jupiter glyph row and boundaries, ABC printed18/PDF8 (7 clauses). All German, labeled English and new locator verified; Glücks-Minute means a fortunate minute.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+      "queue_index": 141,
+      "before_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+      "current_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "866256d593d2776ca6313ce0727f2d3bed36b6c82b3ef71074f968da71a41d37",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-kronos.md",
+          "text": "ABC self pity vs native Selbstandigkeit requires scan-backed source-entry repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete kronos glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Selbständigkeit means independence.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+      "queue_index": 142,
+      "before_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+      "current_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "16cbff0b8ba14b9e6c376b4b2d161527919af4aedf65089c6c1c1b8ab8ac0346",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-mars.md",
+          "text": "ABC opening In the public omits native Beseeltes Schaff en and remains incomplete.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete mars glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; the omitted Beseeltes Schaffen opening is restored.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+      "queue_index": 143,
+      "before_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+      "current_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "cdd29132198e552f5718923b0aa9b70796e825e0a78c481aa2f38dbb989232dc",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-moon.md",
+          "text": "ABC blessed woman / animated animals / my flowers require scan-backed translation repair and are excluded as meanings.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete moon glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Gefühle means feelings in both formerly damaged animal/flower clauses.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+      "queue_index": 144,
+      "before_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+      "current_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "871a9fa3f8452e8a534630cccd0c239fc5609acd43788a54723e95911b2c7582",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-neptune.md",
+          "text": "Finesse / ideas / exchanges / minute of the weak remain doubtful against Feingeftihl / Ahnungen / Enttauschungen / Schwache; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete neptune glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Feingefühl, Ahnungen, Enttäuschungen and Schwäche are sensitivity, presentiments, disappointments and weakness.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+      "queue_index": 145,
+      "before_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+      "current_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "c5d5cfe6ee59f6a8e9136319e42af90fbd37872a7fc405ff13cbd0ef42945162",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-pluto.md",
+          "text": "ABC I change the public mind lacks a matching native clause and remains excluded pending source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete pluto glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; all six clauses are recovered, including own development, transition into public life and inner unfolding/transformations.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+      "queue_index": 146,
+      "before_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+      "current_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 23,
+      "ledger_record_sha256": "462da4de9b42927a930c121a3db1e0de38d3d51abe29ff2805e9edfb599ba834",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-sun.md",
+          "text": "ABC blessed person remains doubtful and excluded pending source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-sun-mc.md",
+          "text": "Vernal Point/MC = Sun excludes a doubtful ABC translation of the personal description. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-sun-mc.md",
+          "text": "Vernal Point/MC = Sun excludes a doubtful ABC translation of the personal description.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete sun glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelter Mensch means soulful person.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+      "queue_index": 147,
+      "before_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+      "current_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "31bfd2a20ea4095fe10e3ddf492b4ee22549f2eccc03f7e892b1de3839b9000e",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-uranus.md",
+          "text": "ABC Immediate rhythm / my forms / life / minute of publication / public sphere are damaged against native clauses; excluded pending scan-backed repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-uranus-mc.md",
+          "text": "Vernal Point/MC = Uranus retains ABC translation damage that prevents a complete comparison. Uranus/MC = Vernal Point explicitly reports cached locators and transcriptions without scan verification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-uranus-mc.md",
+          "text": "Vernal Point/MC = Uranus retains ABC translation damage that prevents a complete comparison. Uranus/MC = Vernal Point explicitly reports cached locators and transcriptions without scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete uranus glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelter Rhythmus, Reformen, Unruhe and Aufregung retain soulful rhythm, reforms, unrest and excitement.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+      "queue_index": 148,
+      "before_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+      "current_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "cbd924c409aabdaa1109e9ebf354570977c70df643cfbfa6ef031684f72c409f",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-venus.md",
+          "text": "ABC Enchanted by artist public remains unclear and excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete venus glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Durch Kunst beseelte Öffentlichkeit means public life made soulful through art.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+      "queue_index": 149,
+      "before_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+      "current_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "03bf84cf7127ce2a8fd73d725809ca92709a57c230f2e8d831b6ead5501dce68",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mc-equals-zeus.md",
+          "text": "ABC Stirred filtration corresponds to native OCR Beseelte Filhrung and requires source repair; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-zeus.md",
+          "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-zeus.md",
+          "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected the complete zeus glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelte Führung means soulful leadership.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch02-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 c8270cc195678c9001a3474284df00d691f768bc5c5e6f716be00770afbd1146",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "queue_index": 150,
+      "before_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "current_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 28,
+      "ledger_record_sha256": "436aa1c34d6cf0492b938cdd5aadad9c0c2298040e9f19298cec643794f62771",
+      "recorded_reviewer": "review_095_096",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+          "text": "Witte Standing manner of speech is terse; no expanded meaning asserted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "genuine_source_limit_confirmed_with_proof",
+      "raw_check": "Personally inspected actual WittePDF40 exact Admetos row: Standing manner of speech is printed literally; terse meaning is unexplained. Current source section is unchanged from original; no artificial allowance.",
+      "limitations": [
+        "Standing manner of speech has no explained mechanism or expansion; unchanged ABC prose is outside this bounded flag certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch03-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 19b2eff415cb03adf0166fa05377e6496c8f6bc750e9557ee3ec4a2118a6c333",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+      "queue_index": 151,
+      "before_sha256": "40f8a32c904c2cba5b564cd5840295eab660a20eb7455b0802abe7aad9fb6ecd",
+      "current_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "35729831810fe810c556b31b6dbc21ff1c2fe73768643b8831d5b42c0e4a22a8",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-neptune-pluto.md",
+          "text": "wiki/activations/vernal-point-neptune-equals-pluto.md, Witte Entry begins 'E Changes below the surface.' The initial 'E' is a suspected layout/OCR residue requiring source verification; no repair was inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected actual WittePDF46 full Pluto glyph row and ABC printed41/PDF19 all six clauses. Initial E was an alternative Pluto glyph, not prose; six English clauses and all added references match raw. Prior factor_source certification and provenance preserved; old residue flag is stale.",
+      "limitations": [
+        "Future development is source wording; no timing layer inferred."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch03-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 19b2eff415cb03adf0166fa05377e6496c8f6bc750e9557ee3ec4a2118a6c333",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-096-witte-pdf46.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf19.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+      "queue_index": 152,
+      "before_sha256": "d95fd1b133612e42b7c946c06baf99a27bed05b447edb99bca63d9f11d63914f",
+      "current_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "ea8ee7e1ec05e3b98659bab1090365e0ba34580dd921464b595739fb96ca8c9c",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-node-poseidon.md",
+          "text": "wiki/activations/vernal-point-node-equals-poseidon.md, Witte Entry ends 'Connections of many people for an ideal purpose. -----'. The dash sequence is unresolved; the hub no longer copies it into a delineation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected actual WittePDF39 complete Poseidon row: ideal-purpose sentence ends at its full stop with no dash tail. ActualABC printed27/PDF12 six clauses and exact references match, including conveying truth to the public. Prior factor_source certification preserved; old dash-tail flag is stale.",
+      "limitations": [],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch03-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 19b2eff415cb03adf0166fa05377e6496c8f6bc750e9557ee3ec4a2118a6c333",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf12.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-cupido.md",
+      "queue_index": 153,
+      "before_sha256": "8a353cf10a4efa08752397ceff762f6a18ef6925014c6c0123bb70fc98fb75d2",
+      "current_sha256": "58e17dcc705e00e75b14e3c3fb5339071cc2fc6af7690ca5dc28e78e9e047c96",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "68e5f2c34e5219c9a56f185b786cb8614f320d70dfe828dc8906f95e80a7a46a",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-cupido.md",
+          "text": "ABC cached English 'community old age the public' retained verbatim; native OCR consulted, no scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete cupido glyph row and adjacent boundaries, ABC printed43/PDF20, 5 clauses. All German, labeled translation and new exact references match actual scan; Gemeinschaft verändert die Öffentlichkeit means a community changes public life.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-jupiter.md",
+      "queue_index": 154,
+      "before_sha256": "f2f97414ba0245f192c4e4f62574db9d785102397768cf519889d2b8eb7f66fc",
+      "current_sha256": "e4af66ec091a5e8754fbf1640aa05918cf09be76df5d0cdab66d78bda71a34e1",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "707096e56593c017968a743512eef08373f43d8f33b3b7a370831c7dd04270c5",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-jupiter.md",
+          "text": "ABC 'gliickliche development' retained in source entry; no visual check of OCR.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-pluto.md",
+          "text": "Vernal Point/Pluto = Jupiter retains an OCR-damaged German word in its ABC excerpt; the source heading does not certify intact wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-pluto.md",
+          "text": "Vernal Point/Pluto = Jupiter retains an OCR-damaged German word in its ABC excerpt; the source heading does not certify intact wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete jupiter glyph row and adjacent boundaries, ABC printed42/PDF20, 5 clauses. All German, labeled translation and new exact references match actual scan; glückliche Entfaltung is fortunate unfolding.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-kronos.md",
+      "queue_index": 155,
+      "before_sha256": "16230c76e5eb717b8b38866ffe8648ff6d0f7b87db55da975d339f0e4e2f1b01",
+      "current_sha256": "4c93e6c33bfb0ae570a690fdd4384aaab37f9a77dbce94fa25e07f94375c9452",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "0458da94fb380df2309573e616961d9c1b2cc7d9bec838ceed39f4015017af3c",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-kronos.md",
+          "text": "ABC 'self ordinary development' and 'authoritat' retained; native OCR checked, source scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete kronos glyph row and adjacent boundaries, ABC printed43/PDF20, 6 clauses. All German, labeled translation and new exact references match actual scan; selbständige Entwicklung is independent development and Autorität is authority.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mars.md",
+      "queue_index": 156,
+      "before_sha256": "b9b32c63d62f52d0f0b4d715969b752c6df4a72b9da0e75a8c9662341f158cd3",
+      "current_sha256": "bb98249b31569df8993d0b6a79b118ebdd824b57c5e7dc11e18db646eef10a4f",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "1337f33963d1511600e4d7fb1da31de1a154c036a6c0a8683145ea1f51c210c1",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-mars.md",
+          "text": "ABC 'Work filr develop the general public' retained; native OCR checked, no scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-pluto.md",
+          "text": "Vernal Point/Pluto = Mars retains a damaged ABC English opening; the activation distinguishes it from the clearer German clause. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-pluto.md",
+          "text": "Vernal Point/Pluto = Mars retains a damaged ABC English opening; the activation distinguishes it from the clearer German clause.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete mars glyph row and adjacent boundaries, ABC printed42/PDF20, 6 clauses. All German, labeled translation and new exact references match actual scan; the opening develops work for the general public.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mc.md",
+      "queue_index": 157,
+      "before_sha256": "433b919c78c7b28f1f30df3de83166c9879c7ed488e5f95a44f125ab54b452c8",
+      "current_sha256": "0148a89206d8e4a7b62e4029235b64852ed69bd5b0ce27cde451a8390b05997e",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "a6a895e040d0e2934f4a965cdf317efdfa8dda181456e7253ed692b2ef297315",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-mc.md",
+          "text": "ABC 'I encourage the public' versus native OCR 'Ich vcrtindere die Offentlichkeit' remains unresolved without scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete mc glyph row and adjacent boundaries, ABC printed42/PDF20, 5 clauses. All German, labeled translation and new exact references match actual scan; Ich verändere die Öffentlichkeit means I change public life.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-moon.md",
+      "queue_index": 158,
+      "before_sha256": "b13f05ea739f15644aa6b7223602ce79ab760817be25fb5349331ed2a4a4b3e8",
+      "current_sha256": "e0c3e6873f6f309c86f9a01c7edbaa1130f1d4aff83d63922b63f75ba11d833b",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "c5b1226be399667e48237471f937d38515ca544eb73f6f2e9ad26f441cea7e4b",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-moon.md",
+          "text": "ABC 'Gemilts change' / native 'Gemilts-Veranderung' remains OCR-damaged; no scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete moon glyph row and adjacent boundaries, ABC printed42/PDF20, 6 clauses. All German, labeled translation and new exact references match actual scan; Gemüts-Veränderung is change of mood.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-neptune.md",
+      "queue_index": 159,
+      "before_sha256": "01c48b2a70546f866a12dd9a2c30306409aae37e6453fef0385d5d7073de466e",
+      "current_sha256": "60555d3d7d3e6c79aed22d8c68caff08d582da77ed7cd7343bae656c380f5339",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 9,
+      "ledger_record_sha256": "9345ded397ff8a2ebd12bfe1e8668802de4819ac2d74ff2a9373b8588bf2b553",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-neptune.md",
+          "text": "Native passage ends 'siehe oben'; missing referenced context and future-development wording were not used to create a timing interpretation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected complete neptune glyph row and adjacent boundaries, ABC printed43/PDF20, 5 clauses. All German, labeled translation and new exact references match actual scan; the following siehe oben belongs to the separate Pluto glyph, not the complete Neptune paragraph.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified.",
+        "Future development is literal source wording; no timing method inferred."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-poseidon.md",
+      "queue_index": 160,
+      "before_sha256": "39fa73ba0a1a2827776295bd5571e969a54d55623602691a2a4b0449e69621ae",
+      "current_sha256": "cbb8be35c0696c91ad87d105807f7bec485d091a5f80e003cf5f7e91920a723b",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "8c01eea70b326460410eb948d531ccd0dcf3360c78b0c37ddd7b6985438dd2f9",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-poseidon.md",
+          "text": "ABC 'development of communication' versus native 'Vemunfts-Entfaltung' remains unreliable; no scan verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete poseidon glyph row and adjacent boundaries, ABC printed43/PDF20, 6 clauses. All German, labeled translation and new exact references match actual scan; Vernunfts-Entfaltung is unfolding of reason.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-saturn.md",
+      "queue_index": 161,
+      "before_sha256": "8b030c7dffc25173bc08d627ffe433db3092ee38349392f9cc26df8448695c95",
+      "current_sha256": "518f768906a7f0fcd1a6831a7f0fc989773012ff2fcb3d9e60274a58ad49d89f",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "c2ea293d163b9e4277f0c012f6dafd97d1d11144b4475df154db6da95db7e49c",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-saturn.md",
+          "text": "ABC 'Blazing changes' versus native 'Bclastende Veranderungen' remains unresolved without scan verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-saturn-pluto.md",
+          "text": "Vernal Point/Pluto = Saturn excludes an unreliable ABC rendering that would reverse the source's sense of burdensome change. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-saturn-pluto.md",
+          "text": "Vernal Point/Pluto = Saturn excludes an unreliable ABC rendering that would reverse the source's sense of burdensome change.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete saturn glyph row and adjacent boundaries, ABC printed43/PDF20, 5 clauses. All German, labeled translation and new exact references match actual scan; Belastende Veränderungen is burdensome changes.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-zeus.md",
+      "queue_index": 162,
+      "before_sha256": "1f5c7a06ffa59824a2495cfebd6a6c7a9ff254cd7712e1574c29601cb3e2a085",
+      "current_sha256": "6db4091c46dd2be3482b92dd22b5c5b2426996569bc3acbeb0c1c5ced5aa8c09",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "489f3a53cc5e7a90c8d1459f6593a1e95f71a2efc0d9c500c6a4f08bb07df819",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-pluto-equals-zeus.md",
+          "text": "ABC 'changes in public filtration' / native 'Filhrungs-Wechsel' left unresolved; no raw scan checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete zeus glyph row and adjacent boundaries, ABC printed43/PDF20, 6 clauses. All German, labeled translation and new exact references match actual scan; Führungs-Wechsel is changes of leadership.",
+      "limitations": [
+        "Unchanged Witte block is not newly source-certified."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch04-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 44e35b8889f5a98be3d046636df1c9aec88de3f2ff8cc039e9baf69af1140bb0",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+      "queue_index": 163,
+      "before_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+      "current_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "702cf9a7301444dbed4ea2c290e74d8767d728cdd040c90a8e0aa0ded1a632dc",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+          "text": "Native 'Unterdrtickung der W ahrheit im offentlichen Leben' omitted from cached English; not repaired without scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+          "text": "Cached 'increasing communication' versus native 'zunehmende Vemunft' excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-admetos-poseidon.md",
+          "text": "Vernal Point/Poseidon = Admetos records an omitted ABC truth-suppression clause and uncertain closing wording; its ABC heading does not establish complete English coverage. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected ABC printed59/PDF28 complete admetos glyph row and neighbours (6 clauses). All German, labeled English and exact new locator verified; the omitted suppression-of-truth clause is restored and zunehmende Vernunft is increasing reason.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch05-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 b97c1933abc3d245ba345dda2ff3c5608856e4a3b0a81e8694bbea9b737c6a91",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+      "queue_index": 164,
+      "before_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+      "current_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "33e74b234eeabc12c3c4ff37407655a3892eca085a89333b96764c16ce26d286",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+          "text": "ABC 'frequent environmental ideas', 'vcmPoor partner', 'rnit dern', 'irn' retain OCR/translation damage; native evidence consulted, no scan checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-asc-poseidon.md",
+          "text": "Vernal Point/Poseidon = Asc excludes unreliable ABC environment and partner translations. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-asc-poseidon.md",
+          "text": "Vernal Point/Poseidon = Asc excludes unreliable ABC environment and partner translations.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected ABC printed58/PDF28 complete asc glyph row and neighbours (7 clauses). All German, labeled English and exact new locator verified; surroundings, spirit of place and a reasonable partner remain distinct.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch05-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 b97c1933abc3d245ba345dda2ff3c5608856e4a3b0a81e8694bbea9b737c6a91",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+      "queue_index": 165,
+      "before_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+      "current_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 21,
+      "ledger_record_sha256": "b3511db467bcc2051f586173bb4f48641299df5200f6ad3db51dba2bd4a1b2cd",
+      "recorded_reviewer": "review_097_098",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+          "text": "Native OCR 'vemUnftige Gemeinschafl' omitted from cached English; source entries preserved, damaged clause not added to synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected ABC printed59/PDF28 complete cupido glyph row and neighbours (6 clauses). All German, labeled English and exact new locator verified; the omitted vernünftige Gemeinschaft clause is restored as reasonable community.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch05-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 b97c1933abc3d245ba345dda2ff3c5608856e4a3b0a81e8694bbea9b737c6a91",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "queue_index": 166,
+      "before_sha256": "3b90845a2c9cb099f525c34889f1b87add3ea10d59b08e12d12f509b3e7f5c24",
+      "current_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-kronos-poseidon.md",
+          "text": "Vernal Point/Poseidon = Kronos excludes an unreliable ABC state-authority rendering; its source heading does not certify the English wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-kronos-poseidon.md",
+          "text": "Vernal Point/Poseidon = Kronos excludes an unreliable ABC state-authority rendering; its source heading does not certify the English wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected complete WittePDF55 Kronos row and ABC printed59/PDF28 six-clause Kronos row. Authority and state reason (staatliche Vernunft), all current clauses and exact references match actual scan; earlier flag is stale and prior verifier provenance retained.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "queue_index": 167,
+      "before_sha256": "03c90e921808b1530c1ea096130ac1fac1457c1052ee8f0f8c0bc2e2dc552049",
+      "current_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+          "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+          "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "genuine_source_limit_confirmed_with_proof",
+      "raw_check": "Personally inspected WittePDF55 complete MC paragraph including literal The moment of floods. ABC printed58/PDF28 seven complete clauses match current inwardly animated culture, ideas, reason and truth; former damaged duplicate tail is absent correctly. Exact references and prior verifier provenance preserved.",
+      "limitations": [
+        "The moment of floods is a separate unexplained printed example; its relation to intellectual claims is not supplied and no timing model is inferred.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "queue_index": 168,
+      "before_sha256": "69f59aeaac1bad59f19175a9e5fc2bacee506f96c09aa5840a7b17900571e1d9",
+      "current_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-sun-poseidon.md",
+          "text": "Vernal Point/Poseidon = Sun retains visibly damaged ABC culture and public-person wording, also repeated in its practical-expression prose. The source entry is present but its English wording remains unresolved. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-sun-poseidon.md",
+          "text": "Vernal Point/Poseidon = Sun retains visibly damaged ABC culture and public-person wording, also repeated in its practical-expression prose. The source entry is present but its English wording remains unresolved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected complete WittePDF55 Sun row and ABC printed58/PDF28 six-clause Sun row. Physical culture, reasonable people and every current clause/new reference match actual print; old damaged-English flag is stale and prior verifier provenance retained.",
+      "limitations": [
+        "Man/body examples remain attributed source-native doctrine.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "queue_index": 169,
+      "before_sha256": "ff7d88582ec295a80096cc01d9a0819665b579b686f3ee086e084c773706313c",
+      "current_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-vulcanus-poseidon.md",
+          "text": "The retained hub qualification about the Witte dash-only tail on Vernal Point/Poseidon = Vulcanus remains current.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF55 complete Vulcanus row: Powerful floods ends at the full stop with no dash tail. ABC printed59/PDF28 seven complete clauses including reasonable influence match current English and exact references. Old dash-tail flag is stale; earlier verifier provenance preserved.",
+      "limitations": [
+        "Powerful floods is literal source wording; its relation to the intellectual claims is unexplained and no mechanism is reconstructed.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "queue_index": 170,
+      "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+      "current_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "876df7366f0ed5ee353ed91c99ddd6ccc2ca2785af74a2ef5355d39b8fbb1c0f",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/vernal-point-uranus-pluto.md",
+          "text": "The retained hub qualification about the leading Witte P token on Vernal Point/Uranus = Pluto is still current; the token also remains in activation synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF45 entire Pluto row: alternative Pluto glyphs precede Developing by leaps and bounds. Mutation. ABC printed39/PDF18 five complete German clauses, current translation and both exact locators match. Old leading-P flag is stale; prior verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-098-witte-pdf45.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-098-udo-pdf18.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+      "queue_index": 171,
+      "before_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+      "current_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "6b3008255b74e8c3256f2a3ef86d925b4780d7e6a5f1868d18f16fd1ae08e4ea",
+      "recorded_reviewer": "activations_089_099",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-venus-equals-pluto.md",
+          "text": "ABC Entry still retains the artificial development mistranslation; scan clarification is explicit in editorial sections.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-pluto.md",
+          "text": "Vernal Point/Venus = Pluto distinguishes the scan's artistic-development wording from the retained artificial-development translation; follow its entry qualification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-pluto.md",
+          "text": "Vernal Point/Venus = Pluto distinguishes the scan's artistic-development wording from the retained artificial-development translation; follow its entry qualification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete pluto glyph row and adjacent boundaries, ABC printed31/PDF14 (6 clauses). All German, labeled English and exact reference verified; Kunst-Entwicklung is development of art.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch06-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 33e3c3d209ba31f8e92f4e49f39d8cc43358d09dcedce8fc9e6f047f35cef6e6",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+      "queue_index": 172,
+      "before_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+      "current_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "09a52e5145088d6fc235e64b4ff28c13cedce04968fe4f922cc7f270665c0042",
+      "recorded_reviewer": "activations_089_099",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-venus-equals-saturn.md",
+          "text": "Retained ABC Entry still says local public harmony, local beauty, public peace cancellations and public surrenders; corrected meanings are bounded in editorial sections.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-saturn.md",
+          "text": "Vernal Point/Venus = Saturn distinguishes scanned ABC disturbance/task wording from retained local/surrender translation problems. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-saturn.md",
+          "text": "Vernal Point/Venus = Saturn distinguishes scanned ABC disturbance/task wording from retained local/surrender translation problems.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete saturn glyph row and adjacent boundaries, ABC printed31/PDF14 (7 clauses). All German, labeled English and exact reference verified; gestörte harmony/beauty and Friedens-Störungen are disturbances; Aufgaben remains tasks.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch06-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 33e3c3d209ba31f8e92f4e49f39d8cc43358d09dcedce8fc9e6f047f35cef6e6",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+      "queue_index": 173,
+      "before_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+      "current_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "609e8bf1307bfb2f1b6b30d1ad70ceb06aecb5158def1abd35c66735e8af506a",
+      "recorded_reviewer": "activations_089_099",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-venus-equals-uranus.md",
+          "text": "ABC Entry retains peace--ercignis and compressed public-art content; scan-supported meanings are identified in editorial prose.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete uranus glyph row and adjacent boundaries, ABC printed31/PDF14 (7 clauses). All German, labeled English and exact reference verified; peace reform and the public art event are recovered as separate clauses.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch06-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 33e3c3d209ba31f8e92f4e49f39d8cc43358d09dcedce8fc9e6f047f35cef6e6",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "queue_index": 174,
+      "before_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+      "current_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "c3c72030e74ff5f316586f51136624aa9012ec00718c73d2150b68400ba54a45",
+      "recorded_reviewer": "activations_089_099",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/vernal-point-venus-equals-zeus.md",
+          "text": "ABC Entry retains Meeting Pleasure, abbreviated art and Schopfung; German meanings are clarified in editorial prose without rewriting source text.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "status": "accepted",
+      "classification": "repaired",
+      "raw_check": "Personally inspected complete zeus glyph row and adjacent boundaries, ABC printed31/PDF14 (6 clauses). All German, labeled English and exact reference verified; Führungs-Freude is enjoyment of leadership; artistic achievements and beauty of creation are restored.",
+      "limitations": [
+        "Unchanged Witte block is outside this bounded source certification.",
+        "Öffentliches Friedens-Feuer is a literal public peace fire; its form and mechanism are unexplained."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch06-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 33e3c3d209ba31f8e92f4e49f39d8cc43358d09dcedce8fc9e6f047f35cef6e6",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-099-udo-pdf14.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+      "queue_index": 175,
+      "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+      "current_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "ac7b19f12f8072d1a6183ff38fb4c233abb91b5f7771b0ec5efdbeeefd42d31b",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/admetos-vulcanus-poseidon.md",
+          "text": "Vulcanus/Poseidon = Admetos: ABC Entry retains damaged wording \"grilning\" and \"vemilnftige\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF315 Admetos row and ABC printed479/PDF238 complete eight-clause Admetos paragraph. Thorough influence of an idea/culture and reasonable consolidation of power correctly replace damaged grilning/vemilnftige. Both locators and full changed translation verified; prior verifier provenance preserved.",
+      "limitations": [
+        "Depression and mental violence remain attributed historical source language, without diagnosis; geistige Gewalt retains contextual force/violence range.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+      "queue_index": 176,
+      "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+      "current_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "1f3281bce48bf115fb7a5ab6413e15ba79d6f27631223d2e26a1762ad76f13bd",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/apollon-vulcanus-poseidon.md",
+          "text": "Vulcanus/Poseidon = Apollon: Witte Entry begins with damaged text \"^ons^ere<l\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF315 complete Apollon row: Considered by many as a person of honour and esteem begins cleanly. ABC printed479/PDF238 seven-clause Apollon row and new exact references also match current section. Old Witte damage flag is stale; prior verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+      "queue_index": 177,
+      "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+      "current_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "1f06c8fc4351ff3e70f003a0e045946807d996f0b88c4691287005e1867d1550",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/uranus-vulcanus-poseidon.md",
+          "text": "Vulcanus/Poseidon = Uranus retains an unexplained leading Witte ij) prefix; verify before quoting. Uranus/Poseidon = Vulcanus qualifies an unreliable ABC cultural-renewal translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/uranus-vulcanus-poseidon.md",
+          "text": "Vulcanus/Poseidon = Uranus retains an unexplained leading Witte ij) prefix; verify before quoting. Uranus/Poseidon = Vulcanus qualifies an unreliable ABC cultural-renewal translation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF315 complete Uranus row and two alternative Uranus glyphs: ij) was not prose. ABC printed479/PDF238 nine clauses verified, including vernünftige Energie-Technik as reasonable energy technology, current force/violence rendering and exact references. Prior verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-kronos-equals-venus.md",
+      "queue_index": 178,
+      "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+      "current_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "6a99088965ed57c5cf19e4057d2df4f310db9db60c8ead00d05094a0a30df72d",
+      "recorded_reviewer": "/root/resume_a100_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/venus-zeus-kronos.md",
+          "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-zeus-kronos.md",
+          "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected actual WittePDF289 adjacent Mercury/Venus glyph boundary: current womb/love/peace/diplomat paragraph is Venus; former brain paragraph is Mercury and excluded. ABC printed450/PDF224 six-clause Venus row and every new reference match; earlier verifier provenance preserved.",
+      "limitations": [
+        "Womb and military examples remain source-native historical doctrine, not medical fact or a guaranteed outcome.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf289.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf224.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+      "queue_index": 179,
+      "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+      "current_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "1661261c6d505fc2df3fa691ddce917990b51f9f88c45b1d9c65a8d6a863706e",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/asc-zeus-poseidon.md",
+          "text": "Zeus/Poseidon = Asc: ABC Entry retains damaged or suspect wording \"Yemunft\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF296 complete Asc paragraph and ABC printed458/PDF228 complete eight-clause Asc row. Current English restores efforts, cultural surroundings, reasonable achievements, efforts of reason and partner testimony to truth; all added locators match. Earlier verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf296.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf228.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "queue_index": 180,
+      "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+      "current_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "6c187efb5aa3a1e0e6e589f59e6640232811e654c1b853728a5ad05ae8936ec8",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/zeus-admetos-vulcanus.md",
+          "text": "The retained hub qualification about the Witte Pee el fragment on Zeus/Vulcanus = Admetos remains current.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF295 entire admetos glyph row and ABC printed457/PDF227 entire 9-clause admetos row. Witte foundation phrase has no Pee el fragment; ABC depressed beginnings and creative circulatory energy remain source-native. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+      "limitations": [
+        "Depressions and creative circulatory energy are attributed literal source language; no diagnosis or physiological mechanism is inferred.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+        "The precise Gewalt force-or-violence sense remains contextual."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "queue_index": 181,
+      "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+      "current_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "3afb4619768c4a6d7cea71d8ac6064fe02eece7b93bef34363559b7a1c11c80a",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/zeus-apollon-vulcanus.md",
+          "text": "The retained hub qualification about the Witte quotation/token fragment before commerce on Zeus/Vulcanus = Apollon remains current.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF295 entire apollon glyph row and ABC printed457/PDF227 entire 8-clause apollon row. Witte science/commerce sentence has no quotation/token fragment. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+        "The precise Gewalt force-or-violence sense remains contextual."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "queue_index": 182,
+      "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+      "current_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "05e71f9d9777823ee34d3bbbf44672617a15276698adef55b0564df686b6c646",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/asc-zeus-vulcanus.md",
+          "text": "Zeus/Vulcanus = Asc: ABC Entry retains damaged or suspect wording \"feucr\" and \"part ners\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF295 entire asc glyph row and ABC printed456/PDF227 entire 9-clause asc row. To concentrate spacing and ABC fire power, partner efforts and procreative power are restored. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+        "The precise Gewalt force-or-violence sense remains contextual."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+      "queue_index": 183,
+      "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+      "current_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "e63d5708a4b3f05314b38c4e35cde6516707b8b62ba44a30e2f7a180e50c0105",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/triads/zeus-vulcanus-poseidon.md",
+          "text": "The retained hub qualification about the Witte EN eae / She ee / 24 Re es aries fragments on Zeus/Vulcanus = Poseidon remains current.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "stale_flag_cleared_with_proof",
+      "raw_check": "Personally inspected WittePDF295 entire poseidon glyph row and ABC printed457/PDF227 entire 9-clause poseidon row. Witte conclusive evidence and powerful documents contain no extraction fragments; ABC ends truth as a creative force. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+      "limitations": [
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "queue_index": 184,
+      "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+      "current_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "0a6196a52cad0baa9440659db2f8a7fb06bdc21d70861fd606588110f327d78e",
+      "recorded_reviewer": "activation_review_089_103",
+      "queue_issues": [
+        {
+          "holder": "wiki/activations/zeus-zeus-equals-moon.md",
+          "text": "Witte PDF287 Moon row contains the unqualified word Inflammable; its object is not identified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "status": "accepted",
+      "classification": "genuine_source_limit_confirmed_with_proof",
+      "raw_check": "Personally inspected WittePDF287 complete Moon glyph row: literal Inflammable has no stated object. All surrounding source sentences and added exact PDF/Moon-row locator match; this is a genuine printed limit, not OCR damage.",
+      "limitations": [
+        "Inflammable has no identified object; preserve the exact attributed word without inventing a physical, psychological or medical meaning. Historical gender/reproductive examples are attributed, not factual diagnosis.",
+        "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-batch07-proof.json: complete sources, unique owner record and independent per-source scope; SHA256 e455b010b21272b5615f44614ab5dfaa2598d7d80ef0cc0b70336fc0e8092a1d",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-witte-pdf0287.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+      ]
+    }
+  ]
+}

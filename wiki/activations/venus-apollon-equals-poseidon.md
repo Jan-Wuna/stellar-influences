@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Apollon](../axes/venus-apollon.md)
 - Triad hub: [Venus Apollon Poseidon](../triads/venus-apollon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Friendship ties with people of the same or a similar state of mind. Spiritualize
 
 Expansion of a culture of peace, success in arts and culture, successful peace idea, love of knowledge and truth, spreading of spiritual harmony, preference for spirit science, preference for culture science, and increasing love for spirituality
 
+## Comparative Schema
+
+- **core meaning:** Shared ideas organize friendship and cultural interest.
+- **psychology:** ABC explicitly names love of knowledge and truth.
+- **body/health:** Neither entry supplies a health condition.
+- **social/relationship:** Witte describes friends of a similar state of mind.
+- **events/manifestations:** Spiritualized art or science and a culture of peace are stated.
+- **conflicts/notes:** Source spiritual terminology does not establish empirical validation.
+
+## Contradictions
+
+Similar outlook, cultural activity and spiritual harmony are compatible emphases; no direct denial appears. ABC's literal “spirit science” and “culture science” terms do not establish a scientific status for spiritual claims.
+
+Source locators from the evidence cache: ABC printed p. 291 (PDF p. 144); Witte PDF p. 186 (entry start). These passages have not been visually verified.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon = Poseidon`: friendship ties with people of the same or a similar state of mind.
-- Practical expression: expansion of a culture of peace, success in arts, culture, successful peace idea, and love of knowledge.
+In `Venus/Apollon = Poseidon`, Poseidon specifies the Venus/Apollon axis through affinity of mind. [Witte](#witte-entry) links friendship with people of similar outlook to spiritualized art or science; [ABC](#abc-entry) adds love of knowledge and truth, spiritual harmony and a culture of peace. The shared interest becomes a bond because its participants value a similar intellectual or spiritual direction.
 
 ## Links
 

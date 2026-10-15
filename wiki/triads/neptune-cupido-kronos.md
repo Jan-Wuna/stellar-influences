@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Cupido Kronos`
 - Astronomicon triad-set: `Y ¡ ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Kronos = Neptune](../activations/cupido-kronos-equals-neptune.md)
-- [Neptune/Cupido = Kronos](../activations/neptune-cupido-equals-kronos.md)
-- [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md)
+- [Cupido/Kronos = Neptune](../activations/cupido-kronos-equals-neptune.md): base axis [Cupido/Kronos](../axes/cupido-kronos.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Cupido = Kronos](../activations/neptune-cupido-equals-kronos.md): base axis [Neptune/Cupido](../axes/neptune-cupido.md); activator [Kronos](../factors/kronos.md).
+- [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Cupido/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
-- `Cupido/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `429`
-- `Neptune/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `393`
-- `Neptune/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `399`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Kronos = Neptune](../activations/cupido-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 269); [Neptune/Cupido = Kronos](../activations/neptune-cupido-equals-kronos.md#witte-entry) (PDF entry-start p. 247); [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md#witte-entry) (PDF entry-start p. 250).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Kronos = Neptune](../activations/cupido-kronos-equals-neptune.md#abc-entry) (printed p. 429); [Neptune/Cupido = Kronos](../activations/neptune-cupido-equals-kronos.md#abc-entry) (printed p. 393); [Neptune/Kronos = Cupido](../activations/neptune-kronos-equals-cupido.md#abc-entry) (printed p. 399).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Kronos = Neptune`: decline of distinguished families or privileged classes and the breakdown of old culture, habits, and social hierarchy.
-- `Neptune/Cupido = Kronos`: This activation elevates dissolution into the sphere of law and authority, showing families or associations broken apart by official intervention, state power, or leadership conflict.
-- `Neptune/Kronos = Cupido`: This activation moves compromised authority into marriage, association, and secret group life, showing clouded unions, hidden leadership, and communal structures managed through concealment or bad law.
+Neptune, Cupido and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Kronos](../axes/cupido-kronos.md)
+- [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Neptune/Kronos](../axes/neptune-kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Hades](../triads/mars-neptune-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Coming in touch with mean, vicious people and to suffer from them. Destruction by drowning, epidemics or atrocity.
 
@@ -42,13 +46,27 @@ Coming in touch with mean, vicious people and to suffer from them. Destruction b
 
 #### ABC Entry
 
-Work in deficient air, exchange of will absorption, exchange of lack of work, dangerous mis actions, lack of water processing, disadvantages due to will weakness, sensitive secret activity, and insecurity due to work lack
+Source: “Mars + Neptun,” printed p. 305 (PDF p. 151).
+
+Work in deficient air, disappointing renunciation of the will, disappointment about deficient work, dangerous mistaken actions, processing deficient water, disadvantages through weakness of will, sensitive secret activity, and uncertainty through lack of work.
+
+## Comparative Schema
+
+- core meaning: Harmful contacts, dangerous mistakes, and insecure or deficient work.
+- psychology: Disappointment about deficient work or renouncing the will; uncertainty associated with lack of work.
+- body/health: Drowning and epidemics are Witte's historical claims.
+- social/relationship: Suffering through contact with vicious people in Witte; secret activity in ABC.
+- events/manifestations: Dangerous mistaken actions, poor-air work, processing deficient water, and work shortage.
+- conflicts/notes: Witte's severe destruction examples are broader in consequence than ABC's work deficiencies; both retain their own scope.
+
+## Contradictions
+
+No direct conflict appears, but the severity differs: ABC describes deficient work and disappointment, while Witte names suffering and destructive events.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Neptune = Hades` deepens harmful confusion into vicious contact, atrocity, and ruinous suffering.
-- Chart expression: falling in with cruel or corrupt people, suffering from them, and destruction through drowning, epidemic, or other dark and degrading forms of harm.
+In `Mars/Neptune = Hades`, Hades specifies the pair through harmful circumstances and insecure or deficient activity. ABC connects disappointment about work and renouncing the will with dangerous mistakes, secret activity, and uncertainty through work shortage; poor air and deficient water are concrete work settings. Witte stresses suffering through vicious contacts and lists drowning, epidemic, and atrocity. Those severe events remain attributed historical examples rather than necessary outcomes of work difficulty. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 305 / PDF p. 151)
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Venus Mars Asc](../triads/venus-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Sex union. Intimate relations. Others action for harmony and peace.
 
 #### ABC Entry
 
-Work in a gentle place, joy through environmental work, artistic activity in the place, peacework with others, peaceful environmental work, love actions of the partner, creative pleasure of the partner, and environmental conservation work
+Work in a beautiful place, joy through work for the surroundings, artistic activity at the place, peace work with others, peaceful work for the surroundings, loving actions of the partner, the partner's joy in creating, and work to beautify the surroundings.
+
+- Source reference: printed p. 110, PDF p. 54, Venus row; the scan reads `schönen Ort` and `Umwelt-Verschönerungs-Arbeit`, a beautiful place and beautification work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Passionate disposition. Fighting spurred on by love and for the sake of love, de
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 One is at ease when asserting oneself and so can accomplish much with a min imum of conflict. One expresses one’s values and one’s love assertively.
 
@@ -70,22 +76,23 @@ Softens any combative or loud noises which may arise; brings tenderness and comp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action with others expresses love, values and a wish for harmony.
+- psychology: Ease in assertion, tenderness and enjoyment of activity or rest are explicit.
+- body/health: Sexual union and rest after activity appear; no medical condition is stated.
+- social/relationship: Intimacy, compassion before arguments and fighting for love are different forms of involvement.
+- events/manifestations: Peace work, artistic activity and beautifying the surroundings are named.
+- conflicts/notes: Ebertin's fighting for love differs in emphasis from low-conflict assertion; the entries do not establish possessiveness or coercion.
 
 ## Contradictions
 
-- None recorded yet.
+The sources include peaceful assertion and fighting for love. These describe different ways of pursuing affection or values without a direct disagreement over a single necessary outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Venus`: sex appeal, intimate union, productive cooperation with minimal friction, and the expression of values or love in a confident, active way. Main caution: desire by force: attraction and harmony can be pursued so directly that they become possessive, conflictual, or overly driven.
+Venus specifies the Mars/Asc axis through active expressions of love, values and harmony. Intimate union in [Witte](#witte-entry) sits beside the ease of assertion in [Sandbach](#sandbach-entry) and tenderness before arguments in [Munkasey](#munkasey-entry). [ABC](#abc-entry) gives practical examples in art, peace work and beautification. [Ebertin](#ebertin-entry) also includes fighting for love and pursuing union, so harmony is an aim within this range rather than a guarantee that all interaction is free of conflict.
+
+Evidence: Witte PDF p. 85; ABC printed p. 110, PDF p. 54; Ebertin printed p. 220, code 0762; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

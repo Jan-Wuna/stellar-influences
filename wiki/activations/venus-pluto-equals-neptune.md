@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Neptune Pluto](../triads/venus-neptune-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Deception, inadequate threats, or punishment to another; illusions about practic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Love's development or wishes shaped by sensitivity, fantasy, and uncertain fulfillment.
+- psychology: Impressionability, secret wishes, intense fantasy, and unstable attraction.
+- body/health: Sandbach says intense sharing can drain energy; no medical condition is established.
+- social/relationship: Possible seduction or destructive surrender to an overpowering lover.
+- events/manifestations: Unrealized wishes, deception, and inadequate protection of assets or art.
+- conflicts/notes: Ebertin's 'immorality' is a historical moral label; redemption or healing is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+ABC's sensitive development coexists with unrealized wishes and destructive surrender elsewhere. The favorable sensitivity theme does not cancel the adverse possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Neptune`: healing tenderness, visionary art, and the sense that love or beauty can redeem hidden pain and shame. Main caution: desire can be glamorized into secrecy, sacrifice, deception, or addictive fantasy.
+In `Venus/Pluto = Neptune`, Neptune specifies Venus/Pluto development through sensitivity and imagined or uncertain fulfillment. The [ABC entry](#abc-entry) allows sensitive unfolding of love, but the [Witte entry](#witte-entry) emphasizes wishes without realization. [Sandbach](#sandbach-entry) adds intense fantasies, draining exchanges, and potentially destructive surrender to a lover; [Munkasey](#munkasey-entry) gives deception and faulty protection of financial or artistic assets. The supported interpretation combines delicate feeling with difficulty distinguishing desire from a secure or realizable outcome.
 
 ## Links
 

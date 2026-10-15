@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Pluto](../triads/vernal-point-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 To organize. To plan. Changes or transformation in the world of labour.
 
@@ -42,13 +46,27 @@ To organize. To plan. Changes or transformation in the world of labour.
 
 #### ABC Entry
 
-Publicity Development activity, growing public effort Living, and active public activity
+- Source page: 33; PDF page: 15 (one-based spread).
+
+Developing activities in public, developmental impulses for the public, public developmental activity, growing efforts in public life, and varied activity in public
+
+## Comparative Schema
+
+- core meaning: Public action developing, reorganizing, or changing its form.
+- psychology: Planning and organizing are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Transformation in the world of labor.
+- events/manifestations: Developmental work, growing efforts, and varied public activity.
+- conflicts/notes: The scan restores the first two clauses misplaced under Neptune.
+
+## Contradictions
+
+No direct contradiction is established. Growing effort and varied activity describe change without guaranteeing improvement or success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Pluto`: to organize, to plan, and changes or transformation in the world of labour.
-- Practical expression: publicity Development activity, growing public effort Living, and active public activity.
+In `Vernal Point/Mars = Pluto`, public activity is treated as a process that can be planned, organized, and transformed. The [Witte entry](#witte-entry) connects organization with changes in the world of labor. The restored [ABC entry](#abc-entry) adds developmental impulses, growing efforts, and varied activity. The shared theme is the continuing reshaping of public work, with no fixed outcome assigned to that development.
 
 ## Links
 

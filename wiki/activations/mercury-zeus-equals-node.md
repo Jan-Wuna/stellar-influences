@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Zeus](../axes/mercury-zeus.md)
 - Triad hub: [Mercury Node Zeus](../triads/mercury-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 168 (exact oriented entry checked against the scan); source heading: `Mercury + Zeus`.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Organizations, unions or connections that come into being upon command. Connecti
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 258; one-based PDF p. 128 (oriented row checked against the scan); source heading: `Merkur + Zeus`.
+
 #### ABC Entry
 
-Linked by strenuous speech, communicating fire messages, leading news connection, language guidance in connections, contacts to leading media, and creative links to youth
+Connected through demanding conversations, conveying fire reports, leading news connection, leadership of conversation within connections, contacts with leading media, creative connections to youth, connection to youth guidance.
+
+## Comparative Schema
+
+- core meaning: Directed thought and communication form connections, unions and organizations through command.
+- psychology: Demanding conversations provide a shared focus; no general individual disposition is stated.
+- body/health: No bodily or medical correspondence is given.
+- social/relationship: Command-created associations coexist with creative connections to youth and contact with leading media.
+- events/manifestations: Conveying fire reports, leading news connections and connections to youth guidance are concrete settings.
+- conflicts/notes: Formation upon command does not by itself establish consent or coercion in every association.
+
+## Contradictions
+
+No direct contradiction is established. Organizational formation by command and communicative links share direction while retaining their distinct social settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Zeus = Node`: Organizations, unions or connections that come into being upon command. Connections upon command.
-- Practical expression: linked by strenuous speech, communicating fire messages, leading news connection, language guidance in connections, and contacts to leading media.
+In `Mercury/Zeus = Node`, direction creates or organizes connections: unions and organizations may come into being upon command, while demanding conversations and leadership within connections give association an active communicative purpose. Conveying fire reports, links with leading media and creative connections to youth or youth guidance show specific channels for that purpose. The command example describes how an association forms without settling every participant's response to it. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

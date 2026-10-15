@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Poseidon](../triads/vernal-point-node-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Connections of many people for an ideal purpose. -----
+- PDF page: 39 (one-based).
+
+Connections of many people for an ideal purpose.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Knowledgeful relations with the public, spiritual encounters in the public, spiritual connections with the public Life, clear relations with the public, public culture connections, and freedom of movement for the public
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Insight-rich relationships with the public, intellectual encounters in public, intelligent connections with public life, clear relations with the public, public cultural connections, and conveying truth to the public
+
+## Comparative Schema
+
+- core meaning: Public connections organized around insight, culture, and an ideal purpose.
+- psychology: Insight, intelligence, and clarity are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Many people joining for an ideal purpose.
+- events/manifestations: Cultural links and conveying truth to the public.
+- conflicts/notes: Truth transmission replaces unsupported freedom of movement; an ideal purpose does not establish factual truth.
+
+## Contradictions
+
+No direct contradiction is established. An ideal purpose and clear relations do not independently prove that the group's claims are true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Poseidon`: connections of many people for an ideal purpose and -----.
-- Practical expression: knowledgeful relations with the public, spiritual encounters in the public, spiritual connections with the public Life, clear relations with the public, and public culture connections.
+In `Vernal Point/Node = Poseidon`, public association is specified through an ideal or intellectual purpose. The [Witte entry](#witte-entry) names many people connecting for an ideal aim. The restored [ABC entry](#abc-entry) develops this through insightful encounters, cultural links, clear relations, and conveying truth to the public. The coherent emphasis is association through understanding and shared ideas.
 
 ## Links
 

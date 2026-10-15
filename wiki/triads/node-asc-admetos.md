@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Asc Admetos`
 - Astronomicon triad-set: `g Asc ¦`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Admetos = Node](../activations/asc-admetos-equals-node.md)
-- [Node/Admetos = Asc](../activations/node-admetos-equals-asc.md)
-- [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
+- [Asc/Admetos = Node](../activations/asc-admetos-equals-node.md): base axis [Asc/Admetos](../axes/asc-admetos.md); activator [Node](../factors/node.md).
+- [Node/Admetos = Asc](../activations/node-admetos-equals-asc.md): base axis [Node/Admetos](../axes/node-admetos.md); activator [Asc](../factors/asc.md).
+- [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md): base axis [Node/Asc](../axes/node-asc.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Asc/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
-- `Asc/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `132`
-- `Node/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `234`
-- `Node/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `105`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Admetos = Node](../activations/asc-admetos-equals-node.md#witte-entry) (PDF entry-start p. 96); [Node/Admetos = Asc](../activations/node-admetos-equals-asc.md#witte-entry) (PDF entry-start p. 154); [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md#witte-entry) (PDF entry-start p. 82).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Admetos = Node](../activations/asc-admetos-equals-node.md#abc-entry) (printed p. 132); [Node/Admetos = Asc](../activations/node-admetos-equals-asc.md#abc-entry) (printed p. 234); [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md#abc-entry) (printed p. 105).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Node`: attachment to a place and connection with others who are already positioned beneath, behind, or overcome by the native.
-- `Node/Admetos = Asc`: To be home, to be on the estate. To stay in touch with home. Others are inferior and can’t develop.
-- `Node/Asc = Admetos`: Hindrances and obstacles through acquaintances. A small circle of acquaintances which always remains the same.
+Node, Asc and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Admetos](../axes/asc-admetos.md)
+- [Node/Admetos](../axes/node-admetos.md)
+- [Node/Asc](../axes/node-asc.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Admetos](../factors/admetos.md)

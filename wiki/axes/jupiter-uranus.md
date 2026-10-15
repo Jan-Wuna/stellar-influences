@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Uranus
 factor_a: Jupiter
 factor_b: Uranus
 related_activations:
+  - Jupiter/Uranus = Jupiter
+  - Jupiter/Uranus = Uranus
   - Jupiter/Uranus = Admetos
   - Jupiter/Uranus = Apollon
   - Jupiter/Uranus = Asc
@@ -76,12 +78,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/URANUS`
-- Source page: `259`
+- Source heading: `JUPITER + URANUS`
+- PDF page: `208`
 
 #### Pair Summary
 
@@ -89,9 +93,15 @@ Material success. Sudden luck. Sudden misfortune, if Jupiter posited in poor pic
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `326`; PDF page: `162` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Success••hnpupe, Vinanz Reform, joy in rhythm, joyous event, g:1:; ObcitT!"-chung, sudden edoig, new law, legal reform, tension through money, and advantage through technology
+German pair summary (transcribed from printed page `326`; PDF page `162`):
+
+> Erfolgs-Impulse, Finanz-Reform, Freude am Rhythmus, freudiges Ereignis, freudige Überraschung, plötzlicher Erfolg, neues Recht, Rechts-Reform, Spannung durch Geld, Vorteile durch Technik
+
+Editorial translation from the German passage: Impulses toward success, financial reform, joy in rhythm, joyful event, joyful surprise, sudden success, new law or rights, legal reform, tension through money, advantages through technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -228,14 +238,17 @@ Ober gives Jupiter/Uranus from the keywords `Expansion - Benefits` and `Suddenne
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** Growth through freedom, new understanding, and sudden openings or releases from restraint ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Ober](#aren-ober---midpoint-interpretation-simplified)).
+- **Psychology:** Original insight, enthusiasm, intuition, and independence contrast with exaggeration, restless opposition, and change pursued for its own sake.
+- **Body/health:** Ebertin's intestinal/spasm correspondences, Carter's physical anecdotes, and Munkasey's metabolic and deafness claims remain attributed historical material. They do not establish medical findings or causes.
+- **Social/relationship:** Encouraging freedom and meeting unusual partners can widen possibilities; tactless independence, doctrinal arguments, or difficulty adapting to a partner are difficult alternatives.
+- **Events/manifestations:** Sudden recognition, changes of fortune, invention, technical opportunity, and reform are explicit. Ebertin also describes the release of accumulated tension; Hand allows changes that are either fortunate or unfortunate.
+- **Conflicts/notes:** Luck and freedom recur, with good outcomes qualified by the sources' conditions. ABC adds financial and legal reform, joyful surprise and tension through money. Witte actually prints Money though technology; the grammatical irregularity is retained.
 
 ## Related Activations
+
+- [Jupiter/Uranus = Jupiter](../activations/jupiter-uranus-equals-jupiter.md)
+- [Jupiter/Uranus = Uranus](../activations/jupiter-uranus-equals-uranus.md)
 
 - [Jupiter/Uranus = Admetos](../activations/jupiter-uranus-equals-admetos.md)
 - [Jupiter/Uranus = Apollon](../activations/jupiter-uranus-equals-apollon.md)
@@ -261,15 +274,14 @@ Ober gives Jupiter/Uranus from the keywords `Expansion - Benefits` and `Suddenne
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Ober's example stresses a beneficial release; Hand explicitly allows sudden luck that is bad or good, and Witte conditions misfortune on other pictures. These differences materially limit an exclusively fortunate reading. Carter also warns that this slow-planet contact alone does not establish an outstanding life.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus` is the axis of liberated growth, sudden opportunity, unconventional vision, reform, and fortunate breakthroughs. It joins enthusiasm, meaning, and expansion with freedom, surprise, originality, and the refusal to stay inside stale limits.
-- Chart expression: inspired ideas, lucky breaks, inventive or technical promise, intellectual independence, progressive convictions, and the ability to seize unexpected openings. Its volatility is part of the picture: restlessness, exaggeration, impulsive rebellion, tactless independence, and a tendency to provoke disruption in the name of truth, reform, or personal freedom.
+Jupiter/Uranus describes growth through an opening: a new idea, greater independence, an unexpected opportunity, or release from something restrictive. Enthusiasm and original understanding connect the sudden-luck theme with invention, experimentation, and reform. Ebertin's account of tension abruptly released adds the experience of relief to the more obvious image of a fortunate breakthrough ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Ober, PDF pp. 126-127](#aren-ober---midpoint-interpretation-simplified)).
+
+Independence can also become opposition for its own sake, exaggerated reactions, or restless changes that do not sustain growth. Sudden change is not always beneficial, and the desire for freedom may produce conflict with a partner, the law, or another authority. This qualification belongs to the pair's stated range rather than cancelling its inventive and expansive possibilities ([Hand](#robert-hand---horoscope-symbols); [Munkasey, printed p. 259](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); [Carter](#charles-carter---the-astrological-aspects)).
 
 ## Links
 

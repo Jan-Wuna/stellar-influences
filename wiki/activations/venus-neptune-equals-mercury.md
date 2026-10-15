@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Mercury Venus Neptune](../triads/mercury-venus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Much imagination in love. Full of enthusiasm. Acquaintance with persons full of 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Reports on W asser movements, exchanged youth love, joy in air traffic, thoughts on metaphysical arts, talk about the future's artist, uncertain peace reports, preference for movement in the air, and future wishes of youth
+Reports about movements of water, disappointed youthful love, joy in air travel, thoughts about metaphysical art, conversations about the art of the future, uncertain reports about peace, preference for movement in the air, and future wishes of youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0629`.
 
 #### Ebertin Entry
 
 Sympathetic and compassionate understanding of other people, imagination, an artistic sense (lyrics). Nervous troubles caused through wrong or misdirected love sensations, disappointed hope.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `61` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ An exceptionally active mind able to create effective pretenses or delusions; ad
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Imaginative and subtle thought or communication, with both empathy and deception in range.
+- Psychology: Romantic fantasy, compassionate understanding, subtle persuasion, or nervousness around confusion.
+- Body/health: Ebertin's nervous-trouble claim remains a historical assertion, not a diagnosis.
+- Social/relationship: Enthusiastic acquaintances and communication shaped by idealized values.
+- Events/manifestations: Lyrical or metaphysical art, detecting or creating pretenses, and uncertain peace reports.
+- Conflicts/notes: Munkasey supplies both detection and creation of deceit; criminal examples do not establish conduct.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey supplies both detection and creation of deceit; criminal examples do not establish conduct.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Mercury`: lyrical communication, imaginative diplomacy, and the ability to articulate feeling delicately rather than bluntly. Main caution: evasive phrasing: beauty in words can obscure facts, commitments, or uncomfortable distinctions.
+`Venus/Neptune = Mercury` gives imagined or refined love a mental and verbal form. [Witte](#witte-entry) emphasizes imagination and enthusiasm, while [Ebertin](#ebertin-entry) adds compassion and an artistic sense. [Sandbach](#sandbach-entry) describes polished persuasion, appreciation of subtleties, and thought shaped by romantic ideals. The [ABC entry](#abc-entry) extends these themes to metaphysical art and uncertain reports. [Munkasey](#munkasey-entry) allows the mind both to detect deceit and to create convincing pretenses. Empathy, fantasy, and deceptive skill remain separate possibilities; Ebertin's nervous claim and Munkasey's criminal example do not determine health or behavior.
 
 ## Links
 

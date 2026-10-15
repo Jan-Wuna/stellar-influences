@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,24 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Cupido](../axes/asc-cupido.md)
 - Triad hub: [Pluto Asc Cupido](../triads/pluto-asc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Change in social relations. The outer appearance of the family, association or group, is in change.
+Change in social relations. The outer appearance of the family, association or group, is in change.
+
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 91, “Asc + Cupido,” Pluto row; checked on the actual scan. The leading P is an alternate Pluto glyph, not part of the sentence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-environmental changes, change of place of a community, change of a local community, changes in a partner community, and growing environmental communities
+Unfolding of a community at the place, development of an art place, a community for changes in the surroundings, relocation of a community, change in a local community, changes within a partner community, and growing communities in the surroundings.
+
+Source reference: Udo Rudolph, printed p. 123, one-based PDF p. 60, “Aszendent + Cupido,” Pluto glyph row; checked on the actual scan. The first three clauses beginning “Entfaltung einer Gemeinschaft am Ort” belong here, after the Neptune row's final “zukünftige Partner-Gemeinschaft.”
+
+## Comparative Schema
+
+- **Core meaning:** Change, growth, or development in social relations and shared places ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Neither entry assigns a fixed personality trait or emotional response to change.
+- **Body/health:** Neither entry gives a body or health claim.
+- **Social/relationship:** Social relations and local or partner communities change; the appearance of a family, association, or group is included.
+- **Events/manifestations:** Community relocation, development of an art place, and growing communities are explicit.
+- **Conflicts/notes:** The entries give no pace or adverse outcome for change; repeated destabilization is not established.
+
+## Contradictions
+
+Both entries describe change in collective life. ABC adds development, relocation, and growth without a stated opposition to Witte's change in social relations or outward group appearance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Pluto`: changes in household structure, family presentation, or group membership that alter how the social unit appears and functions. Main caution: destabilized cohesion: the shared field can keep reforming before a durable identity settles.
+In `Asc/Cupido = Pluto`, Pluto specifies the pair through change in shared life and its outward form. Witte names altered social relations and the changing appearance of a family, association, or group. ABC makes development concrete through an art place, a community's relocation, and local or partner communities that change or grow. These entries establish transformation in the collective setting while leaving its pace and consequences open. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

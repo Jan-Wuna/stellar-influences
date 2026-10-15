@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Apollon](../axes/venus-apollon.md)
 - Triad hub: [Venus Mars Apollon](../triads/venus-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 186, Venus/Apollon, Mars row; actual glyph and neighboring rows checked.
 
 Intimate friendship through scientific or economic activity.
 
@@ -42,13 +46,27 @@ Intimate friendship through scientific or economic activity.
 
 #### ABC Entry
 
-Extension of the peace will, success through harmonious actions, successful love memolations, successful arts making, harmonious peace work, love experiences want, activity in the arts trade, and preference for scientific work
+- Source reference: printed p. 290; one-based PDF p. 144, Venus/Apollon, Mars row; complete row and neighboring glyph boundaries checked.
+
+Editorial translation, checked against the scan: Expansion of the will for peace, success through harmonious actions, successful efforts in love, successful artistic creation, harmonious peace work, wanting experiences of love, activity in the art trade, and preference for scientific work.
+
+## Comparative Schema
+
+- **core meaning:** Shared activity develops intimate friendship and constructive harmony. [Sources](#source-entries).
+- **psychology:** Wanting experiences of love and preferring scientific work are explicit ABC motivations. [Sources](#source-entries).
+- **body/health:** Neither entry gives a bodily condition. [Sources](#source-entries).
+- **social/relationship:** Intimacy grows through scientific or economic work in Witte. [Sources](#source-entries).
+- **events/manifestations:** Successful efforts in love, artistic creation, harmonious peace work and activity in the art trade. [Sources](#source-entries).
+- **conflicts/notes:** Liebes-Bemühungen means efforts in love; the scanned row keeps art, peace and scientific work as concrete settings. [Sources](#source-entries).
+
+## Contradictions
+
+Scientific or economic intimacy and harmonious artistic or peace activity are compatible emphases. ABC names successful efforts in love without guaranteeing success for every undertaking.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon = Mars`: intimate friendship through scientific or economic activity.
-- Practical expression: extension of the peace will, success through harmonious actions, successful love memolations, successful arts making, and harmonious peace work.
+In `Venus/Apollon = Mars`, shared work gives affection and cultural interests an active outlet. [Witte](#witte-entry) names intimate friendship through scientific or economic activity; [ABC](#abc-entry) extends the range into harmonious action, successful efforts in love, artistic creation and peace work. Activity in the art trade and preference for scientific work preserve specific fields of effort. These describe possible forms of constructive engagement without assuring every effort's success.
 
 ## Links
 

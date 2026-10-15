@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Moon`
 - Astronomicon formula: `T/W = R`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 Female persons taking leave. Unruly guest (female). En route. Driving fast. Travel companions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports on women's gifts, serious talk between women, describing women's problems, youth cancellations, talk about separation from women, hard words of the people, mature thoughts of a woman, and shocks of a young woman
+- Source passage: `Merkur + Saturn`; printed p. `246`; one-based PDF page `122` (oriented row checked against the scan).
+
+Reports about a woman's tasks, serious conversations between women, describing women's problems, emotional disturbances in youth, conversations about separation from a woman, harsh words of a people, a woman's mature thoughts, disturbances affecting a young woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Saturn`; printed p. `155`; entry code `0496` (supplied source-map locator; not visually verified).
 
 A retarded development of mind and soul, love of variety, inconstancy. The opportunity to gain abundant experience, absorption and digestion of many different impressions, a woman having thoughts of separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Saturn midpoint`; one-based PDF page `45` (exact oriented passage checked in the actual PDF text).
 
 Mental clarity makes one feel secure, implying that one tends to feel better off when ideas are simplified. One is vulnerable to the negative ideas of others. Emotional security comes from being able to have serious and deep conversations with people. The feeling, often erroneous, that one is not very smart. Disrupted communication upsets one emotionally. One’s ability to sort through and organize ideas is cyclical - it comes and goes periodically.
 
@@ -70,22 +80,23 @@ Sensitive communications; thinking about your parents; care and discipline appli
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious thought and communication are emotionally felt and involve women or family.
+- psychology: Clarity and deep conversation support security; negative ideas, disruption or self-doubt can unsettle it.
+- body/health: Ebertin's developmental description is historical doctrine, not a diagnosis.
+- social/relationship: Sensitive communication, parents, women's concerns and travel companions are explicit settings.
+- events/manifestations: Departure, travel, separation discussions and changing capacity to organize ideas are examples.
+- conflicts/notes: Ebertin's inconstancy coexists with opportunities to absorb varied experience; neither establishes intelligence.
 
 ## Contradictions
 
-- None recorded yet.
+Clarity can support security while disrupted communication causes distress. Ebertin's historical developmental label must not be equated with Sandbach's explicitly sometimes erroneous self-doubt.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Moon`: seriousness of mind, reflective depth, and the ability to endure emotionally through mental control. Main caution: brooding heaviness: thought can become anxious, pessimistic, or overly burdened by feeling.
+In `Mercury/Saturn = Moon`, Moon specifies serious thought through emotional security and sensitive communication. Simplifying ideas and having deep conversations can make one feel safer, while negative ideas from others, disrupted exchanges or doubts about one's intelligence can unsettle that security. The capacity to organize ideas may fluctuate, and Munkasey adds care when releasing information and reflection on parents or women's concerns. ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Women taking leave, travel companions and thoughts or conversations about separation preserve concrete relational expressions. Ebertin's historical developmental wording remains attributed, beside his opportunity to gain and digest varied experience; it is not a diagnosis of the person. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry))
 
 ## Links
 

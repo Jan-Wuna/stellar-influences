@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Asc Hades`
 - Astronomicon triad-set: `VP Asc ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Hades = Vernal Point](../activations/asc-hades-equals-vernal-point.md)
-- [Vernal Point/Asc = Hades](../activations/vernal-point-asc-equals-hades.md)
-- [Vernal Point/Hades = Asc](../activations/vernal-point-hades-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Hades = Vernal Point](../activations/asc-hades-equals-vernal-point.md) | [Asc/Hades](../axes/asc-hades.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Asc = Hades](../activations/vernal-point-asc-equals-hades.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | [Hades](../factors/hades.md) |
+| [Vernal Point/Hades = Asc](../activations/vernal-point-hades-equals-asc.md) | [Vernal Point/Hades](../axes/vernal-point-hades.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
-- `Asc/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `124`
-- `Vernal Point/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
-- `Vernal Point/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `46`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Hades = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-hades-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `92`.
+- `Asc/Hades = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-hades-equals-vernal-point.md#abc-entry), printed p. `124`.
+- `Vernal Point/Asc = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-hades.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-hades.md#abc-entry), printed p. `21`.
+- `Vernal Point/Hades = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-hades-equals-asc.md#witte-entry), one-based PDF entry-start p. `49`.
+- `Vernal Point/Hades = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-hades-equals-asc.md#abc-entry), printed p. `46`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Vernal Point`: direct contact with poverty and degraded conditions as a general social fact, not just a private inconvenience.
-- `Vernal Point/Asc = Hades`: This formula emphasizes to meet sick people, to seek bad company, poor, miserable areas, and ugly, vacated or destroyed places.
-- `Vernal Point/Hades = Asc`: This formula emphasizes to be impoverished by the general public and to be a physician of the general health system.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

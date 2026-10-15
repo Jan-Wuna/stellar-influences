@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = MC`
 - Astronomicon formula: `S/Y = MC`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -51,11 +53,27 @@ Sensitivity of body and soul, I refine the body, my body in water, my body in ai
 
 #### Ebertin Entry
 
-Being sensitive, weak, ill or impressionable. A negative outlook. Periods of depression, hyper-sensitivity or mental and emotional stress. 13 Pluto = Sun/Neptune has also been found in cases of polio as well as in cases of blood disease. 14 Moon's Node or Ascendant = Sun/Neptune has frequently been found to indicate a stay in hospital.
+Source locator: printed page 100 / PDF page 102, code 0277 (MC).
+
+Being sensitive, weak, ill or impressionable. A negative outlook. Periods of depression, hyper-sensitivity or mental and emotional stress.
+
+#### Contextual Source Footnote 13
+
+Source locator: printed page 100 / PDF page 102. Its marker belongs to Pluto, code 0274; it is retained as context rather than MC doctrine.
+
+Pluto = Sun/Neptune has also been found in cases of polio as well as in cases of blood disease.
+
+#### Contextual Source Footnote 14
+
+Source locator: printed page 100 / PDF page 102. Its marker belongs to Asc, code 0276; the note itself names Node or Asc. It is retained as context rather than MC doctrine.
+
+Moon's Node or Ascendant = Sun/Neptune has frequently been found to indicate a stay in hospital.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Midheaven entry under Planets activating the Sun/Neptune midpoint.
 
 A desire to be self-sacrificing to help the world. One’s life’s work involves using one’s psychic sensitivity and/or one’s imagination. Revealing to the world the subtler meanings behind life. Pursuing one’s career with intuitive selfconfidence.
 
@@ -70,22 +88,21 @@ Your individual learning and growing about what the world is like and how your p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sensitivity and imagination shaping personal direction and life's work.
+- psychology: Receptivity may become intuitive confidence, self-deception, stress, or escape.
+- body/health: Historical weakness and depression statements stay attributed; separately labeled Pluto/Node/Asc footnotes describe other formulas.
+- social/relationship: A wish to help the world through self-sacrifice; no specific intimate relationship is established.
+- events/manifestations: Work revealing subtler meanings; learning to visualize and realize purposes.
+- conflicts/notes: Do not transfer the Ebertin footnotes about Pluto, Node, or Asc into this MC orientation.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's intuitive confidence and the older negative outlook describe differing possibilities, not a resolved consensus. Ebertin's separately labeled notes explicitly name other activators and do not establish MC-specific polio, blood disease, or hospitalization claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = MC`: intuitive vocation, compassion in worldly aims, and the wish to reveal deeper meanings through one's work. Main caution: demoralization: weakness, depression, self-deception, or negative outlook can blur direction and undermine practical effectiveness.
+MC specifies the Sun/Neptune axis as a question of personal direction: imagination and sensitivity may become a life's work that reveals hidden meaning or helps others, while self-deception can make that direction uncertain. [Sandbach Entry](#sandbach-entry) supplies the vocational application; [Munkasey Entry](#munkasey-entry) emphasizes maturing in visualization and realizing purposes. Receptivity and confusion in [Witte Entry](#witte-entry) describe the difficult side without making medical outcomes necessary.
 
 ## Links
 

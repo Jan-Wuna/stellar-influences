@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Moon Venus Mars](../triads/moon-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ A woman’s sexual love. Decision to marry. Related female persons. The mother.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Actions of a gentle woman, working on women's desires, joy feeling through creation, women's peace work, activating harmony fleeches, harmonious gestures, women's artistic activity, women's love acts, and folk art work
+Actions of a beautiful woman, working on women's wishes, a feeling of joy through creation, the woman's peace work, activating feelings of harmony, harmonious emotional actions, the woman's artistic activity, the woman's acts of love, and folk-art work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0580`.
 
 #### Ebertin Entry
 
 Strong emotional impulses, an early desire for marriage. The entering into marriage, motherhood.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Maternal feelings aroused from your affections and activities; brings satisfacti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Emotionally felt love and active concern for home or close relationships.
+- Psychology: A strong need for love, vulnerability in passion, and accomplishment that depends on mood.
+- Body/health: Marriage and motherhood are historical manifestations in Ebertin, not reproductive or medical predictions.
+- Social/relationship: Family affection, maternal concern, related women, and a wish to marry.
+- Events/manifestations: Enjoyment of household activity, caring action, artistic work, and activating harmony.
+- Conflicts/notes: The sources' gendered and maternal images are retained; vulnerability and mood dependence qualify the active warmth.
 
 ## Contradictions
 
-- None recorded yet.
+- The sources' gendered and maternal images are retained; vulnerability and mood dependence qualify the active warmth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Moon`: strong chemistry, emotional warmth, and the ability to feel desire as something immediate and embodied. Main caution: reactive entanglement: love can become moody, possessive, or too driven by emotional appetite and fluctuating need.
+`Venus/Mars = Moon` makes the need for love emotionally immediate and connects activity with care. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) use historical images of women, marriage, and motherhood, while the [ABC entry](#abc-entry) also names creative and artistic activity and feelings of harmony. [Sandbach](#sandbach-entry) adds vulnerability in passion and effectiveness that depends strongly on mood. [Munkasey](#munkasey-entry) emphasizes satisfaction in showing concern, household activity, and love of home or family. These describe emotionally invested action, without making the gendered images required identities or predicting marriage or parenthood.
 
 ## Links
 

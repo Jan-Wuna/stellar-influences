@@ -1,0 +1,327 @@
+{
+  "paths": [
+    {
+      "path": "wiki/activations/mercury-hades-equals-admetos.md",
+      "before_sha256": "9d5dc09442948192b13a4205b7fe93f93c10bb5e4612ec26d70615883e66891c",
+      "after_sha256": "c0f039126e9ead9741d1161684d7f0db475194439b539ea45773af19b150d43b",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-apollon.md",
+      "before_sha256": "ce1c36ec8193333fea26e9be7ba1fbe718c82bbc31b09c51a108f2bfcdd6803d",
+      "after_sha256": "fb2d9f0c8712d4f361ad4e22ed6d79089abcda09aa7b930653d760e986bf77bf",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-asc.md",
+      "before_sha256": "bc43fdfdfb0acb9f4c911ff97e1d68b6870ff22efa44f77db9838e010d20b226",
+      "after_sha256": "b1d32775528225dc4b710902c0ac0db379a0ce504d091220511a34d224622636",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-cupido.md",
+      "before_sha256": "5929e62f19c18ef30327f3d1be71ea24df8942312e8ef8c532fc9029f8268188",
+      "after_sha256": "33bc756a6aa7178c49f055dbb423f03ef2ffc672b0c79001989df8cfe7d9d668",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-jupiter.md",
+      "before_sha256": "f338bebf439bde96ea52f1f57ed40a13cd64740086455d306b0ee51071a720c8",
+      "after_sha256": "be64b21b60a7fc6edf54be92aa11038d34e608e9d595ac29702d45394a95c174",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-kronos.md",
+      "before_sha256": "0f92d427c002db301f655d8c62d2b7512dacf9f9b1d32b15b9d9b7b1362631f3",
+      "after_sha256": "3ae0e541ee7aec03edb3cb38ecae10d84be1aabfdd1db8530332975534d049c4",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-mars.md",
+      "before_sha256": "7a41906eef75802425922bd25bc913dc8cddf5ba5cfbf45cbb5f5e0d8a00e0dd",
+      "after_sha256": "bf14558ca6527db3e6ea2e0114645f24af3c02441d875c31c772daf30e6cc15b",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/mercury-hades-equals-mc.md",
+      "before_sha256": "ef4f462521b6149ac59a763607bf6b9381c1a07b9fe91aa1e13f715ecba34dff",
+      "after_sha256": "d0971bcc7790aad1c543b3b80ddd21fc03dea53ea4abeb7ff53301c6b6a864ac",
+      "ledger": "activations-034.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-admetos.md",
+      "before_sha256": "506212d9373909b1f62c09d9bb52688dbd0990b8b8da24f4a73816906ef61497",
+      "after_sha256": "2c0f57fa75a29029ce20e0a7e6addd58530efe18181bdcd53647b152cc41e95b",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-apollon.md",
+      "before_sha256": "c33325923dc7697ccea78d63c2899c88f4d9016963efdb3a2782a5115b9e717a",
+      "after_sha256": "ca56ad9a892e539725e9d14b39a8fbab5c5f127481da860ffe697240b65f29e8",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-asc.md",
+      "before_sha256": "a3af59b0641c5b8cd1607a38558e4ddcd0222347b7289d25124e8f5f3a9fb2fc",
+      "after_sha256": "e8cd27a53e4bb5dbb9fc63375885b00a0aca532a3999bf31ec5f4125878dbb4f",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-chiron.md",
+      "before_sha256": "555abf35b0e032cd9c0589435d28f645f133f1d8936bf7836f177d6cb79c2cd7",
+      "after_sha256": "421cd4c87aec39a4e41999e5e2e6536944b274c72f7be39eb18f8e968042e6e3",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-cupido.md",
+      "before_sha256": "e66ea5c911df44979b49f5e474f9ca2b2bcd7d5da3783030a93ea874ec2dea88",
+      "after_sha256": "f412a3a1620b8b18fa94402ad2fc5de4ca766ba0bfd1b7b0564539db960164b4",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-hades.md",
+      "before_sha256": "9fc8b88a30426eb8079f632398a6a813fd2a2781701f10dd8f8510a421c50c36",
+      "after_sha256": "65991afda1ba0e3c45777cb415deebf968079ee1a813bb30e1494473b2694315",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-jupiter.md",
+      "before_sha256": "7547d9cece6f32b22cecfcf94abe54ff2c3bc686018cca2c72f8305a07c266cc",
+      "after_sha256": "38d5f3a23c6a8a0cfcc15164d835b60ca74ee96b2814f97f2a1bde6716aed9c4",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-kronos.md",
+      "before_sha256": "70ae56c50f6702623a886c0571bc33a54ddc5210c48d05874de03fa09fa8e1f6",
+      "after_sha256": "4eb6176c961257081084edcfc7c5efeb7658eb9835e071d7185c6f5a8b937e26",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mars.md",
+      "before_sha256": "cea4b8a023bcaf79a9ec0273e2ee5dbc9b6f8f418c56afd462900284ac85d358",
+      "after_sha256": "f890c031d76fec92b837727efd90d5a277e99addce4bf244fa40f9b824554660",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mc.md",
+      "before_sha256": "97c3f04a8c9574e988a84c5f27375ae11e7a798b992d8328c8f05d790d639e56",
+      "after_sha256": "63abffbb3308de96c9cffe7bd544b5b4d192641bcc7287d59cb2e5f15f9d7f41",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-mercury.md",
+      "before_sha256": "acdd1e5ca8860d29a9de9eed77637987465bc2ed3e1d9c2a2614038739035e44",
+      "after_sha256": "eb2424e6406d7dcaed169989fc19a5568140c8af7770c8121a752515b53d06d1",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-moon.md",
+      "before_sha256": "31d896ee64688f43e8900ab828dc577c497f482c9ca30d667d6a144c3c10e2fe",
+      "after_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-neptune.md",
+      "before_sha256": "267db5beafe21e4def9c6475167516b2f1ef8cd9bd2892c9a89bf899aad4e684",
+      "after_sha256": "c21403a5366a5d8754db64ed450e9d3041c7b6dedf00e84d84e3ed0998755a4b",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-node.md",
+      "before_sha256": "cde4dcd807d8ba2d14284add81777e7917c7329b8b6cffdfd0a65b807f16e2b4",
+      "after_sha256": "b6d52e285a4918d8ef7c90098a236f440e23fb3e001c99a99e02869a1d32f088",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-pluto.md",
+      "before_sha256": "faa38649ece2eb90a4480eb0d5b1844123b622a38cdd1b1428dbebd7b0293a84",
+      "after_sha256": "c779456cc1e6f9125fb4006780a9a7ed62fcf6bef73893ddce805c5f37c04f7e",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-poseidon.md",
+      "before_sha256": "e891561b5f59979883afb55d49ab2dc60031557111d522fe33c643831ea686aa",
+      "after_sha256": "9c8f51bb639980b57e0efe223686298aa4939c005879c2eb700baaf58b71d5b7",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-saturn.md",
+      "before_sha256": "6f889d8fd5eab1f00d0b42f10ab8dbf8fef1c1586b09ee9ffae15200c1029cc0",
+      "after_sha256": "dafdf77e5655b71906b14c11167567bd4689ba5ae2fbb18c7a9afff2ffcf892e",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-sun.md",
+      "before_sha256": "b191fab4edf74e95fa595fad3e6fb0be48bf5266d0e79388f792e28c3929092d",
+      "after_sha256": "1206fcad097bb598ba71d3ea27c20fa7c63bd2e94f65b12b32462fb9f92aca10",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-uranus.md",
+      "before_sha256": "6cd4fe54d7e9adf249c969ab91d54db12133dae573610823f4f20f27aab147f1",
+      "after_sha256": "7c2e19615fc5780c9a1d8b47478f055d35b5aa33c5342b6884ac90fb134280ff",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-venus.md",
+      "before_sha256": "8a742dd7e8ee00b879d67ed43ea78ea76698021c86aa34e0faad3f22561fa223",
+      "after_sha256": "c93d23cc2c2d0974bc4fc79f34d21933eae8db7fbaa2c90bbd7e30b343469fa3",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-vernal-point.md",
+      "before_sha256": "37a7cce193f5119a7354e09ed7505ea0c50569ac55666bea74102246ce804d3a",
+      "after_sha256": "dab48134e0b622627984cd420c7f0fd73f5fc74f01466684c8d8dacc51eb19cc",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-vulcanus.md",
+      "before_sha256": "0b04d0d1bb3342277592c1391693c1b6cbd15c7d685b6a17285ae2887bee26b7",
+      "after_sha256": "1261a8ed0e37f508b2a427e240bc0fb3bf844208dbef57330cbf3000843976fd",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-zeus.md",
+      "before_sha256": "04e39c19a5af669f31db9377e0514b24f16719ee54dea032f45aab71b26e12ec",
+      "after_sha256": "82875523c93fb82823aa5e52d8fcda7639999dabcc1747d745cc3d7bf4118bac",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-admetos.md",
+      "before_sha256": "bbdda1a0f5e377d6d21a15abdd1d90dbb0a78edcb54c20fe3a513b9c4cea2be0",
+      "after_sha256": "45bed9a01eaef5fc81988e444e157ff52b274c37c1e1e722a1a3eb634ee04d8b",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-apollon.md",
+      "before_sha256": "3d9d77e637fb67ecbd7e3c6bdcc12574f5107caa2139e4973e99ebce025423af",
+      "after_sha256": "50234381c307680261ae26f8655901f3f4a82d841c66fa9325806c6b0341c69d",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-asc.md",
+      "before_sha256": "0a7773377a58d70c161c0ec4a68822b4aebeaafac43a43fb1a1ccaed9f086313",
+      "after_sha256": "945736a2795aa19ea84a0d72d16b28ac69b7ec50acd27a01510fcfe1e842c111",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-chiron.md",
+      "before_sha256": "90851b5bd4e4c28ef48a3a3b67b9e9c7afe840926b2443af36a0e6fbbe33713b",
+      "after_sha256": "06eab5684177e1c992f0be131c08ad8d9a63a2e7c1b18d1f36cb07226fe510b7",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 53,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-cupido.md",
+      "before_sha256": "f180a156a93ffbdb2fbd4eb0326abee610cb608f5870771e02414f37a2d08d7b",
+      "after_sha256": "6cec61413c8d79653f2d1d109c52ae8638bdd2020f2f5cfc8924c499b5f28453",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 54,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-hades.md",
+      "before_sha256": "de0f97e2cf634a4375dc00a3d5c7c34eac0ed4cbd2952627186c2ef18ac004c0",
+      "after_sha256": "dc6f49746be3a3f47fd1d97b4666f29170cad1584bfff29bcac6d1d214ca2c9b",
+      "ledger": "activations-066.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    }
+  ],
+  "pending_ledger_excluded": [],
+  "candidate_artifact_generated_at": "2026-10-15T13:09:11.946381+00:00",
+  "exact_current_approved_excluded": [
+    "wiki/activations/mercury-hades-equals-moon.md",
+    "wiki/activations/mercury-hades-equals-neptune.md",
+    "wiki/activations/mercury-hades-equals-node.md",
+    "wiki/activations/mercury-hades-equals-pluto.md",
+    "wiki/activations/mercury-hades-equals-poseidon.md",
+    "wiki/activations/mercury-hades-equals-saturn.md",
+    "wiki/activations/mercury-hades-equals-sun.md",
+    "wiki/activations/mercury-hades-equals-uranus.md",
+    "wiki/activations/mercury-hades-equals-venus.md",
+    "wiki/activations/mercury-hades-equals-vernal-point.md",
+    "wiki/activations/mercury-hades-equals-vulcanus.md",
+    "wiki/activations/mercury-hades-equals-zeus.md",
+    "wiki/activations/saturn-neptune-equals-kronos.md",
+    "wiki/activations/saturn-neptune-equals-mars.md",
+    "wiki/activations/saturn-neptune-equals-mc.md",
+    "wiki/activations/saturn-neptune-equals-mercury.md"
+  ],
+  "verifier": "/root/source_check_saturn",
+  "scope": [
+    "mercury-hades",
+    "saturn-mc",
+    "saturn-neptune"
+  ],
+  "generated_at": "2026-10-15T13:53:54.996Z"
+}

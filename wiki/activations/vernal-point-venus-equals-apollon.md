@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Apollon](../triads/vernal-point-venus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 41 (one-based).
 
 General peace, concord, unity and friendship.
 
@@ -42,13 +46,29 @@ General peace, concord, unity and friendship.
 
 #### ABC Entry
 
-Peace success in public, harmony expansion in public, artificial trade in public, preference for public experiences, economic peace in public life, and increasing joy in public
+- Source page: 31; PDF page: 14 (one-based spread).
+
+Success for peace in public, expansion of harmony in public, art trade in public, a liking for public experiences, economic peace in public life, and increasing joy in public.
+
+## Comparative Schema
+
+- core meaning: Peace, friendship and harmony expand publicly.
+- psychology: Increasing joy and enjoyment of public experience.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Concord, unity and friendship.
+- events/manifestations: Peace successes, art trade and economic peace.
+- conflicts/notes: Commercial art is an explicit field, not artificiality.
+
+## Contradictions
+
+Both entries support widening harmony. ABC adds trade and economic settings to Witte’s general concord.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Apollon`: general peace, concord, unity and friendship.
-- Practical expression: peace success in public, harmony expansion in public, artificial trade in public, preference for public experiences, and economic peace in public life.
+`Vernal Point/Venus = Apollon` describes harmony extending through public life. Witte’s peace, concord, unity and friendship meet ABC’s expansion of harmony and increasing joy, giving the interpretation a broad social emphasis. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Art trade and economic peace provide concrete settings, while enjoyment of public experiences describes participation in that agreeable field. The entries link shared satisfaction with wider cooperation without specifying a particular institution. ([ABC](#abc-entry))
 
 ## Links
 

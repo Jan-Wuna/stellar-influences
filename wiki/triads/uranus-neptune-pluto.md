@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -34,20 +34,29 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Neptune/Pluto = Uranus](../activations/neptune-pluto-equals-uranus.md)
-- [Uranus/Neptune = Pluto](../activations/uranus-neptune-equals-pluto.md)
-- [Uranus/Pluto = Neptune](../activations/uranus-pluto-equals-neptune.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Pluto](../axes/neptune-pluto.md) | `Uranus` | [Neptune/Pluto = Uranus](../activations/neptune-pluto-equals-uranus.md) |
+| [Uranus/Neptune](../axes/uranus-neptune.md) | `Pluto` | [Uranus/Neptune = Pluto](../activations/uranus-neptune-equals-pluto.md) |
+| [Uranus/Pluto](../axes/uranus-pluto.md) | `Neptune` | [Uranus/Pluto = Neptune](../activations/uranus-pluto-equals-neptune.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Neptune/Pluto = Uranus`: Michael, page `328`
-- `Uranus/Neptune = Pluto`: Michael, page `308`
-- `Uranus/Pluto = Neptune`: Michael, page `312`
+Each exact formula has the five canonical source headings below. This describes entries currently present, not complete coverage of the original works or intact wording of every excerpt. Munkasey locators are printed entry pages; other locators and their qualifications are available through the linked entries.
+
+- `Neptune/Pluto = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-pluto-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-pluto-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/neptune-pluto-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-pluto-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/neptune-pluto-equals-uranus.md#munkasey-entry), printed p. `328`.
+- `Uranus/Neptune = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-neptune-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-neptune-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-neptune-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-neptune-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-neptune-equals-pluto.md#munkasey-entry), printed p. `308`.
+- `Uranus/Pluto = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-pluto-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-pluto-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-pluto-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-pluto-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-pluto-equals-neptune.md#munkasey-entry), printed p. `312`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Coverage note: Uranus/Neptune = Pluto's Ebertin note 59 belongs to Mercury and is excluded from this formula. Uranus/Pluto = Neptune still gives Sandbach PDF p. 105 as a chapter-start reference; consult the linked activation's locator qualification.
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

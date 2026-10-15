@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Zeus`
 - Astronomicon formula: `Y/Z = £`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Secret orders. To keep one’s activities in secret. Secret arming. Secret arms, concealed weapons. To practice secretly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Start of a creeping change, creative future development, aspire to air change, weak performance development, uncertain procreation development, different future design, growing performance expectations, and change of weak movement
+Beginning of a creeping change, creative future development, striving for a change of air, weak unfolding of achievement, uncertain development of procreation, changed shaping of the future, growing expectations of achievement, and change of weak leadership
+
+## Comparative Schema
+
+- core meaning: concealed activity or practice alongside developing aims and uncertain achievement.
+- psychology: growing expectations of achievement are explicit.
+- body/health: uncertain procreative development is source language without a specific medical claim.
+- social/relationship: secret orders, concealed weapons, and weak leadership are named.
+- events/manifestations: private practice, creative future development, and the beginning of creeping change are stated.
+- conflicts/notes: private practice is not necessarily armament; the source does not make all developing initiatives deliberately secret.
+
+## Contradictions
+
+Witte emphasizes secret orders, arming, and practice. ABC also describes uncertain achievement, future shaping, and leadership change without requiring concealment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Zeus`: Secret orders. To keep one’s activities in secret. Secret arming. Secret arms, concealed weapons. To practice secretly.
-- Practical focus: hidden transformation is directed into secret action, covert practice, or concealed armament, showing energies and intentions deliberately kept out of public view.
-- Practical expression: start of a creeping change, creative future development, aspire to air change, weak performance development, and uncertain procreation development.
+In Neptune/Pluto = Zeus, activity may be concealed while its aims or results develop. [Witte](#witte-entry) names secret orders, concealed weapons, and private practice; [ABC](#abc-entry) adds creative future development, weak achievement, growing expectations, and a change of weak leadership (printed p. 391, PDF p. 194). These are different settings for developing action; private practice and uncertain progress do not by themselves establish hidden armament.
 
 ## Links
 

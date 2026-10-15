@@ -27,6 +27,8 @@ related_activations:
   - Sun/Saturn = Node
   - Sun/Saturn = Pluto
   - Sun/Saturn = Poseidon
+  - Sun/Saturn = Saturn
+  - Sun/Saturn = Sun
   - Sun/Saturn = Uranus
   - Sun/Saturn = Venus
   - Sun/Saturn = Vernal Point
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Sun/Saturn`
 - Astronomicon axis: `S/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/SATURN`
-- Source page: `75`
+- Source heading: `SUN + SATURN`
+- Source page: PDF p. 107.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Old age. Old man. The serious man. Personal and physical hindrances and difficul
 
 #### ABC Pair Summary
 
-Old man, serious man, patient person, storten man, separate person, hard man, concentrated man, ko, -permanent problems, personal tasks, persi:inJiche difficulties, and maturing man
+- Source page: printed pp. 150–151; PDF p. 74.
+
+Old man, serious person, patient person, disturbed man, separated person, hard man, concentrated man, physical problems, personal tasks, personal difficulties, maturing person, day of separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 92; PDF p. 94.
 
 #### Principle
 
@@ -112,7 +119,11 @@ Serious persons, old or sick people.
 
 #### Probable Manifestations
 
-+ A difficult struggle with regard to advancement in life, little help through elderly people. Working silently or in solitude. - Delicate health, a secluded or solitary mode of life, compelled by circumstances to lead a modest and simple life, suppression through others, separations. 7 If in the natal chart Sun and Saturn are only a few degrees apart it often happens that, on a 1 day = 1 year basis, a few years after birth some kind of crisis occurs, e.g., a serious illness, the early death of a relative, a complete change in the home circumstances through a move to a foreign country or different surroundings, and even actual danger to his life. Q/h
++ A difficult struggle with regard to advancement in life, little help through elderly people. Working silently or in solitude. - Delicate health, a secluded or solitary mode of life, compelled by circumstances to lead a modest and simple life, suppression through others, separations.
+
+#### Source Note 7
+
+If in the natal chart Sun and Saturn are only a few degrees apart it often happens that, on a 1 day = 1 year basis, a few years after birth some kind of crisis occurs, e.g., a serious illness, the early death of a relative, a complete change in the home circumstances through a move to a foreign country or different surroundings, and even actual danger to his life.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -168,6 +179,8 @@ With respect to health the afflictions cause debility, catarrhal conditions, col
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF p. 14.
+
 #### Principle
 
 Difficulty in developing self-confidence. The slow attainment of goals through hard work. The more one focuses on spirituality the more confident one becomes. A need for discipline when working toward goals. Questioning the meaning of life. The need to understand the meaning and purpose of the difficulties and limitations one en counters in life.
@@ -217,7 +230,7 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Saturn: Integrity`
-- PDF page(s): `284`
+- PDF page(s): `284–285`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -226,16 +239,16 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 - comparison: Essence Form Development Boundary Inner stability Outer stability Liveliness Repose Self-assurance Self-doubt Lightness Heaviness Zest for life Asceticism Consciousness Conscience Joy Earnest Demands Humility Wanting Being compelled to
 - general: The boundary of growth . The form and its content . Slow but lasting development of the personality . Learning to become humble in life . Overcoming the fear of embarking on something new . Inhibitions about believing in oneself .
 - harmony: The Builder. Prefers slow but lasting growth in contrast to hasty, half-baked leaps. Needs and creates order and structure. Willing to recognize clear boundaries and look reality in the eye. Earnest, mature, and reliable personality. Respectable, competent, responsible, dutiful, strong, diligent, humble, and modest.
-- discord: The Stooped Individual. Difficult authority conflicts. Lack of self-confidence, massive doubt about one's own value, and the persistent feeling of not being good enough. Inexplicable feelings of guilt. Seeks recognition, yet at the same time is incapable of “putting up with” praise and applause. Always has to prove oneself for fear of failure.
+- discord: The Stooped Individual. Difficult authority conflicts. Lack of self-confidence, massive doubt about one's own value, and the persistent feeling of not being good enough. Inexplicable feelings of guilt. Seeks recognition, yet at the same time is incapable of “putting up with” praise and applause. Always has to prove oneself for fear of failure. In extreme cases, rigid and inflexible, clinging to proven norms and familiar misery. Fear of change and the step beyond the previous boundaries. Doesn't actually consider oneself worthy of love and therefore entertains deep (if secret) doubt even about declarations of love that are meant honestly. Strong inhibitions about showing oneself as one is. Has difficulties believing in oneself.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: personal purpose and expression shaped by duty, limits, patience, and the effort to build something lasting ([Hand](#pair-delineation), [Munkasey](#basic-ideas)).
+- psychology: perseverance, concentration, and self-command can become rigid standards, inhibition, pessimism, or a persistent feeling of inadequacy ([Ebertin](#psychological-correspondence), [Falis](#falis-entry)).
+- body/health: aging, bodily hindrance, and reduced vitality recur; Ebertin's bone and arterial conditions and Munkasey's circulation, posture, and joint conditions remain historical source associations, not diagnoses ([Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind)).
+- social/relationship: teachers, older people, fathers, and authority figures accompany respect, mentorship, and durable commitment, but also rejection, distance, and separation ([Witte](#pair-summary), [Falis](#falis-entry), [Munkasey](#in-your-relationships)).
+- events/manifestations: painstaking work, earned standing, modest circumstances, and separations; institutional expressions include rules, founding principles, checks and balances, or excessive centralization ([Carter](#harmonious-aspects), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: formative discipline and oppressive restriction are both represented. Carter's aspect distinctions qualify his claims; Ebertin's separate timing note is not a rule for the unordered pair ([source note 7](#source-note-7)).
 
 ## Related Activations
 
@@ -255,6 +268,8 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 - [Sun/Saturn = Node](../activations/sun-saturn-equals-node.md)
 - [Sun/Saturn = Pluto](../activations/sun-saturn-equals-pluto.md)
 - [Sun/Saturn = Poseidon](../activations/sun-saturn-equals-poseidon.md)
+- [Sun/Saturn = Saturn](../activations/sun-saturn-equals-saturn.md)
+- [Sun/Saturn = Sun](../activations/sun-saturn-equals-sun.md)
 - [Sun/Saturn = Uranus](../activations/sun-saturn-equals-uranus.md)
 - [Sun/Saturn = Venus](../activations/sun-saturn-equals-venus.md)
 - [Sun/Saturn = Vernal Point](../activations/sun-saturn-equals-vernal-point.md)
@@ -263,15 +278,15 @@ Mineral deposits in the arteries near the heart; blood and lymph circulation con
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries allow both lasting achievement through restraint and the denial of satisfying self-expression. These are a supported range, not grounds for choosing inevitable success or failure. Carter's conditional aspect readings and historical medical and gender claims remain within his entry.
+- Ebertin's degree/direction example remains a separate attributed [source note](#source-note-7); it is not generalized into a timing or crisis prediction from this axis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn` is the axis of disciplined identity, endurance, seriousness, and the effort to build lasting form through restraint and responsibility. It combines vitality and purpose with duty, realism, limits, patience, and the burden of time.
-- Chart expression: perseverance, conscientiousness, authority, self-command, hard work, and the capacity to mature through pressure and obligation. Liabilities: inhibition, heaviness, loneliness, pessimism, low vitality, harsh self-judgment, and the feeling that recognition must be earned through prolonged effort or deprivation.
+`Sun/Saturn` concerns giving personal purpose a durable form while working within limits. Patience, concentrated effort, responsibility, and a sober sense of what is possible can produce competence and earned authority. The same pressure can inhibit expression: achievement becomes a test of worth, self-discipline becomes self-censorship, and duty leaves little room for enjoyment. This connection between structure and personal limitation unifies the [Ebertin psychological entry](#psychological-correspondence), [Falis's account of self-structuring](#falis-entry), and [Hand's delineation](#pair-delineation).
+
+The social range includes teachers and older mentors, respectability, and relationships stabilized by practical commitment, alongside cold authority, rejection, withdrawal, and separation. Bodily hindrance and diminished vitality are part of the historical source range, while the listed diseases remain attributed associations. The axis therefore describes the possibilities of maturing through restraint and being constrained by it; a particular achievement, illness, or separation is not established by the pair alone ([Witte](#pair-summary), [Munkasey's relationship entry](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
 
 ## Links
 

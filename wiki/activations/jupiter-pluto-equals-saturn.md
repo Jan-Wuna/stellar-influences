@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Saturn`
 - Astronomicon formula: `V/Z = W`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Saturn row.
+
 Fortunate changes through a separation. Lucky transformations which require time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of money problems, general development in old age, concentrated legal development, concentration on money development, disturbances in a successful development, lossful development in the monetary system, and beneficial development after separation
+- Source reference: printed page 331; one-based PDF page 164, Jupiter/Pluto Saturn row; complete German row checked.
+
+Development of financial problems, happy development in old age, concentrated legal development, concentration on financial development, disruptions in a successful development, loss-making development in financial affairs, and advantageous development after separation
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 235; one-based PDF page 237, Jupiter/Pluto coded entry 0824; actual factor glyph and paragraph visually checked.
 
 Inhibitions in one's development. The inability to progress, difficulties, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Saturn entry; exact full paragraph checked.
 
 A desire to accomplish big things, but difficulty in doing so. A battle between the desire for excess and the desire to control oneself. One’s growth is slowed down or retarded. The need to stop being obsessive about outer expansion and to turn toward deep soul-searching.
 
@@ -66,26 +76,27 @@ A desire to accomplish big things, but difficulty in doing so. A battle between 
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 Shortened need to expound upon all subjects; adds a conservative flavor to a liberal person; hindrances and bars in quests for both fame and privacy; delays to plans for advancement of ideas; lessens the focus on destruction.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Delayed or inhibited development, with favorable change after separation or over time.
+- psychology: Conflict between excess and self-control in Sandbach; inward examination can replace obsessive expansion.
+- body/health: No bodily condition is stated.
+- social/relationship: Separation, barriers to advancement and delayed plans.
+- events/manifestations: Financial problems, happy later-life development and gains after separation.
+- conflicts/notes: Witte's favorable change requiring time differs from Ebertin's inability to progress; growth is not uniformly blocked.
 
 ## Contradictions
 
-- None recorded yet.
+Witte allows fortunate changes through separation and time, and ABC allows happiness in old age or after separation. Ebertin stresses inhibition and difficulty; Munkasey adds reduced destructive focus. These alternatives make the picture more than a lesson in frustration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Saturn`: difficult progress, heavy developmental pressure, and the lesson that large aims must survive limitation before they can be real. Main caution: frustration hardening into blockage: one may feel unable to advance and become fixated on lost momentum or denied power.
+In `Jupiter/Pluto = Saturn`, the [source entries](#source-entries) limit or slow development, with financial problems, inhibited progress or delayed plans among the examples. Sandbach describes the struggle between excessive expansion and self-control, then turns toward inward examination. Witte and ABC preserve a favorable alternative: time or separation can bring advantageous development, and later life can be happy. Munkasey's lessened focus on destruction is another possible restraint. The orientation concerns the pace and limits of growth, including benefits that can emerge through them.
 
 ## Links
 

@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Sun Chiron MC`
 - Astronomicon triad-set: `S Chiron MC`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/MC = Sun](../activations/chiron-mc-equals-sun.md)
-- [Sun/Chiron = MC](../activations/sun-chiron-equals-mc.md)
-- [Sun/MC = Chiron](../activations/sun-mc-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/MC = Sun](../activations/chiron-mc-equals-sun.md) | [Chiron/MC](../axes/chiron-mc.md) | [Sun](../factors/sun.md) |
+| [Sun/Chiron = MC](../activations/sun-chiron-equals-mc.md) | [Sun/Chiron](../axes/sun-chiron.md) | [MC](../factors/mc.md) |
+| [Sun/MC = Chiron](../activations/sun-mc-equals-chiron.md) | [Sun/MC](../axes/sun-mc.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Chiron/MC = Sun`: John, page `102`
-- `Sun/Chiron = MC`: John, page `15`
-- `Sun/MC = Chiron`: John, page `24`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/MC = Sun`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-sun.md#sandbach-entry), one-based PDF chapter-start p. `102`.
+- `Sun/Chiron = MC`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-chiron-equals-mc.md#sandbach-entry), one-based PDF chapter-start p. `15`.
+- `Sun/MC = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mc-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `24`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Sun`: vocation as a place where ego must be purified into service. Main caution: making status or self-importance the goal instead of light-bearing purpose.
-- `Sun/Chiron = MC`: seeing one's worldly path as part of a deeper spiritual purpose and aligning public direction with inner meaning.
-- `Sun/MC = Chiron`: a life direction shaped by deeper meaning and a public path that serves healing or spiritual purpose.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

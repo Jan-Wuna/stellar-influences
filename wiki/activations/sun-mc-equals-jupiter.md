@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Jupiter MC](../triads/sun-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Happiness results from the health of body and soul. Optimism. Contentment.
 
 #### ABC Entry
 
-My husband's money, my successful husband, my financial man, my corporal happiness, my personal advantage, my personal right, and the man's spiritual happiness
+Source: ABC printed p. 62, supplied PDF p. 30, Meridian + Sonne, Jupiter row (nine clauses). Translation from the German scan:
+
+An ensouled happy person; my man's finances; a happy minute of a day; my successful man; my man of finance; my bodily happiness; my personal advantage; my personal right; the man's happiness of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ A positive attitude to life, an optimistic outlook on life, the pursuit of good 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 25, complete Jupiter paragraph under Sun/Midheaven.
 
 The desire to grow in one’s profession and the ability to gain recognition for the success one achieves. The tendency to feel confident that life has meaning and purpose. Focusing excessively on one’s career purpose or one’s spiritual path may be come self-defeating.
 
@@ -70,22 +76,21 @@ Increases chances for success and recognition for work done; publicizing past ac
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Optimistic pursuit and attainment of personal objectives.
+- psychology: Confidence that life has purpose; contentment.
+- body/health: Witte’s health-of-body-and-soul explanation remains attributed.
+- social/relationship: Recognition for contributions and work.
+- events/manifestations: Advancement, success, and publicizing achievements.
+- conflicts/notes: Excessive focus on purpose can become self-defeating in Sandbach.
 
 ## Contradictions
 
-- None recorded yet.
+The confident attainment theme is qualified, not contradicted, by Sandbach's warning about excessive focus. ABC supplies happiness, success and advantage examples without assuring a particular result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Jupiter`: success in pursuing clear aims, cheerful leadership, and growth through a positive sense of meaning and possibility. Main caution: overconfidence: too much certainty about one's mission or career path can become self-defeating or inflated.
+In `Sun/MC = Jupiter`, Jupiter specifies Sun/MC personal direction through optimism, clear aims, and the prospect of attainment. The [Ebertin Entry](#ebertin-entry) emphasizes objectives and a positive outlook; the [Munkasey Entry](#munkasey-entry) extends this into recognition for prior contributions. The [Sandbach Entry](#sandbach-entry) connects confidence with professional growth and meaning, while allowing excessive concentration on purpose to become self-defeating. The pattern is a hopeful direction supported by accomplishment and recognition, rather than an assurance of success.
 
 ## Links
 

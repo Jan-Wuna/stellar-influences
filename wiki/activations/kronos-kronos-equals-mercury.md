@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,17 +27,37 @@ updated_at: 2026-04-21
 - Axis page: [Kronos/Kronos](../axes/kronos-kronos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 297, Kronos + Kronos, Mercury row.
+
 Lofty mental qualities. A noble way of thinking. Honorable thinking. Great thoughts. Main formula for the great spiritual leader. Honesty. The inquiring power of the state. Decrees, orders. Disposals. Great ideas. Official letters. Court decision.
+
+## Comparative Schema
+
+- **Core meaning:** Elevated thought and authority expressed through ideas and official communication.
+- **Psychology:** Honorable thinking, honesty, and great ideas are the source's evaluative themes.
+- **Body/health:** No body or health claim appears.
+- **Social/relationship:** Spiritual leadership and the state's inquiring authority are explicit.
+- **Events/manifestations:** Decrees, orders, official letters, and court decisions are preserved examples.
+- **Conflicts/notes:** Moral praise and administrative acts are distinct; an official decision is not thereby proven honest.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 297 (entry start); this page has one source entry.
+
+## Contradictions
+
+This single entry lists noble thinking and state communications together. It does not establish that state power is always morally authoritative.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Kronos = Mercury`: lofty thought, honorable thinking, official letters, decrees, court decisions, and the great spiritual or intellectual leader.
-- Chart expression: elevated intellect, formal communication, and thought that operates with official or moral authority.
+In `Kronos/Kronos = Mercury`, Mercury specifies the repeated pair through thought and authoritative communication. The [Witte entry](#witte-entry) ranges from great ideas and spiritual leadership to inquiry by the state, decrees, official letters, and court decisions. Its language of honesty and noble thinking remains a source evaluation, while the official examples describe forms of communication rather than proof of their moral quality.
 
 ## Links
 

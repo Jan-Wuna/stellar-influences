@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,17 +27,37 @@ updated_at: 2026-04-21
 - Axis page: [Kronos/Kronos](../axes/kronos-kronos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 297, Kronos + Kronos, Vernal Point row.
+
 Great events. Great powers (nations). Governments. Officials, the state or the general authority. The authority of the general public. Major events on Earth.
+
+## Comparative Schema
+
+- **Core meaning:** Public authority and events on the scale of governments or great powers.
+- **Psychology:** The passage gives no individual psychological delineation.
+- **Body/health:** No body or health condition is represented.
+- **Social/relationship:** Governments, officials, nations, and the authority of the general public are named.
+- **Events/manifestations:** Great events and major events on Earth are the entry's broad event descriptions.
+- **Conflicts/notes:** The entry establishes public scale but supplies no specific event mechanism or outcome.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 297 (entry start); this page has one source entry.
+
+## Contradictions
+
+This single entry names state authority and public authority without defining their relationship or opposition.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Kronos = Vernal Point`: great events, great powers or nations, governments, officials, and the authority of the general public on a large scale.
-- Chart expression: major public events, state power made visible, and collective life shaped by large governing structures.
+In `Kronos/Kronos = Vernal Point`, Vernal Point specifies the repeated pair on the scale of public authority and major events. The [Witte entry](#witte-entry) names governments, officials, great powers or nations, and the general public's authority. These establish a broad public and governmental setting, while leaving the nature, cause, and outcome of any particular event unspecified.
 
 ## Links
 

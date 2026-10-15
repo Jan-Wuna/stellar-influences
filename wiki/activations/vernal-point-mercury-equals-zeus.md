@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Zeus](../triads/vernal-point-mercury-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 Constructive thinking of the general public. General thinking under compulsion. General thinking is guided.
 
@@ -42,13 +46,27 @@ Constructive thinking of the general public. General thinking under compulsion. 
 
 #### ABC Entry
 
-Youth leadership in public life, creative youth in public, media broadcasting in public, community for opinion research, news about fire in public, and creative public opinion
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Youth leadership in public life, creative youth in public, media leadership in public, an association for opinion research, public news about fire, and creative public opinion
+
+## Comparative Schema
+
+- core meaning: Public thought directed toward creation, leadership, or guided opinion.
+- psychology: Constructive thought and thinking under compulsion are both explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Youth leadership, media leadership, and opinion-research associations.
+- events/manifestations: Creative public opinion and news about fire.
+- conflicts/notes: Constructive direction and compelled thought remain distinct; media leadership replaces broadcasting.
+
+## Contradictions
+
+Witte includes both constructive thinking and thinking under compulsion. Guidance can therefore be creative or coercive rather than uniformly beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Zeus`: constructive thinking of the general public, general thinking under compulsion, and general thinking is guided.
-- Practical expression: youth leadership in public life, creative youth in public, media broadcasting in public, community for opinion research, and news about fire in public.
+In `Vernal Point/Mercury = Zeus`, public thought is directed and given a productive aim. The [Witte entry](#witte-entry) combines constructive thinking with guided or compelled thought. The restored [ABC entry](#abc-entry) adds creative youth, leadership in media, and organized opinion research, with fire news as a separate example. The synthesis keeps purposeful creation and imposed direction visible as different forms of influence over public thinking.
 
 ## Links
 

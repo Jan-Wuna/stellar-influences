@@ -1,0 +1,243 @@
+{
+  "group": "C",
+  "batch": 3,
+  "target_count": 20,
+  "status": "submitted_for_author_distinct_check",
+  "decisions_path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-C-decisions.jsonl",
+  "targets": [
+    {
+      "path": "wiki/activations/sun-chiron-equals-moon.md",
+      "validator_source_entries_sha256": "db700de98cb922afeaae9473b683fe391572110ad7e67f2abb0dc0c3e11f82d2",
+      "source_entries_sha256": "2d3cfbfcced27236b013bd0b2dbeaaef169bc1c6b800e80b67840d2b9f53e930",
+      "page_sha256": "74e7460127c9561a61d9cad406c740bdf922ce89b1d9ec3925f23f6f90589d01",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-071.jsonl",
+      "decision_line": 56,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-sandbach-pdf016.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-chiron-equals-uranus.md",
+      "validator_source_entries_sha256": "8c5386d357e99861b5391f2cb82be17effcb1096750e28caf1560ff7abd64d7b",
+      "source_entries_sha256": "98eaa6cf6d0ac53fe1424a42d6d095ed0f2498ad783ae5b0aca2b8e7bc400d98",
+      "page_sha256": "ba945082665e1cfdfd58a1213f35fee0859abb0685323ba91850aac963b1eeb2",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-071.jsonl",
+      "decision_line": 57,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-sandbach-pdf016.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-kronos-equals-venus.md",
+      "validator_source_entries_sha256": "154f5f08a94b890bf16ba71cbdaa92ba019031c59386c8eeeaa34302e5a35166",
+      "source_entries_sha256": "33b7ab3a9c0b11cf586faf92dac29aa81a1e7e8fc5281c7b8fe12bf10ea3046b",
+      "page_sha256": "78b4a78e0825853a8c265fd3731df29e726317fa2f4aee8cc5edf32f308080ac",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 58,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf081.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-kronos-equals-vernal-point.md",
+      "validator_source_entries_sha256": "1b5e245eefc71b71b97b46a5193640e82546ee474e712836d954e281551ee1ea",
+      "source_entries_sha256": "4b578810a9765ec0ccd5f043b56ea1bf71ed8cdf75e48465116ead05a0d149a0",
+      "page_sha256": "f59f685a9cf6ea2baa73e939272bfd9a92ee7b8b4ee1279c0e70c1dba325cf51",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 59,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf081.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-admetos.md",
+      "validator_source_entries_sha256": "30b379125902a6eada3d86c505ffff987f4489706eaf0abbf63e1c8c449a5e6b",
+      "source_entries_sha256": "dc5d58e0905c4120cf8cfec2940b4a546c8c6231582cec20c51d4372c94a5259",
+      "page_sha256": "f57e8609c503ed9b6fc059656119e23c4f4eeafadaf1679f929b6b901ac06cca",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 60,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-apollon.md",
+      "validator_source_entries_sha256": "9d0e5e3307143b9d2b7106b9bbd1e2ffa424bfb4eec470ef1f9cc2555356ba0b",
+      "source_entries_sha256": "1060f581d8d6ea1e53350544fdf06b33ad109e50da89e399004385dc44e9cff1",
+      "page_sha256": "189fccce96f173b196f7cb9fc25c5bc9c897ca363299ca112505e1da2f6258fe",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 61,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-asc.md",
+      "validator_source_entries_sha256": "29cf5deee059a84113a68d7a04f58fb646e1c266298f782d398d4b81daee5b0d",
+      "source_entries_sha256": "fd983aff1d630dcf7b5baf6c6abb89e90c8329ca04a762f84f284f8a1fdeb52c",
+      "page_sha256": "8b7e18625ef16c02af261e69c7d6b3f1db3d9414d123483a3f38d171c4e1725a",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 62,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf25.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-jupiter.md",
+      "validator_source_entries_sha256": "70c6ba61c2f334070b2531c4304881db7ff2e7b58cdb4da20a368b325e6b9ffa",
+      "source_entries_sha256": "c0529d22e9de08a6bb716ee196850f4c1c62ed4cc8341219b7416af8634d39c9",
+      "page_sha256": "f6955f0e25c80c51b8fa0fdbeb7113506cdecfc0da9a487aa7c2835604c252fa",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 63,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf25.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-kronos.md",
+      "validator_source_entries_sha256": "380fff8d5f2b851093fcc3a21c361ab35bf434f2ae1c32fadf263d9ae0fa0c8b",
+      "source_entries_sha256": "58d234841b0c8a41e441a8571d70adee2056d20ed6d82ad44ae80cfcb8cf38d1",
+      "page_sha256": "c90ca3fc112480a47e7ec07eb97a08c97ea3b324b6f457d7435292c4ebeb8565",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 64,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-mercury.md",
+      "validator_source_entries_sha256": "5a541883e799cc1bc5ee27addc9cf718f12f38157fdd9743a391d4cb4527ed60",
+      "source_entries_sha256": "8406820bce76edbb4762e9d787e2fe42856f4dac2d289ca3d66b792b0726ce5c",
+      "page_sha256": "ed8318402ea1961809cecc92a50ac925d221911591fef844228580ce13d903f7",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 65,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf30.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-moon.md",
+      "validator_source_entries_sha256": "41ef51392158e705affd43f45b5c0de2e6422609fcdedd14d698ed0b19c69b7c",
+      "source_entries_sha256": "3b2a84c6a9b4f06766ef8b595ddd1e4bffad5faaa90100a36a694d6e81faad6b",
+      "page_sha256": "4249fb59bf3c100f35534c6ca5df4c5398ef2992f39872b9f971a6aca504c4ce",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 66,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf30.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-neptune.md",
+      "validator_source_entries_sha256": "ce052483db6f0c9845d553e6fd6d1bfa0005b0c93342b7269270c17029c8b237",
+      "source_entries_sha256": "83812a3f319b63389aafb8601c37e4f5152d8448f37db117d073e3a8c46b0199",
+      "page_sha256": "ebb21e84006d9b003dc0d429dd16ca27fee10514cd5eb4937cc073899d01c9e5",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 67,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf30.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-node.md",
+      "validator_source_entries_sha256": "157d27b7e65def08a00973399b6815e049f466d236c8cdde5782019470468bdc",
+      "source_entries_sha256": "af958f862eef1d6a7b6b5ffe15f73aee12a2079e30c2f694bd5aacdd47842ff1",
+      "page_sha256": "78b6bed88b2a9f817d8dc24fe9f4319480272dbfafa79e89d88effb65339cf6c",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 68,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf30.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-mc-equals-pluto.md",
+      "validator_source_entries_sha256": "e77b4cc1688057d77619d088fcef0c91d1ca30528a33f7af5f32483751102a4b",
+      "source_entries_sha256": "9dc9a8a640ca91947769188e7c7de1bc1a8e49e534c56cf9e5c1bca517851b57",
+      "page_sha256": "d4e1d0ced89b28543b4a0796fb273d1cbb938c3f0be34740a1353b6c0c6a746e",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-073.jsonl",
+      "decision_line": 69,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf030.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf30.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-admetos.md",
+      "validator_source_entries_sha256": "c7d7fa7ba948d925d864be9f40a7e351d12aaaa25ce2bf91e681a96ed5af5c96",
+      "source_entries_sha256": "f54d170235f25ff9b4cb8ce97cf867d358666b6e7ed16122558800ada368a430",
+      "page_sha256": "b4afc769521f92c7bb330c9403a1acede24dc8d5ddc3e2f3376822af0ed4ea00",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 70,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-apollon.md",
+      "validator_source_entries_sha256": "bc602b71ea5abaa8c77732b30b95ec351b94a01ed097c8dad0d098536e9550d1",
+      "source_entries_sha256": "67385a0663f3ea6a4211f9879651eacab4694309bd9a7ae03d1167928230647d",
+      "page_sha256": "deecbf2e7bb2e54db75d48a089b928bafc117b47a1b879a777eaa9d5500efdce",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 71,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-cupido.md",
+      "validator_source_entries_sha256": "3c48abddcb5425d770e2e4d6d6ccebe8b8bcf76100936ee86a0a6728a04f8974",
+      "source_entries_sha256": "92c1cca51370c7193537953c2bccd2138a8c53272173031bd7c868e2e47d2f5a",
+      "page_sha256": "72c051871a58bf7eb773b7ddd4632d8ef6d518d7566f3140b052c0f6ed88a192",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 72,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-hades.md",
+      "validator_source_entries_sha256": "654b27228ebe07895704e54deca903a37ffb48386089dbf1f7d54f1980359f48",
+      "source_entries_sha256": "868a920894413443251a58e0c6fd576b4a5dda8469afc51a84fae363b9f23af6",
+      "page_sha256": "6cbc1108177b94fed99c413224ff92c59fb42c3cda2eb2346a9047c2dc0a4c2b",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 73,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-jupiter.md",
+      "validator_source_entries_sha256": "d59a5eb3d991e6216c01277e1d5cd3b88b3d684afbba02e06e4d8d1dcddf3c80",
+      "source_entries_sha256": "fc7d4b2660f61ac3a6e9949e43664775d9a9dc472cca41165ff204c7dc296ac7",
+      "page_sha256": "714cd14768038fb2b129953fdc18ffbcae4d9efb38b1bb12d75b1f7c1658ce7b",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 74,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-kronos.md",
+      "validator_source_entries_sha256": "1fb085e3ff6da100f05b883defa5cf021094ce963485fb21937997182ad6efec",
+      "source_entries_sha256": "d2f2cf536a8bd364f28fabea59c5cee10ce80d5af28cc40e7cdaa21139b1d377",
+      "page_sha256": "2d048ec05671f3452d41f01ce87db1e28dbe54ca92fe906cf8c8b65d0a56cb02",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 75,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    }
+  ],
+  "verification": [
+    "Current exact/validator-normalized source and full-page hashes match every latest amended unique owner record.",
+    "All proof paths exist; original07155/55,07350/50 and07855/55 review coverage remains unchanged.",
+    "All required categories and unique immediate anchors remain; no fallback staging files remain.",
+    "Two Sun/Chiron printed limitations remain literal; Sun/Kronos groß and Sun/Zeus legal-context scope limits remain specific.",
+    "Root transferred untouched080–083 canonical/ledger closure targets to factor_source_repairs; this batch contains no such target."
+  ]
+}

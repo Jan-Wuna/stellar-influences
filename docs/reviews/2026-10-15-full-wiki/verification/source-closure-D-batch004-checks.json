@@ -1,0 +1,39 @@
+{
+  "batch": "D004",
+  "targets": 29,
+  "source_repaired": 21,
+  "unchanged_flagged_sources": 8,
+  "retained_printed_split": 1,
+  "review_counts_added": 0,
+  "source_page_owner_bindings_fresh": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf139.png",
+      "sha256": "2f224ca99a6dd1cac6319cd881c797453808b4b39a4cf9ebc39bd74e62653ad3"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf143.png",
+      "sha256": "58accce9c8480da65737e38ffa73067056fcf1ea0de2df4b1f86bea740c03771"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf175.png",
+      "sha256": "468732e8d9c649bae8a0f3ce780ca0f407c72b8ba6ab7f4283b27df550e944cf"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf181.png",
+      "sha256": "65d83a3950e5eafd0737b8becc6982522daf3080d4624bbc2915e496c1462b17"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p185.png",
+      "sha256": "7af3f4b8af0eff2265481c69982e0167997847615a1cc7b1397bfadbc8e242d9"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf060.png",
+      "sha256": "10ced1489a5bf85bc53e9844c88d17008435a1ab6d1dc19bad8b5cf83a1d4899"
+    }
+  ],
+  "stage_absent": true,
+  "whitespace_exit_code": 0,
+  "whitespace_output": "warning: in the working copy of 'wiki/activations/venus-chiron-equals-asc.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-apollon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-asc.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-hades.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-jupiter.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-mars.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-mc.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-mercury.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-moon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-neptune.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-pluto.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-saturn.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-sun.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-vernal-point.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-vulcanus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-kronos-equals-zeus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-pluto-equals-admetos.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-pluto-equals-hades.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-pluto-equals-poseidon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-pluto-equals-vulcanus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-pluto-equals-zeus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/venus-venus-equals-admetos.md', LF will be replaced by CRLF the next time Git touches it\n",
+  "failures": []
+}

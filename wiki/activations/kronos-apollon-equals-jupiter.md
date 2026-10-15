@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Apollon](../axes/kronos-apollon.md)
 - Triad hub: [Jupiter Kronos Apollon](../triads/jupiter-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 299, Kronos + Apollon, oriented activator row.
 
 Success. Joy, happiness or satisfaction through a leading position or success in science or commerce. Success of a leading trade.
 
@@ -42,13 +46,29 @@ Success. Joy, happiness or satisfaction through a leading position or success in
 
 #### ABC Entry
 
-Successful authorship of science, successes of the legal state, special legal success, great financial freedom, self evident financial knowledge, superior financial hierarchy, increased happiness through self governingness, and important legal experiences
+- Source reference: printed p. 460; one-based PDF p. 229, Kronos + Apollon, oriented activator row.
+
+Successful authority of science, successes of the rule of law, special legal success, great financial freedom, independent financial knowledge, a superior financial hierarchy, increased happiness through independence, and important legal experiences.
+
+## Comparative Schema
+
+- **Core meaning:** Success and satisfaction through leadership, science, or commerce.
+- **Psychology:** Joy, happiness, and satisfaction are expressly named by Witte.
+- **Body/health:** No physical or health condition is established.
+- **Social/relationship:** ABC includes legal-state success and financial hierarchy.
+- **Events/manifestations:** Leading-trade success, financial freedom, and legal experience are represented.
+- **Conflicts/notes:** ABC gives scientific authority and independent financial knowledge, with happiness through independence; these are distinct from authorship or self-evidence.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 299 (entry start); [ABC entry](#abc-entry), printed p. 460.
+
+## Contradictions
+
+The financial and legal examples extend the range of success; they do not guarantee wealth or establish an ethical judgment about leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Jupiter`: joy through leadership, prosperous science or commerce, and success in directing an important trade or knowledge field.
-- Chart expression: fortunate leadership, happy recognition, and broad success in intellectual or commercial authority.
+In `Kronos/Apollon = Jupiter`, Jupiter specifies the pair through the satisfaction and success attached to a leading position or achievement in science and commerce. The [Witte entry](#witte-entry) includes a successful leading trade; the [ABC entry](#abc-entry) adds financial freedom, independent financial knowledge, legal success and happiness through independence. These are examples of accomplishment and its rewards.
 
 ## Links
 

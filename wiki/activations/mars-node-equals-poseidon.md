@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Node Poseidon](../triads/mars-node-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Common activity based on similar moral or ideological inclinations.
 
@@ -42,13 +46,27 @@ Common activity based on similar moral or ideological inclinations.
 
 #### ABC Entry
 
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
 Creating work culture, learning about contact work, activating mental connections, creating clarity in a relationship, creating cultural connections, activity in truth mediation, and mediation of cultural work
+
+## Comparative Schema
+
+- core meaning: Shared action grounded in similar moral or ideological inclinations.
+- psychology: Seeking clarity and activating mental connections.
+- body/health: No bodily or medical statement is given.
+- social/relationship: Cooperation through common convictions and cultural connections.
+- events/manifestations: Work culture, cultural mediation, and communicating truth.
+- conflicts/notes: Shared convictions are the stated basis of cooperation; the entries do not establish moral superiority or universal agreement.
+
+## Contradictions
+
+No direct conflict appears: Witte states the shared moral or ideological basis, while ABC develops clarity, contact work, and cultural activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Node = Poseidon` aligns common action around shared moral, spiritual, or ideological purpose.
-- Chart expression: cooperative work grounded in common convictions, with people acting together because they are joined by the same ethical or worldview commitments.
+In `Mars/Node = Poseidon`, Poseidon specifies shared action through common moral or ideological inclinations. Witte supplies that basis explicitly; ABC develops the practical expression as clarifying relationships, activating mental connections, and mediating truth or cultural work. The connection rests on similar convictions without establishing that the group's views are necessarily correct or superior. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105)
 
 ## Links
 

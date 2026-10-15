@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,25 +30,47 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
 - Triad hub: [Neptune Kronos Admetos](../triads/neptune-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Uncertain exclusive position. Passing special mission. Not to be equal to a special position, to be deceived as to the true conditions. Concealed treacnerous deeds.
+- Source reference: one-based PDF p. 300, Kronos + Admetos, Neptune row.
+
+Uncertain exclusive position. Passing special mission. Not to be equal to a special position, to be deceived as to the true conditions. Concealed treacherous deeds.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dissolving of major depressions, special perseverance in the water, blocked self governingness in the air, ending of a large weak, large circulatory weakness, self sustaining deepening in metaphysics, stabilizing the future of the state, developing water circuit control Special perseverance, and unfolding of a solid Authoritat
+- Source reference: printed p. 463; one-based PDF p. 230, Kronos + Admetos, Neptune row.
+
+Dissolution of great depressions, special perseverance in water, blocked independence in the air, end of a great weakness, great circulatory weakness, independent deepening in metaphysics, stabilization of the state's future, and direction of the water cycle.
+
+The Pluto glyph begins the following paragraph, starting "Besondere Ausdauer entwickeln"; those development and authority clauses belong to [Kronos/Admetos = Pluto](kronos-admetos-equals-pluto.md#abc-entry).
+
+## Comparative Schema
+
+- **Core meaning:** An uncertain or temporary special position coexists with ABC's dissolution of depression, ending of weakness and stabilization.
+- **Psychology:** Deception about circumstances or inability to meet the demands of a special role.
+- **Body/health:** ABC lists circulatory weakness; this is a historical attribution, not a diagnosis.
+- **Social/relationship:** Witte's concealed treachery concerns conduct around an uncertain position.
+- **Events/manifestations:** A passing mission; ABC separately mentions water endurance and state stabilization.
+- **Conflicts/notes:** ABC's water-cycle and metaphysical examples are distinct from Witte's uncertain mission; the following Pluto paragraph is kept separate.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 300 (entry start); [ABC entry](#abc-entry), printed p. 463.
+
+## Contradictions
+
+Witte emphasizes uncertainty and deception in a special position. ABC includes weakness but also dissolution of great depressions, the end of a great weakness and stabilization of the state's future, alongside metaphysics and water-cycle direction. Its favorable alternatives remain distinct from Witte's uncertainty, without forming one inevitable sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Neptune`: an unstable exclusive role, a passing special mission, unfitness for a special position, and concealed treachery hidden inside uncertain conditions.
-- Main caution: separation and status can become confused, deceptive, or unsustainable unless the true conditions are seen clearly.
+In `Kronos/Admetos = Neptune`, Neptune makes the special position uncertain or transitory: a mission may pass, its conditions may be misunderstood, or the person may be unequal to its demands, as the [Witte entry](#witte-entry) states. The [ABC entry](#abc-entry) supplies separate examples of the dissolution of great depressions, the end of a great weakness, independent metaphysical inquiry, water-cycle direction and stabilization of the state's future. These broaden the range without making development of authority, which belongs to the next Pluto paragraph, part of this orientation.
 
 ## Links
 

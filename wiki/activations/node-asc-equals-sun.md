@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Sun`
 - Astronomicon formula: `g/Asc = S`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 Close personal connections. Physically being together with other people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `104`, PDF p. `51` (entry).
+
 #### ABC Entry
 
-Meetings with anderen in one centre, men meetings on the ground, human contacts in the environment, partner meetings for men, personal meetings on the spot, personal contacts with others, and association with other men
+Encounters with others at a center, meetings of men at a place, human contacts in the surroundings, partner mediation for men, personal encounters at a place, personal connection with others, and connection with other men
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `301`, PDF p. `303`, entry code `1083`.
 
 #### Ebertin Entry
 
 Cultivation of social contacts and social entertainment. Desire to meet other people. A new contact with a man.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `119` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To be aware of and objective about how one’s connections to others affect one�
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356`, PDF p. `357` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Showing personal authority and sincerity when working with others; the reliabili
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: close personal presence and cultivation of social contacts.
+- psychology: self-awareness about relationships contrasts with self-importance and attachment to past identity in Sandbach.
+- body/health: physical togetherness is stated without a medical condition.
+- social/relationship: friends' mutual influence, sincerity and reliability of promises are explicit.
+- events/manifestations: meeting others, social entertainment and developing personal goals are named.
+- conflicts/notes: the entries do not establish a necessary need for group centrality or external validation.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize personal contact and social meetings. Munkasey adds sincerity and goals; Sandbach adds a specific distinction between awareness and ego-reinforcing ties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Sun`: visible sociability, confident teamwork, and the ability to form identity through lively, meaningful contact. Main caution: ego through belonging: self-expression can become too dependent on validation from others or on being central inside the group.
+Node/Asc = Sun emphasizes personally meeting and working with others. [Witte](#witte-entry) names physical togetherness, and [Ebertin](#ebertin-entry) describes cultivating social contact. [ABC](#abc-entry) adds local encounters and partner mediation, while [Munkasey](#munkasey-entry) emphasizes sincerity, reliable promises and personal goals. [Sandbach](#sandbach-entry) contrasts awareness of how ties shape identity with connections that reinforce self-importance or attachment to the past (PDF p. 119). The supported caution concerns those effects, without assuming a need to be central in a group.
 
 ## Links
 

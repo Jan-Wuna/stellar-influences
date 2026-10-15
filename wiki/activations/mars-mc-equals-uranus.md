@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Uranus MC](../triads/mars-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 The possibility of becoming violent. Exciting consequences. Explosive expression of a will. Unconsidered action. Explosive moment.
 
@@ -45,17 +49,23 @@ The possibility of becoming violent. Exciting consequences. Explosive expression
 
 #### ABC Entry
 
-Exciting soul impulses, animated will impulses, my exciting activity, my new work, my work technique, my tchnic arity my restless activity, and my rhythmic actions
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+Exciting soul impulses, soulful impulses of will, I am tense at work, my exciting activity, my new work, my work technique, my technical work, my restless activity, and my rhythmic actions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0777.
 
 Desire to advance quickly in life, tendency to act rashly or without thinking, a quick temper, inclination to become furious or violent. Unexpected setbacks, hindered plans.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77. The source itself prints “One need” and “even usual”; the latter is unclear in its discussion of uniqueness.
 
 One need to allow one’s uniqueness to manifest, and to find ways of assisting and supporting it. One has a very individual and even usual contribution to make to the world.
 
@@ -70,22 +80,21 @@ Assists you in realizing how you are unique as a person and what you can do to s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Excited or rapid action and the expression of personal uniqueness.
+- psychology: Impatience, quick temper, and a desire to make an individual contribution.
+- body/health: Violence is a historical source possibility, not a diagnosis or necessary behavior.
+- social/relationship: Showing others one's uniqueness; possible conflict through rash action.
+- events/manifestations: Unexpected setbacks, hindered plans, new or technical work, restless activity, and rhythmic actions.
+- conflicts/notes: Sandbach's “even usual contribution” is unclear in the source; its meaning is not silently changed to “unusual.”
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize rash or explosive action, while Sandbach and Munkasey emphasize individuality. These different emphases do not establish that a distinctive contribution must be violent.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Uranus`: unusual authority, reforming force, sudden career turns, and bold action that refuses stale structures. Main caution: volatility: impatience and quick temper can turn ambition into rash moves, upheaval, or public setbacks.
+In `Mars/MC = Uranus`, Uranus specifies personal action through heightened excitement and an urge to advance or express individuality. ABC includes tension at work, new and technical work, and restless or rhythmic activity. Witte and Ebertin emphasize rashness, quick temper, and possible setbacks; Sandbach and Munkasey emphasize expressing a distinctive contribution. These are different possibilities, not evidence that uniqueness necessarily produces violence. Sandbach's unclear “even usual” wording does not add a further claim. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 73 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0777; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

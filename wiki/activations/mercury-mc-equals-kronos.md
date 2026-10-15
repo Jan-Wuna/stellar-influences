@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury MC Kronos](../triads/mercury-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 Thoughts are directed toward the higher things of life. To make observations about the power of the state or authorities. To be intellectually confident.
 
@@ -42,13 +46,29 @@ Thoughts are directed toward the higher things of life. To make observations abo
 
 #### ABC Entry
 
-Especially soulful speaking, thoughts of a great soul, describing the importance of the soul, I think of the state, I think of the boss, I speak of the hierarchy, my authoritarian thinking, and superiority of inspired thoughts
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Besonders seelenvolles Sprechen, Gedanken einer großen Seele, die Wichtigkeit der Seele beschreiben, ich denke an den Staat, ich denke an den Chef, ich spreche von der Hierarchie, mein Autoritäts-Denken, Überlegenheit beseelter Gedanken
+
+Editorial translation from the German passage: Especially soulful speaking; thoughts of a great soul; describing the importance of the soul; I think of the state; I think of the boss; I speak of hierarchy; my thinking about authority; superiority of soulful thoughts.
+
+## Comparative Schema
+
+- core meaning: Personal thought directed toward authority, hierarchy, and higher concerns.
+- psychology: Intellectual confidence in Witte.
+- body/health: No specific bodily or health statement appears.
+- social/relationship: Observing state power, bosses, and hierarchy.
+- events/manifestations: Comments or reflection on authorities and the state.
+- conflicts/notes: Thinking about authority does not establish authoritarian conduct or public office.
+
+## Contradictions
+
+Witte's intellectual confidence and ABC's concern with state or hierarchy do not establish that the person holds office or imposes their views on others.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/MC = Kronos` elevates the axis into higher thought, state observation, and intellectual confidence.
-- Chart expression: ideas oriented toward higher matters of life, confident observation of authorities or state power, and self-direction strengthened by elevated judgment.
+Kronos specifies Mercury/MC through a personal outlook concerned with authority and what the [Witte entry](#witte-entry) calls the higher things of life. Intellectual confidence accompanies observation of state power or authorities; [ABC](#abc-entry) gives parallel subjects in the state, a boss, and hierarchy. The passages support confident attention to authority, without proving that the thinker holds office or acts authoritatively toward others.
 
 ## Links
 

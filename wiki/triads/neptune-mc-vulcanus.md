@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune MC Vulcanus`
 - Astronomicon triad-set: `Y MC §`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Vulcanus = Neptune](../activations/mc-vulcanus-equals-neptune.md)
-- [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md)
-- [Neptune/Vulcanus = MC](../activations/neptune-vulcanus-equals-mc.md)
+- [MC/Vulcanus = Neptune](../activations/mc-vulcanus-equals-neptune.md): base axis [MC/Vulcanus](../axes/mc-vulcanus.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md): base axis [Neptune/MC](../axes/neptune-mc.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Neptune/Vulcanus = MC](../activations/neptune-vulcanus-equals-mc.md): base axis [Neptune/Vulcanus](../axes/neptune-vulcanus.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `MC/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `97`
-- `Neptune/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `81`
-- `Neptune/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
-- `Neptune/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `404`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Vulcanus = Neptune](../activations/mc-vulcanus-equals-neptune.md#witte-entry) (PDF entry-start p. 76); [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md#witte-entry) (PDF entry-start p. 68); [Neptune/Vulcanus = MC](../activations/neptune-vulcanus-equals-mc.md#witte-entry) (PDF entry-start p. 253).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Vulcanus = Neptune](../activations/mc-vulcanus-equals-neptune.md#abc-entry) (printed p. 97); [Neptune/MC = Vulcanus](../activations/neptune-mc-equals-vulcanus.md#abc-entry) (printed p. 81); [Neptune/Vulcanus = MC](../activations/neptune-vulcanus-equals-mc.md#abc-entry) (printed p. 404).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Neptune`: dissolves the axis through total missing of aim and loss of power.
-- `Neptune/MC = Vulcanus`: This activation intensifies imagination and refinement of feeling until deception or pretension swells to grand proportions, often with exaggerated displays of power or influence.
-- `Neptune/Vulcanus = MC`: The life direction or immediate situation is colored by major disappointment, susceptibility to deception, or the experience of being defrauded.
+Neptune, MC and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Neptune/Vulcanus = MC ABC entry](../activations/neptune-vulcanus-equals-mc.md#abc-entry) retains “Afflosung”, “I veme force” and “breathKall”. These specific transcription/translation limits require source verification; the paragraph remains represented.
 
 ## Links
 
+- [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Neptune/MC](../axes/neptune-mc.md)
+- [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)

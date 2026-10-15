@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Mercury`
 - Astronomicon formula: `X/MC = T`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
-become energetic. To use harsh words. Tension created by a call.
+To become energetic. To use harsh words. Tension created by a call.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 78; PDF p. 38.
+
 #### ABC Entry
 
-Exciting speech per minute, animated impulses through youth, dynamic language of the soul, my nervousness in speech, my movement rhythm, my tensions in youth, and psychic tension in speech
+Exciting conversations in the minute, soulful impulses through youth, dynamic language of the soul, my nervousness in conversation, my rhythm of movement, my tensions in youth, emotional tension in conversation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 278; PDF p. 280; entry code `0989`.
 
 #### Ebertin Entry
 
 Speaking with excitement, nervous unrest, an excitable nervous system. The stage of expectancy, an excited discussion amongst people, realization of sudden ideas.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ A greater mental cleverness and variety of expression; being more creative and i
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 78; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0989), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Original thinking expressed with intensity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Excitement, expectancy, and nervous unrest. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's excitable nervous-system wording remains attributed, not a diagnosis. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Sharing ideas through conversations, learning, and public expression. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden ideas, tense calls, and scholarly recognition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Original expression and harsh words are different uses of intensity. Munkasey's awkward 'notoriety in for' wording remains unchanged, without a precise reputation judgment.
 
 ## Contradictions
 
-- None recorded yet.
+Inventive expression and nervous or harsh conversation are different possibilities. Munkasey's awkward 'notoriety in for' is preserved; the entry is not used to determine whether a particular reputation is favorable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Mercury`: progressive messaging, technical or strategic intelligence, and the ability to reframe one's mission through insight or communication. Main caution: nervous overstimulation: erratic thought or contrarian speech can disrupt coherence and weaken follow-through.
+Mercury specifies Uranus/MC through excited communication and the expression of original ideas. Inventiveness and varied methods of learning can support a distinctive intellectual contribution, while harsh words, a tense call, or an excited discussion show how that same intensity enters conversation. Ebertin's nervous unrest remains alongside the inventive possibilities; intensity alone does not decide the quality of the communication. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

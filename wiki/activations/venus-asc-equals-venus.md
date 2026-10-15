@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Asc = Venus`
 - Astronomicon formula: `Q/Asc = Q`
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
@@ -41,22 +43,23 @@ Lends an air of being a civil and polished person to your personality; added coo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Polished conduct and considerate cooperation.
+- Psychology: A civil, charming personal manner.
+- Body/health: No specific health claim.
+- Social/relationship: Satisfaction through cooperative relationships.
+- Events/manifestations: Charming others through abilities and conduct.
+- Conflicts/notes: This repeated-pair entry offers cooperation, polished conduct, and interpersonal satisfaction.
+
+The categories follow the local source entries: [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+This repeated-pair entry offers cooperation, polished conduct, and interpersonal satisfaction. Its single source supplies neither a distinct third factor nor a separate adverse range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Venus`: Lends an air of being a civil and polished person to one's personality; added cooperation and consideration toward others; helps bring satisfaction with one's interpersonal relations; one charm others with one's abilities and ways.
+In the repeated-pair formula Venus/Asc = Venus, Venus specifies the pair through the way civility and consideration shape personal contact. Munkasey connects a polished manner with cooperation and greater satisfaction in relationships. The emphasis is charm enacted through conduct, without adding a separate three-factor interpretation. ([Munkasey](#munkasey-entry).)
 
 ## Links
 

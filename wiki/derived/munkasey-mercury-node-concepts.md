@@ -6,12 +6,14 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Mercury/Node` as source-native image material.
+Preserve Munkasey's `Mercury/Node` concept phrases from the third page of the pair's source entry as supplementary source-native image material.
+
+For delineation, start with the [canonical Mercury/Node interpretation](../axes/mercury-node.md#derived-synthesis). For an explicit formula, use the [axis page's activation list](../axes/mercury-node.md#related-activations) to locate the exact orientation.
 
 ## Evidence Base
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Mercury/Node` as source-native i
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+These are prompts from one source, not independent corroborating claims. The list supplies no activation factor after `=` and does not establish that its images apply together.
+
+"Learns Cooperation", "Swift Separations" and "Easily Lets Go of Another" preserve different forms of association and release. "Intellectual Karma" and "Two-way Sense of Destiny" remain Munkasey's vocabulary, not established facts about a person's fate. The source itself prints "A Flexible Attitudes" on p. 177; its intended grammatical form is unclear, so it remains uncorrected.

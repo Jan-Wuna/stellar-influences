@@ -6,12 +6,14 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Mercury/Asc` as source-native image material.
+Preserve Munkasey's `Mercury/Asc` concept phrases from the third page of the pair's source entry as supplementary source-native image material.
+
+For delineation, start with the [canonical Mercury/Asc interpretation](../axes/mercury-asc.md#derived-synthesis). For an explicit formula, use the [axis page's activation list](../axes/mercury-asc.md#related-activations) to locate the exact orientation.
 
 ## Evidence Base
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Mercury/Asc` as source-native im
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+These are prompts from one source, not independent corroborating claims. The list supplies no activation factor after `=` and does not establish that its images apply together.
+
+"Clever at Reading People", "Represses Another’s Ideas" and "Questions Reality" describe different possibilities, not a single account of interpersonal skill. Keep observing another person's style distinct from influencing or inhibiting that person.

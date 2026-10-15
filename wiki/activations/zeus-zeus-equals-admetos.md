@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Zeus/Zeus](../axes/zeus-zeus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 #### Witte Entry
 
-Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in-chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
+- PDF page: 288 (one-based), Admetos glyph row.
+
+First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
+
+## Comparative Schema
+
+- core meaning: The first shaping of a work or material through difficulty and sustained struggle.
+- psychology: Tackling a problem and battling through a beginning.
+- body/health: No bodily or medical account is given.
+- social/relationship: No specific relationship setting is supplied.
+- events/manifestations: Originating, forming raw materials, mining and refining; lava and igneous rock.
+- conflicts/notes: Tragedy is also named, so difficult beginnings are not automatically successful.
+
+## Contradictions
+
+The prior passage about energetic authority, government and fire protection belongs to Kronos. The raw Admetos glyph row concerns first beginnings, shaping, struggle and raw materials. This is a source-association repair, not an interpretive disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Zeus = Admetos`: Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in-chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
+In `Zeus/Zeus = Admetos`, Admetos specifies the repeated Zeus pair through the difficult first shaping of something. The corrected [Witte entry](#witte-entry) connects genesis and tackling problems with forming and processing raw materials, including ore, lava and igneous rock. Beginning a work is presented as an effort to give resistant material a form.
+
+Struggle and tragedy remain in the entry's range. It does not guarantee that persistence brings a successful outcome.
 
 ## Links
 

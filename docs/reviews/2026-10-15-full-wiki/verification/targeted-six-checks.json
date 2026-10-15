@@ -1,0 +1,500 @@
+{
+  "reviewer": "/root/activation_review_057_059",
+  "date": "2026-10-15",
+  "scope": "Six previously reviewed pages; bounded source repairs and dependent prose only; original records amended in place.",
+  "review_counts_added": 0,
+  "changed_source_subentries": 11,
+  "personally_viewed_raw_page_proofs": 12,
+  "normalization": "Source Entries body excludes heading and terminal next-section HTML anchor; CRLF to LF, then strip.",
+  "proof_record": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-source-repairs.jsonl",
+  "pages": [
+    {
+      "path": "wiki/activations/hades-kronos-equals-vulcanus.md",
+      "page_sha256": "76475b57f4a601dc13608938f5d2cb0732fc3b6a57e3cbdef5402c474da8225e",
+      "before_sha256": "ee4c725d52f0de1a07919d721d7bfd72c2022def124c7b74f658483ee62e285c",
+      "after_sha256": "ccede2d14df15d62e5bfe96d06aa66fa275376449719bdbfd3cca452524cffc5",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+          "line": 1,
+          "reviewer": "activation_013_014",
+          "record": {
+            "path": "wiki/activations/hades-kronos-equals-vulcanus.md",
+            "reviewer": "activation_013_014",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Missing comparative schema; force-only synthesis; damaged Witte opening; ABC state-violence mistranslation."
+            ],
+            "changes": [
+              "Added Identity link, six categories, bounded contradictions and linked prose retaining state weakness.",
+              "Bounded source follow-up by activation_review_057_059: restored Witte's Great brutality, meanness and evil from the exact Vulcanus row and ABC's criminal violence against the state; updated dependent events, conflict note and synthesis while retaining state weakness."
+            ],
+            "verification": [
+              "Complete page and manifest read; diff checked against both entries; exact orientation and adjacent anchor checked.",
+              "Personally viewed fresh targeted-six-witte-pdf279.png and targeted-six-abc-pdf219.png (printed441); checked complete Vulcanus glyph rows and neighbors. Witte's three sentences and all eight ABC clauses match the saved source blocks.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "Witte Entry; parser one-based PDF 279 entry start",
+              "ABC Entry; German/English cache, printed 441",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf279.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf219.png"
+            ]
+          },
+          "record_sha256": "026c8e894393c9aff8fa06acfbece21165707f4070d8733572955f816acd31cd",
+          "ledger_records": 55
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 2,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-neptune.md",
+      "page_sha256": "86be04c673f0eb910808e680f0b4554dcda4087132129fcb684b6b7ace4b6aed",
+      "before_sha256": "0f3ef2c8f7ba3ac7132be5d392291fbd6fcde67c2b04ded79e28bf8939cc16ce",
+      "after_sha256": "61359413fb9910e8b8e826485b9464b4b96edd6374d7d5536e0660679ff95129",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+          "line": 13,
+          "reviewer": "activation_013_014",
+          "record": {
+            "path": "wiki/activations/hades-poseidon-equals-neptune.md",
+            "reviewer": "activation_013_014",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Missing schema; evasiveness inferred; ABC boundary missing before Endangered cultural development and incomplete tail."
+            ],
+            "changes": [
+              "Added six categories and linked obscurity/uncertainty account; separated misunderstanding from falsification.",
+              "Bounded source follow-up by activation_review_057_059: restored all seven Neptune ABC clauses, including dangerous cultural weakness and weakness of mind or spirit; removed the following Pluto cultural-development spillover and revised only dependent schema, limits and synthesis."
+            ],
+            "verification": [
+              "Full page/manifest/cache read; actual diff inspected; formula and immediate anchor checked.",
+              "Personally viewed fresh targeted-six-abc-pdf223.png, printed449. Neptune begins Auflösung der kulturellen Vergangenheit and ends Unsicherheit durch Mangel an Klarheit; the next Pluto glyph begins Gefährdete Kultur-Entwicklung and is excluded.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "Witte Entry; PDF 286 entry start",
+              "ABC Entry; printed 449 cache; adjacent Pluto fragment",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf223.png"
+            ]
+          },
+          "record_sha256": "99a4efe1b132a79de56d34d1307e9a4f9664306188c20d79ef37ae8c5a3241b6",
+          "ledger_records": 55
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 1,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-mc.md",
+      "page_sha256": "abd3344eea31526afcf49d7456aaf4b073229a931f3ac75116d851f7922ab5b2",
+      "before_sha256": "7bceee395baa75a4498fe44fc20a89e0a6fbe03a5a47e127c9e9f13b77ed2d3a",
+      "after_sha256": "3057133a9a0f9a62c2ec3da5841d33bc4085c8d5b3fb624ad754e9746ac6c86f",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+          "line": 31,
+          "reviewer": "activation_017_018",
+          "record": {
+            "path": "wiki/activations/jupiter-neptune-equals-mc.md",
+            "reviewer": "activation_017_018",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Comparative Schema contained storage filler.",
+              "Original main explanation required orientation-specific evidence links: - `Jupiter/Neptune = MC`: imaginative purpose, generous ideals, and a path shaped by inspiration, compassion, or broad hopes for the world. Main caution: fortune-hunting or squandering: idealism can drift into vagueness, speculation, or lack of concrete responsibility if not anchored in reality.",
+              "ABC p. 328: entire English entry `Is the Commission aware of the fact that` is unrelated translation contamination; cached English adds EU/Treaty-of-Rome text absent from damaged German. Excluded entirely.",
+              "Ebertin `49 To MC = JupiteiTNeptune` contains footnote/OCR debris; Sandbach `spiri tual` is a word-break artifact."
+            ],
+            "changes": [
+              "Added Identity route and ensured immediately adjacent stable synthesis anchor.",
+              "Replaced main explanation with connected prose for Jupiter/Neptune = MC.",
+              "Mapped six categories to this page evidence: Imaginative or speculative hopes become part of one's personal role and aims.",
+              "Preserved all pre-existing links and unaffected source entries; added bounded source/contradiction and exact repaired-entry locator notes.",
+              "Bounded source follow-up by activation_review_057_059: replaced the Commission artifact with all eight actual ABC MC clauses; separated Ebertin0817 body and footnote49 and restored Jupiter/Neptune spelling; joined Sandbach's spiritual word break and gave exact MC page82. Integrated sensitivity, inward joy and financial/legal uncertainty into the existing schema/synthesis."
+            ],
+            "verification": [
+              "Read complete page including frontmatter, source entries, notes and all links in untruncated output.",
+              "Consulted assigned manifest record and matching source-evidence records.",
+              "Inspected actual diff additions against source entries.",
+              "Compared actual revised file to authored patch; canonical frontmatter preserved (except editorial date), and source changes limited to the verified ABC, Ebertin and Sandbach blocks.",
+              "Confirmed six schema categories, Identity route and adjacent anchor in actual file.",
+              "Personally viewed fresh ABC163/printed328 MC row with both neighbors, Ebertin235/printed233 entry0817 and complete footnote49, and Sandbach81–82 chapter/MC paragraph before Jupiter/Pluto. All source changes and new locators match actual raw passages.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [
+              "ABC's water and air phrases do not specify a technical setting; they remain literal source claims. Retained WittePDF209 and Munkaseyprinted264 locators were not newly verified in this bounded repair."
+            ],
+            "evidence": [
+              "ABC MC row: printed328/PDF163, personally checked in targeted-six-abc-pdf163.png.",
+              "wiki/activations/jupiter-neptune-equals-mc.md#witte-entry; {\"system\":\"pdf_one_based\",\"page\":209,\"pdf_page\":209,\"granularity\":\"entry_start\"}; parser-derived, not visually verified",
+              "Ebertin coded entry0817 and footnote49: printed233/PDF235, personally checked in targeted-six-ebertin-pdf235.png.",
+              "Sandbach Midheaven paragraph: PDF82; chapter starts PDF81. Both actual pages personally checked in targeted-six-sandbach-pdf081.png and targeted-six-sandbach-pdf082.png.",
+              "wiki/activations/jupiter-neptune-equals-mc.md#munkasey-entry; {\"system\":\"printed\",\"page\":264,\"granularity\":\"entry_page\"}; parser-derived, not visually verified",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf163.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-ebertin-pdf235.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-sandbach-pdf081.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-sandbach-pdf082.png"
+            ]
+          },
+          "record_sha256": "801ef87b149fb2612ab3f344f4c251ce80659447942c927a595f79edd14ec70d",
+          "ledger_records": 47
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 3,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": [
+        "ABC's water and air phrases do not specify a technical setting; they remain literal source claims. Retained WittePDF209 and Munkaseyprinted264 locators were not newly verified in this bounded repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+      "page_sha256": "2f8e85bc71f55d9145b2e23efaca59324a0aee358bdd18666fcf86c461a19412",
+      "before_sha256": "069d91e008df7a2fa43c83f41913c463009ed2815f585c9f154b42a7a38c6253",
+      "after_sha256": "e7ca9832e2785f0f5a522b11f813c3b341d07f41811ffd006fba173657e2cb26",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+          "line": 31,
+          "reviewer": "activations_028_029_leaf",
+          "record": {
+            "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+            "reviewer": "activations_028_029_leaf",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Original comparative categories were absent or storage filler; synthesis needed connected exact-orientation explanation and entry traceability.",
+              "ABC Entry is repeated '(v)' garbage at printed p. 300/PDF p. 149; original German OCR also damaged; excluded pending repair."
+            ],
+            "changes": [
+              "Added Identity interpretation link, six meaningful schema categories, bounded contradiction assessment, and immediately adjacent anchor.",
+              "Rewrote the exact-formula interpretation around serious, patient public work, disruption and losses; distinguished Witte's historical general manifestations from a necessary individual outcome.",
+              "Replaced the damaged ABC row after actual scan verification; retained only the source's stated public-work range and attributed historical examples.",
+              "Bounded source follow-up by activation_review_057_059: replaced all repeated (v) garbage with the actual six-clause ABC Vernal Point row on serious/patient/hard public work, disruption, public tasks and actions involving losses. Revised the dependent comparison and connected exact-formula synthesis without changing Witte's historical examples."
+            ],
+            "verification": [
+              "Completely read page and owned manifest record; read filtered source evidence including German/English where present.",
+              "Compared final Source Entries with pre-follow-up copy: only the personally verified ABC row and its exact reference changed.",
+              "Verified frontmatter and Links preservation, six schema categories, Identity navigation, and immediate synthesis anchor adjacency.",
+              "Checked exact activated factor against formula and cited local entry headings/locator granularity.",
+              "Personally viewed fresh targeted-six-abc-pdf149.png, printed300; Vernal Point row begins Ernste Öffentlichkeits-Arbeit and ends verlustreiche Handlungen im öffentlichen Leben, before MC. All six clauses match; no MC or other activator text imported.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/mars-saturn-equals-vernal-point.md#abc-entry; printed 300; entry",
+              "wiki/activations/mars-saturn-equals-vernal-point.md#witte-entry; pdf_one_based 193; entry_start",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf149.png"
+            ]
+          },
+          "record_sha256": "cc65d129d9fbc9004f5129afa30a4268a3e0107eee46205ed0a8c40d6bb0f563",
+          "ledger_records": 50
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 1,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+      "page_sha256": "8cfb25aeb627b0202542c5c1dc5ffa32f1b7077f02e87db096f75066920280c9",
+      "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+      "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-091.jsonl",
+          "line": 39,
+          "reviewer": "activations-091-092-leaf",
+          "record": {
+            "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+            "reviewer": "activations-091-092-leaf",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Keyword synthesis repeated damaged translation; six-category schema and contradiction assessment absent.",
+              "“exchangeable” and “massive love exchange” mistranslate Enttauschende/Enttauschung; “strong I, to metaphysics” is incomplete"
+            ],
+            "changes": [
+              "Explained uncertainty, transient or pretended affection and disappointment alongside ABC's subtle love energy, metaphysical/artistic influence and peace-related range.",
+              "Added early interpretation link, six evidence-based categories, bounded contradictions, local evidence links and adjacent anchor; excluded damaged wording.",
+              "Bounded source follow-up by activation_review_057_059: replaced Uranus's misplaced sudden-attraction Witte row with Neptune's complete Faked or pretended love/Passing fancy/confused sexual urge row. Restored all nine ABC Neptune clauses, including disappointment, subtle love energy, art influences, weak peace power and love of metaphysics. Replaced dependent sudden-passion schema/synthesis with exact Neptune meanings."
+            ],
+            "verification": [
+              "Read full page and manifest record.",
+              "Inspected German evidence and locator granularity; compared revised prose to complete entries.",
+              "Actual saved diff inspected; canonical frontmatter preserved; verified both source-row replacements, exact orientation and adjacent anchor.",
+              "Personally viewed fresh targeted-six-witte-pdf188.png: both Uranus glyph variants label the preceding sudden-attraction row; Neptune labels the following three sentences and ends before Pluto. Fresh targeted-six-abc-pdf146.png, printed295, supplies exactly nine Neptune clauses before Pluto; all clauses checked against the saved translation.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [
+              "ABC's power of peace and water energy are retained literally; the brief row identifies no technical or institutional mechanism."
+            ],
+            "evidence": [
+              "wiki/activations/venus-vulcanus-equals-neptune.md#witte-entry (PDF188 entry-start)",
+              "wiki/activations/venus-vulcanus-equals-neptune.md#abc-entry (printed295/PDF146)",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf188.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf146.png"
+            ]
+          },
+          "record_sha256": "aa3926648e6f024032cc41276f6c4a6bf2d97a096151ef58efee555ca5570bbd",
+          "ledger_records": 55
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 2,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": [
+        "ABC's power of peace and water energy are retained literally; the brief row identifies no technical or institutional mechanism."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-asc.md",
+      "page_sha256": "6a22b20cdfb16be2ce802dd15b9b99c8ca272d407a98d7a295f8ae5bf1c312e9",
+      "before_sha256": "6afde52d7010ea0418d570c1992bd2431f6da4b507f4b13d16d4d218d7b576a7",
+      "after_sha256": "b912ecbfe65432592adc7edf2886d22158e117d3d0062124fd0587daddb0881d",
+      "owners": [
+        {
+          "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+          "line": 3,
+          "reviewer": "axes_019_020",
+          "record": {
+            "path": "wiki/axes/saturn-asc.md",
+            "reviewer": "axes_019_020",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Storage-oriented Comparative Schema and uncited summary obscured chosen solitude versus unwanted exclusion.",
+              "ABC 'urban environment' and 'stongness at the place' do not match usable German evidence.",
+              "Banzhaf/Haebler discord line includes an adjacent Saturn-MC career passage.",
+              "Witte page299 conflicts with parser PDF87 and repeats Munkasey's page metadata.",
+              "Blank line separated anchor and heading."
+            ],
+            "changes": [
+              "Wrote connected interpretation of selective contact, privacy, deep ties, estrangement, and creative response to role restrictions.",
+              "Replaced six storage descriptions with meanings; attributed health claims and separated adjacent-entry bleed.",
+              "Added route, source-limit notes, and adjacent anchor.",
+              "Bounded structural follow-up only: added exact existing oriented activation metadata and local links: Saturn/Asc = Asc, Saturn/Asc = Saturn. No doctrine rereview or additional count.",
+              "Bounded locator-only follow-up: replaced demonstrably copied Witte heading/page with actual ASCENDANT + SATURN PDF87 from complete exact raw pair-summary match; cleared only corresponding Witte locator caveat. No source wording, synthesis, identity or review count change; printed folio not claimed.",
+              "Bounded source follow-up by activation_review_057_059: repaired the complete ten-clause ABC pair summary, including disturbed surroundings and local disturbances. Removed only the following Saturn-MC heading/career-ladder bleed from Banzhaf/Haebler's discord line, preserving both native harmony/discord categories and all actual Saturn-Ascendant wording. Updated affected source-limit notes and synthesis sentence; kept earlier metadata/locator repairs."
+            ],
+            "verification": [
+              "Read all seven full source blocks, including long Munkasey categories and Banzhaf/Haebler tail.",
+              "Read actual diff and checked new prose against Hand, Munkasey, Ebertin, Witte, and Sandbach.",
+              "Captured-before comparison confirmed frontmatter and activation list preserved; final source changes are limited to the verified ABC pair summary and removal of Banzhaf/Haebler's following-entry bleed.",
+              "Checked all six categories, route, anchor adjacency, and local heading links.",
+              "Matched every added formula to its actual activation frontmatter normalized_formula and exact axis; verified final metadata equals complete actual formula set, local targets exist, all other frontmatter and prose/source sections remain identical to pre-correction file.",
+              "Personally read complete actual raw matching pair passage and source-native heading, then inspected exact locator/caveat replacement. Asserted all source wording, Derived Synthesis, identity metadata and other text remain identical to pre-follow-up file. Existing original record amended in place.",
+              "Personally viewed fresh targeted-six-abc-pdf056.png, printed114, bold Ascendant/Saturn pair summary. Fresh targeted-six-banzhaf-pdf334.png shows the complete Saturn-Ascendant harmony/discord blocks, discord ending Stands in one's own way, and a separate boxed Saturn-Medium Coeli heading. Compared actual diff and all preserved source-native categories.",
+              "Bounded follow-up read complete current page and full original owner record, inspected actual saved diff, and preserved canonical identity, unedited source blocks and native categories; no new page-review count."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "Hand Pair Delineation: few but deep, necessary/restrictive ties and older people.",
+              "Munkasey Basic Ideas and personal/relationship categories: chosen inner space and selective input.",
+              "Ebertin psychological and manifestation categories; Sandbach Principle/Process; Witte Pair Summary.",
+              "source-evidence.jsonl: Udo German printed114-115/PDF56; Hand PDF210 entry start; Ebertin printed259; Munkasey printed299; Sandbach PDF94 chapter-start; parser locators not visual checks.",
+              "verification/axes-bounded-witte-locators-raw.txt: saturn-asc actual PDF87 complete exact pair-summary match.",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf056.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-banzhaf-pdf334.png"
+            ]
+          },
+          "record_sha256": "27809a3da13e405801a8c13becd3c421cce6129822c27ed9af8715e4e830ac8d",
+          "ledger_records": 10
+        }
+      ],
+      "six_categories": true,
+      "anchor": true,
+      "bad_links": [],
+      "frontmatter_preserved": true,
+      "matches_authored_edits": true,
+      "source_titles_preserved": true,
+      "changed_source_blocks": 2,
+      "unaffected_source_blocks_unchanged": true,
+      "original_owner_preserved": true,
+      "unresolved": []
+    }
+  ],
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf056.png",
+      "sha256": "6789f558726a56e157bc56591af4d5ec0d1a96b81f7d5a859f37aff9dfdafff8",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf146.png",
+      "sha256": "5f225e1616cda75491b561b4905748b174b2984da1b7de29e1e3f373c94a6c89",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf149.png",
+      "sha256": "4e61ae27e656f2f36e8aa1763e0b3fed8203b28a429a8249a291f0da0c0048a9",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf163.png",
+      "sha256": "94b65b20c9806b2ac634a55e466cfefbd2d0bcf974ad501de22e5c5d1afe7655",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf219.png",
+      "sha256": "3eab67644f5a1b559bf36b1d53500c88bf9b7ebdfc4f971aceb45b90a321894a",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf223.png",
+      "sha256": "310ff032ba5b3c6279562d127449472502776f240f4e030afdb828035da44579",
+      "format": "PNG",
+      "dimensions": [
+        3200,
+        2135
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-banzhaf-pdf334.png",
+      "sha256": "2c329b02cf51e7007346803f6a76e6839318f4c7ff62ebd7f929a9a7bfe849d2",
+      "format": "PNG",
+      "dimensions": [
+        1855,
+        2400
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-ebertin-pdf235.png",
+      "sha256": "58b87e56fb74564cb89a35b22206485c9764ab575f08a856258a220d6fea2b8f",
+      "format": "PNG",
+      "dimensions": [
+        1425,
+        2400
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-sandbach-pdf081.png",
+      "sha256": "e8e3842b027a9d978d8feabc9497154f8e953928dc5ed1e40219c7be24d5487a",
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-sandbach-pdf082.png",
+      "sha256": "8a8f437a277572c028d0816c157ea4875dc879e56e8779a7dcca7d96d91ecff1",
+      "format": "PNG",
+      "dimensions": [
+        1672,
+        2400
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf188.png",
+      "sha256": "ca9b44e3e3dd68bab396639f4a5f45b59a4ea778c67c3ada485f6072b0b99df2",
+      "format": "PNG",
+      "dimensions": [
+        1705,
+        2400
+      ],
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf279.png",
+      "sha256": "e6763e2f5b77e0c427cf8cad4b586a6ca2f8857bc4e440630d2a2c310b41cd4a",
+      "format": "PNG",
+      "dimensions": [
+        1700,
+        2400
+      ],
+      "personally_viewed": true
+    }
+  ],
+  "whitespace_exit_code": 0,
+  "pending_patch_resolution": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-pending-hades-kronos.patch",
+      "status": "resolved: root applied exact saved patch via required Python/native apply_patch argv; author personally read back complete page and compared exact authored changes."
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-pending-hades-poseidon.patch",
+      "status": "resolved: root applied exact saved patch via required Python/native apply_patch argv; author personally read back complete page and compared exact authored changes."
+    }
+  ],
+  "independent_source_acceptance": "Pending external checker; this author does not approve these repairs.",
+  "failures": []
+}

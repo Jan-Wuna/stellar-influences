@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Neptune Asc](../triads/venus-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Wrong love mate. Tied to an unhappy love. Acquaintance with people suffering fro
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-exchanging peace in the environment, exchanged lovePartncr, Harrnonian environment in the water, art on the Wac:;ser, love expectation of the partner, and unsafe peace in the place
+Dissolution of love for the partner, disappointing peace in the surroundings, a disappointed love partner, harmony with the partner through sensitivity, harmonious surroundings in water, a place of art by the water, the partner's expectation of love, and uncertain peace locally.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `189`, coded entry `0636`.
 
 #### Ebertin Entry
 
 A peculiar disposition with regard to love life, impressionable, lack of good taste. A union with persons of a peculiar disposition, disappointment in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ An appreciation of how reality can be altered for your own enjoyment and pleasur
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Subtle or idealized personal contact, with disappointed partnership as an adverse range.
+- Psychology: Romantic self-identification, impressionability, and intuitive sharing.
+- Body/health: The entries supply no specific bodily or medical condition.
+- Social/relationship: Unhappy attachment, a disappointed partner, or deep sharing through sensitivity.
+- Events/manifestations: Otherworldly beauty, artistic places by water, and participation in another's fantasy.
+- Conflicts/notes: Sandbach's spiritual and intuitive contact contrasts with the older entries' strongly adverse partnership emphasis.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's spiritual and intuitive contact contrasts with the older entries' strongly adverse partnership emphasis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Asc`: artistic self-presentation, compassionate demeanor, and the ability to evoke romance or sympathy through personal style. Main caution: weak definition: attractiveness can become projection-prone, vague, or too porous to hold clear boundaries.
+`Venus/Neptune = Asc` places refined or imagined love in direct contact with others. [Sandbach](#sandbach-entry) describes otherworldly beauty and subtle, intuitive sharing; the [ABC entry](#abc-entry) also allows harmony with a partner through sensitivity. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize unhappy or disappointing attachment more strongly. [Munkasey](#munkasey-entry) adds enjoyment through altered perceptions or indulging another's fantasy. The sensitivity may support intimate understanding or idealization, while disappointment remains a separate and substantial part of the source range.
 
 ## Links
 

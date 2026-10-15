@@ -1,0 +1,1417 @@
+[
+  {
+    "path": "wiki/axes/chiron-asc.md",
+    "before_sha256": "8855095d6545a1a382223967e7a9577801a8f5d940d07296a91929bba1a9528d",
+    "after_sha256": "46517789b63938a681f1d2d6e0030449afba04659f02b4c87037145fbb7aee28",
+    "ledger": "axes-002.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF101 contains the complete Principle and starts Process; PDF102 opens with its final channel-spiritual-energies clause. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/chiron-asc.md",
+      "verification/axes-002-sandbach-raw.txt: PDF101–102."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/chiron-mc.md",
+    "before_sha256": "9981cf55f1425c9b728b4888fa477fc01225be2f32ef295173a65f7a55cf4f64",
+    "after_sha256": "356620efc72640a450a60a73384a38178ca15bd346bacf6c63d885078dc337fd",
+    "ledger": "axes-002.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF102 starts Principle; PDF103 completes Principle and contains complete Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/chiron-mc.md",
+      "verification/axes-002-sandbach-raw.txt: PDF102–103."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/chiron-neptune.md",
+    "before_sha256": "7ad9e61bef24b433f3d74c1d3f947772beb4c4cd2f9a321b55af63b397666752",
+    "after_sha256": "54a334aa6b9dc4db828750e0b3d7eb732daf1a8251b079ea9fc58bbf647d60e0",
+    "ledger": "axes-002.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF97 ends with chapter heading only; PDF98 contains complete Principle and Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/chiron-neptune.md",
+      "verification/axes-002-sandbach-raw.txt: PDF97–98."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/jupiter-chiron.md",
+    "before_sha256": "2d1cf6036f86d309ee0d27ea91f14ab3bdac79626b884f1fe4fb841198b0ecf5",
+    "after_sha256": "df695a2ae9c23a4b22e2b91e502cd468ca8140fa72f057e617c88cc8feb0786f",
+    "ledger": "axes-005.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF79 contains chapter heading and complete Principle and Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-chiron.md",
+      "verification/axes-005-sandbach-raw.txt: PDF79."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mars-chiron.md",
+    "before_sha256": "fe16aa63bcc1761ee013944c3c70b290641ad86440bbb73ba6e04033dfbc2482",
+    "after_sha256": "9a2938523d8566ce93fba50807d432ad47aef8721144c7f618c92e74ef32c87e",
+    "ledger": "axes-007.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF69 starts Principle; PDF70 completes it and contains complete Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-chiron.md",
+      "verification/axes-007-sandbach-raw.txt: PDF69–70."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mercury-chiron.md",
+    "before_sha256": "bcaf8955c3a0912b90b2420e10229f9f04a5066189ee751d01d334f8d442878f",
+    "after_sha256": "8ae5e3f5128625d3a79d49622757e422484c48d262f5e91ea94e998da03750fd",
+    "ledger": "axes-010.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF46 contains chapter heading and complete Principle and Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-chiron.md",
+      "verification/axes-010-sandbach-raw.txt: PDF46."
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-chiron.md",
+    "before_sha256": "9fc39a5ecb006b3fd54d567bd4a1703339d0b4e1b0fd9141d1b10abf52bb25d3",
+    "after_sha256": "8f9315fe9f52c71a4bfe47942267037a4d109bb7b92f4f8ea40e2eb35cc1ba89",
+    "ledger": "axes-012.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF32 contains chapter heading and complete Principle and Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-chiron.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-012-sandbach-raw.txt"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-chiron.md",
+    "before_sha256": "008e46a4fb963974c11a6877cd8c533ce60ea203ae7c38c3eb11d2be0a65d39c",
+    "after_sha256": "6afe077cce2723ac516592cf948acce03b0bcb68a231e62c570db0f20eb8e644",
+    "ledger": "axes-025.jsonl",
+    "reason": "Locator-only Sandbach reference addition. Complete before/current Source Entries and full unique owning record independently read. PDF58 ends with chapter heading; PDF59 contains complete Principle and Process. Direct immutable PDF text and cited existing proof checked. Source prose is unchanged; inherited split words, literal wording and spiritual/healing claims are explicitly excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sandbach-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-025.jsonl: path=wiki/axes/venus-chiron.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-025-sandbach-raw.txt"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/neptune-neptune.md",
+    "before_sha256": "acd7345d006bd178aaf6c603874c79eedd74621ff5686165dd33c549b7faf66b",
+    "after_sha256": "314ea987ddb9a0afd9887ba084db5a898b9414811d283957abc37811080a9e2e",
+    "ledger": "axes-016.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF244 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-pluto.md",
+    "before_sha256": "86705658fb66cdf7d0c5ff62efb31f4d06da670cf44d694a6e2a7f1bc802aaa0",
+    "after_sha256": "ff41de28dcde1e8cd66c225d4d1044b3e7f7f37f5fb8161376b735de49508959",
+    "ledger": "axes-018.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF255 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/poseidon-poseidon.md",
+    "before_sha256": "89ec557e7e1ad6dd7189c22f1659235cf67fb1f086b78d7ab1ec6e342060b58b",
+    "after_sha256": "dc69cac9f9371a00f9fd9c1ab3725ee0d614d13f030f84a9f66f99637bd4e78f",
+    "ledger": "axes-018.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF316 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/poseidon-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-saturn.md",
+    "before_sha256": "488c45e3687871524bc37a1bfa712d335c810ca20bd3d3b983f05af2e1ff7e0a",
+    "after_sha256": "ac199f0719fe13cbda52dc310872d106eee13b784edf0d0f57399c80e291f793",
+    "ledger": "axes-020.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF219 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/saturn-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-sun.md",
+    "before_sha256": "16580f0aa20949bab0aa55b84876c08381e20fdcbcf0860d487b12f5bb3bd2b8",
+    "after_sha256": "3a293e6d430d8a8ddadf71ccf3757e1a7549411cc20be210f3cba54766215219",
+    "ledger": "axes-023.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF99 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/sun-sun.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-uranus.md",
+    "before_sha256": "346a349a2d1a2da4bc25d846921b5749d2ab720f76d00fffc727ad5f70867889",
+    "after_sha256": "3ab78efad64ad47ae717718198c32985ae647e3e6f951dc1ee9c0c9dfbc7ad4b",
+    "ledger": "axes-024.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF232 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-venus.md",
+    "before_sha256": "997a8dced550511a7eb27032c010f6fde5b9129b61353eb134832c87579410eb",
+    "after_sha256": "004af1b261a27b7c3b58cdc6730983cfe2b7bfcbef8ababc836fd87768606fbf",
+    "ledger": "axes-027.jsonl",
+    "reason": "Locator-only Witte heading/page addition. Complete before/current Source Entries and full unique owning record independently read. Actual immutable Witte PDF174 names this exact repeated pair and contains its complete unchanged summary; corresponding existing proof inspected. Inherited summary wording and claims are explicitly excluded from new transcription or factual certification. No automatic intensification is inferred from repeated identity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-repeated.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/venus-venus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/asc-cupido.md",
+    "before_sha256": "829e05a45cce7b5052d1aaab858913787142d06d0d39dc95e879c681097f87ad",
+    "after_sha256": "6738dfada5edd5c0468193f3b456948b3662e8ceaf673fce6be35d0ed1ea1db7",
+    "ledger": "axes-002.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All ten bold ABC60 clauses checked, including künstlerische Veranlagung and Raum-Kunst; printed122–123. Witte91 exact unchanged paragraph. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p060.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/asc-hades.md",
+    "before_sha256": "8a70bb281aedb60d82f65dd831170a18b2a676a2cab9503215fcb4689884c12d",
+    "after_sha256": "a183dc3b1402e4d0c77b6c6477eb566ddccb16e711c13ce5891cb23b93cc63a7",
+    "ledger": "axes-002.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All eleven bold ABC61 clauses checked, including Gefährdete Umwelt, Nachteile durch andere and Umwelt-Verschmutzung; printed124–125. Witte92 exact unchanged paragraph. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/asc-kronos.md",
+    "before_sha256": "df91e4072444d82ae871c55d6fa8ba042799dcd1534388b959fa6f691284984a",
+    "after_sha256": "863e9e1b7f9c3cce560e820cd7ac58dbd48e2c2475837214ec55adf1cea50ca9",
+    "ledger": "axes-002.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All twelve bold ABC63 clauses checked, including Orts-Hierarchie, selbständiger Partner, überlegener Partner and Umwelt-Lenkung; printed128–129. Witte94 exact unchanged paragraph. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p063.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/asc-vulcanus.md",
+    "before_sha256": "d13764d6d2116c240fb7ca183d461c2846d8b8a0156f9fadb292abed406542d6",
+    "after_sha256": "680fd8fa4fdfb53e415826e234298598a44d4c842b24947e443ea7ff4f620f52",
+    "ledger": "axes-002.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All ten bold ABC66 clauses checked, including Gewalt anderer, Macht anderer and Ort der Kraft; printed134–135. Witte97 unchanged source-native forcefill is retained. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p066.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/asc-zeus.md",
+    "before_sha256": "6492fff19cbf4c0c6f397c32a95574d4faf4ccc3d768045a7966830435cd4587",
+    "after_sha256": "7b011e1ae8ad5bf9b2997763c21a6cf15dd3ddb42622df408ce977fe464953a8",
+    "ledger": "axes-002.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All eleven bold ABC62 clauses checked, including kreativer Partner, Umwelt-Leistungen and Umwelt-Anstrengungen; printed126–127. Witte93 exact unchanged paragraph. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/cupido-admetos.md",
+    "before_sha256": "7d39ff15962c833ee5c0a343c46a8e0b4861cf979c65cb0e4ed1778bd16efac0",
+    "after_sha256": "c253e5b586ff8a2c13f4bac422bcf082dc2dddb567646e62d13ee1bf85b57b18",
+    "ledger": "axes-003.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All nine bold ABC215 German clauses and faithful English checked; printed432–433. Witte271 printed275 visually checked complete pair block/folio. Earlier dash-retention evidence in the historical record is explicitly superseded by its bounded repair follow-up. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p215.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-cupido-admetos-witte-pdf271.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/cupido-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/hades-apollon.md",
+    "before_sha256": "9a529c7b1f650ad553c672dc5405aa3e8e3ed0fe89a370591d42b19b40273275",
+    "after_sha256": "501bf8c7a725fff203c1ebffad22d4ab30b3e600aae9cfc5095eb3d170a4c2af",
+    "ledger": "axes-004.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed complete actual ABC bold pair block, glyph identity, boundary and folios; translation checked clause by clause. All ten bold ABC220 clauses checked against German and English, including dangerous freedom and crime in science; printed442–443. Witte280 exact unchanged paragraph. Earlier uncertain-translation evidence in the historical record is explicitly superseded by its bounded repair follow-up. Witte added reference checked directly against immutable raw PDF and relevant existing proof; unchanged inherited Witte prose is outside new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p220.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short1.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/a010-012-abc-p220.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-vulcanus.md",
+    "before_sha256": "f229c9c781d338d4c504cd1576326bb674373d766f54f5e87dcb50846030f1b2",
+    "after_sha256": "77941b4b2e7bc2aa8ce80d16a8726f41f1b955ea76cd48a0935f98d0c0aa813f",
+    "ledger": "axes-023.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC84 all12 clauses: Einflußreiche Person, energischer Mann, gewalttätiger Mensch, Körper-Kraft, Kraft-Zentrum and remaining power/influence/violence clauses; printed170–171. Added Witte PDF117 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p084.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/sun-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-poseidon.md",
+    "before_sha256": "f1c3b8d5a741576645909b7418bf8db61b2a74fec8bb984db7a70996661699ff",
+    "after_sha256": "bd10c9195938d487456d6fe60239467a73ecc9824a6b6c3607fb8f7c65654ae0",
+    "ledger": "axes-022.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC85 all11 clauses: Einsichtiger Mensch, Geist im Körper, Idee eines Mannes, Körper-Kultur, Personen-Kultur and vergeistigter Mensch; printed172–173. Added Witte PDF118 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p085.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl: path=wiki/axes/sun-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/jupiter-hades.md",
+    "before_sha256": "45721d23efdd9d17be9e2455fb088745ba0eb562a41e0023b1b5311e545d2f02",
+    "after_sha256": "1e93429a607209f170530021dcedd394294ba52e554aca9442d80d0afe6e1238",
+    "ledger": "axes-005.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC166 all11 clauses: Erfolg durch Entbehrungen, Erfolgs-Mangel, Finanz-Kriminalität, Freude am Alten/Dienen, Geld-Geheimnis/Mangel, Glück aus der Vergangenheit, heimliches Glück, Nachteile durch Recht and schmutziges Geld; printed334–335. Added Witte PDF212 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p166.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/jupiter-kronos.md",
+    "before_sha256": "9dd89cea63dbaf84e107b59b9f9e7a1d5e7cbdd9a93b8fd6b2f06e24624c94e1",
+    "after_sha256": "6cc1f71647320a3830e8a8708ddcf00192a88fae6bed525cf26ad697cc035f92",
+    "ledger": "axes-005.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC168 all11 clauses: Ansehen durch Geld, besonderer Vorteil, Erfolg durch Selbständigkeit, erfolgreiche Autorität, Finanz-Größe, Geld-Hierarchie, großes Glück, Rechts-Staat, Rechts-Überlegenheit, staatliche Gelder, wichtiges Recht; printed338–339. Added Witte PDF214 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-cupido.md",
+    "before_sha256": "8c6ada381e8669e2918ea274119b12259fb01aeaec183495a1b9a6acc1fe5f9d",
+    "after_sha256": "88c668be2c700bc483e30b5cc89d10f36662fe7c21636d2e8bb3054a0f2cc3a7",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC21 all7 German/English clauses, including gemeinsame Öffentlichkeit and Kunst (art) twice; printed44–45. Added Witte PDF48 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p021.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-hades.md",
+    "before_sha256": "d1183f4a3c3fa7639bb0c9d31aca10ff1c2870c66225343d3179cb4dffdad2ec",
+    "after_sha256": "0ef4fa308cad40c2088cbe5df4a1d1794a43229b60d65a5e5b67db43d727cc6f",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC204 all8 clauses, including gefährliche Veränderungen and Veränderungen unter Entbehrung; printed410–411. Added Witte PDF258 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p204.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-hades.md",
+    "before_sha256": "536fa6f891249f737f6b9f6bc03d258f304b061fb846366bdba8aaed16e78709",
+    "after_sha256": "c64701d84093146e8de9b68d04a6b0ea5f082e0adec64060b7df5759501a4e95",
+    "ledger": "axes-024.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC187 all10 clauses including gefährliches Ereignis, technischer Nachteil, überraschender Verzicht and verborgene Spannung; printed376–377. Added Witte PDF237 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p187.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-vulcanus.md",
+    "before_sha256": "a22fa4919295407c5a37b831d89aa0fe275a215115f40eb9d3c7422256b0ddff",
+    "after_sha256": "66828983d524f626e452bbbbbd6661a18aeee76c1531e1aa3d746d9a839bb91f",
+    "ledger": "axes-024.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC192 all11 clauses, including mächtige Spannungen, starker Impuls and technische Energien; printed386–387. Added Witte PDF242 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p192.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-zeus.md",
+    "before_sha256": "0624d85119f68251576eb12b7ab6cca9cb95973abacf998ade8111853950e66a",
+    "after_sha256": "aae6a1dc9ed00e2b785d57b6be2664efc4868fadad27b6fd74cd780456a34c00",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC142 all10 German/English clauses, including Gestaltungs-Kunst, Harmonie-Streben, Kunst-Leistung/Richtung and Liebes-Zeugung; printed286–287. Added Witte PDF184 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p142.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/venus-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-poseidon.md",
+    "before_sha256": "126f6fec5d06e7e6548e56932818d95e5a438048fc339270eab92c5bc487d02c",
+    "after_sha256": "133ec8f5d1279a3d16982da7dc8828e2ecb1dab54a1fb8478b8468988548c79e",
+    "ledger": "axes-024.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC193 all11 clauses, including kulturelle Erneuerung, neue Erkenntnisse and vernünftige Technik; printed388–389. Added Witte PDF243 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p193.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-apollon.md",
+    "before_sha256": "8d03b1302f84d045c34776d9890c57ae9155ce4ba5a51aa1afcdb35b0b4dbbf8",
+    "after_sha256": "2fbc004819706b5a8b2b7a26766d3683fcf644da73b253764b865d02249c8ada",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read; actual immutable ABC scan personally viewed for pair glyph, full bold block and folios. ABC99 all10 clauses, including literal Frauen-Handel, Gefühls-Wissen and Volks-Wirtschaft; printed200–201. Added Witte PDF134 reference matched actual raw pair paragraph and relevant existing proof. Unchanged Witte wording is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p099.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short2.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-admetos.md",
+    "before_sha256": "36b836059c509b70c609a73fc07b4983d5d1c08370eaad784b0698dcf6405916",
+    "after_sha256": "426f23de00861084391a7b535243e25b700649fb32fca2697374b880112291c0",
+    "ledger": "axes-020.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC83 complete11 clauses/printed168–169: gefestigter Mann supports steadfast man; Erd-Körper and Körper-Kreislauf support terrestrial body/bodily circulation. Other unchanged inherited labels excluded from new translation certification. Witte PDF116 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p083.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/sun-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-admetos.md",
+    "before_sha256": "79b85a226589d5ae591ca3e28f58a1b799317f5362085cc976f3dc99d789e4bf",
+    "after_sha256": "d22eab722812df70f08799b7ff6ec1943e0426309c6db2d816a3723e69d9016b",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC26 all7 German/English clauses and printed54–55 verified, including blockierte/unterdrückte Öffentlichkeit and Festigung. Personally viewed Witte53 clearly prints Resistance of the general public, validating nF to of. Witte PDF53 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p026.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-p053.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-kronos.md",
+    "before_sha256": "4163bea71d35a98fa4a1bf2d87824c5346218e4861226b557400fd5293d13c73",
+    "after_sha256": "1b4e5b0ef272421de167966b009775da1fe5aabcb60ae5048c144e20a8a302ad",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC24 all8 German/English clauses and printed50–51 verified, including öffentliches Ansehen and Staat und Öffentlichkeit. Witte PDF51 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p024.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-zeus.md",
+    "before_sha256": "2234376a31687e4916d3fbf80b10a022bf72c0f9c875bd2e895e330ef059f355",
+    "after_sha256": "032792b21ac390740eb315942a8fc835fd02d54bdc674ee268004b88e9b2e6ce",
+    "ledger": "axes-023.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC80 all12 clauses and printed162–163 verified, including Führungs-Person, Leistungs-Zentrum and Personen-Führung. Personally viewed Witte113 prints The procreative impulse and printed117, validating Hie to The and both references. Witte PDF113 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p080.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-p113.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/sun-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-poseidon.md",
+    "before_sha256": "99495cb3420346a7a43542e389d0514f0d77593bc6ab9414f41d58a6fef4e2d2",
+    "after_sha256": "65a7c8cb0bdb760de4b46044c976b9e5a48007464120e63500ad5cd4fadc48ef",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC210 all9 clauses and printed422–423 verified, including klare Entwicklung, Vernunft-Entwicklung and Wahrheits-Entfaltung. Witte PDF264 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p210.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-cupido.md",
+    "before_sha256": "becd37ed0812d0259a2013530753882015aa36c3f0650d32e6542f68668bca7b",
+    "after_sha256": "35a1a3c0fd85117c2c8ac7df502b5561e9c79c45e52905c9fec1a33c105f90be",
+    "ledger": "axes-023.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC186 all9 clauses and printed374–375 verified, including Erregte Gemeinschaft, Impulse zum Ganzen, Kunst und Technik and neue Kunst. Witte PDF236 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p186.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/uranus-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-vulcanus.md",
+    "before_sha256": "78d34dfca5ebd1f5f5e8aa74fc39c5c1bdc806238e07e936c09992e48b956cf2",
+    "after_sha256": "fc94e19f30c3c4e5da799a2c764a5ee40ecec776d8ab4f47893237101eaa3dc9",
+    "ledger": "axes-020.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC182 all9 clauses and printed366–367 verified, including Einfluß im Alter, Macht der Geduld and störende Gewalt. Witte PDF230 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p182.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/saturn-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mars-apollon.md",
+    "before_sha256": "2dfa6f39a62c0985be4aae67384432ffc0091d1ccc974c4926ead013dafc171f",
+    "after_sha256": "73d219be4fe3b6018e759dab625d7bd9c3b65152c954ddd255bc7c28db1bdc20",
+    "ledger": "axes-007.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. Locator-only actual ABC157 pair glyph/full bold boundary and printed316–317 verified. Unchanged inherited native translation excluded from new transcription or factual certification. Witte PDF201 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p157.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-poseidon.md",
+    "before_sha256": "2a8a85b68d3bd0ad15b2d06cae05f53d26973a01ee59335e9b8f2fbc55f4143a",
+    "after_sha256": "fb0479105ca39efe67633a58e3dd16f0916fa94144b7fe751c2d9a9ed1596f1f",
+    "ledger": "axes-014.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC102 all12 clauses and printed206–207 verified, including klare Gefühle, Stunde der Erleuchtung, vernünftige Frau and Wahrheits-Gefühl. Witte PDF138 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p102.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl: path=wiki/axes/moon-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-poseidon.md",
+    "before_sha256": "cb229c8e0ecea110928387638af830a15a776983037f7ba3797f891283137938",
+    "after_sha256": "bdc782bba142b47fa31170ba9439b75d495a5be7ae81369c4488952305e7bbdb",
+    "ledger": "axes-020.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read; actual immutable scans personally inspected for pair identity, boundaries and added references. ABC183 all10 clauses and printed368–369 verified, including Vernunft, Klarheit durch Geduld, Kultur-Aufgaben, Schwierigkeiten erkennen and vernünftige Trennung. Witte PDF231 actual full pair paragraph and relevant existing proof read. Outside the two explicitly scan-verified Witte glyph corrections, unchanged Witte prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p183.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short3.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/saturn-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/neptune-vulcanus.md",
+    "before_sha256": "63764ad9e4195c36cf3072646df4945f1886fcafb32c18ec2e2b88c4f9a48884",
+    "after_sha256": "fc66ccaef4f331893d24f0c9e16bc85626c01a3688227dc8c58a7627b6ca638c",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC201 all12 clauses and printed404–405 checked, including Einfluß der Metaphysik, Energie-Auflösung, Gewalt-Verneinung and gewaltige Täuschung. Added Witte PDF253 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p201.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-cupido.md",
+    "before_sha256": "5e84e6dd61bbbc9f6d985aa3fb83c7c4d1fda752989348fc58bd1fa20df6cad5",
+    "after_sha256": "eaa82e105244de62f27bb5e8f85362ce1a54aba0273093c52c744b63a0724d3b",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. Locator-only: actual ABC203 complete pair block and printed408–409 checked. No changed prose is certified. Added Witte PDF257 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p203.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-cupido.md",
+    "before_sha256": "40ef021c7b6b2e5023b8a34c6daf7e091116967eaabfd83c298ffa9fbf7b4278",
+    "after_sha256": "1efaaeb94758235977ede62eca2c2ceacf73c1afa1ef9c953e035755cc208e18",
+    "ledger": "axes-021.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. Locator-only: actual ABC78 complete pair block and printed158–159 checked. No changed prose is certified. Added Witte PDF111 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p078.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl: path=wiki/axes/sun-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-cupido.md",
+    "before_sha256": "8e330c6abeca3b25d8504d143f40aebe6bcbe34ccaf8d399d1f6a9a8ca1dfb7b",
+    "after_sha256": "64f8a136115109f6942eebde59c3220494ec42c77f9749c0e2b6574f09498b6f",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. Locator-only: actual ABC95 complete pair block and printed192–193 checked. No changed prose is certified. Added Witte PDF130 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p095.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-apollon.md",
+    "before_sha256": "dfb3e5c13e6c35f20d2d425b5e3fa205fd91c3164588eab92e89695be7ce7317",
+    "after_sha256": "dea240a14a79d81212f5b412178c212c596db1d5ec420a42599bcb4f313ec29e",
+    "ledger": "axes-023.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC190 all9 clauses and printed382–383 checked, including Erfolgreiche Reformen, Freiheits-Impulse and neues Wissen (u.a. Astrologie). Added Witte PDF240 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/uranus-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-kronos.md",
+    "before_sha256": "08a9603b2531e70a89e1fbb337ae337b731f839a655e4dc1786a8099aafca9ce",
+    "after_sha256": "9354b41a7755cfab693b7d6c5710b8cddd0477a5e6440643eb319fe339a52bca",
+    "ledger": "axes-025.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. Locator-only: actual ABC143 complete9-clause pair block and printed288–289 checked. No changed prose is certified. Added Witte PDF185 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p143.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-025.jsonl: path=wiki/axes/venus-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/node-cupido.md",
+    "before_sha256": "34cb6c4dc864179e1bd98d7328bffe0bc7f952b08c01d281cd041633b5773d65",
+    "after_sha256": "01265c0c879716523aeac52863972e5d56e42cdca7cc4a79e305248a3c0dac23",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC111 all7 clauses and printed224–225 checked, including zur Synthese verbinden, Vermittlungs-Gemeinschaft and zusammen binden. Added Witte PDF149 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p111.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/node-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-apollon.md",
+    "before_sha256": "393dca4edd5282951f9eac8865368752a3fa84a1c3eeeba261cc44ae7c5de554",
+    "after_sha256": "3f96ac9624d6a806b647a1175e9a551f413d04b4e8273308550429195def118f",
+    "ledger": "axes-020.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC82 all12 clauses and printed166–167 checked, including Körper-Fülle and persönliche Erfahrung. Added Witte PDF115 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p082.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/sun-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-zeus.md",
+    "before_sha256": "7d867b90f1a1c5cb10e47e4c06ae726d40940500f5baa907f4e74639bd7c9797",
+    "after_sha256": "f44a3af8d5a3a727b310e73e7607870c67433a8e7a04e29bb6b8c289049fa801",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC205 complete9-clause block and printed412–413 checked; Veränderung durch Feuer supports changed phrase change through fire. Added Witte PDF259 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p205.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-vulcanus.md",
+    "before_sha256": "b14fd4f7aeac1ac5ab0a37b9fc567ea7cbb8d1828ad9396e4b5759029f4f74ab",
+    "after_sha256": "cac8681dedb8b6e009e0d5146808c781e36c0ae303a616440762ab34b067510b",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC146 all10 German/English clauses and printed294–295 checked, including Einfluß der Schönheit, Kunst-Einfluß and Liebes-Gewalt, whose force/power/violence ambiguity remains explicit. Added Witte PDF188 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/venus-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-hades.md",
+    "before_sha256": "adebd8272bbbe77de2b54a5bd00e8eeff4d43d5f089b4a436a71daec6906089b",
+    "after_sha256": "e5e42e57dc61446bd5b2150bbc0929f28b58234c982ca0dd6d24f05859ef3246",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC22 all8 German/English clauses and printed46–47 checked, including öffentliche Kriminalität, öffentlicher Verzicht and verschmutzte Öffentlichkeit. Added Witte PDF49 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p022.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/node-admetos.md",
+    "before_sha256": "7a8195bef13a4e88d87ca678ce68062856e87969efa39c4a96ec8e5b87d8ef82",
+    "after_sha256": "27cc653fa037dbdb4cd1b5710c8c9eee6da105a97dedc09ac78c33fa494d50c9",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scan for pair glyph, full bold block, boundaries and added folios. ABC116 all9 clauses and printed234–235 checked, including begrenzte Kontakte, Kontakte im Stau, unterdrückte Vermittlung and Verbindung vertiefen. Added Witte PDF154 matched actual raw paragraph and relevant existing proof. Unchanged inherited prose is excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p116.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short4.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/node-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mercury-zeus.md",
+    "before_sha256": "c5d10893c5beaf250d9d00aa4c2ff9db71b5df91f8bb24bb61169f33bc9879b4",
+    "after_sha256": "f3cd1e46fc83d3cd83e873531629e4967a69c7885e754381eb53b9e1cbd50c5c",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC128 all12 clauses and printed258–259 checked, including Angestrengtes Denken, Gesprächs-Führung, Leistungs-Denken and Zeugungs-Gedanken. Added Witte PDF168 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/mercury-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-kronos.md",
+    "before_sha256": "8d689b67d111414574e9c6aa3c914bba7d126522621dd1dc837764096d6328c2",
+    "after_sha256": "dd6cb26ce7a49a0a25963bf957bb957c99fd06605d0c18d591c76961e3c69642",
+    "ledger": "axes-024.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC189 all11 clauses and printed380–381 checked, including impulsgebende Autorität, neue Obrigkeit, neues Selbstbewußtsein and Vorrang der Technik. Added Witte PDF239 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p189.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mercury-vulcanus.md",
+    "before_sha256": "bf1f6b02a16d879ddda57d4a206de0f018f8dad42405a95f346ba7cc0184d7ef",
+    "after_sha256": "758445a18c8ec746cac63e3da9107e28a16d638a8e2d7c6c592f7026ab56baa8",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC132 all12 clauses and printed266–267 checked, including Jugend-Gewalt, Meinungs-Einfluß, Sprach-Gewalt and starker Verkehr. Added Witte PDF172 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/mercury-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-zeus.md",
+    "before_sha256": "587d0d119d10fef080f9f88ec30d652d96070b585932fd681c9123d76e2f6962",
+    "after_sha256": "2bb85fa81727b7999e8193a3717e004fbf720a46cd12c7bd3287a649d44443bc",
+    "ledger": "axes-024.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC188 all11 clauses and printed378–379 checked, including neue Richtung, Reform-Streben, schöpferische Impulse and Zeugungs-Ereignis. Added Witte PDF238 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p188.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/node-apollon.md",
+    "before_sha256": "7b1e3b70b9f4e7b498ec919d89b9553833108c65f8e61ac2d548c1cbc4b84099",
+    "after_sha256": "11faad76c2590c76593c3a1d7bebf6ce99dff4a22fa6b51d90ee988ee40994d6",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC115 all10 clauses and printed232–233 checked, including Erfahrungen vermitteln, Handels-Beziehungen and Wissens-Vermittlung. Added Witte PDF153 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p115.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/node-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-hades.md",
+    "before_sha256": "5003f64b84476662164fc3dcf7984fbd9bed6e3e951eadf27af1bf59a4a3d14b",
+    "after_sha256": "4a089b27fddba23b5a558d25907b7940b0cecaa91f7fd1836c89e60a93cc1d89",
+    "ledger": "axes-021.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC79 all11 clauses and printed160–161 checked, including Alter Körper, Dienst-Personal and kriminelle Person. Inherited renunciation-of-the-man wording is not newly resolved beyond the terse Verzicht auf den Mann. Added Witte PDF112 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p079.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl: path=wiki/axes/sun-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-vulcanus.md",
+    "before_sha256": "214e070f3ca170e3f6f4bbff57b08c85586d586acafe6ea40417aba7cfc3fc71",
+    "after_sha256": "d57766bc4318d403c6a39d214269a4be5dadb1e00a5e738a28c601a1c52dc4e0",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC209 all10 clauses and printed420–421 checked, including Einflußreiche Veränderungen, Entfaltung von Gewalt and Stärke entwickeln. Added Witte PDF263 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p209.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/neptune-poseidon.md",
+    "before_sha256": "d282a651f71d0323abd2cf449ff7f87330e5a2ab5b2d8b49d1947c73118c1e77",
+    "after_sha256": "6027792387ef543df24b567be66116787ab5cb6a0c3a3345c52002517b791b3a",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC202 all11 clauses and printed406–407 checked, including Enttäuschende Wahrheit, Feingefühl und Klarheit, klares Wasser and unklare Idee. Added Witte PDF254 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p202.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-admetos.md",
+    "before_sha256": "d1833e743100888d7a79db5c8f2759bfc3d1750bfa1679469aff6d0a8ee6adbf",
+    "after_sha256": "fec9d1a9282eaaa55e302a7b3da0edd454a6cb04be13a1b7a93ce41bb92cd86c",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC100 all12 clauses and printed202–203 checked, including bedrücktes Gemüt, blockierte Gefühle, Gefühls-Vertiefung and gefestigte Frau; literal Kreislauf is preserved without adding medical specificity. Added Witte PDF135 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p100.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-kronos.md",
+    "before_sha256": "96f9930a30a80bebf6b10f34758ffd2e49ea720834e2f16750edcd0bea8e28fb",
+    "after_sha256": "9c8c6e142854d9ad5140a732165f0f4118603ea7b65816dd500611ad601609fa",
+    "ledger": "axes-021.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC81 all12 clauses and printed164–165 checked, including männlicher Vorrang, persönliches Ansehen, selbständiger Mann and selbstbewußter Mensch. Added Witte PDF114 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p081.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl: path=wiki/axes/sun-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/neptune-zeus.md",
+    "before_sha256": "bd84ea8cb63f044efe5d23650cfaab6f4de1da24dde588b0cbb250a93d77a7d5",
+    "after_sha256": "0b1ff3e1e801e4542785a8d86202d0de32fc9f285164a7b1af90297b7cfbe2f5",
+    "ledger": "axes-016.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC197 all10 clauses and printed396–397 checked, including beginnende Auflösung, enttäuschende Leistung, Führungs-Schwäche and kreatives Feingefühl. Added Witte PDF249 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p197.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-kronos.md",
+    "before_sha256": "077802b4545944094b60d7ab633cad9484631adb6fd2b06639190913e04aab2e",
+    "after_sha256": "da7143999fb8100db840b7df236269a5522f25b60e831c225dd45cdbf4fbd014",
+    "ledger": "axes-013.jsonl",
+    "reason": "Independent complete before/current Source Entries and unique full owning record read. Personally viewed immutable ABC scan and checked every changed clause, pair glyph, full bold-block boundary and added folio. ABC98 all11 clauses and printed198–199 checked, including Gefühl der Überlegenheit, Obrigkeits-Gefühl, selbstbewußte Frau and überlegene Frau. Existing root043 Witte133 proof personally viewed and exact raw paragraph independently matched. Added Witte PDF133 directly matched the full raw pair passage and relevant proof. Unchanged inherited Witte wording is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p098.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-short5.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl: path=wiki/axes/moon-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-zeus.md",
+    "before_sha256": "88b03cc3b44e3545163c3503a8e43aa071bc15f4dc7595bbd3123771b6ef4a72",
+    "after_sha256": "57f03b7c34e65cb58e5319ddd0549fa4c394eaf515073a10a30fba70e11fb294",
+    "ledger": "axes-020.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC178 all10 clauses/printed358–359 checked, especially Konzentrations-Leistung and problematische Zielsetzung. Witte PDF226 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p178.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/saturn-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-hades.md",
+    "before_sha256": "00be2b781dd8c13c8287eb1c96e09d84d482a361c5ceeb10b021f5ee133c949d",
+    "after_sha256": "99a734598440e9e1efb0f1e25cf3c675f1b71aefa44db9cf02dfb4eba3733d50",
+    "ledger": "axes-012.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC96 all11 clauses/printed194–195 checked, including Gefahr für die Frau, Gefühls-Mangel and Verzicht einer Frau. Actual Witte131 scan clearly prints Widow, validating V idow repair. Witte PDF131 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p096.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-p131.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-hades.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-kronos.md",
+    "before_sha256": "a4e0b805ca2f69afb50ba1602975caab67d9b64540cfccec20d3dfa721329d51",
+    "after_sha256": "2d3edbafc0ce2d7c6b41bf010533ae1539b4a6dd2b153969fcbf77297131e957",
+    "ledger": "axes-018.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC206 all8 clauses/printed414–415 checked, especially Entwicklung zur Selbständigkeit and selbstbewußte Entfaltung. Witte PDF260 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p206.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-apollon.md",
+    "before_sha256": "e3adafd784a0c9ed5e31025f1b51b79219acb9f1de02e1c88cdc7f024a426289",
+    "after_sha256": "c07fdf54692ff1a6dd3d62f4563fb09881e997d8228cb1aa7bbface898b133e0",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC25 all8 German/English clauses/printed52–53 checked, including Veröffentlichung von Wissen and Welt-Wirtschaft. Witte PDF52 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p025.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-jupiter.md",
+    "before_sha256": "8ecdb916abeb2aeee8a429f1299d26a8661a5b86e744f514e20b07d859824a84",
+    "after_sha256": "63d0d7f4b9fceee1bbe913feea844dfb43efec296dc55828cc5539387bb1f178",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC16 all7 German/English clauses/printed34–35 checked, especially öffentliche Gelder. Actual Hand210 complete Jupiter/Aries block ends before separate Pairs with Saturn heading, validating boundary removal and locator. Witte PDF43 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p016.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p210.png",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-jupiter.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/vernal-point-asc.md",
+    "before_sha256": "1a7a7dc00a6e1825bf092c50f947d3922c512df92a95601d582c16331d685baa",
+    "after_sha256": "97622b31e4cf9353d00f1830b0430a1170aa8e93b1e07e518863d4d0ffd985f8",
+    "ledger": "axes-027.jsonl",
+    "reason": "Independent complete before/current Source Entries and full unique owning record read. Personally viewed immutable ABC scans for pair glyph/full bold block/folios and verified every changed clause. ABC9 all7 German/English clauses/printed20–21 checked, including Allgemeinheit und nähere Umwelt. Actual Hand214 complete Ascendant/Aries paragraph and cited existing proof match added heading/reference. Witte PDF36 exact raw pair passage and relevant owner proof read. Except explicitly scanned repairs, unchanged inherited prose is excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p009.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-short6-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-027.jsonl: path=wiki/axes/vernal-point-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-asc.md",
+    "before_sha256": "6afde52d7010ea0418d570c1992bd2431f6da4b507f4b13d16d4d218d7b576a7",
+    "after_sha256": "b912ecbfe65432592adc7edf2886d22158e117d3d0062124fd0587daddb0881d",
+    "ledger": "axes-019.jsonl",
+    "reason": "Full original/current seven-source sections and fresh full unique axes019 line3 record read. Personally viewed direct immutable ABC56 complete10-clause Ascendant/Saturn bold block, printed114 (spread114–115), validating gestörte Umwelt/Störungen am Ort. Personally viewed actual Banzhaf334 and cited owner scans: harmony and discord complete; discord ends Stands in one's own way, before separate boxed Saturn-Medium Coeli. Removed heading/career bleed belongs outside this pair. Witte87 exact native ASCENDANT + SATURN paragraph confirms corrected copied299 locator. Other inherited Ebertin/Sandbach/Hand/Munkasey prose, medical/spiritual claims and extraction artifacts are unchanged and excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p056.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p334.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-saturn-asc-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-source-repairs.jsonl",
+      "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-checks.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mercury-asc.md",
+    "before_sha256": "9cc23d478929ff91b5bea849be293623816f47b430dee817549e2c3db5d6010b",
+    "after_sha256": "2b53c9d4c2d73c120c8ac2059f8e7f55e7ac44211a7cb5896ba27cdc3ef92f26",
+    "ledger": "axes-010.jsonl",
+    "reason": "Full before/current Source Entries and full unique owning record read. The source prose is byte-identical across this locator-only change; all original wording was read in the common full current body and every removed/added metadata line in the exact before/current delta. Actual immutable Witte PDF83 complete native pair heading and paragraph match the unchanged Pair Summary, confirming the added exact locator and replacing the copied Munkasey metadata. Only this Witte header/locator revision is accepted. All unchanged ABC, Ebertin, Falis, Carter, Sandbach, Hand, Munkasey and Banzhaf prose, historical medical/spiritual/gender/timing/material claims and extraction artifacts are excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-long-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-010-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-node.md",
+    "before_sha256": "9967722356bf3552932821ef9d4d3dc0b4d5dc390850ac150e65a06462f069c8",
+    "after_sha256": "41cd346335589782f830311e4c848df1c5a154ef31f7ae731ac33fa0b352d4b0",
+    "ledger": "axes-019.jsonl",
+    "reason": "Full before/current Source Entries and full unique owning record read. The source prose is byte-identical across this locator-only change; all original wording was read in the common full current body and every removed/added metadata line in the exact before/current delta. Actual immutable Witte PDF145 complete native pair heading and paragraph match the unchanged Pair Summary, confirming the added exact locator and replacing the copied Munkasey metadata. Only this Witte header/locator revision is accepted. All unchanged ABC, Ebertin, Falis, Carter, Sandbach, Hand, Munkasey and Banzhaf prose, historical medical/spiritual/gender/timing/material claims and extraction artifacts are excluded from new transcription or factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-witte-long-locators.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-node.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/jupiter-node.md",
+    "before_sha256": "81c99658b4b75bd01bae6c75444c502862b64744d29993279a41cc09fbe522a8",
+    "after_sha256": "9437208f490208c0c88331533d7a7511c92a33d2712209436780fecb0a0d0d9a",
+    "ledger": "axes-005.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read; original unchanged prose read in full common current body and every removed/added line in the exact delta. Personally viewed actual immutable ABC PDF106, printed 214–215, full 9-clause bold pair summary: Beziehungen zum Geld through vorteilhafte Beziehungen, including Rechts-Vermittlung. Every repaired English clause and added folio/PDF reference matches this exact native pair, with no activation-row import. Actual immutable Witte PDF144 full native pair heading and paragraph match the unchanged summary, validating corrected locator; complete relevant owner raw proof read. Unchanged inherited Ebertin, Falis, Carter, Sandbach, Hand, Munkasey and Banzhaf prose, historical medical/gender/spiritual claims, embedded extra-factor examples and extraction artifacts are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-jupiter-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-005-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-node.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/jupiter-neptune.md",
+    "before_sha256": "8b9633f02e528eaa0d84dce52464df84f0a9a5c42e2409cc7ad1ae3ce338bf0b",
+    "after_sha256": "b26a1fe9ad1aec867b05824752e52b47a24c19c108c1072bfbd3b4a4b3f72cf3",
+    "ledger": "axes-005.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read; original unchanged prose read in full common current body and every removed/added line in the exact delta. Personally viewed actual immutable ABC PDF163, printed 328–329, full 11-clause bold pair summary: Enttäuschtes Glück through zukünftiges Glück, including Feingefühl and fremdes Geld/fremdes Recht. Every repaired English clause and added folio/PDF reference matches this exact native pair, with no activation-row import. Actual immutable Witte PDF209 full native pair heading and paragraph match the unchanged summary, validating corrected locator; complete relevant owner raw proof read. Unchanged inherited Ebertin, Falis, Carter, Sandbach, Hand, Munkasey and Banzhaf prose, historical medical/gender/spiritual claims, embedded extra-factor examples and extraction artifacts are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p163.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-jupiter-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-005-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mars-pluto.md",
+    "before_sha256": "1fb8c0df5cc140b5e4e4ea0f4b5c89bbe12c0acf0d275976a0c2edc6f1a4f9d9",
+    "after_sha256": "6c83d3daec16c1851258cd66a437a7ace1daf11a0f0fc7ee52c0f3d2a5210906",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. Every original word was read in the complete unchanged common current body and each removed/added metadata line in the exact delta. Actual immutable Witte PDF196 complete native pair heading and paragraph match the unchanged Pair Summary; relevant complete owner proof passage read. Personally viewed actual immutable ABC PDF152 pair glyphs and printed 306–307 spread footers, validating the newly added labelled cached locator. This accepts only locator/header changes. The still-damaged inherited ABC translation, all other unchanged source prose, historical medical/mortality/operation/gender/spiritual/timing claims, embedded extra-factor examples and extraction artifacts are excluded from new transcription or factual certification; available wording defects were routed to closure owner035038.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-mars-locators-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p152.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-008-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/pluto-mc.md",
+    "before_sha256": "60f3e71f182e98487ad7dad69337303bd07352d3e5ad92db8d587f402e674f10",
+    "after_sha256": "5464c1c52846e7c7c67490cd13e96824591cdc93e0a67db393c57a54936a9dbf",
+    "ledger": "axes-018.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read; all original unchanged words read in the common full current body and every removed/added line in the exact delta. Personally viewed actual immutable ABC PDF40 printed 82–83 complete 11-clause bold native pair summary: Bewußte Entwicklung through Selbst-Transformation, retaining each unfolding/development/transformation item; actual Hand213 complete Pluto/MC entry confirms own ego development; actual Sandbach117 complete native Principle/Process confirms added locator. Every changed clause, glyph and added reference matches the actual pair, with no adjacent activation import. Actual immutable Witte PDF69 complete native pair paragraph matches the unchanged summary and corrected locator; relevant full owner proof read. Unchanged inherited source prose, historical medical/gender/spiritual/timing claims and extraction artifacts are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p040.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-node-pluto-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-018-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-018-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl: path=wiki/axes/pluto-mc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-asc.md",
+    "before_sha256": "fa277489f62cc08fbbc1c70b6e0a8c193b5c3a7a6f5bd82334fac98091eb2844",
+    "after_sha256": "4d563f65e8bd3187ba443537f448e8c1365cb33bd37133b56b57aeb10f9667f1",
+    "ledger": "axes-012.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in complete common current body, with every removed/added line read in the exact delta. Personally viewed actual immutable ABC PDF50, printed 102–103, full 10-clause bold pair summary: gefühlsvolle Umgebung and gefühlsvoller Partner repaired from actual bold list. Actual Banzhaf300 complete Moon/Asc harmony/discord ends misunderstandings; following boxed Moon/MC heading and its separate harmony are excluded. All changed source clauses/glyphs/boundaries and every added source reference pass direct raw/scan checks. Actual immutable Witte PDF81 complete native pair paragraph matches unchanged summary and corrected locator; relevant owner proof read. Unchanged inherited prose, historical gender/medical/spiritual claims and retained extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p050.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sun-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-012-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/moon-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-node.md",
+    "before_sha256": "3b34bc4089ba49035a26bdfc4ffe81bcc7119dca802c9bb52ecf7b455f9c2cb0",
+    "after_sha256": "dc5c8a436a07c57e3e76da0a4ef53b38f1c8200fd7ffdddbdc754d22abe152d2",
+    "ledger": "axes-022.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in complete common current body, with every removed/added line read in the exact delta. Personally viewed actual immutable ABC PDF69, printed 140–141, full 9-clause bold pair summary: full physical/interpersonal pair list with source-native year/day labels retained. Actual complete Ebertin106 printed104 confirms removal only of extracted repeated formula; actual Hand202 complete Sun/Nodes entry and Sandbach21 full Principle/Process confirm added refs. All changed source clauses/glyphs/boundaries and every added source reference pass direct raw/scan checks. Actual immutable Witte PDF102 complete native pair paragraph matches unchanged summary and corrected locator; relevant owner proof read. Unchanged inherited prose, historical gender/medical/spiritual claims and retained extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p069.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p202.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sun-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl: path=wiki/axes/sun-node.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-asc.md",
+    "before_sha256": "443fc28af64c5ed65fda43babd2a2b846168fc98511f70547ce1c332f6870c75",
+    "after_sha256": "9e877972ee7981ef79c7b3e45aef381e8a104119701a23f733bcc603ea2fc585",
+    "ledger": "axes-020.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in complete common current body, with every removed/added line read in the exact delta. Personally viewed actual immutable ABC PDF49, printed 100–101, full 11-clause bold pair summary: complete bold list restores male partner, person nearby, local center and people of a place, and corrects Umwelt-Zentrum. Actual Ebertin109 printed107 complete entry confirms extracted repeated formula removal; Hand202 full Sun/Asc paragraph confirms both with glyphs without stray hyphens; Sandbach23 full Principle/Process confirms added locator. Actual Banzhaf289 full pair read as relevant owner proof. All changed source clauses/glyphs/boundaries and every added source reference pass direct raw/scan checks. Actual immutable Witte PDF80 complete native pair paragraph matches unchanged summary and corrected locator; relevant owner proof read. Unchanged inherited prose, historical gender/medical/spiritual claims and retained extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p049.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p202.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sun-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-020-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/sun-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-mc.md",
+    "before_sha256": "06703243c1228286b7e7a16556b81bb3f79d6f15b0ad0045f91c9a81acd673e3",
+    "after_sha256": "1784e68414f0cbfb2e2b9d44ed65052ad45c1e06d9be411b73c5a4ec39275644",
+    "ledger": "axes-021.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in complete common current body, with every removed/added line read in the exact delta. Personally viewed actual immutable ABC PDF30, printed 62–63, full 11-clause bold pair summary: ich am Tage translated I during the day and all eleven pair motifs retained. Actual Ebertin112 printed110 full entry confirms repeated formula removal; actual Hand202 full Sun/MC and Sandbach24 complete Principle/Process confirm added refs. Actual Banzhaf289 harmony and290 complete discord validate expanded range and exact boundary. All changed source clauses/glyphs/boundaries and every added source reference pass direct raw/scan checks. Actual immutable Witte PDF59 complete native pair paragraph matches unchanged summary and corrected locator; relevant owner proof read. Unchanged inherited prose, historical gender/medical/spiritual claims and retained extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p030.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p112.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p202.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-sun-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl: path=wiki/axes/sun-mc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-asc.md",
+    "before_sha256": "f04ea6c15bc30724e38619876b7d25cabf1fbbcc54579131c4112b847a72f5fb",
+    "after_sha256": "1ef8ee073a4fcf693f997c56cdfa6b62d5d2af93d2ed962ca03a21e7595ad28b",
+    "ledger": "axes-023.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in common full current body and every removed/added line in exact delta. Personally viewed actual immutable ABC PDF57, printed 116–117, complete 12-clause pair summary: restored neuer Partner and Umwelt-Erneuerung; all twelve exact bold pair clauses match. Actual Ebertin PDF276 printed274 complete native pair entry confirms exact locator and removal only of extracted repeated heading/formula; all native categories retained. Actual Sandbach PDF107 complete Principle/Process and actual Hand211 complete exact pair confirm added locators; personally viewed complete Banzhaf338 exact pair as owner proof. Actual Witte PDF88 complete heading/paragraph confirms corrected locator; relevant owner proof read. Unchanged inherited historical medical/gender/spiritual prose and extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p057.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p276.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p338.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-uranus-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/uranus-asc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-node.md",
+    "before_sha256": "633260667b9de5379dbc78b439cb1cdf93b5ca1567aed18a6cbba795166ef259",
+    "after_sha256": "0ca6914d989fb10c48456da0eb249dc0af18ce3fc66835fcab379f5ba74e0263",
+    "ledger": "axes-024.jsonl",
+    "reason": "Complete before/current Source Entries and full unique owning record read. All original unchanged words read in common full current body and every removed/added line in exact delta. Personally viewed actual immutable ABC PDF108, printed 218–219, complete 9-clause pair summary: restored neue Verbindung and plötzliche Begegnung; all nine exact bold pair clauses match. Actual Ebertin PDF273 printed271 complete native pair entry confirms exact locator and removal only of extracted repeated heading/formula; all native categories retained. Actual Sandbach PDF106 complete Principle/Process and actual Hand211 complete exact pair confirm added locators; personally viewed complete Banzhaf338 exact pair as owner proof. Actual Witte PDF146 complete heading/paragraph confirms corrected locator; relevant owner proof read. Unchanged inherited historical medical/gender/spiritual prose and extraction word splits are excluded from new transcription/factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p273.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p338.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-uranus-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-node.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-mc.md",
+    "before_sha256": "8e9d17e82e0644015ce3ccc872c692ac7a7728c81fe1bc5fb2826e2044f03dfd",
+    "after_sha256": "d4630617bec4194872b34b5ec2751d5776fa2770ada8b3773830b8d5e82ad698",
+    "ledger": "axes-024.jsonl",
+    "reason": "Complete original/current seven-source history and full original owning record were already read. All cumulative changed blocks and added references passed actual raw/scan checks: Witte67 complete pair; ABC38 printed78–79 complete ten-clause bold pair; Ebertin279 printed277 full native categories and repeated-formula removal; Sandbach108–109 complete Principle/Process; Hand211 complete own-glyph repair; Banzhaf338 harmony and339 complete discord. Personally viewed actual Ebertin279 scan and found inherited Eurhythmies OCR; exclusive editor corrected it to printed Eurhythmics. Fresh complete Ebertin block, exact one-token delta, full amended unique axes024 line3 record and extras receipt reread; entire Source Entries differs from the already-read prior section only by this verified glyph. Other inherited historical medical/spiritual prose and word spacing are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-ebertin-p279.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-abc-p038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-hand-p211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p338.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p339.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-uranus-points-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-extras.jsonl",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-mc.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/mercury-uranus.md",
+    "before_sha256": "1127202e169f93033221c5bc05a682b538ce5a22674768bf8fd6772a49a716a8",
+    "after_sha256": "2038f05a30dcfec0e0fb3093edfdb1a6e047133c96dc46976a1509f9db4c0e30",
+    "ledger": "axes-012.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC123 printed248–249 complete11-clause bold pair, including Medien-Technik and Reform-Gespräche; Witte163 native full pair paragraph. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-012-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/evidence/axes-012.jsonl",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-012-udo-pdf-123.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/mercury-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-uranus.md",
+    "before_sha256": "4cfa1624dfa3a0b8bdc176d5535c0086a04a236064ee9f1cf51c4a2dbf255f29",
+    "after_sha256": "a99c4fc1f77cfdde93e106367ca378f7ce5327f77e669dac5cb707ee9dbdf973",
+    "ledger": "axes-014.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC92 printed186–187 complete12-clause bold pair; Witte127 native paragraph; Banzhaf296 heading plus297 complete harmony and discord, including all restored freedom/voluntary action, intuition, unreachable lovers, irritability and solitary-way sentences. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-udo-pdf-092.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-banzhaf-pdf-296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-banzhaf-pdf-297.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl: path=wiki/axes/moon-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/neptune-pluto.md",
+    "before_sha256": "0fecefed75caf7f6cf11b405fca22cd4b53a812d4b4aa82ee289471ff7fac376",
+    "after_sha256": "5340c4a10b50ae161b19772e585b1d77ff7d382c37578204d7462efa549394a6",
+    "ledger": "axes-016.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC194 printed390–391 complete9-clause bold pair, including Entwicklungen vortäuschen and Feingefühl entfalten; Witte246 native full paragraph. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-016-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-016-udo-pdf-194.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/saturn-pluto.md",
+    "before_sha256": "74f08f6ad703cf412aca872332e7f47e0372d0a430f97bb3a66b01b92ea00871",
+    "after_sha256": "8bf3ffe3b92447128941b9695f302dde11d3220cc0ee05ed778f74d2bd0b1907",
+    "ledger": "axes-020.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC175 printed352–353 complete10-clause bold pair; Witte223 native paragraph; Ebertin254–255 printed252–253 continuous process/manifestations and complete separate note55, including born, Saturn-45-Mars=Pluto and explicit dependence on other factors/personal points. Printed roost is retained as a genuine textual limit. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-020-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-020-udo-pdf-175.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-020-ebertin-pdf-254.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-020-ebertin-pdf-255.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl: path=wiki/axes/saturn-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-mars.md",
+    "before_sha256": "343ceed55b5496dc97d3ab6805b1efc00f8477d50ec9df56ef112d93cbbb503f",
+    "after_sha256": "3b1d8b162d5e0922dc266cd65cf20d157343129ca2d619827cf3d10d68a07436",
+    "ledger": "axes-021.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC72 printed146–147 complete10-clause bold pair, including daily work; Witte105 native paragraph; Ebertin88 printed86 complete native psychological/biological/sociological/manifestation boundaries and Intellectual/leading repairs; Banzhaf282–283 complete harmony and discord tails; Sandbach11 complete Principle/Process. Personally viewed Sandbach11: neqative eqo and odd splits are genuinely printed and retained. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-udo-pdf-072.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-ebertin-pdf-88.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-banzhaf-pdf-282.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-banzhaf-pdf-283.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-sandbach-pdf-11.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-021-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl: path=wiki/axes/sun-mars.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-saturn.md",
+    "before_sha256": "4b5ebbd567f247120125048cae511400052b8c83faba8cb3047841b4c9510b0e",
+    "after_sha256": "a5bc67f21aeace35e3386d703fba79e56cb529164156aa5de944e8d1d1269547",
+    "ledger": "axes-023.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC74 printed150–151 complete12-clause bold pair, including day of separation; Witte107 native paragraph; Ebertin94 printed92 complete separate note7 and formula-tail removal; Banzhaf284–285 complete discord ending; Sandbach14 complete Principle/Process. Historical timing example is retained only as source text. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-udo-pdf-074.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-ebertin-pdf-94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-banzhaf-pdf-284.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-banzhaf-pdf-285.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/sun-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/sun-uranus.md",
+    "before_sha256": "302a5e13d5db7d21100d493bd8389fbe85be0600dc7c41c2f77a72cf6a520503",
+    "after_sha256": "5ee729c8e19f12acf216a5ccfb471c277e1032ea3800ee2e10e669970668b845",
+    "ledger": "axes-023.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC75 printed152–153 complete12-clause bold pair; Witte108 native paragraph; Ebertin97 printed95 complete separate note8/formula removal; Banzhaf285–286 complete harmony/discord endings and emotional self-defense quote; Sandbach17 complete Principle/Process; Hand201–202 complete Sun/Uranus entry. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-udo-pdf-075.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-ebertin-pdf-97.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-banzhaf-pdf-285.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-banzhaf-pdf-286.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-023-hand-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-023.jsonl: path=wiki/axes/sun-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-neptune.md",
+    "before_sha256": "dd0cd7a838e0275516ff0c33707337179e6d008efba1644231233a5a62924baa",
+    "after_sha256": "4b91d687d4b432d8f1977f74a740302ed56436e1a76d743def12d9d6f393bec7",
+    "ledger": "axes-024.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC184 printed370–371 complete11-clause bold pair, including water event, sudden premonitions and surprising weakness; Witte234 native paragraph; Ebertin267 printed265 still-born glyph and complete separate note58 with its explicit warning; Banzhaf336–337 complete generational scope, pair paragraphs and four exact general glyphs; Sandbach104 complete Principle/Process; Hand211 complete pair. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-udo-pdf-184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-ebertin-pdf-267.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-banzhaf-pdf-336.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-banzhaf-pdf-337.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-hand-pdf-211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/uranus-pluto.md",
+    "before_sha256": "655a2c27c1239724848e42a292db3265f66f4a055f1166f82fd934a2a9d59d32",
+    "after_sha256": "cdf7d05750c06c17c248a5ac8cd4895ec1651cf04f360d679a864216651e65ba",
+    "ledger": "axes-024.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC185 printed372–373 complete9-clause bold pair; Witte235 native paragraph; Ebertin270 printed268 exact pair/formula boundary; Banzhaf336 scope plus337–338 full pair, seven exact general glyphs and full discord continuation; Sandbach105 complete Principle/Process; Hand211 complete pair. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-udo-pdf-185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-ebertin-pdf-270.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-banzhaf-pdf-336.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-banzhaf-pdf-337.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-banzhaf-pdf-338.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-024-hand-pdf-211.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-024.jsonl: path=wiki/axes/uranus-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-neptune.md",
+    "before_sha256": "f7f3240d712eb0b1b6da74a9dd4b733031e509c5d7bcc51db91085895f7e4a75",
+    "after_sha256": "4b454d94e71d49eb23e52772e0cf19f3af511f748dd473e72aed1479b0dffa4c",
+    "ledger": "axes-026.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC138 printed278–279 complete11-clause bold pair, restoring water love, disappointment and unclear wishes; Witte180 native paragraph; Ebertin189 printed187 exact pair/formula boundary; Sandbach61 complete Principle/Process; Hand206–207 full pair including unequal circumstance/care clause; Banzhaf315–316 sixteen exact glyphs and four complete final discord sentences. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-udo-pdf-138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-ebertin-pdf-189.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-316.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-hand-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-026.jsonl: path=wiki/axes/venus-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-pluto.md",
+    "before_sha256": "f013997f5386a559f3e632b3c40d8ff9fe2dbecb1cc8c68e4d2a0e7bcd195537",
+    "after_sha256": "40707cca354a06f03ed4e4a41d498898b780ed9cd07a48295ab9a451905464c3",
+    "ledger": "axes-026.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC139 printed280–281 complete9-clause bold pair, restoring unfolding beauty/harmony and art development; Witte181 native paragraph; Ebertin192 printed190 complete separate note35 with full moral/context qualification and formula removal; Sandbach62–63 complete Principle/Process; Hand207 complete pair; Banzhaf316–317 six exact glyphs and both restored final sentences. Ebertin actually prints lose-living; retained as genuine wording rather than silently modernized. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-udo-pdf-139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-ebertin-pdf-192.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-316.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-317.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-hand-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-026.jsonl: path=wiki/axes/venus-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-saturn.md",
+    "before_sha256": "fa54fcb2ed3a53796b07f7ad91deaa47a6e62ff5e220a8458333f86a64ca9b69",
+    "after_sha256": "7dbaaea67dc745e7a67fef40d1b7799478cac98b4e09bcb90abea20ba2d39bdf",
+    "ledger": "axes-026.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC136 printed274–275 complete11-clause bold pair, including art rather than artificial; Witte178 native paragraph; Ebertin183 printed181 exact pair/formula boundary; Sandbach57 complete Principle/Process; Hand206 complete pair; Banzhaf313–314 eleven exact glyphs, complete final harmony sentence and six final discord sentences. The unusual Venus glyph after Not permitting is actually printed and preserved. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-udo-pdf-136.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-ebertin-pdf-183.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-313.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-314.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-hand-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-026.jsonl: path=wiki/axes/venus-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/venus-uranus.md",
+    "before_sha256": "2514153fa6e3c6e11f427f2f769c9217b4b44c240e2f03e6ca830b49e1cf7131",
+    "after_sha256": "2c5febba119ce43769f471fcf0a937b4a0a9eade65e301d46714c5080e00982b",
+    "ledger": "axes-026.jsonl",
+    "reason": "Under root's final directive, prepared complete source history is reused; every cumulative original/current changed or flagged block, complete unique owning record and every new reference were independently checked without restarting unchanged history. Personally viewed actual prepared raw-source scans and read direct immutable raw locator passages: ABC137 printed276–277 complete10-clause bold pair, including Kunst-Ereignis; Witte179 native paragraph; Ebertin186 printed184 complete separate note33 and formula removal; Sandbach60 complete Principle/Process; Hand206 complete pair; Banzhaf314–315 nine exact glyphs and complete three-sentence harmony/discord endings. Ebertin actually prints particuliar; retained as genuine wording. All substantive changed wording, native category/footnote boundaries, translation clauses, glyphs and added locators pass. Unchanged inherited prose, historical medical/gender/spiritual/timing claims and genuine printed irregularities are excluded from new factual certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-udo-pdf-137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-ebertin-pdf-186.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-314.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-banzhaf-pdf-315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-sandbach-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-026-hand-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-026.jsonl: path=wiki/axes/venus-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  },
+  {
+    "path": "wiki/axes/moon-neptune.md",
+    "before_sha256": "70138806755159f2d2e8381a13b0ae9d30f522559acab5a419995f1b8884c4e4",
+    "after_sha256": "a32973d3dc286fa18551c1d7d2a28db40cb684d3aa742d9ce13d5de251e37ada",
+    "ledger": "axes-014.jsonl",
+    "reason": "Stable before/current history reused under root's final delta/new-reference scope. Every cumulative changed or flagged source block and new locator has been independently checked: ABC93 printed188–189 complete12-clause bold pair translation, actual Witte128 exact native pair paragraph, Ebertin133 printed131 native categories and complete note24, and actual Banzhaf298–299 complete harmony/discord. Personally viewed actual298 scan confirms all three final harmony sentences and the numb-feelings discord sentence; actual299 confirms the existing continuation. Fresh saved source diff contains exactly those four sentences and the scan-note clarification, with other source text unchanged. Full amended unique axes014 row1 and editor receipt reread, current source and owner rebound. Unchanged inherited Falis/Carter/Sandbach/Hand/Munkasey prose and historical medical/gender/spiritual/timing claims remain excluded from new factual/transcription certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-witte-raw.txt",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-udo-pdf-093.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-ebertin-pdf-133.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-014-banzhaf-pdf-299.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-banzhaf-p298.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-axes-remaining-final14-raw.json",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl: path=wiki/axes/moon-neptune.md",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl: exact Moon/Neptune four-sentence repair receipt"
+    ],
+    "verified_by": "/root/activation_review_013_015"
+  }
+]

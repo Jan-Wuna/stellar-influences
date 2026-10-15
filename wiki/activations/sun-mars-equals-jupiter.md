@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Jupiter](../triads/sun-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Increases your determination to develop physically; an awareness of the politica
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Enthusiasm translated into successful activity.
+- psychology: Optimism and confidence can become overdoing.
+- body/health: Munkasey names physical development, without a diagnosis.
+- social/relationship: Competition, engagement, and civil service are examples.
+- events/manifestations: Victory, achievement, or work involving finance and law.
+- conflicts/notes: Repeated fiance wording is not independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Success and overdoing are compatible possibilities in the entries. The repeated fiance example does not by itself prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Jupiter`: success in enterprise, confident execution, and a natural tendency to win ground through energetic initiative. Main caution: overdoing: confidence in one's force can lead to excess effort, inflated risk-taking, or too much heat in pursuit of victory.
+In `Sun/Mars = Jupiter`, Jupiter specifies Sun/Mars activity through confidence, enjoyment, and the prospect of success. The [Witte Entry](#witte-entry) names happiness in activity and victory, while the [Sandbach Entry](#sandbach-entry) connects enthusiasm with accomplishment and the risk of doing too much. The [Munkasey Entry](#munkasey-entry) gives competitive success and an inflated ego as examples. The common pattern is effort encouraged to reach further, with excess arising when confidence outruns proportion.
 
 ## Links
 

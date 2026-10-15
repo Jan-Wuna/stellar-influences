@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Moon](../triads/vernal-point-sun-moon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Bodies of female persons. Friendships with female persons. The day and the hour in public life.
 
@@ -42,13 +46,27 @@ Bodies of female persons. Friendships with female persons. The day and the hour 
 
 #### ABC Entry
 
-The man's wife in public, felicitous persons in public, man and woman in public, public center for women, female persons in public life, and center of the people in frequentity
+- Source page: 22; PDF page: 10 (one-based spread).
+
+A man's wife in public, feelingful people in public, man and woman in public, a public center for women, female persons in public life, and a public center of a people
+
+## Comparative Schema
+
+- core meaning: Public personal life expressed through women, relationships, and feeling.
+- psychology: Feelingful people are explicit.
+- body/health: Witte names women's bodies without a clinical claim.
+- social/relationship: Friendships with women and a man's wife are source examples.
+- events/manifestations: Public centers for women or a people and day/hour examples.
+- conflicts/notes: Feelingful replaces felicitous; no timing method follows from day and hour.
+
+## Contradictions
+
+No direct contradiction is established. Bodily, relational, and communal-center examples remain separate expressions of public presence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Moon`: bodies of female persons, friendships with female persons, and the day and the hour in public life.
-- Practical expression: the man's wife in public, felicitous persons in public, woman in public, public center for women, and female persons in public life.
+In `Vernal Point/Sun = Moon`, public personal life is specified through feeling and the sources' examples of women. The [Witte entry](#witte-entry) names women's bodies, friendships, and the day and hour in public life. The restored [ABC entry](#abc-entry) adds feelingful people, a wife, women and men, and public centers. The synthesis preserves personal and collective participation without converting those gendered examples into universal traits.
 
 ## Links
 

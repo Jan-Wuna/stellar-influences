@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Admetos`
 - Astronomicon formula: `Y/¡ = ¦`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Loneliness through unhappy marriage. Separated friends. To be deserted. Losses in a partnership. To be defrauded.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `393`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-Dissolving common depressions, restricting of a community in the air, consolidating a weak community, grilning metaphysical community, insecurity of a community through blockade, and lowering of a foreign community
+Dissolving shared depressions, restrictions on a community in the air, consolidation of a weak community, thorough metaphysical community, uncertainty of a community through blockade, and oppression of a foreign community
+
+## Comparative Schema
+
+- core meaning: loneliness, separation, or restriction in unions and communities, with consolidation or release also represented.
+- psychology: loneliness and shared depressions are source themes without a stated psychological mechanism.
+- body/health: ABC's shared depressions remain historical source wording, not a clinical assessment.
+- social/relationship: unhappy marriage, separated friends, desertion, and oppression of a foreign community are explicit.
+- events/manifestations: partnership losses, fraud, blockade, and consolidation of a weak community are examples.
+- conflicts/notes: the thorough metaphysical-community phrase is literal and unexplained; it is excluded from confident synthesis.
+
+## Contradictions
+
+Witte emphasizes separation and loss. ABC also includes dissolving shared depressions and consolidating a weak community, so restriction is not the sole possible direction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Admetos`: Loneliness through unhappy marriage. Separated friends. To be deserted. Losses in a partnership. To be defrauded.
-- Practical focus: compresses unhappy union into loneliness, separation, and abandonment, showing partnership loss and defrauding that leave communal or marital life narrowed and emotionally vacant.
-- Practical expression: dissolving common depressions, restricting of a community in the air, consolidating a weak community, and insecurity of a community through blockade.
+In Neptune/Cupido = Admetos, Admetos specifies the pair through separation or restriction affecting a union or community. The [Witte entry](#witte-entry) gives loneliness in unhappy marriage, separated friends, desertion, and partnership losses. [ABC](#abc-entry) adds blockade and oppression of a foreign community, but also consolidation of a weak community and dissolution of shared depressions (printed p. 393, PDF p. 195). These preserve both adverse narrowing and possible stabilization or release, without assuming that every partnership becomes empty or every restriction leads to abandonment.
 
 ## Links
 

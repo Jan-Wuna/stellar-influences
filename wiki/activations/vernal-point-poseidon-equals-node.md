@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Poseidon = Node`
 - Astronomicon formula: `VP/¨ = g`
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 55 (one-based).
+
 To be associated with mentally matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Spiritual connections in the public, clarity in the public Relations, culture Connections in the public, connected with the public Ideas, public CultureMeetings, and future connections in the public Life
+- Source page: 58; PDF page: 28 (one-based spread).
+
+Intellectual connections in public, clarity in public relationships, public cultural connections, connection with public ideas, a public cultural meeting, and reasonable connections in public life
+
+## Comparative Schema
+
+- core meaning: Public intellectual and cultural life shared through connections.
+- psychology: Clarity and reason in relationships are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Association with mental matters and public ideas.
+- events/manifestations: Cultural links and meetings.
+- conflicts/notes: Reasonable connections replaces future connections; no timing layer is implied.
+
+## Contradictions
+
+No direct contradiction is established. Connections through shared ideas do not establish that all participants agree or that every idea is true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = Node`: to be associated with mentally matters.
-- Practical expression: spiritual connections in the public, clarity in the public Relations, culture Connections in the public, connected with the public Ideas, and public CultureMeetings.
+In `Vernal Point/Poseidon = Node`, public intellectual life is expressed through association. The [Witte entry](#witte-entry) names connection with mental matters. The restored [ABC entry](#abc-entry) develops cultural meetings, links to public ideas, clear relationships, and reasonable connections. The coherent emphasis is understanding or cultural participation shared through a network of people.
 
 ## Links
 

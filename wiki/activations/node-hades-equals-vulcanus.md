@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node Hades Vulcanus](../triads/node-hades-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ Through ugly things tied together. Dangerous gang of criminals.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `227`, one-based PDF p. `112`; exact activating-factor row.
+
 #### ABC Entry
 
-To face a great danger, relationship to secret powers, influential connections in need, dangerous secret connection, criminal violence in a Y release, powerful connections from the past, and strong deprivation in a Y release
+Encountering a great danger, a relationship with secret powers, influential connections in need, a dangerous secret connection, criminal violence within a connection, powerful connections from the past, strong privations within a connection.
+
+## Comparative Schema
+
+- core meaning: A powerful or dangerous connection under adverse conditions.
+- psychology: No independent psychological trait is stated.
+- body/health: Violence is a source example; no medical claim is established.
+- social/relationship: Ties through adversity, secret powers, or influential contacts in need.
+- events/manifestations: A dangerous gang in Witte; major danger and powerful past connections in ABC.
+- conflicts/notes: ABC separately names criminal violence and strong privations within a connection; these are adverse examples, not inevitable outcomes.
+
+## Contradictions
+
+ABC includes influential ties in need as well as dangerous secret connections. Power therefore need not have the same purpose in every example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Vulcanus`: Through ugly things tied together. Dangerous gang of criminals.
-- Practical focus: through ugly things tied together; also dangerous gang of criminals.
+Vulcanus specifies Node/Hades through the force or danger carried by an adverse connection. The [Witte entry](#witte-entry) describes people tied together through ugly circumstances and gives a dangerous gang as an example. The [ABC entry](#abc-entry) adds secret powers, influential connections in need, powerful contacts from the past, and severe privations within a connection. These retain both threatening ties and influence encountered within need.
 
 ## Links
 

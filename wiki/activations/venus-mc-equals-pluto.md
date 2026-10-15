@@ -33,27 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Pluto MC](../triads/venus-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
+
 #### Witte Entry
 
-P Longing for developments and transformations. One who loves changes.
+Longing for developments and transformations. One who loves changes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `71`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-monical development, my artistic development, myc growing sympathy, developing scclen harmony, and changing my affection
+Soulful unfolding of art, I love changes, developing inner peace, my harmonious development, my artistic development, my growing sympathy, developing harmony of the soul, and change in my affection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0683`.
 
 #### Ebertin Entry
 
 An unusual power of attraction. A strange providence in love relationships.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF pages `66–67` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ A very strong appreciation for what beauty is and how to enhance the different f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Changing affection and values, with attraction or spiritual love as a force for development.
+- Psychology: Clinging to values can hinder or support growth; strong appreciation may favor expensive elaboration.
+- Body/health: The entries supply no specific bodily or medical implication.
+- Social/relationship: Unusual attraction, changing affection, and the possible depletion of supporters' resources.
+- Events/manifestations: Artistic development, growing sympathy, and developing inner peace.
+- Conflicts/notes: Sandbach's obstructive attachment and transformative love coexist; Munkasey's resource depletion remains an adverse expression.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's obstructive attachment and transformative love coexist; Munkasey's resource depletion remains an adverse expression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Pluto`: compelling public style, strategic charm, and the ability to reshape direction through concentrated value or relational force. Main caution: coercive image-making: attraction and status can become controlling, possessive, or overly tied to power.
+`Venus/MC = Pluto` develops or changes personal affection and what one values. [Witte](#witte-entry) names longing for change, while the [ABC entry](#abc-entry) extends it to art, inner peace, and growing sympathy. [Ebertin](#ebertin-entry) adds unusual attraction and providence in love. [Sandbach](#sandbach-entry) makes attachment to values a turning point: it can prevent growth or deepen it through spiritual love. [Munkasey](#munkasey-entry) adds an eye for elaborate beauty and the danger of depleting those who provide support. Change and intensity therefore include both development and costly fixation.
 
 ## Links
 

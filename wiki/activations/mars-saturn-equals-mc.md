@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = MC`
 - Astronomicon formula: `U/W = MC`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, MC row.
+
 Grief. To suffer from separations or separating actions. Decease. Cause of death. Dying. Deaths of others that make a deep impression upon the mind of the native. One’s own death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I at the arbcilc harl, my patient sheep, my total will, my serious crime, my concentration on the work, my problcmal arbcit, psychic pulses, and seclical stress on the work
+- Source reference: printed p. 300; one-based PDF p. 149, Mars + Saturn, MC row.
+
+Serious work of the soul, I work hard, my patient creative work, my enduring will, my painful work, my serious activity, my concentration on work, my problematic work, psychic disturbance impulses, and strain on the soul during creative work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Endurance, power of resistance, indefatigable. The need to overcome many difficulties in life, ability to bear the suffering of the soul (with dignity and without complaint). Mourning and bereavement (death). Mars/Saturn has only related to accidents or some kind of suffering if the native was in a position and an environment and conditions which made such serious consequences possible. 39 There are many people who have MC = Mars/Saturn in their chart and yet live to an old age. However, the first part of this interpretation is correct as these people are very tough and have a great deal of perseverence, having to use an exceptional amound of energy in order to keep their place at work and maintain their position in life.
+- Source reference: printed p. 206; one-based PDF p. 208, coded entry 0709 and its footnote 39.
+
+Endurance, power of resistance, indefatigable. The need to overcome many difficulties in life, ability to bear the suffering of the soul (with dignity and without complaint). Mourning and bereavement (death).
+
+Footnote 39 to entry 0709: There are many people who have MC = Mars/Saturn in their chart and yet live to an old age. However, the first part of this interpretation is correct as these people are very tough and have a great deal of perseverence, having to use an exceptional amound of energy in order to keep their place at work and maintain their position in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 69, Planets activating the Mars/Saturn midpoint, Midheaven paragraph.
 
 One is growing in this lifetime toward a stronger, more careful and sincere expression of spiritual truth, and toward keeping one’s efforts in focused alignment with one’s High Self. Slow, focused, gradual and/or careful action taken to fulfill career goals. The tendency to be uncertain of how to proceed in one’s work. The possibility of being frustrated with or by employers and/or authority figures. At worst, one plays the role of an aggressive authoritarian.
 
@@ -70,22 +82,21 @@ Increases in the respect or personal stature you receive due to great efforts on
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Endurance and disciplined development amid demanding personal or vocational circumstances.
+- Psychology: Persistence and focused purpose coexist with uncertainty, grief, or authoritarian reactions.
+- Body/health: Witte's death language is historical; Ebertin's footnote 39 states that many people with MC = Mars/Saturn live to old age.
+- Social/relationship: Frustration with employers or authority figures is possible; earned respect is another expression.
+- Events/manifestations: Maintaining a position, developing expertise slowly, and coping with separation or bereavement.
+- Conflicts/notes: ABC's full ten clauses give patient creative work, serious activity and psychic disturbance impulses. Ebertin footnote 39 belongs to this MC entry; the preceding footnote 38 continuation belongs to Pluto entry 0706.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's footnote 39 qualifies the fatal reading by noting that many people with MC = Mars/Saturn live to old age, emphasizing perseverance and the energy needed to maintain a position. The enabling-circumstances passage belongs to footnote 38 of the separate Pluto entry and is not part of this MC paragraph.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = MC`: toughness, disciplined work, and the capacity to maintain position under prolonged pressure or sorrow. Main caution: authoritarian or grief-laden purpose: blocked force can make work feel joyless, frustrate direction, or express itself as harsh control.
+In `Mars/Saturn = MC`, MC specifies demanding effort as personal direction, endurance, and the work of maintaining a position or developing expertise. Slow progress can earn respect, while uncertainty or frustration with authority remains possible. See [Ebertin](#ebertin-entry) (printed p. 206, code 0709), [Sandbach](#sandbach-entry) (exact Midheaven paragraph at PDF p. 69), and [Munkasey](#munkasey-entry) (printed p. 228). Ebertin explicitly limits [Witte's](#witte-entry) death emphasis (PDF p. 193); the formula does not establish an early death. The [ABC entry](#abc-entry) (printed p. 300) adds serious work of the soul, patient creative work, enduring will and strain during creation.
 
 ## Links
 

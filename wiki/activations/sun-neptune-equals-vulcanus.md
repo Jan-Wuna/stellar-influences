@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Vulcanus`
 - Astronomicon formula: `S/Y = §`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -42,13 +44,27 @@ To be entirely defenseless. To put up with everything as it comes. Exposed to fa
 
 #### ABC Entry
 
-replacing body violence, personal power weakness, personal power in the air, strong of a man in the water, strong personal insecurity, and weak of a strong man
+Source locator: printed page 155 / PDF page 76, Vulcanus glyph under Sonne + Neptun. English translation checked against the complete seven-clause row; Körper-Gewalt is retained as bodily force/violence without narrowing its sense further.
+
+Influence of poison in the body, disappointing bodily force/violence, personal weakness of power, personal power in the air, a man's strength in water, strong personal uncertainty, and weaknesses of a strong man.
+
+## Comparative Schema
+
+- core meaning: Power experienced through defenselessness, weakness, or marked insecurity.
+- psychology: Passively accepting circumstances or feeling strongly insecure.
+- body/health: The raw ABC entry includes poison's bodily influence; no clinical conclusion follows.
+- social/relationship: Exposure to circumstances one cannot resist; no particular relationship is specified.
+- events/manifestations: Weakness in a strong person; literal power in air/water remains an ABC application.
+- conflicts/notes: Do not replace defenselessness with a generic promise of powerful inspiration.
+
+## Contradictions
+
+- Witte's defenselessness and ABC's power/weakness contrasts are not an account of inspired strength. ABC's poison and disappointing bodily force/violence remain distinct attributed examples, without establishing a cause for every experience of weakness.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Neptune = Vulcanus`: forceful inspiration and powerful spiritual or imaginative pressure.
-- Practical expression: replacing body violence, personal power weakness, personal power in the air, strong of a man in the water, and strong personal insecurity.
+Vulcanus specifies the Sun/Neptune axis through the difficulty of exercising power: even apparent strength may coexist with pronounced insecurity or an inability to resist what happens. [Witte Entry](#witte-entry) states defenselessness and passive acceptance; [ABC Entry](#abc-entry) contrasts personal power with weakness and the weaknesses of a strong person. These entries support vulnerable power rather than forceful inspiration.
 
 ## Links
 

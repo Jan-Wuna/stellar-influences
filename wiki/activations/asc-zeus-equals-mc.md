@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `Asc/£ = MC`
 - Axis page: [Asc/Zeus](../axes/asc-zeus.md)
 - Triad hub: [Asc MC Zeus](../triads/asc-mc-zeus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -38,16 +39,29 @@ updated_at: 2026-05-04
 
 To be incited to an act by others.
 
+Source reference: one-based PDF page 93, Ascendant + Zeus, MC row.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Fcurigc Partncr Soul, I shape the environment, inner fire of the partner, my goal for the environment, my efforts with a partners, my achievements for the environment, minute of fire at the site, seclic partner punch, and psychological performance of the partner
+A fiery partner soul, I shape the surroundings, inner fire of the partner, my goal for the surroundings, my efforts with the partner, my achievements for the surroundings, a minute of fire at the place, psychological partner direction, and psychological achievement of the partner.
+
+Source reference: printed page 126, one-based PDF page 62, Aszendent + Zeus, MC row. “Seelische Partner-Führung” is inner or psychological partner direction, not a punch; it does not identify who leads whom. The singular partner and fiery soul wording are restored. The minute-of-fire clause names no timing procedure.
+
+## Comparative Schema
+
+- **Core meaning:** Being incited to act by others, with personal shaping, goals and effort in the surroundings in ABC.
+- **Psychology:** The partner's inner fire, psychological direction and achievement are stated without a defined mechanism or clarity test.
+- **Body/health:** Neither entry supplies a bodily or health outcome.
+- **Social/relationship:** Others prompt action in Witte; ABC also names my efforts with the partner and partner direction of unspecified agency.
+- **Events/manifestations:** Shaping the surroundings, achievements for them and a minute of fire at the place.
+- **Conflicts/notes:** Prompting from others coexists with one's own goals and activity. The entries do not establish a public role, compulsory passivity or lack of inner clarity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Zeus = MC`: externally triggered action, public initiative, and an environment that pushes the native into doing rather than remaining passive. Main caution: acting from outside provocation instead of inner clarity.
+`Asc/Zeus = MC` describes action incited through others and personally expressed in the surroundings. The [Witte entry](#witte-entry) gives the external prompt directly; the [ABC entry](#abc-entry) adds my shaping, goals, efforts with the partner and achievements, alongside the partner's inner fire and psychological direction or achievement. The interpretation therefore connects another person's stimulus with one's own or shared activity, while leaving the exact form and direction of partner guidance open.
 
 ## Links
 

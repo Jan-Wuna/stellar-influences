@@ -29,10 +29,13 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/Y = VP`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Vernal Point Moon Neptune](../triads/vernal-point-moon-neptune.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -40,16 +43,29 @@ The general sensibility and susceptibility for something. Virgins. Unmarried mot
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `188`; PDF p. `93`.
+
 #### ABC Entry
 
 disappointment of a people in public, sensitivity of women in public life, foreign peoples in public, public unrest among the people, public deception of the people, and uncertain woman in public
 
+## Comparative Schema
+
+- core meaning: Vernal Point specifies the pair as public susceptibility, uncertainty, and collective disappointment.
+- psychology: Witte describes general sensitivity; ABC places insecurity and disappointment in public life.
+- body/health: neither entry establishes a specific health claim; historical examples concerning women are not diagnoses.
+- social/relationship: the shared emphasis is the populace and public life, including foreign peoples in ABC.
+- events/manifestations: public confusion, unrest, and deception appear alongside Witte's separate references to night hours and masses of air.
+- conflicts/notes: Witte's virgins and unmarried mothers remain source-specific examples, not a universal description of these groups.
+
+## Contradictions
+
+- Both entries include public susceptibility or confusion, but their ranges differ: ABC focuses on public affairs, while Witte also lists night and air. These additions do not establish a contradiction or independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Vernal Point`: The general sensibility and susceptibility for something. Virgins. Unmarried mothers. Confused populace. The night hours in general. Masses of air.
-- Practical focus: externalizes `Moon/Neptune` into collective susceptibility, public confusion, and general night or atmospheric conditions. It points to impressionable masses, emotionally porous social fields, and diffuse shared sensitivity that can be nurturing, passive, or easily misled.
-- Practical expression: disappointment of a people in public, sensitivity of women in public life, foreign peoples in public, public unrest among the people, and public deception of the people.
+In `Moon/Neptune = Vernal Point`, Vernal Point specifies the pair in public and collective experience. [Witte](#witte-entry) names general susceptibility and a confused populace; [ABC, p. 188](#abc-entry) adds public disappointment, unrest, and deception. The common theme is sensitivity or uncertainty shared in public life. Witte's additional references to night hours and masses of air remain distinct manifestations rather than grounds for an enlarged psychological claim.
 
 ## Links
 

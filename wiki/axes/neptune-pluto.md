@@ -23,7 +23,9 @@ related_activations:
   - Neptune/Pluto = MC
   - Neptune/Pluto = Mercury
   - Neptune/Pluto = Moon
+  - Neptune/Pluto = Neptune
   - Neptune/Pluto = Node
+  - Neptune/Pluto = Pluto
   - Neptune/Pluto = Poseidon
   - Neptune/Pluto = Saturn
   - Neptune/Pluto = Sun
@@ -74,12 +76,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Y/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NEPTUNE/PLUTO`
-- Source page: `327`
+- Source heading: `NEPTUNE + PLUTO`
+- PDF page (one-based): `246` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -87,9 +91,11 @@ Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable tran
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `390–391`; PDF page (one-based): `194` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Devel opment, Intuition, Air Change, Uncertain Development, Water Change, Growing Expectations, Growing Uncertainty, and Future Development
+Feigning developments, unfolding sensitivity, developing intuition, change of air, uncertain development, change of water, growing expectations, growing uncertainty, future development.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -183,12 +189,12 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Hidden or uncertain transformation, with consequences that may become visible only later.
+- psychology: Intense imagination, sensitivity and spiritual inquiry range into obsession, illusory interpretation and loss of clear aims.
+- body/health: Ebertin names slowly developing or painless disease and gradual therapy; Munkasey names drug reactions, glands and regeneration. These remain attributed claims, not evidence of an occult illness.
+- social/relationship: Mutual plans and compassion coexist with unclear roles, escape, indirect influence or misuse of power.
+- events/manifestations: Unnoticed changes, uncertain turnarounds and feigned developments are explicit; physical air/water changes and collective shifts in imagery, resources and institutions add distinct scales.
+- conflicts/notes: Sources combine spiritual evolution with confusion and loss; transformation is not necessarily improvement. Falis's generational/aspect discussion remains her source context, and psychic or healing powers are not established by the pair.
 
 ## Related Activations
 
@@ -204,7 +210,9 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 - [Neptune/Pluto = MC](../activations/neptune-pluto-equals-mc.md)
 - [Neptune/Pluto = Mercury](../activations/neptune-pluto-equals-mercury.md)
 - [Neptune/Pluto = Moon](../activations/neptune-pluto-equals-moon.md)
+- [Neptune/Pluto = Neptune](../activations/neptune-pluto-equals-neptune.md)
 - [Neptune/Pluto = Node](../activations/neptune-pluto-equals-node.md)
+- [Neptune/Pluto = Pluto](../activations/neptune-pluto-equals-pluto.md)
 - [Neptune/Pluto = Poseidon](../activations/neptune-pluto-equals-poseidon.md)
 - [Neptune/Pluto = Saturn](../activations/neptune-pluto-equals-saturn.md)
 - [Neptune/Pluto = Sun](../activations/neptune-pluto-equals-sun.md)
@@ -216,15 +224,15 @@ Extreme reactions to drugs; weakness in the endocrine gland system; cell formati
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Unnoticed or uncertain change, spiritual refinement and confusion are distinct emphases; none makes an invisible development necessarily progressive or destructive. Munkasey explicitly includes equating decay with progress as a difficult expression.
+- ABC's complete bold summary was retranslated from PDF194, printed390–391, restoring feigned development and unfolding sensitivity. Witte's exact PDF246 reference is distinct from Munkasey's printed327.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto` is the axis of deep invisible transformation, collective psychic pressure, and the dissolution and remaking of hidden realities. It combines dream, imagination, mysticism, and diffusion with intensity, regeneration, secrecy, and long-wave evolutionary change.
-- Chart expression: profound intuition, occult or psychological interest, hidden healing processes, spiritual purification, and transformations that happen below ordinary awareness before becoming visible. Liabilities: obsession, confusion, addictive escape, mass illusion, surrender to faceless forces, and subtle crises that erode clarity or will before their consequences are fully recognized.
+`Neptune/Pluto` concerns transformation that is difficult to see clearly while it is taking place. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) stresses unnoticed changes, hidden alteration and consequences recognized only later; [Hand](#robert-hand---horoscope-symbols) adds disappearance and long-range transformation. In experience, this can involve powerful imagination, fascination with mysteries or the attempt to understand deeper forces. [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) and [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) place spiritual refinement beside overwhelming visions and confused interpretation, so intensity does not establish insight or progress.
+
+The same uncertainty can reshape aims, attachments or collective assumptions before its effects become obvious. [Falis](#michelle-falis---planet-combinations-astrological-brainstorms) includes compassion and relinquishing control alongside indirect mass influence, numbing and illusions about power. [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) distinguishes abandoning disruptive pursuits and making mutual plans from helpless withdrawal or mistaking decay for progress. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) retains growing expectations and uncertainty, feigned development, and literal air or water changes. These motifs do not prove a hidden crisis, psychic ability, illness or successful renewal; the particular contribution of another factor belongs to its exact [activation](#related-activations).
 
 ## Links
 

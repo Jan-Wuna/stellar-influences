@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Poseidon = Mars`
 - Astronomicon formula: `VP/¨ = U`
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 55 (one-based).
+
 Moral affairs. Mental attitudes. Steadfast philosophy or perspective of life.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work on world culture, insightful creation for the public, making public clarity, cultural work in the public life, reason actions in the public life, and will for clarity in the public
+- Source page: 58; PDF page: 28 (one-based spread).
+
+Work on world culture, insightful creation for the public, establishing public clarity, cultural work in public life, reasonable actions in public life, and a will for public clarity
+
+## Comparative Schema
+
+- Core meaning: Public cultural or intellectual life expressed through work and a steadfast perspective.
+- Psychology: Moral attitudes, philosophy, and the will for clarity are explicit.
+- Body/health: No bodily or medical claim appears.
+- Social/relationship: Work on world culture and creation for the public are named.
+- Events/manifestations: Cultural work, insightful creation, and efforts to establish clarity supply concrete forms.
+- Conflicts/notes: The entries name moral affairs without specifying a moral code or establishing every action as right.
+
+## Contradictions
+
+Steadfast philosophy and work for clarity are compatible emphases; neither entry establishes that conviction always produces insight.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = Mars`: moral affairs, mental attitudes, and steadfast philosophy or perspective of life.
-- Practical expression: work on world culture, insightful creation for the public, making public clarity, cultural work in the public life, and reason actions in the public life.
+In `Vernal Point/Poseidon = Mars`, Mars specifies public intellectual and cultural life through active work shaped by a firm perspective. The [Witte entry](#witte-entry) supplies moral affairs and a steadfast philosophy; the [ABC entry](#abc-entry) describes cultural work, insightful creation for the public, and efforts to establish clarity. The connection is between held ideas and their practical expression, without importing aggression into these passages.
 
 ## Links
 

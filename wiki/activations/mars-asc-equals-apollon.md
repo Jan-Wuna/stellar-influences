@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Asc Apollon](../triads/mars-asc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Common scientific or economic activities with others.
 
 #### ABC Entry
 
-Work experiences of the partner, work success on site, successful partner impulses, successful actions for the environment, freedom will of others, vie! power of action of others, scientific environmental work, and increasing environmental activity
+Work experiences of the partner, work success on site, successful partner impulses, successful actions for the environment, freedom will of others, much energy for action in others, scientific environmental work, and increasing environmental activity
+
+- Source reference: printed p. 111 (PDF p. 54), Ascendant + Mars, Apollon row; English checked against the scanned German.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [ABC Entry](#abc-entry), printed p. 111 (entry).
+
+- Core meaning: Activity with others develops into shared scientific or economic work.
+- Psychology: ABC includes others' wish for freedom, without a broader personality profile.
+- Body/health: The entries concern cooperative work without specifying a bodily condition.
+- Social/relationship: Partners' experience and successful activity in the surroundings support cooperation.
+- Events/manifestations: Local work success, common scientific work, and increasing environmental activity are named.
+- Conflicts/notes: The scanned Apollon row confirms much energy for action in others; the interpretation rests on this formula's partner evidence.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Asc = Apollon` turns assertive presence toward broad cooperation, especially shared technical, scientific, or economic activity with others.
-- Chart expression: energetic networking, productive collaboration, and an environment where action is distributed across teams, markets, or organized enterprises rather than kept purely personal.
+Apollon specifies the Mars/Asc axis through shared work that draws on others' experience and initiative. Common scientific or economic activity in [Witte Entry](#witte-entry) joins successful partner action and increasing activity in the surroundings in the scan-checked [ABC Entry](#abc-entry). The central meaning is productive cooperation, with the energy of others contributing to work in the immediate setting.
 
 ## Links
 

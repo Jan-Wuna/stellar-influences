@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Hades`
 - Astronomicon formula: `g/¦ = ¢`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 To suffer a lack of life’s necessities with a few. Lack, poverty, sickness, disagreeableness hinder.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Excluding services in a connection, blocked target striving in a connection, serious relationships with the participants, contact design in traffic jams, deepening connections to the end of the journey, and determined contact consolidation
+Enduring connections in need, a blockade in a secret connection, restriction of a criminal connection, the end of dangerous mediation, an ending through renouncing a connection, and consolidation of a connection from the past
+
+## Comparative Schema
+
+- core meaning: connections endure amid deprivation or obstruction, while some harmful ties end.
+- psychology: no individual motive for retaining or renouncing a tie is supplied.
+- body/health: sickness is Witte's historical example, not a diagnosis.
+- social/relationship: secret or criminal connections are specific ABC settings rather than a judgement on all small circles.
+- events/manifestations: lack of necessities, ending dangerous mediation and consolidating an old connection are named.
+- conflicts/notes: the sources distinguish endurance, blockage and renunciation rather than one inevitable decline.
+
+## Contradictions
+
+Witte stresses deprivation among a few. ABC adds enduring ties, blocked secret connections and the ending of dangerous mediation, with no universal sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Hades`: To suffer a lack of life’s necessities with a few. Lack, poverty, sickness, disagreeableness hinder.
-- Practical focus: lack, poverty, sickness, disagreeableness hinder.
-- In difficult expression, it can mark to suffer a lack of life’s necessities with a few.
+Node/Admetos = Hades concerns restricted connections under hardship. [Witte](#witte-entry) describes a few people lacking necessities, with poverty or sickness among the impediments. [ABC](#abc-entry) adds ties enduring in need, blocked secret connections and an ending through renunciation, beside consolidating a connection from the past (printed p. 235, PDF p. 116). Endurance and release are both present. Criminality and sickness remain particular attributed examples, not qualities inferred from having few contacts.
 
 ## Links
 

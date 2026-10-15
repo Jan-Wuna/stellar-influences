@@ -1,0 +1,6843 @@
+[
+ {
+  "title": "Mercury/Saturn = Asc",
+  "slug": "mercury-saturn-equals-asc",
+  "path": "wiki/activations/mercury-saturn-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Asc",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Jupiter",
+  "slug": "mercury-saturn-equals-jupiter",
+  "path": "wiki/activations/mercury-saturn-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Jupiter",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Jupiter",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Mars",
+  "slug": "mercury-saturn-equals-mars",
+  "path": "wiki/activations/mercury-saturn-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mars",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Mars",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = MC",
+  "slug": "mercury-saturn-equals-mc",
+  "path": "wiki/activations/mercury-saturn-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "MC",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = MC",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Moon",
+  "slug": "mercury-saturn-equals-moon",
+  "path": "wiki/activations/mercury-saturn-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Moon",
+   "Moon",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Neptune",
+  "slug": "mercury-saturn-equals-neptune",
+  "path": "wiki/activations/mercury-saturn-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Neptune",
+   "Neptune",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Node",
+  "slug": "mercury-saturn-equals-node",
+  "path": "wiki/activations/mercury-saturn-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Node",
+   "Node",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Pluto",
+  "slug": "mercury-saturn-equals-pluto",
+  "path": "wiki/activations/mercury-saturn-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Pluto",
+   "Pluto",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Sun",
+  "slug": "mercury-saturn-equals-sun",
+  "path": "wiki/activations/mercury-saturn-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Sun",
+   "Saturn",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Uranus",
+  "slug": "mercury-saturn-equals-uranus",
+  "path": "wiki/activations/mercury-saturn-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Uranus",
+   "Saturn",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Venus",
+  "slug": "mercury-saturn-equals-venus",
+  "path": "wiki/activations/mercury-saturn-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Venus",
+   "Saturn",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Asc",
+  "slug": "mercury-uranus-equals-asc",
+  "path": "wiki/activations/mercury-uranus-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Asc",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Jupiter",
+  "slug": "mercury-uranus-equals-jupiter",
+  "path": "wiki/activations/mercury-uranus-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Jupiter",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Jupiter",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Mars",
+  "slug": "mercury-uranus-equals-mars",
+  "path": "wiki/activations/mercury-uranus-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mars",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Mars",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = MC",
+  "slug": "mercury-uranus-equals-mc",
+  "path": "wiki/activations/mercury-uranus-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "MC",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = MC",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Moon",
+  "slug": "mercury-uranus-equals-moon",
+  "path": "wiki/activations/mercury-uranus-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Moon",
+   "Moon",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Neptune",
+  "slug": "mercury-uranus-equals-neptune",
+  "path": "wiki/activations/mercury-uranus-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Neptune",
+   "Neptune",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Node",
+  "slug": "mercury-uranus-equals-node",
+  "path": "wiki/activations/mercury-uranus-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Node",
+   "Node",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Pluto",
+  "slug": "mercury-uranus-equals-pluto",
+  "path": "wiki/activations/mercury-uranus-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Pluto",
+   "Pluto",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Saturn",
+  "slug": "mercury-uranus-equals-saturn",
+  "path": "wiki/activations/mercury-uranus-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Saturn",
+   "Saturn",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Sun",
+  "slug": "mercury-uranus-equals-sun",
+  "path": "wiki/activations/mercury-uranus-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Sun",
+   "Sun",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Venus",
+  "slug": "mercury-uranus-equals-venus",
+  "path": "wiki/activations/mercury-uranus-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Venus",
+   "Uranus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Asc",
+  "slug": "mercury-venus-equals-asc",
+  "path": "wiki/activations/mercury-venus-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Asc",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Jupiter",
+  "slug": "mercury-venus-equals-jupiter",
+  "path": "wiki/activations/mercury-venus-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Jupiter",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Jupiter",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Mars",
+  "slug": "mercury-venus-equals-mars",
+  "path": "wiki/activations/mercury-venus-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mars",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Mars",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = MC",
+  "slug": "mercury-venus-equals-mc",
+  "path": "wiki/activations/mercury-venus-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "MC",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = MC",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Moon",
+  "slug": "mercury-venus-equals-moon",
+  "path": "wiki/activations/mercury-venus-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Moon",
+   "Moon",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Neptune",
+  "slug": "mercury-venus-equals-neptune",
+  "path": "wiki/activations/mercury-venus-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Neptune",
+   "Neptune",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Node",
+  "slug": "mercury-venus-equals-node",
+  "path": "wiki/activations/mercury-venus-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Node",
+   "Node",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Pluto",
+  "slug": "mercury-venus-equals-pluto",
+  "path": "wiki/activations/mercury-venus-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Pluto",
+   "Pluto",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Saturn",
+  "slug": "mercury-venus-equals-saturn",
+  "path": "wiki/activations/mercury-venus-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Saturn",
+   "Saturn",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Sun",
+  "slug": "mercury-venus-equals-sun",
+  "path": "wiki/activations/mercury-venus-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Sun",
+   "Sun",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Uranus",
+  "slug": "mercury-venus-equals-uranus",
+  "path": "wiki/activations/mercury-venus-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "reinhold-ebertin-the-combination-of-stellar-influences",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 5,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 115,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Uranus",
+   "Uranus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Jupiter",
+  "slug": "moon-asc-equals-jupiter",
+  "path": "wiki/activations/moon-asc-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Jupiter",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Mars",
+  "slug": "moon-asc-equals-mars",
+  "path": "wiki/activations/moon-asc-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mars",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Asc = MC",
+  "slug": "moon-asc-equals-mc",
+  "path": "wiki/activations/moon-asc-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "MC",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = MC"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Mercury",
+  "slug": "moon-asc-equals-mercury",
+  "path": "wiki/activations/moon-asc-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Mercury"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Neptune",
+  "slug": "moon-asc-equals-neptune",
+  "path": "wiki/activations/moon-asc-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Neptune",
+   "Neptune"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Node",
+  "slug": "moon-asc-equals-node",
+  "path": "wiki/activations/moon-asc-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Node",
+   "Node"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Pluto",
+  "slug": "moon-asc-equals-pluto",
+  "path": "wiki/activations/moon-asc-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Pluto",
+   "Pluto"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Saturn",
+  "slug": "moon-asc-equals-saturn",
+  "path": "wiki/activations/moon-asc-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Sun",
+  "slug": "moon-asc-equals-sun",
+  "path": "wiki/activations/moon-asc-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Sun",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Uranus",
+  "slug": "moon-asc-equals-uranus",
+  "path": "wiki/activations/moon-asc-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Venus",
+  "slug": "moon-asc-equals-venus",
+  "path": "wiki/activations/moon-asc-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder",
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 4,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 114,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Venus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Cupido",
+  "slug": "mercury-saturn-equals-cupido",
+  "path": "wiki/activations/mercury-saturn-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Cupido",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Hades",
+  "slug": "mercury-saturn-equals-hades",
+  "path": "wiki/activations/mercury-saturn-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Hades",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Kronos",
+  "slug": "mercury-saturn-equals-kronos",
+  "path": "wiki/activations/mercury-saturn-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Kronos",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Kronos",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Poseidon",
+  "slug": "mercury-saturn-equals-poseidon",
+  "path": "wiki/activations/mercury-saturn-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Poseidon",
+   "Poseidon",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Vernal Point",
+  "slug": "mercury-saturn-equals-vernal-point",
+  "path": "wiki/activations/mercury-saturn-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Vernal Point",
+   "Saturn",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Vulcanus",
+  "slug": "mercury-saturn-equals-vulcanus",
+  "path": "wiki/activations/mercury-saturn-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Vulcanus",
+   "Saturn",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Zeus",
+  "slug": "mercury-saturn-equals-zeus",
+  "path": "wiki/activations/mercury-saturn-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Zeus",
+   "Saturn",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Admetos",
+  "slug": "mercury-uranus-equals-admetos",
+  "path": "wiki/activations/mercury-uranus-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Admetos",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Apollon",
+  "slug": "mercury-uranus-equals-apollon",
+  "path": "wiki/activations/mercury-uranus-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Apollon",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Cupido",
+  "slug": "mercury-uranus-equals-cupido",
+  "path": "wiki/activations/mercury-uranus-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Cupido",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Hades",
+  "slug": "mercury-uranus-equals-hades",
+  "path": "wiki/activations/mercury-uranus-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Hades",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Kronos",
+  "slug": "mercury-uranus-equals-kronos",
+  "path": "wiki/activations/mercury-uranus-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Kronos",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Kronos",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Poseidon",
+  "slug": "mercury-uranus-equals-poseidon",
+  "path": "wiki/activations/mercury-uranus-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Poseidon",
+   "Poseidon",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Vernal Point",
+  "slug": "mercury-uranus-equals-vernal-point",
+  "path": "wiki/activations/mercury-uranus-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Vernal Point",
+   "Uranus",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Vulcanus",
+  "slug": "mercury-uranus-equals-vulcanus",
+  "path": "wiki/activations/mercury-uranus-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Vulcanus",
+   "Uranus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Zeus",
+  "slug": "mercury-uranus-equals-zeus",
+  "path": "wiki/activations/mercury-uranus-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Zeus",
+   "Uranus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Admetos",
+  "slug": "mercury-venus-equals-admetos",
+  "path": "wiki/activations/mercury-venus-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Admetos",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Apollon",
+  "slug": "mercury-venus-equals-apollon",
+  "path": "wiki/activations/mercury-venus-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Apollon",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Cupido",
+  "slug": "mercury-venus-equals-cupido",
+  "path": "wiki/activations/mercury-venus-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Cupido",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Hades",
+  "slug": "mercury-venus-equals-hades",
+  "path": "wiki/activations/mercury-venus-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Hades",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Kronos",
+  "slug": "mercury-venus-equals-kronos",
+  "path": "wiki/activations/mercury-venus-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Kronos",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Kronos",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Poseidon",
+  "slug": "mercury-venus-equals-poseidon",
+  "path": "wiki/activations/mercury-venus-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Poseidon",
+   "Poseidon",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Vernal Point",
+  "slug": "mercury-venus-equals-vernal-point",
+  "path": "wiki/activations/mercury-venus-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Vernal Point",
+   "Venus",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Vulcanus",
+  "slug": "mercury-venus-equals-vulcanus",
+  "path": "wiki/activations/mercury-venus-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Vulcanus",
+   "Venus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Zeus",
+  "slug": "mercury-venus-equals-zeus",
+  "path": "wiki/activations/mercury-venus-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Zeus",
+   "Venus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Admetos",
+  "slug": "mercury-vulcanus-equals-admetos",
+  "path": "wiki/activations/mercury-vulcanus-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Admetos",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Apollon",
+  "slug": "mercury-vulcanus-equals-apollon",
+  "path": "wiki/activations/mercury-vulcanus-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Apollon",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Asc",
+  "slug": "mercury-vulcanus-equals-asc",
+  "path": "wiki/activations/mercury-vulcanus-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Asc",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Cupido",
+  "slug": "mercury-vulcanus-equals-cupido",
+  "path": "wiki/activations/mercury-vulcanus-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Cupido",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Hades",
+  "slug": "mercury-vulcanus-equals-hades",
+  "path": "wiki/activations/mercury-vulcanus-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Hades",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Jupiter",
+  "slug": "mercury-vulcanus-equals-jupiter",
+  "path": "wiki/activations/mercury-vulcanus-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Jupiter",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Jupiter",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Kronos",
+  "slug": "mercury-vulcanus-equals-kronos",
+  "path": "wiki/activations/mercury-vulcanus-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Kronos",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Kronos",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Mars",
+  "slug": "mercury-vulcanus-equals-mars",
+  "path": "wiki/activations/mercury-vulcanus-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mars",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Mars",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = MC",
+  "slug": "mercury-vulcanus-equals-mc",
+  "path": "wiki/activations/mercury-vulcanus-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "MC",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = MC",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Moon",
+  "slug": "mercury-vulcanus-equals-moon",
+  "path": "wiki/activations/mercury-vulcanus-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Moon",
+   "Moon",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Neptune",
+  "slug": "mercury-vulcanus-equals-neptune",
+  "path": "wiki/activations/mercury-vulcanus-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Neptune",
+   "Neptune",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Node",
+  "slug": "mercury-vulcanus-equals-node",
+  "path": "wiki/activations/mercury-vulcanus-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Node",
+   "Node",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Pluto",
+  "slug": "mercury-vulcanus-equals-pluto",
+  "path": "wiki/activations/mercury-vulcanus-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Pluto",
+   "Pluto",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Poseidon",
+  "slug": "mercury-vulcanus-equals-poseidon",
+  "path": "wiki/activations/mercury-vulcanus-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Poseidon",
+   "Poseidon",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Saturn",
+  "slug": "mercury-vulcanus-equals-saturn",
+  "path": "wiki/activations/mercury-vulcanus-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Saturn",
+   "Saturn",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Sun",
+  "slug": "mercury-vulcanus-equals-sun",
+  "path": "wiki/activations/mercury-vulcanus-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Sun",
+   "Sun",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Uranus",
+  "slug": "mercury-vulcanus-equals-uranus",
+  "path": "wiki/activations/mercury-vulcanus-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Uranus",
+   "Uranus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Venus",
+  "slug": "mercury-vulcanus-equals-venus",
+  "path": "wiki/activations/mercury-vulcanus-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Venus",
+   "Venus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Vernal Point",
+  "slug": "mercury-vulcanus-equals-vernal-point",
+  "path": "wiki/activations/mercury-vulcanus-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Vernal Point",
+   "Vernal Point",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Mercury/Vulcanus = Zeus",
+  "slug": "mercury-vulcanus-equals-zeus",
+  "path": "wiki/activations/mercury-vulcanus-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Vulcanus",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Vulcanus",
+   "Mercury/Vulcanus = Zeus",
+   "Vulcanus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Admetos",
+  "slug": "mercury-zeus-equals-admetos",
+  "path": "wiki/activations/mercury-zeus-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Admetos",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Apollon",
+  "slug": "mercury-zeus-equals-apollon",
+  "path": "wiki/activations/mercury-zeus-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Apollon",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Asc",
+  "slug": "mercury-zeus-equals-asc",
+  "path": "wiki/activations/mercury-zeus-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Asc",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Cupido",
+  "slug": "mercury-zeus-equals-cupido",
+  "path": "wiki/activations/mercury-zeus-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Cupido",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Hades",
+  "slug": "mercury-zeus-equals-hades",
+  "path": "wiki/activations/mercury-zeus-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Hades",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Jupiter",
+  "slug": "mercury-zeus-equals-jupiter",
+  "path": "wiki/activations/mercury-zeus-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Jupiter",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Jupiter",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Kronos",
+  "slug": "mercury-zeus-equals-kronos",
+  "path": "wiki/activations/mercury-zeus-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Kronos",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Kronos",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Mars",
+  "slug": "mercury-zeus-equals-mars",
+  "path": "wiki/activations/mercury-zeus-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mars",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Mars",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = MC",
+  "slug": "mercury-zeus-equals-mc",
+  "path": "wiki/activations/mercury-zeus-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "MC",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = MC",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Moon",
+  "slug": "mercury-zeus-equals-moon",
+  "path": "wiki/activations/mercury-zeus-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Moon",
+   "Moon",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Neptune",
+  "slug": "mercury-zeus-equals-neptune",
+  "path": "wiki/activations/mercury-zeus-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Neptune",
+   "Neptune",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Node",
+  "slug": "mercury-zeus-equals-node",
+  "path": "wiki/activations/mercury-zeus-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Node",
+   "Node",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Pluto",
+  "slug": "mercury-zeus-equals-pluto",
+  "path": "wiki/activations/mercury-zeus-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Pluto",
+   "Pluto",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Poseidon",
+  "slug": "mercury-zeus-equals-poseidon",
+  "path": "wiki/activations/mercury-zeus-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Poseidon",
+   "Poseidon",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Saturn",
+  "slug": "mercury-zeus-equals-saturn",
+  "path": "wiki/activations/mercury-zeus-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Saturn",
+   "Saturn",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Sun",
+  "slug": "mercury-zeus-equals-sun",
+  "path": "wiki/activations/mercury-zeus-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Sun",
+   "Sun",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Uranus",
+  "slug": "mercury-zeus-equals-uranus",
+  "path": "wiki/activations/mercury-zeus-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Uranus",
+   "Uranus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Venus",
+  "slug": "mercury-zeus-equals-venus",
+  "path": "wiki/activations/mercury-zeus-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Venus",
+   "Venus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Vernal Point",
+  "slug": "mercury-zeus-equals-vernal-point",
+  "path": "wiki/activations/mercury-zeus-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Vernal Point",
+   "Vernal Point",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Mercury/Zeus = Vulcanus",
+  "slug": "mercury-zeus-equals-vulcanus",
+  "path": "wiki/activations/mercury-zeus-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Mercury",
+   "Zeus",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Zeus",
+   "Mercury/Zeus = Vulcanus",
+   "Vulcanus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Apollon",
+  "slug": "moon-admetos-equals-apollon",
+  "path": "wiki/activations/moon-admetos-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Apollon"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Asc",
+  "slug": "moon-admetos-equals-asc",
+  "path": "wiki/activations/moon-admetos-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Cupido",
+  "slug": "moon-admetos-equals-cupido",
+  "path": "wiki/activations/moon-admetos-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Cupido"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Hades",
+  "slug": "moon-admetos-equals-hades",
+  "path": "wiki/activations/moon-admetos-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Hades"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Jupiter",
+  "slug": "moon-admetos-equals-jupiter",
+  "path": "wiki/activations/moon-admetos-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Jupiter",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Kronos",
+  "slug": "moon-admetos-equals-kronos",
+  "path": "wiki/activations/moon-admetos-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Kronos",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Kronos"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Mars",
+  "slug": "moon-admetos-equals-mars",
+  "path": "wiki/activations/moon-admetos-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mars",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = MC",
+  "slug": "moon-admetos-equals-mc",
+  "path": "wiki/activations/moon-admetos-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "MC",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = MC"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Mercury",
+  "slug": "moon-admetos-equals-mercury",
+  "path": "wiki/activations/moon-admetos-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Mercury",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Mercury"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Neptune",
+  "slug": "moon-admetos-equals-neptune",
+  "path": "wiki/activations/moon-admetos-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Neptune",
+   "Neptune"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Node",
+  "slug": "moon-admetos-equals-node",
+  "path": "wiki/activations/moon-admetos-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Node",
+   "Node"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Pluto",
+  "slug": "moon-admetos-equals-pluto",
+  "path": "wiki/activations/moon-admetos-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Pluto",
+   "Pluto"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Poseidon",
+  "slug": "moon-admetos-equals-poseidon",
+  "path": "wiki/activations/moon-admetos-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Poseidon",
+   "Poseidon"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Saturn",
+  "slug": "moon-admetos-equals-saturn",
+  "path": "wiki/activations/moon-admetos-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Sun",
+  "slug": "moon-admetos-equals-sun",
+  "path": "wiki/activations/moon-admetos-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Sun",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Uranus",
+  "slug": "moon-admetos-equals-uranus",
+  "path": "wiki/activations/moon-admetos-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Venus",
+  "slug": "moon-admetos-equals-venus",
+  "path": "wiki/activations/moon-admetos-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Venus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Vernal Point",
+  "slug": "moon-admetos-equals-vernal-point",
+  "path": "wiki/activations/moon-admetos-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Vernal Point",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Vulcanus",
+  "slug": "moon-admetos-equals-vulcanus",
+  "path": "wiki/activations/moon-admetos-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Vulcanus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Moon/Admetos = Zeus",
+  "slug": "moon-admetos-equals-zeus",
+  "path": "wiki/activations/moon-admetos-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Admetos",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Moon",
+   "Moon/Admetos",
+   "Moon/Admetos = Zeus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Admetos",
+  "slug": "moon-apollon-equals-admetos",
+  "path": "wiki/activations/moon-apollon-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Admetos"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Asc",
+  "slug": "moon-apollon-equals-asc",
+  "path": "wiki/activations/moon-apollon-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Cupido",
+  "slug": "moon-apollon-equals-cupido",
+  "path": "wiki/activations/moon-apollon-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Cupido"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Hades",
+  "slug": "moon-apollon-equals-hades",
+  "path": "wiki/activations/moon-apollon-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Hades"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Jupiter",
+  "slug": "moon-apollon-equals-jupiter",
+  "path": "wiki/activations/moon-apollon-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Jupiter",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Kronos",
+  "slug": "moon-apollon-equals-kronos",
+  "path": "wiki/activations/moon-apollon-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Kronos",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Kronos"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Mars",
+  "slug": "moon-apollon-equals-mars",
+  "path": "wiki/activations/moon-apollon-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mars",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = MC",
+  "slug": "moon-apollon-equals-mc",
+  "path": "wiki/activations/moon-apollon-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "MC",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = MC"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Mercury",
+  "slug": "moon-apollon-equals-mercury",
+  "path": "wiki/activations/moon-apollon-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Mercury",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Mercury"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Neptune",
+  "slug": "moon-apollon-equals-neptune",
+  "path": "wiki/activations/moon-apollon-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Neptune",
+   "Neptune"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Node",
+  "slug": "moon-apollon-equals-node",
+  "path": "wiki/activations/moon-apollon-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Node",
+   "Node"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Pluto",
+  "slug": "moon-apollon-equals-pluto",
+  "path": "wiki/activations/moon-apollon-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Pluto",
+   "Pluto"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Poseidon",
+  "slug": "moon-apollon-equals-poseidon",
+  "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Poseidon",
+   "Poseidon"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Saturn",
+  "slug": "moon-apollon-equals-saturn",
+  "path": "wiki/activations/moon-apollon-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Sun",
+  "slug": "moon-apollon-equals-sun",
+  "path": "wiki/activations/moon-apollon-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Sun",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Uranus",
+  "slug": "moon-apollon-equals-uranus",
+  "path": "wiki/activations/moon-apollon-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Venus",
+  "slug": "moon-apollon-equals-venus",
+  "path": "wiki/activations/moon-apollon-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Venus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Vernal Point",
+  "slug": "moon-apollon-equals-vernal-point",
+  "path": "wiki/activations/moon-apollon-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Vernal Point",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Vulcanus",
+  "slug": "moon-apollon-equals-vulcanus",
+  "path": "wiki/activations/moon-apollon-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Vulcanus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Moon/Apollon = Zeus",
+  "slug": "moon-apollon-equals-zeus",
+  "path": "wiki/activations/moon-apollon-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Apollon",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Moon",
+   "Moon/Apollon",
+   "Moon/Apollon = Zeus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Admetos",
+  "slug": "moon-asc-equals-admetos",
+  "path": "wiki/activations/moon-asc-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Admetos"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Apollon",
+  "slug": "moon-asc-equals-apollon",
+  "path": "wiki/activations/moon-asc-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Apollon"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Cupido",
+  "slug": "moon-asc-equals-cupido",
+  "path": "wiki/activations/moon-asc-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Cupido"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Hades",
+  "slug": "moon-asc-equals-hades",
+  "path": "wiki/activations/moon-asc-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Hades"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Kronos",
+  "slug": "moon-asc-equals-kronos",
+  "path": "wiki/activations/moon-asc-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Kronos",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Kronos"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Poseidon",
+  "slug": "moon-asc-equals-poseidon",
+  "path": "wiki/activations/moon-asc-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Poseidon",
+   "Poseidon"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Vernal Point",
+  "slug": "moon-asc-equals-vernal-point",
+  "path": "wiki/activations/moon-asc-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Vernal Point",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Vulcanus",
+  "slug": "moon-asc-equals-vulcanus",
+  "path": "wiki/activations/moon-asc-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Vulcanus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Zeus",
+  "slug": "moon-asc-equals-zeus",
+  "path": "wiki/activations/moon-asc-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Zeus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Admetos",
+  "slug": "moon-cupido-equals-admetos",
+  "path": "wiki/activations/moon-cupido-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Admetos"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Apollon",
+  "slug": "moon-cupido-equals-apollon",
+  "path": "wiki/activations/moon-cupido-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Apollon"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Asc",
+  "slug": "moon-cupido-equals-asc",
+  "path": "wiki/activations/moon-cupido-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Hades",
+  "slug": "moon-cupido-equals-hades",
+  "path": "wiki/activations/moon-cupido-equals-hades.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Hades"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Hades",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Hades"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Jupiter",
+  "slug": "moon-cupido-equals-jupiter",
+  "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Jupiter",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Kronos",
+  "slug": "moon-cupido-equals-kronos",
+  "path": "wiki/activations/moon-cupido-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Kronos",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Kronos"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Mars",
+  "slug": "moon-cupido-equals-mars",
+  "path": "wiki/activations/moon-cupido-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mars",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = MC",
+  "slug": "moon-cupido-equals-mc",
+  "path": "wiki/activations/moon-cupido-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "MC",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = MC"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Mercury",
+  "slug": "moon-cupido-equals-mercury",
+  "path": "wiki/activations/moon-cupido-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Mercury",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Mercury"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Neptune",
+  "slug": "moon-cupido-equals-neptune",
+  "path": "wiki/activations/moon-cupido-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Neptune",
+   "Neptune"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Node",
+  "slug": "moon-cupido-equals-node",
+  "path": "wiki/activations/moon-cupido-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Node",
+   "Node"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Pluto",
+  "slug": "moon-cupido-equals-pluto",
+  "path": "wiki/activations/moon-cupido-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Pluto",
+   "Pluto"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Poseidon",
+  "slug": "moon-cupido-equals-poseidon",
+  "path": "wiki/activations/moon-cupido-equals-poseidon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Poseidon"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Poseidon",
+   "Poseidon"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Saturn",
+  "slug": "moon-cupido-equals-saturn",
+  "path": "wiki/activations/moon-cupido-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Sun",
+  "slug": "moon-cupido-equals-sun",
+  "path": "wiki/activations/moon-cupido-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Sun",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Uranus",
+  "slug": "moon-cupido-equals-uranus",
+  "path": "wiki/activations/moon-cupido-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Venus",
+  "slug": "moon-cupido-equals-venus",
+  "path": "wiki/activations/moon-cupido-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Venus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Vernal Point",
+  "slug": "moon-cupido-equals-vernal-point",
+  "path": "wiki/activations/moon-cupido-equals-vernal-point.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Vernal Point"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Vernal Point",
+   "Vernal Point"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Vulcanus",
+  "slug": "moon-cupido-equals-vulcanus",
+  "path": "wiki/activations/moon-cupido-equals-vulcanus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Vulcanus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Vulcanus",
+   "Vulcanus"
+  ]
+ },
+ {
+  "title": "Moon/Cupido = Zeus",
+  "slug": "moon-cupido-equals-zeus",
+  "path": "wiki/activations/moon-cupido-equals-zeus.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Cupido",
+   "Zeus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Moon",
+   "Moon/Cupido",
+   "Moon/Cupido = Zeus",
+   "Zeus"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Admetos",
+  "slug": "moon-hades-equals-admetos",
+  "path": "wiki/activations/moon-hades-equals-admetos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Admetos"
+  ],
+  "tags": [
+   "activation",
+   "Admetos",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Admetos"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Apollon",
+  "slug": "moon-hades-equals-apollon",
+  "path": "wiki/activations/moon-hades-equals-apollon.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Apollon"
+  ],
+  "tags": [
+   "activation",
+   "Apollon",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Apollon"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Asc",
+  "slug": "moon-hades-equals-asc",
+  "path": "wiki/activations/moon-hades-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Hades",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Cupido",
+  "slug": "moon-hades-equals-cupido",
+  "path": "wiki/activations/moon-hades-equals-cupido.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Cupido"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Cupido",
+   "Hades",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Cupido"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Jupiter",
+  "slug": "moon-hades-equals-jupiter",
+  "path": "wiki/activations/moon-hades-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Jupiter",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Kronos",
+  "slug": "moon-hades-equals-kronos",
+  "path": "wiki/activations/moon-hades-equals-kronos.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Kronos"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Kronos",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Kronos"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Mars",
+  "slug": "moon-hades-equals-mars",
+  "path": "wiki/activations/moon-hades-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mars",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Hades = MC",
+  "slug": "moon-hades-equals-mc",
+  "path": "wiki/activations/moon-hades-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "MC",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = MC"
+  ]
+ },
+ {
+  "title": "Moon/Hades = Mercury",
+  "slug": "moon-hades-equals-mercury",
+  "path": "wiki/activations/moon-hades-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "comparative",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+   "udo-rudolph-abc-fur-planetenbilder"
+  ],
+  "source_count": 2,
+  "single_source_only": false,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 112,
+  "factors": [
+   "Moon",
+   "Hades",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Hades",
+   "Mercury",
+   "Moon",
+   "Moon/Hades",
+   "Moon/Hades = Mercury"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Chiron",
+  "slug": "mercury-saturn-equals-chiron",
+  "path": "wiki/activations/mercury-saturn-equals-chiron.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Chiron"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Chiron",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Mercury",
+  "slug": "mercury-saturn-equals-mercury",
+  "path": "wiki/activations/mercury-saturn-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Mercury",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Saturn = Saturn",
+  "slug": "mercury-saturn-equals-saturn",
+  "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Saturn",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Saturn",
+   "Mercury/Saturn = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Chiron",
+  "slug": "mercury-uranus-equals-chiron",
+  "path": "wiki/activations/mercury-uranus-equals-chiron.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Chiron"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Chiron",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Mercury",
+  "slug": "mercury-uranus-equals-mercury",
+  "path": "wiki/activations/mercury-uranus-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Mercury",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Uranus = Uranus",
+  "slug": "mercury-uranus-equals-uranus",
+  "path": "wiki/activations/mercury-uranus-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Uranus",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Uranus",
+   "Mercury/Uranus = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Chiron",
+  "slug": "mercury-venus-equals-chiron",
+  "path": "wiki/activations/mercury-venus-equals-chiron.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Chiron"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Chiron",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Mercury",
+  "slug": "mercury-venus-equals-mercury",
+  "path": "wiki/activations/mercury-venus-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Mercury",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Mercury/Venus = Venus",
+  "slug": "mercury-venus-equals-venus",
+  "path": "wiki/activations/mercury-venus-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Mercury",
+   "Venus",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Mercury",
+   "Mercury/Venus",
+   "Mercury/Venus = Venus",
+   "Venus"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Asc",
+  "slug": "moon-asc-equals-asc",
+  "path": "wiki/activations/moon-asc-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Chiron",
+  "slug": "moon-asc-equals-chiron",
+  "path": "wiki/activations/moon-asc-equals-chiron.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Chiron"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Chiron"
+  ]
+ },
+ {
+  "title": "Moon/Asc = Moon",
+  "slug": "moon-asc-equals-moon",
+  "path": "wiki/activations/moon-asc-equals-moon.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "michael-munkasey-midpoints-unleashing-the-power-of-the-planets"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Asc",
+   "Moon"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Moon",
+   "Moon/Asc",
+   "Moon/Asc = Moon"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Asc",
+  "slug": "moon-chiron-equals-asc",
+  "path": "wiki/activations/moon-chiron-equals-asc.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Asc"
+  ],
+  "tags": [
+   "activation",
+   "Asc",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Asc"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Jupiter",
+  "slug": "moon-chiron-equals-jupiter",
+  "path": "wiki/activations/moon-chiron-equals-jupiter.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Jupiter"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Jupiter",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Jupiter"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Mars",
+  "slug": "moon-chiron-equals-mars",
+  "path": "wiki/activations/moon-chiron-equals-mars.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Mars"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Mars",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Mars"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = MC",
+  "slug": "moon-chiron-equals-mc",
+  "path": "wiki/activations/moon-chiron-equals-mc.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "MC"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "MC",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = MC"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Mercury",
+  "slug": "moon-chiron-equals-mercury",
+  "path": "wiki/activations/moon-chiron-equals-mercury.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Mercury"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Mercury",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Mercury"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Neptune",
+  "slug": "moon-chiron-equals-neptune",
+  "path": "wiki/activations/moon-chiron-equals-neptune.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Neptune"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Neptune",
+   "Neptune"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Node",
+  "slug": "moon-chiron-equals-node",
+  "path": "wiki/activations/moon-chiron-equals-node.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Node"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Node",
+   "Node"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Pluto",
+  "slug": "moon-chiron-equals-pluto",
+  "path": "wiki/activations/moon-chiron-equals-pluto.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Pluto"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Pluto",
+   "Pluto"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Saturn",
+  "slug": "moon-chiron-equals-saturn",
+  "path": "wiki/activations/moon-chiron-equals-saturn.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Saturn"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Saturn",
+   "Saturn"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Sun",
+  "slug": "moon-chiron-equals-sun",
+  "path": "wiki/activations/moon-chiron-equals-sun.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Sun"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Sun",
+   "Sun"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Uranus",
+  "slug": "moon-chiron-equals-uranus",
+  "path": "wiki/activations/moon-chiron-equals-uranus.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Uranus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Uranus",
+   "Uranus"
+  ]
+ },
+ {
+  "title": "Moon/Chiron = Venus",
+  "slug": "moon-chiron-equals-venus",
+  "path": "wiki/activations/moon-chiron-equals-venus.md",
+  "page_type": "activation",
+  "framework_scope": "modern_astrology",
+  "retrieval_role": "canonical_answer",
+  "answer_surface": true,
+  "structural_only": false,
+  "source_pages": [
+   "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints"
+  ],
+  "source_count": 1,
+  "single_source_only": true,
+  "has_real_derived_synthesis": true,
+  "answer_priority": 111,
+  "factors": [
+   "Moon",
+   "Chiron",
+   "Venus"
+  ],
+  "tags": [
+   "activation",
+   "canonical_answer",
+   "Chiron",
+   "Moon",
+   "Moon/Chiron",
+   "Moon/Chiron = Venus",
+   "Venus"
+  ]
+ }
+]

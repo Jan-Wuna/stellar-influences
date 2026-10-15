@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Neptune = Uranus`
 - Astronomicon formula: `V/Y = X`
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 213; one-based PDF page 209, Jupiter/Neptune section, Uranus row.
+
 To feel suddenly free and easy without mental pressure. Sudden collapse. Sudden bankruptcy. Suddenly getting money which is easily earned.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exchangeable money event, finesse for legal events, joyful event in the air, sudden legal uncertainty, legal tensions through water, Rcfonn the Wasscrrechts, future successes in technology, and Vortcile by water technology
+- Source reference: printed page 329; one-based PDF page 163, Jupiter/Neptun section, Uranus row; full row checked against the German scan.
+
+A disappointing financial event, sensitivity to legal events, a joyful event in the air, sudden legal uncertainty, legal tensions through water, reform of water law, future successes in technology, and advantages through water technology
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 232, coded activation entry 0813; retained printed coded-entry locator.
 
 Experiencing the contrast between imagination and reality, coming down to earth with a bump, sudden recognition of a difficult situation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 82, Uranus entry; exact entry visually checked, chapter begins on page 81.
 
 To suddenly wake up from false hopes. The need to free oneself from the the unrealistic and impractical side of idealistic imaginings. To have a highly unusual imagination. To have clear insights into the exact kind of help or support that someone needs.
 
@@ -66,26 +76,27 @@ To suddenly wake up from false hopes. The need to free oneself from the the unre
 
 #### Munkasey Entry
 
+- Source reference: printed source page 264, Jupiter/Neptune with Planets and Points; retained printed-page locator, not a new PDF-page claim.
+
 Disruptions by events which have no real explanation; basing decisions on odd or unusual theories about the effects of the supernatural; impersonal treatment for those who have drug dependencies; unaccustomed confusion.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden change in fortune or recognition of reality.
+- psychology: Freedom from mental pressure in Witte; awakening from false hopes and unusual imagination in Sandbach.
+- body/health: Munkasey mentions impersonal treatment of people with drug dependencies; it supplies no diagnostic or treatment procedure.
+- social/relationship: Sandbach includes insight into the help someone needs.
+- events/manifestations: Sudden bankruptcy or easy money, difficult recognition, legal uncertainty and future technological success.
+- conflicts/notes: Sudden relief, collapse and useful insight are alternatives; the formula does not guarantee eventual clarity.
 
 ## Contradictions
 
-- None recorded yet.
+Witte gives both sudden freedom and sudden collapse. Ebertin stresses a difficult recognition, while Sandbach also permits useful insight. Munkasey's confusion and unusual theories qualify a purely liberating reading.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Uranus`: flashes of spiritual or practical clarity, inventive sympathy, and liberation from false hopes when the native finally sees things as they are. Main caution: instability: sudden easy gains, collapse, or shocking recognition can make the pattern feel erratic or extreme.
+For `Jupiter/Neptune = Uranus`, the [source entries](#source-entries) make the shift abrupt: unexpected relief or easy money can coexist with collapse, bankruptcy or recognition of a difficult reality. Sandbach describes waking from false hopes as well as an unusual imagination capable of seeing what help another person needs. ABC adds legal uncertainty, water-law reform and technological prospects; Munkasey retains unexplained disruption and confusion. Abrupt change can clarify an expectation, but clarity is one possibility among several.
 
 ## Links
 

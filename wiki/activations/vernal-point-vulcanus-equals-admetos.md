@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Admetos Vulcanus](../triads/vernal-point-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 Perseverance. Limitation and reduction of power and influence. Mighty opposition or resistance.
 
@@ -42,13 +46,29 @@ Perseverance. Limitation and reduction of power and influence. Mighty opposition
 
 #### ABC Entry
 
-Energy and perseverance in the public, influence strengthening in the public life, restriction of the public power, violence blocking in the public, general public influence, and public energy cycle
+- Source page: 57; PDF page: 27 (one-based spread).
+
+Energy and perseverance in public, consolidation of influence in public life, restriction of public power, a public blockade of force or violence, thorough public influence, and public energy circulation.
+
+## Comparative Schema
+
+- core meaning: Power meets resistance, limitation or consolidation.
+- psychology: Perseverance and endurance.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Strong opposition and restricted public power.
+- events/manifestations: Consolidated influence, blocked force and energy circulation.
+- conflicts/notes: Power may be reduced or stabilized; these are different outcomes.
+
+## Contradictions
+
+Witte stresses reduction of power and resistance. ABC shares restriction but also gives consolidation and thorough influence, preserving a stabilizing branch.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Admetos`: perseverance, limitation and reduction of power and influence, and mighty opposition or resistance.
-- Practical expression: energy, perseverance in the public, influence strengthening in the public life, restriction of the public power, and violence blocking in the public.
+`Vernal Point/Vulcanus = Admetos` places public power under limits or resistance. Witte names reduced influence and mighty opposition; ABC adds restricted power and a blockade of force, with perseverance as the response common to both entries. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also gives consolidated and thorough influence. Endurance can therefore describe maintaining a concentrated position as well as withstanding opposition; public energy circulation remains a separate technical example. ([ABC](#abc-entry))
 
 ## Links
 

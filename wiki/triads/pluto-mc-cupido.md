@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto MC Cupido`
 - Astronomicon triad-set: `Z MC ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Cupido = Pluto](../activations/mc-cupido-equals-pluto.md)
-- [Pluto/Cupido = MC](../activations/pluto-cupido-equals-mc.md)
-- [Pluto/MC = Cupido](../activations/pluto-mc-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Cupido = Pluto](../activations/mc-cupido-equals-pluto.md) | [MC/Cupido](../axes/mc-cupido.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Cupido = MC](../activations/pluto-cupido-equals-mc.md) | [Pluto/Cupido](../axes/pluto-cupido.md) | [MC](../factors/mc.md) |
+| [Pluto/MC = Cupido](../activations/pluto-mc-equals-cupido.md) | [Pluto/MC](../axes/pluto-mc.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `MC/Cupido = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `85`
-- `Pluto/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `408`
-- `Pluto/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `83`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Cupido = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-cupido-equals-pluto.md#witte-entry), one-based PDF entry-start p. `70`.
+- `MC/Cupido = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-cupido-equals-pluto.md#abc-entry), printed p. `85`.
+- `Pluto/Cupido = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-cupido-equals-mc.md#witte-entry), one-based PDF entry-start p. `257`.
+- `Pluto/Cupido = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-cupido-equals-mc.md#abc-entry), printed p. `408`.
+- `Pluto/MC = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-cupido.md#witte-entry), one-based PDF entry-start p. `69`.
+- `Pluto/MC = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-cupido.md#abc-entry), printed p. `83`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Pluto`: deepens the axis through tradition, social change, and developing communal sense.
-- `Pluto/Cupido = MC`: This activation emphasizes taking part in the transformation of a community; To become a member of another club; Change in the social surroundings.
-- `Pluto/MC = Cupido`: This activation emphasizes the native is drawn into family, group or community transformation.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Pluto/Cupido = MC reports damaged ABC phrases and an omitted artistic phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

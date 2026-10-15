@@ -33,29 +33,39 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Uranus Node MC](../triads/uranus-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<?> Sudden connections. To experience sudden emotions in relationships.
+- PDF page: 61 (one-based; exact row checked).
+
+Sudden connections. To experience sudden emotions in relationships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Ercignis Minute of a connection, my new relationships, my connections to technology, tensions in my connections, impulses in a connection with the soul, reform of my connections, emotional arousal in connection, and new psychic contacts
+- Source page: 67 (printed); PDF page: 32 (one-based; exact row checked).
+
+The event-minute of a connection, my new relationships, my connections to technology, tensions in my connections, impulses within a soul connection, reform of my connections, inner excitement within a connection, new inner contacts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 304 (printed); PDF page(s): 306 (one-based); entry code: 1102 (direct source text checked).
 
 Acts of impulsiveness, sudden emotional and inner reactions. Behaving excitedly and restlessly in the presence of others. Sudden and deeply moving inner experiences shared with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 121 (one-based; exact activation located in direct source text).
 
 The ability to connect to the world in a highly unusual, individualistic, unique, or strange manner. One’s path of growth toward greater spirituality is possibly sur prising and certainly not of the norm. The need to liberate oneself from conservative notions.
 
@@ -70,22 +80,23 @@ Impersonal reactions from new acquaintances who similarly share goals or princip
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden, unusual or revised personal connections.
+- psychology: impulsiveness, excitement and deeply moving shared experiences; an individual spiritual path is also named.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: new acquaintances and political associates may support someone while remaining detached from their principles.
+- events/manifestations: sudden contacts, technical connections and revised goals at meetings.
+- conflicts/notes: Munkasey's impersonal support differs from Ebertin's intensely shared feelings; both are possible forms of contact rather than a universal relationship style.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's impersonal support differs from Ebertin's intensely shared feelings; both are possible forms of contact rather than a universal relationship style.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Uranus`: progressive networks, reform-minded partnership, and the ability to advance through surprising or innovative social links. Main caution: unstable purpose: shared direction can fracture suddenly or become too reactive against established forms of commitment.
+Uranus specifies `Node/MC` through a sudden or unconventional change in personally meaningful contact. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize abrupt meetings and emotional reactions, while [ABC](#abc-entry) adds new relationships, technical contacts and reform of existing ties. [Sandbach](#sandbach-entry) extends this to an individual path of spiritual growth and release from conservative notions.
+
+The contact need not become intimate: [Munkasey](#munkasey-entry) includes impersonal acquaintances and associates who support someone without sharing their principles. Its distinctive range thus includes both a deeply moving shared moment and detached cooperation that changes one's goals.
 
 ## Links
 

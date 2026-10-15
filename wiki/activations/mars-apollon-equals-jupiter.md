@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Jupiter Apollon](../triads/mars-jupiter-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Luck or success in trade, commerce, industry and or science. Income from activit
 
 #### ABC Entry
 
-Work in law science, work with lots of money, experience in labour law, successful financial work, financial actions, joy over work success, scientific success mitigations, and increasing will freedom
+Work in jurisprudence, work with much money, experience in labour law, successful financial work, financial and economic actions, joy over work success, scientific efforts toward success, and increasing freedom of will.
+
+## Comparative Schema
+
+Evidence: [ABC Entry](#abc-entry), printed p. 316, PDF p. 157 (exact activator row); [Witte Entry](#witte-entry), PDF p. 201 (exact activator row).
+
+- Core meaning: Scientific and commercial work is linked with success, income, and financial activity.
+- Psychology: ABC includes joy in work success and increasing freedom of will.
+- Body/health: The entries establish financial and professional themes, without a bodily claim.
+- Social/relationship: Labour law supplies a specific legal setting for working relations.
+- Events/manifestations: Trade income, financial work, jurisprudence, and work involving substantial money are named.
+- Conflicts/notes: ABC includes scientific efforts toward success as well as achieved results; success remains a source theme, not a forecast.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Jupiter`: success in commerce, industry, science, and profession, with action directly generating gain.
-- Chart expression: prosperous enterprise, professional growth, and income through active participation in broad markets or knowledge fields.
+Jupiter specifies the Mars/Apollon axis as productive work that brings success or income. [Witte Entry](#witte-entry) emphasizes gain through trade, industry, science, and profession; [ABC Entry](#abc-entry) gives the theme a financial and legal setting, including labour law, and adds enjoyment of achieved success. The evidence supports successful enterprise without making every undertaking profitable.
 
 ## Links
 

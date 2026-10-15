@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Uranus Node Cupido](../triads/uranus-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<?> Sudden events of a betrothed couple or in the family. Commotion or excitement in an association or firm.
+- Source passage: `NODES + CUPIDO`; one-based PDF page `149` (Uranus row and alternate glyph checked against the raw scan).
+
+Sudden events of a betrothed couple or in the family. Commotion or excitement in an association or firm.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dynamic contacts in of a community, common relations in old age, common links with technology, new relations in of a community, tensions in a artist connection, and connecting impulses in of a community
+- Source passage: `Mondknoten + Cupido`; printed p. `225`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Dynamic contacts within a community, shared relationships in old age, shared connections to technology, new relationships within a community, tensions in an artists' connection, connecting impulses within a community.
+
+## Comparative Schema
+
+- core meaning: Sudden events or excitement within a couple, family, or organization.
+- psychology: Excitement and tension are described; no lasting personality trait is established.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Dynamic or new community contacts.
+- events/manifestations: Commotion in a firm; technology-linked contacts and artistic tensions in ABC.
+- conflicts/notes: The actual ABC row includes shared relationships in old age (gemeinsame Beziehungen im Alter), retained as a specific source example without making age a condition for every expression.
+
+## Contradictions
+
+The entries share sudden stimulation and change in communal relationships. ABC also mentions old age, but this does not make age a condition for every manifestation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Uranus`: <?> Sudden events of a betrothed couple or in the family. Commotion or excitement in an association or firm.
-- Practical focus: sudden events around a betrothed couple, family, association, or firm, with commotion, excitement, dynamic contacts, new relations, or technology-linked connections.
+Uranus specifies Node/Cupido through sudden developments within shared social life. The [Witte entry](#witte-entry) locates excitement in a betrothed couple, family, association, or firm; the [ABC entry](#abc-entry) adds dynamic and new contacts, technical links, and tensions in an artistic connection. The common thread is stimulation or disruption within a bond, without requiring every event to end that bond.
 
 ## Links
 

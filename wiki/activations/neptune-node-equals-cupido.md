@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Cupido`
 - Astronomicon formula: `Y/g = ¡`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Separation of a marital union. Dissolution of the union with one’s own family.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-In a common connection, exchange of encounters in of a community, joint meeting in the air, contacts with of a community without of a community, unclear Community relations, and connection with a metaphysical community
+Sensitivity in a shared connection, disappointing encounters in a community, shared encounter in the air, dissolving contacts with a community, unclear community relationships, and connection with a metaphysical community
+
+## Comparative Schema
+
+- core meaning: uncertain or dissolving connections within family, marriage, or community.
+- psychology: sensitivity and disappointment in shared encounters are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: marital separation, separation from one's family, and unclear community relationships are named.
+- events/manifestations: shared encounters in the air and contacts with a metaphysical community are stated.
+- conflicts/notes: community sensitivity is also present; family dissolution is a particular Witte expression rather than every shared bond's outcome.
+
+## Contradictions
+
+Witte concentrates on marital and family dissolution. ABC broadens the settings to communities, including sensitivity, disappointment, and metaphysical association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Node = Cupido`: Separation of a marital union. Dissolution of the union with one’s own family.
-- Practical focus: moves uncertain connection into marriage and family, showing separation from spouse or kin and the dissolution of close domestic bonds.
-- Practical expression: in a common connection, exchange of encounters in a community, joint meeting in the air, contacts with a community without of a community, and unclear Community relations.
+In Neptune/Node = Cupido, uncertainty in connection enters family and community settings. [Witte](#witte-entry) names separation within marriage or from one's family; [ABC](#abc-entry) adds sensitive shared contact, disappointing community encounters, unclear relationships, and dissolving community contacts (printed p. 221, PDF p. 109). The common concern is the quality or continuity of shared ties, without making every community connection end in separation.
 
 ## Links
 

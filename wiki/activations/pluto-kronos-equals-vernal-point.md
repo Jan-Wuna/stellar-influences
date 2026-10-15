@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Vernal Point Pluto Kronos](../triads/vernal-point-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Great changes and transformations in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special developments in the public sphere, development of a hierarchy in the public sphere Life, major changes in the public sphere Life, self determined development in the public sphere, and growing public sphere Authoritat
+Editorial translation (checked against the scan): Special developments in public, unfolding of a hierarchy in public life, great changes in public life, self-confident development in public, growing public authority.
+
+## Comparative Schema
+
+- core meaning: Great general changes expressed in public life or hierarchy.
+- psychology: Self-confident public development is named; no individual profile is supplied.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Public hierarchy and public authority.
+- events/manifestations: Major public changes and development of public authority.
+- conflicts/notes: General transformation does not itself establish rising rank or greater demands.
+
+## Contradictions
+
+Witte's general changes and ABC's public settings are compatible; no incompatible direction is explicit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Vernal Point`: a general rise in demands, rank or recognized capability.
-- Practical expression: special developments in the public sphere, development of a hierarchy in the public sphere Life, major changes in the public sphere Life, and self determined development in the public sphere.
+Vernal Point specifies Pluto/Kronos through great changes at a general or public level. The [Witte entry](#witte-entry) names broad transformation, and the [ABC entry](#abc-entry) places special development, hierarchy, and growing authority in public life. Self-confident public development is included, while neither entry requires that the changes take the form of a rise in rank or greater demands.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Hades Vulcanus](../triads/saturn-hades-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To be wronged and hindered by lack and other sad circumstances. To get into grea
 
 #### ABC Entry
 
-Dangerous energy problems, huge problems from the past, grief caused by violent disturbances, powerful concentration on hidden things, need by concentrated violence, problems caused by energy deficiency, and losses caused by criminal violence
+Dangerous energy problems, immense problems from the past, grief through violent disturbances, powerful concentration on hidden things, distress through concentrated violence, problems through energy deficiency, and losses through criminal violence.
+
+## Comparative Schema
+
+- core meaning: Pressure and hindrance intensified by deprivation, hidden trouble or harmful force.
+- psychology: Grief over violent disturbance and concentration on concealed problems.
+- body/health: Witte attributes sickness while imprisoned; no specific diagnosis is given.
+- social/relationship: Danger through enemies and losses through criminal violence are source examples.
+- events/manifestations: Energy deficiency and major problems carried from the past.
+- conflicts/notes: The severe examples remain attributed possibilities, not accusations or predictions.
+
+## Contradictions
+
+Both entries stress harmful constraints; their references to enemies, past problems and energy deficiency are different settings, not independent proof of one event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Hades`: to be wronged and hindered by lack and other sad circumstances, to get into great danger through enemies.
-- Practical expression: dangerous energy problems, huge problems from the past, grief caused by violent disturbances, powerful concentration on hidden things, and need by concentrated violence.
+Hades specifies Saturn/Vulcanus as power and constraint experienced through lack, danger or concealed difficulties. Old problems and concentrated harmful force can make an already heavy burden more distressing. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) includes enemies and sickness in confinement; the [ABC Entry](#abc-entry) (printed p. 367; PDF p. 182) adds energy deficiency, past problems and criminal violence. These are attributed examples of intensified hindrance, without establishing any particular illness or hostile act.
 
 ## Links
 

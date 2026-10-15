@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon MC Admetos`
 - Astronomicon triad-set: `R MC ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Admetos = Moon](../activations/mc-admetos-equals-moon.md)
-- [Moon/Admetos = MC](../activations/moon-admetos-equals-mc.md)
-- [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md)
+- [MC/Admetos = Moon](../activations/mc-admetos-equals-moon.md): base axis [MC/Admetos](../axes/mc-admetos.md); activator [Moon](../factors/moon.md).
+- [Moon/Admetos = MC](../activations/moon-admetos-equals-mc.md): base axis [Moon/Admetos](../axes/moon-admetos.md); activator [MC](../factors/mc.md).
+- [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md): base axis [Moon/MC](../axes/moon-mc.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `MC/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
-- `MC/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `94`
-- `Moon/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `202`
-- `Moon/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
-- `Moon/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `65`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Admetos = Moon](../activations/mc-admetos-equals-moon.md#witte-entry) (PDF entry-start p. 75); [Moon/Admetos = MC](../activations/moon-admetos-equals-mc.md#witte-entry) (PDF entry-start p. 135); [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md#witte-entry) (PDF entry-start p. 60).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Admetos = Moon](../activations/mc-admetos-equals-moon.md#abc-entry) (printed p. 94); [Moon/Admetos = MC](../activations/moon-admetos-equals-mc.md#abc-entry) (printed p. 202); [Moon/MC = Admetos](../activations/moon-mc-equals-admetos.md#abc-entry) (printed p. 65).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Moon`: emotionalizes the axis through suppression of softness in favor of firmness.
-- `Moon/Admetos = MC`: Narrow minded. To live in crowded conditions. Mentally impressed by narrowness of space of the own people. The minute of death.
-- `Moon/MC = Admetos`: This activation constricts `Moon/MC` into emotional reserve, fixed attitudes, and a narrowed inner posture. It often shows someone whose public or vocational feeling-life becomes closed off, stubborn, or slow to move, making private responsiveness harder to express and personal development more resistant to change.
+Moon, MC and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Admetos](../axes/mc-admetos.md)
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/MC](../axes/moon-mc.md)
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)

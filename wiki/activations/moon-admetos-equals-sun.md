@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Sun Moon Admetos](../triads/sun-moon-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ Daily repeating sad hours. To be daily conscious of crowded conditions. The pers
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 202; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-A man's poor heart, a man's basic wife, a man's restricted man's wife, a man's restricted woman, people of a depressed people, a person's intensification, and day and hour of resistance
+German passage (transcribed from PDF page `100`, printed page `202`):
+
+> Bedrücktes Gemüt eines Mannes, gründliche Frau des Mannes, von der Frau eingeschränkter Mann, durch den Mann eingeschränkte Frau, Menschen eines deprimierten Volkes, persönliche Gefühls-Vertiefung, Tag und Stunde des Widerstandes
+
+Editorial translation from the German passage: A man's depressed mood; a man's thorough wife; a man restricted by his wife; a woman restricted by the man; people of a depressed people; personal deepening of feeling; the day and hour of resistance.
+
+## Comparative Schema
+
+- core meaning: Constricted circumstances and sadness are experienced personally and repeatedly in Witte.
+- psychology: Remaining immovable and a personal attitude toward death are explicit examples.
+- body/health: Witte's mortality wording remains historical; ABC describes depressed mood, not a heart condition.
+- social/relationship: ABC includes reciprocal restriction between a man and a woman, alongside thoroughness.
+- events/manifestations: Daily awareness of crowding is a concrete Witte example.
+- conflicts/notes: Neither a death prediction nor a timing layer is established by preserving source wording.
+
+## Contradictions
+
+Recurring sadness and restriction coexist with personal deepening of feeling. Historical death claims do not establish a predictive timing method.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Sun`: Daily repeating sad hours. To be daily conscious of crowded conditions. The personal attitude toward death. Day and hour of death. Remaining immovable.
-- Practical expression: A man's poor heart, a man's basic wife, a man's restricted man's wife, a man's restricted woman, and people of a depressed people.
+In `Moon/Admetos = Sun`, Sun specifies the axis through personally recurring sadness and awareness of constricted conditions. ABC gives a relational expression through reciprocal restrictions between a man and a woman, while also permitting thoroughness and deeper personal feeling. Witte separately lists attitudes toward death and a claimed day and hour of death; preserving that historical wording does not establish a predictive method ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

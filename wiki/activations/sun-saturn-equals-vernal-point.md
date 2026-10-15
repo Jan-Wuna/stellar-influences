@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `S/W = VP`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Triad hub: [Vernal Point Sun Saturn](../triads/vernal-point-sun-saturn.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -42,13 +43,25 @@ Older persons. Difficulties in everyday matters or connections. A day for catchi
 
 #### ABC Entry
 
-Old man in the public sphere, working life in the public sphere, day of separation in the public sphere, and loss of a man in the public sphere
+Old man in public, serious person in public life, personal tasks in public, personal problems in public life, day of separation in public, and losses of a man in public.
+
+## Comparative Schema
+
+- core meaning: seriousness, personal burdens, and separation expressed in everyday or public life.
+- psychology: ABC gives a serious person; neither entry develops a distinct account of inner motivation.
+- body/health: Witte associates the formula with catching cold and rheumatism. These historical statements do not establish a diagnosis.
+- social/relationship: older people and difficulties in everyday connections; ABC locates personal tasks and problems in public.
+- events/manifestations: separation or loss in the public sphere and difficulties in ordinary matters.
+- conflicts/notes: ABC's mistranslated and omitted public-life phrases have been restored from printed p. 150, PDF p. 74; they do not establish a vocational prediction.
+
+## Contradictions
+
+- No direct incompatibility is evident: Witte emphasizes everyday circumstances, while ABC explicitly locates the concerns in public life. Repeated themes do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Saturn = Vernal Point`: isolation or pressure in the immediate environment.
-- Practical expression: old man in the public sphere, working life in the public sphere, day of separation in the public sphere, and loss of a man in the public sphere.
+Vernal Point specifies the Sun/Saturn axis by placing seriousness, personal tasks, difficulties, and separation in everyday or public life. The [ABC entry](#abc-entry) (printed p. 150; PDF p. 74) emphasizes public circumstances, while the [Witte entry](#witte-entry) (PDF p. 107) gives difficulties in ordinary matters and connections, including older people. This supports an outward setting for these concerns, without establishing that every encounter brings loss; Witte's named ailments remain attributed historical claims.
 
 ## Links
 

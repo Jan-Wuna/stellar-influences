@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Poseidon = Mars`
 - Astronomicon formula: `V/¨ = U`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 222; one-based PDF p. 218, Jupiter + Poseidon, oriented activator row.
+
 To act instinctively. Successful mental activity. Successful in the sphere of metaphysics.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success through cognition acting, joy in cultural work, harmony through intellectual work, harmonious cultural work, cultural work success, profit through ideal work, clear legal work, working on legal values, and working hard with money
+- Source reference: printed p. 346; one-based PDF p. 172, Jupiter/Poseidon, Mars row.
+
+Success through action informed by insight, joy in cultural work, harmony through intellectual/spiritual work, harmonious cultural work, cultural work successes, gain through work on ideals, clear legal work, working on legal truths, and reasonable work with money.
+
+## Comparative Schema
+
+- core meaning: Successful mental, cultural and legal activity puts understanding into action.
+- psychology: Instinctive action and action informed by insight are both stated; harmony can accompany intellectual work.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Cultural work and legal activity provide shared practical settings.
+- events/manifestations: Success in metaphysics, cultural accomplishments, work on ideals and reasonable handling of money.
+- conflicts/notes: The sources do not define how instinct and deliberate insight relate; reasonable work with money does not mean working hard.
+
+## Contradictions
+
+Witte emphasizes instinctive action and successful mental or metaphysical activity. ABC specifies insight-informed cultural, ideal, legal and financial work. They share successful mental activity but leave its instinctive versus deliberate process open.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Mars`: judgment becoming active rather than purely reflective. It favors decisive thought, effective inspired action, and the practical use of higher understanding.
+`Jupiter/Poseidon = Mars` puts understanding to work. Mental or metaphysical activity can succeed, while cultural work brings joy and harmony and work on ideals can produce gain. Legal truth and reasonable handling of money make the practical scope concrete. [Witte](#witte-entry) emphasizes instinctive action and mental success; [ABC](#abc-entry) describes the cultural, legal and financial work through which insight acts.
 
 ## Links
 

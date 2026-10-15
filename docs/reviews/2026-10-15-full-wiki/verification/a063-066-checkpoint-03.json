@@ -1,0 +1,138 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Admetos"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-apollon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Apollon"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Asc"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-cupido.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Cupido"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-hades.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Hades"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Jupiter"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Kronos"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Mars"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = MC"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Mercury"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Moon"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Neptune"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Node"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-pluto.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Pluto"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-saturn.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Saturn"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Sun"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Uranus"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Venus"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-vulcanus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Poseidon/Poseidon = Vulcanus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-admetos.md",
+      "source_slug": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+      "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "locator": {
+        "pdf_page": 317
+      },
+      "old_text": "Creative education. Mental depth. Fine, subtle material. The atom. Radiation, irradiation. Dematerialization. Spirit and matter. The two sides of the same entity.",
+      "new_text": "Culture. Education. Mental depth. Fine, subtle material. The atom. Radiation. Vibration. Dematerialization. Spirit and matter. The two sides of the same entity.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-witte-p317.png",
+      "inspection": "Exact Admetos glyph row visually read, including Culture. Education. and Radiation. Vibration."
+    }
+  ]
+}

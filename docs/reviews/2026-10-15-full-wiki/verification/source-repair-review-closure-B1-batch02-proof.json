@@ -1,0 +1,1430 @@
+[
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+    "queue_index": 63,
+    "before_sha256": "18ff0ba7c99111ef0188b7155d17fd2011c317c82f60d2b0102590fbc0b9871d",
+    "after_sha256": "18ff0ba7c99111ef0188b7155d17fd2011c317c82f60d2b0102590fbc0b9871d",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 29,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great influence. To wield the power of the state.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nAuthority through psychic strength, dominance of psychic energy, influence of my hierarchy, great psychic influence, strength of my independence, power of my state, my special influence, my strong state, my great energy, important psychic influence.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great influence. To wield the power of the state.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAuthority through psychic strength, dominance of psychic energy, influence of my hierarchy, great psychic influence, strength. my self gloriousness, power of my state, my special influence, my strong state, my great energy, and important psychic influence",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Great influence within state or hierarchical power.",
+        "ABC 'strength. my self gloriousness' mismatches OCR 'Kraft. meiner Selbstandigkeit'; excluded."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Great influence within state or hierarchical power.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired Kraft meiner Selbständigkeit as strength of my independence, retaining complete ten-clause hierarchy/state row.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "e618858f072bed9fcb5ec975ef58f3a9f0321e1ce162a9a9e57517bd9d94e833",
+    "current_sha256": "4a21ae54c2803f889f48b0f61bb2f01f219214b4b31d7752eab68db335817fe3",
+    "original_sha256": "18ff0ba7c99111ef0188b7155d17fd2011c317c82f60d2b0102590fbc0b9871d",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-kronos.md",
+          "text": "ABC 'strength. my self gloriousness' mismatches OCR 'Kraft. meiner Selbstandigkeit'; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'strength. my self gloriousness' mismatches OCR 'Kraft. meiner Selbstandigkeit'; excluded."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 29,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'strength. my self gloriousness' mismatches OCR 'Kraft. meiner Selbstandigkeit'; excluded."
+      ],
+      "decision": "Repaired Kraft meiner Selbständigkeit as strength of my independence, retaining complete ten-clause hierarchy/state row.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Kraft meiner Selbständigkeit",
+      "before_source_section_sha256": "18ff0ba7c99111ef0188b7155d17fd2011c317c82f60d2b0102590fbc0b9871d",
+      "final_source_section_sha256": "4a21ae54c2803f889f48b0f61bb2f01f219214b4b31d7752eab68db335817fe3",
+      "final_page_sha256": "a31ac84bc4623967e8c4b67087571bb45c59821848d7691f3b67216995a2f13d",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+    "queue_index": 64,
+    "before_sha256": "758bf4722498c8a4297e56e161a4d9ed7e04606c6c1840d30bfadca2460783fb",
+    "after_sha256": "758bf4722498c8a4297e56e161a4d9ed7e04606c6c1840d30bfadca2460783fb",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 30,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAn intense urge for action. Activity based on one’s own strong expectations (willpower).\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nEfforts toward psychic energy, influence of my activity, influential work of the soul, actions of a strong soul, my work energy, my powerful activity, my willpower, activity involving psychic violence, strong impulses of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAn intense urge for action. Activity based on one’s own strong expectations (willpower).\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nImitating psychic energy, influence of my activity, influential soul work, actions of a strong soul, my work energy, my powerful activity, my will power, psychic violence activity, and strong impulses of the soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Intense action and willpower.",
+        "ABC 'Imitating psychic energy' mistranslates 'BemUhungen um psychische Energie'; excluded."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Intense action and willpower.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired Bemühungen um psychische Energie as efforts toward psychic energy, preserving all nine action clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "b0191f0be646146a42c8c291e7ac7205e5208337c938572b2515b2a98497fb2d",
+    "current_sha256": "191b388b423521fc3a75b33f0b47bcc080ec883b4eec7d31ee1ffcad363b726a",
+    "original_sha256": "758bf4722498c8a4297e56e161a4d9ed7e04606c6c1840d30bfadca2460783fb",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-mars.md",
+          "text": "ABC 'Imitating psychic energy' mistranslates 'BemUhungen um psychische Energie'; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Imitating psychic energy' mistranslates 'BemUhungen um psychische Energie'; excluded."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 30,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'Imitating psychic energy' mistranslates 'BemUhungen um psychische Energie'; excluded."
+      ],
+      "decision": "Repaired Bemühungen um psychische Energie as efforts toward psychic energy, preserving all nine action clauses.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Bemühungen um psychische Energie",
+      "before_source_section_sha256": "758bf4722498c8a4297e56e161a4d9ed7e04606c6c1840d30bfadca2460783fb",
+      "final_source_section_sha256": "191b388b423521fc3a75b33f0b47bcc080ec883b4eec7d31ee1ffcad363b726a",
+      "final_page_sha256": "c4cbbb3657b3181dfea2091580697fc16bc32a9fd382755a12ead8a59e3335eb",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+    "queue_index": 65,
+    "before_sha256": "5c0ae8ad0230291ac412ad292a3202c839c5bf4939b529b4f6f57e0a1946576f",
+    "after_sha256": "5c0ae8ad0230291ac412ad292a3202c839c5bf4939b529b4f6f57e0a1946576f",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 31,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nStrong thinking activity. Great agility and activity of thoughts. Psychically impressed by mental power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nInfluence of my thoughts, force of media language (Gewalt der Medien-Sprache), conversations about psychic energy, my movement energy, my energy in youth, my verbal power (Sprach-Gewalt), my strong thoughts, news about psychic violence, inner strength in youth.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nStrong thinking activity. Great agility and activity of thoughts. Psychically impressed by mental power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluence of my thoughts, violence of the media language, speech about psychic energy, my movement energy, my energy in youth, my speech violence, my strong thoughts, news about psychic violence, and psychic strength in youth",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Active thought and the influence of communication.",
+        "ABC 'my speech violence' is an uncertain rendering of 'meine Sprach-Gewalt'; scope remains unverified."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Active thought and the influence of communication.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired Sprach-Gewalt as verbal power with native phrase retained; checked all nine communication clauses and preserved separate violence reports.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "d50a3467465e781b4ca68babf52741859a2d2844fc20185e25f5ed7a067a7070",
+    "current_sha256": "a5d7019249d530287d0da793d71d34ceff83ca61aeab77ef0c03cb8d201b7d74",
+    "original_sha256": "5c0ae8ad0230291ac412ad292a3202c839c5bf4939b529b4f6f57e0a1946576f",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-mercury.md",
+          "text": "ABC 'my speech violence' is an uncertain rendering of 'meine Sprach-Gewalt'; scope remains unverified.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my speech violence' is an uncertain rendering of 'meine Sprach-Gewalt'; scope remains unverified."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 31,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my speech violence' is an uncertain rendering of 'meine Sprach-Gewalt'; scope remains unverified."
+      ],
+      "decision": "Repaired Sprach-Gewalt as verbal power with native phrase retained; checked all nine communication clauses and preserved separate violence reports.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Gewalt der Medien-Sprache; meine Sprach-Gewalt; Nachrichten über seelische Gewalt",
+      "before_source_section_sha256": "5c0ae8ad0230291ac412ad292a3202c839c5bf4939b529b4f6f57e0a1946576f",
+      "final_source_section_sha256": "a5d7019249d530287d0da793d71d34ceff83ca61aeab77ef0c03cb8d201b7d74",
+      "final_page_sha256": "dae61273f495a199ec178a14141814ed2097327dc18f6f3f1afd3e69688221a8",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+    "queue_index": 66,
+    "before_sha256": "529a300be7bf1165e05cdcc7abec9d4ed5d8043c8a7e2a5e6a36c8b0e3d9175d",
+    "after_sha256": "529a300be7bf1165e05cdcc7abec9d4ed5d8043c8a7e2a5e6a36c8b0e3d9175d",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 33,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo miss completely. Dissolution of one’s own power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nMy intuitive influence, my weak influence, my strength through metaphysics, my strong uncertainty, my refined energy, weak psychic energy, weak inner influence, psychic energy of water, unknown inner influence.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo miss completely. Dissolution of one’s own power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy intuitive influence, my weak influence, my strong through metaphysics, my strong insecurity, my refined energy, weak psychic energy, weak sclic influence, psychic energy of water, and unknown psychic influence",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Dissipation of power and subtle or weak influence.",
+        "ABC 'my strong through metaphysics' and 'weak sclic influence' are unresolved translation/OCR; neither is expanded."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Dissipation of power and subtle or weak influence.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored strength through metaphysics and weak inner influence in full nine-clause Neptune row.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "14d0f7391d5033dc033c0daa6d306d5f74bb974a36171d12f551e4f5834b5eb7",
+    "current_sha256": "e12fbf9e5b1b57a8e4873dbe8576f8168bb07f61c08799fc8609e153b60f0225",
+    "original_sha256": "529a300be7bf1165e05cdcc7abec9d4ed5d8043c8a7e2a5e6a36c8b0e3d9175d",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-neptune.md",
+          "text": "ABC 'my strong through metaphysics' and 'weak sclic influence' are unresolved translation/OCR; neither is expanded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my strong through metaphysics' and 'weak sclic influence' are unresolved translation/OCR; neither is expanded."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 33,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my strong through metaphysics' and 'weak sclic influence' are unresolved translation/OCR; neither is expanded."
+      ],
+      "decision": "Restored strength through metaphysics and weak inner influence in full nine-clause Neptune row.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "meine Stärke durch Metaphysik; schwacher seelischer Einfluß",
+      "before_source_section_sha256": "529a300be7bf1165e05cdcc7abec9d4ed5d8043c8a7e2a5e6a36c8b0e3d9175d",
+      "final_source_section_sha256": "e12fbf9e5b1b57a8e4873dbe8576f8168bb07f61c08799fc8609e153b60f0225",
+      "final_page_sha256": "684542d51d70a94030098c654380ae0eb9654040a366f0991cd530882d5cec6c",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-node.md",
+    "queue_index": 67,
+    "before_sha256": "ab791d0d447e3b71440d367eee85e87a29a1c17e5258675de5de95887f68ffe9",
+    "after_sha256": "ab791d0d447e3b71440d367eee85e87a29a1c17e5258675de5de95887f68ffe9",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 34,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great influence through own connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nMy influence in connections, my encounter with power, my influential connections, inner influence of a connection, psychic violence in a connection, strong inner connection, connected through psychic energy.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great influence through own connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy influence in connections, my encounter with the Force, my influential connections, the psychic influence of a connection, psychic violence in a connection, strong psychic connection, and connected by psychic energy",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-node.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Power through connections.",
+        "ABC 'my encounter with the Force' is misleadingly capitalized; no special entity is inferred."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Power through connections.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Replaced capitalized Force with ordinary power (Macht) in the complete seven-clause connection row.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "ca0c91176aef2d47554bb21da1af13eb43252b3d82244d00e87397fb830d1dd1",
+    "current_sha256": "e6cd2eb22d0c0955f8232af4b8aaadec05a6d2ebce87940c441a17f111d6d58c",
+    "original_sha256": "ab791d0d447e3b71440d367eee85e87a29a1c17e5258675de5de95887f68ffe9",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-node.md",
+          "text": "ABC 'my encounter with the Force' is misleadingly capitalized; no special entity is inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my encounter with the Force' is misleadingly capitalized; no special entity is inferred."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-node.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 34,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my encounter with the Force' is misleadingly capitalized; no special entity is inferred."
+      ],
+      "decision": "Replaced capitalized Force with ordinary power (Macht) in the complete seven-clause connection row.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "meine Begegnung mit der Macht",
+      "before_source_section_sha256": "ab791d0d447e3b71440d367eee85e87a29a1c17e5258675de5de95887f68ffe9",
+      "final_source_section_sha256": "e6cd2eb22d0c0955f8232af4b8aaadec05a6d2ebce87940c441a17f111d6d58c",
+      "final_page_sha256": "83e3ed2df763830e730155204f6cce68c11f638042c22f21d51337ed590a843f",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+    "queue_index": 68,
+    "before_sha256": "adc4edd329ef6a3e002d44b3b4104569db44015a04fd29abbee764f4b9091191",
+    "after_sha256": "adc4edd329ef6a3e002d44b3b4104569db44015a04fd29abbee764f4b9091191",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 36,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have spiritual or mental influence or power. To use strong mental power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nEnsouled cultural influence, influence of soul and spirit, insight is my strength, knowledge of my energy, my mind is strong, my mental influence, my cultural influence, my spiritual strength, clarity of a strong soul, strong spirit-soul (Geist-Seele).",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have spiritual or mental influence or power. To use strong mental power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluence of culture, influence of soul and spirit, insight is my strong, knowledge of my energy, my mind is strong, my mental influence, my cultural influence, my spiritual strength, clarity of a strong soul, and strong spirit soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Mental and spiritual influence.",
+        "ABC 'insight is my strong' is an awkward rendering of 'Einsicht ist meine Starke'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Mental and spiritual influence.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored insight is my strength and ensouled cultural influence; checked complete ten-clause Poseidon row.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected actual high-resolution PDF47 full page halves and complete glyph-owned rows: Kronos ten, Mars nine, Mercury nine, Neptune nine, Node seven and Poseidon ten clauses. Checked Selbständigkeit, Bemühungen, Sprach-Gewalt, Stärke durch Metaphysik, Macht and Einsicht ist meine Stärke against visible print; source-native compounds retained where scope matters.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "4e66e3c5df9916522ef5b9a002ddf6af081c027ff0c9c37f82de782f92d1eb96",
+    "current_sha256": "25353178fe4c4c00bf605f7f3da4cfc9de8ea3d6031ec1b2b1ac38f0730adef6",
+    "original_sha256": "adc4edd329ef6a3e002d44b3b4104569db44015a04fd29abbee764f4b9091191",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+          "text": "ABC 'insight is my strong' is an awkward rendering of 'Einsicht ist meine Starke'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'insight is my strong' is an awkward rendering of 'Einsicht ist meine Starke'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 36,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'insight is my strong' is an awkward rendering of 'Einsicht ist meine Starke'."
+      ],
+      "decision": "Restored insight is my strength and ensouled cultural influence; checked complete ten-clause Poseidon row.",
+      "raw_locator": "ABC Meridian + Vulkanus; one-based PDF47 printed96–97 exact Kronos/Mars/Mercury/Neptune/Node/Poseidon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Beseelter Kultur-Einfluß; Einsicht ist meine Stärke; starke Geist-Seele",
+      "before_source_section_sha256": "adc4edd329ef6a3e002d44b3b4104569db44015a04fd29abbee764f4b9091191",
+      "final_source_section_sha256": "25353178fe4c4c00bf605f7f3da4cfc9de8ea3d6031ec1b2b1ac38f0730adef6",
+      "final_page_sha256": "7309d2c5d521f712932a2e21c07eabd5e6a45109cba4133a0580055722d67966",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+    "queue_index": 69,
+    "before_sha256": "97962b9fd4e5e241b5c2f162f0b6cbf0bfbd26b55d2f9dbe64eeaa040be96e6c",
+    "after_sha256": "97962b9fd4e5e241b5c2f162f0b6cbf0bfbd26b55d2f9dbe64eeaa040be96e6c",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 37,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo guard or control something. Intervention to hinder or slow down something.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nTasks of a strong soul, perseverance through psychic energy, burdensome psychic influence, influence of emotional pain, inhibitions through psychic violence, strength of a patient soul, my disturbed power, my intense pain, strength of a mature soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo guard or control something. Intervention to hinder or slow down something.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nTasks of a strong soul, perseverance through psychic energy, straining psychic influence, influence of emotional pain, inhibitions by psychic violence, strength of a patient soul, my staggered power, my strong pain, and strong of a fixed soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Power expressed through restraint and endurance.",
+        "ABC 'my staggered power' mismatches 'meine gestorte Macht'; 'strong of a fixed soul' mismatches 'Starke einer rcifen Seele'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Power expressed through restraint and endurance.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored disturbed power and strength of a mature soul, preserving nine Saturn clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected full actual high-resolution PDF47 rows: Saturn nine, Sun eight, Uranus eight, Venus nine and Vernal Point seven clauses. Restored Sun personal-influence and Uranus surprising-strength omissions; reife Seele, Zentrum für, Erneuerung, schöne Seele, inneres Wesen and seelische Gewalt visibly confirmed. Other source prose unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "1aaac75a33f0cc3c31187188682297bca22eaeadff668a6c01686997dd2b65b4",
+    "current_sha256": "e805cc2be63bd644d8093a555ee33125411ebca631ffdd1c37cc7aa529b4d5cb",
+    "original_sha256": "97962b9fd4e5e241b5c2f162f0b6cbf0bfbd26b55d2f9dbe64eeaa040be96e6c",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-saturn.md",
+          "text": "ABC 'my staggered power' mismatches 'meine gestorte Macht'; 'strong of a fixed soul' mismatches 'Starke einer rcifen Seele'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/saturn-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Saturn excludes unreliable ABC “my staggered power” and “fixed soul” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my staggered power' mismatches 'meine gestorte Macht'; 'strong of a fixed soul' mismatches 'Starke einer rcifen Seele'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 37,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my staggered power' mismatches 'meine gestorte Macht'; 'strong of a fixed soul' mismatches 'Starke einer rcifen Seele'.",
+        "MC/Vulcanus = Saturn excludes unreliable ABC “my staggered power” and “fixed soul” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Restored disturbed power and strength of a mature soul, preserving nine Saturn clauses.",
+      "raw_locator": "ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Saturn/Sun/Uranus/Venus/Vernal Point rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "meine gestörte Macht; Stärke einer reifen Seele",
+      "before_source_section_sha256": "97962b9fd4e5e241b5c2f162f0b6cbf0bfbd26b55d2f9dbe64eeaa040be96e6c",
+      "final_source_section_sha256": "e805cc2be63bd644d8093a555ee33125411ebca631ffdd1c37cc7aa529b4d5cb",
+      "final_page_sha256": "9c258e918709fae7532655742e7f1fbf25763fc42c21ef8017d9f5583516eb21",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+    "queue_index": 70,
+    "before_sha256": "1692a9206a039564cf450dd4d3ff4d859dabc80d132ce6f97a21fcc80ecf9088",
+    "after_sha256": "1692a9206a039564cf450dd4d3ff4d859dabc80d132ce6f97a21fcc80ecf9088",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 38,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great physical strength and vigor and to use it.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nInfluence of body and soul, my personal influence, my masculine strength (Mannes-Kraft), my bodily strength, personal psychic energy, personal inner influence, a person's inner strength, center for psychic energy.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo have great physical strength and vigor and to use it.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluence of body and soul, my man power, my body strongness, personal psychic energy, personal psychic influence, a person's psychic power, and center tlir psychic energy",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Physical vigor expressed as personal power.",
+        "ABC 'center tlir psychic energy' retains corrupted OCR 'Zentrum tlir'; excluded from synthesis."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Physical vigor expressed as personal power.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored missing personal influence and clear center for psychic energy, with eight clauses and masculine-strength qualification.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected full actual high-resolution PDF47 rows: Saturn nine, Sun eight, Uranus eight, Venus nine and Vernal Point seven clauses. Restored Sun personal-influence and Uranus surprising-strength omissions; reife Seele, Zentrum für, Erneuerung, schöne Seele, inneres Wesen and seelische Gewalt visibly confirmed. Other source prose unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "4dd5bdc320bc0977306f971583ee6752761ee19cf4ddd84584c9a30ac4fa7ec8",
+    "current_sha256": "568f08429224c67b8cb8ac4388d7c5d3072687d2666366d4ac9b7b03b879a1b5",
+    "original_sha256": "1692a9206a039564cf450dd4d3ff4d859dabc80d132ce6f97a21fcc80ecf9088",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-sun.md",
+          "text": "ABC 'center tlir psychic energy' retains corrupted OCR 'Zentrum tlir'; excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Sun qualifies damaged ABC “center tlir”; Sun/Vulcanus = MC excludes damaged “seclic force” and an unreliable mental-power rendering. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'center tlir psychic energy' retains corrupted OCR 'Zentrum tlir'; excluded from synthesis."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 38,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'center tlir psychic energy' retains corrupted OCR 'Zentrum tlir'; excluded from synthesis.",
+        "MC/Vulcanus = Sun qualifies damaged ABC “center tlir”; Sun/Vulcanus = MC excludes damaged “seclic force” and an unreliable mental-power rendering. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Restored missing personal influence and clear center for psychic energy, with eight clauses and masculine-strength qualification.",
+      "raw_locator": "ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Saturn/Sun/Uranus/Venus/Vernal Point rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "mein persönlicher Einfluß; meine Mannes-Kraft; Zentrum für psychische Energie",
+      "before_source_section_sha256": "1692a9206a039564cf450dd4d3ff4d859dabc80d132ce6f97a21fcc80ecf9088",
+      "final_source_section_sha256": "568f08429224c67b8cb8ac4388d7c5d3072687d2666366d4ac9b7b03b879a1b5",
+      "final_page_sha256": "4997109fcb8800bf383675b69827bb71a8c8710b214098ad23971bf47534f56d",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+    "queue_index": 71,
+    "before_sha256": "1ec01e60412427f0ba85a453559e2290bd668641408c6e3c539d38d81b0969e6",
+    "after_sha256": "1ec01e60412427f0ba85a453559e2290bd668641408c6e3c539d38d81b0969e6",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 39,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGreat excitement. Sudden exercise of personal power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nInfluential inner impulses, renewal through psychic energy, powerful inner tensions, my technical influence, my dynamic energy, my surprising strength, new inner influence, strong inner arousal.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGreat excitement. Sudden exercise of personal power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluenced psychic impulses, emanation from psychic energy, powerful scelic tensions, my technical influence, my dynamic energy, new psychic influence, and strong emotional arousal",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Sudden expression of personal power.",
+        "ABC 'emanation' mismatches German OCR 'Emeuerung'; 'scelic tensions' is retained OCR residue."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Sudden expression of personal power.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored renewal, influential impulses, inner tensions and omitted surprising strength; complete eight-clause Uranus row checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected full actual high-resolution PDF47 rows: Saturn nine, Sun eight, Uranus eight, Venus nine and Vernal Point seven clauses. Restored Sun personal-influence and Uranus surprising-strength omissions; reife Seele, Zentrum für, Erneuerung, schöne Seele, inneres Wesen and seelische Gewalt visibly confirmed. Other source prose unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 97,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "38c8f126a20aae5ffce0a9b72af8e65b5c042879f0abdd095eb85152bb539014",
+    "current_sha256": "0b7a3f1f562911b7ac16ff0096dd3ada4bb6624607e1f124ca50b40964e3c10a",
+    "original_sha256": "1ec01e60412427f0ba85a453559e2290bd668641408c6e3c539d38d81b0969e6",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-uranus.md",
+          "text": "ABC 'emanation' mismatches German OCR 'Emeuerung'; 'scelic tensions' is retained OCR residue.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/uranus-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Uranus qualifies ABC's psychic-energy emanation phrase as unreliable. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/uranus-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Uranus qualifies ABC's psychic-energy emanation phrase as unreliable.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'emanation' mismatches German OCR 'Emeuerung'; 'scelic tensions' is retained OCR residue."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 39,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'emanation' mismatches German OCR 'Emeuerung'; 'scelic tensions' is retained OCR residue.",
+        "MC/Vulcanus = Uranus qualifies ABC's psychic-energy emanation phrase as unreliable. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Vulcanus = Uranus qualifies ABC's psychic-energy emanation phrase as unreliable."
+      ],
+      "decision": "Restored renewal, influential impulses, inner tensions and omitted surprising strength; complete eight-clause Uranus row checked.",
+      "raw_locator": "ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Saturn/Sun/Uranus/Venus/Vernal Point rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Erneuerung durch psychische Energie; meine überraschende Stärke",
+      "before_source_section_sha256": "1ec01e60412427f0ba85a453559e2290bd668641408c6e3c539d38d81b0969e6",
+      "final_source_section_sha256": "0b7a3f1f562911b7ac16ff0096dd3ada4bb6624607e1f124ca50b40964e3c10a",
+      "final_page_sha256": "ea79528b1cf0930a1fd030808621082ebe309f240ad093a54b33e3fbf2401100",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+    "queue_index": 72,
+    "before_sha256": "da20d16b56a3d47094959b6d6dd034ede26c6d869a14079bc8129c1ea7716111",
+    "after_sha256": "da20d16b56a3d47094959b6d6dd034ede26c6d869a14079bc8129c1ea7716111",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 40,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGreat passion in love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nInfluence of a beautiful soul, peaceful influence of the soul, power of my beauty, my influence in love, my harmonious influence, my power in love, harmony through psychic energy, my artistic influence, strong harmony of souls.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGreat passion in love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluence of a gentle soul, peaceful influence of the soul, power of my beauty, my influence in love, my harmonious influence, my love power, harmony through psychic energy, my artistic influence, and strong soul harmony",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Passionate affection and harmonious influence.",
+        "ABC 'Influence of a gentle soul' mismatches German OCR 'Einfluf3 einer schonen Seele'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Passionate affection and harmonious influence.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored beautiful soul rather than gentle soul, retaining nine complete Venus clauses.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected full actual high-resolution PDF47 rows: Saturn nine, Sun eight, Uranus eight, Venus nine and Vernal Point seven clauses. Restored Sun personal-influence and Uranus surprising-strength omissions; reife Seele, Zentrum für, Erneuerung, schöne Seele, inneres Wesen and seelische Gewalt visibly confirmed. Other source prose unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "05af43f93b3981b4534768b0b39c9a33c4b1c266c05a15bbb1b32af42b8a88ae",
+    "current_sha256": "d14fcf2db9162b2a49437089376e8f428571c1233fb9ddcb5daee57b63d59426",
+    "original_sha256": "da20d16b56a3d47094959b6d6dd034ede26c6d869a14079bc8129c1ea7716111",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-venus.md",
+          "text": "ABC 'Influence of a gentle soul' mismatches German OCR 'Einfluf3 einer schonen Seele'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Influence of a gentle soul' mismatches German OCR 'Einfluf3 einer schonen Seele'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 40,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'Influence of a gentle soul' mismatches German OCR 'Einfluf3 einer schonen Seele'."
+      ],
+      "decision": "Restored beautiful soul rather than gentle soul, retaining nine complete Venus clauses.",
+      "raw_locator": "ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Saturn/Sun/Uranus/Venus/Vernal Point rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Einfluß einer schönen Seele",
+      "before_source_section_sha256": "da20d16b56a3d47094959b6d6dd034ede26c6d869a14079bc8129c1ea7716111",
+      "final_source_section_sha256": "d14fcf2db9162b2a49437089376e8f428571c1233fb9ddcb5daee57b63d59426",
+      "final_page_sha256": "8eed4351e0ad0445c1594fa3aa112889f4706de2156297b19ced7b9864398aca",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  },
+  {
+    "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+    "queue_index": 73,
+    "before_sha256": "c8eb92ceccde7f308a0b85a0d43a71a8140b35d9eb3298146918fee57bdf03a7",
+    "after_sha256": "c8eb92ceccde7f308a0b85a0d43a71a8140b35d9eb3298146918fee57bdf03a7",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 41,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo influence many people. To reveal one’s own power to the general world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).\n\nThe inner nature of the public, I and public power, my influence in public life, my power in public life, inner influence of the public, inner influence in public life, psychic violence in public life.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo influence many people. To reveal one’s own power to the general world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nThe internal consciousness of the public, me and the public power, my influence in the public sphere, my power in the public sphere, life, mental influence of the public sphere, emotional influence in the public sphere, and sectarian violence in the public sphere",
+    "ledger_record": {
+      "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Personal power expressed in public life.",
+        "ABC 'sectarian violence in the public sphere' mistranslates OCR 'seclische Gewalt in der Offentlichkeit'; opening 'internal consciousness' is also uncertain."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Personal power expressed in public life.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored inner nature of the public and psychic violence, removing false sectarian meaning and spurious standalone life; all seven clauses checked.; repaired the complete ABC row and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Closure B personally inspected full actual high-resolution PDF47 rows: Saturn nine, Sun eight, Uranus eight, Venus nine and Vernal Point seven clauses. Restored Sun personal-influence and Uranus surprising-strength omissions; reife Seele, Zentrum für, Erneuerung, schöne Seele, inneres Wesen and seelische Gewalt visibly confirmed. Other source prose unchanged.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Vulkanus",
+          "locator": {
+            "system": "printed",
+            "page": 96,
+            "pdf_page": 47,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf47-left.png",
+            "verification/source-closure-B-abc-pdf47-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Vulcanus",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 76,
+            "pdf_page": 76,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "6aee28eb1a5bdb78c7cd2fe5c1229678a86fdf5f9a17e461df9d88ad91ae2dfe",
+    "current_sha256": "7b4068b7a0d1f6bcae264ad134b2a29156174fcfdc1c0afcc44e9397f83f3d23",
+    "original_sha256": "c8eb92ceccde7f308a0b85a0d43a71a8140b35d9eb3298146918fee57bdf03a7",
+    "closure_flags": {
+      "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+          "text": "ABC 'sectarian violence in the public sphere' mistranslates OCR 'seclische Gewalt in der Offentlichkeit'; opening 'internal consciousness' is also uncertain.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Vernal Point excludes an unreliable ABC sectarian-violence rendering and retains an uncertain opening. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-vulcanus.md",
+          "text": "MC/Vulcanus = Vernal Point excludes an unreliable ABC sectarian-violence rendering and retains an uncertain opening.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'sectarian violence in the public sphere' mistranslates OCR 'seclische Gewalt in der Offentlichkeit'; opening 'internal consciousness' is also uncertain."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 41,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'sectarian violence in the public sphere' mistranslates OCR 'seclische Gewalt in der Offentlichkeit'; opening 'internal consciousness' is also uncertain.",
+        "MC/Vulcanus = Vernal Point excludes an unreliable ABC sectarian-violence rendering and retains an uncertain opening. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Vulcanus = Vernal Point excludes an unreliable ABC sectarian-violence rendering and retains an uncertain opening."
+      ],
+      "decision": "Restored inner nature of the public and psychic violence, removing false sectarian meaning and spurious standalone life; all seven clauses checked.",
+      "raw_locator": "ABC Meridian + Vulkanus one-based PDF47 printed96–97 exact Saturn/Sun/Uranus/Venus/Vernal Point rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf47-left.png",
+        "verification/source-closure-B-abc-pdf47-right.png"
+      ],
+      "native_check": "Das innere Wesen der Öffentlichkeit; seelische Gewalt in der Öffentlichkeit",
+      "before_source_section_sha256": "c8eb92ceccde7f308a0b85a0d43a71a8140b35d9eb3298146918fee57bdf03a7",
+      "final_source_section_sha256": "7b4068b7a0d1f6bcae264ad134b2a29156174fcfdc1c0afcc44e9397f83f3d23",
+      "final_page_sha256": "5849ad8b93cf50466381abd2a388043cd6444eed2f4f445d5b40194dfb0af7ee",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-vulcanus",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_raw_checks": [
+      "Entire baseline/current Source Entries, reverse delta, all queue flags, full stable closure decision and full unique amended owner record read.",
+      "Every ABC clause in the changed paragraph compared directly with its source-native row on the personally inspected full scan. All flagged claim repairs and new printed/PDF locators checked; no parser-only row attribution.",
+      "Inherited Witte prose outside an actually changed or flagged clause is not certified by this bounded closure decision. Historical gender, health, crime, timing and violence terms remain attributed doctrine, not established facts."
+    ],
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf047.png"
+    ],
+    "raw_locator": "ABC printed96–97 / actual PDF47"
+  }
+]

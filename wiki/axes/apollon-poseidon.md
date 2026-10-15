@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¥/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `308` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ People with the same mindset. Congenial. Companions of destiny. Fellow sufferers
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `472`; PDF page: `235` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Success through reason, success ldee, mind science, intellectual freedom, intellectual knowledge, clear knowledge, cultural success, cultural dissemination, culture knowledge, reason experiences, truth knowledge, and increasing knowledge
+German pair summary (transcribed from printed page `472`; PDF page `235`):
+
+> Erfolg durch Vernunft, Erfolgs-Idee, Geistes-Wissenschaft, geistige Freiheit, geistiges Wissen, klares Wissen, Kultur-Erfolg, Kultur-Verbreitung, Kultur-Wissen, Vernunft-Erfahrungen, Wahrheits-Wissen, zunehmende Erkenntnisse
+
+Editorial translation from the German passage: Success through reason; an idea for success; study of mind/spirit (Geistes-Wissenschaft); intellectual freedom; intellectual knowledge; clear knowledge; cultural success; cultural dissemination; cultural knowledge; experiences of reason; knowledge of truth; increasing insights.
+
+## Comparative Schema
+
+- Core meaning: Shared outlook, spreading ideas, and knowledge gained through experience connect the [Pair Summary](#pair-summary) with cultural dissemination and increasing knowledge in the [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Congeniality, disposition, clear knowledge, intellectual freedom, and reason are explicit in the two summaries.
+- Body/health: Neither pair entry develops a bodily or clinical correspondence.
+- Social/relationship: Comradeship, fellow sufferers, companions of destiny, and people sharing a life outlook are explicit in the [Pair Summary](#pair-summary).
+- Events/manifestations: Humanities, spiritual science, theological insight, cultural dissemination, and success through reason are named fields of expression.
+- Conflicts/notes: The entries emphasize fellowship and understanding without documenting a direct contradiction. ABC's Geistes-Wissenschaft is retained broadly; Witte separately names spiritual science, humanities and theological insights.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Success through reason, success ldee, mind science, intellectual freedom, intell
 - [Apollon/Poseidon = Vulcanus](../activations/apollon-poseidon-equals-vulcanus.md)
 - [Apollon/Poseidon = Zeus](../activations/apollon-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The entries have compatible themes of knowledge and shared outlook, but their brevity does not establish agreement on every term or a complete account of difficulties within such fellowship.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon`: wide-sharing thought: congenial communities, spreading ideas, spiritual science, humanities, theology, and people linked by a common outlook.
-- Chart expression: broad mental fellowship, educational or philosophical communities, collective ideals, and the expansion of ideas across many minds or distances. Liabilities: abstraction without grounding, ideological sameness, moral or spiritual grandiosity, and communities held together more by shared concept than lived substance.
+`Apollon/Poseidon` connects the growth and circulation of understanding with fellowship around a shared outlook. Insight through experience and the spreading of ideas belong with congenial people, comrades, and companions in the [Pair Summary](#pair-summary). The [ABC Pair Summary](#abc-pair-summary) gives this intellectual and cultural activity a further emphasis on reason, freedom, clear knowledge, and dissemination. Humanities, theology, and spiritual science remain specific source associations. The shared theme is ideas developing and reaching others through common interests and experience.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Hades](../axes/moon-hades.md)
 - Triad hub: [Moon Mars Hades](../triads/moon-mars-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).
 
 Active, poor, common woman. Activity full of worry and care.
 
@@ -42,13 +46,27 @@ Active, poor, common woman. Activity full of worry and care.
 
 #### ABC Entry
 
-Work of an old woman, work service of a woman, dangerous activities of a people, GemOts Kummer in creating, secret actions of a woman, impulses of a woman from the past, criminal women's work, and a woman's renunciation of work
+- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (complete oriented row checked against actual scan).
+
+Work of an old woman, a woman's work service, dangerous activities of a people, emotional grief while working, secret actions of a woman, impulses of a woman from the past, criminal women's work, a woman's renunciation of work.
+
+## Comparative Schema
+
+- core meaning: Activity and work are carried out under worry or deprivation.
+- psychology: Work accompanied by care and anxiety is Witte's explicit emphasis.
+- body/health: Dangerous activities are ABC examples, not evidence of a particular injury or disease.
+- social/relationship: Women's work and service are traditional examples; no universal gender role is established.
+- events/manifestations: Secret actions, hazardous collective activity and giving up work are ABC possibilities.
+- conflicts/notes: The scan's Gemüts-Kummer beim Schaffen is emotional grief while working; poverty and work do not establish criminality.
+
+## Contradictions
+
+No direct contradiction is established. The historical examples remain separate possibilities rather than diagnoses or character conclusions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Mars`: Active, poor, common woman. Activity full of worry and care.
-- Practical expression: work of an old woman, work service of a woman, dangerous activities of a people, GemOts Kummer in creating, and secret actions of a woman.
+In `Moon/Hades = Mars`, work and action proceed under worry or deprivation. An old woman's labor, work service and emotional grief while working make the effort concrete; dangerous collective activity and giving up work retain more difficult possibilities. Secret actions, criminal women's work and impulses from a woman of the past are specific source examples, without making secrecy or criminality assumptions about anyone who works under strain. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

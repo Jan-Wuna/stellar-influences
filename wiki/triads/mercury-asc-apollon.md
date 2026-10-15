@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Asc Apollon`
 - Astronomicon triad-set: `T Asc ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Apollon = Mercury](../activations/asc-apollon-equals-mercury.md)
-- [Mercury/Apollon = Asc](../activations/mercury-apollon-equals-asc.md)
-- [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md)
+- [Asc/Apollon = Mercury](../activations/asc-apollon-equals-mercury.md): base axis [Asc/Apollon](../axes/asc-apollon.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Apollon = Asc](../activations/mercury-apollon-equals-asc.md): base axis [Mercury/Apollon](../axes/mercury-apollon.md); activator [Asc](../factors/asc.md).
+- [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md): base axis [Mercury/Asc](../axes/mercury-asc.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Asc/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `130`
-- `Mercury/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
-- `Mercury/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `262`
-- `Mercury/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `83`
-- `Mercury/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `107`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Apollon = Mercury](../activations/asc-apollon-equals-mercury.md#witte-entry) (PDF entry-start p. 95); [Mercury/Apollon = Asc](../activations/mercury-apollon-equals-asc.md#witte-entry) (PDF entry-start p. 170); [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md#witte-entry) (PDF entry-start p. 83).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Apollon = Mercury](../activations/asc-apollon-equals-mercury.md#abc-entry) (printed p. 130); [Mercury/Apollon = Asc](../activations/mercury-apollon-equals-asc.md#abc-entry) (printed p. 262); [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md#abc-entry) (printed p. 107).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Mercury`: customer talks, agreements, service exchanges, and immediate environment shaped by commerce and conversation.
-- `Mercury/Apollon = Asc`: brings the axis into active exchange with others and with scientific circles.
-- `Mercury/Asc = Apollon`: widens the Mercury/Asc axis into scientific, commercial, and transactional conversation.
+Mercury, Asc and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Apollon](../axes/asc-apollon.md)
+- [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Mercury/Asc](../axes/mercury-asc.md)
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)

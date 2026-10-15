@@ -1,0 +1,76 @@
+...................FFFF......                                            [100%]
+================================== FAILURES ===================================
+__________________ test_sun_moon_axis_includes_mcbroom_entry __________________
+
+    def test_sun_moon_axis_includes_mcbroom_entry():
+        page = load_page(Path("wiki/axes/sun-moon.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+            UDO_RUDOLPH_SLUG,
+            "reinhold-ebertin-the-combination-of-stellar-influences",
+            "michelle-falis-planet-combinations-astrological-brainstorms",
+            "charles-carter-the-astrological-aspects",
+            "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_mcbroom_ingest.py:28: AssertionError
+___________________ test_asc_mc_axis_includes_mcbroom_entry ___________________
+
+    def test_asc_mc_axis_includes_mcbroom_entry():
+        page = load_page(Path("wiki/axes/asc-mc.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+            UDO_RUDOLPH_SLUG,
+            "reinhold-ebertin-the-combination-of-stellar-influences",
+            "john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints",
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains one more item: 'zane-b-stein-the-quadrant-midpoints'
+E         Use -v to get more diff
+
+tests\wiki\test_mcbroom_ingest.py:49: AssertionError
+__ test_sun_moon_equals_mercury_includes_mcbroom_entry_without_example_list ___
+
+    def test_sun_moon_equals_mercury_includes_mcbroom_entry_without_example_list():
+        page = load_page(Path("wiki/activations/sun-moon-equals-mercury.md"))
+    
+        assert MCBROOM_SLUG in page.meta["source_pages"]
+        assert f"### {MCBROOM_TITLE}" in page.body
+>       assert "- Source heading: `Mercury at the Sun/Moon Midpoint`" in page.body
+E       AssertionError: assert '- Source heading: `Mercury at the Sun/Moon Midpoint`' in '\n## Identity\n\n- Formula: `Sun/Moon = Mercury`\n- Astronomicon formula: `S/R = T`\n- Axis page: [Sun/Moon](../axes/...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Sun/Moon = Mercury`\n- Astronomicon formula: `S/R = T`\n- Axis page: [Sun/Moon](../axes/...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/sun-moon-equals-mercury.md'), meta={'title': 'Sun/Moon = Mercury', 'page_t... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_mcbroom_ingest.py:69: AssertionError
+___ test_asc_mc_equals_mercury_includes_mcbroom_entry_without_example_list ____
+
+    def test_asc_mc_equals_mercury_includes_mcbroom_entry_without_example_list():
+        page = load_page(Path("wiki/activations/asc-mc-equals-mercury.md"))
+    
+        assert MCBROOM_SLUG in page.meta["source_pages"]
+        assert f"### {MCBROOM_TITLE}" in page.body
+>       assert "- Source heading: `Mercury = Asc/Mc`" in page.body
+E       AssertionError: assert '- Source heading: `Mercury = Asc/Mc`' in '\n## Identity\n\n- Formula: `Asc/MC = Mercury`\n- Astronomicon formula: `Asc/MC = T`\n- Axis page: [Asc/MC](../axes/a...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Asc/MC = Mercury`\n- Astronomicon formula: `Asc/MC = T`\n- Axis page: [Asc/MC](../axes/a...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/asc-mc-equals-mercury.md'), meta={'title': 'Asc/MC = Mercury', 'page_type'... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_mcbroom_ingest.py:80: AssertionError
+=========================== short test summary info ===========================
+FAILED tests/wiki/test_mcbroom_ingest.py::test_sun_moon_axis_includes_mcbroom_entry
+FAILED tests/wiki/test_mcbroom_ingest.py::test_asc_mc_axis_includes_mcbroom_entry
+FAILED tests/wiki/test_mcbroom_ingest.py::test_sun_moon_equals_mercury_includes_mcbroom_entry_without_example_list
+FAILED tests/wiki/test_mcbroom_ingest.py::test_asc_mc_equals_mercury_includes_mcbroom_entry_without_example_list
+4 failed, 25 passed in 1.06s

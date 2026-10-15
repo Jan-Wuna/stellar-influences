@@ -22,7 +22,9 @@ related_activations:
   - Moon/Node = Mars
   - Moon/Node = MC
   - Moon/Node = Mercury
+  - Moon/Node = Moon
   - Moon/Node = Neptune
+  - Moon/Node = Node
   - Moon/Node = Pluto
   - Moon/Node = Poseidon
   - Moon/Node = Saturn
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/NODE`
-- Source page: `135`
+- Source heading: `MOON + NODES`
+- PDF page (one-based): `121` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -86,11 +90,15 @@ Unions, associations and connections of women. Much change of connections. Peopl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `174–175`; PDF page (one-based): `86` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Women's connections, emotional relationships, contact with the mother, bond with the mother, hour of connection, ties among peoples, connections with the people, and mediation by women
+Women's connections, emotional relationships, contact with the mother, bond with the mother, hour of connection, ties among peoples, connections with the people, and mediation involving women.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `136`; PDF page: `138` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -110,7 +118,7 @@ Associations or alliances between women, blood union, any community or associati
 
 #### Probable Manifestations
 
-+ Associations and contacts with the female sex. - Estrangements, separations. Moon/Dragon's Head D/Q
++ Associations and contacts with the female sex. - Estrangements, separations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -172,12 +180,12 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: emotional connections, affinity, and the care given to affiliations, from family ties to public or national associations.
+- psychology: vulnerability when meeting others and the wish for support can encourage new bonds or reinforce habits that make connection difficult.
+- body/health: Ebertin and Munkasey associate the pair with the lymphatic system; Ebertin adds organs of infection defense and Munkasey channels and sensitivities. These are historical correspondences, not medical findings.
+- social/relationship: maternal bonds, relatives, familiar people, women's associations, and communities recur; estrangement or hesitation is also represented.
+- events/manifestations: meetings, alliances, seeking help, and changing connections are explicit; Munkasey separately applies the pair to trade and its transport channels.
+- conflicts/notes: Banzhaf/Haebler's North Node entry concerns alignment between feelings and a direction of growth; the other entries chiefly concern affiliation. These scopes can be read alongside one another without making every association a destined event.
 
 ## Related Activations
 
@@ -192,7 +200,9 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 - [Moon/Node = Mars](../activations/moon-node-equals-mars.md)
 - [Moon/Node = MC](../activations/moon-node-equals-mc.md)
 - [Moon/Node = Mercury](../activations/moon-node-equals-mercury.md)
+- [Moon/Node = Moon](../activations/moon-node-equals-moon.md)
 - [Moon/Node = Neptune](../activations/moon-node-equals-neptune.md)
+- [Moon/Node = Node](../activations/moon-node-equals-node.md)
 - [Moon/Node = Pluto](../activations/moon-node-equals-pluto.md)
 - [Moon/Node = Poseidon](../activations/moon-node-equals-poseidon.md)
 - [Moon/Node = Saturn](../activations/moon-node-equals-saturn.md)
@@ -205,15 +215,16 @@ The lymphatic system, in general; any passages, tubes, or channels associated wi
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Hand's connections with the past and Sandbach's release of old emotional patterns concern different sides of affiliation, not incompatible instructions. Familiar ties may support a person or limit new contact. Banzhaf/Haebler adds an explicitly North Node orientation rather than defining all connections through fate.
+- Ebertin's merged following heading has been removed after inspecting the exact pair boundary on printed136/PDF138. ABC's complete bold summary was checked against PDF86, printed174–175; `Vermittlung von Frauen` is rendered without assigning women an unsupported role as the mediators.
+- Locator correction: Witte's exact pair passage is PDF121; Munkasey's printed135 is preserved as his separate reference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node` is the axis of emotional affiliation, nurturing bonds, and connections based on sympathy, familiarity, or shared feeling. It combines instinct, care, memory, and vulnerability with alliance, kinship, and the need to belong within a supportive network.
-- Chart expression: family ties, affinity groups, maternal or feminine connections, emotional rapport, and the impulse to build community through care and shared history. Liabilities: clinging, oversensitivity, social hesitancy, estrangement, and alliances governed by old habits or emotional dependence rather than clear mutual growth.
+`Moon/Node` concerns how people become emotionally connected and how those connections are sustained. Family, maternal ties, familiar people, and affinity groups offer settings in which care and shared feeling can create belonging. Yet meeting others also exposes vulnerability: the wish for help or companionship may coexist with hesitation, sensitivity, or habits that obstruct contact. The pair therefore includes both nurturing an association and recognizing when an old source of security no longer supports growth ([Udo Rudolph](#udo-rudolph---abc-for-planetary-pictures), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols)).
+
+The scale extends from a private meeting to communities and alliances among peoples; Munkasey also preserves a separate practical application to trade and its roads, ports, and other channels. Banzhaf/Haebler places emotional security beside the direction of growth, allowing either harmony or friction between them. These meanings do not establish that a meeting is inevitable, beneficial, or permanent, and no particular estrangement follows from the pair alone. A named third factor must be read in the exact activation formula ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Munkasey, printed p. 135](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets), [Banzhaf/Haebler, PDF p. 300](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

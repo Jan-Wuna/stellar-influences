@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `71`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ To have secrets. Ill humored. Bereavement. Grief. To do without. To be easily of
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `86`; PDF page: `42` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Old soul, dangerous soul, I'm deprived of my service, my secret, my lack, my need, my criminality, my past, minute of danger, soul cummer, psychic danger, and hidden soul
+German pair summary (transcribed from printed page `86`; PDF page `42`):
+
+> Alte Seele, gefährdete Seele, ich entbehre, mein Dienst, mein Geheimnis, mein Mangel, meine Not, meine Kriminalität, meine Vergangenheit, Minute der Gefahr, Seelen-Kummer, seelische Gefahr, verborgene Seele
+
+Editorial translation from the German passage: Old soul, endangered soul, I experience deprivation, my service, my secret, my lack, my need, my criminality, my past, minute of danger, sorrow of the soul, psychological or soul danger, hidden soul.
+
+## Comparative Schema
+
+- core meaning: Personal experience of deprivation, grief, secrecy, and the past ([pair summary](#pair-summary)).
+- psychology: Hurt feelings, worry over deficiencies, and feelings of inferiority are named alongside hidden emotions ([pair summary](#pair-summary)).
+- body/health: Grief and emotional distress are described, but these summaries do not establish a specific bodily disease.
+- social/relationship: Bereavement, service to others, and sensitivity to being offended are explicit possibilities ([pair summary](#pair-summary)).
+- events/manifestations: Business loss, unsuitable vocational goals, waste management, historical work, and service are distinct source examples ([pair summary](#pair-summary)).
+- conflicts/notes: Work with neglected material or the past is not equivalent to personal failure. ABC distinguishes an endangered soul from a dangerous personality and lists deprivation separately from service.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Old soul, dangerous soul, I'm deprived of my service, my secret, my lack, my nee
 - [MC/Hades = Vulcanus](../activations/mc-hades-equals-vulcanus.md)
 - [MC/Hades = Zeus](../activations/mc-hades-equals-zeus.md)
 
+## Contradictions
+
+The summaries include both difficult personal experiences and occupations involving history, waste, or service. ABC lists deprivation and service separately, alongside endangered or hidden inner life; these examples do not form a single character judgment.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades` is the axis of burdened selfhood, grief, inferiority, loss, difficult service, and a life direction overshadowed by poverty, decay, or the weight of the past.
-- Chart expression: ill-humor, bereavement, misfortune, wrong turns in vocation, hidden suffering, and a personal stance shaped by deficiency, history, waste, illness, or the need to endure unpleasant realities.
+`MC/Hades` concerns how deprivation, grief, secrecy, or the past enters personal experience. The [pair summary](#pair-summary) connects feeling a lack with hurt or inferiority, but also names service, historical work, and waste management. Its range therefore includes difficult feelings and losses as well as work involving what has been left behind or needs attention. These settings remain distinct from the personal distress also described; the [ABC summary](#abc-pair-summary) separately names one's service, deprivation, past, secret, and sorrow of the soul.
 
 ## Links
 

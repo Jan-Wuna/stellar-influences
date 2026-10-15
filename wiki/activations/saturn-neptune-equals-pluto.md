@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Pluto](../triads/saturn-neptune-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ To have a disappointment. A chronic condition which changes so little it is unno
 
 #### ABC Entry
 
-Development in metaphysics, problematic water development, transformation and intuition in old age, alteration of air problems, and growing uncertainty about losses
+Source: ABC printed p. 351, supplied PDF p. 174, Saturn + Neptun, pluto row (seven clauses). Translation from the German scan:
+
+Developing sensitivity and patience; changing inhibitions and weakness; concentrated development in metaphysics; problematic development concerning water; transformation and intuition in old age; changing air problems; growing uncertainty about losses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Heavy emotional depression, difficult growth or development of one's faculties. 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 91, complete pluto paragraph under Saturn/Neptune.
 
 One may be plagued by fears, often of an inexplicable nature, and is driven to get to the bottom of these. A transformation of your life can occur if you are willing to take your own intuition seriously. Tremendous pressure exerted by one’s psychic sen sitivity. A powerful psychic sensitivity.
 
@@ -70,22 +76,21 @@ Punishment for those who have allowed decay and decadence to persist; the reject
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: slow or difficult change under emotional pressure.
+- psychology: inexplicable fears, depression, and intense intuitive sensitivity.
+- body/health: Witte's chronic sickness and Ebertin's serious illness remain attributed claims.
+- social/relationship: Witte includes prolonged divorce; Munkasey includes denied responsibility for decay.
+- events/manifestations: gradual deterioration or transformation through examining fears and intuition.
+- conflicts/notes: ABC includes developing sensitivity and changing inhibitions; no resilience guarantee is established.
 
 ## Contradictions
 
-- None recorded yet.
+- Slow deterioration and possible intuitive transformation are contrasting developments, not evidence that hardship automatically produces recovery.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Pluto`: profound resilience, serious work in harsh conditions, and the power to restructure life after slow erosion. Main caution: severity: pressure can become relentless, covertly destructive, or obsessed with control in the face of weakness.
+Pluto specifies the Saturn/Neptune axis through change that may be difficult to notice or endure. [Witte](#witte-entry) stresses slow chronic developments and a prolonged divorce; [Ebertin](#ebertin-entry) describes difficult growth. [Sandbach](#sandbach-entry) adds pressure from fear and sensitivity, with transformation conditional on taking intuition seriously. The supported connection is pressure to confront a persistent condition, not assured resilience. [Munkasey's](#munkasey-entry) denial of responsibility places a related problem in collective accountability.
 
 ## Links
 

@@ -1,0 +1,17 @@
+{
+  "batch": "D006",
+  "targets": 9,
+  "source_changed": 9,
+  "abc_rows_repaired": 9,
+  "review_counts_added": 0,
+  "source_page_owner_bindings_fresh": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf009.png",
+      "sha256": "dcba637e28d11904efa94b0d69edc6fe70b1055a57aaae7f37005d6d2713a74c"
+    }
+  ],
+  "whitespace_exit_code": 0,
+  "whitespace_errors": "",
+  "failures": []
+}

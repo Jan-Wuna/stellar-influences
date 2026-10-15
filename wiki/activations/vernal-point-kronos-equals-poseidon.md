@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Kronos Poseidon](../triads/vernal-point-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Magnitude of intellect and spirit. Humanity. Philanthropy. The dignity of men. High culture.
 
@@ -42,13 +46,27 @@ Magnitude of intellect and spirit. Humanity. Philanthropy. The dignity of men. H
 
 #### ABC Entry
 
-Dominance of an idea in the public, transparent authorship in the public, intellectual hierarchic in the public, public cultural authorship, clarity in the public by the state, and important insight into the public
+- Source page: 51; PDF page: 24 (one-based spread).
+
+Dominance of an idea in public, insightful authority in public, intellectual hierarchy in public, a great mind in public, public cultural authority, clarity in public through the state, and important public insight
+
+## Comparative Schema
+
+- core meaning: Public authority based on ideas, insight, and cultural or intellectual stature.
+- psychology: Magnitude of intellect and spirit, insight, and clarity are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Humanity, philanthropy, and human dignity are Witte themes.
+- events/manifestations: Prominent ideas, cultural authority, and clarity through the state.
+- conflicts/notes: Insightful authority and cultural authority replace erroneous authorship phrases.
+
+## Contradictions
+
+No direct contradiction is established. Intellectual hierarchy and philanthropy are different emphases; the entry does not make every dominant idea humane.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Poseidon`: magnitude of intellect and spirit, humanity, philanthropy, the dignity of men, and high culture.
-- Practical expression: dominance of an idea in the public, transparent authorship in the public, intellectual hierarchic in the public, public cultural authorship, and clarity in the public by the state.
+In `Vernal Point/Kronos = Poseidon`, public authority is defined through intellectual or cultural stature. The [Witte entry](#witte-entry) connects greatness of mind and spirit with humanity, philanthropy, dignity, and high culture. The restored [ABC entry](#abc-entry) specifies insightful authority, prominent ideas, cultural leadership, and public clarity. The coherent reading joins recognized understanding with public influence while preserving humane conduct as a stated ideal rather than an automatic consequence of rank.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Increased understanding of the effects of beauty, and the value in maintaining p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Greater appreciation of beauty and its practical value, with opportunities in artistic or financial fields.
+- Psychology: Understanding the effects of beauty and the value of maintaining appearance.
+- Body/health: Clothing and appearance are discussed; no bodily or health outcome is stated.
+- Social/relationship: Increased opportunities for contacts through artistic and financial interests.
+- Events/manifestations: Possible success in music, finance, banking, or the arts.
+- Conflicts/notes: A single Munkasey entry supports this repeated-pair formula; increased opportunity is not assured success.
 
 ## Contradictions
 
-- None recorded yet.
+- A single Munkasey entry supports this repeated-pair formula; increased opportunity is not assured success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Jupiter`: Increased understanding of the effects of beauty, and the value in maintaining proper clothes and appearance; increased opportunities for contacts and success in music, finance, banking, or the arts in general.
+`Venus/Jupiter = Jupiter` emphasizes understanding how beauty works and why personal presentation matters. [Munkasey's repeated-pair entry](#munkasey-entry) connects care for clothes and appearance with greater opportunities for contact and success in music, finance, banking, and the arts. Its scope is appreciation, presentation, and opportunity in those fields. The entry supplies no independent health claim or guarantee that the opportunities will produce success.
 
 ## Links
 

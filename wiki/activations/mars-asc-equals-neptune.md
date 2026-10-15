@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Neptune Asc](../triads/mars-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Thoughtless deeds of others. Deceit and disappointment through the deeds of othe
 
 #### ABC Entry
 
-Work with water for the environment, non manual partners. I agricultural weaknesses of the other, impulses from the metaphysical environment, partner work in Lier Lufi, and weak partner
+Work with water for the surroundings, a partner who acts sensitively, weak action by the other, impulses from the metaphysical surroundings, future work at the place, metaphysical impulses from the surroundings, partner work in the air, and a weak will in the partner.
+
+- Source reference: printed p. 111, PDF p. 54, Neptune row; English translation checked against the German scan.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Lack of energy, maintaining one's position in life only with difficulty, diminis
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 To be ready to fight for one’s ideals. Conflicts within the personality which are hidden and/or confusing. The need to tap into one’s personality conflicts on an intuitive level so that their subtleties may be perceived.
 
@@ -70,22 +76,25 @@ Depletes your energy more quickly than you expect; brings a naive understanding 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action with others meets depleted energy, uncertain perceptions, or hidden conflicts.
+- psychology: Naivety, misleading impressions and intuitive attention to subtle conflicts are explicit.
+- body/health: Witte and Ebertin make historical infection and illness claims; these are not diagnoses.
+- social/relationship: Disappointing deeds and disharmonious work coexist with ABC's sensitive partner.
+- events/manifestations: Water, air, metaphysical surroundings and future work are specific ABC settings.
+- conflicts/notes: Fighting for ideals is not identical to ineffective action; ABC's damaged English has been checked against the scan.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from depleted or disappointing action to sensitive action and commitment to ideals. These are distinct possibilities, not evidence that idealistic work must fail.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Neptune`: strained working relations, fighting for ideals, subtle personality conflicts, and situations where the environment drains initiative or clouds what to do next. Main caution: misdirected force: action can dissolve into discouragement, illness, confusion, or conflict based on misunderstanding.
+`Mars/Asc = Neptune` specifies action with others through uncertain energy and perceptions. [Ebertin](#ebertin-entry) and [Munkasey](#munkasey-entry) describe diminished energy and difficult working relations, while [Witte](#witte-entry) names disappointment through others' deeds. [Sandbach](#sandbach-entry) gives a related inward task: recognizing subtle personality conflicts while being ready to act for one's ideals.
+
+The scan-checked [ABC entry](#abc-entry) also allows sensitive partner action and work with water, air, metaphysical surroundings or the future. These settings broaden the formula beyond failure. The historical illness statements remain source claims and do not establish a medical outcome.
+
+Evidence: Witte PDF p. 85; ABC printed p. 111, PDF p. 54; Ebertin printed p. 220, code 0766; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Cupido](../triads/vernal-point-mercury-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 General opinion about marriage. Predominant tendency in art. Opinions of associations or unions.
 
@@ -42,13 +46,27 @@ General opinion about marriage. Predominant tendency in art. Opinions of associa
 
 #### ABC Entry
 
+- Source page: 29; PDF page: 13 (one-based spread).
+
 Common language in public, young artist community, youth community in public, news community for the public, public speaking community, and public transport community
+
+## Comparative Schema
+
+- core meaning: Public thought, language, and opinion formed in communities.
+- psychology: Shared language and collective opinion are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Marriage, unions, associations, and youth or artist communities.
+- events/manifestations: Artistic tendencies, news groups, discussion groups, and transport communities.
+- conflicts/notes: Marriage is one collective setting within the wider association theme.
+
+## Contradictions
+
+No direct contradiction is established. Shared language does not imply unanimous opinion across every association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Cupido`: general opinion about marriage, predominant tendency in art, and opinions of associations or unions.
-- Practical expression: common language in public, young artist community, youth community in public, news community for the public, and public speaking community.
+In `Vernal Point/Mercury = Cupido`, public communication gains a communal form. The [Witte entry](#witte-entry) names views about marriage, artistic tendencies, and opinions of associations or unions. The [ABC entry](#abc-entry) adds shared language and communities formed around youth, art, news, conversation, or transport. The common theme is the circulation and organization of thought within a group.
 
 ## Links
 

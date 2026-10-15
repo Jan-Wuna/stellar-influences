@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Moon Venus Saturn](../triads/moon-venus-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 To make a loving woman feel sad. Forsaken women. Obstruction of the peace of the people.
 
@@ -45,17 +49,23 @@ To make a loving woman feel sad. Forsaken women. Obstruction of the peace of the
 
 #### ABC Entry
 
-Old people Art, through patience for peace with the woman, serious kiss of a woman, chastity of the woman, stored love flies, stranded harmony with the woman, love of a mature woman, love pain of the woman, and problematic love of a woman
+- Source page: 274; PDF page: 136 (one-based spread).
+
+Old folk art, peace with a woman through patience, serious art of a woman, emotional disturbances of a woman, disturbed love feelings, disturbed harmony with a woman, love of a mature woman, love pain of a woman, and problematic love of a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 182; entry code: 0604.
 
 Emotional depression caused by unsatisfied love, emotional inhibition, an unfortunate disposition or difficult circumstances in all matters of love expression. A woman living separated from her husband or living a lonely life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 57 (one-based; entry-specific page not established).
 
 The emotional yearning for spiritual love, and/or for a deep romantic relation ship. To sometimes exaggerate the difficulties that arise in relating. One’s emotional se curity is based on having spiritual and profound relationships with others.
 
@@ -70,22 +80,21 @@ Your instincts about wanting a simple life vacillate, and you are inconsistent b
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Unfulfilled feeling and longing for deep love, with patience as another possibility.
+- psychology: Sadness, inhibition, emotional yearning, and sometimes exaggerating relationship difficulties.
+- body/health: Ebertin's emotional depression is attributed historical wording, not a diagnosis.
+- social/relationship: Separation or loneliness; consolation of people who receive little love.
+- events/manifestations: Obstructed peace of a people and alternation between luxury and solitude.
+- conflicts/notes: Gendered examples remain attributed; the scan replaces erroneous chastity, kiss, and love flies wording.
 
 ## Contradictions
 
-- None recorded yet.
+The sources emphasize deprivation and yearning without establishing a lack of capacity to care. Munkasey explicitly includes consoling others.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Moon`: deep loyalty, dependable care, and the desire for affection that proves itself through time and constancy. Main caution: the heart can close around sadness, fear of rejection, or chronic emotional insufficiency.
+In `Venus/Saturn = Moon`, Moon specifies the pair through the felt lack of love and the wish for profound connection. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe sadness, inhibition, and separation, while [Sandbach](#sandbach-entry) connects security with spiritual depth and notes that difficulties can be exaggerated. [Munkasey](#munkasey-entry) adds incomplete pleasure, vacillation between luxury and solitude, and consoling others. The [ABC entry](#abc-entry) retains patience and mature love alongside disturbed feelings. These are possibilities within the source accounts, whose women-centered language is historical.
 
 ## Links
 

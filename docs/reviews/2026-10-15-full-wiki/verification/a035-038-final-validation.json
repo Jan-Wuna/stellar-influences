@@ -1,0 +1,23 @@
+{
+  "reviewer": "/root/activation_review_035_038",
+  "new_full_reviews": 194,
+  "preserved_earlier_reviews": 19,
+  "original_assignment_total": 213,
+  "ledger_counts": {"035": 55, "036": 48, "037": 55, "038": 55},
+  "missing_paths": [],
+  "duplicate_records": 0,
+  "checked_current_pages": 194,
+  "scoped_checks": ["unchanged frontmatter", "formula and oriented identity", "one Derived Synthesis", "immediately adjacent stable anchor", "six comparative categories", "local source links", "file links", "trailing whitespace", "unique original assignment records"],
+  "scoped_check_errors": [],
+  "git_diff_check_exit": 0,
+  "git_diff_check_note": "Only line-ending conversion notices were emitted.",
+  "unresolved_printed_source_defects": [
+    {"path": "wiki/activations/mercury-mc-equals-apollon.md", "source": "Witte PDF62", "text": "Scientific chinking.", "disposition": "Retained; no conjectural expansion."},
+    {"path": "wiki/activations/mercury-node-equals-chiron.md", "source": "Sandbach PDF52", "text": "move away from the one's they need to move toward", "disposition": "Retained; synthesis uses clear following statements."},
+    {"path": "wiki/activations/mercury-pluto-equals-cupido.md", "source": "Witte PDF165", "text": "The persuade of a family or society.", "disposition": "Retained; confident persuasion claim excluded."}
+  ],
+  "source_integrity_binding": "Pending independent global gate; this receipt is not an allowance.",
+  "vault_mutations": 0,
+  "global_generated_file_mutations": 0,
+  "commits_or_staging": false
+}

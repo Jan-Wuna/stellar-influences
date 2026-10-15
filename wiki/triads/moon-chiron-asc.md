@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Moon Chiron Asc`
 - Astronomicon triad-set: `R Chiron Asc`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Asc = Moon](../activations/chiron-asc-equals-moon.md)
-- [Moon/Asc = Chiron](../activations/moon-asc-equals-chiron.md)
-- [Moon/Chiron = Asc](../activations/moon-chiron-equals-asc.md)
+- [Chiron/Asc = Moon](../activations/chiron-asc-equals-moon.md): base axis [Chiron/Asc](../axes/chiron-asc.md); activator [Moon](../factors/moon.md).
+- [Moon/Asc = Chiron](../activations/moon-asc-equals-chiron.md): base axis [Moon/Asc](../axes/moon-asc.md); activator [Chiron](../factors/chiron.md).
+- [Moon/Chiron = Asc](../activations/moon-chiron-equals-asc.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Chiron/Asc = Moon`: John, page `101`
-- `Moon/Asc = Chiron`: John, page `39`
-- `Moon/Chiron = Asc`: John, page `32`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Asc = Moon](../activations/chiron-asc-equals-moon.md#sandbach-entry) (PDF chapter-start p. 101; exact entry page unverified); [Moon/Asc = Chiron](../activations/moon-asc-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 39; exact entry page unverified); [Moon/Chiron = Asc](../activations/moon-chiron-equals-asc.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Moon`: identity healing through feeling, nurturance, and emotional purification. Main caution: becoming emotionally identified with one's wounds instead of letting them be transformed.
-- `Moon/Asc = Chiron`: Your energy helps others to be more aware of how they feel about themselves and their relationships, and to allow emotional energy to flow more freely when they re late. You help people to see how their feelings conditions their identity.
-- `Moon/Chiron = Asc`: The ability to heal and cleanse negative feelings about the self, and to let go of identifying with one’s insecurities by attuning to a very deep level of spiritual security.
+Moon, Chiron and Asc form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Asc](../axes/chiron-asc.md)
+- [Moon/Asc](../axes/moon-asc.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
 - [Moon](../factors/moon.md)
 - [Chiron](../factors/chiron.md)
 - [Asc](../factors/asc.md)

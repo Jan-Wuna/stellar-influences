@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Node Asc MC](../triads/node-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based PDF numbering; exact row checked).
 
 Personal relationships of the near environment. Close partner in business.
 
@@ -45,17 +49,23 @@ Personal relationships of the near environment. Close partner in business.
 
 #### ABC Entry
 
-My partners, my environmental connections, my local connections, physical contacts in the vicinity, mental connection to the partner, connection to part ner souls, and connection to part ner souls in the minute at the place
+- Source page: 66 (printed); PDF page: 32 (one-based PDF numbering; exact row checked).
+
+My connections with partners, my connections with my surroundings, my local connections, a soul encounter at a place, inner contacts in the surrounding environment, an inner connection to the partner, a connection between partners' souls, a connection in the minute at the place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 305 (printed); PDF page: 307 (one-based); entry code: 1105 (direct source text checked).
 
 Harmonious living together, one's emotional attitude to others. Establishing one's own home. Associations based on an inner understanding between people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page(s): 121 (one-based; exact activation located in direct source text).
 
 One’s identity is based on holding on to old sources of security. Being able to identify oneself as one who progresses along one’s spiritual path is extremely fulfill ing, though means that one will have to let go of more and more as one evolves.
 
@@ -70,22 +80,23 @@ Encounters with people who have a familiarity with the principles you need for a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: close local or partner connections through which personal understanding and development occur.
+- psychology: inner understanding, emotional attitudes and the tension between familiar security and spiritual growth.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: living harmoniously together, a close business partner and helpful people in one's surroundings.
+- events/manifestations: establishing a home, finding help toward personal goals, and groups arriving when needed.
+- conflicts/notes: Sandbach adds the tension between a secure identity and letting go for growth; the other entries emphasize close relationships and support. This is a bounded extension, not a direct contradiction.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach adds the tension between a secure identity and letting go for growth; the other entries emphasize close relationships and support. This is a bounded extension, not a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Asc`: socially legible vocation, embodied teamwork, and the ability to wear one's alliances openly in the way one meets the world. Main caution: persona by association: self-presentation can become too borrowed from group identity or from the expectations of important ties.
+Asc specifies `Node/MC` through the people close at hand: a partner, business associate, household or helpful group. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) emphasize nearby bonds and inner understanding, while [Munkasey](#munkasey-entry) describes people able to help one pursue personal goals. The connection matters through the support and mutual understanding it makes possible.
+
+[Sandbach](#sandbach-entry) adds a distinctive tension: an identity anchored in familiar security can either hold on to old forms or find fulfillment in growth that requires letting go. This places inner development alongside the other entries' emphasis on nearby support and mutual understanding.
 
 ## Links
 

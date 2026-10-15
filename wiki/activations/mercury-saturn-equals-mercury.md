@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Mercury`
 - Astronomicon formula: `T/W = T`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -41,22 +43,21 @@ A focus on the analysis of old or difficult to comprehend data; an agility or cl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Focused analysis and clear presentation of old or difficult information.
+- psychology: Agility and clever interpretation accompany serious analysis.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Findings are discussed seriously; rumors or gossip may receive formal statements.
+- events/manifestations: Interpreting data and presenting ordinary information are concrete activities.
+- conflicts/notes: The repeated Mercury identity has no distinct three-factor hub; formalizing a rumor does not establish its truth.
 
 ## Contradictions
 
-- None recorded yet.
+This is one Munkasey With Itself entry; no cross-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Mercury`: A focus on the analysis of old or difficult to comprehend data; an agility or cleverness about how to interpret and present common information; serious discussions about findings; formal statements of rumors or gossip.
+In `Mercury/Saturn = Mercury`, Mercury specifies the pair through focused analysis and the presentation of information. Old or difficult data call for serious attention, yet the entry also gives agility in interpreting ordinary material and discussing findings. Formal statements of rumor or gossip belong to the same range of communication; their formality does not establish reliability. This repeated-factor activation retains its own With Itself entry. ([Munkasey](#munkasey-entry))
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Uranus = Sun`
 - Astronomicon formula: `Q/X = S`
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
@@ -43,9 +45,12 @@ Delicate feeling. To be loved suddenly. High minded love. Courtesy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Uranus`
+- Source reference: printed page `276`; PDF page `137` (one-based).
+
 #### ABC Entry
 
-Dynamic love of a man, harmonious impulses of a man, impulses of a peace center, new artificial center, concrete love experience, personal artificial event, sudden corporal love, and preference of the man for rhythm
+A man's dynamic love, a person's harmonious impulses, impulses of a peace center, a new art center, a personal experience of love, a personal art event, sudden bodily love, and a man's preference for rhythm.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,23 @@ Effective or reliable ways of showing unusual forms of beauty and appreciation; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal receptivity to sudden affection and unusual values or forms of beauty.
+- psychology: quick emotional response, intuition through feeling, and free, individual aims.
+- body/health: sudden physical affection appears in ABC; no clinical condition is established.
+- social/relationship: sudden love, courtesy, and a wish for open relationships.
+- events/manifestations: innovative art, music, appreciation, or financial expression.
+- conflicts/notes: ABC's man-specific examples remain attributed alongside its broader person-centered impulse clause.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize different expressions of receptivity and originality without a direct contradiction. ABC's art center and art event are concrete artistic examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Sun`: creative originality, liberating charisma, and a life direction shaped by unusual love, art, or social values. Main caution: the personality can become self-willed, romantically unstable, or too identified with being exceptional to sustain reciprocity.
+In `Venus/Uranus = Sun`, Sun makes the pair's sudden affection and unusual appreciation a personal mode of feeling and expression: responding quickly to love, valuing openness, and shaping aims around individual tastes. Courtesy and emotional intuition sit alongside this independence. See the [Witte entry](#witte-entry), [Ebertin entry](#ebertin-entry) (p. 185), and [Sandbach entry](#sandbach-entry).
+
+The [Munkasey entry](#munkasey-entry) (p. 200) gives this originality a concrete outlet in innovative beauty, music, art, or finance. This supports creative expression without requiring every relationship to be unconventional.
 
 ## Links
 

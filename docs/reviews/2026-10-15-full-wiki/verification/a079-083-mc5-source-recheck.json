@@ -1,0 +1,80 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Five new081 Uranus/MC reviews: Admetos,Apollon,Asc,Chiron,Cupido. Four ABC text repairs (Apollon spelling-only); Witte Cupido restored Wedding joys.; Sandbach/Ebertin/Munkasey prose preserved.",
+  "actual_source_inspection": [
+    "ABC PDF38 printed78–79 matching Admetos8,Apollon8,Asc9,Cupido7 glyph-owned rows personally inspected.",
+    "Witte67 matching four rows personally inspected; Cupido actual ends Wedding joys.",
+    "Sandbach actual PDF109 includes both Chiron and Asc; unlike Uranus/Asc chapter Chiron is actually present here.",
+    "Ebertin actual PDF281 printed279/code0997 Asc complete passage personally inspected.",
+    "Admetos gründliche means thorough; Kreislauf retained as cycle/circulation with bounded lexical uncertainty, no diagnosis."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-admetos.md",
+      "old_abc": "Exciting minute of a blockade, gritty soul impulses, my blocked rhythm us, my restlessness through depression, sudden mental depression, my restless cycle, my deepening into technology, and condensation of emotional tensions",
+      "new_abc": "An exciting minute of a blockade, thorough soul impulses, my blocked rhythm, my unrest through depression, sudden emotional depression, my restless cycle or circulation, my deepening into technology, condensation of emotional tensions.",
+      "printed_page": 79,
+      "finding": "All eight clauses verified; gründliche=thorough not gritty; Rhythmus repaired. Kreislauf retains cycle/circulation range without a specific diagnosis."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-apollon.md",
+      "old_abc": "Experiences of an exciting minute, dynamic soul experiences, my success in technology, my successful rhythm us, my experiences in technology, my technical knowledge, my surprising success, and new experiences of the soul",
+      "new_abc": "Experiences of an exciting minute, dynamic soul experiences, my success in technology, my successful rhythm, my experiences in technology, my technical knowledge, my surprising success, and new experiences of the soul",
+      "printed_page": 79,
+      "finding": "Eight ABC clauses verified; Rhythmus OCR split repaired; Witte astrological-success minority preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-asc.md",
+      "old_abc": "Achieving minutes in the environment, the Paiiner soul, dynamic partner soul, my restless partner, my nervousness in the environment, my unrest in one place, mental arousal in the place, mental partner impulses, and mental tensions in one place",
+      "new_abc": "Exciting minutes in the surroundings, a partner's excited soul, a partner's dynamic soul, my restless partner, my nervousness in the surroundings, my unrest at a location, psychological excitement at the location, emotional partner impulses, emotional tensions at a location.",
+      "printed_page": 78,
+      "finding": "Nine ABC clauses restored; Achieving minutes/Paiiner soul resolved from actual scan. Exact Ebertin0997 printed279/PDF281 and Sandbach109 verified."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-chiron.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Actual Sandbach109 Chiron passage personally inspected, including path to God/social alienation/uniqueness; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-cupido.md",
+      "old_abc": "Exciting minute of a community, animated art impulses, dynamic Scelen community, my impulses for the community, tensions in a soul community, gcmeinsame soul impulses, and restless soul community",
+      "new_abc": "An exciting minute of a community, soulful artistic impulses, a dynamic community of souls, my impulses for the community, tensions in a community of souls, shared soul impulses, a restless community of souls.",
+      "printed_page": 79,
+      "finding": "Seven ABC clauses verified; soul/shared wording repaired. Witte damaged Wedding j°y«- restored to actual Wedding joys."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-admetos.md",
+      "sha256": "791666a06741e356e23dbac5c931a6913276ab1cb45981d9c5abc2b5913db676",
+      "source_section_sha256": "05d85b4a0e8357be706425f86a96e8befc0220eef717a047469f9acdb0de9d8d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-apollon.md",
+      "sha256": "3236dc7ddfbbb3096931c733637088b13bd637eeee8e0b538691c9f49afe334f",
+      "source_section_sha256": "21d5d2aa0b8d633b9adaa99d9513e997791e69a0844739036405ad758c443017",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-asc.md",
+      "sha256": "837f499fdcdc5216a80200da50fe2a49e68377bab634dc26e1311b11c5f01481",
+      "source_section_sha256": "3d89e32e67f37125f2608a07ad87ca1a837f20ea040cb40980c27b0fae0afd17",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-chiron.md",
+      "sha256": "a7700779342c009d09cb9d5a12048ead5a87cea1b91fadfd421c706975e8f723",
+      "source_section_sha256": "dfda39493c4fcb49b76d2453864889a8d71271b6da4128e403203bf1e3f1d9c1",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-cupido.md",
+      "sha256": "cf10c6e8cfaf9af60f39ad11ca297fe25bbd67011a26367177bdd37fec71e54d",
+      "source_section_sha256": "fe7adc6fca0b08487aec7ba44e51ef15c3c46550879d57805227f92fbcbb6035",
+      "outcome": "changed"
+    }
+  ]
+}

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Uranus Node](../triads/sun-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ Sudden physical connection, meeting. Excitements, through a personal connection 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `152`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
 Excitement in a personal connection, relationship to a nervous man, dynamic personal connection, corporal tension in a connection, new personal contacts, tension day in a connection, and connection to a restless person
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed pp. `96–97`, PDF pp. `98–99`, entry `0263` (continues across pages; raw scan checked).
+
 #### Ebertin Entry
 
-The ability to quickly make new contacts. Sudden meetings, sudden 9 Sun/Uranus = Neptune has been found frequently in the case of aircraft disasters and other catastrophes in the air. experiences with other persons, being together with excited persons.
+The ability to quickly make new contacts. Sudden meetings, sudden experiences with other persons, being together with excited persons.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source locator: PDF p. `18` (complete Node entry; chapter starts on p. `17`; raw scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ The need to be around people who will allow one to be oneself fully and openly. 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS with Planets and Points`
-- Source page: `80`
+- Source locator: printed p. `80`, PDF p. `81` (complete entry; raw scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Encountering others who are able to help you with your shows of uniqueness; ties
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden meetings and excited connections bring individuality into contact with others.
+- psychology: Confidence in one's uniqueness and openness are Sandbach emphases.
+- body/health: ABC bodily tension and Witte presence at an accident are examples, without a diagnosis or certainty of harm.
+- social/relationship: Friends may encourage distinctive activities and allow a person to be fully themselves.
+- events/manifestations: Quick contacts, unexpected meetings and association with unusual or excited people are stated.
+- conflicts/notes: The aircraft-disaster footnote is attached to Neptune in the raw source and does not belong to this Node entry.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Node`: unusual friendships, collective change, and the ability to catalyze new currents in group life. Main caution: unstable ties: rebellion, unpredictability, or refusal of compromise can weaken continuity in relationships.
+In `Sun/Uranus = Node`, Node places sudden excitation in personal connections: contacts form quickly, meetings occur unexpectedly, or a relationship becomes excited ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 152; [Ebertin](#ebertin-entry), entry 0263). These connections may also support individuality through friends' encouragement and acceptance of one's distinctive qualities ([Munkasey](#munkasey-entry), printed p. 80; [Sandbach](#sandbach-entry), PDF p. 18). Witte's accident-presence example remains attributed; the sources do not establish that unusual friendships must be unstable or that refusal to compromise defines this orientation.
 
 ## Links
 

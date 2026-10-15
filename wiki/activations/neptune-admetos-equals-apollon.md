@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Apollon`
 - Astronomicon formula: `Y/¦ = ¥`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Many change their way of living.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Extension of a circulatory weakness, deep water experiences, successful air blokkade, profound metaphysics experiences, extensive water blockade, deepening of future knowledge, and increasing deepening of metaphysics
+Expansion of circulatory weakness, experiences in deep water, a successful air blockade, thorough experiences in metaphysics, an extensive water blockade, deepening in knowledge of the future, and increasing deepening in metaphysics
+
+## Comparative Schema
+
+- core meaning: changes in the way many people live, alongside extended or deepened source examples.
+- psychology: ABC names deepening metaphysical study and knowledge of the future, without establishing their accuracy.
+- body/health: expanded circulatory weakness is ABC's historical association, not a diagnosis.
+- social/relationship: many people changing their way of living is Witte's sole statement.
+- events/manifestations: deep-water experiences, air or water blockades, and metaphysical deepening are listed.
+- conflicts/notes: the sources do not establish that widespread lifestyle change must involve deprivation or physical deterioration.
+
+## Contradictions
+
+Witte gives a broad change in living, while ABC supplies bodily, water, blockade, and metaphysical examples. These differ in subject and do not establish a shared physical mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Apollon`: Many change their way of living.
-- Practical focus: expands `Neptune/Admetos` into widespread lifestyle alteration and collective adjustment to changed conditions. It points to many people undergoing shifts in how they live, making privation or hardening a broader social process rather than an isolated one.
-- Practical expression: extension of a circulatory weakness, deep water experiences, successful air blokkade, profound metaphysics experiences, and extensive water blockade.
+In Neptune/Admetos = Apollon, Apollon specifies the pair through change affecting many people's way of living and through extended or deepened experiences. The [Witte entry](#witte-entry) supplies the collective living-change statement; [ABC](#abc-entry) names deep-water experiences, extensive blockades, and deepening involvement in metaphysics or knowledge of the future (printed p. 403, PDF p. 200). ABC's circulatory-weakness claim remains an attributed historical association. Neither entry makes every collective change a deterioration or validates claims about future knowledge.
 
 ## Links
 

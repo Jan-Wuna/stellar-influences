@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = Mercury`
 - Astronomicon formula: `T/g = T`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -41,22 +43,21 @@ Communicating with people who have ideas and talents similar to yours; discussin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Communication with people who share one's ideas or talents.
+- psychology: Shrewd observation of how others respond to situations or information is explicit.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Discussing ideas or work with like-minded people becomes important.
+- events/manifestations: Conversation and observing reactions are the concrete activities.
+- conflicts/notes: Single-source repeated-pair activation; no separate three-factor hub is required.
 
 ## Contradictions
 
-- None recorded yet.
+No comparison between sources is possible. Similarity of ideas and talents is the contact's stated basis; universal agreement is not established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Mercury`: Communicating with people who have ideas and talents similar to yours; discussing one's ideas or work with others becomes important; making shrewd observations about how others react to situations or information.
+In `Mercury/Node = Mercury`, Mercury directs the axis toward discussion with people whose ideas or talents resemble one's own. The exchange makes one's ideas and work a subject for others, while careful observation attends to how they respond to information or situations. This repeated-pair activation therefore joins finding intellectual company with learning from its reactions ([Munkasey](#munkasey-entry)).
 
 ## Links
 

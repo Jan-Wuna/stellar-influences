@@ -11,6 +11,8 @@ normalized_axis: Mars/Saturn
 factor_a: Mars
 factor_b: Saturn
 related_activations:
+  - Mars/Saturn = Mars
+  - Mars/Saturn = Saturn
   - Mars/Saturn = Admetos
   - Mars/Saturn = Apollon
   - Mars/Saturn = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/SATURN`
-- Source page: `227`
+- Source heading: `MARS + SATURN`
+- PDF page: `193`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ Periodic work. Interruption of work. Sickness. Acute sicknesses. Current affairs
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `300`; PDF page: `149` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Activities in old age, grim actions, patience work, storten will, hard work, concentrated actions, Jangsam work, problematic work, grim activity, separation actions, and lossful actions
+German pair summary (transcribed from printed page `300`; PDF page `149`):
+
+> Aktivitäten im Alter, ernste Handlungen, Gedulds-Arbeit, gestörter Wille, harte Arbeit, konzentrierte Handlungen, langsam arbeiten, problematische Arbeit, schmerzvolle Tätigkeit, Trennungs-Handlungen, verlustreiche Handlungen
+
+Editorial translation from the German passage: Activities in old age, serious actions, patient work, disturbed will, hard work, concentrated actions, working slowly, problematic work, painful activity, acts of separation, actions involving loss.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -242,14 +252,17 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Effort meeting restraint, interruption, or resistance, with a range from painstaking discipline to inhibition; see the [Pair Summary](#pair-summary) and [Pair Delineation](#pair-delineation).
+- psychology: Patience, endurance, technical concentration, and self-control coexist with frustration, fear of failure, repressed anger, and harshness.
+- body/health: The entries' bone, muscle, strain, illness, and injury correspondences remain historical claims. Ebertin expressly warns in [Probable Manifestations](#probable-manifestations) that the so-called death axis does not mean death will result.
+- social/relationship: Duties, authority, and perceived obstruction shape conflict with others; Munkasey also describes working through anger constructively. Hand's father and male-relationship assertions remain attributed gendered claims.
+- events/manifestations: Hard labor, mining, repeated tasks, planned technical work, tests of endurance, interruptions, and separations are named possibilities.
+- conflicts/notes: Controlled effort and blocked action are conditional alternatives. ABC adds serious actions, patience, slow or hard work, painful activity, separation and loss; its list does not imply that all disciplined work has an adverse outcome.
 
 ## Related Activations
+
+- [Mars/Saturn = Mars](../activations/mars-saturn-equals-mars.md)
+- [Mars/Saturn = Saturn](../activations/mars-saturn-equals-saturn.md)
 
 - [Mars/Saturn = Admetos](../activations/mars-saturn-equals-admetos.md)
 - [Mars/Saturn = Apollon](../activations/mars-saturn-equals-apollon.md)
@@ -275,15 +288,15 @@ High blood pressure; health problems caused by the blockage of energy or emotion
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The Witte entry's "main formula for death" must remain beside Ebertin's explicit warning against assuming death and Carter's rejection of invariably violent character. These qualifications materially limit a fatalistic reading.
+- ABC's partly untranslated and noisy terms remain unresolved.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn` is the axis of blocked force, disciplined effort, endurance, and action under pressure. It combines drive and assertion with restraint, delay, hardness, structure, and the reality of obstacles.
-- Chart expression: stamina, technical precision, grit, survival power, and the ability to keep working through difficulty. But its tension is fundamental: frustration, stop-go energy, anger under compression, harshness, inhibition, fatigue, painful resistance, and periods in which will meets a hard external or bodily limit.
+`Mars/Saturn` describes action having to work through limits. Restraint can focus energy into careful technique, disciplined labor, and endurance, or inhibit it until effort becomes frustrated and anger accumulates. The [Pair Delineation](#pair-delineation), [Falis Entry](#falis-entry), and [Process](#process) give patience, planned work, narrow objectives, and persistence through blockages a substantial place beside stopped or interrupted activity.
+
+The difficulty is how to sustain purposeful effort without becoming trapped in alternating inhibition and forceful outbursts. [Basic Ideas](#basic-ideas) makes that stop-and-go pattern explicit, while [In Your Relationships](#in-your-relationships) preserves both constructive work on anger and blame directed at a partner. The severe mortality language in the historical entries is qualified by Ebertin's warning in [Probable Manifestations](#probable-manifestations): the pair does not establish that death will occur. Discipline, hardship, and interrupted action remain meaningful without turning that vocabulary into a prognosis.
 
 ## Links
 

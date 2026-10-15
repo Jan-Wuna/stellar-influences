@@ -29,6 +29,8 @@ updated_at: 2026-06-20
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Venus`
 - Astronomicon formula: `V/X = Q`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -40,23 +42,31 @@ updated_at: 2026-06-20
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden happiness in love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful art event, joy in rhythmic arts, joy over new money, harmonious right wing reforns, imputes for harmony and joy, new peace right, sudden peace success, sudden love GlOck, and surprising success in the art
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+A successful artistic event, joy in rhythmic art, joy in new money, harmonious legal reform, impulses toward harmony and joy, new peace law, sudden success in peace, sudden happiness in love, and surprising success in art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0798.
 
 Happy feeling of love, artistic knowledge and perception. Changing love life, inconstancy in one's attachments, tendency to fall in love rashly, a sudden engagement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF pp. 80–81, Jupiter/Uranus, Venus paragraph spanning the page break.
 
 To fall in love very suddenly or quickly, but possibly to fall out of it just as swiftly. A love of anything speculative and/or experimental. To be drawn to people who are extremely independent. To love anything or anyone who has about them an exuberant freedom.
 
@@ -67,6 +77,8 @@ To fall in love very suddenly or quickly, but possibly to fall out of it just as
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 An attraction to novel forms of art or beauty which introduce the latest fads to your life; your charm when forcing the new upon others; the satisfaction you get from creating the new or novel to improve life overall.
 
 ### Aren Ober - Midpoint Interpretation Simplified
@@ -76,26 +88,27 @@ An attraction to novel forms of art or beauty which introduce the latest fads to
 
 #### Ober Entry
 
+- Source reference: retained one-based PDF p. 127, Jupiter/Uranus Interpretation, Venus example; paraphrase unchanged in this review.
+
 If Venus is at Jupiter/Uranus, Ober gives sudden love, engagement, or commitment to a loved one.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden happiness or attraction in love accompanies novel art, beauty and creative satisfaction.
+- psychology: Excitement about independent people and experimental forms can coexist with changing attachments.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Sudden engagement or commitment is possible; Ebertin and Sandbach also allow rash attachment or a quick loss of attraction.
+- events/manifestations: Artistic success, rhythmic art, legal reform, new money, peace successes and novel creations.
+- conflicts/notes: ABC says legal reform, not right-wing reform. Favorable love and artistic examples do not guarantee lasting attachment.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ober emphasize sudden favorable love or commitment. Ebertin and Sandbach also describe inconstancy or falling out of love quickly. These are different possibilities; Munkasey's delight in novelty does not resolve their duration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Venus`: rapid attractions, changing love circumstances, enjoyment of freedom in relationship, and delight in anything speculative, unusual, or creatively fresh. Main caution: inconstancy: pleasure and attraction can arrive quickly and just as quickly change direction.
+`Jupiter/Uranus = Venus` describes a quick opening of attraction and pleasure, whether toward a person, an independent way of living or a new artistic form. The same interest in novelty can produce creative satisfaction, while love may arrive suddenly and change just as quickly. [Witte](#witte-entry) and [Ober](#ober-entry) emphasize favorable love or commitment; [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) preserve changing attachments. [Munkasey](#munkasey-entry) extends the theme to new art and beauty, and [ABC](#abc-entry) adds rhythmic art, harmony, peace and legal reform.
 
 ## Links
 

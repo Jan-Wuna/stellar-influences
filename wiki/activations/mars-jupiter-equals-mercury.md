@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mercury Mars Jupiter](../triads/mercury-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Thoughts of betrothal. The will to create something. Successful talks and speech
 
 #### ABC Entry
 
-Work law in language, working with youth law, successful language activity, successful work meeting, financial activity for youth, thoughts about work and money, good youth work, legal reports work, and beneficial thought work
+Labor law in discussion, work with youth law, successful conversation, successful work discussion, financial activity for young people, thoughts about work and money, good youth work, working on legal reports, and advantageous mental work.
+
+- Source reference: printed p. 298, PDF p. 148, Mercury row; `Gespräch` means discussion/conversation, and `Rechts-Berichte bearbeiten` means working on legal reports.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Efforts into more direct means of communicating; an energetic and enthusiastic s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful activity develops through plans, speech and information exchange.
+- psychology: Organizing ability and foresight coexist with conflicting ideas or saying too much.
+- body/health: No bodily condition is specified.
+- social/relationship: Productive argument, direct communication and thoughts of engagement are explicit.
+- events/manifestations: Work discussions, legal reports and speaking about trade, religion or sports are named.
+- conflicts/notes: Sandbach retains learning through argument alongside verbal excess; overpromising and untested ideas are not specifically stated.
 
 ## Contradictions
 
-- None recorded yet.
+The sources describe effective thinking and speech while also retaining excess, conflicting ideas and irritation. These qualifications distinguish productive exchange from every form of energetic talk.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Mercury`: persuasive speech, strategic organizing, fortunate negotiations, and the ability to think and act with momentum at the same time. Main caution: excess in expression: optimism and force can turn into overpromising, talking too much, or pushing ideas faster than they can be tested.
+Mercury specifies the Mars/Jupiter axis through planning and energetic communication. Successful talks in [Witte](#witte-entry), organizing and favorable arrangements in [Ebertin](#ebertin-entry), and work discussions in [ABC](#abc-entry) share a practical exchange theme. [Sandbach](#sandbach-entry) includes argument that benefits both people, but also saying too much and conflicting ideas; [Munkasey](#munkasey-entry) retains both direct enthusiasm and irritation at others' presentation. Effectiveness depends on the kind of exchange rather than energy alone.
+
+Evidence: Witte PDF p. 192; ABC printed p. 298, PDF p. 148; Ebertin printed p. 202, code 0689; Sandbach PDF p. 67 (Mercury paragraph, checked directly); Munkasey printed p. 224.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Admetos](../axes/mars-admetos.md)
 - Triad hub: [Mercury Mars Admetos](../triads/mercury-mars-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 202 (one-based), Mars + Admetos, Mercury entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To have dangerous opinions. One’s own opinion experiences grave obstacles and 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 318; PDF p. 158 (one-based), Mars + Admetos, Mercury entry.
+
 #### ABC Entry
 
-Reports on work with primordial material, blocked thought work, blocked traffic activity, depressing language about work, restriction of media activity, general youth work, activation of circulatory movement, and submission of pulses
+Reports about work with primordial matter; blocked mental work; blocked traffic activity; depressing conversations about work; restriction of media activity; thorough youth work; activate circulatory movement; suppression of impulses.
+
+## Comparative Schema
+
+- Core meaning: Thought, opinion, communication, and circulation meet obstruction or restriction.
+- Psychology: Opinions face resistance, and conversations about work may be depressing.
+- Body/health: ABC's circulatory movement is retained without inferring a medical mechanism.
+- Social/relationship: Witte names persecution and enemies arising from opinions; ABC adds restricted media and youth work.
+- Events/manifestations: Reports about primordial-matter work and blocked traffic are explicit manifestations.
+- Conflicts/notes: Calling an opinion dangerous is Witte's wording; it is not an editorial verdict on a particular belief.
+
+## Contradictions And Tensions
+
+Calling an opinion dangerous is Witte's wording; it is not an editorial verdict on a particular belief.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Mercury`: dangerous opinions, persecuted thought, and ideas that meet strong resistance and generate enemies.
-- Chart expression: embattled speech and contentious belief, with thought itself becoming a pressured or punished field of action.
+With Mercury, Mars/Admetos describes obstruction in thinking and communicating, especially the resistance that opinions can encounter. Witte names persecution and enemies made over one's views. ABC extends the field to blocked mental work and traffic, depressing work conversations, restricted media activity, and thorough youth work. Reports about work with primordial matter and activation of circulatory movement remain separate stated motifs. The entries do not establish that a particular belief is dangerous or that every disagreement amounts to persecution. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

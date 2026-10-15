@@ -28,27 +28,38 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Admetos Vulcanus`
 - Astronomicon triad-set: `S ¦ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Admetos/Vulcanus = Sun](../activations/admetos-vulcanus-equals-sun.md)
-- [Sun/Admetos = Vulcanus](../activations/sun-admetos-equals-vulcanus.md)
-- [Sun/Vulcanus = Admetos](../activations/sun-vulcanus-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Admetos/Vulcanus = Sun](../activations/admetos-vulcanus-equals-sun.md) | [Admetos/Vulcanus](../axes/admetos-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Vulcanus](../activations/sun-admetos-equals-vulcanus.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = Admetos](../activations/sun-vulcanus-equals-admetos.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Admetos/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
-- `Admetos/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `474`
-- `Sun/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `169`
-- `Sun/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `171`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Admetos/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/admetos-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `311`.
+- `Admetos/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/admetos-vulcanus-equals-sun.md#abc-entry), printed p. `474`.
+- `Sun/Admetos = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-vulcanus.md#abc-entry), printed p. `169`.
+- `Sun/Vulcanus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-admetos.md#abc-entry), printed p. `171`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Sun`: a life period where only perseverance yields results and character is forged by harsh treatment and resistant conditions.
-- `Sun/Admetos = Vulcanus`: This formula emphasizes the complete occupation of the body and complete retirement.
-- `Sun/Vulcanus = Admetos`: This formula emphasizes complete occupation, force held in fixed conditions, or powerful withdrawal.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

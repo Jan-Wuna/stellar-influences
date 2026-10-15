@@ -34,20 +34,26 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Moon/Mars = Sun](../activations/moon-mars-equals-sun.md)
-- [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md)
-- [Sun/Moon = Mars](../activations/sun-moon-equals-mars.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Mars = Sun](../activations/moon-mars-equals-sun.md) | [Moon/Mars](../axes/moon-mars.md) | [Sun](../factors/sun.md) |
+| [Sun/Mars = Moon](../activations/sun-mars-equals-moon.md) | [Sun/Mars](../axes/sun-mars.md) | [Moon](../factors/moon.md) |
+| [Sun/Moon = Mars](../activations/sun-moon-equals-mars.md) | [Sun/Moon](../axes/sun-moon.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Moon/Mars = Sun`: Michael, page `112`
-- `Sun/Mars = Moon`: Michael, page `68`
-- `Sun/Moon = Mars`: Michael, page `56`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Moon/Mars = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/moon-mars-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/moon-mars-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/moon-mars-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/moon-mars-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/moon-mars-equals-sun.md#munkasey-entry), printed p. `112`.
+- `Sun/Mars = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mars-equals-moon.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mars-equals-moon.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-mars-equals-moon.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mars-equals-moon.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-mars-equals-moon.md#munkasey-entry), printed p. `68`.
+- `Sun/Moon = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-mars.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-mars.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-moon-equals-mars.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-moon-equals-mars.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-moon-equals-mars.md#munkasey-entry), printed p. `56`.
+
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

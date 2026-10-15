@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto MC Hades`
 - Astronomicon triad-set: `Z MC ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Hades = Pluto](../activations/mc-hades-equals-pluto.md)
-- [Pluto/Hades = MC](../activations/pluto-hades-equals-mc.md)
-- [Pluto/MC = Hades](../activations/pluto-mc-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Hades = Pluto](../activations/mc-hades-equals-pluto.md) | [MC/Hades](../axes/mc-hades.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Hades = MC](../activations/pluto-hades-equals-mc.md) | [Pluto/Hades](../axes/pluto-hades.md) | [MC](../factors/mc.md) |
+| [Pluto/MC = Hades](../activations/pluto-mc-equals-hades.md) | [Pluto/MC](../axes/pluto-mc.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `MC/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
-- `MC/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `87`
-- `Pluto/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
-- `Pluto/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `410`
-- `Pluto/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `83`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Hades = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-hades-equals-pluto.md#witte-entry), one-based PDF entry-start p. `71`.
+- `MC/Hades = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-hades-equals-pluto.md#abc-entry), printed p. `87`.
+- `Pluto/Hades = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-hades-equals-mc.md#witte-entry), one-based PDF entry-start p. `258`.
+- `Pluto/Hades = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-hades-equals-mc.md#abc-entry), printed p. `410`.
+- `Pluto/MC = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-hades.md#witte-entry), one-based PDF entry-start p. `69`.
+- `Pluto/MC = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-hades.md#abc-entry), printed p. `83`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Pluto`: intensifies the axis through decline, sad transformation, and worsening psychological conditions.
-- `Pluto/Hades = MC`: This activation emphasizes to feel unhappy, dissatisfied and unqualified; To adapt badly to changes or transformations; Bad self-development or inharmonious adjustment.
-- `Pluto/MC = Hades`: This activation emphasizes unhappy or unhealthy self-development; The native struggles to adapt to worsening conditions.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

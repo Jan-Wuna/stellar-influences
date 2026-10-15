@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Zeus](../triads/mars-neptune-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Explosive gas. Damage through exploding gases. Destruction by fire. Inherited blood diseases or impotency.
 
@@ -42,13 +46,27 @@ Explosive gas. Damage through exploding gases. Destruction by fire. Inherited bl
 
 #### ABC Entry
 
-Effortful work in the air, exchangeable handling work, processing fire with water, intuitive power pulses, metaphysics as a work direction, creative work on/in/with water, weak work performance, and unclear work design
+Source: “Mars + Neptun,” printed p. 305 (PDF p. 151).
+
+Strenuous work in the air, disappointing leadership work, working on fire with water, intuitive impulses toward achievement, metaphysics as a work direction, creative work on/in or with water, weak work performance, and unclear shaping of work.
+
+## Comparative Schema
+
+- core meaning: Creative or directed activity involving air, water, fire, or uncertain performance.
+- psychology: Intuitive impulses, unclear work design, and a metaphysical direction.
+- body/health: Inherited blood disease and impotence are Witte's historical claims.
+- social/relationship: No particular relationship pattern is established.
+- events/manifestations: Explosive gas and fire damage in Witte; creative water work and strenuous air work in ABC.
+- conflicts/notes: ABC's creative water work and disappointing leadership do not carry every destructive or hereditary example listed by Witte.
+
+## Contradictions
+
+Both entries involve fire or material activity, but ABC's creative work and Witte's destruction differ in outcome. The shared vocabulary does not establish a single destructive mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Neptune = Zeus` turns confused or weakened force explosive, fiery, and technically dangerous.
-- Chart expression: gas explosions, fire damage, destructive combustion, and inherited bodily weakness or blood-related affliction that expresses through loss of potency or destructive discharge.
+In `Mars/Neptune = Zeus`, Zeus specifies the pair through directed or creative activity whose execution may be unclear or weak. ABC includes strenuous air work, disappointing leadership, intuitive achievement impulses, creative work with water, and handling fire with water. Witte emphasizes explosive gas and fire damage. The shared material vocabulary does not make every creative or technical activity destructive; Witte's inherited blood disease and impotence remain attributed historical claims. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 305 / PDF p. 151)
 
 ## Links
 

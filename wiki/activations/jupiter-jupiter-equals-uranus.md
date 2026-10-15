@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Jupiter = Uranus`
 - Astronomicon formula: `V/V = X`
 - Axis page: [Jupiter/Jupiter](../axes/jupiter-jupiter.md)
@@ -29,18 +31,35 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
 #### Witte Entry
 
-Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. Successful propagation. Pregnancy. Generation. Children. Fruits. Lucky deed. Joy of work. Fortunate accomplishments. Much to do. Work or activity for justice or money.
+- Source reference: one-based PDF page 205, Jupiter/Jupiter section, Uranus row; factor glyph and neighboring row boundaries visually checked.
+
+Material success. Sudden luck. Sudden misfortune, if Jupiter posited in poor pictures. Sudden strokes of good luck. Fortunate events. Happy surprises. Success in technology. Money though technology. Electronic money. Digital currency. New money. Monetary reform.
+
+## Comparative Schema
+
+- core meaning: Sudden luck, material success and technological or monetary innovation.
+- psychology: Happy surprises are explicit.
+- body/health: No bodily condition is stated.
+- social/relationship: The entry concerns technology and money rather than a specific relationship.
+- events/manifestations: Electronic money, digital currency, monetary reform and money through technology.
+- conflicts/notes: The source also allows sudden misfortune when Jupiter is in poor pictures; the printed 'though technology' is retained as a source typo.
+
+## Contradictions
+
+The row's favorable surprises are qualified by its explicit conditional possibility of sudden misfortune. The source does not make all technological or monetary change beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Jupiter = Uranus`: good fortune breaking out through creative action and sudden happy developments. It favors fertile initiative, lucky work, and accomplishments that feel lively, generative, and timely.
+In `Jupiter/Jupiter = Uranus`, the [Witte entry](#witte-entry) emphasizes sudden luck, fortunate events and happy surprises, with material success through technology among its examples. Electronic money, digital currency, new money and monetary reform give this a financial setting. The entry also explicitly allows sudden misfortune when Jupiter is in poor pictures, so abrupt change should not be treated as uniformly favorable.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Jupiter](../factors/jupiter.md)
 - [Uranus](../factors/uranus.md)
 - [Jupiter/Jupiter](../axes/jupiter-jupiter.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

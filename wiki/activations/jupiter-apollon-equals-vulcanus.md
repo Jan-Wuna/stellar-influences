@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Apollon = Vulcanus`
 - Astronomicon formula: `V/¥ = §`
 - Axis page: [Jupiter/Apollon](../axes/jupiter-apollon.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: PDF p. 215.
+
 Great increase of property. Mighty income.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful Money Power, Joy over Energy for, Power Success of Science, Power Benefits by Knowledge, RightPower Experience, and vie! Power through Money
+- Source reference: printed p. 341; PDF p. 169.
+
+Successful financial power, successful legal influence, joy in abundant energy, influence through happiness and success, success of scientific power, power advantages through knowledge, experiencing legal power, and much power through money.
+
+## Comparative Schema
+
+- Core meaning: Large material increase and influence backed by money or knowledge.
+- Psychology: Joy in abundant energy.
+- Body/health: Abundant energy is named without a specific bodily claim.
+- Social/relationship: Legal influence and scientific power.
+- Events/manifestations: Great property increase, large income, and power through money.
+- Conflicts/notes: Material power is explicit; its ethical or social use is not determined.
+
+## Contradictions
+
+ABC expands the property/income meaning into legal, scientific and knowledge-based influence.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Vulcanus`: wealth scaling up with power. It can show strong capital formation, major revenue, and materially forceful growth.
+In `Jupiter/Apollon = Vulcanus`, Vulcanus specifies the Jupiter/Apollon axis through substantial income, property growth, and financial, legal or scientific power. Large income and increasing property join financial power, legal influence, and advantages gained through knowledge. Scientific power and joy in abundant energy extend the same theme of substantial capacity. The formula describes resources and influence at scale, preserving knowledge and law as sources of power alongside money. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

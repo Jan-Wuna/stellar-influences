@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Node MC Cupido](../triads/node-mc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To enter into a betrothal. To marry. The influence of familiar or social connect
 
 #### ABC Entry
 
-My attachment to the community, my connection to the whole, my connections to the arts, scelic minds, spiritual contacts in of a community, connection to a speleen community, and connected with the soul of a community
+- Source passage: `Mondknoten + Cupido`; printed p. `224`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+My attachment to the community, my connection to the whole, my connection to art, inwardly connected with art, inner contacts in a community, connection to a community of souls, connected with the soul of a community.
+
+## Comparative Schema
+
+- core meaning: Personal involvement in family, community, society, or art.
+- psychology: A sense for society and art; personal attachment to the community.
+- body/health: No bodily or health claim is established.
+- social/relationship: Entering marriage or betrothal and being influenced by one's social connections.
+- events/manifestations: Personal participation in shared social or artistic life.
+- conflicts/notes: ABC distinguishes attachment to a community, connection with art and inner communal contacts. Its community-of-souls language remains a source formulation rather than a separate claim about a named institution.
+
+## Contradictions
+
+Witte's social influence and ABC's personal attachment overlap; ABC also gives specific inner and artistic forms of connection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = MC`: To enter into a betrothal. To marry. The influence of familiar or social connections upon the native. Sense for society and art.
-- Practical focus: to enter into a betrothal; also to marry.
+MC specifies Node/Cupido through one's personal attachment to a community and the influence its relationships exert. The [Witte entry](#witte-entry) includes entering betrothal or marriage and a sense for society and art; the [ABC entry](#abc-entry) adds personal and inner ties to the community and art. Together these support personal participation in shared social and artistic life.
 
 ## Links
 

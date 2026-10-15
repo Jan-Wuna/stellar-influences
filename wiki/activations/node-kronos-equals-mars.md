@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Kronos = Mars`
 - Astronomicon formula: `g/¤ = U`
 - Axis page: [Node/Kronos](../axes/node-kronos.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 152 (one-based).
+
 Ones own activity results in contacts with the authorities. To be taken into custody. To be arrested.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special actions in a relationship, self evident will to link, self employed activity in a connection, public employment mediation, binding actions of the State, and V binding to the State
+- Source page: 230 (printed); PDF page: 114 (one-based).
+
+Special actions in a relationship, a self-confident will to connect, self-confident activity within a connection, state employment mediation, binding actions of the state, and establishing connections to the state.
+
+## Comparative Schema
+
+- Core meaning: Action that establishes contact with authorities or the state.
+- Psychology: A self-confident will to connect and act within a relationship.
+- Body/health: No health claim; custody refers to official restraint.
+- Social/relationship: Active official connections and employment mediation.
+- Events/manifestations: State action, official contact, custody or arrest.
+- Conflicts/notes: Witte's coercive examples and ABC's constructive activity are distinct possibilities.
+
+## Contradictions
+
+Witte stresses custody arising from one's actions; ABC also includes voluntary connection and employment mediation. Neither entry makes all official contact coercive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Mars`: Ones own activity results in contacts with the authorities. To be taken into custody. To be arrested.
-- Practical focus: ones own activity results in contacts with the authorities; also to be taken into custody.
+Mars specifies `Node/Kronos` through actions that create or activate contact with authority. Initiative can establish a state connection or involve official employment mediation in [ABC](#abc-entry); in [Witte](#witte-entry), one's own activity brings contact with authorities that may include custody or arrest. The common thread is an enacted official relationship, with voluntary cooperation and coercive intervention retained as different expressions.
 
 ## Links
 

@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Kronos`
 - Astronomicon triad-set: `R Y ¤`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Kronos = Neptune](../activations/moon-kronos-equals-neptune.md)
-- [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md)
-- [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md)
+- [Moon/Kronos = Neptune](../activations/moon-kronos-equals-neptune.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [Neptune](../factors/neptune.md).
+- [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Kronos](../factors/kronos.md).
+- [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `199`
-- `Moon/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Neptune/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `398`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Kronos = Neptune](../activations/moon-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 133); [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md#witte-entry) (PDF entry-start p. 128); [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md#witte-entry) (PDF entry-start p. 250).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Kronos = Neptune](../activations/moon-kronos-equals-neptune.md#abc-entry) (printed p. 199); [Moon/Neptune = Kronos](../activations/moon-neptune-equals-kronos.md#abc-entry) (printed p. 189); [Neptune/Kronos = Moon](../activations/neptune-kronos-equals-moon.md#abc-entry) (printed p. 398).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos = Neptune`: Independent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.
-- `Moon/Neptune = Kronos`: This activation elevates `Moon/Neptune` through protected sensitivity, regulated rest, and heightened night awareness. It suggests a refined receptivity under formal shelter or control, so delicate feeling is given structure, supervision, or institutional containment.
-- `Neptune/Kronos = Moon`: This activation emotionalizes high but unstable leadership, mixing accomplishment through sensitivity with insincere opinion, deceptive feeling, and public or atmospheric elevation that can drift toward illusion.
+Moon, Neptune and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Neptune/Kronos](../axes/neptune-kronos.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)

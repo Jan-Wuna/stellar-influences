@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Neptune Hades`
 - Astronomicon triad-set: `W Y ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Hades = Saturn](../activations/neptune-hades-equals-saturn.md)
-- [Saturn/Hades = Neptune](../activations/saturn-hades-equals-neptune.md)
-- [Saturn/Neptune = Hades](../activations/saturn-neptune-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Hades = Saturn](../activations/neptune-hades-equals-saturn.md) | [Neptune/Hades](../axes/neptune-hades.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Hades = Neptune](../activations/saturn-hades-equals-neptune.md) | [Saturn/Hades](../axes/saturn-hades.md) | [Neptune](../factors/neptune.md) |
+| [Saturn/Neptune = Hades](../activations/saturn-neptune-equals-hades.md) | [Saturn/Neptune](../axes/saturn-neptune.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Neptune/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `395`
-- `Saturn/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `357`
-- `Saturn/Neptune = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `351`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Hades = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-hades-equals-saturn.md#witte-entry), one-based PDF entry-start p. `248`.
+- `Neptune/Hades = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-hades-equals-saturn.md#abc-entry), printed p. `395`.
+- `Saturn/Hades = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-hades-equals-neptune.md#witte-entry), one-based PDF entry-start p. `225`.
+- `Saturn/Hades = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-hades-equals-neptune.md#abc-entry), printed p. `357`.
+- `Saturn/Neptune = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-neptune-equals-hades.md#witte-entry), one-based PDF entry-start p. `222`.
+- `Saturn/Neptune = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-neptune-equals-hades.md#abc-entry), printed p. `351`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Saturn`: This activation hardens the axis into serious illness, deprivation, obstruction, or losses that demand endurance and structure. It shows decay meeting consequence, whether through age, duty, harsh conditions, or realities that force limits around instability, dependency, or damaged environments.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

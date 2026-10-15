@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Pluto`
 - Astronomicon formula: `Y/¦ = Z`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
-E Hardly noticeable beginning of completely changing the forms of being.
+Hardly noticeable beginning of completely changing the forms of being.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-depressive development, weak circulatory development, different water cycle, growing barriers and exchanges, and growing deepening into the future
+End of an uncertain development, thorough transformation through metaphysics, creeping depressive development, weak circulatory development, changed water circulation, growing restrictions and disappointments, and growing immersion in the future
+
+## Comparative Schema
+
+- core meaning: a barely noticeable beginning of comprehensive change, with development or ending among ABC's examples.
+- psychology: growing disappointment and immersion in the future are attributed source themes.
+- body/health: depressive or weak circulatory development is historical wording, not a prognosis.
+- social/relationship: neither entry names a specific relationship role.
+- events/manifestations: ending uncertain development, changed water circulation, and transformation through metaphysics are stated.
+- conflicts/notes: the source describes an inconspicuous beginning, without proving a hidden physical or psychological mechanism.
+
+## Contradictions
+
+Witte gives the beginning of comprehensive change; ABC includes the end of uncertain development as well as growing restrictions. These different phases do not establish a fixed sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Pluto`: E Hardly noticeable beginning of completely changing the forms of being.
-- Practical focus: transforms `Neptune/Admetos` almost imperceptibly at first, beginning a deep reworking of life conditions beneath the surface. It points to slow, subtle mutation that eventually alters the form of being more completely than first appears.
-- Practical expression: depressive development, weak circulatory development, different water cycle, growing barriers, and exchanges.
+In Neptune/Admetos = Pluto, Pluto specifies the pair through development whose comprehensive change may begin almost unnoticed. The [Witte entry](#witte-entry) states that quiet beginning; [ABC](#abc-entry) adds the end of uncertain development, changed water circulation, and growing restrictions or disappointments (printed p. 403, PDF p. 200). Its metaphysical, depressive, and circulatory examples remain attributed source claims. The entry establishes neither a specific hidden mechanism nor inevitable eventual improvement.
 
 ## Links
 

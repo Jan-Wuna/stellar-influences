@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
 - Triad hub: [Pluto Asc Vulcanus](../triads/pluto-asc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 263 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Great transformations in the surroundings experienced with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 420; PDF page 209 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-energy development at the place, development of a local power, powerful partner development, change of power at the place, deduce space energy, changes in the place through violence, and growing power of the partner
+Editorial translation (checked against the scan): Influential changes in the surroundings, energy development at a place, development of a local power, powerful partner development, change of power at a place, developing spatial energy, changes at a place through violence, growing strength of the partner.
+
+## Comparative Schema
+
+- core meaning: Powerful transformations in shared surroundings, a place, or partnership.
+- psychology: No specific inner state is given.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Experiencing major changes with others; growing power of a partner.
+- events/manifestations: Local energy development, power shifts, spatial energy, and changes through violence.
+- conflicts/notes: The source names spatial energy without explaining a physical mechanism.
+
+## Contradictions
+
+Shared surroundings and partner development are compatible settings. Violent change is a narrower ABC possibility.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Asc`: great transformations in the surroundings experienced with others.
-- Practical expression: energy development at the place, development of a local power, powerful partner development, change of power at the place, and deduce space energy.
+Asc specifies Pluto/Vulcanus through major transformation in the surroundings experienced with other people. The [Witte entry](#witte-entry) gives that shared setting; the [ABC entry](#abc-entry) adds local energy and power development, changes of power at a place, and a partner's growing strength. Its spatial-energy wording remains a literal source expression without an explained mechanism, while violent change is one possibility rather than the required form of the transformation.
 
 ## Links
 

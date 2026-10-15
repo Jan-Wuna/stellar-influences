@@ -20,38 +20,46 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Zeus`
 - Astronomicon triad-set: `R Y £`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md)
-- [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md)
-- [Neptune/Zeus = Moon](../activations/neptune-zeus-equals-moon.md)
+- [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Zeus](../factors/zeus.md).
+- [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md): base axis [Moon/Zeus](../axes/moon-zeus.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Zeus = Moon](../activations/neptune-zeus-equals-moon.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Neptune = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Moon/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `197`
-- `Neptune/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md#witte-entry) (PDF entry-start p. 128); [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md#witte-entry) (PDF entry-start p. 132); [Neptune/Zeus = Moon](../activations/neptune-zeus-equals-moon.md#witte-entry) (PDF entry-start p. 249).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Neptune = Zeus](../activations/moon-neptune-equals-zeus.md#abc-entry) (printed p. 189); [Moon/Zeus = Neptune](../activations/moon-zeus-equals-neptune.md#abc-entry) (printed p. 197); [Neptune/Zeus = Moon](../activations/neptune-zeus-equals-moon.md#abc-entry) (printed p. 396).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Zeus`: This activation ignites `Moon/Neptune` into tense nighttime imagination, emotionally heated subtle states, and volatile dream or fertility themes. It points to inspiration under pressure, inner fire in delicate conditions, and receptivity that can flare into creation, sterility anxiety, or combustion-like strain.
-- `Moon/Zeus = Neptune`: Efforts wrongly directed. Fiery, fantastic ideas. Delusions. Inflammable liquids. Uncertainties about female procreation.
-- `Neptune/Zeus = Moon`: Emotional and imaginative output runs high but wastes itself easily, combining creative fantasy, display, exhaustion, and futile expenditure of feeling or effort.
+Moon, Neptune and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Neptune/Zeus = Moon ABC entry](../activations/neptune-zeus-equals-moon.md#abc-entry) retains “fiihls weakness”. This is a specific transcription limit on a represented paragraph; the hub does not repair it from another orientation.
 
 ## Links
 
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Vulcanus`
 - Astronomicon formula: `T/W = §`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 Fast and long distance travelling. Every effort, strained thinking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Thinking of power loss, speech influence in old age, concentrated thought energy, violence in youth work, powerful thought concentration, separating word violence, talking about inhibiting interference, and losses by youth violence
+- Source passage: `Merkur + Saturn`; printed p. `247`; one-based PDF page `122` (oriented row checked against the scan).
+
+Thinking about loss of power, conversational influence in old age, concentrated thought energy, violence in youth work, powerful concentration of thought, divisive verbal force, speaking about inhibiting influences, losses through youth violence.
+
+## Comparative Schema
+
+- core meaning: Concentrated thought, communication and movement require or exert force.
+- psychology: Strained thinking and powerful concentration are explicit.
+- body/health: Strain is named, without a specific medical condition.
+- social/relationship: Conversational influence, verbal force and violence in youth work are difficult social examples.
+- events/manifestations: Fast long-distance travel, thinking about lost power and losses through youth violence are manifestations.
+- conflicts/notes: Forceful concentration and harmful force remain separate source possibilities.
+
+## Contradictions
+
+Great effort and concentration do not by themselves establish violence; ABC supplies the latter as particular examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Saturn = Vulcanus`: Fast and long distance travelling. Every effort, strained thinking.
-- Practical expression: thinking of power loss, speech influence in old age, concentrated thought energy, violence in youth work, and powerful thought concentration.
+In `Mercury/Saturn = Vulcanus`, Vulcanus specifies serious thought and movement through concentrated effort or force. Witte gives strained thinking, making every effort and fast long-distance travel; ABC adds powerful concentration and influence exerted in conversation. Thinking about a loss of power, divisive verbal force and losses through youth violence preserve the difficult end of this range without making violence inevitable. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

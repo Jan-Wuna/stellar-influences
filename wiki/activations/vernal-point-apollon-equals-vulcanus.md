@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Apollon Vulcanus](../triads/vernal-point-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Enormous expansion and spreading out. Great successes.
 
@@ -42,13 +46,27 @@ Enormous expansion and spreading out. Great successes.
 
 #### ABC Entry
 
-Influx/3 of the world economy, increase of energy in public, spread of violence in public life, public power success, increase of power in public, public trade power, and economic power in public
+- Source page: 53; PDF page: 25 (one-based spread).
+
+Influence of the world economy, increase of energy in public, spread of violence in public life, public success of power, increase of power in public, public trade power, and economic power in public
+
+## Comparative Schema
+
+- core meaning: Enormous public expansion and increased economic or institutional power.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public power and influence rather than a detailed relationship pattern.
+- events/manifestations: Large-scale success, trade power, economic force, and spread of violence.
+- conflicts/notes: The adverse violence clause remains visible; expansion is not inherently peaceful.
+
+## Contradictions
+
+Great success and spread of violence are different manifestations of scale and power. Neither cancels the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Vulcanus`: enormous expansion and spreading out and great successes.
-- Practical expression: influx/3 of the world economy, increase of energy in public, spread of violence in public life, public power success, and increase of power in public.
+In `Vernal Point/Apollon = Vulcanus`, Vulcanus specifies the pair through the scale and force of public expansion. The [Witte entry](#witte-entry) names enormous spreading and great successes. The [ABC entry](#abc-entry) locates power in world economy, trade, and public influence, while also retaining spread of violence. The shared meaning is amplified public reach, whose constructive or adverse use remains a material distinction.
 
 ## Links
 

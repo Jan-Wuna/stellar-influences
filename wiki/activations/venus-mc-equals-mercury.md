@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Mercury Venus MC](../triads/mercury-venus-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ To make acquaintances easily. To enjoy beautiful objects. Talks about beauty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `70`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-I at the thinking of the arts, I at the writing about peace, I at the writing about beauty, I at the talking about love, my joy in youth, and soul harmony in youth
+Soulful conversations about art, thoughts about peace of the soul, conversations about harmony of the soul, I think of art, I write of peace, I write about beauty, I speak of love, my joy in youth, and harmony of the soul in youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0677`.
 
 #### Ebertin Entry
 
 A sense of beauty and art, artistic trends of thoughts, occupation with art as a hobby. Revealing one's attachment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Education which helps you cope with or understand the importance of giving or re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Affection and appreciation developed through thought, conversation, and learning.
+- Psychology: Thinking about beauty, art, inner harmony, and attainable values.
+- Body/health: Artistic dexterity is explicit; no medical claim is supplied.
+- Social/relationship: Easy acquaintanceship, revealing affection, and communicating one's true self.
+- Events/manifestations: Writing about peace or beauty, artistic technique, and polished communication with employers.
+- Conflicts/notes: Polish, education, and artistic thought are supported; the entries do not establish superficiality.
 
 ## Contradictions
 
-- None recorded yet.
+- Polish, education, and artistic thought are supported; the entries do not establish superficiality.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Mercury`: diplomatic messaging, refined judgment, and careers advanced through writing, speaking, mediation, or tasteful presentation. Main caution: polished superficiality: outward elegance in thought or speech can mask indecision or avoidance of harder truths.
+`Venus/MC = Mercury` gives personal affection and appreciation a language. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) connect easy acquaintance and revealed attachment with thought or conversation about beauty and art. The [ABC entry](#abc-entry) adds writing about peace and inner harmony. [Sandbach](#sandbach-entry) emphasizes polished, authoritative communication and high values, including relations with employers. [Munkasey](#munkasey-entry) develops the learning dimension through understanding love, communicating one's true self, and acquiring artistic technique. The orientation joins expression with education in what one values.
 
 ## Links
 

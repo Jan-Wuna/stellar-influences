@@ -20,35 +20,49 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Admetos`
 - Astronomicon triad-set: `T MC ¦`
+- This page is structural only. It does not merge the meanings of its orientations.
+- [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [MC/Admetos = Mercury](../activations/mc-admetos-equals-mercury.md)
-- [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md)
-- [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Admetos = Mercury](../activations/mc-admetos-equals-mercury.md) | [MC/Admetos](../axes/mc-admetos.md) | [Mercury](../factors/mercury.md) |
+| [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md) | [Mercury/Admetos](../axes/mercury-admetos.md) | [MC](../factors/mc.md) |
+| [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md) | [Mercury/MC](../axes/mercury-mc.md) | [Admetos](../factors/admetos.md) |
+
+All three possible orientations are represented by linked activation pages. The source coverage below applies separately to each formula.
 
 ## Source Coverage
 
-- `MC/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
-- `MC/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `94`
-- `Mercury/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `264`
-- `Mercury/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
-- `Mercury/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `69`
+These rows describe the source subentries on the linked activation pages, not the scope of a source catalog. Locators are retained references, not new visual scan checks; chapter starts do not establish an exact formula page.
+
+| Orientation | Source subentry | Retained source locator |
+| --- | --- | --- |
+| [MC/Admetos = Mercury](../activations/mc-admetos-equals-mercury.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mc-admetos-equals-mercury.md#witte-entry) | PDF p. `75` (one-based; entry start); printed page not recorded. |
+| [MC/Admetos = Mercury](../activations/mc-admetos-equals-mercury.md) | [Udo Rudolph](../activations/mc-admetos-equals-mercury.md#abc-entry) | printed p. `94`; PDF p. `46` (one-based). |
+| [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-admetos-equals-mc.md#witte-entry) | PDF p. `171` (one-based; entry start); printed page not recorded. |
+| [Mercury/Admetos = MC](../activations/mercury-admetos-equals-mc.md) | [Udo Rudolph](../activations/mercury-admetos-equals-mc.md#abc-entry) | printed p. `264`; PDF p. `131` (one-based). |
+| [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-mc-equals-admetos.md#witte-entry) | PDF p. 62, one-based, entry start (not a printed-page number). |
+| [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md) | [Udo Rudolph](../activations/mercury-mc-equals-admetos.md#abc-entry) | printed p. 69, PDF p. 33, entry (supplied German OCR; not visually verified). |
+
+Every listed source has a retained subentry for all 3/3 linked orientations.
+
+## Contradictions Across Orientations
+
+This structural hub does not adjudicate disagreements within an activation. Different base axes and activators identify distinct formulas; differences among these orientations are not, by themselves, contradictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Mercury`: mentalizes the axis into slow thought and fixed conversational posture.
-- `Mercury/Admetos = MC`: internalizes the axis as thorough but sorrowful reflection.
-- `Mercury/MC = Admetos`: narrows the axis into blocked self-direction and heavy thought.
+For `Mercury MC Admetos`, `MC/Admetos = Mercury`, `Mercury/Admetos = MC` and `Mercury/MC = Admetos` remain separate readings. Choose the formula by its base axis and activator in the Orientation Map, then read that activation’s source entries and synthesis. Use the axis links for pair context; this hub supplies sibling navigation rather than a combined delineation.
 
 ## Links
 

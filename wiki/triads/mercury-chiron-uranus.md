@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Mercury Chiron Uranus`
 - Astronomicon triad-set: `T Chiron X`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Uranus = Mercury](../activations/chiron-uranus-equals-mercury.md)
-- [Mercury/Chiron = Uranus](../activations/mercury-chiron-equals-uranus.md)
-- [Mercury/Uranus = Chiron](../activations/mercury-uranus-equals-chiron.md)
+- [Chiron/Uranus = Mercury](../activations/chiron-uranus-equals-mercury.md): base axis [Chiron/Uranus](../axes/chiron-uranus.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Chiron = Uranus](../activations/mercury-chiron-equals-uranus.md): base axis [Mercury/Chiron](../axes/mercury-chiron.md); activator [Uranus](../factors/uranus.md).
+- [Mercury/Uranus = Chiron](../activations/mercury-uranus-equals-chiron.md): base axis [Mercury/Uranus](../axes/mercury-uranus.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Uranus = Mercury`: John, page `96`
-- `Mercury/Chiron = Uranus`: John, page `46`
-- `Mercury/Uranus = Chiron`: John, page `47`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Uranus = Mercury](../activations/chiron-uranus-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 96; exact entry page unverified); [Mercury/Chiron = Uranus](../activations/mercury-chiron-equals-uranus.md#sandbach-entry) (PDF chapter-start p. 46; exact entry page unverified); [Mercury/Uranus = Chiron](../activations/mercury-uranus-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 47; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Mercury`: startling insight, inventive language, and communication that opens others. Main caution: clever novelty without enough grounding or follow-through.
-- `Mercury/Chiron = Uranus` electrifies the axis with sudden insight into how communication can be healed.
-- `Mercury/Uranus = Chiron`: To open up the mind of others through communicating. To help others tran scend the limits of their own thinking, as well as to realize their own unique thoughts. To free others from the thought patterns of the mass consciousness.
+Mercury, Chiron and Uranus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Uranus](../axes/chiron-uranus.md)
+- [Mercury/Chiron](../axes/mercury-chiron.md)
+- [Mercury/Uranus](../axes/mercury-uranus.md)
 - [Mercury](../factors/mercury.md)
 - [Chiron](../factors/chiron.md)
 - [Uranus](../factors/uranus.md)

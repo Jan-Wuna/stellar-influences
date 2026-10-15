@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Cupido`
 - Astronomicon formula: `V/g = ¡`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page `144`, Nodes/Jupiter Cupido row; glyph and adjacent rows checked.
+
 Good connection leading to marriage. Financial relationships of a group or family. Successful contacts of families or groups.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Meeting with a successful community, successful links in of a community, money transfer of a community, financial links of a community, friendly relations with of a community, and connection with a legal community
+- Source reference: printed page `215`; one-based PDF page `106`, Mondknoten/Jupiter Cupido row.
+
+Meeting with a successful community, successful connections within a community, financial intermediation by a community, financial connections of a community, friendly relations with a community, and connection with a legal community
+
+## Comparative Schema
+
+- core meaning: Successful connections organized through family or community.
+- psychology: Not developed separately in these entries.
+- body/health: Not represented in these entries.
+- social/relationship: Marriage, family contacts and friendly community ties.
+- events/manifestations: Shared financial relationships, financial intermediation and legal associations.
+- conflicts/notes: Marriage and community finance are different stated applications of this orientation.
+
+## Contradictions
+
+The entries differ in scope: one includes marriage and family, while the other develops community finance and legal connections.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Cupido`: social luck becoming organized through household, kinship, or communal structure. It favors marriage-minded connection and beneficial shared resources within a group field.
+In `Jupiter/Node = Cupido`, Cupido specifies beneficial connections through a family or organized community. The relationship can lead to marriage, bring families or groups into successful contact, or concern the group's financial resources. The shared thread is advantage arising through membership and collective relationships, including friendly and legal ties. [Witte entry](#witte-entry), [ABC entry](#abc-entry)
 
 ## Links
 

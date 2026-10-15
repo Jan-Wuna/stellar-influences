@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Saturn`
 - Astronomicon formula: `X/£ = W`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 To obey a force with reluctance. Losses through explosions, also through violence, death through such. Sudden storm. Thunderstorms with damages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Serious reform struggles, gestational creative impulses, concentration on technical achievements, new goals in old age, sudden damage fire, mature technical performance, surprising handling problems, restlessness over lossy handling, and lossy new beginning
+- Source page: 379 (printed); PDF page: 188.
+
+Serious reform struggles, disturbed creative impulses, concentration on technical achievements, new goals in old age, sudden damage fire, mature technical performance, surprising leadership problems, restlessness over leadership involving losses, and lossy new beginning
+
+## Comparative Schema
+
+- Core meaning: Directed force constrained by loss or difficulty.
+- Psychology: Reluctant obedience and concentration.
+- Body/health: Witte's violent death claim is historical, not a prognosis.
+- Social/relationship: Leadership problems and serious reform effort.
+- Events/manifestations: Fire damage, explosions, mature technical performance.
+- Conflicts/notes: Mature achievement coexists with loss and blocked creativity.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Mature achievement coexists with loss and blocked creativity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Saturn`: To obey a force with reluctance. Losses through explosions, also through violence, death through such. Sudden storm. Thunderstorms with damages.
-- Practical expression: serious reform struggles, gestational creative impulses, concentration on technical achievements, new goals in old age, and sudden damage fire.
+Saturn specifies Uranus/Zeus through effort that meets hindrance, reluctant obedience, or costly consequences. Concentration and mature technical performance remain possible, alongside damaged creative impulses and difficult leadership. Witte's explosion and death language is preserved as historical doctrine, not an individual forecast. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

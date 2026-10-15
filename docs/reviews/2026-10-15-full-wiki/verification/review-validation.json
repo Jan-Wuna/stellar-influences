@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-10-15T16:44:44.834633+00:00",
+  "interpreter": "C:\\pyMADMAX2\\miniconda3\\envs\\deep11\\python.exe",
+  "scope": "Mechanical validation only. Ledger assertions are not independent proof of full reading or doctrinal correctness.",
+  "counts": {
+    "live": 7491,
+    "templates": 6,
+    "canonical": 5761,
+    "ledger_records": 7497,
+    "source_repair_candidates": 5331
+  },
+  "checks": {
+    "inventory": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "baseline_counts": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "assignment_partition": {
+      "checked": 7491,
+      "passed": true,
+      "failures": []
+    },
+    "baseline_copies": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "ledger_schema": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "ledger_coverage": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "ledger_outcomes": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "metadata_preservation": {
+      "checked": 7497,
+      "passed": true,
+      "failures": []
+    },
+    "immediate_synthesis_anchor": {
+      "checked": 5761,
+      "passed": true,
+      "failures": []
+    },
+    "six_schema_categories": {
+      "checked": 5761,
+      "passed": true,
+      "failures": []
+    },
+    "storage_filler": {
+      "checked": 5761,
+      "passed": true,
+      "failures": []
+    },
+    "source_entry_preservation": {
+      "checked": 5761,
+      "passed": true,
+      "failures": []
+    },
+    "protected_initial_files": {
+      "checked": 6036,
+      "passed": true,
+      "failures": []
+    },
+    "historical_log": {
+      "checked": 1,
+      "passed": true,
+      "failures": []
+    }
+  }
+}

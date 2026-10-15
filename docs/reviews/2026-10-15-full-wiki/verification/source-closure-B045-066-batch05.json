@@ -1,0 +1,307 @@
+{
+  "scope": "Final27 unchanged-prose B045–066 precheck closures.",
+  "count": 27,
+  "cumulative": 70,
+  "new_reviews": 0,
+  "canonical_unchanged": 26,
+  "qualification_only": 1,
+  "all_precheck_source_hashes_match": true,
+  "all_original_records_unique": true,
+  "all_temporary_stages_absent": true,
+  "bindings": [
+    {
+      "path": "wiki/activations/moon-mercury-equals-asc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-045.jsonl",
+      "original_record_line": 3,
+      "before_source_section_sha256": "c5939866ef4cd829674b25cc03dfe06aaef63299f1cba6e23d2a2c570e130abe",
+      "final_source_section_sha256": "62ffc8a6fe5dad77d700be09f9694797f05972cec2f41a7304f9832bbc726fbc",
+      "final_page_sha256": "834ded1d4379d1c54c13ceda18bdc2fe50d5ff444cf79468759a59de5964e83a",
+      "current_record_sha256": "34746d109d9113d8ef19cef3a7fd39c8412013457773bfdd0b5fd95424bafaea",
+      "unresolved": [
+        "ABC final 'hour of the media at the place' is present in German as 'Stunde der Medien am Ort', but its interpretive sense remains unclear and is excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-zeus-equals-asc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-049.jsonl",
+      "original_record_line": 28,
+      "before_source_section_sha256": "bcc4c2f33756afeb06dcda9caddf5f10be8635fc3a8039a1a47bd1fcbbf6a807",
+      "final_source_section_sha256": "c53b37fc4aeb9a82f7e54f0f643ac43ef14bf7a7100fb8504dc5033a375b3045",
+      "final_page_sha256": "f9d229d79fe78883ea02356a9f07f0f8b1036e1f556e83a55cb129da9be700fd",
+      "current_record_sha256": "fc12c88f527fa8729ac397d4a2be964d507f098557454166bc9074d0c8e057eb",
+      "unresolved": [
+        "ABC's Umwelt-Leistungen is retained as environmental achievements without assigning a specific ecological or occupational meaning."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-admetos-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-049.jsonl",
+      "original_record_line": 52,
+      "before_source_section_sha256": "fa8dfd9dab10a301b522d7eaf728d106ae6cf69f961830614a96c4fc7e16452b",
+      "final_source_section_sha256": "11dda9210b66d401bf4e69f89511f7b611c4720d3e4667ceda92837f24c3a087",
+      "final_page_sha256": "39d103fbef6a6a31b41c71c8095df52fee17cbec0b76b5db17a1d27cb905031f",
+      "current_record_sha256": "7776bcb8345696ce546ed88faf44854a2fcdde201f911a0dec463f90597d35a5",
+      "unresolved": [
+        "ABC's Fremd-Arbeit lacks a specified setting; outside/foreign wording retained without inferring a particular labor or political context."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-apollon-equals-kronos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-050.jsonl",
+      "original_record_line": 16,
+      "before_source_section_sha256": "0d92f0f47bd5c5e052239cad675f6aad6c001d479d42b49575e6bd16d18a9079",
+      "final_source_section_sha256": "ffaae9345d4fb7644333cfe89f252a6fe62606b8233687e10ad905df35a4ba20",
+      "final_page_sha256": "f02fd075a7390ad050eb508796836dab50c0a14ac4008ec282a0716fb4eba9d1",
+      "current_record_sha256": "af91c843d2043a404a0f032746f26da4a9fd304612d04116996ebee8e0980262",
+      "unresolved": [
+        "ABC's feinstoffliche Hierarchie is retained literally as subtle hierarchy; no institutional or spiritual system is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-apollon-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-050.jsonl",
+      "original_record_line": 17,
+      "before_source_section_sha256": "dc0720a920088dc8a9d7676c31aecc52cd6bc0ac697ce9c867eb388519bd2174",
+      "final_source_section_sha256": "e3235bb09bbd145bad7b31de4baf585db71c3c023a2eee1df3b30ae7f86040d6",
+      "final_page_sha256": "a8111b1cd4355e58c804f7ed181bf818850ead7e4d9832d4d7c1196f50af927f",
+      "current_record_sha256": "9d6620eb4d3f203ff173f144c527a486f1bbf93c891cc8e01be1ebf6bc8a7bc5",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-kronos-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-051.jsonl",
+      "original_record_line": 45,
+      "before_source_section_sha256": "5cadc775882b48478ea7a0cf9d2a1cba61babd3ee8b310b802d02ba69b6b9de1",
+      "final_source_section_sha256": "aafbb788dede37a8b5d3e477567e564776a08f22f4fc18015f984a932a4b4c45",
+      "final_page_sha256": "2d1175bb548dad72f0e65a468cd216c3e19a299829f9b1b1343111d7af58f3c5",
+      "current_record_sha256": "c98ec0aff8d310a8f7bfe37dc1016c64e01f69613d6b92ab23a35bccf5321c5a",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-node-equals-cupido.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-052.jsonl",
+      "original_record_line": 52,
+      "before_source_section_sha256": "d25acc4b739deb4280b214aaa16d4d3574507f8a51c4af76112d4f38aae24b7b",
+      "final_source_section_sha256": "f3db8a90d7416d7714b235f283a6fefc78873a9a0d62fe39614584ab3f195432",
+      "final_page_sha256": "7298c68a9db669a7483acb48f03cb1d03a63eb3f0eeec91dcfe72a7bf6403a19",
+      "current_record_sha256": "8403c00366304472a3ec230ec2c9903e18c6ac7c755c6f2cb6568f67af06bbae",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-node-equals-kronos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-052.jsonl",
+      "original_record_line": 55,
+      "before_source_section_sha256": "5224a4b3ab6e40db85d31aca934654826e55c056a78fd72f4abd68f50eba3ef7",
+      "final_source_section_sha256": "d0cfa2f9611816b105a29c516802a784d4a71ee86212b59d71fadbc0343b3cc4",
+      "final_page_sha256": "36740150c5628b54850c410604a8e10fd78f9c7e02186d8f2fd22ba1c8df3066",
+      "current_record_sha256": "68456fa333017bb005b4c603b0bf5caea02473217938a426b13a8fdd2cb99d44",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-node-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-053.jsonl",
+      "original_record_line": 1,
+      "before_source_section_sha256": "e2c2d1ad8508cb1706dc5e11557768ace01c77666a9902f8e220e95ac0b7205f",
+      "final_source_section_sha256": "b9e2584af438048d76e11572ffb2ad41c96fdddc84fd8005342ab626b35d0682",
+      "final_page_sha256": "d8dd636d9a021e7e7aec7a4d53819f73c46a9977fdc38f1f429ccbd3bce4d132",
+      "current_record_sha256": "15a4dadc462185961feb81b5d877e3ce1424885257c72f5398fa9a1e53bd9f2b",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-node-equals-vulcanus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-053.jsonl",
+      "original_record_line": 14,
+      "before_source_section_sha256": "48cf0af8b4ff35d253a8b69622cfb664296ea8130b8befc4091fa7734f4337e3",
+      "final_source_section_sha256": "73d194c75275aae081aed388ae47faa0f3f847167298eb3c4ad9ce8cb0c2947c",
+      "final_page_sha256": "ff879a073c7c37af82a489c6a07d178670f0b00a6a9b1335291bfc940b82c0ce",
+      "current_record_sha256": "92ca1a971eb43f33d0556c15379861c7466ad58b7315a3b8ee5ad6a4fc0cab99",
+      "unresolved": [
+        "Subtle-material energies are unspecified historical language; no mechanism is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-pluto-equals-mc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-053.jsonl",
+      "original_record_line": 25,
+      "before_source_section_sha256": "b8b13d263a0950c07db61e00c8c91126e1ef68c695c000c97425ae4288be400c",
+      "final_source_section_sha256": "eba0a8725599bc806b53a1fb3f9e2aa81897349fac684bada82ddb8f5d39713f",
+      "final_page_sha256": "20652d2109e433bb2a944246c2341fd7aef6b07abd6fec00d9ecefb78faa0f05",
+      "current_record_sha256": "dbdfb370cc864650b18c6683a9208068285251e0da20287ba384b6af4fa05355",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-pluto-equals-mercury.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-053.jsonl",
+      "original_record_line": 26,
+      "before_source_section_sha256": "9edeaf46743a535bcf20ade6a392d0697f6a25c79e2ab64fa0595ea228386121",
+      "final_source_section_sha256": "20923e6a202ef79e9baba78d39b15142bf4695d6552ba5b6e8f89e3ece858894",
+      "final_page_sha256": "963ef520ef763b6a2ae63ed8830eeaa50e80ed38910306444ab1d54490d7b11d",
+      "current_record_sha256": "96cfd981448a8509e041bdeab6cbd96cafa453fd8778b6d2916c4e8bbd6a48f7",
+      "unresolved": [
+        "The source's smaller 3 Highlighters- label has no explained interpretive meaning; retained as a document artifact, excluded from doctrine."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-poseidon-equals-cupido.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-053.jsonl",
+      "original_record_line": 42,
+      "before_source_section_sha256": "ec747ac7018a44857d75540cbab7a56ee6ec586cfdcbde98b2d1bb5af88cda05",
+      "final_source_section_sha256": "f6fa00c06fd659daa7ad2205ae938ac4c317e18cb1981e3e777542142a675d28",
+      "final_page_sha256": "63fa52c967e6c7e808afe2254563b1ed2ac2434558c3e080901ee5a2379c9c27",
+      "current_record_sha256": "f92ac203d313540e1897b30c0d5e87c69a4832242144cab9a6d18550ac72a979",
+      "unresolved": [
+        "Actual WittePDF254 prints occur interests; intended wording is not established and occult is not silently substituted."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-poseidon-equals-mc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-054.jsonl",
+      "original_record_line": 1,
+      "before_source_section_sha256": "087e2b8c94e48cd105029863e7a52090c8a295700d919b8648a94683032ce024",
+      "final_source_section_sha256": "e208476447e5a17aeb64b4c6c46ceaf422806a373128c1c4a98663277e75fcde",
+      "final_page_sha256": "d6b9879acae351c12713296f95fbb724e50e67374a763d51a15fef00beb80e8e",
+      "current_record_sha256": "096b4252ac45640e5bb064470f88a6c4afe27e125b38f5e9495e3b435a2425de",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/neptune-vulcanus-equals-mc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-054.jsonl",
+      "original_record_line": 21,
+      "before_source_section_sha256": "7999a86d8c2116aae6ba8ef2466322d5c67b3de21541c7699aa7383c1d7fc6aa",
+      "final_source_section_sha256": "fa6b3df8310da37bc8595c25eca63a0017ff6fb78586e156f496c223c6d39289",
+      "final_page_sha256": "15ac9bd4b7c36d5418399452228f9ef9bfba436ca3559296b7e5f7c35536bbf3",
+      "current_record_sha256": "c4bfb36bd57b1717a811ad2786b8adb01f0d9788ff483c7ef39b14bea80582dd",
+      "unresolved": [
+        "ABC's releasing or dissolving energies and strength of soul are unexplained source claims; no mechanism is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/neptune-zeus-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-054.jsonl",
+      "original_record_line": 43,
+      "before_source_section_sha256": "1cf8a049ee5c2f174d99f074df54b89b8f6566848ca03daf7e99620bcc162e20",
+      "final_source_section_sha256": "eb1f67fc23fb1e158714a498e90dc65e583905b75b49804e9cc7d0419e025d22",
+      "final_page_sha256": "d021136df3f08a5cd82fdeaf2b141ff6adb44d0ea23ce5bd24f3438376a53a2d",
+      "current_record_sha256": "dbe0838c37f6711aed77eff04692ed84d4e9464c8a678a2343a9879c8b836e1e",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/node-admetos-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-055.jsonl",
+      "original_record_line": 7,
+      "before_source_section_sha256": "9e663feafc8b3b1dad3d7ec77cd7255dd6eda998aab28dbaf0821ed5b5e19257",
+      "final_source_section_sha256": "90d74fb56c17d6d4577882d2bc98eec5e2bc28aabd5fd08bab7ec4f678830367",
+      "final_page_sha256": "b841ac9a4979650548fa13c88cc6f997954c87b3ab2e43f7fa5985cdd3ffacb6",
+      "current_record_sha256": "d9bc5d16f4ac9326998bf322d1b22ceec3c5808a79cb1b77ee87f627273e37c9",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/node-admetos-equals-saturn.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-055.jsonl",
+      "original_record_line": 11,
+      "before_source_section_sha256": "5a7753b5af64eecfe084f630e80cafd727490052fecb44ba2de54d1cb27df2f6",
+      "final_source_section_sha256": "232f102dca38a964e4bf47271a45dd02e09c4884dcd9581f9a5fb9b91eefcf1c",
+      "final_page_sha256": "a4e47b0277acc530e1333b8279e5ab9f1b7ce4c3d701bd11dc471cd93bfdf975",
+      "current_record_sha256": "a50b4a53fb94faa5374039fda5a26bd1d5846f27114947dd39ddea782d5100c5",
+      "unresolved": [
+        "The entry's Depressionen wording is retained without assigning it a clinical or economic sense."
+      ]
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 36,
+      "before_source_section_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+      "final_source_section_sha256": "195926486a83a9cdc215837bd0db7fd783d1c3aaf15ccf7abc02974a11ddfdd2",
+      "final_page_sha256": "c60f7d90421266d08d2f905a8c6d0048e6cc45ad56a6186a5cb7b229a42819db",
+      "current_record_sha256": "95017b16839b10bf9b45c1157c2fc965631c551e70896088244fc615bba83b13",
+      "unresolved": [
+        "ABC Verneinung einer kriminellen Verbindung does not specify denial versus rejection of the connection; the translation retains negation and no legal action or finding is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-mars.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 52,
+      "before_source_section_sha256": "c597770b0167022e9fb50057af2259c67343181d4e1ba8066c98a07acc35362e",
+      "final_source_section_sha256": "107833aadda0bf93de1de4cde71ff7553dd5fd2938c2428255b028b5da63859e",
+      "final_page_sha256": "8144bbff73ae9bbec4ac7e949147abc537b9d14efcad9c5eee1bea9f9f83832b",
+      "current_record_sha256": "45e0d25b2be4fd8efcce907c1d914a6cc4c4a8834682b884e77d7b67f11b3b5b",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-059.jsonl",
+      "original_record_line": 14,
+      "before_source_section_sha256": "59c0a37cdf56006edbbc418648c7d061e09b57c591bb090e76d356637735134e",
+      "final_source_section_sha256": "6456b760f78df217c43c1e562f01d70da71fab2ecc2f40091f0e0f7fcb2ccfb2",
+      "final_page_sha256": "8a9bb11d85faadeeab6b096ac58fd75ba7e846f14a72352e99d9c264539db7fa",
+      "current_record_sha256": "4a31d64d14d35c68f716bc2a4afe709b6be2c95553351811297b622b5bb434b7",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-059.jsonl",
+      "original_record_line": 15,
+      "before_source_section_sha256": "ee485e83c652ce0d13119cf7a4fa7fc523e98451adc34b3276b6d46593a2edf6",
+      "final_source_section_sha256": "1407e8bfd6b95528fabfc622c4ef646e136e04460da61d84c48e0e15e140dfd3",
+      "final_page_sha256": "0482ec09a19750efce0894fd7586cbd927dd5133be91328c84aa30d660a9f1c5",
+      "current_record_sha256": "da88c1edcff1a4654c30ff2da97b85787bdb7efee85b729411fad7299a16b3ad",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-hades.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-060.jsonl",
+      "original_record_line": 16,
+      "before_source_section_sha256": "c0ab825f8c1338f241c55355a4e7f9f4ccfe587b9d4fdf564b13bf8490841496",
+      "final_source_section_sha256": "fee364c72ffa9df8ede3d60334fab469cdae2ecedb8d41fa733045ec45fa6f02",
+      "final_page_sha256": "17b9cdba1c6199444ba87d0e7dd632cf6760c9d851f61f2a58606104d3b98b7f",
+      "current_record_sha256": "8fa4a9381d79b9da2ce492d0444a7bf4bacfaf0d65313e91691b21a7cac85883",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-062.jsonl",
+      "original_record_line": 41,
+      "before_source_section_sha256": "f6513e38aa88f24f0885a277089c989d184ac63909dfc23a0fe28637185dda83",
+      "final_source_section_sha256": "15082b53e0851b946ee751012e2f57dccb4439dbf32a75d0d64ba9bb3d9eff93",
+      "final_page_sha256": "d621103bbe3f38915dbb889035b34e9d73c6c6a9b1e56b0b42e0abd3c02b96ee",
+      "current_record_sha256": "693ae3e4d2724b17c121be7e7ee80be011f77ce8011e80ff2a64836653a6fb7f",
+      "unresolved": [
+        "Actual Witte one-based PDF264, printed268, genuinely prints metal (psychic). The intended word is uncertain; it is preserved without an inferred metallic meaning or silent correction."
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-uranus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-066.jsonl",
+      "original_record_line": 1,
+      "before_source_section_sha256": "afa47e5c3962881819ed7db9f2309e61b475affa3eaacbd435f8100fe8390fae",
+      "final_source_section_sha256": "b07fa0cf31d65a7dc85fad984e843716f0591399ad8879ad9ef52ac0a44208ae",
+      "final_page_sha256": "9d8215d01a3f403e6c173fac91e2a2af009f6a131bec2fc3765bcf149b06024f",
+      "current_record_sha256": "2ff00dfbead31b547bc4e33903eda249783d54cd0538fc28d7da4005f0631d70",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/saturn-kronos-equals-venus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-066.jsonl",
+      "original_record_line": 23,
+      "before_source_section_sha256": "5706a1a74bfc23b51c2307561282168566fe375c424aa6ced80256e758722d54",
+      "final_source_section_sha256": "b1810795c4eff1660e57058d1a14fc73fbd9909fcf004b35b9c5eae5d43be262",
+      "final_page_sha256": "292b65cb47c3e55d064d3c538f510c159277a2b004b0c8b027f21b604360dd6f",
+      "current_record_sha256": "ee7839cd89cd87976ebe507983031f9c347a3a942bef32bcaf4049dc5c3475d8",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/saturn-mc-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-066.jsonl",
+      "original_record_line": 43,
+      "before_source_section_sha256": "31d896ee64688f43e8900ab828dc577c497f482c9ca30d667d6a144c3c10e2fe",
+      "final_source_section_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+      "final_page_sha256": "d5dd93400cf3a841fcecff1151a09dd56a1d8963737d4eb87bcdaf85dae0ec7f",
+      "current_record_sha256": "b549b7a03061703628485430989f737ec9ae2f8f7aa6162f74596e2d71467f27",
+      "unresolved": []
+    }
+  ],
+  "receipt": "source-closure-B045-066-decisions.jsonl",
+  "inspection_scope": "Completed source-specific raw checks by B2 reused explicitly. This author personally viewed actual Witte264 for the single new metal-word qualification; no duplicate whole-page or raw-book review claimed."
+}

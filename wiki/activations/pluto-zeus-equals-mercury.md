@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Mercury`
 - Astronomicon formula: `Z/£ = T`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 To be at work with one’s thoughts. To direct one’s thoughts to one goal.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful traffic development, reports on creative developments, youth development design, creative development language, beginning developments talk, opinions on filthy change, and changing media objectives
+- Source page: 412 (printed); PDF page: 205.
+
+Demanding transport development, reports on creative developments, shaping developments of youth, creative development conversations, talking about beginning developments, opinions on changes of leadership, changing media goals.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Goal-directed thinking and communication about development.
+- Psychology: Putting one's thoughts to work and directing them toward one goal.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Media, youth development, and conversations about emerging developments.
+- Events/manifestations: Reports on creative developments and opinions on leadership changes.
+- Conflicts/notes: Witte centers on thought; ABC broadens the communication and transport settings.
+
+## Contradictions
+
+Witte centers on thought; ABC broadens the communication and transport settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Mercury`: to be at work with one’s thoughts; To direct one’s thoughts to one goal.
-- Practical expression: effortful traffic development, reports on creative developments, youth development design, creative development language, and beginning developments talk.
+In `Pluto/Zeus = Mercury`, Mercury specifies the pair through work performed in thought and directed toward a goal in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) extends that focus into reports, creative conversations, opinions about leadership changes, and changing media goals. Transport and youth development are additional settings, not evidence that every act of concentrated thought concerns them.
 
 ## Links
 

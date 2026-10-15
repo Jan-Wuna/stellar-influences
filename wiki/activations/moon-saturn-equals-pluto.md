@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Pluto`
 - Astronomicon formula: `R/W = Z`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Slowing up of the glandular action. Transition period to old age. For women, the age of the menopause. Colorful evening hours. Separation after a short acquaintance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `185`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Developments, different women's problems, lossful development of a people, growing tasks for women, and changes through separation from women
+Development in the evening hours, emotional changes through pain, disturbed development of feelings, changed women's problems, loss-laden development of a people, growing tasks for a woman, and transformations through separation from a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0382`.
 
 #### Ebertin Entry
 
 The necessity to rely only upon oneself, inclination or necessity to rise in life by using force and to go one's way alone. Organic suffering in conjunction with strong feelings of depression. Separation from the wife or mother.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `32` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Increased feelings of frustration due to delays and barriers which you encounter
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: intense engagement with difficult feelings, change, barriers, and self-reliance.
+- psychology: fear during major change, frustration, emotional control, and the urge to transform hard feelings are named.
+- body/health: Witte's glandular and menopause claims and Ebertin's organic suffering remain historical associations.
+- social/relationship: separation from wife or mother and withdrawal of family support are examples.
+- events/manifestations: delays, loss-laden development, growing tasks, and evening changes are listed.
+- conflicts/notes: taking feelings seriously may aid transformation; the entries do not guarantee resilient or successful outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's possibility of transforming difficult feelings sits alongside accounts of frustration, separation, and loss of support. These are differing possibilities, not evidence that adversity necessarily produces strength.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Pluto`: formidable resilience, emotional toughness, and the capacity to survive profound strain without collapse. Main caution: hardening through pressure: feeling can become controlling, punitive, or too compressed to move or heal.
+In Moon/Saturn = Pluto, Pluto specifies the pair through pressure to confront and change difficult feelings. [Sandbach](#sandbach-entry) describes a relentless wish to reach those feelings and notes that major changes can provoke fear. [Munkasey](#munkasey-entry) adds frustration at delays, withdrawal of support, and strong desires to control emotions (p. 120); [Ebertin](#ebertin-entry) stresses enforced self-reliance and separation.
+
+[ABC](#abc-entry) gives emotional change through pain and growing tasks alongside loss-laden development (printed p. 185, PDF p. 91). The [Witte entry](#witte-entry) preserves glandular and menopause associations as historical doctrine. The shared emotional intensity does not establish those bodily conditions or guarantee that the pressure will be mastered.
 
 ## Links
 

@@ -1,0 +1,387 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "current_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "cece6a2e0a070fdc005cc36431d77cceaaaf58d1c99f40ee924546f3bd0d32d9",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n<!> Sudden action. Injury.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source reference: one-based PDF p. 42, Uranus row under `Aries + Mars`.\n\nSudden action. Injury.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. 33; one-based PDF p. 15, complete Uranus row.\n\nGerman passage transcribed from the scan:\n\n> Aufregende Aktionen in der Öffentlichkeit, erregter öffentlicher Wille, neue Impulse für die Öffentlichkeit, Reform-Schaffen im öffentlichen Leben, Spannungs-Handlungen in der Öffentlichkeit, technische Tätigkeit im öffentlichen Leben\n\nEditorial translation: Exciting actions in public; excited public will; new impulses for the public; reform work in public life; actions under tension in public; technical activity in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "ABC English is only bullet characters; former synthesis invented conflict and a haste-to-injury cause."
+        ],
+        "changes": [
+          "Initial editorial review: Restricted explanation to sudden action and attributed injury; documented unreadable ABC and limits; added schema, navigation and source links.",
+          "Targeted source repair by /root/factor_source_repairs: Restored six public-action/reform/technical ABC clauses; removed the nonprose <!> artifact from Witte after actual glyph-row inspection.",
+          "Reconciled dependent Comparative Schema, Contradictions and Derived Synthesis with the complete exact-oriented row; removed obsolete damaged-source exclusions."
+        ],
+        "verification": [
+          "Initial editorial review: Read complete page including bullet-only source and manifest; checked native evidence locator without claiming scan inspection; checked Uranus orientation and adjacent anchor.",
+          "Targeted follow-up: read the complete current page, full original review record, manifest and native evidence; personally viewed the actual immutable raw scan including row glyph, complete clauses and printed folio.",
+          "Read the complete saved revised page and compared actual Source Entries delta to the captured initial source; retained all other source prose, source-native headings, full canonical frontmatter and existing Links.",
+          "Checked all six schema categories, every local synthesis citation and immediately adjacent derived-synthesis anchor; no orientation transfer or new timing layer."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "Initial editorial review, before targeted source repair: #witte-entry: PDF 42 entry_start; Sudden action. Injury.",
+          "Initial editorial review, before targeted source repair: #abc-entry: printed 33, PDF 15; damaged English excluded"
+        ],
+        "resolved_source_issues": [
+          "Entire ABC English entry is bullet characters; native OCR begins ~ufregende Aktionen and needs scan-backed translation repair."
+        ],
+        "source_repair": {
+          "reviewer": "/root/factor_source_repairs",
+          "raw_source": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 33,
+          "pdf_page_one_based": 15,
+          "row": "Uranus",
+          "complete_clause_count": 6,
+          "original_abc_body": "• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •\n\n<a id=\"derived-synthesis\"></a>",
+          "corrected_german_quote": "Aufregende Aktionen in der Öffentlichkeit, erregter öffentlicher Wille, neue Impulse für die Öffentlichkeit, Reform-Schaffen im öffentlichen Leben, Spannungs-Handlungen in der Öffentlichkeit, technische Tätigkeit im öffentlichen Leben",
+          "editorial_translation": "Exciting actions in public; excited public will; new impulses for the public; reform work in public life; actions under tension in public; technical activity in public life.",
+          "source_before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+          "source_after_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png"
+          ],
+          "scope_limit": "Only the changed ABC row and specifically listed additional locator/artifact repairs were newly raw-verified; retained inherited prose elsewhere was read for editorial consistency, not newly certified as an independent source edition."
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 4,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-mars-uranus.md",
+            "text": "Vernal Point/Mars = Uranus retains damaged ABC English that is not used to extend the Witte entry. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mars-uranus.md",
+            "text": "Vernal Point/Mars = Uranus retains damaged ABC English that is not used to extend the Witte entry.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+        "page_sha256": "dd4c95df0342a5ffc0326c9db3712662f34369540da9c69ac2cc1a427878b471",
+        "reason": "Current complete source/dependent prose and full original owning record read. The previous actual raw certification expressly checked this exact old flag and repaired glyph-row boundary; current source hash equals that precise approved hash. This reuses claim-specific actual inspection, not bank membership or old locator-only scope. No canonical, original record or proof redo.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+          "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+          "after_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+          "ledger": "activations-095.jsonl",
+          "reason": "Read full baseline/current Source Entries and full final amended unique095 record, reread after owner explicitly labeled inherited evidence as initial pre-repair history. Actual ABC15/printed33 complete Uranus six-clause German quote/translation and Witte42 full glyph row/text/scans personally checked. Public action, new impulses, reform and technical activity all match; Witte duplicate Uranus-glyph extraction artifact is removed correctly. Both added exact references match. Prior stale-evidence hold resolved by saved amended record and independent reread.",
+          "evidence": [
+            "verification/source-repair-review-targeted-eleven-abc-pdf015.png",
+            "verification/source-repair-review-targeted-eleven-witte-pdf042.png"
+          ],
+          "verified_by": "/root/activation_review_010_012"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-targeted-twelve-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected actual WittePDF42 complete Uranus row and actualABC printed33/PDF15 all six German/English clauses and both exact references. Removed Witte glyph artifact and recovered public action/reform/technical wording are correct. Preserved prior independent010 verifier provenance; old hub damage flag is stale.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png"
+        ],
+        "limits": []
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "before_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "current_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 28,
+      "ledger_record_sha256": "436aa1c34d6cf0492b938cdd5aadad9c0c2298040e9f19298cec643794f62771",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nStanding manner of speech.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlockage of public opinion, blocked media in public, restriction of youth in public life, speech restrictions in public life, and news blockade for the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nStanding manner of speech.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlockage of public opinion, blocked media in public, restriction of youth in public life, speech restrictions in public life, and news blockade for the public",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Terse Witte wording and explicit ABC restrictions needed differentiated treatment."
+        ],
+        "changes": [
+          "Explained blocked public communication from ABC; retained Witte wording without equating it to censorship; added schema and source links."
+        ],
+        "verification": [
+          "Full page and manifest read; native Blockade/Einschrankung compared; actual diff inspected; Mercury pair / Admetos activation and anchor checked.",
+          "Targeted D095–103 closure: personally viewed actual Witte PDF40 entire Admetos glyph row and boundaries; Standing manner of speech is printed exactly. Existing interpretation correctly declines to expand this terse wording into censorship."
+        ],
+        "unresolved": [
+          "Witte PDF40 actually prints Standing manner of speech; its terse wording leaves the mechanism and intended scope unexplained."
+        ],
+        "evidence": [
+          "#witte-entry PDF40 entry_start",
+          "#abc-entry printed29 PDF13; blocked opinions, media, speech, news",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png: exact Admetos row under Aries + Mercury."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "status": "genuine_printed_context_limit",
+          "scope": "Existing flagged Witte phrase only; no source text or page change.",
+          "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+          "pdf_page_one_based": 40,
+          "raw_confirmation": "Standing manner of speech.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png"
+          ],
+          "source_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 28,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "genuine_printed_context_limit",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+            "text": "Witte Standing manner of speech is terse; no expanded meaning asserted.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+        "page_sha256": "7f1d88b9c05b6aa4a2523fe7813102f702bd32fa7390ce4ae99805fbf65ed16a",
+        "reason": "Personally inspected actual Witte PDF40: exact own Admetos row is Standing manner of speech. This is genuine terse wording, not available OCR damage; existing page already scopes it correctly. Original record now confirms printed limitation.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png"
+        ],
+        "unresolved": [
+          "Witte PDF40 actually prints Standing manner of speech; its terse wording leaves the mechanism and intended scope unexplained."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "genuine_source_limit_confirmed_with_proof",
+        "scope": "Personally inspected actual WittePDF40 exact Admetos row: Standing manner of speech is printed literally; terse meaning is unexplained. Current source section is unchanged from original; no artificial allowance.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png"
+        ],
+        "limits": [
+          "Standing manner of speech has no explained mechanism or expansion; unchanged ABC prose is outside this bounded flag certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+      "before_sha256": "40f8a32c904c2cba5b564cd5840295eab660a20eb7455b0802abe7aad9fb6ecd",
+      "current_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "35729831810fe810c556b31b6dbc21ff1c2fe73768643b8831d5b42c0e4a22a8",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nE Changes below the surface. Unnoticeable general transformations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPublic life, unsafe developments in public life, increased sensitivity in public life, and future developments in public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 46 (one-based).\n\nChanges below the surface. Unnoticeable general transformations.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 41; PDF page: 19 (one-based spread).\n\nChange of air in public, weak public development, unclear transformations in public life, uncertain public developments, growing fine sensitivity in public life, and future developments in public life",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: E Changes below the surface. Unnoticeable general transformations. Corrected: Changes below the surface. Unnoticeable general transformations.",
+          "Scan-backed ABC repair. Original: Public life, unsafe developments in public life, increased sensitivity in public life, and future developments in public life Corrected: Change of air in public, weak public development, unclear transformations in public life, uncertain public developments, growing fine sensitivity in public life, and future developments in public life"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-096-witte-pdf46.png",
+            "passage": "wiki/activations/vernal-point-neptune-equals-pluto.md#witte-entry",
+            "reference": "PDF46",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf19.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-neptune-equals-pluto.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-096.jsonl",
+        "ledger_line": 25,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-neptune-pluto.md",
+            "text": "wiki/activations/vernal-point-neptune-equals-pluto.md, Witte Entry begins 'E Changes below the surface.' The initial 'E' is a suspected layout/OCR residue requiring source verification; no repair was inferred.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+        "page_sha256": "85ac98dc4c90fc50d4a1e5ba7b3c8d841ab129b6bb113b1775c029dc204757b1",
+        "reason": "Current complete source/dependent prose and full original owning record read. The previous actual raw certification expressly checked this exact old flag and repaired glyph-row boundary; current source hash equals that precise approved hash. This reuses claim-specific actual inspection, not bank membership or old locator-only scope. No canonical, original record or proof redo.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+          "before_sha256": "40f8a32c904c2cba5b564cd5840295eab660a20eb7455b0802abe7aad9fb6ecd",
+          "after_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+          "ledger": "activations-096.jsonl",
+          "reason": "Read full baseline/current Source Entries delta and unique owning repair record. Personally viewed actual Witte PDF46: exact activating glyph, entire corresponding paragraph, neighboring boundaries and added PDF locator match. Personally viewed actual ABC printed41/PDF19: complete German own-glyph paragraph and printed/PDF numbering checked against all current English clauses, including any scan-backed wording repair. Checked ABC paragraph begins 'Change of air in public, weak public development, unclear transfo' and ends 'ine sensitivity in public life, and future developments in public life'. Approval binds this exact source delta; unchanged inherited wording retains source-specific ambiguity, grammar and attribution rather than gaining independent doctrinal authority.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf46.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf19.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected actual WittePDF46 full Pluto glyph row and ABC printed41/PDF19 all six clauses. Initial E was an alternative Pluto glyph, not prose; six English clauses and all added references match raw. Prior factor_source certification and provenance preserved; old residue flag is stale.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-096-witte-pdf46.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf19.png"
+        ],
+        "limits": [
+          "Future development is source wording; no timing layer inferred."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+      "before_sha256": "d95fd1b133612e42b7c946c06baf99a27bed05b447edb99bca63d9f11d63914f",
+      "current_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "ea8ee7e1ec05e3b98659bab1090365e0ba34580dd921464b595739fb96ca8c9c",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nConnections of many people for an ideal purpose. -----\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nKnowledgeful relations with the public, spiritual encounters in the public, spiritual connections with the public Life, clear relations with the public, public culture connections, and freedom of movement for the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 39 (one-based).\n\nConnections of many people for an ideal purpose.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 27; PDF page: 12 (one-based spread).\n\nInsight-rich relationships with the public, intellectual encounters in public, intelligent connections with public life, clear relations with the public, public cultural connections, and conveying truth to the public",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler.",
+          "Independent source inspection identified inherited Witte Entry corruption: Connections of many people for an ideal purpose. -----"
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Knowledgeful relations with the public, spiritual encounters in the public, spiritual connections with the public Life, clear relations with the public, public culture connections, and freedom of movement for the public Corrected: Insight-rich relationships with the public, intellectual encounters in public, intelligent connections with public life, clear relations with the public, public cultural connections, and conveying truth to the public",
+          "Additional scan-backed source repair. Original: Connections of many people for an ideal purpose. ----- Corrected: Connections of many people for an ideal purpose."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally viewed the full exact glyph row in source-repair-review-vernal-witte-pdf39.png and checked the bounded source and dependent-schema delta; amended this original record without duplicating coverage."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-node-equals-poseidon.md#witte-entry",
+            "reference": "- PDF page: 39 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-node-equals-poseidon.md#abc-entry",
+            "reference": "- Source page: 27; PDF page: 12 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf12.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-node-equals-poseidon.md#abc-entry"
+          },
+          {
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+            "reference": "PDF page 39 (one-based)",
+            "passage": "wiki/activations/vernal-point-node-equals-poseidon.md#witte-entry",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-096.jsonl",
+        "ledger_line": 46,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-node-poseidon.md",
+            "text": "wiki/activations/vernal-point-node-equals-poseidon.md, Witte Entry ends 'Connections of many people for an ideal purpose. -----'. The dash sequence is unresolved; the hub no longer copies it into a delineation.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+        "page_sha256": "acaf5eaa8d7928717520db5a581e25b1bec970e67ca938731118db05e5764c03",
+        "reason": "Current complete source/dependent prose and full original owning record read. The previous actual raw certification expressly checked this exact old flag and repaired glyph-row boundary; current source hash equals that precise approved hash. This reuses claim-specific actual inspection, not bank membership or old locator-only scope. No canonical, original record or proof redo.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+          "before_sha256": "d95fd1b133612e42b7c946c06baf99a27bed05b447edb99bca63d9f11d63914f",
+          "after_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+          "ledger": "activations-096.jsonl",
+          "reason": "Read complete original/current source delta and unique existing owner record, then freshly read final owner repair and dependent schema. Personally viewed Witte PDF39: entire own-glyph paragraph, boundaries and PDF locator match; nonsource trailing separators are absent from raw and removed where applicable. Personally viewed ABC printed27/PDF12: complete own-glyph German paragraph, all English clauses and both locators match; repaired public-life or many-connections clauses are directly visible where applicable. ABC begins 'Insight-rich relationships with the public, intellectual encounte' and ends 'public, public cultural connections, and conveying truth to the public'. Final hash binds only this exact bounded source delta; unchanged inherited wording and unexplained source examples retain their source-specific limits.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf12.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected actual WittePDF39 complete Poseidon row: ideal-purpose sentence ends at its full stop with no dash tail. ActualABC printed27/PDF12 six clauses and exact references match, including conveying truth to the public. Prior factor_source certification preserved; old dash-tail flag is stale.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-096-udo-pdf12.png"
+        ],
+        "limits": []
+      }
+    }
+  ]
+}

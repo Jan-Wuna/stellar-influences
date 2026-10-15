@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Moon`
 - Astronomicon formula: `T/Y = R`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Person gifted with much imagination. Given to lying. Hours of uncertain news, thoughts or messages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Thought weakness of a woman, subtle thoughts of the woman, speech about the weak of the woman, young woman in the water, opinions in the people about metaphysics, language of a foreign Y olkes, sensitive woman in the speech, and unsettled youth of a Y olkes
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Gedanken-Schwäche einer Frau, feinfühlende Gedanken der Frau, Gespräche über die Schwäche der Frau, junge Frau im Wasser, Meinungen im Volk über Metaphysik, Sprache eines fremden Volkes, sensible Frau im Gespräch, verunsicherte Jugend eines Volkes
+
+Editorial translation from the German passage: A woman's weakness of thought; a woman's sensitive thoughts; conversations about a woman's weakness; a young woman in water; opinions among the people about metaphysics; the language of a foreign people; a sensitive woman in conversation; unsettled youth of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `161`; entry code: `0520`.
 
 #### Ebertin Entry
 
 Pictures and ideas emerging from the subconscious mind, receptivity, a sympathetic understanding of other souls. An impressionable mind, a misguided imagination. A deceived or deceptive woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Increased sensitivity to thoughts or ideas about how the mystical or spiritual r
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Receptive imagination and susceptibility to subtle impressions.
+- psychology: Subconscious imagery and sympathy coexist with misguided fantasy, confusion and impressionability.
+- body/health: ABC's weakness language remains attributed; no medical diagnosis is established.
+- social/relationship: Sharing fantasies and understanding others coexist with Ebertin's deceived or deceptive woman.
+- events/manifestations: Uncertain messages, foreign language and conversations about metaphysics are examples.
+- conflicts/notes: Receptivity is not a guarantee that impressions or messages are true.
 
 ## Contradictions
 
-- None recorded yet.
+The sources agree on imagination and receptivity, but Witte and Ebertin explicitly include lying or deception. Sandbach's subtle communication and Munkasey's channeling remain attributed claims alongside confusion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Moon`: poetic memory, subtle receptivity, and the ability to sense and verbalize emotional undercurrents delicately. Main caution: mental-emotional blur: mood and suggestion can overtake fact, making thought and communication less stable.
+In `Mercury/Neptune = Moon`, Moon specifies the axis through receptive imagination: images rise from the subconscious, subtle communications make an impression, and fantasy becomes an emotional need. This can support sympathetic understanding and sharing an inner world. The same receptivity leaves thought open to misguided imagination, uncertain messages and deception; it does not establish poetic memory or accurate psychic knowledge ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). ABC's sensitive woman, foreign language and metaphysical conversations add separate social examples ([ABC](#abc-entry)).
 
 ## Links
 

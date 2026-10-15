@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Pluto`
 - Astronomicon formula: `Y/Asc = Z`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
-P Underhanded tricks and fraud which are not noticed. To give something up because one was misled by others. To be outwitted.
+Underhanded tricks and fraud which are not noticed. To give something up because one was misled by others. To be outwitted.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-changes on the ground, weak development of the other, uncertain development with the partner, growing uncertainty in the environment, and growing place by the water
+Dissolution of a partner-development, disappointing partner-development, gradual changes at the location, weak unfolding of the other person, uncertain development with the partner, growing uncertainty in the surroundings, and growing place by the water
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `288`, entry code `1031`.
 
 #### Ebertin Entry
 
 Depression caused by one's environment. Suffering harm or damage through deceit, libel or malice coming from other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To feel pressured by being confused about who one is. The need to see one’s ow
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Creating plans for evolving and selling schemes of power; using pressure when se
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: concealed deception, pressure, and uncertain development involving other people.
+- psychology: confusion about identity may create pressure; identifying with ideal aspects is Sandbach's constructive possibility.
+- body/health: Ebertin's environment-related depression is an attributed historical claim, not a diagnosis.
+- social/relationship: being outwitted and pressuring others through sales or underhanded transactions are distinct source roles.
+- events/manifestations: giving something up after being misled, libel or damage, and disappointing partner-development are explicit.
+- conflicts/notes: a subtle or transformative contact is not necessarily beneficial; neither victimhood nor manipulation is universal.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, Ebertin, and Munkasey emphasize harm or manipulation; Sandbach also permits profound change through a different self-identification. The constructive claim does not erase the specific deception examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Pluto`: penetrating sensitivity, transformative contact, and the ability to affect others through subtle but concentrated force. Main caution: manipulative fog: self-presentation can become obsessive, coercive, or entangled in secrecy and projection.
+In Neptune/Asc = Pluto, Pluto specifies the pair through pressure and uncertain development involving others, including concealed deception. [Witte](#witte-entry) describes being outwitted; [Ebertin](#ebertin-entry) describes harm from others; and [ABC](#abc-entry) adds disappointing partner-development and growing uncertainty (printed p. 119, PDF p. 58). [Munkasey](#munkasey-entry) also places the person in the role of applying sales pressure or using false claims. [Sandbach](#sandbach-entry) offers a distinct possibility of change through spiritual self-identification. These alternatives do not establish a general power to penetrate or transform others.
 
 ## Links
 

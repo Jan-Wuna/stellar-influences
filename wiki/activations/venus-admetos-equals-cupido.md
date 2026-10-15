@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Cupido`
 - Astronomicon formula: `Q/¦ = ¡`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Contentment in a small family circle. Artists who are not striving for seeming approval or to whom if is denied respectively.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Depression through love criminality, limitations through love cummers, end of a dangerous love, profound renunciation of love, deepening of an old love, deepening into the arts of the past, and deepening fondness for the past
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+A restricted community of peace, the end of a harmonious community, consolidation of the feminine principle in the community, consolidation of a community through art, consolidation of a community of love, and a shared love of thoroughness.
+
+## Comparative Schema
+
+- Core meaning: A small community consolidated or ended.
+- Psychology: Contentment and shared thoroughness.
+- Body/health: No specific health claim.
+- Social/relationship: Family circle and community of love.
+- Events/manifestations: Art consolidates community; public approval may be absent.
+- Conflicts/notes: Witte's artist wording and ABC's feminine principle remain historical source language.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's artist wording and ABC's feminine principle remain historical source language.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Cupido`: contentment in a small family circle.
-- Practical expression: depression through love criminality, limitations through love cummers, end of a dangerous love, profound renunciation of love, and deepening of an old love.
+Cupido specifies Venus/Admetos through the limits and solidity of a shared circle. Contentment in a small family and consolidation through art stand beside restriction or the end of a harmonious community. Witte also includes artists who do not seek, or are denied, outward approval. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

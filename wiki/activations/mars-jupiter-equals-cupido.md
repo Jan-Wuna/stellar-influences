@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Cupido](../triads/mars-jupiter-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,24 @@ Betrothal with marriage following. Happy activity which leads to joining acts. S
 
 money trade of a community, successful work community, successful cooperation, shared joy in work, shared legal activity, advantageous actions of a community, and synthesis of good will
 
+## Comparative Schema
+
+- core meaning: Successful activity takes a shared, communal or artistic form.
+- psychology: Shared joy in work and the synthesis of good will are ABC themes.
+- body/health: No bodily condition is stated.
+- social/relationship: Betrothal followed by marriage and successful cooperation are explicit.
+- events/manifestations: Artistic success and shared financial or legal activity are named.
+- conflicts/notes: Favorable examples are source claims; they do not guarantee every group undertaking or betrothal succeeds.
+
+## Contradictions
+
+The entries share favorable cooperative examples, with Witte emphasizing union and art and ABC adding financial and legal work.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Jupiter = Cupido` brings fortunate action into union, shared undertaking, and artistic or communal fulfillment.
-- Chart expression: happy activity leading toward engagement, marriage, joining with others, or successful creative work carried out in partnership or group form.
+Cupido specifies the Mars/Jupiter axis through success and enjoyment in shared activity. Happy action leading to union and artistic success in [Witte](#witte-entry) connect with successful cooperation, shared work enjoyment and financial or legal community activity in [ABC](#abc-entry). Betrothal followed by marriage is one concrete source example within this wider cooperative range.
+
+Evidence: Witte PDF p. 192; ABC printed p. 299, PDF p. 148.
 
 ## Links
 

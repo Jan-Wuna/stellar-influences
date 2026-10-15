@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Admetos Poseidon`
 - Astronomicon triad-set: `T ¦ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Mercury](../activations/admetos-poseidon-equals-mercury.md)
-- [Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md)
-- [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md)
+- [Admetos/Poseidon = Mercury](../activations/admetos-poseidon-equals-mercury.md): base axis [Admetos/Poseidon](../axes/admetos-poseidon.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md): base axis [Mercury/Admetos](../axes/mercury-admetos.md); activator [Poseidon](../factors/poseidon.md).
+- [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md): base axis [Mercury/Poseidon](../axes/mercury-poseidon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `476`
-- `Mercury/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `265`
-- `Mercury/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
-- `Mercury/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `269`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Poseidon = Mercury](../activations/admetos-poseidon-equals-mercury.md#witte-entry) (PDF entry-start p. 312); [Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md#witte-entry) (PDF entry-start p. 171); [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md#witte-entry) (PDF entry-start p. 173).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Poseidon = Mercury](../activations/admetos-poseidon-equals-mercury.md#abc-entry) (printed p. 476); [Mercury/Admetos = Poseidon](../activations/mercury-admetos-equals-poseidon.md#abc-entry) (printed p. 265); [Mercury/Poseidon = Admetos](../activations/mercury-poseidon-equals-admetos.md#abc-entry) (printed p. 269).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Mercury`: serious reflection on education, subtle matters, and refined ideas, often under conditions where thought meets resistance.
-- `Mercury/Admetos = Poseidon`: purifies the axis toward spiritual and mental concentration.
-- `Mercury/Poseidon = Admetos`: Ideas which are understood only by few people. To create enemies through one's ideas.
+Mercury, Admetos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Mercury/Poseidon](../axes/mercury-poseidon.md)
 - [Mercury](../factors/mercury.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)

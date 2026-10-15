@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Node Cupido Kronos](../triads/node-cupido-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To go to the marriage official. Distinguished social connection. To mix socially
 
 #### ABC Entry
 
-Special links with the authorities, relations with self defense communities, dominance of an artist community, common ties with the state, links with a leading community, and important links with the whole
+- Source passage: `Mondknoten + Cupido`; printed p. `225`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Special connections to authorities, relationships with independent communities, dominance of an artists' community, shared connections with the state, connections to a leading community, important connections to the whole.
+
+## Comparative Schema
+
+- core meaning: Community connections involving officials, authority, or social distinction.
+- psychology: No separate motive or psychological disposition is stated.
+- body/health: No bodily or health condition is described.
+- social/relationship: Distinguished associates, superiors, and links with state or leading communities.
+- events/manifestations: Visiting a marriage official; official or prominent group contacts.
+- conflicts/notes: ABC names independent communities, rather than self-defense communities. Authority, artistic-community dominance and links with the state are distinct examples; independence alone does not imply a defensive organization.
+
+## Contradictions
+
+The official and distinguished-contact themes overlap, while ABC separately includes independent communities and dominance within an artists' community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Kronos`: To go to the marriage official. Distinguished social connection. To mix socially with high minded persons or superiors.
-- Practical focus: to go to the marriage official; also distinguished social connection.
+Kronos specifies Node/Cupido through community ties with officials or people of standing. Visiting a marriage official and socializing with superiors are concrete examples in the [Witte entry](#witte-entry); the [ABC entry](#abc-entry) adds links with authorities, independent communities, the state and leading communities. These entries concern the standing or official character of the connection, without establishing the quality of every influential association.
 
 ## Links
 

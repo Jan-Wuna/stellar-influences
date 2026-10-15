@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `74`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ The mental horizon. One’s own life experiences. To be a scientist, merchant or
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `92`; PDF page: `45` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-My success, my peace, my business, my knowledge, my expansion, my freedom, my experience, psychic experience, psychic freedom, psychic vastness, and many souls
+German pair summary (transcribed from printed page `92`; PDF page `45`):
+
+> Mein Erfolg, mein Frieden, mein Gewerbe, mein Wissen, meine Ausdehnung, meine Freiheit, meine Erfahrung, seelische Erfahrung, seelische Freiheit, seelische Weite, viele Seelen, Wissenschaft von der Seele
+
+Editorial translation from the German passage: My success, my peace, my trade or industry, my knowledge, my expansion, my freedom, my experience, psychological or soul experience, psychological or soul freedom, psychological or soul breadth, many souls, study of the soul.
+
+## Comparative Schema
+
+- core meaning: A broad personal horizon formed through knowledge, experience, and expansion ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Open-mindedness, generosity, peacefulness, and a sense of inner richness ([pair summary](#pair-summary)).
+- body/health: Neither summary provides a specific bodily or medical correspondence.
+- social/relationship: A magnanimous disposition and participation in science, commerce, or trade are explicit; no intimate relationship pattern is developed ([pair summary](#pair-summary)).
+- events/manifestations: Learning from life, scientific or commercial pursuits, and personal success are named possibilities ([pair summary](#pair-summary)).
+- conflicts/notes: Freedom and breadth in ABC extend the personal-horizon theme. The final study-of-the-soul clause is explicit, without identifying one discipline, method or mechanism; success remains a possibility rather than a guarantee.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ My success, my peace, my business, my knowledge, my expansion, my freedom, my ex
 - [MC/Apollon = Vulcanus](../activations/mc-apollon-equals-vulcanus.md)
 - [MC/Apollon = Zeus](../activations/mc-apollon-equals-zeus.md)
 
+## Contradictions
+
+No opposing assertion appears in these brief summaries. Their success and freedom language describes possibilities rather than assured outcomes. The ABC source extract includes an OCR-damaged closing phrase after `many souls` that is absent from the English summary; it has not been reconstructed here.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon` is the axis of broad personal horizon, successful life experience, science, commerce, peace, and magnanimous expansion of the self.
-- Chart expression: an open-minded life direction, intellectual and commercial growth, generous outlook, psychic or experiential wealth, and the ability to widen one's public role through knowledge, trade, success, or cultured understanding.
+`MC/Apollon` concerns widening one's personal horizon through knowledge and life experience. Intellectual breadth and inner richness connect with a peaceful, generous outlook; science, commerce, and trade are named settings in which that breadth may operate. The [pair summary](#pair-summary) joins these themes to success, while the [ABC summary](#abc-pair-summary) emphasizes freedom, experience, and expansion. Together they support an open and expansive personal orientation in which learning and lived experience enrich one's outlook.
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Uranus Asc](../triads/sun-uranus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ Excitements or sudden events caused by others. Sudden encounters with acquaintan
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `152`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
-Other subjects are active, dynamic people in the environment, events in the local centre, new subjects in the surrounding area, personal impulses by partners, day of environmental reform, technical centre in the local area, and restless person in the surrounding area
+Other people are excited, dynamic people in the surroundings, events in the local center, new people in the surroundings, personal impulses through partners, a day of reform in the environment, a local technical center, and a restless person in the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `97`, PDF p. `99`, entry `0264` (raw scan checked).
 
 #### Ebertin Entry
 
 A person easily excitable. Sudden experiences, new associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source locator: PDF p. `18` (complete Ascendant entry; chapter starts on p. `17`; raw scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ One comes across to others as a vivid personality, and or distinctly original. T
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS with Planets and Points`
-- Source page: `80`
+- Source locator: printed p. `80`, PDF p. `81` (Ascendant entry; raw scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Development of a personal style for which you are identified; mannerisms which s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden encounters and excitement meet a distinctive personal style in contact with others.
+- psychology: Excitability, originality, mannerisms, and repression or acceptance of uniqueness are represented.
+- body/health: Witte lists nearby accidents; no individual medical condition is established.
+- social/relationship: Relationships respecting uniqueness and independence coexist with events caused by others.
+- events/manifestations: New associations, encounters with acquaintances, local reform, and technical centers are named.
+- conflicts/notes: A distinctive style and a need for independent relationships do not themselves establish instability or difficulty sustaining closeness.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Asc`: originality, quick reactions, and a personal style that awakens, surprises, or unsettles others on contact. Main caution: instability: nervous tension or abrupt behavior can make continuity and close relating difficult.
+In `Sun/Uranus = Asc`, Asc specifies sudden events and personal excitation through encounters with people nearby. New associations and unexpected meetings give that immediacy a social setting ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [ABC](#abc-entry), printed p. 152). A vivid or original presence and recognizable mannerisms add the question of how individuality is received: relationships are sought in which uniqueness and independence are respected ([Sandbach](#sandbach-entry), PDF p. 18; [Munkasey](#munkasey-entry), printed p. 80). These expressions include excitement and individual style without proving that close relationships cannot be sustained.
 
 ## Links
 

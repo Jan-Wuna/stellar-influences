@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Sun Pluto Asc](../triads/sun-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Change in the surroundings effects a change in the body. Changes of associates.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 120; PDF page 59.
+
 #### ABC Entry
 
 Other people develop, corporal development at the site, personal development with the partner, alterations of a local centre, alteration of the human environment, Centre for partner Development, and Centre for Environmental Change
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 295, entry 1059.
+
 #### Ebertin Entry
 
 Ruthless conduct with regard to people in one's environment, attainment of respect and esteem through physical prowess and strength.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. `116`, exact complete entry; chapter starts on PDF p. `116`. No printed folio is visible.
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Added determination and effectiveness to efforts to read and study people to kno
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Purposeful personal influence within a changing environment.
+- psychology: Determination and meaningful direction, with possible intimidation or egotism.
+- body/health: Witte links environmental change to bodily change; Ebertin mentions physical strength.
+- social/relationship: Motivating others, changing associates, or acting ruthlessly.
+- events/manifestations: Efforts to replace harmful practices and alter one's social surroundings.
+- conflicts/notes: Constructive authority and overpowering conduct are alternative expressions.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's opposition to injustice and Ebertin's ruthlessness differ ethically; the entries do not justify treating all powerful influence as abusive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Sun`: commanding presence, deep self-redefinition, and the ability to radiate conviction under pressure. Main caution: egoic domination: vitality and self-expression can become too controlling, uncompromising, or attached to power over others.
+Sun specifies Pluto/Asc as an active, purposeful presence in one's surroundings. The capacity to study and motivate people can support efforts to end harmful practices in [Munkasey](#munkasey-entry), yet can appear as intimidation or ruthlessness in [Sandbach](#sandbach-entry) and [Ebertin](#ebertin-entry). The [Witte entry](#witte-entry) also links changes in surroundings and associates with bodily change; it supplies no specific medical condition.
 
 ## Links
 

@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Admetos/Admetos](../axes/admetos-admetos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 #### Witte Entry
 
+Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start).
+
 Small exclusive circle. Connections with a few. Shackles. Connections which are oppressive and are a burden. Few connections. Reliable or very close connections. Static or unchangeable connections. Connections which are of great hindrance. Joining raw materials.
+
+## Comparative Schema
+
+- core meaning: Few, close, or unchanging connections, which may also constrain.
+- psychology: No explicit inner motive for maintaining these ties is supplied.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Exclusive circles, reliable connections, burdensome bonds, and shackles.
+- events/manifestations: Static or hindering connections; joining raw materials is a separate material application.
+- conflicts/notes: Reliability and oppression are both in the [Witte entry](#witte-entry); neither describes every connection in its range.
+
+## Contradictions
+
+Close, reliable ties and burdensome, hindering ties are contrasting possibilities, not a claim that the same relationship must have both qualities. No other source is present here.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Admetos = Node`: durable selective alliances and contacts that do not easily change. Main caution: shackled connection: ties become burdensome, exclusive, and immobile, so belonging constrains rather than opens life.
+In `Admetos/Admetos = Node`, Node specifies the repeated Admetos pair as connections limited in number or resistant to change. The [Witte entry](#witte-entry) allows a small, exclusive circle with close and reliable bonds, but also static ties experienced as shackles or hindrances. The organizing theme is the fixed connection, whose value is left open. The unusual reference to joining raw materials extends connection into a material setting rather than adding another relationship claim.
 
 ## Links
 

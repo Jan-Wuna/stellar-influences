@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Asc`
 - Astronomicon formula: `S/Y = Asc`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ Relations with sensitive men. An acquaintance with infirm people.
 
 #### ABC Entry
 
-Other people are insecure, exchangeable people on the spot, fine tuning people in the environment, personal sensitivity for the environment, day of insecurity on the spot, environmental gift in the body, and unsafe personal partner
+Source locator: printed page 154 / PDF page 76, Asc glyph under Sonne + Neptun. English translation checked against the complete row.
+
+Other persons are insecure, disappointed persons at the location, sensitive people in the surroundings, personal sensitivity to the surroundings, day of uncertainty at the location, environmental poison in the body, and insecure personal partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Difficult advancement in life, a negatively inclined environment. An association
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Ascendant entry under Planets activating the Sun/Neptune midpoint.
 
 To project oneself onto the world as being a person of great sensitivity. One’s awareness of one’s deeper and hidden aspects has a sustaining and enriching effect on one’s identity, or, if negatively expressed, one’s selfidealization results in nothing more than living a fantasy about oneself.
 
@@ -70,22 +76,23 @@ Increased concentration on fulfilling your dreams thru visualizations; helps blo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal sensitivity expressed through one's manner and response to the surrounding people.
+- psychology: visualization and awareness of hidden aspects can enrich identity; self-idealization can instead become a fantasy.
+- body/health: Witte and Ebertin mention association with infirm or sick people; these are attributed associations, not diagnoses of the reader.
+- social/relationship: sensitive or insecure companions and an environment experienced as unsupportive.
+- events/manifestations: creative daydreaming and concentrated visualization; Ebertin also names difficult advancement.
+- conflicts/notes: inward enrichment and adverse surroundings are distinct possible expressions, not a single inevitable outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- No direct contradiction is established: Sandbach makes the constructive and self-idealizing expressions conditional. ABC's disappointed people and environmental-poison example are distinct from its sensitivity and insecure-partner descriptions; no single cause is given for these settings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Asc`: compassion, delicacy, and a personal style that radiates dream, intuition, or vulnerability. Main caution: weak definition: the environment can drain vitality, and self-image can become confused, passive, or unrealistically glorified.
+Asc specifies the Sun/Neptune axis through the way sensitivity is presented to others and felt in the immediate environment. Awareness of one's hidden life can sustain identity, while daydreaming and visualization give that sensitivity a creative outlet; the same self-image can become idealized enough to turn into fantasy. This distinction is explicit in [Sandbach Entry](#sandbach-entry) and developed through visualization in [Munkasey Entry](#munkasey-entry).
+
+The social setting may involve sensitive, infirm, or unsupportive people, as [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) describe. That locates the difficulty in an interaction between personal sensitivity and surroundings; it does not establish that others necessarily drain vitality or that illness follows.
 
 ## Links
 

@@ -19,35 +19,43 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Chiron`
 - Astronomicon triad-set: `R T Chiron`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mercury/Chiron = Moon](../activations/mercury-chiron-equals-moon.md)
-- [Moon/Chiron = Mercury](../activations/moon-chiron-equals-mercury.md)
-- [Moon/Mercury = Chiron](../activations/moon-mercury-equals-chiron.md)
+- [Mercury/Chiron = Moon](../activations/mercury-chiron-equals-moon.md): base axis [Mercury/Chiron](../axes/mercury-chiron.md); activator [Moon](../factors/moon.md).
+- [Moon/Chiron = Mercury](../activations/moon-chiron-equals-mercury.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Mercury](../factors/mercury.md).
+- [Moon/Mercury = Chiron](../activations/moon-mercury-equals-chiron.md): base axis [Moon/Mercury](../axes/moon-mercury.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Mercury/Chiron = Moon`: John, page `46`
-- `Moon/Chiron = Mercury`: John, page `32`
-- `Moon/Mercury = Chiron`: John, page `25`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Mercury/Chiron = Moon](../activations/mercury-chiron-equals-moon.md#sandbach-entry) (PDF chapter-start p. 46; exact entry page unverified); [Moon/Chiron = Mercury](../activations/moon-chiron-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Mercury = Chiron](../activations/moon-mercury-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 25; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron = Moon` gives the axis instinctive timing and emotionally healing words.
-- `Moon/Chiron = Mercury`: Thinking and communicating that are infused with healing emotional energy and which can nurture others at deep levels in profound transformational ways.
-- `Moon/Mercury = Chiron`: Your energy helps other people to talk about and think about their feelings, and to be more connected to their emotions. You naturally induce a freer and warmer flow of interchange with others.
+Moon, Mercury and Chiron form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Chiron](../axes/mercury-chiron.md)
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Chiron](../factors/chiron.md)

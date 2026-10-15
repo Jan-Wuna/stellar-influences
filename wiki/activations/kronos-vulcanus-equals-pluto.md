@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Pluto Kronos Vulcanus](../triads/pluto-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Pluto entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Changes and development of the form of government. Reorganization of the state. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Pluto entry.
+
 #### ABC Entry
 
-Special power of transformation, development of state power, influence of the hierarchy of development, major change, development of strong self confidence, change of state power, increasing influence of the state, and important development energies
+Special power of transformation; development of state authority; the hierarchy's influence on development; great power of change; develop strong self-confidence; change of state power; growing influence of the state; important energies of development.
+
+## Comparative Schema
+
+- Core meaning: Government and state power develop, change, and undergo reorganization.
+- Psychology: Developing self-confidence is an explicit personal expression.
+- Body/health: No specific health claim appears.
+- Social/relationship: Relations to great powers and a hierarchy's influence on development are named.
+- Events/manifestations: Changes in government form, growing state influence, and transformative force are explicit.
+- Conflicts/notes: Reorganization need not mean collapse or a change of regime in every case.
+
+## Contradictions And Tensions
+
+Reorganization need not mean collapse or a change of regime in every case.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Pluto`: reorganization of government, changes in state form, and large shifts in the standing or structure of great powers.
-- Chart expression: regime change, deep political reform, and powerful institutional transformation.
+With Pluto, Kronos/Vulcanus describes power through development and reorganization. Witte names changes in government form and transformations in relations to great powers. ABC adds development of state authority, a hierarchy's influence on development, growing state influence, and a strong capacity for change. Developing self-confidence gives a personal expression of the same process. The entry permits substantial institutional change without requiring that every case become regime change. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

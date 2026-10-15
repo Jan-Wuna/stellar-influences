@@ -1,0 +1,323 @@
+{
+  "scope": "Second stable15 B045–066 Pluto source repairs; independent B2 rebind pending.",
+  "count": 15,
+  "cumulative": 28,
+  "new_reviews": 0,
+  "actual_raw_scans_personally_viewed": [
+    "ABC59",
+    "ABC203",
+    "Witte90",
+    "Sandbach116",
+    "Sandbach117"
+  ],
+  "exact_intended_bytes_preserved_newline_styles": [
+    {
+      "path": "wiki/activations/pluto-asc-equals-moon.md",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "raw_sha256": "313cdc0111bb311f53900cd8779e376fa3509e6b0e0c2287b81ec4ad206d6712"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-neptune.md",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "raw_sha256": "b22b25c5347d3d3b9947d75a4aab8fd3a96e7e9386bf17c884cb40614dfc4e75"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "38d3ae23f1a96044f2aae670a9750f1f04eb465e683a58976a823fd0671bcdbf"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-sun.md",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "raw_sha256": "d7ea61c2e6605d35999589c5b28bd98feb2ec0bb99af67595b7219691424b1b8"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-uranus.md",
+      "raw_equals_LF": false,
+      "raw_equals_CRLF": true,
+      "raw_sha256": "995318a42578a85217fec461b627ef0e965a17eded2f32db9dff53b894d27e61"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "41c0fad6c3947e13097ee7077e87a03d0744194b96e45b080a8ab445153dfb19"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "99aa83975c3c87edc88138e123af57ff0795bb2e2b2f24bd7653acc4594c5be2"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mars.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "691eed12cb2e3801441122a91315cb6249d64933a31b2cefadc0f43b967f9417"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mc.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "2c5f3b97ed6b7f58a28d38c7608634e43c1d6073a9e609033b572ddabb256671"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-moon.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "5126b8d6290a769478bb36b6eaeeb2d1c0c96ee7d249e22fc93b78fc4aac9ac2"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "51a519bffe031365ef2565579fb0420049f521b375a95de0d172550c4e92b2dd"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "5f4bc35a586e7597c35eac8ba26117c885a597ed491cf8b2ffd9c2c29d5cf1dd"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-venus.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "e7c7aeebacdce64eafb1b3b8befe7997243b1e33131249c542dae62a56a52584"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "98941450cf90f919ba5b47f580e0f0f72d108e54a189ffcbea8c7aeae6889e7a"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+      "raw_equals_LF": true,
+      "raw_equals_CRLF": false,
+      "raw_sha256": "cfa2e3ba908b341a2f821861acc6c601e61a9db6ac27e6c89c577521a568b808"
+    }
+  ],
+  "all_temporary_stages_absent": true,
+  "move_stage_back": [
+    {
+      "path": "wiki/activations/pluto-asc-equals-moon.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-moon.md",
+      "pre_sha256": "91d2afa63818f44970ac975ce8b612d122fa5ea7aeeff596e180ce9cd80d7a97"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-neptune.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-neptune.md",
+      "pre_sha256": "f4468411ca901218eca04f9b019027933b913d749c8cd8c6241e478347d5659a"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-poseidon.md",
+      "pre_sha256": "988dc440dff02167ace88ccbc19292ee355a7757ad905f50183691c9a78b6f4a"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-sun.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-sun.md",
+      "pre_sha256": "eb79d6152a9f2f3cfc5313be4be508b2891ccc213f9c7cfba62802f1e93f0fab"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-uranus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-uranus.md",
+      "pre_sha256": "c635971b9901c881f735121444d6b96498187cbb97b312226b08bd3d359b4e3d"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-asc-equals-vernal-point.md",
+      "pre_sha256": "a7e71db45332fb12c760fe6b64a56577fa7ba0e6289b949bc97e616e329b375d"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-kronos.md",
+      "pre_sha256": "0e54091179ff7545fe6cbd17b07164cbd3851e1ef2011a9d00d04c352f9ed354"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mars.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-mars.md",
+      "pre_sha256": "2c19be03dd32fbb85ddd26d2352a2ced91f0bc3953cb01fe0d404a5884648c4f"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mc.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-mc.md",
+      "pre_sha256": "8bf528618829a6f1cbfca79b6d1ef80aa6f0577930b1ac789defddcb6cc4e821"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-moon.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-moon.md",
+      "pre_sha256": "86eecaa5a854da006856a8ce556c28b74844695b212ec3d791a56099b9efc1e5"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-neptune.md",
+      "pre_sha256": "84c015ae28a860c67f3ebb08f6527dcb10f0fa44e9834a085839f10e8436d695"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-uranus.md",
+      "pre_sha256": "ec46ac4459ebf514a98d15b26274825ef63f2c9a0d11520e3927d538e806b771"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-venus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-venus.md",
+      "pre_sha256": "7549b1fa3cd38ae713857f1abdbf6a4674078f0f1911b82b0742dd394ea9e528"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-vernal-point.md",
+      "pre_sha256": "63141dd0e51b223ff3cad5549dc1ee727aedfd089710395c708397f2aa3ee108"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-pluto-cupido-equals-zeus.md",
+      "pre_sha256": "b66e4c8e8ae71c931167c940c3fd13574235417876ceab1ee58c5551b6b04e46"
+    }
+  ],
+  "bindings": [
+    {
+      "path": "wiki/activations/pluto-asc-equals-moon.md",
+      "ledger_line": 1,
+      "before_source_section_sha256": "65c1e3bdf3514f9fb5459fced9303bc3c90c5d701d1e6e53f977cc68bbab4b11",
+      "final_source_section_sha256": "b70260919e87274b47795ff382e7faee49b2518e258759fa1469cd29ace9e726",
+      "final_page_sha256": "313cdc0111bb311f53900cd8779e376fa3509e6b0e0c2287b81ec4ad206d6712",
+      "current_record_sha256": "3505d495b1bc60338efa42ed335818d6042ace6e134db3770b42836488a57ad2",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-neptune.md",
+      "ledger_line": 2,
+      "before_source_section_sha256": "d386efd134b2c35cb293796efdf7058ef7ab363f5c6951026be9e9e9b339cbd6",
+      "final_source_section_sha256": "28c95226c9a48cc58689a7c2091f3db5afa773d9197dcbe5c547e407454437cb",
+      "final_page_sha256": "b22b25c5347d3d3b9947d75a4aab8fd3a96e7e9386bf17c884cb40614dfc4e75",
+      "current_record_sha256": "907b758c90f3d3a2ca8974d4afdcd6bb1606df671cf9077fd1cd5ea88e3c91b3",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+      "ledger_line": 5,
+      "before_source_section_sha256": "bf4d13d65fb073dde7ebca8e572bcf8c43bec99672e7d9f172c35924fdcf773d",
+      "final_source_section_sha256": "95fc758142fc96713fdcf00b77518839a97b63d575091728a870a11e1b175264",
+      "final_page_sha256": "38d3ae23f1a96044f2aae670a9750f1f04eb465e683a58976a823fd0671bcdbf",
+      "current_record_sha256": "8e4ad5d1a1fc75fa3c6bba242d3b56fedf5b6c2dd291e62a753f75ee6ad73c6b",
+      "unresolved": [
+        "Witte PDF90 genuinely prints Waves in the surrounding area; the passage does not explain the referent, so no physical mechanism is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-sun.md",
+      "ledger_line": 7,
+      "before_source_section_sha256": "110d628b80b69da914249ea414151543ec7792051d46b706475e2ab1c483d66b",
+      "final_source_section_sha256": "ef8da438232e3691bf834e3ac92a4d6b36aab1af5f83e02983277de522f90ccf",
+      "final_page_sha256": "d7ea61c2e6605d35999589c5b28bd98feb2ec0bb99af67595b7219691424b1b8",
+      "current_record_sha256": "d56aaeb664ed4d32ee25c6b5486731b43f87290a64abec6ed128dd0982928ce4",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-uranus.md",
+      "ledger_line": 8,
+      "before_source_section_sha256": "0587cb1887f40889537399b76e708c88bdc0de38d48e71d7ece5db521fa0216a",
+      "final_source_section_sha256": "a64fd1f624382118a9e72e8ae015fc43ace244d52af57b633a3afd80867e13f8",
+      "final_page_sha256": "995318a42578a85217fec461b627ef0e965a17eded2f32db9dff53b894d27e61",
+      "current_record_sha256": "0692ef7636201a14f0082bbff8a703583bcd8fd9ec13bd925f6867136425927d",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+      "ledger_line": 10,
+      "before_source_section_sha256": "4022515d07cfcedb24381c9909ea31989a95b0fe85810d9b2f11e1c835277ea1",
+      "final_source_section_sha256": "190187250709cc81d5a82223768a19ab0b8f49a399dccfd51eac36bef5ce6c66",
+      "final_page_sha256": "41c0fad6c3947e13097ee7077e87a03d0744194b96e45b080a8ab445153dfb19",
+      "current_record_sha256": "b8f309df6cefbb343af1f8f9544e46f78c99a5503e128bce46cc2db61d07dae8",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+      "ledger_line": 18,
+      "before_source_section_sha256": "96c1afb3916bbc915b23cf76864232f76b404e66fc2f2bd834154e69b68c4e61",
+      "final_source_section_sha256": "d5cf0566fca6245e16d415c0fb8bd6f44fefc20a6affa69b0c5c58e3087c4c4e",
+      "final_page_sha256": "99aa83975c3c87edc88138e123af57ff0795bb2e2b2f24bd7653acc4594c5be2",
+      "current_record_sha256": "e7532fba4133e1048d9528eba8011b1eb9bebcdf360d90d3a263657f49ff8f5f",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mars.md",
+      "ledger_line": 19,
+      "before_source_section_sha256": "65ce3c2489e0ea80def67249c99045c8aa259db0cfa6c0afe082e98457811942",
+      "final_source_section_sha256": "c1d6f38dc512bbc9e7c4a83243f9c92b4fd30652f772ec20458db1172f2ca25f",
+      "final_page_sha256": "691eed12cb2e3801441122a91315cb6249d64933a31b2cefadc0f43b967f9417",
+      "current_record_sha256": "e0bc5ef03a1ac10d328b395d0b0744a29fa24a3c29f95cdd2d20fa9d6d71a48b",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mc.md",
+      "ledger_line": 20,
+      "before_source_section_sha256": "f03202f8af31be7fe6c42180f4a42bd9d4a9f82035b88fadc5ae8b7ce9a08b03",
+      "final_source_section_sha256": "92857e7da65e379d3dc89e8d385886194337303a0e5d515f50a449ed3bff203a",
+      "final_page_sha256": "2c5f3b97ed6b7f58a28d38c7608634e43c1d6073a9e609033b572ddabb256671",
+      "current_record_sha256": "11dd63533673559163ceee2576fde893abb01e7542263a818d985f30d3e57168",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-moon.md",
+      "ledger_line": 22,
+      "before_source_section_sha256": "325bdcd9de16fc21cf229908101d5201627c6fad78546f3bd3f35a48cc3c49a8",
+      "final_source_section_sha256": "c4788e3287651767f34f0e4f5f3774c5e335e39253c034113434e872faa411b1",
+      "final_page_sha256": "5126b8d6290a769478bb36b6eaeeb2d1c0c96ee7d249e22fc93b78fc4aac9ac2",
+      "current_record_sha256": "7b95c75c4c1ffe21c7c9a6b20cefcf1560303da82e338edb1a62fdc45f0fc643",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+      "ledger_line": 23,
+      "before_source_section_sha256": "e8fa13e35c48a9ef542c08b32fe463a85847320f933df3606915cbe0b59dec2c",
+      "final_source_section_sha256": "83524d1063596491ca2f288f35f9b28b224b428d7a991dbd44ca775f84e4ef2c",
+      "final_page_sha256": "51a519bffe031365ef2565579fb0420049f521b375a95de0d172550c4e92b2dd",
+      "current_record_sha256": "5566f787341fa11da59da40456ee5366bc607d8cd623c8697f0bfbe270001f4e",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+      "ledger_line": 28,
+      "before_source_section_sha256": "7bffddf38d7b4c3173386fd5cb039db48d3eb6c3107e44a9b8fcbb9317757628",
+      "final_source_section_sha256": "15fac192a4249ecf57acf3d2bf87f3f6b92a9d98ea39b44c7696a95fdfe34e15",
+      "final_page_sha256": "5f4bc35a586e7597c35eac8ba26117c885a597ed491cf8b2ffd9c2c29d5cf1dd",
+      "current_record_sha256": "a45c86c396b1fb0fc493a7fbea0b30c3c85503647877fc759211bce0418235a0",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-venus.md",
+      "ledger_line": 29,
+      "before_source_section_sha256": "03db9b26addc9e1fa7009a149b1ace19a0cd6c239f118107e4a7d94420eda062",
+      "final_source_section_sha256": "df6d09febbc4a9c1c21f4c8cb2aee3d432271046abec3f96edd1ad1cafcf62fe",
+      "final_page_sha256": "e7c7aeebacdce64eafb1b3b8befe7997243b1e33131249c542dae62a56a52584",
+      "current_record_sha256": "56a7fdc4ea4cdfbe60d0d7e52b31bd5aaa0aa2d1099d97f74100798e72bba34b",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+      "ledger_line": 30,
+      "before_source_section_sha256": "f23ae0a4fb1086b5eda6f53fef033178879a7eeb8b54845632423d7028fd0d80",
+      "final_source_section_sha256": "df0d2298a609063681720bf543cace43babb399648cbbffa2e3e073cff0d12fd",
+      "final_page_sha256": "98941450cf90f919ba5b47f580e0f0f72d108e54a189ffcbea8c7aeae6889e7a",
+      "current_record_sha256": "f7efe6daa38e78e9885ebc1adf9941ff230c490f7b1b302e7330d673858fb238",
+      "unresolved": []
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+      "ledger_line": 32,
+      "before_source_section_sha256": "d55b7649af9efe337c9bb18aecffddbe695a2fc1ef7f7811b42481bdeaad8ab1",
+      "final_source_section_sha256": "24e8a54bbd11b54ee0ac986ab6c12f06fbec602f3ab027bab51c37ff99f0df99",
+      "final_page_sha256": "cfa2e3ba908b341a2f821861acc6c601e61a9db6ac27e6c89c577521a568b808",
+      "current_record_sha256": "3f3e8db002414012620c8e752facc2ce6d288803117abd94379547463c3566f1",
+      "unresolved": []
+    }
+  ],
+  "receipt": "source-closure-B045-066-decisions.jsonl"
+}

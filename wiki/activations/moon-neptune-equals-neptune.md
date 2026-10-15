@@ -27,6 +27,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Y = Y`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +42,21 @@ Escaping to places where there is water; feelings that your life has parts which
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Neptune specifies the pair through escape, vagueness, and a turn toward mystical ideas.
+- psychology: parts of life may feel unreal or indistinct in the entry's account.
+- body/health: no specific bodily or health claim is supplied.
+- social/relationship: uncertainty or deception concerns the intentions and feelings of other people.
+- events/manifestations: seeking a place near water and studying occult or mystical ideas are the stated outlets.
+- conflicts/notes: the entry does not say that mystical study resolves deception or that escape is invariably beneficial.
 
 ## Contradictions
 
-- None recorded yet.
+- The single entry joins several expressions of escape and uncertainty without explicitly opposing them; comparison with another source is unavailable here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Neptune`: Escaping to places where there is water; feelings that one's life has parts which are unreal or vague; deception about the intentions or feelings of others; a need for a study of or exposure to occult or mystical ideas.
+In `Moon/Neptune = Neptune`, Neptune specifies the pair as a wish to escape an emotionally uncertain or unreal-seeming life. [Munkasey, p. 130](#munkasey-entry) connects retreat near water and exposure to mystical ideas with difficulty discerning others' feelings or intentions. The entry presents these experiences together; it does not promise that retreat or study will clear the uncertainty.
 
 ## Links
 

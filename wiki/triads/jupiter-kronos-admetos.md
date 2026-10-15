@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Kronos Admetos`
 - Astronomicon triad-set: `V ¤ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Admetos = Kronos](../activations/jupiter-admetos-equals-kronos.md)
-- [Jupiter/Kronos = Admetos](../activations/jupiter-kronos-equals-admetos.md)
-- [Kronos/Admetos = Jupiter](../activations/kronos-admetos-equals-jupiter.md)
+- [Jupiter/Admetos = Kronos](../activations/jupiter-admetos-equals-kronos.md): base axis [Jupiter/Admetos](../axes/jupiter-admetos.md); activator [Kronos](../factors/kronos.md).
+- [Jupiter/Kronos = Admetos](../activations/jupiter-kronos-equals-admetos.md): base axis [Jupiter/Kronos](../axes/jupiter-kronos.md); activator [Admetos](../factors/admetos.md).
+- [Kronos/Admetos = Jupiter](../activations/kronos-admetos-equals-jupiter.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
-- `Jupiter/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `343`
-- `Jupiter/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
-- `Jupiter/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `339`
-- `Kronos/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `462`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Admetos = Kronos](../activations/jupiter-admetos-equals-kronos.md#witte-entry) (PDF entry-start p. 216); [Jupiter/Kronos = Admetos](../activations/jupiter-kronos-equals-admetos.md#witte-entry) (PDF entry-start p. 214); [Kronos/Admetos = Jupiter](../activations/kronos-admetos-equals-jupiter.md#witte-entry) (PDF entry-start p. 300).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Admetos = Kronos](../activations/jupiter-admetos-equals-kronos.md#abc-entry) (printed p. 343); [Jupiter/Kronos = Admetos](../activations/jupiter-kronos-equals-admetos.md#abc-entry) (printed p. 339); [Kronos/Admetos = Jupiter](../activations/kronos-admetos-equals-jupiter.md#abc-entry) (printed p. 462).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Kronos`: heavy expenditure, major spending, strong financial burden, and raw-material reserves or deposits.
-- `Jupiter/Kronos = Admetos`: gladly spending money, luck for a few in a limited way, and leadership over only a small or select group.
-- `Kronos/Admetos = Jupiter`: happiness in a secluded or special position and the ability to find ease, benefit, or dignity inside separation from the ordinary.
+Jupiter, Kronos and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Admetos](../axes/jupiter-admetos.md)
+- [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Kronos/Admetos](../axes/kronos-admetos.md)
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)

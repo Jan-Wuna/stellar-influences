@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Moon`
 - Astronomicon formula: `W/¡ = R`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Unsocial family life. The divorced woman. Persons who are divorced from their natural partners, to live in a strange environment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+- Source page: 354 (printed); PDF page: 176.
+
+Women's tasks in the community, serious shared feelings, disturbances of feeling in a community, a disturbed women's community, a disturbed community of the people, problems in a women's community, a mature women's community.
+
+Translation checked against the German Moon row. The former economic-cohesion and monetary-union wording was a corrupt cached translation and is not supported by this passage.
+
+## Comparative Schema
+
+- Core meaning: Strained or serious communal and family life, including separation and the possibility of maturity within a community.
+- Psychology: Serious shared feelings and emotional disturbance within a group.
+- Body/health: Neither entry supplies a bodily or medical correspondence for this orientation.
+- Social/relationship: Divorce, unfamiliar surroundings after separation, and women's roles and difficulties in communal life.
+- Events/manifestations: Separation from a partner and disruption within a family, women's group, or wider community.
+- Conflicts/notes: ABC also names a mature women's community; separation does not exhaust its range. Both entries retain historical gender categories rather than establishing universal roles for women.
+
+## Contradictions
+
+Witte emphasizes estrangement and divorce; ABC also allows serious shared feelings and a mature community. These are different possibilities within communal life, not evidence that every expression ends in separation. The former economic-union claim was a translation error, not a doctrinal disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Moon`: unsocial family life, the divorced woman.
-- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
+In `Saturn/Cupido = Moon`, Moon specifies the pair through family and communal feelings: belonging can become strained, emotionally disturbed, or disrupted by separation. The [Witte entry](#witte-entry) describes divorce and life in unfamiliar surroundings after separation, while the [ABC entry](#abc-entry) includes serious shared feelings and difficulties within women's groups and the wider community.
+
+ABC's mature women's community preserves a possibility of communal maturity alongside disturbance. The historical focus on women remains attributed source language; this formula does not establish a fixed gender role or a doctrine of economic or monetary union.
 
 ## Links
 

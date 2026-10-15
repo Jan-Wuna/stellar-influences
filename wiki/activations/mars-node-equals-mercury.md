@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Node = Mercury`
 - Astronomicon formula: `U/g = T`
 - Axis page: [Mars/Node](../axes/mars-node.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `143` (entry start).
+
 #### Witte Entry
 
 Thoughts concerned with union with the other sex. Intentions of concerted action.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source page (printed): `212` · PDF page: `105`
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Working meetings with youth, activating relations with youth, connecting thought
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source page (printed): `217` · Entry code: `0749`
+
 #### Ebertin Entry
 
 One's personal attitude toward the community in general, inclination to form associations to serve one's own ends, intended cooperation or collaboration. Inclination to think about a union based entirely on physical attraction.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `75` (complete Mercury entry; chapter starts on p. 74).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To desire one’s ideas and communicating to have a positive effect on groups an
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/NODE with Planets and Points`
-- Source page: `244`
+- Source page (printed): `244`
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Articulating your needs and views to others; adds mental agility to field questi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication directed toward association and joint action.
+- psychology: Planning cooperation, stating needs and thinking about attraction.
+- body/health: No distinct health claim is stated.
+- social/relationship: Alliances, youthful contacts and friendships formed through sport.
+- events/manifestations: Forceful answers, media contacts and written mediation.
+- conflicts/notes: Communication may provoke useful conflict; factional breakdown is not asserted.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach allows constructive conflict, while Munkasey stresses answers that close debate. These are different uses of direct speech, not a clear contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Mercury`: planning joint efforts, speaking for a cause, and using communication to create productive friction that gets things moving. Main caution: argumentative association: words can just as easily inflame disputes or turn cooperation into factional conflict.
+In `Mars/Node = Mercury`, Mercury specifies the Mars/Node axis as thinking and speaking that organize contact: planning joint action, articulating needs and drawing others into an association. Direct speech may generate useful conflict or bring debate to a close; the entries also include youthful friendships and thoughts of a physically attractive union. [Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) provide the specific expressions.
 
 ## Links
 

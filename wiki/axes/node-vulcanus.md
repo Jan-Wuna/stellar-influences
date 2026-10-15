@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Eagerness. Application of force. Stable connection. Influential connections. The
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `236`; PDF page: `117` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Encounter with violence, one sided relationships, energy mediation, Cewalt in a relationship, contacts with violence, power connections, force through a connection, and strong ties
+German pair summary (transcribed from printed page `236`; PDF page `117`):
+
+> Begegnung mit der Gewalt, einflußreiche Beziehungen, Energie-Vermittlung, Gewalt in einer Beziehung, Kontakte zur Gewalt, Macht-Verbindungen, Kraft durch eine Verbindung, starke Bindungen
+
+Editorial translation from the German passage: Encounter with violence, influential relationships, transmission of energy, violence in a relationship, contacts with violence, power connections, strength through a connection, strong bonds.
+
+## Comparative Schema
+
+- core meaning: a strong connection that carries influence, power, or applied force ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: eagerness is explicit in Witte; the summaries otherwise emphasize the force of a tie rather than a full inner profile.
+- body/health: applied energy and force are named, but no bodily function or medical condition is specified.
+- social/relationship: stable ties, influential associations, and commanding relationships are Witte's expressions; the ABC also includes contact with violence.
+- events/manifestations: applying force through an association or gaining strength from a connection falls within the summaries' range.
+- conflicts/notes: Influential relationships is legible in ABC; it does not mean one-sided relationships. Influence and violence remain distinct possibilities.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Encounter with violence, one sided relationships, energy mediation, Cewalt in a 
 - [Node/Vulcanus = Vernal Point](../activations/node-vulcanus-equals-vernal-point.md)
 - [Node/Vulcanus = Zeus](../activations/node-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Witte's stable, influential tie and ABC's force or violence vocabulary span a broad range; influence does not by itself imply violence.
+
+ABC's complete bold pair list was checked against printed236/PDF117; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus` combines connection, alliance, and shared ties with force, pressure, and concentrated strength.
-- In practice, it most often shows eagerness, along with application of force.
+`Node/Vulcanus` concerns the strength and influence carried by a connection. In the [pair summary](#pair-summary), a tie can be stable, powerful, or commanding, and eagerness can lead to the application of force. The [ABC entry](#abc-pair-summary) also describes strength obtained through a bond and connections involving power. The shared theme is what an association can exert or sustain.
+
+That range includes the ABC's encounters with violence, but a strong or influential tie is not necessarily violent. Its damaged wording and the doubtful translation “one sided relationships” do not justify a general claim of unequal attachment. The pair entries supply no specific bodily diagnosis, and manifestations involving another factor belong to their own activation pages.
 
 ## Links
 

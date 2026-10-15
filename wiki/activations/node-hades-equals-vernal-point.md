@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Vernal Point Node Hades](../triads/vernal-point-node-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be connected with unpleasant affairs. Gangs of thieves.
 
 encounter with the distress of the world, encounter with public criminality, dangerous contacts in public, criminal connections in public, deficient relations to public life, and hidden relationships in public
 
+## Comparative Schema
+
+- core meaning: Adverse, dangerous, or concealed connections in public life.
+- psychology: No independent psychological disposition is stated.
+- body/health: No bodily or health condition is supplied.
+- social/relationship: Difficult relations to public life or connection with a people in distress.
+- events/manifestations: Public criminality or gangs of thieves as attributed examples.
+- conflicts/notes: Public hardship does not establish personal criminality.
+
+## Contradictions
+
+The public-adversity theme is shared; hidden relationships in a public setting do not contradict it, since public context and private visibility are different matters.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Vernal Point`: To be connected with unpleasant affairs. Gangs of thieves.
-- Practical focus: to be connected with unpleasant affairs; also gangs of thieves.
+Vernal Point specifies Node/Hades through difficult connections in the public sphere. The [Witte entry](#witte-entry) gives unpleasant affairs and gangs of thieves; the [ABC entry](#abc-entry) broadens the setting to worldly distress, dangerous public contacts, deficient relations to public life, and concealed relationships within it. These are different public forms of adversity, not a judgment that every difficult public tie is criminal.
 
 ## Links
 

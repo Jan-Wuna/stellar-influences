@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = MC`
 - Astronomicon formula: `R/U = MC`
@@ -37,23 +39,36 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mars`
+- Source locator: printed p. 128; one-based PDF p. 124, MC row checked on the actual scan.
+
 #### Witte Entry
 
 The wakeful state of the brain. Consciousness. Day-consciousness. One pays attention, is vigilant. One’s own wife. The mental contact with the wife. The personal attitude toward the time of work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Mars`
+- Source locator: printed p. 180; one-based PDF p. 89.
+- Editorial translation: checked against the original German scan, including the activation glyph and paragraph boundary.
+
 #### ABC Entry
 
-soulful emotional actions, impulses of the soul of the people, masculine principle in my woman, my emotional actions, my work hour, my activity as a woman, my active woman, soul work of the woman, soul work among the people, and will of my people
+Feelingful actions of the soul; impulses of the people's soul; the masculine principle in my wife; my feelingful action; my working hour; my activity as a woman; my active wife; a woman's inner work; inner work with the people; the will of my people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source locator: printed p. 121; one-based PDF p. 123, entry 0361 (MC); actual row checked.
 
 #### Ebertin Entry
 
 Development of the ego consciousness, a woman with strong principles, a forceful and purposeful nature, upright behavior. The spiritual relationship to wife, getting married.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source locator: one-based PDF p. 29, exact Midheaven entry checked; chapter begins on PDF p. 28.
 
 #### Sandbach Entry
 
@@ -62,7 +77,7 @@ One is helped in fulfilling one’s life purpose by allowing oneself to act on i
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS with Planets and Points`
-- Source page: `112`
+- Source page: `112` (printed); one-based PDF p. 113, MC entry checked.
 
 #### Munkasey Entry
 
@@ -70,22 +85,21 @@ The adjustments and maturing you go thru to learn to control emotional outbursts
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal consciousness and direction of instinctive or emotionally charged action. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- psychology: Attention, ego consciousness, strong principles, conflicting work feelings, and learning to control outbursts or haste. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- body/health: Witte's waking brain and day-consciousness describe a state of attention; they do not establish a neurological condition. [Witte](#witte-entry).
+- social/relationship: Mental or spiritual connection with a wife and marriage are the older entries' gendered relational examples. Munkasey adds judging others' actions less hastily. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Personal attitudes to working time, instinctive career action, and the process of controlling temper. [Witte](#witte-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Sandbach's career setting is explicit; a general public or vocational reading should not displace the older entries' consciousness and marriage meanings.
 
 ## Contradictions
 
-- None recorded yet.
+Strong principles, instinctive action, and the need to regulate temper are different aspects of the account, not a direct contradiction. Career and marriage remain distinct stated applications.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = MC`: energetic public engagement, hard-working emotional investment, and a life course that advances through direct effort and gut responsiveness. Main caution: reactive direction: outer choices can become too mood-driven, combative, or rushed.
+In `Moon/Mars = MC`, MC specifies the pair through one's conscious stance toward action: attention, personal principles, instinctive choices, and the handling of emotional urgency. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries connect this with consciousness and the relationship to a wife; [Sandbach](#sandbach-entry) applies it to life purpose and career. [Munkasey](#munkasey-entry) adds the work of maturing beyond haste and outbursts. The shared question is how emotionally charged action becomes one's own deliberate direction, rather than an assurance of public achievement.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Node`
 - Astronomicon formula: `X/§ = g`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 To be investigated, examined, checked or rechecked. To be reckless and inconsiderate. To be carried along. To be dragged along. To be suddenly connected with great energies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting relations with violence, encounter with new energies, powerful emanation of a connection, powerful tensions in connections, surprising connection with violence, and connection to dynamic forces
+- Source page: 386 (printed); PDF page: 192.
+
+Exciting relations with violence, encounter with new energies, powerful renewal of a connection, powerful tensions in connections, surprising connection with violence, and connection to dynamic forces
+
+## Comparative Schema
+
+- Core meaning: Sudden connection with powerful forces.
+- Psychology: Recklessness or being carried along.
+- Body/health: No specific health claim.
+- Social/relationship: Tense or renewed connections; encounters with violence.
+- Events/manifestations: Being investigated, checked, or drawn into dynamic forces.
+- Conflicts/notes: Investigation is an uncommon explicit Witte meaning; no reason for it is supplied.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Investigation is an uncommon explicit Witte meaning; no reason for it is supplied. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Node`: To be investigated, examined, checked or rechecked. To be reckless and inconsiderate. To be carried along. To be dragged along. To be suddenly connected with great energies.
-- Practical expression: exciting relations with violence, encounter with new energies, powerful emanation of a connection, powerful tensions in connections, and surprising connection with violence.
+Node specifies Uranus/Vulcanus through a connection that exposes someone to strong, abruptly active forces. The person may be carried or dragged along, with recklessness and tense ties among the possibilities. Witte also explicitly names investigation and repeated checking; this distinct meaning is retained without inventing a cause or treating it as proof of wrongdoing. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Mercury Venus Mars](../triads/mercury-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Erotic. Sexual thoughts. Younger relatives or intimate acquaintances. To think o
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Thinking of love actions, joy impulses of youth, peaceful youth work, talk about the beauty of work, harmonic work language, harmonious thinking and acting, love activity in youth, and benevolent thought activity
+Thinking of acts of love, impulses of joy in youth, peaceful youth work, conversations about the beauty of work, harmonious conversations about work, harmonious thinking and action, activity in love in youth, and benevolent thought activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0581`.
 
 #### Ebertin Entry
 
 Thinking influenced by the love impulse, tendency to delve into the problems of a sex relationship. Actors, writers of love stories. Thoughts of love and marriage, thinking of progeny.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Discussions about your need for satisfaction from love and sex; encourages commu
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Thought and language shaped by affection, desire, and practical effectiveness.
+- Psychology: Efficient thinking, erotic thoughts, and interest in relationship questions.
+- Body/health: Sexual topics occur in thought and conversation; no medical claim is supplied.
+- Social/relationship: Flirtation, verbal seduction or teasing, and discussion of sexual needs or gender roles.
+- Events/manifestations: Writing love stories, acting, practical problem-solving, and conversations about work or beauty.
+- Conflicts/notes: Verbal teasing is explicit; the entries do not independently establish argumentative or harmful speech.
 
 ## Contradictions
 
-- None recorded yet.
+- Verbal teasing is explicit; the entries do not independently establish argumentative or harmful speech.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Mercury`: romantic initiative in language, clever seduction, and the ability to turn desire into active exchange and creative communication. Main caution: argumentative charm: speech can become teasing, provocative, or too sharp to sustain real harmony.
+`Venus/Mars = Mercury` turns affection and desire into thought, words, and workable decisions. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe erotic thought, reflection on relationships, and devoted thinking, with acting or writing love stories as examples. The [ABC entry](#abc-entry) also joins harmonious thought to action and conversation about work's beauty. [Sandbach](#sandbach-entry) adds efficient practical thinking alongside flirtation and verbal teasing. [Munkasey](#munkasey-entry) makes communication about love, sexual satisfaction, and gender roles explicit, while adding appreciation of speed and observation. The supported range extends from intimate dialogue to effective and creative expression.
 
 ## Links
 

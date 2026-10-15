@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Mars Pluto](../triads/venus-mars-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Armed struggles where destructive energy is directed against centers of finance 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Active development of harmony or intense desire, with sharply adverse alternatives.
+- psychology: Passion, an overwhelming urge to act, and consideration versus coarse expression.
+- body/health: Ebertin includes procreative desire; this is a historical statement, not a fertility prediction.
+- social/relationship: Sexual sympathy and loving initiative coexist with brutal feeling in Ebertin.
+- events/manifestations: Peaceful work changes in ABC; armed attacks on finance/art and depletion of reserves in Munkasey.
+- conflicts/notes: Ebertin's isolated parenthetical '(rape)' needs source-level contextual checking and is not generalized.
 
 ## Contradictions
 
-- None recorded yet.
+Considerate action toward harmony contrasts materially with brutal expression and Munkasey's destructive armed action. These strands remain separate possibilities rather than being smoothed into a single passion narrative.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Mars`: passionate initiative, fearless attraction, and the power to act decisively for love, art, or deep desire. Main caution: pursuit can become coercive, jealous, or destructive, with conflict and craving feeding each other.
+In `Venus/Pluto = Mars`, Mars specifies Venus/Pluto development through action and strong motivation. The [Witte](#witte-entry) and [ABC entries](#abc-entry) describe creating harmony, developing sexual sympathy, and changing work peacefully; [Sandbach](#sandbach-entry) emphasizes passionate initiative driven by love. A materially harsher strand appears in [Ebertin's](#ebertin-entry) coarse expression and [Munkasey's](#munkasey-entry) destructive action against finance or art and depletion of resources. Intensity alone does not erase the distinction between considerate action and harm.
 
 ## Links
 

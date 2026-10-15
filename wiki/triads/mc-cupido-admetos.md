@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Cupido Admetos`
 - Astronomicon triad-set: `MC ¡ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Admetos = MC](../activations/cupido-admetos-equals-mc.md)
-- [MC/Admetos = Cupido](../activations/mc-admetos-equals-cupido.md)
-- [MC/Cupido = Admetos](../activations/mc-cupido-equals-admetos.md)
+- [Cupido/Admetos = MC](../activations/cupido-admetos-equals-mc.md): base axis [Cupido/Admetos](../axes/cupido-admetos.md); activator [MC](../factors/mc.md).
+- [MC/Admetos = Cupido](../activations/mc-admetos-equals-cupido.md): base axis [MC/Admetos](../axes/mc-admetos.md); activator [Cupido](../factors/cupido.md).
+- [MC/Cupido = Admetos](../activations/mc-cupido-equals-admetos.md): base axis [MC/Cupido](../axes/mc-cupido.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Cupido/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `432`
-- `MC/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
-- `MC/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `95`
-- `MC/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `85`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Admetos = MC](../activations/cupido-admetos-equals-mc.md#witte-entry) (PDF entry-start p. 271); [MC/Admetos = Cupido](../activations/mc-admetos-equals-cupido.md#witte-entry) (PDF entry-start p. 75); [MC/Cupido = Admetos](../activations/mc-cupido-equals-admetos.md#witte-entry) (PDF entry-start p. 70).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Admetos = MC](../activations/cupido-admetos-equals-mc.md#abc-entry) (printed p. 432); [MC/Admetos = Cupido](../activations/mc-admetos-equals-cupido.md#abc-entry) (printed p. 95); [MC/Cupido = Admetos](../activations/mc-cupido-equals-admetos.md#abc-entry) (printed p. 85).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = MC`: having few but close contacts, feeling lonely within a community, or actively taking part in a partnership's dissolution.
-- `MC/Admetos = Cupido`: socializes the axis through chosen isolation and withdrawal from companionship.
-- `MC/Cupido = Admetos`: narrows the axis through denied belonging and frustrated communal wishes.
+MC, Cupido and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Admetos](../axes/cupido-admetos.md)
+- [MC/Admetos](../axes/mc-admetos.md)
+- [MC/Cupido](../axes/mc-cupido.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)

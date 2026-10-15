@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Admetos = MC`
 - Astronomicon formula: `V/¦ = MC`
 - Axis page: [Jupiter/Admetos](../axes/jupiter-admetos.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 220; PDF p. 216.
+
 Not to be upset, composure in critical moments. Fortified with equanimity, that nothing can throw him off. The native retains his poise under the most trying circumstances. To bide one’s time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked financing, successful local blockage, strengthening of partner rights, strengthening of environmental success, Gcld stabilisation at the site, serious success of the partner, restriction of the partner's rights, and stabilisation of the local rights
+- Source reference: printed p. 342; PDF p. 170.
+
+Restricted joy of the soul, success through psychological resistance, my circulation of money, my happiness through perseverance, my happiness is restricted, my thorough success, my fixed money, my financial limitation, and joy of the soul through steadfastness.
+
+## Comparative Schema
+
+- Core meaning: Personal steadiness and enduring success within limits.
+- Psychology: Equanimity, restricted happiness, psychological resistance, and inner joy through steadfastness.
+- Body/health: No bodily condition is specified.
+- Social/relationship: No specific relationship form is described.
+- Events/manifestations: Biding one's time, fixed money, financial limitation, and thorough success.
+- Conflicts/notes: Inner composure and financial restriction are distinct; a vocation is not stated.
+
+## Contradictions
+
+Restricted happiness in ABC qualifies Witte's emphasis on unshaken composure; firmness does not mean unlimited joy.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = MC`: vocation shaped by patience, steadiness, and inner balance. It can show a person who advances through composure rather than hurry.
+In `Jupiter/Admetos = MC`, MC specifies the Jupiter/Admetos axis through personal composure, perseverance, and one's financial limits. The [Witte Entry](#witte-entry) describes remaining poised in critical moments and biding one's time. The [ABC Entry](#abc-entry) brings that steadiness into personal experience: happiness and success through perseverance, restricted joy, fixed money, and financial limits. The organizing theme is one's capacity to remain firm under constraint, with neither a particular career nor inevitable advancement established.
 
 ## Links
 

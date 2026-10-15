@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Neptune](../triads/vernal-point-uranus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 From here to the beyond. To make connection with the dead. To die.
 
@@ -42,13 +46,29 @@ From here to the beyond. To make connection with the dead. To die.
 
 #### ABC Entry
 
-Agitated and disappointed public, public air technology, surprising deception of the public, unrest over public waters, insecurity through public reforms, water technology in public, impulses for the future for the public, dynamic changes in public, and reform developments in public life
+- Source page: 39; PDF page: 18 (one-based spread).
+
+An agitated, disappointed public, public air technology, surprising deception of the public, unrest over public waters, insecurity through public reforms, water technology in public, and future impulses for the public.
+
+## Comparative Schema
+
+- core meaning: Public agitation mixed with uncertainty or disappointment.
+- psychology: Unrest, insecurity and deception.
+- body/health: Witte’s death association is historical doctrine, not a prognosis.
+- social/relationship: A disappointed or deceived public.
+- events/manifestations: Air and water technology, public waters and uncertain reform.
+- conflicts/notes: Witte’s death and contact-with-the-dead claims differ materially from ABC’s public examples.
+
+## Contradictions
+
+Witte centers death and connection with the dead. ABC centers disappointed public excitement, uncertain reform and air or water technology. Their difference should remain visible rather than being explained away.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Neptune`: from here to the beyond, to make connection with the dead, and to die.
-- Practical expression: agitated, disappointed public, public air technology, surprising deception of the public, and unrest over public waters.
+`Vernal Point/Uranus = Neptune` has two distinct source branches. ABC describes an excited public facing disappointment, deception or insecure reform, with unrest over public waters and air or water technology as concrete settings. Its future impulses leave room for developments whose course is unsettled. ([ABC](#abc-entry))
+
+Witte instead names dying and connection with the dead. Those claims remain attributed historical doctrine; the local entries do not establish a causal link between ABC’s public uncertainties and Witte’s death association. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

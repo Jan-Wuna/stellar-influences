@@ -20,35 +20,47 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Kronos Vulcanus`
 - Astronomicon triad-set: `T ¤ §`
+- This page is structural only. It does not merge the meanings of its orientations.
+- [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [Kronos/Vulcanus = Mercury](../activations/kronos-vulcanus-equals-mercury.md)
-- [Mercury/Kronos = Vulcanus](../activations/mercury-kronos-equals-vulcanus.md)
-- [Mercury/Vulcanus = Kronos](../activations/mercury-vulcanus-equals-kronos.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Vulcanus = Mercury](../activations/kronos-vulcanus-equals-mercury.md) | [Kronos/Vulcanus](../axes/kronos-vulcanus.md) | [Mercury](../factors/mercury.md) |
+| [Mercury/Kronos = Vulcanus](../activations/mercury-kronos-equals-vulcanus.md) | [Mercury/Kronos](../axes/mercury-kronos.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Mercury/Vulcanus = Kronos](../activations/mercury-vulcanus-equals-kronos.md) | [Mercury/Vulcanus](../axes/mercury-vulcanus.md) | [Kronos](../factors/kronos.md) |
+
+All three possible orientations are represented by linked activation pages. The source coverage below applies separately to each formula.
 
 ## Source Coverage
 
-- `Kronos/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
-- `Kronos/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `464`
-- `Mercury/Kronos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
-- `Mercury/Kronos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `261`
-- `Mercury/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
-- `Mercury/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `267`
+These rows describe the source subentries on the linked activation pages, not the scope of a source catalog. Locators are retained references, not new visual scan checks; chapter starts do not establish an exact formula page.
+
+| Orientation | Source subentry | Retained source locator |
+| --- | --- | --- |
+| [Kronos/Vulcanus = Mercury](../activations/kronos-vulcanus-equals-mercury.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/kronos-vulcanus-equals-mercury.md#witte-entry) | PDF p. `301` (one-based; entry start); printed page not recorded. |
+| [Kronos/Vulcanus = Mercury](../activations/kronos-vulcanus-equals-mercury.md) | [Udo Rudolph](../activations/kronos-vulcanus-equals-mercury.md#abc-entry) | printed p. `464`; PDF p. `231` (one-based). |
+| [Mercury/Kronos = Vulcanus](../activations/mercury-kronos-equals-vulcanus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-kronos-equals-vulcanus.md#witte-entry) | PDF p. `169` (one-based; entry start); printed page not recorded. |
+| [Mercury/Kronos = Vulcanus](../activations/mercury-kronos-equals-vulcanus.md) | [Udo Rudolph](../activations/mercury-kronos-equals-vulcanus.md#abc-entry) | printed p. `261`; PDF p. `129` (one-based). |
+| [Mercury/Vulcanus = Kronos](../activations/mercury-vulcanus-equals-kronos.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-vulcanus-equals-kronos.md#witte-entry) | PDF p. `172` (one-based; entry start); printed page not recorded. |
+| [Mercury/Vulcanus = Kronos](../activations/mercury-vulcanus-equals-kronos.md) | [Udo Rudolph](../activations/mercury-vulcanus-equals-kronos.md#abc-entry) | printed p. `267`; PDF p. `132` (one-based). |
+
+## Contradictions Across Orientations
+
+This structural hub does not adjudicate disagreements within an activation. Different base axes and activators identify distinct formulas; differences among these orientations are not, by themselves, contradictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Mercury`: political thinking, state-centered planning, and conversations or directives organized around power and government.
-- `Mercury/Kronos = Vulcanus`: strengthens the axis into powerful leadership by means of great ideas.
-- `Mercury/Vulcanus = Kronos`: Political thoughts, debates or conversations. To concern oneself with affairs of state.
+For `Mercury Kronos Vulcanus`, `Kronos/Vulcanus = Mercury`, `Mercury/Kronos = Vulcanus` and `Mercury/Vulcanus = Kronos` remain separate readings. Choose the formula by its base axis and activator in the Orientation Map, then read that activation’s source entries and synthesis. Use the axis links for pair context; this hub supplies sibling navigation rather than a combined delineation.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Kronos Apollon Vulcanus`
 - Astronomicon triad-set: `¤ ¥ §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Apollon/Vulcanus = Kronos](../activations/apollon-vulcanus-equals-kronos.md)
-- [Kronos/Apollon = Vulcanus](../activations/kronos-apollon-equals-vulcanus.md)
-- [Kronos/Vulcanus = Apollon](../activations/kronos-vulcanus-equals-apollon.md)
+- [Apollon/Vulcanus = Kronos](../activations/apollon-vulcanus-equals-kronos.md): base axis [Apollon/Vulcanus](../axes/apollon-vulcanus.md); activator [Kronos](../factors/kronos.md).
+- [Kronos/Apollon = Vulcanus](../activations/kronos-apollon-equals-vulcanus.md): base axis [Kronos/Apollon](../axes/kronos-apollon.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Kronos/Vulcanus = Apollon](../activations/kronos-vulcanus-equals-apollon.md): base axis [Kronos/Vulcanus](../axes/kronos-vulcanus.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Apollon/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `307`
-- `Apollon/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `471`
-- `Kronos/Apollon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `461`
-- `Kronos/Vulcanus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
-- `Kronos/Vulcanus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `465`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Apollon/Vulcanus = Kronos](../activations/apollon-vulcanus-equals-kronos.md#witte-entry) (PDF entry-start p. 307); [Kronos/Apollon = Vulcanus](../activations/kronos-apollon-equals-vulcanus.md#witte-entry) (PDF entry-start p. 299); [Kronos/Vulcanus = Apollon](../activations/kronos-vulcanus-equals-apollon.md#witte-entry) (PDF entry-start p. 301).
+- Udo Rudolph - ABC for Planetary Pictures: [Apollon/Vulcanus = Kronos](../activations/apollon-vulcanus-equals-kronos.md#abc-entry) (printed p. 471); [Kronos/Apollon = Vulcanus](../activations/kronos-apollon-equals-vulcanus.md#abc-entry) (printed p. 461); [Kronos/Vulcanus = Apollon](../activations/kronos-vulcanus-equals-apollon.md#abc-entry) (printed p. 465).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Kronos`: unusual success through outstanding ability, with power and prosperity rising to a distinguished level.
-- `Kronos/Apollon = Vulcanus`: the mighty recognized leader in science, commerce, or trade and great scientific success backed by power and impact.
-- `Kronos/Vulcanus = Apollon`: mighty authority over many, large peaceful state effort, and the reach of a great power acting through broad institutions or collective systems.
+Kronos, Apollon and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
+- [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Vulcanus](../factors/vulcanus.md)

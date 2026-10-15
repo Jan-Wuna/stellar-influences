@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus MC Kronos`
 - Astronomicon triad-set: `X MC ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Kronos = Uranus](../activations/mc-kronos-equals-uranus.md)
-- [Uranus/Kronos = MC](../activations/uranus-kronos-equals-mc.md)
-- [Uranus/MC = Kronos](../activations/uranus-mc-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Kronos = Uranus](../activations/mc-kronos-equals-uranus.md) | [MC/Kronos](../axes/mc-kronos.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Kronos = MC](../activations/uranus-kronos-equals-mc.md) | [Uranus/Kronos](../axes/uranus-kronos.md) | [MC](../factors/mc.md) |
+| [Uranus/MC = Kronos](../activations/uranus-mc-equals-kronos.md) | [Uranus/MC](../axes/uranus-mc.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `MC/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `91`
-- `Uranus/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `380`
-- `Uranus/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `67`
-- `Uranus/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `79`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Kronos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-kronos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `73`.
+- `MC/Kronos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-kronos-equals-uranus.md#abc-entry), printed p. `91`.
+- `Uranus/Kronos = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-kronos-equals-mc.md#witte-entry), one-based PDF entry-start p. `239`.
+- `Uranus/Kronos = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-kronos-equals-mc.md#abc-entry), printed p. `380`.
+- `Uranus/MC = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-mc-equals-kronos.md#witte-entry), one-based PDF entry-start p. `67`.
+- `Uranus/MC = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-mc-equals-kronos.md#abc-entry), printed p. `79`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Uranus`: electrifies the axis through sudden leadership and large-scale technical command.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

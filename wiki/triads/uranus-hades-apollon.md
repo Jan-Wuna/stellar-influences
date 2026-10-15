@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Hades Apollon`
 - Astronomicon triad-set: `X ¢ ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Apollon = Uranus](../activations/hades-apollon-equals-uranus.md)
-- [Uranus/Apollon = Hades](../activations/uranus-apollon-equals-hades.md)
-- [Uranus/Hades = Apollon](../activations/uranus-hades-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Apollon = Uranus](../activations/hades-apollon-equals-uranus.md) | [Hades/Apollon](../axes/hades-apollon.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Apollon = Hades](../activations/uranus-apollon-equals-hades.md) | [Uranus/Apollon](../axes/uranus-apollon.md) | [Hades](../factors/hades.md) |
+| [Uranus/Hades = Apollon](../activations/uranus-hades-equals-apollon.md) | [Uranus/Hades](../axes/uranus-hades.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Hades/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `443`
-- `Uranus/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
-- `Uranus/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `383`
-- `Uranus/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
-- `Uranus/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `377`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Apollon = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-apollon-equals-uranus.md#witte-entry), one-based PDF entry-start p. `280`.
+- `Hades/Apollon = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-apollon-equals-uranus.md#abc-entry), printed p. `443`.
+- `Uranus/Apollon = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-apollon-equals-hades.md#witte-entry), one-based PDF entry-start p. `240`.
+- `Uranus/Apollon = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-apollon-equals-hades.md#abc-entry), printed p. `383`.
+- `Uranus/Hades = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-hades-equals-apollon.md#witte-entry), one-based PDF entry-start p. `237`.
+- `Uranus/Hades = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-hades-equals-apollon.md#abc-entry), printed p. `377`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Uranus`: abrupt mean acts, old sins reacting back, and the past suddenly pressing itself into present awareness, sometimes through ancient astrology or long-past patterns.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

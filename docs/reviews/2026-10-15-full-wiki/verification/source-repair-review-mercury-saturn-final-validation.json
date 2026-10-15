@@ -1,0 +1,22 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "result": "passed",
+  "strict_bank": "source-repair-review-delegated-mercury-saturn-final-allowances.json",
+  "strict_bank_sha256": "7b9a148e6613acbb0aca0ae1401eb0d370662d797b8f916bbb3fc9a89acaf7b4",
+  "accepted_records": 176,
+  "held_records": 0,
+  "pending_owner_records": 0,
+  "exact_normalized_source_hash_checks": 352,
+  "current_unique_owner_record_bindings": 176,
+  "personally_inspected_scan_hash_checks": 39,
+  "pending_ledger_manifest_exclusions_retained": 42,
+  "seven_field_schema": "passed",
+  "evidence_files_exist": "passed",
+  "complete_final_snapshot_matches_live_sources_and_owner_records": "passed",
+  "own_text_whitespace": "passed",
+  "scoped_git_diff_check_exit": 0,
+  "rebound_sections": [
+    "wiki/activations/saturn-cupido-equals-kronos.md"
+  ],
+  "errors": []
+}

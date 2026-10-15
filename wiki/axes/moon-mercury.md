@@ -11,6 +11,8 @@ normalized_axis: Moon/Mercury
 factor_a: Moon
 factor_b: Mercury
 related_activations:
+  - Moon/Mercury = Mercury
+  - Moon/Mercury = Moon
   - Moon/Mercury = Admetos
   - Moon/Mercury = Apollon
   - Moon/Mercury = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/T`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/MERCURY`
-- Source page: `103`
+- Source heading: `MOON + MERCURY`
+- PDF page: `122`
 
 #### Pair Summary
 
@@ -88,11 +92,19 @@ Motion of the brain. Thinking capacity. The memory. The imaginative power. Super
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `176`; PDF page: `87` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Adaptable woman, women's conversations, emotional thinking, movement of the feelings, the youth of a people, young woman, the woman's opinion, opinion about women, news for the people, hour of the media, language of the people, and public opinion
+German pair summary (transcribed from printed page `176`; PDF page `87`):
+
+> Bewegliche Frau, Frauen-Gespräche, gefühlvolles Denken, Gemüts-Bewegung, Jugend eines Volkes, junge Frau, Meinung der Frau, Meinung über Frauen, Nachrichten für das Volk, Stunde der Medien, Sprache des Volkes, Volks-Meinung
+
+Editorial translation from the German passage: Adaptable woman, women's conversations, feeling-filled thinking, stirring of the feelings, youth of a people, young woman, opinion of the woman, opinion about women, news for the people, hour of the media, language of the people, public opinion.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `113`; PDF page: `115` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -112,7 +124,7 @@ Young girls, intellectually or mentally active women, an authoress.
 
 #### Probable Manifestations
 
-+ Exchange of thoughts with the female sex, receiving mental stimuli, the extension of one's intellectual horizon. Journeys or travels. - Exposure to criticism, gossip. W
++ Exchange of thoughts with the female sex, receiving mental stimuli, the extension of one's intellectual horizon. Journeys or travels. - Exposure to criticism, gossip.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -182,11 +194,11 @@ The development of a rapport with one’s own emotional self so that one may cle
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF pages: `202–203` (complete pair paragraph and cross-page continuation checked against scans).
+
 #### Pair Delineation
 
-Thought and communication influenced by
-
-feelings and emotions. Non-rational thought. The communication of one's feelings to others. Sensing the moods and feelings of others. Changeable thinking. A point that would be useful for public speaking and understanding the public temperament.
+Thought and communication influenced by feelings and emotions. Non-rational thought. The communication of one's feelings to others. Sensing the moods and feelings of others. Changeable thinking. A point that would be useful for public speaking and understanding the public temperament.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -223,7 +235,7 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Mercury: Feeling Thought`
-- PDF page(s): `291`
+- PDF page(s): `291–292` (complete pair entry and boundary checked against scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -231,19 +243,22 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 - shadow: The Babbler and the Liar
 - comparison: Disposition Intellect Feeling Thinking Dreaming Seeing clearly Instinct Reason Unconscious Conscious Fantasy Logic Image Word Associating Combining Guessing Calculating Sensing Perceiving
 - general: The interplay of thinking and feeling . Understanding and interpreting dreams. Expressing feelings . Telling fairy tales .
-- harmony: Healthy Common Sense. Good interplay between thinking and emotional depth. Sure instincts in assessing and judging situations and people. Having a good nose for things. Being intellectually agile and able to adapt. Very imaginative, yet always realistic. Vivid, graphic manner of expression. Quick-witted and good at languages.
-- discord: The Trivial Talker. Conflict between disposition and intellect. Lack of orientation. Childish wishful thinking and dangerous rewriting of reality into the respectively most pleasant version. Or embarrassingly unsuccessful analyzing and complicated explaining of feelings. Superficial, trivial talk. Empty promises, bragging, lies, and gossip. Emotional, easily excited, hurtful, sharp-tongued, and slanderous.
+- harmony: Healthy Common Sense. Good interplay between thinking and emotional depth. Sure instincts in assessing and judging situations and people. Having a good nose for things. Being intellectually agile and able to adapt. Very imaginative, yet always realistic. Vivid, graphic manner of expression. Quick-witted and good at languages. Excellent memory, healthy common sense, and good powers of observation.
+- discord: The Trivial Talker. Conflict between disposition and intellect. Lack of orientation. Childish wishful thinking and dangerous rewriting of reality into the respectively most pleasant version. Or embarrassingly unsuccessful analyzing and complicated explaining of feelings. Superficial, trivial talk. Empty promises, bragging, lies, and gossip. Emotional, easily excited, hurtful, sharp-tongued, and slanderous. Pure assumptions become supposed facts in the wink of an eye.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: the exchange between feeling, thought, perception, memory, and communication.
+- psychology: imagination, adaptable understanding, language ability, and sensitivity to moods range into subjective judgment, restless thinking, or confused rationalization of feelings.
+- body/health: Ebertin gives nervous-system fluid and puberty correspondences; Carter discusses nervous sensitivity, and Munkasey adds glandular and allergic conditions. These remain historical medical associations, not diagnoses.
+- social/relationship: speaking and writing feelings can build rapport and care; gossip, sharp speech, and arguments arise when emotional reactions dominate the exchange.
+- events/manifestations: writing, learning, public speaking, news, popular language, and public opinion recur; the entries also preserve journeys, domestic business, and women's conversations as particular applications.
+- conflicts/notes: Carter's aspect-specific acuity and stability remain distinct. Literal Falis spelling and Carter punctuation are preserved separately from repaired extraction debris.
 
 ## Related Activations
+
+- [Moon/Mercury = Mercury](../activations/moon-mercury-equals-mercury.md)
+- [Moon/Mercury = Moon](../activations/moon-mercury-equals-moon.md)
 
 - [Moon/Mercury = Admetos](../activations/moon-mercury-equals-admetos.md)
 - [Moon/Mercury = Apollon](../activations/moon-mercury-equals-apollon.md)
@@ -269,15 +284,16 @@ Glandular conditions which begin with nervous dysfunctioning; deeply rooted fear
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Carter describes an acute but less stable intellect under inharmonious aspects and a sounder, more judicious one under harmonious aspects. This distinction qualifies a simple good/bad intelligence contrast; sympathetic communication and gossip likewise remain different possibilities.
+- Ebertin's stray final W has been removed after inspecting printed113/PDF115. Falis PDF21 actually prints `Synaethesia`; Carter printed/PDF21 closes the quoted Boer question but leaves its surrounding parenthesis unclosed. Those source quirks are retained. Gendered marriage/public-morality examples remain historical claims.
+- ABC's complete bold list is transcribed from printed176/PDF87. Banzhaf's complete pair continues from PDF291 to292; its omitted harmony and discord endings are restored.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury` is the axis of feeling-thinking, emotional communication, memory, adaptability, and the translation of inner states into words, stories, habits, and everyday exchange. It joins sensitivity and responsiveness with language, perception, and the movement of mind.
-- Chart expression: rapport, quick responsiveness, public sensitivity, verbalized feeling, intuitive intelligence, and the ability to read moods and communicate in a human, immediate way. Its difficulties are equally clear: changeable judgment, gossip, emotional reasoning, nervous reactivity, and thoughts that shift with mood rather than with stable objectivity.
+`Moon/Mercury` describes thought and speech shaped by feeling, and the effort to give feelings intelligible form. Memory, imagination, language, and quick perception can help someone name an inner state, understand another person's mood, or nurture through words. The difficulty is keeping that responsiveness from making every change of mood a change of judgment: feeling can enliven thought, but it can also become selective reasoning, restless talk, or a sharp response that obscures what one meant to say ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols), [Banzhaf/Haebler, PDF p. 291](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
+
+The same exchange operates collectively through public opinion, news, popular speech, and the ability to address an audience's concerns. Private writing, family recollection, and everyday conversation are smaller settings for it. A penetrating intellect need not be steady or tactful, and emotional subjectivity does not by itself establish dishonesty; the sources preserve both useful rapport and misunderstandings or gossip. These remain shared pair themes, with each named activation retaining its own orientation and evidence ([Udo Rudolph](#udo-rudolph---abc-for-planetary-pictures), [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Carter](#charles-carter---the-astrological-aspects), [Munkasey, printed p. 103](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
 

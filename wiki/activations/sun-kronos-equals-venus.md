@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Venus Kronos](../triads/sun-venus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Father love. Ennobled by love. Beloved superior. Beloved ruler or king. To know 
 
 #### ABC Entry
 
-View of a harmonious person, special love of man, especially peaceful man, peace center of the state, filling person in the arts, great love of a man, great gentle man, and fondness of filr great people
+Source: ABC printed p. 164, supplied PDF p. 81, Sonne + Kronos, Venus row (eight clauses). Translation from the German scan:
+
+Reputation of a harmonious person; special love for the man; a particularly peaceful person; the state's center of peace; a leading person in the arts; a man's great love; a great/tall handsome man; preference for great/tall people.
+
+The last two clauses read “großer schöner Mann” and “Vorliebe für große Menschen.” The brief row does not settle whether groß concerns stature or standing.
+
+## Comparative Schema
+
+- core meaning: Affection and harmony in an authoritative person.
+- psychology: Being ennobled by love; readiness to help.
+- body/health: No health claim is stated.
+- social/relationship: Witte names fatherly love and a beloved superior.
+- events/manifestations: Love, peaceful conduct, or a helpful leader.
+- conflicts/notes: ABC's art and beauty clauses are verified; groß leaves stature versus standing open.
+
+## Contradictions
+
+The entries share affection around authority, but do not establish that rank guarantees benevolence. ABC explicitly includes a leading person in the arts and a handsome man. Its brief groß wording leaves stature versus standing open.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Venus`: love of rank and harmony with authority.
-- Practical expression: view of a harmonious person, special love of man, especially peaceful man, peace center of the state, and filling person in the arts.
+In `Sun/Kronos = Venus`, Venus specifies the Sun/Kronos authority theme through affection: a superior is loved, or authority is expressed through a helpful, peaceable manner. The [Witte Entry](#witte-entry) connects being ennobled by love with knowing how to help; the [ABC Entry](#abc-entry) adds harmony, peacefulness, and leadership in the arts. Witte's father and ruler examples remain examples; ABC's references to handsome or great/tall people do not establish a physical specification or guarantee benevolence.
 
 ## Links
 

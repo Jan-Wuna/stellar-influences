@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Saturn Node](../triads/vernal-point-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 General separation. Restrictions on public connections.
 
@@ -42,13 +46,27 @@ General separation. Restrictions on public connections.
 
 #### ABC Entry
 
-Burdening public relations, distanced relations with the public, inhibitions with the public Meeting, concentration in contacts with the public, links with the public in old age, and communication with the public Tasks
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Burdensome public connections, disturbed relations with the public, inhibitions at public encounters, concentration in public contacts, connections with the public in old age, and mediation of public tasks
+
+## Comparative Schema
+
+- core meaning: Public connections burdened, restricted, or handled with concentration.
+- psychology: Inhibition and concentration in contact are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Separation, disturbed relationships, and contacts in old age.
+- events/manifestations: Restrictions and mediation of public tasks.
+- conflicts/notes: Disturbed replaces distanced; focused contact is not identical with separation.
+
+## Contradictions
+
+Concentrated contact and mediation can persist alongside burden or restriction. The source does not describe only the absence of connection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Saturn`: general separation and restrictions on public connections.
-- Practical expression: burdening public relations, distanced relations with the public, inhibitions with the public Meeting, concentration in contacts with the public, and links with the public in old age.
+In `Vernal Point/Node = Saturn`, public association is shaped by limits and obligations. The [Witte entry](#witte-entry) emphasizes separation and restricted connections. The restored [ABC entry](#abc-entry) adds burden, disturbed relations, inhibition, and concentrated contact, with old age and public tasks as further settings. The reading preserves constrained participation as well as actual separation.
 
 ## Links
 

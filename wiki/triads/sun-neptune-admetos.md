@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Neptune Admetos`
 - Astronomicon triad-set: `S Y ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Admetos = Sun](../activations/neptune-admetos-equals-sun.md)
-- [Sun/Admetos = Neptune](../activations/sun-admetos-equals-neptune.md)
-- [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Admetos = Sun](../activations/neptune-admetos-equals-sun.md) | [Neptune/Admetos](../axes/neptune-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Neptune](../activations/sun-admetos-equals-neptune.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Neptune](../factors/neptune.md) |
+| [Sun/Neptune = Admetos](../activations/sun-neptune-equals-admetos.md) | [Sun/Neptune](../axes/sun-neptune.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Neptune/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `402`
-- `Sun/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `169`
-- `Sun/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `155`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `252`.
+- `Neptune/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-admetos-equals-sun.md#abc-entry), printed p. `402`.
+- `Sun/Admetos = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-neptune.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-neptune.md#abc-entry), printed p. `169`.
+- `Sun/Neptune = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-neptune-equals-admetos.md#witte-entry), one-based PDF entry-start p. `109`.
+- `Sun/Neptune = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-neptune-equals-admetos.md#abc-entry), printed p. `155`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Sun`: This activation personalizes `Neptune/Admetos` through bodily change, altered weather or atmosphere, and a shift in the state of being itself. It ties the axis to the lived organism, making transition concrete in body, daily life, and physical condition.
-- `Sun/Admetos = Neptune`: This formula emphasizes secrets about a house or a room and hidden or occult things in the earth.
-- `Sun/Neptune = Admetos`: This formula emphasizes hidden matters in the ground or home and buried spiritual or secret concerns.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

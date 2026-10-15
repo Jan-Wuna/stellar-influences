@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node MC Vulcanus`
 - Astronomicon triad-set: `g MC §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Vulcanus = Node](../activations/mc-vulcanus-equals-node.md)
-- [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md)
-- [Node/Vulcanus = MC](../activations/node-vulcanus-equals-mc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Vulcanus = Node](../activations/mc-vulcanus-equals-node.md) | [MC/Vulcanus](../axes/mc-vulcanus.md) | [Node](../factors/node.md) |
+| [Node/MC = Vulcanus](../activations/node-mc-equals-vulcanus.md) | [Node/MC](../axes/node-mc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Node/Vulcanus = MC](../activations/node-vulcanus-equals-mc.md) | [Node/Vulcanus](../axes/node-vulcanus.md) | [MC](../factors/mc.md) |
 
 ## Source Coverage
 
-- `MC/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `96`
-- `Node/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
-- `Node/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `67`
-- `Node/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
-- `Node/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `236`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Vulcanus = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-vulcanus-equals-node.md#witte-entry), one-based PDF entry-start p. `76`.
+- `MC/Vulcanus = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-vulcanus-equals-node.md#abc-entry), printed p. `96`.
+- `Node/MC = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-mc-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `61`.
+- `Node/MC = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-mc-equals-vulcanus.md#abc-entry), printed p. `67`.
+- `Node/Vulcanus = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-vulcanus-equals-mc.md#witte-entry), one-based PDF entry-start p. `155`.
+- `Node/Vulcanus = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-vulcanus-equals-mc.md#abc-entry), printed p. `236`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Node`: joins the axis to strong influence through one's connections.
-- `Node/MC = Vulcanus`: To strive for powerful and influential connections.
-- `Node/Vulcanus = MC`: To be involved in violent measures, to suffer from them. Connected with great mechanical forces. To have mighty connections.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Asc/Kronos = Admetos`
 - Astronomicon formula: `Asc/¤ = ¦`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Admetos row; checked on the actual scan.
+
 Disagreeable subordinates. Discharged by the state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Perseverance of the hierarchy of a place, limitation of the self governingness of the partner, special deepening at the place, blockade of a state place, restriction of a large place, consolidation of the authorship at the place, and grtindliche steering of others
+Persistence of a place's hierarchy, restriction of the partner's independence, special local deepening, blockade of a state site, restriction of a large place, consolidation of local authority, and thorough direction of others.
+
+Translation repaired against the German entry, printed p. 129, one-based PDF p. 63; wording and the admetos row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Hierarchy and authority persist, consolidate, or impose restrictions.
+- **Psychology:** No personal psychological disposition is directly stated.
+- **Body/health:** No distinct body or health claim appears.
+- **Social/relationship:** Disagreeable subordinates and limits on a partner's independence are explicit.
+- **Events/manifestations:** State dismissal, a blocked state site, and consolidated authority are supported manifestations.
+- **Conflicts/notes:** Consolidation and deepening are not automatically punitive; stalled advancement is not expressly stated.
+
+## Contradictions
+
+No direct contradiction appears. Witte emphasizes difficult subordinates and state dismissal, while ABC includes the persistence and consolidation of authority as well as restriction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Admetos`: stalled advancement, heavy institutional pressure, and rank structures that feel harsh and immovable. Main caution: immobilized hierarchy: authority becomes burdensome, punitive, and difficult to alter.
+In `Asc/Kronos = Admetos`, Admetos specifies the Asc/Kronos axis through the persistence or restriction of authority. Witte gives difficult subordinates and dismissal by the state as concrete examples. ABC adds enduring hierarchy, restricted partner independence, blocked state sites, and consolidated local authority. This supports both established structures and obstructive conditions without making every form of consolidation punitive. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 129.)
 
 ## Links
 

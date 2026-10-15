@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Sun Saturn MC](../triads/sun-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,29 @@ Personal opponents. To worry. To become feeble from sorrows. Physical separation
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-my Ausdaucr as a man, my patience for the people, my corporal pain, my personal abandonment, my personal inhibitions, my personal problems, mature human soul, and my separation from humans
+My endurance as a man, my patience for people, my bodily pains, my personal tasks, my personal inhibitions, my personal problems, a mature human soul, and my separation from people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0927`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Lack of courage to face life, insufficient powers of defense with regard to other people. Tendency to worry oneself, emotional depression, sickness.
 
+#### Historical Footnote 57 — Sun Activation
+
+57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.
+
+The source attaches this historical report to the Sun marker (code `0927`), not to Uranus. Its explicit qualification is part of the source's claim.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 95.
 
 #### Sandbach Entry
 
@@ -70,22 +86,23 @@ Becoming the master of your own fate despite an early life which limited or rest
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal endurance and confidence tested by duties, restrictions, or career direction.
+- psychology: worry, diminished courage, self-esteem concerns, and determination to achieve.
+- body/health: ABC names bodily pains; Witte names feebleness from sorrow; Ebertin's sickness and brain-tumor footnote remain historical attributed claims.
+- social/relationship: personal opponents, separation, trusted guidance, and work recognition.
+- events/manifestations: personal tasks and restraint, career frustration, and achievement despite early limits.
+- conflicts/notes: ABC's as a man is source-specific. Ebertin's footnote57 belongs to Sun, not Uranus, and explicitly rejects diagnosis from this factor alone.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries preserve both weakened confidence and determined achievement. The medical footnote is historical source material, not a diagnostic inference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Sun`: disciplined purpose, mature leadership, and the ability to remain focused on long-term outer goals. Main caution: overidentification with burden: worth can become too dependent on work, status, or proving oneself through strain.
+In `Saturn/MC = Sun`, Sun specifies the Saturn/MC axis through the personal cost of duties, obstacles, and the search for a fitting direction. [ABC](#abc-entry) includes endurance, personal tasks, bodily pain, inhibitions, and separation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) add worry, reduced confidence or powers of defense, and sorrow affecting vitality.
+
+[Sandbach](#sandbach-entry) connects self-esteem with career frustrations and describes vitality when one follows a true spiritual path. [Munkasey](#munkasey-entry) emphasizes mastering one's life despite early restrictions and seeking recognition for work. These entries retain both strained personal confidence and determined achievement; Ebertin's separate historical footnote remains attributed and cannot establish a medical diagnosis.
 
 ## Links
 

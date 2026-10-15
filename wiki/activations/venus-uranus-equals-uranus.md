@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Uranus = Uranus`
 - Astronomicon formula: `Q/X = X`
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
@@ -41,22 +43,21 @@ Causes new disruptions to pleasurable feelings during passionate moments; increa
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: unexpected changes within pleasure and attraction.
+- psychology: passionate enjoyment can be interrupted by surprise or upset.
+- body/health: passion is mentioned, but no health claim is supplied.
+- social/relationship: affinity with rebellious people coexists with unease at peculiar courtesy.
+- events/manifestations: disruptions during pleasurable moments and surprising social gestures.
+- conflicts/notes: this is Munkasey's repeated-factor activation, not a distinct three-factor hub.
 
 ## Contradictions
 
-- None recorded yet.
+One entry supplies both affinity and disruption. These are different reactions to unusual encounters, not mutually exclusive claims; no source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Uranus`: Causes new disruptions to pleasurable feelings during passionate moments; increases the harmony one feels with rebellious or unusual people; one become upset by actions which show unexpected politeness in weird ways.
+In `Venus/Uranus = Uranus`, Uranus specifies the pair through surprise inside enjoyment: pleasurable or passionate moments can be disrupted, even while unusual or rebellious people feel congenial. The distinctive tension is between welcoming unconventional company and being unsettled by unexpected forms of politeness. This reading is limited to the [Munkasey entry](#munkasey-entry), p. 202.
 
 ## Links
 

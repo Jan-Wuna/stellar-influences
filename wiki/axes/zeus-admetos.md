@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `£/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `293`, chapter heading `ZEUS + ADMETOS`.
 
 First beginning, the act of originating, genesis. All beginning is difficult. To form, to work on, to shape, to form raw materials. Tragedy. Lava, igneous rock. To tackle a problem. Struggling activity. To battle all the way through. Interior of the earth. Raw materials from mines, ore. To process or refining raw materials.
 
@@ -78,7 +82,20 @@ First beginning, the act of originating, genesis. All beginning is difficult. To
 
 #### ABC Pair Summary
 
-Effort and perseverance, beginning depression, blocked filtration, restricted creativity? Fcuer--dammation, fiery primordial material, creative crunch, black start, underpressured leadership, and resistance to filtration
+Source reference: printed page `454`, PDF page `226`, bold pair summary.
+
+Source wording: "Anstrengung und Ausdauer, beginnende Depression, blockierte Führung, eingeschränkte Kreativität, Feuer-Eindämmung, feuriger Urstoff, schöpferischer Kreislauf, schwerer Start, unterdrückte Führung, Widerstand gegen die Führung".
+
+Editorial translation, checked against the scan: Effort and endurance; beginning depression; blocked leadership; restricted creativity; containment of fire; fiery primordial material; a creative cycle; a difficult start; suppressed leadership; resistance to leadership. `Kreislauf` denotes a cycle or circulation; the pair summary does not specify a bodily process. Depression remains the source's attributed term, not a clinical assessment.
+
+## Comparative Schema
+
+- Core meaning: Difficult beginnings and formative work: originating, shaping resistant material, and working through a problem.
+- Psychology: Effort, perseverance, struggle, and tackling a problem are clear themes. The ABC wording "beginning depression" remains an attributed source phrase, not a diagnosis.
+- Body/health: No bodily condition is established. The ABC depression phrase supplies no clinical assessment or prediction.
+- Social/relationship: Blocked or suppressed leadership and resistance to leadership are stated in ABC; no private relationship pattern is specified.
+- Events/manifestations: Processing or refining raw materials, mining and ore, lava and igneous rock, and the difficult start of an undertaking; the pair summary also retains tragedy.
+- Conflicts/notes: Persistence and a difficult start do not guarantee success. ABC adds restriction and containment alongside creative activity; its cycle wording does not establish a specific health condition.
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Effort and perseverance, beginning depression, blocked filtration, restricted cr
 - [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md)
 - [Zeus/Admetos = Vulcanus](../activations/zeus-admetos-equals-vulcanus.md)
 
+## Contradictions
+
+The entries share effort and difficulty at a beginning; they do not state a direct disagreement. Witte emphasizes originating and forming raw material, while ABC adds restricted creativity, contained fire, and obstructed leadership. The damaged cached translation has been replaced with a labeled translation checked against printed page `454`. The source's depression and tragedy language remains attributed rather than becoming a diagnosis or inevitable outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis joins directed initiative with dense formative pressure, so beginnings come through struggle, shaping, and hard processing of resistant material rather than easy momentum.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Zeus/Admetos` concerns the work of bringing something into form when the beginning is difficult. The [pair summary](#pair-summary) links genesis and originating with tackling a problem, struggling through it, and shaping or refining raw material. The [ABC pair summary](#abc-pair-summary) joins endurance and a difficult start with restricted creativity, containment of fire, and blocked or resisted leadership.
+
+The material imagery is specific: ore, mines, the Earth's interior, lava, and igneous rock accompany the more general act of forming. These are concrete expressions of formative work and resistance, rather than a generic obstacle list. Witte also names tragedy, so difficulty should not be softened into a promise of eventual success. Neither that word nor ABC's depression phrase establishes a personal health outcome.
 
 ## Links
 

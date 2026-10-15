@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Saturn Neptune](../triads/venus-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Diseases of the feminine sex. Indifference. Sexual affections cool off.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `279`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Exhausted love for metaphysics, unsolved harmony problems, love problems due to ambiguity, love exchange in old age, problems through love weakness, metaphysical artificial tasks, insecurity through local peace, and lossful love separation
+Enduring love of metaphysics, resolving problems of harmony, love problems through lack of clarity, disappointment in love in old age, problems through weakness in love, metaphysical artistic tasks, uncertainty through disturbed peace, and separation in love with heavy losses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0632`.
 
 #### Ebertin Entry
 
 A morbid or pathological disposition with regard to the expression of love. Inhibitions in love, shyness. Tormenting oneself because of love, frigidity and lack of affection, coming down to earth and becoming sober again, illness caused through love. Separation caused by wrong love sensations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Admiration for the effects achieved in creating circumstances which appear to mi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Cooling or frustrated affection and a serious confrontation with romantic ideals.
+- Psychology: Fear of deception, withdrawal, sober reassessment, and gradual learning about sensitivity.
+- Body/health: The older sources' disease and pathological sexual claims remain historical, not diagnoses.
+- Social/relationship: Indifference, unrequited love, inhibition, or separation.
+- Events/manifestations: Resolving harmony problems, metaphysical artistic tasks, and effective special effects or losses through evasion.
+- Conflicts/notes: Constructive learning and crafted illusions coexist with disappointment, loss, and restrained affection.
 
 ## Contradictions
 
-- None recorded yet.
+- Constructive learning and crafted illusions coexist with disappointment, loss, and restrained affection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Saturn`: compassionate fidelity, sober artistry, and the ability to preserve grace under difficult conditions. Main caution: disillusionment: sadness, fear, or scarcity can make love or beauty feel fragile, denied, or perpetually deferred.
+`Venus/Neptune = Saturn` confronts romantic idealism with limits, fear, or disappointment. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize cooled affection, inhibition, or separation, using historical medical and sexual language that does not establish a diagnosis. [Sandbach](#sandbach-entry) adds serious engagement with love, fear of deception, and gradual learning about sensitivity and addiction to romance. The [ABC entry](#abc-entry) allows harmony problems to be resolved and metaphysical artistic tasks pursued. [Munkasey](#munkasey-entry) adds effective special effects alongside losses through evasion. The range includes learning to deal with an ideal as well as withdrawing when it fails.
 
 ## Links
 

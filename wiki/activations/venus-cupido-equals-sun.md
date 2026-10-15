@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Sun`
 - Astronomicon formula: `Q/¡ = S`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Marital happiness of the man. In the company of a loving woman. To be in pleasant company.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-The man in the Lichcs community, harmony of a man's community, corporal Licbes community, man in common love, personal preference for the community, beauty of the whole body, and preference for the community with man
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+The man in a community of love, harmony in a community of men, bodily community in love, men in shared love, a personal preference for community, the beauty of the whole body, and a preference for community with men.
+
+## Comparative Schema
+
+- Core meaning: A person participates bodily in shared love.
+- Psychology: Personal preference for community.
+- Body/health: Bodily beauty is source language, not a physical assessment.
+- Social/relationship: Pleasant company and historically male communities.
+- Events/manifestations: Marital enjoyment; appreciation of the whole body.
+- Conflicts/notes: The male examples remain attributed and do not restrict the formula's identity.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The male examples remain attributed and do not restrict the formula's identity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Sun`: marital happiness of the man.
-- Practical expression: the man in the Lichcs community, harmony of a man's community, man in common love, and personal preference for the community.
+Sun specifies Venus/Cupido through personal, embodied participation in shared affection. Pleasant company and marital happiness connect the person with a loving circle, while ABC also names bodily community and beauty. The source's male examples are retained without becoming universal gender rules. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

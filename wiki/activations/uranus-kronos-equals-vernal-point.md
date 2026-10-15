@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Kronos = Vernal Point`
 - Astronomicon formula: `X/¤ = VP`
 - Axis page: [Uranus/Kronos](../axes/uranus-kronos.md)
@@ -34,21 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 239.
+
 #### Witte Entry
 
 Excitement in ruling circles. Force of nature. Impetuous rise. Despot. To get excited through ordinances of the authorities. Days of great excitement.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 380; PDF p. 189.
+
 #### ABC Entry
 
-great tensions in public, impulsive authority in public life, new self confidence in public, new hierarchy in public life, public unrest in the state, and state event in public
+Great tensions in public, authority providing impetus in public life, new self-confidence in public, a new hierarchy in public life, public unrest in the state, a state event in public.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 239), [ABC](#abc-entry) (printed p. 380; PDF p. 189).
+
+- core meaning: Publicly visible excitement and changes around authority. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- psychology: Public agitation and renewed confidence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- social/relationship: Ruling circles, public hierarchy, and the wider population. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- events/manifestations: Official ordinances, public state events, and Witte's force-of-nature example. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- conflicts/notes: The entries offer public and environmental contexts without establishing a causal link between them. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+
+## Contradictions
+
+Public authority and the force-of-nature example concern separate contexts. The entries do not establish a causal link between a political event and a natural disturbance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Kronos = Vernal Point`: Excitement in ruling circles. Force of nature. Impetuous rise. Despot. To get excited through ordinances of the authorities. Days of great excitement.
-- Practical expression: great tensions in public, impulsive authority in public life, new self confidence in public, new hierarchy in public life, and public unrest in the state.
+Vernal Point specifies Uranus/Kronos through the public visibility of authority, excitement, and change in hierarchy. Ruling circles and official ordinances become sources of agitation, while the ABC entry adds public tension and renewed confidence. Witte also retains force of nature as a separate expression; the page does not equate a public political event with a natural disturbance. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

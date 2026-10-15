@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [Sun MC Zeus](../triads/sun-mc-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Zeus,” Sun entry, PDF p. 72.
 
 To spur the body on. Wanting to accomplish a great deal physically. To be a sportsman with body and soul.
 
@@ -42,13 +46,29 @@ To spur the body on. Wanting to accomplish a great deal physically. To be a spor
 
 #### ABC Entry
 
-Fcurige Manncr Scelc, the man as soul carrier, inner fire of a person, my fiery man, my corporal efforts, my personal achievements, my personal goals, and Center for psychic creativity
+Source: “Meridian + Zeus,” Sun entry, printed p. 88 / PDF p. 43. Translation checked against the German passage.
+
+Fiery male soul, the person as a guide of the soul, inner fire of a person, my fiery man, my personal product, my physical efforts, my personal achievements, my personal goals, centre of inner creativity.
+
+## Comparative Schema
+
+- **Core meaning:** Purposeful physical accomplishment.
+- **Psychology:** Inner fire, inner direction, and a strong wish to achieve through bodily effort.
+- **Body/health:** Physical exertion is named, without a measured claim about fitness.
+- **Social/relationship:** No specific relationship outcome is established.
+- **Events/manifestations:** Sporting activity, personal products, goals, and achievement.
+- **Conflicts/notes:** ABC's masculine and soul-guidance expressions remain historical doctrine, without restricting the formula to men.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 88 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+Witte emphasizes wholehearted bodily accomplishment and sport; ABC adds inner fire, personal products and goals. Its “fiery male soul” and “person as a guide of the soul” are checked source expressions, not universal gender claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Sun` embodies the axis in physical drive, vigor, and wholehearted striving.
-- Chart expression: a person who pushes the body toward achievement, channels vitality into work or performance, and lives the urge to accomplish through active self-expression.
+In `MC/Zeus = Sun`, Sun specifies the pair's personal creative effort through bodily participation and personal goals. Witte's wholehearted sporting effort brings the urge to accomplish into physical activity, while ABC joins bodily efforts and personal products with inner fire and creativity. The emphasis is the person's involvement in purposeful production; ABC's masculine and soul-guidance wording remains historical language rather than a gender restriction or a measured claim about fitness. ([Witte](#witte-entry), PDF p. 72; [ABC](#abc-entry), printed p. 88 / PDF p. 43)
 
 ## Links
 

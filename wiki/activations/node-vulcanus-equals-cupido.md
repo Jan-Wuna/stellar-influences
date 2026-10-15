@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Node Cupido Vulcanus](../triads/node-cupido-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Deeds of violence through a community. Mighty influence of a community. Mighty c
 
 #### ABC Entry
 
-Encounter with of a community of violence, influxing connection to the arts, joint strong ties, powerful links to of a community, and connection to a powerful community
+Encounter with a community of violence, influence through connection with the whole, influential connection with art, shared strong bond, powerful connections of a community, connection with a powerful community.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 155; [ABC Entry](#abc-entry), printed p. 237, PDF p. 117.
+
+- Core meaning: Collective power and influential group connections.
+- Psychology: No separate psychological trait is established.
+- Body/health: Violence is mentioned without a medical claim.
+- Social/relationship: Strong communal bonds and influential artistic relationships.
+- Events/manifestations: A community exerts influence or, in one source example, violence.
+- Conflicts/notes: Powerful belonging does not by itself imply violent conduct.
+
+## Contradictions
+
+The passages include influence and violence, without asserting that every strong community is violent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Cupido`: Deeds of violence through a community. Mighty influence of a community. Mighty connections through influential community.
-- Practical focus: deeds of violence through a community; also mighty influence of a community.
+Cupido specifies `Node/Vulcanus` through the strength and influence of a community. The [Witte Entry](#witte-entry) includes both powerful connections through a group and violent deeds by a community; the corrected [ABC Entry](#abc-entry) adds collective bonds and influential ties with art. Group belonging can convey influence, but a powerful community and a violent one are distinct source examples.
 
 ## Links
 

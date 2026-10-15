@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Kronos = Zeus`
 - Astronomicon formula: `X/¤ = £`
 - Axis page: [Uranus/Kronos](../axes/uranus-kronos.md)
@@ -34,21 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 239.
+
 #### Witte Entry
 
 Violent thunderstorm. Suddenly commencing great activity. To begin a great arming. A war breaking out suddenly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 381; PDF p. 189.
+
 #### ABC Entry
 
-Special self evident performance, troubled state leadership, great excitement through fire, great technical achievement, impulses of a leadership authority, new self awareness of leadership, new goals of the state, and self abandoned rhythm design
+Special independent achievement, troubled state leadership, great excitement through fire, great technical achievement, impulses of a leadership authority, new self-confidence of the leadership, new state goals, a sudden large fire, independent shaping of rhythm.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 239), [ABC](#abc-entry) (printed p. 381; PDF p. 189).
+
+- core meaning: Abrupt mobilization and major activity under leadership. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- psychology: Agitation in state leadership and changing confidence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- social/relationship: Leadership authority and state goals. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- events/manifestations: Technical achievement, fire, arming, war, and violent thunderstorms in the sources. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- conflicts/notes: Independent achievement, state goals and a large fire are distinct examples; mobilization is not necessarily destructive. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+
+## Contradictions
+
+Major technical activity and independent achievement differ from the source's severe arming, war and fire examples. A natural thunderstorm remains a separate manifestation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Kronos = Zeus`: Violent thunderstorm. Suddenly commencing great activity. To begin a great arming. A war breaking out suddenly.
-- Practical expression: special self evident performance, troubled state leadership, great excitement through fire, great technical achievement, and impulses of a leadership authority.
+Zeus specifies Uranus/Kronos through a sudden commencement of major activity under leadership or state direction. Technical achievement and new state goals sit alongside the Witte entry's severe examples of arming and war; fire and a violent thunderstorm remain additional manifestations. The common emphasis is abrupt mobilization, while the scale and constructive or destructive outcome remain open. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

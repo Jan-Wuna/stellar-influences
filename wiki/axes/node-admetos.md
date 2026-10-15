@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NODES + ADMETOS`
+- PDF page (one-based): `154` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Small exclusive circle. Connections with a few. Shackles. Connections which are 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `234–235`; PDF page (one-based): `116` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Persistent connection, borderline contacts, blocked bond, end of relationship, earth connected, fixed relationship, contacts in traffic jam, subordinated communication, and deepen connection
+Enduring connection, limited contacts, blocked bond, end of a relationship, connected to the earth, firm relationship, stalled contacts, suppressed mediation, deepening a connection.
+
+## Comparative Schema
+
+- core meaning: Few, close or enduring connections, alongside restriction or blockage of contact.
+- psychology: Reliability and deepening are represented; the brief summaries do not establish a personality type or rank small circles as inherently adverse.
+- body/health: No illness or anatomy is named; joining raw materials and connection to the earth retain separate physical meanings.
+- social/relationship: An exclusive circle, firm or very close bonds can also become static, oppressive or burdensome ties.
+- events/manifestations: Limited or stalled contacts, a blocked bond, suppressed mediation and the end of a relationship occur alongside deepening and joining materials.
+- conflicts/notes: Duration and closeness do not necessarily imply oppression, and few contacts are not automatically a strained expression. The pair alone does not choose between persistence, blockage and an ending.
 
 ## Related Activations
 
@@ -106,9 +122,9 @@ Persistent connection, borderline contacts, blocked bond, end of relationship, e
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos` combines connection, alliance, and shared ties with restriction, reduction, and enduring weight.
-- In practice, it most often shows small exclusive circle, along with shackles.
-- Under strain, this axis can also show connections with a few.
+`Node/Admetos` concentrates connection into a small, close or enduring form. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) includes an exclusive circle, few connections and reliable or very close ties, but also shackles, oppressive bonds and connections that hinder. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) preserves both sides through firm, enduring or deepened relationships alongside limited contacts, blockage and suppressed mediation. A small circle can therefore be reliable without its smallness itself being a defect; a lasting tie can also become restrictive.
+
+The sources name an ending as well as persistence, so the pair alone does not determine whether a bond will deepen, remain fixed or cease. Its scope also reaches beyond human relationships: joining raw materials and connection to the earth remain explicit physical referents, without supplying a medical claim. Particular circumstances and closing-factor meanings belong to the separate [activation pages](#related-activations).
 
 ## Links
 

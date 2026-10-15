@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Neptune Vulcanus](../triads/mars-neptune-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Futile waste of extraordinary energies. Wasting of energy or power.
 
@@ -42,13 +46,27 @@ Futile waste of extraordinary energies. Wasting of energy or power.
 
 #### ABC Entry
 
-Working with water or wind power, influential future work, energetic arbcit with air or water, exchangeable force activity, powerful air and water activity, weak will influence, hidden violence action influence development work, and powerful evolutionary impulses
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Work with water or wind power, influential work for the future, energy work with air or water, disappointing violent activity, powerful air and water activity, weak influence on the will, and hidden acts of violence.
+
+## Comparative Schema
+
+- core meaning: Great energy wasted or expressed through water, wind, air, and future-oriented work.
+- psychology: Weak influence on the will and disappointing activity in ABC's entry.
+- body/health: Witte names wasted energy or power, without a medical diagnosis.
+- social/relationship: Hidden violent acts are a separate difficult ABC expression.
+- events/manifestations: Water or wind power and powerful air or water activity coexist with futile expenditure.
+- conflicts/notes: ABC's energy-work settings are not inherently futile; Pluto's development clauses belong to their own activation.
+
+## Contradictions
+
+Witte emphasizes futility, whereas ABC also includes influential future work and work with natural energy. These expressions should not be collapsed into universal waste.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Neptune` wastes exceptional force through dissipation, futility, or leakage of power.
-- Chart expression: enormous energies spent uselessly, futile expenditure of strength, and powerful capacities draining away without clear constructive result.
+In `Mars/Vulcanus = Neptune`, Neptune specifies powerful effort through uncertain or disappointing use of energy and through particular air, water, or wind settings. Witte describes extraordinary energy spent futilely; ABC includes weak influence on the will and hidden violence, but also influential work for the future and work with natural power. The concrete energy-work examples preserve a range beyond futility; development and evolutionary impulses belong to the separate Pluto row. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

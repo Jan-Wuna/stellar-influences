@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = MC`
 - Astronomicon formula: `W/g = MC`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 To be deserted by the husband. To incline to separation. To get notice of dismissal.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-My closest connections, my separate connections, my inhibitions in encounters, my obscurations in old age, minute of the trembling of a relationship, soul pain in this bond, and mental stress due to a bond
+- Source page: `216`; PDF page: `107`.
+
+My serious connections, my separated connections, my inhibitions in encounters, my connections in old age, the minute of a relationship's separation, sorrow in a connection, and emotional strain through a bond.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `258`; entry code: `0913`.
 
 Inhibited development of one's own individuality, feeling depressed, standing alone in life. Separation from members of the family or from colleagues. Mourning or bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 When one is open to spiritual guidance and direction one finds oneself entering into profound connections with others. All difficulties in connecting with others impel one to become more closely aligned with one’s higher self.
 
@@ -70,22 +80,21 @@ Growing and maturing thru the help of others; using the assistance that others c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal development shaped by difficult or supportive connections.
+- psychology: Inhibited individuality, loneliness, or maturation through help.
+- body/health: Mental suffering appears in the entries; no bodily diagnosis is established.
+- social/relationship: Separation from family or colleagues; guidance and assistance from others.
+- events/manifestations: Dismissal, bereavement, and work continued by others are distinct examples.
+- conflicts/notes: Loss and assisted maturation are distinct possibilities; spiritual alignment is Sandbach's stated framework.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give separation and assisted maturation different emphases; Sandbach supplies a spiritual interpretation of difficulty rather than denying it.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = MC`: institutional responsibility, serious collaboration, and public development through structured partnership. Main caution: burdensome obligation: outer ties can become limiting, cold, or so duty-bound that individuality thins out.
+In `Saturn/Node = MC`, MC makes the condition of the connection a matter of one's own development. Separation and isolation may inhibit individuality, while help from others can support maturation, direction, and the continuation of one's work ([Ebertin](#ebertin-entry), [Munkasey](#munkasey-entry)). [Sandbach](#sandbach-entry) interprets difficulty in connecting as an impetus toward spiritual alignment; that is his stated perspective, not evidence that every loss produces growth. Witte's dismissal and family separation and ABC's personal sorrow keep the interpretation grounded in the actual cost of a troubled bond ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

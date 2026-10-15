@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Asc/Kronos = Cupido`
 - Astronomicon formula: `Asc/¤ = ¡`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Cupido row; checked on the actual scan.
+
 Organization of employees or officials. Guild or labor union. To abide by marriage laws of the country. To be an art student or employed in a house or home.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community of the Environment and Community of the Regions
+Reputation of a community in the surroundings, authority of a local community, a special local community, shared direction of the surroundings, great art locally, an independent partner community, a self-confident local community, important synthesis of the surroundings, and an important local community.
+
+Translation repaired against the German entry, printed p. 129, one-based PDF p. 63; wording and the cupido row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Organized communities give authority, law, work, and art a shared form.
+- **Psychology:** ABC includes a self-confident local community rather than compelled conformity.
+- **Body/health:** No distinct body or health claim appears.
+- **Social/relationship:** Employee organizations, guilds, unions, and country-specific marriage law are Witte examples.
+- **Events/manifestations:** Art study, household employment, great local art, and independent partner communities are supported settings.
+- **Conflicts/notes:** Formal organization does not by itself establish excessive dependence on rules.
+
+## Contradictions
+
+No direct contradiction appears. Witte's regulated organizations and ABC's independent, self-confident communities describe different forms of organized life; formal structure need not erase autonomy.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Cupido`: unions, guilds, regulated partnership, and group life structured by official authority. Main caution: conformity through organization: belonging can become too dependent on external rules and formal structures.
+In `Asc/Kronos = Cupido`, Cupido specifies the Asc/Kronos axis through organized communities and their authority. Employee associations, guilds, unions, and marriage law give this a formal social expression; art study and household employment add specific working settings. ABC includes respected local communities, shared direction, great art, and independent partner groups. Organization is the common thread, with autonomy remaining possible within it. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 129.)
 
 ## Links
 

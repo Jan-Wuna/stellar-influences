@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Asc/Apollon = Admetos`
 - Astronomicon formula: `Asc/¥ = ¦`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 95, Admetos row.
+
 Retarded business. Steady customers. No further business can be done.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked partner freedom, restricted freedom in the place, consolidation of environmental results, major success of others, increased congestion in the place, deepening of environmental experiences, vie) limitations by the partner, and increasing depression of the partner
+Reference: printed p. 131 (one-based PDF p. 64), Admetos row.
+
+Blocked freedom of the partner, restricted freedom at the location, consolidation of successes in the surroundings, thorough success of others, increased local congestion, deepening experiences of the surroundings, many restrictions by the partner, and increasing depressions of the partner.
+
+## Comparative Schema
+
+- Core meaning: Slowed or halted business and restricted freedom, alongside steady customers, consolidated success, and deepened experience.
+- Psychology: ABC names increasing depressions of the partner; no cause or diagnosis is given.
+- Body/health: No specific bodily condition is stated.
+- Social/relationship: Steady customers, restricted partner freedom, restrictions imposed by a partner, and others' thorough success.
+- Events/manifestations: Business delay or inability to do further business, local congestion, and consolidated successes in the surroundings.
+- Conflicts/notes: Gründlicher Erfolg means thorough success, not simply major success; the vie) artifact is many restrictions. Partner freedom being restricted and restrictions by a partner have different agency.
+
+## Contradictions
+
+Witte names business unable to proceed, while ABC also retains success and deepened experience. The entries give no conditions selecting these outcomes and do not establish that every steady relationship is repetitive or stagnant.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Admetos`: steady contacts, a settled commercial field, and familiar reach that has become narrow or static. Main caution: stalled expansion: breadth turns into repetition, and existing connections remain while further development stops.
+In `Asc/Apollon = Admetos`, Admetos specifies the pair through business and contacts that remain steady while further activity can be delayed or halted. ABC extends the limits to partner freedom, local freedom, congestion, and restrictions by a partner, but also retains consolidated success, others' thorough success, and deepened experience of the surroundings. Continuity and restriction are both represented without making every established contact a sign of stagnation. ([Witte entry](#witte-entry), [ABC entry](#abc-entry))
 
 ## Links
 

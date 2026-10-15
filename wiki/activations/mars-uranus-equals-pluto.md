@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Pluto`
 - Astronomicon formula: `U/X = Z`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
-E Surprise attack, planning executed in too great a hurry. Surprising action through which a new development is started. Planning of an ambush.
+Source: one-based PDF p. 194, Pluto row under Mars/Uranus.
+
+Surprise attack, planning executed in too great a hurry. Surprising action through which a new development is started. Planning of an ambush.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Citit, Rhythmic activity development, Tchnical developmental activity, balance by change of work, growing rate of change, and change of rhythm
+English translation: Agitating development work; unfolding dynamic will; new development activity; developing rhythmic activities; technical development work; restlessness through a change of work; growing excitement at work; changing work rhythm.
+
+Source: printed p. 303 (one-based PDF p. 150), Pluto row under Mars/Uranus.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: printed p. 209 (one-based PDF p. 211), entry 0718.
 
 Force, violent interventions. A higher power.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: one-based PDF pp. 71–72, exact Pluto paragraph under Mars/Uranus.
 
 A driving need to be independent and open in one’s actions. The relentless urge to do things in one’s own way, and to experiment with how one does things. To as sertively affirm one’s independence can induce big transformations in one’s life.
 
@@ -70,22 +80,21 @@ Your efforts for change have more far-reaching effects than you plan; people get
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Forceful experimentation or sudden action with far-reaching consequences.
+- Psychology: A relentless need for independence can drive transformative change.
+- Body/health: The usable entries give no specific medical diagnosis.
+- Social/relationship: Confrontation with stronger forces and fury experienced by others are Munkasey's warnings.
+- Events/manifestations: Hasty execution of plans, surprise initiatives, ambush, and new developments.
+- Conflicts/notes: The eight-clause Pluto row starts with agitating development work, following Neptune's uncertainty clause. `Unruhe` means restlessness rather than balance. Witte's extra Pluto display glyph before “Surprise attack” is excluded from prose.
 
 ## Contradictions
 
-- None recorded yet.
+Independent transformation and coercive intervention are distinct possibilities. The sources do not establish irreversible upheaval in every instance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Pluto`: powerful experiments, radical self-assertion, and the urge to use force to begin an entirely new phase. Main caution: extreme rupture: surprise action undertaken under pressure can become ambush, coercion, or irreversible upheaval.
+In `Mars/Uranus = Pluto`, Pluto specifies abrupt action through its force and the scale of the change it sets in motion. Independence and experimentation may initiate a new development, but hurried plans or confrontation with stronger forces can have wider effects than intended. See [Witte](#witte-entry) (PDF p. 194), [Ebertin](#ebertin-entry) (printed p. 209, code 0718), [Sandbach](#sandbach-entry) (exact Pluto paragraph, PDF pp. 71–72), and [Munkasey](#munkasey-entry) (printed p. 232). [ABC](#abc-entry), printed p. 303, adds unfolding dynamic will, developing rhythmic and technical work, and restlessness or growing excitement as work changes.
 
 ## Links
 

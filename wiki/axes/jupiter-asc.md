@@ -11,6 +11,8 @@ normalized_axis: Jupiter/Asc
 factor_a: Jupiter
 factor_b: Asc
 related_activations:
+  - Jupiter/Asc = Asc
+  - Jupiter/Asc = Jupiter
   - Jupiter/Asc = Admetos
   - Jupiter/Asc = Apollon
   - Jupiter/Asc = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/ASCENDANT`
-- Source page: `275`
+- Source heading: `ASCENDANT + JUPITER`
+- PDF page: `86`
 
 #### Pair Summary
 
@@ -86,9 +90,11 @@ Luck with other people or other people’s luck (fortune). To experience good de
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `112–113`; PDF page: `55`.
+
 #### ABC Pair Summary
 
-Others are in advantage, success on the spot, successful partners, financials of the partner, money--place, gliickliche environment, place of joy, partner pleasure, advantage by others, and satisfaction with others
+Others have the advantage, success at the place, successful partner, partner's finances, money place, fortunate environment, place of joy, partner's joy, partner's rights, place of law, advantage through others, and satisfaction with others.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -113,6 +119,8 @@ Generous or wealthy people in the environment.
 + Entering into profitable partnerships or associations, creation of a beautiful home for oneself, success or expression of recognition, good teamwork. - Friction and differences, rebelling against the convictions of others. Jupiter/Ascendant H/A
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `85` (complete Principle and Process checked against actual page).
 
 #### Principle
 
@@ -172,14 +180,17 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** An open, generous manner supports favorable contact and growth through relationships ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Hand](#robert-hand---horoscope-symbols)).
+- **Psychology:** Confidence and enthusiasm can broaden self-understanding; boasting, self-importance, and misplaced confidence in reading others are the stated alternatives ([Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
+- **Body/health:** Ebertin's brief diagnosis/cure association and Munkasey's claims about fat, substances, and body shape remain attributed historical correspondences, not medical conclusions about a person.
+- **Social/relationship:** Helpful companions, meeting others halfway, warmth, and profitable partnerships recur; arrogance and assumptions about another's needs can undermine that ease.
+- **Events/manifestations:** Teamwork, a pleasing home, recognition, and advantageous associations are explicit examples. Munkasey also gives separate legal, foreign, and religious policy applications on printed p. 275.
+- **Conflicts/notes:** Favorable and difficult expressions are conditional alternatives. Actual Sandbach PDF85 prints `which much gusto`; the grammatical irregularity is retained without inferring an omitted authorial correction.
 
 ## Related Activations
+
+- [Jupiter/Asc = Asc](../activations/jupiter-asc-equals-asc.md)
+- [Jupiter/Asc = Jupiter](../activations/jupiter-asc-equals-jupiter.md)
 
 - [Jupiter/Asc = Admetos](../activations/jupiter-asc-equals-admetos.md)
 - [Jupiter/Asc = Apollon](../activations/jupiter-asc-equals-apollon.md)
@@ -205,15 +216,14 @@ Acid accumulations from an excessive social life; the tendency to add too much b
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries support both generous contact and arrogant or inflated self-presentation. These are alternatives within their positive/negative or harmony/discord schemes, not mutually exclusive claims about every person.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc` is the axis of social optimism, generous self-presentation, favorable first contact, and growth through other people. It describes an open, buoyant style that tends to attract goodwill, opportunity, and supportive associations.
-- Chart expression: a pleasant manner, confidence in relationships, the ability to make a good impression, and environments that feel expansive or fortunate. Its shadow is overstatement: boasting, self-importance, naive trust, reading others too generously, or expecting social ease without enough discrimination.
+Jupiter/Asc describes a generous, optimistic way of meeting people and the opportunities for growth that such contact can open. A pleasant manner, willingness to meet others halfway, and an ability to make a favorable impression connect social confidence with supportive relationships. The same openness can also expand one's sense of identity by making room for more qualities and experiences ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Hand](#robert-hand---horoscope-symbols); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+
+The difficulty is confidence that outgrows attention to the other person: boasting, assuming one understands another's needs, or trusting an agreeable appearance too readily. These are sourced alternatives to warmth and generosity, not an inevitable cost of sociability. Helpful associations and teamwork are concrete possibilities, while medical and body-shape correspondences remain the individual authors' historical claims ([Munkasey, printed p. 275](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); [Banzhaf/Haebler, PDF p. 330](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

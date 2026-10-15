@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Asc`
 - Astronomicon formula: `Y/£ = Asc`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Unsuccessful activities with others. To be forced to mix with people who are show-offs (pompous person, braggart). Scalded by others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `396`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Part ners' weakness, exchangeable services of the other, one place's weakness, critical finesse of the partner, partner strife after refinement, unclear location transport, partner's weakness of the partner, and future goals of a place
+Beginning weakness of a partner, disappointing achievements of the other, leadership weakness of a place, creative sensitivity of the partner, the partner's striving for refinement, unclear local leadership, procreative weakness of the partner, and future goals of a place
+
+## Comparative Schema
+
+- core meaning: disappointing joint activity and uncertain direction involving a partner or place.
+- psychology: creative sensitivity and striving for refinement also belong to the partner.
+- body/health: scalding and procreative weakness are historical examples, not diagnoses or forecasts.
+- social/relationship: Witte names unsuccessful activity with others and contact with boastful people.
+- events/manifestations: local leadership weakness and future goals of a place broaden the setting.
+- conflicts/notes: scalding is not evidence that all encounters are metaphorically overheated or abrasive.
+
+## Contradictions
+
+Witte's unsuccessful encounters and scalding examples differ from ABC's mixed picture of partner sensitivity, refinement and weak local leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Asc`: Unsuccessful activities with others. To be forced to mix with people who are show-offs (pompous person, braggart). Scalded by others.
-- Encounters with others are strained by futile effort, boastfulness, or overheated conditions, making joint activity unsuccessful and abrasive.
-- Practical expression: part ners' weakness, exchangeable services of the other, one place's weakness, critical finesse of the partner, and partner strife after refinement.
+In Neptune/Zeus = Asc, shared activity may disappoint or lack clear direction. [Witte](#witte-entry) describes unsuccessful work with others and encounters with boastful people; [ABC](#abc-entry) places weak leadership beside a partner's creative sensitivity and striving for refinement (printed p. 396, PDF p. 197). The partner or local setting is central, but the passages do not establish that every interaction is abrasive. Their scalding and reproductive examples remain attributed historical claims.
 
 ## Links
 

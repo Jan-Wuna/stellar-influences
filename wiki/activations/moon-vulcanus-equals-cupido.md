@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = ¡`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Cupido Vulcanus](../triads/moon-cupido-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: PDF p. 137.
+
 Communities, clubs, artists or art creating interest and excitement. Hours of festivities of a great society. Social intercourse with representatives of public power or superiors. Mighty unity of a nation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of a GemOts community, energetic women in the community, violence in a people's community, power of a woman in the community, strong community of women in the community, and strong women in of a community
+- Source passage: printed p. 205; PDF p. 101.
+
+Influence of a community bound by feeling, energetic women in the community, violence in a people's community, a woman's power in the community, a strong community bound by feeling, a woman's strength in the community, and strong women in a community.
+
+Editorial translation checked against the German scan and Cupido row symbol.
+
+## Comparative Schema
+
+- core meaning: influence and strong feeling operate through a community ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: ABC's community bound by feeling emphasizes an emotional bond.
+- body/health: neither entry supplies a medical claim; violence remains an adverse group manifestation in ABC.
+- social/relationship: clubs, artistic circles, collective unity, and powerful women in a group are source examples.
+- events/manifestations: festivities, art attracting attention, and social contact with public authorities are explicit Witte examples.
+- conflicts/notes: group strength can appear as solidarity or as violence; community membership alone does not establish harmony.
+
+## Contradictions
+
+Witte emphasizes unity and festivities; ABC includes group violence as well as emotional community. These are contrasting possibilities rather than statements that every community has one character.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Cupido`: Communities, clubs, artists or art creating interest and excitement. Hours of festivities of a great society. Social intercourse with representatives of public power or superiors. Mighty unity of a nation.
-- Practical expression: influence of a GemOts community, energetic women in the community, violence in a people's community, power of a woman in the community, and strong community of women in the community.
+Cupido specifies Moon/Vulcanus through the power of a group and the feeling that binds it. [Witte](#witte-entry) describes clubs, art, festivities, and national unity drawing interest, while [ABC](#abc-entry) locates strength and influence within a community. ABC's violence example gives the adverse limit: collective power can produce coercion as well as shared celebration.
 
 ## Links
 

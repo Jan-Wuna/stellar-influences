@@ -29,19 +29,36 @@ updated_at: 2026-04-21
 - Axis page: [Mercury/Chiron](../axes/mercury-chiron.md)
 - Triad hub: [Mercury Jupiter Chiron](../triads/mercury-jupiter-chiron.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Chiron midpoint`
+- Source locator: PDF p. `47` (complete oriented entry; chapter starts on p. `46`; scan checked).
 
 #### Sandbach Entry
 
 The ability to expand the limits of healing communication. One’s enthusiasm builds lines of healing communication with others.
 
+## Comparative Schema
+
+- core meaning: Enthusiasm extends the reach of communication described as healing.
+- psychology: The emphasis is on enthusiasm and widening limits.
+- body/health: Healing is an interpretive term here; no illness or clinical effect is specified.
+- social/relationship: Lines of communication with others are built through enthusiasm.
+- events/manifestations: Expanding and building communication are the activities named.
+- conflicts/notes: Only Sandbach is represented; the complete oriented entry is verified on PDF p. 47, following the chapter opening on p. 46.
+
+## Contradictions
+
+A single passage supplies the evidence, so cross-source agreement or contradiction cannot be assessed.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron = Jupiter` expands the axis through enthusiasm, growth, and wider healing dialogue.
-- Chart expression: building broader lines of healing communication, encouraging others through insight, and using optimism to extend the reach of meaningful exchange.
+In `Mercury/Chiron = Jupiter`, Jupiter specifies Mercury/Chiron as the expansion of healing communication: enthusiasm becomes the means of building lines of contact with others and extending what can be communicated. That is the scope of the [Sandbach entry](#sandbach-entry); growth in wealth, status, or health is not established by it.
 
 ## Links
 

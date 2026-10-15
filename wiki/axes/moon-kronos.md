@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `R/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+- PDF page: 133.
 
 Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Independent woman. A leading or great nation. Relations to authorities. Female administrator. Office Hours. Rank, grade. Authority hours. Connection of female persons with the authorities. Female government employees. Female wardens, officials, authorities or high personage. The leading or great people.
 
@@ -78,7 +82,18 @@ Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Indepe
 
 #### ABC Pair Summary
 
-Respected woman, dominant people, woman as chief, command of superiority, great people, hierarchy of a people, authority order, self conscious woman, priority of the woman, and important hour
+- Printed pages: 198–199; PDF page: 98.
+
+Respected woman, dominant people, woman as chief, feeling of superiority, great people, hierarchy of a people, feeling of authority, self-confident woman, superior woman, precedence of the woman, important hour.
+
+## Comparative Schema
+
+- core meaning: independence, distinction, rank, and authority in relation to women, a people, or public life.
+- psychology: Witte's noble and independent mind gives the pair a personal dimension beyond formal office; Udo adds self-confidence, feelings of superiority and authority, and precedence ([pair summaries](#pair-summary), [ABC](#abc-pair-summary)).
+- body/health: neither pair summary supplies a bodily or medical correspondence.
+- social/relationship: women as administrators, officials, or chiefs, and relations between female persons and authorities, are explicit historical examples; neither source establishes a general intimate-relationship pattern.
+- events/manifestations: office or authority hours, official rank, and a leading nation's status are named applications. No particular event is selected by the pair alone.
+- conflicts/notes: public leadership and personal independence overlap without being identical. The summaries do not establish emotional distance, oppressive pressure, or a universal constructive/adverse split.
 
 ## Related Activations
 
@@ -103,13 +118,16 @@ Respected woman, dominant people, woman as chief, command of superiority, great 
 - [Moon/Kronos = Vulcanus](../activations/moon-kronos-equals-vulcanus.md)
 - [Moon/Kronos = Zeus](../activations/moon-kronos-equals-zeus.md)
 
+## Contradictions
+
+- The entries share authority and distinction while emphasizing different settings: independent-minded persons, official roles, and the standing of a people. Their brevity does not establish how authority is exercised.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos` is the axis of noble or independent mind, respected women, leading people, female administrators or officials, rank, office hours, and relations to authority.
-- Constructively it supports public dignity, responsible feeling, self-possessed women, authoritative care, and collective life organized by order or hierarchy.
-- Its liability is domination, emotional distance through rank, official pressure, or a public mood governed too strongly by superiority and command.
-- Activations show whether authority becomes personal, social, governmental, mental, burdensome, or a visible public role.
+`Moon/Kronos` brings together personal independence and recognized standing. A noble or independent mind is one expression; rank, official responsibility, and relations with authorities are another. The summaries repeatedly place women in positions of respect or administration and extend the same concern with standing to a leading people or nation. Udo also names self-confidence, feelings of superiority and authority, a superior woman and female precedence. These are the sources' historical examples of authority and distinction, rather than fixed assignments of character by gender ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Udo Rudolph](#udo-rudolph---abc-for-planetary-pictures)).
+
+Office hours and an important hour preserve the pair's less psychological reference to an occasion marked by authority or precedence. The evidence does not decide whether leadership is benevolent or coercive, nor does it support a bodily condition or intimate-relationship outcome. Those questions require more specific evidence, including the exact oriented formula when a third factor is named.
 
 ## Links
 

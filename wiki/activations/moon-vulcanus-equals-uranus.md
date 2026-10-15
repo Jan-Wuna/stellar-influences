@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = X`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Uranus Vulcanus](../triads/moon-uranus-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
+- Source passage: PDF p. 136; Uranus row checked visually.
+
+To cause sensation suddenly. Sudden appearing of superiors. To deal with representatives of technique. To have suddenly to do with armed people, with soldiers. To be impressed with soldier like behavior.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Impulses of an influential woman, enormous emancipation of a peoplec, powerful tensions in the people, new energies for a people, nervousness by strong faith, sudden violence against a woman, strong feelings impulses, and surprising power fellows
+- Source passage: printed p. 205; PDF p. 101.
+
+Impulses of an influential woman, tremendous renewal of a people, powerful tensions among a people, new energies for a people, nervousness through strong feelings, sudden violence against a woman, strong emotional impulses, and surprising feelings of power.
+
+Editorial translation checked against the German scan and Uranus row symbol.
+
+## Comparative Schema
+
+- core meaning: influence and force emerge suddenly, with tension or renewal ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: nervousness through strong feelings and surprising feelings of power are ABC's examples.
+- body/health: nervousness is attributed source wording; no medical diagnosis is established.
+- social/relationship: sudden encounters with superiors, technical representatives, or armed people are Witte's examples.
+- events/manifestations: public sensation, collective renewal, new energy, and sudden violence occur in the entries.
+- conflicts/notes: renewal and violent eruption are distinct possibilities; suddenness does not establish that change is beneficial.
+
+## Contradictions
+
+The entries share abrupt force but supply different settings. Technical or military encounters, renewal, and violence are examples rather than mutually necessary outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Uranus`: To separate in an ugly or noisy manner. Unpleasant strike. To be separated in a loud, showy way. To lose great influence over females or the public. To do watch-duty.
-- Practical expression: impulses of an influential woman, enormous emancipation of a peoplec, powerful tensions in the people, new energies for a people, and nervousness by strong faith.
+Uranus specifies Moon/Vulcanus through a sudden release or encounter with power. [Witte](#witte-entry) describes public sensation and unexpected dealings with superiors, technical representatives, or soldiers. [ABC](#abc-entry) adds collective renewal, tension, emotional impulses, and sudden violence. The shared abruptness can bring new energy or danger; it does not identify every surprise as either liberation or harm.
 
 ## Links
 

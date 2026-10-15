@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn MC Vulcanus](../triads/saturn-mc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To be vigilant. Intense guarding. To watch very closely. To have an eye to oneâ€
 
 #### ABC Entry
 
-Patience and strength of the soul, my energy problems, my energy in old age, my influxes, my concentration force, my power through patience, and psychic strength
+Patience and strength of the soul, my energy problems, my energy in old age, my influential tasks, my power of concentration, my power through patience, inner strength in old age, and inner disturbances through violence.
+
+## Comparative Schema
+
+- core meaning: Personal patience and concentration expressed as vigilant self-protection.
+- psychology: Close watching and attention to one's own interests, sometimes learned through bad experience.
+- body/health: ABC attributes inner disturbances through violence; no physical diagnosis is supplied.
+- social/relationship: Guarding against deception and protecting personal interests.
+- events/manifestations: Influential tasks, personal energy problems and strength in later life.
+- conflicts/notes: Witte explicitly qualifies when vigilant traits may appear.
+
+## Contradictions
+
+Patience and vigilance coexist with energy problems and inner disturbance; the sources do not establish invulnerability.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = MC`: to be vigilant, intense guarding, to watch very closely.
-- Practical expression: patience, strength of the soul, my energy problems, my energy in old age, and my influxes.
+MC specifies Saturn/Vulcanus in one's own patience, concentration and protection of interests. Vigilance may be learned through bad experience rather than appearing immediately. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) supplies that qualification, while the [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) pairs inner strength and influence through patience with personal energy problems and disturbance through violence. Endurance is therefore present alongside vulnerability to pressure.
 
 ## Links
 

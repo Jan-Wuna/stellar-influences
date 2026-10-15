@@ -1,0 +1,502 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope_count": 55,
+  "status": "complete",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+      "before_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+      "current_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "9f140e6db92bef076ea355184183fec4042bfd1ca9dd8162cbc939fd00bca78f",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+      "before_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+      "current_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "9788c510b94e74ceea218d082f43b74b7be5290a20e4be2bf7d920257e15baab",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "current_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "cece6a2e0a070fdc005cc36431d77cceaaaf58d1c99f40ee924546f3bd0d32d9",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+      "before_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+      "current_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "05cf8eeff2c23023dabf6e9a618bb6298bcd76173eafa50ec18fcf90da148272",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "before_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+      "current_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "37524dba5deefb74b8542a673c1d47b6d41713087cdd239903110df3dd27da2b",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+      "before_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+      "current_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "69cc2fb89cb76c3b5db66b7ea81b091efcde3114de6482a0e6cfc136a300a693",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+      "before_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+      "current_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "c4449e7fff6a34d1e1bbb5ef834bfc55e014ec2f0447e8a1baba6ea561059fc4",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+      "before_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+      "current_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "338b72ee347a79334a2d468e81faa0eb1cda7e500fc23b0f4941f574ec7d5933",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "before_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+      "current_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "381419c2c1e8e7b5a535944376f5c93903889417b63a37cf179e304fceaf187d",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+      "before_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+      "current_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "cf0e87099f874de78d924c233443a8d0e5a08110da0eeace347c3c8c21c0d8ca",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+      "before_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+      "current_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 13,
+      "ledger_record_sha256": "ba8b75e8382b9209176f90436b654b08df8f0f8ff24f3cfde2596122e90165bf",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+      "before_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+      "current_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "866256d593d2776ca6313ce0727f2d3bed36b6c82b3ef71074f968da71a41d37",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+      "before_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+      "current_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "16cbff0b8ba14b9e6c376b4b2d161527919af4aedf65089c6c1c1b8ab8ac0346",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+      "before_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+      "current_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "cdd29132198e552f5718923b0aa9b70796e825e0a78c481aa2f38dbb989232dc",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+      "before_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+      "current_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "871a9fa3f8452e8a534630cccd0c239fc5609acd43788a54723e95911b2c7582",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+      "before_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+      "current_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "c5d5cfe6ee59f6a8e9136319e42af90fbd37872a7fc405ff13cbd0ef42945162",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+      "before_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+      "current_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 23,
+      "ledger_record_sha256": "462da4de9b42927a930c121a3db1e0de38d3d51abe29ff2805e9edfb599ba834",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+      "before_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+      "current_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "31bfd2a20ea4095fe10e3ddf492b4ee22549f2eccc03f7e892b1de3839b9000e",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+      "before_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+      "current_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "cbd924c409aabdaa1109e9ebf354570977c70df643cfbfa6ef031684f72c409f",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+      "before_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+      "current_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "03bf84cf7127ce2a8fd73d725809ca92709a57c230f2e8d831b6ead5501dce68",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "before_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "current_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 28,
+      "ledger_record_sha256": "436aa1c34d6cf0492b938cdd5aadad9c0c2298040e9f19298cec643794f62771",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+      "before_sha256": "40f8a32c904c2cba5b564cd5840295eab660a20eb7455b0802abe7aad9fb6ecd",
+      "current_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "35729831810fe810c556b31b6dbc21ff1c2fe73768643b8831d5b42c0e4a22a8",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+      "before_sha256": "d95fd1b133612e42b7c946c06baf99a27bed05b447edb99bca63d9f11d63914f",
+      "current_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "ea8ee7e1ec05e3b98659bab1090365e0ba34580dd921464b595739fb96ca8c9c",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-cupido.md",
+      "before_sha256": "8a353cf10a4efa08752397ceff762f6a18ef6925014c6c0123bb70fc98fb75d2",
+      "current_sha256": "58e17dcc705e00e75b14e3c3fb5339071cc2fc6af7690ca5dc28e78e9e047c96",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "68e5f2c34e5219c9a56f185b786cb8614f320d70dfe828dc8906f95e80a7a46a",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-jupiter.md",
+      "before_sha256": "f2f97414ba0245f192c4e4f62574db9d785102397768cf519889d2b8eb7f66fc",
+      "current_sha256": "e4af66ec091a5e8754fbf1640aa05918cf09be76df5d0cdab66d78bda71a34e1",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "707096e56593c017968a743512eef08373f43d8f33b3b7a370831c7dd04270c5",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-kronos.md",
+      "before_sha256": "16230c76e5eb717b8b38866ffe8648ff6d0f7b87db55da975d339f0e4e2f1b01",
+      "current_sha256": "4c93e6c33bfb0ae570a690fdd4384aaab37f9a77dbce94fa25e07f94375c9452",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "0458da94fb380df2309573e616961d9c1b2cc7d9bec838ceed39f4015017af3c",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mars.md",
+      "before_sha256": "b9b32c63d62f52d0f0b4d715969b752c6df4a72b9da0e75a8c9662341f158cd3",
+      "current_sha256": "bb98249b31569df8993d0b6a79b118ebdd824b57c5e7dc11e18db646eef10a4f",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "1337f33963d1511600e4d7fb1da31de1a154c036a6c0a8683145ea1f51c210c1",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mc.md",
+      "before_sha256": "433b919c78c7b28f1f30df3de83166c9879c7ed488e5f95a44f125ab54b452c8",
+      "current_sha256": "0148a89206d8e4a7b62e4029235b64852ed69bd5b0ce27cde451a8390b05997e",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "a6a895e040d0e2934f4a965cdf317efdfa8dda181456e7253ed692b2ef297315",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-moon.md",
+      "before_sha256": "b13f05ea739f15644aa6b7223602ce79ab760817be25fb5349331ed2a4a4b3e8",
+      "current_sha256": "e0c3e6873f6f309c86f9a01c7edbaa1130f1d4aff83d63922b63f75ba11d833b",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "c5b1226be399667e48237471f937d38515ca544eb73f6f2e9ad26f441cea7e4b",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-neptune.md",
+      "before_sha256": "01c48b2a70546f866a12dd9a2c30306409aae37e6453fef0385d5d7073de466e",
+      "current_sha256": "60555d3d7d3e6c79aed22d8c68caff08d582da77ed7cd7343bae656c380f5339",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 9,
+      "ledger_record_sha256": "9345ded397ff8a2ebd12bfe1e8668802de4819ac2d74ff2a9373b8588bf2b553",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-poseidon.md",
+      "before_sha256": "39fa73ba0a1a2827776295bd5571e969a54d55623602691a2a4b0449e69621ae",
+      "current_sha256": "cbb8be35c0696c91ad87d105807f7bec485d091a5f80e003cf5f7e91920a723b",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "8c01eea70b326460410eb948d531ccd0dcf3360c78b0c37ddd7b6985438dd2f9",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-saturn.md",
+      "before_sha256": "8b030c7dffc25173bc08d627ffe433db3092ee38349392f9cc26df8448695c95",
+      "current_sha256": "518f768906a7f0fcd1a6831a7f0fc989773012ff2fcb3d9e60274a58ad49d89f",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "c2ea293d163b9e4277f0c012f6dafd97d1d11144b4475df154db6da95db7e49c",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-zeus.md",
+      "before_sha256": "1f5c7a06ffa59824a2495cfebd6a6c7a9ff254cd7712e1574c29601cb3e2a085",
+      "current_sha256": "6db4091c46dd2be3482b92dd22b5c5b2426996569bc3acbeb0c1c5ced5aa8c09",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "489f3a53cc5e7a90c8d1459f6593a1e95f71a2efc0d9c500c6a4f08bb07df819",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+      "before_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+      "current_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "702cf9a7301444dbed4ea2c290e74d8767d728cdd040c90a8e0aa0ded1a632dc",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+      "before_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+      "current_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "33e74b234eeabc12c3c4ff37407655a3892eca085a89333b96764c16ce26d286",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+      "before_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+      "current_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 21,
+      "ledger_record_sha256": "b3511db467bcc2051f586173bb4f48641299df5200f6ad3db51dba2bd4a1b2cd",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "before_sha256": "3b90845a2c9cb099f525c34889f1b87add3ea10d59b08e12d12f509b3e7f5c24",
+      "current_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "before_sha256": "03c90e921808b1530c1ea096130ac1fac1457c1052ee8f0f8c0bc2e2dc552049",
+      "current_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "before_sha256": "69f59aeaac1bad59f19175a9e5fc2bacee506f96c09aa5840a7b17900571e1d9",
+      "current_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "before_sha256": "ff7d88582ec295a80096cc01d9a0819665b579b686f3ee086e084c773706313c",
+      "current_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+      "current_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "876df7366f0ed5ee353ed91c99ddd6ccc2ca2785af74a2ef5355d39b8fbb1c0f",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+      "before_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+      "current_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "6b3008255b74e8c3256f2a3ef86d925b4780d7e6a5f1868d18f16fd1ae08e4ea",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+      "before_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+      "current_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "09a52e5145088d6fc235e64b4ff28c13cedce04968fe4f922cc7f270665c0042",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+      "before_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+      "current_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "609e8bf1307bfb2f1b6b30d1ad70ceb06aecb5158def1abd35c66735e8af506a",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "before_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+      "current_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "c3c72030e74ff5f316586f51136624aa9012ec00718c73d2150b68400ba54a45",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+      "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+      "current_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "ac7b19f12f8072d1a6183ff38fb4c233abb91b5f7771b0ec5efdbeeefd42d31b",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+      "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+      "current_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "1f3281bce48bf115fb7a5ab6413e15ba79d6f27631223d2e26a1762ad76f13bd",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+      "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+      "current_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "1f06c8fc4351ff3e70f003a0e045946807d996f0b88c4691287005e1867d1550",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-kronos-equals-venus.md",
+      "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+      "current_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "6a99088965ed57c5cf19e4057d2df4f310db9db60c8ead00d05094a0a30df72d",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+      "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+      "current_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "1661261c6d505fc2df3fa691ddce917990b51f9f88c45b1d9c65a8d6a863706e",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+      "current_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "6c187efb5aa3a1e0e6e589f59e6640232811e654c1b853728a5ad05ae8936ec8",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+      "current_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "3afb4619768c4a6d7cea71d8ac6064fe02eece7b93bef34363559b7a1c11c80a",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+      "current_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "05e71f9d9777823ee34d3bbbf44672617a15276698adef55b0564df686b6c646",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+      "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+      "current_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "e63d5708a4b3f05314b38c4e35cde6516707b8b62ba44a30e2f7a180e50c0105",
+      "global_owner_count": 1
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+      "current_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "0a6196a52cad0baa9440659db2f8a7fb06bdc21d70861fd606588110f327d78e",
+      "global_owner_count": 1
+    }
+  ]
+}

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Cupido Apollon Admetos](../triads/cupido-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 272 (printed 276).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Satisfied with a community of a few. A small scientific society. Cooperation in 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 433).
+
 #### ABC Entry
 
-Blocked trade community, depressing experiences of a community, success of a community through perseverance, consolidated knowledge community, joint success constraint, brilliant art success, and increasing resistance of a community
+Editorial English translation, checked against the German scan:
+
+Blocked trade community; depressing experiences within a community; success of a community through perseverance; consolidated knowledge community; shared restriction of success; thorough artistic success; increasing resistance of a community.
+
+## Comparative Schema
+
+- core meaning: Small-circle cooperation and shared knowledge can persist despite constrained trade or success.
+- psychology: Contentment with few companions; depressing communal experiences.
+- body/health: No specific physical or medical claim.
+- social/relationship: A small scientific society and cooperation in a small circle.
+- events/manifestations: Enduring success, consolidated knowledge, blocked trade and growing resistance.
+- conflicts/notes: The sources include successful perseverance as well as restriction; small size is not described as exclusivity.
+
+## Contradictions And Differences
+
+The sources include successful perseverance as well as restriction; small size is not described as exclusivity. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Apollon`: chosen small communities, niche circles, and productive or scholarly association that works precisely because it stays narrow. Main caution: enclosure: the circle may become too exclusive or too content with staying small.
+`Cupido/Admetos = Apollon` describes cooperation that can remain effective within a small circle: a few companions or a small scientific society can suffice. The [Witte entry](#witte-entry) supplies that focused association, while the [ABC entry](#abc-entry) extends it to knowledge and trade, where perseverance can bring success despite restricted achievement or growing communal resistance. Its artistic success belongs to this range too; neither source makes the small circle successful simply because it excludes others.
 
 ## Links
 

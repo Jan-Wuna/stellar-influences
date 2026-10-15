@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Saturn](../triads/vernal-point-jupiter-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Happiness or good fortune through separation, or in the field of agriculture. Opportunities improve through separation.
 
@@ -42,13 +46,27 @@ Happiness or good fortune through separation, or in the field of agriculture. Op
 
 #### ABC Entry
 
-Financial burden on the public, storten harmony in the public, money loss in the public, public law tasks, legal problems in the public, loss of public money, and benefits in the public age
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Financial burden on the public, disturbed harmony in public, loss of money in public, public legal tasks, legal problems in public, loss of public funds, and advantages in public in old age
+
+## Comparative Schema
+
+- core meaning: Public benefit tested through separation, loss, burdens, or age.
+- psychology: Happiness through separation and disturbed harmony are both source possibilities.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public legal obligations and loss of communal funds.
+- events/manifestations: Agricultural opportunity, financial burden, and advantages in old age.
+- conflicts/notes: Witte's beneficial separation remains distinct from ABC's losses.
+
+## Contradictions
+
+Witte emphasizes improved opportunities through separation, while ABC emphasizes financial and legal burdens but also advantages in old age. The synthesis retains both directions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Saturn`: happiness or good fortune through separation, or in the field of agriculture and opportunities improve through separation.
-- Practical expression: financial burden on the public, storten harmony in the public, money loss in the public, public law tasks, and legal problems in the public.
+In `Vernal Point/Jupiter = Saturn`, benefit is considered together with what must be separated, borne, or lost. The [Witte entry](#witte-entry) presents separation and agriculture as routes to good fortune. The restored [ABC entry](#abc-entry) instead stresses public financial burdens, disturbed harmony, lost funds, and legal tasks, while retaining advantages in old age. Restriction can accompany either an improved opportunity or a real public cost.
 
 ## Links
 

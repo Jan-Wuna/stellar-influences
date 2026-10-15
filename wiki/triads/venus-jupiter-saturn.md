@@ -30,24 +30,29 @@ updated_at: 2026-05-06
 
 - Triad-set: `Venus Jupiter Saturn`
 - Astronomicon triad-set: `Q V W`
-- This page is structural only. It does not merge the meanings of its orientations.
+- This page is structural only. It does not merge the meanings of its orientations. Use the [orientation map](#orientation-map) to choose the exact formula.
 
 ## Orientation Map
 
-- [Jupiter/Saturn = Venus](../activations/jupiter-saturn-equals-venus.md)
-- [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md)
-- [Venus/Saturn = Jupiter](../activations/venus-saturn-equals-jupiter.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Saturn](../axes/jupiter-saturn.md) | Venus | [Jupiter/Saturn = Venus](../activations/jupiter-saturn-equals-venus.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Saturn | [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md) |
+| [Venus/Saturn](../axes/venus-saturn.md) | Jupiter | [Venus/Saturn = Jupiter](../activations/venus-saturn-equals-jupiter.md) |
 
 ## Source Coverage
 
-- `Jupiter/Saturn = Venus`: Michael, page `256`
-- `Venus/Jupiter = Saturn`: Michael, page `192`
-- `Venus/Saturn = Jupiter`: Michael, page `196`
+Each exact formula has the five canonical source headings below. This describes entries currently present, not complete coverage of the original works or intact wording of every excerpt. Munkasey locators are printed entry pages; other locators and their qualifications are available through the linked entries.
+
+- `Jupiter/Saturn = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-saturn-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-saturn-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/jupiter-saturn-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/jupiter-saturn-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/jupiter-saturn-equals-venus.md#munkasey-entry), printed p. `256`.
+- `Venus/Jupiter = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-jupiter-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-jupiter-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-jupiter-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-jupiter-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-jupiter-equals-saturn.md#munkasey-entry), printed p. `192`.
+- `Venus/Saturn = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-jupiter.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-jupiter.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-saturn-equals-jupiter.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-saturn-equals-jupiter.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-saturn-equals-jupiter.md#munkasey-entry), printed p. `196`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Locator limitation: Venus/Jupiter = Saturn retains chapter-start-only Sandbach pagination at PDF p. 56 in its canonical record. Venus/Saturn = Jupiter's Sandbach entry is located exactly on PDF p. 58.
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

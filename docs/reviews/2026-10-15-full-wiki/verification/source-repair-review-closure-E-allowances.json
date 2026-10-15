@@ -1,0 +1,1382 @@
+[
+  {
+    "path": "wiki/axes/admetos-poseidon.md",
+    "before_sha256": "95439534e26c612885980c96cb814c9e3cb58b2e3db2ba5f602bae49ea96d505",
+    "after_sha256": "b8d79d6bdbbafce1a1df152fc204cffff2401e82e17278516573719785a2951a",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p237.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p312.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/admetos-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/admetos-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/admetos-vulcanus.md",
+    "before_sha256": "77a795c68f94338f1c8571f95aa2552c40a747b717f5e217f0e6e09bd84f2e6e",
+    "after_sha256": "1994c00275ccc30386de003ea3114ed1e4746d14f666362055f15e3c65e47622",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p236.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p311.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/admetos-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/admetos-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/apollon-admetos.md",
+    "before_sha256": "ea718e8de0ac5361b0ca87555b0ea3d28883bb36680dda677dd2e41f35942be1",
+    "after_sha256": "9ddb0cecceb209fc9bd14d9e26d72e79568040bfd1bc5ef35a3bb51b8699efb8",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p233.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p306.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/apollon-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/apollon-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/apollon-poseidon.md",
+    "before_sha256": "b701fbcbd6918831e0d7e23104d6c614e99cdd96baf22a237b666cfad8dd8bb6",
+    "after_sha256": "31488f16743b97dadbf5c185bc949158102494e0c11586e1517c2a46154c953d",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/apollon-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/apollon-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/apollon-vulcanus.md",
+    "before_sha256": "600c9373f767039523b07ee0fcc957e25846eb032ee12185735c21a3e365edff",
+    "after_sha256": "ec590aa36f028858a0431d0e89c0216ac0c51d7d53a42d9494dffa7169b19ca3",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/apollon-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/apollon-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/asc-admetos.md",
+    "before_sha256": "abd4c964e21e65584257a1b1d0aaa8842871388df5a3ec846d3ad923b40537f0",
+    "after_sha256": "968e150e05ae2796bce274b8dd911bceb7392a3fc33e177d61b5544e2c5039f7",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p96.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/asc-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/asc-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/asc-apollon.md",
+    "before_sha256": "d86f3d5af300421d0ab1d29173f75bdfd89dff7981e690e0487f26c181240a7c",
+    "after_sha256": "69b3ef4d996bb8534e96e0c5c6f9213f350953a86662f52b93608beb3ffa14ec",
+    "ledger": "axes-001.jsonl",
+    "reason": "Complete before/current source bodies and complete amended original record read. Actual Witte95 prints Matters that are take place; restored printed wording and corrected record independently reread. Complete11-clause ABC130/PDF64 transcription/translation and exact Witte locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p64.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p95.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/asc-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl: path=wiki/axes/asc-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/asc-mc.md",
+    "before_sha256": "236b3bbc144caac66e0ace5f261fa631bff372694c4b1e9fc75f4de4eab3a70d",
+    "after_sha256": "07734451a424783bf1ed29a463ee7da90e33772e89422417c8f54721bfced51a",
+    "ledger": "axes-002.jsonl",
+    "reason": "Complete eight-source baseline/current bodies and complete amended original record read. All cumulative source deltas/new locators checked: ABC29 printed60–61 complete14-clause list; Witte58 actual Meridian+Ascendant bold pair; Sandbach121 full Principle/Process; McBroom71/72 printed60/61 heading versus exact admitted excerpt. Actual Ebertin308 printed306 verifies whole pair entry, footnote67 belonging to heading and complete footnote text;309 printed307 confirms running heading. Source boundary repair preserves all meaningful text.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p29.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-ebertin-p308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-ebertin-p309.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-mcbroom-p71.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-mcbroom-p72.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/asc-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/asc-poseidon.md",
+    "before_sha256": "c8dcae27098903f54affdeead27a634b6b923546ed7f34b4d72f9d8db1e7f5fc",
+    "after_sha256": "50476b1ac25990b236566566c102f3909fa80e53faf0bb0fc4406340334bd5ef",
+    "ledger": "axes-002.jsonl",
+    "reason": "Complete before/current bodies and full amended owner record read. Actual Witte98 literally prints Others are high sensible; linguistic limit confirmed and preserved. All cumulative ABC67 printed136 twelve clauses and exact new locators independently checked; no inferred intended wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p98.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/asc-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl: path=wiki/axes/asc-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/chiron-pluto.md",
+    "before_sha256": "67e210cb4dd3c0b439b7db5c2bfa14cda5263edee160c80733f89841194806e1",
+    "after_sha256": "07e2993ca2de3e3edc27e45eb5b88c36beed24dfa2443daa7ca0b7d68f623426",
+    "ledger": "axes-003.jsonl",
+    "reason": "Complete before/current Principle/Process and full amended owner record read. Actual Sandbach99 confirms to overcoming and tran scending as printed irregularities, missing dash restored and exact full-passage locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p99.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/chiron-pluto.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/chiron-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/chiron-uranus.md",
+    "before_sha256": "d717b6411eb328d26cc968d736e63563d76e2143b4f820bcdad94bfcf0054adc",
+    "after_sha256": "d4df3ec16e7d58b1eb2a737273e5eda8f27b4f5f1642c989f461eebba941c53e",
+    "ledger": "axes-003.jsonl",
+    "reason": "Complete before/current Principle/Process and full amended owner record read. Actual Sandbach96–97 confirms cross-page Process boundary, printed taken-for-granted compound and genuine inspi ration / awaken ing spacing. Exact two-page locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p96.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p97.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/chiron-uranus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/chiron-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/cupido-apollon.md",
+    "before_sha256": "ca5dd73565500c90bb4635552e7ec4a414fad9288a4db7fe65158b5fa7e75819",
+    "after_sha256": "3e6fc9dd897968a3aeac3c60c6cafec23d558f030ff6846f251a9ffa048c138f",
+    "ledger": "axes-003.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/cupido-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/cupido-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/cupido-kronos.md",
+    "before_sha256": "cc3da166d0f76d365bf4d4237418170e67d2982af17997c672ad8bf5a7d259b7",
+    "after_sha256": "59a7f4744ea351214b5201eb04db0b17bc66948ebe7c9b6cb1c728fa25a2a087",
+    "ledger": "axes-003.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p269.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/cupido-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/cupido-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/cupido-vulcanus.md",
+    "before_sha256": "cdf59a02c1cdc76b595e99581c0927cea86d4240c9dd7a5fb0f1ba27139fcb35",
+    "after_sha256": "190cdc6c32673f75ce7059eb695f631ff1b732924d9830f85169c264e683f098",
+    "ledger": "axes-003.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p216.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p273.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/cupido-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl: path=wiki/axes/cupido-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/hades-admetos.md",
+    "before_sha256": "75c9c3a071449c5e4d220501f7149d3fe063513cdb0002fbecfb19d8601e02b6",
+    "after_sha256": "a05e0f8f7375665f95f7f00e76a4520a52d505bd914e30acfcb40729e71ef901",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/hades-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/hades-kronos.md",
+    "before_sha256": "00d401bbb903e3ccfd3bc4db690073671cb1972a1eb4f30f0789b60809004a98",
+    "after_sha256": "08c56f0683eae487e6e3765d6cb226774e3a24430e9a20bb62073ba8b2e0a73b",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p219.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p279.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/hades-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/hades-poseidon.md",
+    "before_sha256": "c4d7abf4c0aedb5e5f366dce7de9551c2e598bc88afa82b41a1e45de4192ed69",
+    "after_sha256": "58c23e3e1709b7f9e79a18300ec600dd975b1cc4f8ffe5c7ebbf89fee8279609",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p223.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p286.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/hades-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/hades-vulcanus.md",
+    "before_sha256": "3fffa36258c8b21c37de64b2afec54dfdb5e87ecc4fcca2206d287551fd48953",
+    "after_sha256": "921130d4bb0c47a425b419f944b2bab2682192aefadcd1cd0a07dfc1e867e85e",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p285.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/hades-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/hades-zeus.md",
+    "before_sha256": "8bd8a2f2e10532d421a62f92051a812934d45c62e04c8d842133eeee84509cc1",
+    "after_sha256": "c573b6f88cfdda5a6efdf1638663482069ab18aaaf6bc36f1a76f4228edde3f3",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p218.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p277.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/hades-zeus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/hades-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-admetos.md",
+    "before_sha256": "a538dbfdc360665c92c8210ac124e418ef906892111f4a5badc1718ccc687199",
+    "after_sha256": "33323a1df7320bfa1a4ec06a83bc71eccc98f8fcc6cb3fb977edefa62df36d5b",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete before/current bodies and full amended unique owner record read. Actual ABC342/PDF170 full10-clause list and Witte220/PDF216 complete bold pair verified. Stale incomplete-translation evidence explicitly labeled preclosure history; complete saved amended record independently reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p170.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p216.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/jupiter-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/jupiter-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-apollon.md",
+    "before_sha256": "e1d4772f3fb14e7c1d09623780d153c7307c62d4c2eed2f02d4daf0c5cdc98ce",
+    "after_sha256": "f55fbf6d62739baf9856c9a6557b846c52e3f702d2f60bd10a74954101f154c3",
+    "ledger": "axes-004.jsonl",
+    "reason": "Complete original flags, full baseline/current source bodies and full unique amended owner record independently read. Every ABC German bold-summary clause and labeled English translation checked against actual scan, with omitted/mistranslated terms restored; complete Witte bold pair boundary and all new PDF/printed locators personally viewed. No printed folio inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p169.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p215.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-001.json: path=wiki/axes/jupiter-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl: path=wiki/axes/jupiter-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-asc.md",
+    "before_sha256": "cba6a0dabaf7624364c5f3aab98958714e614caa763625f2862d38b7f49e8c9e",
+    "after_sha256": "f5f9efad22fdf4d29f74eb91fd9b421748a4500abd63418adc6049d02197b379",
+    "ledger": "axes-005.jsonl",
+    "reason": "Sandbach PDF85 genuinely prints which much gusto; complete Principle/Process verified. Complete cumulative Witte ASCENDANT + JUPITER PDF86 and ABC twelve-clause printed112–113/PDF55 translation/locators independently checked. Other source blocks remain unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p85.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p55.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-asc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-asc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-mc.md",
+    "before_sha256": "bf3af47b4f072c765a87739befaf4d0b1bf6fe001e6c2b7deeb611882d9e590f",
+    "after_sha256": "5a8428d3023b8b41945b8023fed68e572ac1e81cb16405b6bbcb99db8d393a57",
+    "ledger": "axes-005.jsonl",
+    "reason": "Complete Munkasey native categories printed279/PDF280 verified; both help you an inner personal wisdom and people and their how to motivate them genuinely printed. Complete cumulative Witte MERIDIAN + JUPITER/PDF65 and thirteen-clause ABC printed74–75/PDF36 list checked, including Selbst-Zufriedenheit.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-munkasey-p280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p65.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-pluto.md",
+    "before_sha256": "9472e763f4f9bb76306b38c1fbe4ead601b976797036cf6a137b3632106ea6e9",
+    "after_sha256": "dc8f58857464f908898c0dece9cf683c55b94a0c08b9abafef2cd9b35e84ef69",
+    "ledger": "axes-005.jsonl",
+    "reason": "Complete Ebertin printed234/PDF236 pair and separately printed heading footnote50 verified, including parenthesis and exact Sun-Neptune-Pluto comparison. Complete cumulative Witte JUPITER + PLUTO/PDF210 and ten-clause ABC printed330–331/PDF164 list checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-ebertin-p236.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p210.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p164.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-pluto.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl: path=wiki/axes/jupiter-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-poseidon.md",
+    "before_sha256": "9d5a3c41bde6e1485d90536124b1de6c37bdd9959c60b1778f552b73a7d32d6a",
+    "after_sha256": "cf58d994da6dfa5fc43441180779191c07fb632f89a0dacff8a55c0dad486db9",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC eleven-clause German bold pair summary printed346/PDF172 and labeled English translation independently verified; unrelated repeated English removed. Complete Witte JUPITER + POSEIDON/PDF218 pair and locator checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p172.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p218.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/jupiter-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-saturn.md",
+    "before_sha256": "c058e692e6ff782f67ee333b6c72bdf2f3d7f4ed9c3c19ad8121abadea929bbe",
+    "after_sha256": "76c130335c91206a1d0465bf27eaa47831a70263c837d430b76094e2aded9376",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC ten-clause bold pair summary printed324/PDF161 and labeled translation checked, including disrupted success, gain/loss, age, concentration and compensation for pain. Complete Witte JUPITER + SATURN/PDF207 paragraph and cumulative heading/locator repair checked. All unchanged long source blocks read in baseline and matched current.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p161.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p207.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-saturn.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/jupiter-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-uranus.md",
+    "before_sha256": "9ad67728b23666c37539cf1f3ce232234d9ef73c14f0d6396242b7896ecb0422",
+    "after_sha256": "80be6ff8cc70ae2817ba022e99468d3895628587b6ca4793c2a0ac72b7dc166c",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC ten-clause bold pair summary printed326/PDF162 and labeled translation checked, including Erfolgs-Impulse, Finanz-Reform and freudige Überraschung. Complete Witte JUPITER + URANUS/PDF208 paragraph and cumulative heading/locator repair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p162.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p208.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-uranus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/jupiter-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-vulcanus.md",
+    "before_sha256": "e338505285360dbfa160055b8f9f861d402f96ad361ab96173c5c8f07e3e8281",
+    "after_sha256": "1e1404f75c5c9cdcfa05ee2994843807040d2f3b3ff74f14942f200327227b37",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC twelve-clause bold pair summary printed344/PDF171 and labeled translation checked; restored legal influence distinct from legal power. Complete Witte JUPITER + VULCANUS/PDF217 paragraph and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p171.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p217.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/jupiter-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/jupiter-zeus.md",
+    "before_sha256": "62c22080dbfaa58cdf07a8f0aa9bd5f2658809781325e34c79dd0299995e2565",
+    "after_sha256": "883ec02582a9ace9f38ff54de75b28b472afa25b77d9dca7509ec397e88e9800",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC twelve-clause bold pair summary printed336/PDF167 and labeled translation checked, including Finanz-Führung, Freuden-Feuer and Geld-Erzeugung. Complete Witte JUPITER + ZEUS/PDF213 paragraph and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p167.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/jupiter-zeus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/jupiter-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/kronos-admetos.md",
+    "before_sha256": "28f35145bd933aaa7eefca66342e798609344b6a6ae43b502e0c14aa1dd64890",
+    "after_sha256": "993e892c952530cfdbd8d43f328f1d6106bebd96a29da4b0d4441e8c0919242f",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC ten-clause bold pair summary printed462/PDF230 and labeled translation checked; independence, consolidated authority and thorough superiority restored. Complete Witte KRONOS + ADMETOS/PDF300 paragraph and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p230.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p300.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/kronos-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/kronos-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/kronos-apollon.md",
+    "before_sha256": "88770d12ed813ed9963f038f0d01c6839ffff2988f94816817cfca20764f43e3",
+    "after_sha256": "2e8df8e752d8444232ded80c3d12767ae1867419bb3a994b2679e94ce270662b",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ABC ten-clause bold pair summary printed460/PDF229 and labeled translation checked; Ansehen, Fülle, selbständiges Wissen and Selbstbewußtsein distinguished. Complete Witte KRONOS + APOLLON/PDF299 paragraph and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p229.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p299.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/kronos-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/kronos-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/kronos-poseidon.md",
+    "before_sha256": "d6a5a97a2c76b05ef193650980afc563c905950b524b7d4d6dcdce9cd6e28c47",
+    "after_sha256": "d86b57dd9771fbc18cc69f40db2dfcf2b8ad89d0edfb9ceffeee3d3c1d459b18",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ten-clause ABC bold summary printed466/PDF232 and labeled translation verified. Restores Geistes-Größe, geistige Selbständigkeit and vernünftige Autorität; complete Witte KRONOS + POSEIDON/PDF302 pair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p232.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p302.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/kronos-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/kronos-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/kronos-vulcanus.md",
+    "before_sha256": "ca64459bc9d087531cfeabbb5bb72c1f5b3bab50749483788ad89a437266b985",
+    "after_sha256": "e8874c3b6759c3471c853a761ab06afebdb0ea99ce6a8762eaf2c146dd1a2d18",
+    "ledger": "axes-006.jsonl",
+    "reason": "Complete ten-clause ABC bold summary printed464/PDF231 and labeled translation verified, including Selbstbewußtsein and Gewalt range. Complete Witte KRONOS + VULCANUS/PDF301 pair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p231.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p301.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/kronos-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl: path=wiki/axes/kronos-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-admetos.md",
+    "before_sha256": "dc2ace8090f49272e72a8a78f9508288c3462cec75c04a42d063430193171418",
+    "after_sha256": "007b13900c5d093032fe7d492d109bb1488566c36e1b089ecc79d6061096c495",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed318/PDF158 and labeled translation verified; gründliche Aktionen replaces Greek actions, and suppression/rotational/primordial-material wording remains source-limited. Complete Witte MARS + ADMETOS/PDF202 pair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p158.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p202.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-cupido.md",
+    "before_sha256": "c064cbfab68d4041188961b2834952ed74a24eef26d9c2139ead279b89bc76fa",
+    "after_sha256": "801d5acee336a5335f175dcaeb43fda6849edd624275f534dd78de069d8a2eb0",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete ten-clause ABC bold summary printed308/PDF153 and labeled translation verified; Kunst-Tätigkeit is artistic activity and tatkräftige Gemeinschaft energetic community. Complete Witte MARS + CUPIDO/PDF197 pair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p153.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p197.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-hades.md",
+    "before_sha256": "cc03e50523f97a0d555b00f3330c3ee9c28203fde3affbb91754894be6ee645d",
+    "after_sha256": "d58667bdae6461cbb8dbde6a7d274914932dc9c5872c42677a803b060f512e5b",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete ten-clause ABC bold summary printed310/PDF154 and labeled translation verified; Arbeits-Dienst repairs Work Danst. Complete Witte MARS + HADES/PDF198 pair checked, historical violent/medical claims preserved in their exact source boundary.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p154.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p198.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-jupiter.md",
+    "before_sha256": "61e764a66734cbea0479914bd270223b200c39759aa10065635973177b3a06d0",
+    "after_sha256": "f2b7f8a42b8f0fb196798adc6c211080e2b1c713a9b21923e068f2aaae402d68",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete thirteen-clause ABC bold summary printed298/PDF148 and labeled translation verified, including omitted Glücks-Impulse and Rechts-Handlungen. Complete Witte MARS + JUPITER/PDF192 heading and paragraph checked. Unchanged long source blocks read and matched current.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p148.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p192.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-jupiter.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-jupiter.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-kronos.md",
+    "before_sha256": "e7583ad65650ad6fee60f443707ab041bbc718a93051e9c4ae12fcd1dd94dd06",
+    "after_sha256": "f1d8bcde5684c173cfd2bf345b7bab890e1fb5808f8565d7788dfe23f7b78607",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed314/PDF156 and labeled translation verified; authority, self-confident action and independent work distinguished. Complete Witte MARS + KRONOS/PDF200 pair checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p156.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p200.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-mc.md",
+    "before_sha256": "5ec3c0a6f82ca8c39530d18b6966cd46bb40800bae814891bd4e730eb0b5934e",
+    "after_sha256": "b4ed1c546488e64d4fbdab246ec1bb4d688d65b58f433e2807d169b010858183",
+    "ledger": "axes-007.jsonl",
+    "reason": "Complete twelve-clause ABC bold summary printed72/PDF35 and labeled translation verified, including Aktions-Minute, beseelte Arbeit and mein Wille replacing damaged wine. Complete cumulative Witte MERIDIAN + MARS/PDF64 identity and pair paragraph verified. Unchanged source blocks read and matched current.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p35.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p64.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl: path=wiki/axes/mars-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-neptune.md",
+    "before_sha256": "83fa74f2cdd2349633616d17fd4c19ea8da1f2938306e8d1b2032db172f6f6cd",
+    "after_sha256": "9ab18ff01d668a45bc598dda72f5adebc66c8c704fa0406fd687420045fcc04b",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete nine-clause ABC bold summary printed304/PDF151 and labeled translation verified, including activities by/with water, work in air, dissolution and intuitive impulses. Complete cumulative Witte MARS + NEPTUNE/PDF195 identity and paragraph verified. All other long source blocks read and matched current.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p151.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p195.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-neptune.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-node.md",
+    "before_sha256": "10d5fb5deaeeeebc0d8ae8cc03b2ddc27d3f79a3223e3cbca19e10ec34db3710",
+    "after_sha256": "7511694ad550f33096d481d27fd6076941159f7a36cb18fb325c8a73b3d71208",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete eight-clause ABC bold summary printed212/PDF105 and labeled translation verified, including wanting contacts and creating connections. Complete cumulative Witte NODES + MARS/PDF143 identity and paragraph verified. All other source blocks read and matched current.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p143.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-node.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-node.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-poseidon.md",
+    "before_sha256": "0b1a5df36a6569607aca5c1b07dabb5da1b00e2f7f3fa5e88a3c667ead406348",
+    "after_sha256": "0f83cd60edcc49a48b3ec72e2430ac57d14c8d86b8926eb77f8452fcf7183fba",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed322/PDF160 and labeled translation verified, including work culture, insightful activity, actions arising from insight, clear will and creating truth. Complete Witte MARS + POSEIDON/PDF204 pair and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p160.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p204.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-saturn.md",
+    "before_sha256": "368053c57094d5ab921fb9e343c6d71a292197aac77c01b94b5dd195624afe5a",
+    "after_sha256": "734038b863e16394291d19e85e59f1d7933e3e0d657f89fa8e1121af90a04955",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed300/PDF149 and labeled translation verified; serious actions, disturbed will, slow work and painful activity replace corrupt/repeated grim wording. Complete cumulative Witte MARS + SATURN/PDF193 pair verified. All other long source blocks read and matched current; existing mortality qualification preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p149.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p193.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-saturn.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-uranus.md",
+    "before_sha256": "491431d3d99472df71112f893a70b7914e23a78283ff3008be3dbe2d500453a9",
+    "after_sha256": "9e11c574f24edede09a6c62a1806ec93790740a130b93d6749222656667617c6",
+    "ledger": "axes-008.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed302/PDF150 and labeled translation verified; surprising actions repairs over surprise actions. Complete cumulative Witte MARS + URANUS/PDF194 pair verified. All other long source blocks read and matched current; existing operation qualification preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p150.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p194.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-uranus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl: path=wiki/axes/mars-uranus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mars-vulcanus.md",
+    "before_sha256": "206eb6e484c28ceb8a7fe229dbcc903fac93d01399a90f9eb883486995023bec",
+    "after_sha256": "4756ba5f95ade2c510da13ca79911f3063d16a00522272aa5ffae0fa7629adaf",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete eleven-clause ABC bold summary printed320/PDF159 and labeled translation verified, including Arbeits-Kraft, influential activity, Gewalt range and will to power. Complete Witte MARS + VULCANUS/PDF203 pair and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p159.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p203.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mars-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mars-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mc-apollon.md",
+    "before_sha256": "9b08f0ae49408bc9835a2cfa44af4ce10dfa31a9145ffd5aa76640e5ba3d6577",
+    "after_sha256": "e2298adb1781ae3aecaf80f4d79f1c06e282efc817dd85dab3f76fea82b73228",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete twelve-clause ABC bold summary printed92/PDF45 and labeled translation verified; omitted Wissenschaft von der Seele restored as study of the soul. Complete Witte MERIDIAN + APOLLON/PDF74 pair and locator verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p45.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p74.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-002.json: path=wiki/axes/mc-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mc-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/factors/sun.md",
+    "before_sha256": "2000b4a938851c758d22f933bc09b77dbb1395481421b42e442bc3c2115e396c",
+    "after_sha256": "f551ad22a75e5698dd899d0ce79a27c6c80795928e69b851a4f89dc31a9c6e28",
+    "ledger": "factors-006.jsonl",
+    "reason": "Full original/current Source Entries and full unique amended owner record read. New Hand PDF52–55 OCR directly verified against all four actual scans: which, planetary, will, following dawn, with, Chapter12 punctuation, they, integrity and very. Existing bounded Ebertin47–49 and Hand56 repairs reuse the primary gate's completed acceptance scope unchanged, as explicitly authorized; no repeated raw/history review.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p052.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p053.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p054.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p055.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-factor-bindings.json: path=wiki/factors/sun.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/factors-006.jsonl: path=wiki/factors/sun.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/factors/jupiter.md",
+    "before_sha256": "b2c0ec3b0e43909d6db5db785294569593d616715ccd4c4e9e256b86c17112a6",
+    "after_sha256": "c0e5498ccac292898f49facabc10e84ee59bda43b14a4751a55d2e88d35a648f",
+    "ledger": "factors-002.jsonl",
+    "reason": "Full original/current Source Entries and full unique amended owner record read. New Hand PDF75–77 OCR directly verified: every, family, physically, with, grow, world, allows, down, self's, furthering and always. Actual PDF77 confirms admitted excerpt ends at the already accepted Saturn-limit sentence and excludes the subsequent integration discussion. Prior ABC/Witte/Ebertin locators, harmony repairs and twelve-row split reuse the primary gate's bounded completed acceptance unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p075.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p076.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p077.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-factor-bindings.json: path=wiki/factors/jupiter.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/factors-002.jsonl: path=wiki/factors/jupiter.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/factors/moon.md",
+    "before_sha256": "81af6e490c8f6d22a0a1a5862f5d80f40535a38b4fc048b48ef55669a40c1d3f",
+    "after_sha256": "a6505ff9f539f6aef73e1c1edd708b18bf9e866f93ee096fa0892e2d57fe7501",
+    "ledger": "factors-004.jsonl",
+    "reason": "Full original/current Source Entries and full unique amended owner record read. All new Hand56–61 OCR and reference bounds directly verified against actual scans, with fresh PDF56 Moon-opening scope only. Clear ordinary words restored; actual high-resolution PDF59 singular ref ex is physically defective while following emotional reflexes is clear. Prior Ebertin50–51 row boundary acceptance reused unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p057.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p058.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p059.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p060.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-robert-hand-pdf56.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p059-reflex.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-allowances.json",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-factor-bindings.json: path=wiki/factors/moon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl: path=wiki/factors/moon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mc-cupido.md",
+    "before_sha256": "4735cf9b5d91bce50b493256a828df28b4fb7352874d7a45c2a9ab39625cb224",
+    "after_sha256": "f89a3d856d64e5ef54f465fc82be194770de4f6f7eac4fb6885c70b300bf9af3",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete ABC nine-clause bold summary printed84/PDF41 and cumulative Witte MERIDIAN + CUPIDO PDF70 match the saved source body. Beseelte/Gemeinschaft wording is labeled editorial translation, without a Holy Spirit doctrine.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p41.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p70.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mc-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mc-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mc-hades.md",
+    "before_sha256": "7b7818b87758347b3d00f98f357318b4f470f123d0778d7156eef3dfaf6e8c34",
+    "after_sha256": "b66d77fb5f805110f593e8f69acbf67249f468b15718a3b8de42ea81f62d9aad",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete ABC thirteen-clause bold summary printed86/PDF42 and cumulative Witte MERIDIAN + HADES PDF71 checked. Gefährdete Seele means endangered soul; ich entbehre and mein Dienst remain separate clauses.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p42.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p71.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mc-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mc-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mc-kronos.md",
+    "before_sha256": "ffbb6b2af456bebd5a2d2c9a400c81d78c51121c5d6d18f3b1cbfd4d1882145e",
+    "after_sha256": "0b2c44948b50c18c9245231b93f5d97a057d1f878d5afd73cc735b82736b7ad8",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete ABC twelve-clause bold summary printed90/PDF44 and cumulative Witte MERIDIAN + KRONOS PDF73 checked. Meine Selbständigkeit, meine Überlegenheit and seelische Größe are independence, superiority and greatness of soul in the source wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p44.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p73.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mc-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mc-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mc-poseidon.md",
+    "before_sha256": "58085c443c343c4e18aaef12466b8f27c1840601e2481e1de8db3bd57693b365",
+    "after_sha256": "3596c9c97b6522c38d11133b31b74a5a944fe6241374582d65c3b66a23340a69",
+    "ledger": "axes-009.jsonl",
+    "reason": "Complete ABC twelve-clause bold summary printed98/PDF48 and cumulative Witte MERIDIAN + POSEIDON PDF77 checked. Geist-Seele and Vergeistigung remain source terms without a specified metaphysical mechanism.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-udo-p48.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p77.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mc-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl: path=wiki/axes/mc-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-admetos.md",
+    "before_sha256": "a5afdc31326af2c746b59412ed29c03b04346e761da72c495bce66b20b157d68",
+    "after_sha256": "8a84019f1fdd12859ca83534df636f288554c72f3b20f0fd773a6469d6b0cec9",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC twelve-clause bold summary printed264/PDF131 and cumulative Witte MERCURY + ADMETOS PDF171 checked. Gesprächs-Vertiefung, Nachrichten-Sperre, schwere Jugend and Verkehrs-Stau are restored; depressive language is not promoted to clinical diagnosis.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p171.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-apollon.md",
+    "before_sha256": "3d2c55f05c2eb3782aca6e24e3f44b13a6d490c23a1d7b8de3e5675d96b6d645",
+    "after_sha256": "66ebe94ab2a80c29c61d62228f4ef0749efd598d7ec1cded63e0f0f6a4742268",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC eleven-clause bold summary printed262/PDF130 and cumulative Witte MERCURY + APOLLON PDF170 checked. Gedanken-Fülle and Handels-Gespräche support abundance of thoughts and commercial conversations.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p130.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p170.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-cupido.md",
+    "before_sha256": "a948c7662a7a1bc32d2c94570e8e77fcf446abb75763a6868c92c3b3009c93a7",
+    "after_sha256": "bbddd0a780e75904a2f9d0c964816fff321b5217cceb644147dea203f0ef9552",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC nine-clause bold summary printed254/PDF126 and cumulative Witte MERCURY + CUPIDO PDF166 checked. Gespräche über Kunst and Gedanken zusammenfassen support conversations about art and gathering thoughts.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p166.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-hades.md",
+    "before_sha256": "71d4dc050a0feb8aa67dba2b226421cf953713e4e2888399420eb8f5c0f6ef49",
+    "after_sha256": "e099d0fb326332565ee8b406de41f133f555c3494b5ddaab33a219a3dd64bc1e",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC eleven-clause bold summary printed256/PDF127 and cumulative Witte MERCURY + HADES PDF167 checked. Gefährdete Jugend is endangered youth, distinct from gefährliche Gespräche, dangerous conversations.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p167.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-jupiter.md",
+    "before_sha256": "9ef5881d992d1a3b90ffaefc6ed50e557c738c3ec959322efd37e0f95257bf0c",
+    "after_sha256": "761868ea640c0cb1c5690c7907f7bafc29fc9c1ce7a1d002ca7f24cc483c065d",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC eleven-clause bold summary printed244/PDF121 and cumulative Witte MERCURY + JUPITER PDF161 checked. Junges Glück, Schrift-Gut and Verkehrs-Recht support young happiness, written material and traffic law; no specialized legal mechanism is supplied.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p161.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-jupiter.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-jupiter.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-kronos.md",
+    "before_sha256": "0d7a120405a45e26604e0adfabac11de6a281f5b65752ceb015292e5771c8d0c",
+    "after_sha256": "bad9d56bfd3b35bf6ef5193a0b7d397b4ced600b1be2fa975fd9c256a71139df",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC eleven-clause bold summary printed260/PDF129 and cumulative Witte MERCURY + KRONOS PDF169 checked. Ansehen der Jugend and Autorität der Sprache correct awareness/authorship to standing and authority.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p169.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-mars.md",
+    "before_sha256": "e7b1b1ebbb66ead872e4ffc2cc184bf99d19862fa854941a4af1a71a8cfc595f",
+    "after_sha256": "a2ffd7c49a829bb3b6bb6bb3bb510b2d5c7f40571a6a7f0c71c3108a9b9483ae",
+    "ledger": "axes-010.jsonl",
+    "reason": "Complete ABC ten-clause bold summary printed242/PDF120 and cumulative Witte MERCURY + MARS PDF160 checked. Männliche Jugend is male youth. Hand PDF204–205 actually splits self-/assertion across pages; editorial joining is correct. Ebertin printed148/PDF150 complete pair prose and boundary are verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p120.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p160.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p204.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p205.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-munkasey-p152.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p150.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-mars.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl: path=wiki/axes/mercury-mars.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-mc.md",
+    "before_sha256": "5313c8fbb31db70cd9f3d65f8958d63a12b9922463ad5d18d48495228209ee6b",
+    "after_sha256": "cec425a224d51d47f81d6fd3a8823cf42886c830c4fb80b54ad59baca4da81f9",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC thirteen-clause bold summary printed68/PDF33 and cumulative Witte MERIDIAN + MERCURY PDF62 checked. Seelen-Sprache means language of the soul, and ich denke/ich schreibe are separate clauses. Unchanged Ebertin172/Sandbach53 references remain expressly limited chapter-start locators.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p62.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-neptune.md",
+    "before_sha256": "739f9d1941c3bb17fc92c5d91b8147c8ac7206af944f2b3be488a59a2e5e7a62",
+    "after_sha256": "9f5b3ef037923ba044e0d1ff0b4c878637ae35c39c1b2d68a9d25ae2846cb85c",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC twelve-clause bold summary printed250/PDF124 and cumulative Witte MERCURY + NEPTUNE PDF164 checked. Gespräche über Metaphysik and Zukunfts-Gespräche restore conversations about metaphysics and the future. Other unchanged author references retain honest chapter-level granularity without exact-entry certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p124.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p164.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-neptune.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-node.md",
+    "before_sha256": "4e7dba40dde5e3e0aedb7038b7990ce51a7571d73a05469dc194d16f7da85a97",
+    "after_sha256": "d3e0b00d4ab428abdd5f64c287a2ad0482aba77a4027b346e59969a76269b9d3",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC nine-clause bold summary printed208/PDF103 and cumulative Witte NODES + MERCURY PDF141 checked. Begegnungen, Medien-Kontakte and all previously omitted terms are legible. Ebertin166/Sandbach51 remain explicitly bounded chapter-start references.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p103.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p141.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-node.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-node.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-pluto.md",
+    "before_sha256": "143d49a39af15b682d1dc095ac223ee3e78b438b553cd84ef84e26406bf91853",
+    "after_sha256": "a7f84e816c3469cffde8c51eeaf30830d7a9354ecefdf68c6af46eae56e98350",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC ten-clause bold summary printed252/PDF125 and cumulative Witte MERCURY + PLUTO PDF165 checked. Ebertin printed163/PDF165 reads formation and ends before the next heading. Actual Falis PDF42 verifies all joined line-end word splits while preserving printed grammar; Sandbach PDF50 complete Principle/Process preserves actual internal gaps.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p125.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p165.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p165.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-falis-p42.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p50.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-pluto.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-pluto.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-poseidon.md",
+    "before_sha256": "054be7d34a80377eeeacfee57c1c2b09ff2f25cee7bcab9c6b8e9087493547b8",
+    "after_sha256": "324a1c4a6ec059149884ff8eecb2a42ef0e29046416a6894df910352db71ae4d",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC ten-clause bold summary printed268/PDF133 checked. Vernünftige Gespräche, vernünftige Meinung and vernünftige Jugend support reasonable conversations, opinion and youth, correcting poor language and the fragmented phrase. Unchanged Witte173 audit reference remains chapter-level without an exact-entry claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p133.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-saturn.md",
+    "before_sha256": "22a5bcfac861a8829aab1be7bed2a54f23e95c38ba04e076ae21dbb4afe5852e",
+    "after_sha256": "91273de22e9852c5e1a910f18bf1f54af2c17d068fc59329a65e906684de1522",
+    "ledger": "axes-011.jsonl",
+    "reason": "Complete ABC twelve-clause bold summary printed246/PDF122 and cumulative Witte MERCURY + SATURN PDF162 checked. Gestörte Jugend/Verkehr, Denk-Störungen, Gedanken-Konzentration and Alter are legible and correctly translated. Other unchanged author references remain bounded chapter locators.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p122.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p162.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-saturn.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl: path=wiki/axes/mercury-saturn.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/mercury-venus.md",
+    "before_sha256": "53039256c06e1de9cbd37dbcb9daa5d265cc17fb5e6a1317ba3666eb5772c415",
+    "after_sha256": "41da57c51e686557120157dbe6c496691a2a8e04b8494c9c3c441b44f6049729",
+    "ledger": "axes-012.jsonl",
+    "reason": "Actual Ebertin printed145/PDF147 confirms the full pair prose ends after lighthearted living; the repeated following pair heading belongs to later material and is excluded. Cumulative Witte MERCURY + VENUS PDF159 and ABC thirteen-clause printed240–241/PDF119 summary and all new references also verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p147.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p159.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-012-udo-pdf-119.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-batch-003.json: path=wiki/axes/mercury-venus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl: path=wiki/axes/mercury-venus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/sun-moon.md",
+    "before_sha256": "93135d4103885d9cc554f30abbec1a51a9bafdcae7ae630ea47e0325866ee817",
+    "after_sha256": "424da015addc283d7d9a88eff09b15edd689d55df91e8e8d6906dd8683514a33",
+    "ledger": "axes-022.jsonl",
+    "reason": "Complete Falis Sun/Moon PDF3–4 and Carter printed/PDF5–8 passages, word splits, source punctuation and boundaries independently checked against six actual scans. All joined line-break words and Self-satisfied match; actual printed wording quirks are retained and explicitly labeled. Cumulative original/current deltas and added references were also verified directly: Witte SUN + MOON PDF101, ABC twelve motifs printed138–139/PDF68, Ebertin printed77/PDF79 complete source note2 and pair boundary, Sandbach full Principle/Process PDF6–7, McBroom admitted excerpt printed47/PDF58, and Banzhaf complete discord PDF279–280. Unchanged Hand/Munkasey/Harding-Harvey/Stein scopes and historical gender, health, aspect and timing qualifications remain bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-falis-pdf3.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-falis-pdf4.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-carter-pdf5.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-carter-pdf6.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-carter-pdf7.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sun-moon-carter-pdf8.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p6.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-sandbach-p7.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-udo-pdf-068.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-ebertin-pdf-79.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-banzhaf-pdf-279.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-022-banzhaf-pdf-280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf058.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/sun-moon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl: path=wiki/axes/sun-moon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-admetos.md",
+    "before_sha256": "159eae20ceb5af09ad64b790e4ec1d96cf371e8b9d6bd3a20119fc4c101d129f",
+    "after_sha256": "d03585c5c5a9b6b1398eef9bf39cfa277d393adaf55171105017658cd0ab6e12",
+    "ledger": "axes-019.jsonl",
+    "reason": "All nine ABC clauses printed364/PDF181 and full Witte SATURN + ADMETOS bold pair summary PDF229 directly checked. Schmerzen unterdrücken means suppressing pain; Problem-Verdichtung remains literal compaction of problems without a supplied causal explanation.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf181.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-witte-pdf229.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-apollon.md",
+    "before_sha256": "03e7cfc349243d67ebaf6fac34d14890734e888cb2fd71ba9c35423b742e3c51",
+    "after_sha256": "32209ffce574af9d8be7ded7b0a80928e3f31f1217a627c84cfc10c11c71edfc",
+    "ledger": "axes-019.jsonl",
+    "reason": "All twelve ABC clauses printed362/PDF180 and full Witte SATURN + APOLLON bold pair summary PDF228 directly checked. Loss of freedom, problems of science and experience of pain restore the omitted/corrupted clauses; no monetary or scientific mechanism inferred.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-witte-pdf228.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-chiron.md",
+    "before_sha256": "ea7b82fd3a50f56416d3cd7fcf4742b5732f4d75fe1deefedccdd84de32acaa9",
+    "after_sha256": "f120ef424f1844dc952b03d5db3d6631e377b299bf5a4388169d1522fd5aab82",
+    "ledger": "axes-019.jsonl",
+    "reason": "Complete Sandbach Saturn/Chiron Principle and Process actually occupy PDF87. Understanding, encountered and possible are explicitly joined printed internal splits. The actual as ones grows older grammatical form remains labeled source wording; spiritual guides/karma/evolution remain attributed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf87.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-chiron.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-chiron.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-cupido.md",
+    "before_sha256": "6eaacf6e650a95f6802c4d013c3dd124a2c998e14f7c540da0c45b7dff75e0ab",
+    "after_sha256": "1d65eeb0da446ca0a71417c8e56266cf2a823215b4f4b984c572f927854de95a",
+    "ledger": "axes-019.jsonl",
+    "reason": "All nine ABC clauses printed354/PDF176 and full Witte SATURN + CUPIDO bold pair summary PDF224 directly checked. Serious art, shared tasks/losses/pain, disturbed/separated community, concentration, difficulties and maturing together replace the false economic-union summary.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf176.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-witte-pdf224.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-hades.md",
+    "before_sha256": "ede16fdd580251163ae5329aa3909d68c0fe540887bdc7a1883160996b906071",
+    "after_sha256": "cfa7d66f71a3d50adedd44bb08d34c1b68d465289480bbf7189fa545d4c562b8",
+    "ledger": "axes-019.jsonl",
+    "reason": "All ten ABC clauses printed356/PDF177 and full Witte SATURN + HADES bold pair summary PDF225 directly checked. Secret tasks, privations, deficient concentration, need in old age, separation pain, hidden problems and crime losses restore the collapsed English list.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf177.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-witte-pdf225.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-kronos.md",
+    "before_sha256": "9425de575af342b921b963c783ea585dc80aabca483312fb5c9bbf552109307b",
+    "after_sha256": "9a7764c34dc28a3da2b877e3df6cd993d625943e32c86bbb419445378398cab3",
+    "ledger": "axes-019.jsonl",
+    "reason": "All ten ABC clauses printed360/PDF179 and full Witte SATURN + KRONOS bold pair summary PDF227 directly checked. Autorität im Alter, besondere Geduld, ernste Autorität and Verlust der Selbständigkeit mean authority in old age, particular patience, serious authority and loss of independence.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf179.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-witte-pdf227.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-mc.md",
+    "before_sha256": "fd461c4f33560fbeee824ec7c3b1dee55041d52a9110ca132e2cab7d09ce9f3b",
+    "after_sha256": "572b5b11a854be731eccb89d979ad39711a9c1c63eb3ad58354205df4bae31d0",
+    "ledger": "axes-019.jsonl",
+    "reason": "All thirteen ABC clauses printed76/PDF37, cumulative Witte MERIDIAN + SATURN PDF66, complete Ebertin printed262/PDF264 entry plus separate footnote56, and complete Sandbach PDF95 Principle/Process checked directly. Hardness and inner tasks restored; plus sign and Saturn spelling corrected; repeated title/glyph debris removed; visible Sandbach splits explicitly joined. Ebertin's limitation need not mean disadvantage qualification remains intact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-ebertin-pdf264.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf95.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p66.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/saturn-neptune.md",
+    "before_sha256": "a30d2a4b42162e0cd4cbb473d80a2094c52fbd12a6f6b40b35cd3abafeb933a2",
+    "after_sha256": "a6f2285c5b82cebf7734078ccebfa5b3ee22da8f980e3f2c7901888c24e73b70",
+    "ledger": "axes-019.jsonl",
+    "reason": "All nine ABC clauses printed350/PDF174, cumulative Witte SATURN + NEPTUNE PDF222, Ebertin printed249/PDF251 complete entry plus separate footnote54, and Carter complete printed/PDF67–69 aspect families/examples/boundary checked directly. Sensitivity/patience, metaphysics and creeping losses restored; repeated title/glyph debris removed. Carter's printed repetition and all historical illness, gender and aspect conditions remain attributed; unchanged Falis chronology is a historical statement, without current timing certification.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-abc-pdf174.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-ebertin-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf67.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf68.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf69.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p222.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-axis-tail-bindings.json: path=wiki/axes/saturn-neptune.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl: path=wiki/axes/saturn-neptune.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/moon-venus.md",
+    "before_sha256": "d587509cfe68515c2554bad5804f0c24959c457fddd656d992b1709b22f278af",
+    "after_sha256": "854d58a551fa8012bd54ecd59feb446af345489ed4862cea4464af3c0f3a08fa",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC twelve-clause printed178/PDF88 summary checked, restoring Harmonie-Gefühl, Kunst einer Frau and schöne Frau. Cumulative Witte MOON + VENUS PDF123 paragraph/locator and Banzhaf complete PDF292–293 pair, both omitted endings and Moon/Mars boundary verified directly. Unchanged other-author references retain honest chapter granularity; no new exact-entry certification is asserted.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p88.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p292.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p123.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/moon-venus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/moon-venus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/moon-vulcanus.md",
+    "before_sha256": "ad01f0a6bc8ab474d8af8fcf4f617bac7ec7775116c6806d11ad4357af6e502e",
+    "after_sha256": "1f09ba2dab6f0b3d196a20f711001e751ef677bff27bbfe52f78fcc6a90a256b",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC twelve-clause printed204/PDF101 summary checked directly. Einfluß der Gefühle and starke Gefühle restore influence of feelings and strong feelings, correcting animals/actions. Historical gender/violence wording remains attributed. Unchanged Witte chapter reference remains a locator-granularity limit only.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/moon-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/moon-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/moon-zeus.md",
+    "before_sha256": "b3eb3f09e59eefeecd3c2a7415b0e4e13caa5669fbff65dea5d53a8913cbea34",
+    "after_sha256": "8ffc4cf898c46a14e4d0ad14e06f74bab6ec9259ab222e5ec96a175aee746fd0",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC twelve-clause printed196/PDF97 summary checked directly. Feurige Gefühle, Frauen-Ziele, gebärende Frau, schöpferisches Gemüt and Volks-Führer restore fiery feelings, women's goals, woman giving birth, creative disposition and leader of a people. Unchanged Witte chapter reference remains bounded; pregnancy is not substituted for giving birth.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p97.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/moon-zeus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/moon-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-admetos.md",
+    "before_sha256": "09a1cea96488c2302ef1a2795df35018351401d93c98a069bf49b7c412c8d0be",
+    "after_sha256": "1f1662ac420a54ed9d2fed5465e604ba705e7e0ef09a4cacc2337158c2810476",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC eleven-clause printed402/PDF200 summary checked directly, restoring Gestaltloses festigen, gründliche Täuschung, Kreislauf-Schwäche and Luft-Blockade. Literal formless/subtle-substance/circulation terms carry no supplied physical mechanism or diagnosis; unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p200.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-apollon.md",
+    "before_sha256": "fe34a739e6705a29bbe4d653de7ab5e54373f4cf1914932573b7d2cb6387be1f",
+    "after_sha256": "0f1c917e3031eaac9b8d8dc67d01095dd873fb7a69182ce16b65cf269a2ce584",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC ten-clause printed400/PDF199 summary checked directly, including Unsicherheit, Wasser-Wirtschaft, future knowledge and increasing refinement. Unchanged Witte chapter reference remains bounded without an exact printed-page claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p199.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-asc.md",
+    "before_sha256": "00d1ef5f6ffcdae5c9dbf492f51e824322904a079c8cfe14466f727873acfa3c",
+    "after_sha256": "4b847c4d927f1a806b2eba1a45cba1f3f19f00d80dbfd5a83782d6f849e217bf",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC eleven-clause printed118/PDF58 summary checked: enttäuschter Partner is disappointed partner, not exchanged partners. Complete Banzhaf Neptune/Ascendant harmony/discord PDF341 matches the current body; cumulative Witte ASCENDANT + NEPTUNE PDF89 heading and full paragraph/locator verified. Other unchanged author references retain their stated chapter/entry-start granularity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p341.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-asc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-asc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-cupido.md",
+    "before_sha256": "d29c3779c07db2f62f2bef82413f44b4c43d41f8450a9526bc53201848f4d772",
+    "after_sha256": "ae87c92ec7a4047cfed44b5ea51e18eadc4a001f81f0c947d2128037bbe281d5",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC ten-clause printed392/PDF195 summary checked directly. Actual dissolution/community, shared premonitions/future, air/water and art clauses replace the unrelated policy/cohesion/structural-funds translation. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p195.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-cupido.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-cupido.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-hades.md",
+    "before_sha256": "b0ba3edd523522e68ff6704091b79143476ec8c1d6f6cef8f27191415a223e3b",
+    "after_sha256": "c0be42281b04893b564487b0e2046e0939c62ff6699a3cb9b2e0edb500128f3b",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC eleven-clause printed394/PDF196 summary checked directly, restoring weaknesses of the past and the unknown/hidden. Luft-Kriminalität is visibly printed but the short summary does not identify a particular crime. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p196.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-kronos.md",
+    "before_sha256": "58801e2502c114a7a8473ddd2ee1b46f9e8529a9259f6ee364dc934d15b2dfd6",
+    "after_sha256": "49ab2919fad99e37a088352bbad9c81a71131b51e349b2d5a53bd8948390ee52",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC eleven-clause printed398/PDF198 summary checked directly, restoring weakness of authority, the great unknown, great disappointment, air sovereignty and water authority. Feinstoffliche Autorität remains literal vocabulary without an explained mechanism. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p198.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-mc.md",
+    "before_sha256": "bbaaa850effc31e2ac8b58450d408ba76392f6daa3af900283026363a5987e9c",
+    "after_sha256": "444809c31fcb8e37cb378080fe3922ec325b7c25341f6348609a5a446f0947ea",
+    "ledger": "axes-015.jsonl",
+    "reason": "Complete ABC thirteen-clause printed80/PDF39 summary checked, restoring the final weakness of the soul and distinct Gespür/Sensibilität terms. Cumulative Witte MERIDIAN + NEPTUNE PDF68 full paragraph/locator and Ebertin printed289/PDF291 full pair, separate footnote64 and boundary verified. The footnote's positive qualification, conditional illness/timing assertions and whole-chart caveat remain intact; unchanged other references retain bounded granularity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p39.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p68.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl: path=wiki/axes/neptune-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/neptune-node.md",
+    "before_sha256": "ab6bc1aa170bd89b52c12232391f30430e29d6094ab7e06f70291babd2d4f81b",
+    "after_sha256": "8a0cd95dcca616c503b63db1d47116d4496539ead4eef56182ddbdec26d7892f",
+    "ledger": "axes-016.jsonl",
+    "reason": "Ebertin printed283/PDF285 complete pair directly checked: the marker is a plus, without extraction squares. Cumulative Witte NODES + NEPTUNE PDF147 complete pair and ABC nine-clause printed220–221/PDF109 summary/locators also verified. Unchanged Banzhaf Neptune/Node PDF341 pair is visible on the personally viewed Neptune/Ascendant proof; no foreign paragraph is inserted.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p285.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p147.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-016-udo-pdf-109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/neptune-node.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/neptune-node.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-asc.md",
+    "before_sha256": "cd03a06061ffd9c37d5df4b2fbecfbd090429df53ecab20fa78dac5cd0cc3ccd",
+    "after_sha256": "92e66f0ee5f366dec8f685144f5a145eb88ae7af4d9e62b27eb45bbb4033d35f",
+    "ledger": "axes-016.jsonl",
+    "reason": "Ebertin printed300/PDF302 complete pair/boundary checked: trailing repeated heading removed, actual The power of faculty of memory and The ability, to get along retained. Cumulative Witte ASCENDANT + NODES PDF82, ABC eight-clause printed104–105/PDF51 list, and complete Hand PDF213 with/wife repairs/new locator verified directly.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p302.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p82.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-016-udo-pdf-051.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/axes-018-hand-pdf-213.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-asc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl: path=wiki/axes/node-asc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-hades.md",
+    "before_sha256": "ee6e2fe462d90ddbd65bb5e8ab845ac4f068bb3f774c6f18892aa5f1a743732f",
+    "after_sha256": "c047bd60d5751349d817af0abf5825f29ce325215bffa72c95b49e51594b5ec7",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC eight-clause printed226/PDF112 summary checked directly. Gefährliche Verbindungen means dangerous connections, and Verbindungen entbehren means lacking connections. Unchanged Witte chapter reference remains bounded; moral/medical judgments remain attributed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p112.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-hades.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-hades.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-kronos.md",
+    "before_sha256": "68c0700415d3b5beddef3b8ac3f3b1541f5c4ceb7a680c4939cc7d293fed24c4",
+    "after_sha256": "e5f00552b1c92641339fea7d06efd8639c1ea2c7469efc6debef2c447a0fc73f",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC seven-clause printed230/PDF114 summary checked directly, including respected/dominant/state relationships, independence within connections and priority connections. Unchanged Witte chapter reference retains its stated granularity without a new exact-passage claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p114.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-kronos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-kronos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-mc.md",
+    "before_sha256": "1123880b2163c524a9372616cc2805b52aa042aa786c4b4e46641551c1a6e42d",
+    "after_sha256": "83f41f602ed7a10b2b4ab5df86f6efbb4e280e218b319c923f550b9f03aaa7a6",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC ten-clause printed66/PDF32 summary and Ebertin printed303/PDF305 full pair/boundary checked directly. Selbst-Verknüpfung is literal self-linking without a defined technique. Cumulative Witte MERIDIAN + NODES PDF61 full pair/locator checked; independently found missing apostrophe corrected to One’s, then saved source and full amended original axes017 row3 independently reread and rebound. Unchanged other-author chapter references retain bounded granularity.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p32.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p305.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-witte-p61.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-mc.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-mc.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-poseidon.md",
+    "before_sha256": "4eae3851577d01b6ea1cb23b276267d62960ddf160057940bac55da85c02373d",
+    "after_sha256": "aa1b9b364ae6c9af0c16b53f9eb2fe684a730b861e2c1557e24833a0a1274637",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC eight-clause printed238/PDF118 summary checked directly. Vernunft-Beziehungen restores relationships of reason; insight, cultural connection, clarity and truth transmission remain distinct. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p118.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-poseidon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-poseidon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-vulcanus.md",
+    "before_sha256": "ec3e6224674b5164155dc8afcd12a821784dbe53cbb2fe0cd4dabdf971827915",
+    "after_sha256": "417faff15287a452b1810c52bc04ccb4c6e499eddd176af21313b5aa0bd3df0e",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC eight-clause printed236/PDF117 summary checked directly. Einflußreiche Beziehungen restores influential relationships rather than one-sided relationships; Gewalt is visibly printed. Strength through connection and strong bonds remain distinct from the violence clauses. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p117.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-vulcanus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-vulcanus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/node-zeus.md",
+    "before_sha256": "2ae9163361f6033648077f20a28256b9315cbcc11ce25fb93ff399ee1ec59bc5",
+    "after_sha256": "df836d68509de01edbb26ce774a698316b23f6310c7b1a37686eb9c66133efcd",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC nine-clause printed228/PDF113 summary checked directly. Kontakt-Streben and Führung restore striving for contact and leadership; the omitted schöpferische Verbindung clause is restored alongside kreative Verbindung. Unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/node-zeus.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/node-zeus.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/pluto-admetos.md",
+    "before_sha256": "4659ab70693be3a62923a60cfa049afd9fbc9131779b151275777c2f514eec91",
+    "after_sha256": "a2036fc08c4601340fd6839901191e1287a45fcc525e381eb357a0c5557ecbcf",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC nine-clause printed418/PDF208 summary checked directly, restoring endurance, firmness, thorough transformation, growth in depth and transformation of primordial energy. Kreislauf-Veränderung stays circulation or cycle with no invented bodily/physical mechanism; unchanged Witte chapter reference remains bounded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p208.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/pluto-admetos.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/pluto-admetos.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  },
+  {
+    "path": "wiki/axes/pluto-apollon.md",
+    "before_sha256": "01cf1c43273a0f50e845d4277978bfc8b460e476d5bb320bb5052fcac6362346",
+    "after_sha256": "da09b366bcfc58de6955643b54459af57407d0d497fef3ea57ecf4292d366c9b",
+    "ledger": "axes-017.jsonl",
+    "reason": "Complete ABC nine-clause printed416/PDF207 summary checked directly. Wirtschafts-Wachstum restores omitted economic growth; the development.1 extraction noise is removed. Unchanged Witte chapter reference remains bounded; no blanket prediction of success is added.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p207.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-018-batch-001.json: path=wiki/axes/pluto-apollon.md",
+      "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl: path=wiki/axes/pluto-apollon.md"
+    ],
+    "verified_by": "/root/activation_review_084_088"
+  }
+]

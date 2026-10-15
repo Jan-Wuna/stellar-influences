@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `T/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `167`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ To err or make mistakes. To be silent with shame. To be sad or laconic. Hidden t
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `256`; PDF page: `127` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Old languages, old writings, disadvantaged youth, lack of movement, thoughts about the past, dangerous youth, familiar language, secret talks, criminal youth, poor thinking, and emergency call
+German pair summary (transcribed from printed page `256`; PDF page `127`):
+
+> Alte Sprachen, alte Schriften, benachteiligte Jugend, Bewegungs-Mangel, Gedanken zur Vergangenheit, gefährdete Jugend, gefährliche Gespräche, Geheim-Besprechungen, kriminelle Jugend, mangelhaftes Denken, Not-Ruf
+
+Editorial translation from the German passage: Old languages, old writings, disadvantaged youth, lack of movement, thoughts about the past, endangered youth, dangerous conversations, secret discussions, criminal youth, deficient thinking, call for help.
+
+## Comparative Schema
+
+- core meaning: Thought and communication involving concealment, difficulty, mistakes, or the past ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Worry, shame, sadness, and hidden thoughts appear alongside errors or hostile expression ([pair summary](#pair-summary)).
+- body/health: The ABC entry names lack of movement, but the summaries do not establish an illness or a medical diagnosis.
+- social/relationship: Secret conversations, silence, and negative dialogue describe possible forms of exchange ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- events/manifestations: Sad news, old plans or writings, old languages, and emergency calls are distinct source examples ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: Historical material is not inherently defective thought. Endangered youth and dangerous conversations are separate ABC expressions; evaluative or criminal labels remain attributed source language.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Old languages, old writings, disadvantaged youth, lack of movement, thoughts abo
 - [Mercury/Hades = Vulcanus](../activations/mercury-hades-equals-vulcanus.md)
 - [Mercury/Hades = Zeus](../activations/mercury-hades-equals-zeus.md)
 
+## Contradictions
+
+The entries include both difficult communication and work with old information. Their coexistence does not make historical study a negative trait. ABC distinguishes endangered youth from dangerous conversations, while pejorative labels remain historical source wording.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades` is the axis of hidden, worried, or degraded thought, shame, error, old burdens in the mind, malicious speech, and bad or sorrowful news.
-- Chart expression: secrecy, pessimism, confused or ugly thinking, stale conversations, anxious mental replay, and communication shaped by decline, dirt, illness, or the troubling residues of the past.
+`Mercury/Hades` concerns difficult or concealed communication and thought directed toward the past. Worry, shame, silence, errors, and sad news form one strand of the [pair summary](#pair-summary); old plans, information, writings, and languages form another across it and the [ABC summary](#abc-pair-summary). The common field is material that is troubling, hidden, or carried over from earlier experience. These strands remain distinguishable: the study of earlier material has its own place beside, rather than being reduced to, the difficult states and exchanges described in the entries.
 
 ## Links
 

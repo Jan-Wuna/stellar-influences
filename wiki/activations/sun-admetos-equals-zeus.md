@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Zeus Admetos](../triads/sun-zeus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Constant activity. The products of the soil, the field.
 
@@ -42,13 +46,27 @@ Constant activity. The products of the soil, the field.
 
 #### ABC Entry
 
-Exhaustive corporal performance, restriction of corporal performance, solidified filtration person, design of earth body, creative fcsted person, start of a heavy body, and goal of a heavy body
+Source locator: printed page 169; PDF page 83 (one-based).
+
+Enduring physical performance, a depressed leader, restriction of physical performance, a firmly established leader, shaping the Earth, a creative firmly established person, the start of a heavy body, and the goal of a heavy body.
+
+## Comparative Schema
+
+- core meaning: Sustained activity or performance, with creative firmness and possible restriction.
+- psychology: Creativity and firmness; ABC also names a depressed leader.
+- body/health: Enduring or restricted physical performance is listed without a specific diagnosis.
+- social/relationship: A firmly established or depressed leader.
+- events/manifestations: Products of soil and field, shaping the Earth and the start or goal of a heavy body.
+- conflicts/notes: Enduring does not mean exhaustive; restricted performance is one alternative to constant activity.
+
+## Contradictions And Comparison Notes
+
+Witte's constant activity and ABC's enduring performance overlap. ABC also retains restriction and depressed leadership, while both entries include literal Earth or soil meanings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Zeus`: creative reserve and deepening.
-- Practical expression: exhaustive corporal performance, restriction of corporal performance, solidified filtration person, design of earth body, and creative fcsted person.
+For `Sun/Admetos = Zeus`, the entries emphasize sustained activity and physical performance. [Witte](#witte-entry) gives constant activity and products of soil or field; [ABC](#abc-entry) adds creative firmness, established leadership and shaping the Earth, while retaining restricted performance and a depressed leader. Its heavy body's start and goal are separate literal examples. The formula supports enduring production or directed performance with possible constraint, without equating endurance with exhaustion.
 
 ## Links
 

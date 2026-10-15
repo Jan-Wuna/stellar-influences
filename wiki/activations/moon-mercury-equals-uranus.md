@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Uranus`
 - Astronomicon formula: `R/T = X`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden events and excitement through or with youth, young girls or young women. Vehicles for transportation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `177`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Exciting news for the people, reports of unrest in the people, event for cine young woman, excited women's speech, women's opinions on technology, dynamic young woman, youth reforms of a people, and hour of media event
+Exciting news for the people, reports of unrest among the people, an event for a young woman, excited women's conversations, women's opinions on technology, dynamic young woman, youth reforms of a people, and hour of a media event
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0332`.
 
 #### Ebertin Entry
 
 Sudden ideas and thoughts, independent thinking, inclination to act rashly or hastily, nervousness. A constructional fault. A sudden event in the life of a young woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Unpredictable reactions to speeches or discourses given without emotional appeal
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden thought, striking emotional communication, and unexpected news or reactions ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: independent ideas may be expressed vividly or rashly; Ebertin explicitly includes nervousness.
+- body/health: nervousness is a source description, not a clinical diagnosis.
+- social/relationship: emotional disclosures may surprise others; public reactions and opinions on technology are included.
+- events/manifestations: transport vehicles, a construction fault, youth reforms, political rumors, and media events are named examples.
+- conflicts/notes: striking expression and hasty action are alternatives in the entries; contrarian behavior and instant understanding are not established.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is stated. Sandbach's striking timing and Ebertin's rashness give different possible qualities of sudden expression; the public and transport examples retain their own settings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Uranus`: inventive responsiveness, intuitive brilliance, and the ability to register change almost instantly. Main caution: overstimulation: mind and mood can become too erratic, jumpy, or contrarian to ground clearly.
+In Moon/Mercury = Uranus, Uranus specifies the Moon/Mercury pair through sudden ideas and unexpectedly vivid emotional expression. The [Ebertin entry](#ebertin-entry) joins independent thought to the possibility of haste and nervousness; [Sandbach](#sandbach-entry) describes disclosures whose manner or timing can surprise others. The [Witte entry](#witte-entry) also includes sudden events involving youth and transport vehicles.
+
+The [ABC entry](#abc-entry) and [Munkasey entry](#munkasey-entry) extend this into exciting news, public unrest, youth reforms, political rumors, and changing media discussion (ABC printed p. 177, PDF p. 87; Munkasey p. 104). Surprise and change are supported; intuitive brilliance or a generally contrarian character are not required.
 
 ## Links
 

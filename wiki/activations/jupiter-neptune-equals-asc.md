@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
 - Triad hub: [Jupiter Neptune Asc](../triads/jupiter-neptune-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: printed p. 213; one-based PDF p. 209, Jupiter + Neptune, Asc row.
 
 Money easily earned through others. Games of chance. To win or lose money in connection with others. Participants in a lottery. Betting.
 
@@ -45,7 +49,9 @@ Money easily earned through others. Games of chance. To win or lose money in con
 
 #### ABC Entry
 
-Others are indiscriminate money, success in the environment through fine felt, happiness near the water, happiness with others in the air, ambiguity about money of the other, advantages through water on the spot, and lack of knowledge of the partner
+- Source reference: printed p. 328; one-based PDF p. 163, Jupiter + Neptune, Asc row.
+
+Others are uncertain because of money, success in one's surroundings through sensitivity, happiness near water, happiness with others in the air, uncertainty about another's money, advantages through water at a place, and the partner's future happiness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +63,9 @@ Inclination to live in an unreal world, sharing great hopes with others, specula
 
 #### Sandbach Entry
 
-One comes across as a soft and caring person. To have unrealistic imag inings about who one is. To be a sympathetic person who wishes to help and uplift others.
+- Source reference: one-based PDF p. 82, Planets activating the Jupiter/Neptune midpoint, Ascendant paragraph.
+
+One comes across as a soft and caring person. To have unrealistic imaginings about who one is. To be a sympathetic person who wishes to help and uplift others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +78,23 @@ Situations or people with explanations for life which go beyond physical reality
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Hopes, speculation and uncertain good fortune are expressed through other people and one's presentation.
+- psychology: Sympathy and a wish to help may coexist with unrealistic self-images.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Shared hopes, caring contact and interpersonal roles shaped by the unreal or nonphysical.
+- events/manifestations: Witte lists betting, lotteries and winning or losing money through others; Munkasey also comments on appearance.
+- conflicts/notes: The caring and speculative strands remain visible. ABC gives the partner's future happiness, not ignorance, and leaves its air and water examples without a technical setting.
 
 ## Contradictions
 
-- None recorded yet.
+Concern for others and speculative hopes describe different interpersonal expressions. ABC's complete seven-clause Asc row gives uncertainty about money, success through sensitivity and the partner's future happiness; it does not assert the partner's ignorance.
+
+Visually verified source rows: ABC printed p. 328, one-based PDF p. 163, Asc row; Witte printed p. 213, one-based PDF p. 209, Asc row; Sandbach one-based PDF p. 82, Ascendant paragraph under Jupiter/Neptune. Existing parser locators retained: Ebertin printed p. 232, entry 0816; Munkasey printed p. 264; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Asc`: compassion, gentleness, and a persona shaped by ideals, dreams, and expansive feeling. Main caution: impracticality in contact with others: speculative thinking, wishful identification, or living through unreal expectations can distort judgment and self-presentation.
+In `Jupiter/Neptune = Asc`, Asc places expansive hopes and uncertainty in contact with others. The [Witte entry](#witte-entry) gives a concrete speculative setting in betting or lotteries, with either gain or loss; [Ebertin](#ebertin-entry) describes sharing large hopes. [Sandbach](#sandbach-entry) adds a caring manner alongside unrealistic self-images, and [Munkasey](#munkasey-entry), printed p. 264, includes interpersonal roles that heighten a sense of the unreal. The common issue is the relationship between sympathy, expectation and the actual basis of an encounter.
 
 ## Links
 

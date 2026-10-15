@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Saturn Pluto MC](../triads/saturn-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ The own development runs under inhibitions or slows down. The moment when the ch
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Tempered psychic connection, slow psychic development, my development is problematic, my concentration on growth, my alternations in old age, my changing losses, soul maturity unfold, and growing soul pains
+Editorial translation (checked against the scan): Inhibited inner connection, slow inner development, my development is problematic, my concentration on growth, my changes in old age, my changing losses, unfolding maturity of the soul, growing pains of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Self-sacrifice. Attainment of one's objectives through sacrifices. A toilsome struggle of existence, a death or bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Early frustrations which help you work hard to achieve your desires; increased d
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal development slowed by inhibition, frustration, sacrifice, or difficult work.
+- psychology: Fear of authority struggles, cautious focus, and determination after frustration.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Doubts about helpers' commitment and possible bereavement in Ebertin.
+- events/manifestations: Delayed change, hard work, attainment through sacrifice, and struggle for existence.
+- conflicts/notes: Death or bereavement is a specific historical source possibility, not a prediction.
 
 ## Contradictions
 
-- None recorded yet.
+Delays and frustration coexist with focused change or attainment through sacrifice; success is not guaranteed by suffering.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Saturn`: formidable resilience, serious authority, and the ability to endure major reversals without abandoning purpose. Main caution: oppressive control: destiny can become burdened by fear, rigidity, or the misuse of power under harsh conditions.
+Saturn specifies Pluto/MC through personal development that meets inhibition or delay in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds slow growth, maturity, losses, and inner pain. [Ebertin](#ebertin-entry) connects objectives with sacrifice and a difficult struggle for existence, including death or bereavement as a specific possibility. Fear and frustration can also accompany cautious, focused change in [Sandbach](#sandbach-entry), while [Munkasey](#munkasey-entry) describes harder work and doubts about helpers' commitment. The common pressure does not ensure resilience or attainment.
 
 ## Links
 

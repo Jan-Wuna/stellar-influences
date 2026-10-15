@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Pluto Asc](../triads/mars-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ To plan common activities. Changes through the actions of others. Preparations f
 
 #### ABC Entry
 
-Development work for the environment, development/working with the partner. partner development, change of partner at work, change of environment, and development of the partner's will
+Development work for the surroundings, development work with the partner, wanting the partner to develop, a change of partner at work, changed work for the surroundings, bringing about changes at the place, and development of the partner's will.
+
+- Source reference: printed p. 111, PDF p. 54, Pluto row; English translation checked against the German scan.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Violence, premature action, love of quarreling or argument, desire to rule other
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 A tremendous need to affirm who one is and to assert the self. A relentless self- destructiveness. One is being challenged in this lifetime to be a more positively as sertive person, and to work on one’s own identity.
 
@@ -70,22 +76,25 @@ Adds to your urge to motivate others thru the force of your personality; a need 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action with others brings change, development and intense assertion.
+- psychology: Affirming identity, understanding motives and reacting to obstruction are explicit.
+- body/health: Violence and self-destructiveness are source themes; no specific medical condition is established.
+- social/relationship: Common plans coexist with attempts to dominate or motivate others.
+- events/manifestations: Moving, changed working arrangements and developing a partner's will are named.
+- conflicts/notes: Cooperative change and coercive adjustment are distinct expressions, not interchangeable outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ over how change is pursued: common planning and development stand beside force and subjugation. They do not establish that every shared plan is coercive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Pluto`: intense will, transformative conflict, strategic common action, and the ability to push through major changes with great force. Main caution: extremity: pressure to control, subjugate, or overpower can become violent, destructive, or self-damaging.
+`Mars/Asc = Pluto` specifies action with others through changes that engage personal will and identity. [Witte](#witte-entry) describes planning common activity and preparing to move; [ABC](#abc-entry) develops the practical thread through changed work and partner development. [Munkasey](#munkasey-entry) connects forceful motivation with the need to understand other people's motives.
+
+The same page retains a difficult range: [Ebertin](#ebertin-entry) describes domination and forcible adjustment, and [Sandbach](#sandbach-entry) describes intense self-assertion and self-destructiveness. Constructive change therefore cannot be inferred from intensity alone; the entries distinguish joint development from pressure that harms self or others.
+
+Evidence: Witte PDF p. 85; ABC printed p. 111, PDF p. 54; Ebertin printed p. 220, code 0767; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node MC Cupido`
 - Astronomicon triad-set: `g MC ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Cupido = Node](../activations/mc-cupido-equals-node.md)
-- [Node/Cupido = MC](../activations/node-cupido-equals-mc.md)
-- [Node/MC = Cupido](../activations/node-mc-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Cupido = Node](../activations/mc-cupido-equals-node.md) | [MC/Cupido](../axes/mc-cupido.md) | [Node](../factors/node.md) |
+| [Node/Cupido = MC](../activations/node-cupido-equals-mc.md) | [Node/Cupido](../axes/node-cupido.md) | [MC](../factors/mc.md) |
+| [Node/MC = Cupido](../activations/node-mc-equals-cupido.md) | [Node/MC](../axes/node-mc.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `MC/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `84`
-- `Node/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `224`
-- `Node/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `61`
-- `Node/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `67`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Cupido = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-cupido-equals-node.md#witte-entry), one-based PDF entry-start p. `70`.
+- `MC/Cupido = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-cupido-equals-node.md#abc-entry), printed p. `84`.
+- `Node/Cupido = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-cupido-equals-mc.md#witte-entry), one-based PDF entry-start p. `149`.
+- `Node/Cupido = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-cupido-equals-mc.md#abc-entry), printed p. `224`.
+- `Node/MC = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-mc-equals-cupido.md#witte-entry), one-based PDF entry-start p. `61`.
+- `Node/MC = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-mc-equals-cupido.md#abc-entry), printed p. `67`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Node`: joins the axis to sociable, artistic, and family-oriented relationships.
-- `Node/Cupido = MC`: To enter into a betrothal. To marry. The influence of familiar or social connections upon the native. Sense for society and art.
-- `Node/MC = Cupido`: Psychical relationship with the family or the arts. Striving for close social relationships.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

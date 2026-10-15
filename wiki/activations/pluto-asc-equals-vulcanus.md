@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Pluto Asc Vulcanus](../triads/pluto-asc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Changes of the place in connection with important or decisive changes in the lif
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 121; PDF page 59.
+
 #### ABC Entry
 
 Developing energy for the environment, developments through partner influence, tremendous development of the partner, force unfolding in the environment, power of developing partners, power changes in the place, transformation of environmental energies, and growing violence in the place
 
+## Comparative Schema
+
+- core meaning: Forceful local or relational development connected with major life changes.
+- psychology: The entries do not describe a distinct internal psychological state.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: A partner's strong influence and changes in local power.
+- events/manifestations: Decisive moves and intensified development of surrounding conditions.
+- conflicts/notes: ABC includes growing violence as one possibility, not every expression of strength.
+
+## Contradictions
+
+Witte's decisive life change and ABC's force or violence differ in scale and emphasis; decisiveness does not itself imply violence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Asc = Vulcanus`: changes of the place in connection with important or decisive changes in the life of the native.
-- Practical expression: developing energy for the environment, developments through partner influence, tremendous development of the partner, force unfolding in the environment, and power of developing partners.
+Vulcanus specifies Pluto/Asc through force and influence accompanying changes of place or partnership. The [Witte entry](#witte-entry) ties a move to decisive changes in life, while [ABC](#abc-entry) describes strong partner development, shifts in local power, and energy directed into the surroundings. ABC also lists growing violence; that severe possibility remains distinct from constructive development or a consequential move.
 
 ## Links
 

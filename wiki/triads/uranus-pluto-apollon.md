@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,25 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Pluto Apollon`
 - Astronomicon triad-set: `X Z ¥`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Pluto/Apollon = Uranus](../activations/pluto-apollon-equals-uranus.md)
-- [Uranus/Apollon = Pluto](../activations/uranus-apollon-equals-pluto.md)
-- [Uranus/Pluto = Apollon](../activations/uranus-pluto-equals-apollon.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Pluto/Apollon](../axes/pluto-apollon.md) | `Uranus` | [Pluto/Apollon = Uranus](../activations/pluto-apollon-equals-uranus.md) |
+| [Uranus/Apollon](../axes/uranus-apollon.md) | `Pluto` | [Uranus/Apollon = Pluto](../activations/uranus-apollon-equals-pluto.md) |
+| [Uranus/Pluto](../axes/uranus-pluto.md) | `Apollon` | [Uranus/Pluto = Apollon](../activations/uranus-pluto-equals-apollon.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Pluto/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `417`
-- `Uranus/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
-- `Uranus/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `383`
-- `Uranus/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `235`
-- `Uranus/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `373`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Pluto/Apollon = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-apollon-equals-uranus.md#witte-entry), one-based PDF entry-start p. `261`.
+- `Pluto/Apollon = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-apollon-equals-uranus.md#abc-entry), printed p. `417`.
+- `Uranus/Apollon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-apollon-equals-pluto.md#witte-entry), one-based PDF entry-start p. `240`.
+- `Uranus/Apollon = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-apollon-equals-pluto.md#abc-entry), printed p. `383`.
+- `Uranus/Pluto = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-pluto-equals-apollon.md#witte-entry), one-based PDF entry-start p. `235`.
+- `Uranus/Pluto = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-pluto-equals-apollon.md#abc-entry), printed p. `373`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Uranus`: This activation emphasizes sudden change of the situation, or development with incisive consequences for the future.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

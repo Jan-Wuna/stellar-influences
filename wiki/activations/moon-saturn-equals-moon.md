@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Moon`
 - Astronomicon formula: `R/W = R`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -41,22 +43,21 @@ Added desires for a more active parenting role or family life; maintaining a low
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: a heightened wish for family involvement alongside reduced emotional involvement in business.
+- psychology: inner conflict over family protection and fluctuating attitudes toward parenting are stated.
+- body/health: the single entry supplies no bodily or health claim.
+- social/relationship: desire for an active parenting role is paired with uncertainty about protecting family.
+- events/manifestations: family participation and emotionally restrained business activity are the examples.
+- conflicts/notes: the repeated Moon does not establish a separate three-factor triad or a uniformly nurturing result.
 
 ## Contradictions
 
-- None recorded yet.
+This single Munkasey entry contains opposing pulls between family involvement and reduced emotional engagement in business. These belong to different settings and do not form a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Moon`: Added desires for a more active parenting role or family life; maintaining a lower emotional involvement during business activities; inner conflicts about the need for protecting family; fluctuating attitudes about parenting.
+In Moon/Saturn = Moon, the repeated Moon specifies the pair through stronger wishes for an active parenting or family role, together with conflict over how to protect family. The [Munkasey entry](#munkasey-entry) also describes fluctuating parenting attitudes and lower emotional involvement during business activity (p. 122). The entry therefore supports changing levels of involvement across these settings; it does not establish consistently close family relations.
 
 ## Links
 

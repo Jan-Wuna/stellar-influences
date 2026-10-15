@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Pluto Hades Apollon](../triads/pluto-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 To shirk. To get out of a thing. Avoiding to do something. Backing out of something. To avoid a general change. Refusing to accept changes.
 
@@ -42,13 +46,27 @@ To shirk. To get out of a thing. Avoiding to do something. Backing out of someth
 
 #### ABC Entry
 
+- Source page: 417 (printed); PDF page: 207 (one-based; exact row checked).
+
 Extending dangerous development, successful development from the past, poor knowledge development, adverse trade developments, developing hidden knowledge, and growing economic crime
+
+## Comparative Schema
+
+- core meaning: avoidance of broad change or adverse developments in trade and knowledge.
+- psychology: refusing change, backing out or avoiding action.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: economic crime is a particular ABC possibility, not a judgment on every association.
+- events/manifestations: dangerous expansion, deficient knowledge, adverse trade and the development of hidden or past knowledge.
+- conflicts/notes: Witte emphasizes avoidance; ABC also gives successful development from the past and hidden knowledge. Those expressions must not be reduced to danger alone.
+
+## Contradictions
+
+Witte emphasizes avoidance; ABC also gives successful development from the past and hidden knowledge. Those expressions must not be reduced to danger alone.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Hades`: to shirk; To get out of a thing; Avoiding to do something; Backing out of something; To avoid a general change.
-- Practical expression: extending dangerous development, successful development from the past, poor knowledge development, adverse trade developments, and developing hidden knowledge.
+Hades specifies `Pluto/Apollon` through a difficult relation to far-reaching change. The [Witte entry](#witte-entry) concentrates on avoidance, withdrawal and refusal to accept it; the [ABC entry](#abc-entry) includes dangerous expansion, deficient knowledge and adverse trade. ABC also preserves hidden knowledge and successful development from the past. These are different source expressions within the formula's range, without making every historical inquiry or decision to withdraw criminal or harmful.
 
 ## Links
 

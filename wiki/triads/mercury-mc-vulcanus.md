@@ -20,35 +20,49 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mercury MC Vulcanus`
 - Astronomicon triad-set: `T MC §`
+- This page is structural only. It does not merge the meanings of its orientations.
+- [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [MC/Vulcanus = Mercury](../activations/mc-vulcanus-equals-mercury.md)
-- [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md)
-- [Mercury/Vulcanus = MC](../activations/mercury-vulcanus-equals-mc.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Vulcanus = Mercury](../activations/mc-vulcanus-equals-mercury.md) | [MC/Vulcanus](../axes/mc-vulcanus.md) | [Mercury](../factors/mercury.md) |
+| [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md) | [Mercury/MC](../axes/mercury-mc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Mercury/Vulcanus = MC](../activations/mercury-vulcanus-equals-mc.md) | [Mercury/Vulcanus](../axes/mercury-vulcanus.md) | [MC](../factors/mc.md) |
+
+All three possible orientations are represented by linked activation pages. The source coverage below applies separately to each formula.
 
 ## Source Coverage
 
-- `MC/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `96`
-- `Mercury/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `62`
-- `Mercury/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `69`
-- `Mercury/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
-- `Mercury/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `266`
+These rows describe the source subentries on the linked activation pages, not the scope of a source catalog. Locators are retained references, not new visual scan checks; chapter starts do not establish an exact formula page.
+
+| Orientation | Source subentry | Retained source locator |
+| --- | --- | --- |
+| [MC/Vulcanus = Mercury](../activations/mc-vulcanus-equals-mercury.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mc-vulcanus-equals-mercury.md#witte-entry) | PDF p. `76` (one-based; entry start); printed page not recorded. |
+| [MC/Vulcanus = Mercury](../activations/mc-vulcanus-equals-mercury.md) | [Udo Rudolph](../activations/mc-vulcanus-equals-mercury.md#abc-entry) | printed p. `96`; PDF p. `47` (one-based). |
+| [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-mc-equals-vulcanus.md#witte-entry) | PDF p. 62, one-based, entry start (not a printed-page number). |
+| [Mercury/MC = Vulcanus](../activations/mercury-mc-equals-vulcanus.md) | [Udo Rudolph](../activations/mercury-mc-equals-vulcanus.md#abc-entry) | printed p. 69, PDF p. 33, entry (supplied German OCR; not visually verified). |
+| [Mercury/Vulcanus = MC](../activations/mercury-vulcanus-equals-mc.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-vulcanus-equals-mc.md#witte-entry) | PDF p. `172` (one-based; entry start); printed page not recorded. |
+| [Mercury/Vulcanus = MC](../activations/mercury-vulcanus-equals-mc.md) | [Udo Rudolph](../activations/mercury-vulcanus-equals-mc.md#abc-entry) | printed p. `266`; PDF p. `132` (one-based). |
+
+Every listed source has a retained subentry for all 3/3 linked orientations.
+
+## Contradictions Across Orientations
+
+This structural hub does not adjudicate disagreements within an activation. Different base axes and activators identify distinct formulas; differences among these orientations are not, by themselves, contradictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Mercury`: mentalizes the axis into strong and agile thought activity.
-- `Mercury/MC = Vulcanus`: strengthens the axis into quick comprehension and forceful commentary.
-- `Mercury/Vulcanus = MC`: Strong ability of thinking, ability to think fast.
+For `Mercury MC Vulcanus`, `MC/Vulcanus = Mercury`, `Mercury/MC = Vulcanus` and `Mercury/Vulcanus = MC` remain separate readings. Choose the formula by its base axis and activator in the Orientation Map, then read that activation’s source entries and synthesis. Use the axis links for pair context; this hub supplies sibling navigation rather than a combined delineation.
 
 ## Links
 

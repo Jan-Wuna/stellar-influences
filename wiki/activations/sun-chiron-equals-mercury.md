@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Mercury Chiron](../triads/sun-mercury-chiron.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 One’s communications are imbued with true spiritual meaning, often without one knowing it. The ability to solve problems in such a way that spiritual purpose is revealed and enhanced. The mind senses deeper purposes behind everything and de sires to bring those to light.
 
+## Comparative Schema
+
+- core meaning: Communication that reveals purpose.
+- psychology: A mind attentive to deeper meanings, including unconscious expression.
+- body/health: No bodily condition or medical claim is given.
+- social/relationship: Communication conveys meaning, though no particular relationship outcome is specified.
+- events/manifestations: Solving problems in ways that disclose or enhance purpose.
+- conflicts/notes: The passage concerns meaningful communication, not a general claim of infallible insight.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Mercury`: speaking and thinking from a deeper sense of purpose and communicating meanings that help reveal what matters most.
+Mercury specifies the Sun/Chiron axis through communication and problem-solving that reveal deeper purpose. The [Sandbach entry](#sandbach-entry) describes meaning conveyed even without conscious awareness, together with a mind that seeks to bring underlying purposes to light. The practical emphasis is on understanding and expressing what a problem or encounter means, within Sandbach's spiritual framing.
 
 ## Links
 

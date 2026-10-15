@@ -1,0 +1,636 @@
+[
+  {
+    "path": "wiki/activations/jupiter-hades-equals-cupido.md",
+    "before_sha256": "035bd0449ccf724ceb60354f5edd3d739d2edf254be9097e8c94131d9e5cd848",
+    "after_sha256": "3e16e72f343f249c7550bf913c854edf0bec767bcddbc2cac889f3529f8aa54b",
+    "ledger": "activations-015.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All seven replacement ABC clauses match the Cupido glyph row, gemeinsamen Verzicht through Rechts-Nachteile einer Gemeinschaft; the former unrelated EU-policy wording has no support.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-moon.md",
+    "before_sha256": "4dc6c1c9be1bf2f2ddfb5f436a9be9e9984300129fa610f99ecbb429758ecb99",
+    "after_sha256": "8d2db61a03b2a7b5d887407339ca384f6ffbcaf6724c8d70fa8d86e2c1345635",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight Moon clauses match Altes Volks-Recht through Zufriedenheit durch Dienst am Volke; Gemüts-Kummer and mangelhaftes Rechts-Gefühl are correctly distinguished.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-neptune.md",
+    "before_sha256": "6a6bddc6b339e43b404b508f1ff004175c192db0eeb0499d1ebc1461a2ca34ca",
+    "after_sha256": "8e2dbcdc5d720e974ac1f473ea80ab172c1fd7d0373f4ee684d2a73ffe6d990e",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight Neptune clauses match Feingefühl und Verzicht through Vor- und Nachteile des Wassers, including Rechts-Nachteile auflösen; no next Pluto glyph text is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-node.md",
+    "before_sha256": "8d9bf553da90f413955de0a3f3adafc917ace0ef1d3d0356b3e2a5bb496d2b84",
+    "after_sha256": "caef70ab784ae4aadf67b4c750358230f3abc71e18c39f3207a509dea0066e38",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. The unchanged seven-clause ABC Node translation matches its own glyph row from past contacts to schmutzigem Geld; both new locators identify the correct rows.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-pluto.md",
+    "before_sha256": "96da8b1f46ba5a4201c2848c10f9c0f6ff832eb550602946f12050c01ef4b040",
+    "after_sha256": "2bb20a3820162e0619008db1b5c8fcce51498356cc8a19e9f966d13b81fd125c",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All seven ABC Pluto clauses match its glyph row, including erschwerte Rechts-Entwicklung and both dangerous and favorable financial development.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-poseidon.md",
+    "before_sha256": "d6f714d2f4d9fa4b9ddd43f37eee8a0e3c9040e51c145be376d5c11219085804",
+    "after_sha256": "0abe485e4e1838cfb98be465622b2463d5a4135dc5be6ceea232f71b724ad48e",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight ABC Poseidon clauses match its glyph row, including culture of the past and Rechts-Verzicht aus Vernunft; the last clause ends at Rechts-Kultur.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-saturn.md",
+    "before_sha256": "e1af2e89514d59ce4d0b21af6c9358931f832ccc836bb12be37d300179739508",
+    "after_sha256": "344cb9bdd08eb1408aba7be1ce92dc6c6ea3a528ec0273ae5e6e831051fb9c0a",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All seven ABC Saturn clauses match its glyph row, preserving Belastung durch Finanz-Kriminalität as burden caused by crime and both hardship and success alternatives.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-sun.md",
+    "before_sha256": "baa8a838a930f7bb462d08ec57f38c40cc3bcb92f0c4261ad0d7ce492178b38d",
+    "after_sha256": "e6317b20961937943f0683fd0594e2005c6434cf12dac9ac1b815cd3fcca3068",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All seven ABC Sun clauses match its glyph row, including Erfolgs-Mangel des Mannes and Kriminalität im Finanz-Zentrum.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-uranus.md",
+    "before_sha256": "11d0c04aff53d612654ade5389f03982777982ae5290a224e52165adbbff62e1",
+    "after_sha256": "26ab9a3b8e5adcce5ddb25be81a71c5ef76317ec78d98b85e33b24e04e205963",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All seven ABC Uranus clauses match its glyph row; Entbehrungen means deprivations and heimliche Glücks-Impulse means secret impulses of happiness.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-venus.md",
+    "before_sha256": "aff9c8c57a7bd7d1dfe5336844ad74e631d9b91b1786c873ba7a940b78aa2e79",
+    "after_sha256": "aee993e5657309894a3c43d44e8a40b98dc99020da6ec085834ccab3955552b3",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight ABC Venus clauses match its glyph row; Kunst-Erfolg is artistic success and the final Vor- und Nachteile der Schönheit is retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-vernal-point.md",
+    "before_sha256": "37deb41177fb45589034c150461a3442292eeed778220c5a9e1c0cc88edf5c34",
+    "after_sha256": "e4fd627951967fe4bbc0ae35272532568ea9a70c3cee51e12fed57424759cd49",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All six ABC Vernal Point clauses match its glyph row, including Altes Recht and the final Verzicht der Öffentlichkeit auf Vorteile.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-vulcanus.md",
+    "before_sha256": "bc5ae49cedd0846cbf62960f2d4eb5f363a22eb40c73d91ea00db8df95847d2e",
+    "after_sha256": "c6f360565b2d458854a686f1625ecfc1a3ad75dce6b3756090317600c29c27f8",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight ABC Vulcanus clauses match its glyph row, including Macht-Verzicht as renouncing power rather than forgotten power.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-hades-equals-zeus.md",
+    "before_sha256": "5cc6fd7161148ba493ce3b002fc706a40dd397f76d83abff75c691c71fe2ef7a",
+    "after_sha256": "0d71a5581395cb23bf95e67ef2d3b02788ea48bada934e9eacdc8abb6ec86261",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF212/printed216 and ABC PDF166/printed334–335, read complete original/current source sections and owning ledger, and checked exact glyph identities and adjacent boundaries. The Witte row is unchanged and correctly located. All eight ABC Zeus clauses match its glyph row, including Dienst-Leistungen, Finanz-Führung and traditionelles Freuden-Feuer.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf212.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf166.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-admetos.md",
+    "before_sha256": "aa942113ba928cf0dfbdd97a95ca9f0b85376227fd44bdf75ef006fcc65a872b",
+    "after_sha256": "fce973f99db9359f0d42dfc579eb92bb469ea3db6a7c56a929114c668e3e46fa",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Removed the neighboring Vulcanus paragraph beginning Optimism; the Admetos glyph row ends at Standstill of the currency market. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-apollon.md",
+    "before_sha256": "06dc51d011637181e582c0e7fbeb069ba6e16d08a59b280a40ccb7bd9a0f5262",
+    "after_sha256": "cb4ef7d56bb22a96a2467a909f677fe191a58e119f1912ec8ed24f774ca90eac",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the apollon glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-asc.md",
+    "before_sha256": "9fa86c6de1d50cfa4130c340e74aef8fc3796a1ea977f03902ed37e3695805b1",
+    "after_sha256": "7c442da5d5751121640ab6a91ebac09f194733d195a6ea35d8dcb5d1a64adbeb",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the asc glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-cupido.md",
+    "before_sha256": "447ba5ec69c7dd6d70a83872eddc064d2e2a8b4a1aa8cf0015974cd90d07c649",
+    "after_sha256": "176b1e9f72a2dc7593b79aa8749bbbcb18c4a08db36af417a092c928fe23f5e9",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Removed the preceding Neptune and Pluto rows; the complete Cupido glyph row begins Family happiness and ends Successful companies. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-hades.md",
+    "before_sha256": "53972de1277fe770dbae5889f5ccb9c20f70119a5c4b703f14adfd3884e833c3",
+    "after_sha256": "8f3ad231382d3f9f34f89cccd7c085ff78bee4c41ebb306c1fcdc0773674107a",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the hades glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-kronos.md",
+    "before_sha256": "a97d4cc12e754dce9216dd0af015afc965b17dcda1d495503a3f95667ae20561",
+    "after_sha256": "4c822adc4bfa2e94f9eb951f3374adba733e87b13b567aa5d2db6053846b2817",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the kronos glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-mars.md",
+    "before_sha256": "e4619597cf96a47c90710cc61dd7ee363d22a492412a44c8d57916948e41a1ac",
+    "after_sha256": "ed7ef22de174935ce7f2f0976ba3769b53d054d6b3f781f193b1d79fb0a6533d",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced a truncated Venus row with the exact complete Mars row, Joyous happenings through Work or activity for justice or money. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-mc.md",
+    "before_sha256": "56e5a9b4aa917b068d9abcd21d70396cbaeeaa85c88d10d2d51df04e01f16cce",
+    "after_sha256": "69beb66539164ac15690f46a5bc9c8810e83e032843744465f07157be5ad78ab",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the mc glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-mercury.md",
+    "before_sha256": "8fab98b1f6c1a2665da25f2135cb06386bcad9210c307244d0465d2431e983d0",
+    "after_sha256": "114b4e4404416a89add2d581ce1d63afcee8e737cef0dd25a683ed200e972261",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced the misassigned Node row with the exact Mercury speech, thoughts, legal correspondence and financial reports row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-moon.md",
+    "before_sha256": "8a82c76b43fcf17c891fa32915d101ebdbc9a84030e7eeb01e94eff4103eb2af",
+    "after_sha256": "9a75a090895791c7fdb9ac958c186ba158a52ca5a665cd881c53fc4b4d225357",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Restored the Moon row continuation, Happiness of female persons through National justice and jurisdiction. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-neptune.md",
+    "before_sha256": "9fa0e38d72a571ee98bef85cd7fe306f01127b5a007b43d28424dff694159966",
+    "after_sha256": "3eb3edde3b11098df0e054fda6bc104f2324f4c6a27dd40d74392011f8671a8f",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Saturn separations with the exact Neptune money, uncertain possession, speculation and future-life row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-node.md",
+    "before_sha256": "a61f987c9194078ed6765263d2551bb255fb70dca4dd583998a13d59e6e77431",
+    "after_sha256": "75fb71e6ec6828db6ccf4cfeb1cefb7f994a892b3ea14651971d6b8e8ce24b50",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Moon continuation with the exact Node unions, contacts and financial/justice relations row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-pluto.md",
+    "before_sha256": "f1df64a64065abfd11230b3bff19e2880bbf0d1e42f2e2f62dea1e0ba2553914",
+    "after_sha256": "d8eb307f83b805103041db765324c0d68cf0c0b3e62c3700612f694eededd5d1",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Uranus technology row with the exact Pluto development, financial and judicial transformation row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-poseidon.md",
+    "before_sha256": "279b1a31ed073f25de03df478e430db1291752915fa09fbac829b5a318b3d503",
+    "after_sha256": "51f12e1346b3fd6f4e788b56fbbbb8c7cffc2edd631f435bf51e8a551a72c6fc",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Restored the opening Common sense, instinct/insight/intelligence, Wisdom and Conscience clauses of the same Poseidon row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-saturn.md",
+    "before_sha256": "6c67498d1be27eb56f8944d8894ac998d220ae27a4f4515f8136d56e141ef048",
+    "after_sha256": "0c3b223456c7807f53f5c692133cab8434c178e3052c2f036e0681cb02c2d180",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Venus continuation with the complete Saturn row, including both successful and unhappy separations. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-sun.md",
+    "before_sha256": "a2e429b20bb79205519749a0ef58c60effa5c5a15d15d4909095d18c981dbb17",
+    "after_sha256": "7c4fd6887e86225b8912b28acfff2359152143315d672d3c2906466664f877d6",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the sun glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-uranus.md",
+    "before_sha256": "f976e807a2b4cdad6d259375e83dfa3f77b1e355bdea7a349d1cbf5dd516de4f",
+    "after_sha256": "f872ac58b69b78f3dcd91136f199b198ab26288f8e622b057235eae928816e7f",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Mars row with the complete Uranus row, preserving the conditional sudden-misfortune qualification. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-venus.md",
+    "before_sha256": "ad6033f0f9d44b6fb62136a2d243efcd0835181d9ce41d8e769a7ca279d0e0a0",
+    "after_sha256": "856069d3228d3880cafefe29c2ccd22e0391d03797f64800fa33a2c2dcabfee5",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced the misassigned Mercury row with the complete Venus row, joining its love, finance and legal-peace clauses. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-vernal-point.md",
+    "before_sha256": "8ba61e167265d84177927d9c7e4fb388cf7e93b6edfb9075d76350ac8829612b",
+    "after_sha256": "7989012c3fc7eab24b2f1e2d0927071a7a07273c8bbb9994f463f539d92f0360",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the vernal-point glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf205.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-vulcanus.md",
+    "before_sha256": "ccf9f89bd81a7956f694c913b903b0970b5555558be7ba05db4b594e43e6e056",
+    "after_sha256": "c6596d621eebe463e8a53da16eb4d3d71734aa13cb044156607065c6affa0cab",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Replaced misassigned Poseidon opening with the exact Vulcanus optimism, force, financial power and credit row. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-jupiter-equals-zeus.md",
+    "before_sha256": "ea399498742bd386c6103266f825710b157c37b57c57c0dabba318f28934270a",
+    "after_sha256": "4df387ad8f55172b8d9456b248cd5d516a5416474c9ed474b4ebf9b60fc3a5a6",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF205–206, read every glyph row and adjacent boundary, and read complete original/current source sections plus the owning ledger. Source prose is unchanged and exactly matches the zeus glyph row; added author/work attribution and locator are correct. Printed folio is not visible on these raw pages; only PDF pagination is claimed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf206.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-admetos.md",
+    "before_sha256": "a8bcdbb1e2a9ac3cb94576b36710e20206f08203da52cf9b2aaf435a7be054bf",
+    "after_sha256": "e48514286c4b0f337e580ba1b1b4cf48f7cb7803dfee9713794fc1b8448b4248",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight ABC clauses match the Admetos glyph row: financial circulation/blockade, state-law/funds restrictions, Gründlichkeit (thoroughness), consolidation, legal authority and legal knowledge.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-apollon.md",
+    "before_sha256": "635e8ec189c5166148b4c70977c8bbcea7f3ad3ae2da64d88a49b9f4b1a19914",
+    "after_sha256": "c834e90df33386bced894a7dc306534a59fe397910b18ff42f2d11ec5c0abb43",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight ABC clauses match the Apollon glyph row; Autorität der Wissenschaft is scientific authority and staatliche Geld-Vermehrung is growth of state funds, not administration.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-asc.md",
+    "before_sha256": "f5b1a0f65a0d100f984c5156e1ec9cff077edd0ab847a17c1db3905963393946",
+    "after_sha256": "ad242276a4e850503d97ce5e55f0a60f802c8b9c8b2a296b5ff03415c0703dca",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. The correct nine-clause ABC Asc row begins Besonderer Erfolg eines Ortes and ends wichtiges Partner-Recht. Removed MC spillover and restored place, partner, financial authority/location and state-surroundings clauses match the actual scan.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-cupido.md",
+    "before_sha256": "cff573cb4ed8c26146eeb902b5e3cceaeebaca58e2643f470f930fcdadabbbcc",
+    "after_sha256": "8c07c8a937bf0bc223f6645dc013f150da3a10e4cebd995b489f2b7f2326d19e",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. The unchanged seven-clause ABC community row and unchanged Witte art/financial-organizations row match their own glyphs. Witte actually prints the awkward Leader of master in art; no inferred correction is approved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-hades.md",
+    "before_sha256": "c14b630d2d0066d234264de5d60e2db0b0289e7a4a6d647c59389fd6754e0e85",
+    "after_sha256": "0432ec218a45e59322ef154d12d84358caf6292ff351b979e8e7eaafd5174fb3",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All nine ABC clauses match the Hades glyph row, including successes of a criminal Autorität, hidden happiness, distress and state financial crime. The Witte scan actually reads little; litde was an OCR artifact.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-mars.md",
+    "before_sha256": "9176a051ec7e0f396ab306b000d191539f1c61631c93299cd8ea2b6f3f168a4c",
+    "after_sha256": "c24e7c61a5fed30c88a9833c4b03361b65550c392ce4b9c82adcb860f2fa0f16",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight restored ABC clauses match the Mars glyph row, Ansehen durch gute Arbeit through wichtige Finanz-Tätigkeit, including labor law and successful legal work; the row ends before Jupiter siehe oben.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-mc.md",
+    "before_sha256": "f9f350db159a4c57142696e4706fcda474e4bf64a5b2a9a1b00ab4d7175dd2b1",
+    "after_sha256": "5d16c0e488e294e9c5575d77ed1ebac15ade2d6ddb704c64ce89ab13a8564fc5",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All ten restored ABC first-person MC clauses match its glyph row, Besonderer seelischer Erfolg through mein Rechts-Ansehen. Vernal Point and Asc content are excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-mercury.md",
+    "before_sha256": "a0bd5e650e820e54aba283c6ddf36f44edb71ddc457470be53875513457d057a",
+    "after_sha256": "4c647b27e010310d4cdedf40b8b596fa519c6c87b5a7bb0e936284dd311fe648",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight restored ABC clauses match the Mercury glyph row; Gesprächs-Überlegenheit concerns discussion, Besprechungen des Staates state consultations; traffic/media, funds, youth benefits and law clauses all retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-moon.md",
+    "before_sha256": "55ee46ac0280e2d5af560cfbf81eb06aab1b45e0925cea92b6ac4e1037176f20",
+    "after_sha256": "da2f5fe22cfc516e0a4a891e75becf184e31d215868ba853299ef97fbb03a2f7",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight restored ABC clauses match the Moon glyph row between Sun and Node. Removed Sun spillover and restored besonders erfolgreiche Frau, authority, peoples financial hierarchy and großes Rechts-Gefühl (strong sense of justice).",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-neptune.md",
+    "before_sha256": "e8cf383babfda7e1f330e16ff858b28777d0113fc26e932978c21e1640891d65",
+    "after_sha256": "e796c8c04c5d917bdbc5bfca6f5934987f83d5fbad8c1e636a83e46c63acd6fe",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. The eight-clause ABC Neptune row ends wichtiges Luft/Wasser-Recht before Pluto; restored disappointment and intuition clauses match, Feingefühl is sensitivity, and the following financial development belongs to Pluto.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-node.md",
+    "before_sha256": "543942380d192cae3160f9a099230d91c545ebfea33afbe41a21f7343aa1dc04",
+    "after_sha256": "692106c3789a9a330a1a9ae3982f28867b8dec96a4fe9235c44718d6f12a4b1b",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All seven restored ABC clauses match the Node glyph row: financial relations, successful ties, state contacts, encounters with authorities, conveying joy/self-confidence, legal hierarchy and important financial ties.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-pluto.md",
+    "before_sha256": "3e5ddbf315ed96ab8854125ba451edce745eb2b73a89af2a6e094ee1c557586c",
+    "after_sha256": "06ff0c7b36d00bc99fc978f3e802c7fbd1af14fbd4ec26617db026ebe8682b25",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight restored ABC Pluto clauses match its glyph row, Besondere Geld-Entwicklung through wichtige Rechts-Entwicklung; unfolding of authority is not wrinkling and Selbständigkeit means independence.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-poseidon.md",
+    "before_sha256": "0346d913b26e9b9b4132c76d88bf2643bb29b9697ee98596de9c9bf1b167d45b",
+    "after_sha256": "562fa8f8798369f7d0f08c61d7a67cfa9e23a7cfc18795b77001521dd4f30e6b",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All nine ABC Poseidon clauses match its glyph row. Güte einer geistigen Autorität is goodness of an intellectual authority; überlegene Rechts-Erkenntnisse is superior legal understanding; geistige Größe is greatness, not capital.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-saturn.md",
+    "before_sha256": "dc71a97190fb2fd534b844e40e8e175a8cf4e1facbdfe731808fd83d4b03f923",
+    "after_sha256": "cb8893db5f2c1adad5316ca4b28f6a8bcf96c023fedbafe09dfcb5a974d36852",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. Both source prose blocks are unchanged and correctly located. The full nine-clause ABC Saturn row includes favorable patience/old-age possibilities alongside financial/state-law losses and tasks; the repeated money-loss wording is truly printed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-sun.md",
+    "before_sha256": "b0c14a1adb7210958aa737b6bf67708e34cbefb7b06f9f354a6ef44d15481ae3",
+    "after_sha256": "0ed8f82f929dd96a71b32bf367d5e938fc7a8f400ea4eb1c01cf525251a1e332",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight restored ABC Sun clauses match the exact row, Besonderer Erfolg des Mannes through Zentrum eines Rechts-Staates; personal independence, legal superiority and finance hierarchy are visible in the raw detail, and preceding Asc text is excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-uranus.md",
+    "before_sha256": "3bbbe05e6e8c60715daee2ca31f1efb88c3752897aae7bc80cdd06f35432393e",
+    "after_sha256": "6a41bd4126017f5e77a76ec4db0065b4dae4f9e780546f814cba581677348ce6",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All nine ABC Uranus clauses match the exact row, joyful event through Unruhe im Staat wegen Geld; reform, legal superiority and tensions are preserved with no strengthening.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-venus.md",
+    "before_sha256": "4b0ac0755a80ab45255b31d64b11856e425f5683a5ff31f39a895fc5d0248aff",
+    "after_sha256": "b210b98f1a821e9b4d508f665c86d66da1d78633fcb7d914912e44211b2bd4ff",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. Personally viewed the high-resolution direct PDF detail: all six fully legible clauses and readable portions of two other clauses match. The art-success modifier and money-preference subject are physically obscured and remain explicitly marked unknown. Read Comparative Schema, Contradictions and Derived Synthesis: neither missing qualifier is reconstructed or used confidently. This approval accepts the bounded repair and disclosure, not resolution of those two source gaps.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168-left-detail.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-vernal-point.md",
+    "before_sha256": "52d08455f1679aed3f6318876e5d608d5efc3138a85df39e8b8dbef821bafa5f",
+    "after_sha256": "2be680773bc11cc06087f399e02deb30c7aa5e2ded1e61ce2cf52fb7311fed8f",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All seven restored ABC public/state clauses match the Vernal Point glyph row, Besondere Vorteile für die Öffentlichkeit through Staats-Recht im öffentlichen Leben. The former European Parliament phrase has no support.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-vulcanus.md",
+    "before_sha256": "1a6ab4b36a5deb2ee21d543f3a3806dd49a6142699f60f186b96197dcc9caa8a",
+    "after_sha256": "1bb8f8059c95dc01a4f66401369109daead80c696c02100a147f384e575c0a16",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All nine ABC Vulcanus clauses match its glyph row; successful Staats-Gewalt and state Rechts-Gewalt mean exercise of state/legal authority in this translation, and are not reduced to violence.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/jupiter-kronos-equals-zeus.md",
+    "before_sha256": "f0a20ecb384e9d02a8e0bdbf2defc06d1d609f255cf817f75169fca898882b70",
+    "after_sha256": "5aed02cb948d8925824746731a3429358cb251fc033a0405c01f14644480debe",
+    "ledger": "activations-016.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF214/printed218 and ABC PDF168/printed338–339; read the complete original/current source sections, all adjacent glyph boundaries and owning ledger. All eight ABC Zeus clauses match its glyph row: efforts, financial accomplishments, state leadership, efforts for success, creative financial hierarchy/state, state achievements and legal goals.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-witte-pdf214.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-jupiter-abc-pdf168.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  }
+]

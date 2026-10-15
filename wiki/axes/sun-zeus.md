@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Sun/Zeus`
 - Astronomicon axis: `S/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
-The burning body. A man with a goal. A born leader. Creative person. Hie procreative impulse. The rocket. Man’s procreative capacity. To be the leader. The physical fire. Inflammable objects. Exposed to physical compulsion. Obligated to act. Creative day.
+- Source page: printed p. 117; PDF p. 113.
+
+The burning body. A man with a goal. A born leader. Creative person. The procreative impulse. The rocket. Man’s procreative capacity. To be the leader. The physical fire. Inflammable objects. Exposed to physical compulsion. Obligated to act. Creative day.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Fire a day, fcurly man, guidance person, guidance center, corporal procreation, cracative man, leishmgs cntrum, person training, personal effort, creative person, Tagcs goal, and establishment of a centre
+- Source page: printed pp. 162–163; PDF p. 80.
+
+Fire during the day, fiery person, leader, leadership center, physical procreation, creative man, achievement center, leadership of people, personal effort, creative person, daily goal, founding a center.
+
+## Comparative Schema
+
+- core meaning: goal-directed, creative, and procreative activity, joined to the concrete image of physical fire ([Witte](#pair-summary)).
+- psychology: having a goal and an impulse to create or act; the summary also allows action under compulsion rather than wholly voluntary initiative.
+- body/health: bodily fire and the source's male procreative capacity are named. These are attributed source meanings, not an assessment of fertility or a diagnosis.
+- social/relationship: leadership, directing activity, and being obliged to act; no developed partnership description is supplied.
+- events/manifestations: creative activity, centers of leadership or achievement, founding a center, combustible objects, and the rocket are explicit examples ([Witte](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: creative agency and physical compulsion both belong to the range. Daily goal and fire/day labels remain source motifs rather than an event-dating method.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Fire a day, fcurly man, guidance person, guidance center, corporal procreation, 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on the burning body, a man with a goal, and a born leader.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Zeus` concerns a person or body impelled toward an objective: creating, directing, producing, or being obliged to act. The [Witte pair summary](#pair-summary) connects the person with a goal and the leader to creative and procreative capacity. It also makes the physical image concrete through fire, combustible objects, and the rocket; these meanings should remain visible alongside the human ones.
+
+The pair therefore includes both purposeful initiative and action under physical compulsion. It does not establish that every expression is freely chosen or successful, and its historical procreative wording is not a fertility judgment. The [ABC summary](#abc-pair-summary) adds personal effort, leadership of people, centers of achievement or leadership, and founding a center, extending the range to organized undertakings. A specific closing factor still requires its own activation entry.
 
 ## Links
 

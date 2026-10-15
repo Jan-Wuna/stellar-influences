@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Narcotics. Poisons. Deadly poison or drinks. Decay, decline, shrinkage. Lack of 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `402`; PDF page: `200` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Dissolving of a blockade, shapeless, grild exchange, circulatory sch, creeping depression, deep water, compaction of fine material, depth in metaphysics, water circuit, and water stau
+German pair summary (transcribed from printed page `402`; PDF page `200`):
+
+> Auflösung einer Blockade, Gestaltloses festigen, gründliche Täuschung, Kreislauf-Schwäche, Luft-Blockade, schleichende Depression, tiefes Wasser, Verdichtung von Feinstoff, Vertiefung in Metaphysik, Wasser-Kreislauf, Wasser-Stau
+
+Editorial translation from the German passage: Dissolution of a blockade, stabilizing the formless, thorough deception, circulatory weakness, air blockage, creeping depression, deep water, condensation of subtle substance, deepening in metaphysics, water circulation, water accumulation.
+
+## Comparative Schema
+
+- core meaning: dissolution, depletion, and changes between fluid and solid states connect decay, freezing, thawing, and obstruction.
+- psychology: the intelligible Udo wording includes deepening in metaphysics; its creeping-depression phrase is a historical source association, not a diagnosis.
+- body/health: Witte names narcotics, poisons, and deprivation of air or water; ABC names circulatory weakness, without a precise condition or clinical evidence.
+- social/relationship: neither pair summary supplies a distinct relationship delineation.
+- events/manifestations: freezing or thawing, softening or hardening, shrinkage, water circulation or blockage, and dissolution of a blockade span opposite changes of state.
+- conflicts/notes: Constriction and release coexist. The source's formless/subtle-substance vocabulary supplies no explained physical mechanism; its medical words supply no diagnosis.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Dissolving of a blockade, shapeless, grild exchange, circulatory sch, creeping d
 - [Neptune/Admetos = Vulcanus](../activations/neptune-admetos-equals-vulcanus.md)
 - [Neptune/Admetos = Zeus](../activations/neptune-admetos-equals-zeus.md)
 
+## Contradictions
+
+Freezing/thawing and blockage/release are paired alternatives. ABC's complete list includes air blockage and circulatory weakness; the literal terms do not establish a specific disease.
+
+ABC's complete bold pair list was checked against printed402/PDF200; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos` combines diffusion and constriction into themes of decay, freezing, poison, deprivation, and slow material or psychic transition. It often describes states where life force thins out or hardens, so later activations show whether those conditions are socially widened, formally imposed, mentally interpreted, collectively suffered, or gradually improved.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Admetos` concerns dissolution, depletion, and the boundary between fluidity and solidity. [Witte's pair summary](#pair-summary) is unusually concrete: decay and shrinkage appear with a lack of air or water, ice, freezing and thawing, and softening or hardening. These are changes of state and availability, not evidence that the pair always describes one irreversible decline.
+
+[Udo's readable phrases](#abc-pair-summary) retain dissolution of a blockade, deep water, compaction of fine material, and deepening in metaphysics, extending the range from material conditions to concentrated investigation of subtle matters. The damaged translation limits further inference. Narcotics and poisons are Witte's historical correspondences; the pair alone establishes neither exposure nor illness, and it supplies no distinct relationship meaning or generic constructive outcome.
 
 ## Links
 

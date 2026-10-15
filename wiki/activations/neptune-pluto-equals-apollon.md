@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Apollon`
 - Astronomicon formula: `Y/Z = ¥`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Secret scientific research. Unnoticeable transformations and changes in science. Sneaking changes for many.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Successful air change, developing metaphysical knowledge, weak trade development, changes due to water quantities, vie! Developing intuition, developing knowledge in the near future, developing increasingly fine tuning, and pre exchange increasing development
+Successful change of air, developing metaphysical knowledge, weak development of trade, changes through quantities of water, developing much intuition, future development of knowledge, increasingly unfolding sensitivity, and pretending increasing development
+
+## Comparative Schema
+
+- core meaning: unnoticed scientific or extensive development, with knowledge, sensitivity, and pretence among the expressions.
+- psychology: developing intuition and sensitivity is explicit.
+- body/health: change of air and quantities of water are literal examples, without a health claim.
+- social/relationship: changes affecting many and weak trade development are stated.
+- events/manifestations: secret scientific research and changes in science or knowledge are named.
+- conflicts/notes: secrecy does not establish deception; ABC separately names pretending development.
+
+## Contradictions
+
+Witte emphasizes secret or unnoticed scientific changes. ABC adds knowledge, trade, and material examples while distinguishing actual development from pretended development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Apollon`: Secret scientific research. Unnoticeable transformations and changes in science. Sneaking changes for many.
-- Practical focus: enlarges subtle transformation through secret research and collective systems, showing scientific or social changes that spread quietly before becoming widely apparent.
-- Practical expression: successful air change, developing metaphysical knowledge, weak trade development, changes due to water quantities, and vie! Developing intuition.
+In Neptune/Pluto = Apollon, development is considered through knowledge, research, or changes affecting many. [Witte](#witte-entry) names secret scientific research and unnoticed transformations; [ABC](#abc-entry) adds developing metaphysical knowledge, intuition, and sensitivity, but also pretending increasing development (printed p. 391, PDF p. 194). Hidden research and false claims of progress therefore remain distinct, while water quantities and changes of air are preserved as literal examples.
 
 ## Links
 

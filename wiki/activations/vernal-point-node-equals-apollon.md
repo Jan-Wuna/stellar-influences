@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Apollon](../triads/vernal-point-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Union or connections of scientists or merchants. Widespread connections. Freedom to establish relationships.
 
@@ -42,13 +46,27 @@ Union or connections of scientists or merchants. Widespread connections. Freedom
 
 #### ABC Entry
 
+- Source page: 27; PDF page: 12 (one-based spread).
+
 Successfully connected with the public, trade relations in the public, extensive contacts with the public, connection to the knowledge of the world, a lot of connection with the public, and economic relations in the public
+
+## Comparative Schema
+
+- core meaning: Public connections extending widely through commerce, science, and knowledge.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Scientists or merchants associated with others and freedom to form relationships.
+- events/manifestations: Trade, economic relations, extensive contacts, and connection to world knowledge.
+- conflicts/notes: Many connections and successful connection are source themes, not a required outcome of every association.
+
+## Contradictions
+
+No direct contradiction is established. Commercial and scientific networks are different settings for broad public association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Apollon`: union or connections of scientists or merchants, widespread connections, and freedom to establish relationships.
-- Practical expression: successfully connected with the public, trade relations in the public, extensive contacts with the public, connection to the knowledge of the world, and a lot of connection with the public.
+In `Vernal Point/Node = Apollon`, public association extends across a wider field. The [Witte entry](#witte-entry) names scientists or merchants, widespread links, and freedom to form relationships. The [ABC entry](#abc-entry) adds trade, economic relations, extensive public contacts, and access to the world's knowledge. The connected reading centers on breadth and exchange through a network of relationships.
 
 ## Links
 

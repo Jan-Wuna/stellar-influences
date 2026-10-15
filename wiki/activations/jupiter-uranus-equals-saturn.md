@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Saturn`
 - Astronomicon formula: `V/X = W`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden lucky decision. Sudden fortunate separation. Sudden losses.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting success cancellations, exciting legal event, successful concentration on technology, joyful arousal despite pain, happy event in old age, sudden moneyproblems, difficult legal reform, and surprising satisfaction through separation
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+Agitating disruptions of success, an exciting legal event, successful concentration on technology, joyful excitement despite pain, a happy event in old age, sudden financial problems, difficult legal reform, and surprising satisfaction through separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0800.
 
 Tendency at times to have sudden inhibitions, one-sided principles, obstinacy. Occurrence of sudden inhibitions before the attainment of an objective, sudden disadvantages, losses.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Saturn paragraph; chapter begins on p. 80. The printed actions with be construed wording is retained.
 
 A desire to be freely enthusiastic about something, but holding back from doing so, possibly because one is unsure of how one’s actions with be construed. A fear of going too far.
 
@@ -66,26 +76,27 @@ A desire to be freely enthusiastic about something, but holding back from doing 
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Enhanced ability to work slowly and patiently toward the goals you set forth; increased resistance to change; highlights the disappointments you encounter during your efforts to bring new life to old methods or habits.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden decisions, separations or losses meet inhibition and patient effort toward change.
+- psychology: Fear of going too far, obstinacy and sudden inhibition coexist with a capacity to work slowly and patiently.
+- body/health: ABC mentions joyful excitement despite pain without specifying an illness.
+- social/relationship: Concern about how one's actions will be understood can restrain open enthusiasm.
+- events/manifestations: Fortunate separation, losses, technological concentration, legal reform, happiness in old age and disappointment in renewing old methods.
+- conflicts/notes: Witte and ABC retain fortunate separation or satisfaction beside Ebertin's disadvantages; Sandbach's actions with be construed is a printed typo left unexpanded.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's fortunate decisions and separation and ABC's surprising satisfaction are favorable alternatives to Ebertin's sudden inhibition and losses. Munkasey's patient work and resistance to change coexist; no entry establishes that inhibition causes every listed adverse event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Saturn`: tension between freedom and prudence, stop-start progress, and the need to manage excitement without losing realism. Main caution: that fear, rigidity, or one-sided principles can turn promising change into frustration, missed chances, or sudden setbacks.
+`Jupiter/Uranus = Saturn` brings a sudden opening up against restraint. Enthusiasm may be held back by fear of going too far or uncertainty about how others read one's actions, while patient work remains possible. Separation can bring luck or unexpected satisfaction, yet sudden inhibition and loss are also stated. [Munkasey's effort and resistance](#munkasey-entry), [Sandbach's hesitation](#sandbach-entry), [Ebertin's inhibition](#ebertin-entry) and the [Witte](#witte-entry)/[ABC](#abc-entry) alternatives keep both the effort and its uncertain outcome visible.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Cupido](../axes/asc-cupido.md)
 - Triad hub: [Asc Cupido Hades](../triads/asc-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 Bereavement in the family. To have a poor marriage-partner. Poor family environment. Unhealthy places. Scarceness of apartments. Old family homes.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 91, “Asc + Cupido,” Hades row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Disadvantaged partner community, deprivation of a local community, mysterious partner community, community service for the environment, local criminal community, local tradition community, and polluted community place
+Disadvantaged partner community, privations for a local community, mysterious partner community, community service for the surroundings, local criminal community, local tradition community, and polluted community place.
+
+Source reference: printed p. 123 (PDF p. 60), “Aszendent + Cupido,” Hades glyph row; checked on the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Deprivation, loss, or difficult conditions in family, partnership, housing, and community ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Family bereavement is explicit; neglect or a permanently depleted personality is not established.
+- **Body/health:** Witte's unhealthy places are historical source doctrine about settings, not a diagnosis; ABC also names a polluted community place.
+- **Social/relationship:** A poor marriage partner and disadvantaged, traditional, mysterious, or criminal communities are separate examples.
+- **Events/manifestations:** Bereavement, apartment scarcity, old family homes, and community service are named.
+- **Conflicts/notes:** Tradition and community service are not equivalent to criminality or pollution; the listed settings must remain distinct.
+
+## Contradictions
+
+The entries overlap in difficult living or community conditions. ABC also includes tradition and service, which broaden the range rather than contradict deprivation or establish those activities as harmful.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Hades`: poor living conditions, unhealthy residences, and domestic or relational sorrow within the immediate social unit. Main caution: decayed belonging: home and partnership can become burdensome, depleted, or touched by loss and neglect.
+In `Asc/Cupido = Hades`, Hades specifies the pair through hardship or loss within the family, partnership, or shared place. Bereavement, a poor family environment, scarce apartments, and old homes make the material conditions concrete; ABC adds disadvantaged or polluted community settings. Its service, traditional, mysterious, and criminal communities remain separate examples, so the page does not make every old home or traditional group unhealthy or suspect. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

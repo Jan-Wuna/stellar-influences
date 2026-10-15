@@ -11,6 +11,8 @@ normalized_axis: Mars/MC
 factor_a: Mars
 factor_b: MC
 related_activations:
+  - Mars/MC = MC
+  - Mars/MC = Mars
   - Mars/MC = Admetos
   - Mars/MC = Apollon
   - Mars/MC = Asc
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/MIDHEAVEN`
-- Source page: `251`
+- Source heading: `MERIDIAN + MARS`
+- PDF page: `64`
 
 #### Pair Summary
 
@@ -86,9 +90,15 @@ Making arrangements. Giving orders. Ones own action. A agitated mind. Self-will.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `72`; PDF page: `35` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Action--meirmte, animated work, I work, I want, impulses of the soul, my creation, my wine, my actions, my action power, soul work, psychic impulses, and action power of the soul
+German pair summary (transcribed from printed page `72`; PDF page `35`):
+
+> Aktions-Minute, beseelte Arbeit, ich arbeite, ich will, Impulse der Seele, mein Schaffen, mein Wille, meine Handlungen, meine Tatkraft, Seelen-Arbeit, seelische Impulse, Tatkraft der Seele
+
+Editorial translation from the German passage: Minute of action, ensouled work, I work, I will, impulses of the soul, my productive activity, my will, my actions, my drive to act, soul work, psychological or soul impulses, drive of the soul to act.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +182,17 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: One's own action directed toward a consciously held aim; the [Principle](#principle) calls this ego-conscious action, and the [Pair Delineation](#pair-delineation) gives the concise statement "I act."
+- psychology: Readiness, determination, organizing ability, and independence stand beside excitability, premature action, and uncertainty about one's direction.
+- body/health: Voluntary muscles, regulation of bodily heat, and fever are Ebertin's historical [Biological Correspondence](#biological-correspondence); Munkasey's [With Body or Mind](#with-body-or-mind) instead discusses personal maturity and psychological integration.
+- social/relationship: Leadership, employers and authority figures, assertive parenting, and growth with a partner are represented; personal insistence can also produce anger or struggles over identity.
+- events/manifestations: Arranging work, issuing instructions, career advancement or change, and failure through premature decisions are explicit in the [Pair Summary](#pair-summary) and [Probable Manifestations](#probable-manifestations).
+- conflicts/notes: Purposeful action and agitated or poorly directed action are conditional alternatives. Ebertin's Mercury activation example remains distinct from the unactivated pair; ABC's my will and minute of action add no such exam or debate scenario.
 
 ## Related Activations
+
+- [Mars/MC = MC](../activations/mars-mc-equals-mc.md)
+- [Mars/MC = Mars](../activations/mars-mc-equals-mars.md)
 
 - [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
 - [Mars/MC = Apollon](../activations/mars-mc-equals-apollon.md)
@@ -205,15 +218,15 @@ Emphasizes your personal maturity and the energy you place into becoming psychol
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries develop both effective self-direction and action undermined by haste or lack of purpose. Sandbach's spiritual alignment and Munkasey's competitive self-development retain their distinct frameworks.
+- ABC's damaged "my wine" also has the noisy native extraction "mein Wine" and is excluded from synthesis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC` is the axis of purposeful action, ambition, decisive self-assertion, and the drive to shape one's life through effort and command. It combines initiative, heat, courage, and competition with vocation, status, self-direction, and public effectiveness.
-- Chart expression: leadership, independence, organizing ability, career drive, and the capacity to advance through resolute action rather than hesitation. Liabilities: impulsive decisions, combative authority, quarrels over direction, and public or professional damage caused by acting too fast or too aggressively.
+`Mars/MC` describes taking one's aims in hand and acting to realize them. Deciding, organizing, giving instructions, and asserting one's individuality all belong to this self-directed effort. The [Pair Summary](#pair-summary), [Psychological Correspondence](#psychological-correspondence), and [Pair Delineation](#pair-delineation) connect personal initiative with the ability to pursue work and life objectives resolutely.
+
+The quality of direction matters: determination can advance a career, while haste, emotional agitation, and poor arrangements can frustrate the very goal being pursued in [Probable Manifestations](#probable-manifestations). Growth and persistence also enter personal relationships, where insistence and bravado can become anger or a struggle over identity in [In Your Relationships](#in-your-relationships). The spiritual account of aligning action with principles remains one source's further interpretation, rather than a condition imposed on every expression of the pair.
 
 ## Links
 

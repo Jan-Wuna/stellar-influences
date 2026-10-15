@@ -13,6 +13,7 @@ factor_b: Asc
 related_activations:
   - Sun/Asc = Admetos
   - Sun/Asc = Apollon
+  - Sun/Asc = Asc
   - Sun/Asc = Chiron
   - Sun/Asc = Cupido
   - Sun/Asc = Hades
@@ -27,6 +28,7 @@ related_activations:
   - Sun/Asc = Pluto
   - Sun/Asc = Poseidon
   - Sun/Asc = Saturn
+  - Sun/Asc = Sun
   - Sun/Asc = Uranus
   - Sun/Asc = Venus
   - Sun/Asc = Vernal Point
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `S/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/ASCENDANT`
-- Source page: `95`
+- Source heading: `ASCENDANT + SUN`
+- Source page: PDF p. 80.
 
 #### Pair Summary
 
@@ -88,9 +92,13 @@ Personal relationships. Physical relations to other people. To meet or make acqu
 
 #### ABC Pair Summary
 
-Other persons, place and day, personal environment, personal partner, personal place, world center, and life with others
+- Source page: printed pp. 100–101; PDF p. 49.
+
+Other persons, male partner, person nearby, place and day, center of a place, people of a place, personal environment, personal partner, personal place, center of the environment, life with others.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 107; PDF p. 109.
 
 #### Principle
 
@@ -110,9 +118,11 @@ Male persons of the environment.
 
 #### Probable Manifestations
 
-+ Meeting and contact with other people, recognition, advancement of personal interests, relationship with the public. - Disadvantage or harm through other persons, separation. O/A
++ Meeting and contact with other people, recognition, advancement of personal interests, relationship with the public. - Disadvantage or harm through other persons, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source page: PDF p. 23.
 
 #### Principle
 
@@ -124,9 +134,11 @@ Growing into an ability to use all superficialities and outer illusions against 
 
 ### Robert Hand - Horoscope Symbols
 
+- Source page: PDF p. 202.
+
 #### Pair Delineation
 
-Somewhat similar to Sun/Node, but more intimate relationships are involved. The desire to encounter others intimately and at close range for either partnership or competition. In the charts of either sex, may signify relationships -with a male person -with whom one is closely associated.
+Somewhat similar to Sun/Node, but more intimate relationships are involved. The desire to encounter others intimately and at close range for either partnership or competition. In the charts of either sex, may signify relationships with a male person with whom one is closely associated.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -172,17 +184,18 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: personal presence and self-presentation in immediate surroundings and encounters with other people ([pair summary](#pair-summary), [Basic Ideas](#basic-ideas)).
+- psychology: purposeful confidence, self-worth and meaningful identity can become exaggerated self-importance, uncertainty, or a mask that hides one's nature.
+- body/health: awareness of nearby people and surroundings, passive sense perception, and awareness of one's effect on others are stated; no specific illness is established.
+- social/relationship: acquaintances, greetings and recognition extend to close partnership or competition; male associates are an explicit source emphasis, with Hand applying it in charts of either sex.
+- events/manifestations: meetings, public recognition, advancement of personal interests, or disadvantage and separation through others; business expressions concern the visible style of leaders and enterprises.
+- conflicts/notes: spontaneous expression and a divided outer mask are contrasting aspect conditions, not simultaneous requirements. Witte's local day/year clause stays source context; the exact activation is needed for a closing factor's meaning.
 
 ## Related Activations
 
 - [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md)
 - [Sun/Asc = Apollon](../activations/sun-asc-equals-apollon.md)
+- [Sun/Asc = Asc](../activations/sun-asc-equals-asc.md)
 - [Sun/Asc = Chiron](../activations/sun-asc-equals-chiron.md)
 - [Sun/Asc = Cupido](../activations/sun-asc-equals-cupido.md)
 - [Sun/Asc = Hades](../activations/sun-asc-equals-hades.md)
@@ -197,6 +210,7 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 - [Sun/Asc = Pluto](../activations/sun-asc-equals-pluto.md)
 - [Sun/Asc = Poseidon](../activations/sun-asc-equals-poseidon.md)
 - [Sun/Asc = Saturn](../activations/sun-asc-equals-saturn.md)
+- [Sun/Asc = Sun](../activations/sun-asc-equals-sun.md)
 - [Sun/Asc = Uranus](../activations/sun-asc-equals-uranus.md)
 - [Sun/Asc = Venus](../activations/sun-asc-equals-venus.md)
 - [Sun/Asc = Vernal Point](../activations/sun-asc-equals-vernal-point.md)
@@ -209,11 +223,11 @@ Understanding your effect on the world and feeling mentally satisfied with that;
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc` is the axis of vivid self-projection, confidence, and the urge to make a direct personal impression. It combines vitality, identity, visibility, and will with appearance, personality, immediate surroundings, and close encounters with other people.
-- Chart expression: noticeable presence, leadership in the local environment, personal recognition, and relationships that strongly reflect or challenge the native's sense of self. Liabilities: vanity, egocentricity, friction with others, and harm that comes from asserting the self too forcefully or too visibly.
+`Sun/Asc` concerns how a person comes across and meets others at close range. The [pair summary](#pair-summary) begins with personal relationships, greetings and awareness of the immediate surroundings; [Hand](#pair-delineation) gives these encounters the intimacy of partnership or competition. Confidence, bearing and the wish to be recognized shape that contact in the [psychological correspondence](#psychological-correspondence) and [Basic Ideas](#basic-ideas). This can support purposeful, natural expression, while [Sandbach's process](#process) asks that outward appearances reveal meaning rather than conceal it.
+
+The same concern with one's effect on others can become exaggerated self-importance, attention-seeking or uncertainty. The [aspect keywords](#banzhafhaebler-aspect-keywords) distinguish uninhibited self-expression from a socially acceptable mask that conceals an inner nature; neither condition defines every instance of the pair. Recognition and advancement coexist in the [manifestations](#probable-manifestations) with disadvantage or separation through others. Sensory perception, local circumstances and male associates also belong to the sources' range, but do not establish an illness, a necessary relationship outcome or a timing rule from this axis alone.
 
 ## Links
 

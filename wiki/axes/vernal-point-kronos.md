@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ARIES + KRONOS`
+- PDF page: `51`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ Great events. Great powers (nations). Governments. Officials, the state or the g
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `50–51`; PDF page: `24`
+
 #### ABC Pair Summary
 
-Authoritat in public Life, Authoritat of Weltgeltung, dominance in the public!ichlichkeit, hierarchy in the public, independent in the public Life, and World State
+Authority in public life, authority of world standing, dominance in public, hierarchy in public, independence in public life, public standing, state and public, world state.
+
+German pair summary checked: “Autorität im öffentlichen Leben, Autorität von Weltgeltung, Dominanz in der Öffentlichkeit, Hierarchie in der Öffentlichkeit, selbständig im öffentlichen Leben, öffentliches Ansehen, Staat und Öffentlichkeit, Welt-Staat”.
+
+## Comparative Schema
+
+- Core meaning: Authority, public standing and large public significance organize both pair summaries.
+- Psychology: Public independence and dominance are named in the ABC entry; a broader personal psychological profile is not established.
+- Body/health: These entries make no specific bodily or medical claim.
+- Social/relationship: Governments, officials, state and public, public authority, and hierarchy place the pair within organized power.
+- Events/manifestations: Great powers or nations, great events, and major events on Earth are explicit in the pair summary.
+- Conflicts/notes: Authority of world standing and independence in public life broaden the range beyond holding government office; the entries do not determine whether authority is beneficial or coercive.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ Authoritat in public Life, Authoritat of Weltgeltung, dominance in the public!ic
 - [Vernal Point/Kronos = Vulcanus](../activations/vernal-point-kronos-equals-vulcanus.md)
 - [Vernal Point/Kronos = Zeus](../activations/vernal-point-kronos-equals-zeus.md)
 
+## Contradictions
+
+No direct contradiction is established. Witte stresses governments and major events, while ABC also stresses public standing and independence in public life; neither establishes that an individual must hold state power.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes great events, great powers (nations), governments, officials, the state or the general authority, and the authority of the general public.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Vernal Point/Kronos concerns authority operating at a public or world scale. Governments, officials, states, and great powers in the [pair summary](#pair-summary) connect with the authority of world standing, dominance, hierarchy and public standing of the [ABC entry](#abc-pair-summary). Organized power and matters of general importance are central, while independence in public life widens the range beyond state office.
+
+Major events are also explicitly included, so the axis is not limited to the character of a powerful person. The entries establish a field of public authority and significance, without specifying who controls it or whether a particular exercise of authority is beneficial.
 
 ## Links
 

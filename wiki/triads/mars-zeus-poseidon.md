@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Zeus Poseidon`
 - Astronomicon triad-set: `U £ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Poseidon = Zeus](../activations/mars-poseidon-equals-zeus.md)
-- [Mars/Zeus = Poseidon](../activations/mars-zeus-equals-poseidon.md)
-- [Zeus/Poseidon = Mars](../activations/zeus-poseidon-equals-mars.md)
+- [Mars/Poseidon = Zeus](../activations/mars-poseidon-equals-zeus.md): base axis [Mars/Poseidon](../axes/mars-poseidon.md); activator [Zeus](../factors/zeus.md).
+- [Mars/Zeus = Poseidon](../activations/mars-zeus-equals-poseidon.md): base axis [Mars/Zeus](../axes/mars-zeus.md); activator [Poseidon](../factors/poseidon.md).
+- [Zeus/Poseidon = Mars](../activations/zeus-poseidon-equals-mars.md): base axis [Zeus/Poseidon](../axes/zeus-poseidon.md); activator [Mars](../factors/mars.md).
 
 ## Source Coverage
 
-- `Mars/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
-- `Mars/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `323`
-- `Mars/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
-- `Mars/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `313`
-- `Zeus/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
-- `Zeus/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `458`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Poseidon = Zeus](../activations/mars-poseidon-equals-zeus.md#witte-entry) (PDF entry-start p. 204); [Mars/Zeus = Poseidon](../activations/mars-zeus-equals-poseidon.md#witte-entry) (PDF entry-start p. 199); [Zeus/Poseidon = Mars](../activations/zeus-poseidon-equals-mars.md#witte-entry) (PDF entry-start p. 296).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Poseidon = Zeus](../activations/mars-poseidon-equals-zeus.md#abc-entry) (printed p. 323); [Mars/Zeus = Poseidon](../activations/mars-zeus-equals-poseidon.md#abc-entry) (printed p. 313); [Zeus/Poseidon = Mars](../activations/zeus-poseidon-equals-mars.md#abc-entry) (printed p. 458).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Zeus`: weaponizes conviction so that ideas are imposed, defended, and fought for.
-- `Mars/Zeus = Poseidon`: tests the axis through intellect, proof, and moral or ideological pressure.
-- `Zeus/Poseidon = Mars`: Fighting attitude and behavior in moral and worldly matters. To fight for political ideas and opinions.
+Mars, Zeus and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Poseidon](../axes/mars-poseidon.md)
+- [Mars/Zeus](../axes/mars-zeus.md)
+- [Zeus/Poseidon](../axes/zeus-poseidon.md)
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)

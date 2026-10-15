@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = MC`
 - Astronomicon formula: `V/Z = MC`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto MC row.
+
 To be fortunate in one’s own development. To experience pleasant transformations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successive mental development, my growing happiness, my successful transformation, my financial actions, my financial growth, my beneficial development, my growing rights, soul frcude development, and growing mental happiness
+- Source reference: printed page 330; one-based PDF page 164, Jupiter/Pluto MC row; complete German wording checked.
+
+Successful inner development, my growing happiness, my successful transformation, my financial transactions, my finances growing, my advantageous development, my growing rights, developing inner joy, and growing inner happiness
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 236, Jupiter/Pluto coded entry 0829; retained printed coded-entry locator.
 
 Ambition, assiduity and industriousness, desire to succeed as manager. Advantages in one's occupation, advancement and promotion, great luck.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF pages 83–84, Jupiter/Pluto Midheaven entry crossing the page boundary; exact full paragraph checked, chapter begins on page 82.
 
 To have a great desire to achieve mastery. To be willing to put tremendous amounts of energy into one’s work. The desire to be promoted and/or to progress in one’s work. To experience great luck in one’s work.
 
@@ -66,26 +76,27 @@ To have a great desire to achieve mastery. To be willing to put tremendous amoun
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 A powerful influence in early life who pushed you to excel in all areas; developing a code of ethics and rising beyond petty ideas and inclinations; recognition and respect from others for great accomplishments in society.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate personal development and occupational advancement.
+- psychology: Ambition, industriousness, desire for mastery and increasing inner joy.
+- body/health: No bodily condition is stated.
+- social/relationship: Managerial work, an influential early-life person and respect for societal accomplishments.
+- events/manifestations: Promotion, great luck in work, growing personal finances/rights and developing an ethical code.
+- conflicts/notes: A consuming need for status is not stated; Munkasey explicitly includes ethical development as well as achievement.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize favorable personal or professional growth. Their inner happiness, managerial success and ethical-development examples are complementary, without making work status the sole meaning.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = MC`: managerial force, great luck in work, and desire to rise through pressure, organization, and influence. Main caution: that the pursuit of advancement can become consuming, making status and success feel like absolute necessities.
+For `Jupiter/Pluto = MC`, the [source entries](#source-entries) join personal development with mastery, industrious work and possible advancement. Witte and ABC retain pleasant inward change, joy, rights and finances; Ebertin and Sandbach make occupation and promotion explicit. Munkasey adds an early influence toward excellence, an ethical code and recognition for accomplishments. The shared focus is substantial personal and vocational development, without an unsupported claim that status must become an absolute necessity.
 
 ## Links
 

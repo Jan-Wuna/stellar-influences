@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Vernal Point MC Apollon](../triads/vernal-point-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Meeting many people. To hear and see much. Great and rich experiences in a lifet
 
 #### ABC Entry
 
-My success in the public sphere and my experience in the public sphere
+- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+My success in public life, my trade in public life, my public business, my experiences in public life, my freedom in public life, inner experiences in public life, knowledge of the inner nature of the public.
+
+## Comparative Schema
+
+- **Core meaning:** Wide experience and success in public life.
+- **Psychology:** The emphasis is on exposure and experience rather than a defined psychological trait.
+- **Body/health:** Seeing and hearing are activities here, not medical claims.
+- **Social/relationship:** Meeting many people and public participation are explicit.
+- **Events/manifestations:** Science, geoscience, and public success are named.
+- **Conflicts/notes:** ABC separately names public success, trade, business, experience, freedom, inner experience and knowledge of the public's inner nature. These public settings do not establish travel as a necessary cause of experience.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Vernal Point` externalizes the axis into many meetings, rich experience, and visible scientific life.
-- Chart expression: a lifetime of wide exposure, much seeing and hearing, and a publicly manifested horizon broadened by travel, people, learning, and general science.
+Vernal Point specifies `MC/Apollon` through broad public experience: meeting many people, seeing and hearing much, and accumulating a rich range of encounters. Witte includes science and geoscience, while ABC adds public trade, business, freedom and inner experience; neither entry establishes travel as a necessary cause of that breadth. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

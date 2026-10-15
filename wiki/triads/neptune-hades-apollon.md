@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Hades Apollon`
 - Astronomicon triad-set: `Y ¢ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Apollon = Neptune](../activations/hades-apollon-equals-neptune.md)
-- [Neptune/Apollon = Hades](../activations/neptune-apollon-equals-hades.md)
-- [Neptune/Hades = Apollon](../activations/neptune-hades-equals-apollon.md)
+- [Hades/Apollon = Neptune](../activations/hades-apollon-equals-neptune.md): base axis [Hades/Apollon](../axes/hades-apollon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Apollon = Hades](../activations/neptune-apollon-equals-hades.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Hades](../factors/hades.md).
+- [Neptune/Hades = Apollon](../activations/neptune-hades-equals-apollon.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Hades/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `443`
-- `Neptune/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `401`
-- `Neptune/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `395`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Apollon = Neptune](../activations/hades-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 280); [Neptune/Apollon = Hades](../activations/neptune-apollon-equals-hades.md#witte-entry) (PDF entry-start p. 251); [Neptune/Hades = Apollon](../activations/neptune-hades-equals-apollon.md#witte-entry) (PDF entry-start p. 248).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Apollon = Neptune](../activations/hades-apollon-equals-neptune.md#abc-entry) (printed p. 443); [Neptune/Apollon = Hades](../activations/neptune-apollon-equals-hades.md#abc-entry) (printed p. 401); [Neptune/Hades = Apollon](../activations/neptune-hades-equals-apollon.md#abc-entry) (printed p. 395).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Neptune`: the attempt to scientifically disclose or foresee the future by reading events and structures from earlier times.
-- `Neptune/Apollon = Hades`: This activation degrades `Neptune/Apollon` into toxic mixtures, foul vapors, and the lower or more noxious side of chemistry and mass atmosphere. It points to broad contamination or science turned toward draining, corruption, and unpleasant material consequence.
-- `Neptune/Hades = Apollon`: This activation broadens concealed deterioration into large systems, numbers, or environments, showing unrealized hopes, chemical or pathological contexts, hidden business trouble, and the spread of toxic or misleading conditions through networks or shared resources.
+Neptune, Hades and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Hades/Apollon = Neptune ABC entry](../activations/hades-apollon-equals-neptune.md#abc-entry) begins “Proliferation of a dangerous weak”. That specific translated phrase requires source verification; the paragraph remains represented separately from its siblings.
 
 ## Links
 
+- [Hades/Apollon](../axes/hades-apollon.md)
+- [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)

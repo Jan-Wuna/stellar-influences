@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Poseidon`
 - Astronomicon formula: `S/Y = ¨`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -42,13 +44,27 @@ To be very receptive to high-minded intellectual matters.
 
 #### ABC Entry
 
-Insightful subtle human being, foreign idea centre, mentally weak person, persian clarity through intuition, sensitization of the mind in the body, refined carper culture, center for clear water, and future knowledge of a human being
+Source locator: printed page 155 / PDF page 76, Poseidon glyph under Sonne + Neptun. English translation checked against the complete row; Geist is retained broadly as mind/spirit.
+
+Insightful sensitive person, unfamiliar idea center, person weak in mind/spirit, personal clarity through intuition, sensitization of mind/spirit in the body, refined bodily culture, center for clear water, and a person's knowledge of the future.
+
+## Comparative Schema
+
+- core meaning: Intellectual receptivity and clarity through intuition.
+- psychology: Insight and sensitivity, with mental weakness also listed as a possibility.
+- body/health: ABC mentions bodily culture and water; no clinical condition is established.
+- social/relationship: An idea center is named, but no particular relationship pattern is established.
+- events/manifestations: Reception of high-minded intellectual matters; intuitive understanding of the future.
+- conflicts/notes: The bodily-culture and mind/spirit descriptions remain source terms without a specified physical mechanism.
+
+## Contradictions
+
+- Clarity and weakness in mind/spirit are alternative ABC associations whose conditions are unstated. Bodily culture and clear water are separate source examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Neptune = Poseidon`: spiritual truth, vision, and inspired inner guidance.
-- Practical expression: insightful subtle human being, foreign idea centre, mentally weak person, persian clarity through intuition, and sensitization of the mind in the body.
+Poseidon specifies the Sun/Neptune axis as receptive understanding: subtle sensitivity can serve high-minded intellectual interests and personal clarity through intuition. [Witte Entry](#witte-entry) establishes intellectual receptivity, while [ABC Entry](#abc-entry) adds insight and future understanding. This supports an intuitive route to understanding without claiming that every impression is spiritual truth.
 
 ## Links
 

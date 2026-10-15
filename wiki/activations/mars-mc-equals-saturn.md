@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Saturn MC](../triads/mars-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To turn away or refrain from. Not wanting to get involved in something. Retarding action. Moment of waiting. Orders bringing about losses.
 
@@ -45,11 +49,15 @@ To turn away or refrain from. Not wanting to get involved in something. Retardin
 
 #### ABC Entry
 
-I work with perseverance, I work hard, I have patience at work, my work tasks, my work is lossy, my work is hard, my actions are piled, my will is concentrated, and painful soul treatment
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+I work with perseverance, I work seriously, I have patience at work, my work tasks, my work brings losses, my work is hard, my actions are inhibited, my will is concentrated, and painful psychological treatment.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0776.
 
 Inability to make decisions or concentrate upon an objective, inhibitions. Disadvantages through exaggerated zeal, actions resulting in failure, the act of separation, suffering harm or damage.
 
@@ -57,7 +65,9 @@ Inability to make decisions or concentrate upon an objective, inhibitions. Disad
 
 #### Sandbach Entry
 
-To be uncertain or insecure about acting on the dictates of one’s higher con sciousness. A need to take charge of things but a resistance to doing so.
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
+
+To be uncertain or insecure about acting on the dictates of one’s higher consciousness. A need to take charge of things but a resistance to doing so.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Restraining your personal ambitions and realizing the role that others can play 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action restrained, delayed, or pursued through hard and patient work.
+- psychology: Hesitation, insecurity, concentrated will, and ambivalence about taking charge.
+- body/health: Ebertin names harm or damage and ABC painful psychological treatment; neither identifies a medical condition.
+- social/relationship: Holding back from involvement or restraining ambition while seeking recognition.
+- events/manifestations: Waiting, laborious tasks, losses, separation, and unsuccessful action are distinct examples.
+- conflicts/notes: Concentrated will and persistence in ABC differ from Ebertin's difficulty deciding or concentrating; the formula does not prescribe one response to difficulty.
 
 ## Contradictions
 
-- None recorded yet.
+ABC's concentrated will and Ebertin's inability to concentrate are opposing possibilities. Both occur within entries about difficult action and must remain side by side.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Saturn`: difficult decisions, delays in success, cautious leadership, and the testing of one's ability to carry responsibility without forcing outcomes. Main caution: discouragement: fear, hesitation, or exaggerated zeal can produce failure, damage, or retreat from needed action.
+In `Mars/MC = Saturn`, Saturn specifies personal action through restraint and difficulty: waiting, inhibition, and resistance to taking charge coexist with patient work. ABC's concentrated will contrasts with Ebertin's difficulty concentrating, so perseverance and failure remain different possibilities. Ebertin's harm and ABC's painful psychological treatment are historical source examples, not diagnoses. Munkasey holds restrained ambition together with a wish for recognized achievement. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 73 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0776; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

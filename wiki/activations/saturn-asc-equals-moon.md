@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Moon`
 - Astronomicon formula: `W/Asc = R`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To take leave of women. To be separated or rejected from female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old woman in the village, patient woman in the environment, feelings storage in one place, disturbance Gehle the Partners, problematic woman in the environment, problems with other women, hour of separation from the partner, separation from the place of women, and environmental tasks of a people
+- Source page: 114 (printed); PDF page: 56.
+
+An older woman at the place, a patient woman in the environment, emotional disturbances at a place, disturbed feelings of the partner, a problematic woman in the environment, problems with other women, an hour of separation from the partner, separation from the woman's place, environmental tasks of a people.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 260 (printed); PDF page: 262; entry code: 0916.
 
 Feelings of depression caused by the environment. Inhibitions in the presence of others, ill humor and disagreeable moods, a person easily influenced by the environment. Separation of female persons.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 94 (exact entry text checked; chapter begins on PDF page 94).
 
 Security comes through having a structured and definite role to play in life. One is impressionable to negative reactions about oneself coming from other people. Se cure, dependable relationships make one feel nurtured and safe.
 
@@ -70,22 +82,23 @@ One of your parents preferred to remain in the background and taught you a lesso
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Emotional security depends on the role and relationships one inhabits, with sensitivity to rejection.
+- Psychology: Environmental low mood, inhibition, impressionability, and need for dependable ties.
+- Body/health: The entries describe emotional suffering or low mood without establishing a medical diagnosis.
+- Social/relationship: Separation involving women, nurturing secure relationships, and reluctant self-effacing care.
+- Events/manifestations: Partner separation and emotional disturbance within a place.
+- Conflicts/notes: Security through structure differs from separation or rejection; historical parent and gender claims remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+Security through structure differs from separation or rejection; historical parent and gender claims remain attributed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Moon`: emotional endurance, self-control, and a capacity to remain composed in difficult environments. Main caution: withdrawal: hurt, heaviness, or bodily depletion can make the person seem unreachable, cold, or chronically burdened.
+In `Saturn/Asc = Moon`, Moon specifies the pair through the emotional effect of one's surroundings and relationships. The [Sandbach entry](#sandbach-entry) places security in a definite role and dependable ties, while [Ebertin](#ebertin-entry) describes low mood, inhibition, and sensitivity to the environment. The [Witte](#witte-entry) and [ABC entries](#abc-entry) also retain separation or rejection involving women and disturbed feelings within partnership.
+
+[Munkasey's account](#munkasey-entry) of a background parent and self-sufficiency is an attributed source scenario, not a fact about every childhood. Its caring but self-effacing behavior adds another response to this need for security.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Node Apollon`
 - Astronomicon triad-set: `Y g ¥`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Apollon = Node](../activations/neptune-apollon-equals-node.md)
-- [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md)
-- [Node/Apollon = Neptune](../activations/node-apollon-equals-neptune.md)
+- [Neptune/Apollon = Node](../activations/neptune-apollon-equals-node.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Node](../factors/node.md).
+- [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md): base axis [Neptune/Node](../axes/neptune-node.md); activator [Apollon](../factors/apollon.md).
+- [Node/Apollon = Neptune](../activations/node-apollon-equals-neptune.md): base axis [Node/Apollon](../axes/node-apollon.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `400`
-- `Neptune/Node = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Node/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
-- `Node/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `233`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Apollon = Node](../activations/neptune-apollon-equals-node.md#witte-entry) (PDF entry-start p. 251); [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md#witte-entry) (PDF entry-start p. 147); [Node/Apollon = Neptune](../activations/node-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 153).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Apollon = Node](../activations/neptune-apollon-equals-node.md#abc-entry) (printed p. 400); [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md#abc-entry) (printed p. 221); [Node/Apollon = Neptune](../activations/node-apollon-equals-neptune.md#abc-entry) (printed p. 233).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Node`: This activation links `Neptune/Apollon` to insincere networks, deceptive associations, and relationship with people who distort the truth. It expresses the axis through social contact, where confusion and fraud travel through connection rather than isolation.
-- `Neptune/Node = Apollon`: This activation enlarges dissolution across wider circles, turning uncertain alliance into the breaking apart of unions involving many people at once.
-- `Node/Apollon = Neptune`: Abuse of freedom. Not to know what to do with freedom. Dissolution of connection with many. Connections with future science or fringe science.
+Neptune, Node and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Apollon](../axes/neptune-apollon.md)
+- [Neptune/Node](../axes/neptune-node.md)
+- [Node/Apollon](../axes/node-apollon.md)
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Apollon](../factors/apollon.md)

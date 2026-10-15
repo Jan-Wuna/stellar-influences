@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Asc Poseidon`
 - Astronomicon triad-set: `g Asc ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Poseidon = Node](../activations/asc-poseidon-equals-node.md)
-- [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md)
-- [Node/Poseidon = Asc](../activations/node-poseidon-equals-asc.md)
+- [Asc/Poseidon = Node](../activations/asc-poseidon-equals-node.md): base axis [Asc/Poseidon](../axes/asc-poseidon.md); activator [Node](../factors/node.md).
+- [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md): base axis [Node/Asc](../axes/node-asc.md); activator [Poseidon](../factors/poseidon.md).
+- [Node/Poseidon = Asc](../activations/node-poseidon-equals-asc.md): base axis [Node/Poseidon](../axes/node-poseidon.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `136`
-- `Node/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `105`
-- `Node/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `238`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Poseidon = Node](../activations/asc-poseidon-equals-node.md#witte-entry) (PDF entry-start p. 98); [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md#witte-entry) (PDF entry-start p. 82); [Node/Poseidon = Asc](../activations/node-poseidon-equals-asc.md#witte-entry) (PDF entry-start p. 156).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Poseidon = Node](../activations/asc-poseidon-equals-node.md#abc-entry) (printed p. 136); [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md#abc-entry) (printed p. 105); [Node/Poseidon = Asc](../activations/node-poseidon-equals-asc.md#abc-entry) (printed p. 238).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Node`: keeping associations for intellectual, ideological, or spiritual reasons rather than mere convenience.
-- `Node/Asc = Poseidon`: Close connections to people who have spiritual, mental, cognitive or educational experiences to gain a growing understanding through such acquaintances.
-- `Node/Poseidon = Asc`: To be mentally associated with others.
+Node, Asc and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Node/Asc](../axes/node-asc.md)
+- [Node/Poseidon](../axes/node-poseidon.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)

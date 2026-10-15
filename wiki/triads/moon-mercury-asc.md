@@ -23,34 +23,49 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Asc`
 - Astronomicon triad-set: `R T Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md)
-- [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md)
-- [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md)
+- [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md): base axis [Mercury/Asc](../axes/mercury-asc.md); activator [Moon](../factors/moon.md).
+- [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md): base axis [Moon/Asc](../axes/moon-asc.md); activator [Mercury](../factors/mercury.md).
+- [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md): base axis [Moon/Mercury](../axes/moon-mercury.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Mercury/Asc = Moon`: Michael, page `180`
-- `Moon/Asc = Mercury`: Michael, page `140`
-- `Moon/Mercury = Asc`: Michael, page `104`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md#witte-entry) (PDF entry-start p. 83); [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#witte-entry) (PDF entry-start p. 81); [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md#witte-entry) (PDF entry-start p. 122).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md#abc-entry) (printed p. 106); [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#abc-entry) (printed p. 102); [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md#abc-entry) (printed p. 176).
+- Reinhold Ebertin - The Combination of Stellar Influences: [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md#ebertin-entry) (printed p. 170, entry 0556); [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md#ebertin-entry) (printed p. 115, entry 0336).
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md#sandbach-entry) (PDF pp. 52–53, entry spans the page break); [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md#sandbach-entry) (PDF pp. 26–27, entry).
+- Michael Munkasey - Midpoints: Unleashing the Power of the Planets: [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md#munkasey-entry) (printed p. 180); [Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#munkasey-entry) (printed p. 140); [Moon/Mercury = Asc](../activations/moon-mercury-equals-asc.md#munkasey-entry) (printed p. 104).
+
+<a id="derived-synthesis"></a>
+## Derived Synthesis
+
+Moon, Mercury and Asc form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+[Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#source-entries) has three actual source subentries: Witte, ABC and Munkasey. The complete Sandbach Moon/Asc chapter on PDF pp. 39–40 omits Mercury; its unsupported metadata declaration has been removed. It also has no Ebertin subentry. The siblings' entries cannot fill those gaps.
 
 ## Links
 
+- [Mercury/Asc](../axes/mercury-asc.md)
+- [Moon/Asc](../axes/moon-asc.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Asc](../factors/asc.md)

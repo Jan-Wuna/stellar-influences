@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus Mars](../triads/mercury-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Acquaintances which become intimate. Passionate. Acquaintances in military circl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 240; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Work with the female youth, joy in youth work, creating peace language, harmonious thinking impulses, harmonious youth work, artistic media activity, wanting to talk about love, and preference for media work
+Work with young women, joy in youth work, establishing peace conversations, harmonious thought impulses, harmonious youth work, artistic activity by young people, artistic media activity, wishing to talk about love, a preference for media work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 146 (coded entry 0461); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ Aesthetic aspirations or wishes, creative energy, appreciation of practical art 
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 41 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 To forcefully or assertively communicate in an artful or smooth way. When one acts it tends to be with a smooth flexibility, meaning an ability to easily work around any problems or challenges that come up.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Assertion and assurance in your expressions of love and affection; conveying the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Artful expression becomes assertive, active or practically creative.
+- psychology: Smooth flexibility coexists with forceful speech and passion.
+- body/health: Physical activity is explicit in Witte and Ebertin; neither gives a specific diagnosis.
+- social/relationship: Acquaintances may become intimate; Munkasey also describes speech that irritates a romantic partner.
+- events/manifestations: Utility art, metalwork, military greetings, artistic activity by young people and media work are source examples.
+- conflicts/notes: Artful assertiveness and irritating speech are different possible expressions; neither alone defines the orientation.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's smooth assertiveness and Munkasey's irritating speech describe different possible effects of forceful expression. The entries do not make either effect universal.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Mars`: lively attraction, passionate communication, and the ability to move others through engaging verbal energy. Main caution: conflict dressed as charm: expression can become provocative, manipulative, or too eager to win favor forcefully.
+In `Mercury/Venus = Mars`, Mars specifies affectionate or artistic expression through active creation and assertive communication. Smooth flexibility can carry forceful speech or help action work around difficulties; practical art, metalwork and physical activity provide concrete creative outlets. Work with young women, artistic activity among youth and efforts to establish peace conversations add shared practical settings. ([Sandbach](#sandbach-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry))
+
+Acquaintance can become intimate and affectionate expression can be assured, yet Munkasey also describes sharp speech that irritates a romantic partner. Military greetings and loud music heightening love remain particular source examples rather than one inevitable relational outcome. ([Witte](#witte-entry); [Munkasey](#munkasey-entry))
 
 ## Links
 

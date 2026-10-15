@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Zeus Admetos`
 - Astronomicon triad-set: `Y £ ¦`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Admetos = Zeus](../activations/neptune-admetos-equals-zeus.md)
-- [Neptune/Zeus = Admetos](../activations/neptune-zeus-equals-admetos.md)
-- [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md)
+- [Neptune/Admetos = Zeus](../activations/neptune-admetos-equals-zeus.md): base axis [Neptune/Admetos](../axes/neptune-admetos.md); activator [Zeus](../factors/zeus.md).
+- [Neptune/Zeus = Admetos](../activations/neptune-zeus-equals-admetos.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Admetos](../factors/admetos.md).
+- [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md): base axis [Zeus/Admetos](../axes/zeus-admetos.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `403`
-- `Neptune/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `397`
-- `Zeus/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `455`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Admetos = Zeus](../activations/neptune-admetos-equals-zeus.md#witte-entry) (PDF entry-start p. 252); [Neptune/Zeus = Admetos](../activations/neptune-zeus-equals-admetos.md#witte-entry) (PDF entry-start p. 249); [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md#witte-entry) (PDF entry-start p. 293).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Admetos = Zeus](../activations/neptune-admetos-equals-zeus.md#abc-entry) (printed p. 403); [Neptune/Zeus = Admetos](../activations/neptune-zeus-equals-admetos.md#abc-entry) (printed p. 397); [Zeus/Admetos = Neptune](../activations/zeus-admetos-equals-neptune.md#abc-entry) (printed p. 455).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Zeus`: This activation energizes `Neptune/Admetos` through struggle, survival drive, and the beginning of a fight against harsh conditions. It shows the axis moving from passive deprivation into active resistance, even when prospects remain poor.
-- `Neptune/Zeus = Admetos`: Work is pressed into narrow, difficult conditions, with effort proceeding under confinement, pressure, or frustratingly limited effectiveness.
-- `Zeus/Admetos = Neptune`: Not a chance to start anything worth while. Slow and sneaking change of.
+Neptune, Zeus and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Zeus/Admetos](../axes/zeus-admetos.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Admetos](../factors/admetos.md)

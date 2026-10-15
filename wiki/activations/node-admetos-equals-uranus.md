@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Uranus`
 - Astronomicon formula: `g/¦ = X`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden active excitement with few. To break their chains. Sudden break in connection with a few.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Restricted connections to air, exchange by blocking contactc, deepening of subtle connections, solid connection to water, uncertainty in a bonding through depression, strengthening of poor connections Exhaust relations, developing blockicter development of bonding, and operation
+Blocked reform connections, consolidation of a dynamic relationship, thorough technical mediation, deepening contacts with technology, consolidating new relationships, the sudden end of a connection, and tensions within a blocked connection
+
+## Comparative Schema
+
+- core meaning: sudden breaks or liberation coexist with new ties becoming firmer.
+- psychology: sudden excitement and tension within a blocked connection are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: Witte names a few people breaking chains or contact; ABC adds dynamic relationships.
+- events/manifestations: technical mediation and blocked reform connections are particular settings.
+- conflicts/notes: sudden excitement or a small group is not necessarily a difficult expression.
+
+## Contradictions
+
+Witte emphasizes sudden liberation or rupture. ABC also names consolidating new and dynamic ties; every change need not sever contact.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Uranus`: Sudden active excitement with few. To break their chains. Sudden break in connection with a few.
-- Practical focus: to break their chains.
-- In difficult expression, it can mark sudden active excitement with few.
+Node/Admetos = Uranus concerns sudden change in constrained ties. [Witte](#witte-entry) names excitement among a few, breaking chains and a sudden break in contact. [ABC](#abc-entry) adds blocked reform links and tension, but also dynamic or new relationships becoming firmer and deeper technical contacts (printed p. 235, PDF p. 116). The supported range includes liberation, rupture and consolidation, without treating all sudden activity as a difficulty.
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Asc/Admetos = Kronos`
 - Astronomicon formula: `Asc/¦ = ¤`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 96, Kronos row.
+
 The capital. Seat of government. Opposition to the chief, the superior or the government.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special perseverance of the partner, restricted authorship of the partner, strengthening of the authorship of the partner, large environmental blockade, state environmental restrictions, support of other states, and important deepening in the environment
+Reference: printed p. 133 (one-based PDF p. 65), Kronos row.
+
+Special endurance of the partner, restricted authority of the partner, consolidation of the partner's authority, a large blockade of the surroundings, state restrictions on the surroundings, suppression of other states, and important deepening into the surroundings.
+
+## Comparative Schema
+
+- Core meaning: Authority and government situated at a place, with restriction, opposition, endurance, and consolidated authority also represented.
+- Psychology: The partner's special endurance; no specific motive for opposition or suppression is stated.
+- Body/health: No explicit bodily or health statement in these entries.
+- Social/relationship: Restricted or consolidated partner authority; opposition to a chief, superior, or government.
+- Events/manifestations: A capital or seat of government, large surrounding blockades, state restrictions, and suppression of other states.
+- Conflicts/notes: Autorität means authority, not authorship; Unterdrückung means suppression, not support. ABC does not explain the scope of deepening into the surroundings.
+
+## Contradictions
+
+Restricted and consolidated partner authority are alternatives within ABC's range. The location of government and opposition to it are separate Witte examples, without a claim that every authority relationship hardens into domination.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Kronos`: formal power structures tied to place, superior status in the environment, and situations where standing apart becomes politically charged. Main caution: heavy hierarchy: location and authority can harden into domination, opposition, or rigid social distance.
+In `Asc/Admetos = Kronos`, Kronos specifies the pair through authority in relation to place and other people. Witte names a capital or seat of government and opposition to a superior or government; ABC brings the same authority question into a partner's restricted or consolidated position. Endurance and deepened engagement with the surroundings coexist with large blockades, state restrictions, and suppression of other states, without a single outcome being specified. ([Witte entry](#witte-entry), [ABC entry](#abc-entry))
 
 ## Links
 

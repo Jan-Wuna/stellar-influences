@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Hades Apollon`
 - Astronomicon triad-set: `V ¢ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Apollon = Jupiter](../activations/hades-apollon-equals-jupiter.md)
-- [Jupiter/Apollon = Hades](../activations/jupiter-apollon-equals-hades.md)
-- [Jupiter/Hades = Apollon](../activations/jupiter-hades-equals-apollon.md)
+- [Hades/Apollon = Jupiter](../activations/hades-apollon-equals-jupiter.md): base axis [Hades/Apollon](../axes/hades-apollon.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Apollon = Hades](../activations/jupiter-apollon-equals-hades.md): base axis [Jupiter/Apollon](../axes/jupiter-apollon.md); activator [Hades](../factors/hades.md).
+- [Jupiter/Hades = Apollon](../activations/jupiter-hades-equals-apollon.md): base axis [Jupiter/Hades](../axes/jupiter-hades.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Hades/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `442`
-- `Jupiter/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
-- `Jupiter/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `341`
-- `Jupiter/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
-- `Jupiter/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `335`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Apollon = Jupiter](../activations/hades-apollon-equals-jupiter.md#witte-entry) (PDF entry-start p. 280); [Jupiter/Apollon = Hades](../activations/jupiter-apollon-equals-hades.md#witte-entry) (PDF entry-start p. 215); [Jupiter/Hades = Apollon](../activations/jupiter-hades-equals-apollon.md#witte-entry) (PDF entry-start p. 212).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Apollon = Jupiter](../activations/hades-apollon-equals-jupiter.md#abc-entry) (printed p. 442); [Jupiter/Apollon = Hades](../activations/jupiter-apollon-equals-hades.md#abc-entry) (printed p. 341); [Jupiter/Hades = Apollon](../activations/jupiter-hades-equals-apollon.md#abc-entry) (printed p. 335).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Jupiter`: being cared for in hard times, making money from junk or salvage, and finding success in history, antiquity, or secret science.
-- `Jupiter/Apollon = Hades`: wrong financial bets, large investment losses, and great amounts of money going wrong.
-- `Jupiter/Hades = Apollon`: many people being out of luck and science or large enterprises being hindered through lack.
+Jupiter, Hades and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Apollon](../axes/hades-apollon.md)
+- [Jupiter/Apollon](../axes/jupiter-apollon.md)
+- [Jupiter/Hades](../axes/jupiter-hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)

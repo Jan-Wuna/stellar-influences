@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Notable artists or musicians who enter your life; joining or associating with pe
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Association around beauty, pleasure, art, or music.
+- psychology: Shared appreciation is implied by the group's stated purpose; no further inner disposition is described.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Joining artistic groups and relating to former lovers as friends.
+- events/manifestations: Notable artists or musicians enter one's life.
+- conflicts/notes: One Munkasey entry supports this repeated-factor activation; no distinct triad hub exists.
 
 ## Contradictions
 
-- None recorded yet.
+There is one entry, so no comparison between sources is possible. Its artistic associations and renewed friendships do not conflict.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Node`: Notable artists or musicians who enter one's life; joining or associating with people or groups who have the enhancement and promotion of beauty, pleasure, or art as a fundamental purpose; old lovers as new friends.
+In `Venus/Node = Node`, Node specifies the Venus/Node connection through the people and groups one joins. The [Munkasey entry](#munkasey-entry) concentrates those associations around beauty, pleasure, art, and music, and includes former lovers becoming new friends. This is a narrow reading about the character of associations and renewed ties; the single entry supplies no further psychological or health interpretation.
 
 ## Links
 

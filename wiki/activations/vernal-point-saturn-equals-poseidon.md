@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Poseidon](../triads/vernal-point-saturn-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Public education. Educator.
 
@@ -42,13 +46,27 @@ Public education. Educator.
 
 #### ABC Entry
 
+- Source page: 37; PDF page: 17 (one-based spread).
+
 Distorted reason in public, idea loss in public life, clear public tasks, concentration on truth in public, culture problems in public, and problems with truth in public life
+
+## Comparative Schema
+
+- core meaning: Public burdens involving education, reason, culture, and truth.
+- psychology: Disturbed reason, lost ideas, and concentration on truth are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public education and the educator.
+- events/manifestations: Clear public tasks and problems in culture or truth.
+- conflicts/notes: Educational responsibility is distinct from distorted reasoning; truth remains a source theme.
+
+## Contradictions
+
+Witte gives education as a constructive field, while ABC adds both clear tasks and problems with reason or truth. These are different possibilities within intellectual responsibility.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Poseidon`: public education and educator.
-- Practical expression: distorted reason in public, idea loss in public life, clear public tasks, concentration on truth in public, and culture problems in public.
+In `Vernal Point/Saturn = Poseidon`, public difficulty concerns understanding and cultural responsibility. The [Witte entry](#witte-entry) names public education and the educator. The [ABC entry](#abc-entry) adds disturbed reason, lost ideas, cultural problems, clear tasks, and concentration on truth. The synthesis joins demanding educational work with the intellectual problems it may encounter, without making education itself a defect.
 
 ## Links
 

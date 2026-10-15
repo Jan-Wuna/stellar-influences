@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Kronos`
 - Astronomicon formula: `V/Z = ¤`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Kronos row.
+
 Fortunate development of one’s abilities. Examinations successfully passed. Pleasant change in government or of the chief. Successful end of an apprenticeship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of special joy, especially gleaming change, development of state achievements, major change through money, legal development of the state, state change of law, and growing state funds
+- Source reference: printed page 331; one-based PDF page 164, Jupiter/Pluto Kronos row; all seven clauses visually checked.
+
+Developing special joy, a particularly happy change, development of state successes, a great change through money, legal development of the state, state changes to law, and growing state funds
+
+## Comparative Schema
+
+- core meaning: Fortunate development of abilities and favorable changes in authority or state affairs.
+- psychology: ABC names special joy and happy change.
+- body/health: No bodily condition is stated.
+- social/relationship: A chief, government or state supplies the authoritative setting.
+- events/manifestations: Passing examinations, completing apprenticeship, growing state funds and legal changes.
+- conflicts/notes: Witte's competency milestones do not establish a universal requirement for public affirmation or promotion.
+
+## Contradictions
+
+Both entries are favorable, but Witte's personal abilities and apprenticeship differ in scale from ABC's state finances and law. Neither requires every expression to involve a higher rank.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Kronos`: growth becoming authoritative and publicly affirmed. It favors advancement through discipline, proving competence, and moving into higher levels of responsibility or rank.
+For `Jupiter/Pluto = Kronos`, [Witte](#witte-entry) connects favorable development with abilities, passed examinations and the completion of an apprenticeship. Pleasant changes in government or a chief extend the theme into authority. [ABC](#abc-entry) adds happy change, state success, funds and law. The orientation therefore includes both demonstrated competence and favorable institutional development, without making public recognition or promotion a necessary result.
 
 ## Links
 

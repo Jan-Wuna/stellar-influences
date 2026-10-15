@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Kronos Apollon`
 - Astronomicon triad-set: `R ¤ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Apollon = Moon](../activations/kronos-apollon-equals-moon.md)
-- [Moon/Apollon = Kronos](../activations/moon-apollon-equals-kronos.md)
-- [Moon/Kronos = Apollon](../activations/moon-kronos-equals-apollon.md)
+- [Kronos/Apollon = Moon](../activations/kronos-apollon-equals-moon.md): base axis [Kronos/Apollon](../axes/kronos-apollon.md); activator [Moon](../factors/moon.md).
+- [Moon/Apollon = Kronos](../activations/moon-apollon-equals-kronos.md): base axis [Moon/Apollon](../axes/moon-apollon.md); activator [Kronos](../factors/kronos.md).
+- [Moon/Kronos = Apollon](../activations/moon-kronos-equals-apollon.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Kronos/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `Moon/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
-- `Moon/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `201`
-- `Moon/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `199`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Apollon = Moon](../activations/kronos-apollon-equals-moon.md#witte-entry) (PDF entry-start p. 299); [Moon/Apollon = Kronos](../activations/moon-apollon-equals-kronos.md#witte-entry) (PDF entry-start p. 134); [Moon/Kronos = Apollon](../activations/moon-kronos-equals-apollon.md#witte-entry) (PDF entry-start p. 133).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Apollon = Moon](../activations/kronos-apollon-equals-moon.md#abc-entry) (printed p. 460); [Moon/Apollon = Kronos](../activations/moon-apollon-equals-kronos.md#abc-entry) (printed p. 201); [Moon/Kronos = Apollon](../activations/moon-kronos-equals-apollon.md#abc-entry) (printed p. 199).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Moon`: the female scientist, scientific authority for others, and public-facing expertise such as judges, lawyers, or population science.
-- `Moon/Apollon = Kronos`: To lead great masses and be a model leader. Expanding people. Great leading people.
-- `Moon/Kronos = Apollon`: Greater demands in the office. More office hours. To hold several offices at same time.
+Moon, Kronos and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Moon/Apollon](../axes/moon-apollon.md)
+- [Moon/Kronos](../axes/moon-kronos.md)
 - [Moon](../factors/moon.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)

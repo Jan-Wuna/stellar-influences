@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Zeus Kronos Admetos`
 - Astronomicon triad-set: `£ ¤ ¦`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Kronos/Admetos = Zeus](../activations/kronos-admetos-equals-zeus.md)
-- [Zeus/Admetos = Kronos](../activations/zeus-admetos-equals-kronos.md)
-- [Zeus/Kronos = Admetos](../activations/zeus-kronos-equals-admetos.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Admetos = Zeus](../activations/kronos-admetos-equals-zeus.md) | [Kronos/Admetos](../axes/kronos-admetos.md) | Zeus |
+| [Zeus/Admetos = Kronos](../activations/zeus-admetos-equals-kronos.md) | [Zeus/Admetos](../axes/zeus-admetos.md) | Kronos |
+| [Zeus/Kronos = Admetos](../activations/zeus-kronos-equals-admetos.md) | [Zeus/Kronos](../axes/zeus-kronos.md) | Admetos |
 
 ## Source Coverage
 
-- `Kronos/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `463`
-- `Zeus/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
-- `Zeus/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `455`
-- `Zeus/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `290`
-- `Zeus/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `451`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Kronos/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-admetos-equals-zeus.md#witte-entry), one-based PDF entry-start p. `300`.
+- `Kronos/Admetos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-admetos-equals-zeus.md#abc-entry), printed p. `463`.
+- `Zeus/Admetos = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-kronos.md#witte-entry), one-based PDF entry-start p. `294`.
+- `Zeus/Admetos = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-kronos.md#abc-entry), printed p. `455`.
+- `Zeus/Kronos = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-kronos-equals-admetos.md#witte-entry), one-based PDF entry-start p. `290`.
+- `Zeus/Kronos = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-kronos-equals-admetos.md#abc-entry), printed p. `451`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Zeus`: a difficult beginning for a large undertaking within narrow bounds, a special order, or a commission tied to exceptional conditions such as war.
-- `Zeus/Admetos = Kronos`: To start something great. Changed conditions brought on by the government.
-- `Zeus/Kronos = Admetos`: Great creation on a limited scope. Competition among a few. To get a special commission. To be outstanding through special accomplishments. To appear as an odd character through ones behavior,.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

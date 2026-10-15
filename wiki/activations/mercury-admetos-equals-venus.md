@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Venus Admetos](../triads/mercury-venus-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Venus entry, PDF p. 171.
 
 Ungainly in manners. Wrong behavior.
 
@@ -42,13 +46,29 @@ Ungainly in manners. Wrong behavior.
 
 #### ABC Entry
 
-Persistent thoughts of love, restricted language of peace, consolidation of peace through speech, peaceful vicissitude of return, deepening of Harrnonian language, profound reflection on love, and subordinated youth love
+Source: “Merkur + Admetos,” Venus entry, printed p. 264 / PDF p. 131. Translation checked against the German passage.
+
+Persistent thoughts of love, restricted peace talks, consolidation of peace through conversations, a peaceful traffic jam, deepening harmonious conversations, profound reflection on love, suppressed youthful love.
+
+## Comparative Schema
+
+- **Core meaning:** Awkward social expression alongside sustained thought about love.
+- **Psychology:** Persistent reflection on love.
+- **Body/health:** No bodily or health condition is supplied.
+- **Social/relationship:** Witte's judgment of manners; ABC's peace discussions and youthful-love restrictions.
+- **Events/manifestations:** Consolidating peace and deepening harmonious conversations; a peaceful traffic jam is separately named.
+- **Conflicts/notes:** Witte's judgment of manners has no supplied psychological cause; ABC's sustained love or peace themes do not establish reciprocity.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 264 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte gives an evaluative judgment of manners; ABC includes sustained reflection on love, harmonious conversation and consolidating peace, alongside restriction or suppression. These different emphases should not erase one another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Venus` makes the axis socially awkward and ill-mannered.
-- Chart expression: wrong behavior, ungainly social expression, and concentrated self-consciousness that interferes with grace, ease, or tact in relating to others.
+In `Mercury/Admetos = Venus`, Venus specifies concentrated or restricted thought and communication through love, peace and social expression. Witte judges manners as awkward or wrong, while ABC names persistent reflection on love and deepening harmonious conversation, alongside restricted peace talks and suppressed youthful love. The range retains both difficulty in expression and constructive sustained exchange, without inventing a cause for awkwardness. ABC's unusual peaceful-traffic-jam example remains separate. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 264 / PDF p. 131)
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Sun Venus Mars](../triads/sun-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,32 @@ Sexual love of the body. Determination to marriage. Procreation. To be bodily to
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Work in the arts centre, harmonious work of the man, corporal love acts, activate body love, artistic activity of the man, personal peace work, personal love acts, and human preference for work
+Work in an art center, harmonious creation by the man, bodily acts of love, activating bodily love, the man's artistic activity, personal peace work, personal acts of love, and a person's preference for work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0579`.
 
 #### Ebertin Entry
 
 A strongly physical love, artistic power of creation. The urge to establish an union between the sexes, marriage, procreation.
 
+#### Historical Source Note 31
+
+> Venus/Mars = Sun is often operative as a direction in connection with birth.
+
+This recovered footnote belongs to Ebertin's Sun entry (printed page `176`, PDF page `178`), rather than the interrupted Asc sentence. It is retained as source provenance outside the V1 interpretation.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +90,21 @@ Invigorates and enlivens you to derive pleasure from your activities; activates 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personally vitalized affection, physical intimacy, and devoted accomplishment.
+- Psychology: Self-esteem tied to effectiveness, pride in activity, and a need for approval.
+- Body/health: Physical love and movement are explicit; procreation remains a historical manifestation, not a prediction.
+- Social/relationship: Kinship, intimate friends, determination to marry, and bodily union.
+- Events/manifestations: Artistic creation, gradual daily accomplishment, personal peace work, and graceful movement.
+- Conflicts/notes: The sources' gendered and reproductive examples are historically framed; the recovered footnote is retained solely as provenance.
 
 ## Contradictions
 
-- None recorded yet.
+- The sources' gendered and reproductive examples are historically framed; the recovered footnote is retained solely as provenance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Sun`: radiant magnetism, romantic courage, and the ability to lead through warmth joined to initiative. Main caution: ego fused with desire: self-expression can become too self-centered, dramatic, or driven by conquest and validation.
+`Venus/Mars = Sun` gives affection a bodily and personally vitalizing expression through intimacy and devoted activity. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name physical love, kinship, marriage, and procreation, with artistic creative power also explicit. The [ABC entry](#abc-entry) adds personal acts of love, peace work, and artistic activity in historical gendered terms. [Sandbach](#sandbach-entry) links vitality and self-esteem to gradual daily accomplishment and romance. [Munkasey](#munkasey-entry) adds pleasure in activity, graceful movement, pride, and approval. The orientation connects personal vitality with affectionate action and effectiveness, while the reproductive examples remain source possibilities rather than predicted outcomes.
 
 ## Links
 

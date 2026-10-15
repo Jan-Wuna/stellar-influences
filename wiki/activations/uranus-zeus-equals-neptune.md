@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Neptune`
 - Astronomicon formula: `X/£ = Y`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms at sea.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts in water technology, intuitive technical design, sudden replacement by the movement, creative impulses by metaphysics, stresses by fire water (alcohol), technical performance in the air, unsafe new beginning of a new development, beginning of a restless change, and dynamic performance
+- Source page: 379 (printed); PDF page: 188.
+
+Efforts in water technology, intuitive technical design, sudden disappointment through leadership, creative impulses by metaphysics, stresses by fire water (alcohol), technical performance in the air, uncertain new beginning
+
+## Comparative Schema
+
+- Core meaning: Exposure to elemental force; uncertain beginnings.
+- Psychology: Disappointment through leadership; intuition.
+- Body/health: ABC mentions alcohol-related tension, not a diagnosis.
+- Social/relationship: Disappointment with leadership.
+- Events/manifestations: Storms, water technology, and air performance.
+- Conflicts/notes: The Pluto development opening is excluded from this row.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The Pluto development opening is excluded from this row.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Neptune`: Thunderstorms. Unprotected exposure to the uproar of the elements. Sudden storms at sea.
-- Practical expression: efforts in water technology, intuitive technical design, sudden replacement by the movement, creative impulses by metaphysics, and stresses by fire water (alcohol).
+Neptune specifies Uranus/Zeus through force that leaves someone exposed or makes a new beginning uncertain. Storms and water technology connect the entry with elemental power; intuitive design and metaphysical impulses offer another channel. ABC also retains disappointment through leadership and tension associated with alcohol. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

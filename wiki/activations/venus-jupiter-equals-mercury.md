@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Mercury Venus Jupiter](../triads/mercury-venus-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Thoughts of happy love. Joy through confiding in friends.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `272`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Joy of a young love, thoughts about the happiness of love, talk about legal successes, harmonious talk about success, artificial success in speech, love joy in youth, news about peace successes, and talk about love pleasure
+Joy of a young love, thoughts about happiness in love, conversations about legal successes, harmonious conversations about success, artistic successes in conversation, joy in love in youth, news about peace successes, and speaking about love's joy.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source reference: printed page `179`, coded entry `0593`.
 
 #### Ebertin Entry
 
 Mirth, a love of entertainment, optimism, a sense of humor. Happiness in thought, the tendency to think of future happiness in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source reference: PDF page `56` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Emphasizes your education in areas of philosophy, religion, ethics, etc.; your i
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Affection and appreciation expressed through thought, conversation, praise, and learning.
+- Psychology: Optimism, humor, anticipation of happiness in love, and ease in finding ideas about beauty and value.
+- Body/health: The activation entries supply no specific bodily or medical implication.
+- Social/relationship: Confiding in friends, entertaining others, flirtation, and talking about love's joys.
+- Events/manifestations: Speech or writing about philosophy, ethics, culture, economics, or religion; artistic and legal successes discussed.
+- Conflicts/notes: Generous praise, seductive communication, and intellectual education are distinct supported emphases.
 
 ## Contradictions
 
-- None recorded yet.
+- Generous praise, seductive communication, and intellectual education are distinct supported emphases.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Mercury`: uplifting conversation, persuasive diplomacy, and the ability to spread goodwill through ideas and expression. Main caution: sugary overstatement: communication can become flattering, excessive, or too eager to keep everything pleasant and large-hearted.
+`Venus/Jupiter = Mercury` gives the pleasures of love and appreciation a mental and verbal form. [Witte](#witte-entry) describes thoughts of happy love and confidence between friends; [Ebertin](#ebertin-entry) adds humor, entertainment, and optimistic anticipation. The [ABC entry](#abc-entry) extends conversation to artistic, legal, and peace successes. [Sandbach](#sandbach-entry) emphasizes alluring communication, praise, and readily available ideas about beauty and value, while [Munkasey](#munkasey-entry) develops the intellectual range through study and expression in ethics, philosophy, religion, culture, and economics. The common thread is the communication of what is valued, ranging from affectionate conversation to sustained intellectual inquiry.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Asc Vulcanus](../triads/moon-asc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Demonstration of power by female persons. To be powerfully influenced by the public in the near surroundings. To be strongly connected with the public. To be socially with representatives of the executive in one place.
 
@@ -42,14 +46,27 @@ Demonstration of power by female persons. To be powerfully influenced by the pub
 
 #### ABC Entry
 
-Influence of other women, influence of other people, energetic woman as partner, felicitous partner influence, violence against other women, power of the hour in the place, power of a woman in the place, strong women in the environment, and hour of violence in the place
+- Source passage: `Aszendent + Mond`; printed p. `103`; PDF page `50` (complete oriented row checked against actual scan).
+
+Influence of other women, influential other peoples, energetic woman as partner, feelingful partner influence, violence against other women, power of the hour at the place, power of a woman at the place, strong women in the surroundings, hour of violence at the place.
+
+## Comparative Schema
+
+- core meaning: Power and strong influence specify contact with women, nearby people or the public.
+- psychology: Being strongly affected by one's immediate public surroundings is Witte's emphasis.
+- body/health: ABC lists violence against women; this historical example establishes no individual prediction.
+- social/relationship: Powerful women, an energetic partner and executive representatives are stated relational settings.
+- events/manifestations: Displays of power, strong public connections and a local occasion of violence are source examples.
+- conflicts/notes: Feelingful partner influence and violence are separate ABC clauses; strong influence does not make every contact violent.
+
+## Contradictions
+
+No direct contradiction is established. The local, public and relational examples retain their distinct source settings and do not imply universal outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Asc = Vulcanus`: Demonstration of power by female persons. To be powerfully influenced by the public in the near surroundings. To be strongly connected with the public. To be socially with representatives of the executive in one place.
-- Practical focus: intensifies `Moon/Asc` with force, pressure, and mass influence. Emotional presence becomes strongly affected by the public and nearby environment, often through powerful women, executive circles, or concentrated collective energy that makes private feeling socially consequential.
-- Practical expression: influence of other women, influence of other people, energetic woman as partner, felicitous partner influence, and violence against other women.
+In `Moon/Asc = Vulcanus`, Vulcanus specifies social and emotional contact through power or strong influence. Witte describes powerful women, the pressure of the nearby public and contact with executive representatives; ABC adds an energetic partner and women's influence in the surroundings. ABC's violence examples stay attributed alternatives and must not be generalized to every forceful relationship. ([Witte](#witte-entry); [ABC, printed p. 103](#abc-entry))
 
 ## Links
 

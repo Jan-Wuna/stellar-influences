@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [MC Kronos Vulcanus](../triads/mc-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, MC entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To possess great esteem and great influence. To wield great power. To give dicta
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 464; PDF p. 231 (one-based), Kronos + Vulkanus, MC entry.
+
 #### ABC Entry
 
-Influence of one great scroll, great scclic force, my influence in the state, my powerful state, my special power, my influential authoritat, my great power, my strong dominates, my important energies, and soul's powerful
+Influence of a great soul; great inner strength; my influence in the state; my powerful state; my special power; my influential authority; my great strength; my strength dominates; my important energies; self-confident strength of the soul.
+
+## Comparative Schema
+
+- Core meaning: Great influence and power are experienced as personally held authority.
+- Psychology: Esteem, inner strength, self-confidence, and dominance are explicit.
+- Body/health: Soul and inner-strength language does not establish a medical claim.
+- Social/relationship: Wielding state power and giving dictatorial orders are Witte's social forms.
+- Events/manifestations: ABC repeatedly names my power, influence, authority, state, and energies.
+- Conflicts/notes: Personal authority and dictatorial command belong to the range without being interchangeable.
+
+## Contradictions And Tensions
+
+Personal authority and dictatorial command belong to the range without being interchangeable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = MC`: great esteem, major influence, dictatorial command, and direct exercise of governing force.
-- Chart expression: public command, prestige backed by power, and vocation shaped by strong executive authority.
+With MC, Kronos/Vulcanus gives power a personal center: possessing esteem and influence, wielding authority, and experiencing strength as one's own. Witte includes dictatorial orders and exercise of state power. ABC's first-person wording connects these outer forms with inner strength and self-confidence. The entry spans recognized standing and domineering command; it does not make every experience of influence dictatorial or establish a particular vocation. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

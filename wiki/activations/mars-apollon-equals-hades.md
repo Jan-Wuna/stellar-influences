@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Hades Apollon](../triads/mars-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Scientific activity in historical matters. Trade in antiques. Ancient scriptures
 
 #### ABC Entry
 
-Proliferation of defective work, successful work service, successful action in case of danger, adverse work experiences, dangerous work peace, criminal businessTatability, hidden freedom will, and economic crime work
+Expansion of defective work, successful work service, successful action in danger, adverse work experiences, threatened peace at work, criminal commercial activity, hidden will for freedom, and work on economic crime.
+
+## Comparative Schema
+
+Evidence: [ABC Entry](#abc-entry), printed p. 317, PDF p. 157 (exact activator row); [Witte Entry](#witte-entry), PDF p. 201 (exact activator row).
+
+- Core meaning: Scientific or commercial work addresses old material or proceeds amid defects and danger.
+- Psychology: ABC includes adverse experience and a concealed wish for freedom.
+- Body/health: Danger is mentioned as a work context, without a specific bodily claim.
+- Social/relationship: ABC includes work service, threatened peace at work, and criminal commercial activity.
+- Events/manifestations: Historical research, antiques, ancient texts, defective work, and economic crime appear as separate examples.
+- Conflicts/notes: Historical research in Witte and criminal or defective work in ABC are distinct examples; the former does not imply wrongdoing.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Hades`: scientific work on old subjects, trade in antiques, and engagement with historical or ancient records.
-- Chart expression: useful effort in neglected or historical fields, though it can also tie activity to worn-out, old, or low-status material.
+Hades specifies the Mars/Apollon axis through difficult or neglected fields of work. [Witte Entry](#witte-entry) makes this concrete as historical research, antiques, and ancient writings, while [ABC Entry](#abc-entry) concerns defective work, adverse experience, service, and action in danger, including threatened peace at work and criminal commercial activity. These are different fields of application; the historical work is not thereby criminal or defective, and the difficult-work examples do not characterize every undertaking.
 
 ## Links
 

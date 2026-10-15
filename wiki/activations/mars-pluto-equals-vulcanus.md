@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto Vulcanus](../triads/mars-pluto-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Great plans, on a large scale. Plans for distant future. To bring about plans which demand great changes.
 
@@ -42,13 +46,27 @@ Great plans, on a large scale. Plans for distant future. To bring about plans wh
 
 #### ABC Entry
 
-Developing work energy, influence!3 Rich efforts for change, development of will and power, creating power change, strengthening of development work, changing through powerful actions, growing violence actions, and unfolding will strongness
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing work energy, influential efforts toward change, unfolding will and power, bringing about a change of power, strengthening development work, changes through powerful actions, increasing violent actions, and unfolding strength of will.
+
+## Comparative Schema
+
+- core meaning: Large or long-range plans and powerful efforts to bring about major changes.
+- psychology: Developing willpower and the energy for work.
+- body/health: No specific bodily or medical effect is supplied.
+- social/relationship: Changes of power and influential action.
+- events/manifestations: Major development work, strengthening projects, and powerful or violent actions as separate examples.
+- conflicts/notes: ABC includes increasing violent actions; Witte's large plans do not make violence necessary for every major change.
+
+## Contradictions
+
+The entries overlap on major change and strong effort. ABC makes the development of energy, will, power, and a violent possibility more explicit than Witte's plans.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Pluto = Vulcanus` magnifies planning into large-scale, long-range, force-demanding change.
-- Chart expression: great plans for the distant future and transformative projects that require major power, endurance, or structural upheaval to realize.
+In `Mars/Pluto = Vulcanus`, Vulcanus specifies developing action and plans through scale, power, and strong will. Witte names distant-future plans requiring major changes; ABC adds influential efforts, work energy, changes of power, and strengthened development work. Increasing violent actions is one explicit ABC example, while the broader connection is powerful effort directed toward substantial change. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152)
 
 ## Links
 

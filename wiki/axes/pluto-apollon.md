@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ From a small staff to great importance. Occurrences with great consequences. Bus
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `416`; PDF page: `207` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Extension of a development.1 Development of science, successful changes, trade developments, transformation results, extensive changes, growing knowledge, and developing knowledge
+German pair summary (transcribed from printed page `416`; PDF page `207`):
+
+> Ausdehnung einer Entwicklung, Entwicklung der Wissenschaft, erfolgreiche Veränderungen, Handels-Entwicklungen, Transformations-Erfolge, umfangreiche Veränderungen, wachsendes Wissen, Wirtschafts-Wachstum, Wissen entwickeln
+
+Editorial translation from the German passage: Expansion of a development, development of science, successful changes, developments in trade, successes in transformation, extensive changes, growing knowledge, economic growth, developing knowledge.
+
+## Comparative Schema
+
+- core meaning: development that expands in scale, reach, or consequence ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: growing knowledge is explicit in the ABC; neither summary supplies a detailed personality pattern.
+- body/health: neither pair entry supplies a bodily or medical correspondence.
+- social/relationship: commerce, trade, and scientific activity are named collective settings; intimate relationships are not directly delineated.
+- events/manifestations: a small undertaking becoming large, business expansion, development of science, repetition, and first occurrences with substantial consequences are Witte's examples.
+- conflicts/notes: The complete ABC list restores economic growth; expansion remains a stated theme rather than a guarantee of profitable results.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Extension of a development.1 Development of science, successful changes, trade d
 - [Pluto/Apollon = Vulcanus](../activations/pluto-apollon-equals-vulcanus.md)
 - [Pluto/Apollon = Zeus](../activations/pluto-apollon-equals-zeus.md)
 
+## Contradictions
+
+The summaries share expansion and development; repetition and a consequential first occurrence are different manifestations rather than a direct contradiction.
+
+ABC's complete bold pair list was checked against printed416/PDF207; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes from a small staff to great importance; Occurrences with great consequences; Business enlargement, extension; Development of a science; Far reaching and expanded transformations.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Apollon` describes a development growing beyond its original scale. The [pair summary](#pair-summary) traces small beginnings into large undertakings and far-reaching change, especially through commerce, business, or science; the [ABC entry](#abc-pair-summary) adds successful changes and expanding knowledge. What unifies these expressions is increasing reach or consequence as something develops.
+
+Witte also retains repetition and events occurring for the first time with substantial consequences, so the theme is broader than steady business growth. The entries do not guarantee success in every case or supply a general personality or health profile. The ABC's damaged extraction does not justify adding further meanings, and a third factor's specification belongs on its activation page.
 
 ## Links
 

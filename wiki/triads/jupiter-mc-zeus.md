@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter MC Zeus`
 - Astronomicon triad-set: `V MC £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md)
-- [Jupiter/Zeus = MC](../activations/jupiter-zeus-equals-mc.md)
-- [MC/Zeus = Jupiter](../activations/mc-zeus-equals-jupiter.md)
+- [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md): base axis [Jupiter/MC](../axes/jupiter-mc.md); activator [Zeus](../factors/zeus.md).
+- [Jupiter/Zeus = MC](../activations/jupiter-zeus-equals-mc.md): base axis [Jupiter/Zeus](../axes/jupiter-zeus.md); activator [MC](../factors/mc.md).
+- [MC/Zeus = Jupiter](../activations/mc-zeus-equals-jupiter.md): base axis [MC/Zeus](../axes/mc-zeus.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
-- `Jupiter/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `75`
-- `Jupiter/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
-- `Jupiter/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `336`
-- `MC/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
-- `MC/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `88`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md#witte-entry) (PDF entry-start p. 65); [Jupiter/Zeus = MC](../activations/jupiter-zeus-equals-mc.md#witte-entry) (PDF entry-start p. 213); [MC/Zeus = Jupiter](../activations/mc-zeus-equals-jupiter.md#witte-entry) (PDF entry-start p. 72).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/MC = Zeus](../activations/jupiter-mc-equals-zeus.md#abc-entry) (printed p. 75); [Jupiter/Zeus = MC](../activations/jupiter-zeus-equals-mc.md#abc-entry) (printed p. 336); [MC/Zeus = Jupiter](../activations/mc-zeus-equals-jupiter.md#abc-entry) (printed p. 88).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/MC = Zeus`: happiness over accomplishments.
-- `Jupiter/Zeus = MC`: joy in creating, fulfillment through accomplishment, and a life-path marked by successful production or procreation.
-- `MC/Zeus = Jupiter`: brightens the axis with success, pleasure, and encouraging creative confidence.
+Jupiter, MC and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [ABC Entry for MC/Zeus = Jupiter](../activations/mc-zeus-equals-jupiter.md#abc-entry) retains “Glitteringly flown soul”. This wording needs source verification; its subentry remains represented in coverage.
 
 ## Links
 
+- [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [MC/Zeus](../axes/mc-zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)

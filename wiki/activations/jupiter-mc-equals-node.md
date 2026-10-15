@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Jupiter Node MC](../triads/jupiter-node-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Node row.
 
 To have harmonious connections. Personal luck in relationships.
 
@@ -45,7 +49,9 @@ To have harmonious connections. Personal luck in relationships.
 
 #### ABC Entry
 
-Happiness of a psychic connection, connected in a Glucks minute, my successful connection, my encounter joy, my legal connections, my connections to money, my advantages through connections, and soul pleasure in a connection
+- Source reference: printed p. 74; one-based PDF p. 36, MC + Jupiter, Node row.
+
+Happiness of a connection of souls, connected in a moment of happiness, my successful connection, my joy in encounters, my legal connections, my connections to money, my advantages through connections, and joy of the soul in a connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ engaging manner in contact with other people, successful and fortunate associati
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 87, Planets activating the Jupiter/Midheaven midpoint, Node paragraph.
 
 In this lifetime one is expanding one’s connection to positive authority figures, and/or growing in one’s abilities to be an authority oneself. The need to connect with those people who will encourage you in your work, or who have something to teach you about your profession.
 
@@ -70,22 +78,23 @@ Ties and connections to others who teach you important lessons of life; helps op
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal good fortune and development are expressed through helpful connections.
+- psychology: An engaging manner and openness to what other people can teach.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Harmonious associations, encouraging professional contacts and friends interested in one's welfare.
+- events/manifestations: Favorable meetings, educational travel with others and learning through association.
+- conflicts/notes: Supportive relationships are directly attested; dependence on approval is not established by the entries.
 
 ## Contradictions
 
-- None recorded yet.
+The entries add different kinds of favorable contact without establishing a direct disagreement. ABC's Glücks-Minute means a moment of happiness; this wording supplies no calculation or timing rule.
+
+Visually verified source rows: ABC printed p. 74, one-based PDF p. 36, Node row; Witte one-based PDF p. 65, Meridian + Jupiter, Node row; Sandbach one-based PDF p. 87, Node paragraph under Jupiter/Midheaven. Existing parser locators retained: Ebertin printed p. 245, entry 0864; Munkasey printed p. 280; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Node`: successful partnerships, engaging manners, happy meetings, and the ability to connect with people who support one's work or development. Main caution: dependence on approval or fortunate association without enough independent grounding in the actual work.
+In `Jupiter/MC = Node`, Node specifies personal happiness and development through connections that help one grow. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) describe harmonious, fortunate association; [Sandbach](#sandbach-entry) makes encouragement and professional teaching central. [Munkasey](#munkasey-entry), printed p. 280, gives a concrete expression in educational travel, friendship and learning life lessons together. The common thread is opportunity through people who support or expand one's direction.
 
 ## Links
 

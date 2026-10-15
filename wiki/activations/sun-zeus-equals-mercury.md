@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Mercury`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = T`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Mercury Zeus](../triads/sun-mercury-zeus.md)
@@ -42,13 +43,29 @@ The chief of the press. To be creative through writing and talking. An announcem
 
 #### ABC Entry
 
-Grinding of a youth center, opinions about person welfare, personal filthy language, personal language design, personal procreation language, creative thinking of a person, and goals of young people
+Source: ABC printed p. 162, supplied PDF p. 80, Sonne + Zeus, mercury row (eight clauses). Translation from the German scan:
+
+Founding a youth center; opinions about leadership of persons; personal conversations about leadership; personal shaping of language; personal conversations about procreation; a person's creative thinking; a center for directing traffic; young people's goals.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Creation and direction are expressed through writing or speech.
+- psychology: Creative thinking and young people's aims are named.
+- body/health: No health claim is supplied.
+- social/relationship: Press leadership and ordering an attack are Witte's specific examples.
+- events/manifestations: Writing, talking, and a fire alarm are concrete manifestations.
+- conflicts/notes: An alarm about fire is distinct from causing a fire.
+
+## Contradictions
+
+No direct contradiction is established. ABC names leadership conversations, language formation and a traffic-direction center beside creative thought; an announcement about fire remains distinct from causing a fire.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Mercury`: creative thought and a mind driven to act or produce.
-- Practical expression: grinding of a youth center, opinions about person welfare, personal filthy language, personal language design, and personal procreation language.
+Mercury specifies Sun/Zeus through words that create, announce, or direct action. Writing and speaking can be creative work or leadership, while Witte's fire alarm is a concrete announcement and his ordered attack a more forceful use of communication. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

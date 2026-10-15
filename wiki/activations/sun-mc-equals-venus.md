@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Venus MC](../triads/sun-venus-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Body and soul are in harmony (balanced). To make peace. Devoted to love with body and soul. To have a preferences for something.
 
+Source locator: PDF p. 59, Meridian + Sun, Venus entry. Edition wording retained.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Stirred corperal love, animated gentle man, joy of an animated man, body and soul in harmony, my peaceful man, my corperal love, my personal skill, the beauty of a man's soul, and the peace of an animated man
+Soulful physical love, a soulful beautiful person, joy of a soulful person, body and soul in harmony, my peaceful man, my physical love, my personal art, the beauty of a man's soul, and a person animated by peace.
+
+Source locator: printed p. 62, PDF p. 30, Sun/MC, Venus entry. Translation checked against the German row; schöner is beautiful, Kunst is art, and beseelt is rendered as soulful or animated by.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Stirred corperal love, animated gentle man, joy of an animated man, body and sou
 
 One's individual attitude to love, a harmonious disposition, artistic and aesthetic interests, hobbies. A love union.
 
+Source locator: printed p. 111, coded entry 0317.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 A love of being a part of big and important projects that positively affect the world. A desire for relationships to be spiritually meaningful. Attraction to anything that reveals the meaning and purpose of existence. One may find it easy to receive recogni tion in one’s career. An appreciation of authority figures who are adept at what they do.
+
+Source locator: PDF p. 24, Sun/Midheaven, complete Venus entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Charm and grace in your ideas of how to grow and mature as an individual; respec
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Harmony, affection and appreciation expressed through personal purpose, art or meaningful participation.
+- psychology: A harmonious disposition, charm and attraction to meaning or accomplished authority figures.
+- body/health: Body/soul harmony and bodily beauty remain attributed descriptions, not health or appearance assessments.
+- social/relationship: Love union, peace-making and a desire for spiritually meaningful relationships.
+- events/manifestations: Artistic recognition, rewards for past efforts and participation in important projects.
+- conflicts/notes: Ease of recognition is Sandbach's particular claim; complacency and weakened purpose are not supplied locally.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in harmony, love or appreciation. Sandbach extends these into meaningful projects and relationships; Munkasey specifies earned recognition and artistic reward. No explicit adverse qualification is supplied by these passages.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Venus`: artistic or relational vocation, harmonious recognition, and the capacity to receive appreciation for what one does well. Main caution: ease becoming complacency: the desire for balance, love, or approval can soften the harder demands of purpose.
+`Sun/MC = Venus` gives personal direction an affectionate, harmonious or artistic expression. [Witte](#witte-entry) and [ABC](#abc-entry) join body and inner life through love, peace and harmony; [Ebertin](#ebertin-entry) adds aesthetic interests and a love union. [Sandbach](#sandbach-entry) connects appreciation with meaningful relationships and important projects, while [Munkasey](#munkasey-entry) describes respect for earned achievements and artistic reward. The shared theme is finding value in what one does and receiving or expressing appreciation for it, with bodily and spiritual language retained as source descriptions.
 
 ## Links
 

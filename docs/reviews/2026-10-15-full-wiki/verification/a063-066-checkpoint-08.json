@@ -1,0 +1,367 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/saturn-cupido-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Admetos"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-apollon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Apollon"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Asc"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-hades.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Hades"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Jupiter"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Kronos"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Mars"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = MC"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Mercury"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Neptune"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Node"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-pluto.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Pluto"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Poseidon"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Sun"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Uranus"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Venus"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-vulcanus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Vulcanus"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-zeus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Zeus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/saturn-cupido-equals-admetos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "End of a community task, consolidation through common problems, common depression problems, joint concentration on the raw material, serious grinning, separation from a depressed community, and deepening into common tasks",
+      "new_text": "End of a communal task, consolidation through shared problems, shared depression problems, shared concentration on primordial substance (Urstoff), thorough serious art, separation from a depressed community, deepening shared tasks.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-apollon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Tasks Venue for the community, extension of seriosity, common problems of science, mature knowledge of a community, and increasing losses in the community",
+      "new_text": "Increase of tasks for the community, expansion of serious art, shared problems of science, concentration on the whole body of knowledge, mature knowledge in a community, growing concentration on the whole, increasing losses within the community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-asc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "serious local artist, joint partner tasks, local community of a place, difficulties in the partner community, separation from a local community, and alienated from another community",
+      "new_text": "Serious art at the place, shared partner tasks, shared concentration on the whole, disturbed community of a place, difficulties in the partnership community, separation from a local community, losses of another community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-hades.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Dangerous tasks of a community, common problems caused by criminality, lack of first hand skills, lack of concentration of a community, problems of a community in need, pain in common distress, and hidden losses of a community",
+      "new_text": "Dangerous tasks of a community, shared problems through crime, lack of serious art, deficient concentration within a community, problems of a community in need, pain in shared distress, hidden losses of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-jupiter.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "Tasks of a financial community, success by separation from of a community, success by common tasks, successful concentration on the whole, financial losses of a community, and difficulties by a legal community",
+      "new_text": "Tasks of a financial community, success through separation from a community, success through shared tasks, successful concentration on the whole, financial losses of a community, difficulties through a legal community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Authoritat of a serious artist, joint state losses, state community, concentration on the whole state, interference in the authority of a community, separation of a community by the state, and important Community tasks",
+      "new_text": "Authority of serious art, shared state losses, a disturbed state community, concentration on the whole state, disturbances in a community's authorities, separation within a community through the state, important communal tasks.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "Joint work tasks, concentration of a work community, problematic community work, maturing of a community through work, difficulties of a work community, and separation from a common work",
+      "new_text": "Shared work tasks, concentration within a working community, problematic communal work, maturation of a community through work, difficulties of a working community, separation from shared work.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "Distressed Seek n Geernvereinschaft, I at the riding in the community, my duties for the community, my georic community, my concentration on the whole, and soul community in old age",
+      "new_text": "A disturbed community of souls, I mature within the community, my tasks for the community, my disturbed community, my concentration on the whole, my difficulties within the community, a community of souls in old age.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-mercury.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "Reports of joint losses, joint tasks of young people, discussion of common tasks, discussion of Community tasks, language difficulties in the Community, and losses in the transport community",
+      "new_text": "Reports about shared losses, shared tasks of youth, discussing shared tasks, conversations about community tasks, language difficulties within the community, losses within a transport community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "The Community, through its ambiguity, the exchange of joint losses, joint tasks with or on the water, the problems of the dissolving of a community, the creeping problems in of a community, the loss of the exchange of a community, the development of common tasks, the serious development of the arts, the development of the Community's economic and social cohesion, the development of economic and social cohesion, and the development of economic and monetary union",
+      "new_text": "A community disturbed by lack of clarity, disappointment through shared losses, shared tasks at or on water, problematic dissolution of a community, gradually developing problems within a community, loss-making deception of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "A separate Community, a serious artificial link, difficulties in common links, a link with the Community through tasks linked to joint losses, and loss of common relations",
+      "new_text": "Connecting a separated community, a serious artistic connection, difficulties in shared connections, connection to a community through tasks, connected through shared losses, loss of shared relationships.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-pluto.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Community policy and economic and social cohesion",
+      "new_text": "Development of shared tasks, serious development in art, development of disturbances within a community, shared change through losses, developments of separation within a community, changing difficulties of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-poseidon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Serious spiritual skill, spiritually mature community, mental disturbances in of a community, common cultural tasks, shared insight in of a community, concentration on the whole truth, loss of common clarity, and separation of a cultural community",
+      "new_text": "Serious spiritual art, a spiritually mature community, spiritual disturbances within a community, shared cultural tasks, disturbed insight within a community, concentration on the whole truth, loss of shared clarity, separation of a cultural community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-sun.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "serious artist kines man. Community of older people, concentrated male community, personal gifts in the community, problems of a male center, separation from of a community with the man, and losses of a person community",
+      "new_text": "Serious art of a man, a community of older people, a concentrated men's community, personal tasks within the community, problems of an art center, separation from a community with a man, losses of a community of people.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-uranus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Common Refonn tasks, joint losses by renunciations, joint rhythm us, new seriosis, suddenly separate community, tensions due to joint losses, and separation event in of a community",
+      "new_text": "Shared reform tasks, shared losses through reforms, a disturbed common rhythm, new serious art, a suddenly separated community, tensions through shared losses, a separation event within the community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-venus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "serious love for the arts, joy in common task, shared love community, shared peace tasks, common love problems, harmony storings in of a community, and concentration on the harmony of the whole",
+      "new_text": "Serious love of art, joy in a shared task, a disturbed loving community, shared peace tasks, shared love problems, disturbances of harmony within a community, concentration on the harmony of the whole.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-vernal-point.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 354
+      },
+      "old_text": "Community, concentration on the public whole, and losses of the public community",
+      "new_text": "Serious art in public, shared public tasks, shared difficulties in public, a disturbed public community, concentration on the public whole, losses of the public community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-vulcanus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Tasks of an energy community, serious art influence, enormous problems of a community, problems of violence of the community, concentration on common power, strength and perseverance of a community, and loss of power of a community",
+      "new_text": "Tasks of an energy community, influence of serious art, enormous problems of a community, problems of violence within the community, concentration on shared power, strength and endurance of a community, loss of power of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-zeus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 176,
+        "printed_page": 355
+      },
+      "old_text": "Start tasks together, serious art, patience strikes in of a community, common empathetic efforts, joint fire losses, common procreation problems, joint leadership community, and performance losses of a community",
+      "new_text": "Beginning tasks together, serious artistic shaping, striving for patience within a community, shared serious exertions, shared losses through fire, shared procreation problems, a disturbed leadership community, performance losses of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p176.png",
+      "inspection": "Full exact German activator glyph row read; Neptune ends before Pluto glyph, Pluto row restored from its own paragraph."
+    }
+  ]
+}

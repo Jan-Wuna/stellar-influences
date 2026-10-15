@@ -67,9 +67,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ARIES + ASCENDANT`
+- PDF page: `36`
 
 #### Pair Summary
 
@@ -77,15 +82,31 @@ Meetings. Places. Locations. Acquaintances. The relationship of the location to 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `20–21`; PDF page: `9`
+
 #### ABC Pair Summary
 
-Other in the OfTentlichkeit, Public Space, Public Place, Public Environment, Public Partners, General and Nearer Environment, and General acquaintances
+Others in public, public space, public place, public environment, partners in public, the general public and immediate surroundings, general acquaintances.
+
+German pair summary checked: “Andere in der Öffentlichkeit, öffentlicher Raum, öffentlicher Ort, öffentliche Umwelt, Partner in der Öffentlichkeit, Allgemeinheit und nähere Umwelt, allgemeine Bekanntschaften”.
 
 ### Robert Hand - Horoscope Symbols
+
+- Source heading: `Ascendant/Aries`
+- PDF page: `214`
 
 #### Pair Delineation
 
 Associated by the Uranian school with specific places, hence, one's ability to get along in a specific place on earth. The ability of one's personality to get across to the larger social world around one.
+
+## Comparative Schema
+
+- Core meaning: A specific place and its immediate surroundings meet the wider social world in the [pair summary](#pair-summary) and [pair delineation](#pair-delineation).
+- Psychology: The ability to get along in a place and to communicate one's personality to the larger social world is explicit in the pair delineation.
+- Body/health: These pair entries give no specific bodily or medical association.
+- Social/relationship: Acquaintances, meetings, public partners, and the relation of the near environment to the general public recur across the entries.
+- Events/manifestations: Places, locations, public space, and encounters provide concrete settings for the theme.
+- Conflicts/notes: These entries connect place, personality, and public setting without specifying how well that relation works; Hand explicitly attributes the association with specific places to the Uranian school.
 
 ## Related Activations
 
@@ -110,11 +131,16 @@ Associated by the Uranian school with specific places, hence, one's ability to g
 - [Vernal Point/Asc = Vulcanus](../activations/vernal-point-asc-equals-vulcanus.md)
 - [Vernal Point/Asc = Zeus](../activations/vernal-point-asc-equals-zeus.md)
 
+## Contradictions
+
+The entries emphasize different sides of the same interface: locations and surroundings in the pair summary, and personal expression within that setting in the pair delineation. No direct contradiction is established by those differences of emphasis.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc` is the axis of public presence, social interface, and the way the native meets the larger world through immediate personality, manner, and setting.
-- Chart expression: visibility in one's environment, the ability to get across to many people, and the fit between personal style, local circumstances, and the broader social field. Liabilities: social misattunement, overexposure, or becoming too dependent on external surroundings and public reaction to define oneself.
+Vernal Point/Asc concerns the meeting of a particular place and its immediate social environment with the wider world. Locations, acquaintances, and meetings in the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) establish the setting; the [pair delineation](#pair-delineation) adds the ability to get along there and make one's personality understood beyond the immediate circle.
+
+The pair therefore connects public expression with where and among whom it occurs. It supports a question of how a person and place relate to a larger social field, but these entries do not establish popularity, alienation, or a fixed outcome for that relationship.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Node`
 - Astronomicon formula: `Y/g = g`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE With Itself`
-- Source page: `334`
+- Source reference: printed p. `334` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Meeting people who inspire you either thru their knowledge or thru the opportuni
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: inspiring contacts and attraction to spiritually oriented groups.
+- psychology: desire to meet spiritual people and interest in their knowledge are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: inspiring people and mystical, religious, or occult groups are named.
+- events/manifestations: encounters offering knowledge or opportunities are the stated settings.
+- conflicts/notes: one repeated-pair entry provides these possibilities without proving a group's reliability or promising opportunity.
 
 ## Contradictions
 
-- None recorded yet.
+This page has one repeated-pair source entry; there is no independent comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Node`: Meeting people who inspire one either thru their knowledge or thru the opportunities they offer; increased attraction to groups who have a mystical, religious, or occult orientation; a desire to meet spiritual persons.
+For Neptune/Node = Node, [Munkasey](#munkasey-entry) describes meeting people whose knowledge or opportunities inspire, together with attraction to mystical, religious, or occult groups (printed p. 334). The entry concerns the kind of contact sought or found; spiritual interest does not itself establish the quality of the people or opportunities.
 
 ## Links
 

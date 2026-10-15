@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Node Cupido`
 - Astronomicon triad-set: `Y g ¡`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Cupido = Node](../activations/neptune-cupido-equals-node.md)
-- [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md)
-- [Node/Cupido = Neptune](../activations/node-cupido-equals-neptune.md)
+- [Neptune/Cupido = Node](../activations/neptune-cupido-equals-node.md): base axis [Neptune/Cupido](../axes/neptune-cupido.md); activator [Node](../factors/node.md).
+- [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md): base axis [Neptune/Node](../axes/neptune-node.md); activator [Cupido](../factors/cupido.md).
+- [Node/Cupido = Neptune](../activations/node-cupido-equals-neptune.md): base axis [Node/Cupido](../axes/node-cupido.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `392`
-- `Neptune/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Node/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Cupido = Node](../activations/neptune-cupido-equals-node.md#witte-entry) (PDF entry-start p. 247); [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md#witte-entry) (PDF entry-start p. 147); [Node/Cupido = Neptune](../activations/node-cupido-equals-neptune.md#witte-entry) (PDF entry-start p. 149).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Cupido = Node](../activations/neptune-cupido-equals-node.md#abc-entry) (printed p. 392); [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md#abc-entry) (printed p. 221); [Node/Cupido = Neptune](../activations/node-cupido-equals-neptune.md#abc-entry) (printed p. 225).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Node`: This activation turns relational strain into unsatisfying ties and broken connections, showing bonds that are formed under weak promise or ended once their instability becomes clear.
-- `Neptune/Node = Cupido`: This activation moves uncertain connection into marriage and family, showing separation from spouse or kin and the dissolution of close domestic bonds.
-- `Node/Cupido = Neptune`: Postponed engagement. Liquidated corporation. Tie-ups or to join with a secret society or organization.
+Neptune, Node and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Neptune/Node = Cupido ABC entry](../activations/neptune-node-equals-cupido.md#abc-entry) retains “exchange of encounters in of a community”. That specific translated phrase requires source checking; its paragraph remains represented.
 
 ## Links
 
+- [Neptune/Cupido](../axes/neptune-cupido.md)
+- [Neptune/Node](../axes/neptune-node.md)
+- [Node/Cupido](../axes/node-cupido.md)
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)

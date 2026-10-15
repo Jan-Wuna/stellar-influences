@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Node Cupido Admetos](../triads/node-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,14 +44,27 @@ Rejected or refused by one’s own relatives. A small closed community. Few or n
 
 #### ABC Entry
 
-External link of a community, blocked link to the whole, ending of a common relationship, strengthening of joint contacts, fundamental relations with of a community, and contact restriction for of a community
+- Source passage: `Mondknoten + Cupido`; printed p. `225`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Enduring connection of a community, blocked connection to the whole, end of a shared relationship, strengthening shared contacts, thorough relationships with a community, contact restriction for a community.
+
+## Comparative Schema
+
+- core meaning: Restricted community contact, with possible consolidation of existing ties.
+- psychology: Rejection is described as an experience, not a fixed personality trait.
+- body/health: No bodily or health claim is stated.
+- social/relationship: A small closed group, few social connections, or refusal by relatives.
+- events/manifestations: Blocked communal links or the end of a shared relationship.
+- conflicts/notes: ABC retains endurance and strengthening of contacts alongside blockage or ending. A restricted circle can remain internally firm without making rejection or complete isolation inevitable.
+
+## Contradictions
+
+Witte's isolation and ABC's enduring connection or strengthening of contacts need not conflict: a small circle can be internally firm while externally restricted.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Admetos`: Rejected or refused by one’s own relatives. A small closed community. Few or no social connections.
-- Practical focus: rejected or refused by one’s own relatives; also a small closed community.
-- In difficult expression, it can mark few or no social connections.
+Admetos specifies Node/Cupido through the narrowing or blockage of community ties. The [Witte entry](#witte-entry) describes rejection by relatives and a small closed circle with few connections; the [ABC entry](#abc-entry) adds blocked contact and the ending of a shared relationship. Its separate mention of strengthening contacts allows consolidation within that restricted circle, rather than making every expression complete social isolation.
 
 ## Links
 

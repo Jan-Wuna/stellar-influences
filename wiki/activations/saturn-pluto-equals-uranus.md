@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Uranus`
 - Astronomicon formula: `W/Z = X`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Slowly developing separation which enters suddenly and very surprisingly into a crisis. Sudden divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting development tasks, developing tense concentration, gestort development rhythm, nervosite development in old age, new development tasks, sudden lossy change, and technical transformation faults
+- Source page: `353`; PDF page: `175`.
+
+Exciting development tasks, developing tense concentration, disturbed developmental rhythm, development of nervousness in old age, new development tasks, sudden change involving loss, and technical transformation faults.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0897`.
 
 A person unafraid of danger, ability to make sudden decisions in the most difficult situations. Sudden acts of violence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 Extremely negative feels about all that is unique or different about oneself. Suddenly one gets to the bottom of things. An extreme fear of being free.
 
@@ -70,22 +80,21 @@ Sudden changes or upsets in plans which have been made concerning very important
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A difficult process disrupted by sudden crisis, decision or change.
+- psychology: Tense concentration, fear of freedom and sudden insight; danger may be met decisively.
+- body/health: ABC names nervousness; no diagnosis is established.
+- social/relationship: Sudden divorce and uneven retaliation are attributed possibilities.
+- events/manifestations: Upset plans, new tasks, technical faults and changes in punishment practices.
+- conflicts/notes: Fear of freedom and lack of fear of danger concern different experiences; violence remains a historical source example.
 
 ## Contradictions
 
-- None recorded yet.
+The entries distinguish decisive responses to danger, abrupt disruption and fear of freedom. These are different circumstances and responses rather than a direct disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Uranus`: decisive transformation, the collapse of untenable systems, and the ability to reorganize after violent strain. Main caution: destructive extremity: tension can discharge as breakdown, revolt, or damage that exceeds what renewal required.
+In `Saturn/Pluto = Uranus`, Uranus specifies the point at which a difficult process changes abruptly: a slowly developing separation can enter crisis, important plans can be upset, or a sudden decision can be made under severe conditions ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Munkasey](#munkasey-entry)). [ABC](#abc-entry) adds disturbed rhythm, tense concentration and new developmental tasks. [Sandbach](#sandbach-entry) brings the same suddenness inward as insight, while also describing fear of freedom and rejection of one's uniqueness. The entries establish a range of abrupt responses, with violence and retaliation retained as attributed examples rather than inevitable outcomes.
 
 ## Links
 

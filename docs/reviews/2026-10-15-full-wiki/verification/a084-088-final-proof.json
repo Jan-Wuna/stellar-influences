@@ -1,0 +1,594 @@
+{
+  "assigned_pages": 269,
+  "coverage": [
+    {
+      "assignment": "084",
+      "assigned": 55,
+      "records": 55,
+      "missing": [],
+      "duplicates": []
+    },
+    {
+      "assignment": "085",
+      "assigned": 55,
+      "records": 55,
+      "missing": [],
+      "duplicates": []
+    },
+    {
+      "assignment": "086",
+      "assigned": 55,
+      "records": 55,
+      "missing": [],
+      "duplicates": []
+    },
+    {
+      "assignment": "087",
+      "assigned": 55,
+      "records": 55,
+      "missing": [],
+      "duplicates": []
+    },
+    {
+      "assignment": "088",
+      "assigned": 49,
+      "records": 49,
+      "missing": [],
+      "duplicates": []
+    }
+  ],
+  "own_new_reviews": 225,
+  "structural_errors": [],
+  "missing_proof": [],
+  "source_repair_records": 249,
+  "owned_unresolved": [
+    {
+      "path": "wiki/activations/venus-chiron-equals-mars.md",
+      "unresolved": [
+        "Sandbach raw PDF59 also reads 'directly confront contacts'; intended wording remains ambiguous and is preserved without silent correction."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-neptune.md",
+      "unresolved": [
+        "ABC's scanned 'Unsicherheit des Partners in der Luft' is retained literally as uncertainty of the partner in the air; a more specific referent is not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-mars-equals-chiron.md",
+      "unresolved": [
+        "Sandbach actual raw PDF55 also reads 'helping the to get unstuck'; retained source wording and bounded spiritual meaning without conjectural repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-mc-equals-neptune.md",
+      "unresolved": [
+        "ABC's literal 'my uncertainty in the air' retained; specific referent is not established by its row."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-neptune-equals-moon.md",
+      "unresolved": [
+        "Sandbach is listed in source_pages, but no Moon activation appears in actual raw Venus/Neptune chapter (PDF61-62). Metadata retained; no invented claim or entry added."
+      ]
+    }
+  ],
+  "inherited_unresolved": [
+    {
+      "path": "wiki/activations/venus-apollon-equals-asc.md",
+      "unresolved": [
+        "The entries complement one another without a direct denial, but do not establish independent corroboration. ABC's “artificial knowledge”, “artificial trade” and “vie!” are damaged translations/OCR; the native cache contains Kunst-related phrases and “Kunst-Wissenschat1”. Exact repair remains unresolved and these fragments are excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-hades.md",
+      "unresolved": [
+        "The source's “vulgar” and servant terminology is historical, not an editorial ranking of people. ABC's “Success through love forgotten”, “silence through freedom love” and “love kummer experience” are damaged; native cache instead contains Liebes-Verzicht, Erschwemisse and Liebes-Kummer. Exact repair is unresolved, so these fragments are excluded from confident prose."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mars.md",
+      "unresolved": [
+        "Scientific or commercial intimacy and harmonious artistic action are compatible emphases; neither establishes universal success. ABC's “successful love memolations” is damaged beside native “erfolgreiche Liebes-Bemilhungen” and is excluded pending exact repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mc.md",
+      "unresolved": [
+        "Witte's character description and ABC's first-person interests are different emphases, not a direct disagreement. ABC's “my love of for” and “vie! Harmony” are damaged; the native cache includes “meine Liebe zur FUlle” and “vie!”. Their precise English repair remains unresolved, and the damaged phrases are excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mercury.md",
+      "unresolved": [
+        "ABC: “peace language expand” and “vie! about love talk” need translation/OCR review."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-moon.md",
+      "unresolved": [
+        "ABC: “successful gentle woman”, “artificial success of a woman”, “people's economy” are unresolved translations."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-neptune.md",
+      "unresolved": [
+        "ABC: damaged translation plus possible entry-boundary contamination at “in love Extensive artistic development, and success”."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-node.md",
+      "unresolved": [
+        "ABC: “arts trafficking” needs translation repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-pluto.md",
+      "unresolved": [
+        "Witte initial “P” and ABC “artificial knowledge” need source verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-saturn.md",
+      "unresolved": [
+        "ABC: “peace storings”, “loss rich art”, “vie! Harmony”; Witte: “of of”."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-uranus.md",
+      "unresolved": [
+        "ABC collapses Kunst-Tcchnik, Kunst-Ereignis and Kunst-Handel into repeated “art”."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-vernal-point.md",
+      "unresolved": [
+        "ABC: “vie! Beauty”; abbreviated English omits cached native clauses."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-node.md",
+      "unresolved": [
+        "ABC: \"peace through kine legal relationship\" and \"artificial success\"; scan not checked.",
+        "Sandbach cache locates chapter start PDF p. 56 only; exact activation page remains unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-pluto.md",
+      "unresolved": [
+        "ABC: \"fricdens development\" and \"Frcude about development_en\"; scan not checked.",
+        "Sandbach cache locates chapter start PDF p. 56 only; exact activation page remains unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-poseidon.md",
+      "unresolved": [
+        "ABC: \"right and courage\" and \"artificial and cultural success\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-saturn.md",
+      "unresolved": [
+        "ABC: \"success cancellations\", \"storten peace success\", \"storten harmony\"; scan not checked.",
+        "Sandbach cache locates chapter start PDF p. 56 only; exact activation page remains unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-sun.md",
+      "unresolved": [
+        "ABC: \"corperlichc's love happiness\" and opening \"Successful art\" versus cached \"Kunst-Zcntrum\"; scan not checked.",
+        "Sandbach cache locates chapter start PDF p. 56 only; exact activation page remains unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-uranus.md",
+      "unresolved": [
+        "ABC: \"right wing peace\"; scan not checked.",
+        "Sandbach cache locates chapter start PDF p. 56 only; exact activation page remains unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-zeus.md",
+      "unresolved": [
+        "ABC: \"love witnessing\", \"peace strike\", \"financial desire strike\", \"right strike\", \"joy success\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-apollon.md",
+      "unresolved": [
+        "ABC: \"successful self governance in love\" and \"self governing arts trade\" are compressed translation; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-asc.md",
+      "unresolved": [
+        "ABC: \"shrewd partnem\", \"art at the place\", \"place for special artist\", \"environmental wishes of the horde\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-hades.md",
+      "unresolved": [
+        "ABC: \"love cummer\", \"danger of peace\", \"artistic great from the past\", \"love hidden authority\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-jupiter.md",
+      "unresolved": [
+        "ABC: \"right authoritat\", \"great right art\", \"right love of the state\", \"self evident right success\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mars.md",
+      "unresolved": [
+        "ABC: \"love mitigations\" and \"self andal work\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mc.md",
+      "unresolved": [
+        "ABC: \"IJominanz the soul Fricdens\" and \"I love the self andigkcit\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mercury.md",
+      "unresolved": [
+        "ABC: \"important artificial news\" and \"self consciousness of youth through love\"; scan not checked."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-moon.md",
+      "unresolved": [
+        "ABC: \"Respected artist of a woman\", \"gentle woman\", \"great people art\"; scan not checked."
+      ]
+    }
+  ],
+  "page_sha256": {
+    "wiki/activations/uranus-vulcanus-equals-cupido.md": "da67961c824a733537fce20cc352b1cb54014c2086d935cb72ba690c78e6af51",
+    "wiki/activations/uranus-vulcanus-equals-hades.md": "f7947f839fd7c3bc92faf168dc6365672ea6d06b2bdb96925da82196435a80f7",
+    "wiki/activations/uranus-vulcanus-equals-jupiter.md": "a8a3ceddaa80ab111dd6d88036c06facb6905d2fe131681013d83a0b229470fe",
+    "wiki/activations/uranus-vulcanus-equals-kronos.md": "7d404b5044e34c06336b18f4431a67e2ccf700a99691ab5cf390fcc44734cb12",
+    "wiki/activations/uranus-vulcanus-equals-mars.md": "4d3df713d785ccf39aa186313cea785308988925309e25407f71227bb8bc3630",
+    "wiki/activations/uranus-vulcanus-equals-mc.md": "8207cb373cd5690a8dbb3346de0a84b5fb17913e2fe56da2c71b795f44c71cb7",
+    "wiki/activations/uranus-vulcanus-equals-mercury.md": "766f5b353c390258a0483847f936cf8d71cf3cc6cf45e98be34a8509cb413e30",
+    "wiki/activations/uranus-vulcanus-equals-moon.md": "de8d4d78f79902558efff5f4f5b37bd05d716025669e4ae3f606bb1642f3fe15",
+    "wiki/activations/uranus-vulcanus-equals-neptune.md": "685fc0c1b4001bfabed335705ee18b7584afecb27b8a3fc262e7959d2f16f803",
+    "wiki/activations/uranus-vulcanus-equals-node.md": "1fe806b7c2f56a6b86850f79a52399ea95bb3453d57c437e277192e40a2e3fd2",
+    "wiki/activations/uranus-vulcanus-equals-pluto.md": "eb21191f482f06312e7fe355db18864966a18e565f218b2792a48e6b0a9c259e",
+    "wiki/activations/uranus-vulcanus-equals-poseidon.md": "504fbde604c81f3a3a505d1043414ce5f584d6a578639669dc0b33348293ae42",
+    "wiki/activations/uranus-vulcanus-equals-saturn.md": "b1d0703458bfb2fce81980adc3616110ef31591d0f6bd1d8dabb16a4423952f8",
+    "wiki/activations/uranus-vulcanus-equals-sun.md": "1536a909734254ef4137143b1ca2e6efe83ae5a3aa436f80b569c5c239ee749d",
+    "wiki/activations/uranus-vulcanus-equals-venus.md": "445557a42df0eb0633dbfc66fe05eb4220343dd11c1626499cbfa38ad24de4eb",
+    "wiki/activations/uranus-vulcanus-equals-vernal-point.md": "05cfb3ef462309f3ad64eade08b89cbcd192c142c9f0e75392fc8acc764fa3c3",
+    "wiki/activations/uranus-vulcanus-equals-zeus.md": "f050a95960e4047b86121ee3afb75c7aa947060aee50e424f2522fb7c48ada38",
+    "wiki/activations/uranus-zeus-equals-admetos.md": "37f1ca61c994acf3b00febeb60c9eab9ba5622e9e1f46afa2cf770a6d6414c83",
+    "wiki/activations/uranus-zeus-equals-apollon.md": "6b32fe94a3df86c72c282d41cd8a66947f0577d4177b58d08fe82271038c385c",
+    "wiki/activations/uranus-zeus-equals-asc.md": "17c1ff6d0f6df62520662c20710c3fc8695d1d4dd18ed5a12910cdc26539419a",
+    "wiki/activations/uranus-zeus-equals-cupido.md": "339c4375aa7eace72c21ede208f27dc300b8006421fdc1f42c6677c049146080",
+    "wiki/activations/uranus-zeus-equals-hades.md": "13ef5bb4614a3a560230a9672a863f134a9b8988e64a696dfac952a635b14e2b",
+    "wiki/activations/uranus-zeus-equals-jupiter.md": "544bc7659b8a93d079775f7bfe2700f22363ce3cb82f3cca32326a42e48587b7",
+    "wiki/activations/uranus-zeus-equals-kronos.md": "7578b516098e0ec067cf4002726de492d4d6ecb0dd46e8ecaa1c1abc0deecabd",
+    "wiki/activations/uranus-zeus-equals-mars.md": "94bce4a781d810907698533690099390c77f3eb739333831ff56f24fad51173a",
+    "wiki/activations/uranus-zeus-equals-mc.md": "1bd434bb269b646bd312924e60fffd624d649c96efb3e7edf46d5eba13a44d5f",
+    "wiki/activations/uranus-zeus-equals-mercury.md": "608a2e0a662c9ef595360887c5a5df1f55f71c47b659e0802b2279fedd68c71c",
+    "wiki/activations/uranus-zeus-equals-moon.md": "26c3465953e09eadde50f41400694e66b528506769685a2013667314e90d31bc",
+    "wiki/activations/uranus-zeus-equals-neptune.md": "0fd87cf48777ae56324a365c128450a2b866c87d156eda13e1c6a2b6ff48f2c0",
+    "wiki/activations/uranus-zeus-equals-node.md": "9d9a14dc16bf39e9ca3b9628c68769b098bb7de301aec6bbc41b487696693fe8",
+    "wiki/activations/uranus-zeus-equals-pluto.md": "ea2cb6da1c8093d84ba51206c5af0595813223eff3db7838bf09c2aa2fc02ceb",
+    "wiki/activations/uranus-zeus-equals-poseidon.md": "ead52b89207081386de29c06e1a258ce76d9f78d7f74dc9c0730f107b65be5ed",
+    "wiki/activations/uranus-zeus-equals-saturn.md": "02a66398ed9a96acd639d147479c65872593ab9826c9d533576a61be0baf4e8b",
+    "wiki/activations/uranus-zeus-equals-sun.md": "c2a84d9ae5badb9128093168eb86b3eee8ddb3ff8be5c7087e191d6840a6f823",
+    "wiki/activations/uranus-zeus-equals-venus.md": "3322ef84e3c779e992c4e6e67eb9f0ec4d6b67102b4bfd87a38e29f094d95d38",
+    "wiki/activations/uranus-zeus-equals-vernal-point.md": "85f397b230fcd8ff988b44f20abe8da53a78a8c37ff885e354cf909c05e5bb8a",
+    "wiki/activations/uranus-zeus-equals-vulcanus.md": "d89cc04ab595de8905be1da7d85502c4d7653ef336c7980c39a67c37d4bf31ed",
+    "wiki/activations/venus-admetos-equals-apollon.md": "ad5d80b4dcca41d6cd64dc6eb56e1b20436b039391a50ef2cc6f760424a622e0",
+    "wiki/activations/venus-admetos-equals-asc.md": "d0fe59287e8c4c50dd426caa2d0a7607f0a51c39769e0319684465022ed21aa5",
+    "wiki/activations/venus-admetos-equals-cupido.md": "5ec6f0d89f4f5b05ae8acb32a3efeb6ed2cae78484afc03d24402a53e351926e",
+    "wiki/activations/venus-admetos-equals-hades.md": "03f1f4c5fabcdea1506c04e8e760ddbf2478c84cc27d1ea65b76f4832a43dcd7",
+    "wiki/activations/venus-admetos-equals-jupiter.md": "f8c8a69833ae7afe2f1b591a621f148bee5e7ceb0a73f6809c6f42345ed3b2ca",
+    "wiki/activations/venus-admetos-equals-kronos.md": "31c09ab6d4957a39d43b1cda665f9f8ec35ce622e3abe80e8f8d2d76b2e47c56",
+    "wiki/activations/venus-admetos-equals-mars.md": "361876986ad0c9db8a1d485359a9dd22fb5440a7ea292290e49cedcba9cd6cb9",
+    "wiki/activations/venus-admetos-equals-mc.md": "b7a7c074b3d4cc0a76a535cbad763c58781d7269fd7d2d287f6a98c2bf15cfb1",
+    "wiki/activations/venus-admetos-equals-mercury.md": "8c5206532b37569d87d9142b3cb3cb170871b6fb6cb983bc9a00ce4b792c4346",
+    "wiki/activations/venus-admetos-equals-moon.md": "9beef4e9cda9a22bb6e1ed0ca3bcfd94ac7f28fb7757457f2de50a9882b0079e",
+    "wiki/activations/venus-admetos-equals-neptune.md": "f9f1f84f573942156a15e1f9f3bb56d46e9af47f7c6be3e5b14c8d0a0d1732bc",
+    "wiki/activations/venus-admetos-equals-node.md": "f09060a319b4d7532f6cca8725359b04ebd8e33d6f43a4a2c90b7508565e2c37",
+    "wiki/activations/venus-admetos-equals-pluto.md": "b6ad07ebc34e46d2713fd0da4e1789d2cab1a34d4f6532df8bacb4c08158a9d9",
+    "wiki/activations/venus-admetos-equals-poseidon.md": "b8b6db48b7ffedcceeff3ea2f8c3bcfdb19df930ed87d5a04a4d207c4d6c375b",
+    "wiki/activations/venus-admetos-equals-saturn.md": "c5acaee3c79ab3d076e25a8c9b2ef26fd400a88fbcae8cf85d344b1385be45b7",
+    "wiki/activations/venus-admetos-equals-sun.md": "b213faa434644c78017229237619cddea2d508070845ae2ccc198f21134ad817",
+    "wiki/activations/venus-admetos-equals-uranus.md": "6f99a5e9ce9b6da27d356902d128e194d259cc067b28421eecc09db56529bc3f",
+    "wiki/activations/venus-admetos-equals-vernal-point.md": "3ad78b27ec9738142338534129fb48aaabea78a357bebfec4429f7a5473b5c02",
+    "wiki/activations/venus-admetos-equals-vulcanus.md": "98d093162a0e55f2f5a2a935a7ab51ad12330aa7a679299b8a8e6c4629bf346d",
+    "wiki/activations/venus-admetos-equals-zeus.md": "1438f853ba40bb27ad4fbaa159d17913d51de397369f25c4e62056b23e208cbe",
+    "wiki/activations/venus-apollon-equals-admetos.md": "3df97f8dcba6365d6ebc7243bdf480e83367e05aaa81fb4d517f729ca1061f38",
+    "wiki/activations/venus-apollon-equals-asc.md": "22e385e3db1899e0214a591d8c58f15f25e13f67c8fffc956a65f4da0e3e562d",
+    "wiki/activations/venus-apollon-equals-cupido.md": "e4a972d97f020f09f31d41f194ace2bd259ae9f0ab5a9fe74da21c395e142b33",
+    "wiki/activations/venus-apollon-equals-hades.md": "01e4cc14947865728f4090f323dc6f93e16988fd2336a4df08851ca4feb469ab",
+    "wiki/activations/venus-apollon-equals-jupiter.md": "4d8d0bd845b08b43762f8e76822c7b553b43437d27a38c455d66c164cbea5130",
+    "wiki/activations/venus-apollon-equals-kronos.md": "a5f4bcd3249329549b8844245656c7225cf6f1f5a56a44c6931ad7d05736e990",
+    "wiki/activations/venus-apollon-equals-mars.md": "9ae15704fc04695f417478ff076129990670f4411d04fbca0f88662456b4c373",
+    "wiki/activations/venus-apollon-equals-mc.md": "a061c1606c20bfdcc2ed808d15f4128fcb025c54831f0210593df1bf2c05dee2",
+    "wiki/activations/venus-apollon-equals-mercury.md": "c219d7bed6a5f004d5655aaca7cbbd14192654d73e2682c1b12e8f1b7d451d5d",
+    "wiki/activations/venus-apollon-equals-moon.md": "566c93f4583d68a5f876ff37ef59067579a113c0c2c7da028e216aae37b30f02",
+    "wiki/activations/venus-apollon-equals-neptune.md": "2af8605cb23b8cae0e2093da61aa4ca3d534d8e81fe1d1ab2eb50c0dac34abb0",
+    "wiki/activations/venus-apollon-equals-node.md": "bff2303d89fef965cb2345885059d2a5e256c780896ef699e20edcb1c8899488",
+    "wiki/activations/venus-apollon-equals-pluto.md": "183d341af098e59dbc4ed9d1abbbf2dcc1ac488e060415cb6a55b517a8933397",
+    "wiki/activations/venus-apollon-equals-poseidon.md": "f2eb0f658852d3b2f957faf9ec93e0ed33dd6fce334b8ee239575469fd00480f",
+    "wiki/activations/venus-apollon-equals-saturn.md": "546076d1f800dc0e9bfc7f33e20980362945614e2ace8969a962ba0fae0b879e",
+    "wiki/activations/venus-apollon-equals-sun.md": "add094ddfda93eeecbec69c83b2433e48336e6151f1513fb127916e211dc465a",
+    "wiki/activations/venus-apollon-equals-uranus.md": "7c95501ef2443b403595ba00c20e341d9b2cc3ee8705e7310379b48d8e16969d",
+    "wiki/activations/venus-apollon-equals-vernal-point.md": "0cce05c7502fab82bdaba80ed03fedb9bf4f5fb608f6ff99066a37ccf9d93c21",
+    "wiki/activations/venus-apollon-equals-vulcanus.md": "97c811b383e709f18922f378a9f0d2a4f51d80136ebe4f21500cbb56af11aa43",
+    "wiki/activations/venus-apollon-equals-zeus.md": "3b6810c98d75fa1652e782ca61e2e90551a31fac19a5af4fae28f4554bad7ca0",
+    "wiki/activations/venus-asc-equals-admetos.md": "2b1792a47526ea3db4e148d1b5f2c95db0868b6fa6ba70f5c2acd263f6465abe",
+    "wiki/activations/venus-asc-equals-apollon.md": "32ba2c4a72390585a303f5ab493be01ca5f85879939dfaf24340eeba771dbf8e",
+    "wiki/activations/venus-asc-equals-asc.md": "47d4155760ced962c35828b51e812d34622865b466e07fba0c5852a43be12aa1",
+    "wiki/activations/venus-asc-equals-chiron.md": "c0208e7e5e4938cc12e8c15089eb34952662473859c59af1d3a34655a5873ff0",
+    "wiki/activations/venus-asc-equals-cupido.md": "e5b6205ba22cdae8f46033dddbd2c81d84eef5a5164c102b6294f9f7b4553db4",
+    "wiki/activations/venus-asc-equals-hades.md": "e2ebf4737c8fe202a5151e60b24cb101a24fd5e3a0c11cc0216f09697d96040b",
+    "wiki/activations/venus-asc-equals-jupiter.md": "5b942c2bf91dc45ef6be8c0d16ef2b9b691b2d49631011d9f0fe9dbae0d8a30f",
+    "wiki/activations/venus-asc-equals-kronos.md": "b608cbe89d4958f2c622a67dc2c32286d48ab66efd05541033d361b3989a6713",
+    "wiki/activations/venus-asc-equals-mars.md": "16705c5da06b4d8c3192abe2e8b64cd6d665ec1515398375c72f19be73ffa95b",
+    "wiki/activations/venus-asc-equals-mc.md": "ab14b1dc9d185dcdce216fd35b51dc943c4c513bf3dcb89ff9b58c17b80c523f",
+    "wiki/activations/venus-asc-equals-mercury.md": "e8ec8c7cdceb782912a96276bb7438fa99bb247dd7243d1098be96ed122c743b",
+    "wiki/activations/venus-asc-equals-moon.md": "d80e475f0558b8e57b86819a974a71d672a5181a54023b1598eb7a087ad5728b",
+    "wiki/activations/venus-asc-equals-neptune.md": "382cbd391bc74cd0d2fa1333a0602653b946481e6f574667b8462ac670fecd98",
+    "wiki/activations/venus-asc-equals-node.md": "a1d488cf1b504c3b1d8313eba1bcf976b483f3641ada6d359265bf59e1f8c3e8",
+    "wiki/activations/venus-asc-equals-pluto.md": "f5acc92c599fdf3e6768d8538144e1d36c5a471d5955579771272b5d7cf9b4d8",
+    "wiki/activations/venus-asc-equals-poseidon.md": "29f311ebb70b61b8f84b90dd8182a83f75975da09b79bbe7bc2ce3d73f1009f7",
+    "wiki/activations/venus-asc-equals-saturn.md": "dd61ff6d54a9c7e72a1ad63ee39ea0bd918399919ea040467c91eae2740431e4",
+    "wiki/activations/venus-asc-equals-sun.md": "c855b8a8a8dd0e6f136a7471aac667da41cc1b908fda262a7fd293ee7183268d",
+    "wiki/activations/venus-asc-equals-uranus.md": "88bd8aaf3cbf016428595e2874604801d62a23425e37bf636e6f0872053b0bd2",
+    "wiki/activations/venus-asc-equals-venus.md": "7fae4d776777dd63572dab7475fd9b28a3a4c04801f5b16e32da0c43a660a9b2",
+    "wiki/activations/venus-asc-equals-vernal-point.md": "6cc21f1eb458cb0eb84319d2321ab16c0409e73b8375d47c1346923c521b9e9e",
+    "wiki/activations/venus-asc-equals-vulcanus.md": "5efb39d8166f1d744bd667856a64a84c6a195b4c3d8ae8d6b625c4ef59c5b5a1",
+    "wiki/activations/venus-asc-equals-zeus.md": "4a9840fb99ad2b1a9679604aa82098f1bed9cce78f17cc789b063c13c95957ed",
+    "wiki/activations/venus-chiron-equals-asc.md": "a4229ad9fd8401801ebcb129c6a5f497071ccc4d21b0a89a0ea762599db74573",
+    "wiki/activations/venus-chiron-equals-jupiter.md": "7ff81d4c482068fc7f7b66f9937a4c1945a38b871d51e523ed4e4c63044449aa",
+    "wiki/activations/venus-chiron-equals-mars.md": "6edcc56206508dec60377d8aa5b05ee3ea8c917460df3380a7fd696f2d71be55",
+    "wiki/activations/venus-chiron-equals-mc.md": "4f8a1f4ffa457ee81e31fdd9f84d36e44d098054284dee8be33975f9a0be62c8",
+    "wiki/activations/venus-chiron-equals-mercury.md": "2347234ccf7ffeb7192d646416e1048d92077030b82107adf0e8c9a19805963a",
+    "wiki/activations/venus-chiron-equals-moon.md": "18d883712f47dfc0843399ac5e2e92fa8ab6664dcf05025b75fb8258e6d44c87",
+    "wiki/activations/venus-chiron-equals-neptune.md": "5aae8c2af776bae16fdd5ad3f23644fb59f81dcccd3ec5cc82675e21e49624cf",
+    "wiki/activations/venus-chiron-equals-node.md": "c59cb1771c59a2a76b74b70e57fb47480d9b05f3e5e42001e8fa4000745075ed",
+    "wiki/activations/venus-chiron-equals-pluto.md": "b6be6689fcfcb5e679a5be66aea775c61a8875c5acd1d867779819d516a7f488",
+    "wiki/activations/venus-chiron-equals-saturn.md": "c29a858f78c5c6bfc4dbc4ca4ce27ad054b0b36b9e0dd4db7a39e2c0a5b55279",
+    "wiki/activations/venus-chiron-equals-sun.md": "c8a1fca454134d73b40638a829fab0ae04b92c292f6476a3ed30a60d3aee4c13",
+    "wiki/activations/venus-chiron-equals-uranus.md": "e7247fe5dee62521a2f88ebc756c5949f681203d5b18bb5e3c1cdedccbc9b0fa",
+    "wiki/activations/venus-cupido-equals-admetos.md": "3bd90c100bf4db43c90218790ee34256ffbe3528fff6c3452dd53b1d724c68a0",
+    "wiki/activations/venus-cupido-equals-apollon.md": "df2294ff4f0fee8756f554951694e9798259c1cfd82a083e552b27d6ff6b8714",
+    "wiki/activations/venus-cupido-equals-asc.md": "dc2ac572e086cb29a163f393837fb93f8895552d9635caa18747b38c0557427e",
+    "wiki/activations/venus-cupido-equals-hades.md": "8f0d1250fb2427f7e259613addbef5afb03d8dd8afd5b6c010588a5fe56f96ea",
+    "wiki/activations/venus-cupido-equals-jupiter.md": "f008d789ac74fd4f14587c76a399ea1f8529047b0f27008c7427b154e056dc44",
+    "wiki/activations/venus-cupido-equals-kronos.md": "d3c7617bae7e3c3cea99985cf08c5c3a9bc79e388e0c671c35c51daeb1ea1657",
+    "wiki/activations/venus-cupido-equals-mars.md": "3e4c3d100846e363a453182425b03cda91eda9359e72a2420457e17e5a37327e",
+    "wiki/activations/venus-cupido-equals-mc.md": "4fdb0734a48dc2693806d06f20dfae2e45c68d5008cf788aa6e95f0dd97f69de",
+    "wiki/activations/venus-cupido-equals-mercury.md": "503df0c504d3d46efe05c8b94ea4eddfa0723b1f61ae25c4295eac8406e054ec",
+    "wiki/activations/venus-cupido-equals-moon.md": "4cec3d004b7cd0187ca3e2c7f66bdae445de76be411dbcc3837e49bc9b559982",
+    "wiki/activations/venus-cupido-equals-neptune.md": "69e25ae319684231981b5bad40c7f5bd936ba49d923b20cb6142cfd19a52115e",
+    "wiki/activations/venus-cupido-equals-node.md": "f0000b4a663ce549c8f5c6b7a305ff66dd86b3c2ddfca52b6702254a854cc204",
+    "wiki/activations/venus-cupido-equals-pluto.md": "8b0ac7c5e7085e69b87904b90f4a1dcd737eb32ec96aedcc31b3128608dc5c45",
+    "wiki/activations/venus-cupido-equals-poseidon.md": "a38d059135ad52114b6861942241d2ac340207fb67253ad489d22e8f2e9eaa05",
+    "wiki/activations/venus-cupido-equals-saturn.md": "657b681b11baae8158a2b77454e699fe1cc6abdcc5c4980a1e8133488ca680f5",
+    "wiki/activations/venus-cupido-equals-sun.md": "7bdb475adaeeb1910cff86f1391b7aea3dc5a8b83475ebd0ddeb14e43c83e0ff",
+    "wiki/activations/venus-cupido-equals-uranus.md": "4102a5ae12454ee5427b1e04acfa5b14aaadb86ec7e47ab7a714ecc5651497fa",
+    "wiki/activations/venus-cupido-equals-vernal-point.md": "e2a3848dd042d1d76c719a705ecd119e4cbf0509b213741a41592d2b5dfb621e",
+    "wiki/activations/venus-cupido-equals-vulcanus.md": "f0b015386d6752df2d8397dd36f19640243097c3c4c4ec7e44a11b1d9075462f",
+    "wiki/activations/venus-cupido-equals-zeus.md": "35abf76a2afa2b3e69f74622ccb2687acf2f96983e201385dcf23c80859718bf",
+    "wiki/activations/venus-hades-equals-admetos.md": "cc98aed211884418a3193e8aee52c065cb7691cd505b39bbbd27fd32ec60f234",
+    "wiki/activations/venus-hades-equals-apollon.md": "210135590071fd743473c03ef02a10e644348a1df4ad0b161b459cc1b5bfe547",
+    "wiki/activations/venus-hades-equals-asc.md": "e61afae59aae8d2800b09e7b9d12f3689bcb7869ad84d550475cedec45b795ad",
+    "wiki/activations/venus-hades-equals-cupido.md": "23e3524d25c39a0c2a8122d38d684a551d5b2bfe54db1b384089a201138f0546",
+    "wiki/activations/venus-hades-equals-jupiter.md": "805d01fe4be8a8bb191a2796c688e4c223f07909d008428067504217e89d1581",
+    "wiki/activations/venus-hades-equals-kronos.md": "12e7bbefd2d21fcc4a1e4bad4ab9776e2721ead063cc04ed2c7ede9f354c7130",
+    "wiki/activations/venus-hades-equals-mars.md": "0f59139ec3b6bdbbe707daf8733f08d6226132a5972bb941320eefff4ecefd65",
+    "wiki/activations/venus-hades-equals-mc.md": "e62fd61efa6a099c036287c094539161ce61f950d56f09188a5a9bb7a0e42deb",
+    "wiki/activations/venus-hades-equals-mercury.md": "cb38d63c9a4fc08926337ad854716ff9c324fe19a42fe98df90903cfc7d5760b",
+    "wiki/activations/venus-hades-equals-moon.md": "c184e98c47256d3e78d8d986ca385524c8bbdfd9e5d0b7f86205b6d88998c980",
+    "wiki/activations/venus-hades-equals-neptune.md": "ab405db133fe8bb805f7936855a5ab525cb96fb76d95e0780dfc626c09436b68",
+    "wiki/activations/venus-hades-equals-node.md": "7d6db687cc63d934725c54220228e95d523e6497dd339988acc64da647540761",
+    "wiki/activations/venus-hades-equals-pluto.md": "b99b5a01517fee716a2a7457185efbf1d9a502e749762c93e2f4e31e6fc84161",
+    "wiki/activations/venus-hades-equals-poseidon.md": "3f9ad92e7c9774c7810da1a58e95f85f181449dfef99bae94899624cd186b466",
+    "wiki/activations/venus-hades-equals-saturn.md": "fd99b1588bbeb9d9c1aa2e0b43434d99dfead936291294f211f237454254d6f5",
+    "wiki/activations/venus-hades-equals-sun.md": "1962b0ef2467867a8add55c8ed3a24aa533ea669c4cb875d3232af9ce352d48b",
+    "wiki/activations/venus-hades-equals-uranus.md": "48f9bfe14670c4dc21e8416211cddd8376d8653577fcee1d95199842e0a3584b",
+    "wiki/activations/venus-hades-equals-vernal-point.md": "07cdf71699658de24096cb90596043b66bf6e12b7123474bab0f3436df9284f0",
+    "wiki/activations/venus-hades-equals-vulcanus.md": "09f33af5ac095441a5de56a3d056b00ff4bd0db32c44c79fa8bb344c57939627",
+    "wiki/activations/venus-hades-equals-zeus.md": "fff0e41e2738c920b456ad9f55a4584cc35d22e19799c24ae21cb5f9657ec562",
+    "wiki/activations/venus-jupiter-equals-admetos.md": "5b24e1034bbce44dad852c21c94f17375e3c9abaa33e008a04e6d491e7045d99",
+    "wiki/activations/venus-jupiter-equals-apollon.md": "6494eb55be05354922e9596e69944d087316d2b6901fcd86ead651fd7b156125",
+    "wiki/activations/venus-jupiter-equals-asc.md": "98504a41dd7448b4bd4970719c28b343a6271170d03a2f863dd401ceca68e078",
+    "wiki/activations/venus-jupiter-equals-chiron.md": "3f2b93cfd56a37ba041a51879b57c2a6d86c0791054f3c8c3270365dac36cb05",
+    "wiki/activations/venus-jupiter-equals-cupido.md": "b77f8c74b7b2e8799e35eccf7d66ca12451f08bcc79fffe1e14ae449488abd25",
+    "wiki/activations/venus-jupiter-equals-hades.md": "9f61bb4227a9a9a706e8c80ba1bdaa9c66e093836353f06b0c2c399182f19b54",
+    "wiki/activations/venus-jupiter-equals-jupiter.md": "0f983878f3ff0c2fb35b6a3ad513ad18789e3117d95d32cbff94fb0939fd5cf3",
+    "wiki/activations/venus-jupiter-equals-kronos.md": "7bd5e819b75d0d358472b5ac10bf1f34070cb9bc7c9c703acf265324a130369c",
+    "wiki/activations/venus-jupiter-equals-mars.md": "6dae9d82aa70c33f68a36bd9a56163bbc6c43ce527864b485a40b3d0c469dd09",
+    "wiki/activations/venus-jupiter-equals-mc.md": "33d845f8374bb9608296a27620dde050a29370c60858e0c3fc271be881815e29",
+    "wiki/activations/venus-jupiter-equals-mercury.md": "64bee3ed8dc74ad1113a3708d1aea9eca883de7791b770dc2848abf6f58f0bdd",
+    "wiki/activations/venus-jupiter-equals-moon.md": "c1d556f3fee5b2c2bbbd7197a393193db7e4ac674e33ecabd68127698509f46a",
+    "wiki/activations/venus-jupiter-equals-neptune.md": "be2be047103327fe92e80ec53ae83e83d4f9f91f66dbddbdb377bc511af4dfed",
+    "wiki/activations/venus-jupiter-equals-node.md": "4926fd0e01bb2db8f9e9e6fb2ad3c1afcb0caca411f9a6de79d779d1c94fa6b1",
+    "wiki/activations/venus-jupiter-equals-pluto.md": "9e3c27f3190070bd3bf8d6d2b291e8d2252d5ac7db61b162aad4fbb1763b04ad",
+    "wiki/activations/venus-jupiter-equals-poseidon.md": "b31e8ec9a1fc43fdabcef9ada3af548df6cda6acf4b18745796b7ac5212af67d",
+    "wiki/activations/venus-jupiter-equals-saturn.md": "066750bf929d52e4a04f626fb9ced3bd194fc1075c82bf74cc8d76b4490ddfd1",
+    "wiki/activations/venus-jupiter-equals-sun.md": "e6e16075fcf02171c6b61ab4da03e97f1ae4b39a39b862f85f468a39dd718b6a",
+    "wiki/activations/venus-jupiter-equals-uranus.md": "669e9825e33fd97e9df67a73f69f18407346c880fd29b090941551f73e51ac10",
+    "wiki/activations/venus-jupiter-equals-venus.md": "ab1d535876d1a23819b38f9fbb75e65d2bbd9357db469afefd17890a0df208f1",
+    "wiki/activations/venus-jupiter-equals-vernal-point.md": "a3d1eef4e07d2faf87b532d62686d7db1183eb2ad94fe101eadc20d5dc857713",
+    "wiki/activations/venus-jupiter-equals-vulcanus.md": "fc32b2de2b3d7a37e98573767c92e2039495d2604ee3ad008f62f163d5ede901",
+    "wiki/activations/venus-jupiter-equals-zeus.md": "9215d04e1c95d6267af2c334d0fe7627d299b24fa6ca3994902ec03ae20bae5a",
+    "wiki/activations/venus-kronos-equals-admetos.md": "d0d0a54334a7362d5b1544327f9d81beef5a996ad62d55e244a4a6a251ca7cc2",
+    "wiki/activations/venus-kronos-equals-apollon.md": "83ba4a85f88032cfafb9d317b9c6a69b84b1dd10327c045b681820b7d0eb6778",
+    "wiki/activations/venus-kronos-equals-asc.md": "c09e12ea106933e5ef444eceeb27cdc334ee7f34ca45b2b39657f858037e1f87",
+    "wiki/activations/venus-kronos-equals-cupido.md": "fa5020ba647cec6fcefdc0427f8846006465da8f52b840ea1cf44545a80a148a",
+    "wiki/activations/venus-kronos-equals-hades.md": "2e225cf0060e800fedacf3f6cd3d028ff8f8693de9c5da44195ee54db18e7c2d",
+    "wiki/activations/venus-kronos-equals-jupiter.md": "a2f9090b37200b15444541bbdb6fce01fcd98675fede76872793c3b1b9e0781d",
+    "wiki/activations/venus-kronos-equals-mars.md": "59dcfa86111f0c4ae99c317b10c7af4d743ae5e27a0df892f8135d6674f2123a",
+    "wiki/activations/venus-kronos-equals-mc.md": "7469fa6c9bdacc27d819cbe8ba77b52fb539e8c6aca3aa02f43f4e07e54c4af7",
+    "wiki/activations/venus-kronos-equals-mercury.md": "aa8dafc1e9394a5058a004c0a58c70785cc29cf4a2ff7b86ad41e965f28b4394",
+    "wiki/activations/venus-kronos-equals-moon.md": "d0cb7fc8324e292fe5093902e5b893784906d034dca0257a77205bf457d55422",
+    "wiki/activations/venus-kronos-equals-neptune.md": "7e230e66276c9e45fa0e8b49305c8ffc9ed86d324fa9c11c2ac0c831fc5ff4ca",
+    "wiki/activations/venus-kronos-equals-node.md": "d3998122d5684573a4d7d4c6283cf4351ac3dc21457ca0bb013c436810f43cd4",
+    "wiki/activations/venus-kronos-equals-pluto.md": "9637f4e06e91d299757e390442a5a66b9669c56b4db2ffe5da44a21292cbd8c2",
+    "wiki/activations/venus-kronos-equals-poseidon.md": "1a5d51f18fc8b435b78451b194fd32f3168f54ba0165fd26d268319e3c036ee7",
+    "wiki/activations/venus-kronos-equals-saturn.md": "1ee6075ee6a4e0383f0dc8c4726f65875b787de649fd3f7e16aeb74c0a2e8fbc",
+    "wiki/activations/venus-kronos-equals-sun.md": "fbc9c74e60b824df2822b40af2a3ada3e928b4f3e27fa210f1b832cffee1f9a1",
+    "wiki/activations/venus-kronos-equals-uranus.md": "8ad301d1ec536881413a287da7bb1943f4d92498331f02b329df169e208dce2e",
+    "wiki/activations/venus-kronos-equals-vernal-point.md": "f454c36942296c0cdbdd45acff5858b1bd35103a8ce95ed32c868fcf06c7dcb2",
+    "wiki/activations/venus-kronos-equals-vulcanus.md": "d0ca3bf4a67bca80fce1947bc80ad7972687d5c03961669c6c12d54e475c58e4",
+    "wiki/activations/venus-kronos-equals-zeus.md": "9818f4dfbebc5267b5e47926f653cd5dbcdd59dd14bdc6e8e90f6736eaf1ddbf",
+    "wiki/activations/venus-mars-equals-admetos.md": "224ddcbdec151efbcda237b839e1efd5acf3f482bd0632a3715ddb27a3f167dd",
+    "wiki/activations/venus-mars-equals-apollon.md": "a06c9f5d65bd6f1fe725bad7dd1cf6ef102cc165c35c493250b153444ae87931",
+    "wiki/activations/venus-mars-equals-asc.md": "9622d592113c339a2d77a8a3c316e0f566988c549488ffcd955064a1fa3e7aad",
+    "wiki/activations/venus-mars-equals-chiron.md": "86947fbe69c85d31c421f03948384fffaf1665366b8b18f5ebda57dede63e662",
+    "wiki/activations/venus-mars-equals-cupido.md": "18dce58f52638230cf92c3223d0de1d93732a80394a2bcc2e31d05c350b054c7",
+    "wiki/activations/venus-mars-equals-hades.md": "0eb97ebc733190c73421ebe1ffa6175100daa0e312537325696ce95640e81edb",
+    "wiki/activations/venus-mars-equals-jupiter.md": "d40e037f59f8ec993d8ec3b60c2f06913ecd624b6962575a0fa863806ac40e89",
+    "wiki/activations/venus-mars-equals-kronos.md": "c78bfc754b5836136a2ddb75a870bd39a5370fe0790484659a42b6b3a47701ab",
+    "wiki/activations/venus-mars-equals-mars.md": "751c8ef89080fde58a14c6aa2dbdc17f2b8283d57e4be6b2726406a89dafe417",
+    "wiki/activations/venus-mars-equals-mc.md": "a029460948706c12534917970fb6c7f4f2bac89aa34527369992edc2322e094e",
+    "wiki/activations/venus-mars-equals-mercury.md": "05be04ab1d9f3ac566f0ef0fb780ed01dd7fd1a7aed102ed812796102dd1db66",
+    "wiki/activations/venus-mars-equals-moon.md": "4707c21e6e2fae015edc44c2f0c022fe3c50ac6135a7daf44d6512d4c7e2380f",
+    "wiki/activations/venus-mars-equals-neptune.md": "0789acc46e58e6ac13d70e0ba2fdc5668301a697fb9e4ab065234b085c6590f5",
+    "wiki/activations/venus-mars-equals-node.md": "22198f84798249407b6f97a53f6e3e119c36fb151b59f3274beb963521af61b3",
+    "wiki/activations/venus-mars-equals-pluto.md": "70ec0a0be87c1599e03981a2d49176e75f25cf265f40861a7e08230f9ccc1241",
+    "wiki/activations/venus-mars-equals-poseidon.md": "273dac3a9c487bd6f8f7a8c4fd9ed9d5a21aebd7ccfdafdeecf3a8616f22684c",
+    "wiki/activations/venus-mars-equals-saturn.md": "860ca34c1f1fe54ec80eda7e2e705433a360aab5ea0b2a2efb6a45ad8222f820",
+    "wiki/activations/venus-mars-equals-sun.md": "4cb017215157ff1e56c418dfbb1355ff9be65d2f864bc0e2e50d6d4b0ff81ca8",
+    "wiki/activations/venus-mars-equals-uranus.md": "d3ca749630facf79eb953e31fa5a4ebba1594d898ac58a6b7b676df9c0bb6a72",
+    "wiki/activations/venus-mars-equals-venus.md": "a2bc7c3a362338977ee1c759bd2c07bdb6e3de8e91b6b1105c5250a898246cd7",
+    "wiki/activations/venus-mars-equals-vernal-point.md": "aba9ea3b1bb646bc02cfd5953334b81f05b5119e8d4afa8bdcf1c9d9e0bac4ba",
+    "wiki/activations/venus-mars-equals-vulcanus.md": "e2b0c7bfe2c4066ad4080b9a7379b6ea92c44d5fb6f370387e47fd5c2386e3ae",
+    "wiki/activations/venus-mars-equals-zeus.md": "fe44a8a2f2816b8342e012d0c39187b33bface7930fad87c9ca87ca9527a838d",
+    "wiki/activations/venus-mc-equals-admetos.md": "39b219d00685c4ab442c8cdb144eb03ccf8215c915c70b069d6d99b80030070e",
+    "wiki/activations/venus-mc-equals-apollon.md": "d12540919927ade6c6be8a23282514122e4532a369251ef01e6b977fafce0b61",
+    "wiki/activations/venus-mc-equals-asc.md": "d25067cf6501dee1d0d5cfd46fba15b565438171b5fb8c815711a52d0f59840b",
+    "wiki/activations/venus-mc-equals-chiron.md": "26f2bac53a0566bd3b17c9de483dc7f234783f720012f19bfddf6e2a93ab66a0",
+    "wiki/activations/venus-mc-equals-cupido.md": "2ce97fa8a12947e26c941dae63567172040183721dd692e03b64c3851fe547a4",
+    "wiki/activations/venus-mc-equals-hades.md": "1cba0608ab42699fd3730f85011e74267a6512421fc4a2b097a664ae6a5327ae",
+    "wiki/activations/venus-mc-equals-jupiter.md": "184ffbdaa20056660040559508390c4f454c16a4359351005c4652d0b2e6ae2c",
+    "wiki/activations/venus-mc-equals-kronos.md": "7faa16af5141d8d3cc10c824c3c0096ce99bd3aff523cf2dba0177c0397e7bad",
+    "wiki/activations/venus-mc-equals-mars.md": "6e8ad957fc7f6757f70ffa6e23dcc26c50bdf1c4502caa5651b725c11ab6cd87",
+    "wiki/activations/venus-mc-equals-mc.md": "90879b6680766414b6692f9d687e07061a639adb9fd972a7659ed947bb75d5f3",
+    "wiki/activations/venus-mc-equals-mercury.md": "df6d5405f08d89eee73ae7c325b422e23e1c81232ab44e7225145038346ad9c1",
+    "wiki/activations/venus-mc-equals-moon.md": "e16495ec46cf08073fe045d9b6d7797322b666b4acdf518ac3e49dc0377c16bc",
+    "wiki/activations/venus-mc-equals-neptune.md": "aaee916764bc38c658f110e093b65baf56a6b61c3a1ed56e4ff4f0bc49aac8f2",
+    "wiki/activations/venus-mc-equals-node.md": "33d6df73d111eabf738ba68211e69b42bff203950b07592d6e4fccb3dad8423c",
+    "wiki/activations/venus-mc-equals-pluto.md": "0c3596eb8f144005bc7cd346603260ba47121598f0c9b07a615be1d6067a27e6",
+    "wiki/activations/venus-mc-equals-poseidon.md": "97eb4a52d350e94ea13e28c7923de647190ccc582c6026d3c1836f218ddd64c6",
+    "wiki/activations/venus-mc-equals-saturn.md": "7af64f89907ab95815a07adf4d5b0c3343b6d6b45d27dc4b6042c09d61f3f848",
+    "wiki/activations/venus-mc-equals-sun.md": "c743c47e05b8e97c8bdc9bbafcc9922a8335ddd68fcddfb1f132c2cb85b59cf8",
+    "wiki/activations/venus-mc-equals-uranus.md": "8534f9538dfa63b3412ad782e409d74b55e316ef59619cbb49d20f16dba47378",
+    "wiki/activations/venus-mc-equals-venus.md": "acdf49869a496dd0a7b96a007838b95a2590a61e5242fe8f813bc44bed69a5f7",
+    "wiki/activations/venus-mc-equals-vernal-point.md": "13efcf15c2897e15985d58d4a4144fe965db22fd542aee8b1c3a5eeb240ebade",
+    "wiki/activations/venus-mc-equals-vulcanus.md": "a7e9fe116be16cc91a83bbc57d722f7a5c24539d55c9e9e29c61c30758563866",
+    "wiki/activations/venus-mc-equals-zeus.md": "00cc955119fe327db2691f475ce5bd2929970fbf406d157750d6b9e3b3582cb4",
+    "wiki/activations/venus-neptune-equals-admetos.md": "05d79711096bed787ecc9dbc45e53d3181cac15672c72850c7e6fb9d6311f105",
+    "wiki/activations/venus-neptune-equals-apollon.md": "72681dd077d4a4cb9c7a16b3dba13e06e5f58de8b6dbe2c2c1dc0794d1cd6183",
+    "wiki/activations/venus-neptune-equals-asc.md": "11e07611ade1aaf9df1bace55a3949eec164e5300fd5638468348408ca812059",
+    "wiki/activations/venus-neptune-equals-chiron.md": "312332ad274ec8a4fd5efc1ff0f12434752f14815fd32c689d58ebd42a4bc8ff",
+    "wiki/activations/venus-neptune-equals-cupido.md": "74f529be6a23ca24bd937ec211f1768238014e4ee3a809294e268691bcfa4e2f",
+    "wiki/activations/venus-neptune-equals-hades.md": "12c328a781c36e65641e5b229f086a67a8abbc72763342506ed035e3ca952c2a",
+    "wiki/activations/venus-neptune-equals-jupiter.md": "a2bf9dcc3320703fc129eff853edc23a2e565919ddf0207c9215714077586337",
+    "wiki/activations/venus-neptune-equals-kronos.md": "430ac8aec4e4b2bf49e773aacbe9d0c7c1f6a01ac8ac36e76bd9008e5cc744fd",
+    "wiki/activations/venus-neptune-equals-mars.md": "96f1c602f5dcdd9e9a5e0c4a16243879a9432f727918c4eab374c1e83c814d2b",
+    "wiki/activations/venus-neptune-equals-mc.md": "88d735bbd085c8222df0e9e05f0b887468b9f8226e1260046ca90833531bc255",
+    "wiki/activations/venus-neptune-equals-mercury.md": "222c0442b8b44ef2f1be5b9918edbc17e0058b651921715adebc8818be5f3016",
+    "wiki/activations/venus-neptune-equals-moon.md": "22a3df24340a409c87e3b60d020a014f00230b5db2ed68f40d6a92806386f615",
+    "wiki/activations/venus-neptune-equals-neptune.md": "29cd6cb3117b48c63099f12742da5205a86f0723a1246f23bc686e8dfd8f816e",
+    "wiki/activations/venus-neptune-equals-node.md": "3183302c2e55b6830f17614a48bb221e7c24fc2f6172aa2d7eb0b7ece0042595",
+    "wiki/activations/venus-neptune-equals-pluto.md": "569d652eff4aa9027331b1bd96cc1345cf3f795b843cdee37cd5a4bac174a19b",
+    "wiki/activations/venus-neptune-equals-poseidon.md": "b1add8e73f0ec3595b12e6c8c49c1ad81b4fb26543fd54d1d2156d232db4d204",
+    "wiki/activations/venus-neptune-equals-saturn.md": "b2ae08ed6315048302ea1816e7f48b4b1c63264494b0774eda6f0bb2d0a1d4c3",
+    "wiki/activations/venus-neptune-equals-sun.md": "f67b55f24bf08ca5e40a1ba3d06eaac3d94cfea5b240816f52dceea8d81f2602",
+    "wiki/activations/venus-neptune-equals-uranus.md": "4839d6184fffd6635e7bc9865f29bc5878cf962986b327ad0a13f7e61281abdc",
+    "wiki/activations/venus-neptune-equals-venus.md": "0499ae7f64f68680cc9175b1dbb024e7988a520154c986f96c615a38943772d4",
+    "wiki/activations/venus-neptune-equals-vernal-point.md": "c6a93dfe269e56d4f52132de36a34f1dd3f1bd33030da793c88048697e78cd47",
+    "wiki/activations/venus-neptune-equals-vulcanus.md": "c784695aa4a644feee9207e172f6ff850ea7cb83bb98d89c1eff64e688b7cf6d",
+    "wiki/activations/venus-neptune-equals-zeus.md": "c0ee9681ce34fac9a0e3b9f952a19d3ea3743fa3c7d82dfde484f842e2383776",
+    "wiki/activations/venus-node-equals-admetos.md": "50e36443e10abdf79fa1827afa7c7555ef653837bd94ae17401fd80e8435e40c",
+    "wiki/activations/venus-node-equals-apollon.md": "536f0464a913b4245c9e47d48f2b33fb729f2f8afcf8c2ede104756524b3fbd3",
+    "wiki/activations/venus-node-equals-asc.md": "92d8898c822ccf203579db04fc45dc29b260397290139d6a03721cb85abc8023",
+    "wiki/activations/venus-node-equals-chiron.md": "a0a1b76faedcdb8ad2795514afa83dbeffaa31ec240bbbe6ab538332b75a89b8",
+    "wiki/activations/venus-node-equals-cupido.md": "b4b22851a9d3c49b0ebd2ae09a23a741016c010c50c9b79b16e9f89c12af6780"
+  },
+  "proof_sha256": {
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p034.png": "25bd2a6adab8f361ccb0a424eb9f208399292d7836840a3ada0e3e4cdbb0db9c",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p053.png": "933aa7a9bb9e0fa12357516b720ad3ec3589aeaf57ff46fe0c21ff025c39cd03",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p104.png": "0054b92eb739319a06d2c7e8129e24a90e92c54fe413d59b2029062adbda8941",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p134.png": "6eed27f3dae7c8391cb71b80be636b17bf7da8abba7fea50ddf849809a4481c0",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p135.png": "d8dcfa2598044fcff4e3fd2a287c0d88e1b227f812bf7a20a6df802ded020bb2",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p138.png": "fb7b2f02659a6ae17e0e31182f616e0a99eb265e04beb83bd58b662006d5bf3c",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p140.png": "b4ff0b7f1d1a6675adfcee36839db258d2dab41f84a2382daaf2ab9215a92c04",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p141.png": "7e1c52a0a6fae9f2d87bbcad63b4abfacb47001279fe6fb3f854e23798e494f6",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p143.png": "aa800e8dc6a7e39028ad0241cd109df387c8790398dda4e665abbd8869228953",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p145.png": "528fa4713fc0e1beb1b86247f84531a0983f9bc4dce0ead0e6ced2acd88d5b51",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p188.png": "c54d515d700dde3987feb30628781626c0676205810c686d190d9f4a14e27743",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p192.png": "338869540720f1e3fc15640e7de76057819d1813d495a2735f0c61c4972f647e",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-ebertin-p178.png": "43aedd2f8587cf41e73d85d2bb387ec911917ac045f68265bebe88cf9c0c2bb0",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-ebertin-p179.png": "e0885e006fbc282ca6a1f91a6291445e7d4669ae07e96020a81f49912c8fc2a9",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-ebertin-p201.png": "676e7a3ba02122ab51394e86736a4d40997f0b2d32d42c079ad5abcb901d908f",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-p061.png": "182edff4b7b84a32ad05cdcb65393f8a3fc2c694c99ecee3c890a8579fc0930c",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-asc-pages65-66.txt": "31e0c19a6a337ab7e73181c9c6ff8cdfdcae82939fcdcb24aceaea5ad2497ef0",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-chiron-pages59-60.txt": "7cd8b0a06af09ffdf9740204985b152184c5143d9ec54e0a5cdd9473a1c65094",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-jupiter-pages56-57.txt": "4be4a69757e6bf0b10504956c81b04925e7dded945a9853c16ef984061f627e4",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-mars-pages55-56.txt": "4d0f1cbca25c686ca148e3e69e642a4e1ff14fdb6fb63be77e37c53c299e4b7e",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-mc-pages66-67.txt": "fac96c2616674f7ef58530363bfccb31bdbd22b2e04aa1faf6065e688602026a",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-neptune-pages61-62.txt": "69060cd5f63f496b6c41d98778106489fdc1fd97c10f51eb98f628a6bce5b826",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-node-page64.txt": "fe6c401858c042c9102706f1428c25e705683a85318418f5aa008f2423cc3937",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-source-repairs.jsonl": "5d141b7be5c6f35529f12c2e36f6e2489645602e08538c4b4026d6b8120f2061",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p063.png": "2b60d77a0669f01d4758f28714b39dad0c0e60865a40972740a88481bc0bb0fc",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p084.png": "db9b7c36ec663433549ccfbc9ed0e704bcccc3038705fcb07c3b7696f11fb58d",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p142.png": "cc8b5081b1ad8408c7ae800e15e9fca7b8c24d5361a6c61c18c1fe1f3b034c1e",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p176.png": "4c6fbdeabec6d0aae1349248addcf8ffe1d282358e8847b921e618770406cc7e",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p177.png": "d05082496d281152bdd71e9cf697a40080dd5716589d44907952a8e8d8f8dac0",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p180.png": "675849eff78969e541461227a8baa39c45f5715e48b523ee139a580aefdec57c",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p182.png": "1a463348b91d81982fdeca4f1f1c857e8d632864fb24a6d5bdf309413509a0f3",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p183.png": "48d1ebcb4a71f15d73a49594dd6ef0332dbf78c1280648acc45a733cfda20d65",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p185.png": "7af3f4b8af0eff2265481c69982e0167997847615a1cc7b1397bfadbc8e242d9",
+    "docs/reviews/2026-10-15-full-wiki/verification/a084-088-witte-p242.png": "00fddd72af2b9edbf2a4545f6fbce71441f979fee661efef263ba319435d7b2c"
+  },
+  "reviewer": "activation_review_084_088",
+  "scope": "Original activations-084 through activations-088;225 new full reviews,44 inherited records preserved; scoped structural audit covers269 assigned pages.",
+  "date": "2026-10-15",
+  "git_diff_check": [
+    {
+      "batch": 1,
+      "exitCode": 0,
+      "stdout": "",
+      "stderr": "",
+      "timedOut": false
+    },
+    {
+      "batch": 2,
+      "exitCode": 0,
+      "stdout": "",
+      "stderr": "",
+      "timedOut": false
+    },
+    {
+      "batch": 3,
+      "exitCode": 0,
+      "stdout": "",
+      "stderr": "",
+      "timedOut": false
+    },
+    {
+      "batch": 4,
+      "exitCode": 0,
+      "stdout": "",
+      "stderr": "",
+      "timedOut": false
+    },
+    {
+      "batch": 5,
+      "exitCode": 0,
+      "stdout": "",
+      "stderr": "",
+      "timedOut": false
+    }
+  ],
+  "raw_storage_mutated": false,
+  "global_navigation_or_approval_bank_mutated": false
+}

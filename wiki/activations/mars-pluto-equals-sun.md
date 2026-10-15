@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Sun Mars Pluto](../triads/sun-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Schedule of the day. The man who serves the civil administration.
 
@@ -45,11 +49,15 @@ Schedule of the day. The man who serves the civil administration.
 
 #### ABC Entry
 
-Man's Work Change, Development Centre for Work, Personal Changes in Work, Personal Power Cntfolding, Changes in an Action Centre, Growing Personal Activities, and Centre for Development Work
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+A man's change of work, a development centre for work, personal changes at work, unfolding personal energy for action, changes in a centre of action, growing personal activities, and a centre for development work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214 (PDF p. 216), entry 0735.
 
 Hard-working person, ability to work to collapse or complete breakdown. Injury, accident, violent measures, an upset or shock caused through the intervention of higher power.
 
@@ -57,7 +65,9 @@ Hard-working person, ability to work to collapse or complete breakdown. Injury, 
 
 #### Sandbach Entry
 
-One who will work hard and relentlessly toward goals. Hard work has a destruc tive effect on one’s vitality and health. To be obsessive about one’s agendas may cause a breakthrough, but may also cause an intervention by Spirit as a means of realigning one’s goals in a manner that will better support one’s evolution.
+Source: “Planets activating the Mars/Pluto midpoint,” PDF pp. 73–74.
+
+One who will work hard and relentlessly toward goals. Hard work has a destructive effect on one’s vitality and health. To be obsessive about one’s agendas may cause a breakthrough, but may also cause an intervention by Spirit as a means of realigning one’s goals in a manner that will better support one’s evolution.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Effectiveness in imposing your will and theories upon others; forcing ideas upon
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Strong personal effort, will, and work development.
+- psychology: Relentless goals, an unyielding will, and possible obsession with an agenda.
+- body/health: Ebertin's collapse, injury and accident and Sandbach's health deterioration are attributed source claims.
+- social/relationship: Imposing ideas on others; Witte's civil-administration role is a particular example.
+- events/manifestations: Daily scheduling, personal work changes, achievement through technique or endurance, and possible breakthrough.
+- conflicts/notes: Sandbach gives breakthrough and spiritual realignment as alternatives; the health and shock claims do not follow from every work change.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's scheduling and ABC's ordinary work development differ in severity from collapse or forced intervention elsewhere. The full range includes practical activity, achievement, and attributed harmful possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Sun`: exceptional drive, survival strength, and the power to keep pressing forward under extreme conditions. Main caution: self-destructive overexertion: obsession with the agenda can bring breakdown, injury, or shocks that force realignment.
+In `Mars/Pluto = Sun`, Sun specifies developing action through personal will, work changes, and sustained effort toward goals. Witte's daily schedule and ABC's unfolding personal activity give practical settings; Munkasey adds imposing ideas and achieving through technique or endurance. Ebertin and Sandbach describe severe costs of relentless work, while Sandbach also allows a breakthrough or spiritual realignment. Those bodily and spiritual consequences remain attributed claims rather than inevitable results of intense effort. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0735; [Sandbach](#sandbach-entry), PDF pp. 73–74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

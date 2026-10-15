@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Moon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = R`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Moon Zeus](../triads/sun-moon-zeus.md)
@@ -42,13 +43,29 @@ The husband of a woman (procreation). To back women. Inflammable. Burning body. 
 
 #### ABC Entry
 
-Efforts between woman and man, fiery people of a people, fiery human life, woman's personal goal, women's achievement centre, creative personal life, women's personality, and goal between woman and man
+Source: ABC printed p. 162, supplied PDF p. 80, Sonne + Zeus, Moon row (eight clauses). Translation from the German scan:
+
+Efforts between woman and man; fiery persons of a people; fiery human feelings; the woman's personal striving toward goals; a performance center for women; creative personal feelings; female leadership of persons; setting goals between woman and man.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Leadership and creative effort concern people or a partnership.
+- psychology: ABC names fiery human and creative personal feelings; Witte adds a figurative powder-keg image.
+- body/health: Burning-body language is an attributed historical statement, not a health assessment.
+- social/relationship: Backing women and leadership of the people are explicit historical examples.
+- events/manifestations: Procreation and a figurative powder-keg situation are named.
+- conflicts/notes: Witte explicitly marks the powder-keg phrase as figurative; the other fire phrases are not silently equated with it.
+
+## Contradictions
+
+No direct contradiction is established. ABC's feelings, female leadership and shared goal-setting remain distinct examples alongside Witte's historical statements and explicitly figurative powder-keg image.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Moon`: creative vitality and a strong drive to act.
-- Practical expression: efforts between woman, fiery people of a people, fiery human life, woman's personal goal, and women's achievement centre.
+Moon specifies Sun/Zeus through creative or leading activity involving people, including Witte's backing of women and leader of the people. His figurative powder-keg image adds volatility, while procreation and burning-body language remain separate historical examples rather than one inevitable event. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

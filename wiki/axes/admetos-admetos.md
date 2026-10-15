@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Admetos/Admetos`
 - Astronomicon axis: `¦/¦`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Greatest hindrance, inhibition, separation, death or standstill. First origin. Primary material. Raw material. Rotation. Circulation. Reduction. Compression. Contraction. Raw materials cycle. Aggregation state.
+
+## Comparative Schema
+
+- Core meaning: Hindrance and standstill belong with compression, contraction, and reduction in the [Pair Summary](#pair-summary); origin and primary material are a second, equally explicit part of the entry.
+- Psychology: The entry names inhibition, but does not develop a personality profile.
+- Body/health: Death is a historical source keyword in the [Pair Summary](#pair-summary). The entry supplies no clinical mechanism or basis for a personal prognosis.
+- Social/relationship: Separation is explicit; the entry does not identify a particular relationship or social setting.
+- Events/manifestations: Raw material, its circulation and cycle, rotation, and changes of aggregation state sit alongside reduction and compression in the [Pair Summary](#pair-summary).
+- Conflicts/notes: Standstill and circulation are both preserved. The brief entry does not explain their relationship, so neither should erase the other.
 
 ## Related Activations
 
@@ -78,11 +89,14 @@ Greatest hindrance, inhibition, separation, death or standstill. First origin. P
 - [Admetos/Admetos = Vulcanus](../activations/admetos-admetos-equals-vulcanus.md)
 - [Admetos/Admetos = Poseidon](../activations/admetos-admetos-equals-poseidon.md)
 
+## Contradictions
+
+The single pair summary contains both arrested conditions and material cycles. This is a range within the entry, not evidence of agreement between independent sources.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Admetos` is the pure or doubled Admetos principle: maximum standstill, compression, depth, and reduction to essential substance. It intensifies hindrance, persistence, raw material, contraction, death, and immobility rather than mixing Admetos with any counterbalancing factor.
-- Chart expression: fixed conditions, bottlenecks, concentrated pressure, foundational layers, severe narrowing, and slow irreversible states of hardening, resting, or being driven back to first causes. Liabilities: extreme stagnation, paralysis, oppression, exhaustion, and conditions that feel dead, sealed, or unable to change.
+`Admetos/Admetos` joins severe limitation with a focus on material in its primary or reduced state. Hindrance, inhibition, separation, and standstill express the restrictive side; compression, contraction, and reduction connect it to the entry's raw and primary material. The same [Pair Summary](#pair-summary) also includes rotation, circulation, and the raw-material cycle, so the axis cannot be reduced to immobility alone. The entry supports this range of material and limiting conditions without explaining when any one expression applies.
 
 ## Links
 

@@ -1,0 +1,3817 @@
+{
+  "checked_at": "2026-10-15T12:38:59.775136+00:00",
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Exact100 uniquely ledgered delegated Pluto/Uranus source deltas;65 newer than validator snapshot; no new full-page editorial review count.",
+  "records": 100,
+  "unique_paths": 100,
+  "accepted": 100,
+  "held": 0,
+  "pending_owner": 0,
+  "groups": {
+    "pluto-poseidon": 20,
+    "pluto-vulcanus": 20,
+    "pluto-zeus": 20,
+    "poseidon-poseidon": 20,
+    "uranus-vulcanus": 20
+  },
+  "source_blocks_read": {
+    "Witte": 100,
+    "ABC": 80
+  },
+  "changed_source_blocks_independently_verified": {
+    "Witte": 100,
+    "ABC": 80
+  },
+  "rebound_current_sections": [
+    "wiki/activations/pluto-vulcanus-equals-cupido.md",
+    "wiki/activations/uranus-vulcanus-equals-mars.md",
+    "wiki/activations/uranus-vulcanus-equals-poseidon.md"
+  ],
+  "strict_bank_sha256": "463e73c226c79c0c59bdb4624e411cabd21a8b0fd1710d5ea7c948e5f39c554d",
+  "normalization": "validate_review.source_section: CRLF to LF; heading omitted; terminal standalone anchors stripped; outerstrip; UTF8 SHA256.",
+  "proof_images": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png",
+      "sha256": "c21b6b899ca1fbcbc49334bea8f276633813da2545d21ae37ae4df2e78fdb7fd",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png",
+      "sha256": "723f36c2acdb148b6c787e95382e27bca4d40f1f1a3c087ee234f7cad9411f8f",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png",
+      "sha256": "a2c7114a2365e7fc2433558817fb597612b85150d2b0c9f1b64fc7cbac52eae7",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png",
+      "sha256": "363242241a82311dcb4f17471dd77d8cf3846d0406f27442663a55775c8c67dd",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png",
+      "sha256": "2c361617f34aff38e18ea07db9a81dd8308b6289fcd843b55dec15c13072e479",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png",
+      "sha256": "0a885e0db5ea5a46fa0a1900380950f97ef47dd73fbb4a3152450f47273fbce1",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png",
+      "sha256": "fa36d210517f04eb4206de536e50c4a27fa36126b7765f1de195c47a6e8deafb",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png",
+      "sha256": "2d90a929024384c45f3e0f0d0e1960571529f9516059b6ca651c403ca51c86da",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png",
+      "sha256": "9fea8ec978ec4392826270b598e39cd45fa1086e8a93897af1b6181a193646db",
+      "personally_inspected": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png",
+      "sha256": "d490f5ca24b65eb079894b5362f552007c265ab77c4d40453beb9a872fccb055",
+      "personally_inspected": true
+    }
+  ],
+  "inherited_limits": [
+    "Acceptance certifies exact source deltas and locators; unchanged inherited prose is excluded from broad transcription certification.",
+    "Exact own glyphs and boundaries checked against scans; parser maps and owner assertions were leads only.",
+    "Attributed medical, violence, gender and spiritual claims are historical doctrine, not established conditions or predictions."
+  ],
+  "resolved_findings": {
+    "pluto-vulcanus-equals-cupido": "Independent finding resolved: exact six-clause German quotation now preserved; Entwicklungs-Gemeinschaft translated development community, excluding the unsupported undergoing-development construction. Final full page and amended062 record personally reread.",
+    "uranus-vulcanus-equals-mars": "Independent inherited defect repaired: Bemühungen um Macht-Erneuerung is efforts toward renewal of power, replacing emboldenment for power. Final full page and amended084 record personally reread.",
+    "uranus-vulcanus-equals-poseidon": "Independent inherited defect repaired: mächtige Erneuerung der Kultur is powerful renewal of culture, replacing powerful emanation of culture. Final full page and amended084 record personally reread."
+  },
+  "checks": [
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-admetos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "ee81a224698d90df5138de9bf7bad0ca0af20543a8f72eff05552bd185f8bc9c",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 31,
+      "ledger_record_sha256": "876df2ccd5e8535aa96ab6431f83e51c1f4c6356dd9fa4a143231c65492ca4e7",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator admetos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator admetos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-apollon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "0e41f0fb86e2b7b6ca82536d652301dab520a5592f213ea2e89c5532b97982b6",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 32,
+      "ledger_record_sha256": "4b2af879900c4e3776a9b2a09375a0fd44dde85fc92cf657e09ee9314a705186",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator apollon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator apollon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-asc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "43fea71262cf29c66a26b6a41734f1b56c4fe38a097e6e653d9b96d64d22bc12",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "82c5b5b83413db80228bb7e91de45945b32f62fdf3babeba1e540b51661abfa5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator asc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator asc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-cupido.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "77163ff75f02b32f4c751190c55f007ab3c13f80e79e963fcf78622dbfa472e0",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 34,
+      "ledger_record_sha256": "dc175b9e8408df7106e5a07c3b1732ee7209e2e5a0d85bdaadc152e23b69cd17",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator cupido: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator cupido: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-hades.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "8fa8c2f05d36fdcfb1cd472ffd4e5ba91b4f684010c9998a9b4516c200f6cf06",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 35,
+      "ledger_record_sha256": "4d82dc441eb59f4f75e935a79b7091ddbab75b9909e7f3a977e7709ca9b66c0f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator hades: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator hades: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-jupiter.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "507ecc973f4d6b3189cfabc125aacbf93aaecaca938014b482db57b41f3fe599",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "6d2c05209451531405e63704a47441b05d1e4af8daed926e99a9f0205cf57d7a",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator jupiter: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator jupiter: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-kronos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "b3b9f75ef3b5151b6a4952ef0d6c7febde8498b3a06f549e2239f416e801e3b4",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 37,
+      "ledger_record_sha256": "94aabdae23e746e06fee280faca5316c34409cb55a13f330942b85d6a4d389ea",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator kronos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator kronos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-mars.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "2ae5657e61e936d4ee9ed3ffcbea6d6882a01063a1dbfee03645b9f4076be159",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 38,
+      "ledger_record_sha256": "fbaede1ebc974895a77f703076cde985042385ca5100d68914f4bb0b85100ab0",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator mars: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator mars: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-mc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "2118253eb93703adfd379f0b4c97449845cbb0822690882b8b6b940d9965ca44",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "aa5dd62cca571b9f2f9bf75a851867bd2ec740b5670d8be12ba464738c900f9b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator mc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator mc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-mercury.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c0d70584cf81ef3f91dcec18f473b1027939c17a5f68d3b84f970fcdbcbe7ebb",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 40,
+      "ledger_record_sha256": "b2ce9fdb4c171251121238c6b81167284b732d16a2ba7b51a7d1bf090b354a91",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator mercury: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator mercury: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-moon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "15082b53e0851b946ee751012e2f57dccb4439dbf32a75d0d64ba9bb3d9eff93",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 41,
+      "ledger_record_sha256": "604e575b8d608148af65dc0bf4faeb3a3551644dbe40fe8ec323b30580fd7e9f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator moon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator moon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-neptune.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "0e5e773dd88c3385269843934f9c46cb1466f664f718273ab2cce049ea5700d2",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 42,
+      "ledger_record_sha256": "303e3cf7c36fcd07ec89e05296303a43261ae693cfc2b819dd86a44673aec6e2",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator neptune: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator neptune: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-node.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "81d31798db1ecc726481efaabc78385b0607cd99c1da9e5c4d685afc6f8adc78",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 43,
+      "ledger_record_sha256": "5304d5200805cffbdcba2bff4c659753446466680e9aa5ba748691b59f7ba2db",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator node: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator node: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-saturn.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "017ee6f6bb04333e26dd85ca2dff49a4803beb19431e340beca60fe121c38d0a",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 44,
+      "ledger_record_sha256": "889af0fa8dc9516422579ee7a06873b79eeda103e5060d339e9cba458686cef4",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator saturn: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator saturn: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-sun.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "51e6757419f7731289f4f1708c39eb3251ed1a1db033da86b2d0e444ce0e955c",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 45,
+      "ledger_record_sha256": "a3ec247a742284b4312cc30f1aef9fa9838b702b29eab84af8ed1361facc5a4c",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator sun: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator sun: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-uranus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "53b1c443c9b190123f46f351bba0f64ddeaa21395d5259b569f540a26a0008d8",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "31f67a63bc2afcc720c874a401c9d7c9e318de56c515e2ce57ad348aacb00022",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator uranus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator uranus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-venus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "5c4703dc87e554c9788d55940165acec142825eb40f46d44b1fb4f9fbbae87e3",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 47,
+      "ledger_record_sha256": "8e8a978bb9942f8608df6956962ecd81f97d05ab1ea8af6def86320f70d2a527",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator venus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator venus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-vernal-point.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "59e457ee067e57399e070d8d4df5c367f91c05be67069ca1bb39790fdc436845",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 48,
+      "ledger_record_sha256": "8c5e9e26a9eb1389d79d66e646e4cc43bf6a50f980d23e7910981c9128be01c3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator vernal-point: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 422,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed422/PDF210, activator vernal-point: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-vulcanus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c649410309656a67a805bfbc5c25af4aa330636b839193961cd6604a518b4407",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 49,
+      "ledger_record_sha256": "1e9dd278462b09f6b65dff01becec81a694fee33c792ff62dfa7fd7d4b1dae81",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator vulcanus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Changed prose/OCR removal independently matches the scan.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator vulcanus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-poseidon-equals-zeus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "cee0ac8f2149d3692588984deec6b7c6e2a5b5433544bb50d9326d1cb6336309",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 50,
+      "ledger_record_sha256": "9385097079cafc58daf0ac904f031329f75b713bdc1492fd0f99fef5bd724fa6",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 264,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF264, activator zeus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf264.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 423,
+            "pdf_page": 210,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed423/PDF210, activator zeus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf210.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-admetos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "63d3905b47d393d2647fc46533d94f9cf1a421005929920fbae64bb86ef1190d",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 51,
+      "ledger_record_sha256": "1d6441511e71fa8bcc9dc37001fe073caa78ac2e1f07ded5a69705356abd940b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator admetos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator admetos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-apollon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "15b78c96907fd797bd5ccb1149c1142927145fd039a91f3f1cdab630d279cf16",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 52,
+      "ledger_record_sha256": "5e1d7f675c3f92f6f999f50b3849c1924231e1087d8a7aab51809e8564085974",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator apollon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator apollon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-asc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "40218d31294dcdf6bf593ea1640e4b84141eb47bba20156a3dcb544eb3c423b7",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 53,
+      "ledger_record_sha256": "9c0728770c191ed23e3e239494df33cd8a18b5e15f715a4ac8843ae63657a26e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator asc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator asc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-cupido.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": false,
+      "final_current_sha256": "ad288d615879346cd47be4244206b4a719489256344ceece1586e149d67c7b4e",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 54,
+      "ledger_record_sha256": "14fcc2cb02a38bd8828581728ac11624c14a36fb6d961cced336d648403c24b9",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator cupido: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator cupido: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified. Independent finding resolved: exact six-clause German quotation now preserved; Entwicklungs-Gemeinschaft translated development community, excluding the unsupported undergoing-development construction. Final full page and amended062 record personally reread.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-hades.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "0cefd715916b4274650aa83254d7dfd050a7ead669502b9d3e1cfa28f9cd8b62",
+      "unique_owning_ledger": "activations-062.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "7043d246838cc276453e5a8cf548a6fed29bc4e0250d9d18cee5b2a27189081e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator hades: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator hades: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-jupiter.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "08acbfbb54b7ca42cb73898e4c5d31852ac1f095540c8e9ecd40934cb1dd5254",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "0aa9c1023ef8dbdf2ce622c7029b40220fb9ce2ab239a57fdc50847ee88c63cf",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator jupiter: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator jupiter: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-kronos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "50c66dc1c7355623f332029799163eb41775c726ff1e9dfb035211b464cd6db4",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "2e32a23462bc52ba47dd2f40625a4c17f148e8953812de35398c0640db2b782a",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator kronos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator kronos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mars.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "95aa9fbc9e5a08edff175975c1fb6fbd8cafb3a377786aa9a3af3454792dd542",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "4423b374ec23a650d69a0a8a46b34d518e7be6a68dc8337fc6dc09f3110179d7",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator mars: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator mars: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "9f9e79cbff55ae540a5f8587f02f33ec48cb047025fecd26b3e518f9df386aac",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "8bc1962c36029e2ed79937f5a3141278f318bab9a7fc9bbe4ba253c85e43f6a7",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator mc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator mc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mercury.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c43d876cc145588206369a48c5204d3b232322472c11f0f45255023bd699ec9d",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "6332fd130f5e02f320f59ca283f9d489478b5c8ab8275c1c419d396472cfe95f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator mercury: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator mercury: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-moon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "597df2b84a80b0b588a1e833519d2fe1819b924dba327cd5733950b35f440206",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "c70ce4cb2fd8a8a8d6103bf68499bf4a4241aa6df54bb9248f1b4e7a0a1a3103",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator moon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator moon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-neptune.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "fa03c7375065936512f4f6c1290ab565f986c7c0f1cd6773eef937c079cfdb0b",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "95f94aa1cafd1afe2cabe3af9e40ae1e1a476991cf4a3a9341bc07735c21d307",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator neptune: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator neptune: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-node.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "277e8885be8f7e5cb7208cc2265dc98b2f14a7a9711eeaa74af88dc2b2d3dabf",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "ebf27ad75d810e21d4433d122d3d0da1e5f991b0f59e4c5b6efc995d59175bef",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator node: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator node: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-poseidon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "18723ad00028fb66b467cb4af18b150656beca93d848db0941cdca80da055df8",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 9,
+      "ledger_record_sha256": "18577022891f710530e6a44fc4845e6667026559a14e3237a4f03bdabc0ffae5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator poseidon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator poseidon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-saturn.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "1decb935d7dc9a86e55afd6f674533f2c1b0ce0d6bd37ed59895e4b98b005d2c",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "b627a6e0c4d35a107344965ac7284f09d247182e606ff5dc1e399827c32f78a5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator saturn: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator saturn: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-sun.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "0a36f25b9d7c414dfdbf5daff0e2c522d6ec23bbb7e09c9d67107522c6aca271",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "dd8a865bfb78b4ce58a2f62e10cc4910fd9cf345f59efc2e85594d25a15011cd",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator sun: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator sun: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-uranus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "1154580eaa40de46e974dc4cc46601ff1d6f39d53c3b7dd8da1b4e7ee6f36bb6",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "96066590426cabe9a6ddb82eef4c72b123bc979d709899f0c6426776618ec971",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator uranus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator uranus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-venus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "9d266ec30478337441986070df815c1a65e090a175b2020a282ba9eb97695f75",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 13,
+      "ledger_record_sha256": "def6f0b29005100b6af56b2eeced3e5cd8743c4b6887200fae7526da2b81c31c",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator venus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator venus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-vernal-point.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "61780a52bf6141cfe40e8f4eb64c7a6e88da2a922ef3a1dc1e1d38a50d69d7de",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "0b4eb1ea80681487dc125517ca6f69a32df52b4b59818d535b9f5e4c617ef1a1",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator vernal-point: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 420,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed420/PDF209, activator vernal-point: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-zeus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "583df5a6db0861d1c5f5fe9272f2496cc56dc9d0d3277390883b7f99d833ce66",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "8297ec742e73c715951803dd9491c02561a9a909f581076e9332ab144d08b9ea",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 263,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF263, activator zeus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf263.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 421,
+            "pdf_page": 209,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed421/PDF209, activator zeus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf209.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-admetos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "7791fe305452d570f7e1fbac002e8b30911b9431aad8b3e65f4339424be52125",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 16,
+      "ledger_record_sha256": "937d5c9e1fc229c74f796882940176075d726afcbddc3850917db327d8495056",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator admetos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator admetos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-apollon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "e16a0429243bf96fc57f4cb45d20cd604f26260af6a48c069d67cf5c282400ec",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "6e955ebc1aa1aecf515b9389d8ef566d006711dacc9f9af3b5445e2cb9fed62d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator apollon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator apollon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-asc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "43cb2239a700f9e3b8d19bc714378305de19c1120ba85ba0799c6a9d3b3c7d6e",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "35dbbe06e3dfe6f8dcb46631ecd91d33fbeaff7bb2951fe81829db564a7be7c7",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator asc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator asc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-cupido.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "f5e1fb6f133b6270fb64017f637ecff0c3fca838414b89de35a08bba2741cd4a",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 19,
+      "ledger_record_sha256": "985d7363266c393cc3dee0f736aabb1b46bd412d8347582065622302abae1900",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator cupido: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator cupido: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-hades.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "73f49d023bd3ab7a01922d55c58eb529f5abfafdfe6a5186d351be6c780c5826",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "303fd4565c07433e3bef725c7263d1ed0d4a1588e5b961b2ca51c542b1edb5c8",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator hades: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator hades: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-jupiter.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "8e2c53bd664a34a6a32720dbd31fc8db9606c58297afe3a1d68122c13ca0fdb4",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 21,
+      "ledger_record_sha256": "3488691856a1b70015ab8552057425e893a02bc7015fc09540e1c610553f4c2a",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator jupiter: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator jupiter: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-kronos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "da61373b1eabf50b1ecb88846e112ed1e96c78a38fcf125381e4948309840fb3",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 22,
+      "ledger_record_sha256": "cb6fa80b9d12b20be65fb1ec8ecbf92eaf668f59e9d397d58cfa8d9d0fc02924",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator kronos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator kronos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mars.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "3662a2fc28896900f58a42fb62e79876720074bfc012bce000bd691e65b647a7",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 23,
+      "ledger_record_sha256": "b24a8fa504a71c7a19b68f67ff33bddb2a505a95a2fef9f35de6e64ec671dd39",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator mars: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator mars: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "2f1173059914c948abee8eef9262920f9d4e20f99398cd0bb1ad14fffb07cf9f",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "a6a063100fb5f42e7580eb99ec3cb61d094e310344cba566af2c65876837d2d7",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator mc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator mc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mercury.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c5b41548faa5e4293d15d77ea90709ed81247f4cd6cc6761c77e68bc1706904d",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "485356e13482c2aba069b4b84cf8e5f9dd6a183669c0161aaee821601f3cf48d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator mercury: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator mercury: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-moon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c0efaf8b9f1e0e49b1cbb14086ee8b0421e03b96bf6798f703f914e4218afe27",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "ebe4c01e70027af1613b346dce83b6c237c230b3fbf8e01623a98fd8c662bae5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator moon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator moon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-neptune.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "43bd9463f428ad70b890ed97fbe91cf7ad6952bdc82a147c6268768e401b8c65",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "ac095da690c4d809b8597f17148606a4c0ac6a335966b2ed7c58d752f4b6c853",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator neptune: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator neptune: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-node.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "a79f4deaf97f9c95f01ebe6758a0ea4662c720485044a8bd4268981ef51333f8",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 28,
+      "ledger_record_sha256": "b1cff00bb74bcc8f08d63f1a1f0402cb016bbd439b93fcd8ff4b21e2a597ee1b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator node: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator node: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-poseidon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "b7bfb52d4686b6dfa298e033ea6714d562f6eda07e0893a696c75f9849e42eee",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 29,
+      "ledger_record_sha256": "1fec89629f6c0d8c820cff8ce3349234b027616822f2fb4e00d9632300d38479",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator poseidon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator poseidon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-saturn.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "b0057dcac60bc5fa1dfa0361a4d5dbe219782235c208645fcccab0396bb7006d",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "713b1fa69ae9377a06ea9e509bd17042588d3a13a2a3180c28e973ab9aa60b6f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator saturn: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator saturn: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-sun.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "53371dfa082bf0d90047b5e848d30d935f0ef75c8e228eefbbab6e7e987d0743",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 31,
+      "ledger_record_sha256": "b97de749426abba2a47f3aad58a16b4350cf18e97b168f8c8c79f2151ea7d341",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator sun: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator sun: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-uranus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "54475c63b3e0a9168557f7affb3f4d824a7853fa78f2fbe408a881acbc3d82e6",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 32,
+      "ledger_record_sha256": "6a30352aa55fc8c25a114c856bb8a390cc202be6c33f43457dcf1f7e9b4a123a",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator uranus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator uranus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-venus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "4bf5fcf0432e6a367dfd828b3061e2c88598a83f2d4817a1e8be304ff84b89ab",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "9b1178d4024257ecf7bbeff3a68665b3c85373baaa892620893be6dc453d98ec",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator venus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator venus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vernal-point.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "f9d95b0970fa49feaf1054ce9dcddcf41c66878ce85b1eef03803e2c6b5a0287",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 34,
+      "ledger_record_sha256": "75f818af1b7762a04fc8eabe7470236a7d4cc56fb022a54b26523ac5771b9166",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator vernal-point: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 412,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed412/PDF205, activator vernal-point: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vulcanus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "24249bfe25847fd1b82030a2aa3c8cfea26b531fe19f9f131d7f1698aecb67be",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 35,
+      "ledger_record_sha256": "203d2706a047a8bafaaad468ad1aabd347d211617ace099c2590edbf8b4cf431",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 259,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF259, activator vulcanus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf259.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 413,
+            "pdf_page": 205,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed413/PDF205, activator vulcanus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf205.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-admetos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c5b05f935d24b53e4df7c9b5a823c83543aca5d59f65ed97c9da57e67828fa12",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "dca7a36a1753efc628d5f7f6da3acfe72590d6b04e04fbfdc64f7b5e3f29058f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator admetos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Changed prose/OCR removal independently matches the scan.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-apollon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "7828396dd3779587ebfdc279c8b21e6f90a02d1bd4cdb57590927f0db658f0f3",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 37,
+      "ledger_record_sha256": "1bf2fe58e942bcbd04393fc0f2e19c0efe4d845eaa18d055e8e9ea3172e1e683",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator apollon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-asc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "03d2ce0d37739c49d1f2ea602d81cd13e7c110aa7d5c13a3fc5458e69980b86f",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 38,
+      "ledger_record_sha256": "e3f2f36e68fc2ea2fdf1c7665462228a9eb24c06e3bfe40f2c0f9af1d6240a0c",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator asc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-cupido.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "448f5c5a8c19b91a4523be1482e039b81a8e5b0020f970a47d07bcba611137fb",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "15dd8c48e8626b68225c15ed17b81475f2f93f4bc2c48e6d475f6ded41035c3b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator cupido: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-hades.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "7d6eb1053b8290d01ab45e0228f4cfac097fe1fc2d17a04e9f22b4f9f63260d2",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 40,
+      "ledger_record_sha256": "298b0ec126ba7e5511011ac2f164f0fa2c2e7c51596ffa3a8cd0e354f81b5f49",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator hades: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-jupiter.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "53d8aa212267e13dcad5b8fb3a5fdcc8ccae3477f0a2fa438218a3ffab409f7b",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 41,
+      "ledger_record_sha256": "746c55a4ce6f10442cc9ef1963f0f1520ebba4d79de4b2d0e705d5c90b62a36b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator jupiter: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-kronos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "68c89930ac06549e60b8677e7035ccd9c8117bde3127fc72c10b7a4925e8fd5e",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 42,
+      "ledger_record_sha256": "d3dc85ce517b0fda7d38e5bccdc9c0654fe9245b086875fef772615867bd4d9f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator kronos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mars.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "d0e15035797e2d6d47be980da04f3a104a2a66c6d74a6f24b926cbd77dc2f9ba",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 43,
+      "ledger_record_sha256": "6d657da8642166be6b36fa7bb672c729754e87ec664f0b51c6c91d7aaf69b2a3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator mars: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "e5d7a94ce2166a86ecfebb5a25987b5d8c55daf4d28b666e449a7b15048450ee",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 44,
+      "ledger_record_sha256": "a54a3c32e5638d899bd862eb02fa091ce89f6aecfcb694e6d579e4e65682dc0e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator mc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-mercury.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "4a76b88e74d66937beeeef57119155fd02228ac62a3adb452af9dc1047e80d8b",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 45,
+      "ledger_record_sha256": "95e0ebbb3e2219957842017cc2bdfe9706183f7fca45c7e8536e1c827167856c",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator mercury: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-moon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "1e55205772f756d3f0c14e8b6094e104f71930bc3fccffd0221cc7f83057244c",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 46,
+      "ledger_record_sha256": "cac6ba8c1b48c033c55d38f848f65bc08560c5a58cfe4611721736dc53766389",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator moon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-neptune.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "3aef8546cbf36ecac480174ccbf537c45bd84c515105c4ef18dfae25ecb2bb8d",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 47,
+      "ledger_record_sha256": "b272c5dc42861f600b96b0a54108daf83484e51a26e06c77b4f739d7fcaa50ca",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator neptune: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-node.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "93a471012289bca1b0cceeae3639f037f888a5f091e683303d80f660851001b2",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 48,
+      "ledger_record_sha256": "48218027e3eb9459d7e3f12283ebd7aad03ede9fb725e6b6791e01b7c3386ced",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator node: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-pluto.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "4d24bdb2215ae29daa8935f206eeb2095233358b6751573a5cc8326c15848230",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 49,
+      "ledger_record_sha256": "2badbb7d166b49bac7a40d4354d68d69756331c955e42da4ce754dd84de73d2d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator pluto: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-saturn.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "9b146fa80481f3ab6c528da6e861e199af86450220f12bdecb874a8f693a31f0",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 50,
+      "ledger_record_sha256": "aef22b99def8d20e9b8e154dfb5d9b90abe1c7c3e1497a63f0c4a5400d7154ab",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator saturn: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-sun.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "a3fd2bc46df4b531dcdb9ee517273d6e2c6465a3fc411bec71a4c602e48cb785",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 51,
+      "ledger_record_sha256": "48bc138fc575d376ef305f69ab584444714f0cc4aa920f066ef1225e00f92d9d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator sun: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-uranus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "d4817b9ac13574662dfedbd0ab573849a809f827b3bd3175c57d9e3acfe344b0",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 52,
+      "ledger_record_sha256": "1ac440109ade1bdbff1ac3850eeba80545eed033744991defbe4e8aa14d0e414",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator uranus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-venus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "18bdbd24c902e77496ca8d6b07a6da1c15ca5e9a1574ef3bbf7a451ec62db4f9",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 53,
+      "ledger_record_sha256": "de433d26ec64b6333234c22ed739d5f186f0aaf234b72777750b210e8e3571a4",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator venus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-vernal-point.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "a120b5deb442d53e8017b3d2fd335188a965b4afb6c9d37f45a77b5295066841",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 54,
+      "ledger_record_sha256": "e03cbe844e9e10e49f22fd1648f276d6200e9b2bd1d8e27c97624ce6f6bc393f",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 316,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF316, activator vernal-point: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf316.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/poseidon-poseidon-equals-vulcanus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "e1f2d7af0cceeb5f9375e061ce33abe221f31e2a5e36066e4c7d71b9f0338595",
+      "unique_owning_ledger": "activations-063.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "216250eb4317e591698ef0d78aca30ebcf3e311638d324481d343470af977ef5",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 317,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF317, activator vulcanus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf317.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-admetos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "b26a58112bce90cab896b650685f2b27d3f1bc03d9e66b5902b5e65c4418975a",
+      "unique_owning_ledger": "activations-083.jsonl",
+      "ledger_line": 53,
+      "ledger_record_sha256": "0705535a75ae3452186def18e7f521e4f951275678c340a2f656706ef88c6fb6",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator admetos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator admetos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-apollon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c8ab47fab919c11c2683648b5b7683accca670327847847ff8cf590d487cda3a",
+      "unique_owning_ledger": "activations-083.jsonl",
+      "ledger_line": 54,
+      "ledger_record_sha256": "35b95edf3da91377e6db32105f37f66dcfc838e17c530987255e67108b91deaa",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator apollon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator apollon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-asc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "8e45f1d4a454b22f34520ac5f9301e10922b56a91e877dc4dba8c1fa8e11ac6f",
+      "unique_owning_ledger": "activations-083.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "6143ec20dd2d1ff5065d9d21eca35dc436f54e459d4568210d4525781734cfa3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator asc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator asc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-cupido.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "749f628d6f9e574a27fb44f8f83bf5ce2722f91a3533d60dd8438032964ef979",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 1,
+      "ledger_record_sha256": "188507660ff1778c3e92d11c61671cf9736c55a975155d234a628bb856ab46d3",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator cupido: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator cupido: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-hades.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "a6485dd66033b700fa388bf3f19f950203f4b978920c07f4d37c24eca8bc5f8f",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "772cb15ec18043488f2199ec531e63b19b96c354f233148c69e4bd1713764f4e",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator hades: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator hades: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-jupiter.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c977144a5a16440175201658648efc0adad93957c8ba8284818ac3c7a4691d4a",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "13281a1f1ae752857134ca786c36c9020312bb5c69687ed1a927c4e5f1cdb46b",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator jupiter: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator jupiter: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-kronos.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "6d400df1cf9aafc386fc29ede52c2ef281ab02b970e8d5d63bcf309624113ade",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "44f077d5c3c5c94027c50e853b5357b8bc7aaeda18a9ee30900cac33bc48e1e1",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator kronos: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator kronos: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-mars.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": false,
+      "final_current_sha256": "bea2c09a066f9b8c7b75b2762f3157193a71e68e1e4c0da5d05b721ccdabb26f",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 5,
+      "ledger_record_sha256": "25455e03390ae0ac4aaab9872be1f2ab45d0a01a8d5dd261a03bcfd79f225642",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator mars: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator mars: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified. Independent inherited defect repaired: Bemühungen um Macht-Erneuerung is efforts toward renewal of power, replacing emboldenment for power. Final full page and amended084 record personally reread.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-mc.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "692cac5ffab0affbe0a382f3c09709fc164391f27acff2d6eb123bcbd7f8c073",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 6,
+      "ledger_record_sha256": "dbd282ff4f439c00880a22ae1cab7ccfecadb143a00bbb6e49da7f88e20d3291",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator mc: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator mc: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-mercury.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "106c9fc761f9c9f4df5f847f80851069f203f4bf0a97132168c7a6fbedc02320",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "3f5c2415c27599fdde50c47b11d9a1616f7edd459d7f3585ec2682b4c8a40c67",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator mercury: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator mercury: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Locator-only acceptance explicitly excludes broad certification of inherited English wording.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-moon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "cde612927019936aa4c5cae25daecfde94e70a323a7f66521b0e758fd499a287",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "90b84ff922207018df657a91138271ab140d1ce16639b9c061c13744aa523bad",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator moon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator moon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-neptune.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "40fe9b90561841144b1749058456ba3bd1562c14651f5e6eadfc427a916945bb",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 9,
+      "ledger_record_sha256": "62e2bb98eb6ee764a816b07a9a4c4ce9f31f9473c63aebe74317c6a5041d19c0",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator neptune: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator neptune: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-node.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "d9bb732e416a246df02e8ea93d7a302dcae2325439d1f87c24b2a6c9b79482db",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "5ec11d75f810c2329f02ae74bc516b56bc749ea75f9b747aca90682d0a565e73",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator node: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator node: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-pluto.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "b90f3dbcd6935847e724ff512bce30c4ec760b707db3cade86bf86db7ea88737",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "6aabde2884104463e1fce6c33bf1c321ff3746c2600972465bd1434ef0eb9f7a",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator pluto: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator pluto: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-poseidon.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": false,
+      "final_current_sha256": "b21403c853bbcdc66cb092c2c952d22663503977397f28ab38296d11d5b87b18",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "81bc1b02151d07099f9b8466073407a8de5396941f468e98bc2aea9f3854738d",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator poseidon: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator poseidon: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified. Independent inherited defect repaired: mächtige Erneuerung der Kultur is powerful renewal of culture, replacing powerful emanation of culture. Final full page and amended084 record personally reread.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-saturn.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "43b29fbe6bf95d36727d985e7c629c6e0f56dc818296347ffa738b8619a010d1",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 13,
+      "ledger_record_sha256": "9e1a0f9938abf40a249095290d79ce59fcb1fa3f75251f71f9131abec1f25a53",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator saturn: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator saturn: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-sun.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c8cfef26b2c65088063ce1051fe7a615869a495e08e9163e7b424ac77f399202",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "1555868fa73611eea0c91f307dcb6706acaba428e6f04aa02493757fc9aff297",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator sun: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator sun: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-venus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "03a25413185ec3af0a6a15d3ec729e782fc9e238044b295699d07e1ce62bd306",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "8509718bbc77da1c04e222ea7ad6e7d3049ea2b3cab0739f670eb34797194482",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator venus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator venus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-vernal-point.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "3bf7fcdc3b387291d540e5dace506176dfd10f874f0e8b194fa838b06c014f46",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 16,
+      "ledger_record_sha256": "9fad09aef5cdd2bc5c22469565a4da90de5f2e30dac9c0ded511fa3799051ef4",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator vernal-point: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 386,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed386/PDF192, activator vernal-point: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    },
+    {
+      "path": "wiki/activations/uranus-vulcanus-equals-zeus.md",
+      "original_matches_candidate": true,
+      "current_matches_initial_candidate": true,
+      "final_current_sha256": "c38a385d601d4aaa2007eb810bc1605ab2734bb8adb67e346e43bde24cf7f425",
+      "unique_owning_ledger": "activations-084.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "360557011c2e7b95b75cd3408f99408e4878f423e4546be546aa8dba1fd58147",
+      "sources": [
+        {
+          "source": "Witte",
+          "delta": "source_heading_and_or_locator_only",
+          "outcome": "independently_passed",
+          "locator": {
+            "pdf_page": 242,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "Witte PDF242, activator zeus: complete own-glyph passage and adjacent boundaries directly inspected; new source heading and/or PDF locator verified. Unchanged prose remains outside this bounded heading/locator acceptance.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png"
+          ]
+        },
+        {
+          "source": "ABC",
+          "delta": "substantive_repair",
+          "outcome": "independently_passed",
+          "locator": {
+            "printed_page": 387,
+            "pdf_page": 192,
+            "granularity": "exact_own_glyph_row"
+          },
+          "decision": "ABC printed387/PDF192, activator zeus: complete actual German row and adjacent glyph boundaries personally inspected; printed folio and PDF locator directly verified. Every changed clause, added German quotation and labeled English translation compared with the scan; unrelated material and neighboring-row spill removed where changed. Unchanged inherited English wording is not newly certified.",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png"
+          ]
+        }
+      ],
+      "outcome": "accepted",
+      "unresolved_changed_claims": []
+    }
+  ],
+  "unresolved_damaged_changed_passages": []
+}

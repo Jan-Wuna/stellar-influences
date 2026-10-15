@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = Hades`
 - Astronomicon formula: `R/Z = ¢`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 Sinking of morals. Unclean persons. Deteriorating people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `191`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-Development of a people in need, poor development of the household, disadvantages by changing women, need in the people by changes, growth by feelings Kummer, growing women's crime, and changes of a woman by renunciation
+Development of a people in distress, deficient development of the emotional nature, disadvantages through a woman's change, distress among the people through changes, growth through emotional sorrow, increasing criminality among women, and transformations of a woman through renunciation
+
+## Comparative Schema
+
+- core meaning: difficult or deteriorating conditions of change, with development through sorrow or renunciation.
+- psychology: ABC names deficient emotional development and emotional sorrow.
+- body/health: no bodily or clinical condition is specified.
+- social/relationship: a people in distress and the historical association with criminality among women are examples.
+- events/manifestations: distress arising through changes and transformation through renunciation are named.
+- conflicts/notes: Witte's moral and cleanliness judgments remain historical language, not an assessment of a person's worth.
+
+## Contradictions
+
+Witte frames the range in moral decline and deterioration; ABC also allows growth through sorrow and transformation through renunciation. This broader range should not be flattened into universal corruption.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Hades`: Sinking of morals. Unclean persons. Deteriorating people.
-- Practical focus: degrades `Moon/Pluto` into moral decline, contamination, or collective deterioration. It shows emotional and public change taking on a downward cast, where corruption, decay, or coarsening becomes the dominant mode of transformation.
-- Practical expression: development of a people in need, poor development of the household, disadvantages by changing women, need in the people by changes, and growth by feelings Kummer.
+In Moon/Pluto = Hades, Hades specifies the pair through difficult development and change under distress. The [ABC entry](#abc-entry) joins collective hardship and emotional sorrow with possible growth or transformation through renunciation (printed p. 191, PDF p. 94). The [Witte entry](#witte-entry) uses a harsher historical vocabulary of moral decline and deteriorating people. Those judgments remain attributed to the source; they do not make corruption the necessary meaning of every difficult change.
 
 ## Links
 

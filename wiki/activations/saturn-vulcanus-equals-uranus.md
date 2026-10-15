@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Vulcanus = Uranus`
 - Astronomicon formula: `W/§ = X`
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-<•) To become suddenly imprisoned or dependent.
+- PDF page: `230` (entry start).
+
+To become suddenly imprisoned or dependent.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excitements about dead violence, huge technical tasks, concentration on new energies, concentrated power of technology, sudden losses through violence, problematic energy reform, technical energy problems, and surprising rhythm cancellations
+- Source page: `367`; PDF page: `182`.
+
+Excitement over disturbing violence, huge technical tasks, concentration on new energies, concentrated power of technology, sudden losses through violence, problematic energy reform, technical energy problems, and surprising disturbances of rhythm.
+
+## Comparative Schema
+
+- core meaning: Sudden dependence or disruption involving concentrated force and technical energy.
+- psychology: Excitement over disturbing force is attributed; no fuller emotional response is supplied.
+- body/health: No bodily condition is established in these entries.
+- social/relationship: Sudden imprisonment or dependence is Witte's explicit example.
+- events/manifestations: Technical tasks, energy reform problems, disturbed rhythm and sudden losses.
+- conflicts/notes: Technical disruption and imprisonment are distinct applications; neither selects the other's outcome.
+
+## Contradictions
+
+Witte gives sudden dependence; ABC adds technical and energy disruptions. These differ in setting without directly disagreeing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Uranus` brings sudden disruption into restrained power: becoming suddenly imprisoned or dependent, losses through violence, energy reform problems, technical energy problems, and abrupt cancellations of rhythm.
-- Practical expression: huge technical tasks, concentration on new energies, concentrated power of technology, and excitement around dead or violent force.
+In `Saturn/Vulcanus = Uranus`, Uranus specifies concentrated power through a sudden change of constraint: [Witte](#witte-entry) gives abrupt imprisonment or dependence. [ABC](#abc-entry) places suddenness in technical and energy settings, with new energies, problematic reform and surprising disturbances of rhythm. Sudden loss through violence is another attributed possibility. The entries share an abrupt disruption of how force operates, while leaving its scale and consequences unspecified.
 
 ## Links
 

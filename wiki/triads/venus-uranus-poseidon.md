@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Uranus Poseidon`
 - Astronomicon triad-set: `Q X ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Uranus/Poseidon = Venus](../activations/uranus-poseidon-equals-venus.md)
-- [Venus/Poseidon = Uranus](../activations/venus-poseidon-equals-uranus.md)
-- [Venus/Uranus = Poseidon](../activations/venus-uranus-equals-poseidon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Uranus/Poseidon = Venus](../activations/uranus-poseidon-equals-venus.md) | [Uranus/Poseidon](../axes/uranus-poseidon.md) | [Venus](../factors/venus.md) |
+| [Venus/Poseidon = Uranus](../activations/venus-poseidon-equals-uranus.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | [Uranus](../factors/uranus.md) |
+| [Venus/Uranus = Poseidon](../activations/venus-uranus-equals-poseidon.md) | [Venus/Uranus](../axes/venus-uranus.md) | [Poseidon](../factors/poseidon.md) |
 
 ## Source Coverage
 
-- `Uranus/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
-- `Uranus/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `388`
-- `Venus/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `297`
-- `Venus/Uranus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `179`
-- `Venus/Uranus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `277`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Uranus/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `243`.
+- `Uranus/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-poseidon-equals-venus.md#abc-entry), printed p. `388`.
+- `Venus/Poseidon = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-uranus.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-uranus.md#abc-entry), printed p. `297`.
+- `Venus/Uranus = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-uranus-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `179`.
+- `Venus/Uranus = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-uranus-equals-poseidon.md#abc-entry), printed p. `277`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Uranus`: brings sudden awakening into love, harmony, faith, and worldview: a closer understanding of religion or one's view can arrive abruptly, with surprises or excitement in spiritual matters.
-- `Venus/Uranus = Poseidon`: surprising harmony with others in the realm of spirit or world philosophy.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

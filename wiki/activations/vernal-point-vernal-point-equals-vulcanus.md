@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Vernal Point/Vernal Point](../axes/vernal-point-vernal-point.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 #### Witte Entry
 
+- PDF page: 34 (one-based).
+
 Power, might and forces in general. Extraordinary energies in general or on Earth. Energies of the earth body. Violence in the general public.
+
+## Comparative Schema
+
+- core meaning: Power and extraordinary energies in the world.
+- psychology: No distinct psychological disposition is specified.
+- body/health: “Energies of the earth body” concerns Earth in the entry, not a human medical mechanism.
+- social/relationship: Power and violence in the general public.
+- events/manifestations: Earth-related forces and extraordinary energies.
+- conflicts/notes: One source only; force need not be reduced to interpersonal violence.
+
+## Contradictions
+
+Only Witte is present. Earth-related energies and public violence are distinct examples within its broad force theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vernal Point = Vulcanus`: power, might and forces in general, extraordinary energies in general or on Earth, energies of the earth body, and violence in the general public.
+`Vernal Point/Vernal Point = Vulcanus` emphasizes power and force on a broad worldly scale. Witte connects might and extraordinary energy with Earth itself, while public violence gives a separate social manifestation. ([Witte](#witte-entry))
+
+The common theme is the presence of substantial force. The entry supplies neither a human physiological mechanism nor grounds to treat every energetic event as violence. ([Witte](#witte-entry))
 
 ## Links
 

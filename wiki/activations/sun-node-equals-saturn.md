@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = Saturn`
 - Astronomicon formula: `S/g = W`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 102, Saturn entry under Sun + Nodes.
+
 Physical separations. The connection with the public is made difficult or severed.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-serious human connection, human relationships in old age, personal problems in a relationship, day of patience in a connection, connection to an old man. lossy person relationship, and separation of a personal connection
+Source locator: printed page 141 / PDF page 69, Saturn glyph row under Sun + Node. English translation checked against the scan.
+
+Serious human connection, human relationships in old age, personal problems in a relationship, a day of patience in a connection, connection to an older man, a personal relationship marked by losses, and separation of a personal connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 105 / PDF page 107, entry 0296 under Sun/Dragon's Head.
 
 Lack of adaptability, reserve (shyness). Inhibitions with regard to other people. Disadvantages in dealings with the public, separations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 22, Saturn entry under Sun/Node.
 
 Having difficulty finding a common purpose with others, but a need to work steadily and patiently toward this. A lack of self-confidence when dealing with other people. One’s frustrations and fears are due to one’s ego being overly attached to the past.
 
@@ -70,22 +80,21 @@ The development of lasting ties to organizations which can exert influence on yo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious or restricted association, with patience and lasting ties also possible.
+- psychology: Reserve, inhibition and low self-confidence; difficulty finding common purpose and attachment to the past.
+- body/health: Witte names physical separation without specifying a health condition.
+- social/relationship: Difficult public contact, personal relationship problems and lasting or prohibited organizational ties.
+- events/manifestations: Separation, loss, contact with an older man and brief encounters with famous people.
+- conflicts/notes: Lasting organizational bonds differ from severed or restricted ties; the entries do not require isolation or relationship failure.
 
 ## Contradictions
 
-- None recorded yet.
+The difficult-contact emphasis is qualified by Sandbach's steady, patient work toward common purpose and Munkasey's lasting organizational ties. Restriction and durability are different possibilities, while separation remains one stated example.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = Saturn`: serious commitments, cautious relating, and the need to build common purpose slowly rather than assume easy belonging. Main caution: separation: shyness, inhibition, and distrust can sever ties or leave the native feeling excluded from the community.
+In `Sun/Node = Saturn`, Saturn specifies the Sun/Node pair through connections experienced as serious, difficult or restricted. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) describe impeded contact, relationship problems and possible separation; reserve and inhibition can make participation difficult. [Sandbach](#sandbach-entry) retains the need to work steadily and patiently toward a common purpose, while [Munkasey](#munkasey-entry) includes lasting organizational ties alongside prohibitions and weakened influence. The range therefore includes durable association as well as restriction or loss, without requiring isolation or a failed bond.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Cupido Zeus](../triads/venus-cupido-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Devoted artistic creation. Marital procreation.
 
@@ -42,13 +46,27 @@ Devoted artistic creation. Marital procreation.
 
 #### ABC Entry
 
-Start of a love community, peace configuration for of a community, lonesome efforts in love, harmony strikes in of a community, schopfcrische art, and preference for common achievements
+- Source page: 287; PDF page: 142 (one-based spread).
+
+Beginning of a love community, shaping peace for a community, shared efforts in love, striving for harmony in a community, creative artistic community, and preference for shared achievements
+
+## Comparative Schema
+
+- core meaning: Devoted creation and shared effort within a union or community.
+- psychology: Preference for common achievement.
+- body/health: Marital procreation is historical source doctrine without a medical mechanism.
+- social/relationship: Beginning a love community and striving for harmony together.
+- events/manifestations: Shared art and shaping peace for a community.
+- conflicts/notes: The scan reads shared, not lonesome, efforts and striving for harmony rather than strikes.
+
+## Contradictions
+
+The sources emphasize creation and union at different scales. Marital procreation is one example, not a requirement for every creative community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Cupido`: devoted artistic creation.
-- Practical expression: start of a love community, peace configuration for a community, lonesome efforts in love, harmony strikes in a community, and preference for common achievements.
+In `Venus/Zeus = Cupido`, Cupido specifies the pair through devoted creation within a union or community. The [Witte entry](#witte-entry) names artistic creation and marital procreation. The [ABC entry](#abc-entry) extends shared effort into a new love community, common achievement, and shaping peace and harmony together. The synthesis centers on collective creation without making marriage or procreation necessary for every artistic or communal expression.
 
 ## Links
 

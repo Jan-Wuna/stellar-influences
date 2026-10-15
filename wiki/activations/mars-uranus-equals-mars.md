@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Mars`
 - Astronomicon formula: `U/X = U`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -41,22 +43,21 @@ Brings additional energy and activity to areas where you are discontented or in 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Added force and urgency in discontent, disagreement, or demands for freedom.
+- Psychology: A sense of having to fight for rights regardless of cost.
+- Body/health: The entry does not establish a bodily or medical outcome.
+- Social/relationship: Disagreement with others gives added activity its immediate setting.
+- Events/manifestations: Urgent assertion of rights and increased activity in disputed areas.
+- Conflicts/notes: This repeated-factor formula has one Munkasey source; repetition supplies no independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+No inter-source comparison is possible. The entry describes urgency rather than guaranteeing that costly confrontation achieves freedom.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Mars`: Brings additional energy and activity to areas where one is discontented or in disagreement with others; feeling as if one must fight for one's rights whatever the cost; added urgency to one's demands for freedom.
+In Munkasey's single-source `Mars/Uranus = Mars`, Mars specifies abrupt assertion through added energy where dissatisfaction or disagreement already exists. Demands for freedom become urgent, and defending rights may feel necessary whatever the cost. The [Munkasey entry](#munkasey-entry) (printed p. 234) supports this intensified demand, without establishing that every confrontation is justified or that escalation secures the desired result.
 
 ## Links
 

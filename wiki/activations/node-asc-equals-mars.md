@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Mars`
 - Astronomicon formula: `g/Asc = U`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 Erotic relationships. Expressing wishes. Actions taken with acquaintances. To act together with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `104`, PDF p. `51` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Activity in connection with others, others want an encounter, establishing a par
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `301`, entry code `1087`.
+
 #### Ebertin Entry
 
 Desire to achieve something with others, a working association of people for the pursuit of the same objectives. A union based entirely on physical attraction.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `119` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The need to take chances when one acts and to let go of limited and/or restricte
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Activating and leading groups to mutual causes of fulfillment; impulsive behavio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: acting together, working toward shared aims and activating groups.
+- psychology: impulsiveness, irritation and beliefs about personal capability are stated.
+- body/health: physical attraction and erotic connection are source examples without a medical condition.
+- social/relationship: acquaintances, work associations and groups provide the social settings.
+- events/manifestations: meeting activity, workplace contact and group leadership are named.
+- conflicts/notes: specific abrupt behavior does not make every joint activity quarrelsome.
 
 ## Contradictions
 
-- None recorded yet.
+Cooperative work overlaps across Witte, ABC and Ebertin. Munkasey adds abrupt speech or irritation, while Sandbach emphasizes action and changing self-beliefs.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Mars`: energetic teamwork, decisive relating, and the ability to push personal bonds into action. Main caution: social combativeness: close contact can become quarrelsome, reactive, or too defined by conflict and pressure.
+Node/Asc = Mars emphasizes putting connections into action. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name working or acting with others toward shared objectives; [ABC](#abc-entry) adds partner mediation and workplace contact. [Munkasey](#munkasey-entry) includes leading groups, but also abrupt speech and inward irritation. [Sandbach](#sandbach-entry) adds the tension between holding an old identity and acting beyond limiting self-beliefs (PDF p. 119). These specify cooperation and possible impulsiveness without making close contact inherently combative.
 
 ## Links
 

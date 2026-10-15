@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Kronos`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = ¤`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Kronos Vulcanus](../triads/sun-kronos-vulcanus.md)
@@ -42,13 +43,29 @@ Outstanding through physical strength. To suffer through the power of the state.
 
 #### ABC Entry
 
-Appreciation of a powerful man, especially energetic man, influential self willed person, great personal power, power of personal superior, personal influence at the boss, superiority by body power, and center of state power
+Source locator: printed page 171 / PDF page 84, Kronos glyph under Sonne + Vulkanus. English translation checked against the complete row.
+
+Reputation of a powerful person, particularly energetic person, influential independent person, great personal power, power of one's personal superior, personal influence with the boss, superiority through bodily strength, and center of state power.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength becomes conspicuous in relation to authority.
+- psychology: ABC names personal energy and power.
+- body/health: Physical strength is explicit, without a disease claim.
+- social/relationship: Superiors and the power of the state are central.
+- events/manifestations: Standing out through strength or suffering under state power are Witte's alternatives.
+- conflicts/notes: Possessing power and being subject to it must remain distinct.
+
+## Contradictions
+
+Possessing power and being subject to it must remain distinct. ABC's independent person is a separate description from its personal superior and state-power center.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Kronos`: strong authority and forceful rule.
-- Practical expression: appreciation of a powerful man, especially energetic man, influential self willed person, great personal power, and power of personal superior.
+Kronos specifies Sun/Vulcanus through the encounter between personal strength and authority. One may stand out through strength or exercise influence with a superior; Witte also allows suffering through the state's power. The interpretation therefore includes both prominence and subjection, rather than assuming command. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

@@ -11,6 +11,8 @@ normalized_axis: Moon/Jupiter
 factor_a: Moon
 factor_b: Jupiter
 related_activations:
+  - Moon/Jupiter = Jupiter
+  - Moon/Jupiter = Moon
   - Moon/Jupiter = Admetos
   - Moon/Jupiter = Apollon
   - Moon/Jupiter = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/JUPITER`
-- Source page: `115`
+- Source heading: `MOON + JUPITER`
+- PDF page: `125`
 
 #### Pair Summary
 
@@ -88,11 +92,19 @@ Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `182`; PDF page: `90` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Successful woman, successful people, financial woman, women's rights, a feeling of happiness, happy woman, happy hour, a mother's happiness, the rights of the people, a feeling for justice, and the joy of the people
+German pair summary (transcribed from printed page `182`; PDF page `90`):
+
+> Erfolgreiche Frau, erfolgreiches Volk, Finanz-Frau, Frauen-Recht, Glücks-Gefühl, glückliche Frau, glückliche Stunde, Mutter-Glück, Rechte des Volkes, Rechts-Gefühl, Volks-Freude, Volks-Recht
+
+Editorial translation from the German passage: Successful woman, successful people, woman in finance, women's rights, feeling of happiness, happy woman, happy hour, mother's happiness, rights of the people, sense of justice, joy of the people, people's law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `122`; PDF page: `124` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -112,7 +124,7 @@ Successful, generous or happy women, a cheerful nation and people, successful en
 
 #### Probable Manifestations
 
-+ Social successes, carrying out enterprises on a large scale, attainment of material advantages, contacts with foreign countries. - Religious or legal conflict, marital differences, disadvantages through squandering or wastefulness. Moon Jupiter D/^
++ Social successes, carrying out enterprises on a large scale, attainment of material advantages, contacts with foreign countries. - Religious or legal conflict, marital differences, disadvantages through squandering or wastefulness.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -180,9 +192,11 @@ Accepting and learning from all one’s emotions. Reaching out to others on a fe
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page: `203` (complete Moon/Jupiter paragraph checked against scan).
+
 #### Pair Delineation
 
-Feelings of protection, warmth, and nurture. Generosity. In a man's chart, positive emotional relations with women. Emotions operating on a religious or spiritual plane. Expression of emotions as a positive flow 7 reaching out to others.
+Feelings of protection, warmth, and nurture. Generosity. In a man's chart, positive emotional relations with women. Emotions operating on a religious or spiritual plane. Expression of emotions as a positive flow reaching out to others.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -219,7 +233,7 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Jupiter: Wealth of Emotion`
-- PDF page(s): `294`
+- PDF page(s): `294–295` (complete pair entry checked against scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -227,19 +241,22 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 - shadow: The Arrogant Lady and the Condescending Man
 - comparison: Simplicity Dignity Instinct Wisdom Emotional values Ethical values Search for a feeling of security Search for meaning Physical nourishment Intellectual nourishment Fertility Growth
 - general: Holy , happy , noble , rich feelings . Happy everyday life . Desire to travel . The happy woman .
-- harmony: The Kind-Hearted Individual. Confident feelings and deep self-assurance. Likeable, winning, benevolent, lovable nature. Generous, convivial, epicurean. High spirits. Able to trust others. Great wealth of emotion. Deep respect for everything that is motherly and feminine. Enthusiasm for high ideals, noble convictions, and feelings that impart meaning.
+- harmony: The Kind-Hearted Individual. Confident feelings and deep self-assurance. Likeable, winning, benevolent, lovable nature. Generous, convivial, epicurean. High spirits. Able to trust others. Great wealth of emotion. Deep respect for everything that is motherly and feminine. Enthusiasm for high ideals, noble convictions, and feelings that impart meaning. Skillful hand in everyday matters.
 - discord: The Pampered Person. Considerable insincerity toward oneself. Courts applause and cheap flattery that supports overestimation of the self. Great plans that are never carried out. Spoiled mother's darling, feigned nonchalance toward life, emotional exaggerations. Lazy, indolent, comfort- loving, but also arrogant and demanding.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: expansive feeling, generosity, protection, happiness, and the search for emotional meaning through faith, learning, or a sense of justice.
+- psychology: optimism and emotional resilience range into inflated reactions, self-importance, indulgence, or uncertainty about beliefs and judgment.
+- body/health: Ebertin associates the pair with digestive secretions; Carter and Munkasey discuss liver function, overeating, and other bodily conditions. These are attributed historical correspondences, not medical conclusions.
+- social/relationship: helpfulness, family protection, shared humor, and conviviality coexist with overprotection or difficulty committing; older entries assign happiness and success specifically to women and peoples.
+- events/manifestations: social or material opportunities, foreign contacts, education, and religious or legal concerns recur; Witte and Udo also name public rights and justice, while Munkasey extends the pair to agriculture and land policy.
+- conflicts/notes: Carter's aspect-specific family and foreign-residence claims remain conditional and historical. Verified source repairs retain generosity and excess as alternatives.
 
 ## Related Activations
+
+- [Moon/Jupiter = Jupiter](../activations/moon-jupiter-equals-jupiter.md)
+- [Moon/Jupiter = Moon](../activations/moon-jupiter-equals-moon.md)
 
 - [Moon/Jupiter = Admetos](../activations/moon-jupiter-equals-admetos.md)
 - [Moon/Jupiter = Apollon](../activations/moon-jupiter-equals-apollon.md)
@@ -265,15 +282,16 @@ Fluid retention; increased sensitivity to drugs or allergens; raises fertility c
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Carter explicitly distinguishes favorable foreign circumstances from the possibility of conflict or enforced residence abroad under inharmonious aspects; the pair alone does not decide between them. Generosity and wastefulness likewise remain a supported range, not a contradiction to resolve by deletion.
+- Ebertin's falsely merged next heading and Hand's stray OCR 7 have been removed from the actual scans. Carter's criminal examples and gendered marriage claims remain historical assertions.
+- ABC's complete twelve-clause bold summary is restored from printed182/PDF90. Banzhaf's full pair entry spans PDF294–295, including the restored final harmony sentence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Jupiter` is the axis of expansive feeling, emotional generosity, kindness, protection, faith, and the need to experience life as warm, meaningful, and hopeful. It enlarges the Moon's feeling-nature through optimism, belief, social conscience, and the wish to nourish broadly.
-- Chart expression: benevolence, popularity, good humor, hospitality, emotional resilience, family or social abundance, and feeling supported by life. Its excess side is equally important: overreaction, indulgence, sentimentality, waste, overprotection, and moods that become too large to hold proportionately.
+`Moon/Jupiter` describes feeling that seeks room to grow and something generous to trust. Warmth, humor, benevolence, and protection make emotional life richer, while learning, travel, spiritual questions, or a sense of fairness can give it meaning. The same breadth can make impressions overwhelming or responses disproportionate: optimism may become indulgence, overprotection, or certainty that outruns judgment. The shared theme is emotional abundance, whose value depends on how it is received and expressed ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+
+This abundance also has a social reach: enjoying family and company, helping others, and wanting protection or justice for a wider community. Public rights, legal and religious questions, and opportunities abroad remain distinct applications of that reach; they do not guarantee wealth, happiness, or a successful journey. Relationship enthusiasm can coexist with vacillation about commitment, just as generous plans can exceed practical follow-through ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Carter](#charles-carter---the-astrological-aspects), [Munkasey, printed p. 115](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets), [Banzhaf/Haebler, PDF p. 294](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)). These are pair themes; a named factor after `Moon/Jupiter =` requires its own activation entry.
 
 ## Links
 

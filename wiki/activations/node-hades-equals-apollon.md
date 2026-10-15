@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node Hades Apollon](../triads/node-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be connected with many through evil things. Many vexations, disagreeableness.
 
 Extensive secret connections, relationship to trade crime, experience from past connection, successful connection in need, dangerous trade connection, poor contact experience, and lots of criminality in connections
 
+## Comparative Schema
+
+- core meaning: Many or extended connections involving difficulty, secrecy, trade, or the past.
+- psychology: Vexation and disagreeableness are stated experiences.
+- body/health: No bodily or health condition is supplied.
+- social/relationship: Extensive secret connections or a historical-science society.
+- events/manifestations: Difficult trade contacts, successful connection in need, and experience from earlier ties.
+- conflicts/notes: Criminal-trade examples remain attributed and do not characterize all networks.
+
+## Contradictions
+
+The historical-science society is a distinct non-criminal example beside the adverse ones. ABC's success in need also prevents a uniformly harmful reading.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Apollon`: To be connected with many through evil things. Many vexations, disagreeableness. Society for historical science.
-- Practical focus: to be connected with many through evil things; also many vexations, disagreeableness.
+Apollon specifies Node/Hades through an extended field of contacts shaped by difficulty or the past. The [Witte entry](#witte-entry) combines many vexing connections with the unusual example of a historical-science society. The [ABC entry](#abc-entry) adds extensive secret ties, trade-related dangers, experience from earlier relations, and a successful connection in need. These examples retain both troublesome networks and useful ties formed under difficult conditions.
 
 ## Links
 

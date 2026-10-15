@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Encourages you to be more determined and forceful in any competitive roles; deve
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal determination sustained despite poor odds.
+- psychology: Inner force to continue a competitive undertaking.
+- body/health: No distinct body or health claim is stated.
+- social/relationship: Competitive roles are the sole social setting.
+- events/manifestations: Persisting when success or completion seems unlikely.
+- conflicts/notes: Persistence does not establish eventual success.
 
 ## Contradictions
 
-- None recorded yet.
+One Munkasey entry is present, so cross-source contradiction cannot be assessed. Determination is asserted, while successful completion is not.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Sun`: Encourages one to be more determined and forceful in any competitive roles; developing an inner power to press on with activity and actions even when one's overall odds for success or completion are low or diminished.
+In `Sun/Mars = Sun`, Sun specifies the Sun/Mars activity theme through personally sustained determination. The [Munkasey Entry](#munkasey-entry) describes pressing on in a competitive role even when the chances of success or completion are diminished. This repeated-pair activation emphasizes the resolve to continue an undertaking; it does not promise that persistence will overcome the odds.
 
 ## Links
 

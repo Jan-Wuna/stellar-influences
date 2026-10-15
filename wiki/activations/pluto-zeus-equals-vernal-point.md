@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Vernal Point`
 - Astronomicon formula: `Z/£ = VP`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 General eagerness to produce. Problems everyone has to face.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful changes in the public life, changes in the public life, changes in the performance of the public life, and changes in the creative development of the public
+- Source page: 412 (printed); PDF page: 205.
+
+Demanding changes in public life, developing achievements in public, changes of performance in public life, public change of leadership, creative developments in public.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Productive effort and development in the public or general setting.
+- Psychology: General eagerness to produce.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Problems faced by everyone and changes in public leadership.
+- Events/manifestations: Developing public achievements and creative public developments.
+- Conflicts/notes: Witte's shared problems and ABC's public achievements are distinct emphases.
+
+## Contradictions
+
+Witte's shared problems and ABC's public achievements are distinct emphases.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Vernal Point`: general eagerness to produce; Problems everyone has to face.
-- Practical expression: effortful changes in the public life, changes in the public life, changes in the performance of the public life, and changes in the creative development of the public.
+In `Pluto/Zeus = Vernal Point`, Vernal Point specifies the pair through productive effort in the general or public setting. The [Witte entry](#witte-entry) names eagerness to produce alongside problems everyone faces; the [ABC entry](#abc-entry) adds public achievements, changing performance, leadership change, and public creativity. The public scale does not itself decide whether a particular undertaking succeeds.
 
 ## Links
 

@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Asc`
 - Astronomicon formula: `¥/¥ = Asc`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 304, Asc row. The awkward phrase “Matters that are take place” is printed in the source.
+
 Equalization of others. Many acquaintances. To have customers. Acquaintance with representatives of commerce, trade and science. Matters that are take place far away or come from a distant location. To get to know many places. Interests that are spreading out into new areas. For the merchant, a growing customer base and the sale of merchandise.
+
+## Comparative Schema
+
+- core meaning: Wide social, commercial, and geographical reach.
+- psychology: Interests spreading into new areas; no fixed personality style is defined.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Many acquaintances, customers, and contacts in commerce, trade, or science.
+- events/manifestations: Distant matters, acquaintance with many places, a growing customer base, and sales.
+- conflicts/notes: The source's equalization of others is unexplained; expansion does not establish loss of depth or identity.
+
+## Contradictions
+
+No incompatible claim is established within this single entry. Social reach, distant matters, and commercial growth are separate expressions, not guaranteed to occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Asc`: social and commercial reach, travel or distant ties, and a personal style suited to broad networks, trade, or science. Main caution: dispersion: so many openings and acquaintances can spread identity thin or replace depth with constant extension.
+In `Apollon/Apollon = Asc`, Asc specifies the repeated pair through contact with many people and places. The [Witte entry](#witte-entry) connects acquaintances in commerce, trade, or science with distant matters and interests reaching new areas. For a merchant, that reach becomes a growing customer base and merchandise sales; the common feature is expanding contact rather than a prescribed personality style.
 
 ## Links
 

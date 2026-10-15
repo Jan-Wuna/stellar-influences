@@ -28,27 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Node Zeus`
 - Astronomicon triad-set: `Z g £`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Node/Zeus = Pluto](../activations/node-zeus-equals-pluto.md)
-- [Pluto/Node = Zeus](../activations/pluto-node-equals-zeus.md)
-- [Pluto/Zeus = Node](../activations/pluto-zeus-equals-node.md)
+- [Node/Zeus = Pluto](../activations/node-zeus-equals-pluto.md) — base axis [Node/Zeus](../axes/node-zeus.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Node = Zeus](../activations/pluto-node-equals-zeus.md) — base axis [Pluto/Node](../axes/pluto-node.md); activator [Zeus](../factors/zeus.md).
+- [Pluto/Zeus = Node](../activations/pluto-zeus-equals-node.md) — base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Node](../factors/node.md).
 
 ## Source Coverage
 
-- `Node/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `229`
-- `Pluto/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `223`
-- `Pluto/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `412`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Node/Zeus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-zeus-equals-pluto.md#witte-entry), one-based PDF p. `151` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/node-zeus-equals-pluto.md#abc-entry), printed p. `229` (PDF p. `113`).
+- `Pluto/Node = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-node-equals-zeus.md#witte-entry), one-based PDF p. `148` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-node-equals-zeus.md#abc-entry), printed p. `223` (PDF p. `110`).
+- `Pluto/Zeus = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-node.md#witte-entry), one-based PDF p. `259` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-node.md#abc-entry), printed p. `412` (PDF p. `205`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Pluto`: Several people increase their accomplishments. To quarrel about superiority.
-- `Pluto/Node = Zeus`: This activation emphasizes work, initiative or obligation begins through new connections.
-- `Pluto/Zeus = Node`: This activation emphasizes to begin, to start work, to tackle a problem.
+Use this hub to select an orientation of the unordered set `Pluto Node Zeus`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

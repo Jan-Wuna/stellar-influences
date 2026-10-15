@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Venus Node Cupido](../triads/venus-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Starting a love affair which leads to marriage.
 
 Joy in a common relationship, peace mediation of a community, harmonious connections in of a community, harmonious development of the arts, preference for connections to the arts, and connection to beauty through the arts
 
+## Comparative Schema
+
+- core meaning: Pleasure and harmony in a shared relationship or artistic connection.
+- psychology: Joy in companionship and preference for artistic links.
+- body/health: No bodily or health condition is described.
+- social/relationship: A love affair leading to marriage in Witte; harmonious community relations in ABC.
+- events/manifestations: Peace mediation and artistic development.
+- conflicts/notes: Witte's marriage example is specific; ABC's scope also includes art and community.
+
+## Contradictions
+
+The examples are compatible but do not mean that every harmonious artistic or communal tie becomes a marriage.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Venus`: Starting a love affair which leads to marriage.
-- Practical focus: starting a love affair which leads to marriage.
+Venus specifies Node/Cupido through the pleasure and harmony of a shared bond. The [Witte entry](#witte-entry) gives the beginning of a love affair that leads to marriage. The [ABC entry](#abc-entry) widens the theme to peaceful community relations, artistic development, and beauty through art. This joins affection and shared enjoyment without turning the marriage example into a universal outcome.
 
 ## Links
 

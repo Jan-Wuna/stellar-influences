@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Asc/Admetos = Vernal Point`
 - Astronomicon formula: `Asc/¦ = VP`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 96, Vernal Point row.
+
 In general the place where one stays. The general relation and attitude toward that place. Feeling of inferiority in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Reference: printed p. 132 (one-based PDF p. 65), Vernal Point row. The following first-person paragraph belongs to MC and is excluded here.
+
+Blocked public surroundings, depressions in the public surroundings, restrictions imposed by others in public life, consolidation of the public surroundings, a thorough partner in public life, and public congestion at the location.
+
+## Comparative Schema
+
+- Core meaning: The general relation to a place, with public surroundings that may consolidate or become blocked or restricted.
+- Psychology: Witte names a feeling of inferiority in public; ABC names depressions in the public surroundings.
+- Body/health: No specific bodily condition or diagnosis is stated.
+- Social/relationship: Restrictions by others in public life and a thorough partner in public life.
+- Events/manifestations: Public blockades, consolidation of public surroundings, and local public congestion.
+- Conflicts/notes: The restored six-clause ABC row excludes the neighboring MC paragraph. Public inferiority is a stated feeling, not proof of actual inferiority.
+
+## Contradictions
+
+Consolidation, thorough partnership, and restrictions are different possibilities. The entries do not establish that a personal feeling spreads into a collective public mood or specify conditions selecting an outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Vernal Point`: public attitudes about territory, locality, and the social meaning of where one is based. Main caution: generalized diminishment: the feeling of being limited or lesser can spread from the personal environment into the wider public mood.
+In `Asc/Admetos = Vernal Point`, Vernal Point specifies the pair through one's general relation and attitude toward a place and its public surroundings. ABC makes the public setting concrete in restrictions imposed by others, blockades, and congestion, while retaining consolidated surroundings and a thorough partner in public life. Witte's public inferiority feeling remains one attributed expression, without a claim that it spreads to everyone around the person. ([Witte entry](#witte-entry), [ABC entry](#abc-entry))
 
 ## Links
 

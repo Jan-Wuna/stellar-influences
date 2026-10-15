@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Venus Vulcanus`
 - Astronomicon triad-set: `T Q §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
-- [Mercury/Vulcanus = Venus](../activations/mercury-vulcanus-equals-venus.md)
-- [Venus/Vulcanus = Mercury](../activations/venus-vulcanus-equals-mercury.md)
+- [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md): base axis [Mercury/Venus](../axes/mercury-venus.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Mercury/Vulcanus = Venus](../activations/mercury-vulcanus-equals-venus.md): base axis [Mercury/Vulcanus](../axes/mercury-vulcanus.md); activator [Venus](../factors/venus.md).
+- [Venus/Vulcanus = Mercury](../activations/venus-vulcanus-equals-mercury.md): base axis [Venus/Vulcanus](../axes/venus-vulcanus.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Venus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
-- `Mercury/Venus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `241`
-- `Mercury/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `172`
-- `Mercury/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `266`
-- `Venus/Vulcanus = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `294`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md#witte-entry) (PDF entry-start p. 159); [Mercury/Vulcanus = Venus](../activations/mercury-vulcanus-equals-venus.md#witte-entry) (PDF entry-start p. 172); [Venus/Vulcanus = Mercury](../activations/venus-vulcanus-equals-mercury.md#witte-entry) (PDF entry-start p. 188).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md#abc-entry) (printed p. 241); [Mercury/Vulcanus = Venus](../activations/mercury-vulcanus-equals-venus.md#abc-entry) (printed p. 266); [Venus/Vulcanus = Mercury](../activations/venus-vulcanus-equals-mercury.md#abc-entry) (printed p. 294).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Venus = Vulcanus`: New fast friends, well received. Favored by friends. Polite greeting.
-- `Mercury/Vulcanus = Venus`: New acquaintances through powerful thoughts. New acquaintances who become important. To think intensively of new acquaintances.
-- `Venus/Vulcanus = Mercury`: mighty longing for exchange of thoughts with friends and acquaintances.
+Mercury, Venus and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Venus](../axes/mercury-venus.md)
+- [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
+- [Venus/Vulcanus](../axes/venus-vulcanus.md)
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)

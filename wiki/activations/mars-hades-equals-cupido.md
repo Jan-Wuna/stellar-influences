@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Cupido Hades](../triads/mars-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ Activity with others in socially low surroundings. Meeting of lowbrow people. De
 
 #### ABC Entry
 
-Community action in need, dangerous action of a community, common secret activity, common will abuse, defective Community will, criminal work of a community, and waiver of joint work
+Actions of a community in need, dangerous actions of a community, shared secret activity, a shared renunciation of will, deficient community will, criminal work of a community, and renunciation of shared work.
+
+- Source reference: printed p. 311, PDF p. 154, Cupido row; `gemeinsamer Willens-Verzicht` is shared renunciation of will, not will abuse.
+
+## Comparative Schema
+
+- core meaning: Shared activity occurs amid need, danger, secrecy or withdrawal.
+- psychology: Deficient shared will and renunciation are ABC themes.
+- body/health: Witte includes death and murder as historical source examples, not predicted outcomes.
+- social/relationship: Community activity and loss of a husband are explicit; class labels remain attributed.
+- events/manifestations: Secret or criminal group work and giving up shared work are named.
+- conflicts/notes: The entries do not establish that family or community always fails to protect its members.
+
+## Contradictions
+
+Witte emphasizes social settings and fatal events; ABC adds need, secret work and renunciation. These distinct examples do not establish one necessary fate for a community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Cupido`: group life corrupted by hardship, grim company, or fatal events, with community and family no longer protective but implicated in sorrow.
+Cupido specifies the Mars/Hades axis through group activity under difficult conditions. [ABC](#abc-entry) names a community in need, dangerous or secret shared work and renunciation of joint activity. [Witte](#witte-entry) adds social gatherings and severe examples involving death or murder, using historical class-based descriptions. These remain attributed manifestations within a difficult collective setting; they do not establish a universal loss of protection in family or community life.
+
+Evidence: Witte PDF p. 198; ABC printed p. 311, PDF p. 154.
 
 ## Links
 

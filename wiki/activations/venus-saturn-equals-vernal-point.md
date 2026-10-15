@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Vernal Point Venus Saturn](../triads/vernal-point-venus-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 Separation of love. Divorces in general.
 
@@ -42,13 +46,27 @@ Separation of love. Divorces in general.
 
 #### ABC Entry
 
-serious arts in the public sphere, harmony in the evening in the public sphere, harmony problems in public life, problcmatic arts in the public sphere, disturbances of peace in the public sphere, and preference for the public sphere tasks
+- Source page: 274; PDF page: 136 (one-based spread).
+
+Serious art in public, harmony in public in the evening, harmony problems in public life, problematic art in public, disturbances of peace in public, and preference for public tasks
+
+## Comparative Schema
+
+- core meaning: Separation or problems of harmony in a general or public setting.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Separation of love and divorces in general.
+- events/manifestations: Public artistic tasks, evening harmony, and disturbances of peace.
+- conflicts/notes: ABC's public setting does not establish that every public artistic task concerns divorce.
+
+## Contradictions
+
+Evening harmony and public harmony problems are separate listed possibilities. Witte's general divorce example is not the whole of ABC's public cultural setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Vernal Point`: separation of love.
-- Practical expression: serious arts in the public sphere, harmony in the evening in the public sphere, harmony problems in public life, problcmatic arts in the public sphere, and disturbances of peace in the public sphere.
+In `Venus/Saturn = Vernal Point`, Vernal Point specifies the pair in a general or public setting. The [Witte entry](#witte-entry) names separation and divorces in general. The [ABC entry](#abc-entry) adds public harmony problems, disturbances of peace, and serious or problematic art, while also allowing evening harmony and a preference for public tasks. This places limits and efforts toward harmony in public life without making divorce the meaning of every listed activity.
 
 ## Links
 

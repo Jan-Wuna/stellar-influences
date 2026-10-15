@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Mars](../triads/vernal-point-sun-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Time of the body’s maximum strength. Acting bodies. Active people.
 
@@ -42,13 +46,27 @@ Time of the body’s maximum strength. Acting bodies. Active people.
 
 #### ABC Entry
 
-Man's world of work, man's people in public, personal creation in public, day of work in public, effective people of public life, and center for public work
+- Source page: 22; PDF page: 10 (one-based spread).
+
+A man's working world, male persons in public, personal creation in public, a public day of work, energetic public figures, and a center for public relations work
+
+## Comparative Schema
+
+- core meaning: Public personal life expressed through bodily strength, activity, and work.
+- psychology: No distinct psychological claim is supplied.
+- body/health: Witte names maximum bodily strength as a source association.
+- social/relationship: Active people and male public persons are examples.
+- events/manifestations: Personal creation, working life, and public relations centers.
+- conflicts/notes: Maximum strength is source wording without a measurement or timing method.
+
+## Contradictions
+
+No direct contradiction is established. Gendered examples and public work are specific settings within broader bodily activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Mars`: time of the body’s maximum strength, acting bodies, and active people.
-- Practical expression: man's world of work, man's people in public, personal creation in public, day of work in public, and effective people of public life.
+In `Vernal Point/Sun = Mars`, public personal life becomes active and productive. The [Witte entry](#witte-entry) emphasizes bodily strength and people in action. The restored [ABC entry](#abc-entry) develops working life, personal creation, energetic public figures, and a center for public relations work. The common focus is bodily and personal capacity expressed in public activity.
 
 ## Links
 

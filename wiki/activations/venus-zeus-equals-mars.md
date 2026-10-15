@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Mars Zeus](../triads/venus-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Close harmonious cooperation. Burning love. Coition.
 
@@ -42,13 +46,27 @@ Close harmonious cooperation. Burning love. Coition.
 
 #### ABC Entry
 
-Start peace work, aspire to work peace, fiery love actions, harmony strife in work, Harrnonian leadership activity, creative arts work, preference for work performance, and procreational empathy in love
+- Source page: 286; PDF page: 142 (one-based spread).
+
+Beginning peace work, striving for peace at work, fiery actions in love, striving for harmony at work, harmonious leadership activity, creative artistic work, preference for work achievement, and procreative efforts in love
+
+## Comparative Schema
+
+- core meaning: Active devoted cooperation, artistic work, and passionate love.
+- psychology: Preference for work achievement; no broader inner disposition is supplied.
+- body/health: Coition and procreative efforts are stated without a medical mechanism.
+- social/relationship: Close harmonious cooperation and burning love.
+- events/manifestations: Peace work, harmonious leadership, and creative artistic labor.
+- conflicts/notes: Streben means striving, not strife; Bemuhungen means efforts, not empathy.
+
+## Contradictions
+
+The entries share active creation and cooperation without an explicit disagreement. Their harmony is stated as a possibility rather than a guarantee for every undertaking.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Mars`: close harmonious cooperation.
-- Practical expression: start peace work, aspire to work peace, fiery love actions, harmony strife in work, and harrnonian leadership activity.
+In `Venus/Zeus = Mars`, Mars specifies the pair through direct, devoted action. The [Witte entry](#witte-entry) joins close harmonious cooperation to burning love and coition. The [ABC entry](#abc-entry) places that activity in peace work, shared workplace harmony, leadership, and creative art, retaining procreative effort as another example. The unifying theme is effort directed into love or creation, with the sexual statements kept as the source's specific bodily application.
 
 ## Links
 

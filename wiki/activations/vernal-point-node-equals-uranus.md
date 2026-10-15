@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Uranus Node](../triads/vernal-point-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Gatherings. Sudden meetings. Excitement with or through many people.
 
@@ -42,13 +46,27 @@ Gatherings. Sudden meetings. Excitement with or through many people.
 
 #### ABC Entry
 
-Encouraging links in the public sphere, relations with official entities, new meetings in the public sphere, life, sudden links in the public sphere, reformFunctions in the public sphere, and communication with the public
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Exciting public connections, relationships with public events, new encounters in public life, sudden public connections, reform connections in public life, and links with public events
+
+## Comparative Schema
+
+- core meaning: Public connections formed suddenly or through events and reform.
+- psychology: Excitement with or through many is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Gatherings, new encounters, and sudden links.
+- events/manifestations: Association with public events or reform.
+- conflicts/notes: Exciting replaces encouraging; public events replace erroneous official entities.
+
+## Contradictions
+
+No direct contradiction is established. Excitement is not automatically favorable, and a sudden connection need not be permanent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Uranus`: gatherings, sudden meetings, and excitement with or through many people.
-- Practical expression: encouraging links in the public sphere, relations with official entities, new meetings in the public sphere, life, and sudden links in the public sphere.
+In `Vernal Point/Node = Uranus`, public association becomes sudden and eventful. The [Witte entry](#witte-entry) names gatherings, unexpected meetings, and excitement through many people. The restored [ABC entry](#abc-entry) adds new connections linked to public events and reform. The coherent theme is an encounter or association animated by change, without assigning it a fixed duration or outcome.
 
 ## Links
 

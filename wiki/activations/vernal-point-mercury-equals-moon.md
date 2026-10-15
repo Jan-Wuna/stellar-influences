@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Moon Mercury](../triads/vernal-point-moon-mercury.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 The current public opinion. Instability of public opinion.
 
@@ -42,13 +46,27 @@ The current public opinion. Instability of public opinion.
 
 #### ABC Entry
 
-Women in public Traffic, opinion of women in public, voice emphasised speech in public Life, sensitive youth in public, young women in public, and public opinion of the people
+- Source page: 28; PDF page: 13 (one-based spread).
+
+Women in public transport, women's public opinions, emotionally emphasized conversations in public life, feelingful youth in public, young women in public, a people's public opinion, and public news about mothers
+
+## Comparative Schema
+
+- core meaning: Public opinion expressed as current, changeable, and emotionally colored.
+- psychology: Instability of opinion and emotional conversations are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Women's views, young women, youth, and a people's opinion.
+- events/manifestations: Public transport and news about mothers.
+- conflicts/notes: Gendered examples are attributed doctrine; emotional speech replaces the voice-emphasis error.
+
+## Contradictions
+
+No direct contradiction is established. Current collective opinion is broader than the specific gendered and transport examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Moon`: the current public opinion and instability of public opinion.
-- Practical expression: women in public Traffic, opinion of women in public, voice emphasised speech in public Life, sensitive youth in public, and young women in public.
+In `Vernal Point/Mercury = Moon`, public thought is current and emotionally responsive. The [Witte entry](#witte-entry) emphasizes the present state and instability of public opinion. The restored [ABC entry](#abc-entry) adds emotional conversations, youth, a people's views, and news about mothers, with women and transport as attributed examples. The connected emphasis is a changing public voice shaped by feeling.
 
 ## Links
 

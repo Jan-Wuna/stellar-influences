@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Cupido](../triads/venus-jupiter-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Love’s happiness in marital life. Much luck and happiness through a union (ass
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `273`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Success of a harmonious community, peace success of a community, common love for money, common love for justice, common artificial success, harmonious legal community, and synthesis between money and artist
+Success of a harmonious community, peace successes of a community, shared love of money, shared love of justice, shared artistic success, a harmonious legal community, and a synthesis of money and art.
+
+## Comparative Schema
+
+- Core meaning: Shared happiness in a family, marriage, association, or harmonious community.
+- Psychology: Joy in common interests involving affection, money, justice, and art.
+- Body/health: Neither activation entry specifies a body or health implication.
+- Social/relationship: Marital and family happiness; good fortune through a union or association.
+- Events/manifestations: Collective peace efforts, shared artistic success, and a synthesis of money and art.
+- Conflicts/notes: The source's communal happiness does not establish that every association is harmonious.
+
+## Contradictions
+
+- The source's communal happiness does not establish that every association is harmonious.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Jupiter = Cupido`: love’s happiness in marital life.
-- Practical expression: success of a harmonious community, peace success of a community, common love for money, common love for justice, and common artificial success.
+`Venus/Jupiter = Cupido` places happiness in belonging and in pursuits shared with others. [Witte](#witte-entry) names marriage, family, and associations as settings for affection and good fortune. The [ABC entry](#abc-entry) enlarges this communal meaning through shared love of money and justice, artistic success, and a synthesis of money and art. Its distinctive emphasis is on enjoyment and achievement held in common, including the peaceful or legal organization of a community; these are possible expressions of the formula, rather than an assurance about any particular union.
 
 ## Links
 

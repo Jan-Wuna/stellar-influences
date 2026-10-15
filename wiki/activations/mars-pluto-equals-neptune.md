@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Neptune Pluto](../triads/mars-neptune-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Secret plans. Plans which are not carried out. Plans aiming at destruction.
 
@@ -45,17 +49,23 @@ Secret plans. Plans which are not carried out. Plans aiming at destruction.
 
 #### ABC Entry
 
-Developing activities in metaphysics, exchanging work changes, developing work for the future, developing work in air or water, creating air change, weak will development, and insecurity through changing work see above
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing activities in metaphysics, disappointing change of work, development work for the future, development work in air or water, bringing about a change of air, weak unfolding of the will, and uncertainty through changing work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214 (PDF p. 216), entry 0742.
 
 Irreconcilable or implacable, cunning and deceitful, tendency to cause harm to others secretly and unobtrusively, (a disaster or catastrophe caused by water).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
 
 The ability to dominate others in a subtle or hidden way. Hard work saps one’s energy. To be willing to do anything to fulfill one’s ideals.
 
@@ -70,22 +80,21 @@ Illusions about what the use of power can do for you; deception by others in the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Hidden, uncertain, or unfulfilled plans and development shaped by subtle influence.
+- psychology: Illusions about power, weak will, intense ideals, and romantic or sexual fantasies.
+- body/health: Sandbach names energy drained by hard work; Munkasey names drug-induced delusions as source claims.
+- social/relationship: Subtle domination, deception by others, and covert harm in particular entries.
+- events/manifestations: Secret or unrealized plans, changing work, air/water development, and metaphysical activity.
+- conflicts/notes: ABC's future and metaphysical development is broader than covert harm; a change of air does not establish pollution.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize destructive or unfulfilled plans; ABC also retains future development, while Sandbach combines hidden domination with demanding ideals. The entries do not assign one motive to every hidden activity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Neptune`: strategic secrecy, hidden operations, and the will to keep pushing even when energy is being drained by subtle or unclear factors. Main caution: concealed destructiveness: control can become deceit, covert harm, or exhausting effort poured into plans that should not be trusted.
+In `Mars/Pluto = Neptune`, Neptune specifies developing action and plans through concealment, uncertainty, or subtle influence. Witte names secret or unrealized plans, Ebertin covert harm, and Sandbach hidden domination and effort that drains energy. Munkasey adds illusions about power and weak will toward unpleasant tasks. ABC also includes metaphysical, future, air, and water development alongside disappointing work changes, so the range extends beyond destructive intent. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0742; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

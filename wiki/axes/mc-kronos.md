@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `73`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ To be independent or outstanding in profession. To direct and accomplish somethi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `90`; PDF page: `44` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Special soul, great scele, dominance of the inner being, I as boss, my reputation, my state, my authority, my boss, my self satisfaction, my l'belief, psychic grtifle, and important minute
+German pair summary (transcribed from printed page `90`; PDF page `44`):
+
+> Besondere Seele, große Seele, Dominanz des inneren Wesens, ich als Chef, mein Ansehen, mein Staat, meine Autorität, mein Chef, meine Selbständigkeit, meine Überlegenheit, seelische Größe, wichtige Minute
+
+Editorial translation from the German passage: Particular soul, great soul, dominance of the inner being, I as chief, my standing, my state, my authority, my chief, my independence, my superiority, greatness of soul, important minute.
+
+## Comparative Schema
+
+- core meaning: Personal authority, independence, and distinction in one's work ([pair summary](#pair-summary)).
+- psychology: Self-confidence, a sense of one's capabilities, and unwillingness to settle for the average ([pair summary](#pair-summary)).
+- body/health: Neither summary provides a bodily or medical correspondence.
+- social/relationship: Directing others, holding an official position, and dealing with state-bestowed authority are explicit possibilities ([pair summary](#pair-summary)).
+- events/manifestations: Accomplishment, professional independence, recognized responsibility, or an outstanding moment ([pair summary](#pair-summary)).
+- conflicts/notes: Feeling grandeur and exercising authority are distinct. ABC explicitly names independence and superiority; these terms do not prove that self-confidence merits rank.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Special soul, great scele, dominance of the inner being, I as boss, my reputatio
 - [MC/Kronos = Vulcanus](../activations/mc-kronos-equals-vulcanus.md)
 - [MC/Kronos = Zeus](../activations/mc-kronos-equals-zeus.md)
 
+## Contradictions
+
+Personal independence and authority conferred by the state are different expressions of the pair, not a contradiction. ABC's independence, superiority and greatness of soul remain attributed expressions rather than a factual judgment of entitlement to authority.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos` is the axis of independent selfhood, authority, professional distinction, executive skill, and the life direction that rises above the average into command or official standing.
-- Chart expression: self-confidence, mastery, rank, state-bestowed authority, and the urge to direct, accomplish, and occupy a superior or recognized role through one's own greatness and skill.
+`MC/Kronos` concerns personal authority: standing independently, directing work, and seeking distinction through one's abilities. The [pair summary](#pair-summary) connects this outward responsibility with self-confidence and a sense of greatness, while allowing authority to be either personally exercised or officially bestowed. The legible reputation, leadership, and authority terms in the [ABC summary](#abc-pair-summary) reinforce that range. A strong inner claim to importance and an actual position of responsibility remain separate possibilities; the axis does not by itself establish merit or rank.
 
 ## Links
 

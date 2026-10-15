@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Sun Jupiter MC](../triads/sun-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Sun row.
 
 Objects that trigger a feeling of happiness. Physical well-being. The day of happy feelings.
 
@@ -45,7 +49,9 @@ Objects that trigger a feeling of happiness. Physical well-being. The day of hap
 
 #### ABC Entry
 
-Joy of a celebrated person, my successful husband, my corporal happiness, my personal right, my personal finances, my personal joy, my husband's money, his spiritual joy in the day, and a person's mental condition
+- Source reference: printed p. 74; one-based PDF p. 36, MC + Jupiter, Sun row.
+
+Joy of a person imbued with soul, my successful husband, my bodily happiness, my personal right, my personal finances, my personal joy, my husband's money, joy of the soul during the day, and satisfaction of a person's soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +63,9 @@ Healthy physique, striving happily for the attainment of a particular aim or obj
 
 #### Sandbach Entry
 
-The person places a lot of importance on either growing spiritually and following his dharma, or is intent on rising to a position of authority in the world. Of course, these may both be happening at the same time. One becomes noticed by those in power, or those who have authority. One who has big longrange goals.
+- Source reference: one-based PDF p. 86, Planets activating the Jupiter/Midheaven midpoint, Sun paragraph.
+
+The person places a lot of importance on either growing spiritually and following his dharma, or is intent on rising to a position of authority in the world. Of course, these may both be happening at the same time. One becomes noticed by those in power, or those who have authority. One who has big long-range goals.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +78,23 @@ Added confidence built within self as you cope and adjust to different circumsta
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal happiness and purposeful development are embodied in confidence and the use of opportunity.
+- psychology: Optimism, long-range goals and developing ethical principles.
+- body/health: Witte's physical well-being and Ebertin's healthy physique are historical astrological associations, not health assessments.
+- social/relationship: Sandbach describes being noticed by authorities; ABC includes a historically gendered husband formulation.
+- events/manifestations: Pleasant circumstances, purposeful striving and recognition by people in authority.
+- conflicts/notes: ABC's beseelte Person and seelische Zufriedenheit describe a person imbued with soul and satisfaction of the soul; these clauses do not assert fame or illness.
 
 ## Contradictions
 
-- None recorded yet.
+Spiritual growth and worldly authority are alternative or concurrent emphases in Sandbach, not opposing orientations. The complete ABC Sun row gives joy, bodily happiness, personal rights and finances, and satisfaction of the soul. Its husband formulation remains a historical source example.
+
+Visually verified source rows: ABC printed p. 74, one-based PDF p. 36, Sun row; Witte one-based PDF p. 65, Meridian + Jupiter, Sun row; Sandbach one-based PDF p. 86, Sun paragraph under Jupiter/Midheaven. Existing parser locators retained: Ebertin printed p. 244, entry 0855; Munkasey printed p. 280; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Sun`: recognition, healthy confidence, pleasant circumstances, and a life path strengthened by optimism and meaningful objectives. Main caution: status inflation: the pursuit of importance can become too identified with being seen as fortunate, accomplished, or superior.
+In `Jupiter/MC = Sun`, Sun specifies personal happiness and growth through an optimistic, purposeful way of living. The [Ebertin entry](#ebertin-entry) describes making good use of opportunity, [Sandbach](#sandbach-entry) gives large goals and recognition by authorities, and [Munkasey](#munkasey-entry), printed p. 280, adds confidence and ethical principles developed through experience. The [Witte entry](#witte-entry) also associates the formula with physical well-being; that historical claim does not establish an individual's health.
 
 ## Links
 

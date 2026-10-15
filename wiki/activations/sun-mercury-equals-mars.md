@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Mars](../triads/sun-mercury-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 A boy. A young man. To work fast. The tempo of work. Violent thinking. Excitement. Anger.
 
+Source locator: PDF p. 103, Sun/Mercury, Mars entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work in a language centre, human thinking activity, creating personal opinion, personal working language, personal thought work, personal youth work, and activity in a media centre
+Work in a language centre, human thinking activity, creating personal opinion, personal work discussions, personal thought work, personal youth work, and activity in a media centre
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, Mars entry. The scan reads persönliche Arbeits-Gespräche: personal work discussions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Work in a language centre, human thinking activity, creating personal opinion, p
 
 The will to fight life's battles, tendency to think critically, agitated thinking. Excitement or upset, argument, quarrel.
 
+Source locator: printed p. 81, coded entry 0197.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 To assert what one thinks is important. An aggressiveness that comes across as egotistical thinking and communicating. The tendency to always do things with a con scious and well thought-out purpose in mind. To be forcefully opinionated.
+
+Source locator: PDF p. 9, Sun/Mercury, complete Mars entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Forceful, direct ways of getting your ideas across; an irritating or loud way of
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication made active, forceful or rapid.
+- psychology: Critical or agitated thought, conscious purpose, forceful opinions and possible haste.
+- body/health: No specific bodily condition is supplied; excitement and anger are not diagnoses.
+- social/relationship: Direct or loud expression, heated conversations, argument and quarrel.
+- events/manifestations: Fast work, language or media activity, rapid spread of ideas and urgent information confirmation.
+- conflicts/notes: Sandbach's well-considered purpose and Munkasey's hastily conceived ideas remain distinct alternatives.
 
 ## Contradictions
 
-- None recorded yet.
+The sources overlap in active or forceful thought and expression. Sandbach retains conscious, well-thought-out purpose, while Munkasey explicitly permits haste; neither should erase the other. Anger, agitation and quarrel qualify the productive work and communication examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Mars`: decisive speech, mental courage, and the ability to fight life's battles through ideas and argument. Main caution: agitation: anger, quarrels, and forceful opinions can turn thought into conflict faster than into clear accomplishment.
+`Sun/Mercury = Mars` brings thought and communication into forceful action. [Witte](#witte-entry) gives speed of work, excitement and anger; [ABC](#abc-entry) adds thinking activity, forming opinions and work in language or media settings. [Ebertin](#ebertin-entry) connects critical thought with agitation and argument, while [Sandbach](#sandbach-entry) combines purposeful action with forceful or egotistical opinion. [Munkasey](#munkasey-entry) adds direct speech, rapid dissemination and an urgent need to confirm information, but also hasty ideas and heated exchanges. The formula preserves both deliberate purpose and rushed expression, with force or speed supplying no guarantee of clarity or accomplishment.
 
 ## Links
 

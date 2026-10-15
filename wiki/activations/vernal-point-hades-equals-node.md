@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Node Hades](../triads/vernal-point-node-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 To be in touch with poor people. Inmates of a poor house.
 
@@ -42,13 +46,27 @@ To be in touch with poor people. Inmates of a poor house.
 
 #### ABC Entry
 
+- Source page: 46; PDF page: 22 (one-based spread).
+
 Lack of public relations, adverse public contacts, associated with dirt in the public, hidden public contacts, connection with criminality in the public life, and connection to the public service
+
+## Comparative Schema
+
+- core meaning: Public ties involving need, disadvantage, concealment, or service.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Contact with poor people or residents of a poorhouse.
+- events/manifestations: Adverse or hidden contacts and links to public service.
+- conflicts/notes: Criminal contacts are a separate source possibility; poverty or institutional residence does not imply criminality.
+
+## Contradictions
+
+Service connections, poverty contacts, and criminal association are distinct applications. They should not be merged into one judgment of people.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Node`: to be in touch with poor people and inmates of a poor house.
-- Practical expression: lack of public relations, adverse public contacts, associated with dirt in the public, hidden public contacts, and connection with criminality in the public life.
+In `Vernal Point/Hades = Node`, Node specifies the pair through public connections affected by need or disadvantage. The [Witte entry](#witte-entry) names contact with poor people or poorhouse residents. The [ABC entry](#abc-entry) adds adverse and hidden contacts, but also a connection to public service. Its criminal-association clause remains a separate possibility rather than a characterization of everyone who lacks resources.
 
 ## Links
 

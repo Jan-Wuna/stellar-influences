@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Kronos Apollon](../triads/sun-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Great success. Dignities of the state.
 
@@ -42,13 +46,27 @@ Great success. Dignities of the state.
 
 #### ABC Entry
 
-Authoritat person of science, special experiences of a human being, great human masses, personal superiority through knowledge, self center of science, and increasing self believingness of the human being
+Source locator: printed page 167; PDF page 82 (one-based).
+
+An authority in science, special experiences of a person, great masses of people, personal superiority through knowledge, an independent scientific center, and increasing personal self-confidence.
+
+## Comparative Schema
+
+- core meaning: Success with distinction, scientific authority or knowledge-based superiority.
+- psychology: Increasing self-confidence and special personal experience.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: State dignities, scientific authority and great masses of people.
+- events/manifestations: Great success and an independent scientific center.
+- conflicts/notes: State recognition and scientific authority are separate settings; confidence alone does not establish expertise.
+
+## Contradictions And Comparison Notes
+
+Witte emphasizes success and state distinction; ABC adds scientific authority, knowledge and independence. These are compatible emphases without making every scientific success a state honor.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Kronos`: successful in government or in official circles and high dignities.
-- Practical expression: special experiences of a human being, great human masses, personal superiority through knowledge, and self center of science.
+For `Sun/Apollon = Kronos`, success takes a distinguished or authoritative form. [Witte](#witte-entry) names great success and state dignities; [ABC](#abc-entry) gives scientific authority, superiority through knowledge and an independent scientific center, alongside special experience and growing self-confidence. Great masses of people remain another explicit setting. The connection is recognized accomplishment or knowledge-based standing, with state honors and scientific authority kept as distinct expressions.
 
 ## Links
 

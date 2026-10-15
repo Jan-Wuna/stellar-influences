@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Node Cupido Admetos`
 - Astronomicon triad-set: `g ¡ ¦`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Admetos = Node](../activations/cupido-admetos-equals-node.md)
-- [Node/Admetos = Cupido](../activations/node-admetos-equals-cupido.md)
-- [Node/Cupido = Admetos](../activations/node-cupido-equals-admetos.md)
+- [Cupido/Admetos = Node](../activations/cupido-admetos-equals-node.md): base axis [Cupido/Admetos](../axes/cupido-admetos.md); activator [Node](../factors/node.md).
+- [Node/Admetos = Cupido](../activations/node-admetos-equals-cupido.md): base axis [Node/Admetos](../axes/node-admetos.md); activator [Cupido](../factors/cupido.md).
+- [Node/Cupido = Admetos](../activations/node-cupido-equals-admetos.md): base axis [Node/Cupido](../axes/node-cupido.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Cupido/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `271`
-- `Cupido/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `432`
-- `Node/Admetos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `235`
-- `Node/Cupido = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `225`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Admetos = Node](../activations/cupido-admetos-equals-node.md#witte-entry) (PDF entry-start p. 271); [Node/Admetos = Cupido](../activations/node-admetos-equals-cupido.md#witte-entry) (PDF entry-start p. 154); [Node/Cupido = Admetos](../activations/node-cupido-equals-admetos.md#witte-entry) (PDF entry-start p. 149).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Admetos = Node](../activations/cupido-admetos-equals-node.md#abc-entry) (printed p. 432); [Node/Admetos = Cupido](../activations/node-admetos-equals-cupido.md#abc-entry) (printed p. 235); [Node/Cupido = Admetos](../activations/node-cupido-equals-admetos.md#abc-entry) (printed p. 225).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Node`: contact with lonely or avoided people, small clique formation, or witnessing and participating in communal breakup.
-- `Node/Admetos = Cupido`: Few members of family. Reduction of family. To retain only a few social connections. Loneliness in connection with a few. Heavily oppressed communities.
-- `Node/Cupido = Admetos`: Rejected or refused by one’s own relatives. A small closed community. Few or no social connections.
+Node, Cupido and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [ABC Entry for Node/Admetos = Cupido](../activations/node-admetos-equals-cupido.md#abc-entry) now has its complete scan-verified Cupido row. Its literal Depressionen does not specify a clinical or economic sense; the linked activation keeps that limit explicit.
 
 ## Links
 
+- [Cupido/Admetos](../axes/cupido-admetos.md)
+- [Node/Admetos](../axes/node-admetos.md)
+- [Node/Cupido](../axes/node-cupido.md)
 - [Node](../factors/node.md)
 - [Cupido](../factors/cupido.md)
 - [Admetos](../factors/admetos.md)

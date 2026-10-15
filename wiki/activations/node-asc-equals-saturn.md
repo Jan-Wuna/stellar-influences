@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Saturn`
 - Astronomicon formula: `g/Asc = W`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 No contact with the closer environment. Separating from such contacts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `105`, PDF p. `51` (entry).
+
 #### ABC Entry
 
-Exhaustive relationships with others, distanced connection to the environment, patience in a partner connection, concentration on partner ventilation, associated with environmental tasks, difficulties in connection with the partner, and separation of contacts at the place
+Enduring relationships with others, a disturbed connection to the surroundings, patience within a partner connection, concentration on partner mediation, connection with tasks in the surroundings, difficulties in the connection to a partner, and separation of local contacts
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `301`, PDF p. `303`, entry code `1089`.
 
 #### Ebertin Entry
 
 Feeling of oppression or suppression in the presence of other people. Inhibitions with regard to social contacts, sometimes leading a person into life of seclusion and separation. Mourning and bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `119` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To be afraid of letting go of parts of one’s identity that need to change. Fru
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356`, PDF p. `357` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Demonstrations of organizational or administrative skills; simplifying group str
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: social contact may be inhibited or separated, while enduring ties and patient organization are also stated.
+- psychology: oppression, fear of changing identity and sorrow coexist with gradual growth.
+- body/health: mourning and bereavement are historical examples, not predictions.
+- social/relationship: partner patience, group administration and barriers to socializing are explicit.
+- events/manifestations: separation from local contacts, teaching methods and simplifying group structures are named.
+- conflicts/notes: endurance and administrative skill should not be reduced to assured stability or inevitable isolation.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress distance or inhibition. ABC adds patience and enduring relationships; Munkasey adds useful organization and Sandbach gradual personal growth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Saturn`: dependable ties, serious social conscience, and the ability to hold association together through steadiness. Main caution: isolation in company: the person can feel constrained, judged, or overly guarded in the very relationships that shape their identity.
+Node/Asc = Saturn concerns limits on contact and the patient work involved in maintaining or organizing it. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe separation, social inhibition or oppression. [ABC](#abc-entry) also names enduring relationships and patience with a partner. [Munkasey](#munkasey-entry) adds administration and patient teaching, while [Sandbach](#sandbach-entry) allows gradual growth beside fear of changing identity (PDF p. 119). This preserves constructive patience and genuine restriction; mourning remains an attributed historical example rather than a prediction.
 
 ## Links
 

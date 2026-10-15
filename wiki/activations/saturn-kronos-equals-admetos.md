@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Saturn Kronos Admetos](../triads/saturn-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 To get into a tight spot through the authorities or independent persons. Under pressure by them.
 
@@ -42,13 +46,29 @@ To get into a tight spot through the authorities or independent persons. Under p
 
 #### ABC Entry
 
-Especially grim patience, special inhibitions due to depression, depression due to loss of self satisfaction, limitation due to state losses, strengthening of the reputation in old age, great patience of the boss, and deepening in important tasks
+Especially thorough patience, particular inhibitions through depression, depression through loss of independence, restriction through state losses, consolidation of reputation in old age, thorough patience of the boss, and deepening into important tasks.
+
+Translation checked against the German scan: printed p. 361, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Pressure from authority or loss of independence requires prolonged patience and concentration.
+- Psychology: Inhibition and depression appear alongside deepening attention to important tasks.
+- Body/health: No specific bodily condition is established by these entries.
+- Social/relationship: Authorities, independent persons, and a boss are the named sources or settings of pressure.
+- Events/manifestations: Restriction after state losses, consolidation of reputation in old age, and immersion in important work.
+- Conflicts/notes: The scan supports thorough patience and loss of independence, correcting the cached phrases "grim patience" and "loss of self satisfaction".
+
+## Contradictions
+
+External pressure in Witte and patience or deepening in the ABC entry can describe different sides of the same demand. The ABC wording does not establish that all restriction produces maturity or a stronger reputation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Admetos`: to get into a tight spot through the authorities or independent persons, under pressure by them.
-- Practical expression: especially grim patience, special inhibitions due to depression, depression due to loss of self satisfaction, limitation due to state losses, and strengthening of the reputation in old age.
+In `Saturn/Kronos = Admetos`, Admetos specifies the Saturn/Kronos axis through sustained pressure and limitation. The [Witte entry, PDF p. 227](#witte-entry) locates the pressure in authorities or independent persons; the [ABC entry, printed p. 361](#abc-entry) adds patience, inhibition, and the possibility of deepening into important tasks.
+
+The verified German also connects depression with loss of independence, while retaining reputation strengthened in old age. These are different possibilities within a pressured situation; the entry does not promise maturity or make a clinical diagnosis.
 
 ## Links
 

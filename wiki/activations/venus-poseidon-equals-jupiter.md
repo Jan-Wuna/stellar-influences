@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Jupiter Poseidon](../triads/venus-jupiter-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 The just and good faith. To be happy in one’s religion, faith or philosophy. To have confidence. To act bona fide.
 
@@ -42,13 +46,27 @@ The just and good faith. To be happy in one’s religion, faith or philosophy. T
 
 #### ABC Entry
 
-Erfo)g through love of truth, successful peace idea, joy through spiritual harmony, joy ilber k)are finance, artificial and cultural success, spiritueHe art success, preference for right wingness, and true love GJUck
+- Source page: 296; PDF page: 147 (one-based spread).
+
+Success through love of truth, successful peace idea, joy through spiritual harmony, joy over clear finances, art and cultural success, spiritual art successes, preference for legal truth, and true happiness in love
+
+## Comparative Schema
+
+- core meaning: Confidence and happiness in faith, truth, or philosophy.
+- psychology: Trust, good faith, and joy through spiritual harmony.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Acting in good faith; ABC also names happiness in love.
+- events/manifestations: Peace ideas, clear finances, and artistic or cultural success.
+- conflicts/notes: ABC's Rechts-Wahrheit concerns legal truth; it does not establish right-wing politics.
+
+## Contradictions
+
+The entries share confidence and spiritual harmony while ABC adds practical successes. They do not promise that belief guarantees those successes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Jupiter`: the just and good faith.
-- Practical expression: erfo)g through love of truth, successful peace idea, oy through spiritual harmony, oy ilber k)are finance, and artificial.
+In `Venus/Poseidon = Jupiter`, Jupiter specifies the pair through confidence and satisfaction in one's faith or philosophy. The [Witte entry](#witte-entry) links this with acting bona fide, or in good faith. The [ABC entry](#abc-entry) carries the same affirmative tone into love of truth, peaceful ideas, spiritual harmony, and happiness in love; clear finances and artistic or cultural success are further named expressions. Its reference to legal truth should not be converted into political allegiance.
 
 ## Links
 

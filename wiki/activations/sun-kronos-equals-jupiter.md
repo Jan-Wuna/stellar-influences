@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Jupiter Kronos](../triads/sun-jupiter-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 Happiness through independence. Successful leadership. Luck through authorities. Fortunate ruler.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Jupiter entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 Successful financial man, great joy of man, great corporal happiness, man's legal authority, personal advantages through superiority, center of a financial hierarchy, and center for state law
 
+Source locator: printed p. 164, PDF p. 81, Sun/Kronos, Jupiter entry.
+
+## Comparative Schema
+
+- core meaning: Happiness or success associated with independence, leadership and authority.
+- psychology: Joy is explicit; the entries do not supply a fuller inner portrait.
+- body/health: ABC names bodily happiness without specifying a health condition.
+- social/relationship: Benefit through authorities, a fortunate ruler and male legal authority are source examples.
+- events/manifestations: Financial success, a financial hierarchy and a center for state law.
+- conflicts/notes: Independence and benefit through authorities are both present; superiority is a historical source category, not a universal claim of personal worth.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Jupiter`: happiness through independence and successful leadership.
-- Practical expression: successful financial man, great joy of man, great corporal happiness, man's legal authority, and personal advantages through superiority.
+`Sun/Kronos = Jupiter` describes benefit in the exercise or support of authority. [Witte](#witte-entry) connects happiness with independence, successful leadership and favorable contact with authorities; [ABC](#abc-entry) gives financial success, legal authority and institutional centers for finance or state law. Joy and bodily happiness retain a personal side beside those public roles. Independence and receiving advantage through authority are both explicit forms, while the gendered and superiority language remains attributed to its historical source.
 
 ## Links
 

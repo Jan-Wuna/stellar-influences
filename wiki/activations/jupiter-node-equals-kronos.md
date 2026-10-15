@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Kronos`
 - Astronomicon formula: `V/g = ¤`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page `144`, Nodes/Jupiter Kronos row; glyph and adjacent rows checked.
+
 Good relations of the father or of the chief. Protection. Acquaintance with the future husband.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special advantages of a connection, relationships with legal authorities, successful links with the authority, financial self reliance in a relationship, state legal enforcement, connection with the financial authority, and important financial entity
+- Source reference: printed page `215`; one-based PDF page `106`, Mondknoten/Jupiter Kronos row.
+- Translation checked against the scan: `Rechts-Vermittlung` and `Finanz-Vermittlung` concern mediation, not enforcement or an entity.
+
+Special advantages of a connection; relationships with legal authorities; successful connections with authority; financial independence in a relationship; state legal mediation; connection with the financial authority; important financial mediation.
+
+## Comparative Schema
+
+- core meaning: Advantage and protection through authoritative connections.
+- psychology: Not developed separately in these entries.
+- body/health: Not represented in these entries.
+- social/relationship: Relations involving a father, chief, legal authorities or financial authorities.
+- events/manifestations: Protection, legal or financial mediation, and financial independence within a relationship.
+- conflicts/notes: Witte's future-husband example is historical gendered wording.
+
+## Contradictions
+
+Family protection and institutional mediation describe different settings for authority; the entries do not establish an explicit disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Kronos`: beneficial ties with authorities, patrons, or socially elevated figures. It favors alliance that confers protection, approval, or entry into a more formal life path.
+In `Jupiter/Node = Kronos`, Kronos specifies beneficial connections through people or institutions with authority. Protection from a father or chief and useful legal or financial contacts make the relationship advantageous; ABC also allows financial independence within it. Witte's acquaintance with a future husband is one historical example, rather than a universal outcome. [Witte entry](#witte-entry), [ABC entry](#abc-entry)
 
 ## Links
 

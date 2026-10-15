@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Vernal Point`
 - Astronomicon formula: `Y/Z = VP`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Changes in general which cannot be estimated correctly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Exchange developments in the public, creeping changes in the public life, uncertain development in the private sphere, growing expectations in the public life, growing uncertainty in the public sphere, and changes in the public sphere
+Pretending developments in public, creeping changes in public life, uncertain development in public, growing expectations in public life, growing uncertainty in public, and transformations in public waters
+
+## Comparative Schema
+
+- core meaning: public change whose extent or direction is hard to assess.
+- psychology: growing public expectations and uncertainty are explicit.
+- body/health: public waters are a literal setting without a health claim.
+- social/relationship: public life and misrepresented development are named.
+- events/manifestations: creeping public change and transformations in public waters are stated.
+- conflicts/notes: Witte's difficulty estimating change does not supply a specific forecast or make all public development deceptive.
+
+## Contradictions
+
+Witte gives a general difficulty of assessing change. ABC specifies public settings, expectations, uncertainty, and pretended development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Vernal Point`: Changes in general which cannot be estimated correctly.
-- Practical focus: externalizes subtle transformation into collective life, where changes are underway but remain difficult for the wider public to estimate accurately while they unfold.
-- Practical expression: exchange developments in the public, creeping changes in the public life, uncertain development in the private sphere, growing expectations in the public life, and growing uncertainty in the public sphere.
+In Neptune/Pluto = Vernal Point, the uncertainty of development enters public life. [Witte](#witte-entry) names changes that cannot be estimated correctly; [ABC](#abc-entry) adds creeping public changes, growing expectations, uncertainty, and pretended development (printed p. 390, PDF p. 194). The separate public-water example remains literal, while no specific collective event or outcome is established.
 
 ## Links
 

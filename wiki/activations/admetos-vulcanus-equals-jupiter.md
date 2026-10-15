@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Admetos/Vulcanus = Jupiter`
 - Astronomicon formula: `¦/§ = V`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 311, Jupiter row.
+
 To escape great blows of fate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked financial power, depression through restricted finances, restricted right wing influence, successful power strengthening, consolidation of the right wing force, joy over power strengthening, blocked money circle, and resistance to a financial power
+Reference: printed p. 474 (one-based PDF p. 236), Jupiter row.
+
+Blocked financial power, depression through restricted finances, restricted legal influence, successful consolidation of power, consolidation of legal power, joy over consolidated power, blocked circulation of money, and resistance to a financial power.
+
+## Comparative Schema
+
+- core meaning: Escape from adversity or consolidation of power amid financial and legal constraints.
+- psychology: Joy over consolidated power; ABC also associates restricted finances with depression.
+- body/health: The depression association is attributed to ABC, without a medical diagnosis.
+- social/relationship: Resistance to financial power and limited legal influence.
+- events/manifestations: Escaping major misfortune, blocked money circulation, and successful consolidation of power.
+- conflicts/notes: The German Rechts- compounds concern law or legal power; they do not identify a political wing.
+
+## Contradictions
+
+Witte's escape from adversity and ABC's blocked finances need not describe the same situation. ABC itself includes both obstruction and successful consolidation without selecting between them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Jupiter`: protection in difficult conditions and the capacity to remain standing when the burden could have been worse. Main caution: narrow deliverance: relief may come, but only after severe compression, so success still bears the mark of ordeal.
+In `Admetos/Vulcanus = Jupiter`, Jupiter specifies the pair through escape from great adversity in the [Witte entry](#witte-entry), and through the restriction or consolidation of financial and legal power in the [ABC entry](#abc-entry). Blocked finances and money circulation sit beside successful consolidation, joy in strengthened power, and resistance to financial authority. The entries preserve relief and success as possibilities without requiring a prior ordeal or guaranteeing financial recovery.
 
 ## Links
 

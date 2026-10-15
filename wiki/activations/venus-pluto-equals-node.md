@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Pluto Node](../triads/venus-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -43,9 +45,12 @@ Development of harmonious connections. Consideration results in connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `280`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-development of a love relationship, development of peace relationships, development of a connection to the arts, development of harmonious contacts, growing joy in a connection, growing vitrine in a relationship, and change of a love relationship
+Development of a love relationship, development of peace relationships, development of a connection to art, developing harmonious contacts, growing joy in a connection, growing wishes in a relationship, and change of a love relationship.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,21 @@ Association with others who have similarly enjoy using punishment or destruction
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development of connections, with attraction that can operate for better or worse.
+- psychology: Fascination and Sandbach's stated movement from obsessive attraction toward unconditional love.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Harmonious connections coexist with association around punishment or destruction in Munkasey.
+- events/manifestations: Artistic/peace connections, changing love relationships, financial-power demonstrations, and business panics.
+- conflicts/notes: The group context does not justify borrowing the separate Venus/Node = Pluto orientation.
 
 ## Contradictions
 
-- None recorded yet.
+Harmonious association contrasts with Munkasey's destructive associations and panic. Sandbach's spiritual aim is a proposed transformation of attraction, not proof that harmful association becomes harmless.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Node`: powerful chemistry in partnerships, influential alliances, and relationships that force profound change in values and attachments. Main caution: bonds can become entangled, manipulative, or dominated by dependency and covert power struggles.
+In `Venus/Pluto = Node`, Node specifies Venus/Pluto development through connections with others. The [Witte](#witte-entry) and [ABC entries](#abc-entry) describe harmonious contacts and changing love relationships; [Ebertin](#ebertin-entry) explicitly leaves association open to better or worse. [Sandbach](#sandbach-entry) frames obsessive attraction as something to transmute toward unconditional love. The [Munkasey entry](#munkasey-entry) preserves the adverse group expression: shared enjoyment of punishment or destruction and financial-power actions, including panic. The meaning lies in what the connection develops and organizes, rather than attraction being beneficial by itself.
 
 ## Links
 

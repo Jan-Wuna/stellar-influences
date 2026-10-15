@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Sun MC Admetos](../triads/sun-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Insensible in respect to the body. To suppress pain. To create a resistant body.
 
 #### ABC Entry
 
-Blockage of body and soul, my body is blocked, my body circuit, my daily cycle, my corporal endurance, my personal limitation, mentally bloated man, mental depression of a person, and center for depressed people
+- Source passage: `Meridian + Admetos`; printed p. `94`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+Blockage of body and soul, my body is blocked, my bodily circulation, my daily cycle, my bodily endurance, my personal limitation, inwardly blocked man, inner depth of a person, center for depressed people.
+
+## Comparative Schema
+
+- **Core meaning:** Personal endurance and bodily blockage are brought together.
+- **Psychology:** The ABC entry links inner obstruction with the bodily theme.
+- **Body/health:** Bodily insensibility, suppressed pain, circulation, and endurance are historical source associations only.
+- **Social/relationship:** ABC mentions a center for depressed people, without establishing a general relationship pattern.
+- **Events/manifestations:** A daily cycle and bodily endurance are named, rather than a specific forecast.
+- **Conflicts/notes:** ABC names an inwardly blocked man and inner depth, while its depressed-people and bodily examples remain historical associations without a diagnosis or gender restriction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Sun` embodies the axis through bodily hardening and suppression of pain.
-- Chart expression: physical resistance, insensibility to suffering, and a life force that meets hardship by enduring it and building a tougher, more resilient body.
+Sun specifies `MC/Admetos` through the experience of bodily resistance and limitation: the entries describe endurance, suppressed pain, and a sense that body and inner life are blocked. This is a historically sourced portrayal of bodily experience, not evidence that suppressing pain creates health or resilience. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 94.)
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Uranus`
 - Astronomicon formula: `X/Y = X`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -41,22 +43,21 @@ Additional needs for freedom and independence from people and positions which ti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Independence from routines that no longer serve one's purpose. ([Munkasey entry](#munkasey-entry).)
+- psychology: A desire for freedom and motivation through challenge. ([Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical claim is supplied. ([Munkasey entry](#munkasey-entry).)
+- social/relationship: Freedom from people or positions that maintain unwanted routines. ([Munkasey entry](#munkasey-entry).)
+- events/manifestations: Attempting an assignment for the challenge it offers. ([Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Only Munkasey is represented; the repeated Uranus wording remains distinct from the separate Neptune activation. ([Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's With Itself entry is represented. Independence from outgrown routines and willingness to attempt a challenge are the entry's supported themes; it provides no further bodily or event outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Uranus`: Additional needs for freedom and independence from people and positions which tie one to routines which no longer suit one's purpose; the challenge of an assignment is often reward enough for one to attempt it.
+Uranus specifies Uranus/Neptune through a need for freedom from people or positions that enforce an outgrown routine. Challenge can become a sufficient reward to attempt an assignment, joining independence with willingness to engage in a demanding task. Munkasey's sole entry does not specify the task's outcome. ([Munkasey entry](#munkasey-entry).)
 
 ## Links
 

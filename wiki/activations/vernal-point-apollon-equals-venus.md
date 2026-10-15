@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Venus Apollon](../triads/vernal-point-venus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Concord and peace. To have many friends. The science of music.
 
@@ -42,13 +46,27 @@ Concord and peace. To have many friends. The science of music.
 
 #### ABC Entry
 
-Harmonic expansion in the public, peace success in the public, artificial success in the public life, artificial knowledge in the public life, love experiences in the public, public artist trade, and public beauty success
+- Source page: 52; PDF page: 25 (one-based spread).
+
+Harmonious expansion in public, success in peace in public, artistic successes in public life, knowledge of art in public life, love experiences in public, public art trade, and public success in beauty
+
+## Comparative Schema
+
+- core meaning: Public concord, friendship, and widening artistic or peaceful activity.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Many friends and love experiences in public.
+- events/manifestations: Study of music, artistic success, knowledge of art, and art trade.
+- conflicts/notes: The scan says art, not artificiality; success in beauty is source wording without a specified standard.
+
+## Contradictions
+
+The entries share an affirmative social and artistic emphasis without specifying the duration of friendships or peace.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Venus`: concord and peace, to have many friends, and the science of music.
-- Practical expression: harmonic expansion in the public, peace success in the public, artificial success in the public life, artificial knowledge in the public life, and love experiences in the public.
+In `Vernal Point/Apollon = Venus`, Venus specifies the pair through public concord and artistic exchange. The [Witte entry](#witte-entry) names peace, many friends, and study of music. The [ABC entry](#abc-entry) adds harmonious expansion, love experiences, artistic success, and trade in art. The integrated meaning is wider participation in harmony and culture, without requiring all friendship to become romance or all artistic activity to succeed.
 
 ## Links
 

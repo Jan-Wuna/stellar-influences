@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Cupido`
 - Astronomicon formula: `V/W = ¡`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 The family begins to separate. Termination of marriage by settlement. Many under one roof. Beginning of a union which is slowly and much later recognized.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful separation from of a community, success through common patience, successCancellations in of a community, loss of money of a community, shared joy in old age, and joint success through empathy
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Successful separation from a community, success through shared patience, disruptions of success within a community, financial losses of a community, shared joy in old age, shared success through seriousness, and disturbed community law.
+
+## Comparative Schema
+
+- Core meaning: Family and community undergo separation or delayed union ([Witte Entry](#witte-entry)).
+- Psychology: Shared patience and seriousness can support communal success; shared joy in old age is also explicit.
+- Body/health: No medical or bodily claim is established.
+- Social/relationship: Marriage settlement, people under one roof, and a slowly recognized union remain distinct examples.
+- Events/manifestations: Community financial loss and successful separation supplement Witte ([ABC Entry](#abc-entry)).
+- Conflicts/notes: ABC's Ernsthaftigkeit means seriousness, and its final clause concerns disturbed community law. Raw inspection resolves the former damaged-word caveats.
+
+## Contradictions
+
+Separation and the beginning of a union are contrasting alternatives, not stages of one necessary story.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Cupido`: relationship or family life being shaped by time, legality, delay, and gradual formalization. It can show durable structure, but also slow separation or postponed recognition.
+In `Jupiter/Saturn = Cupido`, Cupido gives the pair's separation and delay a family or communal setting. The [Witte Entry](#witte-entry) includes a family dividing, a marriage ended by settlement, shared housing, and a union recognized only later. The [ABC Entry](#abc-entry) adds shared patience and seriousness, community losses and disturbed community law, together with shared joy in old age. The thread is a group bond being constrained or reorganized, with both separation and delayed recognition kept visible.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Hades`
 - Astronomicon formula: `Z/£ = ¢`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 To apply in vain for an employment. To be condemned to inactivity. Bad housekeeping or opponent of military service.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of fire criminality, filtration from the hidden, dangerous change in the movement, poor performance development, adverse movement change, growing fire danger, and growing movement strikes
+- Source page: 413 (printed); PDF page: 205.
+
+Development of fire crime, leadership unfolding from concealment, dangerous change in leadership, deficient development of performance, adverse change of leadership, growing fire danger, growing striving for leadership.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Frustrated activity or deficient development of performance.
+- Psychology: Witte describes enforced inactivity rather than a detailed emotional profile.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Hidden leadership, adverse leadership changes, and opposition to military service.
+- Events/manifestations: Failed employment applications, poor housekeeping, fire crime, and growing fire danger.
+- Conflicts/notes: Opposition to military service is retained as Witte's historical association, not an ethical judgment.
+
+## Contradictions
+
+Opposition to military service is retained as Witte's historical association, not an ethical judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Hades`: to apply in vain for an employment; To be condemned to inactivity; Bad housekeeping or opponent of military service.
-- Practical expression: development of fire criminality, filtration from the hidden, dangerous change in the movement, poor performance development, and adverse movement change.
+In `Pluto/Zeus = Hades`, Hades specifies the pair through effort that cannot find an effective outlet: the [Witte entry](#witte-entry) gives failed employment applications and enforced inactivity. The [ABC entry](#abc-entry) adds deficient performance, concealed leadership, and dangerous or adverse leadership changes. Fire crime and danger remain specific examples alongside Witte's historical housekeeping and military-service associations.
 
 ## Links
 

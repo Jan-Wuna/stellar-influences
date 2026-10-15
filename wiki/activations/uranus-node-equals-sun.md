@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Sun`
 - Astronomicon formula: `X/g = S`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Sun entry.
+
 #### Witte Entry
 
 To be suddenly embroiled in something. Tense personal relationships. The electrical or electronic plug.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Sun entry.
+
 #### ABC Entry
 
-Affected persons encounter eventful human contacts, tense personal relationships, contacts with dynamic people, new personal connections, links with technical subjects, and i..iberrac; new connection to a man
+Encountering excited people, eventful human contacts, tense personal relationships, contacts with dynamic people, new personal connections, connections with technical people, and a surprising connection with a man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0963`.
 
 #### Ebertin Entry
 
 Inclination to violence, even at the slightest cause. Becoming upset and excited along with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 106, `Planets activating the Uranus/Node midpoint`, Sun entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Helps others appreciate and accept your plans for modernization; adds to the ded
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal involvement in sudden, tense connections. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Excitement and dedication to being different in encounters. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Open relationships, tense personal bonds, and others' acceptance of reform. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden entanglement, meetings, and the source's literal electrical-plug example. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Open connection and personal tension coexist; the male and violence examples remain attributed rather than universal judgments. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Free and open relationships coexist with tense or excited encounters. Ebertin's violence example remains a severe attributed association, while the electrical or electronic plug is a separate literal technical example; the male example is source-specific.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Sun`: individual leadership within changing groups, visible originality in relationship, and the ability to embody a new social current personally. Main caution: self-willed disruption: the need to differentiate can destabilize alliance if individuality eclipses reciprocity.
+Sun specifies Uranus/Node through personally intense encounters and the wish for relationships free of restriction. Distinctive ideas may find acceptance through meetings or reform, yet the older entries also describe becoming embroiled, upset, or excited with others. Ebertin's violence wording remains a severe attributed claim, while Witte's electrical or electronic plug is a separate literal technical example. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

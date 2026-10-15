@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Sun`
 - Astronomicon formula: `W/¦ = S`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ The days we feel narrowed and hindered. The resting body. The man who is hindere
 
 #### ABC Entry
 
-Personal limitations in old age, deepening in corporal problems, gross concentration of a man, circulatory load of a man, corporal problems compaction, and center for limiting loss
+Personal restrictions in old age, deeper engagement with bodily problems, thorough concentration of a person, circulatory strain of a man, intensification of bodily problems, and a center for limiting losses
+
+## Comparative Schema
+
+- Core meaning: physical restriction and concentrated attention to bodily problems.
+- Psychology: feeling hindered; thorough concentration.
+- Body/health: rest and impaired movement; ABC's circulation claims remain historical.
+- Social/relationship: the male examples are source-specific, not universal.
+- Events/manifestations: forced position or efforts to limit losses.
+- Conflicts/notes: physical limitation does not establish its cause.
+
+## Contradictions
+
+The entries describe a range of manifestations. Physical limitation does not establish its cause; this is a qualification, not proof of agreement across sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Sun`: the days we feel narrowed and hindered, the resting body, the man who is hindered in a physical motion.
-- Practical expression: personal limitations in old age, deepening in corporal problems, gross concentration of a man, circulatory load of a man, and corporal problems compaction.
+In `Saturn/Admetos = Sun`, Sun specifies the Saturn/Admetos pair through physical restriction: resting, being hindered in movement or being forced into a position. The [Witte entry](#witte-entry) makes this bodily emphasis explicit (PDF p. 229), while the [ABC entry](#abc-entry) adds concentrated attention to bodily problems and efforts to limit losses (printed p. 364; PDF p. 181). This supports a reading of constrained physical circumstances and focused response, without treating the sources' gendered or circulatory associations as universal facts.
 
 ## Links
 

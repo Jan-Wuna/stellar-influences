@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Pluto](../triads/vernal-point-mercury-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 To perceive and understand. The development and alteration of public opinion.
 
@@ -42,13 +46,27 @@ To perceive and understand. The development and alteration of public opinion.
 
 #### ABC Entry
 
-Development of young people in public Life, talk about developments in public Life, changes in public Mcinung, changes in public through youth, and increasing public traffic
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Development of youth in public life, conversations about developments in public life, changes in public opinion, public changes through youth, and growing public traffic
+
+## Comparative Schema
+
+- core meaning: Development and alteration of public thought, youth, and circulation.
+- psychology: Perception and understanding are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Youth participates in public change.
+- events/manifestations: Changing opinion, developmental conversations, and growing traffic.
+- conflicts/notes: Change is explicit, but no fixed direction or moral value is assigned.
+
+## Contradictions
+
+No direct contradiction is established. Greater understanding and changed public opinion are related possibilities rather than equivalent outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Pluto`: to perceive and understand and the development and alteration of public opinion.
-- Practical expression: development of young people in public Life, talk about developments in public Life, changes in public Mcinung, changes in public through youth, and increasing public traffic.
+In `Vernal Point/Mercury = Pluto`, public thought is a developing process. The [Witte entry](#witte-entry) links perception and understanding with the alteration of public opinion. The restored [ABC entry](#abc-entry) adds youth development, conversations about change, public changes through youth, and growing traffic. The common theme is the reshaping of public communication and participation over the course of development.
 
 ## Links
 

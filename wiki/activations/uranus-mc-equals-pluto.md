@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Pluto`
 - Astronomicon formula: `X/MC = Z`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 Sudden development and changes. To adapt or adjust oneself to something by leaps and bounds. To be pushed back and forth by one’s impulses.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 79; PDF p. 38.
+
 #### ABC Entry
 
-my troubled development, minute of exciting changes, developing scelic tensions, changing mental tensions, and growing mental unrest
+Dynamic emotional development, excited soul impulses, my dynamic change, my restless development, a minute of exciting changes, developing emotional tensions, changed psychological tensions, growing emotional unrest.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 278; PDF p. 280; entry code `0995`.
 
 #### Ebertin Entry
 
 Restless and energetic pursuit of one's objectives, fanatic ambition. A nervous breakdown caused through overwork.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Helps either bring you world-wide fame and recognition for your efforts, or drop
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 79; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0995), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Intense pursuit of objectives amid abrupt personal development. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Restlessness, ambition, and a compelling need for freedom. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin associates overwork with breakdown; this is not a medical prediction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Rebellion against authority and the search for recognition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Rapid adjustments, career recognition, neglect, or disgrace. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Munkasey's fame, neglect and disgrace are explicit alternatives. Intense work does not establish which outcome or a medical breakdown.
 
 ## Contradictions
 
-- None recorded yet.
+Recognition and neglect are sharply different outcomes in Munkasey. Ebertin's overwork-related breakdown remains an attributed historical claim; ambition or rebellion does not select it as an outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Pluto`: strategic reform, major reorientation of status or mission, and the ability to push change through resistant systems. Main caution: extremity: disruption can become coercive, obsessive, or destructive when power eclipses proportion.
+Pluto specifies Uranus/MC through intense pursuit of an independent course and abrupt personal change. Adaptation may occur in leaps, while ambition and the urge to make one's own rules can drive open rebellion against authority. Recognition is especially unsettled in Munkasey's entry, ranging from fame to neglect or disgrace; Ebertin's overwork-related breakdown remains an attributed historical claim, not a diagnosis. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

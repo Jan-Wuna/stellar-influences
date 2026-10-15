@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Mars`
 - Astronomicon formula: `V/g = U`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Mars row; glyph and adjacent entries checked.
+
 Happily connected in common activity. Betrothal and progeny. Union. Relations with the field of labour law. Beneficial relationships through labour.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Relationships with labour law, successful activity in connections, establishing financial connections, creating legal connections, activity of a legal entity, activity in the money establishment, and advantageous relationships through work
+- Source reference: printed page 214; one-based PDF page 106, Mondknoten/Jupiter section, Mars row; complete German row checked.
+
+Relationships with labor law, successful activity in connections, establishing financial connections, creating legal connections, legal mediation activity, financial intermediation activity, and advantageous relationships through work
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0835; retained printed coded-entry locator.
 
 A good colleague or coworker, a happy partner. A happy physical union, engagement, procreation. Successful cooperation or teamwork.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Mars entry; exact paragraph checked, chapter begins on page 84.
 
 The ability to see many ramifications to one’s actions, and to proceed in such a way that many things are taken into account. To be assertive about expanding one’s connections.
 
@@ -66,26 +76,27 @@ The ability to see many ramifications to one’s actions, and to proceed in such
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed-page locator, not a newly verified PDF page.
+
 Added intensity to an already forceful personality; energy and enthusiasm for the efforts given toward meeting or working with others; an urgency for keeping contacts and communications open; completing plans at meetings.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful cooperation and active development of connections.
+- psychology: Energy and enthusiasm in Munkasey; assertive expansion tempered by considering ramifications in Sandbach.
+- body/health: Witte/Ebertin name physical union and procreation without diagnostic or predictive detail.
+- social/relationship: Good colleagues, teamwork, common activity and labor-law relationships.
+- events/manifestations: Engagement, joint plans, keeping communications open and legal/financial mediation.
+- conflicts/notes: Munkasey adds intensity to an already forceful personality, but pushiness and overextension are not explicit source outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize effective joint action, while Munkasey adds forceful intensity and urgency. These qualify the style of contact without establishing a contradiction or inevitable conflict.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Mars`: effective joint effort, happy physical union, engagement, and the willingness to enlarge one's opportunities through decisive action with others. Main caution: excess force in relationship: enthusiasm can become pushiness or overextension in pursuing shared aims.
+In `Jupiter/Node = Mars`, the [source entries](#source-entries) make connection active through common work, cooperation and completing plans with others. Ebertin's good colleague and happy partner sit beside Witte's engagement or physical-union examples. ABC adds practical labor-law, legal-mediation and financial-intermediation work. Sandbach emphasizes seeing the ramifications of action while expanding contacts, and Munkasey supplies enthusiasm and urgency in keeping them open. The focus is effective joint activity, with forcefulness as a possible style rather than an invented conflict outcome.
 
 ## Links
 

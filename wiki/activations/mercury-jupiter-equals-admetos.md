@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Admetos`
 - Astronomicon formula: `T/V = ¦`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 A quiet pleasant conversation with a few friends. Luck through deep thinking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `245`; PDF page: `121`.
+
 #### ABC Entry
 
-enduring Talking about money, affirming right talking, depression by right speaking, restricted happiness in youth, successful thought deepening, depressing news about money, and grilning right thinking
+German passage (transcribed from PDF page `121`, printed page `245`):
+
+> Andauernde Gespräche über Geld, befestigende Recht-Sprechung, Depression durch Rechts-Spruch, eingeschränktes Glück in der Jugend, erfolgreiche Gedanken-Vertiefung, deprimierende Nachrichten über Geld, gründliche Recht-Gedanken
+
+Editorial translation from the German passage: Continuing conversations about money; stabilizing administration of justice; depression through a legal judgment; restricted happiness in youth; successful deepening of thought; depressing news about money; thorough thoughts about law.
+
+## Comparative Schema
+
+- core meaning: Quiet, concentrated exchange and deep thinking ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Depth of thought can accompany luck; ABC also names depression after a legal judgment.
+- body/health: ABC's depression wording is attributed, not a diagnosis.
+- social/relationship: Witte specifies a pleasant conversation with a few friends.
+- events/manifestations: Money discussions, legal decisions, and depressing financial news are ABC examples.
+- conflicts/notes: A small circle and deep reflection do not establish mistrust or isolation.
+
+## Contradictions
+
+Witte's pleasant small gathering contrasts with ABC's restricted happiness and depressing legal or financial messages. These are different outcomes, while both entries preserve concentration and depth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Admetos` narrows the axis into quiet goodwill and concentrated reflection.
-- Chart expression: pleasant conversation with only a few trusted people, luck won through deep or steady thinking, and expansive judgment becoming quieter, denser, and more inwardly grounded.
+In `Mercury/Jupiter = Admetos`, Admetos specifies the exchange of ideas through quiet conversation with a few friends and the benefits of deep thought. ABC preserves this depth but also describes persistent money discussions, restricted youthful happiness, and discouragement connected with legal decisions or financial news. Concentration can therefore be pleasant or burdensome according to the particular source example ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

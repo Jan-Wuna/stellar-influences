@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = Jupiter`
 - Astronomicon formula: `T/g = V`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `141`.
+
 #### Witte Entry
 
 To think of lucky or fortunate connections. To find a good contact for conversation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `208`; PDF page: `103`.
+
 #### ABC Entry
 
-Successful connections in youth, joy through language connections, connected with youth law, successfully conveying messages, opinions of a legal mediation, mediation of financial languages, and advantageous transport connections
+German passage (transcribed from PDF page `103`, printed page `208`):
+
+> Erfolgreiche Verbindungen in der Jugend, Freude durch Gesprächs-Verbindungen, mit dem Jugend-Recht verbunden, Nachrichten erfolgreich vermitteln, Meinungen einer Rechts-Vermittlung, Vermittlung von Finanz-Gesprächen, vorteilhafte Verkehrs-Verbindungen
+
+Editorial translation from the German passage: Successful connections in youth; joy through conversational connections; connected with youth law; successfully conveying news; opinions concerning legal mediation; facilitating financial conversations; advantageous transport connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `167`; entry code: `0547`.
 
 #### Ebertin Entry
 
 Cultivation of social contacts, a person who conducts lively correspondence with others, the beginning of far-reaching associations. A successful business partnership.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `51` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Reasoning about the ethics of group communications; exhibiting communication equ
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate conversation, supportive exchange and far-reaching associations.
+- psychology: Sandbach distinguishes useful ideas from excessive or random sharing.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Social contacts, lively correspondence and successful business partnership recur.
+- events/manifestations: Promotion, marketing, financial conversations and advantageous transport connections are examples.
+- conflicts/notes: Talking can replace action or bury useful ideas in excess information.
 
 ## Contradictions
 
-- None recorded yet.
+The favorable contact and partnership statements coexist with Sandbach's warning that too much exchange can lead nowhere or displace action. Success therefore depends on more than the quantity of conversation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Jupiter`: influential networks, study communities, and the expansion of social life through intellect, guidance, or belief. Main caution: inflated group opinion: conversation and connection can become too self-assured, preachy, or full of overextended promises.
+In `Mercury/Node = Jupiter`, Jupiter specifies the axis through useful, supportive contacts and associations that can extend far. Witte's good conversational contact and Ebertin's lively correspondence or successful business partnership give this a concrete social form. Munkasey adds promotional success, while ABC includes financial conversation and advantageous transport links. Sandbach supplies the distinction: sharing helps when valuable ideas receive support, but excessive talk can replace action or lose those ideas in noise ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

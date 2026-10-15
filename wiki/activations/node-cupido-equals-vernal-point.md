@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Vernal Point Node Cupido](../triads/vernal-point-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Social organizations. Associations.
 
 #### ABC Entry
 
-in the public sphere, in the world, in the public sphere of the public sphere, and in the public
+- Source passage: `Mondknoten + Cupido`; printed p. `224`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Shared relationships in public, artists' connections in public, shared relationships in public life, connected with the whole world, connection with the world community, links of the world community.
+
+## Comparative Schema
+
+- core meaning: Social organizations and associations.
+- psychology: No psychological disposition is stated.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Organized social connection in Witte.
+- events/manifestations: Participation in an association, public artistic connections and world-community links.
+- conflicts/notes: The source repeats shared public relationships in two closely worded clauses and also names artists, the whole world and world-community links. These remain source examples rather than proof of universal reach.
+
+## Contradictions
+
+Witte's social organizations and associations overlap ABC's shared public relationships; ABC extends the range to artistic connections and world-community links.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Vernal Point`: Social organizations. Associations.
-- Practical focus: social organizations; also associations.
+Vernal Point specifies Node/Cupido as social connection expressed publicly. The [Witte entry](#witte-entry) names organizations and associations; the [ABC entry](#abc-entry) adds shared public relationships, artists' connections and links with a wider world community. The common emphasis is collective participation and outward connection, without establishing worldwide influence for every association.
 
 ## Links
 

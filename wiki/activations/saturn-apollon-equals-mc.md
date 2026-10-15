@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = MC`
 - Astronomicon formula: `W/¥ = MC`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 To have a methodical disposition. To proceed systematically. Pedantic. To experience many separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-£3elastendc psychic experiences, my success through patience, my success in old age, my successful concentration, my trade losses, my concentration on knowledge, my mature thoughts, my pain experiences, and loss of psychic freedom
+- Source page: 362 (printed); PDF page: 180.
+
+Burdensome inner experiences, my success through patience, my success in old age, my successful concentration, my trade losses, my concentration on knowledge, my mature thoughts, my painful experiences, loss of inner freedom.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Methodical personal disposition and concentrated knowledge, with burdens and repeated separations.
+- Psychology: Systematic or pedantic habits, mature thoughts, and burdensome inner experience.
+- Body/health: Painful experience is named without specifying a medical condition or establishing a diagnosis.
+- Social/relationship: Many separations and loss of inner freedom.
+- Events/manifestations: Patient personal success, trade losses, and painful experience.
+- Conflicts/notes: ABC's personal success and burdens are distinct expressions, not a causal sequence.
+
+## Contradictions
+
+ABC's personal success and burdens are distinct expressions, not a causal sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = MC`: to have a methodical disposition, to proceed systematically, pedantic.
-- Practical expression: 3elastendc psychic experiences, my success through patience, my success in old age, my successful concentration, and my trade losses.
+In `Saturn/Apollon = MC`, MC specifies the pair through a methodical, sometimes pedantic personal approach in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds concentrated knowledge and mature thoughts, placing personal success through patience beside burdensome inner experiences, painful losses, and restricted inner freedom. The same orientation includes many separations without making them a consequence of being methodical.
 
 ## Links
 

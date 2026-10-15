@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Asc`
 - Astronomicon formula: `Z/£ = Asc`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 Others have to increase efforts, or others force the native to increase efforts. Competition.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful part time change, start of a partner development, change of location transport, change of location by fire, develop partner services, creative change of location, growing environmental services, and changing space design
+- Source page: 412 (printed); PDF page: 205.
+
+Demanding change of partner, beginning of a partner's development, changing local leadership, change of place through fire, developing a partner's performance, creative changes of place, growing environmental performance, changing spatial design.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Increased effort shaped by other people, partners, and the environment.
+- Psychology: Competition and pressure from others to increase effort.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Partner development or demanding partner change.
+- Events/manifestations: Changes in local leadership, surroundings, and the shaping of space.
+- Conflicts/notes: Witte's competitive pressure and ABC's creative environmental changes need not occur together.
+
+## Contradictions
+
+Witte's competitive pressure and ABC's creative environmental changes need not occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Asc`: others have to increase efforts, or others force the native to increase efforts; Competition.
-- Practical expression: effortful part time change, start of a partner development, change of location transport, change of location by fire, and develop partner services.
+In `Pluto/Zeus = Asc`, Asc specifies the pair through other people and surroundings. The [Witte entry](#witte-entry) describes competition and efforts increased by oneself or demanded by others; the [ABC entry](#abc-entry) includes partner development, demanding partner change, and creative changes to a place. Fire-related local change is one specific source example, not a general condition of partnership.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Vernal Point`
 - Astronomicon formula: `V/X = VP`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Fortunate circumstances. Stroke of good luck for several people. Lottery.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
 excitement about public money, success impulses in public, financial event in public, joyful event in public life, new law in public, and advantages through technology in public life
+
+## Comparative Schema
+
+- core meaning: Fortunate circumstances and shared strokes of luck take a public expression.
+- psychology: ABC names public excitement and joyful events without specifying an individual temperament.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Several people may share a fortunate event; public money and law provide collective contexts.
+- events/manifestations: Lottery, a public financial event, new public law and advantages through technology.
+- conflicts/notes: Lottery is one Witte example, not a guaranteed result. ABC's excitement over public money does not specify whether it is welcome or troubling.
+
+## Contradictions
+
+The entries overlap in shared favorable events. Witte gives a lottery as one concrete example; ABC specifies public finances, law and technology without restricting the picture to gambling.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Vernal Point`: sudden beneficial change becoming socially visible and widely felt. It favors public lucky breaks, shared openings, and collective surprise in fortune.
+`Jupiter/Uranus = Vernal Point` places a stroke of fortune in circumstances shared by several people. Its public expressions include a financial event, a joyful occasion, new law or an advantage from technology. The lottery is one specific example within that wider range. [Witte's shared luck](#witte-entry) and [ABC's public clauses](#abc-entry) support this collective setting.
 
 ## Links
 

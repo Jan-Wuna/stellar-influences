@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Uranus`
 - Astronomicon formula: `Y/§ = X`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to act.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `405`, PDF p. `201` (entry).
+
 #### ABC Entry
 
-Influenced future technology, energy emelting by air, subtle energy impulses, new energies by metaphysics, sudden insecurity by violence, rhythmic water force, strong unrest of water, and refinement of technical energy
+Influential future technology, energy renewal through air, subtle-material energy impulses, new energies through metaphysics, sudden insecurity through violence, rhythmic water force, great unrest of water, and refinement of technical energies
+
+## Comparative Schema
+
+- core meaning: sudden restriction of action alongside technical or energy-related changes.
+- psychology: sudden insecurity is explicit.
+- body/health: the energy examples supply no individual health claim.
+- social/relationship: loss of freedom is Witte's severe example without an identified authority or relationship.
+- events/manifestations: suspension, future technology, air renewal, and restless water are named.
+- conflicts/notes: ABC's technical examples are not all confinement or sudden loss of independence.
+
+## Contradictions
+
+Witte emphasizes sudden suspension or lost freedom. ABC also names technology, renewal, and rhythmic energy alongside sudden insecurity through violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Uranus`: To be suddenly suspended. To lose one’s freedom. To lose one’s liberty to act.
-- Freedom of action is abruptly cut off, indicating sudden suspension, enforced restraint, or a sharp loss of independence.
-- Practical expression: influenced future technology, energy emelting by air, subtle energy impulses, new energies by metaphysics, and sudden insecurity by violence.
+In Neptune/Vulcanus = Uranus, change can involve a sudden interruption of freedom or action. [Witte](#witte-entry) names suspension and lost liberty; [ABC](#abc-entry) adds sudden insecurity through violence, but also technological renewal and air or water-energy examples (printed p. 405, PDF p. 201). The entry preserves abrupt restriction as a stated possibility without making every technical change a loss of independence.
 
 ## Links
 

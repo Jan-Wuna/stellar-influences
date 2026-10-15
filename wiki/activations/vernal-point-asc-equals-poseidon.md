@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Poseidon`
 - Astronomicon formula: `VP/Asc = ¨`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ To seek mental communities. To be introduced to ideas. Cities where there are un
 
 Findings for the public Environment, witty partners in the public, clarity for a public place, culture place in the public, public place for truth, and public environment culture
 
+## Comparative Schema
+
+- Core meaning: Public contacts and places concerned with ideas and culture.
+- Psychology: Seeking intellectual company and encountering ideas.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Mental communities and intellectually lively partners.
+- Events/manifestations: Universities, publishing houses, and public cultural settings.
+- Conflicts/notes: Clarity and truth are ABC themes, not proof that every idea encountered is true.
+
+## Contradictions
+
+No direct conflict appears; institutional examples and the ABC's clarity/culture language have different levels of specificity.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Poseidon`: to seek mental communities, to be introduced to ideas, and cities where there are universities and publishing houses.
-- Practical expression: findings for the public Environment, witty partners in the public, clarity for a public place, culture place in the public, and public place for truth.
+Poseidon specifies `Vernal Point/Asc` through public surroundings and contacts that offer ideas, intellectual company, or culture. Universities and publishing houses make that theme concrete; the ABC's clarity and truth language describes the subject of such places, not a guarantee about what any particular community teaches. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 21 / PDF p. 9.)
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Uranus Apollon Admetos](../triads/uranus-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ The satisfaction over the end of a matter, which kept the native under severe te
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 385; PDF p. 191.
+
 #### ABC Entry
 
-Restricted trade impulses, success through new knowledge, consolidation of technical knowledge, fundamental knowledge emulation, new knowledge of the primordial material, Surprising depression experiences, and deepening in new knowledge
+Restricted trade impulses, success through new knowledge, consolidation of technical knowledge, thorough renewal of knowledge, new knowledge of primordial matter, surprising experiences of depression, deepening into new knowledge.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Relief after a tense matter ends, alongside consolidation and renewal of knowledge.
+- psychology: Satisfaction and relaxation in Witte; ABC also includes experiences of depression.
+- body/health: ABC's depression wording is an attributed association, without a diagnosis.
+- social/relationship: Trade is restricted in ABC; no particular intimate relationship is described.
+- events/manifestations: Technical knowledge consolidates, new knowledge can bring success, and a tense matter reaches its end.
+- conflicts/notes: Relief and restricted trade or depression remain different possibilities; knowledge is not promised as a cure.
+
+## Contradictions
+
+Witte emphasizes relief, whereas ABC includes restrictions and depression as well as successful learning. The entries do not say that learning necessarily removes distress. ABC's former “fundamental knowledge emulation” has been corrected from “gründliche Wissens-Erneuerung” after inspection of printed p. 385 (PDF p. 191).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = Apollon`: The satisfaction over the end of a matter, which kept the native under severe tension. To feel relaxed.
-- Practical expression: restricted trade impulses, success through new knowledge, consolidation of technical knowledge, fundamental knowledge emulation, and new knowledge of the primordial material.
+In `Uranus/Admetos = Apollon`, Apollon specifies interruption or consolidation through a matter reaching its conclusion and knowledge becoming firmer. [Witte](#witte-entry) emphasizes the satisfaction and relaxation that follow the end of severe tension. [ABC](#abc-entry) adds renewed technical knowledge and success through learning, while retaining restricted trade and experiences of depression. Relief and successful understanding are supported possibilities, alongside restrictions that the entries do not automatically resolve.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Vernal Point Pluto Node](../triads/vernal-point-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 148 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ General changes in connections. Changes of connections in the general public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed p. 222 (PDF p. 110).
+
 #### ABC Entry
 
 development in public connections, developing contacts in public, changes in the connections of public life, growing connections in public life, and changeable bonds in public
 
+## Comparative Schema
+
+- core meaning: Connections develop and change in public life.
+- psychology: No separate inner disposition is established.
+- body/health: No bodily condition is specified.
+- social/relationship: Public contacts and bonds are the setting.
+- events/manifestations: Growth or turnover of connections in the general public.
+- conflicts/notes: The entries concern public connections, not a forecast of general events.
+
+## Contradictions
+
+The entries overlap in public relational change; they do not establish that every new contact changes wider conditions.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Node = Vernal Point`: general conditions change through new contacts, alliances or social links.
-- Practical expression: development in public connections, developing contacts in public, changes in the connections of public life, growing connections in public life, and changeable bonds in public.
+In `Pluto/Node = Vernal Point`, Vernal Point specifies developing connections in public life. The subject is the growth, change and variability of public contacts themselves, as stated in the [Witte entry](#witte-entry) and expanded in the [ABC entry](#abc-entry). The available wording supports a public setting for relational change without establishing a particular alliance, event or outcome.
 
 ## Links
 

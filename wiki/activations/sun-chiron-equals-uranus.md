@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Chiron Uranus](../triads/sun-chiron-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
+Source: supplied Sandbach PDF p. 16, Uranus entry under Sun/Chiron, ending immediately before Neptune.
+
 To have insights into the spiritual purpose of life, and which usually come suddenly and unexpectedly. To be able to see that the spiritual purpose of life is con stantly mutating, taking new forms, and being expressed in
+
+## Comparative Schema
+
+- core meaning: Sudden insight and changing forms of purpose.
+- psychology: Unexpected recognition of meaning.
+- body/health: No bodily condition or medical claim is given.
+- social/relationship: No specific relationship event is described.
+- events/manifestations: Abrupt realizations and awareness that purpose changes form.
+- conflicts/notes: The source ends 'and being expressed in'; no continuation is reconstructed.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Uranus`: sudden realizations of deeper purpose and breakthroughs that reveal what is spiritually essential.
+Uranus specifies the Sun/Chiron axis through sudden, unexpected insight into spiritual purpose. The intact part of the [Sandbach entry](#sandbach-entry) also portrays purpose as changing and taking new forms. The passage ends with an unfinished phrase in the supplied PDF, so the synthesis stops at those complete claims and supplies no imagined continuation.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¢/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `285` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `446`; PDF page: `222` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Influence of the past, energy deficiency, secret power, violence criminality, enormous disadvantages, grief by violence, power deficiency, t deficiency, pernicious power, past power, and renunciation of violence
+German pair summary (transcribed from printed page `446`; PDF page `222`):
+
+> Einfluß der Vergangenheit, Energie-Mangel, gefährlicher Einfluß, geheime Macht, Gewalt-Kriminalität, gewaltige Nachteile, Kummer durch Gewalt, Kraft-Mangel, Macht-Mangel, verborgene Macht, vergangene Macht, Verzicht auf Gewalt
+
+Editorial translation from the German passage: Influence of the past, lack of energy, dangerous influence, secret power, violent criminality, enormous disadvantages, grief through violence, lack of strength, lack of power, hidden power, past power, renunciation of violence.
+
+## Comparative Schema
+
+- Core meaning: Power in harmful, hidden, diminished, or relinquished forms ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Moral terms such as "wickedness" belong to the source's evaluations; no inherent character verdict follows.
+- Body/health: Grave danger and violent acts are historical examples; ABC energy deficiency does not establish a medical diagnosis.
+- Social/relationship: Slavery, criminal force, grief through violence, and renunciation of violence are distinct source examples.
+- Events/manifestations: Brute force, grave crimes, secret power, and influence of the past are named.
+- Conflicts/notes: Harmful force, hidden power, deficient strength or power, and renunciation of violence are distinct expressions. They do not form one inevitable outcome or explain when each applies.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Influence of the past, energy deficiency, secret power, violence criminality, en
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus`: evil backed by raw strength: grave danger, violent oppression, brutal acts, murder, slavery, capital crime, and the overwhelming presence of destructive force.
-- Chart expression: corruption no longer remaining hidden or merely miserable, but becoming coercive, heavy, and physically dangerous. It can describe organized brutality, criminal force, persecution, and situations where the dark or degraded side of life is experienced as power rather than weakness.
+`Hades/Vulcanus` concerns power in adverse or concealed forms. The Pair Summary emphasizes brutality, grave danger, slavery, and serious crime, using strongly moral language to describe destructive force. These remain attributed historical source examples ([Pair Summary](#pair-summary)).
+
+The ABC summary broadens the range to secret power, the influence of the past, diminished energy or strength, and renunciation of violence. The range therefore includes damaging uses of force and withdrawal from it; the summaries do not explain the circumstances of these different expressions ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

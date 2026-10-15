@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
 - Triad hub: [Venus Jupiter Uranus](../triads/venus-jupiter-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 179 (one-based).
 
 Suddenly manifested love connected with happiness.
 
@@ -45,17 +49,23 @@ Suddenly manifested love connected with happiness.
 
 #### ABC Entry
 
-Exciting love event, success of an artistic technique, successful love event, joy of harmonious rhythm us, peace impulses through money, tense harmony through money, surprising right wing peace, and desires for financial reform
+- Source page: 276; PDF page: 137 (one-based spread).
+
+Love event bringing happiness, success of an artistic technique, successful love event, joy in harmonious rhythm, peace impulses through money, tense harmony through money, surprising legal peace, and wishes for financial reform
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 185; entry code: 0619.
 
 Love of art, sense of rhythm, inspired artistic receptivity. A sudden and passing happiness in love, artistic success, birth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 60 (one-based; entry-specific page not established).
 
 An enthusiasm for that which is unusual or eccentric. To encourage others to be open. If one is too exuberant about freely expressing love it may intimidate other people. To be excessively erratic in relating and displaying affection.
 
@@ -70,22 +80,21 @@ Generosity shown toward those who express enjoyment in innovative ways; a fortun
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden happiness and receptive enthusiasm for new love, art, or ideas.
+- psychology: Enthusiasm and generosity, but also exuberance that may intimidate.
+- body/health: Ebertin lists birth as historical doctrine, without a medical mechanism.
+- social/relationship: Passing happiness in love or excessively erratic affection.
+- events/manifestations: Artistic success, rhythmic enjoyment, financial reform, and acceptance of innovative ideas.
+- conflicts/notes: Rechts-Frieden means legal peace here; it supplies no right-wing political allegiance.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden happiness and excessive erratic affection are different possibilities. Money is linked to both peace impulses and tense harmony.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Jupiter`: enthusiastic openness to unusual people, progressive values, and the ability to attract exciting friendships, romances, or artistic openings. Main caution: novelty can become an appetite in itself, leading to excess, unreliable judgment, or romantic overstatement.
+In `Venus/Uranus = Jupiter`, Jupiter specifies the pair through sudden happiness and openness to innovation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name happiness in love, which Ebertin qualifies as passing, alongside artistic receptivity and rhythm. The [ABC entry](#abc-entry) adds artistic technique and financial reform. [Munkasey](#munkasey-entry) allows generosity toward unusual ideas, while [Sandbach](#sandbach-entry) warns that exuberance may intimidate or become erratic. The affirmative tone therefore retains a limit in how affection is expressed.
 
 ## Links
 

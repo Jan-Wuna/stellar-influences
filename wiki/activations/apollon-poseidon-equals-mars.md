@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Poseidon = Mars`
 - Astronomicon formula: `¥/¨ = U`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 308, Mars row.
+
 Common activity with people of the same mind. Activity with fellow sufferers. The same kind of activity creates the same state of mind.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work in the mind science, expansion of intellectual creation, successful cultural work, creating spiritual freedom, creating true knowledge, scientific cultural activity, and increasing knowledge through work
+Reference: printed p. 472 (one-based PDF p. 235), Mars row.
+
+Work in spiritual science, expansion of intellectual creation, successful cultural work, establishing intellectual freedom, creating true knowledge, scientific cultural activity, and increasing understanding through work.
+
+## Comparative Schema
+
+- core meaning: Shared activity and intellectual or cultural work that shapes understanding.
+- psychology: Similar activity creates a similar state of mind in Witte's wording.
+- body/health: Fellow suffering is named without a specific bodily or medical condition.
+- social/relationship: Common activity with like-minded people or fellow sufferers.
+- events/manifestations: Cultural work, intellectual creation, establishing freedom, and increasing knowledge through work.
+- conflicts/notes: Shared activity is explicit; militant group-think, activism, or deficient reflection is not stated.
+
+## Contradictions
+
+The entries emphasize compatible forms of common work and developed understanding. Neither says that a shared mind prevents intellectual freedom.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Mars`: comradeship in action, ideological labor, activism, and the forging of outlook through shared struggle or effort. Main caution: militant sameness: common purpose can become combative group-think or action that outruns reflection.
+In `Apollon/Poseidon = Mars`, Mars specifies the pair through common activity and the understanding formed in doing it. The [Witte entry](#witte-entry) joins like-minded people or fellow sufferers in activity and states that similar work can create a similar state of mind. The [ABC entry](#abc-entry) gives this effort intellectual and cultural fields, including creative work, establishing freedom, and increasing knowledge through work.
 
 ## Links
 

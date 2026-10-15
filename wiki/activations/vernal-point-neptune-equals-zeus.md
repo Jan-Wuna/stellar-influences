@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Neptune Zeus](../triads/vernal-point-neptune-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Restriction in activity through malice and hatefulness. Disruptions in the railroad business or machine establishments. To derange or mess up.
 
@@ -42,13 +46,27 @@ Restriction in activity through malice and hatefulness. Disruptions in the railr
 
 #### ABC Entry
 
-Exchange of Public Filing, Fine Filing in Public Life, Flocking Weakness in Public, Public Services in Air or Water, Public Future Targets, and Unmistakable Targets for the Public
+- Source page: 41; PDF page: 19 (one-based spread).
+
+Disappointment over public leadership, subtle-material leadership in public life, weak public leadership, public achievements in air or water, public future goals, and unclear goals for the public
+
+## Comparative Schema
+
+- core meaning: Public uncertainty focused on leadership, aims, and productive systems.
+- psychology: Disappointment in leadership and unclear goals are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Weak leadership and activity restricted through malice.
+- events/manifestations: Railroad or machine disruptions and achievements in air or water.
+- conflicts/notes: Feinstoffliche leadership is retained literally as subtle-material; it supplies no established mechanism.
+
+## Contradictions
+
+Public achievements and future goals coexist with disruption and weak or unclear leadership. The unusual subtle-material phrase remains source terminology rather than an explanatory doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Zeus`: restriction in activity through malice and hatefulness, disruptions in the railroad business or machine establishments, and to derange or mess up.
-- Practical expression: exchange of Public Filing, fine Filing in Public Life, flocking Weakness in Public, public Services in Air or Water, and public Future Targets.
+In `Vernal Point/Neptune = Zeus`, public uncertainty affects leadership and the direction of activity. The [Witte entry](#witte-entry) names malicious restriction and disruptions in railroads or machinery. The restored [ABC entry](#abc-entry) adds disappointment, weak leadership, unclear goals, and achievements in air or water. Its unusual subtle-material leadership phrase is retained without elaboration; the connected reading concerns aims or productive systems whose direction is uncertain.
 
 ## Links
 

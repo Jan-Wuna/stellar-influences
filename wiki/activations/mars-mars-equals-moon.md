@@ -27,17 +27,34 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Mars](../axes/mars-mars.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 190, Mars + Mars, Moon row.
 
 #### Witte Entry
 
 Consciousness. The active brain. Working processes in the brain. Acts of volition. The sweetheart. The wife or mistress. The active woman. The household. The working time. The working hour. The industrious or efficacious populace. Energetic woman. The labouring class. The working people. The working woman.
 
+## Comparative Schema
+
+- core meaning: Activity is expressed in consciousness, volition and everyday labor.
+- psychology: Consciousness and acts of will are explicit.
+- body/health: Brain processes are historical source associations; no medical condition is named.
+- social/relationship: Household, partners, working people and woman-specific roles are represented.
+- events/manifestations: Working time, working hours and household activity are concrete settings.
+- conflicts/notes: Gender and class labels remain attributed examples, not exclusive assignments of work or consciousness.
+
+## Contradictions
+
+One source entry supplies mental, household and labor settings. Its role labels do not establish a universal gender rule.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Mars = Moon` roots action in consciousness, brain-work, labor rhythms, and the active feminine or working populace.
-- Chart expression: acts of will, active mental processes, working time, household activity, industrious women, laboring people, and the everyday embodiment of effort.
+Moon specifies the repeated Mars/Mars axis through conscious action and everyday work. The [Witte entry](#witte-entry) links volition and mental activity with working hours, households and working people. Its woman-specific and class-based examples remain historical source language rather than a general rule about who works or exercises will; the brain references do not establish a medical finding.
 
 ## Links
 

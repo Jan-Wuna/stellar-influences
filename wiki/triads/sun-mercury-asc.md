@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Mercury/Asc = Sun](../activations/mercury-asc-equals-sun.md)
-- [Sun/Asc = Mercury](../activations/sun-asc-equals-mercury.md)
-- [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mercury/Asc = Sun](../activations/mercury-asc-equals-sun.md) | [Mercury/Asc](../axes/mercury-asc.md) | [Sun](../factors/sun.md) |
+| [Sun/Asc = Mercury](../activations/sun-asc-equals-mercury.md) | [Sun/Asc](../axes/sun-asc.md) | [Mercury](../factors/mercury.md) |
+| [Sun/Mercury = Asc](../activations/sun-mercury-equals-asc.md) | [Sun/Mercury](../axes/sun-mercury.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Mercury/Asc = Sun`: Michael, page `180`
-- `Sun/Asc = Mercury`: Michael, page `96`
-- `Sun/Mercury = Asc`: Michael, page `60`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Mercury/Asc = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mercury-asc-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/mercury-asc-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/mercury-asc-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mercury-asc-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mercury-asc-equals-sun.md#munkasey-entry), printed p. `180`.
+- `Sun/Asc = Mercury`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-asc-equals-mercury.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-asc-equals-mercury.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-asc-equals-mercury.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-asc-equals-mercury.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-asc-equals-mercury.md#munkasey-entry), printed p. `96`.
+- `Sun/Mercury = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mercury-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mercury-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-mercury-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mercury-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-mercury-equals-asc.md#munkasey-entry), printed p. `60`.
+
+The linked entries retain these additional locators: `Mercury/Asc = Sun` — Witte one-based PDF p. `83` (oriented entry); ABC printed p. `106` (PDF p. `52`). `Sun/Mercury = Asc` — Witte one-based PDF entry-start p. `103`; ABC printed p. `142` (PDF p. `70`); Ebertin printed p. `82`, entry `0204`; Sandbach one-based PDF chapter-start p. `8`. Sandbach's number is not an exact entry page.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

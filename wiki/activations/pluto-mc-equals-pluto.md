@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Increased need to be recognized by others in life for who you are or what you ca
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A strong need for recognition that can lead to dishonest or ruthless pursuit of ambition.
+- psychology: Recognition-seeking and ruthlessness in ideas.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Others' acknowledgment of identity or ability is central.
+- events/manifestations: Seeking recognition or support for ambitions through less than honest means.
+- conflicts/notes: The entry describes a possibility of dishonest conduct, not a fixed character judgment.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; no competing account is supplied, and it does not promise achievement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Pluto`: Increased need to be recognized by others in life for who one is or what one can do; helps one to stoop to less than honest means for achieving recognition and help with one's ambitions; adds a ruthlessness to one's ideas.
+Pluto specifies Pluto/MC in the [Munkasey entry](#munkasey-entry) through an intensified need to be recognized for identity or ability. The entry connects that need with the possibility of dishonest means to secure recognition or help with ambition, and with ruthlessness in ideas. This repeated-factor formula therefore identifies a pressure in the pursuit of standing without establishing that dishonest conduct is inevitable or successful.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
 - [MC](../factors/mc.md)
-- [Pluto](../factors/pluto.md)
 - [Pluto/MC](../axes/pluto-mc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

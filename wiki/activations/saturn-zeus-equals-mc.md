@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Zeus = MC`
 - Astronomicon formula: `W/£ = MC`
 - Axis page: [Saturn/Zeus](../axes/saturn-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `226` (entry start).
+
 Incendiary. Separation and losses through activity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting mental disturbances, myc task design, my handling problems, my concentration lcitation, my performance problems, problems of a fiery soul, scclic initial swimmings, and seclic efforts in old age
+- Source page: `358`; PDF page: `178`.
+
+Beginning emotional disturbances, my shaping of tasks, my leadership problems, my concentration performance, my performance problems, problems of a fiery soul, initial emotional difficulties, and emotional efforts in old age.
+
+## Comparative Schema
+
+- core meaning: Personal difficulty shaping tasks, leading or performing, with losses through activity.
+- psychology: Initial emotional difficulty and the source's image of a fiery soul.
+- body/health: Emotional disturbance is source language, not a diagnosis.
+- social/relationship: Leadership problems and separation caused by activity.
+- events/manifestations: Concentration and performance demands, personal effort in old age and losses.
+- conflicts/notes: Witte's incendiary example remains attributed; it does not establish criminal conduct by a person.
+
+## Contradictions
+
+Witte stresses losses through action; ABC describes personal task, leadership and performance difficulties. These are related settings without an explicit disagreement or necessary causal chain.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Zeus = MC`: incendiary, separation and losses through activity.
-- Practical expression: starting mental disturbances, myc task design, my handling problems, my concentration lcitation, and my performance problems.
+In `Saturn/Zeus = MC`, MC specifies directed activity as a personally demanding task: shaping work, leading and concentrating can bring performance problems and emotional difficulty ([ABC](#abc-entry)). [Witte](#witte-entry) emphasizes separation and loss through activity, with an incendiary as a severe particular example. The organizing concern is the personal cost and result of one's effort, without a basis for diagnosing emotional illness or assigning criminal conduct from the formula.
 
 ## Links
 

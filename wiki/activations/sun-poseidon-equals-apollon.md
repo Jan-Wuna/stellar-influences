@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Poseidon = Apollon`
 - Astronomicon formula: `S/¨ = ¥`
 - Axis page: [Sun/Poseidon](../axes/sun-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Sun + Poseidon`; one-based PDF page `118` (oriented row checked against the scan).
+
 Experience about the cooperation of body and soul. To spiritualize a science. Success in the field of spiritual science. Many congenial companions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success through personal insight, expansion of the Yemunft in man, clarity in the knowledge of the body, persons of the mind science, personal spiritual success, center of the mind science, and center of the cultural knowledge
+- Source passage: `Sonne + Poseidon`; printed p. `173`; one-based PDF page `85` (oriented row checked against the scan).
+
+Success through personal insight, expansion of reason in the human being, clarity in knowledge of the body, people of spiritual science (Geistes-Wissenschaft), personal spiritual success, center of spiritual science, center for cultural knowledge.
+
+## Comparative Schema
+
+- core meaning: Insight and growing reason are linked with cultural or spiritual-scientific success.
+- psychology: Personal understanding and clarity of bodily knowledge are explicit.
+- body/health: Cooperation of body and soul is metaphysical source language, not a medical mechanism.
+- social/relationship: Many congenial companions and people of spiritual science provide social settings.
+- events/manifestations: Centers for spiritual science or cultural knowledge and spiritualizing a science are named.
+- conflicts/notes: Vernunft means reason; spiritual science remains the sources' terminology rather than validated scientific status.
+
+## Contradictions
+
+No direct contradiction is established. Personal insight, study and congenial company share a broad intellectual or spiritual setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Poseidon = Apollon`: inspiration that brings success and truth that spreads widely.
-- Practical expression: success through personal insight, expansion of the Yemunft in man, clarity in the knowledge of the body, persons of the mind science, and personal spiritual success.
+In `Sun/Poseidon = Apollon`, personal insight broadens into reason, cultural knowledge and the study called spiritual science by the sources. Experience concerning body and soul and clarity in bodily knowledge give understanding a specific subject, while success and many congenial companions extend it into shared intellectual life. The source's spiritual-science terms retain their own frame without establishing scientific validation. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

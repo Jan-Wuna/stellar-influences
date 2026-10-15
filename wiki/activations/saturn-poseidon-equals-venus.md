@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Venus`
 - Astronomicon formula: `W/¨ = Q`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 Harmony between teacher and student. Most favored teacher or student. Pleasant occurrences in the field of educational matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks in the arts and culture, patience and reason in love, spiritual maturity through the arts, urban cultural peace, clarity through concentration on harmony, problems with truth in love, and preference for cultural tasks
+- Source page: `368`; PDF page: `183`.
+
+Tasks in the arts and culture, patience and reason in love, spiritual maturity through the arts, disturbed cultural peace, clarity through concentration on harmony, problems with truth in love, and preference for cultural tasks
+
+## Comparative Schema
+
+- core meaning: Harmony and appreciation in education, love and cultural tasks.
+- psychology: Patience, reason and a preference for artistic or cultural work.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Favored teacher or student and harmony between them; truth can be difficult in love.
+- events/manifestations: Pleasant educational occurrences, artistic maturation and disturbed cultural peace.
+- conflicts/notes: Harmony is a focus, not an assured condition; ABC explicitly retains disturbance and problems with truth.
+
+## Contradictions
+
+Witte emphasizes favorable educational relations; ABC adds both artistic harmony and its disturbance. Different conditions are represented rather than a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Venus`: harmony between teacher and student, most favored teacher or student.
-- Practical expression: tasks in the arts, culture, patience, reason in love, and spiritual maturity through the arts.
+In `Saturn/Poseidon = Venus`, Venus specifies educational and cultural concerns through harmony and appreciation: teacher and student can relate favorably, while artistic work and cultural tasks become valued avenues of maturity ([Witte](#witte-entry), [ABC](#abc-entry)). Patience and reason also enter love, and concentrated attention to harmony can bring clarity. ABC nevertheless preserves disturbed cultural peace and problems with truth in love, so the pursuit of harmony does not establish that it has been achieved.
 
 ## Links
 

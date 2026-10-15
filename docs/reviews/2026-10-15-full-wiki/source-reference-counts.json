@@ -1,0 +1,200 @@
+{
+  "basis": "before/wiki source blocks with explicit ### source heading; excludes unheaded source-only entries and structural omission sections",
+  "rows": [
+    {
+      "source": "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+      "entries": {
+        "factors": 22,
+        "axes": 253,
+        "activations": 4620
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 22,
+        "axes": 175,
+        "activations": 4620
+      }
+    },
+    {
+      "source": "Aren Ober - Midpoint Interpretation Simplified",
+      "entries": {
+        "factors": 0,
+        "axes": 2,
+        "activations": 14
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Charles Carter - The Astrological Aspects",
+      "entries": {
+        "factors": 0,
+        "axes": 36,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 36,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Don McBroom - Midpoints",
+      "entries": {
+        "factors": 0,
+        "axes": 2,
+        "activations": 2
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 2,
+        "activations": 2
+      }
+    },
+    {
+      "source": "Hajo Banzhaf and Anna Haebler - Keywords for Astrology",
+      "entries": {
+        "factors": 11,
+        "axes": 70,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "entries": {
+        "factors": 1,
+        "axes": 91,
+        "activations": 1085
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 1,
+        "axes": 91,
+        "activations": 1085
+      }
+    },
+    {
+      "source": "L. Edward Johndro - Astrological Dictionary",
+      "entries": {
+        "factors": 10,
+        "axes": 0,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Manly P. Hall - Astrological Keywords",
+      "entries": {
+        "factors": 9,
+        "axes": 0,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Michael Harding and Charles Harvey - Working with Astrology",
+      "entries": {
+        "factors": 0,
+        "axes": 1,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Michael Munkasey - Midpoints: Unleashing the Power of the Planets",
+      "entries": {
+        "factors": 13,
+        "axes": 78,
+        "activations": 1014
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Michelle Falis - Planet Combinations: Astrological Brainstorms",
+      "entries": {
+        "factors": 0,
+        "axes": 45,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 45,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Reinhold Ebertin - The Combination of Stellar Influences",
+      "entries": {
+        "factors": 13,
+        "axes": 76,
+        "activations": 836
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 13,
+        "axes": 76,
+        "activations": 836
+      }
+    },
+    {
+      "source": "Robert Hand - Horoscope Symbols",
+      "entries": {
+        "factors": 14,
+        "axes": 91,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 14,
+        "axes": 91,
+        "activations": 0
+      }
+    },
+    {
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "entries": {
+        "factors": 22,
+        "axes": 231,
+        "activations": 4620
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 22,
+        "axes": 231,
+        "activations": 4620
+      }
+    },
+    {
+      "source": "Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone",
+      "entries": {
+        "factors": 0,
+        "axes": 2,
+        "activations": 0
+      },
+      "missing_local_numeric_locator_bullet": {
+        "factors": 0,
+        "axes": 0,
+        "activations": 0
+      }
+    }
+  ]
+}

@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Cupido](../axes/asc-cupido.md)
 - Triad hub: [Asc Cupido Admetos](../triads/asc-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 A small family or community. The one-family house, country style (rustic).
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 91, “Asc + Cupido,” Admetos row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community of the environment, restricted local community, consolidated local community, joint stabilization of the environment, environmental partner community, resistance to environmental communities, and support for other communities
+Blocked community in the surroundings, restricted local community, consolidated local community, joint stabilization of the surroundings, thoroughgoing partner community, resistance to communities in the surroundings, and suppression of other communities.
+
+Source reference: printed p. 123 (PDF p. 60), “Aszendent + Cupido,” Admetos glyph row, checked on the scan. The translation restores “Blockierte,” “gründliche,” and especially “Unterdrückung anderer Gemeinschaften” (suppression, not support).
+
+## Comparative Schema
+
+- **Core meaning:** Small or restricted communities, with consolidation as well as obstruction ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Neither entry establishes a provincial attitude or fear of growth.
+- **Body/health:** Neither entry supplies a body or health claim.
+- **Social/relationship:** A small family, consolidated community, resistance to communities, and suppression of other groups are distinct examples.
+- **Events/manifestations:** A rustic one-family house and joint stabilization of the surroundings are explicit.
+- **Conflicts/notes:** The repaired ABC entry includes suppression rather than support; consolidation must not erase its adverse possibilities.
+
+## Contradictions
+
+Witte emphasizes small scale and a type of dwelling; ABC includes both stabilization and blockage or suppression. These are different circumstances, not a claim that a small family is necessarily oppressive or a direct contradiction between the entries.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Admetos`: contained belonging, rooted domesticity, and a home life defined by stability and narrow scale. Main caution: enclosure: family or community cohesion can become limiting, provincial, or too small to grow freely.
+In `Asc/Cupido = Admetos`, Admetos specifies the pair through a small or bounded community, made concrete by Witte's small family and rustic one-family house. ABC adds consolidation and joint stabilization, but also blocked or restricted community life, resistance, and suppression of other communities. The common limit on scale or movement therefore has both stabilizing and obstructive forms; neither form should be imposed on every household. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

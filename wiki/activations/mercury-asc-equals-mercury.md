@@ -28,12 +28,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT With Itself`
-- Source page: `182`
+- Source locator: printed p. `182`, PDF p. `183` (Mercury row under With Itself; scan checked).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ The interpretation of verbal and similar information from the people you meet; m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Interpreting information from people and expressing an educated conviction are linked ([Munkasey](#munkasey-entry), p. 182).
+- psychology: Conviction in making a point coexists with flexibility in adapting to another's needs.
+- body/health: The entry contains no bodily or health statement.
+- social/relationship: Attention to what people communicate supports adapting to their needs.
+- events/manifestations: Interpreting verbal information and emphasizing important points are the concrete activities named.
+- conflicts/notes: This is Munkasey's repeated-pair entry; it has no distinct triad hub and no independent comparison on this page.
 
 ## Contradictions
 
-- None recorded yet.
+One source entry is present, so cross-source agreement or disagreement cannot be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Mercury`: The interpretation of verbal and similar information from the people one meets; making important points with an emphasis which comes from the result of educated conviction; flexibility when adapting to another’s needs.
+In Munkasey's repeated-pair `Mercury/Asc = Mercury`, Mercury specifies the encounter with others as an exchange to be understood and articulated: information from people informs an educated conviction, while flexibility allows that conviction to be expressed in relation to their needs. The [single entry](#munkasey-entry) (p. 182) supports both emphasis and adaptation; it does not supply a separate prediction or a health claim.
 
 ## Links
 

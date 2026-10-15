@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Mercury`
 - Astronomicon formula: `Y/g = T`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
-Vivid imagination. Fantastic connections of thought. To think about dissolved connections. Erroneous train of thoughts. Secret society held together by fruidess ideas.
+Vivid imagination. Fantastic connections of thought. To think about dissolved connections. Erroneous train of thoughts. Secret society held together by fruitless ideas.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Communication of languages via metaphysics, publication of a youth connection, exchange of language contacts, fine feeling in a contact language, sensitive relations with the youth, unclear communication, and connection to the transport of goods
+Initiating conversations about metaphysics, dissolution of a connection from youth, disappointing conversational contacts, sensitivity in a contact conversation, sensitive relationships with youth, unclear mediation of news, and connection to water transport
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1013`.
 
 #### Ebertin Entry
 
 Misconceptions about certain associations, false expectations, tendency to make secret arrangements with others and to deceive others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A mind which makes subtle connections and which can see hidden correla tions bet
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Seeking more impersonal means of communicating with others, such as by telephone
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: thought and communication shaped by uncertain or hidden connections.
+- psychology: vivid imagination, false expectations, and confused or unrealistic thinking are explicit.
+- body/health: no bodily or health claim is supplied.
+- social/relationship: secret arrangements, deceptive communication, impersonal contact, and avoidance are stated.
+- events/manifestations: conversation about metaphysics, youth connections, news mediation, and water transport are named.
+- conflicts/notes: Sandbach's subtle correlations differ from guaranteed psychic communication; Munkasey includes avoiding direct contact.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize imagination, mistaken ideas, and secret arrangements. Sandbach allows subtle correlations while warning against confusion; Munkasey stresses impersonal or avoided communication.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Mercury`: poetic rapport, psychic or symbolic communication, and the ability to sense what a bond means before it is plainly stated. Main caution: unclear agreement: communication can become evasive, idealized, deceptive, or too vague to support trust.
+In Neptune/Node = Mercury, thought and communication concern connections that may be subtle, hidden, or misunderstood. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe vivid imagination, mistaken expectations, and secret arrangements; [Sandbach](#sandbach-entry) also allows perception of hidden correlations while cautioning against confused thinking. [Munkasey](#munkasey-entry) adds impersonal communication or avoidance, and [ABC](#abc-entry) preserves sensitive but potentially disappointing conversation. The entry does not guarantee knowledge of a bond before it is expressed.
 
 ## Links
 

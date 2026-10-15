@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Jupiter`
 - Astronomicon formula: `R/W = V`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Woman travelling. The happily separated woman. The grass widow. Pleasant evening hours. Luck through separation of the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Success of a people through perseverance, financial losses of a woman, joy in the evening hours, happiness of a woman through separation, glimmering woman in old age, legal problems of a woman, difficult women's right, and advantage of a woman through patience
+A people's success through perseverance, financial losses of a woman, joy in evening hours, a woman's happiness through separation, a happy woman in old age, a woman's legal problems, difficulties with women's rights, and a woman's advantage through patience
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0379`.
 
 #### Ebertin Entry
 
 Successful self-reliance, responsibility, a sense of duty, conscientious. Quiet happiness, separation without sadness or unhappiness, a journey.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Expanded feelings of care and concern about your family or home matters; increas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: quiet happiness, responsibility, and possible benefit through perseverance or separation.
+- psychology: sincere enduring feelings, optimism about emotional difficulty, and excessive control are named.
+- body/health: no bodily or clinical condition is established.
+- social/relationship: family concern, sincere parenting, self-reliance, and separation without sadness are examples.
+- events/manifestations: journeys, pleasant evenings, financial losses, and legal problems are stated.
+- conflicts/notes: favorable separation and patience coexist with family-work frustration; disciplined generosity is not the sole meaning.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin allow happiness through separation and self-reliance; Sandbach includes both optimism and excessive control, while Munkasey includes family-work frustration. These qualify the favorable range without contradicting its possibility.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Jupiter`: dependable generosity, disciplined support, and emotional growth that becomes durable rather than inflated. Main caution: constrained optimism: heaviness can still narrow feeling if confidence is granted only under strict conditions.
+In Moon/Saturn = Jupiter, Jupiter specifies the pair through quiet satisfaction, responsibility, and the possibility of working constructively with difficult feelings. [Ebertin](#ebertin-entry) gives successful self-reliance and separation without unhappiness; [Sandbach](#sandbach-entry) connects enduring emotion with optimism, while retaining excessive control. [Witte](#witte-entry) and [ABC](#abc-entry) add pleasant evenings and happiness through separation.
+
+[Munkasey](#munkasey-entry) extends the theme into sincere parenting and care for home, alongside frustration when home and work restrict each other (p. 120). Patience and responsibility may support satisfaction, but the entries do not remove practical losses or conflicts.
 
 ## Links
 

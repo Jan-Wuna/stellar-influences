@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Kronos`
 - Astronomicon triad-set: `VP S ¤`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Kronos = Vernal Point](../activations/sun-kronos-equals-vernal-point.md)
-- [Vernal Point/Kronos = Sun](../activations/vernal-point-kronos-equals-sun.md)
-- [Vernal Point/Sun = Kronos](../activations/vernal-point-sun-equals-kronos.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Kronos = Vernal Point](../activations/sun-kronos-equals-vernal-point.md) | [Sun/Kronos](../axes/sun-kronos.md) | Vernal Point |
+| [Vernal Point/Kronos = Sun](../activations/vernal-point-kronos-equals-sun.md) | [Vernal Point/Kronos](../axes/vernal-point-kronos.md) | Sun |
+| [Vernal Point/Sun = Kronos](../activations/vernal-point-sun-equals-kronos.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Kronos |
 
 ## Source Coverage
 
-- `Sun/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `114`
-- `Sun/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `164`
-- `Vernal Point/Kronos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
-- `Vernal Point/Kronos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `50`
-- `Vernal Point/Sun = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `23`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Kronos = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-kronos-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `114`.
+- `Sun/Kronos = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-kronos-equals-vernal-point.md#abc-entry), printed p. `164`.
+- `Vernal Point/Kronos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-kronos-equals-sun.md#witte-entry), one-based PDF entry-start p. `51`.
+- `Vernal Point/Kronos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-kronos-equals-sun.md#abc-entry), printed p. `50`.
+- `Vernal Point/Sun = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-kronos.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-kronos.md#abc-entry), printed p. `23`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Vernal Point`: This formula emphasizes authority in the environment and rank in local circumstances.
-- `Vernal Point/Kronos = Sun`: This formula emphasizes independence and authority over many people.
-- `Vernal Point/Sun = Kronos`: This formula emphasizes physical capabilities, the leader of the people, independence day, and the mental (intellectual) leader.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

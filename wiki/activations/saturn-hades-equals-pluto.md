@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Hades = Pluto`
 - Astronomicon formula: `W/¢ = Z`
 - Axis page: [Saturn/Hades](../axes/saturn-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 225.
+
 Slow weakening and break-down. To fail little by little. To become melancholy. To resign. Unfinished matters multiply.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developments from problems of the past, development of grief and pain, difficult concentration development, adverse alteration by separation, Rcifc development by abandonment, and growing hard and deprivation
+- Source page: 357 (printed); PDF page: 177.
+
+Developments from past problems, development of grief and pain, difficulty developing concentration, adverse change through separation, development of maturity through renunciation, growing harshness and deprivations, growing danger of loss.
+
+Translation checked against the full exact German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Hardship develops gradually, with accumulating unfinished matters and changed conditions.
+- Psychology: Melancholy, resignation, difficult concentration, and growing grief.
+- Body/health: Weakening and painful experience are historical associations without a specific medical diagnosis.
+- Social/relationship: Adverse change through separation.
+- Events/manifestations: Slow weakening, increasing deprivation, growing loss risk, and maturity through renunciation.
+- Conflicts/notes: Maturity through renunciation is retained beside deterioration; it does not make hardship necessarily beneficial.
+
+## Contradictions
+
+Maturity through renunciation is retained beside deterioration; it does not make hardship necessarily beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Hades = Pluto`: slow weakening and break-down, to fail little by little, to become melancholy.
-- Practical expression: developments from problems of the past, development of grief, pain, difficult concentration development, and adverse alteration by separation.
+In `Saturn/Hades = Pluto`, Pluto specifies the pair through a developing or accumulating difficulty. The [Witte entry](#witte-entry) describes slow weakening and multiplying unfinished matters; the [ABC entry](#abc-entry) adds growing grief, deprivation, and risk of loss. Its maturity through renunciation remains another possibility, without turning deterioration or separation into an assured source of growth.
 
 ## Links
 

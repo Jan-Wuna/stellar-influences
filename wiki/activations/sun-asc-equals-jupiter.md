@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Jupiter Asc](../triads/sun-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Acquaintances that are very fortunate for the native. To enjoy advantages and su
 
 #### ABC Entry
 
-Financial center at the place, joy on the day at the place, joy with other persons, manly financial partner, glial people in the vicinity, personal partner rights, personal financial partner, personal environmental success, and right center at the place
+Source locator: printed page 100 / PDF page 49, Jupiter glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Financial center at the location, joy on the day at the location, joy with other persons, male financial partner, fortunate people nearby, personal partner rights, personal financial partner, success in one's personal surroundings, and a legal center at the location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ The generosity you show when relating to others; a need to give wisdom and advic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Support and growth through relationships.
+- psychology: Trust, confidence, enthusiasm, and purposeful self-presentation.
+- body/health: No specific health claim is given.
+- social/relationship: Helpful companions, generous exchanges, advice, and recognition of others.
+- events/manifestations: Joint success and public recognition; ABC also lists local financial partners.
+- conflicts/notes: ABC's local financial and legal settings are examples, without establishing an occupation or guaranteed gain.
 
 ## Contradictions
 
-- None recorded yet.
+The entries offer complementary accounts of beneficial contact; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Jupiter`: charisma, popularity, and growth through direct contact with others and the local environment. Main caution: inflation: self-presentation can become excessive, entitled, or careless about limits.
+Jupiter specifies the Sun/Asc axis as growth and advantage through personal contact. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries connect supportive acquaintances with trust, joint success, and recognition. The [Sandbach entry](#sandbach-entry) adds purposeful, confident engagement, while [Munkasey](#munkasey-entry) describes generosity, advice, and appreciation of another person's authority: connection succeeds through participation and mutual regard.
 
 ## Links
 

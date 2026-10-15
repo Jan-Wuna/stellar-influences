@@ -1,0 +1,23 @@
+*** Begin Patch
+*** Update File: wiki/activations/hades-kronos-equals-vulcanus.md
+@@
+-x^reaj ^h1^*^’ nieanness and evil. The government proceeds in a devilish way. Murders on a large scale.
++- Source reference: one-based PDF p. 279, Hades + Kronos, Vulcanus row; glyph and neighboring rows checked.
++
++Great brutality, meanness and evil. The government proceeds in a devilish way. Murders on a large scale.
+@@
+-Special energy deficiency, great violence through criminality, dangerous authoritarian influence, criminal power superiority, criminal violence engendered the state, power deficiency of the state, strong dominance of the past, and hidden power of a hierarchy
++- Source reference: printed p. 441; one-based PDF p. 219, Hades/Kronos, Vulcanus row.
++
++Special energy deficiency, great violence through criminality, dangerous authoritarian influence, criminal power superiority, criminal violence against the state, power deficiency of the state, strong dominance of the past, and hidden power of a hierarchy
+@@
+-- Events/manifestations: Criminal influence, state weakness, and mass violence are distinct possibilities in the entries.
++- Events/manifestations: Criminal influence, violence against the state, state weakness, and mass violence are distinct possibilities in the entries.
+@@
+-- Conflicts/notes: The Witte opening, `x^reaj ^h1^*^’`, is damaged. ABC's `criminal violence engendered the state` does not securely translate the cached German `kriminelle Gewalt geg_en den Staat`; that clause is excluded from synthesis. Witte's parser locator is one-based PDF p. 279 (entry start), not a verified printed-page reference.
++- Conflicts/notes: Witte describes violence committed by government; ABC also names criminal violence against the state. The direction of violence must remain distinct, alongside the state's possible lack of power.
+@@
+-In `Hades/Kronos = Vulcanus`, Vulcanus specifies the Hades/Kronos pair through the scale and imbalance of power: criminal dominance, dangerous authority, or a state unable to exercise sufficient power. The readable portion of the [Witte Entry](#witte-entry) gives the extreme example of government violence and mass killing; the [ABC Entry](#abc-entry) (printed p. 441) also retains energy deficiency and the hidden power of hierarchy. The damaged opening and mistranslated state-violence clause do not support further conclusions.
++In `Hades/Kronos = Vulcanus`, Vulcanus specifies the Hades/Kronos pair through the scale and imbalance of power: criminal dominance, dangerous authority, or a state unable to exercise sufficient power. The [Witte Entry](#witte-entry) gives the extreme example of brutality, government violence and mass killing; the [ABC Entry](#abc-entry) also retains energy deficiency and the hidden power of hierarchy. ABC's criminal violence against the state differs from Witte's violence by government. These are distinct expressions of coercion or weakness, rather than a claim that every manifestation combines them.
+*** End Patch
+

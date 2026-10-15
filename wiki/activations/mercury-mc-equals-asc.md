@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Asc MC](../triads/mercury-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 The opinion about other persons. To speak with others. To talk about another person. The moment of local news.
 
@@ -45,17 +49,25 @@ The opinion about other persons. To speak with others. To talk about another per
 
 #### ABC Entry
 
-I think of the partner, I think of the environment, I write for others, my youth in the place, my words to the partner, the partner's Seden language, and spiritual movement in the environment
+German passage (transcribed from PDF page `33`, printed page `68`):
+
+> Andere beschreiben mich, beseeltes Denken des Partners, ich denke an den Partner, ich denke an die Umwelt, ich schreibe für andere, meine Jugend am Ort, meine Worte an den Partner, Seelen-Sprache des Partners, seelische Bewegung in der Umwelt
+
+Editorial translation from the German passage: Others describe me; a partner's soulful thinking; I think of the partner; I think of my surroundings; I write for others; my youth in this place; my words to the partner; the partner's language of the soul; inner movement in one's surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 174, coded entry 0577.
 
 Propagating one's opinion and influencing one's environment accordingly. Determining one's attitude to other people, judging or giving expert advice.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 To identify with being a high-minded person. To play the role of an authori tative thinker. The desire and need to project spiritual ideas through one’s personality.
 
@@ -70,22 +82,21 @@ Observations you make about people and how these help you grow or mature; charac
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal views expressed in direct contact with others.
+- psychology: Identifying as an authoritative thinker or developing through observation.
+- body/health: No specific body or health claim appears.
+- social/relationship: Giving advice, judging others, and influencing the immediate environment.
+- events/manifestations: Local news, conversation, writing for others, and growth through education.
+- conflicts/notes: Sandbach's high-minded self-presentation does not itself establish arrogance or lack of understanding.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe both influencing others and developing through observation of them. Sandbach's authority is a projected identity, not independent evidence that a view is correct.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Asc`: identity built around viewpoint, expertise, or thoughtful self-presentation, and to influence exerted through conversation and judgment. Main caution: intellectual self-importance: one can project certainty or authority faster than genuine understanding or receptivity.
+Asc specifies Mercury/MC through the presentation of one's thinking to other people. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries connect opinions, conversation, judgement, and advice to influence on the environment. [Sandbach](#sandbach-entry) places authority in the identity one projects, while [Munkasey](#munkasey-entry) (p. 184) shows observation, education, and writing contributing to personal growth. The common thread is an outlook made visible in encounters, without assuming that a confident presentation is necessarily justified or unjustified.
 
 ## Links
 

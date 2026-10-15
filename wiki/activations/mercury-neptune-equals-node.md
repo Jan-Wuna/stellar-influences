@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Node`
 - Astronomicon formula: `T/Y = g`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 To grasp a meaning easily and make a good verbal picture of it.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Interchangeable encounter with youth, subtle thought connection, talk about impoverished connections, air traffic connections, news connection in the air, insecure connection to youth, and wireless traffic connections
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Enttäuschende Begegnung mit der Jugend, feinfühlige Gedanken-Verbindung, Gespräche über zukünftige Verbindungen, Luft-Verkehrs-Verbindungen, Nachrichten-Verbindung in der Luft, unsichere Verbindung zur Jugend, Wasser-Verkehrs-Verbindungen
+
+Editorial translation from the German passage: A disappointing encounter with youth; a sensitive connection of thoughts; conversations about future connections; air transport connections; a news connection through the air; an uncertain connection to youth; water transport connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Printed source page: `161`; entry code: `0527`.
+
 #### Ebertin Entry
 
-Ability to enter into associations with other people, the power to connect imaginative elements or factors with each other. The discussion of joint plans and ideas. 29 Mercury/Neptune = Pluto has been found in the case of exceptional actors.
+Ability to enter into associations with other people, the power to connect imaginative elements or factors with each other. The discussion of joint plans and ideas.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Attracting people who tune into other forms of information in or out of this wor
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connecting imaginative elements, understanding meaning and sharing plans.
+- psychology: Witte emphasizes grasping meaning and forming a verbal picture.
+- body/health: No bodily or medical claim is established.
+- social/relationship: Shared ideals, group links and associations with psychics or mentalists appear in the sources.
+- events/manifestations: Joint discussions and ABC's air, news and water connections are examples.
+- conflicts/notes: Sandbach distinguishes negative from positive psychic links; ABC includes disappointment and uncertainty.
 
 ## Contradictions
 
-- None recorded yet.
+The constructive ability to connect ideas and people coexists with ABC's disappointing encounter and uncertain youth connection. The Pluto actor footnote is excluded here because it belongs to Ebertin0526, not Node0527.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Node`: artistic circles, compassionate dialogue, and the ability to create affiliation through shared sensitivity or vision. Main caution: social haze: relationships can become vague, porous, or too driven by fantasy and projection.
+In `Mercury/Neptune = Node`, Node connects the axis through people and imaginative associations. Witte emphasizes grasping a meaning and giving it a clear verbal picture; Ebertin adds linking imaginative elements and discussing joint plans. Sandbach and Munkasey extend this into shared ideals and psychic groups, while ABC retains disappointing or uncertain connections. The connection may convey a vision without establishing that every group bond is clear or beneficial ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - Triad hub: [Moon Vulcanus Poseidon](../triads/moon-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 315 (one-based).
 
 A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
 
@@ -42,13 +46,27 @@ A people with self-confidence and pride. To have a national sense of honor. The 
 
 #### ABC Entry
 
-Influenced idea of a woman, mental violence against a people, spiritual power of a people, mental influence of women, clarity about influence, power of true virtues, powerful culture people, and impoverished influence of women
+- Source page: 478; PDF page: 238 (one-based spread).
+
+An influential idea of a woman, mental violence against a people, spiritual power of a people, mental influence of a woman, clarity about the influence of feelings, strength of true feelings, a culturally powerful people, and reasonable influence of a woman.
+
+## Comparative Schema
+
+- Core meaning: Collective dignity and mental influence, with women's influence and the strength of feelings as attributed examples.
+- Psychology: Collective self-confidence, pride, and clarity about emotional influence are explicit.
+- Body/health: No medical claim is supplied.
+- Social/relationship: A people's dignity, cultural power, and exposure to mental violence are named; the historical extension to women stays attributed.
+- Events/manifestations: An influential idea, cultural influence, and the power of true feelings are examples.
+- Conflicts/notes: The ABC virtues/impoverishment errors and omitted feelings wording were repaired against the German scan.
+
+## Contradictions
+
+Collective dignity and violence directed against a people are different possible circumstances, not mutual guarantees. ABC's English was corrected at printed p. 478 (PDF p. 238): the passage concerns true feelings and reasonable influence, not "true virtues" or "impoverished influence".
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vulcanus/Poseidon = Moon`: A people with self-confidence and pride. To have a national sense of honor. The dignity of a people. The same delineation goes for women and the public in general.
-- Practical expression: influenced idea of a woman, mental violence against a people, spiritual power of a people, mental influence of women, and clarity about influence.
+In `Vulcanus/Poseidon = Moon`, Moon specifies the pair through a people's confidence, dignity, and mental or cultural influence. The historical entries also locate this influence in a woman's ideas and in the strength and clarity of feelings. The [Witte Entry](#witte-entry) emphasizes collective honor (PDF p. 315), while the [ABC Entry](#abc-entry) preserves both emotional influence and the possibility of mental violence against a people (printed p. 478; PDF p. 238). These remain attributed possibilities, not universal claims about nations, women, or emotional life.
 
 ## Links
 

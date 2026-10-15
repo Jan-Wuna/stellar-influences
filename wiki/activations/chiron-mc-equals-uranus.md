@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/MC](../axes/chiron-mc.md)
 - Triad hub: [Chiron Uranus MC](../triads/chiron-uranus-mc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,21 @@ updated_at: 2026-04-21
 
 The ability to bring new awareness and perspectives to the world. Flashes of insight into the higher meaning of things. Original insights into how the world order needs to be changed and into the specific type of parenting each individual needs.
 
+Source locator: one-based PDF page 103, exact activation paragraph; PDF page 102 is the chapter start. Checked against the actual PDF.
+
+## Comparative Schema
+
+- **Core meaning:** New awareness and original insight into higher meaning, world change and individual parenting needs.
+- **Psychology:** Flashes of insight bring new perspectives on meaning.
+- **Body/health:** This paragraph gives no specific bodily or clinical healing claim.
+- **Social/relationship:** Insight concerns both changes to the world order and the specific parenting each individual needs.
+- **Events/manifestations:** Bringing new awareness and perspectives into the world is the stated ability.
+- **Conflicts/notes:** These are Sandbach's claims of insight; the paragraph supplies neither a particular reform program nor a warning about failed practical embodiment.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Uranus`: original healing perspectives and reforming vocation. Main caution: becoming so identified with revelation that practical embodiment falls behind.
+`Chiron/MC = Uranus` describes bringing new awareness and perspectives to the world through flashes of insight into higher meaning. Sandbach includes two distinct applications: original ideas about changing the world order and insight into the particular parenting an individual needs. The entry leaves the proposed changes and parenting forms unspecified. ([Sandbach Entry](#sandbach-entry))
 
 ## Links
 

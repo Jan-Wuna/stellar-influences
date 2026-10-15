@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md)
-- [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md)
-- [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md) | [Moon/Saturn](../axes/moon-saturn.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Saturn = Uranus`: Michael, page `120`
-- `Moon/Uranus = Saturn`: Michael, page `124`
-- `Saturn/Uranus = Moon`: Michael, page `284`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based; Sandbach locators identify a chapter start only.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Saturn = Uranus](../activations/moon-saturn-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-saturn-equals-uranus.md#witte-entry) (PDF p. 126); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-saturn-equals-uranus.md#abc-entry) (printed p. 185); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/moon-saturn-equals-uranus.md#ebertin-entry) (printed p. 126); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/moon-saturn-equals-uranus.md#sandbach-entry) (PDF chapter start p. 31); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/moon-saturn-equals-uranus.md#munkasey-entry) (printed p. 120) |
+| [Moon/Uranus = Saturn](../activations/moon-uranus-equals-saturn.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-saturn.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-saturn.md#abc-entry) (printed p. 187); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/moon-uranus-equals-saturn.md#ebertin-entry) (printed p. 129); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/moon-uranus-equals-saturn.md#sandbach-entry) (PDF chapter start p. 33); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/moon-uranus-equals-saturn.md#munkasey-entry) (printed p. 124) |
+| [Saturn/Uranus = Moon](../activations/saturn-uranus-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/saturn-uranus-equals-moon.md#witte-entry) (PDF p. 221); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/saturn-uranus-equals-moon.md#abc-entry) (printed p. 348); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/saturn-uranus-equals-moon.md#ebertin-entry) (printed p. 247); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/saturn-uranus-equals-moon.md#sandbach-entry) (PDF chapter start p. 88); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/saturn-uranus-equals-moon.md#munkasey-entry) (printed p. 284) |
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+No cross-orientation doctrinal comparison has been performed here. Each formula has its own base axis and activating factor; differences between those orientations are not treated as contradictions.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Pluto`
 - Astronomicon formula: `W/g = Z`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
-2 Divorce which requires a long time. Slow cooling off of connections or unions. Development of a serious relationship.
+- PDF page: `145` (entry start).
+
+Divorce which requires a long time. Slow cooling off of connections or unions. Development of a serious relationship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development through encounters in old age, development of a first degree of integration, the smooth development of an encounter, changes in an old relationship, growing problems in a connection, and change in a straitened connection
+- Source page: `217`; PDF page: `107`.
+
+Development through encounters in old age, development of a serious relationship, painful development of an encounter, changes in an old connection, growing problems in a connection, and change in a disturbed connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0911`.
 
 Tendency to sacrifice oneself for others, suffering from others. Suffering shared together with others. (Mourning and bereavement.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 An extreme fear of letting go of the past. Intensive, even stifling restrictions encountered in one’s connections with others. Relentless resistance to taking in new experiences.
 
@@ -70,22 +80,21 @@ Incidents which push you beyond self help and into plights which require you to 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Difficult changes in a connection and pressure around dependence on others.
+- psychology: Fear of releasing the past and insistence on helping oneself.
+- body/health: Suffering is mentioned without a specific bodily condition.
+- social/relationship: Shared suffering, stifling restrictions and help with conditions attached.
+- events/manifestations: Slow separation, development of a serious relationship and circumstances requiring assistance.
+- conflicts/notes: A relationship may develop or cool; neither outcome is guaranteed by the entries.
 
 ## Contradictions
 
-- None recorded yet.
+Developing a serious relationship and slowly separating describe different trajectories. The entries also distinguish shared suffering from restrictive or conditional help; these emphases do not establish a direct disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Pluto`: enduring collective strength, strategic partnership, and the ability to hold together under extreme pressure. Main caution: coercion: social ties can become fear-based, manipulative, or difficult to humanize once control takes over.
+In `Saturn/Node = Pluto`, Pluto specifies the difficult development of a connection: it may become serious, change painfully or cool toward a prolonged separation ([Witte](#witte-entry), [ABC](#abc-entry)). The pressure also concerns dependence. Fear of releasing old attachments can make a bond stifling, while circumstances may require accepting help that carries conditions ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). [Ebertin](#ebertin-entry) adds self-sacrifice and suffering shared with others. Together these passages describe the cost of maintaining or changing a bond, with mourning and bereavement retained as historical examples.
 
 ## Links
 

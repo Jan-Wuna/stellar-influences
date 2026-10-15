@@ -1,0 +1,2114 @@
+{
+  "scope": "Final 59 disjoint Moon Source Entries changes; independent verification of other reviewers' work",
+  "verifier": "/root/factor_source_repairs",
+  "status": "complete",
+  "candidate_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-moon-final-candidates.json",
+  "counts": {
+    "assigned": 59,
+    "full_baseline_and_current_sections_read": 59,
+    "full_unique_owner_records_read": 59,
+    "accepted": 59,
+    "held": 0,
+    "pending_owner": 0,
+    "unreviewed": 0,
+    "total_source_blocks_read": 124,
+    "affected_blocks_raw_checked": 122,
+    "abc_complete_rows_personally_scan_checked": 58,
+    "affected_english_blocks_direct_text_checked": 64,
+    "direct_text_matches": 63,
+    "scan_resolved_extraction_exceptions": 1,
+    "unchanged_inherited_munkasey_blocks_not_newly_certified": 2,
+    "actual_proof_images_personally_viewed": 14,
+    "raw_pdf_files": 5,
+    "owner_source_corrections_requested_and_independently_rebound": 1
+  },
+  "groups": {
+    "Moon/Apollon": 20,
+    "Moon/Asc": 8,
+    "Moon/Cupido": 20,
+    "Moon/Hades": 7,
+    "Moon/MC": 4
+  },
+  "protocol": [
+    "Read every entire baseline and current Source Entries section and the full unique owning original review record; no sampling or reconstructed page review.",
+    "Checked every changed block and added locator against actual immutable raw passage; personally viewed complete own glyph rows and every German quotation/translation or English repair.",
+    "Direct complete raw-text English matching provides a second check. Witte60 final general is absent from extraction but personally visible in the scan; restoration verified.",
+    "Freshly reread the final Poseidon section and full original041:39 record after owner corrected Kultur-Erfolge/cultural successes. Only that selection source hash changed.",
+    "Retained source-specific medical, gender, crime and violence language remains attributed. Source verification supplies no real-world diagnosis, causal risk inference or new timing layer."
+  ],
+  "qualified_limits": [
+    {
+      "path": "wiki/activations/moon-apollon-equals-hades.md",
+      "limit": "Successful deprivation in the ABC Hades row remains a literal source phrase with no supplied mechanism."
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+      "limit": "Geistes-Wissenschaft is rendered with its explicit humanities/study-of-mind range; no single additional doctrine inferred."
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-chiron.md",
+      "limit": "The actual Sandbach39 Chiron source prints re late and feelings conditions; faithfully retained with explicit note."
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "limit": "ABC Rechts-Kunst einer Frau remains a literal unusual compound; no specific legal/artistic role is inferred."
+    }
+  ],
+  "inherited_prose_bounds": [
+    "Two unchanged Munkasey Moon/Asc Jupiter/Mars blocks were read in full with the source sections; no newly added reference or wording change calls for certifying them as a fresh source edition.",
+    "Locator-only retained ABC translations were checked to identify the complete actual own German row and reference. Approval does not claim a new independent translation edition."
+  ],
+  "selection_hash_rebounds": [
+    {
+      "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+      "old": "5e83aa6201e28890d49c886d280ed2ad71958dcdcb6328b69bfb97a96baffb83",
+      "current": "b4f78fc7626f11c3fda7ee96b3d0465afed8abe9543292ae60b058d071a7abe8",
+      "reason": "Owner corrected exact quoted/translated cultural-successes plural; final full source and owning record reread."
+    }
+  ],
+  "per_record": [
+    {
+      "index": 0,
+      "path": "wiki/activations/moon-apollon-equals-admetos.md",
+      "before_sha256": "b8507811cbcbb4337fc8a5c10659438d9a2307b9bf3f6d1ae7fa88ab2800c5ed",
+      "after_sha256": "59fa7aabd1f47b29b13215dc707d528a96c4777a851961eaa04036c80c53701b",
+      "selection_after_sha256": "59fa7aabd1f47b29b13215dc707d528a96c4777a851961eaa04036c80c53701b",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:27",
+      "record_sha256": "4073fcc423a2542f20653358f5f4eb6930f92480797b78daf0a7e1a81d21b85b",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 1,
+      "path": "wiki/activations/moon-apollon-equals-asc.md",
+      "before_sha256": "db3e2496a4fe3581888441bb8251166f07d787f29969f32db704dba329cc2916",
+      "after_sha256": "53faf3653b708038906df66b880b7dd6447826f7862bc780501809bafc103bb2",
+      "selection_after_sha256": "53faf3653b708038906df66b880b7dd6447826f7862bc780501809bafc103bb2",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:28",
+      "record_sha256": "9de063fecc88a9ac048e28145882b8164dcd955e61b72890e8c6a3423a4d9d2f",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 2,
+      "path": "wiki/activations/moon-apollon-equals-cupido.md",
+      "before_sha256": "d55470843827be366814e386da579fadcf3968e9085ac7eb462df873ca9c1d40",
+      "after_sha256": "e571768803263c20107e907e9b52ff6f9c24c62499d5897cba3a76f0d6aa9fca",
+      "selection_after_sha256": "e571768803263c20107e907e9b52ff6f9c24c62499d5897cba3a76f0d6aa9fca",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:29",
+      "record_sha256": "eb8bd6d818c4e497efc8d76fa07a3eb5fd6e9125cbc96a6c1e94189cb73fa891",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 3,
+      "path": "wiki/activations/moon-apollon-equals-hades.md",
+      "before_sha256": "a90001cf37a5f37dd0785ffdbe76afacacc9e39ca57bfe3b2e997276302b1022",
+      "after_sha256": "c148a3a916dbcfca10056538e3f98406da612fb7bb79d104da79e9615c8d4c86",
+      "selection_after_sha256": "c148a3a916dbcfca10056538e3f98406da612fb7bb79d104da79e9615c8d4c86",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:30",
+      "record_sha256": "1a93466ab98f6fde2d26cf0fdb77bb3dba2b5326a1c047b2cd83dc2540b2a84e",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete ABC201 Hades row checked; successful deprivation remains literal and unspecified, with no stronger meaning supplied."
+    },
+    {
+      "index": 4,
+      "path": "wiki/activations/moon-apollon-equals-jupiter.md",
+      "before_sha256": "2f1263585c1c25d49f544275b18da1c7a50ba06f620337073c113b15f86bd81c",
+      "after_sha256": "e18f94e6db414d2a85f0f6e7670696c20ddcd155da3f25c7748d8e7205baa053",
+      "selection_after_sha256": "e18f94e6db414d2a85f0f6e7670696c20ddcd155da3f25c7748d8e7205baa053",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:31",
+      "record_sha256": "b3cd8fe83c0f8152c8bfec1d6d805ddd7d054c434d74459ae7df03548aead7b2",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 5,
+      "path": "wiki/activations/moon-apollon-equals-kronos.md",
+      "before_sha256": "56ded5adec7a6d720e36c88f822ca527bcaafbfe39043fdd7adb824dff252117",
+      "after_sha256": "41d141c5f2bd4c279b225ff7a96527b053faa0ec093c39256bfda19b70979393",
+      "selection_after_sha256": "41d141c5f2bd4c279b225ff7a96527b053faa0ec093c39256bfda19b70979393",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:32",
+      "record_sha256": "c87ef893719a0dae806d746bf2c2659f51acd41588ab67fdcc1f0da9b03886dd",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 6,
+      "path": "wiki/activations/moon-apollon-equals-mars.md",
+      "before_sha256": "0fd94b8d617238ad86dd26ca9618062ab1009ad556dee4dd6601cbd0a3c2d0f0",
+      "after_sha256": "983ef3b158bbfa8ad119d2356ab2ab20c4c27dc2f172921ceea0f1cc27ef375b",
+      "selection_after_sha256": "983ef3b158bbfa8ad119d2356ab2ab20c4c27dc2f172921ceea0f1cc27ef375b",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:33",
+      "record_sha256": "b28f0456abf96d24615a1a3eea01da165ba82848ea22b217776a1f5dae243564",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 7,
+      "path": "wiki/activations/moon-apollon-equals-mc.md",
+      "before_sha256": "fed581d5953912f3bb6cb285eedf5e27daddaf13798280fa14425c2a6fca2343",
+      "after_sha256": "fe9e8a1971deb810e75f3123c7c774bd0c72742f8ed9289b60d018ce45243437",
+      "selection_after_sha256": "fe9e8a1971deb810e75f3123c7c774bd0c72742f8ed9289b60d018ce45243437",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:34",
+      "record_sha256": "b5e2c99a0fa5a2b892407ed3844cb0b77d13aa193ad678ca4d3cbabf6bb41e7e",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 8,
+      "path": "wiki/activations/moon-apollon-equals-mercury.md",
+      "before_sha256": "55216eb362556b9cf94a01abdcc2e7e9665159b889a52255f392187438e1ae1b",
+      "after_sha256": "4353cccc4d35a41ae37899596e5c4c1df32316d5c397c036c36f552f082c848c",
+      "selection_after_sha256": "4353cccc4d35a41ae37899596e5c4c1df32316d5c397c036c36f552f082c848c",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:35",
+      "record_sha256": "48624979adf824c3b7e979d30ebb23bb96699536b4747b67640ff3920914b508",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 9,
+      "path": "wiki/activations/moon-apollon-equals-neptune.md",
+      "before_sha256": "5a245e9a71a91959e1684ce4c3841ead66a024da47a0deed716d21f97094a238",
+      "after_sha256": "02099a32453f14bf502b24a3164d73e31de604920882c4e5003adf1e252e66f5",
+      "selection_after_sha256": "02099a32453f14bf502b24a3164d73e31de604920882c4e5003adf1e252e66f5",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:36",
+      "record_sha256": "a264484c7b2964de749e5f824cafd2abecd9e385545eca73082c09660da9cba5",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 10,
+      "path": "wiki/activations/moon-apollon-equals-node.md",
+      "before_sha256": "81fec3298b664f9f12b97b58ebc8cf3272d9dfc2774ea6f34e905756b056aa33",
+      "after_sha256": "c44105c35648698f8b0c7a9653425709d27fe137c896225105057d27c22ce839",
+      "selection_after_sha256": "c44105c35648698f8b0c7a9653425709d27fe137c896225105057d27c22ce839",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:37",
+      "record_sha256": "3b10953ae20c211a3312012789118309628999dd8fd66b36f23a12d0a8b11205",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 11,
+      "path": "wiki/activations/moon-apollon-equals-pluto.md",
+      "before_sha256": "c57e5d54409795dd5b71503f9ee38df9c60f971a62f559da8a0ee2573b572105",
+      "after_sha256": "3cdcfcc9177a999f88fee584000dd4c0165a0a31be7e48ea9afd413d042818af",
+      "selection_after_sha256": "3cdcfcc9177a999f88fee584000dd4c0165a0a31be7e48ea9afd413d042818af",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:38",
+      "record_sha256": "aed45a1615624e51ab49cbd58f33d346e4871b0b22dd988f5a2b5b2db80cd335",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Actual Witte134 alternate Pluto glyph is not prose E; ABC complete row and every added locator verified."
+    },
+    {
+      "index": 12,
+      "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+      "before_sha256": "6bb6aa255fdfb5db8225725cb497ce2fb6a13036e844501255259785eddd3b4c",
+      "after_sha256": "b4f78fc7626f11c3fda7ee96b3d0465afed8abe9543292ae60b058d071a7abe8",
+      "selection_after_sha256": "5e83aa6201e28890d49c886d280ed2ad71958dcdcb6328b69bfb97a96baffb83",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:39",
+      "record_sha256": "a9358c3cb064f1ebacd582f0c27b1b0afceacc8893caaf6be67eee8dad34ddfa",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Fresh full final Source Entries and amended original041:39 record reread after owner's bounded plural correction. Actual ABC99/printed201 Poseidon quote Kultur-Erfolge and translation cultural successes now match; complete eight-clause ABC row and full restored Witte134 Poseidon opening independently verified. Geistes-Wissenschaft keeps its stated humanities/study-of-mind range without invented doctrine."
+    },
+    {
+      "index": 13,
+      "path": "wiki/activations/moon-apollon-equals-saturn.md",
+      "before_sha256": "eab228ea70c3e2b054b1e42347f265bf063d87f723f131951a01980587888fc6",
+      "after_sha256": "a85db34cc5b6f652e2d8ba55f0b2baff749c26600a49dd39c1f0f9db1cb6ed4c",
+      "selection_after_sha256": "a85db34cc5b6f652e2d8ba55f0b2baff749c26600a49dd39c1f0f9db1cb6ed4c",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:40",
+      "record_sha256": "064cc4b8a96316c0cf1f22ba039a54829e8016905e96327a4442b0263f749365",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 14,
+      "path": "wiki/activations/moon-apollon-equals-sun.md",
+      "before_sha256": "c1e1d8482812bb3c1eb88f131a133bf23762b662c6954a421b31ceb9d531823a",
+      "after_sha256": "563675af2cf217d555049cd7820afa98ce91cc4e8e9830fc3be539e948ca6bab",
+      "selection_after_sha256": "563675af2cf217d555049cd7820afa98ce91cc4e8e9830fc3be539e948ca6bab",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:41",
+      "record_sha256": "70b832f9e49967f12cee2e51b2ac1c74b52ca6333ba3158593ae59184a4e07e9",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 15,
+      "path": "wiki/activations/moon-apollon-equals-uranus.md",
+      "before_sha256": "b999583f5b29a175dcccb774aa822e96498c0f1928d27c576a2f1d2e5957f980",
+      "after_sha256": "c1cfd17fec7ca8372cd084fe8f753734262f39731d0572661a4baeb4c3a733d0",
+      "selection_after_sha256": "c1cfd17fec7ca8372cd084fe8f753734262f39731d0572661a4baeb4c3a733d0",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:42",
+      "record_sha256": "857ff520314450ab7e06935c362221bf6538e0b2008fae97c2069105df109c90",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 16,
+      "path": "wiki/activations/moon-apollon-equals-venus.md",
+      "before_sha256": "8c572d361fc4b4caf035a341811da73e75a57043bd4f5decb65a7ec78332a265",
+      "after_sha256": "c9d3fe1f5b4257ba9bc4b28a8eeaddd8a87424033633631db56742958e9faa7d",
+      "selection_after_sha256": "c9d3fe1f5b4257ba9bc4b28a8eeaddd8a87424033633631db56742958e9faa7d",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:43",
+      "record_sha256": "6f5b55bf5902973d60d0ffc45a723c0b5cf168b29237fb55601887b18bb44151",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 17,
+      "path": "wiki/activations/moon-apollon-equals-vernal-point.md",
+      "before_sha256": "b16890e755067aa30212cbdc277a9badadd0b5d34073ccbbdbb656cd90f5c9f6",
+      "after_sha256": "319578b56a2c7a24149ecce767173da1a3ca06bab8461f569d97392b120d2893",
+      "selection_after_sha256": "319578b56a2c7a24149ecce767173da1a3ca06bab8461f569d97392b120d2893",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:44",
+      "record_sha256": "c9fa3d1c8b133485f4d6aebff276203501095405ff9528d39c473eb62e7e404f",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `200`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 18,
+      "path": "wiki/activations/moon-apollon-equals-vulcanus.md",
+      "before_sha256": "68ddedc5bba0a15c627739e9ea13abef275192855ba0c365dcdab7b0a24395a5",
+      "after_sha256": "bf4e6a1ead4b8ae0742181937db47538aba72d5a6ecd54e653170fb171b2f364",
+      "selection_after_sha256": "bf4e6a1ead4b8ae0742181937db47538aba72d5a6ecd54e653170fb171b2f364",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:45",
+      "record_sha256": "1cc49f3209b514a825ef24fc82fbd32fbf25ce78248a985674b80ccbf552ca9e",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Actual Witte134 Vulcanus ends after Great success of nations; removed following Poseidon opening verified; ABC201 full row located."
+    },
+    {
+      "index": 19,
+      "path": "wiki/activations/moon-apollon-equals-zeus.md",
+      "before_sha256": "ee5bb6e7166522f4e3c091db811d10acdefdeb11306dfbc560fff91927e5cf0c",
+      "after_sha256": "8765913223a49eb7f544d3b16597b7387e79ed4736651b5663c2293036b9976e",
+      "selection_after_sha256": "8765913223a49eb7f544d3b16597b7387e79ed4736651b5663c2293036b9976e",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:46",
+      "record_sha256": "ccb4abb50359921e8eeb2ee97dec38476dcea72a165c6da813f7b0a3595d4c87",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `134`.",
+        "- Printed source page: `201`; PDF page: `99`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png"
+      ],
+      "verification": "Complete current and baseline Source Entries plus full unique owner record read; actual Witte134 own row and complete ABC200/201 row checked, including every added locator. Retained English ABC on locator-only rows is not newly certified as an independent translation."
+    },
+    {
+      "index": 20,
+      "path": "wiki/activations/moon-asc-equals-admetos.md",
+      "before_sha256": "1e99fc165aaf8dc9d17ce2168ca49ee2cf189443c949d0e2443ea7d66dec076d",
+      "after_sha256": "ea74ccc381dc2f655e2d470babc88c3a994de23ac96e7fd770d171372e7e7ca9",
+      "selection_after_sha256": "ea74ccc381dc2f655e2d470babc88c3a994de23ac96e7fd770d171372e7e7ca9",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:47",
+      "record_sha256": "024951b92366a5e64b2a74b697f3dea15fdee2d8e97244a91466ebddd62afa9c",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `103`; PDF page: `50`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 21,
+      "path": "wiki/activations/moon-asc-equals-apollon.md",
+      "before_sha256": "698ded4a4f80d6f8470d95171990e7b9198fb7be4ff4f9eca1cc7043774aefe8",
+      "after_sha256": "d4c920f7a955dd44addbbf757fc5ecf32e6235da637b31488612d1ba1e3a64e9",
+      "selection_after_sha256": "d4c920f7a955dd44addbbf757fc5ecf32e6235da637b31488612d1ba1e3a64e9",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:48",
+      "record_sha256": "487285ff68951f307b97131dd07ecb37c18c62b254527a6ee48b368cba8227df",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `103`; PDF page: `50`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 22,
+      "path": "wiki/activations/moon-asc-equals-chiron.md",
+      "before_sha256": "605b85f9f9574f74b713a5b7605110ec8b9f75c4a2dea31164a9d6b2ff03743c",
+      "after_sha256": "84f4b3b63e4e2d1bbf7eb9f76339ac2aed3f3b143076b489698e4f539d749493",
+      "selection_after_sha256": "84f4b3b63e4e2d1bbf7eb9f76339ac2aed3f3b143076b489698e4f539d749493",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:50",
+      "record_sha256": "2fd63dfbbc133cba1f5a5b6d65646a4e6e3a61b492243e825737d6f0c3600d80",
+      "changed_blocks": [
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "total_blocks": 1,
+      "source_refs": [
+        "- PDF page: `39` (exact Chiron activation passage checked against the raw page)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf039.png"
+      ],
+      "verification": "Personally viewed full exact Chiron39 paragraph; the actual raw source visibly prints re late and feelings conditions, correctly retained with explicit note. No reconstruction."
+    },
+    {
+      "index": 23,
+      "path": "wiki/activations/moon-asc-equals-cupido.md",
+      "before_sha256": "efe4c3a0e0f0885a74947335738737b0204b81a88d7c1da2d127d98fa8bcee11",
+      "after_sha256": "dfab803d06d50874913ff8c1c4d0d4f5da69b23ecc71992eccba9aa871934c9d",
+      "selection_after_sha256": "dfab803d06d50874913ff8c1c4d0d4f5da69b23ecc71992eccba9aa871934c9d",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:51",
+      "record_sha256": "c5e7bd3a4e1b3dd7e9761f06dbbc9734d2ab934e9c3b3369258317835cfc3e3c",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `103`; PDF page: `50`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 24,
+      "path": "wiki/activations/moon-asc-equals-hades.md",
+      "before_sha256": "a2a25001e7fe512028cb01dd6663366255432120a67c68106833836ab0baf8f1",
+      "after_sha256": "af0f24806ee713523775a9ff84669d181d8b08fd55b9cb27b903663367f90192",
+      "selection_after_sha256": "af0f24806ee713523775a9ff84669d181d8b08fd55b9cb27b903663367f90192",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:52",
+      "record_sha256": "b94e40e2adf95de74759673f9ba917b2240d3ed2362606bec6610848780ff372",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `103`; PDF page: `50`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 25,
+      "path": "wiki/activations/moon-asc-equals-jupiter.md",
+      "before_sha256": "fd809f9d557cfbe5d0a0c0e41e0966bfae55ab4aa170b8d53bbf220e1a2d98c8",
+      "after_sha256": "896bcbdb9ffd72f1601236db64b006652b50b414903877c46fa8c7506b1c7c91",
+      "selection_after_sha256": "896bcbdb9ffd72f1601236db64b006652b50b414903877c46fa8c7506b1c7c91",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:53",
+      "record_sha256": "db15c87f87206dfb766cdf4c572b3712ec680c79f7d414290f3e3afe12173529",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "total_blocks": 4,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `102`; PDF page: `50`.",
+        "- PDF page: `39` (exact Jupiter activation passage checked against the raw page).",
+        "- Source heading: `MOON/ASCENDANT with Planets and Points`",
+        "- Source page: `140`"
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf039.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 26,
+      "path": "wiki/activations/moon-asc-equals-kronos.md",
+      "before_sha256": "a1f95a5fe420a43b207b5bc80467545dc8c37b477170e8e6760fe4788b7fb73d",
+      "after_sha256": "4306fdba8ef7d3227e4cc17c5a78f707b5ffe7a37df30c8324e8d3b2851e9ada",
+      "selection_after_sha256": "4306fdba8ef7d3227e4cc17c5a78f707b5ffe7a37df30c8324e8d3b2851e9ada",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:54",
+      "record_sha256": "c4f5c071977d3a092e7e94d4aa0172db8e6b641e96e04d4f5828251e0d803978",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `103`; PDF page: `50`."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 27,
+      "path": "wiki/activations/moon-asc-equals-mars.md",
+      "before_sha256": "0b4a96dbc3db34c145cbad03f82703f004fa607a9f4941bbcb3460f79723a346",
+      "after_sha256": "2dfce14ea30a5f3bb6cf883390169941fe42b58155990577485ee4d194aede67",
+      "selection_after_sha256": "2dfce14ea30a5f3bb6cf883390169941fe42b58155990577485ee4d194aede67",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl:55",
+      "record_sha256": "a57a2f0d29c2f906ce7867678997c110495aa083d0d15701390723590575f325",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints"
+      ],
+      "total_blocks": 4,
+      "source_refs": [
+        "- PDF page (entry start): `81`.",
+        "- Printed source page: `102`; PDF page: `50`.",
+        "- PDF page: `39` (exact Mars activation passage checked against the raw page).",
+        "- Source heading: `MOON/ASCENDANT with Planets and Points`",
+        "- Source page: `140`"
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf039.png"
+      ],
+      "verification": "Full before/current Source Entries and owner record read; own Witte81 row, complete ABC102/103 German row and all added locators checked directly. Exact Sandbach39 Jupiter/Mars complete where added. Retained Munkasey blocks on Jupiter/Mars unchanged and not newly source-certified."
+    },
+    {
+      "index": 28,
+      "path": "wiki/activations/moon-cupido-equals-admetos.md",
+      "before_sha256": "c4458cc37baf80a1afe55cf4bf696b71ca212d49233fd5d496d6999fb7fdafb0",
+      "after_sha256": "81c9347a40c4840e747d848432d6d460fcafe5011d913313ca0993eadf6c30b4",
+      "selection_after_sha256": "81c9347a40c4840e747d848432d6d460fcafe5011d913313ca0993eadf6c30b4",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:29",
+      "record_sha256": "a42ee88c2c48ac9d02cc1ba8a30477ec0c2745f502d2501a2f30e5fc6ce57fd0",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 29,
+      "path": "wiki/activations/moon-cupido-equals-apollon.md",
+      "before_sha256": "334196b35f0606506f8643e808236f6ba1c0f117c68a87ad6a16022c2403dc64",
+      "after_sha256": "61d1e1b2f490977b3359985b1a804f4bc2c2f9c864ef8f140be6b8bbc3a5d877",
+      "selection_after_sha256": "61d1e1b2f490977b3359985b1a804f4bc2c2f9c864ef8f140be6b8bbc3a5d877",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:30",
+      "record_sha256": "55c362af4312d81b80ad80fa086c10977cb2d71e3a5dbd897164b23162a9f231",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 30,
+      "path": "wiki/activations/moon-cupido-equals-asc.md",
+      "before_sha256": "0d3314debffd4b7bb4d8a21bd5760029faed496f93bbab5de0c5df4e1d0e2047",
+      "after_sha256": "25eaf27e6e3ea7c0fbef501fb94dbd08403dd8d4f3b08931f2882fe803aa4d98",
+      "selection_after_sha256": "25eaf27e6e3ea7c0fbef501fb94dbd08403dd8d4f3b08931f2882fe803aa4d98",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:31",
+      "record_sha256": "133937ab3871610072ade38c3202cef12ab06ce737fc0a1b7c19ab09717878b5",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 31,
+      "path": "wiki/activations/moon-cupido-equals-hades.md",
+      "before_sha256": "ca4a4f940c398d019969c5c004abcde0859e6d46f5ef88b368acac340d1544fb",
+      "after_sha256": "2dd8076a3b1307647ae3b88d9948c5e146bdcc765fd1343c0824ac372a933856",
+      "selection_after_sha256": "2dd8076a3b1307647ae3b88d9948c5e146bdcc765fd1343c0824ac372a933856",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:32",
+      "record_sha256": "b176690d693554dc5ad0b8c1409a1442c7b6f031a47fb70081c43b8a3904f536",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 32,
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "before_sha256": "647aecb81b875e8435e86afe64d0b80d3935cee8ac201dd5713c81458eaeddbb",
+      "after_sha256": "eb350cdcad6c297997cb13d07ecd522d30892cd3a4a56572f5ca3a2b431b07f8",
+      "selection_after_sha256": "eb350cdcad6c297997cb13d07ecd522d30892cd3a4a56572f5ca3a2b431b07f8",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:33",
+      "record_sha256": "17129d012a44cd7e5514ae80f65e2f40c0f415bf71df359a0f863d3684fb91fa",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full ABC192 Jupiter seven clauses verified; Rechts-Kunst einer Frau remains an unusual literal source compound, with no inferred legal/art role. Witte130 complete own row and added locator verified."
+    },
+    {
+      "index": 33,
+      "path": "wiki/activations/moon-cupido-equals-kronos.md",
+      "before_sha256": "9b69e04f7110365472d76f27577fe66ab9021ebeded8a119999ddb4b8cbea542",
+      "after_sha256": "1d9cb8bcb8bcd71d63da06525f18b4767f09d046200c97a3f7fd2e430141ba2d",
+      "selection_after_sha256": "1d9cb8bcb8bcd71d63da06525f18b4767f09d046200c97a3f7fd2e430141ba2d",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:34",
+      "record_sha256": "68a15c2bfa9f4dee418841cd1ddc1149fb09d49fa4230346de60613a8d6cf363",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 34,
+      "path": "wiki/activations/moon-cupido-equals-mars.md",
+      "before_sha256": "e63c97e71f1b6398bb5e6de585a7d2d65a0b3156a63c1d9dc5a3e790c84f0be2",
+      "after_sha256": "a981ec28602512be00eaf4fdb51805891f85efd1b79c27ef5e960c6061010a32",
+      "selection_after_sha256": "a981ec28602512be00eaf4fdb51805891f85efd1b79c27ef5e960c6061010a32",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:35",
+      "record_sha256": "c943cdf099668bd2a18293ed93b1ec6ace46fa9fd7f99d0bbbed1c27da2ff682",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 35,
+      "path": "wiki/activations/moon-cupido-equals-mc.md",
+      "before_sha256": "643466865e3f9b0a4822b032bf3da208b84ca8dcdcde2b9e1e396a31461bc1f1",
+      "after_sha256": "77b4c75b39f01405b4a5fc1780bb1bdc7f42593ce1c1534ecc29b01ea5e5d874",
+      "selection_after_sha256": "77b4c75b39f01405b4a5fc1780bb1bdc7f42593ce1c1534ecc29b01ea5e5d874",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:36",
+      "record_sha256": "bb7692d926add3d1c2aec110dc6e9034e07a1a5a96eed9e1b19de92770248009",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Witte130 visibly prints unusual One own’s; corrected apostrophe faithfully retains original grammar. Complete ABC192 MC nine clauses and exact locator verified."
+    },
+    {
+      "index": 36,
+      "path": "wiki/activations/moon-cupido-equals-mercury.md",
+      "before_sha256": "f2f9646885550a1d127512a66ca03b920e97fce0607db098c98781bd17e09867",
+      "after_sha256": "a2d181a6d232e312a1dddfca4acc4cd30cd29cf1c0b56fc03a9730e904a78449",
+      "selection_after_sha256": "a2d181a6d232e312a1dddfca4acc4cd30cd29cf1c0b56fc03a9730e904a78449",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:37",
+      "record_sha256": "bed696cdb8e69256fcad3417c26436c311440e8bbc08ac2df486d440811d2546",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 37,
+      "path": "wiki/activations/moon-cupido-equals-neptune.md",
+      "before_sha256": "df0dd2a7c4288ab30939b0ec1bc85eeff224a999cf6d9dc4d49e42a964f80700",
+      "after_sha256": "e7d3da81f49b976a933b23b35157bd688c507c990f2251c1c1e9dde145162f92",
+      "selection_after_sha256": "e7d3da81f49b976a933b23b35157bd688c507c990f2251c1c1e9dde145162f92",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:38",
+      "record_sha256": "5f05669e84f49a2cecd0dbf85ce3110c30ba47aafe68270ea0ea81d25b71de44",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 38,
+      "path": "wiki/activations/moon-cupido-equals-node.md",
+      "before_sha256": "11b57097fdad0c0a64ee9c287517c77e5e7f55847eaa2b8c8dc009dea927b5d7",
+      "after_sha256": "67248359d7a286b07178357ea935df6003a942f8f48c21082df9abbdb76f7a2b",
+      "selection_after_sha256": "67248359d7a286b07178357ea935df6003a942f8f48c21082df9abbdb76f7a2b",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:39",
+      "record_sha256": "e19ef6da5ddff63e9bf7ff45f9df1aa8b044a683f328471ae984de3b20d6d7a4",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 39,
+      "path": "wiki/activations/moon-cupido-equals-pluto.md",
+      "before_sha256": "fe5d8819404e3c6d60cdae025a9484e48f0065894925e0c9cd889e276e9d526e",
+      "after_sha256": "78cec392ce01cd70dace2d5fb27e6a5ac9c4e7e080d38ba4700fd4455be1000a",
+      "selection_after_sha256": "78cec392ce01cd70dace2d5fb27e6a5ac9c4e7e080d38ba4700fd4455be1000a",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:40",
+      "record_sha256": "99b6de31169d4b7bae6fc4bf454c57b0cc6e94f719cfb26afab5b347b6c3286d",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "ABC193 Pluto begins development of an emotional community and owns all six clauses; preceding Neptune row ends refined art of a woman. Full boundary and both entries independently viewed."
+    },
+    {
+      "index": 40,
+      "path": "wiki/activations/moon-cupido-equals-poseidon.md",
+      "before_sha256": "532d41ac5736cfff35640aa5d1f079d335555eed4c0149c8f257e5eb4a2a35cc",
+      "after_sha256": "34ea0375c8c9ed2aa985162bde1b0b6184f8d73962ecd83c8e5c7af4251ead48",
+      "selection_after_sha256": "34ea0375c8c9ed2aa985162bde1b0b6184f8d73962ecd83c8e5c7af4251ead48",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:41",
+      "record_sha256": "2159492f83c292c3b219593b4b1e3ce1d12fc8a62773caad1c42a2d8914fb15a",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 41,
+      "path": "wiki/activations/moon-cupido-equals-saturn.md",
+      "before_sha256": "ce0cfec9be2b374d8cb0653abd4824f4cacb4b607866281198f66861a05b8aae",
+      "after_sha256": "87f8885d3cea6edf0b05a3aae97e2f0e0e8491d58ffa110e667ebe10c5cf1480",
+      "selection_after_sha256": "87f8885d3cea6edf0b05a3aae97e2f0e0e8491d58ffa110e667ebe10c5cf1480",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:42",
+      "record_sha256": "91c982d21defb294ddce20748a7341325d67d084fa26b7be64eb5f62ab25c2b1",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 42,
+      "path": "wiki/activations/moon-cupido-equals-sun.md",
+      "before_sha256": "cdae231490e7428cf81d8c33e12739032d60119e1762bd78ede77bff82ed5b90",
+      "after_sha256": "ef6566043c49934a2b58a216bae07194ecad0101992909906b895cd3a7129fe2",
+      "selection_after_sha256": "ef6566043c49934a2b58a216bae07194ecad0101992909906b895cd3a7129fe2",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:43",
+      "record_sha256": "844b40bf0c26e0b822c8562a8623b18a279861b66cef2b480696339b0939f81a",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Witte130 visibly prints Man’s wife. ABC192 Sun complete seven clauses verified, including personal emotional and folk-art center clauses previously omitted."
+    },
+    {
+      "index": 43,
+      "path": "wiki/activations/moon-cupido-equals-uranus.md",
+      "before_sha256": "9619c578ddf2c12aa1807c8c2be20f6ad1ed9ad2082be19520b33426cc20c52d",
+      "after_sha256": "07c8006c769fd7aef53ef5bc588977a8df2e97b34a7b3f2b2a9929f19b9a8304",
+      "selection_after_sha256": "07c8006c769fd7aef53ef5bc588977a8df2e97b34a7b3f2b2a9929f19b9a8304",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:44",
+      "record_sha256": "4e48fb134a19c80408b844025725157efaa27a7d24908c1bbe2c916c171b3824",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Removed <•> is the alternate Uranus glyph, not prose; all seven ABC193 Uranus clauses, including omitted folk-art impulses and emotional tension, verified."
+    },
+    {
+      "index": 44,
+      "path": "wiki/activations/moon-cupido-equals-venus.md",
+      "before_sha256": "d94df417c8604f28e9f25409c4a2cbd3f88fc93379752756c9ba78f2643a276c",
+      "after_sha256": "43192de2fb9effdf4ebb3b903503c6317c0e8f339cbaafeeb16a8d862e2fea21",
+      "selection_after_sha256": "43192de2fb9effdf4ebb3b903503c6317c0e8f339cbaafeeb16a8d862e2fea21",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:45",
+      "record_sha256": "9bd0bd68804f12aabe5dc8563eeae5ce6639aa1403a9fd98a0c7419a02f6a997",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 45,
+      "path": "wiki/activations/moon-cupido-equals-vernal-point.md",
+      "before_sha256": "71e88fc3f3342bb5f10847a3bcfb1a58ea8434b8bd343a2d494b562dfa46b2e5",
+      "after_sha256": "58f1c0b9d8b5c76fbaf3fff29ef54ff7862dd3ad279f557a91a496b746aa52a0",
+      "selection_after_sha256": "58f1c0b9d8b5c76fbaf3fff29ef54ff7862dd3ad279f557a91a496b746aa52a0",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:46",
+      "record_sha256": "6d2b153df8c5178bb0f6542040b0829a1ba6e76fee85b4ae859bfdd5b62e5fe2",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 46,
+      "path": "wiki/activations/moon-cupido-equals-vulcanus.md",
+      "before_sha256": "0ff19fb0891125278ceecd0e9c75e58a1fbc243c588f74f90b25f6b8429b06fb",
+      "after_sha256": "f4ae9311f5c194a515f6b16f2af6133fc4cf811c95bbca6e100566ae68f040aa",
+      "selection_after_sha256": "f4ae9311f5c194a515f6b16f2af6133fc4cf811c95bbca6e100566ae68f040aa",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:47",
+      "record_sha256": "4ffe765c4f273d56349914e4bd6c2164d9cb90d86669e4935f0b77f32d291989",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 47,
+      "path": "wiki/activations/moon-cupido-equals-zeus.md",
+      "before_sha256": "9cf416f0f13e69bfd2c7f8aff66063256f37c65952b8525f0554895d1e7cd5d4",
+      "after_sha256": "a789a8879d7eac0b7bb939cd72c16c6e52b48a74b028a8ed11ecec4f2f29b2dc",
+      "selection_after_sha256": "a789a8879d7eac0b7bb939cd72c16c6e52b48a74b028a8ed11ecec4f2f29b2dc",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:48",
+      "record_sha256": "424c0e3d5f272f197e1d53cfacb2e06cd2289ec8b0cde52a2233108b020cb491",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png"
+      ],
+      "verification": "Full before/current Source Entries and full owner record read; personally viewed every complete own ABC192/193 row and corresponding Witte130 entry, including all changed wording and added locators. Locator-only retained translations are bounded to source identification."
+    },
+    {
+      "index": 48,
+      "path": "wiki/activations/moon-hades-equals-admetos.md",
+      "before_sha256": "566fc0bedbe13cb89ac22a9d50792762c3526f1d5c7ba2dbd3c3566d7d3f405d",
+      "after_sha256": "36cad0c5eb865e203e69ae915d5dfc2a31861703f5d6ebc456b8b6617adf67b5",
+      "selection_after_sha256": "36cad0c5eb865e203e69ae915d5dfc2a31861703f5d6ebc456b8b6617adf67b5",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:49",
+      "record_sha256": "2042b9931f640aa9966936679618e0fa9d15589b2314b37d6c493fc47188e287",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Personally viewed all eight ABC195 Admetos clauses: endangered circulation, sorrowful mood depression and final Unterdrückungs-Gefahr/oppression are distinct. Own Witte131 complete row and references verified."
+    },
+    {
+      "index": 49,
+      "path": "wiki/activations/moon-hades-equals-apollon.md",
+      "before_sha256": "96d07302587d184cbc753104df1555b240077d4b3ccb5685b034672c732e1276",
+      "after_sha256": "2c8845d271afc344d3165a44dda0322589c7193487cfc0e5d13f576aa1968291",
+      "selection_after_sha256": "2c8845d271afc344d3165a44dda0322589c7193487cfc0e5d13f576aa1968291",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:50",
+      "record_sha256": "6829b5d704fed686b33e7285d11dc4424580b9b7455bf056ac6c7236c7a66f0a",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Full baseline/current Source Entries plus full final unique owner record read; every changed ABC194/195 clause and new locator directly matched actual scan, alongside complete own Witte131 row. No stale locator-only approval reused."
+    },
+    {
+      "index": 50,
+      "path": "wiki/activations/moon-hades-equals-asc.md",
+      "before_sha256": "02b40290c7d82af4b3c4b0ac19848b5a2974aafea7d14138371a66d66b2f9b4a",
+      "after_sha256": "502b978bcfd12dbc009f76bec9001fed39dd713436a7e50a7014f36e6c4969b3",
+      "selection_after_sha256": "502b978bcfd12dbc009f76bec9001fed39dd713436a7e50a7014f36e6c4969b3",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:51",
+      "record_sha256": "5ff50fe66abf23d54178d5ad624cd1a83b1b584447311fa6869f7ae73644ee16",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Full baseline/current Source Entries plus full final unique owner record read; every changed ABC194/195 clause and new locator directly matched actual scan, alongside complete own Witte131 row. No stale locator-only approval reused."
+    },
+    {
+      "index": 51,
+      "path": "wiki/activations/moon-hades-equals-jupiter.md",
+      "before_sha256": "3c7e548473cf27be31d85f64894a37da44e27aa42366a20592db8db27ccb0c0b",
+      "after_sha256": "542c4501d426b4866d734ffb485c717067419b32210db3a69d5c39fc56a95169",
+      "selection_after_sha256": "542c4501d426b4866d734ffb485c717067419b32210db3a69d5c39fc56a95169",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:52",
+      "record_sha256": "92a7e0b8513266768e041dcbc4e3f5cff84a22d5427410288ff7cae5828aca76",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Full baseline/current Source Entries plus full final unique owner record read; every changed ABC194/195 clause and new locator directly matched actual scan, alongside complete own Witte131 row. No stale locator-only approval reused."
+    },
+    {
+      "index": 52,
+      "path": "wiki/activations/moon-hades-equals-kronos.md",
+      "before_sha256": "4dc99813043c97c4eb8b6eaf313eae806b8f8224c631ab12c565f1d14f489412",
+      "after_sha256": "1ac9ad637c52dc6bc182570e544d2a8dd312e1aa81e0e2304d4c43208c8f5f6c",
+      "selection_after_sha256": "1ac9ad637c52dc6bc182570e544d2a8dd312e1aa81e0e2304d4c43208c8f5f6c",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:53",
+      "record_sha256": "9373731dba9f3a3e322cd1412bf5749cb6b823d358485be673709a13ad9cabda",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Personally viewed complete ABC195 Kronos eight clauses and Witte131 Parent’s apostrophe; boss’s lack of feeling and endangered self-confidence match, no authority transfer."
+    },
+    {
+      "index": 53,
+      "path": "wiki/activations/moon-hades-equals-mars.md",
+      "before_sha256": "db8df66be795c92f788fa389a181c6938a11f28dbbd29a81edae3cb70f6d51d9",
+      "after_sha256": "c4bc2b8aa4213e34bb71b65da71e59410031bd3fc54e358161139054d966caad",
+      "selection_after_sha256": "c4bc2b8aa4213e34bb71b65da71e59410031bd3fc54e358161139054d966caad",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:54",
+      "record_sha256": "7f0592e91a523ca695a33cdb23cd649b25c3dac7832ae4010eac7cc11207b67c",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Full baseline/current Source Entries plus full final unique owner record read; every changed ABC194/195 clause and new locator directly matched actual scan, alongside complete own Witte131 row. No stale locator-only approval reused."
+    },
+    {
+      "index": 54,
+      "path": "wiki/activations/moon-hades-equals-mercury.md",
+      "before_sha256": "b1f32b4144d7daaea2c8e9d479ebb4d6601972a2a47beec7798862f50bebcdb4",
+      "after_sha256": "cab6f06ebd1e9432203379bdde5fa006891e10c9bcf8567af3ea979e9ae96cec",
+      "selection_after_sha256": "cab6f06ebd1e9432203379bdde5fa006891e10c9bcf8567af3ea979e9ae96cec",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl:55",
+      "record_sha256": "222161faf07386c0ac593b28a4493cb61d7bacf257db6c605b6a5926f055adbb",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (complete oriented row checked against actual scan)."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png"
+      ],
+      "verification": "Complete ABC194 Mercury eight clauses distinguish youth lack of feeling/emotional grief from final criminality; Witte131 complete own row/reference verified."
+    },
+    {
+      "index": 55,
+      "path": "wiki/activations/moon-mc-equals-venus.md",
+      "before_sha256": "8b3f9f58de20f27f5afc3e677b2cb9a642459fe29387a49f41dc1f83b12a088f",
+      "after_sha256": "0172a6065c5b27550ea73bf95aca8b94d33c0b85dcb37a0a027290c32ab1e220",
+      "selection_after_sha256": "0172a6065c5b27550ea73bf95aca8b94d33c0b85dcb37a0a027290c32ab1e220",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl:42",
+      "record_sha256": "62a30b191be52c00b1dc905a06669a2307cbf53137c1da33cc502eae984cd443",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures",
+        "Reinhold Ebertin - The Combination of Stellar Influences",
+        "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+        "Michael Munkasey - Midpoints: Unleashing the Power of the Planets"
+      ],
+      "total_blocks": 5,
+      "source_refs": [
+        "- Source locator: one-based PDF p. 60, complete Venus row under Meridian + Moon checked.",
+        "- Source locator: printed p. 64; one-based PDF p. 31, complete eleven-clause Venus row checked.",
+        "- Source locator: printed p. 143; one-based PDF p. 145, coded entry `0449`, complete entry checked.",
+        "- Source locator: one-based PDF p. 40, complete Venus paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.",
+        "- Source heading: `MOON/MIDHEAVEN with Planets and Points`",
+        "- Source page: printed `144`; one-based PDF p. 145, complete `Ven` row checked."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf031.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf060.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-ebertin-pdf145.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf040.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-munkasey-pdf145.png"
+      ],
+      "verification": "All five changed blocks/new references independently raw checked: complete ABC64 eleven-clause Venus, Witte60 own row, Ebertin printed143/PDF145 code0449, Sandbach40 complete Venus, Munkasey printed144/PDF145 Ven."
+    },
+    {
+      "index": 56,
+      "path": "wiki/activations/moon-mc-equals-vernal-point.md",
+      "before_sha256": "ef8afafe868cdadf5062956289c168bb795b5470b4283f80a07ecf9f00ff82a3",
+      "after_sha256": "2b1831fcad0a37791752be492d0217ec0714b3c72696e1de8bef5947bdf3b989",
+      "selection_after_sha256": "2b1831fcad0a37791752be492d0217ec0714b3c72696e1de8bef5947bdf3b989",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl:43",
+      "record_sha256": "c8f2b8261443c2a5dcafd95a942056ae16a96105157dcf5c16a47002c2611b75",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source locator: one-based PDF p. 60, complete Vernal Point row under Meridian + Moon checked.",
+        "- Source locator: printed p. 64; one-based PDF p. 31, complete seven-clause Vernal Point row checked."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf031.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf060.png"
+      ],
+      "verification": "Witte60 scan visibly includes final general omitted by raw-text extraction; full sentence restoration correct. Complete ABC64 seven-clause VP row personally viewed through following MC see-above boundary."
+    },
+    {
+      "index": 57,
+      "path": "wiki/activations/moon-mc-equals-vulcanus.md",
+      "before_sha256": "17c5411cf22e516f694297045bf530755db0c4adce9cbe9b14135097e35c65c2",
+      "after_sha256": "03161327d5a28f966b07c162551c95568f8e6ed7d51160dece48fbdadbed7f43",
+      "selection_after_sha256": "03161327d5a28f966b07c162551c95568f8e6ed7d51160dece48fbdadbed7f43",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl:44",
+      "record_sha256": "4cfb29864344aa98e2aaaa0b195c543fff8166047a5dc4466ac666da8bbf0f13",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source locator: one-based PDF p. 60, complete Vulcanus row under Meridian + Moon checked.",
+        "- Source locator: printed p. 65; one-based PDF p. 31, complete ten-clause Vulcanus row checked."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf031.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf060.png"
+      ],
+      "verification": "Complete ABC65 Vulcanus ten clauses independently viewed: strong-woman first person, psychological energy and inner influence retained without paranormal expansion; complete Witte60 own row/reference checked."
+    },
+    {
+      "index": 58,
+      "path": "wiki/activations/moon-mc-equals-zeus.md",
+      "before_sha256": "e1beea8f4a467da6263ee4f0b198e4e0baf8c5766b1373d74447d130a03740a0",
+      "after_sha256": "1b6e4a5ec83cfc31a69e032d3079da48baf8248c7258a4c9bfe460b2bb6b36f0",
+      "selection_after_sha256": "1b6e4a5ec83cfc31a69e032d3079da48baf8248c7258a4c9bfe460b2bb6b36f0",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl:45",
+      "record_sha256": "48b5164a682e18fb7c0ee3adcdfb599df78726a15745d6a1042d50b64f5309f5",
+      "changed_blocks": [
+        "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+        "Udo Rudolph - ABC for Planetary Pictures"
+      ],
+      "total_blocks": 2,
+      "source_refs": [
+        "- Source locator: one-based PDF p. 60, complete Zeus row under Meridian + Moon checked.",
+        "- Source locator: printed p. 65; one-based PDF p. 31, complete nine-clause Zeus row checked."
+      ],
+      "full_record_read": true,
+      "decision": "accepted",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf031.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf060.png"
+      ],
+      "verification": "Complete ABC65 Zeus nine clauses independently viewed between Hades and Kronos, including leadership and generating feelings; complete Witte60 three-sentence own row/reference checked."
+    }
+  ],
+  "english_direct_checks": [
+    {
+      "path": "wiki/activations/moon-apollon-equals-admetos.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-asc.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-cupido.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-hades.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-jupiter.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-kronos.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mars.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mc.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mercury.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-neptune.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-node.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-pluto.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-saturn.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-sun.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-uranus.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-venus.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-vernal-point.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-vulcanus.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-zeus.md",
+      "source": "witte",
+      "pdf": 134,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-admetos.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-apollon.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-chiron.md",
+      "source": "sandbach",
+      "pdf": 39,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-cupido.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-hades.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-jupiter.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-jupiter.md",
+      "source": "sandbach",
+      "pdf": 39,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-kronos.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mars.md",
+      "source": "witte",
+      "pdf": 81,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mars.md",
+      "source": "sandbach",
+      "pdf": 39,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-admetos.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-apollon.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-asc.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-hades.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-kronos.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-mars.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-mc.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-mercury.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-neptune.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-node.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-pluto.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-poseidon.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-saturn.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-sun.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-uranus.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-venus.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-vernal-point.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-vulcanus.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-zeus.md",
+      "source": "witte",
+      "pdf": 130,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-admetos.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-apollon.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-asc.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-jupiter.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-kronos.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mars.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mercury.md",
+      "source": "witte",
+      "pdf": 131,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-venus.md",
+      "source": "witte",
+      "pdf": 60,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-venus.md",
+      "source": "ebertin",
+      "pdf": 145,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-venus.md",
+      "source": "sandbach",
+      "pdf": 40,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-venus.md",
+      "source": "munkasey",
+      "pdf": 145,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-vernal-point.md",
+      "source": "witte",
+      "pdf": 60,
+      "complete_direct_raw_text_match": false,
+      "scan_verified": "Full raw scan visibly prints final general; extraction omits it, so correct complete restoration accepted."
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-vulcanus.md",
+      "source": "witte",
+      "pdf": 60,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-zeus.md",
+      "source": "witte",
+      "pdf": 60,
+      "complete_direct_raw_text_match": true,
+      "scan_verified": true
+    }
+  ],
+  "proof_images": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf031.png",
+      "sha256": "9c9ca3bf4ae03cb46ed753c5cb57e2492f92f35e75e3d58afae8e703e865cb49",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf050.png",
+      "sha256": "0c2b806b7883f16b8eace04a6b1411757e9a767c08ab9ad87fdf06aa82a49b08",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf095.png",
+      "sha256": "6fced908c62547d0c1fe167cdfd2e3f3cf3113a2c7e5a388b0f0a5b06d475c88",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf096.png",
+      "sha256": "973c525025a8d08ea98475e726a30572a3e6a46f90e3f6255061986fdda9fcd4",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-abc-pdf099.png",
+      "sha256": "b43b7d8e405dbe7e9cab37b66034068a8e5dee69f8c7fc1d834089c4e7b2d29e",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-ebertin-pdf145.png",
+      "sha256": "4acb42d9a87041d1ffa5b50f6fe5ec776c3a26b6bca0a3f8eafaf866f5b890af",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-munkasey-pdf145.png",
+      "sha256": "623bb07d49a9a105fd57bf77b8ea2b26d8f0a3ddcc73ac3f419a3a1ad80e9613",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf039.png",
+      "sha256": "00cbd0d5804615d219fd4ad3f01a1249965673bb89cb32c7bb2f1aece0ee4190",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-sandbach-pdf040.png",
+      "sha256": "f288c01b0eeefb482e933a9b3ca9a0d57372a0a58f783ae18d10b7d59aa8df9e",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf060.png",
+      "sha256": "b04770c8ea9f91809373378d06f2882c9bed6db1844dad9c5907f5c89136e056",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf081.png",
+      "sha256": "2ac94e70c3323cf18d60b455d463417b107dfe3f2a3e6bcda57d07b622f7dce8",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf130.png",
+      "sha256": "96e7bdf409a35231cf023f221b514b93840277c4c589f85591c1f0f06a391058",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf131.png",
+      "sha256": "3641b1c0d2d204a95aaacb9ccaf251477313e02e6204aa3df70ee50e379a8cf4",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-final-witte-pdf134.png",
+      "sha256": "74d13e819d26b46dbe245c4717026819813619c0e1f17721a94605176073e63a",
+      "personally_viewed_actual_scan": true
+    }
+  ],
+  "raw_sources": [
+    {
+      "path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+      "access": "immutable read/render only"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+      "access": "immutable read/render only"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+      "access": "immutable read/render only"
+    },
+    {
+      "path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895",
+      "access": "immutable read/render only"
+    },
+    {
+      "path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6",
+      "access": "immutable read/render only"
+    }
+  ],
+  "final_disk_audit": {"completed_at":"2026-10-15T14:25:48.461888+00:00","accepted":59,"held":0,"pending_owner":0,"unreviewed":0,"strict_seven_field_schema":59,"fresh_baseline_and_live_source_hashes":59,"fresh_unique_owner_record_hashes":59,"proof_image_hashes":14,"immutable_raw_hashes":5,"decision_links_and_all59_outcomes":true,"allowances_sha256":"8eb3ccd309f647cb8aea2ceb5f4321383f03d91500dde2fb15ff8a0362897ded","decisions_sha256":"a3d15c5b9e55000d256e04e6764b3d4cb9c3ae7fed25b0ca386a0caf69f9089f","failures":[]},
+  "failures": []
+}

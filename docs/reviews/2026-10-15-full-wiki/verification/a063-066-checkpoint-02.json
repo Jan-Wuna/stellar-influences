@@ -1,0 +1,386 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/pluto-zeus-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Admetos"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-apollon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Apollon"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Asc"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-cupido.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Cupido"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-hades.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Hades"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Jupiter"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Kronos"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Mars"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = MC"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Mercury"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Moon"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Neptune"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Node"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Poseidon"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-saturn.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Saturn"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Sun"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Uranus"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Venus"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vulcanus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Zeus = Vulcanus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/pluto-zeus-equals-admetos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Decreasing performance, beginning of a grim development, blocked filtration change, limiting a creative development, grim performance development, underridden development stress, and growing restrictions through filtration",
+      "new_text": "Developing sustained performance, beginning of a thorough development, blocked change of leadership, restriction of creative development, thorough unfolding of performance, suppressed striving toward development, growing restrictions through leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-apollon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Extension of a fire development, beginning of an extensive change, successful filtration change, creative knowledge development. extensive performance development, growing achievements of science, and developing economic goals",
+      "new_text": "Expansion of a fire development, beginning of an extensive change, successful change of leadership, creative development of knowledge, extensive development of performance, growing achievements of science, unfolding economic goals.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-asc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful part time change, start of a partner development, change of location transport, change of location by fire, develop partner services, creative change of location, growing environmental services, and changing space design",
+      "new_text": "Demanding change of partner, beginning of a partner's development, changing local leadership, change of place through fire, developing a partner's performance, creative changes of place, growing environmental performance, changing spatial design.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-cupido.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Commencement of a common development, development of a community, change of mind, change of objectives, development of creative arts, growth of a community, and changing objectives of a community",
+      "new_text": "Beginning of a shared development, development of a leadership community, change of leadership in art, shared change of goals, creative artistic developments, growing performance of a community, changing goals of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-hades.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Development of fire criminality, filtration from the hidden, dangerous change in the movement, poor performance development, adverse movement change, growing fire danger, and growing movement strikes",
+      "new_text": "Development of fire crime, leadership unfolding from concealment, dangerous change in leadership, deficient development of performance, adverse change of leadership, growing fire danger, growing striving for leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-jupiter.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Successful change through efforts, joy over growing achievements, developing filthy pleasure, creative legal development, different financial management, beneficial filthy change, growing filthy success, and changing financial objectives",
+      "new_text": "Successful change through exertion, joy in growing achievements, developing joy in leadership, creative legal development, changed financial management, advantageous change of leadership, growing leadership success, changing financial goals.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Start of an important development, develop special achievements, develop filthy authority, change of leadership in the state, develop self determined goals, initiate state development efforts, increase reputation through performance, and start important development",
+      "new_text": "Beginning of an important development, unfolding special achievements, unfolding leadership authority, change of leadership in the state, developing independent goals, state development efforts, growing reputation through performance, beginning important developments.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful development activity, developing work performance, designing development work, producing a filthy change, growing work performance, growing filtration impulses, changing work flow, and changing work goals",
+      "new_text": "Demanding development activity, developing work performance, shaping development work, bringing about a change of leadership, growing work performance, growing leadership impulses, change in work leadership, changing work goals.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Development of one fcurige soul, I change the movement, my evolution design, my fcurige development, my accomplished achievements, my creative development, my zicles, different soul guided movement, and growing sectarian efforts",
+      "new_text": "Development of a fiery soul, I change leadership, shaping my evolution, my fiery development, my changed achievements, my creative development, my goals change, changed inner leadership, growing inner exertions.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-mercury.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful traffic development, reports on creative developments, youth development design, creative development language, beginning developments talk, opinions on filthy change, and changing media objectives",
+      "new_text": "Demanding transport development, reports on creative developments, shaping developments of youth, creative development conversations, talking about beginning developments, opinions on changes of leadership, changing media goals.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-moon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Start a change in the direction of a woman, develop a fiery feeling, change of leadership in a people, change of direction of a woman, development of creative skills, hour of strenuous changes, and growth of a woman's achievements",
+      "new_text": "Beginning of an emotional change, developing fiery feelings, change of leadership among a people, change of direction of a woman, creative emotional development, an hour of demanding changes, growing achievements of a woman.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Effortful air changes, beginning of poor development, refined development, weak developmental struts, marginalization by fire water, growing design weakness, changing future zigzag, and temporary development in water",
+      "new_text": "Demanding changes of air, beginning of a future development, developing refined leadership, weak striving toward development, change through fire-water, growing weakness in shaping, changing future goals, purposeful development in water.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful change in a connection, beginning of a contact development, development of a creative connection, performance development in a connection, change in a continuous connection, and growing performance in a connection",
+      "new_text": "Demanding change in a connection, beginning of contact development, development of a creative connection, development of performance in a connection, change in a leading connection, growing performance in a connection.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-poseidon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Spiritual fire unfolding, leading cultural evolution, developing spiritual goals, creative culture development, altered culture design, powerful change of direction, growing spiritual filtration, and change in cultural support",
+      "new_text": "Unfolding spiritual fire, leading cultural evolution, developing intellectual or spiritual striving toward goals, creative cultural development, changed cultural shaping, rational change of leadership, growing spiritual leadership, change in cultural leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-saturn.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Start of a slow development, stressful change of direction, concentration on a strenuous development, developing mature achievements, creative development tasks, losses due to fire development, and growing achievements due to empathy",
+      "new_text": "Beginning of a slow development, burdensome change of leadership, concentration on a demanding development, developing mature achievements, creative development tasks, losses through fire development, growing performance through seriousness.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-sun.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful personal changes, man's change in performance, personal creative development, man's change in direction, changes in the movement center, growing corporal benefits, and change of a filthy person",
+      "new_text": "Demanding personal changes, changes in a man's performance, personal creative development, change of direction of a person, changes in a leadership center, growing physical performance, change of a leading person.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-uranus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Excitement by fire development, beginning reform development, dynamic movement change, reform objectives unfolding, ubiquitous growing achievements, changes by renewal of the movement, and growing tensions in the movement",
+      "new_text": "Excitement through fire development, beginning reform development, dynamic change of leadership, unfolding reform goals, surprisingly growing achievements, changes through renewal of leadership, growing tensions in leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-venus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Beginning of a peace development, harmony through filthy changes, achievements in the arts develop, changing peace efforts, preference for F your development, growing love efforts, and changing art goals",
+      "new_text": "Beginning of a peace development, harmony through change of leadership, developing achievements in art, changing peace efforts, preference for unfolding fire, growing efforts in love, changing artistic goals.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vernal-point.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 412
+      },
+      "old_text": "Effortful changes in the public life, changes in the public life, changes in the performance of the public life, and changes in the creative development of the public",
+      "new_text": "Demanding changes in public life, developing achievements in public, changes of performance in public life, public change of leadership, creative developments in public.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    },
+    {
+      "path": "wiki/activations/pluto-zeus-equals-vulcanus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 205,
+        "printed_page": 413
+      },
+      "old_text": "Beginning power development, development of fiery energies, development of filtration force, development of enormous achievements, powerful filtration influence, creative influence development, growing filtration power, and growing violence efforts",
+      "new_text": "Beginning unfolding of power, development of fiery energies, developing leadership strength, developing tremendous achievements, mighty leadership influence, creative unfolding of influence, growing leadership power, growing violent exertions.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p205.png",
+      "inspection": "Full exact German glyph row visually read and adjacent boundaries checked."
+    }
+  ]
+}

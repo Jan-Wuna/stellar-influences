@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Uranus`
 - Astronomicon formula: `Z/£ = X`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 The inner necessity for duty. To suddenly accept a duty by inner impulse and wholeheartedly perform it.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excitement by fire development, beginning reform development, dynamic movement change, reform objectives unfolding, ubiquitous growing achievements, changes by renewal of the movement, and growing tensions in the movement
+- Source page: 413 (printed); PDF page: 205.
+
+Excitement through fire development, beginning reform development, dynamic change of leadership, unfolding reform goals, surprisingly growing achievements, changes through renewal of leadership, growing tensions in leadership.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: A sudden inner commitment to duty and dynamic changes of leadership.
+- Psychology: Wholehearted acceptance of duty, excitement, and growing leadership tension.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Reform and renewal of leadership.
+- Events/manifestations: Sudden acceptance of responsibility and surprisingly growing achievements.
+- Conflicts/notes: Inner commitment and disruptive leadership tension are different parts of the range.
+
+## Contradictions
+
+Inner commitment and disruptive leadership tension are different parts of the range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Uranus`: the inner necessity for duty; To suddenly accept a duty by inner impulse and wholeheartedly perform it.
-- Practical expression: excitement by fire development, beginning reform development, dynamic movement change, reform objectives unfolding, and ubiquitous growing achievements.
+In `Pluto/Zeus = Uranus`, Uranus specifies the pair through a sudden inner impulse to accept and wholeheartedly perform a duty in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) links development to reform, dynamic leadership changes, and unexpectedly growing achievements, while also retaining excitement and tension. The shared motion toward action does not guarantee smooth reform.
 
 ## Links
 

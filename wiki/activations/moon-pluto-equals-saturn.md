@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Saturn`
 - Astronomicon formula: `R/Z = W`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Persons who are retarded in their development or being.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `191`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Development of a woman of old age, problems of change, development of mature women, problematic development of a woman, painful change of women, disturbances caused by changing lives, and growing pressures on a people
+Development of a woman in old age, emotional problems through changes, development into a mature woman, problematic development of a woman, painful change in a woman, disturbances through changing feelings, and growing burdens for a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0416`.
 
 #### Ebertin Entry
 
 A one-sided emotional life, grave inhibitions. An inclination to depression, mental and emotional suffering.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `36–37` (entry checked directly; chapter starts on PDF p. `36`).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Avoiding the need to look at what parts of your inner self must change; more rea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional change meets inhibition, fear, or a need for gradual assimilation.
+- psychology: repression, avoidance, insecurity, and withdrawal from overpowering feelings are prominent.
+- body/health: Ebertin's depression and suffering are attributed descriptions, not a clinical assessment; ABC also mentions aging.
+- social/relationship: Munkasey includes grief about discipline and the profound influence of parents.
+- events/manifestations: difficult personal development and slowly releasing or reworking intense emotion.
+- conflicts/notes: Witte's historical developmental terminology is preserved as source wording; the entries do not establish stamina or successful self-command as a necessary outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- Inhibition and difficult change recur. Sandbach's gradual assimilation and Munkasey's greater realism offer possible responses to distress, not proof that distress is absent or automatically overcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Saturn`: profound stamina, serious self-command, and the ability to endure emotional hardship without losing structure. Main caution: hardening through pain: pressure can make feeling guarded, punitive, or too rigid to soften again easily.
+Saturn specifies the Moon/Pluto pair as intense feeling that is inhibited, feared, or difficult to change. Withdrawal may allow emotion to subside and be assimilated gradually, but it may also preserve avoidance of the inner changes that are needed ([Ebertin entry](#ebertin-entry), printed p. 135; [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry), p. 132).
+
+The practical tension is between containing overwhelming feelings and remaining closed to them. Sandbach explicitly describes slow release and the transformation of insecurity; Munkasey adds greater realism about gloomy thoughts alongside grief over discipline and the influence of parents. These are supported ways of meeting the difficulty, not a promise of emotional endurance or resolution.
 
 ## Links
 

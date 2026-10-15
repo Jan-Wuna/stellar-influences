@@ -29,6 +29,8 @@ related_activations:
   - Venus/Uranus = Poseidon
   - Venus/Uranus = Saturn
   - Venus/Uranus = Sun
+  - Venus/Uranus = Uranus
+  - Venus/Uranus = Venus
   - Venus/Uranus = Vernal Point
   - Venus/Uranus = Vulcanus
   - Venus/Uranus = Zeus
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Venus/Uranus`
 - Astronomicon axis: `Q/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); related activations retain distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/URANUS`
-- Source page: `199`
+- Source heading: `VENUS + URANUS`
+- PDF page: 179.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Refined sensuality. To be choosy in love. Sudden romantic love. To give birth to
 
 #### ABC Pair Summary
 
-Exciting beauty, dynamic arts, joyful surprise, peace reform, harmonious impulses, harmonious rhythm, artificial event, love experience, new love, and preference for tension
+- Printed pages: 276–277; PDF page: 137.
+
+Exciting beauty, dynamic art, joyful surprise, reform of peace, harmonious impulses, harmonious rhythm, art event, love experience, new love, preference for tensions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 184; PDF page: 186.
 
 #### Principle
 
@@ -112,7 +119,11 @@ Artists, extravagant people.
 
 #### Probable Manifestations
 
-+ Tendency to be particuliar and fastidious in the choice of a partner or lover, passing love bonds, romantic love inclinations, popularity. Births. - A love adventure, nervous troubles, unfaithfulness. Births. 33 Venus-Uranus contacts are found equally in cases of conception as well as of birth. Venus/Uranus 9/W
++ Tendency to be particuliar and fastidious in the choice of a partner or lover, passing love bonds, romantic love inclinations, popularity. Births. - A love adventure, nervous troubles, unfaithfulness. Births.
+
+#### Note 33
+
+Venus-Uranus contacts are found equally in cases of conception as well as of birth.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -168,6 +179,8 @@ The effects of the sexual life upon the health are often unhelpful.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 60 (Principle and Process).
+
 #### Principle
 
 An unusual or eccentric aesthetic. The need for freedom love. The love of unusual things or people. The need to show love in an uninhibited fashion. A love of surprises. One who is unpredictable in relationships. Love connections may arise sud denly and may disappear just as quickly.
@@ -177,6 +190,8 @@ An unusual or eccentric aesthetic. The need for freedom love. The love of unusua
 The freeing up of one’s ability to love and to appreciate all of life. The ability to see the value inherent in seeming accidents, mistakes, and unforeseen occurrences. To love, value and be at ease with all surprises, oddities and everything else outside the limits of one’s expectations.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 206.
 
 #### Pair Delineation
 
@@ -217,25 +232,25 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Uranus: Love of Freedom`
-- PDF page(s): `314`
+- PDF page(s): `314–315`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Beauty and the Liberator
 - shadow: The Seductress and the Traitor
 - comparison: Attachment Freedom Love of the partner Love of self Dependence Independence Flowing Abrupt Willing to adapt Eccentric Harmony Individuality
-- general: Free love , the unusual relationship with the greatest possible, mutual free space . Original taste . Modern art .
-- harmony: The Individualistic Relationship. Original, humorous, but often noncommittal manner of making contacts. Lives and loves in an open, tolerant relationship based on the principle of liberty and equality. Great enjoyment of experimentation. Searches for the unique, unusual “modern” relationship that actually exists only in Utopia.
-- discord: The Person Who Can't Be Held. The fireworks of love and flash-in-the-pan relationships without commitment and a future. Enters into relationships only halfheartedly and can't be held when things should be close and committed. Extreme mood vacillations and changing standpoints. Willful, gruff, and inconsiderate in a partnership. The unusual, the new, whatever hasn't been had in love and eroticism is always more tempting than what is familiar, matured, and steadfast.
+- general: Free (♅) love (♀), the unusual (♅) relationship (♀) with the greatest possible, mutual free space (♅). Original (♅) taste (♀). Modern (♅) art (♀).
+- harmony: The Individualistic Relationship. Original, humorous, but often noncommittal manner of making contacts. Lives and loves in an open, tolerant relationship based on the principle of liberty and equality. Great enjoyment of experimentation. Searches for the unique, unusual “modern” relationship that actually exists only in Utopia. Feelings of love can only grow on the soil of freedom. Only remains where one knows that one can also leave. Can separate from relationships fairly easily, particularly if they threaten freedom.
+- discord: The Person Who Can't Be Held. The fireworks of love and flash-in-the-pan relationships without commitment and a future. Enters into relationships only halfheartedly and can't be held when things should be close and committed. Extreme mood vacillations and changing standpoints. Willful, gruff, and inconsiderate in a partnership. The unusual, the new, whatever hasn't been had in love and eroticism is always more tempting than what is familiar, matured, and steadfast. Unpredictable, unfaithful, unscrupulous. Recklessly destroys connections because one doesn't see their actual value. Deep disdain for all “normal” relationships.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sudden affection, surprise, freedom in connection and unusual aesthetic expression ([Witte](#pair-summary), [ABC](#abc-pair-summary), [Hand](#pair-delineation)).
+- psychology: emotional excitement, rhythm and individuality coexist with moodiness, nervous tension, detachment or changing feelings ([psychological correspondence](#psychological-correspondence), [Munkasey](#basic-ideas)).
+- body/health: Ebertin names libido rhythm and birth/conception examples; Munkasey adds blood, acid, reproductive and throat claims. These historical correspondences establish no diagnosis or reproductive/timing prediction ([biological](#biological-correspondence), [note33](#note-33), [body or mind](#with-body-or-mind)).
+- social/relationship: new or unconventional attachments and mutual freedom may be fulfilling, or may conflict with commitment and reciprocity ([relationships](#in-your-relationships), [aspect keywords](#banzhafhaebler-aspect-keywords)).
+- events/manifestations: unexpected love, joyful surprises, new art and rhythmic expression, technical/aesthetic experimentation and changing asset valuation ([ABC](#abc-pair-summary), [Falis](#falis-entry), [politics/business](#in-politics-or-business)).
+- conflicts/notes: originality does not guarantee genius, instability or a moral failing. Carter allows mild musical interest and questions exaggerated sexual classifications; his aspect/context conditions and Banzhaf/Haebler's alternatives remain explicit ([harmonious aspects](#harmonious-aspects), [inharmonious aspects](#inharmonious-aspects)).
 
 ## Related Activations
 
@@ -257,21 +272,22 @@ Any unusual compositions in your blood; shock due to acid conditions in the body
 - [Venus/Uranus = Poseidon](../activations/venus-uranus-equals-poseidon.md)
 - [Venus/Uranus = Saturn](../activations/venus-uranus-equals-saturn.md)
 - [Venus/Uranus = Sun](../activations/venus-uranus-equals-sun.md)
+- [Venus/Uranus = Uranus](../activations/venus-uranus-equals-uranus.md)
+- [Venus/Uranus = Venus](../activations/venus-uranus-equals-venus.md)
 - [Venus/Uranus = Vernal Point](../activations/venus-uranus-equals-vernal-point.md)
 - [Venus/Uranus = Vulcanus](../activations/venus-uranus-equals-vulcanus.md)
 - [Venus/Uranus = Zeus](../activations/venus-uranus-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Artistic expression ranges from Carter's mild liking for music to the innovative forms described elsewhere. Freedom can support a mutually satisfying bond or accompany difficulty sustaining it. Historical sexual and reproductive examples do not establish a person's conduct, orientation or a necessary outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus` is the axis of electric attraction, unconventional love, aesthetic originality, and sudden relational change. It combines affection, beauty, charm, and sociability with freedom, surprise, individuality, excitement, and the refusal to love by ordinary rules.
-- Chart expression: magnetism, artistic innovation, progressive or unusual relationships, awakening experiences in love, and a taste for what is different, brilliant, or socially ahead of its time. Liabilities: instability, inconstancy, detachment, abrupt breakups, nervous tension, and the tendency to value excitement, novelty, or freedom over continuity and emotional steadiness.
+`Venus/Uranus` brings surprise and individuality into affection and appreciation. Love may arise suddenly, a familiar taste may give way to something unusual, or creative expression may find a new rhythm. The [Witte](#pair-summary) and [Udo](#abc-pair-summary) summaries include sudden affection, joyful surprise, new love and dynamic art; [Ebertin](#psychological-correspondence) adds musical or rhythmic talent beside emotional excitability and inconstancy. [Sandbach](#principle-1) and [Hand](#pair-delineation) emphasize freedom and unusual connections, while Sandbach's [Process](#process) explores appreciating surprises and things outside one's expectations.
+
+Freedom may allow an original, mutually satisfying way of loving, or coexist with detachment, abrupt changes or difficulty accepting commitment ([Munkasey](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)). [Falis](#falis-entry) extends originality into art, style and technology, while [Carter](#harmonious-aspects) allows expression as modest as a liking for music. Munkasey's [public sphere](#in-politics-or-business) adds unexpected shifts in resource valuation. The sources' harmony, conjunction and discord conditions remain distinct; historical bodily, birth and conception examples establish no medical or timing rule, and unconventionality alone establishes neither misconduct nor inevitable instability. Each closing factor requires its own oriented activation.
 
 ## Links
 

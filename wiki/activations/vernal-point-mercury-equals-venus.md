@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Venus](../triads/vernal-point-mercury-venus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 General conception of beauty. Acquaintances in public. Conformity of the public opinion. To adorn oneself. To dress-up.
 
@@ -42,13 +46,27 @@ General conception of beauty. Acquaintances in public. Conformity of the public 
 
 #### ABC Entry
 
-Peace speaking in the public, harmony of youth in the public, harmonious communication in the public, artificial speaking in the public, media art in the public life, and preference for the public opinion
+- Source page: 28; PDF page: 13 (one-based spread).
+
+Public peace conversations, harmony among youth in public, harmonious public traffic, public conversations about art, media art in public life, and a preference for public opinion
+
+## Comparative Schema
+
+- core meaning: Public thought and communication shaped by beauty, harmony, and peace.
+- psychology: Conceptions of beauty and preference for public opinion are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public acquaintances, harmony among youth, and conformity of opinion.
+- events/manifestations: Peace talks, art discussions, media art, adornment, and dress.
+- conflicts/notes: Art conversations replace artificial speech; conformity is not proof of agreement freely reached.
+
+## Contradictions
+
+No direct contradiction is established. Conformity of opinion and harmonious discussion are related descriptions but not identical social processes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Venus`: general conception of beauty, acquaintances in public, conformity of the public opinion, to adorn oneself, and to dress-up.
-- Practical expression: peace speaking in the public, harmony of youth in the public, harmonious communication in the public, artificial speaking in the public, and media art in the public life.
+In `Vernal Point/Mercury = Venus`, public communication is shaped by an aesthetic or harmonizing concern. The [Witte entry](#witte-entry) names beauty, acquaintances, conformity of opinion, and adornment. The restored [ABC entry](#abc-entry) adds peace conversations, art discussion, media art, and harmonious traffic. The synthesis links shared taste and sociable communication while retaining conformity as the source's specific, narrower possibility.
 
 ## Links
 

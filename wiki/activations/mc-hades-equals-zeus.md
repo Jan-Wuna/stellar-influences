@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [MC Hades Zeus](../triads/mc-hades-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Hades,” PDF p. 71.
 
 To create disharmony. To be forced to start some evil. The urge to act on evil deeds.
 
@@ -42,13 +46,27 @@ To create disharmony. To be forced to start some evil. The urge to act on evil d
 
 #### ABC Entry
 
-Efforts of an old soul, my guidance secret, my renunciation of procreation, my service performances, my achievements from the past, generating soul cummers, striving of an old soul, and hidden soul guided guidance
+Source: “Meridian + Hades,” printed p. 87 (PDF p. 42).
+
+Efforts of an old soul, my leadership secret, my renunciation of procreation, my service achievements, my achievements from the past, producing inner or soul grief, striving of an old soul, and hidden inner or soul leadership.
+
+## Comparative Schema
+
+- core meaning: Personal sorrow, service, or hidden matters expressed through initiative, striving, and leadership.
+- psychology: An urge toward harmful deeds in Witte; old-soul effort and striving in ABC.
+- body/health: Renunciation of procreation is named, without a medical effect.
+- social/relationship: Disharmony, concealed leadership, and service achievements are distinct source possibilities.
+- events/manifestations: Being forced to begin harmful action, producing grief, and achievements from the past.
+- conflicts/notes: Witte's harmful-action emphasis does not erase ABC's service and striving or establish a person's moral character.
+
+## Contradictions
+
+Witte emphasizes creating disharmony and harmful action. ABC also includes service achievements, old-soul striving, renunciation, and hidden leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Zeus` directs the axis toward active wrongdoing and the making of disharmony.
-- Chart expression: being pushed to start trouble, the urge to act on dark motives, and a life direction in which initiative is drawn toward harmful, divisive, or morally bad outcomes.
+In `MC/Hades = Zeus`, Zeus specifies personal sorrow, service, and concealed matters through initiative, striving, or leadership. Witte emphasizes disharmony and being urged or forced toward harmful deeds. ABC retains producing grief, but also service achievements, past accomplishment, old-soul striving, and concealed leadership. The difference preserves purposeful service and effort alongside harmful-action examples, without turning the formula into a general moral judgment. ([Witte](#witte-entry), PDF p. 71; [ABC](#abc-entry), printed p. 87 / PDF p. 42)
 
 ## Links
 

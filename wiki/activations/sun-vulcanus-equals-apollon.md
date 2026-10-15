@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Apollon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = ¥`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Apollon Vulcanus](../triads/sun-apollon-vulcanus.md)
@@ -42,13 +43,29 @@ Great vital energy. Success through physical strength. An extensive feeling of p
 
 #### ABC Entry
 
-Expansion of a power center, success through corper strong, successful personal influence, power fillle of a human being, personal power expansion, many influential persons, scientific energy center, and multiplication of personal energy
+Source locator: printed page 171 / PDF page 84, Apollon glyph under Sonne + Vulkanus. English translation checked against the complete row.
+
+Expansion of a power center, success through bodily strength, successful personal influence, fullness of a person's power, expansion of personal power, many influential persons, scientific energy center, and increase of personal energy.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength and influence expand with success.
+- psychology: An extensive feeling of power is explicit.
+- body/health: Witte names vital energy and physical strength, without a disease claim.
+- social/relationship: ABC includes many influential people.
+- events/manifestations: Expanding power centers and successful influence are named.
+- conflicts/notes: Expansion and success are supported; a specific form of mastery is not supplied.
+
+## Contradictions
+
+Expansion and success are supported; [ABC](#abc-entry) also specifies bodily strength and fullness of personal power, without assigning a particular form of mastery.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Apollon`: great strength joined with success and mastery on a large scale.
-- Practical expression: expansion of a power center, success through corper strong, successful personal influence, power fillle of a human being, and personal power expansion.
+Apollon specifies Sun/Vulcanus through the expansion of strength and influence. Witte connects success with physical strength and an extensive sense of power; ABC extends the scale to influential people, expanding power centers, and increased personal energy. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

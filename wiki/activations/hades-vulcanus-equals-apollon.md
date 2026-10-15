@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Hades/Vulcanus = Apollon`
 - Astronomicon formula: `¢/§ = ¥`
 - Axis page: [Hades/Vulcanus](../axes/hades-vulcanus.md)
@@ -44,10 +46,23 @@ Spread and extended wickedness and evil deeds. Failure in industry commerce and 
 
 Extension of a dangerous influence, dangerous power of science, secret trade power, power of hidden knowledge, criminal economic violence, grief through violence expansion, spread of criminal violence, and increasing renunciation of violence
 
+## Comparative Schema
+
+- Core meaning: Force or harmful influence spreads through broad economic or knowledge fields ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry), printed p. 447).
+- Psychology: Grief over expanding violence is named in ABC; no fixed personal motive is specified.
+- Body/health: Neither entry establishes a specific bodily condition.
+- Social/relationship: Trade, industry, science, and hidden knowledge are the named fields of influence.
+- Events/manifestations: Commercial failure and historical-science success coexist in Witte; ABC also includes increasing renunciation of violence.
+- Conflicts/notes: Witte's historical-science success does not specify study of violence or decline. Its parser locator is one-based PDF p. 283, entry start.
+
+## Contradictions
+
+Spread of wrongdoing and renunciation of violence are alternatives, not a single inevitable outcome. Historical research success remains a distinct favorable claim.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus = Apollon`: brutal corruption operating at scale. It can show the wider spread of wrongdoing, material collapse under evil influence, or broad attention to the historical record of violence and decline.
+In `Hades/Vulcanus = Apollon`, Apollon specifies the Hades/Vulcanus pair through breadth of influence in trade, science, and knowledge. The [Witte Entry](#witte-entry) includes extended wrongdoing and commercial failure, but also success in historical sciences. The [ABC Entry](#abc-entry) (printed p. 447) adds hidden economic or intellectual power, expanding violence, and increasing renunciation of violence. The orientation concerns the reach of force and influence; neither failure nor criminality exhausts its stated range.
 
 ## Links
 

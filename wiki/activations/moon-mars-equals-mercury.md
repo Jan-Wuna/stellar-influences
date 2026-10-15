@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Mercury`
 - Astronomicon formula: `R/U = T`
@@ -37,23 +39,36 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mars`
+- Source locator: printed p. 128; one-based PDF p. 124, Mercury row checked on the actual scan.
+
 #### Witte Entry
 
 The active brain. Incline to heated arguments. Thinking or quarrels about working time and procedures. The angry woman. The youthful wife. Thinking about the establishing of a home.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Mars`
+- Source locator: printed p. 180; one-based PDF p. 89.
+- Editorial translation: checked against the original German scan, including the activation glyph and paragraph boundary.
+
 #### ABC Entry
 
-work of young women, intellectual activity of women, emotional actions of youth, emotional thinking and acting, youth work of a people, masculine principle in young women, hour of news activity, and will of the youth of a people
+Young women's work; women's intellectual activity; young people's feelingful actions; feelingful thought and action; a people's youth work; the masculine principle in young women; an hour of news activity; the will of a people's youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source locator: printed p. 120; one-based PDF p. 122, entry 0352 (Mercury); actual row checked.
 
 #### Ebertin Entry
 
 Premature criticism, nervousness, easy irritability. A young woman, a woman doing intellectual work.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source locator: one-based PDF p. 28, exact Mercury entry checked; the chapter also begins on this page.
 
 #### Sandbach Entry
 
@@ -62,7 +77,7 @@ The desire to be frank, open, blunt, or direct. Communicating in a passionate, f
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS with Planets and Points`
-- Source page: `112`
+- Source page: `112` (printed); one-based PDF p. 113, Mer entry checked.
 
 #### Munkasey Entry
 
@@ -70,22 +85,21 @@ Discussions concerning your uncertainties about the use of force; thinking or wr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought, speech, and information carrying the pair's emotional energy and impulse to act. [Witte](#witte-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- psychology: Premature criticism, irritability, bluntness, and words spoken impulsively; reflection on the use of force and control of emotional reactions. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- body/health: Ebertin mentions nervousness; this is the source's historical characterization, not a medical diagnosis. [Ebertin](#ebertin-entry).
+- social/relationship: Heated arguments about work and the home, and gendered examples of young women and women doing intellectual work. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- events/manifestations: Writing, discussion, news activity, intellectual work, and studying emotional anger. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Direct speech is represented alongside criticism and regret; the entries do not establish that immediacy is invariably useful or truthful.
 
 ## Contradictions
 
-- None recorded yet.
+No mutually exclusive proposition is apparent. Passionate speech and studying how to control impulse describe expression and reflection on the same emotional field.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Mercury`: candid expression, useful immediacy, and the ability to name what is happening before it cools. Main caution: argumentative reactivity: words can become cutting, hasty, or too fused with passing emotional charge.
+In `Moon/Mars = Mercury`, Mercury specifies the pair through emotionally charged thinking and speech. This ranges from intellectual work and discussion of working arrangements to blunt statements, heated argument, and criticism made too soon. The [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [Sandbach](#sandbach-entry) entries support that range. [Munkasey](#munkasey-entry) also allows the energy to become reflection: reading, writing, and discussing how to understand force or control impulsive reactions.
 
 ## Links
 

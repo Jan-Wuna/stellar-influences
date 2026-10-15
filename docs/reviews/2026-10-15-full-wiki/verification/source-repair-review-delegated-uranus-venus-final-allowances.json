@@ -1,0 +1,1738 @@
+[
+  {
+    "path": "wiki/activations/uranus-kronos-equals-admetos.md",
+    "before_sha256": "1ce91410a6f96379415096b96c5ffa94651f98aad2cf6483f4bbcbbba61478eb",
+    "after_sha256": "ed1175a882d4b5a97268b065f9b1406a4d246ac31993957468cd914789a27d23",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-apollon.md",
+    "before_sha256": "16eee4dc1e07e765cb9568d564d1fcd39c0132112a19e7fde608c1ecdecf54f7",
+    "after_sha256": "4c5741305f43a0591210e620ce4008ec4a90ff454b3908ee30acaff7a5a6c7c5",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, apollon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-asc.md",
+    "before_sha256": "9d8ee9c4201aadc32e20d8d6320ed5ef0d48474582ff5655fd86aed53a64d84a",
+    "after_sha256": "dfae900946e4183286273c3e54ff0cb9e18eba97d80f28401359ae30732e4e69",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, asc: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-cupido.md",
+    "before_sha256": "1c20ba8308fa98d291bbee7e379bd6a3fb3b09a2ce728d349e9031d098120f55",
+    "after_sha256": "bc37ae76a4daad8727ebf8e365044379367d461aa8be13d3e131b482531e8709",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, cupido: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-hades.md",
+    "before_sha256": "197bf93ba7552bc09e655b12bc372b854e55e99fba9d01b982f9a2a85b978e68",
+    "after_sha256": "a48cef7d2b7c3dbc199c88f3f4b2f3cd9642e055cf2c0324231de3bbbd72a6a7",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, hades: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-jupiter.md",
+    "before_sha256": "0b60843c01c951a77cb905f4a0939bb4fe7c2970a29b1a90e59d81918a43d25b",
+    "after_sha256": "eca0611e231dde5224ca4959773ed60d370ed891cde337b6a8fa24e89c69ea2a",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-mars.md",
+    "before_sha256": "821b4e40e905cdb2666690e2f4929bcae7dd8848ea8687f7510730877f57a14d",
+    "after_sha256": "3370c650f0ba938ad9103cb949b307d7b21d3118c73890592cb27d4c4f6cf781",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, mars: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-mc.md",
+    "before_sha256": "8a3b9e7b081051f04a66292b52c2c2c93893781c0ed9fe7ba4293088f68eeac9",
+    "after_sha256": "a6b3f1e0de9fc7f66be1ed7d90cf25c7db7a51e5a7d36c215ae9273013df809b",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, mc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, mc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-mercury.md",
+    "before_sha256": "2a5ec838d3f33ed356348fc44063ee9f573130288cf3993fb33c96b371c06d28",
+    "after_sha256": "7ca1121aa406ff679c20c532ccbb7393c93f3ea8ea168c995996d2ae94ea578d",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, mercury: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-moon.md",
+    "before_sha256": "2c6d4457eaf3efefaea22dc2e2d0935a8f4243f023187d8ab132ec053b453506",
+    "after_sha256": "d678f294cf8e174bbb65c72bd4b5a119a4932a33497280b0f4754d08262c9ea5",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, moon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, moon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-neptune.md",
+    "before_sha256": "ec75128894919ce660eb8f35e04280c33501a4f6a4e87ca1df14067f580d97db",
+    "after_sha256": "fd9cf8f8e1fc801266d921f6b474f30e71948aa8ec5cd17f8bd2b5cbb6c298aa",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, neptune: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, neptune: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-node.md",
+    "before_sha256": "3059743db41b5845eb68ffa2768c9772c7437ec3821898300d6370fc45831960",
+    "after_sha256": "8740955221e1789450be9a735b79216e44feaa348543f0e857cc5bcbc99a3c81",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, node: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, node: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-pluto.md",
+    "before_sha256": "91463560111abee171237de0436c496b74e8363ec0b9ffe3084f570d563b0179",
+    "after_sha256": "71a7b31188a159b928acbc1e73f448964bb8633e9afeeb1ced3a75f3390b5b64",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, pluto: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. ABC printed381/PDF189, pluto: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-poseidon.md",
+    "before_sha256": "73fcc97c422ba00e1a05865538ea02fddae83c84143e7e384e76fffa887d017c",
+    "after_sha256": "59fef489579f25bf34d72e6531fe81a41c7c80cf7b2072258550e5c369d43c8d",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, poseidon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, poseidon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-saturn.md",
+    "before_sha256": "3114e8b487d2cae709888024126f4c1a5711a88022f3a16997729be2267f4496",
+    "after_sha256": "03e8f8c186d86b711f50267e6435304bea59a5b7764d0c8cfe11af3b9ffd0820",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, saturn: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, saturn: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-sun.md",
+    "before_sha256": "11d7b265f444b833f5e3fec314743f730ee99ebce7708e766954ca6249aa3c7b",
+    "after_sha256": "90c533e6725f1704e8d4ea7ce2eaeb855417764097ba9c931ca1b53e42044706",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, sun: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, sun: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-venus.md",
+    "before_sha256": "051e267cf5fb53eb603f1e83e8151839e4dd5d27510f3de940f3d0379e4a6aaa",
+    "after_sha256": "a16b50097ef0442604b9755d64b85bedfb327d1b66947af0283580da764723ef",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, venus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, venus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-vernal-point.md",
+    "before_sha256": "de59f6a3a7cd5dd694fa9dafdbbc318f0e02170d9fe55ba49c031f4676300e0a",
+    "after_sha256": "e0aedfae4b51950374199decf190f3a69ccce2196392dbe57db89ae26b194ca6",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, vernal-point: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed380/PDF189, vernal-point: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-vulcanus.md",
+    "before_sha256": "110ceac553fdd6b1386f9bce61dffc6a3a81d6384cda38e87d1f1031977303be",
+    "after_sha256": "1223960f7858ea6d9e3b7a28d217deb426658b3b4d2adbb1bac9075c7b4c57ad",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, vulcanus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, vulcanus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-kronos-equals-zeus.md",
+    "before_sha256": "dc96021d9d363149d4839523cf32d9b0cfc5a99866154dedbed9439f53170137",
+    "after_sha256": "2a8eae4ae495150790c1149e5ef62655bc7f31685cf77c94916c8688e417e0a6",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF239, zeus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed381/PDF189, zeus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-admetos.md",
+    "before_sha256": "a42e6727b13a69640dacef6085ead806c1b049e310f9eacd9bfaccd234a5f15c",
+    "after_sha256": "8ddf77b4fcd38966378798a449d519aaa85c70802bb56a1d55df8fca2f6b547e",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-apollon.md",
+    "before_sha256": "3fc9bc4eaf31f3c75cdc23b7a0fef884e4fbd2c6d9ddc05ab12bf64a1e07c15d",
+    "after_sha256": "78d84ad1b4549b4f35aaf25d8e6e7a990932ef25cda2e981d973b12d34e0476d",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, apollon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-asc.md",
+    "before_sha256": "501edfdc0016c50a2cccf6f34bd5036414e9e364e9f2a28e55f6c8463841a6c7",
+    "after_sha256": "9d54d3ed44edca3de49f70373a06c2ed8c9d9b0395a25f3c9fd8d2e4a1fbc7c0",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed279-279/PDF281-281, code0997: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf281.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-chiron.md",
+    "before_sha256": "1d52413de00201d2bf48c93bba6b38adef0ac23f5f3fd9b059d53b35e9d81078",
+    "after_sha256": "29647471460e0d4c12a565aae2ab5c83ad14415a4d496c5dad76832d6554b524",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-cupido.md",
+    "before_sha256": "1a5086497b212e84576dbfa2208f557fe092044a7336f130f180c50e5f3fc076",
+    "after_sha256": "ab8ecf51841fe39bad2f98d3f96d6c631dc904589ecb46e32fb258f6634a5de4",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, cupido: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. ABC printed79/PDF38, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-hades.md",
+    "before_sha256": "5bd497bf22dffe60663ffe66961ad2265515d8153728d103b2d926924db48694",
+    "after_sha256": "713bd8e3cfe841399baad55e0b7b7f35592314efed38d1c43887caaca13ef852",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, hades: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-jupiter.md",
+    "before_sha256": "14c92bef9aa1e08e4d4abdb36c4670d938e3ead49c5c78bfaf9a08c02f28bef4",
+    "after_sha256": "13c0bf4abd4fe9fc8a59f51e7eb97903f3ef7de4b7d8f449c728a56c093c0ebc",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0992: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete jupiter paragraph PDF109, chapter start108: full words/continuation/reference inspected. Changed words and scope checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-kronos.md",
+    "before_sha256": "8b0741b5ca9a0eb9868fb56f47875cbc782ac27926070162b7ce1933d4bfb985",
+    "after_sha256": "d9973af58b3bb1a5d1991b34fd6b8d80f478b46a7b7c93ad1110dc23004599fd",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, kronos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, kronos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-mars.md",
+    "before_sha256": "0dafbc9d650e3ba5ae325abe202b601270fff7536a4ae6a592e4497700494bf7",
+    "after_sha256": "6da4771e9adacf4449054acac5ac03dabd64a1a0533980e1ba82d99a13cacb69",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, mars: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded. Ebertin printed278-278/PDF280-280, code0991: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mars paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-mercury.md",
+    "before_sha256": "5c5c50f5a47100b75aadd9aa43f11045885f53ae695cecc54028ade2b97ec65b",
+    "after_sha256": "03f99b7b3763eb8a2470021fba4bd9794da209966cd483f3eff483d87ac4f9ae",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, mercury: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. ABC printed78/PDF38, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0989: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mercury paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-moon.md",
+    "before_sha256": "40289a744e4eb29634f973a7065c57547d35c7096507ce9ff8c9306d3f7d396d",
+    "after_sha256": "be6c51b6cade2212c7e010f718738043af49e7ade60af82a352919113e5b256c",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, moon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, moon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0988: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete moon paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-node.md",
+    "before_sha256": "a91e7640b2c236c63b814a816de9495411d4b768b5a9efaa29535c664eceb548",
+    "after_sha256": "51836d9fcfee7eed69ebc69eca70a7eb406e75d47ab7f496d7cc3b37766c814f",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, node: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, node: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded. Ebertin printed279-279/PDF281-281, code0996: exact own glyph/passage, continuation and reference checked. Every changed claim checked. Sandbach exact complete node paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf281.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-pluto.md",
+    "before_sha256": "84546d1abdedea80e5bc8f5e5b60ab12108ce4776511df13b60156ae417d4b98",
+    "after_sha256": "5409fe7e0a87806d649851e5cc80a4c085c720ff6f6a1214e3dedf91c49df6e0",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, pluto: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, pluto: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0995: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete pluto paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-poseidon.md",
+    "before_sha256": "7f46310b908d2d19a5d7a9809357f4dca9bb1f592e984b97a78ff4a63d47abd3",
+    "after_sha256": "fb0878a2ad09ab747c869f25f113b27d1a4b31ea419e938e32e300c33cf007ce",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, poseidon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, poseidon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-saturn.md",
+    "before_sha256": "faea10df2e35d6620c220e57c2ef4840625ec93e1218cbb3def7f21324b441f4",
+    "after_sha256": "d3be5517bee915db8fd6483e8c4cb55cda2316b7dd6af8bf547ac490a9bbcc30",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, saturn: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, saturn: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0993: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete saturn paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-sun.md",
+    "before_sha256": "7408d85b502e8ea1f69340f1f773a475d7cfe2d31d894c4d27e1363130c56a43",
+    "after_sha256": "dade8fc50f1f6a2e7736a806da5d53a0e25d4df0e272f7d9d89793dc95e49d4d",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, sun: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, sun: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0987: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete sun paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-venus.md",
+    "before_sha256": "b828ff928f5d8232c09866c64024d200ae8093834961c9216a8edf06bb3a7006",
+    "after_sha256": "efd9a899c58ed58ab6cca292dc33c990394310a127c15ed6f6de53ab414ebb7b",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, venus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, venus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed278-278/PDF280-280, code0990: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete venus paragraph PDF109, chapter start108: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-vernal-point.md",
+    "before_sha256": "efe85431f990c6455588af1879d948f267436b7e7ef8ced95d41525ac070098e",
+    "after_sha256": "805ec9df210905380cad58fdf6ca77743d91980d097e098b4fa0ce1cea295e53",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, vernal-point: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed78/PDF38, vernal-point: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-vulcanus.md",
+    "before_sha256": "a6604e966e88e32dc8c5905715fc93ef2cfabca8055a281872b8440b2487d7b6",
+    "after_sha256": "51424670d5d5ef3398975ddb8d3d1725d04b8f5faea005659a5bbe07ee0e033b",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, vulcanus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, vulcanus: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-mc-equals-zeus.md",
+    "before_sha256": "6d041143e0f27bbb3ea2eb822c455812ee90122eeee21d933a51726b96fb77db",
+    "after_sha256": "aa235767775dba4575df28a50215d6a9e2308e0708c43bb71a7f767756d54c99",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF67, zeus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed79/PDF38, zeus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-admetos.md",
+    "before_sha256": "4e333178f4ad0124421cfe521777e5ec5fcb52b2f55ba5f06856c62f150c0781",
+    "after_sha256": "4421b8d1b90e64239be6b98dc4794cfa60821578c4f17b8e9c758219e53e1c07",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-apollon.md",
+    "before_sha256": "5bdfa0d38c65c638c3a0e7ce3e7be592373b41cc2f930c6a4a5c5a116cb53e77",
+    "after_sha256": "24b33e61cbf717eb31945ce11f1668e84a7e0331a692fd60639d116aba058af9",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, apollon: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-asc.md",
+    "before_sha256": "7e6dbbfbc94bf387daaf88f77a8228b3b6dbe00675de45042f3a490671a1ed7a",
+    "after_sha256": "4be5c529fbdb946b8c6aa3fb58f9af0226f48b949008679b23bf6f7550fd2cf0",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed267-267/PDF269-269, code0948: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF105, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf269.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-chiron.md",
+    "before_sha256": "8e3c9d35e25858a5fccc3120609c462109648880baaa7a190f3a22c43c1e88d8",
+    "after_sha256": "a998fe4d773fa63b3338b183ea07098266e8410bdea3c1d800e0a25b1dc15769",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF104,105, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-cupido.md",
+    "before_sha256": "bd6f5ca8046356d233884f7d47fcd77ed7ee3ba670aa96743eaa6a2fa432443f",
+    "after_sha256": "523484d1869de445ce7462a35701ee3acf42b337dd49c338a80456e184cca9e9",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-hades.md",
+    "before_sha256": "2e737503c82a4976238cdfdf8ec95c045f66fedbb9ec59c8c7bb9d1106c49ece",
+    "after_sha256": "bf07415f56f0890e9d6cd58d2d06414e0137b23858072abbb3cc8268cd2aa3bf",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, hades: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-jupiter.md",
+    "before_sha256": "3fc82b266e0cbaf1f49c46607c463d31b074ab22039a8787ae3bc0104e7d2208",
+    "after_sha256": "501e11fd3027261953b5e28c0fe62154ef1fb3657887a838ee1ec7221d5e5e05",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0944: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete jupiter paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-kronos.md",
+    "before_sha256": "8fdd417bc89d9bf53339cc43170571b03c04112f0ec48197047c56f9f67597c0",
+    "after_sha256": "d6a0b3d0822f457add994a0ab827f69cf7818e3a14d78827952d4f0d425bdb5e",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, kronos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, kronos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-mars.md",
+    "before_sha256": "cfdc42db3a8a9763db520b5942b96d469410ee31de415eab78394dafda35788c",
+    "after_sha256": "67a2e02709dcf88f6591adb0e9fbc3e3af93437cebedf1bd1a087b54093c712b",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, mars: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0943: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mars paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-mc.md",
+    "before_sha256": "922cbe3fae948aa4c9ef7a7196c3ef724b53b3caa4e93465879516caf639ed5e",
+    "after_sha256": "347b1216fca7e3bbd67d4751769c08b451c86f1ddfe7b777b332c4aec9236b9d",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, mc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, mc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed267-267/PDF269-269, code0949: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mc paragraph PDF105, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf269.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-mercury.md",
+    "before_sha256": "70f01f9324b5b0010d22a7cfe8fb0c92bb6d80efa40ec2599a260c52ec2893b2",
+    "after_sha256": "4c953b6410f4fb918179cbc94d40c0e365688be814fccbeac41bb17bfba0caed",
+    "ledger": "activations-081.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, mercury: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. Note59 actual marker Mercury0941 verified. ABC printed370/PDF184, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Note59 actual marker Mercury0941 verified. Ebertin printed266-266/PDF268-268, code0941: exact own glyph/passage, continuation and reference checked. Every changed claim checked. Note59 actual marker Mercury0941 verified. Sandbach exact complete mercury paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded. Note59 actual marker Mercury0941 verified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-moon.md",
+    "before_sha256": "e2ce38f10627cedeaebc4286d1ce6416e592d5622cf1e29a65e037397da37216",
+    "after_sha256": "f93e2bf814354fd813b8eb61658ce941602fbd75e2a8687bccb4a6a04942fd25",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, moon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, moon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0940: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete moon paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-node.md",
+    "before_sha256": "a278c585c6efd51ce10c4e82f8916a97ee0d73cb1fbcfca36813b3f8db0c4cd4",
+    "after_sha256": "7fa3904c78099ed6a24f44044028071676233a1cc3331fe71b11dfb713e9b7a1",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, node: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, node: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed267-267/PDF269-269, code0947: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete node paragraph PDF105, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf269.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-pluto.md",
+    "before_sha256": "04258ce8380ba5bfc7943953bed46a08feb4f46e0d04a7c0a1f561f0cf6f5c65",
+    "after_sha256": "4051f0d0bf296f0ae52a83e6f3b1a162da2a6795c192cd3d8a50eba6fecedc33",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, pluto: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. Note59 belongs Mercury0941, not Pluto0946. ABC printed371/PDF184, pluto: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Note59 belongs Mercury0941, not Pluto0946. Ebertin printed266-266/PDF268-268, code0946: exact own glyph/passage, continuation and reference checked. Every changed claim checked. Note59 belongs Mercury0941, not Pluto0946. Sandbach exact complete pluto paragraph PDF105, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded. Note59 belongs Mercury0941, not Pluto0946.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-poseidon.md",
+    "before_sha256": "5e463cf950d18541852dcab4cfb9cc63837af4d5861f6cec38538a2a5244264e",
+    "after_sha256": "722a5802f2ade6f2798e73c3f57ae2a09615bda5b698fdaa185185d8fe188dbd",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, poseidon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, poseidon: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-saturn.md",
+    "before_sha256": "f363a66ba1ce8f17c88f8839cc962ec6974b0f6f417877c4ad6518fe3ce70815",
+    "after_sha256": "0fdce07549822d45807e695ee81b2abf85d73895aa70f56614f0b1fd2d77924e",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, saturn: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, saturn: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0945: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete saturn paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-sun.md",
+    "before_sha256": "655846bbb5d3d22529aa8d298e993b1737bb7f48bf7ca5bb46a007ae504c49c9",
+    "after_sha256": "bce774d5cd8edbc6ff9b770ab94f61416a423a66eb3aab3a5c69a61a54f1be1a",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, sun: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, sun: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0939: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete sun paragraph PDF104, chapter start104: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-venus.md",
+    "before_sha256": "a331486da5323c28aa628f46aeaa681a6c9fe744b0abfb62e2c3de90e9b2106e",
+    "after_sha256": "1c7badce892ac4a4aaf628385b440022298a9b0e35e62ef74f7ec6f4136081f6",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, venus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, venus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed266-266/PDF268-268, code0942: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete venus paragraph PDF104, chapter start104: full words/continuation/reference inspected. Changed words and scope checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-vernal-point.md",
+    "before_sha256": "44422c0eb4700bcd1105039537af3b3cb9edd7885397adf63241c45a1d949139",
+    "after_sha256": "b36beecc00946f2e23e12a929483288284ccebc531038aeecd5edb7de6a284dc",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, vernal-point: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed370/PDF184, vernal-point: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-vulcanus.md",
+    "before_sha256": "52c11bfb8e6e9a03d0fd5d5b70705b6d39baacccea8e2ffc5baf63dfa729cfc7",
+    "after_sha256": "c525d6c0c3b74086821eb4096a7921eaf765abea84e29ad5efe3be623730aa3d",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, vulcanus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, vulcanus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-neptune-equals-zeus.md",
+    "before_sha256": "ed72fa9fc8cb17db60087c80a8c4f41045168c2993ce90724ef884a935835c30",
+    "after_sha256": "55c21872d2f99eb0cc4cfa653106565eaad178f834f235d870ab3885e503530a",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF234, zeus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed371/PDF184, zeus: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-admetos.md",
+    "before_sha256": "28187682137c6d3e53a1840030ebb75cfef2ccdb8aac232573fe5db578c4ab11",
+    "after_sha256": "ac337489fdb6bc7784a85d21bc2ba8a6deeabdc376b3364b03fde6640aa4a415",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, admetos: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-apollon.md",
+    "before_sha256": "d2fd4819c6e54c08ccbfffa5e9058bee8d31caa68522d72f72b42cfa40f767e9",
+    "after_sha256": "7900d2edd9ce94fb3e0204b29f5d539c135138d7de2b16b68076bd1bf9f7f3fa",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, apollon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-asc.md",
+    "before_sha256": "17287154e2d0b9a47270551a0a5c3cf3b511fd495c0380651a86cab8085c2519",
+    "after_sha256": "d09851c0431d8e1dc84b30a752a6fdd442245ac14551b188d8b1fdd14bcc3f17",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed273-273/PDF275-275, code0972: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf275.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-chiron.md",
+    "before_sha256": "a33552fbc23249564e573e27dd8316f332378055b4a71f1c7ef28147668da95a",
+    "after_sha256": "8084709cbb949252c526ac7ab534c47c3bc70f37361d2acd1d3ec295ba5ab814",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-cupido.md",
+    "before_sha256": "169fa5b07fcbd2142aec1f214fc45d342a60d181da25ab7202a94adf81a4de8c",
+    "after_sha256": "c5b170b44de474cff303557235af890fce6b18c85ad725b8633e36f5e8f779fa",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-hades.md",
+    "before_sha256": "c90d3eb5f78ba6fc3c92d5cb707b7bea8310731048858d83c36a1d0c253668f1",
+    "after_sha256": "256b5cd71db3c4718af5b8b3f97f341f2097f1046f1c2ba53d18cfaed0e04011",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, hades: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-jupiter.md",
+    "before_sha256": "caa2f5ca19b9d95a8b79b0fc1367e02ad27043cd025a7eaaed5eb2199551f5b0",
+    "after_sha256": "5b6e5a346cbdf492827ca3b3090f2a0cc890a6c0b465221723ec3caf90f51f56",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0968: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete jupiter paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-kronos.md",
+    "before_sha256": "350a5af5427f95260b70f186ebcf1e3620b74ccd6cdd819bb261a6a61de6dcb1",
+    "after_sha256": "6da778093398f784fbfb670099c8679215458f7a4b80b18e0788671f67aad93d",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, kronos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, kronos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-mars.md",
+    "before_sha256": "7462cfbaa3a8311ac66343ab1e6b8ccf54d9879290d8e36c7a2463e81c7c6c70",
+    "after_sha256": "a53b657069c0e715efb30370ba9a0bfd28345f765896746a960422fc208ea545",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, mars: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0967: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mars paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-mc.md",
+    "before_sha256": "76fc0aca9107c801ef80b3c12f5a8015687e0ae67cc8deecd1957783cc9f8743",
+    "after_sha256": "53478ee0ec36717a62530ab439ca957ddb7d1ba3ca499b6c2e69d482b7402bb4",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, mc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, mc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed273-273/PDF275-275, code0973: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mc paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf275.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-mercury.md",
+    "before_sha256": "9e4193ddc830b6a72c5725483a45b9a5ec249a14af112b10364e9a63317dea8b",
+    "after_sha256": "f4ccf5565a7602c9ad6ca20e0cfe975a8624f0950b845249e22d635a37477255",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, mercury: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0965: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mercury paragraph PDF106,107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-moon.md",
+    "before_sha256": "b28cb288e813cca97ddfb12bf54da01f49bbef6b955048131a0e531567e6ba7c",
+    "after_sha256": "d6de846f3e160ca7b2ceb7d0770fbd44a3ee5e4688d2bf63b3965ccd6202bff7",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, moon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, moon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0964: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete moon paragraph PDF106, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-neptune.md",
+    "before_sha256": "a6ab343e883d21387f9d6326308248de963ab4b622095484ad8d9695d2c47f8a",
+    "after_sha256": "9633451771b333672d9d664acb55cd00b24ab629388c76267cf339f4ec0ab8a1",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, neptune: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, neptune: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0970: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete neptune paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-pluto.md",
+    "before_sha256": "88180549e3da6b8386fc49aff6cb1e587d494d84c60ce0e2e8834a01ee5092b7",
+    "after_sha256": "8fa554c0c67364c7301c8b22e00657975f020fa80e1f4e81d67e0fd5f0d23bbe",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, pluto: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. ABC printed219/PDF108, pluto: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-273/PDF274-275, code0971: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete pluto paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf275.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-poseidon.md",
+    "before_sha256": "9c29760242d487cfabd383db2efe4727cd49f09e1e034d9396d674ef6bfee3b3",
+    "after_sha256": "7bb61dfbd31cef7930d19a189de3502c0059908de43b670e7878bef1c0968cf7",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, poseidon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, poseidon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-saturn.md",
+    "before_sha256": "1627e6ecfa9a28fe500488c1b5acf480c71bda004b1765fb90c2e793511eff85",
+    "after_sha256": "14b6d75685c4ceea50e339fd93ea088cecd1aaadad09d3e7a76548cdd39f65b0",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, saturn: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, saturn: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0969: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete saturn paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-sun.md",
+    "before_sha256": "827fa19cf14c72bf20c1c266040bb9b230324297bc98ef27dfb698196e0240c0",
+    "after_sha256": "7645eb3d7167bbaa99171f7e297a7dd08c49d009ca68b2d0b905c68aa6f85279",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, sun: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, sun: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0963: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete sun paragraph PDF106, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-venus.md",
+    "before_sha256": "6263af4f8533ea6a26f10e1e47fc6b2b60c3d1fd89254e50d8126021c903d2cb",
+    "after_sha256": "8323eb8204601d9f85d577da4703f0dfb3c790cc9c7c9496bc95cd820b503897",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, venus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, venus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed272-272/PDF274-274, code0966: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete venus paragraph PDF107, chapter start106: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-vernal-point.md",
+    "before_sha256": "72f16da2ca9d31b80898751056914b43759f724e931ddfd1faa9fbad91d5edea",
+    "after_sha256": "e01471d82f9b58b53ffa960d571f074dd3afaacc46e5f3bbafb81cfa384c4458",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, vernal-point: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed218/PDF108, vernal-point: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-vulcanus.md",
+    "before_sha256": "2dc1a4cd92922ef15d20bfa951296170324e9344dedd06687fdc318b55426482",
+    "after_sha256": "98d2e1190e8d2e40dd1beb50c35d31ed63204856ef15cd2dc9726432ee89f992",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, vulcanus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, vulcanus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-node-equals-zeus.md",
+    "before_sha256": "d12870d47c352a495ce5705e9d4a2f754023cf119e2b7f8782c9934dad395e41",
+    "after_sha256": "7beb8830f110f654190318786e2acb302e52dc97afad14bfb23520e5ebf9f27f",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF146, zeus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed219/PDF108, zeus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-admetos.md",
+    "before_sha256": "ed859bdf59cb9ca2dc37838f45a2e72f4d97415502acbd01fbab4512df9b45eb",
+    "after_sha256": "2b2d0f4a54166bc8ad0d806c639076aca681c2066e8e08d2d14ba4086d92e7e4",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed373/PDF185, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-apollon.md",
+    "before_sha256": "40068b5304cefd63abdebebd805f8e494c40a27684c6f0d7f7d94338ca536e28",
+    "after_sha256": "4ec9ad6fa62a6d39baa688df46c82e87f30ed81e49b2b9580339ad9833ce793c",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed373/PDF185, apollon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-asc.md",
+    "before_sha256": "9f1959df379a4353a987161644c4d357a7b6603c57a9d5c44a749ff81d88bd46",
+    "after_sha256": "e1b82f269e708375cf2743f9d40b722ae53ef68be1403c83427a38b798303425",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed270-270/PDF272-272, code0960: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF106, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf272.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-chiron.md",
+    "before_sha256": "fbc7a17c5d59563f096a5fa9bce1e1074544b2587101bfe0efccd674e75851f8",
+    "after_sha256": "802bbaaa8f0f36949f331bdc3275f92503b85752a97cdc25bffb9ce49bcde645",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF106, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-cupido.md",
+    "before_sha256": "f0da5995c75aa39bc1d09d4480b24a9f97a83e270e6c83346e7438a56c5f35b4",
+    "after_sha256": "8f7cee74dd5af9c2646a0d2c2b1fc5574f562a324714cab844d224975496c63e",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed373/PDF185, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-hades.md",
+    "before_sha256": "20d0577ffa51cfb36544d25d694289e1e327d2ab869687c745995261e567c279",
+    "after_sha256": "31612a2d1aa7e085da44d49e3773458d2baecc593d42cdd167efd1da560bcbab",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed373/PDF185, hades: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-jupiter.md",
+    "before_sha256": "462e2e1e52c73c9b4f491ca2565b4771474cc0c8017da31b9fcd0155269c5f3d",
+    "after_sha256": "897d038d515ebff587bafc47c06e67f3470f19e0f3f5b919c632c7a33f84d7b6",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed269-269/PDF271-271, code0956: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete jupiter paragraph PDF106, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf271.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-kronos.md",
+    "before_sha256": "b7ff5d90ed048e1513338a543e75d9ae208ca5bb6c2c75c02900a950d7a8e432",
+    "after_sha256": "4147d7b4a004c2616e570f55ef580c381f77ef91dd3f283e784b587f467ffa26",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, kronos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed373/PDF185, kronos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-mars.md",
+    "before_sha256": "26453b99f0efd950abd7b9a52b670859b7c2fb4681b3dda0f650c5438c4abd08",
+    "after_sha256": "cf2d6ad7582c4c5311bd42e86eb0b62baf3291057ad9619f9b5c622f335ebb1b",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, mars: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded. Ebertin printed269-269/PDF271-271, code0955: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mars paragraph PDF105,106, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf271.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-mc.md",
+    "before_sha256": "ecac4782d57a44065733a18149fed5e4641d432852bf3291615e39daeff74bc8",
+    "after_sha256": "0fcfbdd11b743b1838f42a7fa807edc2fc804d893482a93351867f253560f86d",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, mc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, mc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed270-270/PDF272-272, code0961: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mc paragraph PDF106, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf272.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-mercury.md",
+    "before_sha256": "b8a557df757882df83ee245571e8eb73d22c66fa7b2058027687085fc1ed65ff",
+    "after_sha256": "5e6d1d65f6cb14e4e1ab0f140cfc08489835fa22c2ab30ea06638d978f1b2a14",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, mercury: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed269-269/PDF271-271, code0953: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mercury paragraph PDF105, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf271.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/uranus-pluto-equals-moon.md",
+    "before_sha256": "40476f83ac89cf969f270df44457fe990f49bbbfb3929badf0fb020ba692bcbc",
+    "after_sha256": "603e428d4eed0dbb10030a2dbcde509835b7101e9ae63940192c26266580ca9a",
+    "ledger": "activations-082.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF235, moon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed372/PDF185, moon: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded. Ebertin printed269-269/PDF271-271, code0952: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete moon paragraph PDF105, chapter start105: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf235.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf185.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf271.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-admetos.md",
+    "before_sha256": "7718c932be81e6233dfc36cb2e9e4b40c1a20b49ceb5f86c69e156e923660bb8",
+    "after_sha256": "2390d6efb5d3a2bdbfe54ddf592222f2540dd99543fcd99231f1b47c68c7c28b",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-apollon.md",
+    "before_sha256": "27f6da2e517aeaf1dbc04de019ec67d317ba830ccc32fd02de8bd4822906dbbf",
+    "after_sha256": "0fdc7205cb754c7627c722e8e6b319dac360fbb1893c200bcd48914a13dda437",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, apollon: full German row, folios/boundaries and every changed clause checked. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-asc.md",
+    "before_sha256": "c849030b64a69e121efc3642e36b6fd0ac2d4a4711359df3667863e40f154b38",
+    "after_sha256": "8ca9dea28938e226da897071cf9c08d1b3168af1071fb4392bc6a92315569961",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed189-189/PDF191-191, code0636: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf191.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-chiron.md",
+    "before_sha256": "03ff3749f15ffda0ca6af2fafdcbf1b23523a011299d18c6ad6f6522ac1d494d",
+    "after_sha256": "3c0f3f50d4706b379e50416e8e385d4d7fd9143d90b1d4333a253ec4478089f3",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-cupido.md",
+    "before_sha256": "390f24645d2ff6c0906b22487b6799e40cdf216edb210b9fd6af5e6acbd829c1",
+    "after_sha256": "d02a0639d52ecf10f2c28a5e173cb64b3525d990ba28d43d61b61d70a46e8780",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-hades.md",
+    "before_sha256": "230f3c473ca0b94b18a916d60fbc7163e68c2d558838ec4f7da76ebb0738b24b",
+    "after_sha256": "393b02b00d16713e925ade49fbcf9639f7ca1e15ee6300a7b9d89088026486f6",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, hades: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, hades: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-jupiter.md",
+    "before_sha256": "a09be74d7f8b5a9ebc2a846a84725c0e03c6c71596cb616b0d98698f2b6c8841",
+    "after_sha256": "0d95da433348e278f47931ef53e832dd2ba122426a7ba50467e7ced3e73a95cc",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, jupiter: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, jupiter: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0631: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete jupiter paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-kronos.md",
+    "before_sha256": "c729ad8a9311dae577db5ed233d167828b2b594c0a1c4df19ea3e969367f687c",
+    "after_sha256": "e07593fae5638e6332404dc838168d16ec9d026e63ff8f0540587fd0de01e81e",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, kronos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, kronos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-mars.md",
+    "before_sha256": "a846c568b79b693ff1d94ea8aa4b3496e78774dc62bc44f2d5b482efb6cb19ac",
+    "after_sha256": "d7bb24a9637a3dd3c0817599e9c6c1bcd4fe3acb9f53c1a284c7e05fc7034838",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, mars: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, mars: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0630: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mars paragraph PDF61,62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-mc.md",
+    "before_sha256": "cf23ef3c4e0ea792d7818ecc0dd5c97635d8d64c721c7b8766c51daa8740c5ca",
+    "after_sha256": "98018571e381ca4b3568222b155b9fca9fa191d840f3e7974075e96b4dd362ec",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, mc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, mc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed189-189/PDF191-191, code0637: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mc paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf191.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-mercury.md",
+    "before_sha256": "4391918ef94651dacc2daf45d68915896e47073e167813fabdce2c1ddac77b75",
+    "after_sha256": "5fa8493051c05c234f125888888dd96a73eceac2f591175e5c4c46afca9c205b",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, mercury: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, mercury: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0629: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete mercury paragraph PDF61, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-moon.md",
+    "before_sha256": "6ebd17945ad7b02fdd8c4817bab0f10b49565549a5d84616b01e481e5adf45e8",
+    "after_sha256": "8dd581a440edbd47226c43099f28886ad3597bf5773e102a369afbd037f191cd",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, moon: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. Actual Sandbach61-62 has no Moon entry. ABC printed278/PDF138, moon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Actual Sandbach61-62 has no Moon entry. Ebertin printed188-188/PDF190-190, code0628: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Actual Sandbach61-62 has no Moon entry.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-node.md",
+    "before_sha256": "a937dff7dded4d4aaa87540762b6c2bfc93637eeb3ce1b94738252365bb5ce24",
+    "after_sha256": "84a013485d4635dcd3f6da8e8b806a8ff1a2a9618f9fe4a3d6ac78c0f7f619e3",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, node: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, node: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed189-189/PDF191-191, code0635: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete node paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf191.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-pluto.md",
+    "before_sha256": "51a0e495b512b35578a4672eb5547954c68c91ec05f950b5cc1554fd4492db7f",
+    "after_sha256": "cc2eb7f546bdd58a0c63a87f89da1ecc5fed3c32e2af94ce77b256723d88e0bb",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, pluto: own glyph, full row/boundaries/reference inspected. Every changed word/glyph verified; unchanged inherited text excluded. ABC printed279/PDF138, pluto: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0634: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete pluto paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-poseidon.md",
+    "before_sha256": "af2d83cd4c7e86740a563dc0b3b4f3901992425f861c26a8d49a84340fd41f49",
+    "after_sha256": "4197d5f90a1c6a4972eb2b4b98b0a4e97dcb82bb834297dc3de1e8736371991a",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, poseidon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, poseidon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-saturn.md",
+    "before_sha256": "201383a080f2f8b13fad3207eb86d3500dd33ce61d7bd5af58edf65e4d93a308",
+    "after_sha256": "d5d7d2a79ca37ef7399fa014716744721862117147e0d16c3349bb8d65683ffb",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, saturn: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, saturn: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0632: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete saturn paragraph PDF62, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf062.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-sun.md",
+    "before_sha256": "237842eb86228a0c2d8a3e11396e2ad049c789c8a4e0fdb9b80ad4026a19f0fc",
+    "after_sha256": "aa57b8b739993e859f467d54ddbe933ea2673f3079a3bc1750d17d457aacbb61",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, sun: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, sun: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed188-188/PDF190-190, code0627: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete sun paragraph PDF61, chapter start61: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf205.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-vernal-point.md",
+    "before_sha256": "3ba3ece82b1dd2ad44955f04cd712ecfc6e23b3c31a9a23fc9ead00aae138dfa",
+    "after_sha256": "1d7a3f37cd58480e284586ad4c49648e38519b9df386b6d9493f9da902540fd7",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, vernal-point: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed278/PDF138, vernal-point: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-vulcanus.md",
+    "before_sha256": "46343b71cb63abc186cbe6699cbfc4e04837489971bfa8a7381c38402209c947",
+    "after_sha256": "dee24e0c3511d8153e95bf98ebaac1adec35dd175dbd01dbb4356164300efcaa",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, vulcanus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, vulcanus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-neptune-equals-zeus.md",
+    "before_sha256": "7a571db498f2b864e2ce10dfef604e7c4d57dfad68365e124c10eab50b7304a9",
+    "after_sha256": "818114e93ff3c00cb63cdc55db5f2bd76cc7ef976e288462f6d6275d2f1916ba",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF180, zeus: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed279/PDF138, zeus: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf138.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-admetos.md",
+    "before_sha256": "f1b5d5923a89126bc4836010488f7e3671f11cf9917f5e4076696cc6d7832b45",
+    "after_sha256": "04a964dce99c271d18cb7552cdd2334b080b0114ccf5d30727542d525f982ecb",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF142, admetos: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed211/PDF104, admetos: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf142.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf104.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-apollon.md",
+    "before_sha256": "1ae6dadaf645b17c26bdda8891fa2594cc8351918448ab2e6f04e2446d9e8d2b",
+    "after_sha256": "a74e4f913e05c55379ae9234b0a431a79e6aaa0a2bfcad41f5ebc23528773c40",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF142, apollon: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed211/PDF104, apollon: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf142.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf104.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-asc.md",
+    "before_sha256": "83f7b0ca5b3cc9d57e744ab43f29625c38bc19a17f6eab1747134b0569c9d6a5",
+    "after_sha256": "926c966e8b8e49f6275eece53c4af4e058b2dde76fdc92ab60eb30c38328002f",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF142, asc: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed210/PDF104, asc: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded. Ebertin printed194-194/PDF196-196, code0660: exact own glyph/passage, continuation and reference checked. Locator only; inherited prose excluded. Sandbach exact complete asc paragraph PDF64, chapter start63: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf142.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf104.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf196.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf063.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf064.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf213.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-chiron.md",
+    "before_sha256": "5aa3ae6057345854ff5d2effce17b669a30b23d9e35462f5a96eebf58f88a462",
+    "after_sha256": "a5383da86637e0460262f7a5f0f214e5e0716d3dc104c953797ef2846385b55d",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete chiron paragraph PDF64, chapter start63: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf063.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf064.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-cupido.md",
+    "before_sha256": "708d0f9f6a0d47bdca776b926ababcdf56f5871bd8ccc3aebf11b6936e93de0f",
+    "after_sha256": "e607aa5bd80df8cb7a4cac39a9434fd0f1d68881d41221626939e765a9c1a2ca",
+    "ledger": "activations-088.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Witte PDF142, cupido: own glyph, full row/boundaries/reference inspected. Locator only; inherited prose excluded. ABC printed211/PDF104, cupido: full German row, folios/boundaries and every changed clause checked. Substantive delta raw verified; unchanged English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf142.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf104.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-jupiter.md",
+    "before_sha256": "d9f2ba1cd97e9ef65733252931ee27cd8ca7ee2d701f5cdaada3ce0b8d85ea6c",
+    "after_sha256": "2c4ef16380b5c7370112ff144b59a5753387ee7adba229e5dedc6c9cdbc4d2a9",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete jupiter paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-mars.md",
+    "before_sha256": "17e799b295fc0ccc887e7fad785ead28e0c3dbf4db0b75bccb1957e6fcda6c88",
+    "after_sha256": "f3ce07bdc08d95bdc97dc1cabaaa86ddc2f751171b0f3776ddfdd2bd0b17aaa1",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete mars paragraph PDF102, chapter start101: full words/continuation/reference inspected. Changed words and scope checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-mc.md",
+    "before_sha256": "a8752112d207df3399c6798103619ed35a8778f7986ec76b62d3b25628b546e6",
+    "after_sha256": "27f6157b9ce018151412e6d2b55233b371cf2a424f7aa27c75c37898f380b236",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete mc paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-mercury.md",
+    "before_sha256": "86d2c002b231708005bc37dbb8aecd1bee1c5ced7864cc2f1a6ace46257918e1",
+    "after_sha256": "a76ff8281df4cb55f97bfac604475a0f9cea640956a5f74868d2a20319940b6e",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete mercury paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-moon.md",
+    "before_sha256": "283b6b63a143850f5d8c02daa2b7e8767c5a83d54436971044e31118d5267d34",
+    "after_sha256": "928168462a9a09d07661670d34c921eb4353d1b73ac4359f2b19a24c70be1346",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete moon paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-neptune.md",
+    "before_sha256": "2a6461c77bc9a5ffd19062c18e8eee5b33828d38e037e4f829c02198383b97ec",
+    "after_sha256": "10f685f5c735904d8f7bb269845f60cecaaf1b4ba2ea1e73f325886fffc34735",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete neptune paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-node.md",
+    "before_sha256": "f103e5eddabdbfd14cca10115b9ae661920a2e74cae2c66eb57de5280c62bdcc",
+    "after_sha256": "69fbff08b537b3854d91e68c1887505c3228a5658cec89ead7620ab08b8e22c7",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete node paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-pluto.md",
+    "before_sha256": "ec57cf7c5ad171b52e4b3f78ec55d79367f825b8d6982622c5a57e8e6693db80",
+    "after_sha256": "b352dee769e423b2e3fa19138ac783afe45b2362d996c553842b8454b1a54783",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete pluto paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-saturn.md",
+    "before_sha256": "09738342dbba39ca612f8aeed4b5b283029ef2fee13290f17f582f55ceecc8a6",
+    "after_sha256": "417f40e18ecf0963d14f353457f22ccfeb3092890e3bdc34dfe98ecbae93910b",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete saturn paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/chiron-asc-equals-sun.md",
+    "before_sha256": "2ba4d600742375977e6d862e89831b07bd0535c86f78c67eeb520767416c6a22",
+    "after_sha256": "70ff8c2d0770c00ca7787bcfac624e49435f999ae6fead6245714afd86ff81f3",
+    "ledger": "activations-007.jsonl",
+    "reason": "Complete original/current sources, delta and full unique owner record read. Sandbach exact complete sun paragraph PDF102, chapter start101: full words/continuation/reference inspected. Locator only; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf101.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf102.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  }
+]

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Zeus Vulcanus`
 - Astronomicon triad-set: `Q £ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Venus/Vulcanus = Zeus](../activations/venus-vulcanus-equals-zeus.md)
-- [Venus/Zeus = Vulcanus](../activations/venus-zeus-equals-vulcanus.md)
-- [Zeus/Vulcanus = Venus](../activations/zeus-vulcanus-equals-venus.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Venus/Vulcanus = Zeus](../activations/venus-vulcanus-equals-zeus.md) | [Venus/Vulcanus](../axes/venus-vulcanus.md) | [Zeus](../factors/zeus.md) |
+| [Venus/Zeus = Vulcanus](../activations/venus-zeus-equals-vulcanus.md) | [Venus/Zeus](../axes/venus-zeus.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Zeus/Vulcanus = Venus](../activations/zeus-vulcanus-equals-venus.md) | [Zeus/Vulcanus](../axes/zeus-vulcanus.md) | [Venus](../factors/venus.md) |
 
 ## Source Coverage
 
-- `Venus/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `295`
-- `Venus/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `287`
-- `Zeus/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
-- `Zeus/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `456`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Venus/Vulcanus = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-vulcanus-equals-zeus.md#witte-entry), one-based PDF entry-start p. `188`.
+- `Venus/Vulcanus = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-vulcanus-equals-zeus.md#abc-entry), printed p. `295`.
+- `Venus/Zeus = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-zeus-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `184`.
+- `Venus/Zeus = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-zeus-equals-vulcanus.md#abc-entry), printed p. `287`.
+- `Zeus/Vulcanus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-vulcanus-equals-venus.md#witte-entry), one-based PDF entry-start p. `295`.
+- `Zeus/Vulcanus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-vulcanus-equals-venus.md#abc-entry), printed p. `456`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Zeus`: to attend to duty with love and care.
-- `Venus/Zeus = Vulcanus`: passionate love desire.
-- `Zeus/Vulcanus = Venus`: Great longing for love. Mighty will for procreation.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

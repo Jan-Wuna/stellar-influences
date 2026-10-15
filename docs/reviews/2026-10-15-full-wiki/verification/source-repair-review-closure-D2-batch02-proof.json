@@ -1,0 +1,1535 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+      "before_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+      "current_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 8,
+      "ledger_record_sha256": "c4449e7fff6a34d1e1bbb5ef834bfc55e014ec2f0447e8a1baba6ea561059fc4",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nOne’s unchanging attitude while facing the public. Hard to influence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy public resistance, my limitations in public life, my consolidation in public, my freedom in public, mental blockade in public, and mental depression in public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nOne’s unchanging attitude while facing the public. Hard to influence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Admetos row.\n\nGerman passage transcribed from the scan:\n\n> Mein öffentlicher Widerstand, meine Beschränkungen im öffentlichen Leben, meine Festigung in der Öffentlichkeit, meine Freiheit in der Öffentlichkeit, seelische Blockade in der Öffentlichkeit, seelische Unterdrückung im öffentlichen Leben\n\nEditorial translation: My public resistance; my restrictions in public life; my consolidation in public; my freedom in public; inner blockade in public; inner oppression in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Lists omitted tension between restriction and freedom and medical limit on mental depression."
+        ],
+        "changes": [
+          "Explained fixed public stance; retained freedom/restriction tension and attributed translation limit; added schema and citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native seelische Unterdri.ickung compared; MC/Admetos orientation and anchor checked; batch diff reviewed.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; resistance, limitations, consolidation, freedom",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete admetos row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC mental depression should not become a diagnosis; native OCR seelische Unterdri.ickung needs scan-backed translation review."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "admetos",
+          "complete_clause_count": 6,
+          "german_passage": "Mein öffentlicher Widerstand, meine Beschränkungen im öffentlichen Leben, meine Festigung in der Öffentlichkeit, meine Freiheit in der Öffentlichkeit, seelische Blockade in der Öffentlichkeit, seelische Unterdrückung im öffentlichen Leben",
+          "editorial_translation": "My public resistance; my restrictions in public life; my consolidation in public; my freedom in public; inner blockade in public; inner oppression in public life.",
+          "before_source_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+          "after_source_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 8,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-admetos.md",
+            "text": "ABC mental depression should not become a diagnosis; native OCR seelische Unterdri.ickung needs scan-backed translation review.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+        "after_source_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+        "before_page_sha256": "e073bceeeee7c70f98c08714f3468d18dde21b831947a932f15bef0971ccfc53",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nOne’s unchanging attitude while facing the public. Hard to influence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy public resistance, my limitations in public life, my consolidation in public, my freedom in public, mental blockade in public, and mental depression in public life",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nOne’s unchanging attitude while facing the public. Hard to influence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Admetos row.\n\nGerman passage transcribed from the scan:\n\n> Mein öffentlicher Widerstand, meine Beschränkungen im öffentlichen Leben, meine Festigung in der Öffentlichkeit, meine Freiheit in der Öffentlichkeit, seelische Blockade in der Öffentlichkeit, seelische Unterdrückung im öffentlichen Leben\n\nEditorial translation: My public resistance; my restrictions in public life; my consolidation in public; my freedom in public; inner blockade in public; inner oppression in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "admetos",
+          "complete_clause_count": 6,
+          "german_passage": "Mein öffentlicher Widerstand, meine Beschränkungen im öffentlichen Leben, meine Festigung in der Öffentlichkeit, meine Freiheit in der Öffentlichkeit, seelische Blockade in der Öffentlichkeit, seelische Unterdrückung im öffentlichen Leben",
+          "editorial_translation": "My public resistance; my restrictions in public life; my consolidation in public; my freedom in public; inner blockade in public; inner oppression in public life.",
+          "before_source_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+          "after_source_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete admetos glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Unterdrückung means inner oppression; the freedom/restriction tension is preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification.",
+          "Inner oppression/blockade or criminality wording is source-native historical doctrine, not a diagnosis or factual character judgment."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+      "before_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+      "current_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "338b72ee347a79334a2d468e81faa0eb1cda7e500fc23b0f4941f574ec7d5933",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make friendships which influence the profession. Meetings outside the home. At this moment and place in the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEnsuring the environment in public, my environment is the public, my partner in public life, my place in public, my partner's public, others in my world, and I in the world of others",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make friendships which influence the profession. Meetings outside the home. At this moment and place in the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Asc row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Umwelt in der Öffentlichkeit, meine Umwelt ist die Öffentlichkeit, mein Partner im öffentlichen Leben, mein Platz in der Öffentlichkeit, Öffentlichkeit meines Partners, andere in meiner Welt, ich in der Welt anderer\n\nEditorial translation: Soulful surroundings in public; my surroundings are the public; my partner in public life; my place in public; my partner's public sphere; others in my world; I in the world of others.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Synthesis repeated Ensuring the environment mistranslation; no schema."
+        ],
+        "changes": [
+          "Explained public place through encounters, partners and professional friendships; excluded unclear clause; added source links and bounded comparison.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Beseelte Umwelt compared; Asc activation orientation and adjacent anchor checked; batch diff reviewed.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed18 PDF8; others in my world / I in others' worlds",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete asc row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Ensuring the environment is unclear against Beseelte Umwelt and remains excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "asc",
+          "complete_clause_count": 7,
+          "german_passage": "Beseelte Umwelt in der Öffentlichkeit, meine Umwelt ist die Öffentlichkeit, mein Partner im öffentlichen Leben, mein Platz in der Öffentlichkeit, Öffentlichkeit meines Partners, andere in meiner Welt, ich in der Welt anderer",
+          "editorial_translation": "Soulful surroundings in public; my surroundings are the public; my partner in public life; my place in public; my partner's public sphere; others in my world; I in the world of others.",
+          "before_source_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+          "after_source_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 10,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-asc.md",
+            "text": "ABC Ensuring the environment is unclear against Beseelte Umwelt and remains excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-asc-mc.md",
+            "text": "Vernal Point/MC = Asc retains an unresolved opening translation; its source heading does not certify every phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+        "after_source_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+        "before_page_sha256": "b94b61bd9e89bad80f974346f4b7e1659d69761ec7ed57e30cf9532cb5927fdc",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make friendships which influence the profession. Meetings outside the home. At this moment and place in the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEnsuring the environment in public, my environment is the public, my partner in public life, my place in public, my partner's public, others in my world, and I in the world of others",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make friendships which influence the profession. Meetings outside the home. At this moment and place in the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Asc row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Umwelt in der Öffentlichkeit, meine Umwelt ist die Öffentlichkeit, mein Partner im öffentlichen Leben, mein Platz in der Öffentlichkeit, Öffentlichkeit meines Partners, andere in meiner Welt, ich in der Welt anderer\n\nEditorial translation: Soulful surroundings in public; my surroundings are the public; my partner in public life; my place in public; my partner's public sphere; others in my world; I in the world of others.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "asc",
+          "complete_clause_count": 7,
+          "german_passage": "Beseelte Umwelt in der Öffentlichkeit, meine Umwelt ist die Öffentlichkeit, mein Partner im öffentlichen Leben, mein Platz in der Öffentlichkeit, Öffentlichkeit meines Partners, andere in meiner Welt, ich in der Welt anderer",
+          "editorial_translation": "Soulful surroundings in public; my surroundings are the public; my partner in public life; my place in public; my partner's public sphere; others in my world; I in the world of others.",
+          "before_source_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+          "after_source_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete asc glyph row and boundaries, ABC printed18/PDF8 (7 clauses). All German, labeled English and new locator verified; Beseelte Umwelt means soulful surroundings and the other/partner clauses remain distinct.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "before_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+      "current_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 11,
+      "ledger_record_sha256": "381419c2c1e8e7b5a535944376f5c93903889417b63a37cf179e304fceaf187d",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA sense of sociability. To look and to be social. To have dealings with the arts, associations or groups.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBesserte world community, besserte community in the Öffent life, my community in the public, my art in the public, Minute the community in the public, and public soul community",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA sense of sociability. To look and to be social. To have dealings with the arts, associations or groups.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Cupido row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Welt-Gemeinschaft, beseelte Gemeinschaft im öffentlichen Leben, meine Gemeinschaft in der Öffentlichkeit, meine Kunst in der Öffentlichkeit, Minute der Gemeinschaft in der Öffentlichkeit, öffentliche Seelen-Gemeinschaft\n\nEditorial translation: A soulful world community; soulful community in public life; my community in public; my art in public; a minute of community in public; a public community of souls.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Synthesis repeated Besserte / Minute the community damaged wording."
+        ],
+        "changes": [
+          "Connected social belonging and artistic participation; added meaningful categories, limited contradiction assessment and citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Beseelte and Minute clauses compared; Cupido orientation and anchor checked; batch diff reviewed.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [
+          "ABC's Minute der Gemeinschaft is a literal minute-of-community expression; its significance is not explained and no timing method is inferred."
+        ],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; meine Gemeinschaft, meine Kunst",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete cupido row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Besserte world community / besserte community in the Öffent life / Minute the community remain unclear and excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "cupido",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Welt-Gemeinschaft, beseelte Gemeinschaft im öffentlichen Leben, meine Gemeinschaft in der Öffentlichkeit, meine Kunst in der Öffentlichkeit, Minute der Gemeinschaft in der Öffentlichkeit, öffentliche Seelen-Gemeinschaft",
+          "editorial_translation": "A soulful world community; soulful community in public life; my community in public; my art in public; a minute of community in public; a public community of souls.",
+          "before_source_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+          "after_source_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 11,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-cupido.md",
+            "text": "ABC Besserte world community / besserte community in the Öffent life / Minute the community remain unclear and excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-cupido.md",
+            "text": "Vernal Point/MC = Cupido retains damaged ABC clauses that prevent complete source comparison. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-cupido.md",
+            "text": "Vernal Point/MC = Cupido retains damaged ABC clauses that prevent complete source comparison.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+        "after_source_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+        "before_page_sha256": "e828077517a6f8a08bdd50322537b8aacedc79c8d5c91a8598dd3ac40a69c6e5",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA sense of sociability. To look and to be social. To have dealings with the arts, associations or groups.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBesserte world community, besserte community in the Öffent life, my community in the public, my art in the public, Minute the community in the public, and public soul community",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA sense of sociability. To look and to be social. To have dealings with the arts, associations or groups.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Cupido row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Welt-Gemeinschaft, beseelte Gemeinschaft im öffentlichen Leben, meine Gemeinschaft in der Öffentlichkeit, meine Kunst in der Öffentlichkeit, Minute der Gemeinschaft in der Öffentlichkeit, öffentliche Seelen-Gemeinschaft\n\nEditorial translation: A soulful world community; soulful community in public life; my community in public; my art in public; a minute of community in public; a public community of souls.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "cupido",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Welt-Gemeinschaft, beseelte Gemeinschaft im öffentlichen Leben, meine Gemeinschaft in der Öffentlichkeit, meine Kunst in der Öffentlichkeit, Minute der Gemeinschaft in der Öffentlichkeit, öffentliche Seelen-Gemeinschaft",
+          "editorial_translation": "A soulful world community; soulful community in public life; my community in public; my art in public; a minute of community in public; a public community of souls.",
+          "before_source_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+          "after_source_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [
+          "ABC's Minute der Gemeinschaft is a literal minute-of-community expression; its significance is not explained and no timing method is inferred."
+        ],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete cupido glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelte community wording and literal Minute der Gemeinschaft are preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification.",
+          "Minute der Gemeinschaft is printed literally; significance unexplained and no timing method inferred."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+      "before_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+      "current_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 12,
+      "ledger_record_sha256": "cf0e87099f874de78d924c233443a8d0e5a08110da0eeace347c3c8c21c0d8ca",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo share misfortune with others. To experience hard times. Sympathy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDangered souls in public, my service in public, my Crimean inalitat in public, my disadvantages in public life, my public past, and mental criminality in public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo share misfortune with others. To experience hard times. Sympathy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Hades row.\n\nGerman passage transcribed from the scan:\n\n> Gefährdete Seelen in der Öffentlichkeit, mein Dienst in der Öffentlichkeit, meine Kriminalität in der Öffentlichkeit, meine Nachteile im öffentlichen Leben, meine öffentliche Vergangenheit, seelische Kriminalität im öffentlichen Leben\n\nEditorial translation: Endangered souls in public; my service in public; my criminality in public; my disadvantages in public life; my public past; inner criminality in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Copied damaged Crimean inalitat wording and lacked bounds on criminality."
+        ],
+        "changes": [
+          "Explained shared hardship, sympathy and public service; excluded damaged criminality from character inference; added schema and citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Krim inalitat checked; exact MC/Hades orientation and adjacent anchor checked; batch diff reviewed.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start; shared misfortune and sympathy",
+          "#abc-entry printed19 PDF8; Dienst and Nachteile",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete hades row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Dangered souls / Crimean inalitat remain awkward or damaged; source criminality language retained without confident interpretive extension."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "hades",
+          "complete_clause_count": 6,
+          "german_passage": "Gefährdete Seelen in der Öffentlichkeit, mein Dienst in der Öffentlichkeit, meine Kriminalität in der Öffentlichkeit, meine Nachteile im öffentlichen Leben, meine öffentliche Vergangenheit, seelische Kriminalität im öffentlichen Leben",
+          "editorial_translation": "Endangered souls in public; my service in public; my criminality in public; my disadvantages in public life; my public past; inner criminality in public life.",
+          "before_source_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+          "after_source_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 12,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-hades.md",
+            "text": "ABC Dangered souls / Crimean inalitat remain awkward or damaged; source criminality language retained without confident interpretive extension.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-hades.md",
+            "text": "Vernal Point/MC = Hades retains damaged ABC wording; source presence does not establish the unclear phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-hades.md",
+            "text": "Vernal Point/MC = Hades retains damaged ABC wording; source presence does not establish the unclear phrase.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+        "after_source_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+        "before_page_sha256": "23355e194c38c4856c0f349a93823bd10c530b0bb16440fe210595010e402fcc",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo share misfortune with others. To experience hard times. Sympathy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDangered souls in public, my service in public, my Crimean inalitat in public, my disadvantages in public life, my public past, and mental criminality in public life",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo share misfortune with others. To experience hard times. Sympathy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Hades row.\n\nGerman passage transcribed from the scan:\n\n> Gefährdete Seelen in der Öffentlichkeit, mein Dienst in der Öffentlichkeit, meine Kriminalität in der Öffentlichkeit, meine Nachteile im öffentlichen Leben, meine öffentliche Vergangenheit, seelische Kriminalität im öffentlichen Leben\n\nEditorial translation: Endangered souls in public; my service in public; my criminality in public; my disadvantages in public life; my public past; inner criminality in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "hades",
+          "complete_clause_count": 6,
+          "german_passage": "Gefährdete Seelen in der Öffentlichkeit, mein Dienst in der Öffentlichkeit, meine Kriminalität in der Öffentlichkeit, meine Nachteile im öffentlichen Leben, meine öffentliche Vergangenheit, seelische Kriminalität im öffentlichen Leben",
+          "editorial_translation": "Endangered souls in public; my service in public; my criminality in public; my disadvantages in public life; my public past; inner criminality in public life.",
+          "before_source_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+          "after_source_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete hades glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Gefährdete Seelen means endangered souls and Kriminalität remains attributed source language.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification.",
+          "Inner oppression/blockade or criminality wording is source-native historical doctrine, not a diagnosis or factual character judgment."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+      "before_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+      "current_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 13,
+      "ledger_record_sha256": "ba8b75e8382b9209176f90436b654b08df8f0f8ff24f3cfde2596122e90165bf",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be merry with others. Benign attitude toward others. To feel lucky. Successful.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nGlicks minute in public, my money for the public, my public law, my public success, my joy in public, my advantages in public life, and spiritual joy in public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be merry with others. Benign attitude toward others. To feel lucky. Successful.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Jupiter row.\n\nGerman passage transcribed from the scan:\n\n> Glücks-Minute in der Öffentlichkeit, mein Geld für die Öffentlichkeit, mein öffentliches Recht, mein öffentlicher Erfolg, meine Freude in der Öffentlichkeit, meine Vorteile im öffentlichen Leben, seelische Freude im öffentlichen Leben\n\nEditorial translation: A fortunate minute in public; my money for the public; my public law; my public success; my joy in public; my advantages in public life; inner joy in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Keyword copy and Glicks minute damage; missing schema."
+        ],
+        "changes": [
+          "Connected public joy, benign attitude and favorable experience; added six categories, limits and source navigation.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page, manifest and native evidence read; actual diff inspected; Jupiter orientation, locators and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed18 PDF8; money, law, joy, success",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete jupiter row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "Glicks minute / native Glilcks-Minute remains uncorrected and excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "jupiter",
+          "complete_clause_count": 7,
+          "german_passage": "Glücks-Minute in der Öffentlichkeit, mein Geld für die Öffentlichkeit, mein öffentliches Recht, mein öffentlicher Erfolg, meine Freude in der Öffentlichkeit, meine Vorteile im öffentlichen Leben, seelische Freude im öffentlichen Leben",
+          "editorial_translation": "A fortunate minute in public; my money for the public; my public law; my public success; my joy in public; my advantages in public life; inner joy in public life.",
+          "before_source_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+          "after_source_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 13,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+            "text": "Glicks minute / native Glilcks-Minute remains uncorrected and excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+        "after_source_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+        "before_page_sha256": "a36642cecef371de3d427002745bcd67537b3f50bfcc38da3088b3c39dea3c76",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be merry with others. Benign attitude toward others. To feel lucky. Successful.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nGlicks minute in public, my money for the public, my public law, my public success, my joy in public, my advantages in public life, and spiritual joy in public life",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be merry with others. Benign attitude toward others. To feel lucky. Successful.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Jupiter row.\n\nGerman passage transcribed from the scan:\n\n> Glücks-Minute in der Öffentlichkeit, mein Geld für die Öffentlichkeit, mein öffentliches Recht, mein öffentlicher Erfolg, meine Freude in der Öffentlichkeit, meine Vorteile im öffentlichen Leben, seelische Freude im öffentlichen Leben\n\nEditorial translation: A fortunate minute in public; my money for the public; my public law; my public success; my joy in public; my advantages in public life; inner joy in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "jupiter",
+          "complete_clause_count": 7,
+          "german_passage": "Glücks-Minute in der Öffentlichkeit, mein Geld für die Öffentlichkeit, mein öffentliches Recht, mein öffentlicher Erfolg, meine Freude in der Öffentlichkeit, meine Vorteile im öffentlichen Leben, seelische Freude im öffentlichen Leben",
+          "editorial_translation": "A fortunate minute in public; my money for the public; my public law; my public success; my joy in public; my advantages in public life; inner joy in public life.",
+          "before_source_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+          "after_source_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete jupiter glyph row and boundaries, ABC printed18/PDF8 (7 clauses). All German, labeled English and new locator verified; Glücks-Minute means a fortunate minute.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+      "before_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+      "current_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "866256d593d2776ca6313ce0727f2d3bed36b6c82b3ef71074f968da71a41d37",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBeing together officially. To appear leading. Strive for public leadership.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nThe inner nature of the state in public, great soul in public, my reputation in the world, my special world, my self pity in public life, and important minute in public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBeing together officially. To appear leading. Strive for public leadership.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Kronos row.\n\nGerman passage transcribed from the scan:\n\n> Das innere Wesen des Staates in der Öffentlichkeit, große Seele in der Öffentlichkeit, mein Ansehen in der Welt, meine besondere Welt, meine Selbständigkeit im öffentlichen Leben, wichtige Minute in der Öffentlichkeit\n\nEditorial translation: The inner nature of the state in public; a great soul in public; my reputation in the world; my special world; my independence in public life; an important minute in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Self pity translation reverses native Selbstandigkeit; synthesis copied it."
+        ],
+        "changes": [
+          "Explained official standing and leadership through reputation; excluded self-pity clause; added schema and bounded comparison.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; German/English compared; actual diff, Kronos orientation, locators and anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; Ansehen in der Welt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete kronos row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC self pity vs native Selbstandigkeit requires scan-backed source-entry repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "kronos",
+          "complete_clause_count": 6,
+          "german_passage": "Das innere Wesen des Staates in der Öffentlichkeit, große Seele in der Öffentlichkeit, mein Ansehen in der Welt, meine besondere Welt, meine Selbständigkeit im öffentlichen Leben, wichtige Minute in der Öffentlichkeit",
+          "editorial_translation": "The inner nature of the state in public; a great soul in public; my reputation in the world; my special world; my independence in public life; an important minute in public.",
+          "before_source_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+          "after_source_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 14,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-kronos.md",
+            "text": "ABC self pity vs native Selbstandigkeit requires scan-backed source-entry repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+        "after_source_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+        "before_page_sha256": "41c7d76e02a8de1e3342507afba6a3e29b13dbbc9b68ac1e8cd3d96bd5cc965b",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBeing together officially. To appear leading. Strive for public leadership.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nThe inner nature of the state in public, great soul in public, my reputation in the world, my special world, my self pity in public life, and important minute in public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBeing together officially. To appear leading. Strive for public leadership.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Kronos row.\n\nGerman passage transcribed from the scan:\n\n> Das innere Wesen des Staates in der Öffentlichkeit, große Seele in der Öffentlichkeit, mein Ansehen in der Welt, meine besondere Welt, meine Selbständigkeit im öffentlichen Leben, wichtige Minute in der Öffentlichkeit\n\nEditorial translation: The inner nature of the state in public; a great soul in public; my reputation in the world; my special world; my independence in public life; an important minute in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "kronos",
+          "complete_clause_count": 6,
+          "german_passage": "Das innere Wesen des Staates in der Öffentlichkeit, große Seele in der Öffentlichkeit, mein Ansehen in der Welt, meine besondere Welt, meine Selbständigkeit im öffentlichen Leben, wichtige Minute in der Öffentlichkeit",
+          "editorial_translation": "The inner nature of the state in public; a great soul in public; my reputation in the world; my special world; my independence in public life; an important minute in public.",
+          "before_source_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+          "after_source_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete kronos glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Selbständigkeit means independence.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+      "before_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+      "current_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "16cbff0b8ba14b9e6c376b4b2d161527919af4aedf65089c6c1c1b8ab8ac0346",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work with other people. To let others work. To look energetic, active and busy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIn the public, my activities in the public life, my public work, minute of action in the public, soul work in the public, and emotional impulses from the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work with other people. To let others work. To look energetic, active and busy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Mars row.\n\nGerman passage transcribed from the scan:\n\n> Beseeltes Schaffen in der Öffentlichkeit, meine Aktivitäten im öffentlichen Leben, meine Öffentlichkeits-Arbeit, Minute der Tatkraft in der Öffentlichkeit, Seelen-Arbeit in der Öffentlichkeit, seelische Impulse aus der Öffentlichkeit\n\nEditorial translation: Soulful work in public; my activities in public life; my public work; a minute of drive in public; soul-work in public; inner impulses from the public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Incomplete In the public repeated in synthesis; schema absent."
+        ],
+        "changes": [
+          "Connected personal public work, cooperation and busy appearance; bounded alternative of letting others work; added categories and references.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page, manifest and native evidence read; actual diff inspected; Mars after equals, locators and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed18 PDF8; activities and public work",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete mars row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC opening In the public omits native Beseeltes Schaff en and remains incomplete."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "mars",
+          "complete_clause_count": 6,
+          "german_passage": "Beseeltes Schaffen in der Öffentlichkeit, meine Aktivitäten im öffentlichen Leben, meine Öffentlichkeits-Arbeit, Minute der Tatkraft in der Öffentlichkeit, Seelen-Arbeit in der Öffentlichkeit, seelische Impulse aus der Öffentlichkeit",
+          "editorial_translation": "Soulful work in public; my activities in public life; my public work; a minute of drive in public; soul-work in public; inner impulses from the public.",
+          "before_source_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+          "after_source_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 15,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-mars.md",
+            "text": "ABC opening In the public omits native Beseeltes Schaff en and remains incomplete.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+        "after_source_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+        "before_page_sha256": "c27b2305cdaaf7ccdd9f49925554d0c2372bb4fce575f6f98b27eaae4dbe1dab",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work with other people. To let others work. To look energetic, active and busy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIn the public, my activities in the public life, my public work, minute of action in the public, soul work in the public, and emotional impulses from the public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work with other people. To let others work. To look energetic, active and busy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Mars row.\n\nGerman passage transcribed from the scan:\n\n> Beseeltes Schaffen in der Öffentlichkeit, meine Aktivitäten im öffentlichen Leben, meine Öffentlichkeits-Arbeit, Minute der Tatkraft in der Öffentlichkeit, Seelen-Arbeit in der Öffentlichkeit, seelische Impulse aus der Öffentlichkeit\n\nEditorial translation: Soulful work in public; my activities in public life; my public work; a minute of drive in public; soul-work in public; inner impulses from the public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "mars",
+          "complete_clause_count": 6,
+          "german_passage": "Beseeltes Schaffen in der Öffentlichkeit, meine Aktivitäten im öffentlichen Leben, meine Öffentlichkeits-Arbeit, Minute der Tatkraft in der Öffentlichkeit, Seelen-Arbeit in der Öffentlichkeit, seelische Impulse aus der Öffentlichkeit",
+          "editorial_translation": "Soulful work in public; my activities in public life; my public work; a minute of drive in public; soul-work in public; inner impulses from the public.",
+          "before_source_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+          "after_source_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete mars glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; the omitted Beseeltes Schaffen opening is restored.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+      "before_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+      "current_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 17,
+      "ledger_record_sha256": "cdd29132198e552f5718923b0aa9b70796e825e0a78c481aa2f38dbb989232dc",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe emotional attitude toward publicity or women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlessed woman in public life, animated animals in public, animated hours in public, my wife in public, my flowers in public, and I as a woman in public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe emotional attitude toward publicity or women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Moon row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Frau im öffentlichen Leben, beseelte Gefühle in der Öffentlichkeit, beseelte Stunde in der Öffentlichkeit, meine Frau in der Öffentlichkeit, meine Gefühle in der Öffentlichkeit, ich als Frau in der Öffentlichkeit\n\nEditorial translation: A soulful woman in public life; soulful feelings in public; a soulful hour in public; my wife in public; my feelings in public; I as a woman in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Animals and flowers mistranslate native feelings; gendered examples unbounded."
+        ],
+        "changes": [
+          "Restricted synthesis to emotional public attitude and attributed female examples; documented mistranslations; added schema and citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; Geftihle/Geflihle checked against animals/flowers; actual diff, Moon orientation and anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start; emotional attitude",
+          "#abc-entry printed18 PDF8; wife and woman examples",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete moon row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC blessed woman / animated animals / my flowers require scan-backed translation repair and are excluded as meanings."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "moon",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Frau im öffentlichen Leben, beseelte Gefühle in der Öffentlichkeit, beseelte Stunde in der Öffentlichkeit, meine Frau in der Öffentlichkeit, meine Gefühle in der Öffentlichkeit, ich als Frau in der Öffentlichkeit",
+          "editorial_translation": "A soulful woman in public life; soulful feelings in public; a soulful hour in public; my wife in public; my feelings in public; I as a woman in public.",
+          "before_source_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+          "after_source_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 17,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-moon.md",
+            "text": "ABC blessed woman / animated animals / my flowers require scan-backed translation repair and are excluded as meanings.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+        "after_source_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+        "before_page_sha256": "8b618a48436a12f6bd47d54f0daff516f2fea5a7bfe198e79c65755292c0d112",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe emotional attitude toward publicity or women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlessed woman in public life, animated animals in public, animated hours in public, my wife in public, my flowers in public, and I as a woman in public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe emotional attitude toward publicity or women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Moon row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Frau im öffentlichen Leben, beseelte Gefühle in der Öffentlichkeit, beseelte Stunde in der Öffentlichkeit, meine Frau in der Öffentlichkeit, meine Gefühle in der Öffentlichkeit, ich als Frau in der Öffentlichkeit\n\nEditorial translation: A soulful woman in public life; soulful feelings in public; a soulful hour in public; my wife in public; my feelings in public; I as a woman in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "moon",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Frau im öffentlichen Leben, beseelte Gefühle in der Öffentlichkeit, beseelte Stunde in der Öffentlichkeit, meine Frau in der Öffentlichkeit, meine Gefühle in der Öffentlichkeit, ich als Frau in der Öffentlichkeit",
+          "editorial_translation": "A soulful woman in public life; soulful feelings in public; a soulful hour in public; my wife in public; my feelings in public; I as a woman in public.",
+          "before_source_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+          "after_source_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete moon glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Gefühle means feelings in both formerly damaged animal/flower clauses.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+      "before_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+      "current_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 18,
+      "ledger_record_sha256": "871a9fa3f8452e8a534630cccd0c239fc5609acd43788a54723e95911b2c7582",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be deceived with others. Uncertain and muddy relations to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy finesse in the public life, my ideas for the public, exchanges in the public life, my uncertainty in the public life, my future in the public, and minute of the weak in the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be deceived with others. Uncertain and muddy relations to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Neptune row.\n\nGerman passage transcribed from the scan:\n\n> Mein Feingefühl im öffentlichen Leben, meine Ahnungen für die Öffentlichkeit, meine Enttäuschungen im öffentlichen Leben, meine Unsicherheit im öffentlichen Leben, meine Zukunft in der Öffentlichkeit, Minute der Schwäche in der Öffentlichkeit\n\nEditorial translation: My sensitivity in public life; my presentiments for the public; my disappointments in public life; my uncertainty in public life; my future in public; a minute of weakness in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Finesse/ideas/exchanges doubtful against native text; keyword synthesis."
+        ],
+        "changes": [
+          "Focused interpretation on uncertainty and shared deception; added specific translation exclusions, six categories and local refs.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page, manifest and native evidence read; actual diff inspected; Neptune orientation, refs and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; uncertainty clause",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete neptune row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "Finesse / ideas / exchanges / minute of the weak remain doubtful against Feingeftihl / Ahnungen / Enttauschungen / Schwache; excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "neptune",
+          "complete_clause_count": 6,
+          "german_passage": "Mein Feingefühl im öffentlichen Leben, meine Ahnungen für die Öffentlichkeit, meine Enttäuschungen im öffentlichen Leben, meine Unsicherheit im öffentlichen Leben, meine Zukunft in der Öffentlichkeit, Minute der Schwäche in der Öffentlichkeit",
+          "editorial_translation": "My sensitivity in public life; my presentiments for the public; my disappointments in public life; my uncertainty in public life; my future in public; a minute of weakness in public.",
+          "before_source_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+          "after_source_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 18,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-neptune.md",
+            "text": "Finesse / ideas / exchanges / minute of the weak remain doubtful against Feingeftihl / Ahnungen / Enttauschungen / Schwache; excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+        "after_source_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+        "before_page_sha256": "20e17aa486fdc441f3aefb3def7f6d81ff5bf2c6b0de985e6d12a7470074b5c9",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be deceived with others. Uncertain and muddy relations to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy finesse in the public life, my ideas for the public, exchanges in the public life, my uncertainty in the public life, my future in the public, and minute of the weak in the public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be deceived with others. Uncertain and muddy relations to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Neptune row.\n\nGerman passage transcribed from the scan:\n\n> Mein Feingefühl im öffentlichen Leben, meine Ahnungen für die Öffentlichkeit, meine Enttäuschungen im öffentlichen Leben, meine Unsicherheit im öffentlichen Leben, meine Zukunft in der Öffentlichkeit, Minute der Schwäche in der Öffentlichkeit\n\nEditorial translation: My sensitivity in public life; my presentiments for the public; my disappointments in public life; my uncertainty in public life; my future in public; a minute of weakness in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "neptune",
+          "complete_clause_count": 6,
+          "german_passage": "Mein Feingefühl im öffentlichen Leben, meine Ahnungen für die Öffentlichkeit, meine Enttäuschungen im öffentlichen Leben, meine Unsicherheit im öffentlichen Leben, meine Zukunft in der Öffentlichkeit, Minute der Schwäche in der Öffentlichkeit",
+          "editorial_translation": "My sensitivity in public life; my presentiments for the public; my disappointments in public life; my uncertainty in public life; my future in public; a minute of weakness in public.",
+          "before_source_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+          "after_source_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete neptune glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Feingefühl, Ahnungen, Enttäuschungen and Schwäche are sensitivity, presentiments, disappointments and weakness.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+      "before_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+      "current_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 20,
+      "ledger_record_sha256": "c5d5cfe6ee59f6a8e9136319e42af90fbd37872a7fc405ff13cbd0ef42945162",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe development of one’s own attitude toward the world in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment in an animated public, I change the public, and I change the public mind",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe development of one’s own attitude toward the world in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Pluto row.\n\nGerman passage transcribed from the scan:\n\n> Entwicklung in einer beseelten Öffentlichkeit, ich verändere die Öffentlichkeit, meine Entwicklung in der Öffentlichkeit, mein Wechsel in die Öffentlichkeit, seelische Entfaltung in der Öffentlichkeit, seelische Wandlungen im öffentlichen Leben\n\nEditorial translation: Development within a soulful public sphere; I change the public sphere; my development in public; my transition into public life; inner unfolding in public; inner transformations in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "I change the public mind is not supported as written by native clauses."
+        ],
+        "changes": [
+          "Distinguished developing personal attitude from outward public change; excluded damaged clause; added schema and bounded contradiction note.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native clauses compared; actual diff inspected; Pluto orientation, locators and anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; ich veranderc die Offentlichkeit and Entwicklung",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete pluto row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC I change the public mind lacks a matching native clause and remains excluded pending source repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "pluto",
+          "complete_clause_count": 6,
+          "german_passage": "Entwicklung in einer beseelten Öffentlichkeit, ich verändere die Öffentlichkeit, meine Entwicklung in der Öffentlichkeit, mein Wechsel in die Öffentlichkeit, seelische Entfaltung in der Öffentlichkeit, seelische Wandlungen im öffentlichen Leben",
+          "editorial_translation": "Development within a soulful public sphere; I change the public sphere; my development in public; my transition into public life; inner unfolding in public; inner transformations in public life.",
+          "before_source_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+          "after_source_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 20,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-pluto.md",
+            "text": "ABC I change the public mind lacks a matching native clause and remains excluded pending source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+        "after_source_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+        "before_page_sha256": "897400eb62c07d4077a6b96660e6b11641d4a938fac29825e685126c09c7fe00",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe development of one’s own attitude toward the world in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment in an animated public, I change the public, and I change the public mind",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe development of one’s own attitude toward the world in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Pluto row.\n\nGerman passage transcribed from the scan:\n\n> Entwicklung in einer beseelten Öffentlichkeit, ich verändere die Öffentlichkeit, meine Entwicklung in der Öffentlichkeit, mein Wechsel in die Öffentlichkeit, seelische Entfaltung in der Öffentlichkeit, seelische Wandlungen im öffentlichen Leben\n\nEditorial translation: Development within a soulful public sphere; I change the public sphere; my development in public; my transition into public life; inner unfolding in public; inner transformations in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "pluto",
+          "complete_clause_count": 6,
+          "german_passage": "Entwicklung in einer beseelten Öffentlichkeit, ich verändere die Öffentlichkeit, meine Entwicklung in der Öffentlichkeit, mein Wechsel in die Öffentlichkeit, seelische Entfaltung in der Öffentlichkeit, seelische Wandlungen im öffentlichen Leben",
+          "editorial_translation": "Development within a soulful public sphere; I change the public sphere; my development in public; my transition into public life; inner unfolding in public; inner transformations in public life.",
+          "before_source_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+          "after_source_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete pluto glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; all six clauses are recovered, including own development, transition into public life and inner unfolding/transformations.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+      "before_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+      "current_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 23,
+      "ledger_record_sha256": "462da4de9b42927a930c121a3db1e0de38d3d51abe29ff2805e9edfb599ba834",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe body in public. The behavior.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlessed person in public life, animated center in public, my husband in public, my person in public, human souls in public, and my life in public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe body in public. The behavior.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Sun row.\n\nGerman passage transcribed from the scan:\n\n> Beseelter Mensch im öffentlichen Leben, beseeltes Zentrum in der Öffentlichkeit, mein Mann in der Öffentlichkeit, meine Person in der Öffentlichkeit, Menschen-Seelen in der Öffentlichkeit, mein Leben in der Öffentlichkeit\n\nEditorial translation: A soulful person in public life; a soulful center in public; my husband in public; my person in public; human souls in public; my life in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Blessed person mistranslates Beseelter Mensch; list synthesis lacked scope."
+        ],
+        "changes": [
+          "Explained embodied public presence and behavior; bounded husband example and excluded blessing; added categories and local citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Beseelter Mensch compared; actual diff, Sun orientation, locators and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed18 PDF8; person and life in public",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete sun row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC blessed person remains doubtful and excluded pending source repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "sun",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelter Mensch im öffentlichen Leben, beseeltes Zentrum in der Öffentlichkeit, mein Mann in der Öffentlichkeit, meine Person in der Öffentlichkeit, Menschen-Seelen in der Öffentlichkeit, mein Leben in der Öffentlichkeit",
+          "editorial_translation": "A soulful person in public life; a soulful center in public; my husband in public; my person in public; human souls in public; my life in public.",
+          "before_source_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+          "after_source_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 23,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-sun.md",
+            "text": "ABC blessed person remains doubtful and excluded pending source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-sun-mc.md",
+            "text": "Vernal Point/MC = Sun excludes a doubtful ABC translation of the personal description. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-sun-mc.md",
+            "text": "Vernal Point/MC = Sun excludes a doubtful ABC translation of the personal description.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+        "after_source_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+        "before_page_sha256": "496425eba4005be51263dcaa6d5393f48f7a4fc3f01f37599bc65c3262bce2b1",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe body in public. The behavior.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlessed person in public life, animated center in public, my husband in public, my person in public, human souls in public, and my life in public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe body in public. The behavior.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Sun row.\n\nGerman passage transcribed from the scan:\n\n> Beseelter Mensch im öffentlichen Leben, beseeltes Zentrum in der Öffentlichkeit, mein Mann in der Öffentlichkeit, meine Person in der Öffentlichkeit, Menschen-Seelen in der Öffentlichkeit, mein Leben in der Öffentlichkeit\n\nEditorial translation: A soulful person in public life; a soulful center in public; my husband in public; my person in public; human souls in public; my life in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "sun",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelter Mensch im öffentlichen Leben, beseeltes Zentrum in der Öffentlichkeit, mein Mann in der Öffentlichkeit, meine Person in der Öffentlichkeit, Menschen-Seelen in der Öffentlichkeit, mein Leben in der Öffentlichkeit",
+          "editorial_translation": "A soulful person in public life; a soulful center in public; my husband in public; my person in public; human souls in public; my life in public.",
+          "before_source_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+          "after_source_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete sun glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelter Mensch means soulful person.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+      "before_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+      "current_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "31bfd2a20ea4095fe10e3ddf492b4ee22549f2eccc03f7e892b1de3839b9000e",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nImmediate rhythm in the public sphere, my forms in the public sphere, life in the public sphere, minute of publication in public sphere, public sphere, and mental impulses in the public sphere",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Uranus row.\n\nGerman passage transcribed from the scan:\n\n> Beseelter Rhythmus in der Öffentlichkeit, meine Reformen im öffentlichen Leben, meine Unruhe im öffentlichen Leben, Minute der Aufregung in der Öffentlichkeit, seelische Erregung in der Öffentlichkeit, seelische Impulse der Öffentlichkeit\n\nEditorial translation: A soulful rhythm in public; my reforms in public life; my unrest in public life; a minute of excitement in public; inner excitement in public; inner impulses of the public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "ABC heavily mistranslated and copied into synthesis."
+        ],
+        "changes": [
+          "Restricted interpretation to Witte's excitement/unconventional public presence; preserved environmental engineer; documented unusable ABC clauses.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Reformen/Unruhe/Aufregung compared; actual diff inspected; Uranus orientation and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; damaged English not extended",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete uranus row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Immediate rhythm / my forms / life / minute of publication / public sphere are damaged against native clauses; excluded pending scan-backed repair."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "uranus",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelter Rhythmus in der Öffentlichkeit, meine Reformen im öffentlichen Leben, meine Unruhe im öffentlichen Leben, Minute der Aufregung in der Öffentlichkeit, seelische Erregung in der Öffentlichkeit, seelische Impulse der Öffentlichkeit",
+          "editorial_translation": "A soulful rhythm in public; my reforms in public life; my unrest in public life; a minute of excitement in public; inner excitement in public; inner impulses of the public.",
+          "before_source_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+          "after_source_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 24,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-uranus.md",
+            "text": "ABC Immediate rhythm / my forms / life / minute of publication / public sphere are damaged against native clauses; excluded pending scan-backed repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-uranus-mc.md",
+            "text": "Vernal Point/MC = Uranus retains ABC translation damage that prevents a complete comparison. Uranus/MC = Vernal Point explicitly reports cached locators and transcriptions without scan verification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-uranus-mc.md",
+            "text": "Vernal Point/MC = Uranus retains ABC translation damage that prevents a complete comparison. Uranus/MC = Vernal Point explicitly reports cached locators and transcriptions without scan verification.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+        "after_source_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+        "before_page_sha256": "8970fd35b5c268d6222da9a78a6f3003d878ebb78d781758aa45e42b5e3185dd",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nImmediate rhythm in the public sphere, my forms in the public sphere, life in the public sphere, minute of publication in public sphere, public sphere, and mental impulses in the public sphere",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo experience something with others. To show oneself eccentric. To be a revolutionary. Excitement in public. To be an environmental engineer.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Uranus row.\n\nGerman passage transcribed from the scan:\n\n> Beseelter Rhythmus in der Öffentlichkeit, meine Reformen im öffentlichen Leben, meine Unruhe im öffentlichen Leben, Minute der Aufregung in der Öffentlichkeit, seelische Erregung in der Öffentlichkeit, seelische Impulse der Öffentlichkeit\n\nEditorial translation: A soulful rhythm in public; my reforms in public life; my unrest in public life; a minute of excitement in public; inner excitement in public; inner impulses of the public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "uranus",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelter Rhythmus in der Öffentlichkeit, meine Reformen im öffentlichen Leben, meine Unruhe im öffentlichen Leben, Minute der Aufregung in der Öffentlichkeit, seelische Erregung in der Öffentlichkeit, seelische Impulse der Öffentlichkeit",
+          "editorial_translation": "A soulful rhythm in public; my reforms in public life; my unrest in public life; a minute of excitement in public; inner excitement in public; inner impulses of the public.",
+          "before_source_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+          "after_source_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete uranus glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelter Rhythmus, Reformen, Unruhe and Aufregung retain soulful rhythm, reforms, unrest and excitement.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+      "before_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+      "current_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "cbd924c409aabdaa1109e9ebf354570977c70df643cfbfa6ef031684f72c409f",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make-up oneself for others. Being liked. Looking attractive to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEnchanted by artist public, my peace with the public, my joy in public life, my fondness for the public, my desires for the public, and soul harrnonia in public life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make-up oneself for others. Being liked. Looking attractive to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Venus row.\n\nGerman passage transcribed from the scan:\n\n> Durch Kunst beseelte Öffentlichkeit, mein Frieden mit der Öffentlichkeit, meine Freude im öffentlichen Leben, meine Vorliebe für die Öffentlichkeit, meine Wünsche für die Öffentlichkeit, Seelen-Harmonie im öffentlichen Leben\n\nEditorial translation: The public sphere made soulful through art; my peace with the public; my joy in public life; my preference for public life; my wishes for the public; harmony of soul in public life.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Unclear Enchanted by artist public repeated as meaning."
+        ],
+        "changes": [
+          "Connected attractive presentation with enjoyment and peace in public life; bounded approval; added schema and source links.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Durch Kunst beseelte Offentlichkeit compared; actual diff, Venus orientation and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed18; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed18 PDF8; peace, joy and fondness",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete venus row, printed18/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Enchanted by artist public remains unclear and excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "venus",
+          "complete_clause_count": 6,
+          "german_passage": "Durch Kunst beseelte Öffentlichkeit, mein Frieden mit der Öffentlichkeit, meine Freude im öffentlichen Leben, meine Vorliebe für die Öffentlichkeit, meine Wünsche für die Öffentlichkeit, Seelen-Harmonie im öffentlichen Leben",
+          "editorial_translation": "The public sphere made soulful through art; my peace with the public; my joy in public life; my preference for public life; my wishes for the public; harmony of soul in public life.",
+          "before_source_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+          "after_source_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 25,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-venus.md",
+            "text": "ABC Enchanted by artist public remains unclear and excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+        "after_source_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+        "before_page_sha256": "e5ca564dfbb4efcf451162a9a9c673764b5c206854c4e62c12e96af559b6f293",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make-up oneself for others. Being liked. Looking attractive to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEnchanted by artist public, my peace with the public, my joy in public life, my fondness for the public, my desires for the public, and soul harrnonia in public life",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo make-up oneself for others. Being liked. Looking attractive to the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `18`, one-based PDF p. `8`, complete Venus row.\n\nGerman passage transcribed from the scan:\n\n> Durch Kunst beseelte Öffentlichkeit, mein Frieden mit der Öffentlichkeit, meine Freude im öffentlichen Leben, meine Vorliebe für die Öffentlichkeit, meine Wünsche für die Öffentlichkeit, Seelen-Harmonie im öffentlichen Leben\n\nEditorial translation: The public sphere made soulful through art; my peace with the public; my joy in public life; my preference for public life; my wishes for the public; harmony of soul in public life.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 18,
+          "pdf_page_one_based": 8,
+          "glyph_row": "venus",
+          "complete_clause_count": 6,
+          "german_passage": "Durch Kunst beseelte Öffentlichkeit, mein Frieden mit der Öffentlichkeit, meine Freude im öffentlichen Leben, meine Vorliebe für die Öffentlichkeit, meine Wünsche für die Öffentlichkeit, Seelen-Harmonie im öffentlichen Leben",
+          "editorial_translation": "The public sphere made soulful through art; my peace with the public; my joy in public life; my preference for public life; my wishes for the public; harmony of soul in public life.",
+          "before_source_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+          "after_source_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete venus glyph row and boundaries, ABC printed18/PDF8 (6 clauses). All German, labeled English and new locator verified; Durch Kunst beseelte Öffentlichkeit means public life made soulful through art.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+      "before_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+      "current_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "03bf84cf7127ce2a8fd73d725809ca92709a57c230f2e8d831b6ead5501dce68",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo stick together (people). Comradeship. To be a leader. The end at which a person aims.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStirred filtration in public, my start in public life, my aim in public, my achievements in public, my public design, and minute of fire in public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo stick together (people). Comradeship. To be a leader. The end at which a person aims.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Zeus row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Führung in der Öffentlichkeit, mein Start ins öffentliche Leben, mein Zielstreben in der Öffentlichkeit, meine Leistungen in der Öffentlichkeit, meine Öffentlichkeits-Gestaltung, Minute des Feuers in der Öffentlichkeit\n\nEditorial translation: Soulful leadership in public; my start in public life; my striving toward goals in public; my achievements in public; my shaping of public life; a minute of fire in public.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Stirred filtration translation damage copied into synthesis."
+        ],
+        "changes": [
+          "Connected personal public aim, comradeship, leadership and achievement; excluded damaged clause; added schema and citations.",
+          "Targeted D095–103 source closure: restored complete scan-verified ABC glyph row with German and labeled English; reconciled dependent interpretation and obsolete damaged-text exclusions."
+        ],
+        "verification": [
+          "Full page and manifest read; native Beseelte Filhrung compared; actual diff, Zeus orientation and adjacent anchor checked.",
+          "Personally viewed actual ABC PDF8 whole own glyph row and neighbours, printed19; complete current page and full original owner record read. No new Witte source certification; saved bounded delta and dependent text checked."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry PDF35 entry_start",
+          "#abc-entry printed19 PDF8; start, aim, achievement",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png: complete zeus row, printed19/PDF8."
+        ],
+        "resolved_source_issues": [
+          "ABC Stirred filtration corresponds to native OCR Beseelte Filhrung and requires source repair; excluded."
+        ],
+        "source_closure_D095103": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Führung in der Öffentlichkeit, mein Start ins öffentliche Leben, mein Zielstreben in der Öffentlichkeit, meine Leistungen in der Öffentlichkeit, meine Öffentlichkeits-Gestaltung, Minute des Feuers in der Öffentlichkeit",
+          "editorial_translation": "Soulful leadership in public; my start in public life; my striving toward goals in public; my achievements in public; my shaping of public life; a minute of fire in public.",
+          "before_source_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+          "after_source_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        }
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "ledger_line": 27,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "source_repaired",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/vernal-point-mc-equals-zeus.md",
+            "text": "ABC Stirred filtration corresponds to native OCR Beseelte Filhrung and requires source repair; excluded.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-zeus.md",
+            "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-zeus.md",
+            "text": "MC/Zeus = Vernal Point has extensively repeated, heavily damaged ABC English; Vernal Point/MC = Zeus excludes a damaged leadership phrase. Present headings do not certify complete English excerpts.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "before_source_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+        "after_source_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+        "before_page_sha256": "243f575f73eafb7709284cc6499d8b319e90820b5e80d2d265d39ef4bd7f1a60",
+        "before_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo stick together (people). Comradeship. To be a leader. The end at which a person aims.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStirred filtration in public, my start in public life, my aim in public, my achievements in public, my public design, and minute of fire in public",
+        "after_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo stick together (people). Comradeship. To be a leader. The end at which a person aims.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. `19`, one-based PDF p. `8`, complete Zeus row.\n\nGerman passage transcribed from the scan:\n\n> Beseelte Führung in der Öffentlichkeit, mein Start ins öffentliche Leben, mein Zielstreben in der Öffentlichkeit, meine Leistungen in der Öffentlichkeit, meine Öffentlichkeits-Gestaltung, Minute des Feuers in der Öffentlichkeit\n\nEditorial translation: Soulful leadership in public; my start in public life; my striving toward goals in public; my achievements in public; my shaping of public life; a minute of fire in public.",
+        "source_closure": {
+          "reviewer": "/root/activation_review_079_083",
+          "scope": "Targeted D095–103 complete ABC row and dependent prose repair; no new page review count; unchanged Witte prose not newly source-certified.",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "printed_page": 19,
+          "pdf_page_one_based": 8,
+          "glyph_row": "zeus",
+          "complete_clause_count": 6,
+          "german_passage": "Beseelte Führung in der Öffentlichkeit, mein Start ins öffentliche Leben, mein Zielstreben in der Öffentlichkeit, meine Leistungen in der Öffentlichkeit, meine Öffentlichkeits-Gestaltung, Minute des Feuers in der Öffentlichkeit",
+          "editorial_translation": "Soulful leadership in public; my start in public life; my striving toward goals in public; my achievements in public; my shaping of public life; a minute of fire in public.",
+          "before_source_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+          "after_source_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+          ],
+          "new_review_count": 0
+        },
+        "unresolved": [],
+        "independent_review": "pending /root/source_check_saturn"
+      },
+      "independent_raw_check": {
+        "classification": "repaired",
+        "scope": "Personally inspected the complete zeus glyph row and boundaries, ABC printed19/PDF8 (6 clauses). All German, labeled English and new locator verified; Beseelte Führung means soulful leadership.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png"
+        ],
+        "limits": [
+          "Unchanged Witte block is outside this bounded source certification."
+        ]
+      }
+    }
+  ]
+}

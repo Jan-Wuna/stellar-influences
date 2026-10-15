@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Zeus](../triads/vernal-point-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 General procreation. Swarming. To join together for production.
 
@@ -42,13 +46,27 @@ General procreation. Swarming. To join together for production.
 
 #### ABC Entry
 
-Relations with the public leadership, creative links in the public life, public communication, creative links in the public, connection with fire in the public life, and connection to leading in the public
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Relations with public leadership, creative connections in public life, shaping public mediation, creative public connections, connection with fire in public life, and connection to public leaders
+
+## Comparative Schema
+
+- core meaning: Public connections organized toward creation, production, or leadership.
+- psychology: No distinct psychological claim is supplied.
+- body/health: Procreation is named without clinical detail.
+- social/relationship: Joining for production and connections with leaders.
+- events/manifestations: Creative mediation, swarming, and links with fire.
+- conflicts/notes: Procreation, production, and fire are distinct source manifestations.
+
+## Contradictions
+
+No direct contradiction is established. Biological procreation and organized public production are separate scales of creation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Zeus`: general procreation, swarming, and to join together for production.
-- Practical expression: relations with the public leadership, creative links in the public life, public communication, creative links in the public, and connection with fire in the public life.
+In `Vernal Point/Node = Zeus`, public connections become productive or directed. The [Witte entry](#witte-entry) names procreation, swarming, and joining for production. The restored [ABC entry](#abc-entry) adds creative connections, shaped mediation, and relations with leadership, while retaining fire as a concrete example. The common emphasis is association that brings something into being or organizes it toward an aim.
 
 ## Links
 

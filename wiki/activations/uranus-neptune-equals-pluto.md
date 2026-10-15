@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Pluto`
 - Astronomicon formula: `X/Y = Z`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Pluto entry.
+
 #### Witte Entry
 
 Development of occult matters or of occult forces.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 371 (PDF p. 184), `Uranus + Neptun`, Pluto entry.
+
 #### ABC Entry
 
-he transformation, technical developments with water, technical fine tuning, alteration by sudden weakness, and changes through metaphysical experiences
+Developments in air technology, development of sudden premonitions, transforming creeping unrest, technical developments involving water, developing technical sensitivity, change through sudden weakness, and transformations through metaphysical experiences.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. 266 (PDF p. 268), code `0946`.
+
 #### Ebertin Entry
 
-A person who is influenced or easily impressed by others. Inclination to remain at the mercy of external conditions and circumstances without trying to make a firm stand. Abandonment of resistance, necessity to give in, great losses, calamities, catastrophes. 59 In cases of Mercury = Uranus/Neptune it is wise only to speak of "unusual problems" and not to specify them.
+A person who is influenced or easily impressed by others. Inclination to remain at the mercy of external conditions and circumstances without trying to make a firm stand. Abandonment of resistance, necessity to give in, great losses, calamities, catastrophes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Neptune midpoint`, Pluto entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Inspirations for ideas which can change the world with which you associate; the 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intensification of hidden experience and change under external pressure. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Impressionability, surrender of resistance, and a drive toward inner vision. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Strong influence from others and collective disagreement or rebellion. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Development of occult matters, technical changes, losses, and destructive events in the sources. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Spiritual liberation, yielding to circumstances and destructive collective events remain different emphases; Ebertin's note59 belongs to Mercury. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Occult development and liberation of inner vision coexist with yielding to external circumstances and destructive collective events. The entries establish neither supernatural entities nor an inevitable catastrophe. Ebertin's note59 belongs to Mercury and has been placed with that activation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Pluto`: epochal change, extreme inspiration, and the ability to force transformation through unseen or visionary currents. Main caution: fanatic or chaotic extremity: vision and power can merge into destabilizing obsession or destructive collective fervor.
+Pluto specifies Uranus/Neptune through intense development of inward or hidden experience and exposure to forces beyond personal control. The entries include occult inquiry, strong effects from mass consciousness, and an abandonment of resistance to circumstances. They also retain destructive collective events and transformative ideas; these are a broad range of manifestations, not proof of supernatural entities or a prediction of catastrophe. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

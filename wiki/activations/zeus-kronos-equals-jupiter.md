@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Jupiter Zeus Kronos](../triads/jupiter-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Acting out of power, to enforce implicitly. Brightly blazing conflagration. Sharpshooters. War machines. Armored ships, tanks.
+- PDF page: 289 (one-based).
+
+Great successful accomplishments. Big financial institutions. Good luck in warfare.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Start of groller joy, special leadership successes, particularly good achievements, successful leadership authorship, successful governance, financial efforts of the state, joy of self organization, and achievements of the legal state
+- Source page: 450; PDF page: 224 (one-based spread).
+
+Beginning great joy, special leadership successes, particularly good achievements, successful leadership authority, successful state leadership, financial efforts of the state, joy in independent shaping, and achievements of the constitutional state.
+
+## Comparative Schema
+
+- core meaning: Major achievement and successful institutional leadership.
+- psychology: Great joy and satisfaction in independent creation.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Financial institutions, state leadership and constitutional institutions.
+- events/manifestations: Financial state efforts and successful accomplishments; Witte also names luck in warfare.
+- conflicts/notes: The prior Witte entry was the Mars row; the scan supplies Jupiter’s accomplishment row.
+
+## Contradictions
+
+Both support major success. Witte adds financial institutions and warfare, while ABC adds joyful independent creation and the constitutional state.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Jupiter`: Acting out of power, to enforce implicitly. Brightly blazing conflagration. Sharpshooters. War machines. Armored ships, tanks.
-- Practical expression: special leadership successes, particularly good achievements, successful leadership authorship, and successful governance.
+`Zeus/Kronos = Jupiter` connects exceptional effort with successful accomplishment. Witte gives large achievements and financial institutions; ABC develops leadership success, state financial efforts and achievements of the constitutional state, accompanied by great joy. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Joy in independent shaping is a personal expression alongside that institutional field. Witte’s luck in warfare remains a separate historical example rather than a general promise of victory or financial success. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

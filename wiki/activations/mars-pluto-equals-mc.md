@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto MC](../triads/mars-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Organizer. Maker of plans. Attending to several jobs at the same time, to do them alternately.
 
@@ -45,11 +49,15 @@ Organizer. Maker of plans. Attending to several jobs at the same time, to do the
 
 #### ABC Entry
 
-Development Arbcit at the inner being, I want change, I create change, my arhcit change, my development work, my transformation activity, my growing activities, psychic will development, and psychic growth through work
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+Development work on the inner self, I want changes, I create change, changing my work, my development work, my transformation activity, my growing activities, psychological development of will, and inner growth through work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 215, entry 0745.
 
 Unusual capabilities of advancement in life, self-confidence, ambition. The misfortune to face overwhelming force without power, danger through the intervention of higher power, operation.
 
@@ -57,7 +65,9 @@ Unusual capabilities of advancement in life, self-confidence, ambition. The misf
 
 #### Sandbach Entry
 
-To be aggressive and challenging toward authority figures. The need to allow Spirit to dictate one's actions, even if what one needs to do is difficult or danger ous to perform. Advancement in one's career through exceptionally hard work.
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
+
+To be aggressive and challenging toward authority figures. The need to allow Spirit to dictate one's actions, even if what one needs to do is difficult or dangerous to perform. Advancement in one's career through exceptionally hard work.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Learning how to gain control of and use powerful or extreme measures for increas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal development and advancement through organized, intense work.
+- psychology: Ambition, self-confidence, inner change, and a wish for recognition or influence.
+- body/health: Ebertin lists an operation without further specification.
+- social/relationship: Challenging authority, confronting overwhelming force, and pursuing standing through powerful measures.
+- events/manifestations: Organizing several jobs, changing work, inner growth, and advancement through hard effort.
+- conflicts/notes: Advancement and powerlessness before superior force are both in Ebertin; ambition alone does not determine which occurs.
 
 ## Contradictions
 
-- None recorded yet.
+The entries include both gaining standing and facing force beyond one's control. ABC's inner development and Witte's practical organization broaden the account beyond confrontation with authority.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = MC`: exceptional hard work, command presence, and public aims pursued with unusual intensity and endurance. Main caution: confrontation with overwhelming force: ambition can harden into power struggle, drastic measures, or exposure to dangerous pressure from above.
+In `Mars/Pluto = MC`, MC specifies developing action and plans through one's own growth, ambition, and standing. Witte gives practical organization across several jobs, ABC describes inner change through work, and Sandbach names advancement through exceptional effort alongside challenging authority. Munkasey adds recognition through powerful measures; Ebertin retains both unusual capacity for advancement and powerlessness before overwhelming force. These alternatives qualify any simple promise that intense ambition brings control. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 215, entry 0745; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

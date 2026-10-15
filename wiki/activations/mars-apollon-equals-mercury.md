@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mercury Mars Apollon](../triads/mercury-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Scientific disputes and debates. Stock-taking. To give an accounting. Recorded s
 
 Work successes of the media, extensive language work, successful youth work, successful media activity, successful thinking and acting, talk about trade activity, extensive youth activity, and transport work of science
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 201 (entry start); [ABC Entry](#abc-entry), printed p. 316 (entry).
+
+- Core meaning: Work in science or commerce takes a communicative, documentary, or analytical form.
+- Psychology: ABC names successful thinking and action.
+- Body/health: These entries concern information and work rather than a bodily condition.
+- Social/relationship: Debates, media work, youth work, and discussions of trade involve exchange with others.
+- Events/manifestations: Stock-taking, accounting, recorded evidence, commercial news, and language work are explicit.
+- Conflicts/notes: Scientific disputes are one expression of intellectual exchange; the entry does not make all reporting contentious.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Mercury`: scientific debate, accounting, statements, evidence, and news about business or commercial dealings.
-- Chart expression: active analysis, reporting, record-keeping, and intellectual exchange around large operations or markets.
+Mercury specifies the Mars/Apollon axis through thought, speech, and records used in active scientific or commercial work. Accounting, evidence, and business news in [Witte Entry](#witte-entry) join media, conversation, and youth work in [ABC Entry](#abc-entry). The common thread is making the work communicable and accountable; scientific debate is one possible form, not the whole meaning.
 
 ## Links
 

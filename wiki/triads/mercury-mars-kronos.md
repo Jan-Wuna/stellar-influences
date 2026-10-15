@@ -20,35 +20,49 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mercury Mars Kronos`
 - Astronomicon triad-set: `T U ¤`
+- This page is structural only. It does not merge the meanings of its orientations.
+- [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md)
-- [Mercury/Kronos = Mars](../activations/mercury-kronos-equals-mars.md)
-- [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md) | [Mars/Kronos](../axes/mars-kronos.md) | [Mercury](../factors/mercury.md) |
+| [Mercury/Kronos = Mars](../activations/mercury-kronos-equals-mars.md) | [Mercury/Kronos](../axes/mercury-kronos.md) | [Mars](../factors/mars.md) |
+| [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md) | [Mercury/Mars](../axes/mercury-mars.md) | [Kronos](../factors/kronos.md) |
+
+All three possible orientations are represented by linked activation pages. The source coverage below applies separately to each formula.
 
 ## Source Coverage
 
-- `Mars/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `314`
-- `Mercury/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
-- `Mercury/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `260`
-- `Mercury/Mars = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `160`
-- `Mercury/Mars = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `243`
+These rows describe the source subentries on the linked activation pages, not the scope of a source catalog. Locators are retained references, not new visual scan checks; chapter starts do not establish an exact formula page.
+
+| Orientation | Source subentry | Retained source locator |
+| --- | --- | --- |
+| [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mars-kronos-equals-mercury.md#witte-entry) | PDF p. `200` (one-based; entry start); printed page not recorded. |
+| [Mars/Kronos = Mercury](../activations/mars-kronos-equals-mercury.md) | [Udo Rudolph](../activations/mars-kronos-equals-mercury.md#abc-entry) | printed p. `314`; PDF p. `156` (one-based). |
+| [Mercury/Kronos = Mars](../activations/mercury-kronos-equals-mars.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-kronos-equals-mars.md#witte-entry) | PDF p. `169` (one-based; entry start); printed page not recorded. |
+| [Mercury/Kronos = Mars](../activations/mercury-kronos-equals-mars.md) | [Udo Rudolph](../activations/mercury-kronos-equals-mars.md#abc-entry) | printed p. `260`; PDF p. `129` (one-based). |
+| [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt](../activations/mercury-mars-equals-kronos.md#witte-entry) | PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number). |
+| [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md) | [Udo Rudolph](../activations/mercury-mars-equals-kronos.md#abc-entry) | printed p. 243, PDF p. 120, entry (supplied German OCR record; not visually verified). |
+
+Every listed source has a retained subentry for all 3/3 linked orientations.
+
+## Contradictions Across Orientations
+
+This structural hub does not adjudicate disagreements within an activation. Different base axes and activators identify distinct formulas; differences among these orientations are not, by themselves, contradictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Mercury`: gives thought and communication an executive, directive, or officially informative character.
-- `Mercury/Kronos = Mars`: activates the axis into public engagement, agreement, and honorable action.
-- `Mercury/Mars = Kronos`: elevates the axis into authoritative controversy and carefully weighted words.
+For `Mercury Mars Kronos`, `Mars/Kronos = Mercury`, `Mercury/Kronos = Mars` and `Mercury/Mars = Kronos` remain separate readings. Choose the formula by its base axis and activator in the Orientation Map, then read that activation’s source entries and synthesis. Use the axis links for pair context; this hub supplies sibling navigation rather than a combined delineation.
 
 ## Links
 

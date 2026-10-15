@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Poseidon = MC`
 - Astronomicon formula: `VP/¨ = MC`
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 55 (one-based).
+
 Personally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public
+- Source page: 58; PDF page: 28 (one-based spread).
+
+Inwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life
+
+## Comparative Schema
+
+- core meaning: Personal involvement in public ideas, knowledge, culture, and truth.
+- psychology: Influence by current ideas, reason, and one's own insights.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: The individual participates in public intellectual and cultural life.
+- events/manifestations: General knowledge and the appearance of spiritual refinement.
+- conflicts/notes: Witte's flood example remains separate; damaged ABC culture/reason/truth clauses are restored from the scan.
+
+## Contradictions
+
+The intellectual themes overlap after the ABC repair. Witte's flood phrase remains a separate unexplained example, without a stated relation to knowledge or culture.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = MC`: personally influenced by the ideas of the current time, to appear spiritualized, the own general knowledge, and the moment of floods.
-- Practical expression: bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, and my Reason in ckr public.
+In `Vernal Point/Poseidon = MC`, public intellectual life is approached through one's own ideas, insight, and reason. The [Witte entry](#witte-entry) names influence by contemporary ideas, general knowledge, and an appearance of spiritual refinement. The restored [ABC entry](#abc-entry) adds personal clarity, truth, and inwardly animated culture. The synthesis connects personal understanding with public culture while leaving Witte's separate flood phrase unexplained.
 
 ## Links
 

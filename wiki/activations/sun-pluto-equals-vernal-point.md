@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Vernal Point`
 - Astronomicon formula: `S/Z = VP`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 The nutrition and mode of life in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source passage: `Sonne + Pluto`; printed p. `156`; one-based PDF page `77` (oriented row checked against the scan).
+
 developmental center in public life, change of the year in public, human transformations in public life, changes of persons in public, and personal changes in public life
+
+## Comparative Schema
+
+- core meaning: Development and changes of life appear in a general or public setting.
+- psychology: No specific psychological trait is supplied.
+- body/health: Nutrition is named without a medical condition.
+- social/relationship: Public human or personnel changes give the collective scope.
+- events/manifestations: Public development centers, the turn of the year and personal changes in public life are examples.
+- conflicts/notes: Public scope does not establish fame, crisis or one specific transformative event.
+
+## Contradictions
+
+No direct contradiction is established. General nutrition and mode of life coexist with public development and changes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Pluto = Vernal Point`: changed surroundings and transformation through circumstance.
-- Practical expression: developmental center in public life, change of the year in public, human transformations in public life, changes of persons in public, and personal changes in public life.
+In `Sun/Pluto = Vernal Point`, development is placed in general and public life: public development centers, changing people and personal changes share a collective setting. Nutrition and mode of life give that setting an ordinary practical foundation, while the public turn of the year is a specific change example. The orientation describes public or general life conditions without requiring a dramatic crisis. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

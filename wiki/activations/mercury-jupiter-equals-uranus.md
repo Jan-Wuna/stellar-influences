@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Uranus`
 - Astronomicon formula: `T/V = X`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Quick at repartee. Agitators. Sudden financial information. Extensive conversations about technology. The sudden judgment.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `245`; PDF page: `121`.
+
 #### ABC Entry
 
-Excited speech about money, joy in rhythmic movement, joyful tension in tongues, words about renewal of rights, good technical reports, new traffic law, reform of youth law, and language success through technology
+German passage (transcribed from PDF page `121`, printed page `245`):
+
+> Erregte Gespräche über Geld, Freude an rhythmischer Bewegung, freudige Spannung in Gesprächen, Gespräche über Erneuerung des Rechtes, gute technische Berichte, neues Verkehrs-Recht, Reform des Jugend-Rechts, Sprach-Erfolge durch Technik
+
+Editorial translation from the German passage: Excited conversations about money; pleasure in rhythmic movement; joyful tension in conversations; discussions about renewal of the law; good technical reports; new traffic law; reform of youth law; language successes through technology.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Breakthroughs in communication or scientific theory; sudden development of radic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden, distinctive combinations of ideas and technical communication ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Interest in unusual ideas and a distinctive philosophy are explicit.
+- body/health: ABC mentions rhythmic movement without a diagnosis.
+- social/relationship: Quick repartee and agitation are Witte's social examples.
+- events/manifestations: Sudden financial news, data-transmission breakthroughs, computing, science, and legal reform are listed.
+- conflicts/notes: Novelty and speed are supported; practical failure or unstable certainty is not asserted.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize suddenness and originality in different settings. Witte's agitation and Sandbach's unpredictable outpouring of ideas do not make every technical breakthrough disruptive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Uranus`: brilliant synthesis, progressive teaching, and the ability to expand understanding through unexpected angles or technical ingenuity. Main caution: unstable certainty: inspiration can become erratic, overexcited, or too quick to outrun practical grounding.
+In `Mercury/Jupiter = Uranus`, Uranus specifies expansive understanding through unexpected combinations and sudden expression. Quick repartee and a distinctive philosophy belong beside bursts of ideas, sudden financial news, and discussion of technology. Munkasey's communication breakthroughs and new data-transmission capacity give the technical strand a precise form; ABC adds legal reform and technical reports ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

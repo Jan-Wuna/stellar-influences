@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Uranus Zeus](../triads/sun-uranus-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ High blood pressure. Enforcing one’s own will in agitation. Rampage of rage.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `153`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
-Dynamic objective of a person, creative impulses of a man, personal technical goal striving, personal refonn stress, sudden fire a day, rhythmic body design, and technical performance center
+Dynamic goal-setting by a person, creative impulses of a man, a new leader, personal technical striving toward a goal, personal striving for reform, sudden fire during the day, rhythmic shaping of the body, and a technical performance center.
+
+## Comparative Schema
+
+- core meaning: Sudden excitation is directed toward goals, creative impulses or an agitated exercise of will.
+- psychology: Enforcing one's will in agitation and rage are Witte examples; ABC adds goal-setting.
+- body/health: High blood pressure is Witte's attributed historical claim, without a diagnostic basis supplied here.
+- social/relationship: A new leader and forceful assertion are named; violence is not a universal character judgment.
+- events/manifestations: Technical goals, reform efforts, sudden fire and rhythmic body-shaping are ABC examples.
+- conflicts/notes: Creative and technical striving should remain distinct from Witte's adverse rage example.
+
+## Contradictions
+
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Uranus = Zeus`: sudden creative force and abrupt active expression.
-- Practical expression: dynamic objective of a person, creative impulses of a man, personal technical goal striving, personal refonn stress, and sudden fire a day.
+In `Sun/Uranus = Zeus`, Zeus gives sudden excitation a directed form in goal-setting, creative impulses and technical or reform efforts ([ABC](#abc-entry), printed p. 153). [Witte](#witte-entry) (printed p. 112) supplies the more agitated expression of enforcing one's will or raging. These different examples connect purposeful activity with a possible excess of agitation without making creativity itself violent. The named blood-pressure and fire examples remain attributed possibilities, not a diagnosis or an inevitable event.
 
 ## Links
 

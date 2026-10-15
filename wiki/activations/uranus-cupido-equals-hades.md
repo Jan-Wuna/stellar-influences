@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Uranus/Cupido = Hades`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/¡ = ¢`
 - Axis page: [Uranus/Cupido](../axes/uranus-cupido.md)
 - Triad hub: [Uranus Cupido Hades](../triads/uranus-cupido-hades.md)
@@ -34,21 +35,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 236.
+
 #### Witte Entry
 
 Sudden changes in a marriage caused by sickness or poverty. An association which suffers from lack or through sickness or poverty of the members.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 375; PDF p. 186.
+
 #### ABC Entry
 
-Agitated community in need, mysterious tensions in of a community, artificial impulses from the past, inadequate technical synthesis, sudden danger to of a community, Surprising common deprivations, and hidden common distress
+An agitated community in need, mysterious tensions in a community, artistic impulses from the past, inadequate technical synthesis, sudden danger to a community, surprising shared privations, hidden shared distress.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 236) and [ABC](#abc-entry) (printed p. 375; PDF p. 186).
+
+- core meaning: A marriage or association is unsettled by need, lack, sickness or hidden distress.
+- psychology: Agitation and obscure communal tension are named; no individual disorder is established.
+- body/health: Witte attributes some changes to members' sickness, without specifying a disease or diagnosis.
+- social/relationship: Members' poverty or need can affect the association as a whole.
+- events/manifestations: Sudden danger, shared privations and inadequate technical synthesis coexist with artistic impulses from the past.
+- conflicts/notes: Past artistic material is a separate constructive theme; it does not explain or cause the hardship.
+
+## Contradictions
+
+The entries share a concern with hardship but do not identify the cause of every communal tension. Artistic impulses from the past and inadequate technical synthesis remain distinct examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Cupido = Hades`: Sudden changes in a marriage caused by sickness or poverty. An association which suffers from lack or through sickness or poverty of the members.
-- Practical expression: agitated community in need, mysterious tensions in a community, artificial impulses from the past, inadequate technical synthesis, and sudden danger to a community.
+Hades specifies Uranus/Cupido as shared life unsettled by members' needs: sickness, poverty or lack may change a marriage or weaken an association. [ABC](#abc-entry) extends this to hidden distress, surprising privations and uncertain communal tensions. Those claims describe pressure on the group, without diagnosing an individual or making danger inevitable. Its artistic impulses from the past and inadequate technical synthesis remain separate examples alongside the hardship emphasized by [Witte](#witte-entry).
 
 ## Links
 

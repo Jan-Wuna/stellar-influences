@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Moon`
 - Astronomicon formula: `X/Y = R`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Moon entry.
+
 #### Witte Entry
 
 Female mediums. Persons who do not exactly know what they are doing. Dead females. Deaths in the people. Bewildered or mislead people. To have an inspiration.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Moon entry.
+
 #### ABC Entry
 
-Agitated people by the water, arousal of a sensitive woman, subtle feelings impulses, metaphysical experience of a woman, sudden ideas of a woman, surprising exchange by a woman, and refined felt impulses
+Agitated people by the water, excitement of a sensitive woman, subtle-material emotional impulses, a woman's metaphysical experience, a woman's sudden premonitions, surprising disappointment through a woman, and refined feeling impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0940`.
 
 #### Ebertin Entry
 
 A person who is highly impressionable and sensitive, a very receptive soul. Open to mystical or spiritual influences, tendency to delve into the mysteries of the inner or higher worlds with particular reference to those who have passed on into these realms, a fit of weakness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Moon entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Heightens your sensitivity for the need to spend time within yourself to get ins
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Subtle feeling and strong emotional receptivity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Impressionability, inspiration, hesitation, and sensitivity to disagreement. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's fit of weakness remains an attributed association, not a diagnosis. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Feeling others' emotions and a need for time within oneself. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Inspiration and inconsistent results under confused working conditions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Receptivity and confusion are different possibilities; the gender, mediumship and death examples remain attributed historical associations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Emotional richness and inspiration coexist with impressionability, confusion and weakness. Witte's gender, mediumship and death examples remain historical source associations, without establishing a universal gender role or medical or paranormal ability.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Moon`: psychic receptivity, emotional imagination, and the ability to feel change before it becomes visible. Main caution: overwhelm: emotional and bodily rhythms can become erratic, confused, or too open to chaotic influence.
+Moon specifies Uranus/Neptune through emotional receptivity to other people and wider human feeling. Richness and subtlety of feeling can accompany inspiration, but impressionability and confusion may also bring hesitation or difficulty working amid disagreement. The older entries' women, mediums, and deceased-person examples remain historically attributed; they do not establish a universal gender role or a paranormal ability. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

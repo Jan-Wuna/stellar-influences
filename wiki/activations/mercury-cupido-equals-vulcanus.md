@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Cupido](../axes/mercury-cupido.md)
 - Triad hub: [Mercury Cupido Vulcanus](../triads/mercury-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Cupido`
+- Source locator: PDF p. `166` (complete oriented entry; scan checked; no printed page number visible).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Excited conversation (dispute) in a greater community. Emphatic words or decrees
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Cupido`
+- Source locator: printed p. `255`, PDF p. `126` (entry).
+- Text basis: raw PDF p. `126` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Energy Community reports, news on violence in the Community, influential media community, youth violence in the Community, power of common thought, the power of artistic language, and language violence in the Community
+Reports from an energy community, news about violence within the community, an influential media community, youth violence within the community, the strength of shared thoughts, the power of artistic language, and the force of speech within the community.
+
+## Comparative Schema
+
+- core meaning: Communal speech becomes emphatic, influential, or disputed.
+- psychology: Excitement and the force of common thoughts are named without a general personality judgment.
+- body/health: Reports of violence are subject matter; no bodily diagnosis or individual violent disposition is stated.
+- social/relationship: Influential associations, large communities, and media groups are the settings.
+- events/manifestations: Group disputes, emphatic decrees, energy-community reports, and news of violence are recorded.
+- conflicts/notes: ABC places the force of speech alongside explicit examples of violence; these do not identify an individual as violent.
+
+## Contradictions
+
+The entries supply different examples within this orientation; no direct contradiction is established, and repeated themes are not proof of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Vulcanus` strengthens the axis into forceful communal speech and heated group discussion.
-- Chart expression: emphatic words, disputes in larger communities, and influential associations using strong or authoritative expression to shape collective feeling and response.
+In `Mercury/Cupido = Vulcanus`, Vulcanus specifies Mercury/Cupido through the force of communal communication. [Witte](#witte-entry) names heated discussion in a larger group and emphatic words or decrees from an influential association; [ABC](#abc-entry) adds powerful common thought, artistic language, media influence, and reports of violence. These describe strength and its possible subjects without showing that every group exchange becomes a dispute.
 
 ## Links
 

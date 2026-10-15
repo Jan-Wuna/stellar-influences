@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `MC/Hades = Poseidon`
 - Astronomicon formula: `MC/¢ = ¨`
 - Axis page: [MC/Hades](../axes/mc-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: “Meridian + Hades,” PDF p. 71.
+
 To possess secret knowledge. The negative influence indicates mental defects. The native appears to be an odd person in the mental respect.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Mystery of mind soul, mind soul of the past, lack of psychic clarity, my findings on criminality, my true past, my hidden truth, soul souls from the past, and psychic clarity ib about the past
+Source: “Meridian + Hades,” printed p. 87 (PDF p. 42).
+
+Mystery of the mind-soul, the mind-soul of the past, lack of inner clarity, my insights about criminality, my true past, my hidden truth, inner or soul grief from the past, and inner clarity about the past.
+
+## Comparative Schema
+
+- **Core meaning:** Secret knowledge and difficulty or uncertainty in mental clarity.
+- **Psychology:** Hidden truth, grief from the past, and clarity or its lack in ABC.
+- **Body/health:** Witte's 'mental defects' is historical terminology, not a diagnosis.
+- **Social/relationship:** Appearing intellectually unusual in Witte's account.
+- **Events/manifestations:** Possessing secret knowledge or investigating criminality.
+- **Conflicts/notes:** ABC retains both lack of clarity and clarity about the past; Witte's negative mental terminology stays attributed.
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 71; [ABC Entry](#abc-entry), printed p. 87, PDF p. 42.
+
+## Contradictions
+
+Secret knowledge and Witte's explicitly negative alternative are distinct expressions. ABC adds hidden truth and clarity about the past alongside lack of clarity and past grief.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Poseidon` spiritualizes the axis into secret knowledge and odd or damaged mentality.
-- Chart expression: possession of hidden knowledge, but also to a burdened mental field in which the person may appear strange, defective, or unusually marked by dark insight.
+Poseidon specifies `MC/Hades` through secret knowledge and the understanding of personal grief or the past. Witte distinguishes hidden knowledge from an explicitly negative alternative expressed in historical mental terminology. ABC adds concealed truth, insights about criminality, past grief, and inner clarity about the past as well as its lack. Their overlap is hidden or difficult knowledge, with clarity and insight retained alongside difficulty and without a clinical judgment. ([Witte](#witte-entry), PDF p. 71; [ABC](#abc-entry), printed p. 87 / PDF p. 42)
 
 ## Links
 

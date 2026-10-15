@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Chiron = Jupiter`
 - Astronomicon formula: `Q/Chiron = V`
 - Axis page: [Venus/Chiron](../axes/venus-chiron.md)
@@ -35,12 +37,29 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 59 (exact entry passage checked in the raw PDF text).
+
 An enthusiasm and expansiveness that is generous and loving toward all and which promotes an awareness of the deepest and most meaningful values inherent in everything.
+
+## Comparative Schema
+
+- Core meaning: Generous enthusiasm reveals deeper value.
+- Psychology: Expansiveness and meaningful appreciation.
+- Body/health: No specific health claim.
+- Social/relationship: Loving generosity toward others.
+- Events/manifestations: Promoting awareness of value; no specific external event.
+- Conflicts/notes: The entry's generosity is a possibility, not a universal character guarantee.
+
+These categories follow the [Sandbach entry](#sandbach-entry).
+
+## Contradictions
+
+The entry's generosity is a possibility, not a universal character guarantee. No second source is represented for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Chiron = Jupiter`: an enthusiasm and expansiveness that is generous and loving toward all and which promotes an awareness of the deepest and most meaningful values inherent in everything.
+Jupiter specifies Venus/Chiron through an expansive enthusiasm that becomes loving generosity. What makes that expansiveness distinctive is its attention to deep value: it encourages appreciation of meaning in what is encountered. This single entry supports that constructive capacity without supplying a separate adverse expression. ([Sandbach](#sandbach-entry).)
 
 ## Links
 

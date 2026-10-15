@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Venus = Hades`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = ¢`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Hades](../triads/sun-venus-hades.md)
@@ -42,13 +43,31 @@ Connections to poor girls, also servant girls. Preference for street girls.
 
 #### ABC Entry
 
-A man's peace service, dangerous love for a man, criminal corporal love, disadvantages for a peace center, hidden affection of a man, past shame of a man, and goodwill for a man from the past
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, hades row (seven clauses). Translation from the German scan:
+
+A man's service for peace; dangerous love for a man; criminal physical love; disadvantages for a center of peace; a person's hidden affections; a person's past beauty; goodwill toward a person from the past.
+
+The criminal physical-love phrase does not specify an act or justify a general character judgment.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Affection is linked with danger, concealment, and social marginality.
+- psychology: Hidden affection is explicit; a general emotional pathology is not.
+- body/health: No health claim is supplied.
+- social/relationship: Witte's classed and gendered examples concern poor, servant, and street girls.
+- events/manifestations: ABC names dangerous love and goodwill toward someone from the past.
+- conflicts/notes: The sources' moral and social labels remain attributed historical claims.
+
+## Contradictions
+
+No direct contradiction is established. ABC's past beauty is distinct from shame; its criminal physical love is an attributed label without a specified act and is not generalized to affection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Venus = Hades`: painful affection and difficulty in love or comfort.
-- Practical expression: a man's peace service, dangerous love for a man, criminal corporal love, disadvantages for a peace center, and hidden affection of a man.
+Hades specifies Sun/Venus through affection entangled with concealment, danger, or social disadvantage. Witte expresses this in classed and gendered examples of partners; ABC also allows goodwill toward a person from the past, so the entry is broader than a single story of painful love. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

@@ -18,7 +18,7 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 - Astronomicon formula: `V/MC = V`
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +43,23 @@ Successes derived from situations with travel, foreign influences, or religious 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Travel, unfamiliar ideas and religious exposure contribute to success and learning.
+- psychology: Readiness to learn from different philosophies and experiences.
+- body/health: No bodily or medical claim is made.
+- social/relationship: Publicity or support from people who value one's role in life.
+- events/manifestations: Success associated with travel, foreign influences or religious experience.
+- conflicts/notes: One Munkasey paragraph supports this repeated-factor orientation; it provides no independent cross-source comparison.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is present, so no cross-source contradiction can be assessed.
+
+Source locators in the review cache: Munkasey printed p. 282. These parser-derived locators have not been visually verified in this review.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Jupiter`: Successes derived from situations with travel, foreign influences, or religious exposure; publicity gotten from or created by those who like one's role in life; added potential to learn from different ideas or philosophies in life.
+In `Jupiter/MC = Jupiter`, repeated Jupiter specifies personal success through widening experience: travel, foreign influences, religion and different philosophies. The [Munkasey entry](#munkasey-entry), supplied p. 282, connects this learning with publicity from people who appreciate one's role in life. The paragraph gives a route by which opportunity and recognition may arise, rather than a guarantee that travel or belief produces success.
 
 ## Links
 

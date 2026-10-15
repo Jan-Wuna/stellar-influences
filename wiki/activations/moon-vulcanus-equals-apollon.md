@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = ¥`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Apollon Vulcanus](../triads/moon-apollon-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: PDF p. 137.
+
 Being noted or envied on account of one’s own wealth. Spreading the influence. Benevolence and amenities through officials of the public power. Successfully influencing the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source passage: printed p. 205; PDF p. 101.
+
 expansion of emotional power, successful power of a people, successful energy of a woman, power through emotional knowledge, strong expansion of a people, economic strength of a people, and growing power of the feelings
+
+## Comparative Schema
+
+- core meaning: influence spreads and acquires greater scope or success ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: ABC emphasizes growing emotional power and knowledge of feelings.
+- body/health: no specific bodily or medical claim is present.
+- social/relationship: public influence and benefits through officials are explicit Witte examples.
+- events/manifestations: notice or envy through wealth, economic strength, and expanding influence illustrate the range.
+- conflicts/notes: public prosperity and emotional expansion are distinct settings; neither guarantees the other.
+
+## Contradictions
+
+The entries emphasize expansion at emotional, economic, and public levels without directly opposing claims. Their overlap does not establish independent corroboration or promise success in every setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Apollon`: Being noted or envied on account of one’s own wealth. Spreading the influence. Benevolence and amenities through officials of the public power. Successfully influencing the public.
-- Practical expression: expansion of emotional power, successful power of a people, successful energy of a woman, power through emotional knowledge, and strong expansion of a people.
+Apollon specifies Moon/Vulcanus through the expansion of influence. [Witte](#witte-entry) places this in public success, wealth, and support from officials; [ABC](#abc-entry) extends it to emotional knowledge, growing feelings, and collective economic strength. The common movement is a widening reach of power, with envy of wealth remaining one possible social response rather than a necessary result.
 
 ## Links
 

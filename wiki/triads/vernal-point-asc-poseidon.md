@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Asc Poseidon`
 - Astronomicon triad-set: `VP Asc ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Poseidon = Vernal Point](../activations/asc-poseidon-equals-vernal-point.md)
-- [Vernal Point/Asc = Poseidon](../activations/vernal-point-asc-equals-poseidon.md)
-- [Vernal Point/Poseidon = Asc](../activations/vernal-point-poseidon-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Poseidon = Vernal Point](../activations/asc-poseidon-equals-vernal-point.md) | [Asc/Poseidon](../axes/asc-poseidon.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Asc = Poseidon](../activations/vernal-point-asc-equals-poseidon.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | [Poseidon](../factors/poseidon.md) |
+| [Vernal Point/Poseidon = Asc](../activations/vernal-point-poseidon-equals-asc.md) | [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `136`
-- `Vernal Point/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
-- `Vernal Point/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `58`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Poseidon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-poseidon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `98`.
+- `Asc/Poseidon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-poseidon-equals-vernal-point.md#abc-entry), printed p. `136`.
+- `Vernal Point/Asc = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-poseidon.md#abc-entry), printed p. `21`.
+- `Vernal Point/Poseidon = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-poseidon-equals-asc.md#witte-entry), one-based PDF entry-start p. `55`.
+- `Vernal Point/Poseidon = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-poseidon-equals-asc.md#abc-entry), printed p. `58`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Vernal Point`: association with the general public on mental or spiritual grounds and a social field that extends ideals into collective life.
-- `Vernal Point/Asc = Poseidon`: This formula emphasizes to seek mental communities, to be introduced to ideas, and cities where there are universities and publishing houses.
-- `Vernal Point/Poseidon = Asc`: This formula emphasizes to deal with spiritualized men and persons in the immediate environment who have special skills of knowledge.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Vernal Point/Poseidon = Asc excludes unreliable ABC environment and partner translations. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

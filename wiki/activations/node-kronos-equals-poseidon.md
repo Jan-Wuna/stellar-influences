@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Kronos](../axes/node-kronos.md)
 - Triad hub: [Node Kronos Poseidon](../triads/node-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 152 (one-based PDF numbering; exact row checked).
 
 Connection through great mental accomplishment. Connections with intellectually leading people.
 
@@ -42,13 +46,27 @@ Connection through great mental accomplishment. Connections with intellectually 
 
 #### ABC Entry
 
-Appreciated spiritual connections, encounter with a spiritual authorship, special insights through a connection, cultural connections of the state, state cultural mediation, superiority by means of a communication, and important spiritual contacts
+- Source page: 231 (printed); PDF page: 114 (one-based PDF numbering; exact row checked).
+
+Respected intellectual or spiritual connections, encounter with an intellectual or spiritual authority, special insights through a connection, cultural connections of the state, state cultural mediation, superiority through reason within a connection, important intellectual or spiritual contacts.
+
+## Comparative Schema
+
+- core meaning: connections distinguished by intellectual or spiritual authority.
+- psychology: insight and the use of reason within a connection.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: ties with intellectually leading people and respected intellectual or spiritual authorities.
+- events/manifestations: connection through mental accomplishment, important intellectual contacts, and state cultural mediation.
+- conflicts/notes: The entries differ in range and emphasis without establishing a direct contradiction.
+
+## Contradictions
+
+The entries differ in range and emphasis without establishing a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Poseidon`: Connection through great mental accomplishment. Connections with intellectually leading people.
-- Practical focus: connection through great mental accomplishment; also connections with intellectually leading people.
+Poseidon specifies `Node/Kronos` through authority in thought, culture or spiritual life. The [Witte entry](#witte-entry) places mental accomplishment and intellectually leading people at the center; the [ABC entry](#abc-entry) extends this to insights gained through a relationship and cultural links involving the state. The connection gains distinction through ideas or understanding, with ABC's superiority through reason retaining a question of intellectual standing within the relationship.
 
 ## Links
 

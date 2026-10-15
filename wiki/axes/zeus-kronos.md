@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `£/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `289`, chapter heading `ZEUS + KRONOS`.
 
 Great and energetic activities. Energetic leadership. To assert oneself at all costs. The machine industry. Conflagrations. Warfare. Armament. The great commander-in- chief. To put oneself in the right light. To play the overlord. To lord it over others. Tremendous activity. Intervention of the authorities. Fire protection. Governmental fire insurance. Achieving a goal through competence.
 
@@ -78,7 +82,20 @@ Great and energetic activities. Energetic leadership. To assert oneself at all c
 
 #### ABC Pair Summary
 
-Particular creativity, fire steering, large services, grofl fire, performance hierarchy, state services, self governing design, self governing strife, governance, superior leadership, and important objectives
+Source reference: printed page `450`, PDF page `224`, bold pair summary.
+
+Source wording: "Besondere Kreativität, Feuer-Lenkung, große Leistungen, Groß-Feuer, Leistungs-Hierarchie, Leistungen des Staates, selbständige Gestaltung, Selbständigkeits-Streben, Staats-Führung, überlegene Führung, wichtige Ziele".
+
+Editorial translation, checked against the scan: Special creativity; direction of fire; great achievements; conflagration; a hierarchy of achievement; achievements of the state; independent creation; striving for independence; state leadership; superior leadership; important goals.
+
+## Comparative Schema
+
+- Core meaning: Energetic leadership, authority, and the achievement of important goals through competence or command.
+- Psychology: Strong assertion and the wish to present oneself favorably occur alongside competence; the pair summary also names domineering behavior.
+- Body/health: No specific bodily or health meaning is stated.
+- Social/relationship: Command, official intervention, governance, hierarchy, and the possibility of lording it over others.
+- Events/manifestations: Machinery and industry, warfare and armament, conflagrations, fire protection, governmental fire insurance, and state activity.
+- Conflicts/notes: Competent leadership and domination are both represented. The range includes protective administration as well as destructive activity.
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Particular creativity, fire steering, large services, grofl fire, performance hi
 - [Zeus/Kronos = Vernal Point](../activations/zeus-kronos-equals-vernal-point.md)
 - [Zeus/Kronos = Vulcanus](../activations/zeus-kronos-equals-vulcanus.md)
 
+## Contradictions
+
+The entries share leadership, important aims, and activity at an official or elevated level. Competence and domineering command form a range within Witte's summary, not a disagreement between sources. ABC also names independent creation and striving for independence. Its labeled translation has been checked against printed page `450`, replacing damaged cached wording about "grofl fire" and "self governing strife".
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis magnifies Zeus into high-command action: leadership becomes forceful, official, and large-scale, with strong emphasis on authority, intervention, warfare, and ambitious execution.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Zeus/Kronos` concerns energetic leadership and the exercise of authority toward a goal. The [pair summary](#pair-summary) gives both achievement through competence and assertion at all costs, extending command into the possibility of playing the overlord. The [ABC pair summary](#abc-pair-summary) joins state leadership, hierarchy, and important goals with independent creation and striving for independence. The theme includes directing work as well as establishing the freedom to direct it.
+
+Its concrete range is wider than military command: machinery and industry, warfare and armament, official intervention, fire protection, and governmental fire insurance are all named. The pair can therefore concern protective administration as well as forceful or destructive command. It does not establish that authority is necessarily competent or that every instance involves war.
 
 ## Links
 

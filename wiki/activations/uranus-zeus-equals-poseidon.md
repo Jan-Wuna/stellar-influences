@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Poseidon`
 - Astronomicon formula: `X/£ = ¨`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 To recognize a mental force. Creative impulses in the fields of knowledge.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting restlessness through honesty, dynamic spiritual filtration, spiritual leadership impulses, spiritual technical filtration, new mental direction, shaping new ideas, sudden testimony to truth, rhythmic cultural design, and technical cultural achievements
+- Source page: 379 (printed); PDF page: 188.
+
+Beginning restlessness through truth, dynamic spiritual leadership, spiritual leadership impulses, inspired technical leadership, new mental direction, shaping new ideas, sudden testimony to truth, rhythmic cultural design, and technical cultural achievements
+
+## Comparative Schema
+
+- Core meaning: Creative ideas acquire mental direction.
+- Psychology: Recognition of mental force and truth.
+- Body/health: No specific health claim.
+- Social/relationship: Spiritual leadership and cultural shaping.
+- Events/manifestations: New ideas; knowledge and technical cultural achievements.
+- Conflicts/notes: An assertion of truth is not independent proof of it.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+An assertion of truth is not independent proof of it.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Poseidon`: To recognize a mental force. Creative impulses in the fields of knowledge.
-- Practical expression: starting restlessness through honesty, dynamic spiritual filtration, spiritual leadership impulses, spiritual technical filtration, and new mental direction.
+Poseidon specifies Uranus/Zeus through recognition of a mental force and the creative direction of knowledge. New ideas, spiritual leadership, and cultural achievement connect insight with shaping activity. Truth can itself begin unrest in ABC's account; forceful testimony does not certify a claim's truth. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

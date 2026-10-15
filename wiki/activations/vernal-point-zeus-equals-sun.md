@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Sun Zeus](../triads/vernal-point-sun-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ An untiring worker. Efforts of the body as regards work. Machine attendants and 
 
 #### ABC Entry
 
-In the public sphere
+A leading person in public, a center of leadership in public, physical achievements in public, a center of performance in public, public efforts for the environment, and personal achievements for the public.
+
+## Comparative Schema
+
+- Core meaning: Sustained bodily effort and personal achievement expressed in work and public leadership.
+- Psychology: The untiring worker is a source example of persistence, not an unlimited capacity attributed to everyone.
+- Body/health: Bodily exertion is explicit; no disease or health outcome is established.
+- Social/relationship: Public leadership and achievements for the public are explicit; machinery and railway employment are occupational examples.
+- Events/manifestations: Physical work, public performance, and efforts for the environment are named.
+- Conflicts/notes: The collapsed ABC translation was restored from its complete German entry.
+
+## Contradictions
+
+Physical work and public leadership are different applications rather than a contradiction. ABC's English had collapsed to "In the public sphere"; the full entry was restored by checking the German scan at printed p. 48 (PDF p. 23).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Sun`: an untiring worker, efforts of the body as regards work, and machine attendants and railroad employees.
-- Practical expression: in the public sphere.
+In `Vernal Point/Zeus = Sun`, Sun specifies the pair through personal and bodily achievement: sustained work can place a person at the center of public performance or leadership, with effort directed toward the public or environment. Machinery and railway employment are concrete occupational examples from the [Witte Entry](#witte-entry) (PDF p. 50); the public expression is developed in the [ABC Entry](#abc-entry) (printed p. 48; PDF p. 23). Witte's "untiring" worker remains an image of sustained effort rather than a claim of limitless endurance.
 
 ## Links
 

@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Chiron MC](../triads/sun-chiron-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 One’s purpose in life has to do with the continual seeking of deeper and deeper layers of meaning in existence. One’s personal security is based on the ability to become attuned to the multifaceted meanings of life, and to allow one’s ego to lose its limits by becoming absorbed in the pervasive harmony of the universe.
 
+## Comparative Schema
+
+- core meaning: Life purpose centered on a continuing search for meaning.
+- psychology: Security through attunement to meaning and less rigid ego limits.
+- body/health: No bodily condition or medical claim is given.
+- social/relationship: No specific relationship setting is described.
+- events/manifestations: Ongoing exploration of deeper meanings in existence.
+- conflicts/notes: A public-career interpretation would exceed this entry.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = MC`: seeing one's worldly path as part of a deeper spiritual purpose and aligning public direction with inner meaning.
+MC specifies the Sun/Chiron axis through a life orientation organized around the continuing search for meaning. The [Sandbach entry](#sandbach-entry) makes personal security depend on attunement to life's many meanings and describes letting the ego's limits loosen within a perceived wider harmony. It speaks about purpose and inner security; public success or career status is not established by this entry.
 
 ## Links
 

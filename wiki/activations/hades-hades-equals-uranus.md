@@ -26,17 +26,33 @@ updated_at: 2026-04-21
 - Astronomicon formula: `¢/¢ = X`
 - Axis page: [Hades/Hades](../axes/hades-hades.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 #### Witte Entry
 
-<t> Distinctly marked loathsomeness or disgust. Sudden mean acts. Exciting damages. Accident. Murder. War atrocities. Sudden death. Unsuspected catastrophes. Danger of being murdered. Old, ancient technology or science.
+- PDF page: 276 (printed p. 280).
+
+Distinctly marked loathsomeness or disgust. Sudden mean acts. Exciting damages. Accident. Murder. War atrocities. Sudden death. Unsuspected catastrophes. Danger of being murdered. Old, ancient technology or science.
+
+## Comparative Schema
+
+- **Core meaning:** Sudden damage or adverse acts specify the repeated pair, with ancient technology or science as a separate branch.
+- **Psychology:** Disgust is explicitly named, without establishing a permanent emotional state.
+- **Body/health:** Accident, murder, and sudden death are severe source examples, not individual predictions.
+- **Social/relationship:** War atrocities and harmful acts concern collective or interpersonal events, without determining a person's conduct.
+- **Events/manifestations:** Unexpected catastrophes, sudden adverse acts, and ancient technology or science are included.
+- **Conflicts/notes:** Ancient technology is a separate subject, with no cause linking it to violence. The scan identifies the former opening “<t>” as an alternate Uranus glyph.
+
+## Contradictions
+
+Only one source entry is present. Its scholarly and catastrophic branches remain distinct; neither should be borrowed to explain the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Hades = Uranus`: bleakness becoming explosive and unpredictable. It can also show ancient science or technology, but the dominant note is a harsh break, catastrophe, or atrocity arising from already degraded conditions.
+In `Hades/Hades = Uranus`, Uranus specifies the repeated Hades pair through sudden or unexpected adverse events. The [Witte entry](#witte-entry) includes damage, accidents, atrocities, and catastrophes, then separately names old technology or science (PDF p. 276). The first branch concerns abruptness; the second concerns an older technical or intellectual subject. These remain distinct source examples, without a stated cause linking ancient study to catastrophe.
 
 ## Links
 

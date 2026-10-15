@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Asc = Jupiter`
 - Astronomicon formula: `R/Asc = V`
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `81`.
+
 #### Witte Entry
 
 Good luck with female acquaintances and good luck in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `102`; PDF page: `50`.
+
 #### ABC Entry
 
-Other successful women, successful women as partners, finances of other people, FinanceWomen as partners, happiness by the woman as partners, happiness of the partner, happy women in the environment, partner right of the woman, and law of other people
+German passage (transcribed from PDF page `50`, printed page `102`):
+
+> Andere erfolgreiche Frauen, erfolgreiche Frau als Partner, Finanzen anderer Völker, Finanz-Frau als Partner, Glück durch die Frau als Partner, Glücks-Gefühl des Partners, gütige Frau im Umfeld, Partner-Recht der Frau, Recht anderer Völker
+
+Editorial translation from the German passage: Other successful women; a successful woman as partner; the finances of other peoples; a woman in finance as partner; good fortune through a woman as partner; a partner's feeling of happiness; a kind woman in the surroundings; a woman's rights as partner; the rights of other peoples.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `39` (exact Jupiter activation passage checked against the raw page).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Placing emphasis on your observations of how others interact; exaggerated selfim
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Favorable encounters, generous emotional sharing and closer observation of others.
+- psychology: Refined emotional insight coexists with exaggerated self-importance and a need for recognition in Munkasey.
+- body/health: No distinct bodily or medical condition is stated.
+- social/relationship: Nurturing, a successful or kind woman as partner, and female acquaintances are explicit.
+- events/manifestations: Public good fortune, financial matters and rights of women or other peoples are examples.
+- conflicts/notes: Generosity and good fortune are not guaranteed; self-importance is the entry's explicit caution rather than invented overprotection.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize favorable contacts; Sandbach emphasizes generous nurturing. Munkasey also includes exaggerated self-importance and wanting recognition, preserving a tension between reaching toward others and centering oneself.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Jupiter`: popularity, hospitality, and a visibly hopeful emotional style that supports others readily. Main caution: emotional excess: reassurance and good feeling can become indulgent, overprotective, or larger than the moment warrants.
+In `Moon/Asc = Jupiter`, Jupiter gives the pair's emotional encounters a generous and potentially favorable expression. Witte's good fortune with acquaintances and in public connects with ABC's successful or kind female partner; Sandbach makes the relational process explicit as freely sharing feeling and reaching out as a nurturer. Munkasey adds more refined observation of others but also exaggerated self-importance and a wish for recognition. The distinction is between emotional openness that attends to another person and an encounter dominated by one's own importance; favorable contact does not erase that tension ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

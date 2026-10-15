@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node MC](../triads/vernal-point-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Personal contact with many people.
 
@@ -42,13 +46,27 @@ Personal contact with many people.
 
 #### ABC Entry
 
-Mcinc meetings in public, my conversations with the public, my relations with the public, my relations with the public life, and my relationships with the public life
+- Source page: 26; PDF page: 12 (one-based spread).
+
+My public encounters, my relations with the public, my connections with public life, my public mediation, and inner bonds in public life
+
+## Comparative Schema
+
+- core meaning: Personal participation in public connections and encounters.
+- psychology: Inner bonds are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Personal contact with many and one's public relations.
+- events/manifestations: Encounters and personal mediation.
+- conflicts/notes: Inner bonds are more specific than the former repetitive relationship wording.
+
+## Contradictions
+
+No direct contradiction is established. Personal mediation and inner attachment are different dimensions of public association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = MC`: personal contact with many people.
-- Practical expression: mcinc meetings in public, my conversations with the public, my relations with the public, my relations with the public life, and my relationships with the public life.
+In `Vernal Point/Node = MC`, public relationships are approached from the personal standpoint. The [Witte entry](#witte-entry) names personal contact with many people. The restored [ABC entry](#abc-entry) adds one's encounters, mediation, connections to public life, and inward bonds. The common theme is personally held or experienced association rather than an abstract network alone.
 
 ## Links
 

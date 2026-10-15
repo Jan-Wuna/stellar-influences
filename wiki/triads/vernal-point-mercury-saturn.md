@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Mercury Saturn`
 - Astronomicon triad-set: `VP T W`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Mercury/Saturn = Vernal Point](../activations/mercury-saturn-equals-vernal-point.md)
-- [Vernal Point/Mercury = Saturn](../activations/vernal-point-mercury-equals-saturn.md)
-- [Vernal Point/Saturn = Mercury](../activations/vernal-point-saturn-equals-mercury.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Mercury/Saturn](../axes/mercury-saturn.md) | `Vernal Point` | [Mercury/Saturn = Vernal Point](../activations/mercury-saturn-equals-vernal-point.md) |
+| [Vernal Point/Mercury](../axes/vernal-point-mercury.md) | `Saturn` | [Vernal Point/Mercury = Saturn](../activations/vernal-point-mercury-equals-saturn.md) |
+| [Vernal Point/Saturn](../axes/vernal-point-saturn.md) | `Mercury` | [Vernal Point/Saturn = Mercury](../activations/vernal-point-saturn-equals-mercury.md) |
 
 ## Source Coverage
 
-- `Mercury/Saturn = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `246`
-- `Vernal Point/Mercury = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `40`
-- `Vernal Point/Mercury = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `29`
-- `Vernal Point/Saturn = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
-- `Vernal Point/Saturn = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `36`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Mercury/Saturn = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mercury-saturn-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `162`.
+- `Mercury/Saturn = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mercury-saturn-equals-vernal-point.md#abc-entry), printed p. `246`.
+- `Vernal Point/Mercury = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-mercury-equals-saturn.md#witte-entry), one-based PDF entry-start p. `40`.
+- `Vernal Point/Mercury = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-mercury-equals-saturn.md#abc-entry), printed p. `29`.
+- `Vernal Point/Saturn = Mercury`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-saturn-equals-mercury.md#witte-entry), one-based PDF entry-start p. `44`.
+- `Vernal Point/Saturn = Mercury`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-saturn-equals-mercury.md#abc-entry), printed p. `36`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Saturn = Vernal Point`: Hiking. Excursions. Journey around the world. Voyages. Location changes.
-- `Vernal Point/Mercury = Saturn`: This formula emphasizes beginning of a journey and general thoughts of separations.
-- `Vernal Point/Saturn = Mercury`: This formula emphasizes gloomy thoughts, news of losses, and deserted.
+Use the orientation whose base pair and activating factor match the requested formula. `Mercury/Saturn = Vernal Point` activates `Mercury/Saturn` with `Vernal Point`; it is distinct from `Vernal Point/Mercury = Saturn` and `Vernal Point/Saturn = Mercury`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

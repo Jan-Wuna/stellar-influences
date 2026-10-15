@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,44 @@ updated_at: 2026-05-04
 - Triad-set: `Cupido Hades Zeus`
 - Astronomicon triad-set: `¡ ¢ £`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Cupido/Hades = Zeus](../activations/cupido-hades-equals-zeus.md)
-- [Cupido/Zeus = Hades](../activations/cupido-zeus-equals-hades.md)
-- [Hades/Zeus = Cupido](../activations/hades-zeus-equals-cupido.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Hades = Zeus](../activations/cupido-hades-equals-zeus.md) | [Cupido/Hades](../axes/cupido-hades.md) | [Zeus](../factors/zeus.md) |
+| [Cupido/Zeus = Hades](../activations/cupido-zeus-equals-hades.md) | [Cupido/Zeus](../axes/cupido-zeus.md) | [Hades](../factors/hades.md) |
+| [Hades/Zeus = Cupido](../activations/hades-zeus-equals-cupido.md) | [Hades/Zeus](../axes/hades-zeus.md) | [Cupido](../factors/cupido.md) |
+
+All three base-axis/activator choices are represented in the linked canonical pages (3/3).
 
 ## Source Coverage
 
-- `Cupido/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
-- `Cupido/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `425`
-- `Cupido/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
-- `Cupido/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `427`
-- `Hades/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `278`
-- `Hades/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `439`
+This map records the source subentries currently present on the linked activation pages. Locators below retain parser references and have not been checked against page images in this hub review. Entry-start and chapter-start locators do not confirm an exact formula page.
+
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md): source subsections on 3/3 orientations.
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md): source subsections on 3/3 orientations.
+
+Source-subsection presence does not establish agreement or resolve damaged text and cross-references.
+
+| Orientation | Source subentry or omission | Retained locator |
+| --- | --- | --- |
+| `Cupido/Hades = Zeus` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-hades-equals-zeus.md#witte-entry) | one-based PDF p. 267 (entry start); printed page not established |
+| `Cupido/Hades = Zeus` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-hades-equals-zeus.md#abc-entry) | printed p. 425; PDF p. 211 |
+| `Cupido/Zeus = Hades` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-zeus-equals-hades.md#witte-entry) | one-based PDF p. 268 (entry start); printed page not established |
+| `Cupido/Zeus = Hades` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-zeus-equals-hades.md#abc-entry) | printed p. 427; PDF p. 212 |
+| `Hades/Zeus = Cupido` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-zeus-equals-cupido.md#witte-entry) | one-based PDF p. 278 (entry start); printed page not established |
+| `Hades/Zeus = Cupido` | [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-zeus-equals-cupido.md#abc-entry) | printed p. 439; PDF p. 218 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Zeus`: a poor but numerous family, creative work made from scant materials, and the ability to produce form or art out of substitutes and lack.
-- `Cupido/Zeus = Hades`: harsh industrial or mineral concerns, destructive instincts, and disintegration of an existing social order.
-- `Hades/Zeus = Cupido`: fire affecting companies or groups, enmity with unions or associations, and attacks driven against communities.
+Use this hub to select the exact orientation for the unordered set `Cupido Hades Zeus`. The pair before `=` is the base axis and the factor after it is the activator. Open the selected activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas; differences between their entries do not by themselves establish a contradiction. Assess disagreements within the chosen activation. This hub records navigation and source coverage without combining their doctrine.
 
 ## Links
 

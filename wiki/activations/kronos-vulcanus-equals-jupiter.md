@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Jupiter Kronos Vulcanus](../triads/jupiter-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Jupiter entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Successful politics. Increase in territory and growth of the power of the state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 464; PDF p. 231 (one-based), Kronos + Vulkanus, Jupiter entry.
+
 #### ABC Entry
 
-Special energy of joy, influence of the financial hierarchy, influential legal authorship, successful state power, great financial power, legal influence of the state, state financial violence, and strong influence of money
+Special energy of joy; influence of the financial hierarchy; an influential legal authority; successful state power; great financial power; the state's legal influence; state financial authority; strong influence of money.
+
+## Comparative Schema
+
+- Core meaning: Successful state power works through political growth, law, finance, and benefits.
+- Psychology: Joy is explicitly named, while the entries primarily concern institutional power.
+- Body/health: No specific body or health claim appears.
+- Social/relationship: Financial hierarchy and influential legal authority define important channels of influence.
+- Events/manifestations: Territorial growth, allowances, financial power, and legal influence are explicit.
+- Conflicts/notes: Political success and financial authority do not by themselves establish just conduct.
+
+## Contradictions And Tensions
+
+Political success and financial authority do not by themselves establish just conduct.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Jupiter`: successful politics, territorial increase, expansion of state strength, and benefits or allowances dispensed through official power.
-- Chart expression: prosperous rule, effective leadership, and the successful enlargement of state influence or resources.
+With Jupiter, Kronos/Vulcanus describes successful power and the resources through which it operates. Witte names successful politics, growth in territory and state strength, and allowances dispensed by state power. ABC adds financial hierarchy, legal authority, financial power, and the influence of money, alongside joy. The synthesis retains both political expansion and the legal or financial means of influence; successful exercise of authority is the stated theme, not an independent judgment of its justice. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

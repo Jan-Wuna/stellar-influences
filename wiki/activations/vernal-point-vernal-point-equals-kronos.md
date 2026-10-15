@@ -26,6 +26,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `VP/VP = ¤`
 - Axis page: [Vernal Point/Vernal Point](../axes/vernal-point-vernal-point.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -33,10 +34,23 @@ updated_at: 2026-04-21
 
 Great events. Great powers (nations). Governments. Officials, the state or the general authority. The authority of the general public. Major events on Earth.
 
+## Comparative Schema
+
+- core meaning: public life is specified through authority, government, and events of broad importance.
+- psychology: no individual leadership style or personality trait is described.
+- body/health: no bodily or medical meaning is stated.
+- social/relationship: nations, officials, the state, and the authority of the public are explicit collective actors.
+- events/manifestations: great events and major events on Earth are named, without particulars.
+- conflicts/notes: “great” indicates the entry's scale or prominence; it does not establish that an event is beneficial.
+
+## Contradictions
+
+- The single entry includes both state authority and authority of the public. It does not describe a conflict between them or supply a competing account.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vernal Point = Kronos`: great events, great powers (nations), governments, officials, the state or the general authority, and the authority of the general public.
+In `Vernal Point/Vernal Point = Kronos`, Kronos specifies the repeated public-world pair through public authority and matters of large scope. The [Witte entry](#witte-entry) names governments, officials, great powers, and the authority of the general public, together with major events on Earth (PDF p. 34). The emphasis is institutional reach and prominence; no particular policy, personal leadership quality, or favorable result is established.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Venus Kronos Admetos](../triads/venus-kronos-admetos.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Special treatments or exceptional favors are refused, are not granted or accepte
 
 Blocked state peace, restricted sympathy of the state, the end of freedom in love, the end of a great love, the consolidation of harmony in the state, strengthened authority in the arts, great harmony deepening, and deepening of love for the hierarchy
 
+## Comparative Schema
+
+- core meaning: Refused or unaccepted exceptional favors ([Witte](#witte-entry)).
+- psychology: Deepening of love or harmony is named, without a developed psychological account ([ABC](#abc-entry)).
+- body/health: Neither entry supplies a bodily or health manifestation.
+- social/relationship: Restricted sympathy, or an ending in love ([ABC](#abc-entry)).
+- events/manifestations: Refusal of special treatment; consolidation of state harmony or artistic authority ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: Refusal, ending, and consolidation are distinct possibilities.
+
+## Contradictions
+
+Witte's refusal motif and ABC's consolidation motif are different emphases. The entries do not specify when either applies; they should not be flattened into a uniformly negative or positive result.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Admetos`: special treatments or exceptional favors are refused, are not granted or accepted.
-- Practical expression: blocked state peace, restricted sympathy of the state, the end of freedom in love, the end of a great love, and the consolidation of harmony in the state.
+Admetos specifies Venus/Kronos through a limit on favor: exceptional treatment can be refused, withheld, or declined. [Witte](#witte-entry) makes this the direct meaning. The [ABC entry](#abc-entry) broadens the range to restricted state sympathy and endings in love, but also to consolidation and deepening of harmony or artistic authority. Those different directions must remain alternatives; an ending is not automatically a beneficial consolidation.
 
 ## Links
 

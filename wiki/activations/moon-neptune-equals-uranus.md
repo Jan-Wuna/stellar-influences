@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Y = X`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Moon Uranus Neptune](../triads/moon-uranus-neptune.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -43,17 +46,25 @@ Aggravation because of unclear but sensitive woman or weakness of thinking. Irre
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `189`; PDF p. `93`.
+
 #### ABC Entry
 
-see above
+Excitement of a weak woman; sensitive emotional impulses; nervousness caused by unclear feelings; sudden insecurity of a woman; an hour of sudden disappointment; the technological future of a people; unrest caused by foreign peoples.
+
+- Source check: translated from the Uranus-symbol entry on printed p. `189` (PDF p. `93`, visually checked). The former imported "see above" belongs to the following Neptune row; the Uranus paragraph had been imported under Saturn.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: printed p. `132`, entry `0405`.
 
 #### Ebertin Entry
 
 An incalculable or unpredictable disposition, tendency to act impulsively. Pursuit of sudden ideas and hunches, the gift to have sudden forebodings or presentiments.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `35` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +81,21 @@ Working with modern equipment as part of your dreams for the future; an enhanced
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uranus specifies the pair through sudden impressions, disruption, and new ideas.
+- psychology: hunches and unusual emotional insights can accompany impulsiveness, nervousness, or being thrown out of balance.
+- body/health: Witte names sudden awakening; the checked ABC entry mentions nervousness. These do not establish a clinical condition.
+- social/relationship: Sandbach describes both taking on disruptive feelings from others and understanding their subtler emotions.
+- events/manifestations: nighttime surprises, sudden disappointment, modern equipment, new ideas, and study of astrology are explicit examples.
+- conflicts/notes: the ABC row assignment has been corrected from the printed symbol; sudden impressions are not represented as invariably accurate.
 
 ## Contradictions
 
-- None recorded yet.
+- Sudden insight and destabilization occur together in Sandbach, while Munkasey emphasizes new ideas and equipment. They differ in emphasis without asserting mutually exclusive outcomes. The imported ABC cross-reference was an assignment error, corrected above.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Uranus`: visionary breakthroughs, subtle awakening, and the ability to feel change before it takes form. Main caution: erratic sensitivity: nervous unrest and emotional permeability can create overwhelm, confusion, or unreliable stability.
+In `Moon/Neptune = Uranus`, Uranus specifies the pair as sudden emotional impressions and changes of mental direction. [Ebertin](#ebertin-entry) describes impulsiveness and hunches; [Sandbach](#sandbach-entry) joins unusual insight into others' feelings with disruption from those feelings. [Munkasey, p. 128](#munkasey-entry) gives the practical outlet of new ideas, modern equipment, and astrology, while the checked [ABC entry, p. 189](#abc-entry) retains sudden insecurity and disappointment. Novel perception and instability are both supported; the entries do not warrant treating every hunch as foresight.
 
 ## Links
 

@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Chiron = Jupiter`
 - Astronomicon formula: `W/Chiron = V`
 - Axis page: [Saturn/Chiron](../axes/saturn-chiron.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 88 (exact entry checked; chapter begins on PDF page 87).
+
 An enthusiasm for understanding the spiritual reasons behind the limitations one experiences, and the desire to find ways to capitalize on and work with them as a means of learning and growing. The ability to make much out of little.
+
+## Comparative Schema
+
+- Core meaning: Finding learning and growth within experienced limits.
+- Psychology: Enthusiasm for understanding spiritual reasons behind restriction.
+- Body/health: No bodily condition or clinical treatment is specified.
+- Social/relationship: No particular interpersonal pattern is described.
+- Events/manifestations: Making much out of little and working constructively with limits.
+- Conflicts/notes: The spiritual meaning of limitation is the source's interpretive framework, not a universal explanation of hardship.
+
+## Contradictions
+
+The spiritual meaning of limitation is the source's interpretive framework, not a universal explanation of hardship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Jupiter` expands Saturn/Chiron through faith, meaning, and growth. It seeks the spiritual purpose inside limitation and can make much out of little; the caution is not to moralize hardship or turn restriction into an inflated doctrine.
+In `Saturn/Chiron = Jupiter`, Jupiter specifies the pair through enthusiasm for understanding limitations and making use of them as opportunities to learn. The [Sandbach entry](#sandbach-entry) connects that approach with making much out of little. Its claim about spiritual reasons remains attributed to this account of growth.
 
 ## Links
 

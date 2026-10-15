@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Poseidon`
 - Astronomicon formula: `T/¤ = ¨`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 High minded. Ideas acknowledged by the state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `261`; PDF page: `129`.
+
 #### ABC Entry
 
-Dominance of media culture, thoughts on spiritual hierarchy, language about intellectual authoritarianism, self indigenous knowledge of youth, self reliance through clarity of thought, important language about reason, and words of a spiritual authoritarianism
+German passage (transcribed from PDF page `129`, printed page `261`):
+
+> Dominanz der Medien-Kultur, Gedanken zur geistigen Hierarchie, Gespräche über geistige Autorität, selbständige Erkenntnisse der Jugend, Selbständigkeit durch Klarheit des Denkens, wichtige Gespräche über Vernunft, Worte einer geistigen Autorität
+
+Editorial translation from the German passage: Dominance of media culture; thoughts about intellectual or spiritual hierarchy; conversations about intellectual or spiritual authority; young people's independent insights; independence through clarity of thought; important conversations about reason; words of an intellectual or spiritual authority.
+
+## Comparative Schema
+
+- core meaning: High-minded ideas, intellectual authority, and clarity ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Independent understanding and clarity of thought are explicit.
+- body/health: No bodily condition appears.
+- social/relationship: State acknowledgment and intellectual or spiritual authority are named.
+- events/manifestations: Media culture, reasoned conversation, and words of an authority are ABC examples.
+- conflicts/notes: Recognition by the state does not establish an idea's truth; authority is not authoritarianism.
+
+## Contradictions
+
+Witte's state acknowledgment and ABC's independent insights are distinct ways an idea can acquire standing. Neither establishes that official acknowledgment verifies its value.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Poseidon` clarifies the axis into high-minded ideas recognized by authority.
-- Chart expression: upright and elevated thinking whose truth or value receives acknowledgment from the state, institutions, or other higher bodies.
+In `Mercury/Kronos = Poseidon`, Poseidon specifies important thought through clarity, reason, and intellectual or spiritual authority. Witte joins high-mindedness with ideas acknowledged by the state; ABC adds independent youthful insights and independence through clear thinking. These entries preserve both recognition by authority and independent understanding, without making official approval a proof of truth ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

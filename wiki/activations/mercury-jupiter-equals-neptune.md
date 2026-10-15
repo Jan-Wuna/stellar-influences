@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Neptune`
 - Astronomicon formula: `T/V = Y`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Imaginative, fluent orator. To try to dissuade. To speculate. To speak incessantly, not to permit an interruption.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `245`; PDF page: `121`.
+
 #### ABC Entry
 
-Exchangeable financial language, success through foreign languages, successful youth in the air or in the water, talk about water money, news about gutc air, weak finances for traffic, and uncertainty about traffic law
+German passage (transcribed from PDF page `121`, printed page `245`):
+
+> Enttäuschende Finanz-Gespräche, Erfolg durch fremde Sprachen, erfolgreiche Jugend in der Luft oder im Wasser, Gespräche über Wasser-Geld, Nachrichten über gute Luft, schwache Finanzen für den Verkehr, Unsicherheit über Verkehrs-Recht
+
+Editorial translation from the German passage: Disappointing financial discussions; success through foreign languages; successful young people in air or water; conversations about water money; news about good air; weak finances for transport; uncertainty about traffic law.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Too much faith placed in theories which are still confusing or poorly explained;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Expansive imagination alongside confusion or insufficiently explained theory ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Idealism can widen inquiry; excessive thought or faith can obscure understanding.
+- body/health: ABC mentions air and water without establishing a health condition.
+- social/relationship: Witte names fluent speech that may allow no interruption.
+- events/manifestations: Foreign-language success, disappointing finance talks, and mystical theories are examples.
+- conflicts/notes: Imagination and generous sharing do not certify the accuracy of an idea.
 
 ## Contradictions
 
-- None recorded yet.
+The creative imagination and generous sharing in Sandbach coexist with confusion in the same entry. Munkasey explicitly warns about poorly explained theory; this does not reduce every imaginative idea to error.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Neptune`: inspired teaching, mythic or poetic language, and the ability to move others through belief and vision. Main caution: inflated vagueness: thought can become grand, ungrounded, or too willing to substitute idealism for evidence.
+In `Mercury/Jupiter = Neptune`, Neptune specifies expansive thought through imagination and uncertainty. A fluent imagination can reach many ideas and encourage generous sharing, yet too much thinking or faith in a poorly explained theory can produce confusion. Witte's incessant oratory adds a conversational form in which others cannot interrupt; ABC separately names success through foreign languages and disappointing financial discussions. The range concerns how ideas expand and are believed or expressed ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

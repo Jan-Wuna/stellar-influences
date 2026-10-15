@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Kronos Apollon](../triads/vernal-point-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Great expansion. Scientific authorities. Religious leadership.
 
@@ -42,13 +46,27 @@ Great expansion. Scientific authorities. Religious leadership.
 
 #### ABC Entry
 
-Expansion of self governance in the public, special in the public, growing reputation in the public, economic growth in the public, and important knowledge for the public
+- Source page: 51; PDF page: 24 (one-based spread).
+
+Expansion of independence in public, special success in public, wholesale trade in public, growing public reputation, economic growth in public, and important knowledge for the public
+
+## Comparative Schema
+
+- core meaning: Expansion of public standing, independence, and knowledge.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Scientific authorities and religious leadership are Witte examples.
+- events/manifestations: Wholesale trade, economic growth, and growing reputation.
+- conflicts/notes: The scan restores special success and omitted wholesale trade.
+
+## Contradictions
+
+No direct contradiction is established. Scientific or religious authority and commercial growth are different manifestations of expanded public scope.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Apollon`: great expansion, scientific authorities, and religious leadership.
-- Practical expression: expansion of self governance in the public, special in the public, growing reputation in the public, economic growth in the public, and important knowledge for the public.
+In `Vernal Point/Kronos = Apollon`, public authority and independence extend their scope. The [Witte entry](#witte-entry) presents great expansion, scientific authorities, and religious leadership. The restored [ABC entry](#abc-entry) adds growing reputation and independence, important knowledge, wholesale trade, and economic growth. The shared theme is increased public reach and standing, expressed through intellectual, institutional, or commercial activity.
 
 ## Links
 

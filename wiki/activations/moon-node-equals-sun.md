@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Sun`
 - Astronomicon formula: `R/g = S`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 The union of the woman with the man. The daily being together of man and woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `174`, PDF p. `86` (entry).
+
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+An emotional relationship with a man, contacts between a woman and a man, human connections with the people, personal relationships with women, personal connection to the mother, personal connection to the people, and a connection during the day and hour
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `137`, entry `0423`.
 
 #### Ebertin Entry
 
 An spiritual attitude to friendship and sex unions. Harmony between husband and wife. The process or stage of entering into unions or associations with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF pp. `37–38` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ The effectiveness or personal power you show when meeting people who may help yo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personally meaningful emotional connections and participation in unions.
+- psychology: sharing feelings supports vitality, purpose, ego, and self-esteem in Sandbach.
+- body/health: no bodily or clinical condition is established.
+- social/relationship: daily companionship, friendship, intimate unions, maternal ties, and public contacts are examples.
+- events/manifestations: entering an association, meeting helpful people, and receiving encouragement for obligations are named.
+- conflicts/notes: companionship and public ties are different settings within the range, rather than one prescribed relationship.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from daily companionship to personal meaning and assistance with obligations. Their favorable possibilities do not establish emotional dependence or require a single family or group role.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Sun`: visible warmth, relational self-expression, and a life pattern in which connection and identity reinforce each other strongly. Main caution: selfhood through emotional dependence: individuality can yield too quickly to family or group feeling.
+In Moon/Node = Sun, Sun specifies the pair through connections that matter to personal life and purpose. [Sandbach](#sandbach-entry) describes vitality and meaning through sharing feelings, including support for ego and self-esteem. [Munkasey](#munkasey-entry) adds effectiveness in meeting helpful people and encouragement in meeting obligations (p. 136).
+
+The [Witte entry](#witte-entry) gives daily companionship between a woman and a man; [Ebertin](#ebertin-entry) includes harmony and entering unions. The [ABC entry](#abc-entry) retains personal, maternal, and public contacts (printed p. 174, PDF p. 86). These connect personal significance with participation, without establishing that individuality must yield to belonging.
 
 ## Links
 

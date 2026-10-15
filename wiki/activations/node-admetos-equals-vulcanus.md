@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Vulcanus`
 - Astronomicon formula: `g/¦ = §`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 To display extraordinary activities with few. Undertaking great things with few. To be heavily chained or to burst the chains.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-enduring violence in connections, blocked energy renunciation, restriction of an influential connection, end of a powerful connection, consolidation of power in a connection, and deepening of influence in a connection
+enduring violence in connections, blocked energy transmission, restriction of an influential connection, end of a powerful connection, consolidation of power in a connection, and deepening of influence in a connection
+
+## Comparative Schema
+
+- core meaning: a few may undertake great things, while power or constraint shapes the connection.
+- psychology: the sources supply no required motive for using power or breaking bonds.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: consolidated influence, restricted power and sustained violence are particular source expressions.
+- events/manifestations: being heavily chained or bursting chains stands beside extraordinary joint activity.
+- conflicts/notes: extraordinary work with few is not inherently a difficult expression or proof of coercion.
+
+## Contradictions
+
+Witte includes both great joint activity and chains being imposed or broken. ABC names power consolidating or ending, without making every influential tie violent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Vulcanus`: To display extraordinary activities with few. Undertaking great things with few. To be heavily chained or to burst the chains.
-- Practical focus: to be heavily chained or to burst the chains.
-- In difficult expression, it can mark to display extraordinary activities with few.
+Node/Admetos = Vulcanus concerns substantial power or activity within a small connection. [Witte](#witte-entry) describes a few undertaking great things and either being heavily chained or bursting the chains. [ABC](#abc-entry) adds power and influence consolidating, beside restricted or ended powerful ties and blocked energy transmission (printed p. 235, PDF p. 116). The range includes accomplishment and constraint; the violence clause stays a particular source expression rather than a judgement on every strong bond.
 
 ## Links
 

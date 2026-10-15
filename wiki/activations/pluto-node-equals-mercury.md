@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Mercury Pluto Node](../triads/mercury-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ New connections through speech, writings or correspondence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 222; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Development of language connections, development of contact languages, communication of opinion developments, development of links in the youth, communication with traffic development, growing relations with the youth, and changing contacts in the youth
+Editorial translation (checked against the scan): Development of language connections, developing contact conversations, conveying developments of opinion, developing connections in youth, a link with traffic development, growing relationships with young people, changing contacts in youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
 
 #### Ebertin Entry
 
 Desire to dominate other people intellectually or mentally. Ability to exercise a compelling and magnetically powerful influence upon the community at large.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 115 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Reading others and judging their needs better; feeling the shifts of power or di
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connections created or changed through speech, writing, and mental influence.
+- psychology: Vivid communication and synthesis of past and future; possible desire to dominate intellectually.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Correspondence, contact conversations, youth contacts, and fluent conversation with influential people.
+- events/manifestations: New written or spoken connections, education, and awareness of shifts in others' power or direction.
+- conflicts/notes: Strong communication can serve understanding or intellectual dominance; suspicion is not required.
 
 ## Contradictions
 
-- None recorded yet.
+Vivid connection and Ebertin's domination are different uses of mental influence, not a single necessary motive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Mercury`: powerful networking, penetrating social diagnosis, and the ability to transform alliances through ideas and information. Main caution: manipulative exchange: contact can become suspicious, coercive, or overly strategic in the pursuit of influence.
+Mercury specifies Pluto/Node through connections made in communication. The [Witte entry](#witte-entry) names speech, writing, and correspondence; [ABC](#abc-entry) adds conversation, developing opinions, and contacts involving young people. Vivid communication and a mind joining past with future in [Sandbach](#sandbach-entry) coexist with the desire for intellectual dominance in [Ebertin](#ebertin-entry). [Munkasey](#munkasey-entry) adds fluent contact with influential people, education, and attention to shifts in power or direction. The common communicative force does not establish that every exchange is manipulative.
 
 ## Links
 

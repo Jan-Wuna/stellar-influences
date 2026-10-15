@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Node`
 - Astronomicon formula: `R/g = g`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -41,22 +43,21 @@ The bonds you develop with those who influence your emotional growth; a meeting 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: bonds that support emotional growth and public opportunity.
+- psychology: supporters help address uncertainty about one's course.
+- body/health: no bodily or health condition is stated.
+- social/relationship: influential contacts and backers are central examples.
+- events/manifestations: a meeting opens an opportunity to present ideas to an audience.
+- conflicts/notes: the single entry describes supportive possibilities without guaranteeing recognition or a fixed destiny.
 
 ## Contradictions
 
-- None recorded yet.
+Only one Munkasey entry is present. Emotional support and public opportunity are related examples within it, without an independent source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Node`: The bonds one develop with those who influence one's emotional growth; a meeting which opens opportunities for one to present ideas to one's public; backers who help one overcome uncertainty when facing life’s destiny.
+In Moon/Node = Node, Node specifies the pair through bonds with people who influence emotional growth and help open opportunities. The [Munkasey entry](#munkasey-entry) joins a meeting that enables public presentation with backers who help someone face uncertainty (p. 138). The connection between support and opportunity is explicit; the entry does not establish a predetermined outcome.
 
 ## Links
 

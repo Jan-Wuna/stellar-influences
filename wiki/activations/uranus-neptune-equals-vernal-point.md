@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Vernal Point`
 - Astronomicon formula: `X/Y = VP`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Vernal Point entry.
+
 #### Witte Entry
 
 Metaphysics, occultism, funerals, cemeteries in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Vernal Point entry.
+
 #### ABC Entry
 
-air water technology for the public, creeping unrest in the public, vcrfeinertc Tcchnik in the public, and future technology for the () public
+Dissolution of tensions in the public, air-water technology for the public, creeping unrest in the public, surprising weakness in the public, refined technology in the public, and technology of the future for the public.
+
+## Comparative Schema
+
+- core meaning: Public expressions of metaphysical, mourning, and technical themes. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- psychology: Creeping unrest in the public. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- body/health: Funerals and cemeteries are social contexts, not medical predictions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- social/relationship: Public spiritual interests and collective mourning. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- events/manifestations: Public air-water technology and funeral settings. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- conflicts/notes: The public technical, spiritual and funeral settings are parallel manifestations, without an established causal link. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+
+## Contradictions
+
+Public unrest or release of tensions and public technology are different manifestations from metaphysics, funerals and cemeteries. The entries establish no causal link between technical change and a death-related event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Neptune = Vernal Point`: Metaphysics, occultism, funerals, cemeteries in general.
-- Practical expression: air water technology for the public, creeping unrest in the public, and future technology for the () public.
+Vernal Point specifies Uranus/Neptune through public experience of uncertainty, its release, and subtle or technical concerns. Dissolving tensions, creeping unrest and sudden weakness share this public setting with air-water technology and its refinement. Metaphysical interests, funerals and cemeteries form a separate communal range; technical change does not itself imply a death-related event. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Admetos`
 - Astronomicon formula: `W/¥ = ¦`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Old and out of date method. To be suppressed and hindered systematically. To be surrounded and crowded. To be in a tight spot.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Strengthen old knowledge, success through perseverance and patience, solidified success in old age, fundamental concentration on knowledge, trade losses through blockade, problems expansion through depression, mature knowledge through grtindlichkeit, and pain through blocked freedom
+- Source page: 363 (printed); PDF page: 180.
+
+Consolidating old knowledge, success through endurance and patience, consolidated success in old age, thorough concentration on knowledge, trade losses through blockade, expansion of problems through depression, mature knowledge through thoroughness, pain through blocked freedom.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Systematic restriction and blocked freedom alongside knowledge consolidated through patience.
+- Psychology: Perseverance and thorough concentration; depression is named in ABC.
+- Body/health: ABC names depression and pain through blocked freedom as historical associations, not clinical findings.
+- Social/relationship: Being crowded, suppressed, or hindered systematically.
+- Events/manifestations: Outdated methods, trade losses through blockade, and expanding problems.
+- Conflicts/notes: ABC retains success through endurance as well as restriction; Witte stresses the obstructive side.
+
+## Contradictions
+
+ABC retains success through endurance as well as restriction; Witte stresses the obstructive side.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Admetos`: old and out of date method, to be suppressed and hindered systematically, to be surrounded and crowded.
-- Practical expression: strengthen old knowledge, success through perseverance, patience, solidified success in old age, and fundamental concentration on knowledge.
+In `Saturn/Apollon = Admetos`, Admetos specifies the pair through systematic hindrance and outdated method in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds blocked freedom and trade losses, but also knowledge consolidated through thoroughness and success through endurance. The range therefore includes both constriction and patient consolidation, without turning one into a promise of the other.
 
 ## Links
 

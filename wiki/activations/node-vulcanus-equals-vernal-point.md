@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Vernal Point Node Vulcanus](../triads/vernal-point-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 155 (one-based; exact row checked).
 
 General powerful connections. Strongly connected with public. To cause excitement in public.
 
@@ -42,13 +46,27 @@ General powerful connections. Strongly connected with public. To cause excitemen
 
 #### ABC Entry
 
+- Source page: 236 (printed); PDF page: 117 (one-based; exact row checked).
+
 encounter with violence in public, mediation of energy for the public, strong connection to the public, influence through public encounters, influential connections in public, and connection with public power
+
+## Comparative Schema
+
+- core meaning: power and influence operating through public connection.
+- psychology: public excitement is named without a full inner profile.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: strong or influential ties with the public and public power.
+- events/manifestations: public encounters, energy mediation for the public and encounters with violence in public.
+- conflicts/notes: Causing public excitement and meeting public violence are different possibilities; influence alone does not establish the latter.
+
+## Contradictions
+
+Causing public excitement and meeting public violence are different possibilities; influence alone does not establish the latter.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Vernal Point`: General powerful connections. Strongly connected with public. To cause excitement in public.
-- Practical focus: general powerful connections; also strongly connected with public.
+Vernal Point specifies `Node/Vulcanus` through the strength or influence of a connection in public life. The [Witte entry](#witte-entry) names strong public ties and causing excitement; the [ABC entry](#abc-entry) adds influence through public encounters, energy mediation and contact with public power. ABC also includes encounters with violence in public. The shared theme is force expressed through the wider public field, with excitement, influence and violence remaining different possible manifestations.
 
 ## Links
 

@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Chiron`
 - Astronomicon formula: `T/V = Chiron`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -33,15 +35,29 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
+
 #### Sandbach Entry
 
 To intuitively communicate in an uplifting expansive manner which imbues others with greater faith and optimism. This often happens in a hidden or subtle fash ion. Healing through the synthesizing and harmonizing of ideas.
 
+## Comparative Schema
+
+- core meaning: Uplifting communication through synthesis and harmony of ideas ([Sandbach](#sandbach-entry)).
+- psychology: Faith and optimism are supported through intuitive expression.
+- body/health: Sandbach uses healing language but specifies no bodily condition or treatment.
+- social/relationship: Others may be encouraged through indirect or subtle communication.
+- events/manifestations: Synthesizing and harmonizing ideas are the named means.
+- conflicts/notes: This single-source passage presents a potential process, not proof of a cure.
+
+## Contradictions
+
+Only Sandbach is represented. The entry joins encouragement with synthesizing ideas; its healing language does not establish a medical outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Chiron` heals the axis through subtle, uplifting communication.
-- Chart expression: encouraging ideas conveyed intuitively or indirectly, speech that restores faith and optimism, and healing that comes through harmonizing and synthesizing different perspectives.
+In `Mercury/Jupiter = Chiron`, Chiron specifies expansive communication through the harmonizing of ideas. The effect described is encouragement: others gain faith or optimism from communication that may be intuitive, hidden, or subtle. Sandbach calls this healing through synthesis; the passage identifies an intellectual and communicative process without specifying a bodily cure ([Sandbach](#sandbach-entry)).
 
 ## Links
 

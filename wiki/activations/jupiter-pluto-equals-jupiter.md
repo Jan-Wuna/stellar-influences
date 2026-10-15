@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Jupiter`
 - Astronomicon formula: `V/Z = V`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: printed source page 270, Jupiter/Pluto With Itself, Jupiter paragraph; retained printed-page locator, not a newly verified PDF page.
+
 An awareness of underlying conditions which need correcting or adjustment; opportunities to reverse practices which have held you back or which have been a burden; opportunities to correct extreme biases or beliefs.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Recognizing underlying conditions needing correction or adjustment.
+- psychology: Awareness of extreme biases or beliefs and burdensome habits.
+- body/health: No bodily condition is stated.
+- social/relationship: The entry does not specify a relationship role.
+- events/manifestations: Opportunities to reverse practices that have restricted progress.
+- conflicts/notes: Single-source repeated-factor orientation; recognition of an opportunity does not establish that a correction has occurred.
 
 ## Contradictions
 
-- None recorded yet.
+The entry is internally consistent about opportunities for correction. It provides no competing source account or claim that awareness automatically changes a practice.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Jupiter`: An awareness of underlying conditions which need correcting or adjustment; opportunities to reverse practices which have held one back or which have been a burden; opportunities to correct extreme biases or beliefs.
+With Jupiter repeated in `Jupiter/Pluto = Jupiter`, the [Munkasey entry](#munkasey-entry) turns attention toward the conditions beneath a problem. Growth can take the form of recognizing a burdensome practice or an extreme belief and finding an opportunity to correct it. The emphasis is on revision and adjustment rather than a guarantee of expansion. This is the specific repeated Jupiter paragraph, with its source wording kept separate from the synthesis.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
-- [Jupiter](../factors/jupiter.md)
 - [Jupiter/Pluto](../axes/jupiter-pluto.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Hades Vulcanus`
 - Astronomicon triad-set: `Q ¢ §`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Hades/Vulcanus = Venus](../activations/hades-vulcanus-equals-venus.md)
-- [Venus/Hades = Vulcanus](../activations/venus-hades-equals-vulcanus.md)
-- [Venus/Vulcanus = Hades](../activations/venus-vulcanus-equals-hades.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Hades/Vulcanus](../axes/hades-vulcanus.md) | Venus | [Hades/Vulcanus = Venus](../activations/hades-vulcanus-equals-venus.md) |
+| [Venus/Hades](../axes/venus-hades.md) | Vulcanus | [Venus/Hades = Vulcanus](../activations/venus-hades-equals-vulcanus.md) |
+| [Venus/Vulcanus](../axes/venus-vulcanus.md) | Hades | [Venus/Vulcanus = Hades](../activations/venus-vulcanus-equals-hades.md) |
 
 ## Source Coverage
 
-- `Hades/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `285`
-- `Hades/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `446`
-- `Venus/Hades = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
-- `Venus/Hades = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `285`
-- `Venus/Vulcanus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `295`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Hades/Vulcanus = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-vulcanus-equals-venus.md#witte-entry), one-based PDF entry-start p. `285`.
+- `Hades/Vulcanus = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-vulcanus-equals-venus.md#abc-entry), printed p. `446`.
+- `Venus/Hades = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-hades-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `183`.
+- `Venus/Hades = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-hades-equals-vulcanus.md#abc-entry), printed p. `285`.
+- `Venus/Vulcanus = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-vulcanus-equals-hades.md#witte-entry), one-based PDF entry-start p. `188`.
+- `Venus/Vulcanus = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-vulcanus-equals-hades.md#abc-entry), printed p. `295`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus = Venus`: unpleasant writings or news, and reports of immediate threat or violent acts.
-- `Venus/Hades = Vulcanus`: performing dangerous services.
-- `Venus/Vulcanus = Hades`: great sense of family.
+The `Venus Hades Vulcanus` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

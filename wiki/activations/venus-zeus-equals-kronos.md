@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Zeus Kronos](../triads/venus-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Selective breeding. Harmonious work promoted by the state.
 
@@ -42,13 +46,27 @@ Selective breeding. Harmonious work promoted by the state.
 
 #### ABC Entry
 
-Beginning of a great love, special love witness, dominating arts performances, peaceful state leadership, great peace efforts, self governing arts direction, state services for the arts, supreme harmony design, and preference for great achievements
+- Source page: 287; PDF page: 142 (one-based spread).
+
+Beginning of a great love, special procreation in love, dominant artistic achievements, peaceful state leadership, great peace efforts, independent artistic direction, state services for art, superior shaping of harmony, and preference for great achievements
+
+## Comparative Schema
+
+- core meaning: Devoted creation or harmony-seeking effort connected with authority.
+- psychology: Preference for great achievement and independent artistic direction.
+- body/health: Selective breeding and special procreation are historical source doctrine, not guidance.
+- social/relationship: Beginning a great love is an ABC example.
+- events/manifestations: State-promoted harmonious work, peaceful state leadership, and public support for art.
+- conflicts/notes: Selective breeding and superior are attributed historical terminology, not endorsed evaluations.
+
+## Contradictions
+
+State promotion and independent artistic direction are distinct settings. The entries do not establish that authority guarantees harmony.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Kronos`: selective breeding.
-- Practical expression: beginning of a great love, special love witness, dominating arts performances, peaceful state leadership, and great peace efforts.
+In `Venus/Zeus = Kronos`, Kronos specifies the pair through authority, recognized achievement, or direction in creative work. The [Witte entry](#witte-entry) names harmonious work promoted by the state, while the [ABC entry](#abc-entry) adds peaceful leadership, state support for art, and independent artistic direction. Great love and procreative examples remain part of the source range. Witte's selective-breeding phrase is retained as historical doctrine and does not provide a norm for evaluating people.
 
 ## Links
 

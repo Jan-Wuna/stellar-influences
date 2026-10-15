@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Mercury`
 - Astronomicon formula: `W/Asc = T`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be occupied with thoughts of separation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Serious partner language, patient language in the environment, inhibited young partner, local traffic, youth problems in the area, discussing problems with others, disturbances by the youth of a place, and environmental tasks for the youth
+- Source page: 114 (printed); PDF page: 56.
+
+Serious conversations with a partner, patient conversations in the environment, an inhibited young partner, disturbed local transport, youth problems in the surroundings, discussing problems with others, disturbances through the youth of a place, environmental tasks for youth.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 260 (printed); PDF page: 262; entry code: 0917.
 
 The influence of the environment upon one's way of thinking, the misfortune to get into trouble through others, change of environment, a trip.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 94 (exact entry text checked; chapter begins on PDF page 94).
 
 One’s ideas are presented in a serious, organized manner, though may be ill- received by people if you have a lack of confidence in yourself.
 
@@ -70,22 +82,23 @@ Developing a shrewd mind and becoming a better analyst; increased ability to cor
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Serious thought and organized communication are influenced by the environment.
+- Psychology: Concentration, analytical ability, and confidence-dependent reception of ideas.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: Patient conversation about problems, or trouble through others.
+- Events/manifestations: Thoughts of separation, changed surroundings, travel, and local transport or youth problems.
+- Conflicts/notes: Analytical skill and poorly received ideas can coexist; reception is not a direct measure of knowledge.
 
 ## Contradictions
 
-- None recorded yet.
+Analytical skill and poorly received ideas can coexist; reception is not a direct measure of knowledge.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Mercury`: thoughtful reserve, strategic communication, and the ability to present seriousness through words and judgment. Main caution: constriction: worry, hesitation, or overly controlled speech can reinforce distance and social stiffness.
+In `Saturn/Asc = Mercury`, Mercury specifies the pair through the interplay between serious thinking and one's surroundings. [Sandbach](#sandbach-entry) describes organized presentation whose reception can suffer through low confidence, while [Munkasey](#munkasey-entry) adds strong analysis and articulation with facts or numbers. The [ABC entry](#abc-entry) makes conversation with others a concrete setting.
+
+The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) also retain thoughts of separation, environmental influence on thinking, travel, and trouble through others. These situational meanings do not establish that reserve or analytical ability necessarily creates social distance.
 
 ## Links
 

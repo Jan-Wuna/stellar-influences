@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Moon Uranus`
 - Astronomicon triad-set: `VP R X`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Moon/Uranus = Vernal Point](../activations/moon-uranus-equals-vernal-point.md)
-- [Vernal Point/Moon = Uranus](../activations/vernal-point-moon-equals-uranus.md)
-- [Vernal Point/Uranus = Moon](../activations/vernal-point-uranus-equals-moon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Moon/Uranus](../axes/moon-uranus.md) | Vernal Point | [Moon/Uranus = Vernal Point](../activations/moon-uranus-equals-vernal-point.md) |
+| [Vernal Point/Moon](../axes/vernal-point-moon.md) | Uranus | [Vernal Point/Moon = Uranus](../activations/vernal-point-moon-equals-uranus.md) |
+| [Vernal Point/Uranus](../axes/vernal-point-uranus.md) | Moon | [Vernal Point/Uranus = Moon](../activations/vernal-point-uranus-equals-moon.md) |
 
 ## Source Coverage
 
-- `Moon/Uranus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `186`
-- `Vernal Point/Moon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
-- `Vernal Point/Moon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `25`
-- `Vernal Point/Uranus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
-- `Vernal Point/Uranus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `38`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Moon/Uranus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `127`
+- `Moon/Uranus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `186`
+- `Vernal Point/Moon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `38`
+- `Vernal Point/Moon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, printed page `25`
+- `Vernal Point/Uranus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `45`
+- `Vernal Point/Uranus = Moon`: Udo Rudolph - ABC for Planetary Pictures, printed page `38`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Uranus = Vernal Point`: This activation externalizes `Moon/Uranus` into general surprise, public rebellion, and eventful collective hours. It shows emotional tension becoming visible in the common field, where unrest is shared, public, and hard to ignore.
-- `Vernal Point/Moon = Uranus`: This formula emphasizes irritability, neurotic woman (intensely excited), a nervous stomach, and uproar of the population.
-- `Vernal Point/Uranus = Moon`: This formula emphasizes excited or eccentric women in public, uproar of the population, and the populace is in danger.
+The set links [Moon/Uranus = Vernal Point](../activations/moon-uranus-equals-vernal-point.md), [Vernal Point/Moon = Uranus](../activations/vernal-point-moon-equals-uranus.md), and [Vernal Point/Uranus = Moon](../activations/vernal-point-uranus-equals-moon.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

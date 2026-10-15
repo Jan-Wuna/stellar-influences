@@ -1,0 +1,1866 @@
+{
+  "verifier": "/root/activation_review_084_088",
+  "candidate_universe": 97,
+  "accepted": 97,
+  "held": 0,
+  "unreviewed": 0,
+  "validation": {
+    "candidate_universe": 97,
+    "strict_allowance_schema_objects": 97,
+    "source_hash_bindings": "passed for all exported allowances",
+    "unique_owner_records": 97,
+    "owner_record_bindings": "passed",
+    "proof_inventory": 15,
+    "proof_hash_bindings": "passed",
+    "unreviewed": 0,
+    "errors": [],
+    "owned_artifact_whitespace_check_exit": 0,
+    "pending_final_rebind_check": false
+  },
+  "hash_rule": "Exact validate_review.py source_section() extractor: LF-normalized captured Source Entries body excludes heading; strip terminal next-section anchors; .strip(); UTF-8 SHA256.",
+  "scope": "Independent source integrity of changed blocks and all new references; complete before/current source sections and full unique owner record for every path. No samples, parser-only proof, wiki edits, ledger edits, or global approval writes.",
+  "raw_sources": [
+    {
+      "source": "Udo Rudolph ABC",
+      "pages": "PDF211 printed424–425; PDF214 printed430–431; PDF215 printed432–433; PDF220 printed442–443; PDF221 printed444–445",
+      "inspection": "All exact relevant activator rows, full German clauses and boundaries personally viewed."
+    },
+    {
+      "source": "Witte, Rudolph & Lefeldt",
+      "pages": "PDF265–267;270 printed274;271 printed275;272 printed276;280 printed284;281 printed285;282 and duplicate284",
+      "inspection": "All exact relevant full English rows, glyphs, continuations, and new locators personally viewed."
+    }
+  ],
+  "proof_inventory": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+      "sha256": "d10424d7bd9d150863a1e607a340391081f4b0b25cc81974339b0a39230cb93d",
+      "bytes": 473436
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+      "sha256": "aa4b4769f21058202d4792e43ce44e81c06fe83574210b3392ceb6c34c7c7875",
+      "bytes": 472330
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+      "sha256": "8b9263e8abcf52735c79031467c5ee8e14d496aeacdfb5d7b4706db8fa460fab",
+      "bytes": 462398
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+      "sha256": "cf35e7ae75094c19d1c63e3cc94c766d95eb2cb318a0136833d49f5ee33e676a",
+      "bytes": 447227
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+      "sha256": "200514980550a32bef47ee1c948316d9d10a522e795cd1d563b86649a03bb232",
+      "bytes": 482742
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png",
+      "sha256": "9145e68efbd50d366e06bfe3c0de1d8f3677fed91c2bcded325d6f9b93f6baee",
+      "bytes": 201444
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png",
+      "sha256": "dd9904450790970e9199e39a07ef34e6b971fb0d0a6a074a291c427968d50953",
+      "bytes": 216322
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png",
+      "sha256": "4122beb892e742ee40a10ff5cb479c882a49ebfd975325a2a11e5cb0f978f32e",
+      "bytes": 192600
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png",
+      "sha256": "12bc25e8fb14acb0729104b41e721585f2dfbf39b1a58eec375be2e93616f2a4",
+      "bytes": 205830
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png",
+      "sha256": "ca248d03a7800353dfc79f4a56f5cd3cbfd3ce60a59bbeee815bd24bff67121e",
+      "bytes": 197125
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf272.png",
+      "sha256": "6db284e7a310638aaeb18a3a6c3e1f2dc9adfb18d221313fa87c2a8cc623384e",
+      "bytes": 372351
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+      "sha256": "2aa53561d3170cd0ace99b9a984169b118f4fda5f23891803351a400c415cc16",
+      "bytes": 351511
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png",
+      "sha256": "1a2f8c09b8ea24a3f4f81371cd5acbf36a43418e676bc847247c54da6b0a4cde",
+      "bytes": 273566
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png",
+      "sha256": "f81d72069fe3fa0aa75442eca6b0e86232ff78034acd227a5093f4782d559ed9",
+      "bytes": 431464
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+      "sha256": "73d8ba138e733f54847406a44f56203b0123ca1f53fd4d2b6f80a83dd6df2ff1",
+      "bytes": 596530
+    }
+  ],
+  "paths": [
+    {
+      "path": "wiki/activations/cupido-admetos-equals-apollon.md",
+      "before_sha256": "49827385229f6d95a59f5a1995977eea9afc64d26b17a103b92280297dace5d1",
+      "after_sha256": "f6ed6ad8e7ce5d39c04d5a1b7e65e50cc796a2dd1ae384e3d81328e99d42febc",
+      "current_page_sha256": "4815f44a961fb3529f21efb62552da0922ff7bfa55271d720f67ef1a10a2cbaa",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 38,
+      "owner_record_sha256": "c21b6914cb738b81138798990629c3c760914c12f97817072d8135d2d1abe653",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf272.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-asc.md",
+      "before_sha256": "2dc5ddee52fecfacafe963d3a1a37413f1e587623cf49093b4fb901b95613701",
+      "after_sha256": "470e84b7c7f137d7231b28b6162f0f6b1bb86bbe1b88b65b20bcd86ec11f73e3",
+      "current_page_sha256": "69d6697ab0f5acaa27399e9c6acd48de1cfa3bb6bf8b75f66fc210cafbe67901",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 39,
+      "owner_record_sha256": "f58bf73e365861a95fb6052149e1702e60e785b2a451c721bd7fd7323c071a29",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-hades.md",
+      "before_sha256": "dec493cfd0de77552ac5bad3198c51e2520057a5732908c2cafb19e23b1cb6b6",
+      "after_sha256": "3870e4878ba6cde1bd208315ac8e9e83b90ce2c088d5caab88407458dbff5a5e",
+      "current_page_sha256": "d54117734006de4729bcbd949965414a46ae38ea22ce86aadeb661f526aafc70",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 40,
+      "owner_record_sha256": "56eb73e4f522996e7941ccdb3917149d21a0427bf19590c7e69dc8b12aee19a2",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-jupiter.md",
+      "before_sha256": "c90a2bc4050029e2b6bfcff50b962c88c68dd14a3d8bdf0ba306ea304fc03520",
+      "after_sha256": "708b39fe4298ae2cb63c35912a4c1f67626fe9827367d13b176ae1f67caa5517",
+      "current_page_sha256": "df466cd2efcf28431e02d9082fbe937262cf67796af8715d8db761ce8ae17953",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 41,
+      "owner_record_sha256": "91edc46616adce069a224a472082015533c03f526cdd293e3b43b03acb3011d7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-kronos.md",
+      "before_sha256": "2dc731bd09f434c12faa33a3fc8c52ecd64d21a1362d336414f8b4811fa97762",
+      "after_sha256": "96fca543b1ebb9731dd3937554507858f05cff8e7c52f3683e2c197dae57d740",
+      "current_page_sha256": "1b6937025b0c41e5c08dcccd78f03098c4fb3ad3a18f9920394ea6324dff556a",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 42,
+      "owner_record_sha256": "458e35e29754a66eb494fa9a347b1d3c59036c8b23164a4da635410a3798d7e3",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf272.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mars.md",
+      "before_sha256": "82df6850155caf4863bf834f02a5345dfc1e6189a064f42971e7ddc4a09e96b8",
+      "after_sha256": "60b013edb2969e6fcdc8d8f5d1b05e62b52584811bd5478bd3375e2e511ec89c",
+      "current_page_sha256": "93ea2975a159e09d2effb89d0ef65e5aec49517fd57285463e7a4845ed7d76cb",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 43,
+      "owner_record_sha256": "a48a55ace9c366c859f728e4280d02acc8643de8924f021ecfce016647bbf22c",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-mc.md",
+      "before_sha256": "5faf2ee55cbc0c2fad455504d8b8d1e1d5a2d4ba8a4fc094336912e4d38a72df",
+      "after_sha256": "7dc99841343bfd3b1ab43e6ae69a044468e88a5c54ae3f38332d55f87e0aa560",
+      "current_page_sha256": "e63176d7f55dd8c22455bb4b41de30bbee8c492833f70ba5d073627a9d5c9fe7",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 44,
+      "owner_record_sha256": "6b66b983d2b944f99885c0e991e625aa21fc63cb3a507cda4c9c8d56eefc4d58",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-moon.md",
+      "before_sha256": "a68cbbeb3ab1db39560e4e04b60aaa11e4ae48397c3f83138d81b7a625dc36e1",
+      "after_sha256": "2b61ea9f5c237dbf0a209a8014463509fa6e12165626cba8aa041a9d0f0954fc",
+      "current_page_sha256": "06e87b52118c1aa1640ae7f9d433a36e164ffbb89cde66d15de9c1798c83c500",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 45,
+      "owner_record_sha256": "c1adec3d35b8a1934e8e48f9acf41a9ffae7928877fd3eb210bf111d2e239a6f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-node.md",
+      "before_sha256": "5dba09ad3d260d4ede0e90cd26dec444cd367059566993ce6cbaf847ece0a6b6",
+      "after_sha256": "58e1800acc37c5a3bb5a2fd09da9aa2813cf9e6f15277217c215b794c2eb0420",
+      "current_page_sha256": "07382ae453ce5fa65ce7a0286139b8e7fcd53969833b1a2891f3fbaa1c736aa2",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 46,
+      "owner_record_sha256": "78163b8344548e6aed75d1095695e7ba83aead310fa40fcc7133557d35cebc6a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-pluto.md",
+      "before_sha256": "48d6c3dded8b0686ad76f49addbe83239585eeedb8aae15e315f3ebd2449ba37",
+      "after_sha256": "a14ad5abc6e47d69104e3b8a0431473b86ed6f85e958b613054f4adad1e3f788",
+      "current_page_sha256": "253b1ccd2641c06402faf0a5ea0ab05b02a82e58421f14dfc113c46f25de2ccf",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "d8dda0139c17cbfd46f36d113510e5f72d8ff7c78463c2d61a2e96f10abaedcd",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-poseidon.md",
+      "before_sha256": "827807819e4b5d53da8c76c5157188bc0e219044af6f0e6d57f7f5d25b1c386a",
+      "after_sha256": "d9e25991b30396fa863a42829eeccbc1b82801eaf577994db7ea86a0e17942c4",
+      "current_page_sha256": "fbaf11fa5b3b218577b94f8671e1186bd538ebc0a5356866e47acb655c4f121f",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 48,
+      "owner_record_sha256": "95e5b563081fde2332cefdc674f863a110a3bc4bfaf119c2cd4d65ba9e62a81f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf272.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-saturn.md",
+      "before_sha256": "9175f7a7e8983744781a8042569f3777e099fe9738d677b715171e8f8c521f4c",
+      "after_sha256": "9b915371ab07abbff4f259e819c1948ee73b0974a28dd59c9522787574366eca",
+      "current_page_sha256": "2f7c7b02e3076aad49e41ea4b08539110c7345fecc1d8c72573fddb19fb8312c",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 49,
+      "owner_record_sha256": "36cf7f5866bfc338149d90f39780205c037d8b7d3f25beff4d565d37d40cc2c4",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-sun.md",
+      "before_sha256": "b0b94bd8c5686f44b4208e24d4668a153d5fe589156fce3b816f6e49477ac2bd",
+      "after_sha256": "373033e725c952c01868b1cc576d9f8d8ba8b621792a124fdd8e2666a94d847a",
+      "current_page_sha256": "00a6ecba5b833805d30340c23ca86bd132f4bd73b4f2a886403385ac3f631797",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 50,
+      "owner_record_sha256": "4a1aeeacbbf8a500f12080fd08a6922aa5e2077e218b24ea5203e6b653842863",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-uranus.md",
+      "before_sha256": "ebd3386e7f2f218d4097efe833c3fc5cebe8722bef79faa54868a26528219d97",
+      "after_sha256": "3844da5592b58720d5921ff1d160bef375bbedf858f61856027d3b3dfdf05b9c",
+      "current_page_sha256": "2bb85139abbdeef9221958f35d6a5201eea67197f90318616abfabde6376f074",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 51,
+      "owner_record_sha256": "8a696ee252cc1bf9582aee60f8bcf27226d282bc0fc1e59a89d7f986c719787a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-venus.md",
+      "before_sha256": "f1decca5c9741eeab4142aa1ad7ecd6f1919ebccc08778f2b1327a7b5a8be21b",
+      "after_sha256": "6eeb972d646d473c0ed2b5c2d0737e4dbc6b53922d6a9bfde729dd165a152424",
+      "current_page_sha256": "6362410431b1c0b84f23af39715cc136ba2b69818986787bc6437e8c95199bfc",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 52,
+      "owner_record_sha256": "a4a42d059a220987ba2e3a4cea4d7b27f7a959d013800b872e32bb6e330c5fef",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-vernal-point.md",
+      "before_sha256": "34bcbf9f9d67ab301bb335af457433b4ccf9a5dd685650b7a3a2777ef1af59b9",
+      "after_sha256": "5008cd69ad37a1897f0c4e31711ef844c1d083b02f7777df3bf86f4913937627",
+      "current_page_sha256": "37ecb6a27b0618a2378663e20b48854d0a23f7d70a8efc16f495aefd96b70df0",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 53,
+      "owner_record_sha256": "359522aceb893c0bb12d8ab25778064f30c4505ef9bf2f1ba77a43f77c9e3c0f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-vulcanus.md",
+      "before_sha256": "a1be7bdc343f615912fefdd902304aeb86764573a13afe9e5e1f996d324daca2",
+      "after_sha256": "c6f3fd766deb3792f6cb9b8129ffb0f06f9b284aae3991af887d11579703fdb4",
+      "current_page_sha256": "5e02125986438c696c7260980e75939a3b8c33069164e0ffe9ee4900ac4bd360",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 54,
+      "owner_record_sha256": "f1f04a75ae8011256cf241cb2185f6fac590676344d03b6a6341920edf1a792e",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf272.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-zeus.md",
+      "before_sha256": "b51c80fcd9a5a12f97b7023273cfe5934671c747a477cd1ed51eb52ca89a246a",
+      "after_sha256": "6afefb4de873b9eb74df0bd253d95a9d33a96019829694ca0998913de401b1e0",
+      "current_page_sha256": "ec62b4a48ef35af0dc13494e2216ce3ea762305caea4ebb09b1ff45510e80048",
+      "owner_count": 1,
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 55,
+      "owner_record_sha256": "125ed11563fcfa2abadf137cadc2511d8177b00d248a90fd619bf540c00a917b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both source bodies and unique owning record read in full. ABC printed432–433/PDF215 complete glyph row checked; Witte PDF271 printed275 or PDF272 printed276 exact row and new locator checked. Endurance, consolidation, suppression, gründlich, communal law and Zeus achievements are faithfully restored; unchanged bounded inherited wording remains unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf215.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf271.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-admetos.md",
+      "before_sha256": "9b27ea7f8379c0c1b903b5fe545c7dfc1deca68b296522f4cde54a33c95faa55",
+      "after_sha256": "651ea3ad170ab7a168c006775890a30497d3d5ac42a516482f31fb262fdc2e4d",
+      "current_page_sha256": "c936fdd5eb96d05c9f16abfec7d838fc2e52b80385342e703db0c8961e67e1dc",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 5,
+      "owner_record_sha256": "5cbf2ff657d4e2e2eb4fca8a48ea7faa8e253263b3a64879aaff8e4b020b55f0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-asc.md",
+      "before_sha256": "db8367a58bf8b328c0d4af6716f26107f12e6b3b5050f9eb6a0e45ae35b05e96",
+      "after_sha256": "999babb67a4d6127286514af2dfaf2378cdd5232d376d90a36ce8324c47deceb",
+      "current_page_sha256": "79f0e31085fa53899fc93816303d67dd866dfa36a2ff2da3849f6110d38b3324",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 6,
+      "owner_record_sha256": "33fda6a1599abafbd701cfc8814668c171c2dc6c7e48a06754ab6190153e485b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-hades.md",
+      "before_sha256": "ed010f29566c028ec325455f7a0670f9ee8f3ef92fb047d9691b54ea81aee399",
+      "after_sha256": "aa1b923a2b8d7b223eafbb6fcd08962d0233841ddfca8740a1fec08cb2f83682",
+      "current_page_sha256": "ae8229b7fbae104e8b2fb9861d0dea9816a9b4753a6cbcb921f8f84800cd862b",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 7,
+      "owner_record_sha256": "7b2f7e7cc7535d98e273f58e273bc109ee3187b958ccc52748aade842705469a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-jupiter.md",
+      "before_sha256": "84944d0e6aa6e9869e7ac7784903dd02477eefa8a426722afbd712c926e32455",
+      "after_sha256": "7a627f68d15d345d66467a194903c6934d0a6612887f8959c3ac42aedcee3861",
+      "current_page_sha256": "2dd9cc4d9c10c26eeba6ee853031073ce85d15a429cbfbae4d28593e0b638880",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 8,
+      "owner_record_sha256": "0dae5207cf14452a37a2087f64804dd31ce778d9b23554ba0376bf3c348dc6e9",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-kronos.md",
+      "before_sha256": "e7aaab46842cf3dfab8d925ba224521854cf22615c52674450ddff6e16a8d1f7",
+      "after_sha256": "ea5bde3ee463fa5ba2387b36a4f91cf2b1028f63ce2dcfa6d1b8f900f70eddea",
+      "current_page_sha256": "977a871fb2463b50c00c348b27cf8dabed71261a72d67610da739ef44e1954f0",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 9,
+      "owner_record_sha256": "140389e3dd7e7b3c3a7b356892f30964442af5933cbeb91a38a403b5cba6ff7c",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mars.md",
+      "before_sha256": "b8b5dbb15abb10c4a871d1dacd59decb4a0ce12ed1215a0a310473781252843d",
+      "after_sha256": "49d9c7c99efce9c9025f08e575ff7a9b2e507f2a6e9aa5328aabc8b486815635",
+      "current_page_sha256": "1cd87feafa1e94392331e8e3bd1c033cac3be4c0cc770dfa9180801225c31268",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 10,
+      "owner_record_sha256": "505f123b10a34c73b5d26cd477aa092ec18ccbab0224264984388c0169078544",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mc.md",
+      "before_sha256": "c718feaf08258769e7c5f3ef8d724af15ed2732936b5f9ec6ca701baba8fef3f",
+      "after_sha256": "4e7197b30d0602c1a68ffde9b2f6d802e9c9a99da3b77aa12b8ee3073b08bbc2",
+      "current_page_sha256": "7fc551d2ca693f89033316ab822f3bd06f51ff956eb40a61eb649a7f497b06c7",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 11,
+      "owner_record_sha256": "1e3199f659416fba340094ead4d863ed3e279a2c9647903d33f1b11488e9b568",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-mercury.md",
+      "before_sha256": "f1ac6759d91930b8725f391e2c61a243cbfca337a8df679d0a903ee865bff7ab",
+      "after_sha256": "9824dcfc18ed2fae85019bd64a664c2e86361de6c43efeb00845197a28ee1704",
+      "current_page_sha256": "05aacf43e10dbcc2805e78d3fc385a5448a8c9694483fd83243f2ef2fbffd85a",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 12,
+      "owner_record_sha256": "c636b0ca0b2fb092a60a1b85ae394e1538faf9fd5284ad5ed815dafb0e45b894",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-moon.md",
+      "before_sha256": "3e5b9d26aefc033f3ba3b40b9bb7720bbd186bc656716893a2bc892e6e971390",
+      "after_sha256": "77c9ace3c53774892ea3f9d2cab99134c17d45f11ef113a74901aced68061d99",
+      "current_page_sha256": "645f66340cd801ab8cfa759040a0115718ef6c4aee0a2255578288d1449c633b",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 13,
+      "owner_record_sha256": "c3683fd717699c32364928901b0b98bd727f1eb61c15bc58b0c61f827d0d4972",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-node.md",
+      "before_sha256": "21aa23722c220e95b18252300148f26b40d5b56776c94bd4ab35d421a713269a",
+      "after_sha256": "3267772fade36f10840af516f06840f5ae682871bfd9d289466207187088d310",
+      "current_page_sha256": "09acc15bd29c9b302d7adaec42f481304768d72e5a980ef0602e4cfdfd9d9bfc",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 14,
+      "owner_record_sha256": "c53be19729724b0d001b7991e3f14b96c9b66f87ca8c8dc89a0b19285d8e2f36",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-pluto.md",
+      "before_sha256": "70fb632eeab80ed0f0cf40365221508e15c9fe0a0856a6233dd9cf6b3636818d",
+      "after_sha256": "6ff9e3ebf91a8c320aae997d2b251b6b8c3bfdee935f35fc5f76a43c50091a74",
+      "current_page_sha256": "8498c0967c784223a4db2bfa3bc65c3b652b6b6bd35560f463112202067af06b",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 15,
+      "owner_record_sha256": "0dc35117ef3e0917db6ff194127abfec6cb51635cf668a6f28b00ddbdb78ddef",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Full baseline/current source bodies and unique owner record independently read; actual ABC214 printed431 complete Pluto row and Witte270 printed274 glyph row personally viewed. Root removed alternate Pluto display glyph P; owner060062 amended original009 row. Fresh full source section and entire saved amended record reread, raw glyph scan viewed again. Current source SHA256 6ff9e3ebf91a8c320aae997d2b251b6b8c3bfdee935f35fc5f76a43c50091a74 and owner record SHA256 0dc35117ef3e0917db6ff194127abfec6cb51635cf668a6f28b00ddbdb78ddef rebound.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-poseidon.md",
+      "before_sha256": "6887b8f2125ef021a3b9182bee54e4ff59fe86d7d18134c4c624e9790a6cdc36",
+      "after_sha256": "69ab8614de90513ce98e03c018778a4e652853d64563a2faea40a09d1ab5ac12",
+      "current_page_sha256": "5f8786d82759bfbb366dc4bac6e87aa0ddb5f5cb5ab77ee7a868d394f3117a23",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 16,
+      "owner_record_sha256": "6679f2effdb119efc734305545de00cf4b25170f569d9b0406507fb619c7da04",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-saturn.md",
+      "before_sha256": "6e5a8f2a19b9985df03433339c09b6878286f8084edc26b273a0e0083518f6d3",
+      "after_sha256": "8e135b1c55b4a0e67c4a07c557ac00a85715795741b8424eb0faf26f8682f4b3",
+      "current_page_sha256": "36582bf82ea6f6e1e4ecb8d0339334d061b5b6708dc3fe0d5853c826a94d49d1",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 17,
+      "owner_record_sha256": "022dbcbc719a8dca3bcbb28452fb1c38f1a9b6ebd2a15b181e66d3ac347a1360",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-sun.md",
+      "before_sha256": "a3f91256c261a5e9be76dd010a37b3520fe4fd3a541a776db773a3bb57e677be",
+      "after_sha256": "c3fd8ae06786aaf99e0d78ab68a8413d4fd5eaa07624baac37b31d30f5639fe4",
+      "current_page_sha256": "71d07e0d143bbd5aed2ee8aea1729185246f0f9588e849c0ee05ac09f6df9302",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 18,
+      "owner_record_sha256": "49855327ba8d85b98fdfb18b6ea79d6b1e409db3baa6da15e8388702284fe817",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-uranus.md",
+      "before_sha256": "0eba3a46ba342194a1238a91e18683d851487810bc33abc59dd29c1188a85f29",
+      "after_sha256": "2745ec1187bda8d8e998ed45f2ce9f8f647b663c350648a355989a02f2a8b945",
+      "current_page_sha256": "93fe4127f41c5892089445c2bd29cb0cfa6545718f1254b32f9efa2fc0271f54",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 19,
+      "owner_record_sha256": "52fb39d4e4236c34b34403bc3ea1c6cdabe0151ca750934c3d668dbdbccd8300",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-venus.md",
+      "before_sha256": "e82eb30dd7a560656629536a3a554d6557b8ea6f5d9e66f68ed371bccc6f5491",
+      "after_sha256": "30e1ee2bd1fe40b29204669a5dc6556ce8ef848335cbbbec50acdd664866b426",
+      "current_page_sha256": "97172f6a67d0ae0372c1d54fa5451a401fed574cf862c7a5e16e3475b83650a1",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 20,
+      "owner_record_sha256": "ac2ed07986daff2216a1e2e044d2ece5bbaa488628ac65d3b64fb2af2f4f609b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-vernal-point.md",
+      "before_sha256": "81091f69ba2cd270482ddbf09e299ea77331cd83e0221607ea31d03b8cd1f173",
+      "after_sha256": "598e04b67dadf84d0b494948edb2d33b15a0ee32701b4b285a0c11fef4e2eb52",
+      "current_page_sha256": "5f117766a49606679aadcd1bb4c592c92e9918011c8ac45efef7a56f3c7af8bd",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 21,
+      "owner_record_sha256": "da82726df67afbfe4ca45472a251f6fa1eb9639a86c43bf0a084fe30cb240f49",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-vulcanus.md",
+      "before_sha256": "0f7b77db9a6bae365194b9270d7d4993895c1d14382b92cf80a0e96bfb9b4eaf",
+      "after_sha256": "9477e794345349483527eca73e3e3453006efbc3f7068d6bb4ada311d11ad0f9",
+      "current_page_sha256": "9cecb21a3ee709dd7a283f95de1be028259ecde160105d87dc3301dad80aaf03",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 22,
+      "owner_record_sha256": "0e2e4bdfe9222db6790d0465b3e73ab35bce85e141990dc9258f1cc57df06395",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-apollon-equals-zeus.md",
+      "before_sha256": "0b32d228aa795be1921113c5ee7fd75ab767d658b20648adb7578c2a81405ebb",
+      "after_sha256": "6169dd8654f8eb55af7b1eff1534bca30a1a2c6395fac55460e5a8c90063075f",
+      "current_page_sha256": "52cb3a40faa9569a5382d61b322abced957215a0d891b3afc99db3ecaf659bad",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 23,
+      "owner_record_sha256": "fb052f33c4b2e4ffc8a56b705eb32fe00400fae70989277fc467dc12d4b2a6cc",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Both full source bodies and owner record independently read. ABC printed430–431/PDF214 exact row and Witte PDF270 printed274 row/locator visually checked. Art vs artificial, increase of money, leadership, shared inner experiences, seriousness and complete Pluto boundary are supported; source claims not conflated.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf214.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf270.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-admetos.md",
+      "before_sha256": "556b7ab9b9fd77ea4997f1fc12c20f2d722b078d73b9f10ef1ae67fccea7a076",
+      "after_sha256": "9693d663706173374812bc24df926421c7694d57361c3837cacc69e96ffbac23",
+      "current_page_sha256": "e794997692b5a3066c4d0bc64b449f02b2459ed30eb0d6b9babaa4f7b21999d2",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 24,
+      "owner_record_sha256": "21a9cd8980b16c37dc9e4fdb68693e2fe9a58b83e808a2872abc8e25825c34ed",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-apollon.md",
+      "before_sha256": "3d9f42edd18e4067ef5ddc83d59eeee06ad565f4c01689d2e5032d77ae2f541c",
+      "after_sha256": "e9e9f25f3599cc537f4a8c31589acfeaa703f11c4a42d0cd7609bcc1fa5cb342",
+      "current_page_sha256": "505e0523edbda029d60f98394dd97602ce72449b80ad9e01a479ebaed5f06634",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 25,
+      "owner_record_sha256": "81b279501503ebb4604921d6a5bf0b89b768f955396efd52a66bafbfa086233c",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-asc.md",
+      "before_sha256": "a455c8642b2695bf34bb1eb200afd03c064dc9b379f63a0d9a931d714dc84324",
+      "after_sha256": "d04a55270cbefade27c4a3de25641e8504fe6ce64042cb6e2f143b87cd43745e",
+      "current_page_sha256": "d1635326c353a4d89b4cc521b401cbedf97d3016364cdf835577136415d4d0b4",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 26,
+      "owner_record_sha256": "9230c328098d81a6e14a959d0471380c22936addd8d3b418e360cb2cc1580c61",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-hades.md",
+      "before_sha256": "82e78674b111545203ef9a8dd8e16eb5258fba77f58a4bc18400c8ed4dbbe461",
+      "after_sha256": "bea602945f1b5660e0ae09f5825fde320bfdfa53785f3ba122c65c842779afec",
+      "current_page_sha256": "818d4ef01d4868e962faa20f7d78057247e7a0f73fafc9f6c36b9130c523287e",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 27,
+      "owner_record_sha256": "917c88a73519b6790f6910a2864bd7ca3448a06aa298eff3aff3c538ef01d480",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-jupiter.md",
+      "before_sha256": "6232cd6ff1720e9063a120b925871d48d9191f43679cc73e5bf80cce939b20f5",
+      "after_sha256": "d2a8ccca6605fe6b77b72369df1119215a6f6069997ef2423bcf85d311c63eed",
+      "current_page_sha256": "006ef22184fcbb25a1be5d09be9e1eadfb6370ec68d2c8bb60cf28440b231254",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 28,
+      "owner_record_sha256": "52a86751eedba28ae92c41031d355e460ff56c9f051addb8e9af0679bb6c780d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-kronos.md",
+      "before_sha256": "2397e06ed394b9e05cfe28404b4759a4d9a30c55cf97091c8252a9a278174e51",
+      "after_sha256": "ebd351adb3c4c1fa21dd2ab41d534d705ba31ebcc8c56a842306431b8ad6b1a4",
+      "current_page_sha256": "c5c04c2cb29d812ac55d972a44471f4f76d9083740de4fb7be8364c25c0a232d",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 29,
+      "owner_record_sha256": "7f8d40d4a05efe3562c7649ab86afc8ab12253425e64aa33c661e76ddc116803",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mars.md",
+      "before_sha256": "5c71bc34ae7a0cde9131161a4ba6da34a4dd1930d9f78fe533d964ec78bb22b5",
+      "after_sha256": "3ce921f85633bf73176e6c273f2780fabdca3b14f95e0c5355287eaab82a717b",
+      "current_page_sha256": "f99890d7b1cd50a01594f93d1f791e9dd14b9bfe65ec10bfbb717a4e0eff4ceb",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 30,
+      "owner_record_sha256": "d545d66b2a163e32ee61f341748346d7622d2f437af31731adafa08ddea24722",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mc.md",
+      "before_sha256": "c2413dfa9f9f9bd115cbd8bf402bafc2e4240b6e81aebb2db76d5c4517af3084",
+      "after_sha256": "96fc67285b4bcc51af955a5be36383d9ad615f13e93c5a6ac6103af14fd8c4b0",
+      "current_page_sha256": "12eb72ffa28be8c0381b97381fd48e80d75243734ff61913c57c86173a3bb991",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 31,
+      "owner_record_sha256": "5148567d930d39b386ab4dc962ed9545a9dd16cb3d339c37e3fca5169a4ddedf",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-mercury.md",
+      "before_sha256": "c4a5567b4a16bf8d2603a62ed429375d690939ae36df170401c2f465adb4a1a5",
+      "after_sha256": "9fddd18584e1f9696f9da33241ed5731240ebe50ede06fb73c33bee261a63521",
+      "current_page_sha256": "0bd090aab960b2e7593844eb50f230c037490055242f6c8ea54d5c843bd50fc6",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 32,
+      "owner_record_sha256": "0969c548365f466b6445b2d6b0146cbe2147b1a46beb08e219444c76d5db0e9a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-moon.md",
+      "before_sha256": "b86a96ce134974b2723196a005359f333a61e82f2a85821109c4fed72836a08f",
+      "after_sha256": "4740262c8a86390d8f82996fce79c649f6a75fb37a21eaf1c64595c9be034b70",
+      "current_page_sha256": "93c55890a443528dd8b8fecb4c357044c7558374f43df15c9cd458c35d4ba51c",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 33,
+      "owner_record_sha256": "a07b85d26e799fdfb98d9b9e79bb53278216b52a24e5799a68aa663b453977ac",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-neptune.md",
+      "before_sha256": "6a2745eb5075ca84870322ab16f28e3cfe14e89e752cb0c82cdba31a57587595",
+      "after_sha256": "eab191e63136ee88aa049c8c13303befd6d635b32f702f0233eb4a46b4ddb9a0",
+      "current_page_sha256": "216a9dbd8893a070b99d8fcd112e12fab2f9cf3da872a176c268a4d608cbe8b8",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 34,
+      "owner_record_sha256": "94b374c0dfc4f04e642455a01b635b38523765ab7b43c1fb8317b084c88456ff",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-node.md",
+      "before_sha256": "8fe86036ab55ea5250dde252bc3d46314a76ebd5f384d5fb79a0076c56e14e87",
+      "after_sha256": "168a6319208717d07dd765e698154e5a1e37af46c2728019786694cb1b6c5e73",
+      "current_page_sha256": "d47ed8a1102a610c6568830accefaf82a9893d08f2d1a0b28d6b7c81ff597ff2",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 35,
+      "owner_record_sha256": "ae81ec22fbeb72a2017f9162be5a3f3b0a13a600351a7ecf54be1f1df69c2a4f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-pluto.md",
+      "before_sha256": "b75ac583226304fdc049810872099804ace84ba45292a93f9837c999727660cf",
+      "after_sha256": "8634c2591c34be918fc0777cad5f25cb8febe8e14ddc887a21773ecd6152d16a",
+      "current_page_sha256": "d9e99028b748d9b81f50b9e60045271f95337c43eb99ff9acadd39cdab8e5424",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 36,
+      "owner_record_sha256": "d0a2f3c96fc265478927a56c0ff1ac35f41b4e8d430a6fba873068ef8b68c4ae",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-poseidon.md",
+      "before_sha256": "75e03985ccc3a251aa87cb4d2bb49a9759cfaf6b0fe694bb4ead5c041466f58b",
+      "after_sha256": "697e39c75cc90ee6a8a29db889f9f94f8a593d85486da28ceefb190a2ed13cb8",
+      "current_page_sha256": "4e6b61e6ce8b0ce3c793913279e1c80c4fcf80c8238f1e1becbc536b71da1d23",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 37,
+      "owner_record_sha256": "05430f76e6094fb2e05085b080a3e1391f52f9f863bb6d94b9632ad90600de72",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-saturn.md",
+      "before_sha256": "9d8f4fe1cef17579decb456eea8681a24ec7842f7a4f7e523689321f083aa665",
+      "after_sha256": "e68502b23f6be53b7a50b102f947ed8b92f5bed9c53cc7399ad382c8414a0984",
+      "current_page_sha256": "2eb5436af33f49d58039d9f32512e9c6e8ece6b3efb375ca1d6a4e848f1d1605",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 38,
+      "owner_record_sha256": "b678911d5e1cf6dae5ec16b69f317f7639c1922a2873f58fb6d596430d72e9ca",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-sun.md",
+      "before_sha256": "04e83f36bb941e7b4acb1e63e983f2fab85401ba911c61284fb2d3b99301ef2a",
+      "after_sha256": "6b6684ffbee30bcac4f8f65d18fb716b418bf2a27a96a2b640f81717afc7e719",
+      "current_page_sha256": "9c503beddd6cc02cd60e171fdc771e0530fe07709830e7f76d4c6c58adc8e64c",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 39,
+      "owner_record_sha256": "6ed8cdc480076611f38dd29739d04f88cbcbe44b2dee9681dcbcf41175f28c81",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-uranus.md",
+      "before_sha256": "1a74c2fbda07510fb82b4918c312a51551b7c75323203888ec6d63f14b1838dd",
+      "after_sha256": "c6418e651f48fcc79afff2c52672c3d418a636aa52b8f3abd48b6e128ce90682",
+      "current_page_sha256": "bf8af4e12dfe4c3615d641db9a0f56534fad1193ca8a5f0e39d506c6360f72a9",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 40,
+      "owner_record_sha256": "8d3622fb0cb182d95fffdcb8e95d5fc6f43d9bcd33904c79d162e18ca9521e86",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-venus.md",
+      "before_sha256": "25f91e6a896ca5132cb585e8d699f63d01ef410783445b6b10e4eba4d48c4c5b",
+      "after_sha256": "a70a366c2ac9b9ee310144f3592c05f7fd13cec15f673213f2a30536427ce690",
+      "current_page_sha256": "16e229bda3d22094d4ac4d29d90b894416de27efb0e9726b2c726b51e786886b",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 41,
+      "owner_record_sha256": "a724a9b3ed5805acd271c09fa1a1a1d587ba7b7a29f025f90ce9a5e5dfdad218",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-vernal-point.md",
+      "before_sha256": "92d99c590a3e2c53ff7d65335685fe8edf20a9e91d8fafe077249e13c7d69abf",
+      "after_sha256": "22b00d7e6a0b2f265f99521ce95278e4c3e52125874edcd2614b40c4ed0b1062",
+      "current_page_sha256": "95b6b5543ac2709bb68c9728538cded3be3641f1cb08365ddda376f31a78a71a",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 42,
+      "owner_record_sha256": "5d4da99f6e4b5f7e200ab948e6a3109b351da2a2067ff87e055b71ae59fa612a",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF265 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf265.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-vulcanus.md",
+      "before_sha256": "a3dff8fc65ebb4d9d4592686098824e9bffc0d53868245eff5fe5eee1c3290df",
+      "after_sha256": "b4e396ba6f052d47a246533e7e372014e0a9113444cbb1b98276735ab87539b4",
+      "current_page_sha256": "aae2ff969c3cbc979413a89980c85071c4146fbba9e558e57e71d5f11e503ec9",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 43,
+      "owner_record_sha256": "edf9aafd9cb701e49386375c3df99d8f8bfcec37615f00c4e879a708cfd2db29",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-cupido-equals-zeus.md",
+      "before_sha256": "0fd93e40aff4ebd0c866c8d5865d21144d981eac0e15a287c73822fd1b640ed3",
+      "after_sha256": "25bdb322d7bd27605cc56c0fe246a8c86a06d6e31212406817feae6d72ac0acf",
+      "current_page_sha256": "974674e45e23ebf65fc7b8c3cac4e86d44fbee30310fb04373625c610b20a9b6",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 44,
+      "owner_record_sha256": "6dbb37920e5caa38410735553b342749c253ffbc9ed1ca602a91538d3a63c3e6",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source body and unique owner record independently read. Personally checked Witte PDF266 exact glyph row and new locator. Shifted Venus/Mars/Jupiter/Saturn/Uranus/Neptune rows and Moon/Node tail boundaries now match the actual scan; source heading attribution and retained complete clauses are supported.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf266.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-admetos.md",
+      "before_sha256": "b83b40f443e25d9d9f3cef0f66aecf031ce791fec80f8f075711ad6d13b20c85",
+      "after_sha256": "f5c18e65ab048765be7425431a7b9a8d4d1de9dbd7698c22e2c869a94751271b",
+      "current_page_sha256": "e469e55c882e715bba1e029e2c628cd2fc517638217cb800789256bcc993d16b",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 45,
+      "owner_record_sha256": "18f118492935b2618f49d297e685f1719890bc13089fa1a5bc307e00d5e750cd",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-apollon.md",
+      "before_sha256": "f6f0048132d173cfeb6c8bbba1ac4a79022323615ad1092577659d45772d1ac4",
+      "after_sha256": "02b8e1e9601d90a2a8f348f1c85e0bd6657223cb5a30fd0af375b7afd814070b",
+      "current_page_sha256": "56b0534c44812d26a4e3726651348e2de224b336776a5a45fbf14cfc2763d786",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 46,
+      "owner_record_sha256": "f7b86df951d45b463c4fb30655573eae0544fc3fdb0c0315ae230aa14ad5665d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-asc.md",
+      "before_sha256": "1a0f37f0c4d0dae2c870d7c879c122dc16d7d32ac5cee74c710fcbd2d5bd8ac5",
+      "after_sha256": "0a9c37d0206ce112b2798a3ddbb2d84e5b2da6ee3c6d34be46f541e797bb509b",
+      "current_page_sha256": "1e9ddd41672f8738cccbaae070f043a04ec416c35b0a41e87253bf92ff43aba0",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "952f8914f4315c368cb6974b1c9282bc0e356bfaec73c6b067811fb672e69d12",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-kronos.md",
+      "before_sha256": "0388daa3665eb71da771b619d082c6711670de49afa6cf8090af9caf6d61ef9d",
+      "after_sha256": "a29f245abbac45ef25391385114afa27e25eca53bd05c0eb7398fa939b76ac0a",
+      "current_page_sha256": "5bf7fc42aee777e67d6970774a13218e765837d6132556028325938dd736dd3e",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 48,
+      "owner_record_sha256": "6022c405efc15c01e2e05ea5ad4b9e6358a21b8ea9af93e78eb9f420361f1559",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-mercury.md",
+      "before_sha256": "0a7c9b1b4f978ea7ef4de9796ff8694735f661d06e9130b7dda4578d7d3cb418",
+      "after_sha256": "b52e897606cfe404312ddebb4aaf4623b24d26c557ccd216062a723ff7045e3e",
+      "current_page_sha256": "b693ebbe24116a474bbbd2074ea8b9dd4dd1f10d788f5729ad8a22794fb5b6b2",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 49,
+      "owner_record_sha256": "8b10fb3658694bbbb8ce8aff32c4d5de95d4d276d5c9d02aca92a567f6442cde",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-moon.md",
+      "before_sha256": "fe0505bbe9ca379ae098fd9e2766d001b20b1249ccc10e2a642bc432fe66f3c6",
+      "after_sha256": "14d361164afca2cbe366a4c3de442c0925d388105204c28d85fd1606a8c82e04",
+      "current_page_sha256": "0434993d24d9e9239fc3874c3ea3954b4e92d46487d117369f16f763bd3018d7",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 50,
+      "owner_record_sha256": "6b93acdd5dfe6873422d260482d9db4f18ebf1762a098fd15cf41e6110268653",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-neptune.md",
+      "before_sha256": "1739876a68e42214588ae68c2bebb0a35a78d52644c1e7f6fe4dde06d2a1630c",
+      "after_sha256": "2b3cea78e9968fbb1c3e04402a2c72508d00bb825c9f6f469cccfed437471301",
+      "current_page_sha256": "50da7bbe49fcb56bcb904dc938666244a08f55a47abd4fd076556bfee3f791da",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 51,
+      "owner_record_sha256": "6b0de86b55934940581f49651d9eb4033ae5b12d3b08661e32dd14b2ee9fae80",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-node.md",
+      "before_sha256": "cff791339f0a166073111ae9cdab2ee06127afd8ff5e11ab3133b3b1459736b5",
+      "after_sha256": "c3ab325f15e2eff0833f0f603a7692d293ddc1f587ee1b3f8f5acf8f481849c6",
+      "current_page_sha256": "0f6a39e1119b53153b23ba0b61e6c65ef83edaaf0ad8426fd2bfe7caaa1c2744",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 52,
+      "owner_record_sha256": "ef1043281c097417ff1ae9be5c783ea11795a5e4b2e630de9c4024ba2e887061",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-pluto.md",
+      "before_sha256": "84364271110866998a51890b5fc000fb3fcded9d0954edbc3c81b62052b6a93b",
+      "after_sha256": "ae879b2d1d7165f1636216abbf7d0c883189624f3a7baba06140837efddd59a0",
+      "current_page_sha256": "5e3e312d91dfd19fd6d10ebbd353532aa28ea69f44bf0c0504382f2dcf265e36",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 53,
+      "owner_record_sha256": "ac5f1fb17502aaeff14291e7881f43a2ca2ee60f968f4827a47a2a991b7a786b",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-poseidon.md",
+      "before_sha256": "d7cefaf783c7b8a21c552ac830dd9f6e28f50d14ac042c8be97fd9813f35c9c9",
+      "after_sha256": "f2a0f858a50e72213ec0cb5a4d46c300aa001e7eb85f3c1f29065eb0fd56da78",
+      "current_page_sha256": "b2c6e7cfd1cc42c5315be13a9a88780d4c0f121479c880e09e63932154dc35ac",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 54,
+      "owner_record_sha256": "c825497d070f34b2274a72c1989b5c2e7589781c47bbf508837dd3441f8224a1",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-saturn.md",
+      "before_sha256": "a579c6446181af66ef3b9480d21de099632c8ad02277d25c015b38cecb61db41",
+      "after_sha256": "6525764f95d437aa9066cd3d15ead0cf70feca0f38b1ec06a5d9e595a5772173",
+      "current_page_sha256": "242c488a33dbae2368fedab5c10a93380fdcd2b97b63813d9d8893ec2381037f",
+      "owner_count": 1,
+      "ledger": "activations-009.jsonl",
+      "ledger_line": 55,
+      "owner_record_sha256": "59a7a73a558e2bda04389149f860c5fbc86db03cfb3ca282cf36491e76f02ab3",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete before/current source sections and unique owner record read. ABC printed424–425/PDF211 exact activator row and Witte PDF267 row visually checked, including new references. Replaced policy artifacts, old-art/endangered-community wording, renunciation, change and sorrowful repairs match actual raw clauses; retained historical terms remain source-attributed.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf211.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf267.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-mc.md",
+      "before_sha256": "194b68fefcedcca7fcbc424f141181be28fa1d99750658c7c048c064d11def61",
+      "after_sha256": "4fc41a56c4835aefeeda456cbe65348be38a228649a87caa0de5298043395bbd",
+      "current_page_sha256": "dd22612ac2c6c983fdcc1fb7e646cd5deb75117973d1fc9a1e1096ea59a7fbe2",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 40,
+      "owner_record_sha256": "394d0ca5646d9f30b0d9db48df5084ce920f8df65fd15433b9993a8cb090aa13",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-neptune.md",
+      "before_sha256": "a6bd29ee6dc4da68da9c7dda85402ddf23ef98bfbf25bce6e1b0f93a3bbd4283",
+      "after_sha256": "379108fd9da396314db1358964949ba51606928bb4d35486613b772d9352774d",
+      "current_page_sha256": "449a8e4d2db57a7104502ab0b40a9ec906dbb8a31043f7b52265fcaceae3376a",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 41,
+      "owner_record_sha256": "df172e5f84ae8999d2877a4020bc03c96ad5aa74f7ae39102f40a29c1e94c35d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-node.md",
+      "before_sha256": "53627c008920fbb0f71d38d6228934cde6c8b73753ca43a237a666227a2b1580",
+      "after_sha256": "7795a49c7e09c7d1d9aeab595810d2f8ed17b59dd837e3a4f5c963f472f8cb2d",
+      "current_page_sha256": "ad24435f4593ab7c3c3ad42a4b14ca2bd2d8d57c435d27f2ee592199a09c92c1",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 42,
+      "owner_record_sha256": "0725517c6815c321a35175c3a78fc9cb9aab7fd4f813267635ab384e384bb7d7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-pluto.md",
+      "before_sha256": "bf981b97b577d79f0932c6789c58ba7cd08711edc67fc159d329beb3e20b88e8",
+      "after_sha256": "f9cd4468a06f4ce0fb400178162bdb3da267a7923923d3e548ee3bffbc90be77",
+      "current_page_sha256": "b53a0d6cdafce823d13efc72966b5f7cb7cb0261d1c209347233e3e72ef2a761",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 43,
+      "owner_record_sha256": "f604f3b52ae4cbad86372ee259abd0c5f2f4aa775984c0c5650e13cbf787bfc7",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-poseidon.md",
+      "before_sha256": "8ee59179143f3a9807f5ed51aca7cd81e77c941654ba32602d42dab8158154ee",
+      "after_sha256": "3e38728325f2fe980c27ad65f7218c7eadc1fd0c153bb01437060b4b9f508273",
+      "current_page_sha256": "15728cc68a92858747fd2d2675c6c308bd911e3221f85d92f05b693dad71cf94",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 44,
+      "owner_record_sha256": "3900d49f41d058f9d6d1c125a2e081607fd649ca1686b46ddbd540622a9a9578",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-saturn.md",
+      "before_sha256": "c884bd930979ff3fd35451ccc3c833c38c9ae4ec3cd839fe817b3156a9c56289",
+      "after_sha256": "0b42f14bbb7b9b22d4838688eb14b71b77361864ba6f4b68e42912147c191e0e",
+      "current_page_sha256": "bebb7b2bcbb8ba8b7b34383878793b5e3fcadc61bab885987710fbfc16b9e9c3",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 45,
+      "owner_record_sha256": "ed7d4870763c419d961b6c34340d33c534c26a6767649b3dbc568d7dce8ab39f",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-sun.md",
+      "before_sha256": "7986c009ba90730523674803c8ea19b6cac11475e8102774df1404e0815f9508",
+      "after_sha256": "f630f339f6d0b3e656364543449256bfadcd0dfddbd110043c9d915bc35df341",
+      "current_page_sha256": "dad86a52c43723f9d64fc7c77dd783166be01c329e316081abbaff9deac12ddb",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 46,
+      "owner_record_sha256": "7fc8db03ad11c47c1875b213c12adfa6e6088b7646f6587097e39a330fde45f1",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-uranus.md",
+      "before_sha256": "c7d3d89423aee614f70a71e946f691861ec8e6e3cb6923b44dc11976617ef0d6",
+      "after_sha256": "635a3d10b48d9811a5f6b52bf442557293b5242b3d79b931023a512af94c007c",
+      "current_page_sha256": "f8edf0c2792c1d322fb4e038f4ec20fa5485856ac665470797c0871976e15b6f",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 47,
+      "owner_record_sha256": "58c177f01c03caf1d576742f14d020cdc59680f2c5d34ae80406baaa3b9a5f02",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-venus.md",
+      "before_sha256": "8769b570d9a0f8377f637a5fa800087172625e7f067cfbc8b609fd2d4bab89ee",
+      "after_sha256": "6fe643f36834c6debf270435f212db40b9e40b824ab070789903b335e368e692",
+      "current_page_sha256": "df3f592400f033aea20ab6b6bd361ccf566e1e3658724693169aa0cc2472acce",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 48,
+      "owner_record_sha256": "8246844a6399ad4edfb2cc084c0862b2353584835053c0983ab5730a7160be55",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-vernal-point.md",
+      "before_sha256": "583ea211ac89f1d0a98ec73b47ef84a322cf593a56bba6f4a757df9645b9ba28",
+      "after_sha256": "9841c45bbb544ae987e554d3fd7112ff1e8f0bf4867b82f572c3f86c08f0bfd9",
+      "current_page_sha256": "6d6cdd5cd9f3b1f555a2a2eea96c444776628fd0744bf1bc06ab56a94313b884",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 49,
+      "owner_record_sha256": "3daa1b2772810e34ac2c0e2f70818fa88bef28328417609fd2396e381ae65406",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-vulcanus.md",
+      "before_sha256": "bc888483714bd370bd6d25a9007c27dc4c58122fa55303ce2fedf4bee2379662",
+      "after_sha256": "8b806cd75e88a73af1d01b856fd8b1ba89775c71348fd8664aa388fed519642e",
+      "current_page_sha256": "eec2fde6bfc7615b7864e5e11e56d1aabaea21e0c0c28cd38f5a36bf604b6903",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 50,
+      "owner_record_sha256": "01b0a77d922bd5c05411599981dbc0eb3210919001ab64cf65a5b75226e31946",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-zeus.md",
+      "before_sha256": "fda99bd0620ad588ea92c8fd27f1a9531e4aec86f7209d4c58bdb48b1f57e063",
+      "after_sha256": "8f78db7e782d2e6261ccf6e22c8d6465f492ff9aac9330f9054993138c418d30",
+      "current_page_sha256": "6f835094f8dd46c9ee0ce4119683d7036f5b8ef26bc1fbdd09128da449d12b93",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 51,
+      "owner_record_sha256": "27f68f3e0062f035adf601364be9ec484ce0e6527e8c739eaf5bd08fc68b62ac",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Personally inspected ABC PDF221 printed444–445 exact full row and Witte PDF284; also viewed duplicate chapter PDF282. German transcription, labeled English, Neptune/Pluto boundaries, renunciation versus absorption, perseverance, suppression of public criminality, OCR cleanup and all new PDF/printed locators match actual passages.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf221.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf284.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf282.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-admetos.md",
+      "before_sha256": "60680ca4f55e91b4a97709bc4eae68c750ed010c24957a793d37b4528e07f4c1",
+      "after_sha256": "ca65a1770d5d96d51667bcfbc0ef7df6cf9f274ff440d44ad673bfdbbc2f8ee5",
+      "current_page_sha256": "b17db29400e175fcb492b2acb4a8008bf392603f9975129bd475584e561302ed",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 52,
+      "owner_record_sha256": "1491bbfa9b419fc638b9ac3ab1eb7e9c04628710eeb37fc1cd9a5f80a8805d20",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-asc.md",
+      "before_sha256": "2503bf8214b4d22973b789067c3bc603599b9a56802fc9570f357c03a8d8e651",
+      "after_sha256": "3a9b0eeb6583358b25a8465ea45fce3f0dbb5c71b07125e1d368003069da1632",
+      "current_page_sha256": "feeb715a323e0d18fbf0f819e4f1abef84641d7a52d564d4b0bb3dea935863ac",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 53,
+      "owner_record_sha256": "58379236aa76f14e96a5e0f18ead0f53d8e03ea24bf9170e3338e8839ef91fc0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-cupido.md",
+      "before_sha256": "ec5825c7435dd593103a4cf9d124c722ebcd9ca09526610bb8e4ff733b279961",
+      "after_sha256": "03c0fc7a1117dc6ba8fc1c947fcfdfcbceaf2b3a51f8358867077991ba94a823",
+      "current_page_sha256": "ab7925af28b366713e48745a26f4874075510312daec9c0461d363e8723ad649",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 54,
+      "owner_record_sha256": "2f1c14c296e8b263088daf5b2e7144afdf7ccab84c4b4a2436fc044180deb1a8",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-jupiter.md",
+      "before_sha256": "7cb728bee43d78ff6c6c05cdba849b2c0c1ee88a68fe6a84366884d9ce28e229",
+      "after_sha256": "a35ed05e3453d995351a12cf0991979434182cb94d9a0be47b32070deddd73ca",
+      "current_page_sha256": "b2076eaf86dbf2a085576a07726c76a6aa678d5db9e9480d15392ee777ffbf3d",
+      "owner_count": 1,
+      "ledger": "activations-011.jsonl",
+      "ledger_line": 55,
+      "owner_record_sha256": "27315a89cb03d92a3ba5ecd51cb587c5359ad59f96291266f440790857249e3e",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-kronos.md",
+      "before_sha256": "c528df38e74608c45bfaa9edb5820407189f78c3ee6f16a5758a63f18c022f43",
+      "after_sha256": "6ab14a73c2c0c1f83fb463eabefdc3d6192f76cd0199e5a7be669711b0158be0",
+      "current_page_sha256": "31cf666b9a5f881bba177a50dbbb53ad29148870e00b1dad3e80d252a4df726c",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 1,
+      "owner_record_sha256": "118ab10f90823389c028757b8641d5eaa57b9f10aa3d5a996e939ef2eefe67d0",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-mc.md",
+      "before_sha256": "21c2fc0c0363a48aa529322ceb936da2be59ebd2016080fcf537b47025958fc5",
+      "after_sha256": "b140fc0f171dfa00e1be81d938fcef2cfa9db3c088098b80949c3946890e189e",
+      "current_page_sha256": "0ec1e7afc9557bd62f89a8bfc48eb84efda708349b8135627ed5cb6ce70c2755",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 3,
+      "owner_record_sha256": "a5ef0257b2cdf81fb597de697d21ae301edc40f13b886e34b988d61fbf681d48",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-moon.md",
+      "before_sha256": "779a0c287ef43474b4c042a5386c9608a557a3a669448d6d9328ac72f493d80d",
+      "after_sha256": "e38210426de72c53709d34cec21f2afcc7edd595c51810fdde4cb4461382b532",
+      "current_page_sha256": "aac43447ce67592effdbe02b829f07564b4e90421eaf7756763f96ae5ed83e71",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 5,
+      "owner_record_sha256": "7f29ad51250e864204f6ec14d06337ea4e561444d80f5147e382cb91e1b90832",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-neptune.md",
+      "before_sha256": "b4de6a5b317222ce11b920388e6a511d816a11ced24836aed9afbfec8aaa4292",
+      "after_sha256": "3b5a338aaa55149e6cc9b8572835dc24a05644a313119ae7e569c32677584c50",
+      "current_page_sha256": "d2498e214656a392212874e2e2fb28c79a1dae0fed41644ec767c28b03975cfb",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 6,
+      "owner_record_sha256": "806ebb61575f083a9f216b57b57f8ba8ba1ead6dc4063d138ddb9d7d545a3fdf",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-node.md",
+      "before_sha256": "6f87d70277aa0f5a4bcab3595bd4bcd05cbc08ea6f7d97605c480c043b191909",
+      "after_sha256": "18a8b039037653fe3086266f0a794eae1d6ce3f4edc6ba5cf8c8492095730abc",
+      "current_page_sha256": "16743267f2ea38f04f2886a19cfbdd9a1f19cb33b371b615fd3d2044eade4cf6",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 7,
+      "owner_record_sha256": "526b026fb05f28448481fffef4ed1bb879ef6b43536bde785d7d5c3e0a95ccef",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-pluto.md",
+      "before_sha256": "ea62ac71d4f0a8afa1c0740773557c0f2179a544cbd97a333c964696478d6bac",
+      "after_sha256": "57b2254f0aef51d221a83272f0e55491f2889947efc45eb452d1d66d6af64fd7",
+      "current_page_sha256": "db0470388d14e2e1ca72a9ba29c36b2742a13e0bc892f308d388584734a70b2b",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 8,
+      "owner_record_sha256": "f2ca8961f86b7cd5ed4cf2e4c2a61bced2288a37014db26de25fbbc16db931ef",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-poseidon.md",
+      "before_sha256": "53641a3b69f33b06e4d54345e79f27c9c7883b0d5b27642cf7255129e4b3de30",
+      "after_sha256": "60bb4e09b9e68e8df18e758685a02da3116ac12213cddd78ceff2f1a95d69d62",
+      "current_page_sha256": "4592b62611c0272daf991dd4d8e0abe7e9194ece176e3ef93b2501bdaf11bb36",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 9,
+      "owner_record_sha256": "2eca6abc6e91e750211c60758ffd6556a380c0c3cd8eb4a4cf60b10734d614e6",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-saturn.md",
+      "before_sha256": "d1c86d313bdb95b12577d39c5dfa1f687694fe0ffb89c3c7070f87475ee8a827",
+      "after_sha256": "92e82ff6ece10dea7049f261d228d68000b7e8470e36f1c8b992f80515017efa",
+      "current_page_sha256": "c4992e4f68466817b93d64ad71f1eb81942d56ea774c6e8fbc06b6dec9ddb43e",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 10,
+      "owner_record_sha256": "0df6a7353d34530fae10980bd6aa20cc02b343c3fd82dc5ccf4c4fd878b1e7c9",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-sun.md",
+      "before_sha256": "ad8cccf7f7a8a921fc1f076f434f4aa28880eb3e84fa523a860d76f32ab5729a",
+      "after_sha256": "2d618788fee761a7ab2860041266efce5d88571f0f6212da8a8023d015f59241",
+      "current_page_sha256": "f0260faf8e0cddf274a2afef41b10b05508e209c83be0ab4c4a8eecfb5940fde",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 11,
+      "owner_record_sha256": "17fb3612f0c02277803f18e45ab78020fd0f4959e64a7d61a60f3d2c4a7c7c0d",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-uranus.md",
+      "before_sha256": "502504c0ab09e18a5a1c711c7c9506c24e4f9e93ba6b47cbc2156ca58377661b",
+      "after_sha256": "4109ae3e6d205f3ceb01c78fb541b5f0e44b6c75bc4d1951e06a5e327b6e0b52",
+      "current_page_sha256": "39433e40da8fb4ab822e40595861406d8f6d1b6a990689da9553d8d356bbeed2",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 12,
+      "owner_record_sha256": "81a27e9482790e0caba56dcfda54b2584026201288b803e6ec7ced80dca7a414",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-vernal-point.md",
+      "before_sha256": "fcec07ba6c6d4fa4c3b405920ac2a7060dc857f39c231fc04c18f7a277f82dc2",
+      "after_sha256": "6e15cf7fe8b9a514b1b4306aefbeb308fb1f01340b12cd84699597321452e4dd",
+      "current_page_sha256": "fe69a07b709cda029fbb1c69fb1136b408cb4dd16cfbabac7bd0711dc1ebfdf1",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 14,
+      "owner_record_sha256": "1f6abb8caa0c2167d965530bbae476cf1cb5a11189d472f904b85e9f72405328",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete baseline/current source bodies and full unique owner record independently read. Actual ABC PDF220 printed442–443 and Witte PDF280–281 printed284–285 glyph rows visually checked. German/English restorations, endangered freedom, reasonable privation, leadership, Neptune water continuation and Pluto/Cupido/Zeus ownership match actual passages and new references.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-zeus.md",
+      "before_sha256": "2cd98d596568787c899260f42e6e2bb2768dbc3e7a4a35f0c6cb725955fef9d5",
+      "after_sha256": "426471c9dc792c77e39c0469dce143591053ad8ec6659be72f2c7dc603285615",
+      "current_page_sha256": "90bfd1d93a2de8ec5892e955c65022fa51a9b85dcdaf41400e9d7e279e80a069",
+      "owner_count": 1,
+      "ledger": "activations-012.jsonl",
+      "ledger_line": 16,
+      "owner_record_sha256": "a3819cf811131376f3925881902cdf9432250f373667e7aa0af401e3e8fc6aa9",
+      "status": "accepted",
+      "full_source_read": true,
+      "full_owner_record_read": true,
+      "notes": "Complete source bodies and unique owner record read; actual ABC220 printed443 and Witte281 printed285 glyphs/rows verified. Owner010012 surgically amended the stale first evidence item; full saved record independently reread. Current record correctly distinguishes superseded Cupido old-material scope from Zeus war destruction and creative historical research; record SHA256 a3819cf811131376f3925881902cdf9432250f373667e7aa0af401e3e8fc6aa9.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-abc-pdf220.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf280.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-cupido-hades-remaining-witte-pdf281.png"
+      ]
+    }
+  ]
+}

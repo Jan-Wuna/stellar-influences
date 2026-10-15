@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Chiron](../axes/mars-chiron.md)
 - Triad hub: [Mars Saturn Chiron](../triads/mars-saturn-chiron.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 The need to heal conflicts but potential difficulty in doing so, due to fear. The need to heal one’s fear of being assertive so that one can then create clear and effec tive boundaries.
 
+## Comparative Schema
+
+- core meaning: Fear can obstruct conflict resolution and effective boundaries.
+- psychology: Fear of assertion is the specific difficulty to be addressed.
+- body/health: Healing is used for fear and conflict; no medical condition is named.
+- social/relationship: Clear, effective boundaries are the stated aim.
+- events/manifestations: Working through fear to establish boundaries is supplied without a concrete event.
+- conflicts/notes: Difficulty is potential; the entry does not establish a fixed inability to act.
+
+## Contradictions
+
+The one entry links the obstacle of fear with the possibility of clearer boundaries; these are complementary parts of its account.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron = Saturn`: fear-based restraint, difficult healing work, and growth through learning how to act without collapsing into anxiety. Its constructive outcome is clear boundaries; its shadow is hesitation that prolongs the very conflict one wants to resolve.
+Saturn specifies the Mars/Chiron axis through the fear that can make resolving conflicts difficult. The [Sandbach entry](#sandbach-entry) identifies fear of being assertive as the issue to heal so that clear, effective boundaries become possible. The passage presents both a potential obstacle and an aim, without treating inhibited action as permanent or specifying a medical condition.
+
+Source locator: Sandbach PDF p. 69 is the Mars/Chiron chapter start; the exact entry page has not been verified.
 
 ## Links
 

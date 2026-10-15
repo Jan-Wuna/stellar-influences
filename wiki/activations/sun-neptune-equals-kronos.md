@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Kronos`
 - Astronomicon formula: `S/Y = ¤`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -44,11 +46,23 @@ Great physical sensitivity. A prominent medium. A poet laureate.
 
 special bodily sensitivity, dominance of a body in water, large body in the air, personal reputation through sensitivity, personal weakness of leadership, weakness of a foreign state, and uncertain authority figure
 
+## Comparative Schema
+
+- core meaning: Exceptional sensitivity that may gain prominence or coexist with uncertain authority.
+- psychology: Fine sensitivity and personal reputation; no general leadership ideal is stated.
+- body/health: Witte and ABC name physical sensitivity, without a clinical condition.
+- social/relationship: A prominent medium, honored poet, or insecure authority figure.
+- events/manifestations: Public distinction through sensitivity; ABC also includes weakened leadership and state weakness.
+- conflicts/notes: Distinction and leadership weakness remain alternative applications, not an idealized spiritual-leader type.
+
+## Contradictions
+
+- No direct contradiction is demonstrated: prominence and uncertain leadership describe different expressions. The entries do not establish universally inspired or spiritually sound authority.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Neptune = Kronos`: inspired authority and spiritual or ideal leadership.
-- Practical expression: special bodily sensitivity, dominance of a body in water, large body in the air, personal reputation through sensitivity, and personal weakness of leadership.
+Kronos specifies the Sun/Neptune axis as sensitivity that stands out or gains recognition. [Witte Entry](#witte-entry) gives a prominent medium and poet laureate; [ABC Entry](#abc-entry) links reputation with sensitivity but also allows weak leadership or an uncertain authority figure. The distinguishing theme is exceptional or publicly placed sensitivity, whose visibility does not ensure effective leadership.
 
 ## Links
 

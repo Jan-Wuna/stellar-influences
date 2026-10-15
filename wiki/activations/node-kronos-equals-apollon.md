@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Kronos](../axes/node-kronos.md)
 - Triad hub: [Node Kronos Apollon](../triads/node-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ Connections with scientific celebrities. Along with many other people in contact
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `231`, one-based PDF p. `114`; exact activating-factor row.
+
 #### ABC Entry
 
-Special success of a connection, successful connection to the authority, successful procreation connection, successfully connected with fillends, state trade relations, state knowledge transfer, and connection to authorities of knowledge
+Special success of a connection, a successful connection with the authorities, a successful procreative connection, successfully connected with leaders, state trade relations, state knowledge transfer, a connection with authorities of knowledge.
+
+## Comparative Schema
+
+- core meaning: Extended or successful contacts with authorities, scientific distinction, or knowledge institutions.
+- psychology: No independent psychological disposition is stated.
+- body/health: ABC explicitly lists a successful procreative connection in this exact row; it supplies no biological mechanism or clinical finding.
+- social/relationship: Connections with scientific celebrities or many people contacting authorities.
+- events/manifestations: State trade relations, knowledge transfer, and contact with authorities of knowledge.
+- conflicts/notes: ABC's connections with leaders are restored from the scan; its procreative example is source-specific and not generalized.
+
+## Contradictions
+
+The scientific and official-contact themes overlap. ABC also supplies a successful procreative connection as a separate source example; it does not establish a reproductive conclusion for every expression of this formula.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Apollon`: Connections with scientific celebrities. Along with many other people in contact with the authorities.
-- Practical focus: connections with scientific celebrities; also along with many other people in contact with the authorities.
+Apollon specifies Node/Kronos through wider contacts with authority or specialized knowledge. The [Witte entry](#witte-entry) gives scientific celebrities and many people in contact with authorities. The [ABC entry](#abc-entry) adds successful official connections, connections with leaders, state trade, and knowledge transfer. The connection's reach and institutional or scientific setting provide the common thread.
 
 ## Links
 

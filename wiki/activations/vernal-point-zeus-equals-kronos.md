@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Zeus Kronos](../triads/vernal-point-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 50 (one-based).
 
 Creation in the public, either independently or in a leading position. Wars brought about by the government. War apparatus.
 
@@ -42,13 +46,29 @@ Creation in the public, either independently or in a leading position. Wars brou
 
 #### ABC Entry
 
-Authoritat the public Fährung, dominant achievements in the public, Gro/3 fire in the public, public Fährungs-hierarchy, self evident achievements in the public life, and government goals for the public
+- Source page: 49; PDF page: 23 (one-based spread).
+
+Authority of public leadership, dominant public achievements, a large public fire, a public leadership hierarchy, independent achievements in public life, and state goals for the public.
+
+## Comparative Schema
+
+- core meaning: Public creation directed by authority or independent initiative.
+- psychology: Independent effort and direction.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Leading positions, leadership hierarchies and government.
+- events/manifestations: Dominant achievements, state goals, large fires and government-caused wars.
+- conflicts/notes: Independent achievement is not self-evident achievement; military examples are separate.
+
+## Contradictions
+
+Both emphasize creation and leadership. Witte adds government-caused wars and war apparatus; ABC adds a large fire alongside independent and hierarchical achievements.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Kronos`: creation in the public, either independently or in a leading position, wars brought about by the government, and war apparatus.
-- Practical expression: dominant achievements in the public, and self evident achievements in the public life.
+`Vernal Point/Zeus = Kronos` gives public creation an authoritative or independent form. Witte describes creation from a leading position or on one’s own; ABC adds leadership authority, hierarchy, dominant achievements and independent accomplishments. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+State goals connect this work with government. Government-caused wars, war apparatus and a large public fire remain separate, more severe source examples rather than necessary outcomes of leadership. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

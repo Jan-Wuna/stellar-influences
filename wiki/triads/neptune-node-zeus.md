@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Node Zeus`
 - Astronomicon triad-set: `Y g £`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md)
-- [Neptune/Zeus = Node](../activations/neptune-zeus-equals-node.md)
-- [Node/Zeus = Neptune](../activations/node-zeus-equals-neptune.md)
+- [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md): base axis [Neptune/Node](../axes/neptune-node.md); activator [Zeus](../factors/zeus.md).
+- [Neptune/Zeus = Node](../activations/neptune-zeus-equals-node.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Node](../factors/node.md).
+- [Node/Zeus = Neptune](../activations/node-zeus-equals-neptune.md): base axis [Node/Zeus](../axes/node-zeus.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Node = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Neptune/Zeus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `396`
-- `Node/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `229`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md#witte-entry) (PDF entry-start p. 147); [Neptune/Zeus = Node](../activations/neptune-zeus-equals-node.md#witte-entry) (PDF entry-start p. 249); [Node/Zeus = Neptune](../activations/node-zeus-equals-neptune.md#witte-entry) (PDF entry-start p. 151).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Node = Zeus](../activations/neptune-node-equals-zeus.md#abc-entry) (printed p. 221); [Neptune/Zeus = Node](../activations/neptune-zeus-equals-node.md#abc-entry) (printed p. 396); [Node/Zeus = Neptune](../activations/node-zeus-equals-neptune.md#abc-entry) (printed p. 229).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Node = Zeus`: This activation directs uncertain connection toward closure, marking the ending of a creative phase, the settling of conflict, or the exhaustion of a struggle that can no longer be sustained.
-- `Neptune/Zeus = Node`: Associations form suddenly but do not hold, pointing to abrupt unions whose momentum quickly turns toward separation.
-- `Node/Zeus = Neptune`: Useless effort of several people.
+Neptune, Node and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Node](../axes/neptune-node.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Node/Zeus](../axes/node-zeus.md)
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Zeus](../factors/zeus.md)

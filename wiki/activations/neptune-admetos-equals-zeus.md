@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Zeus`
 - Astronomicon formula: `Y/¦ = £`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 To fight to survive under most difficult circumstances and nearly without a prospect of success. Beginning of a fight against heavy obstacles.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Effortful resolution of a depression, dissolution of a fire blockade, beginning circulatory weakness, blockade by fire water, fundamental exchange over the boss, creative deepening in metaphysics, and achievements in deep water
+Strenuous dissolution of depression, dissolution of a fire blockade, beginning circulatory weakness, blockage through fire-water (Feuer-Wasser), profound disappointment concerning the boss, creative deepening in metaphysics, and accomplishments in deep water
+
+## Comparative Schema
+
+- core meaning: strenuous struggle against heavy obstacles, with poor prospects in Witte's example.
+- psychology: disappointment concerning a boss and effortful release from depression are ABC themes.
+- body/health: depression and beginning circulatory weakness remain historical source claims.
+- social/relationship: a boss is ABC's specific social example; Witte describes survival struggle.
+- events/manifestations: fire-blockade dissolution and deep-water accomplishment are listed.
+- conflicts/notes: effort is not presented as assurance of success; poor prospects qualify the survival example. Feuer-Wasser remains an unexplained compound, retained literally and excluded from confident synthesis.
+
+## Contradictions
+
+Witte explicitly limits the prospect of success, while ABC includes accomplished work and blockade dissolution. The range preserves possible results without turning persistence into a universal promise.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Zeus`: To fight to survive under most difficult circumstances and nearly without a prospect of success. Beginning of a fight against heavy obstacles.
-- Practical focus: `Neptune/Admetos` is energized through struggle, survival drive, and the beginning of a fight against harsh conditions. It shows the axis moving from passive deprivation into active resistance, even when prospects remain poor.
-- Practical expression: effortful resolution of a depression, dissolution of a fire blockade, beginning circulatory weakness, blockade by fire water, and fundamental exchange over the boss.
+In Neptune/Admetos = Zeus, Zeus specifies the pair through strenuous effort against heavy obstacles. The [Witte entry](#witte-entry) describes survival struggle with almost no prospect of success; [ABC](#abc-entry) adds effortful release from depression, fire-blockade dissolution, and disappointment concerning a boss (printed p. 403, PDF p. 200). Its metaphysical and deep-water accomplishments add other settings. The entries name effort and possible release while keeping the outcome uncertain.
 
 ## Links
 

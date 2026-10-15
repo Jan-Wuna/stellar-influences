@@ -28,9 +28,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 174 (entry page).
 
 - Source heading: `MERCURY/PLUTO With Itself`
 - Source page: `174`
@@ -41,22 +45,21 @@ Creates a mental curiosity within you that can lead to obsessions about accumula
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Curiosity concentrated on gathering and correlating information. [Munkasey](#munkasey-entry), p. 174.
+- psychology: The need for intellectual stimulation can become obsessive accumulation of facts. [Munkasey](#munkasey-entry).
+- body/health: No specific bodily or health claim appears in the entry.
+- social/relationship: The entry does not specify a relationship pattern or audience.
+- events/manifestations: Assembling facts and data into a definitive information source. [Munkasey](#munkasey-entry).
+- conflicts/notes: This is one repeated-pair entry; curiosity does not guarantee that the resulting source is definitive.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; no cross-source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Mercury`: Creates a mental curiosity within one that can lead to obsessions about accumulating or correlating facts and data as a definitive information source; adds to one's need for intellectual stimulation and enhancement.
+In `Mercury/Pluto = Mercury`, Mercury specifies the pair through intensified curiosity and the effort to collect and correlate facts. Intellectual stimulation can sustain a search for an authoritative body of information, while the same search may become obsessive. [Munkasey](#munkasey-entry), p. 174. The entry describes the desire to establish a definitive source, not proof that the collected material is complete or correct.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury MC Hades](../triads/mercury-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 The moment of being in touch with information about the evil, atrocity or history. One owns thoughts or writings about junk, waste, diseases or history.
 
@@ -42,13 +46,29 @@ The moment of being in touch with information about the evil, atrocity or histor
 
 #### ABC Entry
 
-My criminality in youth, my thinking is deficient, I have bad thoughts, I at the disabled in speaking, I write about the past, I think about deprivation, I describe the need, poor soul language, and mental danger of youth
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Meine Kriminalität in der Jugend, mein Denken ist mangelhaft, ich habe schlechte Gedanken, ich bin im Sprechen behindert, ich schreibe über die Vergangenheit, ich denke an Entbehrungen, ich beschreibe die Not, mangelhafte Seelen-Sprache, seelische Gefährdung der Jugend
+
+Editorial translation from the German passage: My criminality in youth; my thinking is deficient; I have bad thoughts; I am hindered in speaking; I write about the past; I think about deprivation; I describe distress; deficient language of the soul; inner endangerment of young people.
+
+## Comparative Schema
+
+- core meaning: Personal thought or writing concerned with hardship, discarded material, or the past.
+- psychology: Thinking about deprivation and distress, alongside source descriptions of deficient thinking.
+- body/health: Witte mentions diseases as subjects of writing; this is not a diagnosis.
+- social/relationship: Descriptions of need and exposure to information about atrocity.
+- events/manifestations: Writing about history, junk, waste, or disease.
+- conflicts/notes: ABC's hindered speech and criminality are attributed examples; writing about difficult material does not imply either.
+
+## Contradictions
+
+The first-person criminality clause is a source example. It remains distinct from writing about the past, describing need, or being hindered in speech.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/MC = Hades` darkens the axis through contact with atrocity, waste, disease, and history.
-- Chart expression: being mentally occupied with evil, decay, illness, junk, or the past, and to personal thinking or writing turning toward what is grim, degraded, or historically burdened.
+Hades specifies Mercury/MC through what occupies one's thought or writing: the [Witte entry](#witte-entry) includes atrocity, waste, disease, and history, while intelligible parts of [ABC](#abc-entry) concern deprivation, need, and the past. The distinction between subject matter and personal conduct matters here: receiving information about evil or writing about disease does not establish either wrongdoing or illness in the writer.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Apollon = Vernal Point`
 - Astronomicon formula: `R/¥ = VP`
 - Axis page: [Moon/Apollon](../axes/moon-apollon.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `134`.
+
 #### Witte Entry
 
 The masses of people. The nations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `200`; PDF page: `99`.
+
 #### ABC Entry
 
-Excerpting Eincs people in public, success feeling in public, successful hour in public, women in the world economy, public success of a frnu, 6public people's economy, and many women in public life
+German passage (transcribed from PDF page `99`, printed page `200`):
+
+> Ausdehnung eines Volkes in der Öffentlichkeit, Erfolgs-Gefühl in der Öffentlichkeit, erfolgreiche Stunde in der Öffentlichkeit, Frauen in der Welt-Wirtschaft, öffentlicher Erfolg einer Frau, öffentliche Volks-Wirtschaft, viele Frauen im öffentlichen Leben
+
+Editorial translation from the German passage: Expansion of a people in public; a feeling of success in public; a successful hour in public; women in the world economy; a woman's public success; the national economy in public; many women in public life.
+
+## Comparative Schema
+
+- core meaning: The masses and nations as a public field of experience.
+- psychology: ABC includes a publicly felt sense of success.
+- body/health: No bodily or medical condition is supplied.
+- social/relationship: Many women in public life and women in the world economy are explicit.
+- events/manifestations: Public expansion of a people, a publicly successful hour and a woman's public success are examples.
+- conflicts/notes: The public economic examples do not specify a government, policy or institution.
+
+## Contradictions
+
+Witte gives the broad collective subject; ABC develops public success, women and economic activity. Its success examples add specificity without defining every public mass experience as successful.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Vernal Point`: The masses of people. The nations.
-- Practical expression: excerpting Eincs people in public, success feeling in public, successful hour in public, women in the world economy, and public success of a frnu.
+In `Moon/Apollon = Vernal Point`, Vernal Point locates the pair's multitude and widening experience in the public field: the masses and nations themselves are the subject. ABC makes this more concrete through public success, women in public life and participation in the world economy. The connection is collective breadth made publicly visible, rather than a claim that every public gathering or economy must expand successfully ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = Jupiter`
 - Astronomicon formula: `R/Z = V`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 Fortunate changes of no duration. Changeable fortune of persons or of a nation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `190`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-Successful development of women, successful change of women, development of women's financial development, development of Glinck's atmosphere, development of a legal environment, different legal environment, beneficial changes for a people, and growing joy of a woman
+Successful development of a woman, successful change of a woman, a woman's financial development, unfolding a feeling of happiness, developing a sense of justice, a changed sense of justice, advantageous changes for a people, and a woman's growing joy
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `135`, entry `0415`.
 
 #### Ebertin Entry
 
 A rich and deep emotional life. Great success, lucky chances.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `36` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Added elements of success when eliminating maternal or emotional dependencies; g
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: favorable changes, rich emotional life, and confidence in emotional transformation.
+- psychology: enthusiasm, deep feeling, confidence, and expanding emotional limits are named.
+- body/health: Sandbach uses healing-wounds language for emotional experience; no clinical outcome is established.
+- social/relationship: powerful female authorities and release from maternal or emotional dependence are Munkasey's examples.
+- events/manifestations: lucky chances, financial development, advantageous collective change, and cleaning liquid pollutants are named.
+- conflicts/notes: Witte explicitly qualifies favorable changes as short-lived or changeable; protection of criminal elements is another source possibility.
 
 ## Contradictions
 
-- None recorded yet.
+Witte stresses the transience of good fortune, while Ebertin emphasizes great success and Sandbach usually successful emotional expansion. Duration and certainty therefore remain qualified; favorable change need not become lasting security.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Jupiter`: resilient protection, transformative generosity, and the ability to guide others through profound feeling with confidence. Main caution: emotional grandiosity: depth and certainty can merge into excess, moral overreach, or controlling benevolence.
+In Moon/Pluto = Jupiter, Jupiter specifies the pair through favorable change and confidence in deep emotional experience. [Ebertin](#ebertin-entry) gives a rich emotional life and lucky chances; [Sandbach](#sandbach-entry) describes enthusiasm that changes how others feel and helps move beyond emotional limits. [ABC](#abc-entry) adds financial development, growing happiness, and advantageous changes for a people (printed p. 190, PDF p. 94).
+
+The [Witte entry](#witte-entry) keeps a significant limit: fortunate changes may be brief and fortune changeable. [Munkasey](#munkasey-entry) adds release from dependence, powerful female authorities, pollutant cleanup, and protection offered to criminal elements (p. 132). These specific examples prevent treating every form of success or protection as enduring or benevolent.
 
 ## Links
 

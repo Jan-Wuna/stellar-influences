@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Moon MC Apollon](../triads/moon-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Psychic experiences. Experiences with women in public. Anthropology.
 
 #### ABC Entry
 
-Expansion of my people, I at the an experienced woman, my skills, my successful wife, my feelings experiences, my increasing feelings, my people's freedom, hour of emotional experience, and science of the woman's soul
+- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+Expansion of my people, I am an experienced woman, my knowledge of feeling, my successful wife, my emotional experiences, my increasing feelings, freedom of my people, hour of inner experience, science of a woman's soul.
+
+## Comparative Schema
+
+- **Core meaning:** Emotional experience and knowledge of human life.
+- **Psychology:** Knowledge of feeling, increasing feelings and experience of one's emotional life are represented.
+- **Body/health:** The entries provide no particular medical association.
+- **Social/relationship:** Witte names women in public; ABC names an experienced woman and a successful wife in historical gendered terms.
+- **Events/manifestations:** Anthropology and the freedom of a people are explicit themes.
+- **Conflicts/notes:** ABC distinguishes knowledge of feeling from generic skills; the experienced woman, successful wife and science of a woman's soul remain historical gendered formulations. The hour phrase supplies no independent forecasting rule.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Moon` emotionalizes the axis through psychic experience, women, and public anthropology.
-- Chart expression: broad feeling-life, receptivity to human experience, and a life direction shaped by public contact with women, culture, or collective emotional knowledge.
+Moon specifies `MC/Apollon` through emotional and human experience. The entries connect inner experience with anthropology, public encounters with women, and ABC's feelings and collective freedom; the references to women and a wife remain the sources' historical formulations rather than universal gender rules. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

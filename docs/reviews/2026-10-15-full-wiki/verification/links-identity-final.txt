@@ -1,0 +1,2 @@
+Loading and rendering 7497 Markdown files
+{"canonical_identities": 0, "cross_page_relationships": 0, "duplicate_explicit_ids": 0, "internal_file_links": 0, "internal_fragments": 0, "manifest_coverage_metadata": 0, "triad_source_coverage": 0}

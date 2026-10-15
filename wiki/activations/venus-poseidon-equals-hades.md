@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Hades Poseidon](../triads/venus-hades-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 To ridicule moral behavior, morals, faith or religion. To be without religion. Serving a mediocre religion. Religions of antiquity.
 
@@ -42,13 +46,27 @@ To ridicule moral behavior, morals, faith or religion. To be without religion. S
 
 #### ABC Entry
 
-Serving through truth of love, dangerous ideas in the arts, love hearts through truth, arts and culture of the past, lack of spiritual love, lack of spiritual harmony, tendency to spiritual criminality, and preference for the spirit of the past
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Serving through truth of love, dangerous ideas in the arts, love sorrow through truth, arts and culture of the past, lack of spiritual love, lack of spiritual harmony, tendency to spiritual criminality, and preference for the spirit of the past
+
+## Comparative Schema
+
+- core meaning: Difficulty, deficiency, rejection, or connection with the past in spiritual and cultural matters.
+- psychology: Ridicule of faith or morals, lack of spiritual harmony, and love sorrow through truth are stated possibilities.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Service within religion and difficulties in spiritual love.
+- events/manifestations: Religions of antiquity and art and culture of the past.
+- conflicts/notes: Historical judgments such as mediocre religion and spiritual criminality remain attributed; nonreligion does not imply either.
+
+## Contradictions
+
+Service, rejection, deficiency, and interest in the past are separate source possibilities. The entries do not show that antiquity or nonreligion is inherently deficient or criminal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Hades`: to ridicule moral behavior, morals, faith or religion.
-- Practical expression: serving through truth of love, dangerous ideas in the arts, love hearts through truth, arts, and culture of the past.
+In `Venus/Poseidon = Hades`, Hades specifies the pair through difficulty in spiritual harmony or a connection with the past. The [Witte entry](#witte-entry) ranges from ridicule or absence of religion to service within religion and religions of antiquity. The [ABC entry](#abc-entry) adds love sorrow through truth, lack of spiritual love or harmony, and art and culture of the past. Its adverse moral language remains source language, while historical interest and nonreligion remain distinct from the adverse possibilities.
 
 ## Links
 

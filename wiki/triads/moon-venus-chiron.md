@@ -19,35 +19,43 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Chiron`
 - Astronomicon triad-set: `R Q Chiron`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
+
+[Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Chiron = Venus](../activations/moon-chiron-equals-venus.md)
-- [Moon/Venus = Chiron](../activations/moon-venus-equals-chiron.md)
-- [Venus/Chiron = Moon](../activations/venus-chiron-equals-moon.md)
+- [Moon/Chiron = Venus](../activations/moon-chiron-equals-venus.md): base axis [Moon/Chiron](../axes/moon-chiron.md); activator [Venus](../factors/venus.md).
+- [Moon/Venus = Chiron](../activations/moon-venus-equals-chiron.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Chiron](../factors/chiron.md).
+- [Venus/Chiron = Moon](../activations/venus-chiron-equals-moon.md): base axis [Venus/Chiron](../axes/venus-chiron.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Chiron = Venus`: John, page `32`
-- `Moon/Venus = Chiron`: John, page `27`
-- `Venus/Chiron = Moon`: John, page `58`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Moon/Chiron = Venus](../activations/moon-chiron-equals-venus.md#sandbach-entry) (PDF chapter-start p. 32; exact entry page unverified); [Moon/Venus = Chiron](../activations/moon-venus-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 27; exact entry page unverified); [Venus/Chiron = Moon](../activations/venus-chiron-equals-moon.md#sandbach-entry) (PDF chapter-start p. 58; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Chiron = Venus`: One relates to others in an emotionally healing way. When one relates emotions flow in cleansing fashion.
-- `Moon/Venus = Chiron`: Your energy helps others to tap into the love surrounding them in the moment, and to love their own past, even the most difficult parts of it. You also have the effect of helping them to be more vulnerable and open in relating.
-- `Venus/Chiron = Moon`: the ability to feel love everywhere and in everything and to contact an underly ing sense of peace and fulfillment even in the midst of the most difficult of emotions.
+Moon, Venus and Chiron form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Chiron](../axes/moon-chiron.md)
+- [Moon/Venus](../axes/moon-venus.md)
+- [Venus/Chiron](../axes/venus-chiron.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Chiron](../factors/chiron.md)

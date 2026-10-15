@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Moon Admetos](../triads/vernal-point-moon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Stiff resistance as regards the public, people or women. Death of the mother. To be present at a death. Many deaths among the population.
 
@@ -42,13 +46,27 @@ Stiff resistance as regards the public, people or women. Death of the mother. To
 
 #### ABC Entry
 
-Depressed woman in public, depressive feelings in public, solidified woman in public life, public restrictions on a people, suppression of women in public life, and resistance of a people in public
+- Source page: 54; PDF page: 26 (one-based spread).
+
+Depressed woman in public, depressive feelings in public, a woman firmly established in public life, public restrictions on a people, suppression of a woman in public life, and public resistance of a people
+
+## Comparative Schema
+
+- core meaning: Collective feeling and resistance under public limits.
+- psychology: Depressive feelings are source language, not a clinical finding.
+- body/health: No medical mechanism is supplied for the death associations.
+- social/relationship: Restrictions affecting a people or women; a firmly established public position is also named.
+- events/manifestations: Witte lists presence at a death, a mother's death, and deaths among the population.
+- conflicts/notes: Gendered and death examples remain historical claims rather than universal or inevitable outcomes.
+
+## Contradictions
+
+A firm public position and public suppression are different possibilities. Neither explains or predicts the listed deaths.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Moon`: stiff resistance as regards the public, people or women, death of the mother, to be present at a death, and many deaths among the population.
-- Practical expression: depressed woman in public, depressive feelings in public, solidified woman in public life, public restrictions on a people, and suppression of women in public life.
+In `Vernal Point/Admetos = Moon`, Moon specifies the pair through a people, women, or the feeling associated with public restriction. The [Witte entry](#witte-entry) names strong resistance; the [ABC entry](#abc-entry) adds suppression, depressive feelings, and a firmly established public position as another possibility. Witte's death examples remain separate historical associations. The synthesis supports collective or personal experience of resistance without turning the gendered language or mortality claims into a universal forecast.
 
 ## Links
 

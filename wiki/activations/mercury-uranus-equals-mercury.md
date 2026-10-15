@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Mercury`
 - Astronomicon formula: `T/X = T`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -41,22 +43,21 @@ A clever and quick way of thinking; emphasizes the observation of facts and the 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quick, clever thought observes facts and classifies ideas.
+- psychology: Analytical attention focuses on how things work.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: No particular relationship setting is specified.
+- events/manifestations: Scientific information and the analysis of working processes are explicit.
+- conflicts/notes: One With Itself entry supports this repeated-factor identity; no separate triad hub exists.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey supplies this orientation here, so no cross-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Mercury`: A clever and quick way of thinking; emphasizes the observation of facts and the classification of ideas; noticing how things work, and placing an emphasis on analytical processes; scientific data or information.
+In `Mercury/Uranus = Mercury`, Mercury specifies quick thinking through observation, classification and analysis. Cleverness is expressed in noticing how things work and organizing ideas or scientific information, rather than supplied as an unqualified promise of brilliance. This repeated-factor activation retains its own With Itself meaning. ([Munkasey](#munkasey-entry))
 
 ## Links
 

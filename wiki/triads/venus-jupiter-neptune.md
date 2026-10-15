@@ -30,24 +30,27 @@ updated_at: 2026-05-06
 
 - Triad-set: `Venus Jupiter Neptune`
 - Astronomicon triad-set: `Q V Y`
-- This page is structural only. It does not merge the meanings of its orientations.
+- This page is structural only. It does not merge the meanings of its orientations. Use the [orientation map](#orientation-map) to choose the exact formula.
 
 ## Orientation Map
 
-- [Jupiter/Neptune = Venus](../activations/jupiter-neptune-equals-venus.md)
-- [Venus/Jupiter = Neptune](../activations/venus-jupiter-equals-neptune.md)
-- [Venus/Neptune = Jupiter](../activations/venus-neptune-equals-jupiter.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Neptune](../axes/jupiter-neptune.md) | Venus | [Jupiter/Neptune = Venus](../activations/jupiter-neptune-equals-venus.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Neptune | [Venus/Jupiter = Neptune](../activations/venus-jupiter-equals-neptune.md) |
+| [Venus/Neptune](../axes/venus-neptune.md) | Jupiter | [Venus/Neptune = Jupiter](../activations/venus-neptune-equals-jupiter.md) |
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Venus`: Michael, page `264`
-- `Venus/Jupiter = Neptune`: Michael, page `192`
-- `Venus/Neptune = Jupiter`: Michael, page `204`
+Each exact formula has the five canonical source headings below. This describes entries currently present, not complete coverage of the original works or intact wording of every excerpt. Munkasey locators are printed entry pages; other locators and their qualifications are available through the linked entries.
+
+- `Jupiter/Neptune = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-neptune-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-neptune-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/jupiter-neptune-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/jupiter-neptune-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/jupiter-neptune-equals-venus.md#munkasey-entry), printed p. `264`.
+- `Venus/Jupiter = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-jupiter-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-jupiter-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-jupiter-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-jupiter-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-jupiter-equals-neptune.md#munkasey-entry), printed p. `192`.
+- `Venus/Neptune = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-jupiter.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-jupiter.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-neptune-equals-jupiter.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-neptune-equals-jupiter.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-neptune-equals-jupiter.md#munkasey-entry), printed p. `204`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

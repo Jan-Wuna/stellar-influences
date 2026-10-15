@@ -30,25 +30,44 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Kronos](../triads/venus-saturn-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 Interrupted harmony in the government or among leading persons. Passing sympathy with the lead. Probation court.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `275`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-Responsibilities of the state for the arts, special love pain, patient love for the boss, storten state peace, great love problems, primary love in old age, loss of reputation through love, and important artistic tasks
+The state's tasks for art, special pain in love, patient love for the boss, disturbed state peace, great problems in love, priority love in old age, loss of reputation through love, and important artistic tasks.
+
+## Comparative Schema
+
+- core meaning: Interrupted harmony or heavy responsibility around leaders and public authority.
+- psychology: Patience toward a boss and significant love pain.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Passing sympathy with leaders; love problems and loss of reputation through love.
+- events/manifestations: Government disharmony, probation court, and state responsibilities for art.
+- conflicts/notes: The authoritative setting includes disrupted state peace and artistic responsibilities; the court example remains without explanatory context.
+
+## Contradictions
+
+State artistic responsibilities and disrupted government harmony are different applications. The court example is listed without explanatory context.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Kronos`: interrupted harmony in the government or among leading persons.
-- Practical expression: responsibilities of the state for the arts, special love pain, patient love for the boss, storten state peace, and great love problems.
+In `Venus/Saturn = Kronos`, Kronos specifies the pair in relations with leaders or public authority. The [Witte entry](#witte-entry) names interrupted government harmony, passing sympathy with those in charge, and probation court. Clear [ABC wording](#abc-entry) adds state artistic responsibilities, patience toward a boss, important artistic tasks, and reputation lost through love. Responsibility and disrupted harmony share an authoritative setting here, without evidence that every such role produces a relationship crisis.
 
 ## Links
 

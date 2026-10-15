@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Admetos`
 - Astronomicon triad-set: `R X ¦`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Admetos = Uranus](../activations/moon-admetos-equals-uranus.md)
-- [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md)
-- [Uranus/Admetos = Moon](../activations/uranus-admetos-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Admetos = Uranus](../activations/moon-admetos-equals-uranus.md) | [Moon/Admetos](../axes/moon-admetos.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Admetos](../factors/admetos.md) |
+| [Uranus/Admetos = Moon](../activations/uranus-admetos-equals-moon.md) | [Uranus/Admetos](../axes/uranus-admetos.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `203`
-- `Moon/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
-- `Uranus/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `384`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Admetos = Uranus](../activations/moon-admetos-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-admetos-equals-uranus.md#witte-entry) (PDF p. 135); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-admetos-equals-uranus.md#abc-entry) (printed p. 203) |
+| [Moon/Uranus = Admetos](../activations/moon-uranus-equals-admetos.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-admetos.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-admetos.md#abc-entry) (printed p. 187) |
+| [Uranus/Admetos = Moon](../activations/uranus-admetos-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-admetos-equals-moon.md#witte-entry) (PDF p. 241); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-admetos-equals-moon.md#abc-entry) (printed p. 384) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Uranus`: Sudden death of a woman. Sudden appearance of stress and need of people. Futile uproar among people connected with murder and revolts, death.
-- `Moon/Uranus = Admetos`: This activation constricts `Moon/Uranus` into localized disturbance, small-circle upheaval, and revolt contained before it fully grows. It points to emotional or public agitation that is real but compressed, limited, or quickly shut down.
+`Moon Uranus Admetos` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

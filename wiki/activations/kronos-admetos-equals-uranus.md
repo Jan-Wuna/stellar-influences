@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
 - Triad hub: [Uranus Kronos Admetos](../triads/uranus-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 300, Kronos + Admetos, Uranus row.
 
 To be in an odd position suddenly. To suddenly face a completely changed situation. In this configuration the odd position equals a difficult crisis.
 
@@ -42,13 +46,29 @@ To be in an odd position suddenly. To suddenly face a completely changed situati
 
 #### ABC Entry
 
-Viewed place of technology, special tensions with the partner, dynamic authorship at the place, excited place hierarchic, great unrest of the partner, new authorship at the place, suddenly blocked self sandiness, and self sanding rhythm of the partner
+- Source reference: printed p. 463; one-based PDF p. 230, Kronos + Admetos, Uranus row.
+
+A respected place of technology, special tensions with the partner, dynamic authority at the place, an agitated local hierarchy, great unrest of the partner, new authority at the place, suddenly blocked independence, and the partner's independent rhythm.
+
+## Comparative Schema
+
+- **Core meaning:** A sudden unusual position or abrupt change that becomes a difficult crisis.
+- **Psychology:** ABC explicitly names tension and unrest in the partner and local hierarchy.
+- **Body/health:** Neither passage establishes a body or health interpretation.
+- **Social/relationship:** ABC adds partner tension and changing local authority.
+- **Events/manifestations:** A completely changed situation, a sudden block on independence, or a new local authority.
+- **Conflicts/notes:** ABC's local and partner examples remain distinct from Witte's personal crisis.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 300 (entry start); [ABC entry](#abc-entry), printed p. 463.
+
+## Contradictions
+
+Witte's abrupt crisis and ABC's partner/local examples are distinct emphases. Their exact causal relationship is not stated by either entry.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Uranus`: abrupt entry into an odd position, a sudden reversal of circumstances, and crisis produced by becoming unexpectedly set apart.
-- Chart expression: sharp breaks, shocks of status, and difficult crises tied to unusual role or exclusion.
+In `Kronos/Admetos = Uranus`, Uranus specifies the pair through abrupt displacement into an unusual position: the [Witte entry](#witte-entry) explicitly calls the changed situation a difficult crisis. The [ABC entry](#abc-entry) adds partner tension, an agitated local hierarchy, new local authority, and sudden restriction of independence. These support disturbance of position or autonomy at personal and local scales, without establishing one as the cause of the other.
 
 ## Links
 

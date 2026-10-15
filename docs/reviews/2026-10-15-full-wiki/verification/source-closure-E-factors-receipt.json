@@ -1,0 +1,130 @@
+{
+  "scope": "Targeted remaining closure E factor flags only. Prior full-page reviews and accepted repairs retained; no new review/count.",
+  "editor": "/root/activation_review_045_066",
+  "status": "implementation_complete_independent_E084_check_pending",
+  "queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "decisions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-decisions.jsonl",
+  "target_count": 10,
+  "decision_count": 10,
+  "unique_paths": 10,
+  "original_factor_records": {
+    "total": 23,
+    "unique": 23,
+    "reviewed": 23
+  },
+  "new_review_count": 0,
+  "verification": {
+    "all_saved_pages_and_complete_owner_records_match_intended": true,
+    "canonical_metadata_unchanged_from_takeover": true,
+    "comparative_schema_and_derived_synthesis_unchanged_from_takeover": true,
+    "unique_immediate_synthesis_anchors": true,
+    "all_temporary_stages_absent": true,
+    "git_diff_check_exit": 0,
+    "git_diff_check_output": "",
+    "git_warnings": "warning: in the working copy of 'wiki/factors/jupiter.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/mars.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/mercury.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/moon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/neptune.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/saturn.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/factors/sun.md', LF will be replaced by CRLF the next time Git touches it\n",
+    "no_test_tool_axis_navigation_or_raw_vault_edits": true
+  },
+  "genuine_remaining_source_conditions": [
+    "Moon Hand PDF59 singular ref ex is visibly defective at high resolution; no missing glyph guessed. Following emotional reflexes is legible.",
+    "Mars Hand PDF71 itself prints extemely; retained and labeled as source spelling, no missing r guessed.",
+    "Jupiter remains a bounded PDF74–77 excerpt; subsequent integration discussion not ingested.",
+    "Asc Ebertin Virgo/Libra duplication is genuinely printed and remains authorially unsettled; previously accepted proof preserved.",
+    "Missing printed folios and source-specific locator limits retained; PDF numbers not converted into invented printed numbers."
+  ],
+  "not_claimed": "No new full-book or full-page review. Existing review identity, outcomes and counts remain authoritative; independent E084 decides acceptance.",
+  "hashes": [
+    {
+      "name": "asc",
+      "canonical_sha256": "4bc3f813a06c7bf4a6bc66a56406bfea54f41671c59e0414b13ed01f8b22e8ca",
+      "source_body_sha256": "2a82251a70a3d30d7a77aa9949f41a138eb264ffdbc1a512035c71ab57b116c3",
+      "owner_record_sha256": "5c4f53bb1ea020745b25dec1f9eaf5ea0bd25aef9b804e15b4a3fd690612a21a",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "/root/factor_review/factors_001",
+      "owner_line": 3
+    },
+    {
+      "name": "jupiter",
+      "canonical_sha256": "08e89dc02468995928dcd31a3be2655c2d1904e6d756f1ce2e44af71d29dff0c",
+      "source_body_sha256": "c0e5498ccac292898f49facabc10e84ee59bda43b14a4751a55d2e88d35a648f",
+      "owner_record_sha256": "d9c8c1c81191d75a81d737975a15db630966a806ad3e45bdf6c0912e4669d9c3",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "/root/factor_review/factors_002",
+      "owner_line": 3
+    },
+    {
+      "name": "mars",
+      "canonical_sha256": "da0d375b105133a66a079a266b98bf649767d174d74847d5cce783c42f775e58",
+      "source_body_sha256": "2f6b4c663b7472405d28135cff15323dc36315b29fc47c667dde819f93b1485c",
+      "owner_record_sha256": "ec6c61683f21c5b5e16c6d899dba45b9129238dc215f25ce9c104c10e213bd58",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-003",
+      "owner_line": 1
+    },
+    {
+      "name": "mc",
+      "canonical_sha256": "b6b29b59142da5f6ade3db44b0597cbc6d8d9e70999a597880133ba809c2c9df",
+      "source_body_sha256": "85923e4d22552c9769b76e0cc76067ece546481b07e5bd81d0a01697511ee6f1",
+      "owner_record_sha256": "3c04be8dfe4e422303815ced479ad5bdeb4b1031d3c6dbd559f46e08078ad4be",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-003",
+      "owner_line": 2
+    },
+    {
+      "name": "mercury",
+      "canonical_sha256": "7f8645486e55b59a2e0d309d5ade887e756823fdccf1a4407a4ebb340317d577",
+      "source_body_sha256": "57e0a5f8afb38d85ea64d8b7984c344e600fd3a167369ba31c772579f767414a",
+      "owner_record_sha256": "c16af5d570b6f09ac6b1e6f20bb6e39b693ae865478c8fc12580a20d831824b3",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-003",
+      "owner_line": 3
+    },
+    {
+      "name": "moon",
+      "canonical_sha256": "46f768894f57c4d37a4cee970537ac0c056369b754240fb85a34f36873b01a60",
+      "source_body_sha256": "a6505ff9f539f6aef73e1c1edd708b18bf9e866f93ee096fa0892e2d57fe7501",
+      "owner_record_sha256": "77ac954749caa67960205c158210ab09a36a37faf32432919e2d0475878f630f",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-004",
+      "owner_line": 1
+    },
+    {
+      "name": "neptune",
+      "canonical_sha256": "02b23f63f439273216a4d8eb2ef1b1463b1724068b9b0b6ef8560a48e14af6ed",
+      "source_body_sha256": "a0f57ae1c2a3c3355115cac3437b850ef3c857b1cfa8ab9c948d30c07a89725d",
+      "owner_record_sha256": "399ecfde513d0ce338faf635730c4704f9ac44772eb2f3cb3cb8604d36500fa5",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-004",
+      "owner_line": 2
+    },
+    {
+      "name": "pluto",
+      "canonical_sha256": "9cac3f50320dd25f13636eca8101c27f8e241f00af2ec7e66667d91dca9df3be",
+      "source_body_sha256": "0b616e3f7d52cd29191f657fc4e3ebc9dcd89fbd0e582daa8089ad8f5d2e07dc",
+      "owner_record_sha256": "c49d987f4f52f81325668fe91cf56d358691f1314e47707113ac8e7f963b8d29",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-005",
+      "owner_line": 1
+    },
+    {
+      "name": "saturn",
+      "canonical_sha256": "0ab77a6ff109e11cf24afc0e0d9ac30bec5988ba6773ac756457c6facb4b855a",
+      "source_body_sha256": "10f8911ad947356df2cc2d8436fbf2b809bf4870f2a8024161eeded22991b848",
+      "owner_record_sha256": "3dc615b7f9c8fe9e72faa2529998c2b70e4b8f8d8094d4e11a6e3506ab424422",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-005",
+      "owner_line": 3
+    },
+    {
+      "name": "sun",
+      "canonical_sha256": "c0efc42e7f6a5e6daec78742d3156de8e3b5d2ac1a24f7d944fab50312cf15b4",
+      "source_body_sha256": "f551ad22a75e5698dd899d0ce79a27c6c80795928e69b851a4f89dc31a9c6e28",
+      "owner_record_sha256": "c73ce967e2bfcbbcde3a10e753a102341ac086021be08f91167437e06e6acb37",
+      "metadata_schema_synthesis_preserved": true,
+      "original_reviewer": "factors-006",
+      "owner_line": 1
+    }
+  ],
+  "prepared_but_not_used_as_proof": [
+    "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-factors-hand-p098.png"
+  ]
+}

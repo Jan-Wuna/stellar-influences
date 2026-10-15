@@ -28,6 +28,10 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Scan-verified locators: [ABC](#abc-entry): printed p. 112 (PDF p. 55); [Witte](#witte-entry): PDF p. 86; [Sandbach](#sandbach-entry): PDF p. 85, Mercury paragraph.
+- Other inherited locators: [Ebertin](#ebertin-entry): printed p. 241, entry 0845; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Mercury`
 - Astronomicon formula: `V/Asc = T`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -41,11 +45,15 @@ updated_at: 2026-05-06
 
 To converse pleasantly with others.
 
+Source: PDF p. 86, Mercury entry under Asc/Jupiter.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success thinking of the partner, success of the youth at the place, successful local news, money movement at the place, opinions about local law, legal language at the place, traffic law at the place, and Y orteil by young partners
+English translation: The partner's thoughts of success, success of youth at the place, successful local news, movement of money at the place, opinions about local rights, legal conversations at the place, traffic law at the place, and advantage through a young partner.
+
+Source: printed p. 112 (PDF p. 55), Mercury entry under Asc/Jupiter.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -59,6 +67,8 @@ Inclination to cultivate an intense exchange of thoughts, love of social contact
 
 One communicates in an exuberant style. When feeling insecure there is a tendency to come across as overly self-confident when communicating.
 
+Source: PDF p. 85, Mercury paragraph under Jupiter/Ascendant.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/ASCENDANT with Planets and Points`
@@ -70,22 +80,23 @@ A gift for oratory, or the ability to make speeches which evoke strong emotional
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Favorable contact with others takes the form of conversation, exchanged ideas, and persuasive public speech.
+- psychology: Sandbach describes exuberant communication that can mask insecurity with excessive confidence; Munkasey adds sensitivity to the aspirations behind words.
+- body/health: No entry specifies a bodily or medical condition.
+- social/relationship: Witte's pleasant conversation and Ebertin's stimulating suggestions make sociability an exchange rather than a one-sided display.
+- events/manifestations: Glad news, speeches that stir emotion, and learned discourse appear alongside ABC's local financial and legal communication.
+- conflicts/notes: ABC's eight-clause row ends with `Vorteil durch jungen Partner`, advantage through a young partner in the singular. Its local rights and legal conversations are broad source terms, without a specified legal procedure.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries distinguish rewarding exchange from an overconfident style without stating that either must prevail.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Mercury`: pleasant conversation, good suggestions, glad news, and a communicative style that helps the native make a favorable impression. Main caution: overstatement: enthusiasm can become glibness, inflated certainty, or talk that promises more than clear judgment can support.
+In `Jupiter/Asc = Mercury`, Mercury specifies the Jupiter/Asc pair through an exchange that makes contact rewarding: pleasant conversation, helpful suggestions, and glad news. These are explicit in [Witte](#witte-entry) and [Ebertin](#ebertin-entry), while [Munkasey](#munkasey-entry), p. 276, extends the theme to emotionally effective oratory and hearing the aspirations behind another person's words.
+
+[Sandbach](#sandbach-entry) makes the style exuberant but allows apparent certainty to cover insecurity. The same exchange can therefore be lively and stimulating while its delivery becomes overconfident. [ABC](#abc-entry) situates favorable contact in local news, financial movement, legal conversations, youth's success, and advantage through a young partner.
 
 ## Links
 

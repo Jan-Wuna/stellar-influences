@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Pluto/Pluto](../axes/pluto-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 255 (one-based; entry start).
 
 #### Witte Entry
 
 Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
 
+## Comparative Schema
+
+- core meaning: Rapid or unstable change in persons and the public.
+- psychology: Cognition and changing presentation or character are named.
+- body/health: Brain and gland development are historical source associations.
+- social/relationship: Public change is prominent; gendered claims remain attributed to Witte.
+- events/manifestations: Changes that come and go quickly or occur hour by hour.
+- conflicts/notes: The entry's generalizations about women are not universal facts.
+
+## Contradictions
+
+The entry gives related forms of mutability. Its gender stereotype is retained as historical wording, not generalized to women.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Pluto = Moon`: development of the brain and the glands; Cognition; Public changes; Unstable condition of the public; Hourly changes; Changes which come and go fast.
+In `Pluto/Pluto = Moon`, Moon specifies transformation through rapid or unstable changes in people and the public. The [Witte entry](#witte-entry) emphasizes changes that come and go quickly and people showing a different face or character. Witte also names cognition, brain and gland development; these are historical associations. The entry's gendered statements do not establish a trait shared by women.
 
 ## Links
 

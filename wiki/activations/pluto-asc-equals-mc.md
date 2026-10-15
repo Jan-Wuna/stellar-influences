@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Pluto Asc MC](../triads/pluto-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 90 (one-based; exact row checked).
 
 The influence by others on the native. Changes at the place interfere with the development of the native.
 
@@ -45,17 +49,23 @@ The influence by others on the native. Changes at the place interfere with the d
 
 #### ABC Entry
 
-I at the changing the environment, I at the changing the partner, I at the changing the location, my environment is changing, my growing environment, physical development with/through partners, and mental development in the environment
+- Source page: 120 (printed); PDF page: 59 (one-based; exact row checked).
+
+Others change me, the unfolding of my partner, I change the surroundings, I change partners, my changes of place, my surroundings change, my expanding surroundings, inner development with or through a partner, inner development within the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 296 (printed); PDF page: 298 (one-based); entry code: 1069 (direct source text checked).
 
 Attainment of power and authority in life. Attainment of success in one's career or occupation in life. A fascinating personality.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 117 (one-based; exact activation located in direct source text).
 
 Either to allow spiritual forces to strengthen and clarify one's identity, or to fall prey to obsessive identification with worldly success.
 
@@ -70,22 +80,23 @@ An increase in the respect and admiration others have for you as you age and bec
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: one's development or identity shaped by others, surroundings and personal influence.
+- psychology: confidence and integrity may grow, while spiritual clarity competes with obsessive identification with worldly success.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: others' influence, a partner's development, growing respect and keeping one's word.
+- events/manifestations: local changes interfering with development and attainment of career success, power or authority.
+- conflicts/notes: Witte's interference, Ebertin's attainment and Sandbach's spiritual/ worldly alternative are materially different possibilities within the exact formula.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's interference, Ebertin's attainment and Sandbach's spiritual/ worldly alternative are materially different possibilities within the exact formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = MC`: powerful public impact, decisive self-reinvention, and a life path altered through intense personal encounters. Main caution: control through persona: public direction can become too dependent on intimidation, image power, or crisis-driven identity.
+MC specifies `Pluto/Asc` through the personal direction taken as other people and surroundings exert their influence. [Witte](#witte-entry) includes local change interfering with development; [ABC](#abc-entry) describes both being changed by others and changing one's own environment. [Ebertin](#ebertin-entry) adds attainment of career success, power and authority, while [Munkasey](#munkasey-entry) names growing respect and confidence in motivating people.
+
+The question of identity remains central: [Sandbach](#sandbach-entry) contrasts spiritual forces clarifying the self with obsessive identification with worldly success. Munkasey's integrity and keeping one's word provide a distinct relational concern alongside achievement. Success and influence do not by themselves resolve that inner tension.
 
 ## Links
 

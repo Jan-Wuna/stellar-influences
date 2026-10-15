@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Pluto Node`
 - Astronomicon triad-set: `VP Z g`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Pluto/Node = Vernal Point](../activations/pluto-node-equals-vernal-point.md)
-- [Vernal Point/Node = Pluto](../activations/vernal-point-node-equals-pluto.md)
-- [Vernal Point/Pluto = Node](../activations/vernal-point-pluto-equals-node.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Pluto/Node](../axes/pluto-node.md) | Vernal Point | [Pluto/Node = Vernal Point](../activations/pluto-node-equals-vernal-point.md) |
+| [Vernal Point/Node](../axes/vernal-point-node.md) | Pluto | [Vernal Point/Node = Pluto](../activations/vernal-point-node-equals-pluto.md) |
+| [Vernal Point/Pluto](../axes/vernal-point-pluto.md) | Node | [Vernal Point/Pluto = Node](../activations/vernal-point-pluto-equals-node.md) |
 
 ## Source Coverage
 
-- `Pluto/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `148`
-- `Pluto/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `222`
-- `Vernal Point/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `27`
-- `Vernal Point/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
-- `Vernal Point/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, page `42`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Pluto/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `148`
+- `Pluto/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `222`
+- `Vernal Point/Node = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `39`
+- `Vernal Point/Node = Pluto`: Udo Rudolph - ABC for Planetary Pictures, printed page `27`
+- `Vernal Point/Pluto = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `47`
+- `Vernal Point/Pluto = Node`: Udo Rudolph - ABC for Planetary Pictures, printed page `42`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Node = Vernal Point`: This activation emphasizes general conditions change through new contacts, alliances or social links.
-- `Vernal Point/Node = Pluto`: This formula emphasizes many join together to change something and transformation in the connections with many people.
-- `Vernal Point/Pluto = Node`: This formula emphasizes general changes or transformations in the general public will result in new connections.
+The set links [Pluto/Node = Vernal Point](../activations/pluto-node-equals-vernal-point.md), [Vernal Point/Node = Pluto](../activations/vernal-point-node-equals-pluto.md), and [Vernal Point/Pluto = Node](../activations/vernal-point-pluto-equals-node.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

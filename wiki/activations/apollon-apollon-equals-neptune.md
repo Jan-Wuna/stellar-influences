@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Neptune`
 - Astronomicon formula: `¥/¥ = Y`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 305, Neptune row.
+
 Embezzlement. Great corruption. Deception on a large scale. Dissolution on a large scale. Chemistry. Science of the future. Occult science. Masses of air, gas or water. The deception of many. Large deception, frauds.
+
+## Comparative Schema
+
+- core meaning: Large-scale deception or dissolution, alongside chemical, occult, and future-oriented sciences.
+- psychology: No individual temperament or mental state is specified.
+- body/health: Air, gas, and water occur as large quantities, without a bodily or medical claim.
+- social/relationship: Deception affecting many; criminal wording remains a source association, not an accusation.
+- events/manifestations: Embezzlement, corruption, fraud, chemistry, and masses of air, gas, or water.
+- conflicts/notes: The scientific and physical meanings are not stated to cause fraud or concealment.
+
+## Contradictions
+
+The entry lists distinct social, scientific, and physical domains without explaining a causal relation among them. Their coexistence is not itself a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Neptune`: collective deception, large dissolving forces, future-oriented or occult sciences, and situations where scale hides what is really happening. Main caution: corruption by vagueness: what grows large may do so through confusion, leakage, fantasy, or deliberate fraud.
+In `Apollon/Apollon = Neptune`, Neptune specifies the repeated pair through phenomena operating on a large scale. The [Witte entry](#witte-entry) includes deception of many and widespread dissolution, but also chemistry, occult or future-oriented science, and masses of air, gas, or water. Scale connects these expressions; the physical and scientific meanings remain distinct from its attributed fraud and corruption claims.
 
 ## Links
 

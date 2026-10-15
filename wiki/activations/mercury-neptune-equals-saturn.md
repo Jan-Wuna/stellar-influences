@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Saturn`
 - Astronomicon formula: `T/Y = W`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Abnormal mental disposition. Collection mania. To use mental products of others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `251`; PDF page: `124`.
+
 #### ABC Entry
 
-Discuss future tasks, exchangeable separation in youth, urban air traffic, mature reports about metaphysics, talk about unknown pain, talk about water problems, and talk about poor media tasks
+German passage (transcribed from PDF page `124`, printed page `251`):
+
+> Aufgaben der Zukunft besprechen, enttäuschende Trennung in der Jugend, gestörter Luft-Verkehr, reife Berichte über Metaphysik, über unbekannte Schmerzen sprechen, Wasser-Probleme zur Sprache bringen, zukünftige Medien-Aufgaben
+
+Editorial translation from the German passage: Discussing future tasks; a disappointing separation in youth; disrupted air transport; mature reports about metaphysics; speaking about unknown pain; bringing water problems into conversation; future media tasks.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `161`; entry code: `0524`.
 
 #### Ebertin Entry
 
 Dark thoughts, pessimistic outlook, inhibitions in thinking, egoistic ideas, morbid sensitivity.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Increases the restraint shown about the use of intuition vs. logic; a need for c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Inhibited or pessimistic imagination, with restraint in using intuition.
+- psychology: Dark thoughts, frustration with confused communication and fearful fantasy are emphasized.
+- body/health: Historical abnormality, mania and morbid-sensitivity language remains attributed to Witte or Ebertin.
+- social/relationship: Munkasey includes disappointment involving people with psychic gifts; Witte mentions using others' mental products.
+- events/manifestations: Confirming impressions with physical facts and ABC's future tasks or interrupted air transport are examples.
+- conflicts/notes: Munkasey's factual checking offers a distinct response to uncertainty; disciplined artistry is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+Most entries emphasize inhibition, dark imagination or frustration. Munkasey also describes restraint and factual confirmation; this constructive response does not cancel the adverse descriptions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Saturn`: disciplined artistry, careful interpretation, and the ability to give form to elusive material without denying its delicacy. Main caution: heavy uncertainty: inspiration can become burdened by fear, self-doubt, or overcontrol until clarity thins out.
+In `Mercury/Neptune = Saturn`, Saturn specifies the axis through inhibited thought and a dark or pessimistic imagination. Ebertin and Sandbach emphasize sensitivity, confused communication and fear. Munkasey gives a more discriminating expression: restraining reliance on intuition and seeking confirmation in physical facts. ABC's discussions of future tasks, unknown pain and water problems are concrete examples. The supported distinction is between imagination burdened by fear and impressions subjected to checking, rather than an assured gift for disciplined artistry ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

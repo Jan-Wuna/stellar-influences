@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Pluto = Uranus](../activations/saturn-pluto-equals-uranus.md)
-- [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md)
-- [Uranus/Pluto = Saturn](../activations/uranus-pluto-equals-saturn.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Pluto = Uranus](../activations/saturn-pluto-equals-uranus.md) | [Saturn/Pluto](../axes/saturn-pluto.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Pluto](../factors/pluto.md) |
+| [Uranus/Pluto = Saturn](../activations/uranus-pluto-equals-saturn.md) | [Uranus/Pluto](../axes/uranus-pluto.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Pluto = Uranus`: Michael, page `292`
-- `Saturn/Uranus = Pluto`: Michael, page `284`
-- `Uranus/Pluto = Saturn`: Michael, page `312`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Pluto = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-pluto-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-pluto-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-pluto-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-pluto-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-pluto-equals-uranus.md#munkasey-entry), printed p. `292`.
+- `Saturn/Uranus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-uranus-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-uranus-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-uranus-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-uranus-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-uranus-equals-pluto.md#munkasey-entry), printed p. `284`.
+- `Uranus/Pluto = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-pluto-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-pluto-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-pluto-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-pluto-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-pluto-equals-saturn.md#munkasey-entry), printed p. `312`.
+
+For `Uranus/Pluto = Saturn`, the linked entry retains Witte one-based PDF entry-start p. `235`, ABC printed p. `373`, Ebertin printed p. `269`, entry `0957`, and Sandbach one-based PDF chapter-start p. `105`; Sandbach's number is not an exact entry page.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

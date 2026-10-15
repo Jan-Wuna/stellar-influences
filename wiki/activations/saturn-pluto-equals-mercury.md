@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Mercury`
 - Astronomicon formula: `W/Z = T`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Slow comprehension. To adapt oneself in thinking and opinion with difficulty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports on transformation cancellations, talk about task change, news about loss making developments, thinking about problematic changes, discussing pain developments, and growing youth maturity
+- Source page: `352`; PDF page: `175`.
+
+Reports on disturbances of transformation, talk about task change, news about loss making developments, thinking about problematic changes, discussing pain developments, and growing youth maturity
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0893`.
 
 The urge to do research work, thorough, taciturn. The desire to solve difficult problems.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 To communicate in an intensely serious way. A mind fraught with intense curiosity, and who has a driving urge to get to the bottom of things. Obsessive concen tration on certain ideas. At worst, an extreme mental rigidity.
 
@@ -70,22 +80,21 @@ Bestows a mental shrewdness toward efforts to meet your goals; communicating int
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intensive thought and communication directed at difficult problems and changes.
+- psychology: Curiosity, thoroughness and concentration; adaptation of ideas may be slow or rigid.
+- body/health: Pain is a topic of discussion in ABC; no bodily diagnosis is given.
+- social/relationship: Serious communication about difficult intentions, changed tasks or losses.
+- events/manifestations: Research, long studies, problem-solving and reports about disturbed development.
+- conflicts/notes: Thorough investigation and difficulty changing one's opinion are distinct possible expressions.
 
 ## Contradictions
 
-- None recorded yet.
+Slow comprehension and intense curiosity concern different aspects of thinking. The entries allow thorough problem-solving as well as rigidity without establishing that either must occur.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Mercury`: strategic intelligence, research power, and the capacity to think through hard realities without sentimentality. Main caution: mental severity: suspicion, fixation, or relentless control of narrative can narrow perspective and harden communication.
+In `Saturn/Pluto = Mercury`, Mercury specifies difficult development through sustained thought: curiosity and thoroughness drive research, long study and the wish to solve hard problems ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). The same concentration can become fixation, with slow comprehension or difficulty adapting an opinion ([Witte](#witte-entry), [Sandbach](#sandbach-entry)). Communication is correspondingly serious, addressing difficult tasks, changed responsibilities and developments involving pain or loss ([ABC](#abc-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

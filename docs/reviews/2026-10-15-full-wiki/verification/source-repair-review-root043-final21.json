@@ -1,0 +1,961 @@
+{
+  "verified_by": "/root/source_integrity_gate",
+  "scope": "All20 Moon/Kronos and final Moon/Mars=Admetos complete original/current Source Entries and unique full043 owner records read individually; both source blocks, every repaired clause/boundary/glyph and all added printed/PDF references compared with personally viewed actual raw scans. No sample or parser glyph label used as proof.",
+  "scans_personally_viewed": [
+    "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/root043-witte-factor-key-pdf28.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/root043-moonmars-abc-pdf89.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/root043-moonmars-witte-pdf124.png"
+  ],
+  "decisions": [
+    {
+      "path": "wiki/activations/moon-kronos-equals-admetos.md",
+      "before_sha256": "5f3be2596e6bb889a889ee1b04d24a54593960eb1f578208035ebe582f043031",
+      "after_sha256": "ae537308ff992099e5cb9a0ffa3f976e717adc3c2fcac238335adb851771efa7",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDecreased rendering of service. Reduction of officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nConstriction of a self conscious woman, special strictness of a woman, blockade of a large people, depression of a self defense woman, promotion of a woman's reputation, suppression of the filtration of a people, and resistance of a self defense woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Admetos row.\n\nDecreased rendering of service. Reduction of officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Admetos row.\n\nSource wording: \"Beschränkung einer selbstbewußten Frau, besondere Gründlichkeit einer Frau, Blockade eines großen Volkes, Depressionen einer selbständigen Frau, Festigung des Ansehens einer Frau, Unterdrückung der Führung eines Volkes, Widerstand einer selbständigen Frau\".\n\nEditorial translation, checked against the scan: Restriction of a self-confident woman; a woman's particular thoroughness; blockade of a great people; an independent woman's depression; consolidation of a woman's standing; suppression of a people's leadership; an independent woman's resistance.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Admetos row.\n \n@@ -10,2 +12,6 @@\n\n \n-Constriction of a self conscious woman, special strictness of a woman, blockade of a large people, depression of a self defense woman, promotion of a woman's reputation, suppression of the filtration of a people, and resistance of a self defense woman\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Admetos row.\n+\n+Source wording: \"Beschränkung einer selbstbewußten Frau, besondere Gründlichkeit einer Frau, Blockade eines großen Volkes, Depressionen einer selbständigen Frau, Festigung des Ansehens einer Frau, Unterdrückung der Führung eines Volkes, Widerstand einer selbständigen Frau\".\n+\n+Editorial translation, checked against the scan: Restriction of a self-confident woman; a woman's particular thoroughness; blockade of a great people; an independent woman's depression; consolidation of a woman's standing; suppression of a people's leadership; an independent woman's resistance.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 35,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-admetos.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC mistranslated confidence/independence, thoroughness, consolidation and leadership; source repetition left meaning unexplained.",
+              "Missing comparative categories, exact source locators, connected evidence-linked explanation and early reading route."
+            ],
+            "changes": [
+              "Restored full seven-clause German row and labeled translation; connected reduced service and constrained independence with distinct thoroughness/consolidation expressions, keeping depression attributed.",
+              "Preserved Witte source prose, full canonical identity and distinct orientation; supplied exact PDF/printed references, six bounded categories, adjacent synthesis anchor and direct evidence/base-axis navigation."
+            ],
+            "verification": [
+              "Read complete baseline and live page, all source sections, full metadata/navigation and exact assignment evidence leads plus canonical Moon/Kronos axis.",
+              "Personally rendered, read actual raw text and viewed full WittePDF133 and ABCPDF98/printed198–199 scans; verified precise glyph row, complete clauses and wording. No parser-only repairs.",
+              "Inspected every actual diff line against support; scoped canonical metadata except date, changed outcome, exact formula, missing-review uniqueness, six schema categories, one adjacent anchor, single reading route and relative files/fragments passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-admetos.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-admetos.md#abc-entry",
+              "Witte reduced service/officials; ABC restriction, thoroughness, blockade, depression, consolidation, suppressed leadership and resistance.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Beschränkung einer selbstbewußten Frau / Widerstand einer selbständigen Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-apollon.md",
+      "before_sha256": "26b48dfacdbf66acdaf7d4177249df7acab56d9aee99f1d2ba842856142eab4b",
+      "after_sha256": "93922020b94aa9f6a811c359ee1c2decd94b08c67b5ba9e6be40e83e8e83b958",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGreater demands in the office. More office hours. To hold several offices at same time.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAwareness of science in the people, special feelings experiences, experiences of a great woman, success of a woman in the boss, success of a self conscious third woman, successful authority of a people, self governing trade woman, and increasing self awareness of women",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Apollon row.\n\nGreater demands in the office. More office hours. To hold several offices at same time.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Apollon row.\n\nSource wording: \"Ansehen der Wissenschaft im Volk, besondere Gefühls-Erfahrungen, Erfahrungen einer großen Frau, Erfolg einer Frau beim Chef, Erfolg einer selbstbewußten Frau, erfolgreiche Obrigkeit eines Volkes, selbständige Handels-Frau, zunehmendes Selbstbewußtsein der Frau\".\n\nEditorial translation, checked against the scan: The standing of science among a people; distinctive emotional experiences; a great woman's experiences; a woman's success with the boss; a self-confident woman's success; a people's successful authorities; an independent woman in trade; a woman's increasing self-confidence.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Apollon row.\n \n@@ -10,2 +12,6 @@\n\n \n-Awareness of science in the people, special feelings experiences, experiences of a great woman, success of a woman in the boss, success of a self conscious third woman, successful authority of a people, self governing trade woman, and increasing self awareness of women\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Apollon row.\n+\n+Source wording: \"Ansehen der Wissenschaft im Volk, besondere Gefühls-Erfahrungen, Erfahrungen einer großen Frau, Erfolg einer Frau beim Chef, Erfolg einer selbstbewußten Frau, erfolgreiche Obrigkeit eines Volkes, selbständige Handels-Frau, zunehmendes Selbstbewußtsein der Frau\".\n+\n+Editorial translation, checked against the scan: The standing of science among a people; distinctive emotional experiences; a great woman's experiences; a woman's success with the boss; a self-confident woman's success; a people's successful authorities; an independent woman in trade; a woman's increasing self-confidence.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 36,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-apollon.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC standing of science, self-confidence, independent trade and success with boss were garbled; keyword repetition lacked connection.",
+              "Missing comparative categories, exact source locators, connected evidence-linked explanation and early reading route."
+            ],
+            "changes": [
+              "Restored eight-clause German row and labeled translation; explained wider/more demanding official role alongside experience, success and growing confidence without a causal guarantee.",
+              "Preserved Witte source prose, full canonical identity and distinct orientation; supplied exact PDF/printed references, six bounded categories, adjacent synthesis anchor and direct evidence/base-axis navigation."
+            ],
+            "verification": [
+              "Read complete baseline and live page, all source sections, full metadata/navigation and exact assignment evidence leads plus canonical Moon/Kronos axis.",
+              "Personally rendered, read actual raw text and viewed full WittePDF133 and ABCPDF98/printed198–199 scans; verified precise glyph row, complete clauses and wording. No parser-only repairs.",
+              "Inspected every actual diff line against support; scoped canonical metadata except date, changed outcome, exact formula, missing-review uniqueness, six schema categories, one adjacent anchor, single reading route and relative files/fragments passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-apollon.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-apollon.md#abc-entry",
+              "Witte increased demands/hours/several offices; ABC science standing, emotional experiences, woman success, successful authorities, independent trade and confidence.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen der Wissenschaft im Volk / zunehmendes Selbstbewußtsein der Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-asc.md",
+      "before_sha256": "934c9274082a0f635a35805d3ca0b90b4c86f2fa97a2b67a33a3cd9d868197e3",
+      "after_sha256": "f8a1c8f3f7a85f5cdb53747b89460d8e1ddf2894afbfd8c3f6b0a3ee03ab43fb",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAcquaintance with independent women. Dealing with officials or governments.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRecognized woman in the environment, dominance of other people, hierarchic of another people, managing partner gflihle, self governing woman as a woman, superiority feeling of the other, priority feeling of the partner, and important hour at the place",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Asc row.\n\nAcquaintance with independent women. Dealing with officials or governments.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Asc row.\n\nSource wording: \"Angesehene Frau im Umfeld, Dominanz anderer Völker, Hierarchie eines anderen Volkes, Partner-Gefühle lenken, selbständige Frau als Partner, Überlegenheits-Gefühl des anderen, vorrangige Gefühle des Partners, wichtige Stunde am Ort\".\n\nEditorial translation, checked against the scan: A respected woman in the surroundings; dominance of other peoples; another people's hierarchy; guiding a partner's feelings; an independent woman as partner; another person's feeling of superiority; a partner's feelings taking precedence; an important hour at the place.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Asc row.\n \n@@ -10,2 +12,6 @@\n\n \n-Recognized woman in the environment, dominance of other people, hierarchic of another people, managing partner gflihle, self governing woman as a woman, superiority feeling of the other, priority feeling of the partner, and important hour at the place\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Asc row.\n+\n+Source wording: \"Angesehene Frau im Umfeld, Dominanz anderer Völker, Hierarchie eines anderen Volkes, Partner-Gefühle lenken, selbständige Frau als Partner, Überlegenheits-Gefühl des anderen, vorrangige Gefühle des Partners, wichtige Stunde am Ort\".\n+\n+Editorial translation, checked against the scan: A respected woman in the surroundings; dominance of other peoples; another people's hierarchy; guiding a partner's feelings; an independent woman as partner; another person's feeling of superiority; a partner's feelings taking precedence; an important hour at the place.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 37,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-asc.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC partner feelings and independent woman as partner were damaged; generic list omitted the emotional dimension of encounters with standing/authority.",
+              "Missing comparative categories, exact source locators, connected evidence-linked explanation and early reading route."
+            ],
+            "changes": [
+              "Restored eight ABC clauses with German quotation and checked translation; explained exact contacts/partners/surroundings application with distinct hierarchy, guiding feelings and superiority/precedence meanings.",
+              "Preserved Witte source prose, full canonical identity and distinct orientation; supplied exact PDF/printed references, six bounded categories, adjacent synthesis anchor and direct evidence/base-axis navigation."
+            ],
+            "verification": [
+              "Read complete baseline and live page, all source sections, full metadata/navigation and exact assignment evidence leads plus canonical Moon/Kronos axis.",
+              "Personally rendered, read actual raw text and viewed full WittePDF133 and ABCPDF98/printed198–199 scans; verified precise glyph row, complete clauses and wording. No parser-only repairs.",
+              "Inspected every actual diff line against support; scoped canonical metadata except date, changed outcome, exact formula, missing-review uniqueness, six schema categories, one adjacent anchor, single reading route and relative files/fragments passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-asc.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-asc.md#abc-entry",
+              "Witte independent women/official or government contacts; ABC respected surroundings, other peoples, hierarchy, partner feelings/independence/superiority/precedence/place.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Angesehene Frau im Umfeld / wichtige Stunde am Ort."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-cupido.md",
+      "before_sha256": "a2dc29ac08ff506e32aaabc0188a6e8d65f9524f8a9de6457929ac7971d0b272",
+      "after_sha256": "b3941f17765189066f6dbeff0ba999e3a4372ed6a04b208fbc782423f896b61a",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIndependent authoritative housewife. Woman leads in art. In community with officials. Leisure hours of the housewife.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nCommunity of women, special community of women, women as head of a community, large people community, self employed women of a community, government community of a people, and important hour for women",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Cupido row.\n\nIndependent authoritative housewife. Woman leads in art. In community with officials. Leisure hours of the housewife.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Cupido row.\n\nSource wording: \"Ansehen einer Frauen-Gemeinschaft, besondere Gemüts-Gemeinschaft, Frau als Chef einer Gemeinschaft, große Volks-Gemeinschaft, selbständige Frauen einer Gemeinschaft, Obrigkeits-Gemeinschaft eines Volkes, wichtige Stunde für die Frau\".\n\nEditorial translation, checked against the scan: The standing of a women's community; a distinctive emotional community; a woman as head of a community; a large community of a people; independent women of a community; a people's community of authorities; an important hour for a woman.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Cupido row.\n \n@@ -10,2 +12,6 @@\n\n \n-Community of women, special community of women, women as head of a community, large people community, self employed women of a community, government community of a people, and important hour for women\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Cupido row.\n+\n+Source wording: \"Ansehen einer Frauen-Gemeinschaft, besondere Gemüts-Gemeinschaft, Frau als Chef einer Gemeinschaft, große Volks-Gemeinschaft, selbständige Frauen einer Gemeinschaft, Obrigkeits-Gemeinschaft eines Volkes, wichtige Stunde für die Frau\".\n+\n+Editorial translation, checked against the scan: The standing of a women's community; a distinctive emotional community; a woman as head of a community; a large community of a people; independent women of a community; a people's community of authorities; an important hour for a woman.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 38,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-cupido.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC standing, emotional community and independence were lost or mistranslated as mere women community/self-employment.",
+              "Missing comparative categories, exact source locators, connected evidence-linked explanation and early reading route."
+            ],
+            "changes": [
+              "Restored seven-clause German row and checked translation; connected communal standing/authority while retaining emotional, household, artistic and administrative settings without a single institution assumption.",
+              "Preserved Witte source prose, full canonical identity and distinct orientation; supplied exact PDF/printed references, six bounded categories, adjacent synthesis anchor and direct evidence/base-axis navigation."
+            ],
+            "verification": [
+              "Read complete baseline and live page, all source sections, full metadata/navigation and exact assignment evidence leads plus canonical Moon/Kronos axis.",
+              "Personally rendered, read actual raw text and viewed full WittePDF133 and ABCPDF98/printed198–199 scans; verified precise glyph row, complete clauses and wording. No parser-only repairs.",
+              "Inspected every actual diff line against support; scoped canonical metadata except date, changed outcome, exact formula, missing-review uniqueness, six schema categories, one adjacent anchor, single reading route and relative files/fragments passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-cupido.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-cupido.md#abc-entry",
+              "Witte authoritative housewife, art leadership, officials, leisure; ABC community standing, emotional community, female head, large community, independence, authorities and important hour.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen einer Frauen-Gemeinschaft / wichtige Stunde für die Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-hades.md",
+      "before_sha256": "322e40ef907bb8f08d5a69ffcdcb20416ced93894b692029b1e6529766c80fb1",
+      "after_sha256": "82844fec7323237ba1a180479b60e787a83bb2ffd0511a2bbda4887d4a7c45af",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGrief through independent women or officials. Poor dismissed officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAn old woman's reputation, discrimination against self wound women, deprivation of a self indigenous woman, criminal authority of a people, criminal superiority of a woman, lack of self indulgence of a woman, and important misdemeanour of a woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Hades row.\n\nGrief through independent women or officials. Poor dismissed officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Hades row.\n\nSource wording: \"Ansehen einer alten Frau, Benachteiligung selbstbewußter Frauen, Entbehrungen einer selbständigen Frau, kriminelle Obrigkeit eines Volkes, kriminelle Überlegenheit einer Frau, Mangel an Selbständigkeit einer Frau, wichtige Vergangenheit einer Frau\".\n\nEditorial translation, checked against the scan: An older woman's standing; disadvantage affecting self-confident women; an independent woman's privations; a people's criminal authorities; a woman's criminal superiority; a woman's lack of independence; a woman's important past.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Hades row.\n \n@@ -10,2 +12,6 @@\n\n \n-An old woman's reputation, discrimination against self wound women, deprivation of a self indigenous woman, criminal authority of a people, criminal superiority of a woman, lack of self indulgence of a woman, and important misdemeanour of a woman\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Hades row.\n+\n+Source wording: \"Ansehen einer alten Frau, Benachteiligung selbstbewußter Frauen, Entbehrungen einer selbständigen Frau, kriminelle Obrigkeit eines Volkes, kriminelle Überlegenheit einer Frau, Mangel an Selbständigkeit einer Frau, wichtige Vergangenheit einer Frau\".\n+\n+Editorial translation, checked against the scan: An older woman's standing; disadvantage affecting self-confident women; an independent woman's privations; a people's criminal authorities; a woman's criminal superiority; a woman's lack of independence; a woman's important past.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 39,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-hades.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC confidence/independence and important past were mistranslated as self-wound, self-indigenous, self-indulgence and misdemeanour.",
+              "Missing comparative categories, exact source locators, connected evidence-linked explanation and early reading route."
+            ],
+            "changes": [
+              "Restored all seven clauses with exact German and labeled translation; explained grief/privation/disadvantage alongside older standing/past, preserving criminal authority as particular source judgment rather than inference from age or independence.",
+              "Preserved Witte source prose, full canonical identity and distinct orientation; supplied exact PDF/printed references, six bounded categories, adjacent synthesis anchor and direct evidence/base-axis navigation."
+            ],
+            "verification": [
+              "Read complete baseline and live page, all source sections, full metadata/navigation and exact assignment evidence leads plus canonical Moon/Kronos axis.",
+              "Personally rendered, read actual raw text and viewed full WittePDF133 and ABCPDF98/printed198–199 scans; verified precise glyph row, complete clauses and wording. No parser-only repairs.",
+              "Inspected every actual diff line against support; scoped canonical metadata except date, changed outcome, exact formula, missing-review uniqueness, six schema categories, one adjacent anchor, single reading route and relative files/fragments passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-hades.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-hades.md#abc-entry",
+              "Witte grief and poor dismissed officials; ABC older standing, self-confident disadvantage, independent privations, criminal authorities/superiority, lack independence and important past.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen einer alten Frau / wichtige Vergangenheit einer Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-jupiter.md",
+      "before_sha256": "e0342ed1b70b59e558566f3be53213de714ceb8788007dec7eb50bb9ac486ac6",
+      "after_sha256": "079f8d0ad44c1b96a5e55faaafcf8e6270aaf402700ca21fb7c098900304e999",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSuccessful leading lady. Beneficent independent women. Successful officialdom. The board under successful direction.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial happiness of a woman, successful self governing woman, financial superiority of a woman, financial hierarchy of a people, great joy feeling, right hierarchy of a people, advantages for a great people, and important women right",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Jupiter row.\n\nSuccessful leading lady. Beneficent independent women. Successful officialdom. The board under successful direction.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Jupiter row.\n\nSource wording: \"Besonderes Glück einer Frau, erfolgreiche selbständige Frau, finanzielle Überlegenheit einer Frau, Finanz-Hierarchie eines Volkes, großes Freude-Gefühl, Rechts-Hierarchie eines Volkes, Vorteile für ein großes Volk, wichtiges Frauen-Recht\".\n\nEditorial translation, checked against the scan: A woman's particular happiness; a successful independent woman; a woman's financial superiority; a people's financial hierarchy; a great feeling of joy; a people's legal hierarchy; advantages for a great people; an important women's right.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Jupiter row.\n \n@@ -10,2 +12,6 @@\n\n \n-Special happiness of a woman, successful self governing woman, financial superiority of a woman, financial hierarchy of a people, great joy feeling, right hierarchy of a people, advantages for a great people, and important women right\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Jupiter row.\n+\n+Source wording: \"Besonderes Glück einer Frau, erfolgreiche selbständige Frau, finanzielle Überlegenheit einer Frau, Finanz-Hierarchie eines Volkes, großes Freude-Gefühl, Rechts-Hierarchie eines Volkes, Vorteile für ein großes Volk, wichtiges Frauen-Recht\".\n+\n+Editorial translation, checked against the scan: A woman's particular happiness; a successful independent woman; a woman's financial superiority; a people's financial hierarchy; a great feeling of joy; a people's legal hierarchy; advantages for a great people; an important women's right.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 40,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-jupiter.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC self-governing/right hierarchy/joy wording lacked precision; source repetition and absent schema concealed specific finance/rights scope.",
+              "Missing six-category comparison, exact source references, connected explanation and early reading routes."
+            ],
+            "changes": [
+              "Restored all eight German clauses and checked translation, explained successful or beneficial authority/independence alongside joy and material/civic structures without equating hierarchy with moral rightness.",
+              "Retained canonical orientation/full identities, source-native evidence and immediately adjacent anchor; added exact printed/PDF references and source/base-axis links."
+            ],
+            "verification": [
+              "Read the entire original/live page including all metadata, sources and navigation, exact sharded source leads, and linked Moon/Kronos axis.",
+              "Personally read actual WittePDF133 and ABCPDF98 full source text and viewed saved full scans; exact glyph rows and complete clauses/boundaries checked.",
+              "Inspected every actual changed line against source support; canonical metadata except date, changed outcome, body formula, absent previous record, six categories, unique immediately adjacent anchor, single route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-jupiter.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-jupiter.md#abc-entry",
+              "Witte successful leading woman/officialdom/board and beneficent independence; ABC happiness, financial superiority/hierarchy, legal hierarchy, advantages and important women right.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Besonderes Glück einer Frau / wichtiges Frauen-Recht."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-mars.md",
+      "before_sha256": "891048f4acca68aa4845fe71d2d97825774dd91363c90bfc8ed9733caf001a00",
+      "after_sha256": "f8a8cd907de829dc1526d4608d4ee3d2053878ea5bcf9fc6c4a1ad9de3fc2f7d",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIndependent female manager acting with authority. Independent or despotic acting officials. Striving for official position.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nauthority of the will of a woman, government work in a people, special impulses of a woman, direction of emotional actions, independently acting woman, preferential treatment of the woman, important activity of a woman, and will of a self aware people",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Mars row.\n\nIndependent female manager acting with authority. Independent or despotic acting officials. Striving for official position.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Mars row.\n\nSource wording: \"Autorität des Willens einer Frau, Behörden-Arbeit in einem Volk, besondere Impulse einer Frau, Lenkung der Gefühls-Handlungen, selbständig handelnde Frau, vorrangige Behandlung der Frau, wichtige Tätigkeit einer Frau, Wille eines selbstbewußten Volkes\".\n\nEditorial translation, checked against the scan: Authority of a woman's will; administrative work among a people; a woman's distinctive impulses; directing emotionally motivated actions; a woman acting independently; priority treatment for a woman; a woman's important activity; the will of a self-confident people.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Mars row.\n \n@@ -10,2 +12,6 @@\n\n \n-authority of the will of a woman, government work in a people, special impulses of a woman, direction of emotional actions, independently acting woman, preferential treatment of the woman, important activity of a woman, and will of a self aware people\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Mars row.\n+\n+Source wording: \"Autorität des Willens einer Frau, Behörden-Arbeit in einem Volk, besondere Impulse einer Frau, Lenkung der Gefühls-Handlungen, selbständig handelnde Frau, vorrangige Behandlung der Frau, wichtige Tätigkeit einer Frau, Wille eines selbstbewußten Volkes\".\n+\n+Editorial translation, checked against the scan: Authority of a woman's will; administrative work among a people; a woman's distinctive impulses; directing emotionally motivated actions; a woman acting independently; priority treatment for a woman; a woman's important activity; the will of a self-confident people.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 41,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-mars.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Keyword repetition did not connect will, independent action and administrative authority or retain independent/despotic distinction clearly.",
+              "Missing six-category comparison, exact source references, connected explanation and early reading routes."
+            ],
+            "changes": [
+              "Preserved Witte, checked/retranslated all eight ABC clauses with native quotation, explained active authority and agency while keeping despotic officials distinct; six categories and direct evidence routes.",
+              "Retained canonical orientation/full identities, source-native evidence and immediately adjacent anchor; added exact printed/PDF references and source/base-axis links."
+            ],
+            "verification": [
+              "Read the entire original/live page including all metadata, sources and navigation, exact sharded source leads, and linked Moon/Kronos axis.",
+              "Personally read actual WittePDF133 and ABCPDF98 full source text and viewed saved full scans; exact glyph rows and complete clauses/boundaries checked.",
+              "Inspected every actual changed line against source support; canonical metadata except date, changed outcome, body formula, absent previous record, six categories, unique immediately adjacent anchor, single route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-mars.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-mars.md#abc-entry",
+              "Witte female management, independent/despotic officials and pursuit of office; ABC will, administration, impulses, emotional actions, independence, priority treatment and activity.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Autorität des Willens einer Frau / Wille eines selbstbewußten Volkes."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-mc.md",
+      "before_sha256": "9155181c548f6bafa24e3b80f9f44b1fb22e20601d6f9c564acd9531dd197d2c",
+      "after_sha256": "b824283dc8d55c7945c6bd659643e1f92d6c317e1313ba60b02b801511a3787d",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nNobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nreputation of my woman, ensouled self aware people, especially sensitive soul, hierarchy of my people, my feeling of dominance, my woman as chief, my woman has precedence, my self aware woman, soulful greatness of a woman, and important feelings of the soul",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, MC row.\n\nNobility of soul. Mental influence by independent women. To belong to the leading people. Civil servants.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, MC row.\n\nSource wording: \"Ansehen meiner Frau, beseeltes selbstbewußtes Volk, besonders gefühlvolle Seele, Hierarchie meines Volkes, mein Dominanz-Gefühl, meine Frau als Chef, meine Frau hat Vorrang, meine selbstbewußte Frau, seelische Größe einer Frau, wichtige Gefühle der Seele\".\n\nEditorial translation, checked against the scan: My wife's standing; an inspired, self-confident people; a soul particularly rich in feeling; my people's hierarchy; my feeling of dominance; my wife as chief; my wife takes precedence; my self-confident wife; a woman's inner greatness; important feelings of the soul.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, MC row.\n \n@@ -10,2 +12,6 @@\n\n \n-reputation of my woman, ensouled self aware people, especially sensitive soul, hierarchy of my people, my feeling of dominance, my woman as chief, my woman has precedence, my self aware woman, soulful greatness of a woman, and important feelings of the soul\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, MC row.\n+\n+Source wording: \"Ansehen meiner Frau, beseeltes selbstbewußtes Volk, besonders gefühlvolle Seele, Hierarchie meines Volkes, mein Dominanz-Gefühl, meine Frau als Chef, meine Frau hat Vorrang, meine selbstbewußte Frau, seelische Größe einer Frau, wichtige Gefühle der Seele\".\n+\n+Editorial translation, checked against the scan: My wife's standing; an inspired, self-confident people; a soul particularly rich in feeling; my people's hierarchy; my feeling of dominance; my wife as chief; my wife takes precedence; my self-confident wife; a woman's inner greatness; important feelings of the soul.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 42,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-mc.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC feeling-rich soul/confidence wording lacked precision and source-repetition synthesis did not explain personal/inward versus official scope.",
+              "Missing six-category comparison, exact source references, connected explanation and early reading routes."
+            ],
+            "changes": [
+              "Restored ten ABC native clauses with checked translation; explained inner nobility, emotional richness and first-person relations/feelings alongside civil service/hierarchy, without reducing all meaning to vocation.",
+              "Retained canonical orientation/full identities, source-native evidence and immediately adjacent anchor; added exact printed/PDF references and source/base-axis links."
+            ],
+            "verification": [
+              "Read the entire original/live page including all metadata, sources and navigation, exact sharded source leads, and linked Moon/Kronos axis.",
+              "Personally read actual WittePDF133 and ABCPDF98 full source text and viewed saved full scans; exact glyph rows and complete clauses/boundaries checked.",
+              "Inspected every actual changed line against source support; canonical metadata except date, changed outcome, body formula, absent previous record, six categories, unique immediately adjacent anchor, single route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-mc.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-mc.md#abc-entry",
+              "Witte nobility of soul/influence/leading people/civil servants; ABC wife standing/confidence/precedence, my people/dominance, emotional richness and inner greatness.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 10,
+      "observation": "All10 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen meiner Frau / wichtige Gefühle der Seele."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-mercury.md",
+      "before_sha256": "4f04076626fa930b4e1d7f599f3e0d6a5990e1f42c19a58c7ba048aa4a6b85ff",
+      "after_sha256": "04762007b8dc8e895aaec4be3524125a320d3b175f88f0f0271ce99dde8a7533",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIndependent thinking. Decrees. Official style in writing. Autocratic.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial language feeling, woman as media boss, language with respected women, youth future of a people, news about the authority of a people, self conscious young woman, priority of the youth of a people, and important words of a woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Mercury row.\n\nIndependent thinking. Decrees. Official style in writing. Autocratic.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Mercury row.\n\nSource wording: \"Besonderes Sprach-Gefühl, Frau als Medien-Chef, Gespräche mit angesehenen Frauen, Jugend-Führung eines Volkes, Nachrichten über die Obrigkeit eines Volkes, selbstbewußte junge Frau, Vorrang der Jugend eines Volkes, wichtige Worte einer Frau\".\n\nEditorial translation, checked against the scan: A distinctive feel for language; a woman as media chief; conversations with respected women; leadership of a people's youth; news about a people's authorities; a self-confident young woman; precedence of a people's youth; a woman's important words.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Mercury row.\n \n@@ -10,2 +12,6 @@\n\n \n-Special language feeling, woman as media boss, language with respected women, youth future of a people, news about the authority of a people, self conscious young woman, priority of the youth of a people, and important words of a woman\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Mercury row.\n+\n+Source wording: \"Besonderes Sprach-Gefühl, Frau als Medien-Chef, Gespräche mit angesehenen Frauen, Jugend-Führung eines Volkes, Nachrichten über die Obrigkeit eines Volkes, selbstbewußte junge Frau, Vorrang der Jugend eines Volkes, wichtige Worte einer Frau\".\n+\n+Editorial translation, checked against the scan: A distinctive feel for language; a woman as media chief; conversations with respected women; leadership of a people's youth; news about a people's authorities; a self-confident young woman; precedence of a people's youth; a woman's important words.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 43,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-mercury.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC conversations/youth leadership/self-confidence were mistranslated; source lists did not explain independent/official communication.",
+              "Missing six-category comparison, exact source references, connected explanation and early reading routes."
+            ],
+            "changes": [
+              "Restored eight German clauses and labeled checked translation; explained thinking, words, media and youth leadership, retaining autocratic expression as a distinct source application.",
+              "Retained canonical orientation/full identities, source-native evidence and immediately adjacent anchor; added exact printed/PDF references and source/base-axis links."
+            ],
+            "verification": [
+              "Read the entire original/live page including all metadata, sources and navigation, exact sharded source leads, and linked Moon/Kronos axis.",
+              "Personally read actual WittePDF133 and ABCPDF98 full source text and viewed saved full scans; exact glyph rows and complete clauses/boundaries checked.",
+              "Inspected every actual changed line against source support; canonical metadata except date, changed outcome, body formula, absent previous record, six categories, unique immediately adjacent anchor, single route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-mercury.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-mercury.md#abc-entry",
+              "Witte independent thought, decrees, official writing and autocratic; ABC language, media, conversations, youth leadership/news/confidence/precedence/words.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Besonderes Sprach-Gefühl / wichtige Worte einer Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-neptune.md",
+      "before_sha256": "f26293e9b0ddb2fe8890162a2ebc49f6c4c476e84617c5f6f95dccf6c2fef718",
+      "after_sha256": "711ab183a208f6a420298c81005ea40f1f89a1b96736fa96fe2badc9329274ba",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIndependent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIgnorance of a self defenced woman, respect for a woman, a woman's authoritarianity, exchange by the authority of a woman, a woman in the water, development of a woman in the state of health, a woman in the state of health, and a woman's health",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Neptune row.\n\nIndependent women unfit as managers. Leading women cause intrigues, failures. Officials and boards interfere in vain.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Neptune row; the following development clauses belong to Pluto.\n\nSource wording: \"Ahnungen einer selbständigen Frau, Ansehen eines fremden Volkes, Autoritäts-Schwäche einer Frau, Enttäuschung durch die Obrigkeit eines Volkes, Feingefühl einer weiblichen Autorität, große Zukunft einer Frau, Überlegenheit einer Frau im Wasser\".\n\nEditorial translation, checked against the scan: An independent woman's premonitions; a foreign people's standing; a woman's weakness of authority; disappointment through a people's authorities; the sensitivity of a female authority; a woman's great future; a woman's superiority in water.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Neptune row.\n \n@@ -10,2 +12,6 @@\n\n \n-Ignorance of a self defenced woman, respect for a woman, a woman's authoritarianity, exchange by the authority of a woman, a woman in the water, development of a woman in the state of health, a woman in the state of health, and a woman's health\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Neptune row; the following development clauses belong to Pluto.\n+\n+Source wording: \"Ahnungen einer selbständigen Frau, Ansehen eines fremden Volkes, Autoritäts-Schwäche einer Frau, Enttäuschung durch die Obrigkeit eines Volkes, Feingefühl einer weiblichen Autorität, große Zukunft einer Frau, Überlegenheit einer Frau im Wasser\".\n+\n+Editorial translation, checked against the scan: An independent woman's premonitions; a foreign people's standing; a woman's weakness of authority; disappointment through a people's authorities; the sensitivity of a female authority; a woman's great future; a woman's superiority in water.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 44,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-neptune.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC mistranslated premonitions, foreign people, weakness/disappointment/sensitivity/future and added repetitive unsupported health text; parser also absorbed following Pluto clauses.",
+              "Missing six-category comparison, exact source references, connected explanation and early reading routes."
+            ],
+            "changes": [
+              "Restored complete seven-clause German Neptune row with checked labeled translation and exact boundary; preserved Witte but explained adverse management range alongside ABC receptive/foreign/future/water meanings, removed false health claims.",
+              "Retained canonical orientation/full identities, source-native evidence and immediately adjacent anchor; added exact printed/PDF references and source/base-axis links."
+            ],
+            "verification": [
+              "Read the entire original/live page including all metadata, sources and navigation, exact sharded source leads, and linked Moon/Kronos axis.",
+              "Personally read actual WittePDF133 and ABCPDF98 full source text and viewed saved full scans; exact glyph rows and complete clauses/boundaries checked.",
+              "Inspected every actual changed line against source support; canonical metadata except date, changed outcome, body formula, absent previous record, six categories, unique immediately adjacent anchor, single route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [
+              "ABC superiority of a woman in water is literal at printed199/PDF98 but the brief clause gives no more specific setting; no sport/occupation/medical application inferred."
+            ],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-neptune.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-neptune.md#abc-entry",
+              "Witte failed management/intrigues/vain interference; ABC premonitions, foreign standing, authority weakness, disappointment, sensitivity, great future and water superiority.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "Exact seven Neptune clauses end Überlegenheit einer Frau im Wasser; next development row belongs Pluto. Literal water setting remains undefined; false repeated health claims excluded."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-node.md",
+      "before_sha256": "e9aab9d7a67ad0e670be5082b3c59b3845a623aff44c88202fc0b30fec639df6",
+      "after_sha256": "0b3d3561e584bd5ff2e9803bf8d70f2580d1d3324e8792ef03bb033572c0c8a8",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nConnections with independent women or officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRelationship with self grown women, great feelings connection, contacts with respected women, hour of important connections, connection with the authority of a people, connections with a dominant people, and priority of women in contacts",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Node row.\n\nConnections with independent women or officials.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Node row.\n\nSource wording: \"Beziehung zu selbstbewußten Frauen, große Gefühls-Verbindung, Kontakte zu angesehenen Frauen, Stunde wichtiger Verbindungen, Verbindung zur Obrigkeit eines Volkes, Verbindungen zu einem dominierenden Volk, Vorrang der Frau bei Kontakten\".\n\nEditorial translation, checked against the scan: A relationship with self-confident women; a great emotional bond; contacts with respected women; an hour of important connections; connection with a people's authorities; connections with a dominant people; a woman's precedence in contacts.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Node row.\n \n@@ -10,2 +12,6 @@\n\n \n-Relationship with self grown women, great feelings connection, contacts with respected women, hour of important connections, connection with the authority of a people, connections with a dominant people, and priority of women in contacts\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Node row.\n+\n+Source wording: \"Beziehung zu selbstbewußten Frauen, große Gefühls-Verbindung, Kontakte zu angesehenen Frauen, Stunde wichtiger Verbindungen, Verbindung zur Obrigkeit eines Volkes, Verbindungen zu einem dominierenden Volk, Vorrang der Frau bei Kontakten\".\n+\n+Editorial translation, checked against the scan: A relationship with self-confident women; a great emotional bond; contacts with respected women; an hour of important connections; connection with a people's authorities; connections with a dominant people; a woman's precedence in contacts.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 45,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-node.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC self-grown women mistranslated self-confidence; formula explanation repeated fragments without connecting emotional and official associations.",
+              "Missing exact references, substantive comparative schema and early routes to one connected evidence-linked interpretation."
+            ],
+            "changes": [
+              "Restored seven German clauses and checked labeled translation, explaining connections with independence/standing and retaining emotional bond/precedence as distinct relational meanings.",
+              "Preserved full canonical identity/orientation, source-native categories and complete supporting passages; added meaningful six categories, exact PDF/printed locators, single route and stable immediately adjacent synthesis anchor."
+            ],
+            "verification": [
+              "Read complete original and live page, every source/metadata/link and exact source-evidence shard, plus canonical Moon/Kronos base-axis context.",
+              "Personally read actual source text and viewed Witte133 and ABC98/printed198–199 full scans, checking complete exact glyph rows and neighboring boundaries. Pluto alternative glyph also personally confirmed on WittePDF28 key.",
+              "Inspected every actual changed line against source; canonical metadata except date, body formula, changed outcome, unique unreviewed status, six categories, unique adjacent anchor, reading route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-node.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-node.md#abc-entry",
+              "Witte independent women/official connections; ABC confidence, emotional bond, respected contacts, authorities/dominant people and precedence.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Beziehung zu selbstbewußten Frauen / Vorrang der Frau bei Kontakten."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-pluto.md",
+      "before_sha256": "d3ee309c448a07df8a6991a507f7c09052706a81b11df48027072e5778517165",
+      "after_sha256": "5e7c240d34fcef187e8553824ef525e6ddb84cd9298b5cb4a6fba1cf3decf312",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nP Institution and organization of a civil service.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment, changes in authority for a people, increasing priority for women, changes of a self indigenous woman, and important developments in the hour",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Pluto row. The former leading `P` is an alternative Pluto glyph, identified in the source key on PDF page `28`.\n\nInstitution and organization of a civil service.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Pluto row; its first clauses had been absorbed into the parser's Neptune entry.\n\nSource wording: \"Besondere Gemüts-Entwicklungen, Entwicklung einer Frau zur Selbständigkeit, große Gefühls-Entwicklung, Obrigkeits-Veränderungen für ein Volk, wachsender Vorrang der Frau, Wandlungen einer selbständigen Frau, wichtige Entwicklungen in der Stunde\".\n\nEditorial translation, checked against the scan: Distinctive inner developments; a woman's development toward independence; great emotional development; changes in a people's authorities; a woman's growing precedence; changes in an independent woman; important developments in the hour.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -4,3 +4,5 @@\n\n \n-P Institution and organization of a civil service.\n+Source reference: PDF page `133`, `MOON + KRONOS`, Pluto row. The former leading `P` is an alternative Pluto glyph, identified in the source key on PDF page `28`.\n+\n+Institution and organization of a civil service.\n \n@@ -10,2 +12,6 @@\n\n \n-Development, changes in authority for a people, increasing priority for women, changes of a self indigenous woman, and important developments in the hour\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Pluto row; its first clauses had been absorbed into the parser's Neptune entry.\n+\n+Source wording: \"Besondere Gemüts-Entwicklungen, Entwicklung einer Frau zur Selbständigkeit, große Gefühls-Entwicklung, Obrigkeits-Veränderungen für ein Volk, wachsender Vorrang der Frau, Wandlungen einer selbständigen Frau, wichtige Entwicklungen in der Stunde\".\n+\n+Editorial translation, checked against the scan: Distinctive inner developments; a woman's development toward independence; great emotional development; changes in a people's authorities; a woman's growing precedence; changes in an independent woman; important developments in the hour.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 46,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-pluto.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Witte alternate Pluto glyph P treated as prose; ABC opening emotional/independence clauses lost into Neptune and independent woman corrupted.",
+              "Missing exact references, substantive comparative schema and early routes to one connected evidence-linked interpretation."
+            ],
+            "changes": [
+              "Removed proven glyph prefix with source-key note; restored all seven German Pluto clauses with checked translation, explaining institutional organization and personal emotional/independence development without merging Neptune.",
+              "Preserved full canonical identity/orientation, source-native categories and complete supporting passages; added meaningful six categories, exact PDF/printed locators, single route and stable immediately adjacent synthesis anchor."
+            ],
+            "verification": [
+              "Read complete original and live page, every source/metadata/link and exact source-evidence shard, plus canonical Moon/Kronos base-axis context.",
+              "Personally read actual source text and viewed Witte133 and ABC98/printed198–199 full scans, checking complete exact glyph rows and neighboring boundaries. Pluto alternative glyph also personally confirmed on WittePDF28 key.",
+              "Inspected every actual changed line against source; canonical metadata except date, body formula, changed outcome, unique unreviewed status, six categories, unique adjacent anchor, reading route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-pluto.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-pluto.md#abc-entry",
+              "Witte civil-service organization and source glyph keyPDF28; ABC seven development/independence/authorities/precedence clauses.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-witte-factor-key-pdf28.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "Exact seven Pluto development clauses begin Besondere Gemüts-Entwicklungen and end wichtige Entwicklungen in der Stunde; entire paragraph belongs Pluto, not preceding Neptune. Alternative P is a glyph confirmed in actual Witte133 row and source key28."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-poseidon.md",
+      "before_sha256": "9d1c58a74335052b32a3894d7cb73371ef6634f6bc2e2517f6b6cafd509f9c61",
+      "after_sha256": "dae29d2ebaf2b9a547a7da05baeac1b833eea77d1b3b66d7a949c31fa99578d3",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nOfficials of universities. Ecclesiastical administrative authority. The spiritual authorities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAuthority of a woman through truth, special insight of a woman, spiritual superiority of a woman, spiritual hierarchic of a people, great ideas of a woman, cultural authorship of a people, the munft of a self indigenous woman, and important knowledge of a woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Poseidon row.\n\nOfficials of universities. Ecclesiastical administrative authority. The spiritual authorities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Poseidon row.\n\nSource wording: \"Autorität einer Frau durch Wahrheit, besondere Einsicht der Frau, geistige Überlegenheit einer Frau, geistige Hierarchie eines Volkes, große Ideen einer Frau, Kultur-Autorität eines Volkes, Vernunft einer selbständigen Frau, wichtige Erkenntnis einer Frau\".\n\nEditorial translation, checked against the scan: A woman's authority through truth; a woman's distinctive insight; a woman's mental or spiritual superiority; a people's mental or spiritual hierarchy; a woman's great ideas; a people's cultural authority; an independent woman's reason; a woman's important insight.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Poseidon row.\n \n@@ -10,2 +12,6 @@\n\n \n-Authority of a woman through truth, special insight of a woman, spiritual superiority of a woman, spiritual hierarchic of a people, great ideas of a woman, cultural authorship of a people, the munft of a self indigenous woman, and important knowledge of a woman\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Poseidon row.\n+\n+Source wording: \"Autorität einer Frau durch Wahrheit, besondere Einsicht der Frau, geistige Überlegenheit einer Frau, geistige Hierarchie eines Volkes, große Ideen einer Frau, Kultur-Autorität eines Volkes, Vernunft einer selbständigen Frau, wichtige Erkenntnis einer Frau\".\n+\n+Editorial translation, checked against the scan: A woman's authority through truth; a woman's distinctive insight; a woman's mental or spiritual superiority; a people's mental or spiritual hierarchy; a woman's great ideas; a people's cultural authority; an independent woman's reason; a woman's important insight.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 47,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-poseidon.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC authority mistranslated authorship, reason truncated to munft and independence corrupted; source lists did not explain institutional/intellectual scope.",
+              "Missing exact references, substantive comparative schema and early routes to one connected evidence-linked interpretation."
+            ],
+            "changes": [
+              "Restored eight native clauses and labeled translation retaining mental/spiritual breadth; connected educational/church/cultural authority with insight/reason/truth without equating rank with wisdom.",
+              "Preserved full canonical identity/orientation, source-native categories and complete supporting passages; added meaningful six categories, exact PDF/printed locators, single route and stable immediately adjacent synthesis anchor."
+            ],
+            "verification": [
+              "Read complete original and live page, every source/metadata/link and exact source-evidence shard, plus canonical Moon/Kronos base-axis context.",
+              "Personally read actual source text and viewed Witte133 and ABC98/printed198–199 full scans, checking complete exact glyph rows and neighboring boundaries. Pluto alternative glyph also personally confirmed on WittePDF28 key.",
+              "Inspected every actual changed line against source; canonical metadata except date, body formula, changed outcome, unique unreviewed status, six categories, unique adjacent anchor, reading route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-poseidon.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-poseidon.md#abc-entry",
+              "Witte university/church/spiritual officials; ABC truth/insight/mental-spiritual hierarchy/ideas/cultural authority/independent reason.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Autorität einer Frau durch Wahrheit / wichtige Erkenntnis einer Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-saturn.md",
+      "before_sha256": "51aaba646e36b8153aada87f69880279cecd22e6d2c87a9a883c36453006b89c",
+      "after_sha256": "d2cb8637e8b977889b38c3cb4263c5c784cd3f5ab8b558826ea376b3726d7a63",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nA woman of old age, tasks of a self defense woman, loss of authority in the people, special problems of poverty, patience of a large people, mature achievements of a woman, damage caused by the authority of a people, and important tasks of the woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Saturn row.\n\nHindrances through officials or leading women, losses therefrom. Hindrances through officials, commissions or boards.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Saturn row.\n\nSource wording: \"Ansehen einer Frau im Alter, Aufgaben einer selbständigen Frau, Autoritäts-Verlust im Volk, besondere Gemüts-Probleme, Geduld eines großen Volkes, reife Leistungen einer Frau, Schaden durch die Obrigkeit eines Volkes, wichtige Aufgaben der Frau\".\n\nEditorial translation, checked against the scan: A woman's standing in old age; an independent woman's tasks; loss of authority among a people; distinctive emotional problems; a great people's patience; a woman's mature achievements; harm through a people's authorities; a woman's important tasks.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Saturn row.\n \n@@ -10,2 +12,6 @@\n\n \n-A woman of old age, tasks of a self defense woman, loss of authority in the people, special problems of poverty, patience of a large people, mature achievements of a woman, damage caused by the authority of a people, and important tasks of the woman\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Saturn row.\n+\n+Source wording: \"Ansehen einer Frau im Alter, Aufgaben einer selbständigen Frau, Autoritäts-Verlust im Volk, besondere Gemüts-Probleme, Geduld eines großen Volkes, reife Leistungen einer Frau, Schaden durch die Obrigkeit eines Volkes, wichtige Aufgaben der Frau\".\n+\n+Editorial translation, checked against the scan: A woman's standing in old age; an independent woman's tasks; loss of authority among a people; distinctive emotional problems; a great people's patience; a woman's mature achievements; harm through a people's authorities; a woman's important tasks.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 48,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-saturn.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC standing in old age omitted, independence mistranslated self-defense and emotional problems mistranslated poverty.",
+              "Missing exact references, substantive comparative schema and early routes to one connected evidence-linked interpretation."
+            ],
+            "changes": [
+              "Restored eight German clauses with checked translation, explained tasks/obstruction/authority losses alongside particular patience/maturity/achievement meanings; medical limits and source qualifications retained.",
+              "Preserved full canonical identity/orientation, source-native categories and complete supporting passages; added meaningful six categories, exact PDF/printed locators, single route and stable immediately adjacent synthesis anchor."
+            ],
+            "verification": [
+              "Read complete original and live page, every source/metadata/link and exact source-evidence shard, plus canonical Moon/Kronos base-axis context.",
+              "Personally read actual source text and viewed Witte133 and ABC98/printed198–199 full scans, checking complete exact glyph rows and neighboring boundaries. Pluto alternative glyph also personally confirmed on WittePDF28 key.",
+              "Inspected every actual changed line against source; canonical metadata except date, body formula, changed outcome, unique unreviewed status, six categories, unique adjacent anchor, reading route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-saturn.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-saturn.md#abc-entry",
+              "Witte official/commission/board hindrance and loss; ABC age standing, independent tasks, authority loss, emotional problems, patience, maturity and harm.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All8 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen einer Frau im Alter / wichtige Aufgaben der Frau."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-sun.md",
+      "before_sha256": "e8ee5e2c04a866572c6496b6176639a202e59320542454e4c1b586574ffa4913",
+      "after_sha256": "99dc80a07402b407d6e5f7a4274d5680b8861054040af7582348206f910b9143",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe independent wife. Daily office and consultation hours.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMan of a respected woman, people of a respected people, persons of the hierarchic of a people, self esteem of a man, self consciousness between man and woman, superiority of the man, and important hour of the day",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Sun row.\n\nThe independent wife. Daily office and consultation hours.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Sun row.\n\nSource wording: \"Mann einer angesehenen Frau, Menschen eines angesehen Volkes, Personen aus der Hierarchie eines Volkes, selbständige Frau eines Mannes, Selbstbewußtsein zwischen Mann und Frau, Überlegenheits-Gefühl des Mannes, wichtige Stunde am Tag\".\n\nEditorial translation, checked against the scan: A respected woman's husband; members of a respected people; persons from a people's hierarchy; a man's independent wife; self-confidence between man and woman; a man's feeling of superiority; an important hour in the day.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Sun row.\n \n@@ -10,2 +12,6 @@\n\n \n-Man of a respected woman, people of a respected people, persons of the hierarchic of a people, self esteem of a man, self consciousness between man and woman, superiority of the man, and important hour of the day\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Sun row.\n+\n+Source wording: \"Mann einer angesehenen Frau, Menschen eines angesehen Volkes, Personen aus der Hierarchie eines Volkes, selbständige Frau eines Mannes, Selbstbewußtsein zwischen Mann und Frau, Überlegenheits-Gefühl des Mannes, wichtige Stunde am Tag\".\n+\n+Editorial translation, checked against the scan: A respected woman's husband; members of a respected people; persons from a people's hierarchy; a man's independent wife; self-confidence between man and woman; a man's feeling of superiority; an important hour in the day.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 49,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-sun.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC independent-wife clause mistranslated man self-esteem; confidence/feeling of superiority confused with embarrassment or actual superiority.",
+              "Missing exact references, substantive comparative schema and early routes to one connected evidence-linked interpretation."
+            ],
+            "changes": [
+              "Restored all seven German clauses and labeled translation; explained persons/partnerships and daily official settings, preserving subjective confidence/superiority and exact source-attributed gendered examples.",
+              "Preserved full canonical identity/orientation, source-native categories and complete supporting passages; added meaningful six categories, exact PDF/printed locators, single route and stable immediately adjacent synthesis anchor."
+            ],
+            "verification": [
+              "Read complete original and live page, every source/metadata/link and exact source-evidence shard, plus canonical Moon/Kronos base-axis context.",
+              "Personally read actual source text and viewed Witte133 and ABC98/printed198–199 full scans, checking complete exact glyph rows and neighboring boundaries. Pluto alternative glyph also personally confirmed on WittePDF28 key.",
+              "Inspected every actual changed line against source; canonical metadata except date, body formula, changed outcome, unique unreviewed status, six categories, unique adjacent anchor, reading route and all local file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-sun.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-sun.md#abc-entry",
+              "Witte independent wife/daily office-consultation hours; ABC respected woman/people/hierarchy, independent wife, confidence, superiority feeling and important hour.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Mann einer angesehenen Frau / wichtige Stunde am Tag."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-uranus.md",
+      "before_sha256": "32c3fd5ba255ecdd9558c9bba5d3cf875581c94c6289c5c84891887ed30d53a2",
+      "after_sha256": "3b67d7940f3749505178705465e23d4e6697d71428a653c50411bb7a0dff1a5f",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nLeading women act suddenly. Officials or boards interfere surprisingly.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAppreciation of a people in technology, special event for one woman, excitement about the woman as boss, impulses of a self indigenous woman, state women's reform, unrest in the authority of the people, and important feelings impulse",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Uranus row.\n\nLeading women act suddenly. Officials or boards interfere surprisingly.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Uranus row.\n\nSource wording: \"Ansehen eines Volkes in der Technik, besonderes Ereignis für eine Frau, Erregung über die Frau als Chef, Impulse einer selbständigen Frau, staatliche Frauen-Reform, Unruhe in der Obrigkeit des Volkes, wichtige Gemüts-Impulse\".\n\nEditorial translation, checked against the scan: A people's standing in technology; a distinctive event for a woman; excitement over a woman as chief; an independent woman's impulses; state reform concerning women; unrest among a people's authorities; important emotional impulses.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Uranus row.\n \n@@ -10,2 +12,6 @@\n\n \n-Appreciation of a people in technology, special event for one woman, excitement about the woman as boss, impulses of a self indigenous woman, state women's reform, unrest in the authority of the people, and important feelings impulse\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Uranus row.\n+\n+Source wording: \"Ansehen eines Volkes in der Technik, besonderes Ereignis für eine Frau, Erregung über die Frau als Chef, Impulse einer selbständigen Frau, staatliche Frauen-Reform, Unruhe in der Obrigkeit des Volkes, wichtige Gemüts-Impulse\".\n+\n+Editorial translation, checked against the scan: A people's standing in technology; a distinctive event for a woman; excitement over a woman as chief; an independent woman's impulses; state reform concerning women; unrest among a people's authorities; important emotional impulses.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 50,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-uranus.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC standing, independence and emotional impulses mistranslated; disconnected list did not explain sudden authority/intervention.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Restored seven native clauses and checked translation; connected unexpected leading acts/interference with excitement/impulses, retaining technical standing and state reform/unrest as specific collective applications.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-uranus.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-uranus.md#abc-entry",
+              "Witte sudden leadingwomen/official intervention; ABC technical standing,event,excitement,independent impulses,state reform,authority unrest,important emotional impulses.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen eines Volkes in der Technik / wichtige Gemüts-Impulse."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-venus.md",
+      "before_sha256": "4717e19b56469eeb7b7b300ec52875a95b0c22d1b44f340c44d167884d64ba03",
+      "after_sha256": "768ce46df62f51f02db0e09c24a7b8d7f0f31a1869096dccf4ce10bbec558e0b",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCharitable. Treated well by officials. Philanthropist (female). Female officials. Pleasant connections with officials and boards.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial harmony with the woman, dominant beauty of a woman, great love of a woman, great beauty of a woman, self confidence of a woman in love, priority peace of a people, and benevolence of a respected woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Venus row.\n\nCharitable. Treated well by officials. Philanthropist (female). Female officials. Pleasant connections with officials and boards.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Venus row.\n\nSource wording: \"Besondere Harmonie mit der Frau, dominierende Schönheit einer Frau, große Liebe einer Frau, große Wünsche einer Frau, Selbständigkeit der Frau in der Liebe, vorrangiger Frieden eines Volkes, Wohlwollen einer angesehenen Frau\".\n\nEditorial translation, checked against the scan: Distinctive harmony with a woman; a woman's dominant beauty; a woman's great love; a woman's great wishes; a woman's independence in love; priority given to a people's peace; a respected woman's goodwill.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Venus row.\n \n@@ -10,2 +12,6 @@\n\n \n-Special harmony with the woman, dominant beauty of a woman, great love of a woman, great beauty of a woman, self confidence of a woman in love, priority peace of a people, and benevolence of a respected woman\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Venus row.\n+\n+Source wording: \"Besondere Harmonie mit der Frau, dominierende Schönheit einer Frau, große Liebe einer Frau, große Wünsche einer Frau, Selbständigkeit der Frau in der Liebe, vorrangiger Frieden eines Volkes, Wohlwollen einer angesehenen Frau\".\n+\n+Editorial translation, checked against the scan: Distinctive harmony with a woman; a woman's dominant beauty; a woman's great love; a woman's great wishes; a woman's independence in love; priority given to a people's peace; a respected woman's goodwill.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 51,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-venus.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC duplicated beauty instead of wishes and replaced independence in love with confidence; schema/meaning/refs absent.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Restored seven German clauses and checked translation; explained benevolent or agreeable authority/relations and preserved love,wishes,independence and peace without importing unsupported adverse doctrine.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-venus.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-venus.md#abc-entry",
+              "Witte charity/favorable official treatment/pleasant relations; ABC harmony,beauty,love,wishes,independence,peace,goodwill.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All seven clauses match, including wishes rather than repeated beauty and independence in love rather than self-confidence."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-vernal-point.md",
+      "before_sha256": "3571764356149583edf2fa0a04eac7392de3e45c60e93234a8e4f4a93ba738a2",
+      "after_sha256": "8c23f0719e9ea1a50e13a0dca276149d1f434392fc81b13cc7d18b67a990fbaa",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIndependent women. Officials. Great people. The people of a leading nation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWomen of public repute, priority of women in public life, hierarchy of the people in public life, women of public opinion, and important time in public life",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Vernal Point row.\n\nIndependent women. Officials. Great people. The people of a leading nation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Vernal Point row.\n\nSource wording: \"In der Öffentlichkeit angesehene Frau, Gefühl der Überlegenheit im öffentlichen Leben, Hierarchie eines Volkes in der Öffentlichkeit, selbständige Frau in der Öffentlichkeit, Vorrang der Frau im öffentlichen Leben, wichtige Stunde in der Öffentlichkeit\".\n\nEditorial translation, checked against the scan: A woman respected in public; a feeling of superiority in public life; a people's hierarchy in public; an independent woman in public; a woman's precedence in public life; an important hour in public.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Vernal Point row.\n \n@@ -10,2 +12,6 @@\n\n \n-Women of public repute, priority of women in public life, hierarchy of the people in public life, women of public opinion, and important time in public life\n+Source reference: printed page `198`, PDF page `98`, `Mond + Kronos`, Vernal Point row.\n+\n+Source wording: \"In der Öffentlichkeit angesehene Frau, Gefühl der Überlegenheit im öffentlichen Leben, Hierarchie eines Volkes in der Öffentlichkeit, selbständige Frau in der Öffentlichkeit, Vorrang der Frau im öffentlichen Leben, wichtige Stunde in der Öffentlichkeit\".\n+\n+Editorial translation, checked against the scan: A woman respected in public; a feeling of superiority in public life; a people's hierarchy in public; an independent woman in public; a woman's precedence in public life; an important hour in public.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 52,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-vernal-point.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC omitted superiority feeling and independentwoman, replacing them with publicopinion/redundantprecedence; list-only synthesis and no meaningful comparison.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Restored six native clauses with checked translation; gave one compact public/collective-standing explanation retaining subjective superiority and important public occasion, precise source links and routes.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-vernal-point.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-vernal-point.md#abc-entry",
+              "Witte independentwomen,officials,leadingpeople; ABC public standing,superiority feeling,hierarchy,independence,precedence,important hour.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 6,
+      "observation": "All six public clauses match, including restored superiority feeling and independent woman."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-vulcanus.md",
+      "before_sha256": "460affb68a987c65d590dd45cb30f36ba6cbb4a291ed868c59c7a9af385b9a8b",
+      "after_sha256": "f5ab244ba29dcaddc7f14cb339ce734e5ff7c85fe9f80e0e517b45867cd4c104",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSmooth function of office machinery. Officials and office work at maximum. High and mighty officials. Ministry.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial energy of a woman, influence of a superior woman, cultural prestige of a woman, great violence against women, power of a self indigenous woman, hierarchical power of a people, state violence of a woman, and strong virtues of an authority",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Vulcanus row.\n\nSmooth function of office machinery. Officials and office work at maximum. High and mighty officials. Ministry.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Vulcanus row.\n\nSource wording: \"Besondere Energie einer Frau, Einfluß einer überlegenen Frau, kulturelles Ansehen einer Frau, große Gewalt gegen Frauen, Macht einer selbständigen Frau, hierarchische Macht eines Volkes, Staats-Gewalt einer Frau, starke Gefühle einer Autorität\".\n\nEditorial translation, checked against the scan: A woman's particular energy; a superior woman's influence; a woman's cultural standing; great violence against women; an independent woman's power; a people's hierarchical power; a woman's state authority or state power; an authority's strong feelings.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Vulcanus row.\n \n@@ -10,2 +12,6 @@\n\n \n-Special energy of a woman, influence of a superior woman, cultural prestige of a woman, great violence against women, power of a self indigenous woman, hierarchical power of a people, state violence of a woman, and strong virtues of an authority\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Vulcanus row.\n+\n+Source wording: \"Besondere Energie einer Frau, Einfluß einer überlegenen Frau, kulturelles Ansehen einer Frau, große Gewalt gegen Frauen, Macht einer selbständigen Frau, hierarchische Macht eines Volkes, Staats-Gewalt einer Frau, starke Gefühle einer Autorität\".\n+\n+Editorial translation, checked against the scan: A woman's particular energy; a superior woman's influence; a woman's cultural standing; great violence against women; an independent woman's power; a people's hierarchical power; a woman's state authority or state power; an authority's strong feelings.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 53,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-vulcanus.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC feelings mistranslated virtues and independence corrupted; Staats-Gewalt collapsed into violence; source list did not explain productive vs coercive range.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Restored all eight German clauses and checked translation; connected effective administration/power/influence with distinct emotional and coercive applications, preserving explicit violence without making it all statepower.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-vulcanus.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-vulcanus.md#abc-entry",
+              "Witte office machinery/full operation/powerfulofficials/ministry; ABC energy,influence,culturalstanding,violence,independentpower,hierarchy,statepower,strongfeelings.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All eight clauses match exact row. Explicit große Gewalt gegen Frauen remains violence; separate Staats-Gewalt is state authority/power, not forced into the same sense."
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-zeus.md",
+      "before_sha256": "1d9e73465b64ef3334678cdb8ca40ac9ae617615dfada3de417d4293517e1b4e",
+      "after_sha256": "282170e92d6d58b570b575ecef7cd72d8ae4e80a62c388e792cc4cdfba2cc002",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nManager (female) active in creative way.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPresence of a leading woman, special efforts of a Y olke, special achievements of a woman, hierarchical leadership of a people, creativity and self confidence of a woman, superior leadership of a people, and priority of a creative woman",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: PDF page `133`, `MOON + KRONOS`, Zeus row.\n\nManager (female) active in creative way.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Zeus row.\n\nSource wording: \"Ansehen einer führenden Frau, besondere Anstrengungen eines Volkes, besondere Leistungen einer Frau, hierarchische Führung eines Volkes, Kreativität und Selbstbewußtsein einer Frau, überlegene Führung eines Volkes, Vorrang einer schöpferischen Frau\".\n\nEditorial translation, checked against the scan: A leading woman's standing; a people's particular efforts; a woman's distinctive achievements; a people's hierarchical leadership; a woman's creativity and self-confidence; a people's superior leadership; a creative woman's precedence.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: PDF page `133`, `MOON + KRONOS`, Zeus row.\n \n@@ -10,2 +12,6 @@\n\n \n-Presence of a leading woman, special efforts of a Y olke, special achievements of a woman, hierarchical leadership of a people, creativity and self confidence of a woman, superior leadership of a people, and priority of a creative woman\n+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Zeus row.\n+\n+Source wording: \"Ansehen einer führenden Frau, besondere Anstrengungen eines Volkes, besondere Leistungen einer Frau, hierarchische Führung eines Volkes, Kreativität und Selbstbewußtsein einer Frau, überlegene Führung eines Volkes, Vorrang einer schöpferischen Frau\".\n+\n+Editorial translation, checked against the scan: A leading woman's standing; a people's particular efforts; a woman's distinctive achievements; a people's hierarchical leadership; a woman's creativity and self-confidence; a people's superior leadership; a creative woman's precedence.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 54,
+          "record": {
+            "path": "wiki/activations/moon-kronos-equals-zeus.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC standing mistranslated presence and people leftOCRdebris; source repetition obscured creative leadership/achievement.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Restored seven native clauses and translation; one compact evidence-linked explanation connects creative management/independence with achievements,confidence and collective leadership without borrowed generative doctrine.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-kronos-equals-zeus.md#witte-entry",
+              "wiki/activations/moon-kronos-equals-zeus.md#abc-entry",
+              "Witte creativelyactive female manager; ABC leadingstanding,efforts,achievements,hierarchicalleadership,creativity/confidence,superiorleadership,precedence.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-witte-pdf133.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 7,
+      "observation": "All7 German clauses, labeled English translation, complete distinct Witte activator paragraph and each added reference independently match actual glyph-owned row; first/last clauses: Ansehen einer führenden Frau / Vorrang einer schöpferischen Frau."
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-admetos.md",
+      "before_sha256": "f3b7f4dbbdbaccf106ad234d4432bdb0615cf31066a07b01d737817e91a53ce8",
+      "after_sha256": "1b7a8e8541ac093f65c5ef737a76d2d5e073ca46e13f38b38917d1c6eaa3289a",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nlimited work. Special work. To concentrate on one’s work. Difficulties in establishing a home. A modest or small home.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork in a subdued people, limited women's work, restriction of the freedom of action, deepening of the freedom of action, fundamental power of the woman, blocking the actions of the woman, hour of a work strike, and submission of the people Will",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: printed page `128`, PDF page `124`, `MOON + MARS`, Admetos row. The scan begins \"Limited\", correcting the extracted lowercase initial.\n\nLimited work. Special work. To concentrate on one’s work. Difficulties in establishing a home. A modest or small home.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `181`, PDF page `89`, `Mond + Mars`, Admetos row.\n\nSource wording: \"Arbeit in einem unterdrückten Volk, begrenzte Frauen-Arbeit, Einschränkung der Gefühls-Handlungen, Gefühls-Handlungen vertiefen, gründliche Tatkraft der Frau, Handlungen der Frau blockieren, Stunde eines Arbeits-Streiks, Unterdrückung des Volks-Willens\".\n\nEditorial translation, checked against the scan: Work among an oppressed people; limited women's work; restriction of emotionally motivated actions; deepening emotionally motivated actions; a woman's thorough energy for action; blocking a woman's actions; an hour of a work strike; suppression of a people's will.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -4,3 +4,5 @@\n\n \n-limited work. Special work. To concentrate on one’s work. Difficulties in establishing a home. A modest or small home.\n+Source reference: printed page `128`, PDF page `124`, `MOON + MARS`, Admetos row. The scan begins \"Limited\", correcting the extracted lowercase initial.\n+\n+Limited work. Special work. To concentrate on one’s work. Difficulties in establishing a home. A modest or small home.\n \n@@ -10,2 +12,6 @@\n\n \n-Work in a subdued people, limited women's work, restriction of the freedom of action, deepening of the freedom of action, fundamental power of the woman, blocking the actions of the woman, hour of a work strike, and submission of the people Will\n+Source reference: printed page `181`, PDF page `89`, `Mond + Mars`, Admetos row.\n+\n+Source wording: \"Arbeit in einem unterdrückten Volk, begrenzte Frauen-Arbeit, Einschränkung der Gefühls-Handlungen, Gefühls-Handlungen vertiefen, gründliche Tatkraft der Frau, Handlungen der Frau blockieren, Stunde eines Arbeits-Streiks, Unterdrückung des Volks-Willens\".\n+\n+Editorial translation, checked against the scan: Work among an oppressed people; limited women's work; restriction of emotionally motivated actions; deepening emotionally motivated actions; a woman's thorough energy for action; blocking a woman's actions; an hour of a work strike; suppression of a people's will.",
+      "owners": [
+        {
+          "ledger": "activations-043.jsonl",
+          "line": 55,
+          "record": {
+            "path": "wiki/activations/moon-mars-equals-admetos.md",
+            "reviewer": "/root",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "ABC feeling-directed action mistranslated freedom,thorough action-energy fundamental power,and suppressedwill submission; generic cramped/unwanted conditions and often frequency exceeded evidence.",
+              "Missing substantive six-category comparative schema, exact references and early route to connected interpretation."
+            ],
+            "changes": [
+              "Verified source capitalLimited and exactWitte128/PDF124 locator; restored eightABC181/PDF89 nativeclauses+labeledtranslation. Explained concentration/deepening versusblocking/suppression, preserving labor-strike and distinctdomestic examples without speculative frequency or unwantedhome claim.",
+              "Preserved canonical metadata/identity/orientation, native source evidence, immediate stable anchor and relative navigation; source claims and minority applications stay traceable."
+            ],
+            "verification": [
+              "Read complete original and live activation page, all source subentries/frontmatter/links and exact assignment evidence leads; consulted canonical base-axis explanation for its shared meaning.",
+              "Personally read raw source text and viewed complete actual scans for this exact activator: Witte124/printed128 and ABC89/printed181 for Moon/Mars, or Witte133 and ABC98/printed198–199 for Moon/Kronos. Checked every clause and glyph boundary; no parser-only repair.",
+              "Inspected every actual changed line against supporting source; canonical metadata except date, exact body formula, changed outcome, unique missing-review status, six categories, single immediately adjacent anchor/reading route and all relative file/fragment links passed; git diff --check passed."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "wiki/activations/moon-mars-equals-admetos.md#witte-entry",
+              "wiki/activations/moon-mars-equals-admetos.md#abc-entry",
+              "Witte limited/special/concentratedwork and home; ABC oppressedpeople,limitedwork,restricted/deepenedfeelingaction,thoroughenergy,blocking,strike,suppression.",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonmars-witte-pdf124.png",
+              "docs/reviews/2026-10-15-full-wiki/verification/root043-moonmars-abc-pdf89.png"
+            ]
+          }
+        }
+      ],
+      "decision": "accepted",
+      "abc_clauses": 8,
+      "observation": "All eight Admetos clauses match actual printed181/PDF89 row; Gefühls-Handlungen means emotionally motivated actions, not freedom. Actual Witte124/printed128 capitalizes Limited; all five sentences and exact added references match."
+    }
+  ]
+}

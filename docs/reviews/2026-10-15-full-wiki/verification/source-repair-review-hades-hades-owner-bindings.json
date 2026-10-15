@@ -1,0 +1,391 @@
+{
+  "verified_by": "/root/source_integrity_gate",
+  "scope": "Closes previously absent owner bindings for10 literal raw-text approvals. Every fresh full original012 record and exact before/current section delta reread; complete retained paragraphs and printed279/280 folios personally confirmed on actual Witte275/276 scans. No automatic owner-only approval.",
+  "prior_raw_proof": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-locator-matches.json",
+  "scans": [
+    "docs/reviews/2026-10-15-full-wiki/verification/a010-012-witte-p275.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/a010-012-witte-p276.png"
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/hades-hades-equals-moon.md",
+      "before_sha256": "aefd9b148ad02929afaa67dd929b279b2c7bcc8b0979ac92e446803ebd22882a",
+      "after_sha256": "d53074dc2f58de14b0ce27d2ad0f8f66b28f394999c93274e69847a99b68bc37",
+      "before_section": "#### Witte Entry\n\nResignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 275 (printed p. 279).\n\nResignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 275 (printed p. 279).\n+\n Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 27,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-moon.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Replaced lifelong sadness/emotional-normalization inference with worry, solitude, care and collective misfortune; historical gender/medical judgments bounded."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Replaced lifelong sadness/emotional-normalization inference with worry, solitude, care and collective misfortune; historical gender/medical judgments bounded."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Resignation, caring woman, widow, stomach/uterine ailments, unfortunate hour and a people in misfortune.",
+              "Witte actual PDF275, printed279; verification/a010-012-witte-p275.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-neptune.md",
+      "before_sha256": "1cbe30d6683267c3e48cd4d6d5a11537ebf5b2a011f920566564a5a6be804444",
+      "after_sha256": "ca3ebdb5dfe8920c7758d44a69a49974f9221ad9dfe05e8dc5df83367143ba8c",
+      "before_section": "#### Witte Entry\n\nDamages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 276 (printed p. 280).\n\nDamages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 276 (printed p. 280).\n+\n Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. Dropsy. Lack of air. Lack, scarcity. Grave epidemics. Scarcity of water. Damage caused by water or on water. Drowning. Cloudburst. Tidal waves. Cyclones.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 28,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-neptune.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Replaced diffuse corruption/invisible-contamination inference with error, decay, scarcity and concrete water conditions; historical medical terms attributed."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Replaced diffuse corruption/invisible-contamination inference with error, decay, scarcity and concrete water conditions; historical medical terms attributed."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Error, deception, lack of lucidity, water scarcity/disaster, dropsy, epidemics, drowning and cyclones.",
+              "Witte actual PDF276, printed280; verification/a010-012-witte-p276.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-node.md",
+      "before_sha256": "4593c2495189b85baaa56bd60c569aa5d7ac3263c0a83337e55f7fb5317c03f4",
+      "after_sha256": "f9f5b1401380cc24dff37505c70259aef266e64a81415909f4a135a5564e00aa",
+      "before_section": "#### Witte Entry\n\nA mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 275 (printed p. 279).\n\nA mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 275 (printed p. 279).\n+\n A mean act committed jointly. Connections started under difficulties or with reluctance. Unpleasant connections or contacts. Poor connections or associations. Contact with disease, evil, poverty or old affairs.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 29,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-node.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Distinguished difficult/reluctant contacts from jointly committed wrongdoing; removed inference that contact with poverty/disease is moral complicity."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Distinguished difficult/reluctant contacts from jointly committed wrongdoing; removed inference that contact with poverty/disease is moral complicity."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Reluctant or unpleasant connections, joint mean act, contact with disease, poverty and old affairs.",
+              "Witte actual PDF275, printed279; verification/a010-012-witte-p275.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-poseidon.md",
+      "before_sha256": "638c7764df4a2ae0ccf9d5f78c0e150f3ad4dc519ce98c7db6d4808387e41f86",
+      "after_sha256": "5de5b5a8d081cd16e08af2e5e04eaec2561731af016d4629e7705d73c583803b",
+      "before_section": "#### Witte Entry\n\nMental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 276 (printed p. 280).\n\nMental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 276 (printed p. 280).\n+\n Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret sciences. The spirit of the past or the antiquity. Mentally isolated being. Stupidity. Superstition. Secret doctrine.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 31,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-poseidon.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Preserved isolation, secret doctrine and antiquity without importing barren-belief or mental-disorder judgments."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Preserved isolation, secret doctrine and antiquity without importing barren-belief or mental-disorder judgments."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Mental/cultural/spiritual isolation, secret sciences, spirit of antiquity, superstition and secret doctrine.",
+              "Witte actual PDF276, printed280; verification/a010-012-witte-p276.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-saturn.md",
+      "before_sha256": "7badbbe12dd4156fcd18d85e450c4f86cda174465c48cbddabed50f819d088b8",
+      "after_sha256": "47bdc8617b744be5a73f69df465071526d7eea4f791ecca715f36713d4c6f966",
+      "before_section": "#### Witte Entry\n\nMelancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 276 (printed p. 280).\n\nMelancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 276 (printed p. 280).\n+\n Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sickness. Unemployment of long duration. Enemies. Enmity. Serious loss. Prison. Long poverty. To be impoverished by sickness. Isolation through sickness. Damages to the crops. To be separated through accidents. Illness restrictions. Hard luck.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 32,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-saturn.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Bounded prolonged restriction to explicit unemployment/poverty examples rather than a universal life course; health terms historically attributed."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Bounded prolonged restriction to explicit unemployment/poverty examples rather than a universal life course; health terms historically attributed."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Refugees, prison, prolonged unemployment/poverty, crop damage, illness restrictions and separation through accidents.",
+              "Witte actual PDF276, printed280; verification/a010-012-witte-p276.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-sun.md",
+      "before_sha256": "981c4259c33a3d535bbca742f4ab73bf265aadb3e09e911c3aba26e4512ae0b8",
+      "after_sha256": "bf61a16dbac51b50b72bbd060fd5e2569611112a9f9da2f6561307faaa15a23e",
+      "before_section": "#### Witte Entry\n\nDiseased body. Deformed or mutilated body. To be oppressed or hindered in developing the body and personality. Pursued by misfortune. Carrier of secrets. Physical troubles. Old objects. The body’s susceptibility to sickness. Waste. Garbage day. (In the solar cycle: hard period or a period with an upcoming illness.)",
+      "current_section": "#### Witte Entry\n\n- PDF page: 275 (printed p. 279).\n\nDiseased body. Deformed or mutilated body. To be oppressed or hindered in developing the body and personality. Pursued by misfortune. Carrier of secrets. Physical troubles. Old objects. The body’s susceptibility to sickness. Waste. Garbage day. (In the solar cycle: hard period or a period with an upcoming illness.)",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 275 (printed p. 279).\n+\n Diseased body. Deformed or mutilated body. To be oppressed or hindered in developing the body and personality. Pursued by misfortune. Carrier of secrets. Physical troubles. Old objects. The body’s susceptibility to sickness. Waste. Garbage day. (In the solar cycle: hard period or a period with an upcoming illness.)",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 33,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-sun.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Preserved bodily/person themes alongside secrets, old objects and waste; retained timing parenthesis only as source wording and medical claims as historical."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Preserved bodily/person themes alongside secrets, old objects and waste; retained timing parenthesis only as source wording and medical claims as historical."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Bodily/developmental difficulty, carrier of secrets, old objects, waste/garbage day and solar-cycle source parenthesis.",
+              "Witte actual PDF275, printed279; verification/a010-012-witte-p275.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-venus.md",
+      "before_sha256": "2c0d8772678509a55d8bf10f570dae7d6156475e70ed920ea68b785bce23c922",
+      "after_sha256": "c94aadbda7871176fe701b4b6046cfcdb6d2426235ab04e75c71dae9c0cbb33f",
+      "before_section": "#### Witte Entry\n\nRepulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 275 (printed p. 279).\n\nRepulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 275 (printed p. 279).\n+\n Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 35,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-venus.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Preserved old love, beautiful aging and beautiful objects beside worries/service; bounded moralized and reproductive claims including voluntary qualification."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Preserved old love, beautiful aging and beautiful objects beside worries/service; bounded moralized and reproductive claims including voluntary qualification."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Secret love, love worries, service occupations, sterility (voluntary), reproductive disorders, aging beautifully and old love.",
+              "Witte actual PDF275, printed279; verification/a010-012-witte-p275.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-vernal-point.md",
+      "before_sha256": "25f4bb96a88087bb9ea60c2a237aaf85f878b6657d8721cce0ed201f5ebcb344",
+      "after_sha256": "02446f13cff03910f2a04dbc854ad16992e738a90b4059abc71c31e455875359",
+      "before_section": "#### Witte Entry\n\nGeneral poverty, misfortune, tribulations, plagues. Coal mines. Worldwide disease. Diseases in general. Something is hidden for general public. Contaminated areas of the earth. Public service. General health system. Catastrophes.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 275 (printed p. 279).\n\nGeneral poverty, misfortune, tribulations, plagues. Coal mines. Worldwide disease. Diseases in general. Something is hidden for general public. Contaminated areas of the earth. Public service. General health system. Catastrophes.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 275 (printed p. 279).\n+\n General poverty, misfortune, tribulations, plagues. Coal mines. Worldwide disease. Diseases in general. Something is hidden for general public. Contaminated areas of the earth. Public service. General health system. Catastrophes.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 36,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-vernal-point.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Removed unsupported disaster-response inference; retained public service/health system beside poverty, contaminated areas, mines and hidden public matters."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Removed unsupported disaster-response inference; retained public service/health system beside poverty, contaminated areas, mines and hidden public matters."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: General poverty/disease, coal mines, hidden public matter, contaminated land, public service and health system.",
+              "Witte actual PDF275, printed279; verification/a010-012-witte-p275.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-vulcanus.md",
+      "before_sha256": "97ac94e86974cd2b26d3127cf411699f0f59d7e9306a7f86d157338146cf24f0",
+      "after_sha256": "21eed7ba33c320562cdde6ebcdd1d53f3920cf9a7cbcd1e798a23467b3aa4ba5",
+      "before_section": "#### Witte Entry\n\nWickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 276 (printed p. 280).\n\nWickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 276 (printed p. 280).\n+\n Wickedness. Ugliness. Vices. Grave danger. Mean and brutal acts. Capital crimes. Raw force. Murder. Slavery. Demonic forces. The dark side of the force. Brute force. The power of evil. Criminals.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 37,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-vulcanus.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Bounded brutal-force list without assigned perpetrator/victim role or supernatural causation; replaced partial-edit meta-instruction with reader-facing explanation."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Bounded brutal-force list without assigned perpetrator/victim role or supernatural causation; replaced partial-edit meta-instruction with reader-facing explanation."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Brutal acts, slavery, capital crime, grave danger and source demonic/dark-side imagery.",
+              "Witte actual PDF276, printed280; verification/a010-012-witte-p276.png."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-hades-equals-zeus.md",
+      "before_sha256": "2889a11bec8d8c8d5a5171060c3978fef3f967955cdcb7e95306c5ca9a332e2d",
+      "after_sha256": "ff8d6ba20381bb076b163d34e0d4710c0628e62c7acfbee49e40c92bdc92c65d",
+      "before_section": "#### Witte Entry\n\nRelaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.",
+      "current_section": "#### Witte Entry\n\n- PDF page: 276 (printed p. 280).\n\nRelaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -2,2 +2,4 @@\n\n \n+- PDF page: 276 (printed p. 280).\n+\n Relaxation. Recreation. Vacation. Idleness and vice. No pursuing of one’s aim, lack of purposeful behavior. Prevented to act, paralyzed (in respect to action), compelled to be inactive. Cramp (to restrain or confine the action of, as with a cramp). Vileness, mean trick. Industry. Lack of coal. Strike. Lock-out. Destructive fire. Grave viciousness. Burns. War atrocities. Outbreak of hate. Burning hate. To cause a disaster. Incendiary. Coal fire.",
+      "owners": [
+        {
+          "ledger": "activations-012.jsonl",
+          "line": 38,
+          "record": {
+            "path": "wiki/activations/hades-hades-equals-zeus.md",
+            "reviewer": "/root/activation_review_010_012",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline lacked comparative categories, bounded contradiction assessment, exact source reference and Identity reading route; prior owner's unledgered partial edits required full review.",
+              "Preserved recreation apart from enforced inactivity, industry and destructive fire; action-related paralyzed qualification retained; removed poverty-causes-violence inference."
+            ],
+            "changes": [
+              "Accepted fully read and source-checked partial edits, compared with exact before/wiki baseline. Preserved recreation apart from enforced inactivity, industry and destructive fire; action-related paralyzed qualification retained; removed poverty-causes-violence inference."
+            ],
+            "verification": [
+              "Read complete live page, linked Hades/Hades axis, corresponding manifest identity/source record and entire applicable shard evidence.",
+              "Read actual raw Witte PDF275–276 extraction; printed279–280 confirmed; inspected PDF276 scan for row ownership and glyph repairs.",
+              "Inspected complete actual unified diff and revised source/synthesis; checked exact repeated-pair identity, all six categories, local source link, immediate unique anchor, file links and whitespace."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: Relaxation/vacation, compelled inactivity, strikes/lockouts, coal shortage, fire/burns and hatred.",
+              "Witte actual PDF276, printed280; verification/a010-012-witte-p276.png."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

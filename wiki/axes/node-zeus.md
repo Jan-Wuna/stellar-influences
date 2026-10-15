@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ To elect. To select. To join together with others for creative accomplishment. U
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `228`; PDF page: `113` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Start of a connection, contact struts, creative connection, performance mediation, connection with fire, connection to fiihnmg, generation connection, and targeted connection
+German pair summary (transcribed from printed page `228`; PDF page `113`):
+
+> Beginn einer Verbindung, Kontakt-Streben, kreative Verbindung, Leistungs-Vermittlung, schöpferische Verbindung, Verbindung mit Feuer, Verbindung zur Führung, Zeugungs-Verbindung, zielgerichtete Verbindung
+
+Editorial translation from the German passage: Beginning of a connection, striving for contact, creative connection, mediation of achievement, creative union, connection with fire, connection to leadership, procreative union, purposeful connection.
+
+## Comparative Schema
+
+- core meaning: initiating or choosing a connection for creative accomplishment ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: striving for contact, curiosity about connection, and a directed purpose are explicit; the entry does not establish a general temperament.
+- body/health: Witte names procreation and union for procreation; this is not a medical or fertility assessment.
+- social/relationship: joining others to create, selecting a connection, and beginning a purposeful association recur.
+- events/manifestations: Witte also names work involving blast furnaces, stoves, fire, firearms, or machines; these literal settings remain part of the range.
+- conflicts/notes: ABC's contact striving and connection to leadership are restored from the scan. Procreation remains an attributed source association, not a fertility finding.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Start of a connection, contact struts, creative connection, performance mediatio
 - [Node/Zeus = Vernal Point](../activations/node-zeus-equals-vernal-point.md)
 - [Node/Zeus = Vulcanus](../activations/node-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+Choosing a tie, creative cooperation, procreation and literal work with fire remain distinct expressions rather than simultaneous requirements.
+
+ABC's complete bold pair list was checked against printed228/PDF113; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus` combines connection, alliance, and shared ties with directed desire, ignition, and purposeful creation.
-- In practice, it most often shows to elect, along with to select.
+`Node/Zeus` describes making or selecting a connection so that something can be created. The [pair summary](#pair-summary) links the wish for contact and curiosity about others with joining forces for accomplishment; the [ABC entry](#abc-pair-summary) likewise names the start of a creative, directed association. Election and selection belong to this choosing or initiating side of the pair.
+
+The source range is unusually concrete: it includes procreation as well as connections involving fire, stoves, firearms, machines, and blast-furnace work. These are alternative manifestations, not a reason to read every creative partnership as reproductive or industrial. Damaged ABC phrases supply no further secure meaning, and third-factor specifications remain separate activations.
 
 ## Links
 

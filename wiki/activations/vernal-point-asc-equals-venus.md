@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Venus`
 - Astronomicon formula: `VP/Asc = Q`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ Amorous acquaintances. Beautiful countries, places and theaters.
 
 Peaceful public environment, love partners in public life, harmony with others in public, public arts place, public love place, and beauty of a public place
 
+## Comparative Schema
+
+- Core meaning: Affectionate contacts and beautiful or peaceful public settings.
+- Psychology: Harmony with others is an ABC theme.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Amorous acquaintances and love partners in public life.
+- Events/manifestations: Theaters, public arts places, and beautiful locations.
+- Conflicts/notes: An arts setting does not itself establish a romantic relationship.
+
+## Contradictions
+
+No direct conflict appears; love, peace, and beauty are related possibilities with distinct concrete expressions.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Venus`: amorous acquaintances and beautiful countries, places and theaters.
-- Practical expression: peaceful public environment, love partners in public life, harmony with others in public, public arts place, and public love place.
+Venus specifies `Vernal Point/Asc` through affection or harmony in public contacts and through the beauty of the places encountered. Amorous acquaintances belong beside theaters and public arts settings as distinct expressions of that theme; the formula does not require romance whenever the setting is beautiful. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 20 / PDF p. 9.)
 
 ## Links
 

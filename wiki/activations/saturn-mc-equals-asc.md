@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn Asc MC](../triads/saturn-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To share other people’s grief. To separate from others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Others are hard on me, my partner is emst, my partner is patient, my partner's obligations, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place
+Others are hard on me, I am hard on others, my partner is serious, my partner is patient, my partnership duties, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0937`, printed p. 264; PDF p. 266.
 
 #### Ebertin Entry
 
 Inhibition of growth or development, suffering from others, being placed in unfortunate circumstances. Sharing anxiety with others, a lonely person, parting from others, sadness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Focusing on the achieving recognition for work done; adds a serious demeanor to 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious personal presence and relationships shaped by duty, limitation, or shared grief.
+- psychology: self-limitation, loneliness, formality, and the search for inner authority.
+- body/health: Ebertin names inhibited growth or development without establishing a diagnosis.
+- social/relationship: mutual hardness, patient partnership, shared anxiety, and relating to few people.
+- events/manifestations: separation from people or place, environmental difficulties, and work recognition.
+- conflicts/notes: Sandbach's spiritual self-confidence differs in emphasis from Ebertin's suffering and isolation.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries emphasize different possible expressions of seriousness; they do not establish that a formal demeanor always means loneliness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Asc`: mature presence, reliability, and the ability to carry duty in a way others immediately recognize. Main caution: inhibition: self-protection and burden can harden into severity, defensiveness, or social distance.
+In `Saturn/MC = Asc`, Asc specifies the Saturn/MC axis through the way seriousness and limitation enter one's dealings with others. [ABC](#abc-entry) includes mutual hardness, a serious or patient partner, partnership duties, and environmental difficulties. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) add sharing grief or anxiety, separation, and loneliness.
+
+The same interpersonal seriousness can appear as a formal demeanor or careful education in [Munkasey](#munkasey-entry). [Sandbach](#sandbach-entry) emphasizes being seen as high-minded and gaining confidence in one's own spiritual authority by loosening identification with inadequacy. The range extends from inhibited contact to a more confident serious presence.
 
 ## Links
 

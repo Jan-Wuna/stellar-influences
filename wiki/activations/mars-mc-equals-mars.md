@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Fighting for what you want in life and also taking pains to protect your gains f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Striving for desired gains and defending what has been achieved.
+- psychology: Competitive excitement and anger when status or gains are questioned.
+- body/health: No physical or medical claim is supplied.
+- social/relationship: Rivalry with people perceived to covet one's achievements.
+- events/manifestations: Competition and efforts to protect gains.
+- conflicts/notes: Only Munkasey's 'With Itself' entry supports this repeated-factor formula; repetition does not add corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present, so comparison between sources is unavailable. Its competitive excitement and defensive anger are connected possibilities rather than contradictory claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Mars`: Fighting for what one wants in life and also taking pains to protect one's gains from those who covet them; adds to one's anger when others question one's status or gains; helps excite one about competitive activities.
+In `Mars/MC = Mars`, repeated Mars specifies the pair as active striving and protection of what has been won. Munkasey connects competitive enthusiasm with anger when others question one's standing or appear to covet one's gains. This single 'With Itself' passage supports that focused reading, without establishing a separate health effect or wider outcome. ([Munkasey entry](#munkasey-entry), printed p. 254)
 
 ## Links
 

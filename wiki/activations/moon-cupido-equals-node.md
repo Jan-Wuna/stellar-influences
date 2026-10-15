@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Cupido](../axes/moon-cupido.md)
 - Triad hub: [Moon Node Cupido](../triads/moon-node-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).
 
 Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
 
@@ -42,13 +46,27 @@ Connections leading to betrothal. Hours of leisure in company of others. Social 
 
 #### ABC Entry
 
-Meeting of the common forces, common forces connection, GemOts relations to the arts, contacts to women community, hour of a common union, connections to the people whole, and connections to the arts of the people
+- Source passage: `Mond + Cupido`; printed p. `192`; PDF page `95` (complete oriented row checked against actual scan).
+
+Encounter of shared feelings, shared emotional connection, emotional relationships to art, contacts with women's communities, hour of a shared connection, connections to the people as a whole, connections to the art of peoples.
+
+## Comparative Schema
+
+- core meaning: Community is realized through meetings and social connections.
+- psychology: The entry concerns connection; a separate account of personal motivation is not supplied.
+- body/health: No bodily or medical manifestation is stated.
+- social/relationship: Company with women or groups and connections leading to betrothal are Witte's examples.
+- events/manifestations: Shared leisure, group contacts and links with a people's arts.
+- conflicts/notes: The scan names shared feelings and emotional connections, not common forces; art and the people as a whole are distinct objects of connection.
+
+## Contradictions
+
+No direct contradiction is established. Communicative, social and emotional examples retain their distinct scope within this orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Node`: Connections leading to betrothal. Hours of leisure in company of others. Social connections with women or groups of people.
-- Practical expression: meeting of the common forces, common forces connection, GemOts relations to the arts, contacts to women community, and hour of a common union.
+In `Moon/Cupido = Node`, shared feeling becomes an encounter or connection: emotional bonds join people, while links to women's communities, art and a people as a whole give belonging social and cultural channels. Leisure in company and connections leading to betrothal are specific forms of participation. The entry concerns forming and experiencing associations without requiring the same outcome for every bond. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

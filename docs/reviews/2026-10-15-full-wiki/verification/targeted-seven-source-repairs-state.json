@@ -1,0 +1,275 @@
+{
+  "created_at": "2026-10-15T13:52:13.675861+00:00",
+  "scope": "Eight exclusive already-reviewed source repairs (original seven plus root-added Venus/Uranus = Vernal Point); original record counts retained; no independent self-approval.",
+  "status": "authored_repairs_complete_pending_independent_gate",
+  "pages": [
+    {
+      "path": "wiki/activations/node-hades-equals-neptune.md",
+      "pre_repair_page_sha256": "a746c704dcf1cac38bd866629b0896fa2c500cabb6b5e19b766994d1fa586685",
+      "pre_repair_source_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+      "captured_initial_source_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "1b4244783cce226bdb6e3530a6836c715fef27237a5bce10d433ca703e52e593",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "ledger_line": 36,
+      "pre_repair_record_sha256": "4662235dd6860dde836a73aa098930de310017e4b5fef08e01f9aebd0476467d",
+      "post_repair_page_sha256": "c60f7d90421266d08d2f905a8c6d0048e6cc45ad56a6186a5cb7b229a42819db",
+      "post_repair_source_sha256": "195926486a83a9cdc215837bd0db7fd783d1c3aaf15ccf7abc02974a11ddfdd2",
+      "post_repair_record_sha256": "a1499e7afa6b4c44af9ab602c182aa7f9c6e6d19ec3f8878292193d2060d84ea",
+      "complete_abc_clauses": 7,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf112.png"
+      ],
+      "remaining_contextual_limits": [
+        "ABC Verneinung einer kriminellen Verbindung does not specify denial versus rejection of the connection; the translation retains negation and no legal action or finding is inferred."
+      ],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-uranus.md",
+      "pre_repair_page_sha256": "e27e201477b57f66cf5921400555786d0bb31c42709fb4f14254077eaa2fcc35",
+      "pre_repair_source_sha256": "24f1c26dd4e84f6be88bb81ce7bd0c99997f5f43460443850351ac6687de9061",
+      "captured_initial_source_sha256": "24f1c26dd4e84f6be88bb81ce7bd0c99997f5f43460443850351ac6687de9061",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "551645df6e7dac1f1554d4eae4a02b0702f250c963a4ff7ddb3f2b5c22d3c32a",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "ledger_line": 41,
+      "pre_repair_record_sha256": "9ab6f3fd54bab3d280497f05d4759a8e4684f702146f3a1a65e7dfe637aa8d43",
+      "post_repair_page_sha256": "67af36a41d8fbbd446a408f5bfa1e104c6c53fda553a62f5f95fbac48e42df75",
+      "post_repair_source_sha256": "f23fd857fdd93902feb7c6bda53e5b34fe4d0d80609c6ad8c6cd6464a4817b8c",
+      "post_repair_record_sha256": "6dcd6d8be58f3de563595a9cf8a408f6e45f381760f0f0f637985684c469275a",
+      "complete_abc_clauses": 6,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf112.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-mc.md",
+      "pre_repair_page_sha256": "9441916223084ea65675c77134eb6d45e00a82f72130f9b51de21edf2170fed0",
+      "pre_repair_source_sha256": "9b5aabee154ca24651652526b3e2cbe12c09fe0029df864ac7dd8f67651fc4c0",
+      "captured_initial_source_sha256": "9b5aabee154ca24651652526b3e2cbe12c09fe0029df864ac7dd8f67651fc4c0",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "d79ca1bf423861dd014670108a2ded33feac66cde09eabc3f3aab072cc2a739a",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-071.jsonl",
+      "ledger_line": 6,
+      "pre_repair_record_sha256": "9f5bad0e99e59e7dbd4eb23d5c7a763b67961c02ea1661875fd7c2eb37172b87",
+      "post_repair_page_sha256": "d85d26cad0f4e3e201d2b0642d5c3a4515f341e5d9f6682360288a653d2751ae",
+      "post_repair_source_sha256": "db9bb644fbb6cbe0e9a2288d461d11af986241d9d793e5e746b35769c8d62187",
+      "post_repair_record_sha256": "c9949ee9faf13003bdde3f7f2936f4bd71c664e86818f1e4d98ffeef6c3bf40b",
+      "complete_abc_clauses": 9,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf49.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-neptune.md",
+      "pre_repair_page_sha256": "3059b860e5fc146d79904f3edef02ffdd86b30fe08f3a58934565e8ef55fc90d",
+      "pre_repair_source_sha256": "9ce8fffbece29f256d25ce2356545476bafa6386509f0ce187af9d3234c094d5",
+      "captured_initial_source_sha256": "9ce8fffbece29f256d25ce2356545476bafa6386509f0ce187af9d3234c094d5",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "72a8db2478ff695abd632a30e515841317f5e16d62b1e45ded9c90801c0ee3a2",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-071.jsonl",
+      "ledger_line": 9,
+      "pre_repair_record_sha256": "7b1dab491d3303a098ce427a20e3c98583fe46e90ec40cdcff5dd46bf8d828b0",
+      "post_repair_page_sha256": "abf7cb7adebbfb53b59e4dd3c8aa1e5f7c9aad3487e0bef40ebce99755ad7bb3",
+      "post_repair_source_sha256": "184c51a5c7c217279d0f38e8ec95e201cbeca47ac43a93898e683dd378b5027e",
+      "post_repair_record_sha256": "e98176dc612e4dcfdd208bb845a1d9cf12369d870eda0d4df5dadb63b5206714",
+      "complete_abc_clauses": 7,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf49.png"
+      ],
+      "remaining_contextual_limits": [
+        "ABC feinstoffliche personal surroundings is not further explained in the source row; rendered subtle without an added physical mechanism."
+      ],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/sun-asc-equals-pluto.md",
+      "pre_repair_page_sha256": "12ec7bbb52c8b5b39fc2fa5bb534df270c5c8af19a001cd4f5eee03c72266104",
+      "pre_repair_source_sha256": "f90bebd47ba5523dc152de9cb41bbecbac8bcedc46976145a993f5c564da57ea",
+      "captured_initial_source_sha256": "f90bebd47ba5523dc152de9cb41bbecbac8bcedc46976145a993f5c564da57ea",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "e2325f893177ca1d4f8c5ccf9f9b489cb3e0bf74a36317c7cc4003132f5238c8",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-071.jsonl",
+      "ledger_line": 11,
+      "pre_repair_record_sha256": "2af04594abde844a1fadd94a9a3f4ffd02ffb9731ed1ce52673449f4e85220ad",
+      "post_repair_page_sha256": "9630342cba3feaa2104ac8f32d705ba0e55415325287724dcfe14942e89f5555",
+      "post_repair_source_sha256": "04ee4d80799e38e4e98a70181bccd3a53bcaca595f11696b76614f902881a729",
+      "post_repair_record_sha256": "a0c002d2d9cc4b96a5916f9bb0b337e376832f43817cb9a1f99a2ff58db71863",
+      "complete_abc_clauses": 7,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf49.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "pre_repair_page_sha256": "defa7fa2b0c3ba5f08c258bae454ac1648524bd4760f0e2312fd9202df53e150",
+      "pre_repair_source_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "captured_initial_source_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "20fd34824de8e26c9656ad9e8c5b6186df30e203264d503c7d3b2a7230dc749a",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+      "ledger_line": 4,
+      "pre_repair_record_sha256": "dc94bcb9ba7f00841e0e251005955238bc8e589384771fc408662def8b6b8b93",
+      "post_repair_page_sha256": "dd4c95df0342a5ffc0326c9db3712662f34369540da9c69ac2cc1a427878b471",
+      "post_repair_source_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "post_repair_record_sha256": "cece6a2e0a070fdc005cc36431d77cceaaaf58d1c99f40ee924546f3bd0d32d9",
+      "complete_abc_clauses": 6,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-venus.md",
+      "pre_repair_page_sha256": "f7d2156335f0a11362c3ccf8e406fead58bfa6f1cdb3e4033e8906e3b8df6e60",
+      "pre_repair_source_sha256": "668ce9b23439b34dbd1749e5c35674bed96db99c7563ac6b71045efafa3278be",
+      "captured_initial_source_sha256": "668ce9b23439b34dbd1749e5c35674bed96db99c7563ac6b71045efafa3278be",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "14751f95ab6e9816a6f0d5209aa98315f6615ab26cff38fb7cc4f47bfff50ebc",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "ledger_line": 18,
+      "pre_repair_record_sha256": "c5bdff381f72f71eba6fc000b1fd106bcbeb9996c893197a844e67312aa4ca73",
+      "post_repair_page_sha256": "59cabdc743f4cb4b4810320680bffc59a7916dd9554a31c6e9da4139d4d690d7",
+      "post_repair_source_sha256": "75775c84c53913d8b3cb790e844d68fc395741f35bf34814a6635fd6889c6686",
+      "post_repair_record_sha256": "d35f845652e49f3b039a817abac470c346c4601903faeacb9860456d5eb98497",
+      "complete_abc_clauses": 9,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf36.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf65.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-ebertin-pdf246.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-sandbach-pdf86.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-sandbach-pdf87.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-munkasey-pdf281.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-vernal-point.md",
+      "pre_repair_page_sha256": "f201817b68cfdf6ed874b007fda149c46f1b0ed18485924325f39ff9b67062bb",
+      "pre_repair_source_sha256": "14566aff47c9ec1c59aa37556f9e1f466be0de44a13ebba2b9c6e1d0fcc52fab",
+      "captured_initial_source_sha256": "14566aff47c9ec1c59aa37556f9e1f466be0de44a13ebba2b9c6e1d0fcc52fab",
+      "source_entries_previously_unchanged": true,
+      "frontmatter_sha256": "68a553168c7e6e687145aef6e2bef4da562fe96e0a082ba95baf46aa8475bf49",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-091.jsonl",
+      "ledger_line": 4,
+      "pre_repair_record_sha256": "d8bc0531b42f1ca2adeb3bc3e159fd5701530f59fd2dd238aac33c255612133e",
+      "post_repair_page_sha256": "5c4d0fe159b7b2474434fde86090b0e330e90b318b00ff4d2e3ec5b82e5782ed",
+      "post_repair_source_sha256": "a4523adc6a5866f3c606e2133542d412ad96b39e4db4750bda3867819fd1c1d9",
+      "post_repair_record_sha256": "135a2d34f4fd9b80923aff13828b795718f00e0fa205b42882b1d81f32fe4e8a",
+      "complete_abc_clauses": 6,
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf137.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf179.png"
+      ],
+      "remaining_contextual_limits": [],
+      "verification": "Full saved page, source delta, original/full amended record, identity/links/anchor/schema and unique owner binding checked."
+    }
+  ],
+  "completed_at": "2026-10-15T14:09:41.775229+00:00",
+  "changed_pages": 8,
+  "unchanged_pages": 0,
+  "new_full_review_records": 0,
+  "complete_abc_clauses": 57,
+  "original_unresolved_items_resolved": 10,
+  "pages_with_contextual_limits": 2,
+  "proof_images": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf112.png",
+      "sha256": "1c5cc800a9ae9f3523e976e85aa1998ff717911fba86ca5f5e28828e7e6aead3",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf137.png",
+      "sha256": "501df2b652aec0543b396e95525d9942dbf0ea3aab9d048f82887342674b06e8",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png",
+      "sha256": "495c95edadbcaed5f03b7c104f918b05a59846c199664ff9d1819c90a5dcbb0e",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf36.png",
+      "sha256": "9bb0883c246ff22a1d98187c276dea1c3b9bc68cb1cfaac5390b6b23a12bcb64",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf49.png",
+      "sha256": "31649bc25260af9aec84e01f3893f85fc1428df45bc02a3a831538c094f69a2d",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-ebertin-pdf246.png",
+      "sha256": "17036c8c89bc53e054819dfad050cd99e12b9fbad85dad240df82fe34ae18a4c",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-munkasey-pdf281.png",
+      "sha256": "67ccd8bd6c3138ec8356314ee42a48c7a1a47b8d1386068ebe93b0ec46392844",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-sandbach-pdf86.png",
+      "sha256": "567deb2f6e73303cddbab0841b5e9b0ae8aef997435da1add56c30de7d055345",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-sandbach-pdf87.png",
+      "sha256": "841fb55a356666408621a560aaa1a4c7cbfdcf728f6694b6a6972894f83964c4",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf179.png",
+      "sha256": "93069c2b14cac7e0ec5116cba6ed96b060b7aae92043ab0f00c0de165f963060",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf42.png",
+      "sha256": "7922304693e0fe2d77438b0175f8da3c95845678b989ee39c4fe969b0567d9c9",
+      "personally_viewed_actual_scan": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-witte-pdf65.png",
+      "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912",
+      "personally_viewed_actual_scan": true
+    }
+  ],
+  "raw_sources": [
+    {
+      "path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+      "access": "read/render only; no raw source writes"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+      "access": "read/render only; no raw source writes"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+      "access": "read/render only; no raw source writes"
+    },
+    {
+      "path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895",
+      "access": "read/render only; no raw source writes"
+    },
+    {
+      "path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6",
+      "access": "read/render only; no raw source writes"
+    }
+  ],
+  "verification_failures": []
+}

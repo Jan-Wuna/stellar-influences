@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Z = U`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
 - Triad hub: [Vernal Point Mars Pluto](../triads/vernal-point-mars-pluto.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ Sideline activities. To make plans. A plan. To organize something.
 
 #### ABC Entry
 
-Work filr develop the general public, work change in the public, development work in the public, effective change in the public, growing public work, and change of activity in the public life
+- Source reference: printed p. `42`, one-based PDF p. `20`, complete Mars row.
+
+German passage transcribed from the scan:
+
+> Arbeit für die Allgemeinheit entwickeln, Arbeits-Wechsel in der Öffentlichkeit, Entwicklungs-Arbeit in der Öffentlichkeit, tatkräftige Veränderung in der Öffentlichkeit, wachsende Öffentlichkeits-Arbeit, Wandlung der Tätigkeit im öffentlichen Leben
+
+Editorial translation: Develop work for the general public; changes of work in public; development work in public; energetic change in public; growing public work; change of activity in public life.
+
+## Comparative Schema
+
+- Core meaning: Public development is expressed through work, planning, and organized activity.
+- Psychology: Making plans is explicit; a temperament or level of aggression is not established.
+- Body/health: No bodily condition or medical claim appears in these entries.
+- Social/relationship: Work for the general public and activity in public life supply the social setting.
+- Events/manifestations: Sideline activities, organization, changes of work, and growing public work are named.
+- Conflicts/notes: ABC names developing work for the general public; this specifies the work rather than a process of developing people.
+
+## Contradictions
+
+The planning and sideline emphasis is narrower than the ABC account of public work, but no explicit incompatibility appears. The passages do not make every plan a public project.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Mars`: sideline activities, to make plans, a plan, and to organize something.
-- Practical expression: work change in the public, development work in the public, effective change in the public, and growing public work.
+In `Vernal Point/Pluto = Mars`, Mars specifies development in public life through work that is planned, organized, or changing in scope. The [Witte entry](#witte-entry) supplies plans, organization, and sideline activities, while the [ABC entry](#abc-entry) places work and changing activity in a public setting. The connected theme is development through practical activity, including work for the public, without importing conflict or aggression that these entries do not state.
 
 ## Links
 

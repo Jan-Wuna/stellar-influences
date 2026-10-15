@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Moon Apollon`
 - Astronomicon triad-set: `S R ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Moon/Apollon = Sun](../activations/moon-apollon-equals-sun.md)
-- [Sun/Apollon = Moon](../activations/sun-apollon-equals-moon.md)
-- [Sun/Moon = Apollon](../activations/sun-moon-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Apollon = Sun](../activations/moon-apollon-equals-sun.md) | [Moon/Apollon](../axes/moon-apollon.md) | [Sun](../factors/sun.md) |
+| [Sun/Apollon = Moon](../activations/sun-apollon-equals-moon.md) | [Sun/Apollon](../axes/sun-apollon.md) | [Moon](../factors/moon.md) |
+| [Sun/Moon = Apollon](../activations/sun-moon-equals-apollon.md) | [Sun/Moon](../axes/sun-moon.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Moon/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
-- `Moon/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `200`
-- `Sun/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
-- `Sun/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `166`
-- `Sun/Moon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `139`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Moon/Apollon = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/moon-apollon-equals-sun.md#witte-entry), one-based PDF entry-start p. `134`.
+- `Moon/Apollon = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/moon-apollon-equals-sun.md#abc-entry), printed p. `200`.
+- `Sun/Apollon = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-apollon-equals-moon.md#witte-entry), one-based PDF entry-start p. `115`.
+- `Sun/Apollon = Moon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-apollon-equals-moon.md#abc-entry), printed p. `166`.
+- `Sun/Moon = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-apollon.md#witte-entry), one-based PDF entry-start p. `101`.
+- `Sun/Moon = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-apollon.md#abc-entry), printed p. `139`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Sun`: The man who strives for freedom of action. The daily one and the same. Daily and hourly encounter many people.
-- `Sun/Apollon = Moon`: This formula emphasizes successful in ordinary life and popular.
-- `Sun/Moon = Apollon`: This formula emphasizes success in ordinary life and broad popularity.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

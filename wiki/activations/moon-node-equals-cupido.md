@@ -29,10 +29,13 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/g = ¡`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Triad hub: [Moon Node Cupido](../triads/moon-node-cupido.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `121`.
 
 #### Witte Entry
 
@@ -40,16 +43,29 @@ Union of a woman leading to marriage.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `175`; PDF p. `86` (entry visually checked).
+
 #### ABC Entry
 
 forming an emotional community, relationships with communities of women, contacts with communities of peoples, mother bond in the community, connected with the community of the people, connections among peoples through art, and changing feelings in a connection
 
+## Comparative Schema
+
+- core meaning: Cupido specifies the pair through union and the formation of an emotional community.
+- psychology: ABC includes changing feelings within a connection but does not describe a fixed personality pattern.
+- body/health: neither entry supplies a specific bodily or health claim.
+- social/relationship: marriage, women's communities, maternal bonds in community, and collective belonging are explicit.
+- events/manifestations: forming a community, union leading to marriage, and connecting peoples through art are stated examples.
+- conflicts/notes: a marriage example does not imply that all emotional connections naturally become formal partnerships.
+
+## Contradictions
+
+- Witte's marriage example is narrower than ABC's communities and artistic connections. The broader range adds possibilities rather than contradicting marriage or making it inevitable.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Node = Cupido`: Union of a woman leading to marriage.
-- Practical focus: socializes `Moon/Node` through union, marriage, and emotionally affiliative bonding. It points to connection with women taking on formal or relational shape, where attachment naturally moves toward partnership, family pattern, or social ritual.
-- Practical expression: forming an emotional community, mother bond in the community, connected with the community of the people, connections among peoples through art, and changing feelings in a connection.
+In `Moon/Node = Cupido`, Cupido specifies the pair through emotional ties taking communal form. [Witte](#witte-entry) gives union leading to marriage; [ABC, p. 175](#abc-entry) broadens the expression to women's groups, maternal bonds within a community, and connections among peoples through art. The shared theme is forming or participating in a union, while the entries leave its scale and form open.
 
 ## Links
 

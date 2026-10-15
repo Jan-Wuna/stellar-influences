@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Cupido Kronos`
 - Astronomicon triad-set: `MC ¡ ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Kronos = MC](../activations/cupido-kronos-equals-mc.md)
-- [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md)
-- [MC/Kronos = Cupido](../activations/mc-kronos-equals-cupido.md)
+- [Cupido/Kronos = MC](../activations/cupido-kronos-equals-mc.md): base axis [Cupido/Kronos](../axes/cupido-kronos.md); activator [MC](../factors/mc.md).
+- [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md): base axis [MC/Cupido](../axes/mc-cupido.md); activator [Kronos](../factors/kronos.md).
+- [MC/Kronos = Cupido](../activations/mc-kronos-equals-cupido.md): base axis [MC/Kronos](../axes/mc-kronos.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Cupido/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
-- `Cupido/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `428`
-- `MC/Cupido = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `85`
-- `MC/Kronos = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `91`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Kronos = MC](../activations/cupido-kronos-equals-mc.md#witte-entry) (PDF entry-start p. 269); [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md#witte-entry) (PDF entry-start p. 70); [MC/Kronos = Cupido](../activations/mc-kronos-equals-cupido.md#witte-entry) (PDF entry-start p. 73).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Kronos = MC](../activations/cupido-kronos-equals-mc.md#abc-entry) (printed p. 428); [MC/Cupido = Kronos](../activations/mc-cupido-equals-kronos.md#abc-entry) (printed p. 85); [MC/Kronos = Cupido](../activations/mc-kronos-equals-cupido.md#abc-entry) (printed p. 91).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Kronos = MC`: marriage, great family celebration, presence at formal gatherings, one's own social place, and great artistic talent.
-- `MC/Cupido = Kronos`: raises the axis into distinction, leadership, and high artistic ability within groups.
-- `MC/Kronos = Cupido`: socializes the axis through artistic mastery and leadership in groups.
+MC, Cupido and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Kronos](../axes/cupido-kronos.md)
+- [MC/Cupido](../axes/mc-cupido.md)
+- [MC/Kronos](../axes/mc-kronos.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Kronos](../factors/kronos.md)

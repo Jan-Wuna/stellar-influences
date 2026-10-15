@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Node Cupido`
 - Astronomicon triad-set: `Q g ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Cupido = Venus](../activations/node-cupido-equals-venus.md)
-- [Venus/Cupido = Node](../activations/venus-cupido-equals-node.md)
-- [Venus/Node = Cupido](../activations/venus-node-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Cupido = Venus](../activations/node-cupido-equals-venus.md) | [Node/Cupido](../axes/node-cupido.md) | [Venus](../factors/venus.md) |
+| [Venus/Cupido = Node](../activations/venus-cupido-equals-node.md) | [Venus/Cupido](../axes/venus-cupido.md) | [Node](../factors/node.md) |
+| [Venus/Node = Cupido](../activations/venus-node-equals-cupido.md) | [Venus/Node](../axes/venus-node.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Node/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `224`
-- `Venus/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `282`
-- `Venus/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `142`
-- `Venus/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `211`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Cupido = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-cupido-equals-venus.md#witte-entry), one-based PDF entry-start p. `149`.
+- `Node/Cupido = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-cupido-equals-venus.md#abc-entry), printed p. `224`.
+- `Venus/Cupido = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-node.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-node.md#abc-entry), printed p. `282`.
+- `Venus/Node = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-node-equals-cupido.md#witte-entry), one-based PDF entry-start p. `142`.
+- `Venus/Node = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-node-equals-cupido.md#abc-entry), printed p. `211`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Venus`: Starting a love affair which leads to marriage.
-- `Venus/Cupido = Node`: love connections which lead to marriage.
-- `Venus/Node = Cupido`: a love tie that leads to marriage.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Poseidon](../triads/sun-mars-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ The morally and mentally acting man.
 
 Work in a culture center, mentally creating man, clarity creating man, personal reason actions, personal knowledge activity, personal culturecreating, mental work of man, and activity in a spiritual center
 
+## Comparative Schema
+
+- core meaning: Activity directed toward understanding, culture, or moral purpose.
+- psychology: Reasoned and clarity-seeking work in ABC.
+- body/health: No body or health claim is stated.
+- social/relationship: Work in cultural or spiritual settings.
+- events/manifestations: Intellectual creation and cultural activity.
+- conflicts/notes: The entries do not establish supernatural inspiration.
+
+## Contradictions
+
+No direct contradiction is apparent. Witte’s moral/mental action and ABC’s cultural and intellectual work overlap without making all examples religious.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mars = Poseidon`: inspired action and active pursuit of spiritual aims.
-- Practical expression: work in a culture center, mentally creating man, clarity creating man, personal reason actions, and personal knowledge activity.
+In `Sun/Mars = Poseidon`, Poseidon specifies Sun/Mars activity through moral, intellectual, or cultural purpose. The [Witte Entry](#witte-entry) describes morally and mentally directed action; the [ABC Entry](#abc-entry) makes seeking clarity, reasoned activity, and work in a cultural or spiritual center concrete examples. The throughline is effort devoted to understanding or expressing ideas and values, rather than an unsupported claim that the person acts from supernatural inspiration.
 
 ## Links
 

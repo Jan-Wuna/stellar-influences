@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Apollon Admetos](../triads/moon-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ Narrow conditions. To be content with circumstances. A people content with littl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 203; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-Endurance of a successful woman, blocked women's cycle, depression expansion in a woman, success by a woman's thoroughness, consolidation by the knowledge of the body, trade blockade of a people, and economic restrictions for a people
+German passage (transcribed from PDF page `100`, printed page `203`):
+
+> Ausdauer einer erfolgreichen Frau, blockierter Kreislauf der Frau, Depressions-Ausdehnung bei einer Frau, Erfolg durch Gründlichkeit einer Frau, Festigung durch Gefühls-Wissen, Handels-Blockade eines Volkes, wirtschaftliche Einschränkungen für ein Volk
+
+Editorial translation from the German passage: Endurance of a successful woman; blocked circulation of a woman; spread of depression in a woman; success through a woman's thoroughness; consolidation through emotional knowledge; a trade blockade of a people; economic restrictions for a people.
+
+## Comparative Schema
+
+- core meaning: Narrow circumstances may coexist with contentment or endurance.
+- psychology: Witte describes satisfaction with existing conditions; ABC adds perseverance.
+- body/health: ABC explicitly names blocked circulation and spread of depression; these remain historical claims, not diagnoses.
+- social/relationship: Women and a people are source-specific examples, not universal categories.
+- events/manifestations: Little space, trade blockades and economic restriction are concrete settings.
+- conflicts/notes: Contentment and economic restriction coexist with ABC's emotional knowledge and thoroughness.
+
+## Contradictions
+
+Contentment in narrow conditions differs from economic and circulatory restriction. ABC also includes success through thoroughness and consolidation through emotional knowledge.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Apollon`: Narrow conditions. To be content with circumstances. A people content with little space.
-- Practical expression: endurance of a successful woman, blocked women's cycle, depression expansion in a woman, success by a woman's thoroughness, and trade blockade of a people.
+In `Moon/Admetos = Apollon`, Apollon specifies the axis through life within narrow conditions. [Witte](#witte-entry) emphasizes contentment with little space; [ABC](#abc-entry) adds endurance, thoroughness and restrictions on trade or a people's economy. Material restriction and satisfaction remain separate aspects: contentment is one source possibility, not proof that limitations are harmless.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [Node MC Kronos](../triads/node-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 Connection to people who have great abilities. Moguls among themselves.
 
@@ -42,13 +46,27 @@ Connection to people who have great abilities. Moguls among themselves.
 
 #### ABC Entry
 
-Special emotional connection, my encounters with the boss, my self defense connections, my contacts with the authorities, spiritual connection with the boss, self confidence through emotional connections, and important encounter at a minute
+Source: “Meridian + Kronos,” printed p. 90 (PDF p. 44).
+
+A special inner or soul connection, my encounters with the chief, my independent connections, my contacts with authorities, an inner or soul connection to the chief, self-confidence through inner connections, and an important encounter in the minute.
+
+## Comparative Schema
+
+- core meaning: Personal authority and independence expressed through capable people, important encounters, and connections.
+- psychology: Self-confidence through inner connections.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Contacts with chiefs or authorities and people of great ability.
+- events/manifestations: Independent connections and important encounters.
+- conflicts/notes: Moguls are a specific Witte example; the entries do not require every relationship to be elite or a route to power.
+
+## Contradictions
+
+Both entries include significant contacts. ABC develops independent connections and inner bonds alongside contacts with authorities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Node` joins the axis to highly capable or elite people.
-- Chart expression: association with powerful peers, networks of exceptional ability, and a life path built through contact among superiors, moguls, or influential circles.
+In `MC/Kronos = Node`, Node specifies personal authority and independence through connections and important encounters. Witte names people with great abilities and moguls among themselves; ABC adds chiefs, authorities, independent connections, and self-confidence through inner bonds. The shared theme is significant association, with capable or powerful people as examples rather than proof that every relationship is elite or advances one's status. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 90 / PDF p. 44)
 
 ## Links
 

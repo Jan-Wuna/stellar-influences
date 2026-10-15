@@ -14,6 +14,7 @@ related_activations:
   - Neptune/Node = Admetos
   - Neptune/Node = Apollon
   - Neptune/Node = Asc
+  - Neptune/Node = Chiron
   - Neptune/Node = Cupido
   - Neptune/Node = Hades
   - Neptune/Node = Jupiter
@@ -22,6 +23,8 @@ related_activations:
   - Neptune/Node = MC
   - Neptune/Node = Mercury
   - Neptune/Node = Moon
+  - Neptune/Node = Neptune
+  - Neptune/Node = Node
   - Neptune/Node = Pluto
   - Neptune/Node = Poseidon
   - Neptune/Node = Saturn
@@ -32,6 +35,7 @@ related_activations:
   - Neptune/Node = Vulcanus
   - Neptune/Node = Zeus
 related_triad_hubs:
+  - Chiron Neptune Node
   - Jupiter Neptune Node
   - Mars Neptune Node
   - Mercury Neptune Node
@@ -71,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Y/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NEPTUNE/NODE`
-- Source page: `331`
+- Source heading: `NODES + NEPTUNE`
+- PDF page (one-based): `147` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -84,11 +90,15 @@ Dissolution of unions. Secret relationships or contacts. Future connections. Sen
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `220–221`; PDF page (one-based): `109` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Enf: swapping, fine tuning in compounds, fine tuning compound, intuitive compound, unsafe bonding, connection to metaphysics, prevention with a water, bonding unresolved, and future compounds
+A disappointing connection, sensitivity in relationships, a subtle-material connection, an intuitive connection, an uncertain connection, connection to metaphysics, connection with water, dissolving connections, future connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `283`; PDF page: `285` (complete pair prose and plus marker checked against scan).
 
 #### Principle
 
@@ -96,7 +106,7 @@ Lack of community sense or team spirit.
 
 #### Psychological Correspondence
 
-■+■ Peculiar or strange conduct in communal life, occasional unreliability. - Lack of social or communal sense and feeling, inclination to exploit, deceive and cheat other people. C Antisocial behavior.
++ Peculiar or strange conduct in communal life, occasional unreliability. - Lack of social or communal sense and feeling, inclination to exploit, deceive and cheat other people. C Antisocial behavior.
 
 #### Biological Correspondence
 
@@ -170,18 +180,19 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Subtle, idealistic or uncertain connections, with possible dissolution, withdrawal or confusion about what joins people.
+- psychology: Intuitive insight and spiritual guidance coexist with unrealistic expectations, unclear judgment and avoidance of others' counsel.
+- body/health: Ebertin names disturbed sleep and lack of tone; Munkasey names connective tissues, drug isolation and subjection to others. These remain attributed associations, not diagnoses.
+- social/relationship: Spiritual or self-sacrificing fellowship and inspiring meetings range into unreliable contacts, secrecy, disappointment, deception and evasion.
+- events/manifestations: Future connections, dissolved unions, retreat, metaphysical affiliations and literal water connections are explicit; Munkasey adds neglectful institutions and scandals.
+- conflicts/notes: Ebertin's weak communal sense does not exhaust the range of intuitive fellowship. Banzhaf/Haebler's North Node passage concerns direction in life; no intuition, spiritual bond or distrust is verified by the pair alone.
 
 ## Related Activations
 
 - [Neptune/Node = Admetos](../activations/neptune-node-equals-admetos.md)
 - [Neptune/Node = Apollon](../activations/neptune-node-equals-apollon.md)
 - [Neptune/Node = Asc](../activations/neptune-node-equals-asc.md)
+- [Neptune/Node = Chiron](../activations/neptune-node-equals-chiron.md)
 - [Neptune/Node = Cupido](../activations/neptune-node-equals-cupido.md)
 - [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md)
 - [Neptune/Node = Jupiter](../activations/neptune-node-equals-jupiter.md)
@@ -190,6 +201,8 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 - [Neptune/Node = MC](../activations/neptune-node-equals-mc.md)
 - [Neptune/Node = Mercury](../activations/neptune-node-equals-mercury.md)
 - [Neptune/Node = Moon](../activations/neptune-node-equals-moon.md)
+- [Neptune/Node = Neptune](../activations/neptune-node-equals-neptune.md)
+- [Neptune/Node = Node](../activations/neptune-node-equals-node.md)
 - [Neptune/Node = Pluto](../activations/neptune-node-equals-pluto.md)
 - [Neptune/Node = Poseidon](../activations/neptune-node-equals-poseidon.md)
 - [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md)
@@ -202,20 +215,21 @@ Use of drugs to isolate self from society; subjugating yourself to the influence
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Lack of communal sense and misleading expectations are prominent in Ebertin; Sandbach and Hand also preserve intuitive, spiritual or self-sacrificing connection. These expressions remain distinct rather than making every spiritual group unreliable.
+- Banzhaf/Haebler's North Node entry addresses guidance and life's direction, while most entries concern affiliation. ABC's complete bold summary was retranslated from PDF109, printed220–221; Witte's exact passage is PDF147, distinct from Munkasey's printed331.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node` is the axis of subtle or sacrificial connection, intuitive fellowship, and bonds shaped by idealism, confusion, or invisible influences. It combines dream, sympathy, mysticism, and ambiguity with friendship, group ties, and shared experience.
-- Chart expression: spiritual companionship, compassion in association, intuitive links, and connections formed around healing, art, religion, or collective ideals. Liabilities: deceitful alliances, unclear motives, social withdrawal, evasiveness, and communities in which projection, disappointment, or exploitation quietly undermine trust.
+`Neptune/Node` concerns connections whose basis may be subtle, idealistic or difficult to establish clearly. An intuitive link, shared spiritual purpose or willingness to sacrifice can bring people together, while uncertainty about intentions can produce disappointment, avoidance or dissolution. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) and [ABC](#udo-rudolph---abc-for-planetary-pictures) preserve secret, sensitive, future and dissolved connections; ABC also names literal water connections. [Hand](#robert-hand---horoscope-symbols) includes idealistic or religious fellowship alongside deceitful contacts, while [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) develops intuition and inner guidance as ways of working through confusion.
+
+The practical tension is between a felt bond and what can actually be expected of it. [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) stresses weak team spirit, excessive expectations and misleading judgment. [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) allows both inspiring meetings and needed privacy, but also retreat that avoids advice or difficult contact. [Banzhaf and Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) add a North Node emphasis on clear spiritual priorities versus a nebulous direction in life. None of these motifs verifies an intuition, proves deceit or requires a relationship to end. A closing factor's specific expression belongs to its exact [activation page](#related-activations).
 
 ## Links
 
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
+- [Chiron Neptune Node](../triads/chiron-neptune-node.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

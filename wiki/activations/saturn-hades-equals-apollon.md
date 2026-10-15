@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Hades = Apollon`
 - Astronomicon formula: `W/¢ = ¥`
 - Axis page: [Saturn/Hades](../axes/saturn-hades.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 225.
+
 Great weakening. To suffer many hostilities. To have many enemies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source page: 357 (printed); PDF page: 177.
+
 Hard experiences from the past, concentration on hidden knowledge, maturity through secret knowledge, multiplication of need in old age, extensive disadvantages due to separation, losses due to lack of knowledge, and much grief and pain
+
+## Comparative Schema
+
+- Core meaning: Hardship or hostility expands, alongside concentration on concealed knowledge.
+- Psychology: Grief, painful experience, and maturity through secret knowledge.
+- Body/health: Weakening and pain are historical associations without a specified disease.
+- Social/relationship: Many enemies and extensive disadvantages through separation.
+- Events/manifestations: Growing need in old age and losses through inadequate knowledge.
+- Conflicts/notes: Maturity through knowledge is retained without converting weakening or loss into assured growth.
+
+## Contradictions
+
+Maturity through knowledge is retained without converting weakening or loss into assured growth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Hades = Apollon`: great weakening, to suffer many hostilities, to have many enemies.
-- Practical expression: hard experiences from the past, concentration on hidden knowledge, maturity through secret knowledge, multiplication of need in old age, and extensive disadvantages due to separation.
+In `Saturn/Hades = Apollon`, Apollon specifies the pair through a widened field of hardship. The [Witte entry](#witte-entry) names great weakening and many hostilities or enemies; the [ABC entry](#abc-entry) adds extensive separation disadvantages and losses through inadequate knowledge. Its concentration on concealed knowledge and maturity through it remain distinct possibilities alongside grief and increasing need.
 
 ## Links
 

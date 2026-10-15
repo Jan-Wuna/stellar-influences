@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Saturn Cupido`
 - Astronomicon triad-set: `V W ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Cupido = Saturn](../activations/jupiter-cupido-equals-saturn.md)
-- [Jupiter/Saturn = Cupido](../activations/jupiter-saturn-equals-cupido.md)
-- [Saturn/Cupido = Jupiter](../activations/saturn-cupido-equals-jupiter.md)
+- [Jupiter/Cupido = Saturn](../activations/jupiter-cupido-equals-saturn.md): base axis [Jupiter/Cupido](../axes/jupiter-cupido.md); activator [Saturn](../factors/saturn.md).
+- [Jupiter/Saturn = Cupido](../activations/jupiter-saturn-equals-cupido.md): base axis [Jupiter/Saturn](../axes/jupiter-saturn.md); activator [Cupido](../factors/cupido.md).
+- [Saturn/Cupido = Jupiter](../activations/saturn-cupido-equals-jupiter.md): base axis [Saturn/Cupido](../axes/saturn-cupido.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `333`
-- `Jupiter/Saturn = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `325`
-- `Saturn/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
-- `Saturn/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `354`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Cupido = Saturn](../activations/jupiter-cupido-equals-saturn.md#witte-entry) (PDF entry-start p. 211); [Jupiter/Saturn = Cupido](../activations/jupiter-saturn-equals-cupido.md#witte-entry) (PDF entry-start p. 207); [Saturn/Cupido = Jupiter](../activations/saturn-cupido-equals-jupiter.md#witte-entry) (PDF entry-start p. 224).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Cupido = Saturn](../activations/jupiter-cupido-equals-saturn.md#abc-entry) (printed p. 333); [Jupiter/Saturn = Cupido](../activations/jupiter-saturn-equals-cupido.md#abc-entry) (printed p. 325); [Saturn/Cupido = Jupiter](../activations/saturn-cupido-equals-jupiter.md#abc-entry) (printed p. 354).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Saturn`: the loss or ending of a happy marriage, withdrawal from an otherwise good community, losses in a successful corporation, or family limits caused by money matters.
-- `Jupiter/Saturn = Cupido`: family beginning to separate, marriage settlement, many under one roof, or a union recognized only slowly and later.
+Jupiter, Saturn and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Saturn/Cupido](../axes/saturn-cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Cupido](../factors/cupido.md)

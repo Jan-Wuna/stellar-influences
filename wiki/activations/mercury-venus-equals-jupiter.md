@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus Jupiter](../triads/mercury-venus-jupiter.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Happy new acquaintance. Good manners. Sense of humor. Friendly. Fond of ornament
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 240; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Successful language of peace, successful artist description, joy over dear words, joy over the beauty of the language, joyful language about the artist, just peace thinking, talk about the love of money, and benevolent youth right
+Successful peace conversations, successful description of art, joy in loving words, joy in the beauty of language, joyful conversations about art, fair-minded thinking about peace (gerechtes Friedens-Denken), conversations about the love of money, benevolent youth law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 146 (coded entry 0462); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ Great wealth of artistic design or form, desire to acquire artistic objects or j
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 41–42 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 A wealth of artistic cleverness. The accumulation of beautiful or valuable ideas. A love of philosophical ideas artfully or beautifully expressed. An eagerness to share knowledge. One’s enthusiasm is expressed in a verbally artful or charming way.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Assumptions and opinions about how to love another person; augmented thinking an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Abundance, enthusiasm and success color artistic or affectionate expression.
+- psychology: Artistic cleverness and delight in beautifully expressed ideas recur.
+- body/health: No particular health condition is asserted.
+- social/relationship: Friendly acquaintances, humor and an advantageous union occur in the entries.
+- events/manifestations: Artistic success, jewelry, luxury and sharing knowledge give this orientation a wider range than pleasant speech alone.
+- conflicts/notes: Munkasey's exaggerated speech is a qualification within the range, not a contradiction of artistic success.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's exaggerated speech is a qualification within the range, not a contradiction of artistic success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Jupiter`: cultivated speech, benevolent mediation, and the ability to spread harmony through ideas and manners. Main caution: indulgent agreeability: expression can become excessive, flattering, or too eager to keep everything pleasant.
+In `Mercury/Venus = Jupiter`, Jupiter specifies affection, taste and ideas through abundance and enthusiasm. Humor, happy acquaintances and friendly manners sit beside artistic success, a love of valued objects or jewelry and delight in beautifully expressed philosophical ideas. Sharing knowledge, loving words and successful peace conversations give that appreciation a communicative form. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [ABC](#abc-entry))
+
+The abundance also extends to love of luxury, conversations about money and much talk about affection. Munkasey explicitly allows exaggerated speech when expressing love, so successful or charming expression need not be restrained. ([Munkasey](#munkasey-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry))
 
 ## Links
 

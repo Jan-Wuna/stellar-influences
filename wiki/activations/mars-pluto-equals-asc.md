@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto Asc](../triads/mars-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 To plan with others. To have something in mind. Changes in the working environment.
 
@@ -45,17 +49,23 @@ To plan with others. To have something in mind. Changes in the working environme
 
 #### ABC Entry
 
-Workplace change, local development work, local change, and change of location
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+Change of workplace, development work at the location, bringing about a change of location, development work in the surroundings, changing actions by others, change of work partner, a wish to change location, and changes of will in others.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 215, entry 0744.
 
 Daring and temerity, desire to face danger. An accident.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74. The source prints “an makeover” as retained.
 
 The ability to change or perform an makeover on oneself. One comes across as an overbearing or intimidating person.
 
@@ -70,22 +80,21 @@ Concentrating on using whatever means of control or will you have available to a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Change or planning expressed through one's presentation, partners, and local environment.
+- psychology: Daring, use of control or will, and a wish to remake oneself or surroundings.
+- body/health: Ebertin names an accident without specifying a medical condition.
+- social/relationship: Planning with others, changing work partners, and a potentially intimidating demeanor.
+- events/manifestations: Workplace or location changes, local development, self-makeover, and clearing clutter.
+- conflicts/notes: Environmental change and intimidation are distinct examples; an accident is not established as a necessary consequence of assertive presence.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share change and directed effort but differ in setting: Witte and ABC emphasize work surroundings, Sandbach self-presentation, and Munkasey control and a clear local environment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Asc`: personal reinvention, hard-edged courage, and a style that can organize others or alter the environment through pressure and resolve. Main caution: overbearing force: intensity can spill into accident, domination, or a presence others experience as threatening.
+In `Mars/Pluto = Asc`, Asc specifies developing action and plans through direct encounters, self-presentation, and the surroundings. Witte names planning with others and changes at work; ABC adds workplace, location, and partner changes. Sandbach describes remaking oneself as well as an intimidating presence, while Munkasey connects control with one's aims and keeping the local environment clear. Ebertin's daring and accident are separate examples, not proof that assertiveness causes injury. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 215, entry 0744; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Pluto Asc](../triads/moon-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Changes which do not last. Changes of ones own circumstances through acquaintance with females. Changes in public conditions.
 
@@ -44,11 +48,15 @@ Changes which do not last. Changes of ones own circumstances through acquaintanc
 
 #### ABC Entry
 
-Development of an emotional environment, development of other peoples, emotional unfolding toward the partner, hour of change in place, environmental change through the woman, growing feelings of the partner, and transformation of the woman as partner
+- Source passage: `Aszendent + Mond`; printed p. `103`; PDF page `50` (complete oriented row checked against actual scan).
+
+Development of a feelingful environment, development of other peoples, unfolding of feelings toward the partner, hour of change of place, environmental change through the woman, growing feelings of the partner, transformation of the woman as partner.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Pluto entry at one-based PDF pages `39–40` (checked in actual raw PDF text).
 
 One is strongly impacted by emotional sharing in one-on-one relationships. One can get deeply in touch with one’s feelings when interacting with another, though there may be fear of and resistance to doing so.
 
@@ -63,22 +71,21 @@ Abnormal feelings of gloom or despair felt from others; eliminating any awarenes
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional encounters can alter circumstances or expose powerful reactions within relationships.
+- psychology: Deep contact with feelings may meet fear or resistance; Munkasey also describes despair and self-preoccupation.
+- body/health: Gloom and despair are attributed psychological descriptions here, not medical diagnoses.
+- social/relationship: Sharing can deepen awareness, while pursuit of prestige or power can exclude others' needs.
+- events/manifestations: Changed acquaintances, changing public conditions and development of a partner's feelings are stated examples.
+- conflicts/notes: Witte's changes need not last; deepened sharing and exclusion of others are distinct outcomes, not one guaranteed development.
 
 ## Contradictions
 
-- None recorded yet.
+The displayed entries differ in emphasis, but no direct contradiction is established. The examples remain source-attributed possibilities, not universal outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Pluto`: strong intuitive impact, emotional resilience, and the ability to affect others profoundly through presence alone. Main caution: intensity in closeness: feelings can become controlling, suspicious, or too heavy for easy rapport.
+In `Moon/Asc = Pluto`, emotional encounters can change circumstances and deepen awareness of feeling, while fear or resistance can complicate intimate sharing. Growing partner feelings, an evolving emotional environment and change of place give that development concrete relational and local forms. Munkasey's gloom, self-preoccupation and pursuit of power at others' expense preserve an excluding response alongside deeper sharing. Witte's qualification that changes may not last keeps temporary alteration distinct from lasting transformation. ([Witte](#witte-entry); [ABC](#abc-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry).)
 
 ## Links
 

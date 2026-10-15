@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Cupido = MC`
 - Astronomicon formula: `U/¡ = MC`
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 197.
+
 Intention to marry. Activity in a community.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I at the active in the Community, my will for synthesis, my work for the Community, my artistic activity, my work in the Community, and the psychic will community
+- Source page: 308; PDF page: 153.
+
+Formation of a community of souls, I activate the community, my will toward synthesis, my work for the community, my artistic activity, my activity in the community, and a psychic community of will.
+
+Translation repaired from the MC row, beginning “Herstellung einer Seelen-Gemeinschaft”; the previous opening omitted that phrase and garbled the following clause.
+
+## Comparative Schema
+
+- Core meaning: Personal intention and activity directed toward a community.
+- Psychology: A will toward synthesis and shared purpose.
+- Body/health: Not addressed by these entries.
+- Social/relationship: Intending to marry or helping form a community.
+- Events/manifestations: Working for a group, artistic activity, and activating communal effort.
+- Conflicts/notes: A vocation or fixed life path is not established by these short entries.
+
+## Contradictions
+
+Witte names marriage intention and community activity; ABC develops personal participation and shared will without opposing those meanings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = MC`: group involvement as vocation, intentional union, and a life path that advances through shared work, communal duty, or formal commitment.
+In `Mars/Cupido = MC`, MC specifies personal participation in forming and activating a community. The will toward shared purpose can take the form of group work or artistic activity; Witte also gives the intention to marry. The emphasis is what one intends and does with others, without requiring that this become a lifelong vocation. [Witte entry](#witte-entry); [ABC entry](#abc-entry)
 
 ## Links
 

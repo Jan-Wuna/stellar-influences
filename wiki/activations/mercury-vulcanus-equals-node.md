@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
 - Triad hub: [Mercury Node Vulcanus](../triads/mercury-node-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 172 (entry start); source heading: `Mercury + Vulcanus`.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Connections with people who think forcefully. Mighty connection of thoughts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 266; one-based PDF p. 132 (oriented row checked against the scan); source heading: `Merkur + Vulkanus`.
+
 #### ABC Entry
 
-Energy transmission through language, influence of the word during encounters, influential contacts with youth, encountering youth violence, contacts with media power, and strong connection traffic
+Transmission of energy through language, influence of words in encounters, influential contacts with young people, influence of thought within connections, encountering violence among youth, contacts with media power, intense connecting traffic.
+
+## Comparative Schema
+
+- core meaning: Forceful thought and speech operate through connections.
+- psychology: A strong connection of thoughts is explicit in Witte.
+- body/health: No bodily or medical association is stated.
+- social/relationship: Connections with forceful thinkers, youth and media are examples.
+- events/manifestations: Influential words in encounters and influence of thought within connections are concrete ABC manifestations.
+- conflicts/notes: Strong intellectual connection does not establish coercion. ABC's closing traffic compound does not specify a means of transport.
+
+## Contradictions
+
+Forceful intellectual links, media contacts and encounters with youth violence are distinct examples rather than an assertion that every strong connection is coercive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Vulcanus = Node`: Connections with people who think forcefully. Mighty connection of thoughts.
-- Practical expression: energy transmission through language, influence of the word during encounters, influential contacts with youth, encountering youth violence, and contacts with media power.
+In `Mercury/Vulcanus = Node`, Node specifies forceful thought through connections with other people. Powerful links of thought, influential words during encounters and transmission of energy through language give intellectual contact an active effect; contacts with youth or media power provide concrete social settings. ([Witte](#witte-entry); [ABC](#abc-entry))
+
+Encountering violence among youth remains a separate adverse social example. A strong connection of thought does not by itself establish coercion. ([ABC](#abc-entry))
 
 ## Links
 

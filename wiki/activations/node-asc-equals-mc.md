@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = MC`
 - Astronomicon formula: `g/Asc = MC`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 The attitude of the soul in relation to others and the closer surroundings. Many personal contacts with acquaintances. Close personal contact.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `104`, PDF p. `51` (entry).
+
 #### ABC Entry
 
-My partner preventions, my connections in the place, my environmental connections, minute prevention in the place, mental relations with the partner, meetings with my partner, commitment to other souls, and connections with my partner
+My partner connections, my connections at the place, my connections to the surroundings, a minute of connection at the place, soulful relationships to the partner, meeting with my partner, connection to other souls, and my partner's connections
+
+The phrase 'a minute of connection at the place' retains Minute einer Verbindung am Ort literally; the entry gives no further explanation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `302`, entry code `1093`.
 
 #### Ebertin Entry
 
 Desire to establish an inner contact with other persons. Striving for close cooperation with other people. The expression of communal sense.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `120` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ Spiritual development is either enhanced or impeded by how one see’s oneself. 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Maturing and growing as a person due to the effect your friends have on your lif
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: one's own close contacts and attitude toward others, with cooperation and communal sense.
+- psychology: personal growth through friends and changing self-perception are stated emphases.
+- body/health: Sandbach's dying and reforming personality is spiritual metaphor, not physical death.
+- social/relationship: partner ties, acquaintances and guarantees made for groups are explicit.
+- events/manifestations: meeting a partner and recognition for social effort are named.
+- conflicts/notes: the literal minute-of-connection phrase is unexplained and does not supply a timing method.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize close or inner contact. Munkasey adds social growth and recognition; Sandbach adds a spiritual account of personality renewal, without establishing dependence on group expectations.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = MC`: socially rooted purpose, recognizable group identity, and the ability to bring close relationships into visible life direction. Main caution: borrowed self-definition: personal direction can become too dependent on group expectation or familiar relational patterns.
+Node/Asc = MC concerns one's own attitude and inner contact with others. [Witte](#witte-entry) names personal acquaintances and the closer surroundings; [Ebertin](#ebertin-entry) adds close cooperation and communal sense. [ABC](#abc-entry) specifies one's partner and local ties, while [Munkasey](#munkasey-entry) describes growth through friends and recognition for social effort. [Sandbach](#sandbach-entry) frames changing self-perception as spiritual renewal (PDF p. 120). These are related personal and social emphases without a necessary dependence on group expectations.
 
 ## Links
 

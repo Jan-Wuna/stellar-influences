@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Jupiter`
 - Astronomicon formula: `T/Y = V`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Lucky (fortunate) imagination. To build “castles in the air”.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Printed source page: `250`; PDF page: `124`.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Movement joy in the water, successful air traffic, success reports about water, 
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Printed source page: `161`; entry code: `0523`.
+
 #### Ebertin Entry
 
 A rich imagination and great powers of fantasy, stepped-up powers of imagination. Poet, actor. The inclination to harbor great hopes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Increased dreams and visions on how the future should be; insight into using med
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Abundant imagination, heightened hopes and visions of a desirable future.
+- psychology: Fantasy ranges from fortunate inspiration to building castles in the air ([Witte](#witte-entry), [Ebertin](#ebertin-entry)).
+- body/health: No distinct bodily or medical claim is established.
+- social/relationship: Sandbach describes enthusiasm for idealistic concepts; Munkasey includes thoughts of an ideal society.
+- events/manifestations: Poetry, acting, metaphysics and ABC's successful air or water activities are separate examples.
+- conflicts/notes: Spiritual guidance is Sandbach's attribution; success and inflated expectation remain distinct.
 
 ## Contradictions
 
-- None recorded yet.
+The sources share rich imagination and hopeful outlook. Witte's castles in the air and Ebertin's great hopes qualify the more affirmative spiritual guidance described by Sandbach; they do not establish guaranteed success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Jupiter`: mythic or inspirational language, charitable ideas, and the ability to move others through vision rather than literal argument. Main caution: inflated ambiguity: ideals can become grand, credulous, or too diffuse to test carefully.
+In `Mercury/Neptune = Jupiter`, Jupiter expands imaginative thought into varied fantasy, large hopes and visions of how the future should be. This supports poetry, acting and enthusiasm for idealistic or metaphysical ideas. The same expansion can produce castles in the air, so inspiration and the realization of hopes remain separate questions. ABC's successful air and water activities and thoughts about money's future are additional concrete manifestations, rather than a promise that every vision succeeds ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

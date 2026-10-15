@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Saturn`
 - Astronomicon formula: `X/g = W`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Saturn entry.
+
 #### Witte Entry
 
 Witness of a scene or of somebody turned out. To participate suddenly in separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 219 (PDF p. 108), Node/Uranus spread, Saturn entry.
+
 #### ABC Entry
 
-Tasks through new connections, exciting separation of a connection, serious contacts to technology, serious tensions in a connection, sudden separation of a connection, cancellation impulses in a relationship, and lossful event in a relationship
+Tasks through new connections, exciting separation of a connection, serious contacts with technology, serious tensions in a connection, sudden separation of a connection, disturbance impulses in a relationship, and an event involving loss in a relationship.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0969`.
 
 #### Ebertin Entry
 
 Sudden inhibitions experienced in the presence of others. Encountering difficulties along with others, termination of an association, divorce.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Saturn entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Lengthens your struggle to gain acceptance, but also adds persistence to your ef
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Inhibited connection, separation, and persistent work toward acceptance. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Caution in groups and difficulty feeling uninhibited. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Shared difficulties and prolonged efforts to have ideas accepted. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Termination of an association, divorce, or solitary preparation of theories. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Persistence and separation are distinct possibilities; disturbance impulses do not necessarily mean cancellation. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Inhibition and separation coexist with patience and persistence toward acceptance of new ideas. The entries retain divorce as a possible event, without making every difficulty an inevitable ending.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Saturn`: serious collective change, durable but strained alliance, and the effort to modernize ties without destroying them. Main caution: brittle relating: pressure between rebellion and loyalty can produce mistrust, withdrawal, or abrupt severance.
+Saturn specifies Uranus/Node through inhibition and difficulty in connections, with separation as one possible result. Caution about openness can coexist with patient efforts to bring ideas into use, including developing theories in isolation before presenting them. The entries retain divorce and sudden participation in a separation, but they also describe persistence; difficulty does not by itself establish that a bond must end. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

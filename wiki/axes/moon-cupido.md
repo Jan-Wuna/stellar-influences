@@ -64,11 +64,16 @@ updated_at: 2026-05-04
 
 - Axis: `Moon/Cupido`
 - Astronomicon axis: `R/¡`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON + CUPIDO`
+- PDF page (one-based): `130` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxati
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `192–193`; PDF page (one-based): `95` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
 Women's community, shared feelings, shared mother, emotional community, feeling of community, the woman's art, hour of community, people's community, and folk art
+
+## Comparative Schema
+
+- core meaning: Shared feeling and community expressed through family, women's associations, sociability and art.
+- psychology: A sense of community and common feelings is explicit; these brief summaries do not describe emotional dependency or a negative personality.
+- body/health: Female and maternal roles are named, but no bodily condition or health claim is supplied.
+- social/relationship: Brides, wives, mothers, stepmothers, mothers-in-law and associations locate the pair in family and communal ties.
+- events/manifestations: Betrothal, weddings, leisure, dance, art, virtuosity and folk art give concrete outlets for shared life.
+- conflicts/notes: Witte's routine is not explicitly a liability. Family and artistic examples do not guarantee marriage or harmony; distinct activation outcomes remain separate.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Women's community, shared feelings, shared mother, emotional community, feeling 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido` is the axis of shared feeling, women's community, family and marriage symbolism, leisure, sociability, dance, art, and people's associations.
-- Constructively it supports emotional belonging, domestic harmony, folk art, feminine artistry, relaxed social life, and communities shaped by feeling.
-- Its liability is routine, social convention, family or group expectation, and emotional dependency on the approval of the circle.
-- Activations show whether the community-field becomes artistic, marital, public, pressured, productive, or troubled.
+`Moon/Cupido` brings feeling into shared life: family, women's communities, social associations and artistic activity. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) makes common feelings and the sense of community explicit, joining them with a shared mother, women's art and folk art. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) gives that communal field concrete forms in brides, wives, mothers, stepmothers and mothers-in-law, as well as betrothal, weddings and associations.
+
+Leisure, sociability, dance, shaping and virtuosity also belong here, so the pair is broader than marriage or the household. Its shared feeling can take social or artistic form without requiring a particular family event. Witte names routine but does not define it as a fault; neither summary establishes dependence on approval, inevitable harmony or a health condition. The more specific circumstances of a closing factor remain on separate [activation pages](#related-activations).
 
 ## Links
 

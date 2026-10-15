@@ -22,6 +22,8 @@ related_activations:
   - Moon/Neptune = Mars
   - Moon/Neptune = MC
   - Moon/Neptune = Mercury
+  - Moon/Neptune = Moon
+  - Moon/Neptune = Neptune
   - Moon/Neptune = Node
   - Moon/Neptune = Pluto
   - Moon/Neptune = Poseidon
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/NEPTUNE`
-- Source page: `127`
+- Source heading: `MOON + NEPTUNE`
+- PDF page (one-based): `128` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -88,11 +92,15 @@ To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `188–189`; PDF page (one-based): `93` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Interchanged frnu, woman of the future, foreign woman, foreign people, weak woman, hour of exchange, unclear customs, insecure woman, refined customs, future of a people, and poor woman
+A disappointed woman, a sensitive woman, woman of the future, foreign woman, a foreign people, weak woman, hour of disappointment, unclear feelings, insecure woman, refined feelings, future of a people, future woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `131`; PDF page (one-based): `133` (category boundaries and note 24 checked against the scan).
 
 #### Principle
 
@@ -108,11 +116,15 @@ Paralyzed blood circulation, an over-balance or an over-accumulation of water in
 
 #### Sociological Correspondence
 
-Sensitive persons, impressionable women, weak or feeble persons. Disappointed or disillusioned women. Mediums, people connected with psychical phenomena and investigations, women who tell fortunes by cards or female cartomancers. Probable Manifestation + A sympathetic understanding of other people (psychometry), the activity of the subconscious, a state of relaxation, receptiveness, impressionableness, an intensely vivid dream life. - Danger of being exposed to peculiar and strange influences or being exploited by other people. Instability, weakness and life crises are caused by laziness or indolence. 24 In the case of aspects between Moon and Neptune in a female chart, especially the conjunction, square and opposition, it has been found that there are often difficulties in the relationship with the marriage partner which were found to be due mainly to over-sensitivity, not being understood or a lack of confidence. Moon/Neptune D/V
+Sensitive persons, impressionable women, weak or feeble persons. Disappointed or disillusioned women. Mediums, people connected with psychical phenomena and investigations, women who tell fortunes by cards or female cartomancers.
 
 #### Probable Manifestations
 
-- None extracted.
++ A sympathetic understanding of other people (psychometry), the activity of the subconscious, a state of relaxation, receptiveness, impressionableness, an intensely vivid dream life. - Danger of being exposed to peculiar and strange influences or being exploited by other people. Instability, weakness and life crises are caused by laziness or indolence.
+
+#### Source Note 24
+
+In the case of aspects between Moon and Neptune in a female chart, especially the conjunction, square and opposition, it has been found that there are often difficulties in the relationship with the marriage partner which were found to be due mainly to over-sensitivity, not being understood or a lack of confidence.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -219,7 +231,7 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Neptune: Feelings of Presentiment`
-- PDF page(s): `298`
+- PDF page(s): `298–299` (complete harmony/discord passages checked against the actual PDF298–299 scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -227,17 +239,17 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - shadow: The Airy-Fairy Lady and the Ghost
 - comparison: Dream Vision Presentiment Inspiration Devotion Self-sacrifice Longing for a feeling of security Longing for vastness
 - general: Boundless feelings . Longing for deliverance , trance , and mystic experience . Fine antennas . Artistic sense .
-- harmony: The Medium. Can be easily and deeply touched on the emotional level. Finest antennas of the soul that convey knowledge about what is unspoken, unfamiliar, and the future. Great ability to be devoted to an ideal or a person, with a tendency toward exaggerated enthusiasm. Uncanny certainty in evaluating unfamiliar situations and people.
-- discord: The Escapist. Yearns for deliverance and lives in a fantasy world far from reality. Unfulfillable expectations of life and love, which— to be on the safe side—are usually not even tried out in the real world. Instead, flight into a dream world, hallucinations, intoxication, and addiction alternating with dissatisfaction, disappointment, loneliness, depression, and melancholy.
+- harmony: The Medium. Can be easily and deeply touched on the emotional level. Finest antennas of the soul that convey knowledge about what is unspoken, unfamiliar, and the future. Great ability to be devoted to an ideal or a person, with a tendency toward exaggerated enthusiasm. Uncanny certainty in evaluating unfamiliar situations and people. Insatiable hunger for love, affection, attention, loving care, and great longing to become one with another person. This is connected with the fear of being deserted and left alone. Mystic tendencies.
+- discord: The Escapist. Yearns for deliverance and lives in a fantasy world far from reality. Unfulfillable expectations of life and love, which— to be on the safe side—are usually not even tried out in the real world. Instead, flight into a dream world, hallucinations, intoxication, and addiction alternating with dissatisfaction, disappointment, loneliness, depression, and melancholy. In some cases, completely numb feelings. Great danger of being deluded, seduced, or cheated by others, as well as cheating, seducing, or deceiving others.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: highly receptive feeling, imagination, sympathy, and dreaming, with difficulty distinguishing inner longings from external impressions.
+- psychology: artistic or spiritual aspiration and empathy can become emotional confusion, idealization, withdrawal, or self-deception when feelings lose clear limits.
+- body/health: Ebertin lists circulation, water balance, and consciousness correspondences; Munkasey discusses sensitivity and fatigue. Sandbach's attribution of illness to psychic energy is his doctrine, not an established medical cause.
+- social/relationship: tenderness, devotion, and care for suffering people coexist with overidentification, martyrdom, unverified expectations of a partner, or vulnerability to exploitation.
+- events/manifestations: sleep, dreams, relaxation, seclusion, and artistic experience recur. Witte separately includes gas, air, smell, and weather changes; Munkasey extends the pair to production and misjudgment of public support.
+- conflicts/notes: subtle sensitivity does not verify a psychic impression. Carter's favorable worldly possibilities and severe aspect-conditioned judgments remain distinct. ABC's summary and Ebertin's category/note boundaries were repaired from the scans.
 
 ## Related Activations
 
@@ -252,6 +264,8 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 - [Moon/Neptune = Mars](../activations/moon-neptune-equals-mars.md)
 - [Moon/Neptune = MC](../activations/moon-neptune-equals-mc.md)
 - [Moon/Neptune = Mercury](../activations/moon-neptune-equals-mercury.md)
+- [Moon/Neptune = Moon](../activations/moon-neptune-equals-moon.md)
+- [Moon/Neptune = Neptune](../activations/moon-neptune-equals-neptune.md)
 - [Moon/Neptune = Node](../activations/moon-neptune-equals-node.md)
 - [Moon/Neptune = Pluto](../activations/moon-neptune-equals-pluto.md)
 - [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md)
@@ -265,15 +279,15 @@ Ulcers; a nervous stomach; reactions bought on by a sensitivity to drugs; sensit
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Sensitivity may support sympathy or become confused and dissatisfied. Carter's worldly ease, spiritual ambition, and gendered marital judgments are conditional historical assertions, not a guarantee of either prosperity or failed relationships.
+- Source repairs: ABC's complete bold summary was retranslated from PDF93, printed188–189. Ebertin's PDF133, printed131, confirms separate sociological and manifestation categories plus note24; the categories were restored and extraction tail removed. Witte's exact pair passage is PDF128; Munkasey's printed127 remains his separate reference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune` is the axis of porous feeling, empathy, dream, and emotional receptivity to subtle or invisible influences. It combines nurture, memory, and mood with imagination, compassion, spirituality, atmosphere, and the tendency to merge with what is felt around oneself.
-- Chart expression: sympathy, artistic or psychic sensitivity, retreat, longing, devotion, and the capacity to care for what is fragile, suffering, or hard to define. Liabilities: confusion, escapism, martyrdom, emotional diffusion, self-deception, exploitation, and security problems caused by weak boundaries or too much suggestibility.
+`Moon/Neptune` describes feeling that readily absorbs impressions and may struggle to distinguish its own response from another person's emotions. This receptivity can sustain compassion, artistic imagination, tender care, and spiritual longing; it can also blur expectations until wishes seem more certain than the situation warrants. A rich dream life, retreat from an abrasive environment, and the wish to lose oneself in music, film, or an ideal belong to the same supported range as confusion, escapism, and self-sacrifice that neglects one's own limits ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols)).
+
+The central relationship question is whether felt closeness is shared or merely assumed: devotion can coexist with uncertainty about a partner's actual response. Likewise, public sympathy may be understood sensitively or mistaken for support that is not there. Sleep, relaxation, tact, and sensitivity are explicit pair meanings; Witte's gas, air, smell, and weather references remain a separate physical vocabulary rather than an explanation of empathy. None of these themes establishes psychic accuracy, a health condition, or a necessary relationship failure, and any third factor requires its own activation evidence ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Carter](#charles-carter---the-astrological-aspects), [Munkasey, printed p. 127](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets), [Banzhaf/Haebler, PDF pp. 298–299](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
 
 ## Links
 

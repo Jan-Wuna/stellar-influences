@@ -29,6 +29,8 @@ updated_at: 2026-06-20
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Mars`
 - Astronomicon formula: `V/X = U`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -40,11 +42,15 @@ updated_at: 2026-06-20
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden betrothal. Fruit-bearing, promising deeds. Working for technological success.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
 
 Exciting legal success, success in technical work, successful legal actions, successful rhythmic activity, creating financial reform, joy over new work, joy over legal reform, sudden success of action, and difficult financial actions
 
@@ -52,11 +58,15 @@ Exciting legal success, success in technical work, successful legal actions, suc
 
 #### Ebertin Entry
 
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0799.
+
 Quick determination, desire to realize one's ideas at once, love of freedom. Desire to make one's fortune in life, speculation, making fortunate decisions (engagement).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Mars paragraph; chapter begins on p. 80.
 
 One’s own unique interests motivate one to action. Aggressive rebelliousness. To have confidence in your ability to find your own unique way of doing something. To be enthusiastically uninhibited in the display of one’s hostility.
 
@@ -67,6 +77,8 @@ One’s own unique interests motivate one to action. Aggressive rebelliousness. 
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Feverish haste to produce new or different forms of things; difficulties you surmount in producing new objects; the impatience you have with the parts of daily life which do not offer you sufficient or varied forms of excitement.
 
 ### Aren Ober - Midpoint Interpretation Simplified
@@ -76,26 +88,27 @@ Feverish haste to produce new or different forms of things; difficulties you sur
 
 #### Ober Entry
 
+- Source reference: retained one-based PDF p. 127, Jupiter/Uranus Interpretation, Mars example; paraphrase unchanged in this review.
+
 If Mars is at Jupiter/Uranus, Ober gives sudden energetic decisions or moves that become progressive at points in life.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: New possibilities prompt quick decisions and inventive action ([Ebertin Entry](#ebertin-entry)).
+- Psychology: Confidence and enthusiasm coexist with impatience, rebellion, and hostility.
+- Body/health: Munkasey's “feverish haste” is figurative activity language, not a medical finding.
+- Social/relationship: Sudden betrothal and openly expressed hostility are distinct source examples.
+- Events/manifestations: Technical work, new objects, legal action, and financial reform make the activity concrete.
+- Conflicts/notes: Sandbach's exact Mars paragraph is on PDF p. 81. Its hostility and Munkasey's impatience remain beside productive technical action; shared success language alone does not establish independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Productive decisions and hostile expression are contrasting manifestations. They do not establish that enthusiasm inevitably becomes aggression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Mars`: quick determination, speculative or inventive action, energetic rebellion against limits, and confidence in acting on unusual opportunities. Main caution: rashness: enthusiasm can become aggressiveness, overreach, or impulsive decisions made too fast.
+In `Jupiter/Uranus = Mars`, Mars gives the pair's novelty and opportunity an active form. The [Witte Entry](#witte-entry), [ABC Entry](#abc-entry), and [Ober Entry](#ober-entry) describe promising decisions or technical action; the [Ebertin Entry](#ebertin-entry) adds immediate determination and speculation. The [Munkasey Entry](#munkasey-entry) and [Sandbach Entry](#sandbach-entry) retain haste, impatience, rebellion, and hostility. The thread is energy committed quickly to an unusual aim, with productive and disruptive expressions both possible.
 
 ## Links
 

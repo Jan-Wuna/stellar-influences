@@ -20,6 +20,8 @@ updated_at: 2026-05-04
 - Astronomicon token: `§`
 - Canonical page type: comparative factor page grounded in standalone source entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -32,14 +34,23 @@ Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 
 #### ABC Keyword Entry
 
-Violence, Power, Influence, Strong, and Energy
+Violence, Power, Influence, Strength, Force, and Energy
+
+## Comparative Schema
+
+- core meaning: Exceptional strength, force, power, and energy form the shared theme. The rulebook's superlatives emphasize magnitude, while ABC also names influence. See the [Rules factor entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
+- psychology: The entries describe the strength available or exerted; they provide no distinct account of motives, emotions, or personality. See the [Witte Factor Entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
+- body/health: Strength and energy can supply bodily language, but these standalone entries name no anatomy, illness, or health outcome. See the [Witte Factor Entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
+- social/relationship: Power, might, and influence extend the theme to the capacity to affect others. Neither entry specifies a relationship type or who holds that power. See the [Witte Factor Entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
+- events/manifestations: The explicit range includes force and violence as well as strength and energy. The entries give no particular event or circumstance in which these must occur. See the [Witte Factor Entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
+- conflicts/notes: The shared keywords support a coherent theme, with violence retaining its severe meaning alongside broader power and energy. They do not establish that every use of strength is violent. See the [Rules factor entry](#witte-factor-entry) (PDF p. 29, Friedrich Sieggrün subsection) and [ABC Keyword Entry](#abc-keyword-entry) (printed p. 17; PDF p. 7).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vulcanus` is the factor of concentrated power, influence, strength, energy, and force at maximum intensity.
-- Chart expression: decisive strength, sustained pressure, overwhelming impact, and the capacity to carry or apply exceptional force.
-- Its liabilities are coercive power, violence, overpowering pressure, and strength used without proportion or restraint.
+Vulcanus describes force through its magnitude: exceptional strength, might, power, and energy. The [Rules factor entry](#witte-factor-entry) stresses the greatest or most extreme expression of that capacity, and the [ABC Keyword Entry](#abc-keyword-entry) adds influence, extending the theme to the ability to affect others.
+
+Violence is an explicit part of this range and should retain its weight beside the broader language of strength and energy. These brief entries establish the intensity of the force; its holder, purpose, and concrete manifestation require the evidence of the particular combination being read. See the [Witte Factor Entry](#witte-factor-entry) and [ABC Keyword Entry](#abc-keyword-entry).
 
 ## Related Axes
 

@@ -1,0 +1,422 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/saturn-apollon-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Admetos"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Asc"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-cupido.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Cupido"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-hades.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Hades"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Jupiter"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Kronos"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Mars"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = MC"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Mercury"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Moon"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Neptune"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Node"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-pluto.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Pluto"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Poseidon"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Sun"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Uranus"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Venus"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-vulcanus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Vulcanus"
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-zeus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Apollon = Zeus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/saturn-apollon-equals-admetos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Strengthen old knowledge, success through perseverance and patience, solidified success in old age, fundamental concentration on knowledge, trade losses through blockade, problems expansion through depression, mature knowledge through grtindlichkeit, and pain through blocked freedom",
+      "new_text": "Consolidating old knowledge, success through endurance and patience, consolidated success in old age, thorough concentration on knowledge, trade losses through blockade, expansion of problems through depression, mature knowledge through thoroughness, pain through blocked freedom.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-asc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Old knowledge of a place, extension of the environmental problems, success of the partner in old age, successful concentration on the environment, trade losses in the place, environmental success through patience, and increasing patience of the partner",
+      "new_text": "Old knowledge of a place, expansion of environmental problems, a partner's success in old age, successful concentration on the environment, local trade losses, environmental tasks of science, environmental success through patience, a partner's increasing patience.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-cupido.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Extension of common problems, success of a community through patience, successful concentration on the whole, shared freedom loss, pain experiences of a community, and synthesis of old knowledge",
+      "new_text": "Expansion of shared problems, success of a community through patience, successful concentration on the whole, shared loss of freedom, painful experiences of a community, synthesis of old knowledge.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-hades.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Old secret knowledge, patience experience in need, dangerous problems expansion, grief and pain experiences, hidden problems of science, losses due to trade crime, loss risk of freedom, and increasing losses due to criminality",
+      "new_text": "Old secret knowledge, experience of patience in need, dangerous expansion of problems, experiences of grief and pain, hidden problems of science, losses through trade crime, danger of losing freedom, increasing losses through crime.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-jupiter.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Old legal knowledge, tasks of legal science, expansion of financial problems, burdened money trading, experience advantages in old age, financial success through patience, problems of legal science, and extensive financial losses",
+      "new_text": "Old legal knowledge, tasks of legal science, expansion of financial problems, burdened money trading, advantages of experience in old age, financial success through patience, problems of legal science, extensive financial losses.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Loss of reputation leading, spread of great pain, concentration on special knowledge, acceptance of public duties, priority tasks of science, important old knowledge, and increasing state losses",
+      "new_text": "Reputation losses of leaders, spread of great pain, concentration on special knowledge, increase of state duties, priority tasks of science, important old knowledge, increasing state losses.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Editing old knowledge, broadening the problems of work, success through patient work, successful embezzlement in old age, successful concentration on work, concentrated embezzlement of knowledge, developing mature knowledge, and lossy trade work",
+      "new_text": "Working on old knowledge, expansion of work-related problems, success through patient work, successful efforts in old age, successful concentration on work, concentrated efforts toward knowledge, working toward mature knowledge, loss-making commercial work.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "£3elastendc psychic experiences, my success through patience, my success in old age, my successful concentration, my trade losses, my concentration on knowledge, my mature thoughts, my pain experiences, and loss of psychic freedom",
+      "new_text": "Burdensome inner experiences, my success through patience, my success in old age, my successful concentration, my trade losses, my concentration on knowledge, my mature thoughts, my painful experiences, loss of inner freedom.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-mercury.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Reports of old knowledge, reports of pain experiences, success through patient speech, successful concentration on thinking, problems expanding in traffic, discussing problems of science, and success between youth and age",
+      "new_text": "Reports about old knowledge, reports about painful experiences, success through patient conversations, successful concentration on thinking, expansion of problems in transport, discussing problems of science, success between youth and old age.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-moon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Old people's knowledge, tasks of science for the people, success of a woman in old age, successful patience of a single people, successful concentration of a woman, freedom loss of a people, trade problems of a people, and pain experience of a woman",
+      "new_text": "Old knowledge of a people, tasks of science for the people, a woman's success in old age, successful patience of a people, successful concentration of a woman, loss of a people's freedom, trade problems of a people, painful experiences of a woman.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Ancient mystical knowledge, expansion of air/water problems, exchangeable painexperience, success through fine tuning in old age, success through patience and sensitivity, problems of a future science, enhanced air load develop old knowledge, successful task development, and successful development through",
+      "new_text": "Old mystical knowledge, expansion of air/water problems, disappointing painful experience, success through sensitivity in old age, success through patience and sensitivity, problems of a future science, increased burdening of the air.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Extension of the problems of a connection, success in a mature connection, success through patience in a connection, successful connections in old age, serious connections to science, connection to old knowledge, and vie! strain in a connection",
+      "new_text": "Expansion of a connection's problems, success in a mature connection, success through patience in a connection, successful connections in old age, serious connections to science, connection to old knowledge, considerable strain in a connection.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-pluto.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Patience, concentrated knowledge development, growing problems of science, growing pain experience, and developing scientific tasks",
+      "new_text": "Unfolding old knowledge, successful development of tasks, successful development through patience, concentrated development of knowledge, growing problems of science, growing painful experience, developing scientific tasks.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-poseidon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Old culture knowledge, success through ideas in old age, successful concentration on truth, clarity about scientific tasks, concentrated spiritual knowledge, cultural tasks expand, mature spiritual knowledge, and loss of spiritual freedom",
+      "new_text": "Old cultural knowledge, success through ideas in old age, successful concentration on truth, clarity about scientific tasks, concentrated spiritual knowledge, expanding cultural tasks, mature spiritual knowledge, loss of spiritual freedom.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-sun.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Old knowledge center, expansion of personal problems, success of a man in old age, successful concentration on knowledge, human pain experience, personal success through patience, day with personal problems, and center for knowledge of pain",
+      "new_text": "An old center of knowledge, expansion of personal problems, a man's success in old age, successful concentration on knowledge, human painful experience, personal success through patience, a day with personal problems, a center for knowledge of pain.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-uranus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "tasks of technical science, success through patient reform, patient renewal of knowledge, concentration on new knowledge, new problems of science, sudden painful experiences, reform tasks of technology, and increase of new duties",
+      "new_text": "Tasks of technical science, success through patient reform, patient renewal of knowledge, concentration on new knowledge, new problems of science, sudden painful experiences, reform tasks of technology, increase of new duties.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-venus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Seriousness and patience in love, harmony extension in old age, harmony storage in the state, preference for old knowledge, important task of love, increasing seriousness in love, and increasing love problems",
+      "new_text": "Seriousness and patience in love, expansion of harmony in old age, great grief in love, disturbances of harmony in the state, preference for old knowledge, an important task of love, increasing seriousness in love, increasing love problems.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-vernal-point.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 362
+      },
+      "old_text": "Old knowledge in public, tasks of public trade, expansion of public problems, success in public through patience, freedom loss in public life, public success in old age, and public trade losses",
+      "new_text": "Old knowledge in public, tasks of public trade, expansion of public problems, public success through patience, loss of freedom in public life, public successes in old age, public trade losses.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-vulcanus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "influence of old knowledge, successful power of concentration, enormous tasks of science, losses of power in trade, powerful success through patience, experience painful force, strong experiences of pain, and disturbing expansion of force",
+      "new_text": "Influence of old knowledge, successful power of concentration, enormous scientific tasks, losses of power in trade, mighty success through patience, experiencing painful violence, strong painful experiences, disturbing expansion of violence.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-zeus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 180,
+        "printed_page": 363
+      },
+      "old_text": "Success through persevering achievements, success through patient guidance, scientific leadership, concentration on leadership knowledge, problems through fire expansion, extensive performance losses, and increasing seriousness in leadership",
+      "new_text": "Success through sustained performance, success through patient leadership, leadership duty of science, concentration on leadership knowledge, problems through expansion of fire, extensive losses of performance, increasing seriousness in leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p180.png",
+      "inspection": "Visually read exact glyph row and adjacent paragraphs; Neptune tail correctly ends before Pluto glyph; Pluto opening restored."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-hades.md",
+      "source_slug": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+      "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "locator": {
+        "pdf_page": 228
+      },
+      "old_text": "Method tn historical research. Odd or bad method. Obsolete system. Separation of many by ugly and vile means.",
+      "new_text": "Method in historical research. Odd or bad method. Obsolete system. Separation of many by ugly and vile means.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-witte-p228.png",
+      "inspection": "Entire row and page ending inspected; tn corrected to in / spurious ^^^ removed from complete final Poseidon row."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-poseidon.md",
+      "source_slug": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+      "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "locator": {
+        "pdf_page": 228
+      },
+      "old_text": "Instructional or educational method. To be educational through instruction. To be the educator or the student. ^^^",
+      "new_text": "Instructional or educational method. To be educational through instruction. To be the educator or the student.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-witte-p228.png",
+      "inspection": "Entire row and page ending inspected; tn corrected to in / spurious ^^^ removed from complete final Poseidon row."
+    },
+    {
+      "path": "wiki/activations/saturn-apollon-equals-uranus.md",
+      "source_slug": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+      "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "locator": {
+        "pdf_page": 228
+      },
+      "old_text": "<?> The own original method. Breaking new ground. To isolate oneself. Astrological method. Sudden separation of many.",
+      "new_text": "The own original method. Breaking new ground. To isolate oneself. Astrological method. Sudden separation of many.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-witte-p228.png",
+      "inspection": "Second variant Uranus glyph removed from prose; full glyph-owned sentence unchanged."
+    }
+  ]
+}

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Venus MC Apollon](../triads/venus-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Personal advantages through many friends. Scientists in the field of peace, reli
 
 Success through soul harmony, successful soul peace, my success through harmony, my success in love, my artistic success, my peace experiences, experiencing psychic affection, and increasing psychic harmony
 
+## Comparative Schema
+
+- **Core meaning:** Success associated with friendship, affection, and harmony.
+- **Psychology:** Inner peace and increasing harmony are explicit.
+- **Body/health:** The entries establish no specific bodily or medical meaning.
+- **Social/relationship:** Many friends, affection, and success in love are named.
+- **Events/manifestations:** Artistic success and inquiry into peace, religion, or the arts are represented.
+- **Conflicts/notes:** The favorable source language describes possibilities, not assured success or universal benevolence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Venus` softens the axis through friendship, peace, religion, and the arts.
-- Chart expression: personal advantage through many allies, and to a broad, successful life expression rooted in harmony, culture, beauty, or humane learning.
+Venus specifies `MC/Apollon` through harmony that supports friendship, love, and achievement. Personal advantages through many friends join artistic success and experiences of peace; Witte also places scientific inquiry in peace, religion, or the arts, keeping the social and intellectual expressions connected. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

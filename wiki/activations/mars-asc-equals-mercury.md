@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mercury Mars Asc](../triads/mercury-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,23 @@ Highlights your need to verbalize your feelings about life or events which occur
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [Sandbach Entry](#sandbach-entry), PDF p. 75 (chapter start only); [Munkasey Entry](#munkasey-entry), printed p. 248 (entry page); [Ebertin Entry](#ebertin-entry), printed p. 220 (coded entry, code 0761); [ABC Entry](#abc-entry), printed p. 110 (entry).
+
+- Core meaning: Activity with others is expressed through replies, discussion, and reporting.
+- Psychology: Feelings and attitudes seek verbal expression; the tone may stimulate or intimidate.
+- Body/health: The entries concern communication rather than a bodily condition.
+- Social/relationship: Arguments, written replies, youth work, and conversations with a partner are explicit.
+- Events/manifestations: Disputes, local news, and reports on nearby work are named.
+- Conflicts/notes: Stimulating and hostile communication are conditional expressions, not a contradiction; Sandbach's locator is only the chapter start.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis; the different manifestations do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Mercury`: verbal courage, stimulating discussion, rapid response, and the ability to cut to the point when action is needed. Main caution: needless conflict: sharpness easily becomes quarrels, hostile tone, or communication that provokes more than it clarifies.
+Mercury specifies the Mars/Asc axis through words that actively engage others. Replies and disputes in [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) join work discussions and local reporting in [ABC Entry](#abc-entry). The same energetic communication can be stimulating or intimidating ([Sandbach Entry](#sandbach-entry)); [Munkasey Entry](#munkasey-entry) adds the need to express feelings and understand interacting attitudes. The central issue is how an active response is communicated and received.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Jupiter`
 - Astronomicon formula: `R/Y = V`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 A woman made happy by sensitiveness. Undisturbed night rest. Sleep well. Pleasant dreams.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `188`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-success by alien people, successful woman in metaphysics, financial weakness of a people, joy of a woman in the water, legal uncertainty of the woman, refined legal filial, and future advantages for a people
+Disappointed sense of justice, success through foreign peoples, a successful woman in metaphysics, financial weakness of a people, a woman's joy in water, a woman's legal uncertainty, a refined sense of justice, and future advantages for a people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `132`, entry `0403`.
 
 #### Ebertin Entry
 
 Abundant powers of imagination, fantasy, good understanding of others through a sympathetic and compassionate attitude, far-reaching wishes. Artistic successes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `35` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Enhanced ability to read people’s motives and put these into a political conte
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: imagination and sympathetic understanding, with both pleasure and emotional excess ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: fantasy, far-reaching wishes, compassion, and enjoyment of subtle feelings coexist with chaotic overwhelm.
+- body/health: Witte names restful sleep; Munkasey historically associates an increased need for stimulants or drugs, without establishing a medical need.
+- social/relationship: understanding others, encouraging their feelings, and political interpretation of motives are examples.
+- events/manifestations: pleasant dreams, artistic success, metaphysical success, and future collective advantages are named.
+- conflicts/notes: ABC retains financial weakness and legal uncertainty alongside success; the formula does not promise protection.
 
 ## Contradictions
 
-- None recorded yet.
+Pleasant dreams and sympathetic understanding coexist with emotional overwhelm and Munkasey's stimulant or drug association. These are different possibilities rather than a single uniformly favorable account; ABC also retains financial and legal difficulties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Jupiter`: soulful benevolence, imaginative protection, and emotional meaning found through empathy and trust. Main caution: diffuse optimism: care and belief can become unrealistic, escapist, or too willing to overlook hard limits.
+In Moon/Neptune = Jupiter, Jupiter specifies the pair through abundant imagination and sympathetic engagement with feelings. [Ebertin](#ebertin-entry) connects fantasy and compassionate understanding with artistic success; [Sandbach](#sandbach-entry) describes relishing emotional subtlety and encouraging others to experience it. The [Witte entry](#witte-entry) gives pleasant dreams and undisturbed rest.
+
+This openness also has limits in the entries. Sandbach includes chaotic emotional overwhelm, while [Munkasey](#munkasey-entry) adds expanded dreaming and a historical association with stimulants or drugs (p. 128). [ABC](#abc-entry) preserves success and future advantages beside financial weakness and legal uncertainty (printed p. 188, PDF p. 93). The formula's range therefore includes benefit and difficulty rather than assured protection.
 
 ## Links
 

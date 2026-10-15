@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Zeus`
 - Astronomicon formula: `VP/Asc = £`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ The sense of direction. Places with military establishments. Places of manufactu
 
 Others are determined in the environment, fire in one place of the public, shaping a public place, public environmental goals, partner services in the public, and environmental efforts for the public
 
+## Comparative Schema
+
+- Core meaning: Directed effort and purpose in public surroundings.
+- Psychology: Determination and a sense of direction.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Partner achievements and comradeship in war.
+- Events/manifestations: Shaping public places, public goals, fire, military establishments, and firearms manufacture.
+- Conflicts/notes: Military settings and fire are specific examples, not requirements for every shared effort.
+
+## Contradictions
+
+No direct conflict appears; the ABC broadens purposeful public activity beyond the Witte military examples.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Zeus`: the sense of direction, places with military establishments, places of manufacturing firearms, and comradeship in war.
-- Practical expression: others are determined in the environment, fire in one place of the public, shaping a public place, public environmental goals, and partner services in the public.
+Zeus specifies `Vernal Point/Asc` through directed activity in public surroundings: people pursuing goals, shaping a public place, or contributing achievements and effort. The Witte entry supplies military establishments, firearms manufacture, and wartime comradeship as concrete expressions; the ABC also names public fire without making it the outcome of every purposeful activity. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 21 / PDF p. 9.)
 
 ## Links
 

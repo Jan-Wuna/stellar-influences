@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Jupiter`
 - Astronomicon formula: `Y/g = V`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 To suffer money losses through common interests. False speculations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Autlosung of a financial connection, successful connection to metaphysics, joy over subtle connection, happiness through fine tuning of a connection, problematic future connection, unclear legal connection, and uncertainty through money transmission
+Dissolution of a financial connection, successful connection to metaphysics, joy over a subtle-material connection, happiness through sensitivity in a connection, problematic future connection, unclear legal connection, and uncertainty through money intermediation
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1016`.
 
 #### Ebertin Entry
 
 Desire to exploit others or the misfortune to lay oneself open to exploitation by others. Placing great hopes upon an association or partnership, experiencing disappointment or disadvantages through others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ An enthusiasm for sharing one’s ideals with others. To understand and be able 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Aspirations and yearnings to expand your thoughts and beliefs about what life is
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: hopes and meaning invested in associations, with disappointment or financial uncertainty among the possibilities.
+- psychology: enthusiasm for sharing ideals, inner exploration, and great hopes for partnerships are explicit.
+- body/health: subtle-material connection is source language without a medical mechanism.
+- social/relationship: exploiting or being exploited contrasts with learning from hidden connections and shared ideals.
+- events/manifestations: loss through common interests, false speculation, unclear legal ties, and money intermediation are named.
+- conflicts/notes: the entries do not establish universal generosity or gullibility; metaphysical questions remain attributed interests.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize losses, exploitation, and disappointed hopes. Sandbach allows learning and shared ideals while retaining proliferating confusion; Munkasey emphasizes inner exploration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Jupiter`: uplifting communities, generous sympathy, and relationships that open the heart toward collective meaning. Main caution: naive alliance: groups and promises can become inflated, gullible, or quietly deceptive.
+In Neptune/Node = Jupiter, association can carry enlarged hopes, shared ideals, or a search for meaning. [Sandbach](#sandbach-entry) includes enthusiasm and learning from subtle connections, but also confusion that spreads; [Munkasey](#munkasey-entry) emphasizes exploration of beliefs and life goals. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) preserve financial loss, exploitation, and disappointment through others; [ABC](#abc-entry) places happiness through sensitivity beside financial and legal uncertainty. Hope in an association therefore remains distinct from its reliability.
 
 ## Links
 

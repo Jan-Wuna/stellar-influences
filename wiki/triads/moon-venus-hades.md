@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Hades`
 - Astronomicon triad-set: `R Q ¢`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
+
+[Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Hades = Venus](../activations/moon-hades-equals-venus.md)
-- [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md)
-- [Venus/Hades = Moon](../activations/venus-hades-equals-moon.md)
+- [Moon/Hades = Venus](../activations/moon-hades-equals-venus.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Venus](../factors/venus.md).
+- [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Hades](../factors/hades.md).
+- [Venus/Hades = Moon](../activations/venus-hades-equals-moon.md): base axis [Venus/Hades](../axes/venus-hades.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `194`
-- `Moon/Venus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Venus/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
-- `Venus/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `284`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Hades = Venus](../activations/moon-hades-equals-venus.md#witte-entry) (PDF entry-start p. 131); [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md#witte-entry) (PDF entry-start p. 123); [Venus/Hades = Moon](../activations/venus-hades-equals-moon.md#witte-entry) (PDF entry-start p. 183).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Hades = Venus](../activations/moon-hades-equals-venus.md#abc-entry) (printed p. 194); [Moon/Venus = Hades](../activations/moon-venus-equals-hades.md#abc-entry) (printed p. 179); [Venus/Hades = Moon](../activations/venus-hades-equals-moon.md#abc-entry) (printed p. 284).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Venus`: A loving poor woman. Street-walker. Venal love. Worries caused by love.
-- `Moon/Venus = Hades`: This activation degrades `Moon/Venus` into maternal abandonment, reproductive loss, and painful rupture in the field of care and affection. It shows love and fertility meeting sorrow, deprivation, or traumatic severance.
-- `Venus/Hades = Moon`: submissive persons.
+Moon, Venus and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Hades](../axes/moon-hades.md)
+- [Moon/Venus](../axes/moon-venus.md)
+- [Venus/Hades](../axes/venus-hades.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Hades](../factors/hades.md)

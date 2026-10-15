@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Jupiter Asc](../triads/mars-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ To be forced by others into one’s own good fortune. To become engaged or betro
 
 #### ABC Entry
 
-Work outcomes for the environment, successful actions in the environment, finance for the environmentWork, joy at work for the environment, joyful impulses from the partner, Glick's impulses in the environment, working with the money of others, and legal actions for the environment
+Work outcomes for the environment, successful actions in the environment, finances for work in the surroundings, joy at work for the environment, joyful impulses from the partner, fortunate impulses in the surroundings, working with the money of others, and legal actions for the environment
+
+- Source reference: printed p. 110 (PDF p. 54), Ascendant + Mars, Jupiter row; English checked against the scanned German.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Harmonious teamwork or cooperation, ability to lead others, good organizer, agre
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 Enthusiasm expressed with assertiveness. Confidence in one’s ability to get things done. A forceful identity may be expressed with so much energy that it over whelms other people
 
@@ -70,22 +76,23 @@ Increased emphasis for developing the metaphysical or religious from your activi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [Sandbach Entry](#sandbach-entry), PDF p. 76 (complete entry); [Munkasey Entry](#munkasey-entry), printed p. 248 (entry page); [Ebertin Entry](#ebertin-entry), printed p. 220 (coded entry, code 0763); [ABC Entry](#abc-entry), printed p. 110 (entry).
+
+- Core meaning: Energetic engagement with others can support shared aims, leadership, and advantage.
+- Psychology: Enthusiasm and confidence may become overpowering; Munkasey also names religious or metaphysical interests.
+- Body/health: These entries describe energy and cooperation without a distinct bodily condition.
+- Social/relationship: Teamwork, organization, benefits through others, engagement, and marriage are explicit.
+- Events/manifestations: Joint objectives, handling others' money, noisy surroundings, and exaggerated loud talk are named.
+- Conflicts/notes: The scanned Jupiter row verifies finances for work in the surroundings and fortunate impulses, repairing the two corrupt English phrases. Sandbach's complete entry is verified on PDF p. 76.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis; conditional excess and different manifestations do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Jupiter`: enthusiastic self-assertion, organizing ability, profitable cooperation, and relationships or partnerships strengthened by shared effort and bold initiative. Main caution: excess force: confidence can become overpowering or too blunt for the people one is trying to lead.
+Jupiter specifies the Mars/Asc axis as confident activity that can organize others around a shared objective. Cooperation and advantages through others join engagement or marriage as concrete examples in [Ebertin Entry](#ebertin-entry) and [Witte Entry](#witte-entry). Enthusiasm can also overwhelm people ([Sandbach Entry](#sandbach-entry)); [Munkasey Entry](#munkasey-entry) adds loud expression and an interest in religious, metaphysical, or social understanding. Effective initiative therefore includes the question of how one's energy reaches the people involved.
 
 ## Links
 

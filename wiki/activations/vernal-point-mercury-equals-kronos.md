@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Kronos](../triads/vernal-point-mercury-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 High-minded and noble way of thinking. The government in public opinion. International legal discussions or decrees.
 
@@ -42,13 +46,27 @@ High-minded and noble way of thinking. The government in public opinion. Interna
 
 #### ABC Entry
 
-View of youth in public, Talk about the state in public, Media dominance in public Life, Public News of the state, and Important opinions in public
+- Source page: 29; PDF page: 13 (one-based spread).
+
+The reputation of youth in public, conversations about the state in public, media dominance in public life, public news from the state, and important public opinions
+
+## Comparative Schema
+
+- core meaning: Public thought and communication involving authority, state affairs, and standing.
+- psychology: Witte describes high-minded or noble thinking.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Government in public opinion and youth's reputation.
+- events/manifestations: International legal discussions, decrees, state news, and media dominance.
+- conflicts/notes: Noble thinking is an evaluative source ideal, not a guarantee of official conduct.
+
+## Contradictions
+
+No direct contradiction is established. Elevated thought and media dominance are different descriptions; influence alone does not establish intellectual merit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Kronos`: high-minded and noble way of thinking, the government in public opinion, and international legal discussions or decrees.
-- Practical expression: view of youth in public, talk about the state in public, media dominance in public Life, public News of the state, and important opinions in public.
+In `Vernal Point/Mercury = Kronos`, public thinking is directed toward authority and matters of consequence. The [Witte entry](#witte-entry) names government in public opinion, international legal discussion, and an ideal of noble thinking. The restored [ABC entry](#abc-entry) adds state conversations and news, media dominance, and youth's reputation. The connected theme is communication that carries institutional standing or public weight.
 
 ## Links
 

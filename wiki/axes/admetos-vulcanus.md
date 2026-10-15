@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¦/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `311` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Buffets of fate. To be tempered. Mighty hindrance. Compression. Forming of block
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `474`; PDF page: `236` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Blocked Power, Depression Influence, End of Power, Energy Limitation, Forcible Drifting, Powerful Resistance, Force Strengthening, Ur Force, Condensation of Energy, and Resistance to Violence
+German pair summary (transcribed from printed page `474`; PDF page `236`):
+
+> Blockierte Macht, Depressions-Einfluß, Ende der Macht, Energie-Einschränkung, Energie und Ausdauer, gewaltsame Unterdrückung, kraftvoller Widerstand, Macht-Festigung, Ur-Kraft, Verdichtung von Energie, Widerstand gegen Gewalt
+
+Editorial translation from the German passage: Blocked power; depressive influence; the end of power; energy restriction; energy and endurance; forcible suppression; powerful resistance; consolidation of power; primordial force; condensation of energy; resistance to violence.
+
+## Comparative Schema
+
+- Core meaning: Compressed or obstructed force unites mighty hindrance, heavy loads, blocked power, and energy limitation in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Being tempered and confronting resistance are explicit images; a fuller personality account is not supplied.
+- Body/health: Congestion and heaviness occur in the [Pair Summary](#pair-summary), but without a specified bodily site or medical diagnosis. ABC's depressive influence is a source keyword, not a diagnosis.
+- Social/relationship: Powerful resistance and resistance to violence are explicit in the [ABC Pair Summary](#abc-pair-summary); the entries do not establish a particular relationship arrangement.
+- Events/manifestations: Hardening, stoppage, jamming, compression, blocks or boulders, ballast, and heavy weight give concrete forms to the [Pair Summary](#pair-summary).
+- Conflicts/notes: Power can be limited, consolidated or resisted. ABC also explicitly names energy and endurance; its primordial force has no defined physical mechanism.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Blocked Power, Depression Influence, End of Power, Energy Limitation, Forcible D
 - [Admetos/Vulcanus = Vernal Point](../activations/admetos-vulcanus-equals-vernal-point.md)
 - [Admetos/Vulcanus = Zeus](../activations/admetos-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Blocked power, consolidation and powerful resistance describe different positions within the pressure theme. Energy and endurance coexist with restriction and forcible suppression; the source does not state which must prevail.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus` is the axis of compressed force, mighty hindrance, hardening, ballast, and the heavy pressures that test endurance under fate-like load. It combines Admetos's standstill, narrowing, and density with Vulcanus's mass, force, pressure, and irresistible impact.
-- Chart expression: great resistance, prolonged strain, hardened conditions, congestion, severe trials, and the power to endure or impose massive pressure without yielding. Liabilities: crushing heaviness, harsh treatment, inflexibility, jamming, oppression, and circumstances so burdened that motion, warmth, or relief become difficult to sustain.
+`Admetos/Vulcanus` describes force under compression or obstruction. The weight of a load, a stoppage, and the hardening or jamming of material give concrete form to the broader experience of mighty hindrance and being tempered by difficult conditions in the [Pair Summary](#pair-summary). The [ABC Pair Summary](#abc-pair-summary) extends this theme to blocked power, limited energy, and powerful resistance, including resistance to violence. The common thread is the encounter between force and what contains or opposes it; the entries do not promise that either side will prevail.
 
 ## Links
 

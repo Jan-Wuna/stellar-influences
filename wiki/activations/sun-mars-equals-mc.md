@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars MC](../triads/sun-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -51,11 +53,21 @@ a man acting from the inner being, soulful human actions, my workday, my work wi
 
 #### Ebertin Entry
 
-Tendency to do one's work for the love of it, tendency to accept responsibility gladly, demonstration of a masculine character, attainment of success in life, the character of a fighter. In a female nativity the meaning implied is: "Union with the husband"; also "marriage." 6 The author has several times found that under certain conditions that the combination Sun/Mars a Pluto can be considered as an "atom formula" as this combination has not only been found several times in the cases of atomic physicists and rocket specialists but it has also been found present at the launching of rockets, earth satellites and space craft.
+Source locator: printed page 88 / PDF page 90, code 0229 (MC).
+
+Tendency to do one's work for the love of it, tendency to accept responsibility gladly, demonstration of a masculine character, attainment of success in life, the character of a fighter. In a female nativity the meaning implied is: "Union with the husband"; also "marriage."
+
+#### Contextual Source Footnote 6
+
+Source locator: printed page 88 / PDF page 90. The footnote marker belongs to Pluto, code 0226, rather than MC, code 0229. Retained here as source context.
+
+The author has several times found that under certain conditions that the combination Sun/Mars a Pluto can be considered as an "atom formula" as this combination has not only been found several times in the cases of atomic physicists and rocket specialists but it has also been found present at the launching of rockets, earth satellites and space craft.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 12, complete Midheaven entry. The supplied edition prints “pubic way”; wording retained as printed.
 
 Working hard to attain one’s goals. Security which comes from working hard to attain long-range goals. To be a leader in one’s career. One builds a reputation for being a hard worker or leader. To argue about what is important in a pubic way.
 
@@ -70,22 +82,21 @@ The encouragement you receive due to physical or sports performances; the reputa
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Hard work and initiative identified with personal goals.
+- psychology: Responsibility, commitment, and security through sustained effort.
+- body/health: Physical performance appears in Munkasey, without diagnosis.
+- social/relationship: Leadership and a reputation for determined work.
+- events/manifestations: Career achievement and recognition for competition.
+- conflicts/notes: Ebertin’s appended Pluto footnote belongs to another orientation.
 
 ## Contradictions
 
-- None recorded yet.
+The work and leadership themes are compatible. Ebertin’s historical gendered marriage claim remains attributed. Its separately labeled “atom formula” footnote belongs to Pluto, code 0226. Sandbach actually prints “pubic way” on PDF page 12; the intended final wording remains uncertain and neither passage adds MC doctrine.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = MC`: responsibility embraced with vigor, career drive, and a public style marked by initiative and stamina. Main caution: making conflict part of the mission: work and public role can become too argumentative, combative, or exhausting.
+In `Sun/Mars = MC`, MC specifies Sun/Mars activity through one’s own goals, responsibility, and reputation. The [Ebertin Entry](#ebertin-entry) emphasizes loving the work and accepting responsibility, while the [Sandbach Entry](#sandbach-entry) connects long-range effort with security and a reputation for leadership. The [Munkasey Entry](#munkasey-entry) makes recognition as a determined competitor a concrete example. The throughline is a personal direction built through sustained work; the unrelated Pluto footnote does not enlarge this formula’s meaning.
 
 ## Links
 

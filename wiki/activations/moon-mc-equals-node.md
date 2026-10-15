@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Node`
 - Astronomicon formula: `R/MC = g`
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Node row under Meridian + Moon checked.
+
 #### Witte Entry
 
 Forming soul unions. Connections that influence the mind. Personal bonding with the public or with women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 64; one-based PDF p. 31, complete eight-clause Node row checked.
+
 #### ABC Entry
 
-Encounter with the soul of a people, relationship with my wife, I flee connected, fleeting soul connection, psychic contacts with women, connection with the female psyche, connected with my people, and meeting with my wife
+Editorial translation checked against the German scan: Encounter with the soul of a people; relationship with my wife; I feel connected; an emotional soul-connection; inner emotional contacts with women; connection with the feminine psyche; connected with my people; meeting with my wife.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 144; one-based PDF p. 146, coded entry `0456`, complete entry checked.
 
 #### Ebertin Entry
 
 Adaptable, sympathetic understanding of other people. Soul affinity, spiritual relationship to the female sex.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 41, complete Node paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Emotional security comes through connecting with others, but one needs to connec
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Nod` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Encountering people other than biological mother who fill your maternal roles; y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal emotional bonds, affinity and sympathetic connection. [Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry).
+- psychology: Emotional security depends on the quality of connection in Sandbach's account; sympathetic understanding is also stated. [Sandbach](#sandbach-entry); [Ebertin](#ebertin-entry).
+- body/health: Sandbach's language about neurotic or dysfunctional patterns is attributed and does not establish a diagnosis. [Sandbach](#sandbach-entry).
+- social/relationship: Bonds with a partner, a people, women and people providing maternal guidance are represented. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Meeting a wife, finding supportive relationships and groups helping overcome maternal dependencies are source examples. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Connection can nurture feeling or reinforce difficult patterns; belonging alone is not presented as sufficient.
 
 ## Contradictions
 
-- None recorded yet.
+The shared theme is emotional affinity and bonding. Sandbach qualifies this through the quality of a connection, while Munkasey includes groups that help overcome dependency. These qualifications do not support treating every bond as dependence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Node`: communal vocation, networked caring, and public roles rooted in empathy, kinship, or responsiveness to collective need. Main caution: dependence on belonging: direction can become too contingent on group feeling or social reassurance.
+In `Moon/MC = Node`, personal emotional life is expressed through affinity, understanding and connection. The [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) entries range from a partner bond to sympathetic relations with others or a people. The [Sandbach entry](#sandbach-entry) distinguishes relationships that nurture feeling from those that reinforce difficult patterns. The [Munkasey entry](#munkasey-entry) adds maternal guidance from people outside the biological-mother relationship and groups that help loosen dependency. The emphasis is on emotionally supportive connection and its quality, without prescribing a communal vocation.
 
 ## Links
 

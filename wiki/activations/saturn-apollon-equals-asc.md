@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Asc`
 - Astronomicon formula: `W/¥ = Asc`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Others separate from a community. To be separated from many.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old knowledge of a place, extension of the environmental problems, success of the partner in old age, successful concentration on the environment, trade losses in the place, environmental success through patience, and increasing patience of the partner
+- Source page: 362 (printed); PDF page: 180.
+
+Old knowledge of a place, expansion of environmental problems, a partner's success in old age, successful concentration on the environment, local trade losses, environmental tasks of science, environmental success through patience, a partner's increasing patience.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Separation from many and patient attention to local or relational problems.
+- Psychology: Concentration on surroundings and increasing patience of a partner.
+- Body/health: No specific medical correspondence is supplied in these entries.
+- Social/relationship: Others leave a community; a partner may find success through patience.
+- Events/manifestations: Local trade losses, environmental scientific tasks, and expanding environmental problems.
+- Conflicts/notes: Witte's separation and ABC's patient success are different possibilities within the same setting.
+
+## Contradictions
+
+Witte's separation and ABC's patient success are different possibilities within the same setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Asc`: others separate from a community, to be separated from many.
-- Practical expression: old knowledge of a place, extension of the environmental problems, success of the partner in old age, successful concentration on the environment, and trade losses in the place.
+In `Saturn/Apollon = Asc`, Asc specifies the pair through other people and the surroundings. The [Witte entry](#witte-entry) describes separation from a community or from many people; the [ABC entry](#abc-entry) adds local knowledge, environmental problems, and patience or success involving a partner. Separation remains explicit alongside concentration and patient work within the environment.
 
 ## Links
 

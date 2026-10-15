@@ -20,6 +20,7 @@ related_activations:
   - Venus/MC = Jupiter
   - Venus/MC = Kronos
   - Venus/MC = Mars
+  - Venus/MC = MC
   - Venus/MC = Mercury
   - Venus/MC = Moon
   - Venus/MC = Neptune
@@ -29,6 +30,7 @@ related_activations:
   - Venus/MC = Saturn
   - Venus/MC = Sun
   - Venus/MC = Uranus
+  - Venus/MC = Venus
   - Venus/MC = Vernal Point
   - Venus/MC = Vulcanus
   - Venus/MC = Zeus
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Q/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/MIDHEAVEN`
-- Source page: `219`
+- Source heading: `MERIDIAN + VENUS`
+- PDF page: 63.
 
 #### Pair Summary
 
@@ -86,11 +90,17 @@ One’s own personal affections. Love sentiments. One’s wishes and hopes. One�
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Printed pages: `70-71`; PDF page: `34` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Stirred kiss, inner peace, my wife, my joy, my kiss, my love, my affection, beauty of the soul, soul peace, and soul harmony
+Soulful art, inner peace, my wife, my joy, my art, my love, my mother, my wishes, my affection, beauty of the soul, peace of the soul, and harmony of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 198; PDF page: 200.
 
 #### Principle
 
@@ -110,9 +120,11 @@ The loving human being, the artist.
 
 #### Probable Manifestations
 
-+ The experience of a deep and warm-hearted attachment, the stage of falling in love. - The loss of other people's sympathy through the demonstration of self-admiration and vanity. Venus/Medium Coeli 9/M
++ The experience of a deep and warm-hearted attachment, the stage of falling in love. - The loss of other people's sympathy through the demonstration of self-admiration and vanity.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: 66 (Principle and Process).
 
 #### Principle
 
@@ -123,6 +135,8 @@ To spread love and beauty to the world, and to help others to appreciate the spi
 To experience love as a guiding force, and to be open to the love which comes from higher forces, angels, and the universe at large.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 207.
 
 #### Pair Delineation
 
@@ -172,12 +186,12 @@ An inability to develop an appreciation for what others do for you; your ability
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: One's own affections, enjoyment of beauty and inner harmony, extended in some entries to artistic work and professional recognition ([pair summary](#pair-summary), [Hand](#pair-delineation), [aspect keywords](#banzhafhaebler-aspect-keywords)).
+- psychology: Warm attachment, benevolence and self-worth coexist with self-admiration, vanity and jealousy ([psychological correspondence](#psychological-correspondence), [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin lists the pituitary and related brain structures; Munkasey lists genetic blood disorders alongside emotional appreciation. These remain distinct historical correspondences ([biological correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Giving and receiving love, parental care and affection's place in one's goals; material gifts can be confused with appreciation ([Sandbach's Process](#process), [relationships](#in-your-relationships)).
+- events/manifestations: Falling in love, artistic vocation, recognition through charm and the use of art to enhance an enterprise's image ([probable manifestations](#probable-manifestations), [aspect keywords](#banzhafhaebler-aspect-keywords), [politics/business](#in-politics-or-business)).
+- conflicts/notes: Personal affection and inner peace are a broad base; career and public image are additional emphases in particular entries. Banzhaf/Haebler's harmony/discord conditions distinguish professional recognition from conflict between love and work.
 
 ## Related Activations
 
@@ -190,6 +204,7 @@ An inability to develop an appreciation for what others do for you; your ability
 - [Venus/MC = Jupiter](../activations/venus-mc-equals-jupiter.md)
 - [Venus/MC = Kronos](../activations/venus-mc-equals-kronos.md)
 - [Venus/MC = Mars](../activations/venus-mc-equals-mars.md)
+- [Venus/MC = MC](../activations/venus-mc-equals-mc.md)
 - [Venus/MC = Mercury](../activations/venus-mc-equals-mercury.md)
 - [Venus/MC = Moon](../activations/venus-mc-equals-moon.md)
 - [Venus/MC = Neptune](../activations/venus-mc-equals-neptune.md)
@@ -199,21 +214,21 @@ An inability to develop an appreciation for what others do for you; your ability
 - [Venus/MC = Saturn](../activations/venus-mc-equals-saturn.md)
 - [Venus/MC = Sun](../activations/venus-mc-equals-sun.md)
 - [Venus/MC = Uranus](../activations/venus-mc-equals-uranus.md)
+- [Venus/MC = Venus](../activations/venus-mc-equals-venus.md)
 - [Venus/MC = Vernal Point](../activations/venus-mc-equals-vernal-point.md)
 - [Venus/MC = Vulcanus](../activations/venus-mc-equals-vulcanus.md)
 - [Venus/MC = Zeus](../activations/venus-mc-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The emphasis on one's inner affections is broader than the professional emphasis of Sandbach, Munkasey and Banzhaf/Haebler. Their career claims add a setting; the entries do not reduce individual love to public approval or professional success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC` is the axis of affectionate life direction, creative vocation, and public identity shaped by love, beauty, peace, and appreciation. It combines harmony, attraction, artistry, and value with purpose, status, self-worth, and the way one wishes to be known.
-- Chart expression: a gracious or artistic calling, the desire to spread beauty or kindness, and a life path guided by relationship, aesthetics, and the search for inner and outer harmony. Liabilities: self-admiration, jealousy, superficial refinement, and the tendency to confuse real worth with admiration, gifts, or image.
+`Venus/MC` brings attention to one's own affections: what attracts, gives pleasure and produces a sense of inner harmony. Warm attachment and love of beauty can become personal creativity, while learning to give and receive love contributes to self-worth. The pair's artistic range includes the wish to spread beauty and a possible career in the arts ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary), [Hand](#pair-delineation)). Sandbach also names loving or selfish parental behavior and describes love as a guiding force, with openness to love from higher forces ([Principle](#principle-1), [Process](#process)).
+
+Recognition can support that sense of worth, but admiration, material gifts and appreciation can become confused. Professional life may offer a setting for charm and artistic ability or compete with the needs of a relationship. Vanity and self-admiration can then cost sympathy, even where the original wish was for affection and peace ([Basic Ideas](#basic-ideas), [relationships](#in-your-relationships), [probable manifestations](#probable-manifestations), [aspect keywords](#banzhafhaebler-aspect-keywords)). Munkasey's [public sphere](#in-politics-or-business) adds resources devoted to goals, art used to enhance an enterprise and the contrary possibility of superficial or wasteful display. These alternatives establish no guaranteed vocation, recognition, bodily or relationship outcome; each closing factor requires its own oriented activation.
 
 ## Links
 

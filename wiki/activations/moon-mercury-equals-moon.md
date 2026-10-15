@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Moon`
 - Astronomicon formula: `R/T = R`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -41,22 +43,21 @@ Instinctively examining and thinking about your emotional states; uncertainty ab
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: examining emotional states and trying to put them into words ([Munkasey](#munkasey-entry)).
+- psychology: instinctive reflection can coexist with uncertainty about what one feels or how to describe it.
+- body/health: no specific bodily or health condition is stated.
+- social/relationship: family discussion is an explicit social setting.
+- events/manifestations: family history discussed through facts, data, and information is a named expression.
+- conflicts/notes: the entry supports inquiry and uncertainty, not a claim that instinctive examination always produces clarity.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present. Examining feelings and feeling uncertain about them are compatible stages of inquiry; the page does not provide a comparison between sources.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Moon`: Instinctively examining and thinking about one's emotional states; uncertainty about one's feelings and how to verbalize or examine them; family discussions on history, with facts, data, or information.
+In Moon/Mercury = Moon, Moon specifies the Moon/Mercury pair through instinctive attention to one's own emotional states. The [Munkasey entry](#munkasey-entry) keeps uncertainty within that process: feelings may be examined without yet knowing how to name or understand them. Family history discussed through facts and information is its concrete social example (p. 106). Reflection is supported here; a guaranteed resolution of emotional uncertainty is not.
 
 ## Links
 

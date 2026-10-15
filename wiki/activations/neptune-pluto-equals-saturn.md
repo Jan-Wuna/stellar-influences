@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Saturn`
 - Astronomicon formula: `Y/Z = W`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 A development which slowly leads to destruction.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Exchange through lossful development, inhibited breathing development, weak due to growing losses, uncertain development in old age, uncertainty due to developmental collapses, losses due to creeping development, and growing water problems
+Disappointment through development involving losses, inhibited development of breathing, weakness through growing losses, uncertain development in old age, uncertainty through disturbances of development, losses through creeping development, and growing water problems
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `281`, entry code `1005`.
 
 #### Ebertin Entry
 
 Dark forebodings, pessimism, self-torment. Grievous emotional suffering, gradual decline of one's powers and faculties.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To be afraid of psychic energy and supernatural occurrences. Fears and pho bias 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Helps bring a sense of reality and discipline to any efforts you undertake to al
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: difficult gradual development and loss, contrasted with disciplined efforts to change habits.
+- psychology: foreboding, pessimism, fear, and frustration are explicit.
+- body/health: breathing inhibition and declining faculties are historical source claims, not an individual diagnosis.
+- social/relationship: no particular relationship type is stated.
+- events/manifestations: slow destructive development, losses, water problems, and attempts to leave dependencies are named.
+- conflicts/notes: Sandbach's intuitive-only discovery claim is attributed; surviving profound change or unstoppable erosion is not guaranteed.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress destructive development and suffering; ABC adds growing loss. Munkasey supplies the contrasting use of reality and discipline when changing old habits.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Saturn`: disciplined purification, sober confrontation with invisible damage, and the ability to survive profound inner change. Main caution: despairing erosion: structure can become hollowed out by fear, depletion, or subtle breakdown that is hard to stop once underway.
+In Neptune/Pluto = Saturn, gradual development can be experienced through fear, restriction, or loss. [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [ABC](#abc-entry) preserve destructive development, emotional suffering, and growing uncertainty. [Munkasey](#munkasey-entry) adds a different possibility: reality and discipline in efforts to change habits or leave dependencies. [Sandbach's](#sandbach-entry) account of intuitive discovery remains attributed, without establishing either inevitable decline or a special capacity for survival.
 
 ## Links
 

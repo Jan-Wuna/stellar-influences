@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Jupiter = Cupido`
 - Astronomicon formula: `R/V = ¡`
@@ -36,20 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: printed page `129`, PDF page `125`, `MOON + JUPITER`, Cupido row.
+
 The happy wedding participant. The bride. The happy hours of relaxation in the family. To be happy in company.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful women's community, financial communities of a people, Freudc in a people community, common legal feeling, happy people's community, right of a people's community, and hour of joy in of a community
+Source reference: printed page `183`, PDF page `90`, `Mond + Jupiter`, Cupido row.
+
+Source wording: "Erfolgreiche Frauen-Gemeinschaft, Finanz-Gemeinschaften eines Volkes, Freude in einer Volks-Gemeinschaft, gemeinsames Rechts-Gefühl, glückliche Volks-Gemeinschaft, Rechte einer Volks-Gemeinschaft, Stunde der Freude in einer Gemeinschaft".
+
+Editorial translation, checked against the scan: A successful women's community; financial communities of a people; joy in a people's community; a shared sense of justice; a happy people's community; the rights of a people's community; an hour of joy in a community.
+
+## Comparative Schema
+
+- core meaning: Happiness experienced together, from family and wedding company to a wider community's success and rights.
+- psychology: Shared joy and relaxation are named; no detailed individual character profile is supplied.
+- body/health: No medical or bodily condition is specified.
+- social/relationship: A bride or happy wedding participant, family relaxation, enjoyable company, and successful women's communities.
+- events/manifestations: Weddings, happy hours together, financial communities, and collective rights or a shared sense of justice.
+- conflicts/notes: The domestic and civic applications broaden the setting; they do not make every group a family or promise happiness in every community.
+
+## Contradictions
+
+There is no direct disagreement in the two passages. Witte gives family and wedding examples, while ABC includes financial and civic communities. The latter expands the setting of shared happiness rather than replacing the domestic meanings. The ABC scan confirms "Freude" as joy and plural "Rechte" as rights.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Jupiter = Cupido`: The happy wedding participant. The bride. The happy hours of relaxation in the family. To be happy in company.
-- Practical focus: domesticates `Moon/Jupiter` through family happiness, ceremony, and shared relaxation. It favors weddings, affectionate company, and contentment in close social circles, making emotional abundance most visible when it is lived together rather than enjoyed alone.
-- Practical expression: successful women's community, freudc in a people community, common legal feeling, happy people's community, and right of a people's community.
+In `Moon/Jupiter = Cupido`, the [Moon/Jupiter theme of happiness and contentment](../axes/moon-jupiter.md#derived-synthesis) is experienced together. Wedding participation, the bride, family relaxation, and being happy in company place the emphasis on shared occasions and belonging with others. ([Witte](#witte-entry))
+
+The setting extends beyond the home. ABC includes successful women's communities, financial communities, collective rights, and a shared sense of justice alongside communal joy. This orientation therefore includes family happiness and a wider community's fortunate or satisfactory conditions; neither setting exhausts its meaning. ([ABC](#abc-entry))
 
 ## Links
 

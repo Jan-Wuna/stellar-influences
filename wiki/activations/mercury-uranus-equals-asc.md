@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Asc`
 - Astronomicon formula: `T/X = Asc`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 To be asked suddenly by other people. Surprising news about the near surroundings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting conversations with a partner, eventful local news, discussing events in the environment, a partner's report of an event, excitement about a young partner, media technology at the place, other people's new thoughts, conversations with a partner about technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `159`; entry code `0516` (supplied source-map locator; not visually verified).
 
 The application of practical principles in the creation of one's environment, circumspection, prudence or deliberation, organizing ability. A sudden contact of thoughts with other people. Accidents, motor-damage.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF pages `48–49` (exact oriented passage checked in the actual PDF text).
 
 The desire to be in an interesting and stimulating environment. Fast think ing may create difficulties in relating to others.
 
@@ -70,22 +80,23 @@ Concentrating on your work, while giving greater attention to remaining aloof fr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden thought and surprising news engage one's environment and personal dealings.
+- psychology: Stimulating surroundings coexist with aloof concentration or a need for privacy.
+- body/health: Ebertin names accidents and motor damage as attributed examples, not personal predictions.
+- social/relationship: Partners, nearby people and fast thinking that complicates relating are explicit.
+- events/manifestations: Local news, technical conversations and sudden requests from others are examples.
+- conflicts/notes: Brilliant eccentricity is Munkasey's image, not a guaranteed ability; damaged ABC bullets are replaced from the actual row.
 
 ## Contradictions
 
-- None recorded yet.
+Wanting stimulating surroundings and needing privacy are distinct possibilities. Practical organization need not eliminate abrupt or difficult interpersonal communication.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Asc`: originality, fast perception, and the ability to energize surroundings through sharp mental responsiveness. Main caution: restless unpredictability: expression can become tactless, scattered, or too unstable to settle.
+In `Mercury/Uranus = Asc`, Asc specifies sudden ideas and news through the immediate environment and dealings with other people. Surprising local information, sudden requests and lively conversations with a partner provide concrete stimulation; technical matters and practical organization also shape the surroundings. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry))
+
+Fast thinking may complicate relating, while concentrating on work can increase aloofness or the need for privacy away from emotional upset. Munkasey's image of brilliant eccentricity and Ebertin's accident examples remain particular source claims, not a guaranteed talent or predicted harm. ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry); [Ebertin](#ebertin-entry))
 
 ## Links
 

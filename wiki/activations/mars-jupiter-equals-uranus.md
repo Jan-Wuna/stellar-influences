@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `U/V = X`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Uranus](../triads/mars-jupiter-uranus.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -45,7 +46,9 @@ Sudden betrothal. Disturbance of pregnancy. Abortion. Surprising beginning of a 
 
 #### ABC Entry
 
-Work right emeuem, dynamic work success, successful reform arbcit, successful will impulses, success impulses through technology, want money reform, work on right reform, Surprising success pulses, and restless financial work
+Renewing labor law, dynamic work success, successful reform work, successful impulses of will, impulses toward success through technology, wanting monetary reform, working on legal reform, surprising impulses toward success, and restless financial work.
+
+- Source reference: printed p. 299, PDF p. 148, Uranus row; `Arbeits-Recht erneuern` means renewing labor law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,25 @@ Allows you to find the best political approaches during times of unrest; abrupt 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden initiative, independent decisions and disruptive or successful change.
+- psychology: Ebertin emphasizes resistance to control and quick resolve; Sandbach adds uninhibited assertion that can intimidate others.
+- body/health: Witte retains historical pregnancy and abortion associations; the formula does not establish a medical outcome.
+- social/relationship: Sudden betrothal and incidents between business or marriage partners are specific source examples; excess aggressiveness may unsettle others.
+- events/manifestations: Surprising successful activities, reform and technology coexist with political unrest, sport-rule changes and study of computers or astrology in Munkasey.
+- conflicts/notes: Rapid action may open an opportunity or create upset; ABC's scan-checked opening concerns renewing labor law.
 
 ## Contradictions
 
-- None recorded yet.
+The entries contain both successful sudden action and unwanted disruption. This is a range of expression, not a basis for inferring the outcome of a particular change.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Uranus`: quick decisions, ambitious breaks from control, exciting ventures, and the readiness to seize sudden openings or change course fast. Main caution: instability: excess confidence and impatience can produce disruption, reckless turns, or abrupt breaks in partnership or plans.
+Uranus specifies the Mars/Jupiter axis through sudden, independent action: quick resolve, resistance to control and the beginning of an exciting activity. Successful surprises in [Witte](#witte-entry), determination in [Ebertin](#ebertin-entry) and reform work in [ABC](#abc-entry) give this speed a constructive range; [Sandbach](#sandbach-entry) shows how going too far can instead produce upset or intimidate associates.
+
+[Munkasey's](#munkasey-entry) examples extend the abrupt use of social energy into unrest, competitive rules and technical or astrological study. Those specific settings do not make every sudden decision successful, and Witte's reproductive statements remain attributed historical claims.
+
+Evidence: [ABC](#abc-entry), printed p. 299, PDF p. 148; [Witte](#witte-entry), PDF p. 192; [Ebertin](#ebertin-entry), printed p. 202, entry 0692; [Sandbach](#sandbach-entry), PDF pp. 67–68, Uranus paragraph checked directly; [Munkasey](#munkasey-entry), printed p. 224.
 
 ## Links
 

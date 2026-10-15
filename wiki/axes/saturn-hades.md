@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page `225`, complete bold pair summary under the exact pair heading.
 
 #### Pair Summary
 
@@ -78,7 +82,20 @@ Melancholy. Trouble. Sadness. The alien. Refugees. Serious obstacles. Severe sic
 
 #### ABC Pair Summary
 
-Tasks from the past, from the past, and from grief and pain
+Tasks from the past, dangerous problems, sorrow and pain, secret tasks, severe privations, deficient concentration, need in old age, pain of separation, hidden problems, and losses through crime.
+
+- Source locator: printed p. `356`; PDF page `177`, complete bold pair summary.
+- German source: `Aufgaben aus der Vergangenheit, gefährliche Probleme, Kummer und Schmerzen, Geheim-Aufgaben, harte Entbehrungen, mangelhafte Konzentration, Not im Alter, Trennungs-Schmerz, verborgene Probleme, Verluste durch Kriminalität`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
+
+## Comparative Schema
+
+- core meaning: lasting hardship, deprivation, and separation under difficult conditions ([pair summary](#pair-summary)).
+- psychology: melancholy, grief, sadness, and the weight of serious obstacles.
+- body/health: Witte's historical list includes severe illness, restriction through illness, and isolation or poverty through sickness; it does not establish medical causation.
+- social/relationship: isolation, enmity, displacement, and separation; `the alien` and refugees are part of the historical source's social vocabulary.
+- events/manifestations: long unemployment or poverty, serious loss, prison, crop damage, and separation through accidents.
+- conflicts/notes: The complete scan-checked ABC summary includes secret tasks, deficient concentration, need in old age, hidden problems, and losses through crime. These remain a range of attributed associations rather than inevitable outcomes.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Tasks from the past, from the past, and from grief and pain
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on melancholy, trouble, sadness, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Hades` describes hardship that becomes prolonged or isolating: serious obstacles, grief, deprivation, and losses that narrow a person's circumstances. The [pair summary](#pair-summary) is concrete about unemployment of long duration, long poverty, prison, and separation. It also retains less common material examples such as crop damage and separation through accidents; these are a range of source associations rather than predictions that all occur together.
+
+The historical entry links illness with restriction, impoverishment, and isolation, but supplies no basis for treating the pair as a diagnosis. Its references to refugees and `the alien` concern displacement and exclusion, not a judgment about those people. The restored [ABC summary](#abc-pair-summary) adds tasks from the past, hidden problems, and pain of separation. The evidence does not support adding a generic constructive promise.
 
 ## Links
 

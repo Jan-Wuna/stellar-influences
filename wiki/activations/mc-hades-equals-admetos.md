@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [MC Hades Admetos](../triads/mc-hades-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Want for the simplest necessities of life. Sadness through privation, cold and n
 
 #### ABC Entry
 
-My grim renunciation, my mental blockade, my deepening into the hidden, my hidden limitations, my service to end, hidden psychic energy, deepening into my past, and resistance of an old soul
+- Source passage: `Meridian + Hades`; printed p. `87`; one-based PDF page `42` (complete oriented row checked against the raw scan).
+
+My thorough renunciation, my inner blockage, my deepening into the hidden, my hidden limitations, ending my service, hidden psychic energy, deepening into my past, resistance of an old soul.
+
+## Comparative Schema
+
+- **Core meaning:** Privation, limitation, and inward blockage.
+- **Psychology:** Sadness and deepening into the hidden or one's past are represented.
+- **Body/health:** Cold and need are historical circumstances, not a diagnosis.
+- **Social/relationship:** The entries name no defined relationship outcome.
+- **Events/manifestations:** Lack of basic necessities and ending service are stated possibilities.
+- **Conflicts/notes:** ABC's thorough renunciation and ending service are distinct clauses; old soul remains a metaphor without an established personal history.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Admetos` compresses the axis into deprivation of life's bare necessities.
-- Chart expression: sadness under privation, cold, and need, with the self pressed down by lack so deeply that hardship feels immovable and basic survival becomes the issue.
+Admetos specifies `MC/Hades` through deprivation and deeply felt limitation. Witte's lack of basic necessities and sadness through cold or need join ABC's hidden constraints and inner blockage; exploration of the hidden or the past is an additional theme, not evidence that privation always produces insight. ([Witte Entry](#witte-entry), PDF p. 71, entry start; [ABC Entry](#abc-entry), printed p. 87.)
 
 ## Links
 

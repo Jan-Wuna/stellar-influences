@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Rewards and personal satisfactions received from friendships; recognition receiv
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: recognition and personal development through friendships and the opportunities they open.
+- psychology: personal satisfaction and the development of interests, talents and innate abilities.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: friends provide opportunities whose pursuit can bring recognition.
+- events/manifestations: rewards and recognition following action on opportunities opened by friends.
+- conflicts/notes: This With Itself entry supplies the repeated MC activation; it does not create a three-distinct-factor triad or establish other orientations.
 
 ## Contradictions
 
-- None recorded yet.
+This With Itself entry supplies the repeated MC activation; it does not create a three-distinct-factor triad or establish other orientations.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = MC`: Rewards and personal satisfactions received from friendships; recognition received because one pursued opportunities opened by friends; personal interests or talents which allow one to develop innate abilities in life.
+In `Node/MC = MC`, MC specifies the personal satisfaction and development gained through friendship. The [Munkasey entry](#munkasey-entry) connects recognition to pursuing opportunities opened by friends, while also naming interests and talents that allow innate abilities to unfold. The friendship offers an opening; the person's pursuit of it is part of the stated meaning. This repeated-factor formula remains Munkasey's With Itself entry and has no distinct three-factor hub.
 
 ## Links
 
 - [Node](../factors/node.md)
-- [MC](../factors/mc.md)
 - [MC](../factors/mc.md)
 - [Node/MC](../axes/node-mc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Kronos`
 - Astronomicon axis: `X/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- PDF page: 239.
+
 Emphatic expressions, words of command. Authority appearing suddenly. Great tension and collected power. Events of the state. Governmental intervention. To be ordered. Great excitement. Sudden decrees of the government or chief. Outstanding innovation, science or technology -or- outstanding skills in one of these fields.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Special surprise, great tensions, impulsive authoritarianism, new authority, new self awareness, state reforms, state event, technical steering, restless boss, ahead of technology, and important event
+- Printed pages: 380–381; PDF page: 189.
+
+Special surprise, great tensions, authority providing impetus, new governing authority, new self-confidence, state reforms, state event, technical direction, restless chief, priority of technology, important event.
+
+## Comparative Schema
+
+- core meaning: authority or command entering suddenly, with great tension and a capacity for outstanding innovation ([Witte](#pair-summary)).
+- psychology: emphatic expression, excitement, new self-confidence, and authority that provides impetus ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- body/health: no specific bodily or medical claim is given in these pair summaries.
+- social/relationship: chiefs, government, and state authority issuing orders or intervening; this describes an authority relation rather than a particular intimate bond.
+- events/manifestations: sudden decrees, state events, reforms, and exceptional skill or innovation in science and technology ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- conflicts/notes: commanding authority, initiating authority, and technical distinction are all supported; the short summaries do not establish the quality of governance or a fixed political disposition.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Special surprise, great tensions, impulsive authoritarianism, new authority, new
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to emphatic expressions, words of command. Authority appearing suddenly. Great tension and collected power. Events of the state. Governmental intervention. To be ordered. Great excitement. Sudden decrees of the government or chief. Outstanding innovation, science or technology -or- outstanding skills in one of these fields.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Kronos` concerns a sudden, emphatic assertion of authority: a command, intervention, decree, or new governing authority that changes a situation. The force of the moment may be experienced as great excitement or collected tension. The [Witte pair summary](#pair-summary) supplies commanding and state-event meanings; [Udo's entry](#abc-pair-summary) also names authority that provides impetus, new self-confidence, and state reforms.
+
+Its distinctive range also includes outstanding innovations and exceptional skills in science or technology, with technical direction and priority given to technology in Udo's summary. These technical meanings belong alongside governmental and commanding expressions. The pair alone does not determine whether an intervention is beneficial or oppressive, or establish a person's political character; each closing-factor activation requires its own oriented entry.
 
 ## Links
 

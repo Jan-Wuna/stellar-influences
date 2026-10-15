@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Brings order and respect to a rebellious and impertinent person; lends a dreary 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Rebellion and attempted change brought under order and restriction.
+- psychology: Respect and order can accompany a dreary experience of freeing oneself.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: An impertinent or rebellious person is subject to ordering influences.
+- events/manifestations: Simple routine changes; calls for procedural improvement are stifled.
+- conflicts/notes: Only Munkasey is represented; discipline and suppression are both retained.
 
 ## Contradictions
 
-- None recorded yet.
+The entry presents ordering effects and stifled improvement together; it does not establish whether restriction is helpful in a particular case.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Saturn`: Brings order and respect to a rebellious and impertinent person; lends a dreary air to activities designed to free one from old habits; plain and simple changes to daily routines; stifles calls for improvements in procedures.
+Saturn specifies the Saturn/Uranus axis by imposing order on rebellion and narrowing the scope of change. Daily routines may alter plainly and simply, while efforts to escape old habits acquire a dreary quality and demands for better procedures are suppressed. The [Munkasey Entry](#munkasey-entry) (printed p. 286) holds useful ordering and inhibited reform together; neither should replace the other in this repeated-factor orientation.
 
 ## Links
 

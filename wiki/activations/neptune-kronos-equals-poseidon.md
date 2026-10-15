@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Poseidon`
 - Astronomicon formula: `Y/¤ = ¨`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 High minded, fine mental attitude. To refuse mental leadership. Failure in mental leadership.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `399`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Particularly subtle ideas, especially clear water, foreign cultural state, subtle feeling of intellectual authorship, unknown spiritual hierarchy, opinion of important truths, future change, and important metaphysical truth
+Particularly sensitive ideas, especially clear water, foreign cultural state, sensitivity of a mentally refined authority, unknown spiritual hierarchy, denial of important truths, rational direction of the future, and important metaphysical truth
+
+## Comparative Schema
+
+- core meaning: refined mental attitude and questions of accepting, refusing, or failing in mental leadership.
+- psychology: sensitive ideas and denial of important truths coexist with claimed rational guidance.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: mental authority, cultural state, and an unknown spiritual hierarchy are stated settings.
+- events/manifestations: refusing leadership, failure in leadership, and clear water are distinct examples.
+- conflicts/notes: truth and rational future direction remain source descriptions, not verification of beliefs or foresight.
+
+## Contradictions
+
+Witte juxtaposes a fine mental attitude with refusal or failure of leadership. ABC similarly includes refined authority and denial of truths; refinement does not guarantee sound leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Poseidon`: High minded, fine mental attitude. To refuse mental leadership. Failure in mental leadership.
-- Practical focus: spiritualizes authority through refined ideals and mental elevation, yet also shows refusal of intellectual leadership or failure to sustain it in practice.
-- Practical expression: particularly subtle ideas, especially clear water, foreign cultural state, subtle feeling of intellectual authorship, and unknown spiritual hierarchy.
+In Neptune/Kronos = Poseidon, Poseidon specifies the pair through mental refinement and the acceptance or effectiveness of intellectual leadership. The [Witte entry](#witte-entry) includes high-mindedness beside refusal or failure in leadership; [ABC](#abc-entry) adds refined authority, denial of important truths, and claimed rational future direction (printed p. 399, PDF p. 198). These preserve the distinction between elevated ideas and effective or truthful guidance. Clear water remains a separate example, while spiritual hierarchy and metaphysical truth remain attributed claims.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Uranus MC](../triads/sun-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Strong physical and mental tension. Conflicts. Nervousness of body and soul. Sudden physical outbursts.
 
+Source locator: PDF p. 59, Meridian + Sun, Uranus entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dynamically animated man, agitated soul in the body, my carnal rhythm, my nervase man, my new husband, my corporal restlessness, my tension in the body, my personal excitement, and mental restlessness in the day
+Dynamically animated person, agitated soul in the body, my bodily rhythm, my nervous man, my new husband, my corporal restlessness, my tension in the body, my personal excitement, and mental restlessness in the day
+
+Source locator: printed p. 63, PDF p. 30, Sun/MC, Uranus entry. Translation checked against the German row; Mensch is person and körperlicher Rhythmus is bodily rhythm.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Dynamically animated man, agitated soul in the body, my carnal rhythm, my nervas
 
 "A restless spirit," a revolutionist or rebel, psychological tension. A sudden change of objective, inner conflict.
 
+Source locator: printed p. 111, coded entry 0321.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 Bringing something unusual, distinctive or unexpected to one’s career. An independent approach to career concerns. Rebelling against the status quo. Sudden insights into the meaning of life. A genius for being able to reveal spiritual purpose.
+
+Source locator: PDF p. 25, Sun/Midheaven, complete Uranus entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Attention for work with electrical, mechanical, or computing devices; recognitio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal direction marked by sudden change, independent insight or heightened tension.
+- psychology: Restlessness, rebellion and inner conflict coexist with distinctive understanding of purpose.
+- body/health: Rhythm, nervousness, tension and outbursts are attributed source themes, not diagnoses.
+- social/relationship: Recognition for technical or specialist work; ABC's new-husband example is one separate relationship form.
+- events/manifestations: Changed objectives, unusual career contributions, further education and on-the-job training.
+- conflicts/notes: Distinctiveness and technical recognition do not erase tension or guarantee stable standing.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, ABC and Ebertin emphasize tension, restlessness or abrupt change. Sandbach gives independence and insight a vocational or spiritual form; Munkasey adds specific technical fields and training. These are different expressions of the formula rather than proof that every disruption is productive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Uranus`: innovation in profession, revelatory insight into purpose, and the need to bring something distinctive into the public sphere. Main caution: inner conflict: tension and abrupt shifts can unsettle continuity of mission and standing.
+`Sun/MC = Uranus` gives personal direction a restless, sudden or distinctive expression. [Witte](#witte-entry) and [ABC](#abc-entry) describe tension and bodily or inward agitation; [Ebertin](#ebertin-entry) adds rebellion, inner conflict and a sudden change of objective. [Sandbach](#sandbach-entry) gives independence and unexpected insight a career or spiritual form, while [Munkasey](#munkasey-entry) specifies recognition for technical or specialist work and sudden efforts through training. The shared emphasis is a break from routine or an unusual expression of purpose, with tension retained rather than assuming that every abrupt turn improves one's standing.
 
 ## Links
 

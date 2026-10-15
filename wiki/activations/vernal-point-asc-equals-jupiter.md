@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Jupiter`
 - Astronomicon formula: `VP/Asc = V`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ Jolly company. To be cheerful together. Rich places. Fertile areas.
 
 Success of others in public, financial partners in public, enjoyment of a public place, public environmental success, public financial place, public legal place, partner success in public, and benefit to the public environment
 
+## Comparative Schema
+
+- Core meaning: Enjoyable and advantageous public company or surroundings.
+- Psychology: Shared cheerfulness and enjoyment of a public place.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Successful partners and financial partners in public life.
+- Events/manifestations: Prosperous or fertile places and public financial or legal settings.
+- Conflicts/notes: The legal setting is an ABC example, not a claim that all contacts concern law.
+
+## Contradictions
+
+No direct conflict appears in these entries; cheerfulness, prosperity, and public benefit are related emphases rather than identical claims.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Jupiter`: olly company, to be cheerful together, rich places, and fertile areas.
-- Practical expression: success of others in public, financial partners in public, enjoyment of a public place, public environmental success, and public financial place.
+Jupiter specifies `Vernal Point/Asc` as public encounters and places experienced through enjoyment, prosperity, or benefit. Cheerful company and rich or fertile surroundings connect with successful partners and public financial or legal settings; the emphasis is on what is shared with others or found in the environment. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 20 / PDF p. 9.)
 
 ## Links
 

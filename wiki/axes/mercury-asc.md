@@ -13,6 +13,7 @@ factor_b: Asc
 related_activations:
   - Mercury/Asc = Admetos
   - Mercury/Asc = Apollon
+  - Mercury/Asc = Asc
   - Mercury/Asc = Chiron
   - Mercury/Asc = Cupido
   - Mercury/Asc = Hades
@@ -20,6 +21,7 @@ related_activations:
   - Mercury/Asc = Kronos
   - Mercury/Asc = Mars
   - Mercury/Asc = MC
+  - Mercury/Asc = Mercury
   - Mercury/Asc = Moon
   - Mercury/Asc = Neptune
   - Mercury/Asc = Node
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `T/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/ASCENDANT`
-- Source page: `179`
+- Source heading: `ASCENDANT + MERCURY`
+- PDF page: `83`
 
 #### Pair Summary
 
@@ -174,17 +178,18 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Expressing oneself, listening, and interpreting other people through immediate contact ([Hand](#pair-delineation), [Ebertin](#principle)).
+- psychology: Ideas and self-concept develop through feedback; quick observation can also become restless attention or premature judgment ([Sandbach](#principle-1), [Munkasey](#basic-ideas)).
+- body/health: Ebertin and Hand associate the pair with sensory reception. Munkasey's claims about speech organs and stress-related intestinal effects remain attributed medical associations ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Conversation and mutual understanding coexist with gossip, criticism, misjudging others, or shutting out their ideas ([Psychological Correspondence](#psychological-correspondence), [In Your Relationships](#in-your-relationships)).
+- events/manifestations: Meetings, correspondence, receiving documents, rapidly shared news, and efforts to communicate clearly between allies are named settings ([Probable Manifestations](#probable-manifestations), [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: Enjoying contact and misunderstanding others are alternative expressions of the same social attention. ABC translation defects limit finer source claims.
 
 ## Related Activations
 
 - [Mercury/Asc = Admetos](../activations/mercury-asc-equals-admetos.md)
 - [Mercury/Asc = Apollon](../activations/mercury-asc-equals-apollon.md)
+- [Mercury/Asc = Asc](../activations/mercury-asc-equals-asc.md)
 - [Mercury/Asc = Chiron](../activations/mercury-asc-equals-chiron.md)
 - [Mercury/Asc = Cupido](../activations/mercury-asc-equals-cupido.md)
 - [Mercury/Asc = Hades](../activations/mercury-asc-equals-hades.md)
@@ -192,6 +197,7 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 - [Mercury/Asc = Kronos](../activations/mercury-asc-equals-kronos.md)
 - [Mercury/Asc = Mars](../activations/mercury-asc-equals-mars.md)
 - [Mercury/Asc = MC](../activations/mercury-asc-equals-mc.md)
+- [Mercury/Asc = Mercury](../activations/mercury-asc-equals-mercury.md)
 - [Mercury/Asc = Moon](../activations/mercury-asc-equals-moon.md)
 - [Mercury/Asc = Neptune](../activations/mercury-asc-equals-neptune.md)
 - [Mercury/Asc = Node](../activations/mercury-asc-equals-node.md)
@@ -207,15 +213,16 @@ The effect of your mental attitude on your health; intestinal gas from the stres
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries hold listening and mutual understanding alongside gossip, criticism, and shallow judgments. Banzhaf/Haebler's harmony/discord wording and Munkasey's thesis/anti retain these conditional contrasts. Sensory reception is distinct from Munkasey's more specific medical assertions, which remain attributed rather than diagnostic.
+
+ABC `lJmfeld` and `lJmwelt`, Sandbach's `about with other people think`, and Hand's broken sentence remain transcription or translation uncertainties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc` is the axis of communicative presence, social perception, and identity formed through exchange with the immediate environment. It combines thought, language, observation, and adaptability with personality, approach, and responsiveness to other people.
-- Chart expression: talkativeness, mental alertness, curiosity about others, conversational skill, and a style that defines itself through ideas, feedback, and contact. Liabilities: gossip, nervous overstimulation, shallow judgments, misreading people, and a tendency to reduce relationships to commentary, critique, or restless analysis.
+`Mercury/Asc` concerns the exchange between one's own thinking and the people immediately around one. Speaking, listening, and noticing responses allow ideas and self-understanding to develop together: what others say can help clarify what one means and how one presents oneself. This connection runs through [Hand's expression and listening](#pair-delineation), [Sandbach's feedback and self-concept](#process), and [Munkasey's attention to people's reactions](#basic-ideas).
+
+The same attention can become restless observation, gossip, or a quick judgment that overlooks another person's complexity. [Ebertin's psychology and manifestations](#psychological-correspondence) and [Munkasey's personal and relationship contrasts](#in-your-personal-life) preserve both sides. The practical range is therefore conversational contact that deepens mutual understanding or becomes commentary and misunderstanding, depending on how fully the other person is heard.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury MC Poseidon](../triads/mercury-mc-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 The own thoughts are on on the spiritual, mental, intellectual or ideological plane. To have clear ideas, thoughts and insights.
 
@@ -42,13 +46,29 @@ The own thoughts are on on the spiritual, mental, intellectual or ideological pl
 
 #### ABC Entry
 
-Intelligible description of the soul, I write hard, the truth of my places, I describe ideas, clarity of my thinking, my thoughts about the spiritual principle, animated thinking culture, and my thinking is clean
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Einsichtsvolle Beschreibung der Seele, ich schreibe vernünftig, die Wahrheit meiner Worte, ich beschreibe Ideen, Klarheit meines Denkens, meine Gedanken über das geistige Prinzip, beseelte Denk-Kultur, mein Denken ist sauber
+
+Editorial translation from the German passage: Insightful description of the soul; I write sensibly; the truth of my words; I describe ideas; clarity of my thinking; my thoughts about the spiritual principle; soulful culture of thought; my thinking is clean.
+
+## Comparative Schema
+
+- core meaning: Clear personal thought on intellectual, spiritual, or ideological matters.
+- psychology: Insight and clarity of ideas in Witte.
+- body/health: No specific body or health claim appears.
+- social/relationship: ABC concerns description of ideas; no distinct relationship claim is reliable.
+- events/manifestations: Forming or describing clear ideas and insights.
+- conflicts/notes: Witte's duplicated “on on” is a printed wording quirk retained without interpretive significance.
+
+## Contradictions
+
+Witte's clarity and ABC's sensible writing or truthful words are stated ideals. They do not establish that every belief held by a person is objectively true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/MC = Poseidon` refines the axis into clear intellectual and spiritual orientation.
-- Chart expression: thoughts naturally operating on a mental, ideological, or spiritual plane, with clarity, insight, and clean perception shaping one's personal outlook.
+Poseidon specifies Mercury/MC through clear personal ideas on spiritual, mental, intellectual, or ideological matters. ABC extends this to describing ideas insightfully, writing sensibly, and attention to the truth of one's words. These entries connect personal outlook with intelligible principles and expression, while their positive terms remain the authors' descriptions rather than independent verification of a belief ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

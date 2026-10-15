@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Kronos`
 - Astronomicon formula: `U/X = ¤`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: one-based PDF p. 194, Kronos row under Mars/Uranus.
+
 Uproar given rise to by the authorities. Surprising actions of the government, the chief, the boss or superiors.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work impulses of the boss, special technical activity, eventful actions of the state, spontaneous will to self governingness, surprising actions of an authoritat, will impulses of the state, and important work impulses
+English translation: Work impulses from the boss; special technical activity; eventful actions of the state; spontaneous will toward independence; surprising actions by an authority; will-impulses of the state; important work impulses.
+
+Source: printed p. 303 (one-based PDF p. 150), Kronos row under Mars/Uranus.
+
+## Comparative Schema
+
+- Core meaning: Surprising initiatives or disturbances involving authority.
+- Psychology: ABC includes a spontaneous wish for independence, without specifying rebellion in every case.
+- Body/health: No specific health or bodily claim is made.
+- Social/relationship: Government, chiefs, bosses, and superiors can initiate surprising actions.
+- Events/manifestations: Official initiatives, uproar caused by authorities, and special technical work.
+- Conflicts/notes: The printed `Selbständigkeit` means independence, and `Autorität` means an authority. The seven-clause row does not specify that every independent initiative is rebellion or every authority is authoritarian.
+
+## Contradictions
+
+Witte's uproar and ABC's important work impulses are different possible effects of authoritative action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Kronos` brings rebellion and sudden force directly into the sphere of authority.
-- Chart expression: uproar created by authorities, and to surprising actions by government, bosses, chiefs, or superiors that shake the existing order.
+In `Mars/Uranus = Kronos`, Kronos specifies sudden activity through authority: a superior's initiative, a government action, or a surprising decision from those in charge. Uproar can follow, but ABC also includes important work impulses and technical activity. The [Witte entry](#witte-entry) (PDF p. 194) and [ABC entry](#abc-entry) (printed p. 303) support authoritative initiative without making every example a rebellion or a collapse of order.
 
 ## Links
 

@@ -33,19 +33,25 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Moon Mars Asc](../triads/moon-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-To become known in public through actions. Arguments with female persons.
+To become known in public through actions. Arguments with female persons. To exert charm of sex upon a woman.
+
+- Source reference: PDF p. 85, Moon row; the final sentence continues this row before the Node glyph.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Actions of the people for the environment, work with women as partners who want women as partners, women's work on the spot, partner's actions, happy work in the environment, GemOt's impulses of others, action impulses of women, and people's Will for the environment
+Actions of the people for the surroundings, work with a woman as partner, wanting a woman as partner, women's work at the place, the partner's emotional actions, work carried out with feeling in the surroundings, emotional impulses of others, a woman's impulses to act, and the people's will for the surroundings.
+
+- Source reference: printed p. 110 (PDF p. 54), Ascendant + Mars, Moon row; English checked against the scanned German.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ Anger and annoyance, provocative behavior. A quarrelsome woman.
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 To do something immediate to gratify one’s emotional needs, or to overcoming insecurity. One is vulnerable to the reactions that others have to what one does.
 
@@ -70,22 +78,23 @@ Vacillation or hesitation when trying to see yourself as a unique individual; co
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [Sandbach Entry](#sandbach-entry), PDF p. 76 (complete entry); [Munkasey Entry](#munkasey-entry), printed p. 248 (entry page); [Ebertin Entry](#ebertin-entry), printed p. 220 (coded entry, code 0760); [ABC Entry](#abc-entry), printed p. 110 (entry).
+
+- Core meaning: Action with others is sensitive to emotional needs and their responses.
+- Psychology: Insecurity may prompt immediate action or hesitation; consolation also appears.
+- Body/health: No distinct bodily condition is specified in these emotional and interpersonal entries.
+- Social/relationship: Public recognition, conflict, consolation, and work with women are source examples.
+- Events/manifestations: Acts that attract public notice and attempts to elicit others' responses are explicit.
+- Conflicts/notes: Historical woman-specific claims remain attributed. The scans restore emotional wording in ABC and the final Moon sentence in Witte; Sandbach's complete entry is verified on PDF p. 76.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis; the different manifestations do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Moon`: provocative behavior, emotional defensiveness, quick anger, and the need to act at once to answer insecurity or feeling-pressure. Main caution: impulsive reactivity: hurt feelings can quickly turn into public conflict, agitation, or unnecessary antagonism.
+Moon specifies the Mars/Asc axis through emotional involvement in action and sensitivity to other people's reactions. Immediate action to meet a need in [Sandbach Entry](#sandbach-entry) can coexist with the hesitation and consolation described in [Munkasey Entry](#munkasey-entry). [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) add public notice and conflict, while the scan-checked [ABC Entry](#abc-entry) retains feeling-driven work and partner interaction. The historical references to women are particular source examples, not a general rule linking gender with quarrelsomeness.
 
 ## Links
 

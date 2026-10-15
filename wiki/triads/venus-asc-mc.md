@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Asc/MC = Venus](../activations/asc-mc-equals-venus.md)
-- [Venus/Asc = MC](../activations/venus-asc-equals-mc.md)
-- [Venus/MC = Asc](../activations/venus-mc-equals-asc.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Asc/MC](../axes/asc-mc.md) | `Venus` | [Asc/MC = Venus](../activations/asc-mc-equals-venus.md) |
+| [Venus/Asc](../axes/venus-asc.md) | `MC` | [Venus/Asc = MC](../activations/venus-asc-equals-mc.md) |
+| [Venus/MC](../axes/venus-mc.md) | `Asc` | [Venus/MC = Asc](../activations/venus-mc-equals-asc.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Asc/MC = Venus`: Michael, page `364`
-- `Venus/Asc = MC`: Michael, page `216`
-- `Venus/MC = Asc`: Michael, page `220`
+Each exact formula has the five canonical source headings below. This describes entries currently present, not complete coverage of the original works or intact wording of every excerpt. Munkasey locators are printed entry pages; other locators and their qualifications are available through the linked entries.
+
+- `Asc/MC = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-mc-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-mc-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/asc-mc-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/asc-mc-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/asc-mc-equals-venus.md#munkasey-entry), printed p. `364`.
+- `Venus/Asc = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-asc-equals-mc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-asc-equals-mc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-asc-equals-mc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-asc-equals-mc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-asc-equals-mc.md#munkasey-entry), printed p. `216`.
+- `Venus/MC = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mc-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mc-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-mc-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-mc-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-mc-equals-asc.md#munkasey-entry), printed p. `220`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

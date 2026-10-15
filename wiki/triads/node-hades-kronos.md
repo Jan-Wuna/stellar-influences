@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Hades Kronos`
 - Astronomicon triad-set: `g ¢ ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Kronos = Node](../activations/hades-kronos-equals-node.md)
-- [Node/Hades = Kronos](../activations/node-hades-equals-kronos.md)
-- [Node/Kronos = Hades](../activations/node-kronos-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Kronos = Node](../activations/hades-kronos-equals-node.md) | [Hades/Kronos](../axes/hades-kronos.md) | [Node](../factors/node.md) |
+| [Node/Hades = Kronos](../activations/node-hades-equals-kronos.md) | [Node/Hades](../axes/node-hades.md) | [Kronos](../factors/kronos.md) |
+| [Node/Kronos = Hades](../activations/node-kronos-equals-hades.md) | [Node/Kronos](../axes/node-kronos.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Hades/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `440`
-- `Node/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `227`
-- `Node/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Kronos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-kronos-equals-node.md#witte-entry), one-based PDF entry-start p. `279`.
+- `Hades/Kronos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-kronos-equals-node.md#abc-entry), printed p. `440`.
+- `Node/Hades = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-hades-equals-kronos.md#witte-entry), one-based PDF entry-start p. `150`.
+- `Node/Hades = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-hades-equals-kronos.md#abc-entry), printed p. `227`.
+- `Node/Kronos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-hades.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-hades.md#abc-entry), printed p. `231`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Node`: witnessing or joining great crime, involvement in doubtful matters, espionage, being hired into dubious work, or contact with criminal investigation.
-- `Node/Hades = Kronos`: To make common cause with criminals or to avail oneself of criminal assistance. To partake in a conspiracy or plot.
-- `Node/Kronos = Hades`: Deplorable conditions in leading circles. Corruption. Sorrow or loss through connection with authorities. Connection with authorities on account of shameful actions, crimes.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

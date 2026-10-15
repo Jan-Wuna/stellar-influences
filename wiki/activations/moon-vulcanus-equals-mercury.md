@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = T`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Mercury Vulcanus](../triads/moon-mercury-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-The connections cause public interest. To be in contact with people of public interest. To be partner in public influence. To be connected with powerful people.
+- Source passage: PDF p. 136; Mercury row checked visually.
+
+Quickly working brain. Mighty thinking activities. Talks and conversations with persons of public influence. One speaks publicly about exciting, sensational scandal stories. The public opinion and talking about it.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of a young woman, thought power of a woman, speech about the power of women, violence against female youth, power of the media in the people, power fleeces of the youth, opinion influencing of the people, and news about violence in the people
+- Source passage: printed p. 204; PDF p. 101.
+
+Influence of a young woman, a woman's power of thought, conversations about a woman's power, violence against female youth, the media's power among a people, young people's feelings of power, influencing a people's opinion, and news about violence among a people.
+
+Editorial translation checked against the German scan and Mercury row symbol.
+
+## Comparative Schema
+
+- core meaning: influence works through thought, speech, news, and public opinion ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: rapid thinking and powerful mental activity are Witte's explicit descriptions; ABC adds feelings of power among young people.
+- body/health: Witte's brain wording describes thinking; no disease claim is supplied.
+- social/relationship: conversations with influential people and media influence shape the social setting.
+- events/manifestations: scandal stories, public discussion, and reports of violence are source examples.
+- conflicts/notes: reporting violence and committing it are different claims; ABC also separately names violence against female youth.
+
+## Contradictions
+
+The entries emphasize different channels of communication without directly opposing claims. Their mention of scandal or violence does not establish that every influential message is false or harmful.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Mercury`: The connections cause public interest. To be in contact with people of public interest. To be partner in public influence. To be connected with powerful people.
-- Practical expression: influence of a young woman, thought power of a woman, speech about the power of women, violence against female youth, and power of the media in the people.
+Mercury specifies Moon/Vulcanus through the mental and communicative channels of influence. [Witte](#witte-entry) describes rapid thought, conversations with influential people, and public talk about sensational stories; [ABC](#abc-entry) adds media power and the shaping of opinion. The connection is the force carried by thinking and communication. News about violence remains distinct from ABC's separate example of violence against female youth.
 
 ## Links
 

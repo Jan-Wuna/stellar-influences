@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = MC`
 - Astronomicon formula: `VP/Asc = MC`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -40,15 +42,30 @@ The influences of the place on the professional position. Business connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Aszendent`
+- Source reference: printed page `20`; PDF page `9` (one-based).
+
 #### ABC Entry
 
-Others and I in public, animated public environment, animated public partner life, my place in public, my public partner life, and my environment is the public
+Others and I in public, soulful public surroundings, a soulful partner in public life, my place in public, my partners in public life, and my environment is the public.
+
+## Comparative Schema
+
+- Core meaning: One's own place and partners in public life.
+- Psychology: Personal involvement is explicit in the ABC's "others and I" wording.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Personal public partners and business connections.
+- Events/manifestations: A place influencing professional position.
+- Conflicts/notes: ABC's beseelt is rendered as soulful; it describes a quality of involvement without specifying a practical event.
+
+## Contradictions
+
+The professional emphasis and the personal public setting are compatible, but the brief entries do not make every public relationship a business connection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = MC`: the influences of the place on the professional position and business connections.
-- Practical expression: others, i in public, animated public environment, animated public partner life, and my place in public.
+MC specifies `Vernal Point/Asc` by bringing one's own position into public surroundings and relationships. The [ABC entry](#abc-entry) places oneself with others in public and names one's place and partners, with soulful surroundings or a soulful partner as qualities of that involvement. The [Witte entry](#witte-entry) gives a professional expression in a location's effect on one's position and business connections. These relate personal involvement to its public setting without defining every relationship as business.
 
 ## Links
 

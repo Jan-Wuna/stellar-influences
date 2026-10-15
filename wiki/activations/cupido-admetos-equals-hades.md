@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Cupido Hades Admetos](../triads/cupido-hades-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 271 (printed 275).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ The end or the beginning of a miserable marriage or partnership. Comradeship and
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 433).
+
 #### ABC Entry
 
 Perseverance in common service, limitation and renunciation of a community, joint deepening of the past, joint resistance to criminality, disadvantages for a blocked community, and community strengthened by deprivation
 
+## Comparative Schema
+
+- core meaning: Association under deprivation, renunciation or grave difficulty.
+- psychology: No distinct inner-state claim beyond the source's description of miserable circumstances.
+- body/health: No specific physical or medical claim.
+- social/relationship: A difficult partnership may begin, end or hold together through hardship.
+- events/manifestations: Common service, engagement with the past, resistance to criminality and consolidation through deprivation.
+- conflicts/notes: The historical evaluative word “miserable” describes the entry's circumstances, not a judgment on people.
+
+## Contradictions And Differences
+
+The historical evaluative word “miserable” describes the entry's circumstances, not a judgment on people. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Hades`: association under hardship, degraded loyalty, and relationships held together by suffering or necessity rather than warmth. Main caution: enduring miserable conditions because separation feels worse or impossible.
+`Cupido/Admetos = Hades` places partnership and common effort under deprivation or grave difficulty. The [Witte entry](#witte-entry) allows a troubled marriage or association to begin, end, or hold together under those conditions; the [ABC entry](#abc-entry) adds common service, renunciation, attention to the past and shared resistance to criminality. Endurance can consolidate the community through hardship, but the entries do not say that hardship guarantees solidarity.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Kronos](../axes/node-kronos.md)
 - Triad hub: [Node Zeus Kronos](../triads/node-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 152 (one-based PDF numbering; exact row checked).
 
 Decision of authorities. The verdict. To be sentenced.
 
@@ -42,13 +46,27 @@ Decision of authorities. The verdict. To be sentenced.
 
 #### ABC Entry
 
-Start of important contacts, special services in one connection, large mediation efforts, creative relations with the boss, performance mediation for the state, independence in a leading connection, and connection to the state administration
+- Source page: 231 (printed); PDF page: 114 (one-based PDF numbering; exact row checked).
+
+Beginning of important contacts, special achievements within a connection, great efforts at mediation, creative relations with the boss, mediation of achievement for the state, independence within a leading connection, connection to state leadership.
+
+## Comparative Schema
+
+- core meaning: purposeful activity or a decision within a leading or official connection.
+- psychology: creative effort, achievement and independence within the connection.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: relations with a superior, important new contacts, and ties to state leadership.
+- events/manifestations: official decisions, a verdict or sentence in Witte; major mediation efforts and achievement for the state in ABC.
+- conflicts/notes: Witte emphasizes a judicial decision; ABC emphasizes initiation, achievement and mediation. These are different expressions, not a demonstrated disagreement.
+
+## Contradictions
+
+Witte emphasizes a judicial decision; ABC emphasizes initiation, achievement and mediation. These are different expressions, not a demonstrated disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Zeus`: Decision of authorities. The verdict. To be sentenced.
-- Practical focus: decision of authorities; also the verdict.
+Zeus specifies `Node/Kronos` through the effective action or decision of a leading connection. The [Witte entry](#witte-entry) concentrates on the authorities' decision, verdict or sentence; the [ABC entry](#abc-entry) describes initiating contacts, creative work with a superior and efforts to mediate achievement for the state. These are distinct expressions of agency within an official relationship. The legal outcome remains Witte's narrower possibility, rather than a requirement of every productive connection.
 
 ## Links
 

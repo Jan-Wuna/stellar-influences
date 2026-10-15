@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Activates desires for change and innovation in areas which have been neglected o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Neglected or hidden areas become the focus of change.
+- psychology: Restlessness for independence and greater freedom.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Deviation from accepted norms of practice.
+- events/manifestations: Innovation pursued in previously neglected areas.
+- conflicts/notes: This one entry describes desire for change, without establishing its outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is present; the entry does not offer an opposing account or specify whether the desired changes succeed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Uranus`: Activates desires for change and innovation in areas which have been neglected or hidden away; increased restlessness for independence and deviation from accepted norms of practice; a prompt to seek more freedom.
+Uranus specifies Saturn/Uranus by awakening a desire to change what has been neglected or hidden away. Restlessness moves toward independence, deviation from accepted practice and greater freedom. The [Munkasey Entry](#munkasey-entry) (printed p. 286) establishes this renewed impulse in the repeated-factor orientation; it does not describe the practical consequences or promise that innovation succeeds.
 
 ## Links
 

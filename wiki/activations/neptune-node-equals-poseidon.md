@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Poseidon`
 - Astronomicon formula: `Y/g = ¨`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 High minded efforts with others. Dissolution of spiritual connections. To be forced to have dealings with fantastic and unreliable people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Encounter with an unknown culture, detiiusizing truth in a connection, subtlety in a spiritual relationship, foreign cultural connections, clarity in a connection through metaphysics, and insecurity in a spiritual connection
+Encounter with an unknown culture, disappointing truth in a connection, sensitivity in an intellectually rich relationship, foreign cultural connections, clarity in a connection through metaphysics, and uncertainty in an intellectual connection
+
+## Comparative Schema
+
+- core meaning: idealistic, spiritual, or cultural connections with uncertainty or dissolution among the possibilities.
+- psychology: sensitivity, clarity, and disappointment concerning truth are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: high-minded efforts with others, unreliable companions, and foreign cultural ties are stated.
+- events/manifestations: dissolution of spiritual connections and metaphysical clarification are named.
+- conflicts/notes: foreign culture is not equated with unreliability; the source supplies no guarantee of metaphysical clarity.
+
+## Contradictions
+
+Witte emphasizes idealistic effort, dissolving spiritual ties, and unreliable dealings. ABC also includes cultural encounters and clarity as well as intellectual uncertainty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Node = Poseidon`: High minded efforts with others. Dissolution of spiritual connections. To be forced to have dealings with fantastic and unreliable people.
-- Practical focus: spiritualizes uncertain bonds through idealistic effort, unreliable companions, and the weakening of higher or metaphysical connections with others.
-- Practical expression: encounter with an unknown culture, detiiusizing truth in a connection, subtlety in a spiritual relationship, foreign cultural connections, and clarity in a connection through metaphysics.
+In Neptune/Node = Poseidon, connection is framed through shared ideas, culture, or spiritual interest. [Witte](#witte-entry) names high-minded efforts and the dissolution of spiritual ties; [ABC](#abc-entry) adds cultural encounters, sensitivity, disappointing truth, and uncertainty in intellectual connection (printed p. 221, PDF p. 109). The entry preserves both a search for clarity and unreliable dealings without treating foreign culture or spiritual interest as evidence of deception.
 
 ## Links
 

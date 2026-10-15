@@ -27,16 +27,39 @@ updated_at: 2026-04-21
 - Axis page: [Uranus/Uranus](../axes/uranus-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 233 (entry start).
+
+- Source catalog: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md).
 
 #### Witte Entry
 
 Quarrels. Sudden separation. To part and die. To be separated suddenly. Surprising delay. Technical problems. Sudden disturbances. Disturbed rhythm. Sudden losses. Tension in old age. Technology in idle mode (standby, shut down). Outdated technology.
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry).
+
+- core meaning: Sudden separation, interruption or delay.
+- psychology: Tension accompanies quarrels, losses or disturbed rhythm.
+- body/health: Witte's historical dying and old-age wording remains attributed.
+- social/relationship: Quarrels and abrupt partings.
+- events/manifestations: Technical problems, shutdowns and outdated equipment.
+- conflicts/notes: The social and technical examples support interruption without a universal death claim.
+
+## Contradictions
+
+One Witte entry spans separation, delay and shutdown. Its literal dying language is a severe historical association, not a required consequence of the more general interruption theme.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Uranus = Saturn`: Quarrels. Sudden separation. To part and die. To be separated suddenly. Surprising delay. Technical problems. Sudden disturbances. Disturbed rhythm. Sudden losses. Tension in old age. Technology in idle mode (standby, shut down). Outdated technology.
+In `Uranus/Uranus = Saturn`, Saturn specifies sudden disturbance as a break in continuity: a parting, surprising delay, loss or technical shutdown. [Witte](#witte-entry) connects disturbed rhythm with stalled or outdated technology as well as quarrels. Its historical reference to dying remains attributed and does not turn every interruption into a mortality claim.
 
 ## Links
 

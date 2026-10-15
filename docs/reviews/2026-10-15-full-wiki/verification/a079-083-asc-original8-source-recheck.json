@@ -1,0 +1,110 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Eight original080 reviewed records source-followed in place; zero new full-review counts. Six ABC prose repairs and two ABC locator-only verifications; Node Ebertin omitted Tendency restored; Moon printed no-to quirk preserved after independent correction.",
+  "actual_source_inspection": [
+    "ABC PDF57 printed116–117/Witte88 actual matching eight glyph rows personally inspected.",
+    "Sandbach exact108 chapter107; Ebertin PDF277 printed275 and PDF278 printed276. Neptune Ebertin spans277–278.",
+    "Node Ebertin Tendency to restored from actual text. Independent089103 Moon detail personally re-inspected: response the environmental stimuli has no to; prior grammatical insertion and proof claim corrected.",
+    "Actual enlarged PDF277/printed275 code0976 proof: verification/source-repair-review-uranus-neptune-remaining-ebertin-pdf277-moon-detail.png, personally inspected by a079-083."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-mars.md",
+      "old_abc": "Work in environmental technology, excitement at the place of work, new work partner, excited work partner, rhythmic partner work, tensions with the work partner, technical work at the place, technical activity with others, and restlessness in the environment of work",
+      "new_abc": "Work in environmental technology, excitement at the place of work, new work partner, excited work partner, rhythmic partner work, tensions with the work partner, technical work at the place, technical activity with others, and restlessness in the environment of work",
+      "printed_page": 116,
+      "finding": "All nine ABC clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-mc.md",
+      "old_abc": "Achieving minute in the environment, troubled partncr seclc, dynamic partner schele, my nervousness in the environment, my restless partner, mental arousal in the place, rhythm rneins partners, scelic partner impulses, and mental tensions in one place",
+      "new_abc": "An exciting minute in the surroundings, a partner's excited soul, a partner's dynamic soul, my nervousness in the surroundings, my restless partner, psychological excitement at the location, my partner's rhythm, emotional partner impulses, emotional tensions at a location.",
+      "printed_page": 116,
+      "finding": "Restored nine MC clauses from Aufregende Minute through seelische Spannungen; damaged soul/rhythm words resolved."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-mercury.md",
+      "old_abc": "Excitement about youth on site, excited young partners, excited opinions in the surrounding area, news about environmental racing, place for news technology, local events discuss, rhythmic movements with the partner, and restless youth in the surrounding area",
+      "new_abc": "Excitement about youth on site, excited young partners, excited opinions in the surrounding area, news about environmental reforms, place for news technology, discussing local events, rhythmic movements with the partner, and restless youth in the surrounding area",
+      "printed_page": 116,
+      "finding": "Umwelt-Reformen is environmental reforms, not environmental racing; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-moon.md",
+      "old_abc": "Excited gemtiter in the environment, dynamic woman as partner, event hour in the place, events of other folk, excited women in the place, excited gemtit of the partner, women in the environment of technology, restless environment of a people, and unrest of other folk",
+      "new_abc": "Agitated moods in the surroundings, a dynamic woman as partner, the hour of an event at the location, events of other peoples, excited women at the location, an agitated emotional state of the partner, women in technological surroundings, the restless surroundings of a people, unrest among other peoples.",
+      "printed_page": 116,
+      "finding": "Resolved Gemüter/Gemüt as moods/emotional state; all nine clauses and historical female/peoples examples retained. Independent089103 detail recheck corrected this worker's erroneous inserted to: Ebertin0976 prints response the environmental stimuli without to; printed quirk restored."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-neptune.md",
+      "old_abc": "Event place on the water, Ercignissc with other in the water, sudden encroachment with a partner, sudden insecurity at the place, surprise exchange by the partner, environmental technology of the future, and water technology at the place",
+      "new_abc": "An event location by the water, events with others in the water, sudden excitement with the partner, sudden uncertainty at the location, surprising disappointment caused by the partner, environmental technology of the future, water technology at the location.",
+      "printed_page": 117,
+      "finding": "All seven Neptune clauses restored: Aufregung is excitement, Enttäuschung is disappointment; no encroachment/exchange claim."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-node.md",
+      "old_abc": "Eventful encounter in one place, tense connection to another, contact with new partner, connected with the rhythm of the partner, connected with tensions in the environment, connecting events in one place, and connection to environmental technology",
+      "new_abc": "Eventful encounter in one place, tense connection to another, contact with new partner, connected with the rhythm of the partner, connected with tensions in the environment, connecting events in one place, and connection to environmental technology",
+      "printed_page": 116,
+      "finding": "All seven ABC clauses verified; Ebertin omitted Tendency restored from actual PDF278 printed276."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-pluto.md",
+      "old_abc": "Development of tensions with other, ncue partner development, sudden changes in the environment, reform development for the environment, environmental technology develop, and restless development of a place",
+      "new_abc": "Development of tensions with others, new partner development, a surprising change of partner, sudden changes in the surroundings, development of reform for the surroundings, developing environmental technology, restless development of a location.",
+      "printed_page": 117,
+      "finding": "Restored all seven Pluto clauses, especially surprising change of partner omitted by parser."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-poseidon.md",
+      "old_abc": "Dynamic partner ldeen, mental tensions with the partner, clear partner impulses, clarity for environmental technology, cultural event on site, new partner culture, surprising insights of the partner, impervious technology on site, and truth about environmental technology",
+      "new_abc": "Dynamic partner ideas, mental tensions with the partner, clear partner impulses, clarity for environmental technology, a cultural event at the location, new partner culture, surprising insights of the partner, rational technology at the location, truth about environmental technology.",
+      "printed_page": 117,
+      "finding": "All nine Poseidon clauses verified; Ideen=ideas and vernünftige Technik=rational technology, not impervious technology."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-mars.md",
+      "sha256": "22aa42ec55903b532843497f6957af1845cd50786ef9b578db598ec755eb5859",
+      "source_section_sha256": "72f6b2d700a4ddd80724b8ee43faabd0bef31c86f1f5e5062dc60923239bed4b"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-mc.md",
+      "sha256": "15f7f6eee698378d4a8e9dc433dbaf9f7cbe77639f2e0974407b3978286b8630",
+      "source_section_sha256": "ac102f089a4e8c36d5ea0d92f658b06b3b4999d395f9834d30be48095ddb0c0d"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-mercury.md",
+      "sha256": "d6c52c1aad9c6a3dabb12d9072e2112d608bc69407501ef9e5ad12b773e292a0",
+      "source_section_sha256": "8086e33224e6cfee8ac830401aa14594988a8893034522570ef21dd23a800e03"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-moon.md",
+      "sha256": "ee41a27f6abe8845ce8be82b20a5d065fd3e02a91d22109b97f6f27d4809d2ca",
+      "source_section_sha256": "5284d75b04a3a51379a2f9bff22d8f82dacae01d73f88ed88f051c8c3e03beed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-neptune.md",
+      "sha256": "6b105cfb12df79206e3af9c81d50d04d55aa258ad2b062d64c8ce8d78db871be",
+      "source_section_sha256": "f0080d165546dd48db4660850f89fdc6a97a67c32d01856f74bbf56814d2bf85"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-node.md",
+      "sha256": "5867b7fd037c1fb5f7c821163681a6c3881ad1dfb52afae34fec3bec2f31e220",
+      "source_section_sha256": "5c3487c38f18a9f31f386bd6708a294abe0984a0b2cc5895b13b6fe6653d86be"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-pluto.md",
+      "sha256": "bc7d38797a316d91dbe034b30b995ad1d227d87b2cfd69088b48ae3f302e0897",
+      "source_section_sha256": "c0c8686fe5f9e0b000dbae2603c77180f6cf24691ad7406b25c9707a412396c4"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-poseidon.md",
+      "sha256": "755110c6edb2bcfd49a2c1f244f72948662fe5e507a74b579ee61a87e6c8e263",
+      "source_section_sha256": "ee95a03b3acc772895209d0a369049802f9006bfee8407c5610f366b1577a00a"
+    }
+  ]
+}

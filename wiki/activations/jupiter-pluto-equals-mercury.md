@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Mercury`
 - Astronomicon formula: `V/Z = T`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto Mercury row.
+
 Thoughts, communications and news over a fortunate change or transformation. News or plans about the change of the financial status.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful developmental language, successful opinion development, successful traffic development, thoughts of joy unfold, talk about money development, different legal talk, change of youth law, and growing happiness in youth
+- Source reference: printed page 330; one-based PDF page 164, Jupiter/Pluto Mercury row; complete German wording checked.
+
+Successful discussions of development, successful unfolding of opinion, successful development of traffic, unfolding joyful thoughts, discussions of financial development, changed judicial rulings, changes in youth law, and growing happiness in youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 235, Jupiter/Pluto coded entry 0821; retained printed coded-entry locator.
 
 The gift of oration, desire to influence many people. A propaganda campaign.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Mercury entry; exact full paragraph checked, chapter begins on page 82.
 
 To study things very deeply. To have an obsessive mind. To think big. To try to figure out a way to change things fundamentally and profoundly. To be highly im pressed by philosophical ideas.
 
@@ -66,26 +76,27 @@ To study things very deeply. To have an obsessive mind. To think big. To try to 
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 Articulating and expounding upon your needs, goals, or opinions; an obsessive need for studying how to isolate yourself physically from others; you often feel you are above the law; thoughts on eliminating offensive ideas.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication about change, with strong powers of study and influence.
+- psychology: Deep or obsessive study, big thinking and philosophical ideas in Sandbach.
+- body/health: No bodily condition is named; Munkasey's physical isolation is a behavioral example.
+- social/relationship: Oration, influencing many people, public campaigning and articulating personal opinions.
+- events/manifestations: Financial-status plans, legal rulings, youth law, propaganda and educational or philosophical study.
+- conflicts/notes: Munkasey's above-the-law attitude and elimination of offensive ideas qualify a purely constructive account; source claims do not establish that every campaign is false.
 
 ## Contradictions
 
-- None recorded yet.
+Witte/ABC's favorable change communication coexists with Ebertin's propaganda and Munkasey's self-isolation or above-law attitude. Those examples are distinct possibilities; a desire for influence is not by itself evidence of deceit.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Mercury`: strong rhetoric, philosophical or political thinking, and the desire to understand and change things fundamentally. Main caution: mental inflation: ideas can harden into propaganda, obsession, or grand theories that prioritize influence over truth.
+In `Jupiter/Pluto = Mercury`, the [source entries](#source-entries) concentrate thought and language on development and consequential change. News of financial status, legal rulings and youth law give concrete subjects, while deep study and philosophical ideas can shape a far-reaching view. Ebertin adds oratory and propaganda. Munkasey supplies a sharper edge in personal opinions, isolation, feeling above the law or wanting to eliminate unwelcome ideas. The shared mental intensity can therefore support inquiry or persuasive influence without settling the quality or truth of its purpose.
 
 ## Links
 

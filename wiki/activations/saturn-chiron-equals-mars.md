@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Chiron = Mars`
 - Astronomicon formula: `W/Chiron = U`
 - Axis page: [Saturn/Chiron](../axes/saturn-chiron.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 88 (exact entry checked; chapter begins on PDF page 87).
+
 Action that is careful and focused in so exact and profound a way that healing is the result.
+
+## Comparative Schema
+
+- Core meaning: Careful, exact, and deeply focused action described as healing.
+- Psychology: Concentration and care in the manner of action.
+- Body/health: No bodily condition or clinical treatment is specified.
+- Social/relationship: No specific relationship or recipient is identified.
+- Events/manifestations: Focused action is the sole manifestation stated.
+- Conflicts/notes: The passage gives no technique or criterion by which its healing claim could be assessed.
+
+## Contradictions
+
+The passage gives no technique or criterion by which its healing claim could be assessed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Mars` makes action careful, concentrated, and exact enough to become healing. It favors disciplined intervention, precise work, and focused effort; the caution is that haste, force, or anger can spoil the very precision that makes the action useful.
+In `Saturn/Chiron = Mars`, Mars specifies the pair through the quality of action itself: careful focus and exactness. The [Sandbach entry](#sandbach-entry) attributes a healing result to action carried out profoundly in this way. It supplies no specific intervention, medical condition, or further account of the result.
 
 ## Links
 

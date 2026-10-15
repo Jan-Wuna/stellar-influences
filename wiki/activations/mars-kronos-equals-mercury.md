@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `U/¤ = T`
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Mercury Mars Kronos](../triads/mercury-mars-kronos.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ The spiritual leader. Leading. News, information or reports about government wor
 
 #### ABC Entry
 
-Special media activity, language about priority work, opinions about the work of the state, news about the activity of the state, self employed youth work, state work meetings, and important transport work
+Special media activity, conversations about priority work, opinions about state work, news about state activity, independent youth work, state work discussions, and important transport work.
+
+- Source reference: printed p. 314, PDF p. 156, Mercury row; `Gespräche` means conversations, not language as a general faculty.
+
+## Comparative Schema
+
+- core meaning: Leadership and communication about official or exceptional work.
+- psychology: Witte's spiritual-leader example concerns direction through ideas; no broader personality account is provided.
+- body/health: No specific bodily or medical implication is stated.
+- social/relationship: Work discussions, opinions on state activity and leadership are the represented interpersonal settings.
+- events/manifestations: Reports on government or unusual activity, media work, youth work and transport work are explicit examples.
+- conflicts/notes: Reporting official work and leading through ideas are related examples; the entries do not establish the truth or effectiveness of every message.
+
+## Contradictions
+
+The leader and reporting examples differ in role rather than contradicting each other. No further claim about the reliability of information is established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Mercury` gives thought and communication an executive, directive, or officially informative character.
-- Chart expression: leadership through speech or ideas, reports about governmental work, and news or messaging tied to exceptional, official, or highly organized activity.
+Mercury specifies the Mars/Kronos axis through information and direction concerning official or exceptional action. [Witte](#witte-entry) names a spiritual leader alongside reports about government work; [ABC](#abc-entry) adds media activity, discussions of priority work and opinions about the state's activity.
+
+The youth-work and transport examples extend the practical settings beyond announcements. The organizing theme is communication and coordination around important work, without assuming that every speaker holds office or that every report is authoritative.
+
+Evidence: [ABC](#abc-entry), printed p. 314, PDF p. 156; [Witte](#witte-entry), PDF p. 200 (entry start).
 
 ## Links
 

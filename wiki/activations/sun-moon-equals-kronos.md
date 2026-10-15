@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Kronos`
 - Astronomicon formula: `S/R = ¤`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: PDF page 101, Kronos entry under Sun + Moon.
+
 A time of great events for the native. Marriage before the registrar. To marry someone of the same social standing. To appear as a leader daily and hourly. To make arrangement.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Respected wife of the man, especially fabled person, woman in the center of the state, corporal dominance of the woman, personal authority of the woman, self pity between woman and man, and important people of a Y olkes
+Source locator: printed page 139 / PDF page 68, Kronos glyph row under Sun + Moon. English translation checked against the scan.
+
+The man's respected wife, an especially feelingful person, a woman at the center of the state, the woman's bodily dominance, the woman's personal authority, independence between woman and man, and important people of a nation.
+
+## Comparative Schema
+
+- Core meaning: Personal standing, authority and formal recognition in relationships.
+- Psychology: ABC includes pronounced feeling and independence between partners.
+- Body/health: ABC names a woman's bodily dominance; no health condition is specified.
+- Social/relationship: A respected wife, personal authority and marriage within the same social standing.
+- Events/manifestations: Marriage before a registrar, leadership, arrangements and a woman in a central state role.
+- Conflicts/notes: Gender and class examples remain attributed; the entries do not establish superior human worth or a guaranteed elevation in rank.
+
+## Contradictions
+
+Witte emphasizes official arrangements and social standing; ABC includes authority, independence and strong feeling. These emphases coexist without a direct conflict in the short entries.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Moon = Kronos`: rank or authority in the ordinary sphere and elevated personal standing.
-- Practical expression: respected wife of the man, especially fabled person, woman in the center of the state, corporal dominance of the woman, and personal authority of the woman.
+In `Sun/Moon = Kronos`, Kronos specifies the Sun/Moon pair through the standing and authority carried within personal bonds and social life. A relationship may receive formal recognition, while one of its participants holds a respected or leading position: [Witte's entry](#witte-entry) names the registrar, social standing and leadership; [ABC's entry](#abc-entry) adds personal authority and independence between woman and man. Its particularly feelingful person keeps emotional life within this picture of standing. The gendered and class-specific examples describe the sources' field of meaning without promising rank, prescribing a partner's status or supplying event timing.
 
 ## Links
 

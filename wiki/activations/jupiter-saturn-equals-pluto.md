@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Pluto`
 - Astronomicon formula: `V/W = Z`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Matters which are rapidly completed.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-by patience, changes in Gcld's loss, growing success through emstancy, growing success losses, and change of profit and loss
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Successful development of separation, disturbed legal development, happy development through patience, changes through loss of money, growing success through seriousness, growing disruptions of success, and alternation of gain and loss.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-A person unafraid of any necessary trouble or work to attain the de- 47 In certain cases Pluto = Jupiter/Saturn leads to an enforced change through imprisonment, in which case the political situation has to be considered. sired aims slowly but surely, immense effort. Violent changes, separation, restriction.
+- Source reference: printed pp. 226–227; one-based PDF pp. 228–229, coded entry 0790 with footnote 47 on printed p. 226.
+
+A person unafraid of any necessary trouble or work to attain the desired aims slowly but surely, immense effort. Violent changes, separation, restriction.
+
+- Footnote 47: In certain cases Pluto = Jupiter/Saturn leads to an enforced change through imprisonment, in which case the political situation has to be considered.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 79, Jupiter/Saturn, Pluto paragraph; chapter begins on p. 78.
 
 To have extremely strong and intense feelings about right and wrong. To be obsessively persistent in one’s determination. The transforming of a situation through long, hard work.
 
@@ -66,26 +78,27 @@ To have extremely strong and intense feelings about right and wrong. To be obses
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 You may have a total reversal to plans previously made; brings extremes in the changes you implement in your lifestyle; transforming your personal ideas about the future into the today’s reality; intense business activity.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Situations are completed, reversed, or transformed under strong effort ([Munkasey Entry](#munkasey-entry), p. 256).
+- Psychology: Intense conviction and obsessive persistence are explicit in Sandbach.
+- Body/health: No specific bodily or medical manifestation is established.
+- Social/relationship: Separation and restriction occur in Ebertin; imprisonment is a conditional political example, not a general prediction.
+- Events/manifestations: Witte's rapid completion contrasts with long work in Sandbach and the readable Ebertin text.
+- Conflicts/notes: Ebertin0790 spans printed pp. 226–227; footnote 47 is separated from the interrupted word desired and retains its political condition. Raw ABC inspection restores the complete seven-clause Pluto row. Sandbach's exact Pluto paragraph is on PDF p. 79.
 
 ## Contradictions
 
-- None recorded yet.
+Rapid completion and slow attainment are materially different descriptions of pace. Ebertin's footnote about imprisonment is explicitly conditional on political context and cannot be generalized.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Pluto`: uncompromising determination, ability to push through necessary trouble, and the remaking of situations by sustained force. Main caution: severity: hard work can escalate into coercion, restriction, or violent change if the drive to persist loses proportion.
+In `Jupiter/Saturn = Pluto`, Pluto specifies the pair's change and effort as intense transformation or reversal. The [Sandbach Entry](#sandbach-entry) emphasizes determined long work, and the [Ebertin Entry](#ebertin-entry) adds immense effort alongside restriction and violent change. The [Munkasey Entry](#munkasey-entry) includes reversed plans and intense business activity. The [ABC Entry](#abc-entry) adds happy development through patience and growing success through seriousness, while keeping legal disruption and alternating gain and loss. Pace is not agreed: the [Witte Entry](#witte-entry) explicitly describes rapid completion. These alternatives do not establish that persistence itself causes coercion or restriction.
 
 ## Links
 

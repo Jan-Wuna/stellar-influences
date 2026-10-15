@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Pluto Apollon`
 - Astronomicon triad-set: `V Z ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Apollon = Pluto](../activations/jupiter-apollon-equals-pluto.md)
-- [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md)
-- [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md)
+- [Jupiter/Apollon = Pluto](../activations/jupiter-apollon-equals-pluto.md): base axis [Jupiter/Apollon](../axes/jupiter-apollon.md); activator [Pluto](../factors/pluto.md).
+- [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md): base axis [Jupiter/Pluto](../axes/jupiter-pluto.md); activator [Apollon](../factors/apollon.md).
+- [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md): base axis [Pluto/Apollon](../axes/pluto-apollon.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
-- `Jupiter/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `341`
-- `Jupiter/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `331`
-- `Pluto/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `416`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Apollon = Pluto](../activations/jupiter-apollon-equals-pluto.md#witte-entry) (PDF entry-start p. 215); [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md#witte-entry) (PDF entry-start p. 210); [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md#witte-entry) (PDF entry-start p. 261).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Apollon = Pluto](../activations/jupiter-apollon-equals-pluto.md#abc-entry) (printed p. 341); [Jupiter/Pluto = Apollon](../activations/jupiter-pluto-equals-apollon.md#abc-entry) (printed p. 331); [Pluto/Apollon = Jupiter](../activations/pluto-apollon-equals-jupiter.md#abc-entry) (printed p. 416).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Pluto`: major money transactions, large sums changing hands, and circulation itself becoming a dominant factor.
-- `Jupiter/Pluto = Apollon`: agreeable change for many people and fortunate development in trade or science.
-- `Pluto/Apollon = Jupiter`: This activation emphasizes an event with pleasant consequences; A gain happening but once.
+Jupiter, Pluto and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Apollon](../axes/jupiter-apollon.md)
+- [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Pluto/Apollon](../axes/pluto-apollon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)

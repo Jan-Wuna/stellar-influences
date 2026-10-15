@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Zeus Apollon](../triads/mars-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Extensive working power. Creative scientific work Extended military measures or precautions.
+Source: “Mars + Zeus,” PDF p. 199.
+
+Extensive working power. Creative scientific work. Extended military measures or precautions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful mitigation of knowledge, working goals of science, expansion of work performance, successful work design, successful running activity, driving activity of science, and increasing will performances
+Source: “Mars + Zeus,” printed p. 313 (PDF p. 155).
+
+Strenuous efforts toward knowledge, scientific work goals, expansion of work achievements, successful work design, successful leadership activity, leading activity in science, and increasing achievements of will.
+
+## Comparative Schema
+
+- core meaning: Extensive working power through science, successful leadership, and expanded achievement.
+- psychology: Effort toward knowledge and increasing achievement of will.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Scientific leadership and extended military measures or precautions.
+- events/manifestations: Creative scientific work, expanded performance, and successful work design.
+- conflicts/notes: Military precautions are one Witte setting; they do not define all scientific or extensive work.
+
+## Contradictions
+
+Both entries include extensive work and science. Witte also names military measures, while ABC develops knowledge, leadership, and successful performance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Apollon` extends directed force into wide-ranging work, science, and large operational measures.
-- Chart expression: expansive productive power, broad technical or scientific activity, and organized effort scaled up for enterprise, logistics, or military reach.
+In `Mars/Zeus = Apollon`, Apollon specifies directed and creative effort through extensive work, science, and expanded achievement. Witte names creative scientific work and extended military measures or precautions; ABC adds effort toward knowledge, scientific goals, successful leadership, and work design. The shared emphasis is work extended in scope or accomplishment, without making the military example a necessary setting for every expression. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 313 / PDF p. 155)
 
 ## Links
 

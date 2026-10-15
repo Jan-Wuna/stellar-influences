@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/MC](../axes/chiron-mc.md)
 - Triad hub: [Saturn Chiron MC](../triads/saturn-chiron-mc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,21 @@ updated_at: 2026-04-21
 
 You feel that you can’t find your right and true place in the world. A need to let go of fears, limitations and biases that frustrate one’s connecting to spiritual realities.
 
+Source locator: one-based PDF page 103, exact activation paragraph; PDF page 102 is the chapter start. Checked against the actual PDF.
+
+## Comparative Schema
+
+- **Core meaning:** Feeling unable to find one's true place, with a need to release barriers to spiritual connection.
+- **Psychology:** Fears, limitations and biases frustrate connection to spiritual realities.
+- **Body/health:** The entry describes a felt difficulty without a clinical diagnosis or treatment.
+- **Social/relationship:** One's place in the world is at issue; no specific authority relationship or occupation is named.
+- **Events/manifestations:** Letting go of the stated fears, limitations and biases is the need Sandbach identifies.
+- **Conflicts/notes:** Feeling unable to find one's place does not establish an objective absence of that place; no timetable or destiny claim is supplied.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Saturn`: blocked vocation and the need to heal one's relationship to authority, place, and worth. Main caution: accepting limitation as destiny instead of as material for healing.
+`Chiron/MC = Saturn` describes feeling unable to find one's right place in the world. Sandbach connects this with a need to release fears, limitations and biases that obstruct connection to spiritual realities. His statement concerns a felt difficulty and the barriers to that connection, without identifying a particular career outcome. ([Sandbach Entry](#sandbach-entry))
 
 ## Links
 

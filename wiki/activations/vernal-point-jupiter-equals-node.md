@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Node](../triads/vernal-point-jupiter-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Good fortune in partnerships. Happy relationships in general. Opportunities through ochers. Successful through connections.
+- PDF page: 43 (one-based).
+
+Good fortune in partnerships. Happy relationships in general. Opportunities through others. Successful through connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful public relations, women's connections in the world, happiness through public relations Life, public relations Money, public relations Law, and beneficial public relations
+- Source page: 34; PDF page: 16 (one-based spread).
+
+Successful connections in public, women's connections in the world, good fortune through connections in public life, connection to public funds, connection to public law, and advantageous connections in public
+
+## Comparative Schema
+
+- core meaning: Public advantage obtained through connections and partnerships.
+- psychology: Happiness in relationships is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Successful partnerships and women's connections are source examples.
+- events/manifestations: Opportunities through others and links to public funds or law.
+- conflicts/notes: Connections is broader than professional public relations.
+
+## Contradictions
+
+No direct contradiction is established. Connections to money or law do not imply a particular transaction or legal outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Node`: good fortune in partnerships, happy relationships in general, opportunities through ochers, and successful through connections.
-- Practical expression: successful public relations, women's connections in the world, happiness through public relations Life, public relations Money, and public relations Law.
+In `Vernal Point/Jupiter = Node`, the route to public advantage runs through association. The [Witte entry](#witte-entry) emphasizes happy partnerships, opportunities through others, and success through connections. The restored [ABC entry](#abc-entry) places these connections in public life, including women's associations and access to public funds or law. The reading concerns beneficial links between people and public resources, without narrowing them to a particular profession.
 
 ## Links
 

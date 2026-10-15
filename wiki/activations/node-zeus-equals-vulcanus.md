@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Node Zeus Vulcanus](../triads/node-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 Several make a mighty effort. Great efforts together with others.
 
@@ -42,13 +46,27 @@ Several make a mighty effort. Great efforts together with others.
 
 #### ABC Entry
 
-Influential connection to guidance, tremendous efforts in a connection, in connection with fiery energies, powerful procreation connection, powerful achievements through a connection, and binding influence of a guidance
+- Source page: 229 (printed); PDF page: 113 (one-based; exact row checked).
+
+An influential connection to leadership, tremendous efforts within a connection, connection with fiery energies, a powerful procreative connection, mighty achievements through a connection, the binding influence of leadership.
+
+## Comparative Schema
+
+- core meaning: great shared effort and powerful achievement within a creative connection.
+- psychology: intense effort and directed influence.
+- body/health: a powerful procreative connection is stated without a fertility or medical conclusion.
+- social/relationship: several people exerting themselves together and an influential tie with leadership.
+- events/manifestations: mighty accomplishments, fiery energies and leadership exerting a binding influence.
+- conflicts/notes: The source gives strength of effort and influence, without establishing whether every tie is freely chosen or successful.
+
+## Contradictions
+
+The source gives strength of effort and influence, without establishing whether every tie is freely chosen or successful.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Vulcanus`: Several make a mighty effort. Great efforts together with others.
-- Practical focus: several make a mighty effort; also great efforts together with others.
+Vulcanus specifies `Node/Zeus` through the strength of effort people bring to a shared undertaking. The [Witte entry](#witte-entry) concentrates on several people making a mighty effort; the [ABC entry](#abc-entry) adds powerful achievement, fiery energies and an influential tie with leadership. Procreative connection is another explicit possibility. The association concentrates force toward creation or a goal, with leadership's binding influence retained rather than assumed to be benign.
 
 ## Links
 

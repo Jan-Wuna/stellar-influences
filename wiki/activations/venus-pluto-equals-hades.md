@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Pluto Hades](../triads/venus-pluto-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,30 @@ A harmonious development which is soon changing into the contrary. Ruthlessness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `281`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-Development through love services, poor harmony development, disadvantages by altering affection, renunciation of peaceful growth, preference for developments from the past, growing love criminality, and transformations through love cummers
+Development through services in love, deficient development of harmony, disadvantage through changed affection, renunciation of peaceful growth, preference for developments from the past, growing criminality in love, and transformations through sorrow in love.
+
+## Comparative Schema
+
+- core meaning: Development of harmony turns adverse or remains deficient.
+- psychology: Ruthlessness and renunciation of peaceful growth are explicit source themes.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Changing affection may bring disadvantage.
+- events/manifestations: A reversal of harmonious development and development tied to the past.
+- conflicts/notes: ABC's criminality and sorrow in love are specific adverse examples; they do not make every change of affection criminal.
+
+## Contradictions
+
+Witte's reversal and ABC's deficient harmony or adverse change overlap. Their distinct examples do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Pluto = Hades`: a harmonious development which is soon changing into the contrary.
-- Practical expression: development through love services, poor harmony development, disadvantages by altering affection, renunciation of peaceful growth, and preference for developments from the past.
+In `Venus/Pluto = Hades`, Hades specifies Venus/Pluto development through deterioration or an adverse turn. The [Witte entry](#witte-entry) describes harmony changing into its contrary and explicitly names ruthlessness. The [ABC entry](#abc-entry) adds deficient harmony, disadvantage through changed affection, relinquished peaceful growth, and transformation through sorrow in love; it also retains criminality in love as a particular adverse example. These describe damaged affection or consideration without making every difficult change a criminal one.
 
 ## Links
 

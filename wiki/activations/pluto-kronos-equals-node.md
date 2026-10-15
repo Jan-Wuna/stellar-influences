@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Pluto Node Kronos](../triads/pluto-node-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To be affected by great changes or respectively, to experience changes in one’
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special development in a connection, development of authoritat in a connection, major changes in a connection, steering changes in a connection, growing links with the state, and developing important contacts
+Editorial translation (checked against the scan): Special development in a connection, development of authority in a connection, great changes in a connection, change of direction in a connection, growing connections with the state, developing important contacts.
+
+## Comparative Schema
+
+- core meaning: Major changes experienced through connections.
+- psychology: No specific inner state is delineated.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Authority, direction, and state links within a connection.
+- events/manifestations: Changes in a connection and development of important contacts.
+- conflicts/notes: Important contacts do not necessarily mean new ties or capable people.
+
+## Contradictions
+
+Witte emphasizes being affected by change; ABC emphasizes authority and direction within connections. No incompatible claim is explicit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Node`: new ties to authority or to capable, influential people.
-- Practical expression: special development in a connection, major changes in a connection, steering changes in a connection, and growing links with the state.
+Node specifies Pluto/Kronos through connections affected by major change. The [Witte entry](#witte-entry) describes both being affected and changes in one's connections; the [ABC entry](#abc-entry) adds authority within a connection, changes of direction, and growing links with the state. Important contacts are included, but the entries do not require those contacts to be new or to bring advancement.
 
 ## Links
 

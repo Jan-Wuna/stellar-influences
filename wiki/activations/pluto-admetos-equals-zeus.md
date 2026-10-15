@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Pluto Zeus Admetos](../triads/pluto-zeus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 To be forced to make up for lost time. To increase one’s production or work under most trying and difficult circumstances. Compelled to get a lead over a person.
 
@@ -42,13 +46,27 @@ To be forced to make up for lost time. To increase one’s production or work un
 
 #### ABC Entry
 
-Developing perseverance and goals, beginning of a depressive development, beginning circulatory change, blocked procreation development, limiting development goals, grilnd performance development, and grilndlicher Veranderung through Bezugung
+- Source page: 419 (printed); PDF page: 208 (one-based; exact row checked).
+
+Developing perseverance and goal-striving, beginning of a depressive development, an incipient cyclical/circulatory change, blocked procreative development, restriction of developmental goals, thorough unfolding of achievement, thorough change through procreation.
+
+## Comparative Schema
+
+- core meaning: pressure to increase accomplishment or recover lost ground under difficult conditions.
+- psychology: perseverance, goal-striving and compulsion to get ahead.
+- body/health: ABC's Kreislauf wording can mean a cycle or circulation and identifies no bodily mechanism; its depressive and blocked procreative-development statements remain historical doctrine, not diagnoses or fertility predictions.
+- social/relationship: compulsion to gain a lead over another person is named in Witte.
+- events/manifestations: increased production under trying circumstances, blocked goals and thorough development of achievement.
+- conflicts/notes: Greater output is described under pressure; the sources do not make perseverance proof of an easy or successful outcome.
+
+## Contradictions
+
+Greater output is described under pressure; the sources do not make perseverance proof of an easy or successful outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Zeus`: to be forced to make up for lost time; To increase one’s production or work under most trying and difficult circumstances.
-- Practical expression: developing perseverance, goals, beginning of a depressive development, beginning circulatory change, and blocked procreation development.
+Zeus specifies `Pluto/Admetos` through the demand to accomplish more under trying conditions. The [Witte entry](#witte-entry) names making up lost time, increasing production and being compelled to get ahead of someone; the [ABC entry](#abc-entry) adds perseverance and thorough achievement beside blocked development and restricted goals. The pressure can produce determined effort while leaving real constraints in place. Its cyclical/circulatory, depressive and procreative language remains historical source doctrine, without a medical conclusion.
 
 ## Links
 

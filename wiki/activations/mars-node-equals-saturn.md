@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Saturn Node](../triads/mars-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 To be separated from the work connections or work. Others are the cause of it. Separation from sex unions. Death in the family.
 
@@ -45,17 +49,23 @@ To be separated from the work connections or work. Others are the cause of it. S
 
 #### ABC Entry
 
-Work mediation as a task, embittering efforts around connection, separate connections through work, concentration on work mediation, painful actions in a connection, activating connections in old age, and losing commitment to work
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
+Work placement as a task, serious efforts toward a connection, connections separated through work, concentration on work placement, painful actions within a connection, activating connections in old age, and losing the connection to work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Dragon's Head,” printed p. 217, entry 0752.
 
 Reserve, inhibitions with regard to others. Disadvantages or difficulties through unions or associations, teamwork which is rendered more difficult as time goes on, separation. (The death of blood relatives.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
 
 To hold back on asserting oneself with groups. One finds it difficult either to be more assertive, or to find different more effective ways of asserting oneself.
 
@@ -70,22 +80,21 @@ Gives you a perspective on the business and financial aspects of how groups can 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Restrained or difficult cooperation, sometimes ending in separation.
+- psychology: Reserve, inhibited assertion, serious effort, or greater insistence on one's ideas.
+- body/health: Death of family or blood relatives is an attributed historical example, not a medical forecast.
+- social/relationship: Difficult work or sexual ties; Munkasey also names sustaining friends and reciprocal group help.
+- events/manifestations: Work placement, lost work connections, separation, and contacts activated in old age.
+- conflicts/notes: Munkasey's sustained friendships and practical group help broaden the range beyond separation.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize separation and increasing difficulty; Munkasey includes sustaining friends and understanding reciprocal help. These outcomes remain side by side rather than one inevitable decline.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Saturn`: cautious teamwork, held-back participation, and hard lessons about how to work with others without losing stamina or autonomy. Main caution: progressive fragmentation: cooperation can become more difficult over time and end in separation if resentment or inhibition hardens.
+In `Mars/Node = Saturn`, Saturn specifies shared action through restraint, serious effort, and difficult connections. Sandbach describes holding back or struggling to find effective assertion; Witte and Ebertin include separations and teamwork that grows harder. ABC retains work placement and activating contacts in old age, while Munkasey adds practical group help and sustaining friends. The range therefore includes maintained ties as well as loss. Family-death examples remain attributed historical claims. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 217, entry 0752; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

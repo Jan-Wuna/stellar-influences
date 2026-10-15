@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Kronos](../triads/moon-uranus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,18 +40,35 @@ updated_at: 2026-05-04
 
 The woman who knows how to lead and to give orders. Hours of great events. Populace aroused by the authorities.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 especially excited emotional nature, dominance of a nervous woman, great tensions among the people, new self confidence of the woman, state reform for women, hour of a state event, technical superiority of a people, and important emotional impulses
 
+Source locator: printed p. 187, PDF p. 92; Kronos row visually checked.
+
+## Comparative Schema
+
+- **Core meaning:** Excitement connected with leadership, authorities, or prominent public events ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Strong arousal, nervous dominance, and new self-confidence in ABC.
+- **Body/health:** Neither entry specifies a bodily condition.
+- **Social/relationship:** Giving orders, authorities arousing a populace, and state reform affecting women.
+- **Events/manifestations:** Major or state events, collective tensions, and technical superiority.
+- **Conflicts/notes:** Leading others and being aroused by authorities describe different positions within the same setting. The gendered examples remain historical source wording.
+
+## Contradictions
+
+Leadership and collective arousal overlap without establishing that excitement is always organized or politically effective. ABC's technical-superiority and self-confidence examples are additional emphases, not direct contradictions.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Uranus = Kronos`: The woman who knows how to lead and to give orders. Hours of great events. Populace aroused by the authorities.
-- Practical focus: elevates `Moon/Uranus` through commanding disruption and authority-driven excitation. It favors leaders, high-impact events, and public arousal stirred from above, making instability more directive, organized, and politically consequential.
-- Practical expression: especially excited emotional nature, dominance of a nervous woman, great tensions among the people, new self confidence of the woman, and state reform for women.
+Kronos specifies Moon/Uranus through excitement involving leadership, authority, or events of public importance. The [Witte entry](#witte-entry) joins the ability to lead and give orders with a populace aroused by authorities; the [ABC entry](#abc-entry) adds state events, collective tension, self-confidence, and technical superiority.
+
+The connection is the prominence or authority of the setting in which arousal occurs. It can concern the person giving direction or people responding to authority; the entries do not establish that the resulting activity is necessarily organized or beneficial.
 
 ## Links
 

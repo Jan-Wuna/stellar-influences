@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [MC Kronos Poseidon](../triads/mc-kronos-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ A person of refinement and education. To be on a elevated intellectual plane. Ou
 
 #### ABC Entry
 
-Authority of the spirit soul, dominant clarity of the soul, my dominant spirit, my spiritual prestige, my special I dee, my cultural authority, my spiritual authority, my spiritual self responsiveness, and my high spirit
+- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).
+
+Authority of the spirit-soul, dominating clarity of the soul, greatness of soul and spirit, my dominant spirit, my spiritual standing, my special idea, my cultural authority, my spiritual authority, my intellectual independence (geistige Selbständigkeit), my higher reason.
+
+## Comparative Schema
+
+- **Core meaning:** Cultivated insight and intellectual authority.
+- **Psychology:** Comprehensive understanding and an authoritative outlook.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Mental leadership and cultural standing.
+- **Events/manifestations:** Education and the exercise of intellectual authority.
+- **Conflicts/notes:** ABC's geistige Selbständigkeit is intellectual or spiritual independence, while höhere Vernunft is higher reason. Its hierarchy of spiritual standing remains attributed rather than certifying personal superiority.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 99 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Witte's elevated intellectual plane and mental leadership overlap ABC's authority, independence and higher reason as source ideals.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Kronos` raises the axis into refinement, education, and intellectual leadership.
-- Chart expression: a cultivated and elevated mind, outstanding insight, and a life direction that leads others through superior understanding, teaching, or mental authority.
+Kronos specifies `MC/Poseidon` through cultivated understanding and intellectual authority. The [Witte Entry](#witte-entry) connects education and comprehensive insight with mental leadership; the [ABC Entry](#abc-entry) adds cultural authority, spiritual standing, intellectual independence and higher reason. This supports an emphasis on recognized understanding without establishing superiority over other people.
 
 ## Links
 

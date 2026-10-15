@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mars Hades Admetos](../triads/mars-hades-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ Catching cold. Difficult working conditions. Lack of work. Unemployment. Great d
 
 Perseverance in dirty work, blocked criminal work, end of dangerous work, depression by work deficiency, strike against work deficiency, hidden earth work, deepening in secret activity, and resistance against criminal activity
 
+## Comparative Schema
+
+- core meaning: Difficult or dangerous work meets shortage, blockage, endurance or resistance.
+- psychology: ABC links depression with lack of work; this remains an attributed historical claim.
+- body/health: Witte names catching cold and damage through cold, without establishing a diagnosis.
+- social/relationship: Unemployment, a strike and resistance to criminal activity are explicit.
+- events/manifestations: Ending dangerous work, blocked criminal work and hidden earth work are named.
+- conflicts/notes: Restriction can halt dangerous or criminal work as well as impede ordinary employment.
+
+## Contradictions
+
+The entries range from lack of work to ending harmful work. These are different effects of restriction, not a claim that all blocked activity is damaging.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Admetos`: stalled work, difficult service, exhausting restraint, and environments where action is reduced to grim endurance rather than progress.
+Admetos specifies the Mars/Hades axis through restricted or sustained difficult work. Lack of work and difficult conditions in [Witte](#witte-entry) connect with perseverance and shortage in [ABC](#abc-entry). ABC also names stopping dangerous work and resisting criminal activity, so blockage can concern harmful action as well as employment. Witte's cold-related statements and ABC's depression claim remain historical source assertions, not diagnoses.
+
+Evidence: Witte PDF p. 198; ABC printed p. 311, PDF p. 154.
 
 ## Links
 

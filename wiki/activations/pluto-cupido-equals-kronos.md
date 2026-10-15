@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Pluto Cupido Kronos](../triads/pluto-cupido-kronos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Development and set-up of a system of government. The form of government. Rebuil
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 409; PDF page 203.
+
 #### ABC Entry
 
-Developments in a hierarchical community, major artistic developments, changing States communities, state development community, priority Community development, and growing self sufficiency of a community
+Developments in a hierarchical community, major artistic developments, communities of states in change, a state development community, priority community development, growing self-confidence of a community.
+
+## Comparative Schema
+
+- core meaning: Development of government and hierarchical communities.
+- psychology: ABC explicitly includes growing collective self-confidence.
+- body/health: No bodily or health claim appears.
+- social/relationship: State organization and hierarchical relationships.
+- events/manifestations: Establishing government or rebuilding a state; major artistic developments.
+- conflicts/notes: Collective self-confidence is a source example, not proof of a community's independence.
+
+## Contradictions
+
+Government formation and hierarchical development are compatible. ABC also describes growing collective self-confidence; this is distinct from political self-sufficiency.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Kronos`: development and set-up of a system of government; The form of government; Rebuilding of a state.
-- Practical expression: developments in a hierarchical community, major artistic developments, state development community, priority Community development, and growing self-sufficiency of a community.
+Kronos specifies Pluto/Cupido through the organization or rebuilding of collective authority. The [Witte entry](#witte-entry) focuses on the form and establishment of government; the [ABC entry](#abc-entry) adds hierarchical communities and changing state communities. ABC also lists major artistic developments, an additional setting rather than evidence that every collective change is political.
 
 ## Links
 

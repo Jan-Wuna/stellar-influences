@@ -65,6 +65,8 @@ updated_at: 2026-05-04
 - Axis: `Sun/Poseidon`
 - Astronomicon axis: `S/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Poseidon/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
@@ -72,13 +74,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 118.
+
 One’s own education and intellectual capacity. Spiritualization of the body. The astral body. The man who becomes spiritualized. The high educated personality. The deep thinker.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Insightful man, mind in the body, spiritual center, (dee of a man, body culture, cultivated man, culture centre, person culture, personal insights, spiritualized man, and day of truth
+- Source page: printed pp. 172–173; PDF p. 85.
+
+Insightful person, mind in the body, spiritual center, idea of a man, physical culture, cultivated person, cultural center, culture of persons, personal insights, spiritualized person, day of truth.
+
+## Comparative Schema
+
+- core meaning: Personal education, insight, intellectual capacity, and spiritual cultivation. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- psychology: Deep thought and personal understanding are explicit, with a spiritual orientation rather than a specified pattern of inner conflict. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- body/health: Witte's spiritualization and astral-body language and the ABC's mind-in-body wording are metaphysical correspondences; no medical condition is established. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- social/relationship: Educated or cultivated people and a cultural center are named; the entries do not develop a particular partnership or family pattern. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- events/manifestations: Education, culture, and personal insights supply the concrete range. The ABC's `day of truth` is a source label, not an admitted prediction method. ([ABC Pair Summary](#abc-pair-summary))
+- conflicts/notes: The brief summaries share intellectual, cultural and spiritual meanings without developing an adverse counterpart. Their day label does not specify timing or a closing factor's meaning.
 
 ## Related Activations
 
@@ -103,11 +118,16 @@ Insightful man, mind in the body, spiritual center, (dee of a man, body culture,
 - [Sun/Poseidon = Vulcanus](../activations/sun-poseidon-equals-vulcanus.md)
 - [Sun/Poseidon = Zeus](../activations/sun-poseidon-equals-zeus.md)
 
+## Contradictions
+
+The entries emphasize education, culture, and spiritual understanding in different vocabulary. They do not set out a contrasting adverse pole, and their overlapping terms do not establish independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on truth, spiritual orientation, and identity shaped by ideals or higher perception.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Poseidon` concerns cultivation of the person through education, thought, insight, and spiritual understanding. The shared theme brings intellectual capacity together with the source's image of spirit or mind embodied in a person. Its range includes the deep thinker, the educated or cultivated individual, and a cultural center; it should not be narrowed to mystical perception alone. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+
+Witte's spiritualization and astral-body terms remain metaphysical source language, while the ABC adds a person's idea, personal insight, physical culture and truth. These summaries do not provide a medical claim, a developed relationship pattern, or an adverse psychological pole. A specific activation still requires its own oriented source entry. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Pluto`
 - Astronomicon formula: `X/g = Z`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Pluto entry.
+
 #### Witte Entry
 
-P Suddenly arising new connections. Exciting change of a connection. Development of a dynamic relationship.
+Suddenly arising new connections. Exciting change of a connection. Development of a dynamic relationship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 219 (PDF p. 108), Node/Uranus spread, Pluto entry.
+
 #### ABC Entry
 
-A new connection, sudden development of an encounter, sudden change in a connection, and growing difficulties in a connection
+Exciting change of a connection, development of a dynamic relationship, development of a new connection, sudden development of an encounter, sudden change in a connection, and growing unrest in a connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272–273 (PDF p. 274–275), code `0971`.
 
 #### Ebertin Entry
 
 Sudden desire to influence other people, coming under the spell or influence of another person. Exciting or upsetting experiences shared with other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Pluto entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Revolutionary new scientific or astrological ideas which you present at the meet
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intense development and change of connections. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: A drive for freedom and strong susceptibility to mutual influence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: New bonds, shared upsets, and friends who reject ideas. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden encounters, changed relationships, and novel solutions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Strong influence can move in either direction; new freedom and growing unrest are different supported expressions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Mutual influence, newly developing contacts and growing freedom coexist with unrest or rejection of one's ideas. These different possibilities do not establish that an intense connection is supportive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Pluto`: reform under pressure, powerful networks, and the ability to catalyze decisive collective shifts. Main caution: coercive upheaval: unstable bonds can merge with power struggle and produce sudden social rupture or extremity.
+Pluto specifies Uranus/Node through sudden, personally significant changes in connection. Influence can move in either direction: one may seek to affect others or become strongly influenced by them, while new freedom can transform the self. Novel ideas and shared excitement are present, but friends may also disparage one's work; an intense bond is therefore not necessarily a supportive one. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

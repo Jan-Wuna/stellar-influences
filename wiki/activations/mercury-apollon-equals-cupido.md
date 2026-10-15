@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Apollon](../axes/mercury-apollon.md)
 - Triad hub: [Mercury Cupido Apollon](../triads/mercury-cupido-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Apollon,” Cupido entry, PDF p. 170.
 
 Many social talks. Debating with many about art and science. To instruct many in an art.
 
@@ -42,13 +46,29 @@ Many social talks. Debating with many about art and science. To instruct many in
 
 #### ABC Entry
 
-Community success reports, successful youth community, discussion of joint successes, language about freedom of youth, freedom of opinion in the Community, scientific language community, and increasing language in the Community
+Source: “Merkur + Apollon,” Cupido entry, printed p. 263 / PDF p. 130. Translation checked against the German passage.
+
+Success reports of a community, successful youth community, discussing joint successes, conversations about freedom of youth, freedom of opinion within the community, scientific discussion community, increasing conversations within the community.
+
+## Comparative Schema
+
+- **Core meaning:** Communal discussion of art and science.
+- **Psychology:** Interest in exchanging and debating ideas.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Social talks, group debate and freedom of opinion.
+- **Events/manifestations:** Teaching an art and discussing joint achievements.
+- **Conflicts/notes:** Discussion and debate do not establish agreement.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 263 (entry); [Witte Entry](#witte-entry), PDF p. 170 (entry start).
+
+## Contradictions
+
+The entries share group exchange. Witte specifies debate about art and science and instruction in an art, while ABC adds shared success and freedom of opinion; discussion does not imply consensus.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Cupido` socializes the axis through artistic and scientific discussion in community.
-- Chart expression: many social talks, instruction in art, and debate shared with groups around culture, science, or collective learning.
+In `Mercury/Apollon = Cupido`, Cupido specifies scientific thought and extensive communication through a community's discussions and cultural activity. Witte joins many social talks with debate about art and science and teaching an art to many; ABC adds shared success reports, youthful freedom and freedom of opinion in a scientific discussion group. Communication becomes communal exchange and instruction, with debate left open rather than converted into guaranteed agreement. ([Witte](#witte-entry), PDF p. 170; [ABC](#abc-entry), printed p. 263 / PDF p. 130)
 
 ## Links
 

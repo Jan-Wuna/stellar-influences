@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Venus Uranus Poseidon](../triads/venus-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Harmony and harmonious relations that are the result of faith, religion and the 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 388; PDF p. 193.
+
 #### ABC Entry
 
-Emergence of Love Culture, spiritual Emergence of Love, Harmonic Culture Event, New Peace Culture, New Culture Ideas, Sudden Clarity in Love, Sudden CulturePeace, Spiritual art Impulse, and Surprising Spiritual Harmony
+Renewal of the culture of love, spiritual renewal of love, a harmonious cultural event, a new culture of peace, new cultural ideas, sudden clarity in love, sudden cultural peace, spiritual artistic impulses, surprising spiritual harmony.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Harmony associated with a shared view of life.
+- psychology: Sudden clarity in love and spiritual harmony in ABC.
+- body/health: No specific health claim is stated.
+- social/relationship: Harmonious relations through shared faith or outlook.
+- events/manifestations: ABC adds cultural, peace and artistic activity.
+- conflicts/notes: Shared belief is a stated basis of harmony, not proof that the belief is true.
+
+## Contradictions
+
+Witte links harmony to a shared outlook; ABC extends the field to renewal in love, peace and art. These are differences of emphasis. The renewal wording has been verified on printed p. 388 (PDF p. 193), rather than read as a separate doctrine of emergence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Venus`: Harmony and harmonious relations that are the result of faith, religion and the same view of life.
-- Practical expression: emergence of Love Culture, spiritual Emergence of Love, harmonic Culture Event, new Peace Culture, and new Culture Ideas.
+In `Uranus/Poseidon = Venus`, Venus specifies mental or spiritual stimulation through harmony between people who share faith or a view of life. [Witte](#witte-entry) names that relational basis; [ABC](#abc-entry) adds clarity in love and spiritual or artistic impulses. Agreement can support affection and cooperation, while these entries do not establish the truth of the shared conviction.
 
 ## Links
 

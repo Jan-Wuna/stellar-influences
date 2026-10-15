@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Neptune`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = Y`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Uranus Neptune Asc](../triads/uranus-neptune-asc.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 To depart this life. To be separated from others through death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 117; PDF p. 57.
+
 #### ABC Entry
 
-Event place on the water, Ercignissc with other in the water, sudden encroachment with a partner, sudden insecurity at the place, surprise exchange by the partner, environmental technology of the future, and water technology at the place
+An event location by the water, events with others in the water, sudden excitement with the partner, sudden uncertainty at the location, surprising disappointment caused by the partner, environmental technology of the future, water technology at the location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 275; PDF p. 277–278; entry code `0982`.
 
 #### Ebertin Entry
 
 Suffering emotionally from contact with restless people. Experiencing disappointment or falsehood, sudden undermining of associations. Sudden, sad experiences.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Confusion about expressing yourself in socially acceptable ways; the illusion th
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 117; PDF p. 57), [Ebertin](#ebertin-entry) (p. 275, entry 0982), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Sudden relational changes can undermine certainty while inviting intuitive perception.
+- psychology: Confusion, disappointed expectations, intuition, and self-deception are named alternatives.
+- body/health: Witte lists death and separation through death as historical correspondences; the other entries do not establish that outcome.
+- social/relationship: Restless contacts, falsehood, or uncertainty about social acceptance can unsettle associations.
+- events/manifestations: Sudden sad experiences, magic shows, and ABC's water-related settings are distinct examples.
+- conflicts/notes: Witte's severe claim remains separate from the psychological and intuitive descriptions.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ materially in scope: Witte names death, while the others describe relational disappointment, confusion or intuition. ABC also supplies water settings, sudden excitement, local uncertainty and disappointment through a partner. The severe death correspondence remains a separate historical claim.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Neptune`: imaginative originality, psychic delicacy, and a personal field that feels both electric and porous. Main caution: disorientation: unstable boundaries and nervous sensitivity can blur identity and invite confusion or drain.
+Neptune specifies Uranus/Asc through uncertainty in sudden encounters: associations may be undermined, and it can become difficult to distinguish an intuitive insight from an illusion about how others receive one's individuality. Refined self-presentation and insight behind appearances are supported alongside confusion and disappointment. ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).) Witte separately names death or separation through death; this stronger historical claim is retained without turning it into the expected outcome of the formula. ([Witte](#witte-entry).)
 
 ## Links
 

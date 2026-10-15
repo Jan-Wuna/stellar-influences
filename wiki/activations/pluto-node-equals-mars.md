@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Mars Pluto Node](../triads/mars-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ New connections related to planning new working agreement.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 222; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Wanting to change in a relationship, developing mediational activities, changing ways of acting in connections, establishing a growing connection, transforming activity into V, and creating changing contacts
+Editorial translation (checked against the scan): Wanting changes in a relationship, developing mediation activities, changed ways of acting within connections, establishing a growing connection, transformation of activity within connections, creating changing contacts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
 
 #### Ebertin Entry
 
 Demonstration of violence or brutality in the presence of other people. The desire to make others amenable to one's own wishes, the misfortune to be placed in someone else's hand and power.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 115 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Influential business people met thru contacts or groups; added force or invectiv
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Active change in connections, work agreements, and struggles over control.
+- psychology: Assertive effort, urgency, competitiveness, and possible domination.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Working agreements, mediation, business contacts, or being under another's power.
+- events/manifestations: New work-related ties, forceful meetings, and changes of activity within connections.
+- conflicts/notes: Violence or brutality is a specific Ebertin possibility, not the meaning of every work agreement.
 
 ## Contradictions
 
-- None recorded yet.
+Planning cooperation and coercion are different forms of contact. Neither can replace the other in an integrated reading.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Mars`: decisive cooperation under pressure, crisis teamwork, and the ability to act powerfully with or against others. Main caution: destructive group dynamics: associations can become combative, coercive, or bound together by conflict and threat.
+Mars specifies Pluto/Node through action that establishes or changes connections. The [Witte entry](#witte-entry) gives planning a new work agreement, and [ABC](#abc-entry) adds mediation and changing activity within relationships. Urgency, forceful meetings, business contacts, and competitiveness in [Munkasey](#munkasey-entry) show how active that contact can become. [Sandbach](#sandbach-entry) retains struggles over domination, and [Ebertin](#ebertin-entry) includes violence, forcing others to comply, or being placed under another's power. The range spans negotiated activity and coercion, without implying that every cooperation is crisis teamwork.
 
 ## Links
 

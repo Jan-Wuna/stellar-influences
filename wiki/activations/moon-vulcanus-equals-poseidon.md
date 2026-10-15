@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = ¨`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Vulcanus Poseidon](../triads/moon-vulcanus-poseidon.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: PDF p. 137.
+
 Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced culture people, spiritual power of a people, mental influence of a woman, enormous enlightenment of a woman, clarity by strength of faith for women, cultural achievement of women, and strong influence of a woman
+- Source passage: printed p. 205; PDF p. 101.
+
+An influential people of culture, a people's spiritual power, a woman's mental or spiritual influence, a woman's powerful enlightenment, clarity through emotional strength, the power of truth for the woman, the woman's cultural successes, and a woman's rational influence.
+
+Editorial translation checked against the German scan and Poseidon row symbol; `geistig` carries the mental or spiritual range reflected in Witte's wording.
+
+## Comparative Schema
+
+- core meaning: influence takes a mental, spiritual, or cultural form ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: clarity, enlightenment, and a conception of the world are explicit themes.
+- body/health: neither entry supplies a health claim.
+- social/relationship: mentally or spiritually interested women, superiors, and the public are Witte's examples.
+- events/manifestations: surprising others through presentation or behavior and cultural success are stated possibilities.
+- conflicts/notes: the entries invoke truth and clarity without providing a test that any particular belief is true.
+
+## Contradictions
+
+Witte's surprising presentation and ABC's cultural or spiritual influence differ in emphasis without an explicit conflict. Their shared vocabulary does not establish identical doctrines.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Poseidon`: Mentally or spiritually interested women, superiors or public. To surprise others with one’s own presentation, behavior or world conception.
-- Practical expression: influenced culture people, spiritual power of a people, mental influence of a woman, enormous enlightenment of a woman, and clarity by strength of faith for women.
+Poseidon specifies Moon/Vulcanus through the force of ideas, spiritual interests, and culture. [Witte](#witte-entry) describes a presentation, behavior, or world conception that surprises others; [ABC](#abc-entry) adds emotional strength bringing clarity, cultural achievement, and rational influence. The connecting theme is influence carried by an outlook or understanding, without certifying the truth of a particular belief.
 
 ## Links
 

@@ -1,0 +1,50 @@
+{
+  "scope": "Incoming owner repair reports are leads only; every listed candidate remains unapproved until every final changed block and locator is independently checked. Global source-repair-review.json gives the exact per-candidate decision.",
+  "generated_at": "2026-10-15T12:17:31.102Z",
+  "queue": [
+    {
+      "scope": "Mercury/Node=Neptune complete five-source section; ABC actual103 viewed, English added references still to verify",
+      "artifact": "a035-038-udo-p103.png"
+    },
+    {
+      "scope": "Root043 three Moon/Jupiter Neptune/Node/Pluto sections; exact current/ledger pulled, scans90/125 viewed, remaining actual English paragraphs to check",
+      "artifact": "ledgers/activations-043.jsonl"
+    },
+    {
+      "scope": "Mercury/Hades seven and Mercury/Jupiter14 ABC plus2 Witte repairs, all changed blocks/locators unverified",
+      "artifact": "a035-038-udo-p127.png; a035-038-udo-p121.png; a035-038-witte-p161.png"
+    },
+    {
+      "scope": "Mercury/Saturn17 ABC repairs; Moon/Hades2 already independently rechecked",
+      "artifact": "a039-042-source-repairs.json"
+    },
+    {
+      "scope": "Pluto/Vulcanus15 source repairs plus2 queued Saturn repairs",
+      "artifact": "a063-066-checkpoint-01.json"
+    },
+    {
+      "scope": "Pluto/Zeus20 actual ABC205 source repairs",
+      "artifact": "a063-066-checkpoint-02.json"
+    },
+    {
+      "scope": "Pluto/Poseidon17 and Pluto/Vulcanus3 plusWittefooter",
+      "artifact": "a060-062-source-repairs.jsonl"
+    },
+    {
+      "scope": "Uranus/Vulcanus14 source repairs",
+      "artifact": "a084-088-source-repairs.jsonl"
+    },
+    {
+      "scope": "Uranus/MC=Neptune multi-source repair pluslast3 Uranus/Vulcanus",
+      "artifact": "a079-083-source-recheck owner083/081 ledgers"
+    },
+    {
+      "scope": "Cupido/Zeus=Neptune; Cupido/Kronos Apollon,Admetos,Asc",
+      "artifact": "a010-012-abc-p212.png; a010-012-abc-p213.png"
+    },
+    {
+      "scope": "Other current candidates remain explicitly unresolved in global source-repair-review.json",
+      "artifact": "source-repair-candidates.json"
+    }
+  ]
+}

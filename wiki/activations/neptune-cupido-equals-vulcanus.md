@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Vulcanus`
 - Astronomicon formula: `Y/¡ = §`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Families, associations or societies are dissolved or separated by force.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `393`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-Resolution of a community of violence, all the power of water, influence of metaphysics in the community, energy weakness of a community, joint violence vein, violent dissolution of a community, and weak of a strong community
+Dissolution of a community of violence, the full force of water, influence of metaphysics in the community, energy weakness of a community, shared rejection of violence, violent dissolution of a community, and weaknesses of a strong community
+
+## Comparative Schema
+
+- core meaning: forceful separation of groups, with shared rejection of violence and collective weakness also represented.
+- psychology: no specific motive for imposing or rejecting force is supplied.
+- body/health: ABC's energy weakness remains a source description without a stated health condition.
+- social/relationship: families, associations, strong communities, and a community of violence are explicit settings.
+- events/manifestations: violent dissolution, collective rejection of violence, and the force of water are stated.
+- conflicts/notes: force and its rejection are different possibilities; a strong community can still have weaknesses.
+
+## Contradictions
+
+Witte emphasizes imposed force. ABC also includes shared rejection of violence, so forceful breakup is not the only collective response represented.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Vulcanus`: Families, associations or societies are dissolved or separated by force.
-- Practical focus: intensifies group and family breakup through force, showing separation imposed with pressure, compulsion, or overpowering circumstances rather than gradual drifting apart.
-- Practical expression: resolution of a community of violence, all the power of water, influence of metaphysics in the community, energy weakness of a community, and joint violence vein.
+In Neptune/Cupido = Vulcanus, Vulcanus specifies the pair through the use or rejection of force in collective life. The [Witte entry](#witte-entry) describes families and associations separated by force; [ABC](#abc-entry) adds violent dissolution, but also shared rejection of violence and weaknesses within a strong community (printed p. 393, PDF p. 195). The full force of water is a distinct environmental example. These preserve both coercive separation and opposition to violence without treating every collective weakness as compulsion.
 
 ## Links
 

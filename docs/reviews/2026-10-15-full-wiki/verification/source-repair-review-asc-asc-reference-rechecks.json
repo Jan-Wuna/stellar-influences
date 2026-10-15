@@ -1,0 +1,104 @@
+{
+  "scope": "Per-record unchanged paragraph and reformulated reference rechecks; actual PDF78/79 personally viewed and direct raw text separately matches every paragraph.",
+  "proof": [
+    {
+      "path": "wiki/activations/asc-asc-equals-admetos.md",
+      "before_sha256": "19894818add638d449f6036e626e61a4784c49b51eca5e26330c34191efebc94",
+      "after_sha256": "9789b0d536b5bb82e1c2117b072c30112a1ba19aaf67cab8002687522f84dcaa",
+      "pdf_page": 79,
+      "entry": "Settled. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.",
+      "raw_match_offset": 1830,
+      "complete_entry_normalized_length": 219,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Admetos row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-apollon.md",
+      "before_sha256": "8314df75579fbec7f2cf51a45e5b30800394e9338c353beb178175c5ab77fdbb",
+      "after_sha256": "523e01caf25fadee4af3bfc86dd64f83ccd8d482a0c943fde581f42931e4f6ca",
+      "pdf_page": 79,
+      "entry": "Equalization of others. Many acquaintances. To have customers. Acquaintance with representatives of commerce, trade and science. Matters that are take place far away or come from a distant location. To get to know many places. Interests that are spreading out into new areas. For the merchant, a growing customer base and the sale of merchandise.",
+      "raw_match_offset": 1548,
+      "complete_entry_normalized_length": 282,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Apollon row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-cupido.md",
+      "before_sha256": "a55a77d21d8f39503142d73b7dcf403d454064ff672054ee9684860d4c2d9f6d",
+      "after_sha256": "9e58bfe67ecb439380c6497c65266eadd9be92baf73bd3baba3509b938b23eaf",
+      "pdf_page": 79,
+      "entry": "The parental home. Family following. The apartment. The home. Houses. Dwellings. Social connections. Other people are united. Business partnership. Acquaintance with artists. Common endeavors. Family ties. The conditions that are present where one resides. Relations with group members. The outer appearance of the family, association or group.",
+      "raw_match_offset": 389,
+      "complete_entry_normalized_length": 282,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Cupido row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-hades.md",
+      "before_sha256": "19156796200ab929039374ebdc6eed0ed0b22d97785ffccca8cd0a671002c04b",
+      "after_sha256": "737fc9dcb506195918b29142ffec77dbfadf780c2616005ddbbf7ce43eb2e982",
+      "pdf_page": 79,
+      "entry": "Others resign, refuse or are unable. The relation to servants and the socially inferior. To come into contact with disagreeable things. Acquaintance with disagreeable people. Difficulties at the close surroundings. Contaminated environment. Ugly or old surroundings. To be in acquaintance with sick, lonely or old persons. Others are in need. Unpleasantness with other people. Formula for a physician (others are sick).",
+      "raw_match_offset": 672,
+      "complete_entry_normalized_length": 344,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Hades row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-kronos.md",
+      "before_sha256": "4fd4ea0a8f9ac7048fe6bae5a11e7d16521f70253fe7c7853acb54dd27bf6388",
+      "after_sha256": "4e52b63844a3c225ce8ee1a9aedaef7d01493e49d5f49322e6849551aaf5349a",
+      "pdf_page": 79,
+      "entry": "Things which come to the native from above. Workman. Employee. Official. Others are superiors. The influence of the state on the environment. Officials in the near. To come in touch with employees, officials or authorities. Things upon which one is dependent. Orders emanating from the authorities. Extraordinary place.",
+      "raw_match_offset": 1287,
+      "complete_entry_normalized_length": 260,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Kronos row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-mars.md",
+      "before_sha256": "5bb833501040d48fae00f91e9d7774118ea869df0f6e2e1c05a64f09e496a38f",
+      "after_sha256": "fa04bf5d018217836e0d6a0650e7cc6b44c35a75b9bd14bf7eb929c8b6ea420c",
+      "pdf_page": 78,
+      "entry": "Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.",
+      "raw_match_offset": 1516,
+      "complete_entry_normalized_length": 271,
+      "raw_page_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Mars row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-mercury.md",
+      "before_sha256": "861d4bde4c358e2a9808d6b161f000e2510d09514a586fe7b172554a4c012252",
+      "after_sha256": "6f901aad087abc61aa11968eabbb41b0272cac0d5a8ac545f3ddbf0f7f415685",
+      "pdf_page": 78,
+      "entry": "Talks, conversations and correspondence. To be the theme of conversation with others. Other people think of the native. News from other people. News about the closer environment. Exchange of ideas with acquaintances.",
+      "raw_match_offset": 1108,
+      "complete_entry_normalized_length": 178,
+      "raw_page_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Mercury row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-moon.md",
+      "before_sha256": "b667a6d4a884ad086ddd78ea25ce198c88e3c2316ba19e1f53c0818d0020ad4b",
+      "after_sha256": "de0eda25fde35924f875cd17f7619bbb0e9484da852bd3bd772d7056cf25da60",
+      "pdf_page": 78,
+      "entry": "Acquaintances with female persons. The people of the closer surroundings. To be brought into public by others. Female acquaintances. Women in the environment. Quality of the hour at this place.",
+      "raw_match_offset": 755,
+      "complete_entry_normalized_length": 158,
+      "raw_page_sha256": "a3590c6f8982897a960c9c940d096cbeecf13903ae4b828e383e8410ace403bd",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Moon row; checked on the actual scan."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-neptune.md",
+      "before_sha256": "3477ba73911ba0fc47af6aa6d7c28b7d661c69e82c08e773d13a40e3235579f7",
+      "after_sha256": "4cacfadcdc7ea98db100d274c7d590e2cda34189f23a5497d3e8118f09989114",
+      "pdf_page": 79,
+      "entry": "To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.",
+      "raw_match_offset": 1,
+      "complete_entry_normalized_length": 209,
+      "raw_page_sha256": "f563e5d2f2d8ce0313029497661b9cbdfa554daa07559131f2844f898274d214",
+      "added_reference": "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Neptune row; checked on the actual scan."
+    }
+  ]
+}

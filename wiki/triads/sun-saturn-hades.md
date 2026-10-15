@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Saturn Hades`
 - Astronomicon triad-set: `S W ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Hades = Sun](../activations/saturn-hades-equals-sun.md)
-- [Sun/Hades = Saturn](../activations/sun-hades-equals-saturn.md)
-- [Sun/Saturn = Hades](../activations/sun-saturn-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Hades = Sun](../activations/saturn-hades-equals-sun.md) | [Saturn/Hades](../axes/saturn-hades.md) | [Sun](../factors/sun.md) |
+| [Sun/Hades = Saturn](../activations/sun-hades-equals-saturn.md) | [Sun/Hades](../axes/sun-hades.md) | [Saturn](../factors/saturn.md) |
+| [Sun/Saturn = Hades](../activations/sun-saturn-equals-hades.md) | [Sun/Saturn](../axes/sun-saturn.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Saturn/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `356`
-- `Sun/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `161`
-- `Sun/Saturn = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `107`
-- `Sun/Saturn = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `151`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Saturn/Hades = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-hades-equals-sun.md#witte-entry), one-based PDF entry-start p. `225`.
+- `Saturn/Hades = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-hades-equals-sun.md#abc-entry), printed p. `356`.
+- `Sun/Hades = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-saturn.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-saturn.md#abc-entry), printed p. `161`.
+- `Sun/Saturn = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-saturn-equals-hades.md#witte-entry), one-based PDF entry-start p. `107`.
+- `Sun/Saturn = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-saturn-equals-hades.md#abc-entry), printed p. `151`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Hades = Saturn`: This formula emphasizes ill health and exhaustion.
-- `Sun/Saturn = Hades`: This formula emphasizes exhaustion, illness, or suffering under heavy conditions.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

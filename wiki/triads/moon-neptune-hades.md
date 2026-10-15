@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Hades`
 - Astronomicon triad-set: `R Y ¢`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Hades = Neptune](../activations/moon-hades-equals-neptune.md)
-- [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md)
-- [Neptune/Hades = Moon](../activations/neptune-hades-equals-moon.md)
+- [Moon/Hades = Neptune](../activations/moon-hades-equals-neptune.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Neptune](../factors/neptune.md).
+- [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Hades](../factors/hades.md).
+- [Neptune/Hades = Moon](../activations/neptune-hades-equals-moon.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `195`
-- `Moon/Neptune = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Neptune/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `394`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Hades = Neptune](../activations/moon-hades-equals-neptune.md#witte-entry) (PDF entry-start p. 131); [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md#witte-entry) (PDF entry-start p. 128); [Neptune/Hades = Moon](../activations/neptune-hades-equals-moon.md#witte-entry) (PDF entry-start p. 248).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Hades = Neptune](../activations/moon-hades-equals-neptune.md#abc-entry) (printed p. 195); [Moon/Neptune = Hades](../activations/moon-neptune-equals-hades.md#abc-entry) (printed p. 189); [Neptune/Hades = Moon](../activations/neptune-hades-equals-moon.md#abc-entry) (printed p. 394).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Neptune`: Poor abandoned wife. Widow. Worries for the future, not seeing a way out. To be in low water, without resources.
-- `Moon/Neptune = Hades`: This activation degrades `Moon/Neptune` into insomnia, bad dreams, and emotionally morbid nocturnal states. It shows the receptive imagination turned against ease, making rest, psychic openness, and inner softness vulnerable to disturbance, fear, or unhealthy fixation.
-- `Neptune/Hades = Moon`: This activation emotionalizes hidden decline through women, the public, or bodily fluids, bringing unpleasantness, clouded perception, and vulnerable collective or domestic conditions to the foreground.
+Moon, Neptune and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Hades](../axes/moon-hades.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)

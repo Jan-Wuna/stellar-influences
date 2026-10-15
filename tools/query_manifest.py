@@ -11,6 +11,7 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from tools.wiki_pages import WikiPage, iter_wiki_pages
+from tools.wiki_links import relative_link_target
 
 
 PLACEHOLDER_DERIVED_TEXT = "- None yet beyond source structuring."
@@ -45,6 +46,9 @@ def _has_real_derived_synthesis(body: str) -> bool:
 def _retrieval_role(page: WikiPage) -> str:
     page_type = page.meta.get("page_type")
     title_slug = f"{page.meta.get('title', '')} {page.meta.get('slug', '')}".casefold()
+
+    if page.meta.get("structural_only") is True:
+        return "structural_only"
 
     if page_type in {"activation", "axis", "factor"}:
         return "canonical_answer"
@@ -135,7 +139,7 @@ def build_query_manifest(root: Path) -> dict:
         "retrieval_order": [
             {"role": "canonical_answer", "use_for": "Direct interpretation of explicit formulas, axes, and factors."},
             {"role": "synthesis_note", "use_for": "Compact synthesis notes that clarify how to read combinations."},
-            {"role": "structural_only", "use_for": "Orientation safety and sibling lookups only."},
+            {"role": "structural_only", "use_for": "Orientation safety, sibling lookups, and documented structural factor identity only."},
             {"role": "source_companion", "use_for": "Supplemental source artifacts, not default answer surfaces."},
             {"role": "research_note", "use_for": "Coverage audits and comparison notes, not default answers."},
             {"role": "source_catalog", "use_for": "Bibliographic scope and ingest coverage."},
@@ -145,6 +149,7 @@ def build_query_manifest(root: Path) -> dict:
 
 
 def build_query_guide(manifest: dict) -> str:
+    guide_path = Path(manifest["root"]) / "query-guide.md"
     grouped: dict[str, list[dict]] = {}
     for page in manifest["pages"]:
         grouped.setdefault(page["retrieval_role"], []).append(page)
@@ -154,7 +159,10 @@ def build_query_guide(manifest: dict) -> str:
         if not items:
             return "- None"
         shown = items[:limit]
-        lines = [f"- {item['title']}" for item in shown]
+        lines = [
+            f"- [{item['title']}]({relative_link_target(guide_path, Path(item['path']))})"
+            for item in shown
+        ]
         if len(items) > limit:
             lines.append(f"- ... and {len(items) - limit} more")
         return "\n".join(lines)
@@ -164,7 +172,15 @@ def build_query_guide(manifest: dict) -> str:
 
     return f"""# Query Guide
 
-Use this guide and `query-manifest.json` before opening large numbers of pages.
+Use this guide and [`query-manifest.json`](query-manifest.json) before opening large numbers of pages.
+
+## Find a Page
+
+- **Exact formula:** open [Activations](index.md#activations). Preserve the factor after `=`; the other orientations of the same three factors remain separate pages.
+- **Shared pair:** open [Axes](index.md#axes). A pair has one identity regardless of factor order.
+- **Recurring factor:** open [Factors](index.md#factors) for standalone evidence, documented scope limits, and related combinations.
+- **Orientation siblings:** open [Triad Hubs](index.md#triad-hubs) for structural lookup.
+- **Source scope:** open [Sources](index.md#sources) for admitted material, provenance, and coverage limits.
 
 ## Retrieval Order
 
@@ -182,6 +198,18 @@ Use this guide and `query-manifest.json` before opening large numbers of pages.
 - Mention source differences only when they materially change the answer or the user asks.
 - Avoid using structural-only pages as doctrine.
 
+## Evidence and Limits
+
+On a factor, axis, or activation page, read **Derived Synthesis** for the integrated explanation, then follow its source-entry links into **Source Entries**. Those entries retain source-native categories and exact passage references. **Comparative Schema** groups the claims without replacing that evidence.
+
+Read the page's contradiction notes, qualifications, and open questions where present. Missing coverage does not establish an absence of meaning, and repeated wording does not establish independent corroboration. Use source companions, research notes, catalogs, and finally the raw source only to resolve a specific gap. Historical health or gender claims remain attributed statements, not diagnoses or universal facts.
+
+## Using the Manifest
+
+Filter `pages` by `page_type`, `factors`, or an exact formula in `tags`, then open the record's `path`. `retrieval_role` identifies the page's purpose; `answer_surface` marks default interpretation surfaces, while `structural_only` marks structural lookup pages. `has_real_derived_synthesis` records populated synthesis text, not a quality verdict.
+
+`answer_priority` orders retrieval, not evidential strength. `source_count` counts source-page links; check the entries themselves for independent support. The counts below describe the current generated inventory, not complete coverage of every possible combination.
+
 ## Canonical Answer Pages
 
 - Count: `{count("canonical_answer")}`
@@ -196,6 +224,7 @@ Use this guide and `query-manifest.json` before opening large numbers of pages.
 
 - Count: `{count("structural_only")}`
 - Use triad hubs only to confirm orientation siblings.
+- Explicitly marked structural factor pages establish identity and scope without supplying standalone factor doctrine.
 
 ## Source Companions
 

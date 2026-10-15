@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Mercury`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = T`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Mercury Venus](../triads/sun-mercury-venus.md)
@@ -45,7 +46,9 @@ Expressions of love through thinking or speaking. Thoughts of love. Love convers
 
 #### ABC Entry
 
-Reports about a man's kiss, day's peace speech, thoughts of harmony and love, opinions about caring love, personal love in youth, benevolent personal thoughts, and center of media arts
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, mercury row (seven clauses). Translation from the German scan:
+
+Reports about a man's art; conversations about peace during the day; thoughts of harmony and love; opinions about physical love; personal love in youth; benevolent personal thoughts; a center of media art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Mental concentration or study on developing social graces; thinking about how to
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love is thought about and expressed through speech.
+- psychology: Attention turns to giving and receiving affection effectively.
+- body/health: No health claim is supplied.
+- social/relationship: Loving communication can support another person's self-esteem.
+- events/manifestations: Love conversations, literary interests, and study of social graces are named.
+- conflicts/notes: The entries concern loving communication; they do not establish deceptive speech.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. ABC's reports about art and opinions about physical love broaden loving communication without supporting deceptive speech.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Mercury`: pleasing speech, artistic thought, and the ability to build connection through tact, wit, and refined expression. Main caution: polished evasiveness: words can become too oriented toward pleasing, smoothing, or avoiding sharper truths.
+Mercury specifies Sun/Venus as love finding words: thoughts and conversations about affection combine with artful communication and literary appreciation. Deliberate attention to social graces can make giving and receiving affection more effective and help another person recognize their own value. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

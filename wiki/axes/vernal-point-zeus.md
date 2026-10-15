@@ -57,7 +57,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `50`, chapter heading `ARIES + ZEUS` (normalized here as Vernal Point/Zeus).
 
 Laws of nature. The forces of nature. Conflagrations. Wars. General urge to activity. Procreation. Fire in general. War powers. Machines operated by steam. Railroads. Controlled fire.
 
@@ -78,7 +82,20 @@ Laws of nature. The forces of nature. Conflagrations. Wars. General urge to acti
 
 #### ABC Pair Summary
 
-Efforts in public, leading in public, creativeness in public life, public leadership, public services, public direction, public aim, public design, and fire in public
+Source reference: printed page `48`, PDF page `23`, bold pair summary.
+
+Source wording: "Anstrengungen in der Öffentlichkeit, führend in der Öffentlichkeit, Kreativität im öffentlichen Leben, öffentliche Führung, öffentliche Leistungen, öffentliche Richtung, öffentliches Ziel, Öffentlichkeits-Gestaltung, Feuer in der Öffentlichkeit".
+
+Editorial translation, checked against the scan: Efforts in public life; leading in public life; creativity in public life; public leadership; public achievements; public direction; a public goal; shaping public life; fire in public life.
+
+## Comparative Schema
+
+- Core meaning: Activity, creation, and directed effort in the public world, alongside natural forces and controlled fire.
+- Psychology: A general urge to activity and public aims are stated; the entries do not supply a broader personality profile.
+- Body/health: The pair summary includes procreation as a general theme, without a fertility or health assessment.
+- Social/relationship: Public leadership, creative contributions, direction, and goals in the ABC entry.
+- Events/manifestations: Fire, conflagrations, wars and war powers, steam-operated machines, railroads, and public creative efforts.
+- Conflicts/notes: Public creation and destructive fire or war belong to the recorded range; neither exhausts the pair's meaning.
 
 ## Related Activations
 
@@ -103,11 +120,16 @@ Efforts in public, leading in public, creativeness in public life, public leader
 - [Vernal Point/Zeus = Venus](../activations/vernal-point-zeus-equals-venus.md)
 - [Vernal Point/Zeus = Vulcanus](../activations/vernal-point-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+The entries emphasize different aspects: the pair summary names natural forces, fire, machinery, and war, while the ABC entry develops public effort, leadership, and creativity. This difference does not establish a contradiction or make every public effort a warlike activity.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes laws of nature, the forces of nature, conflagrations, wars, and general urge to activity.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Vernal Point/Zeus` connects activity and creation with the public world. The [ABC pair summary](#abc-pair-summary) describes effort given public direction through leadership, creativity, goals, and public contributions. The [pair summary](#pair-summary) gives the theme a physical range as well: the urge to activity, procreation, natural forces, and fire that may be controlled in steam machinery and railroads or appear destructively in conflagrations and war.
+
+The pair thus supports both purposeful public work and the forces through which activity takes material form. Its specific references to fire and machinery should remain visible, but they do not make war, disaster, or any one public achievement inevitable.
 
 ## Links
 

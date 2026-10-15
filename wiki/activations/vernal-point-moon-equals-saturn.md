@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Saturn](../triads/vernal-point-moon-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 A separated woman. A forsaken woman. An old woman. A widow. An old nation with dying out populace.
 
@@ -42,13 +46,27 @@ A separated woman. A forsaken woman. An old woman. A widow. An old nation with d
 
 #### ABC Entry
 
-Old women in public, women's problems in public, inhibited women in public life, feelings storings in public, pain of the mother of the world, painful hour in public, and losses for a people in public
+- Source page: 25; PDF page: 11 (one-based spread).
+
+Older women in public, women's public problems, an inhibited woman in public life, disturbances of public feeling, pains of the mothers of the world, a painful public hour, and public losses for a people
+
+## Comparative Schema
+
+- core meaning: Public collective life marked by separation, inhibition, age, or loss.
+- psychology: Disturbed feeling and inhibition are explicit.
+- body/health: Pain is named without clinical specification.
+- social/relationship: Separated or widowed women and an aging nation are source examples.
+- events/manifestations: Public losses and a painful hour.
+- conflicts/notes: Age and widowhood are not inherently diagnoses; the source's severe population example remains attributed.
+
+## Contradictions
+
+No direct contradiction is established. Older age and widowhood are specific conditions, while pain and population decline are separate adverse examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Saturn`: a separated woman, a forsaken woman, an old woman, a widow, and an old nation with dying out populace.
-- Practical expression: old women in public, women's problems in public, inhibited women in public life, feelings storings in public, and pain of the mother of the world.
+In `Vernal Point/Moon = Saturn`, public feeling is associated with separation, limits, and loss. The [Witte entry](#witte-entry) names separated or widowed women, older age, and an old nation with a declining populace. The restored [ABC entry](#abc-entry) adds inhibition, disturbed feeling, mothers' pains, and collective losses. The synthesis preserves the source's adverse emphasis while keeping age and social position distinct from illness or inevitable misfortune.
 
 ## Links
 

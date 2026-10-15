@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Cupido`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = ¡`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Cupido Zeus](../triads/sun-cupido-zeus.md)
@@ -42,13 +43,29 @@ Marital procreation. To look after the interests of others, with others. A gifte
 
 #### ABC Entry
 
-Community of persons, Centre for the performance of a community, Synthesis of persons, creative man of the arts, and determined human community
+Source: ABC printed p. 163, supplied PDF p. 80, Sonne + Zeus, cupido row (seven clauses). Translation from the German scan:
+
+Efforts of a community of persons; leadership of a community of persons; a community's performance center; personal striving toward synthesis; a personal procreative community; a creative man in the arts; a goal-directed human community.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Creative effort takes communal or collaborative form.
+- psychology: ABC includes a determined community.
+- body/health: Witte's marital-procreation phrase is attributed historical doctrine.
+- social/relationship: Looking after others' interests with others is explicit.
+- events/manifestations: Art, music, fuel businesses, and coal mines are Witte's distinct examples.
+- conflicts/notes: The industrial examples must remain distinct from artistic collaboration.
+
+## Contradictions
+
+No direct contradiction is established. ABC specifically includes communal effort, communal leadership and personal striving toward synthesis; Witte's industrial and artistic examples remain distinct alternatives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Cupido`: artist and a member of the artist circle.
-- Practical expression: community of persons, centre for the performance of a community, synthesis of persons, creative man of the arts, and determined human community.
+Cupido specifies Sun/Zeus as creation or endeavor shared with a community. Joint attention to others' interests, art, and music express that shared activity, while Witte's marital procreation gives a particular form of creating together. Fuel businesses and coal mines remain separate concrete examples within the same entry. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

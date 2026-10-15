@@ -34,11 +34,15 @@ updated_at: 2026-06-20
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter Uranus](../triads/sun-jupiter-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 Forced luck. Sudden luck. Pleasant surprises while striving for success.
 
@@ -46,17 +50,23 @@ Forced luck. Sudden luck. Pleasant surprises while striving for success.
 
 #### ABC Entry
 
-excitement in the financial center, successful daily rhythm, joy through bodily excitement, new personal legal matter, personal impulses toward success, personal advantages through technology, legal event during the day, and surprising human joy
+Source locator: printed page 149; PDF page 73 (one-based).
+
+excitement in the financial center, successful daily rhythm, joy through bodily excitement, new law concerning persons, personal impulses toward success, personal advantages through technology, legal event during the day, and surprising human joy
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 90, coded entry 0236.
 
 The expectation of good fortune, speculation, gambling. A sudden turn, sudden success.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 13 (one-based), Sun/Jupiter Uranus entry.
 
 Attaining success in ways you don’t expect, or which are odd or unusual. Success in an unusual field. Attaining success for being original, unique, or distinctly different. One comes into the limelight suddenly, or in an unexpected way. Confidence concerning what you feel is important allows you to act independently and to be free and open.
 
@@ -80,22 +90,21 @@ Ober gives sudden success, a sudden beneficial turn in life, and luck.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or unusual success, unexpected benefit and practical insight.
+- psychology: Originality, independent confidence and excitement.
+- body/health: Bodily excitement and daily rhythm are named without a specific disorder.
+- social/relationship: Sudden visibility and legal developments; no particular bond is supplied.
+- events/manifestations: Pleasant surprises, technical advantages, speculation or gambling and unexpected disruptions.
+- conflicts/notes: Unexpected benefit and disruption coexist; reforming leadership or unstable gains are not explicitly established here.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in sudden benefit. Sandbach adds originality and independence, Munkasey retains unexpected disruptions, and Ebertin names speculation or gambling without prescribing them as a route to success.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Uranus`: fortunate surprises, reforming leadership, and the ability to seize openings others miss. Main caution: volatility: excitement can lead to rash leaps, unstable gains, or speculative overconfidence.
+For `Sun/Jupiter = Uranus`, success or benefit has a sudden, unusual expression. [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [Ober](#ober-entry) describe an unexpected favorable turn; [ABC](#abc-entry) adds technical advantage, excitement and surprising joy. [Sandbach](#sandbach-entry) links success with originality and independent confidence, while [Munkasey](#munkasey-entry) adds practical insight into difficult tasks and unexpected disruptions. The formula thus retains both unusual opportunity and interruption. Ebertin's gambling or speculation examples remain particular source meanings rather than a prediction of profitable risk.
 
 ## Links
 

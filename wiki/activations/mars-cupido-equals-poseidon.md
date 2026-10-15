@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Mars Cupido Poseidon](../triads/mars-cupido-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ The moral, mental or spiritual holding together of the family, marriage, art gro
 
 Work of a spiritual community, common cultural work, common will for truth, creation of truth in of a community, clear impulses for of a community, spiritual community work, and power of action of a spiritual community
 
+## Comparative Schema
+
+- core meaning: Shared activity holds together around moral, mental or spiritual concerns.
+- psychology: A common will for truth and clear impulses are ABC themes.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Family, marriage, art groups and work partnerships are explicit.
+- events/manifestations: Cultural cooperation and marriage for moral reasons are named.
+- conflicts/notes: The entries describe shared purpose without proving a group's moral correctness.
+
+## Contradictions
+
+Witte emphasizes what holds a group together; ABC emphasizes cultural and spiritual work. These are compatible emphases within the entries, not proof of independent agreement on every detail.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Poseidon`: ethical cooperation, ideologically bonded unions, and communal action justified by conscience, education, or spiritual purpose.
+Poseidon specifies the Mars/Cupido axis through shared activity sustained by moral, mental or spiritual purpose. [Witte](#witte-entry) describes these concerns holding together families, marriages, art groups and work partnerships; [ABC](#abc-entry) gives examples in cultural work, truth and spiritual community activity. A group's shared purpose is the supported theme, while the entries do not establish that its convictions are necessarily correct.
+
+Evidence: Witte PDF p. 197; ABC printed p. 309, PDF p. 153.
 
 ## Links
 

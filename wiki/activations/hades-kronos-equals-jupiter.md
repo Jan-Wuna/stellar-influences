@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Kronos = Jupiter`
 - Astronomicon formula: `¢/¤ = V`
 - Axis page: [Hades/Kronos](../axes/hades-kronos.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: PDF p. 279.
+
 To escape mean plots. To get away with a black eye. Finance scandals. Collapse of banks. Inflation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special legal disadvantages, servants of the legal state, deprivations by the financial hierarchy, successful authorship of the past, joy in the state service, money deficiency of the state, happiness in great danger, and important financial secrets
+Source: printed p. 440; PDF p. 219, Jupiter row.
+
+German: "Besondere Rechts-Nachteile, Diener des Rechts-Staates, Entbehrungen durch die Finanz-Hierarchie, erfolgreiche Autorität der Vergangenheit, Freude am Staats-Dienst, Geld-Mangel des Staates, Glück in großer Gefahr, wichtige Finanz-Geheimnisse".
+
+English translation: Particular legal disadvantages; servants of the constitutional state; privations through the financial hierarchy; successful authority from the past; joy in state service; the state's lack of money; good fortune in great danger; important financial secrets.
+
+## Comparative Schema
+
+- Core meaning: Financial and legal adversity alongside escape, fortunate survival and valued state service ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: ABC names joy in state service.
+- Body/health: A black eye is Witte's escape expression, without a developed medical claim.
+- Social/relationship: Legal-state service, financial hierarchy and authority from the past are explicit.
+- Events/manifestations: Escaping plots, financial scandals, bank collapse, inflation and state lack of money are named.
+- Conflicts/notes: Fortune in danger and successful past authority remain substantive alternatives to loss.
+
+## Contradictions
+
+Adversity coexists with escape, fortune and successful service in both entries. The formula does not reduce all financial or public service to corruption.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Jupiter`: corruption showing up through money systems, economic leadership, or financial protection. It can show surviving a scheme, yet still moving through a field of scandal, institutional loss, and damaged prosperity.
+In `Hades/Kronos = Jupiter`, Jupiter specifies adverse authority in legal and financial settings while retaining escape from danger. Financial scandal, bank collapse, and inflation coexist with escaping a plot or getting away with a black eye ([Witte Entry](#witte-entry)). ABC adds privation through financial hierarchy and state lack of money, but also joy in state service, successful authority from the past and good fortune in great danger. Its financial secrets belong within that mixed range ([ABC Entry](#abc-entry)).
 
 ## Links
 

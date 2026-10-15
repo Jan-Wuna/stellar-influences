@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Mercury = Admetos`
 - Astronomicon formula: `S/T = ¦`
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `103`.
+
 To change from motion into a state of rest. The resting body. To die in youth. Consciousness focused on specific things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excluding personal language, depressing young people, restricted personsTransport, restrained young people, grilning personal language, deep thoughts of a person, and subordinated personal opinion
+- Source page: printed `143` (PDF `70`). Translation checked against the scan.
+
+Sustained personal conversations, depressed young people, restricted passenger traffic, inhibited young people, thorough personal conversations, a person's deep thoughts, and suppressed personal opinion.
+
+## Comparative Schema
+
+- core meaning: thinking and movement become concentrated, restricted, or still.
+- psychology: deep attention and thorough thought; also inhibition, depression, and suppressed opinion.
+- body/health: Witte describes the resting body and historically associates the formula with death in youth.
+- social/relationship: sustained conversations may coexist with difficulty expressing a personal view.
+- events/manifestations: restricted passenger traffic and a change from motion to rest.
+- conflicts/notes: concentration and suppression are distinct possibilities; the death statement is attributed doctrine, not a prediction.
+
+## Contradictions
+
+The entries describe both sustained concentration and inhibition. These are different expressions of restriction rather than a demonstrated disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mercury = Admetos`: depressed thinking and practical thought tied to the ground or the concrete.
-- Practical expression: excluding personal language, depressing young people, restricted personsTransport, and restrained young people.
+In `Sun/Mercury = Admetos`, Admetos gives thought, conversation, and bodily movement a concentrated or restricted form. Attention can settle deeply on a specific subject and conversation can become sustained and thorough; the difficult expression is inhibited speech, suppressed opinion, or depressed young people. Restricted passenger traffic and movement coming to rest extend the same theme beyond thought. ([Witte Entry](#witte-entry), PDF 103; [ABC Entry](#abc-entry), printed 143.)
+
+Witte's statement about death in youth remains a historical source association and does not establish a personal prognosis. The entries support both depth and obstruction, without showing which must occur.
 
 ## Links
 

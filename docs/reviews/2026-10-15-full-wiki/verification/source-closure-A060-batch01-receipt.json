@@ -1,0 +1,907 @@
+{
+  "batch": "source-closure-A060-batch01",
+  "status": "stable_pending_independent_audit",
+  "targets": 20,
+  "review_counts_added": 0,
+  "record_hash_contract": "SHA256 actual UTF8 JSONL record line excluding newline",
+  "source_hash_normalization": "Source Entries captured body; LF UTF8; remove terminal standalone next-section HTML anchors; strip; SHA256",
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A060-decisions.jsonl",
+  "active_or_reserved_paths_in_batch": [],
+  "bindings": [
+    {
+      "id": "A060-001",
+      "path": "wiki/activations/admetos-vulcanus-equals-poseidon.md",
+      "queue_index": 0,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-001.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "be5e27b2e5139d74a3b26660443abeb04da83a4d82826810eeb05d9de45d563e",
+      "source_entries_sha256": "7832e44a5b5ac35e7c889dba5a5d9e60d23ae9f65efdeb8181d5aa548c49296f",
+      "owner_record_sha256": "753da803b08aaca0b88b4e675829da0f9ba8a454ce8b88c118e0981b1cfeac06",
+      "owner_line": 55,
+      "actual_locators": [
+        "Reference: one-based PDF p. 311, Poseidon row.",
+        "Reference: printed p. 475 (one-based PDF p. 236), Poseidon row."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0236.png",
+          "sha256": "f8e9ae7a391571024f18eaf3b737bdd3f735275a76340f82598d0d0ad7fe06d8"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0311.png",
+          "sha256": "c224de86057335ac945717ba395e4ab5ac37082c8a63e5046b5ffbf87d794707"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Admetos/Vulcanus = Poseidon: ABC Entry retains damaged wording \"!dee\" and \"vemitive\"; no interpretation is carried into the hub."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/admetos-vulcanus-equals-poseidon.md",
+        "before_sha256": "c1e1b074b8e0623951c926589c3f47a74b01ed579e21dd28bd60adba43862807",
+        "after_sha256": "7832e44a5b5ac35e7c889dba5a5d9e60d23ae9f65efdeb8181d5aa548c49296f",
+        "ledger": "activations-001.jsonl",
+        "reason": "ABC printed475 Poseidon row says Kraft der Idee, geistige Energie und Ausdauer and vernünftige Energie-Einschränkung, supporting idea, intellectual energy/endurance and reasonable restriction. All eight clauses and locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0236.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0311.png"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "flag_resolution": "Specific !dee/vemitive flag is obsolete: current approved row restores idea and reasonable restriction; prior gate raw verification names Kraft der Idee and vernünftige Energie-Einschränkung and all eight clauses."
+    },
+    {
+      "id": "A060-002",
+      "path": "wiki/activations/apollon-admetos-equals-vulcanus.md",
+      "queue_index": 1,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-002.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "940f885b45ab88c3bb66cf4e321b704f82c40ea0c60aaf5e9e6062a4c7801385",
+      "source_entries_sha256": "974fc3e0ea0c15c61c05b9b28d047cdafacbd34f8644c0d5b45ead6e01afaa4e",
+      "owner_record_sha256": "bb67d7ae9b5ca6df6d9e878443e07611a707c69f00e4c2e1fa0dd21e40fdd95d",
+      "owner_line": 25,
+      "actual_locators": [
+        "Reference: one-based PDF p. 306, Vulcanus row.",
+        "Reference: printed p. 469 (one-based PDF p. 233), Vulcanus row."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0233.png",
+          "sha256": "e2cf317c9b3d2f3ac4fa550538d7816a3d69826a61dc79d870a1edd25fedd6b2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0306.png",
+          "sha256": "9a38f168c7b115fb8701ce96bb3221a3df374cf021eee3ce049a92a8085a625b"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not explain the physical/metaphysical scope of Urstoff-Energien; rendered literally and not expanded."
+      ],
+      "issues_checked": [
+        "Apollon/Admetos = Vulcanus: ABC Entry retains damaged wording \"grinndlichkeit\" and \"power bulb\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/apollon-admetos-equals-vulcanus.md",
+        "before_sha256": "d5be7c5d8b35d357205b21d1593f746c93c41b9a8d3adb44e433e5be38f653f6",
+        "after_sha256": "974fc3e0ea0c15c61c05b9b28d047cdafacbd34f8644c0d5b45ead6e01afaa4e",
+        "ledger": "activations-002.jsonl",
+        "reason": "ABC printed469 Vulcanus row says wissenschaftliche Gründlichkeit, eingeschränkte Macht-Fülle, Urstoff-Energien and gründliche Macht-Erfahrungen. The repaired thoroughness/fullness/primordial-matter terms match all seven clauses, with unexplained Urstoff scope retained.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0233.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0306.png"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "flag_resolution": "Specific grinndlichkeit/power bulb flag is obsolete: current approved seven-clause row restores scientific thoroughness and restricted fullness of power; unexplained Urstoff-Energien scope is preserved."
+    },
+    {
+      "id": "A060-003",
+      "path": "wiki/activations/apollon-vulcanus-equals-admetos.md",
+      "queue_index": 2,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "original_reviewer": "resume_leaf_a003_006_009",
+      "canonical_sha256": "bee8d4a694b906ad132413aa09343e09bb9aec32484ac84ebca7a3bd0d0604f3",
+      "source_entries_sha256": "99e35036de4f5204593fa50976a242b7dc0b4a324a323758b0d77d0b835b71d9",
+      "owner_record_sha256": "b9684befed55611e0faf8bd3d2d95751ee905908c2b45af78a9ce7ab5fd9b171",
+      "owner_line": 13,
+      "actual_locators": [
+        "Source locator: one-based PDF p. 307, entry start.",
+        "Source locator: printed p. 471, one-based PDF p. 234, exact row; glyph and paragraph checked on the scan."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0234.png",
+          "sha256": "7005ab5180df15f941ff86b0a0c712738733fa8421b65d4f1f5e862f6bfb700c"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0307.png",
+          "sha256": "1c6b5bd5cafca3ee9fb99f9e9e68bfab92291460a5d07e6ac75d20f5f3bc784c"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Apollon/Vulcanus = Admetos: ABC Entry retains damaged wording \"grild\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/apollon-vulcanus-equals-admetos.md",
+        "before_sha256": "39c14143b54d5cec5deb10625e24c12849c2475c5c322fb6c8bd0ceb0261326c",
+        "after_sha256": "99e35036de4f5204593fa50976a242b7dc0b4a324a323758b0d77d0b835b71d9",
+        "ledger": "activations-003.jsonl",
+        "reason": "ABC printed471 Admetos row has gründliches Wissen, gründlicher Einfluß and Kraft-Vermehrung durch Ausdauer; thorough knowledge/influence and increased strength match all eight clauses.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-udo-pdf0234.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-witte-pdf0307.png"
+        ],
+        "verified_by": "/root/source_integrity_gate"
+      },
+      "flag_resolution": "Specific grild flag is obsolete: current approved eight-clause Admetos row restores thorough knowledge/influence and strength increased through endurance."
+    },
+    {
+      "id": "A060-004",
+      "path": "wiki/activations/asc-admetos-equals-mc.md",
+      "queue_index": 3,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "44c85f15cebd9067868831d338ff2456fe50c93385c5f1cfb8347b380b9e5010",
+      "source_entries_sha256": "5316a8217f9e14762843f2849fb216cc1dfc2364efc93617e9d951d31b394da5",
+      "owner_record_sha256": "518386541bf7e1d71799b10661d3b7bdcbb8a7a9bfcad9f3793ddde3fc6ee0c7",
+      "owner_line": 39,
+      "actual_locators": [
+        "Reference: one-based PDF p. 96, MC row.",
+        "Reference: printed p. 132 (one-based PDF p. 65), MC row. The previously attached cross-reference belongs to the following Asc row."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf065.png",
+          "sha256": "b6b9864b8c22f79323e87799d88f6c782c40612dfd5aca784730a3ec973e91a9"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf096.png",
+          "sha256": "1ac2cd2ee4bb8ae90136f117038232724dac87f1b1de586371bdfc9fa282bfb5"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Asc/Admetos = MC: ABC Entry says \"seams on top\"; parser native text \"siche oben\" is a cross-reference, not a resolved standalone meaning."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-admetos-equals-mc.md",
+        "before_sha256": "fff0d470810318629882b8d96847ef7bee9316ebd82ad8fd49d53e49bb22631d",
+        "after_sha256": "5316a8217f9e14762843f2849fb216cc1dfc2364efc93617e9d951d31b394da5",
+        "ledger": "activations-003.jsonl",
+        "reason": "substantive translation/row-boundary/glyph repairs and verified locators. Complete baseline/current Source Entries and unique owning record independently read. ABC printed132–133/PDF65 exact glyph row and Witte PDF96 complete row visually checked against immutable source renders. Revised clauses preserve agency, distinct favorable/adverse meanings, gender/medical attribution and boundary; Pluto E is a second glyph; Hades/Zeus tail and MC/Asc cross-reference boundaries are correct.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf065.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf096.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl: path=wiki/activations/asc-admetos-equals-mc.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific seams on top/cross-reference flag is resolved: the complete seven-clause MC row replaces the neighboring Asc cross-reference; actual PDF65 MC/Asc boundary was independently certified."
+    },
+    {
+      "id": "A060-005",
+      "path": "wiki/activations/asc-admetos-equals-zeus.md",
+      "queue_index": 4,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "b46df2b86ddd23717f98da58d9b906ac4149616d597413731aeb1514061e671f",
+      "source_entries_sha256": "99b9e746e47aa8742b7ea75c85a76c1326d7f9ca30d70a1f678cb4b5a6d3b2cf",
+      "owner_record_sha256": "dd529ca219a0f22b7cdb28dbdc84a3e59a30f208ca05d809e2d1f0469e303ad0",
+      "owner_line": 52,
+      "actual_locators": [
+        "Reference: one-based PDF p. 96, Zeus row.",
+        "Reference: printed p. 133 (one-based PDF p. 65), Zeus row. The preceding grief and disadvantage clauses belong to Hades and are excluded here."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf065.png",
+          "sha256": "b6b9864b8c22f79323e87799d88f6c782c40612dfd5aca784730a3ec973e91a9"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf096.png",
+          "sha256": "1ac2cd2ee4bb8ae90136f117038232724dac87f1b1de586371bdfc9fa282bfb5"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Asc/Admetos = Zeus: ABC Entry retains damaged or suspect wording \"Rer\" and \"Greek environmental services\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-admetos-equals-zeus.md",
+        "before_sha256": "bcff29ba47de3b8c4072f071dc7f89072dc96b859a546d41265e9e1e82155f8b",
+        "after_sha256": "99b9e746e47aa8742b7ea75c85a76c1326d7f9ca30d70a1f678cb4b5a6d3b2cf",
+        "ledger": "activations-003.jsonl",
+        "reason": "substantive translation/row-boundary/glyph repairs and verified locators. Complete baseline/current Source Entries and unique owning record independently read. ABC printed132–133/PDF65 exact glyph row and Witte PDF96 complete row visually checked against immutable source renders. Revised clauses preserve agency, distinct favorable/adverse meanings, gender/medical attribution and boundary; Pluto E is a second glyph; Hades/Zeus tail and MC/Asc cross-reference boundaries are correct.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf065.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf096.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl: path=wiki/activations/asc-admetos-equals-zeus.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific Rer/Greek environmental services flag is obsolete: current Zeus row was independently checked against PDF65 exact glyph boundary, excluding preceding Hades grief/disadvantage tail."
+    },
+    {
+      "id": "A060-006",
+      "path": "wiki/activations/asc-apollon-equals-pluto.md",
+      "queue_index": 5,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "f418b7f61f9337fed94ddfbf97ef223a34c9f62983027d2f620fb0ba3ede1430",
+      "source_entries_sha256": "9017ae532e1b2be2e8dd648b0dba35f277a01d73c66840900efc648cece8e3ef",
+      "owner_record_sha256": "e5267e3a5a6b5fa490225fa5073cadf1da4ded06e998a3ceac73f4b88ea59e4c",
+      "owner_line": 10,
+      "actual_locators": [
+        "Source reference: one-based PDF p. 95, “Asc + Apollon,” Pluto row. The leading “B” was an alternate Pluto glyph, not prose; checked on the actual scan.",
+        "Source reference: printed p. 131 (one-based PDF p. 64), “Aszendent + Apollon,” Pluto row; checked on the actual scan. Veränderung eines Ortes and Orts-Wechsel are separate clauses: change of a place and relocation."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf064.png",
+          "sha256": "3c85258a7c435a6291568339d0f6e68b9f35d003748765643aca7b214a37a29a"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf095.png",
+          "sha256": "03c460e7f72381fdd35c25d7e96e812cb8876edf5d196eb05fdfbee9df13d533"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Asc/Apollon = Pluto retains an unresolved leading Witte/parser “B” marker. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-apollon-equals-pluto.md",
+        "before_sha256": "0e85d576b0b18bdd97d9f08126fd57e22b80038f84f46172ec45f4dcc642d7b3",
+        "after_sha256": "9017ae532e1b2be2e8dd648b0dba35f277a01d73c66840900efc648cece8e3ef",
+        "ledger": "activations-004.jsonl",
+        "reason": "substantive translation/glyph repairs and verified locators. Complete baseline/current Source Entries and unique owning record independently read. ABC printed130–131/PDF64 and Witte PDF95 complete exact glyph rows visually checked from immutable PDFs. Eight-clause Pluto row preserves separate place-change/relocation; Neptune disappointment/airspace/waterside and Venus beautification/art-trade clauses verified; printed Witte military of wording retained.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf064.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf095.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl: path=wiki/activations/asc-apollon-equals-pluto.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific leading B flag is resolved: current Witte reference identifies and excludes the alternate Pluto display glyph; exact row was independently scanned in PDF95."
+    },
+    {
+      "id": "A060-007",
+      "path": "wiki/activations/asc-apollon-equals-vernal-point.md",
+      "queue_index": 6,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "e6df417d8e9310fa9cc38f84112d2f51cab86b85f28dcf12347c10e4082e1430",
+      "source_entries_sha256": "e350e0b9f125e34c9c4eaddd1854e9f632c59072aee8451546a6b29007a7dbe7",
+      "owner_record_sha256": "ea182be524dfd6e5b4a135c783dc49e1c50a9d198bb8eaee4a1fb894c1d221f3",
+      "owner_line": 16,
+      "actual_locators": [
+        "Source reference: one-based PDF p. 95, “Asc + Apollon,” Vernal Point row; checked on the actual scan.",
+        "Source reference: printed p. 130 (one-based PDF p. 64), “Aszendent + Apollon,” Vernal Point row. The translation was checked against the complete actual glyph row, beginning “Andere sind erfolgreich im öffentlichen Leben.”"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf064.png",
+          "sha256": "3c85258a7c435a6291568339d0f6e68b9f35d003748765643aca7b214a37a29a"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf095.png",
+          "sha256": "03c460e7f72381fdd35c25d7e96e812cb8876edf5d196eb05fdfbee9df13d533"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "Vernal Point/Apollon = Asc excludes a damaged ABC clause. Asc/Apollon = Vernal Point separately reports a completed scan repair. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "Vernal Point/Apollon = Asc excludes a damaged ABC clause. Asc/Apollon = Vernal Point separately reports a completed scan repair."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-apollon-equals-vernal-point.md",
+        "before_sha256": "4d118e3f2b142d82eca14bdf95dc9ea0650272980a2666780c2a275d13f74315",
+        "after_sha256": "e350e0b9f125e34c9c4eaddd1854e9f632c59072aee8451546a6b29007a7dbe7",
+        "ledger": "activations-004.jsonl",
+        "reason": "substantive translation/glyph repairs and verified locators. Complete baseline/current Source Entries and unique owning record independently read. ABC printed130–131/PDF64 and Witte PDF95 complete exact glyph rows visually checked from immutable PDFs. Eight-clause Pluto row preserves separate place-change/relocation; Neptune disappointment/airspace/waterside and Venus beautification/art-trade clauses verified; printed Witte military of wording retained.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf064.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf095.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl: path=wiki/activations/asc-apollon-equals-vernal-point.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Assigned Asc/Apollon=Vernal Point row is already repaired and independently certified against full ABC PDF64 row. The flag also mentions another orientation; this disposition certifies only the assigned canonical target."
+    },
+    {
+      "id": "A060-008",
+      "path": "wiki/activations/asc-cupido-equals-vernal-point.md",
+      "queue_index": 7,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_reviewer": "leaf_005",
+      "canonical_sha256": "a4d96402eb45a182cd1b72825c70437258595c09847569b61444848575d1fb8e",
+      "source_entries_sha256": "3423c73a1a6c3e48e6c129bf0a36a856847c18fec797e2829ac1ebf52f42168e",
+      "owner_record_sha256": "6e8b699b0a4073ad7209458e275ffa07c79304bd7f16e0dcdca79de787615725",
+      "owner_line": 1,
+      "actual_locators": [
+        "Source locator: one-based PDF p. 91, entry start (parser evidence; not visually checked).",
+        "Source locator: printed p. 122, one-based PDF p. 60, entry under Aszendent + Cupido; verified against the scan. The parser packet's printed p. 121 locator is incorrect."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf060.png",
+          "sha256": "cf915edd22545da9bab3d922782acd18c4e84203404b155fc7fc217ea4988534"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf091.png",
+          "sha256": "5f74d497522ee22cd8f78d8af879702aa650646d6d2a73d74d579bcf11a6bd48"
+        }
+      ],
+      "remaining_limits": [],
+      "issues_checked": [
+        "The current Asc/Cupido = Vernal Point ABC entry corrects the inherited printed-page locator from 121 to 122, PDF 60; the corrected locator is shown above. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "The current Asc/Cupido = Vernal Point ABC entry corrects the inherited printed-page locator from 121 to 122, PDF 60; the corrected locator is shown above."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-cupido-equals-vernal-point.md",
+        "before_sha256": "c0a5ade743a6bb1c8ebfd7f5b4b85bbf0efddf2e8f00d1a000ce62b266f10041",
+        "after_sha256": "3423c73a1a6c3e48e6c129bf0a36a856847c18fec797e2829ac1ebf52f42168e",
+        "ledger": "activations-005.jsonl",
+        "reason": "locator-only; inherited wording/limits preserved. Complete baseline/current Source Entries and full unique owning record independently read. ABC printed122–123/PDF60 exact rows and Witte PDF91 exact rows personally checked from immutable renders. Corrected122 footer, Neptune/Pluto boundary, renewal/new-art, serious-art, vernünftige reasonable, suppression and glyph corrections confirmed. Witte musks remains a literal inherited uncertainty. Parser-only Witte locator statements independently verified here.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf060.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf091.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl: path=wiki/activations/asc-cupido-equals-vernal-point.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific incorrect printed121 locator is resolved by current printed122/PDF60 reference and independently scanned footer/row. Historical Witte parser-only qualifier does not negate the later independent PDF91 verification; no prose claim is expanded."
+    },
+    {
+      "id": "A060-009",
+      "path": "wiki/activations/asc-kronos-equals-admetos.md",
+      "queue_index": 8,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "f24d890d863b71d7d8cc6d8d8939da963a2d6e72fcc6210433c3aa6357e46c3c",
+      "source_entries_sha256": "fffe43b9d14c5c068e678b72fc9c4b97cd8ddd06c72d7fd27a07367b3076fa67",
+      "owner_record_sha256": "2f58bd13bad77af10c5b38b8770da2ada9b920a54ce6a539005ea73cf50de381",
+      "owner_line": 24,
+      "actual_locators": [
+        "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Admetos row; checked on the actual scan."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "sha256": "97b5d97f10a5f6979b20ddf62477eb404e2a6ca8147f617ca642e1cb30a65ca1"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "sha256": "56608b8b4f95088ea382a3e7c47e84f03bde0355352f873cb16d92deb23050ff"
+        }
+      ],
+      "remaining_limits": [
+        "Besondere Vertiefung am Ort is retained as special local deepening; source supplies no narrower domain."
+      ],
+      "issues_checked": [
+        "Asc/Kronos = Admetos: ABC Entry retains damaged wording \"grtindliche\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-kronos-equals-admetos.md",
+        "before_sha256": "a235a511c5cb3e279595591f9016d3e152b10d762ab03cea50d3d6e45587668d",
+        "after_sha256": "fffe43b9d14c5c068e678b72fc9c4b97cd8ddd06c72d7fd27a07367b3076fa67",
+        "ledger": "activations-005.jsonl",
+        "reason": "substantive translation/row-boundary repair and verified locator. Complete baseline/current Source Entries and full unique owning record independently read. Actual ABC printed128–129/PDF63 and Witte PDF94 exact complete glyph rows personally inspected. Active leadership/independence, authority rather than authorship, Neptune9/Pluto9 boundary, restored losses/fire/partner influence and historical agency differences all match sources. Literal undefined breadth/minute/greatness/competency expressions remain qualified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl: path=wiki/activations/asc-kronos-equals-admetos.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific grtindliche flag is obsolete: current approved ABC Admetos row restores thoroughness. Special local deepening remains undefined as a contextual source limit."
+    },
+    {
+      "id": "A060-010",
+      "path": "wiki/activations/asc-kronos-equals-mc.md",
+      "queue_index": 9,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "fe1df5cd6f0d4d0e3b4f02391e32bb3e4c12ba2ecf6fe0935b65c4b0e5c04b38",
+      "source_entries_sha256": "948147a37729aa8501b8d0036f820ce2d62c76b93c66877c2b07092ca6dc3949",
+      "owner_record_sha256": "113c0a392445fa1a20ee9a3ce72911fedbf1f8d7678e0246314c9f19a2d72562",
+      "owner_line": 30,
+      "actual_locators": [
+        "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” MC row; checked on the actual scan."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "sha256": "97b5d97f10a5f6979b20ddf62477eb404e2a6ca8147f617ca642e1cb30a65ca1"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "sha256": "56608b8b4f95088ea382a3e7c47e84f03bde0355352f873cb16d92deb23050ff"
+        }
+      ],
+      "remaining_limits": [
+        "Special/important minute at the place and partner inner greatness have no further explanation here; no timing method added."
+      ],
+      "issues_checked": [
+        "Asc/Kronos = MC: ABC Entry retains damaged wording \"mcincs\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-kronos-equals-mc.md",
+        "before_sha256": "b4607af5591a04205c651f703093d76bfc26356df07afc089d72aebf6487be70",
+        "after_sha256": "948147a37729aa8501b8d0036f820ce2d62c76b93c66877c2b07092ca6dc3949",
+        "ledger": "activations-005.jsonl",
+        "reason": "substantive translation/row-boundary repair and verified locator. Complete baseline/current Source Entries and full unique owning record independently read. Actual ABC printed128–129/PDF63 and Witte PDF94 exact complete glyph rows personally inspected. Active leadership/independence, authority rather than authorship, Neptune9/Pluto9 boundary, restored losses/fire/partner influence and historical agency differences all match sources. Literal undefined breadth/minute/greatness/competency expressions remain qualified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl: path=wiki/activations/asc-kronos-equals-mc.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific mcincs flag is obsolete: current approved ABC MC row and all personal/partner clauses were independently scanned; unexplained minute and inner greatness remain bounded."
+    },
+    {
+      "id": "A060-011",
+      "path": "wiki/activations/asc-kronos-equals-poseidon.md",
+      "queue_index": 10,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "bef33a0621a9d57b83f180529ca9dfcfe26294894040477256fdf48db72f68cf",
+      "source_entries_sha256": "e735def2d9c3f6c2e3223e95cb65a8b65e7a98207dccc530325e9b8f3b2e10eb",
+      "owner_record_sha256": "c2067e94d8f080afe779046368cecc36712c103ddc92bef9026437e076540a34",
+      "owner_line": 36,
+      "actual_locators": [
+        "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Poseidon row; checked on the actual scan.",
+        "Source reference: Udo Rudolph, printed p. 129, one-based PDF p. 63, “Aszendent + Kronos,” Poseidon glyph row; checked on the actual scan. “Andere geistig lenken” is active direction of others; “vernünftige” means reasonable, not strong. “Geistig” retains its intellectual/spiritual range, distinct from the explicit “spiritueller Ort.”"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "sha256": "97b5d97f10a5f6979b20ddf62477eb404e2a6ca8147f617ca642e1cb30a65ca1"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "sha256": "56608b8b4f95088ea382a3e7c47e84f03bde0355352f873cb16d92deb23050ff"
+        }
+      ],
+      "remaining_limits": [
+        "Geistig retains intellectual/spiritual range; no narrower domain is defined here."
+      ],
+      "issues_checked": [
+        "Asc/Kronos = Poseidon: ABC Entry retains damaged wording \"ienkens\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-kronos-equals-poseidon.md",
+        "before_sha256": "0833dee339f5ea7422127814c85f4ea7e7ff9d4a9cffd6a840baad3ec6b0489d",
+        "after_sha256": "e735def2d9c3f6c2e3223e95cb65a8b65e7a98207dccc530325e9b8f3b2e10eb",
+        "ledger": "activations-005.jsonl",
+        "reason": "substantive translation/row-boundary repair and verified locator. Complete baseline/current Source Entries and full unique owning record independently read. Actual ABC printed128–129/PDF63 and Witte PDF94 exact complete glyph rows personally inspected. Active leadership/independence, authority rather than authorship, Neptune9/Pluto9 boundary, restored losses/fire/partner influence and historical agency differences all match sources. Literal undefined breadth/minute/greatness/competency expressions remain qualified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf063.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf094.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl: path=wiki/activations/asc-kronos-equals-poseidon.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific ienkens flag is obsolete: current approved Poseidon row restores active direction of others and reasonable rather than strong, with broad geistig range retained."
+    },
+    {
+      "id": "A060-012",
+      "path": "wiki/activations/asc-mc-equals-kronos.md",
+      "queue_index": 11,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "d1f96055a3fd8c863f2b410c1c5d99a899b0e25e16ff8693831afd9b88f0fb8c",
+      "source_entries_sha256": "fb09aa8b00deb3d14931a6f64463debf57fa979e9d8964a54ecc411dc891f406",
+      "owner_record_sha256": "def634d6926db1ccddf454d5700619023d6cea05331e83db87cfcd9c96d8fb7e",
+      "owner_line": 51,
+      "actual_locators": [
+        "Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Kronos row; checked on the actual scan.",
+        "Source reference: Udo Rudolph, printed p. 61, one-based PDF p. 29, “Meridian + Aszendent,” Kronos glyph row; checked on the actual scan. “Selbständiger/Selbständigkeit” means independent/independence, “Selbstbewußtsein” self-confidence, and “Vorrang” precedence. “Seelische Autorität” retains broad inner-life scope."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf029.png",
+          "sha256": "09b25972e795f38bb34019777303fe724a0c3c68ab1fedfef311c63bbf0ec950"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf058.png",
+          "sha256": "28d9e9eaf3c6a4b3e27946cbb77eeb1e043964fd6d2b9a5f3b84c339f5bcde63"
+        }
+      ],
+      "remaining_limits": [
+        "Special minute and partner inner authority are undefined beyond the listed clauses; no timing method or narrower doctrine inferred."
+      ],
+      "issues_checked": [
+        "Asc/MC = Kronos: ABC Entry retains damaged wording \"Y orrang\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-mc-equals-kronos.md",
+        "before_sha256": "2c1a0fc6e69130e64e87c130f2f9a2dc621bba9191faa58b19085090b2c73e5c",
+        "after_sha256": "fb09aa8b00deb3d14931a6f64463debf57fa979e9d8964a54ecc411dc891f406",
+        "ledger": "activations-005.jsonl",
+        "reason": "substantive translation/omitted-clause/row-boundary repair plus all source locators verified. Complete baseline/current Source Entries and full unique owning record independently read. Personally inspected all represented actual immutable source passages, including ABC printed60–61/PDF29 and Witte58, exact Ebertin codes1107–1117 printed307–308/PDF309–310, Sandbach121–123 chapter/paragraph boundaries, Munkasey printed364/366 PDF365/367 and McBroom printed62–63 PDF73–74 where present. Added refs match; missing printed Sandbach folio and literal ambiguous/awkward source terms remain qualified.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-abc-pdf029.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-asc-mc-node-witte-pdf058.png",
+          "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl: path=wiki/activations/asc-mc-equals-kronos.md"
+        ],
+        "verified_by": "/root/activation_review_063_066"
+      },
+      "flag_resolution": "Specific Y orrang flag is obsolete: current Kronos reference and approved ABC row explicitly restore Vorrang as precedence; undefined minute/inner-authority scope retained."
+    },
+    {
+      "id": "A060-013",
+      "path": "wiki/activations/asc-poseidon-equals-admetos.md",
+      "queue_index": 12,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "72b928bbc6838ecd4df75312bba20478e74d1154a962ecb6d9609ccead03a80f",
+      "source_entries_sha256": "9c1a705df59e161309e928427ff617b9f76e59adde716bb32df4d8c7a3353b07",
+      "owner_record_sha256": "b45f416e14f67555772e7b1acd957da53acbf37fdbab29362cf09d5399ee4060",
+      "owner_line": 12,
+      "actual_locators": [
+        "Source reference: one-based PDF page 98, Ascendant + Poseidon, Admetos row.",
+        "Source reference: printed page 137, one-based PDF page 67, Aszendent + Poseidon, Admetos row. “Gründliche” means thorough; “vernünftiger Umwelt-Kreislauf” is retained as a reasonable cycle of the surroundings, whose mechanism is not explained. “Umwelt-Kultur” concerns culture in the surroundings without an explicit ecological meaning."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "sha256": "1b70f3bee147501f2286f5487f08abf92e71de239c5bab9696d3a4f488c00e6b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png",
+          "sha256": "b041e548008b6c277cfada4491c521575e9ac8c512ee53c51b11a473a51165f6"
+        }
+      ],
+      "remaining_limits": [
+        "Reasonable cycle of the surroundings is unexplained; blockage and consolidation are not described as a causal sequence."
+      ],
+      "issues_checked": [
+        "Asc/Poseidon = Admetos: ABC Entry retains damaged wording \"vemUnftiger environment Kirlauf\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-poseidon-equals-admetos.md",
+        "before_sha256": "72c5d6deb6e0b14bb175cfdeccdac292043db68fb595a837ca20ba241768dcaf",
+        "after_sha256": "9c1a705df59e161309e928427ff617b9f76e59adde716bb32df4d8c7a3353b07",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte98 and ABC67 printed136–137, all changed clauses and added references. Seven ABC clauses restore thorough idea and reasonable cycle of the surroundings; cycle mechanism remains unexplained. Witte joint deep inquiry and exact row/locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific vemUnftiger environment Kirlauf flag was personally checked in completed228 audit: current seven-clause row restores reasonable cycle of the surroundings; its mechanism remains unspecified."
+    },
+    {
+      "id": "A060-014",
+      "path": "wiki/activations/asc-poseidon-equals-cupido.md",
+      "queue_index": 13,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "526f2ff07022bc02b90183cff5ac6aa714ca604146831b16a1ea854fd6f22bb5",
+      "source_entries_sha256": "5b741f85e1e2df6d2e596dd824553d1c6107c4431487c5eaf35b20d150310488",
+      "owner_record_sha256": "c9db52b58a99b3e456fd4acf31b004cc8bc5f999d7808acb04d41a930c85e2a8",
+      "owner_line": 14,
+      "actual_locators": [
+        "Source reference: one-based PDF page 98, Ascendant + Poseidon, Cupido row. The gendered wording is retained as printed.",
+        "Source reference: printed page 137, one-based PDF page 67, Aszendent + Poseidon, Cupido row. “Ideelle” concerns ideas or ideals; “Synthese” is synthesis. The final “vernünftige Partner-Gemeinschaft” clause is restored."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "sha256": "1b70f3bee147501f2286f5487f08abf92e71de239c5bab9696d3a4f488c00e6b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png",
+          "sha256": "b041e548008b6c277cfada4491c521575e9ac8c512ee53c51b11a473a51165f6"
+        }
+      ],
+      "remaining_limits": [
+        "The entries do not explain how cultural synthesis or community agreement is maintained."
+      ],
+      "issues_checked": [
+        "Asc/Poseidon = Cupido: ABC Entry retains damaged wording \"idccllc\" and \"Synthcsc\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-poseidon-equals-cupido.md",
+        "before_sha256": "fc66feebb3424fda5002fe5785549c41ff847f01de769b39cb912be65f34b2e9",
+        "after_sha256": "5b741f85e1e2df6d2e596dd824553d1c6107c4431487c5eaf35b20d150310488",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte98 and ABC67 printed136–137, all changed clauses and added references. Eight ABC clauses restore ideas-based community, synthesis and omitted final reasonable partner community. Witte gendered family/world-concept text and row boundaries match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific idccllc/Synthcsc flag was personally checked in completed228 audit: current eight-clause row restores ideas-based community, synthesis and final reasonable partner-community clause."
+    },
+    {
+      "id": "A060-015",
+      "path": "wiki/activations/asc-poseidon-equals-mc.md",
+      "queue_index": 14,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "e4ef665ad748423e82b4fd54c9d456ca166a3b8bc7a915119ba7fda5f4648262",
+      "source_entries_sha256": "add41fad95567861f2f7654f54f00a69e182e1190219c4296d8c7a3e8fe5f9b5",
+      "owner_record_sha256": "e1096c32e7581ebe47c3bd9f360fab20fa3971f8ef0433b1abac0c2e05c99a5e",
+      "owner_line": 19,
+      "actual_locators": [
+        "Source reference: one-based PDF page 98, Ascendant + Poseidon, MC row.",
+        "Source reference: printed page 136, one-based PDF page 67, Aszendent + Poseidon, MC row. “Beseelte” and “beseelter” retain ensouled; “vergeistigter” retains spiritualized. The entry gives no further mechanism for these terms."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "sha256": "1b70f3bee147501f2286f5487f08abf92e71de239c5bab9696d3a4f488c00e6b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png",
+          "sha256": "b041e548008b6c277cfada4491c521575e9ac8c512ee53c51b11a473a51165f6"
+        }
+      ],
+      "remaining_limits": [
+        "Ensouled and spiritualized cultural wording gives no further mechanism; influence's strength or practical form is unstated."
+      ],
+      "issues_checked": [
+        "Asc/Poseidon = MC: ABC Entry retains damaged or suspect wording \"Besekltc\", \"bcselter\", \"fdeen\", \"mcines\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-poseidon-equals-mc.md",
+        "before_sha256": "ba1e31d0ec8c5b503743cc6b9f7e946bfd12fad08f54011f0078f4500bea0b77",
+        "after_sha256": "add41fad95567861f2f7654f54f00a69e182e1190219c4296d8c7a3e8fe5f9b5",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte98 and ABC67 printed136–137, all changed clauses and added references. Nine ABC clauses restore ensouled culture/place, my partner/insights/ideas/truth and spiritualized qualifier. Witte exchange and influence through others and exact locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific Besekltc/bcselter/fdeen/mcines flag was personally checked in completed228 audit: current nine-clause MC row restores ensouled culture/place, my ideas/partner/insight/truth and spiritualized qualifier."
+    },
+    {
+      "id": "A060-016",
+      "path": "wiki/activations/asc-poseidon-equals-venus.md",
+      "queue_index": 15,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "0fec6b7d6033aeaf93055c0626659b7b19a8dd16ded8fae51bf19ff1c2049e2f",
+      "source_entries_sha256": "598f45fdd0b116cc243d98a0ec5e71d979a8cd6e51d430e3349760cf8d5f4669",
+      "owner_record_sha256": "e9a5e0f9a6e1df23ef000904223d7fa2f5bb55a6a81201185511e0c97a9cdce2",
+      "owner_line": 28,
+      "actual_locators": [
+        "Source reference: one-based PDF page 98, Ascendant + Poseidon, Venus row.",
+        "Source reference: printed page 136, one-based PDF page 67, Aszendent + Poseidon, Venus row. “Vernünftige” means reasonable, not intense. “Liebes-Kultur” is retained as love culture without a specified practice or relationship form."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "sha256": "1b70f3bee147501f2286f5487f08abf92e71de239c5bab9696d3a4f488c00e6b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png",
+          "sha256": "b041e548008b6c277cfada4491c521575e9ac8c512ee53c51b11a473a51165f6"
+        }
+      ],
+      "remaining_limits": [
+        "Love culture specifies no practice or relationship form."
+      ],
+      "issues_checked": [
+        "Love culture specifies no practice or relationship form."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-poseidon-equals-venus.md",
+        "before_sha256": "90c2857e38b54eb9b2243c12dbbcd95bf9a8704e3affb7a39200b602faef15cb",
+        "after_sha256": "598f45fdd0b116cc243d98a0ec5e71d979a8cd6e51d430e3349760cf8d5f4669",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte98 and ABC67 printed136–137, all changed clauses and added references. Seven ABC clauses restore reasonable harmony, preserving love-culture scope. Witte specifically religious acquaintances/preference and both locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Flag is an actual contextual limit, not unresolved corruption: completed228 raw check confirms Liebes-Kultur love culture; current page and record correctly state no specified practice or relationship form."
+    },
+    {
+      "id": "A060-017",
+      "path": "wiki/activations/asc-poseidon-equals-zeus.md",
+      "queue_index": 16,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "06fc86980aae4c505993a0b40363dfd827eaeecca99fd60192d529d33761eae8",
+      "source_entries_sha256": "c78c2eadfbe614f0137ad2be886d8201abc0dc94c6d19fe8b760a86392f0db07",
+      "owner_record_sha256": "c49936bbdb7eae800b0dcc0f4ea52b9152a65af808453237e97ad9ec54e90dc3",
+      "owner_line": 31,
+      "actual_locators": [
+        "Source reference: one-based PDF page 98, Ascendant + Poseidon, Zeus row. Others provide the guidance.",
+        "Source reference: printed page 137, one-based PDF page 67, Aszendent + Poseidon, Zeus row. “Führende” is leading; “geistiges” permits mental or spiritual scope, and both “vergeistigte” qualifiers retain spiritualized. “Gestaltung” is shaping without a specified design profession or method."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "sha256": "1b70f3bee147501f2286f5487f08abf92e71de239c5bab9696d3a4f488c00e6b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png",
+          "sha256": "b041e548008b6c277cfada4491c521575e9ac8c512ee53c51b11a473a51165f6"
+        }
+      ],
+      "remaining_limits": [
+        "The goal content and practical shaping/guidance method are unspecified."
+      ],
+      "issues_checked": [
+        "Asc/Poseidon = Zeus: ABC Entry retains damaged or suspect wording \"Fundende\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-poseidon-equals-zeus.md",
+        "before_sha256": "efb8b29a70ea7d836a1ab593295c43dbda79cb7324fe78217c842a0c18a89ca2",
+        "after_sha256": "c78c2eadfbe614f0137ad2be886d8201abc0dc94c6d19fe8b760a86392f0db07",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte98 and ABC67 printed136–137, all changed clauses and added references. Eight ABC clauses restore leading culture, broad goal striving, spiritualized creativity and shaping; no design profession specified. Witte guidance by others and locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf98.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf67.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific Fundende flag was personally checked in completed228 audit: actual Führende is leading, restored in the complete eight-clause Zeus row."
+    },
+    {
+      "id": "A060-018",
+      "path": "wiki/activations/asc-vulcanus-equals-kronos.md",
+      "queue_index": 17,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "e754e9aaf68e12081da736fcbdac3441d14cca88feab911b2368b2a969eb17bc",
+      "source_entries_sha256": "4c45654d4fc3fbf983fea5ceef155faefba211d37a6f9f614a75c7dc89b7fc0d",
+      "owner_record_sha256": "ec91bd36e4a3dd4774ba261dc919ebb15d507a2e6d0519b7ea14ac0ee0238468",
+      "owner_line": 37,
+      "actual_locators": [
+        "Source reference: one-based PDF page 97, Ascendant + Vulcanus, Kronos row.",
+        "Source reference: printed page 135, one-based PDF page 66, Aszendent + Vulkanus, Kronos row. “Selbständigen” means independent; “Gewalt” can denote force or violence. The state and local-hierarchy clauses are explicit, while spatial energy remains undefined."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf97.png",
+          "sha256": "2a85d7e758705c28f647b3f0a82e4ad925314bab151f1522f699ec7c6b5e526b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf66.png",
+          "sha256": "aa230561eefac0e26df99ba7fb8e5a2b7eb51560eee24e5f00d2786121b388e1"
+        }
+      ],
+      "remaining_limits": [
+        "Spatial energy is undefined; authority's temperament is unstated."
+      ],
+      "issues_checked": [
+        "Asc/Vulcanus = Kronos: ABC Entry retains suspect translation \"self indigenous partner\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-vulcanus-equals-kronos.md",
+        "before_sha256": "ab75f5fec222ee369169e4855f9b52fbec3ec7667ffb198266f47a552cc85333",
+        "after_sha256": "4c45654d4fc3fbf983fea5ceef155faefba211d37a6f9f614a75c7dc89b7fc0d",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte97 and ABC66 printed134–135, all changed clauses and added references. Nine ABC clauses restore independent partner and retain local hierarchy/state power plus force/violence scope. Witte explicit wielders of state power and locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf97.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf66.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific self indigenous partner flag was personally checked in completed228 audit: actual selbständigen is independent; current nine-clause Kronos row restores it."
+    },
+    {
+      "id": "A060-019",
+      "path": "wiki/activations/asc-vulcanus-equals-mc.md",
+      "queue_index": 18,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "bdb04dbc98dec1fd64a9e89c735ac0cfd11439ad9e4383da3c1efb6513a943a8",
+      "source_entries_sha256": "b28fcfdccdec01c925753837655aabaded7aebe76b403c68964118e6581262bb",
+      "owner_record_sha256": "3ca9a239ba55c7c784a7bcb6d4a8b52ade38147e052fac7275c09556c08079a8",
+      "owner_line": 39,
+      "actual_locators": [
+        "Source reference: one-based PDF page 97, Ascendant + Vulcanus, MC row. The second phrase clarifies being taxed as being heavily drawn upon.",
+        "Source reference: printed page 134, one-based PDF page 66, Aszendent + Vulkanus, MC row. All nine clauses are retained, including the formerly omitted surrounding-influence and psychological partner-influence clauses. “Meine Stärke beim Partner” is strength with the partner; “seelisch” concerns inner or psychological life without specifying a paranormal mechanism."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf97.png",
+          "sha256": "2a85d7e758705c28f647b3f0a82e4ad925314bab151f1522f699ec7c6b5e526b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf66.png",
+          "sha256": "aa230561eefac0e26df99ba7fb8e5a2b7eb51560eee24e5f00d2786121b388e1"
+        }
+      ],
+      "remaining_limits": [
+        "Spatial energy and strong partner soul have no further mechanism; demand source/type is unspecified."
+      ],
+      "issues_checked": [
+        "Asc/Vulcanus = MC: ABC Entry retains damaged or suspect wording \"bcim Parincr\" and \"scelic\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-vulcanus-equals-mc.md",
+        "before_sha256": "3e467ebec929866eed59457434825077372567b47c6a2acc1f866d617ef2baac",
+        "after_sha256": "b28fcfdccdec01c925753837655aabaded7aebe76b403c68964118e6581262bb",
+        "ledger": "activations-006.jsonl",
+        "reason": "Read every full before/current Source Entries section and complete unique original owner record; personally read/viewed actual Witte97 and ABC66 printed134–135, all changed clauses and added references. Nine ABC clauses restore both omitted influence clauses and strength with partner, with seelisch inner/psychological scope. Witte being heavily drawn upon and exact locators match.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-witte-pdf97.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-abc-pdf66.png"
+        ],
+        "verified_by": "/root/activation_review_060_062"
+      },
+      "flag_resolution": "Specific bcim Parincr/scelic flag was personally checked in completed228 audit: current nine-clause MC row restores strength with partner and inner/psychological terms plus two omitted influence clauses."
+    },
+    {
+      "id": "A060-020",
+      "path": "wiki/activations/asc-zeus-equals-admetos.md",
+      "queue_index": 19,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "original_reviewer": "activation_review_001_022",
+      "canonical_sha256": "67adee791f5cb92abc3c284cd73e1154fda058d842b2e1d612e532f315619e9b",
+      "source_entries_sha256": "77789e30f79ca6722356d7c85628a635cf5e4f5859e86f55a5d81b197206468a",
+      "owner_record_sha256": "340e2ff54b44837f22d16896748cb9447097b5d2d9bbca90603927d4dbed1fc1",
+      "owner_line": 52,
+      "actual_locators": [
+        "Source reference: one-based PDF page 93, Ascendant + Zeus, Admetos row. The forced beginning remains alongside obstacles and opposition.",
+        "Source reference: printed page 127, one-based PDF page 62, Aszendent + Zeus, Admetos row. “Ausdauernde” retains enduring; “gründliche” means thorough. “Umwelt-Anstrengungen blockieren” names blocking efforts without specifying the agent. “Beginnende Depressionen” is retained as attributed source wording, without a clinical diagnosis or a stated cause."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-node-kronos-remaining-witte-pdf93.png",
+          "sha256": "43da20f512d026c306b2735b935db4a206a5d89c30eeba7c28847f31f4ebad62"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-node-kronos-remaining-abc-pdf62.png",
+          "sha256": "af1d19e8566359eaa914ed08b5db28798d2b7e401953f00531ffb892ae3c8a54"
+        }
+      ],
+      "remaining_limits": [
+        "Beginning depressions has no clinical definition or stated cause; agent blocking surrounding efforts is unspecified."
+      ],
+      "issues_checked": [
+        "Asc/Zeus = Admetos: ABC Entry retains damaged or suspect wording \"grilndliche\"."
+      ],
+      "existing_approval": {
+        "path": "wiki/activations/asc-zeus-equals-admetos.md",
+        "before_sha256": "59b76bbaacadc2c52a68e20042e2e2ba22d3c05ad5566f65bc935643afb3b7e4",
+        "after_sha256": "77789e30f79ca6722356d7c85628a635cf5e4f5859e86f55a5d81b197206468a",
+        "ledger": "activations-006.jsonl",
+        "reason": "Full before/current source sections and unique006 owner record read. Actual Witte PDF93 Admetos three sentences verified, including forced beginning; ABC PDF62 printed127 eight-clause glyph row independently inspected. Enduring (Ausdauernde), thorough (gründliche), beginning depressions and unspecified blocking agency are accurately restored; both added refs exact.",
+        "evidence": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-node-kronos-remaining-witte-pdf93.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-node-kronos-remaining-abc-pdf62.png"
+        ],
+        "verified_by": "/root/activation_review_079_083"
+      },
+      "flag_resolution": "Specific grilndliche flag is obsolete: prior independent raw check of ABC PDF62/127 restores thorough, enduring effort and beginning depressions, preserving unspecified blocking agency and no clinical inference."
+    }
+  ]
+}

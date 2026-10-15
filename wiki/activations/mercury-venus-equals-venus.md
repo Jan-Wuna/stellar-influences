@@ -28,9 +28,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 150 (entry page); source heading: `MERCURY/VENUS With Itself`.
 
 - Source heading: `MERCURY/VENUS With Itself`
 - Source page: `150`
@@ -41,22 +45,21 @@ Composure when addressing others, especially in formal settings; additional cons
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Composed expression and versatility in artistic technique are emphasized.
+- psychology: Awareness of how music or art works is explicit.
+- body/health: No bodily or health statement is present.
+- social/relationship: The entry places composure particularly in formal address to others.
+- events/manifestations: Versatility across artistic or musical methods is the concrete manifestation.
+- conflicts/notes: This is one Munkasey entry for a repeated-factor orientation, without a distinct triad hub.
 
 ## Contradictions
 
-- None recorded yet.
+There is only one source entry here, so cross-source agreement or disagreement cannot be assessed. This is one Munkasey entry for a repeated-factor orientation, without a distinct triad hub.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Venus`: Composure when addressing others, especially in formal settings; additional consciousness of the mechanics of music or art; a versatility with the forms of expression or technique used in specific modes of art or music.
+In Munkasey's `Mercury/Venus = Venus`, the repeated Venus specifies the axis through composure and facility with artistic form. [The entry](#munkasey-entry), printed p. 150, joins poised address in formal settings to awareness of technique and versatility in music or art. It establishes this particular emphasis, without supplying independent corroboration or a claim of artistic success.
 
 ## Links
 

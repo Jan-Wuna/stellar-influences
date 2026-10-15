@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -43,11 +48,16 @@ The proper tone of the body is only gained throughout the course of the lifetime
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `153`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
-Dynamic development of a person, unfolding of a personal rhythm, developing corporal tensions, sudden change of person, surprising change of person, and growing reforms for the people
+Dynamic development of a person, unfolding of a personal rhythm, developing corporal tensions, sudden change of person, surprising personal change, and growing reforms for the people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `96`, PDF p. `98`, entry `0262` (raw scan checked).
 
 #### Ebertin Entry
 
@@ -55,14 +65,17 @@ A radical reformer, the desire to rearrange things. Tragic experiences, great ph
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source locator: PDF p. `18` (complete Pluto entry; chapter starts on p. `17`; raw scan checked).
+
 #### Sandbach Entry
 
-Deriving a sense of power, or extreme oppression, from one’s most unique qual ities and gifts. An extremely intense need to pursue one’s own goals in life. Something unusual that is important to one eats away at the self until you acknowledge and follow it.
+Deriving a sense of power, or extreme oppression, from one’s most unique qualities and gifts. An extremely intense need to pursue one’s own goals in life. Something unusual that is important to one eats away at the self until you acknowledge and follow it.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS with Planets and Points`
-- Source page: `80`
+- Source locator: printed p. `80`, PDF p. `81` (complete entry; raw scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Provoking others with constant rebelliousness and distractions; disruptions of o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Tension and sudden change become transformation, reform or an intense pursuit of individual goals.
+- psychology: Unique qualities may be experienced as power or oppression; the need to follow one's goals can be intense.
+- body/health: Witte names nervousness and neuralgia; Ebertin records physical suffering/restriction as historical possibilities.
+- social/relationship: Provoking others or attacking their individuality to gain recognition is Munkasey's specific adverse example.
+- events/manifestations: Personal development, expanding reforms, rearrangement and Ebertin's imprisonment example are represented.
+- conflicts/notes: Development and restriction differ in emphasis; intensity does not establish strategic wisdom or constructive renewal.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Pluto`: profound renewal, strategic rebellion, and the power to force change where systems have calcified. Main caution: extremity: tension can turn destructive, coercive, or obsessed with rupture for its own sake.
+In `Sun/Uranus = Pluto`, Pluto gives sudden excitation a developmental and forceful expression: personal rhythm and reforms unfold, tension transforms, and there is a desire to rearrange things ([ABC](#abc-entry), printed p. 153; [Witte](#witte-entry); [Ebertin](#ebertin-entry), entry 0262). Unique qualities may feel empowering or oppressive, intensifying the pursuit of one's own goals ([Sandbach](#sandbach-entry), PDF p. 18). [Munkasey](#munkasey-entry) also describes provoking or disrupting others for recognition. The bodily suffering and restriction examples remain attributed possibilities; neither beneficial renewal nor destructive conduct follows inevitably from this formula.
 
 ## Links
 

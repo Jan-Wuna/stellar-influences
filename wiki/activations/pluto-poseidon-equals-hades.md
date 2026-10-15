@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Poseidon](../axes/pluto-poseidon.md)
 - Triad hub: [Pluto Hades Poseidon](../triads/pluto-hades-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 264 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To fail with one’s emotional or mental attitude.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 423; PDF page 210 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Degraded mental development, developing dangerous ideas, adverse cultural changes, hidden mental development, growing cultural crime, growing lack of clarity, and truth unfolding from the past
+Editorial translation (checked against the scan): Impeded mental/spiritual development, developing dangerous ideas, adverse cultural changes, hidden mental/spiritual development, growing cultural criminality, growing lack of clarity, unfolding of truth from the past.
+
+## Comparative Schema
+
+- core meaning: Difficult mental or emotional development and failure of an attitude.
+- psychology: Dangerous ideas, obscured understanding, and growing lack of clarity are attributed possibilities.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Adverse cultural change and cultural criminality are specific source examples.
+- events/manifestations: Impeded or hidden development and truth emerging from the past.
+- conflicts/notes: Secrecy and past origins do not by themselves establish crime or failure.
+
+## Contradictions
+
+Failure, impeded development, and hidden development are distinct claims; the latter is not necessarily a moral judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Poseidon = Hades`: to fail with one’s emotional or mental attitude.
-- Practical expression: degraded mental development, developing dangerous ideas, adverse cultural changes, hidden mental development, and growing cultural crime.
+Hades specifies Pluto/Poseidon through difficulty in developing an outlook or sustaining a mental or emotional attitude. The [Witte entry](#witte-entry) names failure of that attitude; the [ABC entry](#abc-entry) includes impeded development, dangerous ideas, adverse cultural changes, and growing lack of clarity. Hidden development and truth emerging from the past extend the range beyond overt failure, while cultural criminality remains a narrower attributed possibility.
 
 ## Links
 

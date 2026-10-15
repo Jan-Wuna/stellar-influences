@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Saturn Vulcanus](../triads/vernal-point-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 To watch, to guard, to supervise, to shadow. Surveillance. Restriction of public energy.
 
@@ -42,13 +46,29 @@ To watch, to guard, to supervise, to shadow. Surveillance. Restriction of public
 
 #### ABC Entry
 
-Energy problems in the world, power concentration in the public, power problems in the world, dead ends in public, and separation from the public power. Losses by public violence
+- Source page: 57; PDF page: 27 (one-based spread).
+
+Energy problems in the world, concentration of public power, power problems in the world, disturbing influences in public, separation from public power, and losses through public force or violence.
+
+## Comparative Schema
+
+- core meaning: Public energy or power is restricted, concentrated or lost.
+- psychology: The entries emphasize constraint rather than a distinct mental state.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Guarding, supervising and separation from power.
+- events/manifestations: Surveillance, energy problems, disturbing influences and losses.
+- conflicts/notes: Supervision and loss are distinct branches; concentration need not imply expansion.
+
+## Contradictions
+
+Witte emphasizes guarding and restriction. ABC adds concentration, separation and losses as other conditions of public power.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Saturn`: to watch, to guard, to supervise, to shadow, surveillance, and restriction of public energy.
-- Practical expression: energy problems in the world, power concentration in the public, power problems in the world, dead ends in public, and separation from the public power. Losses by public violence.
+`Vernal Point/Vulcanus = Saturn` places public power under limits and control. Witte gives watching, guarding, supervision and surveillance; ABC adds concentrated power and energy or power problems. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Disturbing influences, separation from public power and losses through force describe the adverse branch. These outcomes should remain distinguishable from the more administrative task of supervising or guarding energy. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-10-15T13:58:17.997Z",
+  "verified_by": "/root/source_integrity_gate",
+  "verdict": "RESOLVED",
+  "entries": [
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+      "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+      "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+      "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo wield a surprisingly great power of attraction. To suddenly fall passionately in love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExchangeable peace power, subtle Licbcs energy, massive love exchange, metaphysical influence, new art, strong I, to metaphysics, preference for water energy, and influence on future peace",
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source reference: one-based PDF p. 188, Venus + Vulcanus, Neptune row; the preceding sudden-attraction row belongs to Uranus and is excluded.\n\nFaked or pretended love or attraction. Passing fancy or affection. The sexual urge is muddled, unclear and confused.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Neptune row; complete nine-clause row checked.\n\nEditorial translation, checked against the scan: Disappointing power of peace, subtle or immaterial love energy, great disappointment in love, metaphysical influence on art, new artistic influences, weak power of peace, strong love of metaphysics, preference for water energy, and influencing future peace.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -4,3 +4,5 @@\n\n \n-To wield a surprisingly great power of attraction. To suddenly fall passionately in love.\n+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Neptune row; the preceding sudden-attraction row belongs to Uranus and is excluded.\n+\n+Faked or pretended love or attraction. Passing fancy or affection. The sexual urge is muddled, unclear and confused.\n \n@@ -10,2 +12,4 @@\n\n \n-Exchangeable peace power, subtle Licbcs energy, massive love exchange, metaphysical influence, new art, strong I, to metaphysics, preference for water energy, and influence on future peace\n+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Neptune row; complete nine-clause row checked.\n+\n+Editorial translation, checked against the scan: Disappointing power of peace, subtle or immaterial love energy, great disappointment in love, metaphysical influence on art, new artistic influences, weak power of peace, strong love of metaphysics, preference for water energy, and influencing future peace.",
+      "decision": "accepted_after_owner_record_amendment",
+      "source_verification": "complete",
+      "reason": "Both raw source blocks passed this gate's direct scan check. The amended owner record was subsequently fully independently reread and rebound by targeted-twelve verifier; exact source hash unchanged.",
+      "raw_observations": [
+        "Witte Neptune row starts Faked or pretended love or attraction; three complete sentences end muddled, unclear and confused. Previous sudden-attraction paragraph is the separate Uranus glyph row.",
+        "ABC Neptune nine clauses: Enttäuschende Friedens-Macht; feinstoffliche Liebes-Energie; gewaltige Liebes-Enttäuschung; metaphysischer Kunst-Einfluß; neue Kunst-Einflüsse; schwache Friedens-Macht; starke Liebe zur Metaphysik; Vorliebe für Wasser-Energie; zukünftigen Frieden beeinflussen."
+      ],
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf188.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf146.png"
+      ],
+      "initial_owner_snapshot": [
+        {
+          "ledger": "activations-091.jsonl",
+          "line": 39,
+          "record": {
+            "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+            "reviewer": "activations-091-092-leaf",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Keyword synthesis repeated damaged translation; six-category schema and contradiction assessment absent.",
+              "“exchangeable” and “massive love exchange” mistranslate Enttauschende/Enttauschung; “strong I, to metaphysics” is incomplete"
+            ],
+            "changes": [
+              "Explained distinct strands of sudden attraction and metaphysical influence.",
+              "Added early interpretation link, six evidence-based categories, bounded contradictions, local evidence links and adjacent anchor; excluded damaged wording."
+            ],
+            "verification": [
+              "Read full page and manifest record.",
+              "Inspected German evidence and locator granularity; compared revised prose to complete entries.",
+              "Actual batch diff inspected; source/frontmatter preserved; orientation and adjacent anchor checked."
+            ],
+            "unresolved": [
+              "ABC 'exchangeable peace power', 'massive love exchange', 'subtle Licbcs energy', 'strong I, to metaphysics' damaged; native Enttauschung indicates disappointment.",
+              "Witte PDF188 glyph-to-entry mapping suspected and escalated; source passage preserved pending audit."
+            ],
+            "evidence": [
+              "wiki/activations/venus-vulcanus-equals-neptune.md#witte-entry (PDF188 entry-start)",
+              "wiki/activations/venus-vulcanus-equals-neptune.md#abc-entry (printed295/PDF146)"
+            ]
+          }
+        }
+      ],
+      "resolution": {
+        "verified_by": "/root/activation_review_010_012",
+        "reason": "Read full baseline/current Source Entries and full final amended unique091 record. Personally read actual Witte188 text/full scan: both Uranus glyph variants label sudden attraction, while Neptune labels exactly the three current sentences about pretended love, passing affection and confused sexual urge. Actual ABC146/printed295 Neptune row/text/full scan confirms all nine translated clauses, including art, weak peace power, metaphysics and water energy. Both added references and amended receipt match.",
+        "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+        "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+        "ledger": "activations-091.jsonl",
+        "evidence": [
+          "verification/source-repair-review-targeted-eleven-abc-pdf146.png",
+          "verification/source-repair-review-targeted-eleven-witte-pdf188.png"
+        ],
+        "independent_bank": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-targeted-twelve-allowances.json"
+      },
+      "initial_reason": "Personally inspected Witte188 full Neptune glyph row and ABC146 printed295 complete nine-clause row. Both current source blocks and new references match. Unique existing091line39 still claims source preserved/uncorrected and retains obsolete damage/mapping holds; must be amended and independently reread before approval."
+    }
+  ],
+  "resolved_at": "2026-10-15T14:21:37.757Z"
+}

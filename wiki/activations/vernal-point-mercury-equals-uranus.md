@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Uranus](../triads/vernal-point-mercury-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 News in general. Newspaper accounts. Telegrams. E-mails. News and information distributed with technical assistance.
 
@@ -42,13 +46,27 @@ News in general. Newspaper accounts. Telegrams. E-mails. News and information di
 
 #### ABC Entry
 
-Excitement about youth in the public life, dynamic youth in the public sphere, excited speech in the public sphere, tense public opinion, youth rcform in the public life, media events in the public sphere, and exciting public sphere Verkchr
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Excitement about youth in public life, dynamic youth in public, excited public conversations, tense public opinion, reform involving youth in public life, a public media event, and tension-filled public traffic
+
+## Comparative Schema
+
+- core meaning: Public communication animated by events, tension, and technical distribution.
+- psychology: Excitement and tense opinion are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Dynamic youth and excited public conversations.
+- events/manifestations: News, newspapers, telegrams, email, media events, and reform.
+- conflicts/notes: Technical communication and tension are different emphases; no inevitability of crisis is inferred.
+
+## Contradictions
+
+No direct contradiction is established. Neutral methods of distributing news coexist with excited or tense public responses.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Uranus`: news in general, newspaper accounts, telegrams, e-mails, and news and information distributed with technical assistance.
-- Practical expression: excitement about youth in the public life, dynamic youth in the public sphere, excited speech in the public sphere, tense public opinion, and youth rcform in the public life.
+In `Vernal Point/Mercury = Uranus`, public information is eventful and technically circulated. The [Witte entry](#witte-entry) names newspapers, telegrams, email, and news distributed with technical assistance. The restored [ABC entry](#abc-entry) adds excited conversation, tense opinion, dynamic youth, reform, and media events. The connected emphasis is active public communication whose circulation or reception may be charged with tension.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Uranus Neptune Admetos](../triads/uranus-neptune-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To rebel against something in vain. Revolts and uproars are in vain.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 385; PDF p. 191.
+
 #### ABC Entry
 
-Dynamic water cycle, strengthening of subtle impulses, sudden air pollution, sudden insecurity due to depression, weakness due to submerged water pollution, tchnic water compaction, and restlessness due to water barrier
+A dynamic water cycle, consolidation of subtle impulses, a sudden restriction of air, sudden uncertainty through depression, weakness through suppressed nervousness, technical compression of water, unrest through restriction of water.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Futile rebellion in Witte; restriction and circulation of water or air in ABC.
+- psychology: Uncertainty, depression, suppressed nervousness and weak or subtle impulses are ABC associations.
+- body/health: Weakness is stated without a diagnosis; the air and water images do not establish pollution or disease.
+- social/relationship: Revolt and uproar appear in Witte, without a named group or opponent.
+- events/manifestations: An ineffective revolt, a dynamic water cycle and technical compression or restriction of water.
+- conflicts/notes: Air restriction and suppressed nervousness replace the former invented pollution wording.
+
+## Contradictions
+
+Witte describes unsuccessful rebellion, while ABC gives subtle impulses, uncertainty and water/air restrictions. These differ in scale and subject. The source does not identify pollution, nor does it connect every water restriction with rebellion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = Neptune`: To rebel against something in vain. Revolts and uproars are in vain.
-- Practical expression: dynamic water cycle, strengthening of subtle impulses, sudden air pollution, sudden insecurity due to depression, and weakness due to submerged water pollution.
+In `Uranus/Admetos = Neptune`, Neptune specifies interruption through effort or movement that does not proceed freely. [Witte](#witte-entry) emphasizes rebellion and uproar that achieve nothing. [ABC](#abc-entry) adds uncertainty, suppressed nervousness and weakness, together with literal water circulation, compression and air or water restriction. These distinct expressions retain futility and constraint without inventing environmental pollution or a medical condition.
 
 ## Links
 

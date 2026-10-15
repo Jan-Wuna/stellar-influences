@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Venus = Apollon`
 - Astronomicon formula: `Q/Q = ¥`
 - Axis page: [Venus/Venus](../axes/venus-venus.md)
@@ -33,10 +35,23 @@ updated_at: 2026-04-21
 
 Friendship. Peace. Faithfulness. Harmony with many. Science of art. Science of music. Peace-loving. Expanded harmony. Religiously inclined.
 
+## Comparative Schema
+
+- core meaning: harmony extending to many people and cultural interests.
+- psychology: a peace-loving or religious inclination.
+- body/health: no bodily or medical condition is described.
+- social/relationship: friendship, fidelity, and harmony with many.
+- events/manifestations: the study of art or music.
+- conflicts/notes: “science of art/music” is retained as study-oriented wording, without a modern scientific claim.
+
+## Contradictions
+
+The single entry's social harmony and artistic study are compatible emphases; no competing source is present.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Venus = Apollon`: friendship.
+Apollon specifies `Venus/Venus` as affection and harmony reaching a wider circle: friendship and faithfulness coexist with a peace-loving disposition. The [Witte entry](#witte-entry), PDF p. 175, extends that interest into the study of art and music and a religious inclination. Its range is broader than friendship alone, without establishing that all these expressions occur together.
 
 ## Links
 

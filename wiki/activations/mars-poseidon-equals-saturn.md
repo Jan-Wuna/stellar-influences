@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Poseidon = Saturn`
 - Astronomicon formula: `U/¨ = W`
 - Axis page: [Mars/Poseidon](../axes/mars-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: one-based PDF p. 204, Saturn row under Mars/Poseidon.
+
 Obstacles in path of moral behavior or mental activity. Education interrupted. Unsuccessful in bringing up.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-serious mental activity, patient cultural work, hard mental work, more clearly concentrated will, concentrated mental work, creating problems through truth, loss of culture creating, and intense interruption of work
+English translation: Serious mental or spiritual activity; patient cultural work; hard mental or spiritual work; clear concentrated will; concentrated mental or spiritual work; creating problems through truth; losses through cultural creation; reasonable interruption of work.
+
+Source: printed p. 323 (one-based PDF p. 160), exact activator row under Mars/Poseidon.
+
+## Comparative Schema
+
+- Core meaning: Mental or cultural effort becomes demanding, concentrated, obstructed, or interrupted.
+- Psychology: ABC includes patience and concentrated will alongside hard intellectual work.
+- Body/health: No specific illness or bodily outcome is stated.
+- Social/relationship: Witte includes difficulties in education and upbringing; ABC describes problems arising through truth.
+- Events/manifestations: Interrupted education, demanding cultural work, and interruptions to work.
+- Conflicts/notes: The printed final clause is `vernünftige Unterbrechung der Arbeit`, reasonable interruption of work. It specifies reasonableness rather than intensity; losses through cultural creation are a separate clause.
+
+## Contradictions
+
+Witte's obstacles and ABC's patient concentration are different possibilities within demanding work, not evidence that effort must fail.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Saturn` obstructs moral action and interrupts mental or educational development.
-- Chart expression: barriers to ethical conduct, blocked or incomplete education, and difficulties in upbringing or in carrying higher principles into lived action.
+In `Mars/Poseidon = Saturn`, Saturn specifies mental or cultural activity through difficulty and sustained concentration. Obstacles can interrupt education or upbringing, while patient work and a focused will remain part of the same entry's range. The [Witte entry](#witte-entry) (PDF p. 204) stresses obstruction; the [ABC entry](#abc-entry) (printed p. 323) also supports disciplined effort and reasonable interruption of work. Neither makes unsuccessful education inevitable.
 
 ## Links
 

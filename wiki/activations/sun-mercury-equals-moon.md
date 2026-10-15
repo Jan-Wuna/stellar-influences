@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Moon Mercury](../triads/sun-moon-mercury.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 The young mate (marriage partner). The young body of a woman. To think of women. To be tied up with women at an early age.
 
+Source locator: PDF p. 103, Sun/Mercury, Moon entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Movable body of the woman, thinking woman of the man, speech between man and woman, young female persons, media for female persons, woman's body language, personal speech with the woman, woman's personal opinion, and man's language
+Movable body of the woman, thinking woman of the man, conversations between man and woman, young female persons, media for female persons, woman's body language, personal conversations with the woman, woman's personal opinion, and a man's feel for language.
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, Moon entry. Translation checked against the German row; Sprach-Gefühl is a feel for language.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Movable body of the woman, thinking woman of the man, speech between man and wom
 
 Relationship between mind, soul and intellect. "Thinking with the heart." A thinking woman, a young husband.
 
+Source locator: printed p. 81, coded entry 0195.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The emotional need for clear and objective thinking, and/or to speak of what is important. A tendency to place undue importance on an idea or ideas due to feeling insecure or vulnerable or because of some other emotion. The emotional need to think for oneself and to come to one’s own conclusions, and yet the tendency to be impres sionable to the thoughts and ideas of others, until such time as one finds the confi dence to make up one’s own mind.
+
+Source locator: PDF p. 8, Sun/Mercury, complete Moon entry on this page.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Sensitivity to the thoughts and needs of others; understanding of the everyday o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication intertwined with feeling, other people and everyday life.
+- psychology: A need for clarity and independent judgment alongside insecurity or impressionability.
+- body/health: Bodily mobility and body language are named without a medical claim.
+- social/relationship: Sensitivity to others, conversations with women, partner examples and communication to the masses.
+- events/manifestations: Family or home concerns, media for women and developing one's own conclusions.
+- conflicts/notes: Emotion can help identify what matters or give an idea undue weight; gender and early-age examples remain historical source meanings.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's heart-thinking and Munkasey's sensitivity to others overlap with Sandbach's emotional need for clear thought. Sandbach also retains insecurity, undue importance and impressionability, so emotional involvement does not guarantee objectivity. The sources' gendered partner examples are distinct particulars, not universal relationship rules.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Moon`: heartfelt intelligence, psychological awareness, and a close interplay between thought, emotion, and daily relationship life. Main caution: impressionability: insecurity or mood can assign too much importance to particular ideas and weaken objectivity.
+`Sun/Mercury = Moon` makes thinking and communication emotionally involved. [Ebertin](#ebertin-entry) calls this thinking with the heart; [Sandbach](#sandbach-entry) describes a need for clear, independent thought that may initially be impressionable or give certain ideas undue importance. [Munkasey](#munkasey-entry) adds sensitivity to others, family concerns and effective communication to the masses. [Witte](#witte-entry) and [ABC](#abc-entry) give partner, conversation and body-language forms within their gendered examples. The common theme is feeling within the exchange of ideas, with confidence in one's judgment developing alongside receptivity to others; neither sensitivity nor conviction alone establishes objectivity.
 
 ## Links
 

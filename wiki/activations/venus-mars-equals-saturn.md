@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Saturn](../triads/venus-mars-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Venereal diseases. Severance of the sexual intercourse. Older relatives or close
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `271`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Activate old love, peaceful patient creation, urban work peace, harmony through concentrated work, harmonious activity in old age, artistic work tasks, concentration on artificial work, problematic peace work, and loss of work pleasure
+Activating an old love, peaceful patient creation, disturbed peace at work, harmony through concentrated work, harmonious activity in old age, artistic work tasks, concentration on artistic work, problematic peace work, and loss of joy in work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0583`.
 
 #### Ebertin Entry
 
 Inhibitions in love life, inclination to adultery, abnormal and pathological sex-expression. A separation in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Inhibits any direct pleasure or enjoyment derived from the opposite sex; the res
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Restricted intimate enjoyment, separation, or patient and concentrated activity.
+- Psychology: Inhibition, feeling unattractive, or a desire for serious romance; careful focus can support accomplishment.
+- Body/health: Witte's venereal disease and Ebertin's pathological sexual descriptions are historical assertions, not diagnoses.
+- Social/relationship: Older relatives or close friends, separation from them, and conservative affection.
+- Events/manifestations: Patient creative work, concentration on art, disturbed work peace, or reduced joy in activity.
+- Conflicts/notes: Sandbach's careful effectiveness and serious romantic aims remain alongside the historical adverse relationship claims.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's careful effectiveness and serious romantic aims remain alongside the historical adverse relationship claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Saturn`: committed love, controlled creative drive, and the ability to make desire endure rather than burn out quickly. Main caution: inhibited heat: passion can become resentful, blocked, or too burdened by caution and duty to remain spontaneous.
+`Venus/Mars = Saturn` restrains the expression of affection or directs activity through patience and concentration. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize separation or inhibition in intimacy, while the [ABC entry](#abc-entry) also allows concentrated work, artistic tasks, and harmonious activity in old age. [Sandbach](#sandbach-entry) gives the restraint a constructive form in slow, careful effectiveness and serious romance, alongside feeling unattractive or lacking romance. [Munkasey](#munkasey-entry) adds conservative affection, diminished competitive attraction, and respect through exercise. The medical and pathologizing sexual assertions in the older entries remain attributed historical claims; they do not determine health or conduct.
 
 ## Links
 

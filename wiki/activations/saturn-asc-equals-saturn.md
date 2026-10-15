@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Saturn`
 - Astronomicon formula: `W/Asc = W`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -41,22 +43,21 @@ Added needs for discipline or consistency in any efforts; impels you to seek sil
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Greater discipline, consistency, and persistence when circumstances are difficult.
+- Psychology: Seeking silence and solitude to address problems or delay.
+- Body/health: No medical correspondence is established in these exact entries.
+- Social/relationship: Withdrawal into solitude is named without a particular relationship outcome.
+- Events/manifestations: Persistence during adversity; no specific external event is supplied.
+- Conflicts/notes: This is a single repeated-activator Munkasey passage, with no separate cross-source comparison.
 
 ## Contradictions
 
-- None recorded yet.
+This is a single repeated-activator Munkasey passage, with no separate cross-source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Saturn`: Added needs for discipline or consistency in any efforts; impels one to seek silence and solitude when faced with problems or situations in life which are difficult to manage; persistence when faced with adversity or delay.
+In `Saturn/Asc = Saturn`, Saturn specifies the pair through added need for discipline and consistency. The [Munkasey entry](#munkasey-entry) connects difficult circumstances with seeking silence and solitude and persisting through adversity or delay. This supports a particular way of meeting problems without establishing that solitude resolves every difficulty.
 
 ## Links
 

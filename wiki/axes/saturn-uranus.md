@@ -27,7 +27,9 @@ related_activations:
   - Saturn/Uranus = Node
   - Saturn/Uranus = Pluto
   - Saturn/Uranus = Poseidon
+  - Saturn/Uranus = Saturn
   - Saturn/Uranus = Sun
+  - Saturn/Uranus = Uranus
   - Saturn/Uranus = Venus
   - Saturn/Uranus = Vernal Point
   - Saturn/Uranus = Vulcanus
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `W/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SATURN/URANUS`
-- Source page: `283`
+- Source heading: `SATURN + URANUS`
+- PDF page (one-based): `221` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -88,11 +92,15 @@ Quarrels. Sudden separation. To part and die. To be separated suddenly. Surprisi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `348–349`; PDF page (one-based): `173` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Cestirter rhythm, new losses, sudden pain, sudden shocks, painful event, difficult reform, tensions in old age, technical change, surprising separation, and lossful reform
+Disturbed rhythm, new losses, sudden pains, sudden disturbances, problematic impulses, painful event, difficult reform, tensions in old age, technical malfunction, surprising separation, reform involving loss.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `246`; PDF page `248`, complete pair entry and footnote 53. The extracted repeated title/glyph tail is omitted from prose.
 
 #### Principle
 
@@ -112,7 +120,9 @@ Violent people.
 
 #### Probable Manifestations
 
-+ Growth of strength caused through overcoming difficulties, difficult but successful battles in life for the purpose of overcoming a dangerous situation. (Operation.) - Kicking against tutelage and against the limitation of freedom, tendency to cause unrest within one's environment, quarrels, separation, use of force, interventions in one's destiny, limitation of freedom. 53 For all combinations of the slower planets, an interpretation is only of importance if it has been brought out by other factors such as the personal points (Sun, Moon, MC, Asc.). Only in this case is an individual interpretation possible. Because of their slow motion, aspects between Saturn and Uranus can appear in charts for a whole year. One must therefore always keep this in mind and consider to what extent a combination has an individual value. The term "a powerful personality" can only be applied in certain cases. Saturn/Uranus V#
++ Growth of strength caused through overcoming difficulties, difficult but successful battles in life for the purpose of overcoming a dangerous situation. (Operation.) - Kicking against tutelage and against the limitation of freedom, tendency to cause unrest within one's environment, quarrels, separation, use of force, interventions in one's destiny, limitation of freedom.
+
+Footnote 53: For all combinations of the slower planets, an interpretation is only of importance if it has been brought out by other factors such as the personal points (Sun, Moon, MC, Asc.). Only in this case is an individual interpretation possible. Because of their slow motion, aspects between Saturn and Uranus can appear in charts for a whole year. One must therefore always keep this in mind and consider to what extent a combination has an individual value. The term "a powerful personality" can only be applied in certain cases.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -219,7 +229,8 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Saturn-Uranus: Authority Conflicts`
-- PDF page(s): `331`
+- PDF page(s): `331–332`
+- Editorial note: the superscript `6` after “out” is the printed footnote callout, not part of the word.
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -227,17 +238,17 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 - shadow: The Grouch and the Anarchist
 - comparison: stability Upheaval Old Young/New Preserving Reforming Law Freedom Limiting the scope Going beyond the scope Rule Exception Traditional Modern/Utopian Normal Abnormal Chronological Synchronous Continuous Suddenly Guarantee Betrayal
 - general: Breaking through and renewing old structures . Violating laws . The limits of freedom . Going beyond the scope . The sudden end . Restriction of freedom .
-- harmony: The Framework of Freedom. Balance between individual freedom and the laws governing public welfare. Knows how to develop and live out6 an optimal measure of freedom within the set and lawful framework. Finds the right mixture between traditional values and structures and modern developments and forms.
-- discord: The Gagged Person or the Demolition Charge. Bitter conflict between freedom and norms, between old and new. During certain phases, experiences oneself as unfairly gagged or limits oneself in order to outrageously kick over the traces in other phases. Then lives one's freedom in such a compulsive manner that it becomes a type of unfreedom as a result.
+- harmony: The Framework of Freedom. Balance between individual freedom and the laws governing public welfare. Knows how to develop and live out<sup>6</sup> an optimal measure of freedom within the set and lawful framework. Finds the right mixture between traditional values and structures and modern developments and forms.
+- discord: The Gagged Person or the Demolition Charge. Bitter conflict between freedom and norms, between old and new. During certain phases, experiences oneself as unfairly gagged or limits oneself in order to outrageously kick over the traces in other phases. Then lives one's freedom in such a compulsive manner that it becomes a type of unfreedom as a result. Must free oneself from every type of limitation—even those that are just supposed—in order to prove independence at all times. Often filled with new ideas, but insecure, fearful, or fickle about actually translating them into action.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Tension between established limits and freedom or innovation, with either disciplined change or sudden disruption.
+- psychology: Persistence, practical originality and willpower coexist with irritability, rebellion, rigidity and difficulty adjusting when thwarted.
+- body/health: Ebertin's rhythm, blockage and surgical claims, Carter's injury conditions and Munkasey's joint/aging correspondences remain attributed historical claims, not diagnoses or predicted accidents.
+- social/relationship: Commitment and individual difference can be balanced, or become quarrels, imposed restrictions, abrupt separation and conflict with authority.
+- events/manifestations: Technical problems, disturbed rhythm, sudden loss or delay, reform, disciplined innovation and institutional modernization span the explicit range.
+- conflicts/notes: Carter's aspect and whole-chart conditions remain attached to his judgments. Ebertin's note53 requires individualizing factors for slow-planet interpretation; neither talent, violence nor separation follows from the pair alone. Falis's dated conjunction discussion remains source context.
 
 ## Related Activations
 
@@ -257,7 +268,9 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 - [Saturn/Uranus = Node](../activations/saturn-uranus-equals-node.md)
 - [Saturn/Uranus = Pluto](../activations/saturn-uranus-equals-pluto.md)
 - [Saturn/Uranus = Poseidon](../activations/saturn-uranus-equals-poseidon.md)
+- [Saturn/Uranus = Saturn](../activations/saturn-uranus-equals-saturn.md)
 - [Saturn/Uranus = Sun](../activations/saturn-uranus-equals-sun.md)
+- [Saturn/Uranus = Uranus](../activations/saturn-uranus-equals-uranus.md)
 - [Saturn/Uranus = Venus](../activations/saturn-uranus-equals-venus.md)
 - [Saturn/Uranus = Vernal Point](../activations/saturn-uranus-equals-vernal-point.md)
 - [Saturn/Uranus = Vulcanus](../activations/saturn-uranus-equals-vulcanus.md)
@@ -265,15 +278,15 @@ Calcium deposits which arise from nervousness or reactions to stress; arthritis 
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Practical integration of structure and originality coexists with conflict and sudden disruption. Carter's favorable organizing/scientific capacities and difficult managerial judgments are aspect-conditioned; Ebertin's note53 explicitly limits individual interpretation of slow-planet combinations.
+- ABC's full bold summary was retranslated from PDF173, printed348–349, restoring problematic impulses and technical malfunction. Witte's exact PDF221 passage is distinct from Munkasey's printed283. Ebertin's trailing formula and Banzhaf's `out6` marker supply no added doctrine.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus` is the axis of structural tension, disciplined rebellion, and the conflict between order and freedom. It combines limits, realism, and endurance with disruption, innovation, nervous force, and the urge to break obsolete constraints.
-- Chart expression: perseverance under strain, practical reform, controlled experimentation, technical or administrative problem-solving, and the capacity to force change where systems have become rigid. Liabilities: irritability, sudden breaks, quarrels, accidents, blocked freedom, stubborn defiance, and long periods of pressure in which old forms and new demands cannot easily reconcile.
+`Saturn/Uranus` concerns the pressure between established order and the need for freedom or a different approach. Discipline can give originality a practical form: [Carter's harmonious aspects](#charles-carter---the-astrological-aspects) combine prudence with initiative and scientific organization, while [Hand](#robert-hand---horoscope-symbols) explicitly allows persistence under tension and disciplined innovation. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) locates the conflict in feeling safe within known patterns while wanting to experiment. When adjustment fails, the same field can become irritability, obstinate resistance or an abrupt break from restrictive people or circumstances.
+
+The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) and [ABC](#udo-rudolph---abc-for-planetary-pictures) preserve disturbed rhythm, technical malfunction, sudden delay, loss and separation. [Falis](#michelle-falis---planet-combinations-astrological-brainstorms) also gives the practical use of technology and new ways to do old things; [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) extends the balance into relationships, procedures and political institutions. [Banzhaf and Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) distinguish freedom within a workable framework from compulsive rebellion that creates another restriction. These possibilities do not establish an accident, violent character or necessary separation. [Ebertin's qualifying note53](#reinhold-ebertin---the-combination-of-stellar-influences) and Carter's contextual conditions limit individual claims; a closing factor belongs to its exact [activation](#related-activations).
 
 ## Links
 

@@ -27,6 +27,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/g = R`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +42,21 @@ Changes you encounter in your life’s direction due to the influence others hav
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Moon specifies the pair through personal responses to people who influence one's direction.
+- psychology: instinctive judgments about others accompany unease when meeting an audience.
+- body/health: no specific bodily or health claim is supplied.
+- social/relationship: the entry concerns choosing people whose influence fits one's course of life.
+- events/manifestations: changes of direction through others' influence and encounters with audiences are explicit.
+- conflicts/notes: the entry describes judgment and unease, not a guarantee that instincts always select beneficial people.
 
 ## Contradictions
 
-- None recorded yet.
+- The single entry presents social influence, instinctive judgment, and audience unease without an explicit opposing claim. No cross-source comparison is available here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Moon`: Changes one encounter in one's life’s direction due to the influence others have on influencing one's course of life; one's instincts for judging people to bring the right kind of influences; one's unease when meeting audiences.
+In `Moon/Node = Moon`, Moon specifies the pair through the personal impact of encounters: other people can change one's direction, while instinctive judgments help select those influences. [Munkasey, p. 138](#munkasey-entry) also includes unease before audiences. The entry therefore joins sensitivity to social influence with the task of choosing contacts, without saying that instinctive selection is infallible.
 
 ## Links
 

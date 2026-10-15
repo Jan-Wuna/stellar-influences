@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Sun Moon Chiron`
 - Astronomicon triad-set: `S R Chiron`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Moon/Chiron = Sun](../activations/moon-chiron-equals-sun.md)
-- [Sun/Chiron = Moon](../activations/sun-chiron-equals-moon.md)
-- [Sun/Moon = Chiron](../activations/sun-moon-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Chiron = Sun](../activations/moon-chiron-equals-sun.md) | [Moon/Chiron](../axes/moon-chiron.md) | [Sun](../factors/sun.md) |
+| [Sun/Chiron = Moon](../activations/sun-chiron-equals-moon.md) | [Sun/Chiron](../axes/sun-chiron.md) | [Moon](../factors/moon.md) |
+| [Sun/Moon = Chiron](../activations/sun-moon-equals-chiron.md) | [Sun/Moon](../axes/sun-moon.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Moon/Chiron = Sun`: John, page `32`
-- `Sun/Chiron = Moon`: John, page `15`
-- `Sun/Moon = Chiron`: John, page `6`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Moon/Chiron = Sun`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/moon-chiron-equals-sun.md#sandbach-entry), one-based PDF chapter-start p. `32`.
+- `Sun/Chiron = Moon`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-chiron-equals-moon.md#sandbach-entry), one-based PDF chapter-start p. `15`.
+- `Sun/Moon = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-moon-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `6`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Chiron = Sun`: The goal of one’s life is dependent on one’s ability to allow emotions to flow openly and freely so that the emotional body may be cleansed, vitalized and purified. The ego is healed by deep attunement to and acceptance of one’s feelings as well as the feelings of others.
-- `Sun/Chiron = Moon`: responding emotionally to deeper meaning and allowing feeling life to reveal what has genuine spiritual importance.
-- `Sun/Moon = Chiron`: emotional and personal growth through deeper meaning and discovering what truly matters beyond surface identity.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Sun/Chiron = Moon excludes a damaged final insecurity clause; source presence does not certify that sentence.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

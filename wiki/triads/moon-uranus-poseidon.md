@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Poseidon`
 - Astronomicon triad-set: `R X ¨`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Poseidon = Uranus](../activations/moon-poseidon-equals-uranus.md)
-- [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md)
-- [Uranus/Poseidon = Moon](../activations/uranus-poseidon-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Poseidon = Uranus](../activations/moon-poseidon-equals-uranus.md) | [Moon/Poseidon](../axes/moon-poseidon.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Poseidon](../factors/poseidon.md) |
+| [Uranus/Poseidon = Moon](../activations/uranus-poseidon-equals-moon.md) | [Uranus/Poseidon](../axes/uranus-poseidon.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Poseidon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `207`
-- `Moon/Uranus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `243`
-- `Uranus/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `388`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Poseidon = Uranus](../activations/moon-poseidon-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-poseidon-equals-uranus.md#witte-entry) (PDF p. 138); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-poseidon-equals-uranus.md#abc-entry) (printed p. 207) |
+| [Moon/Uranus = Poseidon](../activations/moon-uranus-equals-poseidon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-poseidon.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-poseidon.md#abc-entry) (printed p. 187) |
+| [Uranus/Poseidon = Moon](../activations/uranus-poseidon-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-poseidon-equals-moon.md#witte-entry) (PDF p. 243); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-poseidon-equals-moon.md#abc-entry) (printed p. 388) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Uranus`: To be exposed to new, unknown mental or spiritual influences. Suddenly to see through something, understand if and know it. To get sudden mental or spiritual contact. Capable of empathy for new and revolutionary perceptions.
-- `Moon/Uranus = Poseidon`: This activation spiritualizes `Moon/Uranus` into tense thought, sudden messaging, and ideologically charged public stimulation. It channels nervous excitement into mental or propagandistic forms, where upheaval is carried by ideas as much as events.
+`Moon Uranus Poseidon` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Vernal Point Venus Pluto](../triads/vernal-point-venus-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ General harmonious development. General public’s development of wishes and hop
 
 develop harmony in public, artistic developments for the public, change affection for public life, wish for changes for the public, and develop a preference for the public
 
+## Comparative Schema
+
+- core meaning: Harmonious development and changing wishes in public life.
+- psychology: Changing affection for public life and preference for public participation.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: A general or public setting rather than a specified private relationship.
+- events/manifestations: Artistic development for the public and wishes for public change.
+- conflicts/notes: The entries do not establish fame or a specific political program.
+
+## Contradictions
+
+General harmony and changing public wishes are compatible emphases. No direct contradiction is apparent in these two short entries.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Pluto = Vernal Point`: general harmonious development.
-- Practical expression: develop harmony in public, artistic developments for the public, change affection for public life, wish for changes for the public, and develop a preference for the public.
+In `Venus/Pluto = Vernal Point`, Vernal Point specifies Venus/Pluto development as a matter of public life. The [Witte entry](#witte-entry) gives general harmonious development and the public's wishes and hopes; the [ABC entry](#abc-entry) adds artistic development for the public and changing affection toward public life. The shared pattern is the development of harmony, preferences, or hopes in a broad social setting.
 
 ## Links
 

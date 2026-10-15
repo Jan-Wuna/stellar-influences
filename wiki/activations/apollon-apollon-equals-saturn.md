@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Saturn`
 - Astronomicon formula: `¥/¥ = W`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 305, Saturn row.
+
 The system. Method. Education. Teacher. Student. Many separate or depart. Separation from many. Teaching procedures. Scientific teaching. Training. Success through patience. Loss of freedom. Problems of science. Serious science. Trade restriction. Limits of expansion.
+
+## Comparative Schema
+
+- core meaning: Method, education, and serious inquiry alongside separation and limits on expansion.
+- psychology: Patience is named as a means of success.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Teacher and student; many people separating or departing.
+- events/manifestations: Training, scientific teaching, trade restriction, loss of freedom, and scientific problems.
+- conflicts/notes: Education and restriction are both listed; the source does not state that one necessarily causes the other.
+
+## Contradictions
+
+Success through patience can coexist with limits or separation. The single entry provides no conditions selecting those expressions or making constraint voluntary.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Saturn`: training, procedure, serious science, and success gained through order, endurance, and accepted constraint. Main caution: contraction inside growth: the same structure that educates and stabilizes can also restrict trade, separate people, or narrow possibility.
+In `Apollon/Apollon = Saturn`, Saturn specifies the repeated pair through method, training, and limits. The [Witte entry](#witte-entry) connects systems of education and scientific teaching with serious inquiry and success through patience. Separation from many, restricted trade, loss of freedom, and bounded expansion remain part of the same entry, preserving the difference between sustained learning and the constraints it also lists.
 
 ## Links
 

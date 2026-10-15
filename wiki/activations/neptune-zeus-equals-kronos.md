@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Kronos`
 - Astronomicon formula: `Y/£ = ¤`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Great political efforts without success. Governmental gas works. Ordered gas attacks.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Starting redundancy, special efforts in the water, exchangeable achievements of the state, fine tuning in the pursuit of self sufficiency, self determined objectives in metaphysics, state leadership weakness, and unclear objectives of the state
+Beginning dissolution of authority, special efforts in water, disappointing achievements of the state, sensitivity in striving for independence, independent goal-setting in metaphysics, weak state leadership, and unclear goals of the state
+
+## Comparative Schema
+
+- core meaning: unsuccessful political effort and weakening authority or state direction.
+- psychology: sensitive striving for independence and metaphysical goal-setting are named.
+- body/health: no individual health condition is supplied.
+- social/relationship: state authority and leadership are the explicit institutional setting.
+- events/manifestations: government gas works and ordered gas attacks are Witte's distinct historical examples.
+- conflicts/notes: neither source makes every political initiative forceful or equates state service with gas warfare.
+
+## Contradictions
+
+Political ineffectiveness overlaps with weak state leadership. Gas works, gas attacks and metaphysical independence remain separate examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Kronos`: Great political efforts without success. Governmental gas works. Ordered gas attacks.
-- High-level directives or political initiatives are forceful but ineffective, linking authority with unsuccessful campaigns or organized gas-related operations.
-- Practical expression: starting redundancy, special efforts in the water, exchangeable achievements of the state, fine tuning in the pursuit of self-sufficiency, and self determined objectives in metaphysics.
+Neptune/Zeus = Kronos concerns authority whose efforts may fail or whose aims are unclear. [Witte](#witte-entry) names unsuccessful political effort; [ABC](#abc-entry) adds dissolving authority and weak state leadership, while also describing sensitive striving for independence (printed p. 397, PDF p. 197). Witte's government gas works and ordered gas attacks are specific historical examples, not a necessary meaning of public service or independent goal-setting.
 
 ## Links
 

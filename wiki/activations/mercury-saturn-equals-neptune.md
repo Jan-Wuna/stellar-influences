@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Neptune`
 - Astronomicon formula: `T/W = Y`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 To feel depressed. Homesickness. Melancholy. Trave! without return. Travel by aircraft or ship. Navigation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exchangeable separation language, serious language about the water, disturbance water movement, hard language about metaphysics, intuition in the most common languages, problematic future of youth, uncertainty through language problems discussing development tasks, gcstortc verkchrs development, and disturbance Entfolfung in
+- Source passage: `Merkur + Saturn`; printed p. `247`; one-based PDF page `122` (oriented row checked against the scan).
+
+Disappointing separation conversations, serious conversations about water, disturbed water movement, difficult conversations about metaphysics, intuition in serious conversations, a problematic future for young people, uncertainty through language problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Saturn`; printed p. `155`; entry code `0501` (supplied source-map locator; not visually verified).
 
 A state of depression, distrust, emotional inhibitions. A journey by air or sea, longing for far-distant places, homesickness, an unnecessary journey, plans without any prospect of realization.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Saturn midpoint`; one-based PDF page `46` (exact oriented passage checked in the actual PDF text).
 
 Negative thinking that dissipates one’s energy. Negative thoughts frustrate one’s idealism. Holding firmly to one’s ideals. Communication problems that are hard to diagnose. To fantasize about having deep conversations with others.
 
@@ -70,22 +80,23 @@ Inspired thoughts for avoiding serious delays in analyzing facts, data, or other
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious thought encounters uncertainty, discouragement or misleading information.
+- psychology: Negative thinking can dissipate energy or frustrate ideals; ideals may also be held firmly.
+- body/health: Depression is an attributed historical association, not a clinical assessment.
+- social/relationship: Longed-for deep conversation coexists with hard-to-identify communication problems.
+- events/manifestations: Air or sea journeys, homesickness, unrealizable plans and erroneous news are examples.
+- conflicts/notes: Inspired ways around delay remain alongside breakdowns of logic and deliberate misinformation.
 
 ## Contradictions
 
-- None recorded yet.
+The entries preserve both inspiration and confusion, attachment to ideals and discouragement. These are alternative expressions, not proof that every serious message is false.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Neptune`: disciplined imagination, patient interpretation, and the effort to think clearly inside unclear conditions. Main caution: mental fatigue: realism can collapse into confusion, discouragement, or distrust of ones own perception.
+In `Mercury/Saturn = Neptune`, Neptune specifies serious thought through uncertainty about ideas, communication or distant possibilities. Negative thinking may drain energy and frustrate ideals, while fantasies of deep conversation coexist with communication problems that are hard to identify. Munkasey retains inspired ways to avoid delay beside breakdowns of logic, official errors and deliberate misinformation. ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Longing, homesickness and travel by air or sea give this uncertainty a concrete setting; plans may lack a prospect of realization. ABC adds disappointing separation conversations, water movement and serious metaphysical discussion. Historical depression language remains attributed rather than diagnostic. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [ABC](#abc-entry))
 
 ## Links
 

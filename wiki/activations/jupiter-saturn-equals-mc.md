@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = MC`
 - Astronomicon formula: `V/W = MC`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Worries through losses.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-great Swungen in the environment, successful separation from others, financial environmental burdens, money losses by others, happiness with others in old age, concentration success, and stress problems in the place
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Joy and sorrow of the soul, I am happy in old age, my success through concentration, my happiness is duty, my advantage through patience, my successful separations, my financial problems, my legal problems, and joy of the soul in old age.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: retained printed p. 227, coded entry 0793; passage unchanged in this review.
 
 The desire for solitude, demonstration of inhibitions, love of seclusion and loneliness. Fluctuating success, changes, losses. The philosopher.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 79, Jupiter/Saturn, Midheaven paragraph; chapter begins on p. 78.
 
 To be patient and persistent in working to attain one's goals. The slow and careful establishment of security.
 
@@ -66,26 +76,27 @@ To be patient and persistent in working to attain one's goals. The slow and care
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Helps you mature by accepting and integrating the changes which occur in your life; coping with social and personal change and being able to grow with this change; new outlooks for personal refinement and growth.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal security and direction meet change, loss, and patient effort ([Sandbach Entry](#sandbach-entry)).
+- Psychology: Worry, inhibition, solitude, and patient persistence are distinct responses.
+- Body/health: No specific medical or bodily condition is established.
+- Social/relationship: Seclusion is explicit in Ebertin; Munkasey also describes coping with social change.
+- Events/manifestations: Fluctuating success and losses coexist with gradual establishment of security.
+- Conflicts/notes: The raw ABC MC row is first-person and inward; the former environmental paragraph belonged to Asc. Sandbach's Midheaven paragraph is on PDF p. 79, beyond the chapter start.
 
 ## Contradictions
 
-- None recorded yet.
+The entries contrast distress and seclusion with patient adjustment. They do not establish that present losses will yield a compensating eventual result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = MC`: enduring ambition, careful work, and the capacity to build something lasting over time. Main caution: fluctuating success: losses, loneliness, or inhibition can make the path feel heavier and more isolated than the eventual result may justify.
+In `Jupiter/Saturn = MC`, MC makes the pair's change and limitation a personal concern about security and direction. The [Witte Entry](#witte-entry) names worry through loss; the [Ebertin Entry](#ebertin-entry) adds solitude and fluctuating success. The [Sandbach Entry](#sandbach-entry) and [Munkasey Entry](#munkasey-entry) describe patient goal work and integration of change. The [ABC Entry](#abc-entry) adds inward joy and sorrow, duty, success through concentration and advantage through patience beside personal financial and legal problems. These support a range from withdrawal to steady adjustment, without promising that effort will undo loss.
 
 ## Links
 

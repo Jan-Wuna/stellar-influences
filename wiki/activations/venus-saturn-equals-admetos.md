@@ -30,25 +30,44 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Admetos](../triads/venus-saturn-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 Passing harmony with few. Insurmountable obstacles in love, peace and harmony.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `275`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-Perseverance and seriousness in love, limited love in old age, depression through lovepain, groinly mature love, harmony deepening in old age, love culture in old age, lossful peace blockade, and deepening in peace tasks
+Perseverance and seriousness in love, limited love in old age, depression through pain in love, thoroughly maturing love, deepening harmony in old age, a culture of love in old age, a peace blockade involving losses, and deepening involvement in peace tasks.
+
+## Comparative Schema
+
+- core meaning: Restriction or depth in love, peace, and harmony.
+- psychology: Perseverance and seriousness; ABC also names depression through love pain.
+- body/health: ABC's depression language is attributed and establishes no diagnosis.
+- social/relationship: Passing harmony with few and severe obstacles in love.
+- events/manifestations: Deepening harmony and love culture in old age; peace tasks.
+- conflicts/notes: ABC includes thoroughly maturing love and a peace blockade involving losses; its depression wording remains historical source language, without a diagnosis.
+
+## Contradictions
+
+Witte emphasizes insurmountable obstacles while ABC also allows deepened harmony and serious endurance. The latter does not erase the obstacle strand.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Admetos`: passing harmony with few.
-- Practical expression: perseverance, seriousness in love, limited love in old age, depression through lovepain, and groinly mature love.
+In `Venus/Saturn = Admetos`, Admetos specifies the pair through tightly limited harmony and serious, sustained engagement with love. The [Witte entry](#witte-entry) names passing harmony with few and insurmountable obstacles; the clear [ABC clauses](#abc-entry) add perseverance, seriousness, and deepening harmony in old age. Love pain is retained as an adverse possibility, while deepening is an alternative rather than proof that restriction always improves love.
 
 ## Links
 

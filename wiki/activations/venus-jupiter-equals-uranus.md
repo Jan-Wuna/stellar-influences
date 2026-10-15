@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Uranus](../triads/venus-jupiter-uranus.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Sudden setting in of love’s joy.
 
 #### ABC Entry
 
-Successful peace event, joy over new money, joy over love event, happy love experience, harmonious impulses through money, new financial desires, sudden love happiness, success through rhythmic arts, and unrest despite right wing peace
+- Source reference: printed p. 273; one-based PDF p. 135, Venus/Jupiter, Uranus row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: A successful peace event, joy in new money, joy in an event of love, a happy experience of love, harmonious impulses through money, new financial wishes, sudden happiness in love, success through rhythmic art, and unrest despite legal peace.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Sudden or unexpected events which propel you to think about new ways of coping w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden happiness and wholehearted joy ([Witte](#witte-entry); [Ebertin](#ebertin-entry)).
+- psychology: Uninhibited affection, originality, and impulsive luxury seeking ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry)).
+- body/health: No specific bodily or health claim appears.
+- social/relationship: Quick popularity and approval for uniqueness ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- events/manifestations: Sudden love happiness, rapid wish fulfillment, and unexpected prompts to new thinking ([Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry)).
+- conflicts/notes: Rechts-Frieden means legal peace, not right-wing peace; unrest can coexist with it.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden joy and unrest despite legal peace are different possibilities. The legal-peace clause does not refer to a political wing or establish a particular proceeding.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Uranus`: exciting relationships, inventive pleasure, and the ability to attract unusual opportunities and social delight. Main caution: unstable excess: enjoyment can become erratic, impulsive, or too tied to novelty and stimulation to stay grounded.
+Uranus specifies Venus/Jupiter through the sudden arrival or uninhibited expression of joy. Love's happiness, wishes fulfilled quickly, and rapid popularity form the central thread in [Witte](#witte-entry) and [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) adds recognition for unique talents, lavish affection, and impulsive acquisition of luxuries. [Munkasey](#munkasey-entry) describes a parallel intellectual expression: unexpected events provoke new ways of coping and original philosophical, astrological, or computer-related interests.
+
+The [ABC entry](#abc-entry) also names rhythmic art, new financial wishes and unrest despite legal peace, keeping a disturbed expression alongside sudden joy.
 
 ## Links
 

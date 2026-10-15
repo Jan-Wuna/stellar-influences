@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Admetos`
 - Astronomicon formula: `Y/¤ = ¦`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Failure through poor management. Downfall of incompetent management. Heavy bodies in unlimited space. Planets, celestial bodies.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `399`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Special perseverance in the water, strengthening by unknown hierarchy, weakness of the Authoritat by depression, self andig deepening in the metaphysics, state air blockade, and important water circuit
+Special endurance in water, consolidation through an unknown hierarchy, great accumulation of fluids, weakening of authority through depression, independent deepening into metaphysics, state air blockade, and important water circulation
+
+## Comparative Schema
+
+- core meaning: management failure or consolidation and endurance, with separate astronomical and material examples.
+- psychology: independent metaphysical deepening and depression-related authority weakness are ABC themes.
+- body/health: ABC's fluid accumulation and depression remain historical source descriptions, not diagnoses.
+- social/relationship: management and an unknown hierarchy are the explicit organizational settings.
+- events/manifestations: downfall of incompetent management, state air blockade, water circulation, and celestial bodies are named.
+- conflicts/notes: Witte's heavy celestial bodies are literal examples, not proof that institutions are too inert to endure.
+
+## Contradictions
+
+Witte emphasizes poor management but also celestial bodies. ABC adds consolidation and endurance, so neither every hierarchy nor every material example implies collapse.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Admetos`: Failure through poor management. Downfall of incompetent management. Heavy bodies in unlimited space. Planets, celestial bodies.
-- Practical focus: compresses compromised authority into failure of management, bringing weak leadership to collapse and showing high structures that are too inert, heavy, or poorly directed to endure.
-- Practical expression: special perseverance in the water, strengthening by unknown hierarchy, and state air blockade.
+In Neptune/Kronos = Admetos, Admetos specifies the pair through management failure and the contrasting possibilities of consolidation or endurance. The [Witte entry](#witte-entry) names poor or incompetent management; [ABC](#abc-entry) adds consolidation through an unknown hierarchy, endurance in water, and independent metaphysical deepening (printed p. 399, PDF p. 198). State air blockade and water circulation are separate examples. Witte's celestial bodies remain literal rather than metaphors for institutional inertia, and the bodily claims retain historical attribution.
 
 ## Links
 

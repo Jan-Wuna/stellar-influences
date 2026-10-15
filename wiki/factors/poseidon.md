@@ -11,7 +11,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -19,6 +19,8 @@ updated_at: 2026-05-04
 - Factor: Poseidon
 - Astronomicon token: `¨`
 - Canonical page type: comparative factor page grounded in standalone source entries.
+
+[Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -34,12 +36,19 @@ Mental power. Idea. Cognition. Understanding. Education. Deep thinking. Culture.
 
 Insight, Reason, Clarity, Truth, Wisdom, Knowledge, Mind, Enlightenment, Idea, and Culture
 
+## Comparative Schema
+
+- core meaning: mental power expressed through ideas, insight, knowledge and understanding ([Rules factor entry](#witte-factor-entry), [ABC Keyword Entry](#abc-keyword-entry)).
+- psychology: reason, clarity and deep thinking are explicit; these brief entries do not specify psychological liabilities ([Rules factor entry](#witte-factor-entry), [ABC Keyword Entry](#abc-keyword-entry)).
+- body/health: neither standalone entry names an anatomical or medical correspondence ([Rules factor entry](#witte-factor-entry), [ABC Keyword Entry](#abc-keyword-entry)).
+- social/relationship: education, culture and worldview give ideas a shared human expression; specific relationship patterns are not stated ([Rules factor entry](#witte-factor-entry), [ABC Keyword Entry](#abc-keyword-entry)).
+- events/manifestations: the Rules factor entry explicitly includes water masses and floods. The ABC entry supplies no corresponding physical event list ([Rules factor entry](#witte-factor-entry), [ABC Keyword Entry](#abc-keyword-entry)).
+- conflicts/notes: the intellectual and cultural meanings overlap, while water masses and floods extend the range of one entry. Neither entry explains how to choose between these meanings, and no explicit contradiction is established by these short lists.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Poseidon` is the factor of insight, reason, clarity, truth, wisdom, knowledge, mind, enlightenment, idea, culture, and cultivated worldview.
-- Chart expression: education, deep thinking, refined cognition, spiritual or philosophical clarity, and the shaping power of ideas; Witte also gives large water masses and floods as concrete manifestations.
-- Its liabilities are abstraction without embodiment, cultured idealism that does not meet matter, and certainty that becomes detached from lived conditions.
+Poseidon brings together clear thought and the cultivation of understanding: insight and reason develop into knowledge, education and a considered worldview. Truth, wisdom and enlightenment give this intellectual range an aspiration toward deeper understanding, while ideas and culture connect it to shared human life ([Rules factor entry, PDF p. 29](#witte-factor-entry), [ABC Keyword Entry, printed p. 17; PDF p. 7](#abc-keyword-entry)). The Rules factor entry also gives water masses and floods as concrete meanings. These belong to the factor's documented range, although the two standalone entries provide no rule for choosing a meaning in a particular formula.
 
 ## Related Axes
 
@@ -70,3 +79,7 @@ Insight, Reason, Clarity, Truth, Wisdom, Knowledge, Mind, Enlightenment, Idea, a
 
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
+
+## Open Questions
+
+- The standalone entries do not explain the relationship between the intellectual themes and water masses or floods, or provide a rule for selecting a meaning in a particular formula.

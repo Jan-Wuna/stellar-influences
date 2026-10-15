@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Uranus`
 - Astronomicon formula: `Y/MC = X`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 Unconsciousness. Unconscious matters related to the beyond. To be the cause of sudden events. Aggravations caused through deceit, falsehood or dishonesty. To create confusion. To cause chaos (wreak havoc).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `81`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-My voice for the technique, my restless breath, my nervousness in the water, my new future, my sudden ideologies, my surprising weak, mcinc restlessness in the air, new psychic exchanges, and sudden psychic weakness
+My intuitive sense for technology, my restless breathing, my nervousness in water, my new future, my sudden premonitions, my surprising weakness, my unrest in the air, new disappointments of the soul, and sudden weakness of the soul
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `290–291`, entry code `1042`.
+
 #### Ebertin Entry
 
-Emotional irritability, occasional lack of clarity and certainty, desire 65 Uranus = Neptune/MC has frequently been found in the case of schizophrenia. However, one must not diagnose this without considering the entire map. to bring ideas to realization at all costs. Sudden inner experiences, confusion.
+Emotional irritability, occasional lack of clarity and certainty, desire to bring ideas to realization at all costs. Sudden inner experiences, confusion.
+
+- Historical footnote 65 (printed p. 290): Uranus = Neptune/MC has frequently been found in the case of schizophrenia. However, one must not diagnose this without considering the entire map.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ A genius for take an intuitive and subtle approach to one’s career. Unexpected
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Sudden and unexpected insights about possible goals or plans for future use of y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden insight or confusion affecting goals and their realization.
+- psychology: irritability, urgent realization of ideas, sudden premonitions, and disappointment are explicit.
+- body/health: Witte's unconsciousness, ABC's breathing and weakness, and Ebertin's schizophrenia footnote are historical claims, not diagnostic evidence.
+- social/relationship: deception causing aggravation and resistance to unrealistic unpopular ideas are stated.
+- events/manifestations: unexpected work confusion, ingenious realization of ideals, and sudden planning insights are named.
+- conflicts/notes: Ebertin's footnote is separate from the interrupted main sentence; its caution does not make astrological diagnosis medically valid.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize confusion and disruptive experiences. Sandbach and Munkasey also allow ingenuity and insight, while retaining unexpected confusion or unrealistic ideas.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Uranus`: inspired reform, artistic or spiritual innovation, and the ability to redirect one's public life through flashes of insight. Main caution: erratic ambition: purpose can become ungrounded, scandalous, or too unsettled to mature coherently.
+In Neptune/MC = Uranus, sudden impressions can alter plans or the way ideals are pursued, while also producing confusion. [Sandbach](#sandbach-entry) pairs ingenuity at work with unexpected confusion, and [Munkasey](#munkasey-entry) pairs new planning insights with resistance to ideas lacking a basis in reality. [Ebertin](#ebertin-entry) adds irritability and the urge to realize ideas at all costs; [ABC](#abc-entry) names sudden premonitions and disappointment. The historical medical footnote remains separate and supplies no individual diagnosis.
 
 ## Links
 

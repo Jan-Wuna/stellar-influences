@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Neptune`
 - Astronomicon formula: `W/Z = Y`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 A slow development seems to come to a standstill. One cannot see any change in a chronically slow development. A divorce extending over a long time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Patient development in metaphysics, staggered air change, intuition development in old age, problematic change through resolution, creeping pain development, painful future development, and refinement of a mature development see above
+- Source page: `353`; PDF page: `175`.
+
+Patient development in metaphysics, disturbed change of air, intuition development in old age, problematic change through dissolution, creeping pain development, painful future development, and refinement of a mature development.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0898`.
 
 Falsehood, lies, frauds, desire to harm others secretly, immorality, instability. Danger through water, poison or gas. Shattered nerves.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 Profoundly deep psychic experiences. An idealism that one carries as if it were a horrible, oppressive burden. Tremendous insights into how limitations can be transcended.
 
@@ -70,22 +80,21 @@ Defects in the planning for large and important activities; improbable effects f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development whose progress is obscure, impaired or dissolved, alongside inward insight.
+- psychology: Oppressive idealism, deep psychic experience and insight into limitations in Sandbach's account.
+- body/health: Pain, shattered nerves and water/poison/gas dangers are historical source claims, not diagnoses or forecasts.
+- social/relationship: Prolonged divorce and concealed uses of power are attributed manifestations.
+- events/manifestations: Apparent standstill, defective planning, neglected waste treatment and painful dissolution.
+- conflicts/notes: Refinement and intuition coexist with obstruction; moral accusations in Ebertin remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe external stagnation or concealment alongside inward insight and refinement. These address different aspects of development; no direct disagreement is established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Neptune`: endurance in bleak conditions, strategic retreat, and the capacity to persist where morale and clarity are undermined. Main caution: covert destructiveness: pressure and confusion can merge into despair, obsession, or slow internal collapse.
+In `Saturn/Pluto = Neptune`, Neptune specifies development whose progress is difficult to see: change may seem to stop, separation may drag on, and planning or maintenance may contain defects ([Witte](#witte-entry), [Munkasey](#munkasey-entry)). Dissolution and painful development sit beside intuition and refinement in [ABC](#abc-entry); [Sandbach](#sandbach-entry) describes deep psychic experience and insight, while allowing idealism to become an oppressive burden. These inward possibilities do not establish external progress. [Ebertin's](#ebertin-entry) deception, moral and bodily-danger claims remain historical attributions rather than judgments or forecasts.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Sun Kronos](../triads/vernal-point-sun-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Independence and authority over many people.
 
@@ -42,13 +46,27 @@ Independence and authority over many people.
 
 #### ABC Entry
 
-Authoritat person in public life, dominant persons in public, personal self reliance in public, personal reputation in public life, state centre for the public, and important person for the public
+- Source page: 50; PDF page: 24 (one-based spread).
+
+A person of authority in public life, dominant people in public, personal independence in public, personal reputation in public life, a state center for the public, and an important person for the public
+
+## Comparative Schema
+
+- core meaning: Public authority embodied in an independent or prominent person.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Authority over many and people important to the public.
+- events/manifestations: Personal reputation, public dominance, and a state center.
+- conflicts/notes: Independence and dominance are source descriptions, not claims of moral superiority.
+
+## Contradictions
+
+No direct contradiction is established. A prominent person and a state center are distinct embodiments of public authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Sun`: independence and authority over many people.
-- Practical expression: dominant persons in public, personal self reliance in public, personal reputation in public life, and state centre for the public.
+In `Vernal Point/Kronos = Sun`, public authority becomes visible in persons and centers of power. The [Witte entry](#witte-entry) emphasizes independence and authority over many people. The restored [ABC entry](#abc-entry) adds personal reputation, dominance, an important public figure, and a state center. The shared focus is a concrete bearer of public standing and independence.
 
 ## Links
 

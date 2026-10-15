@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus MC](../triads/mercury-venus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Acquaintanceship. To have and make friends. Appreciation of beauty. Artistic sen
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 240; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-animated Jugnd Licbc, animated Liebcs thoughts, animated language art, talk about Soul Harmonic, I speak about the joy, love of a young soul, my peaceful wordc, my Jugnd love, and my art
+Soulful youthful love, soulful thoughts of love, soulful art of language, conversations about harmony of the soul, I speak about joy, love of a young soul, my peaceful words, my youthful love, my description of art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 147 (coded entry 0469); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ An understanding of art, pursuit of artistic aims, a sense of beauty, "the wings
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 42 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 The communication of love is one’s highest attainment in the lifetime. One’s work involves the soothing of others, maybe through offering words or ideas of comfort and beauty.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Feeling increased pleasure and love for self as you age and become more comforta
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Art, beauty and affectionate communication become personal aims or forms of work.
+- psychology: Appreciation of beauty and growing comfort expressing affection are explicit.
+- body/health: No specific bodily or health outcome is stated.
+- social/relationship: Making friends and offering comforting words connect personal and interpersonal expression.
+- events/manifestations: Artists, writers, speeches and recognition for writing are examples.
+- conflicts/notes: ABC's soulful expression and personal peaceful words add an inner-life emphasis beside artistic aims and recognition.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize artistic aims, inner harmony, comfort and recognition without stating a direct disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = MC`: mediation, tasteful presentation, and the ability to advance through tact and verbal polish. Main caution: image management: public expression can become superficial, overly curated, or too dependent on being liked.
+In `Mercury/Venus = MC`, MC specifies a personal investment in beauty and communicating affection. Artistic perception, making friends and pursuing artistic aims connect with offering others comforting words or ideas. The source examples include artists, writers and satisfaction in recognized speeches or writing, alongside growing ease in telling others of one's love. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Soulful thoughts of love, harmony of the soul and one's own peaceful words give that expression an inner emotional voice. Youthful love and personal description of art remain distinct examples; public approval is one possible satisfaction rather than the formula's sole meaning. ([ABC](#abc-entry); [Munkasey](#munkasey-entry))
 
 ## Links
 

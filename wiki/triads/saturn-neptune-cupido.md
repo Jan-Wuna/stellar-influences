@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Neptune Cupido`
 - Astronomicon triad-set: `W Y ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Cupido = Saturn](../activations/neptune-cupido-equals-saturn.md)
-- [Saturn/Cupido = Neptune](../activations/saturn-cupido-equals-neptune.md)
-- [Saturn/Neptune = Cupido](../activations/saturn-neptune-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Cupido = Saturn](../activations/neptune-cupido-equals-saturn.md) | [Neptune/Cupido](../axes/neptune-cupido.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Cupido = Neptune](../activations/saturn-cupido-equals-neptune.md) | [Saturn/Cupido](../axes/saturn-cupido.md) | [Neptune](../factors/neptune.md) |
+| [Saturn/Neptune = Cupido](../activations/saturn-neptune-equals-cupido.md) | [Saturn/Neptune](../axes/saturn-neptune.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Neptune/Cupido = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `247`
-- `Neptune/Cupido = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `393`
-- `Saturn/Cupido = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `224`
-- `Saturn/Cupido = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `355`
-- `Saturn/Neptune = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `222`
-- `Saturn/Neptune = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `351`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Cupido = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-cupido-equals-saturn.md#witte-entry), one-based PDF entry-start p. `247`.
+- `Neptune/Cupido = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-cupido-equals-saturn.md#abc-entry), printed p. `393`.
+- `Saturn/Cupido = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-cupido-equals-neptune.md#witte-entry), one-based PDF entry-start p. `224`.
+- `Saturn/Cupido = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-cupido-equals-neptune.md#abc-entry), printed p. `355`.
+- `Saturn/Neptune = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-neptune-equals-cupido.md#witte-entry), one-based PDF entry-start p. `222`.
+- `Saturn/Neptune = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-neptune-equals-cupido.md#abc-entry), printed p. `351`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Saturn`: This activation hardens communal and marital instability into sickness, separation, misunderstanding, and prolonged unpleasantness, showing associations that decay under strain rather than recover.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Gaining perspective on the direction of life and examining your inner self for u
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Renewed perspective on life's direction and previously untapped inner potential.
+- psychology: Self-examination and recognizing an increased capacity to solve difficulties.
+- body/health: No bodily condition is supplied by this paragraph.
+- social/relationship: Wider notice or fame for prior efforts; no particular bond is specified.
+- events/manifestations: Recognition of earlier work and a clearer view of how to address existing troubles.
+- conflicts/notes: This repeated-Sun paragraph concerns perspective and potential; the repeated-MC paragraph separately concerns mature assessment of contribution.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented, so no independent source comparison is available. The paragraph retains both inner growth and external notice, without stating that fame resolves one's troubles.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Sun`: Gaining perspective on the direction of life and examining one's inner self for untapped soul growth or potential; additional notoriety and fame for prior efforts; recognition that one is better able now to solve one's troubles.
+`Sun/MC = Sun` connects a broader view of one's direction with discovering unused inner potential. [Munkasey](#munkasey-entry) links that self-examination to recognizing a greater capacity to deal with existing troubles, while retaining additional notice or fame for earlier efforts as an outward expression. The paragraph brings personal perspective and recognition together without making one the cause of the other. Its focus remains distinct from the repeated-MC paragraph's mature appraisal of contribution and honors.
 
 ## Links
 

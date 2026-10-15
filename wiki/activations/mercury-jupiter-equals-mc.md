@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = MC`
 - Astronomicon formula: `T/V = MC`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 To be in a happy contented mood. Optimism. Minute of joyful experience. The own joy of movement or sports.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-I at the speaking of happiness, I think positively, my joy in the movement, my happy youth, my success, my thoughts of money, and my right to remember
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> An Glück-Seligkeit denken, Gespräche über seelische Freude, ich spreche vom Glück, ich denke positiv, meine Freude an der Bewegung, meine glückliche Jugend, meinen Erfolg beschreiben, meine Gedanken ans Geld, mein Recht bedenken
+
+Editorial translation from the German passage: Thinking of bliss; conversations about inner joy; I speak of happiness; I think positively; my joy in movement; my happy youth; describing my success; my thoughts about money; considering my right.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Finding a way to use your knowledge and education to enhance your life and gain 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal satisfaction and recognition through knowledge or communication ([Witte](#witte-entry), [Munkasey](#munkasey-entry)).
+- psychology: Optimism, contentment, and fulfillment are explicit.
+- body/health: Joy in movement or sports is named without a medical claim.
+- social/relationship: Sandbach describes encouragement, teaching, and generous sharing by an authority.
+- events/manifestations: Research, professional teaching, and recognition of work or principles are examples.
+- conflicts/notes: Personal joy and professional recognition are separate strands; neither entails public inflation.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize one's joy and positive thought; Sandbach and Munkasey emphasize a role for knowledge or education. These settings do not establish that professional recognition is required for happiness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = MC`: educational or strategic vocation, broad reputational influence, and direction strengthened by intellectual optimism and moral or legal thinking. Main caution: inflated public judgment: outer role can become too preachy, self-assured, or careless with limits and detail.
+In `Mercury/Jupiter = MC`, MC specifies the Mercury/Jupiter field as one's satisfaction in knowledge and expression. Witte describes optimism and contentment, including enjoyment of movement; Sandbach gives teaching, research, and encouraging others through communication. Munkasey connects using one's education with recognition and fulfillment. Personal joy and a recognized intellectual role are related strands; neither requires the other ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

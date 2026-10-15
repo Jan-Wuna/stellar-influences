@@ -1,0 +1,42 @@
+{
+  "path": "wiki/activations/venus-neptune-equals-moon.md",
+  "status": "stale_flag_cleared_with_proof",
+  "metadata_disposition": "resolved_by_root_exact_metadata_decision_and_own_raw_omission_check",
+  "before_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nWoman’s happiness in love obstructed. Womans unhappy love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIgnorance of a gentle woman, autlosation of love for woman, exchange of women's love, love of a woman for water, kiss of a woman in the water, metaphysical people art, insecure love filials, and benevolent expectations of a child\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nA chaotic emotional life, dreamy nature, easily influenced or led by others. A renouncing, unhappy or disappointed woman.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/NEPTUNE with Planets and Points`\n- Source page: `204`\n\n#### Munkasey Entry\n\nComforting those who delight in deceit, or escape from reality thru drugs, self-delusion, etc.; increased feelings of romance and romantic notions about life; equating caring with love; dreams of romantic or escapist love.",
+  "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Neptune`\n- Source reference: PDF page `180` (one-based).\n\n#### Witte Entry\n\nWoman’s happiness in love obstructed. Woman's unhappy love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Neptune`\n- Source reference: printed page `278`; PDF page `138` (one-based).\n\n#### ABC Entry\n\nIntuitions of a beautiful woman, dissolution of love for the woman, disappointing love of women, a woman's love of water, a woman's art in water, metaphysical folk art, uncertain feelings of love, and benevolent emotional expectations.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source heading: `Venus/Neptune`\n- Source reference: printed page `188`, coded entry `0628`.\n\n#### Ebertin Entry\n\nA chaotic emotional life, dreamy nature, easily influenced or led by others. A renouncing, unhappy or disappointed woman.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/NEPTUNE with Planets and Points`\n- Source page: `204`\n\n#### Munkasey Entry\n\nComforting those who delight in deceit, or escape from reality thru drugs, self-delusion, etc.; increased feelings of romance and romantic notions about life; equating caring with love; dreams of romantic or escapist love.",
+  "source_entries_unchanged_in_metadata_closure": true,
+  "page_sha256_raw_bytes": "f8936f89d31763e4f38223af5abd9a206974d6218f01ea1b8c07be75dff405be",
+  "page_sha256_LF_text": "af7e8492174d6303432f58b7151447a0a205342f555a81c5338fb29117cc6c88",
+  "owner_record_sha256": "f21a0f8ab119ef50a5205cc273566d69c99fefb2b95b2548ff27d97ed386767b",
+  "owner_ledger": "activations-088.jsonl",
+  "owner_line": 34,
+  "independent_allowance": {
+    "path": "wiki/activations/venus-neptune-equals-moon.md",
+    "before_sha256": "6ebd17945ad7b02fdd8c4817bab0f10b49565549a5d84616b01e481e5adf45e8",
+    "after_sha256": "8dd581a440edbd47226c43099f28886ad3597bf5773e102a369afbd037f191cd",
+    "ledger": "activations-088.jsonl",
+    "reason": "Full baseline/current page, four complete sources, full amended088record and all queued flags independently read. Fresh actual Witte180 Moon two sentences including second possessive apostrophe; ABC138 printed278 all8clauses (Ahnungen, Auflösung, disappointment, water/art, metaphysical Volks-Kunst, uncertain feelings, benevolent emotional expectations); Ebertin0628 printed188/PDF190 two sentences; Munkasey printed204/PDF205 fullMoon row personally viewed. All source changes/newheadings/refs verified. Complete actual Sandbach61–62 personally read: Sun directly followed by Mercury; no Moon before Venus/Pluto. autlosation flag stale; repaired complete translation matches. Root separately accepted exact missing-Sandbach declaration/link removal in metadata-repair-decisions.md; this metadata closure left Source Entries unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-witte-pdf180.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-abc-pdf138.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-ebertin-pdf190.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-munkasey-pdf205.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-sandbach-pdf061.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-sandbach-pdf062.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  "genuine_source_limit_confirmed_with_proof": [
+    "Sandbach's actual Venus/Neptune chapter (one-based PDF61–62) omits a Moon activation. Its false activation-source metadata/link are removed; the four existing sourced entries remain complete."
+  ],
+  "root_metadata_decision": "docs/reviews/2026-10-15-full-wiki/verification/metadata-repair-decisions.md",
+  "own_raw_proofs": [
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-witte-pdf180.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-abc-pdf138.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-ebertin-pdf190.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-munkasey-pdf205.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-sandbach-pdf061.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D-sandbach-pdf062.png"
+  ],
+  "hash_note": "Author metadata snapshot page_sha256 uses LF text; current CRLF raw-byte hash differs solely by newline encoding. Source-section and compact sorted-owner hashes match exactly."
+}

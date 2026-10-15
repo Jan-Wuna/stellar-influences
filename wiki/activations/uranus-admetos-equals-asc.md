@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Uranus Asc Admetos](../triads/uranus-asc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Sudden breaking off of connections. Others break off the connections with the na
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 384; PDF p. 191.
+
 #### ABC Entry
 
-Olocked environment Rhythm, dynamic local cycle, limiting partner impulses, sudden depression of the partner, sudden congestion at the site, technical environmental blockade, and Ycr sealing of the tensions at the site
+Blocked environmental rhythm, a dynamic local circulation or cycle, restrictive impulses from the partner, sudden depression of the partner, sudden congestion at the location, a surprisingly blocked environment, a technical blockage in the environment, concentration of tensions at the location.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: A sudden break or blockage in relations or the immediate surroundings.
+- psychology: A partner's depression and local concentration of tension are ABC associations.
+- body/health: Witte's severe death or murder language and ABC's depression remain attributed claims, without a personal prognosis.
+- social/relationship: Connections may end abruptly, including another person breaking them off.
+- events/manifestations: Local congestion, blocked surroundings and technical blockage accompany the relationship examples.
+- conflicts/notes: ABC also names a dynamic local circulation/cycle; blockage does not erase that distinct expression.
+
+## Contradictions
+
+Witte stresses definitive severance and severe danger involving others. ABC emphasizes blocked local rhythms, partner impulses and tensions, while also retaining a dynamic local cycle. These are different scopes, not proof that an interpersonal interruption entails physical danger.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = Asc`: Sudden breaking off of connections. Others break off the connections with the native. The definite end of connections. Danger of death or murder from others or for others.
-- Practical expression: olocked environment Rhythm, dynamic local cycle, limiting partner impulses, sudden depression of the partner, and sudden congestion at the site.
+In `Uranus/Admetos = Asc`, Asc specifies an abrupt interruption through other people or the immediate environment. [Witte](#witte-entry) describes connections being broken off, including by others; [ABC](#abc-entry) adds restrictive partner impulses, congestion and technical blockage at a location, as well as a dynamic local circulation or cycle. The shared focus is a connection or setting whose continuity is interrupted, while Witte's extreme danger claims and ABC's depression wording remain attributed possibilities.
 
 ## Links
 

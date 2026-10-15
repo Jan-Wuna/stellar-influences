@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter Apollon](../triads/sun-jupiter-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 Luck and success in commerce, industry or science. Good fortune for many people.
 
@@ -42,13 +46,27 @@ Luck and success in commerce, industry or science. Good fortune for many people.
 
 #### ABC Entry
 
-Expansion of a money center, success through personal knowledge, successful right person, man of financial business, extensive human joy, person with vie) money, personal money increase, and beneficial personal expansion
+Source locator: printed page 149; PDF page 73 (one-based).
+
+Expansion of a money center, success through personal knowledge, a successful legal person, a man in financial business, extensive human joy, a person with much money, personal increase of money, and beneficial personal expansion.
+
+## Comparative Schema
+
+- core meaning: Success or benefit extending through knowledge, commerce, industry or science.
+- psychology: Extensive joy is explicit; no fuller inner portrait is supplied.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Good fortune for many people and a successful legal person.
+- events/manifestations: Expansion of a money center, financial activity and increased personal money.
+- conflicts/notes: The entries specify favorable settings; they do not establish happiness in all things.
+
+## Contradictions And Comparison Notes
+
+Both entries describe broad success and benefit. ABC adds personal knowledge, legal and financial people, and increasing money; Witte also specifies industry and science.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Jupiter = Apollon`: success and abundance and happiness in all things.
-- Practical expression: expansion of a money center, success through personal knowledge, successful right person, man of financial business, and extensive human joy.
+For `Sun/Jupiter = Apollon`, benefit has an expansive, knowledgeable or commercial expression. [Witte](#witte-entry) names success in commerce, industry or science and fortune for many people; [ABC](#abc-entry) adds success through personal knowledge, financial expansion and increasing money, alongside joy and legal or financial people. The shared focus is advantage extending through a field of activity or to many people, without turning those specific favorable meanings into universal happiness.
 
 ## Links
 

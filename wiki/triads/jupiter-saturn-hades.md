@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Saturn Hades`
 - Astronomicon triad-set: `V W ¢`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Hades = Saturn](../activations/jupiter-hades-equals-saturn.md)
-- [Jupiter/Saturn = Hades](../activations/jupiter-saturn-equals-hades.md)
-- [Saturn/Hades = Jupiter](../activations/saturn-hades-equals-jupiter.md)
+- [Jupiter/Hades = Saturn](../activations/jupiter-hades-equals-saturn.md): base axis [Jupiter/Hades](../axes/jupiter-hades.md); activator [Saturn](../factors/saturn.md).
+- [Jupiter/Saturn = Hades](../activations/jupiter-saturn-equals-hades.md): base axis [Jupiter/Saturn](../axes/jupiter-saturn.md); activator [Hades](../factors/hades.md).
+- [Saturn/Hades = Jupiter](../activations/saturn-hades-equals-jupiter.md): base axis [Saturn/Hades](../axes/saturn-hades.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
-- `Jupiter/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `335`
-- `Jupiter/Saturn = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `207`
-- `Jupiter/Saturn = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `325`
-- `Saturn/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `356`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Hades = Saturn](../activations/jupiter-hades-equals-saturn.md#witte-entry) (PDF entry-start p. 212); [Jupiter/Saturn = Hades](../activations/jupiter-saturn-equals-hades.md#witte-entry) (PDF entry-start p. 207); [Saturn/Hades = Jupiter](../activations/saturn-hades-equals-jupiter.md#witte-entry) (PDF entry-start p. 225).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Hades = Saturn](../activations/jupiter-hades-equals-saturn.md#abc-entry) (printed p. 335); [Jupiter/Saturn = Hades](../activations/jupiter-saturn-equals-hades.md#abc-entry) (printed p. 325); [Saturn/Hades = Jupiter](../activations/saturn-hades-equals-jupiter.md#abc-entry) (printed p. 356).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Hades = Saturn`: unnecessary or misguided expenditure, poor investments, and impoverishment through shortage of money.
-- `Jupiter/Saturn = Hades`: being content with little, seeing the results of former errors, or encountering misfortune connected with buildings.
+Jupiter, Saturn and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Hades](../axes/jupiter-hades.md)
+- [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Saturn/Hades](../axes/saturn-hades.md)
 - [Jupiter](../factors/jupiter.md)
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Poseidon = Moon`
 - Astronomicon formula: `V/¨ = R`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 218, Jupiter + Poseidon, Moon row.
+
 Persons who are reasonable, wise and intelligent. The public has a reasonable approach to things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of a woman through clarity, successful culture people, spiritual advantage of a people, cultural success of a woman, legal culture for woman, legal clarity of woman, hour of truth for a woman, powerful people right, and true feelings joy
+- Source reference: printed p. 346; one-based PDF p. 172, Jupiter + Poseidon, Moon row.
+
+Success of a woman through clarity, a culturally successful people, intellectual or spiritual advantage of a people, cultural success of a woman, legal culture for the woman, the woman's legal clarity, an hour of truth for a woman, reasonable law of the people, and true emotional joy.
+
+## Comparative Schema
+
+- Core meaning: Reason and understanding expressed among people and the public ([Witte Entry](#witte-entry)).
+- Psychology: A reasonable approach and joy in clarity are the readable themes.
+- Body/health: No bodily or medical manifestation is established.
+- Social/relationship: Public understanding is explicit; ABC also uses historical gendered examples involving women.
+- Events/manifestations: Cultural success and legal clarity occur in the [ABC Entry](#abc-entry).
+- Conflicts/notes: ABC gives reasonable law of the people rather than powerful people right. Its woman and people examples remain historical source formulations, not universal claims.
+
+## Contradictions
+
+Public good sense and ABC's particular cultural and legal examples are compatible emphases; neither establishes that every community or woman embodies those qualities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Moon`: collective mood becoming thoughtful and balanced. It favors public good sense, emotionally intelligent communities, and wise responsiveness.
+In `Jupiter/Poseidon = Moon`, Moon places the pair's reason and clarity in a human and public setting. The [Witte Entry](#witte-entry) explicitly describes reasonable people and a public that approaches matters sensibly. The complete [ABC Entry](#abc-entry) adds cultural success and legal clarity, using women and peoples as its historical examples. This supports public understanding and joy in clarity without asserting that every community or woman embodies these qualities.
 
 ## Links
 

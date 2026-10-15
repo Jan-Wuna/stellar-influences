@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Apollon`
 - Astronomicon formula: `W/¨ = ¥`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 Colleagues, classmates. Class conscious. Corps of officers. Attitude of the corps. Students in common education. Educational sciences.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of the mind science, successful realization of difficulties, successful concentration on the truth, hard truth experiences, concentration on spiritual knowledge, growing patience and reason, increasing mental tasks persevering patience and reason, blockage by mental impulses, and end by knowledge-
+- Source page: `369`; PDF page: `183`.
+
+Tasks of Geistes-Wissenschaft; successful recognition of difficulties; successful concentration on truth; hard experiences of truth; concentration on mental/spiritual knowledge; growing patience and reason; increasing mental/spiritual tasks.
+
+Geistes-Wissenschaft is retained as the source's broad mind/spirit-science compound; this short row does not define a specific discipline.
+
+## Comparative Schema
+
+- core meaning: Shared education and sustained pursuit of understanding.
+- psychology: Concentration on truth, patience, reason and recognition of difficulty.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Classmates, colleagues, students and an officers' corps are Witte's examples of shared formation.
+- events/manifestations: Educational sciences, increasing intellectual tasks and difficult experiences of truth.
+- conflicts/notes: The entries combine belonging to an educated group with demanding inquiry; they do not guarantee agreement within it.
+
+## Contradictions
+
+Witte emphasizes people formed by common education, while ABC emphasizes the work of understanding. The short entries do not establish a direct disagreement or independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Apollon`: colleagues, classmates, class conscious, corps of officers.
-- Practical expression: tasks of the mind science, successful realization of difficulties, successful concentration on the truth, hard truth experiences, and concentration on spiritual knowledge.
+In `Saturn/Poseidon = Apollon`, Apollon specifies educational and intellectual work through its shared setting and increasing extent. Common training links classmates, colleagues or members of a corps, while concentration on knowledge and truth brings further tasks and greater patience and reason ([Witte](#witte-entry), [ABC](#abc-entry)). Understanding is not presented as effortless: difficulties must be recognized and truth can be experienced as hard. The social examples and the work of inquiry remain complementary emphases rather than a promise of shared belief.
 
 ## Links
 

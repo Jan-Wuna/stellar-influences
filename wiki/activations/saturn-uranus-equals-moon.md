@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Moon Saturn Uranus](../triads/moon-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Sudden separation from persons or from a female person. To retire from public li
 
 #### ABC Entry
 
-Excitations and difficulties for a people, stort rhythm and a woman, nervousness of an old woman, sudden Gemlits cancellations, sudden unrest in the people, painful event for cine woman, and surprising separation from a woman
+Agitation and difficulties for a people, disturbed rhythm of a woman, nervousness of an elderly woman, sudden disturbances of mood, sudden unrest among a people, a painful event for a woman, and surprising separation from a woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Protection of traditional procedures from radical changes or alterations; new wa
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional security and familiar ties face sudden pressure or separation.
+- psychology: Sensitivity to rejection of individuality; desire and fear around releasing insecurity.
+- body/health: Ebertin attributes depression and emotional strain; these are not diagnostic conclusions.
+- social/relationship: Historical entries mention women; Munkasey addresses family and home traditions.
+- events/manifestations: Withdrawal from public life, disturbed moods and rebellion against family conventions.
+- conflicts/notes: Gendered examples remain attributed rather than universalized.
 
 ## Contradictions
 
-- None recorded yet.
+Protection of traditions and rebellion against them are both present in Munkasey; they are alternative responses, not a settled single tendency.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Moon`: stoic adaptability, intuitive awareness of pressure, and the ability to endure changing conditions without immediate collapse. Main caution: volatility under repression: moods can swing sharply when tension is stored too long.
+Moon specifies Saturn/Uranus through emotional strain and the security of familiar ties. Sensitivity to others' reactions can make release from insecurity desirable and frightening at once. The [Sandbach Entry](#sandbach-entry) (PDF p. 88, chapter start only) explains this tension, while [Munkasey](#munkasey-entry) (printed p. 284) places it in protecting or challenging family traditions. The separations and depression language of [Witte](#witte-entry) (PDF p. 221, entry start) and [Ebertin](#ebertin-entry) (printed p. 247), including their gendered examples, remain attributed possibilities.
 
 ## Links
 

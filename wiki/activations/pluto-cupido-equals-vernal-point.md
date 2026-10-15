@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Vernal Point Pluto Cupido](../triads/vernal-point-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The evolving structure of human society. General social transformations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 408; PDF page 203.
+
 #### ABC Entry
 
-Developments on the whole in the C)public, joint changes in the 6publications, artistic development in the () public sphere, Community change, and interrelated changes in the public sphere
+Development toward a whole in public, shared changes in public, unfolding art in public, a public community in change, interconnected changes in public.
+
+## Comparative Schema
+
+- core meaning: Transformation of human society and public collective life.
+- psychology: No specific psychological state is described.
+- body/health: No bodily or medical condition is given.
+- social/relationship: The evolving structure of society.
+- events/manifestations: General social transformation and public artistic development.
+- conflicts/notes: ABC describes public collective change, public art and interconnected changes.
+
+## Contradictions
+
+The public and social themes are compatible; ABC adds public art and interconnected changes, without a separate claim about publishing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Vernal Point`: the evolving structure of human society; General social transformations.
-- Practical expression: developments on the whole in the C)public, joint changes in the 6publications, artistic development in the () public sphere, community change, and interrelated changes in the public sphere.
+Vernal Point specifies Pluto/Cupido through changes that concern public collective life. The [Witte entry](#witte-entry) describes the evolving structure of society and general social transformations. The public collective, artistic and interconnected changes in [ABC](#abc-entry) supply related settings.
 
 ## Links
 

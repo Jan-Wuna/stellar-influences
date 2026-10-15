@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Hades/Hades`
 - Astronomicon axis: `¢/¢`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
+
+## Comparative Schema
+
+- Core meaning: Lack, deterioration, old burdens, and the continuing presence of the past ([Pair Summary](#pair-summary)).
+- Psychology: Hesitation, delay, loneliness, and unpleasant impressions are source themes without a fuller account of temperament.
+- Body/health: Illness and long illness occur as historical source keywords without a mechanism, diagnosis, or treatment.
+- Social/relationship: Loneliness and "Widows" are listed; the latter remains a historical social category, not a general claim about women.
+- Events/manifestations: Waste, dirt, secrets, difficult circumstances, history, antiques, and the far past are explicit examples.
+- Conflicts/notes: The repeated-factor identity does not itself establish greater intensity or duration. The source supplies both hardship and historical material. PDF p. 275 is a chapter-start locator only.
 
 ## Related Activations
 
@@ -81,8 +92,9 @@ Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesit
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Hades` is the pure doubling of the Hades principle: poverty, decay, illness, dirt, secrecy, burdens, repulsiveness, waste, and the heavy remnants of what has already gone wrong.
-- Chart expression: entrenched degradation rather than a passing problem. It describes chronic lack, long illness, lonely or ugly circumstances, stale grief, shame, old burdens, and adaptation to bleakness, but it can also describe history, antiques, salvage, and the need to work with what is old, discarded, or socially unwanted.
+`Hades/Hades` gathers lack, deterioration, delay, and old burdens into one source entry. Poverty, waste, dirt, loneliness, secrets, and difficult circumstances describe its burdened side; history, antiques, and the far past preserve a separate, concrete connection with old material ([Pair Summary](#pair-summary)).
+
+Illness, long illness, and "Widows" remain attributed historical keywords. The entry gives no medical explanation or universal claim about bereavement. Repetition of the factor names also does not establish that every listed circumstance is intensified or permanent.
 
 ## Links
 

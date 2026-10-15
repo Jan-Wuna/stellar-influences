@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Hades Admetos`
 - Astronomicon triad-set: `MC ¢ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md)
-- [MC/Admetos = Hades](../activations/mc-admetos-equals-hades.md)
-- [MC/Hades = Admetos](../activations/mc-hades-equals-admetos.md)
+- [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md): base axis [Hades/Admetos](../axes/hades-admetos.md); activator [MC](../factors/mc.md).
+- [MC/Admetos = Hades](../activations/mc-admetos-equals-hades.md): base axis [MC/Admetos](../axes/mc-admetos.md); activator [Hades](../factors/hades.md).
+- [MC/Hades = Admetos](../activations/mc-hades-equals-admetos.md): base axis [MC/Hades](../axes/mc-hades.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Hades/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `282`
-- `Hades/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `444`
-- `MC/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
-- `MC/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `95`
-- `MC/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
-- `MC/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md#witte-entry) (PDF entry-start p. 282); [MC/Admetos = Hades](../activations/mc-admetos-equals-hades.md#witte-entry) (PDF entry-start p. 75); [MC/Hades = Admetos](../activations/mc-hades-equals-admetos.md#witte-entry) (PDF entry-start p. 71).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Admetos = MC](../activations/hades-admetos-equals-mc.md#abc-entry) (printed p. 444); [MC/Admetos = Hades](../activations/mc-admetos-equals-hades.md#abc-entry) (printed p. 95); [MC/Hades = Admetos](../activations/mc-hades-equals-admetos.md#abc-entry) (printed p. 87).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = MC`: coldness, emotional inaccessibility, lifelong loneliness, and living in scant or meager circumstances.
-- `MC/Admetos = Hades`: lowers the axis into poverty, misfortune, and numb endurance of difficult conditions.
-- `MC/Hades = Admetos`: compresses the axis into deprivation of life's bare necessities.
+MC, Hades and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Admetos](../axes/hades-admetos.md)
+- [MC/Admetos](../axes/mc-admetos.md)
+- [MC/Hades](../axes/mc-hades.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Admetos](../factors/admetos.md)

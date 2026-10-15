@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE + VULCANUS`
+- PDF page (one-based): `253` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Sensibility. Power one cannot hear or see. The might of the fine material forces
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `404–405`; PDF page (one-based): `201` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-subtle energy, fluid energy, violent negation, tremendous exchange, air power, power weakness, powerful uncertainty, strong intuition, unknown influence, and water force
+Influence of metaphysics, dissolution of energy, subtle-material energy, fluid energy, rejection of violence, tremendous deception, air power, weakness of power, powerful uncertainty, strong intuition, unknown influence, water power.
+
+## Comparative Schema
+
+- core meaning: unseen or subtle force coexists with loss of strength, resignation, and powerful dissolution.
+- psychology: sensibility and strong intuition appear with powerful uncertainty and the experience of powerlessness.
+- body/health: the summaries do not name a specific illness; loss of power or strength is broader than a medical diagnosis.
+- social/relationship: influence from hidden or unknown sources is explicit; neither entry gives a distinct intimate-relationship account.
+- events/manifestations: mighty deception or dissolution, hidden power, metaphysical influence, dissolution of energy, fluid energy, air power, and water power span the stated range; ABC also names rejection of violence.
+- conflicts/notes: hidden force and absence of force are both stated; the evidence does not decide which applies in a particular case or establish covert coercion as the necessary mechanism.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ subtle energy, fluid energy, violent negation, tremendous exchange, air power, p
 - [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md)
 - [Neptune/Vulcanus = Zeus](../activations/neptune-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+- ABC's complete bold summary was retranslated from PDF201, printed404–405, restoring metaphysical influence, dissolution of energy, rejection of violence and tremendous deception. Witte's exact pair passage is PDF253. Invisible power and powerlessness are explicit alternatives, not a contradiction to flatten into one outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes hidden force, subtle pressure, and powerful influences that are sensed more than seen. It often shows masked strength, covert coercion, deceptive power, or the experience of feeling overpowered, compelled, or stripped of influence through forces working beneath the surface.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Vulcanus` links power with what cannot be readily seen or heard. [Witte's pair summary](#pair-summary) explicitly names hidden sources of influence and the might of fine material forces. Yet the same summary includes resignation, loss of strength or influence, and powerlessness: an unseen force and an inability to exert force are both part of the range.
+
+The [ABC summary](#abc-pair-summary) adds metaphysical influence, dissolution of energy, strong intuition, powerful uncertainty, fluid energy, air power and water power. Its rejection-of-violence motif remains distinct from its tremendous deception. Together with Witte's mighty deception or dissolution, these keep the pair open to subtle influence, material force, or the failure of effective power. The summaries do not establish who controls whom, a specific illness, or a fixed mechanism of coercion; particular [activation claims](#related-activations) remain separate.
 
 ## Links
 

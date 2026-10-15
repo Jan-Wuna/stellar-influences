@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Kronos = Uranus`
 - Astronomicon formula: `£/¤ = X`
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
@@ -36,19 +38,39 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To hold money back for savings. To save money. Great losses in war or in the machine industry. To be a replacement, to train replacements, to use replacements.
+Reference: PDF p. 289, Zeus + Kronos, Uranus row; checked against the scan.
+
+Large technical products. To act suddenly, by surprise. Coup de main. War preparations. War suddenly breaks out. The start of a big destructive fire.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special performance impulses, dynamic efforts 'to self governance, great technical achievements, impulses of a filthy authority, new state guidance, new goals of the state, sudden grudge fire, and tensions in the state administration
+Reference: printed p. 451 (PDF p. 224), Zeus + Kronos, Uranus row; English translation checked against the German scan.
+
+Special performance impulses, dynamic efforts toward independence, great technical achievements, impulses from a leadership authority, new state leadership, new goals of the state, sudden large fire, and tensions in state leadership.
+
+## Comparative Schema
+
+- Core meaning: Abrupt technical achievement or a forceful new direction in leadership.
+- Psychology: The ABC entry describes dynamic striving for independence; Witte emphasizes surprise in action.
+- Body/health: No bodily or medical claim is given in these entries.
+- Social/relationship: New state leadership and tensions within it, rather than an intimate relationship profile.
+- Events/manifestations: Large technical products, war preparations or outbreak, and the start of a large destructive fire are source examples.
+- Conflicts/notes: Technical accomplishment and destructive escalation are different possible expressions; neither entry specifies which must occur.
+
+## Contradictions
+
+The scan resolves an attribution error rather than a doctrinal contradiction. The former Witte passage belongs to the Saturn row, not Uranus. Displaced transcription, retained for traceability only: "To hold money back for savings. To save money. Great losses in war or in the machine industry. To be a replacement, to train replacements, to use replacements."
+
+The ABC translation's "filthy authority" and "grudge fire" were mistranslations of leadership authority and large fire; the German scan supports the repaired wording above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Uranus`: To hold money back for savings. To save money. Great losses in war or in the machine industry. To be a replacement, to train replacements, to use replacements.
-- Practical expression: special performance impulses, dynamic efforts 'to self governance, great technical achievements, impulses of a filthy authority, and new state guidance.
+In `Zeus/Kronos = Uranus`, Uranus specifies the Zeus/Kronos pair through sudden technical action and changes of leadership. The [Witte entry](#witte-entry) joins large technical products to surprise and rapid escalation; the [ABC entry](#abc-entry) connects major achievements and independence with new leaders, new state aims, and tensions in leadership. The connecting theme is a forceful initiative that changes the existing direction.
+
+The range includes constructive technical achievement as well as the sources' severe examples of war and destructive fire. Those examples do not establish that an individual or situation must produce a catastrophe, and the entries supply no bodily diagnosis or intimate relationship account.
 
 ## Links
 

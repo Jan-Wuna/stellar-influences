@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Pluto = Sun](../activations/saturn-pluto-equals-sun.md)
-- [Sun/Pluto = Saturn](../activations/sun-pluto-equals-saturn.md)
-- [Sun/Saturn = Pluto](../activations/sun-saturn-equals-pluto.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Pluto = Sun](../activations/saturn-pluto-equals-sun.md) | [Saturn/Pluto](../axes/saturn-pluto.md) | [Sun](../factors/sun.md) |
+| [Sun/Pluto = Saturn](../activations/sun-pluto-equals-saturn.md) | [Sun/Pluto](../axes/sun-pluto.md) | [Saturn](../factors/saturn.md) |
+| [Sun/Saturn = Pluto](../activations/sun-saturn-equals-pluto.md) | [Sun/Saturn](../axes/sun-saturn.md) | [Pluto](../factors/pluto.md) |
 
 ## Source Coverage
 
-- `Saturn/Pluto = Sun`: Michael, page `292`
-- `Sun/Pluto = Saturn`: Michael, page `88`
-- `Sun/Saturn = Pluto`: Michael, page `76`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Pluto = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-pluto-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-pluto-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-pluto-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-pluto-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-pluto-equals-sun.md#munkasey-entry), printed p. `292`.
+- `Sun/Pluto = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-pluto-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-pluto-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-pluto-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-pluto-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-pluto-equals-saturn.md#munkasey-entry), printed p. `88`.
+- `Sun/Saturn = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-saturn-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-saturn-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-saturn-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-saturn-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-saturn-equals-pluto.md#munkasey-entry), printed p. `76`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

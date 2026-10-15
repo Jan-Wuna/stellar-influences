@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Node`
 - Astronomicon formula: `VP/¡ = g`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ Social connections. A Participant. The merger of a corporation. A trust.
 
 Relations with art communities, common encounters in the public life, common relations in the public, contact community in the public life, and links in the public community
 
+## Comparative Schema
+
+- Core meaning: Connections within and between public communities.
+- Psychology: No inner disposition is specified.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Participation, common encounters, and relations with artistic communities.
+- Events/manifestations: Corporate merger or a trust.
+- Conflicts/notes: Ordinary social contacts and corporate consolidation are distinct scales of connection.
+
+## Contradictions
+
+No direct conflict appears; personal participation and corporate merger express connection at different organizational scales.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Node`: social connections, a Participant, the merger of a corporation, and a trust.
-- Practical expression: common encounters in the public life, common relations in the public, contact community in the public life, and links in the public community.
+Node specifies `Vernal Point/Cupido` through links that make public association possible: participation, social encounters, and relations with communities, including artistic ones. At an institutional scale the Witte entry names corporate merger and a trust. The thread is connection, without reducing ordinary participation to a business merger. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 44 / PDF p. 21.)
 
 ## Links
 

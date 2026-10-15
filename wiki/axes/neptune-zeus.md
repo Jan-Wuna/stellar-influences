@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE + ZEUS`
+- PDF page (one-based): `249` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Creative imagination. Wasted energies. Sterility. Without direction. Inflammable
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `396–397`; PDF page (one-based): `197` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Efforts in/with water, starting resolution, exchangeable performance, fire water (alcohol), feeding weakness, intuitive design, creative finesse, unknown guidance, unclear objective, and future goals
+Efforts in/with water, beginning dissolution, disappointing achievement, fire-water (alcohol), weakness of leadership, intuitive design, creative sensitivity, unknown leadership, unclear objectives, future goals.
+
+## Comparative Schema
+
+- core meaning: creative imagination and effort coexist with uncertain direction, wasted energy, and failure of effective production.
+- psychology: imaginative design and creative sensitivity range into provocation, anger, and unclear objectives; ABC also names weak leadership.
+- body/health: Witte's sterility, impotence, scalds, and burns are historical correspondences, not diagnoses or predictions of injury.
+- social/relationship: provoking another person, offences, and being compelled to inflict losses are stated; a fuller relationship account is not supplied.
+- events/manifestations: flammable gas, liquid fuel, steam, ignition, concealed weapons, setbacks, and work involving water belong to the concrete range.
+- conflicts/notes: inspired design and ineffective effort are both represented; the entries do not establish that a particular project will fail or a hazardous event will occur.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Efforts in/with water, starting resolution, exchangeable performance, fire water
 - [Neptune/Zeus = Vernal Point](../activations/neptune-zeus-equals-vernal-point.md)
 - [Neptune/Zeus = Vulcanus](../activations/neptune-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+- ABC's complete bold summary was retranslated from PDF197, printed396–397, restoring beginning dissolution, disappointing achievement and weakness of leadership. Witte's exact pair passage is PDF249. Creative imagination and wasted effort describe a range, not evidence of inevitable failure.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes imagination seeking ignition, where fantasy, sensitivity, and hidden influence combine with drive, provocation, and technical or creative force. It often shows inspired but poorly directed effort, covert arousal or agitation, wasted energy, and the risk that subtle motives become combustible.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Zeus` brings creative imagination together with the problem of directing effort effectively. [Witte's pair summary](#pair-summary) sets imagination beside wasted energies, lack of direction, failure, and setbacks; the [ABC summary](#abc-pair-summary) adds intuitive design and creative sensitivity alongside weak or unknown leadership, disappointing achievement, beginning dissolution and unclear or future objectives. The shared concern is whether an imagined purpose takes effective form.
+
+Witte also gives a concrete combustible range: flammable gas, liquid fuel, steam, ignition, concealed weapons, and scalding. Provocation, anger, offences, and inflicted losses form another stated expression. These meanings remain distinct from the creative possibilities, and none is guaranteed by the pair alone. Sterility, impotence, and injury terms remain attributed historical doctrine; the entries do not diagnose reproductive function or predict an accident.
 
 ## Links
 

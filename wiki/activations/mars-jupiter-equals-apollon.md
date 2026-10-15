@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Apollon](../triads/mars-jupiter-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,24 @@ Many fruits. Multiple births. Successful work in science and trade.
 
 Experiences in legal activity, successful work in science, successful financial work, successful legal actions, joy through will to freedom, great joy through activity, scientific impulses to law, and increasing financial actions
 
+## Comparative Schema
+
+- core meaning: Successful activity produces abundance across scientific, commercial, financial or legal work.
+- psychology: Joy in activity and will toward freedom are ABC themes.
+- body/health: Witte names multiple births as historical doctrine, not a reproductive prediction.
+- social/relationship: Legal activity and trade are explicit settings.
+- events/manifestations: Many fruits, scientific success and increasing financial actions are named.
+- conflicts/notes: The sources identify particular successful fields; success in any enterprise is not established.
+
+## Contradictions
+
+Both entries emphasize productive activity, with different concrete fields and examples. They do not establish unlimited or guaranteed success.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Jupiter = Apollon` multiplies active opportunity into abundance, productivity, and broad success.
-- Chart expression: prolific results, multiple or repeated fruits, and especially successful effort in trade, science, or any enterprise that benefits from energetic expansion.
+Apollon specifies the Mars/Jupiter axis through abundant results in an expanded field of activity. Many fruits and successful science or trade in [Witte](#witte-entry) connect with scientific, financial and legal success in [ABC](#abc-entry). ABC also links activity with joy and freedom. The cited fields define the supported range; the entry does not guarantee success in every enterprise, and Witte's multiple-birth example remains historical doctrine.
+
+Evidence: Witte PDF p. 192; ABC printed p. 299, PDF p. 148.
 
 ## Links
 

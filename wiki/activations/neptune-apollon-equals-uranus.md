@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Uranus`
 - Astronomicon formula: `Y/¥ = X`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 Many awake suddenly to the truth. Sudden change of mood.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `401`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Dynamic spread of metaphysics, successful intuitional impulses, new metaphysical experiences, new future knowledge, suddenly increasing uncertainty, tensions in uncertain freedom, unrest through much water, and pre exchange of new knowledge
+Dynamic spread of metaphysics, successful intuitional impulses, new metaphysical experiences, new future knowledge, suddenly increasing uncertainty, tensions in uncertain freedom, unrest through much water, and pretence of new knowledge
+
+## Comparative Schema
+
+- core meaning: sudden awakening or mood change, alongside abrupt uncertainty and pretended knowledge.
+- psychology: sudden change of mood and intuitive impulses are explicit.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: Witte describes many awakening; ABC adds dissemination of metaphysics.
+- events/manifestations: new metaphysical experiences, rapidly increasing uncertainty, and unrest through much water are examples.
+- conflicts/notes: an abrupt claim to new knowledge is not necessarily the awakening to truth described by Witte.
+
+## Contradictions
+
+Witte's sudden awakening to truth differs from ABC's pretence of new knowledge. ABC also retains successful intuition and uncertainty, preventing a uniformly revelatory reading.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Uranus`: Many awake suddenly to the truth. Sudden change of mood.
-- Practical focus: electrifies `Neptune/Apollon` into abrupt awakening, sudden mood reversal, and rapid disclosure of what was previously hidden. It breaks large-scale confusion open through surprise, insight, or collective shock.
-- Practical expression: dynamic spread of metaphysics, successful intuitional impulses, new metaphysical experiences, new future knowledge, and suddenly increasing uncertainty.
+In Neptune/Apollon = Uranus, Uranus specifies the pair through abrupt changes in understanding and mood. The [Witte entry](#witte-entry) describes many suddenly awakening to truth; [ABC](#abc-entry) also names new metaphysical experiences, intuitive impulses, sudden uncertainty, and pretence of new knowledge (printed p. 401, PDF p. 199). The distinction matters: a sudden shift may be described as insight, uncertainty, or a misleading claim. Unrest associated with much water remains a separate source example, without a proposed psychological cause.
 
 ## Links
 

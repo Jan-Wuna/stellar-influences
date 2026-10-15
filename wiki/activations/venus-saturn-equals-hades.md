@@ -30,25 +30,44 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Hades](../triads/venus-saturn-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 To be impoverished. Confined love through conditions and inclinations. Misalliance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `275`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-serious artist from the past, peace tasks in danger, patient love service, storten love service, artificial loss through criminality, grief through separate love, lack of love in old age, hidden love pain, and lossful love crime
+Serious art from the past, peace tasks in danger, patient service in love, disturbed service in love, losses of art through criminality, sorrow through separated love, lack of love in old age, hidden pain in love, and criminality in love involving losses.
+
+## Comparative Schema
+
+- core meaning: Material hardship or constrained love, with grief and concealment.
+- psychology: Hidden love pain and grief through separated love.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Love confined by conditions and inclinations; lack of love in old age.
+- events/manifestations: Impoverishment, threatened peace tasks, and patient service in love.
+- conflicts/notes: Misalliance is Witte's historical social judgment; ABC's art losses and criminality are specific adverse examples.
+
+## Contradictions
+
+Patient service and grief are different possibilities within constrained love. The entries do not justify judging a partnership by social rank.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Hades`: to be impoverished.
-- Practical expression: serious artist from the past, peace tasks in danger, patient love service, storten love service, and artificial loss through criminality.
+In `Venus/Saturn = Hades`, Hades specifies the pair through deprivation and love constrained by circumstances. The [Witte entry](#witte-entry) names impoverishment and confined love. The [ABC entry](#abc-entry) adds patient or disturbed service, grief through separation, lack of love in old age, and concealed pain, alongside serious art from the past and art losses through criminality. These connect material or relational limits with sorrow, while Witte's term misalliance remains an attributed historical judgment rather than a standard for evaluating a relationship.
 
 ## Links
 

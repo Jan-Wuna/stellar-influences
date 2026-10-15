@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Venus`
 - Astronomicon formula: `Y/Z = Q`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 The hardly noticeable beginning of a pleasant change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Developing delicate love, developing secret love, creeping changes in the arts, insecure development, a love, a preference for water, growing joy in the air, growing peace insecurity, and mutual love expectation
+Unfolding sensitive love, developing secret love, creeping changes in art, uncertain development of a love, developing a preference for water, growing joy in the air, growing uncertainty of peace, and mutual expectation of love
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `281`, entry code `1002`.
 
 #### Ebertin Entry
 
 Strange love, loyalty in spirit to those who have passed away, supernatural love, peculiar or inspired art, mysticism.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A person who is extremely sensitive when in love, and who may be relentlessly un
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Added demands to escape the pressures of living by using drugs or other reality 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: subtle development in love or art, with sensitivity and uncertainty alongside pleasant change.
+- psychology: unrealistic romance, deep appreciation, helplessness, and desire for escape are explicit.
+- body/health: Munkasey's drug-related escape is an attributed behavioral claim, not advice or a diagnosis.
+- social/relationship: secret love, loyalty to the deceased, and mutual love expectations are named.
+- events/manifestations: imaginative art, slowly changing affection, and using music or art to express helplessness are stated.
+- conflicts/notes: the sources do not establish universal obsession, deception, or a power to transform others through beauty.
 
 ## Contradictions
 
-- None recorded yet.
+Witte allows a pleasant beginning. Ebertin and Sandbach emphasize unusual love and art; ABC includes sensitive but uncertain love, while Munkasey adds helplessness and escape.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Venus`: compassionate intensity, transformative art or love, and the ability to move others through subtle beauty and emotional depth. Main caution: romanticized entanglement: attraction can become obsessive, deceptive, or quietly consuming beneath a tender surface.
+In Neptune/Pluto = Venus, love and art develop through sensitivity, imagination, and uncertain expectations. [Witte](#witte-entry) names the barely noticed beginning of a pleasant change; [ABC](#abc-entry) adds secret love, changing art, and uncertain romantic development. [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) describe unusual or imaginative love and art, while [Munkasey](#munkasey-entry) includes artistic expression of helplessness or lost love. These expressions preserve both pleasure and difficulty without making attraction necessarily obsessive or deceptive.
 
 ## Links
 

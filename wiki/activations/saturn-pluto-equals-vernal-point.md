@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Vernal Point`
 - Astronomicon formula: `W/Z = VP`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 The general public cannot adapt and separates from a development, and only gets used to new conditions very slowly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developments in the public sphere, slow changes in the public sphere Lebc 11, problcmati:-;chc;A./ and Iations of the public sphere, and changes in the public sphere by means of indi vidualization
+- Source page: `352`; PDF page: `175`.
+
+Patient development in public, slow changes in public life, problematic transformations of the public, changes in public through separation, and changes involving loss in public.
+
+## Comparative Schema
+
+- core meaning: Slow public adaptation to difficult changes.
+- psychology: The entries concern collective adjustment rather than an individual inner state.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: The public may separate from a development it cannot readily adapt to.
+- events/manifestations: Slow change in public life, separation and public losses.
+- conflicts/notes: Patience describes a pace of development; it does not remove the explicitly problematic or costly possibilities.
+
+## Contradictions
+
+Both entries concern slow public adjustment. ABC adds losses and problematic transformation without directly disagreeing with Witte's description of difficult adaptation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Pluto = Vernal Point`: the general public cannot adapt and separates from a development, and only gets used to new conditions very slowly.
-- Practical expression: developments in the public sphere, slow changes in the public sphere Lebc 11, problcmati:-;chc;A./, iations of the public sphere, and changes in the public sphere by means of indi vidualization.
+In `Saturn/Pluto = Vernal Point`, Vernal Point specifies development in public life: new conditions are absorbed slowly, and difficulty adapting can lead the public to separate from a development ([Witte](#witte-entry)). [ABC](#abc-entry) adds patient but problematic public change, including separation and loss. The common theme is the pace and cost of collective adjustment; neither entry supplies an individual psychological or medical conclusion.
 
 ## Links
 

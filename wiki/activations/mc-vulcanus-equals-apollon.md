@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [MC Apollon Vulcanus](../triads/mc-apollon-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Successful wielding of power. Expansion.
 
 #### ABC Entry
 
-Expansion of psychic violence, success through psychic energy, my successful influence, my strong success, my energy bulb, extensive psychic influence, science of the influence of the soul, and increasing psychic influence
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Expansion of psychic violence, success through psychic energy, my successful influence, my strong success, my abundance of energy, extensive psychic influence, science of the influence of the soul, increasing psychic influence.
+
+## Comparative Schema
+
+- **Core meaning:** Successful exercise and expansion of influence.
+- **Psychology:** Confidence associated with effective influence.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Extensive influence; ABC also names psychological violence.
+- **Events/manifestations:** Expansion and success through the use of power.
+- **Conflicts/notes:** ABC names an abundance of energy, alongside successful and increasing influence. Its separate psychic-violence motif remains attributed and is not evidence that success is benevolent.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Expansion and successful influence coexist with ABC's separate violence motif.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Apollon` widens the axis into successful use of power and enlarging influence.
-- Chart expression: force deployed effectively across a broad field, successful expansion through strength, and a life path in which power becomes productive, prosperous, or far-reaching.
+Apollon specifies `MC/Vulcanus` through successful use and expansion of power in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) develops this into extensive or increasing influence and success through inner energy. Its separate violence wording remains part of the source's range; success is not evidence that the exercise of power is benevolent.
 
 ## Links
 

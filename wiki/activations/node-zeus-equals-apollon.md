@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Node Zeus Apollon](../triads/node-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 To work together with many. To carry arms or to know how to handle them.
 
@@ -42,13 +46,27 @@ To work together with many. To carry arms or to know how to handle them.
 
 #### ABC Entry
 
-Efforted trade relationships, success in a creative connection, successful generation connection, successful goal in a connection, creative knowledge transfer, and scientific achievements combine
+- Source page: 229 (printed); PDF page: 113 (one-based; exact row checked).
+
+Strenuous trading relationships, success within a creative connection, a successful procreative connection, successful goal-setting within a connection, creative transmission of knowledge, combining scientific achievements.
+
+## Comparative Schema
+
+- core meaning: creative cooperation involving many people, knowledge, trade or shared achievement.
+- psychology: successful pursuit of a goal is named without a wider personality profile.
+- body/health: ABC names a successful procreative connection as historical source doctrine, not a fertility prediction.
+- social/relationship: working together with many and strenuous trading relationships.
+- events/manifestations: creative knowledge transmission, combining scientific achievements and Witte's handling of arms.
+- conflicts/notes: Witte's arms and ABC's scientific or trading fields are distinct manifestations; neither is required for all cooperation.
+
+## Contradictions
+
+Witte's arms and ABC's scientific or trading fields are distinct manifestations; neither is required for all cooperation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Apollon`: To work together with many. To carry arms or to know how to handle them.
-- Practical focus: to work together with many; also to carry arms or to know how to handle them.
+Apollon specifies `Node/Zeus` through creative effort extended among many people or into shared knowledge and trade. The [Witte entry](#witte-entry) names working together with many; the [ABC entry](#abc-entry) adds successful goal-setting, knowledge transmission and combining scientific achievements. Witte also preserves carrying or handling arms, and ABC a successful procreative connection. These remain specific alternative manifestations within the wider field of coordinated accomplishment.
 
 ## Links
 

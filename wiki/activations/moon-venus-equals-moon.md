@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Moon`
 - Astronomicon formula: `R/Q = R`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -41,22 +43,21 @@ Experiences you have which help you to develop kindness and consolation about an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: experiences that develop kindness or consolation, alongside mood-driven changes in home decoration.
+- psychology: sensitivity to love and emotions described as illogical are named.
+- body/health: the single entry supplies no bodily or health claim.
+- social/relationship: learning to console another person about their circumstances is explicit.
+- events/manifestations: altering the home's decorative scheme in response to emotion is a separate example.
+- conflicts/notes: the repeated Moon does not establish that kindness and decorative changes have the same motive or outcome.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's single entry gives interpersonal kindness and domestic decoration as different expressions. It provides no independent assessment of these experiences and no claim that all occur together.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Moon`: Experiences one has which help one to develop kindness and consolation about another’s circumstances; illogical emotions which cause one to alter the decorative scheme in one's home; sensitivity to the energy of love.
+In Moon/Venus = Moon, the repeated Moon specifies the pair through experiences that develop kindness and the capacity to console someone about their circumstances. The [Munkasey entry](#munkasey-entry) also names sensitivity to love and emotions that lead one to change home decoration (p. 110). These interpersonal and domestic expressions remain distinct; the entry does not turn every emotional response into effective care.
 
 ## Links
 

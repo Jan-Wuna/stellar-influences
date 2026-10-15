@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point MC Hades](../triads/vernal-point-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ To share misfortune with others. To experience hard times. Sympathy.
 
 #### ABC Entry
 
-Dangered souls in public, my service in public, my Crimean inalitat in public, my disadvantages in public life, my public past, and mental criminality in public life
+- Source reference: printed p. `19`, one-based PDF p. `8`, complete Hades row.
+
+German passage transcribed from the scan:
+
+> Gefährdete Seelen in der Öffentlichkeit, mein Dienst in der Öffentlichkeit, meine Kriminalität in der Öffentlichkeit, meine Nachteile im öffentlichen Leben, meine öffentliche Vergangenheit, seelische Kriminalität im öffentlichen Leben
+
+Editorial translation: Endangered souls in public; my service in public; my criminality in public; my disadvantages in public life; my public past; inner criminality in public life.
+
+## Comparative Schema
+
+- Core meaning: Personal involvement in public hardship or disadvantage.
+- Psychology: Sympathy while sharing difficult circumstances.
+- Body/health: Neither entry establishes a particular illness.
+- Social/relationship: Sharing others' misfortune and serving in public life.
+- Events/manifestations: Hard times, public disadvantage, and one's public past.
+- Conflicts/notes: ABC's personal and inner criminality vocabulary remains an attributed source motif, not evidence or a judgment about a person.
+
+## Contradictions
+
+Witte emphasizes shared hardship and sympathy; ABC adds service, disadvantage, past, and criminality language. These do not form a stated contradiction, but the latter language must not turn sympathy or disadvantage into evidence of wrongdoing. ABC also names endangered souls; neither sympathy nor disadvantage establishes wrongdoing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Hades`: to share misfortune with others, to experience hard times, and sympathy.
-- Practical expression: dangered souls in public, my service in public, my Crimean inalitat in public, my disadvantages in public life, and my public past.
+In `Vernal Point/MC = Hades`, Hades specifies one's public experience through hard circumstances and disadvantage. Sharing those circumstances with others gives the reading its sympathetic and service aspect, rather than hardship alone. The [Witte Entry](#witte-entry) (PDF p. 35) and the service and disadvantage clauses of the complete [ABC Entry](#abc-entry) (printed p. 19; PDF p. 8) support this limited connection; its criminality vocabulary is not used to infer character or conduct.
 
 ## Links
 

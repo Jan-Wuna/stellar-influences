@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ A mean act committed jointly. Connections started under difficulties or with rel
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `226`; PDF page: `112` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Common connections, secret connections, contacts from the past, criminal connections, adverse connections, connections cntbehren, connections in need, and hidden connections
+German pair summary (transcribed from printed page `226`; PDF page `112`):
+
+> Gefährliche Verbindungen, Geheim-Verbindungen, Kontakte aus der Vergangenheit, kriminelle Verbindungen, nachteilige Verbindungen, Verbindungen entbehren, Verbindungen in Not, verborgene Verbindungen
+
+Editorial translation from the German passage: Dangerous connections, secret connections, contacts from the past, criminal connections, disadvantageous connections, lacking connections, connections in need, hidden connections.
+
+## Comparative Schema
+
+- core meaning: connections formed or maintained amid difficulty, deprivation, secrecy, or unresolved past affairs ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: reluctance to enter a connection and the experience of an unwelcome or burdensome association are explicit; a general personality description is not supplied.
+- body/health: Witte names contact with disease among the historical associations; this does not establish illness in either participant.
+- social/relationship: poor or adverse connections, hidden ties, and contacts from the past are central; criminal connections and a jointly committed mean act are narrower source possibilities.
+- events/manifestations: starting a connection under difficult conditions, contact with poverty or old affairs, and a connection in need are represented.
+- conflicts/notes: The scan says dangerous connections and lacking connections. Those are source possibilities, not a moral verdict on every relationship.
 
 ## Related Activations
 
@@ -103,12 +120,18 @@ Common connections, secret connections, contacts from the past, criminal connect
 - [Node/Hades = Vulcanus](../activations/node-hades-equals-vulcanus.md)
 - [Node/Hades = Zeus](../activations/node-hades-equals-zeus.md)
 
+## Contradictions
+
+Difficult associations overlap across the entries, while secret or past connections and Witte's moral judgments describe distinct possibilities.
+
+ABC's complete bold pair list was checked against printed226/PDF112; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades` combines connection, alliance, and shared ties with burden, decline, and neglected conditions.
-- In practice, it most often shows a mean act committed jointly, along with unpleasant connections or contacts.
-- Under strain, this axis can also show connections started under difficulties or with reluctance.
+`Node/Hades` concerns ties complicated by difficult circumstances: an association may begin reluctantly, feel unwelcome, or bring someone into contact with deprivation or unfinished affairs from the past. The [pair summary](#pair-summary) and the intelligible parts of the [ABC entry](#abc-pair-summary) also allow hidden or secret connections and relationships in need. The common theme is the burden or difficulty carried through a connection, rather than connection alone.
+
+The range includes Witte's jointly committed mean act and the ABC's criminal contacts, but those specific moral or legal descriptions should not characterize every tie. Witte's contact with disease is likewise an attributed historical association, not a diagnosis. The damaged ABC wording adds no secure interpretation; particular outcomes involving a third factor belong to the separate activation pages.
 
 ## Links
 

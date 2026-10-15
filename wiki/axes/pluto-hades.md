@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + HADES`
+- PDF page (one-based): `258` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Unreliable. Failure to act. Dishonesty. Downfall. To be on the decline. An evil 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `410–411`; PDF page (one-based): `204` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-DevelopmentBoys in the past, changes in the past, poor development, disadvantaged change, changes in old age, hidden changes, and growing criminality
+Developments from the past, dangerous changes, deficient development, disadvantageous change, changes in old age, changes under deprivation, hidden transformations, growing criminality.
+
+## Comparative Schema
+
+- core meaning: deteriorating conditions, deficient development, or an adverse change ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: Witte names growing sorrow, unreliability, and failure to act; these are source expressions, not a complete personality assessment.
+- body/health: the ABC mentions changes in old age but supplies no specific medical condition or mechanism.
+- social/relationship: Witte's dishonesty and the ABC's growing criminality are narrower moral/social claims; neither describes every person or association.
+- events/manifestations: decline, worsening circumstances, increasing poverty, dangerous or hidden changes, and changes connected with the past or deprivation are represented.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, restoring developments from the past, dangerous changes and deprivation. These settings should not be equated with dishonesty or criminality in every case.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ DevelopmentBoys in the past, changes in the past, poor development, disadvantage
 - [Pluto/Hades = Vulcanus](../activations/pluto-hades-equals-vulcanus.md)
 - [Pluto/Hades = Zeus](../activations/pluto-hades-equals-zeus.md)
 
+## Contradictions
+
+The entries overlap in adverse development, but hidden change, old age, and past circumstances are distinct from Witte's moral judgments. There is no basis for equating age or secrecy with criminality. ABC's complete bold summary was retranslated from PDF204, printed410–411; Witte's exact pair passage is confirmed on PDF258.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes unreliable; Failure to act; Dishonesty; Downfall; To be on the decline; An evil change; The situation or condition worsens; Increasing poverty; Growing sorrow; Decadence.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Hades` describes development taking an adverse course: a condition worsens, resources diminish, or sorrow increases. The [pair summary](#pair-summary) concentrates on decline and failure to act, while the [ABC entry](#abc-pair-summary) includes deficient or dangerous development, hidden transformations, and changes connected with the past, old age or deprivation. These additional settings broaden the range without making every hidden or age-related change a decline.
+
+Dishonesty, criminality, and Witte's moral terms are specific attributed possibilities, not judgments to assign automatically to a person. The entries offer no supported generic promise of constructive integration and no medical diagnosis. An additional factor's manifestation belongs to its own [activation page](#related-activations).
 
 ## Links
 

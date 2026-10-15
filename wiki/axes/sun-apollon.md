@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `S/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+- Source page: PDF p. 115.
 
 Successes. Fame. Honors. A day of glory. Many people (bodies). Physical expansion and success. The successful man or body. The man who finds recognition. Days devoted to peaceful matters and days which bring success. Daily trade, commerce, business and science. (In the solar cycle: a period which concerns trade).
 
@@ -78,7 +82,18 @@ Successes. Fame. Honors. A day of glory. Many people (bodies). Physical expansio
 
 #### ABC Pair Summary
 
-A successful person, experienced man, trade centre, body fillet, man of science, human masses, human experience, personal expansion, personal freedom, day of freedom, and center of knowledge
+- Source page: printed pp. 166–167; PDF p. 82.
+
+Successful person, experienced man, trade center, bodily fullness, man of science, masses of people, human experience, personal expansion, personal experience, personal freedom, day of freedom, center of knowledge.
+
+## Comparative Schema
+
+- core meaning: success, recognition, expansion, and a broad field of people or activity ([pair summary](#pair-summary)).
+- psychology: experience and personal freedom appear in ABC, but neither entry supplies a developed account of inner motivation or a specific negative personality pattern.
+- body/health: physical expansion, bodily fullness, and many bodies are stated; no particular health condition is established.
+- social/relationship: recognition, honors, many people, and human masses; no specific intimate relationship pattern is supplied.
+- events/manifestations: successful or peaceful activity in trade, commerce, business, and science, with centers of trade or knowledge in ABC.
+- conflicts/notes: the pair summaries emphasize success and breadth without supplying a negative character pole. Witte's solar-cycle clause is preserved as source context, not developed into a timing model.
 
 ## Related Activations
 
@@ -106,8 +121,9 @@ A successful person, experienced man, trade centre, body fillet, man of science,
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on success, abundance, and broad or expansive effectiveness.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Apollon` concerns visible success and an expanded field of activity: recognition, honors, many people, and participation in commerce or science. These are explicit in the [pair summary](#pair-summary), while the [ABC summary](#abc-pair-summary) adds human and personal experience, personal expansion and freedom, and centers of trade or knowledge. The organizing theme is effectiveness and recognition across a wider human or practical field.
+
+The source also names peaceful matters, physical expansion, and bodily fullness. Those meanings remain within its range without guaranteeing success for an individual or implying a particular health condition. The brief pair entries provide no basis for adding a generic negative character profile or a new timing rule; a more specific reading belongs to the exact activation entry.
 
 ## Links
 

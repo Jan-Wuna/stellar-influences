@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Kronos](../triads/vernal-point-sun-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Physical capabilities. The leader of the people. Independence day. The mental (intellectual) leader.
 
@@ -42,13 +46,27 @@ Physical capabilities. The leader of the people. Independence day. The mental (i
 
 #### ABC Entry
 
-Authoritats person for the public, special person of the public life, public authorities center, self andige man in public life, state center for the public, and important people in public life
+- Source page: 23; PDF page: 10 (one-based spread).
+
+A person of authority for the public, a special public figure, a public administrative center, an independent man in public life, a state center for the public, and important people in public life
+
+## Comparative Schema
+
+- core meaning: Public personal life expressed through capability, leadership, and authority.
+- psychology: Intellectual leadership is explicit without a detailed temperament.
+- body/health: Physical capabilities are named without a medical claim.
+- social/relationship: A people's leader and important public persons.
+- events/manifestations: Administrative or state centers and independence day.
+- conflicts/notes: Independence day is a source example without an implied calendar technique.
+
+## Contradictions
+
+No direct contradiction is established. Individual capability and institutional centers are different embodiments of authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Kronos`: physical capabilities, the leader of the people, independence day, and the mental (intellectual) leader.
-- Practical expression: special person of the public life, public authorities center, and state center for the public.
+In `Vernal Point/Sun = Kronos`, public personal life takes an authoritative or leading form. The [Witte entry](#witte-entry) names physical capability, a people's leader, intellectual leadership, and independence day. The restored [ABC entry](#abc-entry) adds public figures, independence, and administrative or state centers. The synthesis connects recognized personal capacity with a public position of importance.
 
 ## Links
 

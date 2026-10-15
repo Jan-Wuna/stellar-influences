@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Jupiter Saturn](../triads/vernal-point-jupiter-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Change of property. Moving. General problems in the financial field.
 
@@ -42,13 +46,27 @@ Change of property. Moving. General problems in the financial field.
 
 #### ABC Entry
 
+- Source page: 36; PDF page: 17 (one-based spread).
+
 Success through perseverance in the public, success in the public through perseverance, financial burdens of the general public, joy in public tasks, money losses in the public life, and public legal problems
+
+## Comparative Schema
+
+- core meaning: Public burdens involving money and law, with success possible through endurance.
+- psychology: Joy in public tasks and perseverance are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Financial burdens borne by the general public.
+- events/manifestations: Changes of property, moving, money losses, and legal problems.
+- conflicts/notes: Success through endurance is retained beside losses rather than converted into assured gain.
+
+## Contradictions
+
+The sources include financial difficulty and loss as well as perseverance-based success and joy in tasks. Both outcomes remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Jupiter`: change of property, moving, and general problems in the financial field.
-- Practical expression: success through perseverance in the public, success in the public through perseverance, financial burdens of the general public, oy in public tasks, and money losses in the public life.
+In `Vernal Point/Saturn = Jupiter`, public burdens are considered through finance, law, and the possibility of enduring success. The [Witte entry](#witte-entry) names property change, moving, and financial problems. The [ABC entry](#abc-entry) adds money losses and public legal difficulties, but also repeated success through perseverance and joy in public tasks. The coherent reading holds material pressure alongside benefit achieved through sustained effort.
 
 ## Links
 

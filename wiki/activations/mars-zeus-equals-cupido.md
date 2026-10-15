@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Cupido Zeus](../triads/mars-cupido-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Strong desire to marry. Creator in art. Corporation for manufacture of matches.
 
@@ -42,13 +46,27 @@ Strong desire to marry. Creator in art. Corporation for manufacture of matches.
 
 #### ABC Entry
 
-Actions of a community, strenuous activity of a community, work of a community with fire, joint work benefits, creative community will, and growing will benefits
+Source: “Mars + Zeus,” printed p. 313 (PDF p. 155).
+
+Actions of a leadership community, strenuous activity by a community, a community's work with fire, joint work achievements, a creative work community, creative communal will, and growing achievements of will.
+
+## Comparative Schema
+
+- core meaning: Directed or creative effort through shared work, art, marriage aims, and organization.
+- psychology: Strong desire to marry and creative communal will.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Marriage intention, leadership or work communities, and joint achievement.
+- events/manifestations: Artistic creation, match manufacture, and collective work with fire.
+- conflicts/notes: Desire to marry does not establish a marriage event; match manufacture remains a specific source example.
+
+## Contradictions
+
+Witte supplies marriage, art, and a particular manufacturing example; ABC develops leadership communities and shared work with fire. No direct conflict is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Cupido` collectivizes the axis into marriage, art, and organized production.
-- Chart expression: passionate union, creative manufacture, and group or corporate effort directed toward artistic creation or practical making.
+In `Mars/Zeus = Cupido`, Cupido specifies directed and creative effort through shared work and communal aims. ABC describes a leadership or creative work community, joint achievement, and work with fire. Witte supplies related but distinct examples: a strong desire to marry, an artistic creator, and a corporation manufacturing matches. These keep personal union, artistic work, and practical production visible without treating desire for marriage as an accomplished event. ([ABC](#abc-entry), printed p. 313 / PDF p. 155; [Witte](#witte-entry), PDF p. 199)
 
 ## Links
 

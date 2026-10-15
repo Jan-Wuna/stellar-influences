@@ -1,0 +1,213 @@
+{
+  "group": "C",
+  "batch": 5,
+  "target_count": 17,
+  "status": "submitted_for_author_distinct_check",
+  "decisions_path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-C-decisions.jsonl",
+  "targets": [
+    {
+      "path": "wiki/activations/saturn-neptune-equals-jupiter.md",
+      "validator_source_entries_sha256": "15e659cba085ec4ef3231f194390148e52bb2476b6de04d9cb28cd2a53991ca6",
+      "source_entries_sha256": "4da9328327bb355545a86b6f49456b9e1652f426c31096a392533e70cd6eb0a3",
+      "page_sha256": "01cc859057cbc22d14613906619e69e41c297fbf5a0c3ee09a7109f835822113",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 99,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf91.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-node.md",
+      "validator_source_entries_sha256": "3fad0843e4448d6e7294786b4350cbbc75935d182d409944acb467ac3e1a3c60",
+      "source_entries_sha256": "2037b6c2ed11f5e3238182367366fbbf1c3099694809f433b05fcfe6c6aa844d",
+      "page_sha256": "72691f2b0a2212be3407318c6a333408a7b202afdebcd36c6f698fe3676199c0",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 100,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf91.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-pluto.md",
+      "validator_source_entries_sha256": "04051479572f903b57a72d84842c0fd0f8bf331dde133cbde89bdb03c4ea3e87",
+      "source_entries_sha256": "a01fcaa951f71a157e773afe8b844a62e6311d4e2423a92fa6046384b3714325",
+      "page_sha256": "115cac16a315a98a92022ba11bf4783c94015f89e8a9ab2996dde96db025972e",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 101,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf91.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-poseidon.md",
+      "validator_source_entries_sha256": "431de6982c2c812aed42ad741c2aa4e4bc3252711d0259c99d7764044d03ac9b",
+      "source_entries_sha256": "bbe98a27d1c8da0a2c8dda35ca8cf174e18cc9d69db6a9ecc7b651477a2df964",
+      "page_sha256": "7312b85f105350b5b7de7969917cc31b4eaaa178843e252c594428a220f2de5a",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 102,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-venus.md",
+      "validator_source_entries_sha256": "29f1054ab1457440752ba4ad9608bbc3d0fdd88e5792ebb5fb7a0e6d60afecd0",
+      "source_entries_sha256": "6369ca558130d375d2749643bfb90ced24090561c0fb277ce94753a22d528d80",
+      "page_sha256": "264983b99d1184da1820a834b3fa63d4bc65cb16060cd4368178d7786ced81e7",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 103,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf90.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-sandbach-pdf91.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-vernal-point.md",
+      "validator_source_entries_sha256": "6cb2b963fb1f84cdd084dedfce26a8ad5d77649fec543f1ee6f7eb988a2d31d5",
+      "source_entries_sha256": "108e7f92deb5fb22955c2f29d5b9e680779d843cb52099e30297334f5f0adf93",
+      "page_sha256": "7f0b9e3c3dc11881308f04592ab7ecf5d64947781a31f3c89961ff495addf940",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 104,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-vulcanus.md",
+      "validator_source_entries_sha256": "8dd86adcc171e521978e406719cb1d92bf01f130d8eec9a562fa6e17b15a9fe7",
+      "source_entries_sha256": "64612df7601f3842e036a083baa845eb85ede9f5aca1dc0dbbc82ab08fee1d46",
+      "page_sha256": "072a03ce279cdff23ab4caa8bd828df89fb4c8d298fec6a268b0248dd695f768",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 105,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-zeus.md",
+      "validator_source_entries_sha256": "a28fbaec5d37c7ea111826b0f6b64b6b6ae834f89e53a8085f85e7c4279633c9",
+      "source_entries_sha256": "aa860e2288b91d508cd7876910dfdfb0646d232c4df86a20aeff49f769dc6c2d",
+      "page_sha256": "ed4db6308c2afb8374925ccc673b7a7e6e106d71044a953118e81c4d6b603807",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 106,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf174.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-admetos.md",
+      "validator_source_entries_sha256": "6b1d12b0bdb1188a4c2f1564185fec6d56c25d3fee4f46a711a69bea0ced6398",
+      "source_entries_sha256": "8984c9721d90f2079d533ad5bde22f2254d7c3cba682a5366ce76778f233299c",
+      "page_sha256": "1a0341066523941b545af55432b163d7f14a498d48ff0c5e5d3e2165552b54c8",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 107,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-apollon.md",
+      "validator_source_entries_sha256": "85a9d1040736cc0653d02aecae0a6686c71277579c6897a3a2edc718efde5dd1",
+      "source_entries_sha256": "f635c4f143e0f280be33095d73ef2fb5cddb3b8ef0b5e518df9e13317c4129e7",
+      "page_sha256": "b31233b0eaacd4565c362ccd889fc404fdab62a7be8dff6c05b205f26b6b7c79",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 108,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf107.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-asc.md",
+      "validator_source_entries_sha256": "e53966b64b7be3647cd1d0eb17417be173a2037aa2ef017e90ef03ca1689d928",
+      "source_entries_sha256": "8779d75c903e872e46cb81631e82c137671847200698cfc0a0c1bbfdef314c47",
+      "page_sha256": "af961c1e73c07ad56748cd8f10db4cf58e42512a9e5ef9eff397cff269367a3f",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 109,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-sandbach-pdf093.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-sandbach-pdf094.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-jupiter.md",
+      "validator_source_entries_sha256": "ea8b1ac8ec29ffe72b2103eaa97f3c6a91b6929387bf16699b01e2615c17591c",
+      "source_entries_sha256": "e60d67cc7e429516b91587afbafc3cbb863c1f3b5e1faa51342cfbf772e40fcb",
+      "page_sha256": "791140a5fa8898b746b8b8b50e4b27b58c441861c63f600285a4a075bcc64296",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 110,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-sandbach-pdf093.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-apollon.md",
+      "validator_source_entries_sha256": "326848172aeec16bdc37f9e0b0b4b888e638c421eb70f99dde333ab3c02c5000",
+      "source_entries_sha256": "16621a560d9be8d51cab98e95f4f7bece9bed36cee706854fb69051f05f49922",
+      "page_sha256": "bc4b00378818aa7880a2c3242590ea2f8ff31ba9731f711dceb2efd2d60e63ee",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-068.jsonl",
+      "decision_line": 111,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/activations-067-088-udo-pdf183.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-cupido.md",
+      "validator_source_entries_sha256": "70eb788ca2b17b928d65b80a689620aa617525f3003139bc5525b7d2bfa020d9",
+      "source_entries_sha256": "de73da54de9eee86b2d8b806a97771beba53c3da386036f715d498dc8d1c3797",
+      "page_sha256": "942a4f1e0441aeb4219b428775b785a0d2c9689405f79e19858c90475d386ad4",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-067.jsonl",
+      "decision_line": 112,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-saturn-abc-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-C-abc-pdf107-cupido-detail.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-admetos.md",
+      "validator_source_entries_sha256": "27c65d4aed381e92d8155e26b737b4f0d9f92e25a75f1faf7b0dfb006bec813b",
+      "source_entries_sha256": "f795c136cf7cdaa1bf6b45ce78d03d450b5ff0970b4472ca9012cf417ae5fbe1",
+      "page_sha256": "1e9a2c2688b2d2c9e9fba11064bbb94772836bfe0d6647985bef3c0f4d5fb7d0",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-075.jsonl",
+      "decision_line": 113,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-node-equals-apollon.md",
+      "validator_source_entries_sha256": "d717b84253c93c8bef7e986dfb290016b4cb2bc8f9780b1447a7059585387cc4",
+      "source_entries_sha256": "3c25f497a0a4049843a590aa3b225d4e3e8e24a3aece76ac9dcafc5e989960b5",
+      "page_sha256": "033c0c068202f7b08670ff3dc247b734ef1d0b5170a0e13bf2c8489ddd4be93a",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-075.jsonl",
+      "decision_line": 114,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-abc-pdf69.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-pluto.md",
+      "validator_source_entries_sha256": "a727e426045f9ca9e3738701d2c07b963525b71015ad8fc849227144007b4462",
+      "source_entries_sha256": "28b1088a1c9130b11f66045a4629115fed42549e16ca4f6aa7243e870c2c72ad",
+      "page_sha256": "b5abd0b0f1c8dc84553b0ed78b83768b9a518f090c658164d3c7315be1473112",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-077.jsonl",
+      "decision_line": 115,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-final-witte-pdf107.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-sandbach-pdf15.png"
+      ]
+    }
+  ],
+  "verification": [
+    "Current exact/validator-normalized source and full-page hashes match every latest amended unique owner record.",
+    "All proof paths exist; original06746/46,06855/55,07547/47 and07755/55 full-review coverage remains unchanged.",
+    "All required categories and unique immediate anchors remain; no fallback staging files remain.",
+    "Saturn/Node=Cupido actual high-resolution Ernste disproves the old Erste flag; serious preserved. Geistes-Wissenschaft and Wasser-Geld retain specific contextual limits.",
+    "Root transferred untouched080–083 canonical/ledger closure targets to factor_source_repairs; this batch contains no such target."
+  ]
+}

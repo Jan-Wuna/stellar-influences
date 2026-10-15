@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Pluto MC Kronos](../triads/pluto-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The trend is upwards. To develop one’s knowledge. From student to master, high
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Development of my independence, my emergence development, my development in the hierarchy, my special development, my changes by the state, developing psychic grofie, and independent soul development
+Editorial translation (checked against the scan): Development of my independence, my upward development, my development within hierarchy, my special development, my changes through the state, developing inner greatness, independent unfolding of the soul.
+
+## Comparative Schema
+
+- core meaning: Upward development of knowledge, independence, and mastery.
+- psychology: Independent inner development and a sense of inner greatness.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Hierarchy and state-caused changes are ABC settings.
+- events/manifestations: Progress from student to master and development to high standards.
+- conflicts/notes: Mastery is explicit; success in a specific examination is not stated here.
+
+## Contradictions
+
+Knowledge development and hierarchy are compatible settings; neither establishes an automatic rise in office.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/MC = Kronos`: the native grows into authority, higher demands or tested capability.
-- Practical expression: development of my independence, my emergence development, my development in the hierarchy, my special development, and my changes by the state.
+Kronos specifies Pluto/MC through development toward greater knowledge and independence. The [Witte entry](#witte-entry) describes an upward trend from student to master with high standards; the [ABC entry](#abc-entry) adds personal development within hierarchy, changes through the state, and independent inner development. The growth concerns capacity as well as position, without an assured promotion or examination result.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Neptune Pluto Apollon](../triads/neptune-pluto-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 Great transformation below the surface. Slow beginning of large dissolution.
 
@@ -42,13 +46,27 @@ Great transformation below the surface. Slow beginning of large dissolution.
 
 #### ABC Entry
 
-Successful developments in the fine material, successful alterations of air or water, developing metaphysical knowledge, transformation experiences in metaphysics, extensive alterations through water, and much uncertainty in compounds see above
+- Source page: 417 (printed); PDF page: 207 (one-based; exact row checked).
+
+Successful developments in subtle matter, successful changes of air or water, developing metaphysical knowledge, transformative experiences in metaphysics, extensive changes through water, much uncertainty within connections.
+
+## Comparative Schema
+
+- core meaning: extensive transformation below the surface or in subtle, metaphysical and fluid fields.
+- psychology: uncertainty within connections and metaphysical experience are explicit.
+- body/health: subtle matter is source vocabulary; the entry supplies no bodily mechanism or medical diagnosis.
+- social/relationship: uncertain connections are named without a particular type of relationship.
+- events/manifestations: the slow beginning of a large dissolution and extensive changes involving water or air.
+- conflicts/notes: Witte emphasizes dissolution; ABC also names successful subtle or metaphysical development. The latter does not cancel the uncertainty.
+
+## Contradictions
+
+Witte emphasizes dissolution; ABC also names successful subtle or metaphysical development. The latter does not cancel the uncertainty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Neptune`: great transformation below the surface; Slow beginning of large dissolution.
-- Practical expression: successful developments in the fine material, successful alterations of air or water, developing metaphysical knowledge, transformation experiences in metaphysics, and extensive alterations through water.
+Neptune specifies `Pluto/Apollon` through a large transformation whose course is initially beneath the surface. The [Witte entry](#witte-entry) includes the slow beginning of dissolution; the [ABC entry](#abc-entry) describes subtle matter, metaphysical knowledge and changes in air or water. Successful development is present alongside uncertainty in connections. The distinction is between an extensive process that is not plainly visible and a result whose reliability is already known; the former does not establish the latter.
 
 ## Links
 

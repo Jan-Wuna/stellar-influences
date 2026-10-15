@@ -1,0 +1,199 @@
+{
+  "scope": "Four already reviewed pages: bounded McBroom provenance only",
+  "reviewer": "/root/activation_review_010_012",
+  "new_review_count": 0,
+  "existing_rows_amended": 4,
+  "complete": true,
+  "source_file": "Stellar Influences Vault/Book_2007_Don Mcbroom_Midpoints.pdf",
+  "global_source_approval": "Reserved to independent source-integrity gate; author requests fresh hash approval.",
+  "relative_links_checked": 98,
+  "scoped_git_diff_check_exit_code": 0,
+  "ledgers": {
+    "activations-005.jsonl": {
+      "before": {
+        "line_count": 55,
+        "nontarget_count": 54,
+        "nontarget_sha256": "547100c0ed9bb4f0354f012c765de09cf4ff86f7dfc81bfabeae1356546907c5"
+      },
+      "after": {
+        "line_count": 55,
+        "nontarget_count": 54,
+        "nontarget_sha256": "547100c0ed9bb4f0354f012c765de09cf4ff86f7dfc81bfabeae1356546907c5"
+      },
+      "unchanged_nontarget_rows_and_count": true
+    },
+    "activations-074.jsonl": {
+      "before": {
+        "line_count": 47,
+        "nontarget_count": 46,
+        "nontarget_sha256": "e863df7b0290f7af1f19659720b4298bdde3aabe0ffd335851a8e0caf33ac7e6"
+      },
+      "after": {
+        "line_count": 47,
+        "nontarget_count": 46,
+        "nontarget_sha256": "e863df7b0290f7af1f19659720b4298bdde3aabe0ffd335851a8e0caf33ac7e6"
+      },
+      "unchanged_nontarget_rows_and_count": true
+    },
+    "axes-002.jsonl": {
+      "before": {
+        "line_count": 10,
+        "nontarget_count": 9,
+        "nontarget_sha256": "78e7e94c8646155693d96bc97798649c0fe92b21ca94f5ed3ea7d5fc2efd152e"
+      },
+      "after": {
+        "line_count": 10,
+        "nontarget_count": 9,
+        "nontarget_sha256": "78e7e94c8646155693d96bc97798649c0fe92b21ca94f5ed3ea7d5fc2efd152e"
+      },
+      "unchanged_nontarget_rows_and_count": true
+    },
+    "axes-022.jsonl": {
+      "before": {
+        "line_count": 5,
+        "nontarget_count": 4,
+        "nontarget_sha256": "89f73b82294206309fcfbf6a07805adf789bb5d014cf4fe70e3d252ff18219e3"
+      },
+      "after": {
+        "line_count": 5,
+        "nontarget_count": 4,
+        "nontarget_sha256": "89f73b82294206309fcfbf6a07805adf789bb5d014cf4fe70e3d252ff18219e3"
+      },
+      "unchanged_nontarget_rows_and_count": true
+    }
+  },
+  "paths": [
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "checks": {
+        "outside_mcbroom_identical": true,
+        "mcbroom_passage_identical": true,
+        "frontmatter_identical": true,
+        "immediate_unique_anchor": true,
+        "relative_links_checked": 38,
+        "broken_relative_links": [],
+        "trailing_whitespace": false
+      },
+      "before_followup_sha256": "1102148306f2ab01cf47a9592d8cf221f8935054841e33a22272e1b5f83b54ef",
+      "after_sha256": "35909de897398a4b38c8c74a9267703187a87a0977959e0859bc910ba1de4fab",
+      "source_before_followup_sha256": "d7ec7727f8afb8797b31d145fbebf9201c889b7bdb610e4d33550af026ef0825",
+      "source_before_original_sha256": "93135d4103885d9cc554f30abbec1a51a9bafdcae7ae630ea47e0325866ee817",
+      "source_after_sha256": "fed611b4fe83e9272f874a017faef666d34f3bbe29cb5994aee9d9e00bcefbfe",
+      "mcbroom_section": "- Source heading: `The Sun/Moon Midpoint`\n- Source page: printed p. 47; one-based PDF p. 58 (admitted excerpt).\n\n#### McBroom Entry\n\nSun/Moon midpoint would carry with it tremendous importance as it embellishes and solidifies the interaction between the two luminaries. Essentially, the Sun/Moon midpoint represents a microcosm of the needs suggested by the Sun-Moon Blend bringing together and integrating their collective importance at a specific point in the natal chart. In fact, the Sun/Moon midpoint will often dominate the life. It adds depth to the interpretation of the Sun-Moon Blend and suggests the level and means of internal continuity between these two all-important influences. Additionally, by defining our most important needs, it also dramatically influences whom we choose to be around - and who chooses to be around us. By doing so, the Sun/Moon midpoint represents an integral factor in determining the participants in all our relationships - whether they are casual, intimate, or professional.",
+      "followup_diff": "--- wiki/axes/sun-moon.md before followup\n+++ wiki/axes/sun-moon.md after followup\n@@ -231,6 +231,9 @@\n \n ### Don McBroom - Midpoints\n \n+- Source heading: `The Sun/Moon Midpoint`\n+- Source page: printed p. 47; one-based PDF p. 58 (admitted excerpt).\n+\n #### McBroom Entry\n \n Sun/Moon midpoint would carry with it tremendous importance as it embellishes and solidifies the interaction between the two luminaries. Essentially, the Sun/Moon midpoint represents a microcosm of the needs suggested by the Sun-Moon Blend bringing together and integrating their collective importance at a specific point in the natal chart. In fact, the Sun/Moon midpoint will often dominate the life. It adds depth to the interpretation of the Sun-Moon Blend and suggests the level and means of internal continuity between these two all-important influences. Additionally, by defining our most important needs, it also dramatically influences whom we choose to be around - and who chooses to be around us. By doing so, the Sun/Moon midpoint represents an integral factor in determining the participants in all our relationships - whether they are casual, intimate, or professional.\n",
+      "source_heading": "The Sun/Moon Midpoint",
+      "verified_locator": {
+        "printed": "47",
+        "pdf": [
+          58
+        ]
+      },
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "original_ledger_line": 1,
+      "record_sha256": "7b4ca0085840bc573c66bae14ace7468ff11adf4e3dc5d29ffbfe244694a249c",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf058.png"
+      ]
+    },
+    {
+      "path": "wiki/axes/asc-mc.md",
+      "checks": {
+        "outside_mcbroom_identical": true,
+        "mcbroom_passage_identical": true,
+        "frontmatter_identical": true,
+        "immediate_unique_anchor": true,
+        "relative_links_checked": 34,
+        "broken_relative_links": [],
+        "trailing_whitespace": false
+      },
+      "before_followup_sha256": "f630710d9591c1557cfb97b22cf86787b7ad017341efab97400c7d8978b7697d",
+      "after_sha256": "63f1866d5b57fce7c8f3423e35d314b5f3e90ebbac81296d19c8b0fc290325b7",
+      "source_before_followup_sha256": "999977800fd799088bdda1aa5a87a76f223e58246804b927fc78bd64a8cca1d2",
+      "source_before_original_sha256": "236b3bbc144caac66e0ace5f261fa631bff372694c4b1e9fc75f4de4eab3a70d",
+      "source_after_sha256": "7d785367cc87fdbc75b14c0664e3ed53b07a4b540ffe41041eb08eef644a262b",
+      "mcbroom_section": "- Source heading: `The Ascendant/Midheaven Midpoint`\n- Source page: printed p. 61; one-based PDF p. 72 (admitted excerpt under “Significance of the Ascendant/Midheaven Midpoint”; section heading starts on printed p. 60, PDF p. 71).\n\n#### McBroom Entry\n\nThe Ascendant/Midheaven midpoint links together our personal identity with our public image to form a symbiotic - and ideally a synergistic - relationship. The more compatible or congruous these two points are, the greater our potential for being \"at one\" with ourselves. While some people might genuinely thrive on the dramatic contrast of a Jekyll and Hyde relationship between the Ascendant and the Midheaven, it's probably safe to say that most of us would find it preferable to have some substantial common ground between the two. Regardless of their inherent differences, the Ascendant/Midheaven midpoint represents an area of the chart where our personal and public sides can come together and figuratively reach a happy medium. This may involve some give and take between these two powerful angles and require some balance or compromise to acknowledge and appease both.",
+      "followup_diff": "--- wiki/axes/asc-mc.md before followup\n+++ wiki/axes/asc-mc.md after followup\n@@ -138,6 +138,9 @@\n \n ### Don McBroom - Midpoints\n \n+- Source heading: `The Ascendant/Midheaven Midpoint`\n+- Source page: printed p. 61; one-based PDF p. 72 (admitted excerpt under “Significance of the Ascendant/Midheaven Midpoint”; section heading starts on printed p. 60, PDF p. 71).\n+\n #### McBroom Entry\n \n The Ascendant/Midheaven midpoint links together our personal identity with our public image to form a symbiotic - and ideally a synergistic - relationship. The more compatible or congruous these two points are, the greater our potential for being \"at one\" with ourselves. While some people might genuinely thrive on the dramatic contrast of a Jekyll and Hyde relationship between the Ascendant and the Midheaven, it's probably safe to say that most of us would find it preferable to have some substantial common ground between the two. Regardless of their inherent differences, the Ascendant/Midheaven midpoint represents an area of the chart where our personal and public sides can come together and figuratively reach a happy medium. This may involve some give and take between these two powerful angles and require some balance or compromise to acknowledge and appease both.\n",
+      "source_heading": "The Ascendant/Midheaven Midpoint",
+      "verified_locator": {
+        "printed": "61 (excerpt);60 (section heading)",
+        "pdf": [
+          71,
+          72
+        ]
+      },
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl",
+      "original_ledger_line": 4,
+      "record_sha256": "3e2aa6d957761a6dcb4afb7e06434efcc0c00747ee1c76ecbcf62eacd5cbcae1",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf071.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf072.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-moon-equals-mercury.md",
+      "checks": {
+        "outside_mcbroom_identical": true,
+        "mcbroom_passage_identical": true,
+        "frontmatter_identical": true,
+        "immediate_unique_anchor": true,
+        "relative_links_checked": 13,
+        "broken_relative_links": [],
+        "trailing_whitespace": false
+      },
+      "before_followup_sha256": "33e02191937b8886509c38a89f65f6703cfb9eecc48be76651439b5ee6025c27",
+      "after_sha256": "04d76a54d75ff3cf2d7bbd213c07fc4f216e616add33c0436c5ebdf021d01518",
+      "source_before_followup_sha256": "b1e1d315df950c6079f9c34a213cfb689fc5300f457adbb6abe727cc9dbd10fa",
+      "source_before_original_sha256": "04a9d05ccbce585b4ca947d0ed6a99701bd495177aedb16ab4626b9cd3f17c36",
+      "source_after_sha256": "a8f1961855455a2c57e9cb4a39fbf75820c6db91cab274b069778e6a0fa79a8d",
+      "mcbroom_section": "- Source heading: `Mercury at the Sun/Moon Midpoint`\n\n#### McBroom Entry\n\nSource locator: printed page 49 / one-based PDF page 60, admitted excerpt.\n\nWe expect that thoughts, ideas, and communication will be involved as the central unifying focus for the individual, and in his interactions with others.",
+      "followup_diff": "--- wiki/activations/sun-moon-equals-mercury.md before followup\n+++ wiki/activations/sun-moon-equals-mercury.md after followup\n@@ -72,9 +72,11 @@\n \n ### Don McBroom - Midpoints\n \n+- Source heading: `Mercury at the Sun/Moon Midpoint`\n+\n #### McBroom Entry\n \n-Source locator: PDF page 60, admitted excerpt headed Mercury at the Sun/Moon Midpoint.\n+Source locator: printed page 49 / one-based PDF page 60, admitted excerpt.\n \n We expect that thoughts, ideas, and communication will be involved as the central unifying focus for the individual, and in his interactions with others.\n \n",
+      "source_heading": "Mercury at the Sun/Moon Midpoint",
+      "verified_locator": {
+        "printed": "49",
+        "pdf": [
+          60
+        ]
+      },
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-074.jsonl",
+      "original_ledger_line": 35,
+      "record_sha256": "88439652e43717038b8a551e1afa4b604aeff73b851843e312892942f5221ecd",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf060.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-mc-equals-mercury.md",
+      "checks": {
+        "outside_mcbroom_identical": true,
+        "mcbroom_passage_identical": true,
+        "frontmatter_identical": true,
+        "immediate_unique_anchor": true,
+        "relative_links_checked": 13,
+        "broken_relative_links": [],
+        "trailing_whitespace": false
+      },
+      "before_followup_sha256": "ef54607998c819d81690b05b982621daa53cccd8f29d1036fc7f2f29977a954d",
+      "after_sha256": "9dc92b84e22d4cd840959f5efb2e9aec32b443f39185e50c2f92a5495a332fd2",
+      "source_before_followup_sha256": "c6c01592f0d247111b68769aa6c2b117c348675c8b2e5ae08441a4e3cb016f12",
+      "source_before_original_sha256": "47364c70e50ad301c479ef90af9f0855c3ecdb870d5367b6767976f732b1dca4",
+      "source_after_sha256": "62c6adb5af81e91cb7eb6578bfe39f58b0a5ed901a36f18931572333acd68e0c",
+      "mcbroom_section": "- Source heading: `Mercury = Asc/Mc`\n\n#### McBroom Entry\n\nThoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Somehow people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n\nSource reference: Don McBroom, printed pp. 62–63, one-based PDF pp. 73–74, Mercury = Asc/Mc paragraph and continuation; checked on both actual pages. The page-break “Some- / how” is joined as Somehow. The famous-person examples following the paragraph are outside this represented excerpt.",
+      "followup_diff": "--- wiki/activations/asc-mc-equals-mercury.md before followup\n+++ wiki/activations/asc-mc-equals-mercury.md after followup\n@@ -72,6 +72,8 @@\n \n ### Don McBroom - Midpoints\n \n+- Source heading: `Mercury = Asc/Mc`\n+\n #### McBroom Entry\n \n Thoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Somehow people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n",
+      "source_heading": "Mercury = Asc/Mc",
+      "verified_locator": {
+        "printed": "62–63",
+        "pdf": [
+          73,
+          74
+        ]
+      },
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "original_ledger_line": 54,
+      "record_sha256": "2892282cd8b04c548e6a5c0efef69c131a94827bc38d5851cadf58abedbc823b",
+      "proof": [
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf073.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf074.png"
+      ]
+    }
+  ]
+}

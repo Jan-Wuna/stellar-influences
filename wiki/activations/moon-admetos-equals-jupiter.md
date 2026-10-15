@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Jupiter Admetos](../triads/moon-jupiter-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ Peace of mind. Happy in modest circumstances. To feel secure. Modest fortune.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 202; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-Blocked finances of a woman, restricted women's rights, restriction of the rights of a people, successful fief restriction, consolidation of the law, financial restrictions of a people, and hour of successful deepening
+German passage (transcribed from PDF page `100`, printed page `202`):
+
+> Blockierte Finanzen einer Frau, eingeschränktes Frauen-Recht, Einschränkung der Rechte eines Volkes, erfolgreiche Gefühls-Beschränkung, Festigung des Rechts-Gefühls, finanzielle Einschränkungen eines Volkes, Stunde einer erfolgreichen Vertiefung
+
+Editorial translation from the German passage: A woman's blocked finances; restricted women's rights; restriction of a people's rights; successful restraint of feeling; consolidation of the sense of justice; financial restrictions of a people; an hour of successful deepening.
+
+## Comparative Schema
+
+- core meaning: Modest circumstances may be experienced as secure, while ABC emphasizes material limits.
+- psychology: Witte's peace of mind coexists with ABC's successful restraint of feeling and consolidated sense of justice.
+- body/health: No specific health condition is given.
+- social/relationship: Restricted women's rights and a people's rights are ABC social examples.
+- events/manifestations: Modest fortune and blocked finances are distinct material associations.
+- conflicts/notes: Witte's favorable inner experience and ABC's restrictions differ materially and must not be flattened into one favorable result.
+
+## Contradictions
+
+Witte's favorable inner experience and ABC's restrictions differ materially and must not be flattened into one favorable result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Jupiter`: Peace of mind. Happy in modest circumstances. To feel secure. Modest fortune.
-- Practical expression: blocked finances of a woman, restricted women's rights, restriction of the rights of a people, successful fief restriction, and consolidation of the law.
+In `Moon/Admetos = Jupiter`, Jupiter specifies the axis through peace of mind and security in modest circumstances in [Witte](#witte-entry). [ABC](#abc-entry) instead emphasizes blocked finances and restricted rights. The page retains that difference of emphasis: subjective contentment does not demonstrate financial freedom or the absence of social restriction.
 
 ## Links
 

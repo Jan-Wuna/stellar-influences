@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Moon`
 - Astronomicon formula: `T/X = R`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Lively woman. Rapid interchange of thought. Practical way of thinking. Theory and practice well combined. Mathematical. Surprising news in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting women's speech, a woman's 13-movement rhythm, aroused speech in the people, excited speech of a woman, talk with an excited woman, talk about things happening in the woods, nervous young woman, and sudden feelings movement
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting conversations among women, a woman's rhythm of movement, agitated conversations among a people, a woman's agitated speaking, conversations with an excited woman, conversations about emotional events, a nervous young woman, a sudden stirring of feeling.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `158`; one-based PDF page `160`; entry code `0508` (actual PDF passage checked).
 
 An excitable soul or disposition, quick change of thoughts and moods, instinctive and correct grasp of a subject, logical thinking, practical disposition.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 An emotional need for open communication and to think for oneself. Quickly and/or abruptly changing moods.
 
@@ -70,22 +80,23 @@ An intuitive and inner understanding of mechanical, electrical, and information 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quick practical thought is emotionally felt and supports independent communication.
+- psychology: An open-communication need coexists with rapidly changing moods and excitement.
+- body/health: Nervousness is named, without a diagnosis.
+- social/relationship: Lively exchanges with women and encouragement of technical tinkering are settings.
+- events/manifestations: Surprising public news, technical understanding and abrupt mood changes are examples.
+- conflicts/notes: ABC's former woods and 13-movement phrases were translation/OCR damage, not sourced meanings.
 
 ## Contradictions
 
-- None recorded yet.
+Practical logical comprehension and abrupt emotional changes coexist. Added feeling does not erase a need for independent thought.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Moon`: quick emotional intelligence, imaginative spontaneity, and the ability to sense change immediately. Main caution: nervous volatility: perception can become anxious, erratic, or too disconnected from steadier feeling.
+In `Mercury/Uranus = Moon`, Moon specifies quick, practical thought through emotional responsiveness and a need for open, independent communication. Logical or intuitive grasp can extend to mechanical, electrical and information processes, while lively exchange and encouragement from women provide interpersonal settings. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry))
+
+Thoughts and moods may change quickly or abruptly; ABC's excited conversations, emotional events and sudden stirring of feeling preserve that movement directly. Technical understanding and greater sentiment sit beside nervousness and restlessness rather than eliminating them. ([Sandbach](#sandbach-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry))
 
 ## Links
 

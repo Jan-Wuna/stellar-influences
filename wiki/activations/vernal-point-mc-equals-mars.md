@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Mars MC](../triads/vernal-point-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ To work with other people. To let others work. To look energetic, active and bus
 
 #### ABC Entry
 
-In the public, my activities in the public life, my public work, minute of action in the public, soul work in the public, and emotional impulses from the public
+- Source reference: printed p. `18`, one-based PDF p. `8`, complete Mars row.
+
+German passage transcribed from the scan:
+
+> Beseeltes Schaffen in der Öffentlichkeit, meine Aktivitäten im öffentlichen Leben, meine Öffentlichkeits-Arbeit, Minute der Tatkraft in der Öffentlichkeit, Seelen-Arbeit in der Öffentlichkeit, seelische Impulse aus der Öffentlichkeit
+
+Editorial translation: Soulful work in public; my activities in public life; my public work; a minute of drive in public; soul-work in public; inner impulses from the public.
+
+## Comparative Schema
+
+- Core meaning: Personal participation in public work and activity.
+- Psychology: An energetic appearance and inner impulses from public life.
+- Body/health: Busyness does not establish a health condition.
+- Social/relationship: Working with others or letting others work.
+- Events/manifestations: Public labor and a moment of action.
+- Conflicts/notes: ABC connects public activity with soulful work and inner impulses; its minute-of-drive expression does not establish a timing method.
+
+## Contradictions
+
+Working oneself and letting others work are alternative forms of involvement, not a direct contradiction. ABC adds inward responses to public activity; it does not explain how labor is allocated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Mars`: to work with other people, to let others work, and to look energetic, active and busy.
-- Practical expression: in the public, my activities in the public life, my public work, minute of action in the public, and soul work in the public.
+In `Vernal Point/MC = Mars`, Mars specifies one's public involvement as active work. The person may work alongside others or involve their labor, while appearing energetic and busy. The [Witte Entry](#witte-entry) (PDF p. 35) and the complete public-work clauses of the [ABC Entry](#abc-entry) (printed p. 18; PDF p. 8) connect outward activity with a personal response to public life, without defining motives or the terms of cooperation.
 
 ## Links
 

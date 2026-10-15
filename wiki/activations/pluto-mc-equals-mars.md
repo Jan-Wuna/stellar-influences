@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Mars Pluto MC](../triads/mars-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ The development of the will. Personal change in action or at work. One’s attit
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Working on psychic development, mitigating for psychic development, my work change, my development work, my evolution bemOhungen, psychic developmentwork, creating psychic changes, and changing through soul impulses
+Editorial translation (checked against the scan): Work on inner development, effort toward unfolding of the soul, my change of work, my development work, my evolutionary efforts, inner development work, creating inner changes, transformation through impulses of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 Great striving for power, urge to dominate other people. The misfortune to be forced into an uncongenial profession or occupation. A crisis in one's career.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Increased willingness to battle for your objectives; added energy to develop you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Active striving and work transforming will, goals, or career.
+- psychology: Assertiveness, determination, a need to prove oneself, and possible domination.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Building reputation or security; conflict through the urge to dominate.
+- events/manifestations: Work change, hard career effort, an uncongenial occupation, or career crisis.
+- conflicts/notes: Effort and intensity do not guarantee effectiveness or leadership.
 
 ## Contradictions
 
-- None recorded yet.
+Active self-development can be chosen; Ebertin also describes being forced into an unsuitable occupation. The agency differs materially.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Mars`: extreme effectiveness, crisis leadership, and the ability to act forcefully when major change is required. Main caution: destructive ambition: public direction can become combative, coercive, or too dependent on struggle and conquest.
+Mars specifies Pluto/MC through effort that changes the person as well as the work. The [Witte entry](#witte-entry) connects development of will with activity, and [ABC](#abc-entry) adds work on inner development. Hard work toward security, career, or a spiritual path in [Sandbach](#sandbach-entry) can become the relentless pursuit of goals described by [Munkasey](#munkasey-entry). The [Ebertin entry](#ebertin-entry) retains harder possibilities: domination, an occupation imposed against one's inclination, and career crisis. These entries support active striving without guaranteeing effective action or crisis leadership.
 
 ## Links
 

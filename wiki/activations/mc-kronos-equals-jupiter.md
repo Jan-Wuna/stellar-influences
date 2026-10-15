@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [Jupiter MC Kronos](../triads/jupiter-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 Success through one’s own independence or initiative. Moneyed man. Financier. Money or property increase.
 
@@ -42,13 +46,27 @@ Success through one’s own independence or initiative. Moneyed man. Financier. 
 
 #### ABC Entry
 
-Blessed right state, special soul joy, great spiritual satisfaction, my successful state, my great happiness, my successful leadership, my financial independence, my joy as boss, and my legal authority
+Source: “Meridian + Kronos,” printed p. 90 (PDF p. 44).
+
+A soulful state governed by law, special inner or soul joy, great inner satisfaction, my successful state, my great good fortune, my successful leadership, my financial independence, my joy as chief, and my legal authority.
+
+## Comparative Schema
+
+- core meaning: Personal authority and independence expressed through success, initiative, financial freedom, and satisfaction.
+- psychology: Inner joy, satisfaction, and enjoyment of leadership.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Legal authority, successful leadership, and a state governed by law in ABC's terms.
+- events/manifestations: Increase in money or property and financial independence.
+- conflicts/notes: These favorable source possibilities do not establish that confidence attracts wealth or that success is guaranteed.
+
+## Contradictions
+
+Both entries include success and financial independence or increase. ABC adds inner satisfaction, state, and legal-authority expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Jupiter` blesses the axis with success through independence and initiative.
-- Chart expression: prosperous self-direction, financial authority, growing property, and a life path in which leadership and confidence attract money, stature, and material increase.
+In `MC/Kronos = Jupiter`, Jupiter specifies personal authority and independence through successful initiative, financial strength, and inner satisfaction. Witte names success through one's own independence and an increase of money or property; ABC adds financial independence, successful leadership, joy as chief, and legal authority. The entries describe favorable expressions without establishing a mechanism by which confidence attracts wealth or a guaranteed financial result. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 90 / PDF p. 44)
 
 ## Links
 

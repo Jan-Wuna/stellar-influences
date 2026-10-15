@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Jupiter Chiron Pluto`
 - Astronomicon triad-set: `V Chiron Z`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Pluto = Jupiter](../activations/chiron-pluto-equals-jupiter.md)
-- [Jupiter/Chiron = Pluto](../activations/jupiter-chiron-equals-pluto.md)
-- [Jupiter/Pluto = Chiron](../activations/jupiter-pluto-equals-chiron.md)
+- [Chiron/Pluto = Jupiter](../activations/chiron-pluto-equals-jupiter.md): base axis [Chiron/Pluto](../axes/chiron-pluto.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Chiron = Pluto](../activations/jupiter-chiron-equals-pluto.md): base axis [Jupiter/Chiron](../axes/jupiter-chiron.md); activator [Pluto](../factors/pluto.md).
+- [Jupiter/Pluto = Chiron](../activations/jupiter-pluto-equals-chiron.md): base axis [Jupiter/Pluto](../axes/jupiter-pluto.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Pluto = Jupiter`: John, page `99`
-- `Jupiter/Chiron = Pluto`: John, page `79`
-- `Jupiter/Pluto = Chiron`: John, page `82`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Pluto = Jupiter](../activations/chiron-pluto-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 99; exact entry page unverified); [Jupiter/Chiron = Pluto](../activations/jupiter-chiron-equals-pluto.md#sandbach-entry) (PDF chapter-start p. 79; exact entry page unverified); [Jupiter/Pluto = Chiron](../activations/jupiter-pluto-equals-chiron.md#sandbach-entry) (PDF p. 83; exact entry checked).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto = Jupiter`: healing through intensified expansion, to zeal that can transmute being, and to evolutionary growth accelerated by strong conviction. Main caution: inflation, spiritual grandiosity, or mistaking excess for depth.
-- `Jupiter/Chiron = Pluto`: the healing field becoming transformative and demanding. It can show deep breakthrough arriving through stress, intensity, or inner pressure.
-- `Jupiter/Pluto = Chiron`: power and growth becoming therapeutically catalytic. It favors helping others move through compulsion, awaken deeper purpose, and transform crisis into meaningful development.
+Jupiter, Chiron and Pluto form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Pluto](../axes/chiron-pluto.md)
+- [Jupiter/Chiron](../axes/jupiter-chiron.md)
+- [Jupiter/Pluto](../axes/jupiter-pluto.md)
 - [Jupiter](../factors/jupiter.md)
 - [Chiron](../factors/chiron.md)
 - [Pluto](../factors/pluto.md)

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Cupido Apollon`
 - Astronomicon triad-set: `Z ¡ ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Apollon = Pluto](../activations/cupido-apollon-equals-pluto.md)
-- [Pluto/Apollon = Cupido](../activations/pluto-apollon-equals-cupido.md)
-- [Pluto/Cupido = Apollon](../activations/pluto-cupido-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Apollon = Pluto](../activations/cupido-apollon-equals-pluto.md) | [Cupido/Apollon](../axes/cupido-apollon.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Apollon = Cupido](../activations/pluto-apollon-equals-cupido.md) | [Pluto/Apollon](../axes/pluto-apollon.md) | [Cupido](../factors/cupido.md) |
+| [Pluto/Cupido = Apollon](../activations/pluto-cupido-equals-apollon.md) | [Pluto/Cupido](../axes/pluto-cupido.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Cupido/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
-- `Cupido/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `431`
-- `Pluto/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `417`
-- `Pluto/Cupido = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `409`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Apollon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-apollon-equals-pluto.md#witte-entry), one-based PDF entry-start p. `270`.
+- `Cupido/Apollon = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-apollon-equals-pluto.md#abc-entry), printed p. `431`.
+- `Pluto/Apollon = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-apollon-equals-cupido.md#witte-entry), one-based PDF entry-start p. `261`.
+- `Pluto/Apollon = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-apollon-equals-cupido.md#abc-entry), printed p. `417`.
+- `Pluto/Cupido = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-cupido-equals-apollon.md#witte-entry), one-based PDF entry-start p. `257`.
+- `Pluto/Cupido = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-cupido-equals-apollon.md#abc-entry), printed p. `409`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Pluto`: building an artistic or scientific work community from small beginnings into something larger.
-- `Pluto/Apollon = Cupido`: This activation emphasizes deep reaching large transformation in a community or family; New orders or rules of living with others, first measure to this end.
-- `Pluto/Cupido = Apollon`: This activation emphasizes to build up a scientific community from small beginnings.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

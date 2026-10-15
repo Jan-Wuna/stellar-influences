@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Vernal Point`
 - Astronomicon formula: `¢/£ = VP`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 281; PDF p. 277.
+
 Destructive fire for many. Malice, dirty tricks. Strike. Lock-outs. Lack of coal. Industry in general. General outbreaks of hate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-F.: our crime in the C) public, public service, lack of leadership in life, dangerous fire in public, lack of performance in public life, and lack of financial resources in public life
+- Source reference: printed p. 438; PDF p. 218.
+
+Fire-related crime in public, leadership service in public, lack of leadership in public life, dangerous fire in public, deficient performance in public life, and hidden leadership in public.
+
+## Comparative Schema
+
+- Core meaning: Industry and public leadership under conditions of disruption or danger.
+- Psychology: General outbreaks of hate and public malice in Witte.
+- Body/health: Neither entry specifies a bodily condition.
+- Social/relationship: Public leadership service, deficient leadership, and industrial relations.
+- Events/manifestations: Strikes, lock-outs, coal shortage, destructive fire, and fire-related crime.
+- Conflicts/notes: Hidden leadership is the actual ABC final clause; lack of financial resources was corrupt translation.
+
+## Contradictions
+
+
+Public leadership service and industry are wider fields than public hostility, destructive fire and disruption; the entries retain both.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Vernal Point`: social life being marked by industrial disruption, public hostility, and mass destructive conditions. It can show the general climate becoming combustible.
+In `Hades/Zeus = Vernal Point`, Vernal Point specifies the Hades/Zeus axis through public conditions, industry, leadership, and danger affecting many. The [Witte Entry](#witte-entry) places industry, strikes, lock-outs and coal shortage beside destructive fire affecting many and general outbreaks of hate. The [ABC Entry](#abc-entry) describes public leadership service, hidden or deficient leadership, poor performance and fire-related crime. The common scale is public life: industrial activity and service remain part of the meaning, with disruption and danger as particular expressions rather than a description of all society.
 
 ## Links
 

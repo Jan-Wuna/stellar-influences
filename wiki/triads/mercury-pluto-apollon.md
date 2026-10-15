@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Pluto Apollon`
 - Astronomicon triad-set: `T Z ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Apollon = Pluto](../activations/mercury-apollon-equals-pluto.md)
-- [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md)
-- [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md)
+- [Mercury/Apollon = Pluto](../activations/mercury-apollon-equals-pluto.md): base axis [Mercury/Apollon](../axes/mercury-apollon.md); activator [Pluto](../factors/pluto.md).
+- [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md): base axis [Mercury/Pluto](../axes/mercury-pluto.md); activator [Apollon](../factors/apollon.md).
+- [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md): base axis [Pluto/Apollon](../axes/pluto-apollon.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
-- `Mercury/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `263`
-- `Mercury/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `165`
-- `Mercury/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `253`
-- `Pluto/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `416`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Apollon = Pluto](../activations/mercury-apollon-equals-pluto.md#witte-entry) (PDF entry-start p. 170); [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md#witte-entry) (PDF entry-start p. 165); [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md#witte-entry) (PDF entry-start p. 261).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Apollon = Pluto](../activations/mercury-apollon-equals-pluto.md#abc-entry) (printed p. 263); [Mercury/Pluto = Apollon](../activations/mercury-pluto-equals-apollon.md#abc-entry) (printed p. 253); [Pluto/Apollon = Mercury](../activations/pluto-apollon-equals-mercury.md#abc-entry) (printed p. 416).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Pluto`: transforms the axis through mass discussion and changed views.
-- `Mercury/Pluto = Apollon`: To have to think of many things. Many change their minds.
-- `Pluto/Apollon = Mercury`: This activation emphasizes thoughts, opinions or debates about transformations and changes; To be under the influence of a great change.
+Mercury, Pluto and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Mercury/Pluto](../axes/mercury-pluto.md)
+- [Pluto/Apollon](../axes/pluto-apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Pluto](../factors/pluto.md)
 - [Apollon](../factors/apollon.md)

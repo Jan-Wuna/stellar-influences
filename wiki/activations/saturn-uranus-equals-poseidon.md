@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Poseidon](../triads/saturn-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Sudden shattering of confidence and faith. Sudden separation from an opinion, co
 
 Serious cultural events, mental maturity impulses, concentration on clear technology, new mature ideas, sudden problems with truth, surprising pain due to truth, useful technical tasks, and surprising mental problems
 
+## Comparative Schema
+
+- core meaning: Convictions or faith disrupted by an encounter with truth or changed understanding.
+- psychology: Mature ideas coexist with shaken confidence and unexpected mental problems.
+- body/health: No specific bodily claim is supplied; pain is not given a medical mechanism.
+- social/relationship: Separation from an opinion or shared concept of life.
+- events/manifestations: Serious cultural events and technical tasks accompany new ideas.
+- conflicts/notes: A painful change of conviction is not automatically spiritual improvement.
+
+## Contradictions
+
+Maturity and shaken faith are different emphases, not mutually exclusive assertions; neither entry settles the value of the change.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Uranus = Poseidon`: sudden shattering of confidence and faith, sudden separation from an opinion, conviction or concept of life.
-- Practical expression: serious cultural events, mental maturity impulses, concentration on clear technology, new mature ideas, and sudden problems with truth.
+Poseidon specifies Saturn/Uranus through conviction and understanding: an opinion, faith or concept of life can be shattered or left behind suddenly. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) describes that break, while the [ABC Entry](#abc-entry) (printed p. 349; PDF p. 173) adds mature ideas and problems or pain associated with truth. Their connection is a serious disruption of what is accepted as true, with cultural and technical examples retained as part of the source's range.
 
 ## Links
 

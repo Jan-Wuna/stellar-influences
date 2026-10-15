@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NEPTUNE + POSEIDON`
+- PDF page (one-based): `254` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Subtle-minded things and matters. Metaphysics. Psychology. Refraction of light. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `406–407`; PDF page (one-based): `202` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Exchangeable truth, subtlety and kjarheit, spirit of the future, clarity through intuition, culture refinement, weak mind, unclear mee, reason--weakness, water culture, and future culture
+Disappointing truth, sensitivity and clarity, spirit of the future, clarity through intuition, clear water, cultural refinement, weak mind, unclear idea, weakness of reason, water culture, future culture.
+
+## Comparative Schema
+
+- core meaning: subtle perception and the presentation of truth connect intuitive clarity, reflection, and distorted ideas or beliefs.
+- psychology: enthusiasm, spiritualization, metaphysical interest, and intuition range into fanaticism, false views, or intellectual deception.
+- body/health: the entries give no specific medical correspondence; Udo's weak-mind wording is not a clinical finding.
+- social/relationship: the explicit social range concerns worldviews, faith, culture, and misrepresentation of facts, rather than an intimate-relationship pattern.
+- events/manifestations: metaphysics, psychology, refraction of light, mirrors, steam, cultural refinement, and water culture are named domains.
+- conflicts/notes: intuition may be linked to clarity or false belief; the entries do not establish that a spiritual conviction is true merely because it feels subtle or compelling.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Exchangeable truth, subtlety and kjarheit, spirit of the future, clarity through
 - [Neptune/Poseidon = Vulcanus](../activations/neptune-poseidon-equals-vulcanus.md)
 - [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md)
 
+## Contradictions
+
+- ABC's complete bold summary was retranslated from PDF202, printed406–407, restoring disappointing truth, clarity, the unclear idea and clear water. Witte's exact pair passage is PDF254. His false-worldview and fanaticism motifs coexist with spiritualization and enthusiasm, rather than proving every metaphysical interest delusive.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes heightened receptivity to subtle, spiritual, philosophical, and imaginal realities, along with the risk of false belief, distorted doctrine, or persuasive illusion. It often shows refined intuition and metaphysical sensitivity, but also misrepresentation, idealized thinking, and confusion between truth and projection.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Poseidon` concerns subtle perception and the ideas through which an experience is understood as true. [Witte's pair summary](#pair-summary) connects metaphysics, psychology, spiritualization, and enthusiasm with false facts, a wrong worldview, fanaticism, and intellectual deception. The [ABC summary](#abc-pair-summary) also includes sensitivity with clarity, clarity through intuition and cultural refinement alongside disappointing truth and an unclear idea, so sensitivity and mistaken belief remain distinct possibilities within the pair's range.
+
+The entry is not solely philosophical: Witte names refraction of light, mirrors, reflection, and steam, while ABC includes clear water, water culture and future culture. These uncommon material and cultural meanings remain part of the evidence. The pair alone cannot settle the truth of a conviction, establish a clinical condition, or supply a particular relationship outcome; a closing factor has its own [activation page](#related-activations).
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Asc Poseidon`
 - Astronomicon triad-set: `Y Asc ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Poseidon = Neptune](../activations/asc-poseidon-equals-neptune.md)
-- [Neptune/Asc = Poseidon](../activations/neptune-asc-equals-poseidon.md)
-- [Neptune/Poseidon = Asc](../activations/neptune-poseidon-equals-asc.md)
+- [Asc/Poseidon = Neptune](../activations/asc-poseidon-equals-neptune.md): base axis [Asc/Poseidon](../axes/asc-poseidon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Asc = Poseidon](../activations/neptune-asc-equals-poseidon.md): base axis [Neptune/Asc](../axes/neptune-asc.md); activator [Poseidon](../factors/poseidon.md).
+- [Neptune/Poseidon = Asc](../activations/neptune-poseidon-equals-asc.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `137`
-- `Neptune/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `406`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Poseidon = Neptune](../activations/asc-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 98); [Neptune/Asc = Poseidon](../activations/neptune-asc-equals-poseidon.md#witte-entry) (PDF entry-start p. 89); [Neptune/Poseidon = Asc](../activations/neptune-poseidon-equals-asc.md#witte-entry) (PDF entry-start p. 254).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Poseidon = Neptune](../activations/asc-poseidon-equals-neptune.md#abc-entry) (printed p. 137); [Neptune/Asc = Poseidon](../activations/neptune-asc-equals-poseidon.md#abc-entry) (printed p. 119); [Neptune/Poseidon = Asc](../activations/neptune-poseidon-equals-asc.md#abc-entry) (printed p. 406).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Neptune`: association with people who are either spiritually refined or mentally led astray, so the environment carries both inspiration and confusion.
-- `Neptune/Asc = Poseidon`: This activation spiritualizes uncertain encounters through delusion, vision, or mental blindness in others, while also linking confusion to larger environmental or collective disturbances.
-- `Neptune/Poseidon = Asc`: This activation personalizes false faith through others, bringing one into contact with people whose beliefs are sincerely held but fundamentally misguided.
+Neptune, Asc and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Neptune/Asc](../axes/neptune-asc.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)

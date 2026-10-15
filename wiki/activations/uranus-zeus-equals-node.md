@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Node`
 - Astronomicon formula: `X/£ = g`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 To join for energetic work. In connection with the forces of nature. Major forces.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting restlessness in a connection, new beginning of a relationship, new direction through an encounter, sudden connection with fire, creative impulses convey, surprising procreation connection, and connection to the new movement
+- Source page: 378 (printed); PDF page: 188.
+
+Starting restlessness in a connection, new beginning of a relationship, new direction through an encounter, sudden connection with fire, creative impulses convey, surprising procreation connection, and connection to the new leadership
+
+## Comparative Schema
+
+- Core meaning: Joining directed, energetic activity.
+- Psychology: Restlessness at a connection's beginning.
+- Body/health: Procreation connection is historical doctrine.
+- Social/relationship: New relationship or direction through an encounter.
+- Events/manifestations: Joining work or encountering natural forces.
+- Conflicts/notes: A connection can initiate unrest as well as creation.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+A connection can initiate unrest as well as creation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Node`: To join for energetic work. In connection with the forces of nature. Major forces.
-- Practical expression: starting restlessness in a connection, new beginning of a relationship, new direction through an encounter, sudden connection with fire, and creative impulses convey.
+Node specifies Uranus/Zeus through joining forces. An encounter can start a relationship, redirect activity, or connect people with energetic work and natural power. ABC's connection with fire and its historical procreation association keep the range broader than cooperative work alone. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

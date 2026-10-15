@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + CUPIDO`
+- PDF page (one-based): `257` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Changes in the family like betrothal, wedding, birth, death. Tradition. Changes 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `408–409`; PDF page (one-based): `203` (complete bold pair summary checked against the scan; existing translation preserved).
+
 #### ABC Pair Summary
 
 Developments in the Community, developing Community, changing together, changing Community, artistic developments, growth of the whole, changes in the arts, and interrelated changes
+
+## Comparative Schema
+
+- core meaning: development or change within a family, partnership, community, or artistic whole ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: the summaries do not supply an individual emotional or personality profile; their emphasis is shared change.
+- body/health: birth and death occur as family changes in Witte's examples, not as medical predictions or bodily correspondences.
+- social/relationship: family transitions, human partnership, clubs, community, tradition, ancestors, and descendants are explicit settings.
+- events/manifestations: betrothal, weddings, changes in family membership, collective clarification, club growth, and developments in art are named examples.
+- conflicts/notes: tradition and transformation coexist in the source range; no entry establishes that community change must be harmonious, disruptive, or permanent.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Developments in the Community, developing Community, changing together, changing
 - [Pluto/Cupido = Vulcanus](../activations/pluto-cupido-equals-vulcanus.md)
 - [Pluto/Cupido = Zeus](../activations/pluto-cupido-equals-zeus.md)
 
+## Contradictions
+
+Family milestones, community growth, and artistic developments are different expressions of shared change. Their inclusion does not make every change a family event or establish a direct contradiction with tradition. ABC's complete bold summary is confirmed on PDF203, printed408–409; Witte's exact pair passage is confirmed on PDF257, without claiming a separately checked printed folio.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes changes in the family like betrothal, wedding, birth, death; Tradition; Changes in the human society, human partnership.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Cupido` concerns a shared whole undergoing development: a family changes membership, a partnership changes form, a club grows, or artistic work develops. The [pair summary](#pair-summary) ties these transitions to tradition, ancestors, and descendants, while the [ABC entry](#abc-pair-summary) emphasizes changing together and the growth of the community. The organizing theme is change within a connected group or collective work.
+
+Witte's betrothal, wedding, birth, and death are examples of family transitions, not a prediction that any particular milestone will occur. Clearing something up together and development in art preserve a range beyond family life. The summaries do not give a general personality profile or an automatic constructive/destructive outcome; third-factor manifestations remain on separate activation pages.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Admetos](../triads/saturn-uranus-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To get into or out of a tight spot by surprise. Sudden separation of a few.
 
 #### ABC Entry
 
-Serious restlessness due to blockage, blocked circulatory rhythm, grim patience in tension, new losses due to restriction, sudden depression, tension in old age due to underdriickness, and iisurpating pain underdriickness
+Serious restlessness through blockage, disturbed circulatory rhythm, thorough patience under tension, new losses through restriction, sudden depressive disturbances, tension in old age through suppression, and surprising suppression of pain.
+
+## Comparative Schema
+
+- core meaning: Abrupt entry into or escape from a constricted situation.
+- psychology: Restlessness and patience under tension.
+- body/health: ABC attributes disturbed circulatory rhythm, depressive disturbance and suppression of pain.
+- social/relationship: Witte includes sudden separation of a few people.
+- events/manifestations: Blockage, new losses through restriction and surprise release.
+- conflicts/notes: The medical vocabulary remains a source attribution, not a diagnosis.
+
+## Contradictions
+
+Entering and escaping a tight spot are alternative directions of the same abrupt change; the entries do not settle which occurs.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Uranus = Admetos`: to get into or out of a tight spot by surprise, sudden separation of a few.
-- Practical expression: serious restlessness due to blockage, blocked circulatory rhythm, grim patience in tension, new losses due to restriction, and sudden depression.
+Admetos specifies Saturn/Uranus as tension concentrated in a tight or blocked situation. Surprise can put someone into that constraint or release them from it; sustained patience and restlessness describe the pressure while it lasts. Read the [Witte Entry](#witte-entry) (PDF p. 221, entry start) with the [ABC Entry](#abc-entry) (printed p. 349; PDF p. 173), whose bodily and depressive language remains historically attributed rather than a necessary outcome.
 
 ## Links
 

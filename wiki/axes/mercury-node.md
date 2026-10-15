@@ -11,6 +11,8 @@ normalized_axis: Mercury/Node
 factor_a: Mercury
 factor_b: Node
 related_activations:
+  - Mercury/Node = Mercury
+  - Mercury/Node = Node
   - Mercury/Node = Admetos
   - Mercury/Node = Apollon
   - Mercury/Node = Asc
@@ -72,13 +74,14 @@ updated_at: 2026-06-20
 - Axis: `Mercury/Node`
 - Astronomicon axis: `T/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/NODE`
-- Source page: `175`
+- Source heading: `NODES + MERCURY`
+- PDF page: `141`
 
 #### Pair Summary
 
@@ -86,9 +89,15 @@ Connections of thoughts. Correspondence. To make new connection. Intellectual or
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `208`; PDF page: `103` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-intellectual relations, youth relations, messages mediate, links to youth, and transport connections
+German pair summary (transcribed from printed page `208`; PDF page `103`):
+
+> Begegnungen mit der Jugend, Gespräche anknüpfen, intellektuelle Beziehungen, Jugend-Verbindungen, Medien-Kontakte, Nachrichten vermitteln, Verbindungen in der Jugend, Verbindungen zur Jugend, Verkehrs-Verbindungen
+
+Editorial translation from the German passage: Encounters with youth, initiating conversations, intellectual relationships, youth connections, media contacts, conveying news, connections in youth, connections to youth, traffic connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +181,17 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: making connections through communication, exchanging ideas, and developing joint plans ([Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: interest in others' thinking can refine one's own views, while calculation, gossip, or defensive reasoning can limit the exchange ([Ebertin](#psychological-correspondence), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
+- body/health: Ebertin names relations between autonomic and voluntary nerves; Munkasey adds blocked passages and nerve connections. These remain the authors' medical analogies, not inferred conditions ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: associations formed around shared interests, helpful contacts, mental work in groups, and sharing thoughts with a partner are central ([Sociological Correspondence](#sociological-correspondence), [Hand](#pair-delineation), [Munkasey](#in-your-relationships)).
+- events/manifestations: correspondence, meetings, research requiring others' help, business contacts, and transportation corridors connect people or information ([Pair Summary](#pair-summary), [Munkasey](#basic-ideas)).
+- conflicts/notes: The social and developmental readings describe different uses of intellectual connection; they do not require one fixed relationship outcome.
 
 ## Related Activations
+
+- [Mercury/Node = Mercury](../activations/mercury-node-equals-mercury.md)
+- [Mercury/Node = Node](../activations/mercury-node-equals-node.md)
 
 - [Mercury/Node = Admetos](../activations/mercury-node-equals-admetos.md)
 - [Mercury/Node = Apollon](../activations/mercury-node-equals-apollon.md)
@@ -205,15 +217,15 @@ Assimilation of food unable to get to the body parts needed due to broken or blo
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The social and developmental readings emphasize different uses of intellectual connection. Mutual stimulation, calculated advantage, and stubborn refusal to reconsider are possible contrasts, not simultaneous requirements.
+- ABC's complete nine-clause bold list is restored from printed208/PDF103, including encounters, initiating conversations, media contacts and connections in youth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node` is the axis of intellectual connection, shared plans, correspondence, and relationships built through ideas and communication. It combines thinking, speech, information flow, and versatility with association, networking, and the need to exchange perspectives with others.
-- Chart expression: sociability, study with others, group thinking, negotiation, mental teamwork, and the ability to create bonds through conversation, writing, or coordinated plans. Liabilities: gossip, opportunistic networking, manipulative talk, shallow or excessive chatter, and relationships that become transactional or mentally noisy rather than meaningful.
+`Mercury/Node` concerns the connections created by exchanging ideas. Conversation, correspondence, shared interests, and joint planning allow people to find one another and do mental work together. The theme includes seeking people who can fill gaps in one's knowledge, attracting helpful collaborators, and learning to present information so others can engage with it. Transport connections are a practical parallel: routes carry people and goods as communication carries information ([Pair Summary](#pair-summary), [Ebertin](#principle), [Hand](#pair-delineation), [Munkasey](#basic-ideas)).
+
+These connections can stimulate and revise one's thinking, but they can also become calculated, manipulative, or dominated by gossip. Sandbach emphasizes the pull between familiar ideas and ideas that allow development; Banzhaf/Haebler similarly contrast honest scrutiny of motives with clever reasons for remaining stuck. This extends the social theme without making every meeting beneficial or fated. Specific third-factor effects belong to the activation pages ([Ebertin](#psychological-correspondence), [Munkasey relationships](#in-your-relationships), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
 
 ## Links
 

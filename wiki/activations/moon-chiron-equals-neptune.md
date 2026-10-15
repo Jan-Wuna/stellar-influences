@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Moon/Chiron](../axes/moon-chiron.md)
 - Triad hub: [Moon Chiron Neptune](../triads/moon-chiron-neptune.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
+- Source passage: `Planets activating the Moon/Chiron midpoint`; exact Neptune entry at one-based PDF page `33` (checked in actual raw PDF text).
+
 One intuitive senses how to cause emotional clearing as well as how to nurture others at a very deep level. The products of one’s imagination can have a pro foundly healing effect on the feeling bodies of other people.
+
+## Comparative Schema
+
+- core meaning: Intuition and imaginative products convey emotional clearing and nurture.
+- psychology: Intuitively sensing how to reach another person at a deep emotional level.
+- body/health: 'Feeling bodies' belongs to Sandbach's spiritual vocabulary, not a claim about physical anatomy.
+- social/relationship: Imagination is described as affecting other people's feelings.
+- events/manifestations: Something created through imagination may become a vehicle of emotional nurture.
+- conflicts/notes: The source's grammatical damage remains preserved; no specific art form or clinical effect is established.
+
+## Contradictions
+
+Only Sandbach's entry is displayed, so this page cannot establish agreement or disagreement between sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Chiron = Neptune`: One intuitive senses how to cause emotional clearing as well as how to nurture others at a very deep level. The products of one’s imagination can have a pro foundly healing effect on the feeling bodies of other people.
+In Sandbach's `Moon/Chiron = Neptune`, Neptune specifies emotional clearing through intuition and imagination. An intuitive sense of how to nurture can enter what a person imagines or creates, which Sandbach describes as affecting others' 'feeling bodies'. That phrase remains within his spiritual account of emotion rather than establishing a physical healing mechanism. ([Sandbach](#sandbach-entry))
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Saturn Node Kronos](../triads/saturn-node-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 Connection with persons or corporations of economical instability.
 
@@ -42,13 +46,29 @@ Connection with persons or corporations of economical instability.
 
 #### ABC Entry
 
-Reputational losses in a connection, special tasks of a connection, problems in state relations, connection with a serious authorization, losses in state connections, loss of a self indigenous connection, and important tasks connect
+Losses of reputation within a connection, particular tasks of a connection, problems in state relations, connection with a serious authority, losses in state connections, loss of an independent connection, and linking important tasks.
+
+Translation checked against the German scan: printed p. 360, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Associations carry institutional or financial instability and demands on independence.
+- Psychology: The entries name tasks rather than a specific inner disposition.
+- Body/health: No bodily condition is established.
+- Social/relationship: Connections with unstable persons, corporations, or serious authority.
+- Events/manifestations: Reputational loss within an association, state-related difficulties, lost independent connections, and linked tasks.
+- Conflicts/notes: The scan identifies an authority, not an authorization, and an independent connection, not the damaged cached phrase.
+
+## Contradictions
+
+The entries overlap in difficult connections but do not equate every association with financial instability. Important shared tasks are a further role of a connection, not a guarantee against loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Node`: connection with persons or corporations of economical instability.
-- Practical expression: reputational losses in a connection, special tasks of a connection, problems in state relations, connection with a serious authorization, and losses in state connections.
+In `Saturn/Kronos = Node`, Node specifies the Saturn/Kronos axis through connections whose stability, reputation, or independence is tested. The [Witte entry, PDF p. 227](#witte-entry) names financially unstable persons or corporations; the verified [ABC entry, printed p. 360](#abc-entry) adds relations with the state or a serious authority and losses within those associations.
+
+The same passage includes particular shared duties and linking important tasks. Its focus is therefore the burden and responsibility carried through connections, rather than a claim that every connection must dissolve or fail financially.
 
 ## Links
 

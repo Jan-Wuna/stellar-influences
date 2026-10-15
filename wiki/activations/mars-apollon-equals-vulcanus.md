@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Apollon Vulcanus](../triads/mars-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Great efforts and great success in the field of commerce or science.
 
 Extensive violence actions, experienced labor force, success through will force, influential scientific activity, successful power activity, powerful freedom will, strong trade activity, and increasing violence activity
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 201 (entry start); [ABC Entry](#abc-entry), printed p. 317 (entry).
+
+- Core meaning: Scientific and commercial work involves great effort and force.
+- Psychology: ABC explicitly connects success with strength of will.
+- Body/health: Working strength is named, without a distinct medical condition.
+- Social/relationship: Influential scientific and strong trade activity place effort in a wider field.
+- Events/manifestations: Witte gives great success; ABC also includes extensive or increasing violent action.
+- Conflicts/notes: Achievement and violence are different expressions in these entries; forceful success is not automatically beneficial or violent.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Vulcanus`: great effort and major success in commerce, science, or industry, with unusually strong capacity driving large results.
-- Chart expression: powerful execution, industrial strength, and expansion backed by forceful sustained effort.
+Vulcanus specifies the Mars/Apollon axis through the magnitude of effort and its effects. [Witte Entry](#witte-entry) emphasizes great effort and success in science or commerce; [ABC Entry](#abc-entry) adds willpower, influence, strong trade activity, and a separate range of violent action. The unifying theme is force brought into a broad undertaking, with constructive achievement and coercive action kept distinct.
 
 ## Links
 

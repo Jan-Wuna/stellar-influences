@@ -6,16 +6,16 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Jupiter/Asc` as source-native image material.
+Preserve Munkasey's `CONCEPTS` phrases from the third page of the `Jupiter/Asc` chapter as source-native image material. For the pair's interpretation, start with the [canonical Jupiter/Asc synthesis](../axes/jupiter-asc.md#derived-synthesis).
 
 ## Evidence Base
 
-- [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Jupiter/Asc: Munkasey source entry](../axes/jupiter-asc.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - Source concept page: `277`
 
@@ -124,3 +124,4 @@ Preserve Munkasey's page-3 concept phrases for `Jupiter/Asc` as source-native im
 
 - These phrases are preserved as source-native concept prompts, not as comparative doctrine.
 - They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+- Use the list to explore alternative images, not to assert that every phrase applies together. For an explicit `Jupiter/Asc = C` formula, follow the axis page's Related Activations to the exact oriented entry; this list assigns no phrases to an activator.

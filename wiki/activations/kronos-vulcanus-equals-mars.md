@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Mars Kronos Vulcanus](../triads/mars-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Mars entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Great energy in action. Political activity. To fight for or against the existing
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 464; PDF p. 231 (one-based), Kronos + Vulkanus, Mars entry.
+
 #### ABC Entry
 
-Special force work, special will influence, influential labour burden, power activity of the state, state force activity, strong will to self governance, important energy impulses, and important energies in activity
+Special work requiring strength; special influence of will; an influential labor authority; the state's exercise of power; state activity using force; a strong will for independence; important energy impulses; important energies in action.
+
+## Comparative Schema
+
+- Core meaning: Great energy is exercised in political action and state power.
+- Psychology: Will, independence, and energies in action are explicit ABC themes.
+- Body/health: Work requiring strength is stated without a clinical claim.
+- Social/relationship: Action can support or oppose the existing form of government.
+- Events/manifestations: Political activity, a labor authority, and the exercise of state force are named.
+- Conflicts/notes: The entries allow action on either side of an existing government.
+
+## Contradictions And Tensions
+
+The entries allow action on either side of an existing government.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Mars`: political action, fighting for or against a regime, and direct exercise of state force.
-- Chart expression: decisive action, military or police assertion, and conflict over the right to wield governing power.
+With Mars, Kronos/Vulcanus brings power into action. Witte names political activity, the exercise of state power, and fighting either for or against the existing form of government. ABC adds forceful work, an influential labor authority, will, and a strong drive for independence. The organizing theme is substantial energy applied to authority and political action. The entries do not require a particular military or police role. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

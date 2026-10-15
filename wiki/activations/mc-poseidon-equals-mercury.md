@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [Mercury MC Poseidon](../triads/mercury-mc-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Idealistic way of thinking. One’s own ideas.
 
 #### ABC Entry
 
-Inspired youth culture, talk about soul and spirit, my mental intercourse, my insights into youth, my clear thoughts, my cultural reports, my cultural media, my vettinous thoughts, and psychic clarity in youth
+- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).
+
+Ensouled youth culture, conversations about soul and spirit, my intellectual exchange, my insights in youth, my clear thoughts, my cultural reports, my cultural media, my reasonable thoughts, inner clarity in youth.
+
+## Comparative Schema
+
+- **Core meaning:** Idealistic thinking and personal ideas.
+- **Psychology:** Clear thought and intellectual ideals.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Discussion of soul and spirit; cultural communication.
+- **Events/manifestations:** Cultural reports and knowledge associated with youth.
+- **Conflicts/notes:** ABC explicitly names reasonable thoughts beside clarity, cultural communication and youth. These are source examples, not a guarantee that a person's ideas are correct.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 98 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Witte's idealistic thinking and own ideas are broadened by ABC's clear and reasonable thought, cultural communication and youth setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Mercury` mentalizes the axis into idealistic thought and clear ownership of ideas.
-- Chart expression: a self shaped by ideals, personal concepts, and a thinking style that values meaning, principle, and the inner coherence of one's own ideas.
+Mercury specifies `MC/Poseidon` through idealistic thought and one's own ideas. The [Witte Entry](#witte-entry) supplies that compact emphasis; the [ABC Entry](#abc-entry) extends it into clear thoughts, cultural reports and discussion of soul and spirit. Its youth motif gives a particular context for understanding, without establishing a fixed age or outcome.
 
 ## Links
 

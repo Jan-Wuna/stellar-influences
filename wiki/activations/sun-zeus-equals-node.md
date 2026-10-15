@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Node`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = g`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Node Zeus](../triads/sun-node-zeus.md)
@@ -44,11 +45,25 @@ Connections with creative men. Allies in a fight. To see or to experience a fire
 
 Relationships to leading persons, personal procreation connection, creative personal connection, personal efforts to relationships, connection with creative people, and connection to a performance center
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Connections form around creative people and shared action.
+- psychology: Personal effort toward relationships is explicit.
+- body/health: ABC's procreation connection is historical terminology, not a medical outcome.
+- social/relationship: Allies in a fight and contacts with leading people are named.
+- events/manifestations: Seeing or experiencing fire is Witte's separate event example.
+- conflicts/notes: A creative alliance does not itself imply conflict or fire.
+
+## Contradictions
+
+No direct contradiction is established by the entries; the listed manifestations remain alternatives. No direct contradiction is established within the available entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Node`: active connections and unions driven by shared purpose or action.
-- Practical expression: relationships to leading persons, personal procreation connection, creative personal connection, personal efforts to relationships, and connection with creative people.
+Node specifies Sun/Zeus through connections with creative or leading people, with allies in a fight as Witte's concrete cooperative example. ABC adds personal effort to establish relationships and links to a performance center; seeing or experiencing fire remains a separate manifestation. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

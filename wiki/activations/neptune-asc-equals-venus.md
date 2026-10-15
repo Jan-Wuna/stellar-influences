@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Venus`
 - Astronomicon formula: `Y/Asc = Q`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be deceived in love. To be disappointed by other people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Exchanged love partners, harmony through the partner's subtlety, harmony with others in the air, secret love in the place, weakness of the love partner, insecure love partner, preference for a subtle environment, and prefer water as an environment
+Disappointed love partner, harmony through the partner's sensitivity, harmony with others in the air, secret love at the location, weakness of the love partner, uncertain love partner, preference for a subtle environment, and preferring water as surroundings
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1026`.
 
 #### Ebertin Entry
 
 Unloving or unaffectionate environment, longing for love, an impressionable person with regard to the feeling of love. Painful experiences in love, to show dislike.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To be idealized by the other person in a love relationship. To enjoy fantasizing
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increased ability to feel deep affection for your close friends; aids your intui
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: affection, idealization, and sensitivity in love, with disappointment and longing among the possibilities.
+- psychology: fantasy about the self, playing roles, and impressionability in love are explicit.
+- body/health: none of the entries supplies a bodily or health claim.
+- social/relationship: deception in love and an unaffectionate environment coexist with affection for close friends.
+- events/manifestations: secret love, subtle expression of affection, appreciation of music or art, and seeking comfort are stated.
+- conflicts/notes: the entries do not establish a general ability to soothe or enchant others.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress disappointment and longing; ABC retains harmony, Sandbach includes idealization, and Munkasey includes friendship and artistic appreciation. These are distinct possibilities within the orientation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Venus`: artistic charm, tender rapport, and the ability to soothe or enchant through manner and tone. Main caution: seductive projection: appeal can become overly romanticized, evasive, dependent on approval, or vulnerable to disappointment.
+In Neptune/Asc = Venus, Venus specifies the pair through affection shaped by sensitivity, idealization, or disappointment. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe deception or painful longing; [ABC](#abc-entry) places a disappointed love partner beside harmony through the partner's sensitivity (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) adds being idealized and subtle love, while [Munkasey](#munkasey-entry) adds affection for friends and appreciation of music, art, or comfort. The overlap concerns how affection is experienced and imagined, without guaranteeing charm, reciprocal love, or disappointment.
 
 ## Links
 

@@ -1,0 +1,435 @@
+{
+  "verified_by": "/root/source_integrity_gate",
+  "classification": "locator_delta_only",
+  "scope": "All10 complete baseline/current Source Entries, exact changed reference and full original004 owning records reread. Every exact row and full paragraph personally viewed on actual source scans78/79; no inherited interpretation inferred.",
+  "scans": [
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p79.png"
+  ],
+  "decisions": [
+    {
+      "path": "wiki/activations/asc-asc-equals-node.md",
+      "before_sha256": "33b94111669f13d98a6f00cc13ff5a1a08d2eb35c6ac3b162a70887fea9eb0dc",
+      "after_sha256": "9d4ae6ff9827cb2f872ff201f4d0afdaf3f85fb1cbed06095d298bd44583c69d",
+      "before_section": "#### Witte Entry\n\nAcquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.",
+      "current_section": "#### Witte Entry\n\nAcquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Node row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Acquaintances. To establish connections. To keep in touch. Contact with the closer environment. Limits set by the environment. The mediator, broker or an agent. Being connected to one place. Connected locations. Links to the surroundings.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Node row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 30,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-node.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Original synthesis inferred repetitive, constant or unhealthy entanglement beyond the contact-and-limits entry.",
+              "Baseline lacks six comparative categories, source locator and Identity interpretation route."
+            ],
+            "changes": [
+              "Retained source-grounded partial six-category schema and connected contact/brokerage/place synthesis with Identity route; confirmed the exact Node row locator.",
+              "Updated review date; preserved exact source prose and repeated-pair identity."
+            ],
+            "verification": [
+              "Read complete current page, original baseline diff, manifest and assignment evidence record.",
+              "Viewed actual Witte PDF78 Node glyph row: all nine contact, mediator/broker/agent, place and environmental-limits sentences match; no neighboring Moon or Mercury wording included.",
+              "Checked exact orientation, six meaningful categories, source attribution, local links, Identity route and immediately adjacent synthesis anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: acquaintances, establish/maintain connections, close environment, its limits, mediator/broker/agent, connected place/locations.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 9,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-pluto.md",
+      "before_sha256": "aa55ac7fa89ed71b5731392fd2a17f1722e6d8615441fdb19c3821704736d572",
+      "after_sha256": "91783bbffdb50cf17a35673245ae4ce7dbcba34469494ff1e27c28b514881a7a",
+      "before_section": "#### Witte Entry\n\nOther people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.",
+      "current_section": "#### Witte Entry\n\nOther people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Pluto row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Pluto row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 31,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-pluto.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Original synthesis imposed rapid disruptive instability and inability to establish rootedness without source support.",
+              "Baseline lacks six comparative categories, source locator and Identity interpretation route."
+            ],
+            "changes": [
+              "Retained source-grounded partial six-category schema and connected change-in-relations/residence synthesis with Identity route; confirmed the exact Pluto row locator.",
+              "Updated review date; preserved exact source prose and repeated-pair identity."
+            ],
+            "verification": [
+              "Read complete current page, original baseline diff, manifest and assignment evidence record.",
+              "Viewed actual Witte PDF79 Pluto row beside its two glyph variants: all seven change sentences match; variant P is a glyph, not prose; neighboring Neptune/Cupido excluded.",
+              "Checked exact orientation, six meaningful categories, source attribution, local links, Identity route and immediately adjacent synthesis anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: other people changeable, changes in relations/place/connections/immediate environment, residence move and transient stay.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p79.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 7,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-poseidon.md",
+      "before_sha256": "cc4ea86bf39dde36821cba4afe33a5c0cd58898d982860442c7e4d6c81531aac",
+      "after_sha256": "a36837bdc596e5baa80f83bb2c3046defd87cc86ed019e8ff2f8eeb68f8b9c9a",
+      "before_section": "#### Witte Entry\n\nAcquaintances which are high-minded, such as deep thinker or genius. Others are high sensible. Acquaintances to spiritual people. The intellectual-spiritual environmental impressions. Others with mental, cognitive or educational skills. Water masses or oceans in the close surroundings.",
+      "current_section": "#### Witte Entry\n\nAcquaintances which are high-minded, such as deep thinker or genius. Others are high sensible. Acquaintances to spiritual people. The intellectual-spiritual environmental impressions. Others with mental, cognitive or educational skills. Water masses or oceans in the close surroundings.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Poseidon row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Acquaintances which are high-minded, such as deep thinker or genius. Others are high sensible. Acquaintances to spiritual people. The intellectual-spiritual environmental impressions. Others with mental, cognitive or educational skills. Water masses or oceans in the close surroundings.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Poseidon row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 32,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-poseidon.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline inferred airy detachment, idealization and impracticality beyond the source; omitted the distinct nearby-water manifestation.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected account of intellectual/spiritual acquaintances and literal nearby water, with meaningful six categories and source links.",
+              "Confirmed scan-based PDF locator and updated review date; preserved source prose."
+            ],
+            "verification": [
+              "Read entire current page, exact baseline diff, manifest and evidence record.",
+              "Inspected actual PDF79 Poseidon row: six sentences including deep thinker/genius, literal high sensible, educational skills and nearby water masses/oceans; no neighboring Vulcanus prose.",
+              "Checked orientation, six categories, local source links, Identity jump, adjacent anchor and repeated-pair identity."
+            ],
+            "unresolved": [
+              "The source phrase Others are high sensible remains awkward and undefined; not silently normalized."
+            ],
+            "evidence": [
+              "#witte-entry: intellectual-spiritual acquaintances/impressions, cognitive or educational skills, water masses/oceans nearby.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p79.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 6,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-saturn.md",
+      "before_sha256": "9c798631c76eff78e41dc217024304e136a7e553c293f362444751d4ccd2adf3",
+      "after_sha256": "2afe1d78fd7db4274c753f8c11caf673e5584758886916370d2c847ea8f2cc20",
+      "before_section": "#### Witte Entry\n\nEstrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.",
+      "current_section": "#### Witte Entry\n\nEstrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Saturn row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Estrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons bidding farewell. To be alone. Serious acquaintance. Separations from the place or acquaintances.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Saturn row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 33,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-saturn.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline inferred emotional coldness and loss of support/spontaneity beyond the stated separations.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected distance/separation interpretation retaining serious acquaintance as a distinct possibility; six categories and source-linked scope assessment.",
+              "Confirmed scan-based PDF locator and updated review date; preserved source prose."
+            ],
+            "verification": [
+              "Read entire current page, exact baseline diff, manifest and evidence record.",
+              "Inspected actual PDF78 Saturn glyph row: eight estrangement/refusal/farewell/alone/serious-acquaintance/place-separation clauses match, between Jupiter and Uranus.",
+              "Checked orientation, six categories, local source links, Identity jump, adjacent anchor and repeated-pair identity."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: estrangement, refusal, cold shoulder, separations, farewell, being alone and serious acquaintance.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 8,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-sun.md",
+      "before_sha256": "513bed92422344cdd989b6855cc7443e724f0edd3a1ab3c32493108071cfd530",
+      "after_sha256": "1eb0424cdeb3f47f46b8b01c4509e63ea48d772d946750fceaf5d90c1c71fe2f",
+      "before_section": "#### Witte Entry\n\nPersonal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.",
+      "current_section": "#### Witte Entry\n\nPersonal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Sun row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Personal relationships. Physical relations to other people. To meet or make acquaintances. Personal salutation or greetings. To make acquaintances. To meet acquaintances. Body awareness for the immediate surroundings. The quality of the day (or year) at this location.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Sun row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 34,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-sun.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline added overexposure and reactive selfhood without source support.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected personal-encounter/body-awareness interpretation, six categories, scope assessment and Identity route; kept day/year-at-place phrase without adding a timing method.",
+              "Confirmed scan-based locator and updated review date, preserving source prose."
+            ],
+            "verification": [
+              "Read complete current page, exact baseline diff, manifest and evidence record.",
+              "Actual PDF78 Sun glyph row contains all eight personal/physical contact, meeting/greeting, body-awareness and day/year-location sentences.",
+              "Checked canonical repeated-pair orientation, six categories, local source links, Identity jump and immediately adjacent anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: personal/physical relationships, acquaintances, greetings, body awareness, quality of day/year at this location.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 8,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-uranus.md",
+      "before_sha256": "10358a3f7b1440b6c0a89f6248efa83b4f22ed3968347f6d5a95695e2d966591",
+      "after_sha256": "2b431bdf130e3ee19f9348704b3aa59dfd457aa4ec7437e368e8770584820a28",
+      "before_section": "#### Witte Entry\n\nExcitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.",
+      "current_section": "#### Witte Entry\n\nExcitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Uranus row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Excitement, irritation or accidents caused by other people. Sudden acquaintances. Sudden events of other peoples. Tension and excitement by others. Reunions for a special reason. Sudden appearance. Location of an accident. Location for mathematics, technology or inventions. Engineers, restless or excited people in the immediate surroundings. Environmental technology.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Uranus row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 35,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-uranus.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline inferred habitual accident-prone instability and inability to settle; conflated technical and adverse examples.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected sudden-contact/technical-place interpretation with six categories and Identity route; separated accidents from technical settings.",
+              "Confirmed scan-based locator and updated review date, preserving source prose."
+            ],
+            "verification": [
+              "Read complete current page, exact baseline diff, manifest and evidence record.",
+              "Actual PDF78 row shows both Uranus glyph variants and all ten sudden-contact, accident, reunion, engineering/mathematics/technology clauses; no separate activator row between the glyphs.",
+              "Checked canonical repeated-pair orientation, six categories, local source links, Identity jump and immediately adjacent anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: sudden acquaintances/events, others-caused excitement/accidents, reunions, engineers, technical/invention locations and environmental technology.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 10,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-venus.md",
+      "before_sha256": "ecb8d8291d2a5d177762cb4aa2dae51670656aec52de66fcbb1a5395fbb8ee53",
+      "after_sha256": "338a284cd58c07561c5331aa819d8ac65c0f61c2bfe0141c60f1e132dc2e8e06",
+      "before_section": "#### Witte Entry\n\nLovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.",
+      "current_section": "#### Witte Entry\n\nLovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Venus row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Lovable acquaintances. To be treated well by others. Others who long for the native. Personal love connections and love unions. To show evidence of love. Nice appearance. Peace in the immediate vicinity. Harmonious relations to the place. Harmonious surroundings. Peaceful place.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Venus row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 36,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-venus.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline invented dependence on pleasantness and concealed conflict.",
+              "Baseline lacks six categories, source locator and Identity interpretation route."
+            ],
+            "changes": [
+              "Accepted partial connected affection/good-treatment/peaceful-place synthesis and six categories, with source link and Identity route.",
+              "Confirmed exact scan-based locator and updated date, leaving sourced prose intact."
+            ],
+            "verification": [
+              "Read entire current page, exact baseline diff, manifest and evidence record.",
+              "Actual Witte PDF78 Venus row confirms all ten love, longing, appearance, peaceful/harmonious-place clauses.",
+              "Checked exact formula, six categories, local links, Identity route and immediate anchor adjacency."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: lovable acquaintances, good treatment, others longing, love connections/unions, evidence of love, nice appearance and local peace/harmony.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 10,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-vernal-point.md",
+      "before_sha256": "1af7f90d40100907df255d2f34fb19bdc214eaa68bd422236da04e0de1281757",
+      "after_sha256": "4104f2779a52bd3831e409f419abeb80d77272757fe18abb1bee5cebd247d940",
+      "before_section": "#### Witte Entry\n\nMeetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.",
+      "current_section": "#### Witte Entry\n\nMeetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Vernal Point row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Meetings. Places. Locations. Acquaintances. The relationship of the location to the wider environment. The surroundings in relation to the world public. The terrestrial influences on a location.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 78, “Asc + Asc,” Vernal Point row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 37,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-vernal-point.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline invented loss of scale balance and excessive exposure.",
+              "Baseline lacks six categories, source locator and Identity interpretation route."
+            ],
+            "changes": [
+              "Accepted partial connected local-to-wider-public interpretation, meaningful six categories and Identity route; retained terrestrial influences without adding a mechanism.",
+              "Confirmed exact scan-based locator and updated date, leaving sourced prose intact."
+            ],
+            "verification": [
+              "Read entire current page, exact baseline diff, manifest and evidence record.",
+              "Actual Witte PDF78 Vernal Point glyph row confirms seven meeting/place/acquaintance/wider-environment/world-public/terrestrial-influence clauses.",
+              "Checked exact formula, six categories, local links, Identity route and immediate anchor adjacency."
+            ],
+            "unresolved": [
+              "Terrestrial influences on a location is not further defined in this entry."
+            ],
+            "evidence": [
+              "#witte-entry: meetings, places/locations, acquaintances, wider environment, world public and terrestrial influences.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p78.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 7,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-vulcanus.md",
+      "before_sha256": "81618833b750c03b6646882040a98f044715df8cc7eb80b9a461f2b47bfcfbaa",
+      "after_sha256": "9602af30a6276055396db95bde0ca73178b6d33cc69218a5a3deeea1d7ed81c8",
+      "before_section": "#### Witte Entry\n\nOthers are superior. To experience force from others. Powerful, strong or forceful personalities in the close environment. Others act violently. Surroundings occupied by great energies or powerful influences, whether natural or biological.",
+      "current_section": "#### Witte Entry\n\nOthers are superior. To experience force from others. Powerful, strong or forceful personalities in the close environment. Others act violently. Surroundings occupied by great energies or powerful influences, whether natural or biological.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Vulcanus row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Others are superior. To experience force from others. Powerful, strong or forceful personalities in the close environment. Others act violently. Surroundings occupied by great energies or powerful influences, whether natural or biological.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Vulcanus row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 38,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-vulcanus.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline narrowed powerful surroundings into uniformly coercive pressure, losing the source's natural/biological scope.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected forceful-people/powerful-environment interpretation with six categories, preserving others as the agents and natural/biological influences.",
+              "Confirmed exact PDF locator and updated date; source prose retained."
+            ],
+            "verification": [
+              "Read full current page, exact original baseline diff, manifest and evidence record.",
+              "Actual Witte PDF79 triangle-glyph Vulcanus row confirms five superiority/force/strong-personality/others-violence/natural-or-biological-energy sentences; separate from Uranus variants.",
+              "Checked exact repeated-pair identity, all six categories, local links, Identity route and immediately adjacent anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: others superior/forceful/violent, powerful personalities and nearby natural or biological influences.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p79.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 5,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    },
+    {
+      "path": "wiki/activations/asc-asc-equals-zeus.md",
+      "before_sha256": "6cbe906f1bc07912f41c46a61704c3ff9650a48ab4519cc0f444631c056590de",
+      "after_sha256": "052c19633bfe462a2d286f70e00aa903d88dac617632d848786ce81aab7c912c",
+      "before_section": "#### Witte Entry\n\nOthers are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.",
+      "current_section": "#### Witte Entry\n\nOthers are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Zeus row; checked on the actual scan.",
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3 +3,3 @@\n\n Others are near. Things or matters which are in the immediate environment of the native. To work with others, being together with others. To be under the pressure by others. Working activities in a manufacturing plant. To have something to do with fire or machines. To be the object of disputes. To be threatened. Creating with others.\n+\n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Zeus row; checked on the actual scan.",
+      "owners": [
+        {
+          "ledger": "activations-004.jsonl",
+          "line": 39,
+          "record": {
+            "path": "wiki/activations/asc-asc-equals-zeus.md",
+            "reviewer": "activation_review_001_022",
+            "full_read": true,
+            "status": "reviewed",
+            "outcome": "changed",
+            "problems": [
+              "Baseline blended creation/manufacturing examples into a generalized heated and hard-edged environment.",
+              "Baseline missing six categories, source locator and Identity route."
+            ],
+            "changes": [
+              "Accepted partial connected joint work/creation interpretation retaining manufacturing/fire/machines and pressure/disputes/threat as distinct forms; six categories and local citation.",
+              "Confirmed exact PDF locator and updated date; source prose retained."
+            ],
+            "verification": [
+              "Read full current page, exact original baseline diff, manifest and evidence record.",
+              "Actual Witte PDF79 Zeus glyph row confirms all nine nearby-others, joint work/creation, pressure, factory, fire/machines, disputes and threat clauses.",
+              "Checked exact repeated-pair identity, all six categories, local links, Identity route and immediately adjacent anchor."
+            ],
+            "unresolved": [],
+            "evidence": [
+              "#witte-entry: others nearby, work/create together, manufacturing plant, fire/machines, pressure, disputes and threat.",
+              "docs/reviews/2026-10-15-full-wiki/verification/activations-004-witte-p79.png"
+            ]
+          }
+        }
+      ],
+      "clauses": 9,
+      "decision": "accepted",
+      "observation": "Only the source-specific row/page reference was added; all inherited words and complete paragraph match the actual glyph-owned row, including literal awkward wording. Uranus variants and Pluto alternative P remain glyphs rather than separate prose/rows."
+    }
+  ]
+}

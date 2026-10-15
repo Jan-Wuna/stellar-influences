@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Mercury Node Poseidon](../triads/mercury-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Mental connections through ideas, speech, correspondence, newspapers, books or c
 
 Findings through youth connections, youth spiritual connections, language about spiritual relationships, clear connections in youth, clear opinions in a relationship, cultural mediation through media, and true thought communication
 
+## Comparative Schema
+
+The categories below summarize the [Witte Entry](#witte-entry) (PDF p. 156) and [ABC Entry](#abc-entry) (printed p. 238; PDF p. 118).
+
+- Core meaning: Intellectual connection through communication.
+- Psychology: Clear opinions and discussion of ideas or relationships.
+- Body/health: No bodily or medical claim appears in these entries.
+- Social/relationship: Correspondence, conversation and connections among young people.
+- Events/manifestations: Books, newspapers and cultural exchange through media.
+- Conflicts/notes: Clear or truthful communication is a source theme, not a factual guarantee about any message.
+
+## Contradictions
+
+ABC's youth emphasis supplements Witte's communication examples. No mutually exclusive claim is apparent in the passages.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Mercury`: Mental connections through ideas, speech, correspondence, newspapers, books or connection with these things.
-- Practical focus: mental connections through ideas, speech, correspondence, newspapers, books or connection with these things.
+Mercury specifies `Node/Poseidon` as intellectual connection made through communication: ideas, conversation, correspondence and written media. The [Witte Entry](#witte-entry) emphasizes those channels, while the [ABC Entry](#abc-entry) adds youth connections, clear opinions within a relationship and cultural mediation through media. The shared focus is understanding passed between people, without establishing the truth of every message or limiting the formula to one medium.
 
 ## Links
 

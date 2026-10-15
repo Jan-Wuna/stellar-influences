@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Poseidon`
 - Astronomicon formula: `U/X = ¨`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -44,11 +46,23 @@ Honesty, straightforwardness and truthfulness. Acts which harmonize with morals 
 
 Dynamic mind work, mental work impulses, ideal actions, clear will impulses, new cultural activity, new spiritual impulses, exciting cultural work, spontaneous reason actions, and technical insights
 
+## Comparative Schema
+
+- Core meaning: Energetic action directed toward clarity, truthful conduct, and new mental or cultural work.
+- Psychology: Clear intention and spontaneous reasoning are ABC themes.
+- Body/health: No specific bodily or medical manifestation is stated.
+- Social/relationship: Witte describes action consistent with morals and truth, not proof of a person's moral superiority.
+- Events/manifestations: Dynamic mental work, cultural activity, new spiritual impulses, and technical insight.
+- Conflicts/notes: The moral interpretation belongs to this orientation; it cannot be borrowed as a guarantee for sibling formulas.
+
+## Contradictions
+
+The entries overlap in clear, energetic activity. Their agreement in theme does not prove that every spontaneous deed is truthful.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Poseidon` aligns sudden force with truth, honesty, and clear moral action.
-- Chart expression: straightforward and truthful deeds, energetic action that clarifies moral reality, and force used in a way that reveals rather than obscures truth.
+In `Mars/Uranus = Poseidon`, Poseidon specifies spontaneous energy through clarity and mentally or culturally directed action. Witte describes straightforward deeds consistent with truth, while ABC gives dynamic mental work, new cultural activity, and technical understanding as settings. The [Witte entry](#witte-entry) (PDF p. 194) and [ABC entry](#abc-entry) (printed p. 303) support this orientation without certifying the honesty of a particular person or action.
 
 ## Links
 

@@ -17,7 +17,7 @@ source_pages:
   - hajo-banzhaf-anna-haebler-keywords-for-astrology
   - l-edward-johndro-astrological-dictionary
   - manly-p-hall-astrological-keywords
-updated_at: 2026-06-20
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -25,6 +25,8 @@ updated_at: 2026-06-20
 - Factor: Uranus
 - Astronomicon token: `X`
 - Canonical page type: comparative factor page grounded in standalone source entries.
+
+[Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -38,7 +40,9 @@ Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Ner
 
 #### ABC Keyword Entry
 
-Event, dynamics, excitement, nervousness, tension, plotting, surprise, restlessness, impulses, new, reforms, and rhythm
+- Source: printed p. `16` / PDF p. `7`, `Uranus, UR`.
+- German quotation: “Ereignis, Dynamik, Erregung, Aufregung, Nervosität, Spannung, Plötzlichkeit, Überraschung, Unruhe, Impulse, Neues, Reformen, Rhythmus, Technik”.
+- Editorial translation: Event, dynamics, excitation, agitation, nervousness, tension, suddenness, surprise, restlessness, impulses, the new, reforms, rhythm, and technology. The scan reads `Plötzlichkeit` (suddenness), correcting the former `plotting`.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -48,7 +52,7 @@ Suddenness, revolution, change.
 
 #### Psychological Correspondence
 
-+ Peculiarity, independence, love of freedom, independent action and ideas, enthusiasm for every thing that is new or modem, agility or motility, good powers of perception, intuition allied with objective judgement, easy excitability. A sense of rhythm. - An obstinate nature, lack of adaptability, rebellion, revolutionary tendencies, an excitable nature, impulsive actions, strong emotional tensions, passion for innovation, changeable character.
++ Peculiarity, independence, love of freedom, independent action and ideas, enthusiasm for every thing that is new or modern, agility or motility, good powers of perception, intuition allied with objective judgement, easy excitability. A sense of rhythm. - An obstinate nature, lack of adaptability, rebellion, revolutionary tendencies, an excitable nature, impulsive actions, strong emotional tensions, passion for innovation, changeable character.
 
 #### Biological Correspondence
 
@@ -56,19 +60,35 @@ Rhythm, connections with the nervous system, the meninges or membranes of the br
 
 #### Sociological Correspondence
 
-Reformers, inventors, technicians. Rebels and revolutionists. Positions in Houses and Signs T 0105 I Sudden energy outbursts, quick comprehension, restlessness, ambition, fanatical fight for ideas. The urge to strive for reform. Stubbornness, blind zeal, violence. Dreamy enthusiasts and Utopians. b 0106 II Resourcefulness in earning money, seeking out-of-the-or ordinary sources of money or livelihood, individual method of financing. Speculation, risking all in one go, premature action leads to failure. X 0107 III The tendency to take everything in jumps or a desultory manner in doing things, quick comprehension, circumspection, organization, a convincing orator, scientific aspirations, original thoughts and methods. A restless nature, the tendency to scatter one's energies. S 0108 IV Intuition, a quick change of ideas, wanderlust, longing for faraway places, inclination to associate oneself with peculiar or strange people, urge to break away from one's native country or parental home, rebellious. ^ 0109 V Spirit of enterprise, bold, determined, love of freedom, desire to gamble or speculate. Love of adventure, wasteful, licentious. Tp 7 0110 VI The urge to reform, good intellect, skill, good comprehensive powers, one's own methods of working, selection of unusual vocations or professions. Foolish aspirations, teamwork made difficult by misplaced criticism or tactless frankness. ^0111 VII Inspiration, power of empathy, artistic talent, creativity, desire to carry out reforms in the interest of the public, peculiar views on marriage. A lack of adaptability, irritability, a troublemaker. Hi, 0112 VIII Responsive, energetic or forceful character fearlessly facing the struggle with destiny, sudden realization of ideas, ruthless, tendency to get oneself and others into danger. / 0113 IX The desire to carry through reforms in accordance with religion or outlook on life, fanaticism, far-reaching aims. A love of adventure, tenacious clinging to strange ideas, restless, the fight against traditional and conventional forms. ^ 0114 X Concentrated energy, extraordinary aims in life which are pursued with zeal and ambition, resolute, technical ability and interests. An almost fanatical concentration upon certain aims. 22 0115 XI Knowledge of human nature, aspiring to make changes, collective and cooperative work, organizing talent, manifold aspirations, progressive mind or spirit. Troublemaker, rebellious behavior, tendency to exaggerate, to magnify everything. HOI 16 XII An inclination to mysticism, mysterious aspirations, subconscious forces. Secretive behavior, the state of being misunderstood or of not being understood at all, reverie or reveling ecstasy.
+Reformers, inventors, technicians. Rebels and revolutionists.
 
-#### Position in the Signs
+<a id="position-in-the-signs"></a>
+#### Positions in Houses and Signs
 
-- None extracted.
+- Source passage: printed pp. `61–63` / PDF pp. `63–65`. The source pairs each sign with a house; these conditional rows are separate from the general correspondences.
+
+- Aries / house I (`0105`, printed p. `61` / PDF p. `63`): Sudden energy outbursts, quick comprehension, restlessness, ambition, fanatical fight for ideas. The urge to strive for reform. Stubbornness, blind zeal, violence. Dreamy enthusiasts and Utopians.
+- Taurus / house II (`0106`, printed p. `61` / PDF p. `63`): Resourcefulness in earning money, seeking out-of-the-or ordinary sources of money or livelihood, individual method of financing. Speculation, risking all in one go, premature action leads to failure.
+- Gemini / house III (`0107`, printed p. `61` / PDF p. `63`): The tendency to take everything in jumps or a desultory manner in doing things, quick comprehension, circumspection, organization, a convincing orator, scientific aspirations, original thoughts and methods. A restless nature, the tendency to scatter one's energies.
+- Cancer / house IV (`0108`, printed p. `62` / PDF p. `64`): Intuition, a quick change of ideas, wanderlust, longing for faraway places, inclination to associate oneself with peculiar or strange people, urge to break away from one's native country or parental home, rebellious.
+- Leo / house V (`0109`, printed p. `62` / PDF p. `64`): Spirit of enterprise, bold, determined, love of freedom, desire to gamble or speculate. Love of adventure, wasteful, licentious.
+- Virgo / house VI (`0110`, printed p. `62` / PDF p. `64`): The urge to reform, good intellect, skill, good comprehensive powers, one's own methods of working, selection of unusual vocations or professions. Foolish aspirations, teamwork made difficult by misplaced criticism or tactless frankness.
+- Libra / house VII (`0111`, printed p. `62` / PDF p. `64`): Inspiration, power of empathy, artistic talent, creativity, desire to carry out reforms in the interest of the public, peculiar views on marriage. A lack of adaptability, irritability, a troublemaker.
+- Scorpio / house VIII (`0112`, printed p. `62` / PDF p. `64`): Responsive, energetic or forceful character fearlessly facing the struggle with destiny, sudden realization of ideas, ruthless, tendency to get oneself and others into danger.
+- Sagittarius / house IX (`0113`, printed p. `62` / PDF p. `64`): The desire to carry through reforms in accordance with religion or outlook on life, fanaticism, far-reaching aims. A love of adventure, tenacious clinging to strange ideas, restless, the fight against traditional and conventional forms.
+- Capricorn / house X (`0114`, printed p. `62` / PDF p. `64`): Concentrated energy, extraordinary aims in life which are pursued with zeal and ambition, resolute, technical ability and interests. An almost fanatical concentration upon certain aims.
+- Aquarius / house XI (`0115`, printed p. `62` / PDF p. `64`): Knowledge of human nature, aspiring to make changes, collective and cooperative work, organizing talent, manifold aspirations, progressive mind or spirit. Troublemaker, rebellious behavior, tendency to exaggerate, to magnify everything.
+- Pisces / house XII (`0116`, printed p. `63` / PDF p. `65`): An inclination to mysticism, mysterious aspirations, subconscious forces. Secretive behavior, the state of being misunderstood or of not being understood at all, reverie or reveling ecstasy.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Hand Factor Entry
 
-, to create disruptions in the orderly world of Saturn so that creative energies can flow. Uranus Uranus is an antidote for many Saturn problems. Unfortunately, however, its action is drastic. Whereas Saturn creates a neat and orderly but sometimes oppressive universe in which one feels one knows what is happening, Uranus intrudes with an energy that is unexpected and often disruptive. Uranus energies strive to break one out of patterns that have become too rigid, even though one may wish to stay ^vithin them. Or, if one has already recognized that some Saturnine aspect of life has one in a stranglehold, Uranus can represent the desire to break free of it. It is an
+- Passage locator: PDF pp. `84–85`, an excerpt ending at the paragraph about enlightenment on PDF p. `85`; the source’s section continues beyond it. The preceding Saturn sentence belongs to Saturn and is not part of this entry. No printed folio is visible on the inspected boundary page.
 
-energy that strives to keep the universe flexible by preventing too much order. Uranus represents the random element of mutation that is necessary for creative innovation. Although Uranus is the first of the outer planets that are normally invisible to the naked eye, it can be seen under ideal conditions when in opposition to the Sun. Uranus's position on the periphery of awareness symbolizes the way its energies tend to peep in and out of the world of normal consciousness, and how they often seem to be alien to the concerns of normal consciousness. Its energies operate suddenly and with extreme eccentricity. Whatever it may affect or symbolize takes the form of something unusual, far different from the everyday world. Uranus can therefore be more truly consciousness-expanding than Jupiter. Whereas Jupiter represents expansion into worlds that are at least similar to those with which one is already familiar, Uranus can bring about encounters with totally alien worlds. Along with
+Uranus is an antidote for many Saturn problems. Unfortunately, however, its action is drastic. Whereas Saturn creates a neat and orderly but sometimes oppressive universe in which one feels one knows what is happening, Uranus intrudes with an energy that is unexpected and often disruptive. Uranus energies strive to break one out of patterns that have become too rigid, even though one may wish to stay ^vithin them. Or, if one has already recognized that some Saturnine aspect of life has one in a stranglehold, Uranus can represent the desire to break free of it. It is an
+
+energy that strives to keep the universe flexible by preventing too much order. Uranus represents the random element of mutation that is necessary for creative innovation. Although Uranus is the first of the outer planets that are normally invisible to the naked eye, it can be seen under ideal conditions when in opposition to the Sun. Uranus's position on the periphery of awareness symbolizes the way its energies tend to peep in and out of the world of normal consciousness, and how they often seem to be alien to the concerns of normal consciousness. Its energies operate suddenly and with extreme eccentricity. Whatever it may affect or symbolize takes the form of something unusual, far different from the everyday world. Uranus can therefore be more truly consciousness-expanding than Jupiter. Whereas Jupiter represents expansion into worlds that are at least similar to those with which one is already familiar, Uranus can bring about encounters with totally alien worlds. Along with Neptune, it is associated with alternative states of consciousness. It is said to rule enlightenment. It is the lightning flash that illuminates a dark landscape, the flash itself being totally discontinuous with the darkness that preceded it.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -202,24 +222,25 @@ energy that strives to keep the universe flexible by preventing too much order. 
 
 ## Comparative Schema
 
-- core meaning: source-native factor entries are preserved side by side above.
-- psychology: source-specific psychological and doctrinal emphases remain attached to their own source blocks instead of being flattened.
-- body/health: bodily wording remains inside each contributing source block when present.
-- social/relationship: interpersonal implications remain attached to each source's own phrasing.
-- events/manifestations: source-specific extensions remain attached to the source entry that states them.
-- conflicts/notes: this page preserves distinct source voices and frameworks side by side instead of collapsing them into one wording.
+- core meaning: sudden change, surprise, tension, and the disruption of established patterns, with invention and reform as constructive expressions ([Witte](#witte-factor-entry), [Ebertin](#principle), [Hand](#hand-factor-entry)).
+- psychology: independence, rapid perception, intuition, experimentation, and original solutions; difficulties include obstinacy, impulsive action, excitability, and change pursued at any cost ([Ebertin](#psychological-correspondence), [Banzhaf/Haebler](#banzhafhaebler-factor-keywords)).
+- body/health: Ebertin historically associates rhythm and the nervous system, brain membranes, pituitary gland, and spinal marrow with Uranus; Munkasey adds cramps, shock, spasms, sudden onset, and remission as body/mind keywords ([Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind)).
+- social/relationship: freedom, friendship, uniqueness, and unconventional association; discontent, tactlessness, or rejection of obligation may make cooperation difficult ([Munkasey](#in-your-relationships), [Ebertin](#sociological-correspondence), [Banzhaf/Haebler](#banzhafhaebler-factor-keywords)).
+- events/manifestations: invention, technical and mathematical knowledge, computers, machinery, political reform, revolution, and unexpected events; rhythm remains an explicit meaning alongside disruption ([Witte](#witte-factor-entry), [Ebertin](#psychological-correspondence), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: creative liberation and destructive upheaval are conditional possibilities, not a guarantee that every change is beneficial. The ABC scan establishes suddenness rather than plotting; Ebertin's restored placement rows remain conditional, and Hand is a bounded excerpt.
 
 ## Contradictions and Framework Notes
 
-- None recorded yet.
+- The entries connect freedom with both reform and rebellion. Their difference in emphasis does not establish a contradiction: Banzhaf/Haebler explicitly describes the cost of freedom pursued without regard for everyday commitments.
+- Ebertin and Munkasey's bodily correspondences, and Johndro and Hall's gendered or physical-type descriptions, remain attributed historical doctrine.
+- Hand's source-verified excerpt begins at his Uranus heading and ends at the enlightenment paragraph on PDF p. 85. The preceding sentence is Saturn's conclusion; the excerpt does not reproduce the complete Uranus section.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus` is the factor of event, dynamics, excitement, tension, surprise, restlessness, impulse, and sudden change that breaks open rigid structures.
-- Chart expression: invention, reform, technique, rhythm, intuition, independence, unusual ideas, nervous electricity, rebellion, and shocks that force life into a less conditioned pattern.
-- Its liabilities are instability, extremity, nervousness, alienation, tactless disruption, and change pursued so compulsively that continuity, trust, or embodiment is damaged.
+Uranus describes a sudden interruption of established patterns. Surprise, excitement, tension, and rapid perception can open room for invention, reform, or an unfamiliar way of seeing. Independence becomes productive through original ideas, experiments, and technical or scientific work; rhythm is also an explicit part of the factor's range. ([Witte, PDF p. 28](#witte-factor-entry), [Ebertin, chapter p. 61](#psychological-correspondence), [Hand, PDF pp. 84-89](#hand-factor-entry), [Munkasey, p. 49](#in-politics-or-business))
+
+The value of the break depends on what follows it. The wish for freedom can release a rigid situation, but it can also become obstinate opposition, impulsive action, or a refusal of ordinary commitments. In relationships, freedom and uniqueness sit alongside friendship and living together, so the tension is between room for difference and the ability to cooperate. The entries support both creative innovation and disruptive unrest; they do not make upheaval inherently an improvement. ([Ebertin, chapter p. 61](#psychological-correspondence), [Banzhaf/Haebler, PDF p. 45](#banzhafhaebler-factor-keywords), [Munkasey, p. 49](#in-your-relationships))
 
 ## Related Axes
 
@@ -249,7 +270,7 @@ energy that strives to keep the universe flexible by preventing too much order. 
 
 ## Related Activations
 
-- None recorded yet.
+Use the [activation index](../index.md#activations) to find an exact formula containing Uranus, or follow a related axis above to its activation list. Choose the base pair and the factor after `=` exactly as written.
 
 ## Related Sources
 
@@ -264,4 +285,4 @@ energy that strives to keep the universe flexible by preventing too much order. 
 
 ## Open Questions
 
-- None recorded yet.
+- The ABC line, Ebertin's placement boundaries, and the Hand excerpt's opening and closing boundaries are source-verified. The complete Hand section continues beyond the excerpt reproduced here.

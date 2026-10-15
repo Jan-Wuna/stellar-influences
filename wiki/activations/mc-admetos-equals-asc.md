@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Asc MC Admetos](../triads/asc-mc-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Admetos,” PDF p. 75.
 
 Not influenceable by others. To disrespect the feelings of other people. Being ruthless against others.
 
@@ -42,13 +46,27 @@ Not influenceable by others. To disrespect the feelings of other people. Being r
 
 #### ABC Entry
 
-I at the blocking the environment, I at the stabilizing others, my profound partner, my perseverance for the partner, my constraint by others, my gridness for the environment, the soul depth of the partner, and the emotional resistance of the other
+Source: “Meridian + Admetos,” printed p. 94 (PDF p. 46).
+
+I block the surroundings, I stabilize others, my thorough partner, my perseverance for the partner, my restriction by others, my thoroughness toward the surroundings, the partner's inner or soul depth, and the other person's inner resistance.
+
+## Comparative Schema
+
+- core meaning: Personal firmness and resistance expressed through others, a partner, and the surroundings.
+- psychology: Independence from influence, perseverance, thoroughness, and inner depth.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Stabilizing others or being restricted by them; Witte also names disregard for their feelings.
+- events/manifestations: Blocking the surroundings and persistent or thorough engagement with a partner.
+- conflicts/notes: Steadfastness and stabilizing influence are distinct from ruthlessness; the latter is a Witte possibility rather than a necessary character judgment.
+
+## Contradictions
+
+Witte emphasizes hardness toward others, while ABC also describes stabilizing people and persevering for a partner. Both relational directions remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Asc` brings the axis into contact with others as emotional hardness and unyielding self-containment.
-- Chart expression: a person difficult to influence, cold or ruthless in response, and inclined to hold firm even when other people's feelings are being ignored.
+In `MC/Admetos = Asc`, Asc specifies personal firmness and resistance through a partner and the immediate surroundings. Witte describes being difficult to influence and potentially disregarding others' feelings. ABC also includes stabilizing others, persevering for a partner, and the partner's depth, alongside restrictions imposed by others. Their range includes supportive steadiness and difficult resistance, so firmness need not be read solely as emotional ruthlessness. ([Witte](#witte-entry), PDF p. 75; [ABC](#abc-entry), printed p. 94 / PDF p. 46)
 
 ## Links
 

@@ -1,0 +1,23 @@
+{
+  "batch": "D001",
+  "targets": 20,
+  "queued_targets": 18,
+  "discovered_adjacent": 2,
+  "source_repaired": 18,
+  "already_correct": 2,
+  "ledger_records": 55,
+  "review_counts_added": 0,
+  "page_source_owner_proof_bindings_current": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-witte-pdf188.png",
+      "sha256": "ca9b44e3e3dd68bab396639f4a5f45b59a4ea778c67c3ada485f6072b0b99df2"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-six-abc-pdf146.png",
+      "sha256": "5f225e1616cda75491b561b4905748b174b2984da1b7de29e1e3f373c94a6c89"
+    }
+  ],
+  "whitespace_exit_code": 0,
+  "failures": []
+}

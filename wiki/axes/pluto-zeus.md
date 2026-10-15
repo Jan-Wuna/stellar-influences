@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + ZEUS`
+- PDF page (one-based): `259` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ To start something new. Attending to duty. Increase of duties. Increase of effor
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `412–413`; PDF page (one-based): `205` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Effortful change, start of development, change of leadership, development of performance, change of performance, creative development, change of fire, increase of creativity, and change of goal
+Effortful change, start of development, change of leadership, development of performance, change of performance, creative development, change through fire, increase of creativity, and change of goal.
+
+## Comparative Schema
+
+- core meaning: beginning a development and increasing creative effort or accomplishment ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: attending to duty, sustained effort, and directed creative activity are source themes; neither entry supplies a complete personality profile.
+- body/health: no bodily function or medical condition is specified in either pair summary.
+- social/relationship: the ABC names a change of leadership; the summaries do not directly delineate intimate relationships.
+- events/manifestations: new undertakings, increased duties, altered performance or goals, and transformation in the immediate vicinity are explicit examples.
+- conflicts/notes: ABC's complete bold summary was checked against the scan and its fire phrase corrected to change through fire. This concrete motif does not predict a fire event; increased duties and creative growth do not guarantee effortless progress.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Effortful change, start of development, change of leadership, development of per
 - [Pluto/Zeus = Vernal Point](../activations/pluto-zeus-equals-vernal-point.md)
 - [Pluto/Zeus = Vulcanus](../activations/pluto-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+Creative development and increasing duties describe different demands of a new undertaking; neither entry establishes that growth will be effortless. Leadership, goals, and performance can change separately. ABC's complete bold summary and change-through-fire phrase are confirmed on PDF205, printed412–413; Witte's exact pair passage is confirmed on PDF259.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes to start something new; Attending to duty; Increase of duties; Increase of efforts; Transformation in the immediate vicinity; Duty bound; Increase in accomplishment.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Zeus` concerns bringing something new into development through effort and creative activity. The [pair summary](#pair-summary) links increased accomplishment and creative power with attending to duty and taking on more work. The [ABC entry](#abc-pair-summary) similarly joins the beginning of development to changing performance, growing creativity, and changes of goal or leadership.
+
+The connection between creation and effort makes increased duties part of the range, without establishing either easy progress or a generic psychological shadow. Witte also names transformation in the immediate vicinity, while ABC retains change through fire as a concrete motif without predicting a hazardous event. Bodily, relationship, and [third-factor outcomes](#related-activations) require their own evidence.
 
 ## Links
 

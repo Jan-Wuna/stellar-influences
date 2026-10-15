@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Poseidon = Vulcanus`
 - Astronomicon formula: `V/¨ = §`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -44,10 +46,23 @@ To win through better judgement or for good reasons.
 
 Influence of law and reason, successful mental influence, successful cultural power, joy over spiritual power, happiness through spiritual energy, clarity through strong right, powerful culture right, and strong right culture
 
+## Comparative Schema
+
+- Core meaning: Better judgment becomes effective enough to win ([Witte Entry](#witte-entry)).
+- Psychology: Better judgment and enjoyment of spiritual strength are supported themes.
+- Body/health: ABC's energy language is spiritual, not a physiological finding.
+- Social/relationship: Influence of law, reason, and culture supplies the social dimension.
+- Events/manifestations: Winning through judgment and successful cultural influence are explicit ([ABC Entry](#abc-entry)).
+- Conflicts/notes: Witte starts at PDF p. 218, printed page unconfirmed; ABC is printed p. 347 (PDF p. 172). Influence is not evidence that power itself establishes truth.
+
+## Contradictions
+
+Witte emphasizes the grounds of victory; ABC emphasizes influence. Neither establishes an unconditional triumph of justice.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Vulcanus`: truth not only being seen but also carrying decisive weight. It favors principled victory, strong conscience, and the force of right understanding prevailing.
+In `Jupiter/Poseidon = Vulcanus`, Vulcanus specifies the pair's judgment as an effective influence. The [Witte Entry](#witte-entry) describes winning through better judgment or good reasons, while the [ABC Entry](#abc-entry) adds mental influence, cultural power, and spiritual strength. The organizing theme is understanding that carries weight in action or culture, with the quality of the reasons remaining central to the stated victory.
 
 ## Links
 

@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/MC = Saturn`
 - Astronomicon formula: `R/MC = W`
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: one-based PDF p. 60, complete Saturn row under Meridian + Moon checked.
+
 #### Witte Entry
 
 Grief through females. Melancholy. The personal relations to the public are upsetting or disturbed.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 65; one-based PDF p. 31, complete nine-clause Saturn row checked.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ tasks of the female soul, strain of the female psyche, disturbed people's soul, 
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 143; one-based PDF p. 145, coded entry `0452`, complete entry checked.
+
 #### Ebertin Entry
 
 Emotional inhibitions or inhibition of soul expression, a person who is slightly bad-tempered, pessimism, an interruption of the soul contact with those dear to one, separation, mourning or bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 40, complete Saturn paragraph under the Moon/Midheaven chapter beginning on PDF p. 40 checked.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Difficult emotional growth. The desire to feel exalted emotions but fears and re
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MIDHEAVEN with Planets and Points`
-- Source page: `144`
+- Source page: printed `144`; one-based PDF p. 145, complete `Sat` row checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Retards or delays your ability to develop independently away from maternal influ
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Restricted emotional expression, strain and difficult or delayed inner development. [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- psychology: Melancholy, pessimism, fears, serious feeling and gradual work through restrictions are stated. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: Emotional pain and melancholy are source themes; no bodily diagnosis is established. [ABC](#abc-entry); [Witte](#witte-entry).
+- social/relationship: Separation, interrupted contact and prolonged maternal dependency occur beside practical maternal advice about organizing life. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Mourning or bereavement, delayed independence and uncertainty about career fulfillment are attributed possibilities, not predictions. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry).
+- conflicts/notes: Gradual emotional growth and prudent organization are represented, but do not establish earned status, a dependable vocation or inevitable isolation.
 
 ## Contradictions
 
-- None recorded yet.
+The entries mostly emphasize difficulty, inhibition and separation. Sandbach also describes gradual work through emotional restrictions, and Munkasey includes prudent organizing ideas. These qualifications remain distinct from a claim of assured professional achievement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/MC = Saturn`: dependable vocation, disciplined care, and status earned through patience, steadiness, and composure. Main caution: burdened visibility: emotional heaviness can make public role feel joyless, isolating, or harder to inhabit warmly.
+In `Moon/MC = Saturn`, personal feeling is described through seriousness, restriction and difficulty expressing or developing the inner life. The [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) entries include grief, emotional strain and disrupted contact. The [Sandbach entry](#sandbach-entry) adds gradual work through fear and restriction, including uncertainty about emotional fulfillment in a career. The [Munkasey entry](#munkasey-entry) connects delayed independence with maternal influence while also retaining prudent advice about organizing life. The account allows slow emotional development without promising status or predicting loss.
 
 ## Links
 

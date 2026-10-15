@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Poseidon`
 - Astronomicon triad-set: `R Y ¨`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md)
-- [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md)
-- [Neptune/Poseidon = Moon](../activations/neptune-poseidon-equals-moon.md)
+- [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Poseidon = Moon](../activations/neptune-poseidon-equals-moon.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Neptune = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Moon/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `207`
-- `Neptune/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `406`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md#witte-entry) (PDF entry-start p. 128); [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 138); [Neptune/Poseidon = Moon](../activations/neptune-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 254).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Neptune = Poseidon](../activations/moon-neptune-equals-poseidon.md#abc-entry) (printed p. 189); [Moon/Poseidon = Neptune](../activations/moon-poseidon-equals-neptune.md#abc-entry) (printed p. 207); [Neptune/Poseidon = Moon](../activations/neptune-poseidon-equals-moon.md#abc-entry) (printed p. 406).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Poseidon`: This activation spiritualizes `Moon/Neptune` further into fine receptivity, contemplative rest, and mentally elevated inner quiet. It favors subtle reflection rather than confusion, making the dreamlike or impressionable side of feeling more lucid, idealized, and inwardly meaningful.
-- `Moon/Poseidon = Neptune`: Highly attuned. Delicacy of feeling. Intuition, instinct, flair. A very fine and highly sensitive ability to find the way.
-- `Neptune/Poseidon = Moon`: This activation emotionalizes false or elevated belief, showing persons or publics living under delusion and feeling guided by errors they experience as meaningful truth.
+Moon, Neptune and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Poseidon](../factors/poseidon.md)

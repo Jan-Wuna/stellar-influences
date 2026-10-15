@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Saturn MC Admetos](../triads/saturn-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To be persistent. Enduring a dilemma. To persevere firmly in a tight spot. Long 
 
 #### ABC Entry
 
-My limitations in old age, my firmness through concentration, my firmness in old age, my profound patience, my circulatory disorders, my painful depressions, mental patience and perseverance, and mental depth through empathy
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+My limitations in old age, my firmness through concentration, my consolidation in old age, my thorough patience, my circulatory disturbances, my painful depressions, inner patience and endurance, inner depth through seriousness.
+
+## Comparative Schema
+
+- **Core meaning:** Enduring restriction through concentration and persistence.
+- **Psychology:** Patience, firmness, and a prolonged sense of being stuck are represented.
+- **Body/health:** Witte's feeling of paralysis and ABC's circulatory disorders and painful depressions are historical associations, not diagnoses.
+- **Social/relationship:** No specific relationship claim is established.
+- **Events/manifestations:** Persisting through a dilemma and limitations in old age are stated possibilities.
+- **Conflicts/notes:** ABC's Ernsthaftigkeit means seriousness; paralysis-feeling, circulatory and depression claims remain attributed historical associations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Saturn` doubles the axis into prolonged hardship, tight spots, and enduring paralysis.
-- Chart expression: long-lasting pressure, grim perseverance, and the capacity to remain fixed inside difficult circumstances even when movement or relief is minimal.
+Saturn specifies `MC/Admetos` through prolonged constraint and the patience to endure it. Concentration and firmness can sustain a person in a dilemma, while the same experience may feel immobilizing; the source language about paralysis, circulation, and depression remains historically attributed rather than a prediction of illness. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

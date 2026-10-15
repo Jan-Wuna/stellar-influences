@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Jupiter](../triads/vernal-point-sun-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Many people feeling bodily happiness. Time of harvesting the fruits of one’s own activities.
 
@@ -42,13 +46,27 @@ Many people feeling bodily happiness. Time of harvesting the fruits of one’s o
 
 #### ABC Entry
 
-Successful people of the public life, financial center in the public, glticklich people in the public, human pleasures in the public, public law center, and personal success in the public life
+- Source page: 22; PDF page: 10 (one-based spread).
+
+Successful public figures, a public financial center, happy people in public, human joys in public, a public legal center, and personal success in public life
+
+## Comparative Schema
+
+- core meaning: Public personal life associated with happiness, success, and received benefit.
+- psychology: Human joy and happiness are explicit.
+- body/health: Bodily happiness is a Witte source association.
+- social/relationship: Happy people and successful public persons.
+- events/manifestations: Harvesting the fruits of one's activity and financial or legal centers.
+- conflicts/notes: Harvest imagery supplies no timing calculation or guaranteed return.
+
+## Contradictions
+
+No direct contradiction is established. Bodily satisfaction and public financial or legal settings are distinct forms of benefit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Jupiter`: many people feeling bodily happiness and time of harvesting the fruits of one’s own activities.
-- Practical expression: successful people of the public life, financial center in the public, glticklich people in the public, human pleasures in the public, and public law center.
+In `Vernal Point/Sun = Jupiter`, public personal life is specified through happiness and success. The [Witte entry](#witte-entry) names bodily satisfaction and receiving the fruits of one's activity. The restored [ABC entry](#abc-entry) adds happy or successful people, personal public success, and financial or legal centers. The coherent theme is tangible satisfaction or recognition of benefit within public life.
 
 ## Links
 

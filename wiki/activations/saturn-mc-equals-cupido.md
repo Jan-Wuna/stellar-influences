@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn MC Cupido](../triads/saturn-mc-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To separate from the family. To be oppressed because of separation. Family in mo
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.
+
 #### ABC Entry
 
-Old Soul Community, Tasks of a Soul Community, Community of Gcstortcr Souls, My Tasks in the Community, My problems in the Community, My Separation from the Community, and Mature Souls in of a community
+Old-soul community, tasks of a soul community, community of disturbed souls, my tasks in the community, my problems in the community, my separation from the community, and mature souls in a community.
+
+## Comparative Schema
+
+- core meaning: family or community membership marked by tasks, separation, and grief.
+- psychology: oppression through separation and the experience of communal problems.
+- body/health: ABC's disturbed souls is its own language; no specific illness is established.
+- social/relationship: family mourning, separation from family or community, and mature souls in community.
+- events/manifestations: community tasks and problems, departure, and mourning.
+- conflicts/notes: ABC's soul-community vocabulary differs from Witte's concrete family circumstances.
+
+## Contradictions
+
+- The entries describe different scales of belonging, with no direct contradiction established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/MC = Cupido`: to separate from the family, to be oppressed because of separation, family in mourning.
-- Practical expression: old Soul Community, tasks of a Soul Community, my Tasks in the Community, and my problems in the Community.
+In `Saturn/MC = Cupido`, Cupido specifies the Saturn/MC axis through family and community burdens. [Witte](#witte-entry) describes separation from family, oppression because of separation, and a family in mourning. [ABC](#abc-entry) broadens this to tasks and problems within a community, separation from it, and the presence of mature souls. Shared membership can carry responsibility and grief as well as maturity.
 
 ## Links
 

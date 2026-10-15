@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon MC Cupido`
 - Astronomicon triad-set: `R MC ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md)
-- [Moon/Cupido = MC](../activations/moon-cupido-equals-mc.md)
-- [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md)
+- [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md): base axis [MC/Cupido](../axes/mc-cupido.md); activator [Moon](../factors/moon.md).
+- [Moon/Cupido = MC](../activations/moon-cupido-equals-mc.md): base axis [Moon/Cupido](../axes/moon-cupido.md); activator [MC](../factors/mc.md).
+- [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md): base axis [Moon/MC](../axes/moon-mc.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `MC/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `84`
-- `Moon/Cupido = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
-- `Moon/Cupido = MC`: Udo Rudolph - ABC for Planetary Pictures, page `192`
-- `Moon/MC = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `60`
-- `Moon/MC = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `65`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md#witte-entry) (PDF entry-start p. 70); [Moon/Cupido = MC](../activations/moon-cupido-equals-mc.md#witte-entry) (PDF entry-start p. 130); [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md#witte-entry) (PDF entry-start p. 60).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Cupido = Moon](../activations/mc-cupido-equals-moon.md#abc-entry) (printed p. 84); [Moon/Cupido = MC](../activations/moon-cupido-equals-mc.md#abc-entry) (printed p. 192); [Moon/MC = Cupido](../activations/moon-mc-equals-cupido.md#abc-entry) (printed p. 65).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Moon`: emotionalizes the axis through women, public community feeling, and feminine performance.
-- `Moon/Cupido = MC`: To be a fiance. Fiance of the native. Social inclination of native. One own s experiences in company with women. Favors large social clubs, balls, dancing.
-- `Moon/MC = Cupido`: This activation socializes `Moon/MC` through marital harmony, communal feeling, and shared cultural orientation. It suggests a life direction shaped by relationship, family-mindedness, or collective sensibility, so emotional identity becomes more attuned to partnership, group belonging, and the mind of the community.
+Moon, MC and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Cupido](../axes/mc-cupido.md)
+- [Moon/Cupido](../axes/moon-cupido.md)
+- [Moon/MC](../axes/moon-mc.md)
 - [Moon](../factors/moon.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)

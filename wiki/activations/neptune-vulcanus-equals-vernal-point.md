@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Vernal Point`
 - Astronomicon formula: `Y/§ = VP`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 To live through a great disappointment with the general world or the general world is deceived by the native, or the reverse.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `404`, PDF p. `201` (entry).
+
 #### ABC Entry
 
-Introducing water in public Life, subtle energy in public, power in public, power uncertainty in public Life, opinion of Cicwalt in public, and water power in public
+Influence of water in public life, subtle-material energy in public, weakness of power in public, great uncertainty in public life, rejection of violence in public, and water power in public
+
+## Comparative Schema
+
+- core meaning: public disappointment, uncertain power, or deception between a person and the wider world.
+- psychology: great public uncertainty is explicit.
+- body/health: public water and energy examples supply no health claim.
+- social/relationship: deceiving the general world or being deceived by it and rejecting violence are named.
+- events/manifestations: weak public power and water influence are stated.
+- conflicts/notes: Witte gives alternative directions of deception; the entry does not establish that the whole environment shares one disillusionment.
+
+## Contradictions
+
+Witte describes disappointment or deception in either direction between person and world. ABC adds public power weakness and rejection of violence, plus literal water examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Vernal Point`: To live through a great disappointment with the general world or the general world is deceived by the native, or the reverse.
-- The broader environment is marked by major disillusionment, whether through being deceived by the world or through becoming the agent of that disappointment.
-- Practical expression: introducing water in public Life, subtle energy in public, power in public, power uncertainty in public Life, and opinion of Cicwalt in public.
+In Neptune/Vulcanus = Vernal Point, influence and uncertainty take a public setting. [Witte](#witte-entry) names disappointment with the world and deception in either direction; [ABC](#abc-entry) adds weak public power, great uncertainty, and rejection of violence (printed p. 404, PDF p. 201). Its water-power examples remain literal, while the alternatives do not make the whole environment uniformly disillusioned.
 
 ## Links
 

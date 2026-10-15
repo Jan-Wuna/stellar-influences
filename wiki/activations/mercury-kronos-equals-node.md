@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Node`
 - Astronomicon formula: `T/¤ = g`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 Connections with mentally elevated or leading people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `260`; PDF page: `129`.
+
 #### ABC Entry
 
-Special connections in the youth, opinion transmission by the state, self conscious meetings of the youth, connections to a young boss, important news transmission, important relations with the youth, and important transport connections
+German passage (transcribed from PDF page `129`, printed page `260`):
+
+> Besondere Verbindungen in der Jugend, Meinungs-Vermittlung durch den Staat, selbstbewußte Begegnungen der Jugend, Verbindungen zu einem jungen Chef, wichtige Nachrichten-Vermittlung, wichtige Beziehungen zur Jugend, wichtige Verkehrs-Verbindungen
+
+Editorial translation from the German passage: Particular connections in youth; transmission of opinion by the state; self-confident encounters among young people; connections to a young boss; important transmission of news; important relations with young people; important transport connections.
+
+## Comparative Schema
+
+- core meaning: Connections with leading or intellectually distinguished people ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: ABC adds self-confident encounters among young people.
+- body/health: No bodily condition is stated.
+- social/relationship: A young boss, youth relations, and state-mediated opinion are named.
+- events/manifestations: Important news transmission and transport connections are examples.
+- conflicts/notes: Connection to authority does not establish agreement or permanent status.
+
+## Contradictions
+
+Witte emphasizes the people involved; ABC adds routes and communication functions. These differences do not establish a disagreement about the value of a contact.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Node` socializes the axis through contact with elevated or leading minds.
-- Chart expression: connection with distinguished, mentally refined, or authoritative people, and to networks built around influence, intellect, and leadership.
+In `Mercury/Kronos = Node`, Node specifies important thought through connections with leading or intellectually distinguished people. ABC makes those ties concrete through a young boss, significant youth relations, and the transmission of news or opinion; transport connections add a practical route alongside intellectual contact. The entry describes consequential links without saying that the people involved always agree ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Asc Apollon Poseidon`
 - Astronomicon triad-set: `Asc ¥ ¨`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Apollon/Poseidon = Asc](../activations/apollon-poseidon-equals-asc.md)
-- [Asc/Apollon = Poseidon](../activations/asc-apollon-equals-poseidon.md)
-- [Asc/Poseidon = Apollon](../activations/asc-poseidon-equals-apollon.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Poseidon = Asc](../activations/apollon-poseidon-equals-asc.md) | [Apollon/Poseidon](../axes/apollon-poseidon.md) | [Asc](../factors/asc.md) |
+| [Asc/Apollon = Poseidon](../activations/asc-apollon-equals-poseidon.md) | [Asc/Apollon](../axes/asc-apollon.md) | [Poseidon](../factors/poseidon.md) |
+| [Asc/Poseidon = Apollon](../activations/asc-poseidon-equals-apollon.md) | [Asc/Poseidon](../axes/asc-poseidon.md) | [Apollon](../factors/apollon.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Apollon/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
-- `Apollon/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `472`
-- `Asc/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `131`
-- `Asc/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `137`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Apollon/Poseidon = Asc` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-poseidon-equals-asc.md#witte-entry) | one-based PDF p. 308 (entry start); printed page not established |
+| `Apollon/Poseidon = Asc` | [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-poseidon-equals-asc.md#abc-entry) | printed p. 472; PDF p. 235 |
+| `Asc/Apollon = Poseidon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-apollon-equals-poseidon.md#witte-entry) | one-based PDF p. 95 (entry start); printed page not established |
+| `Asc/Apollon = Poseidon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-apollon-equals-poseidon.md#abc-entry) | printed p. 131; PDF p. 64 |
+| `Asc/Poseidon = Apollon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-poseidon-equals-apollon.md#witte-entry) | one-based PDF p. 98 (entry start); printed page not established |
+| `Asc/Poseidon = Apollon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-poseidon-equals-apollon.md#abc-entry) | printed p. 137; PDF p. 67 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Asc`: a visibly broad mental horizon, with the environment reflecting outlook, attitude, and shared intellectual disposition.
-- `Asc/Apollon = Poseidon`: having listeners, engaging a thoughtful audience, and meeting scientific or marine-oriented minds in the immediate field.
-- `Asc/Poseidon = Apollon`: widening the mental horizon together with many others and growing through shared learning, culture, or philosophy.
+Use this hub to choose the exact orientation for the unordered set `Asc Apollon Poseidon`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

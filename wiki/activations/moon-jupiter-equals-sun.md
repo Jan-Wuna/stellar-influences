@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Jupiter = Sun`
 - Astronomicon formula: `R/V = S`
@@ -39,17 +41,25 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source reference: printed page `129`, PDF page `125`, `MOON + JUPITER`, Sun row.
+
 The daily repetition of happy hours. A man’s happy woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful wife of a man, financial center of a people, joy between woman and man, happy people of a people, gllicks feeling of the man, personal motherGIUck, rights of the woman and man, and right wing feeling of the man
+Source reference: printed page `182`, PDF page `90`, `Mond + Jupiter`, Sun row.
+
+Source wording: "Erfolgreiche Frau eines Mannes, Finanz-Zentrum eines Volkes, Freude zwischen Frau und Mann, glückliche Menschen eines Volkes, Glücks-Gefühl des Mannes, persönliches Mutter-Glück, Rechte der Frau und des Mannes, Rechts-Gefühl des Mannes".
+
+Editorial translation, checked against the scan: A man's successful wife; a people's financial center; joy between woman and man; happy people within a nation; a man's feeling of happiness; personal maternal happiness; the rights of woman and man; a man's sense of justice.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source reference: printed page `123`, PDF page `125`, entry `0363`.
 
 Optimism, happy and contented, peace-loving nature, social outlook, learning and erudition. The wife who is happy with her husband.
 
@@ -57,12 +67,14 @@ Optimism, happy and contented, peace-loving nature, social outlook, learning and
 
 #### Sandbach Entry
 
+Source reference: PDF page `30`, Sun under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`.
+
 One feels vitalized when there is a free flow of feeling between oneself and others. Positive feelings cause one to feel strong and centered. One knows the importance of accepting one’s feelings and enjoying them. Emotionally supporting others brings meaning and purpose to one’s life.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/JUPITER with Planets and Points`
-- Source page: `116`
+- Source page: printed `116`, PDF page `117`, `Sun` row.
 
 #### Munkasey Entry
 
@@ -70,22 +82,23 @@ Increased potential to strongly influence others thru your opinions and writings
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Happiness and freely shared feeling become personally enlivening, alongside optimism, contentment, and a social outlook.
+- psychology: Feeling strong and centered through positive emotion, accepting one's feelings, learning, conviction, and a need for others' approval.
+- body/health: Sandbach describes feeling vitalized; these entries do not establish a distinct medical claim for this orientation.
+- social/relationship: Joy between partners, a happy wife, emotional support for others, and influence through opinions or writing. The gendered examples remain the sources' specific wording.
+- events/manifestations: Repeated happy hours, personal or maternal happiness, respect in one's work, and ABC's financial-center, rights, and justice applications.
+- conflicts/notes: Munkasey's need for approval qualifies an otherwise favorable range. ABC's sense of justice was mistranslated as "right wing feeling"; the source does not supply that political claim.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in happiness, contentment, or enlivening feeling. Munkasey adds influence and a need for approval, while ABC includes financial and legal applications. Those distinct emphases should remain visible; the former "right wing" wording was a translation error rather than a disagreement about the formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Jupiter = Sun`: visible benevolence, sunny feeling, and selfhood strengthened through emotional abundance and faith. Main caution: self-satisfied warmth: identity can become too dependent on being expansive, helpful, or emotionally applauded.
+In `Moon/Jupiter = Sun`, the [pair's happiness and abundance of feeling](../axes/moon-jupiter.md#derived-synthesis) become personally enlivening. Sandbach makes the connection explicit: freely exchanged and accepted feelings bring strength, centeredness, meaning, and purpose. Witte's repeated happy hours and Ebertin's optimism, contentment, and peace-loving social outlook express a related favorable range. Learning and emotional support for others remain part of that range. ([Sandbach](#sandbach-entry), [Witte](#witte-entry), [Ebertin](#ebertin-entry))
+
+Munkasey adds the ability to influence through opinions and writing, conviction in one's work, and an increased need for approval. ABC preserves further personal, financial, and legal examples, including maternal happiness, a people's financial center, and a sense of justice. These extend the meaning beyond a cheerful temperament without establishing that every expression must occur together. ([Munkasey](#munkasey-entry), [ABC](#abc-entry))
 
 ## Links
 

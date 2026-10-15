@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Pluto](../triads/vernal-point-saturn-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Matters come to a standstill. Slow, hindered developments. Beginning of a separation.
 
@@ -42,13 +46,27 @@ Matters come to a standstill. Slow, hindered developments. Beginning of a separa
 
 #### ABC Entry
 
+- Source page: 37; PDF page: 17 (one-based spread).
+
 Burdensome developments in public, developmental problems in public life, harsh changes in public, concentration on public development, and loss filled transformations in public life
+
+## Comparative Schema
+
+- core meaning: Public development slowed, burdened, or directed toward separation.
+- psychology: Concentration on development is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: The beginning of a separation.
+- events/manifestations: Standstill, hindered development, harsh changes, and losses.
+- conflicts/notes: Concentration remains an active response within a difficult development.
+
+## Contradictions
+
+No direct contradiction is established. Slowed development and harsh change can describe different stages or aspects, without a supplied sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Pluto`: matters come to a standstill, slow, hindered developments, and beginning of a separation.
-- Practical expression: burdensome developments in public, developmental problems in public life, harsh changes in public, concentration on public development, and loss filled transformations in public life.
+In `Vernal Point/Saturn = Pluto`, public difficulty unfolds as a process of slow or obstructed change. The [Witte entry](#witte-entry) names standstill, hindered development, and the start of separation. The [ABC entry](#abc-entry) adds burdensome developments, harsh changes, losses, and concentration on public development. The coherent theme is transformation under constraint rather than unhindered growth.
 
 ## Links
 

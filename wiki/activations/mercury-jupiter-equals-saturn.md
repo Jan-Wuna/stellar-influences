@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Saturn`
 - Astronomicon formula: `T/V = W`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
-Bon Voyage. To take leave gladly. Reports on youth and old age. Conversations or messages about loss of money or financial restrictions. S|
+Bon Voyage. To take leave gladly. Reports on youth and old age. Conversations or messages about loss of money or financial restrictions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Printed source page: `245`; PDF page: `121`.
 
 #### ABC Entry
 
 Reports about youth and age, success with youth through patience, successful concentration in old age, serious legal language, joy in old languages, inhibited movementjoy, joy about separation language, and talk about money losses
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +71,21 @@ Discipline and persistence brought to efforts to correlate large amounts of info
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Patient or constrained coordination of many ideas ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Depth and persistence coexist with burden, uncertainty, and difficulty deciding.
+- body/health: The entries do not specify a bodily illness.
+- social/relationship: Taking leave gladly and discussions of youth or age are explicit.
+- events/manifestations: Financial restriction, disappointing news, slow learning, and business-cycle study are examples.
+- conflicts/notes: The stray Witte “S|” was a neighboring Uranus glyph, not part of Saturn's prose.
 
 ## Contradictions
 
-- None recorded yet.
+Slow or difficult thinking and deep philosophical thought are both retained. Witte's glad departure also prevents treating every separation as sad. Munkasey names disciplined information work as well as disappointing communication.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Saturn`: sound teaching, lawful reasoning, and the ability to turn vision into method or policy. Main caution: heavy certainty: breadth of thought can harden into moral rigidity, pessimism, or overcontrolled interpretation.
+In `Mercury/Jupiter = Saturn`, Saturn specifies expansive thought through the work of ordering it under limits. Large amounts of information can require patience and persistence, or burden decision-making when ideas will not fit together. Slow learning and deep philosophy remain constructive possibilities. Financial restrictions, disappointing news, and reports about youth or age supply concrete settings, while Witte also allows taking leave gladly ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

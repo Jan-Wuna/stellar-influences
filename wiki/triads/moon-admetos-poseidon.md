@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Admetos Poseidon`
 - Astronomicon triad-set: `R ¦ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Moon](../activations/admetos-poseidon-equals-moon.md)
-- [Moon/Admetos = Poseidon](../activations/moon-admetos-equals-poseidon.md)
-- [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md)
+- [Admetos/Poseidon = Moon](../activations/admetos-poseidon-equals-moon.md): base axis [Admetos/Poseidon](../axes/admetos-poseidon.md); activator [Moon](../factors/moon.md).
+- [Moon/Admetos = Poseidon](../activations/moon-admetos-equals-poseidon.md): base axis [Moon/Admetos](../axes/moon-admetos.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `476`
-- `Moon/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `203`
-- `Moon/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `207`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Poseidon = Moon](../activations/admetos-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 312); [Moon/Admetos = Poseidon](../activations/moon-admetos-equals-poseidon.md#witte-entry) (PDF entry-start p. 135); [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md#witte-entry) (PDF entry-start p. 138).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Poseidon = Moon](../activations/admetos-poseidon-equals-moon.md#abc-entry) (printed p. 476); [Moon/Admetos = Poseidon](../activations/moon-admetos-equals-poseidon.md#abc-entry) (printed p. 203); [Moon/Poseidon = Admetos](../activations/moon-poseidon-equals-admetos.md#abc-entry) (printed p. 207).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Moon`: unconscious formative influence, national or collective conditioning, and public or feminine receptivity shaped by education or subtle guidance.
-- `Moon/Admetos = Poseidon`: Restriction of mental and spiritual freedom. Mentally enslaved. Spiritual endeavors under exclusion of the public or with only a few people.
-- `Moon/Poseidon = Admetos`: To go to the bottom with the help of tact and fine delicate feeling. Journalist.
+Moon, Admetos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)

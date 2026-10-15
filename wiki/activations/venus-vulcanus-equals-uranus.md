@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Uranus`
 - Astronomicon formula: `Q/§ = X`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To be strongly attracted to mental or spiritual things. Strong philosophical inclinations and convictions.
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Uranus row; actual glyph and neighboring rows checked.
+
+To wield a surprisingly great power of attraction. To suddenly fall passionately in love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential artificial event, harmonious encrusting pulses, powerful Licbes pulses, sudden love for power, strong peace pulses, strong love tension, balance by waiting in love, and preference for tremendous surprises
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Uranus row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: An influential artistic event, harmonious energy impulses, powerful love impulses, sudden love of power, strong peace impulses, strong tension in love, unrest through violence in love, and preference for tremendous surprises.
+
+## Comparative Schema
+
+- core meaning: Sudden, surprising intensity in attraction and love.
+- psychology: Powerful love impulses, tension in love and preference for tremendous surprises.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Suddenly falling passionately in love; ABC also names unrest through violence in love.
+- events/manifestations: An influential artistic event, harmonious energy impulses and strong peace impulses.
+- conflicts/notes: The former philosophical-attraction paragraph belongs to Poseidon. Unruhe durch Gewalt in der Liebe means unrest through violence in love, not balance by waiting.
+
+## Contradictions
+
+Sudden attraction and strong impulses can concern love, art or peace; ABC also preserves tension and unrest through violence. Surprise alone does not determine which expression occurs.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Uranus`: to be strongly attracted to mental or spiritual things.
-- Practical expression: influential artificial event, harmonious encrusting pulses, sudden love for power, and strong peace pulses.
+In `Venus/Vulcanus = Uranus`, attraction takes on sudden and surprising intensity. The [Witte entry](#witte-entry) names unexpectedly great attraction and suddenly falling passionately in love; the [ABC entry](#abc-entry) adds powerful love impulses, harmonious energy impulses and preference for tremendous surprises. Artistic events and peace impulses extend the range beyond a relationship. ABC also retains love tension, sudden love of power and unrest through violence in love, keeping disruptive possibilities explicit without making every sudden attraction violent.
 
 ## Links
 

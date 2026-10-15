@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Node Zeus](../triads/venus-node-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Love union with consequences. Pleasant creative connections.
 
 #### ABC Entry
 
-Beginning of a love connection, fiery love connection, shaping peace contacts, harmony strikes in one connection, harmonious relations to the movement, creative connections to the artificial, and procreation in a Lie bes Y binding
+- Source reference: printed p. 211; one-based PDF p. 104, Venus/Node, Zeus row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: The beginning of a love connection, a fiery love connection, shaping peace contacts, striving for harmony in a connection, harmonious relationships with leadership, creative connections to art, and procreation in a love connection.
+
+## Comparative Schema
+
+- core meaning: A beginning or creative connection with consequences.
+- psychology: Fiery involvement in love is stated; no fuller psychological account is given.
+- body/health: Procreation in a love connection is an attributed source claim, not an individual fertility or health assessment.
+- social/relationship: Pleasant creative connections and the beginning of a love connection.
+- events/manifestations: Shaping peace contacts, striving for harmony, relationships with leadership and creative connections to art.
+- conflicts/notes: ABC explicitly names harmony, leadership, art and procreation; none specifies an inevitable consequence or a fertility assessment.
+
+## Contradictions
+
+Beginnings and creative consequences are compatible emphases. ABC's leadership, art and procreation clauses identify further possibilities without establishing every consequence or a particular fertility outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Node = Zeus`: love union with consequences.
-- Practical expression: beginning of a love connection, fiery love connection, shaping peace contacts, harmony strikes in one connection, and harmonious relations to the movement.
+In `Venus/Node = Zeus`, Zeus specifies the connection through a beginning or creative development with consequences. The [Witte entry](#witte-entry) names a consequential love union and pleasant creative connections. The complete [ABC entry](#abc-entry) adds a new or fiery love connection, shaping peace contacts, striving for harmony, harmonious relationships with leadership and creative connections to art. Its procreation clause remains an attributed possibility rather than an individual fertility conclusion.
 
 ## Links
 

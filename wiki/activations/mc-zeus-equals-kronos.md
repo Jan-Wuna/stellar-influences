@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [MC Zeus Kronos](../triads/mc-zeus-kronos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To work at something independently. To create something great. A great inventor.
 
 #### ABC Entry
 
-Serving State Relief, Great fiery soul, my special goal, my important product, my beginning self governingness, my special achievements, my achievements for the State, my self defense efforts, and my State Relief
+- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).
+
+Ensouled state leadership, great fiery soul, my particular goal, my important product, my beginning independence, my particular achievements, my achievements for the state, my independent efforts, my state leadership.
+
+## Comparative Schema
+
+- **Core meaning:** Independent creation and substantial responsibility.
+- **Psychology:** Self-directed effort toward a particular goal.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Technical management and achievements for the state.
+- **Events/manifestations:** Invention, significant products and leading a large technical establishment.
+- **Conflicts/notes:** ABC names state leadership and independent efforts, without establishing an official rank or a self-defense scenario.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 89 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC names state leadership and independent efforts, without establishing an official rank or a self-defense scenario.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Kronos` elevates the axis into independent command, large-scale invention, and technical authority.
-- Chart expression: creating something significant through self-directed effort, managerial capacity, and the ability to lead major technical or institutional work.
+Kronos specifies `MC/Zeus` through independent work, significant creation and technical management. The [Witte Entry](#witte-entry) names a great inventor and the manager of a large technical establishment; the [ABC Entry](#abc-entry) adds particular goals, products and achievements for the state. These connect self-directed effort with substantial responsibility, without proving an occupation or official rank.
 
 ## Links
 

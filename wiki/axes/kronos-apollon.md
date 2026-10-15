@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¤/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `299`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Main formula for the knowing one and the expert. Height and width. Scientific ce
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `460`; PDF page: `229` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Awareness of science, special freedom, achievements of the state, successful authority, great fiille, commercial experiences, self awareness, a lot of self consciousness, important trade, and economic independence
+German pair summary (transcribed from printed page `460`; PDF page `229`):
+
+> Ansehen der Wissenschaft, besondere Freiheit, Erfolge des Staates, erfolgreiche Obrigkeit, große Fülle, Handels-Erfahrungen, selbständiges Wissen, viel Selbstbewußtsein, wichtiges Gewerbe, wirtschaftliche Selbständigkeit
+
+Editorial translation from the German passage: Standing of science, particular freedom, successes of the state, successful authorities, great abundance, commercial experiences, independent knowledge, much self-confidence, important trade or industry, economic independence.
+
+## Comparative Schema
+
+- **Core meaning:** Recognized expertise with breadth: exceptional knowledge, understanding, and experience ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Knowledge and understanding are explicit capacities; arrogance, detachment, or overextension are not established by the entries.
+- **Body/health:** No bodily or health meaning is given in these pair summaries.
+- **Social/relationship:** The leading scientist, expert, and recipient of titles or decorations describe public recognition of competence.
+- **Events/manifestations:** Outstanding science and great expansion are joined by trade, commercial experience, and economic independence in [Rudolph's summary](#udo-rudolph---abc-for-planetary-pictures).
+- **Conflicts/notes:** Witte emphasizes scientific standing; ABC adds state success, commercial experience, abundance, independent knowledge, self-confidence, and economic independence. These entries do not establish a corresponding character defect or an inevitable outcome.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Awareness of science, special freedom, achievements of the state, successful aut
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon`: authoritative expansion of knowledge and enterprise: the expert, the leading scientist, the recognized authority, large-scale understanding, decorated celebrity, and exceptional competence spread over a wide field.
-- Chart expression: mastery with reach. It favors scientific or commercial leadership, recognized expertise, broad influence, elevated understanding, and the ability to organize large domains of knowledge, trade, or peaceful expansion, while its liabilities are overextension, technocratic distance, and public authority detached from practical limits.
+Kronos/Apollon describes expertise whose scope and standing are substantial: exceptional knowledge, extensive experience, and understanding that can bring recognition as an expert or leading scientist. Titles, decorations, and scientific prominence make the public acknowledgment of competence part of the pair's range ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). Commercial experience, important trade, and economic independence extend that range into enterprise in [Rudolph's entry](#udo-rudolph---abc-for-planetary-pictures); the summaries do not establish a corresponding character defect or inevitable success.
 
 ## Links
 

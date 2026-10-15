@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NODES + CUPIDO`
+- PDF page (one-based): `149` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ To prepare the way for marriage. Familiar connections. Common interests or union
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `224–225`; PDF page (one-based): `111` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Bonds in communities, common relationships, artist connections, connection to the whole, connection to synthesis, communication community, and bonding together
+Bonds in communities, shared relationships, artists' connections, connection to the whole, joining into a synthesis, a community of mediation, binding together.
+
+## Comparative Schema
+
+- core meaning: Connecting people or groups through family, community, common interests and art.
+- psychology: A developed personal character or emotional difficulty is not given; the summaries focus on joining and shared ties.
+- body/health: Neither pair summary supplies an anatomical correspondence or illness.
+- social/relationship: Family ties, marriage, familiar connections, artists' associations and links between groups are explicit.
+- events/manifestations: Preparing the way for marriage, founding an association and forming a common-interest group give concrete forms to joining.
+- conflicts/notes: ABC's synthesis and mediation-community motifs broaden the pair beyond marriage. The short summaries do not rank marriage as most frequent or guarantee harmony, permanence or a particular union.
 
 ## Related Activations
 
@@ -106,8 +122,9 @@ Bonds in communities, common relationships, artist connections, connection to th
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido` combines connection, alliance, and shared ties with family, unions, and group belonging.
-- In practice, it most often shows to prepare the way for marriage, along with familiar connections.
+`Node/Cupido` concerns joining within a family, community or association and linking groups through common interests. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) connects marriage and family ties with founding associations, artists among themselves and connections between unions or groups. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) makes this joining explicit through shared relationships, bonds in communities, connection to the whole, mediation and synthesis.
+
+Marriage is therefore one concrete form of the pair, alongside artistic and communal affiliations; the summaries do not establish which occurs most often. Joining people or interests does not itself guarantee harmony or permanence, and these brief entries supply no separate medical or adverse personality account. Particular circumstances and closing-factor meanings belong to the separate [activation pages](#related-activations).
 
 ## Links
 

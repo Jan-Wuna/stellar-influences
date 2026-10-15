@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Asc`
 - Astronomicon formula: `W/Asc = Asc`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -41,22 +43,21 @@ Increased awareness of situations or conditions which exist in life; your need t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Greater awareness of existing conditions and a stronger preference for the ordinary.
+- Psychology: Less need for thrills and more preference for routine.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: No specific relationship outcome is supplied.
+- Events/manifestations: A change in the kinds of experience sought rather than a named external event.
+- Conflicts/notes: This repeated-activator entry is one Munkasey passage, not corroboration from the whole base axis.
 
 ## Contradictions
 
-- None recorded yet.
+This repeated-activator entry is one Munkasey passage, not corroboration from the whole base axis.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Asc`: Increased awareness of situations or conditions which exist in life; one's need to have experiences which are thrilling or out of the ordinary is diminished as one's preference for the routine and the ordinary is increased.
+In `Saturn/Asc = Asc`, Asc specifies the pair through increased awareness of the conditions already present in life. The [Munkasey entry](#munkasey-entry) connects that awareness with diminished need for unusual or thrilling experience and a stronger preference for routine. The brief passage supports this change of preference without supplying a broader relationship or health profile.
 
 ## Links
 

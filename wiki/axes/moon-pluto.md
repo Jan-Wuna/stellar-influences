@@ -22,8 +22,10 @@ related_activations:
   - Moon/Pluto = Mars
   - Moon/Pluto = MC
   - Moon/Pluto = Mercury
+  - Moon/Pluto = Moon
   - Moon/Pluto = Neptune
   - Moon/Pluto = Node
+  - Moon/Pluto = Pluto
   - Moon/Pluto = Poseidon
   - Moon/Pluto = Saturn
   - Moon/Pluto = Sun
@@ -74,12 +76,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `R/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis) or inspect the [source entries](#source-entries).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MOON/PLUTO`
-- Source page: `131`
+- Source heading: `MOON + PLUTO`
+- PDF page (one-based): `129` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -87,11 +91,15 @@ Development of the brain and the glands. Cognition. Public changes. Unstable con
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `190–191`; PDF page (one-based): `94` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-The evolution of women, the evolution of a people, the transformation of women, the unfolding of women, the change of courage, the hour of change, the growing people, the change of women, and the changing ways of life
+Development of a woman, evolution of a people, transformation of feelings, unfolding of feelings, change of mood, hour of transformation, a growing people, change of woman, changing feelings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `134`; PDF page: `136` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -111,7 +119,11 @@ People with extreme emotional expression.
 
 #### Probable Manifestations
 
-+ The pursuit of selected objectives with fanatical zeal and with subsequent attainment without any regard for other people. - Violent outbursts of feeling, inner shocks or emotional upheavals. 25 As a result of experiments made in a nerve clinic it was established that Moon/Pluto combinations in a chart can relate to schizophrenia. It was nearly always a case of inheritance. As already stressed under 0386, one cannot conclude, however, that these combinations are definitely an indication of a severe illness. Moon/Pluto D/%
++ The pursuit of selected objectives with fanatical zeal and with subsequent attainment without any regard for other people. - Violent outbursts of feeling, inner shocks or emotional upheavals.
+
+#### Source Footnote 25
+
+As a result of experiments made in a nerve clinic it was established that Moon/Pluto combinations in a chart can relate to schizophrenia. It was nearly always a case of inheritance. As already stressed under 0386, one cannot conclude, however, that these combinations are definitely an indication of a severe illness.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -170,7 +182,7 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Moon-Pluto: Depths of the Soul`
-- PDF page(s): `299`
+- PDF page(s): `299–300` (full harmony and discord endings checked against the scans).
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -178,17 +190,17 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 - shadow: The Spooky Queen and the Black Knight
 - comparison: Love Power Mothering Seizing power Helping Healing Empathizing Seeing through Preserving Transforming Attracting Fascinating Soul Shadow
 - general: Longing for what is hidden and forbidden . Emotional entanglements . Desire or thirst for power . Deepest transformation through feelings and/or emotional suffering . Feelings of power and helplessness . Extreme emotions . The urge to go into the depths .
-- harmony: The Spy. Enormous, lasting, sometimes fanatic urge to keep going in a certain direction once it has been decided on, and to air secrets, break taboos, and spy on things that are hidden and forbidden. Delving into the depths of one's own feelings with fear and fascination in order to explore one's self, one's own motives and drives, as well as those of other people.
-- discord: The Power-Hungry Person. An urge, difficult to control, to seize power over other people's souls and make them dependent. Also one's own feelings of helplessness toward others who bear emotional power (mother). Extreme emotional states like all-or-nothing or: if you are not for me, you are against me.
+- harmony: The Spy. Enormous, lasting, sometimes fanatic urge to keep going in a certain direction once it has been decided on, and to air secrets, break taboos, and spy on things that are hidden and forbidden. Delving into the depths of one's own feelings with fear and fascination in order to explore one's self, one's own motives and drives, as well as those of other people. Great powers of the soul.
+- discord: The Power-Hungry Person. An urge, difficult to control, to seize power over other people's souls and make them dependent. Also one's own feelings of helplessness toward others who bear emotional power (mother). Extreme emotional states like all-or-nothing or: if you are not for me, you are against me. Tremendous feelings of jealousy and manic need to control others. Enormous problems in giving the necessary freedom to people one is responsible for.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: powerful feeling and emotional transformation, with public change as a distinct collective expression.
+- psychology: concentrated desire, deep insight, and persistence can become obsession, jealousy, emotional eruptions, or efforts to control what feels threatening.
+- body/health: Ebertin lists liquid metabolism and blood disease; Munkasey adds glandular, fluid, and cancer correspondences. These remain attributed historical claims; Ebertin explicitly rejects inferring severe illness from this combination alone.
+- social/relationship: intense attachment, maternal influence, and passionate bonds coexist with manipulation, possessiveness, or difficulty leaving destructive ties.
+- events/manifestations: emotional upheaval, confrontation with old patterns, and pursuit of selected goals recur; Witte also names rapid public/hourly changes, while Munkasey includes cleaning, hidden things, and responses to crime or coercion.
+- conflicts/notes: enduring emotional intensity and rapidly changing public conditions are different source emphases. Neither guarantees abuse, trauma, illness, or successful transformation. ABC's feeling/mood wording and Banzhaf/Haebler's paragraph endings were repaired from scans.
 
 ## Related Activations
 
@@ -203,8 +215,10 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 - [Moon/Pluto = Mars](../activations/moon-pluto-equals-mars.md)
 - [Moon/Pluto = MC](../activations/moon-pluto-equals-mc.md)
 - [Moon/Pluto = Mercury](../activations/moon-pluto-equals-mercury.md)
+- [Moon/Pluto = Moon](../activations/moon-pluto-equals-moon.md)
 - [Moon/Pluto = Neptune](../activations/moon-pluto-equals-neptune.md)
 - [Moon/Pluto = Node](../activations/moon-pluto-equals-node.md)
+- [Moon/Pluto = Pluto](../activations/moon-pluto-equals-pluto.md)
 - [Moon/Pluto = Poseidon](../activations/moon-pluto-equals-poseidon.md)
 - [Moon/Pluto = Saturn](../activations/moon-pluto-equals-saturn.md)
 - [Moon/Pluto = Sun](../activations/moon-pluto-equals-sun.md)
@@ -216,15 +230,17 @@ Activities of the endocrine and pituitary glands; pressures in body cavities cau
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Witte emphasizes development and public changes, including quick fluctuations; the psychological entries emphasize intensity, attachment, and compulsion. They share change and powerful feeling without establishing one universal tempo or outcome.
+- Source repairs: ABC's complete bold summary was retranslated from PDF94, printed190–191, restoring transformation/unfolding of feelings and change of mood. Banzhaf/Haebler's full harmony and discord endings were restored from PDF299–300.
+- Ebertin's historical schizophrenia discussion explicitly says the pair is not definite evidence of severe illness; that qualification applies to any summary of his claim. Munkasey's cancer correspondence is likewise not a diagnosis. Ebertin's actual footnote25 is retained separately from pair manifestations; the merged following heading is removed from the checked printed134/PDF136 boundary.
+- Locator correction: Witte's exact pair passage is PDF129; Munkasey's printed131 remains his separate reference.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto` is the axis of emotional intensity, instinctive transformation, deep survival feeling, and powerful undercurrents in family or intimate life. It combines mood, habit, nurture, and memory with pressure, compulsion, secrecy, regeneration, and the urge to confront what lies beneath the surface.
-- Chart expression: emotional depth, resilience, catharsis, psychological insight, powerful attachment, and the ability to endure and transform through profound feeling. Liabilities: jealousy, possessiveness, emotional manipulation, eruptions from the unconscious, controlling habits, and crises that arise when safety and power become fused.
+`Moon/Pluto` describes feeling with enough force to dominate attention and press for change. Deep attachment, strong desire, and persistence can lead toward insight into hidden motives or the release of entrenched habits. The same concentration can narrow into obsession, jealousy, power struggles, or an attempt to control another person in order to secure a bond. Facing emotional pressure and transforming a pattern are supported possibilities, but neither suffering nor a successful resolution is guaranteed ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Hand](#robert-hand---horoscope-symbols), [Banzhaf/Haebler, PDF pp. 299–300](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
+
+In relationships the range includes powerful support as well as possessiveness and difficulty releasing a damaging attachment. The collective dimension remains important: Witte names public transformation and quick changes, while Munkasey includes ordinary life reorganized around control, cleanliness, hidden things, or responses to oppressive forces. These applications should not be compressed into a claim that every change is a crisis, or that the pair proves trauma, abuse, or disease. Each third-factor activation retains its own meaning and orientation ([Witte and collaborators](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Munkasey, printed p. 131](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
 

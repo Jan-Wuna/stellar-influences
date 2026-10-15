@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Jupiter`
 - Astronomicon formula: `Y/Z = V`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 To hide something successfully. The beginning of a fortunate change, which is not recognized at once.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Success through metaphysical development, exchange financial development, joy over growing intuition, creeping changes in the legal system, uncertain money development, favorable air change, and growing legal uncertainty
+Success through metaphysical development, pretending financial development, joy over growing intuition, creeping changes in the legal system, uncertain financial development, favorable change of air, and growing legal uncertainty
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `281`, entry code `1004`.
 
 #### Ebertin Entry
 
 Love of humanity, universal and all-embracing love, peace-loving disposition, religious, high degree of inner cognition and perception. Happy soul experiences, success in metaphysical research. Sectarians.
 
+- Historical footnote 61 (printed p. 281): In some cases Jupiter = Neptune/Pluto was found to indicate a gambler.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ The ability to understand things at an extremely subtle level. The eagerness to 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Increased need for find a better way for you to spend your life; added desires f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: hopeful or successful subtle development alongside uncertain or pretended progress.
+- psychology: inner perception, religious aspiration, and exploring imaginings are explicit.
+- body/health: Munkasey's drug desire and Ebertin's separate gambler footnote are historical behavioral claims, not advice, a diagnosis, or an individual prediction.
+- social/relationship: love of humanity contrasts with neglect of others and social or political pressures.
+- events/manifestations: fortunate change not immediately recognized, metaphysical research, and legal or financial uncertainty are named.
+- conflicts/notes: the sources offer differing expressions; regenerative faith and long-wave prediction are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin include success and fortunate inner experience; ABC also warns of pretended financial progress. Munkasey stresses the search for a better life alongside neglect and pressures.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Jupiter`: regenerative faith, powerful intuition about long-wave change, and the urge to find meaning in invisible processes. Main caution: grand illusion: belief can become inflated, compulsive, or too ready to sanctify what has not been tested.
+In Neptune/Pluto = Jupiter, subtle understanding or an imagined better future can become a focus of development. [Witte](#witte-entry) describes a fortunate change not recognized immediately; [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) include metaphysical research, perception, and imaginative exploration. [ABC](#abc-entry) also preserves pretended financial progress and growing legal uncertainty, while [Munkasey](#munkasey-entry) adds social pressures and neglect of others. The optimistic possibilities therefore do not establish that a claimed development is sound or beneficial.
 
 ## Links
 

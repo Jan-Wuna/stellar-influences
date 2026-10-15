@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Asc`
 - Astronomicon formula: `X/Y = Asc`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Asc entry.
+
 #### Witte Entry
 
 Other people do not know what they want. They are pro and con and try to create difficulties and disturbances. Notices of death. Acquaintance with dead people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Asc entry.
+
 #### ABC Entry
 
-Exchangeable environmental technology, subtle partner impulses, metaphysical partner experience, sudden excitement of the partner, creeping unrest in the environment, surprising weakness of the partner, refined environmental technology, and water technology on site
+Disappointing environmental technology, subtle-material partner impulses, metaphysical partner experience, sudden excitement of the partner, creeping unrest in the environment, surprising weakness of the partner, refined environmental technology, and water technology on site.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 267 (PDF p. 269), code `0948`.
 
 #### Ebertin Entry
 
 A person who is easily influenced. Instability, hyper-sensitivity. The state of being depressed or sad together with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Neptune midpoint`, Ascendant entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Enhances your ability to focus on the people or tasks you concentrate on; the co
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sensitivity to people and environmental conditions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Impressionability, uncertainty, and inspired concentration. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's depression wording remains attributed; no diagnosis follows. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Other people's indecision, shared sadness, and concern for humanity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Environmental disturbances and insight into people or tasks. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Impressionability and focused insight are alternative emphases; Witte's death examples remain attributed rather than predicted. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Impressionability, inspired concentration and spiritual charisma are different emphases. Witte's death notices and acquaintance with the dead remain attributed examples, not a medical prediction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Asc`: imaginative originality, intuitive alertness, and the ability to embody a different atmosphere simply by showing up. Main caution: unstable definition: impressionability and nervous vision can blur boundaries and make self-presentation hard to anchor.
+Asc specifies Uranus/Neptune through heightened responsiveness to other people and surrounding conditions. Insight and inspiration can focus attention, while impressionability and uncertainty in others can also create disturbance or shared sadness. Sandbach's cosmic charisma is a spiritual interpretation within this range; Witte's death notices and acquaintance with the dead remain separate historical examples, not a forecast attached to every sensitive encounter. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

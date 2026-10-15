@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Venus = Hades`
 - Astronomicon formula: `Q/Q = ¢`
 - Axis page: [Venus/Venus](../axes/venus-venus.md)
@@ -33,10 +35,23 @@ updated_at: 2026-04-21
 
 Repulsiveness in love. Love worries. To grieve. Secret love. Dirty minded. Low, purchasable love. Sterility (voluntary). Servitude. Domestic servant. Maidservant, waitress. Reproductive disorders. Immorality. Vulgar sensuality. To age beautifully. Old beautiful things. Old love.
 
+## Comparative Schema
+
+- core meaning: troubled or concealed love alongside beauty that persists with age.
+- psychology: worry and grief in affection.
+- body/health: sterility and reproductive disorders are historical source claims only.
+- social/relationship: secret or purchasable love and service roles are listed.
+- events/manifestations: old love, old beautiful things, and aging beautifully.
+- conflicts/notes: moral judgments and gendered occupations remain attributed.
+
+## Contradictions
+
+The entry includes both distress in love and positive images of age and beauty. These are different possibilities; its moral labels are not neutral descriptions of people.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Venus = Hades`: repulsiveness in love.
+Hades specifies `Venus/Venus` through love under conditions of worry, secrecy, or service, while retaining another strand: old love and beauty that survives aging. Both belong to the [Witte entry](#witte-entry), PDF p. 175; reducing it to repulsion loses that quieter continuity. The entry's moral judgments and reproductive claims remain historical attributions, not judgments or medical conclusions about a person.
 
 ## Links
 

@@ -11,6 +11,8 @@ normalized_axis: Mars/Jupiter
 factor_a: Mars
 factor_b: Jupiter
 related_activations:
+  - Mars/Jupiter = Jupiter
+  - Mars/Jupiter = Mars
   - Mars/Jupiter = Admetos
   - Mars/Jupiter = Apollon
   - Mars/Jupiter = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/JUPITER`
-- Source page: `223`
+- Source heading: `MARS + JUPITER`
+- PDF page: `192`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ Joyous happenings. Betrothal. Fortunate deed. To create something. To produce. S
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `298`; PDF page: `148` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Work with money, work joy, work right, success acts, money trade, financial actions, good work, good will, right action, will success, and happiness through/in activity
+German pair summary (transcribed from printed page `298`; PDF page `148`):
+
+> Arbeit mit Geld, Arbeits-Freude, Arbeits-Recht, Erfolgs-Handlungen, Geld-Handel, Glücks-Impulse, Finanz-Aktionen, gute Arbeit, guter Wille, rechtes Handeln, Rechts-Handlungen, Willens-Erfolge, Glück durch/in Tätigkeit
+
+Editorial translation from the German passage: Work with money, joy in work, labor law or the right to work, successful actions, money trading, impulses of good fortune, financial actions, good work, good will, right conduct, legal actions, successes of the will, happiness through or in activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -232,14 +242,17 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Enthusiastic, creative enterprise that seeks growth and opportunity; see the [Principle](#principle), [Pair Delineation](#pair-delineation), and [Falis Entry](#falis-entry).
+- psychology: Courage, confidence, joy in activity, and conviction can support initiative or become exaggeration, hasty judgment, and excessive force.
+- body/health: Athletic prowess is explicit in the Pair Delineation. Organ, muscle, birth, adrenal, and surgical claims in the dedicated source fields remain attributed historical associations, not diagnoses or guaranteed outcomes.
+- social/relationship: Generous outreach and negotiation coexist with opinionated competition; shared sport, religious activity, and an active social life appear in [In Your Relationships](#in-your-relationships).
+- events/manifestations: Enterprise, business deals, legal settlements, contracts, engagements, marriage, and births are named in [Probable Manifestations](#probable-manifestations); action for a belief or cause is developed in Falis and Carter.
+- conflicts/notes: Positive opportunity and destructive excess are both supported. ABC distinguishes right conduct (rechtes Handeln) from legal actions (Rechts-Handlungen); Carter's aspect-family judgments remain conditional.
 
 ## Related Activations
+
+- [Mars/Jupiter = Jupiter](../activations/mars-jupiter-equals-jupiter.md)
+- [Mars/Jupiter = Mars](../activations/mars-jupiter-equals-mars.md)
 
 - [Mars/Jupiter = Admetos](../activations/mars-jupiter-equals-admetos.md)
 - [Mars/Jupiter = Apollon](../activations/mars-jupiter-equals-apollon.md)
@@ -265,15 +278,15 @@ Strength of limb; gross motor control; improving muscle tone; hypo-adrenalism; a
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Enthusiasm and confidence can be effective or excessive; the entries distinguish these conditions rather than proving that all activity succeeds. Carter's particularly severe inharmonious assessment remains attributed alongside the broader range.
+- ABC's noisy native fragments do not supply additional confident meanings beyond the intelligible pair summary.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter` is the axis of vigorous enterprise, courageous initiative, fortunate action, and belief translated into effort. It combines drive, competitiveness, and physical or creative force with optimism, conviction, and the expectation of success.
-- Chart expression: action that wants to expand: bold decisions, productive effort, athletic or entrepreneurial confidence, the courage of one's convictions, and the ability to turn motion into opportunity. When imbalanced, it becomes overreach, rash judgment, fanaticism, waste, self-righteous conflict, or destructive excess.
+`Mars/Jupiter` describes initiative sustained by confidence that action can create something worthwhile. Enterprise, athletic effort, generous outreach, and acting for a conviction share this readiness to engage life. The [Principle](#principle), [Pair Delineation](#pair-delineation), and [Falis Entry](#falis-entry) connect productive effort with growth, opportunity, and belief in what one is doing; money, justice, contracts, and family beginnings give that broad theme concrete settings in the source entries.
+
+Confidence can also outrun competence or judgment. The [Sandbach entry](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) makes that distinction explicitly, preserving both effective assertion and destructive excess. Exaggeration, fanatic conviction, disproportionate force, and competitive quarrels therefore belong to the range alongside optimism and success. [Harmonious Aspects](#harmonious-aspects) and [Inharmonious Aspects](#inharmonious-aspects) add conditional accounts rather than making either outcome inevitable.
 
 ## Links
 

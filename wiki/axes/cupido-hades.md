@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -79,6 +81,15 @@ Paupers. Marriage in poverty. Low and vile company. Egoism. Individualism. Poor 
 #### ABC Pair Summary
 
 Old art, disadvantaged community, shared criminality, community in need, endangered community, dangerous community, shared secret, shared past, criminal community, and traditional community
+
+## Comparative Schema
+
+- Core meaning: Communal hardship and disadvantage coexist with associations around old art, shared history, and collected objects ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Egoism and individualism are source keywords, but their relation to the other examples is not explained.
+- Body/health: Neither summary supplies a specific bodily condition or treatment.
+- Social/relationship: Poverty in family or marriage, communities in need or danger, shared secrets, and shared pasts are named.
+- Events/manifestations: Unfortunate firms, stockpiling, hoarding, antique collections, museums, and old art are explicit examples.
+- Conflicts/notes: Judgments such as "low and vile company" and "lowbrow art" remain historical source evaluations. The ABC entry's criminal examples do not characterize every disadvantaged or traditional community. Witte PDF p. 267 is a chapter start; ABC printed pp. 424-425 is a pair spread.
 
 ## Related Activations
 
@@ -106,8 +117,9 @@ Old art, disadvantaged community, shared criminality, community in need, endange
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades`: communal life under affliction: poor families, wretched partnerships, unfortunate firms, low company, coarse or unsuccessful art, hoarding, and sad social surroundings.
-- Chart expression: bonds weighed down by deprivation, social inferiority, accumulated neglect, and the persistence of difficult collective conditions. It can show unions formed or maintained under hardship, old or degraded cultural material, and communities marked by stigma, scarcity, or emotional heaviness. Liabilities: misery becoming normalized, degraded association, clinging to what is stale or joyless, and collective identity sinking into bitterness or social decline.
+`Cupido/Hades` brings shared life into contact with hardship and with the past. Poor families, marriage under poverty, disadvantaged communities, and unfortunate firms describe association under difficult material or social conditions. Shared secrets and criminal association are additional source examples, not conclusions about everyone in such circumstances ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+The older or collected object is a distinct part of the same range: antiques, museums, stockpiles, old art, and traditions must remain visible alongside deprivation. The sources' judgments about social rank or artistic quality are attributed evaluations, not a reason to equate poverty or old culture with moral inferiority.
 
 ## Links
 

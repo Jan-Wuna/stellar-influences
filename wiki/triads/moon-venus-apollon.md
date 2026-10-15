@@ -20,38 +20,46 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Apollon`
 - Astronomicon triad-set: `R Q ¥`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
+
+[Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Apollon = Venus](../activations/moon-apollon-equals-venus.md)
-- [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md)
-- [Venus/Apollon = Moon](../activations/venus-apollon-equals-moon.md)
+- [Moon/Apollon = Venus](../activations/moon-apollon-equals-venus.md): base axis [Moon/Apollon](../axes/moon-apollon.md); activator [Venus](../factors/venus.md).
+- [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Apollon](../factors/apollon.md).
+- [Venus/Apollon = Moon](../activations/venus-apollon-equals-moon.md): base axis [Venus/Apollon](../axes/venus-apollon.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
-- `Moon/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `200`
-- `Moon/Venus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Venus/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
-- `Venus/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `290`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Apollon = Venus](../activations/moon-apollon-equals-venus.md#witte-entry) (PDF entry-start p. 134); [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md#witte-entry) (PDF entry-start p. 123); [Venus/Apollon = Moon](../activations/venus-apollon-equals-moon.md#witte-entry) (PDF entry-start p. 186).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Apollon = Venus](../activations/moon-apollon-equals-venus.md#abc-entry) (printed p. 200); [Moon/Venus = Apollon](../activations/moon-venus-equals-apollon.md#abc-entry) (printed p. 179); [Venus/Apollon = Moon](../activations/venus-apollon-equals-moon.md#abc-entry) (printed p. 290).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Venus`: Favorite everywhere. To get many friends. Many hours of love. Peace of nations. Peaceful spreading out of a people.
-- `Moon/Venus = Apollon`: This activation expands `Moon/Venus` into faithful affection, widespread female love, and larger social fields of peace or friendship. It suggests emotional and relational harmony growing outward from the personal to the collective.
-- `Venus/Apollon = Moon`: many good friends.
+Moon, Venus and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Moon/Apollon = Venus ABC entry](../activations/moon-apollon-equals-venus.md#abc-entry) retains “ailment knowledge in love” and “vie! harmony filial”. These specific translated fragments need source verification; their paragraph is represented rather than absent.
 
 ## Links
 
+- [Moon/Apollon](../axes/moon-apollon.md)
+- [Moon/Venus](../axes/moon-venus.md)
+- [Venus/Apollon](../axes/venus-apollon.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Apollon](../factors/apollon.md)

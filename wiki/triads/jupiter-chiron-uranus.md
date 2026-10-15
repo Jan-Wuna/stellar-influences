@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Jupiter Chiron Uranus`
 - Astronomicon triad-set: `V Chiron X`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Uranus = Jupiter](../activations/chiron-uranus-equals-jupiter.md)
-- [Jupiter/Chiron = Uranus](../activations/jupiter-chiron-equals-uranus.md)
-- [Jupiter/Uranus = Chiron](../activations/jupiter-uranus-equals-chiron.md)
+- [Chiron/Uranus = Jupiter](../activations/chiron-uranus-equals-jupiter.md): base axis [Chiron/Uranus](../axes/chiron-uranus.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Chiron = Uranus](../activations/jupiter-chiron-equals-uranus.md): base axis [Jupiter/Chiron](../axes/jupiter-chiron.md); activator [Uranus](../factors/uranus.md).
+- [Jupiter/Uranus = Chiron](../activations/jupiter-uranus-equals-chiron.md): base axis [Jupiter/Uranus](../axes/jupiter-uranus.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Uranus = Jupiter`: John, page `96`
-- `Jupiter/Chiron = Uranus`: John, page `79`
-- `Jupiter/Uranus = Chiron`: John, page `80`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Uranus = Jupiter](../activations/chiron-uranus-equals-jupiter.md#sandbach-entry) (PDF chapter-start p. 96; exact entry page unverified); [Jupiter/Chiron = Uranus](../activations/jupiter-chiron-equals-uranus.md#sandbach-entry) (PDF chapter-start p. 79; exact entry page unverified); [Jupiter/Uranus = Chiron](../activations/jupiter-uranus-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 80; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Jupiter`: liberating encouragement, upbeat awakening, and healing through cheerful expansion beyond old limits. Main caution: scattering energy through constant excitement or novelty.
-- `Jupiter/Chiron = Uranus`: breakthrough healing through revelation. It can show unusual but liberating insight that reorganizes how people understand life.
-- `Jupiter/Uranus = Chiron`: breakthrough freedom becoming therapeutically contagious. It favors liberating contact, joyful release, and the healing value of encouraging individuality.
+Jupiter, Chiron and Uranus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Uranus](../axes/chiron-uranus.md)
+- [Jupiter/Chiron](../axes/jupiter-chiron.md)
+- [Jupiter/Uranus](../axes/jupiter-uranus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Chiron](../factors/chiron.md)
 - [Uranus](../factors/uranus.md)

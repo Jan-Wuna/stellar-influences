@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Poseidon`
 - Astronomicon formula: `V/g = ¨`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Poseidon row.
+
 Fortunate spiritual relations. Fortunate connection with prudent and wise people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successfully linked by ideas, successful mental relationship, financial clarity in a connection, happiness by wisdom in a connection, legal clarity of a relationship, beneficial cultural connections, and honor violence by law
+- Source reference: printed page 215; one-based PDF page 106, Mondknoten/Jupiter section, Poseidon row; full German row checked.
+
+Successfully connected through ideas, a successful intellectual or spiritual relationship, financial clarity in a connection, happiness through truth in a connection, legal clarity in a relationship, beneficial cultural connections, and mediation of truth through law
+
+## Comparative Schema
+
+- core meaning: Fortunate spiritual or intellectual relations and clarity within connections.
+- psychology: Prudence and wisdom in Witte; truth and clear understanding in ABC.
+- body/health: No bodily condition is stated.
+- social/relationship: Wise companions, cultural ties and relationships joined by ideas.
+- events/manifestations: Financial/legal clarity and truth mediated through law.
+- conflicts/notes: ABC says truth, not wisdom, in its happiness clause and mediation of truth, not honor violence, in the final clause; geistig remains intellectual/spiritual in scope.
+
+## Contradictions
+
+The two entries are favorable and complementary. Financial clarity, spiritual companionship and cultural ties are separate examples, without a claim that every wise companion provides financial benefit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Node = Poseidon`: social luck formed through clear-minded, ethical, or spiritual companionship. It favors relationships that elevate understanding and strengthen perspective.
+For `Jupiter/Node = Poseidon`, [Witte](#witte-entry) describes fortunate spiritual relations and connections with prudent, wise people. [ABC](#abc-entry) gives related forms in shared ideas, intellectual or spiritual relationship and cultural connection. Truth can bring happiness, and financial or legal clarity can make a relationship more intelligible. The final mediation-of-truth-through-law example supplies a specific legal setting. The shared emphasis is connection supported by understanding and clarity.
 
 ## Links
 

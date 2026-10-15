@@ -27,6 +27,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `S/W = W`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +42,21 @@ Feelings that you can progress only thru enduring and slowly persisting step by 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: progress understood as gradual endurance, alongside the power to suspend activity.
+- psychology: commitment to persistent methods can become inflexible adherence to one way of getting results.
+- body/health: the entry does not establish a bodily condition or medical implication.
+- social/relationship: the capacity to stop influential people is stated; the reason or quality of those relationships is unspecified.
+- events/manifestations: slow stepwise achievement, suspended processes, or blocked influence.
+- conflicts/notes: this single entry includes both persistence and stopping; neither is an inevitable outcome of the formula.
 
 ## Contradictions
 
-- None recorded yet.
+- Only one source entry is present, so comparison across sources is unavailable. Its contrast between enduring effort and stopping processes describes a range rather than an explicit contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Saturn`: Feelings that one can progress only thru enduring and slowly persisting step by step; one's commitment to inflexible ways of achieving results; one's ability to suspend important processes or stop influential people.
+Saturn specifies the Sun/Saturn axis through the conviction that results require endurance and small, persistent steps. The same commitment can harden into inflexible methods or become the ability to suspend an important process and halt another person's influence. This is the range of the [Munkasey entry](#munkasey-entry), “SUN/SATURN With Itself” (printed p. 78); the short passage does not establish why a process is stopped or whether doing so is beneficial.
 
 ## Links
 

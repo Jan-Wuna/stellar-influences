@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Poseidon](../axes/mars-poseidon.md)
 - Triad hub: [Mars Admetos Poseidon](../triads/mars-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Poseidon,” PDF p. 204.
 
 Mental activities with a few. Exclusive circle with a particular mental or spiritual outlook. Courses for only a few participants.
 
@@ -42,13 +46,27 @@ Mental activities with a few. Exclusive circle with a particular mental or spiri
 
 #### ABC Entry
 
-Work with spiritual primordial material, blocked reason actions, restriction of cultural work, consolidation of ideal work, mental compaction work, grilndish will for truth, deepening in spiritual work, and resistance activity against the truth
+Source: “Mars + Poseidon,” printed p. 323 (PDF p. 160).
+
+Work with spiritual primordial material, blocked rational actions, restriction of cultural work, consolidation of work with ideals, mental condensation work, a thoroughgoing will for truth, deepening in mental or spiritual work, and activity resisting truth.
+
+## Comparative Schema
+
+- core meaning: Concentrated or restricted intellectual, spiritual, and cultural work.
+- psychology: A thorough will for truth, deepening thought, or resistance to truth.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Small courses or exclusive circles sharing a particular outlook.
+- events/manifestations: Limited participation, consolidated work with ideals, and restricted cultural activity.
+- conflicts/notes: Seeking truth and resisting it are opposing ABC possibilities; small-group activity does not establish which applies.
+
+## Contradictions
+
+Witte specifies a small circle, while ABC includes both deepened work and blocked or resistant activity. Restriction of participation and restriction of thought are distinct claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Admetos` narrows moral or intellectual action into exclusivity, select circles, and concentrated teaching.
-- Chart expression: mental or spiritual work among only a few, small groups united by a particular outlook, and courses or instruction restricted to limited participation.
+In `Mars/Poseidon = Admetos`, Admetos specifies intellectual or spiritual activity through concentration, depth, and limits. Witte gives small courses and exclusive circles with a shared outlook; ABC adds consolidated work with ideals and deepened thought, alongside blocked rational action or resistance to truth. A limited circle can therefore be a setting for concentrated work without proving either insight or resistance in every case. ([Witte](#witte-entry), PDF p. 204; [ABC](#abc-entry), printed p. 323 / PDF p. 160)
 
 ## Links
 

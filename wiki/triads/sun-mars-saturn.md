@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Mars/Saturn = Sun](../activations/mars-saturn-equals-sun.md)
-- [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md)
-- [Sun/Saturn = Mars](../activations/sun-saturn-equals-mars.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Saturn = Sun](../activations/mars-saturn-equals-sun.md) | [Mars/Saturn](../axes/mars-saturn.md) | [Sun](../factors/sun.md) |
+| [Sun/Mars = Saturn](../activations/sun-mars-equals-saturn.md) | [Sun/Mars](../axes/sun-mars.md) | [Saturn](../factors/saturn.md) |
+| [Sun/Saturn = Mars](../activations/sun-saturn-equals-mars.md) | [Sun/Saturn](../axes/sun-saturn.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Mars/Saturn = Sun`: Michael, page `228`
-- `Sun/Mars = Saturn`: Michael, page `68`
-- `Sun/Saturn = Mars`: Michael, page `76`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Mars/Saturn = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-saturn-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-saturn-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/mars-saturn-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mars-saturn-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mars-saturn-equals-sun.md#munkasey-entry), printed p. `228`.
+- `Sun/Mars = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mars-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mars-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-mars-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mars-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-mars-equals-saturn.md#munkasey-entry), printed p. `68`.
+- `Sun/Saturn = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-saturn-equals-mars.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-saturn-equals-mars.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-saturn-equals-mars.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-saturn-equals-mars.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-saturn-equals-mars.md#munkasey-entry), printed p. `76`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

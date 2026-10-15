@@ -1,0 +1,6 @@
+﻿Invocation: git diff --check -- wiki
+warning: in the working copy of 'wiki/axes/jupiter-neptune.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/mercury-asc.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/sun-moon.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'wiki/axes/venus-node.md', LF will be replaced by CRLF the next time Git touches it
+ExitCode: 0

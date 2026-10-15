@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Moon`
 - Astronomicon formula: `Z/£ = R`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 The public changes its face in connection with intensified performance of duty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Start a change in the direction of a woman, develop a fiery feeling, change of leadership in a people, change of direction of a woman, development of creative skills, hour of strenuous changes, and growth of a woman's achievements
+- Source page: 412 (printed); PDF page: 205.
+
+Beginning of an emotional change, developing fiery feelings, change of leadership among a people, change of direction of a woman, creative emotional development, an hour of demanding changes, growing achievements of a woman.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Changing public performance and developing feelings or women's achievements.
+- Psychology: Fiery feelings and creative emotional development.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Leadership change among a people and growing achievements of women.
+- Events/manifestations: Public change linked to intensified duties and demanding changes.
+- Conflicts/notes: Gender-specific examples remain historical source categories rather than fixed roles.
+
+## Contradictions
+
+Gender-specific examples remain historical source categories rather than fixed roles.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Moon`: the public changes its face in connection with intensified performance of duty.
-- Practical expression: start a change in the direction of a woman, develop a fiery feeling, change of leadership in a people, change of direction of a woman, and development of creative skills.
+In `Pluto/Zeus = Moon`, Moon specifies the pair through changes in the public associated with intensified performance of duty in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds leadership changes among a people, creative emotional development, and increasing achievements of women. Public effort and the changing life of feeling remain connected themes without establishing a universal gender role.
 
 ## Links
 

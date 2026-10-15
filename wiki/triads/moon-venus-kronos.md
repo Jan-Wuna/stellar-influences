@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Venus Kronos`
 - Astronomicon triad-set: `R Q ¤`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
+
+[Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Kronos = Venus](../activations/moon-kronos-equals-venus.md)
-- [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md)
-- [Venus/Kronos = Moon](../activations/venus-kronos-equals-moon.md)
+- [Moon/Kronos = Venus](../activations/moon-kronos-equals-venus.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [Venus](../factors/venus.md).
+- [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Kronos](../factors/kronos.md).
+- [Venus/Kronos = Moon](../activations/venus-kronos-equals-moon.md): base axis [Venus/Kronos](../axes/venus-kronos.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `198`
-- `Moon/Venus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Venus/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
-- `Venus/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `288`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Kronos = Venus](../activations/moon-kronos-equals-venus.md#witte-entry) (PDF entry-start p. 133); [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md#witte-entry) (PDF entry-start p. 123); [Venus/Kronos = Moon](../activations/venus-kronos-equals-moon.md#witte-entry) (PDF entry-start p. 185).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Kronos = Venus](../activations/moon-kronos-equals-venus.md#abc-entry) (printed p. 198); [Moon/Venus = Kronos](../activations/moon-venus-equals-kronos.md#abc-entry) (printed p. 179); [Venus/Kronos = Moon](../activations/venus-kronos-equals-moon.md#abc-entry) (printed p. 288).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos = Venus`: Charitable. Treated well by officials. Philanthropist (female). Female officials. Pleasant connections with officials and boards.
-- `Moon/Venus = Kronos`: This activation elevates `Moon/Venus` through dignified motherhood, socially recognized partnership, and female leadership. It suggests affection and nurture carrying status, influence, or exemplary force within a household or movement.
-- `Venus/Kronos = Moon`: sacrificing, benevolent woman.
+Moon, Venus and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/Venus](../axes/moon-venus.md)
+- [Venus/Kronos](../axes/venus-kronos.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Kronos](../factors/kronos.md)

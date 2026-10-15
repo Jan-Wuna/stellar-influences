@@ -38,7 +38,7 @@ aliases:
   - Vulcanus/Vulcanus
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -46,13 +46,26 @@ updated_at: 2026-04-21
 - Axis: `Vulcanus/Vulcanus`
 - Astronomicon axis: `§/§`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+Source reference: PDF page `313`, chapter heading `VULCANUS + VULCANUS`.
+
 Greatest strength. Force. Might. Energy. Power. Supreme Violence.
+
+## Comparative Schema
+
+- Core meaning: Greatest strength, force, might, energy, and power, with "Supreme Violence" explicitly included.
+- Psychology: The brief entry gives no motivation, emotional pattern, or personal character profile.
+- Body/health: Strength and energy are named generally; no bodily condition or health judgment is specified.
+- Social/relationship: Power and violence are represented without a defined relationship, role, or target.
+- Events/manifestations: The entry identifies force at its greatest magnitude, but names no particular event or mechanism.
+- Conflicts/notes: This single-source, same-factor entry does not establish that all power is violent or that force is controlled, constructive, or integrated.
 
 ## Related Activations
 
@@ -78,14 +91,18 @@ Greatest strength. Force. Might. Energy. Power. Supreme Violence.
 - [Vulcanus/Vulcanus = Admetos](../activations/vulcanus-vulcanus-equals-admetos.md)
 - [Vulcanus/Vulcanus = Poseidon](../activations/vulcanus-vulcanus-equals-poseidon.md)
 
+## Contradictions
+
+There is one short pair summary, so no source disagreement can be assessed. Its inclusion of violence preserves a severe possibility alongside strength and energy, without establishing a universal outcome or a separate constructive/shadow doctrine.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis intensifies Vulcanus into raw concentrated power, stressing sheer force, energy, and might with little mitigation, so its expression tends toward overwhelming strength or violence.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Vulcanus/Vulcanus` has a deliberately spare meaning in the [pair summary](#pair-summary): force, energy, might, and power at the level described as greatest strength. "Supreme Violence" gives that force a severe expression, but remains one part of the short list rather than a rule that every expression must be violent.
+
+This same-factor axis adds no different second factor to specify how power is directed, who exercises it, or what it produces. Its evidence supports magnitude of force; personal motives, self-control, and particular manifestations require their own evidence.
 
 ## Links
 
-- [Vulcanus](../factors/vulcanus.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Venus`
 - Astronomicon formula: `g/¥ = Q`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
-Connections with talkative or foreign people. Language courses. To enjoy freedom. Friendly connections with females. Enjoying art together. Theater visits.
+To enjoy freedom. Friendly connections with females. Enjoying art together. Theater visits.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `232`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-Extension of a peace mediation, success of a harmonious connection, harmonious connections to the economy, love experiences in a connection, knowledge about the arts, and connection to the arts science
+Expansion of peace mediation, success of a harmonious connection, harmonious connections with the economy, experiences of love within a connection, sharing knowledge about art, and connection to art scholarship
+
+## Comparative Schema
+
+- core meaning: enjoyment, harmony and shared art within free connections.
+- psychology: enjoying freedom and experiences of love are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: friendly connections and peace mediation are named.
+- events/manifestations: theater visits, art knowledge and art scholarship provide concrete examples.
+- conflicts/notes: the source's female referent is historical language rather than an exclusive rule about friendship.
+
+## Contradictions
+
+Witte's enjoyment and shared art overlap with ABC's harmony, love and art knowledge; their settings complement each other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Venus`: Connections with talkative or foreign people. Language courses. To enjoy freedom. Friendly connections with females. Enjoying art together. Theater visits.
-- Practical focus: connections with talkative or foreign people; also language courses.
+Node/Apollon = Venus concerns pleasure and harmony in connection with others. [Witte](#witte-entry) names enjoying freedom, friendly ties and sharing art or theater visits. [ABC](#abc-entry) adds peace mediation, love experiences and the sharing or study of art knowledge (printed p. 232, PDF p. 115). The common theme is sociable enjoyment and cultural exchange. The historically gendered friendship example remains attributed rather than limiting these themes to one sex.
 
 ## Links
 

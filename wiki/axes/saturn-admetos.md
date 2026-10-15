@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page `229`, complete bold pair summary under the exact pair heading.
 
 #### Pair Summary
 
@@ -78,7 +82,20 @@ Patience. Duration. Long time. Forbearance. Valley. Bottlenecks. To be in a tigh
 
 #### ABC Pair Summary
 
-Age restrictions, limitation of tasks, severe depression, patient deepening, circulatory stress, problems compaction, damage limitation, pain underdriick, and deepening in tasks
+Restrictions in old age, limiting tasks, serious depressions, patient deepening, circulatory strain, compaction of problems, limiting damage, suppressing pain, and deepening into tasks.
+
+- Source locator: printed p. `364`; PDF page `181`, complete bold pair summary.
+- German source: `Alters-Einschränkungen, Aufgaben begrenzen, ernste Depressionen, geduldige Vertiefung, Kreislauf-Belastung, Problem-Verdichtung, Schadens-Begrenzung, Schmerzen unterdrücken, Vertiefung in Aufgaben`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
+
+## Comparative Schema
+
+- core meaning: prolonged restriction, stoppage, and the patience required to endure or overcome a bottleneck ([pair summary](#pair-summary)).
+- psychology: forbearance and patient concentration coexist with depression and the strain of being compelled to wait.
+- body/health: coldness, stiffness, and dryness appear in the pair vocabulary; ABC adds circulatory stress. These are attributed historical correspondences, not medical findings.
+- social/relationship: the entries establish constrained circumstances and tasks, but no specific relationship pattern.
+- events/manifestations: standstill, a tight spot, a long interval, and efforts to limit damage or narrow tasks.
+- conflicts/notes: The scan confirms ABC's `Schmerzen unterdrücken` as suppressing pain. Its `Problem-Verdichtung` remains a literal compaction of problems, without an added causal or medical explanation.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Age restrictions, limitation of tasks, severe depression, patient deepening, cir
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on patience, duration, long time, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Admetos` describes a long constriction: progress stops or narrows, making patience and forbearance central. The [pair summary](#pair-summary) includes both being caught in a bottleneck and overcoming it, so duration and difficulty do not establish permanent defeat. The [ABC entry](#abc-pair-summary) adds patient deepening in tasks and damage limitation, giving this endurance a practical focus rather than a general promise of success.
+
+The range also includes depression, coldness, stiffness, and dryness, with a literal valley among the source's uncommon images. These remain the source's vocabulary; the bodily terms do not establish a diagnosis. ABC also names suppression of pain as an attributed correspondence; it supplies no treatment advice. Manifestations involving a third factor belong to their exact activation pages.
 
 ## Links
 

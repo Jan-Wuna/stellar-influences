@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Vernal Point Node Poseidon](../triads/vernal-point-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ General mental connections. The general opinion. The world view.
 
 ideal connections in public, clarity in public connections, cultural connections in public, mediation of clarity in public, and spiritual connection to the public
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 238, PDF p. 118.
+
+- Core meaning: Public intellectual and cultural connections.
+- Psychology: General opinion and worldview.
+- Body/health: No bodily or medical claim is stated.
+- Social/relationship: Relations with the public.
+- Events/manifestations: Public cultural exchange and communication of understanding.
+- Conflicts/notes: A shared or public outlook does not establish truth or consensus.
+
+## Contradictions
+
+Public opinion in Witte and cultural mediation in ABC are compatible emphases; neither passage establishes universal agreement.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Vernal Point`: General mental connections. The general opinion. The world view.
-- Practical focus: general mental connections; also the general opinion.
+Vernal Point specifies `Node/Poseidon` at the level of public ideas and connections. The [Witte Entry](#witte-entry) names general opinion and worldview; the [ABC Entry](#abc-entry) adds cultural relationships and the public communication of clarity. The focus is the circulation of outlook and understanding in public life, without establishing unanimity or making a public opinion true.
 
 ## Links
 

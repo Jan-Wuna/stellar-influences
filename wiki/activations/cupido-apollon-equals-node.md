@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Node Cupido Apollon](../triads/node-cupido-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ In connection with art and science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 430).
+
 #### ABC Entry
 
 Extension of a community's links, experience of joint links, successful Community links, successful contacts with the arts, joint trade links, and increasing links in of a community
 
+## Comparative Schema
+
+- core meaning: Expanding and successful connections through art, science and trade.
+- psychology: No distinct inner state is specified.
+- body/health: No specific physical or medical claim.
+- social/relationship: Community links, contacts with art and shared trade connections.
+- events/manifestations: Experiences arising from shared connections and increasing communal links.
+- conflicts/notes: The entries give no claim about the warmth or depth of these ties.
+
+## Contradictions And Differences
+
+The entries give no claim about the warmth or depth of these ties. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Node`: joining others through common study, artistic culture, or broad intellectual affiliation. Main caution: relationship becoming purely interest-based and lacking deeper human warmth.
+`Cupido/Apollon = Node` describes connection with art and science and the widening bonds of association. The [Witte entry](#witte-entry) gives the short artistic and scientific connection; the [ABC entry](#abc-entry) adds successful contacts with art, shared trade links and experience gained through common connections. The formula supports a network of increasing communal ties without characterizing them as emotionally shallow.
 
 ## Links
 

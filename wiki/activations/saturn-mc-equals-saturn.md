@@ -28,12 +28,14 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SATURN/MIDHEAVEN With Itself`
-- Source page: `306`
+- Source page: `306` (PDF p. 307)
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Additional caution in planning what you will do in life and how you achieve your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: additional caution in planning one's life and pursuing goals.
+- psychology: restrained impulses toward progress and recognition.
+- body/health: The entry gives no bodily or medical claim.
+- social/relationship: recognition from others is sought more cautiously.
+- events/manifestations: slower pursuit of progress and acknowledgment of accomplishments.
+- conflicts/notes: This single repeated-pair entry differs from the MC activation's recognition of prior work.
 
 ## Contradictions
 
-- None recorded yet.
+- The entry specifies caution and slowing without stating that achievement or recognition is impossible.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Saturn`: Additional caution in planning what one will do in life and how one achieve one's goals; slows down one's impulses to progress with one's life and to seek deserved recognition for one's efforts and accomplishments.
+In `Saturn/MC = Saturn`, the repeated Saturn specifies the Saturn/MC axis through additional caution about life's plans and goals. [Munkasey](#munkasey-entry) describes slower impulses to advance or to seek deserved recognition for effort and accomplishment. The entry connects deliberation with restraint in pursuing acknowledgment.
 
 ## Links
 

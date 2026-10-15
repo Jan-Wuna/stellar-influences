@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Uranus Apollon`
 - Astronomicon triad-set: `VP X ¥`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Uranus/Apollon = Vernal Point](../activations/uranus-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Uranus](../activations/vernal-point-apollon-equals-uranus.md)
-- [Vernal Point/Uranus = Apollon](../activations/vernal-point-uranus-equals-apollon.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Uranus/Apollon = Vernal Point](../activations/uranus-apollon-equals-vernal-point.md) | [Uranus/Apollon](../axes/uranus-apollon.md) | Vernal Point |
+| [Vernal Point/Apollon = Uranus](../activations/vernal-point-apollon-equals-uranus.md) | [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | Uranus |
+| [Vernal Point/Uranus = Apollon](../activations/vernal-point-uranus-equals-apollon.md) | [Vernal Point/Uranus](../axes/vernal-point-uranus.md) | Apollon |
 
 ## Source Coverage
 
-- `Uranus/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
-- `Uranus/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `382`
-- `Vernal Point/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `45`
-- `Vernal Point/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `39`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Uranus/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `240`.
+- `Uranus/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-apollon-equals-vernal-point.md#abc-entry), printed p. `382`.
+- `Vernal Point/Apollon = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-uranus.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-uranus.md#abc-entry), printed p. `53`.
+- `Vernal Point/Uranus = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-uranus-equals-apollon.md#witte-entry), one-based PDF entry-start p. `45`.
+- `Vernal Point/Uranus = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-uranus-equals-apollon.md#abc-entry), printed p. `39`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Uranus`: This formula emphasizes sudden expansion, extended reforms, a public event that causes mass excitement, new branches of science, and revolution in science.
-- `Vernal Point/Uranus = Apollon`: This formula emphasizes sudden events for many and astrology.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

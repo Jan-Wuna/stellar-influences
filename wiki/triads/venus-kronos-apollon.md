@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Kronos Apollon`
 - Astronomicon triad-set: `Q ¤ ¥`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Kronos/Apollon = Venus](../activations/kronos-apollon-equals-venus.md)
-- [Venus/Apollon = Kronos](../activations/venus-apollon-equals-kronos.md)
-- [Venus/Kronos = Apollon](../activations/venus-kronos-equals-apollon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Kronos/Apollon](../axes/kronos-apollon.md) | Venus | [Kronos/Apollon = Venus](../activations/kronos-apollon-equals-venus.md) |
+| [Venus/Apollon](../axes/venus-apollon.md) | Kronos | [Venus/Apollon = Kronos](../activations/venus-apollon-equals-kronos.md) |
+| [Venus/Kronos](../axes/venus-kronos.md) | Apollon | [Venus/Kronos = Apollon](../activations/venus-kronos-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Kronos/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `Venus/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
-- `Venus/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `291`
-- `Venus/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
-- `Venus/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `289`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Kronos/Apollon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-apollon-equals-venus.md#witte-entry), one-based PDF entry-start p. `299`.
+- `Kronos/Apollon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-apollon-equals-venus.md#abc-entry), printed p. `460`.
+- `Venus/Apollon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-apollon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `186`.
+- `Venus/Apollon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-apollon-equals-kronos.md#abc-entry), printed p. `291`.
+- `Venus/Kronos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-kronos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `185`.
+- `Venus/Kronos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-kronos-equals-apollon.md#abc-entry), printed p. `289`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Venus`: expanded friendships through scientists, peacemaking, willingness to help, and state-ratified or officially approved appointments.
-- `Venus/Apollon = Kronos`: friendship with superiors and with people working in the government.
-- `Venus/Kronos = Apollon`: many special favors.
+The `Venus Kronos Apollon` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

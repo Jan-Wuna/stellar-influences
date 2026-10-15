@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Jupiter`
 - Astronomicon formula: `V/g = V`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: printed source page `274`, Jupiter/Node With Itself, Jupiter paragraph; retained printed-page locator, not a newly verified PDF page.
+
 An interest in the social aspects of life and how people are motivated and function together; a need to expand your circle of friends, and to reach those who can help you; approval from friends or those you trust or endorse.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Expanding helpful and approving social connections.
+- psychology: Interest in how people are motivated and function together.
+- body/health: Not represented in this entry.
+- social/relationship: A wider circle of friends and contact with people able to help.
+- events/manifestations: Approval from trusted friends or associates.
+- conflicts/notes: This is Jupiter's specific With Itself entry, distinct from the Node repetition.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry offers no competing account.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Jupiter`: An interest in the social aspects of life and how people are motivated and function together; a need to expand one's circle of friends, and to reach those who can help one; approval from friends or those one trust or endorse.
+With Jupiter repeated in `Jupiter/Node = Jupiter`, the pair's social expansion centers on understanding people and widening access to helpful friends. Approval from trusted associates belongs to the same wish to participate in a supportive circle. This is the Jupiter half of the source's With Itself pair, with its own emphasis on social motivation and assistance. [Munkasey entry](#munkasey-entry)
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
 - [Node](../factors/node.md)
-- [Jupiter](../factors/jupiter.md)
 - [Jupiter/Node](../axes/jupiter-node.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

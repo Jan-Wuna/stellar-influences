@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Mercury`
 - Astronomicon formula: `Y/Asc = T`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To commit fraud with other people. Others deceive through smart talk or lies. “Language was given to men in order that they cover up their thoughts”.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Fine thoughts of the partner, language of an exchanged partner, language with sensitive partner, air traffic at the place, opinions on the subtle environment, uncertainty of the youth in the environment, and water movements in the environment
+Sensitive thoughts of the partner, conversations of a disappointed partner, conversations with a sensitive partner, air traffic at the location, opinions about the subtle environment, uncertainty of youth in the environment, and water movements in the surroundings
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1025`.
 
 #### Ebertin Entry
 
 Tendency to be guided by wrong or erroneous impressions and perceptions, the misfortune to deceive oneself with regard to other people's character or the tendency to exploit other people's weaknesses. Inclined to take the wrong paths in life, malicious scheming.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The way one expresses ideas is subtle and imaginative, although it may not be pe
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Reading others in sales or business situations; helps you communicate important 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: subtle communication and interpretation of others, with erroneous impressions and deliberate concealment among the possibilities.
+- psychology: misreading character, questioning motives, and imaginative expression are explicit.
+- body/health: none of the entries supplies a bodily or health claim.
+- social/relationship: deceptive talk, conversations with a sensitive partner, and communication in sales or business are stated.
+- events/manifestations: expressing important ideas, discussing visions, local air traffic, and water movements are examples.
+- conflicts/notes: imaginative or subtle expression does not prove either accurate perception or deliberate deceit.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize misleading speech and impressions. Sandbach and Munkasey retain imaginative communication and useful reading of others, while acknowledging that expression may be missed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Mercury`: poetic communication, psychological sensitivity, and the ability to read atmospheres and respond delicately. Main caution: mixed signals: thought and self-presentation can become vague, misleading, overinterpretive, or difficult to trust.
+In Neptune/Asc = Mercury, Mercury specifies the pair through speech and the interpretation of another person's motives or character. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries describe deceptive talk and erroneous impressions; [ABC](#abc-entry) adds conversations with sensitive or disappointed partners (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) describes imaginative expression that others may miss, and [Munkasey](#munkasey-entry) includes useful communication in business. These alternatives retain both subtle understanding and misunderstanding, without assuming that sensitivity reliably reveals another person's intentions.
 
 ## Links
 

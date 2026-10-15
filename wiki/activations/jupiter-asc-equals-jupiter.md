@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Asc = Jupiter`
 - Astronomicon formula: `V/Asc = V`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -41,22 +43,21 @@ Increased inspiration to be with others and give them the responses they want to
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Social engagement and responsiveness to others' expectations.
+- Psychology: Motivation to study people and their political aims.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Giving desired responses and making promises people wish to hear.
+- Events/manifestations: Studying political motivations and offering welcome assurances.
+- Conflicts/notes: The entry does not establish whether promises are sincere or fulfilled.
 
 ## Contradictions
 
-- None recorded yet.
+This single With Itself entry supplies both engagement and expectation-shaped promises; it gives no independent source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Jupiter`: Increased inspiration to be with others and give them the responses they want to hear or see; expands needs to study people and their political motivations; promises one make others because they want to hear them.
+In `Jupiter/Asc = Jupiter`, Jupiter specifies the Jupiter/Asc axis through the wish to engage with people and give responses that satisfy them. The [Munkasey Entry](#munkasey-entry) describes greater inspiration to be with others while studying their political motivations and supplying the responses they want. Promises may be shaped by what listeners wish to hear. The organizing theme is socially directed responsiveness, with its potential to favor welcome assurances over an independently established result.
 
 ## Links
 

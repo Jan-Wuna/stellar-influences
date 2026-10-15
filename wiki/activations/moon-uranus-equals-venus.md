@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Uranus = Venus`
 - Astronomicon formula: `R/X = Q`
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `127` (entry start; one-based).
+
 #### Witte Entry
 
 Women energetically defending love. Surprising love adventures. To give oneself up to inner stress.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `186`, PDF p. `92` (entry).
+
 #### ABC Entry
 
-Emulation of the people Art, peaceful event for the people, new love for the woman, loveImpulse of the woman, new women's wishes, sudden joy hour, Surprising love for the woman, tensions through harmony features, and preference for new women
+Renewal of folk art, a peaceful event for the people, new love for a woman, a woman's loving impulses, a woman's new wishes, an hour of sudden joy, surprising love for a woman, tensions through feelings of harmony, and a preference for new women
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `129`, entry `0389`.
 
 #### Ebertin Entry
 
 Self-willed in love, artistic ambition.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `34` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ A softness and lovingness in your ideas about how to act within family situation
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: surprising affection and freely expressed feeling, with artistic or nurturing invention.
+- psychology: self-will in love, artistic ambition, appreciation of emotional shifts, and inner stress are named.
+- body/health: none of the entries supplies a specific bodily condition.
+- social/relationship: defending love, surprising love adventures, and unusual ways of nurturing others are examples.
+- events/manifestations: folk-art renewal, sudden joy, new wishes, and older musical rhythms expressed in modern forms are listed.
+- conflicts/notes: the sources include both tension and loving responsiveness; relationship duration or honesty is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte retains inner stress and energetic defense of love; Sandbach welcomes emotional shifts, and Munkasey describes tenderness in family roles. These differences do not establish inconsistent attachment or inevitable harmony.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Venus`: refreshing affection, stimulating intimacy, and bonds that grow through honesty, space, and emotional inventiveness. Main caution: inconsistency in attachment: warmth can feel exciting but uneven when freedom needs outweigh steadiness.
+In Moon/Uranus = Venus, Venus specifies the pair through surprising affection and appreciation of spontaneous feeling. [Witte](#witte-entry) describes unexpected love adventures and energetic defense of love, while [Sandbach](#sandbach-entry) values unbridled expression and inventive ways of nurturing others. [Ebertin](#ebertin-entry) adds self-will in love and artistic ambition.
+
+Creative renewal is concrete in [ABC's](#abc-entry) folk art and sudden joy (printed p. 186, PDF p. 92) and in [Munkasey's](#munkasey-entry) unusual or modern expression of old rhythms and melodies (p. 124). Tension and tenderness both occur in these entries; neither proves a particular pattern of relationship stability.
 
 ## Links
 

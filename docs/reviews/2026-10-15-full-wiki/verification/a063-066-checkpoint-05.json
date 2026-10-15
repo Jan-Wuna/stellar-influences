@@ -1,0 +1,268 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/saturn-asc-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Admetos"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-apollon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Apollon"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Asc"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-chiron.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Chiron"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-cupido.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Cupido"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-hades.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Hades"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Jupiter"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Kronos"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Mars"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = MC"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Mercury"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Moon"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Neptune"
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Asc = Node"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/saturn-asc-equals-admetos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Perseverance and patience of the partner, depressions of the serious partner, limitations and inhibitions in the place, grilnlich georten environment, problematic barriers in the environment, problems of an underlying partner, and disturbances of a place by congestion",
+      "new_text": "Endurance and patience of the partner, depression of the serious partner, restrictions and inhibitions at the place, a thoroughly disturbed environment, problematic restrictions in the environment, problems of an oppressed partner, disturbances of a place through congestion.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-apollon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Extension of an old place, serious trade partner, extension of environmental prob lems, problematic environmental experiences, multiplication of environmental problems, wider environmental tasks, increased disturbances in the place, and growing losses of a place",
+      "new_text": "Expansion of an old place, a serious trading partner, expansion of environmental problems, problematic environmental experiences, multiplication of environmental problems, extensive environmental tasks, increased disturbances at the place, growing losses of a place.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-cupido.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Old local community, serious partner community, patience of a local community, common partner community, common separation from one place, common environmental problems, local community, and problems with other communities",
+      "new_text": "An old local community, a serious partnership community, patience of a local community, an inhibited partnership community, shared separation from a place, shared environmental problems, a disturbed local community, problems with other communities.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-hades.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Age of mysterious place, old historical place, tasks in a dangerous place, deprivation and patience for the environment, serious partner service, difficult environmental tasks, patient abandonment of the partner, and disadvantages of a problematic environment",
+      "new_text": "An old mysterious place, an old historical place, tasks at a dangerous place, deprivation and patience for the environment, serious service to a partner, difficult environmental tasks, patient renunciation by the partner, disadvantages of a problematic environment.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-jupiter.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Successful separation from one place, financial problems with others, joy in an old place, money losses in the place, problematic environmental outcomes, legal problems with others, environmental success through patience, and satisfied with a serious partner",
+      "new_text": "Successful separation from a place, financial problems with others, joy in an old place, money losses at the place, problematic environmental outcomes, legal problems with others, environmental success through patience, satisfaction with a serious partner.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Special patience of the partner, staggered self reliance by the partner, large environmental losses, large losses for a place, self reliable partner in old age, state environmental tasks, priority environmental tasks, and important problems at the site",
+      "new_text": "Special patience of the partner, independence disturbed by the partner, major environmental disturbances, great losses for a place, an independent partner in old age, state environmental tasks, priority environmental tasks, important problems at the place.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Work in an old place, work problems with others, serious partner work, patience with others at work, stored work at the place, site cancellations through work, problematic environmental work, separation from work at the place, and loss of work at the place",
+      "new_text": "Work in an old place, work problems with others, serious partnership work, patience with others at work, disturbed work at the place, local disturbances through work, problematic environmental work, separation from work at the place, loss of work at the place.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Others are hurt to me, I'm hard to the other, my partner is sick, my partner is patient, my difficulties with others, my environmental tasks, and my problems with the environment",
+      "new_text": "Others are hard on me, I am hard on others, my partner is serious, my partner is patient, my difficulties with others, my environmental tasks, my environmental problems, my separation from the place, inner strain of the partner.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-mercury.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Serious partner language, patient language in the environment, inhibited young partner, local traffic, youth problems in the area, discussing problems with others, disturbances by the youth of a place, and environmental tasks for the youth",
+      "new_text": "Serious conversations with a partner, patient conversations in the environment, an inhibited young partner, disturbed local transport, youth problems in the surroundings, discussing problems with others, disturbances through the youth of a place, environmental tasks for youth.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-moon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Old woman in the village, patient woman in the environment, feelings storage in one place, disturbance Gehle the Partners, problematic woman in the environment, problems with other women, hour of separation from the partner, separation from the place of women, and environmental tasks of a people",
+      "new_text": "An older woman at the place, a patient woman in the environment, emotional disturbances at a place, disturbed feelings of the partner, a problematic woman in the environment, problems with other women, an hour of separation from the partner, separation from the woman's place, environmental tasks of a people.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 115
+      },
+      "old_text": "Old place on the water, tasks in the environment, small and medium sized partners, pollution and insecurity in the environment, air pollution at the site, unknown disturbances in the environment, and water pollution at the site",
+      "new_text": "An old place by water, tasks at waters in the surroundings, a serious sensitive partner, inhibitions and uncertainty in the environment, problems with the air at the place, weak patience of the partner, unknown disturbances in the surroundings, separation from a place by water.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    },
+    {
+      "path": "wiki/activations/saturn-asc-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 56,
+        "printed_page": 114
+      },
+      "old_text": "Old location connection, serious partner connection, inhibited local relationships, spaced local connections, contact problems with others, associated with environmental tasks, problematic environmental connections, and separation of local connections",
+      "new_text": "An old local connection, a serious partnership connection, inhibited local relationships, disturbed connections at the place, contact problems with others, connection with environmental tasks, problematic environmental connections, separation of local connections.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p56.png",
+      "inspection": "Exact activator glyph, complete German row and neighboring row boundaries visually read."
+    }
+  ],
+  "raw_locator_passages": [
+    {
+      "source_file": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "pdf_page": 94,
+      "raw_text": "connection or restriction of connection with others is due to how one see’s oneself.\nMidheaven: When one is open to spiritual guidance and direction one finds \noneself entering into profound connections with others. All difficulties in \nconnecting with others impel one to become more closely aligned with one’s \nhigher self.\nPlanets activating the Saturn/Ascendant midpoint\nPrinciple: To feel restricted or limited by the role one plays in life. To dislike \none’s own appearance and/or outer characteristics. A fear of allowing one’s \nidentity to change.\nThe need to perceive the spiritual purpose of one’s role in life. A person who \ncomes across as sincere, serious, and/or somber, and maybe laconic. One who \nis seen as limited or inadequate, or as a wise one or elder. Relationships that \nare difficult, pro found, and which test or try the people involved in them. The \nslow, gradual unfolding of relationships.\nProcess: Coming into an awareness of the restrictions imposed by one’s outer \nidentity, and finding ways to work creatively with these. The realization of the \nlimitations one im poses on oneself.\nSun: One prides oneself on being a serious, dependable person. One works \ntoward one’s goals by playing a serious, dependable role in life. One is \nvitalized by having deep, spiritual relationships.\nMoon: Security comes through having a structured and definite role to play in \nlife. One is impressionable to negative reactions about oneself coming from \nother people. Se cure, dependable relationships make one feel nurtured and \nsafe.\nMercury: One’s ideas are presented in a serious, organized manner, though \nmay be ill- received by people if you have a lack of confidence in yourself.\nVenus: A love of being taken seriously. A beautiful way of presenting oneself as \nhaving depth and wisdom. One finds it easy to be taken seriously.\nMars: Action carried out in a careful, patient, serious manner. The desire and \nability to work on your own limitations and inadequacies.\nJupiter: Enthusiasm is hampered by self-uncertainty. Your enthusiasm comes \nacross as serious and sincere. A positive attitude toward working out the \nproblems encountered when relating.\nChiron: Your very being helps others to identify more fully with their spiritual self, \nand to overcome feelings of personal inadequacy. You also help people to relate \nin a deeper more profound fashion.\nUranus: You want others to take your uniqueness and originality seriously. The \ndesire to be free of one’s personal limitations and inadequacies. At worst, you \nignore them, but can only do this for so long. At best, you see how you really need \nthem because they help you to grow, and commit yourself to working on them as \n"
+    },
+    {
+      "source_file": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "pdf_page": 95,
+      "raw_text": "a path toward liberation.\nNeptune: To have idealistic fantasies about being taken seriously. Confusion or \nchaos affecting the structure of one’s relationships and the potential for deep \nintuitive insights into the problems, limitations and restrictions encountered in \nthem. The breaking down of personality structure, so that it might be \nreconstituted at a higher and more refined level.\nPluto: You are relentlessly pushed to come to terms with the limitations you place \non your own identity. An extreme need to spiritualize one’s identity. To be \nobsessively rigid\nin one’s personality. An intensely defensive persona.\nNode: You play the role of wise one when you connect to other people. The \ntendency to seek out connections that reinforce all of one’s limitations and \ninadequacies, and the need to seek connections that help one to learn from \noneself and spiritualize one’s identity.\nMidheaven: Connection with authority figures who reinforce one’s sense of \npersonal limitations and inadequacies. This is happening so that eventually you \nwill learn to con nect more with your spiritual self so that your identity become \ngradually more in align ment with it.\nPlanets activating the Saturn/Midheaven midpoint\nPrinciple: The finding of true spirituality through union with the Spiritual Light. \nDifficul ties in allowing in spiritual messages. The need to listen to the spiritual self \nwithin rather than to outer authorities. Trouble with authority figures. The slow \nattainment of success in one’s career. The tendency to question whether or not \none is following the right ca reer, because one so deeply yearns for a line of work \nthat is truly and spiritually fitting for the self.\nProcess: The realization of the restrictions that society imposes on oneself, and \nthe finding of creative ways of working with these. The questioning of authorities \nand au thority figures in an attempt to find answers that resonate with what one \ndeeply knows to be spiritual truth.\nSun: One feels it is important to find the right sort of authority figures who one \ncan trust and from whom one can receive needed guidance. Frustrations \nconcerning one’s\ncareer cause a lack of self-confidence or self-esteem. When one is truly pursuing \none’s spiritual path one has much vitality.\nMoon: One finds security in a settled and certain career, but this can change to \ninsecu rity eventually if it is not the right career for you. One is very \nimpressionable to the ideas of people in authority.\nMercury: One aims for absolute ethicality in one’s thinking and communicating. \nOne is uncertain about the rectitude of one’s ideas because one feels insecure \nabout being one’s own authority.\n"
+    },
+    {
+      "source_file": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "pdf_page": 262,
+      "raw_text": "Saturn/Ascendant VA \n0915 =0 \nA keen awareness of the lack in freedom of movement, a strong desire \nto go one's own way in life. Difficult circumstances of living, suffer- \ning from conditions of the environment, the process of getting ill, the \nact of separation. \n0916 = }) \nFeelings of depression caused by the environment. Inhibitions in the \npresence of others, ill humor and disagreeable moods, a person easily \ninfluenced by the environment. Separation of female persons. \n0917 = 5 \nThe influence of the environment upon one's way of thinking, the \nmisfortune to get into trouble through others, change of environment, \na trip. \n0918 = 9 \nAn inhibited and depressed expression of feeling and love caused by \ninfluences within the environment. Voluntary separation. \n0919 = 0\" \nTaking strong action against depression and inhibition, obstinacy, \nself-will. Being placed in disquieting or turbulent circumstances, sep- \naration, mourning and bereavement. \n0920 = 4 \nIndifference, tendency to ignore or bypass difficulties, happy content- \nment in modest circumstances. Joy over a separation, a change of \nplace or residence. \n0921 =# \nSelf-willed and obstinate conduct in contact with others. An extraor- \ndinary or unusual dispute, enforced separation, running away. \n0922 = V \nA depressing environment, emotional suffering through others. Sepa- \nration caused through disagreements. \n0923 = t \nSuffering through violent or brutal suppression. Compulsory confine- \nment or retention. \n260 \n"
+    },
+    {
+      "source_file": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "pdf_page": 263,
+      "raw_text": "0924 = Q \nBeing placed in unpleasant family circumstances. The inclination to \nseclude oneself from others. \n0925 = M \nDifficult growth of individual expression, the inclination to feel de- \npressed, oppressed, inhibited, frustrated or slighted by others. Suffer- \ning from other people's actions, gaining experience. Emotional suf- \nfering through separation, the misfortune to be hindered in the fulfil- \nment of one's objectives in life. \n261 \n"
+    }
+  ]
+}

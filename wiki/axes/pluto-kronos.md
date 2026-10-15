@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Z/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `PLUTO + KRONOS`
+- PDF page (one-based): `260` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Development of ability or skills. Examination. Testing. Apprentice, helper (jour
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `414–415`; PDF page (one-based): `206` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Special development, development in a hierarchy, development to self indulgence, large changes, self indulgence, state change, growing authoritat, and important change
+Special development, unfolding within a hierarchy, development toward independence, great changes, self-confident development, changes in the state, growing authority, important change.
+
+## Comparative Schema
+
+- core meaning: development of ability, standing, or authority, often through advancement or a major change in hierarchy ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: proving ability and attaining mastery are explicit Witte themes; ABC adds independence and self-confident development.
+- body/health: neither pair summary supplies a bodily or medical correspondence.
+- social/relationship: apprentice, journeyman/helper, master, superior, and government are named roles or structures; Witte's “self-made man” is a historically gendered social-rise example.
+- events/manifestations: examinations, certified tests, rising in rank, changing a boss, and changes in the form of government are Witte's concrete expressions.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, replacing erroneous self-indulgence with independence and self-confident development. These are possibilities, not proof of merit or guaranteed advancement.
 
 ## Related Activations
 
@@ -103,11 +119,16 @@ Special development, development in a hierarchy, development to self indulgence,
 - [Pluto/Kronos = Vulcanus](../activations/pluto-kronos-equals-vulcanus.md)
 - [Pluto/Kronos = Zeus](../activations/pluto-kronos-equals-zeus.md)
 
+## Contradictions
+
+Skill development, upward mobility, a new superior, and government change are distinct scales of the pair theme, not a guaranteed promotion. ABC's complete bold summary was retranslated from PDF206, printed414–415, restoring independence, self-confidence and authority. Witte's exact pair passage is confirmed on PDF260.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes development of ability or skills; Examination; Testing; Apprentice, helper (journeyman); Master; Development upwards; To ascend in rank; Change of boss.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Pluto/Kronos` concerns development that changes a person's level of ability or standing. The [pair summary](#pair-summary) gives a concrete progression from apprenticeship and testing to mastery, certification, and higher rank; the [ABC entry](#abc-pair-summary) also names development within a hierarchy, growing authority, independence and self-confident development. Advancement here is connected with proving or developing capacity, not merely holding a title.
+
+The range extends to a change of superior or form of government, while Witte's historically gendered “self-made man” and newly rich example describes social rise. These are possibilities at different scales, without a guarantee of promotion or wealth. The entries supply no general health delineation or corresponding negative personality; the particular contribution of another factor belongs to its exact [activation page](#related-activations).
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Moon Venus Node](../triads/moon-venus-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Woman’s love ties. Ties to loving women. Love ties with many people.
 
 #### ABC Entry
 
-Peace mediation of a people, peaceful union of the refugees, fleeting encounter with art, love relations with women, peaceful people connections, harmonious community connection, contact pleasure of the woman, and connection to the woman
+- Source reference: printed p. 210; one-based PDF p. 104, Venus/Node, Moon row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Peace mediation by a people, peaceful union of feelings, an emotional encounter with artists, love relationships with a woman, peaceful connections between peoples, a harmonious emotional bond, a woman's joy in contact, and wishing for connection with a woman.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Aids in the assistance or support you receive for your family thru group or pers
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional involvement in loving connections and communal support.
+- psychology: Expressed feeling, a need for understanding, vulnerability, and mood-dependent openness.
+- body/health: No specific bodily or health claim is supplied.
+- social/relationship: Loving ties, support for family through associations, and group connection.
+- events/manifestations: Advice that changes an approach to others and popular peace coalitions.
+- conflicts/notes: Historical references to women remain source-specific; Gefühle means feelings, not refugees, and Künstlern means artists.
 
 ## Contradictions
 
-- None recorded yet.
+Mood-dependent vulnerability and cordial understanding are compatible possibilities. The historically gendered examples do not define everyone represented by this formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Moon`: nurturing friendship, emotional reciprocity, and supportive domestic or communal ties. Main caution: sentimental attachment: the desire for closeness can become clingy, overly pleasing, or too dependent on mood and reassurance.
+In `Venus/Node = Moon`, Moon specifies the Venus/Node connection as an emotional need for loving contact and understanding. The [Ebertin entry](#ebertin-entry) emphasizes showing feelings and seeking genuine understanding; the [Sandbach entry](#sandbach-entry) adds vulnerability and changes in openness with mood. The [Munkasey entry](#munkasey-entry) gives family support through associations and peace coalitions as social expressions. The [Witte entry's](#witte-entry) ties to women remain attributed examples rather than a universal restriction.
+
+The [ABC entry](#abc-entry) connects this emotional range to a peaceful union of feelings, an emotional encounter with artists and peaceful connections between peoples; its female examples remain attributed.
 
 ## Links
 

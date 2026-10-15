@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Moon`
 - Astronomicon formula: `X/£ = R`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Persons who obey an order, listen to a command, who are eager and ready. Furies. Sudden strong explosion for the hour. Nation in arms.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excited movement of a people, dynamic people's leadership, fiery impulses of a woman, powerful creative impulses, re design of a people, new women's goals, creative feelings impulses, and technical achievements of a people
+- Source page: 378 (printed); PDF page: 188.
+
+Excited leadership of a people, dynamic people's leadership, fiery impulses of a woman, emotional creative impulses, re design of a people, new women's goals, creative feelings impulses, and technical achievements of a people
+
+## Comparative Schema
+
+- Core meaning: A public mobilized by directed force.
+- Psychology: Readiness, eagerness, emotional impulses.
+- Body/health: No diagnosis; gendered language is historical.
+- Social/relationship: National leadership and obedience to orders.
+- Events/manifestations: Nation in arms; technical public achievements.
+- Conflicts/notes: Witte's “Furies” and ABC's woman-language are attributed images.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's “Furies” and ABC's woman-language are attributed images.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Moon`: Persons who obey an order, listen to a command, who are eager and ready. Furies. Sudden strong explosion for the hour. Nation in arms.
-- Practical expression: excited movement of a people, dynamic people's leadership, fiery impulses of a woman, powerful creative impulses, and re design of a people.
+Moon specifies Uranus/Zeus through the readiness and movement of a public under direction. Obedience, mobilization, and national technical achievements connect collective response with forceful leadership. Emotional creation and the source's woman-language add a personal range without establishing universal sex-based traits. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

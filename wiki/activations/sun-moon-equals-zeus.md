@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Zeus`
 - Astronomicon formula: `S/R = £`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: PDF page 101, Zeus entry under Sun + Moon.
+
 Days and hours in which a lot is accomplished. The daily urge for productive activity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts between woman and man, fire at day in hour, fiery feelings of man, creative people of a people, creative gesture of man, day and hour of procreation, procreation between woman and man, and determined wife of man
+Source locator: printed page 139 / PDF page 68, Zeus glyph row under Sun + Moon. English translation checked against the scan.
+
+Efforts between woman and man, fire during the day in the hour, the man's fiery feelings, creative people of a nation, the man's creative disposition, day and hour of procreation, procreation between woman and man, and the man's goal-oriented wife.
+
+## Comparative Schema
+
+- Core meaning: Productive effort and creative feeling directed toward accomplishment.
+- Psychology: Fiery feelings, a creative disposition and goal-directedness.
+- Body/health: ABC includes procreation without a specified health condition or fertility outcome.
+- Social/relationship: Efforts between woman and man and a goal-oriented wife are ABC's examples.
+- Events/manifestations: Productive activity and accomplishment; creative work, fire and procreation appear in ABC.
+- Conflicts/notes: Fire and procreation are distinct source examples; day/hour wording supplies no timing method or inevitable event.
+
+## Contradictions
+
+Both entries emphasize productive or creative activity. ABC's emotional, gendered, fire and procreation examples give a broader range than Witte's short accomplishment statement, without a direct conflict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Moon = Zeus`: creative vitality and a strong drive to act.
-- Practical expression: efforts between woman, fire at day in hour, fiery feelings of man, creative people of a people, and creative gesture of man.
+In `Sun/Moon = Zeus`, Zeus specifies the Sun/Moon pair through creative feeling and effort that seek a productive result. [Witte's entry](#witte-entry) emphasizes the urge to accomplish, while [ABC's entry](#abc-entry) gives fiery feelings, a creative disposition and goal-directedness alongside efforts between woman and man. The connection is personal involvement taking a productive form. ABC also includes literal fire and procreation among its examples; these do not establish a fire forecast, fertility claim or event timing.
 
 ## Links
 

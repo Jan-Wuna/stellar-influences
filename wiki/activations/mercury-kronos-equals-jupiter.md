@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Jupiter`
 - Astronomicon formula: `T/¤ = V`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 A good spiritual leader or orator. Obliged to deliver a lecture. To be sworn in (to take oath).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `260`; PDF page: `129`.
+
 #### ABC Entry
 
-Special youth law, dominant media successes, successful financial language, financial traffic of the authority, joy over speech with authoritates, joy over important news, great happiness in youth, and important legal language
+German passage (transcribed from PDF page `129`, printed page `260`):
+
+> Besonderes Jugend-Recht, dominierende Medien-Erfolge, erfolgreiche Finanz-Gespräche, Finanz-Verkehr der Behörde, Freude über Gespräche mit Autoritäten, Freude über wichtige Nachrichten, großes Glück in der Jugend, wichtige Rechts-Gespräche
+
+Editorial translation from the German passage: Particular youth law; dominant media successes; successful financial conversations; the authority's financial dealings; pleasure in conversations with authorities; pleasure in important news; great happiness in youth; important legal conversations.
+
+## Comparative Schema
+
+- core meaning: Recognized oratory and formal speech ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Joy in important news or discussion with authorities is explicit.
+- body/health: No bodily condition appears.
+- social/relationship: A spiritual leader or speaker, authorities, and a young person's position are named.
+- events/manifestations: Delivering a lecture, taking an oath, legal discussion, and official finance are examples.
+- conflicts/notes: An obligation to speak or swear an oath is not evidence of voluntary enthusiasm.
+
+## Contradictions
+
+Witte's good speaker appears alongside being obliged to lecture or take an oath. ABC adds successful official discussion; these settings do not establish that authority guarantees moral merit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Jupiter` brightens the axis into noble oratory and public affirmation.
-- Chart expression: a worthy spiritual leader or speaker, formal lectures and oaths, and ideas that carry moral or official sanction in public settings.
+In `Mercury/Kronos = Jupiter`, Jupiter specifies important thought through oratory, formal acknowledgment, and successful official exchange. Witte's spiritual leader or speaker sits beside an obligation to deliver a lecture and taking an oath. ABC adds pleasure in talking with authorities or receiving important news, and successful finance or legal discussions. The connected field is speech carrying consequence or recognition, with obligation retained where the source states it ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

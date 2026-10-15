@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Uranus Asc Poseidon](../triads/uranus-asc-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To instill ideas in others, to stimulate them mentally or to be stimulated. To s
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 388; PDF p. 193.
+
 #### ABC Entry
 
-Enormous truth of the partner, intellectual emancipation of the environment, cultural event in the place, cultural emanation of the environment, new ideas of the partner, sudden clarity with other, surprising environmental knowledge, and future technology in the place
+Exciting truth of the partner, intellectual renewal of the environment, a cultural event at the location, cultural renewal of the environment, new ideas of the partner, sudden clarity with others, surprising insights into the environment, rational technology at the location.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Mental stimulation exchanged with others.
+- psychology: Giving or receiving ideas and sudden clarity.
+- body/health: Neither excerpt specifies a health condition.
+- social/relationship: Joint explanation, propaganda or community viewing of films.
+- events/manifestations: Public sharing of information and local cultural events.
+- conflicts/notes: The partner and local-environment motifs do not establish a universal personality trait.
+
+## Contradictions
+
+Witte explicitly includes both enlightenment and propaganda, so mental influence is not uniformly beneficial. ABC adds a partner's ideas, local renewal and rational technology. Its former enormous-truth, emanation and future-technology wording has been corrected from printed p. 388 (PDF p. 193).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Asc`: To instill ideas in others, to stimulate them mentally or to be stimulated. To spread enlightenment and propaganda together with others. Showing motion pictures to a community.
-- Practical expression: enormous truth of the partner, intellectual emancipation of the environment, cultural event in the place, cultural emanation of the environment, and new ideas of the partner.
+In `Uranus/Poseidon = Asc`, Asc places mental stimulation in interaction with other people: ideas can be instilled, received or spread in collaboration. [Witte](#witte-entry) gives both enlightenment and propaganda, with community film screenings as a concrete medium. [ABC](#abc-entry) adds a local cultural setting and a partner's new ideas; the entries describe exchange and influence without ensuring the quality of the message.
 
 ## Links
 

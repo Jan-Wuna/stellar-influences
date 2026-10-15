@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Uranus Kronos Apollon](../triads/uranus-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Great tension and expectation caused through measures taken by the state. Sudden
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 383; PDF p. 190.
+
 #### ABC Entry
 
-Special technical successes, new experiences with the authorities, sudden great success, self confidence through new knowledge, surprising state success, recognition of tensions in the state, important technical experiences, and important new knowledge
+Special technical successes, new experiences with the authorities, sudden great success, self-confidence through new knowledge, surprising state success, an increase of tensions in the state, important technical experiences, important new knowledge.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Expansion of authority or technical achievement in a state setting.
+- psychology: Self-confidence, expectation and tension.
+- body/health: No specific bodily condition is supplied.
+- social/relationship: Authorities and state measures are explicit.
+- events/manifestations: State success, technical achievement and expanded authority.
+- conflicts/notes: An increase in state tension is the actual ABC phrase, not merely its recognition.
+
+## Contradictions
+
+Witte emphasizes tension caused by state measures and expanded authority. ABC adds successful technical or state outcomes but also increasing state tension. Success does not erase the strain.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Kronos`: Great tension and expectation caused through measures taken by the state. Sudden expansion of an authority.
-- Practical expression: special technical successes, new experiences with the authorities, sudden great success, self confidence through new knowledge, and surprising state success.
+In `Uranus/Apollon = Kronos`, Kronos specifies expansion through authority and important technical achievement. [Witte](#witte-entry) describes tension and expectation caused by state measures or an authority growing suddenly. [ABC](#abc-entry) adds success, new knowledge and self-confidence, while retaining an increase in state tensions. A larger scope of authority or accomplishment remains distinct from a uniformly favorable political outcome.
 
 ## Links
 

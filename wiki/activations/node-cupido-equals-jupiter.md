@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Jupiter Node Cupido](../triads/jupiter-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Jolly wedding. Hilarity in social company. Fortunate social connection.
 
 Successful connections to of a community, joy over connection to the whole, money transmitting community, happiness through links to the arts, legal mediation of a community, and connection to a financial community
 
+## Comparative Schema
+
+- core meaning: Joy and benefit through shared social or community connections.
+- psychology: Pleasure in company and joy in belonging to a wider whole.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Celebratory gatherings, fortunate associations, and art connections.
+- events/manifestations: A happy wedding; financial communities and legal mediation in ABC.
+- conflicts/notes: The financial examples concern community links, not assured personal wealth.
+
+## Contradictions
+
+The entries share a favourable social theme. ABC adds financial and legal settings rather than contradicting Witte's celebration and good company.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Jupiter`: Jolly wedding. Hilarity in social company. Fortunate social connection.
-- Practical focus: jolly wedding; also hilarity in social company.
+Jupiter specifies Node/Cupido through the enjoyment and benefit found in social belonging. The [Witte entry](#witte-entry) places this in a joyful wedding, cheerful company, and fortunate connections. The [ABC entry](#abc-entry) extends that benefit to artistic, financial, or legal community links. Shared happiness and useful association connect these examples; the formula does not by itself establish personal wealth.
 
 ## Links
 

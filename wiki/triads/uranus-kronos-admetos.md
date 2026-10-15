@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Kronos Admetos`
 - Astronomicon triad-set: `X ¤ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Kronos/Admetos = Uranus](../activations/kronos-admetos-equals-uranus.md)
-- [Uranus/Admetos = Kronos](../activations/uranus-admetos-equals-kronos.md)
-- [Uranus/Kronos = Admetos](../activations/uranus-kronos-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Admetos = Uranus](../activations/kronos-admetos-equals-uranus.md) | [Kronos/Admetos](../axes/kronos-admetos.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Admetos = Kronos](../activations/uranus-admetos-equals-kronos.md) | [Uranus/Admetos](../axes/uranus-admetos.md) | [Kronos](../factors/kronos.md) |
+| [Uranus/Kronos = Admetos](../activations/uranus-kronos-equals-admetos.md) | [Uranus/Kronos](../axes/uranus-kronos.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Kronos/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `463`
-- `Uranus/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
-- `Uranus/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `385`
-- `Uranus/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `381`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Kronos/Admetos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-admetos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `300`.
+- `Kronos/Admetos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-admetos-equals-uranus.md#abc-entry), printed p. `463`.
+- `Uranus/Admetos = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-admetos-equals-kronos.md#witte-entry), one-based PDF entry-start p. `241`.
+- `Uranus/Admetos = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-admetos-equals-kronos.md#abc-entry), printed p. `385`.
+- `Uranus/Kronos = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-kronos-equals-admetos.md#witte-entry), one-based PDF entry-start p. `239`.
+- `Uranus/Kronos = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-kronos-equals-admetos.md#abc-entry), printed p. `381`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Uranus`: abrupt entry into an odd position, a sudden reversal of circumstances, and crisis produced by becoming unexpectedly set apart.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

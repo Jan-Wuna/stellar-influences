@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Mars`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = U`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Mars](../triads/sun-venus-mars.md)
@@ -45,7 +46,9 @@ Love activity of a man.
 
 #### ABC Entry
 
-Work at the art, Harmonisch handeltende Person, artistic work of a man ' Love activity in the day, manlike love actions, human affection activate, create shaneness of the carper, and preference for carnal work
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, mars row (eight clauses). Translation from the German scan:
+
+Work in an art center; a person acting harmoniously; a man's artistic work; love activity during the day; male acts of love; activating human affection; creating beauty of the body; preference for physical work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Urgency and passion tied to your needs for affection, and also the ways you give
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Affection becomes active, passionate, or creatively productive.
+- psychology: Artful assertion can alternate with smug or selfish assertion.
+- body/health: Ebertin names the desire to beget children, not a fertility diagnosis.
+- social/relationship: Passion may include arguments and jealousy about giving or receiving love.
+- events/manifestations: Creative work, love activity, and attempts to create beauty are explicit.
+- conflicts/notes: Sandbach's controlled passion and Munkasey's urgency emphasize different possible expressions.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. ABC explicitly names harmonious action, art-center work, bodily beauty and physical work; the sources' passionate and controlled expressions remain alternatives.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Mars`: passionate self-expression, artistic drive, and the ability to act decisively in matters of love and social value. Main caution: friction in charm: attraction can become competitive, provocative, or too heat-driven for steady harmony.
+Mars specifies Sun/Venus as the impulse to act on affection: creating beauty, pursuing love, and giving pleasure. This can be centered and artful, but the same urgency can become arguments or jealous passions when how love is given or received is disputed. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

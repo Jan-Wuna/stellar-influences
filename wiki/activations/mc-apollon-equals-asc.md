@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Asc MC Apollon](../triads/asc-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To have many acquaintances. Social scientists. Knowledge of human nature. One wh
 
 #### ABC Entry
 
-My success, my knowledge of the environment, my knowledge of the partner, my freedom in the place, my experience in the place, my business partners, my success in the environment, my experience in the sector, and the soul of the partner
+- Source passage: `MC + Apollon`; printed p. `92`; one-based PDF page `45` (complete oriented row checked against the raw scan).
+
+My success with others, my knowledge of the environment, my knowledge of the partner, my expansion at the location, my freedom at the location, my local experiences, my trading partners, my successes in the environment, inner experiences with a partner, the partner's breadth of soul.
+
+## Comparative Schema
+
+- **Core meaning:** Knowledge and success through contact with people and surroundings.
+- **Psychology:** Understanding human nature and knowing a partner are explicit.
+- **Body/health:** No specific bodily or medical association is established.
+- **Social/relationship:** Many acquaintances, customers, and business partners are named.
+- **Events/manifestations:** Social-science work and dealings with customers are possible activities.
+- **Conflicts/notes:** ABC distinguishes success with others, local expansion and freedom, partner experience and the partner's breadth of soul; these are distinct source examples rather than a single generic sector experience.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Asc` brings the axis into contact with many people, customers, and social observation.
-- Chart expression: wide acquaintance, practical knowledge of human nature, and a personal role shaped through exchange with the public, clients, or socially varied circles.
+Asc specifies `MC/Apollon` through knowledge gained among other people: a wide acquaintance and dealings with customers meet experience of one's surroundings and partners. ABC also retains expansion and freedom at the location and the partner's inner breadth. This connects social observation with practical exchange; the named social-science setting is a possible field of expression, not an occupation guaranteed by the formula. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

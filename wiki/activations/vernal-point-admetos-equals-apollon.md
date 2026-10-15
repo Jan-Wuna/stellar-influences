@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Apollon Admetos](../triads/vernal-point-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Limited success. General difficulties in commerce and trade. Finding extensive raw materials. Dying of the masses.
 
@@ -42,13 +46,27 @@ Limited success. General difficulties in commerce and trade. Finding extensive r
 
 #### ABC Entry
 
+- Source page: 55; PDF page: 26 (one-based spread).
+
 Restricted success in public, successful consolidation of public life, successful deepening of public life, resistance of science in public, and public success through perseverance
+
+## Comparative Schema
+
+- core meaning: Limited public or commercial success, with consolidation through perseverance.
+- psychology: Perseverance is named without a fuller personal disposition.
+- body/health: No bodily mechanism is supplied.
+- social/relationship: No detailed interpersonal pattern is supplied.
+- events/manifestations: Trade difficulties, raw-material discoveries, and public consolidation; Witte also lists mass death.
+- conflicts/notes: Mass death is an attributed historical association, not a prediction; success is explicitly limited.
+
+## Contradictions
+
+Limited success and successful consolidation are different possible outcomes. Raw materials and mass death are separate Witte examples, not a causal sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Apollon`: limited success, general difficulties in commerce and trade, finding extensive raw materials, and dying of the masses.
-- Practical expression: restricted success in public, successful consolidation of public life, successful deepening of public life, resistance of science in public, and public success through perseverance.
+In `Vernal Point/Admetos = Apollon`, Apollon specifies the pair through public and commercial scope. The [Witte entry](#witte-entry) names limited success and trade difficulties, while the [ABC entry](#abc-entry) allows public consolidation and deepening through perseverance. Finding extensive raw materials is an additional concrete Witte application. Its mass-death phrase remains an attributed historical association; the entries do not supply a causal chain linking commerce, resources, and that event.
 
 ## Links
 

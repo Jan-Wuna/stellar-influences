@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Admetos/Poseidon = Asc`
 - Astronomicon formula: `¦/¨ = Asc`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-ln company with educated persons or persons who have a position in a school, educational or cultural system. Educational influence upon others. Training and education together with others.
+Reference: one-based PDF p. 312 (entry start).
+
+In company with educated persons or persons who have a position in a school, educational or cultural system. Educational influence upon others. Training and education together with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked place of culture, great blockage of the partner, mental underpressure of others, spiritual procreation at the place, spiritual deepening with the partner, grtindlich clarity with others, place of truth fortress, and deepening of the environmental insights
+Reference: printed p. 476 (PDF p. 237).
+
+A blocked cultural setting, intellectual blockage of the partner, intellectual suppression of others, intellectual origination in a place, intellectual deepening with the partner, thorough clarity with others, a place where truth is consolidated, and deepening understanding of the surroundings.
+
+## Comparative Schema
+
+- core meaning: Education and intellectual formation in a shared environment.
+- psychology: Clarity and deeper understanding with others; intellectual blockage is also named.
+- body/health: Neither entry supplies a medical meaning.
+- social/relationship: Educated company, educational influence, shared training, and a partner's intellectual restriction or deepening.
+- events/manifestations: A cultural or educational setting may consolidate understanding or become blocked.
+- conflicts/notes: The [ABC entry](#abc-entry) concerns surroundings and other people, not a general personality profile; the [Witte entry](#witte-entry) emphasizes learning together.
+
+## Contradictions
+
+Shared education and intellectual restriction are different possible qualities of the same setting. The entries do not establish an exclusive choice between them or a contradiction about the person's character.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Asc`: educational influence, refined company, and a personality marked by depth, seriousness, and cultural or instructional presence. Main caution: narrow formation: social contact can become overly scholastic, exclusive, or constrained by one dominant educational atmosphere.
+In `Admetos/Poseidon = Asc`, Asc specifies the pair through other people and the immediate educational or cultural setting. The [Witte entry](#witte-entry) describes educated company, learning together, and influencing others through education. The [ABC entry](#abc-entry) gives that shared setting a wider range: clearer and deeper understanding with a partner or others, but also a blocked cultural environment and intellectual suppression. These entries concern the conditions of shared understanding; they do not establish a fixed personality type.
 
 ## Links
 

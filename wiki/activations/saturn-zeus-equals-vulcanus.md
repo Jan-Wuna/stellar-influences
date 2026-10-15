@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Zeus](../axes/saturn-zeus.md)
 - Triad hub: [Saturn Zeus Vulcanus](../triads/saturn-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 226 (one-based).
 
 To be under sharp vigilance and supervision during work. Guarded or watched at work.
 
@@ -42,13 +46,27 @@ To be under sharp vigilance and supervision during work. Guarded or watched at w
 
 #### ABC Entry
 
-Start, problems of leadership power, losses through fire energies Serious cognition struggle, mental efforts in old age, mental tasks, mental leadership tasks, patient pursuit of truth, and creation of problematic
+Source locator: printed page 359; PDF page 178 (one-based).
+
+Beginning power problems, leadership influence in old age, influential shaping of tasks, strong achievements of concentration, enormous strain through fire, powerful inhibitions at the start, problems of leadership power, and losses through fire energies.
+
+## Comparative Schema
+
+- core meaning: Work and leadership operate under strong pressure, supervision or inhibition.
+- psychology: Intense concentration is possible alongside a heavily inhibited start.
+- body/health: ABC lists enormous strain through fire but establishes no specific bodily condition.
+- social/relationship: Close workplace supervision and problems involving leadership power.
+- events/manifestations: Influential task design, watched work and losses through fire energies.
+- conflicts/notes: ABC retains concentration and influence; Witte emphasizes being supervised rather than wielding power.
+
+## Contradictions And Comparison Notes
+
+The sources describe different positions within pressured activity: being watched at work and having influence or leadership problems. The previous ABC transcription included the following Poseidon row, now removed after glyph inspection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Zeus = Vulcanus`: to be under sharp vigilance and supervision during work, guarded or watched at work.
-- Practical expression: start, problems of leadership power, losses through fire energies Serious cognition struggle, mental efforts in old age, and mental tasks.
+For `Saturn/Zeus = Vulcanus`, activity is shaped by strong control, pressure or inhibition. [Witte](#witte-entry) locates this in closely watched work; [ABC](#abc-entry) adds influential task design, leadership power problems and powerful starting inhibitions, while preserving strong concentration as a capacity within the strain. The entries support both being subjected to supervision and struggling with influence; ABC's fire losses remain a specific source example.
 
 ## Links
 

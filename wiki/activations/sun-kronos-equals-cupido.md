@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Cupido Kronos](../triads/sun-cupido-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,29 @@ updated_at: 2026-05-04
 
 License office. Registrars office. Marriage through the power of the state. Marriage of a prince. Leader of clubs or societies. Authority in matters of art.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Cupido entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special art, great art a man, people a bzonderen community, persons a statistischen community, Personenprechte in the community, and selbstige persons en community
+A special art center, a man's great art, people of a special community, persons of a state community, personal standing in the community, and an independent community of persons.
+
+Source locator: printed p. 165, PDF p. 81, Sun/Kronos, Cupido entry. Translation checked against the German row.
+
+## Comparative Schema
+
+- core meaning: Authority, standing or independence within organized community and art.
+- psychology: The entries give social roles rather than a developed inner portrait.
+- body/health: No bodily condition is supplied by these entries.
+- social/relationship: Club or society leadership, state-recognized marriage and standing within a community.
+- events/manifestations: Licensing and registration offices, a prince's marriage, a special art center and an independent community.
+- conflicts/notes: State organization and community independence are distinct examples; family headship is not explicitly supplied by these passages.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Cupido`: head of the family and family of rank.
-- Practical expression: special art, great art a man, people a bzonderen community, personenprechte in the community, and selbstige persons en community.
+`Sun/Kronos = Cupido` expresses authority through organized association, recognized bonds or art. [Witte](#witte-entry) gives state-recognized marriage, registration offices and leadership of clubs or societies; [ABC](#abc-entry) adds personal standing in a community, a state community and an independent group of people. Their artistic examples connect authority in art with a special art center or a man's artistic achievement. The shared focus is standing and organization within collective life, while official recognition and independence remain separate forms.
 
 ## Links
 

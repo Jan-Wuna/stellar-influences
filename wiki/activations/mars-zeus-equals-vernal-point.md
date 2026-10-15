@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Vernal Point Mars Zeus](../triads/vernal-point-mars-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 Creative activities. Danger of fire in general.
 
@@ -42,13 +46,27 @@ Creative activities. Danger of fire in general.
 
 #### ABC Entry
 
-Efforts for public relations, leadership in public life, shaping public work, creative work for the public, and Tatigkcit with fire in public
+Source: “Mars + Zeus,” printed p. 312 (PDF p. 155).
+
+Strenuous public work, work achievements for the public, leadership activity in public life, shaping public work, creative work for the public, and activity with fire in public.
+
+## Comparative Schema
+
+- core meaning: Directed or creative work expressed in public life.
+- psychology: No distinct psychological state is supplied.
+- body/health: No medical effect is described; Witte names general fire danger.
+- social/relationship: Leadership and work undertaken for the public.
+- events/manifestations: Public work achievements, creative activity, and public work with fire.
+- conflicts/notes: Creative public work and fire danger are distinct source possibilities; visibility alone does not imply risk.
+
+## Contradictions
+
+Witte gives creative activity and general fire danger; ABC develops public work, achievement, and leadership. No direct conflict is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Vernal Point` externalizes the axis into visible creative activity and public fire danger.
-- Chart expression: active manifestation, obvious production or execution, and situations where ignition, heat, or combustive risk becomes a matter of general environment.
+In `Mars/Zeus = Vernal Point`, Vernal Point specifies directed and creative effort through public work and leadership. ABC describes work achievements for the public, shaping that work, and creative public activity, including work with fire. Witte also names general fire danger, which remains a separate possible circumstance rather than the necessary result of public creation. ([ABC](#abc-entry), printed p. 312 / PDF p. 155; [Witte](#witte-entry), PDF p. 199)
 
 ## Links
 

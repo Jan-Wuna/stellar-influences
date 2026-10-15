@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Neptune Kronos Vulcanus](../triads/neptune-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Neptune entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The impotence of the power of the state to carry on. Dissolution of a great powe
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Neptune entry.
+
 #### ABC Entry
 
-Unravelling of state power, special influence of air, powerful state authority, great power of water, air power of a state, power weakness of the state, refined influence of hierarchy, and important influence through intuition
+Dissolution of state power; special influence of air; an influential state authority; great force of water; a state's air power; weakness of state power; refined influence of the hierarchy; important influence through intuition.
+
+## Comparative Schema
+
+- Core meaning: State power can weaken or dissolve, while influence through air, water, or intuition remains.
+- Psychology: Intuition is explicit; no general psychology of deception is supplied.
+- Body/health: The force of water and influence of air are material motifs, not medical findings.
+- Social/relationship: ABC retains influential state authority and a hierarchy's refined influence.
+- Events/manifestations: The dissolution of a great power and a state's air power are stated.
+- Conflicts/notes: ABC's continuing or refined influence differs from Witte's emphasis on inability to carry on.
+
+## Contradictions And Tensions
+
+ABC's continuing or refined influence differs from Witte's emphasis on inability to carry on.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Neptune`: a great power unable to continue, the breakdown of a nation-state's force, and the fading of concentrated authority.
-- Chart expression: recognition that brute power can evaporate, with structures of control dissolving despite their former strength.
+With Neptune, Kronos/Vulcanus includes a state's inability to sustain its power and the dissolution of a great power. ABC retains this weakening but broadens the range to influential state authority, a hierarchy's refined influence, and influence through intuition. Air, water, and a state's air power remain separate concrete motifs. The entries therefore do not support reducing every expression to disappearing control, nor adding an unsupported account of deception. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

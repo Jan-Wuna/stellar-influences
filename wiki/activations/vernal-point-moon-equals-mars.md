@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Mars](../triads/vernal-point-moon-mars.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 The wife. The mate. The active woman. Industrious or working people.
 
@@ -42,13 +46,27 @@ The wife. The mate. The active woman. Industrious or working people.
 
 #### ABC Entry
 
-Women's activities in the public sphere, felicitous creation in the public sphere, impulses from the world of women, hour of action for a people, power of action of the mother of the world, and powerful people in the public sphere
+- Source page: 24; PDF page: 11 (one-based spread).
+
+Women's public activities, feelingful creation in public, impulses from women's world, an hour of action for a people, active strength of the mothers of the world, and an energetic people in public
+
+## Comparative Schema
+
+- core meaning: Public collective life made active through work, feeling, and initiative.
+- psychology: Feelingful creation and impulses are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Active women, mothers, mates, and industrious people.
+- events/manifestations: Women's public activities and a people's action.
+- conflicts/notes: Feelingful was mistranslated as felicitous; activity does not itself establish success.
+
+## Contradictions
+
+No direct contradiction is established. Personal relationship roles and collective work are separate examples of active participation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Mars`: the wife, the mate, the active woman, and industrious or working people.
-- Practical expression: women's activities in the public sphere, felicitous creation in the public sphere, impulses from the world of women, hour of action for a people, and power of action of the mother of the world.
+In `Vernal Point/Moon = Mars`, public feeling becomes activity. The [Witte entry](#witte-entry) names an active woman, a wife or mate, and industrious people. The restored [ABC entry](#abc-entry) adds feelingful creation, mothers' active strength, and a people's moment of action. The reading connects emotional participation with work and initiative, keeping the sources' gendered roles as particular examples.
 
 ## Links
 

@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - Triad hub: [Zeus Vulcanus Poseidon](../triads/zeus-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries
+- PDF page: 295 (one-based).
+
+Potent intellectual or spiritual work, great creations of this kind. Conclusive evidence. Demonstrated mental faculties. Impressive proofs. Powerful documents.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, spiritual leadership power, intellectual design power, tremendous cultural effort, creative culture power, and power of power as creative power
+- Source page: 457; PDF page: 227 (one-based spread).
+
+Influential spiritual leadership, influential cultural achievements, insightful leadership strength, fiery spiritual energy, spiritual leadership strength, spiritual shaping power, enormous cultural effort, creative cultural power, and truth as a creative force.
+
+## Comparative Schema
+
+- core meaning: Substantial power expressed in intellectual, spiritual and cultural work.
+- psychology: Demonstrated mental ability and insightful leadership in the entries' wording.
+- body/health: No bodily or medical account is supplied.
+- social/relationship: Spiritual leadership and cultural influence.
+- events/manifestations: Major creations, impressive proofs and powerful documents.
+- conflicts/notes: Descriptions of conclusive evidence do not independently verify a particular claim.
+
+## Contradictions
+
+The Witte scan resolves the heavily damaged proof-and-document passage as conclusive evidence, demonstrated mental faculties, impressive proofs and powerful documents. ABC supports influential rather than "influenced" leadership and truth as a creative force rather than "power of power". Shared emphasis does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Vulcanus = Poseidon`: Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries.
-- Practical expression: influenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, and spiritual leadership power.
+In `Zeus/Vulcanus = Poseidon`, Poseidon specifies Zeus/Vulcanus through the intellectual or spiritual expression of substantial creative power. The [Witte entry](#witte-entry) names major work, demonstrated ability, proofs and documents; the [ABC entry](#abc-entry) adds influential leadership and cultural accomplishment. Directed capacity becomes an idea, creation or testimony with considerable force of expression.
+
+The source's descriptions of truth and conclusive evidence do not independently establish the correctness of any particular belief or document.
 
 ## Links
 

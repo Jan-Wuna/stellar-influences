@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Saturn`
 - Astronomicon formula: `Q/¦ = W`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 To be in a position to separate unburdened from somebody. To be able to resign, to renounce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dcpressions through pain in love, firmness through grunds of duty, grunds of affection in old age, harmonious deepening in old age, painful suppression of wunschen, deepening in old arts, deepening in peace problems ct Blocked peace impulses, depressingcs art, dynamic deepening in the arts, new deep affection, suddenly blocked joy, and tension through cingcrecktc love
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Depressions through pain in love, firmness through thorough fulfillment of duty, thorough affection in old age, harmonious deepening in old age, painful suppression of wishes, immersion in old art, and deepening into problems of peace.
+
+## Comparative Schema
+
+- Core meaning: Renunciation and separation within deep attachment.
+- Psychology: Painful wishes suppressed; firmness through duty.
+- Body/health: Depression-in-love language is historical, not a diagnosis.
+- Social/relationship: Separation may be unburdened; affection may deepen in age.
+- Events/manifestations: Old art and peace problems.
+- Conflicts/notes: Witte's unburdened parting contrasts with ABC's painful renunciation.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's unburdened parting contrasts with ABC's painful renunciation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Saturn`: to be in a position to separate unburdened from somebody.
-- Practical expression: dcpressions through pain in love, harmonious deepening in old age, and deepening in old arts.
+Saturn specifies Venus/Admetos through the capacity to renounce or separate. Witte allows an unburdened parting, whereas ABC emphasizes pain, suppressed wishes, and duty. Deepened affection in age and immersion in old art remain supported alternatives to treating the formula solely as the loss of love. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

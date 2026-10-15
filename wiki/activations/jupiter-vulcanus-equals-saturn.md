@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Saturn`
 - Astronomicon formula: `V/§ = W`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, oriented activator row; printed page unconfirmed.
+
 Separations which later prove to be fortunate. The fortune in this separation must mature. The good fortune is the guardian.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of profit and loss, success through powerful patience, storten money influence, huge money loss, problematic power success, legal problems lurking, strong legal problems, and powerful benefits in old age
+- Source reference: printed p. 345; one-based PDF p. 171, Jupiter + Vulkanus, oriented activator row.
+
+Influence of gain and loss, success through powerful patience, disturbed financial influence, enormous financial loss, problematic success in power, influencing legal problems, serious legal problems, and substantial advantages in old age.
+
+## Comparative Schema
+
+- core meaning: Separation may prove fortunate only later, while patience meets gains, losses and legal difficulties.
+- psychology: Powerful patience is an explicit favorable possibility.
+- body/health: Old-age advantages do not specify a medical condition.
+- social/relationship: Separation and legal problems are stated without identifying the people involved.
+- events/manifestations: Later-recognized fortune in separation, enormous financial loss, disturbed financial influence and advantages in old age.
+- conflicts/notes: ABC says influencing legal problems, not problems lurking. Witte's guardian phrase is retained without inventing protective restraint or guaranteed stability.
+
+## Contradictions
+
+Witte emphasizes separation whose good fortune must mature. ABC adds patience and old-age advantages beside enormous financial loss and serious legal problems. These favorable and difficult alternatives remain visible without assuming that all losses are eventually compensated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Saturn`: fortunate separation, protective restraint, and good fortune that matures through waiting, boundaries, or serious conditions.
-- Chart expression: gains that prove their value over time and stability that comes from disciplined endurance rather than immediate ease.
+`Jupiter/Vulcanus = Saturn` can show a separation whose favorable meaning appears only with time. Patience and advantages in old age belong to the constructive range, while disrupted financial influence, substantial loss and serious legal problems remain possible. [Witte's maturing fortune](#witte-entry) and [ABC's mixed gain-and-loss clauses](#abc-entry) support delayed recognition without promising that endurance will cancel every difficulty.
 
 ## Links
 

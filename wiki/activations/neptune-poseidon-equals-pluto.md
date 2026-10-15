@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Pluto`
 - Astronomicon formula: `Y/¨ = Z`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Eagerness to convert people. To be a missionary. They are the wise who gain truth through error, they are the fools who adhere to their errors. To arrive at a high mental concept of the world.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `407`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Weak spiritual development, developing unclear ideas, developing impoverished cultural development, refined spiritual development, growing sense weakness, exchanging truth development, increasing clarity through fine tuning, and growing culture enhancing
+Weak unfolding of mind, developing unclear ideas, future cultural development, refined development of mind, growing weakness of reason, pretending development of truth, increasing clarity through sensitivity, and growing cultural refinement
+
+## Comparative Schema
+
+- core meaning: developing beliefs and efforts to convert others, with learning from error or persisting in it.
+- psychology: unclear ideas, growing clarity, and weak reasoning are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: missionary effort and converting people are named.
+- events/manifestations: future cultural development, refinement, and pretended development of truth are stated.
+- conflicts/notes: Witte's wise/fool judgements remain attributed; a crisis or compulsory worldview reversal is not stated.
+
+## Contradictions
+
+Witte contrasts gaining truth through error with adhering to error. ABC adds growing clarity and refinement alongside weak reason and pretended development.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Pluto`: Eagerness to convert people. To be a missionary. They are the wise who gain truth through error, they are the fools who adhere to their errors. To arrive at a high mental concept of the world.
-- Practical focus: transforms subtle belief through crisis, correction, and worldview reversal. It can mark a reforming or missionary impulse in which truth is pursued through error, disillusionment, and deep changes in conviction.
-- Practical expression: weak spiritual development, developing unclear ideas, developing impoverished cultural development, refined spiritual development, and growing sense weakness.
+In Neptune/Poseidon = Pluto, beliefs develop while a person may try to bring others to the same view. [Witte](#witte-entry) names conversion and contrasts learning through error with persisting in it; [ABC](#abc-entry) adds refinement and increasing clarity beside unclear ideas, weak reasoning, and pretended development of truth (printed p. 407, PDF p. 202). Development can therefore involve correction or continued error without requiring a crisis or complete reversal.
 
 ## Links
 

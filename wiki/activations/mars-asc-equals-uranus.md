@@ -33,19 +33,25 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Uranus Asc](../triads/mars-uranus-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<i> Sudden or surprising actions of other people and excitement through them. To be injured suddenly.
+Sudden or surprising actions of other people and excitement through them. To be injured suddenly.
+
+- Source reference: PDF p. 85, Uranus row; the stray `<i>` in the extracted text is absent from the scan.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Arousing impulses of the partner, dynamic work partner. new work for the environment rhythmic partner impulses, working on environmental reforms, restorative activity in the environment. Tensions at work place, and will impulses of others
+Exciting impulses of the partner, a dynamic work partner, new work for the surroundings, rhythmic partner impulses, working on reforms of the surroundings, restless activity in the surroundings, tensions at the workplace, and impulses of others' will.
+
+- Source reference: printed p. 111, PDF p. 54, Uranus row; the scan reads `unruhige Tätigkeit`, restless activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ Violence, love of quarreling and fighting, inclination to threaten or to intimid
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Ascendant midpoint,” PDF p. 76 (complete entry).
 
 A person who will not be stopped or confined. To express oneself in an extreme way, and possibly suddenly or surprisingly. One asserts oneself in unexpected ways in relationships.
 
@@ -70,22 +78,23 @@ Urges to surprise or upset others thru activities or attitudes which startle; pr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action with others is sudden, surprising or disruptive.
+- psychology: Unexpected assertion and the urge to express uniqueness are explicit.
+- body/health: Witte and Ebertin name injury or accident as source possibilities, not predicted outcomes.
+- social/relationship: Startling others, intimidation and a dynamic work partner are represented.
+- events/manifestations: Sudden incidents, new work, reforms and workplace tension are named.
+- conflicts/notes: Unusual self-expression does not itself establish violence; ABC describes restless rather than restorative activity.
 
 ## Contradictions
 
-- None recorded yet.
+The entries vary from unusual self-expression and new work to intimidation and injury. They do not identify every surprise or reform with a violent event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Uranus`: daring reactions, disruptive independence, sudden incidents, and an assertive style that can shock, intimidate, or cut loose very quickly. Main caution: volatility: impatience and aggression can erupt into accidents, injuries, or needless escalation.
+Uranus specifies the Mars/Asc axis through action that surprises or unsettles other people. [Sandbach](#sandbach-entry) describes unexpected assertion in relationships, while [Munkasey](#munkasey-entry) connects startling behavior with expressing uniqueness. [ABC](#abc-entry) places this activity in dynamic partnership, new work, reforms and workplace tension. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) retain sudden injury, conflict and intimidation as difficult manifestations; the broader theme of surprise does not make those outcomes inevitable.
+
+Evidence: Witte PDF p. 85; ABC printed p. 111, PDF p. 54; Ebertin printed p. 220, code 0765; Sandbach PDF p. 76 (complete entry); Munkasey printed p. 248.
 
 ## Links
 

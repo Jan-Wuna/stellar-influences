@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).
 
 - Formula: `Moon/Mars = Uranus`
 - Astronomicon formula: `R/U = X`
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: printed p. 128; one-based PDF p. 124, Uranus row checked.
+
 #### Witte Entry
 
 Sudden changes in working schedules. Unusual working time. Sudden interference in the working time conditions. The willful woman. The hot tempered woman. Excitement about the keeping of the home. The armed, rebellious or uproarious populace.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 181; one-based PDF p. 89, full eight-clause Uranus row checked; wording retained.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ work reform for women, exciting emotional actions, dynamic will of a woman, even
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 120; one-based PDF p. 122, entry 0356 (Uranus), checked.
+
 #### Ebertin Entry
 
 Quick irritability, a quick and violent temper, inclination to give back as well as to take or to hit back at once under provocation, an irascible nature prone to sudden anger. A sudden experience in a woman's life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: one-based PDF p. 29, exact Uranus paragraph checked; chapter begins on p. 28.
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A sudden, surprising and/or unexpected display or forceful or passionate feeling
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS with Planets and Points`
-- Source page: `112`
+- Source page: `112` (printed); one-based PDF p. 113, Ura paragraph checked.
 
 #### Munkasey Entry
 
@@ -70,22 +80,23 @@ Appearing dispassionate during angry emotional outbursts; detachment of self fro
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden, inspired or interrupted emotional action and changes in working arrangements. [Witte](#witte-entry); [ABC](#abc-entry); [Sandbach](#sandbach-entry).
+- psychology: Quick irritability, retaliation or inspiration occur beside a dispassionate appearance and detachment from suspected irritation. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- body/health: These entries state no specific bodily or health condition; the temper descriptions do not establish an accident outcome.
+- social/relationship: Stirring others emotionally, responding under provocation and collective unrest are source possibilities, not inevitable conduct. [Sandbach](#sandbach-entry); [Ebertin](#ebertin-entry); [Witte](#witte-entry).
+- events/manifestations: Changed schedules, technical work, collective reform, irregular home repairs and emotional energy used in astrology practice. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Fiery reaction and detachment are both represented; reform or a changed schedule does not by itself imply violence.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's dispassionate appearance or detachment differs from Ebertin's quick anger and Sandbach's forceful emotional display. The entries retain these alternative expressions. Technical work and reform in ABC should not be collapsed into the older examples of an armed or rebellious populace.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Uranus`: rapid mobilization, emotional breakthrough, and the ability to act instantly when old patterns break open. Main caution: explosive reactivity: upset and force can become erratic, accident-prone, or too volatile for sustained trust.
+In `Moon/Mars = Uranus`, Uranus specifies the pair through sudden action, inspiration and interruptions to established work. [Witte](#witte-entry) makes this concrete in altered schedules and unexpected interference; the [ABC entry](#abc-entry) adds technical work, dynamic will and collective reform. Feeling may become action quickly, whether through inspiration in [Sandbach](#sandbach-entry) or anger and retaliation in [Ebertin](#ebertin-entry).
+
+The orientation also permits standing back from emotional intensity. [Munkasey](#munkasey-entry) describes a dispassionate appearance or detachment from suspected animosity, alongside astrology practice and irregular home repairs. Suddenness and irregular involvement connect these settings without making explosive reaction their sole expression.
 
 ## Links
 

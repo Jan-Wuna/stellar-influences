@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `46`, chapter heading `ARIES + NEPTUNE` (normalized here as Vernal Point/Neptune).
 
 Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, negation, confusion or dissolutions in the general public. Uncertainties of the general public. Uncertainties in general. Air or water of the world public.
 
@@ -79,13 +83,28 @@ Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, nega
 
 #### ABC Pair Summary
 
-Exchanges in public, air or water for the public Life, weak public, sensitive public, unknown public, and uncertain public
+Source reference: printed page `40`, PDF page `19`, bold pair summary.
+
+Source wording: "Enttäuschungen in der Öffentlichkeit, Luft oder Wasser für das öffentlichen Leben, öffentliche Zukunft, schwache Öffentlichkeit, sensible Öffentlichkeit, unbekannte Öffentlichkeit, unsichere Öffentlichkeit".
+
+Editorial translation, checked against the scan: Disappointments in public life; air or water for public life; the public future; a weak public; a sensitive public; an unknown public; an uncertain public.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-People who are known for their involvement in spiritual or religious affairs, or for a lack of honesty. Idealists and dreamers on a grand scale. People who are frustrated or disappointed in their objectives or who feel forced to fulfill the demands of others. Pairs with Pluto
+Source reference: PDF page `212`, entry `Neptune/Aries`.
+
+People who are known for their involvement in spiritual or religious affairs, or for a lack of honesty. Idealists and dreamers on a grand scale. People who are frustrated or disappointed in their objectives or who feel forced to fulfill the demands of others.
+
+## Comparative Schema
+
+- Core meaning: Public dreams, uncertainty, and disappointment connect the [pair summary](#pair-summary), [ABC themes](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Daydreams, idealism, frustrated aims, and feeling obliged to meet others' demands are explicit; the entries do not make every idealist dishonest.
+- Body/health: Witte's pair summary historically lists general and blood poisoning. These are attributed associations, not medical conclusions about a person.
+- Social/relationship: Confusion, deception, and uncertainty in the general public coexist with public involvement in spiritual or religious affairs.
+- Events/manifestations: Dissolution, disappointment, and air or water in the public sphere are named; the entries do not establish a particular scandal or disaster.
+- Conflicts/notes: The ABC scan says disappointments, not exchanges, and includes the public future; it specifies no future event. Hand's following heading, "Pairs with Pluto," has been excluded after checking PDF page `212`.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ People who are known for their involvement in spiritual or religious affairs, or
 - [Vernal Point/Neptune = Vulcanus](../activations/vernal-point-neptune-equals-vulcanus.md)
 - [Vernal Point/Neptune = Zeus](../activations/vernal-point-neptune-equals-zeus.md)
 
+## Contradictions
+
+Hand presents spiritual or religious involvement and lack of honesty as alternatives, not as equivalents. Idealism and disappointment also coexist without proving that every aspiration fails. The checked ABC paragraph overlaps with public disappointment and uncertainty while also preserving air, water, and the public future as separate terms.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune` is the axis of collective dream, public uncertainty, spiritualized or deceptive atmospheres, and the dissolving currents that move through the social field.
-- Chart expression: idealism, glamour, sacrifice, scandal, confusion, and visibility through spirituality, imagination, or diffuse public feeling. Liabilities: deception, mass suggestion, disappointment, victimization, and losing clarity in fantasy, projection, or collective unreality.
+Vernal Point/Neptune concerns dreams, uncertainty, and disappointment in the wider world. The [pair summary](#pair-summary) describes public confusion, deception, and dissolution, while the [ABC entry](#abc-pair-summary) repeats disappointment, uncertainty, and sensitivity. The [pair delineation](#pair-delineation) gives this field a personal expression in large-scale idealism, spiritual involvement, frustrated objectives, or pressure to fulfill others' demands.
+
+Those alternatives must remain distinct: public spirituality is not itself a claim of dishonesty, and idealism does not guarantee disappointment. Air and water are separate public-world associations in the pair entries; Witte's poisoning language remains historical attribution rather than a medical finding.
 
 ## Links
 

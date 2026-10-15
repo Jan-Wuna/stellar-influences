@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Hades](../axes/sun-hades.md)
 - Triad hub: [Sun Moon Hades](../triads/sun-moon-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 116; PDF page 112 (one-based).
 
 Mentally sick. Debilitated body of a woman, misshapen. Trouble through dubious female persons. Vulgar common people.
 
@@ -42,13 +46,27 @@ Mentally sick. Debilitated body of a woman, misshapen. Trouble through dubious f
 
 #### ABC Entry
 
-The man's depriving woman, a person's lack of ghlims, a woman's frail service person, an old woman's husband, a criminal woman's person, people of a people in need, a man's hidden affairs, a man's renunciation of the woman, and a woman's service personnel
+Source locator: printed page 160; PDF page 79 (one-based).
+
+A woman deprived of the man, a person's lack of feeling, a sensitive person in service, an old woman's husband, a criminal female person, people within a population in need, a man's hidden feelings, a man's renunciation of the woman, and female service personnel.
+
+## Comparative Schema
+
+- core meaning: Deprivation, emotional lack or need in the source's female, relational and collective examples.
+- psychology: Lack of feeling, hidden feelings and sensitivity in a service role.
+- body/health: Witte's mental-illness and bodily-debilitation claims remain historical attributions, not diagnoses.
+- social/relationship: A woman deprived of a man, renunciation, an old woman's husband and female service personnel.
+- events/manifestations: Collective need and the sources' criminal or troublesome-contact examples.
+- conflicts/notes: Gender, class and appearance judgments remain attributed; sensitivity in service is not bodily frailty.
+
+## Contradictions And Comparison Notes
+
+Witte gives severe medical, class and gender judgments; ABC also includes emotional and service meanings. Its sensitive service person should not be conflated with Witte's debilitated-body example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Hades = Moon`: sickness and a sufferer.
-- Practical expression: the man's depriving woman, a person's lack of ghlims, a woman's frail service person, an old woman's husband, and a criminal woman's person.
+For `Sun/Hades = Moon`, [ABC](#abc-entry) places need and deprivation in emotional, relational and collective settings: absent or renounced partnership, lack of feeling, hidden feelings and people in need coexist with sensitivity in service. [Witte](#witte-entry) supplies separate severe historical claims about illness, bodily form and troublesome contacts. The exact entry therefore extends beyond sickness alone; its gendered, class and medical language remains attributed rather than a judgment about women or a person's health.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Pluto`
 - Astronomicon formula: `Y/¡ = Z`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
-P Beginning of the dissolving an association. Changes in secret societies or through esoteric orders. Increase or decrease of housing shortage, according to the position of Pluto.
+Beginning of the dissolving an association. Changes in secret societies or through esoteric orders. Increase or decrease of housing shortage, according to the position of Pluto.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `393`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-shared future development, art development of the future, weak development of a community, and uncertain development community
+Dissolution of a development-community, disappointing shared development, shared future development, art development of the future, weak development of a community, and uncertain development-community
+
+## Comparative Schema
+
+- core meaning: beginning dissolution or changing development of associations, including secret groups and housing conditions.
+- psychology: disappointment about shared development is explicit without a deeper motive being supplied.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: associations, secret societies, and communities organized around development are stated settings.
+- events/manifestations: changes in esoteric orders, housing shortage in either direction, and future art development are examples.
+- conflicts/notes: Witte's condition about Pluto's position is retained without calculating or inventing that condition.
+
+## Contradictions
+
+Dissolution and uncertain development recur, but Witte permits either increase or decrease of housing shortage. The entries therefore do not establish uniformly worsening conditions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Pluto`: P Beginning of the dissolving an association. Changes in secret societies or through esoteric orders. Increase or decrease of housing shortage, according to the position of Pluto.
-- Practical focus: transforms communal dissolution at its roots, marking the beginning of separation, shifts in secret organizations, or changing pressure around shared living conditions and collective bonds.
-- Practical expression: shared future development, art development of the future, weak development of a community, and uncertain development community.
+In Neptune/Cupido = Pluto, Pluto specifies the pair through changes in the development or continuance of an association. The [Witte entry](#witte-entry) names the beginning of dissolution and changes in secret groups; [ABC](#abc-entry) adds disappointing shared development and weak or uncertain development-community (printed p. 393, PDF p. 195). Future and artistic development remain alongside these adverse examples. Witte's housing shortage may increase or decrease under its stated condition, so the passage does not support a fixed direction of decline.
 
 ## Links
 

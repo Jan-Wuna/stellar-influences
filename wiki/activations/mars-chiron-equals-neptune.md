@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Mars/Chiron](../axes/mars-chiron.md)
 - Triad hub: [Mars Chiron Neptune](../triads/mars-chiron-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,25 @@ updated_at: 2026-04-21
 
 Working subtly, secretly or covertly to help others. One who is intuitively able to get to the source of a conflict and bring healing energy to it.
 
+## Comparative Schema
+
+- core meaning: Subtle or covert help addresses the source of a conflict.
+- psychology: Intuitive perception of the conflict's source is explicit.
+- body/health: Healing energy is the source's term; no medical diagnosis or treatment is given.
+- social/relationship: The work is directed toward helping others.
+- events/manifestations: Secret or covert assistance is a mode of action, without a concrete event.
+- conflicts/notes: Secrecy is a stated possibility; the passage does not itself characterize it as deception.
+
+## Contradictions
+
+The single entry joins unobtrusive help and intuitive attention to conflict; no competing account is present.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron = Neptune`: compassionate intervention, intuitive diagnosis, and the ability to work below the surface where others cannot yet see what is wrong. The caution is vagueness, secrecy, or acting on impressions that are hard to verify.
+Neptune specifies the Mars/Chiron axis through subtle assistance and intuitive attention to conflict. The [Sandbach entry](#sandbach-entry) describes working secretly or covertly to help others and reaching a conflict's source with healing energy. Its language concerns a mode of helping; it does not establish clinical diagnosis or define hidden action as inherently harmful.
+
+Source locator: Sandbach PDF p. 69 is the Mars/Chiron chapter start; the exact entry page has not been verified.
 
 ## Links
 

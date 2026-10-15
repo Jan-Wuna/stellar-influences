@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Venus Neptune`
 - Astronomicon triad-set: `VP Q Y`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Venus/Neptune = Vernal Point](../activations/venus-neptune-equals-vernal-point.md)
-- [Vernal Point/Neptune = Venus](../activations/vernal-point-neptune-equals-venus.md)
-- [Vernal Point/Venus = Neptune](../activations/vernal-point-venus-equals-neptune.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Venus/Neptune = Vernal Point](../activations/venus-neptune-equals-vernal-point.md) | [Venus/Neptune](../axes/venus-neptune.md) | Vernal Point |
+| [Vernal Point/Neptune = Venus](../activations/vernal-point-neptune-equals-venus.md) | [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Venus |
+| [Vernal Point/Venus = Neptune](../activations/vernal-point-venus-equals-neptune.md) | [Vernal Point/Venus](../axes/vernal-point-venus.md) | Neptune |
 
 ## Source Coverage
 
-- `Venus/Neptune = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `180`
-- `Venus/Neptune = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `278`
-- `Vernal Point/Neptune = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `40`
-- `Vernal Point/Venus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
-- `Vernal Point/Venus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `31`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Venus/Neptune = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `180`.
+- `Venus/Neptune = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-vernal-point.md#abc-entry), printed p. `278`.
+- `Vernal Point/Neptune = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-neptune-equals-venus.md#witte-entry), one-based PDF entry-start p. `46`.
+- `Vernal Point/Neptune = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-neptune-equals-venus.md#abc-entry), printed p. `40`.
+- `Vernal Point/Venus = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-venus-equals-neptune.md#witte-entry), one-based PDF entry-start p. `41`.
+- `Vernal Point/Venus = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-venus-equals-neptune.md#abc-entry), printed p. `31`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Neptune = Vernal Point`: prudishness.
-- `Vernal Point/Neptune = Venus`: This formula emphasizes disappointments in love and unfavorable time for mating.
-- `Vernal Point/Venus = Neptune`: This formula emphasizes falsehood, to pretend love, make believe love, and unrequited love.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

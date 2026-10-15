@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Poseidon`
 - Astronomicon formula: `Y/§ = ¨`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 Maneuvers of deception with misrepresentation of facts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `405`, PDF p. `201` (entry).
+
 #### ABC Entry
 
 energy from clear water, insights about unknown influences, sensitivity for the power of truth, tremendous deception of ideas, cultural influence of metaphysics, unknown spiritual power, refined spiritual energies, and reasonable negation of force
 
+## Comparative Schema
+
+- core meaning: deception through misrepresented facts alongside sensitivity to truth.
+- psychology: ideas, insight into unknown influence, and truth-sensitivity are explicit.
+- body/health: spiritual energy and power are historical terms without a medical mechanism.
+- social/relationship: deceptive maneuvers are named, without a distinct relationship pattern.
+- events/manifestations: clear-water energy, cultural metaphysical influence, and reasonable negation of force are stated.
+- conflicts/notes: ABC's truth-oriented examples differ from Witte's deliberate misrepresentation; not every intellectual activity is deceptive.
+
+## Contradictions
+
+Witte emphasizes falsified facts in deceptive maneuvers. ABC also includes insight and sensitivity to truth alongside deception of ideas.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Poseidon`: Maneuvers of deception with misrepresentation of facts.
-- Misrepresentation is intellectualized here, showing deception carried through false facts, distorted truth, or deliberately misleading narratives.
-- Practical expression: energy from clear water, insights about unknown influences, sensitivity for the power of truth, tremendous deception of ideas, and cultural influence of metaphysics.
+In Neptune/Vulcanus = Poseidon, influence concerns the presentation and reliability of facts or ideas. [Witte](#witte-entry) names deceptive maneuvers through misrepresentation; [ABC](#abc-entry) also includes sensitivity to truth, insights about unknown influence, and deception of ideas (printed p. 405, PDF p. 201). The entries preserve both truth-seeking and misleading presentation, without assuming the same intention behind all intellectual influence.
 
 ## Links
 

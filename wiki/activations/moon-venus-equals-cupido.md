@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Cupido`
 - Astronomicon formula: `R/Q = ¡`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 The happy loving bride (wedding). Feminist associations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `179`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Common joy of women, common love flies, harmonious community, harmonious people community, I iebenwerte women community, L iebes K unst of women, schone women in the community, and hour of common harmony
+Shared joy of women, shared feelings of love, a harmonious emotional community, a harmonious community of a people, a lovable community of women, a woman's art of love, beautiful women in the community, and an hour of shared harmony
+
+## Comparative Schema
+
+- core meaning: affection and harmony shared in a group or association.
+- psychology: shared joy and loving feelings are named.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: a loving bride, feminist associations, and communities of women are examples.
+- events/manifestations: a wedding and an hour of shared harmony are stated.
+- conflicts/notes: collective joy does not establish a particular political identity or a lasting group consensus.
+
+## Contradictions
+
+Witte gives a wedding and feminist associations, while ABC describes shared emotional harmony. These are distinct group settings rather than an assertion that all affectionate communities have the same purpose.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Cupido`: The happy loving bride (wedding). Feminist associations.
-- Practical focus: socializes `Moon/Venus` through weddings, happy brides, and collective expressions of loving identity. It ties affection to ceremonial belonging, public sisterhood, and group forms of shared emotional value.
-- Practical expression: common joy of women, harmonious community, harmonious people community, i iebenwerte women community, and l iebes K unst of women.
+In Moon/Venus = Cupido, Cupido specifies the pair through affection experienced together. The [Witte entry](#witte-entry) gives the happy, loving bride at a wedding and feminist associations; [ABC](#abc-entry) describes shared joy, loving feelings, harmonious communities, and an hour of common harmony (printed p. 179, PDF p. 88). These examples connect affection with group life, while leaving the group's purpose and the durability of its harmony open.
 
 ## Links
 

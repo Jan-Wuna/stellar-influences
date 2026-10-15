@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Moon`
 - Astronomicon formula: `VP/Asc = R`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -40,15 +42,30 @@ Acquaintances with female persons. Many places one gets to know. Not settling do
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Aszendent`
+- Source reference: printed page `20`; PDF page `9` (one-based).
+
 #### ABC Entry
 
-Other women in public, other people in public, women as partners in public life, public place for women, public place for the people, and partnersFlühle in public
+Other women in public, other peoples in public, women as partners in public life, a public place for women, a public square for the people, and partner feelings in public.
+
+## Comparative Schema
+
+- Core meaning: Public acquaintances and populous or changing locations.
+- Psychology: Not settling down is stated; no cause is supplied.
+- Body/health: No bodily condition is specified.
+- Social/relationship: The entries explicitly name women among public acquaintances or partners.
+- Events/manifestations: Getting to know many places and very populated locations.
+- Conflicts/notes: ABC's partner feelings are stated without a cause; its women and peoples examples remain attributed.
+
+## Contradictions
+
+No direct conflict appears. Witte names acquaintances and numerous or populated places; ABC adds women, peoples, and partner feelings in public.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Moon`: acquaintances with female persons, many places one gets to know, not settling down, and very populated locations.
-- Practical expression: other women in public, other people in public, women as partners in public life, public place for women, and public place for the people.
+Moon specifies `Vernal Point/Asc` through public acquaintances and the experience of populated or numerous places. The [Witte entry](#witte-entry) links knowing many locations with not settling down. The [ABC entry](#abc-entry) adds women and peoples in public life, public places, and partner feelings in public. These remain the sources' particular social and gendered examples, without assigning public relationships universally by gender.
 
 ## Links
 

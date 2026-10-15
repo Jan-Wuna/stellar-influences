@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
 - Triad hub: [Cupido Hades Kronos](../triads/cupido-hades-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 267 (one-based; exact activator row).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Homes for children. Orphanages. Poorhouses.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 211 (printed 425).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, and structural policy
+Editorial English translation, checked against the German scan:
+
+Disadvantaged independence of a community; endangered state community; artistic authority of the past; lack within a state community; adverse dominance of a community; self-confidence of a criminal community.
+
+## Comparative Schema
+
+- core meaning: Institutions for people in need, alongside compromised communal independence or authority.
+- psychology: Self-confidence of a criminal community is a separate ABC clause.
+- body/health: No specific bodily condition or treatment is supplied.
+- social/relationship: Children's homes, orphanages and poorhouses; endangered state association.
+- events/manifestations: Past artistic authority, state-community lack and adverse communal dominance.
+- conflicts/notes: Witte's welfare institutions do not by themselves carry ABC's criminal-community characterization.
+
+## Contradictions And Differences
+
+Witte's welfare institutions do not by themselves carry ABC's criminal-community characterization. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Kronos`: hardship entering formal or administrative channels, often through authorities, institutions, or publicly managed suffering. Main caution: bureaucracy replacing human care.
+`Cupido/Hades = Kronos` brings the community's hardship into institutional forms. The [Witte entry](#witte-entry) names children's homes, orphanages and poorhouses. The [ABC entry](#abc-entry) adds disadvantaged independence, an endangered state community, artistic authority from the past, lack and harmful dominance, as well as the self-confidence of a criminal community. These are separate expressions of communal institution and standing; the criminal clause does not characterize the children's institutions.
 
 ## Links
 

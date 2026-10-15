@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Uranus Node Poseidon](../triads/uranus-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Mentally connected with others in a surprising manner. Sudden clarity in connect
 
 #### ABC Entry
 
-Arousal by new ideas, mental impulses in connection with culture by technology, new ideas in technology, and sudden clarity in communication
+Excitement through new ideas, mental impulses in a connection, cultural mediation through technology, new ideas in technology, sudden clarity in a relationship, surprising intellectual encounter, connection with intellectual reformers.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 239, PDF p. 118.
+
+- Core meaning: Surprising mental contact and sudden clarity.
+- Psychology: Excitement through new ideas.
+- Body/health: No bodily or medical claim appears in these entries.
+- Social/relationship: Unexpected encounters and contacts with intellectual reformers.
+- Events/manifestations: Technical cultural exchange and new ideas in technology.
+- Conflicts/notes: The former ABC wording compressed distinct clauses and omitted reformer contacts.
+
+## Contradictions
+
+ABC supplies technical and reforming contexts for Witte's surprise and clarity. The passages do not require those contexts to occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Uranus`: Mentally connected with others in a surprising manner. Sudden clarity in connection with or in relation to others.
-- Practical focus: mentally connected with others in a surprising manner; also sudden clarity in connection with or in relation to others.
+Uranus specifies `Node/Poseidon` as a surprising intellectual encounter or a sudden clarification within a relationship. The [Witte Entry](#witte-entry) centers on that abrupt understanding; the [ABC Entry](#abc-entry) includes new ideas, technical cultural mediation and contact with intellectual reformers. The emphasis is on a fresh impulse changing the connection, without making novelty a guarantee of truth or durable agreement.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Venus`
 - Astronomicon formula: `Y/¨ = Q`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Harmony in fine mental or occult perceptions. Sensitiveness for such things. To be pleased with one’s own mirrored reflection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `406`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Fine feeling through truth love, joy over clear water, peace culture of the future, unclear love culture, refined spiritual harmony, refinement of culture and arts, preference for metaphysical knowledge, and exchange true love
+Sensitivity through love of truth, joy over clear water, peace-culture of the future, unclear culture of love, refined harmony of mind, refinement of culture and art, preference for metaphysical truths, and pretending true love
+
+## Comparative Schema
+
+- core meaning: pleasure and harmony in subtle perception, art, or love, with pretence also present.
+- psychology: sensitivity, love of truth, and pleasure in one's reflected image are explicit.
+- body/health: clear water is a literal object of pleasure without a health claim.
+- social/relationship: pretending true love and unclear love-culture are stated.
+- events/manifestations: refinement of culture and art and a future peace-culture are named.
+- conflicts/notes: harmonious perception does not prove sincere affection or mutual spiritual rapport.
+
+## Contradictions
+
+Witte emphasizes harmonious perception and self-reflection. ABC adds love of truth and cultural refinement but also unclear love and pretended affection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Venus`: Harmony in fine mental or occult perceptions. Sensitiveness for such things. To be pleased with one’s own mirrored reflection.
-- Practical focus: harmonizes refined feeling with subtle, mental, or occult perception. It often shows pleasure in delicate impressions, aesthetic sensitivity, affectionate spiritual rapport, or a tendency to enjoy one's own reflected image and ideals.
-- Practical expression: fine feeling through truth love, peace culture of the future, unclear love culture, and refined spiritual harmony.
+In Neptune/Poseidon = Venus, harmony and pleasure are linked to refined perception, culture, and love. [Witte](#witte-entry) names sensitivity to subtle or occult matters and pleasure in one's reflection; [ABC](#abc-entry) adds love of truth, cultural refinement, and harmony alongside pretending true love (printed p. 406, PDF p. 202). Enjoying a refined impression therefore remains distinct from the sincerity of affection.
 
 ## Links
 

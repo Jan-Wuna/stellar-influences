@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Saturn Admetos](../triads/sun-saturn-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Separation from the country, from a piece of property.
 
@@ -42,13 +46,27 @@ Separation from the country, from a piece of property.
 
 #### ABC Entry
 
-Printed old man, depression due to corporal disturbances, restriction due to corporal pain, strengthening of a person in old age, patience and perseverance of one person, and concentration on the body circuit of personal cracism
+Source locator: printed page 169; PDF page 83 (one-based).
+
+A distressed old man, depression due to bodily disturbances, restriction due to physical pain, strengthening of a person in old age, a person's patience and endurance, concentration on bodily circulation, and personal circulatory disturbances.
+
+## Comparative Schema
+
+- core meaning: Separation from land or property in Witte; patience, endurance and bodily restriction in ABC.
+- psychology: Patience and distress in the source's old-age examples.
+- body/health: Pain, depression and circulatory disturbances are historical claims, not diagnoses.
+- social/relationship: No specific interpersonal arrangement is established by these entries.
+- events/manifestations: Separation from country or property; personal strengthening in old age.
+- conflicts/notes: ABC retains strengthening and endurance alongside restriction; Witte's land separation does not establish inability to make contact.
+
+## Contradictions And Comparison Notes
+
+The entries have distinct land/property and personal/bodily scopes. ABC's strengthening and patience qualify its difficult bodily examples without negating them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Saturn`: to cut oneself off from connections with others and the inability to make contact with others.
-- Practical expression: printed old man, depression due to corporal disturbances, restriction due to corporal pain, strengthening of a person in old age, and patience.
+For `Sun/Admetos = Saturn`, [Witte](#witte-entry) gives the concrete separation from country or property. [ABC](#abc-entry) describes personal patience and endurance, strengthening in old age and restriction through bodily pain or disturbance. The exact formula therefore retains both material separation and the demanding conditions of personal endurance; its bodily and depression examples remain historical attributions, without establishing a diagnosis or a general inability to connect with people.
 
 ## Links
 

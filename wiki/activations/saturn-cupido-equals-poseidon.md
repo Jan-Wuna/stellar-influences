@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Poseidon`
 - Astronomicon formula: `W/¡ = ¨`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Common education. World philosophical differences in a family or community.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Serious spiritual skill, spiritually mature community, mental disturbances in of a community, common cultural tasks, shared insight in of a community, concentration on the whole truth, loss of common clarity, and separation of a cultural community
+- Source page: 355 (printed); PDF page: 176.
+
+Serious spiritual art, a spiritually mature community, spiritual disturbances within a community, shared cultural tasks, disturbed insight within a community, concentration on the whole truth, loss of shared clarity, separation of a cultural community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Shared education and spiritual or cultural tasks, with differences of outlook or lost clarity.
+- Psychology: Spiritual maturity, disturbed insight, and concentration on truth.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Philosophical differences in family or community and separation of a cultural community.
+- Events/manifestations: Serious spiritual art and common cultural tasks.
+- Conflicts/notes: Spiritual maturity and intellectual disturbance are both stated possibilities; truth is a source concern, not a certified result.
+
+## Contradictions
+
+Spiritual maturity and intellectual disturbance are both stated possibilities; truth is a source concern, not a certified result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Poseidon`: common education, world philosophical differences in a family or community.
-- Practical expression: serious spiritual skill, spiritually mature community, mental disturbances in a community, common cultural tasks, and shared insight in a community.
+In `Saturn/Cupido = Poseidon`, Poseidon specifies the pair through shared education, culture, and worldview. The [Witte entry](#witte-entry) includes philosophical differences within a family or community; the [ABC entry](#abc-entry) adds serious spiritual art, mature spiritual community, and cultural tasks. Disturbed insight, loss of shared clarity, and cultural separation remain alongside the search for truth.
 
 ## Links
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Mars Jupiter MC](../triads/mars-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Mars row.
 
 Good luck from one’s own activity. To be delighted over a betrothal or the act of love.
 
@@ -45,7 +49,9 @@ Good luck from one’s own activity. To be delighted over a betrothal or the act
 
 #### ABC Entry
 
-Work of a mature soul, successful mental creation, my money works", my successful work, my work pleasure, my financial activity, my legal activity, my advantages through work, and spiritual happiness through work
+- Source reference: printed p. 74; one-based PDF p. 36, MC + Jupiter, Mars row.
+
+Work of a mature soul, successful creative work of the soul, “my money works,” my successful work, my joy in work, my financial activity, my legal activity, my advantages through work, and happiness of the soul through work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +63,9 @@ Desire to create one's own good fortune, clarity of purpose or objective in life
 
 #### Sandbach Entry
 
-To work hard to grow spiritually. Being aggressive about moving up the ranks of one’s profession. To be enthusiastic about maintaining a highmindedness when you do anything.
+- Source reference: one-based PDF p. 86, Planets activating the Jupiter/Midheaven midpoint, Mars paragraph.
+
+To work hard to grow spiritually. Being aggressive about moving up the ranks of one’s profession. To be enthusiastic about maintaining a high-mindedness when you do anything.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +78,23 @@ Exerting your will over life’s circumstances and becoming more persistent with
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal effort is directed toward creating good fortune and reaching objectives.
+- psychology: Purpose, enthusiasm and persistence, with anger when progress is blocked.
+- body/health: Ebertin and Witte include enjoyment of physical love; Munkasey mentions sports proficiency, without medical diagnosis.
+- social/relationship: Courtship, engagement and successful cooperation.
+- events/manifestations: Successful work, deliberate pursuit of goals and recognition in sport.
+- conflicts/notes: The favorable effort motif and frustration at stalled progress are both retained; effort is not a guarantee of success.
 
 ## Contradictions
 
-- None recorded yet.
+Productive effort and anger over insufficient progress are conditional emphases, not mutually exclusive claims. The ABC scan places paired quotation marks around “my money works”; this is a complete clause beside financial activity, without a specified financial mechanism.
+
+Visually verified source rows: ABC printed p. 74, one-based PDF p. 36, Mars row; Witte one-based PDF p. 65, Meridian + Jupiter, Mars row; Sandbach one-based PDF p. 86, Mars paragraph under Jupiter/Midheaven. Existing Ebertin printed p. 244, entry 0859 and Munkasey printed p. 280 locators are retained; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Mars`: productive striving, engagement, successful teamwork, and vigorous pursuit of love or achievement. Main caution: overdriven ambition: enthusiasm can become aggressive pushing, impatience, or the assumption that effort alone guarantees success.
+In `Jupiter/MC = Mars`, Mars turns personal aims and good fortune into active effort: work, purposeful striving, courtship and cooperation. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) connect favorable results with one's own activity; [Sandbach](#sandbach-entry) extends effort to spiritual growth and professional advancement. [Munkasey](#munkasey-entry), supplied p. 280, adds persistence and anger over blocked progress. The tension lies between energetic pursuit and frustration when the desired growth has not arrived.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Hades Apollon`
 - Astronomicon triad-set: `VP ¢ ¥`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Hades/Apollon = Vernal Point](../activations/hades-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Hades](../activations/vernal-point-apollon-equals-hades.md)
-- [Vernal Point/Hades = Apollon](../activations/vernal-point-hades-equals-apollon.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Hades/Apollon](../axes/hades-apollon.md) | `Vernal Point` | [Hades/Apollon = Vernal Point](../activations/hades-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | `Hades` | [Vernal Point/Apollon = Hades](../activations/vernal-point-apollon-equals-hades.md) |
+| [Vernal Point/Hades](../axes/vernal-point-hades.md) | `Apollon` | [Vernal Point/Hades = Apollon](../activations/vernal-point-hades-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Hades/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `442`
-- `Vernal Point/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
-- `Vernal Point/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `47`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Hades/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `280`.
+- `Hades/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-apollon-equals-vernal-point.md#abc-entry), printed p. `442`.
+- `Vernal Point/Apollon = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-hades.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-hades.md#abc-entry), printed p. `53`.
+- `Vernal Point/Hades = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-hades-equals-apollon.md#witte-entry), one-based PDF entry-start p. `49`.
+- `Vernal Point/Hades = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-hades-equals-apollon.md#abc-entry), printed p. `47`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Vernal Point`: broad poverty, dealing in rags or secondhand material, and a public attitude formed by the weight of the past.
-- `Vernal Point/Apollon = Hades`: This formula emphasizes widespread deficiencies, dealers in junk or waste, and the science of history.
-- `Vernal Point/Hades = Apollon`: This formula emphasizes widespread poverty, far expanded coal fields, and coal-trading.
+Use the orientation whose base pair and activating factor match the requested formula. `Hades/Apollon = Vernal Point` activates `Hades/Apollon` with `Vernal Point`; it is distinct from `Vernal Point/Apollon = Hades` and `Vernal Point/Hades = Apollon`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Node Asc](../triads/venus-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 Personal love unions. Many nice connections.
 
@@ -45,17 +49,23 @@ Personal love unions. Many nice connections.
 
 #### ABC Entry
 
-Encounters with other loving, peaceful encounters in the place, harmony of a partnerRelationship, harmonious environmental connections, love connection to the partner, connected with the beauty of a place, and connections to artificial places
+- Source page: 108 (printed); PDF page: 53; scanned activator row checked.
+
+A love of encounters with others, peaceful encounters in the place, harmony of a partner relationship, harmonious environmental connections, love connection to the partner, connected with the beauty of a place, and connections to places of art
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 196 (printed), entry `0672`.
 
 Demonstration of kindness, benevolence, sympathy and compassion with regard to other people. A personal inclination.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 One is learning in this lifetime how to love the self in a spiritual sense, and then to be able to project that love to others. To seek out connections with individuals or groups who will love and appreciate you.
 
@@ -70,22 +80,23 @@ An enhanced ability to find the right type of people for your social life; you m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Affection takes shape in chosen personal connections.
+- **psychology:** Sandbach frames self-love as something to share outwardly.
+- **body/health:** Munkasey's sexual pleasure example is not a health claim.
+- **social/relationship:** Witte names love unions; Ebertin adds kindness, sympathy and compassion.
+- **events/manifestations:** Munkasey describes finding suitable people and meeting them easily.
+- **conflicts/notes:** Benevolence, spiritual self-love, and social attraction describe different aspects of forming ties.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Benevolence, spiritual self-love, and social attraction describe different aspects of forming ties. ABC's connections to places of art extend the range beyond a romantic union.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Node`: likability, cooperative presence, and supportive social openings that form through personal warmth and style. Main caution: approval dependence: the need for acceptance can soften self-definition or overvalue easy connection.
+In `Venus/Asc = Node`, Node specifies the Venus/Asc axis through the personal connections in which affection is offered and received. [Witte](#witte-entry) names love unions and pleasant ties; [Ebertin](#ebertin-entry) describes kindness, sympathy and compassion toward others. [Sandbach](#sandbach-entry) links loving oneself with seeking appreciative people or groups, while [Munkasey](#munkasey-entry) adds ease in finding suitable company. The common movement is toward relationships that permit warmth to circulate between people.
 
 ## Links
 

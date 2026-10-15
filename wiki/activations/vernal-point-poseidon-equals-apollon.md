@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Poseidon = Apollon`
 - Astronomicon formula: `VP/¨ = ¥`
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
@@ -44,11 +46,23 @@ The general mental or spiritual freedom.
 
 Expanding truth in public, mind science in public, intellectual freedom in public life, cultural success in public, science of world culture, and increasing clarity in public life
 
+## Comparative Schema
+
+- Core meaning: Mental or spiritual freedom in public intellectual and cultural life.
+- Psychology: Intellectual freedom and increasing clarity are explicit.
+- Body/health: No bodily or health manifestation is supplied.
+- Social/relationship: Public cultural and intellectual activity forms the social field.
+- Events/manifestations: Cultural success and wider expression of truth are named.
+- Conflicts/notes: The literal English 'mind science' represents native 'Geistes-Wissenschaft'; it does not establish a specific modern scientific discipline.
+
+## Contradictions
+
+Freedom and cultural success are different emphases, not opposing claims. Neither entry guarantees that all intellectual activity reaches truth or success.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = Apollon`: the general mental or spiritual freedom.
-- Practical expression: expanding truth in public, mind science in public, intellectual freedom in public life, cultural success in public, and science of world culture.
+In `Vernal Point/Poseidon = Apollon`, Apollon specifies public intellectual and spiritual life through freedom and a wider cultural field. The [Witte entry](#witte-entry) gives mental or spiritual freedom; the [ABC entry](#abc-entry) places that freedom alongside cultural success, expanding truth, and increasing clarity in public life. The supported thread is room for intellectual and cultural development, without converting the unusual 'mind science' translation into a technical discipline.
 
 ## Links
 

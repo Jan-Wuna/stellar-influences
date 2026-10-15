@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Apollon](../axes/kronos-apollon.md)
 - Triad hub: [Mars Kronos Apollon](../triads/mars-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 299, Kronos + Apollon, oriented activator row.
 
 The practitioner. To unfold one’s forces without being hindered. Great expansion of a peaceful activity (scientific or commercial).
 
@@ -42,13 +46,29 @@ The practitioner. To unfold one’s forces without being hindered. Great expansi
 
 #### ABC Entry
 
-Special scientific work, successful work of the hierarchy, successful work of knowledge, free self employment, great experience of activity, self employment, and increasing self sufficiency in work
+- Source reference: printed p. 460; one-based PDF p. 229, Kronos + Apollon, oriented activator row.
+
+Special scientific work, successful work of the hierarchy, successful efforts toward knowledge, free independent activity, great experience in activity, independent scientific work, and increasing independence in work.
+
+## Comparative Schema
+
+- **Core meaning:** Expert knowledge expressed in practical scientific or commercial work.
+- **Psychology:** The entries describe effective activity and work independence rather than temperament.
+- **Body/health:** Witte's forces refer to activity; no specific bodily condition is stated.
+- **Social/relationship:** Successful work within a hierarchy and independent scientific work are ABC examples.
+- **Events/manifestations:** Expansion of peaceful scientific or commercial activity, with increasing work independence.
+- **Conflicts/notes:** Unhindered activity is a source expression, not a universal guarantee of effortless results.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 299 (entry start); [ABC entry](#abc-entry), printed p. 460.
+
+## Contradictions
+
+The entries emphasize practical activity and freedom to work. Work in a hierarchy and independent scientific work are alternatives; ABC does not limit independence to self-employment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Mars`: the practitioner, free use of one's forces, and large-scale unfolding of scientific, commercial, or peaceful activity.
-- Chart expression: effective execution, applied mastery, and expert activity that moves without obstruction.
+In `Kronos/Apollon = Mars`, Mars specifies the pair as practice: knowledge and ability become scientific or commercial activity. The [Witte entry](#witte-entry) describes the practitioner and the unhindered expansion of peaceful work, while the [ABC entry](#abc-entry) adds scientific work, experience, and increasing independence in work. The focus is applied activity rather than the authority or recognition of an interchangeable sibling orientation.
 
 ## Links
 

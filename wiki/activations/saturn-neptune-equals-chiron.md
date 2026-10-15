@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Chiron Neptune](../triads/saturn-chiron-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 91.
 
 #### Sandbach Entry
 
 One can potentially heal others by helping them to experience the gap between their ideals and reality, and to perceive that this gap serves the purpose of fostering soul evolution. Helping others to see deeply into their fears so they may be released.
 
+## Comparative Schema
+
+- core meaning: potential spiritual help through understanding the distance between ideals and reality.
+- psychology: deepening awareness of fears so that they may be released.
+- body/health: The healing language is spiritual and potential; no bodily condition or treatment is specified.
+- social/relationship: helping others recognize the meaning of their difficulties and fears.
+- events/manifestations: insight into fears and the possibility of release or soul evolution.
+- conflicts/notes: This single Sandbach entry does not supply practical-boundary advice or a guaranteed healing result.
+
+## Contradictions
+
+- The source qualifies the helping influence as potential.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Chiron` heals by revealing the gap between ideals and reality and by helping fears come into view for release. It is useful for spiritualizing disappointment without denying it; the caution is to keep compassion connected to practical boundaries.
+In `Saturn/Neptune = Chiron`, Chiron specifies the Saturn/Neptune axis through helping others understand the gap between ideals and reality. [Sandbach](#sandbach-entry) presents that gap as a possible occasion for soul evolution and describes helping fears become clear enough to be released. His healing language is explicitly potential and belongs to this spiritual framework; the entry offers no specified physical treatment or guaranteed result.
 
 ## Links
 

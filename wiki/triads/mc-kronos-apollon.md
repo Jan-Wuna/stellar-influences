@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Kronos Apollon`
 - Astronomicon triad-set: `MC ¤ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md)
-- [MC/Apollon = Kronos](../activations/mc-apollon-equals-kronos.md)
-- [MC/Kronos = Apollon](../activations/mc-kronos-equals-apollon.md)
+- [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md): base axis [Kronos/Apollon](../axes/kronos-apollon.md); activator [MC](../factors/mc.md).
+- [MC/Apollon = Kronos](../activations/mc-apollon-equals-kronos.md): base axis [MC/Apollon](../axes/mc-apollon.md); activator [Kronos](../factors/kronos.md).
+- [MC/Kronos = Apollon](../activations/mc-kronos-equals-apollon.md): base axis [MC/Kronos](../axes/mc-kronos.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Kronos/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `MC/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
-- `MC/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `93`
-- `MC/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `91`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md#witte-entry) (PDF entry-start p. 299); [MC/Apollon = Kronos](../activations/mc-apollon-equals-kronos.md#witte-entry) (PDF entry-start p. 74); [MC/Kronos = Apollon](../activations/mc-kronos-equals-apollon.md#witte-entry) (PDF entry-start p. 73).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Apollon = MC](../activations/kronos-apollon-equals-mc.md#abc-entry) (printed p. 460); [MC/Apollon = Kronos](../activations/mc-apollon-equals-kronos.md#abc-entry) (printed p. 93); [MC/Kronos = Apollon](../activations/mc-kronos-equals-apollon.md#abc-entry) (printed p. 91).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = MC`: great knowledge, large experience, and becoming an authority for many people.
-- `MC/Apollon = Kronos`: raises the axis into intellectual authority and high standing.
-- `MC/Kronos = Apollon`: expands the axis into authority over science, commerce, and trade.
+MC, Kronos and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Apollon](../axes/kronos-apollon.md)
+- [MC/Apollon](../axes/mc-apollon.md)
+- [MC/Kronos](../axes/mc-kronos.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)

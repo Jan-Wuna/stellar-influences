@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point MC Apollon`
 - Astronomicon triad-set: `VP MC ¥`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [MC/Apollon = Vernal Point](../activations/mc-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = MC](../activations/vernal-point-apollon-equals-mc.md)
-- [Vernal Point/MC = Apollon](../activations/vernal-point-mc-equals-apollon.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [MC/Apollon](../axes/mc-apollon.md) | `Vernal Point` | [MC/Apollon = Vernal Point](../activations/mc-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | `MC` | [Vernal Point/Apollon = MC](../activations/vernal-point-apollon-equals-mc.md) |
+| [Vernal Point/MC](../axes/vernal-point-mc.md) | `Apollon` | [Vernal Point/MC = Apollon](../activations/vernal-point-mc-equals-apollon.md) |
 
 ## Source Coverage
 
-- `MC/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
-- `MC/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `92`
-- `Vernal Point/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `52`
-- `Vernal Point/MC = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `35`
-- `Vernal Point/MC = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `19`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `MC/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `74`.
+- `MC/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-apollon-equals-vernal-point.md#abc-entry), printed p. `92`.
+- `Vernal Point/Apollon = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-mc.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-mc.md#abc-entry), printed p. `52`.
+- `Vernal Point/MC = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-mc-equals-apollon.md#witte-entry), one-based PDF entry-start p. `35`.
+- `Vernal Point/MC = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-mc-equals-apollon.md#abc-entry), printed p. `19`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Vernal Point`: externalizes the axis into many meetings, rich experience, and visible scientific life.
-- `Vernal Point/Apollon = MC`: This formula emphasizes to possess a broad mental horizon, a wholesale merchant, one who longs for distant places, and the scientist.
-- `Vernal Point/MC = Apollon`: This formula emphasizes life’s experiences (external), aspiring, the will to expand, and ones general attitude to religions.
+Use the orientation whose base pair and activating factor match the requested formula. `MC/Apollon = Vernal Point` activates `MC/Apollon` with `Vernal Point`; it is distinct from `Vernal Point/Apollon = MC` and `Vernal Point/MC = Apollon`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

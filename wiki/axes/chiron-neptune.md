@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `Chiron/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `98` (Principle and Process; chapter heading on PDF `97`).
 
 #### Principle
 
@@ -60,6 +64,15 @@ A subtle sensing of the presence of helping intelligences, and ability to tap in
 #### Process
 
 The clearing of the imagination of fears and the aligning of it with spiritual forces. The growth of one’s ability to accept and trust spiritual messages, and to be able to receive them by attentive attunement to their wavelength.
+
+## Comparative Schema
+
+- Core meaning: Imagination and subtle receptivity become means of spiritual help and refinement in the [Principle](#principle) and [Process](#process).
+- Psychology: Clearing fear, unrealistic idealism, and limiting fantasy from the imagination is explicit; attentive receptivity to spiritual messages is the proposed process.
+- Body/health: Healing and overcoming addictions occur in the source's spiritual account. It supplies no clinical mechanism, diagnosis, or demonstrated therapeutic efficacy for magic or beauty.
+- Social/relationship: Indirect expressions of love, seeing beyond another person's shortcomings, and helping others perceive beauty or other realms are explicit in the [Principle](#principle).
+- Events/manifestations: The entry describes a subtle, hidden, or indirect helping influence and situations intended to loosen limiting idealism or fantasy, without specifying a concrete event type.
+- Conflicts/notes: Spiritual imagination and unrealistic fantasy are distinct within the entry. Split words including "weak nesses," "wher ever," and "ideal ism" remain in the source passage; the PDF locator identifies it without assuming printed pagination.
 
 ## Related Activations
 
@@ -76,11 +89,14 @@ The clearing of the imagination of fears and the aligning of it with spiritual f
 - [Chiron/Neptune = Uranus](../activations/chiron-neptune-equals-uranus.md)
 - [Chiron/Neptune = Venus](../activations/chiron-neptune-equals-venus.md)
 
+## Contradictions
+
+The entry's trust in spiritual messages is coupled with clearing limiting fantasy and fear. These are a proposed developmental relationship within one source, not independent proof of spiritual or therapeutic claims.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune`: subtle healing through imagination, intuition, and refined perception: sensing helpful intelligences, seeing through others' shortcomings into soul-level potential, and using inspired feeling as an instrument of uplift and repair.
-- Chart expression: a hidden or indirect healing influence, to magic and beauty as real therapeutic forces, and to growth that comes from clearing fear, fantasy, addiction, and unrealistic idealization out of the imagination. Liabilities: spiritual projection, escapism, over-idealizing other people, and confusing subtle receptivity with truth before it has been tested.
+`Chiron/Neptune` concerns the refinement of imagination into a subtle way of helping. In the source's spiritual framework, receptivity to helping intelligences and an ability to see beyond another person's shortcomings support hidden or indirect expressions of love and an appreciation of magic and beauty in the [Principle](#principle). The [Process](#process) connects this with clearing fear and becoming attentive to spiritual messages. The source also distinguishes this development from unrealistic idealism, limiting fantasy, and addictions. These are its spiritual claims about growth and healing, not evidence that imagination, magic, or beauty provides a clinical treatment.
 
 ## Links
 

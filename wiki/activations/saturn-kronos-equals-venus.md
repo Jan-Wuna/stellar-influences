@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Venus Saturn Kronos](../triads/venus-saturn-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 Settlement for breach of relations. The authorities reimburse the expenses.
 
@@ -42,13 +46,29 @@ Settlement for breach of relations. The authorities reimburse the expenses.
 
 #### ABC Entry
 
-Special patience in love, dominant harmony in old age, peace problems of the state, peace tasks of the state, concentration on a special skill, and important task of love
+Particular patience in love, dominant harmony in old age, the state's problems of peace, the state's tasks of peace, great lovesickness, concentration on a particular art, problems of a great love, and an important task of love.
+
+Translation and omitted clauses checked against the German scan: printed p. 360, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Love, harmony, and peace require patience or an institutional settlement.
+- Psychology: Patience in love, lovesickness, and concentration on a particular art.
+- Body/health: Old age is a setting for harmony; no bodily condition is specified.
+- Social/relationship: A breach of relations, a great love's problems, and official peace responsibilities.
+- Events/manifestations: Settlement after a broken relationship, reimbursed expenses, artistic concentration, and peace tasks.
+- Conflicts/notes: The verified German restores lovesickness and problems of a great love; harmony is therefore not the entry's only tone.
+
+## Contradictions
+
+Harmony and relationship pain are both present in the ABC entry. Witte's reimbursement concerns a concrete settlement and does not establish emotional reconciliation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Venus`: settlement for breach of relations, the authorities reimburse the expenses.
-- Practical expression: special patience in love, dominant harmony in old age, peace problems of the state, peace tasks of the state, and concentration on a special skill.
+In `Saturn/Kronos = Venus`, Venus specifies the Saturn/Kronos axis through the patient work of love, harmony, and peace under institutional demands. The [Witte entry, PDF p. 227](#witte-entry) gives settlement after broken relations and reimbursement by authorities; the verified [ABC entry, printed p. 360](#abc-entry) connects love's tasks with both harmony in old age and the pain of a troubled great love.
+
+The passage also retains state peace responsibilities and concentration on art. These are related fields of sustaining or restoring accord, while a financial settlement remains distinct from a relationship becoming harmonious.
 
 ## Links
 

@@ -1,0 +1,308 @@
+{
+  "scope": "17 reviewed pages: 15 Pluto/Vulcanus activations and two queued repairs",
+  "checks": [
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Jupiter"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Kronos"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Mars"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = MC"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Mercury"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Moon"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Neptune"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Node"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Poseidon"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-saturn.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Saturn"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-sun.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Sun"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Uranus"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-venus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Venus"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-vernal-point.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Vernal Point"
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-zeus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Pluto/Vulcanus = Zeus"
+    },
+    {
+      "path": "wiki/activations/saturn-cupido-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Cupido = Moon"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-uranus.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Uranus"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-jupiter.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Successful force development, successful power change, developing financial force, joy over growing influence, power development of money, beneficial power change, beneficial energy developments, growing financial force, and growing legal influence",
+      "new_text": "Successful unfolding of strength, successful change of power, developing financial strength, joy in growing influence, the unfolding of the power of money, advantageous changes of power, beneficial energy developments, growing financial strength, growing legal influence.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Special violence developments, influential developments in the state, great energydevelopment, power development of the hierarchic, power changes in the state, independence of violence developments, and growing state power",
+      "new_text": "Special developments of violence, influential developments in the state, great unfolding of energy, unfolding the strength of the hierarchy, changes of power in the state, developments of violence becoming independent, growing state power.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influenced development work, development of the work force, development of powerful activity, development of power activity, production of power change, strong development impulses, effective violence development, and growing energy development",
+      "new_text": "Influential development work, unfolding working strength, developing powerful activity, developing activity involving power, bringing about a change of power, strong impulses toward development, active development of violence, growing development of energy.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influence of internal development, development of psychic change, development of inner energies, development of my power development, soul crah development, influence of psychic developments, growing psychic power, and growing psychic influence",
+      "new_text": "The influence of inner development, unfolding an inner change, developing inner energies, my unfolding of power, developing strength of soul, influencing inner developments, growing psychological strength, growing inner influence.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-mercury.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influenced media development, developing thought power, talking about energy development, violence development in youth, strong media development, strong traffic development, different media influence/3, and growing power in youth",
+      "new_text": "Influential unfolding of media, developing the power of thought, conversations about energy development, unfolding violence in youth, strong media development, strong transport development, changed media influence, growing strength in youth.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-moon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influence developing women, evolution of a strong people, development of flow force, powerY changes in people, growing violence against women, growing influence of women, growing influence of feelings, and changing forces of flow",
+      "new_text": "A woman developing influence, evolution of a strong people, developing emotional strength, changes of power among the people, growing violence against women, growing influence of women, growing influence of feelings, changing strength of feelings.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Exchangeable violence developments, metaphysics development influences, energy development by water, growing air pollution, and etc. see above",
+      "new_text": "Disappointing developments of violence, the developmental influence of metaphysics, development of subtle energy, changes through unknown influences, changes through the force of water, energy development through water, growing influences of air.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influx/3 in a connection develop, violent change of a connection, power development in a connection, connected with a power change, changes in an influential relationship, and growing relations to power",
+      "new_text": "Developing influence in a connection, violent change of a connection, unfolding power in a connection, being connected with a change of power, changes in an influential relationship, growing connections to power.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-poseidon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Influenced cultural development, tremendous mental changes, violent change in truth, powerful unfolding of truth, strong spiritual development, transfonnation of spiritual energies, altered cultural influence, and growing spiritual force",
+      "new_text": "Influential cultural development, tremendous spiritual or intellectual changes, violent alteration of truth, forceful unfolding of truth, strong spiritual development, transformation of spiritual energies, changed cultural influence, growing spiritual strength.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-saturn.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Influential alternations in old age, concentration on energy development, problematic change of power, painful development of violence, strong shocks in a development, losses due to violent changes, and growing force through empathy",
+      "new_text": "Influential changes in old age, concentration on energy development, problematic change of power, painful development of violence, strong disturbances in a development, losses through violent changes, growing strength through seriousness.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-sun.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Development of cine's influence centre, developing body force, personal power development, changes in persijn)ic influence, growing body force, growing energy centre, growing personal influence, and changing power influence",
+      "new_text": "Development of a center of influence, developing bodily strength, personal unfolding of power, changes in personal influence, growing bodily strength, a growing energy center, growing personal influence, changing influence of power.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-uranus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Dynamically growing force, uniform technical changes, new energy transformation, sudden force unfolding, sudden power change, rhythmic encrusia unfolding, surprising force unfolding, and unrest by growing power",
+      "new_text": "Dynamically growing strength, influential technical changes, new energy transformation, sudden unfolding of strength, sudden change of power, rhythmic unfolding of energy, surprising unfolding of violence, unrest through growing violence.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-venus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Influenced art developments, development of a peace power, harmonious power change, power through growing beauty, powerful development in love, growing power through harmony, and growing love power",
+      "new_text": "Influential artistic developments, development of a power for peace, harmonious change of power, strength through growing beauty, powerful development in love, growing strength through harmony, growing strength of love.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-vernal-point.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 420
+      },
+      "old_text": "Developments in the public sphere, developments in violence in the public sphere, violent changes in the public sphere, development of power in the public sphere, and life in the public sphere",
+      "new_text": "Influential developments in public, developments of violence in public, violent changes in public life, unfolding power in public life, changes of power in public, public energy development.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    },
+    {
+      "path": "wiki/activations/pluto-vulcanus-equals-zeus.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 209,
+        "printed_page": 421
+      },
+      "old_text": "Beginning of a powerful alternation, developing movement force, developing power force, changing power in filtration, altering by fire violence, increasing force efforts, and changes by energetic movement",
+      "new_text": "Beginning of a mighty change, developing leadership strength, developing performance capacity, change of power in leadership, change through the force of fire, growing exertions of strength, transformations through energetic leadership.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p209.png",
+      "inspection": "Full German glyph row visually read, boundaries checked against adjacent markers."
+    }
+  ],
+  "queued_repairs": [
+    "Saturn/Cupido Moon: economic/monetary-union cache replaced by women's community/feelings passage, ABC PDF176 printed354 Moon glyph checked.",
+    "Saturn/Hades Uranus: existing ABC repair freshly rechecked PDF177 printed357; Witte PDF225 second variant Uranus glyph <?) removed, complete sentence text preserved."
+  ]
+}

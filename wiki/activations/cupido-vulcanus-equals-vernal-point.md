@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
 - Triad hub: [Vernal Point Cupido Vulcanus](../triads/vernal-point-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source reference: printed p. 277 (PDF p. 273).
 
 To become generally known through art creation. Mighty general art creation. Powerful organizations.
 
@@ -42,12 +46,27 @@ To become generally known through art creation. Mighty general art creation. Pow
 
 #### ABC Entry
 
-Energy community for the public, influence of a community. in public life, community in public, power community in public, and strength of a community in public
+Source reference: printed p. 434 (PDF p. 216). English wording checked against the German scan.
+
+An energy community for the public, a community's influence in public life, violence against the community in public, a powerful community in public, and the strength of a community in public.
+
+## Comparative Schema
+
+- core meaning: Communal strength and artistic creation become visible in public life.
+- psychology: No individual motive or psychological trait is specified.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Powerful organizations and a community's public influence.
+- events/manifestations: Becoming generally known through art, major public art creation, and violence against a community in public.
+- conflicts/notes: Public visibility does not by itself establish institutional size, purpose, or approval.
+
+## Contradictions
+
+Public artistic influence and public violence are different examples of collective power entering public life. The entries do not establish a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Vernal Point`: collective force becoming visible in general life through reputation, large institutions, and public creative output. Main caution: public power becoming an end in itself.
+In `Cupido/Vulcanus = Vernal Point`, Vernal Point specifies communal strength through its public presence. Becoming generally known through art and powerful organizations are named in the [Witte entry](#witte-entry); the [ABC entry](#abc-entry) likewise places communal energy, influence, and strength in public life. It also preserves violence against a community in public as a distinct manifestation. The common theme is public expression, without an inferred motive to seek power for its own sake.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
 - Triad hub: [Saturn Node Hades](../triads/saturn-node-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be separated by sickness, To retire. Separation through enmity or unpleasant 
 
 Burden of criminal connection, lack of patience in a relationship, dangerous tasks in a connection, problems due to poor connection, disadvantages due to lossy connection, and problems due to a connection from the past
 
+## Comparative Schema
+
+- core meaning: burdensome connections and separation under adverse circumstances.
+- psychology: ABC includes lack of patience in a relationship.
+- body/health: Witte's sickness-related separation remains an attributed claim.
+- social/relationship: enmity, problematic past ties, and dangerous or criminal associations.
+- events/manifestations: retirement, separation, and disadvantages from a damaging connection.
+- conflicts/notes: criminal and fatal language describes source possibilities, not facts about a person.
+
+## Contradictions
+
+- The entries emphasize adverse relational circumstances without establishing one necessary cause or outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Node = Hades`: to be separated by sickness, to retire, separation through enmity or unpleasant fatal blow.
-- Practical expression: burden of criminal connection, lack of patience in a relationship, dangerous tasks in a connection, problems due to poor connection, and disadvantages due to lossy connection.
+Hades specifies the Saturn/Node axis through the burdens or harmful circumstances attached to a connection. [Witte](#witte-entry) names withdrawal and separation through illness or enmity; [ABC](#abc-entry) places difficulty in dangerous tasks, deficient ties, and connections carried from the past. The supported throughline is a relationship whose circumstances create disadvantage or loss. The source's criminal and fatal imagery remains conditional description, not an accusation or prediction about anyone.
 
 ## Links
 

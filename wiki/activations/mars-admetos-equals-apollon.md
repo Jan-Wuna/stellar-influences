@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Admetos](../axes/mars-admetos.md)
 - Triad hub: [Mars Apollon Admetos](../triads/mars-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 202 (one-based), Mars + Admetos, Apollon entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Scientific specialist. Satisfying activity in a small circle.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 319; PDF p. 158 (one-based), Mars + Admetos, Apollon entry.
+
 #### ABC Entry
 
-Extension of depressing activity, success through exhausting work, limitation of scientific work, end of successful work, firm will for freedom, fundamental work of science, creating trade blockades, and increasing deepening into work
+Expansion of depressing activity; success through persevering work; restriction of scientific work; end of successful work; a firm will for freedom; thorough scientific work; create trade blockades; increasing immersion in work.
+
+## Comparative Schema
+
+- Core meaning: Scientific specialization and sustained work coexist with restriction or an ending.
+- Psychology: A firm will for freedom and increasing immersion in work are ABC themes.
+- Body/health: Depressing activity is attributed source language, not a clinical diagnosis.
+- Social/relationship: A small working circle and scientific work give the theme its setting.
+- Events/manifestations: Satisfying specialist work, trade blockades, and the end of successful work are named.
+- Conflicts/notes: Satisfaction and success through perseverance remain alongside limitation.
+
+## Contradictions And Tensions
+
+Satisfaction and success through perseverance remain alongside limitation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Apollon`: scientific specialism and satisfying activity that remains small, technical, or narrowly scoped.
-- Chart expression: niche expertise and concentrated output, with growth possible only inside carefully bounded conditions.
+With Apollon, Mars/Admetos describes concentrated expertise and the sustained work it requires. Witte's scientific specialist and satisfying activity in a small circle give the restriction a productive form. ABC adds success through perseverance and thorough scientific work, while retaining restriction of science, depressing activity, trade blockades, and the end of successful work. The small or specialized field can be satisfying without making every form of limitation beneficial or every effort successful. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

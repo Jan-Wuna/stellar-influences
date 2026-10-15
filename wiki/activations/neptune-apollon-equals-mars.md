@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Mars`
 - Astronomicon formula: `Y/¥ = U`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 Activity without success, wasted efforts. Activities in occultism. To work in a scientific unknown field.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `400`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Spread of insecurity at work, success through intuitional impulses, successful work in the air, exchangeable freedom emulations, metaphysical knowledge processing, extensive breathing work, and vie! Work in the water
+Spread of uncertainty at work, success through intuitive impulses, successful work in the air, disappointing efforts toward freedom, working on metaphysical knowledge, extensive breathing work, and much work in water
+
+## Comparative Schema
+
+- core meaning: work in uncertain or unfamiliar fields, with both wasted and successful effort represented.
+- psychology: uncertainty at work and intuitive impulses are ABC themes.
+- body/health: breathing work is a historical activity example, not a clinical recommendation.
+- social/relationship: efforts toward freedom are listed without a specific relationship role.
+- events/manifestations: occult activity, work in an unknown scientific field, aerial work, and water work are stated.
+- conflicts/notes: Witte's wasted effort and ABC's successful activities differ materially; neither outcome is universal.
+
+## Contradictions
+
+Witte explicitly names unsuccessful work, while ABC also names success through intuition or work in the air. The entries preserve different outcomes rather than making every uncertain undertaking futile.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Mars`: Activity without success, wasted efforts. Activities in occultism. To work in a scientific unknown field.
-- Practical focus: `Neptune/Apollon` is energized through effort spent in uncertain, unproven, or occult fields. It often shows work that pushes into invisible or speculative territory, where activity is real but success is elusive or wasted through diffusion.
-- Practical expression: spread of insecurity at work, success through intuitional impulses, successful work in the air, exchangeable freedom emulations, and metaphysical knowledge processing.
+In Neptune/Apollon = Mars, Mars specifies the pair through effort in uncertain or unfamiliar activity. The [Witte entry](#witte-entry) includes wasted effort, occult work, and an unknown scientific field; [ABC](#abc-entry) adds uncertainty at work but also successful intuitive impulses and work in the air (printed p. 400, PDF p. 199). Water work, breathing work, and disappointing efforts toward freedom are further examples. The range permits both effective and wasted effort, without a frequency claim about either.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Pluto Admetos](../triads/vernal-point-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Deep reaching changes. A transformation that takes place due to a generail standstill.
 
@@ -42,13 +46,27 @@ Deep reaching changes. A transformation that takes place due to a generail stand
 
 #### ABC Entry
 
-Closed developments in the public life, end of public development, growing depression in the public, profound developments in the public life, and changes in the public cycle
+- Source page: 55; PDF page: 26 (one-based spread).
+
+Restricted developments in public life, end of a public development, growing depressions in public, profound developments in public life, and changes in public circulation
+
+## Comparative Schema
+
+- core meaning: Deep public change occurring with restriction, an ending, or standstill.
+- psychology: Growing public depression is attributed source wording.
+- body/health: No bodily diagnosis is supplied.
+- social/relationship: No detailed personal relationship pattern is supplied.
+- events/manifestations: A public development ending or profound changes in public circulation.
+- conflicts/notes: The Witte typo generail remains unchanged; its clear standstill clause supports the synthesis.
+
+## Contradictions
+
+A development ending and profound development can describe different outcomes. Neither establishes that public depression produces beneficial change.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Pluto`: deep reaching changes and a transformation that takes place due to a generail standstill.
-- Practical expression: closed developments in the public life, end of public development, growing depression in the public, profound developments in the public life, and changes in the public cycle.
+In `Vernal Point/Admetos = Pluto`, Pluto specifies the pair through deep change around restriction or standstill. The [Witte entry](#witte-entry) explicitly links transformation to a general standstill. The [ABC entry](#abc-entry) adds restricted development, the end of a public development, and profound public change. The organizing meaning is a process altered at depth under limits, while the associated depression language remains an attributed collective description rather than a diagnosis.
 
 ## Links
 

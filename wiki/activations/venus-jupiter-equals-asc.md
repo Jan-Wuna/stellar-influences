@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Asc](../triads/venus-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Jupiter`
+- Source reference: PDF page `177` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Pleasantness and success through others. To be admired.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Source reference: printed page `272`; PDF page `135` (one-based).
+
 #### ABC Entry
 
-Peace success in the environment, joy in a gentle environment, artistic success in the place, love joy with a partner, love happiness in the place, right wing peace in the place, preference for money in the environment, and advantages of a gentle place
+Successes in peace in the surroundings, joy in beautiful surroundings, artistic success locally, joy in love with the partner, happiness in love locally, legal peace locally, preference for money in the surroundings, and advantages of a beautiful place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Jupiter`
+- Source reference: printed page `179`, coded entry `0600`.
 
 #### Ebertin Entry
 
 Cheerfulness, a warm heart, sociable, confident. Acquaintanceship and love, being happy with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Jupiter midpoint`
+- Source reference: PDF page `57` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Concentrating on presenting ideas and opinions about your values or ethics; brin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Affectionate social presence, admiration, and the expression of values through personal style.
+- Psychology: Warmth, sociability, confidence, and a desire for approval or beautiful surroundings.
+- Body/health: The entries describe appearance and adornment, without a medical claim.
+- Social/relationship: Happy company, affectionate acquaintance, and pleasure or success through others.
+- Events/manifestations: Attention to clothing and jewelry, artistic success locally, and presenting ethical or cultural views.
+- Conflicts/notes: Admiration and refinement are emphasized; no supplied entry makes social approval automatic.
 
 ## Contradictions
 
-- None recorded yet.
+- Admiration and refinement are emphasized; no supplied entry makes social approval automatic.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Asc`: likability, graceful optimism, and the ability to attract goodwill through kindness, beauty, and encouragement. Main caution: indulgent self-presentation: charm can become too performative, complacent, or dependent on pleasure and approval.
+`Venus/Jupiter = Asc` brings the enjoyment of love and beauty into the way someone meets others and presents themselves. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe admiration, sociability, and happiness in company, while the [ABC entry](#abc-entry) also places artistic success, affection, and legal peace in the surrounding environment. [Sandbach](#sandbach-entry) gives this warmth a visible form in fine clothes, jewelry, and a wish for attention and approval. [Munkasey](#munkasey-entry) adds a cultured or gentle style through which values and ethical opinions are presented. The shared emphasis is an affectionate, pleasing presence, with appearance and approval remaining distinct from the substance of those values.
 
 ## Links
 

@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Mars MC](../triads/mercury-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
 
 One’s own way of talking. Quickly resolving. Love of fighting. To be in a state of excitement. Haste.
 
@@ -45,15 +49,23 @@ One’s own way of talking. Quickly resolving. Love of fighting. To be in a stat
 
 #### ABC Entry
 
-I at the talking about work, impulses of the young soul, describing my work, my thoughts impulses, my actions, my activities in the youth, and my language activities
+German passage (transcribed from PDF page `120`, printed page `242`):
+
+> Beseelte Jugend-Arbeit, Gespräche über seelische Impulse, ich spreche über Arbeit, Impulse einer jungen Seele, meine Arbeit beschreiben, meine Gedanken-Impulse, meine Handlungen bedenken, meine Tätigkeit in der Jugend, meine Sprach-Tätigkeit
+
+Editorial translation from the German passage: Soulful youth work; conversations about inner impulses; I speak about work; impulses of a young soul; describing my work; my impulses of thought; considering my actions; my activity in youth; my language activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Printed source page: `150`; entry code: `0481`.
+
 #### Ebertin Entry
 
-Readiness for action, courage, determination, ability to retaliate in the proper manner. A fighter, discussion speaker. Mercury/Ju piter
+Readiness for action, courage, determination, ability to retaliate in the proper manner. A fighter, discussion speaker.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +82,21 @@ Fulfilling personal goals to address life’s problems more directly and complet
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal decision and forceful expression directed toward one's goals.
+- psychology: Readiness, courage, determination, and haste.
+- body/health: Excitement is described, without a specific bodily or medical claim.
+- social/relationship: Arguing with those in charge and trying to exert control through speech.
+- events/manifestations: Directly addressing problems, completing actions, and sharing ideas publicly.
+- conflicts/notes: Purposeful assertion, haste, and efforts to control others through speech are distinct source possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+The entries include both direct problem-solving and combative haste or controlling speech. Ebertin's next-heading contamination has been removed after viewing the actual coded entry; Sandbach's retained locator is a chapter start.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = MC`: outspoken ambition, quick decision, and the ability to speak with force, authority, and tactical clarity. Main caution: polemical overdrive: the public role can become too combative, impatient, or defined by perpetual conflict.
+MC specifies Mercury/Mars through one's own decisions, speech, and goals: the [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries join quick resolution and readiness for action to excitement and haste. [Sandbach](#sandbach-entry) makes forceful expression, argument with authority, and the wish to share ideas explicit. [Munkasey](#munkasey-entry) (p. 152) connects that force to addressing problems and completing unfinished actions, while retaining the possibility of controlling others through speeches. Purposeful assertion and combative haste are both represented.
 
 ## Links
 

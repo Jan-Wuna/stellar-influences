@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Node`
 - Astronomicon formula: `R/W = g`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Connection with old, sick or unfortunate women or widows. Separation of connections, of unions, affecting the mind and female persons for a long time. Connections, which overwhelmingly dominate the evening hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Burdening connection to a woman, relationships to a separately living woman, patience in a women's connection, problematic feeling connections, connections to emsten women, and connection in the evening hour
+A burdening connection to a woman, relationships with a woman living separately, patience in a connection with a woman, problematic emotional connections, connections with serious women, and a connection in the evening hour
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `127`, entry `0383`.
 
 #### Ebertin Entry
 
 Lack of adaptability and self-confidence, tendency to shun other people. Association with uncommunicative, lonely or sick women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `32` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Increased chances of meeting others who need your support; separation from peopl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: contact shaped by emotional vulnerability, support needs, seriousness, or separation.
+- psychology: lack of confidence, difficulty adapting, and heavy feelings about the past are named.
+- body/health: Witte and Ebertin mention sick women as historical examples of association.
+- social/relationship: contacts may need support, return help, or allow reciprocal sharing of deep feelings.
+- events/manifestations: separation from helpers, evening connections, and encounters with moody people are examples.
+- conflicts/notes: serious contact does not by itself mean dependable or lasting attachment.
 
 ## Contradictions
 
-- None recorded yet.
+Social withdrawal and the search for emotionally receptive contacts are different responses described by the entries. Support can be offered or returned, but the sources also retain separation and burdensome connection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Node`: dependable attachment, mature kinship, and relationships that prove themselves through time and difficulty. Main caution: heavy belonging: ties can feel dutiful, inhibited, or shaped more by burden than by ease.
+In Moon/Saturn = Node, Node specifies the pair through contacts that expose emotional vulnerability or require support. [Sandbach](#sandbach-entry) describes seeking people who acknowledge and share deep feelings, as well as releasing negative feelings tied to the past; [Munkasey](#munkasey-entry) includes both meeting those who need help and receiving help in return (p. 120).
+
+[Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) also retain burdensome connections, separation, and association with lonely, serious, or sick women. Those historical examples qualify the supportive possibilities: seriousness is not evidence that a bond will be secure or enduring.
 
 ## Links
 

@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Asc Cupido`
 - Astronomicon triad-set: `X Asc ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Cupido = Uranus](../activations/asc-cupido-equals-uranus.md)
-- [Uranus/Asc = Cupido](../activations/uranus-asc-equals-cupido.md)
-- [Uranus/Cupido = Asc](../activations/uranus-cupido-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Cupido = Uranus](../activations/asc-cupido-equals-uranus.md) | [Asc/Cupido](../axes/asc-cupido.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Asc = Cupido](../activations/uranus-asc-equals-cupido.md) | [Uranus/Asc](../axes/uranus-asc.md) | [Cupido](../factors/cupido.md) |
+| [Uranus/Cupido = Asc](../activations/uranus-cupido-equals-asc.md) | [Uranus/Cupido](../axes/uranus-cupido.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
-- `Asc/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `123`
-- `Uranus/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `117`
-- `Uranus/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
-- `Uranus/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Cupido = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-cupido-equals-uranus.md#witte-entry), one-based PDF entry-start p. `91`.
+- `Asc/Cupido = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-cupido-equals-uranus.md#abc-entry), printed p. `123`.
+- `Uranus/Asc = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-asc-equals-cupido.md#witte-entry), one-based PDF entry-start p. `88`.
+- `Uranus/Asc = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-asc-equals-cupido.md#abc-entry), printed p. `117`.
+- `Uranus/Cupido = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-cupido-equals-asc.md#witte-entry), one-based PDF entry-start p. `236`.
+- `Uranus/Cupido = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-cupido-equals-asc.md#abc-entry), printed p. `374`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Uranus`: surprise unions, wedding disruptions, family excitement, or abrupt changes in living arrangements.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

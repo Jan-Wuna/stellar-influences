@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Poseidon = Kronos`
 - Astronomicon formula: `£/¨ = ¤`
 - Axis page: [Zeus/Poseidon](../axes/zeus-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: PDF p. 296, Zeus + Poseidon, Kronos row; checked against the scan.
+
 Great mental accomplishment. To be an authority because of ability and mental productivity. Mental leadership and direction.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning of great clarity, special reason efforts, spiritual filtration hierarchy, leading cultural state, clear goals of the state, creative intellectual authorship, self standing intellectual goal striving, state culture design, and important truth testimony
+Reference: printed p. 459 (PDF p. 228), Zeus + Poseidon, Kronos row; checked against the German scan.
+
+Beginning great clarity, special efforts of reason, a spiritual leadership hierarchy, a leading cultural state, clear goals of the state, creative spiritual authority, independent spiritual striving toward goals, state cultural creation, and important testimony to truth.
+
+## Comparative Schema
+
+- Core meaning: Authority grounded in creative intellectual accomplishment and direction.
+- Psychology: Reason, clarity, and independent pursuit of spiritual aims.
+- Body/health: No bodily or medical account is supplied.
+- Social/relationship: Intellectual authority, leadership hierarchy, and the state's cultural role.
+- Events/manifestations: Major mental accomplishment, cultural creation, and testimony to truth.
+- Conflicts/notes: Authority and stated clarity do not independently establish the truth of testimony.
+
+## Contradictions
+
+The scan supports leadership hierarchy rather than "filtration hierarchy", and authority rather than "authorship". Convergence on intellectual leadership is not evidence of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Poseidon = Kronos`: Great mental accomplishment. To be an authority because of ability and mental productivity. Mental leadership and direction.
-- Practical expression: beginning of great clarity, special reason efforts, spiritual filtration hierarchy, leading cultural state, and clear goals of the state.
+In `Zeus/Poseidon = Kronos`, Kronos specifies Zeus/Poseidon through intellectual authority and the ability to give thought direction. The [Witte entry](#witte-entry) ties authority to ability and mental productivity; the [ABC entry](#abc-entry) places it within hierarchies, state cultural work, and important testimony. Creative thought assumes a leading role.
+
+The entries support leadership and accomplishment, without assuring that an authority's beliefs or testimony are correct.
 
 ## Links
 

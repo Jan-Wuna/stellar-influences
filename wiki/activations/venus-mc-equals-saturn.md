@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Saturn MC](../triads/venus-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ To feel hindrances or sorrow in love. Sorrow resulting from separation in love. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `71`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-I love patience, I love my job, my job is love, my patient wife, my problems with love, my steored harmony, concentration on the inner essence of the artificial, soul harmony in old age, and mature love for the partner
+I love patience, I love my task, my task is love, my patient wife, my problems with love, my disturbed harmony, concentration on the inner nature of art, harmony of the soul in old age, and mature love for the partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0680`.
 
 #### Ebertin Entry
 
 Inhibitions, a repressed love inclination, reserve, being unsatisfied in love. Loneliness increasing with age, estrangement, separation, suffering through the mother.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Appreciation of others is judged by their direct efforts for your causes; curbs 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Reserved or burdened affection, with patience and mature love as alternatives.
+- Psychology: Inhibition, difficult spiritual growth, fear of making love public, or uncertainty about authority.
+- Body/health: The entries describe emotional suffering and age without a specific medical condition.
+- Social/relationship: Loneliness, estrangement, separation, or suffering through a mother.
+- Events/manifestations: Reduced recognition or compensation; concentration on art's inner nature and harmony in old age.
+- Conflicts/notes: The ABC's mature love and patient task coexist with the other entries' withholding and sorrow.
 
 ## Contradictions
 
-- None recorded yet.
+- The ABC's mature love and patient task coexist with the other entries' withholding and sorrow.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Saturn`: mature artistry, durable reputation, and success built through patience, reliability, and social tact under pressure. Main caution: inhibited visibility: fear of failure or rejection can make public warmth too guarded and opportunity slower to claim.
+`Venus/MC = Saturn` puts difficulty or restraint around personal affection and appreciation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize sorrow, reserve, loneliness, and separation. The [ABC entry](#abc-entry) also gives patience, mature love, and concentrated attention to art an explicit place. [Sandbach](#sandbach-entry) describes spiritualizing love as arduous and questions the value of authority figures' opinions. [Munkasey](#munkasey-entry) adds curbs on recognition and appreciation for effort. Patient engagement can therefore coexist with an experience of love or acknowledgment as limited; the sources do not warrant a general promise of professional success.
 
 ## Links
 

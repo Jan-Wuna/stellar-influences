@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Pluto MC Zeus](../triads/pluto-mc-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The inner vocation. To develop and work up the performance. Making progress. Dev
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-The unfolding of a fiery soul, the shaping of my evolution, the unfolding of creativity, my psychic efforts, my goal is development, the developing of psychic achievements, the changing of soul welfare, and the growing achievements of the soul
+Editorial translation (checked against the scan): Unfolding of a fiery soul, shaping my evolution, I unfold creativity, my inner efforts, my goal is development, developing inner accomplishments, changing the guidance of the soul, growing accomplishments of the soul.
+
+## Comparative Schema
+
+- core meaning: Inner vocation developed through performance, creativity, and leadership.
+- psychology: Goal-directed effort and shaping one's development.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Leadership is explicit, without a specific group or relationship.
+- events/manifestations: Progress, creative activity, growing accomplishments, and changes of inner direction.
+- conflicts/notes: Duty or a necessary new direction is not established by the entries.
+
+## Contradictions
+
+The entries share active development; changing inner guidance is an additional possibility rather than a required sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/MC = Zeus`: personal duty, effort or production intensifies as development turns in a new direction.
-- Practical expression: the unfolding of a fiery soul, the shaping of my evolution, the unfolding of creativity, my psychic efforts, and my goal is development.
+Zeus specifies Pluto/MC through an inner vocation worked into performance. The [Witte entry](#witte-entry) connects progress with developing leadership; the [ABC entry](#abc-entry) adds creativity, deliberate shaping of development, inner effort, and growing accomplishments. A change in inner guidance is also included, so the direction may change, but the source does not require a new direction or define the effort as duty.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Vulcanus`
 - Astronomicon formula: `W/Asc = §`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be kept under close observation. To be guarded.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of an old place, energy problems of a place, powerful patience of a partner, strong shocks in the place, stagnant environmental energy, enormous urban environment, violent separation from the partner, and loss of a place by violence
+- Source page: 115 (printed); PDF page: 56.
+
+Influence of an old place, energy problems of a place, powerful patience of a partner, strong disturbances at the place, disturbed environmental energy, a severely disturbed environment, violent separation from the partner, losses of a place through violence.
+
+Translation checked against the full exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Close observation or guarded contact amid powerful local pressures.
+- Psychology: A partner's powerful patience is explicit.
+- Body/health: No medical correspondence is established in these exact entries.
+- Social/relationship: Surveillance or guarding, violent partner separation, and disturbed surroundings.
+- Events/manifestations: Energy problems, strong local disturbances, and losses through violence.
+- Conflicts/notes: Observation and patient partnership are separate meanings; violence is an adverse possibility.
+
+## Contradictions
+
+Observation and patient partnership are separate meanings; violence is an adverse possibility.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Vulcanus`: to be kept under close observation, to be guarded.
-- Practical expression: influence of an old place, energy problems of a place, powerful patience of a partner, strong shocks in the place, and stagnant environmental energy.
+In `Saturn/Asc = Vulcanus`, Vulcanus specifies the pair through close observation or being guarded in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds local energy problems and powerful partner patience, while preserving a severely disturbed environment and violent separation or losses. The source range includes watchfulness and pressure without equating every guarded situation with violence.
 
 ## Links
 

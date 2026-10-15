@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Pluto MC Cupido](../triads/pluto-mc-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Concerning ancestors and children. To pick up the thread. Continuing the old tra
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 83; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Development of a soul community, common soul development, I old age the community, my development in the community, my development to the whole, my evolution as a whole, and psychic transformation in of a community
+Editorial translation (checked against the scan): Development of a community of souls, shared unfolding of the soul, I change the community, my development in the community, my development toward the whole, my evolution as a whole, inner transformation in a community.
+
+## Comparative Schema
+
+- core meaning: Personal development through community, artistic talent, or continuity with earlier generations.
+- psychology: Community sense and shared inner development.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Ancestors, children, community, and hereditary transmission are explicit.
+- events/manifestations: Continuing old traditions, developing art, and changing a community.
+- conflicts/notes: Hereditary transmission is source wording without a specified biological mechanism.
+
+## Contradictions
+
+Continuity of tradition and community transformation coexist; change need not mean abandoning the past.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/MC = Cupido`: the native is drawn into family, group or community transformation.
-- Practical expression: development of a soul community, common soul development, i old age the community, my development in the community, and my development to the whole.
+Cupido specifies Pluto/MC through development connecting the person with a community or earlier generations. The [Witte entry](#witte-entry) includes ancestors and children, continuing traditions, hereditary transmission, community sense, and artistic talent. The [ABC entry](#abc-entry) adds shared inner development and the person's role in changing or developing a community. The thread can therefore be continued as well as changed, without reducing every expression to a family event.
 
 ## Links
 

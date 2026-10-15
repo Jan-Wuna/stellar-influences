@@ -21,7 +21,6 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - reinhold-ebertin-the-combination-of-stellar-influences
-  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-05-06
 ---
@@ -33,21 +32,32 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Moon Venus Neptune](../triads/moon-venus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
+
 #### Witte Entry
 
-Woman’s happiness in love obstructed. Womans unhappy love.
+Woman’s happiness in love obstructed. Woman's unhappy love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Ignorance of a gentle woman, autlosation of love for woman, exchange of women's love, love of a woman for water, kiss of a woman in the water, metaphysical people art, insecure love filials, and benevolent expectations of a child
+Intuitions of a beautiful woman, dissolution of love for the woman, disappointing love of women, a woman's love of water, a woman's art in water, metaphysical folk art, uncertain feelings of love, and benevolent emotional expectations.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0628`.
 
 #### Ebertin Entry
 
@@ -64,22 +74,21 @@ Comforting those who delight in deceit, or escape from reality thru drugs, self-
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Romantic feeling that may be impressionable, uncertain, or disappointed.
+- Psychology: Dreaminess, emotional confusion, and equating care with love.
+- Body/health: Drug-related escape is Munkasey's descriptive example, not a medical conclusion or recommendation.
+- Social/relationship: Obstructed happiness in love and the historical image of a disappointed woman.
+- Events/manifestations: Romantic dreams, uncertain feelings, metaphysical folk art, and artistic activity in water.
+- Conflicts/notes: The actual Sandbach Venus/Neptune chapter, one-based PDF pp. 61–62, has no Moon activation; no claim or activation-source coverage is attributed to it.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's actual Venus/Neptune chapter runs from Sun directly to Mercury on one-based PDF p. 61 and ends on p. 62 without a Moon activation. This is an orientation-coverage gap, not a missing passage supplied by another formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Moon`: deep empathy, aesthetic feeling, and the capacity to create soothing or soulful emotional environments. Main caution: emotional leakage: moods can become impressionable, idealized, or too easily swayed by longing and disappointment.
+`Venus/Neptune = Moon` locates romantic longing and uncertainty in feeling. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize obstructed happiness, impressionability, and the historical image of a disappointed woman. The [ABC entry](#abc-entry) adds intuitions, uncertain affection, and metaphysical or water-related art. [Munkasey](#munkasey-entry) develops romantic dreams, equating care with love, and comforting people who escape reality. The supported range combines heightened romantic feeling with difficulty discerning its fulfillment. Sandbach's raw Venus/Neptune chapter omits a Moon activation and supplies no additional claim for this formula.
 
 ## Links
 
@@ -91,5 +100,4 @@ Comforting those who delight in deceit, or escape from reality thru drugs, self-
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
-- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

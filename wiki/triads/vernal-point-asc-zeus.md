@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Asc Zeus`
 - Astronomicon triad-set: `VP Asc £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Zeus = Vernal Point](../activations/asc-zeus-equals-vernal-point.md)
-- [Vernal Point/Asc = Zeus](../activations/vernal-point-asc-equals-zeus.md)
-- [Vernal Point/Zeus = Asc](../activations/vernal-point-zeus-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Zeus = Vernal Point](../activations/asc-zeus-equals-vernal-point.md) | [Asc/Zeus](../axes/asc-zeus.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Asc = Zeus](../activations/vernal-point-asc-equals-zeus.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | [Zeus](../factors/zeus.md) |
+| [Vernal Point/Zeus = Asc](../activations/vernal-point-zeus-equals-asc.md) | [Vernal Point/Zeus](../axes/vernal-point-zeus.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Zeus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
-- `Asc/Zeus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `126`
-- `Vernal Point/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
-- `Vernal Point/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `48`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Zeus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-zeus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `93`.
+- `Asc/Zeus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-zeus-equals-vernal-point.md#abc-entry), printed p. `126`.
+- `Vernal Point/Asc = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-zeus.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-zeus.md#abc-entry), printed p. `21`.
+- `Vernal Point/Zeus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-zeus-equals-asc.md#witte-entry), one-based PDF entry-start p. `50`.
+- `Vernal Point/Zeus = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-zeus-equals-asc.md#abc-entry), printed p. `48`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Zeus = Vernal Point`: machine operation, train crews, and public-facing productive or transport roles.
-- `Vernal Point/Asc = Zeus`: This formula emphasizes the sense of direction, places with military establishments, places of manufacturing firearms, and comradeship in war.
-- `Vernal Point/Zeus = Asc`: This formula emphasizes acquaintance with people who have the authority to command.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

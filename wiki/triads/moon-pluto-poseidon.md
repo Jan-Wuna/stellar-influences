@@ -20,38 +20,46 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Poseidon`
 - Astronomicon triad-set: `R Z ¨`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Pluto = Poseidon](../activations/moon-pluto-equals-poseidon.md)
-- [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md)
-- [Pluto/Poseidon = Moon](../activations/pluto-poseidon-equals-moon.md)
+- [Moon/Pluto = Poseidon](../activations/moon-pluto-equals-poseidon.md): base axis [Moon/Pluto](../axes/moon-pluto.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Poseidon = Moon](../activations/pluto-poseidon-equals-moon.md): base axis [Pluto/Poseidon](../axes/pluto-poseidon.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Pluto = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `191`
-- `Moon/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `207`
-- `Pluto/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
-- `Pluto/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `422`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Pluto = Poseidon](../activations/moon-pluto-equals-poseidon.md#witte-entry) (PDF entry-start p. 129); [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md#witte-entry) (PDF entry-start p. 138); [Pluto/Poseidon = Moon](../activations/pluto-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 264).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Pluto = Poseidon](../activations/moon-pluto-equals-poseidon.md#abc-entry) (printed p. 191); [Moon/Poseidon = Pluto](../activations/moon-poseidon-equals-pluto.md#abc-entry) (printed p. 207); [Pluto/Poseidon = Moon](../activations/pluto-poseidon-equals-moon.md#abc-entry) (printed p. 422).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Poseidon`: This activation spiritualizes `Moon/Pluto` through rapid shifts in worldview, inner meaning, or mental attitude. It favors transformation at the level of perception and interpretation, making emotional change arrive through insight, realization, or altered consciousness.
-- `Moon/Poseidon = Pluto`: To see and recognize new mental or spiritual development. Transformation of the state of mind.
-- `Pluto/Poseidon = Moon`: This activation emphasizes the emotional and metal (psychic) contact with women; The mental influence of female persons; Political, spiritual or worldly transformation of the public.
+Moon, Pluto and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+Printed-wording limitation: The [Pluto/Poseidon = Moon Witte entry](../activations/pluto-poseidon-equals-moon.md#witte-entry) actually prints “metal (psychic)” on PDF264, printed p. 268. The intended word remains uncertain; no metallic meaning or silent correction is inferred.
 
 ## Links
 
+- [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
+- [Pluto/Poseidon](../axes/pluto-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Poseidon](../factors/poseidon.md)

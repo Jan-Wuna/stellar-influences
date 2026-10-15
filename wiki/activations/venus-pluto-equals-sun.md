@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Sun Venus Pluto](../triads/sun-venus-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -43,9 +45,12 @@ Harmonious development of the body. Harmonious passing of the day. Pleasant stat
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `280`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-Development of a artificial center, development of personal desires, developing corporal love, developing love for man, developing personal love development, developing the beauty of the body, and developing preference for men
+Development of an art center, development of personal wishes, developing bodily love, developing love for a man, personal unfolding of love, developing the beauty of the body, and developing a preference for men.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,21 @@ Mastering lower urges to be destructive; skills in demolition; achievements in e
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal, bodily, or creative development shaped by deep affection.
+- psychology: Passionate devotion to goals, deep affection, and mastery of destructive urges.
+- body/health: Witte mentions bodily development and nourishment; these remain historical claims, not medical conclusions.
+- social/relationship: Personal love and consideration for a person's tastes.
+- events/manifestations: Pleasant eating surroundings, artistic achievement, demolition, and elimination are stated examples.
+- conflicts/notes: Munkasey's 'sexual perversion' is his historical evaluative wording, not a neutral diagnosis; ABC's male examples remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+Harmonious bodily/creative development and destructive or eliminative activity differ materially. Munkasey's mastery of destructive urges also differs from indulging them.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Sun`: intense personal magnetism, passionate creativity, and a life direction shaped by transformative love, desire, and value struggles. Main caution: identity can become bound up with possession, seduction, or dramatic power contests.
+In `Venus/Pluto = Sun`, Sun specifies Venus/Pluto development in personal life, the body, and creative purpose. The [Witte entry](#witte-entry) supplies nourishment and pleasant surroundings; [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) emphasize creativity, deep affection, and vitality from passionately loved goals. The [Munkasey entry](#munkasey-entry) adds mastery of destructive urges, artistic achievement, demolition, and elimination. These are specific expressions of directed development or removal, rather than evidence for inevitable possessiveness or power contests.
 
 ## Links
 

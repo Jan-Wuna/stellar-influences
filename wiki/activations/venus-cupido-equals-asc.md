@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Asc`
 - Astronomicon formula: `Q/¡ = Asc`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 To be desired for marriage by many. Others wish the personal friendship of the native.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-peace art in the nearby environment, peaceful local community, harmonious community in the environment, harmonious partner community, harmonious place of art, artists' community at the place, and love art of the partner
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+The art of peace in the nearby environment, a peaceful local community, harmonious community in the surroundings, harmonious partnership community, a harmonious place of art, a local artists' community, and the partner's art of love.
+
+## Comparative Schema
+
+- Core meaning: Shared harmony takes a local interpersonal form.
+- Psychology: A preference for agreeable surroundings.
+- Body/health: No specific health claim.
+- Social/relationship: Friendship sought by others; marriage interest.
+- Events/manifestations: Local artists' community and peaceful places.
+- Conflicts/notes: Others' interest does not establish a completed marriage.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Others' interest does not establish a completed marriage.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Asc`: to be desired for marriage by many.
-- Practical expression: peace art in the nearby environment, peaceful local community, harmonious community in the environment, harmonious partner community, and harmonious place of art.
+Asc specifies Venus/Cupido through the company and shared environment immediately around someone. Others may seek friendship or marriage, while a peaceful locality and artists' community give that welcome a wider setting. The source concerns desired contact as well as belonging. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

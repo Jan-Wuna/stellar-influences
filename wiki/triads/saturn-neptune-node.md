@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md)
-- [Saturn/Neptune = Node](../activations/saturn-neptune-equals-node.md)
-- [Saturn/Node = Neptune](../activations/saturn-node-equals-neptune.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Node = Saturn](../activations/neptune-node-equals-saturn.md) | [Neptune/Node](../axes/neptune-node.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Neptune = Node](../activations/saturn-neptune-equals-node.md) | [Saturn/Neptune](../axes/saturn-neptune.md) | [Node](../factors/node.md) |
+| [Saturn/Node = Neptune](../activations/saturn-node-equals-neptune.md) | [Saturn/Node](../axes/saturn-node.md) | [Neptune](../factors/neptune.md) |
 
 ## Source Coverage
 
-- `Neptune/Node = Saturn`: Michael, page `332`
-- `Saturn/Neptune = Node`: Michael, page `288`
-- `Saturn/Node = Neptune`: Michael, page `296`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Neptune/Node = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-node-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-node-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/neptune-node-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-node-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/neptune-node-equals-saturn.md#munkasey-entry), printed p. `332`.
+- `Saturn/Neptune = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-neptune-equals-node.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-neptune-equals-node.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-neptune-equals-node.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-neptune-equals-node.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-neptune-equals-node.md#munkasey-entry), printed p. `288`.
+- `Saturn/Node = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-node-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-node-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-node-equals-neptune.md#munkasey-entry), printed p. `296`.
+
+For `Saturn/Node = Neptune`, the linked activation records Witte one-based PDF entry-start p. `145`, ABC printed p. `217` (PDF p. `107`), Ebertin printed p. `257`, entry `0910`, and Sandbach one-based PDF chapter-start p. `92`. The Sandbach number is not an exact entry locator.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Denotes how you present yourself to others and how people react to you as a pers
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Personal presentation is understood through other people's responses.
+- **psychology:** Munkasey emphasizes observing habits, mannerisms and conduct.
+- **body/health:** No bodily condition is specified.
+- **social/relationship:** The entry concerns how one appears to others and notices them in return.
+- **events/manifestations:** Pleasant surroundings are an explicit expression.
+- **conflicts/notes:** This repeated-pair entry joins personal presentation with observation of others and pleasant surroundings.
+
+The categories follow the local source entries: [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+This repeated-pair entry joins personal presentation with observation of others and pleasant surroundings. It supplies no distinct three-factor doctrine or guarantee that every response will be favorable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Asc`: Denotes how one present oneself to others and how people react to one as a person; increased ability to notice the mannerisms or habits of others, and to observe how they conduct themselves; life in pleasant surroundings.
+In `Venus/Asc = Asc`, Asc specifies the Venus/Asc axis through the exchange between personal presentation and other people's reactions. [Munkasey](#munkasey-entry) joins awareness of how one is received with noticing the mannerisms, habits and conduct of others, and with life in pleasant surroundings. The focus is attentive participation in an agreeable social setting rather than a fixed claim that others will respond favorably.
 
 ## Links
 

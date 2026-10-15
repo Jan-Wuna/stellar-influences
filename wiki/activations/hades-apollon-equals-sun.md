@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `¢/¥ = S`
 - Axis page: [Hades/Apollon](../axes/hades-apollon.md)
 - Triad hub: [Sun Hades Apollon](../triads/sun-hades-apollon.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -36,18 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 284; PDF p. 280.
+
 Days which bring many obstacles. The man who handles garbage and rags. The man who deals with the science of history or knowledge of the past.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of a man through deprivation, dangerous freedom of a man, dangerous experiences of a man, lack of knowledge about a person, personal knowledge of the past, hidden trade center, and centre for hidden knowledge
+Source: printed p. 442; PDF p. 220, Sun row.
+
+German: "Erfolg eines Mannes durch Entbehrungen, gefährdete Freiheit eines Mannes, gefährliche Erfahrungen eines Menschen, Mangel an Wissen über eine Person, persönliches Wissen über die Vergangenheit, verborgenes Handels-Zentrum, Zentrum für verborgenes Wissen".
+
+English translation: Success of a man through privation; endangered freedom of a man; dangerous experiences of a person; lack of knowledge about a person; personal knowledge of the past; hidden trade center; center for hidden knowledge.
+
+## Comparative Schema
+
+- **Core meaning:** The pair is embodied in a person's work with discarded material or knowledge of the past.
+- **Psychology:** Personal historical knowledge is explicit; loss of vitality through that role is not established.
+- **Body/health:** No distinct bodily or medical condition is supplied.
+- **Social/relationship:** The sources name occupations and individual experience; their male examples do not restrict the formula to men.
+- **Events/manifestations:** Handling garbage or rags, historical work, obstacles, deprivation, and centers of concealed knowledge are represented.
+- **Conflicts/notes:** Historical scholarship and handling discarded material are separate recorded examples. ABC describes endangered freedom, rather than freedom itself as dangerous.
+
+## Contradictions
+
+No direct contradiction is established. The historical male examples remain attributed; the entries do not establish inevitable loss of vitality or make historical scholarship a character judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Sun`: identity being tied to salvage, historical consciousness, or contact with unpleasant and outdated material. Main caution: letting the role of keeper of remnants eclipse present vitality.
+In `Hades/Apollon = Sun`, Sun specifies the pair through the person engaged with its material and knowledge. The [Witte entry](#witte-entry) juxtaposes handling garbage or rags with studying history, while also naming days of obstacles (PDF entry start p. 280). The [ABC entry](#abc-entry) adds personal knowledge of the past, success through privation, endangered freedom, dangerous personal experience, and centers for hidden knowledge or trade. The shared theme is a person's practical or intellectual involvement in these circumstances; the sources do not establish that such work eclipses vitality or determines character.
 
 ## Links
 

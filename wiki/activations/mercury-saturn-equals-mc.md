@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = MC`
 - Astronomicon formula: `T/W = MC`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 Logic-philosophically inclined. Fond of travel. Unsettled. Deliberation. Inconstant. Moment to take leave. Minute of a restrictive message.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I'm thinking about my tasks, language about mental problems, I'm thinking about separation, I'm thinking, I'm talking hard, I'm talking slowly, my strait motions, my impulses in the youth, and the social stress of youth
+- Source passage: `Merkur + Saturn`; printed p. `246`; one-based PDF page `122` (oriented row checked against the scan).
+
+Thoughts about my tasks, conversations about emotional problems, I think about separation, I think with concentration, I hold difficult conversations, I speak slowly, my disturbed movements, my disturbances in youth, emotional burdens in youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Saturn`; printed p. `156`; entry code `0505` (supplied source-map locator; not visually verified).
 
 Tendency to be wrapped up in one's own ideas, the urge to philosophize, the ability to concentrate. The thinker, the experienced person, the traveler.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Saturn midpoint`; one-based PDF page `46` (exact oriented passage checked in the actual PDF text).
 
 The need to spiritualize all of one’s thinking. One’s work involves the orga nizing of ideas. The need to share one’s ideas with the world, even though it may take others time to understand them and they may not be well-received at first.
 
@@ -70,22 +80,23 @@ Adds to your wisdom and maturity as you accumulate and use your knowledge; discu
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personally organized thought, philosophical reflection and knowledge shape one's life.
+- psychology: Concentration and maturity coexist with preoccupation, mental problems or restlessness.
+- body/health: ABC names disturbed movements as an attributed example; it specifies no diagnosis.
+- social/relationship: Sharing ideas can require patience with poor initial reception.
+- events/manifestations: Organizing ideas in work, travel, departures and restrictive messages are distinct expressions.
+- conflicts/notes: The sources do not establish that the person is consistently settled, credible or publicly successful.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's unsettled or inconstant examples sit beside concentration and mature knowledge. These describe a range rather than a demonstrated incompatibility.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = MC`: credibility, planning ability, and the capacity to shoulder mental responsibility in visible ways. Main caution: overburdened mentality: vocation can become too rigid, cold, or narrowed by worry and restraint.
+In `Mercury/Saturn = MC`, MC specifies serious thought as a personal task: concentrating, organizing ideas, reflecting on principles and using accumulated knowledge to shape a meaningful life. Sharing these ideas may require patience when others do not understand or receive them readily. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+The same orientation includes thoughts of separation, slow or difficult speech, mental burdens in youth and an unsettled inclination to travel. Witte's restrictive message or moment of departure remains a concrete example alongside deliberation, rather than proof of a single vocational outcome. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

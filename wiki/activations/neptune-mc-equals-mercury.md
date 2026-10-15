@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Mercury`
 - Astronomicon formula: `Y/MC = T`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 Intuitive, false, imagined or fraudulent thinking or feelings. Thoughts and the way of expressing them are not clear and distinct.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `80`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-Talk about my breath, talk about my future, my movements in the water, my thoughts about intuition, my thoughts weakness, my voice in the V return, my exchanges in youth, and my speech uncertainty
+Conversations about my breath, conversations about my future, my movements in water, my thoughts concerning intuition, my weakness of thought, my intuitive sense in Verkehr, my disappointments in youth, and my uncertainty in speech
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `290`, entry code `1037`.
 
 #### Ebertin Entry
 
 Tendency to think on the wrong lines, wrong perceptions and objectives. Wrong judgement of things observed or perceived. Tendency to accept other people's influences in one's thinking. Sudden emergence of ideas and concepts coming from the unconscious.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To communicate in a spiritually high-minded way. The ability to align your mind 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Allows you to think and visualize your future plans better, but also makes it ea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: thinking and communication about intuition or future direction, with uncertain perceptions and assumptions.
+- psychology: imagined ideas, misjudgement, suggestibility, and ideas emerging from the unconscious are explicit.
+- body/health: ABC mentions conversations about breathing and movement in water; it provides no diagnosis.
+- social/relationship: unclear expression and assumptions about others' support are stated interpersonal concerns.
+- events/manifestations: future planning, spiritually framed communication, and disappointment in youth are named.
+- conflicts/notes: Sandbach's spiritual-message language is attributed; ABC's Verkehr may concern traffic or social interaction and remains unresolved outside confident synthesis.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize confused or mistaken thought. Sandbach presents spiritually directed communication, while Munkasey combines visualization of plans with mistaken expectations of support.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Mercury`: artistic or spiritual communication, intuitive guidance, and the ability to speak to collective feeling or dream. Main caution: unclear direction in thought: plans, messaging, or career reasoning can become vague, misleading, or too porous to sustain.
+In Neptune/MC = Mercury, thought and communication seek to give form to intuition and future plans, yet their premises may be uncertain. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe unclear expression, mistaken perceptions, and suggestibility. [Munkasey](#munkasey-entry) adds improved visualization alongside false assumptions about support; [ABC](#abc-entry) names conversations about the future and uncertainty in speech. [Sandbach's](#sandbach-entry) account of spiritual communication remains an attributed interpretation, without establishing that an intuitive message is accurate.
 
 ## Links
 

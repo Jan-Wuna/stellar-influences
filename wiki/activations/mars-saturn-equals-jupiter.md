@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Jupiter`
 - Astronomicon formula: `U/W = V`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Jupiter row.
+
 Pleasant interruption of work. Vacations. Quick death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work pleasure in old age, work right problems, successful patience work, financial losses through work, staggered work joy, concentrated legal work, problematic work success, lossful financial work, and will success in old age
+- Source reference: printed p. 300; one-based PDF p. 149, Mars + Saturn, Jupiter row.
+
+Joy in work in old age, problems of employment law, successful patient work, financial losses through work, disturbed joy in work, concentrated legal work, problematic success at work, financial work involving loss, and successes of the will in old age.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 205; one-based PDF p. 207, coded entry 0703 (Mars/Saturn = Jupiter).
 
 Complete concentration of energy upon a particular objective to the exclusion of other interests, ability to render quick work satisfactorily. Ability to thoroughly destroy or eliminate something. Improvement during an illness, a fortunate separation, a quick dissolution (of the body), a pleasant and easy death.
 
@@ -57,7 +65,9 @@ Complete concentration of energy upon a particular objective to the exclusion of
 
 #### Sandbach Entry
 
-To be enthusiastic about planning out things in advance. To over-plan what one is doing. The attempt to think of all the possible problems that could crop up in a situa tion and to have a back-up system for dealing with each and every one of them.
+- Source reference: one-based PDF p. 69, Planets activating the Mars/Saturn midpoint, Jupiter paragraph.
+
+To be enthusiastic about planning out things in advance. To over-plan what one is doing. The attempt to think of all the possible problems that could crop up in a situation and to have a back-up system for dealing with each and every one of them.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ An urge to overextend yourself during competitive practices; adds to the persona
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Concentrated effort, extensive preparation, or relief from work under constraint.
+- Psychology: Sandbach's enthusiastic planning can become overplanning; Ebertin emphasizes concentration to the exclusion of other interests.
+- Body/health: Witte and Ebertin's quick or easy death examples and Ebertin's improvement during illness remain historical claims.
+- Social/relationship: Ebertin includes a fortunate separation; no general relationship outcome follows.
+- Events/manifestations: Vacations, satisfactory quick work, financial or legal work problems, and competitive overextension.
+- Conflicts/notes: Munkasey's assurance of success is an author's claim, not a guarantee. ABC gives disturbed joy in work alongside successful patient work and financial losses.
 
 ## Contradictions
 
-- None recorded yet.
+Relief and success coexist with overextension, financial loss, and excessive preparation. Witte's vacation example should not be flattened into the same event as death.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Jupiter`: overplanning, strategic endurance, and the ability to produce satisfactory results under constraint. Main caution: compression under optimism: concentration can become excessive control, narrowness, or an attempt to solve every possible problem before acting.
+In `Mars/Saturn = Jupiter`, Jupiter specifies constrained effort through concentration, preparation, and the possibility of relief or successful completion. Preparation may become excessive or encourage overextension, so success is not guaranteed. See [Ebertin](#ebertin-entry) (printed p. 205, code 0703), [Sandbach](#sandbach-entry) (exact Jupiter paragraph at PDF p. 69), and [Munkasey](#munkasey-entry) (printed p. 228). [Witte's](#witte-entry) vacations (PDF p. 193) and [ABC's](#abc-entry) work and financial difficulties (printed p. 300) preserve a wider range; historical death claims remain attributed.
 
 ## Links
 

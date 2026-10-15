@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Saturn Zeus Kronos](../triads/saturn-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 Retreat in battle. Large establishments destroyed by fire.
 
@@ -42,13 +46,29 @@ Retreat in battle. Large establishments destroyed by fire.
 
 #### ABC Entry
 
-Beginning of great pain, special patience performance, serious efforts of authorship, boss's training tasks, concentration on special achievements, loss of self indigenous creativity, and important training tasks
+Beginning of great pain, an exceptional feat of patience, serious efforts of an authority, leadership tasks of the boss, concentration on particular achievements, loss of independent creativity, and important leadership tasks.
+
+Translation checked against the German scan: printed p. 361, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Leadership and achievement face painful demands, setbacks, or restricted creative independence.
+- Psychology: A demanding exercise of patience and concentration on achievement.
+- Body/health: Great pain is stated without a specified condition.
+- Social/relationship: Authority and a boss carry serious efforts and leadership tasks.
+- Events/manifestations: Retreat in battle, fire destroying large establishments, and loss of independent creativity.
+- Conflicts/notes: The scan says authority and leadership, correcting cached authorship and training.
+
+## Contradictions
+
+Witte's military and fire examples are more extreme than the ABC entry's leadership tasks. The entries do not establish that every concentrated leadership effort ends in retreat or destruction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Zeus`: retreat in battle, large establishments destroyed by fire.
-- Practical expression: beginning of great pain, special patience performance, serious efforts of authorship, boss's training tasks, and concentration on special achievements.
+In `Saturn/Kronos = Zeus`, Zeus specifies the Saturn/Kronos axis through leadership and achievement under painful constraint. The verified [ABC entry, printed p. 361](#abc-entry) connects serious official effort and a boss's responsibilities with exceptional patience, concentration, and loss of independent creativity.
+
+The [Witte entry, PDF p. 227](#witte-entry) gives retreat in battle and fire destroying large establishments as concrete setbacks. These preserve the severe end of the entry's range without making every leadership task a precursor to disaster.
 
 ## Links
 

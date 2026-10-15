@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Venus`
 - Astronomicon formula: `V/§ = Q`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, oriented activator row; printed page unconfirmed.
+
 Great fortunate love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Powerful love joy, successful artificial influence, successful power of harmony, successful love influence, influence of joy and harmony, tremendous peace success, preference for the power of money, and preference for the right power
+- Source reference: printed p. 344; one-based PDF p. 171, Jupiter + Vulkanus, oriented activator row.
+
+Great joy in love, successful artistic influence, the successful power of harmony, a gladdening influence of love, the influence of joy and harmony, tremendous success in peace, a preference for financial power, and a preference for legal force.
+
+## Comparative Schema
+
+- core meaning: Great fortunate love meets strong joy, harmony and artistic influence.
+- psychology: Joy in love and a gladdening influence of affection are explicit.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Harmony, peace and love coexist with preferences for financial power and legal force.
+- events/manifestations: Successful artistic influence and substantial success in peace.
+- conflicts/notes: ABC says artistic, not artificial, influence. Preferences for financial power do not establish material ease as the cause of a loving bond.
+
+## Contradictions
+
+The entries overlap in favorable love and joy. ABC adds art, harmony, peace and preferences involving money and legal force; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Venus`: great fortunate love, powerful affection, and happiness through relationship, attraction, or enjoyment.
-- Chart expression: abundant love, generous pleasure, and warm bonds strengthened by confidence and material ease.
+`Jupiter/Vulcanus = Venus` centers on fortunate love and the strength of joy and harmony. That favorable influence can extend to art and peace, while preferences for financial power and legal force remain specific additional clauses. [Witte's fortunate love](#witte-entry) and [ABC's fuller range](#abc-entry) support affection and harmonious influence without supplying a financial explanation for the bond.
 
 ## Links
 

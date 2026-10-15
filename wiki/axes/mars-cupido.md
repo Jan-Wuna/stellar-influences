@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `197`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Work partnership. Marriage. Marriage partnership. Artistic activities. To establ
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `308`; PDF page: `153` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Community of labour, common action, Community will, Community of production, artificial activity, Synthesis work, Community of action, will for the whole, Community of wills, and Working together
+German pair summary (transcribed from printed page `308`; PDF page `153`):
+
+> Arbeits-Gemeinschaft, gemeinsames Handeln, Gemeinschafts-Wille, Herstellungs-Gemeinschaft, Kunst-Tätigkeit, Synthese-Arbeit, tatkräftige Gemeinschaft, Wille zum Ganzen, Willens-Gemeinschaft, Zusammen-Arbeit
+
+Editorial translation from the German passage: Work community, joint action, community will, production community, artistic activity, synthesis work, energetic community, will toward the whole, community of wills, working together.
+
+## Comparative Schema
+
+- core meaning: Action undertaken together or for a shared whole; the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary) connect work with community.
+- psychology: Common purpose and a collective will are explicit ABC themes; the entries do not establish loss of personal identity as their consequence.
+- body/health: Neither pair entry gives a specific bodily or medical correspondence.
+- social/relationship: Work partnerships, married life, family activity, labor unions, associations, and social work are named forms of active cooperation.
+- events/manifestations: Establishing married life, working for a family or company, joint production, and artistic activity are source-supported examples.
+- conflicts/notes: Artistic activity is explicit in both summaries. Joint work, production, synthesis and a will toward the whole describe cooperation without establishing loss of personal identity or freedom.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Community of labour, common action, Community will, Community of production, art
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido`: active union: cooperative work, marital enterprise, artistic collaboration, and purposeful effort on behalf of family, group, or shared institution.
-- Chart expression: energy that wants to build and maintain communal life rather than act alone. It favors work partnerships, marriage as an active undertaking, family labor, social work, unions, and organized artistic or corporate effort. Its shadow is over-identifying with group action, treating partnership as purely functional, or letting collective obligations consume personal freedom.
+`Mars/Cupido` places action within a shared undertaking. Cooperation is the organizing theme, whether the work serves a partnership, family, association, company, or community. Marriage appears as the active establishment of a life together, alongside work partnerships, labor unions, social work, and artistic activity in the [Pair Summary](#pair-summary). The [ABC Pair Summary](#abc-pair-summary) reinforces common action, production, and a will directed toward the whole.
+
+The entries support collective effort without establishing that it consumes personal freedom or makes relationships purely functional. ABC independently names artistic activity alongside joint work and production ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

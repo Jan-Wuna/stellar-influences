@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 113 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0849; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Uranus`
 - Astronomicon formula: `V/Asc = X`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -45,7 +48,9 @@ Sudden luck with others or through others.
 
 #### ABC Entry
 
-Exciting success with the partner, successful Tcchnik at the place, joyful exploration in the environment, happy event at the place, partncr spans wggen money, Rchts Ercignis at the place, and surprising satisfaction of the partner
+Exciting success with the partner, successful technology at the place, joyful excitement in the environment, a happy event at the place, partner tensions over money, a legal event at the place, and surprising satisfaction of the partner
+
+- Translation note: checked against ABC PDF p. 55, printed p. 113: `Technik`, `freudige Erregung`, `Partner-Spannungen wegen Geld`, and `Rechts-Ereignis`. These replace damaged or mistranslated English phrases; see the [review proof](../../docs/reviews/2026-10-15-full-wiki/verification/activations-015-017-source-proof.md).
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,23 @@ Bursts in on others and greets them loudly or in unusual ways; suddenly comes up
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate contact and personal growth arrive suddenly or through unusual encounters.
+- psychology: Sandbach describes abrupt enthusiasm and rapid or erratic personality growth.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Munkasey gives unconventional greetings, helping unexpected acquaintances, and inventive ways of putting people at ease.
+- events/manifestations: Sudden luck through others, new ventures, and favorable rearrangement of circumstances are named.
+- conflicts/notes: ABC's checked translation adds partner tensions over money alongside exciting success; favorable change does not exclude relational tension.
 
 ## Contradictions
 
-- None recorded yet.
+- Favorable sudden developments and erratic growth describe different aspects of rapid change. ABC's money-related tensions qualify its exciting success without directly contradicting the other entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Uranus`: fortunate breaks, innovative contacts, and sudden enthusiasm that can quickly enlarge the native's world. Main caution: instability: growth can come erratically, and excitement may tempt the native to move faster than judgment or continuity can support.
+In `Jupiter/Asc = Uranus`, Uranus specifies the Jupiter/Asc pair through the suddenness and unusual form of an encounter. [Witte](#witte-entry) names unexpected luck through others, while [Ebertin](#ebertin-entry) describes fortunate new ventures and rearranged circumstances. [Munkasey](#munkasey-entry), p. 276, gives social examples: unconventional greetings, unexpected opportunities to help, and unusual ways of making people comfortable.
+
+[Sandbach](#sandbach-entry) makes enthusiasm and personality growth rapid but sometimes erratic. [ABC](#abc-entry) likewise puts exciting success beside partner tensions over money. The favorable encounter can therefore accompany an unsettled or financially tense process.
 
 ## Links
 

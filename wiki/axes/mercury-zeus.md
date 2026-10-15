@@ -64,11 +64,16 @@ updated_at: 2026-05-04
 
 - Axis: `Mercury/Zeus`
 - Astronomicon axis: `T/£`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MERCURY + ZEUS`
+- PDF page (one-based): `168` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Creative thinking. To command. To threaten. Dictatorial. Inventions. Thinking th
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `258–259`; PDF page (one-based): `128` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Enormous thinking, fire message, fiery words, speech guidance, youth guidance, youthful fire, creative speech, performance thinking, youth striving, traffic guidance, procreation thoughts, and describing goals
+Strenuous thinking, report of a fire, fiery words, leading a conversation, leadership of the young, youthful fire, creative conversations, achievement-oriented thinking, striving of the young, traffic direction, thoughts of procreation, describing goals.
+
+## Comparative Schema
+
+- core meaning: Creative, purposeful thought and speech that directs action or defines a goal.
+- psychology: Invention and single-minded thinking coexist with commanding, threatening or dictatorial tendencies.
+- body/health: Thoughts of procreation occur in ABC; neither pair summary gives a medical condition or bodily outcome.
+- social/relationship: Giving orders, leading conversations and directing the young express influence over others; threats are a possible difficult expression.
+- events/manifestations: Inventions, obeyed orders, decrees, laws, sentences, fire reports and traffic direction are explicit examples.
+- conflicts/notes: Creative direction and coercive command are both present. ABC adds achievement, youth and literal fire-report motifs; none requires a particular legal, reproductive or occupational event.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Enormous thinking, fire message, fiery words, speech guidance, youth guidance, y
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Zeus` is the axis of creative, directed, and commanding thought: plans, inventions, decrees, laws, sentences, goals, and speech that aims at a result.
-- Constructively it supports strategic thinking, creative speech, performance thinking, goal description, and the ability to give clear direction.
-- Its shadow is hot or dictatorial language, threats, coercive orders, and single-minded thinking that issues commands before it has listened.
-- Activations show whether the command-field becomes practical work, public speech, legal authority, creative production, or conflict over aims.
+`Mercury/Zeus` gives thought and language an aim: to create something, set a direction or make an instruction take effect. The [Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) places inventions and single-minded thought beside commands, decrees, laws and sentences. This makes creative purpose and directive speech central to the pair, while also preserving the difficult range of threats and dictatorial command. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) broadens purposeful effort into leading conversations, youthful striving, achievement-oriented thinking and describing goals.
+
+Not every expression involves commanding people: invention, creative conversation and defining an objective can carry the same directed quality. ABC also names reports of fire, traffic direction and thoughts of procreation; these concrete motifs should remain visible without turning them into inevitable events or medical claims. The pair meaning is shared by either factor order. A particular outlet or circumstance requires its own [closing-factor activation](#related-activations).
 
 ## Links
 

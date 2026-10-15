@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Apollon = Poseidon`
 - Astronomicon formula: `V/¥ = ¨`
 - Axis page: [Jupiter/Apollon](../axes/jupiter-apollon.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: PDF p. 215.
+
 Fortunate through mental exchange with similarly minded people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Extension of law and law, successful knowledge of the mind, success through culture knowledge, joy over spiritual wideness, Glock through culture freedom, clear right knowledge, dissemination of the right culture, vie! money for culture, and advantage through intellectual freedom
+- Source reference: printed p. 341; PDF p. 169.
+
+Expansion of law and reason, successful knowledge of the mind, success through cultural knowledge, joy in intellectual breadth, happiness through cultural freedom, clear legal knowledge, dissemination of legal culture, much money for culture, and advantage through intellectual freedom.
+
+## Comparative Schema
+
+- Core meaning: Benefit through intellectual fellowship and cultural or legal knowledge.
+- Psychology: Joy in intellectual breadth and happiness through cultural freedom.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Exchange with like-minded people and dissemination of legal culture.
+- Events/manifestations: Cultural funding, clear legal knowledge, and success through cultural knowledge.
+- Conflicts/notes: A shared outlook is specified; complete agreement on every idea is not.
+
+## Contradictions
+
+ABC extends intellectual fellowship into law, cultural freedom and cultural resources.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Poseidon`: beneficial growth through ideas, agreement, and common outlook. It can show intellectual fellowship becoming a source of luck and expansion.
+In `Jupiter/Apollon = Poseidon`, Poseidon specifies the Jupiter/Apollon axis through intellectual exchange, cultural knowledge, reason, and freedom. Mental exchange with like-minded people brings benefit, while intellectual breadth, reason and cultural knowledge extend the field. Cultural or intellectual freedom, clear legal knowledge and money for culture give the formula a practical public range. Its unifying theme is opportunity through understanding and the freedom to cultivate and exchange it. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

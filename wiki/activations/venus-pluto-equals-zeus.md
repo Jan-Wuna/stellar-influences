@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Pluto Zeus](../triads/venus-pluto-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,30 @@ Good progress of current matters. A favorable developing pregnancy. Ripening fru
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `281`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-Beginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, unfolding love fire, transforming a fiery love, developing preference for performance, and growth through love denial
+Beginning of a harmonious development, beginning development of peace, harmonious development of achievement, developing creative art, unfolding the fire of love, transformation of a fiery love, developing a preference for achievement, and growth through procreation in love.
+
+## Comparative Schema
+
+- core meaning: The beginning or favorable progress of harmonious and creative development.
+- psychology: Fiery love and preference for achievement are stated.
+- body/health: Witte's favorable pregnancy development is a historical example, not a medical forecast.
+- social/relationship: Creative development in love; 'forced consideration' remains Witte's qualification.
+- events/manifestations: Progress of current matters, creative arts, ripening fruit, and harvest prospects.
+- conflicts/notes: ABC's final clause concerns procreation in love; Witte's pregnancy example remains historical, without a medical forecast.
+
+## Contradictions
+
+Favorable progress and forced consideration are different qualifications in Witte. ABC's procreation and creative-art examples extend the productive range without cancelling that qualification.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Pluto = Zeus`: good progress of current matters.
-- Practical expression: beginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, and unfolding love fire.
+In `Venus/Pluto = Zeus`, Zeus specifies Venus/Pluto development through its beginning and productive progress. The [Witte entry](#witte-entry) uses current matters, pregnancy, ripening fruit, and harvest as examples of favorable development; these remain source examples rather than guaranteed outcomes. The [ABC entry](#abc-entry) extends the theme to creative art, achievement, fiery love, and growth through procreation in love. Witte's forced consideration remains a qualification within that productive range.
 
 ## Links
 

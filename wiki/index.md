@@ -1,8 +1,20 @@
 # Index
 
-Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest.json` for machine-readable page roles.
+Use [Query Guide](query-guide.md) for answer-first retrieval and [`query-manifest.json`](query-manifest.json) for machine-readable page roles.
+
+## Choose a Reading Route
+
+- **Exact formula:** browse [Activations](#activations). Keep the factor after `=` in its stated position; sibling orientations have separate meanings.
+- **Shared pair:** browse [Axes](#axes). The two factors form one unordered pair.
+- **Recurring factor:** browse [Factors](#factors) for standalone evidence, documented scope limits, and related combinations.
+- **Orientation siblings:** browse [Triad Hubs](#triad-hubs) for the orientation map. These hubs are structural and do not merge interpretations.
+- **Evidence and limits:** use [Sources](#sources) for admitted scope and provenance, and the [Query Guide](query-guide.md#evidence-and-limits) for the evidence-reading route.
+- **Synthesis and research:** browse [Derived Pages](#derived-pages), then check the guide's [page roles](query-guide.md#using-the-manifest) to distinguish answer notes from companions and audits.
+
+On a canonical page, start with **Derived Synthesis**, then follow its source-entry links for the passages and qualifications behind the reading.
 
 ## Factors
+
 - [Admetos](factors/admetos.md)
 - [Apollon](factors/apollon.md)
 - [Asc](factors/asc.md)
@@ -28,6 +40,7 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 - [Zeus](factors/zeus.md)
 
 ## Axes
+
 - [Admetos/Admetos](axes/admetos-admetos.md)
 - [Admetos/Poseidon](axes/admetos-poseidon.md)
 - [Admetos/Vulcanus](axes/admetos-vulcanus.md)
@@ -296,6 +309,7 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 - [Zeus/Zeus](axes/zeus-zeus.md)
 
 ## Activations
+
 - [Admetos/Admetos = Apollon](activations/admetos-admetos-equals-apollon.md)
 - [Admetos/Admetos = Asc](activations/admetos-admetos-equals-asc.md)
 - [Admetos/Admetos = Cupido](activations/admetos-admetos-equals-cupido.md)
@@ -5770,6 +5784,9 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 - [Zeus/Zeus = Vulcanus](activations/zeus-zeus-equals-vulcanus.md)
 
 ## Triad Hubs
+
+Use these structural hubs for orientation maps and sibling lookup. Read each exact activation separately for its meaning.
+
 - [Admetos Vulcanus Poseidon](triads/admetos-vulcanus-poseidon.md)
 - [Apollon Admetos Poseidon](triads/apollon-admetos-poseidon.md)
 - [Apollon Admetos Vulcanus](triads/apollon-admetos-vulcanus.md)
@@ -7390,6 +7407,9 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 - [Zeus Vulcanus Poseidon](triads/zeus-vulcanus-poseidon.md)
 
 ## Sources
+
+Use these catalogs for bibliography, admitted source material, provenance, and coverage limits.
+
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Aren Ober - Midpoint Interpretation Simplified](sources/aren-ober-midpoint-interpretation.md)
 - [Charles Carter - The Astrological Aspects](sources/charles-carter-the-astrological-aspects.md)
@@ -7407,6 +7427,9 @@ Use [Query Guide](query-guide.md) for answer-first retrieval and `query-manifest
 - [Zane B. Stein - The Quadrant Midpoints: The Chart's Backbone](sources/zane-b-stein-the-quadrant-midpoints.md)
 
 ## Derived Pages
+
+This list includes synthesis notes, source companions, and research notes. Check the [Query Guide](query-guide.md) for each role before using a note as an answer surface.
+
 - [Axis Reading Throughline: Falis and Carter](derived/axis-reading-throughline-falis-carter.md)
 - [Chiron in the Sandbach Midpoint Corpus](derived/chiron-in-sandbach-midpoint-corpus.md)
 - [Corpus Coverage: Witte vs Ebertin](derived/corpus-coverage-witte-vs-ebertin.md)

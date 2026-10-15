@@ -1,0 +1,936 @@
+{
+  "headings": {
+    "chiron-node": {
+      "pdf_page": 100,
+      "heading_found": true,
+      "raw_chapter_page_sha256": "742db83af1524fc15b41df86fd080af2b54fdc2b7bcdaa7283fe95b4fc351cbf"
+    },
+    "mercury-chiron": {
+      "pdf_page": 46,
+      "heading_found": true,
+      "raw_chapter_page_sha256": "eaf11865642a4dcdbcad48447ad4ed8fe1bdd422126c581ff968dad9bb4b3eed"
+    },
+    "moon-chiron": {
+      "pdf_page": 32,
+      "heading_found": true,
+      "raw_chapter_page_sha256": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f"
+    }
+  },
+  "proof": [
+    {
+      "path": "wiki/activations/chiron-node-equals-jupiter.md",
+      "before_sha256": "05877a0b5d095d5cc22859bbb5f9130e8f87b46238de191e9f986f781c3dfed0",
+      "after_sha256": "fe9c2334ebdc1d3efc8908e03cd5929c8a3e07c87a12334e890b3d40ec3ef1e4",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 1,
+      "prose_unchanged": true,
+      "entry": "One is able to connect with spiritual forces in a full and rich way, on many levels. An understanding of spiritual connections and an ability to enhance and further them.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 380,
+          "normalized_length": 138,
+          "preceding_normalized_text": "iritualhealingeffectononeandwhichadvanceonesevolutionjupiter",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Rich multilevel connection and the ability to enhance it; removed invented faith and overpromising."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mars.md",
+      "before_sha256": "d6513b26792fa0b871b01f3d3a7d0d3cfa290a7d30ae25bde9e880f845cc79eb",
+      "after_sha256": "bb384a5e867d9779c54ea43609f1f2ba6ab4fa5466be168809e68c76c566396b",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 2,
+      "prose_unchanged": true,
+      "entry": "To build spiritual connections and to carry out actions in a spiritually connected way. The striving to connect with spiritual forces. Engaging in conflicts that have a spir itual healing effect on one and which advance one’s evolution.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 178,
+          "normalized_length": 195,
+          "preceding_normalized_text": "iritualforcesmaybeenlistedtoenhancetheprocessofevolutionmars",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Spiritually connected action and conflict qualified by healing effect; removed invented courage."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mc.md",
+      "before_sha256": "4bba9d8e764f1941952a6d6d3c8fae11bdfaaecbdc83f731ec84ff0728e75c7e",
+      "after_sha256": "87ec68bc06008cfc9fb650faedf7bbdf6ba9e45fbe34a5b0920d7cb8093cbda3",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 3,
+      "prose_unchanged": true,
+      "entry": "One’s life purpose involves fostering spiritual connectedness between people. Healing one’s attachment to the past is a key to being able to fulfill one’s life purpose.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 1625,
+          "normalized_length": 138,
+          "preceding_normalized_text": "denoughtoallowonetoexperiencespiritualconnectednessmidheaven",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Purpose, spiritual connectedness between people and healing past attachment; removed unsupported guide/vocation specifics."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-mercury.md",
+      "before_sha256": "1b48fda9c2f51da63f46f604f5a8321d8b5aa4ddb7620ef10b414fc5331aecf5",
+      "after_sha256": "6d4e1f2d216b0247f4e8e3a35857726e73252c475a9308ccb124645bcddc4ccb",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 4,
+      "prose_unchanged": true,
+      "entry": "One is able to communicate ideas that come directly from spiritual sources. Through communicating one’s helps others to connect more to spiritual forces. Think ing and communicating that help to heal the past.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 100,
+          "normalized_offset": 1947,
+          "normalized_length": 173,
+          "preceding_normalized_text": "inctivelyfeelwhatareasandaspectsofonespastneedhealingmercury",
+          "raw_page_text_sha256": "742db83af1524fc15b41df86fd080af2b54fdc2b7bcdaa7283fe95b4fc351cbf"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Spiritual communication and healing the past; retained awkward source wording and removed invented hypocrisy."
+      ],
+      "owner_unresolved": [
+        "Source wording 'Through communicating one’s helps' remains grammatically damaged; not repaired without raw verification.",
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-moon.md",
+      "before_sha256": "a20c251bd9a8adccbed3ce527cf0f4a24dc5548d1512797af0e8d61aef60ac0a",
+      "after_sha256": "05b3ac1f9b4fbb2093d6d7b6713ff581175ea5597c9436017c25c7a947bfe22a",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 5,
+      "prose_unchanged": true,
+      "entry": "An emotional need to overcome the past and to seek out those experiences which will enhance one’s evolution. To instinctively feel what areas and aspects of one’s past need healing.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 100,
+          "normalized_offset": 1792,
+          "normalized_length": 148,
+          "preceding_normalized_text": "ndvitalizedbyonesspiritualconnectionstothewholeofrealitymoon",
+          "raw_page_text_sha256": "742db83af1524fc15b41df86fd080af2b54fdc2b7bcdaa7283fe95b4fc351cbf"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Emotional need, instinctive recognition and past healing; removed unsupported relationship framing."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-neptune.md",
+      "before_sha256": "486745a1d42830c185428a922e232e61d084aa859d21339821c169bc316eeab1",
+      "after_sha256": "70947a31add24f3c35486b70d2a8f3b1e48c19b6277257f7a3b7a2d76c627c18",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 6,
+      "prose_unchanged": true,
+      "entry": "One may have visions of how everything is spiritually connected. Subtle awareness of the way in which the force of evolution is working. The inability to let go of the past creates confusion and delusion in one’s life.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 1074,
+          "normalized_length": 177,
+          "preceding_normalized_text": "heirownuniquerealizationoftheirspiritualconnectednessneptune",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Visionary connectedness with a conditional past-attachment difficulty; retained conditionality."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-pluto.md",
+      "before_sha256": "948e1253c80e835041c63284d422c540d2112f970d069c5a8e50e720e760adb1",
+      "after_sha256": "68dd66873da9ea5a0332038a337465e1f89ccf86726378cd59fd8218a1b86312",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 7,
+      "prose_unchanged": true,
+      "entry": "An intense desire to let go of the past and to experience spiritual connectedness. The seeking of outer power to serve the ego because one is unable to let go of the past and take in those new experiences which would feed the soul.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 1256,
+          "normalized_length": 186,
+          "preceding_normalized_text": "tytoletgoofthepastcreatesconfusionanddelusioninoneslifepluto",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Intense release and connectedness versus conditional outer-power pursuit; removed unsourced obsession/control."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-saturn.md",
+      "before_sha256": "b93079dd48007bcaa5e631a49bdf6222ad7e2e740042613f7ac275ab421dd632",
+      "after_sha256": "d3743456bbd69406fa7fb5270eef0e28812ea3a0b0d873057970d982fbe61144",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 8,
+      "prose_unchanged": true,
+      "entry": "To feel cut off from one’s spiritual connections, or unable to make or find them. The frustration concerning this nags at one until the connections are formed. Difficulty in connecting with healing forces, and a need for patience, persistence and focus in doing so. Connecting to healing forces that operate gradually or slowly in one’s life.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 524,
+          "normalized_length": 278,
+          "preceding_normalized_text": "piritualconnectionsandanabilitytoenhanceandfurtherthemsaturn",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Frustration and gradual spiritual connection requiring persistence; removed unsupported karmic/interpersonal scope."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-sun.md",
+      "before_sha256": "b29f6be905f356fdfeaca69c83f87301b8e7641ef116ae5cc4395bbd1dc86d44",
+      "after_sha256": "4705578f4f7e091e713ff6011b4f30e5954427f2618605b124c64beee63d8e3b",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 9,
+      "prose_unchanged": true,
+      "entry": "One’s life is given meaning and purpose by connecting spiritually with others. To be aware of and vitalized by one’s spiritual connections to the whole of reality.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 100,
+          "normalized_offset": 1655,
+          "normalized_length": 133,
+          "preceding_normalized_text": "obeshortcutsthatspeedtheprocessofthegrowthofconsciousnesssun",
+          "raw_page_text_sha256": "742db83af1524fc15b41df86fd080af2b54fdc2b7bcdaa7283fe95b4fc351cbf"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Meaning, purpose and vitalization through spiritual connection; removed invented moral warning."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-uranus.md",
+      "before_sha256": "51963e06e0c24278cd9bd2bb6d9266a9d5d292b778a74eccc9b445ab7b996d7a",
+      "after_sha256": "2a065e074c940cc10682070bb346c2572db0571078f151ebca02bdce2364fdd5",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 10,
+      "prose_unchanged": true,
+      "entry": "One experiences spiritual connections in many unexpected and/or surprising ways. A freedom and openness in the experiencing of spiritual connectedness and the ability to help others to find their own individual way of doing this and of coming to their own unique realization of their spiritual connectedness.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 808,
+          "normalized_length": 259,
+          "preceding_normalized_text": "gtohealingforcesthatoperategraduallyorslowlyinoneslifeuranus",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Unexpected spiritual connection and individual realization; removed unsupported instability warning."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/chiron-node-equals-venus.md",
+      "before_sha256": "1b5f72b06b91f00616745dfcfd35b93eb8578519acb6a808f6337f19f9dde731",
+      "after_sha256": "c575faa1c08279d5bbac365722b5ddd7adb95d77f77c04f11e6eda42d3b9760d",
+      "ledger": "activations-008.jsonl",
+      "ledger_line": 11,
+      "prose_unchanged": true,
+      "entry": "A love and appreciation of spiritual connectedness. One has an appreciation of where one has come from and where one is going and of how spiritual forces may be enlisted to enhance the process of evolution.",
+      "added_metadata": [
+        "Source locator: the Chiron/Node chapter begins on PDF p. 100 (one-based). This is a chapter-start locator, not an exact activation-page reference."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 101,
+          "normalized_offset": 5,
+          "normalized_length": 169,
+          "preceding_normalized_text": "venus",
+          "raw_page_text_sha256": "f724aea46fc870065268153d714bdfb7a819dc4f097da9405e904cebb4a1573c"
+        }
+      ],
+      "owner_changes": [
+        "Added Identity jump, six concise categories, connected exact-orientation synthesis with local source citation, and chapter-start locator.",
+        "Appreciation of connectedness, origins and direction; removed invented fear/sentimentality contrast."
+      ],
+      "owner_unresolved": [
+        "Exact activation page is not retained; PDF100 is explicitly a chapter-start locator."
+      ],
+      "owner_full_read": true
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-asc.md",
+      "before_sha256": "9a97ae5e8aa7b9020cf26633c4e2dc9d588e19044103984cd5c10c64eb9ce2de",
+      "after_sha256": "782e8378ef13a4776641d80e285b94b5d118b09fc805287521ed5d24197018cf",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One’s personality communicates healing energy to others. One’s essential sense of being has a way of making others realize how deeply connected they are to everything.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 1554,
+          "normalized_length": 138,
+          "preceding_normalized_text": "netoovercomethelimitsthatonehasplacedononesthinkingascendant",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-jupiter.md",
+      "before_sha256": "505f68b982dbbf92291cde5f607ec8ed380606dce2281b9f0d0d3e4ea35119ff",
+      "after_sha256": "482259b05547d8164ae02f446cd3e56728eec2b9fbf4851c8bc47bd311d83872",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The ability to expand the limits of healing communication. One’s enthusiasm builds lines of healing communication with others.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 605,
+          "normalized_length": 106,
+          "preceding_normalized_text": "gfulandproductiveactionsbasedonguidancebyhigherforcesjupiter",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-mars.md",
+      "before_sha256": "63bd749dcbe38cc83b9e61f7b8b3101b7d475f8372086e2b8828684dc0a121bb",
+      "after_sha256": "23c7425d0ba7791b90f691c690566a64ed0aa09f17bd60bf59fbeec834816a08",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The building of new lines of communication as well as the repairing of old ones. The ability to guide any and all conflicts toward something more meaningful and pro ductive. Actions based on guidance by higher forces.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 420,
+          "normalized_length": 178,
+          "preceding_normalized_text": "screatesanatmosphereinwhichhealingcommunicationcanhappenmars",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-mc.md",
+      "before_sha256": "6af31ed26e828fadf430d643340896f156f5f4732aa93ed2d33faa2e40acb0c8",
+      "after_sha256": "7b85bb00a3732255d993978ce6301037a0364615a493ee852cd60b39ff868fbc",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One’s place in the world is as a healer of communicating, meaning that you help others to make new and needed connections with the world around them, as well as with themselves.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 1701,
+          "normalized_length": 142,
+          "preceding_normalized_text": "gothersrealizehowdeeplyconnectedtheyaretoeverythingmidheaven",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-moon.md",
+      "before_sha256": "eeb9e0e69884be42d4cd8246fcfe4642c481e2a132aa8d2d75b8dc4f7c6f44ca",
+      "after_sha256": "443d2183a6edfa2e80d998fc30858255349dd37713a2cdee1e345b41de537b56",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One is instinctively able to say just the right words or communicate just the right ideas that people need to hear for their own growth and healing. Feelings communi cated to others in a way that may help them to heal at a deep level.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 4,
+          "normalized_length": 188,
+          "preceding_normalized_text": "moon",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-neptune.md",
+      "before_sha256": "1f3ff19490f4dad99a855fa15b83b61e42e8b8ee72b5de1d221eeb8287c1efc0",
+      "after_sha256": "657fe22d62f9bb03dc17a17591e7647631c36950e75da545e276419270f4c6b8",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One possesses an imagination which communicates much healing energy. The ability to subtly, covertly and/or intuitively foster deeper levels of communication and to heal communication rifts.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 1022,
+          "normalized_length": 161,
+          "preceding_normalized_text": "totakejusttherightapproachtohealcommunicatingproblemsneptune",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-node.md",
+      "before_sha256": "4fd7159f5c80e4853b5503290594f84596c1cf1d1b270fd9ed9c2cf080036ac7",
+      "after_sha256": "9ffaccad3882841d7856e534237c8bcdc783fca94ad37b0e9213ab133c01f33f",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One is automatically drawn to connecting with others with whom one can have healing communications, and who will help one to overcome the limits that one has placed on one’s thinking.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 1395,
+          "normalized_length": 150,
+          "preceding_normalized_text": "pectsofoneselfcomingintodeepercommunicationwitheachothernode",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-pluto.md",
+      "before_sha256": "42783ef6c763925d48c1834d1056673a8f3393a5e28e27da88d682f7e40af6c8",
+      "after_sha256": "cafb5963afbe61ed90e5a47d9e1b62ccd0076332768e557b03fe3c69adeb9e00",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "A driving need and urge to heal all breaks in communication and to be under stood and understand on deeper and deeper levels. Transformation which happens through the various aspects of oneself coming into deeper communication with each other.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 1188,
+          "normalized_length": 203,
+          "preceding_normalized_text": "rdeeperlevelsofcommunicationandtohealcommunicationriftspluto",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-saturn.md",
+      "before_sha256": "3a5de161efb3b37e2136057c71d4ca5f46dec9aab3550f8a8dcaf8cc482e0ca8",
+      "after_sha256": "9fdc80aa83c50ac349f342f5850430a32187898396ddf89196399aab8aa215cd",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "Frustrations and limitations overcome by connecting to spiritual sources which provide one with the exact information and ideas needed and hence further one’s evo lution. The ability to focus with depth and clarity on those thoughts and ideas which will heal a situation.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 717,
+          "normalized_length": 226,
+          "preceding_normalized_text": "senthusiasmbuildslinesofhealingcommunicationwithotherssaturn",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-sun.md",
+      "before_sha256": "4f80c8ecfbb0b1718a060152d1443bc43d570bd7023bff709ce873884672db9c",
+      "after_sha256": "dfdc54bfdfb4d389934309585409fa571eababfc55002085f1952f0a4217e664",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One is capable of bringing to light ideas that can have a potentially healing effect. An awareness of ways to open up new lines of communication and heal mental distor tions. One’s purpose in life involves healing through communication.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 46,
+          "normalized_offset": 1962,
+          "normalized_length": 194,
+          "preceding_normalized_text": "ideitsothatcommunicationeventuallybecomesfullopenandclearsun",
+          "raw_page_text_sha256": "eaf11865642a4dcdbcad48447ad4ed8fe1bdd422126c581ff968dad9bb4b3eed"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-uranus.md",
+      "before_sha256": "7d14504b4da1428e617e73783367362fd3ac09c170c536c396cdd3a733a2e8db",
+      "after_sha256": "dc8dd0e5733f0ab0dcd9dd7211e4f8e2deac85efdc072ab9c80d20d88defd05e",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One is inspired to take just the right approach to heal communicating problems.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 949,
+          "normalized_length": 66,
+          "preceding_normalized_text": "dclarityonthosethoughtsandideaswhichwillhealasituationuranus",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/mercury-chiron-equals-venus.md",
+      "before_sha256": "759585c8d7f59adae92b41ee42188a27329c7a12eb5dd7e3ddcddc006e4db6e0",
+      "after_sha256": "9c3fb024b775d03c9a9be71d8246777e52de457b7172e8472e224dc21afd13a6",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The ability to appreciate how communication happens in many different ways, and on many different levels. The ability to intuitively find subtle ways of communicat ing love. One’s peace and calmness creates an atmosphere in which healing communi cation can happen.",
+      "added_metadata": [
+        "- Source heading: `Planets activating the Mercury/Chiron midpoint`",
+        "- Source locator: PDF p. `46` (chapter start only; exact entry page not established)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 47,
+          "normalized_offset": 197,
+          "normalized_length": 219,
+          "preceding_normalized_text": "unicatedtoothersinawaythatmayhelpthemtohealatadeeplevelvenus",
+          "raw_page_text_sha256": "437950ecc5cf9f14e53348675b4d6e982ad3bf6df12eccdfb8da64d066a17489"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-asc.md",
+      "before_sha256": "9e976c8d1df3fe3d835671f2d04fd76f4f9878d57522c50763e483ee887cba6a",
+      "after_sha256": "fe3da6ee02f610f9ddf32b0475283822ea208bf1620479eaa4ed159e7a863dda",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The ability to heal and cleanse negative feelings about the self, and to let go of identifying with one’s insecurities by attuning to a very deep level of spiritual security.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 1057,
+          "normalized_length": 142,
+          "preceding_normalized_text": "elingsandtoallowthemtoflowinacleansinghealingmannerascendant",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-jupiter.md",
+      "before_sha256": "a9afb56afffa907be37e97bdaea6f8ae4e2b54069ab1cdd9edddbfc1711f3e55",
+      "after_sha256": "873815f99384dc4a2230f659e9e5e29ee0d42ea027ab9dc011d54c5d6739d78c",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "An enthusiasm and optimism that nurtures others in a profoundly healing way. A generous way of nurturing others that helps them to overcome emotional blocks and encourages them to be more aligned with their instincts.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pages": [
+            32,
+            33
+          ],
+          "entry": "An enthusiasm and optimism that nurtures others in a profoundly healing way. A generous way of nurturing others that helps them to overcome emotional blocks and encourages them to be more aligned with their instincts.",
+          "normalized_offset": 2117,
+          "preceding_normalized_text": "nowswhattodotofosterhealingenergyjupiter",
+          "raw_page_text_sha256": {
+            "32": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f",
+            "33": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+          }
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-mars.md",
+      "before_sha256": "9f67235867b18e4ada81f11b83120de63223cbc8fd6890f822c5c651375cdca7",
+      "after_sha256": "abe4d8a58dbccac4c244dfed1a874a9b6b4ea0713893fb239ec290858b3042a9",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "Taking action to clear emotions by allowing them to flow more freely. One instinc tively knows what to do to foster healing energy.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 32,
+          "normalized_offset": 2003,
+          "normalized_length": 107,
+          "preceding_normalized_text": "lyhealingwaywhenonerelatesemotionsflowincleansingfashionmars",
+          "raw_page_text_sha256": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-mc.md",
+      "before_sha256": "df6e4d11d900232d011c907be9bd6e7462fbfdac72a0e22b33ca2acd9a14cde0",
+      "after_sha256": "59fc4026dd2abb12edeead3975ca2085409f849cd75bc447414cd18ede4a3a2e",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One’s path in this lifetime has to do with bringing the warmth of nurturing and love to others in a very pure form, and creating a sense of security wherever one goes.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 1208,
+          "normalized_length": 133,
+          "preceding_normalized_text": "ritiesbyattuningtoaverydeeplevelofspiritualsecuritymidheaven",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-mercury.md",
+      "before_sha256": "9594e3e3798bc28f79ad1f610ea932662b6e150e66c107f234c75f495b5f3bdf",
+      "after_sha256": "76cbd2ef41321e95e5a653046ca2c4afae32656f3bef7a48dbfa8502fe9e0015",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "Thinking and communicating that are infused with healing emotional energy and which can nurture others at deep levels in profound transformational ways.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 32,
+          "normalized_offset": 1777,
+          "normalized_length": 130,
+          "preceding_normalized_text": "ndacceptanceofonesfeelingsaswellasthefeelingsofothersmercury",
+          "raw_page_text_sha256": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-neptune.md",
+      "before_sha256": "ba8887ba1b5cfffcdd4d57ed17b5ee0d1168b2ab20e22f20787e5344d0adcb43",
+      "after_sha256": "9f7d437f3e254df2471e40298f98e711874d0d104a4aa8914b4a7d569379acb7",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One intuitive senses how to cause emotional clearing as well as how to nurture others at a very deep level. The products of one’s imagination can have a pro foundly healing effect on the feeling bodies of other people.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 583,
+          "normalized_length": 177,
+          "preceding_normalized_text": "sthemtoreceivethenurturingfromtheuniversethattheyneedneptune",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-node.md",
+      "before_sha256": "9ce2342b2e64ae124fcbc279ff5449adf5c2affeaad173479867d70d8740312d",
+      "after_sha256": "f408e540c8c204acaed5851d92463da968dab06f16a092b7d3f64838354c7ec3",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "When connecting with others one naturally helps them to get in touch with their feelings and to allow them to flow in a cleansing, healing manner.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 929,
+          "normalized_length": 119,
+          "preceding_normalized_text": "allowallthathasbeenrepressedinthesubconscioustocomeforthnode",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-pluto.md",
+      "before_sha256": "4ae88d386bcbdd524941c8aa636c3c911b2a1e19d51e3804fd2f8c10b16331f0",
+      "after_sha256": "46f660626315db50f3a144bd6c4f30dfd2a60f11b4366cc4656fe30478101208",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The ability to create profound transformations through allowing emotional energy to flow freely. The irresistible urge to allow all that has been repressed in the subcon scious to come forth.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 765,
+          "normalized_length": 160,
+          "preceding_normalized_text": "aprofoundlyhealingeffectonthefeelingbodiesofotherpeoplepluto",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-saturn.md",
+      "before_sha256": "8d22ef688751d6940cb965572bfdeed467ba0d02fcbf6c1184c04283e528fe83",
+      "after_sha256": "10670afcf91d275b69db71728f413154fcea4ebf307294e9acbd1e2410c2037d",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "A fear of clearing the emotional body, but one knows at a very deep level that this must be done. Many of the limitations and difficulties in one’s life can be cleared by allowing one’s emotions to flow and by knowing that one is ultimately safe and there fore need not hold on to or store feelings that need to be let go of.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 133,
+          "normalized_length": 257,
+          "preceding_normalized_text": "ocksandencouragesthemtobemorealignedwiththeirinstinctssaturn",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-sun.md",
+      "before_sha256": "f8c8076d2cd723069bbc5b911c92eabb21784193eb08a0f3e16a48bccea3658a",
+      "after_sha256": "bf0b1816f7110020ae25de69580cf0c4b5a4913f84c7742d9a765f0ac037bb6e",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "The goal of one’s life is dependent on one’s ability to allow emotions to flow openly and freely so that the emotional body may be cleansed, vitalized and purified. The ego is healed by deep attunement to and acceptance of one’s feelings as well as the feelings of others.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 32,
+          "normalized_offset": 1552,
+          "normalized_length": 218,
+          "preceding_normalized_text": "thecleansingofemotionsthroughallowingfeelingstoflowfreelysun",
+          "raw_page_text_sha256": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-uranus.md",
+      "before_sha256": "c9bb413fc9b96ec484ccf55c1d69c41f065ecf8f0f9fd7164db5e600bdff90c3",
+      "after_sha256": "8244436007577f7e73754cf550e2e98ebd000386199c3ee163f6d4d66f76ed77",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "When you allow your originality and uniqueness as an individual to shine forth it has an emotionally cleansing and clearing effect on others, which helps them to re ceive the nurturing from the universe that they need.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 33,
+          "normalized_offset": 396,
+          "normalized_length": 180,
+          "preceding_normalized_text": "eforeneednotholdontoorstorefeelingsthatneedtobeletgoofuranus",
+          "raw_page_text_sha256": "f1a76f5b44a48d12f58c4b1975539116a46e1081b928cb7c02854562894a1980"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    },
+    {
+      "path": "wiki/activations/moon-chiron-equals-venus.md",
+      "before_sha256": "32bd0f32fc8844fb9939617a6e81a5644a12353807b8fb56cfa1d259d5c645c0",
+      "after_sha256": "4b1854e219c202cbcf340a5830db2f3064f9782a14b4eaf3eba232e898aa1fe4",
+      "ledger": "",
+      "ledger_line": null,
+      "prose_unchanged": true,
+      "entry": "One relates to others in an emotionally healing way. When one relates emotions flow in cleansing fashion.",
+      "added_metadata": [
+        "- Source passage: `Planets activating the Moon/Chiron midpoint`; chapter starts at one-based PDF page `32` (chapter locator only; exact entry page not supplied; not visually verified)."
+      ],
+      "raw_matches": [
+        {
+          "pdf_page": 32,
+          "normalized_offset": 1912,
+          "normalized_length": 87,
+          "preceding_normalized_text": "nurtureothersatdeeplevelsinprofoundtransformationalwaysvenus",
+          "raw_page_text_sha256": "0d095340b75309fa7d0c79fbc88b343beb4cf14a1d7b61733663fd2d38d6962f"
+        }
+      ],
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_full_read": null
+    }
+  ],
+  "scope": "Each of35 exact unchanged source paragraphs and its added chapter locator independently checked against direct immutable raw Sandbach text and explicit activator labels. All individual current/original source sections read, all available owner records read, per-record exact paragraph text and section hashes/offsets retained; Jupiter/Moon-Chiron crosses32–33. Eleven have owning full-page ledgers;24 remain pending. No sampled approval."
+}

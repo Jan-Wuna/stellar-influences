@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Zeus`
 - Astronomicon triad-set: `R Z £`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md)
-- [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md)
-- [Pluto/Zeus = Moon](../activations/pluto-zeus-equals-moon.md)
+- [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md): base axis [Moon/Pluto](../axes/moon-pluto.md); activator [Zeus](../factors/zeus.md).
+- [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md): base axis [Moon/Zeus](../axes/moon-zeus.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Zeus = Moon](../activations/pluto-zeus-equals-moon.md): base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `191`
-- `Moon/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `197`
-- `Pluto/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `412`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md#witte-entry) (PDF entry-start p. 129); [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md#witte-entry) (PDF entry-start p. 132); [Pluto/Zeus = Moon](../activations/pluto-zeus-equals-moon.md#witte-entry) (PDF entry-start p. 259).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Pluto = Zeus](../activations/moon-pluto-equals-zeus.md#abc-entry) (printed p. 191); [Moon/Zeus = Pluto](../activations/moon-zeus-equals-pluto.md#abc-entry) (printed p. 197); [Pluto/Zeus = Moon](../activations/pluto-zeus-equals-moon.md#abc-entry) (printed p. 412).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Zeus`: This activation energizes `Moon/Pluto` through new duties, fresh production, and change that immediately demands action. It favors entering new service or taking on new obligations, so transformation becomes practical, mobilizing, and oriented toward making something happen.
-- `Moon/Zeus = Pluto`: Creative accomplishments in new fields. To start new paths of research. Increase work. Temporary change in working.
-- `Pluto/Zeus = Moon`: This activation emphasizes the public changes its face in connection with intensified performance of duty.
+Moon, Pluto and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon/Zeus](../axes/moon-zeus.md)
+- [Pluto/Zeus](../axes/pluto-zeus.md)
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)

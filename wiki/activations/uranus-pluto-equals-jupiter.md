@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Pluto = Jupiter`
 - Astronomicon formula: `X/Z = V`
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 235, `URANUS + PLUTO`, Jupiter entry.
+
 #### Witte Entry
 
 Sudden fortunate change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 372 (PDF p. 185), Uranus/Pluto spread, Jupiter entry.
+
 #### ABC Entry
 
-Exciting changes in law, joy over reform development, G!Uck through rhythm change, new legal development, technical development success, surprising money changes, and advantageous technical change
+Exciting changes in law, joy over reform development, luck through change of rhythm, new legal development, successes in technical development, surprising changes in money, and advantageous technical change.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 269 (PDF p. 271), code `0956`.
 
 #### Ebertin Entry
 
 Social aspirations (striving for social improvements), pursuit of religious or philosophical objectives. Achieving immense success.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 106, `Planets activating the Uranus/Pluto midpoint`, Jupiter entry (chapter begins on PDF p. 105).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Adds an insight into legal and political processes which you use for expressing 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate change and expansive reform or improvement. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Enthusiasm, exuberance, lack of inhibition and strong feelings about change. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical condition is supplied. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Social improvement and religious, philosophical, legal or political objectives. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden fortunate change, technical success and surprising changes in money. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Success and uninhibited enthusiasm do not establish moderation; social improvement and imposing change remain distinguishable. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC include fortunate or advantageous change, while Sandbach and Munkasey preserve extreme exuberance and strong feelings about imposing change. These are different emphases, not a guarantee of success or a judgment that every reform is beneficial.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Jupiter`: visionary reform, bold social leverage, and the ability to amplify breakthrough into major consequence. Main caution: ideological extremity: certainty can become fanatical, destabilizing, or too willing to force irreversible change for a grand cause.
+Jupiter specifies Uranus/Pluto through enthusiasm for change and the pursuit of wider improvement. Legal, political, religious or philosophical aims can give that enthusiasm direction, with sudden good fortune and technical success among the stated manifestations. Nearly uninhibited exuberance and strong feelings about imposing change remain alongside these benefits; ambition for improvement does not determine the value or success of a particular reform. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

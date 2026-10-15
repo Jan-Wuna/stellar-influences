@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Kronos Apollon Admetos`
 - Astronomicon triad-set: `¤ ¥ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Apollon/Admetos = Kronos](../activations/apollon-admetos-equals-kronos.md)
-- [Kronos/Admetos = Apollon](../activations/kronos-admetos-equals-apollon.md)
-- [Kronos/Apollon = Admetos](../activations/kronos-apollon-equals-admetos.md)
+- [Apollon/Admetos = Kronos](../activations/apollon-admetos-equals-kronos.md): base axis [Apollon/Admetos](../axes/apollon-admetos.md); activator [Kronos](../factors/kronos.md).
+- [Kronos/Admetos = Apollon](../activations/kronos-admetos-equals-apollon.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Apollon](../factors/apollon.md).
+- [Kronos/Apollon = Admetos](../activations/kronos-apollon-equals-admetos.md): base axis [Kronos/Apollon](../axes/kronos-apollon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Apollon/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
-- `Apollon/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `469`
-- `Kronos/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `463`
-- `Kronos/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `461`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Apollon/Admetos = Kronos](../activations/apollon-admetos-equals-kronos.md#witte-entry) (PDF entry-start p. 306); [Kronos/Admetos = Apollon](../activations/kronos-admetos-equals-apollon.md#witte-entry) (PDF entry-start p. 300); [Kronos/Apollon = Admetos](../activations/kronos-apollon-equals-admetos.md#witte-entry) (PDF entry-start p. 299).
+- Udo Rudolph - ABC for Planetary Pictures: [Apollon/Admetos = Kronos](../activations/apollon-admetos-equals-kronos.md#abc-entry) (printed p. 469); [Kronos/Admetos = Apollon](../activations/kronos-admetos-equals-apollon.md#abc-entry) (printed p. 463); [Kronos/Apollon = Admetos](../activations/kronos-apollon-equals-admetos.md#abc-entry) (printed p. 461).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Kronos`: freedom from worry, exceptional self-sufficiency, and satisfaction in a distinct or elevated way of living.
-- `Kronos/Admetos = Apollon`: many people living under unusual conditions or a broad field organized around a special, separated way of life.
-- `Kronos/Apollon = Admetos`: the specialist, authority in a specific field, and command or influence that applies to a small circle or to special products.
+Kronos, Apollon and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Kronos/Apollon](../axes/kronos-apollon.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Apollon = Node`
 - Astronomicon formula: `V/¥ = g`
 - Axis page: [Jupiter/Apollon](../axes/jupiter-apollon.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: PDF p. 215.
+
 Happily connected with many. Connections through science and commerce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Extensive financial connections, successful relationships to money, successful financial mediation, successful legal connections, successful contacts to science, connected with vie! money, and links to money trading
+- Source reference: printed p. 340; PDF p. 169.
+
+Extensive financial connections, successful relationships to money, successful financial mediation, successful legal connections, successful contacts with science, being connected with much money, and connections to money trading.
+
+## Comparative Schema
+
+- Core meaning: Benefit and happiness through extensive connections.
+- Psychology: Being happily connected with many.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Scientific, commercial, financial and legal contacts.
+- Events/manifestations: Financial mediation, ties to money trading, and links to substantial funds.
+- Conflicts/notes: Extensive ties do not imply formal alliances or equal gain for every contact.
+
+## Contradictions
+
+ABC specifies financial and legal forms of Witte's broad scientific/commercial connections.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Node`: prosperity through social reach. It can show beneficial networking, widespread alliances, and shared success built through exchange.
+In `Jupiter/Apollon = Node`, Node specifies the Jupiter/Apollon axis through connections with many people through science, commerce, finance, and law. Connections with many people find a concrete field in science, commerce, money trading and legal affairs. Successful financial mediation is a distinctive expression: benefit can come through bringing resources or parties together, as well as through direct involvement with money. The formula emphasizes the scope and practical usefulness of connections. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

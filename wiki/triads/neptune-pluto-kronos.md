@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Pluto Kronos`
 - Astronomicon triad-set: `Y Z ¤`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md)
-- [Neptune/Pluto = Kronos](../activations/neptune-pluto-equals-kronos.md)
-- [Pluto/Kronos = Neptune](../activations/pluto-kronos-equals-neptune.md)
+- [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Pluto](../factors/pluto.md).
+- [Neptune/Pluto = Kronos](../activations/neptune-pluto-equals-kronos.md): base axis [Neptune/Pluto](../axes/neptune-pluto.md); activator [Kronos](../factors/kronos.md).
+- [Pluto/Kronos = Neptune](../activations/pluto-kronos-equals-neptune.md): base axis [Pluto/Kronos](../axes/pluto-kronos.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `399`
-- `Neptune/Pluto = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `246`
-- `Neptune/Pluto = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `391`
-- `Pluto/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
-- `Pluto/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `415`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md#witte-entry) (PDF entry-start p. 250); [Neptune/Pluto = Kronos](../activations/neptune-pluto-equals-kronos.md#witte-entry) (PDF entry-start p. 246); [Pluto/Kronos = Neptune](../activations/pluto-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 260).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Kronos = Pluto](../activations/neptune-kronos-equals-pluto.md#abc-entry) (printed p. 399); [Neptune/Pluto = Kronos](../activations/neptune-pluto-equals-kronos.md#abc-entry) (printed p. 391); [Pluto/Kronos = Neptune](../activations/pluto-kronos-equals-neptune.md#abc-entry) (printed p. 415).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Pluto`: This activation transforms hidden authority into behind-the-scenes influence, sharpening political and diplomatic skill while exposing or publicizing incompetence in leadership.
-- `Neptune/Pluto = Kronos`: This activation elevates hidden transformation into the sphere of authority, showing abilities developing quietly and slow changes taking shape in relation to bosses, superiors, or institutions.
-- `Pluto/Kronos = Neptune`: This activation emphasizes uncertain or hidden shifts in authority; Advancement develops below the surface.
+Neptune, Pluto and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Neptune/Pluto](../axes/neptune-pluto.md)
+- [Pluto/Kronos](../axes/pluto-kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Pluto](../factors/pluto.md)
 - [Kronos](../factors/kronos.md)

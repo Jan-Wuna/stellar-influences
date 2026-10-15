@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/MC = Admetos`
 - Astronomicon formula: `V/MC = ¦`
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 65, Jupiter/MC section, Admetos row.
+
 Luck through treasures of the soil or matters concerning the soil. Fortunate through rest. Small luck. The end of good fortune.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source reference: printed page 75; one-based PDF page 36, Meridian/Jupiter section, Admetos row; complete row visually checked.
+
 enduring soul joy, blocked soul joy, consolidation of my success, profound satisfaction of the soul, my blocked success, my restricted right, my money cycle, deepening my happiness, and my financial limitation
+
+## Comparative Schema
+
+- core meaning: Rest, soil-related fortune and small or ended luck in Witte; sustained or blocked inner joy in ABC.
+- psychology: Enduring joy, profound satisfaction and deepened happiness coexist with blocked joy.
+- body/health: No bodily condition is stated.
+- social/relationship: ABC mentions restricted personal rights rather than a public office or relationship role.
+- events/manifestations: Soil-related gains, rest, blocked success, financial restriction and circulation.
+- conflicts/notes: MC is personal and inward in these entries; public growth or ambition was not a stated requirement.
+
+## Contradictions
+
+Witte's end of good fortune and ABC's blocked success coexist with enduring joy, consolidated success and profound satisfaction. Restriction need not erase contentment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/MC = Admetos`: public growth being grounded in stillness, land, or limited conditions rather than wide expansion. It can show contentment with little, but also the risk that ambitions shrink or success stalls.
+In `Jupiter/MC = Admetos`, [Witte](#witte-entry) places luck in rest or soil-related matters, but also small luck and the end of good fortune. [ABC](#abc-entry) gives the inward counterparts: lasting or blocked joy, consolidated or blocked success, and deepened satisfaction. Restricted rights and finances make the limits concrete. The orientation holds personal contentment and consolidation beside stoppage or restriction, without requiring a public-career setting.
 
 ## Links
 

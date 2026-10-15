@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `R/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ A creative mind. The hours of creative work. Discipline. Hot blooded woman. The 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `196`; PDF page: `97` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Effortful hour, strenuous woman, fiery woman, fiery creatures, leading woman, women's zide, leading people, pregnant woman, creative woman, achievements of one woman, creative gemiite, and people carts
+German pair summary (transcribed from printed page `196`; PDF page `97`):
+
+> Anstrengende Stunde, anstrengende Frau, feurige Frau, feurige Gefühle, führende Frau, Frauen-Ziele, führendes Volk, gebärende Frau, kreative Frau, Leistungen einer Frau, schöpferisches Gemüt, Volks-Führer
+
+Editorial translation from the German passage: Strenuous hour, strenuous woman, fiery woman, fiery feelings, leading woman, women's goals, leading people, woman giving birth, creative woman, achievements of a woman, creative disposition, leader of a people.
+
+## Comparative Schema
+
+- core meaning: creative effort and disciplined production connect the mind, working hours, and organized public action.
+- psychology: creativity, fiery feeling, exertion, and discipline are the stated personal themes.
+- body/health: Witte names female procreative capacity and having children; this historical association does not establish pregnancy or a medical condition.
+- social/relationship: the sources use gendered images of creative or leading women and collective images of a people organized for action.
+- events/manifestations: creative work, state institutions of general benefit, and martial mobilization belong to the pair's stated range.
+- conflicts/notes: Productive effort, leadership and childbirth remain distinct literal source associations; none is an inevitable outcome.
 
 ## Related Activations
 
@@ -103,13 +120,18 @@ Effortful hour, strenuous woman, fiery woman, fiery creatures, leading woman, wo
 - [Moon/Zeus = Vernal Point](../activations/moon-zeus-equals-vernal-point.md)
 - [Moon/Zeus = Vulcanus](../activations/moon-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+The scan restores women's goals, fiery feelings, creative disposition and leader of a people. Gebärende Frau means a woman giving birth; it does not justify substituting a pregnancy prediction.
+
+ABC's complete bold pair list was checked against printed196/PDF97; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus` is the axis of creative mind, disciplined productive hours, fiery women or peoples, pregnancy and procreative faculty, and collective life lined up for action.
-- Constructively it supports creative women, leading or striving people, disciplined work, public institutions of benefit, and emotional fire directed toward achievement.
-- The liability is inflammability, strenuous overheat, martial mobilization, or feeling driven by command rather than natural rhythm.
-- Activations show whether this creative fire becomes work, leadership, birth or production, conflict, public organization, or a pressured schedule.
+`Moon/Zeus` connects a creative mind with the effort and discipline needed to produce something. [Witte's pair summary](#pair-summary) joins creative working hours, discipline, and an inflammable or hot-blooded quality; [Udo's intelligible pair phrases](#abc-pair-summary) add exertion, leadership, and creative achievement. The organizing theme is directed creative energy rather than creativity without work or purpose.
+
+That direction can be collective as well as personal: Witte includes a martial nation, an organized people, and institutions created by the state for general benefit. His references to women having children and female procreation remain a historical gendered part of the range, not a prediction of pregnancy. The entries leave open whether the energy becomes useful production, public organization, or combustible mobilization; specific manifestations require their own activation evidence.
 
 ## Links
 

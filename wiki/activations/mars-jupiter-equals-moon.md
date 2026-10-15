@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Moon Mars Jupiter](../triads/moon-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ The betrothed woman or girl. Birth of a girl. Persons who are content and satisf
 
 #### ABC Entry
 
-Achieving skills, successful actions of people, successful women's work, women's work law, joy to fiel through activity, happiness of women want, woman trading with money, legal actions for people, and legal activity of women
+Emotional impulses that bring happiness, successful actions of the people, successful women's work, women's labor rights, feeling joy through activity, wanting a woman's happiness, a woman trading with money, legal actions for the people, and a woman's legal activity.
+
+- Source reference: printed p. 298, PDF p. 148, Moon row; `Beglückende Gefühls-Impulse` means emotional impulses that bring happiness, not achieving skills.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Becoming more aware of your strength; encourages physical activity or sports wit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Feeling and confidence support satisfying action, with a risk of over-nurturing.
+- psychology: Intuition, warm generosity, pride and mood-dependent confidence are explicit.
+- body/health: Physical activity and fluctuating energy are stated; historical birth examples are not medical predictions.
+- social/relationship: Family sports, starting home life and reaching out to others are named.
+- events/manifestations: Public courage and successful public, financial or legal activity coexist with betrothal/birth examples.
+- conflicts/notes: Woman-specific examples remain attributed historical wording; generous care can exceed its useful measure in Sandbach's entry.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize satisfying activity and feeling-guided decisions while retaining fluctuating energy and excessive nurturing. These qualifications do not establish that intuition is always reliable or generosity always excessive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Moon`: generous feeling, successful intuitive decisions, upbeat emotional tone, and protective or fruitful action that readily reaches out to others. Main caution: emotional excess: moods can encourage overdoing, overhelping, or acting too confidently on feeling alone.
+Moon specifies the Mars/Jupiter axis through feelings that support confident and satisfying action. [Ebertin](#ebertin-entry) names fortunate decisions guided by feeling; [ABC](#abc-entry) adds joy through activity and emotional impulses that bring happiness. [Sandbach](#sandbach-entry) connects warm generosity with mood-dependent confidence and possible over-nurturing, while [Munkasey](#munkasey-entry) adds family activity and changing energy levels. The historical woman-specific and birth examples in [Witte](#witte-entry) and Ebertin remain particular source formulations rather than universal gender or reproductive claims.
+
+Evidence: Witte PDF p. 192; ABC printed p. 298, PDF p. 148; Ebertin printed p. 202, code 0688; Sandbach PDF p. 67 (Moon paragraph, checked directly); Munkasey printed p. 224.
 
 ## Links
 

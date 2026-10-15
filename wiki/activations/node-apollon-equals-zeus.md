@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Zeus`
 - Astronomicon formula: `g/¥ = £`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
 Creation through freedom. Combined activity in domestic economy and science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `233`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-Efforts to communicate knowledge, broadening the links with objectives, starting successful contacts, relationships with leading scientists, successful links, and increasing efforts in links
+Strenuous sharing of knowledge, expansion of connections through striving toward goals, the beginning of successful contacts, relationships with leading scientists, successful connections to leaders, and increasing efforts within connections
+
+## Comparative Schema
+
+- core meaning: creation or joint activity through freedom and purposeful contact.
+- psychology: striving toward goals and strenuous knowledge-sharing are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: leading scientists, leaders and combined work provide the social setting.
+- events/manifestations: successful contacts beginning and increasing effort are named.
+- conflicts/notes: strenuous effort is not itself proof of failure or a guarantee of success.
+
+## Contradictions
+
+Witte emphasizes creative freedom and combined work. ABC adds purposeful knowledge exchange and increasing effort without promising a particular final outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Zeus`: Creation through freedom. Combined activity in domestic economy and science.
-- Practical focus: creation through freedom; also combined activity in domestic economy and science.
+Node/Apollon = Zeus concerns creation and coordinated work through purposeful connections. [Witte](#witte-entry) names creation through freedom and combined activity in domestic economy and science. [ABC](#abc-entry) adds strenuous knowledge-sharing, goals that expand connections and contacts with leaders or leading scientists (printed p. 233, PDF p. 115). The emphasis is active collaboration and direction, with successful beginnings and increased effort both retained rather than a promise about the finished result.
 
 ## Links
 

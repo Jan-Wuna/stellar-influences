@@ -25,6 +25,9 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 113 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start.
+
 - Formula: `Jupiter/Asc = Poseidon`
 - Astronomicon formula: `V/Asc = ¨`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -44,10 +47,25 @@ In the company of prudent and reasonable men.
 
 Successful cultural place, joy in environmental culture, happy spiritual environment, ideal environmental success, clear financials of the partner, legal clarity in the place, spiritual success in the place, advantage by spiritual partners, and satisfaction over true partners
 
+## Comparative Schema
+
+- core meaning: Favorable companionship is specified through reason, cultural life, and spiritual clarity.
+- psychology: The entries support appreciation of a clear or thoughtful environment, without a fuller psychological account.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte describes prudent and reasonable company; ABC adds spiritual partners and satisfaction with truthful partners.
+- events/manifestations: ABC names cultural success, spiritual success, clear partner finances, and local legal clarity.
+- conflicts/notes: ABC's cache locates the entry at printed p. 113 (PDF p. 55). Witte's 'men' is retained as historical wording, not a gender requirement.
+
+## Contradictions
+
+- The brief Witte entry and ABC's wider list differ in scope. Neither supplies a competing account of the same circumstance.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Asc = Poseidon`: social optimism elevated by wisdom. It can show good fortune arising through intellectually sound or ethically clear companionship.
+In `Jupiter/Asc = Poseidon`, Poseidon specifies the Jupiter/Asc pair as benefit through thoughtful, clear-minded company. [Witte](#witte-entry) confines the claim to prudent and reasonable companions; [ABC](#abc-entry), located at printed p. 113 (PDF p. 55), extends it to a congenial cultural or spiritual environment and truthful partners.
+
+ABC also gives the more concrete motifs of clear finances and legal clarity. Together the entries support satisfaction through clarity in one's surroundings; they do not establish a person's universal wisdom or moral status.
 
 ## Links
 

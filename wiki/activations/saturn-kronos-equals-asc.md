@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Kronos](../axes/saturn-kronos.md)
 - Triad hub: [Saturn Asc Kronos](../triads/saturn-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 227.
 
 To be associated with impoverished corporations. No payment from the state or boss.
 
@@ -42,13 +46,29 @@ To be associated with impoverished corporations. No payment from the state or bo
 
 #### ABC Entry
 
-On site reputation, particular patience of the partner, concentration on the partner's particularity, state environmental problems, environmental losses of the state, loss of the partner's independence, and important environmental tasks
+Loss of reputation at a place, particular patience of the partner, concentration on what is particular about the partner, state problems in the surroundings, losses in the state's surroundings, loss of the partner's independence, and important tasks in the surroundings.
+
+Translation checked against the German scan: printed p. 360, PDF p. 179.
+
+## Comparative Schema
+
+- Core meaning: Institutional restriction or loss becomes concrete through a partner or local surroundings.
+- Psychology: Patience and concentration on the partner's particular qualities.
+- Body/health: These entries specify no bodily condition.
+- Social/relationship: A partner's independence and association with impoverished organizations are explicit concerns.
+- Events/manifestations: Nonpayment by the state or boss, local reputation loss, and official tasks affecting the surroundings.
+- Conflicts/notes: The scan says loss of reputation at a place; the cached English omitted the loss.
+
+## Contradictions
+
+Nonpayment in Witte and patience or important tasks in the ABC entry describe different facets of institutional difficulty. The entries do not establish that every dependent partnership is impoverished.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Kronos = Asc`: to be associated with impoverished corporations, no payment from the state or boss.
-- Practical expression: on site reputation, particular patience of the partner, concentration on the partner's particularity, state environmental problems, and environmental losses of the state.
+In `Saturn/Kronos = Asc`, Asc specifies the Saturn/Kronos axis through a partner or the immediate surroundings of official and organizational life. The [Witte entry, PDF p. 227](#witte-entry) makes financial dependence concrete as association with an impoverished organization or nonpayment by a state or boss; the verified [ABC entry, printed p. 360](#abc-entry) adds local reputation loss and a partner's lost independence.
+
+Patience, attention to the partner's particular qualities, and important tasks in the surroundings remain part of the same entry. They describe responses and responsibilities within the difficulty, without guaranteeing either financial loss or a successful resolution.
 
 ## Links
 

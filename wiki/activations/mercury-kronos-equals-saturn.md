@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Kronos = Saturn`
 - Astronomicon formula: `T/¤ = W`
 - Axis page: [Mercury/Kronos](../axes/mercury-kronos.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `169`.
+
 #### Witte Entry
 
 Philosophical way of thinking. Unpleasant inquiries of the authorities. Challenging or refusing the opinion of authorities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `261`; PDF page: `129`.
+
 #### ABC Entry
 
-Authoritate of age for youth, special separation thoughts, stereotyped prestige of youth, concentration of thoughts on the special, problems of authority with the media, difficulties of the state with youth, and think about important tasks
+German passage (transcribed from PDF page `129`, printed page `261`):
+
+> Autorität des Alters für die Jugend, besondere Trennungs-Gedanken, gestörtes Ansehen der Jugend, Konzentration der Gedanken auf das Besondere, Probleme der Obrigkeit mit den Medien, Schwierigkeiten des Staates mit der Jugend, über wichtige Aufgaben nachdenken
+
+Editorial translation from the German passage: The authority of age for young people; particular thoughts of separation; impaired standing of young people; concentration of thought on the particular; authorities' problems with the media; the state's difficulties with young people; thinking about important tasks.
+
+## Comparative Schema
+
+- core meaning: Reflective thought and difficult scrutiny of authority ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Concentration on particular matters and thoughts of separation are explicit.
+- body/health: No bodily condition is stated.
+- social/relationship: Questioning authorities and tension between state, youth, or media are named.
+- events/manifestations: Unpleasant official inquiries and thought about important tasks are examples.
+- conflicts/notes: Philosophical reflection does not require accepting authority's opinion.
+
+## Contradictions
+
+Witte explicitly permits challenging or refusing authorities' opinions. ABC's age-based authority and state difficulties are contextual examples, without establishing that authority prevails.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Kronos = Saturn` disciplines the axis through philosophy, scrutiny, and friction with authority.
-- Chart expression: serious reflective thought, unpleasant official inquiries, and the challenge of resisting or questioning the opinions of those in power.
+In `Mercury/Kronos = Saturn`, Saturn specifies important thought through philosophy, scrutiny, and friction with authority. Official inquiries can be unpleasant, while the individual may question or refuse an authority's opinion. ABC adds concentrated attention to important tasks and difficulties involving government, media, or youth. The connection is sustained engagement with consequential ideas under constraint, including dissent as well as reflection ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `U/Chiron`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: `69–70` (Principle and Process).
 
 #### Principle
 
@@ -60,6 +64,15 @@ Assertively reaching out to those who need help and healing, often doing this in
 #### Process
 
 The growth of one’s ability to engage in conflict in the most lifesupporting way possible. The power of seeing into the roots of conflict so that it can be healed deeply and profoundly at its root level. To be able to take initiative based on the guid ance of spiritual forces.
+
+## Comparative Schema
+
+- core meaning: Initiative used to help and to transform conflict, with attention to its roots; see [Principle](#principle) and [Process](#process).
+- psychology: Confidence to act on a sensed need and the wish to redirect destructive energy are explicit themes; this is not a general endorsement of every impulse.
+- body/health: Healing is stated broadly. The entry supplies no particular condition, body part, treatment, or medical outcome.
+- social/relationship: Reaching out to people who need help and resolving a conflict replace argument that goes in circles.
+- events/manifestations: Taking constructive initiative, clearing an obstruction, and engaging conflict in a life-supporting way describe the source's process.
+- conflicts/notes: Spiritual guidance and a new world order belong to Sandbach's interpretive framework. The split words "de structive" and "guid ance" are retained as extraction artifacts; no separate doctrine is inferred from them.
 
 ## Related Activations
 
@@ -79,8 +92,9 @@ The growth of one’s ability to engage in conflict in the most lifesupporting w
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Chiron`: active healing: confronting conflict directly, cutting through destructive patterns, and using assertiveness in a way that restores life rather than merely winning struggle.
-- Chart expression: the ability to sense what must be done, act from deep or spiritual guidance, and get to the core of a conflict so it can be resolved rather than endlessly repeated. It favors constructive courage, transformative pressure, and purposeful use of sharp or even destructive energy when clearing the way for something healthier. Its shadow is acting too impulsively, justifying conflict as healing, or trusting instinct without enough grounding.
+`Mars/Chiron` describes initiative directed toward help and the repair of conflict. Assertiveness need not be blunt: the [Principle](#principle) includes subtle, indirect ways of reaching someone, transforming destructive energy, and identifying what keeps a conflict going. Confidence to act on a sensed need serves this constructive purpose rather than making conflict an end in itself.
+
+The [Process](#process) develops the ability to engage conflict in a life-supporting way and address it at its roots. Its appeal to spiritual guidance belongs to this single source's framework; the entry does not establish a particular medical treatment or promise healing.
 
 ## Links
 

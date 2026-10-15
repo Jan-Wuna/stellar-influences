@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Admetos`
 - Astronomicon formula: `U/W = ¦`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Admetos row.
+
 The beginning of a very sad time. Sickness, separation or interruption of work for a very long period of time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Endurance at the best of work, blocked activities in old age, limitation of work tasks, serious commitment to clarity, patient will strengthening, painful limitation of work, and deepening in work problems
+- Source reference: printed p. 301; one-based PDF p. 149, Mars + Saturn, Admetos row.
+
+Endurance in serious work, blocked activities in old age, restriction of work tasks, serious effort toward thoroughness, patient strengthening of the will, painful restriction of activity, and immersion in work problems.
+
+## Comparative Schema
+
+- Core meaning: Prolonged restriction or interruption of activity, with endurance as a possible response.
+- Psychology: ABC includes patient strengthening of will and sustained attention to work problems.
+- Body/health: Witte historically includes prolonged sickness; this is an attributed example, not a prognosis.
+- Social/relationship: Separation is named by Witte, but no particular relationship or unavoidable loss is established.
+- Events/manifestations: Extended interruption of work and painful limits on tasks or activity.
+- Conflicts/notes: ABC explicitly gives serious work and effort toward thoroughness; these constructive responses remain beside painful restriction and blocked activity.
+
+## Contradictions
+
+Witte stresses prolonged sorrow; ABC also describes endurance and patient effort. Difficulty and sustained engagement can coexist.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Saturn = Admetos` compresses blocked force into long, heavy, and immobilizing hardship.
-- Chart expression: the beginning of a very sad period, prolonged sickness, separation, or interruption of work, and burdens that hold activity down for an extended time.
+In `Mars/Saturn = Admetos`, Admetos specifies interrupted or constrained effort through its duration and depth. Work may remain limited for a long period, calling for endurance and a patient strengthening of will. Witte's severe examples of sickness or separation remain attributed historical possibilities, not forecasts. See the [Witte entry](#witte-entry) (PDF p. 193) and [ABC entry](#abc-entry) (printed p. 301).
 
 ## Links
 

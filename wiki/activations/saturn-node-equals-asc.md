@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
 - Triad hub: [Saturn Node Asc](../triads/saturn-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Breaking off of unions. No contact with one’s environment.
 
 #### ABC Entry
 
-Leverage cmlc V cr bonding in one place, cmst contact to another, patience in connection with other, gctorte partner relationship, concentration on the connection to the partner, place of separation of a connection, and loss of a partner connection
+Source: ABC printed p. 216, supplied PDF p. 107, Node + Saturn, asc row (seven clauses). Translation from the German scan:
+
+A burdensome connection at a place; serious relationships with others; patience in connection with others; a disturbed partner relationship; concentration on the connection to the partner; the place of separation of a connection; loss of a partner connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +61,9 @@ An inhibited person with a desire for seclusion, suffering under difficulties to
 
 #### Sandbach Entry
 
-One who resists changes that occur in relationships. Because of fear one desires to maintain the status quo in relationships. The need to realize that one’s lack of connection or restriction of connection with others is due to how one see’s oneself.
+Source: supplied Sandbach PDF pp. 93–94, complete Ascendant paragraph under Saturn/Node.
+
+One who resists changes that occur in relationships. Because of fear one desires to maintain the status quo in relationships. The need to realize that one’s lack of connection or restriction of connection with others is due to how one sees oneself.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +76,21 @@ Important situations or events which may alter your life; discussions on the wis
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: restricted contact with others and the immediate environment.
+- psychology: seclusion and fear of relationship change; self-image can restrict connection.
+- body/health: Munkasey mentions suffering or pain without naming a bodily condition.
+- social/relationship: broken unions, troubled partnerships, or little available help.
+- events/manifestations: reconsidering whether to continue an effort amid loss.
+- conflicts/notes: ABC includes both serious or patient ties and disturbed or lost partner connections; reliable rapport is not assured.
 
 ## Contradictions
 
-- None recorded yet.
+- Fear-driven maintenance of a bond and actual separation are different situations; the entries do not promise reliable rapport.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Asc`: reliable conduct, formal rapport, and the ability to carry relational responsibility visibly and steadily. Main caution: reserve: self-protection can make closeness feel burdensome, narrow, or harder to form naturally.
+Asc specifies the Saturn/Node axis through difficulty making or maintaining contact with the immediate environment. [Witte](#witte-entry) names broken unions and absent contact; [Ebertin](#ebertin-entry) adds seclusion and shared difficulty. [Sandbach](#sandbach-entry) offers a psychological connection: fear and self-image can hold relationships in an unchanged, restricted form. [Munkasey's](#munkasey-entry) scarcity of help gives the difficulty a practical setting, without turning reserve into an assured virtue.
 
 ## Links
 

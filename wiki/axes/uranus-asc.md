@@ -13,6 +13,8 @@ factor_b: Asc
 related_activations:
   - Uranus/Asc = Admetos
   - Uranus/Asc = Apollon
+  - Uranus/Asc = Asc
+  - Uranus/Asc = Chiron
   - Uranus/Asc = Cupido
   - Uranus/Asc = Hades
   - Uranus/Asc = Jupiter
@@ -27,11 +29,13 @@ related_activations:
   - Uranus/Asc = Poseidon
   - Uranus/Asc = Saturn
   - Uranus/Asc = Sun
+  - Uranus/Asc = Uranus
   - Uranus/Asc = Venus
   - Uranus/Asc = Vernal Point
   - Uranus/Asc = Vulcanus
   - Uranus/Asc = Zeus
 related_triad_hubs:
+  - Chiron Uranus Asc
   - Jupiter Uranus Asc
   - Mars Uranus Asc
   - Mercury Uranus Asc
@@ -70,13 +74,14 @@ updated_at: 2026-06-20
 - Axis: `Uranus/Asc`
 - Astronomicon axis: `X/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `URANUS/ASCENDANT`
-- Source page: `319`
+- Source heading: `ASCENDANT + URANUS`
+- Source page: PDF p. 88.
 
 #### Pair Summary
 
@@ -86,9 +91,13 @@ Excitement, irritation or accidents caused by other people. Sudden acquaintances
 
 #### ABC Pair Summary
 
-Dynamic partner, event location, events with other, excited partner, place of technology, tensions with the partner, place of tension, environmentRenewable, environmental reform, environmental technology, and restless environment
+- Source page: printed pp. 116–117; PDF p. 57.
+
+Dynamic partner, event location, events with others, excited partner, new partner, place of technology, tensions with the partner, place of tension, renewal of the environment, environmental reform, environmental technology, restless environment.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 274; PDF p. 276.
 
 #### Principle
 
@@ -108,9 +117,11 @@ Excitable people.
 
 #### Probable Manifestations
 
-+ Rearranging one's environment, changing one's residence, suddenly making new contacts. - Upsetting and exciting experiences, sudden incidents, accidents. Uranus/Ascendant WA
++ Rearranging one's environment, changing one's residence, suddenly making new contacts. - Upsetting and exciting experiences, sudden incidents, accidents.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source page: PDF p. 107.
 
 #### Principle
 
@@ -121,6 +132,8 @@ An unusual and/or unpredictable personality. To have fast and/or surprising reac
 To free oneself of the limitations of one’s own identity. To try on different roles and images. To overcome the projections that other people place on oneself.
 
 ### Robert Hand - Horoscope Symbols
+
+- Source page: PDF p. 211.
 
 #### Pair Delineation
 
@@ -170,17 +183,19 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: rapid response and unexpected change in immediate surroundings, encounters, and outward expression ([Witte](#pair-summary), [Ebertin](#principle), [Sandbach](#process)).
+- psychology: alertness, originality, and experimentation with roles or appearance, with possible irritability, scattered energy, and disruptive bids for attention ([Ebertin](#psychological-correspondence), [Munkasey](#in-your-personal-life)).
+- body/health: heightened nervous response, headaches, stress, and rapid bodily changes are historical source associations; they do not establish an individual's medical state ([Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind)).
+- social/relationship: sudden or unusual contacts, autonomy in relationships, and unconventional ways of showing affection; unstable intimacy and alienating unpredictability are also represented ([Hand](#pair-delineation), [Munkasey](#in-your-relationships)).
+- events/manifestations: changed surroundings or residence, abrupt meetings and breaks, surprising public responses, and technical or inventive activity in the immediate environment ([Witte](#pair-summary), [Ebertin](#probable-manifestations), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: quick adaptability and refusal to adapt are alternative expressions in Banzhaf/Haebler. Environmental renewal, technical locations and outward experimentation extend the range beyond personal eccentricity.
 
 ## Related Activations
 
 - [Uranus/Asc = Admetos](../activations/uranus-asc-equals-admetos.md)
 - [Uranus/Asc = Apollon](../activations/uranus-asc-equals-apollon.md)
+- [Uranus/Asc = Asc](../activations/uranus-asc-equals-asc.md)
+- [Uranus/Asc = Chiron](../activations/uranus-asc-equals-chiron.md)
 - [Uranus/Asc = Cupido](../activations/uranus-asc-equals-cupido.md)
 - [Uranus/Asc = Hades](../activations/uranus-asc-equals-hades.md)
 - [Uranus/Asc = Jupiter](../activations/uranus-asc-equals-jupiter.md)
@@ -195,6 +210,7 @@ Emphasizes finding mental balance and stability; added stress from having to con
 - [Uranus/Asc = Poseidon](../activations/uranus-asc-equals-poseidon.md)
 - [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
 - [Uranus/Asc = Sun](../activations/uranus-asc-equals-sun.md)
+- [Uranus/Asc = Uranus](../activations/uranus-asc-equals-uranus.md)
 - [Uranus/Asc = Venus](../activations/uranus-asc-equals-venus.md)
 - [Uranus/Asc = Vernal Point](../activations/uranus-asc-equals-vernal-point.md)
 - [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
@@ -202,20 +218,21 @@ Emphasizes finding mental balance and stability; added stress from having to con
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries distinguish openness to new situations from headstrong resistance to other people's expectations. Both are represented; neither adaptability nor unreliability should be assumed in every case.
+- Witte's surroundings and technical locations, Sandbach's outward identity, and Hand's relationships are related but distinct emphases of this shared pair.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc` is the axis of unusual self-presentation, sudden contacts, and the need for freedom in immediate relationships and environment. It combines originality, disruption, speed, and nervous excitation with personality, appearance, close surroundings, and one-to-one encounters.
-- Chart expression: a distinctive or unpredictable manner, abrupt beginnings and breaks in relationships, rapid reactions, and the urge to live outside accepted social categories. Liabilities: instability, accidents, erratic conduct, alienation, and difficulty sustaining calm or consistent rapport with others.
+`Uranus/Asc` concerns meeting the immediate world through rapid reactions, unusual presentation, and a strong need for room to act independently. An encounter or change in surroundings can provoke excitement, experimentation, or irritation; other people may experience the person as distinctive and inventive, or as unpredictable and disruptive. Trying different appearances or roles is one explicit expression of freeing outward identity from fixed expectations ([Ebertin](#psychological-correspondence), [Sandbach's process](#process), [Munkasey](#basic-ideas)).
+
+The relational range includes sudden acquaintances, unconventional partners, unusual ways of showing affection, and ties formed or broken abruptly. Technical workplaces, engineers, inventions, and environmental rearrangement also belong to the pair's concrete range, so its meaning is wider than eccentric personality alone. Banzhaf/Haebler preserve both quick adaptation and stubborn refusal to adapt; the accident and health associations in other entries remain attributed possibilities rather than a forecast ([Hand](#pair-delineation), [Witte](#pair-summary), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
 
 ## Links
 
 - [Uranus](../factors/uranus.md)
 - [Asc](../factors/asc.md)
+- [Chiron Uranus Asc](../triads/chiron-uranus-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Node`
 - Astronomicon formula: `X/MC = g`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 Connections that cause mental strain. Moment of sudden bonds.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source locator: printed p. 78; PDF p. 38.
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Dynamic soul connection, I'm nervous about contacts, my restless connections, my
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: printed p. 279; PDF p. 281; entry code `0996`.
+
 #### Ebertin Entry
 
-to rise in one's position at the expense of others, successful elimination of competition, tension within a community or association of people, hectic family life, upset and quarrel.
+Desire to rise in one's position at the expense of others, successful elimination of competition, tension within a community or association of people, hectic family life, upset and quarrel.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Finding friends and allies who are invaluable to you; you may go to much effort 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 78; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 279; PDF p. 281; entry 0996), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Personal independence negotiated through alliances and sudden bonds. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Nervousness in contacts and tension within associations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Mental strain is named; no specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Appreciative allies coexist with competition and hectic family relations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden connections, advancement, and use of bureaucracy. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Supportive alliances and advancement at others' expense are distinct possibilities, not evidence that all connections are beneficial. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Supportive alliances and advancement at others' expense are distinct possibilities. Bureaucratic skill, competition and a wish for respect do not make every connection harmonious.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Node`: progressive teamwork, catalytic group roles, and opportunities that come through new social currents rather than established channels. Main caution: unstable alignment: rebellion, unpredictability, or refusal of compromise can fracture useful alliances.
+Node specifies Uranus/MC through connections that test or support personal independence. Sudden bonds and valuable allies can create opportunities, yet the entries also describe strain within associations, competition, and quarrels at home. Relations with others become a field for learning one's own authority, with political skill and bureaucracy represented as practical means rather than proof of harmonious teamwork. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

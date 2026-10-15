@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Chiron = Mars`
 - Astronomicon formula: `V/Chiron = U`
 - Axis page: [Jupiter/Chiron](../axes/jupiter-chiron.md)
@@ -35,12 +37,29 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- Source reference: PDF p. 80, exact Mars paragraph.
+
 To assert oneself in a way that uplifts others and brings out their enthusiasm and feelings of hope.
+
+## Comparative Schema
+
+- core meaning: Self-assertion takes an encouraging form that awakens hope in others.
+- psychology: The entry describes assertion that uplifts, rather than analyzing anger, fear, or a specific motivation.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Others receive renewed enthusiasm and feelings of hope through how one acts or asserts oneself.
+- events/manifestations: The supported manifestation is active encouragement; no particular event or professional role is named.
+- conflicts/notes: Assertion is described by its encouraging effect; no particular event, role or method is specified.
+
+## Contradictions
+
+- The sole entry gives a constructive expression without a stated counterclaim. That limited scope is not evidence that adverse expressions cannot occur.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Chiron = Mars`: a courageous healing style. It can show active encouragement that motivates people to move forward rather than collapse.
+In `Jupiter/Chiron = Mars`, Mars specifies the Jupiter/Chiron pair through self-assertion that encourages other people. The [Sandbach entry](#sandbach-entry) joins action toward one's own purposes with an uplifting effect: others find enthusiasm and hope in the way one asserts oneself.
+
+The claim concerns the effect of assertion, not a prescribed healing practice or a promise that every forceful action helps. The brief entry does not provide an adverse counterpart or a named event.
 
 ## Links
 

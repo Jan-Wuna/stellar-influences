@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Zeus`
 - Astronomicon axis: `X/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); each related activation retains its distinct oriented formula.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- PDF page: 238.
+
 The will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosion. Bolt of lightning. Sudden outbreak of war. Electric motor. Dynamo. Fatherhood. Explosions. Danger from fire. Controlled forces. Laws of nature. Sudden acts which cannot be suppressed. To explode, to ignite. Surprising events happening by natural force.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-ReginnemJe Restlessness, dynamic filhnmg, nervous guidance, new beginning, plotdiches fire, reform struts, rhythmic design, slippery impulses, technical achievements, and procreation event
+- Printed pages: 378–379; PDF page: 188.
+
+Beginning restlessness, dynamic leadership, nervous leadership, new beginning, new direction, sudden fire, striving for reform, rhythmic shaping, creative impulses, technical achievements, procreation event.
+
+## Comparative Schema
+
+- core meaning: will and creative initiative meeting sudden discharge or ignition of forces ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: beginning restlessness, dynamic or nervous leadership, new direction and creative impulses; no fixed temperament is established.
+- body/health: fatherhood and a procreation event are explicit, without specifying fertility, pregnancy or a medical outcome.
+- social/relationship: leadership and reform are supported; a particular intimate bond or group outcome is not described.
+- events/manifestations: new beginnings and technical achievements, electric motors/dynamos and natural forces; fire, firearms, explosions and outbreak of war remain severe source examples ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- conflicts/notes: controlled forces and sudden acts that cannot be suppressed both appear in Witte; the pair does not settle which expression occurs or predict an accident, conflict or conception.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ ReginnemJe Restlessness, dynamic filhnmg, nervous guidance, new beginning, plotd
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to the will. Sudden fire. Discharge of firearms. To fire, to splinter. Fire explosion. Bolt of lightning. Sudden outbreak of war. Electric motor. Dynamo. Fatherhood. Explosions. Danger from fire. Controlled forces. Laws of nature. Sudden acts which cannot be suppressed. To explode, to ignite. Surprising events happening by natural force.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Zeus` links will, creative initiative and new direction with the sudden discharge or ignition of forces. [Udo](#abc-pair-summary) describes beginning restlessness, dynamic or nervous leadership, striving for reform, rhythmic shaping and technical achievements. [Witte](#pair-summary) gives this a literal technical and natural range through electric motors, dynamos, lightning and surprising events produced by natural force.
+
+Witte also includes controlled forces beside acts that cannot be suppressed, and names fire, firearms, explosions and a sudden outbreak of war. Those severe possibilities coexist with new beginnings and creative work; the pair alone does not select an event or assign responsibility for it. Fatherhood and Udo's procreation event form another explicit branch, without establishing a reproductive outcome. Each closing factor requires its own oriented activation rather than inheriting a single inevitable expression of this shared pair.
 
 ## Links
 

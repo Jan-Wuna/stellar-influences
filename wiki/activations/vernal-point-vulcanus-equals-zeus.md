@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Zeus Vulcanus](../triads/vernal-point-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 Immense creations. Directed forces. Tremendous fire.
 
@@ -42,13 +46,29 @@ Immense creations. Directed forces. Tremendous fire.
 
 #### ABC Entry
 
-Energy performance in public, huge public effort Life, fire energy in public, leading public impact Life, public impact Force, and powerful public start
+- Source page: 57; PDF page: 27 (one-based spread).
+
+Energy achievements in public, tremendous efforts in public life, fire energies in public, leading influence in public life, public leadership strength, and a powerful beginning in public.
+
+## Comparative Schema
+
+- core meaning: Great public energy directed into creation and leadership.
+- psychology: Tremendous effort and purposeful direction.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Leading influence and leadership strength.
+- events/manifestations: Large creations, powerful beginnings and tremendous fire.
+- conflicts/notes: Constructive achievement and fire are parallel source expressions.
+
+## Contradictions
+
+Both stress directed force and fire. ABC develops effort, leadership and powerful beginnings alongside Witte’s immense creations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Zeus`: immense creations, directed forces, and tremendous fire.
-- Practical expression: energy performance in public, huge public effort Life, fire energy in public, leading public impact Life, and public impact Force.
+`Vernal Point/Vulcanus = Zeus` directs substantial public force toward a beginning or achievement. Witte’s immense creations and directed forces meet ABC’s tremendous effort, energy achievements and public leadership strength. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Fire energy and tremendous fire form a second explicit branch. They should remain alongside the constructive leadership interpretation without making large achievement dependent on a destructive event. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

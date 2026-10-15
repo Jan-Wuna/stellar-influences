@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Node MC](../triads/mars-node-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To have the power of command. Connections to working life.
 
@@ -45,17 +49,23 @@ To have the power of command. Connections to working life.
 
 #### ABC Entry
 
-I want connections, my relationships to work, my contact actions, my connection impulses, my connections at work, and spiritual contacts at work
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Efforts toward inner contacts, bonds through soul work, I want connections, my relationships to work, my contact actions, my impulses toward connection, my connections at work, and inner contacts at work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 224, entry 0880.
 
 Desire to take up a leading position within the community, tendency to impose one's will upon others. Assuming leadership, attainment of success in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 78.
 
 In this lifetime one is developing skills with which to serve the world. Connecting with others who help one to develop one’s effectiveness in action.
 
@@ -70,22 +80,21 @@ Contacts thru others which help you develop your interpersonal capabilities; inc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connections through work, leadership, and the development of effective action.
+- psychology: A wish for useful contacts can coexist with irritation at others' advantages or a desire to impose one's will.
+- body/health: No bodily or medical effect is given.
+- social/relationship: Work contacts and helpers; community leadership or pressure for attention.
+- events/manifestations: Taking command, developing interpersonal skills, and working with people who increase effectiveness.
+- conflicts/notes: Helpful connection and coercive leadership are alternative emphases; the entries do not make every collaboration a command relationship.
 
 ## Contradictions
 
-- None recorded yet.
+The supportive contacts in Sandbach and Munkasey differ from the pressure for command or attention also named. These are alternative forms of social involvement rather than a single necessary relationship style.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Node`: assuming authority in associations, productive collaboration, and alliances that advance worldly aims or public effectiveness. Main caution: imposing will on the group: leadership can become dominance when cooperation is treated as a command structure.
+In `Mars/MC = Node`, Node specifies personal action through working connections and the people who help develop effectiveness. ABC includes inner bonds formed through soul work, while Sandbach emphasizes skills developed for service. The social field can also become a place to seek command and recognition: Ebertin names imposing one's will, and Munkasey describes force or noise used to gain attention. These possibilities qualify the shared emphasis on contacts without making dominance the necessary form of cooperation. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 224, entry 0880; [Sandbach](#sandbach-entry), PDF p. 78; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

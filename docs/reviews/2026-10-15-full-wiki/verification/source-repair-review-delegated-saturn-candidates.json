@@ -1,0 +1,1058 @@
+{
+  "scope": "Exclusive independent verification handoff; no wiki or owner-ledger edits. Every source delta and added locator in every listed section requires direct raw source proof; exact current hash and unique owner required. Other unchanged source pages in these formula groups are outside the allowance list.",
+  "candidate_artifact_sha256": "8861d12dc871a9a1869e3945512ad2a6a9187b9bee395db918f19b7d2bc0be16",
+  "candidate_artifact_generated_at": "2026-10-15T11:35:51.004765+00:00",
+  "generated_at": "2026-10-15T12:04:22.406Z",
+  "paths": [
+    {
+      "path": "wiki/activations/saturn-admetos-equals-apollon.md",
+      "before_sha256": "d2503f662c945e2ec60bf2091dbc12a042aa429429a8ab72344dd56bc95291bf",
+      "after_sha256": "4ffe5979332ede04aaa89a7182b4bc3e5afc993d93bfac8287cb04d4882912cf",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 2
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-asc.md",
+      "before_sha256": "76797133eb7e73c3e416831c8997ea898462b88ff0c7ea9b434bc2b0dcb43258",
+      "after_sha256": "016c970e0d31690b9048b5facf407328fb4aa69700453159358924162928de5c",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 3
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-cupido.md",
+      "before_sha256": "fe9316267d03f7c3425ae54e9f7893546b46fa32524ad3c9c8f383ee9110b131",
+      "after_sha256": "5804912d1833512588b5db313cf49a8a49c72c86a932aaea9603486d7e337c3d",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 4
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-hades.md",
+      "before_sha256": "8f768eaa7a492a13d91aa7042ab49b134aab9433f370063dd8b47d02727ea9c1",
+      "after_sha256": "a8634b487da02e0e9ddef00cb4515a705e1ce9768e00558b29a2be6d749fb97d",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 5
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-jupiter.md",
+      "before_sha256": "7b1accaf1be147081bad12f403656436b91accc7f4bfdbfd58e8c8d337caf76e",
+      "after_sha256": "a794967368c0ef79ffef83699882c34945a7799ae0b680608a17306da6c9cae9",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 6
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-kronos.md",
+      "before_sha256": "7f0c2dc68bd2e4ff14361ddb91622af5b69a256b61897c7a8c0f95399ddd34d6",
+      "after_sha256": "6fee2c2534b298234dacd15e34a5e30fe0896872e57a3b7e5c91eb28d2efb914",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 7
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-mars.md",
+      "before_sha256": "afc098e80eac1c3ab064b087238cefc93a9311a93662bbdc6c403137cc5acce6",
+      "after_sha256": "542495c80229f3f9fa5dfce9711df264a9d1c1974978a89d5d0bf7a8850df3ec",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 8
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-mc.md",
+      "before_sha256": "a6465c06ff9629c664bf8eb4f910084b42e4f4cee92ed6d7c2d19c29dab69fe5",
+      "after_sha256": "381b81ed376a7b7e569e41e1fef03a6455098a00a3a10b06d1c6f262ff7ab8f0",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 9
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-mercury.md",
+      "before_sha256": "c9d776e3f6e6673d72f1b40c5b4d7e08f99fcdda4d49f9a5a770998e637428d5",
+      "after_sha256": "2ce75cb849a65966b377370401e82e53d08675f0c7b9274dde7e8354200bad42",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 10
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-moon.md",
+      "before_sha256": "e306cc9b491c06260dff1e871a0c7cdfc0d4fba04087bdce10f6c9f4470ad4eb",
+      "after_sha256": "0f0a2a8077bf8e7a91cebee285804a6c92f0e226d59a639ab54cc23ff42b9c08",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 11
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-neptune.md",
+      "before_sha256": "205a150cd6ee9d4329a53b4e60b9daf8f912ed7d388a74faac1febbdcbc34c4e",
+      "after_sha256": "69d1054abe858af25ac6a26892a4144c83701af2e503dd8c960c6fc62c265a4d",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 12
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-node.md",
+      "before_sha256": "77558bf31de6b6388be98db39e5925461c9409e6635647aae49f2445493f4cbf",
+      "after_sha256": "d8cb324a3fb69aea4c338b7f4bfa50b835a52263b152d812a46fb1b620078161",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 13
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-pluto.md",
+      "before_sha256": "9125d3808b68626b5f20b66c745a31b694e24fe4cfa423505294d041a1f79d56",
+      "after_sha256": "8ade2a8ccce51802c6e706724b2cb393b0b2cad3e4da58efb529aaa1df98138c",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 14
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-poseidon.md",
+      "before_sha256": "b75f53df1e192b9cfaaa3afbcd5351b0f2ac841723b94cbe5fa72a7a7e6c49d2",
+      "after_sha256": "acb12cc96c67311978023ab95879afc410cff41ce726f652de2fed7f6b57b260",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 15
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-sun.md",
+      "before_sha256": "eecd3798efc846a1d321d32e1f648ed8d67c728a14bc8fbedb410b8962127728",
+      "after_sha256": "335b8dcfa09f1666ca4a0e11c27d223358b0e2f95d733a4d921304d3eab204f9",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 16
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-uranus.md",
+      "before_sha256": "d527835bcc843a5ab58a70fd4cc8b0b761fbcfedf3b90f8cea348e5b60ecb866",
+      "after_sha256": "ec2f98cc71ea19b61c8fa702f3e18d5cf04b8fe26607ed23111546a2c67a5e9e",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 17
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-vulcanus.md",
+      "before_sha256": "a8802671934af8d78a7156baab931b977c32881f34945223cb1ce07e3da1f709",
+      "after_sha256": "67dec46c76d0c6ea9a5d34b27d09c93827f779474244fbdc11d2105a90ba07f3",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 20
+    },
+    {
+      "path": "wiki/activations/saturn-admetos-equals-zeus.md",
+      "before_sha256": "f33d053ea370ba4b2401e2e00887ea9c920bc7fc75f1a3658c35f60a0bd95b20",
+      "after_sha256": "0ae45f8af8e5f7313c585994b4438c53f289e87b13b01cb3d0f704a6409d26e1",
+      "ledger": "activations-064.jsonl",
+      "ledger_line": 21
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-kronos.md",
+      "before_sha256": "5043e878d9700bc44fbae43b32d09b06e5c768220ac30114cc97bb6cd1d594ef",
+      "after_sha256": "55a3241819a95f08656c6b1b2cfefab1ea5260d81be38e458587681d683a32a0",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 2
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-mars.md",
+      "before_sha256": "a103dfe32a346b1fe833d808437084283b33211e318009c69335795de5be3ede",
+      "after_sha256": "59c3ad3d1ad83f5de14d2cdc49077f479197c5d8c89bf8a890b7f6bf1bacee42",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 3
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-mc.md",
+      "before_sha256": "2928be7c7d568f969f9506ecf8cdc5694108e9de3a4d7c6e4470a78d9d797434",
+      "after_sha256": "6149825dbd2b3837b48d1c1bfc14f57fc92a489aa88394e7f319e8a2a0675620",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 4
+    },
+    {
+      "path": "wiki/activations/saturn-neptune-equals-mercury.md",
+      "before_sha256": "952b96065fa72a4128a5f668dfd98be099fab81b520babbc389cbcb35259998d",
+      "after_sha256": "88578e649130a22d8622a87aab8e6e1c8387f7311ab016b9c4739e0b12f5dc7c",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 5
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-kronos.md",
+      "before_sha256": "8c3fb69415cd827fc5f3dd194d3214fd077da6b1cd4c1b46d5bdb17578f3fda6",
+      "after_sha256": "62f21b784885475461435bf1585368e01cfcd9d4084f37b0822280dfad3c8562",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 25
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-mars.md",
+      "before_sha256": "fb922125f3ca18a9981765ccae1abfc4dc735cdceef47f200d25bb1b3bfea04e",
+      "after_sha256": "ebfd332fd75e18fddae6cef2f64b4c2805c406cd4760d822550c811174b5be54",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 26
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-mc.md",
+      "before_sha256": "46e5c2d4366fe796fb17ff4d6546dfcdeeaff5d825d4d7784bc17698e30aab69",
+      "after_sha256": "0c2b833f2a3a3e080bd4320a593b61dd0baf0e6081c89cf84d468f6db16b6ebe",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 27
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-mercury.md",
+      "before_sha256": "f85e3adbc8e7426066554f6804f6c4308185b71f0645045b6c50f61e03dd25b9",
+      "after_sha256": "3ab474262e39024f499ecd9e9bf75aa223a271d670b6294433ec8c370d71ffb1",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 28
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-moon.md",
+      "before_sha256": "c1e12c90e47380e08dcbd0de3add0200b21c4f40cb015cc3305b453bbeba6745",
+      "after_sha256": "ad0cf1d14699f9666a9482c9fbded47f433dc3d6b6291cd67c4686c6aad56664",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 29
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-neptune.md",
+      "before_sha256": "bbd1a8006337199b26df20436aa775d682c27981d57874f9b1f07aae0cd1dfa6",
+      "after_sha256": "fb5b855ea0c16ba8f42fdfa332e237dcdb905a15d33d8e448df392826b7b3089",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 30
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-pluto.md",
+      "before_sha256": "b1600a5ea516868b5bbb92b04eebec0a97ecc6fe9b5f38134ae6972c70fe373c",
+      "after_sha256": "59c1925c68b8e6ad64a5674ef810dc58d67560bc30c9376ace1f92014675cc46",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 33
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-poseidon.md",
+      "before_sha256": "e87cef92f795d59295fff77fcc9d75db82d164356b06ddf7c3f3dbf2ddfdd6ad",
+      "after_sha256": "1916c7c11c577daf27ea9a09b012c545666e0f6f36ea4f00a91f2902fb6d4567",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 34
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-sun.md",
+      "before_sha256": "ae0b1994621ea125db0825c8410a38824497d496f21344c4825af2c8703624e2",
+      "after_sha256": "f5f2699674a6306bbf74da734a10d6a81d422a33f6bcce7d8880f1b746366641",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 35
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-uranus.md",
+      "before_sha256": "ab36d337b2a35eed3706075d897cfb84041ec61adbf6728e800fec6c0425f40d",
+      "after_sha256": "4215f67e8cc252e48a82385f57d45179708c643129d9921d352cde675e7fdb48",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 36
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-venus.md",
+      "before_sha256": "d2db837a69b8240c1ce0d99215c5722f0130af50daecefb84be64dc05abb00a9",
+      "after_sha256": "c0531aee96cfc8a963f9f24e31736dce3b2b75f228b1af696b319f641d261852",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 37
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-vernal-point.md",
+      "before_sha256": "6f4034e1e029a48a2602968a64b861da94cbcf4d37d29809255034d880e1c5cc",
+      "after_sha256": "abbaf5a0ed4dd099941f564d889c3b90c55596ef476013e247a70549508fa28a",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 38
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-vulcanus.md",
+      "before_sha256": "c9e7b4a56624bfe1f6900970ffbfbf50433dcc392893b0ebb9fdfe2937a92c5f",
+      "after_sha256": "3dbb6975470c418539292b7df86bb8c36632389407777d1e7bdcbae83b9970af",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 39
+    },
+    {
+      "path": "wiki/activations/saturn-node-equals-zeus.md",
+      "before_sha256": "41fcafd2b4cafda0236e13555f33e0a42493604398d9455c9373239ec922e7dc",
+      "after_sha256": "8ca96a787d9acc83facb568fd60871636c6ed05d9fb04fa00a529a954f9e2fa3",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 40
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-admetos.md",
+      "before_sha256": "97efc183b135f2183e58344fff102f8f760e1354396e87290429984a2f1d9e93",
+      "after_sha256": "a490a3a9b9663cb45d9ecbefeab29e92474adb88a14317a999c31664d8b131d8",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 41
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-apollon.md",
+      "before_sha256": "8921c3ab52e28028281cc21c2f308867c2efeb025dabc94cd61e6191a0672557",
+      "after_sha256": "42945b73433560e89785fd7f7b7f180570dea74b2673733576c9482318fa1e63",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 42
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-asc.md",
+      "before_sha256": "08316f7f1b941655a1541bf1f00c783c60b9f2dd45160a2f72a8c94365270687",
+      "after_sha256": "3db43d98cdb8907494fa57bcd9da486a67c5a1897cb4de792773d34e0a6a1f6e",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 43
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-chiron.md",
+      "before_sha256": "bf2baca30881c0af1c9a08b54d2ccd345311387dde3c30174d5ce8c7fd5ef7ef",
+      "after_sha256": "c19f42e7ab719aa5c1b70d73f845e42c74196f6ceff8ce089370ce062ac0ec16",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 44
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-cupido.md",
+      "before_sha256": "43b642de034472fae35c468bda88ca73e3865c63860fdf47dff13de98c390bf8",
+      "after_sha256": "4ccecb091e4dc885d06bf3ae60f2d8c5188bae924aa3f838a924a505de6f5479",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 45
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-hades.md",
+      "before_sha256": "9dfe8ddbc7b80b6219d94bec019e1eaccecb7003c2d42d978e2bc2d062a502b7",
+      "after_sha256": "432f15e15dd91b065be51a289b705a0e14bef414e2ed026d25f2a0f1cd4441df",
+      "ledger": "activations-067.jsonl",
+      "ledger_line": 46
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-jupiter.md",
+      "before_sha256": "d22f8b2510bc93932c0b0eac6cc68857668b6b27ee9b8045c651b2241e8b41b8",
+      "after_sha256": "edf46015aec9f8229fd4e0ed4fa0d6e18ed8a52269fb1f57f3467b329b4201dd",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 1
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-kronos.md",
+      "before_sha256": "367b4fb6e835bd843b00d898e2a28b5e5b2c8caef57761999292be589d849e4c",
+      "after_sha256": "b973c011fa2558a712d70c1ff6be187349da19c3000e6cbdbbabe7d82f104895",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 2
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-mars.md",
+      "before_sha256": "11879cf0e15dda10a637e934e737bcffc02f47b7c58ca60a3689d29ddc080005",
+      "after_sha256": "62f7df18f5e3b3827527b5f055eaa36067df08f57646ddc0e371007e41d0dc69",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 3
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-mc.md",
+      "before_sha256": "cde9764c6ad1d263a146d570e29d1a17d23157bfec3c7fc7ba0e6004d8b4d9a6",
+      "after_sha256": "4428cf1e2f133128410c0b57decd5bf6d30d3f9612c96f24928c2cfacd648295",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 4
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-mercury.md",
+      "before_sha256": "f97b51fb5ca2bf88eb69b1d436f8ac87019ad6f1447387ec657dcaa99ebba1ac",
+      "after_sha256": "e185953bd6193154be07047a9fe3b182cfb3f67322260d815bff9a62594ac8e2",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 5
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-moon.md",
+      "before_sha256": "5e29c8ebd8173fea07be1ec1b44463f6587c5bd13506ca48098e4151573f1e79",
+      "after_sha256": "1dcaf0b1126ae2ebef0aa3bf183144ac411a424399eac9a06f4db3a0901065ad",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 6
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-neptune.md",
+      "before_sha256": "a81c920290a4179ab284a9bcf36ab5a39d1a6c896883a386c1a9ba3cd87a708a",
+      "after_sha256": "f2c1d990cd79408dc8e7e28b8225a5b63ee9fa01ea26b195f1f6632db9425cff",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 7
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-node.md",
+      "before_sha256": "cf1f47f933336cbbb4f1e4d0cdf9e5499d8be491a1ca9f0b9dd1e01c5060a1bb",
+      "after_sha256": "947fe16964859fbbc18dd0f5a8d05ee20b56f06b60eb3c0b37f4e435cc7b0c8f",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 8
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-poseidon.md",
+      "before_sha256": "771b1b5d74865d0e995129c5f499fe090e882d69afd39db6b19561b724aa37c0",
+      "after_sha256": "7b53b5a488a198d811987117cd3fe40bd53bda72383392ea0f781ee0c05f79cb",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 10
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-sun.md",
+      "before_sha256": "be727dc082eaf908e795a25d174dc2461d4410b6a8005fe5707ee2cc3fd63133",
+      "after_sha256": "9652a4874aa2c2bdf4db941864c541688e613d46c91ec995f4e374e995e99ec2",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 12
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-uranus.md",
+      "before_sha256": "e5791459410e994955d56d4e637f18ca43b6f85e388ce5ae2bc4e164656b40ef",
+      "after_sha256": "c710834809fd7a600a0304bd7bd5b83cd55f0a559a9ba1ee43884fb4037cf10d",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 13
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-venus.md",
+      "before_sha256": "a38c8e4fe5c7bb908611799a646e1e107ec1d80d4f5387b4538e680099a05e39",
+      "after_sha256": "5c79e81b1e55665fe702ee991848bdc2e824fa0ea0e477eb8d6806a8bbfeaf97",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 14
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-vernal-point.md",
+      "before_sha256": "57b3ba66412eeb14e733068f75dc9ab1458a3d93fe05b131a7894d615c47aea9",
+      "after_sha256": "61dbe8d93a8a22ec24ca9a061545ca728f931d293be307639787a94e63fc13dd",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 15
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-vulcanus.md",
+      "before_sha256": "9b890d0835840bf7b24993300dbe42fe6aea425ecc2bfbb6cd527e0c30b91883",
+      "after_sha256": "c0a5e1cdedee4aca723692c83a1fc58e38a047a3b98f9e7b643f898c765f58b5",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 16
+    },
+    {
+      "path": "wiki/activations/saturn-pluto-equals-zeus.md",
+      "before_sha256": "2bcde94fd41787fdd7654d52d65e8c761fb4353fc41cb83d5aed36ff9dd1b81b",
+      "after_sha256": "6f542f4482759bc8344e2f75a96df5219cf1183a367636acc17c7e920cec0b4f",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 17
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-admetos.md",
+      "before_sha256": "92b0348403fecc0810412782571a9548473999c850b3aaed2bf38159c63fe7ec",
+      "after_sha256": "f651ea71afc3455fbf197a8973c505b2cb0a5a5b3da036d2870c3dffe02e78f1",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 18
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-apollon.md",
+      "before_sha256": "08b2a57297f32b1c1c56750e8be7bc6589fb2513a26524278ba23e96ad698b4e",
+      "after_sha256": "45a46fd4635eb448b0feb01fe80a53729817a0fa2fb4ee7c7fb5f2e4ec67ccd2",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 19
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-asc.md",
+      "before_sha256": "726d2ca12000b0722cddfe9496e4ce198446387dca78782ea03fe940798ecd1d",
+      "after_sha256": "2615055ef95d05a92724fd118e92f7ec1def82f27b530b124d3a3472c021e60a",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 20
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-cupido.md",
+      "before_sha256": "77f8584279f13822609da33be9adaee92b5b6e26914eddf9797130ba7bccfe0a",
+      "after_sha256": "4c12baf281d7322f6c5781edd4ddc7a26374776fa50743ab177e7e0e265913c7",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 21
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-hades.md",
+      "before_sha256": "984422bfd4524c39841e8dc4204eebdd95d43cb8bafbce3b4a583c5813384b27",
+      "after_sha256": "521be1a0d9ed3d2d6d17937d37a14da3090a829392b15412a731623dfe3f1a99",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 22
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-jupiter.md",
+      "before_sha256": "756127e02dce16d28f8178b468aa5e7e54969b7e7067a74035e12f1f5489472d",
+      "after_sha256": "f8df5ae411e322397af6d54f81be51f4681c3a132b11137fd84fd3f7a3c34b17",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 23
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-kronos.md",
+      "before_sha256": "4d506fb02006a0881ec2d1611536976290ad5ffeb8fb4a7fd972b3b92ade0f48",
+      "after_sha256": "cba2616360e45fbba2302ac9a669c3d95743584591d53400159a7754fe9739c6",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 24
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-mars.md",
+      "before_sha256": "0ed3fff56af53c7155e160506dfde325c1afccde3cb6727bc06435c3bbaaac81",
+      "after_sha256": "8362e6f339ef9fb7d38a4ededff8705e05c46095a6aed6e0456628d88a3f2cb3",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 25
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-mc.md",
+      "before_sha256": "32a03fd44e586580e3634e719e73a261974374f51dc210c7b27438ca06d64bea",
+      "after_sha256": "d74b1484b7f6406b06adc73af313090fba4b8b2e6e3a9904d95ea32608695d4c",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 26
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-mercury.md",
+      "before_sha256": "4495feb5f36528ed0e2d1526ebd74db28849e90066dc4bb0908a8feec9f8d284",
+      "after_sha256": "b82fe736dc6cb68a78ab5074e44477206729b149b50cacfce20dcf0791ad5663",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 27
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-moon.md",
+      "before_sha256": "b1566a80b6525502237eafabbea43f2aab9aaaea463199fe8d598cbe7c1524b9",
+      "after_sha256": "672946d781b8ee7d3e1f946bef4e3864281a81b86e0e7758b79db436f3c073cd",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 28
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-neptune.md",
+      "before_sha256": "b25866a8053e83e940fdfa2e6cacf9b9ed190a3d89abf27fb1f91ed5bd3923b3",
+      "after_sha256": "e01993bb2e75ebff89c95b140d49af4f55b0c4ee89eb92c7046ba434f64469f1",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 29
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-node.md",
+      "before_sha256": "830e5afd16467742863843467e645c1cfcfc277f8d0d913a227d28cb2d0353ff",
+      "after_sha256": "bd58fbda53b13b9b09c8ae1aa287b62b744cb0fa1247547624b41f7be33e487b",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 30
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-pluto.md",
+      "before_sha256": "4ba3dcdb20bd551f360f60e49e60a97be8f8156d0886deb29169a182962f8b54",
+      "after_sha256": "b8d161d1386f3d916797e5760b905f4225bd3ba87a9b892fc921947b557d44cf",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 31
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-sun.md",
+      "before_sha256": "22558709dd5b528313a34b9a5288baf1827196d1963d89a4ed4cf26059e15d4f",
+      "after_sha256": "9553d88e64da170e3daa7f92d2ceecd245a5652fc6d3ef17800aa78db0cba525",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 32
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-uranus.md",
+      "before_sha256": "5aa1aec34934e699d3627f80165eeae55637889b8606b7b92341820e38545387",
+      "after_sha256": "f47209cfcb9f54f856bc3dfe65397f054e2dd110dc1b7e0eb3d9d2585e8c201a",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 33
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-venus.md",
+      "before_sha256": "b334cfe4a02a5c2ac3eb0e5a5584f50a6b8aca54841634416d4d614a26ee47d3",
+      "after_sha256": "908f02ad8bffb944e28271e955dd6e13422e7ea4f60a31b1624c04a2324fd481",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 34
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-vernal-point.md",
+      "before_sha256": "d9c32ba43d3530039034f0779cd171a1e91a8823358e9071215bb93ec5d360f3",
+      "after_sha256": "d139d366366a9dc268ded4d440d898f33254a5064f3dc171a09f55fab51edc53",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 35
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-vulcanus.md",
+      "before_sha256": "5e8cf33e2bc48fc1a71727f5e68aad1f598cd82f68f19de761cf0ed467f9116a",
+      "after_sha256": "b0f508f44dfe2c577524248b70f7b1ffc74a906dfa4ebdaadeef95ca64f0e561",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 36
+    },
+    {
+      "path": "wiki/activations/saturn-poseidon-equals-zeus.md",
+      "before_sha256": "5ae410a74402b2562ba73efbf1692ac7f7e0bba5d7f23f0d7bcecde67d4bb771",
+      "after_sha256": "9733473bf9d833767ed8a2dc5458f4f640ae7585596803d4608d4e204eb52cdf",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 37
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-admetos.md",
+      "before_sha256": "0fc794f75e5ca26a76f7d502381486a74a32d98b82f3094d42d6b914accfa618",
+      "after_sha256": "b4ffcae0eb2eca93ec2d330d272c4cb651625bca9532fa1bfd64932ea5872ed2",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 38
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-apollon.md",
+      "before_sha256": "47a4c31e9c0924b0a00aeeefe990b558dd8785c35323a025cad188bdb33447e4",
+      "after_sha256": "29e1a997d5937e08b78377e608286fd6ed345cd89f62078f3189d8ca6844ec02",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 39
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-asc.md",
+      "before_sha256": "9c798631c76eff78e41dc217024304e136a7e553c293f362444751d4ccd2adf3",
+      "after_sha256": "94cc35c4ae1a0fd1726e0e2891e9687348b8ffff2ec9dbd2a5451b42e393e5bf",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 40
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-cupido.md",
+      "before_sha256": "1a74c2fbda07510fb82b4918c312a51551b7c75323203888ec6d63f14b1838dd",
+      "after_sha256": "c26dfca50cecb7697ddffed62a4692b53cbacf55f42180d78cbf25410d26775d",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 41
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-hades.md",
+      "before_sha256": "7badbbe12dd4156fcd18d85e450c4f86cda174465c48cbddabed50f819d088b8",
+      "after_sha256": "86a923497b0103e88036ce13ce7df7eb821ac9dfc5e0a8db1525383afc1e4966",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 42
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-jupiter.md",
+      "before_sha256": "165ee46b49c678c7b232c3115d75d5d5df79fa982d1e9fd6a89af570cfc3dbe7",
+      "after_sha256": "129f3e8912c6c282d9af15e2b7d07aac6fdc4fde4bfb2f08eddf64e55cc8c51b",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 43
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-kronos.md",
+      "before_sha256": "e0af60fce70895eb722849ba98c452f223437ff50a5ee467da2ef54459f10000",
+      "after_sha256": "d0eca4d5c095e42c4176ddf7958170c212320594f3c9554814cbe970f84a96b5",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 44
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-mars.md",
+      "before_sha256": "c3d64c0b1ab57896392f0ffed3cd7e03e0260eb08b2066138f20eac2665adc44",
+      "after_sha256": "70408693eebff1b120d52a05a94b6f25ea59e698ccb433c7f3b44528275b8128",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 45
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-mc.md",
+      "before_sha256": "a1aca266c603e15f7f000034f552eb75cdef55c09907e4c07fc1c5385b650aba",
+      "after_sha256": "eaf9e105b8fdfc43e0c61dad2f6c885e9934f7f56d9b0cfd1bb505fafc8762a3",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 46
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-mercury.md",
+      "before_sha256": "b727a10af27ee96766cd1ecfec275e9040952edefdf6e957965859c195393718",
+      "after_sha256": "1c582e9d583b2fe5f754fba492db3141fe53dcc35d866230f97ec20cb97d33f8",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 47
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-moon.md",
+      "before_sha256": "c79831c2d3be255a4e7dbdb662075e359e3a4e68355eb33409df5324b102bc69",
+      "after_sha256": "56d25b76d2f79410cf76210436583e6499285c88c00d1e58c1107fea8f71f56b",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 48
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-neptune.md",
+      "before_sha256": "95a67495e1cbd7965b664285f93ccc07e95ed1bb29292db36506cc66520db332",
+      "after_sha256": "ecf1a54011f38b887504e47c223b494604e9538f5ac87ef5621dd54b0fd54447",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 49
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-node.md",
+      "before_sha256": "f0c31b63ad4ad545d7a695a49b8c55b44c92d23f496c27d815f7eff835295fdd",
+      "after_sha256": "6a9d2cef25f15e8ec1b7ba0c8abb7301b0a487360e0c47d1a3817fcbbf270830",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 50
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-pluto.md",
+      "before_sha256": "470399985335c55bdb15266d610d58648f7b1232d45b7de64d26237999c73910",
+      "after_sha256": "2ba63f50ce43bf0b6f8d8f2bad9d8c0c2f3877250c7e5201f3d39af1d7a2a0b4",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 51
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-poseidon.md",
+      "before_sha256": "56a5cde0e71325b43156f0220677152583da1168a4c76076aef6cc1ba80f1256",
+      "after_sha256": "577df140cbcd62a2279588f3f626636f50a8a06af8b2e1ea33087ed726ab0af4",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 52
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-sun.md",
+      "before_sha256": "3a2b602adb28df3c6868ecda91ef7b0c55815cb84d35ae2bace861e1414e0b50",
+      "after_sha256": "e3d31d65f6e6a2366a2ff111891b6b0af46fb5cf1d6e3dd459c03d92bb3a6475",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 53
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-uranus.md",
+      "before_sha256": "b0a79ed2c5539544e46abd0c1364d08b9af430a7b672842465ad9b78d18cd711",
+      "after_sha256": "c29f6b7b25ea9e1f1bc704b5b3e8a3b503292c9bfec12867a0d95758ecf020a6",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 54
+    },
+    {
+      "path": "wiki/activations/saturn-saturn-equals-venus.md",
+      "before_sha256": "e14505dbcd629537c4036a6cd4d771fa77bd4bd0304cb81779df235ecd60ea30",
+      "after_sha256": "54b9c531f76f4f7d49acd9ad2fa43d75de57a0e74f37037530fbb693faf8db13",
+      "ledger": "activations-068.jsonl",
+      "ledger_line": 55
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-admetos.md",
+      "before_sha256": "6236f601eb72a464ea3f03c457ad17a3421d4fc5a8eab880e1e229f46ac5b335",
+      "after_sha256": "b95a8f80ea175c8a84a118175443cf6f55692362cc61891043b645ed51ecdf0a",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 4
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-apollon.md",
+      "before_sha256": "8097b8b1567f89b3319ad30d7080c8b0a76770fce5c8d9667ec0cae365c77b7f",
+      "after_sha256": "cda713f17de20aedc79005109a1bf8bf7681a1d8b0537a16b504b5fb3317af5c",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 5
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-asc.md",
+      "before_sha256": "0d3a7412933937c12626c019b6b71281bef585e82f23d8b7f870ccd6c20a9679",
+      "after_sha256": "45c8536316c2dc9841b59bc9a5df8b63376384f21d7054c0795916373b1c411f",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 6
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-cupido.md",
+      "before_sha256": "a81b4eec02d21ba59e2fd24c4350769b2f478dba09475563934ea5976798c954",
+      "after_sha256": "2d7f6aa2bce6079f6306b087892797bba4058881f43e09c2d956c0ae867d9eb0",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 8
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-hades.md",
+      "before_sha256": "89b1837fd55d5f6a934c01afb2168e4b5018242fc302008a571f45fa0af50311",
+      "after_sha256": "37f1112ba631672be1e0840398d8e2e792f2f34d15e0c6eec0881d5276dcb0f9",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 9
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-jupiter.md",
+      "before_sha256": "3794d6c7592a66e58e50a7ad497df3cd81718edb5f104cae60f1167660fc6773",
+      "after_sha256": "83b25f2b282db9d954f402ee43323b8d50615ea02b132905e013c67502e3a418",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 10
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-kronos.md",
+      "before_sha256": "6597c9357d0a9c2e73cb4a2d4134d7bf8f5ce2015635af99241606eb19ca1079",
+      "after_sha256": "c0d3d0f8d33651bf80b9cf486ce29bc26a06c7ba39da57d7e67ca2b6aa7e4383",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 11
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-mars.md",
+      "before_sha256": "91f7986e70ab41f403ebec9321892ac60c7d3dbadc3e09335c52db92cffe68ac",
+      "after_sha256": "74bc450fc0d9296e9133286d9b1cf40ad410b49d754763d1d45a07f5822b8e63",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 12
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-mc.md",
+      "before_sha256": "cb46f984ca0a97f3eda7846fb95ad8a0b920cfc60bb7e06c0219b919f6e89aee",
+      "after_sha256": "8774b74eb34418bf9c8337cd74ab61166a89e39bbdc4785959467ae6168b44cf",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 13
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-mercury.md",
+      "before_sha256": "a86bf3c7276ac98b21215d16c7b99a8a9ba54c3b3d18b570957626cea2ab5f0b",
+      "after_sha256": "8a01e32f4ef729f1635820d8b358b7858664d3c9f41c5dc9418b149e0e4969e0",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 14
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-moon.md",
+      "before_sha256": "1cdc3aa13b33a31c367a4d6ba124574322fc3416130e458428a1757115a89d08",
+      "after_sha256": "992a74165570827c63a970377c3cf538a7ba89d2c549d56f8a1d0bd6ffa069bd",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 15
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-neptune.md",
+      "before_sha256": "12199ab86ef2c5bb006dc4fc060258c266105e62aa09e891b74fcb6aa44583b6",
+      "after_sha256": "32d9df4f437974e52f9f5ca294eee055311564e350b3ce793ca867dd62f28954",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 16
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-pluto.md",
+      "before_sha256": "e5ac13fa3703654e43a44e813ab8cc3cf7001ca5b2437e6d5902414366f1c29e",
+      "after_sha256": "9566f77a2a85e0610180cf0b810b1926f8fc43811fd52947f87b2cd0dd8d55fd",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 18
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-sun.md",
+      "before_sha256": "eb284e14abd1dd626dc3a2750e79111c72b41bf14979f3b9eac38c98e7c579a5",
+      "after_sha256": "09cef30990518185c06d5508ee831afed225f3ed08b54821ab3f4bc845552652",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 21
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-venus.md",
+      "before_sha256": "abd89892d31d2eef44135f0b6f6b332adcd44af62d54ee7391a395725d8b5197",
+      "after_sha256": "30d6e44ec71cfa111a70cfe0c8eba5ef5c862fe03227bfb108a99a5f0ee7df10",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 23
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-vernal-point.md",
+      "before_sha256": "dbb9764c400fe5694f653c678bcfabeda43b3b6f8bdc8b42a6bb52eb0313e197",
+      "after_sha256": "f0d01be3172f2d38b83965e4a88da85213a2d0b96439d7b51515667ba4ec89b0",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 24
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-vulcanus.md",
+      "before_sha256": "e5487e35e0181bb7b70ec437f2d351f4d2b681ffb47f07c9c08df9d549f1343e",
+      "after_sha256": "478ddfa4bd3265eab15409fba86daa6fd9d2196f23c4c8b0ca29938966d902f8",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 25
+    },
+    {
+      "path": "wiki/activations/saturn-uranus-equals-zeus.md",
+      "before_sha256": "9b5662f0274f17e9e570e287dd0a9f57457e39dd59debff9a862e427ff9d87a0",
+      "after_sha256": "14691b68ce922fe3b6ed1c44fbf7cce15e0c37a0149faee00affb24bacee90eb",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 26
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-admetos.md",
+      "before_sha256": "3be5e2f8b42ba59fe0151ee76956f6ce6d4bcbb22a56a5dcc918f5da484bb856",
+      "after_sha256": "6379fe113c863af5fbcd9cf00ac575ea59dd396173e5a94aa372ff17c31f5694",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 27
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-asc.md",
+      "before_sha256": "96e16d262488f5614dffbcd5042a35cb0d1fc56ecd51f49cd9f5f951bb788849",
+      "after_sha256": "855c6f45de6d078abad66f603b1186071839749b844787102bc51ed74b96bf18",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 29
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-hades.md",
+      "before_sha256": "ee69394f67b4ddae01ed25d3d7ea6e179d037edcf60f97ac418c7b1c46a07561",
+      "after_sha256": "1b0a338d8d721bb673a122eae08d8dba30943c0434ed6fd67a57c9e324f66069",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 31
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-jupiter.md",
+      "before_sha256": "b3a199b0ac26112e2a53a7fbd1cc27b4397a6d528a978ca369cda8bbe76d191c",
+      "after_sha256": "fda035a16543f9937cf2f26cb980d6237b430b38bc29e9f79077940cfa0493a4",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 32
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-kronos.md",
+      "before_sha256": "5fd8250830096d6645b2143ccf596535993378085c799c037fe210e1788a6a41",
+      "after_sha256": "e461760bf3ac89a771e9df208ad2bc3d10eb7ee05a9fc4ad0324fe6240c5b4f3",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 33
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-mars.md",
+      "before_sha256": "82828a968c944613800fa9037e05b7634e204e9724ff4474a3101466ae406ef0",
+      "after_sha256": "29af24098b8258265309600cf8673b80dd659c01804d08effdf5906367423e0b",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 34
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-mc.md",
+      "before_sha256": "a48ccf7b96531da930b09cf965b283d53058370bad22839d81988f41f82869c1",
+      "after_sha256": "c7926c9cce9b4c888b4af0a1c80ba14fe8b56304c9a508bc98193f60ed54b9df",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 35
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-mercury.md",
+      "before_sha256": "0da4bcc57924d164581d741eba2295cd08b4d357071cca58ec15f45e07f4944b",
+      "after_sha256": "3b0b3c9fdbdc8a34907d8e79110b6f3c4f0038839d24f1d965a56ddbcb751067",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 36
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-moon.md",
+      "before_sha256": "ada6eb01b1ee1dacee03e73a8d58a07f06ea0ee36a67918138a1a119e89fb848",
+      "after_sha256": "6a7905fddd214a825d6dafbb002e6b8e84a7302486b4ac7dd3a2b1c52d180135",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 37
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-neptune.md",
+      "before_sha256": "affaa5a9db8e553ab300aef17e863775970fdcef04ce1e25187176cbc6b79c85",
+      "after_sha256": "c380a715f8d1c683cea857b25133e5edc1ebfbafae68c9803ccd69a9087b14c0",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 38
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-pluto.md",
+      "before_sha256": "acda25799b2b73ecf966515e4317a20c104615dd14f063a1e4dbf1b66c0e9455",
+      "after_sha256": "638dea8c5e9278bca67442a9f1fad74406e119bbf699e1c515d378193128d3c9",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 40
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-poseidon.md",
+      "before_sha256": "09b62c48f2d98e817cb8fde28d63fae6993a8d797a675a1d3d1fd2a2c1242c07",
+      "after_sha256": "04722c86c287d2e965a8aa872270dbd7e018b3d48c092b6bde6fa280ec142e0c",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 41
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-sun.md",
+      "before_sha256": "a82ce4ddc03c0058d7620bfd07826e384bdd86bce297bded84075079130753c5",
+      "after_sha256": "dd1595aaf23b9480b6b64d1af2e2cc88ba31c15d81afd7b48303ff6aaf614a15",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 42
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-uranus.md",
+      "before_sha256": "ec854a31713ca475154f7c1259c06c8bb08f96bd9547e9cefb6135b4e599c93d",
+      "after_sha256": "16b1c6c24da8cbeb2c154cfb07b4288d1a2ccbe91029cef154226ce46508d131",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 43
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-venus.md",
+      "before_sha256": "a0ffe3bb14fa6451e2085f97590ea57c3bb45a56e9b847f53c00fedefec031c3",
+      "after_sha256": "78acf916ae7c84315257613c1d8ca2f2b20814aae7afd6ee4c7b25bfc85b221c",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 44
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-vernal-point.md",
+      "before_sha256": "cd27d89928746e5cc25be4afa8d0cb97da27868deacc932881904becce7d0404",
+      "after_sha256": "5262f63049c47345d78b22810b458fd34eb826a0f4aa0bd77cb1bc946dfd38d2",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 45
+    },
+    {
+      "path": "wiki/activations/saturn-vulcanus-equals-zeus.md",
+      "before_sha256": "3dd55fe3702c6a1907b023dbe6776f568124441744a645a1ffdd94f348294f3d",
+      "after_sha256": "f5a66fab4362b744a2c2160107797d630976c8320a56739df1023223edf8f964",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 46
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-admetos.md",
+      "before_sha256": "f9c12e1ca44687cb34214d5bf4d5a3e812f59431bb08dfcb75873f8a4a4359d5",
+      "after_sha256": "d21dd9abf59402b52003142c8905efd5f9f810140b0db9521097c6bafe7afd66",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 47
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-apollon.md",
+      "before_sha256": "a6b765d6a8da83f76f0e8db78fe32306fb93c34c4419e6ade188ad06112325dd",
+      "after_sha256": "c4cf2803eea18b9cbe1f379eae7c028382e49cfb1fe48959fef3f88349f3077c",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 48
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-asc.md",
+      "before_sha256": "b4d6ed0f29ecdf952075b43f32e0873861fa0ec7f3c6fe5a1a9cb99c738fa09e",
+      "after_sha256": "51145d422bb21d1ae0bcaae547fffa3c8668f6f36b78f084e8848a61e92699aa",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 49
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-cupido.md",
+      "before_sha256": "b319dccf2b164bd5cc4a27e3d8c1ce059c365ff2094b66b3378f853896c48158",
+      "after_sha256": "b79a8db0d470b67c9e78943f7a9fd62fadd8bcac803ff8894c9ec80d77dbd6c8",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 50
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-hades.md",
+      "before_sha256": "81d9a2b8217cd2571403b81c9eb66d2a0d9689de16640d4bc1138b43991bd510",
+      "after_sha256": "2dd8e43caa7de7aaf8d88f5d815e0fd0a0a79e6267f5e0349f6649bbf197c832",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 51
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-jupiter.md",
+      "before_sha256": "a8d7c0150f94803fc7ff96a12e7d2f94d406a870f33e8d75c39c0397f25997ce",
+      "after_sha256": "298ee68831ee05b5063d47e287fa34747fc2bb952e7fd2220e692d471e2ff689",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 52
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-kronos.md",
+      "before_sha256": "d2a8bcfdf78fc44b5b92ca7fef8b8fb032eaffc968db92de8d91bb208c5ec473",
+      "after_sha256": "4a9b672c6d0afc854f103fb6e689e5cb23fe4d0d74f943e92c05db18386e05ac",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 53
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-mars.md",
+      "before_sha256": "42f379cfc40f24a9c6c7c163d476f94dea310fdc36773cb2ac9ffa8fea23e375",
+      "after_sha256": "97fd448fb9bbe465dc0c8a097f24f711e362137d363147b58a5014981f2a3992",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 54
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-mc.md",
+      "before_sha256": "02b1e54a3b01426c1b22e8e008d8ae9793df023d6a82d6ad9293b8b971a13f3e",
+      "after_sha256": "0186824eb6bdfe736238976a4749018f986edcf98a02b42e48480c2c73692ba1",
+      "ledger": "activations-069.jsonl",
+      "ledger_line": 55
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-mercury.md",
+      "before_sha256": "3d4185df5ceb51675811714c5db93d8262f64a298bd270f64ce36090bc48e6b9",
+      "after_sha256": "0dfb211037351d9d13858b2e07a2e39fe9383be7c328a90749ccc37effde5f23",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 1
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-moon.md",
+      "before_sha256": "02f5619e74d2c701bbcf14c4b1b83ac7a6de947f4506c87d98921080c93974d0",
+      "after_sha256": "4068896646675c849b6e66ad2dff0e0a586474ad600281217862f86199b992e5",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 2
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-neptune.md",
+      "before_sha256": "d11f4c4113cf25abbf12e805d620fc91b58881a693ebae615bf8e722fe8e98e4",
+      "after_sha256": "31dc9a5b11d2ec3472b62db929865b9da5ea586539bf5f0f2381c7b736830f21",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 3
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-node.md",
+      "before_sha256": "35b47671ffec85f7d47d72685c24a4b1115e68edd733e6a08f8379c493b0b00c",
+      "after_sha256": "b0025dc9fbb384d432d160e8d594092f195e5343de2f54f027bde658fc098dd4",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 4
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-pluto.md",
+      "before_sha256": "30b5da59088daee2341a8fd36ea7281d1984531cd3cb9ed9b784031a32657e59",
+      "after_sha256": "74685eca612baee7fd7b771f7523ab23fc3290b2b083e6b59920a36e8fc20402",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 5
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-poseidon.md",
+      "before_sha256": "e47f0b686c1fc5aa55f6f2d81640184e271c9e30b0f2a58dd394a73c25df8385",
+      "after_sha256": "7e0e4868434106bbdc79a5ecde73ac7fc11017efc1eb30dd4d8af4eba904f973",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 6
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-sun.md",
+      "before_sha256": "d32c4499cc333c4f977c73eb1d0d7ccd5d0326c8f456e167b8099a7f1f08a056",
+      "after_sha256": "d391617b2fd7e02367d78c05771e545be01c79a8090a8f671e826ce78eea554b",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 7
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-uranus.md",
+      "before_sha256": "c0c3f14ca3e7fa9945e3f15903f541a21d3deaa52ff1647b29224f5c61702ec9",
+      "after_sha256": "ccd80a9fc59b06cf8e8604adfe670149938fe209fd7e125fa689c2bfcd7f51e8",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 8
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-venus.md",
+      "before_sha256": "8ecfa54411e95feff4675b95f700077bd70125c30768d9afc2821bf40168818d",
+      "after_sha256": "55bd78aa8fda5eb500900505dacbb872a2bbf0ab2b520232cc628ab9d2d15a54",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 9
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-vernal-point.md",
+      "before_sha256": "633a9dec3ad6bf7ba1c4f0f6988b889772ede882289c685885f9c8a77f24f29a",
+      "after_sha256": "fac7483c0d6b6f29095d13ea0dc98652f62964e9eb61de29fc351e24ed168fac",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 10
+    },
+    {
+      "path": "wiki/activations/saturn-zeus-equals-vulcanus.md",
+      "before_sha256": "2681faa42b16ffd8cf19ffd38390a52586dd28514c0c0b8c593e2412749c76f3",
+      "after_sha256": "e1f79a3052603325623b9dd767ac6b7c69c278f4f0ee33c88fd80bd9d6141f39",
+      "ledger": "activations-070.jsonl",
+      "ledger_line": 11
+    }
+  ]
+}

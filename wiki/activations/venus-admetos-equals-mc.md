@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = MC`
 - Astronomicon formula: `Q/¦ = MC`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Reserved in demonstrating one’s feelings. Connected with few in faithful love and friendship. To like to meditate.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Harrnonianc Deepening into the inner being, my blocked harmony, I love Grundlichkcit, my deepening into the artificial, my artistic perseverance, my love is restricted, and preference for psychic submission
+- Source page: 292 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Harmonious deepening into the inner being, my blocked harmony, I love thoroughness, my immersion in art, my artistic endurance, my love is restricted, deep inner harmony, and a preference for inner suppression.
+
+## Comparative Schema
+
+- Core meaning: Reserved feeling and inward depth.
+- Psychology: Meditation, thoroughness, and inner harmony.
+- Body/health: No specific health claim.
+- Social/relationship: Faithful attachment to few people.
+- Events/manifestations: Artistic endurance and inward reflection.
+- Conflicts/notes: Inner harmony and inner suppression are both stated.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Inner harmony and inner suppression are both stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = MC` personalizes reserved feeling: affection is demonstrated sparingly, love and friendship are faithful but limited to few, and meditation or inwardness may be preferred.
-- Practical expression: restricted love, artistic perseverance, and a private deepening of harmony when the noisy ABC fragments are set aside.
+MC specifies Venus/Admetos through an inward, restrained way of feeling. Love and friendship can remain faithful while being shown sparingly, and meditation or sustained attention to art can deepen that inner life. ABC also names blocked harmony and inner suppression; privacy should not be equated automatically with peace. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

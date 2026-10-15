@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page `224`, complete bold pair summary under the exact pair heading.
 
 #### Pair Summary
 
@@ -78,7 +82,20 @@ Separations in community, marriage, family or partnership. Divorces. Losses of f
 
 #### ABC Pair Summary
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+Serious art, shared tasks, shared losses, shared pain, a disturbed community, a separated community, concentration on the whole, difficulties in the community, and maturing together.
+
+- Source locator: printed p. `354`; PDF page `176`, complete bold pair summary.
+- German source: `Ernste Kunst, gemeinsame Aufgaben, gemeinsame Verluste, gemeinsame Schmerzen, gestörte Gemeinschaft, getrennte Gemeinschaft, Konzentration auf das Ganze, Schwierigkeiten in der Gemeinschaft, zusammen reifen`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
+
+## Comparative Schema
+
+- core meaning: the endurance, consolidation, restriction, or separation of a family, partnership, firm, or community ([pair summary](#pair-summary)).
+- psychology: seriousness in collective life; the brief entry also names an unsocial tendency without developing its psychology.
+- body/health: ABC names shared pain, without establishing a bodily condition or medical cause.
+- social/relationship: lasting associations and common tasks coexist with marital, family, and partnership separations.
+- events/manifestations: divorce, firm losses, restrictions on associations, and serious art or losses in the art trade.
+- conflicts/notes: ABC's actual nine-clause summary concerns shared tasks, losses, pain, separation, community difficulties, concentration on the whole, and maturing together. The former economic-union translation has been replaced against the scan.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Community policy, economic and social cohesion, economic and monetary union, and
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on separations in community, marriage, family or partnership, divorces, losses of firms, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Cupido` concerns what happens to shared structures under the pressure of time, duty, restriction, or loss. The [pair summary](#pair-summary) includes old, lasting associations and a consolidated firm or community alongside divorce, separation, and restrictions on association. The range therefore includes bonds that endure through common tasks as well as bonds that break apart; neither outcome follows inevitably from the pair alone.
+
+Serious art and losses in the art trade are useful specific meanings within that collective theme. The restored [ABC entry](#abc-pair-summary) adds maturing together and concentration on the whole alongside shared pain and community difficulties. More specific outcomes belong to the separate activation formulas.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Jupiter`
 - Astronomicon formula: `R/Q = V`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 The happily loving woman. The cheerful mother.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Success of a gentle woman, GI tick of a loving woman, GI ticks and harmony gifts, joy and satisfaction of a woman, peace success of a people, money success of a woman, loveGlilck with the woman, right of a woman to love, and hour of happiness and harmony
+A beautiful woman's success, a loving woman's happiness, feelings of happiness and harmony, a woman's joy and satisfaction, a people's successes in peace, a woman's wishes for money, happiness in love with a woman, a woman's right to love, and an hour of happiness and harmony
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `117`, entry `0342`.
 
 #### Ebertin Entry
 
 A happy love life, an abundance of feeling, an affectionate and optimistic disposition. A wife's love reciprocated, happy motherhood. Success in art.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +80,23 @@ Luck and prosperity thru women who are refined or artistic; encouragement from w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: enthusiastic affection, generosity, and satisfaction in caring or sharing feelings.
+- psychology: optimism, abundant feeling, joy, and eagerness to nurture are named.
+- body/health: happy motherhood is an attributed source example, not evidence of fertility or health.
+- social/relationship: reciprocated love, encouragement, generous women, and promises of care are stated.
+- events/manifestations: success in art, peace successes, prosperity, and wishes for money are distinct examples.
+- conflicts/notes: Sandbach warns of doing too much in care; promised help and money wishes are not completed outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+The largely favorable entries are qualified by Sandbach's possibility of excessive care. Munkasey's promises and ABC's wishes also differ from an achieved benefit, even within the same favorable range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Jupiter` channels the tender, receptive love of the Moon/Venus axis through Jupiter, enlarging affection into generosity, emotional abundance, and supportive warmth. It points to comfort and love becoming expansive, hopeful, and nourishing on a broad scale.
-- Chart expression: hospitality, benevolence, and the emotional pleasure of giving, sharing, and creating a life that feels richly cared for. Main caution: indulgence, because tenderness and enjoyment can grow excessive or too easily assume that abundance will sustain itself.
+In Moon/Venus = Jupiter, Jupiter specifies the pair through enthusiastic love and generous care. [Ebertin](#ebertin-entry) names optimism, abundant feeling, reciprocated affection, and success in art; [Sandbach](#sandbach-entry) describes eagerness to share feelings and encourage openness, with a specific risk of overdoing care. [Witte](#witte-entry) retains the happily loving woman and cheerful mother.
+
+[ABC](#abc-entry) adds happiness, harmony, peace successes, and wishes for money (printed p. 178, PDF p. 88), while [Munkasey](#munkasey-entry) includes encouragement, generosity, and promises of help (p. 108). The common generosity does not make every wish or promise an accomplished result.
 
 ## Links
 

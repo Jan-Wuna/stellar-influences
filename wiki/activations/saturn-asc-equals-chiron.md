@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Chiron`
 - Astronomicon formula: `W/Asc = Chiron`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 94 (exact entry text checked; chapter begins on PDF page 94).
+
 Your very being helps others to identify more fully with their spiritual self, and to overcome feelings of personal inadequacy. You also help people to relate in a deeper more profound fashion.
+
+## Comparative Schema
+
+- Core meaning: One's presence helps others face inadequacy and relate more deeply.
+- Psychology: Support for identifying with a spiritual self and overcoming inadequacy.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: Helping other people form deeper, more profound relationships.
+- Events/manifestations: No separate external event or medical outcome is specified.
+- Conflicts/notes: The brief entry describes spiritual support and deeper relating without supplying a wider personality profile.
+
+## Contradictions
+
+The brief entry describes spiritual support and deeper relating without supplying a wider personality profile.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Chiron` uses the native's presence and way of relating to steady others through inadequacy, fear, or guardedness. It favors deep, serious contact that helps people identify with a more spiritual self; the caution is to avoid making help feel corrective, severe, or judgmental.
+In `Saturn/Asc = Chiron`, Chiron specifies the pair through the helpful effect of one's presence on other people. The [Sandbach entry](#sandbach-entry) connects this with overcoming personal inadequacy, identifying with a spiritual self, and relating more deeply. These interpersonal and spiritual claims give the brief entry its full scope.
 
 ## Links
 

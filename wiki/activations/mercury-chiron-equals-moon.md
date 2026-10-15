@@ -29,19 +29,36 @@ updated_at: 2026-04-21
 - Axis page: [Mercury/Chiron](../axes/mercury-chiron.md)
 - Triad hub: [Moon Mercury Chiron](../triads/moon-mercury-chiron.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Chiron midpoint`
+- Source locator: PDF p. `47` (complete oriented entry; chapter starts on p. `46`; scan checked).
+
 #### Sandbach Entry
 
-One is instinctively able to say just the right words or communicate just the right ideas that people need to hear for their own growth and healing. Feelings communi cated to others in a way that may help them to heal at a deep level.
+One is instinctively able to say just the right words or communicate just the right ideas that people need to hear for their own growth and healing. Feelings communicated to others in a way that may help them to heal at a deep level.
+
+## Comparative Schema
+
+- core meaning: Instinctive words and shared feelings may support another person's growth.
+- psychology: Sensitivity is expressed as recognizing words or ideas another needs to hear.
+- body/health: Healing is described in broad, deep terms; no disease or clinical result is given.
+- social/relationship: Feelings communicated to others are the channel for the proposed healing effect.
+- events/manifestations: Saying useful words and conveying feelings are the concrete expressions.
+- conflicts/notes: Only Sandbach is represented; the complete oriented entry is verified on PDF p. 47, following the chapter opening on p. 46.
+
+## Contradictions
+
+A single passage supplies the evidence, so cross-source agreement or contradiction cannot be assessed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron = Moon` gives the axis instinctive timing and emotionally healing words.
-- Chart expression: knowing what people need to hear, conveying feeling in a way that helps growth, and communicating with a natural sensitivity that reaches deep emotional levels.
+In `Mercury/Chiron = Moon`, Moon specifies Mercury/Chiron as instinctive and emotional communication: finding words or ideas another person needs to hear is linked with conveying feelings in a way that may aid growth. The [Sandbach entry](#sandbach-entry) makes the effect a possibility, particularly in its second sentence; it does not establish exact timing or guaranteed healing.
 
 ## Links
 

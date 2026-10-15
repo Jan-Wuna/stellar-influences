@@ -28,9 +28,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 178 (entry page).
 
 - Source heading: `MERCURY/NODE With Itself`
 - Source page: `178`
@@ -41,22 +45,21 @@ Enhanced need to seek feedback or approval from people on your work or ideas; en
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking a receptive audience for ideas and work. [Munkasey](#munkasey-entry), p. 178.
+- psychology: A heightened wish for feedback and approval. [Munkasey](#munkasey-entry).
+- body/health: No specific bodily or health claim appears in the entry.
+- social/relationship: Professional acquaintances and meetings with people receptive to one's ideas. [Munkasey](#munkasey-entry).
+- events/manifestations: Finding suitable meetings and seeking responses to one's work. [Munkasey](#munkasey-entry).
+- conflicts/notes: This is Munkasey's repeated-pair entry, not a three-factor interpretation.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; no cross-source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Node`: Enhanced need to seek feedback or approval from people on one's work or ideas; enhanced need to associate with professional acquaintances; one has luck in finding meetings where people are receptive to one's ideas.
+In `Mercury/Node = Node`, Node specifies the communication pair through the search for responsive contacts: ideas and work are brought to people whose feedback matters. The wish for approval and the value of professional acquaintances belong to the same pattern of finding an audience. [Munkasey](#munkasey-entry), p. 178, also describes favorable meetings; this single entry does not establish that every contact will be receptive.
 
 ## Links
 

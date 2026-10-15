@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [Asc MC Poseidon](../triads/asc-mc-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To fuse ones ideas with those of others. The own way of thinking and mental atti
 
 #### ABC Entry
 
-Bcsceltc culture, transparent partner soul, Gcscelt soul of the partner, my spiritual partner, my culture place, my experiences about the partner, my idea for the environment, my changed environment, and sclisch clearness of the partner
+- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).
+
+Ensouled culture of the surroundings, insightful soul of the partner, spirit-soul of the partner (Geist-Seele), my spiritual partner, my place of culture, my insights about the partner, my idea for the surroundings, my spiritualized surroundings, inner clarity of the partner.
+
+## Comparative Schema
+
+- **Core meaning:** Reciprocal influence of ideas in contact with others.
+- **Psychology:** An intuitive outlook shaped through exchange.
+- **Body/health:** No health claim is established.
+- **Social/relationship:** Shared viewpoints and a spiritual partner.
+- **Events/manifestations:** Merging ideas and influencing another person's outlook.
+- **Conflicts/notes:** ABC distinguishes the partner's insight and inner clarity from the person's idea for, and spiritualized experience of, the surroundings. Its spirit-soul language is spiritual description, not a separate psychological or medical diagnosis.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 98 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Witte emphasizes reciprocal influence of ideas; ABC locates insight and spiritual cultivation in the partner and surrounding environment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Asc` brings the axis into relation through shared ideas and mental influence.
-- Chart expression: merging viewpoints with others, fulfilling people through one's ideas, and having an intuitive or intellectual attitude shaped in active contact with the environment.
+Asc specifies `MC/Poseidon` through exchange with other people: ideas merge, one's mental attitude can fulfil others, and others influence one's intuitive outlook. This reciprocal movement is explicit in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds the partner's insight and inner clarity, together with spiritual cultivation in the surroundings.
 
 ## Links
 

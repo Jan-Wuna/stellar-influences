@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Mercury Hades](../triads/vernal-point-mercury-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Vulgar thinking by the general public.
 
@@ -42,13 +46,27 @@ Vulgar thinking by the general public.
 
 #### ABC Entry
 
-Reports about public lack, language ilber deprivations in public, youthcriminality in public life, public danger reporting, public opinion from the past, and transport service in public
+- Source page: 46; PDF page: 22 (one-based spread).
+
+Reports of public deficiencies, conversations about public deprivations, youth criminality in public life, public danger reporting, public opinions from the past, and public transport service
+
+## Comparative Schema
+
+- core meaning: Public thought, reporting, or conversation about deficiencies and danger.
+- psychology: Witte labels public thinking vulgar, an attributed evaluation.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public conversation and youth-crime topics.
+- events/manifestations: Reports of deprivation, danger warnings, past opinions, and transport service.
+- conflicts/notes: Reporting crime does not establish that the speaker or reader commits it.
+
+## Contradictions
+
+Historical opinion and transport service are distinct applications of communication or circulation, not evidence of a universal degraded mindset.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Mercury`: vulgar thinking by the general public.
-- Practical expression: reports about public lack, language ilber deprivations in public, youthcriminality in public life, public danger reporting, and public opinion from the past.
+In `Vernal Point/Hades = Mercury`, Mercury specifies the pair through what is thought, reported, or discussed in public. The [ABC entry](#abc-entry) names deficiencies, deprivation, danger reports, and opinions from the past, with transport service as another application. The [Witte entry](#witte-entry) adds an evaluative description of public thinking. The coherent meaning is communication around public shortcomings or inherited views, without adopting that judgment as a description of every person involved.
 
 ## Links
 

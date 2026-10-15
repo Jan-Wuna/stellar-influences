@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Mercury Pluto Asc](../triads/mercury-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 90 (one-based; exact row checked).
 
 To think of changes in the location. News about changes of location. Others change their opinion.
 
@@ -45,17 +49,23 @@ To think of changes in the location. News about changes of location. Others chan
 
 #### ABC Entry
 
-Development of youth on site, development through partner language, thoughts about partner change, media development on site, location for news development, changes in local traffic, growing environmental language, and growing local traffic
+- Source page: 120 (printed); PDF page: 59 (one-based; exact row checked).
+
+Development of youth at a place, development through conversations with a partner, thoughts about changing partners, development of media at a place, a place for news development, changes in local traffic, increasing conversations in the surroundings, growing local traffic.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 295 (printed); PDF page: 297 (one-based); entry code: 1061 (direct source text checked).
 
 Urge to dominate other people's minds, suggestion, hypnosis.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 116 (one-based; exact activation located in direct source text).
 
 The ability to put one’s ideas across to others with a lot of personal intensity. The way you speak, write, and communicate in general has about it the aura of being one with a strong and distinctive personality.
 
@@ -70,22 +80,23 @@ Prompts you to intellectually study the motives and reactions of others; a menta
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: thought and communication that influence others or accompany local and partner change.
+- psychology: studying motives and reactions, intense expression and the urge to dominate minds.
+- body/health: Ebertin names suggestion and hypnosis without establishing a medical condition or treatment.
+- social/relationship: partner conversations, persuasive communication and the source's hostile use of thought against opponents.
+- events/manifestations: news of relocation, changing opinions, and development of local media or traffic.
+- conflicts/notes: Strong expression is not identical to mental domination; Munkasey's unlawful rationalization remains a difficult source possibility, not an instruction.
 
 ## Contradictions
 
-- None recorded yet.
+Strong expression is not identical to mental domination; Munkasey's unlawful rationalization remains a difficult source possibility, not an instruction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Mercury`: investigative intelligence, forceful communication, and the ability to transform situations through words and diagnosis. Main caution: manipulative thinking: speech can become coercive, suspicious, or too invested in mental control.
+Mercury specifies `Pluto/Asc` through thought and communication carrying personal intensity into encounters and local change. [Witte](#witte-entry) and [ABC](#abc-entry) include relocation news, changing opinions, partner conversations and local media or traffic; [Sandbach](#sandbach-entry) emphasizes expressing ideas with a strong, distinctive personality.
+
+The influence can become controlling: [Ebertin](#ebertin-entry) names the urge to dominate minds, suggestion and hypnosis, while [Munkasey](#munkasey-entry) adds studying motives alongside hostile thinking and rationalizing unlawful action. The distinction is between forceful communication and using thought to override others; the source supplies no general medical-diagnostic meaning.
 
 ## Links
 

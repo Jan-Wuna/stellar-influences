@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Pluto Node Admetos](../triads/pluto-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 A radical change in one’s connections. To make new endurable connections.
 
@@ -42,13 +46,27 @@ A radical change in one’s connections. To make new endurable connections.
 
 #### ABC Entry
 
-Endurance in the development of a compound, blocked development in a compound, restricted development in a compound, developing profound relationships, altered connection through depression, and growing strength of a compound
+- Source page: 418 (printed); PDF page: 208 (one-based; exact row checked).
+
+Perseverance in the development of a connection, blocked development within a connection, restricted development within a connection, developing thorough relationships, a connection changed through depression, growing firmness of a connection.
+
+## Comparative Schema
+
+- core meaning: radical change in connections and the formation or consolidation of enduring ties.
+- psychology: perseverance, restriction and the source's change through depression.
+- body/health: depression is historical source language without a diagnostic statement.
+- social/relationship: new enduring connections, deepening relationships and blocked development within a bond.
+- events/manifestations: radical alteration of existing contacts or growing firmness in a connection.
+- conflicts/notes: Witte's new enduring ties coexist with ABC's blocked relationships; endurance is a possibility rather than a universal result.
+
+## Contradictions
+
+Witte's new enduring ties coexist with ABC's blocked relationships; endurance is a possibility rather than a universal result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Node`: a radical change in one’s connections; To make new endurable connections.
-- Practical expression: endurance in the development of a compound, blocked development in a compound, restricted development in a compound, developing profound relationships, and altered connection through depression.
+Node specifies `Pluto/Admetos` through radical change in one's relationships and the possibility of forming ties that endure. The [Witte entry](#witte-entry) gives both alteration of existing connections and new enduring ones; the [ABC entry](#abc-entry) adds perseverance, growing firmness and relationships whose development remains blocked or restricted. The distinction is between consolidating a bond and preventing it from developing. The source's reference to depression remains attributed rather than diagnostic.
 
 ## Links
 

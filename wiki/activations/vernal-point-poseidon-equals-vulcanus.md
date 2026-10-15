@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
 - Triad hub: [Vernal Point Vulcanus Poseidon](../triads/vernal-point-vulcanus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Powerful ideas. Ideas of extreme influences. Powerful floods. -----
+- PDF page: 55 (one-based).
+
+Powerful ideas. Ideas of extreme influences. Powerful floods.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Spiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, power of mind in public Life, strong spiritualization in public, and strong influence in public Life
+- Source page: 59; PDF page: 28 (one-based spread).
+
+Intellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life
+
+## Comparative Schema
+
+- core meaning: Public ideas, reason, and culture exerting considerable influence.
+- psychology: Powerful ideas and the force of reason are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Intellectual strength of the public and cultural influence.
+- events/manifestations: Ideas of extreme influence and a separate powerful-flood example.
+- conflicts/notes: Reasonable influence replaces strong influence; the flood example is not an intellectual mechanism.
+
+## Contradictions
+
+No direct contradiction is established. Powerful floods and influential ideas are distinct source examples, with no causal link supplied.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = Vulcanus`: powerful ideas, ideas of extreme influences, powerful floods, and -----.
-- Practical expression: spiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, and power of mind in public Life.
+In `Vernal Point/Poseidon = Vulcanus`, public intellectual or spiritual life is specified through potency. The [Witte entry](#witte-entry) names powerful ideas and extreme influence, alongside powerful floods as a separate example. The restored [ABC entry](#abc-entry) develops intellectual energy, cultural influence, the force of reason, and power of mind. The synthesis centers on the public reach of ideas while leaving the physical flood association separate.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Asc](../triads/mars-jupiter-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,23 @@ Development of a personal style which includes the portrayal of your personal st
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful or enthusiastic action engages other people and one's surroundings.
+- psychology: Energetic personal style can help organize others but may overwhelm them.
+- body/health: Munkasey names attention to physical energy; Ebertin's birth example is historical doctrine, not a medical prediction.
+- social/relationship: Happy cooperation, advantages through others and unwanted shared activities are represented.
+- events/manifestations: Work success nearby, financial/legal activity, betrothal and marriage are explicit.
+- conflicts/notes: Sandbach warns against excess in relating; Munkasey's repression of unwanted activity is a distinct emphasis.
 
 ## Contradictions
 
-- None recorded yet.
+The entries largely emphasize successful cooperation but retain limits: enthusiastic engagement can overwhelm others, and not every shared activity is wanted. These qualifications do not negate the favorable examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Asc`: successful influence on the environment, happy cooperation, organizing ability, and a manner that radiates confidence in getting things done. Main caution: overextension: exuberance can overwhelm others or lead to acting bigger than circumstances justify.
+Asc specifies the Mars/Jupiter axis through successful or enthusiastic action with others. Happy cooperation and organizing in [Ebertin](#ebertin-entry) connect with nearby work success in [Witte](#witte-entry) and [ABC](#abc-entry). [Sandbach](#sandbach-entry) qualifies the energetic impression with a need to avoid overwhelming others, while [Munkasey](#munkasey-entry) adds personal presentation of strength and repression of unwanted shared activities. The entry therefore includes effective cooperation and choices about how much activity to share.
+
+Evidence: Witte PDF p. 192; ABC printed p. 298, PDF p. 148; Ebertin printed p. 203, code 0696; Sandbach PDF p. 67 (chapter start only); Munkasey printed p. 224.
 
 ## Links
 

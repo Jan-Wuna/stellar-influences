@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Kronos`
 - Astronomicon formula: `Q/¦ = ¤`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Great concentration. Great helpfulness through deep love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Endurance of freedom love, blocked peace success, restricted peace science, end of love freedom, successful deepening into the arts, lucid artificial knowledge, deepening of the joy of knowledge, and increasing constraint on desires
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Especially deep affection, special immersion in art, dominant depressions in love, consolidation of peace through the state, consolidation of a great love, deepening peace with hierarchy, and thorough independence in love.
+
+## Comparative Schema
+
+- Core meaning: Deep affection supports concentrated help.
+- Psychology: Concentration and independence in love.
+- Body/health: ABC's depression language is historical, not diagnostic.
+- Social/relationship: Great love, state-supported peace, and hierarchy.
+- Events/manifestations: Artistic immersion and helpful action.
+- Conflicts/notes: The state/hierarchy material belongs to Kronos's scanned row.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The state/hierarchy material belongs to Kronos's scanned row.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Kronos`: great concentration.
-- Practical expression: endurance of freedom love, blocked peace success, restricted peace science, end of love freedom, and successful deepening into the arts.
+Kronos specifies Venus/Admetos through unusually concentrated affection that can become helpfulness. ABC links that depth with art, independence in love, and peace sustained through authority. Dominant depression in love remains a less favorable expression, so depth alone does not establish ease or mutual satisfaction. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

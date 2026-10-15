@@ -7,12 +7,14 @@ framework_scope: comparative
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Read the `13` shared Witte/Ebertin factor pages as a two-layer surface rather than as competing doctrines.
+Read the `13` shared Witte/Ebertin factor pages as a two-layer surface while retaining differences that affect the meaning. The method synthesizes demonstrated overlap; it does not declare the two sources equivalent.
+
+[Read the conclusion](#derived-synthesis). This is an editorial reading method; each canonical factor page remains the answer surface for that factor.
 
 ## Evidence Base
 
@@ -25,35 +27,31 @@ Read the `13` shared Witte/Ebertin factor pages as a two-layer surface rather th
 
 ### The Two-Layer Read
 
-- Witte supplies the compressed operational core.
-- Ebertin supplies the explanatory expansion.
-- The shared factor layer is therefore additive: Witte identifies the active field quickly, while Ebertin stretches the same field into clearer psychological, bodily, social, and developmental language.
+For the overlapping Venus and Saturn motifs discussed here, two shorthand sentences describe the reading arrangement: Witte supplies the compressed operational core. Ebertin supplies the explanatory expansion. This means additional detail around a demonstrated shared theme, not textual dependence or a rule for every factor.
+
+Witte's short factor entry often makes a theme easy to recognize; Ebertin's separate principle and correspondence fields show more of its psychological, bodily, and social range. For example, [Witte's Venus entry](../factors/venus.md#witte-factor-entry) and [Ebertin's Venus fields](../factors/venus.md#reinhold-ebertin---the-combination-of-stellar-influences) overlap in love and art, while Ebertin explicitly separates positive and negative expressions. The shared theme can be synthesized without assuming that one text derives from or explains the other.
 
 ### What Stays Stable Across The `13` Shared Factors
 
-- The repeated overlap is not primarily contradiction. It is a difference of compression.
-- Witte tends to name the decisive function of the factor in short Hamburg-style clusters.
-- Ebertin tends to restate that same factor as principle plus consequences, often separating psychology, biology, and sociology more explicitly.
-- The stable reading rule is to take Witte first for fast operational recognition and Ebertin second for interpretive unpacking.
+The `13` pages share factor identities, not necessarily identical emphases. [Saturn's Witte entry](../factors/saturn.md#witte-factor-entry) includes perseverance as well as obstruction, and [Ebertin's fields](../factors/saturn.md#reinhold-ebertin---the-combination-of-stellar-influences) likewise include concentration and endurance alongside inhibition. A synthesis should preserve both sides.
+
+Pluto marks the limit of a simple expansion model: [Witte](../factors/pluto.md#witte-factor-entry) centers development, growth, and internal change, while [Ebertin](../factors/pluto.md#reinhold-ebertin---the-combination-of-stellar-influences) foregrounds invisible powers, mass influence, and regeneration. Those are distinct emphases to retain, not equivalent phrases to collapse. The [factor comparison](shared-factors-witte-vs-ebertin.md#factor-notes) provides the full set and its source locators.
 
 ### How To Use This During Retrieval
 
-- Start on the canonical factor page when a factor keeps repeating across multiple activations or axes.
-- Read the Witte block as the shortest statement of what the factor does.
-- Read the Ebertin block as the broadening explanation of how that same factor manifests in character, body, and social life.
-- Do not force one source to cancel the other unless a page shows a real contradiction at the same doctrinal level.
+Use the canonical factor page's `Derived Synthesis` when that factor repeats across several formulas. Inspect its named source entries when a qualification or disagreement matters. Combine overlapping themes, preserve source-specific additions, and do not mistake omission for disagreement. For an explicit formula, begin on its activation page; a generic factor comparison cannot supply that formula's delineation.
 
 ## Contradictions and Notes
 
-- At the shared factor-chapter level, the main divergence is framing altitude rather than direct disagreement.
+- Differences of length and category structure explain some variation, but do not prove doctrinal equivalence or independent corroboration.
 - This note applies to the `13` shared factor pages only. It should not be used to flatten orientation-specific activation doctrine.
+- Biological and gender categories remain historical source claims. The reading method does not convert them into diagnoses or universal descriptions.
 
+<a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- The most useful comparative read of the shared Witte/Ebertin factor layer is sequential rather than competitive.
-- Witte names the operative center of the factor. Ebertin expands that center into a more explicit human description.
-- In practice, this means the shared factor pages can be read as one two-step surface: first identify the active principle, then widen it into lived expression.
+Build a connected interpretation from the overlap actually present, then retain additions that change its range. Love and art at Venus, or endurance and inhibition at Saturn, offer clear shared themes. Pluto's development and mass-power emphases need separate recognition. This approach makes the factor page useful as one reading surface without requiring a fixed source order or declaring all differences to be matters of style.
 
 ## Open Questions
 
-- A later synthesis note could test whether the same two-layer reading stays equally stable at shared axis level, where doctrinal divergence may sharpen.
+- How well does this method work at shared axis or activation level? It needs a separate comparison of those entries and cannot be inferred from factor overlap alone.

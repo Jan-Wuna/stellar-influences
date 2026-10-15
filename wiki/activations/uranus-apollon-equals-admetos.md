@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Uranus Apollon Admetos](../triads/uranus-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Satisfaction over a break or breaking off. To relax through complete discharge. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 383; PDF p. 190.
+
 #### ABC Entry
 
-Blocked freedom impulses, brilliant knowledge emulation, grim technical success, sudden consolidation of knowledge, surprising success restriction, restlessness through depression experiences, Urstoff Knowledge emeuem, and deepening in new knowledge
+Blocked impulses toward freedom, thorough renewal of knowledge, thorough technical success, sudden consolidation of knowledge, surprising restriction of success, unrest through experiences of depression, renewing knowledge of primordial matter, deepening into new knowledge.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Release from tension and concentrated investigation, alongside restricted freedom or success.
+- psychology: Satisfaction and relaxation coexist with absorption, focus and ABC's unrest.
+- body/health: ABC's depression term remains attributed without a diagnosis.
+- social/relationship: Freedom is restricted; no specific relationship is supplied.
+- events/manifestations: Knowledge consolidates or is renewed, and technical success is retained.
+- conflicts/notes: Thorough renewal and technical success replace the former brilliant-emulation and grim-success mistranslations.
+
+## Contradictions
+
+Witte emphasizes satisfaction after a break and concentrated inquiry. ABC also retains blocked freedom, restricted success and depression alongside technical achievement and renewal of knowledge. The sources do not make every break a disappointment or every restriction a productive one.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Admetos`: Satisfaction over a break or breaking off. To relax through complete discharge. To become absorbed and focussed. Concentration to go to the bottom of a matter.
-- Practical expression: blocked freedom impulses, brilliant knowledge emulation, grim technical success, sudden consolidation of knowledge, and surprising success restriction.
+In `Uranus/Apollon = Admetos`, Admetos specifies expansion of experience or knowledge through a break, discharge of tension and deep concentration. [Witte](#witte-entry) describes satisfaction, relaxation and getting to the bottom of a matter. [ABC](#abc-entry) adds renewed or consolidated knowledge and technical success, while retaining blocked freedom and restricted success. Inquiry can deepen without erasing those constraints.
 
 ## Links
 

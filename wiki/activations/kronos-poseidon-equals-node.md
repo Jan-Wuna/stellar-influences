@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - Triad hub: [Node Kronos Poseidon](../triads/node-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 302 (one-based), Kronos + Poseidon, Node entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To meet for mental endeavor. Cultural associations. Connections born out of the 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 466; PDF p. 232 (one-based), Kronos + Poseidon, Node entry.
+
 #### ABC Entry
 
-Spiritual independence in connections, connected with spiritual groves, connection to cultural hierarchy, connection to spiritual hierarchy, connections of a culture state, truth vesting of the state, and important truth of a connection
+Intellectual independence in connections; connected with great intellectual figures; connection to the cultural hierarchy; connection to the intellectual hierarchy; connections of a cultural state; the state's communication of truth; an important truth of a connection.
+
+## Comparative Schema
+
+- Core meaning: Connections form through shared intellectual endeavor, cultural associations, and access to intellectual authority.
+- Psychology: Intellectual independence within connections is retained alongside shared attitudes.
+- Body/health: The entries make no specific body or health claim.
+- Social/relationship: Cultural associations and connections to intellectual figures or hierarchies are central.
+- Events/manifestations: Meetings for intellectual endeavor and the state's communication of truth are explicit manifestations.
+- Conflicts/notes: A connection to an intellectual hierarchy does not by itself prove agreement or truth.
+
+## Contradictions And Tensions
+
+A connection to an intellectual hierarchy does not by itself prove agreement or truth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Node`: cultural or intellectual groups, connection through shared mental attitude, and associations formed for common study or higher endeavor.
-- Chart expression: ideological fellowship, scholarly connection, and communities formed around shared insight or worldview.
+With Node, Kronos/Poseidon locates cultural and intellectual distinction in connections. Witte describes meeting for intellectual endeavor and associations born of a shared attitude; ABC adds access to intellectual figures, cultural and intellectual hierarchies, and state connections. Intellectual independence within those ties remains an explicit counterweight to simple conformity. The communication of truth is a stated institutional motif, not proof that every connected authority speaks truth. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

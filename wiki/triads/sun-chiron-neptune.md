@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Sun Chiron Neptune`
 - Astronomicon triad-set: `S Chiron Y`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/Neptune = Sun](../activations/chiron-neptune-equals-sun.md)
-- [Sun/Chiron = Neptune](../activations/sun-chiron-equals-neptune.md)
-- [Sun/Neptune = Chiron](../activations/sun-neptune-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Neptune = Sun](../activations/chiron-neptune-equals-sun.md) | [Chiron/Neptune](../axes/chiron-neptune.md) | [Sun](../factors/sun.md) |
+| [Sun/Chiron = Neptune](../activations/sun-chiron-equals-neptune.md) | [Sun/Chiron](../axes/sun-chiron.md) | [Neptune](../factors/neptune.md) |
+| [Sun/Neptune = Chiron](../activations/sun-neptune-equals-chiron.md) | [Sun/Neptune](../axes/sun-neptune.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Chiron/Neptune = Sun`: John, page `97`
-- `Sun/Chiron = Neptune`: John, page `15`
-- `Sun/Neptune = Chiron`: John, page `18`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/Neptune = Sun`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-neptune-equals-sun.md#sandbach-entry), one-based PDF chapter-start p. `97`.
+- `Sun/Chiron = Neptune`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-chiron-equals-neptune.md#sandbach-entry), one-based PDF chapter-start p. `15`.
+- `Sun/Neptune = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-neptune-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `18`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Sun`: illumination of what will most heal a situation and to identity strengthened by subtle creative service. Main caution: ego investment in being the one who sees the hidden cure.
-- `Sun/Chiron = Neptune`: dissolving superficial ego meanings and opening to deeper spiritual purpose through intuition and surrender.
-- `Sun/Neptune = Chiron`: dissolving superficial identity so deeper meaning can emerge and intuition can reveal hidden purpose.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

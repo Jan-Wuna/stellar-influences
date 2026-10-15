@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Moon = Neptune`
 - Astronomicon formula: `R/R = Y`
 - Axis page: [Moon/Moon](../axes/moon-moon.md)
@@ -29,15 +31,29 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: [Witte, Rudolph & Lefeldt](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), `Moon + Moon`, PDF p. `120` (entry start; one-based).
+
 #### Witte Entry
 
 To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
 
+## Comparative Schema
+
+- core meaning: sleep, dreaming, sensitivity, and reduced clarity of consciousness ([Witte](#witte-entry)).
+- psychology: inspiration, receptivity, delicacy, tact, and being dazed are distinct possibilities.
+- body/health: sleep and feebleness are historical associations; the entry supplies no diagnosis.
+- social/relationship: sensitive, deceiving, or disappointed women are source examples.
+- events/manifestations: night hours, relaxation, air, thin gas, smell, and weather changes are named.
+- conflicts/notes: atmospheric and sensory meanings remain literal possibilities, rather than necessarily emotional metaphors.
+
+## Contradictions
+
+This page contains one Witte entry. Its several examples do not supply an independent comparison or require every manifestation to occur together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon = Neptune`: To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quite clearly conscious. Dazed. Receptive brains. Delicacy, tact. To have a scent for something. Sensitive or feeble woman. Deceiving or disappointed woman. Hours of relaxation. Night hours. Light, thin gas. Inspiration. Sensitivity. Air. Change in weather. Smell.
-- Practical focus: diffuses `Moon/Moon` into dream, sleep, sensitivity, and porous consciousness. It favors inspiration, tact, and subtle receptivity, but can also blur awareness through disappointment, weakness, or emotional confusion, making lunar life more atmospheric than solid.
+In Moon/Moon = Neptune, Neptune specifies the repeated Moon pair through sleep, dreaming, and receptive or less distinct awareness. The [Witte entry](#witte-entry) places inspiration, sensitivity, delicacy, and tact beside dazed consciousness and disappointment. Its air, gas, smell, and weather examples retain a material and sensory range alongside these mental states; the historical descriptions of women do not establish one universal character.
 
 ## Links
 

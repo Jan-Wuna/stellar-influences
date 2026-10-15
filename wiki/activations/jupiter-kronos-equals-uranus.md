@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Kronos = Uranus`
 - Astronomicon formula: `V/¤ = X`
 - Axis page: [Jupiter/Kronos](../axes/jupiter-kronos.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 218; one-based PDF page 214, Jupiter/Kronos section, Uranus row.
+
 To experience great fortune by surprise. To gain leadership suddenly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Particularly joyful event, dominating happiness's impulses, success through special technology, renewal of the legal state, joyful state event, great Refonn joy, sudden legal superiority, tensions in the legal state, and unrest in the state for money
+- Source reference: printed page 339; one-based PDF page 168, Jupiter/Kronos section, Uranus row.
+
+A particularly joyful event, dominant impulses of happiness, success through special technology, renewal of the constitutional state, a joyful state event, great joy in reform, sudden legal superiority, tensions in the constitutional state, and unrest in the state because of money
+
+## Comparative Schema
+
+- core meaning: Unexpected fortune and sudden leadership in Witte; reform, technology and legal change in ABC.
+- psychology: Strong impulses of happiness and joy in reform.
+- body/health: No bodily condition is stated.
+- social/relationship: State events and the constitutional state are ABC settings.
+- events/manifestations: Sudden leadership, technological success, legal superiority, tension and unrest over money.
+- conflicts/notes: ABC includes public tensions and unrest alongside favorable surprises; the formula does not guarantee elevation above others.
+
+## Contradictions
+
+Witte's favorable surprise coexists with ABC's state tensions and unrest. Reform can be joyful in the entry without all public consequences being favorable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Uranus`: rank and success arriving abruptly. It favors sudden promotion, breakthrough authority, and fortunate reversals that lift the person above the ordinary level.
+In `Jupiter/Kronos = Uranus`, [Witte](#witte-entry) describes great fortune by surprise and leadership gained suddenly. [ABC](#abc-entry) adds joyful events, technological success, reform and sudden legal superiority. It also names tension in the constitutional state and unrest over money. Abrupt change in authority or public fortunes is the shared emphasis, with disruption retained beside favorable surprise.
 
 ## Links
 

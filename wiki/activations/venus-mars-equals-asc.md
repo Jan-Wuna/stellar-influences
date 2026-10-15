@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Asc](../triads/venus-mars-asc.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Personal sexual intercourse. Acquaintance with relatives or intimate friends.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Work joy with a partner, happy creation in the place, peace will of the partner, harmonious environmental activity, artistic activity in the place, love actions with the partner, partnership peace work, and gentle work place
+Joy in work with the partner, joyful creation locally, the partner's will for peace, harmonious activity in the surroundings, artistic activity locally, acts of love with the partner, peace work in partnership, and a beautiful workplace.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Venus/Mars`
+- Source reference: printed pages `176–177`, coded entry `0588`.
+
 #### Ebertin Entry
 
-A lively expression of feelings, an affectionate nature. The revelation 31 Venus/Mars = Sun is often operative as a direction in connection with birth. of love, a physical union.
+A lively expression of feelings, an affectionate nature. The revelation of love, a physical union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `56` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Focusing on activities which bring relaxation and pleasure; any awareness of you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Lively affection, intimate contact, and action that brings shared pleasure.
+- Psychology: Verve, attraction, effectiveness as identity, and awareness of one's effect on others.
+- Body/health: Sexual expression and physical union are explicit; no medical outcome follows.
+- Social/relationship: Relatives, intimate friends, partners, and attraction in personal contact.
+- Events/manifestations: Facilitating action, pleasurable activity, shared peace work, or a beautiful workplace.
+- Conflicts/notes: Munkasey's disputes about pleasurable pretenses qualify the otherwise affectionate and cooperative range.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's disputes about pleasurable pretenses qualify the otherwise affectionate and cooperative range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Asc`: charisma, sensual confidence, and the ability to move others through lively personal warmth and erotic or creative force. Main caution: provocative self-presentation: desire can become too overt, competitive, or inflaming for calm relationship.
+`Venus/Mars = Asc` gives affection an active, visible expression in contact with others. [Witte](#witte-entry) names intimate friends, relatives, and sexual intercourse, while [Ebertin](#ebertin-entry) describes lively feelings, revealed love, and physical union. The [ABC entry](#abc-entry) also includes shared work, artistic activity, peace efforts with a partner, and a beautiful workplace. [Sandbach](#sandbach-entry) links attraction and verve to identity through effectiveness or facilitating action. [Munkasey](#munkasey-entry) adds awareness of one's effects on others and activities that bring pleasure, including disputes about pleasurable pretenses. Personal vitality can therefore support contact and cooperation without making all enjoyment free of friction.
 
 ## Links
 

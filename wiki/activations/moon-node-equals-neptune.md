@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Node = Neptune`
 - Astronomicon formula: `R/g = Y`
 - Axis page: [Moon/Node](../axes/moon-node.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `121` (entry start; one-based).
+
 #### Witte Entry
 
 Hindrance or dissolution of connections (unions) of female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `175`, PDF p. `86` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ dissolution of the connection to the woman, disappointing emotional relationship
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `137`, entry `0430`.
+
 #### Ebertin Entry
 
 A show of sensitivity in living with other people. Undermining of associations or unions between people, unions or associations of no promise. Disappointment through others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `38` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ People who give you false or inaccurate advice; lax or loosely structured ties t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sensitive but uncertain, weakened, or dissolving associations.
+- psychology: disappointment and sensitivity to emotional exchanges are explicit.
+- body/health: no bodily or clinical condition is stated.
+- social/relationship: unreliable advisers, loose group ties, maternal bonds, and connections with women or foreign peoples are examples.
+- events/manifestations: hindrance, dissolution, deterioration of ties, and inefficient use of advice are named.
+- conflicts/notes: Sandbach frames deterioration as a prompt to deeper examination; this does not promise a beneficial outcome.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in difficulty but differ in explanation. Sandbach gives deterioration a purpose of prompting deeper inquiry; Munkasey describes poor advice and weak practical support. Sensitivity alone does not resolve either problem.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Neptune`: soulful community, empathic connection, and bonds formed around care, dream, or emotional resonance. Main caution: blurred attachment: relationships can become sacrificial, vague, or too difficult to distinguish from projection.
+In Moon/Node = Neptune, Neptune specifies the pair through emotional sensitivity within ties that may be unclear, weakened, or dissolving. [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) emphasize hindrance, disappointment, or undermined association. [Munkasey](#munkasey-entry) makes the practical problem concrete: inspiring or ideal groups may offer little usable advice, and advisers may be inaccurate (p. 136).
+
+[Sandbach](#sandbach-entry) retains sensitivity to what passes emotionally between people and interprets deterioration as a prompt to examine the connection more deeply. That is a source-specific account of the difficulty, rather than evidence that every uncertain tie becomes clarifying.
 
 ## Links
 

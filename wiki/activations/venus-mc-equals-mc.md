@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Recognition for the importance of your contributions to life, and the impact of 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Recognition and security arising from one's contributions and past efforts.
+- Psychology: Confirmation that one's efforts matter.
+- Body/health: No specific bodily or health claim occurs in the single entry.
+- Social/relationship: Increased support from family and siblings.
+- Events/manifestations: Recognition, meeting standards, and security from earlier efforts.
+- Conflicts/notes: The single repeated-pair entry gives possibilities of acknowledgment, not a guarantee.
 
 ## Contradictions
 
-- None recorded yet.
+- The single repeated-pair entry gives possibilities of acknowledgment, not a guarantee.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = MC`: Recognition for the importance of one's contributions to life, and the impact of one's efforts; increased support from family and siblings; achievement of standards or security from past efforts; confirmation for one's contributions.
+`Venus/MC = MC` emphasizes acknowledgment of what one has contributed. [Munkasey's repeated-pair entry](#munkasey-entry) connects recognition of one's efforts with family or sibling support and standards or security achieved through past work. The theme is confirmation that effort has value and an effect on life. The entry leaves the particular form of acknowledgment or support open.
 
 ## Links
 

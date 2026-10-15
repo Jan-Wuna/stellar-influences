@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Moon Pluto Node](../triads/moon-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Changes in the mental attitude towards the public and women. Connections of supe
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 222; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-The development of a relationship, the development of contacts with a woman, a different relationship with a woman, growing contacts with women, the transformation of the skills in a relationship, changing skills in a connection, and changing connections of a people
+Editorial translation (checked against the scan): Unfolding of feeling in a connection, developing contacts with a woman, a changed relationship with a woman, growing contacts with women, transformation of feelings in a relationship, changing feelings in a connection, changing connections of a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
 
 #### Ebertin Entry
 
 The feeling of emotional inhibition in the presence of other people, inability to develop one's inner expression of soul or feeling.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 115 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ The depth of emotions, good and bad, which arise from meetings with other people
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Changing feelings and attitudes in connections, with vulnerability or inhibited expression.
+- psychology: Emotional inhibition, attachment to an oppressive past, and intense emotional fluctuations.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Women, public relations, nurturing contacts, and dependency are source settings.
+- events/manifestations: Changing feelings within ties, superficial connections, and uncertainty after meeting powerful people.
+- conflicts/notes: Superficial connections remain a Witte possibility beside the intense ties in other entries.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's superficial connections and Munkasey's emotional depth differ materially; the formula is not uniformly an intense regenerative bond.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Moon`: intense belonging, transformative emotional bonds, and the ability to experience deep regeneration through others. Main caution: possessive entanglement: relationships can become emotionally coercive, burdened, or hard to leave even when destructive.
+Moon specifies Pluto/Node through how changing connections are felt. The [Witte entry](#witte-entry) includes changed attitudes toward women or the public and explicitly allows superficial ties; [ABC](#abc-entry) adds changing feelings within a relationship. [Ebertin](#ebertin-entry) describes emotional inhibition before others, while [Munkasey](#munkasey-entry) includes deep emotional extremes and uncertainty after powerful encounters. [Sandbach](#sandbach-entry) adds the pull of an oppressive past and the distinction between nurturing growth and dependency. These entries support a range from superficial contact to vulnerable intensity, without a promise of regeneration.
 
 ## Links
 

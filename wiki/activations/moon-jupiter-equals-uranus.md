@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Jupiter = Uranus`
 - Astronomicon formula: `R/V = X`
@@ -39,17 +41,25 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source reference: printed page `129`, PDF page `125`, `MOON + JUPITER`, Uranus row.
+
 The mind is excited through luck or a fortunate changes. Cheerful mood. Suddenly happy (lucky) woman. Sudden or unexpected pregnancy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful reforms for a people, happy woman, joyful surprise in the hour, happy family impulses, new rights for the woman, new legal feeling, sudden happiness's Filial, legal reform for a people, and technical successes of a people
+Source reference: printed page `183`, PDF page `90`, `Mond + Jupiter`, Uranus row.
+
+Source wording: "Erfolgreiche Reformen für ein Volk, freudig erregte Frau, freudige Überraschung in der Stunde, glückliche Gefühls-Impulse, neue Rechte für die Frau, neues Rechts-Gefühl, plötzliches Glücks-Gefühl, Rechts-Reform für ein Volk, technische Erfolge eines Volkes".
+
+Editorial translation, checked against the scan: Successful reforms for a people; a joyfully excited woman; a joyful surprise in the hour; happy emotional impulses; new rights for women; a new sense of justice; a sudden feeling of happiness; legal reform for a people; a people's technical successes.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source reference: printed page `123`, PDF page `125`, entry `0368`.
 
 Occasional outbursts of hilarity and gaiety, confidence, optimism, the love of enterprise. Sudden good fortune, blissful procreation.
 
@@ -57,12 +67,14 @@ Occasional outbursts of hilarity and gaiety, confidence, optimism, the love of e
 
 #### Sandbach Entry
 
+Source reference: PDF page `30`, Uranus under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`.
+
 To have a situation suddenly work out. To be surprised by many things happening at once, or in a short space of time. The free and uninhibited expressing of feelings which may be grandiose and/or excessive.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/JUPITER with Planets and Points`
-- Source page: `116`
+- Source page: printed `116`, PDF page `117`, `Ura` row.
 
 #### Munkasey Entry
 
@@ -70,22 +82,23 @@ Sudden and startling bursts of luck; disruptions of large family gatherings by u
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden happiness, fortunate changes, and freely expressed feeling, with surprise or disruption also represented.
+- psychology: Cheerfulness, confidence, excitement, and uninhibited feeling that Sandbach says may become grandiose or excessive.
+- body/health: Witte's unexpected pregnancy and Ebertin's blissful procreation remain attributed source examples, not reproductive predictions.
+- social/relationship: Unusual disruptions of family gatherings or detachment to pursue one's interests, alongside the joy described elsewhere.
+- events/manifestations: Bursts of luck, a situation suddenly working out, many simultaneous happenings, technical successes, and legal reforms or new rights.
+- conflicts/notes: The favorable sudden-change theme does not erase Munkasey's family disruption or Sandbach's possible excess. Munkasey's awakening interest in the "astro-sciences" remains his specific example.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in sudden good fortune and excited or freely expressed feeling. Munkasey's disruption and detachment examples qualify a predominantly favorable range; they do not establish that every fortunate change disrupts a family. ABC's emotional impulses and sudden happiness were mistranslated as family impulses and "Filial".
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Jupiter = Uranus`: uplifting breakthroughs, intuitive generosity, and the ability to refresh stale emotional conditions quickly. Main caution: unstable enthusiasm: emotional optimism can become erratic, excessive, or too eager to leap ahead of reality.
+In `Moon/Jupiter = Uranus`, the [pair's happiness and emotional abundance](../axes/moon-jupiter.md#derived-synthesis) arrive or find expression suddenly. Fortunate changes, bursts of luck, a situation unexpectedly working out, and cheerful excitement connect favorable events with a released emotional response. Sandbach adds many things happening together and free expression that can become grandiose or excessive. ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Munkasey](#munkasey-entry), [Sandbach](#sandbach-entry))
+
+The suddenness also has less comfortable expressions: Munkasey names unusual disruptions of family gatherings and detachment to pursue one's interests. ABC extends the collective range through successful reforms, new rights, a new sense of justice, and technical successes. These applications preserve both the personal surprise and the wider change represented by this exact orientation. ([Munkasey](#munkasey-entry), [ABC](#abc-entry))
 
 ## Links
 

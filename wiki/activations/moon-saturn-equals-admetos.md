@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Admetos`
 - Astronomicon formula: `R/W = ¦`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Death of old women. Temporarily dilemma. Country people in need. Short or few evening hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `185`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Depressions of an old woman, grim patience of a woman, problems of a people by restrictions, pain of a woman, disturbances by blocked refugees, separation from a depressed woman, and deepening the life of a woman
+Depression in an old woman, a woman's profound patience, problems of a people through restrictions, severe pain in a woman, disturbances through blocked feelings, separation from a depressed woman, and deepening of a woman's feelings
+
+## Comparative Schema
+
+- core meaning: restricted or difficult conditions, profound patience, and deepened feeling.
+- psychology: blocked feelings, patience, depression, and deepening feelings are named.
+- body/health: pain, depression, and death are historical source associations, not diagnoses or prognoses.
+- social/relationship: an older woman, separation, and country people in need are examples.
+- events/manifestations: a temporary dilemma and short or few evening hours are Witte's specific expressions.
+- conflicts/notes: deepened feeling and patience coexist with restriction; short evening hours do not establish brief relief.
+
+## Contradictions
+
+Witte emphasizes need, a temporary dilemma, and death among older women; ABC also includes profound patience and deeper feelings. These add a different psychological range without cancelling the harsh historical examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Saturn = Admetos`: Death of old women. Temporarily dilemma. Country people in need. Short or few evening hours.
-- Practical focus: constricts `Moon/Saturn` into short-lived relief, temporary dilemma, and hardship that settles into a narrow evening or end-of-cycle mood. It points to emotional burden condensed into a brief but heavy phase of need, loss, or constriction.
-- Practical expression: depressions of an old woman, grim patience of a woman, problems of a people by restrictions, pain of a woman, and disturbances by blocked refugees.
+In Moon/Saturn = Admetos, Admetos specifies the pair through constrained conditions and concentrated feeling. The [Witte entry](#witte-entry) gives a temporary dilemma, country people in need, and short evening hours. [ABC](#abc-entry) adds blocked feelings and restriction but also profound patience and deepening feeling (printed p. 185, PDF p. 91). Its pain and depression associations, and Witte's death example, remain historical claims rather than a prognosis. The entries do not establish a short period of emotional relief.
 
 ## Links
 

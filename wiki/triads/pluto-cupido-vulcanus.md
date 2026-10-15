@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Cupido Vulcanus`
 - Astronomicon triad-set: `Z ¡ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Vulcanus = Pluto](../activations/cupido-vulcanus-equals-pluto.md)
-- [Pluto/Cupido = Vulcanus](../activations/pluto-cupido-equals-vulcanus.md)
-- [Pluto/Vulcanus = Cupido](../activations/pluto-vulcanus-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Vulcanus = Pluto](../activations/cupido-vulcanus-equals-pluto.md) | [Cupido/Vulcanus](../axes/cupido-vulcanus.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Cupido = Vulcanus](../activations/pluto-cupido-equals-vulcanus.md) | [Pluto/Cupido](../axes/pluto-cupido.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Pluto/Vulcanus = Cupido](../activations/pluto-vulcanus-equals-cupido.md) | [Pluto/Vulcanus](../axes/pluto-vulcanus.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
-- `Cupido/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `435`
-- `Pluto/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `409`
-- `Pluto/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
-- `Pluto/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `421`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Vulcanus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-vulcanus-equals-pluto.md#witte-entry), one-based PDF entry-start p. `273`.
+- `Cupido/Vulcanus = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-vulcanus-equals-pluto.md#abc-entry), printed p. `435`.
+- `Pluto/Cupido = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-cupido-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `257`.
+- `Pluto/Cupido = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-cupido-equals-vulcanus.md#abc-entry), printed p. `409`.
+- `Pluto/Vulcanus = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-vulcanus-equals-cupido.md#witte-entry), one-based PDF entry-start p. `263`.
+- `Pluto/Vulcanus = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-vulcanus-equals-cupido.md#abc-entry), printed p. `421`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Pluto`: great family changes, transformation in art, building up a great society, and powerful creation still in the making.
-- `Pluto/Cupido = Vulcanus`: This activation emphasizes great increase in families and communities; For a nation or a country it signifies increase of the population and land or territory.
-- `Pluto/Vulcanus = Cupido`: This activation emphasizes very great changes in family or society.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

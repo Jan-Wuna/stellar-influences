@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Mars`
 - Astronomicon formula: `R/Y = U`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 Woman infected by man. Secret activities of female persons. Abnormal sensitiveness or prudery. Working activities in the night-hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `188`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-Activities for the future of a people, work with the future woman, work with foreign parents, weak people's will, activity of foreign folk, effective women in the water, unclear actions of animals, and refined Gemilts Impulse
+Activities for the future of a people, work with the future woman, work with foreign peoples, a weak collective will, activity of foreign peoples, energetic women in water, unclear actions driven by feeling, and refined emotional impulses
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `132`, entry `0402`.
 
 #### Ebertin Entry
 
 Hyper-sensitivity, weakened natural powers in relation to sex life. Nervous troubles through unnatural practices. Irritability, danger of infection.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `35` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Increased impetus to rely on your feelings and not your observations; feelings o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: activity shaped by sensitive or unclear feelings, including agitation ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: emotional confusion, irritability, inner conflict, and reliance on feeling over observation are named.
+- body/health: Witte and Ebertin retain historical infection and sexual-health claims; these do not establish diagnoses, and the moral labels remain attributed to the sources.
+- social/relationship: secret activity, anger from others, and work with foreign peoples are examples.
+- events/manifestations: night work, activity invested in dreams, and resistance to exertion are stated.
+- conflicts/notes: the entries do not establish compassionate protection; ABC's future woman remains an unexplained source expression.
 
 ## Contradictions
 
-- None recorded yet.
+The entries connect activity with both refined sensitivity and agitation. Munkasey's resistance to exertion is another possible expression, not a direct contradiction of working at night or investing activity in dreams.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Mars`: compassionate action, protectiveness in subtle situations, and the ability to move from intuition rather than blunt certainty. Main caution: misdirected reaction: anger and effort can become drained, evasive, or harder to trust clearly.
+In Moon/Neptune = Mars, Mars specifies the pair through activity and agitation influenced by sensitive or unclear feelings. [Sandbach](#sandbach-entry) describes inner conflict arising from emotional confusion, while [Munkasey](#munkasey-entry) emphasizes acting from feeling rather than observation and investing energy in dreams or fantasies (p. 128). The [ABC entry](#abc-entry) retains unclear actions driven by feeling and refined emotional impulses alongside work involving foreign peoples or a people's future (printed p. 188, PDF p. 93).
+
+The [Witte entry](#witte-entry) also preserves secret activity and night work. Its infection and sexual descriptions, together with [Ebertin's](#ebertin-entry) related historical claims, remain attributed doctrine rather than a medical or moral conclusion about a person.
 
 ## Links
 

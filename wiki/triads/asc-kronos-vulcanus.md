@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Asc Kronos Vulcanus`
 - Astronomicon triad-set: `Asc ¤ §`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md)
-- [Asc/Vulcanus = Kronos](../activations/asc-vulcanus-equals-kronos.md)
-- [Kronos/Vulcanus = Asc](../activations/kronos-vulcanus-equals-asc.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md) | [Asc/Kronos](../axes/asc-kronos.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Asc/Vulcanus = Kronos](../activations/asc-vulcanus-equals-kronos.md) | [Asc/Vulcanus](../axes/asc-vulcanus.md) | [Kronos](../factors/kronos.md) |
+| [Kronos/Vulcanus = Asc](../activations/kronos-vulcanus-equals-asc.md) | [Kronos/Vulcanus](../axes/kronos-vulcanus.md) | [Asc](../factors/asc.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Asc/Kronos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
-- `Asc/Kronos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `129`
-- `Asc/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `135`
-- `Kronos/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
-- `Kronos/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `464`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Asc/Kronos = Vulcanus` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-kronos-equals-vulcanus.md#witte-entry) | one-based PDF p. 94 (entry start); printed page not established |
+| `Asc/Kronos = Vulcanus` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-kronos-equals-vulcanus.md#abc-entry) | printed p. 129; PDF p. 63 |
+| `Asc/Vulcanus = Kronos` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-vulcanus-equals-kronos.md#witte-entry) | one-based PDF p. 97 (entry start); printed page not established |
+| `Asc/Vulcanus = Kronos` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-vulcanus-equals-kronos.md#abc-entry) | printed p. 135; PDF p. 66 |
+| `Kronos/Vulcanus = Asc` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-vulcanus-equals-asc.md#witte-entry) | one-based PDF p. 301 (entry start); printed page not established |
+| `Kronos/Vulcanus = Asc` | [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-vulcanus-equals-asc.md#abc-entry) | printed p. 464; PDF p. 231 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Vulcanus`: powerful office, commanding administrative ability, and authority backed by real strength.
-- `Asc/Vulcanus = Kronos`: dealing with state force, rank, or superior authority and feeling its weight directly.
-- `Kronos/Vulcanus = Asc`: exposure to great powers, living under force from above, and contact with people who exercise or undergo the pressure of state authority.
+Use this hub to choose the exact orientation for the unordered set `Asc Kronos Vulcanus`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

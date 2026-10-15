@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Pluto Node`
 - Astronomicon triad-set: `Chiron Z g`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/Node = Pluto](../activations/chiron-node-equals-pluto.md)
-- [Chiron/Pluto = Node](../activations/chiron-pluto-equals-node.md)
-- [Pluto/Node = Chiron](../activations/pluto-node-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Node = Pluto](../activations/chiron-node-equals-pluto.md) | [Chiron/Node](../axes/chiron-node.md) | [Pluto](../factors/pluto.md) |
+| [Chiron/Pluto = Node](../activations/chiron-pluto-equals-node.md) | [Chiron/Pluto](../axes/chiron-pluto.md) | [Node](../factors/node.md) |
+| [Pluto/Node = Chiron](../activations/pluto-node-equals-chiron.md) | [Pluto/Node](../axes/pluto-node.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/Node = Pluto`: John, page `100`
-- `Chiron/Pluto = Node`: John, page `99`
-- `Pluto/Node = Chiron`: John, page `114`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/Node = Pluto` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-node-equals-pluto.md#sandbach-entry) | retained chapter-start one-based PDF p. 100; exact formula page not established |
+| `Chiron/Pluto = Node` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-pluto-equals-node.md#sandbach-entry) | retained chapter-start one-based PDF p. 99; exact formula page not established |
+| `Pluto/Node = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-node-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 114; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Node = Pluto`: karmic pressure, deep transformative yearning, and the danger of substituting outer power for true inner evolution. Main caution: obsession, control, or using connection to feed ego rather than soul.
-- `Chiron/Pluto = Node`: catalytic connections, karmic intensity, and healing through total honesty about what has been carried from the past. Main caution: choosing intensity for its own sake or reenacting trauma under the banner of transformation.
-- `Pluto/Node = Chiron` makes contact itself a trigger for healing release. Relationships may evoke past material that needs to be let go so the person can enter a future they did not think possible; the caution is not to make every bond into a purge or crisis of transformation.
+Use this hub to choose the exact orientation for the unordered set `Chiron Pluto Node`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

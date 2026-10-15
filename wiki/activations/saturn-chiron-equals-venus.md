@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Chiron = Venus`
 - Astronomicon formula: `W/Chiron = Q`
 - Axis page: [Saturn/Chiron](../axes/saturn-chiron.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 88 (exact entry checked; chapter begins on PDF page 87).
+
 To help others to heal their fears and overcoming their limitations so they may experience love, beauty and fulfillment more completely.
+
+## Comparative Schema
+
+- Core meaning: Helping others face fear and limits so they can experience fuller love, beauty, and fulfillment.
+- Psychology: Recognition and release of fears in the service of fuller experience.
+- Body/health: No bodily condition or clinical treatment is specified.
+- Social/relationship: Helping other people overcome limitations is central.
+- Events/manifestations: Fuller experience of love, beauty, and fulfillment is the stated aim.
+- Conflicts/notes: Support for fuller experience is the stated purpose; no particular relationship form is identified.
+
+## Contradictions
+
+Support for fuller experience is the stated purpose; no particular relationship form is identified.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Venus` brings healing to fear and limitation through love, beauty, and fulfillment. It helps others become more available to affection and pleasure after constriction; the caution is turning love into a therapeutic duty or withholding warmth until someone is "healed.".
+In `Saturn/Chiron = Venus`, Venus specifies the pair through helping others heal fears and overcome limitations. The [Sandbach entry](#sandbach-entry) gives that help a particular aim: fuller experience of love, beauty, and fulfillment. The meaning rests in support for that fuller experience, within the source's healing vocabulary.
 
 ## Links
 

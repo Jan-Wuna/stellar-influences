@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Kronos`
 - Astronomicon formula: `T/X = ¤`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Sudden decree of ruling persons. Official telegrams, emails.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Particularly exciting language, troubling news of the boss, young dynamic boss, state media technology, technical news hierarchy, talk about state events, and priority media events
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Especially exciting conversations, disturbing news from the chief, a young dynamic chief, news of major events, state media technology, technical news hierarchy, speaking about state events, priority media events.
+
+## Comparative Schema
+
+- core meaning: Sudden news and technical communication engage leadership or state affairs.
+- psychology: Exciting conversations and disturbing news are explicit, without a separate inner account.
+- body/health: No bodily condition is stated.
+- social/relationship: Ruling persons, a young dynamic chief and state media provide institutional settings.
+- events/manifestations: Sudden decrees, official messages, major-event news and priority media events are examples.
+- conflicts/notes: The scan restores the omitted major-event-news clause in ABC.
+
+## Contradictions
+
+Official communication may be sudden, exciting or disturbing. The examples do not establish that every decree is troubling.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Uranus = Kronos`: Sudden decree of ruling persons. Official telegrams, emails.
-- Practical expression: particularly exciting language, troubling news of the boss, young dynamic boss, state media technology, and technical news hierarchy.
+In `Mercury/Uranus = Kronos`, Kronos specifies sudden communication through authority, leadership and events of large public consequence. Official telegrams or emails and a ruler's sudden decree provide Witte's concrete forms. ABC adds a dynamic young chief, disturbing news from the chief, reports of major events, state media technology and priority media events, linking the excitement of communication with institutional power. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

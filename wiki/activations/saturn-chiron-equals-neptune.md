@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Chiron = Neptune`
 - Astronomicon formula: `W/Chiron = Y`
 - Axis page: [Saturn/Chiron](../axes/saturn-chiron.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 88 (exact entry checked; chapter begins on PDF page 87).
+
 Intuitive insight into how to overcoming limits and heal fears, as well as the ability to intuit the meaning and purpose behind all the restrictions that one experi ences.
+
+## Comparative Schema
+
+- Core meaning: Intuitive insight into limits, fears, and their attributed meaning.
+- Psychology: Intuiting how to overcome limits and understand restrictions.
+- Body/health: No bodily condition or clinical treatment is specified.
+- Social/relationship: No distinct interpersonal relationship is described.
+- Events/manifestations: Insight is the manifestation supplied; no external event is stated.
+- Conflicts/notes: The purpose behind every restriction is a source premise, not independently established causation.
+
+## Contradictions
+
+The purpose behind every restriction is a source premise, not independently established causation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Neptune` intuits the meaning behind restriction, fear, and the effort to overcome limits. It can soften Saturn/Chiron through spiritual perception; the caution is confusion or spiritual bypass when concrete limits still need direct handling.
+In `Saturn/Chiron = Neptune`, Neptune specifies the pair through intuitive understanding of how limits might be overcome and fears healed. The [Sandbach entry](#sandbach-entry) also gives intuition access to the meaning and purpose of restrictions. That sense of purpose remains an attributed spiritual interpretation.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Vernal Point`
 - Astronomicon formula: `U/W = VP`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -42,13 +44,27 @@ General periodic working. General interruption of work. General sickness, separa
 
 #### ABC Entry
 
-(i) (ii) (iii) (iii) (iv) (iv) (iv) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v)) (v) (v) (v) (v) (v) (v) (v) (v) (v) (v) (
+- Source reference: printed p. 300; one-based PDF p. 149, Mars/Saturn, Vernal Point row; all six clauses and the following MC boundary checked.
+
+Editorial translation, checked against the scan: Serious public work, patient public activity, disrupted productive activity in public, hard work in public, working on public tasks, and actions involving losses in public life.
+
+## Comparative Schema
+
+- Core meaning: Serious or patient public work, with periodic activity, disruption and losses on a general scale.
+- Psychology: ABC gives seriousness and patience in public activity; neither entry specifies individual motives.
+- Body/health: General sickness and death are Witte's historical examples, not a population forecast.
+- Social/relationship: Separation and publicly shared work conditions are included.
+- Events/manifestations: Hard work on public tasks, periodic labor, broadly experienced interruptions, and actions involving losses in public life.
+- Conflicts/notes: The entries retain sustained or periodic work alongside interruption; the public scale does not turn the historical examples into a necessary collective outcome.
+
+## Contradictions
+
+ABC emphasizes serious, patient and hard public work, with disruption and losses. Witte adds periodic work and general interruption. Its brief sickness, separation and death examples do not establish that public work or its interruption necessarily entails those outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Saturn = Vernal Point` makes work stoppage, sickness, separation, and death collective or generally visible.
-- Chart expression: widespread interruption of labor, general conditions of illness or severance, and a public atmosphere marked by stoppage, loss, or mortality.
+In `Mars/Saturn = Vernal Point`, Vernal Point specifies work and interruption at a general or public scale. The [ABC Entry](#abc-entry) describes serious, patient and hard public activity, work on public tasks, and the possibility of disruption or actions involving losses. The [Witte entry](#witte-entry) (PDF p. 193) retains periodic working alongside general interruption. Sustained effort and stoppage both belong to this orientation's supported range; Witte's sickness, separation and death examples remain historical claims rather than necessary consequences of public work.
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Admetos = Vulcanus`
 - Astronomicon formula: `¥/¦ = §`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 306, Vulcanus row.
+
 Pride goes before a fall. To be arrogant and presumptuous.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence through scientific grinndlichkeit, restricted power bulb, experience with raw material energys, successful energy restriction, successful violence restriction, grilndlich power experiences, and increasing restriction of violence
+Reference: printed p. 469 (one-based PDF p. 233), Vulcanus row.
+
+Influence through scientific thoroughness, restricted fullness of power, experiences with primordial-matter energies, successful restriction of energy, successful restriction of violence, thorough experiences of power, and increasing restriction of violence.
+
+## Comparative Schema
+
+- core meaning: Arrogance and presumption in Witte; influence, power, and effective limits in ABC.
+- psychology: Witte's warning about pride is explicit; earned satisfaction is not stated in this entry.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: Influence through scientific thoroughness and the restriction of violence.
+- events/manifestations: Restricted power, successful energy limits, and experiences with primordial-matter energies.
+- conflicts/notes: ABC's successful restraint does not establish arrogance as its cause; its energy terminology is not explained further.
+
+## Contradictions
+
+The entries emphasize different expressions of influence and power. Witte's moral warning and ABC's effective restrictions are retained without an invented causal link.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Vulcanus`: powerful self-assurance and the sense that enough has been achieved to rest secure. Main caution: pride before collapse: stable satisfaction can turn into complacent force that no longer respects limits or changing conditions.
+In `Apollon/Admetos = Vulcanus`, Vulcanus specifies the pair through power and its limits, with different emphases in the entries. The [Witte entry](#witte-entry) warns of arrogance and presumption through the saying that pride precedes a fall. The [ABC entry](#abc-entry) instead names scientific thoroughness as a means of influence, experiences of power, and successful restriction of energy or violence. Both ranges remain visible; the page does not turn effective restraint into proof of pride.
 
 ## Links
 

@@ -1,0 +1,665 @@
+{
+  "scope": "All20 original/current Vernal Point/Hades source sections and owning full-page records independently read. Actual Witte49 and ABC22 scans personally viewed per exact activator glyph and full paragraph. Fourteen complete ABC replacement rows verified clause by clause; six locator-only additions kept distinct, with two inherited artifact limits. No sampled approval.",
+  "proof": [
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-admetos.md",
+      "before_sha256": "d52e8327e3e3e58c448215a85061f9887412a83642262bc7c8e057548efb99ee",
+      "after_sha256": "ba800f59046f73a321fe6f5c06de0df5a66532b0a6258e1e9dcf9b011f9b4dd9",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 38,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nLack of raw material. Junk materials and waste.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nRestrictions and deprivations in public, difficult public circulation, dangerous public strike, thoroughgoing shortage in public life, public deepening into the past, and suppression of criminality in public life",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Limitations and deprivations in the public sphere, difficult public circulation, dangerous strike in the public sphere, grim lack in the public life, public deepening in the past, and lowering criminality in the public life\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Restrictions and deprivations in public, difficult public circulation, dangerous public strike, thoroughgoing shortage in public life, public deepening into the past, and suppression of criminality in public life",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Limitations and deprivations in the public sphere, difficult public circulation, dangerous strike in the public sphere, grim lack in the public life, public deepening in the past, and lowering criminality in the public life Corrected: Restrictions and deprivations in public, difficult public circulation, dangerous public strike, thoroughgoing shortage in public life, public deepening into the past, and suppression of criminality in public life"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-admetos.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-admetos.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-admetos.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-apollon.md",
+      "before_sha256": "941a624f4c44cbe2a6811d9cd51ce1607158a78548093464acd334bb7f50a891",
+      "after_sha256": "3182aca13dabd790602e58dcdbcc3461192d18045c7705b4bf68329a91561217",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 39,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nWidespread poverty. Far expanded coal fields. Coal-trading.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nExperiences in public service, past successes in public, lack of success in public life, lack of freedom in public, economic criminality in public life, and increasing public danger",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Public experience Service, success of the past in the public, successDeficit in the public life, lack of freedom in the public, economic crime in the public life, and increasing public danger\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Experiences in public service, past successes in public, lack of success in public life, lack of freedom in public, economic criminality in public life, and increasing public danger",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Public experience Service, success of the past in the public, successDeficit in the public life, lack of freedom in the public, economic crime in the public life, and increasing public danger Corrected: Experiences in public service, past successes in public, lack of success in public life, lack of freedom in public, economic criminality in public life, and increasing public danger"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-apollon.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-apollon.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-apollon.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-asc.md",
+      "before_sha256": "04f05c3dd5dc7e1eaa12d80234af3de3ee17c357eba51c659064aba80f19b716",
+      "after_sha256": "710b1381eb3880d015a8699079a6fab7bc7abc4068ef946f43157b0f3d5a3f40",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 40,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nTo be impoverished by the general public. To be a physician of the general health system.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nDeficiencies in the public surroundings, danger in the public environment, public environmental service, public renunciation of a partner, public place of tradition, environmental criminality in public, and polluted public surroundings",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+Deficiencies in the public surroundings, danger in the public environment, public environmental service, public renunciation of a partner, public place of tradition, environmental criminality in public, and polluted public surroundings",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • Corrected: Deficiencies in the public surroundings, danger in the public environment, public environmental service, public renunciation of a partner, public place of tradition, environmental criminality in public, and polluted public surroundings"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-asc.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-asc.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-asc.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-cupido.md",
+      "before_sha256": "f002ed53cfb398286bb7ff87e23cacd62b3bddeb50ca48616fbf561e05e9b1bd",
+      "after_sha256": "b0ed9ec485d710eab90f61176757bf0bab6f296ac37443ddde20d0a65235537b",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 41,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nMiserable marriage conditions. Historical art in the general public. General lowbrow art.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nDanger to the whole in public, criminal community in public, art of the past in public, traditional community in public, and art hidden from the public",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Danger to the whole in public, criminal community in public, art of the past in public, traditional community in public, and art hidden from the public",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Danger to the whole in the public, in the private community, in the past in the public sphere, in the traditional community in the public sphere, and in the private sphere hidden from the public sphere Corrected: Danger to the whole in public, criminal community in public, art of the past in public, traditional community in public, and art hidden from the public"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-cupido.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-cupido.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-cupido.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 5
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-jupiter.md",
+      "before_sha256": "5e6b58d1266664d2cfafb014c35218b1fb763dad592f235b8bd988ef9410447c",
+      "after_sha256": "6f365bd62d0a62d7401e14cedd0a4ac70c5908efe86b8a8147190c1d96d34564",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 42,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nTropical fevers. Liver complaints. Loss of money due to disasters. Dirty or secret financial transactions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nSuccessful past in public life, financial crime in public ' joy in public service, danger to public finance, money shortage in public, criminal successes in public, and disadvantages by public law",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n Successful past in public life, financial crime in public ' joy in public service, danger to public finance, money shortage in public, criminal successes in public, and disadvantages by public law",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-jupiter.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-jupiter.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-kronos.md",
+      "before_sha256": "ffc2eab4e08d9e133571f8644fe2a404d597be5e19aff44f992a1387dffe9997",
+      "after_sha256": "eca4909486fb885c745c790e8b33c63f6e1a239ecdf559b66f34a4ac05a08fe8",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 43,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nGreat general want. Great depression. General worries through leading forces. Coal mining.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nLack of public authority, deficiencies of public agencies in public life, great public danger, public disadvantage through the state, independent public service, state criminality in public, and important public renunciation",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Authoritat's deficiency in the public, authorities's deficiency in the public life, great danger in the public, public disadvantages by the state, self evident public service, state criminality in the public, and important public renunciation\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Lack of public authority, deficiencies of public agencies in public life, great public danger, public disadvantage through the state, independent public service, state criminality in public, and important public renunciation",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Authoritat's deficiency in the public, authorities's deficiency in the public life, great danger in the public, public disadvantages by the state, self evident public service, state criminality in the public, and important public renunciation Corrected: Lack of public authority, deficiencies of public agencies in public life, great public danger, public disadvantage through the state, independent public service, state criminality in public, and important public renunciation"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-kronos.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-kronos.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-kronos.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-mars.md",
+      "before_sha256": "eb93a25a1761da10f36031ecb934f235b72d4db0677ea23f9bc98849a833f658",
+      "after_sha256": "e5edc01ac7e1e2c1b54623c6af534798a08eb63881fd7bb88be0f081230c950e",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 44,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nWork scarcity. Faulty, vulgar actions. Carelessness. Brutalities. To work in the general health system. *\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nWork crime in public life, lack in public life, dangerous acts in public, criminal activity in public, dirty work in public, and hidden work in public",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n Work crime in public life, lack in public life, dangerous acts in public, criminal activity in public, dirty work in public, and hidden work in public",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [
+        "Witte PDF49 entry retains a trailing asterisk whose referent is not established here. Source text preserved; no extra meaning inferred."
+      ],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mars.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mars.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-mc.md",
+      "before_sha256": "621ab09ba6fd7bbd9661eaabd97a0ccc9d343d9790fbf6e316e6745d02f0b4d7",
+      "after_sha256": "214dc6442ce6c1aa5aba5bd19bebfb191a31c2f42d48585aaa1e5c95e3591db9",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 45,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nTo be influenced, personally or in ones own profession, by general poverty or sad things. A service oriented profession.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nMy service in public, my lack in public, my renunciation of publicity, my disadvantage in public, my public past, and inner danger in public",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-My service in the public sphere, my lack in the public sphere, my renunciation of the frequentity, my deprivation in the public sphere, my public past, and my spiritual experience in the public sphere\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+My service in public, my lack in public, my renunciation of publicity, my disadvantage in public, my public past, and inner danger in public",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: My service in the public sphere, my lack in the public sphere, my renunciation of the frequentity, my deprivation in the public sphere, my public past, and my spiritual experience in the public sphere Corrected: My service in public, my lack in public, my renunciation of publicity, my disadvantage in public, my public past, and inner danger in public"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mc.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mc.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-mc.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-mercury.md",
+      "before_sha256": "a841c822b75d0adc2e850e53f66f97140aa2bc95fd6776626877d22f0b2bd83c",
+      "after_sha256": "143cd8a5ea7e79388a1ef624170afc26edc0020aaa983c331f1d7ce39fcd4678",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 46,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nVulgar thinking by the general public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nReports of public deficiencies, conversations about public deprivations, youth criminality in public life, public danger reporting, public opinions from the past, and public transport service",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Reports about public lack, language ilber deprivations in public, youthcriminality in public life, public danger reporting, public opinion from the past, and transport service in public\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+Reports of public deficiencies, conversations about public deprivations, youth criminality in public life, public danger reporting, public opinions from the past, and public transport service",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Reports about public lack, language ilber deprivations in public, youthcriminality in public life, public danger reporting, public opinion from the past, and transport service in public Corrected: Reports of public deficiencies, conversations about public deprivations, youth criminality in public life, public danger reporting, public opinions from the past, and public transport service"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mercury.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-mercury.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-mercury.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-moon.md",
+      "before_sha256": "fc4be7fcbdde90ad3b8848bb871afcbd3cd9c164301838d0f0821c7e0b2b1c50",
+      "after_sha256": "422dab695542a94685003375dc5e34c50937039a22dba95314bb6f5315a6759a",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 47,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nDepressed mind. Poor, base people or women. Miners. Losses of the people. Pessimistic emotions or feelings.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nDifficult public service, danger to women in public, lack of feeling in public life, distress of mothers in the world, distress of a people in the world, a time of public danger, and female criminality in public life",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Difficult public service, danger to women in public, deficiency in public life, need of the mother of this world, need of a people in this world, hour public danger, and female crime in public life\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+Difficult public service, danger to women in public, lack of feeling in public life, distress of mothers in the world, distress of a people in the world, a time of public danger, and female criminality in public life",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Difficult public service, danger to women in public, deficiency in public life, need of the mother of this world, need of a people in this world, hour public danger, and female crime in public life Corrected: Difficult public service, danger to women in public, lack of feeling in public life, distress of mothers in the world, distress of a people in the world, a time of public danger, and female criminality in public life"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-moon.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-moon.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-moon.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-neptune.md",
+      "before_sha256": "0baa1f8cfad421339068f484b23ade6984de199306453b6bd725a93e50543b46",
+      "after_sha256": "880f7368b069aa7564be49519e65b97a2e9df095a5bf872d06cdd1823332be0d",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 48,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nSerious, fatal or unknown diseases.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nAir pollution in public, water shortage in public, creeping disadvantages in public life, insecurity in public life through criminality, and hidden disappointment in public life",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Air pollution in public, water shortage in public, creeping disadvantages in public life, and insecurity in public life by criminality hidden exchange in public life\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Air pollution in public, water shortage in public, creeping disadvantages in public life, insecurity in public life through criminality, and hidden disappointment in public life",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Air pollution in public, water shortage in public, creeping disadvantages in public life, and insecurity in public life by criminality hidden exchange in public life Corrected: Air pollution in public, water shortage in public, creeping disadvantages in public life, insecurity in public life through criminality, and hidden disappointment in public life"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-neptune.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-neptune.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-neptune.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 5
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-node.md",
+      "before_sha256": "233dab099b4dd44b7e7d1bdbb64671f585a154c72cbe66b021b6d2627231e721",
+      "after_sha256": "8c5d5b1e71523381bbba35d02c3baa18e6183f1d718094301e2095f8bd57a997",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 49,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nTo be in touch with poor people. Inmates of a poor house.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nLack of public relations, adverse public contacts, associated with dirt in the public, hidden public contacts, connection with criminality in the public life, and connection to the public service",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n Lack of public relations, adverse public contacts, associated with dirt in the public, hidden public contacts, connection with criminality in the public life, and connection to the public service",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-node.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-node.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-pluto.md",
+      "before_sha256": "170e12e3d6aaa2971bb067603ecda65d8c79bf887330c504e85112dcac856d2f",
+      "after_sha256": "3c92e191b67d80b259623883b3015b02a8356b734085a59f8c19922953de2b38",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 50,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nIncreasing poverty and misfortune or change from bad to good. Increase or decrease of coal production.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nDevelopments for the public from the past, dangerous developments in the public life, hidden changes in the public life, growing crime in the public life, and growing public danger",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n Developments for the public from the past, dangerous developments in the public life, hidden changes in the public life, growing crime in the public life, and growing public danger",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-pluto.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-pluto.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-poseidon.md",
+      "before_sha256": "da1a0fe69872ae3744065e186172c5155b5b8ca11a21ca26244c5f5052152223",
+      "after_sha256": "568c8aa97b8dd9da7f03dbdb81ffcff26296be12b2d35316dbb56952dd6e7085",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 51,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nLack of public education. Mental poverty. Ignorance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nDangerous findings in public, mental pollution of public life, lack of ideas in public, clarity about public criminality, cultural crime in public, and lack of culture in public",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n Dangerous findings in public, mental pollution of public life, lack of ideas in public, clarity about public criminality, cultural crime in public, and lack of culture in public",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-poseidon.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-poseidon.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-saturn.md",
+      "before_sha256": "460db6c5372c906154bc7cb803ad57fa8de046c34032ec9e0d11f6719a7edd10",
+      "after_sha256": "b8b4af0c1ed18e4c5666847b1f7f2654073a545f1c82095918667a2f242118b1",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 52,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nPoor pitied humans. Refugees. Strangers. Decay. Unidentifiable after death. Putrefaction. Falling into oblivion.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nTasks in public service, burdensome deficiencies in public life, adverse public problems, hidden losses in public life, losses through public criminality, and losses through a polluted public sphere",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, public losses Crime, and losses by polluted public\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Tasks in public service, burdensome deficiencies in public life, adverse public problems, hidden losses in public life, losses through public criminality, and losses through a polluted public sphere",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Public tasks Service, burdensome lack of public life, adverse public problems, hidden public losses Life, public losses Crime, and losses by polluted public Corrected: Tasks in public service, burdensome deficiencies in public life, adverse public problems, hidden losses in public life, losses through public criminality, and losses through a polluted public sphere"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-saturn.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-saturn.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-saturn.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-sun.md",
+      "before_sha256": "a838c97d713c1352498c2f6ca7663489a6adfb8b3ef7f43a1d323e21a551e307",
+      "after_sha256": "57a441f6f1bb7745131282f1761bcf6af2cad939d2f8e7dddb2ac9c477afea9a",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 53,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nTo be impoverished because of the general existing conditions. Catastrophes. The miner. Connected with miners and coal mines.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nCriminal center in public, criminal persons in public, harm to persons in public, personal deprivations in public, people hidden from the public, and a center for public service",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Crimes centre in public, criminal persons in public, personal deprivations in public, people hidden from the public, and centre for public service\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+Criminal center in public, criminal persons in public, harm to persons in public, personal deprivations in public, people hidden from the public, and a center for public service",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Crimes centre in public, criminal persons in public, personal deprivations in public, people hidden from the public, and centre for public service Corrected: Criminal center in public, criminal persons in public, harm to persons in public, personal deprivations in public, people hidden from the public, and a center for public service"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-sun.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-sun.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-sun.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-uranus.md",
+      "before_sha256": "3629decada87d980306d6ff48cbe2652302a5a5aada41bad24f7a21c469c522f",
+      "after_sha256": "d84a4fd8469103570e6647bfc2acfbba859e4a5b0ef5997b5c8ccc510f1eca85",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 54,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nNegligence resulting in loss of life.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nDangerous public tensions, a dangerous public event, disadvantageous public reforms, new disadvantages in public life, hidden public unrest, and technical deficiencies in public",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Dangerous public tensions, dangerous public problems, public problems, and technical deficiencies in public life\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Dangerous public tensions, a dangerous public event, disadvantageous public reforms, new disadvantages in public life, hidden public unrest, and technical deficiencies in public",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Dangerous public tensions, dangerous public problems, public problems, and technical deficiencies in public life Corrected: Dangerous public tensions, a dangerous public event, disadvantageous public reforms, new disadvantages in public life, hidden public unrest, and technical deficiencies in public"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-uranus.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-uranus.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-uranus.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-venus.md",
+      "before_sha256": "50ae552d64379d60960a3f21e9e1625a592a0fa857247d63a87306da8076fc29",
+      "after_sha256": "832176d795adf39909e64bb777cb446e9d6fdabef5df528abda4e7d203893eb9",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 55,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nSad events for females. Vulgar love in general.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 46; PDF page: 22 (one-based spread).\n\nDanger to public peace, joy in public traditions, lack of public harmony, art of the past in public, art criminality in public life, public service in love, and public renunciation of peace",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Danger to the public Peace, joy in traditions in the public Harmony'.. Lack in the public, art of the past in the public, art crime in the public Life, Public Love Service, and Public Peace Refusal\n+- Source page: 46; PDF page: 22 (one-based spread).\n+\n+Danger to public peace, joy in public traditions, lack of public harmony, art of the past in public, art criminality in public life, public service in love, and public renunciation of peace",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Danger to the public Peace, joy in traditions in the public Harmony'.. Lack in the public, art of the past in the public, art crime in the public Life, Public Love Service, and Public Peace Refusal Corrected: Danger to public peace, joy in public traditions, lack of public harmony, art of the past in public, art criminality in public life, public service in love, and public renunciation of peace"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-venus.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-venus.md#abc-entry",
+          "reference": "- Source page: 46; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-venus.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-vulcanus.md",
+      "before_sha256": "f3086c108cb0dbb2ee08a890c0d2ab2a8da2b7a9dcd7812266ea45c2eee51b85",
+      "after_sha256": "f87c1d00a5eb5aed52d5d2d78e909e3cac234fbf3b5ee59e86ecfc93a42af3be",
+      "ledger": "activations-094.jsonl",
+      "ledger_line": 1,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nUgliness. Dangerous plagues. Capital crimes.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nEnergy shortage in public, huge disadvantages in public, violence crime in public life, grief by public violence, power of public service, lack of public influence, and hidden public power",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n Energy shortage in public, huge disadvantages in public, violence crime in public life, grief by public violence, power of public service, lack of public influence, and hidden public power",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-vulcanus.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-vulcanus.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "locator_delta_only"
+    },
+    {
+      "path": "wiki/activations/vernal-point-hades-equals-zeus.md",
+      "before_sha256": "1ce5ae52560f7ab9d91439c7a2cb649aaa5b2b54ccba3a237e552155dcdbb874",
+      "after_sha256": "14bb7d057fdbff586bc7415d115246b225eccd6e6e7054a35dedbe29867f3e5e",
+      "ledger": "activations-094.jsonl",
+      "ledger_line": 2,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 49 (one-based).\n\nCoal fire (serviceable). Incinerators, crematoriums. Unemployment.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 47; PDF page: 22 (one-based spread).\n\nFire danger in public, lack of leadership in public life, criminal leadership in public life, lack of performance in public, public leadership service, striving for tradition in public, and concealed public leadership",
+      "delta": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- PDF page: 49 (one-based).\n \n@@ -10,2 +12,4 @@\n\n \n-Fire danger in public, filthy deficit in public life, criminal deficit in public life, performance deficit in public, public deficit service, tradition disputes in public, and hidden public movement\n+- Source page: 47; PDF page: 22 (one-based spread).\n+\n+Fire danger in public, lack of leadership in public life, criminal leadership in public life, lack of performance in public, public leadership service, striving for tradition in public, and concealed public leadership",
+      "owner_source_repairs": null,
+      "owner_changes": [
+        "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+        "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+        "Scan-backed ABC repair. Original: Fire danger in public, filthy deficit in public life, criminal deficit in public life, performance deficit in public, public deficit service, tradition disputes in public, and hidden public movement Corrected: Fire danger in public, lack of leadership in public life, criminal leadership in public life, lack of performance in public, public leadership service, striving for tradition in public, and concealed public leadership"
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "owner_evidence": [
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-zeus.md#witte-entry",
+          "reference": "- PDF page: 49 (one-based)."
+        },
+        {
+          "passage": "wiki/activations/vernal-point-hades-equals-zeus.md#abc-entry",
+          "reference": "- Source page: 47; PDF page: 22 (one-based spread)."
+        },
+        {
+          "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-093-abc-pdf-22.png",
+          "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+          "passage": "wiki/activations/vernal-point-hades-equals-zeus.md#abc-entry"
+        }
+      ],
+      "decision": "accepted",
+      "verification_scope": "all_changed_source_blocks",
+      "abc_clauses_verified": 7
+    }
+  ]
+}

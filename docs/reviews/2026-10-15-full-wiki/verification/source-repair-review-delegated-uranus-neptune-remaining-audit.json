@@ -1,0 +1,77 @@
+{
+  "status": "COMPLETE",
+  "reviewer": "/root/activation_review_089_103",
+  "expected": 173,
+  "accepted": 173,
+  "held": 0,
+  "unreviewed": 0,
+  "all_hashes_rechecked": true,
+  "checked_at": "2026-10-15T14:44:49.131476+00:00",
+  "source_sections_fully_read": 173,
+  "source_blocks_fully_read": {
+    "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures": 169,
+    "Udo Rudolph - ABC for Planetary Pictures": 169,
+    "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints": 24,
+    "Reinhold Ebertin - The Combination of Stellar Influences": 22,
+    "Michael Munkasey - Midpoints: Unleashing the Power of the Planets": 24
+  },
+  "source_hashes_checked": 346,
+  "unique_owning_records_checked": 173,
+  "full_record_digests_rechecked": 173,
+  "strict_seven_field_schema": true,
+  "exact_candidate_universe": true,
+  "proof_files": 33,
+  "full_raw_page_scans": 28,
+  "detail_scans": 5,
+  "source_hash_rebindings_after_owner_repairs": [
+    "wiki/activations/uranus-asc-equals-moon.md",
+    "wiki/activations/neptune-poseidon-equals-vernal-point.md"
+  ],
+  "ledger_binding_counts": {
+    "activations-079.jsonl": 7,
+    "activations-080.jsonl": 54,
+    "activations-051.jsonl": 29,
+    "activations-052.jsonl": 23,
+    "activations-053.jsonl": 8,
+    "activations-054.jsonl": 52
+  },
+  "ledger_file_sha256": {
+    "activations-051.jsonl": "6e20164f3092ef46ea6de6543b131afe2921cb1a0b9b4cdf6a6adf15d45cf477",
+    "activations-052.jsonl": "9d1b80d266a9671c13e882c4a5ec9996163a12723afb75abc6e9fea742a345af",
+    "activations-053.jsonl": "e2eb624f5d89139c5e8f9286b222f32ac6df29bb9614c102443b9b1dd4d939ac",
+    "activations-054.jsonl": "bf07bcda925c8fe67d63b10516f008c642e3fad67de3c21812664664800b941e",
+    "activations-079.jsonl": "ad0871ea42c7fbf9048cefa792993c9588c1adeb510049f07242d56fc9088332",
+    "activations-080.jsonl": "a40d8627ca3f473feeb34b41ff8e2c294a6820bb0a8ffebf932648580d007679"
+  },
+  "candidate_file_sha256": "219cd6530152c71b493b9ec5657056afb45dd9c245bbbd9414210d2ef47d3e3e",
+  "approval_bank_sha256": "6dc388ee41b3db8d992695d257fd0ab1fd5f0c123e2a91b15b40ff761106e461",
+  "source_hash_pairs_sha256": "ff8b6029486f357569bd1cf816cd948e393cf76a1020f532b08f0d5338813645",
+  "current_record_bindings_sha256": "17c3f4758852e65111271c1514356503e812c0e88b01b43c5642b4751949b786",
+  "proof_files_sha256": "aba9d9311319402654640d71af67db4aa76c34750377a9699fd2dab2f7ef135a",
+  "errors": [],
+  "resolved_holds": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-moon.md",
+      "ledger": "activations-080.jsonl",
+      "observed_after_sha256": "a5226f5fb2e054f684c1b8fd6ee02751fa77888cfae2e4530947c21c88d0812f",
+      "reason": "Ebertin0976 raw PDF277/printed275 omits to in 'The soul’s response the environmental stimuli'. Current supplied to is falsely claimed scan-restored; routed owner079083 for exact printed wording or explicit editorial normalization and record correction.",
+      "evidence": [
+        "source-repair-review-uranus-neptune-remaining-ebertin-pdf277.png",
+        "source-repair-review-uranus-neptune-remaining-ebertin-pdf277-moon-detail.png"
+      ],
+      "resolution": "Owner restored printed no-to wording and amended original080 record/proof. Independent full before/current section and amended full record reread; fresh exact hash accepted after raw277 detail confirmation."
+    },
+    {
+      "path": "wiki/activations/neptune-poseidon-equals-vernal-point.md",
+      "ledger": "activations-054.jsonl",
+      "observed_after_sha256": "36b0a2c73bbb43dad03aecb2e0c3a708d413be7a4034d81ee136cc6273cfa644",
+      "reason": "ABC202/printed406 actually prints singular öffentliche Wahrheit über Metaphysik; current public truths and original054 raw_confirmation öffentliche Wahrheiten wrongly pluralize it. Full4x source detail confirms. Routed root for owner045066 narrow correction and original-record amendment.",
+      "evidence": [
+        "source-repair-review-uranus-neptune-remaining-abc-pdf202.png",
+        "source-repair-review-uranus-neptune-remaining-abc-pdf202-vernal-detail.png"
+      ],
+      "resolution": "Owner045066 corrected actual singular truth/Wahrheit in canonical source and original054 repaired/raw-confirmation fields. Independent full before/current source and full amended record reread against actual202 detail; fresh exact hash accepted."
+    }
+  ],
+  "held_records": []
+}

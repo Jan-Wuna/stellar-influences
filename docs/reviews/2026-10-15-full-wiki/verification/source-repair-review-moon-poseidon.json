@@ -1,0 +1,168 @@
+{
+  "scope": "All twenty changed sections read individually against Witte PDF138 and ABC printed206–207/PDF102 actual scans; full English paragraph raw matches retained per record.",
+  "checks": [
+    {
+      "path": "wiki/activations/moon-poseidon-equals-admetos.md",
+      "before_sha256": "8adf4bbbe92082679dcde6570c052247cddcb27a77a5779bb78d4633a3077e69",
+      "after_sha256": "fc9e534ee34da56361c030fa285ea9ba83d2a7ecc4b3bab27cb3c14582dbf554",
+      "witte_entry": "To go to the bottom with the help of tact and fine delicate feeling. Journalist.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-apollon.md",
+      "before_sha256": "d29b9f506bb01d8040f4d4f727ca72a9f328c4c922768359e7f2aa378707913d",
+      "after_sha256": "1cd4661c08ee45daf1189a56766be65612ffe1237b9aecda69fc9623562a995a",
+      "witte_entry": "Congeniality in higher spiritual thinking. Sense or flair for new sciences. Feeling ones way into new fields of knowledge.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-asc.md",
+      "before_sha256": "54d102d707d04059c6fa67fae74ebaaab7b1ad5d31b32f3f1a13529c20d0ee4d",
+      "after_sha256": "22433f955839a6c20266f8518149cb5818b438c3f020ca4654021e5bb33b2ddb",
+      "witte_entry": "To influence others mentally. Relations to people who are susceptible to mental and spiritual things.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-cupido.md",
+      "before_sha256": "855e0d08b031d2552b97245427596de032f2fa17956ae1b3546788f6f9c7b92a",
+      "after_sha256": "82666677df75c510647a2c3e00facaf3eb0fca3664594d7035a2537f61d6df2c",
+      "witte_entry": "Spiritual community. To be a member of a spiritual community. The audience.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true,
+      "abc_entry": "woman for art and culture, spirit of a people's community, community of ideas of a people, clarity of an emotional community, cultural women's community, hour of truth for of a community, and reasonable women of a community"
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-hades.md",
+      "before_sha256": "ce66065fe6b62bdb31cc26a1f6f43df0625b9dd195f477136873aba0a7ea8743",
+      "after_sha256": "b0e8a1082932f23973f1c07c6f9c233ef5f4b2697d30e081b3a85b76ce805ed8",
+      "witte_entry": "Insensible of finer, high spiritual things. Lack of empathy. Men who are unable to perceive or conceive spiritual things.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-jupiter.md",
+      "before_sha256": "b7464a482713561aec9033021e5670494a26df541dc320d7f75ff01a0f7864e0",
+      "after_sha256": "7f099345991d8a606fa58b68b861437f624b34dc4460c7b548aa0b19b5d38515",
+      "witte_entry": "Fortunate inspiration. Correct leadership by instinct.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-kronos.md",
+      "before_sha256": "81f7a306f755aa72eb31f4e2519e3d705822fa69320098a144a4a937be0f24f8",
+      "after_sha256": "969ed9925e0392df7408354477c256e03d3d98e0e607707951f062feea84fe69",
+      "witte_entry": "Mentally highly attuned, to associate with such people. A major Tsunami.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-mars.md",
+      "before_sha256": "247cb33b4e9a782541856a46b7ea30c26d7861cd8b017757505212c132e75b50",
+      "after_sha256": "79171f4e5a907bf0326fbfd46d3167ef579ea139eda71d38ab441451677df4f4",
+      "witte_entry": "High intellectual activity. To follow unconsciously inspired guidance in one’s intellectual activity. To act on instinct. To battle for spiritual things. Activity in field of occultism.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-mc.md",
+      "before_sha256": "089d80e6e1ab2d299f4ba29e70c0a0ac51f3f5fc1f1eed025bade07026165fe1",
+      "after_sha256": "03db3f3d2085abf47071571234077b316bc084a9289d2e9ad6936e82334ce376",
+      "witte_entry": "Mentally prepared. Susceptible to spiritual things. To be influenced by spiritualized people.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-mercury.md",
+      "before_sha256": "2755ea669e889d03fc4bd3301a62de411a696cb75e2fc9b914db3c4f4b61f100",
+      "after_sha256": "e6e95ce19160ea307af15ddfddceffefebf5ac7392f9a0f2b12fba0014c1f1cd",
+      "witte_entry": "Conversations with people who are mentally inspired. Receptive of ideas. Born graphologist. Media who speak or write.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-neptune.md",
+      "before_sha256": "83bf88697e410ac81783c7e7c1ac9bcfd419998fb39b045c118014ce625baacd",
+      "after_sha256": "356da3a418ea94f76aa9a782d4e6490c0ba00b5ddd4156bd205ad837db26a80b",
+      "witte_entry": "Highly attuned. Delicacy of feeling. Intuition, instinct, flair. A very fine and highly sensitive ability to find the way.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true,
+      "abc_entry": "disappointment through a spiritual woman, weakness of insight of a woman, sensitivity of an insightful woman, foreign spirit in the people, ideas for the future of a people, culture of a foreign people, weak spirit of a woman, and deceptive emotional influence"
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-node.md",
+      "before_sha256": "354d4eedc75dd526083f9c01d56938ed722e1d22d5ba1890c95e1f8d1c1bc92a",
+      "after_sha256": "b3fec69f3453e40ec58284f865ec7a64f4188c1418a814b81a1d90dcef7ad351",
+      "witte_entry": "To be in contact with receptive people.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-pluto.md",
+      "before_sha256": "781b0dcc4752978f8cdf280f437bde5685b0127108b8a4082c244a3db8216d76",
+      "after_sha256": "7b07419584c9a422129266ec840aa75fa32b7ac78251734b39fce57e0061cb63",
+      "witte_entry": "To see and recognize new mental or spiritual development. Transformation of the state of mind.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true,
+      "abc_entry": "development of a cultivated woman, spiritual changes in a people, spiritual growth of a woman, emotional change through ideas, change of ideas of a woman, cultural development of a woman, and growing insight of a woman"
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-saturn.md",
+      "before_sha256": "647a3e5c982933fb59d2cbd076277f5579fc909ed6ea0706ef2992d0a50e0bdc",
+      "after_sha256": "82c90a1bb0eb34e6294c399cdf5b30409bdd26045c074c585bde6ecd92d9e2ac",
+      "witte_entry": "Mentally or spiritually no contact, no instinctive ability. To face refusal or misunderstanding mentally or spiritually.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-sun.md",
+      "before_sha256": "c55d31f050aaee426964f0c65cd4605fcce3ab65bc84017192cff35e023c4b6b",
+      "after_sha256": "47eb1a15b69950544dd3ab533034486a89e49b54181b192e8ba0423bb1ae9790",
+      "witte_entry": "The daily repeating hours of susceptibility. To be in company with such people.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-uranus.md",
+      "before_sha256": "12968de90e147fb9100aacace95e5dbb36515768b8c0f0ea5ca31cd11c7c2259",
+      "after_sha256": "5621828aa7151d55003fcb3f37a6fef55f7a1bc66950049a65e88c1448d8a728",
+      "witte_entry": "To be exposed to new, unknown mental or spiritual influences. Suddenly to see through something, understand if and know it. To get sudden mental or spiritual contact. Capable of empathy for new and revolutionary perceptions.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-venus.md",
+      "before_sha256": "79ec0913c7c7680fc7ea467dc27c8802e03297fd2c627032afb28db57c7d0362",
+      "after_sha256": "2a5089e371228e616ef54ac2b710201547c0decdffc0ce5c2a73b97f1cc1b167",
+      "witte_entry": "Highly sensitive women. Female persons with inclination to occultism.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-vernal-point.md",
+      "before_sha256": "556c61a3e4dc3aa83d66643621aa1eb1f019283f0775f16698d30835352be75c",
+      "after_sha256": "90f5d0fca2e32f0332510292538a79a2ec7201da8475f36ddd917d539c3af847",
+      "witte_entry": "Spiritualized men. Media.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-vulcanus.md",
+      "before_sha256": "414778dd9922b25fe12fd4c3768345f05cce3c870744f78e8e51e9e725732bc2",
+      "after_sha256": "3c7cdf9886b45ff62faa416c60dfa96c94edb959a6d8ab2de4dbbeefa5ee499f",
+      "witte_entry": "Great sensitivity for men and things.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    },
+    {
+      "path": "wiki/activations/moon-poseidon-equals-zeus.md",
+      "before_sha256": "096c0d75f41b25c04d15fa025e68447622870d3bee691ac69d72478ca0b58869",
+      "after_sha256": "120332019442689e6d9b79cf9b5e17e3719c60e43963896417302c23607b8fba",
+      "witte_entry": "Creative mental accomplishments. To mentally force circumstances.",
+      "raw_page_text_sha256": "f53531d6eefac9fe98a8a910bff7a4daf9e6226c0ecccf771b1ef6deb74c3a7b",
+      "full_text_match": true
+    }
+  ]
+}

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Mercury Admetos`
 - Astronomicon triad-set: `S T ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mercury/Admetos = Sun](../activations/mercury-admetos-equals-sun.md)
-- [Sun/Admetos = Mercury](../activations/sun-admetos-equals-mercury.md)
-- [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mercury/Admetos = Sun](../activations/mercury-admetos-equals-sun.md) | [Mercury/Admetos](../axes/mercury-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Mercury](../activations/sun-admetos-equals-mercury.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Mercury](../factors/mercury.md) |
+| [Sun/Mercury = Admetos](../activations/sun-mercury-equals-admetos.md) | [Sun/Mercury](../axes/sun-mercury.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Mercury/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `264`
-- `Sun/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Mercury = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `103`
-- `Sun/Mercury = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `143`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Mercury/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mercury-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `171`.
+- `Mercury/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mercury-admetos-equals-sun.md#abc-entry), printed p. `264`.
+- `Sun/Admetos = Mercury`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-mercury.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Mercury`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-mercury.md#abc-entry), printed p. `168`.
+- `Sun/Mercury = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mercury-equals-admetos.md#witte-entry), one-based PDF entry-start p. `103`.
+- `Sun/Mercury = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mercury-equals-admetos.md#abc-entry), printed p. `143`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Sun`: embodies the axis in bodily stillness, low motion, and office-like routine.
-- `Sun/Admetos = Mercury`: This formula emphasizes depressed thinking and the mind and thoughts are busy with the soil.
-- `Sun/Mercury = Admetos`: This formula emphasizes depressed thinking and practical thought tied to the ground or the concrete.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

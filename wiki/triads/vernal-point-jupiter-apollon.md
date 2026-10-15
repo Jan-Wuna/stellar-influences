@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Jupiter Apollon`
 - Astronomicon triad-set: `VP V ¥`
 
+This hub groups an unordered factor set for navigation. The [orientation map](#orientation-map) identifies the three distinct formulas; read each interpretation on its linked activation page.
+
 ## Orientation Map
 
-- [Jupiter/Apollon = Vernal Point](../activations/jupiter-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Jupiter](../activations/vernal-point-apollon-equals-jupiter.md)
-- [Vernal Point/Jupiter = Apollon](../activations/vernal-point-jupiter-equals-apollon.md)
+| Base pair | Activating factor | Activation page |
+| --- | --- | --- |
+| [Jupiter/Apollon](../axes/jupiter-apollon.md) | `Vernal Point` | [Jupiter/Apollon = Vernal Point](../activations/jupiter-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | `Jupiter` | [Vernal Point/Apollon = Jupiter](../activations/vernal-point-apollon-equals-jupiter.md) |
+| [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md) | `Apollon` | [Vernal Point/Jupiter = Apollon](../activations/vernal-point-jupiter-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Jupiter/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `215`
-- `Jupiter/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `340`
-- `Vernal Point/Apollon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `52`
-- `Vernal Point/Jupiter = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `43`
-- `Vernal Point/Jupiter = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `35`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Jupiter/Apollon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-apollon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `215`.
+- `Jupiter/Apollon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-apollon-equals-vernal-point.md#abc-entry), printed p. `340`.
+- `Vernal Point/Apollon = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-apollon-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `52`.
+- `Vernal Point/Apollon = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-apollon-equals-jupiter.md#abc-entry), printed p. `52`.
+- `Vernal Point/Jupiter = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-jupiter-equals-apollon.md#witte-entry), one-based PDF entry-start p. `43`.
+- `Vernal Point/Jupiter = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-jupiter-equals-apollon.md#abc-entry), printed p. `35`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Apollon = Vernal Point`: happiness with many and expansion of good fortune in general.
-- `Vernal Point/Apollon = Jupiter`: This formula emphasizes several fortunate happenings at the same time, extensive fortune, science of money, large amounts of money, and great financial institutions.
-- `Vernal Point/Jupiter = Apollon`: This formula emphasizes luck and increase in commerce and industry, expanded fortune, and fortunate crowds.
+Use the orientation whose base pair and activating factor match the requested formula. `Jupiter/Apollon = Vernal Point` activates `Jupiter/Apollon` with `Vernal Point`; it is distinct from `Vernal Point/Apollon = Jupiter` and `Vernal Point/Jupiter = Apollon`. The activation links supply their separate interpretations, while the axis links supply pair context. This hub does not merge those interpretations.
+
+## Contradictions Across Orientations
+
+No identity conflict was found between the listed formulas and their linked activation metadata. This structural check does not establish agreement between source interpretations. Changing the base pair and activator produces a different formula, so differences between these orientations are not by themselves contradictions.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Node`
 - Astronomicon formula: `X/g = g`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -41,22 +43,21 @@ Realizing the importance the opinions of others can play in helping you formulat
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Other people's opinions helping reshape work and presentation. ([Munkasey entry](#munkasey-entry).)
+- psychology: Receptiveness to feedback and a wish for support. ([Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical claim is supplied. ([Munkasey entry](#munkasey-entry).)
+- social/relationship: Seeking new supportive friends. ([Munkasey entry](#munkasey-entry).)
+- events/manifestations: Formulating different approaches to work or life through others' input. ([Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Only Munkasey's repeated-pair entry is represented; no independent comparison or distinct third-factor doctrine is supplied. ([Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-pair entry is represented; no independent comparison or distinct third-factor doctrine is supplied.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Node`: Realizing the importance the opinions of others can play in helping one formulate and devise different ideas about one's work, or how one should appear or work in life; helps one seek new friends who can be supportive.
+Node specifies Uranus/Node through recognizing how other people's opinions can reshape ideas about one's work and presentation. Feedback contributes to forming a different approach, and the sole entry links this awareness with seeking new supportive friends. It does not specify the outcome of those new friendships. ([Munkasey entry](#munkasey-entry).)
 
 ## Links
 

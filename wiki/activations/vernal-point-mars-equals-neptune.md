@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Neptune](../triads/vernal-point-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 Poisoning. Wasted efforts. Unsatisfactory work.
 
@@ -42,13 +46,27 @@ Poisoning. Wasted efforts. Unsatisfactory work.
 
 #### ABC Entry
 
-Work in the public Water, Autlosung Public Works, exchange activities in the public, Public Activity in the air, unknown impulses from the public sphere, to develop impoverished public work activities in the public sphere, and developmental impulses for the public
+- Source page: 33; PDF page: 15 (one-based spread).
+
+Work in public water, dissolution of public works, disappointing actions in public, public activity in the air, unknown impulses from the public, and future public relations work
+
+## Comparative Schema
+
+- core meaning: Public work that dissolves, disappoints, or has an uncertain basis.
+- psychology: Disappointment and unsatisfied effort are explicit.
+- body/health: Witte names poisoning as an attributed source association.
+- social/relationship: Unknown public impulses and future public relations work.
+- events/manifestations: Wasted effort and work involving water or air.
+- conflicts/notes: The scanned Pluto boundary removes development clauses wrongly attached here.
+
+## Contradictions
+
+Water or air work and future public relations are distinct settings, not automatically failed work. The adverse emphasis remains wasted or disappointing effort.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Neptune`: poisoning, wasted efforts, and unsatisfactory work.
-- Practical expression: work in the public Water, autlosung Public Works, exchange activities in the public, public Activity in the air, and unknown impulses from the public sphere.
+In `Vernal Point/Mars = Neptune`, public effort may lack a clear basis or fail to produce a satisfactory result. The [Witte entry](#witte-entry) names wasted effort and unsatisfactory work, alongside poisoning as a concrete source association. The restored [ABC entry](#abc-entry) adds dissolved works, disappointing acts, and unknown impulses, while retaining water, air, and future public relations as separate settings. The development clauses belonging to Pluto are excluded.
 
 ## Links
 

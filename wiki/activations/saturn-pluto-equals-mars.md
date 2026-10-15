@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Mars`
 - Astronomicon formula: `W/Z = U`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 A work plan, which only is carried out or through after grave hindrances and disturbances. To suit oneself with difficulty to new working conditions. Planning and execution of a separation periodically to be effected.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developing work emst, developing patience at work, stratified development mies, heavy development work, activity development in old age, lossful development work, lossful work change, and growing work problems
+- Source page: `352`; PDF page: `175`.
+
+Developing seriousness in work, developing patience at work, disturbed efforts at development, difficult developmental work, development of activity in old age, developmental work involving loss, a change of work involving loss, and growing work problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0895`.
 
 Brutality, assault or violence, ruthlessness. The necessity to fight for one's existence or life, maltreatment.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 Aggressive urges that are extremely repressed. The ability to be extremely controlled and focused when doing anything. Efforts that can lead to profound break throughs.
 
@@ -70,22 +80,21 @@ Activating plans for much destruction or upheaval; energy to continue restrainin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Forceful, concentrated effort under severe hindrances.
+- psychology: Patience and extreme focus; aggression may be strongly repressed.
+- body/health: Assault and fighting for life are Ebertin's historical examples, not diagnoses or predictions.
+- social/relationship: Ruthless conduct, maltreatment or the planning of separation are attributed possibilities.
+- events/manifestations: Difficult work adjustment, costly work changes, breakthroughs and destructive upheaval.
+- conflicts/notes: Controlled effort and brutality are distinct possibilities; strength does not establish virtue or violence.
 
 ## Contradictions
 
-- None recorded yet.
+The entries span patient work, controlled effort and destructive force. Their different manifestations should remain distinct; no source establishes that concentration necessarily becomes brutality.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Mars`: extraordinary endurance, tactical force, and the ability to act where weaker constitutions would stop. Main caution: brutality: pressure can turn aggression cold, punitive, or destructive when control eclipses proportion.
+In `Saturn/Pluto = Mars`, Mars specifies difficult development through the effort required to act: work proceeds against grave hindrances, demands patience and may involve costly changes of conditions ([Witte](#witte-entry), [ABC](#abc-entry)). Extreme control and focus can support a breakthrough, while repressed aggression and destructive plans describe more troubled expressions ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). [Ebertin](#ebertin-entry) gives the severe examples of brutality, maltreatment and fighting for existence. These are attributed possibilities within the source range, not grounds for predicting violence or judging a person from the formula.
 
 ## Links
 

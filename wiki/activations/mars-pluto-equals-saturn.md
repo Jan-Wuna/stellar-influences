@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Saturn Pluto](../triads/mars-saturn-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Plan of a periodically performed work. Plans for the distant future. Plans, hindered or interrupted in their development.
 
@@ -45,17 +49,25 @@ Plan of a periodically performed work. Plans for the distant future. Plans, hind
 
 #### ABC Entry
 
-Developing work tasks, serious development work, inhibited will development, concentrated unfolding of the will, problematic change of work, painful development in work, and loss of activity change
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing work tasks, serious development work, inhibited unfolding of the will, concentrated unfolding of the will, problematic change of work, painful development in work, and a change of activity involving losses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Pluto,” printed p. 214 (PDF p. 216), entry 0740 and footnote 45.
+
 A person unafraid of hard work leaving no stone unturned in the pursuit of a particular task, desire to overcome difficulties and obstacles at all costs.
+
+Footnote 45: “Saturn = Mars/Pluto is found often in the charts of suicides, but it would be wrong to make such a statement without the presence of many other factors.”
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
 
 The ability to work hard in a patient, careful and/or controlled manner. One will not give up when trying to overcome difficulties or solve problems.
 
@@ -70,22 +82,21 @@ Adds endurance and persistence to use the services of others for personal gain; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Patient or concentrated development despite obstruction, loss, or frustration.
+- psychology: Endurance, persistence, and a drive to overcome difficulties at all costs.
+- body/health: Ebertin's suicide association in footnote45 is historical and explicitly qualified by many other factors; it is not a prediction.
+- social/relationship: Munkasey names using others' services for personal gain.
+- events/manifestations: Periodic work plans, distant-future plans, interrupted development, and activity changes involving losses.
+- conflicts/notes: Sandbach's controlled problem-solving differs from frustration and reduced personal power in Munkasey; persistence does not guarantee success.
 
 ## Contradictions
 
-- None recorded yet.
+Patient, effective effort and hindered or frustrating development are both represented. Ebertin's footnote45 retains its explicit qualification and must not become a standalone diagnostic claim.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Saturn`: patient toughness, relentless problem-solving, and strength for difficult, draining work that others would abandon. Main caution: pressure under compression: force may become too grim, too rigid, or too willing to grind forward without relief.
+In `Mars/Pluto = Saturn`, Saturn specifies developing work and plans through patient effort, concentration, and obstacles. Witte names long-range or interrupted plans; ABC includes serious work, inhibited will, and changes involving losses. Ebertin and Sandbach emphasize persistence in overcoming difficulty, while Munkasey retains frustration despite endurance and diminished personal power. The entries support sustained effort under limits without promising that persistence succeeds. Ebertin's qualified historical suicide observation remains in the source entry and supplies no standalone prediction. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0740 and footnote45; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

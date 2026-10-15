@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Apollon/Vulcanus = Kronos`
+- [Read the interpretation](#derived-synthesis).
 - Astronomicon formula: `¥/§ = ¤`
 - Axis page: [Apollon/Vulcanus](../axes/apollon-vulcanus.md)
 - Triad hub: [Kronos Apollon Vulcanus](../triads/kronos-apollon-vulcanus.md)
@@ -36,18 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 307, entry start.
+
 Outstanding capabilities. Through ability to success. Extraordinary prosperity. Unusual successes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful state power, large amounts of energy, self sufficient energy trade, state experience of violence, superior power success, extensive state influence, much authority of the authority, important influence of science, and increasing violence against the state
+Source locator: printed p. 471, one-based PDF p. 234, exact row; glyph and paragraph checked on the scan.
+
+Successful state power, large amounts of energy, independent energy trade, state experience of violence, superior power success, extensive state influence, much power of the authorities, important influence of science, and increasing violence against the state
+
+Translation repair: selbständiger Energie-Handel is independent energy trade; viel Macht der Behörde is much power of the authorities. Checked against the scan at the locator above.
+
+## Comparative Schema
+
+- Core meaning: Exceptional ability and prosperity, with state or institutional power in ABC ([Witte](#witte-entry), [ABC](#abc-entry)).
+- Psychology: Outstanding capabilities are explicit; elitism or a need to dominate is not.
+- Body/health: ABC's large energy quantities are not a medical claim.
+- Social/relationship: State influence and the power of authorities are named in ABC.
+- Events/manifestations: Unusual successes, independent energy trade, scientific influence, and violence involving the state.
+- Conflicts/notes: Witte concerns ability; ABC's institutional and violent applications are additional, distinct emphases.
+
+## Contradictions
+
+No direct contradiction is evident. Extraordinary success coexists with ABC's references to state violence and violence against the state; neither favorable nor adverse clauses should be universalized.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus = Kronos`: exceptional competence, authoritative success, and results that place the native above the ordinary field. Main caution: high-powered elitism: extraordinary capability may turn into distance, superiority, or an overidentified need to dominate.
+In `Apollon/Vulcanus = Kronos`, Kronos specifies the pair through outstanding capability and unusual success. Witte links ability to extraordinary prosperity; ABC gives the power an institutional scale through state influence, authorities, independent energy trade, and scientific influence. It also includes state experiences of violence and violence against the state, so exceptional success does not exhaust this entry's range ([Witte](#witte-entry), PDF p. 307; [ABC](#abc-entry), printed p. 471).
 
 ## Links
 

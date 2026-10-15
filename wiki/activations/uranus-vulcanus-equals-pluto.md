@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Pluto`
 - Astronomicon formula: `X/§ = Z`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 A mighty development and change occurs with surprising suddenness. Powers set into motion. Kinetic energy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Violence, development of new energies, sudden power development, strong growth impulses, technical energy development, and growing influence of technology
+- Source page: 387 (printed); PDF page: 192.
+
+Developing dynamic forces, unfolding a new power, development of unrest and violence, development of new energies, sudden power development, strong growth impulses, technical energy development, and growing influence of technology
+
+## Comparative Schema
+
+- Core meaning: Sudden development and release of power.
+- Psychology: Strong growth impulses, without a detailed psychological account.
+- Body/health: No specific health claim.
+- Social/relationship: Growing technical influence rather than a defined relationship pattern.
+- Events/manifestations: New energies, kinetic power, and development of unrest or violence.
+- Conflicts/notes: The beginning of ABC's Pluto row was misplaced in Neptune and is restored here.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The beginning of ABC's Pluto row was misplaced in Neptune and is restored here. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Pluto`: A mighty development and change occurs with surprising suddenness. Powers set into motion. Kinetic energy.
-- Practical expression: violence, development of new energies, sudden power development, strong growth impulses, and technical energy development.
+Pluto specifies Uranus/Vulcanus as power entering motion and developing with surprising speed. New energy, forceful growth, and expanding technical influence connect the abstract change with concrete activity. The restored ABC opening also includes the development of unrest and violence, so growth here is powerful change rather than an assurance of improvement. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

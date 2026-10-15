@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Mars Jupiter](../triads/mercury-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
 
 Successful thinking. Merry conversation. Laughing. Valuable debates. Cheerfully proceeding to action.
 
@@ -45,15 +49,23 @@ Successful thinking. Merry conversation. Laughing. Valuable debates. Cheerfully 
 
 #### ABC Entry
 
-Working with traffic law, successful working language, successful description of work, successful language activity, joy about youth activity, thoughts about work pleasure, activity in youth law, about, and "work" of money report
+German passage (transcribed from PDF page `120`, printed page `242`):
+
+> Arbeit mit dem Verkehrs-Recht, erfolgreiche Arbeits-Gespräche, erfolgreiche Beschreibung der Arbeit, erfolgreiche Gesprächs-Tätigkeit, Freude über Jugend-Tätigkeit, Gedanken über Arbeits-Freude, Tätigkeit im Jugend-Recht, über „Arbeit“ des Geldes berichten
+
+Editorial translation from the German passage: Work with traffic law; successful work discussions; successful description of work; successful conversational activity; pleasure in young people's activity; thoughts about enjoyment of work; activity in youth law; reporting on the “work” of money.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `149`; entry code: `0474`.
 
 #### Ebertin Entry
 
 Constructive criticism, constructive thinking, sound judgement. The ability to make one's way successfully, a celebrated orator or speaker, a good critic.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +82,21 @@ An abundance of talk about the use of force or might; too much commotion among m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Constructive thinking and fruitful, lively discussion.
+- psychology: Sound judgement, enthusiasm for problem solving, and confidence that conflict can be resolved.
+- body/health: No specific body or health claim appears.
+- social/relationship: Encouraging others' ideas and generosity in teaching; merry conversation.
+- events/manifestations: Successful speaking, constructive criticism, and successful work discussion.
+- conflicts/notes: Munkasey's abundant talk and commotion qualify the otherwise constructive emphasis; they do not establish failed promises or poor follow-through.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's commotion and abundant talk qualify the constructive emphasis elsewhere. ABC's literal report on the “work” of money is restored; Sandbach's available locator is a chapter start.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Jupiter`: good judgment under pressure, spirited oratory, encouraging directness, and confidence in resolving conflict through ideas. Main caution: overstatement: enthusiasm can inflate arguments, promises, or opinions beyond what disciplined follow-through can support.
+Jupiter specifies Mercury/Mars as thinking and discussion that can achieve something: criticism becomes constructive, conversation lively, and disagreement a problem to work through. The [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) entries join judgement to encouragement of others' ideas; [Witte](#witte-entry) adds laughter and cheerful action. [Munkasey](#munkasey-entry) (p. 152) retains a qualification: abundant talk about force and commotion among correspondents can accompany the generosity of teaching. The entries support productive enthusiasm, with no guarantee that more talk always means better communication.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Mercury Saturn Neptune](../triads/mercury-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Treacherous thoughts. Mental diseases.
 
 #### ABC Entry
 
-Expectations in a relationship, creeping losses in a relationship reports ii on air problems, serious thoughts on metaphysics, fine tuning and patience in traffic, concentration on future language, concentration weakness of youth, and after school
+Source locator: printed page 350; PDF page 174 (one-based).
+
+Reports about air problems, serious thoughts on metaphysics, sensitivity and patience in traffic, concentration on conversations about the future, concentration weakness among the young, news about creeping losses, uncertain movement in old age, and lack of clarity between young and old.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ Studies to correct deficiencies in business or commerce; increased skill at corr
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: thought and communication confronting confusion, inhibition, or persistent deficiencies.
+- psychology: pessimistic thinking and difficulty grasping or organizing ideas.
+- body/health: Witte, Ebertin, and Sandbach's mental or nervous-system claims remain attributed.
+- social/relationship: unrecognized subtleties can frustrate communication; Munkasey includes resolving long disputes.
+- events/manifestations: corrective business study and motivating discussions offer constructive expressions.
+- conflicts/notes: ABC adds reports about creeping losses and lack of clarity between young and old; these do not make all communication harmful.
 
 ## Contradictions
 
-- None recorded yet.
+- Difficult thinking and skilled corrective discussion describe different capacities; the entries do not establish that one cancels the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Mercury`: careful reflection, strategic quiet, and the ability to think about complicated or delicate conditions with nuance. Main caution: mental heaviness: doubt, confusion, or depressive framing can blur clarity and weaken confidence in one's own conclusions.
+Mercury specifies the Saturn/Neptune axis through the difficulty of giving thought a clear form. [Ebertin](#ebertin-entry) stresses inhibited, pessimistic thinking, and [Sandbach](#sandbach-entry) describes serious, subtle communication that can be misunderstood or confused. [ABC](#abc-entry) adds serious metaphysical thought, future-oriented conversations and reports about creeping losses, alongside difficulties of concentration or understanding between young and old. [Munkasey](#munkasey-entry) supplies a practical counterpart: study and discussion that correct persistent commercial problems or disputes. The constructive possibility is therefore specific corrective communication.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Jupiter](../triads/sun-mercury-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 A lucky youth. Kind, cheerful, benevolent thinking. To be agile and serene. The talent for speaking. Travelling for pleasure.
 
+Source locator: PDF p. 103, Sun/Mercury, Jupiter entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful personal language, joy through body movement, talk with a financial man, happy personal youth, personal success thoughts, personal legal language, right speaking people, and beneficial person en traffic
+Successful personal conversations, joy through bodily movement, conversations with a financial man, happy personal youth, personal thoughts of success, personal legal discussions, people administering justice, and advantageous passenger traffic.
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, Jupiter entry. Translation checked against the German row; Recht sprechende refers to administering justice.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Successful personal language, joy through body movement, talk with a financial m
 
 An optimistic attitude to life, urge to enlarge one's horizon and mental focus. A good thinker, orator and organizer. Good connections, protection and sponsorship, travel.
 
+Source locator: printed p. 81, coded entry 0198.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 To express one’s objective ideas and thoughts about goals with exuberance and enthusiasm. To have many opinions on many different topics. Success resulting from a confident manner of communicating. One is eager to find clever solutions to problems when it comes to working toward one’s goals.
+
+Source locator: PDF p. 9, Sun/Mercury, complete Jupiter entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ A line of reasoning or thinking which starts with religious or philosophical ter
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Optimistic, confident thought and communication with a broad range of interests or aims.
+- psychology: Enthusiasm, clever solutions, humor and religious or philosophical reasoning.
+- body/health: Agility, serenity and joy through movement are named without a specific health claim.
+- social/relationship: Speaking talent, successful discussions, good connections, protection and sponsorship.
+- events/manifestations: Travel, youthful success, financial or legal discussions and advantageous passenger traffic.
+- conflicts/notes: Munkasey retains flowery reasoning and pompous oratory beside wit; confidence is not proof that every argument is sound.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in expansive, confident thought and expression. Munkasey's overdone reasoning and pompous oratory qualify that favorable account without denying humor or speaking ability.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Jupiter`: eloquence, good judgment, cheerful mental tone, and success through communication, teaching, travel, or broadening the horizon. Main caution: excess: the native may become overopinionated, overly expansive, or too certain that clever communication alone will carry the day.
+`Sun/Mercury = Jupiter` gives thought and communication an optimistic, expansive expression. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) connect cheerful thinking and speaking talent with travel and a broader horizon; [ABC](#abc-entry) adds successful conversations and financial or legal settings. [Sandbach](#sandbach-entry) emphasizes enthusiastic, confident expression and clever solutions toward goals. [Munkasey](#munkasey-entry) adds philosophical reasoning and quick humor, while retaining flowery argument and pompous oratory as limits. Communicative breadth can therefore support connection and accomplishment without making confidence or eloquence a guarantee of sound judgment.
 
 ## Links
 

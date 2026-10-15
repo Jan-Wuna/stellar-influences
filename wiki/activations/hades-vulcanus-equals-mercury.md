@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Hades/Vulcanus = Mercury`
 - Astronomicon formula: `¢/§ = T`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To face a danger directly. To have dealings with coarse and uncouth people. To be harassed by them.
+Reference: one-based PDF p. 285, Mercury row. The personal danger/dealings paragraph previously attached here belongs to Node.
+
+Unpleasant writings. News about atrocities or immediately threatening dangers.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Reports on hidden energies that describe the danger of violence, talk about the influence of the past, opinions on the energy deficiency, dangerous media influence, secret language about power, and renunciation of youth for violence
+Reference: printed p. 446 (one-based PDF p. 222), Mercury row.
+
+Reports on hidden energies, describing the danger of violence, dangerous traffic influence, conversations about the influence of the past, opinions about energy deficiency, dangerous media influence, secret conversations about power, and young people's renunciation of violence.
+
+## Comparative Schema
+
+- Core meaning: Writings, news, and conversations concerning danger, hidden energy, or power.
+- Psychology: No fixed communication style or mental state is supplied.
+- Body/health: No specific injury or medical condition is given.
+- Social/relationship: Secret conversations about power and young people's renunciation of violence.
+- Events/manifestations: Unpleasant writings, news of atrocities or imminent danger, reports on hidden energy, and dangerous media or traffic influence.
+- Conflicts/notes: ABC's traffic and youth clauses are restored from the scan; the personal danger/dealings paragraph belongs to Node.
+
+## Contradictions
+
+Reporting or describing danger and renouncing violence are different expressions of the communication/social range. The entries do not establish a negotiating role or that harmful news makes its speaker violent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus = Mercury`: a mind and message forced into rough contact with brutal conditions. It can show negotiation or communication inside dangerous, hostile, or low environments.
+In `Hades/Vulcanus = Mercury`, Mercury specifies the pair through communication about force, danger, and hidden influence. The [Witte entry](#witte-entry) gives unpleasant writings and news of atrocities or imminent threats. The [ABC entry](#abc-entry) adds reports on hidden energy, discussion of past influence or energy deficiency, and secret conversations about power, while also naming young people's renunciation of violence. Describing danger and stepping away from violence remain distinct expressions.
 
 ## Links
 

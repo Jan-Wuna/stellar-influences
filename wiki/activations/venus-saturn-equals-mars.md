@@ -33,29 +33,40 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Mars Saturn](../triads/venus-mars-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 Passing close or intimate acquaintance. Dissolution of a love-affair.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `274`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-To love work tasks, to create harmony in old age, to deal with love problems, loss of a harmonious work, and preference for serious work
+Loving work tasks, sustained activity for peace, serious artistic activity, inhibited activity in love, disturbed harmony at work, creating harmony in old age, dealing with problems in love, loss of harmonious work, and preference for serious activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 182; entry code: 0606.
 
 Jealousy, violence, weakened powers of procreation. Inclination to act on the dictates of emotional inhibition or of regained soberness, discussion or dispute, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 58 (one-based; exact activator paragraph and adjacent boundary visually checked).
 
 To be angry about the difficulties and limitations encountered in relationships. To act out of a profound love.
 
@@ -70,22 +81,21 @@ Enhanced impulses to quickly receive pleasure in short bursts from your activiti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action and desire encountering limits in love or work.
+- psychology: Anger, jealousy, inhibition, or action from profound love.
+- body/health: Ebertin's weakened procreative powers is historical doctrine, not a diagnosis.
+- social/relationship: Brief intimacy, dissolution of a love affair, dispute, or separation.
+- events/manifestations: Work tasks, short bursts of pleasure, loud-music restrictions, and get-rich-quick schemes.
+- conflicts/notes: Gendered activity and procreation claims remain attributed; no promise of loyal commitment is supplied.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's action from profound love and anger at relationship limits are alternatives. Brief pleasure and dissolution must remain visible alongside constructive work.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Mars`: loyal exertion, controlled passion, and the ability to work hard for commitment, artistry, or material stability. Main caution: frustrated desire can turn irritable, harsh, or resentful when affection feels blocked.
+In `Venus/Saturn = Mars`, Mars specifies the pair through activity and desire under relational limits. [Witte](#witte-entry) names passing intimacy and dissolution; [Ebertin](#ebertin-entry) adds inhibition, dispute, and separation, with procreative weakness retained as historical doctrine. [Sandbach](#sandbach-entry) allows anger at limits or action from profound love. The clear [ABC clauses](#abc-entry) place effort in work, while [Munkasey](#munkasey-entry) adds short bursts of pleasure and complaints against restriction, including the unusual examples of loud music and get-rich-quick schemes.
 
 ## Links
 

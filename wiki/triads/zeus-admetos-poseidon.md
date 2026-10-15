@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Zeus Admetos Poseidon`
 - Astronomicon triad-set: `£ ¦ ¨`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Zeus](../activations/admetos-poseidon-equals-zeus.md)
-- [Zeus/Admetos = Poseidon](../activations/zeus-admetos-equals-poseidon.md)
-- [Zeus/Poseidon = Admetos](../activations/zeus-poseidon-equals-admetos.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Admetos/Poseidon = Zeus](../activations/admetos-poseidon-equals-zeus.md) | [Admetos/Poseidon](../axes/admetos-poseidon.md) | Zeus |
+| [Zeus/Admetos = Poseidon](../activations/zeus-admetos-equals-poseidon.md) | [Zeus/Admetos](../axes/zeus-admetos.md) | Poseidon |
+| [Zeus/Poseidon = Admetos](../activations/zeus-poseidon-equals-admetos.md) | [Zeus/Poseidon](../axes/zeus-poseidon.md) | Admetos |
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `477`
-- `Zeus/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
-- `Zeus/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `455`
-- `Zeus/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
-- `Zeus/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `459`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Admetos/Poseidon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/admetos-poseidon-equals-zeus.md#witte-entry), one-based PDF entry-start p. `312`.
+- `Admetos/Poseidon = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/admetos-poseidon-equals-zeus.md#abc-entry), printed p. `477`.
+- `Zeus/Admetos = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `294`.
+- `Zeus/Admetos = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-poseidon.md#abc-entry), printed p. `455`.
+- `Zeus/Poseidon = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-poseidon-equals-admetos.md#witte-entry), one-based PDF entry-start p. `296`.
+- `Zeus/Poseidon = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-poseidon-equals-admetos.md#abc-entry), printed p. `459`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Zeus`: enforced training, examinations, and the active shaping of skill through challenge, discipline, and specialized instruction.
-- `Zeus/Admetos = Poseidon`: To start something new in intellectual respect. To demonstrate ones abilities and development in a test. To meet with changed conditions in the intellectual and ideological respect.
-- `Zeus/Poseidon = Admetos`: A creative mind that can see very deeply. To be noticed in a small circle right at the start for accomplishment.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

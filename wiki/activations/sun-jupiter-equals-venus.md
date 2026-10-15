@@ -34,11 +34,15 @@ updated_at: 2026-06-20
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Venus Jupiter](../triads/sun-venus-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 The man in love. To feel physically happy because of love. Success with hobbies and favored activities.
 
@@ -46,17 +50,23 @@ The man in love. To feel physically happy because of love. Success with hobbies 
 
 #### ABC Entry
 
-Successful love of a man, successful man of the arts, joy of the gentle body, joy in the peace center, corporal love happiness, love for a financial man, human joy of peace, and personal right to love
+Source locator: printed page 148; PDF page 73 (one-based).
+
+Successful love of a man, successful man of the arts, joy in the beautiful body, joy in the peace center, corporal love happiness, love for a financial man, human joy of peace, and personal right to love
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 90, coded entry 0233.
 
 A healthy love relationship, harmonious sex life. The beautiful body, good art. Success in love, the happily loving husband.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 13 (one-based), Sun/Jupiter Venus entry.
 
 Success in romance and in relating in general. Generally speaking, success in anything comes easily. A love of adulation and attention. A love of having big, expan sive and/or grandiose goals. Any tendency toward selfish egocentricity can evoke neg ative reactions from others.
 
@@ -80,22 +90,21 @@ Ober gives love or art success, including happiness in love or a successful crea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Happiness or success in love, art and favored activities, with pleasure and gracious manners.
+- psychology: Satisfaction, charm and a love of attention or grand goals.
+- body/health: Bodily beauty, sensuality and healthy-love language remain source attributions, not health or appearance assessments.
+- social/relationship: Romantic ease, harmonious sexual life, softness and politeness; selfish egocentricity can provoke negative reactions.
+- events/manifestations: Artistic success, successful hobbies, peace-related joy and a creative venture.
+- conflicts/notes: Sandbach's broad ease-of-success claim remains attributed; lost discipline or wasted opportunity is not explicitly supplied.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in love, pleasure and art. Sandbach also retains adulation-seeking and adverse responses to selfish egocentricity, qualifying an exclusively gracious reading without inventing a discipline-loss rule.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Venus`: grace in success, generous relating, and pleasure that helps open doors rather than close them. Main caution: indulgence: comfort, luxury, or easy approval can reduce discipline and waste genuine opportunity.
+For `Sun/Jupiter = Venus`, success is experienced through affection, pleasure or art. [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [Ober](#ober-entry) describe happiness in love, artistic success and favored activities; [ABC](#abc-entry) also retains joy in peace and bodily beauty. [Munkasey](#munkasey-entry) adds charm, politeness and a softer approach to others. [Sandbach](#sandbach-entry) gives romantic ease but also a love of attention and negative responses to selfish egocentricity. The formula therefore combines pleasurable or gracious relating with that specific relational limit, while bodily and gendered examples remain source attributions.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,25 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Neptune Admetos`
 - Astronomicon triad-set: `X Y ¦`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Neptune/Admetos = Uranus](../activations/neptune-admetos-equals-uranus.md)
-- [Uranus/Admetos = Neptune](../activations/uranus-admetos-equals-neptune.md)
-- [Uranus/Neptune = Admetos](../activations/uranus-neptune-equals-admetos.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Admetos](../axes/neptune-admetos.md) | `Uranus` | [Neptune/Admetos = Uranus](../activations/neptune-admetos-equals-uranus.md) |
+| [Uranus/Admetos](../axes/uranus-admetos.md) | `Neptune` | [Uranus/Admetos = Neptune](../activations/uranus-admetos-equals-neptune.md) |
+| [Uranus/Neptune](../axes/uranus-neptune.md) | `Admetos` | [Uranus/Neptune = Admetos](../activations/uranus-neptune-equals-admetos.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Neptune/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `403`
-- `Uranus/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
-- `Uranus/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `385`
-- `Uranus/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `234`
-- `Uranus/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `371`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Neptune/Admetos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-admetos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `252`.
+- `Neptune/Admetos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-admetos-equals-uranus.md#abc-entry), printed p. `403`.
+- `Uranus/Admetos = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-admetos-equals-neptune.md#witte-entry), one-based PDF entry-start p. `241`.
+- `Uranus/Admetos = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-admetos-equals-neptune.md#abc-entry), printed p. `385`.
+- `Uranus/Neptune = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-neptune-equals-admetos.md#witte-entry), one-based PDF entry-start p. `234`.
+- `Uranus/Neptune = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-neptune-equals-admetos.md#abc-entry), printed p. `371`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Uranus`: This activation electrifies `Neptune/Admetos` into sudden, glaring transformation. It breaks slow deprivation open through abrupt change, showing living conditions or forms of existence disrupted in a way that is sharp, destabilizing, and unmistakable.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

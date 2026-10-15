@@ -1,0 +1,190 @@
+{
+  "surfaceEvidence": [
+    {
+      "scenarioId": "cmd-rebuild-index",
+      "criterionRef": "VERIFY-1",
+      "surface": "terminal PowerShell",
+      "exactInvocation": "C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/rebuild_index.py",
+      "verdict": "PASS",
+      "artifactRefs": ["command-results", "rebuild-index-output"]
+    },
+    {
+      "scenarioId": "cmd-query-manifest",
+      "criterionRef": "VERIFY-1",
+      "surface": "terminal PowerShell",
+      "exactInvocation": "C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/query_manifest.py",
+      "verdict": "PASS",
+      "artifactRefs": ["command-results", "query-manifest-output"]
+    },
+    {
+      "scenarioId": "cmd-lint-wiki",
+      "criterionRef": "VERIFY-1",
+      "surface": "terminal PowerShell",
+      "exactInvocation": "C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/lint_wiki.py",
+      "verdict": "PASS",
+      "artifactRefs": ["command-results", "lint-wiki-output"]
+    },
+    {
+      "scenarioId": "page-factor-sun",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/factors/sun.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-factor-sun", "qa-checks"]
+    },
+    {
+      "scenarioId": "page-axis-sun-moon",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/axes/sun-moon.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-axis-sun-moon", "qa-checks"]
+    },
+    {
+      "scenarioId": "page-axis-jupiter-uranus",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/axes/jupiter-uranus.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-axis-jupiter-uranus", "qa-checks"]
+    },
+    {
+      "scenarioId": "page-activation-jupiter-uranus-equals-sun",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/activations/jupiter-uranus-equals-sun.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-activation-jupiter-uranus-equals-sun", "qa-checks"]
+    },
+    {
+      "scenarioId": "page-activation-sun-jupiter-equals-moon",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/activations/sun-jupiter-equals-moon.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-activation-sun-jupiter-equals-moon", "qa-checks"]
+    },
+    {
+      "scenarioId": "page-triad-sun-jupiter-uranus",
+      "criterionRef": "VERIFY-2",
+      "surface": "filesystem markdown inspection",
+      "exactInvocation": "Get-Content wiki/triads/sun-jupiter-uranus.md",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-triad-sun-jupiter-uranus", "qa-checks"]
+    },
+    {
+      "scenarioId": "git-status-wiki",
+      "criterionRef": "VERIFY-3",
+      "surface": "terminal PowerShell",
+      "exactInvocation": "git status --short -- wiki",
+      "verdict": "PASS",
+      "artifactRefs": ["command-results", "git-status-wiki"]
+    }
+  ],
+  "adversarialCases": [
+    {
+      "scenarioId": "axis-unordered-alias",
+      "criterionRef": "orientation-safety",
+      "adversarialClass": "unordered midpoint pair reversal",
+      "expectedBehavior": "Jupiter/Uranus remains canonical while Uranus/Jupiter is only an alias.",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-axis-jupiter-uranus", "qa-checks"]
+    },
+    {
+      "scenarioId": "activation-no-alias-collapse",
+      "criterionRef": "orientation-safety",
+      "adversarialClass": "activation formula orientation collapse",
+      "expectedBehavior": "Jupiter/Uranus = Sun remains an oriented activation with activated_by: Sun and no aliases.",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-activation-jupiter-uranus-equals-sun", "qa-checks"]
+    },
+    {
+      "scenarioId": "triad-no-merged-doctrine",
+      "criterionRef": "orientation-safety",
+      "adversarialClass": "triad hub doctrine merge",
+      "expectedBehavior": "Sun Jupiter Uranus hub stays structural, lists all three orientations, and has no Derived Synthesis.",
+      "verdict": "PASS",
+      "artifactRefs": ["snapshot-triad-sun-jupiter-uranus", "qa-checks"]
+    }
+  ],
+  "artifactRefs": [
+    {
+      "id": "command-results",
+      "kind": "terminal summary",
+      "description": "Exact invocations and exit results for verification commands and git checks.",
+      "path": ".omo/evidence/final-ingestion-verification/command-results.txt"
+    },
+    {
+      "id": "rebuild-index-output",
+      "kind": "terminal transcript",
+      "description": "Captured rebuild_index output; command produced no console text, exit result is recorded in command-results.",
+      "path": ".omo/evidence/final-ingestion-verification/rebuild_index.txt"
+    },
+    {
+      "id": "query-manifest-output",
+      "kind": "terminal transcript",
+      "description": "Captured query_manifest output; command produced no console text, exit result is recorded in command-results.",
+      "path": ".omo/evidence/final-ingestion-verification/query_manifest.txt"
+    },
+    {
+      "id": "lint-wiki-output",
+      "kind": "terminal transcript",
+      "description": "Captured lint_wiki output.",
+      "path": ".omo/evidence/final-ingestion-verification/lint_wiki.txt"
+    },
+    {
+      "id": "git-status-wiki",
+      "kind": "terminal transcript",
+      "description": "Captured git status --short -- wiki output.",
+      "path": ".omo/evidence/final-ingestion-verification/git-status-wiki.txt"
+    },
+    {
+      "id": "git-diff-name-only-wiki",
+      "kind": "terminal transcript",
+      "description": "Captured git diff --name-only -- wiki output; no tracked paths were emitted.",
+      "path": ".omo/evidence/final-ingestion-verification/git-diff-name-only-wiki.txt"
+    },
+    {
+      "id": "qa-checks",
+      "kind": "JSON check output",
+      "description": "Machine-readable representative page and adversarial orientation-safety checks.",
+      "path": ".omo/evidence/final-ingestion-verification/qa_checks.json"
+    },
+    {
+      "id": "snapshot-factor-sun",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/factors/sun.md inspected for factor entries and anchor.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-factors-sun.md"
+    },
+    {
+      "id": "snapshot-axis-sun-moon",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/axes/sun-moon.md inspected for source entries, aliasing, and anchor.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-axes-sun-moon.md"
+    },
+    {
+      "id": "snapshot-axis-jupiter-uranus",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/axes/jupiter-uranus.md inspected for source entries, aliasing, and anchor.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-axes-jupiter-uranus.md"
+    },
+    {
+      "id": "snapshot-activation-jupiter-uranus-equals-sun",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/activations/jupiter-uranus-equals-sun.md inspected for formula orientation and source entries.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-activations-jupiter-uranus-equals-sun.md"
+    },
+    {
+      "id": "snapshot-activation-sun-jupiter-equals-moon",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/activations/sun-jupiter-equals-moon.md inspected for formula orientation and source entries.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-activations-sun-jupiter-equals-moon.md"
+    },
+    {
+      "id": "snapshot-triad-sun-jupiter-uranus",
+      "kind": "markdown snapshot",
+      "description": "Snapshot of wiki/triads/sun-jupiter-uranus.md inspected for structural orientation map.",
+      "path": ".omo/evidence/final-ingestion-verification/wiki-triads-sun-jupiter-uranus.md"
+    }
+  ]
+}

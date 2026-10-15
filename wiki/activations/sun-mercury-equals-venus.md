@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Venus](../triads/sun-mercury-venus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 A young girl. Love of a young body.
 
+Source locator: PDF p. 103, Sun/Mercury, Venus entry. Historical age/gender wording retained.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Harmonic corporal movements, personal artificial language, personal harmonious language, personal love language, personal love for youth, beauty of corporal movement, beauty of young people, and center for movement art
+Harmonious bodily movements, personal conversations about art, personal harmonious conversations, personal love conversations, personal love for youth, beauty of bodily movement, beauty of young people, and a center for movement art.
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, Venus entry. Translation checked against the German row; Kunst-Gespräche means conversations about art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Harmonic corporal movements, personal artificial language, personal harmonious l
 
 One's outlook and attitude in relation to love and sex, thoughts on sex. Love union, youth love.
 
+Source locator: printed p. 81, PDF p. 83, coded entry 0196.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 Purposeful thinking carried off with artfulness, persuasiveness, and/or smooth ness. A love of organizing ideas. One finds it easy to think objectively. A need for ob jective, rational communication in relationships. To be in love with one’s own ideas. An appreciation of meaningful communication.
+
+Source locator: PDF p. 9, Sun/Mercury, complete Venus entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Softens the way that you put your thoughts and ideas across to others; an effect
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication shaped by art, affection, harmony or appreciation of value.
+- psychology: Artful persuasion, organizing ideas, objective thought and love of one's own ideas.
+- body/health: Beauty and harmony of movement are source descriptions, not health or appearance assessments.
+- social/relationship: Softer expression, meaningful rational communication and efforts to love another.
+- events/manifestations: Art or love conversations, movement art and understanding money or market conditions.
+- conflicts/notes: Love of one's ideas coexists with a need for objectivity; historical youth/sex examples remain attributed rather than relationship prescriptions.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach pairs artful or persuasive expression with objective thought and affection for one's own ideas. Munkasey adds softer communication and a distinct money/markets application. Witte and Ebertin retain age-specific love examples, while ABC gives artistic conversation and movement; these scopes should not be flattened into one universal romantic outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Venus`: tact, meaningful conversation in love, and the ability to make ideas appealing without losing coherence. Main caution: vanity of mind: charm or attachment to pleasing ideas can blur harder truths or make one too enamored of one's own formulations.
+`Sun/Mercury = Venus` gives thought and communication an artful, affectionate or harmonious form. [ABC](#abc-entry) describes conversations about art or love and beauty in movement, while [Witte](#witte-entry) and [Ebertin](#ebertin-entry) retain particular historical love and youth examples. [Sandbach](#sandbach-entry) connects persuasion and meaningful exchange with a need for rational communication, alongside love of one's own ideas. [Munkasey](#munkasey-entry) adds softer delivery, efforts to love another and a separate understanding of money or markets. The shared emphasis is how thought expresses or recognizes value, with objectivity retained rather than assuming that appealing ideas are necessarily sound.
 
 ## Links
 

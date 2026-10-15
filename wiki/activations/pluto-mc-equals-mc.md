@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Overcoming the worst of the obstacles in your way; added persistence to try and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Persistence in overcoming obstacles while preserving integrity.
+- psychology: Determination to finish what one starts, with moral judgment about the end objective.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Personal position matters; no particular relationship is described.
+- events/manifestations: Working through serious obstacles and completing an undertaking.
+- conflicts/notes: The sole entry values integrity and position above the objective in some circumstances.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present; its persistence and willingness to limit the objective qualify each other without conflict.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = MC`: Overcoming the worst of the obstacles in one's way; added persistence to try and finish whatever it is one start; realizing that the end objective is not always as important as preserving personal moral integrity and position.
+MC specifies Pluto/MC in the [Munkasey entry](#munkasey-entry) through persistence in facing serious obstacles and trying to finish what has been started. That effort has a qualification: preserving personal moral integrity and position can matter more than attaining the end objective. The repeated-factor formula thus describes determined development whose purpose may need to yield to those values; it supplies no distinct triad or guaranteed success.
 
 ## Links
 
 - [Pluto](../factors/pluto.md)
-- [MC](../factors/mc.md)
 - [MC](../factors/mc.md)
 - [Pluto/MC](../axes/pluto-mc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Vernal Point Uranus Poseidon](../triads/vernal-point-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Mental alertness in general. To carry out propaganda. Eager expectations of the 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 388; PDF p. 193.
+
 #### ABC Entry
 
-exciting truths in public, spiritual renewal in public life, spiritual impulses in public life, public cultural event, cultural renewal in public, and sudden clarity for the public
+Exciting truths in public, spiritual renewal in public life, spiritual impulses in public life, a public cultural event, cultural renewal in public, sudden clarity for the public.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Ideas stirring attention and expectation in the public.
+- psychology: Collective alertness and eager expectation.
+- body/health: No bodily claim is supplied.
+- social/relationship: Public communication, propaganda and cultural activity.
+- events/manifestations: Motion pictures, public cultural events and sudden public clarity.
+- conflicts/notes: Public attention may serve enlightenment or propaganda.
+
+## Contradictions
+
+Witte includes both enlightenment and propaganda, so public excitement is not uniformly beneficial. ABC emphasizes renewal and clarity; the excerpts give no named event or certain outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Vernal Point`: Mental alertness in general. To carry out propaganda. Eager expectations of the general public brought into motion through ideas. Motion pictures. Enlightenment.
-- Practical expression: exciting truths in public, spiritual renewal in public life, spiritual impulses in public life, public cultural event, and cultural renewal in public.
+In `Uranus/Poseidon = Vernal Point`, Vernal Point specifies mental stimulation in public life: ideas arouse collective attention and expectation. [Witte](#witte-entry) includes motion pictures, enlightenment and propaganda as ways this occurs. [ABC](#abc-entry) adds public cultural activity and sudden clarity, preserving a range from understanding to persuasion rather than ensuring that attention produces truth.
 
 ## Links
 

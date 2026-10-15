@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Saturn Vulcanus`
 - Astronomicon triad-set: `R W §`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md)
-- [Moon/Vulcanus = Saturn](../activations/moon-vulcanus-equals-saturn.md)
-- [Saturn/Vulcanus = Moon](../activations/saturn-vulcanus-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md) | [Moon/Saturn](../axes/moon-saturn.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Moon/Vulcanus = Saturn](../activations/moon-vulcanus-equals-saturn.md) | [Moon/Vulcanus](../axes/moon-vulcanus.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Vulcanus = Moon](../activations/saturn-vulcanus-equals-moon.md) | [Saturn/Vulcanus](../axes/saturn-vulcanus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Saturn = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `126`
-- `Moon/Saturn = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `185`
-- `Moon/Vulcanus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
-- `Moon/Vulcanus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `205`
-- `Saturn/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `230`
-- `Saturn/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `366`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Saturn = Vulcanus](../activations/moon-saturn-equals-vulcanus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-saturn-equals-vulcanus.md#witte-entry) (PDF p. 126); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-saturn-equals-vulcanus.md#abc-entry) (printed p. 185) |
+| [Moon/Vulcanus = Saturn](../activations/moon-vulcanus-equals-saturn.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-vulcanus-equals-saturn.md#witte-entry) (PDF p. 136); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-vulcanus-equals-saturn.md#abc-entry) (printed p. 205) |
+| [Saturn/Vulcanus = Moon](../activations/saturn-vulcanus-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/saturn-vulcanus-equals-moon.md#witte-entry) (PDF p. 230); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/saturn-vulcanus-equals-moon.md#abc-entry) (printed p. 366) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Saturn = Vulcanus`: This activation intensifies `Moon/Saturn` into public inhibition, vigilance, and compressed strength held under restraint. It points to guarded feeling, alert populations, and powerful tension that cannot fully relax, making seriousness feel militarized or watchful.
-- `Moon/Vulcanus = Saturn`: To cause public interest through one’s own good fortune. To spread optimism around oneself. Dealing with optimistic women, to spend happy hours with them. To be fortunate with representatives of the public and with people having financial power.
+`Moon Saturn Vulcanus` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

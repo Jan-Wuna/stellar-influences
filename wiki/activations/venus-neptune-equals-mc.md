@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Neptune MC](../triads/venus-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Hopes are not realized. False love or sex instinct. Love’s sorrow. Moment of d
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Blessed Licbes expectation, I love the unknown, I love the water, my secret love, my love exchange, my fondness for metaphysics, my future wishes, soul Harrnonie by subtle feeling, and unknown soul impulse
+Blissful expectation of love, I love the unknown, I love water, my secret love, my disappointment in love, my preference for metaphysics, my future wishes, harmony of the soul through sensitivity, and unknown impulses of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `189`, coded entry `0637`.
 
 #### Ebertin Entry
 
 A peculiar and strange disposition, romantic reveling in love, dreamy nature, inclination to lose oneself in illusion. Disappointment in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Learning to be effective in creating what others think they want to see and hear
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personally felt romantic expectation or spiritual aspiration, with unrealized hopes.
+- Psychology: Dreaming, illusion, inspired self-fantasy, and a wish to reveal finer beauty.
+- Body/health: The entries supply no specific bodily or medical condition.
+- Social/relationship: Secret love, disappointed affection, or gentle sharing of spiritual love.
+- Events/manifestations: Revealing beauty to others and creating what others want to see or hear.
+- Conflicts/notes: Sandbach's spiritual mission differs from the older entries' emphasis on disappointed personal hopes.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's spiritual mission differs from the older entries' emphasis on disappointed personal hopes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = MC`: creative vocation, glamorous public image, and a life path opened by sensitivity, imagination, or spiritualized value. Main caution: drift in purpose: vision can outrun structure and leave direction beautiful but hard to ground.
+`Venus/Neptune = MC` makes idealized love a personal hope or guiding aspiration. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize unrealized hopes, dreaming, and disappointment. The [ABC entry](#abc-entry) holds blissful expectation beside secret love and disillusionment. [Sandbach](#sandbach-entry) gives the aspiration a spiritual purpose in revealing finer beauty and uplifting others' capacity to love. [Munkasey](#munkasey-entry) adds inspired self-fantasy and effectiveness in creating what others wish to see or hear. Personal aspiration may therefore be directed toward subtle giving or remain invested in an image that does not become fulfilled love.
 
 ## Links
 

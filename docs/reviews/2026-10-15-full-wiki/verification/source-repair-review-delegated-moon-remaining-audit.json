@@ -1,0 +1,1883 @@
+{
+  "checked_at": "2026-10-15T13:43:07.400949+00:00",
+  "scope": "Independent remaining Moon115 exact source-delta gate. Every full baseline/current section and full unique owner record read; ALL changed blocks/new refs raw-checked. Repeated ledger fields reconstructed from fully read bases, complete overrides and removed-field reconciliation. No new page-review counts.",
+  "records": 115,
+  "unique_paths": 115,
+  "accepted": 115,
+  "held": 0,
+  "pending_owner": 0,
+  "selected_manifest_groups": [
+    "moon-admetos",
+    "moon-apollon",
+    "moon-asc",
+    "moon-cupido",
+    "moon-mars",
+    "moon-mc",
+    "moon-venus",
+    "moon-zeus"
+  ],
+  "actual_nonempty_groups": {
+    "moon-admetos": 20,
+    "moon-asc": 13,
+    "moon-mars": 22,
+    "moon-mc": 19,
+    "moon-venus": 21,
+    "moon-zeus": 20
+  },
+  "pending_ledger_excluded": [
+    "wiki/activations/moon-cupido-equals-admetos.md",
+    "wiki/activations/moon-cupido-equals-apollon.md",
+    "wiki/activations/moon-cupido-equals-asc.md",
+    "wiki/activations/moon-cupido-equals-hades.md",
+    "wiki/activations/moon-cupido-equals-jupiter.md",
+    "wiki/activations/moon-cupido-equals-kronos.md",
+    "wiki/activations/moon-cupido-equals-mars.md",
+    "wiki/activations/moon-cupido-equals-mc.md",
+    "wiki/activations/moon-cupido-equals-mercury.md",
+    "wiki/activations/moon-cupido-equals-neptune.md",
+    "wiki/activations/moon-cupido-equals-node.md",
+    "wiki/activations/moon-cupido-equals-pluto.md",
+    "wiki/activations/moon-cupido-equals-poseidon.md",
+    "wiki/activations/moon-cupido-equals-saturn.md",
+    "wiki/activations/moon-cupido-equals-sun.md",
+    "wiki/activations/moon-cupido-equals-uranus.md",
+    "wiki/activations/moon-cupido-equals-venus.md",
+    "wiki/activations/moon-cupido-equals-vernal-point.md",
+    "wiki/activations/moon-cupido-equals-vulcanus.md",
+    "wiki/activations/moon-cupido-equals-zeus.md"
+  ],
+  "all_source_blocks_read": {
+    "Witte": 108,
+    "ABC": 108,
+    "Sandbach": 42,
+    "Munkasey": 45,
+    "Ebertin": 32
+  },
+  "source_blocks_raw_checked_for_changes_or_new_references": {
+    "Witte": 108,
+    "ABC": 108,
+    "Sandbach": 42,
+    "Ebertin": 32,
+    "Munkasey": 25
+  },
+  "optional_unchanged_blocks_also_raw_compared": {
+    "Munkasey": 11
+  },
+  "inherited_blocks_read_not_newly_raw_certified": {
+    "Munkasey": 9
+  },
+  "native_English_normalized_complete_paragraph_matches": {
+    "Witte_true": 106,
+    "Witte_false": 2,
+    "Ebertin_true": 30,
+    "Ebertin_false": 2,
+    "Sandbach_true": 42,
+    "Munkasey_true": 36
+  },
+  "four_personally_scan_resolved_raw_text_exceptions": [
+    {
+      "path": "wiki/activations/moon-mars-equals-pluto.md",
+      "source": "Ebertin",
+      "decision": "Actual0358 continues over printed120–121; folio interrupts raw extraction."
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-vernal-point.md",
+      "source": "Witte",
+      "decision": "Actual The versus raw OCR Ihe, personally scan-confirmed."
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-mercury.md",
+      "source": "Witte",
+      "decision": "Actual The thoughts versus raw OCR TTie, personally scan-confirmed."
+    },
+    {
+      "path": "wiki/activations/moon-venus-equals-sun.md",
+      "source": "Ebertin",
+      "decision": "Actual graceful versus raw OCR graceftil, personally scan-confirmed."
+    }
+  ],
+  "final_hash_rebounds": [
+    "wiki/activations/moon-venus-equals-mars.md",
+    "wiki/activations/moon-venus-equals-mercury.md",
+    "wiki/activations/moon-venus-equals-pluto.md",
+    "wiki/activations/moon-venus-equals-uranus.md"
+  ],
+  "owner_followup_records_amended_in_place": 4,
+  "source_note_followup": "Notes18 on Mars0341 and explicit Mercury,19 on Uranus0344,20 on Pluto0346 accessible with exact refs/stable anchors, historical attribution and no automatic orientation transfer. All4 final complete sections/full amended records/visible qualifications independently reread.",
+  "unresolved_source_context_limits": {
+    "wiki/activations/moon-admetos-equals-venus.md": [
+      "Actual WittePDF135 prints 'Longing to be loneliness.' Exact intended grammatical form cannot be certified; retained unchanged. Meditation and contentment are independently clear."
+    ],
+    "wiki/activations/moon-mars-equals-neptune.md": [
+      "ABC Arbeits-Verneinung remains literal negating work; no actor or form is stated."
+    ],
+    "wiki/activations/moon-mars-equals-node.md": [
+      "ABC mediation of working hours is literal; the source does not specify its precise arrangement."
+    ],
+    "wiki/activations/moon-venus-equals-hades.md": [
+      "ABC's Liebes-Kriminalität is unspecified; retained literally, no particular act inferred and excluded from confident general meaning."
+    ],
+    "wiki/activations/moon-venus-equals-pluto.md": [
+      "Munkasey's reciprocation against those who take from the disadvantaged is not expanded into a specific retaliatory act; original text preserved and uncertain phrase excluded from synthesis."
+    ],
+    "wiki/activations/moon-zeus-equals-asc.md": [
+      "ABC's Umwelt-Leistungen is retained as environmental achievements without assigning a specific ecological or occupational meaning."
+    ],
+    "wiki/activations/moon-zeus-equals-mc.md": [
+      "ABC's ensouled wording is retained without adding a philosophical mechanism or using it as proof of a spiritual condition."
+    ]
+  },
+  "source_files": [
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00"
+    },
+    {
+      "path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d"
+    },
+    {
+      "path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895"
+    },
+    {
+      "path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6"
+    }
+  ],
+  "strict_bank_sha256": "f0664530baedaea32a26150336559c7c3ce743336bdfe20c22de5b535c874f4e",
+  "proof_files": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf100.png",
+      "sha256": "b4f650cee68cdd6af40992dd2ae3415bafc90ae7fc8e8ea3e05e1aef78bf3cef",
+      "source": "abc",
+      "pdf_page_one_based": 100,
+      "raw_page_text_sha256": "226b505fc7c123c35b94955911ef9fc31eba20e7d81ad2ac29a9cd8ba6e300f4",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf31.png",
+      "sha256": "3a88bd5e861ea46e6c30594e0f787d973097573c4c02c4503907b15fff97c6f8",
+      "source": "abc",
+      "pdf_page_one_based": 31,
+      "raw_page_text_sha256": "74a10b85e3d233ead79e136f12be174ab8f230a9902c15a954dfa2e7af5cf318",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf50.png",
+      "sha256": "970fc27d6bc78ae6970bedba5e2263325b73ffe93ba9e85a17e2cbcb0da5a127",
+      "source": "abc",
+      "pdf_page_one_based": 50,
+      "raw_page_text_sha256": "fc026bac85e6ecef9990c6bc8614e33d8b2609e834afd4224a393a61b8d7822b",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf88.png",
+      "sha256": "89101ae000a0f2ed4d478f2b4853ff74525654250a980ba6cbafe076db625cc2",
+      "source": "abc",
+      "pdf_page_one_based": 88,
+      "raw_page_text_sha256": "1f7bb633e52625b00b6a8e450ea33cf463cbffe49bd52793b6ba84f4657af79c",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf89.png",
+      "sha256": "3950375605681fda995132249a7ae4ebbc5350f452e93b4724e85c3782e3ca94",
+      "source": "abc",
+      "pdf_page_one_based": 89,
+      "raw_page_text_sha256": "9ef4f4006980de524bed7f0e801a5a457c2cc4027437d447704072fc4d71a5c4",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf97.png",
+      "sha256": "3d683659b0ab2d65bc8483a4c4684ce64a509bbb8c3df4cb3f2e39648977ea6a",
+      "source": "abc",
+      "pdf_page_one_based": 97,
+      "raw_page_text_sha256": "8482a5ab1de05b9b0b7a8c3a5faa8dc3ebe11f5c0c9ca65261fee29e75fe97ea",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf119.png",
+      "sha256": "c819af682e75d865af46d6f5d25e41c9839bc408de1301aa476b840c7743d3ae",
+      "source": "ebertin",
+      "pdf_page_one_based": 119,
+      "raw_page_text_sha256": "4a93e77a72ea14a88111d9fa49113f6ce6a243153610c45782d54431f086ecd1",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf120.png",
+      "sha256": "dfaa90724d0a3b74de50c183de5ea26c46f4aef4bb23e924734639fa64bedbcf",
+      "source": "ebertin",
+      "pdf_page_one_based": 120,
+      "raw_page_text_sha256": "d6791883b73c8566be4de80faae962a73cd423fc2fbb8496466d57f02c594ef0",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf122.png",
+      "sha256": "1d7d6af4cd33a2d7974c8f91ba4dbcd3baa6468cd311d93ce3a045d48e8564a9",
+      "source": "ebertin",
+      "pdf_page_one_based": 122,
+      "raw_page_text_sha256": "4039bd43c8934409eb3e47656cc8c7ee58cb95f2d85dc9d54902c7b1434dce5b",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf123.png",
+      "sha256": "77ab85aee0b7045403d81d75ff4aa87e4b5c986afeb82de6d4f1522547779929",
+      "source": "ebertin",
+      "pdf_page_one_based": 123,
+      "raw_page_text_sha256": "d717823975624d9e57e1e2390c13e7eef6e60f34a9ca876aeeeb7edd5c8c1f34",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf145.png",
+      "sha256": "a5a4785386044a846d427cc04a9f9c300e7a691e71ef65c0ee1319d5d9df6cd6",
+      "source": "ebertin",
+      "pdf_page_one_based": 145,
+      "raw_page_text_sha256": "91f3121e80b44e3a898956247796ad515fe2b200ef2f28893bcd061af0783096",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-ebertin-pdf146.png",
+      "sha256": "48f6bf6d43ba4f1caf59eb6222c64b68b6f5f322ecdd7d18d720661a322d137c",
+      "source": "ebertin",
+      "pdf_page_one_based": 146,
+      "raw_page_text_sha256": "4ee24df87b07c58ad9d29cf06d7dac5b1e9bb1d1f62f3f04352b8d4ad11ccacd",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-munkasey-pdf109.png",
+      "sha256": "21d10cb605d4631257c12a3270a4fa7de7dc2abb28cf22aa02019b1152278de9",
+      "source": "munkasey",
+      "pdf_page_one_based": 109,
+      "raw_page_text_sha256": "7860d4af918c46503c02473b537b9c3994fc5ed37ea95f0f35650aa6ac0b8537",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-munkasey-pdf113.png",
+      "sha256": "1e8f0f8d5396a88a2b8f95a7b4ea498850d5222c321db1165f4916e34ecfb8d0",
+      "source": "munkasey",
+      "pdf_page_one_based": 113,
+      "raw_page_text_sha256": "92a10e1fe5f234aacc6981a12b860b82b9503ddefd422108843a8c4b4bd81251",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-munkasey-pdf115.png",
+      "sha256": "d5834bfb529f01e875bb1ed2d656a05c557a765490cbf6bbb57ee881b677e311",
+      "source": "munkasey",
+      "pdf_page_one_based": 115,
+      "raw_page_text_sha256": "c032159252992dd2c95d663c578e5fe4022b1dc27f0af63c6fe434fca609adb6",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-munkasey-pdf145.png",
+      "sha256": "d5a3377724aecbbb87ae42db00a1a961f927762d9e88c9a656bd004f8c15eb3b",
+      "source": "munkasey",
+      "pdf_page_one_based": 145,
+      "raw_page_text_sha256": "934dbf5654a9026567a5ed1161b43d3bd6af9b5c8eb4e1d0eba6a823eca9e226",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-munkasey-pdf147.png",
+      "sha256": "75e588e5ccbf00e606968bbb5573019f5a1bf9d430702e9c69c2e792c9322a28",
+      "source": "munkasey",
+      "pdf_page_one_based": 147,
+      "raw_page_text_sha256": "0688863f7911272fe472373d7588422552b3db6548cd2606eda34156d736e9c3",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf27.png",
+      "sha256": "c971308c07bf7c0f3e603bc1a0d741e960f5e451ba7fc10547d257cfa539c8e2",
+      "source": "sandbach",
+      "pdf_page_one_based": 27,
+      "raw_page_text_sha256": "586b7a064b15ed7c4c26632215b9e1da8dcef424838ce17352d3dcd5864a3a53",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf28.png",
+      "sha256": "19dd58528bfdd743171643030448fd4ca9d828abdffcdae02f65ef3bfddda378",
+      "source": "sandbach",
+      "pdf_page_one_based": 28,
+      "raw_page_text_sha256": "1bece9e72adb2f9271e06d612a74d858d0ee4fe69d91ce32a918458a33484905",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf29.png",
+      "sha256": "514bbc01a98bcced1d1876699cb057ec25fa599c6bbffc822b7a42d3af52ccf9",
+      "source": "sandbach",
+      "pdf_page_one_based": 29,
+      "raw_page_text_sha256": "99ffc453df83a212c6eba8413180e77afb092fbcee0a0047e14bf920d15252bb",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf39.png",
+      "sha256": "21239bba7981104a04249462890b941197ba7d66d7a7680da40f53b534a04ef3",
+      "source": "sandbach",
+      "pdf_page_one_based": 39,
+      "raw_page_text_sha256": "38ef88a487b95a9512f3d42dabeb016c022b793ec299d22a0ac5d42411d41338",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf40.png",
+      "sha256": "d27ee06a30f263dd4c0a19a727c483182d63b9051041ac1791173c6742c9b204",
+      "source": "sandbach",
+      "pdf_page_one_based": 40,
+      "raw_page_text_sha256": "7a039b9b53f600104ad59ef93b462aaae537f509881f56a27c8160020ac5f653",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf41.png",
+      "sha256": "acdbca82ccc0b0b01cbb87ab2b417d3877eef7c79d8a6e37ef55e37e9dcb780d",
+      "source": "sandbach",
+      "pdf_page_one_based": 41,
+      "raw_page_text_sha256": "4788e1f8670376a92ccd11ff3ace2a6f10a6a616c2b2cc90c0fdfff15a7b754a",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf123.png",
+      "sha256": "e771815c5827326eab0667c89befbb5b01213ac02fcbb04f159ad874df897faf",
+      "source": "witte",
+      "pdf_page_one_based": 123,
+      "raw_page_text_sha256": "a9e570156e04e1f6b5c2af13879cd2092ef954a1c33581c2a0ea7b5707324617",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf124.png",
+      "sha256": "4c45402019cdad4f199b795eab28c49f3c1e8977403627a70c44321d752ccbbf",
+      "source": "witte",
+      "pdf_page_one_based": 124,
+      "raw_page_text_sha256": "7bc15ec419c0ac549bafbc8ea4ad66d62956455dc2da7ddc1872fec68182d8fb",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf132.png",
+      "sha256": "69f3c079ee0329adc0de41cbb9e1fbd323a34a288cdca3719c86decad2b0f886",
+      "source": "witte",
+      "pdf_page_one_based": 132,
+      "raw_page_text_sha256": "734647e0752073d31c0876816bd2c2e267684cc14679e1b05bec2c562a21ab2e",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf135.png",
+      "sha256": "0043f723b07d81509f240a99c8ae408095652d133c49ef17984d7d94695dce58",
+      "source": "witte",
+      "pdf_page_one_based": 135,
+      "raw_page_text_sha256": "cefa53fe75abae4e5ee0885d0b212fd5d56b52e746dda7944de5c240a6358dcf",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf60.png",
+      "sha256": "cde34ac355f9b8676c8ddea0345f85a993a40ede63a36bb549d470e2aa62864c",
+      "source": "witte",
+      "pdf_page_one_based": 60,
+      "raw_page_text_sha256": "46631861e137e6b485e9dd71cd5f23290e67ccd50a5ef8b2aa05eb701094365c",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-witte-pdf81.png",
+      "sha256": "c5bdb5a23b41c3983e850a481113454e616f4e08c260ed2cab7bca209871a3ac",
+      "source": "witte",
+      "pdf_page_one_based": 81,
+      "raw_page_text_sha256": "10fa96c7a24c1cc37784ece12f06189019782fea54b0c97207c090ae31e60cc2",
+      "personally_viewed": true
+    }
+  ],
+  "check_columns": [
+    "path",
+    "before_matches",
+    "current_matches",
+    "unique_ledger",
+    "ledger_line",
+    "ledger_record_sha256_of_utf8_line",
+    "raw_complete_English_comparison_or_ABC_scan_check"
+  ],
+  "checks": [
+    [
+      "wiki/activations/moon-admetos-equals-apollon.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      7,
+      "89a973cc1ef8066b2e292ff9ef5a7b68887b6565cac9c37d4c281b5ae9d43d60",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-asc.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      8,
+      "fe7ce4f6c1923175f8938c0b1d3b908c29e24eb99cc8cf468cac6f8ca475a80f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-cupido.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      9,
+      "3196443826160c9dbc453039b9d875ae9ba1bd9523b262cc0a2b7863f5546ca6",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-hades.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      10,
+      "410d4c1a4427a0dc498678225035d03c24202a430c2a91f2231c4759f6553f3d",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-jupiter.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      11,
+      "66a5df1bb36ad61f9c2d54ea0406cf230484b6604e4bc9db51e320078ab4cc78",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-kronos.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      12,
+      "a68de9065a15b40f6ea121b037dba49dd23823fe49cbcb83cceb0c01817d4d75",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-mars.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      13,
+      "6ec70345a40b61a9d402ee00cedd77ad0ca5c06d25ed804ac2f5f223ea9a7f03",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-mc.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      14,
+      "e2b1efdbcf81ec6f4f32e1953194151d48ef3255466f2244f9d0f462e686136c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-mercury.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      15,
+      "0c416cce49fbfcecb65959a9d3ed0dc3c7250f7f60ff59ef87556d555eec6ac4",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-neptune.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      16,
+      "d1d2327c8f3e455e6dc97f90334f6273af236fc84cc6d97e5354c1e51c0a36bc",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-node.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      17,
+      "f234e99de11c5a3e094475ac14f44c63718bdc328ac372228e391e696c2d8dd2",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-pluto.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      18,
+      "168fe83dba7caf5c1e2f6000c2a0966ba3c15c5db21585c0474e301dc51a92e9",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-poseidon.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      19,
+      "9df0a590581e32a20341ec064213bb3fadcf64f83f8e9e4bb536e2719660386f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-saturn.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      20,
+      "6d3a1b62d87fbf3c0177917b3b9a7a9c068d875984d5664cc2ddb488c5684d74",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-sun.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      21,
+      "a60fae68e6924a21a5b9791ab47942953de0ef56315ab63afa0086ad09c3a704",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-uranus.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      22,
+      "82eb78cf7ab7a90356b7e9b2e7d396d34663f409809b9c8e9dc28043e8f64cef",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-venus.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      23,
+      "2f78b89276e2593c0b9ac41b1231217acf1e27a379585d67fe64a8b4dfc9723c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-vernal-point.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      24,
+      "318f9156ed589de2c9d2fdd4c03329d8ed43d9e057bbc47040dd645dce3aa1b7",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-vulcanus.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      25,
+      "935ac6b6abe8f4ac2a5266cc4ad26e0c6bdb19bf918fd92b5ab333442f6f7634",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-admetos-equals-zeus.md",
+      true,
+      true,
+      "activations-041.jsonl",
+      26,
+      "ff4ebe92fa1f8bb1faf862ee5cd9fbe730d3aa7ca790104477be95ed5a317875",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-mc.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      3,
+      "e43ee1a0534266d124109af5577d29feaf2b821397ad66b0300887c40c4ad2ad",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-mercury.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      4,
+      "108a7573782cf9e6156425420d4904efeecbbbc893227aa1235b1bdd29a33b03",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-neptune.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      6,
+      "48a84b54710bb66853b31d75590665d451b84638518e559810fa91e7ae8635d8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-node.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      7,
+      "097f9bdc5ed2c5c00f4f32d85629788e6ed5eea620dcf2c1b51a485e6b99a33f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-pluto.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      8,
+      "581750ded4ac2438128092aa253874d7eae5f235f930a35b49b65016a1c0995d",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-poseidon.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      9,
+      "494e8da0f815f9332215e4c45704bf13ce17e4e36224f0bbab8665a201c93e93",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-saturn.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      10,
+      "559da44b7c5d48c5c54554447181442352612fc593bb68f3b796219567ace497",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-sun.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      11,
+      "23a0e42c15c40d071266a4f9e805545cf3d3d7a9cc1202c94bac107907576861",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-uranus.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      12,
+      "5072c429fc9b6c757ad2a87236c0f882dffa587b70e07230b95939f2c7c110a5",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-venus.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      13,
+      "d73457cdaf54126f8772b941e90b4853f6cd41862d90a79a021a9f38ae6d1b04",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Sandbach": true,
+        "Munkasey": "inherited_unchanged_read_not_newly_raw_certified"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-vernal-point.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      14,
+      "8400bb30531b5b7958476c4c48b87502cdbe3f5fff6ce6ac859096e659aa1ba5",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-vulcanus.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      15,
+      "b25cf5077e9caee4782eacbcc1253cc9dceecc828fad9c30dd75e5a5bbb3cd6c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-asc-equals-zeus.md",
+      true,
+      true,
+      "activations-042.jsonl",
+      16,
+      "d2acfefc1fc9ed4481aebc663820d33f03a11557082a1e09e47404c9c3dc91c1",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-apollon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      1,
+      "9392a3aa803ad0e4b161b38c6efdbf4f9247c5b2751b66fa1b0143351c82d829",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-asc.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      2,
+      "567ce76f0c782411d2f3084bd843dd3c9f5e1cdd797a8207cbba6dfe6f5f299f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-chiron.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      3,
+      "a1fbb39308ba5658928c6d0247e767de31329f7e221e6d2c8de892f39d45d603",
+      {
+        "Sandbach": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-cupido.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      4,
+      "7b7dcc2fbadbe19e092cfc7bd1b76b23b04a699985e3a378d2f3a30fc6221698",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-hades.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      5,
+      "2eeb4b01c6f5b023c04fc97d4ea7f2f37e3e2522604c369d6b287db908ecfeb3",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-jupiter.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      6,
+      "5bc7c130965f8f7af5606e535f57fc17ddae1d10f88acd472b5fa2046a86ba69",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-kronos.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      7,
+      "31adffe69e5256c1af5cc749b96b8170b3c7a17326665dc4b0be65ae4cf5e6bf",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-mars.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      8,
+      "79e425a501098fded76a9fb56746b7798a023738350a2c2be18f5e351614722c",
+      {
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-mc.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      9,
+      "c8caf8c9a0c67efe1fee3e5432d958a528ca7d7a1330ef9933097780233dc7ae",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-mercury.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      10,
+      "bc7144667cc73da8ae94e727daf806e910dc19a59fef9ce20ffcc563f85a974c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-moon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      11,
+      "011019b79cbb513d310584308d48ec36e1557fab04caf996b39b95a54469853d",
+      {
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-neptune.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      12,
+      "f28a58f20a2291f120a488308a30383f6aeef04565e2a18b4443a138306a3966",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-node.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      13,
+      "4beb3226ae9fae7f79cd5f7fe18fda8ff526ec029cafe206de26e4dcb3d71a6e",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-pluto.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      14,
+      "516c70d6451a29248af6aa25dc9f9ff2042ec9b547a1b74ca29aac371a4fdab0",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": false,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-poseidon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      15,
+      "236d5615629c4dbad3878f10c76f451496d940bcf99b44f16c448701e855196e",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-saturn.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      16,
+      "976a1c20cc429f318aca871028c87596f8e7fb1e7e6751e2a7d240d9a64458bc",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-sun.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      17,
+      "c8c6fc1be2a3541f53202f50a6feacc00f733edf0732d9619506f5a0e4663822",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-uranus.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      18,
+      "90466daf90377a42eceff354943d12d32bdba8dbd2d87a6334d815eee6e0514b",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-venus.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      19,
+      "02799223fe74011fa12333dd0c969c6bc80f1addb4fba60592887d5d9afb4af7",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-vernal-point.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      20,
+      "bdc89a4a1911dc2b6a8880d2a5dd5e4ba94930c830c4737baf7982773e293042",
+      {
+        "Witte": false,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-vulcanus.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      21,
+      "46f11ef0759134b65851c82983346915d56147e5a385e298a5a1df2fd3f0c301",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mars-equals-zeus.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      22,
+      "4f36487bc737829aa519a21a6fb85e5f5447aae3b8b3d3a281081697c045bab6",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-admetos.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      23,
+      "7835510a185324531e22fa31b5bf2874f4233b14cfd39f1bc3fe133784ac751c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-apollon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      24,
+      "ef7b1b9fdb58cbd8ef5f4e3ecb3174673e74e72517717f4cca9d2825b0bf9d07",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-asc.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      25,
+      "e0c1329b87290c79629d57c9dfd1960c226f7d06bfc3b932643fdaf0cdb2d9eb",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-chiron.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      26,
+      "0ff43d43904632d03cefbef7405b4fc66c3ba02bb1f6da6e01a6a8775ef6e20b",
+      {
+        "Sandbach": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-cupido.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      27,
+      "a08cd946e35c865908d2deb8033b8b9f3021064a0b78b2579a7ef47bd2522e75",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-hades.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      28,
+      "fa01597ff82319ff9835a2081453b42998119d275deeabc8c3090553386aea5c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-jupiter.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      29,
+      "dc5b2e4f9e2841637753471c0f578934f3e6eef8013f6d814ba024e92ba07a1a",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-kronos.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      30,
+      "ffe6fb8759606912cb2084ab2400e99a3798004d463326201e7b1c183b9acea1",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-mars.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      31,
+      "020587062b37f8d44d27e6dd00a8a15f573cbcd758ec78584c449019416f5c90",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-mc.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      32,
+      "923c698ead989a046649a3336303ad1c6b481190b8501fc1e761067fa9c7b088",
+      {
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-mercury.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      33,
+      "9d2eed1ebc901adca1b5663b996e1ef80e09b0aabef53d342772aeff0b0dcf22",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-moon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      34,
+      "a55fa2f7db7c60edb5184c58c4eb48d1c79bf278558bfc432b87e343258ebadd",
+      {
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-neptune.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      35,
+      "fc5c1e70a10e5b6721dfd1386af5a8259d7c8bc0e32d411f7fcef113be1dd0c8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-node.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      36,
+      "4ba2e26b33157ada5eb0d8e9b83c10259035ce3396328052f3169415d8e5f146",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-pluto.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      37,
+      "97102593ce668b6c4fd40bf32e94b817cc50309fb721980acedb9f9315ed9d3f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-poseidon.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      38,
+      "82bd5f846040695777ee0294ca525a98199e06c4e266abffc93c75371bcf75c8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-saturn.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      39,
+      "8738fb6db6c2b034578f66e1dd7b4e37eb4946dfdef34eaba5f02fbf0bc0aae8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-sun.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      40,
+      "65887892f45e073af3c518b5f5dcb6c72bbdc033040607800f8aa4a431dd9fac",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-mc-equals-uranus.md",
+      true,
+      true,
+      "activations-044.jsonl",
+      41,
+      "2d00798ea412efe6062715c782ad540069a8f0ce267597a7894c2752052a3afc",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-admetos.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      27,
+      "6ca9a3e325cf06e32a2f220fc1a33f6dac98cc3cdf28fcbbf9dab87242e1b00b",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-apollon.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      28,
+      "746dffb6a32db7b9106d539b0eb80a07c90acc60eee5c6ca3c24a1e6dae658dd",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-asc.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      29,
+      "39f9b810995eae50ebb2caf74c00e1f1636d8513a51eeda733919afd7e1959e1",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-chiron.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      30,
+      "5ec29ce391c018f1f79257543ac257eae160365ea55aa4ca780cb42063b415a9",
+      {
+        "Sandbach": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-cupido.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      31,
+      "d58ab6d248f80b2c794ec5e7a34cd7bbb57958d527493a5e7a07c1c17b4c79a4",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-hades.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      32,
+      "df60a0193fea4cfc72b878f5e9f8c6b9f38ef167018c49f3e69a251e988e2f9c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-jupiter.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      33,
+      "65ebab1865be74ae37424eb49fe43bd00cef9f807c4fbec4e1947f32d61c24c9",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-kronos.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      34,
+      "931df892cd0377f0e60d203ea4a0b204cb9fd33e5e448ce2a7721ec9b8941974",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-mc.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      36,
+      "0b0a3bf565589129f83352da7d4721642e3bb048c8d28143b326d5f1fbc15182",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-neptune.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      39,
+      "6b892424ce274a64174425ce62886cdf97e72704308db6218d3fb5040a26d437",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-node.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      40,
+      "76e6bea3f1c599f8d1d094aff0bbc1a611d770d9132ffa172cc50f7c8a8c503d",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-poseidon.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      42,
+      "23fbfa1d6c749ec010daead737055e25fe3aa3aacaae78221380cb3ae2881ae7",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-saturn.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      43,
+      "41857162fa6f79606fa4fce27220f2ed95c5cbefe8e4cde587e3869e67cae83f",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-sun.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      44,
+      "5f768f37cd5a20a08326c049f8f598dc5846d4989a27929a9a0829d266170759",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": false,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-vernal-point.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      3,
+      "cf730231f135d4d24fa05d569300abff6289f77e346f5aa738a8b55161c463c1",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-vulcanus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      4,
+      "dc95a9cc2155ac0c8fbb3d22db6cdb5b1b1ffb5bb0080700f1da1c1e5f11ff31",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-zeus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      5,
+      "9407e7aa777d9b39f364e4cdf3134dd7aedf5fb88cd66ec7544c4d56c00fa4fa",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-admetos.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      26,
+      "a6942f71e0a568181d0bfc1bd6385bf16947c8e60fd0d5b47baff84d60101ffa",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-apollon.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      27,
+      "200e9cf30a1c15ddb7c87de438a69b5aea8be59a98e970b204d9e562412810b8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-asc.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      28,
+      "8f1e3d7948c13f82df885da3eaf1f7bb78519a45360f21267fce34a4a334a3c8",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-cupido.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      29,
+      "809ba9e824d9951d9992c725ba4c6fc9790a08c1976a5e938bfa695b8543c877",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-hades.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      30,
+      "354b19c26885d1bfac3704bbaa2f53340ace8ccdca777cd1a5f444fdab5ebfb5",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-jupiter.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      31,
+      "7899493c9bf4905e5b01298b74e4383b7158a9830a69bf5c07f3d34acc145528",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-kronos.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      32,
+      "20c11ac82aa40e52006eab4363ccf137aa932c749d39c9870fcc3e45e702b0ee",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-mars.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      33,
+      "fd780e304135cccc8695b4f38514f6689baa9dc54020d2d0d40b5b1c33e93b4b",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-mc.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      34,
+      "63ea71ab544a5e27fe8c5671a325b770bcc295e5d6b13f42ff8f02828f771ca6",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-mercury.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      35,
+      "7d55a0042976424c5f268c4e6b43947cc3df8145476f8f42b20e68488846f17a",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-neptune.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      36,
+      "7a4032b56d066a1174643d223f0384b472ba4afd70e64f52f139e75a88c30109",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-node.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      37,
+      "0c41e80fa115702c8c0d7d0cf5365752bb79fd40970b133465144142838383c2",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-pluto.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      38,
+      "6f5407128f31a23211fb6a3ce8b5d519b875c81bc01857485a55c6f50d92cfd9",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-poseidon.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      39,
+      "ce3538ab9e70b7e2f5d1304a4a0d5ee5054b27889f79b42efb72ad478b71e6d6",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-saturn.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      40,
+      "a5edad16cf7bb5e2dacaf3f4b4ca8c081d6a4975e0e82219f9ad38b21c2101ba",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-sun.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      41,
+      "89053133da963eab028330a0d10e3d5e65e48d7b202e25f2a46c405391946ca9",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-uranus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      42,
+      "b20b5e9a6a1aa1f4498f969205c87d12a5c2650440db129bb09bc19a7f2046d1",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-venus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      43,
+      "71a38c9d3f94d1df42faafc52276238fd3a9d10aaafcfd565993d4428a496605",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-vernal-point.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      44,
+      "cb2f9df786f63fc187bd30e51f82da431b5b7a568ed27fa85e431ac7e6623fb6",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-zeus-equals-vulcanus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      45,
+      "3123f706ca5b85dc975fce1f877bd4cf6f040459933b62dfc31318f7fa1fe27c",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked"
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-mars.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      35,
+      "1bfc90069ef1b1ec87e9134b452717636f5e3bee36ee63260502c8dcb2288a91",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-mercury.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      37,
+      "a55fd06a592b549154d2dc665ffabe327688904e299e6541ec1d1c41d4765a8f",
+      {
+        "Witte": false,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-uranus.md",
+      true,
+      true,
+      "activations-049.jsonl",
+      1,
+      "71512aae002e62405d3748c2f0584276d221a98a7ef352205ad64ee10c7df87e",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ],
+    [
+      "wiki/activations/moon-venus-equals-pluto.md",
+      true,
+      true,
+      "activations-048.jsonl",
+      41,
+      "131cd843d30bd601d4213a992e7940879d13884675b0af8412c6cf69914b8900",
+      {
+        "Witte": true,
+        "ABC": "complete_own_glyph_German_scan_checked",
+        "Ebertin": true,
+        "Sandbach": true,
+        "Munkasey": true
+      }
+    ]
+  ]
+}

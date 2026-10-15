@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Asc Admetos`
 - Astronomicon triad-set: `Z Asc ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Admetos = Pluto](../activations/asc-admetos-equals-pluto.md)
-- [Pluto/Admetos = Asc](../activations/pluto-admetos-equals-asc.md)
-- [Pluto/Asc = Admetos](../activations/pluto-asc-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Admetos = Pluto](../activations/asc-admetos-equals-pluto.md) | [Asc/Admetos](../axes/asc-admetos.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Admetos = Asc](../activations/pluto-admetos-equals-asc.md) | [Pluto/Admetos](../axes/pluto-admetos.md) | [Asc](../factors/asc.md) |
+| [Pluto/Asc = Admetos](../activations/pluto-asc-equals-admetos.md) | [Pluto/Asc](../axes/pluto-asc.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Asc/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
-- `Asc/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `133`
-- `Pluto/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `418`
-- `Pluto/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-admetos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `96`.
+- `Asc/Admetos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-admetos-equals-pluto.md#abc-entry), printed p. `133`.
+- `Pluto/Admetos = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-asc.md#witte-entry), one-based PDF entry-start p. `262`.
+- `Pluto/Admetos = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-asc.md#abc-entry), printed p. `418`.
+- `Pluto/Asc = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-admetos.md#witte-entry), one-based PDF entry-start p. `90`.
+- `Pluto/Asc = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-admetos.md#abc-entry), printed p. `121`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Pluto`: environmental change that triggers new feelings of inferiority, reordering who stands apart and who yields.
-- `Pluto/Admetos = Asc`: This activation emphasizes the native goes through deep reaching changes in relation to the surroundings and other people.
-- `Pluto/Asc = Admetos`: This activation emphasizes deep reaching change in relation to others.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

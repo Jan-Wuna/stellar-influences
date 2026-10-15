@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Venus`
 - Astronomicon formula: `X/Y = Q`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,17 +39,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Venus entry.
+
 #### Witte Entry
 
 To feel clarity (similar to clairvoyance). Unrequited sudden love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Venus entry.
+
 #### ABC Entry
 
-Exciting love exchange, exciting love anticipations, tensions through secret love, technical refinement of the artist, surprising love weakness, preference for metaphysical experiences, and future impulses of the artist
+Exciting disappointment in love, exciting premonitions of love, tensions through secret love, technical refinement of art, surprising weakness in love, preference for metaphysical experiences, and future impulses of art.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0942`.
 
 #### Ebertin Entry
 
@@ -55,9 +63,11 @@ An extremely high sensitivity, peculiar art, one-sided reveling in love. A pecul
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Venus entry (chapter begins on PDF p. 104).
+
 #### Sandbach Entry
 
-An expanded and visionary love nature. Reveling in romance. A love of all that is other worldly. A love of art which is cosmic, unusual, and and/or which expresses the energies of the mass consciousness of humanity.
+An expanded and visionary love nature. Reveling in romance. A love of all that is other worldly. A love of art which is cosmic, unusual, and/or which expresses the energies of the mass consciousness of humanity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Increased need for peaceful and pleasant surroundings and people; sets a need fo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sensitive love and visionary aesthetic interests. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Romantic absorption and pleasure in contemplative surroundings. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Unrequited or one-sided love and a wish for pleasant company. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Unusual art, music, meditation, and sudden attraction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Romantic and aesthetic receptivity does not establish reciprocity; clairvoyance remains Witte's attributed comparison. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Visionary romance and aesthetic pleasure coexist with disappointment and unrequited or one-sided love. Witte's clairvoyance comparison remains attributed; the entries do not establish reciprocity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Venus`: inspired art, sudden soulful attraction, and relational or creative forms that feel both transcendent and experimental. Main caution: unstable idealized love: beauty, freedom, and fantasy can combine into intoxicating but poorly bounded attachment.
+Venus specifies Uranus/Neptune through sensitive, visionary love and an attraction to unusual art or spiritual experience. Romance and the pleasure of peaceful surroundings can be rich, yet sudden unrequited love and one-sided absorption remain in the entries. The link between aesthetic receptivity and longing therefore leaves reciprocity open; a strong inner experience does not establish a shared relationship. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

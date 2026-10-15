@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Moon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = R`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Moon Uranus Asc](../triads/moon-uranus-asc.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 Sudden unusual events with female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 116; PDF p. 57.
+
 #### ABC Entry
 
-Excited gemtiter in the environment, dynamic woman as partner, event hour in the place, events of other folk, excited women in the place, excited gemtit of the partner, women in the environment of technology, restless environment of a people, and unrest of other folk
+Agitated moods in the surroundings, a dynamic woman as partner, the hour of an event at the location, events of other peoples, excited women at the location, an agitated emotional state of the partner, women in technological surroundings, the restless surroundings of a people, unrest among other peoples.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 275; PDF p. 277; entry code `0976`.
 
 #### Ebertin Entry
 
 The soul's response the environmental stimuli, highly emotional disposition, tendency to easily become excited through the influence of others, quick change of mood caused by others. Sudden experiences through females.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Adds an emotional need to be noticed and appreciated by others for the individua
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 116; PDF p. 57), [Ebertin](#ebertin-entry) (p. 275, entry 0976), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Contact with others produces immediate emotional changes and a need for personal freedom.
+- psychology: Excitability, fluctuating moods, vulnerability about uniqueness, and security through independence are named.
+- body/health: No specific physical condition is described.
+- social/relationship: Recognition of individuality and freedom from accepted patterns matter in relationships.
+- events/manifestations: Sudden encounters and changes of emotional temperament are explicit examples.
+- conflicts/notes: Witte and Ebertin's female-person examples retain their historical gendered framing rather than defining all encounters.
 
 ## Contradictions
 
-- None recorded yet.
+Emotional sensitivity to others and a wish for independence can coexist. ABC includes both a partner's emotional state and unrest involving peoples; Witte and Ebertin's female-person examples retain their historical scope rather than defining every encounter.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Moon`: vivid intuition, quick adaptation, and the ability to register change before it becomes obvious. Main caution: instability: mood swings or domestic unrest can make conduct erratic and close contact difficult to regulate.
+Moon specifies Uranus/Asc as an emotional response to other people: encounters can quickly alter mood while sharpening the wish to be recognized as an individual. Freedom and openness in relating may provide security, yet feeling exposed in one's uniqueness remains part of the picture. ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).) Witte's sudden experiences with women are a narrower historical example, not a reason to limit the whole interpretation to women. ([Witte](#witte-entry).)
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Neptune`
 - Astronomicon formula: `Y/Z = Y`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO With Itself`
-- Source page: `330`
+- Source reference: printed p. `330` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Generally weakens your intensity and drive to use others, their work, or their s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: reduced drive to use others alongside misleading impressions of their intentions.
+- psychology: dreams of power or passion and misreading purpose are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: using others' work or skills and confronting their intentions are the stated concerns.
+- events/manifestations: less intensity in using others is paired with greater imagined power.
+- conflicts/notes: this sole repeated-pair passage does not say that reduced exploitative drive makes perceptions more accurate.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-pair entry is present; no independent source comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Neptune`: Generally weakens one's intensity and drive to use others, their work, or their skills; helps mislead one about the purposes and intentions of people one must confront; brings an increase in dreams for power or passion.
+For Neptune/Pluto = Neptune, [Munkasey](#munkasey-entry) pairs less intensity in using others' skills or work with misleading impressions of their intentions and stronger dreams of power or passion (printed p. 330). The passage distinguishes reduced drive from increased clarity about the people one confronts.
 
 ## Links
 

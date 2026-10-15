@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - Triad hub: [Neptune Kronos Poseidon](../triads/neptune-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 302 (one-based), Kronos + Poseidon, Neptune entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To follow an erroneous notion in spiritual and intellectual beliefs. Truth and e
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 467; PDF p. 232 (one-based), Kronos + Poseidon, Neptune entry.
+
 #### ABC Entry
 
-especially clear water, spiritual leader at a place, great spiritual weakness, cultural weakness of a state, sensitivity of a spiritual authority, unknown greatness at a place, uncertainty through state ideas, important truth of metaphysics, develop dominant ideas, develop spiritual independence, and develop great clarity
+Particularly clear water; an intellectual leader locally; great intellectual weakness; a state's cultural weakness; sensitivity of an intellectual authority; an unknown notable figure locally; uncertainty through state ideas; important truth of metaphysics.
+
+## Comparative Schema
+
+- Core meaning: Intellectual or spiritual authority is accompanied by possible error, weakness, sensitivity, and uncertainty.
+- Psychology: Witte explicitly places truth close to mistaken belief; ABC adds intellectual weakness and sensitivity of authority.
+- Body/health: Particularly clear water is a literal ABC motif, not a medical claim.
+- Social/relationship: A local intellectual leader and uncertainty through state ideas give the theme social settings.
+- Events/manifestations: Metaphysical truth, local prominence, cultural weakness, and clear water span the stated manifestations.
+- Conflicts/notes: ABC's metaphysical truth does not cancel Witte's warning about error.
+
+## Contradictions And Tensions
+
+ABC's metaphysical truth does not cancel Witte's warning about error.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Neptune`: following mistaken spiritual or intellectual belief, where truth and error stand dangerously close together.
-- Chart expression: subtle perception and mystic reach, but it also warns that high-minded conviction can slip into delusion unless disciplined by clear standards.
+With Neptune, Kronos/Poseidon places truth and intellectual or spiritual authority near uncertainty. Witte warns of erroneous beliefs where truth and error are close, while ABC names intellectual and cultural weakness, sensitivity in an authority, and uncertainty through state ideas. ABC also retains metaphysical truth, a local intellectual leader or unknown notable figure, and the distinct literal image of clear water. These divergent motifs should remain visible rather than being reduced to a confident claim of spiritual insight. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

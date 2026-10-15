@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Cupido`
 - Astronomicon formula: `V/§ = ¡`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, oriented activator row; printed page unconfirmed.
+
 Great happiness and joy through art, family or community.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful energy community, financial influence of a community, collective success through strong, common legal influence, common money power power success of a community, and great joy of a community
+- Source reference: printed p. 345; one-based PDF p. 171, Jupiter + Vulkanus, oriented activator row.
+
+A successful energy community, a community's financial influence, shared success through strength, shared legal influence, shared financial power, a community's success in power, and a community's great joy.
+
+## Comparative Schema
+
+- core meaning: Great joy through art, family or community accompanies shared strength and influence.
+- psychology: Communal joy and shared success are explicit.
+- body/health: The energy-community wording does not specify a bodily or medical effect.
+- social/relationship: Family and community are named directly; legal and financial influence can be shared.
+- events/manifestations: Art-related happiness, shared financial power and communal successes through strength.
+- conflicts/notes: ABC's financial power and legal influence do not themselves establish loyalty, cohesion or a particular marriage outcome.
+
+## Contradictions
+
+Witte emphasizes happiness through art, family and community; ABC describes the strength, financial power and legal influence of a community. These are compatible emphases without a stated mechanism tying prosperity to loyalty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Cupido`: great joy through marriage, household, culture, or a close-knit group that carries material or emotional strength.
-- Chart expression: happy family power, artistic success, and communal prosperity reinforced by loyalty and cohesion.
+`Jupiter/Vulcanus = Cupido` places substantial joy in art, family or community. Shared strength may also appear as financial or legal influence and collective success, giving the happiness a practical group setting. [Witte's art and family account](#witte-entry) and [ABC's seven communal clauses](#abc-entry) support shared benefit without specifying a particular household or marriage event.
 
 ## Links
 

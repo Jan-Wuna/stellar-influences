@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Saturn Pluto](../triads/venus-saturn-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -43,9 +45,12 @@ Interruption of a fortunate development. Wishes and hopes come not through. Sepa
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `281`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-serious love development, serious artistic development, steored peace development, harmony development in old age, changes through steored harmony, changing love problems, and change through strain of love
+Serious development in love, serious artistic development, disturbed development of peace, development of harmony in old age, changes through disturbed harmony, changing problems in love, and transformation through strain on love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,21 @@ Curbs or bans on the use of destructive impulses or weaponry; lessens the impact
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Interruption or strain in love's development.
+- psychology: Fear of intense passion, withdrawal from attraction, and lessons through power struggles.
+- body/health: Munkasey states less enjoyment from sex; no diagnosis follows.
+- social/relationship: Short-lived union, tragic love, and difficult relationship development.
+- events/manifestations: Unfulfilled hopes, separation, curbs on weaponry, and reduced destructive impact.
+- conflicts/notes: Ebertin's 'immorality' is a historical judgment; long-term loyalty is not established by these entries.
 
 ## Contradictions
 
-- None recorded yet.
+Restriction is adverse in the love examples but protective where Munkasey describes limiting destruction. These different objects of restriction should remain distinct.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Saturn`: deep loyalty, staying power in love, and the ability to survive relational crisis with seriousness and commitment. Main caution: attachment can harden into cold control, loveless endurance, bitterness, or punishing tests of worth.
+In `Venus/Pluto = Saturn`, Saturn specifies Venus/Pluto development through interruption, fear, or constraint. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) emphasize unfulfilled hopes, short union, and tragic love; [Sandbach](#sandbach-entry) adds withdrawal from intense attraction and hard lessons through power struggles. The [Munkasey entry](#munkasey-entry) gives a distinct protective use of restriction—curbing destructive impulses or weaponry—alongside less sexual enjoyment. The common action is limitation, but its consequences differ with what is being limited.
 
 ## Links
 

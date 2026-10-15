@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Pluto](../triads/venus-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ To awake the sexual urge. Development of an intimate relation. Passionate activi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `271`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-To love development work, to develop joy through work, to develop love work, to develop harmony of work, to develop harmony of intentions, to develop artistic activity, and to change activity
+Loving developmental work, joy through a change of work, developing peace work, harmonious development of work, harmonious development of the will, unfolding artistic activity, developing activity in love, and loving changes of activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0586`.
 
 #### Ebertin Entry
 
 A very strong sex life, an unusual power of procreation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `56` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Extremes of passion or envy; stealth in satisfying the need for stimulation or e
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Developing or intensifying passion and devoted activity.
+- Psychology: Very strong or obsessive passions, seductiveness, envy, and a drive to accomplish large projects.
+- Body/health: Ebertin's unusual procreative power is a historical assertion, not a fertility assessment.
+- Social/relationship: An intimate relation develops; Munkasey also names using sex for power.
+- Events/manifestations: Changing work, unfolding art, developing peace work, and large projects that may benefit humanity.
+- Conflicts/notes: Constructive broad projects coexist with obsession, envy, secrecy, and power in the source range.
 
 ## Contradictions
 
-- None recorded yet.
+- Constructive broad projects coexist with obsession, envy, secrecy, and power in the source range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Pluto`: irresistible magnetism, profound passion, and the ability to change life through love, sexuality, or creative intensity. Main caution: consuming attachment: desire can become manipulative, possessive, or too bound to power and fixation.
+`Venus/Mars = Pluto` develops and intensifies passion or devoted action. [Witte](#witte-entry) describes awakened sexual desire, an intimate relation taking shape, and changing passionate activity. The [ABC entry](#abc-entry) extends development to peace work, art, and changing forms of work. [Sandbach](#sandbach-entry) joins strong or obsessive passion to large projects that may benefit humanity. [Munkasey](#munkasey-entry) supplies a more difficult range of envy, concealed pursuit of excitement, and using sex for power. [Ebertin's](#ebertin-entry) procreative assertion remains historical. Intensity can therefore animate substantial work or intimacy while also appearing as fixation or a power struggle.
 
 ## Links
 

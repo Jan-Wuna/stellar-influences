@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = Sun`
 - Astronomicon formula: `T/Y = S`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Receptivity for thoughts, author. Day of uncertain news, thoughts or messages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Personal thoughts weakness, personal language about metaphysics, foreign languagescentre, young people in the water, people in the air traffic, unclear personal thoughts, centre for air traffic, and insecurity of young people
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Persönliche Gedanken-Schwäche, persönliche Gespräche über Metaphysik, Fremd-Sprachen-Zentrum, junge Menschen im Wasser, Menschen im Luft-Verkehr, unklare persönliche Gedanken, Zentrum für Luft-Verkehr, Verunsicherung junger Menschen
+
+Editorial translation from the German passage: Personal weakness of thought; personal conversations about metaphysics; a foreign-language centre; young people in water; people in air transport; unclear personal thoughts; an air transport centre; unsettling young people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `161`; entry code: `0519`.
 
 #### Ebertin Entry
 
 Sensitive, receptive, a rich imagination, intellectual creativity. Impressionable, dependence on moods. The state of being deceived.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Energizes psychic reasoning and helps you evaluate hunches as a means for findin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Receptive, creative thought and imagination directed toward one's goals.
+- psychology: Rich imagination and visualization coexist with impressionability, mood dependence and deception.
+- body/health: Sandbach links mental sensitivity and vitality; this remains his attributed health doctrine.
+- social/relationship: Sandbach describes mentally draining people or settings; no general relationship outcome is established.
+- events/manifestations: Authorship, imaginative communication and evaluating hunches are source examples.
+- conflicts/notes: Creative receptivity does not remove uncertain news or the possibility of being deceived.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin keep uncertain messages or deception alongside creativity. Sandbach and Munkasey emphasize constructive visualization and goals without making those adverse expressions disappear.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = Sun`: poetic selfhood, inspired speech, and a visible intelligence softened by empathy or dream. Main caution: porous identity in thought: self-expression can become too idealized, passive, or hard to define clearly.
+In `Mercury/Neptune = Sun`, Sun specifies the axis through receptive imagination and intellectual creativity in personal expression. Witte names authorship, Sandbach connects visionary ideas with goals, and Munkasey describes evaluating hunches and effective visualization. Ebertin nevertheless retains impressionability, dependence on moods and being deceived. The distinction is between creative use of impressions and allowing those impressions to govern judgment; poetic identity or empathy is not required ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). ABC adds young people, foreign-language centres and air or water activities as separate examples ([ABC](#abc-entry)).
 
 ## Links
 

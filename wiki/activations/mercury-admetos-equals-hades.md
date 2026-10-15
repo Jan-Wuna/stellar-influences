@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Hades Admetos](../triads/mercury-hades-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Hades entry, PDF p. 171.
 
 To ponder on mistakes, which one has made. Remorse. Depressing thoughts about the past, evil deeds of the past.
 
@@ -42,13 +46,29 @@ To ponder on mistakes, which one has made. Remorse. Depressing thoughts about th
 
 #### ABC Entry
 
-Reports on restricted criminality, deepening of dangerous thoughts, dangerous earth movements, deepening of secret language, criminal control of youth, lack of Griindlichkeit of youth, and deepening in old languages
+Source: “Merkur + Admetos,” Hades entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Reports on restricted criminality, deepening dangerous thoughts, dangerous earth movements, deepening confidential conversations, criminal suppression of youth, insufficient thoroughness in youth, immersion in old languages.
+
+## Comparative Schema
+
+- **Core meaning:** Sustained attention to past mistakes or difficult material.
+- **Psychology:** Remorse and depressing reflection.
+- **Body/health:** Depressing thoughts are not a clinical diagnosis.
+- **Social/relationship:** Confidential discussions and ABC's criminal suppression of youth.
+- **Events/manifestations:** Study of old languages; dangerous earth movements are separately named.
+- **Conflicts/notes:** Crime and dangerous earth movement are explicit source examples, not evidence of a person's criminality or a physical-event prediction.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte focuses on remorse over past mistakes. ABC extends depth of attention to confidential conversation and old languages, alongside dangerous thoughts and criminal suppression. These examples differ in subject and do not make concentrated study itself culpable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Hades` darkens the axis into remorse, brooding, and painful retrospection.
-- Chart expression: depressing reflection on past errors, thoughts trapped in regret, and a mind that keeps returning to what was wrong, harmful, or morally troubling.
+In `Mercury/Admetos = Hades`, Hades specifies concentrated or restricted thought and communication through difficult, hidden, or past material. Witte's remorse and reflection on past mistakes meet ABC's confidential conversations, dangerous thoughts and immersion in old languages. The range includes both distressing reflection and sustained study; ABC's criminal-suppression and dangerous-earth-movement examples remain separate attributed claims, without judging a person or forecasting an event. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

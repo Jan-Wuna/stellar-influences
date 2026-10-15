@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 112 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0843; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Sun`
 - Astronomicon formula: `V/Asc = S`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ A strong personality with much affability and charm; interest in the welfare and
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasant association becomes personally energizing and expressive of goals and purpose.
+- psychology: Sandbach describes enthusiasm and vitality through growing relationships; Munkasey includes charm, sincerity, and superficiality.
+- body/health: Sandbach's vitalization and ABC's bodily pleasure do not establish a medical condition.
+- social/relationship: Ebertin names congenial company and generous or influential associates; Munkasey adds interest in others' welfare.
+- events/manifestations: Fortunate associations, leadership, sociability, and the wish for a beautiful home are stated manifestations.
+- conflicts/notes: ABC is located at printed p. 112 (PDF p. 55); its man-specific examples remain attributed historical wording.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey places superficial charm beside sincere understanding. The entries do not determine which quality characterizes a particular association.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Sun`: pleasant social contact, influential or fortunate alliances, and a sense that identity grows through generous, life-affirming relationships. Main caution: self-importance: exuberance can tip into arrogance if the desire for meaningful association becomes a need to be especially favored.
+In `Jupiter/Asc = Sun`, Sun specifies the Jupiter/Asc pair as a personal source of vitality and meaningful participation. Pleasant associations in [Witte](#witte-entry) become congenial, fortunate, or influential company in [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry) connects expanding relationships with enthusiastic pursuit of goals.
+
+[Munkasey](#munkasey-entry), p. 276, adds affability, leadership, and attention to others' welfare while allowing superficial charm beside sincerity. The personal warmth of this social picture can thus range from outward charm to a more attentive understanding of others.
 
 ## Links
 

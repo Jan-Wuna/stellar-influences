@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Saturn`
 - Astronomicon formula: `R/Q = W`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: printed p. `127`, PDF p. `123` (entry).
+
 #### Witte Entry
 
 The forsaken woman. The widow with children. The sick mother. Separation from the mother.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `179`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Loaded love for woman, joy of woman in old age, storten peace of a people, patient women's love, storten harmony feeling, love pain of woman, lust losses of a people, mature lovable woman, and separation from a gentle woman
+Burdened love for a woman, a woman's joy in old age, a people's disturbed peace, patient love of women, a disturbed feeling of harmony, a woman's pain in love, a people's losses in art, a mature lovable woman, and separation from a beautiful woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `117`, entry `0343`.
 
 #### Ebertin Entry
 
 Suppressed feelings. Inhibitions in love, unsatisfied passion, renunciation. An unhappy, sad or sick woman, separation from or loss of the husband. The philosopher.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +80,23 @@ Increased desires to support those who are less fortunate; inner barriers to sho
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: inhibited or burdened affection, separation, and care that may emerge gradually or indirectly.
+- psychology: suppressed feeling, fear of vulnerability, unsatisfied passion, and inner barriers to care are named.
+- body/health: Witte and Ebertin include sick women as historical examples, not diagnoses.
+- social/relationship: separation from mother or husband, slowly opening to another, and fewer supportive women are stated.
+- events/manifestations: practical help, renunciation, art losses, and diminished pleasure in supporting others are examples.
+- conflicts/notes: patience and practical care are supported; loyalty and lasting warmth are not established.
 
 ## Contradictions
 
-- None recorded yet.
+The wish to support others and the difficulty or reduced pleasure in doing so coexist in Munkasey. Sandbach's gradual openness and practical nurturing add possibilities without canceling the other entries' losses or inhibition.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Saturn` channels the tender, receptive love of the Moon/Venus axis through Saturn, making affection serious, loyal, and carefully protected. It points to emotional harmony that must endure time, scarcity, or disappointment without losing its form.
-- Chart expression: faithful care, lasting warmth, and the quiet strength of love that proves itself through steadiness rather than display. Main caution: inhibited softness, because tenderness can become too guarded, sparse, or shaped by fear of loss.
+In Moon/Venus = Saturn, Saturn specifies the pair through restraint or difficulty in expressing affection. [Ebertin](#ebertin-entry) names suppressed feelings and unsatisfied passion; [Sandbach](#sandbach-entry) describes fear of vulnerability, gradual opening, and practical or indirect nurturing. [Munkasey](#munkasey-entry) combines a wish to help disadvantaged people with inner barriers and reduced pleasure in giving support (p. 108).
+
+[Witte](#witte-entry) retains separation and historical examples of widowhood or a sick mother. [ABC](#abc-entry) adds burdened love, disturbed harmony, patience, and joy in old age (printed p. 179, PDF p. 88). The range allows patient care, but does not guarantee loyalty, enduring warmth, or a particular loss.
 
 ## Links
 

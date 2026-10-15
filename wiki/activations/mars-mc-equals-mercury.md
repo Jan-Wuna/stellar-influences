@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mercury Mars MC](../triads/mercury-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To give orders. To act rashly. Acting quickly.
 
@@ -45,11 +49,15 @@ To give orders. To act rashly. Acting quickly.
 
 #### ABC Entry
 
-I at the talking about power of action, I think and act, my activity in youth, my thoughts, my thoughts to work, and my speech activity
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Soulful work with youth, conversations about soul work, actions of a young soul, I speak about energy for action, I think and act, my activity in youth, my mental activity, my thoughts about work, and my conversational activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0773.
 
 Inclination to act with deliberation, organizing things, acting according to regulations and instructions, a person laying down instructions or orders. The receipt of exciting news, adjustment to a new occupation.
 
@@ -57,7 +65,9 @@ Inclination to act with deliberation, organizing things, acting according to reg
 
 #### Sandbach Entry
 
-One’s ideas may be in conflict with authorities. One’s ideas challenge ac cepted ways of thinking about things. To be outspoken about ethics, morals, and what one feels is right.
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
+
+One’s ideas may be in conflict with authorities. One’s ideas challenge accepted ways of thinking about things. To be outspoken about ethics, morals, and what one feels is right.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Highlights your need to use your innate intelligence and inner gifts to progress
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought, speech, and instructions brought into action.
+- psychology: Deliberate organization in Ebertin contrasts with Witte's quick or rash action; Sandbach adds ethical outspokenness.
+- body/health: These entries do not specify a bodily or medical effect.
+- social/relationship: Giving orders and challenging authorities or accepted ideas.
+- events/manifestations: Exciting news, adjustment to new work, and communicating about activity.
+- conflicts/notes: Witte's rashness and Ebertin's deliberation describe different manners of acting; neither should erase the other.
 
 ## Contradictions
 
-- None recorded yet.
+Witte names quick and rash action, while Ebertin names deliberation and adherence to instructions. This difference limits any claim of one uniform style.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Mercury`: organizing through words, energetic communication, exciting news tied to work, and the ability to make ideas operational. Main caution: verbal overdrive: orders, opinions, or fast judgments can provoke conflict or push action ahead of clear reflection.
+In `Mars/MC = Mercury`, Mercury specifies personal action through thinking, speaking, and giving instructions. ABC connects conversation and thought with work, including work with youth. Orders and organization recur elsewhere, but the manner differs: Witte names speed and rashness, while Ebertin describes deliberation and action by rules. Sandbach adds ideas that challenge authority or express an ethical position; Munkasey relates effort to intelligence and inner principles. These are supported alternatives rather than one uniform communication style. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0773; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

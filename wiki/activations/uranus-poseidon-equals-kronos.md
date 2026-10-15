@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Uranus Kronos Poseidon](../triads/uranus-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To suddenly become an intellectual authority. To balance accounts with the chief
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 389; PDF p. 193.
+
 #### ABC Entry
 
-Special cultural event, intellectual authoritarianism, mental tensions in the state, great technical ideas, impulses of the spiritual hierarchy, new intellectual authoritarianism, new important ideas, state run ideas, and important state event
+A special cultural event, renewed intellectual authority, mental tensions in the state, great technical ideas, impulses of the spiritual hierarchy, new intellectual authority, new important ideas, state reform ideas, an important state event.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Intellectual authority and scrutiny involving authorities.
+- psychology: Mental pressure and extreme stress in Witte.
+- body/health: Stress is described without a specific medical diagnosis.
+- social/relationship: Dealings with a chief, authorities or government.
+- events/manifestations: Sudden authority, checking deeds and balancing accounts.
+- conflicts/notes: Intellectual authority and state reform are the stated themes; neither entry establishes authoritarianism.
+
+## Contradictions
+
+The entries share authority and pressure as themes. ABC's renewed or new intellectual authority does not mean authoritarianism; its state reform ideas likewise do not establish a political disposition. These clauses have been checked on printed p. 389 (PDF p. 193).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Kronos`: To suddenly become an intellectual authority. To balance accounts with the chief, authorities or government. To check deeds. To be extremely stressed.
-- Practical expression: special cultural event, intellectual authoritarianism, mental tensions in the state, great technical ideas, and impulses of the spiritual hierarchy.
+In `Uranus/Poseidon = Kronos`, Kronos specifies mental illumination in matters of authority and accountability. A person may suddenly be treated as an intellectual authority, or may have to scrutinize deeds and settle accounts with a chief or government. [Witte](#witte-entry) includes extreme stress in that process. [ABC](#abc-entry) adds renewed intellectual authority, technical ideas and state reform, while also preserving mental tension in the state.
 
 ## Links
 

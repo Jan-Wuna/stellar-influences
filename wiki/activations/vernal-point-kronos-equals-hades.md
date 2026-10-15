@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Hades Kronos](../triads/vernal-point-hades-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Poverty for many people. Great misfortune for many people. Unhealthy leader. Secret leadership.
 
@@ -42,13 +46,27 @@ Poverty for many people. Great misfortune for many people. Unhealthy leader. Sec
 
 #### ABC Entry
 
-Authoritat's deficiency in public life, great criminality in public, criminal state in public, lack of public reputation, state and public of the past, and hidden hierarchy in public life
+- Source page: 51; PDF page: 24 (one-based spread).
+
+Lack of authority in public life, major crime in public, a criminal state in public, lack of public reputation, the state and public life of the past, and concealed hierarchy in public life
+
+## Comparative Schema
+
+- core meaning: Public authority deficient, concealed, historically situated, or compromised.
+- psychology: No distinct psychological claim is supplied.
+- body/health: Witte names an unhealthy leader, without clinical detail.
+- social/relationship: Poverty or misfortune affecting many and loss of public standing.
+- events/manifestations: Criminal state, major public crime, and hidden hierarchy.
+- conflicts/notes: Past statehood and concealed leadership are not automatically equated with crime.
+
+## Contradictions
+
+No direct contradiction is established. Historical and concealed authority are separate examples from explicit criminality and lack of authority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Hades`: poverty for many people, great misfortune for many people, unhealthy leader, and secret leadership.
-- Practical expression: great criminality in public, criminal state in public, lack of public reputation, and state.
+In `Vernal Point/Kronos = Hades`, public authority is examined through deficiency, concealment, or harmful consequences. The [Witte entry](#witte-entry) names poverty and misfortune for many, an unhealthy leader, and secret leadership. The restored [ABC entry](#abc-entry) adds deficient authority and reputation, criminal state activity, hidden hierarchy, and the public past. These examples connect the condition of leadership with collective disadvantage while keeping historical or secret structures distinct from proven wrongdoing.
 
 ## Links
 

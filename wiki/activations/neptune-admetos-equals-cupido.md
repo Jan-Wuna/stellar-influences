@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Cupido`
 - Astronomicon formula: `Y/¦ = ¡`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Separation from the family, partnership or community. Changes in living conditions of the family.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Persistent common weakness, blockage of a community by water, joint closure of a blockade, restrictions and exchanges for of a community, fundamental exchange of a community, and deepening of a community in metaphysics
+Persistent shared weakness, a community blocked by water, joint dissolution of a blockade, restrictions and disappointments for a community, thorough deception of a community, and a community's deepening involvement in metaphysics
+
+## Comparative Schema
+
+- core meaning: changes or separations in family and community, with shared restriction or release.
+- psychology: collective disappointment and deception are ABC examples.
+- body/health: shared weakness is historical source wording; neither entry establishes an individual condition.
+- social/relationship: family separation, partnership separation, and community experiences are explicit.
+- events/manifestations: changed family living conditions, water blockage, joint blockade dissolution, and metaphysical involvement are stated.
+- conflicts/notes: joint release and restriction coexist; separation does not establish decay of all community bonds.
+
+## Contradictions
+
+Witte emphasizes separation and changed family conditions. ABC also names joint dissolution of a blockade, which prevents a reading limited to progressive community decline.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Cupido`: Separation from the family, partnership or community. Changes in living conditions of the family.
-- Practical focus: socializes `Neptune/Admetos` through family separation, changed household conditions, and strain on community bonds. It suggests decay or transition entering domestic and partnership life, reshaping the emotional structure of belonging.
-- Practical expression: persistent common weakness, blockage of a community by water, joint closure of a blockade, restrictions, and exchanges for a community.
+In Neptune/Admetos = Cupido, Cupido specifies the pair through family or community conditions. The [Witte entry](#witte-entry) names separation from family, partnership, or community and changes in family living conditions. [ABC](#abc-entry) adds shared weakness, restrictions, disappointment, and collective deception, but also joint dissolution of a blockade and metaphysical involvement (printed p. 403, PDF p. 200). The entries therefore include shared obstacles and release without establishing inevitable decay of belonging.
 
 ## Links
 

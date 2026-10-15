@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = Kronos`
 - Astronomicon formula: `R/Z = ¤`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 Changes in the official function or official position.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `191`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-Special changes in women's attitudes, the development of women in the state, the development of a people to self governance, the development of a respected woman, great changes in the people, the growing self governingness of women, and changes in the reputation of a people
+Special emotional changes, development of a woman within the state, development of a people toward independence, development of a respected woman, great changes among the people, a woman's growing independence, and changes in a people's reputation
+
+## Comparative Schema
+
+- core meaning: change in official position, independence, standing, or collective reputation.
+- psychology: special emotional changes and growing independence are named.
+- body/health: no bodily or health condition is specified.
+- social/relationship: a respected woman, a woman within the state, and a people seeking independence are examples.
+- events/manifestations: changes of official function and public reputation are explicit.
+- conflicts/notes: an altered position or higher independence does not establish improvement in every case.
+
+## Contradictions
+
+Witte focuses on official role, while ABC includes independence, reputation, and emotional change. These expand the setting without establishing that every emotional change is institutional.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Kronos`: Changes in the official function or official position.
-- Practical focus: elevates `Moon/Pluto` through changes in office, rank, or formal role. It points to emotional or public transformation tied to authority, where status shifts, institutional repositioning, or altered official function become the main outlet for change.
-- Practical expression: special changes in women's attitudes, the development of women in the state, the development of a people to self governance, the development of a respected woman, and great changes in the people.
+In Moon/Pluto = Kronos, Kronos specifies the pair through changes of position or standing. The [Witte entry](#witte-entry) names altered official function or office; [ABC](#abc-entry) extends the range to a respected woman's development, personal or collective independence, and a people's changing reputation (printed p. 191, PDF p. 94). The connecting theme is change in status or autonomy, with emotional change retained as a further source example.
 
 ## Links
 

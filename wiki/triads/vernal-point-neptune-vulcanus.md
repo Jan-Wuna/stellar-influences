@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Neptune Vulcanus`
 - Astronomicon triad-set: `VP Y §`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md)
-- [Vernal Point/Neptune = Vulcanus](../activations/vernal-point-neptune-equals-vulcanus.md)
-- [Vernal Point/Vulcanus = Neptune](../activations/vernal-point-vulcanus-equals-neptune.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Vulcanus](../axes/neptune-vulcanus.md) | Vernal Point | [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md) |
+| [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Vulcanus | [Vernal Point/Neptune = Vulcanus](../activations/vernal-point-neptune-equals-vulcanus.md) |
+| [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md) | Neptune | [Vernal Point/Vulcanus = Neptune](../activations/vernal-point-vulcanus-equals-neptune.md) |
 
 ## Source Coverage
 
-- `Neptune/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `253`
-- `Neptune/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `404`
-- `Vernal Point/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `41`
-- `Vernal Point/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
-- `Vernal Point/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `57`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Neptune/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `253`
+- `Neptune/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `404`
+- `Vernal Point/Neptune = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `46`
+- `Vernal Point/Neptune = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, printed page `41`
+- `Vernal Point/Vulcanus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `54`
+- `Vernal Point/Vulcanus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, printed page `57`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Vernal Point`: The broader environment is marked by major disillusionment, whether through being deceived by the world or through becoming the agent of that disappointment.
-- `Vernal Point/Neptune = Vulcanus`: This formula emphasizes great or severe disappointments.
-- `Vernal Point/Vulcanus = Neptune`: This formula emphasizes power felt and sensed, but not seen or heard, power that lies in deception, powerlessness, pretending, and powers of wind or water.
+The set links [Neptune/Vulcanus = Vernal Point](../activations/neptune-vulcanus-equals-vernal-point.md), [Vernal Point/Neptune = Vulcanus](../activations/vernal-point-neptune-equals-vulcanus.md), and [Vernal Point/Vulcanus = Neptune](../activations/vernal-point-vulcanus-equals-neptune.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

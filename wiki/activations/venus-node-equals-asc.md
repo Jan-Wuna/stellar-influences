@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Node Asc](../triads/venus-node-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Nodes + Venus`
+- Source reference: PDF page `142` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Pleasant and harmonious relations. Love ties with other people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Venus`
+- Source reference: printed page `210`; PDF page `104` (one-based).
+
 #### ABC Entry
 
-13cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+Encounter with a beautiful place, peaceful encounters with others, harmonious contacts at a place, harmonious partner relationships, the partner's joy in contact, love relationships with the partner, and preference for relationships with the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Dragon's Head`
+- Source reference: printed page `194`, coded entry `0660`.
 
 #### Ebertin Entry
 
 An affectionate nature, an obliging and cordial manner, harmonious relationships with other persons. A love affair.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Node midpoint`
+- Source reference: PDF page `64` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Discussions of your personal beliefs with others; observing the demeanor and con
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Pleasant direct contact and a willingness to connect through mutual affection.
+- Psychology: Cordiality, an obliging manner, and identity supported by sharing love.
+- Body/health: The entries supply no specific bodily or medical claim.
+- Social/relationship: Love ties, harmonious partner relations, and mutual appreciation.
+- Events/manifestations: Pleasant greetings, discussion of beliefs, and encounters with a beautiful place.
+- Conflicts/notes: Munkasey's attention to beliefs and demeanor adds observation to the common affectionate range.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's attention to beliefs and demeanor adds observation to the common affectionate range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Asc`: likability, graceful self-presentation, and supportive connections that form through personal manner and immediate surroundings. Main caution: approval dependence: the wish to be liked can soften boundaries and make self-definition too contingent on response from others.
+`Venus/Node = Asc` brings loving connection into immediate personal contact. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize pleasant relations, cordiality, and affection, while the [ABC entry](#abc-entry) also includes peaceful encounters, partnership harmony, and a beautiful place. [Sandbach](#sandbach-entry) describes identity strengthened through mutual appreciation and allowing love to support growth. [Munkasey](#munkasey-entry) gives the encounter concrete form in greetings, treatment of others, and conversation or observation concerning beliefs. The common thread is how affection is offered and shared in meeting.
 
 ## Links
 

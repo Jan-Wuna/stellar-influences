@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Mercury Venus Asc](../triads/mercury-venus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 Agreeable acquaintances in the close surroundings. To amuse oneself with other people (sweet talking).
 
@@ -45,17 +49,23 @@ Agreeable acquaintances in the close surroundings. To amuse oneself with other p
 
 #### ABC Entry
 
-Joy of the youth in the place, speaking in a peaceful place, speaking about the beauty of a place, harmonious thoughts in the place, kissing in the place in the language, partner language about love, young partner love, and preference for the youth in the environment
+- Source page: 108 (printed); PDF page: 53; scanned activator row checked.
+
+Joy of the youth in the place, speaking in a peaceful place, speaking about the beauty of a place, harmonious thoughts in the place, local art under discussion, partner language about love, young partner love, and preference for the youth in the environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 196 (printed), entry `0665`.
 
 Sociable and entertaining person, preference for conversations about beauty, love and art. The exchange of love thoughts.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 To communicate in a smooth, easy-going fashion. To speak artfully and per suasively. Cleverness when it comes to diplomacy.
 
@@ -70,22 +80,23 @@ Noticing what others wear and how they present themselves to the public; a good 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Speech and observation give affection a sociable form.
+- **psychology:** Interest in manners, style and how others present themselves is explicit in Munkasey.
+- **body/health:** No bodily condition is given.
+- **social/relationship:** Witte and Ebertin name agreeable company and exchange of loving thoughts.
+- **events/manifestations:** Sandbach names artful speech and diplomacy.
+- **conflicts/notes:** Sociable speech, diplomacy, and style criticism are compatible emphases.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Sociable speech, diplomacy, and style criticism are compatible emphases. ABC's corrected phrase concerns discussing local art, not the former cached kissing phrase.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Mercury`: social intelligence, diplomatic speech, and self-presentation that wins people through tone, language, and responsiveness. Main caution: polished evasiveness: pleasing talk can substitute for clarity or firmer boundaries.
+In `Venus/Asc = Mercury`, Mercury specifies the Venus/Asc axis through speech that makes personal contact agreeable. [Witte](#witte-entry) describes amusement and sweet talk with nearby acquaintances; [Ebertin](#ebertin-entry) adds conversation about beauty, art and love. [Sandbach](#sandbach-entry) extends this to persuasive, diplomatic expression, while [Munkasey](#munkasey-entry) adds attentive observation of manners and style. Affection is communicated through words and through noticing how people present themselves.
 
 ## Links
 

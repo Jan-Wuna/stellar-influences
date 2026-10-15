@@ -27,17 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Mercury/Mercury](../axes/mercury-mercury.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source locator: PDF p. 158, one-based, entry start (not a printed-page number).
+
 Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
+
+## Comparative Schema
+
+- core meaning: Intuitive or imaginative thinking whose expression can lack clarity.
+- psychology: Fantasy, confusion, and illogical thinking.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Uncertain or rambling speech; falsehood and lies as source possibilities.
+- events/manifestations: Motion in water or air is separately listed.
+- conflicts/notes: Intuition is not equated with falsehood; the entry gives different possibilities in one source.
+
+## Contradictions
+
+Only the Witte entry is represented. Its listed alternatives do not establish independent corroboration or a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Mercury = Neptune` diffuses the axis into intuition, fantasy, and uncertainty.
-- Chart expression: imagination and intuitive thought, but also to confusion, lies, illogic, rambling expression, and ideas that drift away from clarity into dream or ambiguity.
+Neptune specifies Mercury/Mercury through thought and speech ranging from intuition and imagination to uncertainty, confusion, and rambling. The [Witte entry](#witte-entry) also names falsehood, but that does not make every intuitive idea a lie. Motion in water or air is a separate explicit manifestation retained from the source, with no causal bridge supplied between it and mental ambiguity.
 
 ## Links
 
@@ -45,3 +63,4 @@ Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confus
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Mercury/Mercury](../axes/mercury-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

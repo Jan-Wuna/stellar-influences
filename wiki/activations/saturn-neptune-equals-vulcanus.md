@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Saturn Neptune Vulcanus](../triads/saturn-neptune-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ The force of habit.
 
 #### ABC Entry
 
-Violent problems in the future, concentration on water energy, power loss by weak, power loss by water, creeping energy losses, strong concentration weakness, and unknown pain influence
+Source: ABC printed p. 351, supplied PDF p. 174, Saturn + Neptun, vulcanus row (seven clauses). Translation from the German scan:
+
+Great problems in the future; concentration on water energy; loss of power through weakness; great losses through water; creeping energy losses; pronounced weakness of concentration; unknown influence of pain.
+
+## Comparative Schema
+
+- core meaning: persistent force or the gradual loss of effective power.
+- psychology: ABC includes marked concentration weakness; Witte names habitual force.
+- body/health: ABC mentions an unknown influence of pain; no specific condition is established.
+- social/relationship: no particular relationship pattern is specified.
+- events/manifestations: habitual persistence, creeping energy losses, and water-related power imagery.
+- conflicts/notes: ABC names great problems and great losses through water; these do not specifically establish violence.
+
+## Contradictions
+
+- The force of habit and loss of power are distinct emphases; the entries do not say habit causes depletion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Neptune = Vulcanus`: the force of habit.
-- Practical expression: violent problems in the future, concentration on water energy, power loss by weak, power loss by water, and creeping energy losses.
+Vulcanus specifies the Saturn/Neptune axis through the persistence or weakening of force. [Witte's](#witte-entry) very short phrase locates force in habit, while [ABC](#abc-entry) describes creeping energy losses, power diminished through weakness and great losses through water. These support a contrast between continuing by habit and losing effectiveness. The sources do not establish a causal link between the two, and the great-problems wording does not justify a prediction of violence.
 
 ## Links
 

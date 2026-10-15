@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Hades Zeus Kronos](../triads/hades-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 289 (one-based).
 
 Great efforts under trying and difficult circumstances. Overworking. Surprising and grave events in war. Fire catastrophes. Ordered war atrocities.
 
@@ -42,13 +46,29 @@ Great efforts under trying and difficult circumstances. Overworking. Surprising 
 
 #### ABC Entry
 
-Efforts in great need, special fire danger, special achievements of the past, dangerous state objectives, directed fire criminality, groll efforts against criminality, achievements of a hidden hierarchic, and renunciation of large efforts
+- Source page: 451; PDF page: 224 (one-based spread).
+
+Efforts in great need, special fire danger, exceptional achievements of the past, dangerous state objectives, directed fire-related crime, major efforts against crime, achievements of a hidden hierarchy, and renunciation of major efforts.
+
+## Comparative Schema
+
+- core meaning: Exceptional effort under hardship or dangerous authority.
+- psychology: Strain and renunciation of major effort.
+- body/health: Witte names overworking without a specific medical condition.
+- social/relationship: Dangerous state goals, hidden hierarchies and efforts against crime.
+- events/manifestations: Fire catastrophes, severe wartime events and past achievements.
+- conflicts/notes: Criminal activity and efforts against crime are distinct source roles.
+
+## Contradictions
+
+Both emphasize difficulty and danger. ABC additionally includes past accomplishments and renunciation, which cannot be reduced to Witte’s wartime atrocities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Hades`: Great efforts under trying and difficult circumstances. Overworking. Surprising and grave events in war. Fire catastrophes. Ordered war atrocities.
-- Practical expression: efforts in great need, special fire danger, special achievements of the past, dangerous state objectives, and directed fire criminality.
+`Zeus/Kronos = Hades` puts major effort under trying or hazardous conditions. Witte gives overwork and grave wartime events; ABC adds great need, dangerous state objectives and special fire danger. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Directed fire-related crime and major efforts against crime preserve opposing roles within the source. Past achievements, hidden hierarchy and relinquishing major effort remain separate examples, without making every concealed or inherited accomplishment criminal. ([ABC](#abc-entry))
 
 ## Links
 

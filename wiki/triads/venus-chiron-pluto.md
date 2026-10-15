@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Venus Chiron Pluto`
 - Astronomicon triad-set: `Q Chiron Z`
 
+This page is structural only; use its orientation map to reach the exact formula.
+
 ## Orientation Map
 
-- [Chiron/Pluto = Venus](../activations/chiron-pluto-equals-venus.md)
-- [Venus/Chiron = Pluto](../activations/venus-chiron-equals-pluto.md)
-- [Venus/Pluto = Chiron](../activations/venus-pluto-equals-chiron.md)
+The base pair before `=` and the activating factor after it identify a distinct activation.
+
+| Base pair | Activating factor | Oriented activation |
+| --- | --- | --- |
+| [Chiron/Pluto](../axes/chiron-pluto.md) | `Venus` | [Chiron/Pluto = Venus](../activations/chiron-pluto-equals-venus.md) |
+| [Venus/Chiron](../axes/venus-chiron.md) | `Pluto` | [Venus/Chiron = Pluto](../activations/venus-chiron-equals-pluto.md) |
+| [Venus/Pluto](../axes/venus-pluto.md) | `Chiron` | [Venus/Pluto = Chiron](../activations/venus-pluto-equals-chiron.md) |
+
+Represented: 3 of 3 possible orientations. Missing from this hub: none.
 
 ## Source Coverage
 
-- `Chiron/Pluto = Venus`: John, page `99`
-- `Venus/Chiron = Pluto`: John, page `58`
-- `Venus/Pluto = Chiron`: John, page `62`
+All three exact orientations currently contain John Sandbach alone. These inherited one-based PDF pages identify chapter starts, not verified exact entry pages or printed folios.
+
+- `Chiron/Pluto = Venus`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-pluto-equals-venus.md#sandbach-entry), one-based PDF chapter-start p. `99`.
+- `Venus/Chiron = Pluto`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-chiron-equals-pluto.md#sandbach-entry), one-based PDF chapter-start p. `58`.
+- `Venus/Pluto = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-pluto-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `62`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto = Venus`: intense relational healing, to desire as a path of transformation, and to value choices that profoundly reshape life. Main caution: compulsive attachment or confusing intensity with true value.
-- `Venus/Chiron = Pluto`: a burning desire to find true love.
-- `Venus/Pluto = Chiron`: one's vibration helps others to attune to the tremendous power of love, and to let go of their fear of it.
+Read the activation whose base pair and activating factor match the intended formula. Each base-axis link supplies pair context; the shared factor set supplies sibling navigation only.
+
+## Contradictions Across Orientations
+
+The 3 linked activations have distinct formula identities. This structural map does not establish agreement or disagreement between their interpretations; source conflicts for one formula must be assessed on that activation page.
 
 ## Links
 

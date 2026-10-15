@@ -1,0 +1,230 @@
+{
+  "batch": "source-closure-A-batch04-final9",
+  "status": "stable_pending_independent_audit",
+  "targets": 9,
+  "review_counts_added": 0,
+  "record_hash_contract": "SHA256 actual UTF8 JSONL record line excluding newline",
+  "source_hash_normalization": "UTF-8; CRLF to LF; text between Source Entries and Comparative Schema; terminal standalone synthesis anchor removed; outer strip",
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-dispositions.jsonl",
+  "active_or_reserved_paths_in_batch": [],
+  "bindings": [
+    {
+      "id": "A-072",
+      "path": "wiki/activations/kronos-apollon-equals-asc.md",
+      "queue_index": 103,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "10cb33d561858be0f0d95e243a94220467a3214a69de4d5e3d5d78288c4517d0",
+      "source_entries_sha256": "34f77eb6405be143881e170e4eaf31a5f6df1da3311e126fcb0b056d0287174f",
+      "owner_record_sha256": "e592ba0c515480fbf34957d36c2c302ddd164f22f2ffe6ed2e453ecc67fac43b",
+      "actual_locators": [
+        "ABC printed460/PDF229 Kronos+Apollon Asc complete eight-clause row; prior author actual raw proof reused",
+        "Witte PDF299 Kronos+Apollon Asc row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-abc-p229.png",
+          "sha256": "6ff832bf473cecaadf1396950a771e326675e6400a5f8882b3086bdcce90c68e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-witte-p299.png",
+          "sha256": "cbf702b93ec9af8d5f0c3f1065e2195c27bc235e8ae4529d6fc5171504698df2"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-073",
+      "path": "wiki/activations/kronos-apollon-equals-sun.md",
+      "queue_index": 104,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "5497e869c8ee141c0747bb79fd0205d4cf7dd8129c089eae3422707bdc55dbe0",
+      "source_entries_sha256": "07fd5a3c51067dd6d38511f1b431923f2a403beee54d7a32cb4cdef0a4ce634a",
+      "owner_record_sha256": "6b39310eddf6602574f1388fc4c5f59af892762ca63777e3c7801247ca9142d3",
+      "actual_locators": [
+        "ABC printed460/PDF229 Kronos+Apollon Sun complete eight-clause row; prior author actual raw proof reused",
+        "Witte PDF299 Kronos+Apollon Sun row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-abc-p229.png",
+          "sha256": "6ff832bf473cecaadf1396950a771e326675e6400a5f8882b3086bdcce90c68e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-witte-p299.png",
+          "sha256": "cbf702b93ec9af8d5f0c3f1065e2195c27bc235e8ae4529d6fc5171504698df2"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-074",
+      "path": "wiki/activations/kronos-apollon-equals-uranus.md",
+      "queue_index": 105,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "698d23c261d42132f2369942b234ae69bb298060831ac72129742cc67afd3882",
+      "source_entries_sha256": "10794372fc76f67bad5a157d2031fbefaccb38ff05952ea83538b97666f00b10",
+      "owner_record_sha256": "d68387320d729bdf64ed819a61270b5ada36a3da6df45dc21fecae955209a868",
+      "actual_locators": [
+        "ABC printed461/PDF229 Kronos+Apollon Uranus complete eight-clause row; prior author actual raw proof reused",
+        "Witte PDF299 Kronos+Apollon Uranus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-abc-p229.png",
+          "sha256": "6ff832bf473cecaadf1396950a771e326675e6400a5f8882b3086bdcce90c68e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-witte-p299.png",
+          "sha256": "cbf702b93ec9af8d5f0c3f1065e2195c27bc235e8ae4529d6fc5171504698df2"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-075",
+      "path": "wiki/activations/kronos-apollon-equals-venus.md",
+      "queue_index": 106,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "3c887c7f659ead2d535072927fb5b0f9e4a1481f664cf5bd390d15e73bb4140d",
+      "source_entries_sha256": "55781ad8453a560fa1496397a7f44ce134dba967f1b8ba9e4c125ce58ce8ce68",
+      "owner_record_sha256": "ad42eb86e9c2503c64cce0324f99d800f79f9e5a5bbcd27901c887ba3c9b30ee",
+      "actual_locators": [
+        "ABC printed460/PDF229 Kronos+Apollon Venus complete eight-clause row; prior author actual raw proof reused",
+        "Witte PDF299 Kronos+Apollon Venus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-abc-p229.png",
+          "sha256": "6ff832bf473cecaadf1396950a771e326675e6400a5f8882b3086bdcce90c68e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-witte-p299.png",
+          "sha256": "cbf702b93ec9af8d5f0c3f1065e2195c27bc235e8ae4529d6fc5171504698df2"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-076",
+      "path": "wiki/activations/kronos-apollon-equals-vernal-point.md",
+      "queue_index": 107,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "9a6d2eda156e649ac72b53750f5336d197a58d14544942a8c5b18c9226f2cf87",
+      "source_entries_sha256": "683df8c1a6dee024e9b783ffd97b4cfe9e2dad0bb5a6183f793e6aff48cf1801",
+      "owner_record_sha256": "3c2baca9e59314d43bd21c60ba75cc8e66a2ea455f1a12cee1aa69bdbba0b479",
+      "actual_locators": [
+        "ABC printed460/PDF229 Kronos+Apollon Vernal Point complete five-clause row; prior author actual raw proof reused",
+        "Witte PDF299 Kronos+Apollon Vernal Point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-abc-p229.png",
+          "sha256": "6ff832bf473cecaadf1396950a771e326675e6400a5f8882b3086bdcce90c68e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-021-witte-p299.png",
+          "sha256": "cbf702b93ec9af8d5f0c3f1065e2195c27bc235e8ae4529d6fc5171504698df2"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-077",
+      "path": "wiki/activations/kronos-poseidon-equals-asc.md",
+      "queue_index": 108,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "original_reviewer": "activation_review_084_088-a022-handoff",
+      "canonical_sha256": "c93b4f471b91b71b5b69706ff2e63c9ad3f6465856c02910535ebf090add98be",
+      "source_entries_sha256": "22d1ae364161de19da1b2d77d87803c9ee0adccfa66ff8040e2374a9282ccaab",
+      "owner_record_sha256": "e25faeb5237a28ff878ab90bd3a1bf18320569415d278161395ff801b6aaefa2",
+      "actual_locators": [
+        "ABC printed466/PDF232 Kronos+Poseidon Asc complete nine-clause row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p232.png",
+          "sha256": "0b61a67d20aa3203caa3f5b22504819dbbd575a026a4ad4d3673d8540a84e43c"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-078",
+      "path": "wiki/activations/kronos-vulcanus-equals-mc.md",
+      "queue_index": 109,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "original_reviewer": "activation_review_084_088-a022-handoff",
+      "canonical_sha256": "8be05da50d1be36afc65433c075450f0b13cf6085babd1fbb691b7abb107982b",
+      "source_entries_sha256": "8333cbb4e4d9f69d458c2509dec66f9066b31d544b3d4e9afe3ec11aaa4ba385",
+      "owner_record_sha256": "294bdf27db99c8ed058800f277332eb1897d16ea92160d83a6db920e3196bba9",
+      "actual_locators": [
+        "ABC printed464/PDF231 Kronos+Vulcanus MC complete ten-clause row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p231.png",
+          "sha256": "b34a4f819f77426e6bf6c9c7482b3154eed6f549f9691b4a36fbc5b926c4c7a1"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-079",
+      "path": "wiki/activations/mars-admetos-equals-kronos.md",
+      "queue_index": 110,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "original_reviewer": "activation_review_084_088-a022-handoff",
+      "canonical_sha256": "b63a2d63d09274dd8a98ad657e6d2a791a997d3316d8f13d551351898365ce5c",
+      "source_entries_sha256": "c3b36b727984bd3b1d53b11a038211ca9b4139ff18818e3aba400946f379e649",
+      "owner_record_sha256": "cf521354e9e3346984d8ee81bf4fe401069e91cc22148d6af85b1b8b60d634e1",
+      "actual_locators": [
+        "ABC printed319/PDF158 Mars+Admetos Kronos complete eight-clause row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p158.png",
+          "sha256": "654c507d383d0d1feb8e2f32dfc324e47fd6eee1e8e4938197e6c1091ba3fdc4"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's Urstoff (primordial matter) is not defined as a particular material or scientific concept in this row."
+      ]
+    },
+    {
+      "id": "A-080",
+      "path": "wiki/activations/mars-admetos-equals-neptune.md",
+      "queue_index": 111,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "original_reviewer": "activation_review_084_088-a022-handoff",
+      "canonical_sha256": "b9a0bf76145999d259cef874a81c0fe1db1f25dc283c90bf0e2bbb861c589240",
+      "source_entries_sha256": "4b059bcd8c5556e290771ca86e8efb54e712b71da30de0a8215884aeb6317db8",
+      "owner_record_sha256": "746ffe20ad6c2aed8d36b983cad42127bf0a28ee41b5cba80ebc97273a994adf",
+      "actual_locators": [
+        "ABC printed319/PDF158 Mars+Admetos Neptune complete seven-clause row before Pluto"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/a022-handoff-abc-p158.png",
+          "sha256": "654c507d383d0d1feb8e2f32dfc324e47fd6eee1e8e4938197e6c1091ba3fdc4"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's backed-up water and Urstoff examples specify no technical setting or particular material."
+      ]
+    }
+  ]
+}

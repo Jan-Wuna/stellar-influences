@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Moon/Asc` as source-native image material.
+Preserve Munkasey's concept phrases for `Moon/Asc` as source-native image material.
+
+Start with the [Moon/Asc interpretation](../axes/moon-asc.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/moon-asc.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Moon/Asc](../axes/moon-asc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `141`
+- Source concept page (printed): `141` (PDF page `142`).
 
 ## Source Concepts
 
@@ -124,5 +126,6 @@ Preserve Munkasey's page-3 concept phrases for `Moon/Asc` as source-native image
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/moon-asc.md#related-activations) to find the exact formula and orientation.
+
+The list includes both "Committed to Comforting Others" and "Ineffective Personal Responses", alongside images such as "A Cultural Environment". These remain separate prompts rather than a single verdict about a person's character or surroundings.

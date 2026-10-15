@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = MC`
 - Astronomicon formula: `T/X = MC`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 To have original thoughts. Technical or mathematical talent. Energetic thinking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I at the told that my experiences, my agitated speech, my rhythm, my technical reports, my restless youth, my emotional anxiety in the world, and my exciting talk about the soul
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting news for me, conversations about my events, my agitated speaking, my rhythmic movements, my technical reports, my restless youth, emotional restlessness in traffic, exciting conversations about the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `159`; entry code `0517` (supplied source-map locator; not visually verified).
 
 A person with the ability to correctly grasp all connective links and relationships and draw logical conclusions from such knowledge. An inventor, mathematician, physicist or cosmobiologist. The ability to think about a particular matter acutely and keenly and to act swiftly.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `49` (exact oriented passage checked in the actual PDF text).
 
 An ability to effectively perceive complex relationships and connections. The desire to share innovative ideas with the world. To have a reputation for having un usual ideas or for taking an original approach to one’s career.
 
@@ -70,22 +80,23 @@ Increases the recognition received for your contributions; added ability to cope
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Original, energetic thinking grasps relationships and seeks expression.
+- psychology: Keen perception and personal excitement coexist with restlessness.
+- body/health: Rhythmic movement is named; no bodily condition is stated.
+- social/relationship: Presenting ideas so others can grasp them and sharing innovation are explicit.
+- events/manifestations: Technical or mathematical work, unusual career approaches and recognition are examples.
+- conflicts/notes: Named occupations and recognition illustrate capacities rather than guarantee vocation or success.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize insight while allowing a need to moderate wit and explain concepts to others; recognition is a source possibility, not an inevitable result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = MC`: inventive public work, visible cleverness, and the ability to make ones mark through mental independence. Main caution: unstable direction: vocation can become erratic, contrarian, or too disruptive to sustain consistently.
+In `Mercury/Uranus = MC`, MC specifies original thought as a personal capacity to recognize connections, draw conclusions and act keenly. Technical or mathematical talent, innovative ideas and an original approach to work receive concrete expression; sharing them also calls for mature presentation and coping with people who do not immediately grasp the concepts. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+ABC retains the personally exciting news, agitated speech, rhythmic movements and restless youth alongside conversations about the soul. These examples give an inner and practical setting to the mental activity without making a listed occupation or public recognition inevitable. ([ABC](#abc-entry))
 
 ## Links
 

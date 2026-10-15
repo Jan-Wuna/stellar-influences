@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Neptune = MC`
 - Astronomicon formula: `T/Y = MC`
 - Axis page: [Mercury/Neptune](../axes/mercury-neptune.md)
@@ -37,23 +39,35 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `164`.
+
 #### Witte Entry
 
 Gifted with intuition. To blend fiction and truth. To be inclined to untruthfulness. Moment of insecure way of thinking or talking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124`.
+
 #### ABC Entry
 
-Foreign news for me, thoughts of a refined soul, my thinking is unclear, my movement of water, my speech about the future, my insecure movements, my uncertainty in youth, and words of a subtle soul
+German passage (transcribed from PDF page `124`, printed page `250`):
+
+> Fremde Nachrichten für mich, Gedanken einer feinfühlenden Seele, mein Denken ist unklar, meine Bewegung im Wasser, meine Gespräche über die Zukunft, meine unsicheren Bewegungen, meine Unsicherheit in der Jugend, Worte einer feinfühlenden Seele
+
+Editorial translation from the German passage: Foreign news for me; thoughts of a sensitive soul; my thinking is unclear; my movement in water; my conversations about the future; my uncertain movements; my uncertainty in youth; words of a sensitive soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `162`; entry code: `0529`.
 
 #### Ebertin Entry
 
 A rich inner life full of imagination, far-reaching ideas and plans, intuitive thinking, sympathetic understanding of other people. The act of deceiving oneself, to go the wrong way, to lie.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `49` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Using mental images of your past experiences to help you to mature; developing p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intuitive personal thinking and an imaginative inner life.
+- psychology: Sympathetic understanding and far-reaching ideas coexist with mixing fiction and truth or deceiving oneself.
+- body/health: No distinct bodily or medical claim is established.
+- social/relationship: Sandbach and Munkasey describe psychic connection or work with psychic persons for mutual development.
+- events/manifestations: Sharing uplifting ideas and using images of past experience for maturation are source-specific examples.
+- conflicts/notes: The intuitive gift is paired with explicit untruthfulness or misdirection; a public career is not required.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin retain deception beside intuitive understanding. Sandbach and Munkasey emphasize constructive connection and development without cancelling that adverse possibility.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune = MC`: artistic or spiritual vocation, suggestive public messaging, and direction guided by intuition, image, or emotional resonance. Main caution: vague public definition: outer role can become too porous, idealized, or difficult to state cleanly.
+In `Mercury/Neptune = MC`, MC makes the axis personal through intuitive thinking, a rich inner life and the way impressions guide one's own ideas. Ebertin connects this with sympathetic understanding, while Sandbach and Munkasey describe sharing uplifting ideas and developing psychic connections. Witte and Ebertin also retain self-deception, untruthfulness and taking a wrong path. The page therefore concerns the use and reliability of personal perception; its sources do not require a public vocation ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [ABC](#abc-entry)).
 
 ## Links
 

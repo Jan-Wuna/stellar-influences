@@ -1,0 +1,137 @@
+{
+  "scope_count": 156,
+  "reviewed_count": 156,
+  "accepted_count": 156,
+  "held_count": 0,
+  "pending_count": 0,
+  "completed_groups": [
+    "sun-mercury",
+    "sun-jupiter",
+    "sun-hades",
+    "sun-moon",
+    "sun-kronos",
+    "node-zeus",
+    "node-kronos",
+    "node-poseidon",
+    "node-vulcanus",
+    "node-mc"
+  ],
+  "pending_groups": [],
+  "held": [],
+  "final_rebind_complete": true,
+  "resolved_findings": [
+    {
+      "path": "wiki/activations/sun-kronos-equals-mars.md",
+      "defect": "Retained OCR and false edition-wording note",
+      "correction": "independently confirmed directly in high-resolution Witte114 printed118; source and note corrected, existing owner record amended.",
+      "after_sha256": "b5faedfbb734010b4e6b731b33f35cbd71537cf7f85ea4fed47dbf72eb3fc21c"
+    },
+    {
+      "path": "wiki/activations/node-poseidon-equals-moon.md",
+      "defect": "New popular culture narrowed Volks-Kultur",
+      "correction": "Read complete before/current source blocks, then reread the entire final corrected page and entire amended original owner record after independent raw-scan finding. All seven ABC clauses now match; Volks-Kultur is culture of the people, with dependent language corrected.",
+      "after_sha256": "f32ee70366e5d9bd0fa209c7d84401c21752e7045f58a97e58fe1ea51a5b58f3"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-sun.md",
+      "defect": "New powerful person misread gewalttätigen Person",
+      "correction": "Read complete before/current source blocks, then reread the entire final corrected page and entire amended original owner record after independent raw-scan finding. All seven ABC clauses now match; raw gewalttätigen Person is explicitly restored as violent person, and false gewaltigen record assertion/dependent interpretation corrected.",
+      "after_sha256": "995608c4618aeb05ee5f6b8fb8a0a6f76ea854070e6a969ccbca4489016d4845"
+    }
+  ],
+  "final_verified_at": "2026-10-15 13:42:45 UTC",
+  "final_validation": {
+    "scope_count": 156,
+    "bank_count": 156,
+    "unique_owner_count": 156,
+    "issues": [],
+    "proof_count": 36,
+    "owner_bindings_sha256": "986dfa4f22aed3c542e486638d76b0ff67d48dc0bc0e86ca7dd8425383736bcc",
+    "allowance_bank_sha256": "67c5e866553f5c386cf42867d8b492fe46b2a7883c83f55ff521c1a0eb343205",
+    "candidate_manifest_sha256": "6fc9224bf8966de15d389659abf047ef5f2df7f579242f44170be3f2081413cd",
+    "json_parse": "passed",
+    "trailing_whitespace": [],
+    "git_diff_check_exit": 0,
+    "baseline_candidate_hash_matches": 156,
+    "current_candidate_hash_matches": 153,
+    "verified_owner_repair_differences": [
+      {
+        "path": "wiki/activations/sun-kronos-equals-mars.md",
+        "candidate_after": "07534f9d995c57476923e20161ce6502262895e4d2c285694e676d9a3b8d965a",
+        "current_after": "b5faedfbb734010b4e6b731b33f35cbd71537cf7f85ea4fed47dbf72eb3fc21c"
+      },
+      {
+        "path": "wiki/activations/node-poseidon-equals-moon.md",
+        "candidate_after": "5c7a3af6a66f59370956bfde9e3575879dd81d736f70bb7a5fdd035757b00a45",
+        "current_after": "f32ee70366e5d9bd0fa209c7d84401c21752e7045f58a97e58fe1ea51a5b58f3"
+      },
+      {
+        "path": "wiki/activations/node-vulcanus-equals-sun.md",
+        "candidate_after": "8ecfb9691905d4ade66bd0c777e2184e43b6194b2b7f3083a3765a811d897b50",
+        "current_after": "995608c4618aeb05ee5f6b8fb8a0a6f76ea854070e6a969ccbca4489016d4845"
+      }
+    ]
+  },
+  "proof_sha256": {
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf103.png": "e9ba5eb3147db13161f12a77c405a3b84cc2f8fbd2249347718611f1c0858934",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf70.png": "fb98a47d67a1f50b7b85501745648680136215b5c923226bd3de45272c04c574",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf84.png": "0f4bba8c38d45a864067e7519b31bf3a879ce37f94f5fe9a03164be9757f3201",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf9.png": "0847a184d1e343176f0c463993cc45012a296a1c21b7df8265c0589fab36f90e",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf83.png": "bef154a6720cb5ecad66b2077fbf4651a79edc8f6f1c6e9d88729fef28021beb",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf10.png": "40e8468979a7266fa8cc0af1e2d31a66b0610d33baf7add4538aedc3875abfaf",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf8.png": "afc9a2b25c1ce0e6d956d1e446f6a8038132eeff3b1580ed0d0965141cf5a5c9",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf106.png": "beaa459b5a0d2f33863feaee8d3468a6ead25c0b2a95012e8892cf43066808a0",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf73.png": "975294bcf260e81fc0695482941a638acca6ad11cac9b9bee3f903fa7f01fbdd",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf93.png": "593df8495e3159b40713ab6aba74e5d023fe4147923a1b1b853e30de2e3f5427",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf14.png": "ca54815f4cebd9376ccb567b87cb717c2f95ab553e1bee4b6f944a52e853c52c",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf13.png": "c474e8e8362e489db75b733bc8d5defc2467b3fc6d64140ab8dbda837a170602",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf92.png": "2f53eada92da81f6ba188389f1b104c310df18d08c1ddff5710369f0a2f1ec43",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf112.png": "6391cdfe130a6c791e62f6b726012ae2bd0c673e3884d61ad87ee949eca94741",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf79.png": "0d74ae03190971db091f20c848e7d5c574ee4c525a3274f3848deec36868a5a1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf101.png": "4c07dd67cf5760b63a68177adcfcb77b469ebad26af423fa8afa6890e3649af5",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf68.png": "ff3e5acabd7c19326b8ee4de6e722e2a95d6758997dc568d4d0de24d3a371ae1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf81.png": "7be5bc1770403511fccb512de0e246b890334bd84656539e6a00d0dd37af3445",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf114.png": "2b38e2676def7dbc7e2cee516765426edbbe4dc74caa4d3a3dc008e45ed73e39",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf81.png": "02717c7d69e2a0e7dac11385461b816ebf6d40763910b79984a8f074e77ce066",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte114-mars-detail.png": "1a6aaedb756936a7d91e889a43d25558ec8ef08b2f841740ca79722d8ccabe58",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf151.png": "778d1943a2a4777ef01508b53eb283d06113d416ecbea183aab9de85e48405ee",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf113.png": "bd8dd3142db9fcdc1ee0454f29fce5f370fde2f8aa715007d11f93041ca04049",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf152.png": "c11a7334de4b0cfe1b7b933f8617fe1b0c80e33d61126d8dd4baef2521682c89",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf114.png": "7fddbdd19c26b0b2d323766ed6584321690502f8a7e7d0f0430ca2cb98ae58d3",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf156.png": "c6dc349007f1c951e4f63468751aff60f3cb196dab2df767a996926278536ae3",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf118.png": "0fce551a41165476c5e9648a097880f41395168540e27d56328464ace29f5437",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf155.png": "d619b3fcac7201abe58bcb903f36a7d7e2aac23702658dec742f284545ed6b3d",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf117.png": "6f2555893bb577b92b5cd9d0d62f4f41ad2ffe572806ae65f111b48221563820",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-witte-pdf61.png": "a266ce1104cba2fd40c077788c08b789e9a9f6f0378744329fd286e695c6187f",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc-pdf32.png": "1effb6eedbeba9ac3b53f1bfddaa08825e5415c9c55f9818a03013f95876262b",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf307.png": "f26d92047d298b49210c10abc192e84ba79b5e9b4788de678264f502caf98bb8",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf121.png": "881560ea4c26cc08afb5ae50b24d8e322def1c03371f905f1e155f58b0a37ca5",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-ebertin-pdf306.png": "c5dce0e48e0befbb56737846e6c2ebc0ae714fc8daf3d789e6cb5964204c9f2d",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-sandbach-pdf120.png": "85e6645bb3a52536e25149e4e20b1b357b5424c26ca39d8e0f4e3ab7e0240e35",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-node-abc117-sun-detail.png": "b32944accbfeb1597ce323db06089e1b96c5c9a7128b0867687d6ffc9d725f88"
+  },
+  "raw_pdf_sha256": {
+    "planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00",
+    "Udo-Rudolph_ABC-fur-Planetenbilder.pdf": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+    "planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d",
+    "Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895"
+  },
+  "hash_normalization": {
+    "section_regex": "^## Source Entries\\s*\\n(.*?)(?=^## |\\Z)",
+    "section_regex_flags": [
+      "MULTILINE",
+      "DOTALL"
+    ],
+    "hashed_capture_group": 1,
+    "terminal_standalone_anchor_regex": "(?:\\n<a id=\"[^\"]+\"></a>\\s*)+\\Z",
+    "normalization": [
+      "Read UTF-8 text with LF newlines",
+      "Exclude Source Entries heading; hash captured body only",
+      "Remove terminal standalone HTML anchors for the next section",
+      "Strip leading and trailing whitespace",
+      "Encode UTF-8 and compute SHA256"
+    ],
+    "scope": "Source Entries body only; whole-file hashes are not the allowance contract"
+  },
+  "hash_binding_correction": "Replaced all156 whole-file digest pairs with the gate's exact normalized Source Entries-body digests. Completed source reads and approvals are preserved; no wiki, ledger, proof or raw source changes were made."
+}

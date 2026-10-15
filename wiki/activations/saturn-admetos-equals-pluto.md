@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Pluto`
 - Astronomicon formula: `W/¦ = Z`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ Deep and internal change commencing slowly. End of growth. Standstill of develop
 
 #### ABC Entry
 
-Easing development in old age, growing growth, development of patience, slow profound change, development of damage, deep growth losses, and transformation of circulatory problems
+Restricted development in old age, serious growing losses, thorough development of patience, slow profound change, limiting the development of damage, profound disturbances of growth, and transformation of circulatory problems
+
+## Comparative Schema
+
+- Core meaning: slow internal change amid restricted development.
+- Psychology: development of patience.
+- Body/health: growth disturbances and circulatory problems remain historical associations.
+- Social/relationship: no specific relationship pattern is stated.
+- Events/manifestations: stalled growth, growing losses or limiting further damage.
+- Conflicts/notes: damage limitation is not the same as damage developing unchecked.
+
+## Contradictions
+
+Slow change and a standstill describe differing possibilities. ABC also includes limiting damage, so the entry does not imply uninterrupted deterioration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Pluto`: deep and internal change commencing slowly, end of growth, standstill of development.
-- Practical expression: easing development in old age, growing growth, development of patience, slow profound change, and development of damage.
+In `Saturn/Admetos = Pluto`, Pluto specifies the pair as development that slows, stalls or changes deeply from within. The [Witte entry](#witte-entry) joins gradual internal change to arrested growth and worsening trouble (PDF p. 229). The [ABC entry](#abc-entry) adds growing losses, the development of patience and efforts to limit damage (printed p. 365; PDF p. 181). This preserves a response to difficult development alongside the difficulty itself. Its growth and circulation examples remain attributed historical claims, not medical predictions.
 
 ## Links
 

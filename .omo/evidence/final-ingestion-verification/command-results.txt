@@ -1,0 +1,25 @@
+Surface: terminal, PowerShell in W:\Stellar Influences
+
+1. Invocation: C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/rebuild_index.py
+   Exit result: 0
+   Console output: none
+
+2. Invocation: C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/query_manifest.py
+   Exit result: 0
+   Console output: none
+
+3. Invocation: C:/pyMADMAX2/miniconda3/envs/deep11/python.exe tools/lint_wiki.py
+   Exit result: 0
+   Console output: Lint passed
+
+4. Invocation: git status --short -- wiki
+   Exit result: 0
+   Console output: ?? wiki/.obsidian/
+
+5. Invocation: git diff --name-only -- wiki
+   Exit result: 0
+   Console output: none
+
+6. Invocation: C:/pyMADMAX2/miniconda3/envs/deep11/python.exe .omo/evidence/final-ingestion-verification/qa_checks.py
+   Exit result: 0
+   Console output: all representative page checks and adversarial orientation-safety checks PASS

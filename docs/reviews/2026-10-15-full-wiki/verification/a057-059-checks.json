@@ -1,0 +1,688 @@
+{
+  "reviewer": "activation_review_057_059",
+  "coverage": [
+    {
+      "assignment": "activations-057",
+      "assigned": 55,
+      "reviewed": 55,
+      "missing": []
+    },
+    {
+      "assignment": "activations-058",
+      "assigned": 55,
+      "reviewed": 55,
+      "missing": []
+    },
+    {
+      "assignment": "activations-059",
+      "assigned": 55,
+      "reviewed": 55,
+      "missing": []
+    }
+  ],
+  "all_records": 165,
+  "new_reviews": 134,
+  "preserved_prior_reviews": 31,
+  "duplicate_paths": [],
+  "source_repair_count": 91,
+  "source_repair_counts": {
+    "abc": 87,
+    "witte": 4
+  },
+  "unresolved_qualifications": [
+    {
+      "path": "wiki/activations/pluto-admetos-equals-apollon.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-hades.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-jupiter.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-kronos.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mars.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mc.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mercury.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-venus.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-vulcanus.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-zeus.md",
+      "unresolved": [
+        "Kreislauf remains explicitly open to cycle/circulation; the brief source row does not select a bodily mechanism. No passage is missing."
+      ]
+    }
+  ],
+  "checks": [
+    "All134 baseline frontmatter preserved; exact formula identities also personally read.",
+    "All134 have one immediate stable synthesis anchor, six meaningful comparative categories and early navigation.",
+    "All134 local Markdown heading fragments and file-link targets resolve.",
+    "Required original-ledger record fields and baseline outcomes checked.",
+    "All91 source-repair before/after passages match baseline/current text; source files and durable raw scan proofs exist.",
+    "Actual source rows personally inspected and bounded diffs reviewed; full-corpus tests and independent source approval remain root-owned.",
+    "Final git diff --check passed across all134 task-owned activation paths."
+  ],
+  "failures": [],
+  "page_hashes": [
+    {
+      "path": "wiki/activations/node-kronos-equals-neptune.md",
+      "sha256": "1a12bb318ed1c183dda983347f0ba7af6eff97e2875da71cb6e9fac2f957d172"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-pluto.md",
+      "sha256": "2eb23d7cef14d2d6bc36d568bcf10f6b6836306ce7ccbbabb60f092ef03c9a08"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-poseidon.md",
+      "sha256": "28f96a909104876fcc9dbb848ccc94dbcbe8ae18cae4a644eb9e5d9aa0945049"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-saturn.md",
+      "sha256": "a27b741fbb9bc5db25d7c4b2b346bd0060c879ec2e3b1b89d660fad64e2eb8fe"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-sun.md",
+      "sha256": "dc712ac2c09ce57d40ea33f49cb016935eca4f6b1760c6bc2ca2c55660330a8f"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-uranus.md",
+      "sha256": "5b24560ffcc7b437176a25168490ca1ceb92f06474292159deec8fd6747a88c3"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-venus.md",
+      "sha256": "ec2b84959c50732e9ddeb10ce202a2f1f1326426a335cf7e00f2d3005bba5ca4"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-vernal-point.md",
+      "sha256": "460b2ca90f85643b0fd37f46dfb52f3162842656f81c30b66604a6efe9d067ec"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-vulcanus.md",
+      "sha256": "df614a1291927c0c978bbb9247b59da5a42e46a16743396df0b06c4ebd6f1e64"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-zeus.md",
+      "sha256": "82989a987b123ad75d5a2d320267018eea4eedc76b5a49435f7ac54c05c4c03a"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-admetos.md",
+      "sha256": "770884c16dcab3f31beea1441352816cbd897505d5a973022750018b82e1efab"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-apollon.md",
+      "sha256": "2560addcc0ba2500850dc58eeb0197cb78fd7b943c1138e19e3a244dd740db3c"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-asc.md",
+      "sha256": "738264bc69227ba70e9d48e3537acadaa41088a8bcf9e927dce614f61e8d960a"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-chiron.md",
+      "sha256": "4df48359baaa5952f4fb2bdb2d1c4b8527e8fe9948a3f24d79556afe91f96f5c"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-cupido.md",
+      "sha256": "61b1a9e5f44ffc28954248dea2bbb9098f48944f33b1656b8313422aec513bf8"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-hades.md",
+      "sha256": "226a9f5cce4f49d35c2a8155831f08d1864ab4a73709f8697e4537315ba1efbf"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-jupiter.md",
+      "sha256": "c0a89f806fb91117093d691fd6766651110034b1aab6b9eb11e19a24bfd387a6"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-kronos.md",
+      "sha256": "c1765fa8a68fb700cd9cbe7964f4d07a9bf57399ecc14f17076bd4f6e809765e"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-mars.md",
+      "sha256": "b7db56caf2e033e5f31e65bb853a8f2d47cc047ac1ff895e29266d5677341c84"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-mc.md",
+      "sha256": "0e32cf2c765ae8e43d14218bee5fcd3cadc2ece1281a83a5534836f3eb9ad09b"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-mercury.md",
+      "sha256": "f879225c0b84c99a9c4c0b8e0d9f89c6e4147366a0a6130436c00627722ca7a6"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-moon.md",
+      "sha256": "4763832375b1a1fb659a8cbbcd44f656d1f39c88fa31c9b2046908f975d77145"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-neptune.md",
+      "sha256": "ddff53c62c9c919c6bb923f318b7d67aeb5c7e0df55cc04efaca55dd8de3eb63"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-node.md",
+      "sha256": "aa6b7e007c27ce4bc47fa902a656dcfb8c7c4e64616b315de3b30ca9881661d4"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-pluto.md",
+      "sha256": "f7da353b823961831f35efd7ded3c7a33b02fe733f6f12652dad11442e79017d"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-poseidon.md",
+      "sha256": "647f11a6f0ea0e37098625be2cbb05ed0660c5b706f59a60801ad265355dec04"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-saturn.md",
+      "sha256": "5a7680f746ccd26e813fdab2de2cb07042958711e4457d7101c0abd660b502da"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-sun.md",
+      "sha256": "04ee74ee77e7895c329e8c1ebbf67f0738c65d435fd5560a5c0dfc5b52b6ee3d"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-uranus.md",
+      "sha256": "2f7e17d952eb794e417deee87f4d172abbe0b9cd261c5a4869ba7b062dcfac3a"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-venus.md",
+      "sha256": "8d7e8a47eaeb691d9032c54bb7112e1cd265c6984bd379a637c5655c503bf0d4"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-vernal-point.md",
+      "sha256": "0ca0db4f7e2ac8668d4beb26fe698319208a3cf39a9a99468dd25a36645e1089"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-vulcanus.md",
+      "sha256": "fd2599d09be7b0149d8c700a10b47169555ffb59acab38d399f8d9ae1660ebe4"
+    },
+    {
+      "path": "wiki/activations/node-mc-equals-zeus.md",
+      "sha256": "4332a206c16254be281539578d0075ae3158c06de2db4ab5e78de27b20ceb010"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-admetos.md",
+      "sha256": "4cb47cb657447992f1fdfb47456c0a505dfd8bf82cc0d3b0ecba0864fb5656e1"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-apollon.md",
+      "sha256": "f1c959a232b26807689b93fa4c916bb5fa1b3315780083c6b530dea1dd478b41"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-asc.md",
+      "sha256": "e7df719cae031a637915dd108095c3d341ad3ae062317c1036856ac281a020d0"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-cupido.md",
+      "sha256": "ebe172efe7dad4c59b7497143200897cb0ed4aed003d734176b4e080216a3dde"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-hades.md",
+      "sha256": "2297a4b7802a51891a7ea54268bd03ab2c2527149f5fbcd9f1bedcbebb430d79"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-jupiter.md",
+      "sha256": "548594efd876d05a673e0123314e036c53236b930a0ca9057b6f2d35ac33c772"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-kronos.md",
+      "sha256": "2782bd38a44bee4b75cc936578adcdb246a7b6e8586860c0d525c1df55e5c6da"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-mars.md",
+      "sha256": "8a1e316d198d438fe6d1124069ba8254f6c4300bdf2fc875deb446b2eda517ab"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-mc.md",
+      "sha256": "6a4b29c68a054bd2d19f479e5b5b6b2f99b8d530bdbf70fd983227297a949038"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-mercury.md",
+      "sha256": "e632f81a71808819b109de146217d84bd1980d170fdbc2536b8ca04cf0d917f7"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-moon.md",
+      "sha256": "792faca93aef116d47f9a25982c81c0635a75ac20e4716b5c87e5623cdb4b88d"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-neptune.md",
+      "sha256": "8aca9c3276b8ed9846321ffbe2dfcaefcd015cbc81c8a04570f341afe814e93a"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-pluto.md",
+      "sha256": "63be69f9e11f1fc30e69eb9e88099a7273d8ed8b2d54dec8d47bf05d6d4bff0f"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-poseidon.md",
+      "sha256": "4550a0b4a88423a0562e15cfdb6a7ca9401d22ade7a1e81ea1f64e65e5f33c21"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-saturn.md",
+      "sha256": "074bb668a6da6ccc98a295483b94c89d2191395d3184f5ab6a4b64443ac3176a"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-sun.md",
+      "sha256": "1f223473eea3dde1d4282e29aea3ae0931f6d53b10c1cabc112921b1a3bf2286"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-uranus.md",
+      "sha256": "cd4448ea6e099d1a32f003254e96d23df483da47e32ff35badbb7db41c75e162"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-venus.md",
+      "sha256": "bfd2b9f92478be215a92fbab069af943f3db5e67c14af194d42d641a1cc6e451"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-vernal-point.md",
+      "sha256": "59648faa8b6ada7518fe23b80c3dbb7fb2301ef16166d8ac30a53636462426e9"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-vulcanus.md",
+      "sha256": "a1e3d4975563337d7bfb0c9cc49a28e3cd7f5cc98ee45fd065a5150f6b8eacaa"
+    },
+    {
+      "path": "wiki/activations/node-node-equals-zeus.md",
+      "sha256": "e2f22d912ce6363fc67bf0194ed9407c01f077d7c0094cc00b78f60b0deac7d7"
+    },
+    {
+      "path": "wiki/activations/node-poseidon-equals-admetos.md",
+      "sha256": "8b37a106597b6bcb0ef1529471d2a1763983d0e56e69aa3a65195f4d19ec6d12"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-pluto.md",
+      "sha256": "43dd669db263e37aa080ff5016b7519dd81cb7624d9e4d0499b4772d74fece1b"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-poseidon.md",
+      "sha256": "0739ee948c7383562e332cc3982a6cbc7c5d138bdf4480589b87f105488133d2"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-saturn.md",
+      "sha256": "f2c6aa1343718ca88a779153726596602b0e9b7b41dbdf828be8ebc7d94cfbca"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-sun.md",
+      "sha256": "5ddce879d0306e9eb026931ee7291266c37ca556ecfe4739878034d741361759"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-uranus.md",
+      "sha256": "fba659fd3f0bd99dc2f12877ef6afaa38c1f66b274fb07b446fb14cd16234d07"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-venus.md",
+      "sha256": "f54d8b5f4738ee1693a9af4c18908764df3f14513a097e96d3e5480ad47bd2f3"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-vernal-point.md",
+      "sha256": "d632e36dc757f943a1fd1bd113350a1b09720b05699862a713759657eafc13bf"
+    },
+    {
+      "path": "wiki/activations/node-vulcanus-equals-zeus.md",
+      "sha256": "8f26da0dd9a1d818c5e790f3d552de221f0068ef3b33e205a2db2229e380be1a"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-admetos.md",
+      "sha256": "4611ccecaf24ab682302d29694e740c2913edfaa095f54bd118f5e9e42688f58"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-apollon.md",
+      "sha256": "cafe76ee08a603a4548598d65773707d13170b43d23f662fddf527b09f1b94ba"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-asc.md",
+      "sha256": "c4bcc944cd4269cd11589d786dee5d01a4f7517b27c2f155a989d7c877afedc9"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-cupido.md",
+      "sha256": "54d1be91bbbc828a056c44327d3c72af57122021b81d853107825a3f3c27fb49"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-hades.md",
+      "sha256": "394f43bb1d7ee187d747d7cd528f1ec60a16c41ce95d0e59217c9fec8ed61b09"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-jupiter.md",
+      "sha256": "d223d9191b0b087074c78ecb6a07be0a097699dc9f1207566f90118ba7ab7148"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-kronos.md",
+      "sha256": "6bcf94244103f663a4ec30776440d08352104433fe43d31ab97b28c961bffb34"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-mars.md",
+      "sha256": "9f1314fdaa0fbaa0cc2cf7f40db7b9fe7451023c0181451235878798f6d407cd"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-mc.md",
+      "sha256": "0e8f1f1b6b797afb1532b1316b705fa33251db6bb8fd14f54ff811ecc2a92275"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-mercury.md",
+      "sha256": "97624f158ca67f6782c82699968c25e0baba8031a784332fc585f5016a4ba175"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-moon.md",
+      "sha256": "e9568a25e0f8a8d2b5aec3afa18263f4fb995f3677e46986e91c15757908d679"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-neptune.md",
+      "sha256": "0f6226da8c18a07f31b717c9f64643e158654c19a4f4d3430af272b015821dcf"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-pluto.md",
+      "sha256": "57baed919091193f1d068b12c0c17b864efed1fd26e17ef27f2ccceba75f3b69"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-poseidon.md",
+      "sha256": "b7eb8a45985bde1a7cbcafe1499a06294f50054e585924cccd20688e0dae3c0c"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-saturn.md",
+      "sha256": "7ab0bbd043079a550d84ca5d4181b6dab7f151149498ac973b6917f5b11274a6"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-sun.md",
+      "sha256": "7a87f474d6e5f2cd3ef26990a3857c4f69ace409f9afd9499931be4b71c2bbc2"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-uranus.md",
+      "sha256": "0176f02426a26896ba326e530872c464d92f58bd3b6f5ae99b9187a49076b8c4"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-venus.md",
+      "sha256": "92781d931fee97a9f3c90cbe9600f8adb655bb3f598ff7d592349e9b9fa19ca1"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-vernal-point.md",
+      "sha256": "f59adb7b02040315f468eeb435f1699973b3c098c073a451b1ce0a24715258f8"
+    },
+    {
+      "path": "wiki/activations/node-zeus-equals-vulcanus.md",
+      "sha256": "535ce29f51f9eaa4a173c8b8955e60e51e2fb103aeccb8e62bef8f66e1e95a7d"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-apollon.md",
+      "sha256": "88a98ffa4b7190d5afee92782abdf271a0e50f24273afff561bc2dd9ca897682"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-asc.md",
+      "sha256": "97abeb7aabf28642bd9230056d8f7e8ad98f07abad1894ea9b316a5a2dacda50"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-cupido.md",
+      "sha256": "b6f2375d7a69aa0a684ada14fa08999c76206ba7da6b232c98c399bbdfb009a0"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-hades.md",
+      "sha256": "4cf349d99605c007db993d49c7f36fb92a95e7ff0d64bb310b34b85de21f1972"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-jupiter.md",
+      "sha256": "c072bab56ee11f58e1a3cd5faa143775effe90fe3eddbfc77312657e25e006d0"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-kronos.md",
+      "sha256": "bc39f5da76f332cae24a5c2bde89a4c63de112713bd933bcffbe03068c7a4e2a"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mars.md",
+      "sha256": "0d803a94d741cada99a4876fdf16c22e447e07c01665b17ffc6c5634f84e7dbb"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mc.md",
+      "sha256": "a8ac1947c5f2de4a128be51ebb3b9d4fad23cd0a7eb09ffbe5d785751928f212"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-mercury.md",
+      "sha256": "4a7b1aa69a285ede79072b3532fa5ea754569526919fe0b9ad7bbbb4c908f8f6"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-moon.md",
+      "sha256": "8a9bb11d85faadeeab6b096ac58fd75ba7e846f14a72352e99d9c264539db7fa"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-neptune.md",
+      "sha256": "0482ec09a19750efce0894fd7586cbd927dd5133be91328c84aa30d660a9f1c5"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-node.md",
+      "sha256": "f85162ddacb6f625b6a6e3be7564db715b244afa003c5cc87fd248b46738a589"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-poseidon.md",
+      "sha256": "668e9d4b9439fbc57ac7d45ca5286ddce12b135671fd8199bde9ddcc651db532"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-saturn.md",
+      "sha256": "2af1d44559afdd874f5f6991193f03c8c77e154929a0f7ffed94c97dfa8181a1"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-sun.md",
+      "sha256": "b5d8973d7f1679a345d7b0ee31bd3022902a158278a929c12518b58f7144c555"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-uranus.md",
+      "sha256": "d39c102e4bf56d2a5b32c7a7934cb3daecaca34a366b9761f650bba27c1ba5d2"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-venus.md",
+      "sha256": "bfcfb26e8d355f20d77c653ef747655e2dfbb52a2239638f3cc608f520b39baf"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-vernal-point.md",
+      "sha256": "edb3bf329fca656aa32b5c8a9fbdbbb39a47ca764fe82f438e539edd3f8ae80e"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-vulcanus.md",
+      "sha256": "b5177f427f4f978e64ef38b5975e0520dced8ddd06e729aa4dd745754a703a12"
+    },
+    {
+      "path": "wiki/activations/pluto-admetos-equals-zeus.md",
+      "sha256": "6af010a5e9a981c05239248bd0e36e8fcd39817934ec0b847243b0c5b0e92de9"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-admetos.md",
+      "sha256": "6bbef90b915e365ca01f11640b23555a66addec519ffae7f4faa1cf980504052"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-asc.md",
+      "sha256": "aba649b113083521bc52aed07e9c58f97e576eaceab038388eed317fb3c929f2"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-cupido.md",
+      "sha256": "89a2c0501e6835e68033f380beef446d458b61e6f305a2629bd39c8b938cc0c2"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-hades.md",
+      "sha256": "1cf278b61b810ddd202dad57b9237da5b5db387d97c7cb4736410bbcd7dcafe9"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-jupiter.md",
+      "sha256": "6c30dc72f9aa438d7ae702432b0f55be190e2e68415c5d99f2a44e6d227180ee"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-kronos.md",
+      "sha256": "3c42212c14bd4cca5fb90b53e02e3c4923fe2e938aa01536254deb8417342b8e"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-mars.md",
+      "sha256": "77eb042e04eb6564cb0bee1968e5042cac1f52706302dd6e7a76c59fd74041c2"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-mc.md",
+      "sha256": "38664e2d57cc08cb39dde8204ca1a78533d3b2ea5665bd909f0bd2e3ea2a39ec"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-mercury.md",
+      "sha256": "13704562f7d3c16c2879085e547240ccfe8846b675a802c5e316c19020dfbebb"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-moon.md",
+      "sha256": "c8f64e6aa8816631466db3a9e7f1ed2493dcff5ff1e6b531e01697098d0f805a"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-neptune.md",
+      "sha256": "0b1e18c4aeb35a83b5b6142a90832970418f44676da6a11bb99ff66dd49a6e23"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-node.md",
+      "sha256": "83fd47cb91e57a8289669961c5538275bc37c95e173a60a22e0d17c3ce0ce4d2"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-poseidon.md",
+      "sha256": "72c8740f88b114c7cc1c2a0c0c072bd14ddf83e9136d81cacbab92d33ba8f40d"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-saturn.md",
+      "sha256": "8287ee637e13c015df67e29cae594a821aad23a96478067fe1e858be31403fc4"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-sun.md",
+      "sha256": "f90b37fdb4c102dcd35f841f7012c114925858c684943b1107b1daf9cc9df37e"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-uranus.md",
+      "sha256": "286ac35191f98a80017307dc06b90b562cc31cda205c54a7fd91f258a176d27d"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-venus.md",
+      "sha256": "c10a474172f3e8f1a5a68936fb9d86ba4808ac37b9f28e36e1cb4fcf9a61b9bc"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-vernal-point.md",
+      "sha256": "58a97bd1f5a14a9103f05487f58ef9484a421179431f68eee7c9a93172e3cb0e"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-vulcanus.md",
+      "sha256": "a785adfd1f0bb0ed521513c0f41ed9cbc02de1e3cccbcf4a959d4474b23d1418"
+    },
+    {
+      "path": "wiki/activations/pluto-apollon-equals-zeus.md",
+      "sha256": "ef9e5372b7925638b625e4fdc9d55a16b781ae341a61126b5e84a626bd71d4d1"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-admetos.md",
+      "sha256": "d49e398b52a463a1df406eb0fb1b1d215117550e707d250acaec7ca68d0a17c2"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-apollon.md",
+      "sha256": "e1e62a172a376bea93860060f4193a142b319426a7bc005adaa46623899a0d08"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-asc.md",
+      "sha256": "803571da87c04661f2a152238e0cccfd442695bfafbdff0800870a2cb1e6109e"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-chiron.md",
+      "sha256": "82dbee15d3233fd00ac60ddd2642ce9092a8a3453cc085eb88356f4eac1cce72"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-cupido.md",
+      "sha256": "a0aa391fc1db890ad29e582954a00ca998901ac85f5533e5c000d906282224c5"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-hades.md",
+      "sha256": "a6b31d72a32d6089fb6b3d198a650f2aa7e739d5f1ff1b0f8e2e180f1b514a87"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-jupiter.md",
+      "sha256": "196fde35d3bcad880a2d9d9e94ad077b9de0872add03f5fb8d1b24efb9f690fc"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-kronos.md",
+      "sha256": "bb257bbf81241a28993b177573309603acb7bcabd4fcc5300c928802983d1370"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-mars.md",
+      "sha256": "f32a5f01d72ca182b4b8ac5d3167986ecf720a97f3fec289a796151d3d9099ec"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-mc.md",
+      "sha256": "a4af16b5050d41f25f293059a8b8639070032d0766f2e84040fc15b07b79f063"
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-mercury.md",
+      "sha256": "818b2bd4ceea1b755e0c30dc7657f1e8b55fadf2df6051df3a1cba59e4352aaa"
+    }
+  ],
+  "bounded_source_corrections": {
+    "review_type": "bounded corrective follow-ups; independent source acceptance delegated to activation_review_060_062 (two Node pages) and axis_review (Pluto/Apollon=Asc)",
+    "date": "2026-10-15",
+    "pages": [
+      {
+        "path": "wiki/activations/node-poseidon-equals-moon.md",
+        "page_sha256": "962fc41aaf5962138bbc62b00e5e31681bb58c5617e47dd8c174867f7290310a",
+        "source_entries_sha256": "f32ee70366e5d9bd0fa209c7d84401c21752e7045f58a97e58fe1ea51a5b58f3",
+        "frontmatter_preserved": true,
+        "six_categories": true,
+        "single_adjacent_anchor": true,
+        "unique_owner": true,
+        "missing_file_targets": [],
+        "popular_culture_absent": true,
+        "incorrect_powerful_person_absent": true
+      },
+      {
+        "path": "wiki/activations/node-vulcanus-equals-sun.md",
+        "page_sha256": "5ddce879d0306e9eb026931ee7291266c37ca556ecfe4739878034d741361759",
+        "source_entries_sha256": "995608c4618aeb05ee5f6b8fb8a0a6f76ea854070e6a969ccbca4489016d4845",
+        "frontmatter_preserved": true,
+        "six_categories": true,
+        "single_adjacent_anchor": true,
+        "unique_owner": true,
+        "missing_file_targets": [],
+        "popular_culture_absent": true,
+        "incorrect_powerful_person_absent": true
+      },
+      {
+        "path": "wiki/activations/pluto-apollon-equals-asc.md",
+        "page_sha256": "aba649b113083521bc52aed07e9c58f97e576eaceab038388eed317fb3c929f2",
+        "source_entries_sha256": "5d92507d785c28c0e47a4890b02f746f1da391b23073ad2bd785eb2b87eec07a",
+        "frontmatter_preserved": true,
+        "six_categories": true,
+        "single_adjacent_anchor": true,
+        "unique_owner": true,
+        "missing_file_targets": [],
+        "changing_trading_partners_absent": true,
+        "growing_trading_partners_occurrences": 3,
+        "proof": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-remaining-abc-pdf207.png",
+        "independent_checker": "/root/axis_review"
+      }
+    ],
+    "whitespace_exit_code": 0
+  },
+  "whitespace_exit_code": 0
+}

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Admetos`
 - Astronomicon formula: `Y/¨ = ¦`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Deep penetration in highly spiritual things. Collapse of false ideas. Refined mental education.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `407`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Blocked water culture, depression through exchange of truth, limitation of the spiritual future, consolidation of metaphysical truths, fundamental cultural refinement, clarity about subtle matter, and sensitization through spiritual deepening
+Blocked water-culture, depression through pretended truth, restriction of the future of mind, consolidation of metaphysical truths, thorough cultural refinement, clarity about subtle-material matter, and sensitization through deepening of mind
+
+## Comparative Schema
+
+- core meaning: deep spiritual or mental examination, with false ideas collapsing and refinement or restriction also present.
+- psychology: pretended truth, deepening of mind, and clarity are explicit.
+- body/health: ABC's depression claim is historical language, not a diagnosis or established cause.
+- social/relationship: no distinct relationship pattern is supplied.
+- events/manifestations: refined mental education, blocked water-culture, and cultural refinement are named.
+- conflicts/notes: the source's metaphysical truths and subtle-material matter are attributed terms; inward discipline is not a demonstrated mechanism.
+
+## Contradictions
+
+Witte emphasizes penetration and refined education. ABC adds limits and depression through pretended truth alongside consolidation and clarity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Admetos`: Deep penetration in highly spiritual things. Collapse of false ideas. Refined mental education.
-- Practical focus: compresses subtle spiritual perception into deep penetration and refined discipline, breaking false ideas down through concentrated education and inward clarification.
-- Practical expression: blocked water culture, depression through exchange of truth, limitation of the spiritual future, consolidation of metaphysical truths, and fundamental cultural refinement.
+In Neptune/Poseidon = Admetos, the concern is depth of understanding and the limits or falsity that examination may encounter. [Witte](#witte-entry) names deep spiritual penetration, collapse of false ideas, and refined mental education; [ABC](#abc-entry) adds consolidation, cultural refinement, restriction, and pretended truth (printed p. 407, PDF p. 202). The spiritual and material expressions remain attributed, without treating them as a verified psychological or medical process.
 
 ## Links
 

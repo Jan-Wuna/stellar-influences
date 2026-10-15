@@ -28,7 +28,9 @@ related_activations:
   - Sun/Venus = Pluto
   - Sun/Venus = Poseidon
   - Sun/Venus = Saturn
+  - Sun/Venus = Sun
   - Sun/Venus = Uranus
+  - Sun/Venus = Venus
   - Sun/Venus = Vernal Point
   - Sun/Venus = Vulcanus
   - Sun/Venus = Zeus
@@ -74,45 +76,51 @@ updated_at: 2026-06-20
 - Axis: `Sun/Venus`
 - Astronomicon axis: `S/Q`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/VENUS`
-- Source page: `63`
+- Source heading: `SUN + VENUS`
+- Source page: PDF p. 104.
 
 #### Pair Summary
 
-Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. Hie time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
+Harmony. A peaceful day. Personal attraction. Magnetism. Beautiful body. The loving man. The time of love. The body’s capacity for love. (In the solar cycle: a peaceful period.)
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Peace center, peaceful man, harmonious day, corporal love, art, man of the arts, human affection, personal harmony, personal preference, gentle man, day of love, and benevolent man
+- Source page: printed pp. 144–145; PDF p. 71.
+
+Peace center, peaceful man, harmonious day, physical love, art center, man of art, human affection, personal harmony, personal preference, beautiful person, day of love, benevolent person.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Sun/Venus`
+- Printed page: `83`; PDF page: `85`.
+
 #### Principle
 
-Physical love, harmony, beauty, art, the ideał. Psychologica/ Correspondence + Feeling of love, power of attraction, popularity, artistic leanings, sense ofbeauty, music, nature. Strong potential ofexpression in the sphere of soul and love. Love of social life. • Uncontrolled love attachment, pleasure seeking, luxury; everything is done for the sake of extemal appearance and show without intrinsic or inner value. C Strength of feeling, artistic and aesthetic aspirations. Biologica/ Correspondence Glandular tissue, Graafs follicles (sphere-shaped vesicles in the ova• ries). Sociologica/ Correspondence The beloved man or woman, the artist. Probable Man/festations + Popularity, love union, potential for artistic development. • Detrimental consequences with regard to health caused by over-in• dulgence or too rich living. 0/9
+Physical love, harmony, beauty, art, the ideal.
 
 #### Psychological Correspondence
 
-- None extracted.
++ Feeling of love, power of attraction, popularity, artistic leanings, sense of beauty, music, nature. Strong potential of expression in the sphere of soul and love. Love of social life. - Uncontrolled love attachment, pleasure seeking, luxury; everything is done for the sake of external appearance and show without intrinsic or inner value. C Strength of feeling, artistic and aesthetic aspirations.
 
 #### Biological Correspondence
 
-- None extracted.
+Glandular tissue, Graaf's follicles (sphere-shaped vesicles in the ovaries).
 
 #### Sociological Correspondence
 
-- None extracted.
+The beloved man or woman, the artist.
 
 #### Probable Manifestations
 
-- None extracted.
++ Popularity, love union, potential for artistic development. - Detrimental consequences with regard to health caused by over-indulgence or too rich living.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -149,6 +157,8 @@ In the maps of rulers it seems to denote restless and disloyal subjects and unfo
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source page: PDF p. 10.
+
 #### Principle
 
 Love as a vitalizing and meaningful experience. Art. Aesthetics. Selflove both in the neurotic and healthy sense. One’s values as they relate to one’s long-term goals. To be egotistical about one’s own attractiveness and/or value.
@@ -158,6 +168,8 @@ Love as a vitalizing and meaningful experience. Art. Aesthetics. Selflove both i
 To see the enduring and ultimately meaningful worth that lies underneath all passing, temporary and surface attractions.
 
 ### Robert Hand - Horoscope Symbols
+
+- Source page: PDF p. 201.
 
 #### Pair Delineation
 
@@ -198,7 +210,7 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Sun-Venus: Charm`
-- PDF page(s): `281`
+- PDF page(s): `281–282`
 
 #### Banzhaf/Haebler Aspect Keywords
 
@@ -206,17 +218,17 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - shadow: The Beau and the Flatterer
 - comparison: Essence Grace Creative will Formability Individual nature Sense of community Independence Desire for connection Core Packaging Personality Charm Inner beauty Outer beauty Willfulness Striving for harmony
 - general: The connection of personality and content of life for a person with style , outer beauty , and personal charm . A sympathetic/likeable and peaceable nature . The Sun and Venus are never more than 48° apart from each other. This is why conjunctions, semisextiles. and semi-squares are the only possible aspects.
-- harmony: The Likable Person. Pleasant aura. A person who has a beneficial effect on others by just being there. Popular, charming, and usually erotic and seductive. Sociable, able to adapt, a good mixer, diplomatic, peaceable. Knows how to value elevated style, a cultivated atmosphere, luxury, and good taste.
+- harmony: The Likable Person. Pleasant aura. A person who has a beneficial effect on others by just being there. Popular, charming, and usually erotic and seductive. Sociable, able to adapt, a good mixer, diplomatic, peaceable. Knows how to value elevated style, a cultivated atmosphere, luxury, and good taste. Frequently distinct interest in art and culture.
 - discord: The Coquette. According to the position of the signs of the planets, cold-blooded tactics with erotic charms or crude ingratiation. False, sometimes extravagant expectations of happiness. Lapses of taste and excessive desire for pleasure.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: personal expression through affection, attraction, appreciation, beauty, and the wish for harmonious exchange ([Witte](#pair-summary), [Ebertin](#principle), [Munkasey](#basic-ideas)).
+- psychology: warmth, aesthetic pleasure, gratitude, and healthy self-value can become vanity, dependence on approval, superficial display, or pleasure-seeking ([Falis](#falis-entry), [Sandbach](#process), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
+- body/health: bodily attraction and physical love occur alongside Ebertin's glandular and ovarian associations and overindulgence warning; Munkasey's thyroid, sensory, and kidney claims remain attributed historical associations ([Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind)).
+- social/relationship: sociability, diplomacy, loving exchange, and sincerity, with the possibility of conditional affection or valuing a relationship mainly for its material returns ([Falis](#falis-entry), [Munkasey](#in-your-relationships)).
+- events/manifestations: love unions, popularity, artistic development, and cultivated surroundings; Munkasey also addresses cultural heritage and the use of institutional wealth to sustain an image ([Ebertin](#probable-manifestations), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: attraction and charm do not establish compatibility or artistic achievement. Hand makes creativity conditional, while Carter records aspect-specific marital difficulties alongside affection and talent.
 
 ## Related Activations
 
@@ -237,22 +249,24 @@ Your attitude toward health and your body, in general; your thyroid’s ability 
 - [Sun/Venus = Pluto](../activations/sun-venus-equals-pluto.md)
 - [Sun/Venus = Poseidon](../activations/sun-venus-equals-poseidon.md)
 - [Sun/Venus = Saturn](../activations/sun-venus-equals-saturn.md)
+- [Sun/Venus = Sun](../activations/sun-venus-equals-sun.md)
 - [Sun/Venus = Uranus](../activations/sun-venus-equals-uranus.md)
+- [Sun/Venus = Venus](../activations/sun-venus-equals-venus.md)
 - [Sun/Venus = Vernal Point](../activations/sun-venus-equals-vernal-point.md)
 - [Sun/Venus = Vulcanus](../activations/sun-venus-equals-vulcanus.md)
 - [Sun/Venus = Zeus](../activations/sun-venus-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The recurrent theme of affection and harmony does not erase Carter's conditional accounts of marital separation or incompatibility. Attraction, relational sincerity, and a lasting union are different questions in these entries.
+- Carter's historical gender and family-size claims and the medical associations remain attributed; none specifies a person's identity, health or relationship outcome from the pair alone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus` joins identity and will with love, attraction, beauty, charm, pleasure, and the desire for harmonious exchange. It is a primary axis of affection, appreciation, artistry, and social grace.
-- In practice, this axis describes the need to feel valued and to express value directly: warmth, popularity, aesthetic refinement, cooperative style, and love as a meaningful part of self-expression. When distorted, the same axis can lean toward vanity, superficiality, or overdependence on approval and comfort.
+`Sun/Venus` concerns expressing oneself through affection, appreciation, and the creation of harmony. Love can make life feel meaningful and vital; beauty, art, cultivated surroundings, and social grace offer related ways to give that appreciation a visible form. The vulnerable point is locating personal worth entirely in attractiveness, popularity, or comfort, so that charm substitutes for substance ([Ebertin](#psychological-correspondence), [Falis](#falis-entry), [Sandbach's process](#process)).
+
+In relationships this becomes the difference between sincere reciprocal care and affection offered for approval or material return. The pair can describe popularity, loving union, and artistic aspiration, but it does not by itself establish enduring compatibility or accomplished creative work: Hand explicitly qualifies artistic creativity, and Carter retains marital difficulties within his aspect-specific account. Munkasey's discussion of cultural resources broadens the range beyond private romance without turning this pair into a general promise of wealth ([Munkasey's relationship entry](#in-your-relationships), [Hand](#pair-delineation), [Carter](#pair-overview), [Munkasey's institutional entry](#in-politics-or-business)).
 
 ## Links
 

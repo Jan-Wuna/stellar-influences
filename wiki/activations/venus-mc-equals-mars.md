@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Mars MC](../triads/venus-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Sexual attraction. Desire. Moment of harmonious action.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `70`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-Stirred artistic work, harmonious soul impulses, production of inner peace, I want to love, my artist creator, I love the work, inner peace through work, my peaceful work, my harmonious work, and my artistic activity
+Soulful artistic work, harmonious impulses of the soul, production of inner peace, I want to love, my artistic creation, I love work, inner peace through work, my peaceful creation, my harmonious work, and my artistic activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0678`.
 
 #### Ebertin Entry
 
 An impulsive expression of the sex urge, strong desire, wish to have children. A sex union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Further forcefulness to gain a fair share for your efforts; using athletics or e
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Desire and affectionate values expressed through initiative, work, and action.
+- Psychology: Strong wishes, forceful pursuit of a fair return, and tension between anger and acceptance.
+- Body/health: Sexual attraction and a wish for children are source statements, without a reproductive or medical prediction.
+- Social/relationship: Desire, sexual union, and purposeful effort to express love.
+- Events/manifestations: Artistic work, spreading beauty, exercise as art, and creating inner peace through work.
+- Conflicts/notes: Munkasey's inner anger and forcefulness qualify the harmonious active expressions.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's inner anger and forcefulness qualify the harmonious active expressions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Mars`: creative drive, bold diplomacy, and the ability to pursue recognition through relationship or aesthetic force. Main caution: friction in public charm: attraction and ambition can become competitive, provocative, or too heat-driven for stable harmony.
+`Venus/MC = Mars` turns personal affection and values into action. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize desire and sexual attraction; the [ABC entry](#abc-entry) also locates inner peace in artistic and harmonious work. [Sandbach](#sandbach-entry) makes initiative serve the spread of love and beauty. [Munkasey](#munkasey-entry) adds forcefulness in seeking a fair return, exercise as art, and the tension between inner anger and acceptance. Active love can therefore be creative and purposeful while remaining forceful or conflicted; the wish for children does not determine a reproductive outcome.
 
 ## Links
 

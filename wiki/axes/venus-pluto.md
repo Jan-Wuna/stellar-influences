@@ -25,10 +25,12 @@ related_activations:
   - Venus/Pluto = Moon
   - Venus/Pluto = Neptune
   - Venus/Pluto = Node
+  - Venus/Pluto = Pluto
   - Venus/Pluto = Poseidon
   - Venus/Pluto = Saturn
   - Venus/Pluto = Sun
   - Venus/Pluto = Uranus
+  - Venus/Pluto = Venus
   - Venus/Pluto = Vernal Point
   - Venus/Pluto = Vulcanus
   - Venus/Pluto = Zeus
@@ -73,13 +75,14 @@ updated_at: 2026-06-20
 - Axis: `Venus/Pluto`
 - Astronomicon axis: `Q/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); related activations retain distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/PLUTO`
-- Source page: `207`
+- Source heading: `VENUS + PLUTO`
+- PDF page: 181.
 
 #### Pair Summary
 
@@ -89,9 +92,13 @@ Harmonious development or transformation. Development of a wish, of a hope. Begi
 
 #### ABC Pair Summary
 
-Degeneration of beauty, evolution of the female principle, peaceful development, harmony development, artificial development, transformation of love, change of affection, growing joy, and changing love
+- Printed pages: 280–281; PDF page: 139.
+
+Unfolding of beauty, evolution of the female principle, peaceful development, unfolding of harmony, development of art, transformation of love, change of affection, growing joy, changing love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 190; PDF page: 192.
 
 #### Principle
 
@@ -111,7 +118,11 @@ Fanatics in love or art.
 
 #### Probable Manifestations
 
-+ Being madly in love with one's lover, the state of being attracted to a lover by a kind of inner compulsion. - Extraordinary strains and stresses in love life. 35 One must be careful when making decisions regarding a Venus/Pluto aspect because these combinations are not only found in cases of lose-living women like a well-known Frankfurt prostitute, but can also be found in the case of deeply moral individuals. Here, as everywhere else, the inheritance is important, the home, upbringing, environment and the period in time. Venus-Pluto combinations are found at times in the case of creative personalities. Venus/Pluto Q/f
++ Being madly in love with one's lover, the state of being attracted to a lover by a kind of inner compulsion. - Extraordinary strains and stresses in love life.
+
+#### Note 35
+
+One must be careful when making decisions regarding a Venus/Pluto aspect because these combinations are not only found in cases of lose-living women like a well-known Frankfurt prostitute, but can also be found in the case of deeply moral individuals. Here, as everywhere else, the inheritance is important, the home, upbringing, environment and the period in time. Venus-Pluto combinations are found at times in the case of creative personalities.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -120,6 +131,8 @@ Fanatics in love or art.
 Transformational love. Intense artistic presence. Undermining love. Suffocating love. Depraved love. Controlling love. Attracted to controlling people. Attempting to control the people you love. Intense relationships. Intense artistic involvements. Transformation through artistic expression. Transformation through relationships. Buried treasure. Gold diggers. Hidden jewels. The depth of attraction. An intensely attractive person. Attracting situations that have the potential to be destructive. Overwhelming relationships. Sexual compulsion. Manipulation for power. Using sexual attractiveness to gain favors and power. Black Widow. Flirting with power. Dangerous flirtations. Addicted to love. Addicted to sweets. Addicted to pleasure. Addicted to money. Obsession with appearance. Compulsive manipulation. Heavy love. Heavy values. Powerful relationships. Passionate likes and dislikes. Someone who is passionately liked or disliked. Artis tic passion. The power of love. The power of love to heal and transform. The power of love to destroy and corrupt. Sociopath. Having a deep understanding of relation ships. Having to make a choice between undermining and transforming your rela tionships. The underpinnings of a relationship. The underpinnings of cravings. That which lies beneath the surface of social interactions. Crises in relationship. Being able to handle anything in a relationship. The heights and depths of relation ships. Obsession with beauty. Obsession with appearance. Obsession with the surface. The power of beauty. Using beauty to hold power over others. Being powerless in the face of beauty. Feeling powerless because of your appearance. Feeling powerful because of your appearance. The power of money. Intense social interactions. So cial manipulation. Picking up on the undercurrents of social exchanges. Picking up on flirtatious undercurrents. Using charm to gain power. Painful relationships. Needing to be in a consuming relationship. Not liking frivolous relationships or frivolous social exchanges. Obsessed with relationships. Obsessed with money. Obsessed with fashion. Obsessed with art. Intense jealousy. Falling in love with criminals. Makeovers. Cosmetic surgeons. The Swan. Shedding superficial attach ments. Taboo love. Secret love. Inability to escape hitting the bottom of relation ships. Addictive relationships. Addicted to being in relationships. Compulsive relating. Dark side relationships. The underbelly of relationships. All the stuff you can't sweep under the rug in a relationship, and how you deal with it. Manipulation through charm and good manners. Deep need to merge with someone yet simulta neously staying at the surface. Till death do you part. Catharsis through art. Healing through art. Rebirth through artistic expression. Pouring passion into creativity. Gaining power by being attractive. Attracted to underworld activities. Attracted to situations, people and activities that lead you to the edge. Needing involvement in activities that go beyond "nice" "okay and "fine." Needing catharsis and transformation through relationship. Love / hate relation ships. Letting go of the false self through relationships. Scraping off superficial as pects of the self through relating. Covering up depth and intensity with superficial social displays. Craving depth yet relating in a way that avoids unpleasant or diffi cult interactions. Needing substance yet keeping interactions at a surface level. Powerful attractive vibes. Pulsating attractive presence. Awareness of subtle attractive interplays. Awareness of people's likes and dislikes that lie just beneath the surface of expression. The ability to ferret out another person's like and dislikes, and using them to your advantage. The need for a relationship that continuously regenerates or transforms. The inability to tolerate stagnancy in relationships. Causing crisis in relationships to spur growth and transformation. Healing trauma through love. Self-obsession. Self-love. Narcissism. The compulsive need for pleasure. Addicts of all kinds. Love of intensity, depth and complexity. Treasure hunters. Gold miners. Diamond hunters. Oil men. Refineries. Lovers of vintage. Finding beauty among the trash, throwaways and ruins. Restorers. One man's trash is another man's treasure. Needing a love that never gets stale. Constantly transforming your appearance. Love that does not grow, dies. Hungry for love. An insatiable desire for pleasure and affection. A bottomless pit that no amount of love can fill. A landfill stuffed with the carcasses of dead loves. Destroying the things you love. Putting the peo ple you love through the mill. Ready to do anything to be liked. Compulsive need to be liked. Saccharine sweet. Bottomless need for approval. Abiding love. Love that doesn't wilt in the face of obstacles. The need to overhaul relationships. Over hauling possessions, appearances, pretense and social niceties. Unearthing real love. Femme fatale. Forbidden fruit. Mystery lovers.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: 62–63 (Principle and Process).
 
 #### Principle
 
@@ -130,6 +143,8 @@ One person having power over the other in a love relationship. Power struggles i
 To give in so totally to the power of love that it transforms one’s conscious ness and further one’s evolution. To delve deeply into one’s attractions so that one may experience their pure essence and by doing so come into a profound self-understand ing.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 207.
 
 #### Pair Delineation
 
@@ -170,25 +185,25 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Pluto: The Magic of Love`
-- PDF page(s): `316`
+- PDF page(s): `316–317`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Enchantress and the Sorcerer
 - shadow: The Beauty and the Beast
 - comparison: Love Power Beauty Shadows Relationship Dependence Eroticism Sadomasochism Peace Tyranny Gentleness (Subtle) violence Grace Irresistibility Lover's bliss Deepest transformation
-- general: Experiencing the power of love . Being deeply transformed by love . The extreme relationship .
-- harmony: The Extreme Relationship. Loving completely or not at all. Comprehending the relationship as a challenge, an indissoluble pact, or a karmic connection. Being willing to live through the depths with decisiveness and fundamentally transforming oneself through the confrontation with the partner. Intensively passionate, sexual feelings.
-- discord: Passionate Entanglement. Becoming entangled in an emotional, mostly unconscious power struggle. Inner compulsion to manipulate the partner, to make the partner emotionally, sexually, and/or financially dependent. Or to mercilessly humiliate the partner in order to ridicule and disdain the partner afterward. Craving for control. Malicious, sly, compulsive, jealous, insatiable.
+- general: Experiencing the power (♇) of love (♀). Being deeply transformed (♇) by love (♀). The extreme (♇) relationship (♀).
+- harmony: The Extreme Relationship. Loving completely or not at all. Comprehending the relationship as a challenge, an indissoluble pact, or a karmic connection. Being willing to live through the depths with decisiveness and fundamentally transforming oneself through the confrontation with the partner. Intensively passionate, sexual feelings. Irresistible aura and erotic magnetism.
+- discord: Passionate Entanglement. Becoming entangled in an emotional, mostly unconscious power struggle. Inner compulsion to manipulate the partner, to make the partner emotionally, sexually, and/or financially dependent. Or to mercilessly humiliate the partner in order to ridicule and disdain the partner afterward. Craving for control. Malicious, sly, compulsive, jealous, insatiable. Fixed—sometimes perverse—ideas of relationships, eroticism, and sexuality.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: the development or transformation of affection, beauty and wishes; several entries additionally emphasize compelling attraction and intensity ([Witte](#pair-summary), [ABC](#abc-pair-summary), [Hand](#pair-delineation)).
+- psychology: consideration and growing appreciation coexist with strong desire, artistic passion, temptation, obsession or jealousy in different source expressions ([Witte](#pair-summary), [psychological correspondence](#psychological-correspondence), [Falis](#falis-entry)).
+- body/health: Witte lists glandular development; Ebertin names menstruation/ovaries/corpus luteum and Munkasey thyroid, toxic, renal, infectious and blood claims. These historical correspondences establish no diagnosis ([biological](#biological-correspondence), [body or mind](#with-body-or-mind)).
+- social/relationship: considerate growth, profound attachment and transformed consciousness are possible alongside control, dependency and power struggles ([Sandbach](#process), [Hand](#pair-delineation), [relationships](#in-your-relationships)).
+- events/manifestations: evolving affection, artistic development or catharsis, restoration and changes in values/resources; Munkasey extends the range to hidden wealth and waste processing ([ABC](#abc-pair-summary), [Falis](#falis-entry), [politics/business](#in-politics-or-business)).
+- conflicts/notes: harmonious growth and compulsive intensity are distinct emphases. Ebertin explicitly rejects judging morality from the aspect, and Banzhaf/Haebler's harmony/discord alternatives retain their conditions ([note35](#note-35), [aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
@@ -206,25 +221,26 @@ Hyper or hypo-thyroidism; toxins which overwhelm the kidneys; tonsillitis with e
 - [Venus/Pluto = Moon](../activations/venus-pluto-equals-moon.md)
 - [Venus/Pluto = Neptune](../activations/venus-pluto-equals-neptune.md)
 - [Venus/Pluto = Node](../activations/venus-pluto-equals-node.md)
+- [Venus/Pluto = Pluto](../activations/venus-pluto-equals-pluto.md)
 - [Venus/Pluto = Poseidon](../activations/venus-pluto-equals-poseidon.md)
 - [Venus/Pluto = Saturn](../activations/venus-pluto-equals-saturn.md)
 - [Venus/Pluto = Sun](../activations/venus-pluto-equals-sun.md)
 - [Venus/Pluto = Uranus](../activations/venus-pluto-equals-uranus.md)
+- [Venus/Pluto = Venus](../activations/venus-pluto-equals-venus.md)
 - [Venus/Pluto = Vernal Point](../activations/venus-pluto-equals-vernal-point.md)
 - [Venus/Pluto = Vulcanus](../activations/venus-pluto-equals-vulcanus.md)
 - [Venus/Pluto = Zeus](../activations/venus-pluto-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Witte and Udo emphasize harmonious development, consideration and unfolding beauty; Ebertin and several other entries emphasize attraction's compulsive intensity. Neither emphasis cancels the other, and Ebertin's note35 explicitly prevents a moral verdict from the aspect alone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto` is the axis of compelling attraction, transformative love, deep desire, and powerful value intensity. It combines affection, beauty, pleasure, and relating with secrecy, obsession, regeneration, pressure, and the urge to merge beyond surface harmony.
-- Chart expression: magnetic presence, profound attachment, erotic depth, passionate creativity, and relationships or aesthetics that change the person fundamentally. Liabilities: jealousy, possessiveness, manipulation, addictive pleasure-seeking, control through attraction, and crises in love or money that force buried motives into the open.
+`Venus/Pluto` concerns affection, wishes and beauty as they develop or transform. The [Witte summary](#pair-summary) includes pleasant change, consideration and concern for others' well-being, while [Udo](#abc-pair-summary) names unfolding beauty and harmony, artistic development and growing joy. Other entries make the transformative force more intense: [Ebertin](#psychological-correspondence) describes powerful attraction and artistic gifts alongside excessive desire, and [Hand](#pair-delineation) and [Sandbach](#principle-1) place compelling love beside power struggles. The pair therefore includes considerate growth as well as the experience of being deeply moved or pressured by an attachment.
+
+Transformation also reaches creativity and value. [Falis](#falis-entry) includes artistic catharsis, restoration, enduring love and finding beauty in discarded things, alongside jealousy, control and craving. [Munkasey](#in-your-relationships) retains both shared passion and destructive reactions; his [public sphere](#in-politics-or-business) adds hidden wealth, transformed resources and waste-processing systems. [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) distinguishes passionate self-transformation from manipulation and dependency under harmony/discord conditions. These possibilities do not establish a person's morality—an explicit limit in [Ebertin's note35](#note-35)—or guarantee abuse, illness or a particular relationship outcome. Each closing factor requires its own oriented activation.
 
 ## Links
 

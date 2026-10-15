@@ -1,0 +1,633 @@
+{
+  "checked_at": "2026-10-15T13:07:59.986395+00:00",
+  "scope": "Independent Mars177 exact source-delta gate. Every full baseline/current section and unique owner record read; all changed source blocks and added refs raw-checked. No new whole-page review counts.",
+  "records": 177,
+  "unique_paths": 177,
+  "accepted": 177,
+  "held": 0,
+  "pending_owner": 0,
+  "groups": {
+    "mars-asc": 15,
+    "mars-cupido": 15,
+    "mars-hades": 14,
+    "mars-jupiter": 16,
+    "mars-kronos": 14,
+    "mars-mars": 21,
+    "mars-mc": 20,
+    "mars-neptune": 19,
+    "mars-node": 22,
+    "mars-pluto": 21
+  },
+  "all_source_blocks_read": {
+    "Witte": 172,
+    "ABC": 151,
+    "Ebertin": 63,
+    "Sandbach": 67,
+    "Munkasey": 64
+  },
+  "source_blocks_raw_checked_for_changes_or_new_references": {
+    "ABC": 149,
+    "Sandbach": 56,
+    "Witte": 108,
+    "Ebertin": 42,
+    "Munkasey": 4
+  },
+  "optional_unchanged_blocks_also_raw_compared": {
+    "Witte": 64,
+    "ABC": 2,
+    "Ebertin": 1,
+    "Sandbach": 1,
+    "Munkasey": 8
+  },
+  "inherited_blocks_read_not_newly_raw_certified": {
+    "Ebertin": 20,
+    "Sandbach": 10,
+    "Munkasey": 52
+  },
+  "all_raw_compared_blocks": {
+    "Witte": 172,
+    "ABC": 151,
+    "Sandbach": 57,
+    "Ebertin": 43,
+    "Munkasey": 12
+  },
+  "native_English_normalized_complete_paragraph_matches": {
+    "('Witte', True)": 171,
+    "('Sandbach', True)": 57,
+    "('Witte', False)": 1,
+    "('Ebertin', True)": 41,
+    "('Munkasey', True)": 12,
+    "('Ebertin', False)": 2
+  },
+  "three_personally_scan_resolved_raw_text_exceptions": [
+    {
+      "path": "wiki/activations/mars-jupiter-equals-poseidon.md",
+      "source": "Witte",
+      "decision": "Personally resolved entire passage against actual scans; OCR spelling or cross-page folio interrupts exact raw-text match."
+    },
+    {
+      "path": "wiki/activations/mars-node-equals-neptune.md",
+      "source": "Ebertin",
+      "decision": "Personally resolved entire passage against actual scans; OCR spelling or cross-page folio interrupts exact raw-text match."
+    },
+    {
+      "path": "wiki/activations/mars-node-equals-pluto.md",
+      "source": "Ebertin",
+      "decision": "Personally resolved entire passage against actual scans; OCR spelling or cross-page folio interrupts exact raw-text match."
+    }
+  ],
+  "initial_exact_approved_exclusions": 0,
+  "final_hash_rebounds": [
+    "wiki/activations/mars-asc-equals-mc.md",
+    "wiki/activations/mars-asc-equals-moon.md",
+    "wiki/activations/mars-asc-equals-neptune.md",
+    "wiki/activations/mars-asc-equals-node.md",
+    "wiki/activations/mars-asc-equals-pluto.md",
+    "wiki/activations/mars-asc-equals-saturn.md",
+    "wiki/activations/mars-asc-equals-sun.md",
+    "wiki/activations/mars-asc-equals-uranus.md",
+    "wiki/activations/mars-asc-equals-venus.md",
+    "wiki/activations/mars-asc-equals-jupiter.md",
+    "wiki/activations/mars-mc-equals-pluto.md",
+    "wiki/activations/mars-node-equals-jupiter.md",
+    "wiki/activations/mars-node-equals-kronos.md",
+    "wiki/activations/mars-node-equals-mc.md",
+    "wiki/activations/mars-node-equals-mercury.md"
+  ],
+  "unresolved_source_context_limits": {
+    "wiki/activations/mars-asc-equals-poseidon.md": [
+      "Witte To experience comprehensive through others remains linguistically unclear; scan confirms wording, not intended meaning."
+    ],
+    "wiki/activations/mars-mc-equals-uranus.md": [
+      "Sandbach PDF77 itself prints even usual contribution in discussion of uniqueness; intended adjective uncertain and excluded from further inference."
+    ],
+    "wiki/activations/mars-node-equals-hades.md": [
+      "Witte PDF143 prints Free purchasable love; intended meaning remains unclear and is not confidently interpreted."
+    ]
+  },
+  "source_files": [
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+      "sha256": "c6fae8731dd5f849645f0045c78ad48a7ed6d7e1792f7ef85337a917425aac00"
+    },
+    {
+      "path": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5"
+    },
+    {
+      "path": "Stellar Influences Vault/planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+      "sha256": "e0fe82c2f4306a9485e0b145dd5ca2c8e3472104108a7ae0cf79ee2367e0125d"
+    },
+    {
+      "path": "Stellar Influences Vault/Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+      "sha256": "fb41c3cd335772c8425c0c0665f4188930e0839dcac3fa4db185733e1001a895"
+    },
+    {
+      "path": "Stellar Influences Vault/midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+      "sha256": "c6cb22f12cb1f134380f0cc535933ed911c99be6cdfba6c080f6f79ec667fcc6"
+    }
+  ],
+  "strict_bank_sha256": "8422945112caf6622b79cda932a6e04d39b3a0bc80263a06d139bd303c7eab0f",
+  "proof_files": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf105.png",
+      "sha256": "0f7bc8b697488eee74ace2b1ec9224c8e728b9c537d64bdc7dee7e00fd3e52e9",
+      "source": "abc",
+      "pdf_page_one_based": 105,
+      "raw_page_text_sha256": "0c79db8818305a2291741a6ef32b5624135c7a9feb5d87949c3d67352a1e30a8",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf148.png",
+      "sha256": "e076860a2aad25b13bce4c09683b1ac7ec311fb7147c11601e28c46bef5615a0",
+      "source": "abc",
+      "pdf_page_one_based": 148,
+      "raw_page_text_sha256": "32caa0129cb590b8cca3886c25fd374f669c7ace185ee45865efd612e4bfff0f",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf151.png",
+      "sha256": "cd8030374453c118aa6c75479de87b8f3126983653039faa617168c69c7eaf19",
+      "source": "abc",
+      "pdf_page_one_based": 151,
+      "raw_page_text_sha256": "e6632eb91edfe092e3032a53057cb02db178745d105998df99b3250cd5e3942e",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf152.png",
+      "sha256": "7065e51c0196e97606504e02bd096d51cbdb6b0d819a15346112553d6650ed21",
+      "source": "abc",
+      "pdf_page_one_based": 152,
+      "raw_page_text_sha256": "e44e7d0113567600cbfc435ce5d35902c846ee5370202975da668b8288528034",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf153.png",
+      "sha256": "549aca34751ba53e3433b842b52545478ed0a6e11acfb4fc7845b69811bcf15e",
+      "source": "abc",
+      "pdf_page_one_based": 153,
+      "raw_page_text_sha256": "2273974a2bc39464616dba1303f1551d3f436bb791aeec65cb23e49c87d74eb9",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf154.png",
+      "sha256": "3bc70526954d59e14e38b071df8d15d2ca8f3927898861c5fe6338e44ebc477e",
+      "source": "abc",
+      "pdf_page_one_based": 154,
+      "raw_page_text_sha256": "c5ee14c59c1ce935a457e82378e67eee9066a01ca7001860a1222283bdafe147",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf156.png",
+      "sha256": "85d41db6bc11e227434af75e08a52589be1012457d208ac7f7e17244b750796a",
+      "source": "abc",
+      "pdf_page_one_based": 156,
+      "raw_page_text_sha256": "9813c60ac5b175e80e4f9b60fa25d15c0b8ac912595e499e9003ac891dcea2a8",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf35.png",
+      "sha256": "7696ad9e0a9012ca0913e0dcd0ab775eee5137150c1f1f8fc23a9a37ae1b278f",
+      "source": "abc",
+      "pdf_page_one_based": 35,
+      "raw_page_text_sha256": "41228e09bcf46963aa5f7bb59ebf4681b9d61c29a768ebd45200bdb3c5619098",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-abc-pdf54.png",
+      "sha256": "dd3f3b0a0be14f75e4bb795634fd5f351caf7d389c54637b34d55d1aadec0de8",
+      "source": "abc",
+      "pdf_page_one_based": 54,
+      "raw_page_text_sha256": "428fb4bd671b3ce394a5b518099bde7b1747d5b087cf24d1359d6341d70310a4",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf213.png",
+      "sha256": "bffc616c86c37bfc08303a5110cf603520c065c9510c36c6fcae1e521c70396f",
+      "source": "ebertin",
+      "pdf_page_one_based": 213,
+      "raw_page_text_sha256": "b95496055fc7e6a3eb5ddf87105bb42524f5a7cf90b0064c7ff9669fe67056aa",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf214.png",
+      "sha256": "797fd6f453dee05963aeae718a3ac7ae5b4019421e671b79c66b8ce00adac7cb",
+      "source": "ebertin",
+      "pdf_page_one_based": 214,
+      "raw_page_text_sha256": "2175be2704f4afd1317442a4f206a20b0368bbf1b7f26f7118ea3dcfc44a0213",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf216.png",
+      "sha256": "58782748dfbe405be84683d684cc8d2191737fe154e74a7d68b1ee028d40cf01",
+      "source": "ebertin",
+      "pdf_page_one_based": 216,
+      "raw_page_text_sha256": "996b98c15ad49f4d68dbd731a2caafffc6cec4554461b1236be98554bbd76d76",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf217.png",
+      "sha256": "bb470c9addcc916333fbe932f8e67904e14bcc389e6ddcd42f50e73a6872a164",
+      "source": "ebertin",
+      "pdf_page_one_based": 217,
+      "raw_page_text_sha256": "c3bef624b3a99db49239409847a5f5cb2560819bdbc4a370a6ada1edaaab37c2",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf219.png",
+      "sha256": "2d24a59096ff1102ab99518bf008823621b57184b890b9b9160667b32854e224",
+      "source": "ebertin",
+      "pdf_page_one_based": 219,
+      "raw_page_text_sha256": "9b0379c398e261d5315fa1497805351fc48928ae168b584c05092c6fe1863248",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf220.png",
+      "sha256": "9f9ec342faeccd49cfda5630ff67ad34c4cfbcb8630b2228b625de176557be18",
+      "source": "ebertin",
+      "pdf_page_one_based": 220,
+      "raw_page_text_sha256": "7aab1d712f8d31cbc961655332bd7f1fb87709cbdbc2f80073d83843294e749a",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf225.png",
+      "sha256": "68ca6b80ea5978f94ed576ac982cbdb3db4f91ddb25785fcaf4f936600eddb3a",
+      "source": "ebertin",
+      "pdf_page_one_based": 225,
+      "raw_page_text_sha256": "b440a248d0536989e71f56cb8e8746d156823f0c93f4f38cf9115e7370c95575",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf226-detail.png",
+      "sha256": "54588844aa793280cd86014b31936ebe5009445e234cd2393aba4fe0448aadfc",
+      "source": "ebertin",
+      "pdf_page_one_based": 226,
+      "raw_page_text_sha256": "7730c1ec34108c71bd8ea57ae3b9b081e4528960ae549c93bb009bc0293ceb7c",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-ebertin-pdf226.png",
+      "sha256": "7de49f2af3124420d4b72385392430a97f9d94f5944346b5a40f2cda460aa018",
+      "source": "ebertin",
+      "pdf_page_one_based": 226,
+      "raw_page_text_sha256": "7730c1ec34108c71bd8ea57ae3b9b081e4528960ae549c93bb009bc0293ceb7c",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-munkasey-pdf245.png",
+      "sha256": "b7e440c6a7c19491234961f559a502a2da5d6b707a0b4c235b4b78479a4dcd4a",
+      "source": "munkasey",
+      "pdf_page_one_based": 245,
+      "raw_page_text_sha256": "aaa8d0430760c2c6988b857821e5f7296d8c542a0c83fbdc2c522d1cc583beba",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-munkasey-pdf247.png",
+      "sha256": "b723314694d395d69bd66cfeef1a17b4de9766d0e1ced2dd6644c298d719a6b5",
+      "source": "munkasey",
+      "pdf_page_one_based": 247,
+      "raw_page_text_sha256": "0c25d0e118ca17d39d0f97f0f42cffe31981fab92a814335de505aceb3f5f8f9",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf72.png",
+      "sha256": "95cf4a7a170c7efe0ac474c1db0b2a2570143814c4ab7d8e6f60b6caf35da9d1",
+      "source": "sandbach",
+      "pdf_page_one_based": 72,
+      "raw_page_text_sha256": "1a90c2a624bc7ee2f72e950c498ae4c71fd17678b0d2768ffbf11a66830b356f",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf73.png",
+      "sha256": "19ab0801a352b37e1b68d96a4fbfef6ede3698df16d6308aa0da8e8263be9b04",
+      "source": "sandbach",
+      "pdf_page_one_based": 73,
+      "raw_page_text_sha256": "064af3ebc3fa1d1ef28956bb5ba48ab39f3c08ede8e1ef812779035f8358273d",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf74.png",
+      "sha256": "706f782480acda8c26d4d52928dafe933363faac82184c8022373df390eda3a9",
+      "source": "sandbach",
+      "pdf_page_one_based": 74,
+      "raw_page_text_sha256": "f178a330aeaab59167a30976449a1f0e6db2ac856ce90cfd1ea7930b4f6821c2",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf75.png",
+      "sha256": "e625e6290c13737afa7705b36cef2f8025c92fa4b036128d335eb8d1fbb8a220",
+      "source": "sandbach",
+      "pdf_page_one_based": 75,
+      "raw_page_text_sha256": "49cbe86a8a7d8d76ff32d66958202fff206ab3675be2d71effba29c65a8e6950",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf76.png",
+      "sha256": "de738cd004dce333d6e06fdf53ac71ecef47df8c17d276bef575d06e032e84e1",
+      "source": "sandbach",
+      "pdf_page_one_based": 76,
+      "raw_page_text_sha256": "0c30af9d614ff49c4cc62c7df89c6160304a997f7d679244c51a33f766ca95db",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf77.png",
+      "sha256": "2a8de60d5c669617c8512fed44b99a9dd9d37ca46c7cde0a3a1c4f66db13c3ea",
+      "source": "sandbach",
+      "pdf_page_one_based": 77,
+      "raw_page_text_sha256": "9ed976c9710fac2d5e4ad577d4baca902b5c3acd7eaf3ad20e994492b5bfab3c",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-sandbach-pdf78.png",
+      "sha256": "842877274ad09c899de6ba19d7479cdf58f1d5f776ec948ae8ab8bc7ae70635d",
+      "source": "sandbach",
+      "pdf_page_one_based": 78,
+      "raw_page_text_sha256": "42426ac038ee6133e4869e7262b0b64e7938420c7f61d594fd0036d0135666af",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf143.png",
+      "sha256": "52cc4b4b9bb05c2db02b3917962f9efc9a29ed23503021418df3688f615c7b36",
+      "source": "witte",
+      "pdf_page_one_based": 143,
+      "raw_page_text_sha256": "79781d281c07f56d69733f057cb1f541087be2a26bbf3c5ec7626a026087f1e6",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf190.png",
+      "sha256": "e32ac635c8266c93539818203b8d8ac7e65e847985f72e51b44450213cf4812a",
+      "source": "witte",
+      "pdf_page_one_based": 190,
+      "raw_page_text_sha256": "f9ead0659f0705b1c6d70faa530c7a692c8012c9b3ccd0cea969be64615aff20",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf191.png",
+      "sha256": "f00c71f3441e609cad9b2b7028d352d77aecd9c452be802d150af39bf5dff6c3",
+      "source": "witte",
+      "pdf_page_one_based": 191,
+      "raw_page_text_sha256": "3d2bcb38c958679f7dadeba10d69ccf3fe3085998c148b781167fe8aae92e6a1",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf192.png",
+      "sha256": "e3c133d422342f81f179b269b758c1a7cbd077e892e8990f5b664c40d368d876",
+      "source": "witte",
+      "pdf_page_one_based": 192,
+      "raw_page_text_sha256": "c835c0c7cc6b51079a4261d58443ea81405def759221aa3d96e87d23be515245",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf195.png",
+      "sha256": "5beaf096a4f1606542aa0d5aa71dd606eec122c550224f51bd1e123517a38801",
+      "source": "witte",
+      "pdf_page_one_based": 195,
+      "raw_page_text_sha256": "5a8b7f21c4a66cc1b93bcbc3d35a65a6f476c882d4708ca2ee6316ce7300d7f3",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf196.png",
+      "sha256": "ce31eeeffec7a4f905a23b8a5eb70b91a801231f37c2fe4015c6d4725458e86f",
+      "source": "witte",
+      "pdf_page_one_based": 196,
+      "raw_page_text_sha256": "c9188c28090f71699a7ba2e680bb2a89dca5f62625810ba1634a38849919c8c0",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf197-detail.png",
+      "sha256": "b0a16ed1e2c2b35b4c4ab650af23ebecac257ee92cdff31c653d781d4da18558",
+      "source": "witte",
+      "pdf_page_one_based": 197,
+      "raw_page_text_sha256": "05051e066c2abf46dec64db0a160f0cd1b3aa0328b1005dcd133a6b80b1fd4c7",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf197.png",
+      "sha256": "a43172948825353df41515ffb0c05fbe16ebe80dd033bdb0025d52f3c970e993",
+      "source": "witte",
+      "pdf_page_one_based": 197,
+      "raw_page_text_sha256": "05051e066c2abf46dec64db0a160f0cd1b3aa0328b1005dcd133a6b80b1fd4c7",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf198.png",
+      "sha256": "8432c60816aca91a51c39afa393a235f0d11396f4c437bc59b36a72fd10c93eb",
+      "source": "witte",
+      "pdf_page_one_based": 198,
+      "raw_page_text_sha256": "45f478a3ecdda86e8f953cbb5bda73941f5cc9eac09356048a52d019dd81b85d",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf200.png",
+      "sha256": "8f3758a595ea50c7219d628b6b38eb96a6a917b30123213a74fb904523ea9f0f",
+      "source": "witte",
+      "pdf_page_one_based": 200,
+      "raw_page_text_sha256": "68825ebac04cefb409373cca81db513915900b1e1235b72e122dea9e3fcc7ebc",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf64.png",
+      "sha256": "88b07ee06426dc3622bed9ce4f2d33b433e3121ea9a3ec2f3149ea4d29113a80",
+      "source": "witte",
+      "pdf_page_one_based": 64,
+      "raw_page_text_sha256": "99c25f095d1acdbd6a3f1446c3ec105bf276d054d47c1d9fa2934100f84b0d67",
+      "personally_viewed": true
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-witte-pdf85.png",
+      "sha256": "fc6979d86644d0c7c2354f84c06239b562fc8ed08b53978ace3bce2d66d4a6bd",
+      "source": "witte",
+      "pdf_page_one_based": 85,
+      "raw_page_text_sha256": "8a2f194d4a2f713fc2017a092d4587e56a6a0c7e664f9bef701ac63a5c88f148",
+      "personally_viewed": true
+    }
+  ],
+  "check_columns": [
+    "path",
+    "before_matches",
+    "current_matches",
+    "unique_ledger",
+    "ledger_line",
+    "ledger_record_sha256_of_utf8_line",
+    "raw_complete_English_comparison_or_ABC_scan_check"
+  ],
+  "checks": [
+    ["wiki/activations/mars-asc-equals-kronos.md",true,true,"activations-023.jsonl",31,"94740e88d3da39f21b2cf5f05d1e278978605612e77ec4a2a49f369c29cc3244",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-mc.md",true,true,"activations-023.jsonl",33,"c37353ec7799dfd4cdae9ad5add3f7e45403d258379bcf7c725a9137497bf8a4",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-moon.md",true,true,"activations-023.jsonl",35,"57baeff386021159309d06324123e05708848ebc684cd3318ffaacc0e87dbfb8",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-neptune.md",true,true,"activations-023.jsonl",36,"703d1c38ba12a5310cde471909ac1a996727bd9cd3b543f2574818fed759a744",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-node.md",true,true,"activations-023.jsonl",37,"b2b188f996985c3826b76dcd1df3d8bfbdcf4518e5e2da5298fdeb80eb916d64",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-pluto.md",true,true,"activations-023.jsonl",38,"6218f155e2d8afc6e82341ff0c4474394a4c59502add11dee4d3c321e56ba11c",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-poseidon.md",true,true,"activations-023.jsonl",39,"31b3555ead628209fce2734e869bbfde07f7219aae69c87f009fff4b0005c429",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-saturn.md",true,true,"activations-023.jsonl",40,"4a482ecaea93b05866bc0fda6698cba335f4624b7103d16eda84d505ceea82e6",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-sun.md",true,true,"activations-023.jsonl",41,"3a7fd39a0cf4506e45f464acb533fae55c46752cfe1d70c52e118c3cea06dc80",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-uranus.md",true,true,"activations-023.jsonl",42,"00cd4f2a53b99e26165e95ebc677bd0331146a191f6baaede12faea8bd93cb8b",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-venus.md",true,true,"activations-023.jsonl",43,"53316e3fade2e5d1a0c51e826220c4258405992cb39ca7cb357bf683ed9e2095",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-vulcanus.md",true,true,"activations-023.jsonl",45,"6b394ee8fb4eb35afc3d0ddd5b50c9fb2d6f2d03614a180cd27f9731b2a74860",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-admetos.md",true,true,"activations-024.jsonl",4,"5f6d664ccd3d10cb7287789867a96f0afa54af2418e3b420a096db1aeb5fa252",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-apollon.md",true,true,"activations-024.jsonl",5,"0079c8314d0863818b7da80da401a481c0a28b3ab22e8f77855d41e86638e2a2",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-asc.md",true,true,"activations-024.jsonl",6,"9fd2d8033409e0c5d4ccc92332357b59dc37ce64b2ac8985f38e845cc586df40",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-hades.md",true,true,"activations-024.jsonl",7,"dcbc6afef8c3bedb8f416d7413336f55abc17de99991b7373225e98a56424e8a",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-jupiter.md",true,true,"activations-024.jsonl",8,"1b176a1323f44b41c8747626588084537762918d148baeb8100d815f500b94e3",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-kronos.md",true,true,"activations-024.jsonl",9,"5482cbe1ef19664855370f06fa33d1b4cee0f6a2ddffb4217a02b2cb9e3f7594",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-mc.md",true,true,"activations-024.jsonl",10,"19a0e0c62418819f83302d5f737b4f3bab329a478621054b0b63293050a8ce7f",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-mercury.md",true,true,"activations-024.jsonl",11,"dde67a3cfd30cb9754d159894a69175a7c286cd61a8e5a9b734ec0609ac5b3f5",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-moon.md",true,true,"activations-024.jsonl",12,"3a3eaaebbe9ecd44dc16e8800ef4bb15aba8e8715ac156b33970ef8f16b9e178",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-neptune.md",true,true,"activations-024.jsonl",13,"b8c94d5881b01cf7b384bf4963a76d2e3c0547efcbd745e52b6c5ada6987cbdd",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-pluto.md",true,true,"activations-024.jsonl",15,"f1b023cd808a31e424b305fab1e74aae9915a9b01c97c0713606189483fbfa7c",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-saturn.md",true,true,"activations-024.jsonl",17,"f334989a7da328bbccef571ec0285683b2404f5cbb9b15555ff24c0acb9f2676",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-uranus.md",true,true,"activations-024.jsonl",19,"9578079512fc52916447761bb29f5053e25e9e53a97d70d392ab7fc7f8c84f3c",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-vulcanus.md",true,true,"activations-024.jsonl",22,"1b985ecc3cd2956c06286f23a546c307c374dc7d3c3b83c6944362c647fdf441",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-cupido-equals-zeus.md",true,true,"activations-024.jsonl",23,"e693fe21c3e1154a6a2f5cee2f53b24022133720a8fdf6438ab3bf98f6fc8285",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-apollon.md",true,true,"activations-024.jsonl",25,"758cdb5a2bd577614d8f16a742bb0bd6806df86589aa1e382808622ca4cb9142",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-asc.md",true,true,"activations-024.jsonl",26,"13b8fe88762ea68154fab8e56d8f99865a39ffab1fba59f12a8bec11e9077882",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-cupido.md",true,true,"activations-024.jsonl",27,"03838f0a76c13fc77c2a9ee91950538a03367fe59111963b783ee7387222a488",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-jupiter.md",true,true,"activations-024.jsonl",28,"813b19e0ecf1c57c1c28d565a11520541ba193a12a8b44f374c461f16abe7451",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-kronos.md",true,true,"activations-024.jsonl",29,"d42903ab284c3d8daca9b9bd627c952650b62a33ccfc87253d1756347e88238a",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-mc.md",true,true,"activations-024.jsonl",30,"07493e96576fe58044f4056cb2185d48c3c4aad163f9c7c1b2f1c5953d131795",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-neptune.md",true,true,"activations-024.jsonl",33,"3f486a78dc83b6eb33b9664f658aa9fbd74cac263af73394b279e10f8b046a7d",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-pluto.md",true,true,"activations-024.jsonl",34,"e983fe11547fa7018736d6ad06fcc42775af1c6b5e96dfe62728e5b4d00de89f",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-sun.md",true,true,"activations-024.jsonl",38,"ec1c9942d06a6d167a396c603fe1952478878208afa311670a2ab89242ac4c61",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-uranus.md",true,true,"activations-024.jsonl",39,"2967f225de7cee112e4a3c1def91a0cbc1f5f81249397c604d5978e06213adbd",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-venus.md",true,true,"activations-024.jsonl",40,"bcd24556075d5939856c8ba7494614d757c0d89b46907618ddf0810a09cbd9d6",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-vernal-point.md",true,true,"activations-024.jsonl",41,"1eb9c5879e0f36a5178a257afc20dbf5eb3389f702cca8dd22ae8fdf571a880f",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-vulcanus.md",true,true,"activations-024.jsonl",42,"ea5155fd09954f477e74c1ab6b19f21505fa8f4b0118d5c973eb59f712024527",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-hades-equals-zeus.md",true,true,"activations-024.jsonl",43,"ee2ee198c71931243c70d0cc20b7660147acdb9f0ebef2ad61d6cb7ad0d62d94",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-admetos.md",true,true,"activations-024.jsonl",44,"efe3d1f432064500d23a6f61084fd0e6b22f670d825b7b6854cdd3ea335117d9",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-hades.md",true,true,"activations-024.jsonl",49,"fbefc48410ca76f582f362cb36570a3a5e053a74f1286c7e8e08d6de8d87fe36",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-kronos.md",true,true,"activations-024.jsonl",51,"d302d29dc34136e1d650fad5f2c8ac7f6bb1fe19741234665ec07e6caef1ebe5",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-mc.md",true,true,"activations-024.jsonl",53,"2c3cfd082c8e17cf883cd3e4e2a549cd44690f54088097ce0263be6f67351457",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-mercury.md",true,true,"activations-024.jsonl",54,"f4e69788d8f035cdc35b183c74d90f4319474d4f93db2dca22ac7384adb1ae32",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-moon.md",true,true,"activations-024.jsonl",55,"e24b51ab710ddf80a70d7723a6f97303f28ef9d081e90982abfbb3fa3af26943",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-neptune.md",true,true,"activations-025.jsonl",1,"dab1a4977aba9afd6fe32d023461d8b2e4ebbb9148bfb078cdfd5c53e6407287",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-node.md",true,true,"activations-025.jsonl",2,"7589c19c11975337a2137fdf0ecb52027025d7fa1f070247023327519fbd5f73",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-pluto.md",true,true,"activations-025.jsonl",3,"8458bd520ca13226f47b35ec4217a7d0cc3dd15a91c808e6d8af4d0514e67be1",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-poseidon.md",true,true,"activations-025.jsonl",4,"de683a3c7aa898a2a446f089f77dcedcd1ece39921e08cef146333cb70921002",{"Witte":false,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-saturn.md",true,true,"activations-025.jsonl",5,"1b47606eb2250729dc91d1d7c8774f427383a4100ed7aea0dc5301079a3ee2b6",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-sun.md",true,true,"activations-025.jsonl",6,"37a1fab2d622cb94e12caa633d1c0958b743ae98e7f63222331f8e5735c2b8d4",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-uranus.md",true,true,"activations-025.jsonl",7,"b0fa8a4744535d29ed93ecc484eaade25c6f3c1ad4cc74cd72bacf75bebd9a2c",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-venus.md",true,true,"activations-025.jsonl",8,"94359c2c27997e2af295ebd6a0465144433208d5872850dc3a8dcb8222375b72",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-vernal-point.md",true,true,"activations-025.jsonl",9,"e3f23e60f97f254ea09bd54ab267b036d2bb6463a9b5845982784440f90504d9",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-jupiter-equals-zeus.md",true,true,"activations-025.jsonl",11,"13faf36ed4aaa8a6d4927f3c270dc1548419caa162d5f253ebb8caf3902561ee",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-admetos.md",true,true,"activations-025.jsonl",12,"0b5f7d660e184752f379bbb168fcc20361735f2242d9731f8c30ed5544c13df7",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-asc.md",true,true,"activations-025.jsonl",14,"8f83c567cf71d6fa14ccad46a728507fd0ce648940e567b30d6295fe553f06d4",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-hades.md",true,true,"activations-025.jsonl",16,"601788192f82d81866e31619812b1aceeb3cb6e32c9f354d7409869867c2ea01",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-mc.md",true,true,"activations-025.jsonl",18,"de77db5f492c8890b5e49491c95f9906229c18abc827b27bb6c6125ce118ec3c",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-mercury.md",true,true,"activations-025.jsonl",19,"4591ab9cb27cac56ab4b41526af8c1a369b065cb63820b913fc39db2e45e25b0",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-moon.md",true,true,"activations-025.jsonl",20,"e75c8cd237f36fe0463413788f4cc90e1c41d186bc880a3c5633eecb8f4849d9",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-poseidon.md",true,true,"activations-025.jsonl",24,"bc366a50d07adbf428d48ceb9b577f872305147a27b30e91ae5c970a4b447a4f",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-saturn.md",true,true,"activations-025.jsonl",25,"1e3a77e161775906473e037076bf729ff41e17f4ec4959320c0bfb66a03469c2",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-sun.md",true,true,"activations-025.jsonl",26,"7ea1235eb961261fba83af4b0cc0aceef4283401035e5fa0e7f5492a776cac4e",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-uranus.md",true,true,"activations-025.jsonl",27,"6b715104e88fe3d6fa474a30dac9d1145fd5f9b369882c84ca7fdc0f0d544381",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-venus.md",true,true,"activations-025.jsonl",28,"063c9d3d52254e48981e7ffc1a92c20b43c0a0e337406d680ec5b9b97763c39d",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-vernal-point.md",true,true,"activations-025.jsonl",29,"1cf640feea65cdda050d9d33dfec09b78e6866c1f9be86507afc65a89e88ee65",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-vulcanus.md",true,true,"activations-025.jsonl",30,"0ed89142df9946f1cfab4c5c9ae53ec78052c0bdfb676a96dac219435bfbc5d7",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-kronos-equals-zeus.md",true,true,"activations-025.jsonl",31,"9f2d6d65b53ece92be9b3f52266f3f8cdae783f48b7a11bf019d90b492fbd91a",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mars-equals-admetos.md",true,true,"activations-025.jsonl",32,"450e9deee55eea2cda4978f0bcf2e80c710d2f8ae05769a6177a2113eaed8d24",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-apollon.md",true,true,"activations-025.jsonl",33,"47b669f93dc62f1e6f794884e257f8665576f49a6a631fef7db49ffc3ebd16ea",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-asc.md",true,true,"activations-025.jsonl",34,"c6e4ccb701898e8c62cba6ce859e5324cb11cf6dba78d7f22b525ac3e67cebd4",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-cupido.md",true,true,"activations-025.jsonl",35,"05bfbaa7d34a9a9bcc09909deb9e462d6aee6cce3cafaff04b1a11aa6b21a34f",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-hades.md",true,true,"activations-025.jsonl",36,"312317ea381553ee0c4d92768e949fed2ba040a3abf9b4d8f29f4bd45fcf7141",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-jupiter.md",true,true,"activations-025.jsonl",37,"050dd2286c35e7a89aff70cc931a6d6cd22147a1035c4a2619c9b8d951af64c1",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-kronos.md",true,true,"activations-025.jsonl",38,"f5a2013f781915971b508cfb9bf7f02b49c36e145e1c8a15f81d20bcd84ef6ec",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-mc.md",true,true,"activations-025.jsonl",39,"0327221f193d4ac9ba521f57318161b583d1f7f3c01425dbbdca7aa5324155f1",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-mercury.md",true,true,"activations-025.jsonl",40,"973e3277dbb4e13a335eda6f2d74796fa95938a023782b29ad8aa7af95922a1f",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-moon.md",true,true,"activations-025.jsonl",41,"11187f590d1e12b4a7b6a6e3c5aa3b3df9db15791fb9b4b44d7b089ecbc77a64",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-neptune.md",true,true,"activations-025.jsonl",42,"8f514f615b6fd137e6369ec44c07fced436d141e72cc8613ea30df7c3121d781",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-node.md",true,true,"activations-025.jsonl",43,"228f5896379de2fe162fa9a684508ca206063d30ab96488be08ab510b322cc22",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-pluto.md",true,true,"activations-025.jsonl",44,"d03c21e01df849259336168299efe0b97432eebc641042fd649f0219c7a9f7bf",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-poseidon.md",true,true,"activations-025.jsonl",45,"0dc40433841ba377ece876725085d670bac7ddb347354ef786e0808aec7060f8",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-saturn.md",true,true,"activations-025.jsonl",46,"de3e6da8786c6f9a678ccbe29b8b6b880758add1c243b7a2d4844c82fac24e76",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-sun.md",true,true,"activations-025.jsonl",47,"7ddbcdc80664d2a3f568dbc897bc7f651a20b24710e8757df0211ef53de1a482",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-uranus.md",true,true,"activations-025.jsonl",48,"e07b944abaa6643dc988a28e1594cc714f28143fe14449de011c1a974586eb88",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-venus.md",true,true,"activations-025.jsonl",49,"93079455318d43e93dc1ca2e33d755e4f8c0c51a14892a2910b5707bd256c291",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-vernal-point.md",true,true,"activations-025.jsonl",50,"f5c1b48fc72a971511d416b2f58104d4d13145b36a8e450c31dc83a306df349f",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-vulcanus.md",true,true,"activations-025.jsonl",51,"a46a14c4ddea9f9031d201fb6a3531cbd94c52a976df464ec29868e64679c576",{"Witte":true}],
+    ["wiki/activations/mars-mars-equals-zeus.md",true,true,"activations-025.jsonl",52,"ef7ce6d3c12c893f05fdbba8a474cf075771ee77282693d9a66289e16692b61f",{"Witte":true}],
+    ["wiki/activations/mars-asc-equals-admetos.md",true,true,"activations-023.jsonl",24,"277075f375723505f7b8d5b9e05c720acaa84cfdd8349b45193d8406d7104021",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-apollon.md",true,true,"activations-023.jsonl",25,"62efd5309298fc28dab3a5a762fb1570c96386bc00505329dc56e93ad483782b",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-asc-equals-jupiter.md",true,true,"activations-023.jsonl",30,"985c3a02f42069706703ca4c1efd85897b91720949b592e93d59684d2c768466",{"Witte":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-apollon.md",true,true,"activations-025.jsonl",54,"17960bba184b6bcfe8605a09257e058e51008f83f21c0e614f2f52688c6595fa",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-asc.md",true,true,"activations-025.jsonl",55,"b4553d948e2d5039a8e4b8ba4f7c1a5bcc15cc6199897212fb53fea5d8e3b124",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-chiron.md",true,true,"activations-026.jsonl",1,"8f3d2dfe12bd1fd4890c77bbb93c1c36f6af2ff168f8b254da7b8d826d5d541f",{"Sandbach":true}],
+    ["wiki/activations/mars-mc-equals-cupido.md",true,true,"activations-026.jsonl",2,"89f36f51495bc0f8b0903fb6f9ece5da0769b1f4a77dceba23ed1d80077cf206",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-hades.md",true,true,"activations-026.jsonl",3,"4786dde25a3cc289ca523f208f9fedd437a03f5a2be3b8610fd3f6a15cc477d3",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-jupiter.md",true,true,"activations-026.jsonl",4,"7537a2adbb19a7074e5ac1aafb9d86aabd0e9beccd2dae33fd8e6e7d11b12c52",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-kronos.md",true,true,"activations-026.jsonl",5,"d06d62a37199db1a6873b79db7b911d6deba4305cd99c6d4b0e2d7aec4165e11",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-mercury.md",true,true,"activations-026.jsonl",8,"8ebadd2369535abdb17b1229aa16b012e72cfb419ee8cfe9e88f0a95baaec964",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-moon.md",true,true,"activations-026.jsonl",9,"f7c03459ae923a57cd78a4a0e304a52a07b44fa718c39cb4554ec13cd8fc5b8d",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-neptune.md",true,true,"activations-026.jsonl",10,"ccac4b450345e8b54e908dfd307bfbb41568c87966f83d2aa9e8b7c3aad70cda",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-node.md",true,true,"activations-026.jsonl",11,"d8dd05db3add1b49aaae25306571ebfaec45a9b851fa8e133bf41f88476e02a1",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-pluto.md",true,true,"activations-026.jsonl",12,"b81cd0871a20eb9e636b6cbd46cec3749dd3529cffe00f3abac756338f56b132",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-poseidon.md",true,true,"activations-026.jsonl",13,"63d38d9e774ec02bcac9b4fd07feb93b2a8596be4579dd79fd84ce6647ae5e2d",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-saturn.md",true,true,"activations-026.jsonl",14,"ea511631cb0a70b4b28d12d8179724c69ddc3f5dd56b791f08b3c6fc3b43692e",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-sun.md",true,true,"activations-026.jsonl",15,"174065ef5bacea15412e6fbd65c33158601550017a20b52b29e7101e049b039e",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-uranus.md",true,true,"activations-026.jsonl",16,"369dc9aeb21dbefd22d3dfdd4029a91c18204f8947ca35963d87bd86f9fd6ae8",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-venus.md",true,true,"activations-026.jsonl",17,"470179a42cee6c24ef9f4ad8982d59f27a478cd8cf1c65bb44a18e8118f5360d",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-vernal-point.md",true,true,"activations-026.jsonl",18,"ae9318dbbfca8034a5f81020c3ba184a1a4a252d15343df64c09f0411ee31a37",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-vulcanus.md",true,true,"activations-026.jsonl",19,"12f386af8afcb0e2fcbc4a75c1cab4fd798c1261778f958b73f6bb0640549ebd",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-mc-equals-zeus.md",true,true,"activations-026.jsonl",20,"1c0e5271cf6c21f79f18a7a3f09115d879210a494fdb57f0f08ed946d1c72feb",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-admetos.md",true,true,"activations-026.jsonl",21,"e3be4875548d1014bc42f34b9f362439b706fd0071bb62f74816bffeac4ad492",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-apollon.md",true,true,"activations-026.jsonl",22,"e93a3158988db355e14efe05099e894430a2f90ae4465394b8f2b95eaacf726b",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-chiron.md",true,true,"activations-026.jsonl",24,"81af03799b5983e17ee1f7910fd8e2cf5ec117648597f5d4ff2500ce892745ce",{"Sandbach":true}],
+    ["wiki/activations/mars-neptune-equals-hades.md",true,true,"activations-026.jsonl",26,"4e876ee9ea03b3e422210ee252b509fd7f7727746cb4d15f99ec1efab16c31b2",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-jupiter.md",true,true,"activations-026.jsonl",27,"decaecbda55b51bf1562fd0f463fce3652e2f5e17daadb4afd3520db9470ed29",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-kronos.md",true,true,"activations-026.jsonl",28,"67bed7b251fc9e6bacfe26531f74af9ab0fe50494a09e2beddb4029ee3d346ae",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-mc.md",true,true,"activations-026.jsonl",30,"109a7a0e650641560b14533a99cb33528c78c5ff5a06272aeb2065dfb6413b68",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-mercury.md",true,true,"activations-026.jsonl",31,"65d9a6c3c5b02219be7676f6693e8b0e26513a64a9f460f2ae9cb3fd5f0d51dd",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-moon.md",true,true,"activations-026.jsonl",32,"98c9df18eec88efb3bfe283115cf86a5df783a10740a683bc9460439a1fa9d97",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-node.md",true,true,"activations-026.jsonl",34,"f44dd4ebd66ef476a8fc7f848ec8e581a45d27cc532bf8604d443fe24cdb1a20",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-pluto.md",true,true,"activations-026.jsonl",35,"6fb5ce6b7c5e6e27c5c824b313fafcddc54187107cbcd0fd2a255d952c5bae1d",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-poseidon.md",true,true,"activations-026.jsonl",36,"689a013c1e0ec727a4b4224c0d19689ba9eb830134fec194d887bf952f624110",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-saturn.md",true,true,"activations-026.jsonl",37,"19bdea8aa0e2e0978ed138d52fc710c0aeeeb32c3ccc2c34d01f83fc34ae6d88",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-sun.md",true,true,"activations-026.jsonl",38,"a5664e253a4e4c184b6b39992639dbba2862497fe19865effa5a43d5d7d52d21",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-uranus.md",true,true,"activations-026.jsonl",39,"0a7fb23f97e61e886a7461d061b61b741af982abcb71dec41ed6594becfec4ec",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-venus.md",true,true,"activations-026.jsonl",40,"0cb04a449d0e8d7c49f41ed4570be8baa28a4f5abec6de881855e8d1b2f74456",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-vernal-point.md",true,true,"activations-026.jsonl",41,"6796e15c118cfe74f34c21265d6f45e115e285de9ccfd148a1a745d547c3d4fd",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-vulcanus.md",true,true,"activations-026.jsonl",42,"0bc8606b2de53590acf1945980827c612ac538852dbb5772c2c0f9f94bdaf6dd",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-neptune-equals-zeus.md",true,true,"activations-026.jsonl",43,"e56e9a5fe117021fdd7c5fef8a6484ee7c1101efe46c725f21bae44ee2cfadfe",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-admetos.md",true,true,"activations-026.jsonl",44,"b7c81292b1fa7bb317af49786766589e9892923402b803de52a107a7727dfea1",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-apollon.md",true,true,"activations-026.jsonl",45,"1d81a5c78780b719c37efbf49ead16954bbb662c8ca7c40e2273dc52eda0ce82",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-asc.md",true,true,"activations-026.jsonl",46,"5e53978ec08e5a4bd60877e6e01854c4fcd9963ed7f56f00227dc249d547581d",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-chiron.md",true,true,"activations-026.jsonl",47,"5a877c0cd39f518482021be1eea4c5f3d2910d81459f971c8365e202c847ffc8",{"Sandbach":true}],
+    ["wiki/activations/mars-node-equals-cupido.md",true,true,"activations-026.jsonl",48,"b84d0087949552877f6b690c12d7e3083799671fda24641f46b2e17dbd9637ef",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-hades.md",true,true,"activations-026.jsonl",49,"713e65c817c3bfcd82296971d55c7d42268adae6bc64af0ba3c6930bbdc1c873",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-jupiter.md",true,true,"activations-027.jsonl",1,"cc68530eba35b8528801a8c5f48c562f598a9ab0f61acda8aa2c0b352b9dab0f",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-kronos.md",true,true,"activations-027.jsonl",2,"a17de28854d369ddfb9c09519baf960a6b89b3b788b327158102da41d14e72b1",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-mars.md",true,true,"activations-027.jsonl",3,"a77e11e74423feb664aae95ebde15d3195dab377221b61d14838a85ff41ddfe7",{"Munkasey":true}],
+    ["wiki/activations/mars-node-equals-mc.md",true,true,"activations-027.jsonl",4,"04eba7fe05e695064da1d9f9a71ec80eb467c7ebfc960f206dcaf6ca6a4b7b9e",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-mercury.md",true,true,"activations-027.jsonl",5,"d30bad6e9eb86324a2e5a9407ae4df9a62abc939d9150331d017b905342cba0c",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-moon.md",true,true,"activations-027.jsonl",6,"73bee963ae416ffc396bb23c265a3f803b710b0419273129c86f333c852bcfee",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-neptune.md",true,true,"activations-027.jsonl",7,"8fce425a7f8777640fdd5536eb1273c22dfce83059efadcb9449b38677c95496",{"Witte":true,"Ebertin":false,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-pluto.md",true,true,"activations-027.jsonl",9,"b7d1569e6cb7b82c09167af183e3510a343db3bc6d29c96de11e07904c599537",{"Witte":true,"Ebertin":false,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-poseidon.md",true,true,"activations-027.jsonl",10,"827160cdb7451dae37f028e8c9acc9cb966fe7474c745157c68eb4c890a88a30",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-saturn.md",true,true,"activations-027.jsonl",11,"27a42cdd9c098ad83fab40f1e375d4c47d3a3c6d0d0a757324770d4739e1cda4",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-sun.md",true,true,"activations-027.jsonl",12,"c8158c50b86f6c304706aaa3f7472da9896160628f5a471234f8acd220d688ef",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-uranus.md",true,true,"activations-027.jsonl",13,"4bab8bacbfd962a76a61a4a362033e8e2a533f766d8b443ef557b5cac95afff4",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-venus.md",true,true,"activations-027.jsonl",14,"93e2757839b5e23dbcc006aeb770432bc86bf7802d06b5e73cf0621778582164",{"Witte":true,"Ebertin":true,"Sandbach":true,"Munkasey":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-vernal-point.md",true,true,"activations-027.jsonl",15,"8f68d81d9bc4c4cb8739c6ba681e058a348aa05bb4935bb1a14c6bda6a3ebb33",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-vulcanus.md",true,true,"activations-027.jsonl",16,"fd5dac49e2f02dd29a55d5f9152daa841ac53d823e3588dc24ba97545b9006ff",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-node-equals-zeus.md",true,true,"activations-027.jsonl",17,"f29351c56b881ec25d3897ff2e738d937b98db2e8aa52630d3e508b06aebd7af",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-admetos.md",true,true,"activations-027.jsonl",18,"e2e7504ddd21edcb045457cd6c0e75d359c2636955ab539dbbc652510c1cffb0",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-apollon.md",true,true,"activations-027.jsonl",19,"0937896966b3db1fede7af871530578241605f6a3e69bfc6350db6e3e01a41e4",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-asc.md",true,true,"activations-027.jsonl",20,"307253c904f75215d1d078be9cf3643f2a32b4d5f089c33d839764f45048ac3d",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-chiron.md",true,true,"activations-027.jsonl",21,"4f64d889c750aab9e550ae11bd75d35067b7cd9b67e8e347b8e50a350c126b43",{"Sandbach":true}],
+    ["wiki/activations/mars-pluto-equals-cupido.md",true,true,"activations-027.jsonl",22,"6e5f8a1268660f43599fe6cba909586a5cecb256ad0132c9cf7bac3da2dcb451",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-hades.md",true,true,"activations-027.jsonl",23,"6c26a2ba1665835f55c4eccc5bf062c1ec52eb7701d1fd8d600d091ebe198e6d",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-jupiter.md",true,true,"activations-027.jsonl",24,"9827ec50b6ac5cbdd70da0d7881a3f0a115dbf66ef926682b56e82fd3744a666",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-kronos.md",true,true,"activations-027.jsonl",25,"aa4ac87e5780e82a492a8903346dfbbb0f1b224569762f6631745d82c96cc4fe",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-mc.md",true,true,"activations-027.jsonl",27,"6932a4ee446df429176ce652924128539a21c63542279197700cc149c8b98952",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-mercury.md",true,true,"activations-027.jsonl",28,"89a17cbd74e462a54a509b35d2f94d6894846be001a98a7bb91b33f0403da634",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-moon.md",true,true,"activations-027.jsonl",29,"cfe7c7237459fc95bb81db36799007efa6db167e11e36912fcfa2530ff6e2397",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-neptune.md",true,true,"activations-027.jsonl",30,"22cf044a374f9e61054da44fa3fb11f2922a8704718ed5aa6752d304eacfbff9",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-node.md",true,true,"activations-027.jsonl",31,"a60b451edfd109f455ebd4882513de8993d71aa4f84d102d72f76d0dd879015a",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-poseidon.md",true,true,"activations-027.jsonl",33,"e9369d4da26f51d9afb33bb0dcd22aad2ff3912fff9434c23a546c0d7f533d4e",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-saturn.md",true,true,"activations-027.jsonl",34,"fc5f4429afee154904aa9b8af49b9ebe8e94ab1f025415aa6384ce3069fd22b2",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-sun.md",true,true,"activations-027.jsonl",35,"5d48e599d62d6b2997eea1babcc49d8d782829dd34605ba199a3e309300af519",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-uranus.md",true,true,"activations-027.jsonl",36,"36b67d4b05e40102f4a7cb8e4cf9a0076c2c8b4f9f5f8c1a26fce983e63b0cdb",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-venus.md",true,true,"activations-027.jsonl",37,"709ce6238e8ac39b944b5e12f03d634ffed7ee1b323f09ac5450c27ecda01c19",{"Witte":true,"Ebertin":true,"Sandbach":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-vernal-point.md",true,true,"activations-027.jsonl",38,"56bbe9d168af414bedab64d1a349079c84cf771b6d474bad210e9fa2abc3a4a8",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-vulcanus.md",true,true,"activations-027.jsonl",39,"4783e73b4d5a2bc0a42889f66791f5350d6012f709ed77aa1a45d04bb24a1008",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}],
+    ["wiki/activations/mars-pluto-equals-zeus.md",true,true,"activations-027.jsonl",40,"61c3c0b0e9290911e4e47abc63ee324f383e4314aca3332b157a4c752f947c96",{"Witte":true,"ABC":"complete_own_glyph_German_scan_checked"}]
+  ]
+}

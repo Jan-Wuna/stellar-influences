@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Jupiter`
 - Astronomicon formula: `S/R = V`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, Jupiter entry under Sun + Moon.
+
 Days of luck. The daily and hourly experienced happiness. Fortunate friendships. A fortunate marriage. The increase in the family. Child-birth.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful people of a people, joy between man and woman, money for the woman of the man, happiness of the woman with the man, happy hour of the man, corporal glticksFellow, personality right of the woman, and day and hour of joy
+Source locator: printed page 138 / PDF page 68, Jupiter glyph row under Sun + Moon. English translation checked against the scan.
+
+Successful people of a nation, joy between man and woman, money for the woman from the man, the woman's happiness with the man, the man's happy hour, a bodily feeling of happiness, the woman's personal rights, and day and hour of joy.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 78, entry 0186.
 
 Sound mental and emotional disposition, desire for joint endeavor, for expansion and possessions. Happy relationship, joint success, marriage, shared happiness, birth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 7, Jupiter entry under Sun/Moon.
 
 Whole-hearted enthusiasm. Thriving on hope and optimism. One is vitalized by learning and philosophy and anything which enriches and expands one. One may possibly get involved in too many things and/or overextend oneself, and this can drain the vitality and generally upset one’s balance.
 
@@ -70,22 +80,21 @@ Taking too many directions at once; developing a philosophy for living and copin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Shared happiness, enrichment and opportunities for joint success.
+- psychology: Enthusiasm, hope and a philosophy for living; expansion can become scattered involvement.
+- body/health: ABC describes bodily happiness; Sandbach contrasts renewed vitality with depletion through overextension.
+- social/relationship: Fortunate friendships, happy partnership, joint endeavor and shared enjoyment.
+- events/manifestations: Joint success, possessions and opportunities; marriage, family increase and birth appear as source examples.
+- conflicts/notes: Sandbach and Munkasey qualify the favorable emphasis with too many involvements or directions; gendered examples and birth claims remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+The favorable relationship and success examples are qualified by Sandbach's warning about drained vitality and Munkasey's scattered directions. This describes a limit to expansion, rather than a direct disagreement about the formula.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Jupiter`: supportive partnership, inner confidence, and the enlargement of personal coherence through faith, opportunity, or shared goodwill. Main caution: excess: confidence in harmony can become complacent, inflated, or too eager to assume that good feeling will solve everything.
+In `Sun/Moon = Jupiter`, Jupiter specifies the Sun/Moon pair through enrichment that can be shared: happiness in a bond, enthusiasm for joint endeavor and a readiness to see opportunities. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) give favorable relationship and success examples; [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) connect this breadth with learning, philosophy and a more hopeful approach to living. The same expansion can pull a person into too many involvements or directions, draining the vitality it initially nourishes. Marriage, family increase and birth remain examples in the sources, without establishing an inevitable outcome or event timing.
 
 ## Links
 

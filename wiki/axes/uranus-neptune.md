@@ -23,11 +23,13 @@ related_activations:
   - Uranus/Neptune = MC
   - Uranus/Neptune = Mercury
   - Uranus/Neptune = Moon
+  - Uranus/Neptune = Neptune
   - Uranus/Neptune = Node
   - Uranus/Neptune = Pluto
   - Uranus/Neptune = Poseidon
   - Uranus/Neptune = Saturn
   - Uranus/Neptune = Sun
+  - Uranus/Neptune = Uranus
   - Uranus/Neptune = Venus
   - Uranus/Neptune = Vernal Point
   - Uranus/Neptune = Vulcanus
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Uranus/Neptune`
 - Astronomicon axis: `X/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); the related activations retain distinct oriented formulas.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `URANUS/NEPTUNE`
-- Source page: `307`
+- Source heading: `URANUS + NEPTUNE`
+- PDF page: 234.
 
 #### Pair Summary
 
@@ -90,9 +93,13 @@ Suddenly incapacitated. Unconsciousness. Checkmated. The transition into the bey
 
 #### ABC Pair Summary
 
-subtle impulses, air technique, metaphysical experience, creeping restlessness, technical finesse, iisurprising Sd n vachc, refined teclmik, water technique, and future technique
+- Printed pages: 370–371; PDF page: 184.
+
+Event involving water, subtle impulses, air technology, metaphysical experience, sudden premonitions, creeping restlessness, technical sensitivity, surprising weakness, refined technology, water technology, future technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 265; PDF page: 267.
 
 #### Principle
 
@@ -104,7 +111,7 @@ Elimination of the waking consciousness.
 
 #### Biological Correspondence
 
-Paralysis of rhythmic processes. Heart failure, apoplexy of the brain. (A still-bom child.)
+Paralysis of rhythmic processes. Heart failure, apoplexy of the brain. (A still-born child.)
 
 #### Sociological Correspondence
 
@@ -112,7 +119,13 @@ Mystics, people engaged in psychic research, mediums.
 
 #### Probable Manifestations
 
-+ Peculiar psychic states, inspiration, spiritual cognition and understanding. Long journeys. (Contacts with foreign countries.) - Lack of stamina and vitality, confused psychic states, peculiar inclinations, losses. 58 Even though the conjunction of Uranus and Neptune does not appear in the charts of the present generation these effects do occur in the case of directions and transits. For rectification of the time of birth it is useful to examine the death of relatives and it often will be found that Uranus/Neptune was in the death axis at the time. In the statistical examination of several hundred still births this configuration was found very frequently. However this also is found in the case of a period of temporary unconsciousness, It is therefore important never to give this interpretation when directions occur stating that death is likely. So often this mid-point occurs in life without the worst happening. We cannot too often stress the importance of being careful in these cases. Uranus/Neptune W/V
++ Peculiar psychic states, inspiration, spiritual cognition and understanding. Long journeys. (Contacts with foreign countries.) - Lack of stamina and vitality, confused psychic states, peculiar inclinations, losses.
+
+#### Note 58
+
+Even though the conjunction of Uranus and Neptune does not appear in the charts of the present generation these effects do occur in the case of directions and transits.
+
+For rectification of the time of birth it is useful to examine the death of relatives and it often will be found that Uranus/Neptune was in the death axis at the time. In the statistical examination of several hundred still births this configuration was found very frequently. However this also is found in the case of a period of temporary unconsciousness, It is therefore important never to give this interpretation when directions occur stating that death is likely. So often this mid-point occurs in life without the worst happening. We cannot too often stress the importance of being careful in these cases.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -162,6 +175,8 @@ Much of the unhappiness, "never been young" attitude of modern youth, their conf
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 104 (Principle and Process).
+
 #### Principle
 
 The originality and uniqueness of one’s imagination. The freeing up of one’s imagination and intuitive perception, which can induce visions and revelations. Upsets which cause confusion and derangement, the purpose of these being to open the consciousness to higher realities. The refinement of one’s own special gifts and talents. The way one relates to the mass consciousness.
@@ -171,6 +186,8 @@ The originality and uniqueness of one’s imagination. The freeing up of one’s
 The liberation of one’s inner vision from the repressions imposed by the con scious mind, so that spiritual realities can be more clearly seen. The receiving of deep insights into one’s own personal evolution and destiny.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 211.
 
 #### Pair Delineation
 
@@ -211,25 +228,29 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Uranus-Neptune: The Inspiration`
-- PDF page(s): `336`
+- PDF page(s): `336–337`
+
+#### Scope
+
+The aspects Uranus enters into with the planets that move slowly usually exist for many years at a time. This is why they have less to say about the individual than the generation coming into the world during this period of time. However, there is always an individual meaning for these aspects when personal planets are included in the aspect or this generational aspect is part of a major configuration in the horoscope.
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Liberator and the Seer
 - shadow: The Lunatic and the Crackpot
 - comparison: Lucidity Spirituality Clarity Haze Intuition Inspiration Objectivity Subjectivity Against the current With the current Idea Premonition High-strung Intoxicated Individual Boundless Freedom Addiction
-- general: Dissolution of individual limitations . The vision that comes like a lightning flash .
+- general: Dissolution (♆) of individual limitations (♅). The vision (♆) that comes like a lightning flash (♅).
 - harmony: Lucid Dreams. Feeling oneself called to fulfill a special, very personal vision. Strong intuition. Dreaming of “unreal” experiences, visions, or mystic experiences of sudden, crystal-clear, lucid certainty. Illumination.
 - discord: Head in the Clouds. Unclear concepts of individuality. Propagating unrealistic inventions or solutions to problems. Running after airy-fairy ideas. Losing oneself in the chaos of unconscious longings.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sudden changes in ordinary awareness, ranging from inspiration, inner vision and metaphysical experience to confusion or incapacity ([Witte](#pair-summary), [Udo](#abc-pair-summary), [Ebertin](#principle)).
+- psychology: unusual imagination, idealism and intuitive perception coexist with nervous sensitivity, unstable clarity, escapism or rigid conviction; Carter's aspect distinctions qualify the latter range ([Sandbach](#principle-1), [Carter](#harmonious-aspects), [inharmonious aspects](#inharmonious-aspects)).
+- body/health: Ebertin's severe physiological examples and Munkasey's drug reactions, fatigue, stings and infections remain source claims; Ebertin explicitly rejects forecasting death from this midpoint ([biological](#biological-correspondence), [note58](#note-58), [body or mind](#with-body-or-mind)).
+- social/relationship: shared spiritual interests and freedom may support a bond, while idealization, withdrawal or refusal of dissent can undermine it; compassion for marginalized people is another distinct emphasis ([Munkasey](#in-your-relationships), [Falis](#falis-entry)).
+- events/manifestations: spiritual or artistic experimentation, refined air/water technologies, idealistic social reform, unexpected confusion and relinquishment; disappearance and loss of consciousness are particular source examples ([ABC](#abc-pair-summary), [Hand](#pair-delineation), [politics/business](#in-politics-or-business)).
+- conflicts/notes: inspiration and disorientation are alternatives, not interchangeable proof of insight. Aspect-based generational and harmony/discord claims retain their conditions; Ebertin's historical timing note supplies no timing rule here ([Carter](#harmonious-aspects), [Banzhaf/Haebler scope](#scope), [note58](#note-58)).
 
 ## Related Activations
 
@@ -245,11 +266,13 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 - [Uranus/Neptune = MC](../activations/uranus-neptune-equals-mc.md)
 - [Uranus/Neptune = Mercury](../activations/uranus-neptune-equals-mercury.md)
 - [Uranus/Neptune = Moon](../activations/uranus-neptune-equals-moon.md)
+- [Uranus/Neptune = Neptune](../activations/uranus-neptune-equals-neptune.md)
 - [Uranus/Neptune = Node](../activations/uranus-neptune-equals-node.md)
 - [Uranus/Neptune = Pluto](../activations/uranus-neptune-equals-pluto.md)
 - [Uranus/Neptune = Poseidon](../activations/uranus-neptune-equals-poseidon.md)
 - [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md)
 - [Uranus/Neptune = Sun](../activations/uranus-neptune-equals-sun.md)
+- [Uranus/Neptune = Uranus](../activations/uranus-neptune-equals-uranus.md)
 - [Uranus/Neptune = Venus](../activations/uranus-neptune-equals-venus.md)
 - [Uranus/Neptune = Vernal Point](../activations/uranus-neptune-equals-vernal-point.md)
 - [Uranus/Neptune = Vulcanus](../activations/uranus-neptune-equals-vulcanus.md)
@@ -261,11 +284,11 @@ Unpredictable and abrupt reactions to drugs; shock or remission due to causes di
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune` is the axis of visionary disruption, altered consciousness, spiritual experimentation, and revolutionary ideals. It combines awakening, eccentricity, and sudden change with dream, mysticism, imagination, diffusion, and the pull of invisible realities.
-- Chart expression: unusual intuition, artistic or psychic inspiration, radical compassion, reformist idealism, and the urge to dissolve old mental or social boundaries in favor of a new vision. Liabilities: confusion, instability, fanaticism, escapist extremity, deceptive or chaotic influences, and sudden states of overwhelm, disappearance, or loss of clarity.
+`Uranus/Neptune` concerns a sudden change in ordinary awareness: imagination, intuition and inner vision may become unusually vivid, while clarity and stability can also falter. [Ebertin](#psychological-correspondence) and [Sandbach](#principle-1) describe inspiration and spiritual perception beside confused or destabilized states; [Witte](#pair-summary) and [Hand](#pair-delineation) also include incapacity, loss of consciousness, sudden disappearance or relinquishment. [Udo](#abc-pair-summary) adds subtle impulses, sudden premonitions, surprising weakness and refined air or water technology. The shared theme therefore includes both visionary opening and disrupted orientation, without treating confusion itself as evidence of revelation.
+
+That range extends into art, technology and reform inspired by ideals. [Falis](#falis-entry) links spiritual experimentation with artistic invention, technological imagination and compassion for people on society's margins, while [Munkasey](#in-your-relationships) describes shared mystical interests, a need for freedom, and the possibility of idealizing a relationship or requiring periods of solitude. His [politics/business entry](#in-politics-or-business) adds social restructuring and resource industries. [Carter](#harmonious-aspects) and [Banzhaf/Haebler](#scope) qualify their aspect descriptions by generational and individual context; their harmony, conjunction and discord alternatives remain distinct. The severe bodily examples are historical source claims, and Ebertin's explicit [caution](#note-58) rules out a death forecast from the pair. Closing-factor meanings belong to their own oriented activations.
 
 ## Links
 

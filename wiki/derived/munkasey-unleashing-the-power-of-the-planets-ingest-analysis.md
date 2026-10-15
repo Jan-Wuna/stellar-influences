@@ -5,8 +5,14 @@ slug: munkasey-unleashing-the-power-of-the-planets-ingest-analysis
 status: source_grounded
 framework_scope: comparative
 source_pages: []
-updated_at: 2026-04-22
+updated_at: 2026-10-15
 ---
+
+## Historical Scope and Current Routes
+
+The assessment below records the pre-ingest question considered on 2026-04-22: which parts of Munkasey's four-page pair entries fit the wiki's factor, axis, and oriented activation model? Its recommendation separates categorized delineations from uncategorized concept prompts and ranked examples. The prospective wording and open questions remain as research provenance.
+
+The [source catalog's ingestion history](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md#ingestion-history) records the subsequent April and May ingestion. Its [scope notes](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md#scope-notes) document the adopted boundary: factor keywords, axis prose, and explicit activations entered canonical pages; `CONCEPTS` lists became source companions; MWA example tables were omitted. For delineation, follow the [query guide's canonical retrieval order](../query-guide.md#retrieval-order). Use this note for the reasoning behind the ingest boundary, and the catalog for recorded coverage; neither substitutes for the exact formula's canonical answer page.
 
 ## Purpose
 

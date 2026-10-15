@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `VENUS + ZEUS`
+- PDF page: `184`
 
 #### Pair Summary
 
@@ -76,9 +81,22 @@ Devoted activity. Seed. Sperm. Procreation out of love. Increase. To seed. To pr
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `286–287`; PDF page: `142`
+
 #### ABC Pair Summary
 
-Start of a love, joy fire, peace effort, design skill, harmony strife, K unt performance, artificial direction, love fire, love divination, and creative arts
+Beginning of a love, fire of joy, efforts for peace, art of shaping, striving for harmony, artistic achievement, artistic direction, fire of love, procreation in love, creative art.
+
+German pair summary checked: “Beginn einer Liebe, Freuden-Feuer, Friedens-Anstrengungen, Gestaltungs-Kunst, Harmonie-Streben, Kunst-Leistung, Kunst-Richtung, Liebes-Feuer, Liebes-Zeugung, schöpferische Kunst”.
+
+## Comparative Schema
+
+- Core meaning: Love expressed through devoted, generative, or artistic activity organizes the [pair summary](#pair-summary).
+- Psychology: Devotion and the impulse to produce love or pursue peace give feeling an active direction.
+- Body/health: Seed, sperm, and procreation are explicit reproductive images in the pair summary; they do not establish fertility or any medical outcome.
+- Social/relationship: Procreation out of love and the beginning and fire of love are explicit. Witte's “to force peace” remains distinct from ABC's striving for harmony and efforts for peace.
+- Events/manifestations: Artistic achievement, shaping and direction accompany creation in art, increase, seeding, and procreation.
+- Conflicts/notes: Striving and devoted creation do not guarantee harmony, a romantic event, conception or fertility; Witte's forced peace retains a different emphasis from ABC's peace efforts.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ Start of a love, joy fire, peace effort, design skill, harmony strife, K unt per
 - [Venus/Zeus = Vernal Point](../activations/venus-zeus-equals-vernal-point.md)
 - [Venus/Zeus = Vulcanus](../activations/venus-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+Devoted creation and Witte's unusual “to force peace” coexist with ABC's efforts for peace and striving for harmony. These distinguish an aim from a guaranteed result; the reproductive images do not establish fertility.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus`: devoted activity.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Venus/Zeus centers on love taking a productive form: devotion becomes an act of creating, increasing, or bringing something into being. Procreation out of love and the beginning and fire of love share this generative theme with artistic shaping, achievement, and direction. The range includes both an affectionate beginning and the work of giving a desired form to something ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
+
+Efforts for peace and striving for harmony give that activity a relational or social aim, while Witte's “to force peace” preserves a more forceful expression. Neither the effort nor the pair establishes its success, a romantic event, or a fertility assessment; specific third-factor outcomes belong to their activation pages ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
 
 ## Links
 

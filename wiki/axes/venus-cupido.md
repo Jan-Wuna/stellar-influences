@@ -66,19 +66,36 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Q/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+- PDF page: 182.
+
 Marital happiness. Pleasant company. Peaceful society or association. Love marriage. Things we are pleased with. Pleasant social activities. Beautiful art creations. Artistic beauties. Beauty. Artist associations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Cupido`
+- Printed pages: `282-283`; PDF page: `140` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Peace Art, common joy, common desires, harmonious canzes, love art, Liehes community, beauty of the arts, and preference for the whole
+Art of peace, shared joy, shared wishes, a harmonious whole, a community of artists, art of love, a loving community, beauty of art, and preference for the whole.
+
+## Comparative Schema
+
+- core meaning: Love and beauty experienced as shared harmony within a couple, company or community ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Enjoyment of common wishes, pleasant activities and belonging to a harmonious whole.
+- body/health: Neither pair summary supplies a bodily or medical claim.
+- social/relationship: Marital happiness, marriage for love, pleasant company and peaceful associations; artists also join through shared appreciation.
+- events/manifestations: Social activities, beautiful creations and artists' associations give affection and taste a collective setting.
+- conflicts/notes: These entries describe cooperative and pleasurable forms of association; they supply no specific conflict or adverse manifestation. The German explicitly includes a community of artists.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Peace Art, common joy, common desires, harmonious canzes, love art, Liehes commu
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido`: marital happiness.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Venus/Cupido` locates pleasure and affection in a shared whole. A happy marriage, pleasant company and a peaceful association belong to the same theme: people enjoying one another and what they create or value together. Common wishes and shared joy make the group's harmony part of the pleasure itself ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+
+Art is a substantial part of this shared life. Beautiful creations, communities of artists and the beauty of art extend the pair beyond intimate partnership to cultural and social participation. The short summaries describe these harmonious possibilities without guaranteeing marital happiness or specifying how conflict within an association would unfold ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)). Each closing factor belongs to its own oriented activation.
 
 ## Links
 

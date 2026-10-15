@@ -45,13 +45,26 @@ updated_at: 2026-04-21
 
 - Axis: `MC/MC`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `56`
+
 #### Pair Summary
 
 The personality of the native. The soul. The ego. Emotional experiences and qualities. Personal expectations. Psychological influence. Efforts towards the peak of life. The attitude in public, profession and vocation. The minute. The moment.
+
+## Comparative Schema
+
+- core meaning: The individual's personality, inner experience, and personal expectations ([pair summary](#pair-summary)).
+- psychology: Emotional qualities, the ego, and psychological influence are the summary's central vocabulary ([pair summary](#pair-summary)).
+- body/health: No specific bodily or medical correspondence is given.
+- social/relationship: One's attitude in public, profession, and vocation is included; no specific partnership pattern is stated ([pair summary](#pair-summary)).
+- events/manifestations: Personal striving and the experienced moment are named, without a concrete event prediction ([pair summary](#pair-summary)).
+- conflicts/notes: This repeated-factor axis preserves the source's `MC/MC` identity. Its single brief summary does not establish a separate two-factor interaction.
 
 ## Related Activations
 
@@ -77,11 +90,14 @@ The personality of the native. The soul. The ego. Emotional experiences and qual
 - [MC/MC = Vulcanus](../activations/mc-mc-equals-vulcanus.md)
 - [MC/MC = Poseidon](../activations/mc-mc-equals-poseidon.md)
 
+## Contradictions
+
+Only one source summary is present, so no comparison between sources is possible. Its inner-personality and public-vocation themes describe different aspects of personal orientation rather than opposing assertions.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/MC` is the axis of pure selfhood, soul, ego, inner attitude, vocation, and the personal life direction experienced from the inside.
-- Chart expression: the core personality, emotional and psychological orientation, one's own expectations and aims, and the moment-by-moment shaping of identity, profession, and public attitude from the center of the self.
+`MC/MC` centers the individual's own experience: personality, emotional qualities, expectations, and aims. The [single pair summary](#pair-summary) connects this inner orientation with how one approaches public life, profession, and vocation. Its references to the minute and moment add immediacy to that personal perspective, but provide no particular event or timing rule. Because the same factor appears twice, the page preserves a repeated-factor formula rather than interpreting a meeting of two different principles.
 
 ## Links
 

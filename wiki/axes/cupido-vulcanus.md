@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Printed page: `277`; PDF page: `273` (complete bold pair paragraph checked against actual scan).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Mighty artistic abilities and talent. Power and influence in or through a commun
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `434`; PDF page: `216` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Community of energy, influence of the Community, common energy policy, common power, common strength, Cewalt against the Community, and power synthesis
+German pair summary (transcribed from printed page `434`; PDF page `216`):
+
+> Energie-Gemeinschaft, Einfluß der Kunst, einflußreiche Gemeinschaft, gemeinsame Energie, gemeinsame Gewalt, gemeinsame Kraft, gemeinsame Stärke, Gewalt gegen die Gemeinschaft, Macht-Synthese, mächtige Gemeinschaft
+
+Editorial translation from the German passage: Energy community, influence of art, influential community, shared energy, shared force or violence, shared power, shared strength, violence against the community, synthesis of power, powerful community.
+
+## Comparative Schema
+
+- Core meaning: Collective strength, influential organization, and power expressed through art or association ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: The summaries discuss capacities and shared energy, not an individual's motives or temperament.
+- Body/health: Shared energy is not accompanied by a physical diagnosis or treatment claim.
+- Social/relationship: A community, association, or political party can combine power and exert influence.
+- Events/manifestations: Great organization, artistic talent, influential art, common strength, and collective power are explicit examples.
+- Conflicts/notes: Collective capacity and influence of art coexist with Gewalt, including violence against a community. The list does not identify a particular act or make collective power inherently beneficial.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Community of energy, influence of the Community, common energy policy, common po
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus`: powerful community: great organization, mighty artistic ability, influence through collective unity, political or group force, and art or association backed by concentrated strength.
-- Chart expression: communal bonds becoming engines of real power, whether through large-scale organization, influential family or party structure, or artistic creation driven by exceptional force. It can show unions that endure and act because they are strong, organized, and able to concentrate many wills into one effect. Liabilities: domination, coercive group pressure, authoritarian organization, and power becoming more important than beauty, care, or relationship.
+`Cupido/Vulcanus` concerns strength made effective through association. A powerful community, a political party, or a well-organized group combines capacity and influence; "might through unity" is the source's compact expression of that theme. Artistic ability and the influence of art are equally explicit parts of the pair ([Pair Summary](#pair-summary)).
+
+The ABC wording overlaps in shared energy, power, and strength, while also naming shared force or violence and violence against a community. Collective capacity and the harmful use of force therefore remain distinct expressions ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

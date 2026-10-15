@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Moon Jupiter](../triads/vernal-point-moon-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Happiness of a woman. Fortunate with the public. Lucky hours.
 
@@ -42,13 +46,27 @@ Happiness of a woman. Fortunate with the public. Lucky hours.
 
 #### ABC Entry
 
-Successful woman in the frequentity, joy feeling in the public, happiness women in the public life, public money of a people, rights of women in the public, legal public of a people, and satisfied women in the public
+- Source page: 34; PDF page: 16 (one-based spread).
+
+A successful woman in public, a feeling of joy in public, a happy woman in public life, public funds of a people, women's rights in public, the legal public sphere of a people, and contented women in public
+
+## Comparative Schema
+
+- core meaning: Public happiness and favorable collective conditions, with explicit examples concerning women.
+- psychology: Joy and contentment are central.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Women's success and rights, and a people's public resources.
+- events/manifestations: Fortune with the public and lucky hours are Witte examples.
+- conflicts/notes: Gendered associations are attributed source doctrine; lucky hours supplies no timing method.
+
+## Contradictions
+
+No direct contradiction is established. The entries move between women's experience and collective public conditions without making those scopes identical.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Moon`: happiness of a woman, fortunate with the public, and lucky hours.
-- Practical expression: successful woman in the frequentity, oy feeling in the public, happiness women in the public life, public money of a people, and rights of women in the public.
+In `Vernal Point/Jupiter = Moon`, public good fortune is expressed as felt joy and collective satisfaction. The [Witte entry](#witte-entry) names a woman's happiness, favorable relations with the public, and lucky hours. The restored [ABC entry](#abc-entry) develops the source's gendered examples through women's success and rights, while also naming a people's public funds and legal life. These remain attributed examples of shared well-being rather than a universal claim about women.
 
 ## Links
 

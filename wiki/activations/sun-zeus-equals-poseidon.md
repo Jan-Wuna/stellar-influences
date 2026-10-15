@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Zeus = Poseidon`
 - Astronomicon formula: `S/£ = ¨`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 113.
+
 To be leader of an idea and to prove its correctness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts of mind and body, cognition stresses of a person, spiritual creative person, foundation of a spiritual center, personal truth stresses, creative spirit of man, and creative culture center
+- Source page: 163 (printed); PDF page: 80.
+
+Efforts of mind and body, a person's striving for insight, a spiritually creative person, founding a spiritual centre, personal striving for truth, the human creative spirit, and a creative cultural centre.
+
+Translation checked against the German scan, PDF p. 80; the original gendered associations are retained.
+
+## Comparative Schema
+
+- core meaning: Creative leadership in the service of an idea, insight, or truth.
+- psychology: Striving to understand and demonstrate an idea.
+- body/health: Effort of mind and body is named without a specific illness.
+- social/relationship: Leading an idea and founding spiritual or cultural centres.
+- events/manifestations: Demonstrating an idea and creative cultural work.
+- conflicts/notes: Striving for insight and truth was mistranslated as stresses; the scan resolves that wording.
+
+## Contradictions
+
+The entries overlap in the meanings summarized here; their distinct examples do not establish a direct contradiction or independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Poseidon`: inspired creation and fiery pursuit of ideals.
-- Practical expression: efforts of mind, body, cognition stresses of a person, spiritual creative person, and foundation of a spiritual center.
+`Sun/Zeus = Poseidon` directs creative effort toward understanding, truth, and the expression of an idea. Leading an idea includes demonstrating its correctness, while the accompanying examples extend this effort to spiritual and cultural centres. These entries describe an intellectual or spiritual purpose for creative work; they do not establish that a person's convictions are true. ([Witte](#witte-entry), PDF p. 113; [ABC](#abc-entry), printed p. 163, PDF p. 80.)
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Neptune Apollon`
 - Astronomicon triad-set: `S Y ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Neptune/Apollon = Sun](../activations/neptune-apollon-equals-sun.md)
-- [Sun/Apollon = Neptune](../activations/sun-apollon-equals-neptune.md)
-- [Sun/Neptune = Apollon](../activations/sun-neptune-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Apollon = Sun](../activations/neptune-apollon-equals-sun.md) | [Neptune/Apollon](../axes/neptune-apollon.md) | [Sun](../factors/sun.md) |
+| [Sun/Apollon = Neptune](../activations/sun-apollon-equals-neptune.md) | [Sun/Apollon](../axes/sun-apollon.md) | [Neptune](../factors/neptune.md) |
+| [Sun/Neptune = Apollon](../activations/sun-neptune-equals-apollon.md) | [Sun/Neptune](../axes/sun-neptune.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Neptune/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `400`
-- `Sun/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
-- `Sun/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `167`
-- `Sun/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `109`
-- `Sun/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `155`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Neptune/Apollon = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-apollon-equals-sun.md#witte-entry), one-based PDF entry-start p. `251`.
+- `Neptune/Apollon = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-apollon-equals-sun.md#abc-entry), printed p. `400`.
+- `Sun/Apollon = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-apollon-equals-neptune.md#witte-entry), one-based PDF entry-start p. `115`.
+- `Sun/Apollon = Neptune`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-apollon-equals-neptune.md#abc-entry), printed p. `167`.
+- `Sun/Neptune = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-neptune-equals-apollon.md#witte-entry), one-based PDF entry-start p. `109`.
+- `Sun/Neptune = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-neptune-equals-apollon.md#abc-entry), printed p. `155`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Sun`: This activation personalizes `Neptune/Apollon` through one's future vision, moral exposure, and role inside larger systems of illusion or corruption. It can show a person pulled between metaphysical promise and compromised reality, living under uncertainty while seeking meaning.
-- `Sun/Apollon = Neptune`: This formula emphasizes uncertain success or success in occult sciences and make believe dignities.
-- `Sun/Neptune = Apollon`: This formula emphasizes uncertain success, imagined honors, or success in occult work.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

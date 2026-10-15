@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Pluto/Node` as source-native image material.
+Preserve Munkasey's concept phrases for `Pluto/Node` from the third page of the pair chapter as source-native image material.
+
+[Read the Pluto/Node interpretation](../axes/pluto-node.md#derived-synthesis) for the shared pair meaning and follow the axis page's activation links for explicit formulas.
 
 ## Evidence Base
 
 - [Pluto/Node](../axes/pluto-node.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `345`
+- Source concept page: `345` (printed); PDF page `346` (1-based).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Pluto/Node` as source-native ima
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+These are Munkasey's concept prompts for the pair. The [source list](#source-concepts) includes both “Renews Acquaintances” and “Terminates Close Ties” (p. `345`), without stating when either applies. Their different directions should remain visible.
+
+The list supplies images and vocabulary rather than a comparative delineation or an interpretation of an added activating factor. Its evaluative sexual language belongs to the source; these prompts do not establish facts about a person's conduct or character.

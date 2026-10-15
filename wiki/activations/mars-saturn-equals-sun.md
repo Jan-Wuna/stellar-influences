@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Sun`
 - Astronomicon formula: `U/W = S`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -70,22 +72,21 @@ Progress in learning to control impulses; applying restraint to urges; leadershi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal effort shaped by hard work, restraint, and practical organization.
+- Psychology: Low confidence can inhibit assertion; patient focus can support long-term goals.
+- Body/health: Witte and Ebertin's weak-vitality, illness, and death claims are historical and not a diagnosis.
+- Social/relationship: Munkasey includes encouragement of active people and leadership roles for older people.
+- Events/manifestations: Controlled impulses, work loss, hard personal work, and organized pursuit of goals.
+- Conflicts/notes: Ebertin's male-specific illness language remains attributed; the formula does not establish a gender rule or causal link from low confidence to illness.
 
 ## Contradictions
 
-- None recorded yet.
+Severe bodily examples coexist with organization and self-control. The entries do not require weakness or failure in every case.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Sun`: long-term goals reached through practical focus, survival grit, and learning to assert oneself carefully rather than impulsively. Main caution: weakened vitality: self-confidence may be too low to meet life's demands without strain, illness, or repeated frustration.
+In `Mars/Saturn = Sun`, Sun specifies constrained effort as personal work and the development of self-control. Practical organization and patience can support long-term goals, while lack of confidence may make assertion difficult. See [ABC](#abc-entry) (printed p. 300), [Sandbach](#sandbach-entry) (chapter starts at PDF p. 68), and [Munkasey](#munkasey-entry) (printed p. 228). [Witte](#witte-entry) (PDF p. 193) and [Ebertin](#ebertin-entry) (printed p. 205, code 0699) retain historical medical examples rather than establishing a prognosis.
 
 ## Links
 

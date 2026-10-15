@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Cupido](../axes/moon-cupido.md)
 - Triad hub: [Moon Cupido Hades](../triads/moon-cupido-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Cupido`; one-based PDF page `130` (entry starts here; supplied parser locator, not visually verified).
 
 Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because of grief. Sick wife.
 
@@ -42,13 +46,27 @@ Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because
 
 #### ABC Entry
 
-Disappointment of the Nine People's Community, common past of a people, criminal communities in the people, poor community feeling, disadvantages for women in the community, and hour of community service
+- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan).
+
+Deprivations for a people's community, shared past of a people, criminal communities among the people, deficient community feeling, disadvantages for women in the community, hour of community service.
+
+## Comparative Schema
+
+- core meaning: Community or betrothal is experienced through grief, disadvantage or deprivation.
+- psychology: Sadness can obstruct enjoyment of leisure.
+- body/health: Witte's 'sick wife' is an attributed historical example, not a diagnosis.
+- social/relationship: A sad bridal party, disadvantage to women and poor community feeling are distinct examples.
+- events/manifestations: Loss of leisure through grief; ABC also names collective history and service.
+- conflicts/notes: ABC begins with deprivations for a people's community, not disappointment; criminal communities, shared past and service remain separate clauses.
+
+## Contradictions
+
+No direct contradiction is established. The entries retain distinct social, emotional and artistic examples within this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Hades`: Poor betrothal. Sad bridal party. Sad leisure hours. No hours of leisure because of grief. Sick wife.
-- Practical expression: disappointment of the Nine People's Community, common past of a people, criminal communities in the people, poor community feeling, and disadvantages for women in the community.
+In `Moon/Cupido = Hades`, shared life and leisure are affected by sorrow, deprivation or disadvantage: a sad bridal party and grief can remove enjoyment or time for leisure, while deficient belonging and disadvantages for women place hardship within a community. Shared history and community service retain different collective settings; criminal communities remain a severe separate example. Witte's sick wife is attributed historical wording, without an individual health conclusion. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

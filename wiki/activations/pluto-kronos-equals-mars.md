@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Mars Pluto Kronos](../triads/mars-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Plan and act independently. The activities are checked and watched. Actions take
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 414; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special developmental work, developmental impulses of the state, self sustained actions develop, transformations through self sustaining work, growing self sustainability in work, change to self sustaining work, and important activity developments
+Editorial translation (checked against the scan): Special development work, development impulses of the state, developing self-confident actions, transformations through independent work, growing independence in work, change to independent work, important developments in activity.
+
+## Comparative Schema
+
+- core meaning: Independent planning and action directed toward development or government change.
+- psychology: Self-confident action and independence in work.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Activities may be checked or watched; the state is an explicit setting.
+- events/manifestations: Development work, independent employment, and actions to transform government.
+- conflicts/notes: Independence and oversight coexist; neither guarantees successful advancement.
+
+## Contradictions
+
+Witte includes both independent action and external checking. ABC's independent work does not erase that oversight.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Mars`: disciplined action and testing; Work drives advancement or proves ability.
-- Practical expression: special developmental work, developmental impulses of the state, self sustained actions develop, transformations through self sustaining work, and growing self sustainability in work.
+Mars specifies Pluto/Kronos through independent planning and action. The [Witte entry](#witte-entry) also says that activities are checked and watched and includes action to transform government. The [ABC entry](#abc-entry) adds self-confident action, development work, and a move toward independence in work. The organizing issue is how action develops under or alongside authority, without implying that every effort proves ability or earns higher rank.
 
 ## Links
 

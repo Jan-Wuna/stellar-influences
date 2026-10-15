@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Poseidon`
 - Astronomicon formula: `T/X = ¨`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 New original ideas. Sudden new thoughts. Sudden clarity of trend of thought. To recognize the inner truth of an idea.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting media culture, reports on cultural events, emancipation of traffic technology, discussing mental events, clear impulses from youth, cultural media impulses, new insights from youth, and exciting truth reports
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting media culture, reports on cultural events, renewal of transport technology, discussing mental events, clear impulses from youth, cultural media impulses, new insights from youth, and exciting truth reports
+
+## Comparative Schema
+
+- core meaning: Sudden new ideas acquire clarity and a sense of inner truth.
+- psychology: Recognition and new insights are explicit.
+- body/health: No bodily condition is stated.
+- social/relationship: Cultural media, young people's impulses and conversations about mental events are settings.
+- events/manifestations: Cultural-event reports, renewed transport technology and truth reports are examples.
+- conflicts/notes: A source's felt recognition of truth is not independent verification of an idea.
+
+## Contradictions
+
+The two entries emphasize clarity and cultural or intellectual renewal without a direct disagreement recorded in their examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Uranus = Poseidon`: New original ideas. Sudden new thoughts. Sudden clarity of trend of thought. To recognize the inner truth of an idea.
-- Practical expression: exciting media culture, reports on cultural events, emancipation of traffic technology, discussing mental events, and clear impulses from youth.
+In `Mercury/Uranus = Poseidon`, Poseidon specifies sudden new thought through clarity, insight and recognition of an idea's inner truth. ABC extends that intellectual renewal to cultural reports, media impulses, young people's new insights and renewed transport technology. The source descriptions concern an experience of understanding and truthful reporting; they do not by themselves verify every idea that feels clear. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Hades`
 - Astronomicon formula: `R/Q = ¢`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -34,22 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `179`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-A woman's love chamber, a people's peace service, a peaceful people in need, a woman's dangerous love, a woman's sorrow, a woman's love disadvantages, a woman's love criminality, and a woman's hidden virtues
+A woman's sorrow in love, service for a people's peace, a peaceful people in need, endangered love for a woman, a woman's dangerous love, a beautiful woman's sorrow, a woman's disadvantages in love, a woman's love-related criminality (Liebes-Kriminalität), and a woman's hidden feelings
+
+## Comparative Schema
+
+- core meaning: sorrow, danger, or deprivation affecting love and care.
+- psychology: sorrow in love and hidden feelings are named.
+- body/health: Witte's miscarriage and abortion statements remain historical reproductive associations, with the source's own legal language.
+- social/relationship: an abandoned mother and endangered or dangerous love are examples.
+- events/manifestations: ABC also includes peace service and a peaceful people in need.
+- conflicts/notes: ABC does not explain Liebes-Kriminalität; no particular criminal act or current legal status is inferred.
+
+## Contradictions
+
+Witte's reproductive examples and ABC's love-related sorrow, danger, and peace service describe different settings. They do not establish that difficult love causes reproductive loss or that these events share one mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Hades`: Abandoned mother. Miscarriage procured by an unlawful operation. Abortion.
-- Practical focus: degrades `Moon/Venus` into maternal abandonment, reproductive loss, and painful rupture in the field of care and affection. It shows love and fertility meeting sorrow, deprivation, or traumatic severance.
-- Practical expression: a woman's love chamber, a people's peace service, a peaceful people in need, a woman's dangerous love, and a woman's sorrow.
+In Moon/Venus = Hades, Hades specifies the pair through vulnerable or troubled expressions of affection and care. [ABC](#abc-entry) names sorrow in love, endangered love, hidden feelings, and a peaceful people in need, alongside service for peace (printed p. 179, PDF p. 88). Its term Liebes-Kriminalität is retained without assigning a specific act to it.
+
+The [Witte entry](#witte-entry) separately preserves abandonment of a mother, miscarriage, and abortion, including historical wording about an unlawful operation. These remain attributed source associations; the entry does not establish a reproductive outcome or a causal link between emotional suffering and those events.
 
 ## Links
 

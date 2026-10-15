@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Neptune`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = Y`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Neptune Vulcanus](../triads/sun-neptune-vulcanus.md)
@@ -42,13 +43,29 @@ To be mistaken about the size of physical strength. To lose physical strength.
 
 #### ABC Entry
 
-Exchange by influential persons, subtle body influence, human energy of the future, personal power weakness, weakness of body power, unknown energy center, refinement of body energy, water administration on the day development of an energy center, corporal force develop, and personal violence cnt-
+Source locator: printed page 171 / PDF page 84, complete eight-clause Neptune row under Sonne + Vulkanus, ending before the Pluto glyph.
+
+Disappointment through influential persons, subtle bodily influence, human energy of the future, personal weakness of power, weakening of bodily strength, unknown energy center, refinement of bodily energy, and force of water during the day.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength is lost or incorrectly estimated.
+- psychology: Witte explicitly names mistaken assessment of strength.
+- body/health: Loss of physical strength is a historical source claim, not a diagnosis.
+- social/relationship: ABC names disappointment through influential people.
+- events/manifestations: Reduced strength, bodily-energy refinement and force of water are distinct examples.
+- conflicts/notes: Refinement and weakness remain distinct source possibilities; Pluto's development clauses belong to its own row.
+
+## Contradictions
+
+Witte emphasizes lost or misjudged strength. ABC also names refinement of bodily energy and force of water as separate examples; these do not require every manifestation to involve loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Neptune`: a sensual man or person and suffering of the body.
-- Practical expression: exchange by influential persons, subtle body influence, human energy of the future, personal power weakness, and weakness of body power.
+Neptune specifies Sun/Vulcanus through uncertain or diminished strength and power. [Witte](#witte-entry) names losing or misjudging physical strength; [ABC](#abc-entry) adds disappointment through influential people and personal weakness of power. ABC also retains refinement of bodily energy and force of water as separate examples. The row does not establish a medical outcome or a necessary cause linking bodily and interpersonal experiences.
 
 ## Links
 

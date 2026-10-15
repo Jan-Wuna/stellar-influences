@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Moon Saturn Neptune](../triads/moon-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Hesitation about replacing that which no longer functions as intended; activitie
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional susceptibility to oppressive or discouraging conditions.
+- psychology: pessimism and negative feelings; Sandbach also describes relief in calming environments.
+- body/health: Witte and Ebertin's illness and gendered reproductive claims remain historical attributions.
+- social/relationship: Sandbach includes instinctive recognition of forces oppressing other people.
+- events/manifestations: hesitation to replace what no longer works and escape from responsibility appear in Munkasey.
+- conflicts/notes: the ABC sentence is truncated at "pro-"; pejorative gender and character judgments are not general conclusions.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries vary between pejorative judgment and sensitivity to surroundings; their language should not be flattened into a universal character assessment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Moon`: compassion, endurance in sorrow, and the capacity to hold quiet suffering without dramatization. Main caution: withdrawal: sadness, weakness, or diffuse anxiety can become chronic and erode resilience from within.
+Moon specifies the Saturn/Neptune axis through emotional exposure to discouragement. [Ebertin](#ebertin-entry) stresses pessimism, while [Sandbach](#sandbach-entry) describes taking in negative influences and finding relief in simple, supportive surroundings. [Munkasey's](#munkasey-entry) hesitation to replace ineffective arrangements gives this sensitivity a practical setting. The supported throughline is vulnerability to an oppressive environment, with an ability to recognize such pressure in others; the older entries' gendered and medical judgments remain attributed.
 
 ## Links
 

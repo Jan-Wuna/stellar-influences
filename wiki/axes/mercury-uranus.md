@@ -21,6 +21,7 @@ related_activations:
   - Mercury/Uranus = Kronos
   - Mercury/Uranus = Mars
   - Mercury/Uranus = MC
+  - Mercury/Uranus = Mercury
   - Mercury/Uranus = Moon
   - Mercury/Uranus = Neptune
   - Mercury/Uranus = Node
@@ -28,6 +29,7 @@ related_activations:
   - Mercury/Uranus = Poseidon
   - Mercury/Uranus = Saturn
   - Mercury/Uranus = Sun
+  - Mercury/Uranus = Uranus
   - Mercury/Uranus = Venus
   - Mercury/Uranus = Vernal Point
   - Mercury/Uranus = Vulcanus
@@ -73,14 +75,16 @@ updated_at: 2026-06-20
 
 - Axis: `Mercury/Uranus`
 - Astronomicon axis: `T/X`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/URANUS`
-- Source page: `163`
+- Source heading: `MERCURY + URANUS`
+- PDF page (one-based): `163` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -88,9 +92,11 @@ Nerves. Practical thinking. Logic. Good mathematician. Revolutionary thoughts. O
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `248–249`; PDF page (one-based): `123` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Exciting news, event report, agitated speaking, youth reform, medicn tcchnik, new thinking, reform language, rhythmic movements, restless youth, technical opinions, and traffic event
+Exciting news, report of an event, agitated speaking, reform among the young, media technology, new thinking, conversations about reform, rhythmic movements, restless youth, technical opinions, traffic event.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -230,12 +236,12 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Quick, independent thought, sudden insight and inventive communication; technical understanding and reform are recurring expressions.
+- psychology: Intellectual excitement and intuition can yield original solutions, or become scattered haste, contrariness and insufficiently examined ideas.
+- body/health: Nervous tension recurs; Ebertin's neurological claims and Munkasey's digestive and food-sensitivity claims remain attributed historical associations, not diagnoses.
+- social/relationship: Respect for individuality and mental stimulation can support connection; abrupt wit, poor listening and emotional detachment can alienate others.
+- events/manifestations: Surprising news, inventions, mathematical or technical work, communication breakthroughs and disruptive reform span personal and collective expressions.
+- conflicts/notes: Carter's harmonious and difficult aspect conditions qualify his claims; particular professions and disorders are not necessary outcomes. ABC's damaged summary was retranslated from the scanned bold pair summary, including media technology.
 
 ## Related Activations
 
@@ -249,6 +255,7 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - [Mercury/Uranus = Kronos](../activations/mercury-uranus-equals-kronos.md)
 - [Mercury/Uranus = Mars](../activations/mercury-uranus-equals-mars.md)
 - [Mercury/Uranus = MC](../activations/mercury-uranus-equals-mc.md)
+- [Mercury/Uranus = Mercury](../activations/mercury-uranus-equals-mercury.md)
 - [Mercury/Uranus = Moon](../activations/mercury-uranus-equals-moon.md)
 - [Mercury/Uranus = Neptune](../activations/mercury-uranus-equals-neptune.md)
 - [Mercury/Uranus = Node](../activations/mercury-uranus-equals-node.md)
@@ -256,6 +263,7 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - [Mercury/Uranus = Poseidon](../activations/mercury-uranus-equals-poseidon.md)
 - [Mercury/Uranus = Saturn](../activations/mercury-uranus-equals-saturn.md)
 - [Mercury/Uranus = Sun](../activations/mercury-uranus-equals-sun.md)
+- [Mercury/Uranus = Uranus](../activations/mercury-uranus-equals-uranus.md)
 - [Mercury/Uranus = Venus](../activations/mercury-uranus-equals-venus.md)
 - [Mercury/Uranus = Vernal Point](../activations/mercury-uranus-equals-vernal-point.md)
 - [Mercury/Uranus = Vulcanus](../activations/mercury-uranus-equals-vulcanus.md)
@@ -267,11 +275,11 @@ Intestinal and stomach gas; sensitivities to certain food groups (milk, wheat, e
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus` is the axis of inventive thinking, sudden insight, mental independence, originality, and unconventional communication. It combines intellect with intuition, innovation, technical acuity, and the impulse to break from standard mental pathways.
-- Chart expression: brilliance, breakthroughs, mathematics or technical skill, reformist thought, sharp wit, and the ability to perceive patterns or solutions suddenly. Its shadow is instability: scattered attention, nervous haste, tactless speech, contrariness, eccentricity, and ideas delivered so abruptly that they alienate more conventional minds.
+`Mercury/Uranus` joins mental activity with the impulse to discover a different way of thinking. An idea or connection may arrive suddenly, making familiar information yield an unexpected solution. Inventiveness, mathematical or technical understanding, independent judgment and surprising communication recur across the [pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Ebertin's categories](#reinhold-ebertin---the-combination-of-stellar-influences) and [Hand's delineation](#robert-hand---horoscope-symbols). The same speed can outrun attention: excitement becomes nervous haste, conclusions remain untested, and originality becomes scattered assertion. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) develops the constructive side as freedom from restrictive mental habits; [Banzhaf and Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) distinguish the alert inventor from the impatient listener who neglects detail.
+
+In contact with others, this independence can respect each person's space and stimulate new ideas, but sharp wit or abrupt delivery can make understanding harder. [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) connects that tension with both relationship boundaries and collective changes in information or transport systems. [Carter's aspect families](#charles-carter---the-astrological-aspects) preserve a range from capable originality to touchiness and self-will; those conditional judgments do not make every expression brilliant or disruptive. Astrology, science and other named occupations illustrate the pair rather than establish a vocation, and source-specific bodily or psychiatric claims do not establish an illness. This is the shared unordered pair meaning; a closing factor belongs to its own [activation](#related-activations).
 
 ## Links
 

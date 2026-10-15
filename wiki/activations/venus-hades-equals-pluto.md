@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Pluto`
 - Astronomicon formula: `Q/¢ = Z`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-P Changes in service relations. Pleasant change or advancement in serving position is denied.
+- PDF page: 183; scanned activator row checked.
+
+Changes in service relations. Pleasant change or advancement in serving position is denied.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-development, develop dangerous love, develop hidden artificial development, develop fondness for the old, increase in danger of peace, and increase in love for the past
+- Source page: 285 (printed); PDF page: 141; scanned activator row checked.
+
+Difficult unfolding of harmony, developing service to peace, dangerous development of peace, developing dangerous love, hidden unfolding of art, developing a preference for old things, growing endangerment of peace, and growing love for the past.
+
+## Comparative Schema
+
+- Core meaning: Service or troubled affection undergoes difficult development.
+- Psychology: Growing interest in old things and the past.
+- Body/health: No specific health claim.
+- Social/relationship: Change in service relations; dangerous love developing.
+- Events/manifestations: Blocked advancement, hidden art, and threatened peace.
+- Conflicts/notes: The restored ABC opening concerns difficult development, not Neptune's uncertainty.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The restored ABC opening concerns difficult development, not Neptune's uncertainty.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Pluto`: p Changes in service relations.
-- Practical expression: development, develop dangerous love, develop hidden artificial development, develop fondness for the old, and increase in danger of peace.
+Pluto specifies Venus/Hades through changes in service relations and the difficult development of affection or harmony. Advancement may be denied, while dangerous love or threats to peace can grow. Hidden artistic development and increasing appreciation of old things preserve a cultural range within that process of change. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

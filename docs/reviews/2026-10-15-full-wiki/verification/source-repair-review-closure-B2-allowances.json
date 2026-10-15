@@ -1,0 +1,1298 @@
+[
+  {
+    "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+    "before_sha256": "647aecb81b875e8435e86afe64d0b80d3935cee8ac201dd5713c81458eaeddbb",
+    "after_sha256": "eb350cdcad6c297997cb13d07ecd522d30892cd3a4a56572f5ca3a2b431b07f8",
+    "ledger": "activations-042.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC95/printed192 seven-clause Jupiter row genuinely includes Rechts-Kunst einer Frau; current literal art of law plus explicit no precise role limit matches. All ABC translation changes and Witte130 added reference checked. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf095.png",
+      "verification/source-repair-review-closure-B2-witte-pdf130.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-mercury.md",
+    "before_sha256": "f2f9646885550a1d127512a66ca03b920e97fce0607db098c98781bd17e09867",
+    "after_sha256": "a2d181a6d232e312a1dddfca4acc4cd30cd29cf1c0b56fc03a9730e904a78449",
+    "ledger": "activations-042.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC95/printed192 Mercury seven clauses begin Gefühlvolle Gesprächs-Gemeinschaft, not French speaking. Full corrected translation and Witte130 current paragraph/new reference match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf095.png",
+      "verification/source-repair-review-closure-B2-witte-pdf130.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-pluto.md",
+    "before_sha256": "fe5d8819404e3c6d60cdae025a9484e48f0065894925e0c9cd889e276e9d526e",
+    "after_sha256": "78cec392ce01cd70dace2d5fb27e6a5ac9c4e7e080d38ba4700fd4455be1000a",
+    "ledger": "activations-042.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC95/printed193 full Pluto six-clause row starts Entwicklung einer Gemüts-Gemeinschaft and ends Zusammenschluß von Frauen für eine Entwicklung; cine is damaged eine. Witte130 current paragraph/new reference match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf095.png",
+      "verification/source-repair-review-closure-B2-witte-pdf130.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-sun.md",
+    "before_sha256": "cdae231490e7428cf81d8c33e12739032d60119e1762bd78ede77bff82ed5b90",
+    "after_sha256": "ef6566043c49934a2b58a216bae07194ecad0101992909906b895cd3a7129fe2",
+    "ledger": "activations-042.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC95/printed192 full Sun seven clauses retain personal feelings and folk-art center omitted from baseline. Witte130 actual scan visibly reads Man’s wife with apostrophe; current punctuation repair and added reference match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf095.png",
+      "verification/source-repair-review-closure-B2-witte-pdf130.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-cupido-equals-venus.md",
+    "before_sha256": "d94df417c8604f28e9f25409c4a2cbd3f88fc93379752756c9ba78f2643a276c",
+    "after_sha256": "43192de2fb9effdf4ebb3b903503c6317c0e8f339cbaafeeb16a8d862e2fea21",
+    "ledger": "activations-042.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC95/printed192 full Venus eight clauses contain Kunst and harmonische Gefühls-Gemeinschaft, not kiss or animals. Complete corrected translation and Witte130 current paragraph/new reference match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf095.png",
+      "verification/source-repair-review-closure-B2-witte-pdf130.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-pluto.md",
+    "before_sha256": "8b082b52bf4330fbdb56822d645b48d5649731a0c83f8566a0aab13d935fda39",
+    "after_sha256": "8af824e6494b7042ccc7b3d35dbaed503d33049f99bdd465a0901056c57b75d1",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and full unique owner record read; actual raw complete rows/text/scans personally checked. Actual ABC96/printed195 has seven clauses with Gefühls-Mangel entwickeln, eine Frau/einem Volk; current felony deficiency/cine/cinem remains damaged. Actual Witte131 leading P is the second Pluto glyph and must be removed. Routed to closure editor039; waiting repair and final amended record. Closure follow-up: personally read all newly changed source subentries and original043 record amendments; complete restored7/8/8/8 own-row clauses, Pluto glyph removal, exact new locators and cleared obsolete caveats match the previously personally checked actual ABC96/Witte131 scans. Stable editor decisions120–123 and current hashes rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf096.png",
+      "verification/source-repair-review-closure-B2-witte-pdf131.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-poseidon.md",
+    "before_sha256": "5cf08987996429b8bc968df2649c38d537da40e465dfce2d60ce34aaabae2f6a",
+    "after_sha256": "ebc0d0de65d8bf44eeaaab97f65316f293c5ea2bf3b4b1f22159467b22833404",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and full unique owner record read; actual raw complete rows/text/scans personally checked. Actual ABC96/printed195 eight clauses include Nachteile für Geist und Gemüt and end Vernunft einer Frau durch Verzicht; current mind and mind and woman's gut remain mistranslations. Routed to closure editor039; waiting repair and final amended record. Closure follow-up: personally read all newly changed source subentries and original043 record amendments; complete restored7/8/8/8 own-row clauses, Pluto glyph removal, exact new locators and cleared obsolete caveats match the previously personally checked actual ABC96/Witte131 scans. Stable editor decisions120–123 and current hashes rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf096.png",
+      "verification/source-repair-review-closure-B2-witte-pdf131.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-saturn.md",
+    "before_sha256": "f68a365fde01f20109fd50f5c9e90671413f7d332cc132997911707337243184",
+    "after_sha256": "68b9ddaa405d842aa56bdbfd1cce4863afbf89df77487e9c9e78a4538c90fc05",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and full unique owner record read; actual raw complete rows/text/scans personally checked. Actual ABC96/printed195 eight clauses include Gemüts-Kummer im Alter, Härte einer alten Frau and Hemmungen durch Gefühls-Mangel; current Kummer/hard/Gef'Lihl wording remains damaged. Routed to closure editor039; waiting repair and final amended record. Closure follow-up: personally read all newly changed source subentries and original043 record amendments; complete restored7/8/8/8 own-row clauses, Pluto glyph removal, exact new locators and cleared obsolete caveats match the previously personally checked actual ABC96/Witte131 scans. Stable editor decisions120–123 and current hashes rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf096.png",
+      "verification/source-repair-review-closure-B2-witte-pdf131.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-hades-equals-venus.md",
+    "before_sha256": "208f366831a5c1c8f538419a12412ceddc60b2a1a7d000bcadb5acefe6159937",
+    "after_sha256": "e8afea6a766cca66343eea045084f8ac6928403eef648665179d94e83fd32534",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and full unique owner record read; actual raw complete rows/text/scans personally checked. Actual ABC96/printed194 eight clauses have Kummer durch Gefühls-Mangel and separately Liebes-Kummer einer Frau; current grief through lack of peace and love deficiency mistranslate these. Routed to closure editor039; waiting repair and final amended record. Closure follow-up: personally read all newly changed source subentries and original043 record amendments; complete restored7/8/8/8 own-row clauses, Pluto glyph removal, exact new locators and cleared obsolete caveats match the previously personally checked actual ABC96/Witte131 scans. Stable editor decisions120–123 and current hashes rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf096.png",
+      "verification/source-repair-review-closure-B2-witte-pdf131.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-node.md",
+    "before_sha256": "06893bf88f9e34526284014d35d810ca81afd67a2d9821f79c935f2b20a08d3c",
+    "after_sha256": "263220795656e9906de25de89d98e6e939888036ff257ba1119950ffe0559c04",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC90/printed182 complete seven Node clauses include glückliche Verbindung in der Stunde, not Stuhr. Ebertin0371 actually spans printed123–124/PDF125–126; footnote21 names Pluto0370 explicitly and is properly removed from Node. Full Witte125/printed129 Node, Sandbach30 Node/chapter29 and Munkasey117/printed116 Nod paragraphs/new references independently match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf090.png",
+      "verification/source-repair-review-closure-B2-witte-pdf125.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf125.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf029.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf030.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf117.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf126.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-pluto.md",
+    "before_sha256": "991dcf5c0c77baf90ad63c7a14e9bff24c1e5bcca1604cd56c36ce29ca20f748",
+    "after_sha256": "fcc0df2f468f28bbf08216ff4c9e9147decdd129f0cb6a19719b17a424e3fb0c",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Witte125 alternate P glyph confirmed by actual key28. ABC90/printed183 complete eight Pluto clauses correctly restored from own glyph; Ebertin125/printed123 code0370 and full footnote21 placed here correctly. Full Sandbach30 Pluto/chapter29 and Munkasey117/printed116 Plu paragraphs/new references independently match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf090.png",
+      "verification/source-repair-review-closure-B2-witte-pdf125.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf125.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf029.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf030.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf117.png",
+      "verification/source-repair-review-closure-B2-witte-pdf028.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-jupiter-equals-saturn.md",
+    "before_sha256": "e64a58aa48c7d1d61f5f8411e8b3c6da8e270a4f45be3c53d1e8698422890d90",
+    "after_sha256": "fa77f0a7321812b237900bc56d1953f01686bb45470a77fffc6d370f294dfcf6",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC90/printed183 complete nine Saturn clauses restore mature woman, disturbed maternal happiness and plural losses. Full Witte125/printed129 Saturn, Ebertin125/printed123 code0367, Sandbach30 Saturn/chapter29, Munkasey117/printed116 Sat paragraphs/new references independently match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf090.png",
+      "verification/source-repair-review-closure-B2-witte-pdf125.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf125.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf029.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf030.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf117.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-neptune.md",
+    "before_sha256": "f26293e9b0ddb2fe8890162a2ebc49f6c4c476e84617c5f6f95dccf6c2fef718",
+    "after_sha256": "711ab183a208f6a420298c81005ea40f1f89a1b96736fa96fe2badc9329274ba",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC98/printed199 seven Neptune clauses include Überlegenheit einer Frau im Wasser; no further sport/occupation/medical setting supplied. Current full translation preserves premonitions, foreign standing, weakness, disappointment, sensitivity, future and literal water superiority; Pluto boundary excluded. Witte133 Neptune/new reference matches. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf098.png",
+      "verification/source-repair-review-closure-B2-witte-pdf133.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-pluto.md",
+    "before_sha256": "d3ee309c448a07df8a6991a507f7c09052706a81b11df48027072e5778517165",
+    "after_sha256": "5e7c240d34fcef187e8553824ef525e6ddb84cd9298b5cb4a6fba1cf3decf312",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC98/printed199 full seven Pluto clauses restore development toward independence and emotional clauses, not self indigenous. Witte133 P is alternative Pluto glyph confirmed key28; removal and added references match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf098.png",
+      "verification/source-repair-review-closure-B2-witte-pdf133.png",
+      "verification/source-repair-review-closure-B2-witte-pdf028.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-kronos-equals-zeus.md",
+    "before_sha256": "1d9e73465b64ef3334678cdb8ca40ac9ae617615dfada3de417d4293517e1b4e",
+    "after_sha256": "282170e92d6d58b570b575ecef7cd72d8ae4e80a62c388e792cc4cdfba2cc002",
+    "ledger": "activations-043.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC98/printed199 full seven Zeus clauses give a leading woman's standing, people's particular efforts and achievements, hierarchical/superior leadership, creativity/self-confidence and creative precedence. Witte133 Manager female creative activity matches; all new references verified. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf098.png",
+      "verification/source-repair-review-closure-B2-witte-pdf133.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mars-equals-venus.md",
+    "before_sha256": "0d07dcfaab26c6fcdf5e150d6f452b44939a14a603f3c0a3e66de547a506100b",
+    "after_sha256": "fc290ed7e1b232c74092fe9a9b3e11622193ca92ffd07efa11b02f8a8ae96a57",
+    "ledger": "activations-044.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC89/printed180 full eight Venus clauses read/viewed: harmonische Gefühle aktivieren and schöne Frau, not flowers/gentle. All five added references independently raw-checked: Witte124/128, Ebertin122/120 code0353, Sandbach28 exact Venus/chapter heading, Munkasey113/112 Ven; source paragraphs match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf089.png",
+      "verification/source-repair-review-closure-B2-witte-pdf124.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf122.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf028.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf113.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-node.md",
+    "before_sha256": "e7595ee06f6dbbc13e795030dbd1b0de00ad642fd1c5a28053c345c116bff123",
+    "after_sha256": "c9a9ab6ff5eeaf5d41e7582b1ff859abe2777c5814f8fd3b4921b5e4109fefb9",
+    "ledger": "activations-044.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC31/printed64 full eight Node clauses restore ich fühle mich verbunden and gefühlvolle Seelen-Verbindung. All five added references independently raw-checked: Witte60 Node, Ebertin146/144 code0456, Sandbach41 Node/chapter40, Munkasey145/144 Nod; source paragraphs match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf031.png",
+      "verification/source-repair-review-closure-B2-witte-pdf060.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf146.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf040.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf041.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf145.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-pluto.md",
+    "before_sha256": "4832fb2463d0b4da1f90e2f5c0c22f0d2509613fb6453c8fa83a515cadcb66b7",
+    "after_sha256": "41538b8472901c1766375363e669eedd0cb81715d8999568f136f956de4d6733",
+    "ledger": "activations-044.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual Witte60 full Pluto row begins with two Pluto glyph variants; E is alternate glyph, not prose. Actual ABC31/printed65 full eight Pluto clauses confirm opening Entwicklung meiner Frau. All five new references raw-checked, including Ebertin146/144 code0455, Sandbach41 Pluto/chapter40 and Munkasey145/144 Plu; no other source prose changes. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf031.png",
+      "verification/source-repair-review-closure-B2-witte-pdf060.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf146.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf040.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf041.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf145.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mc-equals-vernal-point.md",
+    "before_sha256": "ef8afafe868cdadf5062956289c168bb795b5470b4283f80a07ecf9f00ff82a3",
+    "after_sha256": "2b1831fcad0a37791752be492d0217ec0714b3c72696e1de8bef5947bdf3b989",
+    "ledger": "activations-044.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual Witte60 scan visibly includes general after world in; current completed sentence exact. Actual ABC31/printed64 complete seven Vernal Point clauses begin Beseelte Stunden and include mein Gefühl in der Öffentlichkeit; current full translation and two added references match. Closure finalization: exact source hash remains identical to personally checked precheck; newly appended owning-record verification/evidence read and stable editor receipt bound. No artificial allowance for closure itself; bank represents only actual baseline-to-current source delta.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf031.png",
+      "verification/source-repair-review-closure-B2-witte-pdf060.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mercury-equals-asc.md",
+    "before_sha256": "c5939866ef4cd829674b25cc03dfe06aaef63299f1cba6e23d2a2c570e130abe",
+    "after_sha256": "62ffc8a6fe5dad77d700be09f9694797f05972cec2f41a7304f9832bbc726fbc",
+    "ledger": "activations-045.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full source baseline/current and unique record read. Actual ABC87/printed176 nine Asc clauses genuinely end Stunde der Medien am Ort; no further interpretive setting is specified. New Witte122 reference, Ebertin printed115 code0336 actualPDF117, Sandbach exactPDF26–27 fully raw-checked; unchanged Munkasey read but not newly certified. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf087.png",
+      "verification/source-repair-review-closure-B2-witte-pdf122.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf117.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf026.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf027.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-mercury-equals-node.md",
+    "before_sha256": "55d53c870f65fe1dc85c5e1b301ff40e4451cf9935894dfef69305344f7d3988",
+    "after_sha256": "7bd00dfe81d07d4cbb4ace1b4a7ad63fb5d7f4b8c3e340ea615d1fea0f7e3c4f",
+    "ledger": "activations-045.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current Source Entries and unique owner record read. Actual ABC87/printed176 seven-clause Node quote matches current; final Stunde der Medien-Verbindung genuinely unspecified. Witte122 and Sandbach26 added refs match. Ebertin0335 begins printed114/PDF116 but completes on printed115/PDF117; current added reference gives114 only. Routed full-span correction to editor before exact-source closure. Stable batch04 follow-up: newly changed source subentry, exact source metadata and complete original045/046/049/051 record amendments personally read. Final source matches prior personally checked full raw passage/scan: complete Ebertin0335 span, seven ABC feeling clauses and alternate Pluto glyph removal, exact an ensouled woman, clean Witte sentence plus unidentified-mark uncertainty. Existing source-native contextual limits remain explicit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf087.png",
+      "verification/source-repair-review-closure-B2-witte-pdf122.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf116.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf117.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf026.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-neptune-equals-pluto.md",
+    "before_sha256": "0a228b8760835dfd6268de6ee4f4ef8c82a2f530f7099f45aab1117f256d6c3d",
+    "after_sha256": "5ebf7d959deb1a88ca2e468b50ecf7f7b832280296e536891b45d92261c28827",
+    "ledger": "activations-046.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and complete owner record read. Actual Witte128 E is the second Pluto glyph; current source still includes it. Actual ABC93/printed189 full seven clauses repeatedly say feelings/emotional changes and a disappointed woman; current main paragraph still substitutes life and has only a corrective note. Needs complete corrected row and glyph removal; editor notified. New Ebertin132/code0406 actualPDF134 and Sandbach35 refs/prose independently match. Stable batch04 follow-up: newly changed source subentry, exact source metadata and complete original045/046/049/051 record amendments personally read. Final source matches prior personally checked full raw passage/scan: complete Ebertin0335 span, seven ABC feeling clauses and alternate Pluto glyph removal, exact an ensouled woman, clean Witte sentence plus unidentified-mark uncertainty. Existing source-native contextual limits remain explicit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf093.png",
+      "verification/source-repair-review-closure-B2-witte-pdf128.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf134.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf035.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-zeus-equals-asc.md",
+    "before_sha256": "bcc4c2f33756afeb06dcda9caddf5f10be8635fc3a8039a1a47bd1fcbbf6a807",
+    "after_sha256": "c53b37fc4aeb9a82f7e54f0f643ac43ef14bf7a7100fb8504dc5033a375b3045",
+    "ledger": "activations-049.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC97/printed196 complete nine Asc clauses/new reference and Witte132 full row/new reference independently match. Umwelt-Leistungen einer Frau genuinely unspecified; current environmental achievements has no added ecological/occupational setting. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf097.png",
+      "verification/source-repair-review-closure-B2-witte-pdf132.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/moon-zeus-equals-mc.md",
+    "before_sha256": "58c5addb3b6237c3fbb4ec608b7edae0c6c9282f54ae0965a8d8bf1c55e9d4d1",
+    "after_sha256": "ba61fea9c50685ec113c94d958586fd85ea98d85de760422aec6602280afad37",
+    "ledger": "activations-049.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read. Actual ABC97/printed196 full MC nine-clause row/scanned first clause says Anstrengungen einer beseelten Frau, current has unsupported my ensouled woman. Literal ensouled language otherwise genuine source limit. Other eight ABC clauses and Witte132 full MC paragraph/newrefs match. Narrow first-clause repair routed editor039. Stable batch04 follow-up: newly changed source subentry, exact source metadata and complete original045/046/049/051 record amendments personally read. Final source matches prior personally checked full raw passage/scan: complete Ebertin0335 span, seven ABC feeling clauses and alternate Pluto glyph removal, exact an ensouled woman, clean Witte sentence plus unidentified-mark uncertainty. Existing source-native contextual limits remain explicit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf097.png",
+      "verification/source-repair-review-closure-B2-witte-pdf132.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-mars.md",
+    "before_sha256": "fa8dfd9dab10a301b522d7eaf728d106ae6cf69f961830614a96c4fc7e16452b",
+    "after_sha256": "11dda9210b66d401bf4e69f89511f7b611c4720d3e4667ceda92837f24c3a087",
+    "ledger": "activations-049.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC200/printed402 complete eight Mars clauses correct Auflösung and Enttäuschung, not autlose/replacement. Fremd-Arbeit is genuinely unspecified outside/foreign work; current literal retention is bounded. Witte252 full Mars paragraph/new reference matches. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf200.png",
+      "verification/source-repair-review-closure-B2-witte-pdf252.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-kronos.md",
+    "before_sha256": "0d92f0f47bd5c5e052239cad675f6aad6c001d479d42b49575e6bd16d18a9079",
+    "after_sha256": "ffaae9345d4fb7644333cfe89f252a6fe62606b8233687e10ad905df35a4ba20",
+    "ledger": "activations-050.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC199/printed401 complete seven Kronos clauses correct Autorität, restore great metaphysical experiences and Vortäuschung von selbständigem Wissen. Feinstoffliche Hierarchie genuinely literal and unexplained; no system inferred. Witte251 full Kronos paragraph/new reference matches. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf199.png",
+      "verification/source-repair-review-closure-B2-witte-pdf251.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-mars.md",
+    "before_sha256": "dc0720a920088dc8a9d7676c31aecc52cd6bc0ac697ce9c867eb388519bd2174",
+    "after_sha256": "e3235bb09bbd145bad7b31de4baf585db71c3c023a2eee1df3b30ae7f86040d6",
+    "ledger": "activations-050.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC199/printed400 full seven Mars clauses give disappointing efforts toward freedom and much water work, not exchangeable freedom emulations/vie!. All current translation/new references match; Witte251 full Mars paragraph matches. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf199.png",
+      "verification/source-repair-review-closure-B2-witte-pdf251.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-apollon.md",
+    "before_sha256": "36ed6b83d0a4db5d950bd6f5532cef74d169ad8ad702147a0eba0b932e9ccbbd",
+    "after_sha256": "e43d1abf5d524fa3edf88ed5a11a72c1ca58c88b9dede1f5b0fa63af566421cc",
+    "ledger": "activations-051.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner record read. Actual ABC198/printed399 seven Apollon clauses/new references match. Actual Witte250 full scan and 4x source-detail crop show a tiny unidentified printed tick after leadership.; current prose transcribes 1' as if legible characters. Routed clean sentence plus explicit unidentified printed-mark note, preserving uncertainty, to editor039. Stable batch04 follow-up: newly changed source subentry, exact source metadata and complete original045/046/049/051 record amendments personally read. Final source matches prior personally checked full raw passage/scan: complete Ebertin0335 span, seven ABC feeling clauses and alternate Pluto glyph removal, exact an ensouled woman, clean Witte sentence plus unidentified-mark uncertainty. Existing source-native contextual limits remain explicit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf198.png",
+      "verification/source-repair-review-closure-B2-witte-pdf250.png",
+      "verification/source-repair-review-closure-B2-witte-pdf250-apollon-detail.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-kronos-equals-mars.md",
+    "before_sha256": "5cadc775882b48478ea7a0cf9d2a1cba61babd3ee8b310b802d02ba69b6b9de1",
+    "after_sha256": "aafbb788dede37a8b5d3e477567e564776a08f22f4fc18015f984a932a4b4c45",
+    "ledger": "activations-051.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC198/printed398 complete eight Mars clauses give Luft-Hoheit (air supremacy), Enttäuschung and Luft-Behörde, not air holiness/exchange/air horde. Current translation and added ABC/Witte250 references match; Witte complete row checked. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf198.png",
+      "verification/source-repair-review-closure-B2-witte-pdf250.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-cupido.md",
+    "before_sha256": "d25acc4b739deb4280b214aaa16d4d3574507f8a51c4af76112d4f38aae24b7b",
+    "after_sha256": "f3db8a90d7416d7714b235f283a6fefc78873a9a0d62fe39614584ab3f195432",
+    "ledger": "activations-052.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC109/printed221 complete six Cupido clauses correct sensitivity/disappointing encounters and contacts dissolved with community. Current translation and Witte147 full Cupido row/new references match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf109.png",
+      "verification/source-repair-review-closure-B2-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-kronos.md",
+    "before_sha256": "5224a4b3ab6e40db85d31aca934654826e55c056a78fd72f4abd68f50eba3ef7",
+    "after_sha256": "d0cfa2f9611816b105a29c516802a784d4a71ee86212b59d71fadbc0343b3cc4",
+    "ledger": "activations-052.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC109/printed221 full seven Kronos clauses begin dissolution of important connection, disappointing state connection and hopeful relations with authorities. Autlosung/authorizations repaired correctly; Witte147 full Kronos row/newrefs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf109.png",
+      "verification/source-repair-review-closure-B2-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-mars.md",
+    "before_sha256": "e2c2d1ad8508cb1706dc5e11557768ace01c77666a9902f8e220e95ac0b7205f",
+    "after_sha256": "b9e2584af438048d76e11572ffb2ad41c96fdddc84fd8005342ab626b35d0682",
+    "ledger": "activations-053.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current five-source section and unique owner read. Actual ABC109/printed220 full seven Mars clauses, Witte147, Ebertin286/printed284 code1015 plus complete footnote63, Sandbach111 chapter/112 exact Mars and Munkasey333/printed332 full Mars paragraph all independently read/viewed. Old numeric35 flag is stale; every added reference and source change matches, hospital claim remains a qualified historical footnote. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf109.png",
+      "verification/source-repair-review-closure-B2-witte-pdf147.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf286.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf111.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf112.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf333.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-node-equals-vulcanus.md",
+    "before_sha256": "48cf0af8b4ff35d253a8b69622cfb664296ea8130b8befc4091fa7734f4337e3",
+    "after_sha256": "73d194c75275aae081aed388ae47faa0f3f847167298eb3c4ad9ce8cb0c2947c",
+    "ledger": "activations-053.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual ABC109/printed221 full six Vulcanus clauses correct enttäuschender Einfluß and retain feinstoffliche Energien without a mechanism. Witte147 full Vulcanus paragraph/new reference matches; no detiiiuscling remains. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf109.png",
+      "verification/source-repair-review-closure-B2-witte-pdf147.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-mc.md",
+    "before_sha256": "b8b13d263a0950c07db61e00c8c91126e1ef68c695c000c97425ae4288be400c",
+    "after_sha256": "eba0a8725599bc806b53a1fb3f9e2aa81897349fac684bada82ddb8f5d39713f",
+    "ledger": "activations-053.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete five-source before/current section and owner record read. Actual ABC194/printed390 eight MC clauses correct pretence, creeping changes and future development. All addedrefs raw-checked: Witte246 full MC, Ebertin284/printed282 code1009, Sandbach111 MC/chapter110 and Munkasey329/printed328 MC; current paragraphs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf194.png",
+      "verification/source-repair-review-closure-B2-witte-pdf246.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf284.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf110.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf111.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-pluto-equals-mercury.md",
+    "before_sha256": "9edeaf46743a535bcf20ade6a392d0697f6a25c79e2ab64fa0595ea228386121",
+    "after_sha256": "20923e6a202ef79e9baba78d39b15142bf4695d6552ba5b6e8f89e3ece858894",
+    "ledger": "activations-053.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete five-source sections and owner read. Actual ABC194/printed390 seven Mercury clauses say water change, not world change. Actual Sandbach110 visibly has smaller isolated 3 Highlighters- between on and other people; current separated artifact note is faithful without doctrine. Witte246, Ebertin283/printed281 code1001, Sandbach110 exact Mercury/chapter and Munkasey329/printed328 Mer all newrefs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf194.png",
+      "verification/source-repair-review-closure-B2-witte-pdf246.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf283.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf110.png",
+      "verification/source-repair-review-closure-B2-munkasey-pdf329.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-poseidon-equals-cupido.md",
+    "before_sha256": "ec747ac7018a44857d75540cbab7a56ee6ec586cfdcbde98b2d1bb5af88cda05",
+    "after_sha256": "f6fa00c06fd659daa7ad2205ae938ac4c317e18cb1981e3e777542142a675d28",
+    "ledger": "activations-053.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Actual Witte254 Cupido scan visibly prints occur interests; current exact wording note properly preserves uncertain intended word without substituting occult. Actual ABC202/printed407 complete seven Cupido clauses and corrected refined mental community/water/clarity/reason associations match. All changed blocks/newrefs independently checked. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf202.png",
+      "verification/source-repair-review-closure-B2-witte-pdf254.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-poseidon-equals-mc.md",
+    "before_sha256": "087e2b8c94e48cd105029863e7a52090c8a295700d919b8648a94683032ce024",
+    "after_sha256": "e208476447e5a17aeb64b4c6c46ceaf422806a373128c1c4a98663277e75fcde",
+    "ledger": "activations-054.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC202/printed406 full nine MC clauses restore Beseelte Zukunfts-Einsichten, foreign mind, water insights, geistige Zukunft, unknown ideas, intuitive clarity, weak reason and refined soul-culture/insights. Current complete translation/newrefs and Witte254 exact MC row match; Zukuntl debris removed. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf202.png",
+      "verification/source-repair-review-closure-B2-witte-pdf254.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-vulcanus-equals-mc.md",
+    "before_sha256": "7999a86d8c2116aae6ba8ef2466322d5c67b3de21541c7699aa7383c1d7fc6aa",
+    "after_sha256": "fa6b3df8310da37bc8595c25eca63a0017ff6fb78586e156f496c223c6d39289",
+    "ledger": "activations-054.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC201/printed404 complete ten MC clauses checked, including ich löse Energien aus oder auf, rejection of violence, breathing strength and unknown influence. Current complete translation matches, unexplained energy/soul strength remains qualified. Witte253 MC full paragraph/newrefs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf201.png",
+      "verification/source-repair-review-closure-B2-witte-pdf253.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/neptune-zeus-equals-moon.md",
+    "before_sha256": "1cf8a049ee5c2f174d99f074df54b89b8f6566848ca03daf7e99620bcc162e20",
+    "after_sha256": "eb1f67fc23fb1e158714a498e90dc65e583905b75b49804e9cc7d0419e025d22",
+    "ledger": "activations-054.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC197/printed396 full seven Moon clauses correctly restore Gefühls-Schwäche, disappointing achievements, creative sensitivity and verfeinertes Gefühls-Streben; Witte249 exact Moon paragraph and both newrefs independently match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf197.png",
+      "verification/source-repair-review-closure-B2-witte-pdf249.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-admetos-equals-moon.md",
+    "before_sha256": "9e663feafc8b3b1dad3d7ec77cd7255dd6eda998aab28dbaf0821ed5b5e19257",
+    "after_sha256": "90d74fb56c17d6d4577882d2bc98eec5e2bc28aabd5fd08bab7ec4f678830367",
+    "ledger": "activations-055.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC116/printed234 complete seven Moon clauses restore firm connection, emotional blockade, gründliche Frau and final deepening emotional relationships, rather than Y/Getuhls/great and omitted final clause. Witte154 full Moon paragraph/newrefs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf116.png",
+      "verification/source-repair-review-closure-B2-witte-pdf154.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-admetos-equals-saturn.md",
+    "before_sha256": "5a7753b5af64eecfe084f630e80cafd727490052fecb44ba2de54d1cb27df2f6",
+    "after_sha256": "232f102dca38a964e4bf47271a45dd02e09c4884dcd9581f9a5fb9b91eefcf1c",
+    "ledger": "activations-055.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: ABC116/printed235 complete own Saturn six-clause glyph row checked; baseline had Uranus material. Current enduring tasks, ending problems, serious contacts, concentration, painful Depressionen and loss-bearing restriction match. Depressionen genuinely unspecified clinical/economic sense, qualification preserved. Witte154 Saturn row/newrefs match. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf116.png",
+      "verification/source-repair-review-closure-B2-witte-pdf154.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-asc-equals-vulcanus.md",
+    "before_sha256": "69e7795f560dcf37079aa4139b60d5ae4232eb0a70856064801ce018171a1257",
+    "after_sha256": "7b39fdfd062ed2d8835672a3c0d3f146fef9cbe86571ed70f3c34ec28ecfecea",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Original flags, complete before/current source sections and full unique owner record read; actual raw text and glyph scan personally checked. Actual ABC51/printed105 full seven Vulcanus clauses first Einflußreiche Beziehungen zum Partner means influential relationships; current Influenced relationships still mistranslates. Witte82 exact row matches. Precise repair routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf051.png",
+      "verification/source-repair-review-closure-B2-witte-pdf082.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-admetos.md",
+    "before_sha256": "9e3ff4bcaba00aa23c6ab68a470ecbbd53bf0a70f8f5b2c86ac443c3adef4c0a",
+    "after_sha256": "62fb90e4cce7e8692104798aabd3554bb791e79562b39535969ca22d0e61968b",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Admetos clauses match: enduring connection, block to whole, end of shared relationship, strengthened shared contacts, thorough relationships and restricted community contacts. External-link mistranslation removed. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-asc.md",
+    "before_sha256": "329eb3e5a3cb09ef42b1249e10ab8084d65d42bb59951b3e2f3f40b6fd532a7a",
+    "after_sha256": "f5229d760eaffd64dcecc280a75f7fbac6277d04e1e51589f95e521161446e6b",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete seven ABC Asc clauses restore encounters with other artists, local/community/partner links and native Umwelt-Vermittlungs-Gemeinschaft; generic other persons no longer replaces artists. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-hades.md",
+    "before_sha256": "1163bc18feb84f97598fb5462f4bf23c15b5b4e72043a1d7c93c7f4289dacb11",
+    "after_sha256": "d486ea2175e34b30877cd5c36621f365c9b11aefa326043b9b2c85937adb1694",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Hades clauses restore secret community connection and community in need, with dangerous/adverse/past/criminal associations retained; secret T artifact removed. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-kronos.md",
+    "before_sha256": "6c6e8552a333aac59976e508dbf306fe130a170f464ea5c2e2297ebde9fe4153",
+    "after_sha256": "4931aecc2bfc5a47299ed98f7a97610434b5683788d32ce282c21192faf1ce35",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Kronos clauses give independent communities, distinguished/state/leading/artists' associations and whole connections; self-defense mistranslation removed. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mars.md",
+    "before_sha256": "58cae3ecbed69e7ff5ab112d28787b97c8d326eac4a025eee39fc04541405745",
+    "after_sha256": "6864871ed56454d769d7288e01a868aa37a628b2fb6b1e1a14034ea5c869c3ac",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Mars clauses restore actions connecting the whole, shared actions, Arbeits-Vermittlung employment placement, artistic community and two art clauses; neither work transit nor artist substitution remains. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mc.md",
+    "before_sha256": "0af771d260bd5512d149d70727ef82d362a95db02e25fcfa042e12d178e0d49f",
+    "after_sha256": "19b37ec34a877ce6ddf023818bd1e4985fef02087135ae29a2879dc46292c43c",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete seven ABC MC clauses restore personal community/whole/art attachment, inward connection with art, inner community contacts and two community-of-souls/soul-of-community clauses; scelic/speleen debris removed. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-mercury.md",
+    "before_sha256": "00c14516142e4b45f3c9d7edc99736fc93fdda05ee73acce6f7f3f61a9d0ddb3",
+    "after_sha256": "1b9cb1f397e0b4cb0373ccda3bfe27f155aa8ebcf12a0a9e942485e530b869f0",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete seven ABC Mercury clauses restore youth/transport/shared conversations, art media, people's opinions, news links for a community and youth community; eine correctly replaces false cinema. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-neptune.md",
+    "before_sha256": "6ffac4b24f3a48cd7a7a2b9e9fd2f3b44d4b3ff880e67760f63a687eca9544b6",
+    "after_sha256": "d9717c4fc69c3d10a07d00af87add8be12141b14369bb1335f1e155798464a9a",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Neptune clauses end at uncertainty in a shared relationship. Sensitivity in artists' community, air/water/metaphysical associations retained; following community-changing encounter correctly excluded as Pluto. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-pluto.md",
+    "before_sha256": "3190b66a522db748b4f449cd4eae76b92f9e674f118de0438334d6cb9605dc8f",
+    "after_sha256": "ebb3fe578080ebccecb9886c5c15a881b0b334ac4e0f6d856c6c87747d68d50a",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete five ABC Pluto clauses start at own glyph with encounter changing a community and developing relations, followed by changed relations/growing/changing connections. Witte149 second Pluto glyph P correctly removed and added exact Witte reference checked. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-saturn.md",
+    "before_sha256": "f17887d22010f7acf31295b3b169b0d4df0b6ae83356d4837b93274fb859d11e",
+    "after_sha256": "1f34c15e5868d5860bc3fdadbff8a78f0a01351add0478dd4e40f5863f174ed6",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Saturn clauses retain burdensome linkage, patient encounter, concentration, problematic ties, separation and serious art. Contamination and serious artist mistranslations removed. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-sun.md",
+    "before_sha256": "2c7a8d2759b2ecd90b662b84eae62c54f887c4139d388c599f5d76da9a2e0d7f",
+    "after_sha256": "d0e53c51faa7dc90f7316aa9906ac9ad5af54a969c5b203d1a6326409da94c7a",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Sun clauses restore whole human being, men's-community encounter, art-center contact, person mediation, personal art relations and community of people; repeated men's community no longer replaces omitted clauses. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-uranus.md",
+    "before_sha256": "97e5ffbbacb3848f68a0de9f56539d4ab497f36a89228a67961c391bd3263fd7",
+    "after_sha256": "908f1511f825a494a76572069237ff888949a5afac37c535f9b96acb34dc693f",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Uranus clauses match, including actually printed shared relationships in old age, technology, new relations, artists' tension and connecting impulses. Witte149 alternate Uranus glyph correctly removed from prose and exact new Witte reference checked. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-vernal-point.md",
+    "before_sha256": "6389b7c042958fb41cb698b19c2a713d6a23af5de5f94ca6b4f95daabe7b52cd",
+    "after_sha256": "418d5ad9970e8b163a549754210bc4d769e6c16b5d55b80832cc12a8516b5925",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Vernal Point clauses restore public shared/artists' relations, public life, whole world and both world-community clauses rather than repeated public-sphere debris. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-cupido-equals-zeus.md",
+    "before_sha256": "f49fcd2f4c991999bcd4a85676322ce1edf4fcee20a42331de2107067f65be75",
+    "after_sha256": "e8a6f4485a3d7d848e498cac6b9b02d943dad84fd3b3c8ce4c810cfb4d62d2ea",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Read every original flag, complete baseline/current Source Entries, full final unique amended056 owner record and stable closure receipt. Personally read actual complete ABC111/printed224–225 and Witte149 passages and viewed both full glyph scans; all changed source blocks and added references checked. Complete six ABC Zeus clauses restore shared effort, goal-striving, creative community, native Leistungs-Vermittlung, procreative community and goal-directed contacts. Leistungs-Vermittlung genuinely lacks a specified performance/service/achievement setting; native compound and owner-record contextual limit retained. Retained Witte paragraph matches exact orientation; no sibling doctrine imported.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf111.png",
+      "verification/source-repair-review-closure-B2-witte-pdf149.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-admetos.md",
+    "before_sha256": "87f50c0ec2ea0a9a8d81ceef813411dcff3e34f7f040e1afa8caa25b0e5c30d8",
+    "after_sha256": "7779c586074c5d9cf2b85b628d2c58b7f60d349e42d48e1e7ccffe75a417de6a",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 six clauses: second ending a connection from past, sixth thorough relations in need; Y/grtind damage remains. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-cupido.md",
+    "before_sha256": "01b8fa9e0d6a121cc37359990eb60ba390a87147091eb67caf0e4f6b889a034b",
+    "after_sha256": "ff9e884d4137fe3bb9f1088046028606bc754287a88487c6817e5828737429f9",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 six clauses: second secret connection with a community; Gehcim remains damaged. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-kronos.md",
+    "before_sha256": "092713658411bf0ee39775373848b0f03253ac2f7fa2798de2cdce70650cbe86",
+    "after_sha256": "821dbae3537ef3c7e28e336d421c21ec43753549ceef7c8e15d531bcc1146d82",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 six clauses: fourth inadequate independence of a connection, Y token remains. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-mc.md",
+    "before_sha256": "2b0a608a682342720170ab57ec360e3e132d51862a6aa045b2cee8ab4f709a36",
+    "after_sha256": "f03c4488a134bd168550177dfac0fe2d340b3238527e1f4fe5fedb18cb83393e",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/226 seven clauses need soul connection, my privations, secret connection, disadvantages, tradition, soul relationships in need, soul distress; multiple mistranslations remain. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-moon.md",
+    "before_sha256": "9333a2596dc0a3d6ae312fc0a2bfa31fb8270a0b38dab8b25f855413a03ac049",
+    "after_sha256": "2137e299e963680200edcbecf6f21c31c3f802a9c1ca1821c4eabe24a9fa0b79",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/226 seven clauses need hidden feelings, emotional lack and emotional connection with past in clauses2–4; feelings omitted. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-neptune.md",
+    "before_sha256": "bd2c7c1c34fb310712a8da1bdf217dbad81138bec2105e190a852a53d82fb753",
+    "after_sha256": "195926486a83a9cdc215837bd0db7fd783d1c3aaf15ccf7abc02974a11ddfdd2",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source and complete amended056:36 record read. Existing independently raw-verified targeted12 repair unchanged: actualABC112/227 all seven Neptune clauses match preserved German plus translation; Witte150 exact complete row matches. Verneinung ambiguity denial versus rejection explicitly preserved. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-pluto.md",
+    "before_sha256": "abb1b72b4775c4010870580e2e27a6f4be14a3f4399de86a99ba4fe4c831a69f",
+    "after_sha256": "cb0d2126f914a4b75f6059698fd334cf875d8e535d5ebc01cd0ba3b5d8a30da6",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 six clauses: fourth develop hidden contacts, hidden omitted. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-poseidon.md",
+    "before_sha256": "e7d4a6b4f2e0fe90a11d375cb0b22600372527f7ee428d9356312d1368051ad6",
+    "after_sha256": "0e198dc425a6a64901e0af1a114f4423ca2fdfeb7919a68158a1941698e33494",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 seven clauses: spiritual hardship in connection, Y token remains. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-venus.md",
+    "before_sha256": "df447154ac2b28f6baf55f36586d055090d69c3829a9bcc09c1b40de58030f31",
+    "after_sha256": "8c4488501df29c9ee01bba34e73a508e3483b5b858ee942b425da864b7b087a7",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/226 six clauses need harmony developing in secret, criminal love connection, inadequate peace mediation, connection with art of past; damaged Y/artist wording remains. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-vulcanus.md",
+    "before_sha256": "bdec8521b2ec2e941b6c4ef343dfcd118859173de25179b01332ade0e778780d",
+    "after_sha256": "47a0b9b2e967f9481876811732bc820d481d81881c611af79625c745c953c5c7",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 seven clauses: fifth/seventh criminal violence and strong privations in a connection, not release. Witte matches. Routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-hades-equals-zeus.md",
+    "before_sha256": "addd93df8afde74a807358905dfd042e43db4572d7b55edb514eb6b7c01cf537",
+    "after_sha256": "0810448a5c3486cf554ab9a37366a598a57263d122351865f0cdc23f05c3e94c",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique original owner record read. Complete raw ABC112/Witte150 previously personally checked and exact flagged clauses compared. ABC112/227 seven clauses: fifth Verzicht auf Zeugungs-Verbindung=forgoing procreation connection, not insists. Witte matches. Routed editor039. Follow-up13 repaired six clauses correctly; first new English plural fire connections differs from singular actual Gefährliche Feuer-Verbindung, narrowly routed factorworker for singular alignment before binding. Final singular correction saved: independently read the sole changed first clause A dangerous fire connection and amended original056/receipt field; other six previously checked clauses unchanged. Actual singular raw phrase now matches. Current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf112.png",
+      "verification/source-repair-review-closure-B2-witte-pdf150.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-kronos-equals-apollon.md",
+    "before_sha256": "f4440ffcf473b1e59fa0fe5f8b7123be043c2834477059f41bb08959b4bd230c",
+    "after_sha256": "6b543c8a0b336c2a25a1da79939a1c27bcbca22380b6fbf01e3e8e6d82396d9f",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Original flags, complete before/current source sections and full unique owner record read; actual raw text and glyph scan personally checked. Actual ABC114/printed231 complete seven Apollon clauses fourth mit Führenden erfolgreich verbunden means successfully connected with leaders; current fillends is still garbled. Successful procreation connection is genuinely in this row, not boundary contamination. Witte152 matches. Precise repair routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf114.png",
+      "verification/source-repair-review-closure-B2-witte-pdf152.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-kronos-equals-hades.md",
+    "before_sha256": "2c699460795886c50226abb07af2c46c340e3e44989da8dda5ce02cf088b1fde",
+    "after_sha256": "39dc4e97e2230c88cf741059e7e763472c55958bb6988e6a8cb75d983cadd11b",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Original flags, complete before/current source sections and full unique owner record read; actual raw text and glyph scan personally checked. Actual ABC114/printed231 complete seven Hades clauses first Auf eine besondere Verbindung verzichten means forgo a special tie; current Doing away with kine remains damaged. Fifth mangelnde Autorität bei Begegnungen means lack of authority, not authorization. Witte152 matches. Precise repair routed editor039. Closure follow-up: newly repaired complete ABC own-row translation and exact printed/PDF reference personally compared to the previously checked full raw scan; new original056 record amendments read in full, obsolete caveats cleared with historical evidence labeled. Stable split-editor batch01 exact source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf114.png",
+      "verification/source-repair-review-closure-B2-witte-pdf152.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/node-kronos-equals-mars.md",
+    "before_sha256": "c597770b0167022e9fb50057af2259c67343181d4e1ba8066c98a07acc35362e",
+    "after_sha256": "107833aadda0bf93de1de4cde71ff7553dd5fd2938c2428255b028b5da63859e",
+    "ledger": "activations-056.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete baseline/current source sections and original unique record read. Actual ABC114/printed230 complete six Mars clauses correct self-confident will/activity, state employment mediation and establishing state connections. Witte152 full Mars row and both addedreferences match; V binding artifact no longer remains. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf114.png",
+      "verification/source-repair-review-closure-B2-witte-pdf152.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-moon.md",
+    "before_sha256": "59c0a37cdf56006edbbc418648c7d061e09b57c591bb090e76d356637735134e",
+    "after_sha256": "6456b760f78df217c43c1e562f01d70da71fab2ecc2f40091f0e0f7fcb2ccfb2",
+    "ledger": "activations-059.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and complete unique owner record read. Actual ABC208/printed418 full seven Moon clauses and Witte262 match corrected emotional-development/depression meanings; obsolete animals/grild flags cleared. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf208.png",
+      "verification/source-repair-review-closure-B2-witte-pdf262.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-admetos-equals-neptune.md",
+    "before_sha256": "ee485e83c652ce0d13119cf7a4fa7fc523e98451adc34b3276b6d46593a2edf6",
+    "after_sha256": "1407e8bfd6b95528fabfc622c4ef646e136e04460da61d84c48e0e15e140dfd3",
+    "ledger": "activations-059.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and complete unique owner record read. Actual ABC208/printed419 full six Neptune clauses end solid/liquid transition, correctly exclude following Pluto see-above; Witte262 matches. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf208.png",
+      "verification/source-repair-review-closure-B2-witte-pdf262.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-moon.md",
+    "before_sha256": "65c1e3bdf3514f9fb5459fced9303bc3c90c5d701d1e6e53f977cc68bbab4b11",
+    "after_sha256": "b70260919e87274b47795ff382e7faee49b2518e258759fa1469cd29ace9e726",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. ABC59/120 seven Moon clauses: current third/fourth drop partner feelings, last changes through other women. Sandbach exact116 entry now locatable. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf297.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf116.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-neptune.md",
+    "before_sha256": "d386efd134b2c35cb293796efdf7058ef7ab363f5c6951026be9e9e9b339cbd6",
+    "after_sha256": "28c95226c9a48cc58689a7c2091f3db5afa773d9197dcbe5c547e407454437cb",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. ABC59/121 seven Neptune clauses: current drops disappointing/sensitivity/metaphysics and includes following Pluto see-above. Sandbach exact117, chapter116. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf297.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf116.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+    "before_sha256": "bf4d13d65fb073dde7ebca8e572bcf8c43bec99672e7d9f172c35924fdcf773d",
+    "after_sha256": "95fc758142fc96713fdcf00b77518839a97b63d575091728a870a11e1b175264",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. ABC59/121 eight Poseidon clauses: current future partner change mistranslates vernünftiger (reasonable). Actual Witte90 Waves printed, genuine ambiguity retained. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-sun.md",
+    "before_sha256": "110d628b80b69da914249ea414151543ec7792051d46b706475e2ab1c483d66b",
+    "after_sha256": "ef8da438232e3691bf834e3ac92a4d6b36aab1af5f83e02983277de522f90ccf",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. Source prose matches actual ABC59/Witte90/Ebertin297. Sandbach exact Sun entry PDF116 available; chapter-only flag needs precise locator and amended owner record. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf297.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf116.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-uranus.md",
+    "before_sha256": "0587cb1887f40889537399b76e708c88bdc0de38d48e71d7ece5db521fa0216a",
+    "after_sha256": "a64fd1f624382118a9e72e8ae015fc43ace244d52af57b633a3afd80867e13f8",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. Source prose matches actual ABC59/Witte90/Ebertin297. Sandbach exact Uranus entry PDF117/chapter116 available; chapter-only flag needs precise locator and amended owner record. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf297.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf116.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf117.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+    "before_sha256": "4022515d07cfcedb24381c9909ea31989a95b0fe85810d9b2f11e1c835277ea1",
+    "after_sha256": "190187250709cc81d5a82223768a19ab0b8f49a399dccfd51eac36bef5ce6c66",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Complete before/current source sections and unique owner record read; personally checked full raw passages and scans. ABC59/120 seven Vernal Point clauses: current eins/an public places damaged; actual changes at public places. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf059.png",
+      "verification/source-repair-review-closure-B2-witte-pdf090.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-hades.md",
+    "before_sha256": "c0ab825f8c1338f241c55355a4e7f9f4ccfe587b9d4fdf564b13bf8490841496",
+    "after_sha256": "fee364c72ffa9df8ede3d60334fab469cdae2ecedb8d41fa733045ec45fa6f02",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current sources and unique owner read. Actual ABC203/409 all five Hades clauses match preserved German and translation; unrelated economic cohesion artifact fully removed. Witte257 matches. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+    "before_sha256": "96c1afb3916bbc915b23cf76864232f76b404e66fc2f2bd834154e69b68c4e61",
+    "after_sha256": "d5cf0566fca6245e16d415c0fb8bd6f44fefc20a6affa69b0c5c58e3087c4c4e",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/409 sixth Selbstbewußtsein means self-confidence, not self-sufficiency. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-mars.md",
+    "before_sha256": "65ce3c2489e0ea80def67249c99045c8aa259db0cfa6c0afe082e98457811942",
+    "after_sha256": "c1d6f38dc512bbc9e7c4a83243f9c92b4fd30652f772ec20458db1172f2ca25f",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/408 seven Mars work-community clauses include Kunst gemeinsam entwickeln, omitted artistic clause. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-mc.md",
+    "before_sha256": "f03202f8af31be7fe6c42180f4a42bd9d4a9f82035b88fadc5ae8b7ce9a08b03",
+    "after_sha256": "92857e7da65e379d3dc89e8d385886194337303a0e5d515f50a449ed3bff203a",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/408 seven MC clauses include ich verändere eine Gemeinschaft and meine künstlerische Entwicklung; garbled I old age and missing personal art remain. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-moon.md",
+    "before_sha256": "325bdcd9de16fc21cf229908101d5201627c6fad78546f3bd3f35a48cc3c49a8",
+    "after_sha256": "c4788e3287651767f34f0e4f5f3774c5e335e39253c034113434e872faa411b1",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/408 seven Moon clauses require joint emotional development and develop community feeling; present prose drops feelings. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+    "before_sha256": "e8fa13e35c48a9ef542c08b32fe463a85847320f933df3606915cbe0b59dec2c",
+    "after_sha256": "83524d1063596491ca2f288f35f9b28b224b428d7a991dbd44ca775f84e4ef2c",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/409 six Neptune clauses begin disappointing developments, not exchangeable; see-above belongs following Pluto/Cupido row. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+    "before_sha256": "7bffddf38d7b4c3173386fd5cb039db48d3eb6c3107e44a9b8fcbb9317757628",
+    "after_sha256": "15fac192a4249ecf57acf3d2bf87f3f6b92a9d98ea39b44c7696a95fdfe34e15",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/409 six Uranus clauses unruhige=restless and wachsende Reformen=growing reforms, not restorative/retrenchments. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-venus.md",
+    "before_sha256": "03db9b26addc9e1fa7009a149b1ace19a0cd6c239f118107e4a7d94420eda062",
+    "after_sha256": "df6d09febbc4a9c1c21f4c8cb2aee3d432271046abec3f96edd1ad1cafcf62fe",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/408 six Venus clauses gemeinsame Kunst-Entwicklung=joint artistic development, not artificial. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+    "before_sha256": "f23ae0a4fb1086b5eda6f53fef033178879a7eeb8b54845632423d7028fd0d80",
+    "after_sha256": "df0d2298a609063681720bf543cace43babb399648cbbffa2e3e073cff0d12fd",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/408 five VP clauses require public whole development/shared changes/art development/public community change/interconnected public changes; damaged public tokens remain. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+    "before_sha256": "d55b7649af9efe337c9bb18aecffddbe695a2fc1ef7f7811b42481bdeaad8ab1",
+    "after_sha256": "24e8a54bbd11b54ee0ac986ab6c12f06fbec602f3ab027bab51c37ff99f0df99",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC203/409 six Zeus clauses include strenuous development, leading artistic developments and founding development community; industrial mistranslation and omitted meanings remain. Witte257 matches. Routed editor039. Stable batch02 follow-up: personally read every newly changed source subentry and complete original060 record amendment; restored complete own-row clauses and exact new Sandbach116/117 references match previously personally checked raw ABC59/203, Witte90/257, Ebertin297 and Sandbach116/117. Obsolete caveats cleared; Waves retains explicit genuine undefined source limit. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf203.png",
+      "verification/source-repair-review-closure-B2-witte-pdf257.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-admetos.md",
+    "before_sha256": "69cabcae22eb31b1efdb534bdeaa1235270751ad8e02d28b1d48d1ed0bb1b191",
+    "after_sha256": "7b31c820bee85dc0ebe8a90a15df255a22cff9bd81510609cc92b23c05922076",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/411 fifth gründliche Veränderungen im Alter=thorough changes in old age, not grild. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-apollon.md",
+    "before_sha256": "dc0b5ca3936a78ce33387052363a240331645cc9de7a551ba17c4c8aa17e342c",
+    "after_sha256": "38a97aed7ecb178f407a32920228477c1e5d04f8dea8cdbbde7bf55ad350a201",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/411 fifth viel Veränderungen= many changes under privations; vie! remains damaged. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-asc.md",
+    "before_sha256": "345a42046c093f0bf2c7bb058c5ad393e17c9c169f078e74129653745cf256a1",
+    "after_sha256": "d832d6f308552593f0a0bd631dafb762762276205dd1f6d2f06f67a010fc36de",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/410 sixth verborgene Veränderung beim Partner=hidden change in partner, not changing partner. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-mc.md",
+    "before_sha256": "05fc00406b29513f58065838e73f8d1191250a0d89dc4d1f4b39ab54f07dbdf2",
+    "after_sha256": "59b2604818ffe2e5dafb76820b9fd47fafee00d2f64817feedc1fb45ce1a0e8d",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/410 eighth verborgenes Seelen-Wachstum=hidden soul growth, not soul en. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-neptune.md",
+    "before_sha256": "39f8198ae90e399a7af157ce75dc122138822df5acb7a57aca717c33966bba2a",
+    "after_sha256": "d77fbcca92eb234746b4d0d104628244c4d289e18cc7d20e40b794990d6b894d",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/411 own seven Neptune clauses start risk of deception, fourth change dirty water, seventh growing risk of weakness; current damage and following Pluto see-above remain. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+    "before_sha256": "ba5548b45aa3000c4170d7996f4d974fd801bb3e635938ca737932c230e4e36c",
+    "after_sha256": "808b8de1a1637c5caff37dff5c4e56adff831deaad162dea7d8f6ba993221605",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/410 third verborgene Wandlungen im öffentlichen Leben=hidden public transformations, not major. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+    "before_sha256": "e655812292a180b471217115dfb48015478b5b7ed59d7cf5fb970d7456e587cb",
+    "after_sha256": "75a7a29f09f638757ac8c309fcf774834ac6da97cf8b76b567e050c35437000e",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. Actual Witte258 visibly prints A misfortune rarely comes along. Genuine source idiom limit must remain qualified. ABC204/411 first Einflußreiche=influential, not influenced. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-hades-equals-zeus.md",
+    "before_sha256": "d652b9292cec8bd6fe44cf17db15c123a748c06f0a53ba439d23eeabf5e42098",
+    "after_sha256": "9f2e8256444087e09bcb093c4417132a08c49b02f04231a146128a5e1b682491",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read; actual complete raw text and scans personally checked. ABC204/411 third kriminelle Entwicklungen in der Führung=criminal developments in leadership, not financial system. Other Witte source prose matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf204.png",
+      "verification/source-repair-review-closure-B2-witte-pdf258.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+    "before_sha256": "4897c63248ed05332c2fe1e6a3869e41f3277ceb664371aaa92b291e2b3b99d6",
+    "after_sha256": "206eaaf7288cd35eb849a87252bcf38be9f044fa391a00364868e1df60f86abb",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw and scans personally checked. ABC206/415 six clauses need thorough development/changes and independence; grim/self-governingness/self-glorification/grilnd remain damaged. Witte260 matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf206.png",
+      "verification/source-repair-review-closure-B2-witte-pdf260.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+    "before_sha256": "626f0b743c9ecc3a2c4e0747f46c5dec5fda50c2742311335b05789dd25c59c9",
+    "after_sha256": "0a927e172c4c1a0be9d6ff904ed6944f299c436b37b58bc5f28c20c3d9f7d26c",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw and scans personally checked. ABC206/415 seven clauses need authority development, independent knowledge development and self-confidence; authoritarian/self-existence mistranslations remain. Witte260 matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf206.png",
+      "verification/source-repair-review-closure-B2-witte-pdf260.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-kronos-equals-asc.md",
+    "before_sha256": "655c5aebdd3f9ed1ec45d91aab4049e81b5ef4af66426d7701b824e9e0e4a476",
+    "after_sha256": "9fd65bcdfb3b280f531565ef1afd469648f2a84e42552d1c80cad1e35b76f3ed",
+    "ledger": "activations-060.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current source sections and unique owner read; actual complete raw and scans personally checked. ABC206/414 sixth wachsende Autorität des Partners= growing partner authority, not authorship. Full seven clauses checked. Witte260 matches. Routed editor039. Stable batch03 follow-up: personally read every changed complete ABC subentry and original060 record amendment; all own-row clauses/new source metadata match previously personally checked actual ABC204/206 and Witte258/260. Neptune cross-reference boundary removed; authority/independence/hidden change restored. Actual Witte misfortune comes along remains verbatim with explicitly genuine unresolved idiom. Exact current source/uniqueowner/receipt/proof rebound.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf206.png",
+      "verification/source-repair-review-closure-B2-witte-pdf260.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/pluto-poseidon-equals-moon.md",
+    "before_sha256": "f6513e38aa88f24f0885a277089c989d184ac63909dfc23a0fe28637185dda83",
+    "after_sha256": "15082b53e0851b946ee751012e2f57dccb4439dbf32a75d0d64ba9bb3d9eff93",
+    "ledger": "activations-062.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full before/current source sections and unique owner read. Actual ABC210/422 eight recovered Moon clauses match. Witte264/268 visibly prints metal (psychic), a genuine source typo rather than extraction damage; preserve and explicitly qualify this printed-word limitation. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf210.png",
+      "verification/source-repair-review-closure-B2-witte-pdf264.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/saturn-hades-equals-uranus.md",
+    "before_sha256": "afa47e5c3962881819ed7db9f2309e61b475affa3eaacbd435f8100fe8390fae",
+    "after_sha256": "b07fa0cf31d65a7dc85fad984e843716f0591399ad8879ad9ef52ac0a44208ae",
+    "ledger": "activations-066.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current sources and unique owning record read. Actual ABC177/357 full six Uranus clauses match repaired technical secrets, disturbed rhythm, sudden separation and burdensome past; Witte225 actual two Uranus glyphs correctly excluded from full two-sentence source prose. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf177.png",
+      "verification/source-repair-review-closure-B2-witte-pdf225.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/saturn-kronos-equals-venus.md",
+    "before_sha256": "5706a1a74bfc23b51c2307561282168566fe375c424aa6ced80256e758722d54",
+    "after_sha256": "b1810795c4eff1660e57058d1a14fc73fbd9909fcf004b35b9c5eae5d43be262",
+    "ledger": "activations-066.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current sources and unique owning record read. Actual ABC179/360 full eight Venus clauses match restored great lovesickness/art/problems of great love; Witte227 complete Venus row matches. Flags partly describe separate orientations and create no additional doctrine here. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf179.png",
+      "verification/source-repair-review-closure-B2-witte-pdf227.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-moon.md",
+    "before_sha256": "31d896ee64688f43e8900ab828dc577c497f482c9ca30d667d6a144c3c10e2fe",
+    "after_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+    "ledger": "activations-066.jsonl",
+    "reason": "Final approval: current normalized Source Entries, unique original owner record, stable editor receipt and actual raw proof bindings verified. Historical check/finding and resolution trace: Full baseline/current sources and unique owning record read. Actual ABC37/76 full ten Moon clauses match task as woman, disturbed people, duties/wife/mother/mature soul; Witte66 Moon row, added exact Ebertin265/263 code0928 and Sandbach95 exact Moon entry all match. Munkasey source prose/printed304 metadata unchanged; full current entry read. Final stable batch05: exact current Source Entries hash is unchanged from the completed personal raw precheck; newly appended full originalrecord closure fields read, specific prior flags/proofs and genuine limitations reconciled. Sole new schema qualification for Pluto/Poseidon Moon was personally read and correctly preserves actual printed metal (psychic) without a guessed meaning. Unique current owner and stable split-editor receipt rebound; no new full-review count.",
+    "evidence": [
+      "verification/source-repair-review-closure-B2-abc-pdf037.png",
+      "verification/source-repair-review-closure-B2-witte-pdf066.png",
+      "verification/source-repair-review-closure-B2-ebertin-pdf265.png",
+      "verification/source-repair-review-closure-B2-sandbach-pdf095.png"
+    ],
+    "verified_by": "/root/activation_review_010_012"
+  }
+]

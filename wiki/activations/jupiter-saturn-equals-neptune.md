@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Neptune`
 - Astronomicon formula: `V/W = Y`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 To put off a decision. A matter takes a very long time to mature, is deferred. Malevolent separation. Loss of money as a result of fraud. Destruction of buildings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Achievements in the air, urban water law, urban intuitions in old age, urban legal development, and urban development
+- Source reference: printed p. 325; one-based PDF p. 161, Jupiter/Saturn, Neptune row.
+
+Sensitivity to disturbed law, joy and sorrow through metaphysics, inhibited joy in the air, disturbed water law, happy intuitions in old age, disappointing financial losses, concentration on future successes, and losses through legal uncertainty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 226; one-based PDF p. 228, coded entry 0789.
 
 Pessimism, feeling of abandonment, tendency to begrudge other people's good fortune. An intolerable loneliness, hard work without success, losses. Damage to a building through dampness, water, gas or major force (war).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 79, Jupiter/Saturn, Neptune paragraph; chapter begins on p. 78.
 
 One needs to be intuitive when it comes to deciding what one should do. A confusion about what one should do. One with persistent idealism.
 
@@ -66,26 +76,27 @@ One needs to be intuitive when it comes to deciding what one should do. A confus
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Ideas for a more perfect society; dreams about changes you need to implement in your life or business; added needs to avoid change even when needed; brings disillusionment about the relative pace of progress.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Decisions and progress are deferred or made uncertain ([Witte Entry](#witte-entry)).
+- Psychology: Confusion, persistent idealism, disillusionment, and pessimism remain distinct possibilities.
+- Body/health: Damage through water or gas concerns buildings in Ebertin, not a medical diagnosis.
+- Social/relationship: Loneliness, separation, and ideals about society are explicit.
+- Events/manifestations: Fraud-related loss, unsuccessful work, and building damage are particular source examples.
+- Conflicts/notes: Raw ABC inspection restores eight Neptune clauses and excludes the following Pluto development row. Joy in the air and water law remain literal, without an invented technical setting. Sandbach's exact Neptune paragraph is on PDF p. 79.
 
 ## Contradictions
 
-- None recorded yet.
+Intuitive idealism and discouragement are alternative responses; no source establishes that grounding an ideal necessarily prevents loss.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Neptune`: long-maturing situations, intuitive searching for moral direction, and the struggle to keep faith realistic under discouraging conditions. Main caution: pessimistic confusion: decisions may be deferred too long, losses can follow vague judgment, and loneliness may deepen if ideals are not grounded.
+In `Jupiter/Saturn = Neptune`, Neptune makes the pair's slow progress a matter of uncertainty, deferred decisions, and ideals difficult to realize. The [Witte Entry](#witte-entry) describes prolonged maturation and loss, while the [Sandbach Entry](#sandbach-entry) holds intuition alongside confusion about what to do. The [Munkasey Entry](#munkasey-entry) adds ideal social plans and disillusionment at progress; the [Ebertin Entry](#ebertin-entry) retains loneliness and unsuccessful effort. The [ABC Entry](#abc-entry) adds sensitivity to troubled law and losses through legal uncertainty, while retaining happy intuitions in old age and concentration on future success. These are limits and possibilities, not a causal claim that confusion produces every listed loss.
 
 ## Links
 

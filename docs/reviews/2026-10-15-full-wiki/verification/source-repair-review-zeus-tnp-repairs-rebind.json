@@ -1,0 +1,226 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "all_final_pages_and_full_owner_records_independently_reread": true,
+  "confirmed_repairs": 3,
+  "withdrawn_findings": 1,
+  "withdrawal": {
+    "withdrawn_finding": "Earlier low-resolution verifier reading Zeugung/generation was false. Actual 6x PDF225 prints Wahrheits-Bezeugung. Interim hash below is rejected and never approved.",
+    "interim_rejected_source_sha256": "050e6aeea375e1cf6eec8081d2fea53d5e48c1d5e6876b840e07a2a3c2d08837",
+    "final_accepted_source_sha256": "8678a2a8e19f15196a317e1c302f2fab9839dff88b70a5fb63a5320ec89ca754",
+    "proof": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc225-poseidon-detail.png"
+  },
+  "final_rebinds": [
+    {
+      "path": "wiki/activations/vulcanus-vulcanus-equals-moon.md",
+      "current_source": "#### Witte Entry\n\n- PDF page: 313 (one-based).\n\nThe mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.",
+      "current_page": "---\ntitle: Vulcanus/Vulcanus = Moon\npage_type: activation\nslug: vulcanus-vulcanus-equals-moon\nstatus: source_ingested\nframework_scope: hamburg_school\nfactors:\n  - Vulcanus\n  - Vulcanus\n  - Moon\nnormalized_formula: Vulcanus/Vulcanus = Moon\naxis: Vulcanus/Vulcanus\nactivated_by: Moon\ntriad_set:\n  - Moon\n  - Vulcanus\naliases: []\nsource_pages:\n  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures\nupdated_at: 2026-04-21\n---\n\n## Identity\n\n- Formula: `Vulcanus/Vulcanus = Moon`\n- Astronomicon formula: `§/§ = R`\n- Axis page: [Vulcanus/Vulcanus](../axes/vulcanus-vulcanus.md)\n- Repeated-pair identity: no distinct triad hub exists for this activation.\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n## Source Entries\n\n#### Witte Entry\n\n- PDF page: 313 (one-based).\n\nThe mighty mind. To be Powerful. Consciousness of power. Great sensation. To a cause sensation. Public and female influence. The superior. Personage of public might. The executive power. The power of a people. Mighty nation. Very influential female persons. The superiority of woman, hour or a people. Mighty feelings.\n\n## Comparative Schema\n\n- core meaning: Collective or women’s influence and conscious power.\n- psychology: Mighty feelings, a powerful mind and awareness of power.\n- body/health: No explicit bodily or health claim.\n- social/relationship: Influential women, public figures and the power of a people.\n- events/manifestations: Public sensation, executive power and national might.\n- conflicts/notes: One source only; gendered and national superiority are historical descriptions, not general facts.\n\n## Contradictions\n\nOnly Witte is present. The mental, gendered and national examples are different scales of influence.\n\n<a id=\"derived-synthesis\"></a>\n## Derived Synthesis\n\n`Vulcanus/Vulcanus = Moon` connects strong feeling and awareness of power with public influence. Witte gives influential women, commanding public figures and a powerful people or nation, alongside causing a sensation. His language of superiority remains historical attribution rather than a factual ranking of women or peoples. ([Witte](#witte-entry))\n\n## Links\n\n- [Vulcanus](../factors/vulcanus.md)\n- [Vulcanus](../factors/vulcanus.md)\n- [Moon](../factors/moon.md)\n- [Vulcanus/Vulcanus](../axes/vulcanus-vulcanus.md)\n",
+      "source_sha256": "d2d27442025a75a5f89cd6a7db0c10a0c27d23938b85f33d39ab485efe285b49",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 44,
+      "ledger_record_sha256": "eec258f78754ddb279cdf4f66d8f435dbf1a6c3b3858e8e65899ef784b1e954d",
+      "ledger_record": {
+        "path": "wiki/activations/vulcanus-vulcanus-equals-moon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Independent Witte PDF313 recheck corrected the earlier mistaken scan-backed repair claim: the raw Moon row visibly prints 'To a cause sensation.' Restored that exact printed wording; it is a source-native grammatical quirk, not an OCR error. Meaning and review counts are unchanged."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Personally inspected the full independent Witte PDF313 scan after the source-gate hold; confirmed and preserved 'To a cause sensation.' in its Moon glyph row, then reread the saved page and amended original record."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-100-witte-pdf313.png",
+            "reference": "Witte PDF313 (one-based)",
+            "passage": "wiki/activations/vulcanus-vulcanus-equals-moon.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png",
+            "reference": "Witte PDF313 (one-based), Moon glyph row",
+            "passage": "To a cause sensation.",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          }
+        ]
+      },
+      "previous_source_sha256": "a76bb1fed4a80d4270ce5aaeb4703ede0c7e1950c5e830f5797836a9ba650404"
+    },
+    {
+      "path": "wiki/activations/zeus-admetos-equals-cupido.md",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 293 (one-based).\n\nChanges of conditions in the family as well as socially; Changes in the general social forms or manners.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 455; PDF page: 226 (one-based spread).\n\nGerman: Blockierte Führungs-Gemeinschaft, deprimierte Leistungs-Gemeinschaft, Einschränkung gemeinsamer Anstrengungen, Festigung durch gemeinsame Zielsetzung, gemeinsame Feuer-Eindämmung, gründliche Leistungs-Gemeinschaft.\n\nEnglish translation: Blocked leadership community, depressed achievement community, restriction of joint efforts, consolidation through a common objective, joint fire containment, and a thorough achievement community.\n\nTranslation checked against the German scan: printed p. 455 (PDF p. 226).",
+      "current_page": "---\ntitle: Zeus/Admetos = Cupido\npage_type: activation\nslug: zeus-admetos-equals-cupido\nstatus: source_ingested\nframework_scope: comparative\nfactors:\n  - Zeus\n  - Admetos\n  - Cupido\nnormalized_formula: Zeus/Admetos = Cupido\naxis: Zeus/Admetos\nactivated_by: Cupido\ntriad_set:\n  - Cupido\n  - Zeus\n  - Admetos\naliases:\n  []\nsource_pages:\n  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures\n  - udo-rudolph-abc-fur-planetenbilder\nupdated_at: 2026-10-15\n---\n\n## Identity\n\n- Formula: `Zeus/Admetos = Cupido`\n- [Read the interpretation](#derived-synthesis)\n- Astronomicon formula: `£/¦ = ¡`\n- Axis page: [Zeus/Admetos](../axes/zeus-admetos.md)\n- Triad hub: [Cupido Zeus Admetos](../triads/cupido-zeus-admetos.md)\n\n## Source Entries\n\n### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 293 (one-based).\n\nChanges of conditions in the family as well as socially; Changes in the general social forms or manners.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 455; PDF page: 226 (one-based spread).\n\nGerman: Blockierte Führungs-Gemeinschaft, deprimierte Leistungs-Gemeinschaft, Einschränkung gemeinsamer Anstrengungen, Festigung durch gemeinsame Zielsetzung, gemeinsame Feuer-Eindämmung, gründliche Leistungs-Gemeinschaft.\n\nEnglish translation: Blocked leadership community, depressed achievement community, restriction of joint efforts, consolidation through a common objective, joint fire containment, and a thorough achievement community.\n\nTranslation checked against the German scan: printed p. 455 (PDF p. 226).\n\n## Comparative Schema\n\n- Core meaning: Collective conditions change while common achievement is either constrained or consolidated.\n- Psychology: ABC describes a depressed achievement community; neither entry establishes an individual psychological profile.\n- Body/health: No bodily condition or medical mechanism is specified.\n- Social/relationship: Family, social forms, collective leadership, and a shared objective provide the setting.\n- Events/manifestations: Changes in family or social conditions, restricted common effort, and collective fire containment.\n- Conflicts/notes: Witte's social change and ABC's impeded or consolidated group effort are compatible emphases; no necessary outcome is given.\n\n## Contradictions\n\nThe German scan distinguishes a leadership community from an achievement community. The positive and obstructed collective possibilities should remain side by side; neither entry guarantees cohesion.\n\n<a id=\"derived-synthesis\"></a>\n## Derived Synthesis\n\nIn `Zeus/Admetos = Cupido`, Cupido places difficult beginnings and changing conditions in family and collective life. A group must find a workable form for its shared effort: that effort may be blocked or dispirited, but a common objective can also consolidate it. Changes in social manners and joint fire containment show the range from social organization to a concrete common task. ([Witte Entry](#witte-entry), PDF p. 293; [ABC Entry](#abc-entry), printed p. 455, PDF p. 226.)\n\n## Links\n\n- [Zeus](../factors/zeus.md)\n- [Admetos](../factors/admetos.md)\n- [Cupido](../factors/cupido.md)\n- [Zeus/Admetos](../axes/zeus-admetos.md)\n- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n",
+      "source_sha256": "618b8f875db903585df354cb15dce58705841c710698c9b2234aab58f13d5e72",
+      "ledger": "activations-101.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "b691063dc86e09fc0420a187e04249dab93a4f4db249bcf0b786d42b10ad6615",
+      "ledger_record": {
+        "path": "wiki/activations/zeus-admetos-equals-cupido.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Prior partial review and scan-backed source edits lacked a page-specific ledger checkpoint; source blocks lacked direct locator bullets."
+        ],
+        "changes": [
+          "Preserved the sound prior exact-formula synthesis, six categories, local citations, Identity route and pre-existing updated_at metadata after full reading.",
+          "Added direct locator bullets and the missing durable review record.",
+          "Freshly scan-verified prior ABC Entry repair. Original: Blocked community, depressed community, restriction of joint efforts, consolidation by common objective, common fire dam, and basic community Corrected: Blocked leadership community, depressed achievement community, restriction of joint efforts, consolidation through a common objective, joint fire containment, and a thorough achievement community.\n\nTranslation checked against the German scan: printed p. 455 (PDF p. 226).",
+          "Independent ABC printed455/PDF226 recheck preserves Leistungs-Gemeinschaft as achievement community, distinct from Arbeit/work. Added the full exact German paragraph and labeled English translation; amended dependent explanations. Prior working-community wording was too narrow."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally inspected the complete Cupido glyph row and neighbors on the independent ABC226 scan; all six clauses match the retained German and labeled translation, including both Leistungs-Gemeinschaft compounds. Saved page and original record reread."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/resume-101-scans/witte-293.png",
+            "reference": "Witte PDF293",
+            "passage": "wiki/activations/zeus-admetos-equals-cupido.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-100-udo-pdf226.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-admetos-equals-cupido.md#abc-entry"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png",
+            "reference": "ABC printed455, PDF226, Cupido glyph row",
+            "passage": "deprimierte Leistungs-Gemeinschaft; gründliche Leistungs-Gemeinschaft",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          }
+        ]
+      },
+      "previous_source_sha256": "4779a22239480e06d625800d265e749562f9974f4cf022dc88a4fcde22419bdc"
+    },
+    {
+      "path": "wiki/activations/zeus-apollon-equals-neptune.md",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 291 (one-based).\n\nBusiness man engaged in daring enterprises and speculations. Research in a new field, daring to explore unknown territory.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 453; PDF page: 225 (one-based spread).\n\nBeginning increased uncertainty, successful achievements in water, successful achievements in metaphysics, leadership experience in the air, creeping spread of fire, future scientific objectives, and shaping future knowledge.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).",
+      "current_page": "---\ntitle: Zeus/Apollon = Neptune\npage_type: activation\nslug: zeus-apollon-equals-neptune\nstatus: source_ingested\nframework_scope: comparative\nfactors:\n  - Zeus\n  - Apollon\n  - Neptune\nnormalized_formula: Zeus/Apollon = Neptune\naxis: Zeus/Apollon\nactivated_by: Neptune\ntriad_set:\n  - Neptune\n  - Zeus\n  - Apollon\naliases:\n  []\nsource_pages:\n  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures\n  - udo-rudolph-abc-fur-planetenbilder\nupdated_at: 2026-10-15\n---\n\n## Identity\n\n- Formula: `Zeus/Apollon = Neptune`\n- [Read the interpretation](#derived-synthesis)\n- Astronomicon formula: `£/¥ = Y`\n- Axis page: [Zeus/Apollon](../axes/zeus-apollon.md)\n- Triad hub: [Neptune Zeus Apollon](../triads/neptune-zeus-apollon.md)\n\n## Source Entries\n\n### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 291 (one-based).\n\nBusiness man engaged in daring enterprises and speculations. Research in a new field, daring to explore unknown territory.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 453; PDF page: 225 (one-based spread).\n\nBeginning increased uncertainty, successful achievements in water, successful achievements in metaphysics, leadership experience in the air, creeping spread of fire, future scientific objectives, and shaping future knowledge.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).\n\n## Comparative Schema\n\n- Core meaning: Inquiry and enterprise enter uncertain, unfamiliar, or speculative territory.\n- Psychology: Daring exploration and increased uncertainty are explicit, without a diagnosis.\n- Body/health: No bodily or medical condition is specified.\n- Social/relationship: Business enterprise is named; no specific personal relationship is established.\n- Events/manifestations: Speculative ventures, research in a new field, achievements in water and metaphysics, and creeping fire spread.\n- Conflicts/notes: The restored ABC boundary ends at shaping future knowledge; development phrases belong to Pluto.\n\n## Contradictions\n\nThe German scan ends Neptune at 'Zukunfts-Wissen gestalten'. The subsequent performance and trading-development phrases belong to Pluto and have been removed from this entry.\n\n<a id=\"derived-synthesis\"></a>\n## Derived Synthesis\n\nIn `Zeus/Apollon = Neptune`, Neptune specifies research and enterprise through the unknown. Daring exploration can open a new field while increasing uncertainty, and the ABC entry adds future scientific objectives and knowledge still being shaped. Achievements in water and metaphysics are explicit examples; creeping fire spread is a different possible manifestation, not evidence that every venture fails or succeeds. ([Witte Entry](#witte-entry), PDF p. 291; [ABC Entry](#abc-entry), printed p. 453, PDF p. 225.)\n\n## Links\n\n- [Zeus](../factors/zeus.md)\n- [Apollon](../factors/apollon.md)\n- [Neptune](../factors/neptune.md)\n- [Zeus/Apollon](../axes/zeus-apollon.md)\n- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n",
+      "source_sha256": "01a0a8d13063975a5f41943d056815b6bd84ef41d1ef6ed59583cb3f9b32bea9",
+      "ledger": "activations-101.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "1c6b9b8c5a07b16e52d0b30f28d21dc677d3b54457efae66056e5ffaeda19356",
+      "ledger_record": {
+        "path": "wiki/activations/zeus-apollon-equals-neptune.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Prior unrecorded partial review required complete source and baseline verification; direct source locator bullets were absent."
+        ],
+        "changes": [
+          "Preserved the sound prior connected oriented synthesis, six categories, Identity route, local citations and pre-existing updated_at metadata after full reading.",
+          "Added direct locators and the missing page-specific durable review checkpoint.",
+          "Freshly scan-verified prior ABC Entry repair. Original: Start of increased uncertainty, successful achievements in water, successful achievements in metaphysics, experience of flight in the air, creeping fire propagation, scientific future goals, shaping future knowledge Successful performance development, developing trade objectives, and development of knowledge Corrected: Beginning increased uncertainty, successful achievements in water, successful achievements in metaphysics, leadership experience in the air, creeping spread of fire, future scientific objectives, and shaping future knowledge.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).",
+          "Independent ABC225/printed453 precision correction: erfolgreiche Leistungen im Wasser is successful achievements in water, preserving Leistung rather than substituting Arbeit/work; dependent schema and synthesis now use achievements."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally viewed the full Neptune glyph row and Pluto boundary on independent ABC225 proof, confirming all seven clauses and Leistung in water/metaphysics; reread the saved page and amended original record."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/resume-101-scans/witte-291.png",
+            "reference": "Witte PDF291",
+            "passage": "wiki/activations/zeus-apollon-equals-neptune.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/resume-101-scans/udo-225.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-apollon-equals-neptune.md#abc-entry"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png",
+            "reference": "ABC printed453/PDF225, Neptune glyph row",
+            "passage": "erfolgreiche Leistungen im Wasser",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          }
+        ]
+      },
+      "previous_source_sha256": "83feae778d16273dc046def0e0518a77d25be728f4801e676b85ac6eb8e198c8"
+    },
+    {
+      "path": "wiki/activations/zeus-apollon-equals-poseidon.md",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 292 (one-based).\n\nLearning, studying and research work in the spiritual and mental realm. People of the same caliber are associates. In the economic respect persons are equal. Members of a guild such as craft guild. A party-spirit.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 453; PDF page: 225 (one-based spread).\n\nGerman: Anstrengungen um Wissen und Wahrheit, beginnende Vernunft-Erfolge, Erfahrungen eines feurigen Geistes, erfolgreiche Kreation einer Idee, erfolgreiche Wahrheits-Bezeugung, Wissen um geistiges Feuer, wissenschaftliche Kultur-Leistung.\n\nEnglish translation: Efforts toward knowledge and truth, beginning successes of reason, experiences of a fiery mind, successful creation of an idea, successful testimony to truth, knowledge of spiritual fire, and scientific cultural achievement.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).",
+      "current_page": "---\ntitle: Zeus/Apollon = Poseidon\npage_type: activation\nslug: zeus-apollon-equals-poseidon\nstatus: source_ingested\nframework_scope: comparative\nfactors:\n  - Zeus\n  - Apollon\n  - Poseidon\nnormalized_formula: Zeus/Apollon = Poseidon\naxis: Zeus/Apollon\nactivated_by: Poseidon\ntriad_set:\n  - Zeus\n  - Apollon\n  - Poseidon\naliases:\n  []\nsource_pages:\n  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures\n  - udo-rudolph-abc-fur-planetenbilder\nupdated_at: 2026-10-15\n---\n\n## Identity\n\n- Formula: `Zeus/Apollon = Poseidon`\n- [Read the interpretation](#derived-synthesis)\n- Astronomicon formula: `£/¥ = ¨`\n- Axis page: [Zeus/Apollon](../axes/zeus-apollon.md)\n- Triad hub: [Zeus Apollon Poseidon](../triads/zeus-apollon-poseidon.md)\n\n## Source Entries\n\n### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 292 (one-based).\n\nLearning, studying and research work in the spiritual and mental realm. People of the same caliber are associates. In the economic respect persons are equal. Members of a guild such as craft guild. A party-spirit.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 453; PDF page: 225 (one-based spread).\n\nGerman: Anstrengungen um Wissen und Wahrheit, beginnende Vernunft-Erfolge, Erfahrungen eines feurigen Geistes, erfolgreiche Kreation einer Idee, erfolgreiche Wahrheits-Bezeugung, Wissen um geistiges Feuer, wissenschaftliche Kultur-Leistung.\n\nEnglish translation: Efforts toward knowledge and truth, beginning successes of reason, experiences of a fiery mind, successful creation of an idea, successful testimony to truth, knowledge of spiritual fire, and scientific cultural achievement.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).\n\n## Comparative Schema\n\n- Core meaning: Learning and research turn toward intellectual or spiritual knowledge and truth.\n- Psychology: Reason, a fiery mind, and creating an idea are explicit motifs.\n- Body/health: No bodily or medical condition is specified.\n- Social/relationship: Peers, economic equals, guild members, and party spirit are Witte's association examples.\n- Events/manifestations: Research in the mental or spiritual realm, creating an idea, and testimony to truth.\n- Conflicts/notes: Truth testimony is not sacrifice; peer association does not establish the truth of a doctrine.\n\n## Contradictions\n\nThe German scan supports successful creation of an idea and testimony to truth. Witte's party spirit and ABC's truth-seeking are different aspects, not proof of doctrinal correctness.\n\n<a id=\"derived-synthesis\"></a>\n## Derived Synthesis\n\nIn `Zeus/Apollon = Poseidon`, Poseidon specifies learning and research through intellectual or spiritual knowledge and the pursuit of truth. An idea is formed and brought into expression, with reason and testimony as explicit ABC themes. Witte also places this work among peers or guild-like associates, linking the inquiry to a community of comparable standing without making their shared conviction proof of truth. ([Witte Entry](#witte-entry), PDF p. 292; [ABC Entry](#abc-entry), printed p. 453, PDF p. 225.)\n\n## Links\n\n- [Zeus](../factors/zeus.md)\n- [Apollon](../factors/apollon.md)\n- [Poseidon](../factors/poseidon.md)\n- [Zeus/Apollon](../axes/zeus-apollon.md)\n- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n",
+      "source_sha256": "8678a2a8e19f15196a317e1c302f2fab9839dff88b70a5fb63a5320ec89ca754",
+      "ledger": "activations-101.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "faac53a9934bbcf6debc61537e9e955cec33c420283d8dff40adcfb8b37be4ec",
+      "ledger_record": {
+        "path": "wiki/activations/zeus-apollon-equals-poseidon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Prior unrecorded partial review required complete source and baseline verification; direct source locator bullets were absent."
+        ],
+        "changes": [
+          "Preserved the sound prior connected oriented synthesis, six categories, Identity route, local citations and pre-existing updated_at metadata after full reading.",
+          "Added direct locators and the missing page-specific durable review checkpoint.",
+          "Freshly scan-verified prior ABC Entry repair. Original: Efforts for knowledge and truth, beginning reason success, experiences of a fiery mind, successful creation of a !dee, successful truth sacrifice, knowledge of spiritual fire, and scientific culture performance Corrected: Efforts toward knowledge and truth, beginning successes of reason, experiences of a fiery mind, successful creation of an idea, successful testimony to truth, knowledge of spiritual fire, and scientific cultural achievement.\n\nTranslation checked against the German scan: printed p. 453 (PDF p. 225).",
+          "Final high-resolution ABC225 Poseidon detail corrects the checker and owner lower-resolution misread: the actual source prints Wahrheits-Bezeugung. Restored successful testimony to truth and all dependent explanations; retained the full exact German and labeled translation. The provisional generation/creation claim is withdrawn."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally viewed the full ABC225 row and the independent 6x Poseidon detail. Wahrheits-Bezeugung is unmistakable; all seven clauses and the testimony translation agree. Reread the saved source/dependents and amended original record after withdrawing the provisional misread."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/resume-101-scans/witte-292.png",
+            "reference": "Witte PDF292",
+            "passage": "wiki/activations/zeus-apollon-equals-poseidon.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/resume-101-scans/udo-225.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-apollon-equals-poseidon.md#abc-entry"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png",
+            "reference": "ABC printed453/PDF225, Poseidon glyph row",
+            "passage": "erfolgreiche Wahrheits-Bezeugung",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc225-poseidon-detail.png",
+            "reference": "ABC printed453/PDF225, full Poseidon row at6x",
+            "passage": "erfolgreiche Wahrheits-Bezeugung",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          }
+        ]
+      },
+      "previous_source_sha256": "71a6cd29a84efcdbfd2a17e9702497c8d227d4bc5b436324cce0cbffff9057f1"
+    }
+  ]
+}
+

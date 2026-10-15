@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Vulcanus`
 - Astronomicon formula: `VP/Z = §`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -44,11 +46,23 @@ Stormy and fevered development.
 
 Influenced changes in the public life, power development in the public, power change in the public, power change in the public life, public energy transformation, and growing violence in the public
 
+## Comparative Schema
+
+- Core meaning: Forceful public development involving power and energy.
+- Psychology: The Witte description is stormy and fevered; no general personality account is given.
+- Body/health: 'Fevered development' describes development here, not a stated fever or medical diagnosis.
+- Social/relationship: Changes of power and growing violence are named in public life.
+- Events/manifestations: Power development, energy transformation, and forceful changes are examples.
+- Conflicts/notes: Power, energy, and violence are distinct emphases, not interchangeable claims about every development.
+
+## Contradictions
+
+Stormy development and public power changes are compatible emphases. The entries do not state that every powerful change becomes violent.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Vulcanus`: stormy and fevered development.
-- Practical expression: influenced changes in the public life, power development in the public, power change in the public, power change in the public life, and public energy transformation.
+In `Vernal Point/Pluto = Vulcanus`, Vulcanus specifies public development through force, power, and energy. The [Witte entry](#witte-entry) describes its stormy intensity; the [ABC entry](#abc-entry) situates changes of power and energy transformation in public life and includes growing violence. This supports an intense form of development while retaining violence as a particular stated manifestation.
 
 ## Links
 

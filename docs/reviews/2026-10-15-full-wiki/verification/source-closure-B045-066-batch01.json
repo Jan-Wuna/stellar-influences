@@ -1,0 +1,218 @@
+{
+  "scope": "First stable13 B045–066 source repairs; independent B2 rebind pending.",
+  "reviewer": "/root/factor_source_repairs",
+  "count": 13,
+  "new_reviews": 0,
+  "ledgers": [
+    "activations-056.jsonl"
+  ],
+  "actual_raw_scans_personally_viewed": [
+    "source-repair-review-closure-B2-abc-pdf051.png",
+    "source-repair-review-closure-B2-abc-pdf112.png",
+    "source-repair-review-closure-B2-abc-pdf114.png"
+  ],
+  "canonical_exact_intended_bytes": 13,
+  "temporary_stages_absent": true,
+  "move_stage_back": [
+    {
+      "path": "wiki/activations/node-hades-equals-cupido.md",
+      "staged_then_restored": true,
+      "pre_sha256": "ea2647fa301c9bf71cc24e85878f5301357b17164c5a060823d5f25db54ff95d",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-cupido.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-kronos.md",
+      "staged_then_restored": true,
+      "pre_sha256": "b7177ec135f44cd3c5243f75857bcaffebc4f633bfadff5825a7c285287d47aa",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-kronos.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-mc.md",
+      "staged_then_restored": true,
+      "pre_sha256": "d130e4c6b5b366cb28427407ac12cc6f76cae3b27765b1b2fc0e7c4f41585f12",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-mc.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-moon.md",
+      "staged_then_restored": true,
+      "pre_sha256": "1f3d35d6ba660a011767813687425b2418bf21cbfd5598e9d9ff412389eceee4",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-moon.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-pluto.md",
+      "staged_then_restored": true,
+      "pre_sha256": "2a0113b33aae981afc8a65b3f85d3262f99ba40d9c7084c02c26ded3d2f7dd30",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-pluto.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-poseidon.md",
+      "staged_then_restored": true,
+      "pre_sha256": "ea4922efbceeb1a287894e109406c2742ca338c8ebf5d22e1e96f465891d096b",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-poseidon.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-venus.md",
+      "staged_then_restored": true,
+      "pre_sha256": "c7811e347669ead8fcf3aa76457cc69622bc788e855477cb86f5f0deea896667",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-venus.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-vulcanus.md",
+      "staged_then_restored": true,
+      "pre_sha256": "ce570988a0e7749c48cd981561daa08a6480ecf6c942cbb97808c902d61a1fb0",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-vulcanus.md"
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-zeus.md",
+      "staged_then_restored": true,
+      "pre_sha256": "61c6b44564ddc4a610b9eb0378692139f9b936d938d9293cd84a58902e87ef5a",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-hades-equals-zeus.md"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-apollon.md",
+      "staged_then_restored": true,
+      "pre_sha256": "aaeed63da77368a4e9f1e4265b51b69457002a2c7ac0ef91ae6e94e79097a91c",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-kronos-equals-apollon.md"
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-hades.md",
+      "staged_then_restored": true,
+      "pre_sha256": "9805a55c58e3760754f1c07990e6a899c50f81000b5733ca0e8cbf0e7b68ee94",
+      "stage": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-B045-066-stage-node-kronos-equals-hades.md"
+    }
+  ],
+  "receipt": "source-closure-B045-066-decisions.jsonl",
+  "bindings": [
+    {
+      "path": "wiki/activations/node-asc-equals-vulcanus.md",
+      "ledger_line": 4,
+      "before_source_section_sha256": "69e7795f560dcf37079aa4139b60d5ae4232eb0a70856064801ce018171a1257",
+      "final_source_section_sha256": "7b39fdfd062ed2d8835672a3c0d3f146fef9cbe86571ed70f3c34ec28ecfecea",
+      "final_page_sha256": "baf5c99467c101b608d14d05e0dfea5c1c9ffae5fac816f745f7d2e81973a228",
+      "current_record_sha256": "5ea33fb2407ce80a9464c21de1a31201a508e66c63d4c4314e7f39e8ce15dd64",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-admetos.md",
+      "ledger_line": 26,
+      "before_source_section_sha256": "87f50c0ec2ea0a9a8d81ceef813411dcff3e34f7f040e1afa8caa25b0e5c30d8",
+      "final_source_section_sha256": "7779c586074c5d9cf2b85b628d2c58b7f60d349e42d48e1e7ccffe75a417de6a",
+      "final_page_sha256": "bcbbc4c376c6a69b01d9e5dcda9c55d3b80e315ed2f153d99d28c3854d2c9c80",
+      "current_record_sha256": "035c6fa93f0d9a807a8bf100896abaa0ff3f0093861d7b6b507d10da4b3655e9",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-cupido.md",
+      "ledger_line": 29,
+      "before_source_section_sha256": "01b8fa9e0d6a121cc37359990eb60ba390a87147091eb67caf0e4f6b889a034b",
+      "final_source_section_sha256": "ff9e884d4137fe3bb9f1088046028606bc754287a88487c6817e5828737429f9",
+      "final_page_sha256": "de219941cf59b68af82040b8e0d93b555eda1de2a81d12a8c6120fe50101e332",
+      "current_record_sha256": "bc3fecf6635e4185b049015030e00ecf1d5b34af43ae7fd4d120906877d9e343",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-kronos.md",
+      "ledger_line": 31,
+      "before_source_section_sha256": "092713658411bf0ee39775373848b0f03253ac2f7fa2798de2cdce70650cbe86",
+      "final_source_section_sha256": "821dbae3537ef3c7e28e336d421c21ec43753549ceef7c8e15d531bcc1146d82",
+      "final_page_sha256": "9143ef64559d5c73e1b07562e108359610d392511e877cf68325471c8d780e70",
+      "current_record_sha256": "c978fbaaaf0da6687a2c681705717da0c8e045bf6e8f14f3ad8f677948759a82",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-mc.md",
+      "ledger_line": 33,
+      "before_source_section_sha256": "2b0a608a682342720170ab57ec360e3e132d51862a6aa045b2cee8ab4f709a36",
+      "final_source_section_sha256": "f03c4488a134bd168550177dfac0fe2d340b3238527e1f4fe5fedb18cb83393e",
+      "final_page_sha256": "95f1d2a1e6914cd7f279bc2b02047c27f3981e1c0382dc4b67a4987582527a51",
+      "current_record_sha256": "eb72df528efddc10b4b4904a2e9e8005736c7222b1b4d3be3b9082cdc67fa7af",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-moon.md",
+      "ledger_line": 35,
+      "before_source_section_sha256": "9333a2596dc0a3d6ae312fc0a2bfa31fb8270a0b38dab8b25f855413a03ac049",
+      "final_source_section_sha256": "2137e299e963680200edcbecf6f21c31c3f802a9c1ca1821c4eabe24a9fa0b79",
+      "final_page_sha256": "77da8cc20469e457a4589fa78f8aa0a8ae37aa83bacdba91339d7c9092d3b7b4",
+      "current_record_sha256": "fb9490401c7dad7abc279be8aeed25c5f0132c4d6fcfebb8a48585120143d98a",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-pluto.md",
+      "ledger_line": 37,
+      "before_source_section_sha256": "abb1b72b4775c4010870580e2e27a6f4be14a3f4399de86a99ba4fe4c831a69f",
+      "final_source_section_sha256": "cb0d2126f914a4b75f6059698fd334cf875d8e535d5ebc01cd0ba3b5d8a30da6",
+      "final_page_sha256": "0c40baf23a0d909b97868318d66f8f4b93b3983d2f30496b6be4df81e2037755",
+      "current_record_sha256": "2e10ba1464c5723e18ee865dfa16794af401374fa7ac590ede41a9ae51aec606",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-poseidon.md",
+      "ledger_line": 38,
+      "before_source_section_sha256": "e7d4a6b4f2e0fe90a11d375cb0b22600372527f7ee428d9356312d1368051ad6",
+      "final_source_section_sha256": "0e198dc425a6a64901e0af1a114f4423ca2fdfeb7919a68158a1941698e33494",
+      "final_page_sha256": "2a2699ed4ceda071c6e18c69f436178555a838556f562a5f47097b053795cc14",
+      "current_record_sha256": "1454f71c640b81dc92a6ffd2327efcf452c24d086d109aeeb2606fc113ab9a00",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-venus.md",
+      "ledger_line": 42,
+      "before_source_section_sha256": "df447154ac2b28f6baf55f36586d055090d69c3829a9bcc09c1b40de58030f31",
+      "final_source_section_sha256": "8c4488501df29c9ee01bba34e73a508e3483b5b858ee942b425da864b7b087a7",
+      "final_page_sha256": "f2dfdc74860cc252d1e9a15cf0ff56c2dd1337486f57aed1e27398a38ae4a6f3",
+      "current_record_sha256": "7ff0a164df4c29ec0ab51ca3879bf68983b068b9eceddc0a8f218ffc456082ab",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-vulcanus.md",
+      "ledger_line": 44,
+      "before_source_section_sha256": "bdec8521b2ec2e941b6c4ef343dfcd118859173de25179b01332ade0e778780d",
+      "final_source_section_sha256": "47a0b9b2e967f9481876811732bc820d481d81881c611af79625c745c953c5c7",
+      "final_page_sha256": "70683a00be2acc2fdaf0c02000f10bfc16c297b71956125aa0b2a6ec17050314",
+      "current_record_sha256": "e8e705ad674b782c975b40445ce4c5036ad069292f387bdf848f8f41272b1ec2",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-hades-equals-zeus.md",
+      "ledger_line": 45,
+      "before_source_section_sha256": "addd93df8afde74a807358905dfd042e43db4572d7b55edb514eb6b7c01cf537",
+      "final_source_section_sha256": "0810448a5c3486cf554ab9a37366a598a57263d122351865f0cdc23f05c3e94c",
+      "final_page_sha256": "dc3dc29398672963d8f838d0b55c143d08ca5927ae0e345e44419c4db3d2ac65",
+      "current_record_sha256": "e14a04caa8237a0f747d05235f13da78e4af16ac953f66af03bad5076208198a",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-apollon.md",
+      "ledger_line": 47,
+      "before_source_section_sha256": "f4440ffcf473b1e59fa0fe5f8b7123be043c2834477059f41bb08959b4bd230c",
+      "final_source_section_sha256": "6b543c8a0b336c2a25a1da79939a1c27bcbca22380b6fbf01e3e8e6d82396d9f",
+      "final_page_sha256": "9742074f9c89cb22eea9cc103a2407a91633caac1bf4a806d0f15e3bba3ae34f",
+      "current_record_sha256": "3f9e9d20ecbaa4a9eb98294c425dec4c6fdb3e72d3a6bd7ca5b2e5653701866c",
+      "unresolved": [],
+      "dependent_hits": []
+    },
+    {
+      "path": "wiki/activations/node-kronos-equals-hades.md",
+      "ledger_line": 50,
+      "before_source_section_sha256": "2c699460795886c50226abb07af2c46c340e3e44989da8dda5ce02cf088b1fde",
+      "final_source_section_sha256": "39dc4e97e2230c88cf741059e7e763472c55958bb6988e6a8cb75d983cadd11b",
+      "final_page_sha256": "5ca4f1d6473ba8eecfd470015cc84ecc838564e7456fd9440b3cb942420a466e",
+      "current_record_sha256": "da739de9e524a8c0eef0a0c5ee09731f0a3ba519c847762f661d17d8db7aa2d6",
+      "unresolved": [],
+      "dependent_hits": []
+    }
+  ],
+  "independent_followup": "B2 exact-row singular correction: Gefährliche Feuer-Verbindung retained as A dangerous fire connection; source/record/receipt hashes rebound, stage absent."
+}

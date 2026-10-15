@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Zeus](../axes/mars-zeus.md)
 - Triad hub: [Mars Neptune Zeus](../triads/mars-neptune-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Zeus,” PDF p. 199.
 
 To have to create something out of nothing or without the help of anything. Denial of creative energy. Infected procreation. Abortion. Loss by smoke. Smoke poisoning. Concealed firearms. A shot from ambush.
 
@@ -42,13 +46,27 @@ To have to create something out of nothing or without the help of anything. Deni
 
 #### ABC Entry
 
-Effortful creation in the air or in the water, work design for the future, exchangeable work performance, driving work in the air or in the water, creative future activity, hidden movement activities, will weak movement Exercising development work, beginning development work, and creative development
+Source: “Mars + Zeus,” printed p. 313 (PDF p. 155).
+
+Strenuous creation in air or water, work design for the future, disappointing work achievement, leading work in air or water, creative activity for the future, hidden leadership activities, and weak-willed leadership.
+
+## Comparative Schema
+
+- core meaning: Directed creation without support, disappointing achievement, or work involving air, water, and the future.
+- psychology: Weak-willed or concealed leadership in ABC's entry.
+- body/health: Witte includes historical smoke-poisoning and reproductive claims, without establishing an individual outcome.
+- social/relationship: Creating without help and hidden leadership; concealed firearms or ambush are particular Witte examples.
+- events/manifestations: Air or water work, future-oriented creative activity, smoke losses, and denied creative energy.
+- conflicts/notes: ABC's future and air/water work are not all described as failed; Pluto's developmental opening is a separate row.
+
+## Contradictions
+
+Witte emphasizes lack of support, concealment, and loss. ABC preserves disappointing or weak leadership but also creative work for the future and in air or water.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Zeus = Neptune` dissolves directed force through deprivation, smoke, concealment, and denial of support.
-- Chart expression: frustrated creation, hidden attacks, wasted or poisoned effort, and work or procreative force undermined by confusion, loss, or invisible damage.
+In `Mars/Zeus = Neptune`, Neptune specifies directed and creative effort through limited support, disappointing results, or concealed leadership, while ABC also names future-oriented work in air or water. Witte's demand to create without help gives the difficulty a concrete form; ABC's creative future activity prevents that difficulty from becoming a claim that all such work is futile. Witte's smoke, weapon, and reproductive examples remain particular historical associations rather than forecasts for the individual. ([Witte](#witte-entry), PDF p. 199; [ABC](#abc-entry), printed p. 313 / PDF p. 155)
 
 ## Links
 

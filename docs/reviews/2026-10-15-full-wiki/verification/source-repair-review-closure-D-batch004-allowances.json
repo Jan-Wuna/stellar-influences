@@ -1,0 +1,247 @@
+[
+  {
+    "path": "wiki/activations/venus-chiron-equals-asc.md",
+    "before_sha256": "fa7087e451a27e9aad61cab66d26e6a3b77ff2a95d3b3c2e5194667f07b2e59b",
+    "after_sha256": "b9840b62c9a300683659a93443da4e47668bdc6b708b5557374458bd21164714",
+    "ledger": "activations-085.jsonl",
+    "reason": "Full baseline/current source, full amended085record, queued flag and dependent prose read. Complete actual Sandbach sentence, chapter heading and adjacent boundaries personally read/viewed; exact60 reference verified. Actual Sandbach heading bottomPDF58, full chapter continuation59, exact Asc paragraph60 before MC and Venus/Uranus heading. Complete sentence personally read/viewed; native printed 'at mosphere' is an internal split, not missing wording. Exact60 reference true; retain source typography and explain its provenance.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf058.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf059.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf060.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-apollon.md",
+    "before_sha256": "1aebf8f047608d8bfea0331125fb416bc27899136a116ecd35c10cc90a569eaa",
+    "after_sha256": "4b48542f21092e350a2df0cabd72d28e0f237256bc9c3d2e198ae73a68b80d78",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC289/PDF143 Apollon eight clauses: special art knowledge; success through peace with hierarchy; successful independence in love; successful dominance of harmony; great experiences in love; independent art trade; state peace success; experience hierarchy's benevolence. Selbständigkeit is independence, not self-governance. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-asc.md",
+    "before_sha256": "0107dbd484c5647bdc7b8b3e9e1cc95b8dee02c8ccfd20b3c27e5d60f18ea506",
+    "after_sha256": "f493e7e511a83fcac147b4444b9ccd8e2210b22776e52b96e60aa219996bed3c",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Asc eight clauses: special harmony with others; partner's dominance through beauty; harmony with independent partners; local art authority; place for special art; state peace partner; preference for respected partners; authority's environmental wishes. Selbständigen independent, Behörde public authority, not horde. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-hades.md",
+    "before_sha256": "5905698645e85e5dafbd1a52473afa1d8d26b4c728d2d322f7d6396fdefbcfab",
+    "after_sha256": "a67e7276be2ad6d565969a1219794598aac63a58968b0f13ee0be2ba8987a5e5",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC289/PDF143 Hades eight clauses: special love sorrow; danger to state peace; lack of harmony in old age; artistic greatness from past; deficient reputation of art; love hidden authority; preference for great danger; important service in love. Kunst art, Kummer sorrow; hidden authority is object of love, not an adjective to love. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-jupiter.md",
+    "before_sha256": "72444c0f5526e824a135174ab758cec38615ec5890793b47d96d53223838ff44",
+    "after_sha256": "910a526499a8234b7e0b2e1494c9c1a4473d09472d056de0320bc6737e8d10df",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Jupiter nine clauses: special joy in love; successful art authority; state's peace success; peaceful constitutional/rule-of-law state; great legal art; love of a legal authority; state's love of law; independent legal success; priority given to money. Rechts-Staat literal constitutional/rule-of-law state, not generic right authority; narrow legal-art phrase remains uninterpreted. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-mars.md",
+    "before_sha256": "908f801f17be15df476be27cbbb8714935aedec1116f57068fc31995ad8db78c",
+    "after_sha256": "90b4231ad74af46d8e208145b3e0f11a9b4bbb282b984cfc3275735f4c9c8889",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Mars eight clauses: special peace work; special efforts in love; state's will for peace; hierarchy's harmonious actions; harmony through independent work; self-confidence through joy in work; preference for important work; important art work. Bemühungen efforts, selbständige independent, Selbstbewußtsein self-confidence. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-mc.md",
+    "before_sha256": "4ca0e90541bc9febb218571c6b81d56af0483af93f055779ceb02601e140671d",
+    "after_sha256": "bc609afd4aa5dc9b45418eb4690c0ab7d813e053791d2d83495756342833e5a1",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 MC nine clauses: dominance of inner peace; great soul harmony; harmony matters to me; I love independence; my special preference; my artistic reputation; my love of hierarchy; my wishes to state; priority of my art. Complete opening and Selbstandigkeit independence explicitly verified. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-mercury.md",
+    "before_sha256": "d29d640a48c2f93dfa2ede4bda6ce4b234634ccf20d4e1fba379fba0f14eb569",
+    "after_sha256": "51ef0422cd47433d72572e586ecca3cb8a2c62ef4e21325afcc6e1b70a2bfc6a",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Mercury eight clauses: respected media art; special youth beauty; dominant thoughts of love; state's peace talks; young female boss; youth's self-confidence through love; priority of female youth; important art news. Kunst art not artificial; Selbstbewußtsein confidence. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-kronos-equals-moon.md",
+    "before_sha256": "1ec992e8d6615ad3fa19660d350e872b035e3207a919ed7dc3b97409d4749d50",
+    "after_sha256": "5bbbea1c32ef4cfeb72f0321c3d7d865fbbe3568a017477a98e640b3c3c97eac",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Moon nine clauses: respected art of woman; special love to woman; dominance of beautiful woman; dominating feeling of harmony; woman's great love; great folk art; state peace for a people; priority feelings of love; important hour of harmony. Schöne beautiful, Volks-Kunst folk art; preserve historical female examples. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-admetos.md",
+    "before_sha256": "17d6720030996997691720bbe17a4a9f1af8bee1387a9c25c1d236c0e5ca58db",
+    "after_sha256": "74f280a3be06f06643cad38a5891abac161f7e83b86918d88cd38a2f73f693e3",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Admetos seven clauses: blocked harmony development; restricted love development; depressing change in love; increasing deepening of peace; thorough development in art; thorough preference for transformation; circulation changes through love. Two thorough clauses truly present; Vertiefung deepening, not generic development. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-asc.md",
+    "before_sha256": "e263946ccc6787a0a6fe84bb1b3d8d729017089c6f129323fb962694b9b7bc54",
+    "after_sha256": "11141a264b1a24336bea7b0a00bb5062acd4dd0b9d452b803e5e6635818a6198",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Asc seven clauses: harmonious environmental changes; harmonious partner change; nearby harmonious transformation; local artistic unfolding; develop love toward partner; love changes of location; preference for environmental changes. Vorliebe is preference, not preparation. Actual Witte181 clearly prints 'The beginning'; preserve printed 'The native show consideration to others.' Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf181.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-hades.md",
+    "before_sha256": "5750736f84dd474bdd053b9ada72b33f54cce41866ac02a59da9ce37a4e06f56",
+    "after_sha256": "65409c5789565ae2d37046ef82682d1e0fc328c094ed7539c24efb00c7956b6a",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Hades seven clauses: unfolding via love services; deficient harmony development; disadvantages via change in affection; renounce peaceful growth; preference for developments from past; growing love criminality; transformations through sorrow in love. Liebes-Kummer sorrow, not cummers. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-mc.md",
+    "before_sha256": "258c5b99793f2e1151d5f1b97d00ca85b0ceadd805c8211ac7dbce0c69690e01",
+    "after_sha256": "917f7b43d1e08348b05c36f0bda5cf02200b8d84309af45024455991d00f9788",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 MC nine clauses: soulful unfolding of art; I develop harmony; I love evolution; I love changes; my peaceful development; my development in love; my preference for transformations; my growing joy; growing inner harmony. Omitted opening four clauses actual; Freude joy. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-mercury.md",
+    "before_sha256": "1c4f766ba5d84e74ce3271f7f639ad91ddee842e34ce83cc4f526dc6b48d6ea8",
+    "after_sha256": "259c3ab85b2583533026ceb9685cdded302f759d636502f47edc79f7fd22f41b",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Mercury seven clauses: young love development; peaceful youth development; conversations about harmonious developments; develop harmonious thoughts; develop youth beauty; preference for development conversations; growing love toward youth. Gespräche conversations rather than language, with all clauses kept. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-node.md",
+    "before_sha256": "dc14842e93fc80cc682ff09d2e490e33a5f74a1a8bd2101444a6e80025a1f7ec",
+    "after_sha256": "44ea9a811083ec6c42ac9fd50d6b27400c5f15bc24e18f72fdd25faad3a9f720",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Node seven clauses: unfold love relationship; unfold peace relationships; develop connection to art; develop harmonious contacts; growing joy in connection; growing wishes in relationship; change of love relationship. Wünsche wishes not vitrine. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-poseidon.md",
+    "before_sha256": "f2aa7dd3f9dee91e9ffc5bd024dd0b1e8e6c554ff5d2fc101e662bfcad8e5b58",
+    "after_sha256": "118bf48aaeb8b27536adde3eb4b41cc3bba795fdc2af23cd2456c68c978e2285",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Poseidon eight clauses: develop peace through culture; unfold art ideas; art/cultural development; growing peace ideas; spiritual unfolding of love; develop spiritual art; growing harmony through clarity; unfold truth in love. Kunst art, Wahrheit truth, no dignity claim. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-saturn.md",
+    "before_sha256": "2d3673694b33b7b4cb9057a7112dd883ffb4fe73fcc23a41afa6d574c55111cc",
+    "after_sha256": "580ccc831bf8d9eaf8d1a9d514744316ac0dbb71fa10fe65d41f2fdfe6bc9aa5",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Saturn seven clauses: serious love development; serious artistic unfolding; disturbed peace development; harmony unfolding in old age; changes through disturbed harmony; changing love problems; transformation through burden on love. Gestört disturbed; all seven clauses complete. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-sun.md",
+    "before_sha256": "91a68beef86357afbebd459bbc2010e6df4cd1c53eac1279d85072dde8796152",
+    "after_sha256": "d1b05a3127926b35699e7948e390c75a611143e91f4f4891258ab78c21fbdd92",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Sun seven clauses: art-centre development; personal wishes development; develop bodily love; develop love for man; personal unfolding in love; develop bodily beauty; develop preference for men. Kunst-Zentrum art centre, not artificial centre. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-uranus.md",
+    "before_sha256": "be1ca22429eb713017b0e7df2c0aff296eb7f2161423dad0cf5b2e13002cbe33",
+    "after_sha256": "e44c81573de55dc5d34e3bae6c077a4b49871badc913deedbba6c099679ac088",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Uranus seven clauses: dynamic art change; harmonious technical development; unfold love impulses; rhythmic unfolding of art; exciting love development; unrest through changing love; restless peace development. Final clause truly present and formerly omitted. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-vulcanus.md",
+    "before_sha256": "0e5b1b854dfa6d6cecf4ffd861271bcf9e8271c91559c23f8caa84d7f0dbd714",
+    "after_sha256": "0eeb0aeda9ab36935c91f6fc2c5269451e1e32f41d215f63a070f8e1081adabf",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Vulcanus nine clauses: unfold love strength; peaceful power development; develop harmonious strength; desire power change; preference for energy transformation; transformation of love energy; growing influence of art; growing peace power; growing love strength. Energie-Transformation/Liebes-Energie/Kunst-Einfluß exact glyph row, no garbled filr/artifical. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-pluto-equals-zeus.md",
+    "before_sha256": "9bc164a06666a57cfe88ba1e4a8288c8876a63d90e1dce66b07b97b81ce145f4",
+    "after_sha256": "dad2687f5422ff6babd43643b7a30e83e44b0aa42c232c0341373cb42add7349",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Zeus eight clauses: begin harmonious development; beginning peace development; harmonious unfolding of achievement; develop creative art; unfold love fire; transform fiery love; develop preference for achievements; growth through procreation in love. Liebes-Zeugung procreation, not denial. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-venus-equals-admetos.md",
+    "before_sha256": "36f1be42443d1217b62a534443cbd561048f7dc459afc9d2d95da6a266f40b6c",
+    "after_sha256": "e8be454f338b5448623b481f6207179924a9f8cf43567baca5c7202a30abd217",
+    "ledger": "activations-091.jsonl",
+    "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. Actual WittePDF175 Admetos complete twelve-sentence row personally read/viewed: few true/deep ties, picky, unselfish, end of love, meditation/inwardness, death of females, repressed affection, frigidity, 'Heartlessness.', death of love, without sensation, limited feeling. Heardessness is OCR, printed Heartlessness clear; historical harm/medical language retained as attributed. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf175.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  }
+]

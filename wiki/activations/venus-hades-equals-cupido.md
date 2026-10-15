@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Cupido`
 - Astronomicon formula: `Q/¢ = ¡`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 Sorrow in marital life caused by servants or through one’s own service or work relations. Secret love marriage. Marriages among prostitutes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Liebcs community, love services for cine community, common danger of love, poor harmony in of a community, renunciation of peace in the community, and preference for common past
+- Source page: 285 (printed); PDF page: 141; scanned activator row checked.
+
+A troubled community of love, services of love for a community, shared danger to love, deficient harmony in a community, renunciation of peace in the community, and a preference for a shared past.
+
+## Comparative Schema
+
+- Core meaning: Shared life troubled by service or hidden love.
+- Psychology: Sorrow shared within a community.
+- Body/health: No specific health claim.
+- Social/relationship: Work-related marital sorrow and secret marriage.
+- Events/manifestations: Service to a community; attachment to a shared past.
+- Conflicts/notes: Historical servant and prostitution examples do not establish moral inferiority.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Historical servant and prostitution examples do not establish moral inferiority.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Cupido`: sorrow in marital life caused by servants or through one’s own service or work relations.
-- Practical expression: liebcs community, common danger of love, poor harmony in a community, and renunciation of peace in the community.
+Cupido specifies Venus/Hades through a marriage or community whose affection is complicated by service, work relations, or secrecy. Shared danger and deficient harmony can burden the circle, while love may remain tied to a common past. Witte's historical occupational and sexual examples remain attributed. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

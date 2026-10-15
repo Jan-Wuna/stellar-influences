@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
 - Triad hub: [Mercury Asc Vulcanus](../triads/mercury-asc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 172 (entry start); source heading: `Mercury + Vulcanus`.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To be with people who are much on the move.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 266; one-based PDF p. 132 (oriented row checked against the scan); source heading: `Merkur + Vulkanus`.
+
 #### ABC Entry
 
-Report on places of power, joint power of the partner, language about partner influence, full language of the partner, youth administration in the place, local communication, partner in the language, strong local communication, and environmental energy report
+Reports about places of strength, power of a partner's thoughts, conversations about a partner's influence, forceful speech of a partner, violence among youth at the place, powerful movements at the place, a partner's influence in conversation, heavy local traffic, an energy report about the environment.
+
+## Comparative Schema
+
+- core meaning: Influence and movement appear in relation to nearby people or a partner.
+- psychology: The entry does not establish a particular personality trait.
+- body/health: Powerful movement is mentioned; no health condition is asserted.
+- social/relationship: Company with mobile people and the force of a partner's thoughts or speech are explicit settings.
+- events/manifestations: Heavy local traffic, environmental energy reports and local youth violence are distinct ABC examples.
+- conflicts/notes: Local movement and interpersonal influence coexist; the former youth-administration phrase mistranslated violence among youth.
+
+## Contradictions
+
+Being with mobile people, a partner's influence and local violence are separate examples; none establishes that every active person is violent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Vulcanus = Asc`: To be with people who are much on the move.
-- Practical expression: report on places of power, joint power of the partner, language about partner influence, full language of the partner, and youth administration in the place.
+In `Mercury/Vulcanus = Asc`, Asc specifies forceful thought and movement through immediate encounters and surroundings. A partner's thoughts, speech or influence in conversation give the force an interpersonal form, while company with people who move about a great deal, powerful local movements and heavy traffic provide concrete movement settings. ([Witte](#witte-entry); [ABC](#abc-entry))
+
+Reports about places of strength or environmental energy and local violence among youth remain further ABC examples. Their proximity in the entry does not make activity or a strong partner's speech inherently violent. ([ABC](#abc-entry))
 
 ## Links
 

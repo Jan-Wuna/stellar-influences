@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Saturn`
 - Astronomicon formula: `Y/¦ = W`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Slow change of conditions. The present conditions start slowly changing or preservation of a condition.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-endurance in deep water, blockade problems through water, disturbed fluid circulation, hardships through air blockage, concentration and deepening in metaphysics, concentrated condensation of fluids, problematic circulatory weakness, and losses in deep water
+Perseverance in deep water, blockade problems through water, disturbed fluid circulation, hardening through an air blockade, concentration and deepening in metaphysics, concentrated condensation of liquid, problematic circulatory weakness, and losses in deep water
+
+## Comparative Schema
+
+- core meaning: slow change or preservation of conditions, with persistence and constrained physical examples.
+- psychology: concentration and metaphysical deepening are named without a broader emotional account.
+- body/health: disturbed fluid circulation and circulatory weakness remain historical source claims.
+- social/relationship: neither entry supplies a specific relationship role.
+- events/manifestations: deep-water perseverance or loss, water blockades, air-blockade hardening, and liquid condensation are listed.
+- conflicts/notes: preservation is an alternative to change; the sources do not equate every enduring condition with decay.
+
+## Contradictions
+
+Witte explicitly allows either slow change or preservation. ABC's perseverance, losses, and hardening describe distinct cases rather than a necessary progression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Saturn`: Slow change of conditions. The present conditions start slowly changing or preservation of a condition.
-- Practical focus: slows `Neptune/Admetos` into preservation, endurance, or very gradual transition. It suggests conditions that change only reluctantly, where decay and hardening are stabilized, prolonged, or carefully managed rather than rapidly overturned.
-- Practical expression: endurance in deep water, blockade problems through water, disturbed fluid circulation, hardships through air blockage, and concentration.
+In Neptune/Admetos = Saturn, Saturn specifies the pair through conditions that change slowly or are preserved. The [Witte entry](#witte-entry) states both alternatives; [ABC](#abc-entry) adds perseverance, blockade problems, and concentration in metaphysics, with separate air, water, and liquid-condensation examples (printed p. 403, PDF p. 200). Its circulatory-weakness language remains historical doctrine. Persistence alone does not establish deterioration, successful management, or a particular bodily condition.
 
 ## Links
 

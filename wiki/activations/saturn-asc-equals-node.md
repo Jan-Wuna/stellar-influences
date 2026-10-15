@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Node`
 - Astronomicon formula: `W/Asc = g`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,23 +41,33 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be present at separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old location connection, serious partner connection, inhibited local relationships, spaced local connections, contact problems with others, associated with environmental tasks, problematic environmental connections, and separation of local connections
+- Source page: 114 (printed); PDF page: 56.
+
+An old local connection, a serious partnership connection, inhibited local relationships, disturbed connections at the place, contact problems with others, connection with environmental tasks, problematic environmental connections, separation of local connections.
+
+Translation and full row boundaries checked against the German activator glyph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 261 (printed); PDF page: 263; entry code: 0924.
 
 Being placed in unpleasant family circumstances. The inclination to seclude oneself from others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 95 (exact entry text checked; chapter begins on PDF page 94).
 
 You play the role of wise one when you connect to other people. The tendency to seek out connections that reinforce all of one’s limitations and inadequacies, and the need to seek connections that help one to learn from oneself and spiritualize one’s identity.
 
@@ -70,22 +82,23 @@ You meet others who share the same type of serious need for introspection and an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Connections can reinforce isolation or provide companionship for serious reflection.
+- Psychology: Introspection, analysis, and a sense of personal limitations.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: Unpleasant family circumstances, interrupted local contacts, or friends who understand silence and study.
+- Events/manifestations: Presence at separations and ties linked to environmental tasks.
+- Conflicts/notes: Shared study and a wise role coexist with seclusion; reliability or loyalty is not established by the entry.
 
 ## Contradictions
 
-- None recorded yet.
+Shared study and a wise role coexist with seclusion; reliability or loyalty is not established by the entry.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Node`: reliable associations, formal bonds, and the capacity to show loyalty through steady conduct rather than easy charm. Main caution: isolation: inhibition or defensiveness can make relationships feel obligatory, narrow, or harder to sustain warmly.
+In `Saturn/Asc = Node`, Node specifies the pair through the kinds of connections that form around reserve and introspection. The [Munkasey entry](#munkasey-entry) includes friends who understand silence and study, while [Sandbach](#sandbach-entry) distinguishes connections that reinforce inadequacy from those that support self-understanding and a spiritual identity.
+
+The [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [ABC entries](#abc-entry) preserve separation, seclusion, unpleasant family circumstances, and inhibited local contacts. Shared seriousness can therefore support companionship or accompany restriction; the entries do not by themselves establish loyalty or enduring warmth.
 
 ## Links
 

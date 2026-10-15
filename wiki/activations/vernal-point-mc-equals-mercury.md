@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Mercury MC](../triads/vernal-point-mercury-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Personal statements in public. Conversations in the street. The minute (moment) 
 
 Public animated by youth, my thoughts for the public, my youth in public, my speech in public, my public opinion, and language of youth in public
 
+## Comparative Schema
+
+- Core meaning: Personal thoughts and statements entering public exchange.
+- Psychology: Public opinion and thoughts directed toward the public.
+- Body/health: No medical meaning is provided.
+- Social/relationship: Conversations, including the language and presence of youth.
+- Events/manifestations: Public statements, street conversations, and a moment of news.
+- Conflicts/notes: Youth is a stated example, not an age restriction on communication.
+
+## Contradictions
+
+Both entries emphasize public expression. ABC's youth motifs widen the examples without contradicting Witte's personal statements or news; neither passage establishes the truth of an opinion or report.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Mercury`: personal statements in public, conversations in the street, and the minute (moment) of public news.
-- Practical expression: public animated by youth, my thoughts for the public, my youth in public, my speech in public, and my public opinion.
+In `Vernal Point/MC = Mercury`, Mercury specifies one's public participation through expression: private thought becomes a statement, conversation, or public opinion. The [Witte Entry](#witte-entry) (PDF p. 35) locates this in street conversation and news, while the [ABC Entry](#abc-entry) (printed p. 18; PDF p. 8) adds youth and its language as a particular public presence.
 
 ## Links
 

@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md)
-- [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md)
-- [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md) | [Moon/MC](../axes/moon-mc.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md) | [Moon/Uranus](../axes/moon-uranus.md) | [MC](../factors/mc.md) |
+| [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md) | [Uranus/MC](../axes/uranus-mc.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/MC = Uranus`: Michael, page `144`
-- `Moon/Uranus = MC`: Michael, page `124`
-- `Uranus/MC = Moon`: Michael, page `324`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based; Sandbach locators identify a chapter start only.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/MC = Uranus](../activations/moon-mc-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-mc-equals-uranus.md#witte-entry) (PDF p. 60); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-mc-equals-uranus.md#abc-entry) (printed p. 65); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/moon-mc-equals-uranus.md#ebertin-entry) (printed p. 143); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/moon-mc-equals-uranus.md#sandbach-entry) (PDF chapter start p. 40); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/moon-mc-equals-uranus.md#munkasey-entry) (printed p. 144) |
+| [Moon/Uranus = MC](../activations/moon-uranus-equals-mc.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-mc.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-mc.md#abc-entry) (printed p. 186); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/moon-uranus-equals-mc.md#ebertin-entry) (printed p. 130); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/moon-uranus-equals-mc.md#sandbach-entry) (PDF chapter start p. 33); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/moon-uranus-equals-mc.md#munkasey-entry) (printed p. 124) |
+| [Uranus/MC = Moon](../activations/uranus-mc-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-mc-equals-moon.md#witte-entry) (PDF p. 67); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-mc-equals-moon.md#abc-entry) (printed p. 78); [Reinhold Ebertin, *The Combination of Stellar Influences*](../activations/uranus-mc-equals-moon.md#ebertin-entry) (printed p. 278); [John Sandbach, *Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints*](../activations/uranus-mc-equals-moon.md#sandbach-entry) (PDF chapter start p. 108); [Michael Munkasey, *Midpoints: Unleashing the Power of the Planets*](../activations/uranus-mc-equals-moon.md#munkasey-entry) (printed p. 324) |
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+No cross-orientation doctrinal comparison has been performed here. Each formula has its own base axis and activating factor; differences between those orientations are not treated as contradictions.
 
 ## Links
 

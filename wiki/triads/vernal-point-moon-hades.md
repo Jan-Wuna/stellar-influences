@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Moon Hades`
 - Astronomicon triad-set: `VP R ¢`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Moon/Hades = Vernal Point](../activations/moon-hades-equals-vernal-point.md)
-- [Vernal Point/Hades = Moon](../activations/vernal-point-hades-equals-moon.md)
-- [Vernal Point/Moon = Hades](../activations/vernal-point-moon-equals-hades.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Moon/Hades](../axes/moon-hades.md) | Vernal Point | [Moon/Hades = Vernal Point](../activations/moon-hades-equals-vernal-point.md) |
+| [Vernal Point/Hades](../axes/vernal-point-hades.md) | Moon | [Vernal Point/Hades = Moon](../activations/vernal-point-hades-equals-moon.md) |
+| [Vernal Point/Moon](../axes/vernal-point-moon.md) | Hades | [Vernal Point/Moon = Hades](../activations/vernal-point-moon-equals-hades.md) |
 
 ## Source Coverage
 
-- `Moon/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `194`
-- `Vernal Point/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
-- `Vernal Point/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `46`
-- `Vernal Point/Moon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `38`
-- `Vernal Point/Moon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `25`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Moon/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `131`
+- `Moon/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `194`
+- `Vernal Point/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `49`
+- `Vernal Point/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, printed page `46`
+- `Vernal Point/Moon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `38`
+- `Vernal Point/Moon = Hades`: Udo Rudolph - ABC for Planetary Pictures, printed page `25`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Vernal Point`: Poor women. Poor populace. Prisoners.
-- `Vernal Point/Hades = Moon`: This formula emphasizes depressed mind, poor, base people or women, miners, losses of the people, and pessimistic emotions or feelings.
-- `Vernal Point/Moon = Hades`: This formula emphasizes diseased womb, debilitated old woman, the grandmother, poor inhabitants, and poor nation.
+The set links [Moon/Hades = Vernal Point](../activations/moon-hades-equals-vernal-point.md), [Vernal Point/Hades = Moon](../activations/vernal-point-hades-equals-moon.md), and [Vernal Point/Moon = Hades](../activations/vernal-point-moon-equals-hades.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

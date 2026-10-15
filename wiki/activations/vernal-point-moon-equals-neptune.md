@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Neptune](../triads/vernal-point-moon-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Weak women. Sensitive women. Motion of the air.
 
@@ -42,13 +46,27 @@ Weak women. Sensitive women. Motion of the air.
 
 #### ABC Entry
 
-A woman's fine feeling for the frequent life, alien people in public life, sloppy feelings in public, sensitivity of a people in public, unsettled women in public, and future of women in public life
+- Source page: 25; PDF page: 11 (one-based spread).
+
+A woman's fine sensitivity to public life, foreign peoples in public life, gradually advancing feelings in public, a people's public sensitivity, unsettled women in public, and women's future in public life
+
+## Comparative Schema
+
+- core meaning: Public feeling marked by sensitivity, uncertainty, or gradual movement.
+- psychology: Fine sensitivity and unsettled feelings are explicit.
+- body/health: Witte's weakness is an attributed association without clinical detail.
+- social/relationship: Foreign peoples and sensitive or unsettled women.
+- events/manifestations: Motion of the air and women's future in public life.
+- conflicts/notes: Schleichende describes gradual or creeping feelings; it does not mean sloppy feelings.
+
+## Contradictions
+
+Sensitivity and uncertainty coexist, but foreign peoples and the motion of air are separate examples. Neither implies personal weakness.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Neptune`: weak women, sensitive women, and motion of the air.
-- Practical expression: a woman's fine feeling for the frequent life, alien people in public life, sloppy feelings in public, sensitivity of a people in public, and unsettled women in public.
+In `Vernal Point/Moon = Neptune`, public feeling is finely responsive and may become uncertain or develop gradually. The [Witte entry](#witte-entry) names sensitive or weak women and the motion of air. The restored [ABC entry](#abc-entry) adds collective sensitivity, unsettled women, foreign peoples, and the future of women in public life. The synthesis preserves sensitivity and insecurity without turning unfamiliar people into an adverse condition.
 
 ## Links
 

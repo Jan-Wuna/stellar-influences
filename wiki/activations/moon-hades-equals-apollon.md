@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Hades](../axes/moon-hades.md)
 - Triad hub: [Moon Hades Apollon](../triads/moon-hades-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Hades`; one-based PDF page `131` (exact oriented entry checked against actual scan).
 
 To have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.
 
@@ -42,13 +46,27 @@ To have to care for many. Many worries. The mass of the lower people. Need and w
 
 #### ABC Entry
 
-Spreading the plight of a people, experiences of an old woman, successful Y passed away a woman, experiencing GemOt's heart, criminal knowledge of a woman, many dangers for the woman, knowledge of the past of a people, and increasing renunciation of a woman
+- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (complete oriented row checked against actual scan).
+
+Spread of a people's need, experiences of an old woman, successful past of a woman, experiencing emotional grief, criminal knowledge of a woman, many dangers for the woman, knowledge of a people's past, increasing renunciation by a woman.
+
+## Comparative Schema
+
+- core meaning: Need and worry extend across many people.
+- psychology: Having many cares and responsibility for many others is Witte's explicit emphasis.
+- body/health: The entries do not specify a bodily condition or clinical intervention.
+- social/relationship: Caring for a multitude; Witte's class label 'lower people' remains a historical judgment.
+- events/manifestations: Spreading collective need and knowledge of a people's past are clear ABC examples.
+- conflicts/notes: The scan's successful past is a distinct favorable example, not a woman's death; criminal knowledge remains attributed severe wording.
+
+## Contradictions
+
+No direct contradiction is established. The entries' severe and less severe examples retain their separate scopes and historical source status.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Apollon`: To have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.
-- Practical expression: spreading the plight of a people, experiences of an old woman, successful Y passed away a woman, experiencing GemOt's heart, and criminal knowledge of a woman.
+In `Moon/Hades = Apollon`, concern extends across many people: having many cares and caring for a multitude accompany spreading collective need. Experience, a woman's successful past and knowledge of a people's history also belong to the row, alongside grief, danger and increasing renunciation. The broader field therefore includes accumulated experience as well as distress; Witte's class-laden label remains an attributed historical judgment. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

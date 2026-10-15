@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Pluto](../triads/vernal-point-moon-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Adaptability. Quick changes. Changes in the structure of nations.
 
@@ -42,13 +46,27 @@ Adaptability. Quick changes. Changes in the structure of nations.
 
 #### ABC Entry
 
-Developments in the world of women, evolution in the public life cine people, hours of public change, changes in the public by women, growing people in the public, and growing world of women
+- Source page: 25; PDF page: 11 (one-based spread).
+
+Developments in women's world, evolution in a people's public life, an hour of public transformation, public changes through women, a growing people in public, and women's expanding world
+
+## Comparative Schema
+
+- core meaning: Public collective life changing, developing, or expanding.
+- psychology: Adaptability is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Changes through women and in the structure of nations.
+- events/manifestations: Quick changes, collective development, and growth.
+- conflicts/notes: Growth and change are not independently labeled beneficial or harmful.
+
+## Contradictions
+
+No direct contradiction is established. Quick change and broader development describe different rates or forms of transformation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Pluto`: adaptability, quick changes, and changes in the structure of nations.
-- Practical expression: developments in the world of women, hours of public change, changes in the public by women, and growing people in the public.
+In `Vernal Point/Moon = Pluto`, public feeling and collective life are approached through change. The [Witte entry](#witte-entry) emphasizes adaptability, quick changes, and altered national structures. The restored [ABC entry](#abc-entry) adds development in women's world and a people's public life, growth, and changes brought about by women. The reading connects collective transformation with adaptable participation while leaving its outcome open.
 
 ## Links
 

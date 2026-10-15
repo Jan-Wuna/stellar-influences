@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node Asc Hades](../triads/node-asc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Secret connection with others. To be visited by criminals, burglars. To be fed u
 
 Encounter with the dirt of the environment, poor partner relationships, partner relationship in need, local criminal links, association with past partners, connection to environmental crime, and hidden partner relationships
 
+## Comparative Schema
+
+- core meaning: Hidden or difficult relations with people in one's immediate environment.
+- psychology: Being fed up with other people is explicit in Witte.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Hidden partnerships, poor partner relations, or a partner connection in need.
+- events/manifestations: A visit by burglars in Witte; local crime and ties to earlier partners in ABC.
+- conflicts/notes: Criminal examples are particular attributed events, not a description of every associate.
+
+## Contradictions
+
+The secret-contact and local-difficulty themes overlap. Earlier partners are a separate past-related example, not necessarily criminal.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Asc`: Secret connection with others. To be visited by criminals, burglars. To be fed up with other people.
-- Practical focus: secret connection with others; also to be visited by criminals, burglars.
+Asc specifies Node/Hades through concealed or troublesome contact with nearby people. The [Witte entry](#witte-entry) names secret connections, irritation with others, and the concrete example of a visit by burglars. The [ABC entry](#abc-entry) adds poor or hidden partnerships, connection in need, and ties with past partners. The entry supports several difficult interpersonal contexts without identifying every partner as harmful.
 
 ## Links
 

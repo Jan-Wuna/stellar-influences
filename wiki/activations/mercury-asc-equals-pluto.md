@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Pluto Asc](../triads/mercury-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT + MERCURY`
+- Source locator: PDF p. `83` (oriented entry; scan checked).
 
 #### Witte Entry
 
@@ -43,11 +48,17 @@ The opinions about the native undergo change. Others draw their consequences or 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Merkur`
+- Source locator: printed p. `107`, PDF p. `52` (entry).
+- Text basis: translation checked against the raw scan on PDF p. `52`; supplied parser-normalized OCR was not itself visually verified.
+
 #### ABC Entry
 
-Change partners, development of opinions in the environment, local language about the environment, partner language about development, and change of youth at the place
+Development of language with others, conversations about the development of a place, changing conversation partners, development of opinions in the environment, local conversations about the environment, partner conversations about development, and transformation of local youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed pp. `170–171`, PDF pp. `172–173`, entry `0563` (spans the page break; scan checked).
 
 #### Ebertin Entry
 
@@ -55,14 +66,16 @@ Desire to establish one's influence over people within one's own environment, at
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source locator: PDF p. `53` (complete Pluto entry; chapter starts on p. `52`; scan checked).
+
 #### Sandbach Entry
 
-One is strongly impacted by sharing ideas with others, and such experiences can be transforming in the extreme. One may put ideas together in a way that hold one back, and need to “rewire” them in a way that supports one’s personal evolution.
+One is strongly impacted by sharing ideas with others, and such experiences can be transforming in the extreme. One may put ideas together in a way that hold one back, and hence need to “rewire” them in a way that supports one’s personal evolution.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source locator: printed p. `180`, PDF p. `181` (Pluto entry; scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Insight into understanding yourself as a person, and the role that other people 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Exchanging ideas changes opinions and can become an effort to exert influence ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: Reworking limiting patterns of thought and understanding people's motivations are described.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Others' conclusions, influence within one's environment, and violent arguments form the relational range.
+- events/manifestations: Changed opinions, career advancement, and transformation through sharing ideas are named.
+- conflicts/notes: The scan restores the development-of-language opening incorrectly attached to Neptune and specifies conversation partners rather than partners without qualification.
 
 ## Contradictions
 
-- None recorded yet.
+Change and influence can be constructive or contentious. The entries do not establish that either expression cancels the other. The ABC opening and conversation-partner wording were restored from the scan.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Pluto`: persuasive impact, strategic communication, and the ability to shift a situation or relationship through words, plans, or insight. Main caution: escalation: arguments can become force struggles, and influence can harden into manipulation or verbal coercion.
+In `Mercury/Asc = Pluto`, Pluto specifies communication with others through changes in opinion, influence, and the impact of sharing ideas. Other people's conclusions about the individual can change, while exchanges may also reveal thought patterns that need reworking ([Witte](#witte-entry), [Sandbach](#sandbach-entry)). [Ebertin](#ebertin-entry) includes both advancement through influence and violent argument; [Munkasey](#munkasey-entry) (p. 180) adds interest in people's motives. These are bounded expressions, not grounds to infer manipulation.
 
 ## Links
 

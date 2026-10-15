@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Adds an impulse to lower yourself and your status in life; brings an obsession a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A lowering of one's standing linked with obsessive vengeance in Munkasey's account.
+- psychology: Fixation on revenge against those who have caused harm or obstruction.
+- body/health: No bodily or medical effect is described.
+- social/relationship: Deteriorating responses to others and perceived enemies.
+- events/manifestations: Reduced living standards or status in the source's examples.
+- conflicts/notes: This single With Itself entry gives a severe negative account; it is not a universal character judgment or a broader repeated-factor doctrine.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is present; no comparison between sources is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Pluto`: Adds an impulse to lower oneself and one's status in life; brings an obsession at gaining vengeance against others who have harmed or impeded one; debases one's standards of living and overall responses to others in life.
+In `Mars/Pluto = Pluto`, repeated Pluto specifies the pair through an obsessive urge for vengeance and a lowering of one's standing in Munkasey's account. The passage connects revenge against people who have caused harm or obstruction with reduced living standards and poorer responses to others. This is the single entry's severe description, rather than a universal verdict on a person's character or future. ([Munkasey entry](#munkasey-entry), printed p. 242)
 
 ## Links
 

@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `VP/Q = W`
 - Axis page: [Vernal Point/Venus](../axes/vernal-point-venus.md)
 - Triad hub: [Vernal Point Venus Saturn](../triads/vernal-point-venus-saturn.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ The end of mating time. Love’s parting.
 
 #### ABC Entry
 
-Joy in the public in old age, peace tasks in public, peace burdens in public, local public harmony, local beauty of the world, public peace cancellations, and preference for public surrenders
+- Source reference: printed p. `31`, one-based PDF p. `14`, complete Saturn row.
+
+German passage transcribed from the scan:
+
+> Freude in der Öffentlichkeit im Alter, Friedens-Aufgaben in der Öffentlichkeit, Friedens-Belastungen in der Öffentlichkeit, gestörte öffentliche Harmonie, gestörte Schönheit der Welt, öffentliche Friedens-Störungen, Vorliebe für öffentliche Aufgaben
+
+Editorial translation: Joy in public in old age; peace tasks in public; peace burdens in public; disturbed public harmony; disturbed beauty of the world; public disturbances of peace; preference for public tasks.
+
+## Comparative Schema
+
+- core meaning: harmony and affection are qualified by parting, burdens, or disturbance, alongside the work of peace.
+- psychology: ABC retains joy in public life in old age; the scan also names a preference for public tasks.
+- body/health: “the end of mating time” is Witte's phrase, without a medical explanation or a diagnosis.
+- social/relationship: Witte names love's parting; ABC concerns public harmony and peace rather than the same private event.
+- events/manifestations: peace tasks, peace burdens, and disturbances of public peace are explicit in the German entry.
+- conflicts/notes: ABC includes both joy in old age and disturbances of harmony and peace, without specifying the conditions separating them.
+
+## Contradictions
+
+- Joy in old age, peace work, and love's parting describe different possibilities. They do not support an invariably unhappy outcome or identify one shared event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Venus = Saturn`: the end of mating time and love’s parting.
-- Practical expression: oy in the public in old age, peace tasks in public, peace burdens in public, local public harmony, and local beauty of the world.
+In `Vernal Point/Venus = Saturn`, Saturn specifies harmony through its burdens, interruptions, and possible endings. The [Witte entry](#witte-entry) describes parting in love (PDF p. 41), while the [ABC entry](#abc-entry) locates the theme in public peace work and disturbed public harmony, yet also allows joy in old age (printed p. 31; PDF p. 14). The picture therefore includes responsibility for peace as well as its disruption; it does not establish that every relationship must end.
 
 ## Links
 

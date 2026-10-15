@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `¢/¥ = §`
 - Axis page: [Hades/Apollon](../axes/hades-apollon.md)
 - Triad hub: [Hades Apollon Vulcanus](../triads/hades-apollon-vulcanus.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -44,10 +45,23 @@ Massive spreading of poverty and need. Mighty misery. Great destruction. Greates
 
 Success through non violence, dangerous experience of violence, violence threatens freedom, secret power expansion, criminal power of science, grief through violence, power through secret knowledge, and hidden trade power
 
+## Comparative Schema
+
+- **Core meaning:** The pair is specified through great scale, power, or force, with both destruction and specialized success represented.
+- **Psychology:** The entries concern force and its consequences, without a distinct personality profile.
+- **Body/health:** Violence is named as experience; no specific injury or illness is established.
+- **Social/relationship:** Power over knowledge and hidden commerce accompanies mass poverty and threats to freedom.
+- **Events/manifestations:** Destruction, widespread need, successful scrap trade, historical scholarship, occult expertise, and renouncing violence are included.
+- **Conflicts/notes:** Success through nonviolence is an important ABC alternative to violence. It should not be flattened into inevitable coercion.
+
+## Contradictions
+
+No direct contradiction is established. Destructive force, specialized achievement, and success through restraint are distinct possibilities in the entries.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Vulcanus`: the bleak field becoming forceful and far-reaching, whether as destruction, intensified poverty, or potent command of hidden and historical knowledge. Main caution: power amplifying the misery instead of only the insight.
+In `Hades/Apollon = Vulcanus`, Vulcanus specifies the pair through force, scale, and effectiveness. The [Witte entry](#witte-entry) juxtaposes massive poverty or destruction with great success in scrap trade, historical science, or occult work (PDF entry start p. 281). The [ABC entry](#abc-entry) adds secret power, power through knowledge, and harmful experiences of violence, but also success through renouncing violence (printed p. 443). The reading must therefore preserve a choice of manifestations: the evidence does not make power necessarily destructive or specialized knowledge necessarily coercive.
 
 ## Links
 

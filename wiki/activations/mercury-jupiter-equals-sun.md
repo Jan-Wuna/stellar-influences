@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Sun`
 - Astronomicon formula: `T/V = S`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,23 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Happy mood. Lively and agile body. Enjoyment of physical motions. Daily news or discussions about money. Many moving objects.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
 Talks in a money center, successful language of a person, successful media center, happy young people, media success of a man, human movement pleasure, positive thoughts of a person, and center for traffic law
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +71,21 @@ Bringing personal influence to efforts to educate others about your interests; b
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal influence and purpose expressed through communication ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Happy mood, objectivity, and decisiveness are explicit.
+- body/health: Witte describes bodily agility and enjoyment of movement.
+- social/relationship: Supportive contacts can further objectives; education brings interests to others.
+- events/manifestations: Money discussions, news, media activity, and moving objects are named.
+- conflicts/notes: Munkasey distinguishes opinion presented as fact from Sandbach's objectivity.
 
 ## Contradictions
 
-- None recorded yet.
+Objectivity in Sandbach and restating opinion as fact in Munkasey are materially different possibilities. Witte's bodily and financial examples extend the range beyond a solely intellectual identity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Sun`: teacherly selfhood, persuasive presence, and identity strengthened through ideas, principles, and explanatory power. Main caution: inflated self-certainty: intelligence and confidence can become too fused, making correction or nuance harder to accept.
+In `Mercury/Jupiter = Sun`, Sun specifies broad thought through one's aims, influence, and way of presenting information. Communication and supportive connections can further objectives, while decisiveness can bring personal interests into educating others. Sandbach's objectivity remains distinct from Munkasey's opinion restated as fact. Happy mood, bodily agility, movement, and money discussions are additional concrete manifestations in Witte and ABC ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry), [Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Mercury`
 - Astronomicon formula: `Y/¦ = T`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Speeches, writings, opinions or thoughts about new forms of being.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `402`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Autlosung of traffic blockades, movement in deep water, blocked water movement, blocked air traffic, thoughts about circulatory weakness, intuitive thoughts condensing, talking about creeping depressions, and deepening youth in metaphysics
+Dissolution of traffic blockades, movement in deep water, blocked water movement, blocked air traffic, thoughts about circulatory weakness, condensing intuitive thoughts, talking about creeping depression, and young people's deepening involvement in metaphysics
+
+## Comparative Schema
+
+- core meaning: thinking and speaking about changed forms of living or being.
+- psychology: intuitive thoughts and discussion of depression are attributed source themes.
+- body/health: circulatory weakness and depression are subjects of thought or conversation, not established conditions.
+- social/relationship: young people's metaphysical involvement is ABC's stated social example.
+- events/manifestations: speeches, writings, traffic-blockade dissolution, deep-water movement, and blocked transport are listed.
+- conflicts/notes: the entries do not say that thinking precedes lived change or ensures effective adaptation.
+
+## Contradictions
+
+Witte's ideas about new forms of being and ABC's transport examples differ in subject. Their shared orientation does not make every traffic obstruction a psychological metaphor.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Mercury`: Speeches, writings, opinions or thoughts about new forms of being.
-- Practical focus: interprets `Neptune/Admetos` through ideas, speech, and reflection on changed conditions. It shows new forms of being becoming thinkable and discussable, so difficult transitions are processed mentally before they are fully lived.
-- Practical expression: autlosung of traffic blockades, movement in deep water, blocked water movement, blocked air traffic, and thoughts about circulatory weakness.
+In Neptune/Admetos = Mercury, Mercury specifies the pair through thought, speech, and writing about new forms of being. The [Witte entry](#witte-entry) states that intellectual theme; [ABC](#abc-entry) adds intuitive thought, discussion of depression, and young people's involvement in metaphysics (printed p. 402, PDF p. 200). ABC also preserves literal movement and transport-blockade examples. These remain distinct settings, without establishing that reflection must precede a change in living conditions.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Kronos](../triads/sun-mars-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Leading man in the activity. Family head. Foreman. Professional soldier.
 
 #### ABC Entry
 
-Particularly active man, acts of an authoritat person, acting persons of the state, self employed man, self employed person, state work centre, and superior acts of a man
+Source locator: printed page 147 / PDF page 72, Kronos glyph under Sonne + Mars. English translation checked against the complete eight-clause row.
+
+Particularly active man, actions of an authority figure, directing personal will, acting persons of the state, self-confident working man, independently acting person, state work center, and superior actions of a man.
+
+## Comparative Schema
+
+- core meaning: Authority exercised through personal activity.
+- psychology: Self-directed action is an ABC theme.
+- body/health: No health claim is stated.
+- social/relationship: Witte names family head, foreman, and professional soldier.
+- events/manifestations: Leading or directing work; state activity.
+- conflicts/notes: ABC distinguishes self-confidence, independent action and directing will without specifying an employment status.
+
+## Contradictions
+
+The entries overlap on leading activity. ABC adds self-confidence and directing personal will; independently acting does not by itself specify self-employment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mars = Kronos`: leadership in action and forceful command.
-- Practical expression: particularly active man, acting persons of the state, self employed man, and self employed person.
+In `Sun/Mars = Kronos`, Kronos specifies Sun/Mars activity as leading, directing, or acting with authority. The [Witte Entry](#witte-entry) gives the foreman, family head, and professional soldier as concrete roles; the [ABC Entry](#abc-entry) connects action with authority, the state, self-confidence and directing personal will. The supported emphasis is the person who takes a leading part in the work, rather than forcefulness alone.
 
 ## Links
 

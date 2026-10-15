@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Admetos/Admetos](../axes/admetos-admetos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 #### Witte Entry
 
-Setded. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.
+Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start).
+
+Settled. Stationary. Others are pushed in the background or feel inferior. Others retire or withdraw. Other people with a conservative personality. Others are narrow minded or constrain us. Stationary at one place. Narrow or limited surroundings. Few acquaintances.
+
+## Comparative Schema
+
+- core meaning: Stationary conditions and a restricted social environment.
+- psychology: Others are described as conservative, narrow-minded, or feeling inferior.
+- body/health: No specific bodily or medical meaning is supplied.
+- social/relationship: Few acquaintances; others withdraw, are pushed into the background, or constrain the person.
+- events/manifestations: Remaining in one place and living in narrow surroundings.
+- conflicts/notes: The conservative or narrow-minded descriptions in the [Witte entry](#witte-entry) concern other people, not necessarily the person being read.
+
+## Contradictions
+
+Only one source entry is present. Its descriptions of withdrawing people and constraining people give different forms of restricted contact; they do not establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Admetos = Asc`: reserve, endurance, and life lived within tight limits or very few contacts. Main caution: immobilized contact: isolation, social withdrawal, oppressive surroundings, or a self-presentation so closed that little can move around it.
+In `Admetos/Admetos = Asc`, Asc specifies the repeated Admetos pair as settled or stationary conditions, limited surroundings, and restricted contact with other people. The [Witte entry](#witte-entry) joins remaining in one place and having few acquaintances with others withdrawing, being sidelined, or imposing constraints. Its descriptions of conservatism and narrow-mindedness concern those others; they do not by themselves establish the person's own character or appearance.
 
 ## Links
 

@@ -1,0 +1,831 @@
+{
+  "batch": "source-closure-A-batch02",
+  "status": "stable_pending_independent_audit",
+  "targets": 26,
+  "review_counts_added": 0,
+  "record_hash_contract": "SHA256 actual UTF8 JSONL record line excluding newline",
+  "source_hash_normalization": "UTF-8; CRLF to LF; text between Source Entries and Comparative Schema; terminal standalone synthesis anchor removed; outer strip",
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-dispositions.jsonl",
+  "active_or_reserved_paths_in_batch": [],
+  "bindings": [
+    {
+      "id": "A-021",
+      "path": "wiki/activations/jupiter-mc-equals-moon.md",
+      "queue_index": 68,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "fb76f10b918d09031db4ef5365fe5549728d180bad86c9984ba1e0a93e67b826",
+      "source_entries_sha256": "eceb87f96c303f0240c3b460f537ee5bac3a254648c23159e16f1abffa760652",
+      "owner_record_sha256": "dfb7e22f551b80475de10ff306b8cabb24244890bbeb45ac3f36bc32bd7b4690",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Moon row",
+        "Witte PDF65 Meridian+Jupiter Moon row",
+        "Sandbach PDF86 Jupiter/Midheaven Moon paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+          "sha256": "b891d3ed0145a635952911a2d21c70609c2c599eb9ba1172fab18e62834a7511"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-022",
+      "path": "wiki/activations/jupiter-mc-equals-neptune.md",
+      "queue_index": 69,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "09394b78e94b3e4378fd1f5305f63e4a8424d6f3ab360e233fe1c876f1530be9",
+      "source_entries_sha256": "94302c703a3375fcafa5678bc15178fa2e4b1a16c67c05e2eceaa657c9fae821",
+      "owner_record_sha256": "336a38fc53313af0888f2c0f37c371f2204de30fd0e47b30c5757026462eae49",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Neptune row",
+        "Witte PDF65 Meridian+Jupiter Neptune row",
+        "Sandbach PDF87 Jupiter/Midheaven Neptune paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png",
+          "sha256": "107d2d5895129f2df49e501c64a83acb2b52718bd907f82c4ea134e1ed754dcd"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's joy in the air and water has no specified setting."
+      ]
+    },
+    {
+      "id": "A-023",
+      "path": "wiki/activations/jupiter-mc-equals-node.md",
+      "queue_index": 70,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "5ce2c906813060665e01e9cab9b9d355b8bf089706686dba802124627cb5d245",
+      "source_entries_sha256": "a48caacaacb1b9277c748abcb3f8360e9b19e71c0e9c9491ec2404c8b955a687",
+      "owner_record_sha256": "120e1cedf262a65e232619394f05ad9d69563cb542871d64cf4da47276b0a619",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Node row",
+        "Witte PDF65 Meridian+Jupiter Node row",
+        "Sandbach PDF87 Jupiter/Midheaven Node paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png",
+          "sha256": "107d2d5895129f2df49e501c64a83acb2b52718bd907f82c4ea134e1ed754dcd"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-024",
+      "path": "wiki/activations/jupiter-mc-equals-pluto.md",
+      "queue_index": 71,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "62a45d47a77e712661ca566770332df868bd32263cdff5d3fdecfd214ecc7cde",
+      "source_entries_sha256": "99dee1173f17f96a7958e7457a7eabdce143d098c2e031d261c2ca5eb52b1489",
+      "owner_record_sha256": "fd9f6c35e43a410d7095f7cd451186877fdeb0de84090d78a70fae145c0bfb9a",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Pluto row",
+        "Witte PDF65 Meridian+Jupiter Pluto row",
+        "Sandbach PDF87 Jupiter/Midheaven Pluto paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png",
+          "sha256": "107d2d5895129f2df49e501c64a83acb2b52718bd907f82c4ea134e1ed754dcd"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's changes through the law do not specify a proceeding or legal mechanism."
+      ]
+    },
+    {
+      "id": "A-025",
+      "path": "wiki/activations/jupiter-mc-equals-poseidon.md",
+      "queue_index": 72,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "790a7c9baccc716b3e1e89307454d996cfbb2a05c0791f4cd9d046a6215721bc",
+      "source_entries_sha256": "5995443a188f5d589ab7b536026dd365134231808897b0ef88a14fc88305490a",
+      "owner_record_sha256": "e95b035331189beba12cfd20977a4ff36a435a02c794ac24ab20ec6d3ec6f2d9",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Poseidon row",
+        "Witte PDF65 Meridian+Jupiter Poseidon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's intellectual or spiritual right is not defined more specifically."
+      ]
+    },
+    {
+      "id": "A-026",
+      "path": "wiki/activations/jupiter-mc-equals-saturn.md",
+      "queue_index": 73,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "018c4913643bdf276769168a4f6e33225888a5701916bf6780d072def2ff3ef9",
+      "source_entries_sha256": "3b233d90355f821d894d11556842334fcd86afe5c5b21a8e9cb0ddb87e82ad5c",
+      "owner_record_sha256": "8d2dac0184887294efe55b5ec626914413df4ea2cf0d7134e6bc46bf82a145cf",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Saturn row",
+        "Witte PDF65 Meridian+Jupiter Saturn row",
+        "Sandbach PDF86–87 Jupiter/Midheaven Saturn paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+          "sha256": "b891d3ed0145a635952911a2d21c70609c2c599eb9ba1172fab18e62834a7511"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png",
+          "sha256": "107d2d5895129f2df49e501c64a83acb2b52718bd907f82c4ea134e1ed754dcd"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's compensation for pain and suffering does not specify an injury or legal case."
+      ]
+    },
+    {
+      "id": "A-027",
+      "path": "wiki/activations/jupiter-mc-equals-sun.md",
+      "queue_index": 74,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "ea9ad824a89a0a7d529c6a7b88115845eba8e537cf21cce802a9e25d8b207fd0",
+      "source_entries_sha256": "75e36b7cbae236db3d967681c6382ca8bd06b94bd450da8aab2f9199a9125380",
+      "owner_record_sha256": "ce241bf51ed549c1fcb0c4e76e85e119212db67b400a07a05ac87f9aeac7bf1d",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Sun nine-clause row",
+        "Witte PDF65 Meridian+Jupiter Sun row",
+        "Sandbach PDF86 Jupiter/Midheaven Sun paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+          "sha256": "b891d3ed0145a635952911a2d21c70609c2c599eb9ba1172fab18e62834a7511"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-028",
+      "path": "wiki/activations/jupiter-mc-equals-venus.md",
+      "queue_index": 75,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "fe048610ff2b33a35d27e8dae900946dd272fccf896449a1a375ebf4620e1f89",
+      "source_entries_sha256": "75775c84c53913d8b3cb790e844d68fc395741f35bf34814a6635fd6889c6686",
+      "owner_record_sha256": "abccfd0ff1ac784b34a9cdac43f628027537b20311015c8c6bcffa8fbb99b671",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Venus complete nine-clause row",
+        "Witte PDF65 Meridian+Jupiter Venus row",
+        "Sandbach PDF86 Jupiter/Midheaven Venus paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+          "sha256": "b891d3ed0145a635952911a2d21c70609c2c599eb9ba1172fab18e62834a7511"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-029",
+      "path": "wiki/activations/jupiter-mc-equals-vernal-point.md",
+      "queue_index": 76,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "1994e1b5ffcc4544c7364324da5eda4bbba7a4d2fb6947e5ded29c3ab355d956",
+      "source_entries_sha256": "091ec90adf08361ea636a59da6e02341e5664a5b13cfa0814bf53a16929d84b9",
+      "owner_record_sha256": "a9e70ed06f83b496642e749c6bae8c5d25f056f921d0e473f048e2e388a9caa9",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Vernal Point seven-clause row",
+        "Witte PDF65 Meridian+Jupiter Vernal Point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's public right does not specify a particular entitlement or legal context."
+      ]
+    },
+    {
+      "id": "A-030",
+      "path": "wiki/activations/jupiter-mc-equals-vulcanus.md",
+      "queue_index": 77,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "b8f39657a42ec1540e9c255a0263cf0ec1d212da14b65d88274c4b38ca39a3da",
+      "source_entries_sha256": "774ebcdef7c55722732bbbdd693a4f4b1782d11af5aedd06c06b2b1357b631e9",
+      "owner_record_sha256": "55088f079668b26a1417719f968ef03843b6ae7389ca56c2f91f175868bfec5f",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Vulcanus ten-clause row",
+        "Witte PDF65 Meridian+Jupiter Vulcanus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's legal advantage and scale of success have no particular circumstance specified."
+      ]
+    },
+    {
+      "id": "A-031",
+      "path": "wiki/activations/jupiter-mc-equals-zeus.md",
+      "queue_index": 78,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "64ddfbc1e78bf73fe55d175868fa6a3bd84dbc9a9932e829b1bf8e44e1cc780e",
+      "source_entries_sha256": "12704f50ddf1a66ed20e60c624abd5315a9fbc65df5d7e390a915d1b0b386261",
+      "owner_record_sha256": "4b130b6e31426ea0db700351cf5b85ddd0c3915a33edeb572d6b05e874737382",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Zeus eight-clause row",
+        "Witte PDF65 Meridian+Jupiter Zeus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's leadership wording names no particular office or institution."
+      ]
+    },
+    {
+      "id": "A-032",
+      "path": "wiki/activations/mars-saturn-equals-admetos.md",
+      "queue_index": 144,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "d339e17d6c285aa2540e25d7162c4754b62b4ea2476de27d6e43263af7062f1b",
+      "source_entries_sha256": "0843730cd28baddec1021d38b80763a7c61b35ac067ac419b849d60cd7a4035d",
+      "owner_record_sha256": "a893315c13a692edb6f0a070b9bd76f1d4bbc76a6d8f000935a001574e57a3a2",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Admetos seven-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Admetos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-033",
+      "path": "wiki/activations/mars-saturn-equals-hades.md",
+      "queue_index": 145,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "19b41e42ba33facbc5df90ba7039f1c4844a1d54ad106f2aaf975c8d814fcd74",
+      "source_entries_sha256": "a4c54051b4019c90faa433f23bd4b1228518f5efa022ad6e19aa86faa6cc72b3",
+      "owner_record_sha256": "ef57cce17dadbe78662db0abe92438ec9f11846e40eed20d0adb189dba867f82",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Hades eight-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Hades row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-034",
+      "path": "wiki/activations/mars-saturn-equals-jupiter.md",
+      "queue_index": 146,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "4ddc7de9ed5b88384179bea78226b8ee7409eced9c7ac059bb720e6bccf736aa",
+      "source_entries_sha256": "2f0dcaf5bbc9f69c4b605e539c845c81fd6d7a8d06726c375fc82a0550772e7b",
+      "owner_record_sha256": "d2d4b36451f4f5dc46515b52b7f7e21cac01bc4736d13de01a38c2b6dced50a7",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn Jupiter nine-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Jupiter row",
+        "Ebertin printed205/PDF207 entry0703",
+        "Sandbach PDF69 Mars/Saturn Jupiter paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-035",
+      "path": "wiki/activations/mars-saturn-equals-kronos.md",
+      "queue_index": 147,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "fb061acc548fbed9c34794d62c94c4521f86a46c4ac3ece4e0a2358f42039481",
+      "source_entries_sha256": "4167fcfadf90da5c01df7aeb511dfb8fb2f11e069e485895c0acec9e3841fe03",
+      "owner_record_sha256": "43b347698d250f64b526db7d0c3491de16c8953dbf612d6969abe43077e2bfb8",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Kronos seven-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Kronos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-036",
+      "path": "wiki/activations/mars-saturn-equals-mc.md",
+      "queue_index": 148,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "0eff7812d9a43d300697b90606fb770c331d8e0ed1c845e590be2a3fb03a5274",
+      "source_entries_sha256": "79ce41af1c7f2f2e11ec95d31598be9a804a873533640a50b2f0d398a7132aa0",
+      "owner_record_sha256": "7751dda4fdd9b10c9f4a135e90c57f91acaab32e4a7526f28029be85d05893df",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn MC ten-clause row",
+        "Witte printed197/PDF193 Mars+Saturn MC row",
+        "Ebertin printed206/PDF208 entry0709+footnote39; separate footnote38 begins printed205/PDF207",
+        "Sandbach PDF69 Mars/Saturn Midheaven paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p208.png",
+          "sha256": "0b466375056fd76d4adbc3156434495c74ae953810d0cf7a6a01597fba40c7e9"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-037",
+      "path": "wiki/activations/mars-saturn-equals-moon.md",
+      "queue_index": 149,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "bcb4b0ca92a73ac25f877b174b8ddaf916526885bb9fd4f4c0a673cd56478365",
+      "source_entries_sha256": "6690677e15e7aca4c1cea4eb1629a97ed82ed422746ec396c4d4fc77d5dc151c",
+      "owner_record_sha256": "b80a1972079f787c1639b8be16414ee26944034e6ab23ed4250b91fc8e89049d",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn Moon eight-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Moon row",
+        "Ebertin printed205/PDF207 entry0700",
+        "Sandbach PDF68 Mars/Saturn Moon paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p68.png",
+          "sha256": "62782e7812d22b794f894461a6ce5cd0ba6c7bf5ada2288e90aeb32c6b4f477e"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-038",
+      "path": "wiki/activations/mars-saturn-equals-neptune.md",
+      "queue_index": 150,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "60a78d6df9d4cf7dffc4947b9ddc9732ca4b7cec80e7eb547c74ccfa508e04b8",
+      "source_entries_sha256": "e314fb992f7132c41e6eef349b0f11a55b2a0a9b403368c78889bc3f7f6a588c",
+      "owner_record_sha256": "46b33e84e6b79e1a1b3aaa72b948b820fd6de5019067f59fa2f5334eda537471",
+      "actual_locators": [
+        "ABC printed301/PDF149 complete Neptune eight-clause row, boundary before Pluto glyph",
+        "Witte printed197/PDF193 Neptune row",
+        "Ebertin printed205/PDF207 entry0705",
+        "Sandbach PDF69 Mars/Saturn Neptune paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-039",
+      "path": "wiki/activations/mars-saturn-equals-node.md",
+      "queue_index": 151,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "9925d63bf54f8a6cdffc15e5752c64a4656447fe0429c70ffc1927db84e3ed87",
+      "source_entries_sha256": "0a133196da09a0685931da749862a34588f10f301238211d63b810fb23c75368",
+      "owner_record_sha256": "e37b86bea633463419d70e478cfb7622087722f9e95d0e487b644b64dbe04a99",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn Node seven-clause row",
+        "Witte printed197/PDF193 Node row",
+        "Ebertin printed206/PDF208 entry0707",
+        "Sandbach PDF69 Mars/Saturn Node paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p208.png",
+          "sha256": "0b466375056fd76d4adbc3156434495c74ae953810d0cf7a6a01597fba40c7e9"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-040",
+      "path": "wiki/activations/mars-saturn-equals-pluto.md",
+      "queue_index": 152,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "479fea225b2036ba23822ab9665a8e3a13471b9b9debc16c673366cb6451b6fe",
+      "source_entries_sha256": "712ae475cc7e206af369b91cf672704218792c39c5bddf1fad64bc6555316772",
+      "owner_record_sha256": "f09bf39c30721353cfe880968b8ae37640409f530b57021be3a2c6167f91607a",
+      "actual_locators": [
+        "ABC printed301/PDF149 complete Pluto eight-clause row after Neptune glyph boundary",
+        "Witte printed197/PDF193 Pluto row",
+        "Ebertin printed205–206/PDF207–208 entry0706 body continuation and complete footnote38",
+        "Sandbach PDF69 Mars/Saturn Pluto paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p208.png",
+          "sha256": "0b466375056fd76d4adbc3156434495c74ae953810d0cf7a6a01597fba40c7e9"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-041",
+      "path": "wiki/activations/mars-saturn-equals-poseidon.md",
+      "queue_index": 153,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "07f360f4a68055eb12bf9cf89ababdc143ab8ee72e574622fd44beb4c5f77917",
+      "source_entries_sha256": "dfc9f9b9646e3f733b7e9d832075022b1f7cebb57f8fd62f6712c1023b181bf1",
+      "owner_record_sha256": "09741f37acb58ff8f2c50b473ce3d469aacd9c80717ea2928a662a99fdc4d876",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Poseidon ten-clause row",
+        "Witte printed197/PDF193 Poseidon row, actual printed or"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": [
+        "Witte printed197/PDF193 actually reads “Interruption or a mental activity”; the awkward printed wording remains unchanged."
+      ]
+    },
+    {
+      "id": "A-042",
+      "path": "wiki/activations/mars-saturn-equals-uranus.md",
+      "queue_index": 154,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "ab5763c8c3a0074f0f91523ba7028f0ec3761855edf083153b023e1a080abe8e",
+      "source_entries_sha256": "e2c42b3c7699e38ed4ca411ad8cc860d92f196a09b5268cbe19b70defb49a705",
+      "owner_record_sha256": "0fcf0c4564abbe544263b4efc894c1155b1261404b270c03ef5b8768806d08dc",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Uranus eight-clause row",
+        "Witte printed197/PDF193 Uranus row",
+        "Ebertin printed205/PDF207 entry0704",
+        "Sandbach PDF69 Mars/Saturn Uranus paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-043",
+      "path": "wiki/activations/mars-saturn-equals-venus.md",
+      "queue_index": 155,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "db2aad46aa8f97a5b76e0b2b6f50fd2a82c036cc2ad95d548898f672dfa04fd7",
+      "source_entries_sha256": "d4524a04203fcef1d70aeefcaf8c26c008391e6ce45a36faf9a61e6779facd22",
+      "owner_record_sha256": "67f240f9d688d6ad0fa642435da0e33ae4caa3ecc1ac7e104bf7f3300df7b2a1",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn Venus ten-clause row",
+        "Witte printed197/PDF193 Venus row",
+        "Ebertin printed205/PDF207 entry0702",
+        "Sandbach PDF69 Mars/Saturn Venus paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-ebertin-p207.png",
+          "sha256": "c6b80e37e379b76343a4ec3091087ce8b8b6239a49378e4eb04fc73ff6a1792f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p69.png",
+          "sha256": "c9596f8a044b4a8ccf42bac48b92cd318887cd22663ac74d1ae59f9f9a236812"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-044",
+      "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+      "queue_index": 156,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "2f8e85bc71f55d9145b2e23efaca59324a0aee358bdd18666fcf86c461a19412",
+      "source_entries_sha256": "e7ca9832e2785f0f5a522b11f813c3b341d07f41811ffd006fba173657e2cb26",
+      "owner_record_sha256": "253840c965b7c859702c710b49fe5ee6f95ba318f9af963cd662e50c6edcc26c",
+      "actual_locators": [
+        "ABC printed300/PDF149 Mars+Saturn Vernal Point six-clause row before MC",
+        "Witte printed197/PDF193 Mars+Saturn Vernal Point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-045",
+      "path": "wiki/activations/mars-saturn-equals-vulcanus.md",
+      "queue_index": 157,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "441a80e13ba0d0f1221fba481585ebeb10e59246a8086dac203d8e9c7808ac35",
+      "source_entries_sha256": "0f8d3f3d26f91c575f7b969d2e0aa794f44c5cb71643f67e6ac2add361bbe50c",
+      "owner_record_sha256": "6443065200769f55f4799ff85587f4c8d9aee32cef663b0ee8b4c4908217c1b5",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Vulcanus nine-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Vulcanus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-046",
+      "path": "wiki/activations/mars-saturn-equals-zeus.md",
+      "queue_index": 158,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "original_reviewer": "activations_028_029_leaf",
+      "canonical_sha256": "91c9cb852d4cbf5fa6a64be6418ac37dbffba821cda33077360916e644678410",
+      "source_entries_sha256": "c598219ce54468efaf0f92dcc5268c4cc5c19896611b85e0d1316f70b2b3e489",
+      "owner_record_sha256": "30e7f9bccee659acff6a998f701ea77365402fa4c9e9cbab9515aaf9cf932d39",
+      "actual_locators": [
+        "ABC printed301/PDF149 Mars+Saturn Zeus eight-clause row",
+        "Witte printed197/PDF193 Mars+Saturn Zeus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p149.png",
+          "sha256": "127e8e9bf2ccfe0962971ac0506ddb560249dbb9a876ee7ae60ba24c2e850ae2"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p193.png",
+          "sha256": "cc6aadd1a316a41418f85dbe5dea4fcbf80fa59a5fc738dfa60d4c011f183d4b"
+        }
+      ],
+      "remaining_limits": []
+    }
+  ]
+}

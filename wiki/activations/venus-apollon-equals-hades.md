@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Apollon](../axes/venus-apollon.md)
 - Triad hub: [Venus Hades Apollon](../triads/venus-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 186, Venus/Apollon, Hades row; actual glyph and neighboring rows checked.
 
 Friendship with servants and serving people. Vulgar art and science. To make art and science popular. Layman’s art. Lay science. Art and science of antiquity or the past.
 
@@ -42,13 +46,27 @@ Friendship with servants and serving people. Vulgar art and science. To make art
 
 #### ABC Entry
 
-Success through love forgotten, silence through freedom love, danger through commercial love, criminality in arts and trade, criminal arts trade, love kummer experience, tendency to dangerous trade, and art from the past
+- Source reference: printed p. 291; one-based PDF p. 144, Venus/Apollon, Hades row; complete row and neighboring glyph boundaries checked.
+
+Editorial translation, checked against the scan: Success through renunciation of love, difficulties through love of freedom, danger through commercial love, criminality in art and commerce, criminal art trade, experiencing sorrow in love, inclination toward dangerous trade, and artistic success from the past.
+
+## Comparative Schema
+
+- **core meaning:** Friendship and cultural activity are placed in service, popular, amateur or historical settings. [Sources](#source-entries).
+- **psychology:** ABC names renunciation, difficulties through love of freedom and sorrow in love; Witte chiefly supplies social and cultural settings. [Sources](#source-entries).
+- **body/health:** Neither entry establishes a medical condition. [Sources](#source-entries).
+- **social/relationship:** Witte's friendship with serving people is preserved in its historical class language. [Sources](#source-entries).
+- **events/manifestations:** Popularizing art or science, amateur activity and art or science of antiquity in Witte; artistic success from the past and hazardous or criminal trade in ABC. [Sources](#source-entries).
+- **conflicts/notes:** Vulgar, servant and layman terminology remains historical source vocabulary; criminal art trade is an attributed adverse possibility rather than a judgment about art or service. [Sources](#source-entries).
+
+## Contradictions
+
+Witte's service, popular or amateur cultural settings do not establish criminality. ABC separately names dangerous or criminal trade, renunciation of love and sorrow; these adverse possibilities must remain distinct from the historical class vocabulary.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon = Hades`: friendship with servants and serving people.
-- Practical expression: success through love forgotten, silence through freedom love, danger through commercial love, criminality in arts, and trade.
+In `Venus/Apollon = Hades`, friendship and cultural activity can concern service, popular or amateur participation, and the past. The [Witte entry](#witte-entry) includes making art and science popular and work from antiquity; its servant and vulgar terminology remains historical vocabulary. [ABC](#abc-entry) adds artistic success from the past, while retaining renunciation of love, difficulties through love of freedom and sorrow in love. Dangerous commercial love or criminal art trade are separate adverse possibilities, not consequences of participating in amateur or service settings.
 
 ## Links
 

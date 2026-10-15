@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Apollon`
 - Astronomicon triad-set: `R X ¥`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Apollon = Uranus](../activations/moon-apollon-equals-uranus.md)
-- [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md)
-- [Uranus/Apollon = Moon](../activations/uranus-apollon-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Apollon = Uranus](../activations/moon-apollon-equals-uranus.md) | [Moon/Apollon](../axes/moon-apollon.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Apollon](../factors/apollon.md) |
+| [Uranus/Apollon = Moon](../activations/uranus-apollon-equals-moon.md) | [Uranus/Apollon](../axes/uranus-apollon.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `134`
-- `Moon/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `201`
-- `Moon/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Apollon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
-- `Uranus/Apollon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `382`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Apollon = Uranus](../activations/moon-apollon-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-apollon-equals-uranus.md#witte-entry) (PDF p. 134); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-apollon-equals-uranus.md#abc-entry) (printed p. 201) |
+| [Moon/Uranus = Apollon](../activations/moon-uranus-equals-apollon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-apollon.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-apollon.md#abc-entry) (printed p. 187) |
+| [Uranus/Apollon = Moon](../activations/uranus-apollon-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-apollon-equals-moon.md#witte-entry) (PDF p. 240); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-apollon-equals-moon.md#abc-entry) (printed p. 382) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Uranus`: To spend many animated hours. Many people suddenly interested in astrology. Surprising expansion of people, or of a rebellion. To be suddenly in the center of a mob. Excited people.
-- `Moon/Uranus = Apollon`: This activation expands `Moon/Uranus` into prolonged excitement, mass unrest, and disturbance that spreads outward. It favors larger social or emotional waves of disruption, where agitation becomes collective, amplified, and harder to contain.
+`Moon Uranus Apollon` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

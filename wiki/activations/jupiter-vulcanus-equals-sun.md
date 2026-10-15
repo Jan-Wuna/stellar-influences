@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Vulcanus = Sun`
 - Astronomicon formula: `V/§ = S`
 - Axis page: [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 217, Jupiter + Vulcanus, oriented activator row; printed page unconfirmed.
+
 Life is good. The days of the joys of life. The physical well being. To feel healthy. The man who enjoys his health and the strength of his body.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Financial power cinc's man, huge advantage of a person, powerful success of a munc, power gcld center, personal financial influence, personal power success, strong right center, and right power of a person
+- Source reference: printed p. 344; one-based PDF p. 171, Jupiter + Vulkanus, oriented activator row.
+
+A man's financial power, an enormous advantage for a person, a person's powerful success, a powerful financial center, personal financial influence, personal success in power, a strong legal center, and a person's legal power.
+
+## Comparative Schema
+
+- core meaning: Joy in life and bodily well-being coexist with personal financial and legal strength.
+- psychology: Enjoying life and feeling healthy are explicit in Witte.
+- body/health: Witte describes perceived health, physical well-being and bodily strength; these remain historical source claims rather than a clinical assessment.
+- social/relationship: ABC places a person's financial influence and legal power in a practical social setting.
+- events/manifestations: Personal advantage, financial influence, successful power and a strong legal center.
+- conflicts/notes: The entries do not state that financial power causes health or that bodily strength proves prosperity.
+
+## Contradictions
+
+Witte emphasizes enjoyment of life and the body; ABC specifies personal financial and legal power. These are complementary domains without a stated causal relation between wealth and health.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Sun`: joy of life, physical well-being, healthy strength, and a person who feels prosperous, vigorous, and supported by strong life force.
-- Chart expression: robust health, visible confidence, and vitality that enjoys and embodies success.
+`Jupiter/Vulcanus = Sun` describes enjoyment of life and bodily strength, with feeling healthy belonging to Witte's historical account. Its practical expression also includes personal advantage, financial influence and legal power. [Witte's well-being clauses](#witte-entry) and [ABC's personal power clauses](#abc-entry) support these two domains without making one the cause or proof of the other.
 
 ## Links
 

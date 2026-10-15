@@ -27,6 +27,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Q = Q`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -41,22 +42,21 @@ Enhanced charm and beauty which may have a strong appeal to all people; attracti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: enhanced charm and beauty accompany attraction to people with emotional appeal ([Munkasey](#munkasey-entry), printed p. 110).
+- psychology: the entry emphasizes what feels emotionally attractive; it does not describe a broader personality structure ([Munkasey](#munkasey-entry)).
+- body/health: beautifying oneself with makeup is mentioned; no illness or health claim is supplied ([Munkasey](#munkasey-entry)).
+- social/relationship: personal charm may appeal to others, while emotional appeal draws the person toward them ([Munkasey](#munkasey-entry)).
+- events/manifestations: applying makeup and a mother's continuing charm with age are the concrete examples ([Munkasey](#munkasey-entry)).
+- conflicts/notes: this is a single-source repeated-factor activation. The example of a mother's femininity is Munkasey's particular wording, not a universal standard for motherhood or aging.
 
 ## Contradictions
 
-- None recorded yet.
+- Only one entry is present, so no cross-source comparison is possible. Its descriptions of attraction and self-presentation do not conflict with one another.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Venus`: Enhanced charm and beauty which may have a strong appeal to all people; attraction to people with emotional appeal; beautifying self by using make-up; a mother who preserves her femininity, charm, and grace with age.
+Venus specifies the Moon/Venus pair by bringing emotional appeal into attraction and visible self-presentation. In [Munkasey's entry](#munkasey-entry) (printed p. 110), enhanced charm can draw others in, while the person is also drawn to people who touch their feelings. Makeup and a mother's enduring grace illustrate this theme; the entry does not establish that either example applies to everyone.
 
 ## Links
 

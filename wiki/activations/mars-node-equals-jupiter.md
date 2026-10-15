@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Node = Jupiter`
 - Astronomicon formula: `U/g = V`
 - Axis page: [Mars/Node](../axes/mars-node.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `143` (entry start).
+
 #### Witte Entry
 
 Betrothal. Happy marital union. Fortunate common action.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source page (printed): `212` · PDF page: `105`
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Successful actions in connections, activate financial relationships, enjoy work 
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source page (printed): `217` · Entry code: `0751`
+
 #### Ebertin Entry
 
 Working well with others, sociable, sharing joy and merriment with others. Successful teamwork, a happy union, desire to become engaged or marry.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `75` (complete Jupiter entry; chapter starts on p. 74).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ An enthusiasm for giving to and getting stimulation from those with whom one is 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/NODE with Planets and Points`
-- Source page: `244`
+- Source page (printed): `244`
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Helps you read the politics which occur at meetings or among friends and helps y
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful cooperation and beneficial connections.
+- psychology: Enthusiasm and generosity toward shared projects.
+- body/health: No distinct health claim is stated.
+- social/relationship: Teamwork, sociability, engagement and happy union.
+- events/manifestations: Joint success, useful legal contacts and group support.
+- conflicts/notes: The entries emphasize productive ties; the old overextension warning was unsupported.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize different forms of beneficial association without a direct disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Jupiter`: productive fellowship, engagement or marriage themes, and collective action that grows through enthusiasm and confidence. Main caution: overextension in the group field: optimism about people or partnerships can run ahead of what is actually sustainable.
+In `Mars/Node = Jupiter`, Jupiter specifies the Mars/Node axis as effort that succeeds through connection: people stimulate one another, contribute generously and find satisfaction in working together. Engagement or marriage is one concrete expression of this favorable cooperation, alongside useful legal and social networks. [Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) support these related expressions.
 
 ## Links
 

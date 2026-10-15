@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Zeus Kronos`
 - Astronomicon triad-set: `U £ ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md)
-- [Mars/Zeus = Kronos](../activations/mars-zeus-equals-kronos.md)
-- [Zeus/Kronos = Mars](../activations/zeus-kronos-equals-mars.md)
+- [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md): base axis [Mars/Kronos](../axes/mars-kronos.md); activator [Zeus](../factors/zeus.md).
+- [Mars/Zeus = Kronos](../activations/mars-zeus-equals-kronos.md): base axis [Mars/Zeus](../axes/mars-zeus.md); activator [Kronos](../factors/kronos.md).
+- [Zeus/Kronos = Mars](../activations/zeus-kronos-equals-mars.md): base axis [Zeus/Kronos](../axes/zeus-kronos.md); activator [Mars](../factors/mars.md).
 
 ## Source Coverage
 
-- `Mars/Kronos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `315`
-- `Mars/Zeus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `199`
-- `Mars/Zeus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `313`
-- `Zeus/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `289`
-- `Zeus/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `450`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md#witte-entry) (PDF entry-start p. 200); [Mars/Zeus = Kronos](../activations/mars-zeus-equals-kronos.md#witte-entry) (PDF entry-start p. 199); [Zeus/Kronos = Mars](../activations/zeus-kronos-equals-mars.md#witte-entry) (PDF entry-start p. 289).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Kronos = Zeus](../activations/mars-kronos-equals-zeus.md#abc-entry) (printed p. 315); [Mars/Zeus = Kronos](../activations/mars-zeus-equals-kronos.md#abc-entry) (printed p. 313); [Zeus/Kronos = Mars](../activations/zeus-kronos-equals-mars.md#abc-entry) (printed p. 450).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Zeus`: directs executive force into military command, strategic initiative, and purposeful assertion.
-- `Mars/Zeus = Kronos`: raises the axis into mastery, command, and officially backed technical leadership.
-- `Zeus/Kronos = Mars`: The creative ability of the womb. Love’s labor. Expansive peaceful work. To experience friendship and affection through great accomplishment. Diplomat. Peaceful military power.
+Mars, Zeus and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Kronos](../axes/mars-kronos.md)
+- [Mars/Zeus](../axes/mars-zeus.md)
+- [Zeus/Kronos](../axes/zeus-kronos.md)
 - [Mars](../factors/mars.md)
 - [Zeus](../factors/zeus.md)
 - [Kronos](../factors/kronos.md)

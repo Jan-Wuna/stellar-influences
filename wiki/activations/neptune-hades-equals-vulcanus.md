@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Vulcanus`
 - Astronomicon formula: `Y/¢ = §`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Coming-up danger. Daring and dangerous undertaking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `395`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Dangerous water violence, enormous water damage, power of the past for the future, grief by powerful ambiguity, disadvantages by power weakness, distress by airviolence, strong air pollution, strong water lack, and unknown hidden power
+Dangerous force of water, enormous water damage, force of the past for the future, sorrow through powerful lack of clarity, disadvantages through weakness of power, distress through air-force (Luft-Gewalt), strong air pollution, severe water shortage, and unknown hidden power
+
+## Comparative Schema
+
+- core meaning: dangerous undertakings and powerful or deficient environmental conditions.
+- psychology: sorrow through powerful lack of clarity is ABC's stated psychological theme.
+- body/health: neither entry supplies a bodily diagnosis; distress and environmental danger are source examples.
+- social/relationship: power and hidden power are named without an identified relationship or institution.
+- events/manifestations: dangerous water force, enormous damage, strong pollution, and severe water shortage are stated.
+- conflicts/notes: Luft-Gewalt is retained literally without choosing a military, weather, or mechanical referent; it is excluded from confident synthesis.
+
+## Contradictions
+
+Witte gives a dangerous undertaking, while ABC includes force, weakness of power, and material scarcity. The entries do not establish coercion, shame, or exploitation as universal outcomes.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Vulcanus`: Coming-up danger. Daring and dangerous undertaking.
-- Practical focus: intensifies hidden weakness or deception into acute danger, force, and coercive pressure. It can mark risky undertakings, overpowering influence, or the moment blurred judgment gives way to exploitation, shame, or hazardous commitment.
-- Practical expression: dangerous water violence, enormous water damage, power of the past for the future, grief by powerful ambiguity, and disadvantages by power weakness.
+In Neptune/Hades = Vulcanus, Vulcanus specifies the pair through dangerous undertakings and powerful material conditions. The [Witte entry](#witte-entry) names approaching danger and daring activity; [ABC](#abc-entry) adds dangerous water force, enormous damage, severe shortage, and disadvantage through weakness of power (printed p. 395, PDF p. 196). Powerful lack of clarity and hidden power are also stated. These support danger and uneven power as concerns without inventing a transition from blurred judgment to coercion, shame, or exploitation.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Asc Vulcanus`
 - Astronomicon triad-set: `U Asc §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Vulcanus = Mars](../activations/asc-vulcanus-equals-mars.md)
-- [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md)
-- [Mars/Vulcanus = Asc](../activations/mars-vulcanus-equals-asc.md)
+- [Asc/Vulcanus = Mars](../activations/asc-vulcanus-equals-mars.md): base axis [Asc/Vulcanus](../axes/asc-vulcanus.md); activator [Mars](../factors/mars.md).
+- [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md): base axis [Mars/Asc](../axes/mars-asc.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Mars/Vulcanus = Asc](../activations/mars-vulcanus-equals-asc.md): base axis [Mars/Vulcanus](../axes/mars-vulcanus.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Vulcanus = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `134`
-- `Mars/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
-- `Mars/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `111`
-- `Mars/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `203`
-- `Mars/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `320`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Vulcanus = Mars](../activations/asc-vulcanus-equals-mars.md#witte-entry) (PDF entry-start p. 97); [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md#witte-entry) (PDF entry-start p. 85); [Mars/Vulcanus = Asc](../activations/mars-vulcanus-equals-asc.md#witte-entry) (PDF entry-start p. 203).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Vulcanus = Mars](../activations/asc-vulcanus-equals-mars.md#abc-entry) (printed p. 134); [Mars/Asc = Vulcanus](../activations/mars-asc-equals-vulcanus.md#abc-entry) (printed p. 111); [Mars/Vulcanus = Asc](../activations/mars-vulcanus-equals-asc.md#abc-entry) (printed p. 320).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Mars`: powerful, physically assertive others who dispose, act, and push through with rough immediacy.
-- `Mars/Asc = Vulcanus`: intensifies the Mars/Asc axis into overwhelming force from others, violent deeds, and grave threats in the immediate environment.
-- `Mars/Vulcanus = Asc`: brings overwhelming force directly into the immediate environment and interactions with others.
+Mars, Asc and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Mars/Asc](../axes/mars-asc.md)
+- [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)

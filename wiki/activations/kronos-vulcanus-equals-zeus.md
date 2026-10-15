@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Zeus Kronos Vulcanus](../triads/zeus-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Zeus entry.
+
 #### Witte Entry
 
-Asserting oneself with great efforts. The power of the government ts asserting itself definitely. Leadership of the great powers.
+Asserting oneself with great efforts. The power of the government is asserting itself definitely. Leadership of the great powers.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Zeus entry.
+
 #### ABC Entry
 
-Especially creative force, influential self sustaining movement, shaping influence of hierarchy, enormous state power, great fire violence, great power efforts, great control influence, state control force, and strong dominating power
+Particularly creative strength; influential independent leadership; the hierarchy's shaping influence; tremendous state power; great force of fire; great efforts of power; great influence of leadership; state leadership strength; strong dominant achievement.
+
+## Comparative Schema
+
+- Core meaning: Power asserts itself through effort, leadership, creative strength, and achievement.
+- Psychology: Self-assertion and independent leadership are explicit.
+- Body/health: Fire's force is an explicit material motif, not a medical claim.
+- Social/relationship: Governmental assertion, state leadership, and the hierarchy's shaping influence are named.
+- Events/manifestations: Great efforts of power and dominant achievement appear alongside great-power leadership.
+- Conflicts/notes: The entries describe assertion; a particular political objective is not specified.
+
+## Contradictions And Tensions
+
+The entries describe assertion; a particular political objective is not specified.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Zeus`: strong governmental self-assertion, leadership of great powers, and intense effort used to establish dominance and accomplish political aims.
-- Chart expression: forceful executive initiative, geopolitical leadership, and power structures that move decisively to impose their will.
+With Zeus, Kronos/Vulcanus describes power making itself effective through effort and leadership. Witte names definite governmental self-assertion and leadership of great powers. ABC adds independent leadership, a hierarchy's shaping influence, creative strength, and dominant achievement, retaining fire's force as a separate material expression. The focus is on the exertion and direction of power; the entries do not state which political objective that exertion serves. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

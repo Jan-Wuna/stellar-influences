@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Asc Vulcanus](../triads/vernal-point-asc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 To have to deal with violent people. Others let us feel their power. To experience violence trough the environment or trough others.
 
@@ -42,13 +46,29 @@ To have to deal with violent people. Others let us feel their power. To experien
 
 #### ABC Entry
 
+- Source page: 56; PDF page: 27 (one-based spread).
+
 influential public environment, public local power, public environmental energy, place of public violence, partner violence in public life, strong partner in public, and environmental influence in public life
+
+## Comparative Schema
+
+- core meaning: Power encountered through other people and the public surroundings.
+- psychology: The entries describe pressure from outside rather than a personal mental trait.
+- body/health: No specific illness or bodily condition is named.
+- social/relationship: Powerful or violent people and a strong partner.
+- events/manifestations: Local public power, environmental energy and places of violence.
+- conflicts/notes: ABC includes strength and influence beyond Witte’s strongly adverse violence branch.
+
+## Contradictions
+
+Witte emphasizes violence experienced through others. ABC also gives strong partners and influential surroundings, so force need not always be hostile.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Asc`: to have to deal with violent people, others let us feel their power, and to experience violence trough the environment or trough others.
-- Practical expression: influential public environment, public local power, public environmental energy, place of public violence, and partner violence in public life.
+`Vernal Point/Vulcanus = Asc` locates public power in the people and environment one encounters. Witte stresses having to deal with violent people and feeling others’ power; ABC supplies local power, environmental influence and partner-related force. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also names a strong partner and an influential public environment. These wider strength examples should remain distinguishable from the adverse branch of experienced violence. ([ABC](#abc-entry))
 
 ## Links
 

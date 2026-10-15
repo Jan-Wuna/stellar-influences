@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Poseidon`
 - Astronomicon formula: `Q/¡ = ¨`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Marital happiness through the same kind of concept of life. To be united with people of same land of philosophy.
+- PDF page: 182; scanned activator row checked.
+
+Marital happiness through the same kind of concept of life. To be united with people of same kind of philosophy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Peaceful cultural community, common arts ideas, common truth love, harmonious spiritual community, artistic ideas of a community, spiritual arts community, synthesis between arts and culture, and love for the whole world
+- Source page: 283 (printed); PDF page: 140; scanned activator row checked.
+
+A peaceful cultural community, shared artistic ideas, shared love of truth, a harmonious spiritual community, a community's artistic ideas, a spiritual art community, synthesis between art and culture, and a preference for the whole truth.
+
+## Comparative Schema
+
+- Core meaning: Shared outlook supports loving community.
+- Psychology: Common truth-seeking and spiritual affinity.
+- Body/health: No specific health claim.
+- Social/relationship: Marriage linked to a shared philosophy of life.
+- Events/manifestations: Art and culture joined in a spiritual community.
+- Conflicts/notes: A shared philosophy does not certify that its beliefs are true.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+A shared philosophy does not certify that its beliefs are true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Poseidon`: marital happiness through the same kind of concept of life.
-- Practical expression: peaceful cultural community, common arts ideas, common truth love, harmonious spiritual community, and artistic ideas of a community.
+Poseidon specifies Venus/Cupido through the ideas and outlook a community shares. A common philosophy may sustain marital happiness, while artistic ideas, culture, and love of truth connect affinity with a broader spiritual circle. The wish for the whole truth belongs to this shared commitment to ideas. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

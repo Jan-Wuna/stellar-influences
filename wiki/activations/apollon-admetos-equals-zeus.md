@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Admetos = Zeus`
 - Astronomicon formula: `¥/¦ = £`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 306, Zeus row.
+
 To gain a feeling of satisfaction through one’s own work.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked knowledge goals, limitation of trade performance, restricted freedom goals, success through perseverance and goal striving, consolidation of successful achievements, grild fire experiences, and increasing resistance to movement
+Reference: printed p. 469 (one-based PDF p. 233), Zeus row.
+
+Blocked knowledge goals, limitation of trade performance, restricted goals of freedom, success through perseverance and pursuit of goals, consolidation of successful achievements, thorough experiences of fire, and increasing resistance to leadership.
+
+## Comparative Schema
+
+- core meaning: Satisfaction through one's work and sustained achievement amid restricted aims.
+- psychology: Satisfaction, perseverance, and goal-directed effort.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: Increasing resistance to leadership is named in ABC.
+- events/manifestations: Consolidated achievements, restricted trade performance, blocked knowledge goals, and thorough experiences of fire.
+- conflicts/notes: ABC's fire experience is not explained further; Witte does not state that satisfaction ends creative effort.
+
+## Contradictions
+
+Blocked goals and successful achievement are alternative possibilities in ABC. They do not contradict satisfaction through work or establish a sequence of achievement followed by lost motivation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Zeus`: earned contentment, rest after productive effort, and the feeling of completion through work. Main caution: settling too soon: satisfaction with what one has done may cool the fire needed for the next stage of creation.
+In `Apollon/Admetos = Zeus`, Zeus specifies the pair through satisfaction gained from one's own work in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds success through perseverance and pursuit of goals, together with the consolidation of achievement. Blocked knowledge or freedom goals, limited trade performance, and resistance to leadership remain part of its range. Work can be satisfying without implying that motivation must end once something is achieved.
 
 ## Links
 

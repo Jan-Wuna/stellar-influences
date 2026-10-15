@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Sun/Vulcanus`
 - Astronomicon axis: `S/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 117.
+
 Vitality. Physical strength. The power of an object or the body. The muscular power of the body. A large body. A powerful man. Day of a volcanic eruption.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Influenced person, energy center, energetic man, violent man, body force, force centre, power human, power centre, human power, personal influence, strong man, and day of violence
+- Source page: printed pp. 170–171; PDF p. 84.
+
+Influential person, energy center, forceful man, violent person, bodily strength, strength center, powerful person, power center, human power, personal influence, strong man, day of violence.
+
+## Comparative Schema
+
+- core meaning: vitality and concentrated physical power, belonging to a person, body, or object ([Witte](#pair-summary)).
+- psychology: an energetic disposition is named, but the brief entries do not establish courage, self-discipline, or a developed personality pattern.
+- body/health: muscular strength, bodily power, and a large body are explicit; no specific illness is supplied ([Witte](#pair-summary)).
+- social/relationship: powerful people and personal influence, including a possible violent expression; no particular partnership pattern is stated ([Udo](#abc-pair-summary)).
+- events/manifestations: displays of force, violence, and Witte's volcanic-eruption example belong to the source range, without specifying an inevitable event.
+- conflicts/notes: strength, personal influence and violence are distinct motifs in the brief lists; physical power alone does not prescribe conduct or establish an inevitable destructive event.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Influenced person, energy center, energetic man, violent man, body force, force 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on concentrated strength, forceful vitality, and power expressed through the body or person.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Vulcanus` concerns concentrated vitality and the capacity to exert physical power. The [Witte summary](#pair-summary) gives this a concrete range: muscular strength, a large or powerful body, and the power of an object as well as a person. The [ABC summary](#abc-pair-summary) extends that range to an influential person and centers of energy, strength or power.
+
+This intensity can appear as strength or force, and the entries explicitly include violence and a volcanic eruption among their examples. Those examples should not turn capacity into a guaranteed destructive outcome. The short pair evidence specifies no particular relationship, illness, or pattern of inner conflict.
 
 ## Links
 

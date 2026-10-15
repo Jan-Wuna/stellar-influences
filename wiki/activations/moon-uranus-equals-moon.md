@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ A need for careful and cautious approaches to family problems which are not easy
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** A cautious approach to family and everyday problems that feel difficult to solve ([Munkasey](#munkasey-entry)).
+- **Psychology:** Feeling ineffective and wishing to withdraw are the entry's explicit responses.
+- **Body/health:** No bodily condition is specified.
+- **Social/relationship:** Family problems may be difficult to discuss; the wish for isolation can reduce contact with others.
+- **Events/manifestations:** Difficult day-to-day problem-solving, rather than a named external event.
+- **Conflicts/notes:** The repeated Moon identity has one source entry; it must not be replaced by the Uranus repetition or another orientation.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present. Its recommendation of caution and its description of ineffectiveness or withdrawal are different parts of the same difficult setting, not an internal contradiction or evidence of cross-source agreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Moon`: A need for careful and cautious approaches to family problems which are not easy to solve or discuss; feeling ineffective about solving the problems one face in day to day life; feelings of wanting to isolate self from others.
+With Moon specifying the Moon/Uranus pair again, the sole [Munkasey entry](#munkasey-entry) focuses on family and everyday difficulties that resist easy discussion or solution. A sense of ineffectiveness can accompany a wish to isolate oneself, while the entry calls for a careful, cautious approach. This is the scope of the repeated-Moon statement; it does not establish a general inability to solve problems.
 
 ## Links
 

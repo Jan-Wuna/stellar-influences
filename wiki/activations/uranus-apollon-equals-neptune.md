@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Uranus Neptune Apollon](../triads/uranus-neptune-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Tenseness and relaxation change quickly, also hopes and disappointments. The ten
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 383; PDF p. 190.
+
 #### ABC Entry
 
-Freedom impulses in the air, new knowledge of water, weak ones through ventilated excitement, technical experience with water, restlessness through water masses, surprise by water masses, ventilated exchanges and tensions, a lot of subtlety for rhythm alarming changes in trade, successful new development, and successful tech-
+Impulses toward freedom in the air, new knowledge about water, weakness through increased excitement, technical experiences with water, unrest through masses of water, surprise through masses of water, increased disappointments and tensions, much sensitivity for rhythm.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Expectation shifts between tension and relaxation, hope and disappointment.
+- psychology: Uncertainty, increased excitement and disappointments.
+- body/health: ABC associates weakness with increased excitement, without a diagnosis.
+- social/relationship: No particular relationship is specified.
+- events/manifestations: Technical experience with water, water masses and sensitivity for rhythm.
+- conflicts/notes: Neptune's eight clauses end with sensitivity for rhythm; the following development clauses belong to Pluto.
+
+## Contradictions
+
+Witte describes quickly changing tension, hopes and disappointments. ABC adds literal water/air images and sensitive rhythm. The source does not identify a particular water event, and Pluto's trade and development clauses have been removed from this orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Neptune`: Tenseness and relaxation change quickly, also hopes and disappointments. The tension of uncertainty. The tension runs out.
-- Practical expression: freedom impulses in the air, new knowledge of water, weak ones through ventilated excitement, technical experience with water, and restlessness through water masses.
+In `Uranus/Apollon = Neptune`, Neptune specifies expanding experience through unstable expectation and sensitive response. [Witte](#witte-entry) describes tension turning into relaxation and hopes into disappointment, with uncertainty or tension that runs out. [ABC](#abc-entry) retains increased disappointment and weakness through excitement, while adding technical experience with water, water masses and sensitivity for rhythm. Those literal and experiential branches remain distinct.
 
 ## Links
 

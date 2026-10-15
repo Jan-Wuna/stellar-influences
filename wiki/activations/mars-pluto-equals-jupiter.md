@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Jupiter Pluto](../triads/mars-jupiter-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Plans bring or should bring good fortune. Plans carried through successfully.
 
@@ -45,17 +49,23 @@ Plans bring or should bring good fortune. Plans carried through successfully.
 
 #### ABC Entry
 
-Development of the right to work, successful development of work, successful evolution work, successful development of the will, developing legal activity, growing financial activity, and changes through legal action
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+Development of labour law, successful development of work, successful evolutionary work, successful development of the will, developing legal activity, growing financial activity, and changes through legal actions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214, entry 0739.
 
 The consciousness of an aim or objective, ability to organize, right use of one's energy. Attainment of unusual successes, enjoyment of one's freedom.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
 
 To work extremely hard to grow or to advance oneself. To have tremendously passionate enthusiasm. Success that comes through relentless work.
 
@@ -70,22 +80,21 @@ Increases any destructive powers; the use of powerful forces to highlight or sin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Purposeful development, organized effort, and plans seeking or attaining success.
+- psychology: Passionate enthusiasm, awareness of an objective, and enjoyment of freedom.
+- body/health: No bodily or medical effect is specified.
+- social/relationship: Legal and financial activity; Munkasey separately raises ethics of powerful destructive forces.
+- events/manifestations: Successful plans, unusual achievements, hard work, labour-law development, and financial growth.
+- conflicts/notes: Munkasey's destructive powers and extreme measures broaden the mainly successful work emphasis; a fortunate outcome does not establish ethical approval.
 
 ## Contradictions
 
-- None recorded yet.
+Most entries emphasize purposeful or successful development. Munkasey adds destructive forces and their ethics, which cannot be erased or treated as proof that successful action is necessarily benevolent.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Jupiter`: major effort, strong organizing ability, and growth through courage, pressure, and uncompromising commitment. Main caution: excess: ambition and enthusiasm can become fanatical, overbearing, or too ready to justify force in the name of success.
+In `Mars/Pluto = Jupiter`, Jupiter specifies developing action and plans through success, clear objectives, and intense effort toward growth. Ebertin's organization and right use of energy meet Sandbach's relentless work and passionate enthusiasm; ABC adds legal, financial, and labour-law development. Witte retains both plans that should bring fortune and plans carried through successfully. Munkasey's extreme measures and destructive powers introduce a distinct ethical question, so a fortunate result does not establish that every powerful method is justified. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0739; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

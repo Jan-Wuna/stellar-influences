@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Vulcanus = Mercury`
 - Astronomicon formula: `Z/§ = T`
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 263.
+
 To concentrate the thought on great changes and to talk, to converse, to debate about it. To have to change the mind fast. Increasing quickness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced media development, developing thought power, talking about energy development, violence development in youth, strong media development, strong traffic development, different media influence/3, and growing power in youth
+- Source page: 420 (printed); PDF page: 209.
+
+Influential unfolding of media, developing the power of thought, conversations about energy development, unfolding violence in youth, strong media development, strong transport development, changed media influence, growing strength in youth.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Thought and communication directed toward powerful change.
+- Psychology: Concentration on change, rapid revision of thought, and increasing mental quickness.
+- Body/health: No specific medical correspondence is established by these entries.
+- Social/relationship: Debate, media influence, and developments involving youth.
+- Events/manifestations: Discussion of energy development and strong developments in media and transport.
+- Conflicts/notes: ABC's youth-violence item is a particular association, not a general claim about young people.
+
+## Contradictions
+
+ABC's youth-violence item is a particular association, not a general claim about young people.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Mercury`: to concentrate the thought on great changes and to talk, to converse, to debate about it; To have to change the mind fast.
-- Practical expression: influenced media development, developing thought power, talking about energy development, violence development in youth, and strong media development.
+In `Pluto/Vulcanus = Mercury`, Mercury specifies `Pluto/Vulcanus` through thought and communication about major changes. The [Witte entry](#witte-entry) links concentrated debate with having to change one's mind quickly. The [ABC entry](#abc-entry) widens communication to media and transport and retains developments of strength and violence in youth as separate source associations, not universal characteristics.
 
 ## Links
 

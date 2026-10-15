@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Sun Mars Neptune](../triads/sun-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Infection or destruction of the body, of the eyes. The body or the man who is susceptible to diseases.
 
@@ -45,17 +49,23 @@ Infection or destruction of the body, of the eyes. The body or the man who is su
 
 #### ABC Entry
 
-person acting in the air, intuitively active person, personal activity on/in or with W, L'iser, weak will of a man, unclear acting man, uncertainty in personal creation, and Centre for Work with Water
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Work centre for metaphysics, a person acting in the air, an intuitively active person, personal activity on/in or with water, weak will of a man, a man acting unclearly, uncertainty in personal work, and a centre for work with water.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Neptune,” printed p. 211, entry 0723.
 
 Lack of willpower, discontent, weak physique, weak or little vitality. Danger of infection, undermining of the health, dissolution of a body.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 72.
 
 Psychic drains sap one’s vitality. One feels it is important to help other people. The ability to intuit the best and/or right thing to do. A weak constitution that can be greatly improved by subtle methodologies, such as energy healing, homeopathy, etc., as well as eating lightly and eating foods of high vibration such as fruits and vegetables.
 
@@ -70,22 +80,21 @@ A distinguished and noted magician or mystic performs; adds effectiveness to the
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal activity marked by intuitive sensitivity, uncertain will, or reduced vitality.
+- psychology: A wish to help others and sense the right action; discontent and unclear action also appear.
+- body/health: Witte and Ebertin make historical infection and bodily weakness claims. Sandbach's healing and diet recommendations remain attributed, not endorsed treatment.
+- social/relationship: Helping others or, in Munkasey, pressing religious ideas and influencing through illusion.
+- events/manifestations: Intuitive activity, work in air or with water, a metaphysics work centre, and mystical performance.
+- conflicts/notes: Healing and diet recommendations are Sandbach's claims; the entries do not establish treatment efficacy or a protective effect of willpower.
 
 ## Contradictions
 
-- None recorded yet.
+Intuitive help and mystical performance coexist with uncertain will, depleted vitality, and deceptive influence. These are differing possibilities, not one inevitable motive or outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Sun`: wanting to help, sensing the right move intuitively, and orienting the self toward subtle or healing kinds of effort. Main caution: loss of vitality: willpower can be too weak to protect the body or hold a clear course under strain.
+In `Mars/Neptune = Sun`, Sun specifies the pair through personal activity that can be intuitive and helpful while also uncertain or depleted. Sandbach emphasizes sensing what to do and wanting to help; Munkasey adds mystical performance, illusion, and imposing ideas of the divine. ABC includes intuitive action, work in air or with water, and a metaphysics work centre. The medical statements and Sandbach's claims for energy healing, homeopathy, or diet remain attributed source claims; they do not establish treatment efficacy or that weak will causes infection. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 211, entry 0723; [Sandbach](#sandbach-entry), PDF p. 72; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

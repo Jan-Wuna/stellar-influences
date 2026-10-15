@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Saturn`
 - Astronomicon formula: `Y/¤ = W`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Losses through a break down in management.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `399`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Special expectations in old age, exchange of great losses, concentration on an unknown hierarchic, problems due to uncertainty of the state, superiority due to subtlety and patience, losses due to a weak state, and future tasks of the boss
+Special expectations in old age, disappointment about great losses, concentration on an unknown hierarchy, problems through uncertainty of the state, superiority through sensitivity and patience, losses through a weak state, and future tasks of the boss
+
+## Comparative Schema
+
+- core meaning: loss through management breakdown, with state uncertainty and patient sensitivity in ABC.
+- psychology: disappointment over great losses, concentration, and patience are explicit.
+- body/health: old age is a source setting, without a bodily or health diagnosis.
+- social/relationship: management, a weak state, an unknown hierarchy, and a boss are stated settings.
+- events/manifestations: losses, problems through state uncertainty, and future leadership tasks are named.
+- conflicts/notes: the entries do not specify institutional destruction or the size of every loss.
+
+## Contradictions
+
+Witte emphasizes loss through failed management. ABC also names superiority through sensitivity and patience, without guaranteeing that those qualities prevent loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Saturn`: Losses through a break down in management.
-- Practical focus: hardens compromised authority into concrete loss, showing breakdown in management that produces real depletion, contraction, or institutional damage.
-- Practical expression: special expectations in old age, exchange of great losses, concentration on an unknown hierarchic, problems due to uncertainty of the state, and superiority due to subtlety.
+In Neptune/Kronos = Saturn, Saturn specifies the pair through loss and the difficulties of management or state uncertainty. The [Witte entry](#witte-entry) explicitly links loss to management breakdown; [ABC](#abc-entry) adds disappointment over great losses and a weak state, alongside concentration and superiority through sensitivity and patience (printed p. 399, PDF p. 198). Future tasks of a boss remain another possibility. These support material difficulty without prescribing endurance or assuming that patient sensitivity necessarily prevents the stated losses.
 
 ## Links
 

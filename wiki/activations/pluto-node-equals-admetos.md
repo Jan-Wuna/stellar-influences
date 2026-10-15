@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Pluto Node Admetos](../triads/pluto-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ New connections which are sound and of long duration.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 223; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Developing perseverance in of a community, limiting Y change in a relationship, ending the development in a union, grilndlich Y change in of a community, growing drift in a relationship, and ending change in relationships
+Editorial translation (checked against the scan): Developing endurance in a community, restrictive change in a relationship, ending development in a connection, thorough change in a community, growing repression in a relationship, ending changes in relationships.
+
+## Comparative Schema
+
+- core meaning: Enduring new connections alongside restrictions or endings in a relationship.
+- psychology: Endurance and increasing repression are ABC possibilities.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: A community or relationship may become lasting, restricted, or end.
+- events/manifestations: Thorough community change, cessation of development, or an end to switching relationships.
+- conflicts/notes: The durable new tie in Witte must remain beside ABC's limiting and ending expressions.
+
+## Contradictions
+
+Witte describes sound, long-lasting connections; ABC includes restricted development and endings. These materially different outcomes should not become a single story of inevitable endurance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Node = Admetos`: relationships change at a deep or durable level; New ties must endure altered conditions.
-- Practical expression: developing perseverance in a community, limiting Y change in a relationship, ending the development in a union, and growing drift in a relationship.
+Admetos specifies Pluto/Node through the durability or restriction of a connection. The [Witte entry](#witte-entry) explicitly gives sound new ties of long duration; the [ABC entry](#abc-entry) also includes endurance and thorough community change, but retains constrained change, ending development, increasing repression, and stopping relationship changes. A lasting tie and a relationship whose development stops are distinct possibilities, so endurance alone does not establish that the bond remains sound.
 
 ## Links
 

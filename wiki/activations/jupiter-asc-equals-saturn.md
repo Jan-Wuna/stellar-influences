@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 113 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0848; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Saturn`
 - Astronomicon formula: `V/Asc = W`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ Adds reserve and caution to an otherwise affable personality; cautious when meet
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Relations that might support growth encounter delay, reserve, refusal, or separation.
+- psychology: Sandbach describes fear or uncertainty about developing identity and stress from restrained enthusiasm.
+- body/health: No bodily condition is specified; the stated stress is tied to holding back enthusiasm.
+- social/relationship: Munkasey's caution can give way to sincere openness; Witte and Ebertin describe rejection and estrangement.
+- events/manifestations: Departure, separation from friends, partner-related loss, and success through patience appear in the entries.
+- conflicts/notes: ABC is located at printed p. 113 (PDF p. 55). Its successful separation is a distinct possibility, not proof that every separation is fortunate.
 
 ## Contradictions
 
-- None recorded yet.
+- Patience and cautious openness qualify the refusal and estrangement motifs. Successful separation and painful separation are different circumstances, not a resolved contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Saturn`: slowed growth, strained associations, and the need to mature beyond fear, uncertainty, or withheld enthusiasm in relationships. Main caution: contraction into alienation: discouragement can turn a naturally expansive social field into rejection, estrangement, or loss of confidence.
+In `Jupiter/Asc = Saturn`, Saturn specifies the Jupiter/Asc pair through restricted or cautious participation with others. [Witte](#witte-entry) names refusal and separation from friends, while [Ebertin](#ebertin-entry) describes inhibited development and estrangement. [Sandbach](#sandbach-entry) relates the difficulty to fear, uncertainty, or a slow process of growing into one's identity.
+
+Restriction need not end in rejection: [Munkasey](#munkasey-entry), p. 276, describes reserve followed by sincere openness, and [ABC](#abc-entry), printed p. 113 (PDF p. 55), includes patience and successful separation. These preserve a measured or constructive expression alongside loss.
 
 ## Links
 

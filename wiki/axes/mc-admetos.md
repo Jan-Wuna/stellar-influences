@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `75`
 
 #### Pair Summary
 
@@ -79,6 +83,15 @@ Ones firmness, perseverance and steadfastness. To be insensible, apathetic, hard
 #### ABC Pair Summary
 
 I at the blocking, I at the stabilizing, my end, my circulation, my perseverance, my limitation, my impressions, my firmness, my grtindity, mental blockade, mental depth, and psychic resistance
+
+## Comparative Schema
+
+- core meaning: Inner firmness and persistence, ranging from stability to blockage or immobility ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: Steadfastness, a conservative attitude, concentration on first causes, and the possibility of apathy or emotional unresponsiveness ([pair summary](#pair-summary)).
+- body/health: Witte's summary includes feeling paralyzed and the moment of death as historical associations; these do not establish a bodily diagnosis or a usable prediction ([pair summary](#pair-summary)).
+- social/relationship: Hard-heartedness and resistance describe possible attitudes, but the entries give no specific relationship scenario ([pair summary](#pair-summary)).
+- events/manifestations: Stabilizing, persisting, encountering limits, and tracing something back to its primary cause ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: Steadiness and blockage belong to the same range without being equivalent. Several ABC terms are damaged or mistranslated and cannot settle finer distinctions.
 
 ## Related Activations
 
@@ -103,11 +116,14 @@ I at the blocking, I at the stabilizing, my end, my circulation, my perseverance
 - [MC/Admetos = Vulcanus](../activations/mc-admetos-equals-vulcanus.md)
 - [MC/Admetos = Zeus](../activations/mc-admetos-equals-zeus.md)
 
+## Contradictions
+
+The source range includes dependable firmness and an unresponsive or blocked inner state. Neither cancels the other. In the ABC summary, `my impressions` and `my grtindity` do not reliably represent the cached OCR `meine Oepressionen` and `meine Grtindlichkeit`; those terms remain unresolved. Witte's death wording remains an attributed historical claim.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos` is the axis of steadfast selfhood, hardened inner posture, conservative endurance, and the soul under compression or standstill.
-- Chart expression: firmness, resistance, emotional deadening, immovability, and a life direction that persists through pressure, paralysis, or reduction until it reaches bedrock or first causes.
+`MC/Admetos` describes an inner position that holds firm. It can mean perseverance, stability, and the wish to reach the primary cause of things, while the same resistance to movement can become blockage, apathy, or a hardened response. These are the two sides of the [pair summary](#pair-summary), supported by the legible stability, limitation, depth, and resistance terms in the [ABC summary](#abc-pair-summary). The entries support this range of inner firmness; they do not show that suffering necessarily produces insight or that steadfastness predicts a particular event.
 
 ## Links
 

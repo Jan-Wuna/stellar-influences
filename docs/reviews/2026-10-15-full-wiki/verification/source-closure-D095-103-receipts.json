@@ -1,0 +1,986 @@
+{
+  "reviewer": "/root/activation_review_079_083",
+  "scope": "Exact55 D095–103 canonical source closure targets. Original095–103 records amended in place only when necessary; no new full-page review count, no shared D001–003 or global-bank edits.",
+  "status": "complete",
+  "targets": 55,
+  "author_actions": {
+    "complete_ABC_row_repairs": 36,
+    "precise_prior_actual_certifications_reused": 18,
+    "genuine_printed_terse_limit_confirmed": 1,
+    "new_review_count": 0,
+    "remaining": 0
+  },
+  "independent_review": {
+    "verified_by": "/root/source_check_saturn",
+    "accepted": 55,
+    "held": 0,
+    "pending": 0,
+    "real_source_delta_allowances": 54,
+    "flag_classifications": {
+      "repaired": 35,
+      "stale_flag_cleared_with_proof": 17,
+      "genuine_source_limit_confirmed_with_proof": 3
+    },
+    "artifacts": [
+      {
+        "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-audit.json",
+        "sha256": "d7a408c9107db2144e7a28eb496b0bb2d35ee17d221194bc53a0b1e8afb028c0"
+      },
+      {
+        "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-validation.json",
+        "sha256": "914ab1de56bf5d69a8f535e49e68bd0aa3a1e059821e80c1c934306e137b401e"
+      },
+      {
+        "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-allowances.json",
+        "sha256": "a86103be9157374281f1ce52916a4fd222631863a0b4b7c9b558707c7d45b57f"
+      }
+    ]
+  },
+  "history_note": "Per-row pending/required wording in author decisions records dispatch-time state. Final independent D2 audit and this completed receipt supersede those historical dispatch states. Existing reviewer identities and earlier verification history remain preserved.",
+  "source_hash_contract": "Normalized LF Source Entries BODY excluding heading; terminal standalone section anchor removed; outerstrip UTF8SHA256.",
+  "saved_verification": {
+    "validated_at": "2026-10-15T16:19:31.945354+00:00",
+    "source_and_full_page_hashes": 55,
+    "unique_original_owner_records": 55,
+    "owner_raw_hashes_equal_expected": 55,
+    "full_read_and_reviewed_status_preserved": 55,
+    "canonical_identity_six_categories_anchor_and_links_checks": 55,
+    "problems": [],
+    "proof_files": 25,
+    "raw_abc_sha256": "ac02eaf31ba09f983b2685070d5347bdf22ceec4ad6bc00568100391c90254a5",
+    "staging_present": [],
+    "diff_check_exit_code": 0,
+    "decision_file_sha256": "81b76a60b6513f8ab1722ace96692c422f3b07c416e045c752c4d8c15a388e54"
+  },
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D095-103-abc-pdf008.png",
+      "sha256": "e4f7bab610a973213b86b17971040fb9f3f214f7387cdfb7d365d6c00a849ae2"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf12.png",
+      "sha256": "da1421704e68a71512df07208c010f9159a8a929bca6baf77f28f581f6b620a8"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf19.png",
+      "sha256": "0c6660e17c41b030b67b0e793c3f4cedbbaaf2b62740284d6fbd0e5328ecc848"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf20.png",
+      "sha256": "82af77aca892a39284d79b1bbab4457d10a1577bc1a8331cc3aef5b064254757"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+      "sha256": "55ecdd8dc1223110cb20bbfad53cd03d4d443047d5e6945638a36756a9bee462"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf014.png",
+      "sha256": "63226165d73f1a7514c252f9dbbe948e03fefd8c45e2108a9f93310c93c47374"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf018.png",
+      "sha256": "68adf22e898c61420fad9f618dd77e1fc8a1af1c454758d5d2c08c490ede156a"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-witte-pdf045.png",
+      "sha256": "d72a8e9b130c88e1b5ae609937ed217576484e80262b941e867f64f736a729b5"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf39.png",
+      "sha256": "fdb18f01bf894da5903c9531212debabdb3c89744f5014edabf5591213858434"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf40.png",
+      "sha256": "8257f59cf489885a9b3ed510a59fe529d6cb051654c2484ebba0f5eab2f676eb"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf46.png",
+      "sha256": "6d1be4e0fdeeeabfc9ab35a3b6d0b0617e4da1d2e234d6b72506fd78fd0b1ce4"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+      "sha256": "47947a5c92e69f67f58e1b08c7ddbf00a07af95ffd3dc893907d08fec5a05995"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png",
+      "sha256": "2ddaa6b1c3854c83ff67a554ffd70bd3d91045950fd12d764c27c077fd55de98"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png",
+      "sha256": "a4bcaf644996b896ce1de475c508a9f7f5b0426722ad0b272aa376386cc199b1"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png",
+      "sha256": "20e5e4fee2f9d62ddbd577286af90ba56d9a0c528eae0f9fff53c73d309371e0"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png",
+      "sha256": "fea9e80dc5540b97ed3a1e178686d251c87507e917319c81912db21bb11c5264"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "sha256": "0321b0bbc440e18e5d8abf6600a4cd30a6989d6f8d67208422133d82f70f5e4c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png",
+      "sha256": "ca29bd69269b4717ecf820e59b2f52c76b739e7d2a3ca84044be40e28b47a016"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "sha256": "3302c4c7801ee6dac1bbe00b90a2f2839f9b859c04feac61c12ec30097c1785c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "sha256": "858245fe5185f556e9de114d23bdffc4b605b85a5570c0ee8b0379db339c636d"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "sha256": "dfb81ada9cf43560eaec144b53998542cbe0aa4179f31d170a4fdb273d61c51e"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "sha256": "744ccbd9852bb506d0e7645a8b20f105d02b9e81bc45efdc61493564aa815772"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/targeted-seven-source-repairs-abc-pdf15.png",
+      "sha256": "495c95edadbcaed5f03b7c104f918b05a59846c199664ff9d1819c90a5dcbb0e"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-targeted-eleven-abc-pdf015.png",
+      "sha256": "39e9282162d29f066d54ec8cf3e9e3e83f9091f177959421beeb811c3501c5be"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-targeted-eleven-witte-pdf042.png",
+      "sha256": "1fb1415ceea49d3c7c060817b99ce57c410ee501678f6ec0182f3b549a7a81d1"
+    }
+  ],
+  "retained_specific_source_limits": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "unresolved": [
+        "ABC Gewalt permits force or violence; bearbeiten does not specify whether this is applying, opposing or otherwise working on it."
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "unresolved": [
+        "ABC's Minute der Gemeinschaft is a literal minute-of-community expression; its significance is not explained and no timing method is inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "unresolved": [
+        "Witte PDF40 actually prints Standing manner of speech; its terse wording leaves the mechanism and intended scope unexplained."
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "unresolved": [
+        "ABC's öffentliches Friedens-Feuer names a public peace fire without explaining its form or mechanism."
+      ]
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "unresolved": [
+        "Witte's separate moment of floods phrase is preserved; its relation to the intellectual claims is unexplained and adds no timing model."
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "unresolved": [
+        "ABC printed457 schöpferische Kreislauf-Energie (creative circulatory energy) is not explained in the paragraph.",
+        "ABC Gewalt-Erzeugung permits force/violence wording; its precise intended sense remains contextual."
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "unresolved": [
+        "ABC printed457 umfangreiche Gewalt-Erzeugung does not establish whether force or violence is intended; retained as a qualified range."
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "unresolved": [
+        "ABC printed456 Gewalt-Einfluß am Ort leaves the exact force/violence sense open."
+      ]
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "unresolved": [
+        "Witte PDF287 Moon row contains the unqualified word Inflammable; its object is not identified."
+      ]
+    }
+  ],
+  "rows": [
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+      "source_sha256": "4a931c81fa96f4b03844710b7898b4426a4de6fe701fb94d06eebd26db204667",
+      "page_sha256": "0837e7d23f1eef4be2545b832d8854deb072122522aeca472cda8e3237f45b37",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 1,
+        "record_raw_sha256": "9f140e6db92bef076ea355184183fec4042bfd1ca9dd8162cbc939fd00bca78f",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+      "source_sha256": "82bdc1c7ee00b685d1166dd569f6c70bbf51a767fe4f340aaa9412ec5fdef564",
+      "page_sha256": "f20d6c3df7abdc022bed39185f8d11fcf0e586d4d8f7d3c9d28f3c7734eafcaf",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 2,
+        "record_raw_sha256": "9788c510b94e74ceea218d082f43b74b7be5290a20e4be2bf7d920257e15baab",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+      "source_sha256": "16c4fd5a7d9dd14aa083f42bf5c41b5f376e5e54597fd186e3f2f17e31d9c80c",
+      "page_sha256": "5d28d8faddd586abff92d52c100a5e15db616bcb3fe7294ede9fc04276608481",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 5,
+        "record_raw_sha256": "05cf8eeff2c23023dabf6e9a618bb6298bcd76173eafa50ec18fcf90da148272",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "source_sha256": "614473537b9cc1555e809140aa2c30d2daba045d70309ac45366b11fb51dba55",
+      "page_sha256": "bac4ea3c20745b13d0d7a2b86c4766799a1097f4d965322a66c434942066efbb",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 6,
+        "record_raw_sha256": "37524dba5deefb74b8542a673c1d47b6d41713087cdd239903110df3dd27da2b",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+      "source_sha256": "2991418ce8b4a3c2c71d438c92163587e8e0086b9eda6129bc0df2f8d6d0c3f8",
+      "page_sha256": "82ac6cdd2adab71fd812b676f3eedf124b1158d4dc606819da4a55143486463b",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 7,
+        "record_raw_sha256": "69cc2fb89cb76c3b5db66b7ea81b091efcde3114de6482a0e6cfc136a300a693",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+      "source_sha256": "d66c9dd9356284706002bae4accf9afbe38d7aadd7329dc30e515326f17f6550",
+      "page_sha256": "6379531da62ed4085bde50d53ef9269ffd2085200f4ce5577e3658e5e95a3eef",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 8,
+        "record_raw_sha256": "c4449e7fff6a34d1e1bbb5ef834bfc55e014ec2f0447e8a1baba6ea561059fc4",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+      "source_sha256": "fa4f09ccddff83d8c9dfb1e2da9d67645060911ea593d6341f70e6529ea50976",
+      "page_sha256": "d8d2970c64fc0e44c1a49c9e8f5c349eda3959608c67715f43d4fe5684014f83",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 10,
+        "record_raw_sha256": "338b72ee347a79334a2d468e81faa0eb1cda7e500fc23b0f4941f574ec7d5933",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "source_sha256": "ae17c75dce100bdcff3f2214ebd273705375ddcaa8c3954fb448dbf9f7b09481",
+      "page_sha256": "e19c9aa60e5de5710af60246d810e0bbd38d46305da964d19fee1b26c620b360",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 11,
+        "record_raw_sha256": "381419c2c1e8e7b5a535944376f5c93903889417b63a37cf179e304fceaf187d",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+      "source_sha256": "42228c442aa9650a437d7fc2f63f6464c3b4a4687c9b135f89499a2156198d31",
+      "page_sha256": "fae88db5d366f58dec6560d5f36ab20ffa8d91d9c9f877ae45957ddb8447eaa3",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 12,
+        "record_raw_sha256": "cf0e87099f874de78d924c233443a8d0e5a08110da0eeace347c3c8c21c0d8ca",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+      "source_sha256": "709f031bdefb05d3eaecc01b7f14292e593863a6343281df7ed66b6d9e7e266f",
+      "page_sha256": "ada812102fe5fcbab4de410ef79ebfd4af083849796ca354a0cb5d3a727b0872",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 13,
+        "record_raw_sha256": "ba8b75e8382b9209176f90436b654b08df8f0f8ff24f3cfde2596122e90165bf",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+      "source_sha256": "a87233bf3a71449b86be7b2064a6b18dee2ddf216517c0853e653b6b1402003b",
+      "page_sha256": "8d4bdaa2751e265397c4add4f3bdbabd865742ce53c1fc2c15a9acbd860791c7",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 14,
+        "record_raw_sha256": "866256d593d2776ca6313ce0727f2d3bed36b6c82b3ef71074f968da71a41d37",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+      "source_sha256": "13183bbb9a36216311cc6e0256152fa7602cc9911304cf1468fae017dd72c43f",
+      "page_sha256": "f8b65fa5c670596ff3fa00cb05a9441cb3fa33ae5f20c592080c4730808a6794",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 15,
+        "record_raw_sha256": "16cbff0b8ba14b9e6c376b4b2d161527919af4aedf65089c6c1c1b8ab8ac0346",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+      "source_sha256": "a7c6b273a8cda9020f9155cb51fce246c8f7377c7365ec10706a1f7b89ac7abf",
+      "page_sha256": "5a2e675be316c0fcb6f346673b66df30614b4b20f45b4d308e48491e33ca399f",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 17,
+        "record_raw_sha256": "cdd29132198e552f5718923b0aa9b70796e825e0a78c481aa2f38dbb989232dc",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+      "source_sha256": "4cfc8c04ed8f99ee97faa0fc787110420ed9fff13ad0ea534d680e86c98a933e",
+      "page_sha256": "9c1f046dfe2d1c7ecfee4c2a24a660a8cc326a568630901cd7b27e232310c59e",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 18,
+        "record_raw_sha256": "871a9fa3f8452e8a534630cccd0c239fc5609acd43788a54723e95911b2c7582",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+      "source_sha256": "ef7c80898d2875c6ee4c02f54456e4f3e4922c141f58f8f404e74d5f16268346",
+      "page_sha256": "52a29799e16e00d4d2aabea7d8a7a633da7619dbd19ada1149077a2c7236908c",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 20,
+        "record_raw_sha256": "c5d5cfe6ee59f6a8e9136319e42af90fbd37872a7fc405ff13cbd0ef42945162",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+      "source_sha256": "3b51617b64c935661085258466c977b0516acdbbd03851e79a56e3da24c35daa",
+      "page_sha256": "2c8a6db5915916ce6c248d5d19a4d6137530a8200c6e28a701c63c8e8687ea1d",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 23,
+        "record_raw_sha256": "462da4de9b42927a930c121a3db1e0de38d3d51abe29ff2805e9edfb599ba834",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+      "source_sha256": "47ac33514723c858dbe11fd9f242159190dcc7918353fb398f43fd1f4c526b9e",
+      "page_sha256": "b094483673df5a0baf382377c13248b4b4bede305c8aecbf6eb67825c35ab8f2",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 24,
+        "record_raw_sha256": "31bfd2a20ea4095fe10e3ddf492b4ee22549f2eccc03f7e892b1de3839b9000e",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+      "source_sha256": "f50fef88a8ac018363d79783decf13aad02567876a04667aa187d67c216b72a9",
+      "page_sha256": "2fba274b10f9946ddfe75dc2c0bcc490a8a8d0490825d766f31a804e24b84f18",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 25,
+        "record_raw_sha256": "cbd924c409aabdaa1109e9ebf354570977c70df643cfbfa6ef031684f72c409f",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+      "source_sha256": "3c1be00c401c1521e7774be3cb3c7e6650edd2e5766d39a2b4298cd2b9d77595",
+      "page_sha256": "13792efc5da75fd7d5891319e37c58eb2ef5516a9dd143ebd2778d53c152604b",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 27,
+        "record_raw_sha256": "03bf84cf7127ce2a8fd73d725809ca92709a57c230f2e8d831b6ead5501dce68",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "source_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "page_sha256": "7f1d88b9c05b6aa4a2523fe7813102f702bd32fa7390ce4ae99805fbf65ed16a",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 28,
+        "record_raw_sha256": "436aa1c34d6cf0492b938cdd5aadad9c0c2298040e9f19298cec643794f62771",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "source_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "page_sha256": "dd4c95df0342a5ffc0326c9db3712662f34369540da9c69ac2cc1a427878b471",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-095.jsonl",
+        "line": 4,
+        "record_raw_sha256": "cece6a2e0a070fdc005cc36431d77cceaaaf58d1c99f40ee924546f3bd0d32d9",
+        "reviewer": "review_095_096",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+      "source_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+      "page_sha256": "85ac98dc4c90fc50d4a1e5ba7b3c8d841ab129b6bb113b1775c029dc204757b1",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-096.jsonl",
+        "line": 25,
+        "record_raw_sha256": "35729831810fe810c556b31b6dbc21ff1c2fe73768643b8831d5b42c0e4a22a8",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+      "source_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+      "page_sha256": "acaf5eaa8d7928717520db5a581e25b1bec970e67ca938731118db05e5764c03",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-096.jsonl",
+        "line": 46,
+        "record_raw_sha256": "ea8ee7e1ec05e3b98659bab1090365e0ba34580dd921464b595739fb96ca8c9c",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-cupido.md",
+      "source_sha256": "58e17dcc705e00e75b14e3c3fb5339071cc2fc6af7690ca5dc28e78e9e047c96",
+      "page_sha256": "0c633377f4cce0a5ec89311af827522046b69f1852728e8e6c3183bf2c5c19cd",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 1,
+        "record_raw_sha256": "68e5f2c34e5219c9a56f185b786cb8614f320d70dfe828dc8906f95e80a7a46a",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-jupiter.md",
+      "source_sha256": "e4af66ec091a5e8754fbf1640aa05918cf09be76df5d0cdab66d78bda71a34e1",
+      "page_sha256": "69984cbef21041f6a30bfa01e1fae27143074a271cdc8c97b000d397412f40ef",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 3,
+        "record_raw_sha256": "707096e56593c017968a743512eef08373f43d8f33b3b7a370831c7dd04270c5",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-kronos.md",
+      "source_sha256": "4c93e6c33bfb0ae570a690fdd4384aaab37f9a77dbce94fa25e07f94375c9452",
+      "page_sha256": "ec94c80f66539ff7f65dd58a117ff8cd18790a809e8b6b8d88ee734b8061f5e8",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 4,
+        "record_raw_sha256": "0458da94fb380df2309573e616961d9c1b2cc7d9bec838ceed39f4015017af3c",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mars.md",
+      "source_sha256": "bb98249b31569df8993d0b6a79b118ebdd824b57c5e7dc11e18db646eef10a4f",
+      "page_sha256": "963e10b4236faaeb0bd8137fb5db6c3790dc97310a5b8a35ceb3e5e4d0a23001",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 5,
+        "record_raw_sha256": "1337f33963d1511600e4d7fb1da31de1a154c036a6c0a8683145ea1f51c210c1",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mc.md",
+      "source_sha256": "0148a89206d8e4a7b62e4029235b64852ed69bd5b0ce27cde451a8390b05997e",
+      "page_sha256": "30d5e1e6d05ddc3a5163966199df52b93e3e77741e684f420d0902ebcbc5d9e0",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 6,
+        "record_raw_sha256": "a6a895e040d0e2934f4a965cdf317efdfa8dda181456e7253ed692b2ef297315",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-moon.md",
+      "source_sha256": "e0c3e6873f6f309c86f9a01c7edbaa1130f1d4aff83d63922b63f75ba11d833b",
+      "page_sha256": "ccc3809150e5561003816e8bbed2b1a2c7500f0e62ee35b636ab7d8460c67229",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 8,
+        "record_raw_sha256": "c5b1226be399667e48237471f937d38515ca544eb73f6f2e9ad26f441cea7e4b",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-neptune.md",
+      "source_sha256": "60555d3d7d3e6c79aed22d8c68caff08d582da77ed7cd7343bae656c380f5339",
+      "page_sha256": "53c33566541177c73b65f353a600f9043e3b6b89385e37016e636f9752a19e4d",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 9,
+        "record_raw_sha256": "9345ded397ff8a2ebd12bfe1e8668802de4819ac2d74ff2a9373b8588bf2b553",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-poseidon.md",
+      "source_sha256": "cbb8be35c0696c91ad87d105807f7bec485d091a5f80e003cf5f7e91920a723b",
+      "page_sha256": "cd47fbf3ad754ed303480c7a6b28eca91f4ff2136cfd43498ebe7cc1e4218703",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 11,
+        "record_raw_sha256": "8c01eea70b326460410eb948d531ccd0dcf3360c78b0c37ddd7b6985438dd2f9",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-saturn.md",
+      "source_sha256": "518f768906a7f0fcd1a6831a7f0fc989773012ff2fcb3d9e60274a58ad49d89f",
+      "page_sha256": "f14ef07a0d881d602581d9d3dc82b3dd085a1d29e1dfa3c41e9c776fae3d7224",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 12,
+        "record_raw_sha256": "c2ea293d163b9e4277f0c012f6dafd97d1d11144b4475df154db6da95db7e49c",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-zeus.md",
+      "source_sha256": "6db4091c46dd2be3482b92dd22b5c5b2426996569bc3acbeb0c1c5ced5aa8c09",
+      "page_sha256": "8dae16d238246ab9d9d1395133c1ff0268dab956f7b2f6372668258deb35ed51",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 17,
+        "record_raw_sha256": "489f3a53cc5e7a90c8d1459f6593a1e95f71a2efc0d9c500c6a4f08bb07df819",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+      "source_sha256": "43d380c66ce6295fa3a4fa14247b1d6390f3650d79fcb93ae56b88d660e3a6f5",
+      "page_sha256": "27f93416195db287ae77a7c3b4db3a6e90ca22a542e574538de3a0dc22dad0aa",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 18,
+        "record_raw_sha256": "702cf9a7301444dbed4ea2c290e74d8767d728cdd040c90a8e0aa0ded1a632dc",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+      "source_sha256": "0cfc6d148c699e0685f321cec6152ea066f908c02bf020558837ae902d1cac99",
+      "page_sha256": "4724a68578c8a012532d043d21b21e5df20a40a0fe86fea69d31b6b09e136f08",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 20,
+        "record_raw_sha256": "33e74b234eeabc12c3c4ff37407655a3892eca085a89333b96764c16ce26d286",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+      "source_sha256": "dc9e8ebacff8f835cdf82ddf1c60a88e812acec530f653aadf7e40cacc850baa",
+      "page_sha256": "3944913e19c096f53fee15fdcbc930273ae03776b94018af408bb59e605dfc61",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 21,
+        "record_raw_sha256": "b3511db467bcc2051f586173bb4f48641299df5200f6ad3db51dba2bd4a1b2cd",
+        "reviewer": "review_097_098",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+      "source_sha256": "9f5aec7b3711cc48aaeb382222276e93340a793e360416a30782a70a74ee3856",
+      "page_sha256": "d1b957e2234e256d06bdfe334f3f283872b415768457051e5f117c110e20b177",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "line": 1,
+        "record_raw_sha256": "6b3008255b74e8c3256f2a3ef86d925b4780d7e6a5f1868d18f16fd1ae08e4ea",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+      "source_sha256": "68134d75b5bfa845e3ecc41e3070b17b85b1f4fd4e1d5b95d774cbf1238257c3",
+      "page_sha256": "56dcb58326a051639bfa23a063815e3040da3d87c49ad35f1474561e3f693b8e",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "line": 3,
+        "record_raw_sha256": "09a52e5145088d6fc235e64b4ff28c13cedce04968fe4f922cc7f270665c0042",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+      "source_sha256": "4c246cd86c8207c9a237c3cec4169a6aae06d967a218dedcf149e4e2645693d2",
+      "page_sha256": "e86265d62a56346106292ca297bc7e678196d5c8fe5cb4bc32f35aaf2cd4b4b0",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "line": 5,
+        "record_raw_sha256": "609e8bf1307bfb2f1b6b30d1ad70ceb06aecb5158def1abd35c66735e8af506a",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "source_sha256": "fecd1fe0571c79aa4cb03c561ca4c7c869dc361aa600705af30207a614a62a9d",
+      "page_sha256": "114aa360deb5f49a4e1523c33fdf7a3ac65df8d999ae802776843704c53abc3b",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-099.jsonl",
+        "line": 7,
+        "record_raw_sha256": "c3c72030e74ff5f316586f51136624aa9012ec00718c73d2150b68400ba54a45",
+        "reviewer": "activations_089_099",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "source_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "page_sha256": "f6f03993e2046b4325e20f31d3d6925eacbcd181217a5813aa4389c978bc87b4",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 24,
+        "record_raw_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "source_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "page_sha256": "264bc56c6c4c5fdeb69558d5b0a14f2078a7a8afcfe1c0d6f5c1438695a9b192",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 26,
+        "record_raw_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "source_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "page_sha256": "66c9317b1c2eec7bea27c050bfc2c127e247e3f5fd7a12cb928fe9114350fbab",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 33,
+        "record_raw_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "source_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "page_sha256": "b9a5bad5468fb9ae4da6942c29e9160f13ea9fe9a7b0374e48c9a415308cd317",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "line": 36,
+        "record_raw_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "source_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "page_sha256": "f1950ef7ac522c3d013211a95be3ff1ec665a9ed1df2e0785bcc486e73c9ce7f",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-098.jsonl",
+        "line": 36,
+        "record_raw_sha256": "876df7366f0ed5ee353ed91c99ddd6ccc2ca2785af74a2ef5355d39b8fbb1c0f",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+      "source_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+      "page_sha256": "bdcf78fec5d543ac1594933da259787aa37855a4fe9e1d9dae0b89eee31e5160",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "line": 14,
+        "record_raw_sha256": "ac7b19f12f8072d1a6183ff38fb4c233abb91b5f7771b0ec5efdbeeefd42d31b",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+      "source_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+      "page_sha256": "990cf74e66fd80ce269629b79a06b95b4d06ba16756484b05dda44494b8658a6",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "line": 15,
+        "record_raw_sha256": "1f3281bce48bf115fb7a5ab6413e15ba79d6f27631223d2e26a1762ad76f13bd",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+      "source_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+      "page_sha256": "45bf4394b62d66f6464ff8a56ee071d5c830d00bb61b0889b0195348c7ea3f88",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "line": 30,
+        "record_raw_sha256": "1f06c8fc4351ff3e70f003a0e045946807d996f0b88c4691287005e1867d1550",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-kronos-equals-venus.md",
+      "source_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+      "page_sha256": "219764698863427fbe27e2a06c01903e1dc971dc2e6db0b3fe343b95b50ce0a0",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 2,
+        "record_raw_sha256": "6a99088965ed57c5cf19e4057d2df4f310db9db60c8ead00d05094a0a30df72d",
+        "reviewer": "/root/resume_a100_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+      "source_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+      "page_sha256": "9fbf05a733deaa29ff3849dbe9c5a08cc80fef61202ff0c637e50c5370679abc",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 7,
+        "record_raw_sha256": "1661261c6d505fc2df3fa691ddce917990b51f9f88c45b1d9c65a8d6a863706e",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "source_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+      "page_sha256": "c256d9c027513dd16c68027e6361ce60167ba215563cc2b3c36b233c9397bcf7",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 25,
+        "record_raw_sha256": "6c187efb5aa3a1e0e6e589f59e6640232811e654c1b853728a5ad05ae8936ec8",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "source_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+      "page_sha256": "6c467d116a5c97c99699edc41eb5c5153aa3746caea991fad69276ecc417e5e8",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 26,
+        "record_raw_sha256": "3afb4619768c4a6d7cea71d8ac6064fe02eece7b93bef34363559b7a1c11c80a",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "source_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+      "page_sha256": "13649fe907880f9c53a6542ad7ef108dda997a6c7e04da8a265f689a826fca7f",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 27,
+        "record_raw_sha256": "05e71f9d9777823ee34d3bbbf44672617a15276698adef55b0564df686b6c646",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+      "source_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+      "page_sha256": "315fce3354270fa5d65d1fdec62b44a84ad593a455663e9e680f782ceebf890d",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 39,
+        "record_raw_sha256": "e63d5708a4b3f05314b38c4e35cde6516707b8b62ba44a30e2f7a180e50c0105",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "source_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+      "page_sha256": "4a5eeb0f4cd854628f92e1ef70529dba83bfa07871713a83131dfcf92d8e780e",
+      "owner": {
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "line": 55,
+        "record_raw_sha256": "0a6196a52cad0baa9440659db2f8a7fb06bdc21d70861fd606588110f327d78e",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed"
+      },
+      "checks_passed": true
+    }
+  ]
+}

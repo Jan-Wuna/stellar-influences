@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Node Zeus Poseidon](../triads/node-zeus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 Mental creations in common with others.
 
@@ -42,13 +46,27 @@ Mental creations in common with others.
 
 #### ABC Entry
 
-Encounters with a spiritual filthyness, spiritual aim in a connection, creative spiritual contacts, cultural achievement mediation, aspiration to freedom in connections, and commitment to creative culture V
+- Source page: 229 (printed); PDF page: 113 (one-based; exact row checked).
+
+Encounter with intellectual or spiritual leadership, intellectual or spiritual goal-striving within a connection, creative intellectual or spiritual contacts, mediation of cultural achievement, striving for truth within connections, creative cultural connections.
+
+## Comparative Schema
+
+- core meaning: shared mental creation directed toward spiritual, intellectual or cultural aims.
+- psychology: striving for understanding, truth and a mental or spiritual goal.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: creative cultural contacts and connections with intellectual or spiritual leadership.
+- events/manifestations: mental creations made with others and mediation of cultural achievement.
+- conflicts/notes: The entries connect shared mental creation with leadership, culture and striving for truth, without establishing a particular belief system.
+
+## Contradictions
+
+The entries connect shared mental creation with leadership, culture and striving for truth, without establishing a particular belief system.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Poseidon`: Mental creations in common with others.
-- Practical focus: mental creations in common with others.
+Poseidon specifies `Node/Zeus` through creating something together in thought, spirit or culture. The [Witte entry](#witte-entry) supplies common mental creation; the [ABC entry](#abc-entry) develops spiritual or intellectual aims, cultural achievement and striving for truth within the connection. Contact with intellectual or spiritual leadership is also named. The bond is productive through the ideas and cultural or spiritual purpose people bring to it, without establishing the truth of a particular teaching.
 
 ## Links
 

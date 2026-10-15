@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Venus`
 - Astronomicon formula: `Y/¢ = Q`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Deception and meanness in love. Longing for water. To be attracted by surroundings with lots of water.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `394`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Dissolving of a criminal love, dangerous love exchange, harmony deficiency by weak, grief by love exchange, weakness of a past love, insecurity by secret love, and preference for unknown and hidden things
+Dissolution of a criminal love, dangerous disappointment in love, lack of harmony through weakness, sorrow through disappointment in love, weaknesses of a past love, uncertainty through secret love, and preference for unknown and hidden matters
+
+## Comparative Schema
+
+- core meaning: deception or disappointment in love, alongside attraction to water and hidden matters.
+- psychology: sorrow, secrecy-related uncertainty, and preference for the unknown are explicit.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: past or secret love and Witte's meanness in love are stated relationship themes.
+- events/manifestations: ending a criminal love and seeking water-rich surroundings are examples.
+- conflicts/notes: criminal love is undefined source wording; no particular offense or present legal classification is inferred.
+
+## Contradictions
+
+Witte gives both adverse love and attraction to water. ABC adds disappointment and hidden interests without establishing watery beauty or melancholy as their cause.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Venus`: Deception and meanness in love. Longing for water. To be attracted by surroundings with lots of water.
-- Practical focus: moves hidden corruption into attraction and affection, showing deceptive love, mean-spirited feeling, and a pull toward environments whose beauty is tied to watery melancholy.
-- Practical expression: dissolving of a criminal love, dangerous love exchange, harmony deficiency by weak, grief by love exchange, and weakness of a past love.
+In Neptune/Hades = Venus, Venus specifies the pair through disappointed or deceptive affection and particular preferences. The [Witte entry](#witte-entry) gives deception and meanness in love, but also longing for water; [ABC](#abc-entry) adds sorrow through disappointment, uncertain secret love, and preference for hidden matters (printed p. 394, PDF p. 196). These preserve adverse relationship experience and attraction to surroundings as distinct themes. The undefined criminal-love phrase is not expanded into a particular offense, and watery beauty or melancholy is not supplied as a cause.
 
 ## Links
 

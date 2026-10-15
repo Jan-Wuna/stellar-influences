@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Admetos](../triads/vernal-point-moon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Death of many female persons. The death of a nation.
 
@@ -42,13 +46,27 @@ Death of many female persons. The death of a nation.
 
 #### ABC Entry
 
-Endurance of a woman in public life, blocked feelings in public, depressed miltters of the world, depressed people in public, restricted people in public life, and strengthening of women in public life
+- Source page: 25; PDF page: 11 (one-based spread).
+
+A woman's endurance in public life, blocked public feelings, depressed mothers of the world, a depressed people in public, a restricted people in public life, and the consolidation of women's position in public life
+
+## Comparative Schema
+
+- core meaning: Public feeling and collective life under restriction, endurance, or consolidation.
+- psychology: Blocked feelings and collective depression are source language.
+- body/health: Witte names deaths of women and a nation as severe source associations.
+- social/relationship: Mothers and a restricted people are explicit collective examples.
+- events/manifestations: Endurance and consolidation coexist with adverse outcomes.
+- conflicts/notes: Death and depression are attributed possibilities, not diagnoses or predictions.
+
+## Contradictions
+
+Witte concentrates on extreme loss; ABC also includes endurance and a strengthened position. The latter must not be erased by the death examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Admetos`: death of many female persons and the death of a nation.
-- Practical expression: endurance of a woman in public life, blocked feelings in public, depressed miltters of the world, depressed people in public, and restricted people in public life.
+In `Vernal Point/Moon = Admetos`, public feeling and collective life are held within severe limits. The restored [ABC entry](#abc-entry) places endurance and consolidation beside blocked feeling, depressed mothers, and a restricted people. The [Witte entry](#witte-entry) supplies the extreme examples of deaths among women or the death of a nation. The synthesis keeps persistence and strengthening visible alongside those severe attributed possibilities.
 
 ## Links
 

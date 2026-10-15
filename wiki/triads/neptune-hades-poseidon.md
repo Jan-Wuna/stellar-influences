@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Hades Poseidon`
 - Astronomicon triad-set: `Y ¢ ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Poseidon = Neptune](../activations/hades-poseidon-equals-neptune.md)
-- [Neptune/Hades = Poseidon](../activations/neptune-hades-equals-poseidon.md)
-- [Neptune/Poseidon = Hades](../activations/neptune-poseidon-equals-hades.md)
+- [Hades/Poseidon = Neptune](../activations/hades-poseidon-equals-neptune.md): base axis [Hades/Poseidon](../axes/hades-poseidon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Hades = Poseidon](../activations/neptune-hades-equals-poseidon.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Poseidon](../factors/poseidon.md).
+- [Neptune/Poseidon = Hades](../activations/neptune-poseidon-equals-hades.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Hades/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
-- `Hades/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `449`
-- `Neptune/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `395`
-- `Neptune/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Poseidon = Neptune](../activations/hades-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 286); [Neptune/Hades = Poseidon](../activations/neptune-hades-equals-poseidon.md#witte-entry) (PDF entry-start p. 248); [Neptune/Poseidon = Hades](../activations/neptune-poseidon-equals-hades.md#witte-entry) (PDF entry-start p. 254).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Poseidon = Neptune](../activations/hades-poseidon-equals-neptune.md#abc-entry) (printed p. 449); [Neptune/Hades = Poseidon](../activations/neptune-hades-equals-poseidon.md#abc-entry) (printed p. 395); [Neptune/Poseidon = Hades](../activations/neptune-poseidon-equals-hades.md#abc-entry) (printed p. 407).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Poseidon = Neptune`: appearing unclear, intricate, and hard to understand because of self-isolation and opaque mental behavior.
-- `Neptune/Hades = Poseidon`: This activation spiritualizes confusion in the negative sense, showing mistakes born from lack of lucidity, poor discrimination, or a mind unable to keep reality and distortion clearly apart.
-- `Neptune/Poseidon = Hades`: This activation darkens the axis into distorted worldview through dullness or stubbornness, where fine or spiritual perception is dragged into error by mental rigidity.
+Neptune, Hades and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Poseidon](../axes/hades-poseidon.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Hades](../factors/hades.md)
 - [Poseidon](../factors/poseidon.md)

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Neptune MC](../triads/vernal-point-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ To be deceived with others. Uncertain and muddy relations to the public.
 
 #### ABC Entry
 
-My finesse in the public life, my ideas for the public, exchanges in the public life, my uncertainty in the public life, my future in the public, and minute of the weak in the public
+- Source reference: printed p. `19`, one-based PDF p. `8`, complete Neptune row.
+
+German passage transcribed from the scan:
+
+> Mein Feingefühl im öffentlichen Leben, meine Ahnungen für die Öffentlichkeit, meine Enttäuschungen im öffentlichen Leben, meine Unsicherheit im öffentlichen Leben, meine Zukunft in der Öffentlichkeit, Minute der Schwäche in der Öffentlichkeit
+
+Editorial translation: My sensitivity in public life; my presentiments for the public; my disappointments in public life; my uncertainty in public life; my future in public; a minute of weakness in public.
+
+## Comparative Schema
+
+- Core meaning: Uncertainty in one's relationship with public life.
+- Psychology: Sensitivity, presentiments, disappointments and uncertainty; these source terms do not establish reliable foresight.
+- Body/health: ABC names a minute of weakness without identifying a medical condition.
+- Social/relationship: Sharing deception with others and unclear public relations.
+- Events/manifestations: Public uncertainty; no specific future event is predicted.
+- Conflicts/notes: Sensitivity, presentiments and disappointments are distinct clauses; neither a prediction method nor a diagnosis is supplied.
+
+## Contradictions
+
+The overlap is uncertainty. ABC also names sensitivity, presentiments and disappointments; these do not resolve the deception or public ambiguity in Witte.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Neptune`: to be deceived with others and uncertain and muddy relations to the public.
-- Practical expression: my finesse in the public life, my ideas for the public, exchanges in the public life, my uncertainty in the public life, and my future in the public.
+In `Vernal Point/MC = Neptune`, Neptune specifies one's public orientation through uncertainty and unclear relations. The [Witte Entry](#witte-entry) (PDF p. 35) includes being deceived together with others, while the uncertainty and disappointment clauses of the complete [ABC Entry](#abc-entry) (printed p. 19; PDF p. 8) reinforces the lack of secure footing. ABC's additional sensitivity, presentiments, future and minute-of-weakness phrases supply neither a prediction method nor a diagnosis.
 
 ## Links
 

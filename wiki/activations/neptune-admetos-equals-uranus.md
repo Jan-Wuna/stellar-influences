@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Uranus`
 - Astronomicon formula: `Y/¦ = X`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden glaring transformations of living conditions or forms of being.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Excitement and exchange over restrictions, dynamic deepening in metaphysics, cycle dynamics of water, nervousness due to gritty exchange, sudden blockade resolution, creeping restlessness due to depression, and technical air blockade
+Agitation and disappointment over restrictions, dynamic deepening in metaphysics, circulation dynamics of water, nervousness because of thorough deception, sudden dissolution of a blockade, creeping unrest through depression, and a technical air blockade
+
+## Comparative Schema
+
+- core meaning: sudden conspicuous changes in living conditions, with abrupt release among ABC's examples.
+- psychology: agitation, disappointment, nervousness through deception, and creeping unrest are named.
+- body/health: depression and nervousness are historical source terms, not diagnoses.
+- social/relationship: neither entry specifies a relationship role; restrictions and deception are ABC settings.
+- events/manifestations: sudden blockade dissolution, water-circulation dynamics, and technical air blockage are listed.
+- conflicts/notes: abrupt release does not establish liberation, and creeping unrest remains distinct from sudden change.
+
+## Contradictions
+
+Witte's glaring sudden change and ABC's creeping unrest differ in pace. Both remain possible without being reduced to a single disruptive event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Uranus`: Sudden glaring transformations of living conditions or forms of being.
-- Practical focus: electrifies `Neptune/Admetos` into sudden, glaring transformation. It breaks slow deprivation open through abrupt change, showing living conditions or forms of existence disrupted in a way that is sharp, destabilizing, and unmistakable.
-- Practical expression: excitement, exchange over restrictions, dynamic deepening in metaphysics, cycle dynamics of water, and nervousness due to gritty exchange.
+In Neptune/Admetos = Uranus, Uranus specifies the pair through sudden and conspicuous changes in living conditions. The [Witte entry](#witte-entry) states that abrupt transformation; [ABC](#abc-entry) adds sudden blockade dissolution, agitation over restrictions, and nervousness caused by deception (printed p. 403, PDF p. 200). Its creeping unrest, water circulation, and technical air blockade are additional settings. Sudden change may release an obstacle without establishing that every result is beneficial or destabilizing.
 
 ## Links
 

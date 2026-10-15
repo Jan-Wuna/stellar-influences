@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Cupido](../triads/vernal-point-jupiter-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Happiness in married life.
 
@@ -42,13 +46,27 @@ Happiness in married life.
 
 #### ABC Entry
 
+- Source page: 35; PDF page: 16 (one-based spread).
+
 Successful community in public, shared joy in public, public funds for the community, public legal community, advantages through art in public, and contented community in public
+
+## Comparative Schema
+
+- core meaning: Public success and satisfaction shared by a community.
+- psychology: Shared joy and communal contentment are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Witte's happy marriage is a specific collective relationship.
+- events/manifestations: Community funding, legal community, and benefits through public art.
+- conflicts/notes: The marriage example is narrower than ABC's broader community and art scope.
+
+## Contradictions
+
+No direct contradiction is established. Marriage, community, and art are distinct settings for shared benefit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Cupido`: happiness in married life.
-- Practical expression: successful community in public, shared joy in public, public funds for the community, public legal community, and advantages through art in public.
+In `Vernal Point/Jupiter = Cupido`, public advantage becomes something held in common. The [ABC entry](#abc-entry) links successful and contented communities with shared joy, public funds, legal association, and benefits through art. The [Witte entry](#witte-entry) provides happy married life as a more intimate example. The reading centers on collective satisfaction and support, without reducing every community to marriage.
 
 ## Links
 

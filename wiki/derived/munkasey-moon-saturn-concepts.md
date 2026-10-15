@@ -6,22 +6,25 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Moon/Saturn` as source-native image material.
+Preserve Munkasey's concept phrases for `Moon/Saturn` as source-native image material.
+
+Start with the [Moon/Saturn interpretation](../axes/moon-saturn.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/moon-saturn.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Moon/Saturn](../axes/moon-saturn.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `121`
+- Source concept page (printed): `121` (PDF page `122`).
 
 ## Source Concepts
 
-- MOON/SATURN CONCEPTS
+**MOON/SATURN CONCEPTS**
+
 - Feelings of Frustration
 - Moderate Hesitations
 - Instinctive Loyalty
@@ -123,5 +126,6 @@ Preserve Munkasey's page-3 concept phrases for `Moon/Saturn` as source-native im
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/moon-saturn.md#related-activations) to find the exact formula and orientation.
+
+"Emotional Stability", "A Nurturing Father", and "A Restrictive Home Life" preserve different possibilities in the list. None is a verdict about a particular parent or family. The all-capitals label above the prompts preserves the source's section heading.

@@ -11,6 +11,8 @@ normalized_axis: Neptune/MC
 factor_a: Neptune
 factor_b: MC
 related_activations:
+  - Neptune/MC = MC
+  - Neptune/MC = Neptune
   - Neptune/MC = Admetos
   - Neptune/MC = Apollon
   - Neptune/MC = Asc
@@ -72,12 +74,14 @@ updated_at: 2026-05-06
 - Astronomicon axis: `Y/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NEPTUNE/MIDHEAVEN`
-- Source page: `339`
+- Source heading: `MERIDIAN + NEPTUNE`
+- PDF page: `68`
 
 #### Pair Summary
 
@@ -85,11 +89,19 @@ To decline. To refuse something. To be unsure, unable to support. Unintelligible
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `80`; PDF page: `39` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-I in water, my breath, my premonitions, my sensitivity, my intuition, my weakness, my sensitiveness, my deceptions, my uncertainty, my future, disappointment in the soul, and spiritual sensitivity
+German pair summary (transcribed from printed page `80`; PDF page `39`):
+
+> Ich im Wasser, mein Atem, meine Ahnungen, mein Gespür, meine Intuition, meine Schwäche, meine Sensibilität, meine Täuschungen, meine Unsicherheit, meine Zukunft, seelische Enttäuschung, seelisches Feingefühl, seelische Schwäche
+
+Editorial translation from the German passage: I in water, my breath, my premonitions, my intuitive sense, my intuition, my weakness, my sensitivity, my deceptions, my uncertainty, my future, disappointment of the soul, sensitivity of the soul, weakness of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `289`; PDF page: `291` (pair prose, footnote64 and boundary checked against scan).
 
 #### Principle
 
@@ -109,7 +121,11 @@ People with Utopian ideas, crooks or swindlers. "Man of big talk but not of acti
 
 #### Probable Manifestations
 
-+ Devotion to peculiar objectives, inclination to feign, pose or put on an act. - Pursuit of wrong ideas, prone to deception. 64 Neptune/MC should not always be interpreted negatively but can mean an especially sensitive individual who is particularly sensitive to others, or it can indicate an interest in the occult or in parapsychological problems, e. g., this combination was found in the case of a very well known research worker who occupied himself with parapsychological problems. An aspect of transiting or directed Neptune to the MC can in certain circumstances result in a very deep depression and far-reaching disappointments, reducing the patient to someone who feels incapable of undertaking anything. In the case of transiting Neptune over the MC one must remember that this can occur several times in the course of two years. In a case like this the whole must be considered. Neptune/Medium Coeli V/M
++ Devotion to peculiar objectives, inclination to feign, pose or put on an act. - Pursuit of wrong ideas, prone to deception.
+
+#### Source Footnote 64
+
+Neptune/MC should not always be interpreted negatively but can mean an especially sensitive individual who is particularly sensitive to others, or it can indicate an interest in the occult or in parapsychological problems, e. g., this combination was found in the case of a very well known research worker who occupied himself with parapsychological problems. An aspect of transiting or directed Neptune to the MC can in certain circumstances result in a very deep depression and far-reaching disappointments, reducing the patient to someone who feels incapable of undertaking anything. In the case of transiting Neptune over the MC one must remember that this can occur several times in the course of two years. In a case like this the whole must be considered.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -161,14 +177,17 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: an imagined or intuitively sensed life direction can inspire purpose while leaving goals or the sense of self uncertain.
+- psychology: vision, sensitivity, and interest in the unconscious coexist with indecision, weak self-confidence, self-deception, and difficulty realizing objectives.
+- body/health: Ebertin's psychiatric and numbness associations and Munkasey's heredity, drug, or allergen associations are historical source claims, not diagnoses or genetic findings.
+- social/relationship: sympathy, self-sacrifice, and feelings of oneness range into being influenced by others or misreading their motives and one's own contribution.
+- events/manifestations: imaginative or humanitarian work, uncertain career planning, neglected qualifications, revised organizational ideals, and official scandals occur in the entries.
+- conflicts/notes: Ebertin explicitly qualifies an exclusively negative reading. The separately retained source footnote has historical timing examples, without adding timing doctrine here.
 
 ## Related Activations
+
+- [Neptune/MC = MC](../activations/neptune-mc-equals-mc.md)
+- [Neptune/MC = Neptune](../activations/neptune-mc-equals-neptune.md)
 
 - [Neptune/MC = Admetos](../activations/neptune-mc-equals-admetos.md)
 - [Neptune/MC = Apollon](../activations/neptune-mc-equals-apollon.md)
@@ -194,15 +213,16 @@ May bring a genetic weakness or body reaction to certain allergens, drugs, alcoh
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+ABC's complete list restores weakness of the soul. Ebertin's actual footnote64 is separated from pair manifestations and the falsely merged next heading is removed.
+
+ABC's complete bold pair list was checked against printed80/PDF39; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC` is the axis of idealistic but uncertain vocation, visionary life direction, and public identity shaped by imagination, sacrifice, or subtle influence. It combines dream, intuition, compassion, and unreality with ambition, status, self-definition, and the search for a role in the world.
-- Chart expression: humanitarian, artistic, mystical, or symbolic callings, and to a life path guided more by intuition or ideals than by hard worldly certainty. Liabilities: aimlessness, insecurity, deception, public confusion, susceptibility to misleading influences, and career or purpose that dissolves when ideals are not grounded in practical form.
+`Neptune/MC` connects a person's sense of direction with intuition, imagination, and ideals that may be difficult to define or realize. A sensed future can provide inspiration, yet leave uncertainty about what to do, how to prepare, or whether progress is being made. [Ebertin's principle and psychological correspondence](#principle) and [Munkasey's basic ideas](#basic-ideas) retain both the vision and the difficulty of giving it practical direction.
+
+The range includes [Sandbach's imaginative or humanitarian vocation and freely given sympathy](#principle-1), and [Hand's spiritual or idealistic life course](#pair-delineation), alongside susceptibility to influence, self-denial, or an unclear objective. Munkasey extends this to [misreading relationships](#in-your-relationships) and [leaders revisiting ideals or being deceived](#in-politics-or-business); Witte also preserves refusal and unreliability. Sensitivity is therefore not reducible to failure, but inspiration does not by itself demonstrate a realizable plan. The historical health descriptions do not diagnose a condition, and specific activation or timing claims remain outside this pair synthesis.
 
 ## Links
 

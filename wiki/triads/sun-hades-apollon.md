@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Hades Apollon`
 - Astronomicon triad-set: `S ¢ ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Apollon = Sun](../activations/hades-apollon-equals-sun.md)
-- [Sun/Apollon = Hades](../activations/sun-apollon-equals-hades.md)
-- [Sun/Hades = Apollon](../activations/sun-hades-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Apollon = Sun](../activations/hades-apollon-equals-sun.md) | [Hades/Apollon](../axes/hades-apollon.md) | [Sun](../factors/sun.md) |
+| [Sun/Apollon = Hades](../activations/sun-apollon-equals-hades.md) | [Sun/Apollon](../axes/sun-apollon.md) | [Hades](../factors/hades.md) |
+| [Sun/Hades = Apollon](../activations/sun-hades-equals-apollon.md) | [Sun/Hades](../axes/sun-hades.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Hades/Apollon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `442`
-- `Sun/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `115`
-- `Sun/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `167`
-- `Sun/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Apollon = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-apollon-equals-sun.md#witte-entry), one-based PDF entry-start p. `280`.
+- `Hades/Apollon = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-apollon-equals-sun.md#abc-entry), printed p. `442`.
+- `Sun/Apollon = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-apollon-equals-hades.md#witte-entry), one-based PDF entry-start p. `115`.
+- `Sun/Apollon = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-apollon-equals-hades.md#abc-entry), printed p. `167`.
+- `Sun/Hades = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-apollon.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-apollon.md#abc-entry), printed p. `161`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Sun`: the person who handles rags, garbage, history, or knowledge of what has already been left behind.
-- `Sun/Apollon = Hades`: This formula emphasizes successful investigator or explorer and research expert.
-- `Sun/Hades = Apollon`: This formula emphasizes epidemics and mass sickness.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

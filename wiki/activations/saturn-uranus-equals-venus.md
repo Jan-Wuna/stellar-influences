@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Venus Saturn Uranus](../triads/venus-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Sudden rupture in love. Separation from something wished for.
 
 #### ABC Entry
 
-Distorted harmony rhythm, concentration on technical arts, new harmony in old age, sudden problems in love, painful love event, restlessness through storten peace, and preference for technical tasks
+Disturbed rhythm of harmony, concentration on technical art, new harmony in old age, sudden problems in love, a painful love event, unrest through disturbed peace, and a preference for technical tasks.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Introducing change in a more acceptable way; added satisfaction with new ways of
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Affection, harmony and desire encounter inhibition or abrupt change.
+- psychology: Reluctance to show affection; attraction to uncompromising individuality.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Stress and rupture in love, alongside new ways of expressing affection.
+- events/manifestations: Art experiments with structure; change may be made more acceptable.
+- conflicts/notes: Separation is one outcome; renewed harmony is also represented.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize rupture; ABC and Munkasey also allow renewed harmony or satisfaction. These alternatives should remain visible.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Venus`: serious originality in love, social reform through taste or civility, and bonds that work only when honesty and space are respected. Main caution: instability in attachment: tension between commitment and independence can make warmth irregular or difficult to trust.
+Venus specifies Saturn/Uranus through affection and harmony strained by the need for individuality. Warmth may be inhibited or a desired bond abruptly broken, yet new ways of showing affection and experiments in artistic structure are also present. The [Witte Entry](#witte-entry) (PDF p. 221, entry start), [Sandbach Entry](#sandbach-entry) (PDF p. 88, chapter start only) and [Munkasey Entry](#munkasey-entry) (printed p. 284) support this range. The formula does not establish a universal rule about which relationship arrangements will work.
 
 ## Links
 

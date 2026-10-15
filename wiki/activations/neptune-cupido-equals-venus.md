@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Venus`
 - Astronomicon formula: `Y/¡ = Q`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Dissonances in love marriage. Deception in love. Breach of promise to marry.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `392`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-Dissolution of a harmonious community, exchanged love community, shared joy in the water, harmony of a community in the air, secret love community, uncertain peace in of a community, and future peace community
+Dissolution of a harmonious community, disappointed love-community, shared joy in water, harmony of a community in the air, secret love-community, uncertain peace in a community, and future peace-community
+
+## Comparative Schema
+
+- core meaning: discord or disappointment in love and union, alongside shared joy, harmony, and peace.
+- psychology: disappointment and joy coexist without a stated cause in unstable emotional foundations.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: love marriage, promises to marry, and secret love-community are explicit settings.
+- events/manifestations: broken marriage promises, dissolution of a harmonious community, and a future peace-community are stated.
+- conflicts/notes: the source does not establish that a discordant marriage began on unstable ground.
+
+## Contradictions
+
+Witte emphasizes deception and discord. ABC retains those adverse possibilities but also shared joy, harmony, and future peace, without guaranteeing reconciliation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Venus`: Dissonances in love marriage. Deception in love. Breach of promise to marry.
-- Practical focus: moves dissolution into love and promise, showing deceptive affection, broken engagement, or discord in marriages formed on unstable emotional ground.
-- Practical expression: dissolution of a harmonious community, exchanged love community, shared joy in the water, harmony of a community in the air, and secret love community.
+In Neptune/Cupido = Venus, Venus specifies the pair through love, harmony, and the promises or disappointments of union. The [Witte entry](#witte-entry) gives discord, deception, and a broken promise to marry; [ABC](#abc-entry) adds a disappointed love-community and uncertain peace, while also retaining shared joy and harmony (printed p. 392, PDF p. 195). These distinguish a troubled bond from a necessary history or outcome: the passages neither explain how it began nor guarantee its failure or reconciliation.
 
 ## Links
 

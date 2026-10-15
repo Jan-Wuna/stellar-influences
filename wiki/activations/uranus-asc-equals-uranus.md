@@ -24,6 +24,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Uranus`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = X`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
@@ -41,22 +42,23 @@ Increased personal restlessness and a need to find new ways of expressing yourse
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry), p. 322, `URANUS/ASCENDANT With Itself`.
+
+- core meaning: Restlessness intensifies the search for an individual mode of expression.
+- psychology: A need to stand apart from others motivates unusual methods.
+- body/health: The passage names restlessness without establishing a medical condition.
+- social/relationship: Differentiation from other people is explicit; no particular relationship outcome is given.
+- events/manifestations: Unusual ways of doing work or proclaiming individuality are the stated examples.
+- conflicts/notes: This single-source repeated-factor entry does not establish a distinct triad or independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present, so comparison cannot establish source agreement or disagreement. Its "may force" wording is conditional and does not make unusual conduct inevitable.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Uranus`: Increased personal restlessness and a need to find new ways of expressing oneself to set one aside from others; may force one to adopt unusual methods to proclaim one's individuality and way of doing one's work.
+With Uranus repeating as activator, Uranus/Asc emphasizes restlessness that seeks a distinctive outlet: a person may adopt unusual ways of expressing individuality or doing work in order to stand apart from others. This is the scope of the one `With Itself` entry; it does not supply a specific event or relationship outcome beyond that pressure toward differentiation. ([Munkasey](#munkasey-entry), p. 322.)
 
 ## Links
 

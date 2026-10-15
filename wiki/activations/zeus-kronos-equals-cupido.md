@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Cupido Zeus Kronos](../triads/cupido-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 289 (one-based).
 
 Creator in art. To put new life into art. Creative art subsidized by the state.
 
@@ -42,13 +46,29 @@ Creator in art. To put new life into art. Creative art subsidized by the state.
 
 #### ABC Entry
 
+- Source page: 451; PDF page: 224 (one-based spread).
+
 reputation through shared striving toward goals, special efforts toward synthesis, special performance community, founding of an independent community, state leadership community, hierarchical performance community, and superior artistic formation
+
+## Comparative Schema
+
+- core meaning: Distinguished collective achievement and artistic creation.
+- psychology: Common goal striving and efforts toward synthesis.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Independent communities, state leadership groups and hierarchies.
+- events/manifestations: Creating new life in art, state-subsidized art and founding communities.
+- conflicts/notes: Collective prestige does not establish that every hierarchy supports art.
+
+## Contradictions
+
+Witte emphasizes artistic creation and state subsidy. ABC adds independent communities and hierarchical achievement as related collective settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Cupido`: Creator in art. To put new life into art. Creative art subsidized by the state.
-- Practical expression: reputation through shared striving toward goals, special efforts toward synthesis, special performance community, founding of an independent community, and state leadership community.
+`Zeus/Kronos = Cupido` connects exceptional creation with a community or organized group. Witte’s artistic creator and state-supported art meet ABC’s superior artistic formation and prestige through common goal striving. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Founding an independent community and joining a state or hierarchical achievement group provide other collective expressions. Their shared theme is organized creation and accomplishment, without making state support a condition of every artistic result. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

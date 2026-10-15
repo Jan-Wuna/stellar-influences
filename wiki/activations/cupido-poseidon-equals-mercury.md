@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Cupido/Poseidon = Mercury`
 - Astronomicon formula: `¡/¨ = T`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: printed p. 278 (one-based PDF p. 274), Mercury row.
+
 To think, speak or write about spiritual, cultural or philosophical societies. To conduct propaganda for groups of a certain worldview.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-In this context, it is important to stress the importance of the Community's role in the development of the common foreign and security policy, and in particular in the field of security and security
+Reference: printed p. 436 (one-based PDF p. 217), Mercury row. The preceding connection clauses belong to Node; Mercury starts at Berichte über geistige Gemeinschaften.
+
+Reports about spiritual communities, shared conversations about truth, a shared culture of language, ideas of a young community, discussing ideas together, clarity through shared conversations, and a reasonable youth community.
+
+## Comparative Schema
+
+- Core meaning: Thought and communication concerning spiritual, cultural, or philosophical communities and their shared ideas.
+- Psychology: Shared reflection on truth and clarity through conversation.
+- Body/health: No explicit health statement in these entries.
+- Social/relationship: Shared language and discussion, ideas within a young community, and a reasonable youth community.
+- Events/manifestations: Reports, speaking or writing about societies, and propaganda for groups with a particular worldview.
+- Conflicts/notes: Witte explicitly includes propaganda; the entry does not state that all shared communication falsifies truth. The corrected ABC Mercury row excludes the preceding Node continuation.
+
+## Contradictions
+
+Witte's propaganda and ABC's shared search for clarity describe different uses of communication. No passage establishes that persuasion necessarily replaces inquiry or that a group's stated truth is independently verified.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon = Mercury`: doctrine circulating through communication, teaching, publishing, persuasion, and narrative framing. Main caution: rhetoric overtaking truth or propaganda replacing inquiry.
+In `Cupido/Poseidon = Mercury`, Mercury specifies the pair through thinking, speaking, and writing about communities united by spiritual, cultural, or philosophical concerns. Shared ideas and language support discussion about truth and clarity, including within a young community. Witte also includes propaganda for a group with a particular worldview, preserving advocacy alongside mutual discussion without equating the two. ([Witte entry](#witte-entry), [ABC entry](#abc-entry))
 
 ## Links
 

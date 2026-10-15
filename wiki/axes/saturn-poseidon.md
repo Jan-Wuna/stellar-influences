@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN + POSEIDON`
+- PDF page (one-based): `231` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Education. The pattern, the model. Mental, spiritual or ideological separations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `368–369`; PDF page (one-based): `183` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Patience and ability, spiritual tasks, spiritual maturity, mental disturbances, hard truth, courage through patience, culture, problems with truth, and difficulties to recognize
+Patience and reason, mental/spiritual tasks, mental/spiritual maturity, mental disturbances, hard truth, clarity through patience, cultural tasks, problems with truth, recognizing difficulties, reasonable separation.
+
+## Comparative Schema
+
+- core meaning: education, models, and instructions, together with mental, spiritual, or ideological separation ([pair summary](#pair-summary)).
+- psychology: concentration on directions, patience, reason and maturity coexist with a restricted worldview, mental isolation and the difficult work of facing truth.
+- body/health: ABC's mental-disturbance phrase remains the author's broad correspondence; neither pair entry names a bodily disease or clinical mechanism.
+- social/relationship: separation for logical or ideological reasons and the relationship between receiving instructions and following them.
+- events/manifestations: teaching or instruction, cultural and spiritual tasks, clarity through patience, recognizing difficulties and problems with truth.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, restoring reason, clarity, cultural tasks and reasonable separation. Patient thought or following instructions does not independently verify a belief or establish mental health.
 
 ## Related Activations
 
@@ -106,8 +122,9 @@ Patience and ability, spiritual tasks, spiritual maturity, mental disturbances, 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on education, the pattern, the model, mental, spiritual or ideological separations, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Poseidon` concerns the shaping and limiting of understanding: learning through a pattern or model, concentrating on instructions, and separating on mental or ideological grounds. The [pair summary](#pair-summary) includes education and logical reasons for separation alongside an inhibited worldview and mental isolation. This leaves room for focused learning as well as an outlook that has become narrow.
+
+The [ABC summary](#abc-pair-summary) adds patience and reason, spiritual or cultural tasks, maturity, hard truth and problems with truth. Clarity through patience and reasonable separation give the pair constructive possibilities without promising that instruction necessarily produces wisdom. The brief entries do not establish a clinical condition or a specific third-factor outcome; those manifestations retain their own [activation pages](#related-activations).
 
 ## Links
 

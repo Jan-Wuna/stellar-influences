@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Apollon](../triads/sun-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ A man successful in his activity. Busy. Peaceful. Activity in commerce or scienc
 
 Extension of corporal work, success acts of a man, personal trade, extensive human creation, will for personal freedom, center for work science, and increasing personal work
 
+## Comparative Schema
+
+- core meaning: Successful activity extending into a wider field.
+- psychology: Will toward personal freedom in ABC.
+- body/health: Bodily work is named without a health claim.
+- social/relationship: Commerce and broad productive participation are examples.
+- events/manifestations: Busy, successful work in commerce or science.
+- conflicts/notes: Wider activity is not proof of unlimited success.
+
+## Contradictions
+
+No direct contradiction is apparent. Witte’s peaceful activity and ABC’s expanding work describe compatible emphases, without independent proof of outcomes.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mars = Apollon`: success through active effort and large-scale work.
-- Practical expression: extension of corporal work, success acts of a man, personal trade, extensive human creation, and will for personal freedom.
+In `Sun/Mars = Apollon`, Apollon specifies Sun/Mars activity through its extension and successful application. The [Witte Entry](#witte-entry) describes busy but peaceful work in commerce or science; the [ABC Entry](#abc-entry) adds increasing personal work, trade, and extensive production. The resulting emphasis is effort finding a wider productive field, with a wish for personal freedom among ABC’s examples. These are possibilities within the entries, not a guarantee that more work will succeed.
 
 ## Links
 

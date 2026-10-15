@@ -30,24 +30,25 @@ updated_at: 2026-05-06
 
 - Triad-set: `Pluto Node MC`
 - Astronomicon triad-set: `Z g MC`
-- This page is structural only. It does not merge the meanings of its orientations.
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
 
 ## Orientation Map
 
-- [Node/MC = Pluto](../activations/node-mc-equals-pluto.md)
-- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md)
-- [Pluto/Node = MC](../activations/pluto-node-equals-mc.md)
+- [Node/MC = Pluto](../activations/node-mc-equals-pluto.md) — base axis [Node/MC](../axes/node-mc.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/MC = Node](../activations/pluto-mc-equals-node.md) — base axis [Pluto/MC](../axes/pluto-mc.md); activator [Node](../factors/node.md).
+- [Pluto/Node = MC](../activations/pluto-node-equals-mc.md) — base axis [Pluto/Node](../axes/pluto-node.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `Node/MC = Pluto`: Michael, page `360`
-- `Pluto/MC = Node`: Michael, page `352`
-- `Pluto/Node = MC`: Michael, page `344`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Node/MC = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-mc-equals-pluto.md#witte-entry), one-based PDF p. `61` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/node-mc-equals-pluto.md#abc-entry), printed p. `67` (PDF p. `32`); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/node-mc-equals-pluto.md#ebertin-entry), printed p. `305` (entry `1104`); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/node-mc-equals-pluto.md#sandbach-entry), one-based PDF p. `120` (chapter start only; exact entry page not established); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/node-mc-equals-pluto.md#munkasey-entry), printed p. `360`.
+- `Pluto/MC = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-node.md#witte-entry), one-based PDF p. `69` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-node.md#abc-entry), printed p. `82` (PDF p. `40`); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-mc-equals-node.md#ebertin-entry), printed p. `299` (entry `1080`); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-mc-equals-node.md#sandbach-entry), one-based PDF p. `117` (chapter start only; exact entry page not established); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-mc-equals-node.md#munkasey-entry), printed p. `352`.
+- `Pluto/Node = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-node-equals-mc.md#witte-entry), one-based PDF p. `148` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-node-equals-mc.md#abc-entry), printed p. `222` (PDF p. `110`); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-node-equals-mc.md#ebertin-entry), printed p. `293` (entry `1057`); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-node-equals-mc.md#sandbach-entry), one-based PDF p. `114` (chapter start only; exact entry page not established); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-node-equals-mc.md#munkasey-entry), printed p. `344`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

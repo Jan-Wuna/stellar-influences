@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Pluto Vulcanus](../triads/mars-pluto-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 To develop great strength or plans. To bring about a change through the use of powerful energies.
 
@@ -42,13 +46,27 @@ To develop great strength or plans. To bring about a change through the use of p
 
 #### ABC Entry
 
-Work, activity in the energy transformation, increasing enc cess in activity, increasing influence of work, increasing violence activities, and will power
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Influencing developmental work, powerful evolutionary impulses, powerful changes in work, activity in energy transformation, growing energies in action, growing influence of work, growing violent activity, and developing willpower.
+
+## Comparative Schema
+
+- core meaning: Developing strength or plans and bringing about change through powerful energies.
+- psychology: Developing willpower in ABC's entry.
+- body/health: No bodily or medical effect is described.
+- social/relationship: Growing influence through work; growing violent activity remains a separate difficult expression.
+- events/manifestations: Developmental work, powerful work changes, evolutionary impulses, and energy transformation.
+- conflicts/notes: Development need not mean improvement; the source retains increasing violence alongside growing strength.
+
+## Contradictions
+
+The entries share development and change through energy. ABC adds specific work and transformation settings, including a difficult increase in violent activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Pluto` uses great force for development, transformation, and large strategic changes.
-- Chart expression: building great strength or plans and to bringing about major change by applying concentrated, transformative energy.
+In `Mars/Vulcanus = Pluto`, Pluto specifies powerful effort through the development of strength, plans, and changed working conditions. Witte describes change brought about by powerful energies; ABC supplies developmental work, evolutionary impulses, energy transformation, and growing willpower or influence. It also retains growing violent activity, so the development described is not automatically beneficial. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Kronos Poseidon](../triads/venus-kronos-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 Noble and high rating religion or peace. To be an authority in religion. Religion or world conception protected by the state.
 
@@ -42,13 +46,27 @@ Noble and high rating religion or peace. To be an authority in religion. Religio
 
 #### ABC Entry
 
-Special preference for truth, special culture of love, great love for the spirit, harmonious spirit of the hierarchy, self confidence through love for truth, state peace ideas, state arts and culture, and preference for spiritual authorship
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Special preference for truth, special culture of love, great love of reason, harmonious spirit of the hierarchy, self confidence through love for truth, state peace ideas, state arts and culture, and preference for spiritual authority
+
+## Comparative Schema
+
+- core meaning: Authority, high standing, or state support in religious and cultural life.
+- psychology: Love of truth and reason; self-confidence through truth.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Religious authority and harmony within a hierarchy.
+- events/manifestations: State-protected belief, peace ideas, art, and culture.
+- conflicts/notes: Witte's noble and high rating is evaluative source language, not proof of a religion's superiority.
+
+## Contradictions
+
+Religious authority and state cultural activity are different settings, with no direct disagreement stated. Authority does not establish the truth of a belief.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Kronos`: noble and high rating religion or peace.
-- Practical expression: special preference for truth, special culture of love, great love for the spirit, harmonious spirit of the hierarchy, and self confidence through love for truth.
+In `Venus/Poseidon = Kronos`, Kronos specifies the pair through authority and recognized standing. The [Witte entry](#witte-entry) names religious authority and state protection of a religion or worldview. The [ABC entry](#abc-entry) connects love of truth and reason with confidence, harmony within hierarchy, and state peace or cultural activity. Together these place belief and cultural values in a public or authoritative setting, without validating the hierarchy's claims.
 
 ## Links
 

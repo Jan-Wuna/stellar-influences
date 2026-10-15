@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Cupido Apollon](../triads/mars-cupido-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Corporate activity in trade, commerce and industry. Scientific activity with man
 
 Experienced work community, successful action community, freedom will of a community, common success will, extensive community work, scientific work community, and increasing work for the community
 
+## Comparative Schema
+
+Evidence: [ABC Entry](#abc-entry), printed p. 317 (entry); [Witte Entry](#witte-entry), PDF p. 201 (entry start).
+
+- Core meaning: Scientific and commercial effort becomes an organized collective activity.
+- Psychology: ABC describes a shared will for success and freedom within the group.
+- Body/health: The entries concern collective enterprise and do not specify a bodily condition.
+- Social/relationship: An experienced working community coordinates the efforts of many people.
+- Events/manifestations: Corporate trade, industry, group investment, and scientific teamwork are explicit examples.
+- Conflicts/notes: Group investment is a source example; the entries do not guarantee profit or establish independent corroboration merely by repeating group work.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Cupido`: corporate or collective activity in trade and science, including group investing and coordinated commercial effort.
-- Chart expression: organized enterprise, industrial teamwork, and profitable collective action.
+Cupido specifies the Mars/Apollon axis as a community undertaking: work expands through an experienced group with a shared purpose. [Witte Entry](#witte-entry) locates this in corporate commerce, industry, science, and group investment; [ABC Entry](#abc-entry) adds the group's will for success and increasing work on its behalf. The throughline is coordinated enterprise rather than an assured financial result.
 
 ## Links
 

@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Asc`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = Asc`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Asc](../triads/sun-venus-asc.md)
@@ -45,7 +46,9 @@ To be loved by others.
 
 #### ABC Entry
 
-Friedl ich man as partner, harmonious people in the environment, art at the place, gentle person in the place, place of human affection, personal partner love, and well wanted people in the environment
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, asc row (eight clauses). Translation from the German scan:
+
+A peaceful man as partner; harmonious persons in the surroundings; an art center at the place; a man in the arts as partner; a beautiful person at the place; a place of human affection; personal partner-love; benevolent persons in the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Helps you concentrate on your need to express kindness or courtesy to others; le
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love becomes visible in demeanor and mutual contact.
+- psychology: Kindness may be habitual; Sandbach also allows selfish complacency.
+- body/health: No health claim is supplied.
+- social/relationship: Being loved, loving others, courtesy, and mutual love converge.
+- events/manifestations: Polished presentation and an affectionate encounter are named.
+- conflicts/notes: Sandbach's complacency is a conditional alternative, not a contradiction of mutual affection.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. ABC's peaceful partner, art center, beauty and benevolent surroundings accompany mutual affection; Sandbach's selfish complacency remains a conditional alternative.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Asc`: attractive self-presentation, relational ease, and the ability to embody warmth and value in ordinary interaction. Main caution: identity through approval: charm can become too dependent on being liked, admired, or responded to favorably.
+Asc specifies Sun/Venus as affection expressed through the way one meets other people: kindness, courtesy, and an artful demeanor invite mutual love. Sandbach's alternative of selfish complacency limits the interpretation: a polished surface can convey warmth or self-satisfaction. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

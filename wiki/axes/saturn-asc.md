@@ -11,6 +11,8 @@ normalized_axis: Saturn/Asc
 factor_a: Saturn
 factor_b: Asc
 related_activations:
+  - Saturn/Asc = Asc
+  - Saturn/Asc = Saturn
   - Saturn/Asc = Admetos
   - Saturn/Asc = Apollon
   - Saturn/Asc = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `W/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SATURN/ASCENDANT`
-- Source page: `299`
+- Source heading: `ASCENDANT + SATURN`
+- PDF page: `87`
 
 #### Pair Summary
 
@@ -88,7 +92,9 @@ Estrangement. To experience refusal. Given the cold shoulder. Separation from ot
 
 #### ABC Pair Summary
 
-Old place, serious partner, patient partner, inhibited partner, urban environment, problems with others, stongness at the place, separation from the place, environmental tasks, and loss at the place
+- Source reference: printed p. 114; one-based PDF p. 56, Ascendant/Saturn, bold pair summary.
+
+Editorial translation, checked against the scan: An old place, a serious partner, a patient partner, an inhibited partner, disturbed surroundings, problems with others, disturbances at the place, separation from the place, tasks in the surroundings, and losses at the place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -168,18 +174,21 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 #### Banzhaf/Haebler Aspect Keywords
 
 - harmony: The Disciplined Person. Always behaves in a calm, polite, sometimes even formal manner. Tends to draw boundaries and respect other people's boundaries. Serious, reliable, disciplined, and tenacious.
-- discord: The Mistrusting Individual. Reserved, inhibited, and fearful. Judges everything in a negative, pessimistic, or at least problematic manner. Stands in one's own way. Saturn-Medium Coeli HARMONY: The Career Ladder. Tends to climb the career ladder slowly but surely, step by step. Great stamina, even in phases of difficulties.
+- discord: The Mistrusting Individual. Reserved, inhibited, and fearful. Judges everything in a negative, pessimistic, or at least problematic manner. Stands in one's own way.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: restraint in outward identity, surroundings, and close contact; reserve can protect private space or become estrangement.
+- psychology: seriousness, early maturity, self-imposed limits, and satisfaction in solitude coexist with inhibited expression and mistrust.
+- body/health: Ebertin and Munkasey give skin, connective-tissue, sensory, bone, and joint correspondences; these are historical author claims, not established diagnoses.
+- social/relationship: few but deep or necessary relationships, preference for older people, boundaries, and difficulty communicating feelings or forming close ties.
+- events/manifestations: separation from people or place; Munkasey also applies restriction to leadership, external demands, and public policy.
+- conflicts/notes: chosen solitude differs from unwanted exclusion. ABC's disturbed surroundings and local disruptions belong to the pair summary; Banzhaf/Haebler's Saturn-MC career passage belongs to the next entry and is excluded.
 
 ## Related Activations
+
+- [Saturn/Asc = Asc](../activations/saturn-asc-equals-asc.md)
+- [Saturn/Asc = Saturn](../activations/saturn-asc-equals-saturn.md)
 
 - [Saturn/Asc = Admetos](../activations/saturn-asc-equals-admetos.md)
 - [Saturn/Asc = Apollon](../activations/saturn-asc-equals-apollon.md)
@@ -205,15 +214,16 @@ Hemorrhoids; arthritis; swollen or painful joints; cataracts; vision problems; t
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Munkasey's enjoyment of private inner space and Ebertin's frustration through the environment describe different experiences of withdrawal; neither should erase the other.
+- ABC's checked pair summary names serious or patient partnership as well as disturbed surroundings, local disruptions and separation; it does not reduce every relationship to mistrust.
+- The checked Banzhaf/Haebler Saturn-Ascendant discord passage ends with standing in one's own way. The following Saturn-Medium Coeli heading begins a separate entry.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc` is the axis of reserve, restraint, and seriousness in the way one presents oneself and meets other people. It combines limit, endurance, duty, and inhibition with personality, physical presence, close surroundings, and one-to-one contact.
-- Chart expression: a guarded or mature demeanor, sparse but weighty relationships, social caution, and growth through patience, boundaries, and hardship in the immediate environment. Liabilities: loneliness, frustration, coldness, inhibition, separation, and difficulty forming easy rapport.
+`Saturn/Asc` concerns the boundaries of contact: a serious or guarded outward manner, selective relationships, and the space one needs around oneself. [Hand](#robert-hand---horoscope-symbols) makes room for few but deep relationships and ties formed through necessity, while [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) describes peace in solitude and control over incoming impressions. Reserve can therefore express chosen privacy and discipline as well as difficulty connecting.
+
+The harder range is estrangement, rejection, loneliness, or separation from familiar people and places ([pair summary](#pair-summary)); [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) adds growth through environmental hardship and contact with older, experienced people. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) locates a possible change in recognizing the restrictions of one's outer role and working creatively with them. The [ABC pair summary](#abc-pair-summary) likewise includes disturbed surroundings, local disruptions and separation, beside a serious or patient partner. Historical health lists remain attributed claims, not established personal outcomes.
 
 ## Links
 

@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Sun`
 - Astronomicon formula: `¥/¥ = S`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 304, Sun row.
+
 Successes. Fame. Honors. A day of glory. Many people (bodies). Physical expansion and success. The successful man or body. The man who finds recognition. Days devoted to peaceful matters and days which bring success. Daily trade, commerce, business and science. (In the solar cycle: a period which concerns trade).
+
+## Comparative Schema
+
+- core meaning: Recognition, success, and expansion in personal or everyday activity.
+- psychology: No fixed temperament or dependence on recognition is stated.
+- body/health: Many bodies and physical expansion are named without a medical diagnosis.
+- social/relationship: Fame, honors, and a person finding recognition.
+- events/manifestations: Successful or peaceful days and daily trade, commerce, business, or science.
+- conflicts/notes: The solar-cycle parenthesis remains source-native timing language; no timing layer is modeled here, and leadership or pride is not stated.
+
+## Contradictions
+
+The single entry supplies related favorable manifestations without a conflicting assertion or a guarantee of permanent success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Sun`: recognized achievement, prosperous leadership, and days or periods marked by successful expansion. Main caution: solar inflation: prominence and scale can feed pride, bodily excess, or an identity too dependent on success and recognition.
+In `Apollon/Apollon = Sun`, Sun specifies the repeated pair through visible success and recognition. The [Witte entry](#witte-entry) joins fame and honors with physical expansion, many people, and everyday activity in trade, business, or science. Peaceful and successful days are concrete expressions of this favorable range, rather than a permanent condition or a prescribed leadership role.
 
 ## Links
 

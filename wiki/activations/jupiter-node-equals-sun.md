@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Sun`
 - Astronomicon formula: `V/g = S`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Sun row; full row checked.
+
 Good bodily connections. Good personal connections. Personal connection to money or justice.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Relationships with the Gcld Centre, successful men Connection, successful Personal Connection, Freudc through Body Relationships, Personal Money Hosting, Personal Legal Connection, Legal Person Relationship, and Advantageable Human Contacts
+- Source reference: printed page 214; one-based PDF page 106, Mondknoten/Jupiter section, Sun row; full German row and neighbors checked.
+
+Connections to a financial center, a successful connection with men, a successful personal connection, joy through bodily connections, personal financial intermediation, a personal legal connection, a legal relationship with a person, and advantageous human contacts
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0831; retained printed coded-entry locator.
 
 Good fellowship, a sense of social justice. Finding a partner. A happy union with a man.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Sun entry; exact paragraph checked.
 
 One is aware of the possibilities for growth inherent in one’s connections. One feels it is important to enter into new experiences in life.
 
@@ -66,26 +76,27 @@ One is aware of the possibilities for growth inherent in one’s connections. On
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed-page locator, not a new PDF-page claim.
+
 Eases the way to contact important people; access to people who wield influence and power; joining or benefiting from powerful and distinguished societies, clubs, groups, or associations; efforts to keep ties with cronies.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Favorable personal connections, fellowship and opportunities for growth.
+- psychology: Awareness of growth through connections in Sandbach; social justice in Ebertin.
+- body/health: Witte/ABC name bodily connections without a condition or diagnostic detail.
+- social/relationship: Finding a partner, a happy union with a man and access to influential people.
+- events/manifestations: Financial/legal ties, joining groups, maintaining contacts and entering new experiences.
+- conflicts/notes: The row does not state the former selection/realism warning; influential contacts are Munkasey's concrete example rather than every source's premise.
 
 ## Contradictions
 
-- None recorded yet.
+The entries are largely favorable, emphasizing personal relationships, justice or growth. Munkasey's powerful groups add a social setting without contradicting the simpler fellowship examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Sun`: happy union, meaningful new experience through others, and a personal sense that relationships should enlarge life and express fairness or shared purpose. Main caution: assuming that every promising contact naturally supports growth; some selection and realism are still required.
+For `Jupiter/Node = Sun`, the [source entries](#source-entries) make beneficial connection personal: good fellowship, finding a partner, a happy union and financial or legal contacts. Sandbach adds awareness of the growth available through relationships and new experiences. Munkasey extends the social scope to influential people, distinguished groups and established ties. The shared emphasis is personal participation in advantageous connections, without adding an unsupported caution about every promising contact.
 
 ## Links
 

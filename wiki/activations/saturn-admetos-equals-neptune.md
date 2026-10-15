@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Neptune`
 - Astronomicon formula: `W/¦ = Y`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ A sickness of long duration. Chronic hindrance, compelled to go through a long a
 
 #### ABC Entry
 
-Pressure from circulation: Weakness, limitation and uncertainty in old age, gcduldigc's clinging to metaphysics, Prohlem V seal for water and air, and weakness due to deprnssion prohlcmc
+Strain through circulatory weakness, restriction and uncertainty in old age, patient adherence to metaphysics, thorough concentration on subtle material, intensification of problems involving water and air, and weakening through depression-related problems
+
+## Comparative Schema
+
+- Core meaning: prolonged hindrance accompanied by weakness or uncertainty.
+- Psychology: patient adherence to metaphysical interests; depression language in ABC.
+- Body/health: long illness and circulatory weakness are attributed historical associations.
+- Social/relationship: no specific relationship pattern is stated.
+- Events/manifestations: enduring a narrow passage; problems involving water or air.
+- Conflicts/notes: metaphysical concentration is distinct from the medical and material examples.
+
+## Contradictions
+
+The entries connect duration with different kinds of difficulty. Their metaphysical and health examples do not establish causes for one another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Neptune`: a sickness of long duration, chronic hindrance, compelled to go through a long and narrow pass.
-- Practical expression: pressure from circulation: Weakness, limitation, uncertainty in old age, gcduldigc's clinging to metaphysics, and prohlem V seal for water.
+In `Saturn/Admetos = Neptune`, Neptune specifies the pair as a prolonged passage through hindrance, weakness or uncertainty. The [Witte entry](#witte-entry) gives the image of a long narrow pass and a historical association with chronic illness (PDF p. 229). The [ABC entry](#abc-entry) also preserves patient metaphysical concentration and material problems involving water or air (printed p. 365; PDF p. 181). These are separate expressions of sustained difficulty or attention; they do not justify a diagnosis or a causal link between metaphysical interests and illness.
 
 ## Links
 

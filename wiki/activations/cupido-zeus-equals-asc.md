@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Zeus = Asc`
 - Astronomicon formula: `¡/£ = Asc`
 - Axis page: [Cupido/Zeus](../axes/cupido-zeus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 272; PDF p. 268.
+
 Common enterprises with others. Stockholder in a corporation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community of partners, community of leaders, community of environment, common sense of community, witnessing partner community, and local community
+Source: printed p. 426; PDF p. 212, Asc row.
+
+German: "Anstrengungen einer Partner-Gemeinschaft, Führungs-Gemeinschaft eines Ortes, gemeinsame Leistungen für die Umwelt, gemeinsame Richtung einer Gemeinschaft, zeugende Partner-Gemeinschaft, zielstrebige Orts-Gemeinschaft".
+
+English translation: Efforts of a partner community; a locality's leadership community; shared achievements for the surroundings; a community's shared direction; a procreative partner community; a goal-directed local community.
+
+## Comparative Schema
+
+- Core meaning: Participation with others in shared enterprise, local effort and communal direction ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Goal-directedness and shared direction are named.
+- Body/health: The procreative partner-community phrase is source wording without a fertility finding.
+- Social/relationship: Joint enterprise, stockholding and partner/local communities are explicit.
+- Events/manifestations: Shared achievements for the surroundings and local communal leadership are examples.
+- Conflicts/notes: The source does not infer overidentification with a corporate role.
+
+## Contradictions
+
+Witte gives joint enterprise and stockholding; ABC adds local leadership and partner effort. These are different concrete forms of participation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Asc`: daily life being shaped by concrete participation in collective ventures and shared undertakings. Main caution: binding identity too closely to organizational stake or role.
+In `Cupido/Zeus = Asc`, Asc specifies shared founding and effort through direct participation with others. Joint enterprise and being a corporate stockholder are Witte's examples ([Witte Entry](#witte-entry)). ABC extends the cooperative setting to partner effort, local leadership, achievements for the surroundings and a shared direction, while retaining the source's procreative-partner phrase ([ABC Entry](#abc-entry)).
 
 ## Links
 

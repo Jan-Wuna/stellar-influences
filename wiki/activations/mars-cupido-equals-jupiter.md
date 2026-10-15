@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Cupido = Jupiter`
 - Astronomicon formula: `U/¡ = V`
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 197.
+
 Happy working together. To reap the advantage from a joint or a artistic project. Happy marriage. Wedding.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community policy, economic and social cohesion, and economic and monetary union
+- Source page: 308; PDF page: 153.
+
+Joy in the work of a community, a successful community of action, shared successes in work, enjoyment of common work, a financial trading community, a legal working community, and legal actions of a community.
+
+Translation repaired from the Jupiter row, beginning “Arbeits-Freude einer Gemeinschaft”; the previous EU-policy wording was not a translation of this passage.
+
+## Comparative Schema
+
+- Core meaning: Successful, enjoyable joint work.
+- Psychology: Satisfaction and pleasure in cooperation.
+- Body/health: Not addressed by these entries.
+- Social/relationship: Happy marriage and supportive working partnerships.
+- Events/manifestations: Weddings, benefits from a joint artistic project, shared work successes, and financial or legal cooperation.
+- Conflicts/notes: The repaired ABC passage concerns shared work, not European Union policy.
+
+## Contradictions
+
+The entries converge on beneficial cooperation; Witte adds marriage and artistic projects, while ABC includes financial and legal work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Jupiter`: productive teamwork, weddings, profitable collaboration, and communal life that feels expansive, supportive, and socially successful.
+In `Mars/Cupido = Jupiter`, Jupiter specifies the enjoyment and benefits of working together. Shared effort can yield practical success, including artistic, financial, or legal cooperation; in marriage, Witte gives weddings and happy married life. The unifying theme is satisfaction and advantage arising from joint activity. [Witte entry](#witte-entry); [ABC entry](#abc-entry)
 
 ## Links
 

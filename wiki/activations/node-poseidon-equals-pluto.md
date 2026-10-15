@@ -30,25 +30,41 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Pluto Node Poseidon](../triads/pluto-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-E Transformations and changes in mental relations.
+Transformations and changes in mental relations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-rational relationship, clear development of a connection, develop cultural relationships, growing spiritual relationships, and changing ideas in a connection
+Change a mental or spiritual connection, mental or spiritual development in a connection, unfolding within a relationship based on reason, clear development of a connection, develop cultural relationships, growing mental or spiritual relationships, changing ideas in a connection.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 239, PDF p. 118.
+
+- Core meaning: Transformation and development of intellectual connections.
+- Psychology: Changing ideas within a relationship.
+- Body/health: No bodily or medical claim appears in these entries.
+- Social/relationship: Growing or changing mental and cultural relationships.
+- Events/manifestations: Developing cultural ties and changing an intellectual connection.
+- Conflicts/notes: ABC lost its opening to the Neptune row; Witte's initial E was a formula glyph.
+
+## Contradictions
+
+The corrected passages both describe change, but shared wording does not establish independent corroboration. Neither passage requires a particular relationship outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Pluto`: E Transformations and changes in mental relations.
-- Practical focus: e Transformations and changes in mental relations.
+Pluto specifies `Node/Poseidon` as the change and development of intellectual or cultural relationships. The [Witte Entry](#witte-entry) names transformation in mental relations; the corrected [ABC Entry](#abc-entry) gives a fuller movement from changing connections and ideas to the growth of cultural relationships. Change is the organizing theme, without establishing that it must be destructive or that growth must be beneficial.
 
 ## Links
 

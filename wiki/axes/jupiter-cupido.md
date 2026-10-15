@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `211`
 
 #### Pair Summary
 
@@ -79,6 +83,15 @@ Family happiness. Fortunate or successful partnership. Happy and successful comm
 #### ABC Pair Summary
 
 Successful community, financial community, joy through art, happiness in the community, shared joy, artistic success, community of law, advantage for the whole, and contented community
+
+## Comparative Schema
+
+- **Core meaning:** Shared happiness and advantage through a family, partnership, community, or artistic undertaking ([pair entries](#source-entries)).
+- **Psychology:** Sociability and satisfaction in shared joy are stated; the summaries do not supply a fuller personality profile.
+- **Body/health:** Neither pair summary gives a specific bodily or health meaning.
+- **Social/relationship:** Happy marriage, family happiness, successful associations, and benefit for the whole are central expressions.
+- **Events/manifestations:** Artistic success, gains through family or marriage, financial communities, and successful organizations give concrete settings for shared benefit.
+- **Conflicts/notes:** The entries overlap in community happiness, art, and financial advantage. They differ in detail without a direct contradiction; their repetition does not by itself establish independent corroboration.
 
 ## Related Activations
 
@@ -106,8 +119,7 @@ Successful community, financial community, joy through art, happiness in the com
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido`: fortunate partnership: happy marriage, successful family or community life, artistic and social success, and money or advantage through marriage, family ties, arts, or shared organizations.
-- Chart expression: luck that comes through belonging rather than isolation. It favors warm alliances, household and corporate harmony, successful companies, and socially or artistically fruitful unions, while also tying prosperity closely to the health of the group bond and its shared finances.
+Jupiter/Cupido describes benefit that is shared: happiness in a marriage or family, satisfaction in a community, and success achieved through artistic or organized association. The common thread is participation in something whose good fortune reaches its members, whether that takes the form of shared joy, financial advantage, or a successful collective undertaking ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures); [Rudolph](#udo-rudolph---abc-for-planetary-pictures)). The entries include both intimate relationships and large organizations; they do not make one kind of group a necessary condition for the others.
 
 ## Links
 

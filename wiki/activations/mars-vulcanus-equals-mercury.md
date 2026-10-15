@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mercury Mars Vulcanus](../triads/mercury-mars-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Mighty debates. Highly excited. Thoughts of fighting or battles. Warlike mood.
 
@@ -42,13 +46,27 @@ Mighty debates. Highly excited. Thoughts of fighting or battles. Warlike mood.
 
 #### ABC Entry
 
-Working with thought energies, influential language activity, violence activity of the youth, powerful work of the youth, news about violence acts, strong media impulses, powerful impulses from the youth, and powerful traffic activity
+Source: “Mars + Vulkanus,” printed p. 320 (PDF p. 159).
+
+Working with thought energies, influential conversational activity, violent activity by youth, powerful work by youth, news about acts of violence, strong media impulses, powerful impulses from youth, and powerful traffic activity.
+
+## Comparative Schema
+
+- core meaning: Powerful effort expressed through thought, conversation, debate, and information.
+- psychology: Excitement and thoughts of fighting or battles in Witte's entry.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Influential conversation, youth activity, and mighty debates.
+- events/manifestations: Strong media impulses, news of violence, and powerful traffic activity.
+- conflicts/notes: Reporting violence or energetic youth work does not itself imply a warlike personal mood.
+
+## Contradictions
+
+Witte emphasizes battle-minded excitement; ABC includes work, conversation, media, and traffic as well as violence involving youth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Mercury` intensifies thought and speech into combative, excited, and warlike mental activity.
-- Chart expression: mighty debates, highly charged thinking, battle-minded speech, and a mind driven by conflict, argument, or strategic force.
+In `Mars/Vulcanus = Mercury`, Mercury specifies powerful effort through thinking, conversation, and the movement of information. Witte describes mighty debate and excited thoughts of battles, while ABC adds influential conversation, powerful youth work, media impulses, and traffic activity. News about violence and violent youth activity remain particular source examples; they do not make all forceful communication personally combative. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 320 / PDF p. 159)
 
 ## Links
 

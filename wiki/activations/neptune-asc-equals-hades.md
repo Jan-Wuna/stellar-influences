@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Hades`
 - Astronomicon formula: `Y/Asc = ¢`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be the cause of a drowning. To get into danger through others. To sustain damages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Exchange and grief by the partner. Fine tuning of the partner in need, dangerous subtle environment, dangerous weakness of the partner, air shortage in the place, disadvantages in the foreign place, and dirty water in the environment
+Disappointment and sorrow through the partner. Sensitivity of the partner in distress, dangerous subtle environment, dangerous weakness of the partner, shortage of air at the location, disadvantages in a foreign place, and dirty water in the surroundings
+
+## Comparative Schema
+
+- core meaning: harm or danger involving others, with disappointment and adverse surroundings.
+- psychology: disappointment, sorrow, and a partner's sensitivity in distress are ABC themes.
+- body/health: drowning and danger are Witte's historical examples; ABC adds air shortage and dirty water without a diagnosis.
+- social/relationship: danger through others and a partner's weakness are explicit relational settings.
+- events/manifestations: sustaining damage, disadvantages in a foreign place, and harmful local conditions are stated.
+- conflicts/notes: the passages do not explain the danger through misplaced trust or assign inevitable culpability.
+
+## Contradictions
+
+Witte's severe drowning example is more specific than ABC's sorrow and adverse surroundings. Those broader examples should not be converted into a drowning prediction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Asc = Hades`: To be the cause of a drowning. To get into danger through others. To sustain damages.
-- Practical focus: darkens uncertain contact through others into danger, damage, or degrading consequences, where misplaced trust or confused involvement leads into harmful conditions.
-- Practical expression: exchange, grief by the partner. Fine tuning of the partner in need, dangerous subtle environment, dangerous weakness of the partner, and air shortage in the place.
+In Neptune/Asc = Hades, Hades specifies the pair through damage, danger, and distress involving others or the surroundings. The [Witte entry](#witte-entry) includes danger through others and a historical drowning example; [ABC](#abc-entry) adds disappointment through a partner, sensitivity in distress, air shortage, and dirty water (printed p. 119, PDF p. 58). These are separate adverse examples rather than a stated chain of causes. The supported concern is harmful involvement or conditions, without assuming that trust or confusion caused them or predicting a particular accident.
 
 ## Links
 

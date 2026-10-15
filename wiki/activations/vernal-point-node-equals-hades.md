@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Hades](../triads/vernal-point-node-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Unpleasant associations with many people.
 
@@ -42,13 +46,27 @@ Unpleasant associations with many people.
 
 #### ABC Entry
 
-Dangerous public relations Life, criminal public relations, poor public relations, disadvantages of public relations, and links from the past in the public sphere
+- Source page: 27; PDF page: 12 (one-based spread).
+
+Dangerous connections in public life, criminal connections in public, deficient public connections, disadvantages through public contacts, and connections from the past in public
+
+## Comparative Schema
+
+- core meaning: Public connections affected by disadvantage, deficiency, or danger.
+- psychology: Unpleasant association is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Contacts with many people and criminal or deficient links.
+- events/manifestations: Disadvantage through contact and links from the past.
+- conflicts/notes: Historical connections are not inherently criminal; connections is broader than professional public relations.
+
+## Contradictions
+
+Past connections are a neutral historical example beside dangerous or criminal links. The source does not equate them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Hades`: unpleasant associations with many people.
-- Practical expression: dangerous public relations Life, criminal public relations, poor public relations, disadvantages of public relations, and links from the past in the public sphere.
+In `Vernal Point/Node = Hades`, public associations are considered where they bring difficulty or involve deficient, dangerous, or concealed conditions. The [Witte entry](#witte-entry) emphasizes unpleasant links with many people. The restored [ABC entry](#abc-entry) specifies dangerous or criminal connections and disadvantage through contact, while retaining links from the past. The reading preserves the adverse relational emphasis without condemning all historical associations.
 
 ## Links
 

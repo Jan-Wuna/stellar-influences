@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Kronos Vulcanus](../triads/sun-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,12 +46,23 @@ Toexercise the power of state, or experience it. Powerful authority.
 
 Dominant influence of the man, violence against persons of the state, large energy center, personal control force, state violence against persons, strong personal authority, and superiority of violent persons
 
+## Comparative Schema
+
+- core meaning: Authority exercised or experienced as substantial power.
+- psychology: Dominance and personal authority in ABC.
+- body/health: An energy-center example is not a diagnosis.
+- social/relationship: State power may be wielded or encountered.
+- events/manifestations: Command, state force, and coercion in source examples.
+- conflicts/notes: Power and violence are related examples, not synonyms.
+
+## Contradictions
+
+The entries overlap on powerful authority. ABC also gives violent examples; these qualify the range rather than making every expression violent. Witte’s “Toexercise” is preserved as a spacing defect.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Vulcanus`: Toexercise the power of state, or experience it. Powerful authority.
-- Practical focus: intensifies authority into the direct exercise of major power. It points to state force, commanding presence, and situations in which power is either wielded openly or strongly felt as an external governing pressure.
-- Practical expression: dominant influence of the man, violence against persons of the state, large energy center, personal control force, and state violence against persons.
+In `Sun/Kronos = Vulcanus`, Vulcanus specifies Sun/Kronos authority through the direct exercise or experience of power. The [Witte Entry](#witte-entry) allows both wielding state power and being subject to it; the [ABC Entry](#abc-entry) adds strong personal authority alongside state violence and violent dominance. This makes the relation between the person and a powerful authority central, while coercion remains one explicitly sourced manifestation rather than an inevitable outcome.
 
 ## Links
 

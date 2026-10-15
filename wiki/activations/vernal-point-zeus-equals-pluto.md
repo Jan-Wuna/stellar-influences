@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Pluto Zeus](../triads/vernal-point-pluto-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Increasing efficiency. The performance of duties. A transformation by natural fo
 
 #### ABC Entry
 
-Fire development in the public, critical development in the public sphere, development in the public sphere, and changes in the public sphere
+Fire development in public, creative unfolding in public life, development of public performance, changes in public life, growing public efforts, and transformation of public direction.
+
+## Comparative Schema
+
+- Core meaning: Changing public activity and output, with increasing efficiency or transformation by natural forces.
+- Psychology: Performing duties is explicit; a deeper motivation is not described.
+- Body/health: Neither entry establishes a medical claim.
+- Social/relationship: ABC locates development and change in the public sphere.
+- Events/manifestations: More efficient work, public changes, fire development, and natural-force transformations are examples.
+- Conflicts/notes: ABC's creative unfolding and omitted performance/direction clauses were restored from the German scan; no crisis meaning is stated.
+
+## Contradictions
+
+Efficiency and transformation can be related without being identical. The ABC English was repaired against printed p. 49 (PDF p. 23): creative unfolding replaces the erroneous "critical development", and the omitted performance, effort, and public-direction clauses are restored.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Pluto`: increasing efficiency, the performance of duties, and a transformation by natural forces.
-- Practical expression: fire development in the public, critical development in the public sphere, development in the public sphere, and changes in the public sphere.
+In `Vernal Point/Zeus = Pluto`, Pluto specifies the pair as activity undergoing development or change: duties are performed with increasing efficiency, while public work grows, unfolds creatively, or changes direction. The [Witte Entry](#witte-entry) also names transformation by natural forces (PDF p. 50), and the [ABC Entry](#abc-entry) adds fire development and developing public performance (printed p. 49; PDF p. 23). These examples support changes in output and direction without establishing an inevitable crisis.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Pluto Cupido Poseidon](../triads/pluto-cupido-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Building or developing of a philosophical society.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 409; PDF page 203.
+
 #### ABC Entry
 
 Insight into synthesis development, development of a spiritual community, common cultural developments, clear common changes, spiritual development of a community, meaningful synthesis development, and growth of the whole through truth
 
+## Comparative Schema
+
+- core meaning: Development of a community around ideas, culture, or spiritual understanding.
+- psychology: Insight and a search for truth.
+- body/health: No bodily or health meaning is stated.
+- social/relationship: A philosophical society or spiritual community.
+- events/manifestations: Building a society and shared cultural development.
+- conflicts/notes: 'Synthesis development' is not defined technically by these entries.
+
+## Contradictions
+
+The philosophical and spiritual examples are compatible emphases; they do not establish one exclusive kind of society.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Poseidon`: building or developing of a philosophical society.
-- Practical expression: insight into synthesis development, development of a spiritual community, common cultural developments, clear common changes, and spiritual development of a community.
+Poseidon specifies Pluto/Cupido through the development of a community organized around ideas and understanding. Building a philosophical society in [Witte](#witte-entry) connects with shared cultural development, spiritual community, insight, and truth in [ABC](#abc-entry). ABC's 'synthesis' remains its own broad wording; the entry does not define a separate technical process.
 
 ## Links
 

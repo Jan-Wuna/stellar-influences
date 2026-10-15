@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Neptune Node](../triads/venus-neptune-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Dissolution of a harmonious union. Infection through sexual intercourse. Unfortu
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Dissolving a love connection, exchanging love connection, harmony in a secret relationship, harmonious contacts through fine feeling, insecure peace contacts, fondness for metaphysical connections, and love a W asser connection
+Dissolution of a love connection, a disappointing love connection, harmony in a secret relationship, harmonious contacts through sensitivity, uncertain peace contacts, preference for metaphysical connections, and loving connections with water.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `189`, coded entry `0635`.
 
 #### Ebertin Entry
 
 Misdirected feelings in love between partners, a love union with subsequent disappointment, an unhappy union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Associations with others who are able to effect deceptions or illusions about re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sensitive or idealized connection, with disappointment or dissolution as adverse possibilities.
+- Psychology: Refining the love instinct and examining self-sacrifice in love.
+- Body/health: Witte's infection through intercourse remains a historical medical assertion.
+- Social/relationship: Secret harmony, unhappy union, or association with people skilled in illusions.
+- Events/manifestations: Metaphysical contacts and appreciation of artificially created beauty.
+- Conflicts/notes: Sandbach's spiritual growth aim and Munkasey's illusion-related associations coexist with the older unhappy-union claims.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's spiritual growth aim and Munkasey's illusion-related associations coexist with the older unhappy-union claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Node`: artistic circles, tender alliances, and relationships that feel fated, redemptive, or spiritually meaningful. Main caution: relational haze: projection and weak boundaries can make connection feel transcendent while remaining hard to define clearly.
+`Venus/Neptune = Node` places romantic ideals and sensitivity in a bond with another person or group. The [ABC entry](#abc-entry) allows harmonious contact through sensitivity beside secret relations, uncertainty, and disappointment. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize an unhappy or dissolved union. [Sandbach](#sandbach-entry) treats refinement and self-sacrifice as means of spiritual growth; [Munkasey](#munkasey-entry) includes associations around illusions and appreciation of constructed beauty. These are distinct relational possibilities, while Witte's infection claim remains historical and does not establish a medical outcome.
 
 ## Links
 

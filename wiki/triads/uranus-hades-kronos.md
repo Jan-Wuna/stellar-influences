@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Hades Kronos`
 - Astronomicon triad-set: `X ¢ ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Kronos = Uranus](../activations/hades-kronos-equals-uranus.md)
-- [Uranus/Hades = Kronos](../activations/uranus-hades-equals-kronos.md)
-- [Uranus/Kronos = Hades](../activations/uranus-kronos-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Kronos = Uranus](../activations/hades-kronos-equals-uranus.md) | [Hades/Kronos](../axes/hades-kronos.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Hades = Kronos](../activations/uranus-hades-equals-kronos.md) | [Uranus/Hades](../axes/uranus-hades.md) | [Kronos](../factors/kronos.md) |
+| [Uranus/Kronos = Hades](../activations/uranus-kronos-equals-hades.md) | [Uranus/Kronos](../axes/uranus-kronos.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Hades/Kronos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `441`
-- `Uranus/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `237`
-- `Uranus/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `377`
-- `Uranus/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `239`
-- `Uranus/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `381`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Kronos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-kronos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `279`.
+- `Hades/Kronos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-kronos-equals-uranus.md#abc-entry), printed p. `441`.
+- `Uranus/Hades = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-hades-equals-kronos.md#witte-entry), one-based PDF entry-start p. `237`.
+- `Uranus/Hades = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-hades-equals-kronos.md#abc-entry), printed p. `377`.
+- `Uranus/Kronos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-kronos-equals-hades.md#witte-entry), one-based PDF entry-start p. `239`.
+- `Uranus/Kronos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-kronos-equals-hades.md#abc-entry), printed p. `381`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Uranus`: abrupt great misfortune, loss of life, and murder or deadly rupture involving government or powerful institutions.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Hades Apollon`
 - Astronomicon triad-set: `MC ¢ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md)
-- [MC/Apollon = Hades](../activations/mc-apollon-equals-hades.md)
-- [MC/Hades = Apollon](../activations/mc-hades-equals-apollon.md)
+- [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md): base axis [Hades/Apollon](../axes/hades-apollon.md); activator [MC](../factors/mc.md).
+- [MC/Apollon = Hades](../activations/mc-apollon-equals-hades.md): base axis [MC/Apollon](../axes/mc-apollon.md); activator [Hades](../factors/hades.md).
+- [MC/Hades = Apollon](../activations/mc-hades-equals-apollon.md): base axis [MC/Hades](../axes/mc-hades.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Hades/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `280`
-- `Hades/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `442`
-- `MC/Apollon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
-- `MC/Apollon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `93`
-- `MC/Hades = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
-- `MC/Hades = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `87`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md#witte-entry) (PDF entry-start p. 280); [MC/Apollon = Hades](../activations/mc-apollon-equals-hades.md#witte-entry) (PDF entry-start p. 74); [MC/Hades = Apollon](../activations/mc-hades-equals-apollon.md#witte-entry) (PDF entry-start p. 71).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Apollon = MC](../activations/hades-apollon-equals-mc.md#abc-entry) (printed p. 442); [MC/Apollon = Hades](../activations/mc-apollon-equals-hades.md#abc-entry) (printed p. 93); [MC/Hades = Apollon](../activations/mc-hades-equals-apollon.md#abc-entry) (printed p. 87).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = MC`: learning from poverty or difficulty, becoming impressed by great want, and turning toward history or secret doctrine.
-- `MC/Apollon = Hades`: lowers the axis into old, obscure, or difficult fields of knowledge.
-- `MC/Hades = Apollon`: broadens the axis into historical, antiquarian, or secret forms of knowledge while worsening ordinary prosperity.
+MC, Hades and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Apollon](../axes/hades-apollon.md)
+- [MC/Apollon](../axes/mc-apollon.md)
+- [MC/Hades](../axes/mc-hades.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)
 - [Apollon](../factors/apollon.md)

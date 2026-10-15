@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ The personal sensitivity you have about picking up the emotional state of people
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sensitivity to other people's emotional states is the repeated Moon emphasis.
+- psychology: Reading mood through posture and body language.
+- body/health: Body language is an observational cue, not a medical claim.
+- social/relationship: Companionship provides support while proximity makes others' feelings perceptible.
+- events/manifestations: Noticing the mood of nearby people is the sole concrete scenario.
+- conflicts/notes: This is Munkasey's single 'With Itself' entry, not independent corroboration or a distinct three-factor hub.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's 'With Itself' entry is displayed; it provides no basis for a comparison between sources.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Moon`: The personal sensitivity one has about picking up the emotional state of people near to one; one's instinct for judging the mood of people from their body language and postures; the support one get from being with others.
+In `Moon/Asc = Moon`, the repeated Moon specifies the Moon/Asc contact through sensitivity to the moods of people nearby. Munkasey links this sensitivity to observing posture and body language and to receiving support from companionship. This is a bounded reading of his 'With Itself' entry, which supplies no separate event forecast. ([Munkasey, p. 142](#munkasey-entry))
 
 ## Links
 

@@ -49,17 +49,30 @@ updated_at: 2026-04-21
 - Astronomicon axis: `Chiron/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: `99` (complete Principle and Process checked against actual page).
+
 #### Principle
 
-A strong compulsion to overcoming egotism and to see it for what it is fear based. Feeling strongly urged, even pushed, by forces beyond oneself to grow by tran scending one’s limitations. The process of learning how to let through messages from beyond, as well as to accept them and act on them. Strong, persistent impulses that one must eventually follow. Chiron/Pluto heals the striving to acquire power for selfish reasons, and helps one to use power to encourage, guide, and assist others in their spiritual growth.
+A strong compulsion to overcoming egotism and to see it for what it is - fear based. Feeling strongly urged, even pushed, by forces beyond oneself to grow by tran scending one’s limitations. The process of learning how to let through messages from beyond, as well as to accept them and act on them. Strong, persistent impulses that one must eventually follow. Chiron/Pluto heals the striving to acquire power for selfish reasons, and helps one to use power to encourage, guide, and assist others in their spiritual growth.
 
 #### Process
 
 An intense desire to evolve creates situations that cause deep changes to occur. One feels the pressure of spiritual forces attempting to bring light and harmony to situations, and needs to not resist them.
+
+## Comparative Schema
+
+- Core meaning: Pressure toward deep change and toward using power to assist others' spiritual growth ([Principle](#principle), [Process](#process)).
+- Psychology: Persistent impulses confront egotism, described here as fear-based, and resistance to moving beyond one's limitations.
+- Body/health: The entry's healing language concerns selfish striving and spiritual development; it names no physical diagnosis or treatment.
+- Social/relationship: Encouraging, guiding, and assisting others replaces the pursuit of power for selfish purposes.
+- Events/manifestations: The desire to evolve is described as bringing situations that require deep change and receptivity to messages from beyond.
+- Conflicts/notes: Spiritual forces and messages belong to the source's framing. Actual PDF page 99 prints "to overcoming" and the split "tran scending"; both are retained as source wording. The same page contains the complete Principle and Process.
 
 ## Related Activations
 
@@ -79,8 +92,9 @@ An intense desire to evolve creates situations that cause deep changes to occur.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Pluto`: evolution under spiritual pressure: being pushed beyond egotism, meeting persistent forces that demand deep change, and learning to use power not for self-protection but for genuine healing and guidance.
-- Chart expression: an intense drive to grow, to messages from beyond that cannot be ignored forever, and to healing that works by bringing hidden motives, attachments, and power struggles into the light. Liabilities: obsession, fear-based striving for control, resisting necessary change, or using spiritual force as another way to dominate instead of to transform.
+`Chiron/Pluto` describes persistent pressure to move beyond egotism and change the purpose for which power is used. What begins as selfish striving is redirected toward encouraging and guiding others. The source explains this pressure through spiritual forces, messages from beyond, and impulses that demand a response ([Principle](#principle)).
+
+The connecting theme is receptivity during deep change: the desire to evolve brings situations in which resistance to growth must be faced. The Process describes spiritual forces seeking to bring light and harmony into those situations ([Process](#process)).
 
 ## Links
 

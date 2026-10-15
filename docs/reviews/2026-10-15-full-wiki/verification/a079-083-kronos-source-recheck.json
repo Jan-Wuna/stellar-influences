@@ -1,0 +1,276 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twenty new081 Uranus/Kronos full reviews. Eighteen ABC text repairs (Node spelling-only), two ABC entries preserved (Asc,Cupido); Witte Pluto glyph-remnant P removed.",
+  "actual_source_inspection": [
+    "Actual ABC PDF189 printed380–381 and Witte239 all twenty glyph-owned rows personally inspected.",
+    "MC nine actual clauses replace unrelated Commission/economic-cohesion paragraph; includes special soul experience, confidence, independence and greatness of soul.",
+    "Neptune eight end wichtige Wasser-Technik; Pluto seven start Entwicklung von großen Spannungen, Entwicklung wichtiger Ereignisse, große technische Evolution. Metaphysics clause belongs Neptune; confidence development belongs Pluto.",
+    "Jupiter eight recover große Finanz-Reform. Zeus nine recover plötzliches Groß-Feuer and independent achievement/rhythm shaping.",
+    "Poseidon eight retain Autorität authority, vernünftige rational impulses, geistig mental/spiritual range. Admetos/Mars/Mercury/Vulcanus independence wording resolved.",
+    "Witte P at Pluto is part of alternate glyph, not prose. Other Witte source prose preserved verbatim."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-kronos-equals-admetos.md",
+      "old_abc": "Special deepening in technology, blockade impulses against the boss, consolidation of important reforrns, great tensions due to depression, sudden consolidation of self governingness, surprising constraint by the superior, and resistance to state reform en",
+      "new_abc": "Special deepening into technology, impulses to block the chief, consolidation of important reforms, great tensions through depression, sudden consolidation of independence, surprising restriction by the superior, resistance to state reforms.",
+      "printed_page": 381,
+      "finding": "Seven clauses verified; Selbständigkeit=independence, Festigung consolidation and state reforms restored."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-apollon.md",
+      "old_abc": "Extension of unrest in the state, special surprises for science, successful emancipation of authoritat, great expansion of technology, new reputation of science, reforrn experiences of the state, and important knowledge emergence",
+      "new_abc": "Expansion of unrest in the state, special surprises for science, successful renewal of authority, great expansion of technology, new standing for science, reform experiences of the state, important renewal of knowledge.",
+      "printed_page": 381,
+      "finding": "Seven clauses verified; Erneuerung means renewal of authority/knowledge, not emancipation/emergence."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-asc.md",
+      "old_abc": "special technical place, special surprises at a place, great tensions in the environment, nervousness through the dominance of the partner, new self confidence of the partner, state event at a place, and priority of technology in the environment",
+      "new_abc": "special technical place, special surprises at a place, great tensions in the environment, nervousness through the dominance of the partner, new self confidence of the partner, state event at a place, and priority of technology in the environment",
+      "printed_page": 380,
+      "finding": "All seven ABC and Witte239 clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-cupido.md",
+      "old_abc": "shared steering of technology, great tensions in communities, steering impulses for the community, nervousness in state communities, new shared self confidence, priority reforms in the community, and important shared events",
+      "new_abc": "shared steering of technology, great tensions in communities, steering impulses for the community, nervousness in state communities, new shared self confidence, priority reforms in the community, and important shared events",
+      "printed_page": 381,
+      "finding": "All seven ABC and Witte239 clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-hades.md",
+      "old_abc": "Excitements of about criminality in the state, dangerous surprises for the boss, special disadvantages of technology, excitement of about great deficiency, inadequate impulses of the superiors, sudden authoritarian deficiency, and hidden unrest in the authority",
+      "new_abc": "Excitement over criminality in the state, dangerous surprises for the chief, special disadvantages of technology, agitation over great deficiencies, inadequate impulses of superiors, a sudden lack of authority, hidden unrest among the authorities.",
+      "printed_page": 381,
+      "finding": "Seven clauses verified; Autoritäts-Mangel=lack of authority rather than authoritarian deficiency."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-jupiter.md",
+      "old_abc": "Excitement about the steering of the finances, especially joyful over surprise, successful state event, successful management of the technology, great legal tension, iisurprising joy of the superior, and priority success of the technology",
+      "new_abc": "Excitement over the direction of finances, an especially joyful surprise, a successful state event, successful direction of technology, major financial reform, great legal tension, surprising joy of the superior, priority success of technology.",
+      "printed_page": 380,
+      "finding": "Eight clauses restored including omitted große Finanz-Reform; damaged surprising-joy term resolved."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mars.md",
+      "old_abc": "Special work rhythm, great tensions at work, sudden important work, self sustaining technical work, stressful work at the state, surprising actions of the employer, and important technical work",
+      "new_abc": "A special work rhythm, great tensions at work, sudden important work, independent technical work, tense work for the state, surprising actions of the superior, important technical work.",
+      "printed_page": 380,
+      "finding": "Seven clauses verified; selbständige technische Arbeit=independent technical work, not self-sustaining."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mc.md",
+      "old_abc": "Is it not possible for the Commission to take the necessary steps to ensure that it is able to take the necessary steps to ensure that the Community's economic and social cohesion is fully integrated into the Community's economic and social policies?",
+      "new_abc": "A special experience of the soul, great emotional tension, inner unrest in the state, my special rhythm, my new self-confidence, my great surprise, my sudden independence, sudden greatness of soul, important soul impulses.",
+      "printed_page": 380,
+      "finding": "All nine actual MC clauses replace unrelated Commission/economic-cohesion paragraph; personal independence/confidence and soul vocabulary recovered."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mercury.md",
+      "old_abc": "Special surprise announcement, dominance of technology in traffic, great tensions with youth, self aggrandized thought pulses, state traffic technology, unrest in the media steering, restless youth in the state, and important media event",
+      "new_abc": "A special surprise announcement, dominance of technology in traffic, great tensions with youth, independent thought impulses, state transport technology, unrest in media direction, restless youth in the state, an important media event.",
+      "printed_page": 380,
+      "finding": "Eight clauses verified; selbständige Gedanken-Impulse=independent thought impulses, not self-aggrandized."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-moon.md",
+      "old_abc": "Exciting hour for the boss, special unrest of the woman, great tensions with a woman, new authority for the people, self sustained impulses of the woman, technically overriding people, restless people in the state, and important impulses of Gefuhl",
+      "new_abc": "An exciting hour for the chief, special unrest of the woman, great tensions with a woman, new authority for the people, self-confident impulses of the woman, a technically superior people, restless people in the state, important emotional impulses.",
+      "printed_page": 380,
+      "finding": "Eight clauses verified; technically superior people, self-confident impulses and emotional impulses restored from overriding/self-sustained/Gefuhl damage."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-neptune.md",
+      "old_abc": "Excitement of weak authority, especially over surprise with water, cnt swapping state reforms, large excitement with water, restlessness with weak authority, priority Lufl technique, important water technology development of great tension, development of important factors, and large technical",
+      "new_abc": "Excitement over weak authority, a special surprise involving water, disappointing state reforms, great excitement through water, surprising standing for metaphysics, unrest through weak governing authority, priority air technology, important water technology.",
+      "printed_page": 381,
+      "finding": "Eight Neptune clauses restored including metaphysics; removed following Pluto's first three clauses. Actual Neptune ends wichtige Wasser-Technik."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-node.md",
+      "old_abc": "Special connections to technology, great tensions in one connection, connected with important events, new connections to the state, state reforrn connections, surprising connection to the boss, and unrest in important connections",
+      "new_abc": "Special connections to technology, great tensions in one connection, connected with important events, new connections to the state, state reform connections, surprising connection to the boss, and unrest in important connections",
+      "printed_page": 380,
+      "finding": "All seven clauses verified; reforrn typo corrected to reform."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-pluto.md",
+      "old_abc": "Evolution, sudden development as chief, surprising development of the environment, unrest due to state changes, and changes by ncue superiors",
+      "new_abc": "Development of great tensions, development of important events, great technical evolution, sudden unfolding as chief, surprising development of self-confidence, unrest through state changes, transformations through new superiors.",
+      "printed_page": 381,
+      "finding": "Seven complete Pluto clauses restored, including first three absorbed by Neptune; self-confidence not environment. Witte P is alternate Pluto glyph remnant."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-poseidon.md",
+      "old_abc": "Dynamic intellectual authorship, great tensions through truth, ideas impulse of an authorship, clear technical superiority, cultural event of the state, new self confidence through knowledge, powerful impulses of the boss, and important spiritual reform",
+      "new_abc": "Dynamic intellectual or spiritual authority, great tensions through truth, idea impulses of an authority, clear technical superiority, a cultural event of the state, new self-confidence through insights, rational impulses of the chief, important intellectual or spiritual reform.",
+      "printed_page": 381,
+      "finding": "Eight clauses verified; Autorität=authority not authorship; vernünftige=rational not powerful; geistig mental/spiritual range retained."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-saturn.md",
+      "old_abc": "Infringing state reforrns, special losses in technology, dominant reforrnproblems, great tensions in authority, concentration on an important event, new self awareness in old age, problematic excitement of the boss, and important reforrn dispensation",
+      "new_abc": "Burdensome state reforms, special losses in technology, dominant reform problems, great tensions among the authorities, concentration on an important event, new self-confidence in old age, problematic excitement of the chief, important reform tasks.",
+      "printed_page": 381,
+      "finding": "Eight clauses verified; belastende=burdensome not infringing, Reform-Aufgaben=reform tasks not dispensation."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-sun.md",
+      "old_abc": "Authoritat person of technology, great corporal tensions, new self awareness of man, day of a special event, technical steering centre, unrest in a state centre, important personal event, and centre for special technology",
+      "new_abc": "An authority figure in technology, great bodily tensions, new self-confidence of the man, the day of a special event, a technical direction center, unrest in a state center, an important personal event, a center for special technology.",
+      "printed_page": 380,
+      "finding": "Eight clauses verified; Autoritäts-Person=authority figure; bodily tension and historical male confidence preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-venus.md",
+      "old_abc": "Special love excitement, special artist event, dominance of a new love, peaceful state event, great love tension, great preference for technology, harmonious state event, new self confidence through love, and important peace event",
+      "new_abc": "Special love excitement, a special art event, dominance of a new love, a peaceful state event, great love tension, a great preference for technology, a harmonious state event, new self-confidence through love, an important peace event.",
+      "printed_page": 380,
+      "finding": "Nine clauses verified; Kunst-Ereignis=art event, not artist event."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-vernal-point.md",
+      "old_abc": "great tensions in public, impulsive authority in public life, new self confidence in public, new hierarchy in public life, public unrest in the state, and state event in public",
+      "new_abc": "Great tensions in public, authority providing impetus in public life, new self-confidence in public, a new hierarchy in public life, public unrest in the state, a state event in public.",
+      "printed_page": 380,
+      "finding": "Six clauses verified; impulsgebende Autorität=authority giving impetus, not impulsive authority."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-vulcanus.md",
+      "old_abc": "Special tensions through violence, dominant power impulses, dynamic state power, influential important event, power tensions among superiors, strong impulses through self governingness, unrest through state violence, and important energy reformers",
+      "new_abc": "Special tensions through force or violence, dominant power impulses, dynamic state power, an influential important event, power tensions among superiors, strong impulses through independence, unrest through state force or violence, important energy reform.",
+      "printed_page": 381,
+      "finding": "Eight clauses verified; independence and energy reform restored, not self-governingness/reformers; Gewalt range retained."
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-zeus.md",
+      "old_abc": "Special self evident performance, troubled state leadership, great excitement through fire, great technical achievement, impulses of a leadership authority, new self awareness of leadership, new goals of the state, and self abandoned rhythm design",
+      "new_abc": "Special independent achievement, troubled state leadership, great excitement through fire, great technical achievement, impulses of a leadership authority, new self-confidence of the leadership, new state goals, a sudden large fire, independent shaping of rhythm.",
+      "printed_page": 381,
+      "finding": "Nine complete clauses verified including omitted sudden large fire; selbständig=independent, not self-evident/self-abandoned."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-kronos-equals-admetos.md",
+      "sha256": "06e1a93b76a28c11a5d5be2818d417869198c52f81b1dee4e51b190e298560f2",
+      "source_section_sha256": "6541c12a76f0253b3f5ab8351d7cafd7a8f6a7d500648fa836b6402f8a91caa4",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-apollon.md",
+      "sha256": "1a76b5d1f027b8c94f35bda8eacc8b1c6a27490d8de3a10f16826e5af8d1fe6c",
+      "source_section_sha256": "97b09401c21e7be7e4feb4cdaaef5c7a2665779e1fcccdb482bd4e2b631d0182",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-asc.md",
+      "sha256": "ca39152769fade45083981b5466983f9a6a5a0d4250838cf4133ac2d7abf637f",
+      "source_section_sha256": "3dfc89b0a878c4216120de113e48b682d02295beaf587ebab4c19ad7630cb9b2",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-cupido.md",
+      "sha256": "1004deedb69b09fd97ece2b8bba9219399ffff6b0c51f8ff32d63ba6f2c3979e",
+      "source_section_sha256": "6408276d2b46b67d44d0531ea0e58261df8d516d8dae1291adee4cd7247ac87c",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-hades.md",
+      "sha256": "b5501a18e515738657299df09558edee5f6e16ac4f54e5b1af0e00a8eef9a6d5",
+      "source_section_sha256": "6ec056b4e1d5ed026d119c27e518116ec8ec606c996626b96e0758a4e03953db",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-jupiter.md",
+      "sha256": "9084ce1f4711fe84e1b4a1256f2326cec94ce3d4b6067d66e7adf8756db80843",
+      "source_section_sha256": "1fb54a6717d90ba59c255d89702b079b5530543eae056d2d1587e9896b3dead7",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mars.md",
+      "sha256": "78f550d5ebd5c4569081c1e25fa8ef4a9b365a21d27c15e7ca65aa0c7761a3b4",
+      "source_section_sha256": "85f6731b1c99fb82c4436dfad399abe17eb1d405697d45a314b40150529ea643",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mc.md",
+      "sha256": "ee73f66579aa7886000be6d1ddd5066e9b9419926bd31bf524a351ad25808cd7",
+      "source_section_sha256": "e66b8221a7b7bdfbba96cdd6a61eea0d15c336bb562d1d5d7c53790d7e65ad34",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-mercury.md",
+      "sha256": "d622274437f714c170621638fef4565d451c4fb83903c39db9cd231a8c77e438",
+      "source_section_sha256": "007e3f3e23f14467a860c89829be40547ba50210e496350460117981a8cdaa83",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-moon.md",
+      "sha256": "6c218d6eab7e5c407d8fde97b5c2005762e024e8f98f926f3cb004176fb8d5a2",
+      "source_section_sha256": "fb1ed089a1c859d59b2e856557755bb5da2981c3544da67accf27a830e57665d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-neptune.md",
+      "sha256": "b0875cd0751f56759fea35202c467a38b1e8e0ef2e6ecb671411513e7ce1739d",
+      "source_section_sha256": "bdfc97a14bd363e9d7abcbbf536a61837321b0a87da6deeda14eeb55a5352745",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-node.md",
+      "sha256": "c0f1102d123446137c543474ec522430c7e8f5de18e7ecfa938b45969e2f4939",
+      "source_section_sha256": "c7e1b09bd47f1dcdd9e43f7c708c7863eb10a8ebd0d5eec65ead180ad96321c4",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-pluto.md",
+      "sha256": "2da7a4572308a4912e888f744538b8dce9ad6245639b9edeb37be263bf468443",
+      "source_section_sha256": "8741c339ea80a25c657c543352d4c9d47967c034cdba81bcfd34c0fecada4559",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-poseidon.md",
+      "sha256": "146c88fc1684b79873bfec8933fff0bb75d8e266da0d49034d52685aeb0a1073",
+      "source_section_sha256": "12aceba55d07f99eea18321b9e1d4254928d44ef0f7b51ff62b6bd485c1ce1ad",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-saturn.md",
+      "sha256": "bff6d285f60c511ff1c8f1b82bfe0939bc2cddb01bd753e4ed31254cb9706d22",
+      "source_section_sha256": "4dcedff822cb3a83dec611422326018463418352f9924288134d5f022c0b3304",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-sun.md",
+      "sha256": "2f76c6fba8efa410b613b73b8f3f68facb90a82d8745a26735ee33ead8ae2587",
+      "source_section_sha256": "201dbe0b56d057f44cab0a9c6ede421d591fe8099e71b5c723f76f9832ebefde",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-venus.md",
+      "sha256": "845921eb604184eaa7064d03e66d59e39a89a23a7b522a6b602214181890a3f0",
+      "source_section_sha256": "4e089a0e002d558382aeac2358b561bbf993e69cb615d4fbb6315872d1712f9b",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-vernal-point.md",
+      "sha256": "964a09e06f720a1a1fa1895d4f28bb0b0dcc19240e6b911e9a249ab78c153272",
+      "source_section_sha256": "1470610f7479ef56202efd75f31a957b5c168868854865b59890da69844a3864",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-vulcanus.md",
+      "sha256": "956604db9a8771928690db358ab4085125c85472a8a638027ed65a96d05efcdb",
+      "source_section_sha256": "c19842a1a01a1ada38afce1eae22c32e45a2812db3566d16421f5db16e0627dd",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-kronos-equals-zeus.md",
+      "sha256": "6f74eb2643958b047b2540f959e12da7de74f5904a193e8a8b9c146ae8420a6a",
+      "source_section_sha256": "a2de0e043fd180cac677eaa405a653134ec8ef6c377ae1b6c0b2e121249b8e41",
+      "outcome": "changed"
+    }
+  ]
+}

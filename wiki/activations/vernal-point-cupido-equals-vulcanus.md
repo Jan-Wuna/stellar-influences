@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Vulcanus`
 - Astronomicon formula: `VP/¡ = §`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 48 (one-based).
+
 A mighty influential community. A political party or public movement.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influenced community in public, Energy community in public Life, common force in public Life, violence in public Community, art in public Life, and public Power community
+- Source page: 45; PDF page: 21 (one-based spread).
+
+Influential community in public, energy community in public life, shared strength in public life, violence within a public community, artistic influence in public life, and public power community
+
+## Comparative Schema
+
+- core meaning: Collective public strength and influence.
+- psychology: No personal disposition is specified.
+- body/health: Violence is named without a specified injury or diagnosis.
+- social/relationship: Influential communities, political parties, or public movements.
+- events/manifestations: Shared energy, public power, and artistic influence.
+- conflicts/notes: The scan says influential, not influenced; violence remains a distinct adverse possibility.
+
+## Contradictions
+
+Political or artistic influence and violence are separate possibilities; the entries do not make every powerful community violent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Vulcanus`: a mighty influential community and a political party or public movement.
-- Practical expression: influenced community in public, energy community in public Life, common force in public Life, violence in public Community, and art in public Life.
+In `Vernal Point/Cupido = Vulcanus`, Vulcanus specifies the pair through the power a public community can exercise. The [Witte entry](#witte-entry) gives a political party or public movement as examples. The [ABC entry](#abc-entry) broadens the range to shared strength, energy, artistic influence, and public power. Violence is also expressly named and remains an adverse possibility rather than a necessary feature of collective influence.
 
 ## Links
 

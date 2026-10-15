@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `S/W = Z`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Triad hub: [Sun Saturn Pluto](../triads/sun-saturn-pluto.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -39,7 +40,9 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
-E Inhibited or delayed physical development. Inhibition of a bodily function. The internal organs of the body are in poor condition. Imbalance. Abstinence.
+Source: supplied Witte PDF p. 107, Sun + Saturn, Pluto row. The alternate Pluto glyph preceding the text is not part of the sentence.
+
+Inhibited or delayed physical development. Inhibition of a bodily function. The internal organs of the body are in poor condition. Imbalance. Abstinence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
@@ -57,6 +60,8 @@ Developmental inhibitions owing to illness.
 
 #### Sandbach Entry
 
+Source: supplied Sandbach PDF p. 15, complete Pluto paragraph under Sun/Saturn.
+
 A rigid egotism that is obsessive. To be intensely disciplined. A realization of the deeper meanings of life transforms one’s existence. The relentless feeling that life lacks meaning, and a desire to find deep meaning in it.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -70,22 +75,23 @@ A sense of overwhelming rigidity and inflexibility within self; a very disciplin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: inhibited development and intense discipline, with the possibility of personal transformation.
+- psychology: rigidity, obsessive self-concern, and a search for deeper meaning; Munkasey also allows the elimination of pessimism or despair.
+- body/health: Witte and Ebertin describe impaired bodily development or function. These are attributed historical claims, not medical conclusions.
+- social/relationship: the desire for power and retaliation for slights appears in Munkasey; the entries do not describe all close relationships.
+- events/manifestations: growing personal difficulties, unfolding tasks, maturity, and change in later life in ABC.
+- conflicts/notes: severe inhibition and transformative change are different possibilities; the source does not promise that pressure produces growth.
 
 ## Contradictions
 
-- None recorded yet.
+- Physical inhibition is prominent in Witte and Ebertin, while Sandbach and Munkasey also describe changes in meaning or outlook. These emphases should remain distinct rather than making illness the necessary route to transformation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Pluto`: strategic toughness, profound self-mastery, and the capacity to rebuild under extreme conditions. Main caution: severity: pressure can become coercive, obsessive, or destructive when control replaces humane proportion.
+Pluto specifies the Sun/Saturn axis as a struggle between inhibited development and an intense effort to change the self. The [ABC entry](#abc-entry) (printed p. 151; PDF p. 74) includes both growing difficulties and maturity; the [Sandbach entry](#sandbach-entry) connects rigid self-concern with a demanding search for meaning.
+
+Discipline can become inflexibility, a pursuit of power, or retaliation, yet the [Munkasey entry](#munkasey-entry) (printed p. 76) also allows pessimism to be eliminated. The bodily restrictions in the [Witte entry](#witte-entry) (PDF p. 107) and [Ebertin entry](#ebertin-entry) (printed p. 93, code 0250) remain historical source claims, not a prediction of impaired health or proof that suffering brings mastery.
 
 ## Links
 

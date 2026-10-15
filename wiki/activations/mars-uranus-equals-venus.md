@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
 - Triad hub: [Venus Mars Uranus](../triads/venus-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Uranus,” PDF p. 194.
 
 To get suddenly into intimate relation. Rape. Obstetrics. Forceps delivery.
 
@@ -45,17 +49,23 @@ To get suddenly into intimate relation. Rape. Obstetrics. Forceps delivery.
 
 #### ABC Entry
 
+Source: “Mars + Uranus,” printed p. 302 (PDF p. 150).
+
 Renewal of work joy, peace work under tensions, harmonious will impulses, harmonious work rhythm, new artistic work, tension impulses in love, surprising love activity, and preference for technical work
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Uranus,” printed p. 208, entry0714.
+
 Strongly passionate excitability. Desire to enforce love, sudden stepping up of energy in love matters (birth). Medical intervention concerning a woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Uranus midpoint,” Venus entry, PDF p. 71.
 
 One’s love expressed in an assertively uninhibited fashion, which can possibly intimidate the loved one. One love’s doing unusual things, or common things in unusual ways. A love of experimentation. One is assertively independent about one’s values.
 
@@ -70,22 +80,23 @@ Softens an otherwise harsh or unruly side of self; allows you to present your vi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or experimental affection alongside efforts to harmonize dynamic activity.
+- psychology: Passionate excitement, independent values, and pleasure in unusual ways of doing things.
+- body/health: Witte and Ebertin include historical obstetric and medical associations.
+- social/relationship: Uninhibited affection may intimidate; Munkasey also describes tact and a wish to please.
+- events/manifestations: New artistic work, peace work under tension, technical interests, and surprising intimacy.
+- conflicts/notes: Coercive expressions in Witte and Ebertin coexist with harmony and tact elsewhere; none makes violence a necessary expression of the formula.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ materially: Witte and Ebertin include coercive or medical expressions, while ABC and Munkasey include harmony and softened conduct. Sandbach retains both experimentation and the possibility of intimidation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Venus`: exciting attraction, unusual love expression, and the need for freedom and novelty in affection or pleasure. Main caution: force in relationship: passion can become intimidating, abrupt, or disruptive, especially when desire tries to outrun consent or stability.
+In `Mars/Uranus = Venus`, Venus specifies dynamic or unexpected activity through affection, pleasure, values, and efforts toward harmony. Sandbach describes experimental, uninhibited love and independent values; ABC broadens the range to new artistic work, renewed enjoyment of work, peace work amid tension, and technical interests. Munkasey adds a more tactful presentation of otherwise forceful views, so directness need not take an abrasive form. ([Sandbach](#sandbach-entry), PDF p. 71; [ABC](#abc-entry), printed p. 302 / PDF p. 150; [Munkasey](#munkasey-entry), printed p. 232)
+
+The sources also retain a difficult range: Sandbach mentions intimidation, while Witte and Ebertin include coercive intimacy and historical obstetric or medical examples. Those claims remain attributed and do not define every expression of the activation. ([Witte](#witte-entry), PDF p. 194; [Ebertin](#ebertin-entry), printed p. 208, entry0714)
 
 ## Links
 

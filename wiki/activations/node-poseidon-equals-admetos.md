@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Node Admetos Poseidon](../triads/node-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 156 (one-based; exact row checked).
 
 In mental or spiritual community with a few To be connected with cultured people.
 
@@ -42,13 +46,27 @@ In mental or spiritual community with a few To be connected with cultured people
 
 #### ABC Entry
 
+- Source page: 239 (printed); PDF page: 118 (one-based; exact row checked).
+
 Deepening Spiritual Connection, Blocked Cultural Contacts, End of an Ideal Connection, Restricted Truth in a Connection, Restriction of a Spiritual Connection, Clarity by Deepening a Relationship, and Strengthen Cultural Contacts
+
+## Comparative Schema
+
+- core meaning: a limited or deepened intellectual, spiritual or cultural connection.
+- psychology: clarity through deepening a relationship, with restricted truth also named.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: a small mental or spiritual community and ties with cultured people.
+- events/manifestations: blocked cultural contacts, an ideal connection ending, or existing cultural contacts being strengthened.
+- conflicts/notes: a small circle need not be oppressive; deepening and strengthening coexist with restriction and endings as different possibilities.
+
+## Contradictions
+
+Witte emphasizes community with a few, while ABC includes both deepening and blocking cultural or spiritual connections. These possibilities do not establish a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Admetos`: In mental or spiritual community with a few To be connected with cultured people.
-- In difficult expression, it can mark in mental or spiritual community with a few To be connected with cultured people.
+Admetos specifies `Node/Poseidon` through a limited or deepened connection of mind, spirit or culture. The [Witte entry](#witte-entry) describes community with a few and ties with cultured people; the [ABC entry](#abc-entry) adds clarity gained by deepening a relationship and strengthening cultural contacts. The same entry also allows blockage, restriction or the ending of an ideal connection. The distinction is between concentration that deepens understanding and restriction that limits or ends the bond; a small circle alone does not establish the difficult expression.
 
 ## Links
 

@@ -1,0 +1,1255 @@
+{
+  "status": "HEURISTIC_LEADS_REQUIRE_FULL_HUB_AND_EXACT_SOURCE_PROOF_REVIEW",
+  "date": "2026-10-15",
+  "already_amended_after_scan": [
+    "wiki/triads/kronos-apollon-admetos.md",
+    "wiki/triads/mars-asc-mc.md",
+    "wiki/triads/mars-cupido-admetos.md",
+    "wiki/triads/mars-jupiter-saturn.md",
+    "wiki/triads/mars-pluto-mc.md"
+  ],
+  "candidates": [
+    {
+      "hub": "wiki/triads/kronos-apollon-admetos.md",
+      "note": "The [ABC Entry for Kronos/Apollon = Admetos](../activations/kronos-apollon-equals-admetos.md#abc-entry) retains “Griindlichkeit” and “Greek successes”. The entry remains represented with unresolved wording, rather than supplying an interpretation of the unordered set.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-admetos.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes specialist authority within a small circle. ABC includes successful thoroughness and independent study but also the end of abundance and restrictions on freedom. These are distinct favorable and restrictive alternatives.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-asc-mc.md",
+      "note": "The [Ebertin entry for Mars/Asc = MC](../activations/mars-asc-equals-mc.md#ebertin-entry) retains “eoworker”. That represented subentry has a wording limit requiring verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/mars-asc-equals-mc.md",
+          "owner": "activations-023.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries differ in emphasis; the different manifestations do not establish a direct contradiction.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-cupido-admetos.md",
+      "note": "The [ABC entry for Mars/Admetos = Cupido](../activations/mars-admetos-equals-cupido.md#abc-entry) retains “Arbcit”. This source paragraph is represented, with a damaged word that needs verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/mars-admetos-equals-cupido.md",
+          "owner": "activations-022.jsonl",
+          "unresolved": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-jupiter-saturn.md",
+      "note": "The [ABC subentry for Jupiter/Saturn = Mars](../activations/jupiter-saturn-equals-mars.md#abc-entry) says only “See above”; its target is unresolved and no ABC delineation is retained there. The other represented works and sibling orientations do not replace that missing detail.",
+      "activations": [
+        {
+          "path": "wiki/activations/jupiter-saturn-equals-mars.md",
+          "owner": "activations-019.jsonl",
+          "unresolved": [],
+          "notes": "\nThere is a substantive disagreement about endurance: [Ebertin](#ebertin-entry) describes its lack, while [Sandbach](#sandbach-entry) describes persistence until completion. Neither can be silently converted into the other.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-pluto-mc.md",
+      "note": "The [Pluto/MC = Mars ABC entry](../activations/pluto-mc-equals-mars.md#abc-entry) retains “bemOhungen”. Its paragraph remains represented with damaged wording requiring source verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/pluto-mc-equals-mars.md",
+          "owner": "activations-061.jsonl",
+          "unresolved": [],
+          "notes": "\nActive self-development can be chosen; Ebertin also describes being forced into an unsuitable occupation. The agency differs materially.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-saturn-neptune.md",
+      "note": "The [ABC entry for Saturn/Neptune = Mars](../activations/saturn-neptune-equals-mars.md#abc-entry) begins with love-related wording and ends “problematic expectations in”. Its incomplete ending and passage boundary require source verification. It remains a represented paragraph with limited reliability, rather than a source for a combined triad interpretation.",
+      "activations": [
+        {
+          "path": "wiki/activations/saturn-neptune-equals-mars.md",
+          "owner": "activations-067.jsonl",
+          "unresolved": [],
+          "notes": "\n- Munkasey's haste differs from the inhibition stressed by Ebertin and Sandbach; neither is the sole possible expression.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-uranus-admetos.md",
+      "note": "The [ABC entry for Mars/Admetos = Uranus](../activations/mars-admetos-equals-uranus.md#abc-entry) retains “ncue Tatigkcit”. The paragraph is represented with damaged wording requiring source verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/mars-admetos-equals-uranus.md",
+          "owner": "activations-022.jsonl",
+          "unresolved": [],
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mars-uranus-node.md",
+      "note": "The [Uranus/Node = Mars activation](../activations/uranus-node-equals-mars.md#contradictions) flags “reform of work renunciation” as an unreliable rendering of its retained German wording. Its ABC paragraph is represented with that translation limitation.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-mars.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nExperimentation and energetic creation of work connections coexist with argument and difficulty with self-control. Ebertin's violent disputes remain attributed severe examples rather than an inevitable expression of energetic contact.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mc-hades-apollon.md",
+      "note": "The [Hades/Apollon = MC activation](../activations/hades-apollon-equals-mc.md#derived-synthesis) excludes damaged opening and closing ABC wording from its reading. That subentry remains represented with this explicit limitation; sibling orientations cannot supply its missing words.",
+      "activations": [
+        {
+          "path": "wiki/activations/hades-apollon-equals-mc.md",
+          "owner": "activations-012.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. ABC includes both knowledge and a lack of knowledge, success through privation and increasing inner sorrow, without explaining when each alternative applies.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mercury-pluto-cupido.md",
+      "note": "The [Pluto/Cupido = Mercury ABC entry](../activations/pluto-cupido-equals-mercury.md#abc-entry) contains Community research-programme wording rather than a reliable retained translation. The subentry is represented, with its translation requiring source verification. The [Mercury/Cupido = Pluto Witte entry](../activations/mercury-cupido-equals-pluto.md#witte-entry) separately begins with an isolated “E”.",
+      "activations": [
+        {
+          "path": "wiki/activations/pluto-cupido-equals-mercury.md",
+          "owner": "activations-060.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes the subject of thought; ABC includes conversation and concrete community developments. These emphases do not conflict or require a technological-research interpretation.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/mercury-cupido-equals-pluto.md",
+          "owner": "activations-034.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. The Witte display glyph and ABC Neptune/Pluto boundary have been resolved against the raw scans.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mercury-saturn-neptune.md",
+      "note": "The [Mercury/Saturn = Neptune Witte entry](../activations/mercury-saturn-equals-neptune.md#witte-entry) retains “Trave!”. Its paragraph is represented with that damaged word requiring source verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-saturn-equals-neptune.md",
+          "owner": "activations-039.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries preserve both inspiration and confusion, attachment to ideals and discouragement. These are alternative expressions, not proof that every serious message is false.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/mercury-uranus-pluto.md",
+      "note": "The [Mercury/Uranus = Pluto ABC entry](../activations/mercury-uranus-equals-pluto.md#abc-entry) opens with the fragment “of youth,”. The paragraph is represented with an incomplete beginning requiring source verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-uranus-equals-pluto.md",
+          "owner": "activations-039.jsonl",
+          "unresolved": [],
+          "notes": "\nPersistent work and creative design coexist with haste, nervous difficulties or reverses. These describe a range rather than a guaranteed transformation.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/moon-apollon-vulcanus.md",
+      "note": "The [Moon/Apollon = Vulcanus Witte entry](../activations/moon-apollon-equals-vulcanus.md#witte-entry) ends with the incomplete phrase “Exchange of higher and finer”. Its paragraph remains represented, but its ending and neighboring-row boundary require source verification.",
+      "activations": [
+        {
+          "path": "wiki/activations/moon-apollon-equals-vulcanus.md",
+          "owner": "activations-041.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte stresses success and rewarded effort. ABC includes power and influence alongside violence against women; force cannot be reduced to a uniformly favorable meaning.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/moon-pluto-poseidon.md",
+      "note": "The [Pluto/Poseidon = Moon Witte entry](../activations/pluto-poseidon-equals-moon.md#witte-entry) retains “metal (psychic)”. The specific transcription remains unverified; the hub provides an exact source route without silently replacing the word.",
+      "activations": [
+        {
+          "path": "wiki/activations/pluto-poseidon-equals-moon.md",
+          "owner": "activations-062.jsonl",
+          "unresolved": [],
+          "notes": "\nPublic transformation and the source's female examples are distinct expressions; neither establishes a universal quality of women.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/neptune-hades-poseidon.md",
+      "note": "The [Neptune/Poseidon = Hades ABC entry](../activations/neptune-poseidon-equals-hades.md#abc-entry) retains “Yemunft”. This specific wording requires source verification; the paragraph remains represented independently of both siblings.",
+      "activations": [
+        {
+          "path": "wiki/activations/neptune-poseidon-equals-hades.md",
+          "owner": "activations-053.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte assigns false worldview to stupidity or stubbornness. ABC also includes hidden truth and refined past culture alongside unclear inherited ideas and denied reason.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/neptune-node-apollon.md",
+      "note": "The [Neptune/Node = Apollon ABC entry](../activations/neptune-node-equals-apollon.md#abc-entry) retains “Autlosung”. That specific transcription needs source verification; the paragraph remains represented separately from its siblings.",
+      "activations": [
+        {
+          "path": "wiki/activations/neptune-node-equals-apollon.md",
+          "owner": "activations-052.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's short entry concerns dissolution with many. ABC also describes expansion, increasing trade links, and successful connection with metaphysics.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/neptune-node-zeus.md",
+      "note": "The [Node/Zeus = Neptune ABC entry](../activations/node-zeus-equals-neptune.md#abc-entry) retains “start of the Lun”. This specific wording requires source verification; the paragraph remains represented separately from both siblings.",
+      "activations": [
+        {
+          "path": "wiki/activations/node-zeus-equals-neptune.md",
+          "owner": "activations-058.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte gives ineffective shared effort; ABC also preserves sensitivity, metaphysics and literal air/water settings. They should not be collapsed into guaranteed failure.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/neptune-pluto-vulcanus.md",
+      "note": "The [Neptune/Vulcanus = Pluto ABC entry](../activations/neptune-vulcanus-equals-pluto.md#abc-entry) retains “Lull power”. This specific transcription needs source verification; the paragraph remains represented independently of its siblings.",
+      "activations": [
+        {
+          "path": "wiki/activations/neptune-vulcanus-equals-pluto.md",
+          "owner": "activations-054.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte names the unnoticed start of great changes. ABC supplies varied forms of development, rejection, and deceptive change rather than one necessary progression.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/node-kronos-apollon.md",
+      "note": "Coverage limitation: Kronos/Apollon = Node leaves the damaged ABC ending “V bonded” unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-node.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nBoth entries concern the reach of connections. ABC extends scientific contacts to state and hierarchical connections, with experience and increased freedom. No direct contradiction is stated.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/pluto-asc-apollon.md",
+      "note": "Coverage limitation: Asc/Apollon = Pluto retains an unresolved leading Witte/parser “B” marker. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/asc-apollon-equals-pluto.md",
+          "owner": "activations-004.jsonl",
+          "unresolved": [],
+          "notes": "\nTransient customers and successful partner development describe different forms of change rather than an explicit contradiction. The entries do not establish that all change is either beneficial or destabilizing.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/pluto-cupido-hades.md",
+      "note": "Coverage limitation: Pluto/Cupido = Hades excludes a damaged ABC translation, including structural-funds wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/pluto-cupido-equals-hades.md",
+          "owner": "activations-060.jsonl",
+          "unresolved": [],
+          "notes": "\nSocial distress and deficient community development overlap. ABC's references to the past, danger, and criminality are distinct possibilities; Witte's welfare department does not establish that every case involves crime.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/saturn-mc-hades.md",
+      "note": "Coverage limitation: MC/Hades = Saturn excludes unreliable skeletal and marine expressions from its ABC translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mc-hades-equals-saturn.md",
+          "owner": "activations-031.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries emphasize different forms of hardship. Witte includes homelessness and unemployment, while ABC develops past danger, hard service, losses, and hidden inner problems.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/saturn-uranus-hades.md",
+      "note": "Coverage limitation: Saturn/Hades = Uranus retains an unresolved leading Witte “<?)” transcription token. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/saturn-hades-equals-uranus.md",
+          "owner": "activations-066.jsonl",
+          "unresolved": [],
+          "notes": "\nThe ABC entry focuses on disruption and concentration, while Witte supplies severe losses. Their different scales do not make the extreme examples a necessary expression of the formula. Both Uranus markers and the complete Witte row have been checked against PDF p. 225.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/saturn-uranus-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Saturn qualifies damaged ABC wording that prevents a precise comparison with the Witte entry. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-saturn.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's literal dying language and ABC's concentration and cultural tasks are substantially different claims; the excerpts do not explain their relationship. ABC includes both disturbed concentration and clarity through concentration. Its seven clauses have been checked against printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-hades-apollon.md",
+      "note": "Coverage limitation: Hades/Apollon = Sun explicitly qualifies damaged English in its source comparison. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/hades-apollon-equals-sun.md",
+          "owner": "activations-012.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. The historical male examples remain attributed; the entries do not establish inevitable loss of vitality or make historical scholarship a character judgment.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-kronos-apollon.md",
+      "note": "Coverage limitation: Kronos/Apollon = Sun excludes unreliable ABC “self indigenous man” and “great body for” fragments. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-sun.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nABC adds personal freedom, independent success and bodily fullness to Witte's scientific authority. Its male categories remain attributed, and the day references remain examples rather than a method for selecting dates.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-mercury-vulcanus.md",
+      "note": "Coverage limitation: Mercury/Vulcanus = Sun excludes several suspect ABC phrases pending correction. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-vulcanus-equals-sun.md",
+          "owner": "activations-040.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. Physical vigor, personal influence and a description of a violent person are separate examples; the violence example does not turn bodily speed into a diagnosis.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-moon-admetos.md",
+      "note": "Coverage limitation: Moon/Admetos = Sun has heavily damaged ABC wording excluded from precise interpretation; Witte's death/timing assertions remain historical source claims. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/moon-admetos-equals-sun.md",
+          "owner": "activations-041.jsonl",
+          "unresolved": [],
+          "notes": "\nRecurring sadness and restriction coexist with personal deepening of feeling. Historical death claims do not establish a predictive timing method.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-moon-cupido.md",
+      "note": "Coverage limitation: Moon/Cupido = Sun records missing personal-feeling and artistic-center ABC clauses. The canonical English coverage remains incomplete. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/moon-cupido-equals-sun.md",
+          "owner": "activations-042.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. The specific emotional, social and artistic settings remain side by side rather than becoming universal outcomes.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-uranus-kronos.md",
+      "note": "Coverage limitation: Uranus/Kronos = Sun marks ABC's authority/technology phrase as damaged; cached locators do not constitute a scan check. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-sun.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nFierce expression and anger over rulings coexist with technical authority and personal events. The male example is historical attribution, without restricting the whole formula to men.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/sun-uranus-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Sun qualifies suspect ABC emanation wording and a damaged final clarity phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-sun.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe sources' personal and bodily language does not make their claims universal or exclusively male. ABC's renewal wording and final clause, surprising clarity for a person, have been restored from printed p. 388 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-admetos-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Admetos retains several unreliable ABC English phrases; source presence does not certify their wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-admetos.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte allows relaxation and the end of inquiry; ABC also includes blocked impulses, suppressed truth and restriction of power. These are different outcomes, not an established contradiction. The ABC renewal and thoroughness wording has been checked against printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-admetos-vulcanus.md",
+      "note": "Coverage limitation: Uranus/Vulcanus = Admetos retains a damaged ABC power phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-vulcanus-equals-admetos.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes defeat and suppression, whereas ABC also retains thorough renewal of power, technical rotational force and deepening into new energies. The latter are not all descriptions of futile effort. The former “grim powerMeuration” has been corrected from “gründliche Macht-Erneuerung” on printed p. 387 (PDF p. 192); the sources do not explain how their differing outcomes relate.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-apollon-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Apollon qualifies unreliable ABC spiritual-renewal/impulse translations; no reconstruction is asserted. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-apollon.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries describe ideas reaching a wider field, with Witte also retaining the tension experienced by many people. ABC adds cultural renewal, science and freedom; the overlap does not establish independent corroboration. The renewal and rational-impulse wording has been checked against printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-asc-poseidon.md",
+      "note": "Coverage limitation: Uranus/Asc = Poseidon and Uranus/Poseidon = Asc retain unresolved ABC idea/technology/renewal wording; those phrases do not expand interpretation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-asc-equals-poseidon.md",
+          "owner": "activations-080.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's enlightenment and propaganda describe different possible uses of ideas. ABC names clarity, rational technology and truth as themes; these do not establish that any particular partner's insight or persuasive message is reliable.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-asc.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte explicitly includes both enlightenment and propaganda, so mental influence is not uniformly beneficial. ABC adds a partner's ideas, local renewal and rational technology. Its former enormous-truth, emanation and future-technology wording has been corrected from printed p. 388 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-asc-vulcanus.md",
+      "note": "Coverage limitation: Uranus/Vulcanus = Asc retains an unreliable ABC power-renewal phrase; its exact sense is unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-vulcanus-equals-asc.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nBoth entries place force in a local or interpersonal setting, without establishing independent corroboration. ABC also includes renewal of power at the location, corrected from the former “power eminence” after checking “Macht-Erneuerung am Ort” on printed p. 386 (PDF p. 192). This broader range does not make a partner's influence necessarily dangerous.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-asc-zeus.md",
+      "note": "Coverage limitation: Uranus/Asc = Zeus records damaged partner-performance wording and an omitted garbled leadership clause; source coverage remains bounded. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-asc-equals-zeus.md",
+          "owner": "activations-080.jsonl",
+          "unresolved": [],
+          "notes": "\nCompulsion by others and exertion around fire or technical work are different manifestations. ABC additionally names local leadership and a partner's leadership achievements, alongside effort and tension; none establishes a fixed personal disposition.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-cupido-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Cupido has a damaged ABC policy/funding translation that cannot support comparison with Witte. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-cupido.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share collective clarification as a theme. ABC also allows truth to be disquieting for a community; this qualifies the shared activity without contradicting Witte's act of explaining. The former policy-and-structural-funds translation has been replaced from the seven clauses of the Cupido row on printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-hades-apollon.md",
+      "note": "Coverage limitation: Hades/Apollon = Uranus qualifies ABC's rhythm-cancellations wording as unreliable. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/hades-apollon-equals-uranus.md",
+          "owner": "activations-012.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. ABC includes both concentration on new knowledge and renewal of knowledge from the past. Its unspecified disturbances of rhythm do not establish a medical diagnosis.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-hades-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Hades retains unreliable ABC cultural-event/emanation renderings outside interpretation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-hades.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nIllumination and distress are different possible aspects of encountering difficult material, not a demonstrated contradiction. ABC also retains dangerous technical ideas, criminal insights and forgoing new ideas; Witte emphasizes clarification and reviving the past.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-hades-vulcanus.md",
+      "note": "Coverage limitation: Hades/Vulcanus = Uranus excludes damaged ABC grief/energy clauses; no source repair is asserted. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/hades-vulcanus-equals-uranus.md",
+          "owner": "activations-013.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share sudden or surprising harmful influence, while technical energy is a separate expression. They do not require every unexpected change to involve personal violence.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-kronos-apollon.md",
+      "note": "Coverage limitation: Kronos/Apollon = Uranus marks ABC authorship/new wording as damaged; Uranus/Kronos = Apollon retains uncertain authority/discovery wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-uranus.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nScientific changes, calculating, partner tension, and a stock-market rise are distinct examples. None establishes a forecast or a promise of innovation.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-kronos-equals-apollon.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nExpansion and renewal of authority coexist with unrest in the state. Governmental decrees about astrology or future sciences do not establish the quality or success of the science.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-kronos-poseidon.md",
+      "note": "Coverage limitation: Uranus/Kronos = Poseidon excludes uncertain ABC authority/impulse translations; Uranus/Poseidon = Kronos qualifies damaged political wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-poseidon.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nGovernment direction of education or spiritual matters coexists with tension around truth. Intellectual authority and rational impulses remain source themes, not proof that an authority's claims are true.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-kronos.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share authority and pressure as themes. ABC's renewed or new intellectual authority does not mean authoritarianism; its state reform ideas likewise do not establish a political disposition. These clauses have been checked on printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-mc-hades.md",
+      "note": "Coverage limitation: Uranus/MC = Hades excludes ABC's unreliable quirky-soul translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-mc-equals-hades.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nDistress, hidden tension and renunciation do not by themselves establish the harmful conduct described by Witte. The technical theme and the person's restless past remain visible beside those severe examples.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-mc-kronos.md",
+      "note": "Coverage limitation: Uranus/Kronos = MC excludes an unrelated ABC Commission sentence pending raw-source verification. Uranus/MC = Kronos excludes damaged rhythm/technical-authority wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-mc.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte describes both exercising despotic power and being subject to another's power. ABC adds personal independence, confidence and inner experience; these do not determine which role a person occupies.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-mc-equals-kronos.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nIssuing a sudden order and meeting a test of strength describe different positions around authority. The independent rhythm and technical prominence named by ABC do not determine which position applies.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-mc-zeus.md",
+      "note": "Coverage limitation: Uranus/MC = Zeus marks ABC rhythm wording as damaged; source presence does not certify intact wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-mc-equals-zeus.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nThe source describes both directed creative effort and emotional tension. Witte's enjoyment of fire or setting a fire remains a separate severe possibility, not the necessary consequence of pursuing a goal.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-admetos.md",
+      "note": "Coverage limitation: Uranus/Neptune = Admetos excludes unresolved ABC technical/impulse wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-admetos.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nThe technical examples concern sensitivity, water, air compression and barriers; Witte separately gives prospecting and political suppression. These are different manifestations, with no direct contradiction established.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-asc.md",
+      "note": "Coverage limitation: Uranus/Asc = Neptune excludes damaged ABC event/encroachment wording. Uranus/Neptune = Asc excludes an exchangeability mistranslation and supplies only a Sandbach chapter-start locator. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-asc-equals-neptune.md",
+          "owner": "activations-080.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries differ materially in scope: Witte names death, while the others describe relational disappointment, confusion or intuition. ABC also supplies water settings, sudden excitement, local uncertainty and disappointment through a partner. The severe death correspondence remains a separate historical claim.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-neptune-equals-asc.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nImpressionability, inspired concentration and spiritual charisma are different emphases. Witte's death notices and acquaintance with the dead remain attributed examples, not a medical prediction.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-cupido.md",
+      "note": "Coverage limitation: Uranus/Neptune = Cupido excludes ABC's exchange-of-technology mistranslation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-cupido.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nCommunal technical or metaphysical experience does not itself imply dissolution. Witte's family death and difficult marriage remain distinct severe historical associations.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-hades.md",
+      "note": "Coverage limitation: Uranus/Neptune = Hades excludes damaged ABC criminal-event and air wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-hades.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte explicitly gives seeing through treachery with strong Uranus and failing to see through it with strong Neptune. These are conditional alternatives; occupational contact with corpses, water danger and technical disadvantage remain separate examples.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-kronos.md",
+      "note": "Coverage limitation: Uranus/Kronos = Neptune excludes a damaged, apparently merged ABC tail pending source verification. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-neptune.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nWeak or ineffective authority, destructive power and turbulent water are different source branches. Technical water or air themes and metaphysical standing do not establish a causal relation between political weakness and weather.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-node.md",
+      "note": "Coverage limitation: Uranus/Neptune = Node excludes an unresolved ABC connection phrase. Uranus/Node = Neptune excludes damaged ABC wording and an apparently merged next-row tail. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-node.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nShared grief and weakening or dissolving connections coexist with contacts that further ideas. Witte's death wording remains an attributed extreme; the entries do not determine the stability or outcome of every bond.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-node-equals-neptune.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nUnclear or dissolving partnerships coexist with imaginative insight and unusual mental connections. Witte's widowhood and disorganized inheritance and Ebertin's deception remain attributed examples; imagination does not make an unclear partnership reliable.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-pluto.md",
+      "note": "Coverage limitation: Uranus/Neptune = Pluto excludes an ABC opening fragment and an Ebertin footnote about Mercury. Uranus/Pluto = Neptune retains unresolved ABC water wording and cross-reference. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-pluto.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nOccult development and liberation of inner vision coexist with yielding to external circumstances and destructive collective events. The entries establish neither supernatural entities nor an inevitable catastrophe. Ebertin's note59 belongs to Mercury and has been placed with that activation.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/uranus-pluto-equals-neptune.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries describe uncertain or subtle change across different subjects. ABC's actual Neptune row supplies six clauses about subtle transformation, creeping changes, air and water. The old one-line water translation lost most of that passage and absorbed Pluto's “see above”; the row has been restored from printed p. 373 (PDF p. 185).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Neptune has fused and damaged ABC wording with unresolved boundaries; presence of the entry does not certify intact coverage. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-neptune.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes deception, whereas ABC includes intuitive clarity and metaphysical insight. This is a material difference: neither claim cancels the other or makes intuition a guarantee of truth. The ABC Neptune row has eight clauses ending “Verfeinerung durch neue Einsichten”; the following reform-development and evolutionary-insight clauses belong to Pluto and have been removed from this entry after scan inspection of printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-neptune-vulcanus.md",
+      "note": "Coverage limitation: Uranus/Neptune = Vulcanus retains unresolved ABC power-weakness/dissolution wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-vulcanus.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nForce, nervousness and weakness or dissolution of power coexist. Witte's sudden checkmate and beginning of a large revolution remain alternative severe manifestations, without equating personal disappointment with collective uprising.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-node-asc.md",
+      "note": "Coverage limitation: Uranus/Node = Asc excludes damaged ABC event/environment wording. The supplied Sandbach PDF locators are chapter starts, not exact formula pages. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-asc.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nNew encounters and personal openness coexist with restless or tense relationships. Feedback and changing self-imposed limits are separate supported emphases; the entries do not establish a settled bond.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-node-mc.md",
+      "note": "Coverage limitation: Uranus/Node = MC retains an unresolved ABC opening fragment. Supplied Sandbach PDF locators are chapter starts only. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-mc.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nPersonally felt excitement and shared aims coexist with support or recognition from others. Sandbach's dharma is its spiritual account of a life purpose, not an independently verified destiny or guarantee of acclaim.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-node-poseidon.md",
+      "note": "Coverage limitation: Uranus/Node = Poseidon excludes unreliable ABC reform-connection/mediation phrases. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-poseidon.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nShared inquiry, culture and intellectual reform coexist with unrest prompted by truth. The entries describe a search and a wish to clarify together, without establishing that participants already possess the truth.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-node-vulcanus.md",
+      "note": "Coverage limitation: Uranus/Node = Vulcanus excludes ABC's reforestation mistranslation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-vulcanus.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nInfluence, powerful tension and reform of power connections coexist with sudden contact with superiors or examiners. The entries do not determine whether that influence assists, tests or constrains.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-node-zeus.md",
+      "note": "Coverage limitation: Uranus/Node = Zeus excludes an unreliable ABC reproductive phrase without reconstruction. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-zeus.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nCreative effort and achievement coexist with force or tension. Witte's expecting progeny and ABC's disturbed procreative connection are different historical reproductive examples, without establishing pregnancy, infertility or a bodily diagnosis; fire and explosion remain separate possibilities.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-kronos.md",
+      "note": "Coverage limitation: Uranus/Kronos = Pluto retains an unresolved leading Witte P token and excludes unreliable ABC self-awareness/development wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-pluto.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nNew capabilities, withdrawn orders, changed superiors and developing self-confidence are different changes in authority. They do not all strengthen the same person.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-mc.md",
+      "note": "Coverage limitation: Uranus/MC = Pluto retains damaged ABC tension wording; supplied Sandbach locators are chapter starts only. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-mc-equals-pluto.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nRecognition and neglect are sharply different outcomes in Munkasey. Ebertin's overwork-related breakdown remains an attributed historical claim; ambition or rebellion does not select it as an outcome.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-node.md",
+      "note": "Coverage limitation: Uranus/Node = Pluto retains an unresolved Witte P token and an unverified ABC row boundary with a missing mid-word opening. Source presence does not certify intact coverage. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-node-equals-pluto.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nMutual influence, newly developing contacts and growing freedom coexist with unrest or rejection of one's ideas. These different possibilities do not establish that an intense connection is supportive.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Pluto has an incomplete ABC opening and an unreliable cultural-renewal translation; no reconstruction is asserted. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-pluto.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share an ideas-and-development emphasis, without proving independent corroboration. ABC also names tensions as ideas unfold. Scan inspection of printed p. 389 (PDF p. 193) restores the complete seven-clause Pluto row beginning “Geistige Reform-Entwicklung”; its opening was formerly absorbed into Neptune, and “cultural emanation” has been corrected to cultural renewal.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-vulcanus.md",
+      "note": "Coverage limitation: Uranus/Pluto = Vulcanus retains fused and truncated ABC text; its additional spiritual claims are not secure coverage for that orientation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-pluto-equals-vulcanus.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share forceful change and development. ABC adds changes in power, technical energies and a spontaneous unfolding of force or violence; its row does not contain the following Poseidon paragraph's spiritual claims. Those boundaries have been restored from printed p. 373 (PDF p. 185).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-pluto-zeus.md",
+      "note": "Coverage limitation: Uranus/Pluto = Zeus has unreliable ABC leadership wording, fused state material and a missing continuation; boundary verification remains unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-pluto-equals-zeus.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes consequences that set further changes in motion. ABC adds strenuous reform, purposeful development, technical achievement, fire and leadership change. The prior filtration wording mistranslated Führung, and the appended state material belongs to Kronos; the complete Zeus row has been checked on printed p. 373 (PDF p. 185).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-vulcanus-poseidon.md",
+      "note": "Coverage limitation: Vulcanus/Poseidon = Uranus retains an unexplained leading Witte ij) prefix; verify before quoting. Uranus/Poseidon = Vulcanus qualifies an unreliable ABC cultural-renewal translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-vulcanus.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries allow insight and mental tension together. ABC adds cultural renewal and nervousness through mental violence. These remain distinct source claims; force of influence does not establish that an idea is true.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+          "owner": "activations-100.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte stresses surprising influence and esteem. ABC adds cultural reform and tension, including concern about mental violence; honor is not guaranteed by intensity.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-zeus-kronos.md",
+      "note": "Coverage limitation: Uranus/Kronos = Zeus excludes unresolved ABC independence-related translations. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-kronos-equals-zeus.md",
+          "owner": "activations-081.jsonl",
+          "unresolved": [],
+          "notes": "\nMajor technical activity and independent achievement differ from the source's severe arming, war and fire examples. A natural thunderstorm remains a separate manifestation.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/uranus-zeus-poseidon.md",
+      "note": "Coverage limitation: Uranus/Poseidon = Zeus excludes ABC's damaged spiritual-leadership phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-poseidon-equals-zeus.md",
+          "owner": "activations-083.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's demand for clarity and ABC's clear objective are compatible emphases. ABC additionally specifies beginning cultural and spiritual reforms and renewing spiritual leadership. The former filthyness wording was a mistranslation of leadership, verified on printed p. 389 (PDF p. 193).\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-asc-cupido.md",
+      "note": "Coverage limitation: Venus/Asc = Cupido excludes an unresolved ABC art-community translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-asc-equals-cupido.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nFamily intimacy and local artistic community are complementary settings. The scanned ABC row says an art community, rather than the former cached “artificial community.”\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-asc-hades.md",
+      "note": "Coverage limitation: Venus/Asc = Hades excludes unresolved ABC past-place/partner-love wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-asc-equals-hades.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nRestrictions and hidden or illicit affection remain adverse possibilities; the class language belongs to Witte's historical wording and does not establish anyone's social inferiority.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-asc-mc.md",
+      "note": "Coverage limitation: Venus/Asc = MC excludes damaged ABC place/preference phrases; exact Sandbach entry pagination remains unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-asc-equals-mc.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nInner harmony, affectionate union, and admiration for conduct are related emphases. Sandbach's spiritual condition remains attributed, and no passage establishes a specific profession.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-asc-poseidon.md",
+      "note": "Coverage limitation: Venus/Asc = Poseidon excludes an unresolved ABC art/artist translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-asc-equals-poseidon.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nSpiritual affinity, aesthetic thought, and local culture are related emphases. Soulmate language remains the source's description rather than proof that a particular relationship is destined.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-chiron-asc.md",
+      "note": "Coverage limitation: Venus/Chiron = Asc retains the split transcription at mosphere; exact wording has no new scan verification. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-chiron-equals-asc.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nThis short entry gives one constructive possibility and no adverse range. No second source is represented for comparison.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-jupiter-asc.md",
+      "note": "Coverage limitation: Venus/Asc = Jupiter retains unresolved ABC luck/art/preference wording; Sandbach's supplied locators are chapter starts only. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-asc-equals-jupiter.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nAffectionate contact, luxury, financial support for art, law, and public recognition differ in setting. The entries support enjoyment and recognition without determining one outcome.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-jupiter-cupido.md",
+      "note": "Coverage limitation: Jupiter/Cupido = Venus excludes a damaged ABC happy-love-community phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/jupiter-cupido-equals-venus.md",
+          "owner": "activations-015.jsonl",
+          "unresolved": [],
+          "notes": "\n- Love and financial balance are adjacent favorable examples, without a stated claim that one causes the other.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-jupiter-mc.md",
+      "note": "Coverage limitation: Jupiter/MC = Venus excludes unresolved ABC Kunst/kiss mistranslations (printed p.74). See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/jupiter-mc-equals-venus.md",
+          "owner": "activations-017.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries supply complementary settings for affection and satisfaction. ABC names artistic income, success and inner satisfaction as well as rights to peace and love; Sandbach describes enjoyment of developing work and relations with employers, while Munkasey adds reflection and cooperation. The sources do not establish that affection or artistic interest guarantees financial or professional success.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-kronos-apollon.md",
+      "note": "Coverage limitation: Kronos/Apollon = Venus and Venus/Apollon = Kronos qualify unreliable ABC authority/independence wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-venus.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nFriendship and peaceful relations overlap; the state-ratified appointment is a separate institutional example, not proof of diplomatic office.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/venus-apollon-equals-kronos.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nAuthority, independent activity and harmony are complementary possibilities rather than a demonstrated contradiction. ABC's “successful self governance in love” is awkward beside native Selbstandigkeit; no stronger psychological claim is made from it. No scan-based translation repair was undertaken.\n\nSource locators from the evidence cache: ABC printed p. 291 (PDF p. 144); Witte PDF p. 186 (entry start). These passages have not been visually verified.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-mars-cupido.md",
+      "note": "Coverage limitation: Venus/Mars = Cupido retains damaged ABC art/work-community wording outside precise interpretation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-mars-equals-cupido.md",
+          "owner": "activations-087.jsonl",
+          "unresolved": [],
+          "notes": "\n- The synthesis of female and male principles is the ABC's historical framing.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-mc-zeus.md",
+      "note": "Coverage limitation: MC/Zeus = Venus excludes an unreliable ABC love-witnessing translation. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mc-zeus-equals-venus.md",
+          "owner": "activations-033.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes producing beauty with love. ABC adds harmonious inner guidance, artistic achievement and the explicit procreation-in-love clause; this is not a claim about testimony or guaranteed fertility.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-neptune-kronos.md",
+      "note": "Coverage limitation: Venus/Kronos = Neptune excludes insecure ABC love-disappointment wording and a development tail potentially belonging to Pluto; no boundary repair is asserted. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-kronos-equals-neptune.md",
+          "owner": "activations-087.jsonl",
+          "unresolved": [],
+          "notes": "\n- The ABC's denial of priority to the female principle is historical gendered doctrine; sympathy and failed help remain distinct possibilities.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-pluto-kronos.md",
+      "note": "Coverage limitation: Venus/Kronos = Pluto has an unresolved ABC paragraph boundary with the preceding Neptune entry; its ABC heading does not establish a complete formula excerpt. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-kronos-equals-pluto.md",
+          "owner": "activations-087.jsonl",
+          "unresolved": [],
+          "notes": "\n- The ABC's priority development of the female principle retains historical gendered framing.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/venus-zeus-admetos.md",
+      "note": "Coverage limitation: Venus/Admetos = Zeus excludes unresolved ABC independence/self-esteem wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-admetos-equals-zeus.md",
+          "owner": "activations-085.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's wholehearted effort and ABC's enduring love, peace efforts, and lasting artistic achievements support a shared emphasis on sustained commitment. The former apparent difference concerning state authority came from a paragraph assigned to the wrong activator; the scanned paragraph belongs to Kronos.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-asc-apollon.md",
+      "note": "Coverage limitation: Vernal Point/Apollon = Asc excludes a damaged ABC clause. Asc/Apollon = Vernal Point separately reports a completed scan repair. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/asc-apollon-equals-vernal-point.md",
+          "owner": "activations-004.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share public reach, but only Witte explicitly calls some acquaintances superficial. ABC's public-success examples neither contradict that qualification nor establish it for every connection.\n\n<a id=\"derived-synthesis\"></a>"
+        },
+        {
+          "path": "wiki/activations/vernal-point-apollon-equals-asc.md",
+          "owner": "activations-092.jsonl",
+          "unresolved": [],
+          "notes": "\nThe entries share wider contact without establishing intimacy, duration, or a guaranteed commercial result.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-hades-apollon.md",
+      "note": "Coverage limitation: Hades/Apollon = Vernal Point excludes unreliable ABC English about freedom and public experience; exact translation remains unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/hades-apollon-equals-vernal-point.md",
+          "owner": "activations-012.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. Public hardship, commerce in old material, and an attitude toward history are different recorded expressions, not proof that the whole public sphere has one fixed outlook.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-jupiter-cupido.md",
+      "note": "Coverage limitation: Jupiter/Cupido = Vernal Point has unusable ABC fragments and repeated wording. Its ABC heading records an entry whose current English cannot corroborate Witte; locators are explicitly unverified. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/jupiter-cupido-equals-vernal-point.md",
+          "owner": "activations-015.jsonl",
+          "unresolved": [],
+          "notes": "\nABC's financial and legal communities extend Witte's public rapport and artistic-group contentment; the entries do not establish universal popularity.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-jupiter-saturn.md",
+      "note": "Coverage limitation: Jupiter/Saturn = Vernal Point has an unresolved ABC boundary before apparent first-person material. Its ABC passage is excluded pending source-image verification. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+          "owner": "activations-019.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes favorable separation and property matters; ABC retains public losses and legal problems beside compensation and advantages for the elderly. The favorable and difficult possibilities remain distinct.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-kronos-apollon.md",
+      "note": "Coverage limitation: Kronos/Apollon = Vernal Point retains ABC public-awareness and opinion clauses that do not reliably match the damaged German cache. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/kronos-apollon-equals-vernal-point.md",
+          "owner": "activations-021.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes rising public authority and public understanding. ABC adds the reputation of science, state successes and increased independence or self-confidence in public life. These extend the public setting without a direct contradiction.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-kronos-poseidon.md",
+      "note": "Coverage limitation: Vernal Point/Poseidon = Kronos excludes an unreliable ABC state-authority rendering; its source heading does not certify the English wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+          "owner": "activations-097.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. Leadership and clarity are different emphases, and the source's authority-of-truth phrase does not prove every authoritative idea true.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-mars-neptune.md",
+      "note": "Coverage limitation: Mars/Neptune = Vernal Point records unreliable ABC public-policy English; source presence does not establish those phrases. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mars-neptune-equals-vernal-point.md",
+          "owner": "activations-026.jsonl",
+          "unresolved": [],
+          "notes": "\nThe sources overlap on dissolution. ABC also specifies public mistakes, outside activity, and future work, without requiring every public action to end in destruction.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-mars-uranus.md",
+      "note": "Coverage limitation: Vernal Point/Mars = Uranus retains damaged ABC English that is not used to extend the Witte entry. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+          "owner": "activations-095.jsonl",
+          "unresolved": [],
+          "notes": "\nABC's public reform, technical work and tension describe settings beyond Witte's two brief terms. They do not establish that sudden action necessarily causes injury or that public tension must become conflict.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-mercury-admetos.md",
+      "note": "Coverage limitation: Mercury/Admetos = Vernal Point retains damaged ABC news and barrier phrases. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-admetos-equals-vernal-point.md",
+          "owner": "activations-033.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte emphasizes serious public thinking and depressed mood. ABC also includes thorough public news beside suppressed opinion, news blackout and traffic blockade. These clauses concern distinct forms of public attention or restriction.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-mercury-mars.md",
+      "note": "Coverage limitation: Mercury/Mars = Vernal Point retains repeated, damaged ABC English with an unfinished ending; its supplied locator is not visually verified. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-mars-equals-vernal-point.md",
+          "owner": "activations-036.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte names speaking and rapid action; ABC supplies public settings in youth, media and news activity. The entries do not specify whether every quick action is effective.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-mercury-mc.md",
+      "note": "Coverage limitation: Mercury/MC = Vernal Point retains unresolved ABC translation damage; the supplied ABC locator is not visually verified. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/mercury-mc-equals-vernal-point.md",
+          "owner": "activations-036.jsonl",
+          "unresolved": [],
+          "notes": "\nWitte's opinion and reputation themes and ABC's public writing or speaking are compatible settings. Neither specifies how influential the message becomes.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-sun-poseidon.md",
+      "note": "Coverage limitation: Vernal Point/Poseidon = Sun retains visibly damaged ABC culture and public-person wording, also repeated in its practical-expression prose. The source entry is present but its English wording remains unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+          "owner": "activations-097.jsonl",
+          "unresolved": [],
+          "notes": "\nNo direct contradiction is established. Physical culture and intellectual centers are separate embodiments of the idea-to-form theme.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-uranus-neptune.md",
+      "note": "Coverage limitation: Uranus/Neptune = Vernal Point retains damaged ABC technical/public fragments and explicitly unverified cached locators; the source heading does not certify intact English wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/uranus-neptune-equals-vernal-point.md",
+          "owner": "activations-082.jsonl",
+          "unresolved": [],
+          "notes": "\nPublic unrest or release of tensions and public technology are different manifestations from metaphysics, funerals and cemeteries. The entries establish no causal link between technical change and a death-related event.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-venus-kronos.md",
+      "note": "Coverage limitation: Venus/Kronos = Vernal Point retains damaged ABC opening clauses; those fragments do not establish the public's attitude. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-kronos-equals-vernal-point.md",
+          "owner": "activations-087.jsonl",
+          "unresolved": [],
+          "notes": "\n- The entries describe public expressions, without establishing how a particular public responds.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    },
+    {
+      "hub": "wiki/triads/vernal-point-venus-uranus.md",
+      "note": "Coverage limitation: Venus/Uranus = Vernal Point has a dash-only ABC entry that supplies no usable English interpretation; native public art and harmony wording remains unresolved in that English excerpt. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "activations": [
+        {
+          "path": "wiki/activations/venus-uranus-equals-vernal-point.md",
+          "owner": "activations-091.jsonl",
+          "unresolved": [],
+          "notes": "\nABC emphasizes beauty, art, peace and harmony in public life, including tension and a preference for it. Witte supplies a reproductive image. These are distinct expressions in the exact oriented entries; neither passage establishes that public art or tension leads to mating activity.\n\n<a id=\"derived-synthesis\"></a>"
+        }
+      ]
+    }
+  ]
+}

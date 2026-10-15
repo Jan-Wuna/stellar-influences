@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Neptune`
 - Astronomicon formula: `R/W = Y`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Lasting disease of a woman. The melancholy woman. The woman which is separated for a long time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `185`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Interchangeable feelings storage, concentrated woman with fine feeling, air problems of a people, creeping pain of a woman, loss of a people by water, unknown shocks of a woman, uncertainty by separation from the woman unfolding in the evening hours, feelings changes by Schmerzen, and georten Gefels-
+Disappointing disturbances of feeling, a concentrated woman with sensitivity, air problems of a people, creeping pain of a woman, a people's losses through water, unknown disturbances of a woman, and insecurity through separation from a woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0381`.
 
 #### Ebertin Entry
 
 Feelings of inferiority, depression, a melancholic nature, lack of self-confidence, mirthless, anxiety. Sickness of the soul.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Envisioning yourself as an ideal parent role model; a weakened ability to show t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: uncertain or difficult feelings, weakened self-discipline, and sensitivity to emotional suffering.
+- psychology: inferiority, anxiety, vague negative feelings, idealized parenting, and escapist responses are named.
+- body/health: lasting disease, creeping pain, and sickness of the soul are historical source descriptions, not diagnoses.
+- social/relationship: long separation and sensitivity to others' negative feelings are distinct examples.
+- events/manifestations: ABC lists collective losses through water; Munkasey names drug or alcohol escape as a conditional response.
+- conflicts/notes: Sandbach's sympathetic rapport adds a helping capacity without removing the other entries' distress.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis: Ebertin stresses depression and insecurity, while Sandbach also describes helping others through sympathetic rapport. The latter does not promise relief from the former.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Neptune`: compassionate endurance, sober empathy, and the ability to carry delicate emotional burdens quietly. Main caution: depletion: sadness, weakness, or blurred boundaries can deepen the weight until feeling becomes resigned or exhausted.
+In Moon/Saturn = Neptune, Neptune specifies the pair through difficult feelings whose cause or limits may be unclear. [Ebertin](#ebertin-entry) names inferiority, anxiety, and lack of confidence; [Sandbach](#sandbach-entry) describes vague negative feelings and sensitivity to the emotions of others, including the capacity to help through sympathy. [Munkasey](#munkasey-entry) adds an idealized parental role and weakened daily self-discipline, with substance escape presented as one possible response (p. 120).
+
+The [Witte entry](#witte-entry) retains long separation and a woman's lasting illness, while [ABC](#abc-entry) includes insecurity after separation and collective losses through water (printed p. 185, PDF p. 91). These specific historical associations do not establish a diagnosis or a prediction of loss.
 
 ## Links
 

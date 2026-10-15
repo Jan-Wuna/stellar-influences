@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `V/Chiron`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `79` (Principle and Process).
 
 #### Principle
 
@@ -60,6 +64,15 @@ Instinctively knowing how to uplift others and how to dispel depression. En cour
 #### Process
 
 The healing of all schisms and boundaries in the process of creating complete harmony and synthesis of energies. The ability to create enthusiasm and positivity in others through assisting in their reconnection to spirit.
+
+## Comparative Schema
+
+- **Core meaning:** Encouragement and integration: helping people recover enthusiasm, see connections, and feel included ([Principle and Process](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+- **Psychology:** Intuitive recognition of the encouragement someone needs, with an ability to harmonize ideas and sustain hope through discouraging conditions.
+- **Body/health:** Sandbach uses healing and dispelling depression in a spiritual and integrative sense here; the entry does not establish a physical condition or treatment.
+- **Social/relationship:** Care that leaves nobody behind, expressed through inclusion, support, and helping others find prosperity.
+- **Events/manifestations:** The entry describes encouragement and the synthesis of ideas rather than a defined external event. Its unusual motif is excess brought toward greater awareness and balance.
+- **Conflicts/notes:** This is one source's account. Its positive interpretation of excess does not establish an overextension warning; split words such as `En couraging` and `Abil ity` are retained in the source passage.
 
 ## Related Activations
 
@@ -79,8 +92,9 @@ The healing of all schisms and boundaries in the process of creating complete ha
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Chiron`: uplifting wisdom: helping others beyond discouragement, restoring hope, harmonizing what has been split, and guiding people toward abundance and spiritual reconnection.
-- Chart expression: a healing force that works through generosity, inclusion, and synthesis. It can show the instinct to know exactly how to encourage, how to integrate conflicting energies, and how to make others feel cared for and not left behind. Its shadow can be overextension or trying to heal everything at once through sheer positivity.
+Jupiter/Chiron describes encouragement that restores a sense of connection: understanding what will help someone continue, bringing separated ideas or energies into a coherent whole, and making people feel included and cared for. Prosperity and enthusiasm belong to this wider movement toward participation and possibility ([Sandbach, Principle and Process](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+
+Sandbach also gives excess an unusual constructive role: pursuing something to an extreme can, in his account, bring it into greater awareness and balance. His language of healing and reconnection is spiritual interpretation; this pair entry does not supply a medical claim or an account of inevitable external events.
 
 ## Links
 

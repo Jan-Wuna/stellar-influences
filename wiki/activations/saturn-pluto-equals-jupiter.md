@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Jupiter`
 - Astronomicon formula: `W/Z = V`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Slow separation favored by good fortune. A developing separation ending in a fortunate decision. Luck through divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of legal problems, successful development in old age, successful development through separation, successful pain transformation, money exchange tasks, staggered money development, change through money losses, and growing financial losses
+- Source page: `352`; PDF page: `175`.
+
+Development of legal problems, successful development in old age, successful development through separation, successful pain transformation, money exchange tasks, disturbed money development, change through money losses, and growing financial losses
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0896`.
 
 Plain and simple, excessive modesty, inclination to sacrifice oneself for others, religious and social fanaticism, difficulties caused through illness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 One is enthusiastic about transcending one’s limits. Growth can meet with intense restrictions which one learns much from. An optimism that is intensely spiritual and which maintains itself even in the face of drastic hardships.
 
@@ -70,22 +80,21 @@ Portends a favorable outcome for the use of large expenditures of resources or e
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking growth or a favorable outcome within severe restrictions and costly changes.
+- psychology: Sustained optimism, modesty and self-sacrifice; fanaticism is also historically attributed.
+- body/health: Illness and pain are source examples without a specific diagnosis.
+- social/relationship: Fortunate separation and dealings with people who dispense power.
+- events/manifestations: Legal or financial problems, resource expenditure, reuse of waste and favorable divorce decisions.
+- conflicts/notes: Successful development and growing financial losses are both present; favorable results are conditional.
 
 ## Contradictions
 
-- None recorded yet.
+The entries allow favorable outcomes within hardship while retaining loss, illness and excessive conviction. They differ in emphasis rather than establishing one universal result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Jupiter`: institutional influence, far-reaching endurance, and the capacity to convert pressure into authority or leverage. Main caution: hard ambition: growth can become domineering, moralized, or indifferent to humane limits.
+In `Saturn/Pluto = Jupiter`, Jupiter specifies difficult development through the possibility of gain: separation may end favorably, patience through hardship may sustain growth, and large commitments of resources may have a useful outcome ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). The possibility is qualified by legal and financial losses in [ABC](#abc-entry), and by [Ebertin's](#ebertin-entry) modesty, self-sacrifice and potentially excessive conviction. Munkasey's reuse of waste gives a specific practical expression of finding further use in difficult material. None of these entries makes success or a medical outcome certain.
 
 ## Links
 

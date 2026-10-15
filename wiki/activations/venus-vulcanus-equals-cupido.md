@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Cupido`
 - Astronomicon formula: `Q/§ = ¡`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To push something forward with fervor. Longing and desiring changes.
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Cupido row; actual glyph and neighboring rows checked.
+
+Great sense of family. Great artistic ability. A great artists. Great attraction toward art and community. Great ability for organization.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of the female principle in the community, influence of the arts community, energy of a love community, common power through love, powerful community through harmony, and strong peace community
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Cupido row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: Influence of the feminine principle in the community, an influential artistic community, energy of a love community, shared power through love, a powerful community through harmony, and a strong peace community.
+
+## Comparative Schema
+
+- core meaning: Love and attraction expressed as family, artistic and communal strength.
+- psychology: Strong family feeling and attraction toward art or community.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Shared power through love and harmony within a community.
+- events/manifestations: Artistic and organizational ability, influential artistic communities and peace communities.
+- conflicts/notes: The former fervor/change paragraph belongs to Pluto. Witte's grammatical A great artists is retained as printed; ABC's feminine principle remains attributed symbolism.
+
+## Contradictions
+
+Family feeling, art, organization and communal harmony are compatible settings of shared influence. Their overlap does not establish that every community is harmonious.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Cupido`: to push something forward with fervor.
-- Practical expression: influence of the female principle in the community, influence of the arts community, energy of a love community, common power through love, and powerful community through harmony.
+In `Venus/Vulcanus = Cupido`, attraction becomes a shared force within family, art and community. The [Witte entry](#witte-entry) connects strong family feeling and attraction toward art or community with artistic and organizational ability. The [ABC entry](#abc-entry) describes communities strengthened through love and harmony, including artistic and peace communities. Together these give communal expression a concrete range without promising that every group has those abilities. ABC's feminine-principle image remains attributed source symbolism.
 
 ## Links
 

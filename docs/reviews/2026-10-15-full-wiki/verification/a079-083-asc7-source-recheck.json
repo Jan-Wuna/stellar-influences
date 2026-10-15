@@ -1,0 +1,104 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Seven new full reviews in080. Three ABC prose repairs, three ABC locator-only verifications, one preserved Munkasey repeated-factor entry; Sun Ebertin punctuation corrected to actual scan.",
+  "actual_source_inspection": [
+    "ABC PDF57 printed116–117 and Witte PDF88 matching six glyph-owned rows personally inspected.",
+    "Ebertin PDF277 printed275 Saturn0981,Sun0975,Venus0978 actual passages; Sun nervousness ends with period.",
+    "Sandbach PDF107–108 exact Sun across page break, Saturn and Venus108; Munkasey repeated-factor source preserved."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-zeus.md",
+      "old_abc": "Effortful environmental technology, beginning environmental reform, fireevents in the environment, running services of the partner, sudden efforts of a place, surprising tensions with the partner, and unrest by fire at the place",
+      "new_abc": "Strenuous environmental technology, beginning environmental reform, excited local leadership, a fire event in the environment, the partner's leadership achievements, sudden efforts at a location, surprising tensions with the partner, unrest through fire at the location.",
+      "printed_page": 117,
+      "finding": "Restored omitted erregte Orts-Führung and Führungs-Leistungen des Partners as local leadership and partner's leadership achievements, not running services. Eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-vulcanus.md",
+      "old_abc": "Unsettling environmental impact, energy of a dynamic partner, local violence event, technical environmental energy, local power stresses, new partner influence, strongly excited partner, and strong tensions in the environment",
+      "new_abc": "Unsettling environmental impact, energy of a dynamic partner, local violence event, technical environmental energy, local power stresses, new partner influence, strongly excited partner, and strong tensions in the environment",
+      "printed_page": 117,
+      "finding": "All eight ABC and Witte88 clauses verified; force, partner influence, technical energy and violent-event minority retained."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-uranus.md",
+      "old_abc": null,
+      "new_abc": null,
+      "printed_page": null,
+      "finding": "Single Munkasey With Itself passage preserved; restlessness and unusual expression remain conditional, with no independent corroboration claim."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-saturn.md",
+      "old_abc": "Exciting partner problems, local environmental technology, concentration on environmental technology, new environmental tasks, sudden separation from the partner, exposure to one place, and shocks and tensions at the site",
+      "new_abc": "Exciting partner problems, disturbed environmental technology, concentration on environmental technology, new environmental tasks, sudden separation from the partner, separation from others involving losses, surprising separation from a place, disturbances and tensions at the location.",
+      "printed_page": 117,
+      "finding": "Restored all eight Saturn clauses, including disturbed technology, separation involving losses and surprising departure from a place; removed exposure-to-one-place corruption."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-sun.md",
+      "old_abc": "Events with other men, new man as partner, corporal unrest of the partner, place and day of an event, personal excitement in the environment, personal events with others, tensions with a man's partner, and technical centre",
+      "new_abc": "Events with other people, a new man as partner, physical restlessness of the partner, the place and day of an event, personal excitement in the surroundings, personal events with others, tensions with a male partner, a technical center at the location.",
+      "printed_page": 116,
+      "finding": "Corrected other men to other people and a man's partner to a male partner; retained source-native male examples. Ebertin nervousness comma corrected to scan-confirmed period."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-venus.md",
+      "old_abc": "Harmonic partner impulses, art event on the spot, love surprise on the spot, new love partner, beauty impulses for the environment, tensions with the love partner, unrest in a place of peace, restless art place, and preference for environmental technology",
+      "new_abc": "Harmonic partner impulses, art event on the spot, love surprise on the spot, new love partner, beauty impulses for the environment, tensions with the love partner, unrest in a place of peace, restless art place, and preference for environmental technology",
+      "printed_page": 116,
+      "finding": "All nine ABC clauses verified; source prose preserved. Exact Ebertin275/PDF277/code0978 and Sandbach108 locators verified."
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-vernal-point.md",
+      "old_abc": "Events with others in public, excited partner in public, new public partners, public place of technology, public environmental technology, public environmental event, and tensions at a public place",
+      "new_abc": "Events with others in public, excited partner in public, new public partners, public place of technology, public environmental technology, public environmental event, and tensions at a public place",
+      "printed_page": 116,
+      "finding": "All seven ABC and Witte88 clauses verified; public meeting, technology and natural-force branches preserved."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-saturn.md",
+      "sha256": "3b7924ef0385cb28294810a72ce37a1815f60cb40fc6092a51b7e9f80792bc9b",
+      "source_section_sha256": "74e31f48f16ca76bea108b171d007712c38de5209d3759ff51567b57f4bdd667",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-sun.md",
+      "sha256": "3bd95c76a70e387dc012546c529f6bdc660285ef5482b14bfc472edc197ae223",
+      "source_section_sha256": "2552d179ee21e2623fe42f7867892bd09f357898f9e8970d4c79315124888df9",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-uranus.md",
+      "sha256": "f6951328b40cff4f2af681da8fc8796bf9269b69295c36b29eff7c6f9fedf7af",
+      "source_section_sha256": "163e5e88c90ed13db19466b56de9af699cc1b21f1bee90427eea10c0c9f1d6d2",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-venus.md",
+      "sha256": "543d158f0586e9ffbf99aa519993b1ca50002705662c67b226b4ea343661acb2",
+      "source_section_sha256": "14159dcd6ac24625daf61a24e208946c13e693da8a4ded545f80ff0f726a5d8d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-vernal-point.md",
+      "sha256": "c63d9c6a5bc67d6df6055cc8ef1253c7af51428c0a64b0699b7e20fdb55be7c2",
+      "source_section_sha256": "c14fe9652ea868d6c6c56cf1310fc95b5f6e9149c89f98cadc30428501406df5",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-vulcanus.md",
+      "sha256": "ce89eb99cdd1d2bb1d92285f44fa90815a547750e7f54118d772183c7ad0d188",
+      "source_section_sha256": "c9f1b220f2f6a9558f524cfdf0b10c63a13781943d2e92ae7046ecf4529c8737",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-asc-equals-zeus.md",
+      "sha256": "04a6bc41520566f0137c4eca016fc0ff539b14835f09766407403bdeb4c296fe",
+      "source_section_sha256": "20eee77e632dce2a616b1caec158eb2011a308bf7f7cc811d9e187a7f5903789",
+      "outcome": "changed"
+    }
+  ]
+}

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Node MC Vulcanus](../triads/node-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To be involved in violent measures, to suffer from them. Connected with great me
 
 #### ABC Entry
 
-In order to create a slarken soul, powerful soul prevention, my intervention in a connection, my encounter with violence, my strong ties, my attraction to power, and strong psychic connection
+Encounter with a strong soul, influential emotional relationship, powerful soul connection, my influence in a connection, my encounter with violence, my strong connections, my relationship with power, strong emotional connection.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 155; [ABC Entry](#abc-entry), printed p. 236, PDF p. 117.
+
+- Core meaning: Personal involvement in powerful connections and forces.
+- Psychology: Strong inner bonds and one's own influence within a relationship.
+- Body/health: Witte mentions suffering from violence, without a specific diagnosis.
+- Social/relationship: Powerful emotional ties and personal relationships to power.
+- Events/manifestations: Encountering force or becoming connected with great mechanical forces.
+- Conflicts/notes: Strong inner connection does not establish a paranormal faculty.
+
+## Contradictions
+
+The mechanical and violent examples in Witte coexist with ABC's inward relationship language. They are different possible contexts, not a single required event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = MC`: To be involved in violent measures, to suffer from them. Connected with great mechanical forces. To have mighty connections.
-- Practical focus: to be involved in violent measures, to suffer from them; also connected with great mechanical forces.
+MC specifies `Node/Vulcanus` through one's personal involvement in strong relationships and forces. The [Witte Entry](#witte-entry) includes powerful connections, great mechanical forces and suffering from violent measures; the restored [ABC Entry](#abc-entry) adds inner or emotional bonds and one's own influence in a connection. The focus is how power becomes personally consequential, without requiring either victimhood or control in every instance.
 
 ## Links
 

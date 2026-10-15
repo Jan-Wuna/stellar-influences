@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md)
-- [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md)
-- [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Neptune = Venus](../activations/sun-neptune-equals-venus.md) | [Sun/Neptune](../axes/sun-neptune.md) | [Venus](../factors/venus.md) |
+| [Sun/Venus = Neptune](../activations/sun-venus-equals-neptune.md) | [Sun/Venus](../axes/sun-venus.md) | [Neptune](../factors/neptune.md) |
+| [Venus/Neptune = Sun](../activations/venus-neptune-equals-sun.md) | [Venus/Neptune](../axes/venus-neptune.md) | [Sun](../factors/sun.md) |
 
 ## Source Coverage
 
-- `Sun/Neptune = Venus`: Michael, page `84`
-- `Sun/Venus = Neptune`: Michael, page `64`
-- `Venus/Neptune = Sun`: Michael, page `204`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Sun/Neptune = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-neptune-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-neptune-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-neptune-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-neptune-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-neptune-equals-venus.md#munkasey-entry), printed p. `84`.
+- `Sun/Venus = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-venus-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-venus-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-venus-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-venus-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-venus-equals-neptune.md#munkasey-entry), printed p. `64`.
+- `Venus/Neptune = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-neptune-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-neptune-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-neptune-equals-sun.md#munkasey-entry), printed p. `204`.
+
+Coverage limitation: Sun/Venus = Neptune retains ABC's literal personal harmony in the air without a specified concrete setting or mechanism.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

@@ -11,6 +11,9 @@ normalized_axis: Jupiter/MC
 factor_a: Jupiter
 factor_b: MC
 related_activations:
+  - Jupiter/MC = Chiron
+  - Jupiter/MC = Jupiter
+  - Jupiter/MC = MC
   - Jupiter/MC = Admetos
   - Jupiter/MC = Apollon
   - Jupiter/MC = Asc
@@ -32,6 +35,7 @@ related_activations:
   - Jupiter/MC = Vulcanus
   - Jupiter/MC = Zeus
 related_triad_hubs:
+  - Jupiter Chiron MC
   - Jupiter Asc MC
   - Jupiter MC Admetos
   - Jupiter MC Apollon
@@ -71,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `V/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `JUPITER/MIDHEAVEN`
-- Source page: `279`
+- Source heading: `MERIDIAN + JUPITER`
+- PDF page: `65`
 
 #### Pair Summary
 
@@ -84,9 +90,11 @@ Blissful feelings. To be positive of one’s own direction in life. An optimist.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `74–75`; PDF page: `36`.
+
 #### ABC Pair Summary
 
-Successful Soul, Cliicks Minute, My Success, My Money, My Cluck, My Right, My Advantage, My Joy, My Giite, My Speed, Soul Joy, and Schelic Satisfaction
+Successful soul, moment of good fortune, my success, my money, my good fortune, my right, my advantage, my joy, my kindness, my speed, soul's joy, inner satisfaction, and self-satisfaction.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -129,7 +137,7 @@ Personal growth, reaching out to attain one's objectives, moving toward one's en
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/MIDHEAVEN`
-- Source page: `279`
+- Printed page: `279`; PDF page: `280` (complete native categories checked against actual page).
 
 #### Basic Ideas
 
@@ -170,14 +178,18 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- **Core meaning:** Optimism directed toward a purpose, personal growth, and finding a satisfying place in the world ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Hand](#robert-hand---horoscope-symbols)).
+- **Psychology:** Contentment, generosity, and enthusiasm support aspiration; compensating for inner lack through status or attempting too much are stated difficulties ([Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints); [Banzhaf/Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology)).
+- **Body/health:** Ebertin associates the pair with hygiene and maintaining health. Munkasey's claims about genetic abnormalities and familial drug dependence remain attributed historical assertions, not established causes or individual medical findings.
+- **Social/relationship:** Learning from elders or authority figures, gaining respect, receiving helpful support, and growing through a partner's experiences connect personal direction with other people.
+- **Events/manifestations:** Advancement, a new position, credentials, recognition, and changes in occupation are named possibilities. Munkasey separately applies the theme to executive plans, law, and leadership ethics on printed p. 279.
+- **Conflicts/notes:** Success and excessive status striving are conditional alternatives. ABC also names speed, personal kindness, and inner satisfaction. Actual Munkasey printed279/PDF280 prints `help you an inner personal wisdom` and `people and their how to motivate them`; these grammatical irregularities are retained without supplying missing wording.
 
 ## Related Activations
+
+- [Jupiter/MC = Chiron](../activations/jupiter-mc-equals-chiron.md)
+- [Jupiter/MC = Jupiter](../activations/jupiter-mc-equals-jupiter.md)
+- [Jupiter/MC = MC](../activations/jupiter-mc-equals-mc.md)
 
 - [Jupiter/MC = Admetos](../activations/jupiter-mc-equals-admetos.md)
 - [Jupiter/MC = Apollon](../activations/jupiter-mc-equals-apollon.md)
@@ -202,17 +214,18 @@ Genetic patterns or abnormalities from gracious living, or from being unable to 
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Contentment, purposeful growth, and ambition overlap across the entries, while their warnings concern arrogance, disproportionate goals, or using status to compensate for dissatisfaction. These are differences of expression rather than a direct doctrinal contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC` is the axis of optimistic life direction, public growth, success, and the desire to realize a meaningful or honorable place in the world. It combines expansion, wisdom, ethics, and opportunity with vocation, status, self-direction, and the shaping of one's public role.
-- Chart expression: confidence in one's path, generosity, social or professional advancement, respect, and the sense that life should open outward through achievement, learning, or moral purpose. Liabilities: arrogance, over-idealized ambitions, status inflation, and a tendency to drift between philosophies or roles without grounding them in lived reality.
+Jupiter/MC concerns confidence in a direction and the wish to grow into a satisfying place in the world. Personal aims, learning, and the respect of others meet in aspirations that can bring advancement or contentment. A sense of purpose matters alongside outward success: the entries include spiritual growth, learning from elders, and discovering what one's position can mean ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences); [Hand](#robert-hand---horoscope-symbols); [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+
+The same aspiration can become disproportionate when recognition compensates for inner dissatisfaction or goals exceed what can be carried out. The ethical and philosophical strand asks how guiding principles shape conduct and leadership; it also includes difficulty settling on or adapting those principles. Neither career success nor excessive ambition is automatic ([Banzhaf/Haebler, PDF p. 330](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology); [Munkasey, printed p. 279](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)).
 
 ## Links
+
+- [Jupiter Chiron MC](../triads/jupiter-chiron-mc.md)
 
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)

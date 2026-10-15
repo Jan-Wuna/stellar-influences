@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars MC](../triads/venus-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ To inflame. Desire. Intimate acquaintances. Personal relation or attitude toward
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-I want to create harmony, the manly in my wife, the feminine in my husband, my work for peace: my artistic work, my love actions, and soul harmony
+Soulful peace work, I want harmony, the masculine in my wife, the feminine in my husband, my work for peace, my artistic work, my acts of love, and creating harmony of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `177`, coded entry `0589`.
 
 #### Ebertin Entry
 
 Pronounced sensuality in individual attitude to physical love. The desire to become one with the other in soul and body, establishment of sex relationship (marriage).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `56` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Fulfillment of your need for pleasure from another; the experience of being able
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal desire, devotion in work, and the wish for intimate union.
+- Psychology: Sensuality, enjoyment with another, and control of anger; efficiency can serve spiritual aims.
+- Body/health: Ebertin describes physical love and union in body and soul without a medical assertion.
+- Social/relationship: Intimate acquaintances, kinship, family origins, and pleasure shared with another.
+- Events/manifestations: Work with love, clearly defined professional tasks, artistic work, and creating inner harmony.
+- Conflicts/notes: Sandbach's professional effectiveness is one emphasis; the other entries center personal affection and intimacy.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's professional effectiveness is one emphasis; the other entries center personal affection and intimacy.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = MC`: artistic drive, passionate work, and the ability to advance through charm joined to execution. Main caution: publicized desire: vocation can become too entangled with sensuality, rivalry, or personal craving rather than mature direction.
+`Venus/Mars = MC` makes desire and devoted activity personally significant. [Witte](#witte-entry) joins intimate acquaintances and kinship to working with love, while [Ebertin](#ebertin-entry) describes the wish for union in soul and body. The [ABC entry](#abc-entry) adds personal artistic and peace work and creating inner harmony, using historical gendered images within marriage. [Sandbach](#sandbach-entry) directs effectiveness toward spiritual aims and clearly defined professional tasks. [Munkasey](#munkasey-entry) returns to shared pleasure, family origins, and personal control of anger. The orientation therefore connects what one desires with how one works, relates, and gives that desire a practical form.
 
 ## Links
 

@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Saturn Chiron Asc`
 - Astronomicon triad-set: `W Chiron Asc`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/Asc = Saturn](../activations/chiron-asc-equals-saturn.md)
-- [Saturn/Asc = Chiron](../activations/saturn-asc-equals-chiron.md)
-- [Saturn/Chiron = Asc](../activations/saturn-chiron-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Asc = Saturn](../activations/chiron-asc-equals-saturn.md) | [Chiron/Asc](../axes/chiron-asc.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Asc = Chiron](../activations/saturn-asc-equals-chiron.md) | [Saturn/Asc](../axes/saturn-asc.md) | [Chiron](../factors/chiron.md) |
+| [Saturn/Chiron = Asc](../activations/saturn-chiron-equals-asc.md) | [Saturn/Chiron](../axes/saturn-chiron.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Chiron/Asc = Saturn`: John, page `101`
-- `Saturn/Asc = Chiron`: John, page `94`
-- `Saturn/Chiron = Asc`: John, page `87`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/Asc = Saturn`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-asc-equals-saturn.md#sandbach-entry), one-based PDF chapter-start p. `101`.
+- `Saturn/Asc = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-asc-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `94`.
+- `Saturn/Chiron = Asc`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-chiron-equals-asc.md#sandbach-entry), one-based PDF chapter-start p. `87`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Saturn`: identity healing through confronting fear, rigidity, and defended self-definition. Main caution: treating caution or separation as safety when they actually preserve the wound.
-- `Saturn/Asc = Chiron` uses the native's presence and way of relating to steady others through inadequacy, fear, or guardedness. It favors deep, serious contact that helps people identify with a more spiritual self; the caution is to avoid making help feel corrective, severe, or judgmental.
-- `Saturn/Chiron = Asc` expresses Saturn/Chiron through the personality and immediate field of contact. The person may radiate a stabilizing, clarifying, and organizing influence that helps others focus; the caution is heaviness or over-responsibility in how that influence is carried.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

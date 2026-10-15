@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Uranus](../triads/sun-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Toughens your resolution to be a bruising and non-stop competitor; adds to your 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Activity proceeding in sudden, excited, or irregular bursts.
+- psychology: Impulsiveness, independent projects, or inventive accomplishment.
+- body/health: Overtaxing and indifference to pain are attributed examples.
+- social/relationship: Forceful competition and Witte’s violence examples.
+- events/manifestations: Sudden changes, work snags, or vocational adjustment.
+- conflicts/notes: Sporadic effort and determined competition remain distinct possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from ingenious independent work to hastiness and violence without claiming all must occur together. Military call-up is an attributed contextual example, not an automatic event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Uranus`: technical ingenuity, bold initiative, and rapid adaptation when old methods are too slow. Main caution: instability: premature action, excitement, or sporadic effort can create accidents, reversals, or wasted force.
+In `Sun/Mars = Uranus`, Uranus specifies Sun/Mars activity through sudden impetus and an uneven or excited pattern of effort. The [Ebertin Entry](#ebertin-entry) connects hastiness with adjustment to new circumstances, while the [Sandbach Entry](#sandbach-entry) includes sporadic accomplishment and ingenious independent projects. The [Munkasey Entry](#munkasey-entry) adds relentless competition alongside unexpected snags. The supported range includes both inventive ways to act and disruptive pressure; Witte’s violent examples remain particular possibilities rather than the whole meaning.
 
 ## Links
 

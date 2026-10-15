@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Increases desire for position and power in life, and brings a need to work with 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seeking position and power through other people.
+- psychology: Ambition can make another person's potential a means to one's own aims.
+- body/health: No bodily condition is specified.
+- social/relationship: Instrumental or punishing relationships are explicit.
+- events/manifestations: Using contacts to advance personal intentions.
+- conflicts/notes: This is one Munkasey entry, not independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+Only one account is present; its emphasis is instrumental power and punishment rather than mutual benefit.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Pluto`: Increases desire for position and power in life, and brings a need to work with and thru the potentials others offer to accomplish this; encourages one to use others for one's own purposes or intentions; punishing relationships.
+In `Pluto/Node = Pluto`, Pluto specifies the pair through an intensified pursuit of position and power through relationships. Other people's capacities become resources for one's intentions; the entry's reference to punishing relationships makes the cost of treating people instrumentally central to the reading. This is the bounded account in the [Munkasey entry](#munkasey-entry), printed p. 346.
 
 ## Links
 

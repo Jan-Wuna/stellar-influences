@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Saturn`
 - Astronomicon formula: `Y/£ = W`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Distilling of alcohol by fire. Damages caused by burning gases.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Interchangeable fire losses, serious efforts in metaphysics, fatigue weakness in old age, patient efforts in the future, problems with fire water, mature intuitive performance, and separation from a weak movement
+Disappointing fire losses, serious efforts in metaphysics, weak leadership in old age, patient efforts for the future, problems with Feuer-Wasser, mature intuitive performance, and separation from weak leadership
+
+The chapter heading glosses Feuer-Wasser as alcohol (printed p. 396, PDF p. 197).
+
+## Comparative Schema
+
+- core meaning: loss and weak leadership alongside patient effort and mature intuition.
+- psychology: serious metaphysical work and patience for future goals are explicit.
+- body/health: the age-related leadership phrase does not establish bodily fatigue or a diagnosis.
+- social/relationship: separation from weak leadership is named.
+- events/manifestations: distilling alcohol by fire and damage from burning gases are Witte's examples.
+- conflicts/notes: distillation is not itself stated to be obstructed or harmful.
+
+## Contradictions
+
+Witte's distillation and gas damage are distinct examples. ABC adds patience, mature intuition and separation from weak leadership as well as losses.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Saturn`: Distilling of alcohol by fire. Damages caused by burning gases.
-- Fire and volatile substances meet obstruction and damage, pointing to distillation, burn-related loss, or harm caused by dangerous gases.
-- Practical expression: interchangeable fire losses, serious efforts in metaphysics, fatigue weakness in old age, patient efforts in the future, and problems with fire water.
+Neptune/Zeus = Saturn combines possible loss or weak direction with sustained, mature effort. [Witte](#witte-entry) lists alcohol distillation and damage from burning gases. [ABC](#abc-entry) adds patient efforts for the future, mature intuitive performance and separation from weak leadership, beside fire losses and problems with Feuer-Wasser, glossed as alcohol (printed pp. 396–397, PDF p. 197). These passages do not make all patient work unsuccessful or all distillation harmful.
 
 ## Links
 

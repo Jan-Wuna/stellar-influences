@@ -32,10 +32,14 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/T = Asc`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
 - Triad hub: [Moon Mercury Asc](../triads/moon-mercury-asc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
 
 #### Witte Entry
 
@@ -43,17 +47,25 @@ Acquaintance with the young, especially with young girls. To be with other peopl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
 mobile women at the place, women's conversations in the environment, emotional conversations with the partner, youth of other peoples, young woman as partner, opinion of the woman about the environment, news about other peoples, language of other peoples, and hour of the media at the place
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `115`, entry `0336`.
+
 #### Ebertin Entry
 
 Love of conversation or talk. An active exchange of thoughts. An acquaintance dating from one's youth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF pp. `26-27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +82,23 @@ Concentrating on the need to convey emotion when speaking or talking with others
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: communicating feelings and exchanging thoughts in encounters with others ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: outward emotional flexibility and recognition of emotion through another person's speech are emphasized.
+- body/health: these entries state no specific bodily or health condition.
+- social/relationship: intimate exchanges, conversation with a partner, and acquaintances dating from youth are explicit examples.
+- events/manifestations: Witte also lists business-hour contact, work with vehicles, and youth associations; these are more specific than the general conversation theme.
+- conflicts/notes: the ABC's final media-hour wording is literal but interpretively unclear, so it does not support a confident media prediction; no entry establishes a general nervous or excessively chatty temperament.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share an interpersonal setting without stating a direct contradiction. Witte's occupational and youth examples, Sandbach's outward role, and Munkasey's perception of others through speech address different facets; their overlap does not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Asc`: social quickness, intuitive communication, and the ability to make inner states immediately legible to others. Main caution: nervous subjectivity: presence can become too reactive, chatty, or mood-driven to stay proportionate.
+In `Moon/Mercury = Asc`, Asc specifies the Moon/Mercury pair through direct exchange with other people: feelings seek expression in conversation, and speech becomes a way to recognize another person's emotional state. The [Ebertin entry](#ebertin-entry) stresses active exchange, [Sandbach](#sandbach-entry) describes an outwardly flexible role and a need to communicate feelings in relationships, and [Munkasey](#munkasey-entry) connects emotional expression with listening to speech patterns (p. 104).
+
+This orientation therefore centers on emotional communication within an encounter. The [Witte entry](#witte-entry) preserves concrete settings such as youth acquaintances, business hours, and work with vehicles; these do not justify a universal claim that the person is nervous, reactive, or unusually transparent to others.
 
 ## Links
 

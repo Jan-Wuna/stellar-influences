@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Pluto = Mercury`
 - Astronomicon formula: `X/Z = T`
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 235, `URANUS + PLUTO`, Mercury entry.
+
 #### Witte Entry
 
 Disconnected or disturbed thoughts. To quickly absorb new things. Sudden change of opinion and knowledge.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 372 (PDF p. 185), Uranus/Pluto spread, Mercury entry.
+
 #### ABC Entry
 
-Reports of growing tensions, eventful youth development, youth development impulses, talk about exciting changes, new traffic developments, sudden language changes, and troubled youth development
+Reports about growing tensions, eventful development among young people, developmental impulses of young people, conversations about exciting changes, new transport developments, sudden change of language, and restless development of young people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 269 (PDF p. 271), code `0953`.
 
 #### Ebertin Entry
 
 An intense thought-activity, restless mind, indefatigable mental worker, creative activity, an inventive and resourceful person. The constant occupation with new things and plans.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Pluto midpoint`, Mercury entry (chapter begins on PDF p. 105).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Enhances manual dexterity and adept thinking which helps you create in reality t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intense mental activity and communication that brings new understanding. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Restless, inventive thinking and rapid absorption of new things. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Munkasey's manual dexterity is a functional claim, not a medical condition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Rational discussion of change and original communication that makes others aware of it. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: New plans, changed opinion or knowledge, youth development and transport or language changes. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Rational discussion and disconnected or disturbed thoughts are different possibilities, not a diagnosis or inevitable fanaticism. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Witte places disturbed thoughts beside quick learning; Ebertin and Munkasey emphasize inventive work and rational implementation. These differing expressions leave the clarity of a particular idea open.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Mercury`: revolutionary ideas, technical or strategic disruption, and the ability to force mental or social reorganization through words and insight. Main caution: destructive thinking: speech can become fanatical, destabilizing, or too committed to shock and provocation.
+Mercury specifies Uranus/Pluto through intense thinking and communication that can alter understanding quickly. Rapid learning, original ideas and practical dexterity can bring plans into reality or make others aware of a need for change. Disconnected thoughts and restlessness remain alongside rational discussion, so the force or novelty of an idea does not establish its clarity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

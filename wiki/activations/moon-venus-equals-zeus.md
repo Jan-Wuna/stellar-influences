@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/Q = £`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
 - Triad hub: [Moon Venus Zeus](../triads/moon-venus-zeus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,20 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: PDF p. 123.
+
 Sweetheart. Betrothal. Wish to become a mother. Increase of family.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Fiery love of the woman, peace performance of a people, felicitous love witness, creative joy of a woman, harmony strike of the woman, creative harmonious woman, achievements of the people art, goals of a gentle woman, and hour of love witness
+- Source passage: printed p. 179; PDF p. 88.
+
+Fiery love of the woman, achievements for peace by a people, emotion-filled procreation in love, a woman's joy in creating, a woman's striving for harmony, a creative harmonious woman, achievements in folk art, a beautiful woman's goals, and the hour of procreation in love.
+
+Editorial translation checked against the German entry and Zeus row symbol in the scan, printed p. 179 (PDF p. 88).
+
+## Comparative Schema
+
+- core meaning: affection directed toward commitment, family increase, or creative expression ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: the wish to become a mother and creative joy are explicit motivations in the entries; they remain particular examples.
+- body/health: family increase and desired motherhood are named without a medical account ([Witte](#witte-entry)).
+- social/relationship: a sweetheart and betrothal give the relationship setting ([Witte](#witte-entry)).
+- events/manifestations: betrothal, an increase of family, and creative activity are the clear examples ([Witte](#witte-entry), [ABC](#abc-entry)).
+- conflicts/notes: ABC's procreation, folk art, and collective achievements for peace extend the range beyond courtship; gendered examples remain attributed.
+
+## Contradictions
+
+Witte emphasizes courtship and family; ABC includes fiery love, procreation, and creativity alongside collective achievements. These emphases do not explicitly conflict, but the collective examples are not stated by Witte.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Zeus`: Sweetheart. Betrothal. Wish to become a mother. Increase of family.
-- Practical focus: `Moon/Venus` is energized through betrothal, desire for motherhood, and active increase of family life. It turns affection toward generation, commitment, and the wish to make love fruitful and concrete.
-- Practical expression: fiery love of the woman, peace performance of a people, felicitous love witness, creative joy of a woman, and harmony strike of the woman.
+Zeus specifies Moon/Venus through affection seeking a concrete expression in commitment, family, or creation. [Witte's sweetheart, betrothal, and wish for motherhood](#witte-entry) describe relationship and family possibilities; [ABC](#abc-entry) adds fiery love, procreation, and creative joy. Its folk-art and peace-achievement examples widen the scale of creation. The shared thread is feeling directed toward bringing something about, without making marriage, motherhood, or any gendered example a necessary outcome.
 
 ## Links
 

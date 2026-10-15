@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Kronos/Admetos = Hades`
 - Astronomicon formula: `¤/¦ = ¢`
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 300, Kronos + Admetos, oriented activator row.
+
 Odd and difficult to detect evil deeds and concealed meanness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special perseverance in need, restriction of state traditions, deprivation by state restrictions, great grief by depression, adverse blockade of self governingness, and illegitimate resistance to criminality
+- Source reference: printed p. 463; one-based PDF p. 230, Kronos + Admetos, oriented activator row.
+
+Special perseverance in need, restriction of state traditions, deprivation through state restrictions, great sorrow through depressions, a disadvantageous blockage of independence, and superior resistance to criminality.
+
+## Comparative Schema
+
+- core meaning: Hidden wrongdoing in Witte differs from deprivation, perseverance and resistance to crime in ABC.
+- psychology: Sorrow through depressions and perseverance in need are explicit source expressions.
+- body/health: ABC's depressions are attributed historical language without a clinical diagnosis.
+- social/relationship: State traditions, state restrictions, blocked independence and resistance to criminality.
+- events/manifestations: Difficult-to-detect evil deeds and concealed meanness in Witte; deprivation and resistance in ABC.
+- conflicts/notes: ABC says superior resistance to criminality, not illegitimate resistance. Hidden wrongdoing must not be made a consequence of seclusion or social position.
+
+## Contradictions
+
+Witte gives concealed wrongdoing; ABC explicitly includes resistance to criminality, alongside need and deprivation. These differ materially in moral direction and cannot be merged into a single account of covert evil.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Hades`: odd, difficult-to-detect evil, concealed meanness, and degraded conduct masked by separation, secrecy, or special position.
-- Chart expression: covert wrongdoing inside exclusive conditions and warns that abnormal status can hide baseness or treachery.
+`Kronos/Admetos = Hades` preserves a material difference between its entries. [Witte](#witte-entry) describes difficult-to-detect evil deeds and concealed meanness. [ABC](#abc-entry) instead includes perseverance in need, deprivation through state restrictions and superior resistance to criminality. Sorrow and blocked independence belong to that second account; neither entry says a special position itself causes wrongdoing.
 
 ## Links
 

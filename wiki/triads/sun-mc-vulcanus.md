@@ -28,27 +28,38 @@ updated_at: 2026-05-04
 - Triad-set: `Sun MC Vulcanus`
 - Astronomicon triad-set: `S MC §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Vulcanus = Sun](../activations/mc-vulcanus-equals-sun.md)
-- [Sun/MC = Vulcanus](../activations/sun-mc-equals-vulcanus.md)
-- [Sun/Vulcanus = MC](../activations/sun-vulcanus-equals-mc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Vulcanus = Sun](../activations/mc-vulcanus-equals-sun.md) | [MC/Vulcanus](../axes/mc-vulcanus.md) | [Sun](../factors/sun.md) |
+| [Sun/MC = Vulcanus](../activations/sun-mc-equals-vulcanus.md) | [Sun/MC](../axes/sun-mc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Sun/Vulcanus = MC](../activations/sun-vulcanus-equals-mc.md) | [Sun/Vulcanus](../axes/sun-vulcanus.md) | [MC](../factors/mc.md) |
 
 ## Source Coverage
 
-- `MC/Vulcanus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `96`
-- `Sun/MC = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `59`
-- `Sun/MC = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `63`
-- `Sun/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `117`
-- `Sun/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `170`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Vulcanus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-vulcanus-equals-sun.md#witte-entry), one-based PDF entry-start p. `76`.
+- `MC/Vulcanus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-vulcanus-equals-sun.md#abc-entry), printed p. `96`.
+- `Sun/MC = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mc-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `59`.
+- `Sun/MC = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mc-equals-vulcanus.md#abc-entry), printed p. `63`.
+- `Sun/Vulcanus = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-vulcanus-equals-mc.md#witte-entry), one-based PDF entry-start p. `117`.
+- `Sun/Vulcanus = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-vulcanus-equals-mc.md#abc-entry), printed p. `170`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Sun`: embodies the axis in great physical strength and vigorous use of power.
-- `Sun/MC = Vulcanus`: This formula emphasizes forceful direction and strong worldly impact.
-- `Sun/Vulcanus = MC`: This formula emphasizes powerful direction and strong worldly impact.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

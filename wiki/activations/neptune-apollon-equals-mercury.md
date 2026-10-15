@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Mercury`
 - Astronomicon formula: `Y/¥ = T`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 To be mistaken in thinking, opinions and conversations or to unmask deceptions. To explain errors.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `400`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Spread of traffic uncertainty, reports on water economy, exchange media freedom, successful talk about intuition, report on future knowledge, catchy air movement, unclear knowledge spreading, and increasing water traffic
+Spread of traffic uncertainty, reports on water management, disappointing media freedom, successful conversations about intuition, reports on knowledge of the future, extensive air movement, unclear dissemination of knowledge, and increasing water traffic
+
+## Comparative Schema
+
+- core meaning: mistaken thought or conversation and the possibility of explaining or exposing error.
+- psychology: opinions and uncertainty are named without a fixed trait claim.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: media freedom, conversations, and dissemination of knowledge are ABC settings.
+- events/manifestations: unmasking deception, explaining errors, reports on water management, and transport movement are stated.
+- conflicts/notes: error and its correction are separate possibilities; uncertain reporting does not itself prove fraud.
+
+## Contradictions
+
+Witte includes both being mistaken and unmasking deception. ABC's knowledge dissemination and transport examples do not determine which role a particular speaker occupies.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Mercury`: To be mistaken in thinking, opinions and conversations or to unmask deceptions. To explain errors.
-- Practical focus: interprets `Neptune/Apollon` through mistaken thought, misleading speech, and the attempt to unmask error. It makes big uncertainty cognitive, so the axis works through conversations, explanations, theories, and the tension between confusion and correction.
-- Practical expression: spread of traffic uncertainty, reports on water economy, exchange media freedom, successful talk about intuition, and report on future knowledge.
+In Neptune/Apollon = Mercury, Mercury specifies the pair through thought and communication that may contain error or expose it. The [Witte entry](#witte-entry) explicitly names mistaken opinions, unmasking deception, and explaining errors; [ABC](#abc-entry) adds unclear knowledge dissemination, media-freedom disappointment, and reports about intuition or the future (printed p. 400, PDF p. 199). Its traffic, air, and water examples remain distinct settings. The orientation does not certify either a claim or its correction.
 
 ## Links
 

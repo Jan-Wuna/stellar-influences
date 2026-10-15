@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Hades](../triads/vernal-point-moon-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Diseased womb. Debilitated old woman. The grandmother. Poor inhabitants. Poor nation.
 
@@ -42,13 +46,27 @@ Diseased womb. Debilitated old woman. The grandmother. Poor inhabitants. Poor na
 
 #### ABC Entry
 
-Disadvantaged women in public, women's crime in public life, criminality against women in public, lack of feeling in public life, need of mother in the world, and hour of danger in public
+- Source page: 25; PDF page: 11 (one-based spread).
+
+Disadvantaged women in public, women's crime in public life, crime against women in public, lack of feeling in public life, distress of mothers in the world, and an hour of public danger
+
+## Comparative Schema
+
+- core meaning: Public collective life affected by deprivation, danger, or deficient feeling.
+- psychology: Lack of feeling and mothers' distress are explicit.
+- body/health: Witte names a diseased womb and a debilitated older woman as attributed associations.
+- social/relationship: Disadvantaged women, poor inhabitants, and a poor nation.
+- events/manifestations: Crime by women and crime against women are distinct examples.
+- conflicts/notes: Grandmother is a kinship example and does not imply illness or criminality.
+
+## Contradictions
+
+Kinship and age examples must remain separate from disease, poverty, or crime. Crime by women and crime against them also describe different positions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Hades`: diseased womb, debilitated old woman, the grandmother, poor inhabitants, and poor nation.
-- Practical expression: disadvantaged women in public, women's crime in public life, criminality against women in public, lack of feeling in public life, and need of mother in the world.
+In `Vernal Point/Moon = Hades`, public feeling and the sources' examples of women are considered under deprivation or danger. The [Witte entry](#witte-entry) includes poverty, age, kinship, and specific bodily associations. The restored [ABC entry](#abc-entry) adds disadvantage, deficient feeling, mothers' distress, and distinct examples of crime by and against women. The reading retains these as attributed possibilities without turning motherhood, age, or kinship into an adverse condition.
 
 ## Links
 

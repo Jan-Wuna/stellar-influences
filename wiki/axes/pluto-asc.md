@@ -11,6 +11,8 @@ normalized_axis: Pluto/Asc
 factor_a: Pluto
 factor_b: Asc
 related_activations:
+  - Pluto/Asc = Asc
+  - Pluto/Asc = Pluto
   - Pluto/Asc = Admetos
   - Pluto/Asc = Apollon
   - Pluto/Asc = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Z/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `PLUTO/ASCENDANT`
-- Source page: `347`
+- Source heading: `ASCENDANT + PLUTO`
+- PDF page: `90`
 
 #### Pair Summary
 
@@ -91,6 +95,8 @@ Other people are changeable. Changes in relation to others. Changes at the place
 Others change, change of location, partner development, partner change, transformation place, change of environment, and increase of environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `294`; PDF page: `296` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -110,7 +116,7 @@ People exercising a fascinating power or influence upon others through their own
 
 #### Probable Manifestations
 
-+ Desire to attain success in life at all costs, making unusual contacts or acquaintances, a readjustment of conditions or circumstances. - Violent disputes, quarrels, injuries, accidents. A drastic or radical change of one's circumstances in life. Pluto/Ascendant WA
++ Desire to attain success in life at all costs, making unusual contacts or acquaintances, a readjustment of conditions or circumstances. - Violent disputes, quarrels, injuries, accidents. A drastic or radical change of one's circumstances in life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -168,18 +174,21 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 #### Banzhaf/Haebler Aspect Keywords
 
 - harmony: The Hypnotist. Capable of mobilizing enormous powers of the soul and thereby controlling, guiding, or influencing other people. Strong-willed, assertive, resolute. Charismatic aura. Able and willing to accompany other people through the crises and depths of life.
-- discord: The Shady Character. Difficulty in dealing with one's own striving for power and sexual energies. Has an effect of being dark, mysterious, and sometimes subdued and in low spirits. Dominating, overbearing conduct. Craving for control and misuse of power. Pluto-Medium Coeli HARMONY: The High-Powered Person.
+- discord: The Shady Character. Difficulty in dealing with one's own striving for power and sexual energies. Has an effect of being dark, mysterious, and sometimes subdued and in low spirits. Dominating, overbearing conduct. Craving for control and misuse of power.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: change in close encounters and the immediate environment, with a strong emphasis on personal influence and control ([Pair Summary](#pair-summary); [Principle](#principle); [Pair Delineation](#pair-delineation)).
+- psychology: concentrated observation, intense identification, charisma, and difficulty releasing a self-image can lead either to insight or struggles for control ([Sandbach's Principle](#principle-1); [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin associates the pair with physical transformation, disease onset, and convalescence; Munkasey names endocrine functions and environmental exposures. These are attributed historical correspondences, not diagnoses ([Biological Correspondence](#biological-correspondence); [With Body or Mind](#with-body-or-mind)).
+- social/relationship: powerful encounters, attraction to strong-minded people, sexual intensity, and the ability to support people through crisis sit alongside domination or repression ([Pair Delineation](#pair-delineation); [In Your Relationships](#in-your-relationships); [Aspect Keywords](#banzhafhaebler-aspect-keywords)).
+- events/manifestations: changes of residence or surroundings, radical changes in circumstances, disputes, and environmental inspection or waste disposal are source examples ([Pair Summary](#pair-summary); [Probable Manifestations](#probable-manifestations); [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: changing place and exerting personal power are different emphases. The Banzhaf/Haebler discord entry ends with an apparent next-entry heading, “Pluto-Medium Coeli HARMONY: The High-Powered Person,” which is excluded from this axis's interpretation.
 
 ## Related Activations
+
+- [Pluto/Asc = Asc](../activations/pluto-asc-equals-asc.md)
+- [Pluto/Asc = Pluto](../activations/pluto-asc-equals-pluto.md)
 
 - [Pluto/Asc = Admetos](../activations/pluto-asc-equals-admetos.md)
 - [Pluto/Asc = Apollon](../activations/pluto-asc-equals-apollon.md)
@@ -205,15 +214,14 @@ Endocrine and pituitary gland functions; reactions toxic or waste matter in the 
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+Changing surroundings, transforming relationships and trying to control others are distinct source claims. Support through crisis and ruthless domination remain alternative uses of influence. Banzhaf's complete Pluto-Ascendant harmony and discord end before the Pluto-Medium Coeli heading on PDF343; that next-entry contamination has been removed. Ebertin's complete pair ends on printed294/PDF296, with its following heading likewise excluded.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc` is the axis of intense personal impact, transformative encounters, and power in the immediate environment. It combines depth, compulsion, crisis, and regeneration with personality, self-presentation, close contact, and the way one meets the world.
-- Chart expression: magnetic presence, forceful reactions, relationships that change the native profoundly, and environments charged with pressure, confrontation, or renewal. Liabilities: domination, ruthlessness, obsessive behavior, violent disputes, and the tendency to turn every close interaction into a contest of power.
+`Pluto/Asc` concerns the ways close encounters and immediate surroundings can be changed by powerful influence. The [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) include literal changes of place, residence, or partner; [Hand](#pair-delineation) and [Ebertin](#principle) emphasize relationships that transform a life and people who exert a striking effect on others. These themes meet in the pressure an encounter places on one's circumstances and way of presenting oneself.
+
+That pressure can support focused observation, understanding a partner, or accompanying someone through crisis, but it can also become obsession, domination, or a struggle to control reactions ([Munkasey](#basic-ideas); [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)). [Sandbach](#principle-1) locates a central difficulty in clinging to an intense self-definition when it needs to evolve. Environmental waste, pollution, and physical change are additional attributed source themes, not inevitable events or diagnoses. The apparent Pluto-Medium Coeli carryover is excluded, and none of these pair meanings replaces a third-factor activation.
 
 ## Links
 

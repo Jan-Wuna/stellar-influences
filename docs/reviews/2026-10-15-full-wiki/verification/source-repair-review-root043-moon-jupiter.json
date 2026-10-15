@@ -1,0 +1,171 @@
+{
+  "scope": "Nine changed Moon/Jupiter sections independently read against exact original/current source sections and owning activations-043 records. Actual full ABC90 and Witte125 scans viewed per changed row; all other changed English-source locators directly checked per complete raw paragraph and actual numbering.",
+  "abc_clause_checks": {
+    "admetos": "All eight ABC clauses match the actual Admetos row, including thorough happiness and the hour of happy deepening; both Witte alternatives remain.",
+    "apollon": "All nine ABC clauses match the actual Apollon row; Geld-Handel is financial trading, and Wirtschafts-Geld remains quoted with a cautious qualification.",
+    "asc": "All nine ABC Ascendant clauses match, including the previously omitted happiness at a place; Ebertin0372/printed124/PDF126, Sandbach30 and MunkaseyASC/printed116/PDF117 independently match the full unchanged English passages.",
+    "cupido": "All seven ABC Cupido clauses match; shared sense of justice and the community's rights remain distinct.",
+    "hades": "All seven ABC Hades clauses match; deficient sense of justice remains distinct from inadequate rights and legal disadvantages.",
+    "kronos": "All eight ABC Kronos clauses match, including successful authority and financial independence; Witte's lottery/state examples remain attributed.",
+    "mars": "All nine ABC Mars clauses match; beglückende Gefühls-Handlungen carries emotional happiness without inserting a woman into that clause. Ebertin0366/printed123/PDF125, Sandbach30 and MunkaseyMars/printed116/PDF117 independently match complete unchanged English passages."
+  },
+  "english_source_proof": {
+    "proof": [
+      {
+        "path": "wiki/activations/moon-jupiter-equals-chiron.md",
+        "source": "Sandbach",
+        "raw_source": "Stellar Influences Vault\\Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+        "pdf_page": 30,
+        "entry": "Your energy helps others to get more fully in touch with their feelings and to accept them. You innately encourage others to feel greater security and faith in the workings of the universe.",
+        "normalized_offset": 1117,
+        "normalized_length": 155,
+        "raw_page_text_sha256": "0846a94a3b0c14f102ac2a58ae403d5e06ff2e5cd9baf679155a1a61d894011d",
+        "locator": [
+          "Source reference: PDF page `30`, Chiron under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-asc.md",
+        "source": "Ebertin",
+        "raw_source": "Stellar Influences Vault\\planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+        "pdf_page": 126,
+        "entry": "Cheerful, confident and happy in the company of other people, the creation of a harmonious environment. Fortunate contacts.",
+        "normalized_offset": 59,
+        "normalized_length": 102,
+        "raw_page_text_sha256": "5f5baccf534764ae4b736a5548a4bf38c9c02d8a31ee53f0b9f967ae83f97f69",
+        "locator": [
+          "Source reference: printed page `124`, PDF page `126`, entry `0372`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-asc.md",
+        "source": "Sandbach",
+        "raw_source": "Stellar Influences Vault\\Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+        "pdf_page": 30,
+        "entry": "One’s personality displays a wealth and abundance of feeling. One plays the role of a nurturer who encourages, uplifts, and offers approval. The potential of feel ing overwhelmed in a relationship.",
+        "normalized_offset": 2026,
+        "normalized_length": 161,
+        "raw_page_text_sha256": "0846a94a3b0c14f102ac2a58ae403d5e06ff2e5cd9baf679155a1a61d894011d",
+        "locator": [
+          "Source reference: PDF page `30`, Ascendant under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-asc.md",
+        "source": "Munkasey",
+        "raw_source": "Stellar Influences Vault\\midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+        "pdf_page": 117,
+        "entry": "Inconsistent ideas about the role that others play in helping you in life; old memories of experiences during travels which you find pleasant; an added need to study the ideas of others and how these can be further developed.",
+        "normalized_offset": 1759,
+        "normalized_length": 184,
+        "raw_page_text_sha256": "8a458f4f4815434003cee19e49578b3546a16907982754ee0b238dae88496419",
+        "locator": [
+          "- Source page: printed `116`, PDF page `117`, `ASC` row."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-jupiter.md",
+        "source": "Munkasey",
+        "raw_source": "Stellar Influences Vault\\midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+        "pdf_page": 119,
+        "entry": "Added needs to expound upon a personal philosophy and goals, and a need to have others hear your opinions about life, deity, morals, and ethics; additional needs for educational recognition and extra scholarly degrees.",
+        "normalized_offset": 245,
+        "normalized_length": 179,
+        "raw_page_text_sha256": "ea873cbe5bcef85d9deb4035e344c9d99c2f45627e1d64faa17d2a0d7a24f9ff",
+        "locator": [
+          "- Source page: printed `118`, PDF page `119`, `Jup` row under `MOON/JUPITER With Itself`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-mars.md",
+        "source": "Ebertin",
+        "raw_source": "Stellar Influences Vault\\planetary expressions - Reinhold Ebertin - The Combination Of Stellar Influences.pdf",
+        "pdf_page": 125,
+        "entry": "A healthy love relationship, love of enterprise, striving for success. The happy wife, cheerful mother, success of a woman.",
+        "normalized_offset": 382,
+        "normalized_length": 99,
+        "raw_page_text_sha256": "93d271731cc6e196d8a194bf7e398fd32f6ddd83fe6797b82522236eed0c0199",
+        "locator": [
+          "Source reference: printed page `123`, PDF page `125`, entry `0366`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-mars.md",
+        "source": "Sandbach",
+        "raw_source": "Stellar Influences Vault\\Book_2015_John Sandbach_Midpoints_A Kabbalistic Compendium of Meanings for Astrological Midpoints.pdf",
+        "pdf_page": 30,
+        "entry": "In expressing anger one may be excessively emotional. Asserting oneself with a wealth of feeling. The person is at their best when they act at a time that feels right to do so. Taking the initiative to reach out to others on a feeling level.",
+        "normalized_offset": 694,
+        "normalized_length": 193,
+        "raw_page_text_sha256": "0846a94a3b0c14f102ac2a58ae403d5e06ff2e5cd9baf679155a1a61d894011d",
+        "locator": [
+          "Source reference: PDF page `30`, Mars under `Planets activating the Moon/Jupiter midpoint`; the chapter begins on PDF page `29`."
+        ]
+      },
+      {
+        "path": "wiki/activations/moon-jupiter-equals-mars.md",
+        "source": "Munkasey",
+        "raw_source": "Stellar Influences Vault\\midpoints - Michael Munkasey - Unleashing the Power of the Planets.pdf",
+        "pdf_page": 117,
+        "entry": "An added element of rashness and temper; increased dimensions for your opinions; further harshness to your religious or philosophical ideas; increased energy and activity for projects done together as or for the family.",
+        "normalized_offset": 640,
+        "normalized_length": 183,
+        "raw_page_text_sha256": "8a458f4f4815434003cee19e49578b3546a16907982754ee0b238dae88496419",
+        "locator": [
+          "- Source page: printed `116`, PDF page `117`, Mars row."
+        ]
+      }
+    ],
+    "raw_folios": {
+      "Ebertin": {
+        "125": "be added to Moon/Jupiter = Pluto that this indicates a person who \nwants to be popular and who will be anxious to be well thought of by others. \n123 \n",
+        "126": " \nA kind-hearted, social-minded or religious person. Popularity, confi- \ndence, the joy of expectation. The happy wife, fiancee, bride, mother. \n124 \n"
+      },
+      "Sandbach": {
+        "30": "heaven: One’s work involves helping  other  people  to  come  together \nharmoniously  and to share their feelings with  each  other.  A career  that \n"
+      },
+      "Munkasey": {
+        "117": "grow and mature in \nlife; recognition from others for your ideas and work in expanding knowledge in areas \nsuch as philosophy, foreign affairs, etc. \n",
+        "119": "och \n \nASC \nJohn F. Kennedy; Arthur Godfrey; Sigmund Freud; Audrey Hepburn \n \nMC \nElton John; Steve Rosenbloom; Tom Jones; Bob Fosse; Trans. RR Done \n"
+      }
+    }
+  },
+  "hashes": {
+    "wiki/activations/moon-jupiter-equals-admetos.md": {
+      "before_sha256": "75e4f440d94915c88afc55b50bc32439bb1e163d82663a5b0d11c86cc3cb866c",
+      "after_sha256": "88a180746814b4a2cb63e3becb3d01cc4e9da6ec86324244e8ac21cedae66afd"
+    },
+    "wiki/activations/moon-jupiter-equals-apollon.md": {
+      "before_sha256": "0db4c74a6b523d422e211eeef0b3601913055b6ff9a56aed056aac9c3c65e37a",
+      "after_sha256": "61665e469ecbefa81b754e9dbe5e6db319ac9676a8b1f6cff4916ecaf6cd8d96"
+    },
+    "wiki/activations/moon-jupiter-equals-asc.md": {
+      "before_sha256": "d5359fbef7a87d56a86b69a69488b9f693fb4fc0b585b73661607965aeea5087",
+      "after_sha256": "28ecc854a22bba1f5fa34c9df2527fb7d33d3c9f672ea31e1cd9511084fcffb8"
+    },
+    "wiki/activations/moon-jupiter-equals-cupido.md": {
+      "before_sha256": "d0afcef45c3dddb2fb1d3c0f5e128895ecce89cc6eb9b983c73a43451b34b2d8",
+      "after_sha256": "b51896b9a7c647275b5c7bb0399790413b1e6916b3f681692141e9ba2b5e2660"
+    },
+    "wiki/activations/moon-jupiter-equals-hades.md": {
+      "before_sha256": "feab92b064ce93a9ba74a37135036069643be876eeea775814357882cac6e859",
+      "after_sha256": "a233e2ace1c2ef247a86dc60c38eec5453e0ac9df6ffdae9a7416f4b690ac0c5"
+    },
+    "wiki/activations/moon-jupiter-equals-kronos.md": {
+      "before_sha256": "fe3575cd7849bc32a038b7b37bc2a9e4ff299a36000d2da0b1599ec947b00f7b",
+      "after_sha256": "bed268e1d7f7b3ec33a53745b7ff02ba988cfb27e58f8b45cfd82e2856e58bbe"
+    },
+    "wiki/activations/moon-jupiter-equals-mars.md": {
+      "before_sha256": "22e5b07ad1f0e7769cbff2a451e9f9e164fb672a0dbe3f63caac68bb6ec05b61",
+      "after_sha256": "d667b9e37147226c5da4beecbda67c0d09220a1c9ce54cb96423e5f6bfdb7f2f"
+    },
+    "wiki/activations/moon-jupiter-equals-chiron.md": {
+      "before_sha256": "84d08448395cbf479c425e93b165ef32e9af8659bc76be4c23e29491145359b3",
+      "after_sha256": "b3a510a7b55ec120926fbf09f529da24f25f53a4326f1d9df06be1d75b33fe20"
+    },
+    "wiki/activations/moon-jupiter-equals-jupiter.md": {
+      "before_sha256": "643a62277421f9bee75d5c88798abaeb94d42bffbddf9c4c4e6b78b41c8ca6b6",
+      "after_sha256": "e06ea8f937dc15849def71b953bbfd4da11754b7d293412f2b1dab8a4db08666"
+    }
+  }
+}

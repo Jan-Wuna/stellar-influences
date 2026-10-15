@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Admetos = Venus`
 - Astronomicon formula: `V/¦ = Q`
 - Axis page: [Jupiter/Admetos](../axes/jupiter-admetos.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-J°y °f giving- Gladly spent money.
+- Source reference: printed p. 220; PDF p. 216.
+
+Joy of giving. Gladly spent money.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work with fixed money, blocked financial activity, depression through legal work, restriction of successful work, successful deepening into work, consolidation of joy through work, joy at earth work, and grtindling work pleasure
+- Source reference: printed p. 342; PDF p. 170.
+
+Restricted joy in love, successful deepening into art, successful consolidation of harmony, consolidation of happiness in love, deepening joy and harmony, thorough success in peace, harmonious circulation of money, and a preference for thorough law.
+
+## Comparative Schema
+
+- Core meaning: Joyful giving and deepening harmony despite limits on love's joy.
+- Psychology: Joy in giving; restricted or consolidated happiness in love.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Love, harmony, peace, and harmonious money circulation.
+- Events/manifestations: Gladly spent money, artistic deepening, and thorough success in peace.
+- Conflicts/notes: The entry does not state that giving is affordable or free from excess.
+
+## Contradictions
+
+Restricted joy in love in ABC qualifies its favorable harmony meanings and Witte's uncomplicated joy of giving.
+
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Venus`: contentment expressed through giving, beauty, or affection, even when means are finite. It can show generous spending born from ease rather than excess.
+In `Jupiter/Admetos = Venus`, Venus specifies the Jupiter/Admetos axis through giving, affection, art, and the consolidation or restriction of harmony. The [Witte Entry](#witte-entry) gives joy in giving and money gladly spent. The [ABC Entry](#abc-entry) deepens the artistic and relational range through art, harmony, peace and love, while allowing joy in love to be restricted. The formula concerns the cultivation and expression of enjoyment within limits, rather than assuring that generosity carries no material cost.
 
 ## Links
 

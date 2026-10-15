@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Vulcanus`
 - Astronomicon formula: `Q/¢ = §`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 Performing dangerous services. Serious endangerment in the service. Crimes among prostitutes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential love service, danger by violence in love, secret love influence, artificial influence from the past, power of an old love, strength and beauty in old age, strong love cummer, hidden artificial influence, and renunciation of love violence
+- Source page: 285 (printed); PDF page: 141; scanned activator row checked.
+
+Influential service in love, danger through violence in love, secret influence in love, artistic influence from the past, the power of an old love, strength and beauty in old age, strong sorrow in love, hidden artistic influence, and renunciation of violence in love.
+
+## Comparative Schema
+
+- Core meaning: Loving service and old attachment carry great force.
+- Psychology: Strong love-sorrow and hidden influence.
+- Body/health: Strength and beauty in age are stated; no diagnosis.
+- Social/relationship: Dangerous service and violence in love.
+- Events/manifestations: Past artistic influence; renunciation of love violence.
+- Conflicts/notes: The entry includes relinquishing violence as well as danger from it.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The entry includes relinquishing violence as well as danger from it.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Vulcanus`: performing dangerous services.
-- Practical expression: influential love service, danger by violence in love, secret love influence, artificial influence from the past, and power of an old love.
+Vulcanus specifies Venus/Hades through the strength of service, old affection, or hidden influence. Dangerous duties and violence in love form an adverse range, while power in old love and artistic influence from the past preserve other expressions. ABC also explicitly includes renunciation of violence in love. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

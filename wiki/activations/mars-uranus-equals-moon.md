@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Moon`
 - Astronomicon formula: `U/X = R`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source: one-based PDF p. 194, Moon row under Mars/Uranus.
+
 Excited females. Accident or surgical operation of a female. Womb operation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Arousal-[pulses, new women's work, sudden actions of the people, reform work of a people, tensions in working with women, technical women's work, restless feelings actions, and will impulses of a woman
+English translation: Agitating emotional impulses; new women's work; sudden actions of the people; reform work of a people; tensions when working with women; technical women's work; restless emotional actions; will-impulses of a woman.
+
+Source: printed p. 302 (one-based PDF p. 150), Moon row under Mars/Uranus.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: printed p. 208 (one-based PDF p. 210), entry 0712.
 
 Energy or power of life governed by feeling, desire to achieve something very big, ambition. Special effort expended by a woman (birth). Accident or injury happening to girls and woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: one-based PDF p. 71, exact Moon paragraph under Mars/Uranus.
 
 Feelings that arise suddenly, and which impel one to take action. The need to freely and openly let feelings out. If one allows oneself to act on one’s instincts it can let forth a flood of creativity. Insecurity about finding one’s own way to do things.
 
@@ -70,22 +80,21 @@ Enhances sensitivities to underlying rhythms of life; moods which ebb and flow w
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden feeling moves into action, with fluctuating moods and instinctive creativity.
+- Psychology: Emotional expression can release creativity; insecurity or quick anger is also represented.
+- Body/health: Witte and Ebertin's female-specific surgery, childbirth, and injury examples remain historical claims.
+- Social/relationship: Munkasey describes difficult-to-please behavior; ABC includes women's work and collective reform activity.
+- Events/manifestations: Instinctive action, changing moods, ambition, and reform work.
+- Conflicts/notes: The printed opening is `Aufregende Gefühls-Impulse`, agitating emotional impulses. The source's women/people clauses remain distinct historical examples; the entries state no causal link from insecurity to accidents.
 
 ## Contradictions
 
-- None recorded yet.
+Creative release and hesitation coexist in the entries. Historical sex-specific bodily examples are not universal rules for women.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Moon`: emotional boldness, strong instinct, and surges of action led by feeling rather than deliberation. Main caution: instability of emotional force: insecurity or excitement can produce accidents, injuries, or emotionally triggered upheaval.
+In `Mars/Uranus = Moon`, Moon specifies spontaneous activity through feeling and instinct. Feelings may prompt immediate action or creativity, while insecurity, indecision, and quick anger can complicate their expression. See [Sandbach](#sandbach-entry) (exact Moon paragraph, PDF p. 71), [Munkasey](#munkasey-entry) (printed p. 232), and [ABC](#abc-entry) (printed p. 302). [Witte](#witte-entry) (PDF p. 194) and [Ebertin](#ebertin-entry) (printed p. 208, code 0712) retain historical reproductive and injury examples; these do not establish a causal link from emotion to harm.
 
 ## Links
 

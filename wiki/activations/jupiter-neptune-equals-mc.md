@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -32,6 +32,8 @@ updated_at: 2026-05-06
 - Astronomicon formula: `V/Y = MC`
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
 - Triad hub: [Jupiter Neptune MC](../triads/jupiter-neptune-mc.md)
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -45,19 +47,27 @@ To be unburdened. Not to bother about anything. Spendthrift, speculator.
 
 #### ABC Entry
 
-Is the Commission aware of the fact that
+- Source reference: printed p. 328; one-based PDF p. 163, Jupiter/Neptune, MC row; complete row and neighboring glyphs checked.
+
+Editorial translation, checked against the scan: Happiness of a sensitive soul, my uncertain money, my advantage in water, my advantage through sensitivity, my joy in the air, my financial weakness, my legal uncertainty, and unknown joy of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-A visionary, fortune-hunter, speculator, philanthropist, spendthrift or squanderer. Harm or damage through thoughtlessness. 49 To MC = JupiteiTNeptune one should add: idealists.
+- Source reference: printed p. 233; one-based PDF p. 235, coded entry 0817 and footnote 49.
+
+A visionary, fortune-hunter, speculator, philanthropist, spendthrift or squanderer. Harm or damage through thoughtlessness.
+
+- Footnote 49: To MC = Jupiter/Neptune one should add: idealists.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-To bring a richness of idealism and imagination to one’s work. One’s spiri tual path involves uplifting others and encouraging optimism and hope in them.
+- Source reference: one-based PDF p. 82, Jupiter/Neptune, Midheaven paragraph; the chapter begins on p. 81.
+
+To bring a richness of idealism and imagination to one’s work. One’s spiritual path involves uplifting others and encouraging optimism and hope in them.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,25 @@ The personal gains you muster in life from an understanding of a non-physical re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Imaginative or speculative hopes become part of one's personal role and aims.
+- psychology: Idealism, generosity and inward joy through sensitivity coexist with thoughtlessness, unconcern or extravagance in the cited entries.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Sandbach describes encouraging hope in others; Munkasey gives politics as a route to standing.
+- events/manifestations: Philanthropic work, speculation, squandering and gains associated with mystical or political experience; ABC also names financial weakness, uncertain money and legal uncertainty, alongside advantages in water and joy in the air.
+- conflicts/notes: Sensitivity and inner joy do not remove the financial or legal uncertainty named by ABC. Its water and air phrases do not specify a technical setting.
 
 ## Contradictions
 
-- None recorded yet.
+The philanthropic and spendthrift possibilities are different expressions, not a contradiction that can be resolved by choosing one. ABC places a sensitive soul's happiness and advantages beside uncertain money, financial weakness and legal uncertainty; one side does not cancel the other. Ebertin's separate footnote adds idealists to this exact orientation.
+
+The ABC, Ebertin and exact Sandbach locators above were checked against the raw passages. The retained Witte PDF p. 209 entry-start locator and Munkasey printed p. 264 locator have not been newly verified in this bounded repair.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = MC`: imaginative purpose, generous ideals, and a path shaped by inspiration, compassion, or broad hopes for the world. Main caution: fortune-hunting or squandering: idealism can drift into vagueness, speculation, or lack of concrete responsibility if not anchored in reality.
+In `Jupiter/Neptune = MC`, MC makes imaginative hopes and speculation part of one's personal direction. [Sandbach](#sandbach-entry) describes work that encourages optimism in others; [Ebertin](#ebertin-entry) explicitly includes idealists. The [ABC Entry](#abc-entry) adds the inward happiness and advantages of sensitivity, while [Munkasey](#munkasey-entry), printed p. 264, gives mystical experience and politics as possible routes to personal standing.
+
+This range also includes material uncertainty: ABC names uncertain money, financial weakness and legal uncertainty, while the [Witte](#witte-entry) and Ebertin entries retain unconcern, fortune-hunting or squandering. An uplifting ideal and inward joy can therefore coexist with uncertain practical consequences; neither establishes financial or legal security.
 
 ## Links
 

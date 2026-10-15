@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Zeus = Kronos`
 - Astronomicon formula: `W/£ = ¤`
 - Axis page: [Saturn/Zeus](../axes/saturn-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `226` (entry start).
+
 To be separated from work by the state. Damages and expenses which are covered or taken over by the state. Public fire-funds (fire insurance). To cover fire losses. Indemnification through insurance company.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-immersive task design, self taught serious striving, state control problems beginning of trade cancellations, successful efforts in old age, creative task design, problematic goal extension, lossy fire propagation, and vie!
+- Source page: `359`; PDF page: `178`.
+
+Beginning major disturbances, exceptional concentration performance, losses in state performance, great fire losses, great initial difficulties, harsh leadership by authority, independent shaping of tasks, self-confident serious striving, and state leadership problems.
+
+## Comparative Schema
+
+- core meaning: Directed activity and its losses under state or authoritative responsibility.
+- psychology: Concentration, self-confidence and serious striving in ABC's account.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: State intervention, harsh authority and institutional leadership problems.
+- events/manifestations: Removal from work, covered damages, fire insurance and major starting difficulties.
+- conflicts/notes: The state can interrupt work or cover losses; institutional involvement does not have one effect.
+
+## Contradictions
+
+Witte gives both state-imposed separation and compensation; ABC adds authority and performance problems. These concern different roles of institutions rather than directly conflicting claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Zeus = Kronos`: to be separated from work by the state, damages and expenses which are covered or taken over by the state.
-- Practical expression: immersive task design, self taught serious striving, state control problems beginning of trade cancellations, successful efforts in old age, and creative task design.
+In `Saturn/Zeus = Kronos`, Kronos specifies directed activity through authoritative or institutional responsibility. The state may remove a person from work, but it or an insurer may also cover damage and fire losses ([Witte](#witte-entry)). [ABC](#abc-entry) adds harsh authority, leadership problems and major difficulties at the start, alongside concentration, independence and self-confident striving. The common concern is how substantial tasks and their costs are handled under authority, with restriction and compensation remaining distinct possibilities.
 
 ## Links
 

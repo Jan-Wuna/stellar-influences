@@ -1,0 +1,330 @@
+{
+  "scope_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E3-candidates.json",
+  "scope_manifest_sha256": "062bfc14052e8729e2bb4bf13eba7e0b94d94f2226287f58faf94aa3f22021d8",
+  "total": 6,
+  "accepted": 6,
+  "held": 0,
+  "unreviewed": 0,
+  "verified_by": "/root/activation_review_013_015",
+  "scope": "Exact E3 frozen six paths; root/source-integrity-gate explicitly require closure-only flagged deltas/new references with prior exact source history reused. No approval is inferred for unseen inherited text or E084's other targets.",
+  "source_hash_contract": "UTF8; CRLF to LF; Source Entries body until next level-two heading; terminal next-section anchor stripped; outer strip; SHA256",
+  "record_hash_contract": "ledger_record_sha256 is actual UTF8 JSONL line excluding newline; canonical record SHA uses ensure_ascii=False, sorted keys and compact separators",
+  "new_review_counts": 0,
+  "entries": [
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "before_sha256": "92d96bd2ba0f71a7c9b72a9f07e5df8511cbd90fd6ad29fa04c9a661ebf77162",
+      "closure_before_sha256": "c60dad2e7e2486f4b034e780c4302fb4b6fabd477da0fb3a5237ca732e549899",
+      "after_sha256": "b2e130fcece93189f27e12be12557be603cf7fb37863f17c77d2dba0bed1106b",
+      "page_sha256": "821b12b2604627f9b179ce85b6cd3b4ff3f100fdf764469dcb961cdbbbf8792e",
+      "page_lf_sha256": "34bcbb3efc015f6a392bc2b2ec557b9a3d0378594171882776b461397b910d02",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "c08be0d13f70a739d1b39d9df3c257d044c43ba395b997462eedc85ff84fbc57",
+      "ledger_record_canonical_sha256": "22e3768e9e30c91321053faa96b9bbc2d4e6c588b0e71da56cad3009f7c649cc",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-ebertin-pdf248.png",
+          "sha256": "a18b40ad99023d32ac489d978dd79bf8e5c622212f5420e8ec05543101988b3a"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-banzhaf-pdf331.png",
+          "sha256": "2c048f75ea1737cd4215055545f22d741b506b2962c223c0168b50bfb8defa60"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-banzhaf-pdf332.png",
+          "sha256": "bd356205a2e238b9275bcd3a3ece27c27dddb89808e0d904bdc6a2a35e08b31b"
+        }
+      ],
+      "remaining_limits": [
+        "Banzhaf's printed superscript6 callout is retained as a callout; no unverified footnote interpretation is added."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-020.jsonl",
+        "line": 4,
+        "record_sha256": "c08be0d13f70a739d1b39d9df3c257d044c43ba395b997462eedc85ff84fbc57",
+        "record_canonical_sha256": "22e3768e9e30c91321053faa96b9bbc2d4e6c588b0e71da56cad3009f7c649cc"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Ebertin PDF248/printed246 complete entry and note53: separated footnote retains its complete slow-planet individualization qualification; repeated title/formula tail is nonprose. Personally viewed Banzhaf331–332 complete Saturn/Uranus section and next Saturn/Neptune boundary: actual superscript6 is a callout, both omitted final Discord sentences are restored, and new331–332 range is exact. Full affected source blocks and complete amended unique axes020 row4 read. Printed callout remains a bounded reference limitation, not doctrine.",
+      "material_holds": []
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "before_sha256": "d026e09be39c077ab9f2e864eb9f889e3efc9453b335a1402f00d368b8700de7",
+      "closure_before_sha256": "2ce9d4d9677600ccd7fbc3436d5a7066d03c40012044cfec032a34be767fe996",
+      "after_sha256": "ebac01dc828ffb309ba9df0c650fe8aebe915a045bcf5da8f56ba67ebfe4d34b",
+      "page_sha256": "da75fe97f8b50d4649fef04e8f04b0646cf5f66107afe897845fb014c692f15d",
+      "page_lf_sha256": "da75fe97f8b50d4649fef04e8f04b0646cf5f66107afe897845fb014c692f15d",
+      "ledger": "axes-020.jsonl",
+      "ledger_line": 10,
+      "ledger_record_sha256": "fba2701a8410f06c07b73fe4eb39e3489631f26a73df6511e62cdfb18e07d287",
+      "ledger_record_canonical_sha256": "0fdd7da1a07474cc2567dfb9a0080875d830730a3ece8bf0101c64c94b8423f8",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf15.png",
+          "sha256": "750267193d2e214d80f2604ac6c39746fdd08d869fd18ec44e769801af902d89"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf16.png",
+          "sha256": "79d39ec7093761a43c6fd19c82e7ed61d5c7be54647d8f003f1460e65b4d3360"
+        }
+      ],
+      "remaining_limits": [
+        "Sandbach literally prints 'ones importance'; retained with a source note."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-020.jsonl",
+        "line": 10,
+        "record_sha256": "fba2701a8410f06c07b73fe4eb39e3489631f26a73df6511e62cdfb18e07d287",
+        "record_canonical_sha256": "0fdd7da1a07474cc2567dfb9a0080875d830730a3ece8bf0101c64c94b8423f8"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Sandbach15–16 complete Sun/Chiron Principle continuation and Process before Moon: im portant, superfi cial and pur pose joins match the visible words, actual ones importance is retained and labelled, and the complete15–16 locator is exact. Complete current source and amended unique axes020 row10 read. Prior exact locator reading is reused; no spiritual or healing assertion is newly factually endorsed.",
+      "material_holds": []
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "before_sha256": "ad9a7e0ea86b0ef9d1c66fb69ad5ddbc47663f1b498ac31ad9f05d63585fc470",
+      "closure_before_sha256": "51d52e6a8d724ea8aaa3ecf9eba00be1e1af7e1bb49a81684759fad3474d08db",
+      "after_sha256": "f7c9d6c66e854cd47ef8508676e08f1be4f556f25be9c99a92ab9445b19a4747",
+      "page_sha256": "4e53b3740fb6f869b88011daec89da36c19f225c8a659d543c132579a02877aa",
+      "page_lf_sha256": "4e53b3740fb6f869b88011daec89da36c19f225c8a659d543c132579a02877aa",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 3,
+      "ledger_record_sha256": "e49387fd29a38e8b9d6a9570bf0723b385e926ddeb5cc9350430bd3f4d951b71",
+      "ledger_record_canonical_sha256": "75ed642ab9d586430a02a22896116ded1b24c9526c855cc763a179a344144771",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf10.png",
+          "sha256": "a205b8c6043fca8f6fff52a03162ba8675ed1e1ec2708cdd5080e3db8debb41e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf11.png",
+          "sha256": "ea4df9dede1311e8ca7a3ebcd8a6b3b951b23c39bee3edc17e8e9dfa7e3bd889"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf12.png",
+          "sha256": "3aa0b49b2f53a8653692cc925a1ca8277f3497041779da4c8523f5fc7d31cb74"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf13.png",
+          "sha256": "4ef7ca97b287f09054b3cb5ca1b3a372cd007973aebb6c16544ec0a2423d54f0"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf14.png",
+          "sha256": "3d0e96f83cc734b547ab57a492437effd691cc2efd20228e3a7f2edf0767db24"
+        }
+      ],
+      "remaining_limits": [
+        "Carter's actual high beneficent/self-opiniated/Sullvian/Bismark forms and absent stop after stunts are retained with an explicit source note."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-021.jsonl",
+        "line": 3,
+        "record_sha256": "e49387fd29a38e8b9d6a9570bf0723b385e926ddeb5cc9350430bd3f4d951b71",
+        "record_canonical_sha256": "75ed642ab9d586430a02a22896116ded1b24c9526c855cc763a179a344144771"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Falis10–11 complete pair through Having a big heart before Sun/Saturn: every repaired line-break word and restored Philosopher-clowns/self-doubt compound matches. Personally viewed Carter12–14 complete native aspect categories and Examples before Sun/Saturn; new complete span is exact. Actual high beneficent, self-opiniated, Sullvian, Bismark and absent stop after stunts are preserved and explicitly qualified. Complete affected source blocks and amended unique axes021 row3 read.",
+      "material_holds": []
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "before_sha256": "3c27394079000667519a0ac970497f0bbcb4be58ee45f95a35053acd65adb9a0",
+      "closure_before_sha256": "ecba78208767d0f49db41125bbaba39eb648108af4e8eef9182b630c85417fa4",
+      "after_sha256": "51ce7041e082175bf45252b7b926dbf47b600d569eec57e13c06c12926341f02",
+      "page_sha256": "fd2a77e34e948c9290cab237c47ecb126816dd0c4a050451f1c3f1e3f81fc0df",
+      "page_lf_sha256": "4bd8c0c4d8a936d78a4f317f36de556c23d30cb711ac7e1b49ad96f16af08686",
+      "ledger": "axes-021.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "595db1e79358e85109b473d156d603e5f0051d8a39467cfd015f3bd45fef58da",
+      "ledger_record_canonical_sha256": "77801df1d0791472bce5349df43cf2e4bf4dec3cbc0d28d98d80812eab2ad46f",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf5.png",
+          "sha256": "37e5ed1607f770c19453a7c5461db7fd0c977390c3738180099692276734191e"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf6.png",
+          "sha256": "a5787a9b231b6457ebf35920e2ff7de35ef9d96b36b5a0e901e04b6e709ac8f0"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf8.png",
+          "sha256": "c18fecf6a2c49b24c851412377c95373cfeb5d4af5c2b5641e3d7cf8af82cd4c"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf9.png",
+          "sha256": "4b9381bab6463f202f52635e8485802e14c1900c58fecb6c1ef4dad3d5b527f8"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf8.png",
+          "sha256": "b4c9e1e38d74d7fc035ad8329c88ca3bc45716499cb5136350d55081ea848801"
+        }
+      ],
+      "remaining_limits": [
+        "Sandbach's actual printed orqamzinq/thouqhts spellings are preserved with an explicit organizing-thoughts clarification.",
+        "Falis literally prints 'using physical gestures are moving around a lot of possibilities'; retained with a source note."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-021.jsonl",
+        "line": 7,
+        "record_sha256": "595db1e79358e85109b473d156d603e5f0051d8a39467cfd015f3bd45fef58da",
+        "record_canonical_sha256": "77801df1d0791472bce5349df43cf2e4bf4dec3cbc0d28d98d80812eab2ad46f"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Falis5–6 complete pair before Sun/Venus: repaired line-break words match and printed using physical gestures are moving around a lot of possibilities is retained literally. Personally viewed Carter8–9 complete pair overview and Examples before Sun/Venus, confirming new exact span and native aspect/quotation limits. Actual Sandbach8 complete Principle/Process confirms communi cates join while orqamzinq/thouqhts are genuinely printed and retained with contextual clarification. Complete affected source blocks and amended unique axes021 row7 read.",
+      "material_holds": []
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "before_sha256": "44d8cccc888b011da68952579513a2184cfb51325cd9313156449926d1ab9965",
+      "closure_before_sha256": "fa769ad54fdb142c3a556c00541a45d1fcd22849e79ed1b16d1fa096692fd3fe",
+      "after_sha256": "219461969ec5158aa5bab386c316686f40334e711773c111cff7ee1941f1c291",
+      "page_sha256": "ae6919617236709a3f3c70933c20b75b90c2bea91a8b94a0fb1c9d160dfbc90d",
+      "page_lf_sha256": "9f48006d8a0fd50c1d394b193b2d714a435750b66dc6ede6ca34aa399cb64150",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "541aa858444b15a211afecf123bfc6146dddc4d93c7f62786093d1ac4ff9790e",
+      "ledger_record_canonical_sha256": "b0b40fe2c814939c10ae5ded1a22589ce9af9b45eb56d4e7ac773aabe3b1c143",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf16.png",
+          "sha256": "cf8894b6d9b174d79579747a5f1ffa76dae9e9e5712300eea600ef40ebe096ad"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf17.png",
+          "sha256": "40d14ca57f38775baec20a895dcd7658dbfbd562e9194d9cc2566183c4adee2d"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf18.png",
+          "sha256": "ba462c886a3ac8a67233960b2c6a1f318a87d21d2ac56f18ee1ff9802e9caf47"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf19.png",
+          "sha256": "52ba393f8eb85ec6d6b134d83db17d935862fbd0cdeea96a0f92959d1172c91c"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-carter-pdf20.png",
+          "sha256": "f56c36de7ffa9e71e3aa255cd13a988afab8d3dd71e6830495483f1c233aba4f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf18.png",
+          "sha256": "23a3ee3e3981acbe52acd8e324a4cea30bc4c0b72064f4c02f947abbb6ed77d3"
+        }
+      ],
+      "remaining_limits": [
+        "Carter's actual They Kingdom come/Sometime/instable/Lous XIV forms and unclosed Joan of Arc parenthesis are retained with an explicit source note."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-022.jsonl",
+        "line": 2,
+        "record_sha256": "541aa858444b15a211afecf123bfc6146dddc4d93c7f62786093d1ac4ff9790e",
+        "record_canonical_sha256": "b0b40fe2c814939c10ae5ded1a22589ce9af9b45eb56d4e7ac773aabe3b1c143"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Falis16–17 complete pair before Sun/Pluto and Sandbach18 complete Principle/Process before Moon: all joined words, including vision ary, match the scans and added locators are exact. Personally viewed Carter18–20 complete native aspect categories and Examples before Moon/Mercury; new complete span is exact. Actual They Kingdom come, Sometime, instable, Lous XIV and unclosed Joan of Arc parenthesis are preserved and labelled. Complete affected source blocks and amended unique axes022 row2 read; native historical health/addiction/gender qualifications remain attributed.",
+      "material_holds": []
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "before_sha256": "8c8fa2f815bb7aa74248c44bca33ea765afadfc93cd403390ee17bfacd557277",
+      "closure_before_sha256": "0daa303244492d0d68b98c14e188f024b8c9f5f445c7b449b312ee222c343a3d",
+      "after_sha256": "f3fa839bfbb20a0d973f259f077160529708cd72cd369a392624293c5cc8cb03",
+      "page_sha256": "2a6c5840dd0e478ee04746e117bbc4315ed9e404e00d7fa7025ebf5beb9d874e",
+      "page_lf_sha256": "c5f0a0fe6d68942cb739bd25ac61a9b9ef8825e5ffa958a362984f6dff2535c9",
+      "ledger": "axes-022.jsonl",
+      "ledger_line": 4,
+      "ledger_record_sha256": "d5913fac7cfb92df1fdb8cc4607a0b369ef9f3d71d80e3a5d60769cef7cb0215",
+      "ledger_record_canonical_sha256": "10e88838a4e86444a01ed501a480acec2d7641bf5a828461a0a5defcb73655c9",
+      "recorded_reviewer": "axis_review",
+      "evidence": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf18.png",
+          "sha256": "f5a6f605683808497ed3048c5856bc6fe09527ec0fd9e739b1e2ba9c66992837"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-falis-pdf19.png",
+          "sha256": "595d35fb30c9e69492622bb53b06613888506a54c64b60bc51dcc6289679803f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-sandbach-pdf20.png",
+          "sha256": "c6447084b33d12d18a77c7fe3b4ccbbd068c038e9a6f1374d3760732b01e0828"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-munkasey-pdf88.png",
+          "sha256": "460d495450a451773a5aa023b05509fdb4e2b3b326b000c749854768e6217131"
+        }
+      ],
+      "remaining_limits": [
+        "Falis literally prints 'Regenerating the dead aspects yourself'; retained with an explicit source note."
+      ],
+      "status": "accepted",
+      "classification": "targeted-source-closure",
+      "owner_binding": {
+        "ledger": "axes-022.jsonl",
+        "line": 4,
+        "record_sha256": "d5913fac7cfb92df1fdb8cc4607a0b369ef9f3d71d80e3a5d60769cef7cb0215",
+        "record_canonical_sha256": "10e88838a4e86444a01ed501a480acec2d7641bf5a828461a0a5defcb73655c9"
+      },
+      "original_before_current_history_reused": true,
+      "all_closure_changed_blocks_read": true,
+      "complete_amended_unique_owner_read": true,
+      "personally_viewed_actual_proof_images": true,
+      "every_added_closure_reference_checked": true,
+      "closure_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-axes013-024-decisions.jsonl",
+      "note": "Personally viewed actual Falis18–19 complete pair before Moon/Mercury: word joins, self-perpetuated hyphen and sentence stop after within yourself match, while Regenerating the dead aspects yourself is genuinely printed and qualified. Actual Sandbach20 complete Principle/Process confirms block ing join. Actual Munkasey PDF88/printed87 complete pair confirms self-corruption compound and all source-native category boundaries; added exact locator is correct. Complete affected source blocks and amended unique axes022 row4 read.",
+      "material_holds": []
+    }
+  ],
+  "verification": {
+    "frozen_exact_scope": true,
+    "original_before_hashes_match": true,
+    "global_unique_original_owners": true,
+    "current_source_and_page_receipt_hashes_match": true,
+    "actual_evidence_hashes_bound": 25,
+    "failures": []
+  },
+  "holds": [],
+  "unreviewed_paths": []
+}

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Node`
 - Astronomicon formula: `X/Y = g`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Node entry.
+
 #### Witte Entry
 
 Connections in the state of dissolution. Connections with dead people. To die.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Node entry.
+
 #### ABC Entry
 
-Experience metaphysical connections, nervousness in an unsafe connection, sudden perception of a connection, technical connections to water, surprising weakness in a connection, and connection to air technology
+Experiencing metaphysical connections, nervousness in an uncertain connection, sudden denial of a connection, technical connections to water, surprising weakness in a connection, and connection to air technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 267 (PDF p. 269), code `0947`.
 
 #### Ebertin Entry
 
 Loss of one's inner balance together with others, having the same sensitive disposition as someone else, the joint or shared bearing of suffering and grief.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 105, `Planets activating the Uranus/Neptune midpoint`, Node entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Enhances ability to meet those people who are able to effect your ideas and drea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Shared sensitivity and visionary connection under uncertain conditions. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Loss of inner balance, nervousness, and openness to inspiration. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Suffering and grief are represented; Witte's death wording remains an attributed extreme. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Shared grief and bonds with people who further ideas or dreams. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Dissolving connections and ties to religious or revolutionary leaders. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Weakening or dissolving ties coexist with supportive contacts; Witte's death wording remains an attributed extreme. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Shared grief and weakening or dissolving connections coexist with contacts that further ideas. Witte's death wording remains an attributed extreme; the entries do not determine the stability or outcome of every bond.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Node`: inspired collectives, subtle group awareness, and social fields organized around dream, intuition, or radical compassion. Main caution: unstable idealized alliance: groups can become diffuse, fanatical, or difficult to stabilize practically.
+Node specifies Uranus/Neptune through connections formed around shared sensitivity, grief, or visionary interests. Bonds may weaken or dissolve, yet other contacts can help ideas and dreams take effect, including ties to religious or revolutionary leaders in Munkasey's entry. The common concern is how uncertain or inward experience is shared with others, without assuming either that all alliances dissolve or that shared ideals make them stable. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

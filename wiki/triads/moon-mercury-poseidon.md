@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Poseidon`
 - Astronomicon triad-set: `R T ¨`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md)
-- [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md)
-- [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md)
+- [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md): base axis [Mercury/Poseidon](../axes/mercury-poseidon.md); activator [Moon](../factors/moon.md).
+- [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md): base axis [Moon/Mercury](../axes/moon-mercury.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `173`
-- `Mercury/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `268`
-- `Moon/Mercury = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
-- `Moon/Mercury = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `177`
-- `Moon/Poseidon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `206`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 173); [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md#witte-entry) (PDF entry-start p. 122); [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md#witte-entry) (PDF entry-start p. 138).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Poseidon = Moon](../activations/mercury-poseidon-equals-moon.md#abc-entry) (printed p. 268); [Moon/Mercury = Poseidon](../activations/moon-mercury-equals-poseidon.md#abc-entry) (printed p. 177); [Moon/Poseidon = Mercury](../activations/moon-poseidon-equals-mercury.md#abc-entry) (printed p. 206).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Poseidon = Moon`: Women with a spiritual attitude. Spiritual man as the medium of an idea. Men who are possessed by an idea, who spread these ideas.
-- `Moon/Mercury = Poseidon`: This activation spiritualizes `Moon/Mercury` into enthusiasm, receptivity, and refined intellectual-emotional development. It favors thoughtful youth, higher education, and suggestible but idealistic feeling, so the mind becomes more inspired, impressionable, and open to elevated ideas.
-- `Moon/Poseidon = Mercury`: Conversations with people who are mentally inspired. Receptive of ideas. Born graphologist. Media who speak or write.
+Moon, Mercury and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Poseidon](../axes/mercury-poseidon.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Poseidon](../factors/poseidon.md)

@@ -1,0 +1,1510 @@
+[
+  {
+    "path": "wiki/activations/mercury-hades-equals-admetos.md",
+    "before_sha256": "9d5dc09442948192b13a4205b7fe93f93c10bb5e4612ec26d70615883e66891c",
+    "after_sha256": "c0f039126e9ead9741d1161684d7f0db475194439b539ea45773af19b150d43b",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 48,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nDifficult to think clearly, confusion. Not to see a way out. No solution to a hidden problem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `257`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nPersistent conversations about distress, a blocked emergency call, depressing news from the past, strengthening secret thoughts, deepening thoughts about the past, dangerous depressions among young people, and disadvantages of a restricted youth.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDifficult to think clearly, confusion. Not to see a way out. No solution to a hidden problem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPersistent talk about need, blocked emergency call, depressing news from the past, strengthening of secret thoughts, deepening thoughts about the past, dangerous depression of youth, and disadvantages of a restricted youth",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-admetos.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC Not rendered need and depression singular; baseline turned subjective blockage into unresolved fact.",
+        "Baseline lacked meaningful six-category comparison and connected local-source-linked synthesis."
+      ],
+      "changes": [
+        "Restored full seven native257/PDF127 clauses with distress/emergency call, secret thoughts, past news and attributed youth-depression language; corrected deprivation claim to actual disadvantages of restricted youth. Retained Witte source paragraph.",
+        "Added raw-checked complete Witte167 locator; retained source headings/links and ABC256–257/PDF127 refs. Preserved useful partial six categories, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read entire page, manifest and both native evidence entries; personally viewed exact oriented rows on fresh ABC127 and Witte167 scans.",
+        "Inspected complete actual before/wiki diff and saved page; native clauses, source preservation/repair, exact orientation, six categories, source links and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Restored full seven native257/PDF127 clauses with distress/emergency call, secret thoughts, past news and attributed youth-depression language; corrected deprivation claim to actual disadvantages of restricted youth. Retained Witte source paragraph.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "e50ae7263f9c7cb7f59c0705e9c376c0eedf1ecace9ddf494d9cf7e0e702daec",
+    "current_sha256": "c0f039126e9ead9741d1161684d7f0db475194439b539ea45773af19b150d43b",
+    "original_sha256": "9d5dc09442948192b13a4205b7fe93f93c10bb5e4612ec26d70615883e66891c",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-apollon.md",
+    "before_sha256": "ce1c36ec8193333fea26e9be7ba1fbe718c82bbc31b09c51a108f2bfcdd6803d",
+    "after_sha256": "fb2d9f0c8712d4f361ad4e22ed6d79089abcda09aa7b930653d760e986bf77bf",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 49,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nUgly thinking of many. Many are mistaken. Large association for mental illness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `257`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nSuccess through old languages, describing dangerous experiences, danger through freedom of speech, conversations about successful privations, conversations about secret knowledge, freedom of opinion in danger, news about many people in distress, and the distress of youth in freedom.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nUgly thinking of many. Many are mistaken. Large association for mental illness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSuccess through old languages, describing dangerous experiences, danger through freedom of speech, language about successful deprivations, language about secret knowledge, freedom of opinion in danger, news about many in need, and need of youth in freedom",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-apollon.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC conversation rendered language and distress rendered need; baseline asserted disturbed collective mentality and omitted old-language success.",
+        "Baseline lacked meaningful six-category comparison and connected local-source-linked synthesis."
+      ],
+      "changes": [
+        "Restored complete eight native257/PDF127 clauses, keeping danger through freedom of speech distinct from threatened freedom of opinion. Preserved old-language success and secret knowledge alongside adverse Witte examples.",
+        "Added raw-checked complete Witte167 locator; retained source headings/links and ABC256–257/PDF127 refs. Preserved useful partial six categories, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read entire page, manifest and both native evidence entries; personally viewed exact oriented rows on fresh ABC127 and Witte167 scans.",
+        "Inspected complete actual before/wiki diff and saved page; native clauses, source preservation/repair, exact orientation, six categories, source links and single adjacent anchor checked."
+      ],
+      "unresolved": [
+        "ABC successful privations and distress of youth in freedom are genuinely printed, unexplained literal examples; retained and excluded from further inference."
+      ],
+      "evidence": [
+        "Restored complete eight native257/PDF127 clauses, keeping danger through freedom of speech distinct from threatened freedom of opinion. Preserved old-language success and secret knowledge alongside adverse Witte examples.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "6520aa147be094154cd8354e6a72b44f5cb4ca279bccbb4b3009ac84deac0c1e",
+    "current_sha256": "fb2d9f0c8712d4f361ad4e22ed6d79089abcda09aa7b930653d760e986bf77bf",
+    "original_sha256": "ce1c36ec8193333fea26e9be7ba1fbe718c82bbc31b09c51a108f2bfcdd6803d",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-asc.md",
+    "before_sha256": "bc43fdfdfb0acb9f4c911ff97e1d68b6870ff22efa44f77db9838e010d20b226",
+    "after_sha256": "b1d32775528225dc4b710902c0ac0db379a0ce504d091220511a34d224622636",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 50,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nDefamation. To be threatened by others. Someone in the immediate vicinity with wrong, bad or ill ideas, or whose thoughts are directed to the past.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `256`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nOld conversation partners, old writings in the surrounding area, conversations about deficiencies in the environment, dangerous local traffic, a dangerous environment for young people, others' disadvantageous opinions, news from a dangerous place, and the partner's emergency call.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDefamation. To be threatened by others. Someone in the immediate vicinity with wrong, bad or ill ideas, or whose thoughts are directed to the past.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-asc.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC bullet-only artifact hid eight clauses; baseline read ill ideas as a sick nearby person.",
+        "Baseline lacked meaningful six-category comparison and connected local-source-linked synthesis."
+      ],
+      "changes": [
+        "Verified and preserved full eight-clause native256/PDF127 partial repair, including old conversation partners/writings, local deficiencies/danger, others' opinions and partner emergency call. Retained Witte source wording while bounding illness/conduct inference.",
+        "Added raw-checked complete Witte167 locator; retained source headings/links and ABC256–257/PDF127 refs. Preserved useful partial six categories, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read entire page, manifest and both native evidence entries; personally viewed exact oriented rows on fresh ABC127 and Witte167 scans.",
+        "Inspected complete actual before/wiki diff and saved page; native clauses, source preservation/repair, exact orientation, six categories, source links and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified and preserved full eight-clause native256/PDF127 partial repair, including old conversation partners/writings, local deficiencies/danger, others' opinions and partner emergency call. Retained Witte source wording while bounding illness/conduct inference.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "60c03f0f8dbfd59fa14a1ce28ddbe6967f992e7c85a6cf59cb70c13b9f995b6f",
+    "current_sha256": "b1d32775528225dc4b710902c0ac0db379a0ce504d091220511a34d224622636",
+    "original_sha256": "bc43fdfdfb0acb9f4c911ff97e1d68b6870ff22efa44f77db9838e010d20b226",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-cupido.md",
+    "before_sha256": "5929e62f19c18ef30327f3d1be71ea24df8942312e8ef8c532fc9029f8268188",
+    "after_sha256": "33bc756a6aa7178c49f055dbb423f03ef2ffc672b0c79001989df8cfe7d9d668",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 51,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nTo drag marriage in the mud. Artistic talent in vulgar rhetoric. Group psychotherapy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `257`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nShared deprivation among young people, dangers for a young community, a community's lack of young people, opinions about the shared past, reports of deficiencies within the community, and verbal art from the past.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo drag marriage in the mud. Artistic talent in vulgar rhetoric. Group psychotherapy.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nCommon deprivation of young people, dangers for a young community, youth shortage of a community, opinions on the common past, news about lack of Community, and language skills from the past",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-cupido.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC Sprach-Kunst mistranslated skills; baseline tied marital disgrace/coarse rhetoric to collective therapy.",
+        "Baseline lacked meaningful six categories and connected source-linked synthesis."
+      ],
+      "changes": [
+        "Verified complete six-clause native257/PDF127 partial repair, preserving shared youth privation/dangers, youth shortage, shared past, community deficiencies and past verbal art. Retained Witte group psychotherapy as separate association without inferred cause or outcome.",
+        "Added raw-checked complete Witte167 locator; preserved source headings/links and useful partial six-category comparison, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read current page, manifest and both native evidence entries; personally viewed exact oriented ABC127/Witte167 raw passages.",
+        "Inspected complete actual before/wiki diff and saved boundaries; source repair/preservation, clause coverage, exact formula, categories, citations and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified complete six-clause native257/PDF127 partial repair, preserving shared youth privation/dangers, youth shortage, shared past, community deficiencies and past verbal art. Retained Witte group psychotherapy as separate association without inferred cause or outcome.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "6837bbab3d3071a47f790b86586dd26884a9adf8dbba69af038396a1bb83f0a3",
+    "current_sha256": "33bc756a6aa7178c49f055dbb423f03ef2ffc672b0c79001989df8cfe7d9d668",
+    "original_sha256": "5929e62f19c18ef30327f3d1be71ea24df8942312e8ef8c532fc9029f8268188",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-jupiter.md",
+    "before_sha256": "f338bebf439bde96ea52f1f57ed40a13cd64740086455d306b0ee51071a720c8",
+    "after_sha256": "be64b21b60a7fc6edf54be92aa11038d34e608e9d595ac29702d45394a95c174",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 52,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nGood fortune gone. To love to think of the past. To be deceived in money matters. To be influenced to buy second hand or old things. To feel at home in mixed society. To enrich oneself by stolen goods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `256`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nReports of financial crime, a financial emergency call, joy in writings from the past, young people's shortage of money, lack of pleasure in conversation, deficient legal thinking, adjudication in distress, and contented thoughts in old age.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGood fortune gone. To love to think of the past. To be deceived in money matters. To be influenced to buy second hand or old things. To feel at home in mixed society. To enrich oneself by stolen goods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nReports on financial crime, financial emergency call, joy over writings from the past, money shortage of youth, lack of speech pleasure, lack of right thinking, legal talk in need, and satisfied thoughts in old age",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-jupiter.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC Rechts-Denken/Recht-Sprechung mistranslated right thinking/legal talk; baseline treated second-hand buying/mixed society as tainted gain.",
+        "Baseline lacked meaningful six categories and connected source-linked synthesis."
+      ],
+      "changes": [
+        "Verified full eight-clause native256/PDF127 partial repair, distinguishing legal thinking/adjudication, financial distress/crime reports and positive old-writing/old-age satisfaction. Retained Witte source paragraph; bounded wrongdoing separately from ordinary old purchases/mixed company.",
+        "Added raw-checked complete Witte167 locator; preserved source headings/links and useful partial six-category comparison, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read current page, manifest and both native evidence entries; personally viewed exact oriented ABC127/Witte167 raw passages.",
+        "Inspected complete actual before/wiki diff and saved boundaries; source repair/preservation, clause coverage, exact formula, categories, citations and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified full eight-clause native256/PDF127 partial repair, distinguishing legal thinking/adjudication, financial distress/crime reports and positive old-writing/old-age satisfaction. Retained Witte source paragraph; bounded wrongdoing separately from ordinary old purchases/mixed company.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "0f74f22321b39758c24a9113aa8ad3baf55e27768dc7e823420af9c853a04e67",
+    "current_sha256": "be64b21b60a7fc6edf54be92aa11038d34e608e9d595ac29702d45394a95c174",
+    "original_sha256": "f338bebf439bde96ea52f1f57ed40a13cd64740086455d306b0ee51071a720c8",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-kronos.md",
+    "before_sha256": "0f92d427c002db301f655d8c62d2b7512dacf9f9b1d32b15b9d9b7b1362631f3",
+    "after_sha256": "3ae0e541ee7aec03edb3cb38ecae10d84be1aabfdd1db8530332975534d049c4",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 53,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nCalumny and satire concerning ruling persons.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `257`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nSpecial dangers for young people, dangerous media authority, the young leader's distress, opinions about disadvantage imposed by the authorities, reports of danger to the state, a state emergency call, secret state conversations, and important writings from the past.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCalumny and satire concerning ruling persons.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial youth dangers, dangerous media authorship, grief of the young boss, opinions about discrimination by the authorities, news about danger for the state, emergency call of the state, state secret language, and important writings from the past",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-kronos.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC Medien-Autorität became authorship and secret conversations became language; baseline equated satire with malicious slander.",
+        "Baseline lacked meaningful six categories and connected source-linked synthesis."
+      ],
+      "changes": [
+        "Verified full eight-clause native257/PDF127 partial repair with media authority, young chief distress, official disadvantage, state danger/emergency call, secret state discussion and important past writings. Retained Witte satire and calumny as distinct terms.",
+        "Added raw-checked complete Witte167 locator; preserved source headings/links and useful partial six-category comparison, connected attributed activator/base-axis synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read current page, manifest and both native evidence entries; personally viewed exact oriented ABC127/Witte167 raw passages.",
+        "Inspected complete actual before/wiki diff and saved boundaries; source repair/preservation, clause coverage, exact formula, categories, citations and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified full eight-clause native257/PDF127 partial repair with media authority, young chief distress, official disadvantage, state danger/emergency call, secret state discussion and important past writings. Retained Witte satire and calumny as distinct terms.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "1ea487638a19664d06e26f15666def23daff0c1d56419be9ce5f61abf70966f3",
+    "current_sha256": "3ae0e541ee7aec03edb3cb38ecae10d84be1aabfdd1db8530332975534d049c4",
+    "original_sha256": "0f92d427c002db301f655d8c62d2b7512dacf9f9b1d32b15b9d9b7b1362631f3",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-mars.md",
+    "before_sha256": "7a41906eef75802425922bd25bc913dc8cddf5ba5cfbf45cbb5f5e0d8a00e0dd",
+    "after_sha256": "bf14558ca6527db3e6ea2e0114645f24af3c02441d875c31c772daf30e6cc15b",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 54,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nTo hear about murder and to talk about it to others. Thoughts of robbery and murder. Criminal acts. To cause losses to others. Working with old plans or ideas. Actions with limited mobility.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `256`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nWorking with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and processing emergency calls.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo hear about murder and to talk about it to others. Thoughts of robbery and murder. Criminal acts. To cause losses to others. Working with old plans or ideas. Actions with limited mobility.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWorking with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and working emergency calls",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-mars.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC Not-Rufe bearbeiten rendered working emergency calls; baseline conflated reporting violence, criminal acts and old plans as hostile activity.",
+        "Baseline lacked meaningful six-category comparison and connected source-linked synthesis."
+      ],
+      "changes": [
+        "Verified complete eight-clause native256/PDF127 row and corrected processing emergency calls. Kept Witte work with old plans and limited-mobility actions separate rather than forcing both into one scenario; preserved reporting/acting distinction.",
+        "Added complete raw-checked Witte167 locator; preserved useful partial six categories, connected attributed exact-orientation synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read entire page, manifest and both native evidence records; personally viewed exact ABC127/Witte167 oriented raw rows.",
+        "Inspected actual complete before/wiki diff and saved page; source repair/preservation, full clause coverage, exact identity, categories, source links and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified complete eight-clause native256/PDF127 row and corrected processing emergency calls. Kept Witte work with old plans and limited-mobility actions separate rather than forcing both into one scenario; preserved reporting/acting distinction.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "d08068da7084d6a7c6a37f1b2a924d100a05ca2aa42208051425069a96bdab5e",
+    "current_sha256": "bf14558ca6527db3e6ea2e0114645f24af3c02441d875c31c772daf30e6cc15b",
+    "original_sha256": "7a41906eef75802425922bd25bc913dc8cddf5ba5cfbf45cbb5f5e0d8a00e0dd",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/mercury-hades-equals-mc.md",
+    "before_sha256": "ef4f462521b6149ac59a763607bf6b9381c1a07b9fe91aa1e13f715ecba34dff",
+    "after_sha256": "d0971bcc7790aad1c543b3b80ddd21fc03dea53ea4abeb7ff53301c6b6a864ac",
+    "ledger": "activations-034.jsonl",
+    "ledger_line": 55,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Mercury + Hades`\n- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).\n\n#### Witte Entry\n\nTo harbor bad thoughts, to hide them. Pessimistic attitude. Immovable attitude.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Merkur + Hades`\n- Source locator: printed p. `256`, PDF p. `127` (entry).\n- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.\n\n#### ABC Entry\n\nReports about emotional distress, secret soul-language, my reports about the past, my thoughts about poverty, my dangerous thoughts, I speak of deprivation, my criminal youth, my disadvantages in youth, and my emergency call.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo harbor bad thoughts, to hide them. Pessimistic attitude. Immovable attitude.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nReports on scelic distress, ghernc speleen language, my reports on the past, my thoughts on poverty, my dangerous thoughts, I speak of deprivation, my criminal youth, my disadvantages in youth, and my emergency call",
+    "ledger_record": {
+      "path": "wiki/activations/mercury-hades-equals-mc.md",
+      "reviewer": "activation_review_023_044",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "ABC emotional distress/secret soul-language opening corrupted; baseline inferred inevitable refusal to shift conclusions.",
+        "Baseline lacked meaningful six-category comparison and connected source-linked synthesis."
+      ],
+      "changes": [
+        "Verified full nine-clause native256/PDF127 partial repair: emotional distress, secret soul-language, first-person past/poverty/danger/deprivation/youth/emergency-call clauses. Retained complete Witte paragraph, with hidden bad thoughts/pessimism/immovable attitude attributed.",
+        "Added complete raw-checked Witte167 locator; preserved useful partial six categories, connected attributed exact-orientation synthesis, Identity route and immediate anchor."
+      ],
+      "verification": [
+        "Fully read entire page, manifest and both native evidence records; personally viewed exact ABC127/Witte167 oriented raw rows.",
+        "Inspected actual complete before/wiki diff and saved page; source repair/preservation, full clause coverage, exact identity, categories, source links and single adjacent anchor checked."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Verified full nine-clause native256/PDF127 partial repair: emotional distress, secret soul-language, first-person past/poverty/danger/deprivation/youth/emergency-call clauses. Retained complete Witte paragraph, with hidden bad thoughts/pessimism/immovable attitude attributed.",
+        "verification/activations-034-abc-pdf127.png",
+        "verification/activations-034-witte-pdf167.png"
+      ]
+    },
+    "ledger_record_sha256": "e961d7d5a9d7aae85c0b198f82bb525db65574f608d9b9c1cc16baa592e43890",
+    "current_sha256": "d0971bcc7790aad1c543b3b80ddd21fc03dea53ea4abeb7ff53301c6b6a864ac",
+    "original_sha256": "ef4f462521b6149ac59a763607bf6b9381c1a07b9fe91aa1e13f715ecba34dff",
+    "group": "mercury-hades"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-admetos.md",
+    "before_sha256": "506212d9373909b1f62c09d9bb52688dbd0990b8b8da24f4a73816906ef61497",
+    "after_sha256": "2c0f57fa75a29029ce20e0a7e6addd58530efe18181bdcd53647b152cc41e95b",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 27,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo be crowded and hindered for a long time. To be in a dilemma. “I can and must wait”. To have great patience.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nPerseverance of a mature soul, limitation of my tasks, strengthening of my patience, my disturbed circulation (`gestörter Kreislauf`), my thorough concentration, my painful depressions, suppression of my pains, and deepening into soul-related tasks.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be crowded and hindered for a long time. To be in a dilemma. “I can and must wait”. To have great patience.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPerseverance of a mature soul, limitation of my tasks, strengthening of my patience, my dead circle, my profound concentration, my painful depression, suppressing my pain, and deepening into mental tasks",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-admetos.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain prolonged hindrance met by patience and concentrated attention.",
+        "ABC dead circle corrected to disturbed Kreislauf; concentration and soul-task wording checked against printed77/PDF37."
+      ],
+      "changes": [
+        "In `Saturn/MC = Admetos`, Admetos specifies the Saturn/MC axis through prolonged restriction that demands waiting and sustained concentration. [Witte](#witte-entry) makes the dilemma explicit: one is crowded or hindered for a long time yet has great patience. [ABC](#abc-entry) adds narrowed tasks, strengthened patience, thorough concentration, and deeper engagement with soul-related tasks. Its painful depressions and suppressed pain describe the difficult side of that endurance; they do not establish a diagnosis.",
+        "ABC dead circle corrected to disturbed Kreislauf; concentration and soul-task wording checked against printed77/PDF37.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [
+        "ABC gestörter Kreislauf literally denotes disturbed circulation/cycle; precise intended application is unspecified."
+      ],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "5c8b5a7b77b8748e58c601a635b5d10279b0870164f1c5cc007beb55b57c9291",
+    "current_sha256": "2c0f57fa75a29029ce20e0a7e6addd58530efe18181bdcd53647b152cc41e95b",
+    "original_sha256": "506212d9373909b1f62c09d9bb52688dbd0990b8b8da24f4a73816906ef61497",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-apollon.md",
+    "before_sha256": "c33325923dc7697ccea78d63c2899c88f4d9016963efdb3a2782a5115b9e717a",
+    "after_sha256": "ca56ad9a892e539725e9d14b39a8fbab5c5f127481da860ffe697240b65f29e8",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 28,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo be a teacher, to instruct. Necessary to separate often. To separate from many.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nExpansion of my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, my successes through patience, my concentration on knowledge, my problematic experiences, and my successes in separation.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be a teacher, to instruct. Necessary to separate often. To separate from many.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExtending my tasks, experiences of a mature soul, my success through concentration, my loss of freedom, my patience, my concentration on knowledge, my problematic experiences, and my separation successes",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-apollon.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain teaching and knowledge developed through concentrated, patient experience.",
+        "ABC Gedulds-Erfolge restored as successes through patience, rather than my patience."
+      ],
+      "changes": [
+        "In `Saturn/MC = Apollon`, Apollon specifies the Saturn/MC axis through teaching, accumulated experience, and concentrated knowledge. [Witte](#witte-entry) names teaching and instruction alongside repeated separation from many people. [ABC](#abc-entry) adds expanding tasks and success through concentration and patience, while retaining loss of freedom and problematic experiences. Learning and instruction therefore coexist with limits and separations in this formula.",
+        "ABC Gedulds-Erfolge restored as successes through patience, rather than my patience.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "294b5f649126d5066bf49f61843f058be7b5ab2f3f8638d4c69e0705649b36d0",
+    "current_sha256": "ca56ad9a892e539725e9d14b39a8fbab5c5f127481da860ffe697240b65f29e8",
+    "original_sha256": "c33325923dc7697ccea78d63c2899c88f4d9016963efdb3a2782a5115b9e717a",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-asc.md",
+    "before_sha256": "a3af59b0641c5b8cd1607a38558e4ddcd0222347b7289d25124e8f5f3a9fb2fc",
+    "after_sha256": "e8cd27a53e4bb5dbb9fc63375885b00a0aca532a3999bf31ec5f4125878dbb4f",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 39,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo share other people’s grief. To separate from others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nOthers are hard on me, I am hard on others, my partner is serious, my partner is patient, my partnership duties, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0937`, printed p. 264; PDF p. 266.\n\n#### Ebertin Entry\n\nInhibition of growth or development, suffering from others, being placed in unfortunate circumstances. Sharing anxiety with others, a lonely person, parting from others, sadness.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nOne whom others see as serious and high-minded. One craves to fully identity with one’s spiritual self. The need to find greater confidence in being one’s own spiritual authority through giving up identifying with one’s limitations and inadequacies.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nFocusing on the achieving recognition for work done; adds a serious demeanor to your appearance; others see that you have had a formal and proper early training or education; you may relate well to only a few people.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo share other people’s grief. To separate from others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nOthers are hard on me, my partner is emst, my partner is patient, my partner's obligations, difficulties with others, my environmental tasks, my environmental problems, and my separation from the place\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nInhibition of growth or development, suffering from others, being placed in unfortunate circumstances. Sharing anxiety with others, a lonely person, parting from others, sadness.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne whom others see as serious and high-minded. One craves to fully identity with one’s spiritual self. The need to find greater confidence in being one’s own spiritual authority through giving up identifying with one’s limitations and inadequacies.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nFocusing on the achieving recognition for work done; adds a serious demeanor to your appearance; others see that you have had a formal and proper early training or education; you may relate well to only a few people.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-asc.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured serious personal presence and relationships shaped by duty, limitation, or shared grief.",
+        "ABC omitted I am hard on others restored; emst repaired as serious; Partner-Pflichten corrected to my partnership duties."
+      ],
+      "changes": [
+        "In `Saturn/MC = Asc`, Asc specifies the Saturn/MC axis through the way seriousness and limitation enter one's dealings with others. [ABC](#abc-entry) includes mutual hardness, a serious or patient partner, partnership duties, and environmental difficulties. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) add sharing grief or anxiety, separation, and loneliness.\n\nThe same interpersonal seriousness can appear as a formal demeanor or careful education in [Munkasey](#munkasey-entry). [Sandbach](#sandbach-entry) emphasizes being seen as high-minded and gaining confidence in one's own spiritual authority by loosening identification with inadequacy. The range extends from inhibited contact to a more confident serious presence.",
+        "ABC omitted I am hard on others restored; emst repaired as serious; Partner-Pflichten corrected to my partnership duties.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-266.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "25af0513488a16a46cdaa888959c9085ac3295d29b6ad9f53c9d0d2e50b40ce3",
+    "current_sha256": "e8cd27a53e4bb5dbb9fc63375885b00a0aca532a3999bf31ec5f4125878dbb4f",
+    "original_sha256": "a3af59b0641c5b8cd1607a38558e4ddcd0222347b7289d25124e8f5f3a9fb2fc",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-chiron.md",
+    "before_sha256": "555abf35b0e032cd9c0589435d28f645f133f1d8936bf7836f177d6cb79c2cd7",
+    "after_sha256": "421cd4c87aec39a4e41999e5e2e6536944b274c72f7be39eb18f8e968042e6e3",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 29,
+    "in_validator_snapshot": true,
+    "current": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nYour vibration helps others to be more high minded and to feel a deeper con nection to their spiritual self. You also help them, to the extent that they are ready, to listen to and follow their own inner guidance.",
+    "original": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nYour vibration helps others to be more high minded and to feel a deeper con nection to their spiritual self. You also help them, to the extent that they are ready, to listen to and follow their own inner guidance.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-chiron.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain helping others connect with their spiritual self and inner guidance."
+      ],
+      "changes": [
+        "In `Saturn/MC = Chiron`, Chiron specifies the Saturn/MC axis through an influence that helps others listen to their own spiritual guidance. [Sandbach](#sandbach-entry) describes encouraging a more high-minded outlook and a deeper connection with the spiritual self. That help depends expressly on the other person's readiness; the entry presents inner guidance as something they follow themselves.",
+        "Preserved source quotation; added exact source locator.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Sandbach PDF96; verification/a066-sandbach-096.png"
+      ]
+    },
+    "ledger_record_sha256": "aef4c44adc530b4dd5134ed94d66329699ef04910eeadf59518ba4cf82ea0dc8",
+    "current_sha256": "421cd4c87aec39a4e41999e5e2e6536944b274c72f7be39eb18f8e968042e6e3",
+    "original_sha256": "555abf35b0e032cd9c0589435d28f645f133f1d8936bf7836f177d6cb79c2cd7",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-cupido.md",
+    "before_sha256": "e66ea5c911df44979b49f5e474f9ca2b2bcd7d5da3783030a93ea874ec2dea88",
+    "after_sha256": "f412a3a1620b8b18fa94402ad2fc5de4ca766ba0bfd1b7b0564539db960164b4",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 30,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo separate from the family. To be oppressed because of separation. Family in mourning.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nOld-soul community, tasks of a soul community, community of disturbed souls, my tasks in the community, my problems in the community, my separation from the community, and mature souls in a community.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo separate from the family. To be oppressed because of separation. Family in mourning.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nOld Soul Community, Tasks of a Soul Community, Community of Gcstortcr Souls, My Tasks in the Community, My problems in the Community, My Separation from the Community, and Mature Souls in of a community",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-cupido.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain family or community membership marked by tasks, separation, and grief.",
+        "ABC unreadable Gcstortcr corrected from Gemeinschaft gestörter Seelen to community of disturbed souls."
+      ],
+      "changes": [
+        "In `Saturn/MC = Cupido`, Cupido specifies the Saturn/MC axis through family and community burdens. [Witte](#witte-entry) describes separation from family, oppression because of separation, and a family in mourning. [ABC](#abc-entry) broadens this to tasks and problems within a community, separation from it, and the presence of mature souls. Shared membership can carry responsibility and grief as well as maturity.",
+        "ABC unreadable Gcstortcr corrected from Gemeinschaft gestörter Seelen to community of disturbed souls.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "6c7c471a6fc23e7dedb6957e942619457b310aee8c9d0b13499487d7a680adba",
+    "current_sha256": "f412a3a1620b8b18fa94402ad2fc5de4ca766ba0bfd1b7b0564539db960164b4",
+    "original_sha256": "e66ea5c911df44979b49f5e474f9ca2b2bcd7d5da3783030a93ea874ec2dea88",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-hades.md",
+    "before_sha256": "9fc8b88a30426eb8079f632398a6a813fd2a2781701f10dd8f8510a421c50c36",
+    "after_sha256": "65991afda1ba0e3c45777cb415deebf968079ee1a813bb30e1494473b2694315",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 31,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nGrief through sickness or other causes. To be out of work. To cause enemies because of one’s own character.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nConcentration on soul-grief, my patience in need, my hard past, my concentration on the hidden, my lack of seriousness, my disadvantages through inhibitions, my soul-related problems, and my dangerous pains.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGrief through sickness or other causes. To be out of work. To cause enemies because of one’s own character.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nFocusing on soul cummers, my patience in need, my hard past, my concentration on the hidden, my lack of empathy, my disadvantages through inhibitions, my mental problems, and my dangerous pain",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-hades.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain grief and hardship involving the past, hidden matters, or material need.",
+        "ABC soul cummers repaired as soul-grief; Mangel an Ernsthaftigkeit corrected from lack of empathy to lack of seriousness."
+      ],
+      "changes": [
+        "In `Saturn/MC = Hades`, Hades specifies the Saturn/MC axis through grief, need, and burdens associated with the past or what is hidden. [ABC](#abc-entry) combines patience in hardship and concentration on concealed matters with inhibitions and soul-related problems. [Witte](#witte-entry) adds grief through sickness or other causes, unemployment, and making enemies through one's own character. The entry thus includes personal conduct as well as difficult circumstances.",
+        "ABC soul cummers repaired as soul-grief; Mangel an Ernsthaftigkeit corrected from lack of empathy to lack of seriousness.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "82c264b57c73e2026fae4d87e402b542e3a40853fe03f73bd030430c0e1b83af",
+    "current_sha256": "65991afda1ba0e3c45777cb415deebf968079ee1a813bb30e1494473b2694315",
+    "original_sha256": "9fc8b88a30426eb8079f632398a6a813fd2a2781701f10dd8f8510a421c50c36",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-jupiter.md",
+    "before_sha256": "7547d9cece6f32b22cecfcf94abe54ff2c3bc686018cca2c72f8305a07c266cc",
+    "after_sha256": "38d5f3a23c6a8a0cfcc15164d835b60ca74ee96b2814f97f2a1bde6716aed9c4",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 40,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nA change of residence. Constraining happiness. Happy separation. To lose of burden.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nDisturbed soul-peace, happiness of a mature soul, inner happiness through seriousness, my success through endurance, my financial losses, my disturbed happiness, my joy in old age, my legal problems, and soul-joy despite pains.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0932`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nPlain and simple, modest, contented. Clinging to hopes or trying to look on the good side of things. Changing fortunes, change of abode or residence.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nEnthusiasm for careful and patient progress. A willingness to learn more about the difficulties encountered in spiritual growth and how they may be solved. A strong motivation to be disciplined and patient in one’s career.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nActivates others to give you counsel and advice about your self-imposed limitations; advice on how to grow as a person; becoming an avid reader and student; feeling happiness about life’s progress; growing social acumen.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA change of residence. Constraining happiness. Happy separation. To lose of burden.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nLost Soul Peace, Happiness of a mature soul, Inner Happiness by Empathy, My Success by Perseverance, My Financial Loss, My Steady Happiness, My Joy in Old Age, My Right problems, and Soul Joy despite Pain\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nPlain and simple, modest, contented. Clinging to hopes or trying to look on the good side of things. Changing fortunes, change of abode or residence.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nEnthusiasm for careful and patient progress. A willingness to learn more about the difficulties encountered in spiritual growth and how they may be solved. A strong motivation to be disciplined and patient in one’s career.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nActivates others to give you counsel and advice about your self-imposed limitations; advice on how to grow as a person; becoming an avid reader and student; feeling happiness about life’s progress; growing social acumen.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-jupiter.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured patient growth and modest satisfaction amid personal limits or changing fortunes.",
+        "ABC empathy corrected to seriousness (Ernsthaftigkeit), steady happiness to disturbed happiness (gestörtes Glück), and Right problems to legal problems."
+      ],
+      "changes": [
+        "In `Saturn/MC = Jupiter`, Jupiter specifies the Saturn/MC axis through patient progress and the possibility of finding satisfaction amid limits. [Ebertin](#ebertin-entry) describes modest contentment and holding to hope; [Sandbach](#sandbach-entry) adds enthusiasm for disciplined career progress and learning through difficulties in spiritual growth. [Munkasey](#munkasey-entry) connects counsel, study, and social understanding with growth beyond self-imposed limits.\n\nContentment does not erase reversals. [ABC](#abc-entry) retains disturbed peace, financial loss, and legal problems beside endurance and joy despite pain. [Witte](#witte-entry) and Ebertin both name a change of residence, while Witte also includes happy separation and constrained happiness.",
+        "ABC empathy corrected to seriousness (Ernsthaftigkeit), steady happiness to disturbed happiness (gestörtes Glück), and Right problems to legal problems.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [
+        "Witte PDF66 itself prints To lose of burden; phrase retained but excluded from confident synthesis."
+      ],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "8f35a6628cdc3ea01efb09982c546083d895b87235493073117fc40cefc8764f",
+    "current_sha256": "38d5f3a23c6a8a0cfcc15164d835b60ca74ee96b2814f97f2a1bde6716aed9c4",
+    "original_sha256": "7547d9cece6f32b22cecfcf94abe54ff2c3bc686018cca2c72f8305a07c266cc",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-kronos.md",
+    "before_sha256": "70ae56c50f6702623a886c0571bc33a54ddc5210c48d05874de03fa09fa8e1f6",
+    "after_sha256": "4eb6176c961257081084edcfc7c5efeb7658eb9835e071d7185c6f5a8b937e26",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 32,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nA sense of responsibility towards the family. Tax worries.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nAuthority of a mature soul, my special duties, my great endurance, my important tasks, my great patience, my concentration on the boss, my problems with the state, self-confidence of an old soul, and priority soul-related tasks.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA sense of responsibility towards the family. Tax worries.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAuthority of a mature soul, my special duties, my great perseverance, my important tasks, my great patience, my concentration on the boss, my problems with the state, self believing of an old soul, and primary mental tasks",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-kronos.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain important duties and personal responsibility involving family or authority.",
+        "ABC self believing repaired from Selbstbewusstsein to self-confidence; priority soul-task phrase clarified."
+      ],
+      "changes": [
+        "In `Saturn/MC = Kronos`, Kronos specifies the Saturn/MC axis through weighty duties and responsibility. [Witte](#witte-entry) locates these in responsibility toward family and worries over taxes. [ABC](#abc-entry) adds important tasks, endurance, patience, attention to a superior, and problems with the state. Its mature-soul authority and self-confidence sit beside these obligations, giving the formula both a responsible and a burdened expression.",
+        "ABC self believing repaired from Selbstbewusstsein to self-confidence; priority soul-task phrase clarified.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "681c90c316d8d01824d56940c28acf508b7f6bba56e9bbcbd20fa8a9363ff09d",
+    "current_sha256": "4eb6176c961257081084edcfc7c5efeb7658eb9835e071d7185c6f5a8b937e26",
+    "original_sha256": "70ae56c50f6702623a886c0571bc33a54ddc5210c48d05874de03fa09fa8e1f6",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-mars.md",
+    "before_sha256": "cea4b8a023bcaf79a9ec0273e2ee5dbc9b6f8f418c56afd462900284ac85d358",
+    "after_sha256": "f890c031d76fec92b837727efd90d5a277e99addce4bf244fa40f9b824554660",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 41,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo work slowly. Not being able to work properly. To terminate or interrupt work. Sorrows brought on by one’s own actions. Suffering at work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nWork of a mature soul, patient soul-work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0931`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nLack of initiative and enterprise, tendency to be docile or to give in. Feeling defenseless, suffering under oppression, need to obediently accept one's destiny, enforced separation, mourning and bereavement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nTo act in a careful and high-minded fashion. Working to gradually advance one self in one’s profession. To hold one’s actions in alignment with high ethical standards.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nIncreased personal effort and energy put into growing and developing self as a person; adds to the struggles and intensity of the battles you face; courage and stamina for coping with life’s various tests; a drive to succeed at work.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo work slowly. Not being able to work properly. To terminate or interrupt work. Sorrows brought on by one’s own actions. Suffering at work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWork of a mature soul, patient soul work, my work tasks, my serious work, my patience at work, my hard work, my concentration on work, my problems at work, and loss of my work\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLack of initiative and enterprise, tendency to be docile or to give in. Feeling defenseless, suffering under oppression, need to obediently accept one's destiny, enforced separation, mourning and bereavement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo act in a careful and high-minded fashion. Working to gradually advance one self in one’s profession. To hold one’s actions in alignment with high ethical standards.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nIncreased personal effort and energy put into growing and developing self as a person; adds to the struggles and intensity of the battles you face; courage and stamina for coping with life’s various tests; a drive to succeed at work.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-mars.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured serious work and effort that may advance gradually or meet interruption.",
+        "ABC work sequence checked and clarified against German, retaining all nine work motifs."
+      ],
+      "changes": [
+        "In `Saturn/MC = Mars`, Mars specifies the Saturn/MC axis through the effort, discipline, and difficulties of work. [ABC](#abc-entry) joins serious work and patient concentration to problems and loss of work. [Witte](#witte-entry) makes the obstruction concrete in slow, interrupted, or improperly performed work and sorrow arising from one's own actions.\n\n[Sandbach](#sandbach-entry) describes careful ethical action and gradual professional advance, while [Munkasey](#munkasey-entry) emphasizes stamina and the drive to improve oneself. [Ebertin](#ebertin-entry) supplies the contrasting possibility of lost initiative, defenselessness, and submission under oppression. Sustained effort and inhibited action are both supported expressions.",
+        "ABC work sequence checked and clarified against German, retaining all nine work motifs.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "4c7bc8150d951b4956117d00f65bea3073dcb46bdc70efb3b6622ce650dd31fe",
+    "current_sha256": "f890c031d76fec92b837727efd90d5a277e99addce4bf244fa40f9b824554660",
+    "original_sha256": "cea4b8a023bcaf79a9ec0273e2ee5dbc9b6f8f418c56afd462900284ac85d358",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-mc.md",
+    "before_sha256": "97c3f04a8c9574e988a84c5f27375ae11e7a798b992d8328c8f05d790d639e56",
+    "after_sha256": "63abffbb3308de96c9cffe7bd544b5b4d192641bcc7287d59cb2e5f15f9d7f41",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 33,
+    "in_validator_snapshot": true,
+    "current": "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN With Itself`\n- Source page: `306` (PDF p. 307)\n\n#### Munkasey Entry\n\nRecognition for prior work well down; an enhanced reputation for work completed earlier; strengthens the respect others have for your abilities; you find confirmation from experiences in life for your convictions and goals.",
+    "original": "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN With Itself`\n- Source page: `306`\n\n#### Munkasey Entry\n\nRecognition for prior work well down; an enhanced reputation for work completed earlier; strengthens the respect others have for your abilities; you find confirmation from experiences in life for your convictions and goals.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-mc.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain recognition of completed work and confirmation of goals."
+      ],
+      "changes": [
+        "In `Saturn/MC = MC`, the repeated MC specifies the Saturn/MC axis through recognition of work already completed. [Munkasey](#munkasey-entry) links an enhanced reputation and others' respect for one's abilities with experience that confirms convictions and goals. The emphasis is on acknowledgment of prior accomplishment and firmer direction.",
+        "Preserved source quotation; added exact source locator.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed306/PDF307; verification/a066-munkasey-307.png"
+      ]
+    },
+    "ledger_record_sha256": "4ab56a5b4539efc4f2302d7bbf474177f874e61439a4e23b30ce66dbcf79854f",
+    "current_sha256": "63abffbb3308de96c9cffe7bd544b5b4d192641bcc7287d59cb2e5f15f9d7f41",
+    "original_sha256": "97c3f04a8c9574e988a84c5f27375ae11e7a798b992d8328c8f05d790d639e56",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-mercury.md",
+    "before_sha256": "acdd1e5ca8860d29a9de9eed77637987465bc2ed3e1d9c2a2614038739035e44",
+    "after_sha256": "eb2424e6406d7dcaed169989fc19a5568140c8af7770c8121a752515b53d06d1",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 42,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo be sorrowful or brooding. To comprehend slowly. To subject oneself to thoughts of separation. To be obliged to separate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nSoulful, serious speech, conversations about my disturbances, considering my tasks, my thought-concentration, my thoughts of separation, my losses in youth, speaking with mature souls, and discussing soul-related problems.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0929`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nIndulging melancholy thoughts, unhappy experiences, concentrating on oneself, inclination to meditate or brood. Thoughts of separation, the moment of saying good-bye.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 95.\n\n#### Sandbach Entry\n\nOne aims for absolute ethicality in one’s thinking and communicating. One is uncertain about the rectitude of one’s ideas because one feels insecure about being one’s own authority.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nApplying whatever intelligence you have toward making your position or mark in the world; an articulate, thinking, intelligent person who relies on logic and persistence to analyze situations; rigid formal schooling rules.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be sorrowful or brooding. To comprehend slowly. To subject oneself to thoughts of separation. To be obliged to separate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWorried serious language, talk about my disturbances, consider my tasks, my thoughts concentration, my separation thoughts, my losses in youth, talk to mature souls, and discuss mental problems\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nIndulging melancholy thoughts, unhappy experiences, concentrating on oneself, inclination to meditate or brood. Thoughts of separation, the moment of saying good-bye.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne aims for absolute ethicality in one’s thinking and communicating. One is uncertain about the rectitude of one’s ideas because one feels insecure about being one’s own authority.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nApplying whatever intelligence you have toward making your position or mark in the world; an articulate, thinking, intelligent person who relies on logic and persistence to analyze situations; rigid formal schooling rules.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-mercury.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured serious communication and concentrated thinking, including separation thoughts.",
+        "ABC Beseelte ernste Sprache corrected from Worried serious language to soulful, serious speech."
+      ],
+      "changes": [
+        "In `Saturn/MC = Mercury`, Mercury specifies the Saturn/MC axis through serious thought, speech, and concentrated learning. [ABC](#abc-entry) includes discussing difficulties and tasks as well as thoughts of separation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize brooding, melancholy, slow comprehension, and saying goodbye.\n\n[Munkasey](#munkasey-entry) adds persistent logic, analysis, and formal schooling. [Sandbach](#sandbach-entry) gives this seriousness an ethical concern: seeking right thinking and communication while doubting one's own authority. Reflection can therefore support disciplined understanding or become burdened by sorrow and uncertainty.",
+        "ABC Beseelte ernste Sprache corrected from Worried serious language to soulful, serious speech.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-095.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "16f65f01956f7d7a002cd544bf3ae9e1cf1649a7601e0eb44f2d133c4e98e1b9",
+    "current_sha256": "eb2424e6406d7dcaed169989fc19a5568140c8af7770c8121a752515b53d06d1",
+    "original_sha256": "acdd1e5ca8860d29a9de9eed77637987465bc2ed3e1d9c2a2614038739035e44",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-moon.md",
+    "before_sha256": "31d896ee64688f43e8900ab828dc577c497f482c9ca30d667d6a144c3c10e2fe",
+    "after_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 43,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo avoid or to deny public appearance. To separate from others. The frame of mind due to the separation from a woman.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nMy task as a woman, my disturbed people, my women's problems, my emotional problems, my wife's duties, problems of my people, a mature woman's soul, my wife's pains, the woman's soul-pains, and loss of my mother.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0928`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nSadness or melancholy, impressionable, a person easily depressed, inclination to fall into states of depression or psychoses. Suffering from members of the female sex.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 95.\n\n#### Sandbach Entry\n\nOne finds security in a settled and certain career, but this can change to insecu rity eventually if it is not the right career for you. One is very impressionable to the ideas of people in authority.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nA restrictive but nurturing parent; stifled in your childhood; a family which dominates your early life; subordinating yourself to the needs of the family; traditional values with ordinary or plain starts; strict family values or ethics.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo avoid or to deny public appearance. To separate from others. The frame of mind due to the separation from a woman.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy autgae as a woman, my stiff people, my women's problems, my feelings problems, my wife's duties, my people's problems, my mature women's soul, my wife's pain, the woman's emotional pain, and my mother's loss\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nSadness or melancholy, impressionable, a person easily depressed, inclination to fall into states of depression or psychoses. Suffering from members of the female sex.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne finds security in a settled and certain career, but this can change to insecu rity eventually if it is not the right career for you. One is very impressionable to the ideas of people in authority.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nA restrictive but nurturing parent; stifled in your childhood; a family which dominates your early life; subordinating yourself to the needs of the family; traditional values with ordinary or plain starts; strict family values or ethics.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-moon.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured emotional security and family life affected by restriction, authority, or separation.",
+        "ABC autgae repaired from Aufgabe as task; stiff people corrected from gestörtes Volk as disturbed people; complete gendered sequence retained."
+      ],
+      "changes": [
+        "In `Saturn/MC = Moon`, Moon specifies the Saturn/MC axis through emotional security, family expectations, and the pain of separation. [Witte](#witte-entry) describes withdrawing from public appearance and a mood shaped by separation from a woman. [ABC](#abc-entry) retains duties and difficulties involving women, wife, mother, and one's people in its historical gendered vocabulary.\n\n[Munkasey](#munkasey-entry) emphasizes strict family values, restrictive upbringing, and subordinating oneself to family needs. [Sandbach](#sandbach-entry) connects security with a settled career but allows insecurity when that career does not fit, alongside impressionability toward authority. [Ebertin](#ebertin-entry) emphasizes melancholy and susceptibility to depression; his psychosis language remains an attributed historical claim.",
+        "ABC autgae repaired from Aufgabe as task; stiff people corrected from gestörtes Volk as disturbed people; complete gendered sequence retained.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-095.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "98f4b63d8207b10a25425218af65dd46ca22ab223ee9f8eaa1c905aebf738e8f",
+    "current_sha256": "520c586bee2a71e906b0438ac89627afdc42c2b37bd1f48d26e7a2653aa19fed",
+    "original_sha256": "31d896ee64688f43e8900ab828dc577c497f482c9ca30d667d6a144c3c10e2fe",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-neptune.md",
+    "before_sha256": "267db5beafe21e4def9c6475167516b2f1ef8cd9bd2892c9a89bf899aad4e684",
+    "after_sha256": "c21403a5366a5d8754db64ed450e9d3041c7b6dedf00e84d84e3ed0998755a4b",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 44,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nSorrow through want of clearness or through resistance. To grieve over the falseness of others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nOld soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, and my future problems.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0934`, printed p. 264; PDF p. 266.\n\n#### Ebertin Entry\n\nLack of clarity, peculiar and depressing circumstances. Loneliness increasing with age, disappointment, emotional suffering, mourning.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nTo intuit the deeper meanings of spiritual concepts. To idealize authorities and consequently the potential of being let down by them. Negative imaginings cut one off from one’s spiritual source. To imagine that one has a lack of security in life.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nUnnecessary fears about your alleged problems; added delusions that you can not easily cope with problems; increased needs to escape thru drugs; inspiration achieved thru maturity and discipline.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSorrow through want of clearness or through resistance. To grieve over the falseness of others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nOld soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, the unfolding of the soul as a task, my developmental tasks, and my patience in privation\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLack of clarity, peculiar and depressing circumstances. Loneliness increasing with age, disappointment, emotional suffering, mourning.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo intuit the deeper meanings of spiritual concepts. To idealize authorities and consequently the potential of being let down by them. Negative imaginings cut one off from one’s spiritual source. To imagine that one has a lack of security in life.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nUnnecessary fears about your alleged problems; added delusions that you can not easily cope with problems; increased needs to escape thru drugs; inspiration achieved thru maturity and discipline.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-neptune.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured uncertainty and sensitivity affecting security, purpose, or confidence in authority.",
+        "ABC boundary corrected: restored future problems, removed three absorbed Pluto clauses; Neptune ends before Pluto glyph at printed77/PDF37."
+      ],
+      "changes": [
+        "In `Saturn/MC = Neptune`, Neptune specifies the Saturn/MC axis through uncertainty about one's circumstances, security, or guiding authorities. [Witte](#witte-entry) links sorrow to lack of clarity, resistance, or others' falseness; [Ebertin](#ebertin-entry) adds disappointment and loneliness. [Sandbach](#sandbach-entry) describes both deeper spiritual intuition and the risk of idealizing authorities or imagining insecurity.\n\n[Munkasey](#munkasey-entry) similarly places fears about coping and escape through drugs beside inspiration achieved through maturity and discipline. [ABC](#abc-entry) adds sensitivity, refinement, and future problems. These entries support a range from disciplined inspiration to discouragement under unclear or feared difficulties.",
+        "ABC boundary corrected: restored future problems, removed three absorbed Pluto clauses; Neptune ends before Pluto glyph at printed77/PDF37.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-266.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "e1c41dd40c186319e0db028d0708228479f90596f563155dfebbbf8b3b3d04ed",
+    "current_sha256": "c21403a5366a5d8754db64ed450e9d3041c7b6dedf00e84d84e3ed0998755a4b",
+    "original_sha256": "267db5beafe21e4def9c6475167516b2f1ef8cd9bd2892c9a89bf899aad4e684",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-node.md",
+    "before_sha256": "cde4dcd807d8ba2d14284add81777e7917c7329b8b6cffdfd0a65b807f16e2b4",
+    "after_sha256": "b6d52e285a4918d8ef7c90098a236f440e23fb3e001c99a99e02869a1d32f088",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 45,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nBurdening relationships. To suffer. To be united by suffering. To say good-bye. Disconnecting contacts or relationships.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nEndurance in my connections, my patience in connections, my inhibitions in encounters, my duties in connections, my problematic connections, soul-related tasks in connections, and connection with mature souls.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0936`, printed p. 264; PDF p. 266.\n\n#### Ebertin Entry\n\nSympathy and compassion. A link with others through bad circumstances or mourning. People in mourning.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nThe need to seek out connections with others who can help one become more in tune with one’s purpose in life. To feel a lack of respect coming from the people or groups with whom one is connected.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nIncreased struggles to succeed in life; the importance of working with the people who can offer help or assistance; a need to work along with others and to share accomplishments and goals thru them; dependency on people.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBurdening relationships. To suffer. To be united by suffering. To say good-bye. Disconnecting contacts or relationships.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPerseverance in my connections, my patience in connections, my inhibitions in encounters, my duties in connections, my problematic connections, mental tasks in connections, and association with mature souls\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nSympathy and compassion. A link with others through bad circumstances or mourning. People in mourning.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nThe need to seek out connections with others who can help one become more in tune with one’s purpose in life. To feel a lack of respect coming from the people or groups with whom one is connected.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nIncreased struggles to succeed in life; the importance of working with the people who can offer help or assistance; a need to work along with others and to share accomplishments and goals thru them; dependency on people.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-node.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured relationships carrying duties, shared difficulties, or support for purpose.",
+        "ABC complete seven-clause connection sequence checked against printed76/PDF37."
+      ],
+      "changes": [
+        "In `Saturn/MC = Node`, Node specifies the Saturn/MC axis through consequential bonds with others. [ABC](#abc-entry) emphasizes endurance, patience, duties, and problems in connections. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) add relationships united by suffering, compassion, mourning, and separation.\n\nConnections can also support purpose. [Sandbach](#sandbach-entry) describes seeking people who help one become more attuned to life's purpose, while acknowledging a felt lack of respect from a group. [Munkasey](#munkasey-entry) adds helpful people and shared goals alongside struggles and dependency. The relationship may carry both support and burden.",
+        "ABC complete seven-clause connection sequence checked against printed76/PDF37.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-266.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "f7d53a8fd7fdbfe15ab7b9382da946b6934324dc3393d9940d36f0f8ac11bf9f",
+    "current_sha256": "b6d52e285a4918d8ef7c90098a236f440e23fb3e001c99a99e02869a1d32f088",
+    "original_sha256": "cde4dcd807d8ba2d14284add81777e7917c7329b8b6cffdfd0a65b807f16e2b4",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-pluto.md",
+    "before_sha256": "faa38649ece2eb90a4480eb0d5b1844123b622a38cdd1b1428dbebd7b0293a84",
+    "after_sha256": "c779456cc1e6f9125fb4006780a9a7ed62fcf6bef73893ddce805c5f37c04f7e",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 46,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nSlow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nUnfolding of the soul as a task, my developmental tasks, my patience in development, my hard change, my concentrated unfolding, my growing duties, my changing tasks, and transformations toward soul-maturity.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0935`, printed p. 264; PDF p. 266.\n\n#### Ebertin Entry\n\nAttainment of success in life only under great difficulties. A fateful struggle, a struggle ordained by destiny.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nA relentless search for ultimate authorities, expressed sometimes as an extreme need for a father figure. A driving urge to rise to the highest possible level in one’s profession.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nA need to be in control over people and situations at all times; great changes in life’s conditions; a strong repression of your work or abilities by others; added will power to accomplish whatever it is you set your mind to do.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nE Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment, my hard change, my concentrated development, my growing responsibilities, my changing responsibilities, and changes to soul relief\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAttainment of success in life only under great difficulties. A fateful struggle, a struggle ordained by destiny.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA relentless search for ultimate authorities, expressed sometimes as an extreme need for a father figure. A driving urge to rise to the highest possible level in one’s profession.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nA need to be in control over people and situations at all times; great changes in life’s conditions; a strong repression of your work or abilities by others; added will power to accomplish whatever it is you set your mind to do.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-pluto.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured development and achievement pursued through difficult change or obstruction.",
+        "ABC Pluto opening three clauses restored from Neptune, followed by complete development sequence; soul relief corrected to soul-maturity. Witte stray E removed as printed Pluto display glyph."
+      ],
+      "changes": [
+        "In `Saturn/MC = Pluto`, Pluto specifies the Saturn/MC axis through demanding development and struggles over direction or control. [ABC](#abc-entry) connects soul-development with patience, hard change, and growing duties. [Witte](#witte-entry) adds slow or interrupted development and sadness over divorce, while [Ebertin](#ebertin-entry) stresses success attained only through great difficulty.\n\n[Sandbach](#sandbach-entry) describes a relentless search for ultimate authority and a strong professional ambition. [Munkasey](#munkasey-entry) adds willpower, major change, efforts to control people or events, and work repressed by others. The common concern is development under pressure, with ambition and control complicating the effort.",
+        "ABC Pluto opening three clauses restored from Neptune, followed by complete development sequence; soul relief corrected to soul-maturity. Witte stray E removed as printed Pluto display glyph.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-266.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "b4d481c877c333d3b0e353c64b56a2a05ff494c36bf64ae54581588bd6f89e34",
+    "current_sha256": "c779456cc1e6f9125fb4006780a9a7ed62fcf6bef73893ddce805c5f37c04f7e",
+    "original_sha256": "faa38649ece2eb90a4480eb0d5b1844123b622a38cdd1b1428dbebd7b0293a84",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-poseidon.md",
+    "before_sha256": "e891561b5f59979883afb55d49ab2dc60031557111d522fe33c643831ea686aa",
+    "after_sha256": "9c8f51bb639980b57e0efe223686298aa4939c005879c2eb700baaf58b71d5b7",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 34,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo be an educator. To cause hindrances on the mental plane.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nInsights about soul and spirit, clarity of an old soul, concentration on the life-element (`Lebens-Element`), my spiritual tasks, my concentration on spirit, a mature spirit-soul, disturbances between soul and spirit, and separation from the life-element.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be an educator. To cause hindrances on the mental plane.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nFindings about soul and spirit, clarity of an old soul, concentration on the life element, my spiritual tasks, my concentration on the mind, mature spirit soul, disturbances between soul and spirit, and separation from the life element",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-poseidon.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain education and concentration on soul and spirit, with mental hindrances.",
+        "ABC life-element preserved with exact German Lebens-Element rather than extrapolated."
+      ],
+      "changes": [
+        "In `Saturn/MC = Poseidon`, Poseidon specifies the Saturn/MC axis through education and concentrated attention to soul and spirit. [Witte](#witte-entry) names an educator and hindrances on the mental plane. [ABC](#abc-entry) joins clarity and spiritual tasks to disturbances between soul and spirit. The range includes the work of understanding and teaching, together with obstacles to that work; ABC's undefined life-element remains a source term.",
+        "ABC life-element preserved with exact German Lebens-Element rather than extrapolated.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [
+        "ABC Lebens-Element is not defined by this row; excluded from a concrete physiological interpretation."
+      ],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "d08b2b4c6e681f28b1f62d78672371eae40c482c5d83b192d5d9e78975dea0c4",
+    "current_sha256": "9c8f51bb639980b57e0efe223686298aa4939c005879c2eb700baaf58b71d5b7",
+    "original_sha256": "e891561b5f59979883afb55d49ab2dc60031557111d522fe33c643831ea686aa",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-saturn.md",
+    "before_sha256": "6f889d8fd5eab1f00d0b42f10ab8dbf8fef1c1586b09ee9ffae15200c1029cc0",
+    "after_sha256": "dafdf77e5655b71906b14c11167567bd4689ba5ae2fbb18c7a9afff2ffcf892e",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 35,
+    "in_validator_snapshot": true,
+    "current": "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN With Itself`\n- Source page: `306` (PDF p. 307)\n\n#### Munkasey Entry\n\nAdditional caution in planning what you will do in life and how you achieve your goals; slows down your impulses to progress with your life and to seek deserved recognition for your efforts and accomplishments.",
+    "original": "### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN With Itself`\n- Source page: `306`\n\n#### Munkasey Entry\n\nAdditional caution in planning what you will do in life and how you achieve your goals; slows down your impulses to progress with your life and to seek deserved recognition for your efforts and accomplishments.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-saturn.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain additional caution in planning one's life and pursuing goals."
+      ],
+      "changes": [
+        "In `Saturn/MC = Saturn`, the repeated Saturn specifies the Saturn/MC axis through additional caution about life's plans and goals. [Munkasey](#munkasey-entry) describes slower impulses to advance or to seek deserved recognition for effort and accomplishment. The entry connects deliberation with restraint in pursuing acknowledgment.",
+        "Preserved source quotation; added exact source locator.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed306/PDF307; verification/a066-munkasey-307.png"
+      ]
+    },
+    "ledger_record_sha256": "8f45baff493359331c2488234c74735ff320bccef982abda6c2d84fb649ce379",
+    "current_sha256": "dafdf77e5655b71906b14c11167567bd4689ba5ae2fbb18c7a9afff2ffcf892e",
+    "original_sha256": "6f889d8fd5eab1f00d0b42f10ab8dbf8fef1c1586b09ee9ffae15200c1029cc0",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-sun.md",
+    "before_sha256": "b191fab4edf74e95fa595fad3e6fb0be48bf5266d0e79388f792e28c3929092d",
+    "after_sha256": "1206fcad097bb598ba71d3ea27c20fa7c63bd2e94f65b12b32462fb9f92aca10",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 47,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nPersonal opponents. To worry. To become feeble from sorrows. Physical separations. Day of personal restraint.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nMy endurance as a man, my patience for people, my bodily pains, my personal tasks, my personal inhibitions, my personal problems, a mature human soul, and my separation from people.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0927`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nLack of courage to face life, insufficient powers of defense with regard to other people. Tendency to worry oneself, emotional depression, sickness.\n\n#### Historical Footnote 57 — Sun Activation\n\n57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.\n\nThe source attaches this historical report to the Sun marker (code `0927`), not to Uranus. Its explicit qualification is part of the source's claim.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 95.\n\n#### Sandbach Entry\n\nOne feels it is important to find the right sort of authority figures who one can trust and from whom one can receive needed guidance. Frustrations concerning one’s career cause a lack of self-confidence or self-esteem. When one is truly pursuing one’s spiritual path one has much vitality.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nBecoming the master of your own fate despite an early life which limited or restricted your growth or development; recognition from others for the work you do or are able to accomplish; driven to perform for praise.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPersonal opponents. To worry. To become feeble from sorrows. Physical separations. Day of personal restraint.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nmy Ausdaucr as a man, my patience for the people, my corporal pain, my personal abandonment, my personal inhibitions, my personal problems, mature human soul, and my separation from humans\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLack of courage to face life, insufficient powers of defense with regard to other people. Tendency to worry oneself, emotional depression, sickness.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne feels it is important to find the right sort of authority figures who one can trust and from whom one can receive needed guidance. Frustrations concerning one’s career cause a lack of self-confidence or self-esteem. When one is truly pursuing one’s spiritual path one has much vitality.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nBecoming the master of your own fate despite an early life which limited or restricted your growth or development; recognition from others for the work you do or are able to accomplish; driven to perform for praise.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-sun.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured personal endurance and confidence tested by duties, restrictions, or career direction.",
+        "ABC Ausdaucr repaired as endurance and abandonment corrected to personal tasks (Aufgaben). Ebertin footnote57 moved intact from Uranus extraction to its actual Sun marker0927, printed263/PDF265."
+      ],
+      "changes": [
+        "In `Saturn/MC = Sun`, Sun specifies the Saturn/MC axis through the personal cost of duties, obstacles, and the search for a fitting direction. [ABC](#abc-entry) includes endurance, personal tasks, bodily pain, inhibitions, and separation. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) add worry, reduced confidence or powers of defense, and sorrow affecting vitality.\n\n[Sandbach](#sandbach-entry) connects self-esteem with career frustrations and describes vitality when one follows a true spiritual path. [Munkasey](#munkasey-entry) emphasizes mastering one's life despite early restrictions and seeking recognition for work. These entries retain both strained personal confidence and determined achievement; Ebertin's separate historical footnote remains attributed and cannot establish a medical diagnosis.",
+        "ABC Ausdaucr repaired as endurance and abandonment corrected to personal tasks (Aufgaben). Ebertin footnote57 moved intact from Uranus extraction to its actual Sun marker0927, printed263/PDF265.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed.",
+        "Footnote57 exactly preserved under Sun; removed from Uranus; actual scan superscript attaches to Sun code0927."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-095.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "b41d0be5f2560e6cbe8bcdd962045cd9d402cb3f499884b8ebe1dfebb64a6b2f",
+    "current_sha256": "1206fcad097bb598ba71d3ea27c20fa7c63bd2e94f65b12b32462fb9f92aca10",
+    "original_sha256": "b191fab4edf74e95fa595fad3e6fb0be48bf5266d0e79388f792e28c3929092d",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-uranus.md",
+    "before_sha256": "6cd4fe54d7e9adf249c969ab91d54db12133dae573610823f4f20f27aab147f1",
+    "after_sha256": "7c2e19615fc5780c9a1d8b47478f055d35b5aa33c5342b6884ac90fb134280ff",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 48,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nExcitement by hindrances. To experience sudden sadness. To cause a sudden quarrel or a separation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nSerious soul-tensions, my inhibited rhythm, my inhibiting nervousness, my nervous pains, my new duties, my sudden hardness, my technical tasks, sudden pains of the soul, and restlessness of a mature soul.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0933`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nEmotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nA genius for questioning authority and pointing out its inadequacies and deficits, thereby helping others to find authorities who are more connected to Spirit, that is, of a higher vibrational nature. An original, unique, and/or inspired way of struc turing spiritual knowledge.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nEmotional detachment when assessing interpersonal qualities and status; a scientific or sterile outlook for assessing events in the world; friendships with serious astrologers or researchers; unusual ways to mark progress.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nExcitement by hindrances. To experience sudden sadness. To cause a sudden quarrel or a separation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nserious mental tensions, my inhibited rhythm, my inhibiting nervousness my nervous pain, my new duties, my sudden hardness, my Czech pains, sudden pains of the soul, and restlessness of a mature soul\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nEmotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement. 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA genius for questioning authority and pointing out its inadequacies and deficits, thereby helping others to find authorities who are more connected to Spirit, that is, of a higher vibrational nature. An original, unique, and/or inspired way of struc turing spiritual knowledge.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nEmotional detachment when assessing interpersonal qualities and status; a scientific or sterile outlook for assessing events in the world; friendships with serious astrologers or researchers; unusual ways to mark progress.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-uranus.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured tension around obstacles or authority, with unusual approaches to knowledge and progress.",
+        "ABC Czech pains corrected from technischen Aufgaben to technical tasks. Ebertin footnote57 removed from Uranus main entry and preserved intact on its actual Sun activation."
+      ],
+      "changes": [
+        "In `Saturn/MC = Uranus`, Uranus specifies the Saturn/MC axis through tension around hindrances, objectives, and authority. [Witte](#witte-entry) describes excitement, sudden sadness, quarrels, or separation; [Ebertin](#ebertin-entry) adds great effort, emotional excitability, and a sudden emotional or occupational crisis. [ABC](#abc-entry) includes inhibited rhythm, nervousness, new duties, and technical tasks.\n\n[Sandbach](#sandbach-entry) develops the questioning of inadequate authorities and an original way of structuring spiritual knowledge. [Munkasey](#munkasey-entry) adds detached or scientific assessment, serious research friendships, and unusual ways of marking progress. The supported range joins strained responses to obstacles with questioning and unconventional intellectual work.",
+        "ABC Czech pains corrected from technischen Aufgaben to technical tasks. Ebertin footnote57 removed from Uranus main entry and preserved intact on its actual Sun activation.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed.",
+        "Footnote57 exactly preserved under Sun; removed from Uranus; actual scan superscript attaches to Sun code0927."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "6e42b7604c1362c4c115225f3e58002a8f5f01e8e01daa2e7c10296b33adf787",
+    "current_sha256": "7c2e19615fc5780c9a1d8b47478f055d35b5aa33c5342b6884ac90fb134280ff",
+    "original_sha256": "6cd4fe54d7e9adf249c969ab91d54db12133dae573610823f4f20f27aab147f1",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-venus.md",
+    "before_sha256": "8a742dd7e8ee00b879d67ed43ea78ea76698021c86aa34e0faad3f22561fa223",
+    "after_sha256": "c93d23cc2c2d0974bc4fc79f34d21933eae8db7fbaa2c90bbd7e30b343469fa3",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 49,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nTo separate from love, women, or very agreeable things. Love’s sorrow.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.\n\n#### ABC Entry\n\nDisturbed soul-peace, loving my tasks, my serious art, my love of patience, my love-problems, my preference for endurance, beauty of a mature soul, soul-harmony in old age, and a preference for soul-related tasks.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0930`, printed p. 263; PDF p. 265.\n\n#### Ebertin Entry\n\nSad feelings, renunciation, reserve. Separation from loved ones, grief or suffering.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 96.\n\n#### Sandbach Entry\n\nTo desire a love relationship that advances one spiritually. Ethical sincerity in love relationships. To feel that one receives a lack of respect from one’s lover. Art that expresses spirituality.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nSoftens self-generated critical evaluations of self or others; feeling more worthwhile about your abilities and efforts; a love of music and the arts in special ways; personal pleasure as you age; a love of traditional music or art.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo separate from love, women, or very agreeable things. Love’s sorrow.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nLost Soul Peace, love my duties, my serious skill, my love for patience, my love problems, my love for perseverance, the beauty of a mature soul, psychic harmony in old age, and love for mental tasks\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nSad feelings, renunciation, reserve. Separation from loved ones, grief or suffering.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo desire a love relationship that advances one spiritually. Ethical sincerity in love relationships. To feel that one receives a lack of respect from one’s lover. Art that expresses spirituality.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/MIDHEAVEN with Planets and Points`\n- Source page: `304`\n\n#### Munkasey Entry\n\nSoftens self-generated critical evaluations of self or others; feeling more worthwhile about your abilities and efforts; a love of music and the arts in special ways; personal pleasure as you age; a love of traditional music or art.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-venus.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior generic interpretation/schema obscured serious love and aesthetic values amid reserve, endurance, or separation.",
+        "ABC Lost peace corrected to disturbed peace; ernste Kunst corrected from serious skill to serious art."
+      ],
+      "changes": [
+        "In `Saturn/MC = Venus`, Venus specifies the Saturn/MC axis through love, beauty, and values shaped by seriousness or loss. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize sorrow, reserve, renunciation, and separation from loved or agreeable things. [ABC](#abc-entry) also describes love of tasks and patience, serious art, and harmony in old age.\n\n[Sandbach](#sandbach-entry) seeks an ethically sincere relationship that advances spiritual life, while retaining the possibility of feeling disrespected by a lover. [Munkasey](#munkasey-entry) adds softened self-criticism, greater self-worth, and pleasure in traditional arts or music. The range includes affection and aesthetic satisfaction as well as grief and restraint.",
+        "ABC Lost peace corrected to disturbed peace; ernste Kunst corrected from serious skill to serious art.",
+        "Added exact Witte, ABC, Ebertin, and Sandbach references; preserved Munkasey printed304 and all unchanged source quotations."
+      ],
+      "verification": [
+        "Read entire page, all five source passages, frontmatter and navigation; consulted manifest, evidence, and base axis.",
+        "Directly inspected ABC PDF37 printed76–77 and Witte PDF66; Ebertin PDF265–266 printed263–264; Sandbach PDF95–96.",
+        "Read saved main prose and actual Neptune/Pluto/Sun/Uranus repair diffs; full saved content matches intended text; canonical frontmatter and Links/EOF preserved; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-037.png",
+        "verification/a066-witte-066.png",
+        "verification/a066-ebertin-265.png",
+        "verification/a066-sandbach-096.png",
+        "Munkasey Entry printed304; source-native quotation preserved."
+      ]
+    },
+    "ledger_record_sha256": "4ac3af4516762842d1e455a56772fb1750352f2f403c30066832a1741f942d76",
+    "current_sha256": "c93d23cc2c2d0974bc4fc79f34d21933eae8db7fbaa2c90bbd7e30b343469fa3",
+    "original_sha256": "8a742dd7e8ee00b879d67ed43ea78ea76698021c86aa34e0faad3f22561fa223",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-vernal-point.md",
+    "before_sha256": "37a7cce193f5119a7354e09ed7505ea0c50569ac55666bea74102246ce804d3a",
+    "after_sha256": "dab48134e0b622627984cd420c7f0fd73f5fc74f01466684c8d8dacc51eb19cc",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 36,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nGrieving over many people. To go ones way alone. A restrictive moment in general public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 76; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nMy endurance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and soul-related burden through the public.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGrieving over many people. To go ones way alone. A restrictive moment in general public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy perseverance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and psychic burden through the public",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-vernal-point.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain personal duty and burden in public circumstances."
+      ],
+      "changes": [
+        "In `Saturn/MC = Vernal Point`, Vernal Point specifies the Saturn/MC axis through public responsibilities and the burden of dealing with many people. [ABC](#abc-entry) lists endurance, duties, inhibitions, and problems in public, including problems caused through oneself. [Witte](#witte-entry) adds grieving over many people, going one's way alone, and a restrictive moment in public. Personal perseverance and public sorrow or limitation belong to the same range.",
+        "Preserved source quotation; added exact source locator.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed76/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "2479f3c0de0a86e864cae66d61f438a518ca8245c5938faead800e687b51ba94",
+    "current_sha256": "dab48134e0b622627984cd420c7f0fd73f5fc74f01466684c8d8dacc51eb19cc",
+    "original_sha256": "37a7cce193f5119a7354e09ed7505ea0c50569ac55666bea74102246ce804d3a",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-vulcanus.md",
+    "before_sha256": "0b04d0d1bb3342277592c1391693c1b6cbd15c7d685b6a17285ae2887bee26b7",
+    "after_sha256": "1261a8ed0e37f508b2a427e240bc0fb3bf844208dbef57330cbf3000843976fd",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 37,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nBeing guarded. To be severely inhibited. To slow a situation down.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nPower of an old soul, my energy losses, my strength of patience, my enormous problems, my concentration-energy, my mighty endurance, my strong inhibitions, mighty soul-related problems, and soul-strength despite pains.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nBeing guarded. To be severely inhibited. To slow a situation down.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPower of an old soul, my energy losses, my strength of patience, my enormous problems, my concentration energy, my powerful endurance, my strong inhibitions, powerful soul problems, and psychic strength despite pain",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-vulcanus.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain powerful endurance under severe inhibition or restraint."
+      ],
+      "changes": [
+        "In `Saturn/MC = Vulcanus`, Vulcanus specifies the Saturn/MC axis through severe inhibition and the strength required to endure it. [Witte](#witte-entry) describes being guarded and slowing a situation down. [ABC](#abc-entry) places powerful patience, concentration, and endurance beside energy loss, enormous problems, and strong inhibitions. Strength here can be expressed as sustained restraint even when pain and difficulty remain.",
+        "Preserved source quotation; added exact source locator.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "6a39c8418b7a603d558fba3b0c9adfda86f2fe0b644dd292121d18d3c3456488",
+    "current_sha256": "1261a8ed0e37f508b2a427e240bc0fb3bf844208dbef57330cbf3000843976fd",
+    "original_sha256": "0b04d0d1bb3342277592c1391693c1b6cbd15c7d685b6a17285ae2887bee26b7",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-mc-equals-zeus.md",
+    "before_sha256": "04e39c19a5af669f31db9377e0514b24f16719ee54dea032f45aab71b26e12ec",
+    "after_sha256": "82875523c93fb82823aa5e52d8fcda7639999dabcc1747d745cc3d7bf4118bac",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 38,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: PDF p. 66.\n\n#### Witte Entry\n\nLimited activity. Compelled to quit one’s aims. Worries over support. Cares of fatherhood.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 77; PDF p. 37. Translation checked against the German row.\n\n#### ABC Entry\n\nShaping my tasks, my serious efforts, my patient leadership, my inhibited creativity, my concentration on the goal, my loss of performance, achievements of a mature soul, and my procreation problems.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nLimited activity. Compelled to quit one’s aims. Worries over support. Cares of fatherhood.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy tasks design, my serious efforts, my patient handling, my inhibited creativity, my concentration on the goal, my performance loss, achievements of a mature soul, and my procreation problems",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-mc-equals-zeus.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Previous interpretation/schema did not adequately explain purposeful work and responsibility constrained in action or performance.",
+        "ABC geduldige Führung corrected from patient handling to patient leadership."
+      ],
+      "changes": [
+        "In `Saturn/MC = Zeus`, Zeus specifies the Saturn/MC axis through purposeful effort that meets limits. [ABC](#abc-entry) combines shaping tasks, patient leadership, and goal concentration with inhibited creativity, reduced performance, and procreation problems. [Witte](#witte-entry) adds limited activity, having to abandon aims, worries over support, and cares of fatherhood. Goal-directed work and responsibility remain central even where action or achievement is constrained.",
+        "ABC geduldige Führung corrected from patient handling to patient leadership.",
+        "Added early synthesis route, adjacent anchor, and six page-specific comparative categories."
+      ],
+      "verification": [
+        "Read full page, frontmatter, source passages, and final navigation; consulted exact manifest/evidence and Saturn/MC base axis.",
+        "Inspected cited source scan rows directly; read back saved prose and compared source repair to scan.",
+        "Full saved content matches intended patch; frontmatter and Links/EOF unchanged; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed77/PDF37; verification/a066-abc-037.png",
+        "Witte PDF66; verification/a066-witte-066.png"
+      ]
+    },
+    "ledger_record_sha256": "742e165c2c024ccd26635acc628c8d03192c39d295b535e119dc87f547d3f522",
+    "current_sha256": "82875523c93fb82823aa5e52d8fcda7639999dabcc1747d745cc3d7bf4118bac",
+    "original_sha256": "04e39c19a5af669f31db9377e0514b24f16719ee54dea032f45aab71b26e12ec",
+    "group": "saturn-mc"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-admetos.md",
+    "before_sha256": "bbdda1a0f5e377d6d21a15abdd1d90dbb0a78edcb54c20fe3a513b9c4cea2be0",
+    "after_sha256": "45bed9a01eaef5fc81988e444e157ff52b274c37c1e1e722a1a3eb634ee04d8b",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 50,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: printed p. 226; PDF p. 222.\n\n#### Witte Entry\n\nPrevented to unfold. To be always in a mess. A chronic disease which leads to death.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.\n\n#### ABC Entry\n\nPerseverance and patience in water, depression through weakness of concentration, restrictions and insecurity through pains, thorough concentration on the future, problematic air circulation, and losses in deep water.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPrevented to unfold. To be always in a mess. A chronic disease which leads to death.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPerseverance and patience in the water, depression due to concentration weakness, limitations and insecurity due to pain, Greek concentration on the future, problematic air circulation, and losses in deep water",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-admetos.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish blocked development and persistent difficulty met by endurance and patience.",
+        "ABC Greek concentration corrected to thorough concentration from gründliche Konzentration; preserved complete water/air sequence."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Admetos`, Admetos specifies the Saturn/Neptune axis through blocked development, persistent difficulty, and the patience required within it. [Witte](#witte-entry) describes being prevented from unfolding and remaining in a mess. [ABC](#abc-entry) adds weak concentration, pain-related insecurity, and thorough attention to the future, together with its concrete air and water motifs. Witte's fatal chronic-disease statement remains a historical medical attribution, rather than an outcome established by this formula.",
+        "ABC Greek concentration corrected to thorough concentration from gründliche Konzentration; preserved complete water/air sequence.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly inspected correct ABC PDF174 printed350–351 glyph row and Witte PDF222 printed226.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-174.png",
+        "verification/a066-witte-222.png"
+      ]
+    },
+    "ledger_record_sha256": "6e6737f2235d103259fa8a73469d51eb0dfe9b52dd7edc861907a2df4bc3ff0c",
+    "current_sha256": "45bed9a01eaef5fc81988e444e157ff52b274c37c1e1e722a1a3eb634ee04d8b",
+    "original_sha256": "bbdda1a0f5e377d6d21a15abdd1d90dbb0a78edcb54c20fe3a513b9c4cea2be0",
+    "group": "saturn-neptune"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-apollon.md",
+    "before_sha256": "3d9d77e637fb67ecbd7e3c6bdcc12574f5107caa2139e4973e99ebce025423af",
+    "after_sha256": "50234381c307680261ae26f8655901f3f4a82d841c66fa9325806c6b0341c69d",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 51,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: printed p. 226; PDF p. 222.\n\n#### Witte Entry\n\nSubversive deeds. Unclean methods. Cunning acts behind someone’s back. Chronic sickness of the masses.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.\n\n#### ABC Entry\n\nExtensive insecurity through pains, successful intuition in old age, serious knowledge of metaphysics, concentration on unknown knowledge, problematic expectations of success, and creeping losses in trade.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSubversive deeds. Unclean methods. Cunning acts behind someone’s back. Chronic sickness of the masses.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExtensive insecurity due to pain, successful intuition in old age, busy knowledge of metaphysics, concentration on unknown knowledge, problematic success expectations, and creeping losses in trade",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-apollon.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish uncertain expectations and knowledge, or concealed methods and wider losses.",
+        "ABC busy knowledge corrected to serious knowledge from ernsthaftes Wissen."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Apollon`, Apollon specifies the Saturn/Neptune axis through uncertain knowledge, expectations, and dealings that can have a wider reach. [ABC](#abc-entry) gives room to successful intuition in old age and serious metaphysical study, while retaining insecurity, problematic expectations of success, and gradual trade losses. [Witte](#witte-entry) emphasizes concealed or dishonest acts and chronic sickness among the masses. These are distinct supported expressions; metaphysical study is not itself evidence of deception.",
+        "ABC busy knowledge corrected to serious knowledge from ernsthaftes Wissen.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly inspected correct ABC PDF174 printed350–351 glyph row and Witte PDF222 printed226.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-174.png",
+        "verification/a066-witte-222.png"
+      ]
+    },
+    "ledger_record_sha256": "955880054442c4e2e86bb8d5de972ea62a51c0ff82041be7fb5db37549adf7e9",
+    "current_sha256": "50234381c307680261ae26f8655901f3f4a82d841c66fa9325806c6b0341c69d",
+    "original_sha256": "3d9d77e637fb67ecbd7e3c6bdcc12574f5107caa2139e4973e99ebce025423af",
+    "group": "saturn-neptune"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-asc.md",
+    "before_sha256": "0a7773377a58d70c161c0ec4a68822b4aebeaafac43a43fb1a1ccaed9f086313",
+    "after_sha256": "945736a2795aa19ea84a0d72d16b28ac69b7ec50acd27a01510fcfe1e842c111",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 52,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: printed p. 226; PDF p. 222.\n\n#### Witte Entry\n\nInfection of other people. To be infected. To vaccinate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 350; PDF p. 174. Activator and translation checked against the German row.\n\n#### ABC Entry\n\nDissolutions and separations in the environment, sensitivity and patience of the partner, inhibitions at an unfamiliar place, the partner's weakness of concentration, problematic air at the place, creeping losses in the environment, and water problems at the place.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n- Source reference: code `0888`, printed p. 251; PDF p. 253.\n\n#### Ebertin Entry\n\nAn emotionally depressing environment, oppressive family circumstances, emotional suffering caused by other persons, limitation of freedom.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 91.\n\n#### Sandbach Entry\n\nOne who has about them the aura of a being sensitive and delicate. One plays the role of a serious and dedicated idealist.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/NEPTUNE with Planets and Points`\n- Source page: `288`\n\n#### Munkasey Entry\n\nNoticing the pretenses or false intentions of others; inhibitions about correcting long standing areas of disappointment; easing your mental focus when revising past errors or practices which have become lax.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInfection of other people. To be infected. To vaccinate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nWeaknesses, my tried and tested expectations, mental sensitivity for problems and separations in the environment, feelings and patience of the partner, inhibitions at an early ori, concentration weakness of the partner, and problematic air at the\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAn emotionally depressing environment, oppressive family circumstances, emotional suffering caused by other persons, limitation of freedom.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne who has about them the aura of a being sensitive and delicate. One plays the role of a serious and dedicated idealist.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `SATURN/NEPTUNE with Planets and Points`\n- Source page: `288`\n\n#### Munkasey Entry\n\nNoticing the pretenses or false intentions of others; inhibitions about correcting long standing areas of disappointment; easing your mental focus when revising past errors or practices which have become lax.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-asc.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish sensitivity in one's personal presence and vulnerability to environmental or interpersonal difficulties.",
+        "ABC removed absorbed MC ending (weakness/problematic expectations/soul sensitivity); restored Asc's actual Auflösungen opening and complete unfamiliar-place/air/losses/water ending from printed350/PDF174."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Asc`, Asc specifies the Saturn/Neptune axis through a sensitive personal presence and difficult conditions involving other people or one's surroundings. [ABC](#abc-entry) names environmental separations and gradual losses, a patient or sensitive partner, and problems at an unfamiliar place. [Ebertin](#ebertin-entry) emphasizes oppressive family circumstances, emotional suffering caused by others, and restricted freedom.\n\n[Sandbach](#sandbach-entry) describes a delicate, serious, dedicated idealist. [Munkasey](#munkasey-entry) adds noticing false intentions while feeling inhibited about correcting longstanding disappointments or lax practices. [Witte](#witte-entry) contributes historical infection and vaccination motifs, which remain attributed rather than diagnostic conclusions.",
+        "ABC removed absorbed MC ending (weakness/problematic expectations/soul sensitivity); restored Asc's actual Auflösungen opening and complete unfamiliar-place/air/losses/water ending from printed350/PDF174.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly inspected correct ABC PDF174 printed350–351 glyph row and Witte PDF222 printed226.",
+        "Checked Ebertin code0888 PDF253 printed251 and Sandbach PDF91 Asc paragraph; Munkasey printed288 quotation preserved.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-174.png",
+        "verification/a066-witte-222.png",
+        "verification/a066-ebertin-253.png",
+        "verification/a066-sandbach-091.png",
+        "Munkasey Entry printed288"
+      ]
+    },
+    "ledger_record_sha256": "d624a8a9e5983f06f8e1bb46482d47e235b58435fd5fc37d4a7eace0d4fe01e5",
+    "current_sha256": "945736a2795aa19ea84a0d72d16b28ac69b7ec50acd27a01510fcfe1e842c111",
+    "original_sha256": "0a7773377a58d70c161c0ec4a68822b4aebeaafac43a43fb1a1ccaed9f086313",
+    "group": "saturn-neptune"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-chiron.md",
+    "before_sha256": "90851b5bd4e4c28ef48a3a3b67b9e9c7afe840926b2443af36a0e6fbbe33713b",
+    "after_sha256": "06eab5684177e1c992f0be131c08ad8d9a63a2e7c1b18d1f36cb07226fe510b7",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 53,
+    "in_validator_snapshot": true,
+    "current": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n- Source reference: PDF p. 91.\n\n#### Sandbach Entry\n\nOne can potentially heal others by helping them to experience the gap between their ideals and reality, and to perceive that this gap serves the purpose of fostering soul evolution. Helping others to see deeply into their fears so they may be released.",
+    "original": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne can potentially heal others by helping them to experience the gap between their ideals and reality, and to perceive that this gap serves the purpose of fostering soul evolution. Helping others to see deeply into their fears so they may be released.",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-chiron.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish potential spiritual help through understanding the distance between ideals and reality."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Chiron`, Chiron specifies the Saturn/Neptune axis through helping others understand the gap between ideals and reality. [Sandbach](#sandbach-entry) presents that gap as a possible occasion for soul evolution and describes helping fears become clear enough to be released. His healing language is explicitly potential and belongs to this spiritual framework; the entry offers no specified physical treatment or guaranteed result.",
+        "Preserved complete source quotation and added exact locator.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly checked Sandbach PDF91 Chiron paragraph.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-sandbach-091.png"
+      ]
+    },
+    "ledger_record_sha256": "8807bb5200b2aae5f2e6ee70dbfcceb829847ebca40d10e34a970351f6c8951c",
+    "current_sha256": "06eab5684177e1c992f0be131c08ad8d9a63a2e7c1b18d1f36cb07226fe510b7",
+    "original_sha256": "90851b5bd4e4c28ef48a3a3b67b9e9c7afe840926b2443af36a0e6fbbe33713b",
+    "group": "saturn-neptune"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-cupido.md",
+    "before_sha256": "f180a156a93ffbdb2fbd4eb0326abee610cb608f5870771e02414f37a2d08d7b",
+    "after_sha256": "6cec61413c8d79653f2d1d109c52ae8638bdd2020f2f5cfc8924c499b5f28453",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 54,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: printed p. 226; PDF p. 222.\n\n#### Witte Entry\n\nSickness in the family. Derangement of conjugal conditions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.\n\n#### ABC Entry\n\nburdened future of the community, patience of a metaphysical community, shared concentration on metaphysics, shared air problems, problematic expectations of a community, and problems for the shared future",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSickness in the family. Derangement of conjugal conditions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nburdened future of the community, patience of a metaphysical community, shared concentration on metaphysics, shared air problems, problematic expectations of a community, and problems for the shared future",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-cupido.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish family or community life burdened by uncertainty and shared problems."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Cupido`, Cupido specifies the Saturn/Neptune axis through uncertainty and strain shared by a family or community. [ABC](#abc-entry) describes a burdened collective future, problematic expectations, and common air problems, alongside patience and shared concentration within a metaphysical community. [Witte](#witte-entry) adds sickness in the family and disturbed conjugal conditions. Family health language remains an attributed historical claim, while the broader theme is difficulty affecting a shared life.",
+        "Preserved complete source quotation and added exact locator.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly inspected correct ABC PDF174 printed350–351 glyph row and Witte PDF222 printed226.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-174.png",
+        "verification/a066-witte-222.png"
+      ]
+    },
+    "ledger_record_sha256": "da2c28433fb6ea83a73650ff61cb6a7cb2dabce9b9cac67d63347bed4e375a06",
+    "current_sha256": "6cec61413c8d79653f2d1d109c52ae8638bdd2020f2f5cfc8924c499b5f28453",
+    "original_sha256": "f180a156a93ffbdb2fbd4eb0326abee610cb608f5870771e02414f37a2d08d7b",
+    "group": "saturn-neptune"
+  },
+  {
+    "path": "wiki/activations/saturn-neptune-equals-hades.md",
+    "before_sha256": "de0f97e2cf634a4375dc00a3d5c7c34eac0ed4cbd2952627186c2ef18ac004c0",
+    "after_sha256": "dc6f49746be3a3f47fd1d97b4666f29170cad1584bfff29bcac6d1d214ca2c9b",
+    "ledger": "activations-066.jsonl",
+    "ledger_line": 55,
+    "in_validator_snapshot": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source reference: printed p. 226; PDF p. 222.\n\n#### Witte Entry\n\nIntestinal complaints. Cancer disease. Typhoid epidemic. Pestilence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source reference: printed p. 351; PDF p. 174. Activator and translation checked against the German row.\n\n#### ABC Entry\n\nDissolution of past burdens, sensitivity and patience in danger, dangerous weakness of concentration, grief through unknown pains, disadvantages through creeping losses, dirty-water problems, and insecurity through criminal burdens.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIntestinal complaints. Cancer disease. Typhoid epidemic. Pestilence.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDissolving of past stresses, finesse and patience in danger, dangerous concentration weakness, grief caused by unknown pain, disadvantages caused by creeping losses, dirt water problems, and insecurity caused by criminal burdens",
+    "ledger_record": {
+      "path": "wiki/activations/saturn-neptune-equals-hades.md",
+      "reviewer": "activation_review_066",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Prior synthesis/schema did not sufficiently distinguish unknown pain, lingering losses, and hidden or past burdens.",
+        "ABC Feingefühl corrected from finesse to sensitivity; Schmutz-Wasser-Probleme clarified as dirty-water problems."
+      ],
+      "changes": [
+        "In `Saturn/Neptune = Hades`, Hades specifies the Saturn/Neptune axis through concealed or lingering burdens, unknown pain, and gradual loss. [ABC](#abc-entry) includes sensitivity and patience in danger, difficulty concentrating, dirty-water problems, and insecurity connected with criminal burdens; it also retains dissolution of past burdens. [Witte](#witte-entry) gives a sharply medical historical list—intestinal complaints, cancer, typhoid epidemic, and pestilence. Those named conditions remain Witte's attributions and do not follow as diagnoses or predictions from the formula.",
+        "ABC Feingefühl corrected from finesse to sensitivity; Schmutz-Wasser-Probleme clarified as dirty-water problems.",
+        "Added early synthesis route, six substantive schema categories, bounded difference note, and immediate stable anchor."
+      ],
+      "verification": [
+        "Read whole page, frontmatter, source passages and final navigation; consulted manifest, evidence, known-issues file and Saturn/Neptune base axis.",
+        "Directly inspected correct ABC PDF174 printed350–351 glyph row and Witte PDF222 printed226.",
+        "Read back complete saved text and actual source-repair diffs; intended full content, canonical frontmatter, and Links/EOF confirmed; git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "verification/a066-abc-174.png",
+        "verification/a066-witte-222.png"
+      ]
+    },
+    "ledger_record_sha256": "9d61dab0b9824de2621c767b5e28241e1f8a369c84c4da8695f0ac9bc4b37730",
+    "current_sha256": "dc6f49746be3a3f47fd1d97b4666f29170cad1584bfff29bcac6d1d214ca2c9b",
+    "original_sha256": "de0f97e2cf634a4375dc00a3d5c7c34eac0ed4cbd2952627186c2ef18ac004c0",
+    "group": "saturn-neptune"
+  }
+]

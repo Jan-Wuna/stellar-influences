@@ -1,0 +1,42 @@
+{
+  "039": {
+    "assigned": 46,
+    "records": 46,
+    "missing": [],
+    "extras": [],
+    "duplicates": [],
+    "invalid": []
+  },
+  "040": {
+    "assigned": 55,
+    "records": 55,
+    "missing": [],
+    "extras": [],
+    "duplicates": [],
+    "invalid": []
+  },
+  "042": {
+    "assigned": 55,
+    "records": 55,
+    "missing": [],
+    "extras": [],
+    "duplicates": [],
+    "invalid": []
+  },
+  "unresolved": [
+    {
+      "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+      "issues": [
+        "Munkasey's final 'disobedience obeying instructions' clause is unclear in actual source; not interpreted confidently."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "issues": [
+        "ABC Rechts-Kunst einer Frau is an unusual source compound retained literally; no more precise legal/artistic role is supported here."
+      ]
+    }
+  ],
+  "scope_failures": [],
+  "proofs": 128
+}

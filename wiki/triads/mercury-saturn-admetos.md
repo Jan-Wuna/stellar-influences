@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Saturn Admetos`
 - Astronomicon triad-set: `T W ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Admetos = Saturn](../activations/mercury-admetos-equals-saturn.md)
-- [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md)
-- [Saturn/Admetos = Mercury](../activations/saturn-admetos-equals-mercury.md)
+- [Mercury/Admetos = Saturn](../activations/mercury-admetos-equals-saturn.md): base axis [Mercury/Admetos](../axes/mercury-admetos.md); activator [Saturn](../factors/saturn.md).
+- [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md): base axis [Mercury/Saturn](../axes/mercury-saturn.md); activator [Admetos](../factors/admetos.md).
+- [Saturn/Admetos = Mercury](../activations/saturn-admetos-equals-mercury.md): base axis [Saturn/Admetos](../axes/saturn-admetos.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Admetos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `265`
-- `Mercury/Saturn = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `247`
-- `Saturn/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `229`
-- `Saturn/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `364`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Admetos = Saturn](../activations/mercury-admetos-equals-saturn.md#witte-entry) (PDF entry-start p. 171); [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md#witte-entry) (PDF entry-start p. 162); [Saturn/Admetos = Mercury](../activations/saturn-admetos-equals-mercury.md#witte-entry) (PDF entry-start p. 229).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Admetos = Saturn](../activations/mercury-admetos-equals-saturn.md#abc-entry) (printed p. 265); [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md#abc-entry) (printed p. 247); [Saturn/Admetos = Mercury](../activations/saturn-admetos-equals-mercury.md#abc-entry) (printed p. 364).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Saturn`: locks the axis into cramped limitation and severe pessimism.
-- `Mercury/Saturn = Admetos`: Very deep philosophical thinking.
+Mercury, Saturn and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Mercury/Saturn](../axes/mercury-saturn.md)
+- [Saturn/Admetos](../axes/saturn-admetos.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Admetos](../factors/admetos.md)

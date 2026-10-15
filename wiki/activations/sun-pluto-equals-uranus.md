@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Uranus`
 - Astronomicon formula: `S/Z = X`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Sudden changes in the mode of life and diet.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source passage: `Sonne + Pluto`; printed p. `157`; one-based PDF page `77` (oriented row checked against the scan).
 
 dynamic personal development, new personal changes, developing a personal rhythm, sudden personnel changes, technical development center, growing personal development, and center for reform developments
 
@@ -51,11 +57,15 @@ dynamic personal development, new personal changes, developing a personal rhythm
 
 #### Ebertin Entry
 
+- Source passage: `Sun/Pluto`; printed p. `102`; one-based PDF page `104`; entry code `0285` (exact coded entry checked in actual PDF text).
+
 Carrying out fanatic reforms without regard for oneself. Sudden adjustment to new circumstances (arrest).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `21` (exact Uranus entry checked in actual raw PDF text).
 
 Being obsessively focused on one’s own unique or unusual goals. Coming to realize life’s deeper meanings through sudden experiences, or inspirations. A genius for questioning the meaning of life so deeply that one breaks through to the spiritual core and essence of the true meaning of existence.
 
@@ -70,22 +80,21 @@ A sudden obsession to acquire additional control or power; opens your imaginatio
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development is sudden, dynamic or reforming, with abrupt changes in life and purpose.
+- psychology: Unusual goals, inspiration, creative ideas and sudden demands for power can become obsessive.
+- body/health: Witte specifies sudden changes in diet and mode of life without a clinical result.
+- social/relationship: Personnel changes, reform and adjustment to new circumstances give social settings.
+- events/manifestations: Technical development centers, new rhythms and Ebertin's arrest example are concrete manifestations.
+- conflicts/notes: Reforms can be pursued without regard for oneself; originality and sudden change do not automatically imply violence or successful innovation.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. Sudden dietary change, reforms and spiritual questioning are different settings; arrest is a particular source example.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Uranus`: pioneering intensity, revolutionary self-assertion, and the capacity to push through abrupt breakthroughs or reforms. Main caution: destabilization: shock, arrest-like reversals, or erratic extremism can make transformation too violent or unsustainable.
+In `Sun/Pluto = Uranus`, development changes direction abruptly: diet or mode of life can shift, personnel can change suddenly, and new rhythms or reforms can emerge. Intense unusual goals, creative ideas and sudden inspiration give that change a purposeful mental expression, while obsession with control or reforms pursued without regard for oneself retain the difficult range. Ebertin's arrest example remains a specific adjustment to new circumstances. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

@@ -21,6 +21,7 @@ related_activations:
   - Mercury/Venus = Kronos
   - Mercury/Venus = Mars
   - Mercury/Venus = MC
+  - Mercury/Venus = Mercury
   - Mercury/Venus = Moon
   - Mercury/Venus = Neptune
   - Mercury/Venus = Node
@@ -29,6 +30,7 @@ related_activations:
   - Mercury/Venus = Saturn
   - Mercury/Venus = Sun
   - Mercury/Venus = Uranus
+  - Mercury/Venus = Venus
   - Mercury/Venus = Vernal Point
   - Mercury/Venus = Vulcanus
   - Mercury/Venus = Zeus
@@ -73,14 +75,16 @@ updated_at: 2026-06-20
 
 - Axis: `Mercury/Venus`
 - Astronomicon axis: `T/Q`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/VENUS`
-- Source page: `147`
+- Source heading: `MERCURY + VENUS`
+- PDF page (one-based): `159` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -88,11 +92,15 @@ Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Ar
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `240–241`; PDF page (one-based): `119` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Peace language, peaceful youth, harmonious thinking, youth love, young love, artificial description, love language, media arts, gentle words, schi'jnheit of·.Youth, Schrift art, and language arts
+Peace talks, peaceful youth, harmonious thinking, youthful love, young love, description of art, conversations about love, media art, beautiful words, beauty of youth, art of writing, art of language, female youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `145`; PDF page: `147` (pair prose ends after lighthearted living; following heading excluded).
 
 #### Principle
 
@@ -112,7 +120,7 @@ Authors or writers, artists, those who sell beauty articles or art objects.
 
 #### Probable Manifestations
 
-+ Thoughts of love, a love union, artistic success. - An inclination to squandering and to lighthearted living. MercuryA/enus 5/9
++ Thoughts of love, a love union, artistic success. - An inclination to squandering and to lighthearted living.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -207,12 +215,12 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Thought and communication shaped by affection, aesthetic judgment and the wish for agreeable exchange.
+- psychology: Appreciation, cheerfulness and creative taste range into vanity, ease-seeking and attractive words that conceal superficial feeling.
+- body/health: Ebertin's glandular, Carter's nervous-health and Munkasey's oxygenation or allergy claims remain distinct attributed associations, not a shared diagnosis.
+- social/relationship: Tact, diplomacy, flirtation and discussing affection can build rapport; flattery and substituting talk for intimacy can undermine it.
+- events/manifestations: Acquaintances, love conversations, writing, art, crafts, sales and beautification express the connection between ideas and pleasing form.
+- conflicts/notes: Carter distinguishes pleasing expression from intellectual genius and explicitly cannot explain his observations about children; neither fertility nor artistic success follows necessarily. ABC's complete bold summary was retranslated from the scan.
 
 ## Related Activations
 
@@ -226,6 +234,7 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - [Mercury/Venus = Kronos](../activations/mercury-venus-equals-kronos.md)
 - [Mercury/Venus = Mars](../activations/mercury-venus-equals-mars.md)
 - [Mercury/Venus = MC](../activations/mercury-venus-equals-mc.md)
+- [Mercury/Venus = Mercury](../activations/mercury-venus-equals-mercury.md)
 - [Mercury/Venus = Moon](../activations/mercury-venus-equals-moon.md)
 - [Mercury/Venus = Neptune](../activations/mercury-venus-equals-neptune.md)
 - [Mercury/Venus = Node](../activations/mercury-venus-equals-node.md)
@@ -234,6 +243,7 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - [Mercury/Venus = Saturn](../activations/mercury-venus-equals-saturn.md)
 - [Mercury/Venus = Sun](../activations/mercury-venus-equals-sun.md)
 - [Mercury/Venus = Uranus](../activations/mercury-venus-equals-uranus.md)
+- [Mercury/Venus = Venus](../activations/mercury-venus-equals-venus.md)
 - [Mercury/Venus = Vernal Point](../activations/mercury-venus-equals-vernal-point.md)
 - [Mercury/Venus = Vulcanus](../activations/mercury-venus-equals-vulcanus.md)
 - [Mercury/Venus = Zeus](../activations/mercury-venus-equals-zeus.md)
@@ -244,11 +254,11 @@ Oxygen levels in the blood; the efficiency of your lungs; food allergies and rea
 - Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus` is the axis of graceful thought, pleasant speech, aesthetic judgment, diplomacy, and the communication of affection, beauty, and social ease. It combines intellect and language with taste, charm, value, and the wish for harmonious exchange.
-- Chart expression: artistic or literary expression, tact, social intelligence, elegant persuasion, relational conversation, and the ability to make ideas agreeable, attractive, or soothing. Its weak side is softness or manipulation: flattery, vanity, superficiality, charm used in place of depth, or preferring pleasant wording over harder truth.
+`Mercury/Venus` connects thinking and communication with affection, pleasure and a sense of beauty. Ideas are chosen or expressed for their appeal, and relating to others becomes a matter of finding words, gestures or forms that please. This supports tact, pleasant conversation and the communication of love, while also giving a practical outlet in writing, crafts, design or artistic technique. The [pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) and [Hand](#robert-hand---horoscope-symbols) connect aesthetic thought with acquaintance, affection and making beautiful things; [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) extends communication into appreciative exchange and peacemaking.
+
+The wish for harmony can also make charm an end in itself. [Falis](#michelle-falis---planet-combinations-astrological-brainstorms) includes both diplomacy and manipulation, while [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) and [Banzhaf and Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) distinguish genuine discussion of affection from flattering, calculating or merely talking about love. [Carter](#charles-carter---the-astrological-aspects) values pleasing expression without treating it as proof of genius; his aspect conditions and unexplained observations about children remain specific to that entry. The shared pair does not establish fertility, illness, a profession or success. Its particular closing-factor expressions belong to the separate [activation pages](#related-activations).
 
 ## Links
 

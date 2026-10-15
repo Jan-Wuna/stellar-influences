@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Node](../triads/moon-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Connections with unruly populace. Connections with irritable and energetic women. Connected to exciting events. In touch with a public uproar.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting relationship with woman, connected with a dynamic woman, new women's connection, tension packed ailment connection, hour of eventful Y engagement, restless relationship with woman, and Y engagement with nervous women
+Exciting relationship with a woman, connected with a dynamic woman, new connection with a woman, emotionally tense connection, hour of an eventful connection, restless relationship with a woman, connection with nervous women.
+
+Translation checked against the German scan: printed p. 186, PDF p. 92, Node row. “Gefühls-Verbindung” is an emotional connection; the corrupted “Y engagement” phrases refer to connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Exciting relationship with woman, connected with a dynamic woman, new women's co
 
 Restlessness and excitability when in contact with others. Association with ambitious or nervous women.
 
+Source locator: printed p. 129, entry 0395.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 To seek out people with whom one can express one’s emotions freely and openly. The need to grow in one’s ability to be uninhibited and spontaneously expres sive. The nurturing of one’s own creative genius and uniqueness fosters one’s personal evolution.
+
+Source locator: PDF p. 34, Node entry; checked in the PDF text.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,23 @@ The ability to attract the correct people to listen to your ideas or insights; m
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Excitement, spontaneous feeling, or inventive interests expressed through connections ([Witte](#witte-entry); [ABC](#abc-entry); [Sandbach](#sandbach-entry)).
+- **Psychology:** Restlessness or excitability in contact with others; the wish for free emotional expression ([Ebertin](#ebertin-entry)).
+- **Body/health:** No bodily condition is specified; ABC's former “ailment connection” was mistranslation.
+- **Social/relationship:** Dynamic or nervous associates, public uproar, and people receptive to one's insights ([Munkasey](#munkasey-entry)).
+- **Events/manifestations:** Exciting encounters and collaborative inventive activity; no particular separation or relationship duration is given.
+- **Conflicts/notes:** Stimulating contact and supportive openness differ in tone. Neither establishes an on-and-off pattern of belonging.
 
 ## Contradictions
 
-- None recorded yet.
+Tense associations in Witte, ABC, and Ebertin sit beside emotionally open or inventive connections in Sandbach and Munkasey. These are differing expressions of contact, not mutually exclusive claims about one relationship.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Node`: awakening through relationship, emotionally stimulating networks, and belonging built around difference and change. Main caution: unstable belonging: closeness can turn on and off too abruptly to feel secure or predictable.
+Node specifies Moon/Uranus through contact with people and events that carry excitement, restlessness, or dynamic impulses. The [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) entries locate the tension in associations and shared public activity rather than in an isolated mood.
+
+Connections can also make spontaneous expression possible: [Sandbach](#sandbach-entry) describes seeking people with whom feelings can be shared freely, and [Munkasey](#munkasey-entry) describes finding receptive listeners and inventive collaborators. The entries distinguish tense contact from supportive contact without predicting unstable relationship duration.
 
 ## Links
 

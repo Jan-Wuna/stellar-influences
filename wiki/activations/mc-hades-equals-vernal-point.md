@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [Vernal Point MC Hades](../triads/vernal-point-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Hades,” PDF p. 71.
 
 To grieve over the general world situation. Sorrow through general poverty. Mental depression in general.
 
@@ -42,13 +46,27 @@ To grieve over the general world situation. Sorrow through general poverty. Ment
 
 #### ABC Entry
 
-Dangered Seek in the public life, I cntbehrt the C)publicity, criminal souls in the public life, my mental past, minute of danger in the public, mental sorrow in the public, and hidden self in the public life
+Source: “Meridian + Hades,” printed p. 86 (PDF p. 42).
+
+An endangered soul in public life, I lack the public, criminal souls in public, my public past, a minute of danger in public, inner or soul grief in public, and a hidden self in public life.
+
+## Comparative Schema
+
+- core meaning: Personal sorrow, deprivation, secrecy, or danger expressed through public and general conditions.
+- psychology: Grief about the world situation and inner distress in public.
+- body/health: Witte's depression language remains a historical association, without a diagnosis.
+- social/relationship: General poverty, public absence or exposure, and a hidden public self.
+- events/manifestations: Public danger, one's public past, and sorrow involving collective circumstances.
+- conflicts/notes: Public danger and criminal souls are source examples, not a general judgment about a population.
+
+## Contradictions
+
+Witte emphasizes world conditions and general poverty. ABC adds personal public history, concealment, and danger, preserving the relation between personal and public circumstances.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Vernal Point` externalizes the axis into grief over the general state of the world.
-- Chart expression: sorrow through widespread poverty, depression rooted in collective conditions, and a self deeply affected by general decline or public misery.
+In `MC/Hades = Vernal Point`, Vernal Point specifies personal sorrow, deprivation, and concealed matters through public life. Witte describes grief about the world situation and general poverty; ABC adds one's public past, a hidden public self, and moments of public danger. The entries connect personal experience with general conditions, while Witte's depression and ABC's criminality examples remain attributed possibilities rather than diagnoses or collective character judgments. ([Witte](#witte-entry), PDF p. 71; [ABC](#abc-entry), printed p. 86 / PDF p. 42)
 
 ## Links
 

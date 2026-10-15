@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Asc Admetos](../triads/mercury-asc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Asc entry, PDF p. 171.
 
 Intercourse with people who sit much, like office personnel or any crew of a vehicle.
 
@@ -42,13 +46,29 @@ Intercourse with people who sit much, like office personnel or any crew of a veh
 
 #### ABC Entry
 
-Reports about the blockade of a place, talk about depressions of the partner, talk in depth with the partner, depressing environmental news, news lock for a place, and traffic detachment at the place
+Source: “Merkur + Admetos,” Asc entry, printed p. 264 / PDF p. 131. Translation checked against the German passage.
+
+Reports about the blockade of a place, discussions about a partner's depression, deepening conversation with the partner, depressing news from the surroundings, a news blackout for a place, traffic congestion at the place.
+
+## Comparative Schema
+
+- **Core meaning:** Communication and contact in seated or restricted settings.
+- **Psychology:** Deep discussion and the effect of depressing news.
+- **Body/health:** Discussion of a partner's depression is attributed source content, not a diagnosis.
+- **Social/relationship:** Contact with office personnel or vehicle crews; in-depth partner conversation.
+- **Events/manifestations:** Reports about a local blockade, a news blackout, and local traffic congestion.
+- **Conflicts/notes:** Witte's seated contacts and ABC's local restrictions or deep conversation are specific settings, not a universal description of relationships.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 264 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+The entries describe different settings: contact with seated workers or crews in Witte, and partner discussion or local restrictions in ABC. The checked traffic clause means congestion rather than detachment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Asc` places the axis into direct contact with sedentary or transport-bound environments and people.
-- Chart expression: a social field shaped by office work, crews, or those who sit and travel together, with communication tied to fixed positions, vehicles, and limited movement.
+In `Mercury/Admetos = Asc`, Asc specifies concentrated or restricted thought and communication through partners and the immediate surroundings. Witte gives contact with office personnel or vehicle crews who sit much; ABC adds in-depth partner conversation, distressing local news, news blackouts and traffic congestion. The range places communication in a particular relationship or location, including both sustained exchange and restriction. Discussion of a partner's depression remains source language rather than a clinical finding. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 264 / PDF p. 131)
 
 ## Links
 

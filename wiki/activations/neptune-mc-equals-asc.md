@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Asc`
 - Astronomicon formula: `Y/MC = Asc`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 To commit frauds with other people. To mislead others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `80`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-I exchange the partner, my father for the partner, my partner in the air, my weak partner for the partner, my exchange over the partner, my uncertainty in the environment, my partner's spiritual finesse, and water in my environment
+I deceive the partner, my intuitive sense for the partner, my partner in the air, my weakness for the partner, my deception concerning the partner, my uncertainty in the surroundings, sensitivity of my partner's soul, and water in my environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `291`, entry code `1045`.
 
 #### Ebertin Entry
 
 Inclination to live in a world of illusion and unreality, acting and pretending. Taking the wrong path in life, pursuit of wrong objectives, uncertainty or insecurity.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ One identifies strongly with one’s career ideals. One may identify with unre a
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ An enhanced need to discuss your dreams and visions of life with others; a stron
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: self-direction and ideals expressed in dealings with others, with misleading conduct or unrealistic objectives among the possibilities.
+- psychology: illusion, pretending, career identification, and planning future direction are explicit.
+- body/health: none of the entries supplies a bodily or health claim.
+- social/relationship: misleading others, sensing a partner, and discussing visions are stated interpersonal settings.
+- events/manifestations: unrealistic career ideals and development of plans for the future are named.
+- conflicts/notes: dreams or impractical ideals do not establish deliberate fraud; artistic bearing and a publicly worn life direction are not stated.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes misleading others; Ebertin includes illusion and wrong objectives. Sandbach and Munkasey also describe career ideals and future discussion without making every ideal or conversation deceptive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Asc`: symbolic presence, artistic or spiritual bearing, and a life direction that is worn openly rather than kept private. Main caution: identity drift: the persona can become too tied to an unreal role, mixed signals, or impractical career ideals.
+In Neptune/MC = Asc, Asc specifies the pair through how personal ideals and future direction enter relations with others. [Witte](#witte-entry) names misleading conduct; [Ebertin](#ebertin-entry) adds illusion and uncertain objectives; [ABC](#abc-entry) preserves both deceiving a partner and uncertainty or deception concerning the partner (printed p. 80, PDF p. 39). [Sandbach](#sandbach-entry) describes identification with potentially impractical career ideals, while [Munkasey](#munkasey-entry) includes discussing and developing future plans. These distinguish deliberate deception from unrealistic ideals or unfinished planning, without assuming a particular artistic persona.
 
 ## Links
 

@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-06-23T08:06:19.726248+00:00",
+  "page_count": 5761,
+  "counts": {
+    "factor": 23,
+    "axis": 266,
+    "activation": 5472
+  },
+  "included_page_types": [
+    "factor",
+    "axis",
+    "activation"
+  ]
+}

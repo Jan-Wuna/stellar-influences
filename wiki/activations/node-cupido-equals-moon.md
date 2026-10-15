@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Moon Node Cupido](../triads/moon-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Acquaintance with the future wife. Mental or emotional ties. Mass-meetings.
 
 Women's relationship with the community, women's connection with the whole, contacts with a women's community, community union, association with the people's community, with the whole people, and mediation community for women
 
+## Comparative Schema
+
+- core meaning: Emotional ties within a community or gathering.
+- psychology: Shared feeling and emotional connection.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Contacts with women's groups in ABC and the historical future-wife example in Witte.
+- events/manifestations: Mass meetings and contacts linking people to a wider community.
+- conflicts/notes: Gendered examples remain attributed and do not restrict the formula to women.
+
+## Contradictions
+
+The entries connect personal emotional ties with collective belonging. Witte's future-wife wording and ABC's women's communities are historical examples, not universal requirements.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Moon`: Acquaintance with the future wife. Mental or emotional ties. Mass-meetings.
-- Practical focus: acquaintance with the future wife; also mental or emotional ties.
+Moon specifies Node/Cupido through the feeling that connects people to a group. The [Witte entry](#witte-entry) links mental or emotional ties with mass meetings, while the [ABC entry](#abc-entry) describes community belonging and contacts with women's groups. Witte's acquaintance with a future wife remains a specific historical example; the broader shared theme is emotional participation in communal life.
 
 ## Links
 

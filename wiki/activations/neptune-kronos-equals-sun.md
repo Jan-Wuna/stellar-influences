@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Sun`
 - Astronomicon formula: `Y/¤ = S`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
-Days in which the native is involved in deception or deceiving. The disappointing manager. The man who is under the wrong impression, who is gready deceived, who plays a game of diplomatic intrigues.
+Days in which the native is involved in deception or deceiving. The disappointing manager. The man who is under the wrong impression, who is greatly deceived, who plays a game of diplomatic intrigues.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `398`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Dissolving of a state centre, special finesse of a person, great expectations of a man, great personal exchange, corporal superiority in water, air steering center, person of the water authority, and personal authorization weakness
+Dissolution of a state center, special sensitivity of a person, great expectations of a man, great personal disappointment, bodily superiority in water, air-direction center, person of the water authority, and personal weakness of authority
+
+## Comparative Schema
+
+- core meaning: personal disappointment or deception in a managerial or diplomatic setting.
+- psychology: great expectations, sensitivity, and being under a wrong impression are explicit.
+- body/health: ABC's bodily superiority in water is a historical source description, not a health assessment.
+- social/relationship: a manager, state center, water authority, and personal authority weakness are stated settings.
+- events/manifestations: diplomatic intrigues, dissolution of a state center, and air direction are examples.
+- conflicts/notes: deceiving and being deceived are distinct source roles; disappointment does not prove intentional wrongdoing.
+
+## Contradictions
+
+Witte includes both deception by and deception of a person. ABC retains sensitivity and official settings alongside disappointment, without making every authority role fraudulent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Sun`: Days in which the native is involved in deception or deceiving. The disappointing manager. The man who is under the wrong impression, who is gready deceived, who plays a game of diplomatic intrigues.
-- Practical focus: personalizes diplomatic deception and managerial disappointment, showing the self entangled in intrigue, false impressions, or a leadership role that misleads and fails.
-- Practical expression: dissolving of a state centre, special finesse of a person, great expectations of a man, great personal exchange, and corporal superiority in water.
+In Neptune/Kronos = Sun, Sun specifies the pair through personal expectations and conduct in managerial or diplomatic circumstances. The [Witte entry](#witte-entry) distinguishes deceiving from being deceived and includes the disappointing manager; [ABC](#abc-entry) adds great personal disappointment and authority weakness beside sensitivity and official water or air settings (printed p. 398, PDF p. 198). These do not establish intentional deception from disappointment alone or make managerial failure a fixed personal trait. Bodily superiority in water remains an attributed source example.
 
 ## Links
 

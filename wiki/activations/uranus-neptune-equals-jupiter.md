@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Jupiter`
 - Astronomicon formula: `X/Y = V`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Jupiter entry.
+
 #### Witte Entry
 
 Unexpected, easily acquired money. Inheritance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Jupiter entry.
+
 #### ABC Entry
 
-Successful water technology, successful refinement of technology, joy over future technology, creeping tensions over money, surprising innovation success, surprising financial weakness, and unrest over legal insecurity
+Successful water technology, successful refinement of technology, joy over future technology, creeping tensions over money, surprising success through intuition, surprising financial weakness, and unrest over legal insecurity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0944`.
 
 #### Ebertin Entry
 
 Tendency to rely upon others, the joy of hope or of expectation. Strange luck or good fortune, acceptance of presents without thinking about it, gaining new courage to again face life.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Jupiter entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ An added need to be within yourself for inspiration and ideas; opinion formed on
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Hope and unexpected benefit amid exploratory interests. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Expectation, renewed courage, and possible grandiosity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Reliance on others and the acceptance of gifts. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Inheritance, technical refinement, metaphysical study, and uncertain finances. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Benefit and financial weakness are alternatives; Sandbach's grandiosity can obstruct focus. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Unexpected benefit and renewed hope coexist with financial weakness, legal insecurity and grandiosity. These are alternatives and limits, not a guarantee of gain or a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Jupiter`: inspired reform, collective optimism, and the ability to turn intuition into meaningful openings. Main caution: inflated vision: idealism can become grandiose, speculative, or detached from workable limits.
+Jupiter specifies Uranus/Neptune through hope, unexpected benefit, and enthusiasm for unexplored possibilities. Inheritance or unconsidered gifts provide concrete forms of the benefit, while technical refinement and metaphysical study give the enthusiasm direction. Financial weakness and legal insecurity remain beside good fortune in ABC, and Sandbach warns that grandiosity can diffuse effort; hope is therefore represented without a guarantee of gain. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

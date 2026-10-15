@@ -48,9 +48,13 @@ updated_at: 2026-04-21
 - Axis: `Chiron/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: `102–103` (Principle and Process).
 
 #### Principle
 
@@ -59,6 +63,15 @@ The need to be receptive to messages coming in from the universe. One’s career
 #### Process
 
 The giving up of all defenses that prevent one’s connection to the spiritual realms. The giving and receiving of parenting that is deeply healing. The ability to allow oneself to be parented by spiritual forces.
+
+## Comparative Schema
+
+- Core meaning: Career and authority are given a spiritual purpose of unconditional care and helping others grow in consciousness in the [Principle](#principle).
+- Psychology: Receptivity and reduced attachment to reputation are explicit. The source's expectation of frustration in work lacking positive contribution is a conditional spiritual claim, not a universal career assessment.
+- Body/health: The [Process](#process) describes deeply healing parenting, but specifies no clinical condition, bodily mechanism, or treatment.
+- Social/relationship: Giving and receiving parenting, helping others grow, and receiving guidance from spiritual forces connect care with authority.
+- Events/manifestations: Career and reputation are explicit worldly settings in the [Principle](#principle); parenting is an additional setting in the [Process](#process).
+- Conflicts/notes: Spiritual authority and surrender of defenses are complementary within this single source. Split words "con cerned" and "posi tively" remain in the preserved passage; the PDF locator identifies it without assuming printed pagination.
 
 ## Related Activations
 
@@ -75,11 +88,14 @@ The giving up of all defenses that prevent one’s connection to the spiritual r
 - [Chiron/MC = Uranus](../activations/chiron-mc-equals-uranus.md)
 - [Chiron/MC = Venus](../activations/chiron-mc-equals-venus.md)
 
+## Contradictions
+
+The source connects authority with receptivity and care, rather than treating them as opposites. Its statements about career satisfaction remain conditional claims within that spiritual framework.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC`: a life path that only feels right when it carries healing value, unconditional care, and a spiritually responsible use of public influence.
-- Chart expression: career or purpose as a channel for healing, to the relinquishing of defensive or reputation-bound ambition, and to growth into a form of spiritual authority that helps others mature. Liabilities: misery in misaligned work, attachment to image, or resistance to the spiritual surrender that this path requires.
+`Chiron/MC` connects vocation and authority with unconditional care and spiritual receptivity. The [Principle](#principle) asks that career contribute positively to others and that authority help them grow in consciousness, while attachment to either a favorable or an unfavorable reputation is loosened. The [Process](#process) gives this direction a relational form: healing through giving and receiving parenting, including being receptive to spiritual guidance. Within the source's framework, purpose rests in caring contribution rather than reputation alone; its claim of frustration in work without such contribution remains attributed and conditional.
 
 ## Links
 

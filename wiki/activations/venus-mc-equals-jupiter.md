@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Jupiter MC](../triads/venus-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ The sensation of happiness of love. Lucky wishes. Fulfilment of wishes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `70`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-Joy over the beauty of a soul, money for my kiss, happiness through soul harmony, I love success, my joy of peace, my happy wife, my pleasure success, my love happiness, my legal advantages, my fondness for right, and my fondness for money
+Joy over the beauty of a soul, money for my art, happiness through harmony of the soul, I love success, my joy in peace, my happy wife, my artistic successes, my happiness in love, my legal advantages, my preference for justice, and my preference for money.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0679`.
 
 #### Ebertin Entry
 
 Rich expression of feeling, desire to give a lot of love, healthy and confident attitude with regard to love life, ability to easily gain the affection of others. A popular and happy person.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Added enjoyment received from travel or religious experiences; increased underst
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Happiness in love and a growing appreciation of what one can give and receive.
+- Psychology: Generous feeling, confidence in love, enthusiasm, and appreciation of value.
+- Body/health: Ebertin's healthy attitude is a psychological description, not a medical assessment.
+- Social/relationship: Giving abundant love, gaining affection, and appreciating others' loving intentions.
+- Events/manifestations: Fulfilled wishes, artistic successes, travel or religious enjoyment, and giving something valuable to the world.
+- Conflicts/notes: Sandbach's explicitly theological language is retained as his spiritual interpretation.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's explicitly theological language is retained as his spiritual interpretation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Jupiter`: fortunate visibility, benefic reputation, and outer progress that comes through grace, value, and constructive relationship-building. Main caution: complacent success: approval and comfort can soften discipline or blur true standards of worth.
+`Venus/MC = Jupiter` expands the experience and expression of love. [Witte](#witte-entry) emphasizes happiness and fulfilled wishes, while [Ebertin](#ebertin-entry) adds rich feeling, confidence, and a desire to give love. The [ABC entry](#abc-entry) includes artistic success, money for art, legal advantage, and happiness through inner harmony. [Sandbach](#sandbach-entry) understands giving value to the world as a channel of God's love; [Munkasey](#munkasey-entry) adds appreciation through travel, religion, and recognition of loving intentions. The connected theme is generous participation in what feels valuable, with material, relational, and spiritual expressions kept distinct.
 
 ## Links
 

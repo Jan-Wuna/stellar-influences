@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Kronos`
 - Astronomicon formula: `W/Asc = ¤`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To be separated from the father or from the boss. Separations from other people by the power of the state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special patience of the partner, staggered self reliance by the partner, large environmental losses, large losses for a place, self reliable partner in old age, state environmental tasks, priority environmental tasks, and important problems at the site
+- Source page: 115 (printed); PDF page: 56.
+
+Special patience of the partner, independence disturbed by the partner, major environmental disturbances, great losses for a place, an independent partner in old age, state environmental tasks, priority environmental tasks, important problems at the place.
+
+Translation and full row boundaries checked against the German activator glyph.
+
+## Comparative Schema
+
+- Core meaning: Relations to authority or independence are strained, with significant local responsibilities.
+- Psychology: Special patience of a partner and disrupted independence.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: Separation from father or boss, or from others through state power.
+- Events/manifestations: Major environmental disturbances or local losses and state environmental tasks.
+- Conflicts/notes: Partner independence and authority-imposed separation are distinct source expressions.
+
+## Contradictions
+
+Partner independence and authority-imposed separation are distinct source expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Kronos`: to be separated from the father or from the boss, separations from other people by the power of the state.
-- Practical expression: special patience of the partner, staggered self reliance by the partner, large environmental losses, large losses for a place, and self reliable partner in old age.
+In `Saturn/Asc = Kronos`, Kronos specifies the pair through authority and independence within the environment. The [Witte entry](#witte-entry) names separation from a father or boss and separation imposed by state power; the [ABC entry](#abc-entry) adds disrupted independence through a partner, major local problems, and public environmental duties. A partner's patience or independence remains another possibility within that demanding setting.
 
 ## Links
 

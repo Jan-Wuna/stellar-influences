@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Triad hub: [Mercury Saturn Node](../triads/mercury-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Node + Mercury`
+- Source reference: PDF p. 141 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,18 @@ Serious and unpleasant exchange of thoughts. Farewell party. Connection of thoug
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Merkur`
+- Source reference: printed p. 209; PDF p. 103 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Condensed speech in a connection, inhibited connections in youth, gated news connection, separation language in relationships, talk about inhibited connections, and connections through concentrated language
+Burdensome conversations within a connection, inhibited connections in youth, disrupted news connections, separation discussions in relationships, talking about inhibited connections, and connections through concentrated conversations
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Dragon's Head`
+- Source reference: printed p. 167; entry `0548` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +67,16 @@ Inhibitions when talking with others, shyness. Termination of associations, peop
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Node midpoint`
+- Source reference: PDF p. 51 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 Shyness in sharing ideas with others. Feeling limited or inadequate when one attempts to share thoughts. Sharing ideas of a depressing, sorrowful or otherwise neg ative nature.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 176 (entry page).
 
 - Source heading: `MERCURY/NODE with Planets and Points`
 - Source page: `176`
@@ -70,22 +87,21 @@ Disciplined thoughts on effectively getting your message across to the bulk of t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Serious, inhibited, or concentrated exchange within relationships. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: Shyness and feelings of inadequacy when sharing thoughts; disciplined message preparation. [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry), p. 176.
+- body/health: Mourning and shared suffering are social circumstances here; no specific bodily condition is established. [Ebertin](#ebertin-entry).
+- social/relationship: Associations may end or persist as lasting bonds; distance and conservative organizations also appear. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Farewell gatherings, separation discussions, writing, and journeys. [Witte](#witte-entry); [ABC](#abc-entry).
+- conflicts/notes: Restriction and durable ties are both represented; neither should erase the other.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey emphasizes lasting bonds where Ebertin includes termination of associations. These describe different possible expressions, not a universal outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Saturn`: dependable collaboration, mature dialogue, and networks that function through order, boundaries, and sustained mental effort. Main caution: heavy or transactional relating: communication can become too formal, guarded, or narrowed by fear and duty.
+In `Mercury/Node = Saturn`, Saturn specifies relationships through the weight or restraint of communication. Shyness can make sharing difficult, and conversations may concern separation, sorrow, or distant people. Yet concentration can also sustain a message and enduring ties. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry). [Munkasey's entry](#munkasey-entry), p. 176, supplies that lasting, disciplined side; it qualifies a reading centered only on isolation.
 
 ## Links
 

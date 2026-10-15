@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Mars Kronos`
 - Astronomicon triad-set: `Q U ¤`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Mars/Kronos = Venus](../activations/mars-kronos-equals-venus.md)
-- [Venus/Kronos = Mars](../activations/venus-kronos-equals-mars.md)
-- [Venus/Mars = Kronos](../activations/venus-mars-equals-kronos.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Mars/Kronos](../axes/mars-kronos.md) | Venus | [Mars/Kronos = Venus](../activations/mars-kronos-equals-venus.md) |
+| [Venus/Kronos](../axes/venus-kronos.md) | Mars | [Venus/Kronos = Mars](../activations/venus-kronos-equals-mars.md) |
+| [Venus/Mars](../axes/venus-mars.md) | Kronos | [Venus/Mars = Kronos](../activations/venus-mars-equals-kronos.md) |
 
 ## Source Coverage
 
-- `Mars/Kronos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `314`
-- `Venus/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `185`
-- `Venus/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `288`
-- `Venus/Mars = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `271`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Mars/Kronos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-kronos-equals-venus.md#witte-entry), one-based PDF entry-start p. `200`.
+- `Mars/Kronos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-kronos-equals-venus.md#abc-entry), printed p. `314`.
+- `Venus/Kronos = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-kronos-equals-mars.md#witte-entry), one-based PDF entry-start p. `185`.
+- `Venus/Kronos = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-kronos-equals-mars.md#abc-entry), printed p. `288`.
+- `Venus/Mars = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-kronos.md#witte-entry), one-based PDF entry-start p. `176`.
+- `Venus/Mars = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-kronos.md#abc-entry), printed p. `271`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Venus`: civilizes executive force through restraint, tact, and favorable dealings with powerful or independent people.
-- `Venus/Kronos = Mars`: energetic charitable help.
-- `Venus/Mars = Kronos`: woman dominated by love.
+The `Venus Mars Kronos` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

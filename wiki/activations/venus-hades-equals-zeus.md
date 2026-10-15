@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Zeus`
 - Astronomicon formula: `Q/¢ = £`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 To enforce service or to be forced to serve. Births illegitimate or under severe circumstances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dangerous preference for fire, harmonious service, poor peace efforts, creative old arts, achievements from a harmonious past, renunciation of love witnesses, and preference for dangerous objectives
+- Source page: 285 (printed); PDF page: 141; scanned activator row checked.
+
+A dangerous preference for fire, harmonious service performances, deficient efforts for peace, creative old art, achievements from a harmonious past, renunciation of procreation in love, and a preference for dangerous aims.
+
+## Comparative Schema
+
+- Core meaning: Service is enforced or directed toward difficult aims.
+- Psychology: A preference for dangerous objectives.
+- Body/health: Birth and procreation language is historical, not a reproductive prediction.
+- Social/relationship: Compulsory service and historically illegitimate births.
+- Events/manifestations: Fire danger, old creative art, and deficient peace effort.
+- Conflicts/notes: Enforcing service and harmonious performance remain distinct possibilities.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Enforcing service and harmonious performance remain distinct possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Zeus`: to enforce service or to be forced to serve.
-- Practical expression: dangerous preference for fire, harmonious service, poor peace efforts, creative old arts, and achievements from a harmonious past.
+Zeus specifies Venus/Hades through effort and direction applied to service or difficult affectionate circumstances. Service may be enforced, while ABC also allows harmonious performance and creative old art. Its renunciation of procreation and Witte's difficult-birth language remain historical claims without predicting a birth or assigning social stigma. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

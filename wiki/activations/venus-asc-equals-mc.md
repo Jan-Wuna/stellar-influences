@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Asc MC](../triads/venus-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 To be happy and glad about the treatment received from others. Love’s influence upon the mind.
 
@@ -45,17 +49,23 @@ To be happy and glad about the treatment received from others. Love’s influenc
 
 #### ABC Entry
 
-Bcselter Place the art, I love the environment, inner peace at the place, my love partner, myc Vorlicbe for a place, beauty of the partner soul, soul harmony with a partner, and soul peace of the partner
+- Source page: 108 (printed); PDF page: 53; scanned activator row checked.
+
+A soulful place of art, I love the environment, inner peace in the locality, my love partner, my artistic environment, my preference for a place, the beauty of the partner's soul, inner harmony with the partner, and the partner's inner peace
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 197 (printed), entry `0673`.
 
 An affectionate and harmonious person, a sense of beauty, an appreciation of art, artistic inclinations, beautification of the environment. Union with another person through the bonds of love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF pages: 65–66 (exact passage checked in the raw PDF text).
 
 If one allows spiritual energy into one’s consciousness, it will manifest through the personality as lovingness and an ability to share oneself with other people in an affectionate manner. One is working in this lifetime toward making the outer ex pression of one’s love mirror as perfectly as possible one’s true inner feeling of love.
 
@@ -70,22 +80,23 @@ Adds to the compliments you receive about the way you conduct yourself in life; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Inner affection and one's outward manner are connected.
+- **psychology:** Witte describes love influencing the mind; Sandbach seeks alignment between feeling and expression.
+- **body/health:** No bodily condition is established; Munkasey's aging language is a source example.
+- **social/relationship:** Ebertin names union through love; Munkasey adds admiration and compliments.
+- **events/manifestations:** Beautifying the environment is explicit in Ebertin.
+- **conflicts/notes:** Inner harmony, affectionate union, and admiration for conduct are related emphases.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Inner harmony, affectionate union, and admiration for conduct are related emphases. Sandbach's spiritual condition remains attributed, and no passage establishes a specific profession.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = MC`: social polish, artistic or diplomatic vocation, and a public role advanced through pleasant personal style. Main caution: image attachment: identity and direction can become too dependent on approval, appearance, or admiration.
+In `Venus/Asc = MC`, MC specifies the Venus/Asc axis through the person's own experience and expression of affection. [Witte](#witte-entry) connects love with the mind and pleasure in others' treatment; [Ebertin](#ebertin-entry) adds an affectionate disposition, artistic inclination and union through love. [Sandbach](#sandbach-entry) makes the inner-outer relationship explicit: the aim is for outward lovingness to reflect inward feeling. [Munkasey](#munkasey-entry) adds admiration for grace and conduct, without establishing a particular career.
 
 ## Links
 

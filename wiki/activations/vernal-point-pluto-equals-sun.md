@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Sun`
 - Astronomicon formula: `VP/Z = S`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -44,11 +46,23 @@ The physical condition of the living body. Food intake of the body. Appetite. Di
 
 People who change the public, people who develop in the public life, man's development in the public, public development center, personal developments in the public, and day of change in the public
 
+## Comparative Schema
+
+- Core meaning: Development specified through persons and physical life, with substantially different emphases in the entries.
+- Psychology: The ABC entry names personal development, but gives no detailed psychological account.
+- Body/health: Witte names physical condition, food intake, appetite, and digestion as historical astrological correspondences, not medical findings.
+- Social/relationship: ABC describes people developing in or changing public life and retains a gendered example of men.
+- Events/manifestations: Personal public development and bodily nourishment are distinct named manifestations.
+- Conflicts/notes: The entries do not explain how public development and digestion relate; neither theme should be used as proof of the other.
+
+## Contradictions
+
+The bodily and public-personal emphases are not logically incompatible, but their relationship is unstated. They remain parallel source claims rather than a single demonstrated mechanism.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Sun`: the physical condition of the living body, food intake of the body, appetite, and digestion.
-- Practical expression: people who change the public, people who develop in the public life, man's development in the public, public development center, and personal developments in the public.
+In `Vernal Point/Pluto = Sun`, Sun specifies development through persons: the [ABC entry](#abc-entry) describes people developing in public life and changing it. The [Witte entry](#witte-entry) gives a separate bodily register of physical condition, appetite, food intake, and digestion. Those historical bodily associations remain attributed; the entries do not establish a causal link between digestion and public development.
 
 ## Links
 

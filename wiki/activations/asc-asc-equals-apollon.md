@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Asc/Asc](../axes/asc-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 #### Witte Entry
 
 Equalization of others. Many acquaintances. To have customers. Acquaintance with representatives of commerce, trade and science. Matters that are take place far away or come from a distant location. To get to know many places. Interests that are spreading out into new areas. For the merchant, a growing customer base and the sale of merchandise.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 79, “Asc + Asc,” Apollon row; checked on the actual scan.
+
+## Comparative Schema
+
+- **Core meaning:** A widening field of acquaintances, customers, places, and interests ([Witte entry](#witte-entry)).
+- **Psychology:** Interests spreading into new areas are explicit; overextension or lack of depth is not stated.
+- **Body/health:** No specific body or health claim is supplied.
+- **Social/relationship:** Many acquaintances and contact with representatives of commerce, trade, and science are named.
+- **Events/manifestations:** Distant matters or objects, learning many places, a growing customer base, and merchandise sales are explicit examples.
+- **Conflicts/notes:** “Equalization of others” is retained without an invented explanation; the entry alone does not establish how equalization operates.
+
+## Contradictions
+
+Only one source entry is present. Its commercial, geographical, and intellectual examples broaden the same field of contact; they are not independent corroboration or a cross-source agreement.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Asc = Apollon`: social-commercial expansion, widening circles, and a near field that connects to larger networks and places. Main caution: diffuse overextension: the immediate environment can become busy, broad, and transactional without depth.
+In `Asc/Asc = Apollon`, Apollon specifies the repeated Asc pair through increasing contact with people, places, and interests. Many acquaintances and customers connect the local field to commerce, trade, science, and distant matters; for a merchant the entry makes this concrete as a growing customer base and merchandise sales. The supported breadth does not establish emotional shallowness or excessive workload. This reading rests on one source entry. ([Witte entry](#witte-entry))
 
 ## Links
 

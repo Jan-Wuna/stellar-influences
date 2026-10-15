@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune MC Zeus`
 - Astronomicon triad-set: `Y MC £`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Zeus = Neptune](../activations/mc-zeus-equals-neptune.md)
-- [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md)
-- [Neptune/Zeus = MC](../activations/neptune-zeus-equals-mc.md)
+- [MC/Zeus = Neptune](../activations/mc-zeus-equals-neptune.md): base axis [MC/Zeus](../axes/mc-zeus.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md): base axis [Neptune/MC](../axes/neptune-mc.md); activator [Zeus](../factors/zeus.md).
+- [Neptune/Zeus = MC](../activations/neptune-zeus-equals-mc.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `MC/Zeus = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
-- `MC/Zeus = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `89`
-- `Neptune/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `81`
-- `Neptune/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `396`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Zeus = Neptune](../activations/mc-zeus-equals-neptune.md#witte-entry) (PDF entry-start p. 72); [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md#witte-entry) (PDF entry-start p. 68); [Neptune/Zeus = MC](../activations/neptune-zeus-equals-mc.md#witte-entry) (PDF entry-start p. 249).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Zeus = Neptune](../activations/mc-zeus-equals-neptune.md#abc-entry) (printed p. 89); [Neptune/MC = Zeus](../activations/neptune-mc-equals-zeus.md#abc-entry) (printed p. 81); [Neptune/Zeus = MC](../activations/neptune-zeus-equals-mc.md#abc-entry) (printed p. 396).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Neptune`: weakens the axis through fading will, overreach, and abandoned plans.
-- `Neptune/MC = Zeus`: This activation directs uncertain vocation into offending or disappointing enterprises, showing forceful initiatives that burn others, fail expectations, or end in bitter disillusionment.
-- `Neptune/Zeus = MC`: The outward stance is heated, showy, and poorly timed, with temperament and ambition tending toward unfortunate or misdirected emergence.
+Neptune, MC and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Zeus](../axes/mc-zeus.md)
+- [Neptune/MC](../axes/neptune-mc.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)

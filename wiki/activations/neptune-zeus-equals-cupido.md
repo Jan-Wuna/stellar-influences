@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Cupido`
 - Astronomicon formula: `Y/£ = ¡`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Unfulfilled promise to marry. Refusal of proposed marriage. Difficulties in establishing common working agreements. Expressionistic art.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Initiative design, metaphysical movement community, weak movement community, unclear community objectives, and refined performance community
+Beginning dissolution of a community, disappointing collective performance, shared intuitive shaping, a metaphysical leadership community, a weak leadership community, unclear collective goals, and refined collective performance
+
+## Comparative Schema
+
+- core meaning: difficulty establishing a union or working agreement, alongside shared intuitive creation.
+- psychology: unclear collective goals and intuitive shaping are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: unfulfilled marriage promises, refused proposals and a dissolving community are named.
+- events/manifestations: expressionistic art and refined collective performance provide creative expressions.
+- conflicts/notes: artistic expression is not stated to require failed union or unstable collaboration.
+
+## Contradictions
+
+Witte places failed marriage or work agreements beside expressionistic art. ABC likewise includes collective dissolution and refined shared creation without making one the cause of the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Cupido`: Unfulfilled promise to marry. Refusal of proposed marriage. Difficulties in establishing common working agreements. Expressionistic art.
-- Union and collaboration are frustrated, showing promises or proposals that do not culminate, strained agreements, or stylized creative expression without stable joining.
-- Practical expression: initiative design, metaphysical movement community, weak movement community, unclear community objectives, and refined performance community.
+Neptune/Zeus = Cupido concerns forming something together when commitment or direction may be uncertain. [Witte](#witte-entry) names unfulfilled marriage promises and difficult working agreements, while also listing expressionistic art. [ABC](#abc-entry) adds a community beginning to dissolve, unclear shared goals, and intuitive or refined collective creation (printed p. 397, PDF p. 197). Creative collaboration and difficulty maintaining a union are both supported, without making art a symptom of failed joining.
 
 ## Links
 

@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Moon Mars Pluto](../triads/moon-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 The planning housewife. To budget expenses. The timetable. Management and organization of work, which concern the public. Change in management of public work.
 
@@ -45,17 +49,23 @@ The planning housewife. To budget expenses. The timetable. Management and organi
 
 #### ABC Entry
 
-Change of nature of women, developmental work with women, developmental impulses, change of activity of a woman, effective development of a woman, different actions of the family, growing people will, and will conversion of a people
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+A woman's change of work, development work with women, unfolding emotional impulses, change in a woman's activity, energetic development of a woman, changed emotional actions, growing will of the people, and transformation of a people's will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214, entry 0736.
 
 Audacity and daring, impulsiveness, ambition. An energetic and resolute or determined woman, an injury caused to a woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
 
 One’s insecurities are compensated for through hard and/or obsessive work. To express emotions with extreme aggression or passion.
 
@@ -70,22 +80,21 @@ Strong impulses to proceed with your ideas and theories; habits which force you 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional intensity, determined work, and changes in activity or collective will.
+- psychology: Insecurity compensated through hard work, impulsiveness, ambition, and fluctuating self-control.
+- body/health: Injury to a woman is Ebertin's historical example, not a forecast from emotional intensity.
+- social/relationship: Historically gendered work roles; public work management and the will of a people.
+- events/manifestations: Budgeting, timetables, work changes, and passionate or aggressive emotional expression.
+- conflicts/notes: Changed feelings, public management, and injury are separate claims; no causal link between them is stated.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes budgeting and public management, while Sandbach and Munkasey emphasize emotional or temperamental intensity. ABC's work changes and emotional development retain another range of manifestations.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Moon`: determined caregiving or public management, intense emotional labor, and powerful instinctive reactions that push action forward. Main caution: emotional compulsion: insecurity or feeling-pressure can be converted into harshness, burnout, or aggressive emotional expression.
+In `Mars/Pluto = Moon`, Moon specifies developing action through feelings, determined effort, and changes in work or collective will. Witte's budgeting and public management are practical examples; ABC adds work changes and unfolding emotional impulses. Sandbach describes insecurity compensated through hard or obsessive work, while Munkasey adds strong impulses to proceed and variable self-control. Ebertin's determined woman and injury example remain historical source descriptions, without establishing that intense feelings necessarily cause harm. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0736; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

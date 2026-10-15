@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Uranus Admetos Poseidon](../triads/uranus-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To search into the bottom of a matter. To end such a search. To relax mentally. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 389; PDF p. 193.
+
 #### ABC Entry
 
-Exciting compaction of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual emanation, grim cultural reflection, sudden power constraint, tension through subordinated truth, and deepening into new ideas
+Exciting concentration of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual renewal, thorough cultural renewal, sudden restriction of power, tension through suppressed truth, deepening into new ideas.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Deep inquiry that can reach an ending or mental relaxation.
+- psychology: Concentration on a matter and diminished tension after inquiry.
+- body/health: No specific bodily condition is stated.
+- social/relationship: Witte includes recognition within a narrow circle.
+- events/manifestations: Searching to the bottom of a matter or concluding that search.
+- conflicts/notes: ABC adds blocked impulses, suppressed truth and restriction of power to Witte's inquiry and relaxation.
+
+## Contradictions
+
+Witte allows relaxation and the end of inquiry; ABC also includes blocked impulses, suppressed truth and restriction of power. These are different outcomes, not an established contradiction. The ABC renewal and thoroughness wording has been checked against printed p. 389 (PDF p. 193).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Admetos`: To search into the bottom of a matter. To end such a search. To relax mentally. To be noted in a narrow circle. Diminished mental tenseness.
-- Practical expression: exciting compaction of truth, blockage of spiritual impulses, dynamic spiritual deepening, consolidation through spiritual emanation, and grim cultural reflection.
+In `Uranus/Poseidon = Admetos`, Admetos specifies mental or spiritual stimulation through concentrated inquiry: pursuing a matter to its depth and eventually ending the search can reduce tension. [Witte](#witte-entry) also limits recognition to a small circle. [ABC](#abc-entry) preserves a contrasting possibility of blocked impulses and tension, so depth of engagement need not imply ease throughout the process.
 
 ## Links
 

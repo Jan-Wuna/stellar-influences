@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - Triad hub: [Cupido Zeus Vulcanus](../triads/cupido-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 295 (one-based).
 
 Mighty efforts of a community. To manage and direct the forces of a company or a community. To appear as the leader. Great artistic creations.
 
@@ -42,13 +46,29 @@ Mighty efforts of a community. To manage and direct the forces of a company or a
 
 #### ABC Entry
 
-Influenced leadership community, energy performance community, joint strength efforts, common power goals, enormous efforts of a community, violence strikes of a community, and power force of a community
+- Source page: 457; PDF page: 227 (one-based spread).
+
+An influential leadership community, a community of energy output, joint efforts of strength, shared power goals, enormous efforts by a community, a community's striving for force or violence, and a community's capacity for achievement.
+
+## Comparative Schema
+
+- core meaning: Collective power organized into substantial shared effort.
+- psychology: Common aims direct a group's strength; no individual personality account is supplied.
+- body/health: No bodily or medical meaning is stated.
+- social/relationship: A company or community mobilizes its forces and leadership.
+- events/manifestations: Great artistic creations and large collective undertakings.
+- conflicts/notes: ABC's striving for force or violence cannot be reduced to cooperation or to a specific violent act.
+
+## Contradictions
+
+The scan supports influential rather than "influenced" leadership, striving rather than "strikes", and capacity for achievement rather than "power force". Witte's artistic and organizational examples coexist with ABC's potentially coercive vocabulary; the entries do not establish that every community is harmonious.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Vulcanus = Cupido`: Mighty efforts of a community. To manage and direct the forces of a company or a community. To appear as the leader. Great artistic creations.
-- Practical expression: influenced leadership community, energy performance community, joint strength efforts, common power goals, and enormous efforts of a community.
+In `Zeus/Vulcanus = Cupido`, Cupido specifies Zeus/Vulcanus through a community's capacity to direct substantial power toward shared aims. The [Witte entry](#witte-entry) describes managing a company or community's forces, leadership and great artistic creations; the [ABC entry](#abc-entry) adds joint exertion and common power goals. Collective effort becomes an organized undertaking with the capacity for major achievement.
+
+ABC's striving for force or violence remains a qualified branch of that range. Shared purpose does not itself establish either consent or a specific violent event.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Node`
 - Astronomicon formula: `Y/Z = g`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Connections which slowly come and go, hardly noticed. Hidden changes in a relationship. A joint planning for the future.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Exchange over the development of a connection, refined contact development, creeping changes in a connection, uncertain development of a connection, growing expectations in a relationship, and future development of a connection
+Deception concerning the development of a connection, refined development of contact, creeping changes in a connection, uncertain development of a connection, growing expectations in a relationship, and future development of a connection
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `282`, entry code `1007`.
 
 #### Ebertin Entry
 
 Sharing peculiar experiences with others, inherited psychical or metaphysical talents.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To connect with others with whom one feels a profound psychic connection. Subtle
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Helps you meet others who are able to show you how to implement your ideas for b
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: hidden or gradual changes in ties, with shared experience and planning for change.
+- psychology: intense shared ideals and expectations are explicit.
+- body/health: inherited psychical talents and subtle energies are attributed claims, not a medical mechanism.
+- social/relationship: connections coming and going unnoticed, shared peculiar experiences, and friends helping change are named.
+- events/manifestations: joint future planning and uncertain development are stated.
+- conflicts/notes: Munkasey's criminal-association example does not make every unusual friendship criminal; karmic status is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte describes unnoticed ties and shared planning; Ebertin and Sandbach emphasize unusual shared experience or psychic affinity. Munkasey adds practical help alongside vague criminal associations.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Node`: karmic-seeming connection, profound group influence, and the ability to meet transformative processes through other people. Main caution: contaminated alliance: relationships can become manipulative, deceptive, or quietly swallowed by mass or hidden forces.
+In Neptune/Pluto = Node, connections may change quietly while carrying shared expectations about the future. [Witte](#witte-entry) names unnoticed ties, hidden changes, and joint planning; [ABC](#abc-entry) adds refined contact, uncertain development, and possible deception about progress. [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) describe unusual shared experiences or psychic affinity, while [Munkasey](#munkasey-entry) also includes friends who help implement change. These passages do not establish karmic bonds or a common hidden force controlling every association.
 
 ## Links
 

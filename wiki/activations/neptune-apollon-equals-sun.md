@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Sun`
 - Astronomicon formula: `Y/¥ = S`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 The man who labors under a great illusion concerning his future or who is in uncertainty about it. The man who is involved in embezzlements, or matters of corruption. Favorable days for metaphysics.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `400`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Successful mental intuition, human knowledge stamping, metaphysical knowledge of a man, personal dissemination of metaphysics, personal future knowledge, uncertain personal freedom, and center for future knowledge
+Successful personal intuition, human deception concerning knowledge, metaphysical knowledge of a man, personal dissemination of metaphysics, personal future knowledge, uncertain personal freedom, and center for future knowledge
+
+## Comparative Schema
+
+- core meaning: personal uncertainty or illusion about the future, alongside claimed intuitive and metaphysical knowledge.
+- psychology: Witte's great illusion and ABC's deception concerning knowledge qualify claims of personal insight.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: embezzlement and corruption are Witte's particular examples, not a character judgment about every person.
+- events/manifestations: disseminating metaphysics, claimed future knowledge, and favorable days for metaphysics are source examples.
+- conflicts/notes: Witte's gendered wording is historical; neither passage verifies claimed future knowledge.
+
+## Contradictions
+
+Witte juxtaposes illusion and corruption with favorable metaphysical activity. ABC likewise includes both successful intuition and deception concerning knowledge; these alternatives should remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Sun`: The man who labors under a great illusion concerning his future or who is in uncertainty about it. The man who is involved in embezzlements, or matters of corruption. Favorable days for metaphysics.
-- Practical focus: personalizes `Neptune/Apollon` through one's future vision, moral exposure, and role inside larger systems of illusion or corruption. It can show a person pulled between metaphysical promise and compromised reality, living under uncertainty while seeking meaning.
-- Practical expression: successful mental intuition, human knowledge stamping, metaphysical knowledge of a man, personal dissemination of metaphysics, and personal future knowledge.
+In Neptune/Apollon = Sun, Sun specifies the pair through a person's outlook on the future and claims to knowledge about it. The [Witte entry](#witte-entry) places uncertainty and great illusion beside particular examples of corruption and favorable metaphysical activity. [ABC](#abc-entry) adds personal intuition, dissemination of metaphysics, and deception concerning knowledge (printed p. 400, PDF p. 199). These passages distinguish claimed insight from misleading knowledge without making corruption universal or treating the claimed future knowledge as established fact.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,41 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Neptune Poseidon`
 - Astronomicon triad-set: `V Y ¨`
 
+This hub groups the unordered factor set for structural lookup. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Neptune = Poseidon](../activations/jupiter-neptune-equals-poseidon.md)
-- [Jupiter/Poseidon = Neptune](../activations/jupiter-poseidon-equals-neptune.md)
-- [Neptune/Poseidon = Jupiter](../activations/neptune-poseidon-equals-jupiter.md)
+| Orientation | Base axis | Activator |
+| --- | --- | --- |
+| [Jupiter/Neptune = Poseidon](../activations/jupiter-neptune-equals-poseidon.md) | [Jupiter/Neptune](../axes/jupiter-neptune.md) | [Poseidon](../factors/poseidon.md) |
+| [Jupiter/Poseidon = Neptune](../activations/jupiter-poseidon-equals-neptune.md) | [Jupiter/Poseidon](../axes/jupiter-poseidon.md) | [Neptune](../factors/neptune.md) |
+| [Neptune/Poseidon = Jupiter](../activations/neptune-poseidon-equals-jupiter.md) | [Neptune/Poseidon](../axes/neptune-poseidon.md) | [Jupiter](../factors/jupiter.md) |
+
+All three sibling orientations are represented by existing activation pages; none is inferred from a source catalog.
 
 ## Source Coverage
 
-- `Jupiter/Neptune = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `209`
-- `Jupiter/Neptune = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `329`
-- `Jupiter/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
-- `Jupiter/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `347`
-- `Neptune/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `406`
+Each row records a source subentry present on a linked activation page. The retained audit locators below have not been visually checked here; an entry or chapter start does not establish an exact printed or formula page.
+
+All 2 listed sources have entries on all three linked sibling orientations (3/3 each).
+
+| Orientation | Linked source entry | Retained reference |
+| --- | --- | --- |
+| `Jupiter/Neptune = Poseidon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-neptune-equals-poseidon.md#witte-entry) | PDF `209` (entry start; printed page not recorded) |
+| `Jupiter/Neptune = Poseidon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-neptune-equals-poseidon.md#abc-entry) | printed `329`; PDF `163` |
+| `Jupiter/Poseidon = Neptune` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-poseidon-equals-neptune.md#witte-entry) | PDF `218` (entry start; printed page not recorded) |
+| `Jupiter/Poseidon = Neptune` | [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-poseidon-equals-neptune.md#abc-entry) | printed `347`; PDF `172` |
+| `Neptune/Poseidon = Jupiter` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-poseidon-equals-jupiter.md#witte-entry) | PDF `254` (entry start; printed page not recorded) |
+| `Neptune/Poseidon = Jupiter` | [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-poseidon-equals-jupiter.md#abc-entry) | printed `406`; PDF `202` |
+
+## Contradictions Across Orientations
+
+The three formulas assign different roles to the same factors, so differing orientation meanings are not contradictions. This structural review does not establish agreement between sources; compare the qualified source entries on each exact activation page.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Poseidon`: luck and happiness in highly mental matters, and happiness through right, reason, wisdom, or intelligence.
-- `Jupiter/Poseidon = Neptune`: delicacy for right and justice, sensing higher things, and forefeeling metaphysical truth.
-- `Neptune/Poseidon = Jupiter`: This activation enlarges subtle mentality through fortunate concealment and successful pretense, showing high-minded or mental matters that prosper while remaining partly hidden.
+Use the orientation map to choose the exact base pair and the factor after `=`. The base axes in this hub are [Jupiter/Neptune](../axes/jupiter-neptune.md), [Jupiter/Poseidon](../axes/jupiter-poseidon.md), [Neptune/Poseidon](../axes/neptune-poseidon.md). Their pair meanings belong on those axis pages; each oriented formula has its own linked activation page. Membership in `Jupiter Neptune Poseidon` supplies sibling navigation, not a merged interpretation.
 
 ## Links
 

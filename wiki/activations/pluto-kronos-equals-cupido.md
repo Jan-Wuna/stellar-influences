@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Pluto Cupido Kronos](../triads/pluto-cupido-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Great changes in the family or a community. Reactionary measures. Traditions rei
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 415; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special development of a community, development in a hierarchical community, major changes in of a community, self development of a community, changes in state communities, and growing authorship in of a community
+Editorial translation (checked against the scan): Special development of a community, development within a hierarchical community, great changes in a community, independent development of a community, changes in state or governmental communities, growing authority in a community.
+
+## Comparative Schema
+
+- core meaning: Great changes within family or community, including restoration of traditions.
+- psychology: No specific individual inner state is given.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Families, communities, hierarchy, and state or governmental communities are explicit settings.
+- events/manifestations: Reactionary measures, reinstated traditions, government restitution, and community authority.
+- conflicts/notes: Restoration and community independence are distinct possibilities; family rank is not stated.
+
+## Contradictions
+
+Witte emphasizes restoration and government action; ABC adds community hierarchy and independence. These need not occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Cupido`: a change in family or social rank; Reorganization within an established group or authority structure.
-- Practical expression: special development of a community, development in a hierarchical community, major changes in a community, self development of a community, and growing authorship in a community.
+Cupido specifies Pluto/Kronos through great changes in a family or community. The [Witte entry](#witte-entry) includes reactionary measures, reinstated traditions, and government restitution, while the [ABC entry](#abc-entry) adds development within a hierarchy, community independence, and growing authority. Change can therefore restore an earlier arrangement as well as develop a community's position; the entries do not reduce it to rising family rank.
 
 ## Links
 

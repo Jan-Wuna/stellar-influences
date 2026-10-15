@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = MC`
 - Astronomicon formula: `Y/¤ = MC`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Incompetent as manager or leader.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `398`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-my Authoritats Schwach, my special expectations, my great exchange, my great insecurity, my self reliance in the air, great spiritual finesse, and unknown seclen hierarchy
+My special sensitivity, my weakness of authority, my special expectations, my great disappointment, my great uncertainty, my independence in the air, great sensitivity of the soul, and unknown soul-hierarchy
+
+## Comparative Schema
+
+- core meaning: personal authority weakness or managerial incompetence, alongside expectation, sensitivity, and independence.
+- psychology: great disappointment and uncertainty are explicit first-person themes.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: management or leadership is Witte's specific role setting.
+- events/manifestations: personal independence in the air and an unknown soul-hierarchy are ABC examples.
+- conflicts/notes: Seelen-Hierarchie remains literal, with no spiritual system or mechanism supplied.
+
+## Contradictions
+
+Witte gives managerial incompetence, while ABC also includes sensitivity and independence. Those qualities should not all be treated as symptoms of poor judgment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = MC`: Incompetent as manager or leader.
-- Practical focus: internalizes compromised authority as personal incompetence in leadership, showing the managerial role itself weakened by poor judgment, confusion, or inability to direct effectively.
-- Practical expression: my special expectations, my great exchange, my great insecurity, my self reliance in the air, and great spiritual finesse.
+In Neptune/Kronos = MC, MC specifies the pair through one's own authority, expectations, and uncertainty. The [Witte entry](#witte-entry) states incompetence in a managerial or leadership role; [ABC](#abc-entry) adds personal authority weakness, great disappointment, and uncertainty, but also special sensitivity and independence (printed p. 398, PDF p. 198). These describe adverse and other personal possibilities without deriving incompetence from sensitivity. The unknown soul-hierarchy phrase remains literal source wording rather than a defined spiritual explanation.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Kronos`
 - Astronomicon formula: `VP/¡ = ¤`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ A great financial institution, e.g. a national bank. Important or leading stock 
 
 special community in public life, dominance of a public community, shared authority in public, great public art, state community in public, and precedence of a public community
 
+## Comparative Schema
+
+- Core meaning: Public communities distinguished by prominence, authority, or high standards.
+- Psychology: No personal disposition is specified.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Distinguished society and shared authority.
+- Events/manifestations: National banks, leading companies, state communities, and high artistic standards.
+- Conflicts/notes: Public precedence and artistic quality are separate expressions of distinction.
+
+## Contradictions
+
+No direct conflict appears; institutional rank and artistic standards are different forms of prominence, not interchangeable outcomes.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Kronos`: a great financial institution, e.g, a national bank, important or leading stock company, distinguished society, and a high artistic standard.
-- Practical expression: special community in public life, dominance of a public community, shared authority in public, great public art, and state community in public.
+Kronos specifies `Vernal Point/Cupido` through public groups marked by authority, precedence, or distinction. A national bank, leading company, distinguished society, and high artistic standard are the Witte examples; the ABC adds shared authority and state community. Their connection is the group's public standing or standard, rather than a single prescribed institution. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 45 / PDF p. 21.)
 
 ## Links
 

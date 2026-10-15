@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [Uranus MC Hades](../triads/uranus-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<•) To be saddened and distressed through sudden death and adverse conditions.
+Source: “Meridian + Hades,” PDF p. 71.
+
+To be saddened and distressed through sudden death and adverse conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-My arousal, my sudden renunciation, my tchnic service, my restless service, my arousal of criminality, my restless past, my soul chamber, and my surprising danger minute
+Source: “Meridian + Hades,” printed p. 87 (PDF p. 42).
+
+My exciting secret, my sudden renunciation, my technical service, my restless service, my agitation about criminality, my restless past, sudden inner or soul grief, and a surprising minute of danger.
+
+## Comparative Schema
+
+- core meaning: Personal sorrow, service, or hidden matters affected by sudden or unsettling circumstances.
+- psychology: Sudden grief, agitation about criminality, and an exciting secret.
+- body/health: Witte's sudden-death association remains historical and is not an individual forecast.
+- social/relationship: Technical or restless service and sudden renunciation.
+- events/manifestations: Adverse conditions, an unsettled past, and a surprising moment of danger.
+- conflicts/notes: Agitation about criminality does not imply instigating it; sudden death is one source example rather than every expression.
+
+## Contradictions
+
+Witte emphasizes distress through sudden death or adversity. ABC also includes technical service, secrets, and renunciation, retaining a wider unsettled range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Uranus` shocks the axis through sudden death and abrupt adverse conditions.
-- Chart expression: distress from violent turns of fate, grief caused by sudden endings, and a life line interrupted by harsh, unexpected blows.
+In `MC/Hades = Uranus`, Uranus specifies personal sorrow, service, and concealed matters through sudden or unsettling events. Witte includes distress through sudden death or adverse conditions; ABC adds an exciting secret, technical or restless service, agitation about criminality, sudden grief, and unexpected danger. The shared emphasis is abruptly disturbed personal circumstances, with the severe death example retaining its historical source scope rather than defining every event. ([Witte](#witte-entry), PDF p. 71; [ABC](#abc-entry), printed p. 87 / PDF p. 42)
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Asc Admetos](../triads/venus-asc-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Harmonious community in a small circle. To pass by the affections and love of ot
 
 #### ABC Entry
 
-Others block the harmony, indulgent preference for a place, blocked peace at the place, restricted harmony with the partner, consolidation of harmony with the partner, consolidated partner love, and deepening of harmony in the environment
+Others block the harmony, enduring preference for a place, blocked peace at the place, restricted harmony with the partner, consolidation of harmony with the partner, consolidated partner love, and deepening of harmony in the environment
+
+- Source page: 109 (printed; PDF p. 53). “Ausdauernde Vorliebe für einen Ort” denotes an enduring preference for a place.
+
+## Comparative Schema
+
+- **core meaning:** Affection is limited to or consolidated within a small circle.
+- **psychology:** The sources do not establish a full inner profile beyond selective or constrained attachment.
+- **body/health:** No bodily meaning is given.
+- **social/relationship:** Witte describes being loved by few; ABC includes both restricted and consolidated partnership harmony.
+- **events/manifestations:** Deepening harmony and blocked local peace are alternative manifestations.
+- **conflicts/notes:** Small-circle harmony and felt exclusion must remain separate possibilities.
+
+## Contradictions
+
+Restriction and consolidation are materially different alternatives within the entries. Small-circle harmony can coexist with limited affection from others; neither source establishes which expression applies in a particular case.
+
+The ABC row and glyph were checked against PDF p. 53. Witte's evidence-cache locator is PDF p. 84 (entry start).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Asc = Admetos`: harmonious community in a small circle.
-- Practical expression: others block the harmony, indulgent preference for a place, blocked peace at the place, restricted harmony with the partner, and consolidation of harmony with the partner.
+In `Venus/Asc = Admetos`, Admetos specifies the Venus/Asc axis by concentrating affection and harmony within a limited circle. [Witte](#witte-entry) allows a harmonious small community while also describing love from only a few; [ABC](#abc-entry) pairs restricted harmony with a partner with consolidation and deepening of that same harmony. A narrowed social field can therefore feel excluding or become a stable intimate setting.
 
 ## Links
 

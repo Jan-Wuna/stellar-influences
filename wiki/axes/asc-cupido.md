@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `91`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ The parental home. Family following. The apartment. The home. Houses. Dwellings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `122–123`; PDF page: `60`.
+
 #### ABC Pair Summary
 
-Other Communities, Common Environment, Community Place, art Place, Artistic Assets, Local Community, partner Community, SpaceArt, Environment Community, and Environmental Synthesis
+Other communities, shared environment, community place, art place, artistic disposition, local community, partner community, spatial art, environmental community, and environmental synthesis.
+
+## Comparative Schema
+
+- Core meaning: Shared surroundings take the form of home, family, association, or community in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary).
+- Psychology: The entries describe common endeavors and social connection, but do not develop a fuller psychological account.
+- Body/health: No bodily or clinical correspondence is supplied; the appearance named is that of a family, association, or group.
+- Social/relationship: Family ties, group members, business partnership, and acquaintances with artists are explicit in the [Pair Summary](#pair-summary).
+- Events/manifestations: Homes, apartments, dwellings, conditions of residence, community places, and places associated with art give the shared social unit a physical setting.
+- Conflicts/notes: Domestic, artistic, and business associations share a community setting. ABC also names artistic disposition and spatial art; these do not establish financial assets or the quality of every association.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ Other Communities, Common Environment, Community Place, art Place, Artistic Asse
 - [Asc/Cupido = Vulcanus](../activations/asc-cupido-equals-vulcanus.md)
 - [Asc/Cupido = Zeus](../activations/asc-cupido-equals-zeus.md)
 
+## Contradictions
+
+Domestic, artistic, business, and community settings are different expressions of common association. No direct contradiction is established, but the short entries do not specify the quality of every union.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido`: the lived social unit around the native: home, apartment, family following, shared residence, business partnership, group ties, and the visible form of one's domestic or communal world.
-- Chart expression: belonging through household, association, neighborhood, and common endeavor, including the outer conditions of where one lives and with whom one is socially or familially joined. Liabilities: enclosure by group identity, dependency on domestic or partnership conditions, and a life overly shaped by the expectations, appearance, or cohesion of the immediate social unit.
+`Asc/Cupido` brings the immediate surroundings into a shared social unit. Home, residence, and family ties connect with relations among group members, business partnership, and common endeavors in the [Pair Summary](#pair-summary). The [ABC Pair Summary](#abc-pair-summary) broadens this to local communities, shared environments, and places associated with art. The pair therefore concerns both the people joined together and the place and outward form of that association, without deciding in advance whether its cohesion is supportive or restrictive.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Node`
 - Astronomicon formula: `VP/Asc = g`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -44,11 +46,23 @@ Acquaintances and connections with many people in many locations and countries.
 
 Encounters with others in the public life, partner connections in the public, place for public communication, environmental contacts in the public, and connections in the public environment
 
+## Comparative Schema
+
+- Core meaning: Public encounters and connections across places.
+- Psychology: No inner response is specified.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Acquaintances and partner connections with many people.
+- Events/manifestations: Contacts in many locations and countries; a place for public mediation.
+- Conflicts/notes: The German "Vermittlung" allows mediation; cached "communication" is less specific.
+
+## Contradictions
+
+No direct conflict appears; the Witte entry stresses geographical reach, while the ABC names public contacts and mediation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Node`: acquaintances and connections with many people in many locations and countries.
-- Practical expression: encounters with others in the public life, partner connections in the public, place for public communication, environmental contacts in the public, and connections in the public environment.
+Node specifies `Vernal Point/Asc` through making public connections: acquaintances and partner contacts encountered across many places and countries. The ABC also names a place for public mediation, so the emphasis can fall on a setting that brings people together, without establishing how close or lasting those contacts become. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 20 / PDF p. 9.)
 
 ## Links
 

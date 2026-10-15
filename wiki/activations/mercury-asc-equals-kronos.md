@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Asc Kronos](../triads/mercury-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Ascendant + Mercury,” Kronos entry, PDF p. 83.
 
 The native enjoys high regard by others. To converse about great or important matters. To give advice to others.
 
@@ -42,13 +46,27 @@ The native enjoys high regard by others. To converse about great or important ma
 
 #### ABC Entry
 
-Authoritative thinking of the partner, special language with other, young partner of the boss, great thought for a place, self evident partner description, self governingness of the youth in the place, state as media partner, and priority language about the environment
+Source: “Aszendent + Merkur,” Kronos entry, printed p. 107 / PDF p. 52. Translation checked against the German passage.
+
+The partner's authority-related thinking, special conversations with others, the chief's young partner, great thoughts for a place, independent description of the partner, independence of youth at the place, the state as a media partner, priority conversations about the surroundings.
+
+## Comparative Schema
+
+- core meaning: Regarded or advisory exchange and conversation about important matters.
+- psychology: Authority-related thinking and independent description of a partner.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Giving advice, a chief's young partner, and local youthful independence.
+- events/manifestations: Special or priority conversations and the state as a media partner.
+- conflicts/notes: Independent description is not self-evidence; being regarded by others does not certify expertise or institutional rank.
+
+## Contradictions
+
+Witte names high regard, advice and important matters. ABC adds authority-related thinking and institutional examples alongside independence, without requiring every exchange to involve an office or superior.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Asc = Kronos` elevates the Mercury/Asc axis into respected speech, important topics, and advisory influence.
-- Chart expression: being held in high regard for what one says, discussing consequential matters, and using communication to guide, counsel, or lend authority to others.
+In `Mercury/Asc = Kronos`, Kronos specifies communication with others and the immediate surroundings through important matters, advice and authority-related exchange. Witte includes high regard and advising others; ABC places special or priority conversations beside a chief, the state as a media partner, and independent description or youthful independence. These examples connect standing and consequential discussion without proving that speech causes regard or that the speaker holds rank or certified expertise. ([Witte](#witte-entry), PDF p. 83; [ABC](#abc-entry), printed p. 107 / PDF p. 52)
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Activates your need to spend time with your ideas; helps you see the effects of 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry).
+
+- core meaning: Attention to ideas and awareness of personal inner change.
+- psychology: Recognizing how attitudes and feelings affect one's changes.
+- body/health: No bodily condition is specified.
+- social/relationship: A wish to separate from ordinary ideas held by others.
+- events/manifestations: Time devoted to ideas and reflection on their effects.
+- conflicts/notes: One repeated-pair entry supports this reading.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented; agreement or disagreement between sources cannot be inferred. Separation from ordinary ideas is not necessarily withdrawal from all relationships.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Uranus`: Activates one's need to spend time with one's ideas; helps one see the effects of personal and inner changes bought on by one's attitudes and feelings about life; a need to separate oneself from the ordinary ideas of others.
+In `Uranus/Pluto = Uranus`, Uranus specifies the pair through a need to spend time with one's own ideas and notice the inner changes associated with attitudes and feelings. [Munkasey's entry](#munkasey-entry) also describes distance from conventional ideas held by others. The emphasis is intellectual independence and awareness of change, with no further event or bodily consequence specified.
 
 ## Links
 

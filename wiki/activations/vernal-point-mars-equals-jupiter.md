@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Jupiter](../triads/vernal-point-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 Fortunate actions or deeds.
 
@@ -42,13 +46,27 @@ Fortunate actions or deeds.
 
 #### ABC Entry
 
+- Source page: 32; PDF page: 15 (one-based spread).
+
 Work pleasure in the public life, success actions in the public, financial actions in the public life, joy by creating for the public, legal activity in the public, and activity with the public money
+
+## Comparative Schema
+
+- core meaning: Successful public deeds and rewarding work.
+- psychology: Work pleasure and joy in creating for the public are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Productive activity is directed toward the public.
+- events/manifestations: Financial actions, legal work, and activity with public money.
+- conflicts/notes: The entry concerns fortunate action; it supplies no guaranteed financial outcome.
+
+## Contradictions
+
+No direct contradiction is established. Public finance and legal activity are examples of successful work rather than necessary simultaneous events.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Jupiter`: fortunate actions or deeds.
-- Practical expression: work pleasure in the public life, success actions in the public, financial actions in the public life, oy by creating for the public, and legal activity in the public.
+In `Vernal Point/Mars = Jupiter`, public action is qualified by success and satisfaction. The [Witte entry](#witte-entry) states the theme as fortunate deeds. The [ABC entry](#abc-entry) develops it through pleasure in work, joy in creating for the public, and financial or legal activity involving public money. The emphasis is effective work that brings a sense of benefit to public life.
 
 ## Links
 

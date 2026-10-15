@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Zeus Poseidon`
 - Astronomicon triad-set: `g £ ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Poseidon = Zeus](../activations/node-poseidon-equals-zeus.md)
-- [Node/Zeus = Poseidon](../activations/node-zeus-equals-poseidon.md)
-- [Zeus/Poseidon = Node](../activations/zeus-poseidon-equals-node.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Poseidon = Zeus](../activations/node-poseidon-equals-zeus.md) | [Node/Poseidon](../axes/node-poseidon.md) | [Zeus](../factors/zeus.md) |
+| [Node/Zeus = Poseidon](../activations/node-zeus-equals-poseidon.md) | [Node/Zeus](../axes/node-zeus.md) | [Poseidon](../factors/poseidon.md) |
+| [Zeus/Poseidon = Node](../activations/zeus-poseidon-equals-node.md) | [Zeus/Poseidon](../axes/zeus-poseidon.md) | [Node](../factors/node.md) |
 
 ## Source Coverage
 
-- `Node/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `156`
-- `Node/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `239`
-- `Node/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `151`
-- `Node/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `229`
-- `Zeus/Poseidon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
-- `Zeus/Poseidon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `458`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Poseidon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-poseidon-equals-zeus.md#witte-entry), one-based PDF entry-start p. `156`.
+- `Node/Poseidon = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-poseidon-equals-zeus.md#abc-entry), printed p. `239`.
+- `Node/Zeus = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-zeus-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `151`.
+- `Node/Zeus = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-zeus-equals-poseidon.md#abc-entry), printed p. `229`.
+- `Zeus/Poseidon = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-poseidon-equals-node.md#witte-entry), one-based PDF entry-start p. `296`.
+- `Zeus/Poseidon = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-poseidon-equals-node.md#abc-entry), printed p. `458`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Zeus`: To hold mental leadership. To be outstanding in mental connections.
-- `Node/Zeus = Poseidon`: Mental creations in common with others.
-- `Zeus/Poseidon = Node`: To have to issue a document. To find the right connection.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

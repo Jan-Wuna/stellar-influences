@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Poseidon`
 - Astronomicon formula: `Y/£ = ¨`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
-Fruidess ideas, dangerous ideas. Resolution of a spiritual or mental compulsion.
+Fruitless ideas, dangerous ideas. Resolution of a spiritual or mental compulsion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `397`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-The beginning of an idea's resolution, a clear quest for refinement, exchangeable cultural achievements, fiery idea of the future, spiritual weakness of guidance, creating clear water, unknown mental filtration, and refinement of mental efforts
+Beginning dissolution of an idea, insightful striving for refinement, disappointing cultural achievements, a fiery idea for the future, mental weakness of leadership, producing clear water, unknown mental guidance, and refinement of mental efforts
+
+## Comparative Schema
+
+- core meaning: ideas may prove fruitless or dangerous, dissolve, or undergo refinement.
+- psychology: release of spiritual or mental compulsion and insightful striving are explicit.
+- body/health: compulsion is historical descriptive language rather than a diagnosis.
+- social/relationship: weakness of leadership and disappointing cultural achievement are named.
+- events/manifestations: a future idea and producing clear water are distinct examples.
+- conflicts/notes: release is listed without an eventual timetable or a universal progression from dangerous ideas.
+
+## Contradictions
+
+Witte gives fruitless or dangerous ideas and release from compulsion. ABC adds refinement and dissolving ideas; these are alternatives rather than a promised sequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Poseidon`: Fruidess ideas, dangerous ideas. Resolution of a spiritual or mental compulsion.
-- Ideas here are risky, unproductive, or mentally compulsive, yet they also point toward the eventual release or resolution of that pressure.
-- Practical expression: the beginning of an idea's resolution, a clear quest for refinement, exchangeable cultural achievements, fiery idea of the future, and spiritual weakness of guidance.
+Neptune/Zeus = Poseidon concerns the usefulness and direction of ideas. [Witte](#witte-entry) names fruitless or dangerous ideas alongside release from spiritual or mental compulsion. [ABC](#abc-entry) adds an idea beginning to dissolve, insightful refinement and disappointing cultural achievement (printed p. 397, PDF p. 197). The passages allow both impaired ideas and refinement, without promising that every difficult idea will eventually resolve. Producing clear water remains a separate concrete example.
 
 ## Links
 

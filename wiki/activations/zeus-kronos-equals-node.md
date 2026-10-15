@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Node Zeus Kronos](../triads/node-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-People who create order among themselves. People willing to take orders. Military personnel. A nation efficient in warfare. Warring women.
+- PDF page: 289 (one-based).
+
+To join with others for great deeds. War comrades. Allied nations in war. Associated with productive leading persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special efforts to connect, perform in a connection, self sustaining design of a connection, connect with a grudge fire, connect with state fiction, direct procreation Y ties, and connect important goals
+- Source page: 450; PDF page: 224 (one-based spread).
+
+Special efforts to establish a connection, major achievements within a connection, independent shaping of a connection, connection with a major fire, connections to state leadership, directing procreative connections, and linking important objectives.
+
+## Comparative Schema
+
+- core meaning: Connections organize major deeds or important objectives.
+- psychology: Effort to establish and shape connections.
+- body/health: Procreative connections are a source example without a fertility conclusion.
+- social/relationship: Productive leaders, war comrades and allied nations.
+- events/manifestations: Shared achievements, state-leadership contacts and links to a major fire.
+- conflicts/notes: The former Witte paragraph was Moon’s tail; association does not define a person’s role in an event.
+
+## Contradictions
+
+Both emphasize consequential connections. Witte gives military comrades and allies, while ABC also gives independently shaped ties and state contacts.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Node`: People who create order among themselves. People willing to take orders. Military personnel. A nation efficient in warfare. Warring women.
-- Practical expression: special efforts to connect, perform in a connection, self sustaining design of a connection, connect with a grudge fire, and connect with state fiction.
+`Zeus/Kronos = Node` connects major activity with other people or institutions. Witte gives joining for great deeds and association with productive leaders; ABC adds effort to form connections, major achievements within them and links between important objectives. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+War comrades, allied nations, state-leadership contacts and connection with a major fire are concrete settings. ABC’s procreative-connection example remains a separate historical association without establishing fertility or a specific relationship outcome. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

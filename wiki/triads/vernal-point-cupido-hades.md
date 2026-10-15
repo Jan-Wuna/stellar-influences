@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Cupido Hades`
 - Astronomicon triad-set: `VP ¡ ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Hades = Vernal Point](../activations/cupido-hades-equals-vernal-point.md)
-- [Vernal Point/Cupido = Hades](../activations/vernal-point-cupido-equals-hades.md)
-- [Vernal Point/Hades = Cupido](../activations/vernal-point-hades-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Hades = Vernal Point](../activations/cupido-hades-equals-vernal-point.md) | [Cupido/Hades](../axes/cupido-hades.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Cupido = Hades](../activations/vernal-point-cupido-equals-hades.md) | [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | [Hades](../factors/hades.md) |
+| [Vernal Point/Hades = Cupido](../activations/vernal-point-hades-equals-cupido.md) | [Vernal Point/Hades](../axes/vernal-point-hades.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
-- `Cupido/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `424`
-- `Vernal Point/Cupido = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `45`
-- `Vernal Point/Hades = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
-- `Vernal Point/Hades = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `47`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Hades = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-hades-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `267`.
+- `Cupido/Hades = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-hades-equals-vernal-point.md#abc-entry), printed p. `424`.
+- `Vernal Point/Cupido = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-cupido-equals-hades.md#witte-entry), one-based PDF entry-start p. `48`.
+- `Vernal Point/Cupido = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-cupido-equals-hades.md#abc-entry), printed p. `45`.
+- `Vernal Point/Hades = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-hades-equals-cupido.md#witte-entry), one-based PDF entry-start p. `49`.
+- `Vernal Point/Hades = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-hades-equals-cupido.md#abc-entry), printed p. `47`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Vernal Point`: an indigent populace and companies or associations engaged in a hard public fight for survival.
-- `Vernal Point/Cupido = Hades`: This formula emphasizes collapse of corporations and business depressions.
-- `Vernal Point/Hades = Cupido`: This formula emphasizes miserable marriage conditions, historical art in the general public, and general lowbrow art.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

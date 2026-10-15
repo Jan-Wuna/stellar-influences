@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Mercury Node MC](../triads/mercury-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based; exact row checked).
 
 Mental stimulation resulting from soul unions. Thought connections. To speak, think or write about the own emotional or professional connections.
 
@@ -45,17 +49,23 @@ Mental stimulation resulting from soul unions. Thought connections. To speak, th
 
 #### ABC Entry
 
+- Source page: 66 (printed); PDF page: 32 (one-based; exact row checked).
+
 My relations with youth, my connections in youth, I speak of the soul, I combine opinions, soul encounters in youth, spiritual contacts of youth, language of the soul in encounters, and connection of young souls
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+- Source page: 304 (printed); PDF page(s): 306 (one-based); entry code: 1097 (direct source text checked).
+
 Emotional inclinations linked with spiritual and intellectual aspirations. Establishment of an association through shared thoughts and plans. Mutually stimulating exchange of ideas.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 120 (one-based; exact activation located in direct source text).
 
 One’s thinking and communication are infused with a connectedness to spiri tual realities. Negatively, cleverness and rationalizations are used to keep one attached to old ways of relating to the world. A mind limited by its attachment to its insecurities.
 
@@ -70,22 +80,23 @@ Insight into situations and circumstances in life when you meet others who are a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: thought and communication that create or deepen personally meaningful associations.
+- psychology: mutual stimulation, insight and learning; clever rationalization can protect old insecurities.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: relationships built through shared thoughts, plans and aspirations; ABC adds contacts with youth.
+- events/manifestations: speaking or writing about emotional or professional ties and learning with people who support one's aims.
+- conflicts/notes: Sandbach's rationalization and insecurity qualify the otherwise constructive exchange-of-ideas theme; this is a conditional difficulty, not a disagreement.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's rationalization and insecurity qualify the otherwise constructive exchange-of-ideas theme; this is a conditional difficulty, not a disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Mercury`: strategic cooperation, meaningful dialogue, and the ability to advance through communication, mediation, and shared ideas. Main caution: talk in place of direction: alliances can stay busy, clever, or opportunistic without maturing into real purpose.
+Mercury specifies `Node/MC` through the ideas and communication that make a connection personally meaningful. [Witte](#witte-entry) describes thinking, speaking or writing about emotional and professional ties; [Ebertin](#ebertin-entry) joins feeling to shared thoughts and plans, and [Munkasey](#munkasey-entry) adds insight and learning with people who support one's aims. [ABC](#abc-entry) also names youthful contacts and the language of the soul.
+
+[Sandbach](#sandbach-entry) makes the central tension explicit: thought can express spiritual connectedness or rationalize attachment to old, insecure ways of relating. The issue is what the exchange enables within the bond, not communication being inherently helpful.
 
 ## Links
 

@@ -1,0 +1,93 @@
+{
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "paths": [
+    {
+      "path": "wiki/axes/moon-jupiter.md",
+      "queue_index": 64,
+      "before_sha256": "3660fab40165f28deb31ac0b8a53aaaadf24b1aee294a8e59cec9357cc2d04c9",
+      "after_sha256": "de236230d98de352b0c8f7e800d83ce5c0c7eb5f0243ac20d022fc8ee0bfb544",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mars.md",
+      "queue_index": 65,
+      "before_sha256": "c207db1141d32646e3341dddf5c40ff1ef02ce1283d6060a93be77412aa8794c",
+      "after_sha256": "94b6b44cf02a1618515ba5b9c49e7599d3f804d5f67f8ffad33bb1cfe26c7790",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mc.md",
+      "queue_index": 66,
+      "before_sha256": "b55cdbe7186d6928b4f6fdb97d262eac067b91a5ebc3bd914aa8ccaa85c9e547",
+      "after_sha256": "34626ff231d7770f7647c835013e749a767e19a320f9fb5711b12ae9351be770",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-mercury.md",
+      "queue_index": 67,
+      "before_sha256": "192ab81fef9bbf9e8ce572f63ff71f498c1c5fb5575e652ad2c2a5dd840c3604",
+      "after_sha256": "7e073f7128396ca789d8dedb2712e16579e59b194503cb76fe953291cc469d37",
+      "ledger": "axes-013.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-node.md",
+      "queue_index": 68,
+      "before_sha256": "42775c087d1f83805c6cc742966d537a70ba06c3b3bc926a3ed8005f6f77ca55",
+      "after_sha256": "0c0364dd2de3878b203edeb09ec7f7b0657520d8a02ae0ca726d95783a077209",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-pluto.md",
+      "queue_index": 69,
+      "before_sha256": "46d0a85e81d16a4135b471d7e6bd8450990f465b6ce2b1b99cd69d02c217b52d",
+      "after_sha256": "52ebdc12a508280ead1560fc3f4c1b21062542622f5806c03ace8fc043355a3e",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/moon-saturn.md",
+      "queue_index": 70,
+      "before_sha256": "c18957f14160045f58294cc2b4c76242cc45605d6253d71aa049d78165564115",
+      "after_sha256": "2c39ec6f3f48704140d9cf20cfaad2d59cd7e0b3c2439eb51e73f294b014ea3b",
+      "ledger": "axes-014.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/pluto-asc.md",
+      "queue_index": 91,
+      "before_sha256": "d84e871971938f6119bb7e2475c216b348f7f881d9ec35ed7e16bd637c591d19",
+      "after_sha256": "a6bb7bb144e13d97f89f2e7a94bf950231a5c0a5a81d63f1da5c1757c5e35461",
+      "ledger": "axes-017.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/axes/pluto-node.md",
+      "queue_index": 92,
+      "before_sha256": "b5cac33b163c86106d60d6c2ed4999051de0dbec172889a20e687e91217c8890",
+      "after_sha256": "01dfa91734acf0c6e1c0f388ccb008a96e7f7729868bcb619a9942b48c25b18a",
+      "ledger": "axes-018.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": false
+    }
+  ],
+  "generated_at": "2026-10-15T16:33:24.904Z",
+  "verifier": "/root/axis_review",
+  "closure_editor": "/root/activation_review_035_038",
+  "scope": "Root-authorized final nine unread E targets. Check necessary flagged deltas/new references and exact current source/owner bindings; preserve prior completed proof scopes. Parent original118 history stays intact.",
+  "parent_original_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-candidates.json",
+  "active_partition": "E4"
+}

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter MC Poseidon`
 - Astronomicon triad-set: `V MC ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md)
-- [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md)
-- [MC/Poseidon = Jupiter](../activations/mc-poseidon-equals-jupiter.md)
+- [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md): base axis [Jupiter/MC](../axes/jupiter-mc.md); activator [Poseidon](../factors/poseidon.md).
+- [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md): base axis [Jupiter/Poseidon](../axes/jupiter-poseidon.md); activator [MC](../factors/mc.md).
+- [MC/Poseidon = Jupiter](../activations/mc-poseidon-equals-jupiter.md): base axis [MC/Poseidon](../axes/mc-poseidon.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `65`
-- `Jupiter/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `75`
-- `Jupiter/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
-- `Jupiter/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `346`
-- `MC/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
-- `MC/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `98`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md#witte-entry) (PDF entry-start p. 65); [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md#witte-entry) (PDF entry-start p. 218); [MC/Poseidon = Jupiter](../activations/mc-poseidon-equals-jupiter.md#witte-entry) (PDF entry-start p. 77).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/MC = Poseidon](../activations/jupiter-mc-equals-poseidon.md#abc-entry) (printed p. 75); [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md#abc-entry) (printed p. 346); [MC/Poseidon = Jupiter](../activations/mc-poseidon-equals-jupiter.md#abc-entry) (printed p. 98).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/MC = Poseidon`: mental happiness and good luck through a sensible, intelligent attitude.
-- `Jupiter/Poseidon = MC`: wisdom, intelligence, listening to conscience and reason, and the ability to judge right from wrong.
-- `MC/Poseidon = Jupiter`: blesses the axis with fortunate mentality and longing for wisdom.
+Jupiter, MC and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+Source scope: [Jupiter/Poseidon = MC](../activations/jupiter-poseidon-equals-mc.md#abc-entry) retains Geist-Seele literally without further definition. The separate Jupiter/MC = Poseidon entry leaves its intellectual or spiritual right unspecified.
 
 ## Links
 
+- [Jupiter/MC](../axes/jupiter-mc.md)
+- [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [MC/Poseidon](../axes/mc-poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [MC](../factors/mc.md)
 - [Poseidon](../factors/poseidon.md)

@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Jupiter Pluto Node](../triads/jupiter-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Fortunate changes in the connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 222; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
 Successful development of a connection, developing financial connections, happiness by changing a relationship, change through legal mediation, growing money relationships, and satisfaction by developing a relationship
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 293; PDF page 295 (one-based; coded activator entry checked in raw PDF text).
+
 #### Ebertin Entry
 
 Desire to obtain position and power by force through the help of other people. Attainment of great gains through others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 115 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ An enhanced ability to read the political motives of the people you meet and ass
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Fortunate or successful connections offering gains and influence.
+- psychology: Enthusiasm for intense contact may become excessive and strain the bond.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Financial or legal connections, help from others, and management of people's activities.
+- events/manifestations: Gains through others, growing money relationships, and legal mediation.
+- conflicts/notes: Support and success coexist with forceful pursuit of position or overextension.
 
 ## Contradictions
 
-- None recorded yet.
+Favorable ties do not remove Ebertin's forced pursuit of power or Sandbach's risk of damaging a connection through excess.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node = Jupiter`: consequential networks, strong communal confidence, and the ability to grow through alliances with real leverage. Main caution: cultic or inflated belonging: group purpose can become grandiose, coercive, or too certain of its moral rightness.
+Jupiter specifies Pluto/Node through connections that can bring favorable changes or gains. The [Witte entry](#witte-entry) states the favorable emphasis, while [ABC](#abc-entry) adds financial links, legal mediation, and satisfaction in developing a relationship. Gains through others in [Ebertin](#ebertin-entry) and skill in reading political motives or managing activities in [Munkasey](#munkasey-entry) give the influence a practical setting. The limits matter: Ebertin also includes force in seeking position, and [Sandbach](#sandbach-entry) describes enthusiasm for intense contact going too far and damaging the tie. Opportunity does not guarantee a healthy use of power.
 
 ## Links
 

@@ -19,10 +19,12 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Chiron`
 - Astronomicon formula: `R/U = Chiron`
@@ -33,15 +35,30 @@ updated_at: 2026-04-21
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source locator: one-based PDF p. 29, exact Chiron entry checked; chapter begins on PDF p. 28.
+
 #### Sandbach Entry
 
 Your energy helps other people to act on their instincts, and to clear out destructive feelings, such as anger. You also help them to get more in touch with their passion. Your intense expression of feeling can have a healing effect on the world around you. Instinctual impulses lead to important discoveries and a clearing of energy.
 
+## Comparative Schema
+
+- core meaning: Instinct and passionate feeling are described as helping others release destructive emotion and make discoveries. [Sandbach](#sandbach-entry).
+- psychology: Acting on instinct, contacting passion, and clearing anger are the entry's psychological themes. [Sandbach](#sandbach-entry).
+- body/health: Sandbach calls intense feeling healing, but gives no bodily condition, diagnosis, or evidence of a medical outcome. [Sandbach](#sandbach-entry).
+- social/relationship: The effect is explicitly interpersonal: one's energy helps others act on instinct and contact their passion. [Sandbach](#sandbach-entry).
+- events/manifestations: Emotional expression, release of anger, and discoveries arising from instinctual impulses. These are Sandbach's stated possibilities. [Sandbach](#sandbach-entry).
+- conflicts/notes: This is a single-source interpretation. Its language of healing and energy clearing remains attributed to Sandbach; the exact entry is on PDF p. 29.
+
+## Contradictions
+
+Only Sandbach is represented, so the page does not support a comparison of conflicting accounts.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Mars = Chiron`: Your energy helps other people to act on their instincts, and to clear out destructive feelings, such as anger. You also help them to get more in touch with their passion. Your intense expression of feeling can have a healing effect on the world around you. Instinctual impulses lead to important discoveries and a clearing of energy.
-- Practical focus: makes `Moon/Mars` cathartic and healing by helping anger, instinct, and passion move cleanly instead of destructively. The person often stimulates honest action and emotional release in others, so heated feeling becomes a path to discovery, repair, and the clearing of blocked energy.
+In Sandbach's account of `Moon/Mars = Chiron`, Chiron gives the pair's intense feeling and instinctive action a helping role: their expression can prompt other people to contact passion and release anger. Sandbach links those impulses with discovery. The entry describes this as healing and clearing energy; that is its interpretive language, not an established medical effect. [Sandbach entry](#sandbach-entry).
 
 ## Links
 

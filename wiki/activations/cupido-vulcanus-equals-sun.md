@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
 - Triad hub: [Sun Cupido Vulcanus](../triads/sun-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source reference: printed p. 277 (PDF p. 273).
 
 To be a member of a powerful community. Days of mighty artistic creation. The man who has great influence through his art.
 
@@ -42,12 +46,27 @@ To be a member of a powerful community. Days of mighty artistic creation. The ma
 
 #### ABC Entry
 
-Influential community centre, common body force, powerful male community, artificial body force, power of a person community, power centre of a community, and strength of the human community
+Source reference: printed p. 434 (PDF p. 216). English wording checked against the German scan.
+
+Influential community centre, shared physical strength, a powerful men's community, artful physical strength, the power of a community of people, a community's centre of power, and the strength of the human community.
+
+## Comparative Schema
+
+- core meaning: People embody communal strength through membership, centres of influence, and artistic creation.
+- psychology: No specific personality or problem of selfhood is described.
+- body/health: Shared physical strength and artful physical strength are named without a medical claim.
+- social/relationship: Membership in a powerful community, a community of people, and a men's community in the ABC wording.
+- events/manifestations: Powerful artistic creation and influence exercised through art.
+- conflicts/notes: The male examples are source-specific; they do not limit the entire formula to men.
+
+## Contradictions
+
+Both entries connect people and communal strength. Their bodily and artistic examples are different emphases, not a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Sun`: identity being openly tied to forceful association and major creative output. Main caution: fusing selfhood too fully with communal power or artistic potency.
+In `Cupido/Vulcanus = Sun`, Sun specifies communal strength through its human members and centres of influence. Membership in a powerful community and influential artistic creation are explicit in the [Witte entry](#witte-entry); the [ABC entry](#abc-entry) adds shared physical strength and the power of a community of people. The gendered examples remain attributed to their sources. These passages establish participation and embodied strength without supplying a theory of identity being absorbed by the group.
 
 ## Links
 

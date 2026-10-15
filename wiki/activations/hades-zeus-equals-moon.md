@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Moon`
 - Astronomicon formula: `¢/£ = R`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 281; PDF p. 277.
+
 Women or persons whose conduct is repulsive or hateful. Persons who are hindered in activity: sick Persons. Military hospitals, infirmaries. Sickness of the brain. Industry worker. Female persons injured by burns.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-fire feelings hide, dangerous objective of a people, achievements of a Y olk from the past, lack of leading women, hour of fire hazard, female guidance service, and procreation pension of women
+- Source reference: printed p. 438; PDF p. 218.
+
+Hiding fiery feelings, a people's dangerous objectives, a people's achievements from the past, lack of leading women, the hour of fire danger, women's leadership service, and a woman's renunciation of procreation.
+
+## Comparative Schema
+
+- Core meaning: Hindered activity, collective goals, and women's leadership or experience.
+- Psychology: Hidden fiery feelings; Witte attributes hateful or repulsive conduct to some persons.
+- Body/health: Witte lists illness, brain sickness, infirmaries and burns; these remain historical medical claims.
+- Social/relationship: Industrial workers, a people's aims and past achievements, and leading women.
+- Events/manifestations: Military hospitals, fire danger, women's leadership service and renunciation of procreation.
+- Conflicts/notes: Gender judgments and bodily claims remain source attributions; procreation renunciation is not infertility.
+
+## Contradictions
+
+
+Witte emphasizes restricted activity and historical medical or gender claims; ABC adds hidden feelings, collective aims and women's leadership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Moon`: public or bodily life being marked by harmed activity, disease, and harsh working or medical conditions. It can show the emotional field carrying the residue of injury and hate.
+In `Hades/Zeus = Moon`, Moon specifies the Hades/Zeus axis through feelings, collective activity, and the source's references to women. The [Witte Entry](#witte-entry) concentrates on people hindered in activity, industrial work, and historical illness or burn imagery. The [ABC Entry](#abc-entry) adds concealed fiery feelings, collective aims and achievements, and women's leadership service. This gives the formula both an emotional and a collective working dimension. Witte's judgments about women and medical conditions remain attributed doctrine; the entry does not establish an emotional residue of injury or a diagnosis.
 
 ## Links
 

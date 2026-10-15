@@ -24,6 +24,8 @@ related_activations:
   - Pluto/Node = Mercury
   - Pluto/Node = Moon
   - Pluto/Node = Neptune
+  - Pluto/Node = Node
+  - Pluto/Node = Pluto
   - Pluto/Node = Poseidon
   - Pluto/Node = Saturn
   - Pluto/Node = Sun
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Z/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `PLUTO/NODE`
-- Source page: `343`
+- Source heading: `NODES + PLUTO`
+- PDF page (one-based): `148` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -86,11 +90,15 @@ New connections. Changes through connections. Acquaintances who experience chang
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `222–223`; PDF page (one-based): `110` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Shifting, developing in connections, developing contacts, altering in a relationship, changing in connections, growing connections, and changing bonds
+Changing relationships, development in connections, developing contacts, changes in a relationship, transformations in connections, growing connections, changing bonds.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `292`; PDF page: `294` (pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -110,9 +118,11 @@ Crowds or large groups of people, mass meetings. Large business concerns.
 
 #### Probable Manifestations
 
-+ The beginning of new associations which may possibly be important with regard to one's future. - A common and tragic destiny shared with other persons. / Pluto/Dragon's Head ¥/&
++ The beginning of new associations which may possibly be important with regard to one's future. - A common and tragic destiny shared with other persons.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page (one-based): `115` (exact Principle and Process checked in raw PDF text; chapter heading begins on114).
 
 #### Principle
 
@@ -124,9 +134,11 @@ The intensifying of one’s connections with others for the purpose of breaking 
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page (one-based): `213` (complete pair entry and both `with` glyph repairs checked against the scan).
+
 #### Pair Delineation
 
-Connections that transform one, or with people who are powerful and charismatic. Subversive connections or connections ^vith subversive groups. Connections that may result in power struggles ^ith others. Groups that aim to transform the world in some way, or that seek to understand the more hidden aspects of existence (researchers and the like).
+Connections that transform one, or with people who are powerful and charismatic. Subversive connections or connections with subversive groups. Connections that may result in power struggles with others. Groups that aim to transform the world in some way, or that seek to understand the more hidden aspects of existence (researchers and the like).
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -172,12 +184,12 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: connections that undergo change or exert a transforming influence, ranging from personal bonds to collective associations ([Pair Summary](#pair-summary); [Principle](#principle); [Pair Delineation](#pair-delineation)).
+- psychology: seeking influential contacts and breaking old limitations can coexist with compulsion, burdensome ties, power struggles, or conflict between past attachment and future development ([Psychological Correspondence](#psychological-correspondence); [Sandbach's Principle](#principle-1); [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin lists embryonic growth and pregnancy disorders; Munkasey names endocrine functions, sexual capacities, and toxins. These are attributed historical correspondences, not a basis for diagnosis or for pathologizing sexual preference ([Biological Correspondence](#biological-correspondence); [With Body or Mind](#with-body-or-mind)).
+- social/relationship: new or renewed bonds, influential people, crowds, business groups, researchers, and reforming groups are explicit; supportive contacts and exploitation are conditional alternatives ([Sociological Correspondence](#sociological-correspondence); [Pair Delineation](#pair-delineation); [In Your Relationships](#in-your-relationships)).
+- events/manifestations: establishing or breaking ties, important new associations, shared adversity, clandestine agreements, and waste compacts are source examples ([Probable Manifestations](#probable-manifestations); [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: collective destiny, past/future tension, and a life priority are distinct source emphases. Banzhaf/Haebler's harmony/discord are aspect categories. Witte's exact locator, ABC's full summary and Hand's damaged `with` glyphs were repaired from direct source checks.
 
 ## Related Activations
 
@@ -194,6 +206,8 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 - [Pluto/Node = Mercury](../activations/pluto-node-equals-mercury.md)
 - [Pluto/Node = Moon](../activations/pluto-node-equals-moon.md)
 - [Pluto/Node = Neptune](../activations/pluto-node-equals-neptune.md)
+- [Pluto/Node = Node](../activations/pluto-node-equals-node.md)
+- [Pluto/Node = Pluto](../activations/pluto-node-equals-pluto.md)
 - [Pluto/Node = Poseidon](../activations/pluto-node-equals-poseidon.md)
 - [Pluto/Node = Saturn](../activations/pluto-node-equals-saturn.md)
 - [Pluto/Node = Sun](../activations/pluto-node-equals-sun.md)
@@ -205,15 +219,16 @@ Blockages which affect your pituitary or endocrine glands; sexual preferences or
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries range from ordinary relationship change to intense personal or collective associations. Support, transformation, burden, and exploitation are alternatives, not a single required story. Ebertin's karmic/shared-destiny language and Banzhaf/Haebler's life-priority and aspect categories retain their own doctrinal scope; neither makes every bond tragic or predetermined.
+
+Witte's exact pair passage is PDF148; Munkasey's printed343 remains his separate reference. ABC's complete bold summary was retranslated from PDF110, printed222–223; Hand's full entry and damaged `with` glyphs were checked against PDF213. Sandbach's exact Principle and Process are on PDF115, following the chapter heading on114. Ebertin's complete pair and boundary are now checked at printed292/PDF294, with its falsely merged following heading removed; Banzhaf/Haebler's complete Pluto-North Node harmony and discord match actual PDF343.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Node` is the axis of powerful associations, fateful alliances, and collective ties that carry transformative or burdensome weight. It combines depth, intensity, elimination, and regeneration with meetings, groups, bonds, and shared destiny.
-- Chart expression: contacts with influential or compelling people, relationships that alter one's course, and group situations charged with crisis, pressure, or renewal. Liabilities: manipulation, exploitative alliances, obsessive attachments, tragic entanglements, and the feeling of being burdened by other people.
+`Pluto/Node` concerns connections through which people or circumstances change. The [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) include developing, renewing, or changing a bond; [Hand](#pair-delineation) extends the theme to powerful people, researchers, and groups seeking to transform the world. [Ebertin](#sociological-correspondence) also gives a collective scale through crowds and large organizations. An association may therefore matter through what it changes, from a personal tie to a shared undertaking.
+
+Influential contacts can offer support and opportunity, but the wish to secure them can become compulsive or exploitative, and other people's influence can feel burdensome ([Ebertin](#psychological-correspondence); [Munkasey](#in-your-relationships)). [Sandbach](#principle-1) adds the pull of past situations against development; [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) distinguishes experiences that clarify a life priority from forces pulling away from it. Shared tragedy, clandestine agreements, sexual exploitation, and waste compacts remain specific attributed examples, not the meaning of every tie. Historical pregnancy and endocrine claims establish no medical conclusion, and third-factor activations retain their own orientations.
 
 ## Links
 

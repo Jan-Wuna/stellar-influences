@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Mars Apollon](../triads/vernal-point-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Economic management. Activity in commerce or science. Political economy. To manage the economy of the state.
 
@@ -42,13 +46,27 @@ Economic management. Activity in commerce or science. Political economy. To mana
 
 #### ABC Entry
 
+- Source page: 52; PDF page: 25 (one-based spread).
+
 Work in the world of economy, efforts to achieve public success, successful public work, achievements in public life, public success, public activity of science, and increasing public work
+
+## Comparative Schema
+
+- core meaning: Active work and management in public economy, commerce, or science.
+- psychology: Effort toward public success is stated without a fuller disposition.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: No detailed personal relationship pattern is supplied.
+- events/manifestations: Economic management, public achievement, and increasing scientific or commercial activity.
+- conflicts/notes: The favorable work examples do not guarantee success for every economic action.
+
+## Contradictions
+
+The entries share active public work at different scales, with no explicit disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Mars`: economic management, activity in commerce or science, political economy, and to manage the economy of the state.
-- Practical expression: work in the world of economy, efforts to achieve public success, successful public work, achievements in public life, and public success.
+In `Vernal Point/Apollon = Mars`, Mars specifies the pair through active work and management. The [Witte entry](#witte-entry) locates this in commerce, science, political economy, and the state's economy. The [ABC entry](#abc-entry) adds efforts toward public success, achievement, and increasing public activity. The organizing meaning is putting broad economic or scientific affairs into action, without turning the source's successful examples into a guarantee for every undertaking.
 
 ## Links
 

@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus MC Admetos](../triads/venus-mc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
+
 #### Witte Entry
 
-Longing for being solitude and for calm. Ones own feelings of love does not find a positive response, is confronted with coldness and aversion.
+Longing for being solitude and for calm. One's own feelings of love does not find a positive response, is confronted with coldness and aversion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `71`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-Blocked inner peace, I strengthen the harmony, I block the harmony, I strengthen the love, I love the deepening, my perseverance in love, my restricted harmony, the lowering of my love, and the deepening of the peace of the soul
+Blocked inner peace, I strengthen harmony, I block harmony, I strengthen love, I love deepening, my perseverance in love, my restricted harmony, suppression of my love, and deepening of peace of the soul.
+
+## Comparative Schema
+
+- Core meaning: Desire for solitude or calm, with affection restricted or deepened.
+- Psychology: Perseverance in love and desire for depth; blocking harmony is another possibility.
+- Body/health: Neither activation entry supplies a bodily or health claim.
+- Social/relationship: Love may meet coldness, aversion, or an unresponsive reception.
+- Events/manifestations: Strengthening love or harmony, suppressing love, or deepening inner peace.
+- Conflicts/notes: Deepened harmony and blocked affection are separate alternatives in the source range.
+
+## Contradictions
+
+- Deepened harmony and blocked affection are separate alternatives in the source range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/MC = Admetos`: longing for being solitude and for calm.
-- Practical expression: blocked inner peace, i strengthen the harmony, i block the harmony, i strengthen the love, and i love the deepening.
+`Venus/MC = Admetos` concentrates personal affection inward or meets a limit in its reception. [Witte](#witte-entry) describes longing for solitude and calm, with love confronted by coldness or aversion. The [ABC entry](#abc-entry) also allows perseverance, strengthened love, and deeper inner peace beside blocked harmony and suppressed affection. The orientation thus includes both a search for depth and the difficulty of finding a response; one does not establish the other.
 
 ## Links
 

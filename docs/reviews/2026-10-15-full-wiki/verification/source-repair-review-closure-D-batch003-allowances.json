@@ -1,0 +1,240 @@
+[
+  {
+    "path": "wiki/activations/venus-jupiter-equals-node.md",
+    "before_sha256": "5e86a8fd966f14c97ac538e873f80f15c9d5fe558976fc5a34bce7963173b70a",
+    "after_sha256": "517fd74028d2a26e001cb915597926611d0a252b8697e01aaa5abf79d404dcfa",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC272/PDF135 Node glyph: seven complete clauses: successful peace contacts; success via beauty connection; joy in harmonious relationship; joyful love union; peace through a legal relationship; art successes through connections; preference for money in connections. Neither kine nor artificial success. Witte177 Node row rendezvous/love union/successful or happy woman verified. Sandbach full Node paragraph57, heading56. Saved translation/dependent notes match. Actual Sandbach56–57 fully read/viewed: heading56, Sun/Saturn56, Uranus/Pluto/Node57. Chapter-start56-only granularity remains honest; no new canonical locator claim.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-pluto.md",
+    "before_sha256": "d1964e0927227f527249b2d54b8c709f5a259f575a84af334a9737d4e9330263",
+    "after_sha256": "0870a74b00d3e15b230a4a18ec6be5e9fd2ecbd3bbba0ec2f0840a70252a2f70",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC273/PDF135 Pluto glyph: seven clauses, development of joy/harmony; successful peace development; joy over developments in art; happy love development; changes via legal peace; develop preference for money; beneficial development through beauty. Witte177 Pluto row has printed alternate P glyph before prose, not a word. Sandbach full Pluto57, heading56. Saved translation/dependent notes match. Actual Sandbach56–57 fully read/viewed: heading56, Sun/Saturn56, Uranus/Pluto/Node57. Chapter-start56-only granularity remains honest; no new canonical locator claim.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-poseidon.md",
+    "before_sha256": "eacc500710736ef1b81139334f7e08c9ecee7479eb3e13a6e65ee51c1c384786",
+    "after_sha256": "a9ceb7af319c8fbce917dbe8cb6221e0b373226c747e5155bb172c18029daa9b",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC273/PDF135 Poseidon: eight clauses joy through peace/culture, joy over law/reason, spiritual happiness through harmony, happiness through harmony/clarity, happiness over spiritual harmony, art/culture success, preference for legal clarity, benefit through love of truth. Vernunft is reason, not courage. Witte177 happiness through mental/spiritual success,wisdom,reason/right. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-saturn.md",
+    "before_sha256": "2a7bca9392d630890a479cff0e58cbad3f0b3b9ae32019f0ded3774817785b73",
+    "after_sha256": "7dbaa12c0d7055e232e2566f306e7d4a0ecdf3ab83265972a88388ba065a64a2",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC273/PDF135 Saturn: eight clauses gratifying old love; success at artistic tasks; success disturbances through love; financial difficulties in peace; disturbed peace success; disturbed harmony in old age; happiness through love separation; happiness/harmony in old age. Witte177 separated love/slow-ripening/doubtful happiness. Sandbach full Saturn56, same page as heading. Saved translation/dependent notes match. Actual Sandbach56–57 fully read/viewed: heading56, Sun/Saturn56, Uranus/Pluto/Node57. Chapter-start56-only granularity remains honest; no new canonical locator claim.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-sun.md",
+    "before_sha256": "46aca05b65faadf4801a84c820aa5e989b14beba082c5bf10b78d1b4b09d36b9",
+    "after_sha256": "db15b1d3a114e8b435553cf4f30170ed55fcf56aad4ddd4adb62a6dbc0959cb1",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC272/PDF135 Sun: eight clauses successful art centre; man's financial wishes; happiness via man's love; bodily happiness in love; man's artistic success; man's joy in love; personal happiness via harmony; man's legal success. Witte177 man's joyous love/day's love happiness. Sandbach full Sun56, same page as heading. Saved translation/dependent notes match. Actual Sandbach56–57 fully read/viewed: heading56, Sun/Saturn56, Uranus/Pluto/Node57. Chapter-start56-only granularity remains honest; no new canonical locator claim.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-uranus.md",
+    "before_sha256": "4b1f83c21c8d69bbe5580d88c1681d37b21fd37f88d4f34b1eb605f09e018c63",
+    "after_sha256": "a13920a12cf4ffffc8c67cd7d69fa27ff164729f3ca2302a3449f39c0fce8676",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC273/PDF135 Uranus: nine clauses successful peace event; joy over new money/love event; happy love experience; harmonious impulses through money; new financial wishes; sudden love happiness; success through rhythmic art; unrest despite legal peace. Rechts-Frieden is legal peace, not right-wing. Witte177 double Uranus glyph forms, sudden love joy. Sandbach full Uranus57, heading56. Saved translation/dependent notes match. Actual Sandbach56–57 fully read/viewed: heading56, Sun/Saturn56, Uranus/Pluto/Node57. Chapter-start56-only granularity remains honest; no new canonical locator claim.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-jupiter-equals-zeus.md",
+    "before_sha256": "9ddce031748416ede268aa239441be350b72f24444a01d5078f250c87333c287",
+    "after_sha256": "79ef053d835cee764c26340a172c729cc9ffd90c39904c7c60ffad925ed4be71",
+    "ledger": "activations-087.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC273/PDF135 Zeus: eight clauses successful artistic achievements; successful love procreation; successful striving for peace; fiery love happiness; leadership success via harmony; financial striving toward wishes; harmony via legal efforts; creative legal art. Witte177 desire realization/lucky aim/will to create happiness/peace/family increase. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-jupiter.md",
+    "before_sha256": "2c364f885de0448ef3bade196d00b589213f054662a6d8c294cdb81000fee060",
+    "after_sha256": "e08857c973be7b283da326c0b993a328317c85498b4897c97d30839c585859b7",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 Jupiter: seven clauses successful peace efforts; successful connections to art; joy over financial connections; connect money/love; happy love relationships; harmonious financial connections; preference for legal connections. Witte142 exactJupiter glyph fortunate/happy love union and joy/happiness via pleasant connections. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-kronos.md",
+    "before_sha256": "e13bd7d3eec0aa78ac281b9fb01c93226f48b7ff89166afdc52e25216a5092eb",
+    "after_sha256": "9088ff5303533d88e2270d44551707bde0f6cd46d635ccc9d9f6e8cdeea894c0",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Kronos: seven clauses special art connections; state's peace mediations; great love relationship; harmonious authority contact; independent art connections; priority of beauty within a connection; benevolent state connection. Kunst is art, selbständig independent, Vorrang priority. Witte142 Kronos civil wedding/independent leading people/profit. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-mars.md",
+    "before_sha256": "bae3f1ce40ac890a5bfc887e9d3f28930d8403b6a2d5b09b1bb4e40b3daefcc2",
+    "after_sha256": "6a136fbcc68c2453be4ce443e75684fd9398845b87ac8aa8cd6f46a43021f4d2",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 Mars: seven clauses joyful contact work; establish peace contacts; peaceful youth work; harmonious activity in connections; establish harmonious relationships; love activity in relationships; create art connections. Witte142 Mars sexual love union/impulses/actions/decisions of pleasant relations. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-mc.md",
+    "before_sha256": "f47459173d723063921920197b14c42ea81b0458c4588fcd2a4b268ac6b2c28a",
+    "after_sha256": "ca39f3caafcb98e3658fc2a5b8c77657aefb1b3c8ea7bd8e8c79b6804366ad5d",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 MC: eight clauses soulful love encounters; harmony of psychic connection; minute of harmonious connection; my contact joy; my love relationships; my art connections; my preference for connections; psychic wish mediation. Witte142 MC native printed 'object or affections' remains literal, not speculative 'of'. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-mercury.md",
+    "before_sha256": "803198a1336dd4c9c0ffe8fe483c35b203812e103380e26fb657c645b57c2814",
+    "after_sha256": "20c96cd907f0c8074b4bfd601c6b4a7addc5a83ab5aa1c48161cd517d4f4ede8",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 Mercury: seven clauses describe encounters with artists; mediate peace talks; youthful peace contacts; media contact joy; youthful love connections; connections to female youth; preference for media connections. Künstlern genuinely means artists here. Witte142Mercury pleasant love ties/getting acquainted/love messages/letters. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-moon.md",
+    "before_sha256": "8e549b23734de8a45068251c46b6eda1e22247528b694c066723990da83b6a0c",
+    "after_sha256": "a6ff50de35e7e924de3fa0eb057b40e994db98220e8ccc20746d985e3fbdffa1",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 Moon: eight clauses a people's peace mediation; peaceful connection of feelings; emotional encounter with artists; love relationships to woman; peaceful peoples' connections; harmonious emotional connection; woman's contact joy; desire connection to woman. Gefühle feelings, not refugees; gefühlvoll emotional, not fleeting. Witte142Moon woman's love ties/ties loving women/many people. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-neptune.md",
+    "before_sha256": "25452cc580339e398bcf62ec714e49afd9c9cd9b97369111bce4f4020a169a7f",
+    "after_sha256": "70f370c86cde2efae819be06bf46a95552069d8f4b7c8c7bcf0116efac021eec",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Neptune: six clauses dissolution of harmonious connection; sensitivity in love relationship; love weakness within connection; inclination toward metaphysical connections; uncertain peace contacts; preference for refinement of connection. Witte142Neptune hopeless/denied love union, dissolved agreeable connections or deceptions. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-pluto.md",
+    "before_sha256": "7a78f0b609a063b7df657de11abadacd5b486a14a88fef4dea8a1bcc59486c6d",
+    "after_sha256": "e6afea6d66ff656780b8c13f41bd1cdabc20cfa1ce4b31ae2d1c2587b8f81421",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Pluto: seven clauses develop connections to art; develop peace contacts; unfold contact joy; changes in harmonious connection; growing harmony in connection; changing peace contacts; develop benevolence in connections. Witte142 alternate P visibly glyph, changes/transformations in love relations. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-poseidon.md",
+    "before_sha256": "edaa9db75a2c76ba7a3499df856abe78041eabb947300e24b113544bc11b52a3",
+    "after_sha256": "9878726b9dded06f5e24c9a4f99fba998ef509b8b1fd051053d018a0e2e0a690",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Poseidon: six clauses insights from harmony of connection; peaceful spiritual connection; harmonious cultural connections; clarity in love relationship; truth connection through love; connection of art/culture. Witte142mental/spiritual kind of ties below copyright footer, genuine continuation. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-sun.md",
+    "before_sha256": "aa0646b08a8423e6004be77c73f6ed3ae59c09d4e855cef169c5786491361756",
+    "after_sha256": "173467968c5993e50bfbaeb6d1451cfe7fe935d9d988b67df215f0bccf5653b0",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC210/PDF104 Sun: seven clauses relations to art centre; harmonious connection to man; man's love relationships; connection to beautiful people; personal encounter with art; harmonious personal mediation; centre for wish mediation. Witte142Sun body's love ties/agreeable unions. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-uranus.md",
+    "before_sha256": "53f43595109fa0e8819e645221f30d273c1fd695421266acf347010728145c3d",
+    "after_sha256": "46d5f37344fe528741517e277b32e3785151174ae3cfce1daab40cae4c2c303e",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Uranus: seven clauses exciting encounter with art; encounter new art; harmonious impulses in relationships; harmonious technology connection; new love connection; tensions within harmonious connection; mediation of peace contacts. Witte142Uranus double glyph, sudden love union/spontaneous excitement printed 'an agreeable relationships' literal. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  },
+  {
+    "path": "wiki/activations/venus-node-equals-zeus.md",
+    "before_sha256": "c90576c1c7d6de4d597863bd9f333837d8fd86f83aca8d247e5992cd48777957",
+    "after_sha256": "5e814e4ec35802cd23efeba79fea7dafcaa7489ef682d609c1813c9a95f852f4",
+    "ledger": "activations-089.jsonl",
+    "reason": "Full baseline/current sources, final unique owner, flags and affected prose read. Only ABC changed; other blocks equal baseline. Actual German row/glyph boundaries/printed-PDF numbering personally read/viewed. ABC211/PDF104 Zeus: seven clauses beginning love connection; fiery love connection; shape peace contacts; striving for harmony within connection; harmonious leadership relations; creative art connections; procreation in love connection. Witte142Zeus consequential love union/pleasant creative connections. Saved translation/dependent notes match.",
+    "evidence": [
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png"
+    ],
+    "verified_by": "/root/activation_review_023_044"
+  }
+]

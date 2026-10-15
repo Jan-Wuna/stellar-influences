@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Pluto Vulcanus](../triads/vernal-point-pluto-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 A forced change or transformation.
 
@@ -42,13 +46,29 @@ A forced change or transformation.
 
 #### ABC Entry
 
-World power changes, change of power in the public sphere, public sphere EnergicTransfonnation, public sphere Power developments, strong increases in the public sphere, and growing energy in the public sphere Life
+- Source page: 57; PDF page: 27 (one-based spread).
+
+Changes of power in the world, a change of power in public, public energy transformation, developments of public power, strong changes in public, and growing energy in public life.
+
+## Comparative Schema
+
+- core meaning: Public power and energy undergo substantial transformation.
+- psychology: No distinct psychological state is specified.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Changes in who or what holds public power.
+- events/manifestations: Energy transformation, power developments and growing energy.
+- conflicts/notes: Witte stresses forced change; ABC does not make every development coercive.
+
+## Contradictions
+
+Both concern transformation. Witte explicitly calls it forced, while ABC also describes developing power and growing energy without specifying coercion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Pluto`: a forced change or transformation.
-- Practical expression: world power changes, change of power in the public sphere, public sphere EnergicTransfonnation, public sphere Power developments, and strong increases in the public sphere.
+`Vernal Point/Vulcanus = Pluto` describes substantial changes in public power. Witte emphasizes a forced transformation; ABC gives changes of power, developing public power and energy transformation as concrete expressions. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC’s growing energy adds an unfolding branch alongside abrupt transfer or imposed change. The entries therefore support transformation on a large public scale without requiring every development to be coercive. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

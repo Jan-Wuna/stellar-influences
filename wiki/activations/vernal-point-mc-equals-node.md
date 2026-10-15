@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Node MC](../triads/vernal-point-node-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ To be associated professionally with others in public. To have many connections 
 
 My contacts in the public Life, my connections to the world, minute of encounter in the public, spiritual encounter in the public Life, and connection to the worldSoul
 
+## Comparative Schema
+
+- Core meaning: Personal public involvement through contacts and connections.
+- Psychology: ABC gives encounters an inward or spiritual dimension without defining it further.
+- Body/health: No medical statement is present.
+- Social/relationship: Professional associations and readily formed connections.
+- Events/manifestations: Public encounters and contact with the wider world.
+- Conflicts/notes: ABC's world-soul wording supplies no separate account of a metaphysical mechanism.
+
+## Contradictions
+
+The entries share connection and encounter. Professional association in Witte and spiritual encounter in ABC differ in scope without excluding each other; ease of contact is not a guarantee of intimacy.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Node`: to be associated professionally with others in public and to have many connections and to get them easily.
-- Practical expression: my contacts in the public Life, my connections to the world, minute of encounter in the public, spiritual encounter in the public Life, and connection to the worldSoul.
+In `Vernal Point/MC = Node`, Node specifies one's public participation through making connections. The [Witte Entry](#witte-entry) (PDF p. 35) emphasizes professional association and ease in acquiring contacts; the [ABC Entry](#abc-entry) (printed p. 18; PDF p. 8) presents public encounters as one's connection with the world. Its spiritual language adds an inward emphasis without establishing how those connections work or how close they become.
 
 ## Links
 

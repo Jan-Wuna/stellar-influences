@@ -1,0 +1,13 @@
+{
+  "path": "wiki/factors/jupiter.md",
+  "before_sha256": "b2c0ec3b0e43909d6db5db785294569593d616715ccd4c4e9e256b86c17112a6",
+  "after_sha256": "6f4975f5fd997493334556d943a62b2e5f0301b05a3c6ef8f4e128d78b9e7dbe",
+  "ledger": "factors-002.jsonl",
+  "decision": "verified_owner_ledger_amendment_checked",
+  "reason": "All twelve newly separated Ebertin placement rows were individually compared with actual PDF59–60 scans: Aries0079/I, Taurus0080/II and Gemini0081/III are printed57/raw59; Cancer0082/IV through Pisces0090/XII are printed58/raw60. The former embedded text is preserved under the source-native heading; corrupted glyph/code labels are restored. Existing position-in-the-signs anchor remains. Other source changes had already been independently verified at their exact preceding hash. The original factors-002 ledger now includes the precise split repair/evidence and removes the old unresolved run-on item; that in-place amendment was independently read.",
+  "evidence": [
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf59.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf60.png"
+  ],
+  "verified_by": "/root/source_integrity_gate"
+}

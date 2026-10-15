@@ -1,0 +1,250 @@
+{
+  "batch": "closure-E-axes013-018-002-final",
+  "count": 9,
+  "reviewer": "/root/activation_review_035_038",
+  "scope": "Final remaining original E queue64–70,91–92; literal printed irregularities retained, accepted Moon/Neptune extra skipped.",
+  "hash_contract": "LF normalized Source Entries to next level-two heading, trailing HTML anchors removed, strip; SHA256 utf8. Raw file bytes, unique owner record line.",
+  "targets": [
+    {
+      "path": "wiki/axes/moon-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p90.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p124.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p203.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p294.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p295.png"
+      ],
+      "raw_locators": [
+        "ABC printed182/PDF90, complete bold pair list",
+        "Ebertin printed122/PDF124 pair boundary; Hand203 OCR7 absent; Banzhaf294–295 full pair including final harmony sentence"
+      ],
+      "before_closure_source_sha256": "1ba2968d85070b0523f381cf4be1812e6a310d7192fe9c7fb9f9b4256e695b64",
+      "original_source_sha256": "3660fab40165f28deb31ac0b8a53aaaadf24b1aee294a8e59cec9357cc2d04c9",
+      "before_closure_file_sha256": "32779ccf73930a4030056ea380de709f45f40d23e961462a6dba82555eeccee2",
+      "unresolved": [],
+      "after_source_sha256": "de236230d98de352b0c8f7e800d83ce5c0c7eb5f0243ac20d022fc8ee0bfb544",
+      "after_file_sha256": "cd3a3712eaf859e5fedd272044f491c540077f8ec9326035bac1ee544c2a447d",
+      "owner_record_line": 1,
+      "owner_record_sha256": "f5dabb69340908117a0f39ea3a6a2093b9dcdd77f88140df874cafa61973c31b",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "summary": "Verified literal Carter24–25 spellings and restored Banzhaf PDF294 omitted discord continuation; preserved the already accepted ABC/Ebertin/Witte repairs.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p24.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p25.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p293.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p294.png"
+      ],
+      "raw_locators": [
+        "Carter printed/PDF24–25 literal flagged spellings; Banzhaf293–294 complete Moon/Mars pair"
+      ],
+      "before_closure_source_sha256": "d9ff53359d26897834fcceaf8bc2ee65a4be2d9bef19bccdea4b54fc133ead05",
+      "original_source_sha256": "c207db1141d32646e3341dddf5c40ff1ef02ce1283d6060a93be77412aa8794c",
+      "before_closure_file_sha256": "d2194b5b5ca1238c8d0d9835697a24691d26934f21cbb7cf8842436c07c961fc",
+      "unresolved": [
+        "Actual Carter printed/PDF24–25 reads 'Marian austerity' and 'imcompatibility'; retained as literal supplied-source wording."
+      ],
+      "after_source_sha256": "94b6b44cf02a1618515ba5b9c49e7599d3f804d5f67f8ffad33bb1cfe26c7790",
+      "after_file_sha256": "e8c2ca0686349aa3a06a85273925f59a86e254429a24ae4eb7c8c878f2c160ef",
+      "owner_record_line": 3,
+      "owner_record_sha256": "b986741317ff1fad175a36f9e0e04d7f2d2c7e80f4aa65efb2f0eede9a46e137",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p31.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p144.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p40.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p204.png"
+      ],
+      "raw_locators": [
+        "ABC printed64/PDF31, complete bold pair list",
+        "Ebertin142/PDF144 pair boundary; Sandbach40 complete Principle/Process with actual internal spaces; Hand204 complete paragraph"
+      ],
+      "before_closure_source_sha256": "cf2e4146a543a08d16eb35e8a726c9500eec81aee38bfdc537514b8136d4fcd6",
+      "original_source_sha256": "b55cdbe7186d6928b4f6fdb97d262eac067b91a5ebc3bd914aa8ccaa85c9e547",
+      "before_closure_file_sha256": "9038b2a67c9cd7eb7939f015ff08832cf2ec4626d4c1569fffefad021fd008fb",
+      "unresolved": [
+        "Actual Sandbach PDF40 prints internal spaces 'achieve ment' and 're ceptive'; retained as supplied-source artifacts."
+      ],
+      "after_source_sha256": "34626ff231d7770f7647c835013e749a767e19a320f9fb5711b12ae9351be770",
+      "after_file_sha256": "76b5ca5126576586b3a21ef51aa8af5e20196d5e17428ed39cf12041ffe6cf8a",
+      "owner_record_line": 4,
+      "owner_record_sha256": "80aa06b5f053e5e294c43353448def3d85e7fb12fe4b949b8c9b72c1dc9efd18",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p87.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p115.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p202.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p203.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-falis-p21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p21.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p291.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p292.png"
+      ],
+      "raw_locators": [
+        "ABC printed176/PDF87, complete bold pair list",
+        "Ebertin113/PDF115 boundary; Hand202–203 paragraph; Falis21/Carter21 literal quirks; Banzhaf291–292 complete pair"
+      ],
+      "before_closure_source_sha256": "53eb667391cc4f86dad7f867159ad1187e1e6cde08b2132b9184b8c32d61df58",
+      "original_source_sha256": "192ab81fef9bbf9e8ce572f63ff71f498c1c5fb5575e652ad2c2a5dd840c3604",
+      "before_closure_file_sha256": "499a41894c0571aef26a4e3ee80636a1b1699995619b27c92e87b5980855b936",
+      "unresolved": [
+        "Actual Falis PDF21 prints 'Synaethesia'; actual Carter printed/PDF21 leaves the parenthesis around the Boer-question example unclosed. Retained source spelling/punctuation."
+      ],
+      "after_source_sha256": "7e073f7128396ca789d8dedb2712e16579e59b194503cb76fe953291cc469d37",
+      "after_file_sha256": "92e12da0eac21bee185c5dcd96bcc39d8be991ef0994f9e12f1641037f38f77e",
+      "owner_record_line": 5,
+      "owner_record_sha256": "872c537766e0859512b3654ecdd307d8602b4310e5f9349ec1c6563bbd942f9a",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "summary": "Removed Ebertin's falsely merged following heading after inspecting complete printed136/PDF138; preserved all existing ABC/Witte repairs and source prose.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p138.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed136/PDF138 complete Moon/Dragon's Head pair boundary"
+      ],
+      "before_closure_source_sha256": "52d852518ff905a646fc454c0716e84eb8171dce8376993f4abe14d166b88aad",
+      "original_source_sha256": "42775c087d1f83805c6cc742966d537a70ba06c3b3bc926a3ed8005f6f77ca55",
+      "before_closure_file_sha256": "aaa61a572f894005d4bf86c02237675bad5677a471580ba3e1316c4e3fb93d64",
+      "unresolved": [],
+      "after_source_sha256": "0c0364dd2de3878b203edeb09ec7f7b0657520d8a02ae0ca726d95783a077209",
+      "after_file_sha256": "00df397b35982daa2f220a0c6d10215041e5058135689a993ce6c37298024bb0",
+      "owner_record_line": 2,
+      "owner_record_sha256": "28c93f1e3963cbff4065eb35a58d5b4ee9c04f62484c65be3533e386d1840608",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "summary": "Separated actual Ebertin footnote25 and removed the merged following heading from inspected printed134/PDF136, retaining every word of its explicit severe-illness qualification.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p136.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed134/PDF136 complete pair and footnote25"
+      ],
+      "before_closure_source_sha256": "b8554441201f0476582681c73a805746c167e1b96fbfb021c6db10843b0ddcc4",
+      "original_source_sha256": "46d0a85e81d16a4135b471d7e6bd8450990f465b6ce2b1b99cd69d02c217b52d",
+      "before_closure_file_sha256": "f9f482ffb010bf9dbfdd414f3949609dd83f2f29fd60f9444548a52c2954d264",
+      "unresolved": [],
+      "after_source_sha256": "52ebdc12a508280ead1560fc3f4c1b21062542622f5806c03ace8fc043355a3e",
+      "after_file_sha256": "20917b2ff38f4e2baaef3bc169fee24027c74b392875c7c11376f799ee957382",
+      "owner_record_line": 3,
+      "owner_record_sha256": "fe3debd48a2d0433a4057b7941c0e8200f31f2a5833cb4f60c3fee2447860d3e",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/moon-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "summary": "Restored Ebertin Saturn glyphs, separated actual footnote22 and removed following heading against printed125/PDF127. Confirmed Witte trough and Carter unclosed quotation are literal supplied-source limits, preserving them.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p127.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-witte-p126.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p28.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-carter-p29.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed125/PDF127 pair/footnote22; Witte printed130/PDF126 exact trough; Carter printed/PDF28–29 quotation continuation/boundary"
+      ],
+      "before_closure_source_sha256": "982ee39c6cc87111afd4c7eaf6e35427bbcee07c0e9f715e563393431b0722c0",
+      "original_source_sha256": "c18957f14160045f58294cc2b4c76242cc45605d6253d71aa049d78165564115",
+      "before_closure_file_sha256": "8cbb777f42877323baef7834ced95d978691e902a9ded401d282d1e9ffaec0da",
+      "unresolved": [
+        "Actual Witte printed130/PDF126 prints 'trough separation'; Carter printed/PDF28–29 supplies no closing quotation mark for the correspondent passage. Retained source irregularities."
+      ],
+      "after_source_sha256": "2c39ec6f3f48704140d9cf20cfaad2d59cd7e0b3c2439eb51e73f294b014ea3b",
+      "after_file_sha256": "08e45cc6fe735e373f25077d520089ccc59aa2398869346008dfe1855f6fb9de",
+      "owner_record_line": 5,
+      "owner_record_sha256": "908765f57fa87cb42e9606980d2b6875f3f5be968bc7e1f4a6f3d0d6458fc389",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/pluto-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "summary": "Removed next-entry Banzhaf Pluto-Medium Coeli heading/harmony fragment after inspecting actual PDF343–344; removed Ebertin following heading against printed294/PDF296, preserving all pair prose.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p343.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p344.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p296.png"
+      ],
+      "raw_locators": [
+        "Banzhaf PDF343 complete Pluto/Asc pair, PDF344 belongs Pluto/MC; Ebertin printed294/PDF296 exact boundary"
+      ],
+      "before_closure_source_sha256": "f14f1898cf734142f71ab0b50e9c6ce4f3fd6fada33caffca04abccb42c09827",
+      "original_source_sha256": "d84e871971938f6119bb7e2475c216b348f7f881d9ec35ed7e16bd637c591d19",
+      "before_closure_file_sha256": "c315107c5fc131c793930036d9f5d94df78928f16775d8bb5ac2bf5c9b400b7b",
+      "unresolved": [],
+      "after_source_sha256": "a6bb7bb144e13d97f89f2e7a94bf950231a5c0a5a81d63f1da5c1757c5e35461",
+      "after_file_sha256": "f8cbfb74d62c1af88419b8bc13ccd7d17555ba2a94b8a53ddd8db00436719b51",
+      "owner_record_line": 10,
+      "owner_record_sha256": "1ef71ce1e9ec829b990b08060e262c00ca6f982a01961c3647fb801f4eac5633",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/pluto-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl",
+      "summary": "Removed only Ebertin's merged following heading from complete printed292/PDF294 and verified actual Banzhaf343 full Pluto/North Node paragraph matches the saved text; preserved all prior source repairs.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p294.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-banzhaf-p343.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed292/PDF294 complete pair boundary; Banzhaf PDF343 complete Pluto/North Node harmony/discord"
+      ],
+      "before_closure_source_sha256": "0149b2c97574cc1e713cecba5f388c881fd5dab1fea5df77f583022dd25d3c3c",
+      "original_source_sha256": "b5cac33b163c86106d60d6c2ed4999051de0dbec172889a20e687e91217c8890",
+      "before_closure_file_sha256": "78b2414560624928b73224377f4216b3347d4cfde6f4c64f4c97bc984634a62a",
+      "unresolved": [],
+      "after_source_sha256": "01dfa91734acf0c6e1c0f388ccb008a96e7f7729868bcb619a9942b48c25b18a",
+      "after_file_sha256": "a4b396cf0737845b3af8329b172da63d8bcdb88008a47a2b5ad991cc797fa0dd",
+      "owner_record_line": 5,
+      "owner_record_sha256": "f2bcf9072e43789cb3cbecbe262af7394e09a9f6e4cda9c40253159dadb0d40f",
+      "scoped_check_failures": [],
+      "reviewer": "/root/activation_review_035_038",
+      "scope": "Closure E bounded axes013–018 handoff repair; existing original record amended, no new full review count",
+      "status": "implemented_pending_independent_gate"
+    }
+  ]
+}

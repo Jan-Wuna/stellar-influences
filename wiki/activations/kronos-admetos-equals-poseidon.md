@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
 - Triad hub: [Kronos Admetos Poseidon](../triads/kronos-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 300, Kronos + Admetos, Poseidon row.
 
 To build one’s worldview of life on firm ground one has to search deeply.
 
@@ -42,13 +46,29 @@ To build one’s worldview of life on firm ground one has to search deeply.
 
 #### ABC Entry
 
-Special spiritual deepening, blockage of important insights, blocked mental self reliance, restriction of the culture of a state, consolidated spiritual hierarchy, large munities constraint, grildness about the state, and important spiritual raw material
+- Source reference: printed p. 463; one-based PDF p. 230, Kronos + Admetos, Poseidon row.
+
+Special spiritual deepening, blockage of important insights, blocked intellectual independence, restriction of a state's culture, established spiritual hierarchy, great restriction of reason, thorough truth about the state, and important spiritual raw material.
+
+## Comparative Schema
+
+- **Core meaning:** Establishing a worldview through deep inquiry, with possible restrictions on understanding.
+- **Psychology:** Sustained searching; ABC also describes blocked insight or mental independence.
+- **Body/health:** No physical condition is established.
+- **Social/relationship:** ABC adds spiritual hierarchy and restriction of a state's culture.
+- **Events/manifestations:** Deepening an understanding or encountering barriers to important insights.
+- **Conflicts/notes:** ABC includes restriction of reason and culture alongside spiritual deepening; neither pole cancels the other.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 300 (entry start); [ABC entry](#abc-entry), printed p. 463.
+
+## Contradictions
+
+Depth of inquiry and blocked insight describe different possible conditions, not a demonstrated contradiction. Neither entry makes solitude a requirement or guarantees wisdom.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Poseidon`: that firm understanding requires depth, withdrawal, and sustained search beneath appearances.
-- Chart expression: deep inquiry, principled solitude, and wisdom that is earned by descending below the common surface.
+In `Kronos/Admetos = Poseidon`, Poseidon directs the pair toward the foundations of understanding. The [Witte entry](#witte-entry) makes deep searching necessary for a firmly grounded worldview, while the [ABC entry](#abc-entry) also admits blocked insights, restricted intellectual independence, and spiritual hierarchy. Depth of inquiry therefore sits beside possible limits on reason and culture; withdrawal is not established as a requirement.
 
 ## Links
 

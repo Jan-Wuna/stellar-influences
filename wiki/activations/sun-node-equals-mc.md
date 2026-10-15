@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = MC`
 - Astronomicon formula: `S/g = MC`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 102, MC entry under Sun + Nodes.
+
 Soul unions. To be involved in something with heart and soul.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+Source locator: printed page 140 / PDF page 69, MC glyph row under Sun + Node.
 
 My bodily connection, my connection with the man, connected with the soul of the man, personal soulful relationships, the connection of body and soul, and connection to the soul in the human being
 
@@ -51,11 +57,15 @@ My bodily connection, my connection with the man, connected with the soul of the
 
 #### Ebertin Entry
 
+Source locator: printed page 106, entry 0301 under Sun/Dragon's Head.
+
 An emotional and spiritual attitude to associations, tendency to fight other people's battles. Friendship based on soul kinship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 22, Midheaven entry under Sun/Node.
 
 The need to continually strive toward a higher purpose in one’s profession or work, as well as to point the way forward in terms of the evolution of one’s field. Developing a reputation for being masterful or confident in dealing with groups or individuals.
 
@@ -70,22 +80,21 @@ Using connections to others as a means of increasing your personal prestige or s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Deep personal involvement in associations and purpose expressed through work or social ties.
+- psychology: Emotional and spiritual investment, peace of mind through friends and interest in personal stature.
+- body/health: ABC joins bodily and soul connection without specifying a medical outcome.
+- social/relationship: Soul kinship, wholehearted bonds, dealing with groups and fighting others' battles.
+- events/manifestations: Recognition for past work, building a professional reputation and pursuing a higher purpose in one's field.
+- conflicts/notes: Spiritual kinship, professional purpose and prestige are distinct emphases; the entries do not guarantee recognition or define one required calling.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, ABC and Ebertin emphasize deeply felt association. Sandbach extends purpose into work and a field's development, while Munkasey includes prestige and recognition; these different emphases do not directly contradict one another.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = MC`: reputation through groups, public purpose shaped by alliances, and the tendency to invest heart and soul in common causes. Main caution: over-identification with collective mission: one may fight others' battles or tie destiny too tightly to group approval.
+In `Sun/Node = MC`, MC specifies the Sun/Node pair through associations in which a person becomes deeply invested. [Witte](#witte-entry) describes involvement with heart and soul, [ABC](#abc-entry) connects bodily and soul involvement, and [Ebertin](#ebertin-entry) includes friendship through soul kinship and fighting others' battles. That personal commitment takes a professional direction in [Sandbach](#sandbach-entry), through striving toward a higher purpose and developing confidence in dealing with people. [Munkasey](#munkasey-entry) adds peace of mind from friends and recognition for past work. Together the entries connect meaningful involvement with personal direction and standing, while keeping spiritual kinship and public recognition as distinct possibilities.
 
 ## Links
 

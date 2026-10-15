@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Kronos Poseidon`
 - Astronomicon triad-set: `Z ¤ ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Kronos/Poseidon = Pluto](../activations/kronos-poseidon-equals-pluto.md)
-- [Pluto/Kronos = Poseidon](../activations/pluto-kronos-equals-poseidon.md)
-- [Pluto/Poseidon = Kronos](../activations/pluto-poseidon-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Poseidon = Pluto](../activations/kronos-poseidon-equals-pluto.md) | [Kronos/Poseidon](../axes/kronos-poseidon.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Kronos = Poseidon](../activations/pluto-kronos-equals-poseidon.md) | [Pluto/Kronos](../axes/pluto-kronos.md) | [Poseidon](../factors/poseidon.md) |
+| [Pluto/Poseidon = Kronos](../activations/pluto-poseidon-equals-kronos.md) | [Pluto/Poseidon](../axes/pluto-poseidon.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `Kronos/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `467`
-- `Pluto/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
-- `Pluto/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `415`
-- `Pluto/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
-- `Pluto/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Kronos/Poseidon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-poseidon-equals-pluto.md#witte-entry), one-based PDF entry-start p. `302`.
+- `Kronos/Poseidon = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-poseidon-equals-pluto.md#abc-entry), printed p. `467`.
+- `Pluto/Kronos = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-kronos-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `260`.
+- `Pluto/Kronos = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-kronos-equals-poseidon.md#abc-entry), printed p. `415`.
+- `Pluto/Poseidon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-poseidon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `264`.
+- `Pluto/Poseidon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-poseidon-equals-kronos.md#abc-entry), printed p. `423`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Pluto`: cultural change, high intellectual development, and spiritual or educational progress through deep transformation.
-- `Pluto/Kronos = Poseidon`: This activation emphasizes intellectual or ideological development toward leadership or recognized authority.
-- `Pluto/Poseidon = Kronos`: This activation emphasizes an independent attitude in mental and emotional matters; An acknowledged leader in terms of a concept or the meaning of life.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

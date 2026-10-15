@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Mercury`
 - Astronomicon formula: `V/W = T`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Joyful parting. To realize a thought. House hunting.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Joy and sorrow in love, peace and joy in old age, peace success through perseverance, storene love happiness, harmony and joy in old age, concentration on peace right, problematic love of money, and problematic advantages through beauty
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Successfully describing tasks, successful separation discussions, serious legal thoughts, financial losses in youth, happy thoughts in old age, opinions about legal problems, news of legal successes, and problematic youth law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: retained printed p. 226, coded entry 0785; passage unchanged in this review.
 
 The search for variety and change, inconstancy of mind and philosophy of life. Desire to make changes, a fortunate separation, a journey.
 
@@ -57,7 +65,9 @@ The search for variety and change, inconstancy of mind and philosophy of life. D
 
 #### Sandbach Entry
 
-A balanced way of communicating that blends support and criticism. A very persistent and patient mind that will delve into something until it obtains what it is look ing for.
+- Source reference: one-based PDF p. 78, Jupiter/Saturn, Mercury paragraph.
+
+A balanced way of communicating that blends support and criticism. A very persistent and patient mind that will delve into something until it obtains what it is looking for.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,26 +76,27 @@ A balanced way of communicating that blends support and criticism. A very persis
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Communicating effectively about planning and organization for all activities; using the media to publicize your ideas and aspirations; information which is contrary to knowledge available in general.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Thought and communication address change, planning, and realization ([Munkasey Entry](#munkasey-entry), p. 256).
+- Psychology: Ebertin's mental inconstancy contrasts with Sandbach's patient, persistent inquiry.
+- Body/health: The entries establish no medical or bodily meaning.
+- Social/relationship: Communication can blend support with criticism; parting can be fortunate.
+- Events/manifestations: Journeys, house hunting, realizing a thought, and publicizing ideas are specific examples.
+- Conflicts/notes: Raw ABC inspection identifies eight actual Mercury clauses; the former love/beauty paragraph belonged to Venus. Sandbach's Mercury paragraph is on PDF p. 78; looking is normalized across a typographical split.
 
 ## Contradictions
 
-- None recorded yet.
+The descriptions of mental persistence and mental inconstancy differ substantively. Their shared orientation does not justify presenting patience as the uncontested reading.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Mercury`: patient reasoning, practical philosophy, and a mind that can endure long inquiry without losing its thread. Main caution: mental inconstancy around direction: the desire for change and movement can conflict with the need for stability and long-range coherence.
+In `Jupiter/Saturn = Mercury`, Mercury brings the pair's changes and constraints into thinking, communication, and practical plans. The [Witte Entry](#witte-entry) includes realizing a thought and house hunting, while the [Munkasey Entry](#munkasey-entry) emphasizes planning and publicizing ideas. The [ABC Entry](#abc-entry) adds successful separation discussions and serious legal thought, with youth financial losses and happy thoughts in old age as distinct possibilities. The mental style is disputed: [Sandbach](#sandbach-entry) describes patient inquiry, whereas [Ebertin](#ebertin-entry) describes inconstancy and a search for variety. Retaining both prevents turning a contested quality into an assured strength.
 
 ## Links
 

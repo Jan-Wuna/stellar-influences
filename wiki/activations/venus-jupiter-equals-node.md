@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Node](../triads/venus-jupiter-node.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Rendezvous. Union of love. Connection with a successful or happy woman.
 
 #### ABC Entry
 
-Successful peace contacts, success through connection to beauty, joy in a harmonious relationship, joyful love connection, peace through kine legal relationship, artificial success through connections, and preference for money in connections
+- Source reference: printed p. 272; one-based PDF p. 135, Venus/Jupiter, Node row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Successful peace contacts, success through connection to beauty, joy in a harmonious relationship, a joyful love connection, peace through a legal relationship, artistic success through connections, and preference for money in connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Making the proper connections with people able to support your ideas or causes; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Shared joy and affectionate connection ([Ebertin](#ebertin-entry)).
+- psychology: An unselfish disposition and enthusiasm for shared values ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- body/health: The entries describe affection and social contact without a specific bodily or health claim.
+- social/relationship: Loving, generous companionship and supportive groups ([Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry)).
+- events/manifestations: Rendezvous, union, engagement, and meetings for feedback ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry)).
+- conflicts/notes: Restored legal-relationship and artistic-success wording; no criminal or illicit-trade claim occurs.
 
 ## Contradictions
 
-- None recorded yet.
+Shared affection and generosity are compatible emphases. ABC also gives peace through a legal relationship and artistic success through connections; these specific settings do not guarantee success for every bond.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Node`: joyful companionship, fortunate social ties, and the ability to build goodwill and mutual benefit easily. Main caution: over-social indulgence: belonging can become too pleasure-seeking, wasteful, or dependent on being liked by everyone.
+Node specifies the Venus/Jupiter axis through people with whom love, joy, and appreciation can be shared. The common thread is a connection that carries affection and generosity: a rendezvous or union, engagement, or companionship around strongly held values. [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [Sandbach](#sandbach-entry) support this relational reading. [Munkasey](#munkasey-entry) also describes groups and meetings that support ideas and provide valued feedback.
+
+The [ABC entry](#abc-entry) gives beauty, art, money and peace through a legal relationship as further settings of shared joy.
 
 ## Links
 

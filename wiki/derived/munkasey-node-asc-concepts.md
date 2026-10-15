@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Node/Asc` as source-native image material.
+Preserve Munkasey's concept phrases for `Node/Asc` as source-native image material.
+
+Start with the [Node/Asc interpretation](../axes/node-asc.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/node-asc.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Node/Asc](../axes/node-asc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `357`
+- Source concept page (printed): `357` (PDF page `358`).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Node/Asc` as source-native image
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/node-asc.md#related-activations) to find the exact formula and orientation.
+
+"Connects thru Attitudes", "Different Personal Styles", and "Sexual Attention Seeking" remain separate prompts. The list preserves these interpersonal images without establishing anyone's actual relationships or sexuality.

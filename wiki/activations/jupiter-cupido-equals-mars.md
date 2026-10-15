@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Cupido = Mars`
 - Astronomicon formula: `V/¡ = U`
 - Axis page: [Jupiter/Cupido](../axes/jupiter-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 215; PDF p. 211.
+
 Betrothal leading to marriage. Successful common or joint action. Working for a good firm or for a money company. Work in a legal organization.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source reference: printed p. 332; PDF p. 165.
+
 work of a legal community, success of a financial community, successful efforts of synthesis, shared success in work, shared efforts around money, happy work community, and advantages of community work
+
+## Comparative Schema
+
+- core meaning: Shared happiness or prosperity becomes joint work and coordinated action.
+- psychology: The entries emphasize effort and practical participation, without detailing personal motivation.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte names engagement leading to marriage and successful action with others.
+- events/manifestations: Work for a good firm, financial company, or legal organization meets ABC's successful community work.
+- conflicts/notes: ABC's 'synthesis' belongs to its wording for joint efforts; no special technical method is established.
+
+## Contradictions
+
+- Engagement and organized work are different manifestations of joint action. Neither is presented as the exclusive meaning.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Mars`: communal happiness becoming active, practical, and organized. It can show engagement, coordinated labor, and success achieved through purposeful work done together.
+In `Jupiter/Cupido = Mars`, Mars specifies the Jupiter/Cupido axis through effort made together. Joint work can be successful within a firm, financial company, legal organization or happy working community. Common financial effort and work toward synthesis add practical coordination, while betrothal leading to marriage gives the shared undertaking a relational form. Cooperation becoming active unifies the range. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

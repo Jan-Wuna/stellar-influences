@@ -29,10 +29,13 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/Y = £`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Moon Neptune Zeus](../triads/moon-neptune-zeus.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -40,16 +43,31 @@ Condemned to sterility. Tense cerebral activity at night-time. Light gas catchin
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `189`; PDF p. `93`.
+
 #### ABC Entry
 
 Guided by a fine woman, creativity of a woman in metaphysics, achievements of a people in the water or in the air, creative intuition of a woman, creating unclear feelings, insecurity of a woman in the air, and belief of a woman's procreation
 
+- Translation check: the last phrase on printed p. `189` (PDF p. `93`, visually checked) is `Verneinung der Zeugung durch die Frau`, a woman's negation or refusal of procreation, not belief in procreation. The imported English is retained above; this wording does not establish infertility.
+
+## Comparative Schema
+
+- core meaning: Zeus specifies the pair through creative activity and tension, with distinct nighttime and reproductive examples.
+- psychology: creative intuition in ABC and tense nighttime mental activity in Witte are explicit.
+- body/health: Witte's sterility statement remains a historical attribution; ABC's refusal of procreation is a different claim, not medical infertility.
+- social/relationship: ABC includes guidance by a sensitive woman and collective achievements in water or air.
+- events/manifestations: creative work in metaphysics, unclear feelings being generated, nighttime thought, and literal gas or fire appear in the entries.
+- conflicts/notes: combustion is a stated Witte manifestation, not evidence for an invented condition of emotional combustion or fertility anxiety.
+
+## Contradictions
+
+- Witte's sterility wording and ABC's refusal of procreation differ materially in kind: incapacity and refusal must not be treated as equivalent. The entries do not resolve that difference or support a universal reproductive prediction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Zeus`: Condemned to sterility. Tense cerebral activity at night-time. Light gas catching fire. Glow of fire.
-- Practical focus: ignites `Moon/Neptune` into tense nighttime imagination, emotionally heated subtle states, and volatile dream or fertility themes. It points to inspiration under pressure, inner fire in delicate conditions, and receptivity that can flare into creation, sterility anxiety, or combustion-like strain.
-- Practical expression: guided by a fine woman, creativity of a woman in metaphysics, achievements of a people in the water or in the air, creative intuition of a woman, and creating unclear feelings.
+In `Moon/Neptune = Zeus`, Zeus specifies the pair through creative intuition and activity that can also generate tension or unclear feelings. The checked [ABC entry, p. 189](#abc-entry) provides the creative and metaphysical expressions; [Witte](#witte-entry) adds tense mental activity at night and literal fire imagery. The reproductive statements require a boundary: Witte's historical sterility claim and ABC's refusal of procreation are not interchangeable and do not establish an individual medical outcome.
 
 ## Links
 

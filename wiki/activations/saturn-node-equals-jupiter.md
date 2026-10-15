@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
 - Triad hub: [Jupiter Saturn Node](../triads/jupiter-saturn-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Quick and pleasant separations. The separation of a happy union or satisfaction 
 
 #### ABC Entry
 
-Responsibilities of a legal entity, successful attachment to a task, money difficulties in a relationship, legal problems in a connection, and advantage by patience in a connection
+Source: ABC printed p. 216, supplied PDF p. 107, Node + Saturn, Jupiter row (six clauses). Translation from the German scan:
+
+Tasks of legal mediation; successful attachment to a task; money difficulties in a relationship; happy connections in old age; legal problems in a connection; advantage through patience in a connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Fondness of solitude, happiness in seclusion, the experience of inner joy throug
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 93, complete Jupiter paragraph under Saturn/Node.
 
 A desire to understand and learn from one’s connections through recognizing their spiritual aspects. An enthusiasm for having deep connections with other people and/or groups.
 
@@ -70,22 +76,21 @@ Generous assistance from others when you require it; fortunate support and meeti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: benefit through supportive ties or a fortunate separation.
+- psychology: joy in solitude and enthusiasm for understanding deep connections.
+- body/health: no bodily or health condition is specified.
+- social/relationship: generous assistance and friends whose help must be recognized and accepted.
+- events/manifestations: pleasant separation, change of position, or successful attachment to a task.
+- conflicts/notes: ABC names legal-mediation tasks and happy connections in old age without establishing legal status or an assured outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- Solitude and enthusiasm for deep connections concern different sources of benefit; help does not require every existing bond to continue.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Jupiter`: reliable networks, respected partnerships, and growth that comes through serious but constructive association. Main caution: formalized optimism: alliances can become status-bound, moralized, or too cautious to evolve flexibly.
+Jupiter specifies the Saturn/Node axis through benefit found in the course of a connection or its ending. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) allow a fortunate separation or joy in seclusion, while [Sandbach](#sandbach-entry) values understanding deep ties. [Munkasey](#munkasey-entry) adds friends' generous support, conditional on recognizing and accepting it. The shared favorable theme therefore concerns what a connection makes possible, rather than guaranteeing stable or prestigious partnerships.
 
 ## Links
 

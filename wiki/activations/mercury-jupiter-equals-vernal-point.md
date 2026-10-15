@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Vernal Point`
 - Astronomicon formula: `T/V = VP`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Merriment. Lively conversation. Happy news for the world public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-Talk about public money, happy youth in public, good news in public, Mcdie success in public, joyful news in public, public law talk, and positive thinking in public life
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> Gespräche über öffentliche Gelder, glückliche Jugend in der Öffentlichkeit, gute Nachrichten in der Öffentlichkeit, Medien-Erfolg in der Öffentlichkeit, freudige Nachrichten in der Öffentlichkeit, öffentliche Recht-Sprechung, positives Denken im öffentlichen Leben
+
+Editorial translation from the German passage: Conversations about public funds; happy young people in public; good news in public; media success in public; joyful news in public; public administration of justice; positive thinking in public life.
+
+## Comparative Schema
+
+- core meaning: Lively conversation and good news in public ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Merriment and positive thought are explicit.
+- body/health: No bodily condition appears.
+- social/relationship: The audience is the general or world public.
+- events/manifestations: Public-money discussions, media success, joyful news, and public justice are examples.
+- conflicts/notes: The public scope does not establish universal approval or lasting prosperity.
+
+## Contradictions
+
+The entries share a cheerful public emphasis. ABC's money and justice subjects add practical settings without establishing that all public affairs turn out well.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Vernal Point` projects the axis into public cheerfulness and widely shared good news.
-- Chart expression: lively conversation, merriment, and optimistic messages spreading outward to the general public or world at large.
+In `Mercury/Jupiter = Vernal Point`, Vernal Point specifies favorable exchange in public life. Lively conversation, merriment, and happy news for a wider public form the core; ABC makes the setting concrete through public-money discussions, media success, and public administration of justice. The entry concerns messages and discussions shared beyond an intimate exchange ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

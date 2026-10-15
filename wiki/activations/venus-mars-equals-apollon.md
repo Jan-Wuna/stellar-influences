@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Apollon](../triads/venus-mars-apollon.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Many intimate friends and relatives. Sexual relations with many. Polygamy. Devot
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `271`; PDF page `134` (one-based).
+
 #### ABC Entry
 
 Work for the arts and science, expansion of the will to peace, successful artistic activity, successful love activities, expansion of peace work, extensive peace activity, preference for trade activity, and increasing love activity
 
+## Comparative Schema
+
+- Core meaning: Numerous intimate ties and a broad field of devoted activity.
+- Psychology: Devotion to science and a widening will for peace.
+- Body/health: Multiple sexual relations are named without a medical claim.
+- Social/relationship: Many relatives or intimate friends; Witte also names polygamy.
+- Events/manifestations: Art, science, trade, successful love activity, and expanding peace work.
+- Conflicts/notes: Numerous relationships and scientific devotion are distinct manifestations; polygamy is a historical example.
+
+## Contradictions
+
+- Numerous relationships and scientific devotion are distinct manifestations; polygamy is a historical example.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Mars = Apollon`: many intimate friends and relatives.
-- Practical expression: work for the arts, science, expansion of the will to peace, successful artistic activity, and successful love activities.
+`Venus/Mars = Apollon` broadens the field of intimate relationships or devoted activity. [Witte](#witte-entry) names many relatives and intimate friends, multiple sexual relations, and devotion to scientific work. The [ABC entry](#abc-entry) adds art and science, trade, successful love activities, and expanding peace work. Breadth of relationship and work connects these examples, while the source's polygamy remains one historical manifestation rather than a required relational pattern.
 
 ## Links
 

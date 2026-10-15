@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Cupido`
 - Astronomicon formula: `X/§ = ¡`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 Violent commotion in a community, society, family or marriage.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-European Parliament
+- Source page: 387 (printed); PDF page: 192.
+
+Exciting violence in the community, a dynamic energy community, the influence of technology on the community, shared renewal of power, powerful tensions in the community, new energies for the community, and sudden violence in the community.
+
+## Comparative Schema
+
+- Core meaning: Collective upheaval and new shared energy.
+- Psychology: Excitement and tension within a group.
+- Body/health: No specific bodily claim.
+- Social/relationship: Commotion in community, family, or marriage.
+- Events/manifestations: Technical influence and sudden collective violence.
+- Conflicts/notes: ABC's cached “European Parliament” is a corrupt translation; the scanned row concerns community.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+ABC's cached “European Parliament” is a corrupt translation; the scanned row concerns community. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Cupido`: Violent commotion in a community, society, family or marriage.
+Cupido gives Uranus/Vulcanus a collective setting: forces that emerge abruptly disturb or renew a shared life. Family, marriage, society, and community belong to this range; the technical dimension concerns energy acting on the group. The entries emphasize powerful tension and commotion, without making every collective renewal violent. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

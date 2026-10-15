@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Apollon`
 - Astronomicon formula: `g/¦ = ¥`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 Contentment with a few. From bonds to freedom. Satisfied and contented with one’s own connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-see above
+Blocked trade connection, consolidation through sharing knowledge, increased restriction in connections, thorough sharing of knowledge, deepening knowledge within connections, and increasing oppression within a connection
+
+## Comparative Schema
+
+- core meaning: satisfaction with a few connections beside restricted trade or contact.
+- psychology: contentment and deepening knowledge are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: freedom from bonds contrasts with increasing oppression within a connection.
+- events/manifestations: sharing knowledge can consolidate ties; trade may be blocked.
+- conflicts/notes: having few connections is not inherently the difficult expression.
+
+## Contradictions
+
+Witte emphasizes contentment and freedom. ABC includes restricted or oppressive ties but also consolidation through knowledge; few contacts alone do not establish distress.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Apollon`: Contentment with a few. From bonds to freedom. Satisfied and contented with one’s own connections.
-- Practical focus: from bonds to freedom; also satisfied and contented with one’s own connections.
-- In difficult expression, it can mark contentment with a few.
+Node/Admetos = Apollon distinguishes the number of connections from their quality. [Witte](#witte-entry) describes contentment with a few and movement from bonds to freedom. [ABC](#abc-entry) adds blocked trade and increasing restriction or oppression, alongside sharing and deepening knowledge as ways a connection is consolidated (printed p. 235, PDF p. 116). A small circle can therefore be satisfactory; difficulty is tied to the stated restrictions rather than to few contacts by themselves.
 
 ## Links
 

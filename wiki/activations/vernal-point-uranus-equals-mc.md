@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus MC](../triads/vernal-point-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 To experience something suddenly. To be surprised.
 
@@ -42,13 +46,29 @@ To experience something suddenly. To be surprised.
 
 #### ABC Entry
 
-My rhythm in the public life, my impressions in the public life, my tensions in the public, my restlessness, emotional excitement in the public, and scelian emancipation in the public
+- Source page: 38; PDF page: 18 (one-based spread).
+
+My rhythm in public life, my renewals in public life, my tensions in public, my restlessness, emotional excitement in public, and inner renewal in public.
+
+## Comparative Schema
+
+- core meaning: Personal experience of sudden public change.
+- psychology: Surprise, restlessness, tension and inner renewal.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: One’s own response takes place in public life.
+- events/manifestations: Unexpected experiences and changes in personal public rhythm.
+- conflicts/notes: ABC’s first-person wording concerns subjective involvement, not a career prediction.
+
+## Contradictions
+
+Witte’s surprise and ABC’s personal excitement agree. ABC also gives inner renewal, which extends beyond the immediate shock.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = MC`: to experience something suddenly and to be surprised.
-- Practical expression: my rhythm in the public life, my impressions in the public life, my tensions in the public, my restlessness, and emotional excitement in the public.
+`Vernal Point/Uranus = MC` makes sudden public experience personally felt. Witte names surprise; ABC describes one’s own rhythm, tensions and restlessness in public life, connecting the event with emotional excitement. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+ABC also includes personal and inner renewal. The experience can therefore involve a changed participation in public life as well as an immediate startled response, without specifying a profession or social rank. ([ABC](#abc-entry))
 
 ## Links
 

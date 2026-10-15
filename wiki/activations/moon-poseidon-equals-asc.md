@@ -25,6 +25,7 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Poseidon = Asc`
 - Astronomicon formula: `R/¨ = Asc`
 - Axis page: [Moon/Poseidon](../axes/moon-poseidon.md)
@@ -34,21 +35,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Poseidon`, PDF p. `138` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Poseidon`, printed p. `206`, PDF p. `102` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Insightful woman in the near, full insight of the partner, clear skills of the partner, cultivated women in the place, culture of other folk, hour of truth for the environment, environmental culture of a people, and poor woman as partner
+An insightful woman nearby, sensitive insight of the partner, clear feelings of the partner, cultured women in the locality, culture of other peoples, an hour of truth for the surroundings, the surrounding culture of a people, and a sensible woman as partner.
+
+## Comparative Schema
+
+- core meaning: mental and spiritual receptivity is expressed through encounters and influence between people.
+- psychology: sensitive insight and clarity of feeling are assigned to a partner in ABC.
+- body/health: neither entry supplies a specific bodily or health claim.
+- social/relationship: influencing others mentally and relating to receptive or cultured people are explicit.
+- events/manifestations: encounters with insightful people nearby and contact with other peoples' cultures.
+- conflicts/notes: the partner examples are attributed possibilities; receptivity does not establish agreement or accurate perception in every encounter.
+
+## Contradictions
+
+- The entries give complementary interpersonal examples without an explicit incompatibility. Witte stresses influence and receptivity; ABC stresses the partner and surrounding cultural setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Poseidon = Asc`: To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
-- Practical expression: insightful woman in the near, full insight of the partner, clear skills of the partner, cultivated women in the place, and culture of other folk.
+Asc specifies the Moon/Poseidon pair through relations with people who receive or convey mental and spiritual impressions. Witte describes influencing others mentally and meeting receptive people; ABC makes the setting concrete through a partner's sensitive insight and clear feelings, insightful people nearby, and contact with other cultures ([Witte entry](#witte-entry); [ABC entry](#abc-entry), printed p. 206). The emphasis is on an interpersonal channel for understanding, without establishing that the influence is always accurate or mutually accepted.
 
 ## Links
 

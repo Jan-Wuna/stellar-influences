@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Apollon`
 - Astronomicon formula: `W/¡ = ¥`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Training courses. Many who are torn away from their natural partners. Breaking up of whole communities, corporations. Divorces.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks Venue for the community, extension of seriosity, common problems of science, mature knowledge of a community, and increasing losses in the community
+- Source page: 355 (printed); PDF page: 176.
+
+Increase of tasks for the community, expansion of serious art, shared problems of science, concentration on the whole body of knowledge, mature knowledge in a community, growing concentration on the whole, increasing losses within the community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Collective tasks or knowledge expand while communities may also break apart.
+- Psychology: Growing concentration on the whole and mature knowledge.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Community or corporate breakup, divorce, and separation from partners.
+- Events/manifestations: Training courses, expanding serious art, shared scientific problems, and growing communal losses.
+- Conflicts/notes: Training and mature knowledge are retained beside large-scale separation and loss.
+
+## Contradictions
+
+Training and mature knowledge are retained beside large-scale separation and loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Apollon`: training courses, many who are torn away from their natural partners.
-- Practical expression: tasks Venue for the community, extension of seriosity, common problems of science, mature knowledge of a community, and increasing losses in the community.
+In `Saturn/Cupido = Apollon`, Apollon specifies the pair through communal developments at a wider scale. The [Witte entry](#witte-entry) includes training courses but also the breakup of communities and corporations; the [ABC entry](#abc-entry) adds increasing shared tasks, mature knowledge, and expanding serious art. Growing losses and scientific problems keep expansion from meaning uncomplicated success.
 
 ## Links
 

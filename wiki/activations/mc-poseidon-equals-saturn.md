@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [Saturn MC Poseidon](../triads/saturn-mc-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To be brought up. Educated. To be a student.
 
 #### ABC Entry
 
-Patience of the Indomitable Soul, my incriminating insights, my insight and patience, my mental problems, my concentration on the truth, my cultural tasks, my mental pain, mature spirit soul, and impulses of soul and spirit
+- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).
+
+Patient, reasonable soul, my burdensome insights, my insight and patience, my spiritual problems, my concentration on truth, my cultural tasks, my inner pains, mature spirit-soul, disturbances of soul and spirit.
+
+## Comparative Schema
+
+- **Core meaning:** Education and demanding mental development.
+- **Psychology:** Patience, concentration and burdensome understanding.
+- **Body/health:** ABC's inner pain and mental-problem language is not a clinical finding.
+- **Social/relationship:** Being brought up or educated places the theme in a learning relationship.
+- **Events/manifestations:** Study and cultural tasks.
+- **Conflicts/notes:** ABC names a patient, reasonable soul, burdensome insights and disturbances; its inner pain language remains non-clinical.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 99 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC names a patient, reasonable soul, burdensome insights and disturbances; its inner pain language remains non-clinical.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Saturn` disciplines the axis through education, training, and studenthood.
-- Chart expression: being formed by study, brought up through structure, and developing the self's higher aspiration through discipline, schooling, and sober instruction.
+Saturn specifies `MC/Poseidon` through education and being a student in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds patience, concentration on truth and cultural tasks alongside mental problems and inner pain. Learning therefore has a demanding as well as formative side: the source joins a patient, reasonable soul with burdensome insight and disturbances of inner life.
 
 ## Links
 

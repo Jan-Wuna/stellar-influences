@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Jupiter`
 - Astronomicon formula: `S/Z = V`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Happiness through daily changes. Abundant development. Fat deposits.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful personal development, bright personal change, change of person's right, beneficial change of person, growing finances of a man, growing personal joy, and changes in person's right
+- Source passage: `Sonne + Pluto`; printed p. `156`; one-based PDF page `77` (oriented row checked against the scan).
+
+Successful personal development, fortunate personal change, change in the law of persons (Personen-Recht), beneficial transformations of a person, growing finances of a man, growing personal joy, changes in the law of persons.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Pluto`; printed p. `102`; entry code `0283` (supplied source-map locator; not visually verified).
 
 Successful striving for power, urge to expand and acquire wealth, a person who establishes his position in life successfully.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `20` (exact Jupiter entry checked in actual raw PDF text).
 
 Enthusiasm that relentlessly holds to a purpose rather than becoming scat tered. Eagerness expressed in a relentlessly willful fashion. Success achieved through tremendous self-discipline.
 
@@ -70,22 +80,21 @@ An idealistic desire to become number one; cheer or laughter lightens your persp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful development and concentrated purpose are linked with expansion, position and material gain.
+- psychology: Persistent enthusiasm and self-discipline coexist with humor, ambition, ethical reflection or lowered standards.
+- body/health: Witte's abundant development and fat deposits are attributed bodily correspondences.
+- social/relationship: Establishing a position in life and changing personal rights provide social settings.
+- events/manifestations: Favorable daily changes, growing finances and successful striving for power are named.
+- conflicts/notes: Success does not establish ethical merit; Munkasey's moral inquiry and debased standards remain alternative examples.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. Favorable development and achievement coexist with different ethical responses; none promises wealth or justified rulership.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Jupiter`: successful establishment of position, wealth-building through concentrated effort, and the capacity to hold to a major purpose without scattering force. Main caution: inflation of power: ambition, status hunger, or confidence in one's right to rule can become excessive or self-justifying.
+In `Sun/Pluto = Jupiter`, personal development gains a successful or expansive form through sustained purpose: relentless enthusiasm and self-discipline support establishing a position and acquiring resources. Favorable changes, growing finances and personal joy give that attainment concrete expressions. Humor can lighten the perspective, while reflection on ethics, study of life's mysteries or lowering one's standards preserve different ways ambition is handled. Witte's fat-deposit example remains a separate historical bodily correspondence. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

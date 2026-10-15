@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Poseidon](../triads/sun-asc-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Relationships with people who have mental, cognitive or educational experiences.
 
 #### ABC Entry
 
-Insightful personal partner, insights of other persons, clarity in the personal environment, cultural centre in the place, personal culture in the environment, spiritual centre, spiritualized personal environment, and friendly partner
+Source locator: printed page 101 / PDF page 49, Poseidon glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Insightful personal partner, insights of other persons, clarity in the personal surroundings, cultural center at the location, culture of people in the surroundings, local spiritual center, spiritualized personal surroundings, and rational male partner.
+
+## Comparative Schema
+
+- core meaning: An environment shaped by understanding and culture.
+- psychology: Insight and clarity in personal exchanges.
+- body/health: No specific health claim is given.
+- social/relationship: Contact with experienced, educated, or spiritually oriented people.
+- events/manifestations: Participation around cultural or spiritual centers.
+- conflicts/notes: ABC's rational partner and spiritualized surroundings support distinct descriptions of understanding; no narrower discipline or physical mechanism is specified.
+
+## Contradictions
+
+Educational and spiritual settings differ in emphasis without an explicit opposing claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Poseidon`: being with spiritual persons and honesty with oneself.
-- Practical expression: insightful personal partner, insights of other persons, clarity in the personal environment, cultural centre in the place, and personal culture in the environment.
+Poseidon specifies the Sun/Asc axis through contact with people and places associated with understanding, education, or spiritual life. The [Witte entry](#witte-entry) emphasizes relationships with people who have cognitive or educational experience; the [ABC entry](#abc-entry) adds insight, clarity in the personal environment, and cultural or spiritual centers. The unifying theme is a human environment shaped by learning and understanding.
 
 ## Links
 

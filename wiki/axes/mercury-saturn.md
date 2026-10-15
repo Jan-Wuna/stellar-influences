@@ -11,6 +11,8 @@ normalized_axis: Mercury/Saturn
 factor_a: Mercury
 factor_b: Saturn
 related_activations:
+  - Mercury/Saturn = Mercury
+  - Mercury/Saturn = Saturn
   - Mercury/Saturn = Admetos
   - Mercury/Saturn = Apollon
   - Mercury/Saturn = Asc
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Mercury/Saturn`
 - Astronomicon axis: `T/W`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/SATURN`
-- Source page: `159`
+- Source heading: `MERCURY + SATURN`
+- PDF page: `162`
 
 #### Pair Summary
 
@@ -88,9 +91,15 @@ Logic. Philosophical thinking. Competence to form an opinion, to pass judgement.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `246`; PDF page: `122` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Tasks of youth, movement in old age, thought tortures, urban youth, urban traffic, hard language, hard youth, Cedanken concentration, youth and A!ter, slowly speaking, describing problems, and separation thoughts
+German pair summary (transcribed from printed page `246`; PDF page `122`):
+
+> Aufgaben der Jugend, Bewegung im Alter, Denk-Störungen, gestörte Jugend, gestörter Verkehr, harte Gespräche, harte Jugend, Gedanken-Konzentration, Jugend und Alter, langsam sprechen, Probleme beschreiben, Trennungs-Gedanken
+
+Editorial translation from the German passage: Tasks of youth, movement in old age, disturbances of thinking, disturbed youth, disturbed traffic, hard conversations, hard youth, concentration of thought, youth and old age, speaking slowly, describing problems, thoughts of separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -232,14 +241,17 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: depth, concentration, and organization of thought, with restraint in communication ([Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: patient method and considered judgment range into distrust, rigidity, discouragement, or inhibited expression ([Ebertin](#psychological-correspondence), [Falis](#falis-entry)).
+- body/health: the historical entries connect nerves, speech, hearing, sensory blockage, and strain with the pair. These are attributed correspondences, not diagnoses or predictions ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: serious discussions and care with confidences contrast with difficulty listening, delayed talks, or discouraging rigidity ([Munkasey](#in-your-relationships), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+- events/manifestations: sustained study, practical organization, teaching, difficult negotiations, separations, and slow progress are recurrent possibilities ([Falis](#falis-entry), [Probable Manifestations](#probable-manifestations), [Munkasey](#in-politics-or-business)).
+- conflicts/notes: Slowness and economy of words need not mean incapacity. Carter also allows capable thought and, under the conjunction, volubility; ABC disturbance vocabulary does not specify a diagnosis.
 
 ## Related Activations
+
+- [Mercury/Saturn = Mercury](../activations/mercury-saturn-equals-mercury.md)
+- [Mercury/Saturn = Saturn](../activations/mercury-saturn-equals-saturn.md)
 
 - [Mercury/Saturn = Admetos](../activations/mercury-saturn-equals-admetos.md)
 - [Mercury/Saturn = Apollon](../activations/mercury-saturn-equals-apollon.md)
@@ -265,15 +277,15 @@ Cataracts or similar blockage of senses, nerves, or nerve endings; breaks in men
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries contrast disciplined concentration with mental inhibition rather than making one inevitable. Carter's aspect-specific claims retain their conditions; his historical statements about suicide, fertility, and childhood are not individualized forecasts.
+- The actual ABC list describes disturbed youth and traffic, disturbances of thinking, concentration, age and hard conversations. It supplies neither the former urban theme nor torture terminology.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn` is the axis of concentration, disciplined thought, careful speech, realism, and mental endurance. It brings Mercury's need to think and communicate into Saturn's structure, caution, restraint, and demand for seriousness.
-- Chart expression: method, precision, depth, economy of words, sustained study, practical reasoning, and the ability to organize complex material carefully. Its tension appears as inhibition, pessimism, rigidity, distrust, fear of speaking, delayed learning, or communication that becomes too narrow, heavy, or self-censoring.
+`Mercury/Saturn` concerns thought made deliberate, structured, and persistent. Concentration, logical judgment, careful observation, and economy of words support sustained study and the patient organization of practical problems. The same restraint can make learning or expression laborious: words may be withheld, thinking may become rigid or pessimistic, and fear of error may obstruct communication. The entries repeatedly hold these capacities and difficulties together ([Pair Summary](#pair-summary), [Ebertin](#psychological-correspondence), [Falis](#falis-entry), [Hand](#pair-delineation)).
+
+The shared theme extends into serious conversations, responsibility for entrusted information, delayed negotiations, and thoughts of separation or departure. Sandbach frames development as removing unnecessary or limiting ideas so that meaning becomes clearer; Carter also allows capable, methodical work under difficult aspects and sometimes abundant speech under the conjunction. Thus restraint need not mean silence or intellectual failure. Specific aspect conditions, third-factor activations, and the authors' historical medical claims remain distinct from this pair-level range ([Munkasey](#basic-ideas), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), [Carter conjunction](#the-conjunction), [Carter inharmonious aspects](#inharmonious-aspects)).
 
 ## Links
 

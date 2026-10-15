@@ -49,6 +49,8 @@ updated_at: 2026-04-21
 - Astronomicon axis: `Chiron/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -60,6 +62,15 @@ A compelling need to connect to positive energy and to spirit guides. An urgent 
 #### Process
 
 The finding of ways to evolve, often ways one does not expect and which turn out to be short-cuts that speed the process of the growth of consciousness.
+
+## Comparative Schema
+
+- Core meaning: Seeking connections that support growth while loosening fear-based attachments to the past ([Principle](#principle), [Process](#process)).
+- Psychology: An urgent wish to move forward accompanies difficulty understanding hidden relational tensions; instinct and inward receptivity are the responses described.
+- Body/health: The entry does not identify a physical condition or treatment; its language concerns consciousness and spiritual growth.
+- Social/relationship: Seeking people willing to evolve together and receive one's love; tension arises when others resist change.
+- Events/manifestations: Unexpected ways of resolving past issues can accelerate growth in the source's account.
+- Conflicts/notes: Karma and spirit guides belong to this entry's spiritual vocabulary. The supplied PDF p. 100 locator marks a chapter start, not a verified exact entry page.
 
 ## Related Activations
 
@@ -79,8 +90,9 @@ The finding of ways to evolve, often ways one does not expect and which turn out
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Node`: spiritual connectedness through relationship: an urgent need to clear the past, dissolve fear-based attachment, and seek bonds that genuinely support evolution rather than repeating hidden painful patterns.
-- Chart expression: growth through the people one chooses, to a need for spiritually receptive companionship, and to the discovery that difficult or vaguely painful connections often signal unresolved karma or unhealed past material. Liabilities: remaining attached to painful relational patterns, confusing longing for connection with true resonance, or repeating the past while calling it destiny.
+`Chiron/Node` concerns connections that help a person grow beyond attachments to the past. The wish to give love and evolve together meets tension when others are unwilling to change; the difficulty may be hard to name. The entry frames this as work with fear-based attachment and karma, with answers sought through instinct, inward receptivity, and spirit guides ([Principle](#principle)).
+
+The movement is toward finding an unexpected way forward. The Process describes these discoveries as short-cuts that accelerate the growth of consciousness, within the same spiritual account ([Process](#process)).
 
 ## Links
 

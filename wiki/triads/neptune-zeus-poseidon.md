@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Zeus Poseidon`
 - Astronomicon triad-set: `Y £ ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md)
-- [Neptune/Zeus = Poseidon](../activations/neptune-zeus-equals-poseidon.md)
-- [Zeus/Poseidon = Neptune](../activations/zeus-poseidon-equals-neptune.md)
+- [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Zeus](../factors/zeus.md).
+- [Neptune/Zeus = Poseidon](../activations/neptune-zeus-equals-poseidon.md): base axis [Neptune/Zeus](../axes/neptune-zeus.md); activator [Poseidon](../factors/poseidon.md).
+- [Zeus/Poseidon = Neptune](../activations/zeus-poseidon-equals-neptune.md): base axis [Zeus/Poseidon](../axes/zeus-poseidon.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Poseidon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `407`
-- `Neptune/Zeus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `249`
-- `Neptune/Zeus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `397`
-- `Zeus/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `296`
-- `Zeus/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `459`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md#witte-entry) (PDF entry-start p. 254); [Neptune/Zeus = Poseidon](../activations/neptune-zeus-equals-poseidon.md#witte-entry) (PDF entry-start p. 249); [Zeus/Poseidon = Neptune](../activations/zeus-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 296).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Poseidon = Zeus](../activations/neptune-poseidon-equals-zeus.md#abc-entry) (printed p. 407); [Neptune/Zeus = Poseidon](../activations/neptune-zeus-equals-poseidon.md#abc-entry) (printed p. 397); [Zeus/Poseidon = Neptune](../activations/zeus-poseidon-equals-neptune.md#abc-entry) (printed p. 459).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Zeus`: This activation directs subtle mentality into conceptual production, but with strain around truthfulness or realism. It can show imaginative ideation, mental fabrication, or determined effort spent sustaining a mistaken premise or pretense.
-- `Neptune/Zeus = Poseidon`: Ideas here are risky, unproductive, or mentally compulsive, yet they also point toward the eventual release or resolution of that pressure.
-- `Zeus/Poseidon = Neptune`: Rejection of mental compulsion. Hidden mental leadership. The invisible hand.
+Neptune, Zeus and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
+- [Neptune/Zeus](../axes/neptune-zeus.md)
+- [Zeus/Poseidon](../axes/zeus-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Zeus](../factors/zeus.md)
 - [Poseidon](../factors/poseidon.md)

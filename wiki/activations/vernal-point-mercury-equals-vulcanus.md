@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Vulcanus](../triads/vernal-point-mercury-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 Powerful thoughts. To drive moving forces. Impulse. Great speed. Motors.
 
@@ -42,13 +46,27 @@ Powerful thoughts. To drive moving forces. Impulse. Great speed. Motors.
 
 #### ABC Entry
 
-Public influence Opinion, Thought Power in the Public Life, Power of Youth in the Public Life, Power Language in the Public, Public Media Influence, Voice Violence in the Public Life, and Strong Public Transport
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Influence of public opinion, the power of thought in public life, the strength of youth in public life, public conversations about power, public media influence, force of language in public life, and strong public traffic
+
+## Comparative Schema
+
+- core meaning: Public thought and communication exerting force and influence.
+- psychology: Powerful thoughts and impulse are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: The strength of youth and influence of public opinion.
+- events/manifestations: Media influence, powerful language, speed, and motors.
+- conflicts/notes: Force of language is the scanned compound; it need not mean literal vocal violence.
+
+## Contradictions
+
+No direct contradiction is established. Mechanical force and communicative influence are separate expressions of potency.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Vulcanus`: powerful thoughts, to drive moving forces, impulse, great speed, and motors.
-- Practical expression: public influence Opinion, thought Power in the Public Life, power of Youth in the Public Life, power Language in the Public, and public Media Influence.
+In `Vernal Point/Mercury = Vulcanus`, public thought and speech have force. The [Witte entry](#witte-entry) links powerful thinking with impulse, speed, and motors. The restored [ABC entry](#abc-entry) develops influence through public opinion, media, strong language, youth, and traffic. The common theme is the capacity to move or affect a public field, expressed intellectually, socially, or mechanically.
 
 ## Links
 

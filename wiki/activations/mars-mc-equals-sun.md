@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Sun Mars MC](../triads/sun-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To offer resistance. Administrator of justice. Jail warden. The action man. Handyman.
 
@@ -45,17 +49,23 @@ To offer resistance. Administrator of justice. Jail warden. The action man. Hand
 
 #### ABC Entry
 
-I work with men, I act as a man, my work centre, my husband acts, my personal will, people chant me, and psychic power of a person
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Soulful bodily impulses, body and soul in action, I work physically, I work with men, I act as a man, my work centre, my husband acts, my personal will, people treat me, and psychological energy for action in a person.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0771.
 
 Power of attainment, urge to become important, a strong will. Desire to attain success in life at all costs, ability to procure the power for giving orders to others, overcoming resistance or obstacles.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
 
 One is vitalized by actively living up to one’s life purpose. To make others aware of the need to receive active and positive parenting.
 
@@ -70,22 +80,21 @@ Better understanding of self and how you can use your innate inner strength to d
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal will and purposeful action directed toward attainment.
+- psychology: Inner strength, self-understanding, maturity, and the urge to become important.
+- body/health: ABC names bodily impulses and physical work; Sandbach describes vitality through purpose, without a medical assertion.
+- social/relationship: Authority and positive parenting; ABC's male examples remain source-specific.
+- events/manifestations: Overcoming resistance, pursuing success, and Witte's practical or justice-related roles.
+- conflicts/notes: Ebertin's success at all costs differs from Sandbach's purpose and positive parenting; historical male-role examples remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share purposeful personal action but differ in emphasis: commanding and overcoming resistance are not the same claim as maturity or positive parenting.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Sun`: leadership, personal power, public initiative, and a life direction built through direct assertion and determined effort. Main caution: harshness at the center of the self: ambition can become all-costs striving or a need to dominate obstacles and people alike.
+In `Mars/MC = Sun`, Sun specifies personal action through will, bodily engagement, and the effort to live out a purpose. ABC names body and soul in action and physical work; Ebertin stresses attainment and overcoming resistance, including an all-costs pursuit of success. Sandbach describes purpose as vitalizing and adds positive parenting, while Munkasey emphasizes self-understanding and maturity. Witte's administrator, warden, and handyman are particular examples; ABC's male-role language remains attributed rather than universal. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0771; [Sandbach](#sandbach-entry), PDF p. 77; [Munkasey](#munkasey-entry), printed p. 252)
 
 ## Links
 

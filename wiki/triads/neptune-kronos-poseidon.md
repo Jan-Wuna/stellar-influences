@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Kronos Poseidon`
 - Astronomicon triad-set: `Y ¤ ¨`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Poseidon = Neptune](../activations/kronos-poseidon-equals-neptune.md)
-- [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md)
-- [Neptune/Poseidon = Kronos](../activations/neptune-poseidon-equals-kronos.md)
+- [Kronos/Poseidon = Neptune](../activations/kronos-poseidon-equals-neptune.md): base axis [Kronos/Poseidon](../axes/kronos-poseidon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Poseidon](../factors/poseidon.md).
+- [Neptune/Poseidon = Kronos](../activations/neptune-poseidon-equals-kronos.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Kronos](../factors/kronos.md).
 
 ## Source Coverage
 
-- `Kronos/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `467`
-- `Neptune/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `399`
-- `Neptune/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Poseidon = Neptune](../activations/kronos-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 302); [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md#witte-entry) (PDF entry-start p. 250); [Neptune/Poseidon = Kronos](../activations/neptune-poseidon-equals-kronos.md#witte-entry) (PDF entry-start p. 254).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Poseidon = Neptune](../activations/kronos-poseidon-equals-neptune.md#abc-entry) (printed p. 467); [Neptune/Kronos = Poseidon](../activations/neptune-kronos-equals-poseidon.md#abc-entry) (printed p. 399); [Neptune/Poseidon = Kronos](../activations/neptune-poseidon-equals-kronos.md#abc-entry) (printed p. 407).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Neptune`: following mistaken spiritual or intellectual belief, where truth and error stand dangerously close together.
-- `Neptune/Kronos = Poseidon`: This activation spiritualizes authority through refined ideals and mental elevation, yet also shows refusal of intellectual leadership or failure to sustain it in practice.
-- `Neptune/Poseidon = Kronos`: This activation elevates spiritualized uncertainty into grand pretension, where one projects great importance or higher insight without sufficient reality behind the appearance.
+Neptune, Kronos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)

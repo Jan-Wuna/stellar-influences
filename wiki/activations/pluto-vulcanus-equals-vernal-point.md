@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Vulcanus = Vernal Point`
 - Astronomicon formula: `Z/§ = VP`
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 263.
+
 To experience great changes in general. Great general transformation. To experience a change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Developments in the public sphere, developments in violence in the public sphere, violent changes in the public sphere, development of power in the public sphere, and life in the public sphere
+- Source page: 420 (printed); PDF page: 209.
+
+Influential developments in public, developments of violence in public, violent changes in public life, unfolding power in public life, changes of power in public, public energy development.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Major transformation expressed in general or public conditions.
+- Psychology: Neither entry develops a personal emotional profile.
+- Body/health: No specific medical correspondence is established by these entries.
+- Social/relationship: Public life and public power are the explicit collective setting.
+- Events/manifestations: Public energy development, changes of power, and violent public changes.
+- Conflicts/notes: Witte's broad general change is less specific than ABC's public manifestations.
+
+## Contradictions
+
+Witte's broad general change is less specific than ABC's public manifestations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Vernal Point`: to experience great changes in general; Great general transformation; To experience a change.
-- Practical expression: developments in the public sphere, developments in violence in the public sphere, violent changes in the public sphere, development of power in the public sphere, and life in the public sphere.
+In `Pluto/Vulcanus = Vernal Point`, Vernal Point specifies `Pluto/Vulcanus` through the general and public setting of a mighty change. The [Witte entry](#witte-entry) stays broad, naming great general transformation; the [ABC entry](#abc-entry) includes public energy development, unfolding power, and changes of power in public life. Violence is part of ABC's stated range, not an inevitable quality of public change.
 
 ## Links
 

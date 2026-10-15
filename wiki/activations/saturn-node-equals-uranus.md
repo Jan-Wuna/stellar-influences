@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Uranus`
 - Astronomicon formula: `W/g = X`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 Sudden separations from friends or relatives. Sudden stress on a connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks caused by new connections, exciting separation of a connection, stressful tensions in a connection, attachment to a refonn task, new tasks in a connection, sudden loss of a relationship, and technical connection problcme
+- Source page: `217`; PDF page: `107`.
+
+Tasks caused by new connections, exciting separation of a connection, stressful tensions in a connection, attachment to a reform task, new tasks in a connection, sudden loss of a relationship, and technical connection problems
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0909`.
 
 Rebellion, urge for freedom, unwillingness to bend under somebody else's will. Suffering through elder blood relatives, desire to liberate oneself from great stress at all costs, a violent dispute, sudden separation. (Mourning, bereavement.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 A genius for working with or around the restrictions and limitations one finds when connecting with others. Strange or unusual limiting factors encountered when connecting with individuals or groups.
 
@@ -70,22 +80,21 @@ Strange twists of fate when seeking help from others; innovative forms of assist
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden strain or disruption in a connection, with unusual ways of negotiating limits.
+- psychology: Rebellion, the urge for freedom and ingenuity around restrictions.
+- body/health: Stress and suffering appear without a specific bodily condition.
+- social/relationship: Abrupt separation, unusual limits and innovative group assistance.
+- events/manifestations: Disputes, unpredictable meetings, new tasks and technical connection problems.
+- conflicts/notes: Disruption can remove help or prompt inventive assistance; bereavement remains a historical example.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden breaks and inventive ways around restrictions describe different responses to difficult connections. Neither eliminates the other, and no direct disagreement is established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Uranus`: serious renegotiation of bonds, demanding group change, and the ability to modernize social patterns that have grown rigid. Main caution: rupture: accumulated tension can lead to abrupt breaks, distrust, or inconsistent loyalty.
+In `Saturn/Node = Uranus`, Uranus specifies a connection through sudden pressure: ties can break abruptly, and the wish for freedom can sharpen into rebellion or dispute ([Witte](#witte-entry), [Ebertin](#ebertin-entry)). The same problem of restrictive connection can call forth unusual solutions, including working around limits and finding innovative group assistance ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). [ABC](#abc-entry) adds reform tasks and technical connection problems. The common thread is a disruption or unexpected turn in how a bond functions; the entries do not promise that the resulting change will be helpful.
 
 ## Links
 

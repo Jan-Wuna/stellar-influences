@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Uranus Pluto Cupido](../triads/uranus-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Surprising change of family conditions. Sudden unconnected transformation of hum
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 409; PDF page 203.
+
 #### ABC Entry
 
-Dynamic development in the Community, development of new communities, restorative development in of a community, growing retrenchments in communities, growth pulses to the whole, and change to technology in the Community
+Dynamic development within the community, development of new communities, restless development within a community, growing reforms in communities, growth impulses toward the whole, a turn toward technology within the community.
+
+## Comparative Schema
+
+- core meaning: Abrupt change in family or community conditions.
+- psychology: The reliable entries do not define a distinct inner state.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Sudden changes in relationships and the formation of new communities.
+- events/manifestations: Dynamic collective change and a turn toward technology.
+- conflicts/notes: ABC names restless development and growing reforms, not a restorative or retrenchment process.
+
+## Contradictions
+
+Witte emphasizes sudden disruption; ABC includes new communities, restless development and growing reforms. These are related forms of collective change.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Uranus`: surprising change of family conditions; Sudden unconnected transformation of human relation; Sudden transformation of a community.
-- Practical expression: dynamic development in the Community, restorative development in a community, growth pulses to the whole, and change to technology in the Community.
+Uranus specifies Pluto/Cupido through sudden changes in relationships and collective conditions. The [Witte entry](#witte-entry) stresses surprise in family and community life; [ABC](#abc-entry) adds the development of new communities and a turn toward technology. These examples describe abrupt reorganization, with ABC explicitly including unrest and growing reforms.
 
 ## Links
 

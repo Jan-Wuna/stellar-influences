@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Mercury Asc](../triads/sun-mercury-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Discussions of the interpersonal roles you have with others when you meet togeth
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Communication and intellectual contact in personal relationships.
+- psychology: Seeking stimulation, forming critical judgments, and thinking about appearances.
+- body/health: ABC mentions bodily movement locally; no specific health claim is given.
+- social/relationship: Students, teachers, young people, scientists, and business contacts.
+- events/manifestations: Discussions, exchanges of information, and purposeful use of opportunities.
+- conflicts/notes: Attention-seeking is sourced; the former 'nervous egoism' and restlessness are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Intellectual exchange and concern with appearances are different emphases, with no direct contradiction stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Mercury`: communicative presence, wit, and the ability to make oneself known through language or ideas. Main caution: nervous egoism: self-expression can become restless, overly mental, or too eager to prove itself in every interaction.
+Mercury specifies the Sun/Asc axis through thought, communication, and the way one makes oneself understood in encounters. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries name students, teachers, young people, and intellectual or business contacts. [Munkasey](#munkasey-entry) describes discussing interpersonal roles and understanding personal needs; [Sandbach](#sandbach-entry) adds both purposeful use of opportunities and the possibility of using clever presentation to attract importance.
 
 ## Links
 

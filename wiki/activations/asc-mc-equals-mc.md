@@ -18,7 +18,7 @@ aliases:
   []
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -26,6 +26,8 @@ updated_at: 2026-05-06
 - Formula: `Asc/MC = MC`
 - Axis page: [Asc/MC](../axes/asc-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -38,24 +40,25 @@ updated_at: 2026-05-06
 
 Focusing on working with your basic self and developing your innate talents and attributes; realizing the role that credentials and education play in life; using contacts and position to increase feelings of self-worth.
 
+Source reference: Michael Munkasey, printed p. 366, one-based PDF p. 367, “ASCENDANT/MIDHEAVEN With Itself,” MC row; checked on the actual page. The adjacent Asc paragraph is a separate activation.
+
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Developing innate talents while recognizing the role of education, credentials, contacts, and position ([Munkasey entry](#munkasey-entry)).
+- **Psychology:** Working with one's basic self and increasing feelings of self-worth are explicit.
+- **Body/health:** The entry supplies no body or health claim.
+- **Social/relationship:** Contacts and position are named as resources used in relation to self-worth; no particular relationship event is supplied.
+- **Events/manifestations:** Education and credentials are areas of attention, without a prediction of a particular qualification or appointment.
+- **Conflicts/notes:** Only the MC row is represented; the adjacent Asc activation keeps its own wording and focus.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry connects innate qualities with learned credentials and social resources without opposing them. No second source is present to establish agreement or contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Asc/MC = MC`: Focusing on working with one's basic self and developing one's innate talents and attributes; realizing the role that credentials and education play in life; using contacts and position to increase feelings of self-worth.
+In `Asc/MC = MC`, MC specifies the pair through developing innate talents and understanding how education, credentials, contacts, and position contribute to one's life. Munkasey's MC row connects work on the basic self with increased feelings of self-worth through those resources. The passage supports that personal-development focus without predicting a particular career result, and remains distinct from the neighboring Asc self-activation. ([Munkasey entry](#munkasey-entry))
 
 ## Links
 

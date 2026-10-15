@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Uranus](../triads/vernal-point-jupiter-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Sudden good fortune. Increase in property.
 
@@ -42,13 +46,27 @@ Sudden good fortune. Increase in property.
 
 #### ABC Entry
 
+- Source page: 35; PDF page: 16 (one-based spread).
+
 Impulses of success in public, joyful surprise in public, financial reform in public life, new money in public, public funds for technology, public legal reform, and public legal event
+
+## Comparative Schema
+
+- core meaning: Sudden public advantage and reform of financial or legal conditions.
+- psychology: Joyful surprise and impulses toward success are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public funds for technology concern collective resources.
+- events/manifestations: Increased property, new money, and financial or legal reforms.
+- conflicts/notes: These are examples of abrupt benefit, without a supplied timing method.
+
+## Contradictions
+
+No direct contradiction is established. Reform, technology funding, and increased property are distinct settings for favorable change.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Uranus`: sudden good fortune and increase in property.
-- Practical expression: impulses of success in public, oyful surprise in public, financial reform in public life, new money in public, and public funds for technology.
+In `Vernal Point/Jupiter = Uranus`, public success arrives through a fresh impulse or a change in established conditions. The [Witte entry](#witte-entry) names sudden good fortune and increased property. The [ABC entry](#abc-entry) connects joyful surprise with new money, financial reform, technology funding, and legal reform or events. The shared emphasis is an opening created by change rather than a claim about when it must occur.
 
 ## Links
 

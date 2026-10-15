@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun MC Poseidon](../triads/sun-mc-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,17 +40,33 @@ updated_at: 2026-05-04
 
 Union of a delicate body and a delicate, highly sensitive soul.
 
+Source locator: PDF p. 59, Meridian + Sun, Poseidon entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Mind soul in the body, clarity of my husband, body soul spirit, my mind in the body, my mind powerful man, my body culture, my personal knowledge, my per:;onward clarity, minute of truth in the day, and by the spirit smelling body
+Mind-soul in the body, clarity of my husband, body-soul-spirit, my mind in the body, my rational man, my physical culture, my personal insight, my personal clarity, a minute of truth during the day, and a body animated by spirit.
+
+Source locator: printed p. 63, PDF p. 30, Sun/MC, Poseidon entry. Translation checked against the complete German row, including vernünftiger Mann and vom Geist beseelter Körper; Geist retains its mental/spiritual range.
+
+## Comparative Schema
+
+- core meaning: Body and inner life related through sensitivity and understanding.
+- psychology: Personal insight, clarity and a rational man are ABC's explicit themes.
+- body/health: Witte’s delicate body/soul union is an attributed description.
+- social/relationship: No distinct relationship event is established.
+- events/manifestations: Physical culture, a moment of truth and personal understanding are ABC examples.
+- conflicts/notes: The body/soul/spirit relationship is attributed doctrine; no mechanism, diagnosis or timing rule is established.
+
+## Contradictions
+
+The entries share a body-and-inner-life focus without a direct contradiction. Witte emphasizes delicacy and sensitivity; ABC adds reason, insight and clarity within its body/soul/spirit language. These descriptions do not define a bodily or spiritual mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Poseidon`: spiritual purpose becoming a life direction and truth guiding vocation.
-- Practical expression: mind soul in the body, clarity of my husband, body soul spirit, my mind in the body, and my mind powerful man.
+In `Sun/MC = Poseidon`, Poseidon specifies the Sun/MC relation of body and inner life through sensitivity and conscious understanding. The [Witte Entry](#witte-entry) describes a delicate body united with a highly sensitive soul; the [ABC Entry](#abc-entry) places mind or spirit in the body alongside reason, personal insight and clarity. Physical culture and a moment of truth are additional ABC forms. The emphasis is on the experienced relation of body, soul and understanding, with that spiritual language retained as doctrine rather than a medical mechanism or a specific public mission.
 
 ## Links
 

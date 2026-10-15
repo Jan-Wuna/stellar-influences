@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Zeus = Mars`
 - Astronomicon formula: `Y/£ = U`
 - Axis page: [Neptune/Zeus](../axes/neptune-zeus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `249` (entry start; one-based).
+
 #### Witte Entry
 
 Energy or power produced by burning gas or liquid.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `396`, PDF p. `197` (entry).
+
 #### ABC Entry
 
-Effortful future activity, exchangeable work performances, fine tuning creative work, leadership activity in the air, intuitive work design, metaphysical work start, creative work in metaphysics, and weak leadership actions
+Strenuous future activity, disappointing work performance, sensitive creative work, leadership activity in the air, intuitive shaping of work, beginning metaphysical work, creative work in metaphysics, and weak leadership actions
+
+## Comparative Schema
+
+- core meaning: work and energy production with both sensitive creativity and disappointing performance.
+- psychology: intuitive shaping and metaphysical work are named.
+- body/health: no distinct medical mechanism is stated.
+- social/relationship: leadership actions may be weak; a specific relationship type is not given.
+- events/manifestations: Witte names power produced by burning gas or liquid; ABC adds work in the air.
+- conflicts/notes: the combustion example does not make every creative activity volatile or combustible.
+
+## Contradictions
+
+Witte gives a physical energy example. ABC concerns varied kinds of work, including intuitive creativity and weak leadership, without reducing them to combustion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Zeus = Mars`: Energy or power produced by burning gas or liquid.
-- Productive force is generated through volatile or combustible means, emphasizing energy derived from burning gas, liquid fuel, or similar fire-driven processes.
-- Practical expression: effortful future activity, exchangeable work performances, fine tuning creative work, leadership activity in the air, and intuitive work design.
+Neptune/Zeus = Mars places work and the production of energy at the center. [Witte](#witte-entry) specifically names power from burning gas or liquid. [ABC](#abc-entry) broadens the work setting to sensitive creation, intuitive organization and metaphysics, while retaining strenuous effort, disappointing performance and weak leadership actions (printed p. 396, PDF p. 197). These are distinct productive and impaired expressions, without a stated universal mechanism linking creativity to combustion.
 
 ## Links
 

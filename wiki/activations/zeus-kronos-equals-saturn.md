@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Saturn Zeus Kronos](../triads/saturn-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Great successful accomplishments. Big financial institutions. Good luck in warfare.
+- PDF page: 289 (one-based).
+
+To hold money back for savings. To save money. Great losses in war or in the machine industry. To be a replacement, to train replacements, to use replacements.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special creativeness in old age, stratified state goal seeking, loss of fire, concentration on basic achievements, problematic state welfare, self sustaining tasksDesign, self consciousness through patient striving, and important goals in old age
+- Source page: 451; PDF page: 224 (one-based spread).
+
+Special creativity in old age, disturbed state goal striving, great losses through fire, concentration on great achievements, problematic state leadership, independent shaping of tasks, self-confidence through patient striving, and important objectives in old age.
+
+## Comparative Schema
+
+- core meaning: Major activity involves conservation, loss or replacement.
+- psychology: Patient striving, concentration and self-confidence.
+- body/health: Old-age creativity is a source association without a medical claim.
+- social/relationship: Problematic state leadership and replacement personnel.
+- events/manifestations: Saving money, training replacements, industrial or wartime losses and fire losses.
+- conflicts/notes: The prior Witte paragraph was Jupiter’s success row; Saturn’s scan emphasizes saving and replacement.
+
+## Contradictions
+
+Both include losses. Witte gives savings and replacements, while ABC adds patient accomplishment, late-life creativity and disturbed state objectives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Saturn`: Great successful accomplishments. Big financial institutions. Good luck in warfare.
-- Practical expression: special creativeness in old age, stratified state goal seeking, loss of fire, concentration on basic achievements, and problematic state welfare.
+`Zeus/Kronos = Saturn` places major activity under conditions requiring conservation or replacement. Witte gives saving money and training or using replacements, alongside losses in war or the machine industry; ABC adds fire losses and problematic state leadership. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Patient striving, concentration and independent task shaping preserve a constructive response. ABC’s creativity and important objectives in old age remain separate possibilities rather than a promise that loss produces achievement. ([ABC](#abc-entry))
 
 ## Links
 

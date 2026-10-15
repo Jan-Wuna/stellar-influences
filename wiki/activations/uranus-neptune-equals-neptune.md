@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Neptune`
 - Astronomicon formula: `X/Y = Y`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -41,22 +43,21 @@ You are not above using evasion and deception to remove yourself from situations
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Imagination used as a possible refuge from discomfort. ([Munkasey entry](#munkasey-entry).)
+- psychology: Immersion in make-believe and avoidance. ([Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical claim is supplied. ([Munkasey entry](#munkasey-entry).)
+- social/relationship: Evasion of uncomfortable situations involving others. ([Munkasey entry](#munkasey-entry).)
+- events/manifestations: Withdrawal through evasion or deception in the source's account. ([Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Only Munkasey is represented; the evaluative second-person wording is a source claim, not a factual assessment of a person. ([Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's With Itself entry is represented. Its evaluative second-person wording is an attributed claim; imagination and evasive withdrawal do not establish a factual judgment about a person.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Neptune`: one is not above using evasion and deception to remove oneself from situations which one find uncomfortable; one has a great imagination and the world of make-believe and the made up are just as real for one as life.
+Neptune specifies Uranus/Neptune through imagination that can become a refuge from an uncomfortable situation. Munkasey's sole entry links a vivid world of make-believe with evasion or deception as possible ways of withdrawing. The repeated Neptune keeps that tension between imagination and escape in focus; it does not establish that a particular person is deceptive or unable to distinguish reality. ([Munkasey entry](#munkasey-entry).)
 
 ## Links
 

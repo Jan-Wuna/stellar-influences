@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Venus Mars Cupido](../triads/venus-mars-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ Close acquaintance through art, family or working together. To marry for love. L
 
 Work of a peace community, joy of working together, desire for common peace, common love impulses, harmonious community activity, artistic work community, and preference for common work
 
+## Comparative Schema
+
+- core meaning: Shared activity draws people together through affection, harmony or enjoyment.
+- psychology: Joy in cooperation and a preference for working together are explicit.
+- body/health: No bodily condition is supplied.
+- social/relationship: Close acquaintance, family connection and marrying for love are Witte examples.
+- events/manifestations: Artistic cooperation and peace work are ABC settings.
+- conflicts/notes: The entries describe affectionate cooperation without excluding duty or guaranteeing lasting harmony.
+
+## Contradictions
+
+The entries share an affectionate and harmonious cooperative theme; their examples differ without a direct disagreement.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Venus`: cooperative bonds that become intimate, artistic association that draws people together, and partnership animated by affection rather than duty alone.
+Venus specifies the Mars/Cupido axis through the pleasure and affection found in shared activity. Close acquaintance through art, family or work and marriage for love in [Witte](#witte-entry) connect with enjoyment of cooperation, artistic community and peace work in [ABC](#abc-entry). The supported emphasis is willing, harmonious participation, without a promise that every partnership stays harmonious.
+
+Evidence: Witte PDF p. 197; ABC printed p. 308, PDF p. 153.
 
 ## Links
 

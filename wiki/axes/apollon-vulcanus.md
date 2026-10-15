@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¥/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `307` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Strongest success. Great prosperity. Wealth. Mighty spreading out expansion. Gre
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `470`; PDF page: `234` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Influence of science, influence enlargement, energy trade, energy fillle, violence experience, enormous success, trade power, power proliferation, powerA..usdehm, mg, power of knowledge, and power fillle
+German pair summary (transcribed from printed page `470`; PDF page `234`):
+
+> Einfluß der Wissenschaft, Einfluß-Erweiterung, Energie-Handel, Energie-Fülle, Gewalt-Erfahrung, gewaltiger Erfolg, Handels-Macht, Kraft-Vermehrung, Macht-Ausdehnung, Macht des Wissens, Macht-Fülle, starker Erfolg, zunehmende Gewalt
+
+Editorial translation from the German passage: The influence of science; expansion of influence; trade in energy; abundance of energy; experience of violence; great success; commercial power; increase of strength; expansion of power; the power of knowledge; abundance of power; strong success; increasing violence.
+
+## Comparative Schema
+
+- Core meaning: Great success and expansion connect with power, influence, and energy in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Great experience and the power of knowledge are explicit; a fuller personality profile is not supplied.
+- Body/health: Energy is named, but neither pair entry gives a clinical mechanism or bodily correspondence.
+- Social/relationship: Influence through science, knowledge, and commerce is supported; no particular personal relationship pattern is specified.
+- Events/manifestations: Wealth, prosperity, mighty expansion, the science of power, and trading in energy are explicit in the [Pair Summary](#pair-summary).
+- Conflicts/notes: ABC names strong success alongside experiences of violence and increasing violence. Success and harmful force remain distinct possibilities; no specific violent act is supplied.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Influence of science, influence enlargement, energy trade, energy fillle, violen
 - [Apollon/Vulcanus = Vernal Point](../activations/apollon-vulcanus-equals-vernal-point.md)
 - [Apollon/Vulcanus = Zeus](../activations/apollon-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+Success, expansion and influence form the shared emphasis, while ABC also names experience of violence and increasing violence. These adverse possibilities cannot be flattened into a uniformly favorable meaning.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Vulcanus`: powerful success: wealth, influence, mighty enlargement, energy-rich enterprise, and expansion backed by real force.
-- Chart expression: large-scale effectiveness, strong prosperity, impact, resource power, and the capacity to turn scale into decisive influence. Liabilities: force-backed overreach, inflation, domination, and the risk that prosperity becomes too pressured, too aggressive, or too dependent on raw power to remain stable.
+`Apollon/Vulcanus` describes expansion and success associated with substantial power and influence. Wealth, prosperity, and mighty spreading out are explicit in the [Pair Summary](#pair-summary); the [ABC Pair Summary](#abc-pair-summary) connects influence with science, knowledge, commerce, and increasing force. The specific associations with the science of power and trading in energy keep the reading concrete. The shared theme is power operating through an enlarged field of activity; ABC's separate violence examples prevent success from becoming a uniformly favorable verdict.
 
 ## Links
 

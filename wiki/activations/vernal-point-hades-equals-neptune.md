@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Neptune Hades](../triads/vernal-point-neptune-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Serious, fatal or unknown diseases.
 
@@ -42,13 +46,27 @@ Serious, fatal or unknown diseases.
 
 #### ABC Entry
 
-Air pollution in public, water shortage in public, creeping disadvantages in public life, and insecurity in public life by criminality hidden exchange in public life
+- Source page: 47; PDF page: 22 (one-based spread).
+
+Air pollution in public, water shortage in public, creeping disadvantages in public life, insecurity in public life through criminality, and hidden disappointment in public life
+
+## Comparative Schema
+
+- core meaning: Hidden or creeping public disadvantage, with environmental and historical illness associations.
+- psychology: Insecurity and concealed disappointment.
+- body/health: Witte's serious, fatal, or unknown disease language is historical doctrine, not a diagnosis or forecast.
+- social/relationship: Public insecurity linked by ABC to criminality.
+- events/manifestations: Air pollution and water shortage.
+- conflicts/notes: The entries do not establish that the listed environmental conditions cause the historical disease claim.
+
+## Contradictions
+
+The medical and public environmental entries concern different levels. Their juxtaposition is not evidence of a medical mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Neptune`: serious, fatal or unknown diseases.
-- Practical expression: air pollution in public, water shortage in public, creeping disadvantages in public life, and insecurity in public life by criminality hidden exchange in public life.
+In `Vernal Point/Hades = Neptune`, Neptune specifies the pair through public problems that are hidden, creeping, or uncertain. The [ABC entry](#abc-entry) makes this concrete in pollution, water shortage, insecurity, and concealed disappointment. The [Witte entry](#witte-entry) supplies a historical disease association. It remains attributed doctrine; the entries provide neither a diagnosis nor a demonstrated causal link from the environmental examples to illness.
 
 ## Links
 

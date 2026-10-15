@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Jupiter`
 - Astronomicon formula: `VP/¡ = V`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -44,11 +46,23 @@ Banks. Financial institutions.
 
 Community of Success in the Public, Successful Community of art, Joint Joy in the Public, Public Finance Community, and Legal Community in the Public Life
 
+## Comparative Schema
+
+- Core meaning: Public community organized around finance, success, or shared enjoyment.
+- Psychology: Joint joy is an ABC theme.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Successful artistic, financial, or legal communities.
+- Events/manifestations: Banks and financial institutions.
+- Conflicts/notes: The broader ABC themes do not make every successful group a bank.
+
+## Contradictions
+
+No direct conflict appears; financial institutions are a specific Witte example within a wider ABC range of shared benefit.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Jupiter`: banks and financial institutions.
-- Practical expression: community of Success in the Public, successful Community of art, joint Joy in the Public, public Finance Community, and legal Community in the Public Life.
+Jupiter specifies `Vernal Point/Cupido` through collective public benefit: financial institutions, successful communities, and shared enjoyment. Banks give the Witte entry a precise institutional expression, while the ABC also includes artistic success and legal community. Their shared setting is public association around resources or favorable results. ([Witte entry](#witte-entry), PDF p. 48; [ABC entry](#abc-entry), printed p. 44 / PDF p. 21.)
 
 ## Links
 

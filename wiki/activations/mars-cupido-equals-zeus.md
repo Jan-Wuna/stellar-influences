@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Mars Cupido Zeus](../triads/mars-cupido-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ Results of a joint work. Procreation in married life. Marriage because of procre
 
 #### ABC Entry
 
-Effortful community work, preparation of a work community, joint work performances, joint generation will, creative action community, creative work community, and goals of a work community
+Strenuous community work, leadership of a work community, shared work achievements, a shared will to procreate, a creative action community, a creative work community, and a work community's goals.
+
+- Source reference: printed p. 309, PDF p. 153, Zeus row; `Führung` means leadership, and `Zeugungs-Wille` means will to procreate.
+
+## Comparative Schema
+
+- core meaning: Shared work is directed toward achievement, creation or procreation.
+- psychology: Common goals and will to procreate are ABC themes.
+- body/health: Procreation is named without a medical condition or reproductive prediction.
+- social/relationship: Married procreation, marriage because of procreation and forced marriage are Witte examples.
+- events/manifestations: Joint work results, work leadership, company fire and military training are retained.
+- conflicts/notes: Forced marriage, fire and training are particular manifestations; they do not characterize every creative group effort.
+
+## Contradictions
+
+Creative achievement and compulsion are different forms within the source range. Neither entry makes coercion a necessary condition for producing a result.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Zeus`: marriage driven by pregnancy or creation, communal work that produces tangible outcomes, and the hotter side of family or company life, including coercion, military training, or disruptive fire.
+Zeus specifies the Mars/Cupido axis through shared activity directed toward results and creation. Joint work results in [Witte](#witte-entry) connect with leadership, achievements and creative work communities in [ABC](#abc-entry). Both retain procreation, while Witte also names forced marriage, company fire and military training. These distinct examples preserve the difficult range without making every productive undertaking coercive or dangerous.
+
+Evidence: Witte PDF p. 197; ABC printed p. 309, PDF p. 153.
 
 ## Links
 

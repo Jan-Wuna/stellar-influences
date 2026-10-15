@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
 - Triad hub: [Sun Mars Uranus](../triads/sun-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Uranus,” PDF p. 194.
 
 Sudden bodily action. The energetic or fierce man. Sudden injury to the body.
 
@@ -45,17 +49,23 @@ Sudden bodily action. The energetic or fierce man. Sudden injury to the body.
 
 #### ABC Entry
 
+Source: “Mars + Uranus,” printed p. 302 (PDF p. 150).
+
 excited acting person, dynamic will of a man, nervously acting man, personal work rhythm, technical work center, technically active person, center for new work, and center for rhythmic activity
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Uranus,” printed p. 208, entry0711.
+
 A sound physique capable of sudden extra effort, a person who is able to act quickly. A sudden adjustment to new circumstances and conditions in life, injury, accident, operation, birth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Uranus midpoint,” Sun entry, PDF p. 71.
 
 One need to pursue one’s goals in one’s own independent way. It is important to one to be able to experiment in life.
 
@@ -70,22 +80,23 @@ Implementing needed corrections or changes effectively and with determination; f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quick bodily action and independent, experimental pursuit of personal goals.
+- psychology: Determination to make changes and uphold firm rules of conduct.
+- body/health: Witte and Ebertin historically associate sudden effort with injury, operations, accidents, or birth; these are source claims.
+- social/relationship: Personal boundaries and influence with scientific people in Munkasey's entry.
+- events/manifestations: Sudden adjustment, rhythmic or technical work, and new forms of activity.
+- conflicts/notes: Capability for extra effort and vulnerability to injury are distinct possibilities; the entries do not establish that independence causes harm.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap on quick or independent action but differ in emphasis: bodily events, technical work, experimentation, and personal rules each retain their own scope.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Sun`: quick physical response, experimental goals, and a life pattern shaped by sudden effort, new directions, and a refusal to be slowed by convention. Main caution: bodily overstrain: abrupt action and fierce independence can bring injury, accident, or forced intervention.
+In `Mars/Uranus = Sun`, Sun specifies sudden and dynamic activity through personal effort, bodily response, and the pursuit of one's goals. ABC includes rhythmic or technical work; Sandbach emphasizes experimenting in one's own independent way. Munkasey adds effective correction of circumstances and firm personal rules, giving this quick response a deliberate as well as spontaneous form. ([ABC](#abc-entry), printed p. 302 / PDF p. 150; [Sandbach](#sandbach-entry), PDF p. 71; [Munkasey](#munkasey-entry), printed p. 232)
+
+Witte and Ebertin describe both energetic capacity and abrupt bodily events, including injury, medical intervention, and birth. Those historical associations remain possibilities within their entries; they do not establish a causal path from independence or experimentation to injury. ([Witte](#witte-entry), PDF p. 194; [Ebertin](#ebertin-entry), printed p. 208, entry0711)
 
 ## Links
 

@@ -1,0 +1,8 @@
+﻿Scenario: Banzhaf/Haebler source page must not list Asc/MC as standalone factor coverage.
+Invocation: rg -n '^- \[Asc\]|^- \[MC\]|^  - Asc$|^  - MC$' wiki/sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md
+Asc/MC standalone coverage matches: 0
+Relevant lines:
+8:  - Sun
+18:  - Node
+35:- Asc and MC were ingested only as axis participants; no standalone Asc or MC factor pages were created or covered.
+37:## Factors Covered

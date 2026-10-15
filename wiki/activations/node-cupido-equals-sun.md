@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Sun Node Cupido](../triads/sun-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Marriages. Forms of society. Associations.
 
 #### ABC Entry
 
-Relations with the whole Community, meetings in a men's community, contact with a art Centre, personal relations with a men's community, and relations with a men's community
+- Source passage: `Mondknoten + Cupido`; printed p. `224`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Relationship with the whole human being, encounters within a men's community, contact with an art center, community for mediating personal contacts (Personen-Vermittlungs-Gemeinschaft), personal relationships with art, connections within a community of people.
+
+## Comparative Schema
+
+- core meaning: Participation in marriage, association, or an organized social whole.
+- psychology: No separate psychological disposition is stated.
+- body/health: No bodily or health condition is described.
+- social/relationship: Marriage and associations in Witte; ABC also gives personal communities, artistic contacts and one men's-community example.
+- events/manifestations: Contact with an art centre and forms of society.
+- conflicts/notes: ABC separately names a whole human being, one men's-community example, art and a community mediating personal contacts. The single gendered example does not replace the other personal or artistic connections.
+
+## Contradictions
+
+Witte names broad forms of association. ABC's men's-group example is one setting beside whole-person, personal-community and art-related connections.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Sun`: Marriages. Forms of society. Associations.
-- Practical focus: marriages; also forms of society.
+Sun specifies Node/Cupido through participation in a shared social body. The [Witte entry](#witte-entry) names marriage, associations, and forms of society. The [ABC entry](#abc-entry) adds relationship with a whole person, a community mediating personal contacts, art and one men's-community example. These distinct settings do not establish a universal psychological or gender rule.
 
 ## Links
 

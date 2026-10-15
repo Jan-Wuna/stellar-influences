@@ -1,0 +1,3165 @@
+{
+  "scope": "Targeted closure of existing source-quality flags. These are verification leads, not confirmed defects or new full-page reviews.",
+  "group": "A",
+  "canonical_targets": 168,
+  "ledger_exclusivity": "Editor owns only canonical targets and activation ledger range assigned by root; cross-holder notes route to their current owner. No global allowance writes.",
+  "targets": [
+    {
+      "path": "wiki/activations/admetos-vulcanus-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-001.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/admetos-vulcanus-poseidon.md",
+          "text": "Admetos/Vulcanus = Poseidon: ABC Entry retains damaged wording \"!dee\" and \"vemitive\"; no interpretation is carried into the hub.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/apollon-admetos-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-002.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/apollon-admetos-vulcanus.md",
+          "text": "Apollon/Admetos = Vulcanus: ABC Entry retains damaged wording \"grinndlichkeit\" and \"power bulb\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC does not explain the physical/metaphysical scope of Urstoff-Energien; rendered literally and not expanded."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-vulcanus-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "recorded_reviewer": "resume_leaf_a003_006_009",
+      "issues": [
+        {
+          "holder": "wiki/triads/apollon-admetos-vulcanus.md",
+          "text": "Apollon/Vulcanus = Admetos: ABC Entry retains damaged wording \"grild\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-admetos-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-mc-admetos.md",
+          "text": "Asc/Admetos = MC: ABC Entry says \"seams on top\"; parser native text \"siche oben\" is a cross-reference, not a resolved standalone meaning.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-admetos-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-003.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-zeus-admetos.md",
+          "text": "Asc/Admetos = Zeus: ABC Entry retains damaged or suspect wording \"Rer\" and \"Greek environmental services\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-apollon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/pluto-asc-apollon.md",
+          "text": "Asc/Apollon = Pluto retains an unresolved leading Witte/parser “B” marker. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-004.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-asc-apollon.md",
+          "text": "Vernal Point/Apollon = Asc excludes a damaged ABC clause. Asc/Apollon = Vernal Point separately reports a completed scan repair. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-asc-apollon.md",
+          "text": "Vernal Point/Apollon = Asc excludes a damaged ABC clause. Asc/Apollon = Vernal Point separately reports a completed scan repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-cupido-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "recorded_reviewer": "leaf_005",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-asc-cupido.md",
+          "text": "The current Asc/Cupido = Vernal Point ABC entry corrects the inherited printed-page locator from 121 to 122, PDF 60; the corrected locator is shown above. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-asc-cupido.md",
+          "text": "The current Asc/Cupido = Vernal Point ABC entry corrects the inherited printed-page locator from 121 to 122, PDF 60; the corrected locator is shown above.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/asc-kronos-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-kronos-admetos.md",
+          "text": "Asc/Kronos = Admetos: ABC Entry retains damaged wording \"grtindliche\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Besondere Vertiefung am Ort is retained as special local deepening; source supplies no narrower domain."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-kronos-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-mc-kronos.md",
+          "text": "Asc/Kronos = MC: ABC Entry retains damaged wording \"mcincs\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Special/important minute at the place and partner inner greatness have no further explanation here; no timing method added."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-kronos-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-kronos-poseidon.md",
+          "text": "Asc/Kronos = Poseidon: ABC Entry retains damaged wording \"ienkens\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Geistig retains intellectual/spiritual range; no narrower domain is defined here."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-mc-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-005.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-mc-kronos.md",
+          "text": "Asc/MC = Kronos: ABC Entry retains damaged wording \"Y orrang\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Special minute and partner inner authority are undefined beyond the listed clauses; no timing method or narrower doctrine inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-poseidon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-admetos-poseidon.md",
+          "text": "Asc/Poseidon = Admetos: ABC Entry retains damaged wording \"vemUnftiger environment Kirlauf\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Reasonable cycle of the surroundings is unexplained; blockage and consolidation are not described as a causal sequence."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-poseidon-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-cupido-poseidon.md",
+          "text": "Asc/Poseidon = Cupido: ABC Entry retains damaged wording \"idccllc\" and \"Synthcsc\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "The entries do not explain how cultural synthesis or community agreement is maintained."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-poseidon-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-mc-poseidon.md",
+          "text": "Asc/Poseidon = MC: ABC Entry retains damaged or suspect wording \"Besekltc\", \"bcselter\", \"fdeen\", \"mcines\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ensouled and spiritualized cultural wording gives no further mechanism; influence's strength or practical form is unstated."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-poseidon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/activations/asc-poseidon-equals-venus.md",
+          "text": "Love culture specifies no practice or relationship form.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Love culture specifies no practice or relationship form."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-poseidon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-zeus-poseidon.md",
+          "text": "Asc/Poseidon = Zeus: ABC Entry retains damaged or suspect wording \"Fundende\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "The goal content and practical shaping/guidance method are unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-vulcanus-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-kronos-vulcanus.md",
+          "text": "Asc/Vulcanus = Kronos: ABC Entry retains suspect translation \"self indigenous partner\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Spatial energy is undefined; authority's temperament is unstated."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-vulcanus-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-mc-vulcanus.md",
+          "text": "Asc/Vulcanus = MC: ABC Entry retains damaged or suspect wording \"bcim Parincr\" and \"scelic\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Spatial energy and strong partner soul have no further mechanism; demand source/type is unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/asc-zeus-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-006.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-zeus-admetos.md",
+          "text": "Asc/Zeus = Admetos: ABC Entry retains damaged or suspect wording \"grilndliche\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Beginning depressions has no clinical definition or stated cause; agent blocking surrounding efforts is unspecified."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-008.jsonl",
+      "recorded_reviewer": "activation_review_008_009",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-kronos-admetos.md",
+          "text": "Cupido/Admetos = Kronos: ABC Entry retains suspect translation \"self indigenous community\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-admetos-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-008.jsonl",
+      "recorded_reviewer": "activation_review_008_009",
+      "issues": [
+        {
+          "holder": "wiki/triads/neptune-cupido-admetos.md",
+          "text": "Cupido/Admetos = Neptune ABC printed433/PDF215 retains separators only; no delineation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-hades-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-009.jsonl",
+      "recorded_reviewer": "activation_review_008_009",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-hades-kronos.md",
+          "text": "Cupido/Hades = Kronos: ABC Entry contains generic \"Community policy, economic and social cohesion, and structural policy\" rather than the retained German passage beginning \"Benachteiligte Selbstandigkeit einer Gemeinschaft\" (printed 425/PDF 211).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-010.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-kronos-admetos.md",
+          "text": "Cupido/Kronos = Admetos: ABC Entry retains damaged wording \"grilndlich\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-kronos-equals-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-010.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-kronos-apollon.md",
+          "text": "Cupido/Kronos = Apollon: ABC Entry contains generic monetary-union wording rather than the retained German passage beginning \"Ansehen einer wissenschaftlichen Gemeinschaft\" (printed 429/PDF 213).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-010.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-cupido-poseidon.md",
+          "text": "Cupido/Poseidon = Asc: ABC Entry retains damaged wording \"Illir\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/cupido-poseidon-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-010.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/activations/cupido-poseidon-equals-hades.md",
+          "text": "Actual Witte printed278/PDF274 Hades row itself reads 'Associations which represent a certain philosophy of life or an ideology, on the stupidity and ignorance of their members.' The connecting clause is grammatically incomplete in the scan; retained and bounded rather than reconstructed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Actual Witte printed278/PDF274 Hades row itself reads 'Associations which represent a certain philosophy of life or an ideology, on the stupidity and ignorance of their members.' The connecting clause is grammatically incomplete in the scan; retained and bounded rather than reconstructed."
+      ]
+    },
+    {
+      "path": "wiki/activations/cupido-zeus-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-011.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-hades-zeus.md",
+          "text": "Cupido/Zeus = Hades: ABC Entry contains generic \"Community policy and economic and monetary union\" rather than the retained German passage beginning \"Gefahrliche Ziele einer Gemeinschaft\" (printed 427/PDF 212).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-011.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/mc-hades-admetos.md",
+          "text": "Hades/Admetos = MC ABC printed444/PDF221 retains my lack of digestor; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-admetos-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-011.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/neptune-hades-admetos.md",
+          "text": "Hades/Admetos = Neptune Witte PDF282 retains Achange/lack of A clarity.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/neptune-hades-admetos.md",
+          "text": "Hades/Admetos = Neptune ABC printed445/PDF221 retains gfahrdcter.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-012.jsonl",
+      "recorded_reviewer": "activations-012-022; /root/activation_review_010_012 targeted source repair",
+      "issues": [
+        {
+          "holder": "wiki/triads/neptune-hades-apollon.md",
+          "text": "Hades/Apollon = Neptune ABC printed443/PDF220 dangerous weak phrase unverified.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-012.jsonl",
+      "recorded_reviewer": "activations-012-022; /root/activation_review_010_012 targeted source repair",
+      "issues": [
+        {
+          "holder": "wiki/triads/sun-hades-apollon.md",
+          "text": "Hades/Apollon = Sun explicitly qualifies damaged English in its source comparison. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-012.jsonl",
+      "recorded_reviewer": "activations-012-022; /root/activation_review_010_012 targeted source repair",
+      "issues": [
+        {
+          "holder": "wiki/triads/uranus-hades-apollon.md",
+          "text": "Hades/Apollon = Uranus qualifies ABC's rhythm-cancellations wording as unreliable. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/uranus-hades-apollon.md",
+          "text": "Hades/Apollon = Uranus qualifies ABC's rhythm-cancellations wording as unreliable.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-012.jsonl",
+      "recorded_reviewer": "activations-012-022; /root/activation_review_010_012 targeted source repair",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-hades-apollon.md",
+          "text": "Hades/Apollon = Vernal Point excludes unreliable ABC English about freedom and public experience; exact translation remains unresolved. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-hades-apollon.md",
+          "text": "Hades/Apollon = Vernal Point excludes unreliable ABC English about freedom and public experience; exact translation remains unresolved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-012.jsonl",
+      "recorded_reviewer": "/root/activation_review_010_012",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-hades-kronos.md",
+          "text": "Hades/Kronos = Asc: ABC Entry contains only separator marks; the source locator does not establish a readable claim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-kronos-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-kronos-equals-zeus.md",
+          "text": "ABC omitted fire and damaged leadership clauses require raw verification; no source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC omitted fire and damaged leadership clauses require raw verification; no source repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-admetos.md",
+          "text": "ABC serious limitation severity unsupported by damaged cached adjective; excluded pending raw check.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC serious limitation severity unsupported by damaged cached adjective; excluded pending raw check."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-asc.md",
+          "text": "kulturclle Vcrgangcnhcit, Vemunft-Mangel and service clause need raw verification; excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "kulturclle Vcrgangcnhcit, Vemunft-Mangel and service clause need raw verification; excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-jupiter.md",
+          "text": "ABC dangerous legal culture versus gefahrdete Rechts-Kultur preserved pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC dangerous legal culture versus gefahrdete Rechts-Kultur preserved pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-kronos.md",
+          "text": "ABC authoritarianism and damaged Vemunft/Hierarchic preserved; problematic span excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC authoritarianism and damaged Vemunft/Hierarchic preserved; problematic span excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-mars.md",
+          "text": "ABC Bemi.ihungen um Vemunft and Entbehrungen clauses require raw verification; sources preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Bemi.ihungen um Vemunft and Entbehrungen clauses require raw verification; sources preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-mc.md",
+          "text": "Gefahr Hir Seel ~ unJ Geist and final renunciation clause remain damaged; no reconstruction.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Gefahr Hir Seel ~ unJ Geist and final renunciation clause remain damaged; no reconstruction."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-mercury.md",
+          "text": "talk about the indomitable V versus vemUnftiger V erzicht auf Gesprache requires raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "talk about the indomitable V versus vemUnftiger V erzicht auf Gesprache requires raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-moon.md",
+          "text": "hidden clearly and poor renunciation of a woman excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "hidden clearly and poor renunciation of a woman excluded pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-node.md",
+          "text": "Vemunft-Mangel and vemUnftiger Verzicht auf cine Verbindung require raw verification; communication gloss excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/node-hades-poseidon.md",
+          "text": "Hades/Poseidon = Node leaves two ABC clauses unresolved; Node/Hades = Poseidon qualifies damaged “Y bond” wording. The activation owner retains the source-text qualification; no raw-source repair was attempted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Vemunft-Mangel and vemUnftiger Verzicht auf cine Verbindung require raw verification; communication gloss excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-pluto.md",
+          "text": "Witte E and ABC Past versus Neptune incomplete tail require raw boundary verification; no reconstruction.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte E and ABC Past versus Neptune incomplete tail require raw boundary verification; no reconstruction."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-saturn.md",
+          "text": "geistige Rei fe and mangelnde Vemunft translations require raw verification; excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "geistige Rei fe and mangelnde Vemunft translations require raw verification; excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-sun.md",
+          "text": "lack of human courage excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "lack of human courage excluded pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-uranus.md",
+          "text": "communication/emancipation/dangerous renewal/urgent renunciation phrases require raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "communication/emancipation/dangerous renewal/urgent renunciation phrases require raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-venus.md",
+          "text": "lack of love versus VemunftMangel in der Liebe preserved and excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "lack of love versus VemunftMangel in der Liebe preserved and excluded pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-vernal-point.md",
+          "text": "ABC repeated in the public sphere translation remains lossy; omitted claims not reconstructed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-hades-poseidon.md",
+          "text": "Hades/Poseidon = Vernal Point has extensively repeated ABC wording that loses several German clauses; this source entry is present but its English coverage is damaged. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-hades-poseidon.md",
+          "text": "Hades/Poseidon = Vernal Point has extensively repeated ABC wording that loses several German clauses; this source entry is present but its English coverage is damaged.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC repeated in the public sphere translation remains lossy; omitted claims not reconstructed."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-vulcanus.md",
+          "text": "vettinous influence and violenceCriminality excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "vettinous influence and violenceCriminality excluded pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-poseidon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-poseidon-equals-zeus.md",
+          "text": "lack of clarity of movement excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "lack of clarity of movement excluded pending raw verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/triads/cupido-hades-vulcanus.md",
+          "text": "Hades/Vulcanus = Cupido: Witte Entry retains a stray initial \"E Evil things\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Energie-Dienst-Gemeinschaft is retained literally as energy-service community; its precise function is undefined by the row."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_013_014",
+      "issues": [
+        {
+          "holder": "wiki/activations/hades-vulcanus-equals-kronos.md",
+          "text": "ABC final renunciation wording remains awkward; source preserved without raw repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC final renunciation wording remains awkward; source preserved without raw repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/sun-hades-vulcanus.md",
+          "text": "Hades/Vulcanus = Sun qualifies damaged ABC wording; Sun/Vulcanus = Hades excludes unclear ABC “personal power dispensation,” “body crafl,” and criminal-community fragments. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-vulcanus-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_review_001_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/uranus-hades-vulcanus.md",
+          "text": "Hades/Vulcanus = Uranus excludes damaged ABC grief/energy clauses; no source repair is asserted. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/uranus-hades-vulcanus.md",
+          "text": "Hades/Vulcanus = Uranus excludes damaged ABC grief/energy clauses; no source repair is asserted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/hades-zeus-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "recorded_reviewer": "activation_review_013_015",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-hades-zeus.md",
+          "text": "Hades/Zeus = Asc: ABC Entry retains damaged wording \"fohnmg\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "resume_a015_017",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-asc-equals-mc.md",
+          "text": "ABC PDF 55/printed 112: `Geld mcincs Partners`, `scclischcs Gluck` remain damaged; Sandbach PDF 85 is chapter start only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-asc-mc.md",
+          "text": "Jupiter/Asc = MC ABC printed p.112/PDF55 retains mcincs/GIUcks; Jupiter/MC = Asc ABC printed p.74/PDF36 retains frcude and happiness's minute; linked activation notes exclude these damaged words.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC PDF 55/printed 112: `Geld mcincs Partners`, `scclischcs Gluck` remain damaged; Sandbach PDF 85 is chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "resume_a015_017",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-asc-equals-mercury.md",
+          "text": "ABC PDF 55/printed 112 final `Y orteil <lurch jungen Partner` remains damaged; Sandbach PDF 85 is chapter start only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC PDF 55/printed 112 final `Y orteil <lurch jungen Partner` remains damaged; Sandbach PDF 85 is chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "resume_a015_017",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-asc-equals-vernal-point.md",
+          "text": "ABC PDF 55/printed 112 includes damaged `Frfolg im Umfcld Jcr Offcntlichkeit`; no unsupported reconstruction made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-asc.md",
+          "text": "Jupiter/Asc = Vernal Point has damaged ABC tokens and explicitly unverified parser locators; its source heading does not certify intact wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-asc.md",
+          "text": "Jupiter/Asc = Vernal Point has damaged ABC tokens and explicitly unverified parser locators; its source heading does not certify intact wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC PDF 55/printed 112 includes damaged `Frfolg im Umfcld Jcr Offcntlichkeit`; no unsupported reconstruction made."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "resume_a015_017",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-asc-equals-vulcanus.md",
+          "text": "ABC PDF 55/printed 113 `Rechts-Gewalt` has ambiguous law-violence translation; `Eintluf3` remains OCR damage.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC PDF 55/printed 113 `Rechts-Gewalt` has ambiguous law-violence translation; `Eintluf3` remains OCR damage."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "activation_review_013_015",
+      "issues": [
+        {
+          "holder": "wiki/triads/venus-jupiter-cupido.md",
+          "text": "Jupiter/Cupido = Venus excludes a damaged ABC happy-love-community phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-jupiter-cupido.md",
+          "text": "Jupiter/Cupido = Venus excludes a damaged ABC happy-love-community phrase.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-015.jsonl",
+      "recorded_reviewer": "activation_review_013_015",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-cupido.md",
+          "text": "Jupiter/Cupido = Vernal Point has unusable ABC fragments and repeated wording. Its ABC heading records an entry whose current English cannot corroborate Witte; locators are explicitly unverified. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-cupido.md",
+          "text": "Jupiter/Cupido = Vernal Point has unusable ABC fragments and repeated wording. Its ABC heading records an entry whose current English cannot corroborate Witte; locators are explicitly unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-kronos-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-016.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-pluto-kronos.md",
+          "text": "Jupiter/Kronos = Pluto ABC printed339/PDF168 begins wrinkling; wording/completeness need source verification.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-asc.md",
+          "text": "ABC p. 74: `frcude`, `happiness's minute`, `my place right`; normalized German includes `Frcude`, `dcm`, `Orts-Recht`; preserved, excluded from confident synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-asc-mc.md",
+          "text": "Jupiter/Asc = MC ABC printed p.112/PDF55 retains mcincs/GIUcks; Jupiter/MC = Asc ABC printed p.74/PDF36 retains frcude and happiness's minute; linked activation notes exclude these damaged words.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: `frcude`, `happiness's minute`, `my place right`; normalized German includes `Frcude`, `dcm`, `Orts-Recht`; preserved, excluded from confident synthesis.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-kronos.md",
+          "text": "ABC p. 75: `my legal state` renders normalized `mein Rechts-Staat`; specific meaning remains uncertain without source verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `my legal state` renders normalized `mein Rechts-Staat`; specific meaning remains uncertain without source verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-mars.md",
+          "text": "ABC p. 74: stray quote in `my money works\"` and normalized `Schaffen,,,mein Geld arbeitet\"`; punctuation unresolved, not repaired.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-jupiter-mc.md",
+          "text": "Jupiter/MC = Mars ABC printed74/PDF36 retains broken punctuation around my money works.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: stray quote in `my money works\"` and normalized `Schaffen,,,mein Geld arbeitet\"`; punctuation unresolved, not repaired.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-moon.md",
+          "text": "ABC p. 74: `happiness's minute`, `my right feeling`; normalized `GIUcks-Minute`, `Rechts-Geftihl` remain translation/OCR uncertainties.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: `happiness's minute`, `my right feeling`; normalized `GIUcks-Minute`, `Rechts-Geftihl` remain translation/OCR uncertainties.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-neptune.md",
+          "text": "ABC p. 75: `my exchange over the right`, `my poor happiness`, `my weak for money` diverge from or obscure cached German; no repair without raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `my exchange over the right`, `my poor happiness`, `my weak for money` diverge from or obscure cached German; no repair without raw verification.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-node.md",
+          "text": "ABC p. 74: `Glucks minute` retained as untranslated/awkward wording; no timing inference.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-node-mc.md",
+          "text": "Jupiter/MC = Node ABC printed74/PDF36 flags untranslated Glucks minute; source wording requires verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: `Glucks minute` retained as untranslated/awkward wording; no timing inference.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-pluto.md",
+          "text": "ABC p. 75: `my changes through the right` is an unresolved literal translation; preserved without interpretive expansion.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `my changes through the right` is an unresolved literal translation; preserved without interpretive expansion.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-poseidon.md",
+          "text": "ABC p. 75: `gltick`, `gltcks minute`; normalized German includes `Gltick`, `<lurch`; preserved without repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-mc-poseidon.md",
+          "text": "Jupiter/Poseidon = MC ABC printed346/PDF172 retains spirit schele/speleen joy/mcinc Frcude, excluded by the linked activation; Jupiter/MC = Poseidon printed75/PDF36 retains gltick. Source wording needs verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `gltick`, `gltcks minute`; normalized German includes `Gltick`, `<lurch`; preserved without repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-saturn-mc.md",
+          "text": "Jupiter/MC = Saturn ABC printed75/PDF36 retains my pain money as an unresolved literal rendering of Schmerzens-Geld.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75 `my pain money`/`Schmerzens-Geld` remains an unresolved literal translation; Sandbach `pa tience` is a word-break artifact.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-sun.md",
+          "text": "ABC p. 74: `celebrated person` versus normalized `bescelten Person`; `mental condition` versus `seelische Zufricdenheit`; source English preserved and excluded from confident synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-jupiter-mc.md",
+          "text": "Coverage limitation: `Jupiter/MC = Sun` excludes damaged ABC “celebrated person” and “mental condition” renderings; its local note retains printed p. `74` as the unresolved translation's locator.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: `celebrated person` versus normalized `bescelten Person`; `mental condition` versus `seelische Zufricdenheit`; source English preserved and excluded from confident synthesis.",
+        "Sandbach PDF p. 86 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/triads/venus-jupiter-mc.md",
+          "text": "Jupiter/MC = Venus excludes unresolved ABC Kunst/kiss mistranslations (printed p.74). Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-jupiter-mc.md",
+          "text": "Jupiter/MC = Venus excludes unresolved ABC Kunst/kiss mistranslations (printed p.74).",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-vernal-point.md",
+          "text": "ABC p. 74: `my right to life` rests on damaged `mein Mfcntl iches Recht`; native public-finance tail also heavily damaged; no repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-mc.md",
+          "text": "Jupiter/MC = Vernal Point excludes a severely damaged ABC phrase; the unresolved wording does not supply an additional claim. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-mc.md",
+          "text": "Jupiter/MC = Vernal Point excludes a severely damaged ABC phrase; the unresolved wording does not supply an additional claim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 74: `my right to life` rests on damaged `mein Mfcntl iches Recht`; native public-finance tail also heavily damaged; no repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-vulcanus.md",
+          "text": "ABC p. 75: `glamorous minute` versus normalized `glticklichen Minute`; `gltick` and `my right advantage` remain unresolved translated/OCR forms.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `glamorous minute` versus normalized `glticklichen Minute`; `gltick` and `my right advantage` remain unresolved translated/OCR forms."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-mc-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-mc-equals-zeus.md",
+          "text": "ABC p. 75: `successful soul carrying`, `my successful movement` obscure normalized `Seelen-FUhrung`/`erfolgreiche FUhrung`; no repair without raw check.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 75: `successful soul carrying`, `my successful movement` obscure normalized `Seelen-FUhrung`/`erfolgreiche FUhrung`; no repair without raw check."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-admetos.md",
+          "text": "ABC p. 329: `exchangeable legal restrictions` versus normalized `enttauschende Rechts-Einschrankungen`; `blobcade`/`Blokkade`, `water stau` are damaged/literal forms; exclude uncertain spans.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 329: `exchangeable legal restrictions` versus normalized `enttauschende Rechts-Einschrankungen`; `blobcade`/`Blokkade`, `water stau` are damaged/literal forms; exclude uncertain spans."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-apollon.md",
+          "text": "ABC p. 329: embedded `staatliche Gelder::l.jJ.` suggests adjacent-row spill/state-law contamination; exact formula boundary unverified. Entire questionable ABC span excluded from confident synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-apollon.md",
+          "text": "ABC `exchange by the financial office` obscures `Enttauschung <lurch das Finanz-Amt`; `vie!` and mixed state/water wording retained.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 329: embedded `staatliche Gelder::l.jJ.` suggests adjacent-row spill/state-law contamination; exact formula boundary unverified. Entire questionable ABC span excluded from confident synthesis.",
+        "ABC `exchange by the financial office` obscures `Enttauschung <lurch das Finanz-Amt`; `vie!` and mixed state/water wording retained."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-asc.md",
+          "text": "ABC p. 328: `Others are indiscriminate money`, `fine felt`, `lack of knowledge of the partner` are damaged or divergent translations; exclude pending raw check.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 328: `Others are indiscriminate money`, `fine felt`, `lack of knowledge of the partner` are damaged or divergent translations; exclude pending raw check.",
+        "Sandbach `imag inings` is a word-break artifact.",
+        "Sandbach PDF p. 81 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-cupido.md",
+          "text": "ABC p. 329: development/metaphysics paragraph differs from Witte's marital/community focus; possible adjacent-row assignment issue, not a verified correction.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-cupido.md",
+          "text": "ABC `exchange of results`/`enttauschendc Rcchts-Entwicklung`, `environment`/`Gcldwcscn`, `anticipated change`/`vortcilhaftc Veranderung` are unreliable translations.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 329: development/metaphysics paragraph differs from Witte's marital/community focus; possible adjacent-row assignment issue, not a verified correction.",
+        "ABC `exchange of results`/`enttauschendc Rcchts-Entwicklung`, `environment`/`Gcldwcscn`, `anticipated change`/`vortcilhaftc Veranderung` are unreliable translations."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-hades.md",
+          "text": "ABC p. 329: community/water paragraph may be assigned across an adjacent-row boundary; no corrected orientation asserted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-hades.md",
+          "text": "ABC `foreign law for of a community` is damaged English; native paragraph has extensive OCR substitutions (`cine`, `Frcude`, `Gcmcinschaft`).",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 329: community/water paragraph may be assigned across an adjacent-row boundary; no corrected orientation asserted.",
+        "ABC `foreign law for of a community` is damaged English; native paragraph has extensive OCR substitutions (`cine`, `Frcude`, `Gcmcinschaft`)."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-kronos.md",
+          "text": "ABC p. 329: effort/production-focused paragraph may be affected by adjacent-row assignment; no raw glyph/boundary verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-kronos.md",
+          "text": "ABC `poor luck`/`zukUnftiges Gluck`, `exchangeable money production`/`enttauschende Geld-Erzeugung`, `fine tuning`/`Feingefiihl` are unreliable translations.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 329: effort/production-focused paragraph may be affected by adjacent-row assignment; no raw glyph/boundary verification.",
+        "ABC `poor luck`/`zukUnftiges Gluck`, `exchangeable money production`/`enttauschende Geld-Erzeugung`, `fine tuning`/`Feingefiihl` are unreliable translations."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-neptune-equals-mars.md",
+          "text": "ABC p. 328: `rhythmic credence` versus normalized `rhythmischer Betatigung` is unreliable translation; no repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-jupiter-neptune.md",
+          "text": "Jupiter/Neptune = Mars ABC printed328/PDF163 retains unreliable rhythmic credence translation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC p. 328: `rhythmic credence` versus normalized `rhythmischer Betatigung` is unreliable translation; no repair.",
+        "Sandbach `as serts` is a word-break artifact.",
+        "Sandbach PDF p. 81 is a chapter-start locator only; exact activation pagination remains unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-neptune-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "recorded_reviewer": "activation_017_018",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-neptune-mc.md",
+          "text": "The ABC entry on Jupiter/Neptune = MC retains the unrelated sentence “Is the Commission aware of the fact that”; the wording requires source-level verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC's water and air phrases do not specify a technical setting; they remain literal source claims. Retained WittePDF209 and Munkaseyprinted264 locators were not newly verified in this bounded repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-mc.md",
+          "text": "ABC spirit schele, speleen joy, mcinc Frcude damaged; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-mc-poseidon.md",
+          "text": "Jupiter/Poseidon = MC ABC printed346/PDF172 retains spirit schele/speleen joy/mcinc Frcude, excluded by the linked activation; Jupiter/MC = Poseidon printed75/PDF36 retains gltick. Source wording needs verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC spirit schele, speleen joy, mcinc Frcude damaged; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-mercury.md",
+          "text": "ABC poor language about law vs vemUnftige Gesprache Uber Recht; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC poor language about law vs vemUnftige Gesprache Uber Recht; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-moon.md",
+          "text": "ABC powerful people right vs vemunftiges Yolks-Recht; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC powerful people right vs vemunftiges Yolks-Recht; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-neptune.md",
+          "text": "ABC Exchange vs Enttauschung; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC Exchange vs Enttauschung; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-pluto.md",
+          "text": "ABC gentle vs vemunftige; Witte leading P and development or reason; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-pluto-poseidon.md",
+          "text": "Jupiter/Poseidon = Pluto Witte PDF218 retains leading P/development or reason; ABC printed347/PDF172 gentle change is flagged as mistranslating vemunftige Veranderung. Source wording needs verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC gentle vs vemunftige; Witte leading P and development or reason; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-saturn.md",
+          "text": "ABC staggered money culture; right problems permeate; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-saturn-poseidon.md",
+          "text": "Jupiter/Poseidon = Saturn ABC printed347/PDF172 flags staggered money culture/right problems permeate as unreliable; source wording needs verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC staggered money culture; right problems permeate; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-sun.md",
+          "text": "ABC common advantage vs gcistiger Vorteil; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-jupiter-poseidon.md",
+          "text": "Jupiter/Poseidon = Sun excludes the damaged ABC “common advantage” rendering. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC common advantage vs gcistiger Vorteil; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-uranus.md",
+          "text": "ABC reasonImpulse awkward; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC reasonImpulse awkward; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-venus.md",
+          "text": "ABC peace culture art ideas run together; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC peace culture art ideas run together; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-vernal-point.md",
+          "text": "ABC l\"public legal; public:nichtkcit; heavy OCR damage; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-poseidon.md",
+          "text": "Jupiter/Poseidon = Vernal Point retains heavily damaged ABC English for traceability; it does not supply dependable additional interpretation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-poseidon.md",
+          "text": "Jupiter/Poseidon = Vernal Point retains heavily damaged ABC English for traceability; it does not supply dependable additional interpretation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC l\"public legal; public:nichtkcit; heavy OCR damage; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_019_020",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-poseidon-equals-zeus.md",
+          "text": "ABC mental movement vs FUhrung; cognition struggle vs Erkenntnis-Streben; source image not verified",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/jupiter-zeus-poseidon.md",
+          "text": "Jupiter/Poseidon = Zeus ABC printed347/PDF172 flags mental movement for geistige FUhrung and cognition struggle for Erkenntnis-Streben; source wording needs verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte printed page unconfirmed; PDF entry-start locator available",
+        "ABC mental movement vs FUhrung; cognition struggle vs Erkenntnis-Streben; source image not verified"
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-saturn-admetos.md",
+          "text": "Jupiter/Saturn = Admetos ABC printed325/PDF161 retains literal thorough legal problems without an explained precise sense.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC does not explain the precise force of gründliche Rechts-Probleme (thorough legal problems); retained literally without elaboration."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/activations/jupiter-saturn-equals-moon.md",
+          "text": "Witte207 prints Fortunate separation from a woman or from as an incomplete phrase; the absent object remains unexpanded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/moon-jupiter-saturn.md",
+          "text": "Jupiter/Saturn = Moon ABC printed324/PDF161 opens with connections; possible neighboring Node row requires glyph verification (inference, not established).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte207 prints Fortunate separation from a woman or from as an incomplete phrase; the absent object remains unexpanded."
+      ]
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-saturn-node.md",
+          "text": "Jupiter/Saturn = Node Ebertin printed p. 227 / code0791 begins mid-sentence; ABC printed p. 324 / PDF p. 161 row assignment remains unverified.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-saturn.md",
+          "text": "Jupiter/Saturn = Vernal Point has an unresolved ABC boundary before apparent first-person material. Its ABC passage is excluded pending source-image verification. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-jupiter-saturn.md",
+          "text": "Jupiter/Saturn = Vernal Point has an unresolved ABC boundary before apparent first-person material. Its ABC passage is excluded pending source-image verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/jupiter-uranus-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/jupiter-uranus-mc.md",
+          "text": "Jupiter/Uranus = MC ABC printed326/PDF162 flags Frcudigcs Ercignis/Scre/speleen/technical anticipation for technischcr Vortcil; Uranus/MC = Jupiter ABC printed78/PDF38 flags psychic glick impulses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-apollon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-kronos-apollon.md",
+          "text": "Kronos/Apollon = Asc: ABC Entry retains damaged wording \"hi cricy\" and \"ortec\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-apollon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/sun-kronos-apollon.md",
+          "text": "Kronos/Apollon = Sun excludes unreliable ABC “self indigenous man” and “great body for” fragments. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-apollon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/uranus-kronos-apollon.md",
+          "text": "Kronos/Apollon = Uranus marks ABC authorship/new wording as damaged; Uranus/Kronos = Apollon retains uncertain authority/discovery wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/uranus-kronos-apollon.md",
+          "text": "Kronos/Apollon = Uranus marks ABC authorship/new wording as damaged; Uranus/Kronos = Apollon retains uncertain authority/discovery wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-apollon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/venus-kronos-apollon.md",
+          "text": "Kronos/Apollon = Venus and Venus/Apollon = Kronos qualify unreliable ABC authority/independence wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-kronos-apollon.md",
+          "text": "Kronos/Apollon = Venus and Venus/Apollon = Kronos qualify unreliable ABC authority/independence wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-021.jsonl",
+      "recorded_reviewer": "activation_handoff_016_022",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-kronos-apollon.md",
+          "text": "Kronos/Apollon = Vernal Point retains ABC public-awareness and opinion clauses that do not reliably match the damaged German cache. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-kronos-apollon.md",
+          "text": "Kronos/Apollon = Vernal Point retains ABC public-awareness and opinion clauses that do not reliably match the damaged German cache.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-poseidon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "recorded_reviewer": "activation_review_084_088-a022-handoff",
+      "issues": [
+        {
+          "holder": "wiki/triads/asc-kronos-poseidon.md",
+          "text": "Kronos/Poseidon = Asc: ABC Entry retains damaged wording \"gcistigc\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/kronos-vulcanus-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "recorded_reviewer": "activation_review_084_088-a022-handoff",
+      "issues": [
+        {
+          "holder": "wiki/triads/mc-kronos-vulcanus.md",
+          "text": "Kronos/Vulcanus = MC ABC printed464/PDF231 retains one great scroll/scclic and other damaged wording; source verification required.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-admetos-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "recorded_reviewer": "activation_review_084_088-a022-handoff",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-kronos-admetos.md",
+          "text": "Mars/Admetos = Kronos ABC printed319/PDF158 retains handboys; source translation requires verification.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-admetos-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-022.jsonl",
+      "recorded_reviewer": "activation_review_084_088-a022-handoff",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-admetos.md",
+          "text": "Udo Rudolph linked English entries retain damaged terms: Mars/Admetos = Neptune has 'water stau work', Mars/Neptune = Admetos has 'grtindish', and Neptune/Admetos = Mars has 'autlose'; no interpretation is adopted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-admetos.md",
+          "text": "ABC 'creating brilliant knowledge' is a suspect rendering of 'grilndliches Wissen schaffen'; source entry preserved and phrase excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'creating brilliant knowledge' is a suspect rendering of 'grilndliches Wissen schaffen'; source entry preserved and phrase excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-asc.md",
+          "text": "ABC 'loss of activity in the environment' reverses the readable German increase motif; 'vie! work' retains OCR damage.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'loss of activity in the environment' reverses the readable German increase motif; 'vie! work' retains OCR damage."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-hades.md",
+          "text": "ABC 'criminal businessTatability' and 'dangerous work peace' remain unresolved translation damage; preserved verbatim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'criminal businessTatability' and 'dangerous work peace' remain unresolved translation damage; preserved verbatim."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-jupiter.md",
+          "text": "ABC 'scientific success mitigations' is an unreliable rendering of 'wissenschaftliche Erfolgs-Bemilhungen'; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'scientific success mitigations' is an unreliable rendering of 'wissenschaftliche Erfolgs-Bemilhungen'; excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-mc.md",
+          "text": "ABC 'Fricdens Will' and 'Tatigkcit' are retained OCR/translation fragments; 'successful soul treatment' remains a bounded historical claim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-mc-apollon.md",
+          "text": "Mars/Apollon = MC ABC printed316/PDF157 retains Fricdens/Tatigkcit; source wording needs verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Fricdens Will' and 'Tatigkcit' are retained OCR/translation fragments; 'successful soul treatment' remains a bounded historical claim."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-moon.md",
+          "text": "ABC 'felicitous arbcite', 'trade activity of nine people', 'increased action of the chair', and 'increasing impulses of the chair' are unresolved corrupt translations.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/moon-mars-apollon.md",
+          "text": "Mars/Apollon = Moon ABC printed316/PDF157 retains arbcite; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'felicitous arbcite', 'trade activity of nine people', 'increased action of the chair', and 'increasing impulses of the chair' are unresolved corrupt translations."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-neptune.md",
+          "text": "ABC 'exchanging work experience' is suspect against German 'enttauschende'; unfinished trailing material from 'increasing will weak Extensive development work' to 'successful' has an unresolved entry-boundary problem and is excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-neptune-apollon.md",
+          "text": "Udo Rudolph Mars/Apollon = Neptune ends 'and successful' and its retained German passage also breaks after 'erfolgreiche' (printed locator 317/PDF157); source boundary needs verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'exchanging work experience' is suspect against German 'enttauschende'; unfinished trailing material from 'increasing will weak Extensive development work' to 'successful' has an unresolved entry-boundary problem and is excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-sun.md",
+          "text": "ABC 'vie! corporal work' remains OCR/translation damage; source gender wording is retained and bounded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-mars-apollon.md",
+          "text": "Mars/Apollon = Sun leaves a damaged ABC physical-work phrase unresolved. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'vie! corporal work' remains OCR/translation damage; source gender wording is retained and bounded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-uranus.md",
+          "text": "ABC 'vie) new work' is unresolved OCR damage and is excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'vie) new work' is unresolved OCR damage and is excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-venus.md",
+          "text": "ABC 'Experiencing artist knowledge' is a suspect rendering of 'BemUhungen um Kunst-Wissen'; excluded pending source verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mars-apollon.md",
+          "text": "Mars/Apollon = Venus and Venus/Apollon = Mars exclude suspect or damaged ABC art-knowledge and love-effort phrases. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mars-apollon.md",
+          "text": "Mars/Apollon = Venus and Venus/Apollon = Mars exclude suspect or damaged ABC art-knowledge and love-effort phrases.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Experiencing artist knowledge' is a suspect rendering of 'BemUhungen um Kunst-Wissen'; excluded pending source verification."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-vernal-point.md",
+          "text": "ABC '6public business activities' is unresolved OCR/translation damage.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC '6public business activities' is unresolved OCR/translation damage."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-apollon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "review_023_025",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-apollon-equals-zeus.md",
+          "text": "ABC 'filthy work in the economy' mistranslates the damaged German 'Filhrungs-Arbeit in der Wirtschaft'; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'filthy work in the economy' mistranslates the damaged German 'Filhrungs-Arbeit in der Wirtschaft'; excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-asc-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-asc.md",
+          "text": "Udo Rudolph Mars/Asc = Neptune includes damaged English 'I agricultural weaknesses' and 'Lier Lufi'; no hub interpretation is drawn.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-asc-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-023.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-asc-poseidon.md",
+          "text": "The Witte phrase “To experience comprehensive through others” remains unclear in Mars/Asc = Poseidon.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte To experience comprehensive through others remains linguistically unclear; scan confirms wording, not intended meaning."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-hades-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-024.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-hades.md",
+          "text": "Udo Rudolph Mars/Hades = Neptune retained source text runs into a truncated following tail ending 'gefahrdetc' (printed locator 311/PDF154); exact source boundary remains unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-kronos-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-025.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-kronos.md",
+          "text": "Udo Rudolph Mars/Kronos = Neptune linked entry and retained native passage end in 'sclbstan-' (printed locator 315/PDF156); exact source boundary remains unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-mc-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-mc.md",
+          "text": "Udo Rudolph Mars/MC = Neptune linked English ends 'mcinc BemU-' (retained printed73/PDF35); exact source boundary remains unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-admetos.md",
+          "text": "Udo Rudolph linked English entries retain damaged terms: Mars/Admetos = Neptune has 'water stau work', Mars/Neptune = Admetos has 'grtindish', and Neptune/Admetos = Mars has 'autlose'; no interpretation is adopted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-asc.md",
+          "text": "Udo Rudolph Mars/Neptune = Asc ABC Entry consists of a dash run rather than usable text (retained printed locator 304/PDF151).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-mc.md",
+          "text": "Reinhold Ebertin Mars/Neptune = MC appends '43 Node = Mars/Neptune has frequently been found in the case of hospitalization.' (entry0733, retained printed212); this foreign formula/footnote needs source-owner verification.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/sun-mars-neptune.md",
+          "text": "For `Mars/Neptune = Sun`, the current entry cites Witte one-based PDF entry-start p. `195`, ABC printed p. `304`, Ebertin printed p. `211`, entry `0723`, Sandbach one-based PDF chapter-start p. `72`, and Munkasey printed p. `236`; the Sandbach number is not an exact formula locator.\n\nCoverage limitations: `Mars/Neptune = Sun` reports damaged ABC water wording and an omitted opening metaphysics clause. `Sun/Mars = Neptune` qualifies an appended Ebertin example about the separate Uranus orientation. `Sun/Neptune = Mars` qualifies damaged ABC dissolution/physical-activity wording (printed p. `154`; PDF p. `76`).",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-mars-neptune.md",
+          "text": "Mars/Neptune = Vernal Point records unreliable ABC public-policy English; source presence does not establish those phrases. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-neptune.md",
+          "text": "Mars/Neptune = Vernal Point records unreliable ABC public-policy English; source presence does not establish those phrases.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-neptune-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-vulcanus.md",
+          "text": "Udo Rudolph Mars/Neptune = Vulcanus English includes 'violence actions vemein'; Mars/Vulcanus = Neptune includes 'energetic arbcit'. These damaged terms require source-owner review; hub doctrine is not drawn from them.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-node-equals-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-026.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-node-apollon.md",
+          "text": "Udo Rudolph Mars/Node = Apollon includes OCR residue 'vie! connections at work'; precise wording remains for activation-owner verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-pluto-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-027.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-pluto.md",
+          "text": "Udo Rudolph Mars/Pluto = Neptune ends 'see above'; the retained cross-reference needs source-context verification and does not license borrowing another orientation's meaning.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-neptune.md",
+          "text": "ABC 'exchangeable efforts for truth' conflicts with German disappointing efforts; trailing developmental wording has insecure boundary and is excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'exchangeable efforts for truth' conflicts with German disappointing efforts; trailing developmental wording has insecure boundary and is excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-pluto.md",
+          "text": "ABC 'Willing to Unravel Truth'/'Future Development Work' are loose translations; no predictive meaning admitted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Willing to Unravel Truth'/'Future Development Work' are loose translations; no predictive meaning admitted."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-saturn.md",
+          "text": "ABC 'intense interruption' conflicts with damaged German vemtinftige Unterbrechung; precise qualification unresolved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'intense interruption' conflicts with damaged German vemtinftige Unterbrechung; precise qualification unresolved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-sun.md",
+          "text": "ABC 'personal culture screws' corrupts personliches Kultur-Schaften; source retained.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'personal culture screws' corrupts personliches Kultur-Schaften; source retained."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-venus.md",
+          "text": "ABC 'artificial and cultural creations' mistranslates artistic/cultural creation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'artificial and cultural creations' mistranslates artistic/cultural creation."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-vernal-point.md",
+          "text": "ABC Vernal Point opening and cached English severely damaged; only readable public cultural-work wording used.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+          "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-poseidon.md",
+          "text": "Mars/Poseidon = Vernal Point has a badly damaged ABC opening, and Vernal Point/Mars = Poseidon excludes an unresolved public-work translation. Neither heading certifies complete English wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Vernal Point opening and cached English severely damaged; only readable public cultural-work wording used."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-poseidon-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-poseidon-equals-vulcanus.md",
+          "text": "ABC 'spiritual power from above' mistranslates geistige Macht ausOben; no supernatural source inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'spiritual power from above' mistranslates geistige Macht ausOben; no supernatural source inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-admetos.md",
+          "text": "ABC 'best of work' and 'clarity' are loose/corrupt renderings of serious work and thoroughness; Source Entries preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'best of work' and 'clarity' are loose/corrupt renderings of serious work and thoroughness; Source Entries preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-hades.md",
+          "text": "ABC 'painful will absorption' mistranslates Willens-Verzicht; source wording preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-saturn-hades.md",
+          "text": "Mars/Saturn = Hades ABC printed301/PDF149 retains bci Tatigkcit; source wording requires verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'painful will absorption' mistranslates Willens-Verzicht; source wording preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-jupiter.md",
+          "text": "ABC 'staggered work joy' is a loose rendering of gestorte Arbeits-Freude.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'staggered work joy' is a loose rendering of gestorte Arbeits-Freude.",
+        "Sandbach exact entry page unresolved; only chapter start PDF p. 68 supplied."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-kronos.md",
+          "text": "ABC 'authorship' is a mistranslation of authority; source retained.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'authorship' is a mistranslation of authority; source retained."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-mc.md",
+          "text": "ABC Entry has severe translation/OCR corruption at printed p. 300/PDF p. 149, including 'patient sheep', 'serious crime', and 'psychic pulses'; no raw-source repair attempted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-saturn-mc.md",
+          "text": "Mars/Saturn = MC ABC printed300/PDF149 has damaged English opening I at the arbcilc harl, patient sheep and serious crime wording; verification required.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Entry has severe translation/OCR corruption at printed p. 300/PDF p. 149, including 'patient sheep', 'serious crime', and 'psychic pulses'; no raw-source repair attempted.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-moon.md",
+          "text": "ABC 'rough work'/'actions of the rough' mistranslates Frauen/Frau; preserved but excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'rough work'/'actions of the rough' mistranslates Frauen/Frau; preserved but excluded.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-neptune.md",
+          "text": "ABC Neptune tail joins will-disturbance and developmental wording without secure boundary at printed p. 301/PDF p. 149; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Neptune tail joins will-disturbance and developmental wording without secure boundary at printed p. 301/PDF p. 149; excluded.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-node.md",
+          "text": "ABC 'striated work connections' is a mistranslation of disturbed connections.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'striated work connections' is a mistranslation of disturbed connections.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-saturn-pluto.md",
+          "text": "Mars/Saturn = Pluto Ebertin printed205/code0706 has footnote38 inserted into Intervening of a higher; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Ebertin 0706 is disrupted by footnote 38 ('Intervening of a higher 38 ... Pluto = power'); no repair or inference from interrupted clause.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-poseidon.md",
+          "text": "Witte 'Interruption or a mental activity' is suspect OCR.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/mars-saturn-equals-poseidon.md",
+          "text": "ABC 'Contaminating cognition work', 'most clear will', 'storen', and 'vemlinft' are damaged/loose renderings; excluded portions preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-saturn-poseidon.md",
+          "text": "Mars/Saturn = Poseidon Witte PDF193 retains damaged Interruption or a mental activity opening.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte 'Interruption or a mental activity' is suspect OCR.",
+        "ABC 'Contaminating cognition work', 'most clear will', 'storen', and 'vemlinft' are damaged/loose renderings; excluded portions preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-uranus.md",
+          "text": "ABC has OCR/translation fragments 'stor impulses', 'emsle reform', 'dynarnic', 'reform arness'; source retained.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-saturn-uranus.md",
+          "text": "Mars/Saturn = Uranus ABC printed301/PDF149 retains stor/emsle/dynarnic; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC has OCR/translation fragments 'stor impulses', 'emsle reform', 'dynarnic', 'reform arness'; source retained.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-venus.md",
+          "text": "ABC 'Exhausted peace work' mistranslates Ausdauemde; 'storten' remains damaged.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mars-saturn.md",
+          "text": "Coverage limitation: Mars/Saturn = Venus excludes damaged ABC peace-work/disturbance wording. Venus/Saturn = Mars supplies a Sandbach chapter-start locator only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Exhausted peace work' mistranslates Ausdauemde; 'storten' remains damaged.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 68 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/triads/vernal-point-mars-saturn.md",
+          "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mars-saturn.md",
+          "text": "Mars/Saturn = Vernal Point has ABC translation damage that prevents comparison; Vernal Point/Mars = Saturn also retains unresolved work/will phrases.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-vulcanus.md",
+          "text": "ABC 'will starches', 'staggered energy pulses', and 'declining influence' are corrupt/loose translations; source preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-saturn-vulcanus.md",
+          "text": "Mars/Saturn = Vulcanus ABC printed301/PDF149 retains will starches; translation verification required.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'will starches', 'staggered energy pulses', and 'declining influence' are corrupt/loose translations; source preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-saturn-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-saturn-equals-zeus.md",
+          "text": "ABC 'patient training activity' loosely renders patient leadership activity.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'patient training activity' loosely renders patient leadership activity."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-admetos.md",
+          "text": "ABC 'spontaneous reaction to grtindlichkeit' is damaged/loose wording; excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'spontaneous reaction to grtindlichkeit' is damaged/loose wording; excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-hades.md",
+          "text": "ABC 'will abuse' mistranslates Willens-Verzicht; 'criminal over surprise actions' is malformed; source preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'will abuse' mistranslates Willens-Verzicht; 'criminal over surprise actions' is malformed; source preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-kronos.md",
+          "text": "ABC 'authoritat' and 'self governingness' are incomplete/loose translation; source preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'authoritat' and 'self governingness' are incomplete/loose translation; source preserved."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-mc.md",
+          "text": "ABC first-person wording contains 'ncucs', 'bci', and corrupt 'I at the restless'; preserved and excluded where unclear.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-uranus-mc.md",
+          "text": "Mars/Uranus = MC ABC printed302/PDF150 retains ncucs; verification required.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC first-person wording contains 'ncucs', 'bci', and corrupt 'I at the restless'; preserved and excluded where unclear.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 71 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-moon.md",
+          "text": "ABC opening 'Arousal-[pulses' is damaged; no repair attempted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/moon-mars-uranus.md",
+          "text": "Mars/Uranus = Moon ABC printed302/PDF150 retains Arousal-[pulses; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC opening 'Arousal-[pulses' is damaged; no repair attempted.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 71 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-neptune.md",
+          "text": "ABC translation is severely corrupt and has an insecure Neptune/Pluto boundary at printed p. 303/PDF p. 150; excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-uranus-neptune.md",
+          "text": "Mars/Uranus = Neptune ABC printed303/PDF150 remains severely corrupt with insecure Neptune/Pluto row boundary.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC translation is severely corrupt and has an insecure Neptune/Pluto boundary at printed p. 303/PDF p. 150; excluded.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 71 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-pluto.md",
+          "text": "ABC Pluto begins 'kcit' in German and 'Citit' in English, with insecure boundary from Neptune; 'balance' mistranslates unrest. Excluded pending raw check.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/activations/mars-uranus-equals-pluto.md",
+          "text": "Witte opening stray 'E' is retained as source artifact.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mars-uranus-pluto.md",
+          "text": "Mars/Uranus = Pluto ABC printed303/PDF150 retains Citit and Tchnical; source wording requires verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Pluto begins 'kcit' in German and 'Citit' in English, with insecure boundary from Neptune; 'balance' mistranslates unrest. Excluded pending raw check.",
+        "Witte opening stray 'E' is retained as source artifact.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 71 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-uranus-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-028.jsonl",
+      "recorded_reviewer": "activations_028_029_leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mars-uranus-equals-saturn.md",
+          "text": "ABC 'Exciting star impulses' corresponds to suspect German 'Aufregende Star-Impulse' at printed p. 303/PDF p. 150; excluded pending raw verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Exciting star impulses' corresponds to suspect German 'Aufregende Star-Impulse' at printed p. 303/PDF p. 150; excluded pending raw verification.",
+        "Sandbach exact entry page unresolved; chapter start PDF p. 71 only."
+      ]
+    },
+    {
+      "path": "wiki/activations/mars-vulcanus-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-029.jsonl",
+      "recorded_reviewer": "activation_review_023_044",
+      "issues": [
+        {
+          "holder": "wiki/triads/mars-neptune-vulcanus.md",
+          "text": "Udo Rudolph Mars/Neptune = Vulcanus English includes 'violence actions vemein'; Mars/Vulcanus = Neptune includes 'energetic arbcit'. These damaged terms require source-owner review; hub doctrine is not drawn from them.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": []
+    }
+  ],
+  "source_normalization": "CRLF normalized, Source Entries only, terminal standalone section anchor removed, outerstrip."
+}

@@ -11,7 +11,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -20,11 +20,15 @@ updated_at: 2026-05-04
 - Astronomicon token: `¢`
 - Canonical page type: comparative factor page grounded in standalone source entries.
 
+[Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Factor Entry
+
+Source locator: PDF page `29`.
 
 Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesitate. Delay. Loneliness. Lack. Illness. Secrets. Old burdens. History. Something old, antiques. Far past. Repulsiveness. Waste. Long illness or difficult (abnormal) circumstances. Events with bad impressions. Widows.
 
@@ -32,14 +36,25 @@ Poverty. Baseness. The deteriorating powers of the past. Garbage. Dirt. To hesit
 
 #### ABC Keyword Entry
 
-Secret, Hidden, Past, Old, Tradition, serving, renunciation, deprivation, hardships, sorrow, need, and lack
+Source locator: printed page `17`, PDF page `7`; heading `Hades, HA`. English rendering checked against the German keyword list.
+
+Secret, Hidden, Past, Old, Tradition, serving, renunciation, deprivation, hardships, sorrow, need, lack, disadvantage, danger, criminality, and dirt
+
+## Comparative Schema
+
+- core meaning: what is hidden or inherited from the past, together with lack, deterioration, and difficult conditions; history, antiques, and tradition remain part of the range ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- psychology: hesitation, loneliness, sorrow, and renunciation describe responses or experiences named by the entries ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- body/health: the Witte entry historically associates Hades with illness and long illness; it supplies no basis for identifying a particular disease ([Witte](#witte-factor-entry)).
+- social/relationship: poverty, deprivation, service, need, and disadvantage are explicit associations. The Witte entry also lists widows as a historical social correspondence ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- events/manifestations: delay, waste, dirt, old objects, secrets, hardship, danger, and criminality are named manifestations, rather than interchangeable outcomes ([Witte](#witte-factor-entry); [ABC](#abc-keyword-entry)).
+- conflicts/notes: service, tradition, history, and antiques appear beside adversity; their presence alone does not establish degradation or criminality. The historical illness and widow associations remain attributed to Witte.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades` is the factor of what is hidden, old, deprived, worn down, dirty, secret, sorrowful, or left behind by past conditions.
-- Chart expression: hardship, poverty, illness, renunciation, service under difficult conditions, old damage, tradition as burden, and unpleasant truths that remain present after life has fallen below health or dignity.
-- Its liabilities are degradation, despair, secrecy, danger, criminality, and fixation on what is rotten, depleted, or past its time unless something cleaner and stronger intervenes.
+Hades links what is hidden or carried from the past with conditions of lack, difficulty, and deterioration. Poverty, old burdens, waste, and dirt give this range its harsh side, while history, antiques, tradition, and secrets retain the broader concern with what is old or out of sight. The factor therefore cannot be reduced to decay alone. ([Witte Factor Entry](#witte-factor-entry); [ABC Keyword Entry](#abc-keyword-entry), printed p. 17.)
+
+Hesitation, delay, loneliness, and sorrow describe the experience of difficulty; service and renunciation are also explicit parts of the range. The ABC entry adds disadvantage, danger, and criminality without making every Hades expression equivalent to them. Witte's illness, long illness, and widow associations belong to that source's historical vocabulary. ([Witte Factor Entry](#witte-factor-entry); [ABC Keyword Entry](#abc-keyword-entry).)
 
 ## Related Axes
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Asc MC](../triads/mars-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ To be active with other people. To give orders to others.
 
 #### ABC Entry
 
-besceltec work on the spot, I work nearby, my work place, my activity Hir the environment, place for psychic treatment, psychic activity of others, and soul work of the partner
+My partner's work, soulful work at the place, I work nearby, my workplace, my actions in the surroundings, my activity for the surroundings, a place for psychological treatment, the psychological energy of others for action, and the partner's soul work.
+
+- Source reference: printed p. 72, PDF p. 35, Ascendant row; restored omitted `Arbeit meines Partners` and `meine Aktionen im Umfeld` and checked the complete nine-phrase paragraph.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Reflecting on your perceptions of how others change as they grow in life; an emp
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: One's action develops through other people, shared work and recognition.
+- psychology: Self-confidence and reflection on others' growth coexist with identification with doing right.
+- body/health: ABC's psychological-treatment setting remains a historical source example without a diagnosis.
+- social/relationship: Giving orders, leadership, encouraging others and support for maturation are explicit.
+- events/manifestations: Work nearby, partner work, recognition and success are named.
+- conflicts/notes: Sandbach's conflict with authority is conditional; feeling right does not establish that one is correct.
 
 ## Contradictions
 
-- None recorded yet.
+The entries include leading others and growing through their support. Sandbach also allows conflict with authority; these are different relational possibilities rather than an inevitable struggle.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Asc`: self-confidence, visible authority, decisive cooperation, and a way of relating that pushes others toward action or right conduct. Main caution: friction with peers or superiors when leadership becomes too forceful, moralizing, or combative.
+Asc specifies the Mars/MC axis through action involving other people and the immediate work setting. Acting with others and giving orders in [Witte](#witte-entry) connect with partner work in [ABC](#abc-entry) and leadership or recognition in [Ebertin](#ebertin-entry). [Munkasey](#munkasey-entry) adds the importance of others in one's growth, while [Sandbach](#sandbach-entry) describes encouraging right action and possible conflict with authority. The range includes directing others and receiving support, without proving that one's view of right conduct is correct.
+
+Evidence: Witte PDF p. 64; ABC printed p. 72, PDF p. 35; Ebertin printed p. 224, code 0781; Sandbach PDF p. 78 (Ascendant paragraph checked directly; chapter starts PDF77); Munkasey printed p. 252.
 
 ## Links
 

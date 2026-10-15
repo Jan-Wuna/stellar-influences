@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Neptune = Vernal Point`
 - Astronomicon formula: `Y/Y = VP`
 - Axis page: [Neptune/Neptune](../axes/neptune-neptune.md)
@@ -29,15 +31,30 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*.
+- Source reference: PDF p. `244` (entry start; one-based).
+
 #### Witte Entry
 
 Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, negation, confusion or dissolutions in the general public. Uncertainties of the general public. Uncertainties in general. Air or water of the world public.
 
+## Comparative Schema
+
+- core meaning: uncertainty, deception, or dissolution in public life.
+- psychology: daydreams and disappointment are explicit.
+- body/health: general poisoning and blood poisoning are historical hazard claims, not individual diagnoses.
+- social/relationship: confusion and negation in the general public are stated.
+- events/manifestations: public air or water and general dissolution are named settings.
+- conflicts/notes: the list supplies no causal link from public uncertainty to poisoning and no defined public event forecast.
+
+## Contradictions
+
+Only Witte's repeated-pair entry is present; there is no independent source comparison here.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Neptune = Vernal Point`: Daydreams. Disappointments. General poisonings. Blood poisoning. Deception, negation, confusion or dissolutions in the general public. Uncertainties of the general public. Uncertainties in general. Air or water of the world public.
-- Practical focus: externalizes doubled Neptune into collective dream, confusion, poisoning, and disappointment, making uncertainty and dissolution part of the general public atmosphere.
+Neptune/Neptune = Vernal Point gives uncertainty a public setting. [Witte](#witte-entry) describes general confusion, deception, negation, dissolution, daydreams, and disappointment, while separately naming public air or water and poisoning (PDF p. 244, entry start). These examples remain distinct; the passage does not establish that collective confusion causes a physical hazard.
 
 ## Links
 

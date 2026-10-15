@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = Neptune`
 - Astronomicon formula: `S/W = Y`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 A body weakened through a long illness. Personal hindrance and obstacles through ambiguity, falseness and misunderstanding.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source passage: `Sonne + Saturn`; printed p. `151`; one-based PDF page `74` (oriented row checked against the scan).
 
 sensitivity of a hard man, weakness of concentration in a person, personal concentration on the future, creeping bodily disturbance, personal weakness of the man, separation from the subtle body, and future tasks of a person
 
@@ -51,13 +57,17 @@ sensitivity of a hard man, weakness of concentration in a person, personal conce
 
 #### Ebertin Entry
 
+- Source passage: `Sun/Saturn`; printed p. `93`; one-based PDF page `95`; entry code `0249` (oriented row checked against the scan).
+
 Inhibitions in mental development, psychical or inner peculiarities, lack of vitality. Mental, emotional or physical crisis.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-Subtle insights into the deeper meanings of life. Uncertainty about how to structure one’s life so as to attain goals. Being too idealistic about the self can cause a lack of self-confidence. Idealism impels one to deny present gratifications so that en ergy is conserved to reach meaningful goals.
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `15` (exact activator entry checked in the raw PDF).
+
+Subtle insights into the deeper meanings of life. Uncertainty about how to structure one’s life so as to attain goals. Being too idealistic about the self can cause a lack of self-confidence. Idealism impels one to deny present gratifications so that energy is conserved to reach meaningful goals.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Elements of uncertainty in an otherwise orderly demeanor; neglect of your person
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: An orderly or disciplined life encounters uncertainty, weakened vitality or difficulty sustaining concentration, while subtle insight and meaningful goals remain possible. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- psychology: Ambiguity, misunderstanding and idealism can undermine confidence or planning; Sandbach also allows deeper insight and conservation of energy for meaningful aims. [Witte](#witte-entry) · [Sandbach](#sandbach-entry)
+- body/health: Witte gives weakening through long illness, ABC creeping bodily disturbance, and Ebertin lack of vitality or crisis. ABC's subtle body is a spiritual concept, not a medical finding. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry)
+- social/relationship: Personal obstacles can arise through ambiguity, falseness and misunderstanding; the entries do not assign every uncertainty to another person's deceit. [Witte](#witte-entry)
+- events/manifestations: Concentrating on the future, uncertain life structure, postponing gratification and relaxing an excessively rigid schedule are stated examples. [ABC](#abc-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- conflicts/notes: Munkasey's relaxation can ease excessive rigidity or become neglect of discipline. Sandbach's purposeful restraint should not erase the illness and crisis examples in the other entries. [Munkasey](#munkasey-entry) · [Sandbach](#sandbach-entry) · [Witte](#witte-entry) · [Ebertin](#ebertin-entry)
 
 ## Contradictions
 
-- None recorded yet.
+The entries retain both weakening or loss of structure and a potentially useful relaxation of excessive rigidity. Sandbach's spiritual insight and conserved energy add a constructive possibility without resolving the bodily crisis claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Neptune`: humility, spiritualized endurance, and the need to accept what cannot be forced. Main caution: defeatism: fatigue, confusion, or hidden loss can drain willpower and make the burdens of life feel hopeless or unreal.
+`Sun/Saturn = Neptune` introduces uncertainty into the way a person sustains discipline and purpose. Concentration, confidence or vitality may weaken, and ambiguity can obstruct a previously orderly course. Yet subtle insight can deepen the meaning of a goal, while releasing an overly tight schedule may be useful; Sandbach also allows present gratification to be deferred for meaningful aims. The tension lies between losing structure and loosening it constructively, with the sources' illness and crisis examples kept as attributed associations. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

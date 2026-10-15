@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = MC`
 - Astronomicon formula: `VP/¡ = MC`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -40,15 +42,30 @@ Inclined toward sociability. Personal or business relationships with joint stock
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Cupido`
+- Source reference: printed page `44`; PDF page `21` (one-based).
+
 #### ABC Entry
 
-Community and Community in the public sphere
+Soulful art in public life, my community in public life, my art in public, my public community, and an emotional community in public life.
+
+## Comparative Schema
+
+- Core meaning: One's personal involvement with public associations and art.
+- Psychology: Sociability and one's attitude toward art.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Personal or business relationships with joint stock companies.
+- Events/manifestations: The entries identify affiliations rather than a specific event.
+- Conflicts/notes: ABC's first-person artistic and emotional-community examples specify personal involvement rather than a guaranteed public outcome.
+
+## Contradictions
+
+ABC's personal artistic and emotional involvement is compatible with Witte's sociability and affiliation; neither establishes the success of an association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = MC`: inclined toward sociability, personal or business relationships with joint stock companies, and own attitude towards art.
-- Practical expression: community, and community in the public sphere.
+MC specifies `Vernal Point/Cupido` through one's own involvement in collective public life. The [Witte entry](#witte-entry) names sociability, personal or business relationships with joint stock companies, and one's attitude toward art. The [ABC entry](#abc-entry) makes that participation personal through one's art and community, soulful art, and an emotional community in public life. The common emphasis is personal affiliation or expression within a public collective.
 
 ## Links
 

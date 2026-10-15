@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = MC`
 - Astronomicon formula: `V/g = MC`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, MC row; glyph and adjacent entries checked.
+
 General popularity. To be well liked. Moment (minute) of a happy union. One’s own connections to money or justice.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-My success, my personal connections, my personal connection, my legal relations, the minute of a single connection, the soul's pleasure in bonding, and the physical satisfaction in bonding
+- Source reference: printed page 214; one-based PDF page 106, Mondknoten/Jupiter section, MC row; complete German row checked.
+
+My successful relationships, my financial connections, my happy connection, my legal relationships, a moment of a happy connection, inner joys within a connection, and inner satisfaction in connections
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 239, Jupiter/Dragon's Head, coded entry 0841; retained printed coded-entry locator.
 
 Being liked by others in associations or societies through the demonstration of adaptability, a sense of tact or through a cordial and obliging behavior, desire to be in soul contact with other people,pursuit of common interests and aspirations, becoming engaged or married.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 85, Jupiter/Node Midheaven entry; exact paragraph checked, chapter begins on page 84.
 
 A career involving successfully connecting to other people and encourag ing their progress. Your life goal involves seeing how excess can impede you, whereas realizing exactly what your good fortune is and making use of it will advance you.
 
@@ -66,26 +76,27 @@ A career involving successfully connecting to other people and encourag ing thei
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed-page locator, not a newly verified PDF page.
+
 Adds to your reputation and renown because of an ability to make the right contacts and be a member of the proper groups; increased rank or recognition within groups; others see your views as seasoned and mature.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Popularity and personally successful connections, including vocational or group recognition.
+- psychology: Tact, cordiality and adaptability in Ebertin; inner joy and satisfaction in ABC.
+- body/health: ABC describes inner rather than physical satisfaction; no bodily condition is stated.
+- social/relationship: Common interests, engagement/marriage, group membership and encouraging others' progress.
+- events/manifestations: Reputation, recognition within groups, successful career contacts and personal financial/legal ties.
+- conflicts/notes: Sandbach's caution concerns excess impeding progress, not an unsupported dependence on approval.
 
 ## Contradictions
 
-- None recorded yet.
+Most entries are favorable. Sandbach specifically qualifies advancement by recognizing how excess impedes it and making use of one's actual good fortune. That source caution is retained without substituting an approval-seeking explanation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = MC`: being well liked, vocational success through people, and a path that advances by cordiality, shared aspiration, and mutual support. Main caution: measuring progress too much by being appreciated or socially affirmed rather than by the real substance of the work.
+For `Jupiter/Node = MC`, the [source entries](#source-entries) link being well liked with personally meaningful connections, common interests and a happy union. ABC places financial and legal ties alongside inner joy, while Ebertin explains cordial contact through tact and adaptability. Sandbach gives a career that helps others progress, and Munkasey adds reputation or recognition within groups. Sandbach's explicit limit is excess that obstructs progress; practical use of actual good fortune qualifies the favorable social picture.
 
 ## Links
 

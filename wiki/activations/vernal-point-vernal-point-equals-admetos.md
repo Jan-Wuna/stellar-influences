@@ -26,6 +26,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `VP/VP = ¦`
 - Axis page: [Vernal Point/Vernal Point](../axes/vernal-point-vernal-point.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -33,10 +34,23 @@ updated_at: 2026-04-21
 
 Circulation. Rest. Standstill. Death on Earth. Raw materials. Resistance of the general public. Base origin. General shrinkage, reduction, decrease, compression.
 
+## Comparative Schema
+
+- core meaning: the public or terrestrial field is specified through standstill, reduction, and compression.
+- psychology: public resistance is named, without an individual personality description.
+- body/health: death on Earth is a source manifestation; the entry gives no diagnosis or individual prognosis.
+- social/relationship: resistance belongs to the general public; no private relationship pattern is specified.
+- events/manifestations: rest, raw materials, shrinkage, decrease, and compression are explicit examples.
+- conflicts/notes: “circulation” and “base origin” are listed without explanation and should not be assigned a bodily or causal mechanism.
+
+## Contradictions
+
+- This page has one source entry. Its mixture of circulation and standstill remains unexplained; it does not establish a contradiction between sources.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vernal Point = Admetos`: circulation, rest, standstill, death on Earth, and raw materials.
+In `Vernal Point/Vernal Point = Admetos`, Admetos specifies the repeated public-world pair through reduction, compression, and standstill. The [Witte entry](#witte-entry) relates these themes to public resistance and terrestrial examples such as raw materials (PDF p. 34). Rest and decrease provide a coherent throughline, while “circulation,” “base origin,” and death remain additional source terms whose mechanisms or circumstances are not explained here.
 
 ## Links
 

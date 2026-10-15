@@ -1,0 +1,277 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twenty newly reviewed Uranus/Admetos pages in original079 ledger.",
+  "actual_source_inspection": [
+    "verification/a079-083-udo-pdf191.png: personally inspected all20 glyph-owned rows, printed384–385.",
+    "verification/a079-083-witte-pdf241.png: personally inspected all20 glyph-owned rows; Witte prose preserved."
+  ],
+  "verification": [
+    "Full page reads, canonical base-axis read and manifest/evidence comparison completed.",
+    "Actual diffs read in four bounded batches; scoped whitespace and metadata/formula/anchor/schema/link/source checks passed."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-admetos-equals-apollon.md",
+      "old_abc": "Restricted trade impulses, success through new knowledge, consolidation of technical knowledge, fundamental knowledge emulation, new knowledge of the primordial material, Surprising depression experiences, and deepening in new knowledge",
+      "new_abc": "Restricted trade impulses, success through new knowledge, consolidation of technical knowledge, thorough renewal of knowledge, new knowledge of primordial matter, surprising experiences of depression, deepening into new knowledge.",
+      "printed_page": 385,
+      "finding": "Wissens-Erneuerung is renewal of knowledge, not knowledge emulation; seven complete Apollon clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-asc.md",
+      "old_abc": "Olocked environment Rhythm, dynamic local cycle, limiting partner impulses, sudden depression of the partner, sudden congestion at the site, technical environmental blockade, and Ycr sealing of the tensions at the site",
+      "new_abc": "Blocked environmental rhythm, a dynamic local circulation or cycle, restrictive impulses from the partner, sudden depression of the partner, sudden congestion at the location, a surprisingly blocked environment, a technical blockage in the environment, concentration of tensions at the location.",
+      "printed_page": 384,
+      "finding": "Restored omitted überraschend blockierte Umwelt; repaired blocked-environment opening and Verdichtung der Spannungen close; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-cupido.md",
+      "old_abc": "Consolidation by common rhythm, common technical experience, fundamental reforms for the Community, suddenly depressed Community, tensions in of a community through restrictions, and surprising stabilization of a community",
+      "new_abc": "Consolidation through a shared rhythm, shared deepening into technical matters, thorough reforms for the community, a suddenly depressed community, tensions in a community through restrictions, surprising stabilization of a community.",
+      "printed_page": 385,
+      "finding": "Gemeinsame technische Vertiefung is shared deepening into technical matters, not common technical experience; all six Cupido clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-hades.md",
+      "old_abc": "Dangerous blockade event, lack of circulatory dynamics, disadvantages due to technical restrictions, sudden grief due to depression, sudden criminal suppression, sudden deepening into the past, and Surprising consolidation due to renunciation",
+      "new_abc": "A dangerous blockage event, deficient circulation or cycle dynamics, disadvantages through technical restrictions, sudden grief through depression, sudden criminal suppression, sudden deepening into the past, surprising consolidation through renunciation.",
+      "printed_page": 385,
+      "finding": "All seven Hades clauses verified; Kreislauf-Dynamik retains circulation/cycle ambiguity rather than a definite circulation diagnosis."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-jupiter.md",
+      "old_abc": "Excitement over money blockade, depression over legal event, successful circulatory renewal, profound success of technology, sudden constraint on success, sudden right constraint, Surprising financial event, and suppressed joyful arousal",
+      "new_abc": "Excitement over a money blockage, depression over a legal event, successful renewal of circulation or a cycle, thorough success in technology, sudden restriction of success, sudden restriction of rights, a surprising financial event, suppressed joyful arousal.",
+      "printed_page": 384,
+      "finding": "Rechts-Beschränkung is restriction of rights, not a vague right constraint; Kreislauf renewal preserves circulation/cycle range; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-kronos.md",
+      "old_abc": "Steering impulses through psychic energy, arousal by sub hords, new state restrictions, new compaction pulses, independent rotation technology, independent technical cycle, and state unrest through restrictions",
+      "new_abc": "Directing impulses through psychic energy, excitement through suppression by authorities, new state restrictions, new impulses of concentration or compression, independent rotational technology, an independent technical cycle, unrest in the state through restrictions.",
+      "printed_page": 385,
+      "finding": "Restored Behörden-Unterdrückung as suppression by authorities instead of sub hords; seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mars.md",
+      "old_abc": "Endurance in rhythmic work, dynamic cycle of activity, consolidated work rhythm, fundamental technical work, new stabilization activity, work with new primordial material, sudden limitations in work, and reduction of restlessness in work",
+      "new_abc": "Endurance in rhythmic work, a dynamic cycle of activity, a consolidated work rhythm, thorough technical work, new stabilizing activity, work with new primordial matter, sudden restrictions in work, suppression of restlessness while creating.",
+      "printed_page": 384,
+      "finding": "Gründliche technische Arbeit is thorough technical work; suppression of restlessness while creating retained; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mc.md",
+      "old_abc": "Blockicrte seclische Impulse, my perennial rhythm, my blockicr rhythm, my involvement in the technique, my surprising distortion, my restless cycle, minute of monotonous blockade, and sudden soul blockade",
+      "new_abc": "Blocked emotional impulses, thorough emotional renewal, my enduring rhythm, my blocked rhythm, my deepening into technology, my surprising deepening, my restless circulation or cycle, a minute of technical blockage, sudden blockage of the soul.",
+      "printed_page": 384,
+      "finding": "Restored omitted gründliche seelische Erneuerung; Vertiefung is deepening, not distortion; technische Blockade is technical, not monotonous. Nine complete clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mercury.md",
+      "old_abc": "Reports about rotational technology, anxiety caused by depressed youth, blocked media technology, dynamic movement circuit, restricted motion impulses, grtindlich thoughts about technology, nervousness in traffic stau, and sudden traffic blocking",
+      "new_abc": "Reports about rotational technology, concern caused by depressed young people, blocked media technology, a dynamic cycle of movement, restricted impulses of movement, thorough thoughts about technology, nervousness in a traffic jam, a sudden traffic blockage.",
+      "printed_page": 384,
+      "finding": "Repaired gründliche Gedanken as thorough thoughts and Verkehrs-Stau as traffic jam; eight clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-moon.md",
+      "old_abc": "end of unrest in the people, excited depressed woman, nervous woman in traffic jam, suddenly depressed woman, consolidation of excited fleas, sudden restrictions on a people, sudden solidification of the fleas, and surprising flow deepening",
+      "new_abc": "Blocked emotional impulses, an end to unrest among the people, an excited depressed woman, a nervous woman in a traffic jam, a suddenly depressed woman, consolidation of excited feelings, sudden restrictions on a people, sudden freezing of feelings, surprising deepening of feeling.",
+      "printed_page": 384,
+      "finding": "Restored first blocked-emotion clause and translated Gefühle as feelings rather than fleas/flow; nine clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-neptune.md",
+      "old_abc": "Dynamic water cycle, strengthening of subtle impulses, sudden air pollution, sudden insecurity due to depression, weakness due to submerged water pollution, tchnic water compaction, and restlessness due to water barrier",
+      "new_abc": "A dynamic water cycle, consolidation of subtle impulses, a sudden restriction of air, sudden uncertainty through depression, weakness through suppressed nervousness, technical compression of water, unrest through restriction of water.",
+      "printed_page": 385,
+      "finding": "Luft-Begrenzung is air restriction, not air pollution; Schwäche durch unterdrückte Nervosität is weakness through suppressed nervousness, not water pollution. Seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-node.md",
+      "old_abc": "Dynamic deepening of a connection, deepening contacts with technology, connected with a Blokkade event, suddenly blocked connection, sudden constraint of relations, and stabilizing impulses in a connection",
+      "new_abc": "Dynamic deepening of a connection, deepening contacts with technology, connection with a blockage event, a suddenly blocked connection, sudden restriction of relationships, stabilizing impulses in a connection.",
+      "printed_page": 384,
+      "finding": "All six Node clauses verified; repaired Blokkade wording while preserving the break-versus-stabilization difference."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-pluto.md",
+      "old_abc": "Unsettling circulatory change, dynamic circulatory development, circulatory development, end of exciting change, consolidation of new development, fundamental reform development, and deepening of new developments",
+      "new_abc": "A disquieting change in circulation or a cycle, dynamic development of circulation or a cycle, restrictive technical development, the end of an exciting change, consolidation of a new development, thorough development of reform, deepening into new developments.",
+      "printed_page": 385,
+      "finding": "Restored third clause einschränkende technische Entwicklung; preserved Kreislauf circulation/cycle ambiguity and all seven clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-poseidon.md",
+      "old_abc": "Limitation of new ideas, mental emanation through psychic energy, profound cultural renewal, sudden restriction of truth, Surprising grtindlich clarity, and Surprising truth enlarging",
+      "new_abc": "Restriction of new ideas, intellectual renewal through psychic energy, thorough cultural renewal, sudden restriction of truth, surprising thorough clarity, surprising investigation into truth.",
+      "printed_page": 385,
+      "finding": "Geistige Erneuerung is intellectual renewal; Wahrheits-Ergründung is investigation into truth, not truth enlarging. Six clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-saturn.md",
+      "old_abc": "Depression due to sudden separation, limiting impulses in old age, excitation about gross losses, strength due to patient emulation, new losses due to strcik, sudden circulatory cancellations, and deepening into technical tasks",
+      "new_abc": "Depression through sudden separation, restrictive impulses in old age, excitement over thoroughgoing losses, firmness through renewed patience, new losses through a strike, sudden disturbances of circulation or a cycle, deepening into technical tasks.",
+      "printed_page": 385,
+      "finding": "Gedulds-Erneuerung is renewed patience, not patient emulation; Streik is strike; Kreislauf-Störungen is circulation/cycle disturbance. Seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-sun.md",
+      "old_abc": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+      "new_abc": "Excitement of a depressed person, restriction of personal impulses, physical restriction through nervousness, sudden depression of a man, personal deepening into technology, surprising personal consolidation.",
+      "printed_page": 384,
+      "finding": "Replaced dash-only cache with all six Sun clauses, from Aufregung einer depressiven Person through überraschende persönliche Festigung."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-venus.md",
+      "old_abc": "Blocked peace event, restricted artistic impulses, deepening new love, sudden end of harmony, sudden Harrnonia compaction, Surprising peacestrengthening, and preference for deepening into technology",
+      "new_abc": "A blocked peace event, restricted artistic impulses, deepening new love, a sudden end to harmony, sudden concentration of harmony, surprising consolidation of peace, a preference for deepening into technology.",
+      "printed_page": 384,
+      "finding": "Repaired Harrnonia and peace-strengthening wording; all seven Venus clauses verified, including the technical preference."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-vernal-point.md",
+      "old_abc": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *",
+      "new_abc": "A blockage event in public, a new circulation or cycle in public life, restrictive impulses in public life, thorough reform in public, a technical blockage in public, public unrest through a strike.",
+      "printed_page": 384,
+      "finding": "Replaced symbol-only cache with all six public-row clauses, including public reform, technical blockage and unrest through a strike."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-vulcanus.md",
+      "old_abc": "Dynamic power of psychic energy, influential knowledge renewal, end of a new power, successful power of technology, power through new knowledge, sudden violenceV propagation, and technical energy consciousness",
+      "new_abc": "Dynamic power of psychic energy, influential renewal of knowledge, the end of a new power, successful power of technology, strength through new knowledge, sudden spread of force or violence, technical energy science.",
+      "printed_page": 385,
+      "finding": "Technical Energie-Wissenschaft is energy science, not energy consciousness; repaired Gewalt-Verbreitung while retaining force/violence range. Seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-zeus.md",
+      "old_abc": "Endurance of technical creativity and restricted new beginnings",
+      "new_abc": "Enduring technical creativity, a restricted new beginning, thorough leadership impulses, thorough technical achievements, reshaping through psychic energy, a new thorough setting of aims, suddenly beginning depression.",
+      "printed_page": 385,
+      "finding": "Restored all seven Zeus clauses; prior cached English preserved only endurance and restricted beginning, omitting leadership, achievement, psychic-energy shaping, aims and depression."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-admetos-equals-apollon.md",
+      "sha256": "2c5976de46d11993dd17c34f40efd4857cfce7c3df8c553ffc5b45299a9e5e2d",
+      "source_section_sha256": "e57441f9fb35992cec221a49ca4c743212f50b8c880a049ec5eafe84bd2ef69a",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-asc.md",
+      "sha256": "baa68ca1150b219a6e1fbba4766a9a1ac3827625a27e2d1598d9a300034490a4",
+      "source_section_sha256": "59c9a5317596ea052f1cbe674e05e06bc3a9f6687ac05fd83afdb3d5ecae6dac",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-cupido.md",
+      "sha256": "6944407d58ca6f5852cc4d9c95fe640f8cb38ac131c78dec1c2d0dd096da4f2f",
+      "source_section_sha256": "c69201e88a269e9189eb6ddcd47b037627c9c40e9123dbb925b62a12128b3fbc",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-hades.md",
+      "sha256": "c6801f58e5352cdb4e55cbb510d4a17970ad6092a7877ed37180e6876b00a542",
+      "source_section_sha256": "462de7ffb54a840c25fc4710ae0550218d075cdacf2e2389f6e71a17bbd9ce8b",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-jupiter.md",
+      "sha256": "2ea4c3d4de0b00e57f9a5895bed069a3fe665620ae53e7fab2ba81c4b17ccbbb",
+      "source_section_sha256": "5b6d80d603162f2bdaaac8b383430ca8809f2ccf41a665370521f8e9f2cedf75",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-kronos.md",
+      "sha256": "95de90b17e52442f3cb6563316c739bc50d84cc8f1acd858d6ce7aebbb7bbb47",
+      "source_section_sha256": "9b94bd2cebb27bde2a1e9e55249c3c2d179ecbdea90e2ddf7f1b9a936064870a",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mars.md",
+      "sha256": "5d3b471d4973b35ab6831d60d654a843c8344e01984901dbc016c48daf51c3af",
+      "source_section_sha256": "f7daec79f6c64a996e4eb3cace2ed89443a84939e9db086f2653f533c2bd9e5a",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mc.md",
+      "sha256": "1f428bd636470353a546301a0995e7664a457610c23c5c3494d805b37b82faa6",
+      "source_section_sha256": "df07a292e857d8173a43b6f3035ca144075fc6ecde6b714ac4e8d613e136d8eb",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-mercury.md",
+      "sha256": "f305078c41c50f4a4bafc4bd18d0481bb3c1fa3b5babb0791769d129e68c208d",
+      "source_section_sha256": "fab8df4272ccd7b92ea66a39e4ca5c837e13d09d8f786694d6753049ce8ebecf",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-moon.md",
+      "sha256": "73869c295b5d19b0faa5f635925472f82bc8a8ee01672e9a94fa1dbaec5672fc",
+      "source_section_sha256": "1b3a7eba3ae1a176712f01eca952d6687fadb47c27a75504339ad2d9f7188976",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-neptune.md",
+      "sha256": "d541d812234afe548da7d9cbef9276d2dfb1479de4197d396aa5d4b410b4889d",
+      "source_section_sha256": "a1a783b21647806cf263a10b31dc1c1061a6da2cf0587b4368c7a622800fb992",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-node.md",
+      "sha256": "993e600d4c4dabe053247b32b0cb4776e872b1248f50b450ac6dd32715668cce",
+      "source_section_sha256": "1943fe67af4b971e64b82f5cd2891e4dbeedd3cc42157f18f1df10372b9fc8f1",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-pluto.md",
+      "sha256": "aa08dff62b8980a1f657de491f3cbcbe953a551b83c86abca611bdb7d2f34f16",
+      "source_section_sha256": "2f69476128bbce577b98d3a3c7d1abc4a3e8b79869a8fa7ae6c210341c493921",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-poseidon.md",
+      "sha256": "3b96f4dbe3f1ffc640db3b140d149b6ad884b68a02565f4146711ff429bc468a",
+      "source_section_sha256": "ba3ebc369f2c22afceb99e0e9a226cb35ed74c5183c9736b947b154b66744fd6",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-saturn.md",
+      "sha256": "0d5098c169e8bd69fcc1df99a601712925d94bdc34f141a97f32e2c331754539",
+      "source_section_sha256": "00802633207e49fa77e376816c2bf0434cccc5d8303446b8bfc1eb04a4bdb953",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-sun.md",
+      "sha256": "7708d82a12647588cff709471ad44f354f305c20c6c761d7d838616cebe8622b",
+      "source_section_sha256": "6f6aa14b8cdd1e4cb82b8a8777978caf3fb99f8e7d6024f99cddfc12a99a2cd4",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-venus.md",
+      "sha256": "aa03e3b12848b2224a493acb8e51894b2fffba9621aaa44a17a5190ba087a5ce",
+      "source_section_sha256": "f6abe0a7845e3ece3aa482c13c7a65a23820d1d0d0a33c7182ee5bdea2e8120c",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-vernal-point.md",
+      "sha256": "9f8e0471d8624c9626b83a9085ce911c294637ed9f776186d1753ae60780c091",
+      "source_section_sha256": "a6392b29cf94aed4b8bea6691f2b4149f2261471f981af17f31df6c41f8efcf0",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-vulcanus.md",
+      "sha256": "75566480cc98bcda2d4fb6621644633859b7d269b036a63fb4a63b9ed303dade",
+      "source_section_sha256": "1f79ec2a5d22a68962fbf292c67570db1225e8154aa467b0820f9bf2103575a2",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-admetos-equals-zeus.md",
+      "sha256": "f6d1a147cd3949b0363a95d67c6d048b86d1777947e09403c27080466c2a4cb1",
+      "source_section_sha256": "0389571269b1f7f9fec76f1b6546ee8a62e691cb4c27cdd08793fec0c58318a2",
+      "checks": "identity/unique adjacent anchor/early route/schema6/unchanged Witte and Links/local link targets passed"
+    }
+  ],
+  "unresolved": []
+}

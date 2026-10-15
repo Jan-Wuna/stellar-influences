@@ -1,0 +1,103 @@
+{
+  "scope": "Sixteen targeted ledger-only closures, no new reviews or canonical edits. Initial combined native apply_patch invocation exceeded Windows command length before launch; sixteen bounded exact-hunk apply_patch calls succeeded.",
+  "before_ledger_sha256": "ec4ded9138b575c1f15600ff51345ebeae6bd176fc6614940b607f9878c62c76",
+  "after_ledger_sha256": "dae5b4c0e3f9d20bb2d3891d7925d1c426b2c10cfef6d1d648b3dbe762914225",
+  "resolved": [
+    {
+      "holder": "wiki/derived/munkasey-moon-asc-concepts.md",
+      "target": "wiki/axes/moon-asc.md",
+      "target_sha256": "5e40492f51de20762397c537516551163232b79c6363aca6452b7578516abd56",
+      "resolved_exact_warning": "External target wiki/axes/moon-asc.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-jupiter-concepts.md",
+      "target": "wiki/axes/moon-jupiter.md",
+      "target_sha256": "32779ccf73930a4030056ea380de709f45f40d23e961462a6dba82555eeccee2",
+      "resolved_exact_warning": "External target wiki/axes/moon-jupiter.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-mars-concepts.md",
+      "target": "wiki/axes/moon-mars.md",
+      "target_sha256": "d2194b5b5ca1238c8d0d9835697a24691d26934f21cbb7cf8842436c07c961fc",
+      "resolved_exact_warning": "External target wiki/axes/moon-mars.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-mc-concepts.md",
+      "target": "wiki/axes/moon-mc.md",
+      "target_sha256": "9038b2a67c9cd7eb7939f015ff08832cf2ec4626d4c1569fffefad021fd008fb",
+      "resolved_exact_warning": "External target wiki/axes/moon-mc.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-mercury-concepts.md",
+      "target": "wiki/axes/moon-mercury.md",
+      "target_sha256": "499a41894c0571aef26a4e3ee80636a1b1699995619b27c92e87b5980855b936",
+      "resolved_exact_warning": "External target wiki/axes/moon-mercury.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-neptune-concepts.md",
+      "target": "wiki/axes/moon-neptune.md",
+      "target_sha256": "1b054bd29364b89fb89168715d3fa16b0b4a97062803f07600f9831bc12c6cfc",
+      "resolved_exact_warning": "External target wiki/axes/moon-neptune.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-node-concepts.md",
+      "target": "wiki/axes/moon-node.md",
+      "target_sha256": "aaa61a572f894005d4bf86c02237675bad5677a471580ba3e1316c4e3fb93d64",
+      "resolved_exact_warning": "External target wiki/axes/moon-node.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-pluto-concepts.md",
+      "target": "wiki/axes/moon-pluto.md",
+      "target_sha256": "f9f482ffb010bf9dbfdd414f3949609dd83f2f29fd60f9444548a52c2954d264",
+      "resolved_exact_warning": "External target wiki/axes/moon-pluto.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-saturn-concepts.md",
+      "target": "wiki/axes/moon-saturn.md",
+      "target_sha256": "8cbb777f42877323baef7834ced95d978691e902a9ded401d282d1e9ffaec0da",
+      "resolved_exact_warning": "External target wiki/axes/moon-saturn.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-uranus-concepts.md",
+      "target": "wiki/axes/moon-uranus.md",
+      "target_sha256": "1cc5dfc2eb14134bda6c816fde54e127497f87ca5f7936dea093df5404c4d62f",
+      "resolved_exact_warning": "External target wiki/axes/moon-uranus.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-moon-venus-concepts.md",
+      "target": "wiki/axes/moon-venus.md",
+      "target_sha256": "faf8b2a6e8a4d91ca9d4d5009e7e5422ba6fa8e0a702d9ec8d7b4652c1faa236",
+      "resolved_exact_warning": "External target wiki/axes/moon-venus.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-neptune-asc-concepts.md",
+      "target": "wiki/axes/neptune-asc.md",
+      "target_sha256": "533cd51ac0d70147335795a4f6a05e6bddb88fa91a9b9b8e7bfef4f0d292ee92",
+      "resolved_exact_warning": "External target wiki/axes/neptune-asc.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-neptune-mc-concepts.md",
+      "target": "wiki/axes/neptune-mc.md",
+      "target_sha256": "3e4f0c54b6a344c74d512fd3314f1ca8c0ae9f0b0cd95bf5764281e999a27d3b",
+      "resolved_exact_warning": "External target wiki/axes/neptune-mc.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-neptune-node-concepts.md",
+      "target": "wiki/axes/neptune-node.md",
+      "target_sha256": "af9e23432b56c2a2575a012858a475c025370c0a9191f2331fd9639eb3d08b92",
+      "resolved_exact_warning": "External target wiki/axes/neptune-node.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-neptune-pluto-concepts.md",
+      "target": "wiki/axes/neptune-pluto.md",
+      "target_sha256": "bdd73a4633747343b33149215e03f15879ab3972ed69514afd8c43b776d8c92a",
+      "resolved_exact_warning": "External target wiki/axes/neptune-pluto.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    },
+    {
+      "holder": "wiki/derived/munkasey-node-asc-concepts.md",
+      "target": "wiki/axes/node-asc.md",
+      "target_sha256": "84c511c44b8715b7543abe2422523814d82c84f6dffdc1edd02425049392e18a",
+      "resolved_exact_warning": "External target wiki/axes/node-asc.md has a blank line between its derived-synthesis HTML anchor and heading; links resolve, but strict adjacency needs its owner or root. Reported to supervisor."
+    }
+  ]
+}

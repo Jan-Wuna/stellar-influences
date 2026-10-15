@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,6 +28,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `Chiron/Asc = Z`
 - Axis page: [Chiron/Asc](../axes/chiron-asc.md)
 - Triad hub: [Chiron Pluto Asc](../triads/chiron-pluto-asc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -37,10 +38,21 @@ updated_at: 2026-04-21
 
 The tendency to hold on obsessively hard to one’s identity, and yet to feel a deep need to let go of its limits so that spiritual realities can be experienced.
 
+Source reference: one-based PDF page 102, Pluto paragraph under “Planets activating the Chiron/Ascendant midpoint.” PDF page 101 is the chapter start. The tendency and deep need coexist in this sentence; “obsessively” is source description without diagnostic criteria.
+
+## Comparative Schema
+
+- **Core meaning:** Strong attachment to identity alongside a need to release its limits for spiritual experience.
+- **Psychology:** Holding on and wanting to let go are simultaneous tendencies in the source's account.
+- **Body/health:** No bodily condition, clinical diagnosis or healing process is stated.
+- **Social/relationship:** The paragraph gives no interpersonal control or partner outcome.
+- **Events/manifestations:** An internal tension around self-definition and spiritual experience, without a named external event.
+- **Conflicts/notes:** The object of release is identity's limits. The entry does not demand abandoning all identity or guarantee a transformative crisis.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Pluto`: profound identity tension, compulsive self-protection, and transformative healing pressure. Main caution: trying to control the very identity structure that needs to be surrendered.
+`Chiron/Asc = Pluto` describes tension between holding tightly to a sense of self and wanting freedom from its limits. The [Sandbach entry](#sandbach-entry) presents both tendencies together, with releasing limits serving the possibility of spiritual experience. The interpretation concerns attachment and openness within that spiritual account, rather than a diagnosed compulsion, self-protective motive or requirement to surrender one's whole identity.
 
 ## Links
 

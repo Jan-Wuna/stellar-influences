@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Admetos = Node`
 - Astronomicon formula: `¢/¦ = g`
 - Axis page: [Hades/Admetos](../axes/hades-admetos.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: PDF p. 284.
+
 To come in touch with poverty. Connections which are depressive.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Fixed connection to the past, development of a connection through deprivation, gross absence of kine connection, poor deepening in one connection, disadvantages due to depression in one connection, and abandonment of fixed connections
+Source: printed p. 444; PDF p. 221, Node row.
+
+German: "Feste Verbindung zur Vergangenheit, Festigung einer Verbindung durch Entbehrungen, gründlicher Verzicht auf eine Verbindung, mangelhafte Vertiefung in einer Verbindung, Nachteile durch Depressionen in einer Verbindung, Verzicht auf feste Verbindungen".
+
+English translation: A firm connection to the past; consolidation of a connection through privations; thoroughgoing renunciation of a connection; deficient deepening within a connection; disadvantages through depressions within a connection; renunciation of firm connections.
+
+## Comparative Schema
+
+- Core meaning: Connections involving poverty, privation, renunciation or the past ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Depressive connections are historical source descriptions, not a diagnosis or stated preference.
+- Body/health: No specific bodily condition is named.
+- Social/relationship: Consolidation and renunciation of connections are distinct source possibilities.
+- Events/manifestations: Contact with poverty and a firm connection to the past are examples.
+- Conflicts/notes: Consolidation through privation remains present beside deficient depth and renunciation.
+
+## Contradictions
+
+Witte emphasizes contact with poverty and depressive ties; ABC adds consolidation and past connection. The formula does not state that someone chooses misery as belonging.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Node`: bonds formed around lack, need, or emotional depletion. Main caution: making depressive contact the basis of belonging.
+In `Hades/Admetos = Node`, Node specifies scarcity and constraint through connections. Contact with poverty and ties described as depressive give Witte's short range ([Witte Entry](#witte-entry)). Connections can also consolidate through privation or link firmly to the past; deficient deepening and renunciation form other ABC expressions. These are different conditions of a bond, with depression terms retained as historical language ([ABC Entry](#abc-entry)).
 
 ## Links
 

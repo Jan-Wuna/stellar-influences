@@ -9,10 +9,10 @@ def test_shared_factor_throughline_note_is_present_in_query_artifacts():
     manifest = json.loads(Path("wiki/query-manifest.json").read_text(encoding="utf-8"))
 
     assert "- Count: `5`" in guide
-    assert "- Shared Factor Throughline: Witte and Ebertin" in guide
-    assert "- Axis Reading Throughline: Falis and Carter" in guide
-    assert "- Orientation Reading Throughline: Witte and Sandbach" in guide
-    assert "- Midpoint Methodology Layer: McBroom" in guide
+    assert "[Shared Factor Throughline: Witte and Ebertin](derived/shared-factor-throughline-witte-ebertin.md)" in guide
+    assert "[Axis Reading Throughline: Falis and Carter](derived/axis-reading-throughline-falis-carter.md)" in guide
+    assert "[Orientation Reading Throughline: Witte and Sandbach](derived/orientation-reading-throughline-witte-sandbach.md)" in guide
+    assert "[Midpoint Methodology Layer: McBroom](derived/midpoint-methodology-layer-mcbroom.md)" in guide
 
     by_slug = {page["slug"]: page for page in manifest["pages"]}
     record = by_slug["shared-factor-throughline-witte-ebertin"]

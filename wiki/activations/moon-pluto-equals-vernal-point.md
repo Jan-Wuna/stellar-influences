@@ -25,6 +25,7 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Vernal Point`
 - Astronomicon formula: `R/Z = VP`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -34,22 +35,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Hourly changes of the general situation. Changes in the public or among people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `190`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-· The development of women in public life, the execution of a people in public life, changes in public life, changes in public life by women, and change in public life
+The unfolding of a woman in public life, the unfolding of a people in public life, changes in a people's public life, changes in public life through women, and changeable feelings in public.
+
+## Comparative Schema
+
+- core meaning: change in the general situation and public life.
+- psychology: ABC includes changeable feelings expressed publicly; no private personality trait is established.
+- body/health: neither entry supplies a specific bodily or health claim.
+- social/relationship: developments among people and women's participation in public life are represented.
+- events/manifestations: hourly changes in circumstances and changing public conditions.
+- conflicts/notes: public development is broader than private emotional transformation; the entries do not establish that every change is a crisis.
+
+## Contradictions
+
+- Both entries address public change. Witte specifies hourly fluctuations, while ABC gives development and public feeling as forms of change; neither fixes one universal pace or outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Vernal Point`: Hourly changes of the general situation. Changes in the public or among people.
-- Practical focus: externalizes `Moon/Pluto` into public and general conditions that change quickly. It emphasizes collective flux, hourly shifts, and unstable social atmosphere, making emotional transformation visible in the wider environment rather than only within the private psyche.
-- Practical expression: · The development of women in public life, the execution of a people in public life, changes in public life, changes in public life by women, and change in public life.
+Vernal Point specifies the Moon/Pluto pair through changes visible in public life and the general situation. Witte emphasizes hourly fluctuations; ABC adds the public development of women and peoples, changes brought about by women, and changeable feelings expressed publicly ([Witte entry](#witte-entry); [ABC entry](#abc-entry), printed p. 190). The shared focus is collective change, with no necessary claim that it is either destructive or beneficial.
 
 ## Links
 

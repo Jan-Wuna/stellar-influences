@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = MC`
 - Astronomicon formula: `R/W = MC`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Mentally depressed woman. Man deserted by his wife. Serious attitude. To retire. Reserved. To keep distant, to be conservative.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-I at the a serious woman, my people has problcme, my patient wife, my duties as a woman, problems of my wife, pain of my wife, seclischc GcmUts-13clastung, and separation from my wife
+My wife's patience, disturbed feelings of the soul, I am a serious woman, my people has problems, my patient wife, my tasks as a woman, my wife's problems, my wife's pain, inner emotional burden, and separation from my wife
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `127`, entry `0385`.
 
 #### Ebertin Entry
 
 A person with self-control, a sense of duty and prudence. The feeling of being lonely or deserted, being sick or sad.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `32` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Personal determination to handle your emotional side in a more mature manner; a 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal emotional responsibility, reserve, and attention to basic needs.
+- psychology: prudence, duty, self-control, loneliness, and growing understanding of motives are named.
+- body/health: feeling sick or depressed and a wife's pain remain historical associations, not diagnoses.
+- social/relationship: parental recognition, personal separation, and helping others with emotional problems are examples.
+- events/manifestations: retirement, maintaining distance, and work meeting basic needs are stated.
+- conflicts/notes: maturity is a possible process in Munkasey, not proof of steady public authority in every case.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize reserve, loneliness, or desertion; Sandbach emphasizes helping others and meeting needs, while Munkasey describes emotional maturation. These preserve different outcomes of seriousness rather than one guaranteed vocation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = MC`: dependable vocation, mature emotional authority, and the capacity to carry long-term obligations visibly and steadily. Main caution: burdened public feeling: outer life can become too joyless, isolated, or ruled by emotional restraint.
+In Moon/Saturn = MC, MC specifies the pair through personally felt duty, reserve, and emotional needs. [Witte](#witte-entry) names a serious attitude and withdrawal; [Ebertin](#ebertin-entry) puts prudence and self-control beside loneliness or sadness. [ABC](#abc-entry) retains personal duties, a wife's difficulties, and emotional burden (printed p. 184, PDF p. 91).
+
+[Munkasey](#munkasey-entry) adds a process of maturing emotional conduct and understanding motives (p. 120). [Sandbach](#sandbach-entry) gives a vocational expression in helping with emotional problems or basic needs. These make care and maturity possible directions without turning reserve or distress into assured public authority.
 
 ## Links
 

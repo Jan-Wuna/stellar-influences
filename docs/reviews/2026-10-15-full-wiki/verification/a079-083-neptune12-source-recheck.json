@@ -1,0 +1,446 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twelve missing082 Uranus/Neptune full reviews, counted once.",
+  "source_repairs": "Eight ABC translations repaired; Poseidon and Zeus ABC preserved. Repeated Neptune/Uranus sole Munkasey entries preserved. Pluto restored seven ABC clauses and removed misplaced Ebertin Mercury footnote59, now preserved on Mercury081. Venus duplicated and corrected against actualSandbach104.",
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-neptune-equals-moon.md",
+      "sha256": "2646b515fa7ee51aca8b3ee54035fc649d240ac05d3292783bdcb9f0cb103021",
+      "source_section_sha256": "cb9b8fafb6d129e9d0e8e98554d180d329cd16f374e77bb407c1d73715a67ad4",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected exchange to disappointment and ideas to premonitions; all seven ABC clauses verified, retaining source-specific women examples."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-neptune.md",
+      "sha256": "8e62cbdbddfff440c989c9a9913b4d0b52d326865a07ca7649607dcbc8274534",
+      "source_section_sha256": "7a94501e8b3745b379d73e6eef35289d95ce1d5c005a185e135cde071b9d3121",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-node.md",
+      "sha256": "761739f5d330c15fd12a95d57c6b32841d49fe8d7d70f003340278ce4a84e75c",
+      "source_section_sha256": "fb17f0a43283bd5e240798077807cf4d00638d7abbb85e8f049053c1cd0cf9ec",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected sudden perception to sudden denial (Verneinung) of a connection; all six ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-pluto.md",
+      "sha256": "b447e8f6e4ae881f37a6fd836ae52433b658a9cde2fd837a9e51813e15a15f6f",
+      "source_section_sha256": "fa7904528fc2578181e47df910d353bc4b652d4e5cab4e6b8bbddea3d24dbca0",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored all seven ABC clauses: missing air-technology developments, development of sudden premonitions and transforming creeping unrest precede the four remaining clauses. Removed Ebertin note59 wrongly appended to Pluto; actual268 places its marker with Mercury0941, now restored there."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-poseidon.md",
+      "sha256": "038f05e0e6f34ceddb86262f276df01586192fdcc72e3245f3a4db73772352b3",
+      "source_section_sha256": "ff6826f05456a7d507993305a2579480b3670a4a41274add8addb8601f0aaa97",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "All eight ABC clauses and Witte prose preserved after scan comparison; exact references added."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-saturn.md",
+      "sha256": "e3c9114d545c4bbee0601a397f3025bbf30655b59ce426aa837edd78db26d5c5",
+      "source_section_sha256": "9f10b3b3ccc914010ed0cf28cdaaae41823aee57888e345966214df49b905f44",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected poor technology to future technology, exchange to disappointment, fine tuning to sensitivity and losses by the weak to losses through weakness; all seven ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-sun.md",
+      "sha256": "3d53cada464bb5b33db6200885c201f70bcb45061bcd1af9195efc8045a40c0f",
+      "source_section_sha256": "dc58bc8856392934ab6b17df1a14a245e4948c6567218abc1e349c77630c8fc7",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected Exchangeable to disappointing personal event; all seven ABC clauses verified, preserving bodily unrest/weakness and air-technology setting."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-uranus.md",
+      "sha256": "387050f869884921e4eb44f0bbb61bc47f3a21fb864ee3910cfdd01726f4ea4b",
+      "source_section_sha256": "fcc5409168ba7ed0531c702b494ebaae89b82d20f0de59f44c22fa7c39fc6edc",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-venus.md",
+      "sha256": "e39a8e1d0705782b91aa68269ae5416e43daf646fbaf8aa6b2204e510ad0a18e",
+      "source_section_sha256": "47487a069e35c54a84274065c1b4684c57d9b6d7b32d62dc411c078a41859c31",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected love exchange to disappointment in love and artist to art (Kunst), preserving all seven ABC clauses. Removed duplicated and from Sandbach and and/or against actual104."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-vernal-point.md",
+      "sha256": "e7fa84fd9d7df7f2f7d5fbca3b4fcadd5ce22d2c573047cec3a9a2c064487ef5",
+      "source_section_sha256": "607cd2643bc7470187ad54c85da6492285218896ad874e088342301c3070b99e",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored omitted dissolution of public tensions and surprising public weakness, repaired refined technology and stray glyph; all six ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-vulcanus.md",
+      "sha256": "49eba3a43c1d11ffe406717c97063db534d67713f8c44f9a89e08bd809b79249",
+      "source_section_sha256": "d5b06c5c8e4a4b2ee0bb09a1b5e2b239d2491460fec50e595c9548d061060932",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected powerweakness to weakness of power and power resolution to dissolution of power (Macht-Auflösung); all nine ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-zeus.md",
+      "sha256": "f49cc0fc44ca082b36fe26cb69c61dde74227599282462e1b90ca6ca5172daf8",
+      "source_section_sha256": "0d53b9037f42b40c601e7a569b2969d903f83ea9c324ef47adb140a4e727744a",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "All eight ABC clauses and complete Witte prose preserved after scan comparison; exact references added."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-neptune-equals-moon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected exchange to disappointment and ideas to premonitions; all seven ABC clauses verified, retaining source-specific women examples."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected exchange to disappointment and ideas to premonitions; all seven ABC clauses verified, retaining source-specific women examples.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed370/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed266/PDF268, code0940; verification/a079-083-ebertin-neptune-268.png.",
+        "Sandbach exactPDF104; verification/a079-083-sandbach-neptune-104.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "2646b515fa7ee51aca8b3ee54035fc649d240ac05d3292783bdcb9f0cb103021"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-neptune.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed310 With Itself; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "8e62cbdbddfff440c989c9a9913b4d0b52d326865a07ca7649607dcbc8274534"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-node.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected sudden perception to sudden denial (Verneinung) of a connection; all six ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected sudden perception to sudden denial (Verneinung) of a connection; all six ABC clauses verified.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed370/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed267/PDF269, code0947; verification/a079-083-ebertin-neptune-269.png.",
+        "Sandbach exactPDF105; verification/a079-083-sandbach-neptune-105.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "761739f5d330c15fd12a95d57c6b32841d49fe8d7d70f003340278ce4a84e75c"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-pluto.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Restored all seven ABC clauses: missing air-technology developments, development of sudden premonitions and transforming creeping unrest precede the four remaining clauses. Removed Ebertin note59 wrongly appended to Pluto; actual268 places its marker with Mercury0941, now restored there."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Restored all seven ABC clauses: missing air-technology developments, development of sudden premonitions and transforming creeping unrest precede the four remaining clauses. Removed Ebertin note59 wrongly appended to Pluto; actual268 places its marker with Mercury0941, now restored there.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed371/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed266/PDF268, code0946; verification/a079-083-ebertin-neptune-268.png.",
+        "Sandbach exactPDF105; verification/a079-083-sandbach-neptune-105.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "b447e8f6e4ae881f37a6fd836ae52433b658a9cde2fd837a9e51813e15a15f6f"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-poseidon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "All eight ABC clauses and Witte prose preserved after scan comparison; exact references added."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "All eight ABC clauses and Witte prose preserved after scan comparison; exact references added.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed371/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "038f05e0e6f34ceddb86262f276df01586192fdcc72e3245f3a4db73772352b3"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-saturn.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected poor technology to future technology, exchange to disappointment, fine tuning to sensitivity and losses by the weak to losses through weakness; all seven ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected poor technology to future technology, exchange to disappointment, fine tuning to sensitivity and losses by the weak to losses through weakness; all seven ABC clauses verified.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed371/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed266/PDF268, code0945; verification/a079-083-ebertin-neptune-268.png.",
+        "Sandbach exactPDF104; verification/a079-083-sandbach-neptune-104.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "e3c9114d545c4bbee0601a397f3025bbf30655b59ce426aa837edd78db26d5c5"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-sun.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected Exchangeable to disappointing personal event; all seven ABC clauses verified, preserving bodily unrest/weakness and air-technology setting."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected Exchangeable to disappointing personal event; all seven ABC clauses verified, preserving bodily unrest/weakness and air-technology setting.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed370/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed266/PDF268, code0939; verification/a079-083-ebertin-neptune-268.png.",
+        "Sandbach exactPDF104; verification/a079-083-sandbach-neptune-104.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "3d53cada464bb5b33db6200885c201f70bcb45061bcd1af9195efc8045a40c0f"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-uranus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Sole Munkasey With Itself printed310 entry preserved against baseline and assigned evidence; no raw visual verification claimed.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed310 With Itself; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "387050f869884921e4eb44f0bbb61bc47f3a21fb864ee3910cfdd01726f4ea4b"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-venus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected love exchange to disappointment in love and artist to art (Kunst), preserving all seven ABC clauses. Removed duplicated and from Sandbach and and/or against actual104."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected love exchange to disappointment in love and artist to art (Kunst), preserving all seven ABC clauses. Removed duplicated and from Sandbach and and/or against actual104.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed370/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png.",
+        "Ebertin printed266/PDF268, code0942; verification/a079-083-ebertin-neptune-268.png.",
+        "Sandbach exactPDF104; verification/a079-083-sandbach-neptune-104.png.",
+        "Munkasey printed308 with Planets and Points; source wording preserved against baseline and assigned evidence, no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "e39a8e1d0705782b91aa68269ae5416e43daf646fbaf8aa6b2204e510ad0a18e"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-vernal-point.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Restored omitted dissolution of public tensions and surprising public weakness, repaired refined technology and stray glyph; all six ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Restored omitted dissolution of public tensions and surprising public weakness, repaired refined technology and stray glyph; all six ABC clauses verified.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed370/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "e7fa84fd9d7df7f2f7d5fbca3b4fcadd5ce22d2c573047cec3a9a2c064487ef5"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-vulcanus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "Corrected powerweakness to weakness of power and power resolution to dissolution of power (Macht-Auflösung); all nine ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "Corrected powerweakness to weakness of power and power resolution to dissolution of power (Macht-Auflösung); all nine ABC clauses verified.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed371/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "49eba3a43c1d11ffe406717c97063db534d67713f8c44f9a89e08bd809b79249"
+    },
+    {
+      "path": "wiki/activations/uranus-neptune-equals-zeus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler or keyword list required specific source-linked synthesis and meaningful six-category schema; inherited partial edits required full verification.",
+        "All eight ABC clauses and complete Witte prose preserved after scan comparison; exact references added."
+      ],
+      "changes": [
+        "Verified coherent exact-oriented synthesis, early route and immediate unique stable anchor; replaced old cached-source holds with actual entry limits.",
+        "All eight ABC clauses and complete Witte prose preserved after scan comparison; exact references added.",
+        "Added numbering-system references where newly verified and preserved all historical bodily/gender/spiritual qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/every source entry/notes/Links, canonical Uranus/Neptune axis and all matching assigned evidence.",
+        "Personally inspected actual ABC184 printed370–371/Witte234 rows where represented; exact Sandbach104–105 and Ebertin268–269 where represented; Munkasey prose preserved without new visual-proof claim.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/early route/schema6/source-preservation exceptions/unchanged Links/targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed371/PDF184; verification/a079-083-udo-pdf184.png.",
+        "Witte PDF234; verification/a079-083-witte-pdf234.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json",
+      "sha256": "f49cc0fc44ca082b36fe26cb69c61dde74227599282462e1b90ca6ca5172daf8"
+    }
+  ]
+}
+

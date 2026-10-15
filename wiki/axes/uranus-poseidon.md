@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Poseidon`
 - Astronomicon axis: `X/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); related activations retain distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- PDF page: 243.
+
 Mentally alert. Signs of life. To be lively or to be alive. Mental tension. Truth. The light bearer. Phosphorus. Enlightenment. Propaganda. Moving pictures. Television. Illumination. Light. Elucidation. Clarification, clear up. Clarity. Proof. Revelation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Exciting Truth, Spiritual Renewal, Spiritual Impulses, Cultural Event, Reform Ideas, Sudden Clarity, Surprising Truth, Nivety Technique, and Restless Mind
+- Printed pages: 388–389; PDF page: 193.
+
+Exciting truth, mental or spiritual renewal, mental or spiritual impulses, cultural event, cultural renewal, new insights, reform ideas, sudden clarity, surprising truth, sensible technology, restless mind.
+
+## Comparative Schema
+
+- core meaning: alertness, illumination and clarification, with sudden insight or mental/spiritual renewal ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: lively attention, mental tension, reform ideas and a restless mind alongside moments of clarity ([pair summaries](#pair-summary), [ABC](#abc-pair-summary)).
+- body/health: signs of life and liveliness are explicit; no particular illness or treatment is stated in these summaries.
+- social/relationship: cultural events and renewal, propaganda and screen media provide public expressions; no specific intimate relationship pattern is supplied.
+- events/manifestations: revelations, elucidation, new insights and sensible technology, as well as literal light, phosphorus, moving pictures and television ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- conflicts/notes: truth and proof appear beside propaganda; the pair does not guarantee that a message or insight is true. These short summaries do not establish a fixed character or outcome.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Exciting Truth, Spiritual Renewal, Spiritual Impulses, Cultural Event, Reform Id
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to mentally alert. Signs of life. To be lively or to be alive. Mental tension. Truth. The light bearer. Phosphorus. Enlightenment. Propaganda. Moving pictures. Television. Illumination. Light. Elucidation. Clarification, clear up. Clarity. Proof. Revelation.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Poseidon` connects mental alertness and tension with illumination: something becomes clear, a new insight arrives, or an idea prompts mental or spiritual renewal. The [Witte summary](#pair-summary) names truth, proof, revelation and elucidation; [Udo](#abc-pair-summary) adds sudden clarity, reform ideas, cultural renewal and a restless mind. Liveliness and signs of life belong to this range, without supplying a specific medical claim.
+
+Illumination also has literal and public meanings here. Witte includes light and phosphorus, moving pictures, television and propaganda, while Udo names cultural events and sensible technology. These entries therefore extend beyond private insight to the means by which ideas and images circulate. The presence of both truth and propaganda does not establish the truth of a particular message, and the summaries specify no inevitable event or relationship outcome. Each closing factor must be read in its own oriented activation.
 
 ## Links
 

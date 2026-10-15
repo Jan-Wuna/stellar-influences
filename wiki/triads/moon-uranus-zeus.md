@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Zeus`
 - Astronomicon triad-set: `R X £`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md)
-- [Moon/Zeus = Uranus](../activations/moon-zeus-equals-uranus.md)
-- [Uranus/Zeus = Moon](../activations/uranus-zeus-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Zeus](../factors/zeus.md) |
+| [Moon/Zeus = Uranus](../activations/moon-zeus-equals-uranus.md) | [Moon/Zeus](../axes/moon-zeus.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Zeus = Moon](../activations/uranus-zeus-equals-moon.md) | [Uranus/Zeus](../axes/uranus-zeus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Uranus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Moon/Zeus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `197`
-- `Uranus/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `238`
-- `Uranus/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `378`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Uranus = Zeus](../activations/moon-uranus-equals-zeus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-zeus.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-zeus.md#abc-entry) (printed p. 187) |
+| [Moon/Zeus = Uranus](../activations/moon-zeus-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-zeus-equals-uranus.md#witte-entry) (PDF p. 132); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-zeus-equals-uranus.md#abc-entry) (printed p. 197) |
+| [Uranus/Zeus = Moon](../activations/uranus-zeus-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-zeus-equals-moon.md#witte-entry) (PDF p. 238); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-zeus-equals-moon.md#abc-entry) (printed p. 378) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Uranus = Zeus`: This activation energizes `Moon/Uranus` through tense creative force, rebellious pressure, and strong-willed collective action. It turns unstable feeling into production, conflict, or mobilization, where unrest seeks direction and active outlet.
-- `Moon/Zeus = Uranus`: Sudden emotion. To incite. Ring leader. Ignite (motor). Procreation with technical support.
+`Moon Uranus Zeus` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

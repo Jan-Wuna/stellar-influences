@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Hades](../triads/saturn-uranus-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Sudden separation through vulgarity and treachery. Losses trough violence. Old t
 
 #### ABC Entry
 
-Exciting losses due to criminality, mysterious rhythm torment, adverse concentration on technology, new problems from the past, sudden shocks from the hidden, sudden loss danger, and surprising painful renunciation
+Agitating losses through criminality, mysterious disturbance of rhythm, adverse concentration on technology, new problems from the past, sudden disturbances from the hidden, sudden danger of loss, and surprising painful renunciation.
+
+## Comparative Schema
+
+- core meaning: Sudden loss or disruption involving hidden, harmful or deteriorated conditions.
+- psychology: Concentration on technical matters can have adverse consequences.
+- body/health: No specific bodily diagnosis is supplied.
+- social/relationship: Treachery, vulgarity or violence accompany separation in Witte.
+- events/manifestations: Old equipment idles or shuts down; past problems and concealed disturbances emerge.
+- conflicts/notes: Criminality and violence are source examples, not an accusation or universal outcome.
+
+## Contradictions
+
+The technological and interpersonal examples are parallel manifestations; the entries contain no explicit opposing claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Uranus = Hades`: sudden separation through vulgarity and treachery, losses trough violence, old technology in idle mode.
-- Practical expression: exciting losses due to criminality, mysterious rhythm torment, adverse concentration on technology, new problems from the past, and sudden shocks from the hidden.
+Hades specifies Saturn/Uranus as abrupt disruption connected with concealed trouble, harmful conduct or the residue of the past. The technological expression is equipment left idle or shut down permanently; the interpersonal expression includes treachery and violent loss. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) and [ABC Entry](#abc-entry) (printed p. 349; PDF p. 173) link these through sudden loss of functioning or connection, without requiring criminality in every case.
 
 ## Links
 

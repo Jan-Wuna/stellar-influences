@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Mars Admetos](../triads/mercury-mars-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Mars entry, PDF p. 171.
 
 To combat one’s own ungainliness. Being startled out of a resting state. From resting state into activity.
 
@@ -42,13 +46,29 @@ To combat one’s own ungainliness. Being startled out of a resting state. From 
 
 #### ABC Entry
 
-Consolidation of youth work, blocked work in youth, restricted movementWork, restricted youth work, grilndliche work in the traffic, grilndliche media Aktiv, reports about work Streik, and Aktion in the Verkehrs Stau
+Source: “Merkur + Admetos,” Mars entry, printed p. 264 / PDF p. 131. Translation checked against the German passage.
+
+Consolidation of youth work, blocked creative work in youth, restricted movement-related work, restricted youth work, thorough work in transport, thorough media activity, news about a labour strike, activity in a traffic jam.
+
+## Comparative Schema
+
+- **Core meaning:** Transition from rest or obstruction into activity.
+- **Psychology:** Being startled into action and addressing awkwardness.
+- **Body/health:** Ungainliness is source wording, not a motor diagnosis.
+- **Social/relationship:** Restricted youth work and a work-strike context.
+- **Events/manifestations:** Starting activity, thorough transport/media work, strike reports, and activity in congestion.
+- **Conflicts/notes:** Blocked activity and consolidated or thorough work are both represented; no necessary irritation or provocation is supplied.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 264 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte names a transition from rest into activity. ABC includes restriction and a labour strike alongside consolidated youth work and thorough transport or media activity. Effort is represented under limits without requiring complete paralysis.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Mars` jolts the axis out of stillness into effort and struggle.
-- Chart expression: fighting one's own inertia, being forced from rest into action, and concentrated thought that becomes active only after pressure, irritation, or abrupt provocation.
+In `Mercury/Admetos = Mars`, Mars specifies concentrated or restricted thought and communication through the effort to become active. Witte moves from rest into action and confronting one's ungainliness; ABC places blocked youth work and strike reports beside thorough transport or media activity and action within congestion. The connection is effort meeting stillness or obstruction, with consolidation and practical work remaining possible expressions. Neither irritation nor a medical explanation of awkwardness is supplied. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 264 / PDF p. 131)
 
 ## Links
 

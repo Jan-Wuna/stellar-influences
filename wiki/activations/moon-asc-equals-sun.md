@@ -32,11 +32,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Sun Moon Asc](../triads/sun-moon-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Personal acquaintance with women. Easily made acquaintances. Many changes in acquaintances. Female relatives of the native.
 
@@ -44,11 +48,15 @@ Personal acquaintance with women. Easily made acquaintances. Many changes in acq
 
 #### ABC Entry
 
-Other female persons, friendly people in the area, people of other people, man of a woman, mother in personal proximity, woman's personal environment, hour of the day in the place, female persons as partners, and centres of other people
+- Source passage: `Aszendent + Mond`; printed p. `102`; PDF page `50` (complete oriented row checked against actual scan).
+
+Other female persons, feelingful person in the surroundings, people of other peoples, husband of a feelingful woman, mother in personal proximity, the woman's personal surroundings, hour of the day at the place, female persons as partners, centers of other peoples.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Moon/Ascendant midpoint`; exact Sun entry at one-based PDF page `39` (checked in actual raw PDF text).
 
 One knows the importance of allowing oneself to be vulnerable and open when relating. Since you’re conscious of the strong effect that others have on you, you need to choose carefully who you open up to.
 
@@ -63,22 +71,21 @@ Effecting major changes in relating to others; determination in caring for those
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal involvement and an active caring role specify emotional relationships.
+- psychology: Awareness of vulnerability and of other people's strong effect on oneself.
+- body/health: No bodily or medical condition is established.
+- social/relationship: Female acquaintances and relatives in Witte; deliberate openness and care in modern entries.
+- events/manifestations: Changes in acquaintances and changes in one's way of relating are both stated.
+- conflicts/notes: The scan distinguishes a feelingful person, people of other peoples and a husband of a feelingful woman; gender and collective examples remain attributed.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. The local, public and relational examples retain their distinct source settings and do not imply universal outcomes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Sun`: lively personal rapport, emotional visibility, and a strong link between inner life and outward manner. Main caution: subjectivity of selfhood: identity can become too mood-driven or reactive to the immediate emotional environment.
+In `Moon/Asc = Sun`, emotional contact involves conscious personal care and a choice about whom to trust with one's vulnerability. Easy or changing acquaintances and female relatives give that involvement familiar social settings; determination to care and changes in one's way of relating show active participation. ABC's feelingful nearby person, mother in personal proximity and partner examples retain the local emotional setting, while people of other peoples broaden it beyond familiar ties. ([Witte](#witte-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 140](#munkasey-entry); [ABC](#abc-entry).)
 
 ## Links
 

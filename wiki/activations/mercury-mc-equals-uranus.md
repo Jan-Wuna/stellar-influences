@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Uranus MC](../triads/mercury-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 A spontaneous thought. To become excited. To get enraged. To be suddenly notified.
 
@@ -45,17 +49,25 @@ A spontaneous thought. To become excited. To get enraged. To be suddenly notifie
 
 #### ABC Entry
 
-Stirring dynamic language, arousal of a young soul, I the kc to the technique, I gcbc thought impulse, my new language, my restless juggling, my speech rhythm, sudden movement of the soul, and mental restlessness through thoughts
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Beseelte dynamische Sprache, Erregung einer jungen Seele, ich denke an die Technik, ich gebe Gedanken-Impulse, meine neue Sprache, meine unruhige Jugend, mein Sprach-Rhythmus, plötzliche Bewegung der Seele, seelische Unruhe durch Gedanken
+
+Editorial translation from the German passage: Soulful dynamic language; excitement of a young soul; I think of technology; I give impulses of thought; my new language; my restless youth; my speech rhythm; sudden movement of the soul; inner unrest through thoughts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0573.
 
 Emotional and mental irritability, ambition. Directing thoughts suddenly into a different channel, getting excited or upset, the state of being impelled-to sudden action.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 The need to take an independent course in developing one’s ideas. To have spiritual ideas come to one suddenly, or in an unexpected form. To rebel against con servative thinking and the ideas of those general accepted as authorities.
 
@@ -70,22 +82,21 @@ Manipulating position and friends to gain respect and regard for personal attain
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal thought or direction changes suddenly and independently.
+- psychology: Excitement, irritability, ambition, and intellectual independence.
+- body/health: No bodily or medical condition is established.
+- social/relationship: Rebellion against accepted authorities; Munkasey's manipulation of friends or position.
+- events/manifestations: Spontaneous ideas, sudden news, and unpredictable changes in standing.
+- conflicts/notes: Intellectual independence and manipulating position or friends are separate source possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Unexpected ideas and abrupt emotional shifts differ from Munkasey's deliberate use of friends or position. All remain explicit possibilities, without making every departure from convention inspired.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Uranus`: innovative outlook, independent thinking, and the refusal to let accepted authorities define one's mental path. Main caution: instability: excitement, irritability, or abrupt changes of course can disrupt continuity of purpose.
+Uranus specifies Mercury/MC through sudden shifts in thought and an independent mental course. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries connect spontaneity to excitement, anger, or sudden action, while [Sandbach](#sandbach-entry) describes unexpected ideas and resistance to accepted authorities. [Munkasey](#munkasey-entry) (p. 184) adds unpredictable changes in standing and unusual displays of maturity, alongside manipulating position or friends. The shared theme is abrupt or individual direction, without making every departure from convention either inspired or disruptive.
 
 ## Links
 

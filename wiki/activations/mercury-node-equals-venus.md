@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Triad hub: [Mercury Venus Node](../triads/mercury-venus-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Node + Mercury`
+- Source reference: PDF p. 141 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,18 @@ Fond to exchange ideas and thoughts, from love for the cause. Mind games about a
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Merkur`
+- Source reference: printed p. 208; PDF p. 103 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Encounters with artists describe, harmonious language mediation, binding peace language, connection of youth and beauty, connection to female youth, links to media arts, and preference for intellectual connections
+Describing encounters with artists, harmonious mediation in conversation, binding peace talks, connection of youth and beauty, connection to female youth, links to media arts, and preference for intellectual connections
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Dragon's Head`
+- Source reference: printed p. 167; entry `0545` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +67,16 @@ Urge to mix with people expressing the same feelings and having the same interes
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Node midpoint`
+- Source reference: PDF p. 51 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 Seeking out people who will appreciate one’s ideas. The artist who is searching for a community of fellow artists. To seek a lover who will introduce one to new ideas, and who will push one to develop greater communication skills. To appreciate art that connects lots of ideas together.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 176 (entry page).
 
 - Source heading: `MERCURY/NODE with Planets and Points`
 - Source page: `176`
@@ -70,22 +87,21 @@ The rapport you develop thru meetings with people who have interests in banking 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Appreciation and shared interests bring people into conversation. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- psychology: Seeking people who value one's ideas and art that connects ideas. [Sandbach](#sandbach-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Artistic communities, flirtation, correspondence acquaintances, and love relationships. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- events/manifestations: Meetings connected with banking or the arts and messages about beauty. [Munkasey](#munkasey-entry), p. 176.
+- conflicts/notes: ABC's reference to female youth is source-specific, not a general gender requirement. Shallow or evasive communication is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is identified; the entries describe several settings for appreciative exchange.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Venus`: diplomacy, agreeable networking, and the ability to create social ease through thoughtful and attractive expression. Main caution: smooth but shallow relating: communication can favor comfort and charm over necessary frankness or depth.
+In `Mercury/Node = Venus`, Venus specifies connections through liking, shared interests, and the wish to have ideas appreciated. Artistic fellowship and romantic exchange can therefore meet on the same ground: conversation that draws people together and may develop their communication. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry). [Munkasey](#munkasey-entry), p. 176, adds rapport through banking or the arts and the help of allies in communicating messages of beauty.
 
 ## Links
 

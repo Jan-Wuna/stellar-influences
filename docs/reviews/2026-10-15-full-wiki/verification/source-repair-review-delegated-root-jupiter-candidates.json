@@ -1,0 +1,999 @@
+{
+  "paths": [
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-apollon.md",
+      "before_sha256": "81c0a4a6b6299db746e85dde4b5f1699fb4e9fc66975a88aa831decf09d4b5db",
+      "after_sha256": "1e96459e0e85b235e10aa0139bf3bc14ae27d6bdef330dd75c0c853347cba915",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-asc.md",
+      "before_sha256": "7dbc561a3cdf66a41637b59398e071e12dab875a05ea6290ae78654783fe961b",
+      "after_sha256": "9e1c5af1d93d2c15d771539fc273bf59bfb3c1811a94f7be584a47d342ba5240",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-cupido.md",
+      "before_sha256": "bc2efbbde1fd528ca20a9a491d69d22c8cab7b161cecdfc805bd8d63747879d9",
+      "after_sha256": "509ce9113fcb6572df74c0547ddd83d65e39b990b8fbd2b9b03dacfe7f4a33d8",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-hades.md",
+      "before_sha256": "53f77aca8bfc1b02e64f45fe4cc0bea699402d227de733f8567b4d896c244b37",
+      "after_sha256": "91923f733f93eafe5f4299e9354feb424e965f5424e4b50c07d2c3997bb93b8a",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-kronos.md",
+      "before_sha256": "fd4367a2476f41c78e2e98e1984dae1c8f7106b27e95b66ef7b8c6647e265723",
+      "after_sha256": "bb356dda773a0f0af95c9c0d06196584e96bad915b490ab2af0b2e5438d8883e",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-mars.md",
+      "before_sha256": "7b7d9130cb602c43028128e77ebbba71922b88e7d87755f959ddeb709eccfff7",
+      "after_sha256": "68d22c22c1caed3a05bc2b572d0528e65f7e3729a4e3910b7165e843ded43b8d",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 1,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-mc.md",
+      "before_sha256": "c1c63d4d853c3c409ef196b327cc02edd74ecb68951bf1bd8d2ffc1b2391837f",
+      "after_sha256": "c24cff9461a7ddab805d1fa18fbff77a85b7533fa701389ef5c4889dd3f59c8e",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-mercury.md",
+      "before_sha256": "d9e5651e5539585c6b49972659f46b0bbd01fe26fb81c4934f7a2a53fb2528b0",
+      "after_sha256": "87fa674ddcd863df73053dbd39a77e4e2769899c5e7e2e5238f748809a4270f7",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-moon.md",
+      "before_sha256": "e766f675ed4c94f8a44f790c1841a72db5a175e4748c7d69ebb6b01d20d499b5",
+      "after_sha256": "e687b18aa0bc377c663d7f0f060cee5ba289e0c0518b569f5f2405b3ca260632",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-neptune.md",
+      "before_sha256": "5c125eced8cb17f216af4cf84c937a8f48e1350e8423899cb6e4e88879b14571",
+      "after_sha256": "834c67d847921790f54a937b071e51fd914611ca4118fa53cff075defee4cc2c",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-node.md",
+      "before_sha256": "b4471525b8ae1ae9fde5fea179df0ae0444b4f50160c9bf769f7d61fb11b6454",
+      "after_sha256": "8e32253131d21c3d286d94e5e55a1e62edc8780451d21c4fe8a4f83fd59eebad",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-pluto.md",
+      "before_sha256": "50b6291cc6393f4e7badc5a41db6e7fb75a6fcdb1ae5de84d0fe84d644794149",
+      "after_sha256": "0d4ca089bd935058f42e160feca1046b01db6e9dafb8392c5e4a458961e8499e",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-poseidon.md",
+      "before_sha256": "af77f372a584803509b7ec381bc7f22e6dbe8d2b8b380e82aa521fe28950dde7",
+      "after_sha256": "542f1a4beaceb658c1c45392bde125f3c3ba5de5c0e7ab6186ecfa20af45f4ca",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-saturn.md",
+      "before_sha256": "4965abb60551ed157909d90b544db1596c6ebd8143ad7a5939ecee7baafb6eaa",
+      "after_sha256": "5ff87ca26f045e8f0a7794b8da54e6b79ba412fcf022e6bc75219ff2098c8df5",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-sun.md",
+      "before_sha256": "8ca7828667e411d9b07de113fd003abc4d104b91322f141cb9e81a1eb1df3105",
+      "after_sha256": "1ca81d70e7f7ad0fc03ae46f9c4aa780b583687223fadd62c2313ed36b91b248",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-uranus.md",
+      "before_sha256": "d7998b709d21bab3098883dc1bf655f255a04471f5a58d555451403ea7e4e0a1",
+      "after_sha256": "044f6c254492699d89acf0ce4bf1394a296c971fcb74f8016c757faa70f62760",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-venus.md",
+      "before_sha256": "d237ec8deb88117c865f437406234e48c0add25465e226a11adaaa81fd1d5095",
+      "after_sha256": "9e02c6e4a9a350e71fd757887b37fe4f584921c87601f4ab734fa13693f2fd62",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-vernal-point.md",
+      "before_sha256": "d394f30f35e8810737cf6e108e7534ad536d5b7fb4dcd800b1a93070f5a4220a",
+      "after_sha256": "38509ed2a2ca17d127c1ef1dd290b09dcda587437a42b3a8e26eb28b72f7cee9",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-vulcanus.md",
+      "before_sha256": "0db20705f182410dfc7ba7876d250a24b6ca3e13827da23c30f1ecc48b976ca2",
+      "after_sha256": "b4b113957e6468cf896a597edec46622d11ba698aea9006970b685b3303d307f",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-admetos-equals-zeus.md",
+      "before_sha256": "717975c71f3c5dc603c3771f0d9df708759c99e4d2c4a703cebb21db8eb58980",
+      "after_sha256": "ae83c18474c959a8218d035561c57d4dee29837945a8906d953d9160543647d3",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-admetos.md",
+      "before_sha256": "6c143dc1326a26ff231f69eb7b973d77e0c0a376ba6f3a8882251c3c2767ba2f",
+      "after_sha256": "e3838ace28fda9b321b7ee0ec358b9c4a1c0899540b9cd84b90992f8b4ebf6af",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-asc.md",
+      "before_sha256": "5c8446fa5a63b848576967a516e5cf2f036cabc97923b7e014f6d583baa0a519",
+      "after_sha256": "c44d8e98a794781f9d9beeb598722aa91f69bf3a79ff7f3bb2fdf0bc361a93cb",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-cupido.md",
+      "before_sha256": "98f0c9f822f170dde745a77c46cef0e47597b35bda8e5be827c62004c9438c41",
+      "after_sha256": "2a07b88871e0fb31817af3231d0c1b96e697eecfdfd61b8e551f0dc37ac76d54",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-hades.md",
+      "before_sha256": "1d20702cca6ce54c43d1564773ea3269bb90941efa41c5f6734a6d46e3dbbac8",
+      "after_sha256": "a84a71c275e938b7f1bfdbf88417da7a69167700c508a81419d3f00af99b42c5",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-kronos.md",
+      "before_sha256": "57a08ed1ce3277086e074a9bfd9ca20add612e4b1b7542782b1ea75563094d50",
+      "after_sha256": "9ef89a32e63ad3f9b8a69fb8856a621b6b8cfb5dd543b48464a660f17090d832",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mars.md",
+      "before_sha256": "85d3caf9ba122ab49e88f97e1a63f5d988959202d19f05f6b490abeb838fd884",
+      "after_sha256": "10daf0de6bec06481d8309c60724641b3737ef80957687d11a4a89e545a0ef86",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mc.md",
+      "before_sha256": "1837b0aa4fa85be89994866ddb6657a9becebaeef8f7f2e166832261b32e8fad",
+      "after_sha256": "85fbeb86407e13bde72b9b2f2479ca4049629730af45659047a5c7310216afc2",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-mercury.md",
+      "before_sha256": "7e094bbab5598d1f4276a86379d4abb5884f7ffa1fd7b8d3e76686e3dfa27609",
+      "after_sha256": "97e58eaf478ac49f4bbb6858c635abec3a57bd878518a6b25433dbe62bfac393",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-moon.md",
+      "before_sha256": "bd30eb587eb4879c52a372964b9e0cd40d5f97bdced13dc660347f424d741ba7",
+      "after_sha256": "e2a9d23ae2bd4b9f1669692d2e1876998eb0de4a39c06e105ea1879bf1e15ede",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-neptune.md",
+      "before_sha256": "fa6b6f1363a3e0c5aee0f64e0ef0747ecf53acac75bd4076bc09a5d6820a7238",
+      "after_sha256": "2b5d7b749be1cb36988dbf8296994914b55a64e9b41f0b824b2898fdabfd33ae",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-node.md",
+      "before_sha256": "a55f4681bba31307f8d1bee77fc3e394b7c715681accee3cd56a9cf9999cddcc",
+      "after_sha256": "5dea77f930164039a5379936f5e6fc3e34324a4854b133fb6438ff49e80c119c",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-pluto.md",
+      "before_sha256": "aaa87731836598f6b6a12b7a8734920c057bb568b24f036b2b0b87bdf5f409d7",
+      "after_sha256": "3ced1dc3c03fef8a18a31c7c1103f5ebd605a67e06c9f723e8efed023e286b0d",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-poseidon.md",
+      "before_sha256": "6f67cb74322081412112e56902327eeb4a906aa1bd570925fcbd46c30b577c97",
+      "after_sha256": "9bb5a73dfdfdee77f99d2603aabfe9cf0925368f646a966dd22a6f04de3a0954",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-saturn.md",
+      "before_sha256": "216c00ecbcc419182ea815116f1e2d0769f06f903365265c701ee6a789b5a59b",
+      "after_sha256": "9947f7f8f3516dfd870afef53a1ee13914eeeb707736f58c610b31edcb8772cc",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-sun.md",
+      "before_sha256": "a0b0701ac4deb0facaab6df056c2eca5fda923b86374198dd58a4ec65644e259",
+      "after_sha256": "477cc40a9c5c74278f4b1fe94845a6c96f1ac8e94945fed8602b20d74a767bb2",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-uranus.md",
+      "before_sha256": "e7f81ad1bb35172fb7bc4f5166a96cebb280b10547b173e3759dba5422de763f",
+      "after_sha256": "38930f79afd12b9136d0a04d65b3eb748fa46562d61e2eb21b8aff11ac491cd5",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-venus.md",
+      "before_sha256": "a65dcb09e1fd8646af5d71fed90a0a820bc6a915b45eb300403a3e8d04796ab2",
+      "after_sha256": "5b981eccf2e17d8c7abf21eead94afc1db006ae4c92e1f466627f810b4ca708e",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-vernal-point.md",
+      "before_sha256": "e4b54c356aaf854becd20dd7c92eea1ceb4cca99a3ee5538d4a55a8131ed9a90",
+      "after_sha256": "deb110751effc31fe4b47b03ebd5c68e2f82d9d4087b12387520fa2178b56deb",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-vulcanus.md",
+      "before_sha256": "2d0b193c3b31b340ac0a53cdc726daf98b11362e1ffc9c2a84082537435b5069",
+      "after_sha256": "7fdd9a16c06ded41bf897dbe4d2c4d33a25144d17bab9a49d1f007d5d5e3e664",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-apollon-equals-zeus.md",
+      "before_sha256": "0e4bd4f74c098cb08a2189e57223b8e00bd2c5489160e5fcf3e019203ee0da05",
+      "after_sha256": "f77ebec9f14f363644bed25687258d8463ddda783a87afac9310a02e03327880",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-admetos.md",
+      "before_sha256": "973603b3fbbba28a7f848e68fceb9435655e135158bfc705e9dc009c1fa17776",
+      "after_sha256": "39b3685d05f37b7960d1e222069dcbb1dc403a69976c7a690c9a3f8be7888da1",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-apollon.md",
+      "before_sha256": "3142dd31117713a98afbce5481ff8d3c55a90c71964cc14d8ac7a630723b86fb",
+      "after_sha256": "3b9ac3538da1aa707cc15ac83c08feb151dfe972053692714085e837cb49513b",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-chiron.md",
+      "before_sha256": "7efc97257972d74fb4528d469b3388879482d680b791653156faaecba49c9c23",
+      "after_sha256": "a5ee908f5319e9070dae34c48ed30dd7efc03299a4ffc08693cc72be17db8fde",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 55,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-cupido.md",
+      "before_sha256": "9bd9c542a13fd7d2a68783779ed6b38613b119b6eb31ac255344afe68316868a",
+      "after_sha256": "0d95b4fba8f8a689209920c50d6db0c79267b4391310d94d003ca77207ea405f",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-hades.md",
+      "before_sha256": "a8e493ad83071cca7ddb2733cfe2f593f9b74dbfe90e002fd9db7513eabe8c0c",
+      "after_sha256": "73fa021aa257cc5a53ab6fb9fec3150531c59cd5f619d9fd3e20e1e4fa5f900d",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 51,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-kronos.md",
+      "before_sha256": "c03aadafb29c6de3547e758f28715b7bfe31df01db8890cea639bd20c8dca225",
+      "after_sha256": "ded60ae77f0da8cf033abcf4a160fbe3d849cbe0342f27c4239d198b67ac45e9",
+      "ledger": "activations-014.jsonl",
+      "ledger_line": 52,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-neptune.md",
+      "before_sha256": "446c0a79f717c1c1cc60873ab6c30d4778ed89f71ca9c365fe20a570dfca0dec",
+      "after_sha256": "3ad204b354b39f315cad9289d544025e3a003295ef1d60ac489cb00574774897",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-uranus.md",
+      "before_sha256": "c7499bcbff3eeabe307a871858b5ceb7284b70b65864a99400a37528cbb1e78d",
+      "after_sha256": "42b2806dd373c9dd538a8194102dc8b3d3d68349514b99f65994894a46ae74cf",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-venus.md",
+      "before_sha256": "bf22b2fffe71435e589b3949a5cb9455a08807b8863db0789e90c0737044ade8",
+      "after_sha256": "e7ecae73d2541bc2ecb94d93e6ba0cfeba8fef8ac4286590b031d3c11c8c50e2",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-asc-equals-zeus.md",
+      "before_sha256": "7e702e9edaeed3b8105eb55bf2e3fc6bbe39748dbdd53d3809e6ed890d3c8ccd",
+      "after_sha256": "582eb4b6965610037d1dadab5fba4a766784bc8b6b0d36482d921dacb1431e56",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-admetos.md",
+      "before_sha256": "2639a91f544573fa211b9593fe4ea899d5471f513fa52f54b02f5dcbc8a8196a",
+      "after_sha256": "46db4de5341f2dfccc2fcf547d926e3a161f7cf7148810d8e0943bfdc0d39712",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-apollon.md",
+      "before_sha256": "d80305384945aedda183164f4e4950decdc0952717a5b5291af39d91a16a0006",
+      "after_sha256": "c52135ff1afccbb7100e3f4db9a43b4d4041e96d139e4726620a022efd2de46d",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-asc.md",
+      "before_sha256": "edfd53f00c1c2daff8e8c5edbd01738ccefff83894a5b5ebf782a344f9b46cf5",
+      "after_sha256": "9e12e64ddfd20884a56fb36443f157a6af5350f38b523c7773512a22a28a55d6",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-hades.md",
+      "before_sha256": "af56f543262f7e90886db2c15af4c81bf068fb7e278b61e658ac3e7d57648c2f",
+      "after_sha256": "86913503b29fb4940c9eb1065365969662d50fdcdc978e91521f5814bf79b84d",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-kronos.md",
+      "before_sha256": "be779e683540a9107838330f481c7e731f131c5743e132975c2b973287b8f43d",
+      "after_sha256": "31337d51f4e8b8fd1be8bd2e6092a10edb314e6849e61cc524a898b210336920",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mars.md",
+      "before_sha256": "0030226045ce9a37dbe9a1d46f4443f4efb4fb53071a444270aac5eb1689ba4a",
+      "after_sha256": "aee757a813a216f7e39a768ad7c79b5cd38f74e993f9aad4b8b0c77aa5297520",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mc.md",
+      "before_sha256": "051b156c682c2a58367097c0912154f9c947748592529390adf95a7eb41a9f31",
+      "after_sha256": "6365ce567db85e36ce514c2e17eb3c6f79522e330f4035685e362428036e4b91",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 37,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-mercury.md",
+      "before_sha256": "95c99fa832ddead0d440bf38828f2cbb7765c460f2f265e243a2cd6168a4a1d4",
+      "after_sha256": "48fb752e15a08f679fe6b276dd07f06bb0d54d45f1c6e0a2f4b09503211e9d58",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 38,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-moon.md",
+      "before_sha256": "3819d0a5ef1a229e499a3ef00abc074c2413e43208288c0268d1209728f216f1",
+      "after_sha256": "f877e423b22e63655cd2db8ab5f7a6011b8a441b2030336cb15b1a8ff219821d",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-neptune.md",
+      "before_sha256": "6b4d880e8507586d6a56d6b936aa79572e7e5239d3ecb7db4ca72b840e0557ce",
+      "after_sha256": "8685815a9eacb6bb4ee291effe23c802ba8f32f45c9b6002fe3ebbe1a019ecaf",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 39,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-node.md",
+      "before_sha256": "0c7e470c03f6650929cafaaed4f5257e97bace3785d4fe953aa1d9f0699f3176",
+      "after_sha256": "35ae00a509a8fe12caab8c53e8ec86a8d01903509d436a372eef0980d9d7cd55",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 40,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-pluto.md",
+      "before_sha256": "da9d5cdace36a91416ec3766f28bff49787abb0934b6e9014be71732c02fb802",
+      "after_sha256": "c73d92ec1afe4e8967fc56baaadfdb5b59b6ecd55e4d9debe74c4e059c37ed68",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 41,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-poseidon.md",
+      "before_sha256": "116e17c2fee07b7fa1a29059219c466f32cfd8f0c2dd30dd5339ec4584bcd1db",
+      "after_sha256": "103c3b47be2ca69488cf71ad4e872594cd8f73360d3cbadf57db4797575b0b00",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 42,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-saturn.md",
+      "before_sha256": "f710a8bb3d7a34bfadd6906d2e6722d0be77ba1901f13b7ea94303cb759bd856",
+      "after_sha256": "d7f5a368c3cd147dc44b3b50a9ecf58d6820c1be57563a525f4a3d69de4576eb",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 43,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-sun.md",
+      "before_sha256": "a32f50e8e2b81f6c6adafcc93e6070118f44ede5a663becee1392997f6785472",
+      "after_sha256": "e4fc68745ca4026d126d83d796504f5fb697b1d20227eac769e4fdb7a0b26b0f",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-uranus.md",
+      "before_sha256": "7440476af1a853fe5dc65cf8a008b809a3a989b4b92417a11d57e75f4cb4ba9c",
+      "after_sha256": "a68b71ebfa0639aa1e9d0dfec9105bfe5483f5ee28e2be51947439a363fa4c47",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-venus.md",
+      "before_sha256": "9c8ca8c6932900c6424b8026b55fef87fc7949266acdbfd2616906dd0b44b9ff",
+      "after_sha256": "7628fbd149d2641fdccd08a97d8d119a8a827332b0972389459fd8e3d73d5b40",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-vernal-point.md",
+      "before_sha256": "7c34fab725fda0dfc2e2d1e0c7956f9df11fb225648fed0e7bf81bb814679f3b",
+      "after_sha256": "3624d9f1fff710d0e046875b5ed96180abeff8921047a756fd6f71a6f402ddb6",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-vulcanus.md",
+      "before_sha256": "5655898e47c7274e584eae010ea3dbff95584574272f1aa84a5da88f9fe9e8ce",
+      "after_sha256": "adb7a4d94775df53f4285d736a1501cc523a80623fcfa91d9565410de5b5dfd0",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-cupido-equals-zeus.md",
+      "before_sha256": "cdaa669d417effafa81c13c7b581c3b719bc6a128972db88e7ca2c9be2d2c3db",
+      "after_sha256": "a5bfbeca9adf1a5dc543b1f663646bffae3e4d8e54d61ac6a90ca7fc77c1d3f6",
+      "ledger": "activations-015.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-admetos.md",
+      "before_sha256": "56a69fe92fda18fdefec9613e3ad8f2b72113ed4f3c32e374117166b63b6c45f",
+      "after_sha256": "4c428328c2d2c68039093a03ebf619fe9257ae563ffc9f0b001a786c776167c0",
+      "ledger": "activations-017.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-apollon.md",
+      "before_sha256": "4f3744e543d2e66c1dddf25a33566e9b200b6bdd9f40fc65cbb490e9b1ed0567",
+      "after_sha256": "9ca8bd2a43b7deaf46f572dd786b01218c743b3b399d7d718ae29882f0fe1138",
+      "ledger": "activations-017.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-asc.md",
+      "before_sha256": "3438d90855813862a4f099573f6554fec8e1c349d11e322326fc125378789771",
+      "after_sha256": "1e5f421988bc65e626969f95e9b600c260bbae936a57e77c3a46d28d0500568f",
+      "ledger": "activations-017.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-chiron.md",
+      "before_sha256": "d61fc16037fe46fe7d1c3dd6de7ec2543edcfa76b98adcd20ba1eee51835df6f",
+      "after_sha256": "542c63a553418a5391b26f5db26e8f4d83574bfa550a314aef317a122c4a1b33",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 2,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-cupido.md",
+      "before_sha256": "955eac832f00035bc536bf1dce1ec36f17c011d2790b0b16c88f8bc62897c456",
+      "after_sha256": "d1db26b109f49c205421d7e6eece51648d9c382222d4f3ba53d948e67aee2093",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 3,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-hades.md",
+      "before_sha256": "61840bb9d0e0234551aeb0bed691653b3c6eda50c534fbfee940420501f7a2e0",
+      "after_sha256": "51a418ae5c7cf60702efc9d5ffb86ed68ec6e0845c6b9930b0e1696c795502e6",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 4,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-jupiter.md",
+      "before_sha256": "8441685927d89fd06eb2663189c6de8c71e6881da055e69e9040863fab612192",
+      "after_sha256": "a0c63c6bd5fd0521c4bcbf51e2c9befe31c1aca767c8a508beff4423f81d3649",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 5,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-kronos.md",
+      "before_sha256": "126e40fc79dc8043011af8c04062d8a0cb2cf397c48f5fb4ad0391d0099b1bd3",
+      "after_sha256": "d34b35379cf5a56f93bfe5e964a0e54cfd05f8b2d40eb5024e69619644e484fa",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 6,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mars.md",
+      "before_sha256": "554780818bb31aca871fcdf58b428eb8601cf7a45108c6e2b2ebf0c318386dd4",
+      "after_sha256": "fb3f28f95e355d2412b86ded7c6c72f799fc3d55c8b6f56ac7e4bd107fcdd5c7",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 7,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mc.md",
+      "before_sha256": "cfe2c120ec4dbb47922ab5a2fb324275e2bc630f3ac6fcf27366344627eca4eb",
+      "after_sha256": "e34cd53992b5ce25ee22b4bcbff56f89a55c6d872b41b567b5728520663892ab",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 8,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-mercury.md",
+      "before_sha256": "43f3417030dc3863da93a86e2b1b8d79d6bf483fa8af54ee7a7781b694e7d7b1",
+      "after_sha256": "6146a0af2ad5152ccdf39d9655033c1f3da6d1b35ecf8b00dcc8d49db945251e",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 9,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-moon.md",
+      "before_sha256": "02fa6c7e0fdaedea411aa24f3fbd1e4f00b0dad946738b52b9717ca4619acbf3",
+      "after_sha256": "117c4c378efaac16d5eccbd0030a727b90f5f3fc1e60a183e47936c675c1ed3b",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 10,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-neptune.md",
+      "before_sha256": "91fb5db5eb9d211ee934a24df56c74120ac111a786120fb2f825f3f39be09d75",
+      "after_sha256": "a447fc1fe40a3c582f0b4ed2193a7d04e050281c841a177704961c266c5382b2",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 11,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-node.md",
+      "before_sha256": "137e7cbad7cf728d158ee456f9ee7651c0c14b5588bc2ff4ae74da720fef69ba",
+      "after_sha256": "8836cc65484b3236d3a8734a9e86bfa77e6aac09480b5cea44e4ac094fd77030",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 12,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-pluto.md",
+      "before_sha256": "d9ba3f73b56ea5f61da586c2da22034c08f3885146c4304f1bc216526b983a52",
+      "after_sha256": "788a247ac29ce48e80d901f3b315528d0ddec66616cad4825b642f65a1f15ed1",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 13,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-poseidon.md",
+      "before_sha256": "e80dd6e4073971f4b43801bdf458c3e1425f8894a58ff89a209314ebeeef3b64",
+      "after_sha256": "1ed6730bbab9aed16c20f1fff2e2900c19d3883624daaf4f8f3744523cddef63",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-saturn.md",
+      "before_sha256": "329d240864dfb4ed4d2a777c0b083ff9a9f10f4fc8a22f9b1fd3b0ce0f2c185f",
+      "after_sha256": "8f2c004ef402f5db699b92fe04719507ee727490e2db75fb5909aed2c0ff854e",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-sun.md",
+      "before_sha256": "f1b8cf52595217fc0a7be7fe1295b7c1048371d90072bf01fd3965e969b3d960",
+      "after_sha256": "be90d56fb8349ce46584129b6b8bce0070395f17e943329931f2f6ef41efbb03",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-uranus.md",
+      "before_sha256": "ae8470582e26699c7e754319968fb5cc6575b59217d9dc11b576cf8c5ec3249c",
+      "after_sha256": "8a10395089a70fbfa09960b1266ef6eacac19a3d0072b7b2bdaddcedf0b97a7a",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-venus.md",
+      "before_sha256": "c738aa498fa1cb653c2df9c2202e60bfb0abcb9cdb80e85792eb2812530fb6e1",
+      "after_sha256": "fdec7954fe703f7dd7f7e2b05e50164349e2f2bc795c9f7103620b3cc9e1c5f6",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-vernal-point.md",
+      "before_sha256": "6ad9cc6cc4225aac5980e16a41ab5babb5cbbb36d886a7f878ec061d133bf939",
+      "after_sha256": "28121abd52c70389c82f1fd463b8314eea27b3859fa7ed8930d81a9a4ff96068",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-vulcanus.md",
+      "before_sha256": "dc99fe83c998940c2e53f41620d7a179e80c6a934f744fcbba24a84b585d21ef",
+      "after_sha256": "75298e6f70b96822cf550cdb52c3c21566aef4685979b7b30691be667d990744",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-node-equals-zeus.md",
+      "before_sha256": "a58b4f1ca4b726edd03427a1b4306a19210b620cdc7560d9864e04784c489d12",
+      "after_sha256": "edb231dff9d593ee84e4f1778da73e55dd6c428c40e97a5a43f8543609f69fe0",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-admetos.md",
+      "before_sha256": "cbafa923537431ea84dcdcde074c656a14b09000c0d725a860e4485bd9ddd646",
+      "after_sha256": "0fd18c218841bb51f618a37a8f77b9a986c77896141afc2e0cbfadd4a0ffe035",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 44,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-apollon.md",
+      "before_sha256": "74c390386d3b6b5276d7e3ea2a754c001bcbdffca45cdbed425c56727c9f8a86",
+      "after_sha256": "d532a14ef009e648cb6b0e0462009f306ff0bdc33c0d3d465927076259a03c2b",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 45,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-asc.md",
+      "before_sha256": "dc67582b68b8809e9502f79f3b14cca622487792ca547c40406c423eb9ee26ce",
+      "after_sha256": "36adec917ff99c009d9eb7d32e7147f5ced601d46bbc899139d210adc5014889",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 46,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-cupido.md",
+      "before_sha256": "1bf864c6f80eb7bb637f5b09a64fa03c08ca8ce60e370992795811ff1ef860f7",
+      "after_sha256": "5ed765f878c85dcf23f74ef3174532f2a8162fc2e384f2050e77e20ca420fb9f",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 47,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-hades.md",
+      "before_sha256": "58b19a9110caf1d5b02a96baca1178626f0dd69dcaae0869bf40b06c02575814",
+      "after_sha256": "f0524b39029ce619003036a2d0a4e2d30655ecb1e005a1d9bbe27a6070334180",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 48,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-kronos.md",
+      "before_sha256": "3ba091eef855599f205bf7393f1ab1d41f6b9a95f04935506aa24eff41ae8cae",
+      "after_sha256": "4db6f85941ecb1aa355720102aeac052ba1a32a6acb60757c98e14ecfc94ea20",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 49,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-poseidon-equals-mars.md",
+      "before_sha256": "bdb80e57ac4512bf6553cd051af62879ac9acbcfc2cbf238b9e9fa2c85df6805",
+      "after_sha256": "3f854664ce472004dc8fb25bc9f786eefba620c1809fd5f7c91b904b5f629da5",
+      "ledger": "activations-018.jsonl",
+      "ledger_line": 50,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-admetos.md",
+      "before_sha256": "7a437e6c24fc79d92fc1bcb9f9133092424e3f6a54639a31620386d931c1e32c",
+      "after_sha256": "4f2cae8a54d0c94bd055d8880af39149e7fd3a3a7299bd75816d2d5bbc0209f7",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 14,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-apollon.md",
+      "before_sha256": "c9e2c40eec8266f785f9add31de17e9da95842642417b39624a487244548c22d",
+      "after_sha256": "b6519c8bfd965ec1cd9f65e4c30d9fd1fa0cbc4081a97515be7a464878e8009c",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 15,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-asc.md",
+      "before_sha256": "e213fac678a88a83fd2e16c164c018c4ef701b5aaab034ee46dd4dba2bcee232",
+      "after_sha256": "45da476b2ee32f30b7dd8e573d7fe7f6a85484d1d93a78e6246a440a76c0f543",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 16,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-chiron.md",
+      "before_sha256": "cdeb35e458dc58209f1ffcc51b5147fb243d6cd350cd3bf3ac85afdb61644043",
+      "after_sha256": "cf43d85c3d855a2d115aaae619887f12de434de3dfdcef64de539c2284f52283",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 17,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-cupido.md",
+      "before_sha256": "8e5c6fba410f62539e5851cf304f5295d07bfa5e9e73012ecd5b56f3b9cfebe9",
+      "after_sha256": "d5419f7bdffe14849e88194806630a9b396ae74438584e1a622b9a40a19c9c53",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 18,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-hades.md",
+      "before_sha256": "1643e1ffdec89bba19e4a0f4484e90848ab38f830472b455c681e1161451cfde",
+      "after_sha256": "222a53caaee0fe8fa8e8df1b3ff736af6193238c66078da1fe7ad6bc414972cc",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 19,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-jupiter.md",
+      "before_sha256": "6dce855d9226de4c088f23001330e6ba6922b8ddb65815888366adadfc50f669",
+      "after_sha256": "222efa96b0c0cfa26790d12e4b5d72d9761ea602003732279adf7e09b2d04807",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 20,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-kronos.md",
+      "before_sha256": "986ea7a50c0ec3e1f5929f05b4b45f81934ff1cd9d22c7968921d3112e5cdaf9",
+      "after_sha256": "ddfe2618fac5ee50e0cdafe747c01ccf0031370357b76ab484025d1fc13c9c37",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 21,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mars.md",
+      "before_sha256": "c354d4b5b1ce8a8c797c787103a77ec4e73add9a1c9acd5575d9a4815ada6a5c",
+      "after_sha256": "ac4eab7481a576337b580edf51484083db9e29fb2dab6dfa8b98e6de4349f7ba",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 22,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mc.md",
+      "before_sha256": "4a2afc4998876e707137fabf3e976548782f73b806837fa8befb19f0d547e8a9",
+      "after_sha256": "65d33472fcd10ed77a8e5ebfe325b18de31358d2e70785866768487d380d2a0e",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 23,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-mercury.md",
+      "before_sha256": "fb28bbe540dc87b1e38fe06898be33da00a9a8438dbcdddb2b0d8fc9befbf45a",
+      "after_sha256": "70988c26a608fe5537ac7d97244fe4dd8024f656bc8cc277e2ac712d4834ea6f",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 24,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-moon.md",
+      "before_sha256": "3c8af28c22842fbfb9c1be0c9ab728b3318d155b7548814a1246caf8cc4b3745",
+      "after_sha256": "3ede054ceccc1662bc31122dade9ce492b15764cd7a86f4e62466ab5490fe204",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 25,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-neptune.md",
+      "before_sha256": "5b34733e1c13362b1284af96e36bc600b19ac55a3d58a9602115c31207256cb1",
+      "after_sha256": "e291199634a5385e0cec4ddc18b2f1a364c10fe73f7eaa65d0561d7105f72523",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 26,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-node.md",
+      "before_sha256": "eceb9d86c720eafb437ddb65c524ddce5efddc1b059370142799ce4925c65b3a",
+      "after_sha256": "ad665ef007322e179087ff4bedb7ccbeec35e7e26b6758216cdaa2b5b7109fe2",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 27,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-pluto.md",
+      "before_sha256": "9daf4f41a8e20a70e6e798a0cff029aeb0853b64c7f69d2249b409fa8da96b4b",
+      "after_sha256": "c324eb55577ecd5ac3a905bb3f43de99edbff365a245916460dd8c81df2f75dc",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 28,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-poseidon.md",
+      "before_sha256": "93e51ac477a076dff4f4c9cdd939c4e1a8658e4bc1e5e92a4294164cf5d52eef",
+      "after_sha256": "4f8fee1907ebc35e1c5def040468a841ea034a910563091925c8f617b66b4c20",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 29,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-saturn.md",
+      "before_sha256": "96011395778dea8b7e9ef767943e1f35e9ee5a54e8ae5eb90358aa2c769c2969",
+      "after_sha256": "ccd14e42966ea0b762071cbf8cf98d775244518d1a5bd9e57e1a2be4f072d1c4",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 30,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-sun.md",
+      "before_sha256": "20314cfb105176a1c60572cd9fa2e3bd83c45674c21d2184589b2e6fdc1b0d99",
+      "after_sha256": "806b787a2dd35a2eae02673077678018a4afb4c51e1245e4684f1293d2a583fb",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 31,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-uranus.md",
+      "before_sha256": "7c11fd8f5319b4456659408fddd36b824895a8dddc6fe215da72b03653e0c82c",
+      "after_sha256": "df94df38b5000adf0c0cdd3389b958592dd4606850337ea392f676a9d01b95d9",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 32,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-venus.md",
+      "before_sha256": "0fc095ac5133cb871b4f2c1f63ce9cb41a48e72a14dce21110fa7209481abf9e",
+      "after_sha256": "c8294dd35a35a0b6fde806b6e32deba937c742a26cddb4bd27f7f7e9d2cf009a",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 33,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+      "before_sha256": "5ff0741c3164a9d9a596d4c32ddc60d64a2361f6c428adc84596e371b1bad726",
+      "after_sha256": "7da04987bb9da28e279233556929c981f9c39850e09e1503d66fe1ce00731142",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 34,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-vulcanus.md",
+      "before_sha256": "e967ff3999ddc5c4bcf4b033c9f6493ac70e461dca27128a8f3d3383f08f4914",
+      "after_sha256": "53fd6643d28d4944a46abc3c5cfbb2cb1cbdd7c121db88e7e01e0e1d0d4f97ba",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 35,
+      "in_validator_snapshot": true
+    },
+    {
+      "path": "wiki/activations/jupiter-saturn-equals-zeus.md",
+      "before_sha256": "8f0d2cb72015b14cae834628cfb68b06826b530cecbf7ac940533ba968c067c9",
+      "after_sha256": "5e848247494f3425772a61f693eae5e89ad3376e4ec68966aaabe82e03709cbe",
+      "ledger": "activations-019.jsonl",
+      "ledger_line": 36,
+      "in_validator_snapshot": true
+    }
+  ],
+  "pending_ledger_excluded": [],
+  "candidate_artifact_generated_at": "2026-10-15T12:37:17.473319+00:00",
+  "groups": [
+    "jupiter-admetos",
+    "jupiter-apollon",
+    "jupiter-asc",
+    "jupiter-cupido",
+    "jupiter-node",
+    "jupiter-poseidon",
+    "jupiter-saturn"
+  ]
+}

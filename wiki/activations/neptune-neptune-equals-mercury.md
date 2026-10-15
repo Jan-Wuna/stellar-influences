@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Neptune = Mercury`
 - Astronomicon formula: `Y/Y = T`
 - Axis page: [Neptune/Neptune](../axes/neptune-neptune.md)
@@ -29,15 +31,30 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*.
+- Source reference: PDF p. `244` (entry start; one-based).
+
 #### Witte Entry
 
 Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
 
+## Comparative Schema
+
+- core meaning: intuitive or imaginative thinking alongside unclear expression and falsehood.
+- psychology: fantasy, imagination, lack of clarity, and illogical thinking are explicit.
+- body/health: no medical claim is supplied.
+- social/relationship: rambling speech and expressing confusion or lies are interpersonal examples.
+- events/manifestations: motion in water or air is a separate literal example.
+- conflicts/notes: imagination does not entail lying; the passage does not state that thought is usually untruthful.
+
+## Contradictions
+
+Only Witte's repeated-pair entry is present; there is no independent source comparison here.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Neptune = Mercury`: Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
-- Practical focus: mentalizes pure Neptune through imagination, rambling intuition, and unclear thought, where speech and thinking move fluidly but often lose logic, definition, or truthfulness.
+Neptune/Neptune = Mercury relates intuition and imagination to the clarity of thought and expression. [Witte](#witte-entry) places intuitive thinking beside rambling speech, confusion, illogical thought, and lies (PDF p. 244, entry start). These distinctions allow imaginative thinking to be described without identifying it with falsehood; movement in water or air remains a separate literal example.
 
 ## Links
 

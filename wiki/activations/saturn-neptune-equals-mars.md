@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Neptune](../axes/saturn-neptune.md)
 - Triad hub: [Mars Saturn Neptune](../triads/mars-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Plans which are not carried through. Injuries which heal very slowly. Man’s ve
 
 #### ABC Entry
 
-Love expectations, mature love through fine command, unknown harmonies work against creeping losses, serious reactions in metaphysics, concentration work for the future, concentration weak treatment, and problematic expectations in
+- Source page: `350`; PDF page: `174`.
+
+Work against creeping losses, serious efforts in metaphysics, concentrated work for the future, addressing weakness of concentration, problematic expectations in work, difficult work in the air, and work involving loss in water.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Lack of energy, listlessness, lack of creative energy. Weak procreative powers. 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (exact entry page).
 
 One is capable of acting with subtle caution. Working hard to make one’s ideals a physical reality. To be inhibited or repressed when it comes to asserting oneself, and the need to look deeply into the roots of this. It may be because one expects too much from oneself and is too idealistic about the potential outcome of what one does, mak ing it simply easier, psychologically, to not act.
 
@@ -70,22 +76,21 @@ Accelerates your haste and thus potential neglect of people or situations you en
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: difficulty turning ideals or plans into completed action.
+- psychology: low energy or inhibition can coexist with subtle caution and demanding ideals.
+- body/health: Witte's slow healing and gendered venereal claims, and Ebertin's procreative claims, remain attributed.
+- social/relationship: Munkasey warns of haste that neglects people and defending shabby practices.
+- events/manifestations: unfinished plans, inactive periods, or hard work to realize ideals.
+- conflicts/notes: ABC retains active work against creeping losses and concentration problems; Munkasey's haste is a distinct possibility alongside inhibition.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's haste differs from the inhibition stressed by Ebertin and Sandbach; neither is the sole possible expression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune = Mars`: difficult labor, sacrificial effort, and courage tested where clean force is unavailable. Main caution: depletion: anger, pressure, or urgency can burn through weak reserves and lead to collapse, sabotage, or wasted struggle.
+Mars specifies the Saturn/Neptune axis through the effort required to act. [Witte](#witte-entry) describes plans left unfinished and [Ebertin](#ebertin-entry) a lack of energy; [Sandbach](#sandbach-entry) connects inhibition with expecting an ideal result, while also allowing cautious, sustained work toward it. The issue is how intention becomes action. [ABC](#abc-entry) retains work against creeping losses and attention to concentration difficulties. [Munkasey's](#munkasey-entry) alternative of hurried neglect prevents reducing the formula to inactivity alone.
 
 ## Links
 

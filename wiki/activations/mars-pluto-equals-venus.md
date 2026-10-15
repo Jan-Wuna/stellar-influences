@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Venus Mars Pluto](../triads/venus-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 It develops like it was planned. Pleasant changes in connection with intimates and blood relations.
 
@@ -45,11 +49,15 @@ It develops like it was planned. Pleasant changes in connection with intimates a
 
 #### ABC Entry
 
-Developing work pleasure, wanting peace development, developing harmonious activity, developing artistic work development, developing love activity, developing preference for work, growing peace activity, and changing love impulses
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
+Developing joy in work, wanting the development of peace, developing harmonious activity, unfolding artistic work, unfolding loving activity, developing a preference for work, growing peace activity, and changing love impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214 (PDF p. 216), entry 0738.
 
 Passionate disposition, assault or rape.
 
@@ -57,7 +65,9 @@ Passionate disposition, assault or rape.
 
 #### Sandbach Entry
 
-Love expressed with an extreme of assertiveness and excitement. The loved one may try to dominate you, or you may try to dominate the loved one. Power strug gles in love. To enjoy working hard. To like art that carries an intense passion.
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
+
+Love expressed with an extreme of assertiveness and excitement. The loved one may try to dominate you, or you may try to dominate the loved one. Power struggles in love. To enjoy working hard. To like art that carries an intense passion.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Softens your approach when using harsh or repulsive tactics; great projects desi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development through love, pleasure, harmonious work, or intensely asserted desire.
+- psychology: Passion, enjoyment of hard work, and pursuit of pleasure, luxury, or power.
+- body/health: Ebertin's assault or rape is an attributed violence claim, not a medical prediction or character verdict.
+- social/relationship: Pleasant changes with intimates or relatives, loving activity, or power struggles in love.
+- events/manifestations: Artistic and peace work, developments as planned, wealth projects, and art or music about death.
+- conflicts/notes: Pleasant or harmonious changes and severe coercive examples remain distinct source possibilities; passion does not establish consent or predict violence.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize pleasant changes or harmonious activity, whereas Ebertin gives assault or rape and Sandbach describes possible domination. The severity of these alternatives must remain visible without reducing all love or art to coercion.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Venus`: magnetic desire, powerful affection, and creative or relational intensity that can feel fated or irresistible. Main caution: domination in love: passion can quickly become control, coercion, or destructive struggle between desire and tenderness.
+In `Mars/Pluto = Venus`, Venus specifies developing action through pleasure, love, art, and intensely asserted desire. Witte's pleasant changes and ABC's harmonious or peace work retain a constructive range; Sandbach includes enjoyment of hard work and passionate art alongside possible domination in love. Munkasey adds wealth or luxury projects and art about death. Ebertin's assault or rape remains a severe historical example, without making passion an inevitable progression toward violence or a verdict on a person's character. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0738; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

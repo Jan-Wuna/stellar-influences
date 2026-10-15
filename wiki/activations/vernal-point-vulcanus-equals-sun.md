@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md)
 - Triad hub: [Vernal Point Sun Vulcanus](../triads/vernal-point-sun-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 54 (one-based).
 
 One who has a powerful or influential position, e.g. a ruler of a country. To have strength of body and to use it.
 
@@ -42,13 +46,29 @@ One who has a powerful or influential position, e.g. a ruler of a country. To ha
 
 #### ABC Entry
 
-Influenced person of the public, energy center in the public, body force in the public, power center of the world, and personal influence in the public life strong man of the public '
+- Source page: 56; PDF page: 27 (one-based spread).
+
+An influential public person, an energy center in public, bodily strength in public, a center of world power, personal influence in public life, and a strong public man.
+
+## Comparative Schema
+
+- core meaning: Personal strength and influential public position.
+- psychology: The entries emphasize capacity and influence rather than a distinct disposition.
+- body/health: Bodily strength and its use are explicit.
+- social/relationship: An influential person or ruler.
+- events/manifestations: Public energy centers, centers of world power and personal influence.
+- conflicts/notes: Being influential was mistranslated as being influenced; bodily and positional strength remain distinct.
+
+## Contradictions
+
+Both connect personal public influence with bodily strength. ABC adds energy and power centers as concrete settings.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vulcanus = Sun`: one who has a powerful or influential position, e.g, a ruler of a country, and to have strength of body and to use it.
-- Practical expression: influenced person of the public, energy center in the public, body force in the public, power center of the world, and personal influence in the public life strong man of the public '.
+`Vernal Point/Vulcanus = Sun` connects a person’s public position with strength. Witte gives an influential figure such as a ruler and the use of bodily strength; ABC adds an influential public person, personal influence and a strong public man. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Energy centers and centers of world power give the wider setting. The entries place bodily capacity beside positional influence without requiring that either one guarantees the other. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

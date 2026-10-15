@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Mars Asc](../triads/mercury-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
 
 To negotiate with others. Debate. The strong opinion of others.
 
@@ -45,15 +49,21 @@ To negotiate with others. Debate. The strong opinion of others.
 
 #### ABC Entry
 
+- Source locator: printed p. 242, PDF p. 120, entry (supplied German OCR record; not visually verified).
+
 Activities of young partners, local youth work, local work meeting, language activity in the environment, activating language partners, youth work for the environment, media work in the place, and thinking and acting with others
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `150`; entry code: `0480`.
 
 #### Ebertin Entry
 
 A person fond of discussion. Turbulent or stormy proceedings.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ A strong personal focus on the need to communicate with people who have a decide
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thinking and acting through direct exchange with others.
+- psychology: Quick repartee, strong opinions, and an appearance of nervous energy.
+- body/health: Sandbach describes apparent nervous energy, without a bodily diagnosis.
+- social/relationship: Negotiation and debate can stimulate others or aggravate their sensitivities.
+- events/manifestations: Local work discussion and media activity in ABC; turbulent proceedings in Ebertin.
+- conflicts/notes: Munkasey's angry interlocutors and Sandbach's provocative speech are specific possibilities, not a universal social style.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe different intensities of direct exchange, from negotiation to stormy proceedings. Ebertin's exact printed page and code are supplied in its entry; Sandbach's available locator remains a chapter start.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Asc`: repartee, verbal courage, competitive intelligence, and a style that readily enters debate or conflict. Main caution: agitation: one can appear combative, abrasive, or exhausting even when the aim is merely to be direct.
+Asc places Mercury/Mars in encounters with other people: negotiation, debate, and quick verbal response become the way thought turns into action. The [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [Sandbach](#sandbach-entry) entries support a range from lively discussion to stormy proceedings and remarks that touch another person's sensitivities. Sandbach also makes the outward impression of nervous energy explicit. [Munkasey](#munkasey-entry) (p. 152) adds the particular case of communicating with angry people and displaying practiced strength; this need not characterize every exchange.
 
 ## Links
 

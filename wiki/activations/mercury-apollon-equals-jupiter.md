@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Apollon](../axes/mercury-apollon.md)
 - Triad hub: [Mercury Jupiter Apollon](../triads/mercury-jupiter-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Apollon,” Jupiter entry, PDF p. 170.
 
 Happy conversation with many. Successful or good results of scientific researches.
 
@@ -42,13 +46,27 @@ Happy conversation with many. Successful or good results of scientific researche
 
 #### ABC Entry
 
-Talking about a lot of money, success through media freedom, favorable legal language, joy over financial news, FOlle of legal opinions, language about legal science, much joy in youth, and scientific success reports
+Source: “Merkur + Apollon,” Jupiter entry, printed p. 262 / PDF p. 130. Translation checked against the German passage.
+
+Conversations about much money, success through media freedom, favorable legal discussions, joy over financial news, abundance of legal opinions, conversations about legal science, much joy in youth, scientific success reports.
+
+## Comparative Schema
+
+- core meaning: Happy exchange and successful scientific research.
+- psychology: Joy in conversation, financial news, and youth.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Conversation with many and favorable legal discussion.
+- events/manifestations: Research results, scientific success reports, and success through media freedom.
+- conflicts/notes: Discussion of money or law does not guarantee wealth or a legal result.
+
+## Contradictions
+
+Both entries include successful exchange, with Witte stressing research and ABC adding legal, financial and media settings. These distinct examples do not promise success in every setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Jupiter` brightens the axis into happy exchange and successful research.
-- Chart expression: fruitful conversation, encouraging intellectual contact, and good outcomes from scientific thinking, study, or broad inquiry.
+In `Mercury/Apollon = Jupiter`, Jupiter specifies scientific thought and extensive communication through happy exchange and favorable results. Witte joins conversation with many to successful research; ABC adds scientific success reports, legal discussion, joy over financial news and media freedom. The connection is fruitful exchange across research and practical subjects, while talking about money or law does not itself establish wealth or a favorable legal outcome. ([Witte](#witte-entry), PDF p. 170; [ABC](#abc-entry), printed p. 262 / PDF p. 130)
 
 ## Links
 

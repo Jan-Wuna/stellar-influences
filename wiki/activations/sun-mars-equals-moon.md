@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Moon Mars](../triads/sun-moon-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ The womans husband. The active hours of the day.
 
 #### ABC Entry
 
-Man's felicitous actions, acting people of a people, actions between man and woman, personal conduct, woman's personal activity, hour of corporal work, day of people will, and powerful man of a woman
+Source locator: printed page 146 / PDF page 72, Moon glyph under Sonne + Mars. English translation checked against the complete row.
+
+The man's feelingful actions, acting members of a people, actions between man and woman, personal emotional activity, the woman's personal activity, hour of physical work, day of a people's will, and a woman's energetic man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Man in relation to women, desire for marriage. The husband.
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 11, complete Moon entry under Planets activating the Sun/Mars midpoint.
 
 The emotional need to do things on one’s own. Feeling secure when one has a long-range project on which to work. Security derived from being a leader or being in charge. Nurturing others by taking charge of them or telling them what to do.
 
@@ -70,22 +76,21 @@ Your family’s role in helping you develop a drive to be competitive; timid man
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Effort tied to emotional security and close relationships.
+- psychology: Security through independent projects or being in charge.
+- body/health: Physical development is named without a health conclusion.
+- social/relationship: Family influence and attributed husband/marriage examples.
+- events/manifestations: Taking charge of others or pursuing a sustained project.
+- conflicts/notes: ABC's day of a people's will (Tag des Volks-Willens) is retained literally, without assigning a named public event.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach’s taking charge and Munkasey’s avoidance of confrontation describe different responses, not a forced single personality. Historical husband and marriage statements remain attributed. ABC's emotional actions and collective-will example add separate personal and collective settings, without making either a universal need.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Moon`: protective or decisive nurturance, emotional investment in achievement, and instinctive drive toward leadership or marriage-like commitment. Main caution: emotional domination: security needs can become controlling, impatient, or tied to being in charge.
+In `Sun/Mars = Moon`, Moon specifies Sun/Mars effort through emotional security, family, and intimate relationships. The [Sandbach Entry](#sandbach-entry) describes feeling secure through a project or leadership, sometimes nurturing by taking charge. The [Munkasey Entry](#munkasey-entry) adds family encouragement toward competitiveness and the alternative of wavering to avoid confrontation. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) use husband and marriage examples. These show effort situated in close relationships, without making leadership or marriage a universal emotional need.
 
 ## Links
 

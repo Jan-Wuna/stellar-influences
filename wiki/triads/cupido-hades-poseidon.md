@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,44 @@ updated_at: 2026-05-04
 - Triad-set: `Cupido Hades Poseidon`
 - Astronomicon triad-set: `¡ ¢ ¨`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Cupido/Hades = Poseidon](../activations/cupido-hades-equals-poseidon.md)
-- [Cupido/Poseidon = Hades](../activations/cupido-poseidon-equals-hades.md)
-- [Hades/Poseidon = Cupido](../activations/hades-poseidon-equals-cupido.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Hades = Poseidon](../activations/cupido-hades-equals-poseidon.md) | [Cupido/Hades](../axes/cupido-hades.md) | [Poseidon](../factors/poseidon.md) |
+| [Cupido/Poseidon = Hades](../activations/cupido-poseidon-equals-hades.md) | [Cupido/Poseidon](../axes/cupido-poseidon.md) | [Hades](../factors/hades.md) |
+| [Hades/Poseidon = Cupido](../activations/hades-poseidon-equals-cupido.md) | [Hades/Poseidon](../axes/hades-poseidon.md) | [Cupido](../factors/cupido.md) |
+
+All three base-axis/activator choices are represented in the linked canonical pages (3/3).
 
 ## Source Coverage
 
-- `Cupido/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `267`
-- `Cupido/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `425`
-- `Cupido/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
-- `Cupido/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `437`
-- `Hades/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
-- `Hades/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `449`
+This map records the source subentries currently present on the linked activation pages. Locators below retain parser references and have not been checked against page images in this hub review. Entry-start and chapter-start locators do not confirm an exact formula page.
+
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md): source subsections on 3/3 orientations.
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md): source subsections on 3/3 orientations.
+
+Source-subsection presence does not establish agreement or resolve damaged text and cross-references.
+
+| Orientation | Source subentry or omission | Retained locator |
+| --- | --- | --- |
+| `Cupido/Hades = Poseidon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-hades-equals-poseidon.md#witte-entry) | one-based PDF p. 267 (entry start); printed page not established |
+| `Cupido/Hades = Poseidon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-hades-equals-poseidon.md#abc-entry) | printed p. 425; PDF p. 211 |
+| `Cupido/Poseidon = Hades` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-poseidon-equals-hades.md#witte-entry) | one-based PDF p. 274 (entry start); printed page not established |
+| `Cupido/Poseidon = Hades` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-poseidon-equals-hades.md#abc-entry) | printed p. 437; PDF p. 217 |
+| `Hades/Poseidon = Cupido` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-poseidon-equals-cupido.md#witte-entry) | one-based PDF p. 286 (entry start); printed page not established |
+| `Hades/Poseidon = Cupido` | [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-poseidon-equals-cupido.md#abc-entry) | printed p. 449; PDF p. 223 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Poseidon`: groups with poor spiritual or mental standards and communities whose outlook remains backward or trapped in the past.
-- `Cupido/Poseidon = Hades`: deterioration of sects, worldview-groups weakened by stupidity or ignorance, and the spread of superstition or erroneous belief.
-- `Hades/Poseidon = Cupido`: resentment toward the masses, happiness in exclusive circles, and attachment to odd or fringe ideological groups.
+Use this hub to select the exact orientation for the unordered set `Cupido Hades Poseidon`. The pair before `=` is the base axis and the factor after it is the activator. Open the selected activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas; differences between their entries do not by themselves establish a contradiction. Assess disagreements within the chosen activation. This hub records navigation and source coverage without combining their doctrine.
 
 ## Links
 

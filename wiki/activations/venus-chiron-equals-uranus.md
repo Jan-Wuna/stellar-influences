@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Chiron = Uranus`
 - Astronomicon formula: `Q/Chiron = X`
 - Axis page: [Venus/Chiron](../axes/venus-chiron.md)
@@ -35,12 +37,29 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 59 (exact entry passage checked in the raw PDF text).
+
 One has an inspired, creative, and unique way of being able to tune others into love and help them to see the beauty and richness of everything around them.
+
+## Comparative Schema
+
+- Core meaning: An original approach opens appreciation of love.
+- Psychology: Inspired creativity and individual expression.
+- Body/health: No specific health claim.
+- Social/relationship: Helping others tune into love and beauty.
+- Events/manifestations: A distinctive way of sharing appreciation.
+- Conflicts/notes: No sudden event or disruptive adverse expression is stated.
+
+These categories follow the [Sandbach entry](#sandbach-entry).
+
+## Contradictions
+
+No sudden event or disruptive adverse expression is stated. No second source is represented for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Chiron = Uranus`: one has an inspired, creative, and unique way of being able to tune others into love and help them to see the beauty and richness of everything around them.
+Uranus specifies Venus/Chiron through an inspired, individual way of helping others recognize love and beauty. Originality serves appreciation rather than being an end in itself. Sandbach's brief entry supports this distinctive creative approach without adding a sudden event, instability, or a separate adverse range. ([Sandbach](#sandbach-entry).)
 
 ## Links
 

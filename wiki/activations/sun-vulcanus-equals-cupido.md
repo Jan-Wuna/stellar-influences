@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Cupido`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = ¡`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Cupido Vulcanus](../triads/sun-cupido-vulcanus.md)
@@ -44,11 +45,25 @@ The power of the body of a community.
 
 Powerful person of a community, common energy center, violent men's community, artistic influence center, power center of a community, powerful person community, and personal influence in the community
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Power is concentrated in a community or shared body.
+- psychology: The entry establishes collective power rather than a particular emotional bond.
+- body/health: Witte uses the community's body as a collective image; no diagnosis is given.
+- social/relationship: An influential member or powerful group is explicit.
+- events/manifestations: Shared energy centers and artistic influence are named.
+- conflicts/notes: A violent men's community is ABC's specific alternative, not a universal account of groups.
+
+## Contradictions
+
+A violent men's community is ABC's specific alternative, not a universal account of groups. No direct contradiction is established within the available entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Cupido`: strong family bonds and forceful community cohesion.
-- Practical expression: powerful person of a community, common energy center, violent men's community, artistic influence center, and power center of a community.
+Cupido specifies Sun/Vulcanus as strength belonging to a community: power may be concentrated in a shared center, an influential person, or the group itself. ABC includes both artistic influence and a violent men's community, so communal power cannot be reduced to affectionate family cohesion. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

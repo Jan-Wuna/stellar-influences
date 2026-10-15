@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Venus`
 - Astronomicon formula: `X/g = Q`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Venus entry.
+
 #### Witte Entry
 
 Sudden love or pleasant connection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Venus entry.
+
 #### ABC Entry
 
-Exciting peace connections, exciting love connection, harmonious connection pulses, sudden peace mediation, new love connection, preference for connections to technology, and mediation of peaceful reforms
+Exciting peace connections, exciting love connection, harmonious connection impulses, sudden peace mediation, new love connection, preference for connections to technology, and mediation of peaceful reforms.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0966`.
 
 #### Ebertin Entry
 
 Intensified feelings in the presence of others. Experiencing sudden attachments, a person who falls in love quickly. An experience pertaining to the understanding of art.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Venus entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Softens the way you introduce your version of change into the world; novel ideas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden affection and pleasant connection through openness. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Intensified feeling and appreciation of meaningful novelty. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Sexual ties are named by Munkasey; no medical condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Open love relationships and mediation of peace or change. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden attachments, artistic encounters, and the introduction of new music or art. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Freedom in relationships does not itself establish intermittent warmth or an inability to commit; those outcomes are not stated here. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Freedom in relationships does not itself establish intermittent warmth or an inability to commit; those outcomes are not stated here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Venus`: stimulating connection, progressive social ease, and attraction that opens new relational possibilities quickly. Main caution: unstable attachment: delight in freedom and novelty can make warmth intermittent or difficult to anchor in commitment.
+Venus specifies Uranus/Node through sudden pleasant connection, intensified affection, and openness in love. The same wish for free exchange can make new art or changes attractive to others, with peace mediation and experimental artistic expression among the concrete settings. Quick attraction and freedom are represented, but the entries do not decide how enduring a particular attachment will be. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

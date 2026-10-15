@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,6 +28,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `Chiron/Asc = g`
 - Axis page: [Chiron/Asc](../axes/chiron-asc.md)
 - Triad hub: [Chiron Node Asc](../triads/chiron-node-asc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -37,10 +38,21 @@ updated_at: 2026-04-21
 
 One connects to others for the purpose of mutually cleansing and clearing and spiritualizing identities. Negatively one seeks out connections that continue to reinforce one’s identity limits, until such time as that becomes so frustrating and painful that it has to change.
 
+Source reference: one-based PDF page 102, Node paragraph under “Planets activating the Chiron/Ascendant midpoint.” PDF page 101 is the chapter start. Both the mutual spiritual purpose and the explicitly negative alternative are retained.
+
+## Comparative Schema
+
+- **Core meaning:** Connections can serve mutual spiritual clearing or reinforce identity limits in the source's alternative account.
+- **Psychology:** Frustration and pain arise in the described pattern of continuing to reinforce restrictive identity.
+- **Body/health:** Cleansing and painful change are described in an identity context, without a bodily condition or clinical treatment.
+- **Social/relationship:** Mutual identity clearing contrasts with seeking ties that reinforce one's limits.
+- **Events/manifestations:** The negative pattern is said to reach a point where change is necessary; no specific separation, event or timetable is given.
+- **Conflicts/notes:** The source gives contrasting forms of connection, not a claim that all relationships must be painful. Reinforcing limits is more specific than merely exposing them, and wounds are not named.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Node`: relational healing and to connections that either support spiritualized identity or painfully expose limiting patterns. Main caution: repeatedly choosing ties that reinforce identity wounds.
+`Chiron/Asc = Node` describes relationships in terms of what they do to one's sense of self. The [Sandbach entry](#sandbach-entry) gives mutual clearing and spiritualizing of identity as one purpose, contrasted with seeking connections that reinforce identity limits. In its negative account, that reinforcement becomes frustrating and painful enough to require change. The interpretation preserves both forms of connection without replacing limits with wounds or specifying how the eventual change must occur.
 
 ## Links
 

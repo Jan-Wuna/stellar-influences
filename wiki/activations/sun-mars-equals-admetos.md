@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Admetos](../triads/sun-mars-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Definitely discontinuing a job. The end of activity. The dead soldier.
 
 #### ABC Entry
 
-Perseverance in corporal activity, blocked personal creation, restricted work of a man, strengthening of personal will, gross daily work, action blockage of a person, personal earth work, and personal work cycle
+Source locator: printed page 147 / PDF page 72, Admetos glyph under Sonne + Mars. English translation checked against the complete row.
+
+Perseverance in physical activity, blocked personal creation, restricted work of a man, consolidation of personal will, thorough daily work, blockage of a person's actions, personal earth work, and personal work cycle.
+
+## Comparative Schema
+
+- core meaning: Personal work constrained, sustained, or brought to an end.
+- psychology: Perseverance and consolidation of will in ABC.
+- body/health: Physical labor is present; Witte’s dead-soldier example is attributed.
+- social/relationship: No distinct relationship dynamic is established.
+- events/manifestations: Blocked work or discontinuing a job.
+- conflicts/notes: Thorough work and consolidation of will coexist with restriction; Witte extends the range to complete cessation.
+
+## Contradictions
+
+ABC’s perseverance under restriction and Witte’s complete cessation describe different degrees of constraint, not a demonstrated contradiction. Thorough daily work is a distinct ABC example of effort sustained within this range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mars = Admetos`: limited activity and labor on the ground.
-- Practical expression: perseverance in corporal activity, blocked personal creation, restricted work of a man, strengthening of personal will, and gross daily work.
+In `Sun/Mars = Admetos`, Admetos specifies the Sun/Mars activity theme through limitation and endurance. The [ABC Entry](#abc-entry) presents work that is restricted or blocked while will and perseverance become important; the [Witte Entry](#witte-entry) takes the range as far as ending an activity or leaving a job. The common thread is what happens to personal effort when it cannot proceed freely. Witte’s dead-soldier example remains a source claim, not a prediction derived from the formula.
 
 ## Links
 

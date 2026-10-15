@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Vernal Point`
 - Astronomicon formula: `Y/¡ = VP`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Dissolution of a family. General dissatisfaction with marital or communal institutions. Dissolution of a community with many. To move away.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `392`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-The formation of an official community, the common future in the public life, the divine water art, the weak of a community in the public life, the insecure community in the public, and the future of a community in the public life
+Dissolution of a public community, shared future in public life, public water art, weakness of a community in public life, uncertain community in public, and future of a community in public life
+
+## Comparative Schema
+
+- core meaning: public or general dissatisfaction with family and communal institutions, including dissolution.
+- psychology: dissatisfaction and uncertainty are explicit without a universal loss of confidence.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: family, communal institutions, and public community are the stated settings.
+- events/manifestations: moving away, public-community dissolution, public water art, and a shared public future are examples.
+- conflicts/notes: the public scale does not require every family ending to become a collective institutional crisis.
+
+## Contradictions
+
+Witte emphasizes dissatisfaction and dissolution; ABC also retains a shared public future and water art. The source does not equate these with institutional failure.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Vernal Point`: Dissolution of a family. General dissatisfaction with marital or communal institutions. Dissolution of a community with many. To move away.
-- Practical focus: externalizes family and communal dissatisfaction, making dissolution visible at the collective level through moves, withdrawals, and loss of confidence in shared institutions.
-- Practical expression: the formation of an official community, the common future in the public life, the divine water art, the weak of a community in the public life, and the insecure community in the public.
+In Neptune/Cupido = Vernal Point, Vernal Point specifies the pair through communal institutions and public life. The [Witte entry](#witte-entry) describes family dissolution, general dissatisfaction, and moving away; [ABC](#abc-entry) adds public-community dissolution, weakness, and uncertainty (printed p. 392, PDF p. 195). Its shared future and public water art remain separate examples. The passages locate the concern publicly without establishing a universal crisis of institutions or making every move an act of withdrawal from them.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Sun`
 - Astronomicon formula: `S/R = S`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -41,22 +43,21 @@ Helps you focus on the efforts you put into daily events; emphasizes the popular
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Focused daily effort and concern for the quality of personal growth.
+- psychology: Attention to basic interests and to soul growth rather than ego alone.
+- body/health: No bodily or medical claim is specified.
+- social/relationship: Popularity and fame through basic interests are Munkasey's examples of recognition.
+- events/manifestations: Effort invested in daily events and attention to what one's interests produce.
+- conflicts/notes: One brief source paragraph supports this repeated-Sun interpretation; recognition is not guaranteed and soul growth remains the author's term.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is represented. Its attention to popularity and fame coexists with concern for growth beyond ego; the brief entry does not state a direct contradiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Sun`: Helps one focus on the efforts one put into daily events; emphasizes the popularity and fame one achieve thru one's basic interests; the concern one devote to the quality of one's soul growth, as opposed to self or ego.
+In `Sun/Moon = Sun`, the repeated Sun specifies the Sun/Moon pair through attention to the effort invested in daily life and in one's basic interests. [Munkasey's entry](#munkasey-entry) includes the recognition those interests can bring, but also asks what quality of inner growth receives that effort. The connected emphasis is on what a person develops through participation in ordinary events, with fame and soul growth remaining the source's examples and language.
 
 ## Links
 

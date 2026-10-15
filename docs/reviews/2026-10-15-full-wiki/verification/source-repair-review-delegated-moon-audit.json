@@ -1,0 +1,648 @@
+{
+  "checked_at": "2026-10-15T11:34:16.275895+00:00",
+  "scope": "Independent delegated source-repair acceptance only; not whole-page review or whole-wiki completion.",
+  "records": 105,
+  "unique_paths": 105,
+  "groups": {
+    "moon-moon": 21,
+    "moon-node": 21,
+    "moon-pluto": 21,
+    "moon-saturn": 21,
+    "moon-uranus": 21
+  },
+  "proof_images": 26,
+  "strict_bank_sha256": "74bf403bd2a14237de1c58a00667141131d2aa544d4c5359819da152dc2b8a35",
+  "checks": [
+    {
+      "path": "wiki/activations/moon-moon-equals-admetos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-apollon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-asc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-cupido.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-hades.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-jupiter.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-kronos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-mars.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-mc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-mercury.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-neptune.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-node.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-pluto.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-poseidon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-saturn.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-sun.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-uranus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-venus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-vernal-point.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-vulcanus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-moon-equals-zeus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-admetos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-asc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-chiron.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-cupido.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-hades.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-jupiter.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-kronos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-mc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-mercury.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-neptune.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-pluto.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-poseidon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-saturn.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-sun.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-uranus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-venus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-vernal-point.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-vulcanus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-zeus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-admetos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-apollon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-asc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-chiron.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-cupido.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-hades.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-jupiter.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-kronos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-mars.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-mc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-mercury.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-node.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-poseidon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-saturn.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-sun.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-uranus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-venus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-vernal-point.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-vulcanus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-zeus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-admetos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-apollon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-asc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-chiron.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-cupido.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-hades.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-jupiter.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-kronos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-mars.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-mc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-mercury.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-neptune.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-node.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-pluto.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-poseidon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-sun.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-uranus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-venus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-vernal-point.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-vulcanus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-saturn-equals-zeus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-admetos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-apollon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-chiron.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-cupido.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-hades.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-jupiter.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-kronos.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-mars.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-mc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-mercury.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-neptune.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-node.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-pluto.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-poseidon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-saturn.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-sun.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-venus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-vernal-point.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-vulcanus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-zeus.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-apollon.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-node-equals-mars.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-pluto-equals-neptune.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    },
+    {
+      "path": "wiki/activations/moon-uranus-equals-asc.md",
+      "original_hash_match": true,
+      "current_hash_match": true
+    }
+  ],
+  "evidence_files": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "sha256": "c8919ebf86aff593c2aa5b25828daa697e3ebc4d85945250988523efdeacb38c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "sha256": "2420beb499a4968732ba9ae6ca3c645472a6be325d9d1093b3ddcb8adc0d0a3c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "sha256": "ff060a5025a4e2ab95d90384910498e51eb9a502ea6fe1ef35a725790821b628"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "sha256": "80c6d274b8933a20f32c8c5af4755bdb462d83e22015ee153c9427b8a8fe654a"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "sha256": "13b8655fe4d3a780190d8b810ee546b8836665421f2beb894ec916e96fb1e5f0"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "sha256": "a1f66820abefbfc0c732ce1f5f16867d9cc80d668230002a96e3a46525f81988"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "sha256": "5cd287218f8d437e98a05d3efe04fb7962b968f5591e70e1bd4d81cda022e8fc"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "sha256": "84ae35551f1b3eba6550d21a8d943f3fb8bdca0c9a4dc0efeab7de86946bc9e0"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "sha256": "9685b7b9b62fec66758c6c3054a6790f47ef885febd095595dd6afd5eb95c809"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "sha256": "a9d76ce431512d795ad28b6397c7b7e6adeb5f766a679656309e2c72ec0f6a3b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "sha256": "cc18f97f9fd234ca5126bb83b8a623973f64d2591db9b5f0105c335304a1eb01"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "sha256": "0e2cd682d76fac4c6b7dbcf362570d4b731f3e5014344b53327772c7180fd42f"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "sha256": "c575eb2a505a87007773a6d1ab06127d95e59732cc233a5cae93ad423ee66017"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "sha256": "d893b7c41463bcee2d69e8804c296c868101b7c01754543efa3f34a7a238e116"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "sha256": "bb3e684162f68ff204224294d22add7e665545c14b6acdfb65efdd9e5fc6a440"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "sha256": "e368a7305e5c46df4778a0dacc2247ad16f3e0d46e3cafb1585559713dbfbd86"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png",
+      "sha256": "02c1b44091444895149761ce44b8887a40bfe1c29a216d7303418177d482b86b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "sha256": "e556b2876dfec9e38543c0e162f9db9b85e3ee3ffde5f3e4f27e25f1e20e362e"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "sha256": "e9b31df45fd77efc495d137d4a8dd859aba338ac565ec79aeab594efd71e0c42"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "sha256": "347d72b8e0c05e6471db3f27c8c4ecf7f7aca5acd75355442fa857799f0eeab6"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "sha256": "6a73ad180598b68d507e506dbc67141f557858ee6d4c06b147fd5ae48e128611"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "sha256": "5e1c5adfcab578343d7d78a7c17b541cbaea8a53682a5db139491f485db6a42b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png",
+      "sha256": "f0f0fc7b1c0301e6dfd3494b4be0ef1b657afc6011a0f3296ca7c393787ae4dd"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png",
+      "sha256": "4d2425cdd2105e5ea2ee029276492cd263710ad1c98d6c76c8ac39a35e917a6b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png",
+      "sha256": "747c82ca488f6c1b8347a53fef8c4b91d8aa7668b2507bbf368f8105d14521a5"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png",
+      "sha256": "a4da1171eeeb81328d5d250bd9d496fe6974a464f6677b6da88b5ae9c76ef834"
+    }
+  ]
+}

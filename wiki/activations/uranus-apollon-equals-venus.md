@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Venus Uranus Apollon](../triads/venus-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To experience by surprise a large favor.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 382; PDF p. 190.
+
 #### ABC Entry
 
-Expansion of harmonious rhythms, successful artificial impulses, joy over increasing Refonnes, new peace science, new knowledge about love, sudden love experience, sudden harmony increase, and preference for new knowledge
+Expansion of harmonious rhythms, successful artistic impulses, joy over increasing reforms, new peace science, new knowledge about love, a sudden experience of love, a sudden increase of harmony, a preference for new knowledge.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: An unexpected favor or increase in harmony and affection.
+- psychology: Joy in reform, new knowledge and harmonious rhythm.
+- body/health: No bodily condition is stated.
+- social/relationship: A sudden experience of love and receiving a large favor.
+- events/manifestations: Artistic impulses, peace science and new understanding of love.
+- conflicts/notes: Kunst means artistic rather than artificial; favor and love remain distinct source examples.
+
+## Contradictions
+
+Witte gives a surprising large favor; ABC adds art, harmony, love and peace science. They share a favorable emphasis without establishing that every favor is romantic or every reform harmonious.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Venus`: To experience by surprise a large favor.
-- Practical expression: expansion of harmonious rhythms, successful artificial impulses, new peace science, and new knowledge about love.
+In `Uranus/Apollon = Venus`, Venus specifies expansion through a favorable reception or growing harmony. [Witte](#witte-entry) gives the surprise of a large favor. [ABC](#abc-entry) adds successful artistic impulses, new knowledge about love, a sudden loving experience and increased harmony, with peace science as another named field. These forms of favor and affection remain related without becoming interchangeable.
 
 ## Links
 

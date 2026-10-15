@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Apollon](../axes/mc-apollon.md)
 - Triad hub: [Mercury MC Apollon](../triads/mercury-mc-apollon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Knowledge of languages. Scientific talks and reports.
 
 My language knowledge, my success in youth, my successful thoughts, my thought freedom, my speech success, my media experiences, spiritual experiences in youth, and scientific reports about the soul
 
+## Comparative Schema
+
+- **Core meaning:** Knowledge expressed through language and reporting.
+- **Psychology:** Successful thought and freedom of thought are explicit.
+- **Body/health:** No bodily or health claim is established.
+- **Social/relationship:** Successful conversation and media experience concern communication with others.
+- **Events/manifestations:** Scientific talks and reports, language knowledge, and youthful success are named.
+- **Conflicts/notes:** Writing, teaching, and translation are not separately established occupations in these entries; language knowledge should not be expanded into them automatically.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Apollon = Mercury` mentalizes the axis into languages, reports, and scientific communication.
-- Chart expression: intellectual versatility, learned speech, and a life path widened through writing, translation, teaching, reporting, or scientific discussion.
+Mercury specifies `MC/Apollon` through learned communication: knowledge of languages becomes scientific talk, reports, and successful conversation. ABC adds experience with media, freedom of thought, and success in youth, giving the orientation a concrete focus on expressing and exchanging knowledge. ([Witte Entry](#witte-entry), PDF p. 74, entry start; [ABC Entry](#abc-entry), printed p. 92.)
 
 ## Links
 

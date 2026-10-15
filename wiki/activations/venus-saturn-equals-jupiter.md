@@ -33,29 +33,40 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Jupiter Saturn](../triads/venus-jupiter-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 Happy for moments. Happiness of love with consequent separation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `274`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-Blicking old love, success in artistic tasks, success storing through love, peace success through patience, storene love happiness, happiness and harmony in old age, harmony storing through money, and concentration onright peace
+Old love bringing happiness, success in artistic tasks, disturbances of success through love, success in peace through patience, disturbed happiness in love, happiness and harmony in old age, disturbances of harmony through money, and concentration on legal peace.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 182; entry code: 0607.
 
 Preference for solitude, happiness in solitude. Desire to separate anew from another person. An illegitimate relationship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 58 (one-based; exact activator paragraph and adjacent boundary visually checked).
 
 One takes a positive attitude toward the limitations encountered in life, and in general can be happy with simplicity and austerity. The desire to expand the depth of one’s relationships
 
@@ -70,22 +81,21 @@ Increased enjoyment of the more modest pleasures of life; makes a simple life st
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Enjoyment within limits, ranging from modest contentment to happiness followed by separation.
+- psychology: Happiness in solitude and a positive attitude to simplicity or austerity.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Desire for separation as well as desire for deeper relationships.
+- events/manifestations: Modest pleasures, unexpected support, and a lifestyle becoming more demanding.
+- conflicts/notes: Illegitimate relationship is Ebertin's historical label; durable financial gain is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's happiness followed by separation and Sandbach's wish for deeper relationships are distinct alternatives. Munkasey explicitly includes both modest enjoyment and added complexity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Jupiter`: steady generosity, realistic optimism, and durable gains in love or finances built through patience and good judgment. Main caution: enjoyment can be moralized, delayed, or narrowed by fear, duty, or scarcity thinking.
+In `Venus/Saturn = Jupiter`, Jupiter specifies the pair through the possibilities of satisfaction within limits. [Ebertin](#ebertin-entry) names happiness in solitude, while [Sandbach](#sandbach-entry) describes contentment with simplicity and a wish for deeper relationships. [Witte](#witte-entry) retains happiness followed by separation. [Munkasey](#munkasey-entry) adds modest pleasures and unexpected support but also a more demanding lifestyle; the clear [ABC clauses](#abc-entry) include artistic success and peace through patience. This does not establish durable gains or uninterrupted relationship happiness.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune MC Hades`
 - Astronomicon triad-set: `Y MC ¢`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Hades = Neptune](../activations/mc-hades-equals-neptune.md)
-- [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md)
-- [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md)
+- [MC/Hades = Neptune](../activations/mc-hades-equals-neptune.md): base axis [MC/Hades](../axes/mc-hades.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [MC](../factors/mc.md).
+- [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md): base axis [Neptune/MC](../axes/neptune-mc.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `MC/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `71`
-- `MC/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `87`
-- `Neptune/Hades = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = MC`: Udo Rudolph - ABC for Planetary Pictures, page `394`
-- `Neptune/MC = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `68`
-- `Neptune/MC = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `81`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Hades = Neptune](../activations/mc-hades-equals-neptune.md#witte-entry) (PDF entry-start p. 71); [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md#witte-entry) (PDF entry-start p. 248); [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md#witte-entry) (PDF entry-start p. 68).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Hades = Neptune](../activations/mc-hades-equals-neptune.md#abc-entry) (printed p. 87); [Neptune/Hades = MC](../activations/neptune-hades-equals-mc.md#abc-entry) (printed p. 394); [Neptune/MC = Hades](../activations/neptune-mc-equals-hades.md#abc-entry) (printed p. 81).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Neptune`: dissolves the axis through falsehood, deceit, and failing hope.
-- `Neptune/Hades = MC`: This activation internalizes grave deception and danger as a condition one lives out directly, showing exposure to drowning, suffocation, seafaring risk, or an identity shaped by perilous decline.
-- `Neptune/MC = Hades`: This activation darkens uncertain self-direction into disgust, moral decline, drowning, or losses through deception, showing the axis pulled toward harmful and degrading outcomes.
+Neptune, MC and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Hades](../axes/mc-hades.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
+- [Neptune/MC](../axes/neptune-mc.md)
 - [Neptune](../factors/neptune.md)
 - [MC](../factors/mc.md)
 - [Hades](../factors/hades.md)

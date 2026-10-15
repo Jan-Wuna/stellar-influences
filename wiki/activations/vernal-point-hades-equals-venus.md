@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Hades](../axes/vernal-point-hades.md)
 - Triad hub: [Vernal Point Venus Hades](../triads/vernal-point-venus-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 49 (one-based).
 
 Sad events for females. Vulgar love in general.
 
@@ -42,13 +46,27 @@ Sad events for females. Vulgar love in general.
 
 #### ABC Entry
 
-Danger to the public Peace, joy in traditions in the public Harmony'.. Lack in the public, art of the past in the public, art crime in the public Life, Public Love Service, and Public Peace Refusal
+- Source page: 46; PDF page: 22 (one-based spread).
+
+Danger to public peace, joy in public traditions, lack of public harmony, art of the past in public, art criminality in public life, public service in love, and public renunciation of peace
+
+## Comparative Schema
+
+- core meaning: Public love, art, tradition, or peace affected by sorrow and deficient harmony.
+- psychology: Joy in tradition is explicitly retained.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Sad events affecting women and public love-service examples.
+- events/manifestations: Historical art, danger to peace, and artistic criminality as separate possibilities.
+- conflicts/notes: Vulgar love is Witte's evaluative term; tradition and historical art do not imply wrongdoing.
+
+## Contradictions
+
+Joy in tradition and deficient harmony are different possibilities. The adverse peace or crime examples do not define all public art or love.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Hades = Venus`: sad events for females and vulgar love in general.
-- Practical expression: danger to the public Peace, oy in traditions in the public Harmony'.. Lack in the public, art of the past in the public, art crime in the public Life, and public Love Service.
+In `Vernal Point/Hades = Venus`, Venus specifies the pair through the strained or inherited aspects of public love, art, and peace. The [Witte entry](#witte-entry) names sad events for women and uses an evaluative phrase about love. The restored [ABC entry](#abc-entry) adds lack of harmony and danger to peace, but also joy in tradition, historical art, and service in love. The reading retains cultural continuity alongside adverse possibilities without judging all traditional art or affection by them.
 
 ## Links
 

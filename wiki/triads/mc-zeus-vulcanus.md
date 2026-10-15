@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Zeus Vulcanus`
 - Astronomicon triad-set: `MC £ §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Vulcanus = Zeus](../activations/mc-vulcanus-equals-zeus.md)
-- [MC/Zeus = Vulcanus](../activations/mc-zeus-equals-vulcanus.md)
-- [Zeus/Vulcanus = MC](../activations/zeus-vulcanus-equals-mc.md)
+- [MC/Vulcanus = Zeus](../activations/mc-vulcanus-equals-zeus.md): base axis [MC/Vulcanus](../axes/mc-vulcanus.md); activator [Zeus](../factors/zeus.md).
+- [MC/Zeus = Vulcanus](../activations/mc-zeus-equals-vulcanus.md): base axis [MC/Zeus](../axes/mc-zeus.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Zeus/Vulcanus = MC](../activations/zeus-vulcanus-equals-mc.md): base axis [Zeus/Vulcanus](../axes/zeus-vulcanus.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `MC/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `97`
-- `MC/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
-- `MC/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `89`
-- `Zeus/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
-- `Zeus/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `456`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Vulcanus = Zeus](../activations/mc-vulcanus-equals-zeus.md#witte-entry) (PDF entry-start p. 76); [MC/Zeus = Vulcanus](../activations/mc-zeus-equals-vulcanus.md#witte-entry) (PDF entry-start p. 72); [Zeus/Vulcanus = MC](../activations/zeus-vulcanus-equals-mc.md#witte-entry) (PDF entry-start p. 295).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Vulcanus = Zeus](../activations/mc-vulcanus-equals-zeus.md#abc-entry) (printed p. 97); [MC/Zeus = Vulcanus](../activations/mc-zeus-equals-vulcanus.md#abc-entry) (printed p. 89); [Zeus/Vulcanus = MC](../activations/zeus-vulcanus-equals-mc.md#abc-entry) (printed p. 456).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Zeus`: directs the axis toward controlled powerful energies and machinery.
-- `MC/Zeus = Vulcanus`: makes the axis relentless, unstoppable, and difficult to resist.
-- `Zeus/Vulcanus = MC`: Mighty urge for activities. The strong-willed man who accomplishes things like a machine.
+MC, Zeus and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [MC/Zeus](../axes/mc-zeus.md)
+- [Zeus/Vulcanus](../axes/zeus-vulcanus.md)
 - [MC](../factors/mc.md)
 - [Zeus](../factors/zeus.md)
 - [Vulcanus](../factors/vulcanus.md)

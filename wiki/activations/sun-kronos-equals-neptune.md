@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Neptune Kronos](../triads/sun-neptune-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,29 @@ updated_at: 2026-05-04
 
 Confused authority. Incompetent leadership. Refusal or deceit through independent and leading persons. Destroyed by the power of the state. Dethroned prince.
 
+Source locator: printed p. 118, PDF p. 114, Sun/Kronos, Neptune entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+An authority figure in the air, a particularly sensitive person, great personal uncertainty, a leading person in water, people of foreign states, a weak man of the state, an uncertain authority figure, and negation of male dominance.
+
+Source locator: printed p. 165, PDF p. 81, Sun/Kronos, Neptune entry. Translation checked against the German glyph row, ending “Verneinung männlicher Dominanz”; the following development clauses belong to Pluto.
+
+## Comparative Schema
+
+- core meaning: Uncertain or undermined authority, with sensitivity as a separate personal expression.
+- psychology: Personal uncertainty and particular sensitivity are explicit ABC themes.
+- body/health: Weakness is a source expression without a specified bodily condition.
+- social/relationship: Uncertain leadership, refusal or deceit by leading people, and persons of foreign states.
+- events/manifestations: State power destroying a position, dethronement, and leaders in air or water are source examples.
+- conflicts/notes: ABC's sensitivity does not mean incompetence; adverse leadership and state-power examples remain attributed alternatives, not forecasts.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Neptune`: lack of freedom and the separation of the soul.
+`Sun/Kronos = Neptune` concerns authority whose certainty or effectiveness is in question. [Witte](#witte-entry) describes confused or incompetent leadership, refusal or deceit by leading people, and the loss of position through state power; [ABC](#abc-entry) adds personal uncertainty and an uncertain authority figure. ABC also includes particular sensitivity and people connected with foreign states, air or water, which should remain distinct examples rather than evidence of incompetence. The state-related outcomes remain attributed alternatives, without predicting a person's political fate.
 
 ## Links
 

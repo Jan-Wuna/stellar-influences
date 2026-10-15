@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `S/W = Q`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Triad hub: [Sun Venus Saturn](../triads/sun-venus-saturn.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -45,7 +46,7 @@ Restraints, scruples and difficulties related to love. A man inclined to separat
 
 #### ABC Entry
 
-Harmony as a personal task, peaceful patient person, storten peace of a man, love pain of, man, personal love in old age, personal love problems, mature love of a man, and benevolence of an old man
+Harmony as a personal task, peaceful patient person, disturbed peace of a person, a man's pain in love, personal love in old age, personal problems in love, maturing love of a man, and benevolence of an old man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +57,8 @@ Suppression of feelings, reserve. Inhibitions in love life, separation of lovers
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF p. 14, Sun/Saturn, complete Venus entry on this page.
 
 A lack of self-confidence in love relationships or possibly a feeling that one’s partner does not acknowledge one’s true importance. One who appreciates the need for a careful and gradual attainment of goals. The tendency to think that one is less attractive and/or valuable than one really is. Appreciation of the deeper spiritual sig nificance of life. Aesthetically speaking one values those works of art that reveal spir itual meaning and/or which have a serious purpose about them or which question the purpose of existence. Attraction to people who have a lack of self-confidence, and a desire to help them build their confidence.
 
@@ -70,22 +73,23 @@ Taking delight in the quiet of the moment; silence and relaxation become synonym
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: affection and enjoyment shaped by restraint, patience, or a serious sense of value.
+- psychology: reserve and low confidence in attractiveness coexist with appreciation of quiet and of art with a serious purpose.
+- body/health: Witte's disease and physical cramping statements remain attributed historical claims; the other entries do not establish a diagnosis.
+- social/relationship: inhibition, pain, separation, mature affection, and helping another person build confidence.
+- events/manifestations: patient work toward harmony, love in later life, quiet relaxation, and charm softening a stern manner.
+- conflicts/notes: the damaged ABC phrases have been checked against printed p. 150, PDF p. 74. Its male examples do not establish a gender restriction.
 
 ## Contradictions
 
-- None recorded yet.
+- Witte and Ebertin stress difficulty in love, while ABC and Munkasey also allow patience, maturity, and quiet pleasure. The entries do not establish that reserve must mean either fidelity or rejection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Venus`: fidelity, mature affection, and harmony that grows through patience rather than impulse. Main caution: inhibited warmth: fear of disappointment can cool pleasure, limit receptivity, or make love feel more like duty than delight.
+Venus specifies the Sun/Saturn axis through the way affection and pleasure meet reserve or seriousness. In the [Ebertin entry](#ebertin-entry) (printed p. 93, code 0245), feelings are suppressed and love can be inhibited; the [Sandbach entry](#sandbach-entry) makes low confidence and feeling undervalued central, while also describing support for another person's confidence and appreciation of serious art.
+
+This need not remove warmth: the [ABC entry](#abc-entry) (printed p. 150; PDF p. 74) includes patient harmony and maturing affection, and the [Munkasey entry](#munkasey-entry) (printed p. 76) finds delight in quiet and charm within a stern manner. These possibilities do not promise fidelity or separation. The specific bodily claims in [Witte](#witte-entry) (PDF p. 107) remain historical attributions rather than medical predictions.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,44 @@ updated_at: 2026-05-04
 - Triad-set: `Cupido Kronos Poseidon`
 - Astronomicon triad-set: `¡ ¤ ¨`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Cupido/Kronos = Poseidon](../activations/cupido-kronos-equals-poseidon.md)
-- [Cupido/Poseidon = Kronos](../activations/cupido-poseidon-equals-kronos.md)
-- [Kronos/Poseidon = Cupido](../activations/kronos-poseidon-equals-cupido.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Kronos = Poseidon](../activations/cupido-kronos-equals-poseidon.md) | [Cupido/Kronos](../axes/cupido-kronos.md) | [Poseidon](../factors/poseidon.md) |
+| [Cupido/Poseidon = Kronos](../activations/cupido-poseidon-equals-kronos.md) | [Cupido/Poseidon](../axes/cupido-poseidon.md) | [Kronos](../factors/kronos.md) |
+| [Kronos/Poseidon = Cupido](../activations/kronos-poseidon-equals-cupido.md) | [Kronos/Poseidon](../axes/kronos-poseidon.md) | [Cupido](../factors/cupido.md) |
+
+All three base-axis/activator choices are represented in the linked canonical pages (3/3).
 
 ## Source Coverage
 
-- `Cupido/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `269`
-- `Cupido/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `429`
-- `Cupido/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `274`
-- `Cupido/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `437`
-- `Kronos/Poseidon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `467`
+This map records the source subentries currently present on the linked activation pages. Locators below retain parser references and have not been checked against page images in this hub review. Entry-start and chapter-start locators do not confirm an exact formula page.
+
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md): source subsections on 3/3 orientations.
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md): source subsections on 3/3 orientations.
+
+Source-subsection presence does not establish agreement or resolve damaged text and cross-references.
+
+| Orientation | Source subentry or omission | Retained locator |
+| --- | --- | --- |
+| `Cupido/Kronos = Poseidon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-kronos-equals-poseidon.md#witte-entry) | one-based PDF p. 269 (entry start); printed page not established |
+| `Cupido/Kronos = Poseidon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-kronos-equals-poseidon.md#abc-entry) | printed p. 429; PDF p. 213 |
+| `Cupido/Poseidon = Kronos` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-poseidon-equals-kronos.md#witte-entry) | one-based PDF p. 274 (entry start); printed page not established |
+| `Cupido/Poseidon = Kronos` | [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-poseidon-equals-kronos.md#abc-entry) | printed p. 437; PDF p. 217 |
+| `Kronos/Poseidon = Cupido` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-poseidon-equals-cupido.md#witte-entry) | one-based PDF p. 302 (entry start); printed page not established |
+| `Kronos/Poseidon = Cupido` | [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-poseidon-equals-cupido.md#abc-entry) | printed p. 467; PDF p. 232 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Kronos = Poseidon`: a state-protected spiritual or ideological community.
-- `Cupido/Poseidon = Kronos`: leadership of a cultural organization, state-run spiritual communities, and dominant philosophical politics.
-- `Kronos/Poseidon = Cupido`: community organized around culture, education, politics, or high spiritual attitude, including major educational institutions and cultural parties or movements.
+Use this hub to select the exact orientation for the unordered set `Cupido Kronos Poseidon`. The pair before `=` is the base axis and the factor after it is the activator. Open the selected activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas; differences between their entries do not by themselves establish a contradiction. Assess disagreements within the chosen activation. This hub records navigation and source coverage without combining their doctrine.
 
 ## Links
 

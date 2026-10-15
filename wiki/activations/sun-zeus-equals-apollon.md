@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Apollon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = ¥`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Zeus Apollon](../triads/sun-zeus-apollon.md)
@@ -42,13 +43,29 @@ A successful leader. Recognition by many. A successful merchant. Manager.
 
 #### ABC Entry
 
-Expansion of personal efforts, successful personal procreation, leading trading man, fending business center, creative man of science, human knowledge of procreation, and personal freedom mitigations
+Source: ABC printed p. 163, supplied PDF p. 80, Sonne + Zeus, apollon row (seven clauses). Translation from the German scan:
+
+Expansion of personal efforts; successful personal procreation; a leading man of trade; a leading economic center; a creative person in science; human knowledge of procreation; personal efforts toward freedom.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Directed endeavor expands into success and recognition.
+- psychology: Personal efforts increase in scope.
+- body/health: ABC includes successful procreation as historical doctrine, not a guarantee.
+- social/relationship: Leadership may gain recognition from many people.
+- events/manifestations: A successful merchant or manager is Witte's concrete example.
+- conflicts/notes: Commercial and scientific examples do not make every leader successful.
+
+## Contradictions
+
+No direct contradiction is established. ABC's expansion, economic leadership and efforts toward freedom are distinct examples; neither entry assures commercial success or successful procreation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Apollon`: a successful leader and recognition by many.
-- Practical expression: expansion of personal efforts, successful personal procreation, leading trading man, fending business center, and creative man of science.
+Apollon specifies Sun/Zeus as personal endeavor that expands into successful leadership and recognition. Witte's merchant and manager give this a practical commercial setting; ABC also includes creative work in science, so the scale of effort extends beyond one occupation. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

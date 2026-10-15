@@ -35,20 +35,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md)
-- [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md)
-- [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Mercury = Sun](../activations/moon-mercury-equals-sun.md) | [Moon/Mercury](../axes/moon-mercury.md) | [Sun](../factors/sun.md) |
+| [Sun/Mercury = Moon](../activations/sun-mercury-equals-moon.md) | [Sun/Mercury](../axes/sun-mercury.md) | [Moon](../factors/moon.md) |
+| [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md) | [Sun/Moon](../axes/sun-moon.md) | [Mercury](../factors/mercury.md) |
 
 ## Source Coverage
 
-- `Moon/Mercury = Sun`: Michael, page `104`
-- `Sun/Mercury = Moon`: Michael, page `60`
-- `Sun/Moon = Mercury`: Michael, page `56`
+Each linked activation has five shared sources below; Sun/Moon = Mercury also has Don McBroom. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Moon/Mercury = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/moon-mercury-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/moon-mercury-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/moon-mercury-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/moon-mercury-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/moon-mercury-equals-sun.md#munkasey-entry), printed p. `104`.
+- `Sun/Mercury = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mercury-equals-moon.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mercury-equals-moon.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-mercury-equals-moon.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mercury-equals-moon.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-mercury-equals-moon.md#munkasey-entry), printed p. `60`.
+- `Sun/Moon = Mercury`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-mercury.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-mercury.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-moon-equals-mercury.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-moon-equals-mercury.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-moon-equals-mercury.md#munkasey-entry), printed p. `56`; [Don McBroom - Midpoints](../activations/sun-moon-equals-mercury.md#mcbroom-entry) (numeric locator not supplied).
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

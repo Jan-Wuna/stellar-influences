@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Asc = Zeus`
 - Astronomicon formula: `Q/Asc = £`
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 84; scanned activator row checked.
+
 Paternally desired. To desire motherhood. “The favored one”. Pleasant and creative connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning harmony with other, peace services on site, peaceful local transportation, artistic achievements of the partner, love witnessing with the partner, harmony stretching in the environment, harmonious objective with other, and creative artificial place
+- Source page: 109 (printed); PDF page: 53; scanned activator row checked.
+
+Beginning harmony with other, peace services on site, peaceful local leadership, artistic achievements of the partner, procreation in love with the partner, striving for harmony in the environment, harmonious objective with other, and creative place of art
+
+## Comparative Schema
+
+- Core meaning: Affection begins and directs shared creation.
+- Psychology: Creative intention and harmonious aims.
+- Body/health: Historical procreation language; no pregnancy prediction.
+- Social/relationship: Pleasant creative connections and parenthood wishes.
+- Events/manifestations: Artistic achievement, local leadership, and peace efforts.
+- Conflicts/notes: Creative connections and beginning harmony accompany historical wishes for parenthood.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry).
+
+## Contradictions
+
+Creative connections and beginning harmony accompany historical wishes for parenthood. Those wishes do not establish pregnancy or a required gender role.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Asc = Zeus`: paternally desired.
-- Practical expression: beginning harmony with other, peace services on site, peaceful local transportation, artistic achievements of the partner, and love witnessing with the partner.
+Zeus specifies Venus/Asc through pleasant connections that initiate creative work or seek a shared harmonious aim. ABC gives artistic achievement, peace efforts, and local leadership as expressions of that direction. Witte also preserves wishes concerning fatherhood and motherhood; these remain historical source associations rather than reproductive predictions. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

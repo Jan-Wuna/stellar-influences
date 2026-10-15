@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/U`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `42`, chapter heading `ARIES + MARS` (normalized here as Vernal Point/Mars).
 
 Labor, the forces of nature. Injuries. Nature's power in a general sense. Work and activity in public life. Working energy. Energy in general. The world of labor. To show courage.
 
@@ -79,13 +83,26 @@ Labor, the forces of nature. Injuries. Nature's power in a general sense. Work a
 
 #### ABC Pair Summary
 
+Source reference: PDF page `15`, bold pair summary.
+
 Actions in the public sphere, Work for the public Life, impulses from the public sphere, Public works, Public activity, Public will, and Creation in the public sphere
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be known for one's aggressive or self-assertive qualities. A person of action. To have one's intentions affect the greater world around one. People, such as athletes, known for their energy or physical prowess. Pairs with Jupiter
+Source reference: PDF page `208`, entry `Mars/Aries`.
+
+To be known for one's aggressive or self-assertive qualities. A person of action. To have one's intentions affect the greater world around one. People, such as athletes, known for their energy or physical prowess.
+
+## Comparative Schema
+
+- Core meaning: Energy becomes work and action in public life across the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Courage, self-assertion, intentions that affect the wider world, and being a person of action are explicit.
+- Body/health: Witte's pair summary includes injuries, and Hand names physical prowess and athletes. These source associations do not diagnose injury or establish an accident forecast.
+- Social/relationship: The world of labor, public works, and public activity connect personal action with a wider social field.
+- Events/manifestations: Work, visible energetic activity, and the forces of nature are supported examples; aggression is one expression rather than the whole range.
+- Conflicts/notes: Public activity, natural force, and physical prowess remain distinct applications of the pair. Hand's following heading, "Pairs with Jupiter," has been excluded after checking PDF page `208`.
 
 ## Related Activations
 
@@ -110,11 +127,16 @@ To be known for one's aggressive or self-assertive qualities. A person of action
 - [Vernal Point/Mars = Vulcanus](../activations/vernal-point-mars-equals-vulcanus.md)
 - [Vernal Point/Mars = Zeus](../activations/vernal-point-mars-equals-zeus.md)
 
+## Contradictions
+
+Labor and natural force in the pair summary are broader than the aggressive or athletic reputation described in the pair delineation. These are distinct applications of public energy, not a contradiction or a reason to read every instance as conflict.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars` is the axis of public force, collective action, labor, courage, and the impact of assertion or conflict in the larger world.
-- Chart expression: activism, visible drive, physical or competitive reputation, and the capacity to affect the social field through action, struggle, or bold initiative. Liabilities: public conflict, aggression, accidents, rashness, and letting force dominate judgment.
+Vernal Point/Mars describes energy put into action in the wider world. Work, labor, public activity, and courage in the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) connect with the [pair delineation's](#pair-delineation) person of action whose intentions, assertion, or physical abilities become publicly apparent.
+
+The range includes both work in public life and nature's force, so the pair should not be reduced to interpersonal aggression. Injuries are a historical association in the pair summary, while athletic prowess is a separate example in the pair delineation; neither makes harm inevitable.
 
 ## Links
 

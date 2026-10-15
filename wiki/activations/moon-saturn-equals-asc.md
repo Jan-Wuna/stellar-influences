@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Asc`
 - Astronomicon formula: `R/W = Asc`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Acquaintance with widows or with old, unfortunate or sick women. Hindrance, changes in the surroundings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `184`, PDF p. `91` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ tasks of the woman at the place, burden of another people, serious woman as part
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `127`, entry `0384`.
+
 #### Ebertin Entry
 
 Inhibition of development, inhibited development of the personality. Meeting with sick or depressed people, mourning or bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `32` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Observing on how you affect others thru your emotions; memories of how you overc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious or vulnerable emotional presentation amid difficult contacts or surroundings.
+- psychology: careful sharing, sensitivity about appearance, and a need for emotional control are explicit.
+- body/health: encounters with sick or depressed people are historical associations, not diagnoses of the reader.
+- social/relationship: widows, older women, partners, parental roles, and bereaved people are examples.
+- events/manifestations: hindrance, environmental change, loss of a partner, and mourning are named.
+- conflicts/notes: discipline and emotional control do not by themselves establish effortless composure or dependable conduct.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach and Munkasey emphasize vulnerability, careful expression, and control; Witte and Ebertin emphasize difficult surroundings, inhibited development, or bereavement. These are different aspects of contact without proving that outward seriousness conceals the same experience in every case.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Asc`: mature composure, dependable seriousness, and the ability to carry emotional weight without public display. Main caution: visible heaviness: others may feel distance, sadness, or defensiveness before trust has formed.
+In Moon/Saturn = Asc, Asc specifies the pair through seriousness or vulnerability in personal encounters. [Sandbach](#sandbach-entry) describes sensitivity about appearance and the need to share feelings slowly and carefully. [Munkasey](#munkasey-entry) adds observation of one's emotional effect on others and memories of discipline used against obstacles (p. 120).
+
+The [Witte entry](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) retain more difficult settings: hindrance, loss, inhibited development, and contact with people experiencing illness or bereavement. These support care in contact and a range of burdens, without making mature composure a guaranteed personal quality.
 
 ## Links
 

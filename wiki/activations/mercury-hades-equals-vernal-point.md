@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Hades = Vernal Point`
 - Astronomicon formula: `T/¢ = VP`
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `167`.
+
 #### Witte Entry
 
 Vulgar thoughts, raw thought-power.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `256`; PDF page: `127`.
+
 #### ABC Entry
 
 old writings in public, reports about public criminality, dangerous opinions in public, dangerous public traffic, public endangerment of youth, criminal youth in public, and public cry of distress
 
+## Comparative Schema
+
+- core meaning: Coarse thought and public communication about difficulty or the past ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Witte characterizes thought as vulgar or raw.
+- body/health: No bodily condition is stated.
+- social/relationship: Public danger to youth and reports of criminality are ABC examples.
+- events/manifestations: Old writings in public, traffic danger, and a public distress call are named.
+- conflicts/notes: The public setting is explicit in ABC; Witte's brief wording alone supplies no detailed scenario.
+
+## Contradictions
+
+Witte emphasizes the quality of thought; ABC emphasizes public subjects and messages. The short entries do not establish that every public message is vulgar or criminal.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Vernal Point` projects the axis into openly vulgar mental force.
-- Chart expression: crude thinking made visible in the world, raw thought-power without refinement, and public expression shaped by coarseness or baseness.
+In `Mercury/Hades = Vernal Point`, Vernal Point specifies the Mercury/Hades field in public expression. Witte supplies the terse motif of vulgar or raw thought, while ABC places old writings, reports of criminality, traffic danger, and calls for help in public settings. The shared emphasis is difficult material entering public communication, with earlier writings retained as a separate example rather than treated as inherently harmful ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Vernal Point`
 - Astronomicon formula: `W/¨ = VP`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 Mental, spiritual or ideological separation from the generality. General affairs of education.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Guld and Vcrnnnunll in the public sphere, general tasks in public life, clarity in public life by reik, cultural tasks in public sphere, and problematic realities in public sphere
+- Source page: `368`; PDF page: `183`.
+
+Patience and reason in public, spiritual tasks in public life, clarity in public life through maturity, cultural tasks in public, problematic truths in public, and disturbing ideas in public life.
+
+## Comparative Schema
+
+- core meaning: Education, culture and difficult ideas in the public sphere.
+- psychology: Patience, reason and clarity through maturity are attributed public qualities.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Mental, spiritual or ideological separation from the wider public.
+- events/manifestations: Public educational affairs, cultural tasks and the expression of disturbing ideas or truths.
+- conflicts/notes: Public clarity and public disagreement can coexist; the entries do not determine which belief is correct.
+
+## Contradictions
+
+Witte emphasizes ideological separation and educational affairs; ABC adds public tasks, maturity and difficult truths. These are different facets of public understanding without a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Vernal Point`: mental, spiritual or ideological separation from the generality, general affairs of education.
-- Practical expression: guld, vcrnnnunll in the public sphere, general tasks in public life, clarity in public life by reik, and cultural tasks in public sphere.
+In `Saturn/Poseidon = Vernal Point`, Vernal Point specifies educational and spiritual concerns in public life. Cultural tasks and education call for patience, reason and mature clarity, while ideas or truths can disturb the public and create ideological distance ([Witte](#witte-entry), [ABC](#abc-entry)). The exact entries concern how understanding enters a shared public setting, including both responsible participation and separation from prevailing outlooks; they do not adjudicate the truth of a particular belief.
 
 ## Links
 

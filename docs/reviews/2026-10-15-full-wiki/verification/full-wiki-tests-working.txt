@@ -1,0 +1,638 @@
+FFF..F..F.....F..F..F..FFF.FFF......................F...FF.............. [  9%]
+..................F..................................................... [ 18%]
+........................................................................ [ 28%]
+........................................................................ [ 37%]
+........................................................................ [ 47%]
+...................F.........F...........................F.........F.... [ 56%]
+....F......FF...............................F..............F...........F [ 66%]
+....FFF....FF........F....F.....FF..................F................... [ 75%]
+..F.............F........F................FF............................ [ 85%]
+........................................................................ [ 94%]
+.......................................                                  [100%]
+================================== FAILURES ===================================
+_______________________ test_carter_source_page_exists ________________________
+
+    def test_carter_source_page_exists():
+        page = load_page(Path("wiki/sources") / f"{CARTER_SLUG}.md")
+    
+        assert page.meta["page_type"] == "source"
+        assert page.meta["framework_scope"] == "classical_aspects"
+>       assert "collapsed into canonical axis pages" in page.body
+E       assert 'collapsed into canonical axis pages' in "\n## Bibliographic Metadata\n\n- Author: Charles Carter\n- Title: *The Astrological Aspects*\n- Vault file: `Stellar ... material into canonical axis pages, preserving the source's pair introductions, family sections, and example lists.\n"
+E        +  where "\n## Bibliographic Metadata\n\n- Author: Charles Carter\n- Title: *The Astrological Aspects*\n- Vault file: `Stellar ... material into canonical axis pages, preserving the source's pair introductions, family sections, and example lists.\n" = WikiPage(path=WindowsPath('wiki/sources/charles-carter-the-astrological-aspects.md'), meta={'title': 'Charles Carter -...material into canonical axis pages, preserving the source's pair introductions, family sections, and example lists.\n").body
+
+tests\wiki\test_carter_axis_ingest.py:22: AssertionError
+_____________ test_sun_moon_axis_includes_carter_family_headings ______________
+
+    def test_sun_moon_axis_includes_carter_family_headings():
+        page = load_page(Path("wiki/axes/sun-moon.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            FALIS_SLUG,
+            CARTER_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_carter_axis_ingest.py:29: AssertionError
+________ test_mercury_venus_axis_includes_carter_nonstandard_examples _________
+
+    def test_mercury_venus_axis_includes_carter_nonstandard_examples():
+        page = load_page(Path("wiki/axes/mercury-venus.md"))
+    
+>       assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            FALIS_SLUG,
+            CARTER_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains one more item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_carter_axis_ingest.py:51: AssertionError
+___ test_chiron_factor_page_is_explicitly_source_bounded_and_non_doctrinal ____
+
+    def test_chiron_factor_page_is_explicitly_source_bounded_and_non_doctrinal():
+        page = load_page(Path("wiki/factors/chiron.md"))
+    
+        assert page.meta["framework_scope"] == "modern_astrology"
+>       assert "This page is source-bounded to Sandbach's modern midpoint corpus." in page.body
+E       assert "This page is source-bounded to Sandbach's modern midpoint corpus." in '\n## Identity\n\n- Factor: Chiron\n- Canonical page type: structural factor page created because the source treats `C...al Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n'
+E        +  where '\n## Identity\n\n- Factor: Chiron\n- Canonical page type: structural factor page created because the source treats `C...al Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n' = WikiPage(path=WindowsPath('wiki/factors/chiron.md'), meta={'title': 'Chiron', 'page_type': 'factor', 'slug': 'chiron',...l Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n').body
+
+tests\wiki\test_chiron_policy_surface.py:11: AssertionError
+_______________ test_shared_factor_pages_reference_both_sources _______________
+
+    def test_shared_factor_pages_reference_both_sources():
+        for slug in SHARED_FACTORS:
+            page = load_page(Path("wiki/factors") / f"{slug}.md")
+>           assert page.meta["source_pages"] == [
+                "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+                "udo-rudolph-abc-fur-planetenbilder",
+                "reinhold-ebertin-the-combination-of-stellar-influences",
+                "robert-hand-horoscope-symbols",
+                "michael-munkasey-midpoints-unleashing-the-power-of-the-planets",
+            ]
+E           AssertionError: assert ['alfred-witt...trology', ...] == ['alfred-witt...-the-planets']
+E             
+E             Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E             Use -v to get more diff
+
+tests\wiki\test_comparative_factors.py:26: AssertionError
+____________ test_live_triad_page_includes_ebertin_source_coverage ____________
+
+    def test_live_triad_page_includes_ebertin_source_coverage():
+        triad = load_page(Path("wiki/triads/sun-mercury-venus.md"))
+    
+        assert EBERTIN_SLUG in triad.meta["source_pages"]
+>       assert f"`Sun/Mercury = Venus`: {EBERTIN_TITLE}, page `81`" in triad.body
+E       assert '`Sun/Mercury = Venus`: Reinhold Ebertin - The Combination of Stellar Influences, page `81`' in '\n## Identity\n\n- Triad-set: `Sun Mercury Venus`\n- Astronomicon triad-set: `S T Q`\n- This page is structural only....: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Triad-set: `Sun Mercury Venus`\n- Astronomicon triad-set: `S T Q`\n- This page is structural only....: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/triads/sun-mercury-venus.md'), meta={'title': 'Sun Mercury Venus', 'page_type': 'triad... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n").body
+
+tests\wiki\test_ebertin_full_ingest.py:50: AssertionError
+_________________ test_ebertin_unresolved_review_page_exists __________________
+
+    def test_ebertin_unresolved_review_page_exists():
+        review = load_page(Path("wiki/derived/ebertin-unresolved-activation-review.md"))
+    
+        assert review.meta["page_type"] == "derived"
+>       assert "No unresolved Ebertin activation entries are currently blocked." in review.body
+E       assert 'No unresolved Ebertin activation entries are currently blocked.' in '\n## Purpose\n\nTrack Ebertin activation entries withheld during ingest because an activator token could not be decod...ar-influences.md)\n- [Query Guide: retrieve the exact activation before its axis](../query-guide.md#retrieval-order)\n'
+E        +  where '\n## Purpose\n\nTrack Ebertin activation entries withheld during ingest because an activator token could not be decod...ar-influences.md)\n- [Query Guide: retrieve the exact activation before its axis](../query-guide.md#retrieval-order)\n' = WikiPage(path=WindowsPath('wiki/derived/ebertin-unresolved-activation-review.md'), meta={'title': 'Ebertin Unresolved ...r-influences.md)\n- [Query Guide: retrieve the exact activation before its axis](../query-guide.md#retrieval-order)\n").body
+
+tests\wiki\test_ebertin_full_ingest.py:71: AssertionError
+___________________ test_sun_moon_axis_includes_falis_entry ___________________
+
+    def test_sun_moon_axis_includes_falis_entry():
+        page = load_page(Path("wiki/axes/sun-moon.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            FALIS_SLUG,
+            CARTER_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_falis_axis_ingest.py:28: AssertionError
+___________________ test_sun_moon_axis_includes_hand_entry ____________________
+
+    def test_sun_moon_axis_includes_hand_entry():
+        page = load_page(Path("wiki/axes/sun-moon.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            FALIS_SLUG,
+            CARTER_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_hand_axis_ingest.py:33: AssertionError
+_______ test_vernal_point_sun_axis_becomes_comparative_with_hand_entry ________
+
+    def test_vernal_point_sun_axis_becomes_comparative_with_hand_entry():
+        page = load_page(Path("wiki/axes/vernal-point-sun.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+        assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, HAND_SLUG]
+        assert f"### {HAND_TITLE}" in page.body
+>       assert "- Source heading: `Sun/Aries`" in page.body
+E       AssertionError: assert '- Source heading: `Sun/Aries`' in '\n## Identity\n\n- Axis: `Vernal Point/Sun`\n- Astronomicon axis: `VP/S`\n- Canonical page type: comparative axis pag...rudolph-abc-fur-planetenbilder.md)\n- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)\n'
+E        +  where '\n## Identity\n\n- Axis: `Vernal Point/Sun`\n- Astronomicon axis: `VP/S`\n- Canonical page type: comparative axis pag...rudolph-abc-fur-planetenbilder.md)\n- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)\n' = WikiPage(path=WindowsPath('wiki/axes/vernal-point-sun.md'), meta={'title': 'Vernal Point/Sun', 'page_type': 'axis', 's...udolph-abc-fur-planetenbilder.md)\n- [Robert Hand - Horoscope Symbols](../sources/robert-hand-horoscope-symbols.md)\n').body
+
+tests\wiki\test_hand_axis_ingest.py:55: AssertionError
+___________________ test_node_asc_axis_includes_hand_entry ____________________
+
+    def test_node_asc_axis_includes_hand_entry():
+        page = load_page(Path("wiki/axes/node-asc.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+        assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MUNKASEY_SLUG,
+        ]
+        assert f"### {HAND_TITLE}" in page.body
+>       assert "- Source heading: `Nodes/Ascendant`" in page.body
+E       AssertionError: assert '- Source heading: `Nodes/Ascendant`' in '\n## Identity\n\n- Axis: `Node/Asc`\n- Astronomicon axis: `g/Asc`\n- Canonical page type: comparative axis page groun...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Axis: `Node/Asc`\n- Astronomicon axis: `g/Asc`\n- Canonical page type: comparative axis page groun...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/axes/node-asc.md'), meta={'title': 'Node/Asc', 'page_type': 'axis', 'slug': 'node-asc'... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_hand_axis_ingest.py:72: AssertionError
+_____________________ test_sun_factor_includes_hand_entry _____________________
+
+    def test_sun_factor_includes_hand_entry():
+        page = load_page(Path("wiki/factors/sun.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            HAND_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...trology', ...] == ['alfred-witt...-the-planets']
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_hand_axis_ingest.py:86: AssertionError
+_________________ test_asc_factor_includes_hand_shared_entry __________________
+
+    def test_asc_factor_includes_hand_shared_entry():
+        page = load_page(Path("wiki/factors/asc.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+        assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            HAND_SLUG,
+            MUNKASEY_SLUG,
+        ]
+        assert f"### {HAND_TITLE}" in page.body
+>       assert "- Source heading: `The Ascendant and Midheaven`" in page.body
+E       AssertionError: assert '- Source heading: `The Ascendant and Midheaven`' in '\n## Identity\n\n- Factor: Asc\n- Canonical page type: comparative factor page grounded in standalone source entries.... `äußere Anlage` is scan-verified, but its brief wording leaves the exact sense of external disposition unexplained.\n'
+E        +  where '\n## Identity\n\n- Factor: Asc\n- Canonical page type: comparative factor page grounded in standalone source entries.... `äußere Anlage` is scan-verified, but its brief wording leaves the exact sense of external disposition unexplained.\n' = WikiPage(path=WindowsPath('wiki/factors/asc.md'), meta={'title': 'Asc', 'page_type': 'factor', 'slug': 'asc', 'status'...`äußere Anlage` is scan-verified, but its brief wording leaves the exact sense of external disposition unexplained.\n').body
+
+tests\wiki\test_hand_axis_ingest.py:110: AssertionError
+________ test_vernal_point_factor_becomes_comparative_with_hand_entry _________
+
+    def test_vernal_point_factor_becomes_comparative_with_hand_entry():
+        page = load_page(Path("wiki/factors/vernal-point.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+        assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, HAND_SLUG]
+        assert page.meta["aliases"] == ["VP"]
+        assert f"### {HAND_TITLE}" in page.body
+>       assert "- Source heading: `The Vernal Point`" in page.body
+E       AssertionError: assert '- Source heading: `The Vernal Point`' in '\n## Identity\n\n- Factor: Vernal Point\n- Astronomicon token: `VP`\n- Canonical page type: comparative factor page g...against their source scans. These passages have PDF locators but no visible printed folios; none have been inferred.\n'
+E        +  where '\n## Identity\n\n- Factor: Vernal Point\n- Astronomicon token: `VP`\n- Canonical page type: comparative factor page g...against their source scans. These passages have PDF locators but no visible printed folios; none have been inferred.\n' = WikiPage(path=WindowsPath('wiki/factors/vernal-point.md'), meta={'title': 'Vernal Point', 'page_type': 'factor', 'slug...gainst their source scans. These passages have PDF locators but no visible printed folios; none have been inferred.\n').body
+
+tests\wiki\test_hand_axis_ingest.py:121: AssertionError
+_________________ test_sun_moon_axis_includes_sandbach_entry __________________
+
+    def test_sun_moon_axis_includes_sandbach_entry():
+        page = load_page(Path("wiki/axes/sun-moon.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+>       assert page.meta["source_pages"] == [
+            WITTE_SLUG,
+            UDO_RUDOLPH_SLUG,
+            EBERTIN_SLUG,
+            FALIS_SLUG,
+            CARTER_SLUG,
+            SANDBACH_SLUG,
+            HAND_SLUG,
+            MCBROOM_SLUG,
+            MUNKASEY_SLUG,
+        ]
+E       AssertionError: assert ['alfred-witt...dpoints', ...] == ['alfred-witt...dpoints', ...]
+E         
+E         Left contains 3 more items, first extra item: 'hajo-banzhaf-anna-haebler-keywords-for-astrology'
+E         Use -v to get more diff
+
+tests\wiki\test_sandbach_ingest.py:46: AssertionError
+____ test_missing_sandbach_activation_creates_structural_placeholder_page _____
+
+    def test_missing_sandbach_activation_creates_structural_placeholder_page():
+        activation_path = Path("wiki/activations/neptune-node-equals-chiron.md")
+    
+        assert activation_path.exists()
+        page = load_page(activation_path)
+        assert page.meta["framework_scope"] == "modern_astrology"
+        assert page.meta["source_pages"] == [SANDBACH_SLUG]
+>       assert "Sandbach's visible source page omits a text-bearing `Chiron` activator entry" in page.body
+E       assert "Sandbach's visible source page omits a text-bearing `Chiron` activator entry" in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Nep...al Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Nep...al Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n' = WikiPage(path=WindowsPath('wiki/activations/neptune-node-equals-chiron.md'), meta={'title': 'Neptune/Node = Chiron', '...l Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)\n').body
+
+tests\wiki\test_sandbach_ingest.py:101: AssertionError
+___ test_existing_witte_activation_can_absorb_sandbach_extraction_gap_note ____
+
+    def test_existing_witte_activation_can_absorb_sandbach_extraction_gap_note():
+        page = load_page(Path("wiki/activations/moon-asc-equals-mercury.md"))
+    
+        assert page.meta["framework_scope"] == "comparative"
+        assert page.meta["source_pages"] == [WITTE_SLUG, UDO_RUDOLPH_SLUG, SANDBACH_SLUG, MUNKASEY_SLUG]
+>       assert "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints" in page.body
+E       AssertionError: assert '### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints' in '\n## Identity\n\n- Formula: `Moon/Asc = Mercury`\n- Astronomicon formula: `R/Asc = T`\n- Axis page: [Moon/Asc](../axe...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Moon/Asc = Mercury`\n- Astronomicon formula: `R/Asc = T`\n- Axis page: [Moon/Asc](../axe...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/moon-asc-equals-mercury.md'), meta={'title': 'Moon/Asc = Mercury', 'page_t... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_sandbach_ingest.py:110: AssertionError
+_ test_seeded_jupiter_mc_additional_activation_cluster_has_real_derived_synthesis _
+
+    def test_seeded_jupiter_mc_additional_activation_cluster_has_real_derived_synthesis():
+        by_slug = manifest_by_slug()
+    
+        for slug in SEEDED_JUPITER_MC_ADDITIONAL_ACTIVATION_CLUSTER:
+            record = by_slug[slug]
+>           assert record["retrieval_role"] == "canonical_answer"
+E           AssertionError: assert 'structural_only' == 'canonical_answer'
+E             
+E             - canonical_answer
+E             + structural_only
+
+tests\wiki\test_seeded_relationship_synthesis.py:4700: AssertionError
+_______ test_source_page_coverage_claims_match_live_source_attribution ________
+
+    def test_source_page_coverage_claims_match_live_source_attribution():
+        pages = iter_wiki_pages(Path("wiki"))
+        counts_by_source: dict[str, dict[str, int]] = {}
+        for page in pages:
+            for source_slug in page.meta.get("source_pages", []) or []:
+                bucket = counts_by_source.setdefault(source_slug, {"axis": 0, "activation": 0, "triad_hub": 0})
+                page_type = page.meta.get("page_type")
+                if page_type in bucket:
+                    bucket[page_type] += 1
+    
+        for source_path in Path("wiki/sources").glob("*.md"):
+            source_page = load_page(source_path)
+            source_slug = source_page.meta["slug"]
+            live_counts = counts_by_source.get(source_slug, {"axis": 0, "activation": 0, "triad_hub": 0})
+            for page_type in ("axis", "activation", "triad_hub"):
+                claimed = _claimed_count(source_page.body, page_type)
+                if claimed is None:
+                    continue
+>               assert claimed == live_counts[page_type], (
+                    f"{source_slug} claims {claimed} {page_type} pages, "
+                    f"but live source attribution is {live_counts[page_type]}"
+                )
+E               AssertionError: john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints claims 1092 activation pages, but live source attribution is 1091
+E               assert 1092 == 1091
+
+tests\wiki\test_source_page_coverage_claims.py:49: AssertionError
+_ test_asc_zeus_equals_vernal_point_uses_reviewed_abc_activation_translation __
+
+    def test_asc_zeus_equals_vernal_point_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/asc-zeus-equals-vernal-point.md"))
+    
+>       assert "fire in the environment of public life" in page.body
+E       AssertionError: assert 'fire in the environment of public life' in '\n## Identity\n\n- Formula: `Asc/Zeus = Vernal Point`\n- Astronomicon formula: `Asc/£ = VP`\n- Axis page: [Asc/Zeus](...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Asc/Zeus = Vernal Point`\n- Astronomicon formula: `Asc/£ = VP`\n- Axis page: [Asc/Zeus](...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/asc-zeus-equals-vernal-point.md'), meta={'title': 'Asc/Zeus = Vernal Point...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_eight.py:54: AssertionError
+___ test_saturn_mc_equals_neptune_uses_reviewed_abc_activation_translation ____
+
+    def test_saturn_mc_equals_neptune_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/saturn-mc-equals-neptune.md"))
+    
+        assert "Old soul in subtle substance" in page.body
+>       assert "my developmental tasks" in page.body
+E       AssertionError: assert 'my developmental tasks' in '\n## Identity\n\n- Formula: `Saturn/MC = Neptune`\n- Astronomicon formula: `W/MC = Y`\n- Axis page: [Saturn/MC](../ax...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Saturn/MC = Neptune`\n- Astronomicon formula: `W/MC = Y`\n- Axis page: [Saturn/MC](../ax...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/saturn-mc-equals-neptune.md'), meta={'title': 'Saturn/MC = Neptune', 'page... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_five.py:55: AssertionError
+_____ test_moon_mars_equals_sun_uses_reviewed_abc_activation_translation ______
+
+    def test_moon_mars_equals_sun_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/moon-mars-equals-sun.md"))
+    
+>       assert "efforts of the man for the woman" in page.body
+E       AssertionError: assert 'efforts of the man for the woman' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).\n\n- Formula: `Mo...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries).\n\n- Formula: `Mo...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/moon-mars-equals-sun.md'), meta={'title': 'Moon/Mars = Sun', 'page_type': ... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_fourteen.py:38: AssertionError
+__ test_sun_mercury_equals_neptune_uses_reviewed_abc_activation_translation ___
+
+    def test_sun_mercury_equals_neptune_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/sun-mercury-equals-neptune.md"))
+    
+>       assert "reports about subtle bodies" in page.body
+E       AssertionError: assert 'reports about subtle bodies' in '\n## Identity\n\n- Formula: `Sun/Mercury = Neptune`\n- Astronomicon formula: `S/T = Y`\n- Axis page: [Sun/Mercury](.....: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Sun/Mercury = Neptune`\n- Astronomicon formula: `S/T = Y`\n- Axis page: [Sun/Mercury](.....: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/sun-mercury-equals-neptune.md'), meta={'title': 'Sun/Mercury = Neptune', '... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_nine.py:54: AssertionError
+___ test_node_vulcanus_equals_sun_uses_reviewed_abc_activation_translation ____
+
+    def test_node_vulcanus_equals_sun_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/node-vulcanus-equals-sun.md"))
+    
+>       assert "encounter with human power" in page.body
+E       AssertionError: assert 'encounter with human power' in '\n## Identity\n\n- Formula: `Node/Vulcanus = Sun`\n- Astronomicon formula: `g/§ = S`\n- Axis page: [Node/Vulcanus](.....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Node/Vulcanus = Sun`\n- Astronomicon formula: `g/§ = S`\n- Axis page: [Node/Vulcanus](.....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/node-vulcanus-equals-sun.md'), meta={'title': 'Node/Vulcanus = Sun', 'page...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_nineteen.py:54: AssertionError
+_ test_node_poseidon_equals_neptune_uses_reviewed_abc_activation_translation __
+
+    def test_node_poseidon_equals_neptune_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/node-poseidon-equals-neptune.md"))
+    
+>       assert "disappointment in a spiritual connection" in page.body
+E       AssertionError: assert 'disappointment in a spiritual connection' in '\n## Identity\n\n- Formula: `Node/Poseidon = Neptune`\n- Astronomicon formula: `g/¨ = Y`\n- Axis page: [Node/Poseidon...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Node/Poseidon = Neptune`\n- Astronomicon formula: `g/¨ = Y`\n- Axis page: [Node/Poseidon...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/node-poseidon-equals-neptune.md'), meta={'title': 'Node/Poseidon = Neptune...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_nineteen.py:62: AssertionError
+____ test_moon_kronos_equals_mars_uses_reviewed_abc_activation_translation ____
+
+    def test_moon_kronos_equals_mars_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/moon-kronos-equals-mars.md"))
+    
+>       assert "authority of the will of a woman" in page.body
+E       AssertionError: assert 'authority of the will of a woman' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Moo...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Moo...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/moon-kronos-equals-mars.md'), meta={'title': 'Moon/Kronos = Mars', 'page_t...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_sixteen.py:54: AssertionError
+______ test_moon_mars_equals_mc_uses_reviewed_abc_activation_translation ______
+
+    def test_moon_mars_equals_mc_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/moon-mars-equals-mc.md"))
+    
+>       assert "soulful emotional actions" in page.body
+E       AssertionError: assert 'soulful emotional actions' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis).\n\n- Formula: `Moon/Mars = MC`\n- Astronomicon formul...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis).\n\n- Formula: `Moon/Mars = MC`\n- Astronomicon formul...: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n' = WikiPage(path=WindowsPath('wiki/activations/moon-mars-equals-mc.md'), meta={'title': 'Moon/Mars = MC', 'page_type': 'a... Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirteen.py:62: AssertionError
+_ test_vulcanus_poseidon_equals_pluto_uses_reviewed_abc_activation_translation _
+
+    def test_vulcanus_poseidon_equals_pluto_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/vulcanus-poseidon-equals-pluto.md"))
+    
+>       assert "unfold spiritual energies" in page.body
+E       AssertionError: assert 'unfold spiritual energies' in '\n## Identity\n\n- Formula: `Vulcanus/Poseidon = Pluto`\n- Astronomicon formula: `§/¨ = Z`\n- Axis page: [Vulcanus/Po...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Vulcanus/Poseidon = Pluto`\n- Astronomicon formula: `§/¨ = Z`\n- Axis page: [Vulcanus/Po...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/vulcanus-poseidon-equals-pluto.md'), meta={'title': 'Vulcanus/Poseidon = P...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_four.py:37: AssertionError
+_ test_cupido_admetos_equals_jupiter_uses_reviewed_abc_activation_translation _
+
+    def test_cupido_admetos_equals_jupiter_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/cupido-admetos-equals-jupiter.md"))
+    
+>       assert "blocked financial community" in page.body
+E       AssertionError: assert 'blocked financial community' in '\n## Identity\n\n- Formula: `Cupido/Admetos = Jupiter`\n- Astronomicon formula: `¡/¦ = V`\n- Axis page: [Cupido/Admet...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Cupido/Admetos = Jupiter`\n- Astronomicon formula: `¡/¦ = V`\n- Axis page: [Cupido/Admet...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/cupido-admetos-equals-jupiter.md'), meta={'title': 'Cupido/Admetos = Jupit...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_one.py:38: AssertionError
+___ test_cupido_vulcanus_equals_mc_uses_reviewed_abc_activation_translation ___
+
+    def test_cupido_vulcanus_equals_mc_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/cupido-vulcanus-equals-mc.md"))
+    
+>       assert "shared psychic influence" in page.body
+E       AssertionError: assert 'shared psychic influence' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Cup...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Cup...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/cupido-vulcanus-equals-mc.md'), meta={'title': 'Cupido/Vulcanus = MC', 'pa...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_one.py:46: AssertionError
+___ test_hades_admetos_equals_moon_uses_reviewed_abc_activation_translation ___
+
+    def test_hades_admetos_equals_moon_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/hades-admetos-equals-moon.md"))
+    
+>       assert "lack of endurance of a woman" in page.body
+E       AssertionError: assert 'lack of endurance of a woman' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Had...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Had...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/hades-admetos-equals-moon.md'), meta={'title': 'Hades/Admetos = Moon', 'pa...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_one.py:54: AssertionError
+_ test_kronos_poseidon_equals_uranus_uses_reviewed_abc_activation_translation _
+
+    def test_kronos_poseidon_equals_uranus_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/kronos-poseidon-equals-uranus.md"))
+    
+>       assert "spiritual impulses of authority" in page.body
+E       AssertionError: assert 'spiritual impulses of authority' in '\n## Identity\n\n- Formula: `Kronos/Poseidon = Uranus`\n- Astronomicon formula: `¤/¨ = X`\n- Axis page: [Kronos/Posei...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Kronos/Poseidon = Uranus`\n- Astronomicon formula: `¤/¨ = X`\n- Axis page: [Kronos/Posei...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/kronos-poseidon-equals-uranus.md'), meta={'title': 'Kronos/Poseidon = Uran...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_three.py:38: AssertionError
+_ test_kronos_poseidon_equals_neptune_uses_reviewed_abc_activation_translation _
+
+    def test_kronos_poseidon_equals_neptune_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/kronos-poseidon-equals-neptune.md"))
+    
+>       assert "especially clear water" in page.body
+E       AssertionError: assert 'especially clear water' in '\n## Identity\n\n- Formula: `Kronos/Poseidon = Neptune`\n- Astronomicon formula: `¤/¨ = Y`\n- Axis page: [Kronos/Pose...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Kronos/Poseidon = Neptune`\n- Astronomicon formula: `¤/¨ = Y`\n- Axis page: [Kronos/Pose...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/kronos-poseidon-equals-neptune.md'), meta={'title': 'Kronos/Poseidon = Nep...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_three.py:46: AssertionError
+_ test_kronos_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation _
+
+    def test_kronos_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/kronos-apollon-equals-vulcanus.md"))
+    
+>       assert "special power successes" in page.body
+E       AssertionError: assert 'special power successes' in '\n## Identity\n\n- Formula: `Kronos/Apollon = Vulcanus`\n- Astronomicon formula: `¤/¥ = §`\n- Axis page: [Kronos/Apol...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Kronos/Apollon = Vulcanus`\n- Astronomicon formula: `¤/¥ = §`\n- Axis page: [Kronos/Apol...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/kronos-apollon-equals-vulcanus.md'), meta={'title': 'Kronos/Apollon = Vulc...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_thirty_two.py:62: AssertionError
+_ test_vernal_point_neptune_equals_mc_uses_reviewed_abc_activation_translation _
+
+    def test_vernal_point_neptune_equals_mc_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/vernal-point-neptune-equals-mc.md"))
+    
+>       assert "my disappointments in public life" in page.body
+E       AssertionError: assert 'my disappointments in public life' in '\n## Identity\n\n- Formula: `Vernal Point/Neptune = MC`\n- Astronomicon formula: `VP/Y = MC`\n- Axis page: [Vernal Po...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Vernal Point/Neptune = MC`\n- Astronomicon formula: `VP/Y = MC`\n- Axis page: [Vernal Po...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/vernal-point-neptune-equals-mc.md'), meta={'title': 'Vernal Point/Neptune ...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_three.py:46: AssertionError
+__ test_sun_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation __
+
+    def test_sun_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/sun-apollon-equals-vulcanus.md"))
+    
+>       assert "expansion of masculine power" in page.body
+E       AssertionError: assert 'expansion of masculine power' in '\n## Identity\n\n- Formula: `Sun/Apollon = Vulcanus`\n- Astronomicon formula: `S/¥ = §`\n- Axis page: [Sun/Apollon](....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Sun/Apollon = Vulcanus`\n- Astronomicon formula: `S/¥ = §`\n- Axis page: [Sun/Apollon](....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/sun-apollon-equals-vulcanus.md'), meta={'title': 'Sun/Apollon = Vulcanus',...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twelve.py:46: AssertionError
+_____ test_sun_admetos_equals_mc_uses_reviewed_abc_activation_translation _____
+
+    def test_sun_admetos_equals_mc_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/sun-admetos-equals-mc.md"))
+    
+>       assert "my bodily circulation" in page.body
+E       AssertionError: assert 'my bodily circulation' in '\n## Identity\n\n- Formula: `Sun/Admetos = MC`\n- Astronomicon formula: `S/¦ = MC`\n- Axis page: [Sun/Admetos](../axe...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Sun/Admetos = MC`\n- Astronomicon formula: `S/¦ = MC`\n- Axis page: [Sun/Admetos](../axe...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/sun-admetos-equals-mc.md'), meta={'title': 'Sun/Admetos = MC', 'page_type'...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twelve.py:54: AssertionError
+____ test_jupiter_zeus_equals_asc_uses_reviewed_abc_activation_translation ____
+
+    def test_jupiter_zeus_equals_asc_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/jupiter-zeus-equals-asc.md"))
+    
+>       assert "successful striving toward goals of a place" in page.body
+E       AssertionError: assert 'successful striving toward goals of a place' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Jup...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Jup...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/jupiter-zeus-equals-asc.md'), meta={'title': 'Jupiter/Zeus = Asc', 'page_t...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twenty_five.py:38: AssertionError
+_ test_mercury_cupido_equals_neptune_uses_reviewed_abc_activation_translation _
+
+    def test_mercury_cupido_equals_neptune_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/mercury-cupido-equals-neptune.md"))
+    
+>       assert "foreign language community" in page.body
+E       AssertionError: assert 'foreign language community' in '\n## Identity\n\n- Formula: `Mercury/Cupido = Neptune`\n- Astronomicon formula: `T/¡ = Y`\n- Axis page: [Mercury/Cupi...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Mercury/Cupido = Neptune`\n- Astronomicon formula: `T/¡ = Y`\n- Axis page: [Mercury/Cupi...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/mercury-cupido-equals-neptune.md'), meta={'title': 'Mercury/Cupido = Neptu...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twenty_one.py:46: AssertionError
+_ test_saturn_apollon_equals_uranus_uses_reviewed_abc_activation_translation __
+
+    def test_saturn_apollon_equals_uranus_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/saturn-apollon-equals-uranus.md"))
+    
+>       assert "tasks of technical science" in page.body
+E       AssertionError: assert 'tasks of technical science' in '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Sat...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)\n\n- Formula: `Sat...anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/saturn-apollon-equals-uranus.md'), meta={'title': 'Saturn/Apollon = Uranus...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twenty_six.py:46: AssertionError
+___ test_mars_admetos_equals_pluto_uses_reviewed_abc_activation_translation ___
+
+    def test_mars_admetos_equals_pluto_uses_reviewed_abc_activation_translation():
+        page = load_page(Path("wiki/activations/mars-admetos-equals-pluto.md"))
+    
+        assert "thorough changes in work" in page.body
+>       assert "growing impulses of depression" in page.body
+E       AssertionError: assert 'growing impulses of depression' in '\n## Identity\n\n- Formula: `Mars/Admetos = Pluto`\n- Astronomicon formula: `U/¦ = Z`\n- Axis page: [Mars/Admetos](.....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n'
+E        +  where '\n## Identity\n\n- Formula: `Mars/Admetos = Pluto`\n- Astronomicon formula: `U/¦ = Z`\n- Axis page: [Mars/Admetos](.....anetary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n' = WikiPage(path=WindowsPath('wiki/activations/mars-admetos-equals-pluto.md'), meta={'title': 'Mars/Admetos = Pluto', 'pa...netary-pictures.md)\n- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)\n').body
+
+tests\wiki\test_udo_rudolph_activation_repairs_batch_twenty_three.py:63: AssertionError
+__________ test_neptune_factor_uses_reviewed_abc_keyword_translation __________
+
+    def test_neptune_factor_uses_reviewed_abc_keyword_translation():
+        page = load_page(Path("wiki/factors/neptune.md"))
+    
+        assert "#### ABC Keyword Entry" in page.body
+        assert "unknown, lack of clarity, uncertainty" in page.body
+>       assert "Unklarheit, Unsicherheit" not in page.body
+E       AssertionError: assert 'Unklarheit, Unsicherheit' not in '\n## Identi...erpt here.\n'
+E         
+E         'Unklarheit, Unsicherheit' is contained here:
+E         ?           ^
+E           ekanntes, Unklarheit, Unsicherheit, Ahnungen, Auflösungen, Enttäuschungen, Falschheit, Gift, Schwäche, Täuschung, Fremdes, Metaphysik, Zukunft, Feingefühl, Feinstoffliches, Verfeinerung, Intuition, Sensibilität, Flüssigkeit, Wasser, Gas, Luft, Gestaltloses, Verneinung”.
+E         ?           ^^^^^^^^^^^^^^^^^^^^^^^^^
+E           - Editorial translation: The unknown, lack of clarity, uncertainty, premonitions, dissolutions, disappointments, falseness, poison, weakness, deception, what is foreign, metaphysics, future, fine sensitivity, ...
+E         
+E         ...Full output truncated (251 lines hidden), use '-vv' to show
+
+tests\wiki\test_udo_rudolph_priority_translation_repairs.py:39: AssertionError
+_______________ test_sun_mc_axis_uses_reviewed_abc_pair_summary _______________
+
+    def test_sun_mc_axis_uses_reviewed_abc_pair_summary():
+        page = load_page(Path("wiki/axes/sun-mc.md"))
+    
+        assert "#### ABC Pair Summary" in page.body
+>       assert "self in the day" in page.body
+E       AssertionError: assert 'self in the day' in '\n## Identity\n\n- Axis: `Sun/MC`\n- Astronomicon axis: `S/MC`\n- Canonical page type: comparative axis page grounded...o Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)\n'
+E        +  where '\n## Identity\n\n- Axis: `Sun/MC`\n- Astronomicon axis: `S/MC`\n- Canonical page type: comparative axis page grounded...o Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)\n' = WikiPage(path=WindowsPath('wiki/axes/sun-mc.md'), meta={'title': 'Sun/MC', 'page_type': 'axis', 'slug': 'sun-mc', 'sta... Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md)\n').body
+
+tests\wiki\test_udo_rudolph_priority_translation_repairs.py:46: AssertionError
+=========================== short test summary info ===========================
+FAILED tests/wiki/test_carter_axis_ingest.py::test_carter_source_page_exists
+FAILED tests/wiki/test_carter_axis_ingest.py::test_sun_moon_axis_includes_carter_family_headings
+FAILED tests/wiki/test_carter_axis_ingest.py::test_mercury_venus_axis_includes_carter_nonstandard_examples
+FAILED tests/wiki/test_chiron_policy_surface.py::test_chiron_factor_page_is_explicitly_source_bounded_and_non_doctrinal
+FAILED tests/wiki/test_comparative_factors.py::test_shared_factor_pages_reference_both_sources
+FAILED tests/wiki/test_ebertin_full_ingest.py::test_live_triad_page_includes_ebertin_source_coverage
+FAILED tests/wiki/test_ebertin_full_ingest.py::test_ebertin_unresolved_review_page_exists
+FAILED tests/wiki/test_falis_axis_ingest.py::test_sun_moon_axis_includes_falis_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_sun_moon_axis_includes_hand_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_vernal_point_sun_axis_becomes_comparative_with_hand_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_node_asc_axis_includes_hand_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_sun_factor_includes_hand_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_asc_factor_includes_hand_shared_entry
+FAILED tests/wiki/test_hand_axis_ingest.py::test_vernal_point_factor_becomes_comparative_with_hand_entry
+FAILED tests/wiki/test_sandbach_ingest.py::test_sun_moon_axis_includes_sandbach_entry
+FAILED tests/wiki/test_sandbach_ingest.py::test_missing_sandbach_activation_creates_structural_placeholder_page
+FAILED tests/wiki/test_sandbach_ingest.py::test_existing_witte_activation_can_absorb_sandbach_extraction_gap_note
+FAILED tests/wiki/test_seeded_relationship_synthesis.py::test_seeded_jupiter_mc_additional_activation_cluster_has_real_derived_synthesis
+FAILED tests/wiki/test_source_page_coverage_claims.py::test_source_page_coverage_claims_match_live_source_attribution
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_eight.py::test_asc_zeus_equals_vernal_point_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_five.py::test_saturn_mc_equals_neptune_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_fourteen.py::test_moon_mars_equals_sun_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_nine.py::test_sun_mercury_equals_neptune_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_nineteen.py::test_node_vulcanus_equals_sun_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_nineteen.py::test_node_poseidon_equals_neptune_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_sixteen.py::test_moon_kronos_equals_mars_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirteen.py::test_moon_mars_equals_mc_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_four.py::test_vulcanus_poseidon_equals_pluto_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_one.py::test_cupido_admetos_equals_jupiter_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_one.py::test_cupido_vulcanus_equals_mc_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_one.py::test_hades_admetos_equals_moon_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_three.py::test_kronos_poseidon_equals_uranus_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_three.py::test_kronos_poseidon_equals_neptune_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_thirty_two.py::test_kronos_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_three.py::test_vernal_point_neptune_equals_mc_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twelve.py::test_sun_apollon_equals_vulcanus_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twelve.py::test_sun_admetos_equals_mc_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twenty_five.py::test_jupiter_zeus_equals_asc_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twenty_one.py::test_mercury_cupido_equals_neptune_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twenty_six.py::test_saturn_apollon_equals_uranus_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_activation_repairs_batch_twenty_three.py::test_mars_admetos_equals_pluto_uses_reviewed_abc_activation_translation
+FAILED tests/wiki/test_udo_rudolph_priority_translation_repairs.py::test_neptune_factor_uses_reviewed_abc_keyword_translation
+FAILED tests/wiki/test_udo_rudolph_priority_translation_repairs.py::test_sun_mc_axis_uses_reviewed_abc_pair_summary
+43 failed, 716 passed in 193.16s (0:03:13)

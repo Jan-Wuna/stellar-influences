@@ -34,11 +34,15 @@ updated_at: 2026-06-20
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter Saturn](../triads/sun-jupiter-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 Hindered success. Lost happiness. Misfortune. Lost position. Bad fortune.
 
@@ -46,17 +50,23 @@ Hindered success. Lost happiness. Misfortune. Lost position. Bad fortune.
 
 #### ABC Entry
 
-Tasks of a legal center, financial problems of a man, money losses of a person, glimmering person in old age, personal legal problems, concentration on personal advantage, and satisfaction despite corporal pain
+Source locator: printed page 149; PDF page 73 (one-based).
+
+Tasks of a legal center, financial problems of a man, money losses of a person, a happy person in old age, personal legal problems, concentration on personal advantage, and satisfaction despite bodily pain.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 90, coded entry 0235.
 
 The disinclination to do something coupled with a completely negative state of mind, incapability and incompetence, inhibitions (partly conditioned organically). The loss of employment, of good fortune, of one's possessions. Lack of success, illness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 13 (one-based), Sun/Jupiter Saturn entry.
 
 Success that comes slowly, gradually and/or through hard work. Carefully and patiently enlarging on ones goals. Possibly a fear of success, or even uncertainty con cerning whether one has reached it or not. Gaining notoriety late in life.
 
@@ -80,22 +90,21 @@ Ober gives loss of success or stabilization of success.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Success delayed, hindered or lost, with persistence and stabilization as explicit alternatives.
+- psychology: Inhibition, fear or uncertainty about success, patient effort and frustration at poor follow-through.
+- body/health: Pain, illness and organic-inhibition claims remain historical attributions.
+- social/relationship: Legal problems and tasks are supplied without a specific relationship arrangement.
+- events/manifestations: Loss of employment, possessions or money; gradual or late success and stabilization of success.
+- conflicts/notes: The sources retain both loss and persistent achievement; moral seriousness and fear of failure are not the exact local claims.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize hindrance and loss. Sandbach and Munkasey also allow success through slow work or persistence; Ober explicitly gives both loss and stabilization. ABC retains happiness in old age and satisfaction despite pain alongside financial/legal difficulty.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Saturn`: durable achievement, moral seriousness, and the ability to turn promise into workable form. Main caution: frustrated optimism: doubt, caution, or fear of failure can shrink opportunity before it is properly tested.
+For `Sun/Jupiter = Saturn`, the entries place success under conditions of delay, restriction or loss. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize hindered success and lost position or possessions; [ABC](#abc-entry) adds financial and legal difficulty while retaining happiness in old age. [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) preserve gradual achievement through patient work and persistence, with fear of success, uncertainty or failed follow-through as limits. [Ober](#ober-entry) keeps loss and stabilization as alternatives. The formula therefore concerns constrained attainment rather than assured durability, with bodily and character labels kept as source attributions.
 
 ## Links
 

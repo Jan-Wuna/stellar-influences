@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Jupiter Cupido Admetos](../triads/jupiter-cupido-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 271 (printed 275).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ A small, true community. Passing pleasant company or comradeship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 432).
+
 #### ABC Entry
 
-blocked financial community, financial restriction of the community, restriction through a legal community, consolidation of shared good fortune, shared success through endurance, and thorough success of a community
+Editorial English translation, checked against the German scan:
+
+Blocked financial community; financial restriction of the community; restriction through a legal community; consolidation of shared good fortune; consolidating community law (Gemeinschafts-Recht festigen); shared success through endurance; thorough success of a community.
+
+## Comparative Schema
+
+- core meaning: A small congenial community with financial or legal constraints and possible enduring success.
+- psychology: Pleasant company and shared good fortune.
+- body/health: No specific physical or medical claim.
+- social/relationship: A small, true community or passing pleasant companionship.
+- events/manifestations: Blocked finance, legal restriction, consolidation of community law and success through endurance.
+- conflicts/notes: Pleasant companionship may be passing; financial or legal restrictions do not erase the successful clauses.
+
+## Contradictions And Differences
+
+Pleasant companionship may be passing; financial or legal restrictions do not erase the successful clauses. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Jupiter`: limited but sincere fellowship and to the possibility of finding warmth even within a narrowed social field. Main caution: assuming the goodness is durable when the source also stresses its passing quality.
+`Cupido/Admetos = Jupiter` combines a small, congenial association with the practical limits and successes of communal life. The [Witte entry](#witte-entry) includes a small, true community and passing pleasant company; the [ABC entry](#abc-entry) adds constrained finance or legal association, but also consolidated good fortune, strengthening community law and success through endurance. A pleasant meeting and a sustained communal success are both supported possibilities; lasting happiness is not promised.
 
 ## Links
 

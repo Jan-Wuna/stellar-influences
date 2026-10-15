@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Mercury`
 - Astronomicon formula: `S/Y = T`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ Receptiveness for thoughts. Day-dreaming. Not being fully awake. Mental defects.
 
 #### ABC Entry
 
-Exchanged young man, thoughts about subtle bodies, talk about poison in the body, carper movement in the water, opinions about body refinement, personal language in the air, and personal future opinions
+Source locator: printed page 154 / PDF page 76, Mercury glyph under Sonne + Neptun. English translation checked against the complete row.
+
+Disappointed young man, thoughts about subtle bodies, conversations about poison in the body, bodily movement in water, opinions on bodily refinement, personal conversations in the air, and personal opinions about the future.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Little intelligence, lack of logical thinking, only a small measure of objectivi
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Mercury entry under Planets activating the Sun/Neptune midpoint.
 
 Communication which has an imaginative vitality, or a subtle purposefulness, but which might also display a diffusion, confusion or uncertainty that makes it difficult for others to perceive what one’s purpose is. Bringing hidden things to light when one speaks. A mind which fantasizes about the future.
 
@@ -70,22 +76,21 @@ Discussions with others about the occult or magical sides of life; bringing your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Imaginative perception expressed as thought and speech, with uncertain clarity.
+- psychology: Future fantasy, receptive thought, or insufficient objectivity.
+- body/health: Older mental/nerve/speech defect claims remain attributed; no diagnosis follows from imaginative communication.
+- social/relationship: Speech can reveal hidden meaning or leave others unsure of the speaker's purpose.
+- events/manifestations: Occult discussion and self-education; attempts to bring dreams into reality.
+- conflicts/notes: A clear imaginative message and confused reasoning are alternatives; ABC's subtle bodies and bodily refinement supply no added physical mechanism.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach explicitly allows both imaginative vitality and confused communication. Ebertin's categorical intelligence language must remain attributed. ABC's disappointed youth, bodily movement and conversations are distinct examples rather than a common judgment of intelligence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Mercury`: poetic speech, dreamlike reflection, and communication shaped by intuition and subtle perception. Main caution: confusion: false logic, deceptive narratives, or diffuse thinking can weaken both judgment and intelligibility.
+Mercury specifies the Sun/Neptune axis in thinking and communication: a speaker may make hidden meanings vivid, yet diffuse or uncertain expression can obscure the purpose being conveyed. [Sandbach Entry](#sandbach-entry) makes that contrast explicit, while [Witte Entry](#witte-entry) supplies daydreaming and receptiveness to thoughts. [Munkasey Entry](#munkasey-entry) gives a particular outlet in occult discussion and self-education. These passages support a question of clarity, not a general judgment of intelligence.
 
 ## Links
 

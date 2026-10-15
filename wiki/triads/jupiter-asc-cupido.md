@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Asc Cupido`
 - Astronomicon triad-set: `V Asc ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Cupido = Jupiter](../activations/asc-cupido-equals-jupiter.md)
-- [Jupiter/Asc = Cupido](../activations/jupiter-asc-equals-cupido.md)
-- [Jupiter/Cupido = Asc](../activations/jupiter-cupido-equals-asc.md)
+- [Asc/Cupido = Jupiter](../activations/asc-cupido-equals-jupiter.md): base axis [Asc/Cupido](../axes/asc-cupido.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Asc = Cupido](../activations/jupiter-asc-equals-cupido.md): base axis [Jupiter/Asc](../axes/jupiter-asc.md); activator [Cupido](../factors/cupido.md).
+- [Jupiter/Cupido = Asc](../activations/jupiter-cupido-equals-asc.md): base axis [Jupiter/Cupido](../axes/jupiter-cupido.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
-- `Asc/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `121`
-- `Jupiter/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `113`
-- `Jupiter/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `332`
+The following coverage records the source subentries currently present on each linked activation page.
+
+- `Asc/Cupido = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-cupido-equals-jupiter.md#witte-entry), PDF entry-start page `91`.
+- `Asc/Cupido = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-cupido-equals-jupiter.md#abc-entry), printed page `122`; PDF page `60`.
+- `Jupiter/Asc = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-asc-equals-cupido.md#witte-entry), PDF entry-start page `86`.
+- `Jupiter/Asc = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-asc-equals-cupido.md#abc-entry), printed page `113`.
+- `Jupiter/Cupido = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-cupido-equals-asc.md#witte-entry), PDF entry-start page `211`.
+- `Jupiter/Cupido = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-cupido-equals-asc.md#abc-entry), printed page `332`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Jupiter`: a happy home, satisfying apartment, and cheerful participation in domestic or communal life.
-- `Jupiter/Asc = Cupido`: wedding-company, peaceful domestic life, and a home that feels like paradise.
-- `Jupiter/Cupido = Asc`: being united in a happy marriage, meeting fortunate partners, or making acquaintances through art and agreeable social circles.
+Jupiter, Asc and Cupido form one unordered lookup set, but the three formulas change the midpoint pair and the activator. Follow the exact formula above for its interpretation and source entries; use its base axis for the shared pair meaning and its factor links for standalone evidence. The orientations are not interchangeable.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Asc/Cupido](../axes/asc-cupido.md)
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Cupido](../factors/cupido.md)

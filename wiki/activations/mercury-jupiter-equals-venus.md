@@ -27,6 +27,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Jupiter = Venus`
 - Astronomicon formula: `T/V = Q`
 - Axis page: [Mercury/Jupiter](../axes/mercury-jupiter.md)
@@ -36,17 +38,27 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `161`.
+
 #### Witte Entry
 
 Lover’s discourse. Teasing. Pleasant conversation. Agreements in ideas.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121`.
+
 #### ABC Entry
 
-Joy of harmonious movement, joy of young happiness, peaceful happy youth, prefer to speak about money, happy talk about love, artistic writingGood, news about peace success, and benevolent right speech
+German passage (transcribed from PDF page `121`, printed page `244`):
+
+> Freude an harmonischer Bewegung, Freude über junges Glück, friedliche glückliche Jugend, Gespräche über Geld bevorzugen, glückliche Gespräche über die Liebe, künstlerisches Schrift-Gut, Nachrichten über Friedens-Erfolge, wohlwollende Recht-Sprechung
+
+Editorial translation from the German passage: Pleasure in harmonious movement; joy over young happiness; peaceful happy youth; preferring conversations about money; happy conversations about love; artistic writings; news about successes in peace; benevolent administration of justice.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `44` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -63,22 +75,21 @@ Using your experience in music or the arts to create new compositions or studies
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasure in conversation, learning, and artistic development ([Witte](#witte-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
+- psychology: Attraction to ideas that enrich the mind is explicit.
+- body/health: ABC names harmonious movement without a medical claim.
+- social/relationship: Lovers' discourse, teasing, and agreement in ideas are Witte's examples.
+- events/manifestations: Artistic composition, study, education, and recognition of developed talent are named.
+- conflicts/notes: Free exchange and mental excitement are supported; flattery is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's pleasant exchange and Sandbach's enjoyment of wide-ranging talk complement Munkasey's artistic study. Getting mentally worked up is one possibility, without evidence that precision is necessarily lost.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter = Venus`: literary charm, diplomatic judgment, and the ability to persuade through warmth rather than pressure. Main caution: polished excess: speech can become too flattering, easy, or pleasure-oriented to stay precise and grounded.
+In `Mercury/Jupiter = Venus`, Venus specifies expansive communication as something enjoyed: pleasant conversation, teasing, agreement, and a love of many topics. The same attraction to mental enrichment appears as pleasure in study and education, or the use of artistic experience to create compositions and develop talent. ABC adds happy love talk, artistic writings, and benevolent administration of justice, retaining practical and cultural expressions of this enjoyment ([Witte](#witte-entry), [ABC](#abc-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

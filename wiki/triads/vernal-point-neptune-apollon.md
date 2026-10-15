@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Neptune Apollon`
 - Astronomicon triad-set: `VP Y ¥`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Neptune/Apollon = Vernal Point](../activations/neptune-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Neptune](../activations/vernal-point-apollon-equals-neptune.md)
-- [Vernal Point/Neptune = Apollon](../activations/vernal-point-neptune-equals-apollon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Apollon](../axes/neptune-apollon.md) | Vernal Point | [Neptune/Apollon = Vernal Point](../activations/neptune-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | Neptune | [Vernal Point/Apollon = Neptune](../activations/vernal-point-apollon-equals-neptune.md) |
+| [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Apollon | [Vernal Point/Neptune = Apollon](../activations/vernal-point-neptune-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Neptune/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `400`
-- `Vernal Point/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Neptune/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `251`
+- `Neptune/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `400`
+- `Vernal Point/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `52`
+- `Vernal Point/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, printed page `53`
+- `Vernal Point/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `46`
+- `Vernal Point/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, printed page `41`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Vernal Point`: This activation externalizes `Neptune/Apollon` into general corruption and widely shared uncertainty about the future. It makes large deception collective and atmospheric, so the common outlook becomes clouded by doubt, fraud, or anxious expectation.
-- `Vernal Point/Apollon = Neptune`: This formula emphasizes extensive deception, occult sciences, and on the way to organized science.
-- `Vernal Point/Neptune = Apollon`: This formula emphasizes far spread chaos, corruption, dissolutions, disappointment of the masses, and chemical sciences.
+The set links [Neptune/Apollon = Vernal Point](../activations/neptune-apollon-equals-vernal-point.md), [Vernal Point/Apollon = Neptune](../activations/vernal-point-apollon-equals-neptune.md), and [Vernal Point/Neptune = Apollon](../activations/vernal-point-neptune-equals-apollon.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

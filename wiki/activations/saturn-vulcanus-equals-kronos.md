@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Kronos Vulcanus](../triads/saturn-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Difficult to deceive or fool. To be careful. To be suspicious. To use great meas
 
 #### ABC Entry
 
-Power and perseverance of the boss, violence and harshness of the state, enormous shocks against the state, great energy loss, concentration on special energies, power problems in the state, state power concentration, and state losses through violence
+Energy and endurance of the chief, violence and harshness of the state, immense disturbances against the state, great loss of energy, concentration on special energies, power problems in the state, concentration of state power, and state losses through violence.
+
+## Comparative Schema
+
+- core meaning: Vigilance and concentrated authority face strong pressures.
+- psychology: Suspicion, caution and resistance to deception.
+- body/health: No specific bodily or medical claim is supplied.
+- social/relationship: State supervision and the endurance of a chief.
+- events/manifestations: State power problems, energy loss and violent disturbances.
+- conflicts/notes: Guarding authority and harsh use of authority are both represented.
+
+## Contradictions
+
+Witte stresses precaution while ABC includes harsh state power and disturbances against it; these are different positions within authority, not a single moral verdict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Kronos`: difficult to deceive or fool, to be careful, to be suspicious.
-- Practical expression: power, perseverance of the boss, violence, harshness of the state, and enormous shocks against the state.
+Kronos specifies Saturn/Vulcanus through the vigilance and pressure of authority. Careful supervision and suspicion may protect interests, while concentrated state power can become harsh or itself suffer severe disturbance. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) and [ABC Entry](#abc-entry) (printed p. 367; PDF p. 182) preserve both the endurance of a chief and the limits of public power; they do not equate caution with an assured capacity to control events.
 
 ## Links
 

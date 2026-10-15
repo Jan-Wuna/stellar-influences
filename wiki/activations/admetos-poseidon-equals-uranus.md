@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Admetos/Poseidon = Uranus`
 - Astronomicon formula: `¦/¨ = X`
 - Axis page: [Admetos/Poseidon](../axes/admetos-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 312, Uranus row.
+
 Suddenly subjected to a special kind of training. Suddenly exposed to other forming powers or a different influence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excitement over the restriction of truth, blocked cultural event, mental emancipation and deepening, new insights deepen, surprising spiritual submission, deep spiritual impulses, and compaction of a technical idea
+Reference: printed p. 477 (PDF p. 237), Uranus row, checked on the scan.
+
+Excitement over restriction of truth, a blocked cultural event, intellectual renewal and deepening, deepening new insights, surprising intellectual suppression, deep intellectual impulses, and condensation of a technical idea.
+
+## Comparative Schema
+
+- core meaning: Sudden formative influences and renewed or restricted understanding.
+- psychology: Excitement, new insights, and deep intellectual impulses.
+- body/health: Neither entry supplies a medical meaning.
+- social/relationship: Exposure to a different educational or formative influence.
+- events/manifestations: Sudden special training, blocked cultural events, and a condensed technical idea.
+- conflicts/notes: Renewal and suppression are both in ABC; neither is an inevitable result of novelty.
+
+## Contradictions
+
+The entries present sudden change, intellectual renewal, and suppression without asserting that they must occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Uranus`: breakthrough instruction, unusual schools of thought, and rapid reconditioning by unfamiliar influences. Main caution: disruptive formation: new teachings can arrive too abruptly, destabilizing continuity and coherence.
+In `Admetos/Poseidon = Uranus`, Uranus specifies the pair through sudden exposure to special training or another formative influence in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) connects this range with renewed and deepened insights, intellectual impulses, and technical ideas, while also naming blocked cultural events and surprising suppression of understanding. Suddenness is explicit; a necessary loss of coherence is not.
 
 ## Links
 

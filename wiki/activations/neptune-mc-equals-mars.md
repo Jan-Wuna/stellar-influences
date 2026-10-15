@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Mars`
 - Astronomicon formula: `Y/MC = U`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 Not sure of one’s attitude. Irresolute in decision. Work which is unsatisfactory and is never finished. Occupation with the unknown. Swindler. Arrant knave.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `80`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-I work in the water, my work in the air, my work with poison, my breathing activity, my refinement will, my intuitive actions, my sensitive impulses, and my work with water
+I work in the water, my work in the air, my work with poison, my breathing activity, my will to refine, my intuitive actions, my sensitive impulses, my work with water, and my activity in the air
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `290`, entry code `1039`.
 
 #### Ebertin Entry
 
 Tendency to act without clear understanding or purpose, desire to bring the wrong ideas into realization, study of metaphysical subjects. Desire to harm other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Anger over not being able to manifest one’s ideals in the world. Working hard 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Increased anger and frustration when you fail to put consistent efforts forth to
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action and work whose purpose, execution, or completion is uncertain.
+- psychology: indecision, anger, rash impulses, and the wish to act on mystical images are stated.
+- body/health: ABC names breathing activity and work with poison; these are historical examples without a medical instruction or diagnosis.
+- social/relationship: Ebertin's desire to harm others and Witte's swindler labels are particular severe claims.
+- events/manifestations: unfinished work, hard work on idealistic projects, and attempts to activate metaphysical plans are explicit.
+- conflicts/notes: idealistic effort can coexist with an unrealistic approach; sacrificial service and a fixed activist identity are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress unclear or harmful action. Sandbach also describes hard work on idealistic projects, while warning that unrealistic methods can make it ineffective; Munkasey adds frustration and rashness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Mars`: sacrificial work, activist or inspired effort, and the attempt to fight for a calling that feels larger than oneself. Main caution: misdirected force: action can become covert, confused, draining, or entangled in the wrong objective.
+In Neptune/MC = Mars, action may be driven by an ideal or subtle impression while lacking the clarity needed to finish it. [Witte](#witte-entry) describes irresolution and unfinished work; [Ebertin](#ebertin-entry) adds action without clear purpose. [Sandbach](#sandbach-entry) pairs hard work on idealistic projects with ineffective, unrealistic methods, and [Munkasey](#munkasey-entry) connects inconsistent effort with frustration and rash impulses. [ABC](#abc-entry) supplies intuitive actions and concrete work examples; these do not by themselves establish a sacrificial calling or harmful intent.
 
 ## Links
 

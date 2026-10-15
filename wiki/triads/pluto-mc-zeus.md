@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto MC Zeus`
 - Astronomicon triad-set: `Z MC £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Zeus = Pluto](../activations/mc-zeus-equals-pluto.md)
-- [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md)
-- [Pluto/Zeus = MC](../activations/pluto-zeus-equals-mc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Zeus = Pluto](../activations/mc-zeus-equals-pluto.md) | [MC/Zeus](../axes/mc-zeus.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/MC = Zeus](../activations/pluto-mc-equals-zeus.md) | [Pluto/MC](../axes/pluto-mc.md) | [Zeus](../factors/zeus.md) |
+| [Pluto/Zeus = MC](../activations/pluto-zeus-equals-mc.md) | [Pluto/Zeus](../axes/pluto-zeus.md) | [MC](../factors/mc.md) |
 
 ## Source Coverage
 
-- `MC/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `72`
-- `MC/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `89`
-- `Pluto/MC = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `83`
-- `Pluto/Zeus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `412`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Zeus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-zeus-equals-pluto.md#witte-entry), one-based PDF entry-start p. `72`.
+- `MC/Zeus = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-zeus-equals-pluto.md#abc-entry), printed p. `89`.
+- `Pluto/MC = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-zeus.md#witte-entry), one-based PDF entry-start p. `69`.
+- `Pluto/MC = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-zeus.md#abc-entry), printed p. `83`.
+- `Pluto/Zeus = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-mc.md#witte-entry), one-based PDF entry-start p. `259`.
+- `Pluto/Zeus = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-mc.md#abc-entry), printed p. `412`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Pluto`: intensifies the axis into thrust, ambition, and transformational pressure.
-- `Pluto/MC = Zeus`: This activation emphasizes personal duty, effort or production intensifies as development turns in a new direction.
-- `Pluto/Zeus = MC`: This activation emphasizes one’s personal impulses; Sense of duty; To be conscientious; Eagerness to produce; To take over a duty.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

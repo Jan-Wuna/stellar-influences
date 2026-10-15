@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Uranus/Hades = Mercury`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/¢ = T`
 - Axis page: [Uranus/Hades](../axes/uranus-hades.md)
 - Triad hub: [Mercury Uranus Hades](../triads/mercury-uranus-hades.md)
@@ -34,21 +35,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 237.
+
 #### Witte Entry
 
 Premonition of death. To have to die an uncommon death. Sudden thoughts of murder. News or information about an old technology.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 376; PDF p. 187.
+
 #### ABC Entry
 
-Excitement on criminal youth, report on dangerous events, aroused criminal youth, dangerous traffic events, language on sudden distress, language on outdated technology, new youth crime, and tension through writings from the past
+Excitement over criminal youth, a report on dangerous events, excited criminal youth, dangerous traffic events, conversations about sudden distress, conversations about outdated technology, new youth crime, tension through writings from the past.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 237) and [ABC](#abc-entry) (printed p. 376; PDF p. 187).
+
+- core meaning: Thought, news or discussion concerns danger, distress, old technology or past writings.
+- psychology: Witte names a premonition of death and sudden thoughts of murder, without establishing intent or reliable foreknowledge.
+- body/health: Uncommon death is a historical source correspondence, not a medical prediction.
+- social/relationship: ABC includes discussion of youth crime and sudden distress; it does not label every participant criminal.
+- events/manifestations: Dangerous traffic events, reports, old-technology information and past writings are explicit.
+- conflicts/notes: Thoughts about harm differ from action or prediction; technical and historical subjects remain independent meanings.
+
+## Contradictions
+
+Witte's premonition and death language differs in severity from technical information or discussion of old writings. Neither the subject of a thought nor its suddenness proves it true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Hades = Mercury`: Premonition of death. To have to die an uncommon death. Sudden thoughts of murder. News or information about an old technology.
-- Practical expression: excitement on criminal youth, report on dangerous events, aroused criminal youth, dangerous traffic events, and language on sudden distress.
+Mercury specifies Uranus/Hades through information and thought about difficult events. Reports of danger, conversations about distress and youth crime give it a troubling social subject, while old technology and writings from the past provide a separate historical field. ([Witte](#witte-entry), [ABC](#abc-entry).) Witte's premonition of death and sudden thoughts of murder remain attributed examples, without turning a thought into intent or a reliable forecast.
 
 ## Links
 

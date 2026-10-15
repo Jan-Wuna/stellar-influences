@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Uranus`
 - Astronomicon formula: `S/Y = X`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,17 +47,35 @@ To be suddenly checkmated. Being suddenly turned off. A nervous body. Epilepsy. 
 
 #### ABC Entry
 
-Dynamic body in the air, human emanation through metaphysics, excited subtle body, body rhythm in the water, personal sensitivity for technology, surprising body weakness, and sudden personal intuitions
+Source locator: printed page 155 / PDF page 76, complete Uranus glyph row under Sonne + Neptun.
+
+Dynamic body in the air, renewal of the human being through metaphysics, excited subtle body, body rhythm in the water, personal sensitivity for technology, surprising body weakness, and sudden personal intuitions
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Sudden upsets or excitements, nervousness, convulsions or spasms (epilepsy). A suddenly emerging weakness or illness, an inner or an emotional crisis, mourning. " Venus = Sun/Neptune has been found frequently in cases of kidney disease. 12 In individual cases a Mars = Sun/Neptune combination has been found to indicate epilepsy.
+Source locator: printed page 99 / PDF page 101, code 0273 (Uranus).
+
+Sudden upsets or excitements, nervousness, convulsions or spasms (epilepsy). A suddenly emerging weakness or illness, an inner or an emotional crisis, mourning.
+
+#### Contextual Source Footnote 11
+
+Source locator: printed page 99 / PDF page 101; marker at Venus, code 0269.
+
+Venus = Sun/Neptune has been found frequently in cases of kidney disease.
+
+#### Contextual Source Footnote 12
+
+Source locator: printed page 99 / PDF page 101; marker at Mars, code 0270.
+
+In individual cases a Mars = Sun/Neptune combination has been found to indicate epilepsy.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Uranus entry under Planets activating the Sun/Neptune midpoint.
 
 Sudden or unexpected intuitive awareness. To have unique insights into the subtleties of meaning within phenomena and into the nature of realms beyond the physical plane. An upset due to one’s psychic sensitivity.
 
@@ -70,22 +90,21 @@ Visualization and dreaming about astrology; adjustment of old dreams to fit newl
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden intuitive awareness or upset interrupting an imaginative life.
+- psychology: Unexpected insight; sensitivity may also produce excitement or inward escape.
+- body/health: Historical nervousness, epilepsy, weakness, and illness claims remain attributed; separately labeled Venus/Mars notes concern other activators.
+- social/relationship: Munkasey describes indifference to others during inward escape; no fixed relationship outcome is stated.
+- events/manifestations: Adjusting an old dream to a new situation; upsets when reality is ignored.
+- conflicts/notes: ABC's renewal through metaphysics remains distinct from medical claims; the Venus/Mars footnotes do not supply Uranus doctrine.
 
 ## Contradictions
 
-- None recorded yet.
+- Unexpected insight and sudden distress are alternative expressions. Ebertin's separately labeled notes belong to Venus and Mars. ABC adds renewal through metaphysics without defining a physical mechanism.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Uranus`: unusual insight, startling psychic perception, and sudden changes brought on by sensitivity to invisible forces. Main caution: instability: excitation, crisis, or nervous disturbance can turn inspiration into disorder or collapse.
+Uranus specifies the Sun/Neptune axis as a sudden interruption: intuition may arrive unexpectedly, or sensitivity and unreality may produce an upset. [Sandbach Entry](#sandbach-entry) supplies the unexpected insight; [Munkasey Entry](#munkasey-entry) connects changing circumstances with the need to adjust old dreams. [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) describe the more disruptive range, with their medical statements retained as historical claims.
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Triad hub: [Sun Mercury Node](../triads/sun-mercury-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Node + Mercury`
+- Source reference: PDF p. 141 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,17 @@ Verbal exchange of ideas.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Merkur`
+- Source reference: printed p. 208; PDF p. 103 (one-based) (entry).
+
 #### ABC Entry
 
 Encounters in a media centre, meeting centre for youth, mobile personal relationships, personal language contacts, connection to young people, centre for news communication, and centre for traffic connections
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Dragon's Head`
+- Source reference: printed p. 167; entry `0543` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +66,16 @@ Positive communion of thought, desire to have intellectual associations, urge to
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Node midpoint`
+- Source reference: PDF p. 51 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 One feels it is important to share ideas with people. The goal and purpose of one’s life is actualized through sharing one’s ideas with people who will benefit from them.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 176 (entry page).
 
 - Source heading: `MERCURY/NODE with Planets and Points`
 - Source page: `176`
@@ -70,22 +86,21 @@ Devising effective and competent means of communicating to others; influencing g
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sharing ideas as a central personal purpose. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- psychology: A strong wish to exchange ideas and prepare knowledge effectively. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry), p. 176.
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Intellectual associations and the trust of an audience. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Verbal exchange, presentation of knowledge, and meetings at youth or media centers. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: The entries support purposeful communication; a need for agreement or a fear of being unheard is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is identified; personal purpose and practical communication are different emphases.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Sun`: socially expressive intelligence, communicative leadership, and the ability to become known through ideas, speech, and coordinated plans. Main caution: identity through opinion: self-expression can become too tied to being heard, agreed with, or mentally mirrored by others.
+In `Mercury/Node = Sun`, Sun specifies the communication pair through the importance given to exchanging ideas. Sharing knowledge can serve a felt purpose, especially when it reaches people who benefit from it. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry). Effective preparation and an audience's trust give that purpose a practical form, while the youth and media centers in [ABC](#abc-entry) provide concrete meeting settings. [Munkasey](#munkasey-entry), p. 176.
 
 ## Links
 

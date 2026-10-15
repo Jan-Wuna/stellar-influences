@@ -28,6 +28,10 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Scan-verified locators: [ABC](#abc-entry): printed p. 112 (PDF p. 55); [Witte](#witte-entry): PDF p. 86; [Sandbach](#sandbach-entry): PDF p. 86, Midheaven paragraph.
+- Other inherited locators: [Ebertin](#ebertin-entry): printed p. 242, entry 0853; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = MC`
 - Astronomicon formula: `V/Asc = MC`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -41,11 +45,15 @@ updated_at: 2026-05-06
 
 To get along well with others. To keep good friendship. To be fond of companionship. To have protection. To be protected by others.
 
+Source: PDF p. 86, MC entry under Asc/Jupiter.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Money mcincs partners, GIUcks minute in one place, my successful partner, my financialplace, my advantage at the place, my place right, my Freudc in the environment, scclishcs luck with a partner, and soul pleasure at the place
+English translation: My partner's money, a fortunate minute at a place, my successful partner, my financial place, my happiness with others, my advantage at the place, my local right, my joy in the surroundings, inner happiness with the partner, and joy of the soul at the place.
+
+Source: printed p. 112 (PDF p. 55), MC entry under Asc/Jupiter.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -59,6 +67,8 @@ Pleasant and harmonious personality, the good fortune to be placed in good circu
 
 One’s dharma in this lifetime involves playing one’s role with fullness and enthusiasm. Success in one’s work depends on projecting a positive attitude, although difficulties in one’s work could come from being overly confident or too eager.
 
+Source: PDF p. 86, Midheaven paragraph under Jupiter/Ascendant.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `JUPITER/ASCENDANT with Planets and Points`
@@ -70,22 +80,23 @@ A more mature self which grows through the years as an ability to read the polit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Companionship and helpful circumstances become part of personal purpose and the ability to succeed with others.
+- psychology: Ebertin emphasizes harmonious personality; Sandbach balances enthusiastic participation against overconfidence, while Munkasey describes growing political awareness.
+- body/health: No bodily or medical manifestation is specified in the usable entries.
+- social/relationship: Witte's friendship and protection and Munkasey's attention to others' needs place success within responsive relationships.
+- events/manifestations: Good circumstances, support from others, and success in one's work are stated possibilities, with excessive eagerness a possible obstacle. ABC also names a partner's money, personal financial and local advantages, and happiness with others.
+- conflicts/notes: ABC's ten-clause row includes `mein Glück mit anderen` (my happiness with others). Its `Orts-Recht` (local right) and financial place remain broad source terms; the fortunate minute supplies no timing method.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's excessive-confidence warning qualifies the favorable circumstances described elsewhere.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = MC`: help from others, congenial companionship, and the ability to prosper because one's style and purpose reinforce each other. Main caution: excess confidence: eagerness or inflated expectation can weaken judgment even while opportunities remain genuinely present.
+In `Jupiter/Asc = MC`, MC specifies the Jupiter/Asc pair as personal participation in a supportive social setting. Friendship, protection, and congenial circumstances help a person find a place with others: this is the common thread of [Witte](#witte-entry) and [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) connects work and purpose with playing one's role fully and enthusiastically.
+
+That participation also requires attention to other people. [Munkasey](#munkasey-entry), p. 276, describes a maturing ability to read their needs and intentions; Sandbach's warning about excessive confidence qualifies the favorable reading. [ABC](#abc-entry), printed p. 112, gives this supportive setting a personal emphasis through a partner's money and success, one's own financial place and local advantages, and happiness and joy with others or at the place.
 
 ## Links
 

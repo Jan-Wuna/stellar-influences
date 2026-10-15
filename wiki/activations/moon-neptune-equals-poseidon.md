@@ -29,10 +29,13 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/Y = ¨`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Moon Neptune Poseidon](../triads/moon-neptune-poseidon.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -40,16 +43,31 @@ Fine mental receptivity. Relaxation with mental thoughts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `189`; PDF p. `93`.
+
 #### ABC Entry
 
 Interchangeable hour of truth, knowledge of a people for the future, mentally confused woman, ideas of a subtle milt, cultural future of a people, clarity by refinement of the customs, and reason of a foreign people
 
+- Translation check: printed p. `189` (PDF p. `93`, visually checked) reads `Enttäuschende Stunde der Wahrheit` (a disappointing hour of truth), `Ideen eines feinfühlenden Gemüts` (ideas of a sensitive mind), and `Klarheit durch Verfeinerung der Gefühle` (clarity through refinement of feelings). These replace the imported senses of interchangeability, milt, and customs when interpreting the entry.
+
+## Comparative Schema
+
+- core meaning: Poseidon specifies the pair through fine mental receptivity and clarification of feeling.
+- psychology: reflective relaxation and ideas arising from a sensitive mind coexist with disappointment and confusion.
+- body/health: neither entry supplies a specific bodily or health claim.
+- social/relationship: ABC includes the cultural future and understanding of peoples; its gendered example of confusion remains source-specific.
+- events/manifestations: contemplation, a disappointing encounter with truth, and cultural insight are the stated expressions.
+- conflicts/notes: the corrected German wording supports refinement of feelings, not the imported phrases about milt or customs.
+
+## Contradictions
+
+- Witte's mental relaxation and ABC's confusion or disappointing truth differ in emphasis. ABC also offers clarity through refinement, so the page supports a range rather than a uniform state of lucid calm.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Neptune = Poseidon`: Fine mental receptivity. Relaxation with mental thoughts.
-- Practical focus: spiritualizes `Moon/Neptune` further into fine receptivity, contemplative rest, and mentally elevated inner quiet. It favors subtle reflection rather than confusion, making the dreamlike or impressionable side of feeling more lucid, idealized, and inwardly meaningful.
-- Practical expression: interchangeable hour of truth, knowledge of a people for the future, mentally confused woman, ideas of a subtle milt, and cultural future of a people.
+In `Moon/Neptune = Poseidon`, Poseidon specifies the pair as fine mental receptivity: reflection can bring relaxation, and refinement of feelings can bring clarity. [Witte](#witte-entry) supplies the contemplative expression; the visually checked [ABC entry, p. 189](#abc-entry) also includes confusion and a disappointing hour of truth. The synthesis therefore concerns sensitive understanding being clarified, not an assurance that receptive feeling is already free of confusion.
 
 ## Links
 

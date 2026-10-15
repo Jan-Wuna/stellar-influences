@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Sun Venus Jupiter](../triads/sun-venus-jupiter.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Joyous love of a man. Love’s happiness on the day.
 
 #### ABC Entry
 
-Successful art, Financial wishes of the man, Happiness through the love of the man, corperlichc's love happiness, artistic success of the man, love joy of the man, personal happiness through harmony, and right success of the man
+- Source reference: printed p. 272; one-based PDF p. 135, Venus/Jupiter, Sun row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: A successful art center, a man's financial wishes, happiness through a man's love, bodily happiness in love, a man's artistic success, a man's joy in love, personal happiness through harmony, and a man's legal success.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Understanding the importance of social activities with new manners and politenes
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal happiness in love and goodwill ([Witte](#witte-entry); [Ebertin](#ebertin-entry)).
+- psychology: Self-esteem through loving others or through beauty, money, and possessions ([Sandbach](#sandbach-entry)).
+- body/health: Ebertin includes "a healthy body" as a historical assertion; the page does not establish a health assessment.
+- social/relationship: Kindness, affectionate happiness, and social manners ([Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry)).
+- events/manifestations: A bridegroom is Ebertin's example; social activity and taking chances appear in Munkasey.
+- conflicts/notes: Male examples, bodily happiness in love and Ebertin's health wording remain attributed; ABC's Kunst-Zentrum is an art center.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different bases for happiness and self-esteem. ABC adds an art center and bodily happiness in love; its gendered examples and Ebertin's health wording do not establish universal gender traits or an individual health assessment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Sun`: radiant kindness, generous self-expression, and the ability to lead through encouragement, beauty, and good will. Main caution: self-esteem through abundance: identity can become too invested in approval, display, or the need to feel exceptionally fortunate and adored.
+Sun specifies Venus/Jupiter through a person's experience of loving happiness, warmth, and goodwill. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) use historically male examples, including a bridegroom; these illustrate their wording rather than a universal gender rule. [Sandbach](#sandbach-entry) makes self-esteem the hinge: it may rest on enthusiastic love and generosity, or on superficial beauty, wealth, and possessions. [Munkasey](#munkasey-entry) adds the importance of social manners, opinion, and pleasurable chances.
+
+The [ABC entry](#abc-entry) retains a successful art center, bodily happiness in love and the historical man's financial, artistic and legal examples.
 
 ## Links
 

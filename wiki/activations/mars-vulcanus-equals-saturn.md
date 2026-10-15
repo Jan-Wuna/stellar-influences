@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Saturn Vulcanus](../triads/mars-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Periodic hindrances. Passing interruption of a mighty activity. Passing interruption of a captivity.
 
@@ -42,13 +46,27 @@ Periodic hindrances. Passing interruption of a mighty activity. Passing interrup
 
 #### ABC Entry
 
-Influence loss in activity, violent interruption of work, hard force work, concentration on violence activity, problematic power actions, difficult labor force, will strongness through patience, and loss rich power actions
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Loss of influence in activity, violent interruption of work, hard strength-demanding work, concentration on violent activity, problematic exercises of power, difficult working strength, strength of will through patience, and exercises of power involving losses.
+
+## Comparative Schema
+
+- core meaning: Hindrance or interruption of powerful activity, with difficult work or loss of influence.
+- psychology: Strength of will through patience in ABC's entry.
+- body/health: Hard strength-demanding work is named, without a medical diagnosis.
+- social/relationship: Problematic or loss-bearing uses of power; Witte also names an interruption of captivity.
+- events/manifestations: Periodic hindrances, temporary interruption, and difficult work.
+- conflicts/notes: An interruption of captivity is not identical to being confined; Witte's temporary scope and ABC's patience remain visible.
+
+## Contradictions
+
+Witte emphasizes periodic or passing interruptions. ABC adds losses and difficult power actions, but also strength gained through patience.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Saturn` interrupts great force with periodic hindrance, restraint, or confinement.
-- Chart expression: temporary stoppages in mighty activity, recurring obstructions, and interruptions tied to captivity, restriction, or the hard limits imposed on power.
+In `Mars/Vulcanus = Saturn`, Saturn specifies powerful effort through hindrance, interruption, or difficult conditions of work. Witte describes periodic obstacles and passing interruptions of both mighty activity and captivity. ABC adds loss of influence, problematic uses of power, and hard work, while also describing strength of will through patience. The temporary and persevering expressions keep this broader than a fixed state of confinement or defeat. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

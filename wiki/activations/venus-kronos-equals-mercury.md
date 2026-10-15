@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Mercury Venus Kronos](../triads/mercury-venus-kronos.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,30 @@ Charitable thoughts. To come to charitable acquaintances through thinking.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Kronos`
+- Source reference: printed page `288`; PDF page `143` (one-based).
+
 #### ABC Entry
 
-Respected media arts, special beauty of youth, dominant love thoughts, state peace language, young female boss, self consciousness of youth through love, priority of female youth, and important artificial news
+Respected media art, special beauty of youth, dominant thoughts of love, the state's peace talks, a young female boss, young people's self-confidence through love, priority of female youth, and important art news.
+
+## Comparative Schema
+
+- core meaning: Charitable thinking and benevolent acquaintances ([Witte](#witte-entry)).
+- psychology: Thoughts of love and appreciation of youthful beauty ([ABC](#abc-entry)).
+- body/health: Neither entry supplies a health assertion.
+- social/relationship: Benevolent acquaintances; ABC adds a young female boss as a source-specific example.
+- events/manifestations: Thinking leads to acquaintances; media arts are named ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: ABC's gender-and-youth examples remain attributed rather than universal.
+
+## Contradictions
+
+No direct contradiction is evident. Charitable thought, art news, and state peace talks describe different mental or communicative settings; ABC's female and youth examples remain attributed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Mercury`: charitable thoughts.
-- Practical expression: respected media arts, special beauty of youth, dominant love thoughts, state peace language, and young female boss.
+Mercury specifies Venus/Kronos through charitable thought and communication involving harmony or recognized standing. [Witte](#witte-entry) links thinking with meeting benevolent people. [ABC](#abc-entry) adds media art, art news, peace talks, and thoughts of love, with self-confidence through love and historically gendered examples concerning youth and a female boss. The emphasis is on thought, information, and contact within those specific settings.
 
 ## Links
 

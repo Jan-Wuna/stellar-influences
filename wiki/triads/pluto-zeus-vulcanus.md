@@ -28,27 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Zeus Vulcanus`
 - Astronomicon triad-set: `Z £ §`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Pluto/Vulcanus = Zeus](../activations/pluto-vulcanus-equals-zeus.md)
-- [Pluto/Zeus = Vulcanus](../activations/pluto-zeus-equals-vulcanus.md)
-- [Zeus/Vulcanus = Pluto](../activations/zeus-vulcanus-equals-pluto.md)
+- [Pluto/Vulcanus = Zeus](../activations/pluto-vulcanus-equals-zeus.md) — base axis [Pluto/Vulcanus](../axes/pluto-vulcanus.md); activator [Zeus](../factors/zeus.md).
+- [Pluto/Zeus = Vulcanus](../activations/pluto-zeus-equals-vulcanus.md) — base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Zeus/Vulcanus = Pluto](../activations/zeus-vulcanus-equals-pluto.md) — base axis [Zeus/Vulcanus](../axes/zeus-vulcanus.md); activator [Pluto](../factors/pluto.md).
 
 ## Source Coverage
 
-- `Pluto/Vulcanus = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
-- `Pluto/Vulcanus = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `421`
-- `Pluto/Zeus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `413`
-- `Zeus/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `295`
-- `Zeus/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `457`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Pluto/Vulcanus = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-vulcanus-equals-zeus.md#witte-entry), one-based PDF p. `263` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-vulcanus-equals-zeus.md#abc-entry), printed p. `421` (PDF p. `209`).
+- `Pluto/Zeus = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-vulcanus.md#witte-entry), one-based PDF p. `259` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-vulcanus.md#abc-entry), printed p. `413` (PDF p. `205`).
+- `Zeus/Vulcanus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-vulcanus-equals-pluto.md#witte-entry), one-based PDF p. `295` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-vulcanus-equals-pluto.md#abc-entry), printed p. `457` (PDF p. `227`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Zeus`: This activation emphasizes situation improves due to great increase of accomplishments.
-- `Pluto/Zeus = Vulcanus`: This activation emphasizes to make mighty efforts; Great change in duties which have to be performed; Increase of duties.
-- `Zeus/Vulcanus = Pluto`: The rise of great works (projects). The development of natural laws. Great transformations accomplished through natural powers.
+Use this hub to select an orientation of the unordered set `Pluto Zeus Vulcanus`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

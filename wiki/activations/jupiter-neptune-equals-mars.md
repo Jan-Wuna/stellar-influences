@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
 - Triad hub: [Mars Jupiter Neptune](../triads/mars-jupiter-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: printed p. 213; one-based PDF p. 209, Jupiter + Neptune, Mars row.
 
 Betrothal slowly cooling off. Beautiful outer appearance, but disappointing on the inside. Activities with negative results, ending with losses. Actions based on speculation.
 
@@ -45,7 +49,9 @@ Betrothal slowly cooling off. Beautiful outer appearance, but disappointing on t
 
 #### ABC Entry
 
-Work pleasure in water, work with foreign money, dissolve a successful work, successful work in the air, successful concentration on metaphysics, joy in rhythmic credence, troublesome work with money, and water law work
+- Source reference: printed p. 328; one-based PDF p. 163, Jupiter + Neptune, Mars row.
+
+Joy in work in water, work with others' money, dissolution of successful work, successful work in the air, successful concentration on metaphysics, joy in rhythmic activity, restless work with money, and working on water law.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -57,7 +63,9 @@ Unreliable, prone to irresponsibility, tendency to rely on others (with the cons
 
 #### Sandbach Entry
 
-To do things based on one’s imaginings rather than on practical reality. One as serts oneself based on an enthusiasm for ideals.
+- Source reference: one-based PDF p. 82, Planets activating the Jupiter/Neptune midpoint, Mars paragraph.
+
+To do things based on one’s imaginings rather than on practical reality. One asserts oneself based on an enthusiasm for ideals.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +78,23 @@ Defiant or hostile reactions to explanations about delays, confusion, or laxity 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Action follows imagined possibilities or speculative plans whose prospects may be weak.
+- psychology: Enthusiasm for ideals may coexist with resistance to explanations of delay or confusion.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Witte lists a cooling engagement; Ebertin describes reliance on others followed by disappointment.
+- events/manifestations: Speculative activity, unsuccessful efforts and the defense of one's explanation of reality.
+- conflicts/notes: ABC gives joy in rhythmic activity and restless work with money; its water, air and metaphysical work settings remain distinct literal source examples.
 
 ## Contradictions
 
-- None recorded yet.
+The sources emphasize different consequences of ideal-driven action rather than establishing a single inevitable failure. ABC's complete eight-clause Mars row gives both successful work and dissolution of successful work, with joy in rhythmic activity and restless work with money. Its air and water settings are unspecified.
+
+Visually verified source rows: ABC printed p. 328, one-based PDF p. 163, Mars row; Witte printed p. 213, one-based PDF p. 209, Mars row; Sandbach one-based PDF p. 82, Mars paragraph under Jupiter/Neptune. Existing parser locators retained: Ebertin printed p. 232, entry 0811; Munkasey printed p. 264; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Mars`: energetic pursuit of ideals, speculative action, and enthusiasm for visionary or romantic goals. Main caution: unreliable effort: acting on fantasy, refusing realistic limits, or pressing ahead with weak prospects can end in loss, disappointment, or wasted force.
+In `Jupiter/Neptune = Mars`, Mars turns hope or imagination into action even when practical prospects are weak. The [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [Sandbach entries](#sandbach-entry) describe speculation, disappointing results or assertion driven by ideals. [Munkasey](#munkasey-entry), printed p. 264, adds a defensive response to delays and confusion, but also courage in defending one's account of reality. The supported tension is between committed action and the strength of its real-world basis; Witte's cooling engagement gives it a relational expression.
 
 ## Links
 

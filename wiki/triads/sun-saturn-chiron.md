@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Sun Saturn Chiron`
 - Astronomicon triad-set: `S W Chiron`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Chiron = Sun](../activations/saturn-chiron-equals-sun.md)
-- [Sun/Chiron = Saturn](../activations/sun-chiron-equals-saturn.md)
-- [Sun/Saturn = Chiron](../activations/sun-saturn-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Chiron = Sun](../activations/saturn-chiron-equals-sun.md) | [Saturn/Chiron](../axes/saturn-chiron.md) | [Sun](../factors/sun.md) |
+| [Sun/Chiron = Saturn](../activations/sun-chiron-equals-saturn.md) | [Sun/Chiron](../axes/sun-chiron.md) | [Saturn](../factors/saturn.md) |
+| [Sun/Saturn = Chiron](../activations/sun-saturn-equals-chiron.md) | [Sun/Saturn](../axes/sun-saturn.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Saturn/Chiron = Sun`: John, page `87`
-- `Sun/Chiron = Saturn`: John, page `15`
-- `Sun/Saturn = Chiron`: John, page `14`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Saturn/Chiron = Sun`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-chiron-equals-sun.md#sandbach-entry), one-based PDF chapter-start p. `87`.
+- `Sun/Chiron = Saturn`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-chiron-equals-saturn.md#sandbach-entry), one-based PDF chapter-start p. `15`.
+- `Sun/Saturn = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-saturn-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `14`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Chiron = Sun` brings conscious awareness to the spiritual reasons for limitation and the lessons carried by hardship. It can give sober purpose and mature healing presence; the caution is rationalizing every limit as meaningful before the human cost has been acknowledged.
-- `Sun/Chiron = Saturn`: disciplining the ego around what truly matters and stripping away lesser priorities to serve real purpose.
-- `Sun/Saturn = Chiron`: stripping life down to what truly matters and learning purpose through discipline, limits, or hardship.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

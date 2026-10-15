@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Sun`
 - Astronomicon formula: `W/Asc = S`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -39,11 +41,15 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: 87.
+
 To shake hands. Physical farewells. Alienations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source page: 114 (printed); PDF page: 56.
 
 Old local center, serious personal partner, patience with other people, disturbed local center, personal inhibitions at a place, personal separation from a place, problematic people in the environment, and environmental tasks of the person
 
@@ -51,11 +57,15 @@ Old local center, serious personal partner, patience with other people, disturbe
 
 #### Ebertin Entry
 
+- Source page: 260 (printed); PDF page: 262; entry code: 0915.
+
 A keen awareness of the lack in freedom of movement, a strong desire to go one's own way in life. Difficult circumstances of living, suffering from conditions of the environment, the process of getting ill, the act of separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 94 (exact entry text checked; chapter begins on PDF page 94).
 
 One prides oneself on being a serious, dependable person. One works toward one’s goals by playing a serious, dependable role in life. One is vitalized by having deep, spiritual relationships.
 
@@ -70,22 +80,23 @@ Increased need for approval; developing your personality so that you appear frie
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal identity and dependable conduct are tested by the environment and restricted freedom.
+- Psychology: Desire for independence, approval, reserved friendliness, or control over others.
+- Body/health: Ebertin's process of getting ill is a historical association without a specified diagnosis.
+- Social/relationship: Deep spiritual relationships and physical farewells or alienation.
+- Events/manifestations: Separation, practical business activity, and difficult living conditions.
+- Conflicts/notes: Dependability and a need to dominate are distinct source possibilities; the illness claim remains historical.
 
 ## Contradictions
 
-- None recorded yet.
+Dependability and a need to dominate are distinct source possibilities; the illness claim remains historical.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Asc = Sun`: mature bearing, disciplined self-definition, and the strength to carry pressure without outward theatrics. Main caution: rigid self-protection: pride in endurance can make spontaneity difficult and reinforce loneliness or overcontrol.
+In `Saturn/Asc = Sun`, Sun specifies the pair through the way a person inhabits a serious or restricted environment. [Sandbach](#sandbach-entry) describes dependable conduct and vitality through deep relationships, while [Ebertin](#ebertin-entry) stresses restricted freedom, difficult living conditions, and the wish to go one's own way. The [Witte](#witte-entry) and [ABC entries](#abc-entry) retain physical parting, patience, and local tasks.
+
+[Munkasey](#munkasey-entry) adds reserved friendliness, need for approval, effective business practices, and a desire to dominate. Those different responses remain explicit; neither an ideal of dependable conduct nor the historical illness example defines every expression.
 
 ## Links
 

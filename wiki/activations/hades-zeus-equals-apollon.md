@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Apollon`
 - Astronomicon formula: `¢/£ = ¥`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 282; PDF p. 278.
+
 Spreading of a hateful and ugly way of thinking. Common hate of many. Expansion of an industry. Increase of coal production.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Experienced Filing Service, Filing Service in Trade, FD Experiences of the Past, Dangerous Fire Extension, Hidden Filing of Science, Hidden Knowledge of Filing, Knowledge lack of FD, and Increasing Fire Criminality
+- Source reference: printed p. 439; PDF p. 218.
+
+Experienced leadership service, leadership service in trade, leadership experience from the past, dangerous spread of fire, hidden leadership of science, hidden knowledge of leadership, lack of knowledge in leadership, and increasing fire-related crime.
+
+## Comparative Schema
+
+- Core meaning: Expansion in the industrial, commercial, scientific, or collective field, including the spread of hostility or fire.
+- Psychology: Hateful thinking can spread or become shared by many in Witte's account.
+- Body/health: Neither entry specifies a bodily condition.
+- Social/relationship: Collective hatred and experienced, hidden, or insufficiently informed leadership.
+- Events/manifestations: Industrial expansion, increased coal production, leadership in trade and science, spreading fire, and increasing fire-related crime.
+- Conflicts/notes: Industrial growth and experienced leadership are distinct from harmful spread; the entries do not make growth itself corrupt.
+
+## Contradictions
+
+The entries range from experience and industrial expansion to collective hatred, dangerous fire, and deficient knowledge. These are different expressions, not an explanation that one necessarily causes another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Apollon`: destructive or degraded will moving through larger systems. It can show hatred becoming collective and the industrial field growing alongside the very forces that can corrupt it.
+In `Hades/Zeus = Apollon`, Apollon specifies the Hades/Zeus axis through expansion and activity involving many. The [Witte Entry](#witte-entry) joins the spread of hateful thinking to industrial expansion and increasing coal production. The [ABC Entry](#abc-entry) extends the practical field to leadership in trade and science, distinguishing accumulated experience and hidden knowledge from a lack of knowledge. Harmful expansion also remains explicit in spreading fire and increasing fire-related crime; those possibilities do not turn every industrial or commercial undertaking into a corrupt one.
 
 ## Links
 

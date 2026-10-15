@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md)
 - Triad hub: [Vernal Point Pluto Poseidon](../triads/vernal-point-pluto-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 55 (one-based).
 
 The general mental or spiritual development and transformation in the world.
 
@@ -42,13 +46,27 @@ The general mental or spiritual development and transformation in the world.
 
 #### ABC Entry
 
-mental evolution in the public life, ideas change in the public, cultural development in the public life, and growing clarity in the public
+- Source page: 59; PDF page: 28 (one-based spread).
+
+Development of public truth, unfolding of public insight, intellectual evolution in public life, changes in public ideas, cultural development in public life, and growing public clarity
+
+## Comparative Schema
+
+- core meaning: Public thought and culture developing and transforming.
+- psychology: Unfolding insight and growing clarity are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Intellectual or spiritual transformation in the world.
+- events/manifestations: Development of truth, changed ideas, and cultural growth.
+- conflicts/notes: The first two clauses are restored from material previously attached to Neptune.
+
+## Contradictions
+
+No direct contradiction is established. Changed ideas and growing clarity are related possibilities; the entry does not prove every intellectual change true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Poseidon = Pluto`: the general mental or spiritual development and transformation in the world.
-- Practical expression: mental evolution in the public life, ideas change in the public, cultural development in the public life, and growing clarity in the public.
+In `Vernal Point/Poseidon = Pluto`, public intellectual and cultural life develops through changing ideas and unfolding insight. The [Witte entry](#witte-entry) names general mental or spiritual transformation in the world. The restored [ABC entry](#abc-entry) adds development of truth, cultural growth, and increasing clarity. The shared theme is an evolving public understanding, with the source's truth language retained as its own claim.
 
 ## Links
 

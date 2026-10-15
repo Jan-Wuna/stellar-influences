@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars MC Admetos`
 - Astronomicon triad-set: `U MC ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Admetos = Mars](../activations/mc-admetos-equals-mars.md)
-- [Mars/Admetos = MC](../activations/mars-admetos-equals-mc.md)
-- [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md)
+- [MC/Admetos = Mars](../activations/mc-admetos-equals-mars.md): base axis [MC/Admetos](../axes/mc-admetos.md); activator [Mars](../factors/mars.md).
+- [Mars/Admetos = MC](../activations/mars-admetos-equals-mc.md): base axis [Mars/Admetos](../axes/mars-admetos.md); activator [MC](../factors/mc.md).
+- [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md): base axis [Mars/MC](../axes/mars-mc.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `MC/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `75`
-- `MC/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `94`
-- `Mars/Admetos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
-- `Mars/Admetos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `318`
-- `Mars/MC = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `73`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Admetos = Mars](../activations/mc-admetos-equals-mars.md#witte-entry) (PDF entry-start p. 75); [Mars/Admetos = MC](../activations/mars-admetos-equals-mc.md#witte-entry) (PDF entry-start p. 202); [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md#witte-entry) (PDF entry-start p. 64).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Admetos = Mars](../activations/mc-admetos-equals-mars.md#abc-entry) (printed p. 94); [Mars/Admetos = MC](../activations/mars-admetos-equals-mc.md#abc-entry) (printed p. 318); [Mars/MC = Admetos](../activations/mars-mc-equals-admetos.md#abc-entry) (printed p. 73).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Mars`: forces the axis through persistence in action or the paralysis of action itself.
-- `Mars/Admetos = MC`: pettiness, self-confinement, activity in a small circle, and lived experience of suppression or limited freedom of movement.
-- `Mars/MC = Admetos`: compresses public and vocational action into limitation, resistance, and enforced inactivity.
+Mars, MC and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Admetos](../axes/mc-admetos.md)
+- [Mars/Admetos](../axes/mars-admetos.md)
+- [Mars/MC](../axes/mars-mc.md)
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Admetos](../factors/admetos.md)

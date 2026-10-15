@@ -27,28 +27,29 @@ updated_at: 2026-05-04
 
 - Triad-set: `Sun Jupiter Admetos`
 - Astronomicon triad-set: `S V ¦`
+- This is a structural hub for an unordered factor set; the orientations remain distinct. [Read the orientation guide](#derived-synthesis).
 
 ## Orientation Map
 
-- [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md)
-- [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md)
-- [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md)
+- [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md) — base axis: [Jupiter/Admetos](../axes/jupiter-admetos.md); activated factor: [Sun](../factors/sun.md).
+- [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md) — base axis: [Sun/Admetos](../axes/sun-admetos.md); activated factor: [Jupiter](../factors/jupiter.md).
+- [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md) — base axis: [Sun/Jupiter](../axes/sun-jupiter.md); activated factor: [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Jupiter/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `216`
-- `Jupiter/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `342`
-- `Sun/Admetos = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Jupiter = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `106`
-- `Sun/Jupiter = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `149`
+All three orientations are represented by the linked activation pages. This lists their current source entries, not a complete survey of the literature. Locators labelled as parser aids are unverified finding aids; source images were not checked in this structural review.
+
+- **Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures**: [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md#source-entries) — one-based PDF entry-start p. `216` (parser aid); [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md#source-entries) — one-based PDF entry-start p. `116` (parser aid); [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md#source-entries) — one-based PDF entry-start p. `106` (parser aid).
+- **Udo Rudolph - ABC for Planetary Pictures**: [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md#source-entries) — printed p. `342` (parser aid); [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md#source-entries) — printed p. `168` (parser aid); [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md#source-entries) — printed p. `149` (parser aid).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos = Sun`: tranquil, proportioned days, often supported by pension, annuity, private income, or old-age security.
-- `Sun/Admetos = Jupiter`: This formula emphasizes to be lucky or fortunate in the country.
-- `Sun/Jupiter = Admetos`: This formula emphasizes good fortune in the house or with property and inheritance.
+Read the orientation that matches the formula being queried: [Jupiter/Admetos = Sun](../activations/jupiter-admetos-equals-sun.md#derived-synthesis); [Sun/Admetos = Jupiter](../activations/sun-admetos-equals-jupiter.md#derived-synthesis); [Sun/Jupiter = Admetos](../activations/sun-jupiter-equals-admetos.md#derived-synthesis). The factor set connects these siblings for navigation only. Their interpretations, source qualifications, and any source disagreements belong to the separate activation pages.
+
+## Contradictions Across Orientations
+
+Different orientations make distinct claims; differences in their wording do not by themselves establish a contradiction. This hub checks orientation and source representation only. Consult the linked activation entries for any comparison of doctrine or disputed source passage.
 
 ## Links
 

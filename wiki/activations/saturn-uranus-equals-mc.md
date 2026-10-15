@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus MC](../triads/saturn-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ To suffer from quarrels. Dealing with quarrelsome people. To be suddenly separat
 
 #### ABC Entry
 
-Ernstc scelischc Unruhc, my gcstorter Rhythm us, my sudden separation, my sudden...:n Losses, technical tasks, painful mental event, mental disturbances by Tcchnik, and sclischc arousal over losses
+Serious inner unrest, my disturbed rhythm, my sudden separation, my sudden losses, my technical tasks, a painful inner event, inner disturbances through technology, and emotional agitation over losses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Accepting change, remove old habits, and yet benefiting from this as a person; a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal aims and self-direction face strain and sudden change.
+- psychology: High demands on oneself, rebellion and gradual acceptance of one's own authority.
+- body/health: Inner unrest and emotional disturbance are attributed by ABC; no specific physical diagnosis.
+- social/relationship: Quarrels and separation from others.
+- events/manifestations: Practical original work, altered goals and release of obsolete habits.
+- conflicts/notes: The entries concern self-direction; institutional leadership is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Quarrels and self-separation coexist with constructive maturation and changed aims; the accounts describe different responses to pressure.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = MC`: disciplined modernization, reformist leadership, and the ability to change rigid institutions from within or under pressure. Main caution: unstable direction: outer responsibilities can fracture when change and duty stop cooperating.
+MC specifies Saturn/Uranus in one's own direction and demands on oneself. Quarrels or sudden separation can accompany the effort to become one's own authority, while change may require releasing habits and revising goals. [Ebertin](#ebertin-entry) (printed p. 248) supplies the intense self-demand, [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) the gradual maturation of practical originality, and [Munkasey](#munkasey-entry) (printed p. 284) the adjustment of personal aims. These entries do not by themselves establish institutional leadership.
 
 ## Links
 

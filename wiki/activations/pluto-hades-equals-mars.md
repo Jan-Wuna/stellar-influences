@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Hades](../axes/pluto-hades.md)
 - Triad hub: [Mars Pluto Hades](../triads/mars-pluto-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 258 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Corrupt and degenerate and devilish plans and manipulations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 410; PDF page 204.
+
 #### ABC Entry
 
 Dangerous developmental impulses, poor developmental work, adverse change in work, adverse changes in work, abandoning developmental activity, developing power in old age, and growing criminal activity
 
+## Comparative Schema
+
+- core meaning: Dangerous, poor, or corrupt activity during development.
+- psychology: Witte describes harmful plans and manipulation in moralizing language.
+- body/health: No bodily or medical condition is supplied.
+- social/relationship: Growing criminal activity is one ABC example.
+- events/manifestations: Adverse work changes or abandonment of developmental activity.
+- conflicts/notes: ABC also includes developing activity in old age.
+
+## Contradictions
+
+Witte's corrupt plans and ABC's unsatisfactory work are different degrees and kinds of difficulty; unsuccessful work does not itself imply criminal intent.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Hades = Mars`: bad aspects of work or activity; Work which gets nowhere; Fruitless activity; Work under bad conditions.
-- Practical expression: dangerous developmental impulses, poor developmental work, adverse change in work, adverse changes in work, and abandoning developmental activity.
+Mars specifies Pluto/Hades through the conduct and quality of activity. The [Witte entry](#witte-entry) describes corrupt plans and manipulation, while [ABC](#abc-entry) ranges from poor developmental work and adverse job changes to growing criminal activity. These distinguish ineffective or abandoned effort from deliberately harmful action; ABC's activity in old age is a further example rather than a necessary sign of corruption.
 
 ## Links
 

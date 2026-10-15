@@ -11,7 +11,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -19,6 +19,8 @@ updated_at: 2026-05-04
 - Factor: Apollon
 - Astronomicon token: `¥`
 - Canonical page type: comparative factor page grounded in standalone source entries.
+
+[Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -32,14 +34,25 @@ Commerce. Trade. Economy. Religion. Philosophy. Glory. Greatest success. Greates
 
 #### ABC Keyword Entry
 
-Expansion, fullness, much, dissemination, veneration, increasing, masses, extensive, unlimited, vastness, freedom, and trade
+- Source: printed p. `17` / PDF p. `7`, `Apollon, AP`.
+- German quotation: “Ausdehnung, Fülle, viel, Erweiterung, Verbreitung, Vermehrung, zunehmend, Massen, umfangreich, unbegrenzt, Weite, Freiheit, Handel, Gewerbe, Wirtschaft, Wissenschaft, Erfolg, Erfahrung”.
+- Editorial translation: Expansion, fullness, much, enlargement, dissemination, multiplication, increasing, masses, extensive, unlimited, vastness, freedom, trade, commerce, economy, science, success, and experience.
+
+## Comparative Schema
+
+- core meaning: Expansion, fullness, increase, dissemination, and extensive reach form the shared center of the entries. ([Rules factor entry](#witte-factor-entry); [ABC entry](#abc-keyword-entry))
+- psychology: Freedom, experience, and philosophy are named, but the entries do not develop a fixed personality profile. ([ABC entry](#abc-keyword-entry); [Rules factor entry](#witte-factor-entry))
+- body/health: Neither standalone entry supplies a bodily or medical meaning.
+- social/relationship: Trade, dissemination, masses, and peace extend the factor into exchange and collective reach; no specific intimate-relationship pattern is supplied. ([Rules factor entry](#witte-factor-entry); [ABC entry](#abc-keyword-entry))
+- events/manifestations: Commerce, economy, science, experience, religion, philosophy, arts, glory, and greatest success are named fields or expressions of breadth. ([Rules factor entry](#witte-factor-entry))
+- conflicts/notes: No generic adverse expression is stated in these entries. The ABC scan reads `Vermehrung` (multiplication), correcting the former translation `veneration`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon` is the factor of expansion, fullness, multiplication, commerce, science, experience, and wide distribution across a broad field.
-- Chart expression: growth, trade, prosperity, dissemination, mass reach, intellectual or spiritual breadth, and the freedom to connect things across distance, scale, or category.
-- Its liabilities are overextension, inflation, scattered enlargement without depth, sterile grandiosity, and success or breadth outrunning proportion, grounding, or practical containment.
+Apollon gathers expansion, fullness, increase, and dissemination into a theme of wide reach. Its breadth operates through commerce, trade, and economy, and through science and experience; masses, vastness, and freedom extend the emphasis from amount to scope. ([Rules factor entry, PDF p. 29](#witte-factor-entry); [ABC entry, printed p. 17 / PDF p. 7](#abc-keyword-entry))
+
+The range also includes religion, philosophy, the arts, peace, glory, and greatest success. These retain the factor's cultural and reflective dimensions alongside material exchange. The standalone entries supply no general account of overextension or other liabilities, so breadth alone does not establish an adverse expression. ([Rules factor entry](#witte-factor-entry))
 
 ## Related Axes
 

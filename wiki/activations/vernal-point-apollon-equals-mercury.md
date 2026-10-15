@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Mercury Apollon](../triads/vernal-point-mercury-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 To talk much. To study different languages. To be a linguist. To write scientific treatises.
 
@@ -42,13 +46,27 @@ To talk much. To study different languages. To be a linguist. To write scientifi
 
 #### ABC Entry
 
+- Source page: 52; PDF page: 25 (one-based spread).
+
 Successful speech in public, freedom of youth in public life, public opinion freedom, public media experience, public traffic expansion, and scientific opinions in public
+
+## Comparative Schema
+
+- core meaning: Broad communication, linguistic study, and public dissemination of knowledge.
+- psychology: Talkativeness and interest in different languages.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public discussion and freedom of opinion; no detailed intimate pattern is supplied.
+- events/manifestations: Scientific treatises, media experience, and expanded public traffic.
+- conflicts/notes: Quantity of speech does not establish the accuracy of what is said.
+
+## Contradictions
+
+The entries share breadth of expression and knowledge without an explicit disagreement. Freedom of opinion does not validate every opinion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Mercury`: to talk much, to study different languages, to be a linguist, and to write scientific treatises.
-- Practical expression: successful speech in public, freedom of youth in public life, public opinion freedom, public media experience, and public traffic expansion.
+In `Vernal Point/Apollon = Mercury`, Mercury specifies the pair through extensive speech, study, and public communication. The [Witte entry](#witte-entry) names languages, linguistics, and scientific writing. The [ABC entry](#abc-entry) adds public discussion, media, scientific opinion, and freedom of expression. These connect a wide field of knowledge with its exchange, while neither the volume of speech nor its public reach establishes correctness.
 
 ## Links
 

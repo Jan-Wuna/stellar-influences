@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,6 +28,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `Chiron/Asc = S`
 - Axis page: [Chiron/Asc](../axes/chiron-asc.md)
 - Triad hub: [Sun Chiron Asc](../triads/sun-chiron-asc.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -37,10 +38,21 @@ updated_at: 2026-04-21
 
 The realization of the importance of the need for healing one’s identity. Also, letting go of agendas so that the healing potential of the moment can be realized. The ego is healed by strengthening one’s identity with spiritual forces.
 
+Source reference: one-based PDF page 102, Sun paragraph under “Planets activating the Chiron/Ascendant midpoint.” PDF page 101 is the chapter start. Identity and ego healing are the source's spiritual account, without a bodily treatment or clinical outcome.
+
+## Comparative Schema
+
+- **Core meaning:** Recognizing a need for identity healing, releasing agendas and strengthening identification with spiritual forces.
+- **Psychology:** Awareness of the self's need for change and receptivity to the moment's healing potential.
+- **Body/health:** The healing described concerns identity or ego, with no bodily condition or clinical procedure stated.
+- **Social/relationship:** No specific partner or interpersonal role is supplied.
+- **Events/manifestations:** Recognition and letting go of agendas are the described activities; no external event or timing method is given.
+- **Conflicts/notes:** Releasing agendas and strengthening spiritual identification coexist in the account. The paragraph does not specify a self-protective motive, misuse of will or guaranteed practical result.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Asc = Sun`: ego healing, stronger identity through spiritual alignment, and a clearer awareness of what self-healing requires. Main caution: using will or agenda to protect the very identity that needs to open.
+`Chiron/Asc = Sun` describes recognizing identity's need for healing and becoming receptive to the present moment. The [Sandbach entry](#sandbach-entry) connects releasing agendas with realizing that moment's healing potential, while locating ego healing in stronger identification with spiritual forces. The interpretation keeps both receptivity and spiritual identification within the source's account, without adding a defensive motive or treating the passage as a clinical process.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Zeus`
 - Astronomicon formula: `W/¨ = £`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 To submit, for educational reasons, to a necessity or force. To exert pressure for educational reasons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Effortful problems with the truth, beginning spiritual maturity, serious spiritual cicle, leadership through patience and courage, spiritual task design, concentration on spiritual fire, shaping cultural tasks, and stifling spiritual goals
+- Source page: `369`; PDF page: `183`.
+
+Demanding problems with truth, beginning spiritual maturity, serious spiritual goals, leadership through patience and reason, shaping spiritual tasks, concentration on spiritual fire, shaping cultural tasks, and disturbance of spiritual goals.
+
+## Comparative Schema
+
+- core meaning: Directed effort, leadership and pressure around educational or spiritual aims.
+- psychology: Serious goals, patience, reason and difficult engagement with truth.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Submitting to or exerting pressure for educational reasons is Witte's explicit example.
+- events/manifestations: Shaping cultural or spiritual tasks and disturbance of the intended goals.
+- conflicts/notes: Source descriptions of educational force do not establish that it is justified; goals may be disrupted.
+
+## Contradictions
+
+Witte emphasizes pressure in education; ABC includes leadership through patience and reason as well as disturbed goals. These are different modes and conditions of directed effort, without an explicit disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Zeus`: to submit, for educational reasons, to a necessity or force, to exert pressure for educational reasons.
-- Practical expression: effortful problems with the truth, beginning spiritual maturity, serious spiritual cicle, leadership through patience, and courage.
+In `Saturn/Poseidon = Zeus`, Zeus specifies educational and spiritual concerns through directed aims and the effort to shape tasks. Leadership can rely on patience and reason, while serious goals face demanding problems with truth or disruption ([ABC](#abc-entry)). [Witte](#witte-entry) gives the more forceful case of applying or submitting to pressure for educational reasons. The entries connect purpose with how it is carried out, without establishing that force is justified or that the intended goal will be reached.
 
 ## Links
 

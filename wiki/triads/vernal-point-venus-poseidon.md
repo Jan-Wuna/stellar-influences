@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Venus Poseidon`
 - Astronomicon triad-set: `VP Q ¨`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Venus/Poseidon = Vernal Point](../activations/venus-poseidon-equals-vernal-point.md)
-- [Vernal Point/Poseidon = Venus](../activations/vernal-point-poseidon-equals-venus.md)
-- [Vernal Point/Venus = Poseidon](../activations/vernal-point-venus-equals-poseidon.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Venus/Poseidon = Vernal Point](../activations/venus-poseidon-equals-vernal-point.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | Vernal Point |
+| [Vernal Point/Poseidon = Venus](../activations/vernal-point-poseidon-equals-venus.md) | [Vernal Point/Poseidon](../axes/vernal-point-poseidon.md) | Venus |
+| [Vernal Point/Venus = Poseidon](../activations/vernal-point-venus-equals-poseidon.md) | [Vernal Point/Venus](../axes/vernal-point-venus.md) | Poseidon |
 
 ## Source Coverage
 
-- `Venus/Poseidon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `296`
-- `Vernal Point/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `55`
-- `Vernal Point/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `58`
-- `Vernal Point/Venus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `41`
-- `Vernal Point/Venus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `31`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Venus/Poseidon = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-vernal-point.md#abc-entry), printed p. `296`.
+- `Vernal Point/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `55`.
+- `Vernal Point/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-poseidon-equals-venus.md#abc-entry), printed p. `58`.
+- `Vernal Point/Venus = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-venus-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `41`.
+- `Vernal Point/Venus = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-venus-equals-poseidon.md#abc-entry), printed p. `31`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Vernal Point`: the general faith.
-- `Vernal Point/Poseidon = Venus`: This formula emphasizes peaceful attitude of the general public through knowledge, spiritual attitude, and referring to philosophy affairs and matters of belief.
-- `Vernal Point/Venus = Poseidon`: This formula emphasizes insights for a peaceful world, calm ocean, and non dangerous water masses.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

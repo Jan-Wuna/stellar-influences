@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Uranus = Zeus`
 - Astronomicon formula: `V/X = £`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, Zeus row.
+
 Good fortune or luck which comes as by the law of nature. To force luck. Sudden inventions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting money production, dynamic movement success, successful procreation impulses, joy through rhythmic design, g!Exceptional suspense at the fire, sudden performanceAchievements, generate legal voltages, and technical success through efforts
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, Zeus row.
+
+Exciting generation of money, dynamic leadership success, successful procreative impulses, joy through rhythmic creation, happy tension at the fire, sudden accomplishments, generating legal tensions, and technical success through effort.
+
+## Comparative Schema
+
+- core meaning: Sudden invention or deliberately forced luck meets dynamic leadership and technical accomplishment.
+- psychology: Joy through rhythmic creation and happy tension are explicit motifs.
+- body/health: ABC's procreative impulses remain an attributed source claim without a specified bodily condition or predicted fertility outcome.
+- social/relationship: Leadership success and generated legal tensions give initiative a collective setting.
+- events/manifestations: Generating money, sudden accomplishments, technical success through effort and sudden inventions.
+- conflicts/notes: Witte says forcing luck without explaining a method; ABC's happy tension at the fire is literal and does not specify a technical setting.
+
+## Contradictions
+
+Witte emphasizes fortune described as a law of nature, forcing luck and invention. ABC supplies leadership, creation, money and technical effort, with legal tension also present. The passages do not state that initiative must become excessive or that all effort yields luck.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Zeus`: breakthrough success through invention, directed action, and the capacity to trigger opportunity through bold initiative. It favors inventive force, but can also tempt one to press luck too hard.
+`Jupiter/Uranus = Zeus` places sudden opportunity in invention and directed effort. Dynamic leadership and rhythmic creation can accompany accomplishments, money generation or technical success, while legal tensions may also be produced. The phrase forcing luck belongs to [Witte's account](#witte-entry); [ABC](#abc-entry) gives concrete creative and technical expressions without supplying a method for guaranteeing the result.
 
 ## Links
 

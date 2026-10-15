@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Mercury Pluto MC](../triads/mercury-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,25 @@ The development of the cogitative faculty. Development of concepts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
 Reports on the development of the soul, the development of the youth through connections, I think of changes, I change language, my development in the youth, news about mental developments, and psychic change in the youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
+
 #### Ebertin Entry
 
 A great mind, attainment of recognition and fame in the sphere of science. A person with great powers of suggestion.
 
+Source note 66 (attached to Mercury in the original): Mercury = Pluto/MC should not only be interpreted as success in an academic subject but as success in a specialized field or profession.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF pages 117–118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +82,21 @@ Added need for educational credentials to help you become better appreciated; ov
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development of thought and concepts, with authoritative communication and pursuit of recognition.
+- psychology: An investigative or obsessive need to get to the bottom of matters; compensatory academic effort.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Suggestion, public speaking, authority conflicts, and educational credentials.
+- events/manifestations: Specialized or scientific recognition and development of concepts.
+- conflicts/notes: Ebertin's note66 broadens success beyond academic subjects to a specialized field or profession.
 
 ## Contradictions
 
-- None recorded yet.
+Recognition and powerful thought coexist with obsession or compensation; neither makes public communication inherently manipulative.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Mercury`: forceful messaging, high-stakes thinking, and the ability to direct public change through speech, planning, and mental leverage. Main caution: propagandistic control: communication can become manipulative, obsessive, or too tied to power strategy.
+Mercury specifies Pluto/MC through developing thought and concepts in the [Witte entry](#witte-entry), with reports and reflection on change in [ABC](#abc-entry). Recognition can follow a specialized intellectual contribution: [Ebertin](#ebertin-entry) explicitly extends its scientific-success wording to a specialized field or profession in note66. [Sandbach](#sandbach-entry) adds authoritative communication and a relentless search for underlying values, while [Munkasey](#munkasey-entry) describes academic credentials or public speaking used to overcome an obscure origin. The range includes inquiry and a need for recognition without requiring a strategy of manipulation.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Asc Apollon`
 - Astronomicon triad-set: `Z Asc ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Apollon = Pluto](../activations/asc-apollon-equals-pluto.md)
-- [Pluto/Apollon = Asc](../activations/pluto-apollon-equals-asc.md)
-- [Pluto/Asc = Apollon](../activations/pluto-asc-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Apollon = Pluto](../activations/asc-apollon-equals-pluto.md) | [Asc/Apollon](../axes/asc-apollon.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Apollon = Asc](../activations/pluto-apollon-equals-asc.md) | [Pluto/Apollon](../axes/pluto-apollon.md) | [Asc](../factors/asc.md) |
+| [Pluto/Asc = Apollon](../activations/pluto-asc-equals-apollon.md) | [Pluto/Asc](../axes/pluto-asc.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Asc/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `131`
-- `Pluto/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `416`
-- `Pluto/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `90`
-- `Pluto/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `121`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Apollon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-apollon-equals-pluto.md#witte-entry), one-based PDF entry-start p. `95`.
+- `Asc/Apollon = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-apollon-equals-pluto.md#abc-entry), printed p. `131`.
+- `Pluto/Apollon = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-apollon-equals-asc.md#witte-entry), one-based PDF entry-start p. `261`.
+- `Pluto/Apollon = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-apollon-equals-asc.md#abc-entry), printed p. `416`.
+- `Pluto/Asc = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-apollon.md#witte-entry), one-based PDF entry-start p. `90`.
+- `Pluto/Asc = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-apollon.md#abc-entry), printed p. `121`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Pluto`: turnover in customers and contacts, with the outward field repeatedly reconstituting itself.
-- `Pluto/Apollon = Asc`: This activation emphasizes others cause a large change in the life of the native; Beginning of a big change at the place.
-- `Pluto/Asc = Apollon`: This activation emphasizes many changes in the location; Elaborate changes in the place; Change of location for many; Many travel.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

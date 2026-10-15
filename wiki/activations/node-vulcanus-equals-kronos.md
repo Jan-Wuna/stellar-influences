@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Node Kronos Vulcanus](../triads/node-kronos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To be subjected to power by the state. Connected with armed forces of state.
 
 #### ABC Entry
 
-Meeting with the power of the state, special influence of a connection, relations with the state violence, influential connection with the chief, state run power, connection with major power, and important energy violence
+Encounter with the power of the state, special influence of a connection, relationships with state power, influential connection with the chief, the state's power of mediation, connection with powerful figures, important transmission of energy.
+
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 155; [ABC Entry](#abc-entry), printed p. 237, PDF p. 117.
+
+- Core meaning: Connection with institutional or state power.
+- Psychology: No distinct inner trait is established.
+- Body/health: No bodily or medical condition is stated.
+- Social/relationship: State authorities, armed forces and powerful leaders.
+- Events/manifestations: Subjection to state power or influential official mediation.
+- Conflicts/notes: State power and state violence are related source terms, not identical in every example.
+
+## Contradictions
+
+Witte stresses subjection and armed forces; ABC adds chiefs and official mediation. The different uses of authority remain distinguishable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Kronos`: To be subjected to power by the state. Connected with armed forces of state.
-- Practical focus: to be subjected to power by the state; also connected with armed forces of state.
+Kronos specifies `Node/Vulcanus` through institutional power, especially the state and those who exercise authority. The [Witte Entry](#witte-entry) includes subjection to state power and connections with armed forces; the corrected [ABC Entry](#abc-entry) also names influential ties with a chief and the state's capacity to mediate. These are relations to organized authority, without establishing whether a particular connection is supportive or coercive.
 
 ## Links
 

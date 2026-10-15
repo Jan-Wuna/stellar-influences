@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Poseidon = Mars`
 - Astronomicon formula: `£/¨ = U`
 - Axis page: [Zeus/Poseidon](../axes/zeus-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: PDF p. 296, Zeus + Poseidon, Mars row; checked against the scan.
+
 Fighting attitude and behavior in moral and worldly matters. To fight for political ideas and opinions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Aspire to knowledge activity, their cultural activity, spiritual filthy work, clear goals of action, clear goals, creative cultural work, truth struggle in creation, and determined mental activity
+Reference: printed p. 458 (PDF p. 228), Zeus + Poseidon, Mars row; checked against the German scan.
+
+Striving for activity that brings insight, leading cultural activity, spiritual leadership work, clear goals for activity, working out clear goals, creative cultural work, striving for truth in creative work, and purposeful spiritual activity.
+
+## Comparative Schema
+
+- Core meaning: Active effort to express, defend, or work out ideas and convictions.
+- Psychology: Purposeful striving and a fighting attitude in moral and political matters.
+- Body/health: No bodily or medical description is given.
+- Social/relationship: Political ideas, moral disputes, cultural work, and spiritual leadership.
+- Events/manifestations: Working out aims, creative cultural activity, and fighting for opinions.
+- Conflicts/notes: Fighting language does not establish a specific violent act.
+
+## Contradictions
+
+The scan resolves "spiritual filthy work" as spiritual leadership work and restores the distinction between clear aims and working them out. Contention and constructive work are different emphases rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Poseidon = Mars`: Fighting attitude and behavior in moral and worldly matters. To fight for political ideas and opinions.
-- Practical expression: aspire to knowledge activity, their cultural activity, spiritual filthy work, clear goals of action, and clear goals.
+In `Zeus/Poseidon = Mars`, Mars specifies Zeus/Poseidon through purposeful work on ideas and efforts to defend or enact convictions. The [Witte entry](#witte-entry) emphasizes contention over moral and political opinions; the [ABC entry](#abc-entry) describes clear aims, cultural work, and truth-seeking in creative activity. Conviction is connected to deliberate action, whether argumentative or constructive.
+
+The entries do not determine whether that effort becomes productive work or conflict in a particular setting.
 
 ## Links
 

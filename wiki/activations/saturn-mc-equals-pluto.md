@@ -33,27 +33,37 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn Pluto MC](../triads/saturn-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 66.
+
 #### Witte Entry
 
-E Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.
+Slow development. To feel downcast because of an interruption of one’s own development. To be sad over a divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Development, my hard change, my concentrated development, my growing responsibilities, my changing responsibilities, and changes to soul relief
+Unfolding of the soul as a task, my developmental tasks, my patience in development, my hard change, my concentrated unfolding, my growing duties, my changing tasks, and transformations toward soul-maturity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0935`, printed p. 264; PDF p. 266.
 
 #### Ebertin Entry
 
 Attainment of success in life only under great difficulties. A fateful struggle, a struggle ordained by destiny.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ A need to be in control over people and situations at all times; great changes i
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: development and achievement pursued through difficult change or obstruction.
+- psychology: patience, relentless ambition, willpower, and the search for ultimate authority.
+- body/health: The entries give no specific bodily claim.
+- social/relationship: divorce, control of others, an authority or father figure, and repression by others.
+- events/manifestations: interrupted development, growing duties, major change, and hard-won success.
+- conflicts/notes: Ebertin's destiny language remains his own framing; success is not guaranteed.
 
 ## Contradictions
 
-- None recorded yet.
+- The sources describe both development and its obstruction, with distinct emphases on ambition and control.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Pluto`: profound persistence, authority in crisis, and the capacity to consolidate influence where others break. Main caution: severity: control, pressure, or fear can make ambition relentless and hard to humanize.
+In `Saturn/MC = Pluto`, Pluto specifies the Saturn/MC axis through demanding development and struggles over direction or control. [ABC](#abc-entry) connects soul-development with patience, hard change, and growing duties. [Witte](#witte-entry) adds slow or interrupted development and sadness over divorce, while [Ebertin](#ebertin-entry) stresses success attained only through great difficulty.
+
+[Sandbach](#sandbach-entry) describes a relentless search for ultimate authority and a strong professional ambition. [Munkasey](#munkasey-entry) adds willpower, major change, efforts to control people or events, and work repressed by others. The common concern is development under pressure, with ambition and control complicating the effort.
 
 ## Links
 

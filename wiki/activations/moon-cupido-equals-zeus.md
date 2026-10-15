@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Cupido](../axes/moon-cupido.md)
 - Triad hub: [Moon Cupido Zeus](../triads/moon-cupido-zeus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Cupido`; one-based PDF page `130` (exact oriented entry checked against actual scan).
 
 Wife in pregnancy. Leisure hours devoted to creative activities.
 
@@ -42,13 +46,27 @@ Wife in pregnancy. Leisure hours devoted to creative activities.
 
 #### ABC Entry
 
+- Source passage: `Mond + Cupido`; printed p. `193`; PDF page `95` (complete oriented row checked against actual scan).
+
 Efforts of a people community, fiery women community, leadership of a women community, artistic achievements of a woman, striving of a people community, hour of a procreation community, and goals of a women community
+
+## Comparative Schema
+
+- core meaning: Community and leisure are directed toward creative effort and shared goals.
+- psychology: Striving and purpose within a group are clear ABC themes.
+- body/health: Witte's pregnant wife and ABC's procreation community are historical examples, not fertility predictions.
+- social/relationship: Leadership and goals of women's communities are ABC examples.
+- events/manifestations: Creative leisure and a woman's artistic achievements are stated manifestations.
+- conflicts/notes: Pregnancy and creative activity are separate examples; neither is required by the other.
+
+## Contradictions
+
+The displayed examples differ in range rather than making mutually exclusive claims. Shared traditional vocabulary does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Zeus`: Wife in pregnancy. Leisure hours devoted to creative activities.
-- Practical expression: efforts of a people community, fiery women community, leadership of a women community, artistic achievements of a woman, and striving of a people community.
+In `Moon/Cupido = Zeus`, Zeus specifies community through creative work, effort and goals. Witte describes leisure used for creative activities, while ABC adds artistic achievements and the leadership or aims of women's communities. Witte's pregnancy example remains one traditional manifestation alongside creative participation, not a universal reproductive claim. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

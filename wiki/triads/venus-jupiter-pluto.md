@@ -30,24 +30,29 @@ updated_at: 2026-05-06
 
 - Triad-set: `Venus Jupiter Pluto`
 - Astronomicon triad-set: `Q V Z`
-- This page is structural only. It does not merge the meanings of its orientations.
+- This page is structural only. It does not merge the meanings of its orientations. Use the [orientation map](#orientation-map) to choose the exact formula.
 
 ## Orientation Map
 
-- [Jupiter/Pluto = Venus](../activations/jupiter-pluto-equals-venus.md)
-- [Venus/Jupiter = Pluto](../activations/venus-jupiter-equals-pluto.md)
-- [Venus/Pluto = Jupiter](../activations/venus-pluto-equals-jupiter.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Pluto](../axes/jupiter-pluto.md) | Venus | [Jupiter/Pluto = Venus](../activations/jupiter-pluto-equals-venus.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Pluto | [Venus/Jupiter = Pluto](../activations/venus-jupiter-equals-pluto.md) |
+| [Venus/Pluto](../axes/venus-pluto.md) | Jupiter | [Venus/Pluto = Jupiter](../activations/venus-pluto-equals-jupiter.md) |
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Venus`: Michael, page `268`
-- `Venus/Jupiter = Pluto`: Michael, page `192`
-- `Venus/Pluto = Jupiter`: Michael, page `208`
+Each exact formula has the five canonical source headings below. This describes entries currently present, not complete coverage of the original works or intact wording of every excerpt. Munkasey locators are printed entry pages; other locators and their qualifications are available through the linked entries.
+
+- `Jupiter/Pluto = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-pluto-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-pluto-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/jupiter-pluto-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/jupiter-pluto-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/jupiter-pluto-equals-venus.md#munkasey-entry), printed p. `268`.
+- `Venus/Jupiter = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-jupiter-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-jupiter-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-jupiter-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-jupiter-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-jupiter-equals-pluto.md#munkasey-entry), printed p. `192`.
+- `Venus/Pluto = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-jupiter.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-jupiter.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-pluto-equals-jupiter.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-pluto-equals-jupiter.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-pluto-equals-jupiter.md#munkasey-entry), printed p. `208`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+Coverage limitation: Venus/Jupiter = Pluto retains damaged ABC development fragments outside interpretation. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

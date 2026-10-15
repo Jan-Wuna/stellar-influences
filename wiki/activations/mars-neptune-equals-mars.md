@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Added impulses for combativeness, irritation, or determination to forge ahead wi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Combative determination pressing ahead before ideas are examined.
+- psychology: Irritation, haste, and confidence in advancing untested projects.
+- body/health: No medical or bodily consequence is stated.
+- social/relationship: Hasty judgments of people associated with mysticism.
+- events/manifestations: Launching or pushing projects without first establishing their soundness.
+- conflicts/notes: Only Munkasey's repeated-factor 'With Itself' entry is available; this is not an independent restatement of a sibling orientation.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; its haste, irritation, and combative determination describe a connected pattern rather than conflicting accounts.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Mars`: Added impulses for combativeness, irritation, or determination to forge ahead with projects and ideas even before one examine them for their soundness; increased feelings for hasty judgments of mystical persons.
+In `Mars/Neptune = Mars`, repeated Mars specifies the pair through added combativeness and the determination to move ahead before testing an idea's soundness. Munkasey links that haste with irritation and quick judgments of mystical people. The single 'With Itself' passage supports this particular pattern of unexamined action, without establishing broader medical or practical outcomes. ([Munkasey entry](#munkasey-entry), printed p. 238)
 
 ## Links
 

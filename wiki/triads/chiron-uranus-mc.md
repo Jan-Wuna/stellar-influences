@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Uranus MC`
 - Astronomicon triad-set: `Chiron X MC`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/MC = Uranus](../activations/chiron-mc-equals-uranus.md)
-- [Chiron/Uranus = MC](../activations/chiron-uranus-equals-mc.md)
-- [Uranus/MC = Chiron](../activations/uranus-mc-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/MC = Uranus](../activations/chiron-mc-equals-uranus.md) | [Chiron/MC](../axes/chiron-mc.md) | [Uranus](../factors/uranus.md) |
+| [Chiron/Uranus = MC](../activations/chiron-uranus-equals-mc.md) | [Chiron/Uranus](../axes/chiron-uranus.md) | [MC](../factors/mc.md) |
+| [Uranus/MC = Chiron](../activations/uranus-mc-equals-chiron.md) | [Uranus/MC](../axes/uranus-mc.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/MC = Uranus`: John, page `102`
-- `Chiron/Uranus = MC`: John, page `96`
-- `Uranus/MC = Chiron`: John, page `108`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/MC = Uranus` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-mc-equals-uranus.md#sandbach-entry) | retained chapter-start one-based PDF p. 102; exact formula page not established |
+| `Chiron/Uranus = MC` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-uranus-equals-mc.md#sandbach-entry) | retained chapter-start one-based PDF p. 96; exact formula page not established |
+| `Uranus/MC = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-mc-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 108; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/MC = Uranus`: original healing perspectives and reforming vocation. Main caution: becoming so identified with revelation that practical embodiment falls behind.
-- `Chiron/Uranus = MC`: liberating vocation, unconventional public purpose, and work that must allow originality. Main caution: mistaking resistance to structure for true calling.
-- `Uranus/MC = Chiron`: Your vibration helps others to find their own unique path to God, and to be more uninhibited about opening up to spiritual messages. You also have the innate ability to heal feelings of social alienation, and to help others see the value of their own personal uniqueness to the world.
+Use this hub to choose the exact orientation for the unordered set `Chiron Uranus MC`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

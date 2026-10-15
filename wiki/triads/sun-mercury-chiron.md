@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Sun Mercury Chiron`
 - Astronomicon triad-set: `S T Chiron`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mercury/Chiron = Sun](../activations/mercury-chiron-equals-sun.md)
-- [Sun/Chiron = Mercury](../activations/sun-chiron-equals-mercury.md)
-- [Sun/Mercury = Chiron](../activations/sun-mercury-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mercury/Chiron = Sun](../activations/mercury-chiron-equals-sun.md) | [Mercury/Chiron](../axes/mercury-chiron.md) | [Sun](../factors/sun.md) |
+| [Sun/Chiron = Mercury](../activations/sun-chiron-equals-mercury.md) | [Sun/Chiron](../axes/sun-chiron.md) | [Mercury](../factors/mercury.md) |
+| [Sun/Mercury = Chiron](../activations/sun-mercury-equals-chiron.md) | [Sun/Mercury](../axes/sun-mercury.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Mercury/Chiron = Sun`: John, page `46`
-- `Sun/Chiron = Mercury`: John, page `15`
-- `Sun/Mercury = Chiron`: John, page `8`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Mercury/Chiron = Sun`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mercury-chiron-equals-sun.md#sandbach-entry), one-based PDF chapter-start p. `46`.
+- `Sun/Chiron = Mercury`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-chiron-equals-mercury.md#sandbach-entry), one-based PDF chapter-start p. `15`.
+- `Sun/Mercury = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-mercury-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `8`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron = Sun` brings the axis into purpose, visibility, and life-direction.
-- `Sun/Chiron = Mercury`: speaking and thinking from a deeper sense of purpose and communicating meanings that help reveal what matters most.
-- `Sun/Mercury = Chiron`: communicating deeper meaning and thinking in ways that reveal spiritual purpose beneath appearances.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

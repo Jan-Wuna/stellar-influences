@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Cupido Admetos Vulcanus](../triads/cupido-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 272 (printed 276).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ To experience great obstacles and hindrances through the family or partner. To f
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 433).
+
 #### ABC Entry
 
 endurance and energy in of a community, blocked force of a community, depressing artistic influence, shared restriction of power, thorough influence of a community, and consolidation of power in of a community
 
+## Comparative Schema
+
+- core meaning: Powerful communal obstacles and suppression, alongside endurance and consolidation of power.
+- psychology: Feeling suppressed by family or partner conditions.
+- body/health: No specific physical or medical claim.
+- social/relationship: Family or partner as the source of great obstacles and enforced struggle.
+- events/manifestations: Struggle over artistic creation; blocked communal force, constrained power and consolidated power.
+- conflicts/notes: ABC's Gewalt can denote force or violence; the entry does not specify its form or require separation.
+
+## Contradictions And Differences
+
+ABC's Gewalt can denote force or violence; the entry does not specify its form or require separation. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Vulcanus`: separation under pressure, powerful obstacle within close bonds, and the need to fight hard through communal or relational resistance. Main caution: exhausting struggle against conditions too strong or too entrenched to move easily.
+`Cupido/Admetos = Vulcanus` concerns the force of communal obstacles and the effort required to withstand them. The [Witte entry](#witte-entry) describes suppression through family or partner conditions and hard or imposed struggle over artistic creation. The [ABC entry](#abc-entry) adds communal endurance and energy, blocked force, restricted power and consolidation of power within a community. The entries support both pressure and sustained effort, without specifying that the association must end.
 
 ## Links
 

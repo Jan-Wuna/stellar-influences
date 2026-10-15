@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Neptune = Venus](../activations/saturn-neptune-equals-venus.md)
-- [Venus/Neptune = Saturn](../activations/venus-neptune-equals-saturn.md)
-- [Venus/Saturn = Neptune](../activations/venus-saturn-equals-neptune.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Neptune = Venus](../activations/saturn-neptune-equals-venus.md) | [Saturn/Neptune](../axes/saturn-neptune.md) | [Venus](../factors/venus.md) |
+| [Venus/Neptune = Saturn](../activations/venus-neptune-equals-saturn.md) | [Venus/Neptune](../axes/venus-neptune.md) | [Saturn](../factors/saturn.md) |
+| [Venus/Saturn = Neptune](../activations/venus-saturn-equals-neptune.md) | [Venus/Saturn](../axes/venus-saturn.md) | [Neptune](../factors/neptune.md) |
 
 ## Source Coverage
 
-- `Saturn/Neptune = Venus`: Michael, page `288`
-- `Venus/Neptune = Saturn`: Michael, page `204`
-- `Venus/Saturn = Neptune`: Michael, page `196`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Neptune = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-neptune-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-neptune-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-neptune-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-neptune-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-neptune-equals-venus.md#munkasey-entry), printed p. `288`.
+- `Venus/Neptune = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-neptune-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-neptune-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-neptune-equals-saturn.md#munkasey-entry), printed p. `204`.
+- `Venus/Saturn = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-saturn-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-saturn-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-saturn-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-saturn-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-saturn-equals-neptune.md#munkasey-entry), printed p. `196`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

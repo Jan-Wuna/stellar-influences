@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Asc Poseidon`
 - Astronomicon triad-set: `R Asc ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md)
-- [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md)
-- [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md)
+- [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md): base axis [Asc/Poseidon](../axes/asc-poseidon.md); activator [Moon](../factors/moon.md).
+- [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md): base axis [Moon/Asc](../axes/moon-asc.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `98`
-- `Asc/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `136`
-- `Moon/Asc = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `81`
-- `Moon/Asc = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `103`
-- `Moon/Poseidon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `206`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 98); [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md#witte-entry) (PDF entry-start p. 81); [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md#witte-entry) (PDF entry-start p. 138).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Poseidon = Moon](../activations/asc-poseidon-equals-moon.md#abc-entry) (printed p. 136); [Moon/Asc = Poseidon](../activations/moon-asc-equals-poseidon.md#abc-entry) (printed p. 103); [Moon/Poseidon = Asc](../activations/moon-poseidon-equals-asc.md#abc-entry) (printed p. 206).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Moon`: spiritual susceptibility in others and public visibility gained through spiritual or idealized relationships.
-- `Moon/Asc = Poseidon`: This activation spiritualizes `Moon/Asc` and makes emotional presence seem refined, thoughtful, or idealized. It often points to contact with high-minded women, receptivity to subtler mental influences, and a public manner shaped by conscience, inspiration, or elevated sensibility.
-- `Moon/Poseidon = Asc`: To influence others mentally. Relations to people who are susceptible to mental and spiritual things.
+Moon, Asc and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Poseidon](../axes/asc-poseidon.md)
+- [Moon/Asc](../axes/moon-asc.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Asc](../factors/asc.md)
 - [Poseidon](../factors/poseidon.md)

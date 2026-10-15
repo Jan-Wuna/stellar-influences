@@ -29,19 +29,36 @@ updated_at: 2026-04-21
 - Axis page: [Mercury/Chiron](../axes/mercury-chiron.md)
 - Triad hub: [Mercury Chiron Uranus](../triads/mercury-chiron-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Mercury/Chiron midpoint`
+- Source locator: PDF p. `47` (complete oriented entry; chapter starts on p. `46`; scan checked).
 
 #### Sandbach Entry
 
 One is inspired to take just the right approach to heal communicating problems.
 
+## Comparative Schema
+
+- core meaning: An inspired approach addresses communication problems.
+- psychology: Inspiration is the only mental quality stated.
+- body/health: Healing concerns communication problems; no bodily claim is present.
+- social/relationship: The entry does not identify particular partners or relationships.
+- events/manifestations: Finding an appropriate approach is stated, without specifying its speed or form.
+- conflicts/notes: Only Sandbach is represented; the complete oriented entry is verified on PDF p. 47.
+
+## Contradictions
+
+A single passage supplies the evidence, so cross-source agreement or contradiction cannot be assessed.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Chiron = Uranus` electrifies the axis with sudden insight into how communication can be healed.
-- Chart expression: inspired approaches, abrupt breakthrough in dialogue problems, and inventive mental flashes that reveal exactly how to restore connection.
+In `Mercury/Chiron = Uranus`, Uranus specifies Mercury/Chiron through inspiration in choosing an approach to a communication problem. The [single Sandbach sentence](#sandbach-entry) supports that narrow reading. It does not establish sudden timing, an abrupt breakthrough, or a general inventive talent.
 
 ## Links
 

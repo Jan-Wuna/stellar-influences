@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Node Zeus](../triads/vernal-point-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ The contact with or relationships to flammable materials, machinery or arms.
 
 #### ABC Entry
 
-Effortful relations with the public, beginning of a connection with the public, contacts with the public, creative links in the public life, and connection with the public through services
+Demanding relationships with the public, beginning a connection with the public, contacts with public leadership, creative connections in public life, and connection with the public through achievements.
+
+## Comparative Schema
+
+- Core meaning: Public connections and contacts with machinery, arms, or flammable materials.
+- Psychology: The entry describes contacts rather than an inner disposition.
+- Body/health: Contact with flammable materials is named; no injury or disease is asserted.
+- Social/relationship: Beginning public connections, demanding public relations, and creative links in public life are explicit.
+- Events/manifestations: Contacts involving machinery, arms, or flammable materials and public connections through achievements are concrete examples.
+- Conflicts/notes: ABC's public-leadership and achievement wording was restored from the German scan.
+
+## Contradictions
+
+Material contacts and public relationships are different applications of connection. Neither establishes that every public contact involves arms or combustible materials. ABC's contacts with public leadership and connections through achievements were checked against printed p. 48 (PDF p. 23).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Node`: the contact with or relationships to flammable materials, machinery or arms.
-- Practical expression: effortful relations with the public, beginning of a connection with the public, contacts with the public, creative links in the public life, and connection with the public through services.
+In `Vernal Point/Zeus = Node`, Node specifies the pair through the making and maintenance of connections. Those connections may involve public leadership or arise through creative work and achievements in public life; Witte also names direct contact with machinery, arms, and flammable materials. The [Witte Entry](#witte-entry) (PDF p. 50) and [ABC Entry](#abc-entry) (printed p. 48; PDF p. 23) therefore support a relational reading with distinct public and material applications, without making those applications interchangeable.
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Uranus](../axes/sun-uranus.md)
 - Triad hub: [Sun Mercury Uranus](../triads/sun-mercury-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SUN + URANUS`
+- Source locator: printed p. `112`, PDF p. `108` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ To comprehend fast. New spontaneous ideas. Vivid thinking. To give orders sudden
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Sonne + Uranus`
+- Source locator: printed p. `152`, PDF p. `75` (complete oriented entry; raw scan checked).
+
 #### ABC Entry
 
-Exciting daily news, aroused staff talk, discuss personal events, opinions on day events, new people in traffic, personal excitement in traffic, personal traffic event, and technical media center
+Exciting daily news, excited staff discussions, discuss personal events, opinions on day events, new people in traffic, personal excitement in traffic, personal traffic event, and technical media center
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `96`, PDF p. `98`, entry `0256` (raw scan checked).
 
 #### Ebertin Entry
 
 Presence of mind, quick and prudent acting, sudden flashes of cognition. A young reformer, making arrangements.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Sun/Uranus midpoint`
+- Source locator: PDF p. `17` (complete Mercury entry; raw scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ Sudden shifts of direction in one’s communicating. Cleverness in finding an un
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `SUN/URANUS with Planets and Points`
-- Source page: `80`
+- Source locator: printed p. `80`, PDF p. `81` (complete entry; raw scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Talks with others about how to achieve freedom; nervousness when acting alone; c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Rapid comprehension and inspiration find expression in thought, communication and news.
+- psychology: Presence of mind, cleverness and independent communication coexist with nervousness when acting alone.
+- body/health: Munkasey's nervousness is descriptive; no medical diagnosis is supplied.
+- social/relationship: Talks about freedom and observing others' individuality are explicit interpersonal examples.
+- events/manifestations: Sudden ideas, surprising messages, traffic events, arrangements and a rescue team at an accident are recorded.
+- conflicts/notes: Prudent action is stated by Ebertin; scattered or contrarian thinking is not established.
 
 ## Contradictions
 
-- None recorded yet.
+The entries give different manifestations of this orientation; no direct contradiction is established, and repeated themes alone do not prove independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Uranus = Mercury`: original ideas, scientific or technical intelligence, and the ability to think ahead of the immediate moment. Main caution: overstimulation: abrupt speech, scattered nerves, or contrarian thinking can disrupt clarity and cooperation.
+In `Sun/Uranus = Mercury`, Mercury gives sudden excitation a form in quick comprehension, spontaneous ideas and surprising communications ([Witte](#witte-entry); [Ebertin](#ebertin-entry), entry 0256). Freedom and individuality are expressed through confident communication and the ability to find an unexpected purpose in a situation ([Sandbach](#sandbach-entry), PDF p. 17). Conversations about freedom and observation of others' distinctive expression connect this independence to other people ([Munkasey](#munkasey-entry), printed p. 80), while [ABC](#abc-entry) (printed p. 152) supplies daily news, staff discussions and traffic examples. Nervousness when acting alone is one stated difficulty, without making rapid thought inherently confused.
 
 ## Links
 

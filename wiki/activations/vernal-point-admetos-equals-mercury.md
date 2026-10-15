@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Mercury Admetos](../triads/vernal-point-mercury-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Depressed thoughts. To think of heavy resistances. Mourning. Dead languages.
 
@@ -42,13 +46,27 @@ Depressed thoughts. To think of heavy resistances. Mourning. Dead languages.
 
 #### ABC Entry
 
-Reports about public pressure, blocked youth in public life, depressing news in public, opinion restrictions in public life, and public news lock
+- Source page: 54; PDF page: 26 (one-based spread).
+
+Reports of public suppression, blocked youth in public life, depressing news in public, restrictions on opinion in public life, and a public news blockade
+
+## Comparative Schema
+
+- core meaning: Thought and communication restricted by public resistance or suppression.
+- psychology: Depressed thoughts, mourning, and thinking about heavy resistance.
+- body/health: No bodily diagnosis is supplied.
+- social/relationship: Restrictions affecting youth and public opinion.
+- events/manifestations: Depressing news, blocked reporting, and dead languages.
+- conflicts/notes: Dead languages is a distinct linguistic example; emotional vocabulary remains source language.
+
+## Contradictions
+
+Thoughts about resistance and blocked public news describe different aspects of restricted exchange. Dead languages is not evidence of a particular political event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Mercury`: depressed thoughts, to think of heavy resistances, mourning, and dead languages.
-- Practical expression: reports about public pressure, blocked youth in public life, depressing news in public, opinion restrictions in public life, and public news lock.
+In `Vernal Point/Admetos = Mercury`, Mercury specifies the pair through thought and public communication under constraint. The [Witte entry](#witte-entry) names depressed thoughts, resistance, and mourning; the [ABC entry](#abc-entry) makes the public setting explicit in suppressed opinion and a news blockade. Dead languages is an additional Witte application. The organizing theme is constrained expression or preoccupation with obstruction, with no clinical diagnosis implied by the emotional wording.
 
 ## Links
 

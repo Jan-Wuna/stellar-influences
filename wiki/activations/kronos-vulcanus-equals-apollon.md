@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Kronos Apollon Vulcanus](../triads/kronos-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Apollon entry.
+
 #### Witte Entry
 
-To be a mighty authority for many. Great efforts of a state in peacefid fields, e peaceful great power.
+To be a mighty authority for many. Great efforts of a state in peaceful fields. The peaceful great power.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Apollon entry.
+
 #### ABC Entry
 
-Expansion of state power, special power through knowledge, successful state power, great trade power, power success of the state, priority violence freedom, and important influence of science
+Expansion of state power; special power through knowledge; successful state power; experiences of a great power; successful influence of the hierarchy; great trading power; the state's success in power; priority given to nonviolence; important influence of science.
+
+## Comparative Schema
+
+- Core meaning: Power extends to many through peaceful state effort, knowledge, trade, and science.
+- Psychology: Knowledge and experience are explicit resources for power.
+- Body/health: No specific health or bodily claim is given.
+- Social/relationship: Authority for many and influence through a hierarchy provide the social scale.
+- Events/manifestations: Expansion of state power, trading power, and a peaceful great power are named.
+- Conflicts/notes: Expansion is paired with nonviolence and peaceful effort, not necessarily coercion.
+
+## Contradictions And Tensions
+
+Expansion is paired with nonviolence and peaceful effort, not necessarily coercion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Apollon`: mighty authority over many, large peaceful state effort, and the reach of a great power acting through broad institutions or collective systems.
-- Chart expression: geopolitical scale, coordinated administration, and expansion of power into wide civil or peaceful domains.
+With Apollon, Kronos/Vulcanus gives power a broad reach through peaceful effort, knowledge, trade, and science. Witte names a mighty authority for many and the peaceful great power; ABC adds expansion of state power, a great power's experience, and successful hierarchical influence. Its explicit priority for nonviolence matters: the enlargement of influence need not mean violence or conquest. Knowledge and commerce remain stated ways that a state can acquire and exercise power. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

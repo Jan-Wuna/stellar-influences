@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Pluto Node MC](../triads/pluto-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based; exact row checked).
 
 The beginning or change of relationships. A development or change in professional connections or emotional relationships.
 
@@ -45,17 +49,23 @@ The beginning or change of relationships. A development or change in professiona
 
 #### ABC Entry
 
-Development of psychic connections, my development in connections, my connections change, changes in my connections, growing spelea bond, and changes in a psychic connection
+- Source page: 67 (printed); PDF page: 32 (one-based; exact row checked).
+
+Development of inner connections, my unfolding within connections, my connections change, changes in my connections, a growing soul connection, transformations within an inner connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 305 (printed); PDF page(s): 307 (one-based); entry code: 1104 (direct source text checked).
 
 Attainment of success in associations or partnerships by the use of force. Selecting one's coworkers, organizing power, great achievements shared with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 121 (one-based; exact activation located in direct source text).
 
 One feels an intense inner compulsion to grow in terms of one’s relationship to the world, and/or to make progress in one’s career and/or spiritual work. To feel an ob sessive need to hold on to old sources of security.
 
@@ -70,22 +80,23 @@ Suspicions about the intentions of others who offer to help you find your destin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: development and change in personal bonds, with strong collective or inner pressure.
+- psychology: compulsion to progress can coexist with an obsessive need to retain old security; suspicion of helpers is also named.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: chosen coworkers, hidden allies and groups with shared aims can carry organizing power.
+- events/manifestations: new or changing professional and emotional relationships, shared achievements and attaining a position of power.
+- conflicts/notes: Growth and clinging to old security are competing tendencies in Sandbach; force and suspicion qualify success without making every changing relationship coercive.
 
 ## Contradictions
 
-- None recorded yet.
+Growth and clinging to old security are competing tendencies in Sandbach; force and suspicion qualify success without making every changing relationship coercive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Pluto`: consequential partnership, intense group purpose, and the ability to transform vocation through strong relational forces. Main caution: power entanglement: shared aims can become manipulative, coercive, or too costly to the integrity of one's path.
+Pluto specifies `Node/MC` through relationships that develop, change or become a force in personal progress. [Witte](#witte-entry) and [ABC](#abc-entry) describe changes in emotional or professional bonds; [Ebertin](#ebertin-entry) adds selecting coworkers, organizing power and achievements shared with others. [Munkasey](#munkasey-entry) includes both hidden allies and attaining power through groups with similar aims.
+
+That intensity also creates a tension within the connection: Munkasey names suspicion of those offering help, while [Sandbach](#sandbach-entry) places a compulsion to grow beside an obsessive hold on old security. Shared power and change are supported; their effect depends on how the relationship is used and what it is trying to preserve.
 
 ## Links
 

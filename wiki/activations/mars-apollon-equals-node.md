@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Node Apollon](../triads/mars-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Connections with managers, business people or dealers.
 
 Expand work contacts, successful work placement, successful work in relationships, establish trade relationships, establish links with science, connect work in trade, and increasing contact activities
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 201 (entry start); [ABC Entry](#abc-entry), printed p. 316 (entry).
+
+- Core meaning: Work expands through professional contacts and connections.
+- Psychology: The entries describe making contacts, without a separate personality claim.
+- Body/health: No bodily condition is specified in these contact-focused entries.
+- Social/relationship: Managers, dealers, business people, and scientific contacts are explicitly connected.
+- Events/manifestations: Work placement, establishing trade relationships, and linking with science are named.
+- Conflicts/notes: The network is occupational in these entries; a wider theory of all relationships is not established.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Node`: connection with managers, dealers, and business people and effective participation in commercial or scientific circles.
-- Chart expression: useful professional links, market contacts, and cooperative networks that widen the field of action.
+Node specifies the Mars/Apollon axis as the connections that enable commercial or scientific activity. The managers, dealers, and business people of [Witte Entry](#witte-entry) become an active process of expanding contacts, finding work, and establishing trade or scientific links in [ABC Entry](#abc-entry). The interpretation stays with professional connection and placement rather than importing meanings from another orientation.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Uranus Asc](../triads/sun-uranus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Sudden or unexpected ways of demonstrating who you are; a strong desire to have 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden contact and distinctive personal presentation.
+- psychology: Excitement, agitation, and confidence in individuality.
+- body/health: ABC mentions nervousness, but no specific diagnosis is given.
+- social/relationship: New acquaintances and stimulating or tense encounters.
+- events/manifestations: Sudden meetings, unexpected events, and unconventional changes of appearance.
+- conflicts/notes: Ebertin's violent expression is attributed and not generalized to every contact.
 
 ## Contradictions
 
-- None recorded yet.
+Creative distinctiveness and agitation are different possibilities; neither establishes a universal outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Uranus`: originality, quick adaptation, and the power to awaken or unsettle others simply through presence. Main caution: instability: restlessness, contrariness, or abrupt self-assertion can disrupt relationships and continuity.
+Uranus specifies the Sun/Asc axis through unexpected encounters and an unusual way of presenting oneself. The [Witte entry](#witte-entry) gives sudden meetings and excitement caused by others, while [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) describe distinctive, unconventional self-expression and new insight through proximity to people. The range also includes agitation and tension; [Ebertin's entry](#ebertin-entry) specifically extends forceful self-establishment to violent means, which is a source-specific extreme rather than a necessary outcome.
 
 ## Links
 

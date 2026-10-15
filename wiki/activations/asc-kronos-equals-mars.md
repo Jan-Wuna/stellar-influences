@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Asc/Kronos = Mars`
 - Astronomicon formula: `Asc/¤ = U`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Mars row; checked on the actual scan.
+
 To have to act independent as employee or official. Executive official. To do physical labor for others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Viewed work place, steering work of others, monitoring a local hierarchy, large environmental activity, steering impulses of other, self governing work partners, state work place, important partner impulses, and important work place
+A respected workplace, directing others' work, efforts of a local hierarchy, extensive activity in the surroundings, others' directing impulses, independent work partners, a state workplace, important partner impulses, and an important workplace.
+
+Translation repaired against the German entry, printed p. 128, one-based PDF p. 63; wording and the mars row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Work expresses executive responsibility, direction, or service to others.
+- **Psychology:** Independent action is explicit; unwilling obedience is not established.
+- **Body/health:** Physical labor for others is stated without a health claim.
+- **Social/relationship:** Employees, officials, independent work partners, and directing others' work are supported roles.
+- **Events/manifestations:** Executive office, physical labor, state workplaces, and hierarchy's efforts are concrete manifestations.
+- **Conflicts/notes:** Employment and independence coexist in the source; service need not erase one's agency.
+
+## Contradictions
+
+No direct contradiction appears. Witte explicitly includes independent action as an employee or official, and ABC reinforces independent work partners alongside hierarchy and direction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Mars`: pressured service, delegated action, and environments where authority expresses itself through work demand and execution. Main caution: hard service: will and body can be spent carrying out orders not truly one's own.
+In `Asc/Kronos = Mars`, Mars specifies the Asc/Kronos axis through work and the responsibility to act or direct. Witte includes acting independently as an employee or official, executive office, and physical labor for others. ABC adds respected or state workplaces, directing others' work, and independent work partners. The exact entry makes room for agency within employment rather than assuming that all work merely carries out unwanted orders. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 128.)
 
 ## Links
 

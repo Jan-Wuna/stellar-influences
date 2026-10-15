@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Cupido Kronos Apollon](../triads/cupido-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Authority in an artistic or scientific field. To receive favors from the boss, t
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 431).
+
 #### ABC Entry
 
-Authorization of a scientific community, special art successes, success of a state community, successful management of a community, great knowledge of the arts, self governing trade community, and important synthesis of sciences
+Editorial English translation, checked against the German scan:
+
+Authority of a scientific community; special artistic successes; success of a state community; successful direction of a community; great artistic knowledge; independent trade community; important synthesis of the sciences.
+
+## Comparative Schema
+
+- core meaning: Authority, recognition and successful direction in artistic or scientific association.
+- psychology: No distinct psychological disposition is specified.
+- body/health: No specific physical or medical claim.
+- social/relationship: Favors from a boss, chief, state or family head for artistic or scientific accomplishments.
+- events/manifestations: Scientific authority, special artistic successes, independent trade association and synthesis of sciences.
+- conflicts/notes: Recognition is explicit; dependence on approval is not.
+
+## Contradictions And Differences
+
+Recognition is explicit; dependence on approval is not. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Kronos`: official recognition, institutional patronage, and leadership standing inside broad associations. Main caution: dependence on approval from hierarchy or prestige structures.
+`Cupido/Apollon = Kronos` concerns authority and recognition earned through artistic or scientific accomplishment. The [Witte entry](#witte-entry) names favors from a chief, state or family head on that basis. The [ABC entry](#abc-entry) extends the range to scientific authority, successful communal direction, an independent trade community and an important synthesis of the sciences. The emphasis is on accomplishment, standing and direction within association, without a stated need for hierarchical approval.
 
 ## Links
 

@@ -6,16 +6,16 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Jupiter/Saturn` as source-native image material.
+Preserve Munkasey's `CONCEPTS` phrases from the third page of the `Jupiter/Saturn` chapter as source-native image material. For the pair's interpretation, start with the [canonical Jupiter/Saturn synthesis](../axes/jupiter-saturn.md#derived-synthesis).
 
 ## Evidence Base
 
-- [Jupiter/Saturn](../axes/jupiter-saturn.md)
+- [Jupiter/Saturn: Munkasey source entry](../axes/jupiter-saturn.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
 - Source concept page: `257`
 
@@ -124,3 +124,4 @@ Preserve Munkasey's page-3 concept phrases for `Jupiter/Saturn` as source-native
 
 - These phrases are preserved as source-native concept prompts, not as comparative doctrine.
 - They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+- Use the list to explore alternative images, not to assert that every phrase applies together. For an explicit `Jupiter/Saturn = C` formula, follow the axis page's Related Activations to the exact oriented entry; this list assigns no phrases to an activator.

@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md)
-- [Saturn/Uranus = Asc](../activations/saturn-uranus-equals-asc.md)
-- [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Asc = Uranus](../activations/saturn-asc-equals-uranus.md) | [Saturn/Asc](../axes/saturn-asc.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Asc](../activations/saturn-uranus-equals-asc.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Asc](../factors/asc.md) |
+| [Uranus/Asc = Saturn](../activations/uranus-asc-equals-saturn.md) | [Uranus/Asc](../axes/uranus-asc.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Asc = Uranus`: Michael, page `300`
-- `Saturn/Uranus = Asc`: Michael, page `284`
-- `Uranus/Asc = Saturn`: Michael, page `320`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Asc = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-asc-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-asc-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-asc-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-asc-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-asc-equals-uranus.md#munkasey-entry), printed p. `300`.
+- `Saturn/Uranus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-uranus-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-uranus-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-uranus-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-uranus-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-uranus-equals-asc.md#munkasey-entry), printed p. `284`.
+- `Uranus/Asc = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-asc-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-asc-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-asc-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-asc-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-asc-equals-saturn.md#munkasey-entry), printed p. `320`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

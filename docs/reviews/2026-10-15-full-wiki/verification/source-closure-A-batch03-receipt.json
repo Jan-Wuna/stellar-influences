@@ -1,0 +1,730 @@
+{
+  "batch": "source-closure-A-batch03",
+  "status": "stable_pending_independent_audit",
+  "targets": 25,
+  "review_counts_added": 0,
+  "record_hash_contract": "SHA256 actual UTF8 JSONL record line excluding newline",
+  "source_hash_normalization": "UTF-8; CRLF to LF; text between Source Entries and Comparative Schema; terminal standalone synthesis anchor removed; outer strip",
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-dispositions.jsonl",
+  "active_or_reserved_paths_in_batch": [],
+  "bindings": [
+    {
+      "id": "A-047",
+      "path": "wiki/activations/jupiter-neptune-equals-admetos.md",
+      "queue_index": 79,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "d287d45398a177104985f833accfd8638c4610c0b73e50ca7c96a7620063ca57",
+      "source_entries_sha256": "5ad6fc9d8c0e1e9ea4d81673567d7af87d4b1990a3cfc672e6dd01f05279b5de",
+      "owner_record_sha256": "dddb853f77cd0863284b6aa2e3ddaa4d1de8838a985f60fe44b640345d1cbc33",
+      "actual_locators": [
+        "ABC printed329/PDF163 Jupiter+Neptune Admetos complete seven-clause row",
+        "Witte printed213/PDF209 Admetos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's on/in/with water, deep water and Wasser-Stau examples specify no technical setting."
+      ]
+    },
+    {
+      "id": "A-048",
+      "path": "wiki/activations/jupiter-neptune-equals-apollon.md",
+      "queue_index": 80,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "bfc29192c7ce255691e8162ce7100f894c1f8fdbb94aea11aebf79d37b15705f",
+      "source_entries_sha256": "a023dd65bce14cbe94ecf28ccd1967c126863368b8272ccfe1f9167836bc2468",
+      "owner_record_sha256": "824097246deafc855203a3c54a515a6a2f17e11a859ee331f95c01d1edf05e59",
+      "actual_locators": [
+        "ABC printed329/PDF163 Apollon nine-clause row bounded after Kronos",
+        "Witte printed213/PDF209 Apollon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's water and unknown-knowledge examples specify no particular technical setting or field of knowledge."
+      ]
+    },
+    {
+      "id": "A-049",
+      "path": "wiki/activations/jupiter-neptune-equals-asc.md",
+      "queue_index": 81,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "810830a4a5645c236418b9baa77a91717927576210ef7ed09fb68d0918a2236a",
+      "source_entries_sha256": "1efdaf58eb66e6c8cbcaa2d34b050aae70e1f82f22c90923aee7dae0a6bc3df5",
+      "owner_record_sha256": "be4c5533792fb4d2387e746815ed6a9c74c54665455717419d58db063872a63e",
+      "actual_locators": [
+        "ABC printed328/PDF163 Asc complete seven-clause row",
+        "Witte printed213/PDF209 Asc row",
+        "Sandbach PDF82 Jupiter/Neptune Ascendant paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png",
+          "sha256": "ee25be00c6300244d849e191ca532420beb3e09b83c8324b7d28579bfd7cc348"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air and water examples do not specify a technical setting."
+      ]
+    },
+    {
+      "id": "A-050",
+      "path": "wiki/activations/jupiter-neptune-equals-cupido.md",
+      "queue_index": 82,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "2f5351757c8d17bf84388203455332589b7fac0bb53be0f41aef96065073e8b7",
+      "source_entries_sha256": "918bd01a2f61ac95bbfb7e83770a4b8a33bdb5ccd33ab96c03c60a4b14685441",
+      "owner_record_sha256": "d01871788baf2ff45c189f92934f05b84701743fe8565d333818d5e2574c6ddd",
+      "actual_locators": [
+        "ABC printed329/PDF163 Cupido complete seven-clause row after Pluto and before Hades",
+        "Witte printed213/PDF209 Cupido row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air, water and legal examples specify no particular technical setting."
+      ]
+    },
+    {
+      "id": "A-051",
+      "path": "wiki/activations/jupiter-neptune-equals-hades.md",
+      "queue_index": 83,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "7027027c9143954757e757181c87389c20799732398510eac5d2aedde2f81cba",
+      "source_entries_sha256": "4423008694664ca7e76c00a189763abb4ffd1aa66a346a259dcded59203b41f8",
+      "owner_record_sha256": "5990632086966a1e240ae01f7c3421673fb83c429654ca55a6cb3d7a55938b25",
+      "actual_locators": [
+        "ABC printed329/PDF163 Hades complete seven-clause row after Cupido and before Zeus",
+        "Witte printed213/PDF209 Hades row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's future success from the past specifies no particular event or mechanism."
+      ]
+    },
+    {
+      "id": "A-052",
+      "path": "wiki/activations/jupiter-neptune-equals-kronos.md",
+      "queue_index": 84,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "7e96fa5a705b6f09d1ed0d698793d0883c02bf8e981578fd6c23b6c4e9224505",
+      "source_entries_sha256": "45d78fb1aa4e158e5b68e44cf85caaccbb767720d5b92fcd4c77ce6d0099f041",
+      "owner_record_sha256": "36db73d28367246550f2cc7607803bbffe39d7b268c58440d5f5b6bd8a080d2d",
+      "actual_locators": [
+        "ABC printed329/PDF163 Kronos complete eight-clause row after Zeus and before Apollon",
+        "Witte printed213/PDF209 Kronos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air, water and legal examples specify no particular technical setting."
+      ]
+    },
+    {
+      "id": "A-053",
+      "path": "wiki/activations/jupiter-neptune-equals-mars.md",
+      "queue_index": 85,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "2c5b5c0b4912df62cc1c75ca3488ef5658639f9fd4bb928ac0a03622deef0471",
+      "source_entries_sha256": "644ce8a4bd7454edd7762b20681366eb160e3b0c1dc2885da982d0f6f66663f6",
+      "owner_record_sha256": "3173541d6b5a6962e7e2be37290b2208af6bbd65d7994ef65c672e663a66275a",
+      "actual_locators": [
+        "ABC printed328/PDF163 Jupiter+Neptune Mars eight-clause row",
+        "Witte printed213/PDF209 Mars row",
+        "Sandbach PDF82 Jupiter/Neptune Mars paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png",
+          "sha256": "ee25be00c6300244d849e191ca532420beb3e09b83c8324b7d28579bfd7cc348"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air and water examples do not specify a technical setting."
+      ]
+    },
+    {
+      "id": "A-054",
+      "path": "wiki/activations/jupiter-neptune-equals-mc.md",
+      "queue_index": 86,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "055aeaef3e89c05f358e78b08c1684422fef52b79d83927ef62c5d38028ee1f5",
+      "source_entries_sha256": "3057133a9a0f9a62c2ec3da5841d33bc4085c8d5b3fb624ad754e9746ac6c86f",
+      "owner_record_sha256": "ce6eae69b12882efbc93c4fb2d3a82ea36a8299ede444d20da2e00527a4e7ebd",
+      "actual_locators": [
+        "ABC printed328/PDF163 Jupiter+Neptune MC complete eight-clause row",
+        "Witte printed213/PDF209 MC row",
+        "Sandbach PDF82 Jupiter/Neptune Midheaven paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf163.png",
+          "sha256": "5f04b85122420c8f22e5a69fb85bb225cfd87806a9dae866c68b14883c959f87"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf209.png",
+          "sha256": "4e112a98fd5fb31b48e264f0950c7bce624451379232b302a41f7c95eff32058"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A1-sandbach-pdf82.png",
+          "sha256": "ee25be00c6300244d849e191ca532420beb3e09b83c8324b7d28579bfd7cc348"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air and water examples do not specify a technical setting; Munkasey printed264 was not newly source-verified in this closure."
+      ]
+    },
+    {
+      "id": "A-055",
+      "path": "wiki/activations/jupiter-kronos-equals-pluto.md",
+      "queue_index": 64,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-016.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "dfb811db53b48e7ffd549de1c96ce55b767927b3462f15e278e288ebb625c6d6",
+      "source_entries_sha256": "06ff0c7b36d00bc99fc978f3e802c7fbd1af14fbd4ec26617db026ebe8682b25",
+      "owner_record_sha256": "9bd2369ae569829009819d987c1f3e275671217cb19161f12e8e95fee9fbfd47",
+      "actual_locators": [
+        "ABC printed339/PDF168 Jupiter+Kronos Pluto complete eight-clause row; prior author actual scan proof reused",
+        "Witte printed218/PDF214 Jupiter+Kronos Pluto row; prior author actual scan proof reused"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-016-abc-p168.png",
+          "sha256": "37b48a8b13a5a252ff3c4cbba9db1290e913abb8389a42cfd96f61f2c0a36e48"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-016-witte-p214.png",
+          "sha256": "aac90bc7cdd6bfdfb65971658e986469bced4029b79156943109d2664c216530"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-056",
+      "path": "wiki/activations/jupiter-poseidon-equals-mc.md",
+      "queue_index": 87,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "e8a6c2364c540aa8bc5ee3e69f4717bd93e7d7d053b41b87ea8251a2cd3ebb7b",
+      "source_entries_sha256": "5604bb257d04eb7067b0dba97b4d13f2944bff5c79464516d15d5287defdb45e",
+      "owner_record_sha256": "2c3b21a0c40b960ac07ff3f2e286e18aff4f6333b6869754197311f92b8af988",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon MC complete 10-clause row",
+        "Witte PDF218 Jupiter+Poseidon MC row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's unusual Geist-Seele compound is retained literally without a further definition."
+      ]
+    },
+    {
+      "id": "A-057",
+      "path": "wiki/activations/jupiter-poseidon-equals-mercury.md",
+      "queue_index": 88,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "8fd843fe2ba1937dfd8222b74650179be9464d5566dd9f465f5af88e0f77b9a7",
+      "source_entries_sha256": "0c88cf0cb4fcef9994a3f5db759e1b73fdf63e56b406f0e4b48d82a248087233",
+      "owner_record_sha256": "0ba68bc591eedb29d3e7d8be25c84b441103ba36391aa946431f5eb22a37ba62",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon Mercury complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Mercury row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-058",
+      "path": "wiki/activations/jupiter-poseidon-equals-moon.md",
+      "queue_index": 89,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "973b0800503d1b5a0e56a35f371fb4c9809ce960a1ad71b4eff6bc32df26065c",
+      "source_entries_sha256": "a8a91596a4858258b78edd62ed1796dafc5d7c408ba42c347c3fc09ee696f498",
+      "owner_record_sha256": "5e03a26256fe9e18dcf723683ef8600e386c74f7ad436ce2b025ef423a5340e9",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon Moon complete 9-clause row",
+        "Witte PDF218 Jupiter+Poseidon Moon row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-059",
+      "path": "wiki/activations/jupiter-poseidon-equals-neptune.md",
+      "queue_index": 90,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "f96cc96c060a470fbf8235a493f1899b132488738b3958d6741ed6b92fd09426",
+      "source_entries_sha256": "3a4812dc0d3bd18332cb61a13c491fa183759961c57d8e83ebb8a531a39d791d",
+      "owner_record_sha256": "f20c6a86fb98dcf472c51f0cb874ab9c1147e7b556def1b7bf80fcc29b4e165b",
+      "actual_locators": [
+        "ABC printed347/PDF172 Jupiter+Poseidon Neptune complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Neptune row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's air and water examples specify no technical or medical setting."
+      ]
+    },
+    {
+      "id": "A-060",
+      "path": "wiki/activations/jupiter-poseidon-equals-pluto.md",
+      "queue_index": 91,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "7bbbd8847bcfd5cee7412e9a2d4094fa4b389ccb86c81a9b4522a542e8cee6ff",
+      "source_entries_sha256": "d8ce7feb98d7d8a6ec3224a8491f7942964be109174f47511fec914c136197c2",
+      "owner_record_sha256": "fb3bd24542bebc06f2cd90512e71cdb3160891618dad5129e76086936bedba36",
+      "actual_locators": [
+        "ABC printed347/PDF172 Jupiter+Poseidon Pluto complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Pluto row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": [
+        "Witte PDF218 prints “Happy development or reason, intelligence, wisdom and conscience”; the awkward or remains unchanged."
+      ]
+    },
+    {
+      "id": "A-061",
+      "path": "wiki/activations/jupiter-poseidon-equals-saturn.md",
+      "queue_index": 92,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "a5ec5eabdefe52361fe26f666364c9309845bab48152eeccd9567a91d2ebc19e",
+      "source_entries_sha256": "7fa559cb6e7cf8e42728fed9a5d253bfc096fbb6c03e667712f4c1051ae49292",
+      "owner_record_sha256": "67f7c5653044423f5e0a9656411b367658fddf457776bb0e8e4eb6c6bc97bbab",
+      "actual_locators": [
+        "ABC printed347/PDF172 Jupiter+Poseidon Saturn complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Saturn row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's Rechts-Probleme durchgeistigen gives no specific legal or intellectual method."
+      ]
+    },
+    {
+      "id": "A-062",
+      "path": "wiki/activations/jupiter-poseidon-equals-sun.md",
+      "queue_index": 93,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "14b8b531cc19cf6a64d693154ec6716326fd6e226253d42bb7201302d4683fc6",
+      "source_entries_sha256": "9c44285d6803257c24f7d969c7ca71deee0d030b3984611d24697b29dc4d2ad4",
+      "owner_record_sha256": "8f41d661950fce75eb65316012076ca09f9335bcc4a5faf611beddc0d59c3f7c",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon Sun complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Sun row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-063",
+      "path": "wiki/activations/jupiter-poseidon-equals-uranus.md",
+      "queue_index": 94,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "ebed66e8f09ad62031f005be8bb7365f2d46ca8dc143219e067d17f48b1096ba",
+      "source_entries_sha256": "a8dc8c61cc5c56e8ebd9645b481862c1503325d4a63b8745d8c3d66b953d2aca",
+      "owner_record_sha256": "5cc911c15d80dc3f5c92336ed1a3710373919a78b1b864dcbdbb1a92c313a4f1",
+      "actual_locators": [
+        "ABC printed347/PDF172 Jupiter+Poseidon Uranus complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Uranus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's legal event is not specified more concretely."
+      ]
+    },
+    {
+      "id": "A-064",
+      "path": "wiki/activations/jupiter-poseidon-equals-venus.md",
+      "queue_index": 95,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "9ff577c65e0f885e3543f78c0d3e412a193b55bf48aee9f5e8cedcc84ca99022",
+      "source_entries_sha256": "9376a1a6ea53c2d8efae897bcb4a338deaa4b7b3232d4001289bdcdccc1738a4",
+      "owner_record_sha256": "b874dfb3be8cd56fbcd1f7f72bce9380990419fb5810d8fba47bd67795bb8780",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon Venus complete 8-clause row",
+        "Witte PDF218 Jupiter+Poseidon Venus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-065",
+      "path": "wiki/activations/jupiter-poseidon-equals-vernal-point.md",
+      "queue_index": 96,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "66959960bb5333496785c0f4d734406ed29826a23ecea128d581d1e6f4349f8b",
+      "source_entries_sha256": "efcd0f263631e41c5464c45c764c43332fe0dc632e2dc47259d9179132dffc6a",
+      "owner_record_sha256": "53199e9e8da7f32d158c0d5fdb171a87db315dad3bd847c366bdef8cfb4dc02d",
+      "actual_locators": [
+        "ABC printed346/PDF172 Jupiter+Poseidon Vernal Point complete seven-clause row before MC",
+        "Witte PDF218 Jupiter+Poseidon Vernal Point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-066",
+      "path": "wiki/activations/jupiter-poseidon-equals-zeus.md",
+      "queue_index": 97,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_019_020",
+      "canonical_sha256": "1da5c0a9e7afa75512a284b728434ca1b0114ffcead145b2916081791005ffbb",
+      "source_entries_sha256": "71907e1180282568ea95effd8d6569aaaadf642777c7f54b860441f4ec90a347",
+      "owner_record_sha256": "8ae0ccf8fc1bc404a4e2974c48248f76b489a3ff922b87b6576e631607e85812",
+      "actual_locators": [
+        "ABC printed347/PDF172 Jupiter+Poseidon Zeus complete nine-clause row",
+        "Witte PDF218 Jupiter+Poseidon Zeus row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-abc-pdf172.png",
+          "sha256": "b63ff1dc5aa314a2a0d1f3a548761f60e34c13a4f4fdbf14df5e8438a3d764bc"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-A2-witte-pdf218.png",
+          "sha256": "fc4228265196409581bc17be0332259a53c6ddf2d3785978e2fd6ea4685a05a0"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-067",
+      "path": "wiki/activations/jupiter-saturn-equals-admetos.md",
+      "queue_index": 98,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "f15224966d798b24ceb59eebc94affcdd195e25894243cf621516a930ff281e4",
+      "source_entries_sha256": "4f2cae8a54d0c94bd055d8880af39149e7fd3a3a7299bd75816d2d5bbc0209f7",
+      "owner_record_sha256": "389c7ac4e2fe569fab995f4b0b937dac6e60b462aa724327dcf58ebabb8ab02f",
+      "actual_locators": [
+        "ABC printed325/PDF161 Jupiter+Saturn Admetos complete seven-clause row; prior author actual raw proof reused",
+        "Witte PDF207 Jupiter+Saturn Admetos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+          "sha256": "8afae0e83a5f257335a1fde041cc1f20e28fd117f46acf552a44b0acb0859ccd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png",
+          "sha256": "7403fc248198255cafdb34352ffa3aa00a5beddb6f64738360f34c5e62b06ede"
+        }
+      ],
+      "remaining_limits": [
+        "ABC printed325/PDF161 does not explain the precise force of gründliche Rechts-Probleme (thorough legal problems); retained literally."
+      ]
+    },
+    {
+      "id": "A-068",
+      "path": "wiki/activations/jupiter-saturn-equals-moon.md",
+      "queue_index": 99,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "a4ad031af8519197c69865d68fbd2f0ff42ff65a71325935d57cc564f63fb948",
+      "source_entries_sha256": "3ede054ceccc1662bc31122dade9ce492b15764cd7a86f4e62466ab5490fe204",
+      "owner_record_sha256": "46854f18411d6a88e3bf945d2ec8c2713a1ee7d2c91ec3cd36c9f515b920d3ea",
+      "actual_locators": [
+        "ABC printed324/PDF161 Jupiter+Saturn Moon complete eight-clause row distinct from Node; prior author actual raw proof reused",
+        "Witte PDF207 Jupiter+Saturn Moon row, genuinely printed incomplete or from."
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+          "sha256": "8afae0e83a5f257335a1fde041cc1f20e28fd117f46acf552a44b0acb0859ccd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png",
+          "sha256": "7403fc248198255cafdb34352ffa3aa00a5beddb6f64738360f34c5e62b06ede"
+        }
+      ],
+      "remaining_limits": [
+        "Witte PDF207 prints “Fortunate separation from a woman or from.” as an incomplete phrase; the absent object remains unexpanded."
+      ]
+    },
+    {
+      "id": "A-069",
+      "path": "wiki/activations/jupiter-saturn-equals-node.md",
+      "queue_index": 100,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "4304907f47ad81d1c339fe163c78ba8d0e3d8d0bc9f4f5cb45477e5cde73a492",
+      "source_entries_sha256": "ad665ef007322e179087ff4bedb7ccbeec35e7e26b6758216cdaa2b5b7109fe2",
+      "owner_record_sha256": "c91f79e6aa595f012682572423553fda03c3545b5fd5560d5779c48857c1ef10",
+      "actual_locators": [
+        "ABC printed324/PDF161 Jupiter+Saturn Node complete seven-clause row; prior author actual raw proof reused",
+        "Ebertin printed227/PDF229 entry0791 complete opening Satisfaction",
+        "Sandbach PDF79 Jupiter/Saturn Node paragraph, printed Seeing out retained"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+          "sha256": "8afae0e83a5f257335a1fde041cc1f20e28fd117f46acf552a44b0acb0859ccd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-ebertin-p229.png",
+          "sha256": "f24735b4dda28ccfedf6d818efa90a8fc63867a7be6d2d742fc79b60855c738f"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-sandbach-p79.png",
+          "sha256": "f4194d7e7c571badaa3591e4421a10448d506639362d4441aee2c7e0ef97ed1b"
+        }
+      ],
+      "remaining_limits": [
+        "Sandbach PDF79 prints Seeing out groups; this awkward source wording is retained as printed."
+      ]
+    },
+    {
+      "id": "A-070",
+      "path": "wiki/activations/jupiter-saturn-equals-vernal-point.md",
+      "queue_index": 101,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "f86a85bbbe644ba1e978c9ffc9bb330784c6efff873293345c80779627e06204",
+      "source_entries_sha256": "7da04987bb9da28e279233556929c981f9c39850e09e1503d66fe1ce00731142",
+      "owner_record_sha256": "ac46d1eddc10dfdb23f59b5063f812eb55f831693a9660d4b92c0bd3a3d65981",
+      "actual_locators": [
+        "ABC printed324/PDF161 Jupiter+Saturn Vernal Point complete six-clause row before MC; prior author actual raw proof reused",
+        "Witte PDF207 Jupiter+Saturn Vernal Point row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p161.png",
+          "sha256": "8afae0e83a5f257335a1fde041cc1f20e28fd117f46acf552a44b0acb0859ccd"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p207.png",
+          "sha256": "7403fc248198255cafdb34352ffa3aa00a5beddb6f64738360f34c5e62b06ede"
+        }
+      ],
+      "remaining_limits": [
+        "ABC's compensation for pain specifies no injury or particular legal procedure."
+      ]
+    },
+    {
+      "id": "A-071",
+      "path": "wiki/activations/jupiter-uranus-equals-mc.md",
+      "queue_index": 102,
+      "auditor": "activation_review_063_066",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-019.jsonl",
+      "original_reviewer": "activation_handoff_016_022",
+      "canonical_sha256": "ba2ef1c164d93514c35b363e4611bc10462422257e6864204c125b4b7f0ce4c8",
+      "source_entries_sha256": "c3ded8eeabea373c57a91048d6ad4de286b843080ff7b185fba42159353ed623",
+      "owner_record_sha256": "0c25b6f5e6911269fb54988d67dcce7d54c656c87fd58f050d1ea7fa963e307c",
+      "actual_locators": [
+        "ABC printed326/PDF162 Jupiter+Uranus MC complete eight-clause row; prior author actual raw proof reused",
+        "Witte printed212/PDF208 Jupiter+Uranus MC row",
+        "Sandbach PDF81 Jupiter/Uranus Midheaven paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-abc-p162.png",
+          "sha256": "e9c31601591e2605cc5bdcb43f143778878a13012e188a779e4c9e6f73535256"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-019-witte-p208.png",
+          "sha256": "ed46f0a56f21ddd82d6a89095e85d94daf4fc6b0b5557caf3b7ecaf5191d4cee"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/handoff-017-sandbach-p81.png",
+          "sha256": "9c52e7e184b4be2454d10cd4e949f360c029c15c719a315d4133427121469389"
+        }
+      ],
+      "remaining_limits": []
+    }
+  ],
+  "already_independently_accepted_bindings": [
+    "wiki/activations/jupiter-neptune-equals-admetos.md",
+    "wiki/activations/jupiter-neptune-equals-apollon.md",
+    "wiki/activations/jupiter-neptune-equals-asc.md",
+    "wiki/activations/jupiter-neptune-equals-cupido.md",
+    "wiki/activations/jupiter-neptune-equals-hades.md",
+    "wiki/activations/jupiter-kronos-equals-pluto.md"
+  ],
+  "already_accepted_receipt": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-final6-A1-receipt.json"
+}

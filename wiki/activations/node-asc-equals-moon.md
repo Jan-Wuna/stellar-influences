@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Moon`
 - Astronomicon formula: `g/Asc = R`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,11 +39,15 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 Acquaintances with females or people. Connections resulting in public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source reference: printed p. `104`, PDF p. `51` (entry).
 
 #### ABC Entry
 
@@ -49,11 +55,15 @@ Mediation by women with others, women's connections in the local environment, an
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `301`, entry code `1084`.
+
 #### Ebertin Entry
 
 Desire to establish an inner bond or contact with other people, ability to gain an understanding of other people both by instinct and feeling, sympathetic understanding of other people. The establishment of contact with others. A female acquaintanceship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `119` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The emotional need to seek out connections with others that reinforce one’s id
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356`, PDF p. `357` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Doubts which arise about the sincerity of effort you give or receive from groups
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: inner contact and sympathetic understanding of others through feeling.
+- psychology: identity-reinforcing ties may sustain old patterns; doubts about sincerity are also stated.
+- body/health: no specific bodily condition is supplied.
+- social/relationship: family influence, groups, women and other peoples are source settings.
+- events/manifestations: meeting others, mediation and establishing contact are named.
+- conflicts/notes: feeling nurtured and actual support for growth differ in Sandbach; generalized dependency is not established.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin emphasizes sympathetic understanding. Sandbach questions whether nurturing-feeling ties support growth, and Munkasey adds doubts about sincerity; these qualify rather than erase the emotional-contact theme.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Moon`: warmth, familial closeness, and the ability to create emotional cohesion in the immediate environment. Main caution: dependency: identity can become mood-bound, overattached, or too eager to secure safety through closeness and approval.
+Node/Asc = Moon emphasizes contact understood through feeling. [Ebertin](#ebertin-entry) names an inner bond and sympathetic understanding, while [Witte](#witte-entry) and [ABC](#abc-entry) give personal or public acquaintances and mediation. [Sandbach](#sandbach-entry) asks whether identity-reinforcing ties support growth or keep one attached to the past (PDF p. 119). [Munkasey](#munkasey-entry) adds doubts about sincerity and influence within families or groups. Emotional closeness therefore carries questions about its effect, without a general judgement of dependency or approval-seeking.
 
 ## Links
 

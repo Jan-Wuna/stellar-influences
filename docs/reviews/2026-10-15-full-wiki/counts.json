@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-10-15T16:34:06.890362+00:00",
+  "live_reviewed": 7491,
+  "templates_reviewed": 6,
+  "live_outcomes": {
+    "changed": 7489,
+    "unchanged": 2
+  },
+  "template_outcomes": {
+    "changed": 6
+  },
+  "live_with_recorded_limits": 1254,
+  "unreviewed": 0
+}

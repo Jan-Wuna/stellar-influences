@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Sun`
 - Astronomicon formula: `X/MC = S`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 67.
+
 #### Witte Entry
 
 To become enraged or excited. To be physically excited.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 78; PDF p. 38.
+
 #### ABC Entry
 
-Exciting minute of the day, dynamic soul of a man, my husband is nervous, my rhythm center, my daily restlessness, emotional arousal of a man, soul impulses of man, and restless day
+An exciting minute of the day, a person's dynamic soul, my husband is nervous, my rhythm center, my daily unrest, emotional arousal of a man, soul impulses of a person, a restless day for me.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 278; PDF p. 280; entry code `0987`.
 
 #### Ebertin Entry
 
 Emotional and physical unrest and mobility, inclination to become easily angered, lack of self-control. A nervous physique. An excitable man.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 109 (exact entry; chapter starts on PDF p. 108).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Determination to proceed with your activities despite opposition to your ideas o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 67), [ABC](#abc-entry) (printed p. 78; PDF p. 38), [Ebertin](#ebertin-entry) (printed p. 278; PDF p. 280; entry 0987), [Sandbach](#sandbach-entry) (exact PDF p. 109), [Munkasey](#munkasey-entry) (printed p. 324).
+
+- core meaning: Personal determination and excitement around independence. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Anger, resolve, and the need to act as one's own authority. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Witte and Ebertin describe physical excitement and a nervous physique; these are historical associations. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Opposition to one's plans and the wish for recognition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Continuing independent activities and pursuing freedom or reform. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Older entries use male examples; they do not restrict the whole formula to men or establish a medical condition. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Personal resolve and independent work coexist with anger or physical excitement. The male examples are historically attributed and do not restrict the whole formula to men or establish a medical condition.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Sun`: unconventional leadership, awakened purpose, and the courage to make outer life reflect one's true nature. Main caution: self-willed disruption: pride in independence can provoke unnecessary breaks with support, continuity, or authority.
+Sun specifies Uranus/MC through personally embodied excitement and determination to follow an independent course. The need for freedom in work and recognition for originality can sustain activity despite opposition, while anger and loss of self-control remain in the older entries. Independence and agitation are therefore both represented, without assuming that a forceful personal direction is always constructive. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

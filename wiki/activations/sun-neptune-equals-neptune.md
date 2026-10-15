@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Neptune`
 - Astronomicon formula: `S/Y = Y`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -41,22 +43,21 @@ Increased need to use artificial means or drugs to escape from pressures or dema
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Artistic inspiration alongside efforts to prevent confusion or escape under pressure.
+- psychology: A wish to evade demands, balanced by work to keep deeds and information clear.
+- body/health: Munkasey mentions drugs as a possible means of escape; this is an attributed possibility, not a recommendation or diagnosis.
+- social/relationship: No specific relationship pattern is established.
+- events/manifestations: Artistic insight or achievement; possible garbling of important actions or information.
+- conflicts/notes: This repeated-factor activation has one entry; do not infer an independent three-factor theme.
 
 ## Contradictions
 
-- None recorded yet.
+- The single entry places inspiration and escape side by side without specifying which predominates. It supplies no second account against which to test disagreement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Neptune`: Increased need to use artificial means or drugs to escape from pressures or demands; the work one put into not confusing or garbling important deeds or information; additional inspiration for artistic insight or achievements.
+Neptune specifies the Sun/Neptune axis, in this repeated-factor entry, by intensifying the need to distinguish artistic inspiration from escape under pressure. [Munkasey Entry](#munkasey-entry) connects added artistic insight with the work of keeping important actions and information from becoming confused. Its reference to drugs is one attributed escape scenario, not a health inference or advice.
 
 ## Links
 

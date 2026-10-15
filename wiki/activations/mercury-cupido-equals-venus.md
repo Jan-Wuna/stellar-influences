@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Cupido](../axes/mercury-cupido.md)
 - Triad hub: [Mercury Venus Cupido](../triads/mercury-venus-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Cupido`
+- Source locator: PDF p. `166` (complete oriented entry; scan checked; no printed page number visible).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Acquaintances through speeches, language, music, social conversation or the fami
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Cupido`
+- Source locator: printed p. `254`, PDF p. `126` (entry).
+- Text basis: raw PDF p. `126` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Thoughts of a love community, common peace language, common language about love, common youth joys, talk about the beauty of the arts, harmonic media community, and young love community
+Thoughts about a community of love, shared peace conversations, shared conversations about love, shared pleasures of youth, conversations about the beauty of art, a harmonious media community, and a young community of love.
+
+## Comparative Schema
+
+- core meaning: Social or artistic exchange is associated with acquaintances, craft, and adornment.
+- psychology: Thoughts about love, peace, and artistic beauty are ABC emphases.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Speech, music, family, and conversation are routes to acquaintances.
+- events/manifestations: Craft, ornament-making, jewelry, peace talks, and love conversations are named.
+- conflicts/notes: Relationship and craft examples are both retained without assuming one causes the other.
+
+## Contradictions
+
+The entries supply different examples within this orientation; no direct contradiction is established, and repeated themes are not proof of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Venus` sweetens the axis through acquaintance, ornament, and artful making.
-- Chart expression: relationships formed through speech, music, family, or sociable conversation, and to thought expressed through crafts, adornment, jewelry, and pleasing artistic detail.
+In `Mercury/Cupido = Venus`, Venus specifies Mercury/Cupido through affectionate or pleasing shared expression. [Witte](#witte-entry) describes acquaintances made through speech, music, family, or social conversation and also gives craft, ornaments, and jewelry. [ABC](#abc-entry) adds shared peace and love conversations and artistic beauty. Connection and adornment form the recorded range, rather than a promise of romance.
 
 ## Links
 

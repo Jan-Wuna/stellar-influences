@@ -12,7 +12,7 @@ factors:
   - MC
 aliases: []
 source_pages: []
-updated_at: 2026-04-22
+updated_at: 2026-10-15
 ---
 
 ## Bibliographic Metadata
@@ -21,7 +21,11 @@ updated_at: 2026-04-22
 - Title: *Midpoints*
 - Vault file: `Stellar Influences Vault/Book_2007_Don Mcbroom_Midpoints.pdf`
 
+The title leaf (one-based PDF p. 1) gives Don McBroom, *Midpoints: Identify & Integrate Midpoints Into Horoscope Synthesis*, in the *Special Topics in Astrology* series, and names Llewellyn Publications, Woodbury, Minnesota. It is followed directly by Contents (PDF p. 2). The available frontmatter does not state an edition or publication date.
+
 ## Scope Notes
+
+Current wiki attribution, checked 2026-10-15: 0 factor pages, 2 axis pages, 2 activation pages and 2 structural triad hubs. Hub counts follow the union of their linked activation sources; they add no merged interpretation.
 
 - This source is a methodology-heavy midpoint text.
 - The live ingest is intentionally limited to explicit doctrine on the `Sun/Moon` axis, the `Ascendant/Midheaven` axis, and one pilot focal-point activation on each axis.
@@ -30,6 +34,8 @@ updated_at: 2026-04-22
 - Methodology material is preserved separately in [Midpoint Methodology Layer: McBroom](../derived/midpoint-methodology-layer-mcbroom.md) so chart-use workflow stays out of canonical formula pages.
 
 ## Factors Covered
+
+These are participants in the two admitted axes and their Mercury activations. This pilot does not establish standalone McBroom factor chapters.
 
 - [Sun](../factors/sun.md)
 - [Moon](../factors/moon.md)
@@ -40,18 +46,19 @@ updated_at: 2026-04-22
 ## Axes Covered
 
 - Canonical axis pages updated or created: `2`.
-- Browse [Index](../index.md) or `wiki/axes/` for the pilot pages touched by this source.
+- Pilot axes: [Sun/Moon](../axes/sun-moon.md#don-mcbroom---midpoints) and [Asc/MC](../axes/asc-mc.md#don-mcbroom---midpoints).
 
 ## Activations Covered
 
 - Canonical activation pages updated or created: `2`.
-- Browse [Index](../index.md) or `wiki/activations/` for the pilot pages touched by this source.
+- Pilot activations: [Sun/Moon = Mercury](../activations/sun-moon-equals-mercury.md#don-mcbroom---midpoints) and [Asc/MC = Mercury](../activations/asc-mc-equals-mercury.md#don-mcbroom---midpoints). These exact orientations are the canonical formula answer pages.
 
 ## Methodology Layer
 
 - Derived method note: [Midpoint Methodology Layer: McBroom](../derived/midpoint-methodology-layer-mcbroom.md)
 - Use this note for midpoint identification, 90-degree organization, focal-point priority, unknown-birth-time handling, and timing workflow.
 - Do not treat the methodology layer as source doctrine for any specific formula.
+- Its separate existence does not expand this catalog's two-axis, two-activation canonical ingest or introduce timing layers into those pages.
 
 ## Ingestion History
 

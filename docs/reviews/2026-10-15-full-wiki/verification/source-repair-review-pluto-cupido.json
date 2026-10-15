@@ -1,0 +1,192 @@
+{
+  "scope": "All20 new reference pairs individually checked. Witte full paragraphs match raw257. ABC glyphs and printed408/409 folios checked on actual203 scan. Three grossly contaminated source bodies remain material-unresolved. Other retained defects are explicitly outside locator-delta approvals.",
+  "raw_page_text": "® + 4\nPLUTO + CUPIDO\nChanges in the family like betrothal, wedding, birth, death. Tradition. Changes \nin the human society, human partnership. To clear up something in common with \nothers. Development of art. Growing club. Ancestors and descendants.\n- T5 The evolving structure of human society. General social transformations.\n- M Taking part in the transformation of a community. To become a member of \nanother club. Change in the social surroundings.\n- /\\ Change in social conditions, relations. Transformation, changes in the social \nenvironment.\n- 0 To be a member of an association. The man who is or will be placed in changed \nsocial surroundings, who has to cope with such things daily. To be an active \npartner in building up an organization.\n- ]) Passing transformation. A people change its face, it changes the look and the \nbeing. Changes in public conditions.\n- Q To be connected with changed conditions of being.\n- ^ The thoughts are on the changes in the family, or on general social conditions.\n- 9 Pleasant transformation and change of familiar or other social relations.\n- 0* To take part in social progress. Social activities with others. Incorporations. The \nwork of the civil administration.\n- i|_ Happy and fortunate family, Happy and fortunate development of familiar and \nsocial relations.\n- ^ Parting from the family through marriage, divorce, moving or death. Leaving the \ncivil service or a corporation.\n‘ V ^) Surprising change of family conditions. Sudden unconnected transformation of \nhuman relation. Sudden transformation of a community.\n- ¥ Dissolution of a family or partnership. Uncertain social and family conditions. \nTo quit a corporation or society.\n- 5 Sad social and family conditions. Welfare department.\n■ i Family increase. Members of a family who are soldiers. Army unites in the state \nof development. Military tradition.\nT Development and set-up of a system of government. The form of government. \nRebuilding of a state.\n‘ 4 To build up a scientific community from small beginnings.\n■ ? To retire into oneself, to become a hermit. Complete transformation and change \nin social position or social circumstances or social surroundings.\n\" X Great increase in families and communities. For a nation or a country it signifies \nincrease of the population and land or territory. The social surroundings \nexperience a drastic change.\n■ X Building or developing of a philosophical society.\n",
+  "checks": [
+    {
+      "path": "wiki/activations/pluto-cupido-equals-admetos.md",
+      "before_sha256": "3d9138b247cc134ba2e63bc289a2cf14e95a4dacdc59a592526ef098111e6dff",
+      "after_sha256": "1f0f602f55146742433ecc4c7a45a5fd195ea38539b8af5de733b5c9fb0670c4",
+      "witte_entry": "To retire into oneself, to become a hermit. Complete transformation and change in social position or social circumstances or social surroundings.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-apollon.md",
+      "before_sha256": "5a75509a6e9bed8a23e4d79b8ec042b4878b0c5b0e20ed1621d22a680ed56298",
+      "after_sha256": "bebea645849369adb5f77e0a084aea874d9a837b765284f1f79e84a912c2ba61",
+      "witte_entry": "To build up a scientific community from small beginnings.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-asc.md",
+      "before_sha256": "eb0151f206e625951638ffd2625014549a17fabbac452753c9e45f9bd1e417b4",
+      "after_sha256": "d8011d8b367cc9c6efa467c64a42349f82eecc8619abf4e56c5fbb5e883063ec",
+      "witte_entry": "Change in social conditions, relations. Transformation, changes in the social environment.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-hades.md",
+      "before_sha256": "c0ab825f8c1338f241c55355a4e7f9f4ccfe587b9d4fdf564b13bf8490841496",
+      "after_sha256": "358ba46a0161ea88eed31113a3cb33f118b7c98f5fe14a958456748b04181ab8",
+      "witte_entry": "Sad social and family conditions. Welfare department.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-jupiter.md",
+      "before_sha256": "5ae6f62b92ff284fe92ae61308370398654b2bdfd0e9deab0d5bc09173a1d3ce",
+      "after_sha256": "03f931c5fab11a82c81645f558c6c2b1e40bf8524cc0c2dcd27dfb22ee7986b6",
+      "witte_entry": "Happy and fortunate family, Happy and fortunate development of familiar and social relations.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+      "before_sha256": "96c1afb3916bbc915b23cf76864232f76b404e66fc2f2bd834154e69b68c4e61",
+      "after_sha256": "bc8b0ac3a738391e97f6a5ade44a9ca7e487f68ead7c546ac3db3527ad0890f0",
+      "witte_entry": "Development and set-up of a system of government. The form of government. Rebuilding of a state.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mars.md",
+      "before_sha256": "65ce3c2489e0ea80def67249c99045c8aa259db0cfa6c0afe082e98457811942",
+      "after_sha256": "751d13687d2bc881a6c56435974754a634b9d29838488af8ef98df7f556838df",
+      "witte_entry": "To take part in social progress. Social activities with others. Incorporations. The work of the civil administration.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mc.md",
+      "before_sha256": "f03202f8af31be7fe6c42180f4a42bd9d4a9f82035b88fadc5ae8b7ce9a08b03",
+      "after_sha256": "345af5ddf885ea3af06081c620e6f9ee6991b1dff55bb13790205685fdbba592",
+      "witte_entry": "Taking part in the transformation of a community. To become a member of another club. Change in the social surroundings.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mercury.md",
+      "before_sha256": "7632028be53fc227ced1333f7a353b129ac54a6b81b4a8d634911c5757af3a6e",
+      "after_sha256": "0c070ef5344a5b3d99846cc80639a288c00c9be96eeebae6f39c389612fa1158",
+      "witte_entry": "The thoughts are on the changes in the family, or on general social conditions.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-moon.md",
+      "before_sha256": "325bdcd9de16fc21cf229908101d5201627c6fad78546f3bd3f35a48cc3c49a8",
+      "after_sha256": "05d5b3249e0b8e12d7b3c3d532162c649fe208df84096ea443ea96f1c11333c5",
+      "witte_entry": "Passing transformation. A people change its face, it changes the look and the being. Changes in public conditions.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+      "before_sha256": "e8fa13e35c48a9ef542c08b32fe463a85847320f933df3606915cbe0b59dec2c",
+      "after_sha256": "bb3a6c6fde4e3fa7a8c1cf9c557306f6a2427f11fe60f268e009572b3f6f4ea9",
+      "witte_entry": "Dissolution of a family or partnership. Uncertain social and family conditions. To quit a corporation or society.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-node.md",
+      "before_sha256": "6d2eb8c45feb6f7544389c12479be82ba3f69160a207028968602f98de8970c2",
+      "after_sha256": "ab1d7948373b83e70024c858f26826c35a6ce062653d69540bbbfd29e87b89b7",
+      "witte_entry": "To be connected with changed conditions of being.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-poseidon.md",
+      "before_sha256": "b9a94389e80a5ee21912817244acf86279d07fc6dea05f84608e441b9a3c915a",
+      "after_sha256": "4d3b42f9190d63f2d543f0b7ee9d952f88346f1a92aca042bc709cfb07059988",
+      "witte_entry": "Building or developing of a philosophical society.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-saturn.md",
+      "before_sha256": "df35ab259884a8fc4f09d4b5dca1cef2a91050a68d1aa291e94e9962d30104d4",
+      "after_sha256": "91883f94f98020ac82675ed0c21cb073b0bb804c7c25c14ab16a2501844b1cc1",
+      "witte_entry": "Parting from the family through marriage, divorce, moving or death. Leaving the civil service or a corporation.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-sun.md",
+      "before_sha256": "c7db55aa5b5220b0c3bc67e4f705c9071aa34abcf180cb43d788ad5853dd8158",
+      "after_sha256": "bc2efedb3789dde37463d6259ebea85e8c272323a85f144d6f292f768fb7787c",
+      "witte_entry": "To be a member of an association. The man who is or will be placed in changed social surroundings, who has to cope with such things daily. To be an active partner in building up an organization.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+      "before_sha256": "7bffddf38d7b4c3173386fd5cb039db48d3eb6c3107e44a9b8fcbb9317757628",
+      "after_sha256": "27388bda47f61657f06eb6e8bdd639a44472d34e1a24b5fc9869cb1fcc4d9041",
+      "witte_entry": "Surprising change of family conditions. Sudden unconnected transformation of human relation. Sudden transformation of a community.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-venus.md",
+      "before_sha256": "03db9b26addc9e1fa7009a149b1ace19a0cd6c239f118107e4a7d94420eda062",
+      "after_sha256": "da61ab7e4586f4e2f67227ed09c2bf7d76a59af22fd8defc07e259ac6f74e65c",
+      "witte_entry": "Pleasant transformation and change of familiar or other social relations.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+      "before_sha256": "f23ae0a4fb1086b5eda6f53fef033178879a7eeb8b54845632423d7028fd0d80",
+      "after_sha256": "5d87d68600e87c6f0045d0d2b3ef93b141a9387d2f1d642fa2f2e05eb0a412a7",
+      "witte_entry": "The evolving structure of human society. General social transformations.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vulcanus.md",
+      "before_sha256": "0b21568490dc5d8a5c4c9c8d994409f78d6c493b989fdeaf4b3bc8dba3970a28",
+      "after_sha256": "0d2936789cce6b3915250505cfb5f7581b7fdbfe8d28eed9f5237897c72853d3",
+      "witte_entry": "Great increase in families and communities. For a nation or a country it signifies increase of the population and land or territory. The social surroundings experience a drastic change.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+      "before_sha256": "d55b7649af9efe337c9bb18aecffddbe695a2fc1ef7f7811b42481bdeaad8ab1",
+      "after_sha256": "4e1b3c5beb68111bc91b705c993acf6712184d08a04b8fb78f2cba49f52cdef5",
+      "witte_entry": "Family increase. Members of a family who are soldiers. Army unites in the state of development. Military tradition.",
+      "direct_raw_full_match": true,
+      "raw_page_text_sha256": "2e38eeaf9a89741fdad9d5449909d21f2d249f91f838d380ff172bb270968387"
+    }
+  ],
+  "material_holds": {
+    "wiki/activations/pluto-cupido-equals-asc.md": {
+      "before_sha256": "eb0151f206e625951638ffd2625014549a17fabbac452753c9e45f9bd1e417b4",
+      "after_sha256": "d8011d8b367cc9c6efa467c64a42349f82eecc8619abf4e56c5fbb5e883063ec",
+      "reason": "The added page locator is numerically correct, but ABC body Community policy and economic and social cohesion is unrelated translation contamination. Actual Asc row on printed408/PDF203 has six local-community/partner/place/art/environment-development clauses. The entire Source Entries section remains materially unresolved pending owning repair.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/axes-018-udo-pdf-203.png"
+      ]
+    },
+    "wiki/activations/pluto-cupido-equals-hades.md": {
+      "before_sha256": "c0ab825f8c1338f241c55355a4e7f9f4ccfe587b9d4fdf564b13bf8490841496",
+      "after_sha256": "358ba46a0161ea88eed31113a3cb33f118b7c98f5fe14a958456748b04181ab8",
+      "reason": "The added page locator is numerically correct, but ABC body Community policy, economic and social cohesion, and structural funds is unrelated contamination. Actual Hades row printed409/PDF203 has five clauses on privation, dangerous development, past development, criminal development and inadequate community development. The complete section remains materially unresolved pending owning repair.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/axes-018-udo-pdf-203.png"
+      ]
+    },
+    "wiki/activations/pluto-cupido-equals-mercury.md": {
+      "before_sha256": "7632028be53fc227ced1333f7a353b129ac54a6b81b4a8d634911c5757af3a6e",
+      "after_sha256": "0c070ef5344a5b3d99846cc80639a288c00c9be96eeebae6f39c389612fa1158",
+      "reason": "The added page locator is numerically correct, but ABC body Community programme, research and development, technological change, and research and technological development is unrelated contamination. Actual Mercury row printed408/PDF203 has six clauses on youth, shared traffic/language development, development conversations, changing youth communities and growing traffic community. The section remains materially unresolved pending owning repair.",
+      "evidence": [
+        "docs/reviews/2026-10-15-full-wiki/verification/axes-018-udo-pdf-203.png"
+      ]
+    }
+  }
+}

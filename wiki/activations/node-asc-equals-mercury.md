@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Asc = Mercury`
 - Astronomicon formula: `g/Asc = T`
 - Axis page: [Node/Asc](../axes/node-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `82` (entry start; one-based).
+
 #### Witte Entry
 
 Local telephone calls. Discussion and mental association with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `104`, PDF p. `51` (entry).
+
 #### ABC Entry
 
-Local relations with youth, thoughts about partner connections, conversations with other veins, young partner connections, opinions about human relationships, Y connect to a young partner, and traffic connections at the place
+Local relations with youth, thoughts about partner connections, facilitating conversations with others, young partner connections, opinions about human relationships, connection with a young partner, and local traffic connections
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `301`, entry code `1085`.
 
 #### Ebertin Entry
 
 Desire and the inclination to seek and receive mental stimuli, demonstration of interest. Sharing the same thoughts with others, studies and research with other people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `119` (entry; chapter starts on PDF p. `118`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A mind strongly influenced by identifying with the past on the one hand, but whi
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NODE/ASCENDANT with Planets and Points`
-- Source page: `356`
+- Source reference: printed p. `356` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ The influence wielded by an effective communicator; expressing your ideas to oth
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: mental contact, communication, shared study and expressing ideas within a social circle.
+- psychology: Sandbach contrasts attachment to old self-concepts with openness to growth.
+- body/health: no specific bodily condition is supplied.
+- social/relationship: advice from friends, communication with groups and young partner ties are explicit.
+- events/manifestations: local telephone calls, research with others and traffic connections are named.
+- conflicts/notes: the passages do not establish that sociable thought must be superficial or scattered.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, Ebertin and Munkasey emphasize communication and shared thought. Sandbach adds a specific tension between old self-concepts and growth, rather than a general judgement about social talk.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc = Mercury`: rapport, mediation, and the ability to build community through speech, learning, and mental flexibility. Main caution: superficial belonging: identity can become too talk-driven, scattered, or adjusted to others' opinions instead of rooted in itself.
+Node/Asc = Mercury concerns connection through thought, conversation and learning. [Witte](#witte-entry) names local calls and discussion; [Ebertin](#ebertin-entry) adds shared study or research. [ABC](#abc-entry) supplies partner conversations and local youth or traffic connections, while [Munkasey](#munkasey-entry) emphasizes communicating ideas and gathering advice or support. [Sandbach](#sandbach-entry) adds either attachment to an old self-concept or openness to change (PDF p. 119). The supported contrast concerns how ideas develop, without equating social conversation with superficiality.
 
 ## Links
 

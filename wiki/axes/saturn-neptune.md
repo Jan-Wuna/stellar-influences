@@ -11,6 +11,8 @@ normalized_axis: Saturn/Neptune
 factor_a: Saturn
 factor_b: Neptune
 related_activations:
+  - Saturn/Neptune = Neptune
+  - Saturn/Neptune = Saturn
   - Saturn/Neptune = Admetos
   - Saturn/Neptune = Apollon
   - Saturn/Neptune = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `W/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SATURN/NEPTUNE`
-- Source page: `287`
+- Source heading: `SATURN + NEPTUNE`
+- PDF page: `222`
 
 #### Pair Summary
 
@@ -90,9 +94,15 @@ Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill heal
 
 #### ABC Pair Summary
 
-intuition in old age, inhibitions in water, concentration on the future, concentration weakness, air problems, and insecurity due to pain
+Sensitivity and patience, intuition in old age, inhibitions in water, concentration on metaphysics, concentration on the future, weakness of concentration, air problems, creeping losses, and insecurity through pain.
+
+- Source locator: printed p. `350`; PDF page `174`, complete bold pair summary.
+- German source: `Feingefühl und Geduld, Intuition im Alter, Hemmungen im Wasser, Konzentration auf Metaphysik, Konzentration auf die Zukunft, Konzentrations-Schwäche, Luft-Probleme, schleichende Verluste, Unsicherheit durch Schmerzen`.
+- Editorial note: English translation checked against the actual scan; historical health and event terms remain attributed source correspondences.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `249`; PDF page `251`, complete pair entry and footnote 54. Repeated extracted title/glyph material is omitted from prose; the footnote's historical claims remain attributed.
 
 #### Principle
 
@@ -112,7 +122,9 @@ Poor, sick or depressed persons.
 
 #### Probable Manifestations
 
-+ Methodical execution of plans, slow attainment of success through intense activity and great painstaking effort. - Painful, or tormenting emotional inhibitions, undermining circumstances leading to a state of illness, neuroses or diseases with causes difficult to ascertain. 54 The "illness axis," Satum/Neptune has been confirmed over and over again both in transit combinations in connection with epidemics and in individual charts. Saturn/Neptune W
++ Methodical execution of plans, slow attainment of success through intense activity and great painstaking effort. - Painful, or tormenting emotional inhibitions, undermining circumstances leading to a state of illness, neuroses or diseases with causes difficult to ascertain.
+
+Footnote 54: The "illness axis," Saturn/Neptune has been confirmed over and over again both in transit combinations in connection with epidemics and in individual charts.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -121,6 +133,8 @@ Poor, sick or depressed persons.
 Turning dreams into reality. The realities of fantasy. Practical dreamers. Practical fantasies. Taking concrete steps to realize your dreams. Envisioning your ideal world and taking the steps to create that world. Dissolving reality. Teaching how to dream. Dream instructors. Dream makers. Dreaming your life. Making it up as you go along. Pretending. Creating illusions in plain sight. The fantasy, in plain sight. What is real and what is an illusion? Real life is an illusion. Reality is an illusion. Reality is malleable. Reality is what you make it. Building your ideal life. "Reality" TV. Blurring the lines between what is real and what is false. Acting your way through life. Glamorizing your reality. Trying to make your life seem more magical than it really is. Otherworldly. Spiritual authority. Spiritual disciplines. Spiritual teachers. Dance, art and music teachers. Skilled musicians. Matter of fact about spirituality. The prac tical application of a spiritual life. The practical application of the dreaming life. Making practical use of dance, music or other artistic skills. Pragmatic fantasies. Using artistic skills in business. Working hard to develop your artistic skills. Work ing hard to develop your spiritual and psychic aptitude. Real life psychics. Materi alism versus spirituality. Inability to reconcile spiritual longings with practical con cerns. Your ideal fantasy life is at odds with your real life. Duties and responsi bilities prevent you from fully taking off into flights of fancy. You feel prevented from pursuing dreams. You feel that you aren't "allowed" to live your ideal life. Something prevents you from letting go. Pessimism and skepticism can prevent you from realizing your dreams. Reality creeps into every fantasy. Fantasy creeps into reality. Everyday life takes on a fantastic narrative. Wanting a storybook life. Fairy tales with life lessons. The slippery slope of success. Hiding from authority. Undermining authority. Weakening established structures. Lack of ambition. Weak authority figures. Weak boundaries. Lack of boundaries. Deceptive authorities. Authority in a fog. Seeking to escape responsibility. Slipping through the cracks. Escaping the real world. Going to California to live out your dream of being an actor. Escaping to L.A. Flee ing from authorities. Attempting to get away with it. Dropping out. Feelings of futil ity. Why bother? Pathetic. Listless. Feeling that other people put their responsi bilities on you. Taking on too many duties out of an inability to set appropriate boundaries. Feeling responsible for the weak, ill and people who are down on their luck. Empathy for those dealing with depression. Having a hard time coping with life. Having compassion for those who also have a hard time coping with life. Compassionate authority. Relinquishing authority. Giving up. Inability to get your act together. Victims of authority. Being victimized by your father. Dad acts like a victim. Having a weak father. Dad disappeared. Dad was a drunk. Wanting to escape from your fa. ther. Idealizing Dad. Dad was an actor. Con men. Victims of "the system." Tragic figures. Sad music. Depressing fantasies. Self-pity and depression mixed together. Victim mentality and pessimism mixed together. Confusion and rigidity mixed to gether. Overly sensitive to harsh reality. Inability to take control of your own life. Getting involved with shady men. Seriously shady dealings. Watching the life you have built melt beneath your feet. Getting swept up in someone else's attempts to structure your life. Looking for someone to give structure to your life. Looking for someone to help you get your feet on the ground. Floating. Ungrounded. Tran sient. Ephemeral. Free form. Slurry. Fear of the unknown. Afraid of dissolving into nothingness. Master of Illusion. The conjunction of Saturn and Neptune occurs approximately once every 36 years. Re cent conjunctions of these planets were in 1917, 1952 and 1989. The next conjunction will occur in 2025.
 
 ### Charles Carter - The Astrological Aspects
+
+- Source locator: printed/PDF pp. `67–69`, from the Saturn/Neptune heading through its Examples, ending before Uranus/Neptune. The printed repetition `will be probably be` is retained.
 
 #### Harmonious Aspects
 
@@ -234,14 +248,17 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: the effort to give ideals practical form while structure, confidence, or boundaries may dissolve.
+- psychology: foresight, painstaking effort, spiritual discipline, and compassion coexist with fear, pessimism, confusion, or evasion of responsibility.
+- body/health: several authors historically associate the pair with chronic or difficult-to-diagnose illness; this is attributed doctrine, not diagnostic evidence. Ebertin's embedded first-point-of-Aries formula is a separate activation.
+- social/relationship: sacrifice and caring for vulnerable people, the need for realistic support, or deceptive and blurred responsibilities in relationships.
+- events/manifestations: practical artistic or spiritual work, patient planning, creeping losses, fraud or its exposure, and difficulties involving gas, air, or water.
+- conflicts/notes: Carter's aspect categories are conditional; their abilities and liabilities are not universal midpoint outcomes. ABC's complete nine-clause summary has been restored against the scan. Falis's final conjunction dates remain a historical source statement rather than a current timing guide.
 
 ## Related Activations
+
+- [Saturn/Neptune = Neptune](../activations/saturn-neptune-equals-neptune.md)
+- [Saturn/Neptune = Saturn](../activations/saturn-neptune-equals-saturn.md)
 
 - [Saturn/Neptune = Admetos](../activations/saturn-neptune-equals-admetos.md)
 - [Saturn/Neptune = Apollon](../activations/saturn-neptune-equals-apollon.md)
@@ -267,15 +284,17 @@ Diseases which are difficult to diagnose or of a long lasting nature; weakens th
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Careful self-management, sacrifice, and service coexist with evasion, delusion, and neglect. Carter distinguishes aspect conditions, while the other entries describe different possible expressions; this does not establish a single inevitable character.
+- Carter's gendered statement about married women and his father examples remain historical source claims. Ebertin's illness assertions and Sandbach's psychic explanation of physical problems remain their own claims.
+- ABC's evidence contains `F.;dngd1iM 1.rnd Geduld` and `M1::t.21phy.sik`, with other wording omitted from the local English entry (printed pp. 350–351; PDF 174). Damaged material is excluded from synthesis.
+- Carter's map locator 67 uses printed-with-PDF-fallback metadata and is not asserted as an exact claim page.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Neptune` is the axis of burdened idealism, renunciation, chronic erosion, and the attempt to give practical form to what is subtle, elusive, or sacrificial. It combines restraint, duty, and endurance with dream, compassion, uncertainty, and dissolution.
-- Chart expression: self-denial, practical spirituality, strategic patience, service to the weak or suffering, and the slow effort to make an ideal real under difficult conditions. Liabilities: discouragement, fear, deception, weakness, creeping losses, blurred responsibility, and chronic states of exhaustion, illness, or disillusionment when structure cannot hold against diffusion.
+`Saturn/Neptune` describes a difficult negotiation between a sustaining structure and what cannot easily be contained: an ideal, dream, spiritual longing, uncertainty, or gradual erosion. [Falis](#michelle-falis---planet-combinations-astrological-brainstorms), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), and [Hand](#robert-hand---horoscope-symbols) all give room to making ideals concrete. [Carter](#charles-carter---the-astrological-aspects) develops the practical side through method, foresight, careful execution, and even a sense of humor about incongruity. Such work can require sustained effort without guaranteeing outward success.
+
+The same range includes renunciation, fear, blurred responsibility, deception, and creeping losses ([pair summary](#pair-summary); [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets)). Compassion and spiritual discipline may sustain engagement, while weak boundaries or evasion can undermine it. The concrete references to gas, air, and water remain in the source without becoming a universal prediction. Historical illness correspondences and psychic explanations remain attributed, and Carter's aspect-specific judgments or Ebertin's embedded activation must not be applied indiscriminately to the pair.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Cupido = Asc`
 - Astronomicon formula: `V/¡ = Asc`
 - Axis page: [Jupiter/Cupido](../axes/jupiter-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 215; PDF p. 211.
+
 To be united in happy marriage. Fortunate partnership of others. Acquaintances through art.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Achieving a successful partnership, local Pinanz community, joint partner pleasure, joint environmental success, artistic success in the local community, and advantages of a partner community
+- Source reference: printed p. 332; PDF p. 165.
+
+A successful partner community, a local financial community, shared joy with a partner, shared local rights, shared success in the environment, artistic success at the location, a location's legal community, and advantages of a partner community.
+
+## Comparative Schema
+
+- core meaning: Favorable community or partnership is encountered through other people and the local setting.
+- psychology: The entries describe beneficial association, without establishing a warm temperament or marriage-minded personality.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte names happy union, another person's fortunate partnership, and acquaintances through art.
+- events/manifestations: Local artistic success, partner joy, financial community, shared local rights and partner-community advantages.
+- conflicts/notes: The scanned ABC row confirms local financial community and two local-rights clauses omitted from the earlier translation.
+
+## Contradictions
+
+- Personal union, others' partnership, and artistic acquaintance are different settings, not conflicting orientations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Asc`: the person entering a favorable communal field through relationship. It can show a warm, marriage-minded social presence and beneficial contact through artistic or family-like environments.
+In `Jupiter/Cupido = Asc`, Asc specifies the Jupiter/Cupido axis through partnership and favorable encounters in one's surroundings. Happy marriage, others' fortunate partnerships and acquaintances through art join shared partner joy, local artistic success, financial community and local rights. The formula concerns the benefit and setting of association, without requiring a particular temperament or marital intention. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

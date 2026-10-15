@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Cupido Zeus`
 - Astronomicon triad-set: `Z ¡ £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Zeus = Pluto](../activations/cupido-zeus-equals-pluto.md)
-- [Pluto/Cupido = Zeus](../activations/pluto-cupido-equals-zeus.md)
-- [Pluto/Zeus = Cupido](../activations/pluto-zeus-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Zeus = Pluto](../activations/cupido-zeus-equals-pluto.md) | [Cupido/Zeus](../axes/cupido-zeus.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Cupido = Zeus](../activations/pluto-cupido-equals-zeus.md) | [Pluto/Cupido](../axes/pluto-cupido.md) | [Zeus](../factors/zeus.md) |
+| [Pluto/Zeus = Cupido](../activations/pluto-zeus-equals-cupido.md) | [Pluto/Zeus](../axes/pluto-zeus.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `268`
-- `Cupido/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `427`
-- `Pluto/Cupido = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `257`
-- `Pluto/Cupido = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `409`
-- `Pluto/Zeus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `413`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Zeus = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-zeus-equals-pluto.md#witte-entry), one-based PDF entry-start p. `268`.
+- `Cupido/Zeus = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-zeus-equals-pluto.md#abc-entry), printed p. `427`.
+- `Pluto/Cupido = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-cupido-equals-zeus.md#witte-entry), one-based PDF entry-start p. `257`.
+- `Pluto/Cupido = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-cupido-equals-zeus.md#abc-entry), printed p. `409`.
+- `Pluto/Zeus = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-zeus-equals-cupido.md#witte-entry), one-based PDF entry-start p. `259`.
+- `Pluto/Zeus = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-zeus-equals-cupido.md#abc-entry), printed p. `413`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Pluto`: family increase, establishment of branches, growing concerns, and reinforcement of units or memberships.
-- `Pluto/Cupido = Zeus`: This activation emphasizes family increase; Members of a family who are soldiers; Army unites in the state of development; Military tradition.
-- `Pluto/Zeus = Cupido`: This activation emphasizes the duty to begin a family; Increase of marriage; To increase power and accomplishment by uniting or coordinating; Founding of a club.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

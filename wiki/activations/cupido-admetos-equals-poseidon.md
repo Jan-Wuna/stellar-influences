@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Admetos](../axes/cupido-admetos.md)
 - Triad hub: [Cupido Admetos Poseidon](../triads/cupido-admetos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 272 (printed 276).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ To differ from the opinion of a community in mental, psychic and philosophical r
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 215 (printed 433).
+
 #### ABC Entry
 
 Limitation of truth in of a community, blocked community of ideas, depressing arts and culture, consolidated cultural community, deepening common insights, common clarity through perseverance, and deepening in common culture
 
+## Comparative Schema
+
+- core meaning: Differences of thought within a community, alongside consolidated culture and shared insight.
+- psychology: Feeling lonely because of mental, psychic or philosophical disagreement.
+- body/health: No specific physical or medical claim.
+- social/relationship: An individual differing from communal opinion; a cultural or idea community.
+- events/manifestations: Restrictions on truth, blocked ideas, depressing art and culture, deepening insight and clarity through endurance.
+- conflicts/notes: Disagreement and loneliness are Witte's specific connection; ABC also includes cultural consolidation and common clarity.
+
+## Contradictions And Differences
+
+Disagreement and loneliness are Witte's specific connection; ABC also includes cultural consolidation and common clarity. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Admetos = Poseidon`: solitude through principles, feeling alone in a crowd because one thinks differently, and disconnection rooted in worldview. Main caution: turning spiritual or intellectual difference into chronic estrangement.
+`Cupido/Admetos = Poseidon` places thought, belief and culture within the constraints of association. The [Witte entry](#witte-entry) links differences from communal opinion in mental, psychic or philosophical matters with feeling lonely among others. The [ABC entry](#abc-entry) includes restricted truth and blocked ideas, but also consolidated culture, deeper shared insights and common clarity through perseverance. The sources thus support both estrangement over ideas and a firmer shared intellectual or cultural life.
 
 ## Links
 

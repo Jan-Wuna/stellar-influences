@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Asc`
 - Astronomicon formula: `X/g = Asc`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Asc entry.
+
 #### Witte Entry
 
 Suddenly meet or make acquaintance. Restless relationships with others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Asc entry.
+
 #### ABC Entry
 
-Ercignisive contacts with others, dynamic partner relationship, new place of encounter, rhythmic connection with the partner, tensions in connection with others, and communication with environmental reforms
+Eventful contacts with others, a dynamic partner relationship, a new place of encounter, rhythmic connection with the partner, tensions in connection with others, restless relationships with others, and linkage with environmental reforms.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 273 (PDF p. 275), code `0972`.
 
 #### Ebertin Entry
 
 Tendency to become stimulated through other persons. Sudden and new associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 107, `Planets activating the Uranus/Node midpoint`, Ascendant entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Adds a strong mental focus on the need for changing the world so that your ideas
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: New encounters that stimulate personal change and exchange. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Openness, stimulation, and a wish to loosen limits on identity. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: New acquaintances, partner contacts, discussion, and feedback. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden associations and new places of encounter. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: New openness and restless or tense relationships coexist; freedom of contact does not determine a bond's stability. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+New encounters and personal openness coexist with restless or tense relationships. Feedback and changing self-imposed limits are separate supported emphases; the entries do not establish a settled bond.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Asc`: stimulating personal magnetism, progressive social style, and encounters that quickly reshape the relational field. Main caution: erratic rapport: nervous speed or contrarian behavior can make bonds exciting but hard to stabilize.
+Asc specifies Uranus/Node through sudden encounters that stimulate both ideas and one's sense of identity. Openness to other people can encourage change and growth, while discussions and feedback give that contact a practical intellectual role. Restlessness remains in the older entries, so free connection does not by itself establish a settled bond. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

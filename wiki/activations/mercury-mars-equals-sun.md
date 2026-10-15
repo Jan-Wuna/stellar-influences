@@ -33,27 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Sun Mercury Mars](../triads/sun-mercury-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
+
 The voice. The language. Quickly acting body. Excited body.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `242`; PDF page: `120`.
+
 #### ABC Entry
 
-Working with the man bksprechen, working center of youth, media center in activity, human movement will, personal youth activity, written day work, activity of a _young man, and center for news activity
+German passage (transcribed from PDF page `120`, printed page `242`):
+
+> Arbeit mit dem Mann besprechen, Arbeits-Zentrum der Jugend, Medien-Zentrum in Tätigkeit, menschlicher Bewegungs-Wille, persönliche Jugend-Tätigkeit, schriftliche Tages-Arbeit, Tätigkeit eines jungen Mannes, Zentrum für Nachrichten-Tätigkeit
+
+Editorial translation from the German passage: Discussing work with the man; a youth work center; a media center in operation; a person's will to move; personal youth activity; written daily work; a young man's activity; a center for news activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `149`; entry code: `0471`.
 
 #### Ebertin Entry
 
 Manly and brave thinking and acting, a positive or firm demeanor, determination, ability to succeed or make one's way in life, easy excitability, love of quarreling. A man of quick decision or excitability.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Exact Sun entry: one-based PDF page `43` (checked against the actual raw scan); chapter starts at PDF page `42`.
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Emphasizing the importance of news activities; talks of an urgent nature by dist
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Decisive speech and action expressed personally and physically.
+- psychology: Determination and readiness can accompany excitability or an egotistical style of argument.
+- body/health: Witte describes a quickly acting, excited body; Munkasey mentions movement dexterity, without a diagnosis.
+- social/relationship: Masterful argument, proclamations, and urgent speech by distinguished people.
+- events/manifestations: Quick decisions, news activity, announcements, and displays of dexterity.
+- conflicts/notes: Ebertin's masculine language and ABC's young-man examples remain attributed historical wording.
 
 ## Contradictions
 
-- None recorded yet.
+Focused argument and excitability are different possibilities. ABC's actual opening describes discussing work with a man; it does not justify the former damaged phrase.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Sun`: verbal bravery, command in debate, and the ability to turn ideas quickly into purposeful effort. Main caution: ego in conflict: discussion can become a test of dominance, pride, or the need to be right.
+Sun specifies Mercury/Mars through a person's voice, bodily action, and decisive expression. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries connect speed and determination with excitement; [Sandbach](#sandbach-entry) adds both focused argument and an aggressively egotistical style. [Munkasey](#munkasey-entry) (p. 152) gives outward examples in urgent news, showy proclamations, and dexterous movement. The interpretation holds purposeful expression and excitability together, without treating historical masculine wording as a restriction to men.
 
 ## Links
 

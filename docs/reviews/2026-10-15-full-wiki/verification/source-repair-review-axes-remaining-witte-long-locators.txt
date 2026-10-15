@@ -1,0 +1,310 @@
+Independent actual immutable Witte locator checks for 19 full-read long source sections.
+Only locator/header changes are certified. Unchanged inherited prose is excluded from new transcription or factual certification.
+
+wiki/axes/moon-mc.md; actual PDF60
+MERIDIAN + MOON
+The psychological influence of women. One’s own mind. The own attitude towards 
+females, a people or to the public. The state of the mind and soul. Personal relations 
+with females and to the public. Emotional hour. Emotions in a people. The start of 
+an hour. The feeling or attitude of being a woman.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+n. Luck in public life. National justice and jurisdiction.
+
+moon-mc; actual PDF60; MERIDIAN + MOON
+The psychological influence of women. One’s own mind. The own attitude towards females, a people or to the public. The state of the mind and soul. Personal relations with females and to the public. Emotional hour. Emotions in a people. The start of an hour. The feeling or attitude of being a woman.
+
+moon-mercury; actual PDF122; MOON + MERCURY
+Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The you
+
+wiki/axes/node-mc.md; actual PDF61
+MERIDIAN + NODES
+Soul mates. One s close personal connections. Contacts in profession. Inner or 
+emotional bonds. The moment (minute) of contact. The moment of connection.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+us. To feel uncomfortable. Moment (minute) of uncertainty.
+
+node-mc; actual PDF61; MERIDIAN + NODES
+Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment (minute) of contact. The moment of connection.
+
+pluto-asc; actual PDF90; ASCENDANT + PLUTO
+Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence
+
+wiki/axes/mercury-node.md; actual PDF141
+NODES + MERCURY
+Connections of thoughts. Correspondence. To make new connection. Intellectual or 
+communications ties. Contacts or connections for communication.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+thinking. To ramble (in speaking). Motion in water or air.
+
+mercury-node; actual PDF141; NODES + MERCURY
+Connections of thoughts. Correspondence. To make new connection. Intellectual or communications ties. Contacts or connections for communication.
+
+mercury-pluto; actual PDF165; MERCURY + PLUTO
+The function of the nerves. External and internal motion. The development of the thinking. Fro
+
+wiki/axes/mercury-asc.md; actual PDF83
+A + S
+ASCENDANT + MERCURY
+Talks, conversations and correspondence. To be the theme of conversation with 
+others. Other people think of the native. News from other people. News about the 
+closer environment. Exchange of ideas with acquaintances.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-010-witte-raw.txt
+46-1 
+ISBN 978-3'920807 47-8 
+www.WITTE-VERLAG.COM
+
+
+PDF 83
+A + S
+ASCENDANT + MERCURY
+Talks, conversations and correspondence. To be the theme of conversation with 
+others. Other people think of the native. News from other people. News about the 
+closer environment. Exchange of ideas with acquaintances.
+- T3 Conversation in the public. Announcements, advertisements, newspapers. A 
+public memorandum.
+■ M The opinion of others about the native. To receive news and informa
+
+wiki/axes/mercury-mc.md; actual PDF62
+MERIDIAN + MERCURY
+One’s own observation. One’s own thinking. To meditate. Monologues. Self-talks.
+Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking.
+The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news
+in profession. Media professionals.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+mercury-mc; actual PDF62; MERIDIAN + MERCURY
+One’s own observation. One’s own thinking. To meditate. Monologues. Self-talks. Flexibility of the soul. Business thoughts. Mental attitude. The mobility of thinking. The faculty of thinking. The minute of news. Individual thoughts. Thoughts or news in profession. Media professionals.
+
+wiki/axes/saturn-mc.md; actual PDF66
+MERIDIAN + SATURN
+To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. 
+To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or 
+afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down.
+Losing life goals. The moment (minute) of separation.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+acquaintance. Separations from the place or acquaintances.
+
+saturn-mc; actual PDF66; MERIDIAN + SATURN
+To feel a burden. Inhibition or loneliness. To take over a duty. Depression. Dejection. To separate. To feel deserted. Being ponderous. Personal sorrows. Mournful states or afflictions. Serious minded. Concentrated attitude. To be restrained. To slow down. Losing life goals. The moment (minute) of separation.
+
+saturn-neptune; actual PDF222; SATURN + NEPTUNE
+Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chron
+
+wiki/axes/pluto-asc.md; actual PDF90
+A + ®
+ASCENDANT + PLUTO
+Other people are changeable. Changes in relation to others. Changes at the place. 
+Moving from residence. Changes in connections with different people. To be 
+transient in a place. Changes of the immediate environment.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+ The moment (minute) of contact. The moment of connection.
+
+pluto-asc; actual PDF90; ASCENDANT + PLUTO
+Other people are changeable. Changes in relation to others. Changes at the place. Moving from residence. Changes in connections with different people. To be transient in a place. Changes of the immediate environment.
+
+saturn-asc; actual PDF87; ASCENDANT + SATURN
+Estrangement. To experience refusal. Given the cold shoulder. Separation from other persons. Other persons
+
+wiki/axes/neptune-asc.md; actual PDF89
+A + ¥
+ASCENDANT + NEPTUNE
+To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. 
+Others say “No”. Want of clearness in relations with others. To be deceived or 
+avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to 
+a location.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+omen. The love of a people. The people’s peace or harmony.
+
+neptune-asc; actual PDF89; ASCENDANT + NEPTUNE
+To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No”. Want of clearness in relations with others. To be deceived or avoided by others. Uncertain, doubtful, precarious, unsteady situations in relation to a location.
+
+neptune-mc; actual PDF68; MERIDIAN + NEPTUNE
+To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wron
+
+wiki/axes/neptune-mc.md; actual PDF68
+MERIDIAN + NEPTUNE
+To decline. To refuse something. To be unsure, unable to support. Unintelligible 
+attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be 
+intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be 
+disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment 
+(minute) of uncertainty.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+precarious, unsteady situations in relation to a location.
+
+neptune-mc; actual PDF68; MERIDIAN + NEPTUNE
+To decline. To refuse something. To be unsure, unable to support. Unintelligible attitude. To follow wrong ideas. “I deceive”. Untruth. Falsehood. Swindle. To be intuitive. To concentrate on the future. To follow the unknown, the doubtful. To be disappointed. To appear unreliable or mysterious. To feel uncomfortable. Moment (minute) of uncertainty.
+
+node-mc; actual PDF61; MERIDIAN + NODES
+Soul mates. One s close personal connections. Contacts in profession. Inner or emotional bonds. The moment
+
+wiki/axes/saturn-node.md; actual PDF145
+NODES + SATURN
+Breaking off of connections or other relationships. Difficulties in relationships or 
+with contacts. To participate in separations. End of a connection. Long-term and 
+serious connections. Separations.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+eeping losses. Problems through or with gas, air or water.
+
+saturn-node; actual PDF145; NODES + SATURN
+Breaking off of connections or other relationships. Difficulties in relationships or with contacts. To participate in separations. End of a connection. Long-term and serious connections. Separations.
+
+
+wiki/axes/mercury-pluto.md; actual PDF165
+MERCURY + PLUTO
+The function of the nerves. External and internal motion. The development of the 
+thinking. From thinking to understanding. To develop or transform a thought.
+Thinking and perception is one thing. The development or change of the opinion, of 
+the outlook on life, or of the understanding.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+nications ties. Contacts or connections for communication.
+
+mercury-pluto; actual PDF165; MERCURY + PLUTO
+The function of the nerves. External and internal motion. The development of the thinking. From thinking to understanding. To develop or transform a thought. Thinking and perception is one thing. The development or change of the opinion, of the outlook on life, or of the understanding.
+
+mercury-saturn; actual PDF162; MERCURY + SATURN
+Logic. Philosophical thinking. Competence to form an opinion, to pass judgement. Thoughts of
+
+wiki/axes/mercury-jupiter.md; actual PDF161
+MERCURY + JUPITER
+Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. 
+Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. 
+Financial reports. Legal correspondence. Thoughts or news about money.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-010-witte-raw.txt
+ ISBN 978-3-920807-47-8 — www.WITTE-VERLAG.COM
+
+
+PDF 161
+9U
+MERCURY + JUPITER
+Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness. 
+Joyful thinking or speech. Positive dialogues, thoughts or news. The legal mind. 
+Financial reports. Legal correspondence. Thoughts or news about money.
+- ^ Merriment. Lively conversation. Happy news for the world public.
+- M To be in a happy contented mood. Optimism. Minute of joyful experience. The 
+own joy of movement
+
+wiki/axes/mercury-neptune.md; actual PDF164
+MERCURY + NEPTUNE
+Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion 
+or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). 
+Motion in water or air.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+ghts. Thoughts or news in profession. Media professionals.
+
+mercury-neptune; actual PDF164; MERCURY + NEPTUNE
+Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confusion or lies. Illogical thinking. Falsehood. Intuitive thinking. To ramble (in speaking). Motion in water or air.
+
+mercury-node; actual PDF141; NODES + MERCURY
+Connections of thoughts. Correspondence. To make new connection. Intellectual or communicatio
+
+wiki/axes/moon-venus.md; actual PDF123
+MOON + VENUS
+The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. 
+Peaceful hour. The love or affection of women. The love of a people. The people’s 
+peace or harmony.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+eneral opinion in relation to the hour and female persons.
+
+moon-venus; actual PDF123; MOON + VENUS
+The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or affection of women. The love of a people. The people’s peace or harmony.
+
+neptune-asc; actual PDF89; ASCENDANT + NEPTUNE
+To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced. Others say “No
+
+wiki/axes/moon-jupiter.md; actual PDF125
+MOON + JUPITER
+Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness 
+of female persons. Contented woman or nation. Luck in public life. National justice 
+and jurisdiction.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+r. Deliberation. Impaired thinking. Serious conversations.
+
+moon-jupiter; actual PDF125; MOON + JUPITER
+Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female persons. Contented woman or nation. Luck in public life. National justice and jurisdiction.
+
+moon-mc; actual PDF60; MERIDIAN + MOON
+The psychological influence of women. One’s own mind. The own attitude towards females, a people or to
+
+wiki/axes/mercury-mars.md; actual PDF160
+MERCURY + MARS
+Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts 
+and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the 
+mind. Power of thought. Clear, sharp thinking. Disputes.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-010-witte-raw.txt
+ted with other people by thoughts and ideas.
+
+
+PDF 160
+9+cf
+MERCURY + MARS
+Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts 
+and debates. Critics. Criticism. To excite oneself mentally. Argument. Activity of the 
+mind. Power of thought. Clear, sharp thinking. Disputes.
+- ^ Speaking. Quick acting. Energetic action.
+- M One’s own way of talking. Quickly resolving. Love of fighting. To be in a state of 
+excitement. Haste.
+- A To negotiate
+
+wiki/axes/moon-mercury.md; actual PDF122
+5 + 9
+MOON + MERCURY
+Motion of the brain. Thinking capacity. The memory. The imaginative power.
+Superficial thinking. The young generation. Young girl. Young woman. Several 
+hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts.
+The general opinion in relation to the hour and female persons.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+tart of an hour. The feeling or attitude of being a woman.
+
+moon-mercury; actual PDF122; MOON + MERCURY
+Motion of the brain. Thinking capacity. The memory. The imaginative power. Superficial thinking. The young generation. Young girl. Young woman. Several hours. Office hours. Vehicles. Shifted hour. Lively and changeable train of thoughts. The general opinion in relation to the hour and female persons.
+
+moon-venus; actual PDF123; MOON + VENUS
+The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood. Peaceful hour. The love or 
+
+wiki/axes/mercury-saturn.md; actual PDF162
+MERCURY + SATURN
+Logic. Philosophical thinking. Competence to form an opinion, to pass judgement. 
+Thoughts of separation. Parting to travel. To ponder. Deliberation. Impaired 
+thinking. Serious conversations.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+ opinion, of the outlook on life, or of the understanding.
+
+mercury-saturn; actual PDF162; MERCURY + SATURN
+Logic. Philosophical thinking. Competence to form an opinion, to pass judgement. Thoughts of separation. Parting to travel. To ponder. Deliberation. Impaired thinking. Serious conversations.
+
+moon-jupiter; actual PDF125; MOON + JUPITER
+Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happiness of female pers
+
+wiki/axes/saturn-neptune.md; actual PDF222
+SATURN + NEPTUNE
+Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. 
+Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. 
+Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems 
+through or with gas, air or water.
+
+Existing proof read: docs/reviews/2026-10-15-full-wiki/verification/axes-bounded-witte-locators-raw.txt
+own. Losing life goals. The moment (minute) of separation.
+
+saturn-neptune; actual PDF222; SATURN + NEPTUNE
+Habit. Things of long duration. Sickness. Treacherous diseases. Chronic ill health. Plague. Chronic conditions. Theft. Losses or separation through deception or fraud. Patience in an uncertain situation. Intuition in old age. Creeping losses. Problems through or with gas, air or water.
+
+saturn-node; actual PDF145; NODES + SATURN
+Breaking off of connections or other relationships. Difficulties in relationships or with contact
+

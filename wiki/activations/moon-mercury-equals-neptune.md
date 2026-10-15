@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Neptune`
 - Astronomicon formula: `R/T = Y`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,11 +39,17 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Imagination. The hysterical girl. The imaginative or untruthful girl. To be dreamy and lazy in youth.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `177`, PDF p. `87` (entry).
 
 #### ABC Entry
 
@@ -49,11 +57,16 @@ mobile woman in the water, disappointing news for the people, disappointment of 
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0333`.
+
 #### Ebertin Entry
 
 An active imagination, fancies, whims and notions. Wrong thinking, a lie. A deceived girl, exposure to lies fabricated by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ The romantic and emotional appeal books or stories have for you; neglecting to c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: imaginative or subtle emotional communication with a risk of confusion or misrepresentation ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: feeling colors thought, sometimes without conscious awareness; fancies and uncertainty are explicit.
+- body/health: Witte's historical 'hysterical' label is not a modern diagnosis; no clinical conclusion is established.
+- social/relationship: feelings may elude listeners, remain uncommunicated, or be affected by others' lies.
+- events/manifestations: romantic stories, disappointing news, metaphysical conversations, and changes in information's emotional context are examples.
+- conflicts/notes: fine feeling for language and confused thought are distinct possibilities; empathy, dream symbolism, and artistic vocation are not stated.
 
 ## Contradictions
 
-- None recorded yet.
+The entries range from fine or imaginative expression to vagueness, deception, and confusion. They do not state that sensitivity to language must cause dishonesty, nor that imagination removes the risk of being deceived.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Neptune`: empathic communication, artistic language, and the ability to speak from dream, symbol, or delicate feeling. Main caution: mental haze: judgment can blur under mood, projection, or suggestibility.
+In Moon/Mercury = Neptune, Neptune specifies the Moon/Mercury pair through emotional communication that is imaginative, subtle, or hard to make explicit. The [Sandbach entry](#sandbach-entry) describes feelings conveyed without full awareness or in ways that elude others; [Munkasey](#munkasey-entry) adds neglected communication and shifts in information's emotional context (p. 104). The [ABC entry](#abc-entry) retains fine feeling for language and metaphysical conversation alongside uncertainty and disappointing news (printed p. 177, PDF p. 87).
+
+The [Ebertin entry](#ebertin-entry) also preserves wrong thinking, lies, and being deceived. This gives a range from imaginative expression to confusion or misrepresentation; it does not establish empathy, a dream-based mode of speech, or dishonesty as a universal trait.
 
 ## Links
 

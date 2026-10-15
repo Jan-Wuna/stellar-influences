@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Mars Admetos`
 - Astronomicon triad-set: `S U ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mars/Admetos = Sun](../activations/mars-admetos-equals-sun.md)
-- [Sun/Admetos = Mars](../activations/sun-admetos-equals-mars.md)
-- [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Admetos = Sun](../activations/mars-admetos-equals-sun.md) | [Mars/Admetos](../axes/mars-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Mars](../activations/sun-admetos-equals-mars.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Mars](../factors/mars.md) |
+| [Sun/Mars = Admetos](../activations/sun-mars-equals-admetos.md) | [Sun/Mars](../axes/sun-mars.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Mars/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
-- `Mars/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `318`
-- `Sun/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Mars = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `147`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Mars/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `202`.
+- `Mars/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-admetos-equals-sun.md#abc-entry), printed p. `318`.
+- `Sun/Admetos = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-mars.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-mars.md#abc-entry), printed p. `168`.
+- `Sun/Mars = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mars-equals-admetos.md#witte-entry), one-based PDF entry-start p. `105`.
+- `Sun/Mars = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mars-equals-admetos.md#abc-entry), printed p. `147`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Sun`: little daily tasks, work in a small space, reduced scope of effort, and the person whose activity contracts under pressure or loss.
-- `Sun/Admetos = Mars`: This formula emphasizes activity within a limited scope or with a special subject and tilling the soil.
-- `Sun/Mars = Admetos`: This formula emphasizes limited activity and labor on the ground.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

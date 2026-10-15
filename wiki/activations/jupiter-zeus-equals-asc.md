@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Zeus = Asc`
 - Astronomicon formula: `V/£ = Asc`
 - Axis page: [Jupiter/Zeus](../axes/jupiter-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 213, Jupiter + Zeus, oriented activator row.
+
 To be productively with others. Location of productivity.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-successful striving toward goals of a place, financial striving of the partner, financial goals of a place, joy fire at a place, shaping the legal order of a place, performance successes of the partner, place of money production, and environmental successes through striving toward goals
+- Source reference: printed p. 336; one-based PDF p. 167, Jupiter + Zeus, Asc row.
+
+Successful pursuit of goals at a place, a partner's financial striving, a place's financial goals, a fire of joy at the place, shaping local law, a partner's accomplishments, a place of money generation, and successes in the surroundings through pursuit of goals.
+
+## Comparative Schema
+
+- core meaning: Being productive with others and the location of productivity meet local goals and partner accomplishments.
+- psychology: Goal pursuit is explicit, without a particular personality or visible busyness claim.
+- body/health: No specific body or health claim appears in these entries.
+- social/relationship: Productivity with others and a partner's financial striving define shared activity.
+- events/manifestations: A site of money generation, local financial goals and shaping local law.
+- conflicts/notes: The place is a setting of productivity, not a stated cause that necessarily supports it. Fire of joy remains without a specified ritual.
+
+## Contradictions
+
+Witte emphasizes productive company and place. ABC specifies local goals, partner achievements and finance or law. No direct contradiction is stated; these are different levels of practical detail.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Zeus = Asc`: being actively engaged with people, working productively in shared space, and finding that the surroundings themselves support output.
-- Chart expression: visible busyness, collaborative effort, and a personal field organized around making things happen.
+`Jupiter/Zeus = Asc` puts productivity in a shared place and in activity with other people. A partner's accomplishments or financial aims can be part of that setting, along with local financial goals and shaping local law. [Witte's productive company and location](#witte-entry) and [ABC's eight local and partner clauses](#abc-entry) support a concrete account of work and goal pursuit.
 
 ## Links
 

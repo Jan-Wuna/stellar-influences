@@ -1,0 +1,15 @@
+{
+  "scope": "Independently verified targeted Sun factor source repair after the 1856-candidate snapshot. Await candidate refresh for merging into the authoritative matrix and strict allowance list.",
+  "path": "wiki/factors/sun.md",
+  "before_sha256": "2000b4a938851c758d22f933bc09b77dbb1395481421b42e442bc3c2115e396c",
+  "after_sha256": "ca745187fc3bdc814602782f0078b0d39b07c8ef2311ed6e24d1d00bd087906e",
+  "reason": "Actual Ebertin PDF47/printed45 has Aries0014/I, Taurus0015/II, Gemini0016/III and Cancer0017/IV as distinct glyph rows. PDF48/printed46 then has Leo0018/V through Aquarius0024/XI; PDF49/printed47 has Pisces0025/XII. All twelve existing text paragraphs now belong to their actual rows, correcting the swallowed Gemini and subsequent one-label shift. The conditional sign/house scope note follows the source heading and roman markers. Actual Hand56 prints shaper of the will, particularly the will, ends that paragraph at right., and begins From what has been said as a new paragraph; the same scan prints another's will, not ^vill. These exact repairs and new locators match their raw passages.",
+  "evidence": [
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf47.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf48.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-ebertin-pdf49.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/factor-source-repairs-robert-hand-pdf56.png"
+  ],
+  "verified_by": "/root/source_integrity_gate",
+  "ledger": "factors-006.jsonl"
+}

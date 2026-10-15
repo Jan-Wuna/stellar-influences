@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Zeus = Node`
 - Astronomicon formula: `R/£ = g`
 - Axis page: [Moon/Zeus](../axes/moon-zeus.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `132` (entry start; one-based).
+
 #### Witte Entry
 
 Connections with drivers, stokers, soldiers. Contact with a procreative woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `196`, PDF p. `97` (entry).
+
 #### ABC Entry
 
-Effortful hour of a Y bonding, fiery women Y bonding, felicitous procreationY bonding, contact with leading women, union with pregnant women, union as the goal of the woman, and Y bonding with the moving people
+A demanding hour of connection, a fiery connection with women, an emotionally expressive procreative connection, contact with leading women, connection with women in childbirth, connection as a woman's goal, and connection with the leading people
+
+## Comparative Schema
+
+- core meaning: connections with directed work, leadership, or procreative activity.
+- psychology: emotional intensity in a connection is named without a general personality claim.
+- body/health: ABC's women in childbirth and Witte's procreative woman remain historical contact examples.
+- social/relationship: drivers, stokers, soldiers, leading women, and a leading people are examples.
+- events/manifestations: demanding or fiery connections and seeking connection as a goal are stated.
+- conflicts/notes: a procreative association does not establish pregnancy, childbirth, or relationship success for the reader.
+
+## Contradictions
+
+The occupational, leadership, and reproductive contacts are distinct settings. The entries do not require that one connection combine all of them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus = Node`: Connections with drivers, stokers, soldiers. Contact with a procreative woman.
-- Practical expression: effortful hour of a Y bonding, fiery women Y bonding, felicitous procreationY bonding, contact with leading women, and union with pregnant women.
+In Moon/Zeus = Node, Node specifies the pair through connections with active work, leadership, or procreation. The [Witte entry](#witte-entry) gives drivers, stokers, soldiers, and a procreative woman; [ABC](#abc-entry) adds leading women, demanding or fiery connections, and connection as a goal (printed p. 196, PDF p. 97). Its women-in-childbirth example remains a specific historical association, without establishing a reproductive outcome for any particular connection.
 
 ## Links
 

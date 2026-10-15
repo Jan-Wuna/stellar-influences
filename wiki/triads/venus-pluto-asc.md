@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Pluto/Asc = Venus](../activations/pluto-asc-equals-venus.md)
-- [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md)
-- [Venus/Pluto = Asc](../activations/venus-pluto-equals-asc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Asc = Venus](../activations/pluto-asc-equals-venus.md) | [Pluto/Asc](../axes/pluto-asc.md) | [Venus](../factors/venus.md) |
+| [Venus/Asc = Pluto](../activations/venus-asc-equals-pluto.md) | [Venus/Asc](../axes/venus-asc.md) | [Pluto](../factors/pluto.md) |
+| [Venus/Pluto = Asc](../activations/venus-pluto-equals-asc.md) | [Venus/Pluto](../axes/venus-pluto.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Pluto/Asc = Venus`: Michael, page `348`
-- `Venus/Asc = Pluto`: Michael, page `216`
-- `Venus/Pluto = Asc`: Michael, page `208`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Pluto/Asc = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-asc-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-asc-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-asc-equals-venus.md#munkasey-entry), printed p. `348`.
+- `Venus/Asc = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-asc-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-asc-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-asc-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-asc-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-asc-equals-pluto.md#munkasey-entry), printed p. `216`.
+- `Venus/Pluto = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-pluto-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-pluto-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-pluto-equals-asc.md#munkasey-entry), printed p. `208`.
+
+Locator limitation: Pluto/Asc = Venus retains Sandbach's chapter-start reference on PDF116, and Venus/Pluto = Asc retains the chapter-start reference on PDF62; exact formula pages are unestablished. Venus/Asc = Pluto has an exact Sandbach reference on PDF65.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

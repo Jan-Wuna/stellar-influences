@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Apollon](../axes/mars-apollon.md)
 - Triad hub: [Mars Asc Apollon](../triads/mars-asc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To be active with others in trade, commerce or science. Working together with ot
 
 #### ABC Entry
 
-Extension of the place of work, successful partner work, freedom will at the place, commercial activity at the place, loss of activity in the environment, vie! work at the place, will success of other, and scientific environmental work
+Expansion of the workplace, successful partner work, will for freedom at the place, commercial activity at the place, increased drive in the surroundings, much work at the place, successes of others' will, and scientific work for the surroundings.
+
+## Comparative Schema
+
+Evidence: [ABC Entry](#abc-entry), printed p. 316, PDF p. 157 (exact activator row); [Witte Entry](#witte-entry), PDF p. 201 (exact activator row).
+
+- Core meaning: Scientific and commercial activity takes shape through the workplace and cooperation with others.
+- Psychology: ABC includes a wish for freedom at the place of work.
+- Body/health: These entries describe work settings and cooperation rather than a bodily condition.
+- Social/relationship: Partner work and joint activity in trade or science are explicit.
+- Events/manifestations: An expanding workplace and shared scientific or commercial work are named.
+- Conflicts/notes: ABC describes increased drive and much work in the surroundings, reinforcing expansion rather than loss of activity.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Asc`: active cooperation with others in trade, science, or commerce and a personal field organized around shared enterprise.
-- Chart expression: collaboration, networking, and visibly industrious surroundings.
+Asc specifies the Mars/Apollon axis through the people and setting in which work happens. The central picture is successful cooperation in commerce or science, with an enlarged workplace and partner work in [ABC Entry](#abc-entry) supporting the shared enterprise of [Witte Entry](#witte-entry). ABC's increased drive and much local work give that cooperation an active, expanding setting.
 
 ## Links
 

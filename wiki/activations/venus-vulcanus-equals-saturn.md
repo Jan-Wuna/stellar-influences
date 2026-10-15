@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Vulcanus = Saturn`
 - Astronomicon formula: `Q/§ = W`
 - Axis page: [Venus/Vulcanus](../axes/venus-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 188, Venus + Vulcanus, Saturn row; actual glyph and neighboring rows checked.
+
 The sorrows of parting.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influence of old artist, storten Licbes force, enormous love pain, Harrnonic influence through concentration, strong concentration on peace, painful violence in love, loss of affection through violence, and prejudice for enormous tasks
+- Source reference: printed p. 295; one-based PDF p. 146, Venus/Vulcanus, Saturn row; complete row and adjacent glyph boundaries checked.
+
+Editorial translation, checked against the scan: Influence of old art, disturbed power of love, great pain in love, harmonious influence through concentration, strong concentration on peace, painful violence in love, loss of affection through violence, and preference for tremendous tasks.
+
+## Comparative Schema
+
+- core meaning: Pain or interruption in strong affection, alongside concentration and peace effort.
+- psychology: Sorrow at parting, disturbed love-power and concentration.
+- body/health: Love pain is emotional source wording, not a medical diagnosis.
+- social/relationship: Parting and loss of affection; ABC separately names painful violence in love.
+- events/manifestations: Influence of old art, concentration on peace and preference for tremendous tasks.
+- conflicts/notes: Alter Kunst means old art, not an old artist; Vorliebe means preference, not prejudice. Violence clauses remain explicit source claims.
+
+## Contradictions
+
+Sorrow and disturbed affection coexist with concentration, peace and demanding tasks. The entries do not say that pain necessarily produces peaceful effort.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Vulcanus = Saturn`: the sorrows of parting.
-- Practical expression: influence of old artist, enormous love pain, harrnonic influence through concentration, and strong concentration on peace.
+In `Venus/Vulcanus = Saturn`, powerful affection is expressed through sorrow, disturbance or loss. The [Witte entry](#witte-entry) names the sorrows of parting; the [ABC entry](#abc-entry) adds disturbed love-power, great pain in love and loss of affection through violence. It also preserves concentration on peace, harmonious influence through concentration, old art and preference for tremendous tasks. These are distinct stated expressions rather than a claim that suffering necessarily produces peace or achievement.
 
 ## Links
 

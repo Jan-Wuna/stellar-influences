@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Y = g`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Triad hub: [Moon Neptune Node](../triads/moon-neptune-node.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `128`.
 
 #### Witte Entry
 
@@ -43,17 +46,25 @@ Connections with sensitive persons or with virgins. Nightly unclear and untenabl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `188`; PDF p. `93`.
+
 #### ABC Entry
 
 Fine tuning relationship, fine tuning of a women's relationship, unclear relations with women, connection with the future woman, connection with an exchanged woman, connection with foreign folk, and unclear relationships in a connection
 
+- Translation check: the German entry on printed p. `188` (PDF p. `93`, visually checked) concerns subtle emotional connection and fine feeling in a relationship. `enttäuschten Frau` means a disappointed woman, not an exchanged woman; its final phrase concerns unclear feelings within a connection. The imported English above is retained for traceability.
+
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: printed p. `132`, entry `0407`.
 
 #### Ebertin Entry
 
 The demonstration of a passive or indifferent demeanor in the presence of other persons. Associations with sensitive or frail women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF pp. `35-36` (entry and continuation checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +81,21 @@ The kinship you feel with others who share your dreams and support your ideas ab
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Node specifies the pair as connections formed through sensitivity, dreams, or unclear feelings.
+- psychology: appreciation of sensitivity and shared hopes coexist with passivity and emotional confusion.
+- body/health: Ebertin's reference to frail women remains an attributed historical description, not a diagnosis.
+- social/relationship: the entries range from supportive circles sharing a vision to tenuous or unclear associations.
+- events/manifestations: meeting people with shared dreams and receiving group support are Munkasey's concrete expressions; Witte also describes unclear nighttime ties.
+- conflicts/notes: the checked ABC wording concerns emotional connection and disappointment; the imported phrase about an exchanged woman cannot support interpretation.
 
 ## Contradictions
 
-- None recorded yet.
+- Supportive kinship in Munkasey and appreciation in Sandbach differ in emphasis from Witte's untenable ties and Ebertin's passive demeanor. These are contrasting possibilities, not an explicit factual contradiction. The ABC translation defect is documented above.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Node`: compassionate circles, soulful rapport, and the ability to form bonds around sympathy, imagination, or mutual sensitivity. Main caution: blurred belonging: social ties can become unclear, sacrificial, or difficult to distinguish from projection.
+In `Moon/Neptune = Node`, Node specifies the pair through emotional connections: finding people who value sensitivity or share dreams and future hopes. [Sandbach](#sandbach-entry) and [Munkasey, p. 128](#munkasey-entry) support this form of rapport, while [Witte](#witte-entry) and [Ebertin](#ebertin-entry) retain unclear ties and a passive response to others. The common question is how sensitivity operates within an association, whether it brings mutual support or leaves feelings and belonging uncertain.
 
 ## Links
 

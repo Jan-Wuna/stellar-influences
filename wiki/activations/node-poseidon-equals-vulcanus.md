@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Node Vulcanus Poseidon](../triads/node-vulcanus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ To be noticed in mental connections through eagerness and alertness. Influence i
 
 Communicating spiritual energies, mental influence in a connection, encountering mental violence, violence in an idea connection, powerful truth transmission, powerful culture connections, power of a spiritual connection, and strong cultural connections
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 156; [ABC Entry](#abc-entry), printed p. 239, PDF p. 118.
+
+- Core meaning: Influence through intellectual or spiritual ties.
+- Psychology: Eagerness, alertness and forceful conviction.
+- Body/health: Mental violence is a source example, not a medical diagnosis.
+- Social/relationship: Strong cultural connections and intellectual influence.
+- Events/manifestations: Forceful communication and possible coercion within shared ideas.
+- Conflicts/notes: Strength of influence does not establish truth or justify coercion.
+
+## Contradictions
+
+Witte stresses noticeable influence; ABC also names violence within an idea-based connection. Ordinary enthusiasm and coercion are not equivalent.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Vulcanus`: To be noticed in mental connections through eagerness and alertness. Influence in or through mental connections.
-- Practical focus: to be noticed in mental connections through eagerness and alertness; also influence in or through mental connections.
+Vulcanus specifies `Node/Poseidon` through influence carried by intellectual or spiritual connections. Eagerness and alertness make someone noticeable in the [Witte Entry](#witte-entry); the [ABC Entry](#abc-entry) ranges from strong cultural ties and forceful communication to mental coercion. The connection can transmit strength or exert pressure, and those expressions should remain distinct.
 
 ## Links
 

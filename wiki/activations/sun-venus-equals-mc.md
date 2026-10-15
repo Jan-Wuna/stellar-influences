@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = MC`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = MC`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus MC](../triads/sun-venus-mc.md)
@@ -45,7 +46,9 @@ Perception of love. The love concept.
 
 #### ABC Entry
 
-In the case of man, I at the a person, body and soul in one lannony, love of body and body, and in the case of man, my individual, my personal subject, and the day of my love
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, mc row (nine clauses). Translation from the German scan:
+
+An ensouled beautiful person; I love my body; body and soul in harmony; love of body and soul; my peaceful man; my personal art; my personal preference; beauty of the human soul; the day of my love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Building your reputation for being competent in artistic fields; adds to the res
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love and appreciation become a personal purpose.
+- psychology: Individual inclinations and one's conception of love are explicit.
+- body/health: ABC names love of one's body and harmony of body and soul without a medical claim.
+- social/relationship: Love union and mature appreciation of others are named.
+- events/manifestations: Artistic competence may contribute to reputation.
+- conflicts/notes: Witte's inward love concept and Munkasey's reputation concern different expressions.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's inward conception of love and Munkasey's reputation concern different expressions. ABC adds bodily self-love and harmony of body and soul without a medical claim.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = MC`: graceful vocation, charming leadership, and outer direction strengthened through diplomacy, aesthetics, or relational intelligence. Main caution: image-centered purpose: self-worth and career can become too dependent on admiration or social ease.
+MC specifies Sun/Venus through one's own experience of love and appreciation of beauty. This can become an artistic life purpose or a reputation for artistic competence, while the relational expression is mature care and recognition of another person's efforts. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

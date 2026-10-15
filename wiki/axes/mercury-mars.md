@@ -19,7 +19,9 @@ related_activations:
   - Mercury/Mars = Hades
   - Mercury/Mars = Jupiter
   - Mercury/Mars = Kronos
+  - Mercury/Mars = Mars
   - Mercury/Mars = MC
+  - Mercury/Mars = Mercury
   - Mercury/Mars = Moon
   - Mercury/Mars = Neptune
   - Mercury/Mars = Node
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `T/U`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/MARS`
-- Source page: `151`
+- Source heading: `MERCURY + MARS`
+- PDF page: `160`
 
 #### Pair Summary
 
@@ -88,11 +92,19 @@ Energetic thought. Hasty and energetic reaction. Malice. Quarrelsome thoughts an
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `242`; PDF page: `120` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Work in traffic, work reports, thought work, talk about actions, youth work, man's youth, media work, news activity, written work, and language activity
+German pair summary (transcribed from printed page `242`; PDF page `120`):
+
+> Arbeit im Verkehr, Arbeits-Berichte, Gedanken-Arbeit, Handlungen besprechen, Jugend-Arbeit, männliche Jugend, Medien-Arbeit, Nachrichten-Tätigkeit, schriftliche Arbeit, Sprach-Tätigkeit
+
+Editorial translation from the German passage: Work in traffic, work reports, mental work, discussing actions, youth work, male youth, media work, news activity, written work, language activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `148`; PDF page: `150` (pair prose checked; following heading excluded).
 
 #### Principle
 
@@ -112,7 +124,7 @@ A critic, the speaker in a discussion group.
 
 #### Probable Manifestations
 
-+ The achievement of successes through the spirit of enterprise and the power of determination. - The stage of getting involved in controversies or lawsuits, the bringing about of disputes. Mercury/Mars 5/cr
++ The achievement of successes through the spirit of enterprise and the power of determination. - The stage of getting involved in controversies or lawsuits, the bringing about of disputes.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -190,11 +202,11 @@ The building and/or destroying of connections. Using communication in a combativ
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF pages: `204–205` (pair paragraph and cross-page continuation checked against scans).
+
 #### Pair Delineation
 
-The expression of anger or conflict. Fondness for argument or debate. Energetic and vigorous thinking. Verbal self-
-
-assertion. The determination to act upon one's own ideas. Forceful intellect.
+The expression of anger or conflict. Fondness for argument or debate. Energetic and vigorous thinking. Verbal self-assertion. The determination to act upon one's own ideas. Forceful intellect.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -244,12 +256,12 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Energetic thinking, forceful communication, and putting ideas into action ([Ebertin](#principle), [Hand](#pair-delineation)).
+- psychology: Quick decisions, determination, and repartee coexist with impatience, irritability, rashness, and argumentative insistence ([Psychological Correspondence](#psychological-correspondence), [Falis](#falis-entry)).
+- body/health: Ebertin's motor-nerve claims, Carter's conditioned nervous-system claims, and Munkasey's hormone, exhaustion, sensory, and lung associations remain attributed historical medical statements ([Biological Correspondence](#biological-correspondence), [Harmonious Aspects](#harmonious-aspects), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Debate, verbal self-assertion, and communicating passion can stimulate contact; harsh retorts, competition, and rushed discussion can produce conflict ([Hand](#pair-delineation), [In Your Relationships](#in-your-relationships)).
+- events/manifestations: Enterprise, criticism, polemical writing, controversies, lawsuits, and communications about military activity are source examples ([Probable Manifestations](#probable-manifestations), [The Conjunction](#the-conjunction), [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: Constructive and destructive uses of mental energy are both represented. Carter's aspect conditions and historical medical or character labels remain qualified.
 
 ## Related Activations
 
@@ -261,7 +273,9 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 - [Mercury/Mars = Hades](../activations/mercury-mars-equals-hades.md)
 - [Mercury/Mars = Jupiter](../activations/mercury-mars-equals-jupiter.md)
 - [Mercury/Mars = Kronos](../activations/mercury-mars-equals-kronos.md)
+- [Mercury/Mars = Mars](../activations/mercury-mars-equals-mars.md)
 - [Mercury/Mars = MC](../activations/mercury-mars-equals-mc.md)
+- [Mercury/Mars = Mercury](../activations/mercury-mars-equals-mercury.md)
 - [Mercury/Mars = Moon](../activations/mercury-mars-equals-moon.md)
 - [Mercury/Mars = Neptune](../activations/mercury-mars-equals-neptune.md)
 - [Mercury/Mars = Node](../activations/mercury-mars-equals-node.md)
@@ -277,15 +291,16 @@ Hormone levels which affect your energy levels; convulsions caused by self exhau
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries repeatedly hold decisive, constructive thinking beside quarrels and destructive speech. Carter distinguishes his aspect families and conditions his stronger claims on other factors; those conditions remain part of his account. His assertions about childlessness, crime, and mental illness, and the medical claims of Ebertin and Munkasey, are historical source statements rather than conclusions about a person.
+
+Hand's cross-page `self-assertion` is joined editorially from PDF204–205. Munkasey's `sense of sense of smell` is printed repetition on printed151/PDF152 and is retained as such.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars` is the axis of forceful thought, quick decision, sharp speech, debate, and mentally directed action. It joins intellect and language with initiative, combativeness, enterprise, and the need to move ideas into effect.
-- Chart expression: verbal courage, argument, repartee, persuasive drive, technical or tactical intelligence, and a mind that cuts quickly to a point. Liabilities: agitation, quarrelsomeness, irritability, harsh language, contentiousness, and nervous overstimulation that turns thought into conflict.
+`Mercury/Mars` concerns thought with force behind it: deciding quickly, arguing a point, asserting an idea, and moving from plans to action. The [Ebertin principle](#principle), [Hand delineation](#pair-delineation), and [Falis entry](#falis-entry) connect mental energy with practical initiative and direct expression. This can support enterprise, sharp analysis, repartee, and the courage to speak up.
+
+The same speed and intensity can outrun consideration, turning discussion into competition, a cutting retort, or a dispute. [Sandbach's constructive and destructive communication](#principle-1) and [Munkasey's relationship contrasts](#in-your-relationships) make the range explicit: forceful exchange can stimulate a connection or damage it. The organizing distinction is how mental energy is used, while the sources' stronger medical and character claims remain attributed and conditional.
 
 ## Links
 

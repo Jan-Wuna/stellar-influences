@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Printed page: `220`; PDF page: `216` (complete bold pair paragraph checked against actual scan).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw ma
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `342`; PDF page: `170` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-(i) Stabilization of the right, strikeErfolg, printing of the goods, and favourable intensification
+German pair summary (transcribed from printed page `342`; PDF page `170`):
+
+> Festgelegtes Geld, finanzielle Einschränkung, Geld-Kreislauf, Glück durch Ausdauer, gründlicher Erfolg, Rechts-Blockade, Stabilisierung des Rechtes, Streik-Erfolg, Unterdrückung der Freude, vorteilhafte Vertiefung
+
+Editorial translation from the German passage: Tied-up money, financial restriction, circulation of money, good fortune through endurance, thorough success, blockage of law or rights, stabilization of law or rights, successful strike, suppression of joy, advantageous deepening.
+
+## Comparative Schema
+
+- Core meaning: Contentment and gain within limited circumstances coexist with expense and financial standstill ([Pair Summary](#pair-summary)).
+- Psychology: Rest, happiness with restricted means, and willingly spent money are explicit; a general temperament is not supplied.
+- Body/health: The readable summary gives no bodily condition or treatment.
+- Social/relationship: No particular family or partnership pattern is named; the emphasis is material circumstances and satisfaction.
+- Events/manifestations: Gains from raw materials, expenses, loss or stoppage of income, and a stationary currency market are specific examples.
+- Conflicts/notes: ABC adds tied-up money, financial restriction and circulation, success through endurance, blockage and stabilization of law or rights, strike success, and suppressed joy. The terse legal terms give no specific case or jurisdiction.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw ma
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Admetos`: fortunate restraint: being content in limited circumstances, finding gain in what is basic or materially deep, yet also facing expense, income stoppage, loss, and financial standstill.
-- Chart expression: luck operating inside confinement rather than through free expansion. It can describe quiet sufficiency, raw-material wealth, composure under limitation, and the ability to remain satisfied with little, but also the risk that spending, static conditions, or blocked circulation turn contentment into stagnation.
+`Jupiter/Admetos` places satisfaction and gain within restricted or stationary conditions. Rest and being happy with limited means describe the experiential side; gains from raw materials and money willingly spent describe concrete material expressions ([Pair Summary](#pair-summary)).
+
+The same summary includes losses, expenses, stopped income, and a currency market at a standstill. It lists these material outcomes alongside subjective contentment without explaining how they relate in a particular case. ABC adds success through endurance, tied-up money and financial restriction, alongside both blockage and stabilization of law or rights. These remain distinct brief expressions ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Hades](../triads/vernal-point-saturn-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Dismissals of many workers. Epidemics. To move away for sad reasons. Refugees. To be a fugitive.
 
@@ -42,13 +46,27 @@ Dismissals of many workers. Epidemics. To move away for sad reasons. Refugees. T
 
 #### ABC Entry
 
-Pressures and sorrows in the public sphere, most acute lack of frequentity, dangerous problems in the public sphere, criminal pressures in the public sphere, adverse losses in the public life, and public problems from the past
+- Source page: 37; PDF page: 17 (one-based spread).
+
+Public burdens and sorrow, serious public deprivation, dangerous public problems, criminal burdens on the public, adverse losses in public life, and public problems from the past
+
+## Comparative Schema
+
+- core meaning: Public burdens aggravated by deprivation, danger, or inherited problems.
+- psychology: Sorrow and sad reasons for moving are explicit.
+- body/health: Witte names epidemics as an attributed source association.
+- social/relationship: Dismissed workers, refugees, and fugitives are separate examples.
+- events/manifestations: Serious deprivation, dangerous problems, losses, and problems from the past.
+- conflicts/notes: Criminal burdens do not make refugees or displaced people criminal.
+
+## Contradictions
+
+No direct contradiction is established. Displacement, illness, deprivation, and criminal burdens are distinct source examples rather than a single moral classification.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Hades`: dismissals of many workers, epidemics, to move away for sad reasons, refugees, and to be a fugitive.
-- Practical expression: pressures, sorrows in the public sphere, most acute lack of frequentity, dangerous problems in the public sphere, and criminal pressures in the public sphere.
+In `Vernal Point/Saturn = Hades`, public difficulty is intensified by deprivation and sorrow. The [Witte entry](#witte-entry) names worker dismissals, epidemics, sad departures, refugees, and fugitives. The restored [ABC entry](#abc-entry) adds serious deprivation, dangerous or inherited problems, and adverse losses. The reading keeps these forms of collective hardship distinct and confines criminality to the clause that explicitly names it.
 
 ## Links
 

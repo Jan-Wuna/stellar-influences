@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Jupiter`
 - Astronomicon formula: `W/¨ = V`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 Good behavior. To appeal as the teacher to the good senses and instincts of the students. Good example. High rating. Transferred to a higher grade. Successes of an educator or in the field of education.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Incriminating clarity through right, success through patience and reason, joy in spiritual tasks, mental happiness in old age, hard right truth, problems of right culture, loss rich money culture, and benefits through spiritual maturity
+- Source page: `368`; PDF page: `183`.
+
+Burdensome clarity through law, success through patience and reason, joy in spiritual tasks, spiritual happiness in old age, hard legal truth, problems of legal culture, financial culture involving loss, and benefits through spiritual maturity.
+
+## Comparative Schema
+
+- core meaning: Educational benefit and mature understanding, with difficult legal or cultural truth also present.
+- psychology: Patience, reason and joy in spiritual tasks.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Teaching through good example and appealing to students' good sense.
+- events/manifestations: Educational success, advancement to a higher grade and benefits of maturity; legal and financial difficulties also appear.
+- conflicts/notes: Witte's favorable educational examples do not remove ABC's burdensome legal clarity or losses.
+
+## Contradictions
+
+Witte concentrates on successful education. ABC includes benefits and success alongside difficult legal and financial culture; these concern different conditions rather than an explicit disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Jupiter`: good behavior, to appeal as the teacher to the good senses and instincts of the students, good example.
-- Practical expression: incriminating clarity through right, success through patience, reason, oy in spiritual tasks, and mental happiness in old age.
+In `Saturn/Poseidon = Jupiter`, Jupiter specifies education and understanding through benefit and advancement: good example supports teaching, students may progress and educators may succeed ([Witte](#witte-entry)). [ABC](#abc-entry) links success with patience and reason and names joy in spiritual tasks and the benefits of maturity. It also retains burdensome clarity through law and problems in legal or financial culture. The shared emphasis is on the results of cultivated understanding, whose value can include facing a difficult truth rather than an entirely pleasant outcome.
 
 ## Links
 

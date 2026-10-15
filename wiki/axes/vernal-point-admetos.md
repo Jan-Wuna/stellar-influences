@@ -66,19 +66,37 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `ARIES + ADMETOS`
+- PDF page: `53`
+
 #### Pair Summary
 
-Circulation. Rest. Standstill. Death on Earth. Raw materials. Resistance nF the general public. Base origin. General shrinkage, reduction, decrease, compression.
+Circulation. Rest. Standstill. Death on Earth. Raw materials. Resistance of the general public. Base origin. General shrinkage, reduction, decrease, compression.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `54–55`; PDF page: `26`
+
 #### ABC Pair Summary
 
-Perseverance in the public, restrictions in the public, blocked (Jöffentikdt, strengthening in the public life, public circulation, public resistance, and underridden public
+Endurance in public, restrictions in public, a blocked public sphere, consolidation in public life, public circulation, public resistance, a suppressed public sphere.
+
+German pair summary checked: “Ausdauer in der Öffentlichkeit, Beschränkungen in der Öffentlichkeit, blockierte Öffentlichkeit, Festigung im öffentlichen Leben, öffentlicher Kreislauf, öffentlicher Widerstand, unterdrückte Öffentlichkeit”.
+
+## Comparative Schema
+
+- Core meaning: Public restriction, resistance, standstill, and reduction coexist with endurance and consolidation in public life.
+- Psychology: The ABC entry names perseverance; neither entry establishes a fuller personal psychological profile.
+- Body/health: "Death on Earth" is a historical general association in the pair summary. "Circulation" is not identified there as a bodily process, and the entry gives no diagnosis.
+- Social/relationship: Public resistance, suppression and restrictions concern collective conditions rather than a specified intimate relationship.
+- Events/manifestations: Rest, standstill, shrinkage, compression, and raw materials are explicit; circulation remains a separate named motif.
+- Conflicts/notes: Endurance and consolidation must remain beside blockage and suppression; circulation is separately named and is not defined as a bodily process. Death on Earth remains a source association, not a forecast.
 
 ## Related Activations
 
@@ -103,11 +121,16 @@ Perseverance in the public, restrictions in the public, blocked (Jöffentikdt, s
 - [Vernal Point/Admetos = Vulcanus](../activations/vernal-point-admetos-equals-vulcanus.md)
 - [Vernal Point/Admetos = Zeus](../activations/vernal-point-admetos-equals-zeus.md)
 
+## Contradictions
+
+Circulation appears alongside rest and standstill, and consolidation beside blockage and suppression. These are a range of public conditions, not a single claim that every expression is complete immobility.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes circulation, rest, standstill, death on Earth, and raw materials.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Vernal Point/Admetos concerns public or earthly conditions characterized by restriction, resistance, and reduction. Rest, standstill, shrinkage, and compression can appear as a blocked or suppressed public sphere, while endurance and consolidation preserve the possibility of persistence or firmness in public life. These meanings give both the limiting condition and a capacity to hold within it, without establishing a particular personal outcome ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
+
+Raw materials and circulation widen the pair's range beyond a psychological description; circulation should not be silently converted into a medical claim or assumed always to mean blockage. The historical reference to death is likewise a source association, not a prediction supplied by this axis alone ([Witte](#pair-summary), [ABC](#abc-pair-summary)).
 
 ## Links
 

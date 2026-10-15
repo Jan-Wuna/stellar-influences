@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Poseidon`
 - Astronomicon formula: `Q/¦ = ¨`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Deep spiritualized love. To become absorbed in the devotion of world philosophy, to merge into the spiritual life.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Limited love for truth, limitation of peaceful ideas, consolidation of love through reason, strengthening spiritual harmony, strengthening artificiality and culture, deep love for truth, deepening of love through insight, and preference for profound clarity
+- Source page: 293 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Limited love for truth, restriction of peaceful ideas, consolidation of love through reason, strengthening spiritual harmony, consolidating art and culture, deep love for truth, deepening love through insight, and a preference for thorough clarity.
+
+## Comparative Schema
+
+- Core meaning: Love deepens through insight and spiritual devotion.
+- Psychology: Philosophical absorption and reason.
+- Body/health: No specific health claim.
+- Social/relationship: Affection consolidated through understanding.
+- Events/manifestations: Art and culture strengthened.
+- Conflicts/notes: Limited love of truth and deep love of truth both occur.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Limited love of truth and deep love of truth both occur.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Poseidon`: deep spiritualized love.
-- Practical expression: limited love for truth, limitation of peaceful ideas, consolidation of love through reason, strengthening spiritual harmony, and strengthening artificiality.
+Poseidon specifies Venus/Admetos through affection absorbed in spiritual or philosophical life. Reason and insight can consolidate love, while art and culture give devotion a shared form. ABC also retains limits on peaceful ideas and love of truth, so spiritual depth should not be assumed to remove restriction. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

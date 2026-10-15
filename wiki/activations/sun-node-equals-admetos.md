@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Node = Admetos`
 - Astronomicon formula: `S/g = ¦`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -42,13 +44,27 @@ No ability to make connections.
 
 #### ABC Entry
 
-Excluding personal connection, distressing personal connection, ending of a personal relationship, cramped human relationship, fixed personal connection, strengthening of a corporal relationship, and resistance of a contact person
+Source: ABC printed p. 141, supplied PDF p. 69, Sonne + Node, Admetos row (seven clauses). Translation from the German scan:
+
+An enduring personal connection; an oppressive personal connection; end of a personal relationship; a constricted human relationship; a firm personal connection; consolidation of a bodily relationship; resistance from a contact person.
+
+## Comparative Schema
+
+- core meaning: Personal contact constrained, ended, resisted, or held firmly.
+- psychology: An oppressive or cramped experience of a bond; no specific motive for withdrawal is stated.
+- body/health: ABC mentions a bodily relationship, without a health condition.
+- social/relationship: Difficulty making connections, resistance from a contact, or an enduring firm connection.
+- events/manifestations: Ending a relationship or consolidating one.
+- conflicts/notes: An enduring or firm bond is not automatically healthy; the sources also name restriction and endings.
+
+## Contradictions
+
+Witte's categorical inability to connect sits beside ABC's enduring or firm relationship. This is a difference in range that the short entries do not resolve.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Node = Admetos`: hidden or restrained connections and reserve in contact with others.
-- Practical expression: excluding personal connection, distressing personal connection, ending of a personal relationship, cramped human relationship, and fixed personal connection.
+Admetos specifies the Sun/Node axis through restriction and fixity in personal connection. A contact may be difficult to form, oppressive, resisted, or brought to an end, as [Witte Entry](#witte-entry) and much of [ABC Entry](#abc-entry) describe. ABC also allows an enduring or consolidated bond: fixity can mean holding on as well as being blocked, so reserve alone does not capture the whole entry.
 
 ## Links
 

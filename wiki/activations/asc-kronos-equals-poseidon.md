@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,24 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Kronos](../axes/asc-kronos.md)
 - Triad hub: [Asc Kronos Poseidon](../triads/asc-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-As an official or employee dealing with intellectual or spiritual things
+As an official or employee dealing with intellectual or spiritual things.
+
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Poseidon row; checked on the actual scan.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Other spiritual ienkens, prestigious cultural place, special spiritual place, spiritual hierarchy in the place, great clarity of the partner, state cultural place, strong guidance of the partner, and priority of the partner through insight
+Directing others intellectually or spiritually, a respected cultural place, a special spiritual place, local intellectual or spiritual hierarchy, great clarity of the partner, a state cultural site, reasonable direction of the partner, and precedence of the partner through insight.
+
+Source reference: Udo Rudolph, printed p. 129, one-based PDF p. 63, “Aszendent + Kronos,” Poseidon glyph row; checked on the actual scan. “Andere geistig lenken” is active direction of others; “vernünftige” means reasonable, not strong. “Geistig” retains its intellectual/spiritual range, distinct from the explicit “spiritueller Ort.”
+
+## Comparative Schema
+
+- **Core meaning:** Official work or direction involves intellectual, spiritual, or cultural matters ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Clarity and insight are attributed to the partner; no disposition toward doctrinal obedience is stated.
+- **Body/health:** Neither entry gives a body or health claim.
+- **Social/relationship:** An official or employee, directing others, and a partner's precedence through insight are explicit roles.
+- **Events/manifestations:** Respected cultural places, a special spiritual place, and a state cultural site are concrete settings.
+- **Conflicts/notes:** Intellectual/spiritual hierarchy and reasonable direction are represented; institutional suppression of free thought is not supplied by these entries.
+
+## Contradictions
+
+Witte's official or employee dealing with ideas complements ABC's direction and cultural places. The entries differ in scope without an explicit opposition or an assertion that institutional work requires doctrinal submission.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Poseidon`: administrative or subordinate roles tied to ideas, culture, or higher knowledge. Main caution: doctrinal obedience: thought and spirit may become subordinate to institution rather than genuinely free.
+In `Asc/Kronos = Poseidon`, Poseidon specifies the pair through intellectual, spiritual, or cultural work within authority-related settings. Witte names an official or employee dealing with such matters. ABC adds directing others, cultural and spiritual places, and a partner whose clarity or insight gives precedence. Reasonable direction and intellectual or spiritual hierarchy are part of that range, without a stated rule that institutional participation suppresses free thought. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

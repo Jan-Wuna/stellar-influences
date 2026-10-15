@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
 - Triad hub: [Mercury Mars Hades](../triads/mercury-mars-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Hades`
+- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ To hear about murder and to talk about it to others. Thoughts of robbery and mur
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Hades`
+- Source locator: printed p. `256`, PDF p. `127` (entry).
+- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Working with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and working emergency calls
+Working with old languages, discussing secret activity, talking about work shortages, talking about dirty work, dangerous media work, criminal acts of youth, lack of thought work, and processing emergency calls.
+
+## Comparative Schema
+
+- core meaning: Thought about danger or the past is expressed through work, reporting, or action.
+- psychology: The sources include thoughts of crime but also ordinary work with old plans or languages.
+- body/health: Witte's limited mobility describes an action condition here; it establishes no diagnosis.
+- social/relationship: Reporting violent events and causing losses to others are different source examples.
+- events/manifestations: Criminal acts, old-language work, secret activity discussions, dangerous media work, and processing emergency calls are named.
+- conflicts/notes: Hearing or talking about violence must remain distinct from committing it; old plans are not inherently hostile.
+
+## Contradictions
+
+The entries describe different settings or expressions rather than a direct contradiction. Historical clinical and moral terms remain attributed; thematic overlap does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Mars` activates the axis into criminal thought, harmful action, and old hostile plans.
-- Chart expression: talk of violence, robbery, or murder, causing losses to others, and acting from stale or degraded ideas under constrained or limited movement.
+In `Mercury/Hades = Mars`, Mars specifies Mercury/Hades through work or action involving difficult or past material. [Witte](#witte-entry) distinguishes hearing and talking about murder, thoughts or acts of crime, causing losses, working with old plans, and actions with limited mobility. [ABC](#abc-entry) also names work with old languages, secret or dirty work discussed, dangerous media work, and handling emergency calls. Reporting danger and acting harmfully are separate possibilities; the formula is no evidence that either has occurred.
 
 ## Links
 

@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Zeus/Kronos](../axes/zeus-kronos.md)
 - Triad hub: [Moon Zeus Kronos](../triads/moon-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Women with creative abilities. Women who know how to handle firearms.
+- PDF page: 289 (one-based).
+
+Women with creative abilities. Women who know how to handle firearms. People who create order among themselves. People willing to take orders. Military personnel. A nation efficient in warfare. Warring women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special circumstances of a woman, the hierarchy of a people, the great efforts of a people, the self sustaining efforts of a people, the performance of a people, women's state management, important women's goals, and the goals of women
+- Source page: 450; PDF page: 224 (one-based spread).
+
+Exceptional achievements of a woman, the leadership hierarchy of a people, great efforts of a people, independent efforts of a people, superior achievements of a people, women’s state leadership, important women’s objectives, and the objectives of leading women.
+
+## Comparative Schema
+
+- core meaning: Collective organization and women’s leadership or creative achievement.
+- psychology: Willingness to take orders is Witte’s explicit group example.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Leading women, a people’s hierarchy and military personnel.
+- events/manifestations: Public achievements, collective effort and military organization.
+- conflicts/notes: Historical gendered and national examples do not establish universal traits.
+
+## Contradictions
+
+ABC emphasizes achievement and leadership. Witte also includes obedience, firearms and warfare, preserving different positions within organized collective action.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Kronos = Moon`: Women with creative abilities. Women who know how to handle firearms.
-- Practical expression: special circumstances of a woman, the hierarchy of a people, the great efforts of a people, the self sustaining efforts of a people, and the performance of a people.
+`Zeus/Kronos = Moon` places exceptional effort in women’s or collective activity. ABC gives women’s leadership and a people’s independent efforts and achievements; Witte adds creative women and people organizing order among themselves. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+Taking orders, military personnel and firearm handling are distinct historical examples within that organized field. They should not become universal claims about women or a people, nor erase the source’s creative and leadership branches. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

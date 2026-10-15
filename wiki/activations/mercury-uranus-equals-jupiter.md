@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Jupiter`
 - Astronomicon formula: `T/X = V`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Orator, quick at repartee. Sudden merriment. Lucky news.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting youth right, successful youth reform, success impulses for youth, successful technical language, joy in rhythmic movements, technical successReports, and unrest through language about money
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting youth law, successful reform among youth, impulses toward success for young people, successful technical conversations, joy in rhythmic movements, reports of technical success, unrest through conversations about money.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `158`; one-based PDF page `160`; entry code `0511` (actual PDF passage checked).
 
 Fortunate ideas, the gift of repartee, optimism and confidence, a good general view, a far-seeing mind coupled with the ability for long term planning, a clear grasp or comprehension of a matter. A fortunate turn, success in the solution of technical or mathematical tasks.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 Success through independent thinking. Generosity expressed as freely sharing one’s ideas with others. A willingness to always be open to new ideas.
 
@@ -70,22 +80,23 @@ Increased need for freedom and demands to be independent; a sharp mind which see
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Independent thought and quick comprehension support fortunate ideas or technical success.
+- psychology: Optimism, confidence and openness to new ideas coexist with a strong wish for freedom.
+- body/health: No bodily condition is stated.
+- social/relationship: Ideas are freely shared; legal implications and youth reform are explicit settings.
+- events/manifestations: Quick repartee, lucky news, technical solutions and success reports are examples.
+- conflicts/notes: ABC also retains unrest from money conversations; the entries do not establish inevitable success.
 
 ## Contradictions
 
-- None recorded yet.
+The entries broadly emphasize constructive independence. ABC's money-related unrest qualifies an exclusively fortunate account without contradicting the stated capacities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Jupiter`: inspired teaching, progressive thinking, and the ability to connect innovation with larger meaning. Main caution: inflated theory: insight can become erratic, scattered, or too certain of ideas not yet grounded.
+In `Mercury/Uranus = Jupiter`, Jupiter specifies original, quick thought as clear comprehension, independent judgment and a readiness to share ideas. A far-seeing view can support planning and technical or mathematical solutions, while repartee, optimistic confidence and recognition of new technology's potential give the mental speed a practical outlet. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Lucky news, successful technical conversations and reform among youth are concrete expressions. Legal questions and a heightened need for freedom also occur, and ABC retains unrest through conversations about money, so fortunate capacity does not guarantee every result. ([Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry))
 
 ## Links
 

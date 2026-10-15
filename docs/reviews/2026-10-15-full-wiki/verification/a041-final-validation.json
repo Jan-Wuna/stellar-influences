@@ -1,0 +1,421 @@
+{
+  "assignment": "activations-041",
+  "reviewer": "/root/activation_review_035_038",
+  "checked": 55,
+  "errors": [],
+  "ledger_counts": {
+    "41": 55
+  },
+  "duplicate_counts": {
+    "41": 0
+  },
+  "coverage": {
+    "assigned": 55,
+    "recorded": 55,
+    "missing": [],
+    "extra": []
+  },
+  "git_diff_check_exit": 0,
+  "git_diff_check_stdout": "",
+  "unresolved": [
+    {
+      "path": "wiki/activations/moon-admetos-equals-venus.md",
+      "unresolved": [
+        "Actual WittePDF135 prints 'Longing to be loneliness.' Exact intended grammatical form cannot be certified; retained unchanged. Meditation and contentment are independently clear."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-chiron.md",
+      "unresolved": [
+        "Actual Sandbach PDF39 prints re late and feelings conditions; retained with explicit note, no inferred source correction."
+      ]
+    }
+  ],
+  "fingerprints": [
+    {
+      "path": "wiki/activations/mercury-zeus-equals-saturn.md",
+      "before_file_sha256": "c17e6af111dc05c76199e9ffe90ddb96a8a68c32173fedcfeb02f8c5ef8cffc6",
+      "current_file_sha256": "b097ea8f42d2af6eea54a263b68757db64c23ce071cc9ee9ad1a4d1053002c7b",
+      "before_source_section_sha256_lf": "a5ebf0283bc389de3d9af0aeb47c010b5e1d35e5b9f1301fe627eeb47691d339",
+      "current_source_section_sha256_lf": "b57bb03689bca66de28083203027df2c5f64bda3909d45e11d621874f3ea019f"
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-sun.md",
+      "before_file_sha256": "d83e98a56a62b28a297b9f49e467ed4684c0e250c4ac5bc4a2bae1ed46b7e308",
+      "current_file_sha256": "d9a018dbb2eff0bdad8bdb1bada833a53890ca5889bfd9ec357af544cdb8fdf4",
+      "before_source_section_sha256_lf": "cf0510b06f06ffc376cf718297df82922a90ad5f5a35bbf810c5b3d3607bebe6",
+      "current_source_section_sha256_lf": "cdb575f83cdf4bda57b1b47219ed716f8dcb968d6286d9c78c830851542cd3f9"
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-uranus.md",
+      "before_file_sha256": "9c679742b8bbaa0a5a22715497f6be9d3a48d69e8b1210aee0c44d9a6360e501",
+      "current_file_sha256": "716ac5bec7c3e4227b1131a27b44c6cb10642820e4b4cc5c7ec525e4699c4573",
+      "before_source_section_sha256_lf": "eb80fa90a17c2826bf35772c8bf49ae364499ebe970d505368b1d0b3643e8b8d",
+      "current_source_section_sha256_lf": "f2ce679d4b65c8826258c54c2bb5152e151e40ab65093456da100fc7ab0f9d98"
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-venus.md",
+      "before_file_sha256": "1797e442004f4d482fa15c455bec72a89c806793befa0f4f801251ecdc3d177c",
+      "current_file_sha256": "8f38adf3f16639997c8390458187112f31c3c297b756039790ff0674879e80dc",
+      "before_source_section_sha256_lf": "52f7c658ac339805b15fda6fa44b8409dae96253eefbd947b45c83769d7be09f",
+      "current_source_section_sha256_lf": "a2db43af5cb07590d00c27b4d37837718ebb2cdc39167b15dd9850c7eee01f10"
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-vernal-point.md",
+      "before_file_sha256": "b3db13782c31b296adeb461686eb34290ae2351ba0b50419ba89f178971ef3a4",
+      "current_file_sha256": "40786f9019f96d6c57449e697fccb011277f65245cef98e40e2a15302e2f8cbe",
+      "before_source_section_sha256_lf": "ba95065b53ab4694ca1eff7fd3b0b72cfdffc14e4acf8701dfb812f7a41a10e9",
+      "current_source_section_sha256_lf": "1b1d65421c68a34eccdf6086cb645c2560ed34adf1726e1b7f7f0ad59aaed893"
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-vulcanus.md",
+      "before_file_sha256": "0cebbbde9a07b996711308609245473fa8c881fda6bc225e710632260b8be31a",
+      "current_file_sha256": "6eb8e97035b580d5e23c8cdafade79400cb2164c37fe0f5d08cfbe70b2a8d5c2",
+      "before_source_section_sha256_lf": "5ab1b2453c0333628fe957fde509b3abce15f39c6917e6ecc88076d77ac94009",
+      "current_source_section_sha256_lf": "596c59dfa980265a493fb50ab7ce9f7ab96f8b2fc8ffef21eb2d84828827c248"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-apollon.md",
+      "before_file_sha256": "b9b802c4d6c414d7437a38646176a1d1121c2e0442bd18a21b5007f1c3d2a053",
+      "current_file_sha256": "a6577fffcdc0950104b437b84af618f153d74552b1bf147d3cd38611478f4b52",
+      "before_source_section_sha256_lf": "6da17b50e8fdd669c9baca9192c191283bec68aed2cb384579bb397494f3f00a",
+      "current_source_section_sha256_lf": "ea008a2db7c097618030bb78906909e9d90a895841b3c317059d547124b9e076"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-asc.md",
+      "before_file_sha256": "68b8f8e654ad37cadf405061d51ad359a7b0a9c6caa8cb3314d25442de63e191",
+      "current_file_sha256": "80f2f4603f1b5b0835e3843368b3d751b83bca4267dbaacd8919cf7940337ead",
+      "before_source_section_sha256_lf": "51afd7cdd1f56cbd753337ed4eb7831d276d396f1b63a62507d50c903ed53a69",
+      "current_source_section_sha256_lf": "db6cc9b831e3c37e54a602512a4d64296cce632ebc6b301512137933ff403455"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-cupido.md",
+      "before_file_sha256": "7a841942509a40b5aa4e5b5678bbc9183aed1069d87befb0cd84a56ef09dc793",
+      "current_file_sha256": "d7e283d34006b1068e0a436830f01e3a33dc6fdd737aaaf057b8b1bd578a6be0",
+      "before_source_section_sha256_lf": "b9632c2c6e06ab6ad071ce37c249a401b3fa420bcaffd71f3cf6ff09721e307a",
+      "current_source_section_sha256_lf": "66ba3cf0e9e15ea687864ead71cebfb797525c0023a07bd67bd921a682f38cf9"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-hades.md",
+      "before_file_sha256": "eafe7122d7be3987b40a82184988fa136ae2a29380079577afc6c5b8342c3000",
+      "current_file_sha256": "3fbff4e6f2bb8a170157ad35c1ab8d5d37d4499c05082009e3c36d910a2d7f6d",
+      "before_source_section_sha256_lf": "aa374becbb691c95656e323cb7f7ef26adbda1b4980b9f08f163b0daa12a9ce3",
+      "current_source_section_sha256_lf": "61fd04cc45126e9d65f94d528069d3f6e2988b11ee2d783d33d59f249f4f4974"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-jupiter.md",
+      "before_file_sha256": "4ea479ef69df745c39dd40a0b57fa69983d69403d97ddec63d84dc3f5230b200",
+      "current_file_sha256": "6e7c4341b606b375a8b780cb51d330aff8412b772bf73adfccfc13eda63b08c6",
+      "before_source_section_sha256_lf": "ad6f7c9ef09960da4b363d60d1ac15e4d91794709767bd65f129c1ba16027c49",
+      "current_source_section_sha256_lf": "1ef308f237d807f6a1bd888145ee965d2c797de2da47b9a8424131df81357de3"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-kronos.md",
+      "before_file_sha256": "e466395951cfa6f4cf92471b18e5608b5c2375878d4227138008402912a89544",
+      "current_file_sha256": "0bf8e64a902f6d1f68e1b5da7a70c3d0c583ae7ce56b342990aa0cd6ca421f07",
+      "before_source_section_sha256_lf": "7926f2d7e5a3d630ff0de9b904a946aaa432256ae15e48df5aa7943b280476fe",
+      "current_source_section_sha256_lf": "1b9244dd8306af5c4b4b7365726e310ba5e0ab7d2457d54a33525771b19fc41e"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mars.md",
+      "before_file_sha256": "b69f4a63eed5dec0f034f619f9ac76645116c7ee3507adb1edce3be72037c4b5",
+      "current_file_sha256": "e92330ab99a85a22169d1c1dea7cf451516013ce31a9a31275c99583f17d7d12",
+      "before_source_section_sha256_lf": "dfb6174758ad103c342fb86393df28499df1630ed75fc4a1a49f7d8b4246b962",
+      "current_source_section_sha256_lf": "13964c233fbad9db009016ec81f7200191d3ff50176ea51247f8356627b3d9ed"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mc.md",
+      "before_file_sha256": "3ce768ad74aa1897773771663f276f9b81da290dbd8d9e35f81fe17aa4b10539",
+      "current_file_sha256": "b73d58ee10659f6d94230eefdc19082fd1129d41d38766de98a3897303c17801",
+      "before_source_section_sha256_lf": "6014dc17364991142dcdac0507a38bee0f0b9b001858f4026b128f3d8991f1cf",
+      "current_source_section_sha256_lf": "aa55422179e8a7056e032289bf83e156d7f9a866f8ed380d22add22aa900ea82"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-mercury.md",
+      "before_file_sha256": "561ce0012008c4265c24e9fd104fd7ade794c66c319541780b0b4df3bd9583eb",
+      "current_file_sha256": "17d521c072e87deed5ca34029036ad18d7716c59c316c63a9227d2cdfcdf850f",
+      "before_source_section_sha256_lf": "a97b6618c5c1aa8104e0539c7bc207b7182881125bdaf594a33aeacc47ca3b31",
+      "current_source_section_sha256_lf": "02220bc007721085c7113b0e6097a671ae3a189b82a04d4db10bf566131a02aa"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-neptune.md",
+      "before_file_sha256": "c58d7209b58e0e60c4dfb74c49368a3a5383b103423d57ff453e2d31da735634",
+      "current_file_sha256": "2f96d9cfa3aed247d7710c6557fa482b709d66cf41daa957faf6220069835c9f",
+      "before_source_section_sha256_lf": "715113f43a20e7ac393dfc2134bd4d32870bc97069205b563caa9a4e72ba592d",
+      "current_source_section_sha256_lf": "0f990d1e7614e9b2e953f29f64efab17d63301efbdb50a4baa9e64630086a654"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-node.md",
+      "before_file_sha256": "3001efadf1e5c16a0e934b0a34cd934ecbd2bfcb0a58eb2355487975b2111646",
+      "current_file_sha256": "b8e5a1e41d96aee192b72d0f9e4c647e63cd37e454a8bdd1b0ea457a7594e4ae",
+      "before_source_section_sha256_lf": "3cd5b7d1aeb30292be913ab15a89ed97b9eb424478076bfd01dec4c70f840cd8",
+      "current_source_section_sha256_lf": "0ef804df53c7d85cc98f37fb661b342e87c17d9230ec43ade0104dba66d6c30c"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-pluto.md",
+      "before_file_sha256": "75761daea71017c6910b964cb5d4d435a561542891b2febe969ec5490ea3af50",
+      "current_file_sha256": "6188170f7c0d3947b815989350e19729b9d07fea4b600135e892b5a55157dbc3",
+      "before_source_section_sha256_lf": "222daf19d0d086a25674989a17b70c3cddbf76e95603027eb7cba3c33d607907",
+      "current_source_section_sha256_lf": "01026c1dbe21e96c00a600759c6b2c68ff12ac90794993402d797187e356699f"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-poseidon.md",
+      "before_file_sha256": "249037b467e600742060d2a6195c467a18206e065f818b9918811a67040f1d18",
+      "current_file_sha256": "b1530d0e0979b137412c0e20b624dd76a51af780e5fa23d65200f3b8df79304d",
+      "before_source_section_sha256_lf": "d5930853e81f1a5f4935cb2ef5c8ed15fe9edfec7ae675312cfb783dda89824c",
+      "current_source_section_sha256_lf": "bdb4a3bf2c5036693b3b6e3f55bd2ec1cc0d13e188fcf9d862c6269fe65bab15"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-saturn.md",
+      "before_file_sha256": "03d741e4ae9369bb96f1b00952b2897b7d8d4d39e1ff089af644b4c591c1ed3e",
+      "current_file_sha256": "12537f4982619707da3c88ac9d92c7c209e9879e02b667738122409b5c350247",
+      "before_source_section_sha256_lf": "3edd36a256622b17a743972b9014b95acbb14cc9ed1d90a415cd71dd5a4e82e5",
+      "current_source_section_sha256_lf": "f2f36e719e57e0957e67ee23c8f4a0e482fd9c1cfb636d39c3256d8cdeaaa40c"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-sun.md",
+      "before_file_sha256": "b45b30f63827e7bd7f0a61df8d69d5b46216fd3cf37a874a4cfd2962f40d02b7",
+      "current_file_sha256": "f1d33b6726b6964013d40ab636b3b00860575023b037cd8fa37dc2d52bf8c606",
+      "before_source_section_sha256_lf": "e27288ba9cfd8c5b05a9fbb188e79783dd9197e46b09e30950a2e721f35df9d2",
+      "current_source_section_sha256_lf": "a91adf305575462d3e3a9012dffd07a4e79072327e50ef7966e7420bef85baed"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-uranus.md",
+      "before_file_sha256": "d3854b54dedef75b27d191fa94657c385f3a2ed46f514f51488a26bc6e8c2431",
+      "current_file_sha256": "d0e32224fd4b13a134343cb5b4dca3a99139b85806ed8803b668432fb4997328",
+      "before_source_section_sha256_lf": "6dc4c14bb5ac83f5c45db3f39f032012570b2bbaa66786833424f087942b1fb9",
+      "current_source_section_sha256_lf": "b420079fc9782e0438cc976e52b3075d7769603ea12ff4f1ba887c0ec26aa548"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-venus.md",
+      "before_file_sha256": "42474ce5be8227438d713b8e5c3f58b28ddf74dcf7241fd2ab15e75b78d8b124",
+      "current_file_sha256": "c8b03c054eeee7519cf6650074d0f690ca72257227561f0f21e055e079d513f2",
+      "before_source_section_sha256_lf": "8b8b8a0e3365d9819e89ffbcf600a1fd383100c06aa7903e84efb6091ce207b7",
+      "current_source_section_sha256_lf": "6e4c9255afcb09277efa7250835ac1d0cfe5b677da13238e5a36c503fbb1f7d9"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-vernal-point.md",
+      "before_file_sha256": "6e0bd4170d1866a010b117024a5d68b4cc35402f78836f702c4abefdb6517188",
+      "current_file_sha256": "afdc9d9a663b97d1647ddebcbce2799f58df6e87b2e9c12cb5e434645553d56c",
+      "before_source_section_sha256_lf": "4196050d58027cbcc0aed804aa6a02ddd67962ac4d5ded2a1e80a2e5692424a1",
+      "current_source_section_sha256_lf": "4bc07cbd9b7d7515bce77df9ee6cd25469b152f60e3be96e52d8875af13c4985"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-vulcanus.md",
+      "before_file_sha256": "d47321bac1eaf61a0ae828fe14cac1ab8554470c6c70de7e1d222964e416f21e",
+      "current_file_sha256": "3a376686819fbee7332df71ee47be2d80c40391bf05ebc41ec421a66adfe2fa4",
+      "before_source_section_sha256_lf": "a4c063d0bb6aeb255e9335dc1e38b171ff1336367e725341facc586b3df8d289",
+      "current_source_section_sha256_lf": "9caeb8eb3eb02f21057f6f85ee770260d98758072bb2f97a5d304fefc18adebb"
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-zeus.md",
+      "before_file_sha256": "13786f896e895e104b48abbe7255c3ba1480596dd4fea41dd6224f7ded3977e3",
+      "current_file_sha256": "4f2b9d58d2d5ea79745197f41d7072cb2d5b46abec1f2d46fe68b9f8eaa058db",
+      "before_source_section_sha256_lf": "249f4592769f550913735c73214b66d52632d764890127926b43f0dcd7c026f0",
+      "current_source_section_sha256_lf": "836f5f35717cb1237c81d2a341a476748bbe8d8e5b39af1d00e3769be64a29a3"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-admetos.md",
+      "before_file_sha256": "3308b5588d8dfd323c17124ba7bc034c4cd8ffff2c1e78f08f1b13713d59a45e",
+      "current_file_sha256": "f2b73bad1e9d84596cb2b7aded692f53cb63cca3b24c85cd86030afcf911cc7e",
+      "before_source_section_sha256_lf": "b8507811cbcbb4337fc8a5c10659438d9a2307b9bf3f6d1ae7fa88ab2800c5ed",
+      "current_source_section_sha256_lf": "59fa7aabd1f47b29b13215dc707d528a96c4777a851961eaa04036c80c53701b"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-asc.md",
+      "before_file_sha256": "1d22c21ef442f1952e23d2c05d477aa17dde550466b84331aacba751b68de941",
+      "current_file_sha256": "e4e8e400705f53419fd4dd5920f707e22f0717da2caf7bcdbe11aa0c40762747",
+      "before_source_section_sha256_lf": "db3e2496a4fe3581888441bb8251166f07d787f29969f32db704dba329cc2916",
+      "current_source_section_sha256_lf": "53faf3653b708038906df66b880b7dd6447826f7862bc780501809bafc103bb2"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-cupido.md",
+      "before_file_sha256": "56fb88c50d58543e199c009ff91d3a729a0fc72109deb4f905609a6f765aa8af",
+      "current_file_sha256": "337c2fe13f1aaa45fe9f4b2ddd538cc04d8b83a78d4d5ed53e008ae96f5beadf",
+      "before_source_section_sha256_lf": "d55470843827be366814e386da579fadcf3968e9085ac7eb462df873ca9c1d40",
+      "current_source_section_sha256_lf": "e571768803263c20107e907e9b52ff6f9c24c62499d5897cba3a76f0d6aa9fca"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-hades.md",
+      "before_file_sha256": "376e484cddef1a159f73fdfed028802d4027bf91cc70ada9777177169693e76b",
+      "current_file_sha256": "5f3590f762d8893d48f884e0d74cddd9e31b1d9428f5a92177adbf567b9ffb2a",
+      "before_source_section_sha256_lf": "a90001cf37a5f37dd0785ffdbe76afacacc9e39ca57bfe3b2e997276302b1022",
+      "current_source_section_sha256_lf": "c148a3a916dbcfca10056538e3f98406da612fb7bb79d104da79e9615c8d4c86"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-jupiter.md",
+      "before_file_sha256": "46720deeb124413b6c2484245c089e43a8b81cb69d9d071b8a42577d035ce260",
+      "current_file_sha256": "0296bf2bb6dc694ffe6cd9de3551e7d3efb8dc76964a63209c22f063e099b0f0",
+      "before_source_section_sha256_lf": "2f1263585c1c25d49f544275b18da1c7a50ba06f620337073c113b15f86bd81c",
+      "current_source_section_sha256_lf": "e18f94e6db414d2a85f0f6e7670696c20ddcd155da3f25c7748d8e7205baa053"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-kronos.md",
+      "before_file_sha256": "1557cabe4ce7d870adad284a08d3217425f343334f30bc47aac1ec4961a826ec",
+      "current_file_sha256": "a26f59102e26a6a2a4d1a63ef0785cb2354a9fe7ff82465cd53240264ae84209",
+      "before_source_section_sha256_lf": "56ded5adec7a6d720e36c88f822ca527bcaafbfe39043fdd7adb824dff252117",
+      "current_source_section_sha256_lf": "41d141c5f2bd4c279b225ff7a96527b053faa0ec093c39256bfda19b70979393"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mars.md",
+      "before_file_sha256": "7bd2044fdbef56215519361c4624df660a04ef1d8b570c474daa77e44070b920",
+      "current_file_sha256": "254424ca9fb518d62ebf34101d37272248ee479f28432a79c191dbe977b906b2",
+      "before_source_section_sha256_lf": "0fd94b8d617238ad86dd26ca9618062ab1009ad556dee4dd6601cbd0a3c2d0f0",
+      "current_source_section_sha256_lf": "983ef3b158bbfa8ad119d2356ab2ab20c4c27dc2f172921ceea0f1cc27ef375b"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mc.md",
+      "before_file_sha256": "64b1768be6330d2c43120a6be12f52a5ab48efe0da466f5c9802322e1ef06a5d",
+      "current_file_sha256": "a181d449e51ca7166f2a5a7fc3cf070427bd26a27c893b3da4cb81371dd744d1",
+      "before_source_section_sha256_lf": "fed581d5953912f3bb6cb285eedf5e27daddaf13798280fa14425c2a6fca2343",
+      "current_source_section_sha256_lf": "fe9e8a1971deb810e75f3123c7c774bd0c72742f8ed9289b60d018ce45243437"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-mercury.md",
+      "before_file_sha256": "c9232786cb013452abe3878c13a90e0dbbb8f16950a6a81f5fb569e10c47b550",
+      "current_file_sha256": "d5020db65e39ad6858466f262b2a3b71b6d683a8ba0011059070e5610ad028a8",
+      "before_source_section_sha256_lf": "55216eb362556b9cf94a01abdcc2e7e9665159b889a52255f392187438e1ae1b",
+      "current_source_section_sha256_lf": "4353cccc4d35a41ae37899596e5c4c1df32316d5c397c036c36f552f082c848c"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-neptune.md",
+      "before_file_sha256": "0ca7bcc7072ed61ae6e454657d75a58c9293babfd319b29d932e2e57bf21649c",
+      "current_file_sha256": "54f081d955674a85b384a01b1ac294fb0f1ded7ae7e44d1f9934a71bf15e1802",
+      "before_source_section_sha256_lf": "5a245e9a71a91959e1684ce4c3841ead66a024da47a0deed716d21f97094a238",
+      "current_source_section_sha256_lf": "02099a32453f14bf502b24a3164d73e31de604920882c4e5003adf1e252e66f5"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-node.md",
+      "before_file_sha256": "5f1dd5ca513ca21f747c7193ab937d88b0f3256c49fab2535216d4804bba28c8",
+      "current_file_sha256": "6f172974f0a89c88795f8da6874551de8bc7d31438cbc61c1970a68146ba20be",
+      "before_source_section_sha256_lf": "81fec3298b664f9f12b97b58ebc8cf3272d9dfc2774ea6f34e905756b056aa33",
+      "current_source_section_sha256_lf": "c44105c35648698f8b0c7a9653425709d27fe137c896225105057d27c22ce839"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-pluto.md",
+      "before_file_sha256": "568f62e396525244513f481aeb6114564670c21a2b3d135e89aa4419eaeaed51",
+      "current_file_sha256": "e44c9f348ae4865e04bf3c01ba672e4abc093915783e71f44fa0a1fa4377e07e",
+      "before_source_section_sha256_lf": "c57e5d54409795dd5b71503f9ee38df9c60f971a62f559da8a0ee2573b572105",
+      "current_source_section_sha256_lf": "3cdcfcc9177a999f88fee584000dd4c0165a0a31be7e48ea9afd413d042818af"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-poseidon.md",
+      "before_file_sha256": "287284f4ed02a1bf5c56da82f7a83c2857e62478f9fd0813892620677efe1704",
+      "current_file_sha256": "60fe2794fd825a977e649e26cc0681c2092cee31a5d3a44f1bc69cf8ffbbf205",
+      "before_source_section_sha256_lf": "6bb6aa255fdfb5db8225725cb497ce2fb6a13036e844501255259785eddd3b4c",
+      "current_source_section_sha256_lf": "b4f78fc7626f11c3fda7ee96b3d0465afed8abe9543292ae60b058d071a7abe8"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-saturn.md",
+      "before_file_sha256": "d1a93c6775f6c6c05aa6256dd872fa6ffaca7537c2f3eff439bda4c7acd16e63",
+      "current_file_sha256": "9eef71afc226387e165d7d38b3e7b51ac85c217067913a57d85d02f76715c1bf",
+      "before_source_section_sha256_lf": "eab228ea70c3e2b054b1e42347f265bf063d87f723f131951a01980587888fc6",
+      "current_source_section_sha256_lf": "a85db34cc5b6f652e2d8ba55f0b2baff749c26600a49dd39c1f0f9db1cb6ed4c"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-sun.md",
+      "before_file_sha256": "0585f45958f532250fb9b4939d7b12787750bf91e9a72d18ace9865dcffcd078",
+      "current_file_sha256": "80a947c19be1099b740df0d3018e14982813ebcfc44eaee1180f800092fa56b0",
+      "before_source_section_sha256_lf": "c1e1d8482812bb3c1eb88f131a133bf23762b662c6954a421b31ceb9d531823a",
+      "current_source_section_sha256_lf": "563675af2cf217d555049cd7820afa98ce91cc4e8e9830fc3be539e948ca6bab"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-uranus.md",
+      "before_file_sha256": "335aaf8ba5252dbd278dddc9b0e88bce2e38aa9a0e0878fd0e5495f0eb454c84",
+      "current_file_sha256": "a5f1bcef08f2c8bb2a74cffb33f2f48b62a01777949c2712a81c2b012971eb00",
+      "before_source_section_sha256_lf": "b999583f5b29a175dcccb774aa822e96498c0f1928d27c576a2f1d2e5957f980",
+      "current_source_section_sha256_lf": "c1cfd17fec7ca8372cd084fe8f753734262f39731d0572661a4baeb4c3a733d0"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-venus.md",
+      "before_file_sha256": "e6a44feddb2666ab391b6ccb8a1cc0d4ec6cd3fbce70e6393840898d2b3f7c06",
+      "current_file_sha256": "3b90029d0f33242e19d463bf28efcb8de755cc795913ebf721e7cfd1d9c1d294",
+      "before_source_section_sha256_lf": "8c572d361fc4b4caf035a341811da73e75a57043bd4f5decb65a7ec78332a265",
+      "current_source_section_sha256_lf": "c9d3fe1f5b4257ba9bc4b28a8eeaddd8a87424033633631db56742958e9faa7d"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-vernal-point.md",
+      "before_file_sha256": "407dda6ac0abe9d34117bad5d207410ab68a0d00f3a58e106b62709475419101",
+      "current_file_sha256": "4965e59f2fae0ae080f067b8c9e31e604c073f5a5b4f1e4bc0b94d5bd7b6e0b0",
+      "before_source_section_sha256_lf": "b16890e755067aa30212cbdc277a9badadd0b5d34073ccbbdbb656cd90f5c9f6",
+      "current_source_section_sha256_lf": "319578b56a2c7a24149ecce767173da1a3ca06bab8461f569d97392b120d2893"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-vulcanus.md",
+      "before_file_sha256": "c35a3df1e12c48e8e6e66a831f6fdaab34f157ba7ee4dfa85d50e46a65796ed7",
+      "current_file_sha256": "589d55dbf6c9721e87b807487dbc49de9b997ea97de161416e763f90b61d7e8a",
+      "before_source_section_sha256_lf": "68ddedc5bba0a15c627739e9ea13abef275192855ba0c365dcdab7b0a24395a5",
+      "current_source_section_sha256_lf": "bf4e6a1ead4b8ae0742181937db47538aba72d5a6ecd54e653170fb171b2f364"
+    },
+    {
+      "path": "wiki/activations/moon-apollon-equals-zeus.md",
+      "before_file_sha256": "efbeed6649f5c7a7e8340a1c548f2a64e822dece6fa44def576394524c34e89c",
+      "current_file_sha256": "41da74a511886d95cb957bd007ea47822bcb21a39cbf938a20493d258cbc0011",
+      "before_source_section_sha256_lf": "ee5bb6e7166522f4e3c091db811d10acdefdeb11306dfbc560fff91927e5cf0c",
+      "current_source_section_sha256_lf": "8765913223a49eb7f544d3b16597b7387e79ed4736651b5663c2293036b9976e"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-admetos.md",
+      "before_file_sha256": "549ca91a6e72fc4ef9bb71075fa87bf2e3a4403c0ec3bb782462ec9f5a06a71d",
+      "current_file_sha256": "6e17c0ec8fc416f6dd094b1fbac8e99a2510a8057a142bce8097bc514cd872aa",
+      "before_source_section_sha256_lf": "1e99fc165aaf8dc9d17ce2168ca49ee2cf189443c949d0e2443ea7d66dec076d",
+      "current_source_section_sha256_lf": "ea74ccc381dc2f655e2d470babc88c3a994de23ac96e7fd770d171372e7e7ca9"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-apollon.md",
+      "before_file_sha256": "ffd02e13401a8343e5bbddca80d2359c175d99161fcc001459bae87ef294f773",
+      "current_file_sha256": "eb2c6b63e99f040bc614a34aaa9772dfa380127a5bde6fabcf339ce712e47370",
+      "before_source_section_sha256_lf": "698ded4a4f80d6f8470d95171990e7b9198fb7be4ff4f9eca1cc7043774aefe8",
+      "current_source_section_sha256_lf": "d4c920f7a955dd44addbbf757fc5ecf32e6235da637b31488612d1ba1e3a64e9"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-asc.md",
+      "before_file_sha256": "f3ff33b12d76520320447799db32d62fbb307183fbff04448502cc6f97112c3c",
+      "current_file_sha256": "1f21fe84d1da9c8cff5be532c3db821f31d550fe8df9703f7f0ea142648b326a",
+      "before_source_section_sha256_lf": "d70c493d1468c3b3963599a892a9213d17758cb51fd841268c9d6f41b6535b50",
+      "current_source_section_sha256_lf": "d70c493d1468c3b3963599a892a9213d17758cb51fd841268c9d6f41b6535b50"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-chiron.md",
+      "before_file_sha256": "4daa143e327a28f1f85bcd4ae660518a7c7a21d22997caf48c2b6a506d98418f",
+      "current_file_sha256": "78cdb4be9f0d33dfd7beadb5115a783ff3bc1e167a8758e0b6dfd53e57394bc3",
+      "before_source_section_sha256_lf": "605b85f9f9574f74b713a5b7605110ec8b9f75c4a2dea31164a9d6b2ff03743c",
+      "current_source_section_sha256_lf": "84f4b3b63e4e2d1bbf7eb9f76339ac2aed3f3b143076b489698e4f539d749493"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-cupido.md",
+      "before_file_sha256": "a0aa1e9d9d82f83c49e8bd7c771a4a10e886124e2fc4b4695ef4a696bc108253",
+      "current_file_sha256": "fd967177e66d8d7aa8157568dc395dbd8a1b9444eebecddf419e005096ca8289",
+      "before_source_section_sha256_lf": "efe4c3a0e0f0885a74947335738737b0204b81a88d7c1da2d127d98fa8bcee11",
+      "current_source_section_sha256_lf": "dfab803d06d50874913ff8c1c4d0d4f5da69b23ecc71992eccba9aa871934c9d"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-hades.md",
+      "before_file_sha256": "cd9898bd373dbd75b2151d65dab308c958c632753b7939bbd45c0f40e0019a49",
+      "current_file_sha256": "6e6ce7279a2dca3c10fdf68852edebddd00a5496e74f5ab77600651f7ae517f2",
+      "before_source_section_sha256_lf": "a2a25001e7fe512028cb01dd6663366255432120a67c68106833836ab0baf8f1",
+      "current_source_section_sha256_lf": "af0f24806ee713523775a9ff84669d181d8b08fd55b9cb27b903663367f90192"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-jupiter.md",
+      "before_file_sha256": "fc801b09c6fb0add171c8ecfa4f0921a4a823e95a87e2d4b6ad11f1719d1321b",
+      "current_file_sha256": "ef8d53a287f73fb989d0ccbdef24c2f41aecf763a2b308f69dbfae50423ea87f",
+      "before_source_section_sha256_lf": "fd809f9d557cfbe5d0a0c0e41e0966bfae55ab4aa170b8d53bbf220e1a2d98c8",
+      "current_source_section_sha256_lf": "896bcbdb9ffd72f1601236db64b006652b50b414903877c46fa8c7506b1c7c91"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-kronos.md",
+      "before_file_sha256": "bab64db711887a03d5da57fa2df649e4c8017168e3045489f5132a8f0b5cfba4",
+      "current_file_sha256": "838cded1ae19e4a88311b71a1c71a1ce6b624603a6bf38ceb233ab74b35812ae",
+      "before_source_section_sha256_lf": "a1f95a5fe420a43b207b5bc80467545dc8c37b477170e8e6760fe4788b7fb73d",
+      "current_source_section_sha256_lf": "4306fdba8ef7d3227e4cc17c5a78f707b5ffe7a37df30c8324e8d3b2851e9ada"
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mars.md",
+      "before_file_sha256": "f801e09bb4f2e1d6738acd2234730cad72fe635e94ed6b650bccc8fbca3e18d6",
+      "current_file_sha256": "99a9c5482277a6d213e7a20a2eb5fca54d419fa99d2034afa3995fd2c8a2dcd1",
+      "before_source_section_sha256_lf": "0b4a96dbc3db34c145cbad03f82703f004fa607a9f4941bbcb3460f79723a346",
+      "current_source_section_sha256_lf": "2dfce14ea30a5f3bb6cf883390169941fe42b58155990577485ee4d194aede67"
+    }
+  ]
+}

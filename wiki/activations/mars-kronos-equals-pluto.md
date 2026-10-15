@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `U/¤ = Z`
 - Axis page: [Mars/Kronos](../axes/mars-kronos.md)
 - Triad hub: [Mars Pluto Kronos](../triads/mars-pluto-kronos.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -40,15 +41,35 @@ To have great plans of activity. To develop one’s abilities in several fields.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 315, PDF p. 156; English translation checked against the original German scan.
+
+- Row boundary: Pluto starts `Besondere Aktionen zur Veränderung, Entwicklung der Arbeit im Staate, Entfaltung selbständiger Tätigkeit`. The line break inside `selbständiger` does not mark a change of activator.
+
 #### ABC Entry
 
-the activity, great change of will, state change of activity, action of the authority, priority development work, and increasing activity of the boss
+Special actions toward change; development of work within the state; development of independent activity; a great transformation of will; state activity aimed at change; development of an authority's activity; priority development work; growing activity by the chief.
+
+## Comparative Schema
+
+- core meaning: Large plans and the development or transformation of independent and official activity.
+- psychology: Witte emphasizes developing abilities in several fields; ABC adds a great change of will.
+- body/health: No bodily or medical implication is stated.
+- social/relationship: State power, an authority and a chief provide institutional settings.
+- events/manifestations: Large activity plans, developing independent work, changing state activity and a chief's growing activity are explicit examples.
+- conflicts/notes: The scan restores the beginning of ABC's Pluto row, which had been split into the Neptune entry. Development is not necessarily controlled reform or beneficial change.
+
+## Contradictions
+
+The entries share development and transformation. They do not establish whether the resulting change is beneficial, controlled or successfully completed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Pluto` deepens executive force into large plans, strategic development, and transformative uses of power.
-- Chart expression: major designs for action, expanding one's capacities across several fields, and state or institutional power used for development, reform, or controlled transformation.
+Pluto specifies the Mars/Kronos axis through development and transformation of independent or official activity. [Witte](#witte-entry) connects large plans with extending one's abilities across several fields; the scan-checked [ABC entry](#abc-entry) adds the development of independent work, changing state activity and an authority or chief whose activity grows.
+
+The change theme is broader than institutional reform alone and carries no stated guarantee of benefit. The ABC row now includes its scan-verified opening clauses, rather than beginning with the fragment left by the former Neptune/Pluto paragraph split.
+
+Evidence: [ABC](#abc-entry), printed p. 315, PDF p. 156; [Witte](#witte-entry), PDF p. 200 (entry start).
 
 ## Links
 

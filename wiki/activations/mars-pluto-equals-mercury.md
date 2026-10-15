@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mercury Mars Pluto](../triads/mercury-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Critic, debate and objection to a plan.
 
@@ -45,17 +49,23 @@ Critic, debate and objection to a plan.
 
 #### ABC Entry
 
+Source: “Mars + Pluto,” printed p. 306 (PDF p. 152).
+
 Development work in youth, development of thought work, development of written work, change of activity in youth, growing media activity, growing traffic activity, changing media activity, and will development in youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Pluto,” printed p. 214, entry 0737.
+
 Desire to realize plans fanatically, presence of mind, tendency to overwork the nerves. Excessive nervous irritation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74. The source prints “anything lengths” as retained.
 
 To say things that are extremely aggressive, which can sometimes cause a needed breakthrough. Overwork agitates and deteriorates the nervous system. The ability to go to anything lengths to get one’s ideas across.
 
@@ -70,22 +80,21 @@ Using foul or abusive language to bring attention to yourself; techniques which 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Forceful communication, criticism of plans, and developing intellectual or written work.
+- psychology: Presence of mind, fanatical realization of plans, or intense determination to be heard.
+- body/health: Ebertin and Sandbach attribute nervous irritation or deterioration to strain and overwork; these remain source claims.
+- social/relationship: Debate, objection, aggressive speech, or abusive language used for attention.
+- events/manifestations: Media, transport and youth activity; discussions of weapons or destruction; occasional verbal breakthroughs.
+- conflicts/notes: Sandbach says aggressive speech can sometimes produce a needed breakthrough; it is not guaranteed to do so.
 
 ## Contradictions
 
-- None recorded yet.
+ABC develops ordinary written, media, and youth work, whereas other entries emphasize intense criticism, abusive expression, or nervous strain. The range includes these different activities without making them equivalent.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Mercury`: incisive criticism, concentrated persuasion, and the ability to push ideas through resistance until a breakthrough occurs. Main caution: mental overdrive: nervous strain, obsessive focus, and aggressive speech can become destructive to both dialogue and the nerves.
+In `Mars/Pluto = Mercury`, Mercury specifies developing action and plans through thought, speech, and written work. Witte names criticism and debate about a plan; ABC includes intellectual, media, transport, and youth development. Ebertin and Sandbach intensify the expression through fanatical effort or aggressive speech, which Sandbach says can sometimes create a needed breakthrough. Munkasey adds abusive language and descriptions of weapons or destruction. The nervous-strain statements remain attributed source claims, and a breakthrough is a qualified possibility rather than the assured result of forceful speech. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 306 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0737; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

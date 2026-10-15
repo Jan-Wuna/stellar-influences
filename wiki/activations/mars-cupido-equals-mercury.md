@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Mercury Mars Cupido](../triads/mercury-mars-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ Sharp debates in a community or family. Critic on matters of working together. T
 
 #### ABC Entry
 
-Work of a community in transport, joint work meetings, youth work in the community, artist creators of youth, describing artistic work, working together with the media, and the will of the youth to the whole
+Work of a community in transport, joint work discussions, youth work in the community, artistic creation by young people, describing artistic work, working together with the media, and young people's will toward the whole.
+
+- Source reference: printed p. 308, PDF p. 153, Mercury row; `Kunst-Schaffen der Jugend` is artistic creation by young people.
+
+## Comparative Schema
+
+- core meaning: Shared work is discussed, criticized or communicated.
+- psychology: Thinking about marriage is explicit in Witte.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Family debate, work meetings and reflection on marriage are named.
+- events/manifestations: Youth work, media cooperation, transport and describing art are ABC settings.
+- conflicts/notes: Sharp debate is one expression; joint communication need not be a quarrel.
+
+## Contradictions
+
+Witte emphasizes debate and marital reflection; ABC adds practical and artistic communication. These different settings do not establish a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Mercury`: sharp discussion inside family or group life, active negotiation about partnership, and mental preoccupation with how people can or cannot work together.
+Mercury specifies the Mars/Cupido axis through discussion and communication within shared activity. Family debate and criticism of cooperation in [Witte](#witte-entry) connect with joint work discussions, media cooperation and describing artistic work in [ABC](#abc-entry). Witte also retains thinking about marriage. The entry covers both practical exchange and sharp debate without making disagreement the basis of every collaboration.
+
+Evidence: Witte PDF p. 197; ABC printed p. 308, PDF p. 153.
 
 ## Links
 

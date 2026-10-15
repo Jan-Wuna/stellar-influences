@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Kronos](../triads/vernal-point-jupiter-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Advantages through the father, superiors or authorities.
 
@@ -42,13 +46,27 @@ Advantages through the father, superiors or authorities.
 
 #### ABC Entry
 
-Special advantages in public, successful authorship in public, just superior in public life, great success in public life, public funds of the state, public state law, and legal state in public
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Special advantages in public, successful authority in public, a just superior in public life, great success in public life, public funds of the state, public constitutional law, and a state governed by law in public
+
+## Comparative Schema
+
+- core meaning: Public success and advantage involving authority and the state.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Benefits through fathers, superiors, or authorities; a just superior is named.
+- events/manifestations: State funds, constitutional law, and major public success.
+- conflicts/notes: Authority is the scanned term; the former authorship wording was erroneous.
+
+## Contradictions
+
+No direct contradiction is established. Personal benefits through a superior and state-level finance or law are different scales of the same authority-related theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Kronos`: advantages through the father, superiors or authorities.
-- Practical expression: special advantages in public, successful authorship in public, ust superior in public life, great success in public life, and public funds of the state.
+In `Vernal Point/Jupiter = Kronos`, public advantage is connected with people or institutions that hold authority. The [Witte entry](#witte-entry) specifies benefits through a father, superior, or authority. The restored [ABC entry](#abc-entry) extends this to successful and just leadership, major public success, state funds, and government under law. This is a reading about favorable authority and its civic effects, without implying that authority alone guarantees justice.
 
 ## Links
 

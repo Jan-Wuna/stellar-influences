@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Neptune`
 - Astronomicon formula: `g/¥ = Y`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
 Abuse of freedom. Not to know what to do with freedom. Dissolution of connection with many. Connections with future science or fringe science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `233`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-Exchanges of contacts with the economy, successful in connection with commodity, unclear landels connections, uncertainty in connection, viclc V kombindungen in the Lull, knowledge analysis in metaphysics, and future knowledge
+Disappointing contacts with the economy, success in connection with water, unclear trade connections, uncertainty within a connection, many connections in the air, sharing knowledge in metaphysics, and sharing knowledge of the future
+
+## Comparative Schema
+
+- core meaning: uncertain or dissolving broad contacts coexist with water-related success and future-oriented knowledge.
+- psychology: not knowing what to do with freedom is Witte's specific description.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: many contacts, trade ties and economic disappointment provide social settings.
+- events/manifestations: connections with future or fringe science and metaphysical knowledge-sharing are named.
+- conflicts/notes: future or fringe knowledge is attributed source language, not an endorsement of its reliability.
+
+## Contradictions
+
+Witte emphasizes misused or uncertain freedom and dissolving contacts. ABC also includes successful water connections and knowledge exchange; disappointment is not universal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Neptune`: Abuse of freedom. Not to know what to do with freedom. Dissolution of connection with many. Connections with future science or fringe science.
-- Practical focus: abuse of freedom; also not to know what to do with freedom.
+Node/Apollon = Neptune concerns the uncertainty that can accompany wide connections or freedom. [Witte](#witte-entry) names not knowing what to do with freedom, dissolving ties and contact with future or fringe science. [ABC](#abc-entry) adds unclear trade and disappointing economic contacts, but also success in connection with water and knowledge-sharing about metaphysics or the future (printed p. 233, PDF p. 115). These are varied expressions; references to future knowledge remain attributed rather than proof of predictive accuracy.
 
 ## Links
 

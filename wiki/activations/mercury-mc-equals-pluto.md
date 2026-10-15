@@ -33,29 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Pluto MC](../triads/mercury-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-P Logical thinking. To think of transformations and change. To come to a conclusion. To change a personal opinion.
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
+
+Logical thinking. To think of transformations and change. To come to a conclusion. To change a personal opinion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of my opinion, development in my youth, thoughts about mental development, I at the thinking of development, I at the talking about transformation, my thought development, my language development, my word exchange, and soul language development
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Entfaltung meiner Meinung, Entwicklung in meiner Jugend, Gedanken über seelische Entwicklung, ich denke an Entwicklung, ich spreche von Umwandlung, meine Gedanken-Entwicklung, meine Sprach-Entwicklung, mein Wort-Wechsel, Seelen-Sprache entwickeln
+
+Editorial translation from the German passage: Development of my opinion; development in my youth; thoughts about inner development; I think of development; I speak of transformation; my development of thought; my language development; my exchange of words; developing the language of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 174, coded entry 0575.
 
 The pursuit of fanatical aims, excessive ambition, obstinate pursuit of a particular aim or objective. A turn in one's career.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: one-based PDF p. 54, exact oriented entry checked against the actual raw scan; chapter starts at PDF p. 53.
 
 To be obsessed with certain ideas and the wish to fulfill them. To have intense and/or transforming communications with those in authority, or with the spiritual realms directly.
 
@@ -70,22 +82,21 @@ Urges hard work to correct defects in your personal attitudes; the extremes you 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal ideas and aims pursued intensely or transformed.
+- psychology: Obsession, ambition, and a drive to reconcile work and life principles.
+- body/health: No specific bodily or medical claim appears.
+- social/relationship: Intense communication with authority figures; seeking recognition.
+- events/manifestations: Changing an opinion, reaching a conclusion, and a turn in career.
+- conflicts/notes: Changing a personal opinion and obstinately pursuing an aim are different possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Witte permits changed opinions and logical conclusions; Ebertin and Sandbach also describe obsessive aims. The source's Pluto P marker has no doctrinal meaning and has been removed from prose.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Pluto`: strategic intelligence, deep focus, and communications with authorities or the world that carry unusual intensity and consequence. Main caution: fixation: ambition and thought can become so driven that flexibility, proportion, or healthy detachment are lost.
+Pluto specifies Mercury/MC through the intensity with which personal ideas and aims are pursued or changed. The [Witte entry](#witte-entry) includes logical conclusions and revised opinions, while [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) describe ambition, obsession, and transformative communication with authority. [Munkasey](#munkasey-entry) (p. 184) adds hard work on one's attitudes and efforts to reconcile work with life principles. A changing outlook and an obstinately pursued objective are distinct possibilities, joined by the importance invested in the idea.
 
 ## Links
 

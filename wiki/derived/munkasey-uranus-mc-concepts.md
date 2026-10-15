@@ -6,12 +6,14 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Uranus/MC` as source-native image material.
+Preserve Munkasey's concept phrases from the third page of the `Uranus/MC` entry as source-native image material.
+
+For interpretation, start with the [Uranus/MC axis synthesis](../axes/uranus-mc.md#derived-synthesis) and its [Munkasey source entry](../axes/uranus-mc.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets).
 
 ## Evidence Base
 
@@ -124,3 +126,4 @@ Preserve Munkasey's page-3 concept phrases for `Uranus/MC` as source-native imag
 
 - These phrases are preserved as source-native concept prompts, not as comparative doctrine.
 - They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+- The list concerns the pair alone. For a formula with an activator after `=`, select the exact orientation under [Related Activations](../axes/uranus-mc.md#related-activations); these prompts do not establish its meaning.

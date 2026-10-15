@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Kronos`
 - Astronomicon formula: `U/W = ¤`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Kronos row.
+
 Quarrel with superiors, the chief or the government. Death of higher-ups or ancestors, for example the father.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Appreciation through hard work, particularly slow activity, concentrated action of an authorship, problematic work of the state, will for self governing in old age, separation activity of the state, and losses by state actions
+- Source reference: printed p. 301; one-based PDF p. 149, Mars + Saturn, Kronos row.
+
+Standing gained through hard work, particularly slow activity, concentrated action by an authority, problematic work of the state, will for independence in old age, separating activity of the state, and losses through state actions.
+
+## Comparative Schema
+
+- Core meaning: Demanding work and conflict involving authority, government, or independence.
+- Psychology: ABC allows recognition through hard work and a wish for independence in old age.
+- Body/health: No specific illness is stated; Witte's death examples remain attributed historical meanings.
+- Social/relationship: Quarrels with superiors and actions of the state are central social examples.
+- Events/manifestations: Slow work, problematic state action, losses, and recognition through effort.
+- Conflicts/notes: ABC names concentrated action by an authority, alongside recognition through work and problematic state activity; no writing profession is stated.
+
+## Contradictions
+
+Recognition through hard work in ABC differs from Witte's authority conflicts. Neither establishes the inevitable fall of a superior.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Saturn = Kronos` turns struggle and blockage into conflict with authority and the fall of superiors.
-- Chart expression: quarrels with bosses, chiefs, or government, and in harder cases to the death of higher-ups, rulers, or authoritative family figures such as the father.
+In `Mars/Saturn = Kronos`, Kronos specifies difficult effort through authority and public administration. This can involve quarrels with superiors or losses through state action, but ABC also permits recognition earned by hard work and a wish for independence. The [Witte entry](#witte-entry) (PDF p. 193) and [ABC entry](#abc-entry) (printed p. 301) support that range. Witte's death examples remain source-attributed possibilities rather than a forecast.
 
 ## Links
 

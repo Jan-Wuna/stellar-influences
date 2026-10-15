@@ -20,35 +20,49 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Admetos`
 - Astronomicon triad-set: `U Y ¦`
+- This hub groups an unordered factor set for orientation lookup. [Read the structural guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mars/Admetos = Neptune](../activations/mars-admetos-equals-neptune.md)
-- [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md)
-- [Neptune/Admetos = Mars](../activations/neptune-admetos-equals-mars.md)
+| Oriented activation | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Admetos = Neptune](../activations/mars-admetos-equals-neptune.md) | [Mars/Admetos](../axes/mars-admetos.md) | [Neptune](../factors/neptune.md) |
+| [Mars/Neptune = Admetos](../activations/mars-neptune-equals-admetos.md) | [Mars/Neptune](../axes/mars-neptune.md) | [Admetos](../factors/admetos.md) |
+| [Neptune/Admetos = Mars](../activations/neptune-admetos-equals-mars.md) | [Neptune/Admetos](../axes/neptune-admetos.md) | [Mars](../factors/mars.md) |
+
+All three possible base-axis/activator orientations are represented in the linked pages.
 
 ## Source Coverage
 
-- `Mars/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
-- `Mars/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `319`
-- `Mars/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `195`
-- `Mars/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `305`
-- `Neptune/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+Coverage follows the actual source subsections on each linked activation page. The references below are retained extraction locators; they have not been checked against page images in this hub review. A source catalog records scope, not proof that every orientation is represented.
+
+Every source named below is represented on all three linked activation pages (3/3). This is canonical-page coverage, not independent scan verification.
+
+- [Mars/Admetos = Neptune: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-admetos-equals-neptune.md#witte-entry) — PDF entry-start locator `202`.
+- [Mars/Admetos = Neptune: Udo Rudolph - ABC for Planetary Pictures](../activations/mars-admetos-equals-neptune.md#abc-entry) — printed page locator `319`, PDF locator `158`.
+- [Mars/Neptune = Admetos: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-neptune-equals-admetos.md#witte-entry) — PDF entry-start locator `195`.
+- [Mars/Neptune = Admetos: Udo Rudolph - ABC for Planetary Pictures](../activations/mars-neptune-equals-admetos.md#abc-entry) — printed page locator `305`, PDF locator `151`.
+- [Neptune/Admetos = Mars: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-admetos-equals-mars.md#witte-entry) — PDF entry-start locator `252`.
+- [Neptune/Admetos = Mars: Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-admetos-equals-mars.md#abc-entry) — printed page locator `402`, PDF locator `200`.
+
+Witte references identify the beginning of an extracted pair entry, not an independently checked formula line.
+Read the linked source wording with its limitations; source-text issues recorded in this review are not used as hub doctrine.
+
+## Contradictions Across Orientations
+
+This structural map does not assess agreement between source claims. Changing the base axis or the activator changes the formula; differences between these rows are orientation differences, not contradictions. Compare claims within the same linked activation before drawing a doctrinal conclusion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Neptune`: important hindrances, large disturbances, breakdown, and great failure where effort cannot hold together.
-- `Mars/Neptune = Admetos`: freezes weakened action into loss, cold damage, and destructive depletion.
-- `Neptune/Admetos = Mars`: This activation energizes `Neptune/Admetos` through work undertaken to improve difficult conditions. It makes adaptation active and labor-based, turning decay or shortage into something that can be met through effort, reorganization, and practical struggle.
+Use the row whose base axis and activator match the formula being read. Follow its activation link for sourced interpretation and its base-axis link for the pair meaning. The shared set of Mars, Neptune and Admetos is a navigation relationship; it supplies no merged interpretation across the orientations.
 
 ## Links
 

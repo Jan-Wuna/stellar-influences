@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Vulcanus = Vernal Point`
 - Astronomicon formula: `W/§ = VP`
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `230` (entry start).
+
 The people in general are subject to strong hindrances and obstacles and therefore have to watch their chances or advantages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Incriminating violence, influence/3 on public tasks, loss of public power--concertion in public, public energy problems, dead violence in public life, and loss of public power--concertion in public by violence
+- Source page: `366`; PDF page: `182`.
+
+Burdensome public force, influence on public tasks, loss of public influence, concentration of power in public, public energy problems, disturbing violence in public life, and public losses through violence.
+
+## Comparative Schema
+
+- core meaning: Public life under strong obstacles, concentrated power and possible loss of influence.
+- psychology: Witte calls for attention to opportunities or advantages under constraint.
+- body/health: No bodily or health claim appears in these entries.
+- social/relationship: Public tasks, collective hindrance and the exercise of public force.
+- events/manifestations: Public energy problems, loss of influence and disturbances or losses through violence.
+- conflicts/notes: Concentrated power and lost influence describe different public conditions; no particular event is determined.
+
+## Contradictions
+
+Both entries concern powerful public constraints. ABC specifies energy, influence and violence settings without directly contradicting Witte's broader obstacles.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Vernal Point`: the people in general are subject to strong hindrances and obstacles and therefore have to watch their chances or advantages.
-- Practical expression: incriminating violence, influence/3 on public tasks, loss of public power--concertion in public, public energy problems, and dead violence in public life.
+In `Saturn/Vulcanus = Vernal Point`, Vernal Point specifies concentrated force in public life: strong obstacles require people to attend to their chances and advantages ([Witte](#witte-entry)). [ABC](#abc-entry) gives this a more concrete range through public tasks, concentration or loss of influence and energy problems. It also names disturbing violence and resulting public losses. The entries concern the constraints under which public activity occurs, without selecting a particular political event or inevitable outcome.
 
 ## Links
 

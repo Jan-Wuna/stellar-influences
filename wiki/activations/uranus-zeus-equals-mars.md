@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Mars`
 - Astronomicon formula: `X/£ = U`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Procreation of a boy. To offer resistance. To suddenly become rebellious. Hand grenade. Grenades.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Starting tensions at work, efforts to achieve technical achievements, dynamic training work, leadership work in technology, start new activity, new directional impulses, creative will impulses, and technical work performances
+- Source page: 378 (printed); PDF page: 188.
+
+Starting tensions at work, efforts to achieve technical achievements, dynamic leadership work, leadership work in technology, start new activity, new directional impulses, creative will impulses, and technical work performances
+
+## Comparative Schema
+
+- Core meaning: Creative will becomes resistant action.
+- Psychology: Rebellion and resolve.
+- Body/health: Historical boy-procreation claim; no sex prediction.
+- Social/relationship: Work tensions and technical leadership.
+- Events/manifestations: New activity; grenades.
+- Conflicts/notes: Witte's sex-specific procreation claim remains attributed.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's sex-specific procreation claim remains attributed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Mars`: Procreation of a boy. To offer resistance. To suddenly become rebellious. Hand grenade. Grenades.
-- Practical expression: starting tensions at work, efforts to achieve technical achievements, dynamic training work, leadership work in technology, and start new activity.
+Mars specifies Uranus/Zeus through action that starts work, directs technical effort, or offers resistance. The same will can become sudden rebellion; Witte also gives grenades as an explosive manifestation. Its historical association with procreating a boy is retained as source doctrine, not a prediction. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

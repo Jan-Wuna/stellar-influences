@@ -1,0 +1,1695 @@
+{
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-queue.json",
+  "parent_queue_sha256": "a3f7a3c705378faae1f6d17c1ca23ceb5236b9a747a19ecfac40f1ceb2ecc0e1",
+  "paths": [
+    {
+      "path": "wiki/activations/venus-admetos-equals-vulcanus.md",
+      "queue_index": 0,
+      "before_sha256": "cb5b24a678a1c0b06c24c06e02cc9550b1ed00f0a3db3b55298a6c8a3f9e1112",
+      "after_sha256": "cb5b24a678a1c0b06c24c06e02cc9550b1ed00f0a3db3b55298a6c8a3f9e1112",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-admetos-equals-zeus.md",
+      "queue_index": 1,
+      "before_sha256": "b5a2328fbbfa286212bb975f7c95a1fdacdee0f6e6e80193781dcebfd467f0d8",
+      "after_sha256": "f638b6a8dfae498b6c2736584cfbceb1137ab086df999d2f4a57c35995b3ad92",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-admetos.md",
+      "queue_index": 2,
+      "before_sha256": "5064736cd883c272f77252db44d40066e356f8901a6b45f2ba14eee4b273bd69",
+      "after_sha256": "5064736cd883c272f77252db44d40066e356f8901a6b45f2ba14eee4b273bd69",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-asc.md",
+      "queue_index": 3,
+      "before_sha256": "d9f64f6758be32e6cffd67b9ca5cadd6edcc360be44b3e31397af2aff0f2cd6a",
+      "after_sha256": "d9f64f6758be32e6cffd67b9ca5cadd6edcc360be44b3e31397af2aff0f2cd6a",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-hades.md",
+      "queue_index": 4,
+      "before_sha256": "2ed9fe88a81054316f986f59a82d7a39f49993a507a29aff020122d1ed968f2a",
+      "after_sha256": "2ed9fe88a81054316f986f59a82d7a39f49993a507a29aff020122d1ed968f2a",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-kronos.md",
+      "queue_index": 5,
+      "before_sha256": "ad1f435adc968fbb04b337441744b12e87a12c37ead15163517551898910c92d",
+      "after_sha256": "ad1f435adc968fbb04b337441744b12e87a12c37ead15163517551898910c92d",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mars.md",
+      "queue_index": 6,
+      "before_sha256": "754a3fa67b51ca6aa2770033e3d548348e9f5bf68b2e9c766ea4c123b64457ad",
+      "after_sha256": "754a3fa67b51ca6aa2770033e3d548348e9f5bf68b2e9c766ea4c123b64457ad",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mc.md",
+      "queue_index": 7,
+      "before_sha256": "186f3f4dea1b45d623d63362a54e8cca610183e6cb9bfea648a117d04c117caf",
+      "after_sha256": "186f3f4dea1b45d623d63362a54e8cca610183e6cb9bfea648a117d04c117caf",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-mercury.md",
+      "queue_index": 8,
+      "before_sha256": "abaa7fd65dd0241d725b3a57c3115b39e44f1c9fb8f57606d63328cf4e03fbbe",
+      "after_sha256": "abaa7fd65dd0241d725b3a57c3115b39e44f1c9fb8f57606d63328cf4e03fbbe",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 11,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-moon.md",
+      "queue_index": 9,
+      "before_sha256": "f30c17082db35a0109f24c8fc799aa4e8a2705b30ee8b3179bca46c6d1d49212",
+      "after_sha256": "f30c17082db35a0109f24c8fc799aa4e8a2705b30ee8b3179bca46c6d1d49212",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 12,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-neptune.md",
+      "queue_index": 10,
+      "before_sha256": "069c2a2b6264cf796e496b1f30723595fef6f22b5c326b9050720e0aa08d218e",
+      "after_sha256": "069c2a2b6264cf796e496b1f30723595fef6f22b5c326b9050720e0aa08d218e",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-node.md",
+      "queue_index": 11,
+      "before_sha256": "d7c4f8b1fb4fea7aef1f074118f64dde8b350f8e3be79f18c7d325aa921cb77a",
+      "after_sha256": "d7c4f8b1fb4fea7aef1f074118f64dde8b350f8e3be79f18c7d325aa921cb77a",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 14,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-pluto.md",
+      "queue_index": 12,
+      "before_sha256": "5bf1324152f030335330d88ebb59e40a7560134966823c9fdad8d43072af80fb",
+      "after_sha256": "5bf1324152f030335330d88ebb59e40a7560134966823c9fdad8d43072af80fb",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 15,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-saturn.md",
+      "queue_index": 13,
+      "before_sha256": "15f08397e407bf4ef688e4ad2a28c7399e168045bc6ca097ec02e8069b3b13ab",
+      "after_sha256": "15f08397e407bf4ef688e4ad2a28c7399e168045bc6ca097ec02e8069b3b13ab",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 17,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-uranus.md",
+      "queue_index": 14,
+      "before_sha256": "f23e42c9c689eecc7d767940a94af2f3a76bcd1ec4e85df976cefe515b44cc99",
+      "after_sha256": "f23e42c9c689eecc7d767940a94af2f3a76bcd1ec4e85df976cefe515b44cc99",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 19,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-apollon-equals-vernal-point.md",
+      "queue_index": 15,
+      "before_sha256": "1b2e333573e42328fddb660f760d9defaa2a2e242323d9a62dcfb954b6f94233",
+      "after_sha256": "1b2e333573e42328fddb660f760d9defaa2a2e242323d9a62dcfb954b6f94233",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-cupido.md",
+      "queue_index": 16,
+      "before_sha256": "ee95cff2d7f69e12c690f5ced16d11194f9f91eac3fd02d1a682852333d6cc5e",
+      "after_sha256": "363a8e7d2ea26a9179c8472a7600f97a0a2c3f1dbaf1b826d1967c78d6f1fdcb",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 37,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-hades.md",
+      "queue_index": 17,
+      "before_sha256": "edf599f3f9a1ec1ad968aa5f9a6e9bdae5f008a25e4d29b3c480bc3f3dfe278c",
+      "after_sha256": "c999949ec7675ac5bc575b52c3ef7aa11ac8b3761496497de93b73212388d9f2",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 38,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-jupiter.md",
+      "queue_index": 18,
+      "before_sha256": "9bffb05df207d3c14d6890d3210f6514accab8dc57696631c7580a2e711566a9",
+      "after_sha256": "da7f8ef14e4e4eb22231032cfa552f11b088c22d40db8029451aed7572e57441",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 39,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-kronos.md",
+      "queue_index": 19,
+      "before_sha256": "9ebb5345790359f0815e9fe14fb32cb57add64294f1b0ae77c3869b2cba621ad",
+      "after_sha256": "2b180d752584e47ff859e0699e4b4277f0dc3bef2bd9e882ef2991165f98ff8c",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 40,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-mc.md",
+      "queue_index": 20,
+      "before_sha256": "16a61066e8b0db14eb6c9df09e5a1e7562a8e39f70880a97aa3c69b3b02d533f",
+      "after_sha256": "6c981d86398a070d69623087b9ae34990b4ab134c1bd5402acbd93cc07f5cc61",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 42,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-node.md",
+      "queue_index": 21,
+      "before_sha256": "eafb4e84cdd5e52ea5aeb181d2c1782a3669979993b1b57c396e026570804d49",
+      "after_sha256": "6c1be6d7c754e6662db795234599209201be0c6ef8a7183dcf05b0641d73aee1",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 46,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-pluto.md",
+      "queue_index": 22,
+      "before_sha256": "042fdd1e0727c262b524dc96db172294649d01e874e9fcc384984fad6a3d5b72",
+      "after_sha256": "a4906a4c3f62ecb466bd51cf7d889e11982bc44bf5c1cc29728565375ef6bb2f",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 47,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-poseidon.md",
+      "queue_index": 23,
+      "before_sha256": "0bc4f27dba87397239ba7b8254cb1c406b0ceaf68fa650186a8822e0f3f677c6",
+      "after_sha256": "088b7bdc36e07c62e90c30d92328048a6e1290bb0cbb353e945cb942e61bb89b",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 48,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-asc-equals-saturn.md",
+      "queue_index": 24,
+      "before_sha256": "180faef372089362661a91778e8ee6c22233b5a15a926957d794c1c10de14a2c",
+      "after_sha256": "c85116e597b667f4bd02628066b602634e766b3518e69e3dc916f3a2d4d2d761",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 49,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-chiron-equals-asc.md",
+      "queue_index": 25,
+      "before_sha256": "fa7087e451a27e9aad61cab66d26e6a3b77ff2a95d3b3c2e5194667f07b2e59b",
+      "after_sha256": "b9840b62c9a300683659a93443da4e47668bdc6b708b5557374458bd21164714",
+      "ledger": "activations-085.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-node.md",
+      "queue_index": 26,
+      "before_sha256": "5e86a8fd966f14c97ac538e873f80f15c9d5fe558976fc5a34bce7963173b70a",
+      "after_sha256": "5e86a8fd966f14c97ac538e873f80f15c9d5fe558976fc5a34bce7963173b70a",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-pluto.md",
+      "queue_index": 27,
+      "before_sha256": "d1964e0927227f527249b2d54b8c709f5a259f575a84af334a9737d4e9330263",
+      "after_sha256": "d1964e0927227f527249b2d54b8c709f5a259f575a84af334a9737d4e9330263",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-poseidon.md",
+      "queue_index": 28,
+      "before_sha256": "eacc500710736ef1b81139334f7e08c9ecee7479eb3e13a6e65ee51c1c384786",
+      "after_sha256": "eacc500710736ef1b81139334f7e08c9ecee7479eb3e13a6e65ee51c1c384786",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-saturn.md",
+      "queue_index": 29,
+      "before_sha256": "2a7bca9392d630890a479cff0e58cbad3f0b3b9ae32019f0ded3774817785b73",
+      "after_sha256": "2a7bca9392d630890a479cff0e58cbad3f0b3b9ae32019f0ded3774817785b73",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-sun.md",
+      "queue_index": 30,
+      "before_sha256": "46aca05b65faadf4801a84c820aa5e989b14beba082c5bf10b78d1b4b09d36b9",
+      "after_sha256": "46aca05b65faadf4801a84c820aa5e989b14beba082c5bf10b78d1b4b09d36b9",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-uranus.md",
+      "queue_index": 31,
+      "before_sha256": "4b1f83c21c8d69bbe5580d88c1681d37b21fd37f88d4f34b1eb605f09e018c63",
+      "after_sha256": "4b1f83c21c8d69bbe5580d88c1681d37b21fd37f88d4f34b1eb605f09e018c63",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-jupiter-equals-zeus.md",
+      "queue_index": 32,
+      "before_sha256": "9ddce031748416ede268aa239441be350b72f24444a01d5078f250c87333c287",
+      "after_sha256": "9ddce031748416ede268aa239441be350b72f24444a01d5078f250c87333c287",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-apollon.md",
+      "queue_index": 33,
+      "before_sha256": "1aebf8f047608d8bfea0331125fb416bc27899136a116ecd35c10cc90a569eaa",
+      "after_sha256": "1aebf8f047608d8bfea0331125fb416bc27899136a116ecd35c10cc90a569eaa",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 12,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-asc.md",
+      "queue_index": 34,
+      "before_sha256": "0107dbd484c5647bdc7b8b3e9e1cc95b8dee02c8ccfd20b3c27e5d60f18ea506",
+      "after_sha256": "0107dbd484c5647bdc7b8b3e9e1cc95b8dee02c8ccfd20b3c27e5d60f18ea506",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-hades.md",
+      "queue_index": 35,
+      "before_sha256": "5905698645e85e5dafbd1a52473afa1d8d26b4c728d2d322f7d6396fdefbcfab",
+      "after_sha256": "5905698645e85e5dafbd1a52473afa1d8d26b4c728d2d322f7d6396fdefbcfab",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 15,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-jupiter.md",
+      "queue_index": 36,
+      "before_sha256": "72444c0f5526e824a135174ab758cec38615ec5890793b47d96d53223838ff44",
+      "after_sha256": "72444c0f5526e824a135174ab758cec38615ec5890793b47d96d53223838ff44",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 16,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mars.md",
+      "queue_index": 37,
+      "before_sha256": "908f801f17be15df476be27cbbb8714935aedec1116f57068fc31995ad8db78c",
+      "after_sha256": "908f801f17be15df476be27cbbb8714935aedec1116f57068fc31995ad8db78c",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 17,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mc.md",
+      "queue_index": 38,
+      "before_sha256": "4ca0e90541bc9febb218571c6b81d56af0483af93f055779ceb02601e140671d",
+      "after_sha256": "4ca0e90541bc9febb218571c6b81d56af0483af93f055779ceb02601e140671d",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 18,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mercury.md",
+      "queue_index": 39,
+      "before_sha256": "d29d640a48c2f93dfa2ede4bda6ce4b234634ccf20d4e1fba379fba0f14eb569",
+      "after_sha256": "d29d640a48c2f93dfa2ede4bda6ce4b234634ccf20d4e1fba379fba0f14eb569",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 19,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-moon.md",
+      "queue_index": 40,
+      "before_sha256": "1ec992e8d6615ad3fa19660d350e872b035e3207a919ed7dc3b97409d4749d50",
+      "after_sha256": "1ec992e8d6615ad3fa19660d350e872b035e3207a919ed7dc3b97409d4749d50",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-neptune.md",
+      "queue_index": 41,
+      "before_sha256": "feff816285b39eab3ad1ba76302013fcf2c14b97afb86d6f6b0265e49985f077",
+      "after_sha256": "93ed4d59e034a89c509db92ba31499e9901ca3d34f9f953da7b969c4d2ac151d",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 21,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-pluto.md",
+      "queue_index": 42,
+      "before_sha256": "079afa8fc1941d80792d5cf0f138f40537a0ec177b67e5afa68de64b8b8550c1",
+      "after_sha256": "b6c34590b951896ec8eeb314675a23326792f84cbb2092ebb1cb718d4af8ffab",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 23,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-saturn.md",
+      "queue_index": 43,
+      "before_sha256": "170862c86416a621835802537f00d0c4c23f3281718a00dfabe99c153dd2f4f7",
+      "after_sha256": "743b0c3d87853e0b5222f6bcac3557ffa33570cc633907985b02eb33f0c87c67",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-sun.md",
+      "queue_index": 44,
+      "before_sha256": "a654de1b36e3ec550a68268f13e4223a11d70d6d55b111e7f71e650268e46656",
+      "after_sha256": "36a81056f91019b5e65775c07e3c43b43ca8f638f76535d4ed78a931b12e11eb",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 26,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-vernal-point.md",
+      "queue_index": 45,
+      "before_sha256": "4dd7ac0e0abe21faade806d7f8347fe073726ed0cebe98e03709aade512c9327",
+      "after_sha256": "b176b1589d7acefd1def95cf39187fde5c2522889e25565f2c69c5500af7cffc",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-vulcanus.md",
+      "queue_index": 46,
+      "before_sha256": "201b5c74817b8ea8d8c10bffb6499b3823610822643b786d4956226efefa9015",
+      "after_sha256": "63dcf2ffd82554ae4c2898f2d886cf8cb137699dfd769195c5461651f238bd23",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 29,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-zeus.md",
+      "queue_index": 47,
+      "before_sha256": "a7bedeec72f7e1c73de0a69ecd8708e882592ca3b4433ef1c2023ad89aa33ff2",
+      "after_sha256": "e96c1b2b32074c958f64f7a413e358dad88615a5444e2c593c36cdad8cd77e72",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 30,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-mars-equals-cupido.md",
+      "queue_index": 48,
+      "before_sha256": "979fbee748a0d560e087ad7a916abf1534afa44820a07235ad4b33f99aec230e",
+      "after_sha256": "00af1473ffacad33587e76e8828f5faff996194a840f48f46341dbd3f5b5eb3e",
+      "ledger": "activations-087.jsonl",
+      "ledger_line": 35,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-neptune-equals-moon.md",
+      "queue_index": 49,
+      "before_sha256": "6ebd17945ad7b02fdd8c4817bab0f10b49565549a5d84616b01e481e5adf45e8",
+      "after_sha256": "8dd581a440edbd47226c43099f28886ad3597bf5773e102a369afbd037f191cd",
+      "ledger": "activations-088.jsonl",
+      "ledger_line": 34,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-neptune-equals-uranus.md",
+      "queue_index": 50,
+      "before_sha256": "95f858463735a0bc20ad7494cda1f284f8249de5b51d1fd31f789b08b9664d1c",
+      "after_sha256": "83280bea9a09977ae466781fddc2e436447fc8dbf599c3e5663c759efc229a26",
+      "ledger": "activations-088.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-jupiter.md",
+      "queue_index": 51,
+      "before_sha256": "2c364f885de0448ef3bade196d00b589213f054662a6d8c294cdb81000fee060",
+      "after_sha256": "2c364f885de0448ef3bade196d00b589213f054662a6d8c294cdb81000fee060",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-kronos.md",
+      "queue_index": 52,
+      "before_sha256": "e13bd7d3eec0aa78ac281b9fb01c93226f48b7ff89166afdc52e25216a5092eb",
+      "after_sha256": "e13bd7d3eec0aa78ac281b9fb01c93226f48b7ff89166afdc52e25216a5092eb",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-mars.md",
+      "queue_index": 53,
+      "before_sha256": "bae3f1ce40ac890a5bfc887e9d3f28930d8403b6a2d5b09b1bb4e40b3daefcc2",
+      "after_sha256": "bae3f1ce40ac890a5bfc887e9d3f28930d8403b6a2d5b09b1bb4e40b3daefcc2",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-mc.md",
+      "queue_index": 54,
+      "before_sha256": "f47459173d723063921920197b14c42ea81b0458c4588fcd2a4b268ac6b2c28a",
+      "after_sha256": "f47459173d723063921920197b14c42ea81b0458c4588fcd2a4b268ac6b2c28a",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-mercury.md",
+      "queue_index": 55,
+      "before_sha256": "803198a1336dd4c9c0ffe8fe483c35b203812e103380e26fb657c645b57c2814",
+      "after_sha256": "803198a1336dd4c9c0ffe8fe483c35b203812e103380e26fb657c645b57c2814",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-moon.md",
+      "queue_index": 56,
+      "before_sha256": "8e549b23734de8a45068251c46b6eda1e22247528b694c066723990da83b6a0c",
+      "after_sha256": "8e549b23734de8a45068251c46b6eda1e22247528b694c066723990da83b6a0c",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-neptune.md",
+      "queue_index": 57,
+      "before_sha256": "25452cc580339e398bcf62ec714e49afd9c9cd9b97369111bce4f4020a169a7f",
+      "after_sha256": "25452cc580339e398bcf62ec714e49afd9c9cd9b97369111bce4f4020a169a7f",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-pluto.md",
+      "queue_index": 58,
+      "before_sha256": "7a78f0b609a063b7df657de11abadacd5b486a14a88fef4dea8a1bcc59486c6d",
+      "after_sha256": "7a78f0b609a063b7df657de11abadacd5b486a14a88fef4dea8a1bcc59486c6d",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-poseidon.md",
+      "queue_index": 59,
+      "before_sha256": "edaa9db75a2c76ba7a3499df856abe78041eabb947300e24b113544bc11b52a3",
+      "after_sha256": "edaa9db75a2c76ba7a3499df856abe78041eabb947300e24b113544bc11b52a3",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 11,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-sun.md",
+      "queue_index": 60,
+      "before_sha256": "aa0646b08a8423e6004be77c73f6ed3ae59c09d4e855cef169c5786491361756",
+      "after_sha256": "aa0646b08a8423e6004be77c73f6ed3ae59c09d4e855cef169c5786491361756",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-uranus.md",
+      "queue_index": 61,
+      "before_sha256": "53f43595109fa0e8819e645221f30d273c1fd695421266acf347010728145c3d",
+      "after_sha256": "53f43595109fa0e8819e645221f30d273c1fd695421266acf347010728145c3d",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 14,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-node-equals-zeus.md",
+      "queue_index": 62,
+      "before_sha256": "c90576c1c7d6de4d597863bd9f333837d8fd86f83aca8d247e5992cd48777957",
+      "after_sha256": "c90576c1c7d6de4d597863bd9f333837d8fd86f83aca8d247e5992cd48777957",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 18,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-admetos.md",
+      "queue_index": 63,
+      "before_sha256": "17d6720030996997691720bbe17a4a9f1af8bee1387a9c25c1d236c0e5ca58db",
+      "after_sha256": "17d6720030996997691720bbe17a4a9f1af8bee1387a9c25c1d236c0e5ca58db",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 19,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-asc.md",
+      "queue_index": 64,
+      "before_sha256": "e263946ccc6787a0a6fe84bb1b3d8d729017089c6f129323fb962694b9b7bc54",
+      "after_sha256": "e263946ccc6787a0a6fe84bb1b3d8d729017089c6f129323fb962694b9b7bc54",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 21,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-hades.md",
+      "queue_index": 65,
+      "before_sha256": "5750736f84dd474bdd053b9ada72b33f54cce41866ac02a59da9ce37a4e06f56",
+      "after_sha256": "5750736f84dd474bdd053b9ada72b33f54cce41866ac02a59da9ce37a4e06f56",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 24,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-mc.md",
+      "queue_index": 66,
+      "before_sha256": "258c5b99793f2e1151d5f1b97d00ca85b0ceadd805c8211ac7dbce0c69690e01",
+      "after_sha256": "258c5b99793f2e1151d5f1b97d00ca85b0ceadd805c8211ac7dbce0c69690e01",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-mercury.md",
+      "queue_index": 67,
+      "before_sha256": "1c4f766ba5d84e74ce3271f7f639ad91ddee842e34ce83cc4f526dc6b48d6ea8",
+      "after_sha256": "1c4f766ba5d84e74ce3271f7f639ad91ddee842e34ce83cc4f526dc6b48d6ea8",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 29,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-node.md",
+      "queue_index": 68,
+      "before_sha256": "dc14842e93fc80cc682ff09d2e490e33a5f74a1a8bd2101444a6e80025a1f7ec",
+      "after_sha256": "dc14842e93fc80cc682ff09d2e490e33a5f74a1a8bd2101444a6e80025a1f7ec",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 32,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-poseidon.md",
+      "queue_index": 69,
+      "before_sha256": "f2aa7dd3f9dee91e9ffc5bd024dd0b1e8e6c554ff5d2fc101e662bfcad8e5b58",
+      "after_sha256": "f2aa7dd3f9dee91e9ffc5bd024dd0b1e8e6c554ff5d2fc101e662bfcad8e5b58",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 34,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-saturn.md",
+      "queue_index": 70,
+      "before_sha256": "2d3673694b33b7b4cb9057a7112dd883ffb4fe73fcc23a41afa6d574c55111cc",
+      "after_sha256": "2d3673694b33b7b4cb9057a7112dd883ffb4fe73fcc23a41afa6d574c55111cc",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 35,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-sun.md",
+      "queue_index": 71,
+      "before_sha256": "91a68beef86357afbebd459bbc2010e6df4cd1c53eac1279d85072dde8796152",
+      "after_sha256": "91a68beef86357afbebd459bbc2010e6df4cd1c53eac1279d85072dde8796152",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 36,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-uranus.md",
+      "queue_index": 72,
+      "before_sha256": "be1ca22429eb713017b0e7df2c0aff296eb7f2161423dad0cf5b2e13002cbe33",
+      "after_sha256": "be1ca22429eb713017b0e7df2c0aff296eb7f2161423dad0cf5b2e13002cbe33",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 37,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-vulcanus.md",
+      "queue_index": 73,
+      "before_sha256": "0e5b1b854dfa6d6cecf4ffd861271bcf9e8271c91559c23f8caa84d7f0dbd714",
+      "after_sha256": "0e5b1b854dfa6d6cecf4ffd861271bcf9e8271c91559c23f8caa84d7f0dbd714",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 40,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-zeus.md",
+      "queue_index": 74,
+      "before_sha256": "9bc164a06666a57cfe88ba1e4a8288c8876a63d90e1dce66b07b97b81ce145f4",
+      "after_sha256": "9bc164a06666a57cfe88ba1e4a8288c8876a63d90e1dce66b07b97b81ce145f4",
+      "ledger": "activations-089.jsonl",
+      "ledger_line": 41,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-admetos.md",
+      "queue_index": 75,
+      "before_sha256": "91c4aa6838db1b262a8999234c2ff4133cde6cf78aa250b3891096eae6cb39bb",
+      "after_sha256": "e9149c555830e0dd30106c47d117a5b83ea521bbafcc2996a6ed22bfce082310",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 11,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-asc.md",
+      "queue_index": 76,
+      "before_sha256": "abb7fba7ecbabea1f03207e70ab32d504f4ba5254d9a986011235c6d05027f66",
+      "after_sha256": "afc7a11000eae170c465f7f2207c7d769f4fdf305ef9071c0a8708c19e08c527",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-cupido.md",
+      "queue_index": 77,
+      "before_sha256": "a825f40bc59609c69d1eeeccc00213aa6406e5583c55f989e6dd7629468c40b6",
+      "after_sha256": "21722610aefd738c4281dda5f8c06d92efd4f9817cc38bab020cbe7617d4cf05",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 15,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-hades.md",
+      "queue_index": 78,
+      "before_sha256": "013a89d0da4843d5eb2112a0d5be28b8e6fbb75106b37f07dd75fd510b4111fa",
+      "after_sha256": "f6d1214331c173b9da542244e2af4cf1cdb35d56090d940553547533a4c00d61",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 16,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-jupiter.md",
+      "queue_index": 79,
+      "before_sha256": "df22f07328e6b80bc84a47b924eafca09621b6ba084eae41c9a2235af4ab80b0",
+      "after_sha256": "d4d9f207e221fcd9cf02449347878791f29cda7559ea2f325cf4abcbb067cc3b",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 17,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-kronos.md",
+      "queue_index": 80,
+      "before_sha256": "3a6fa80da992bb7ba465c457eaa7f57afdc54f279aa5e415353bbf93aa6e150b",
+      "after_sha256": "2b9342b9d62d39b6f22be79b5b5a961296d41ff595e43dcbcabe088422c2f6c5",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 18,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-mars.md",
+      "queue_index": 81,
+      "before_sha256": "2dd563fae60b7a8f643f5405829655f0757e79c6813385f7344abc22bc0a7067",
+      "after_sha256": "1a44ed163fb822e562c5220d3f705ce32faa9dcef5fd94e5c547575c17812fd4",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 19,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-mc.md",
+      "queue_index": 82,
+      "before_sha256": "e1b615e4e3529bad8003568d0d032191fca2f8492522650edd75a91773b908ae",
+      "after_sha256": "71b5266bca23e1172300ffeaeb484f3277d95acf36bcae4fbd307863725c3c19",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-neptune.md",
+      "queue_index": 83,
+      "before_sha256": "c74c5831ae3e5a5617c7adff5df873ca2d33e86d159bdba7dd0d7322ddda0a33",
+      "after_sha256": "120eefa1ab9817b60c62c2e0d93a4dde1aa8fc5bb7e477d954ff16f09787efc8",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 23,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-pluto.md",
+      "queue_index": 84,
+      "before_sha256": "d757c1e55952795ae848ce17e9cef407daff73d4cce3331dd65475f4501779d8",
+      "after_sha256": "241540ac550005a32f1c9759621a73be1dc394dcbf8803aa6c3f568f65f7baba",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-saturn-equals-sun.md",
+      "queue_index": 85,
+      "before_sha256": "fb50ade1ce3fa055b1a7f7f5eefc1b99a5fcc88c08618b7e7c9deda807a75e2e",
+      "after_sha256": "f1d83bff8c73073e3fce2c49f1dd1a0372c39fbbfae4461f30848e2b32db4b48",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-asc.md",
+      "queue_index": 86,
+      "before_sha256": "a88d7b4c7858bbd56f095a09d6c5c45afaa3549fa25b92eda6203abd01464e1b",
+      "after_sha256": "84a84adfb9545c9062edc21f5fd7a7069d293a70d17747e1068fcc30d0b2c571",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 36,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-saturn.md",
+      "queue_index": 87,
+      "before_sha256": "b6ffbaec220224485318b1dbd1e241be3d385fa42324cd57b17d931370376503",
+      "after_sha256": "401ddbbdce775de8a9284ff7fec098a94f78684897bbf09c5b5d17fdc545b0c7",
+      "ledger": "activations-090.jsonl",
+      "ledger_line": 50,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-sun.md",
+      "queue_index": 88,
+      "before_sha256": "c6dd22be34a4e0ab70e23d9b08d79c971da5fe4457e222d995c41d250d19be9c",
+      "after_sha256": "c6dd22be34a4e0ab70e23d9b08d79c971da5fe4457e222d995c41d250d19be9c",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-vernal-point.md",
+      "queue_index": 89,
+      "before_sha256": "14566aff47c9ec1c59aa37556f9e1f466be0de44a13ebba2b9c6e1d0fcc52fab",
+      "after_sha256": "a4523adc6a5866f3c606e2133542d412ad96b39e4db4750bda3867819fd1c1d9",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-vulcanus.md",
+      "queue_index": 90,
+      "before_sha256": "a2aa47864bcffb0cae1af163f435856108373f3b36f39ae3ea36b4b08603d7f0",
+      "after_sha256": "a2aa47864bcffb0cae1af163f435856108373f3b36f39ae3ea36b4b08603d7f0",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-uranus-equals-zeus.md",
+      "queue_index": 91,
+      "before_sha256": "5b6bf96e1d1ed7fc93a55df6dc464b5c7bbeb93c09593cb949181a627253a5a2",
+      "after_sha256": "5b6bf96e1d1ed7fc93a55df6dc464b5c7bbeb93c09593cb949181a627253a5a2",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-venus-equals-admetos.md",
+      "queue_index": 92,
+      "before_sha256": "36f1be42443d1217b62a534443cbd561048f7dc459afc9d2d95da6a266f40b6c",
+      "after_sha256": "36f1be42443d1217b62a534443cbd561048f7dc459afc9d2d95da6a266f40b6c",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-admetos.md",
+      "queue_index": 93,
+      "before_sha256": "6a4478e6e5247ba785825fd2bc69f70da4ad26585f6655ff950ddf098c6f3bcf",
+      "after_sha256": "57ceff55c5346ce3a5169d5da32595690704af408fb8005d0f4fb5221bfc17e0",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-apollon.md",
+      "queue_index": 94,
+      "before_sha256": "04228e4cf19fca71876f0f6d6fad9134e870f588e27ed97aebaf148d39c5d481",
+      "after_sha256": "030893a48639ea5bf063a396cf2bf23adaf67b0771c70562879bce22b408b730",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 29,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-asc.md",
+      "queue_index": 95,
+      "before_sha256": "7a36b46fb94c7a2f2eb8cb5bbd3bdbcbe9a64177677cc919ce2bfb307feb0ce1",
+      "after_sha256": "6aa067554b3eb9f8ffa152b7cfbe2d7c6ab4beac1e34d112b08ea0977ed73a07",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 30,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-cupido.md",
+      "queue_index": 96,
+      "before_sha256": "2b732f0202972887b23d14d3b2bdb5cfaeafdcb989b5f599c0e06fc85e3f96b7",
+      "after_sha256": "932a480d0100e497a856d03e756326acccd23c399ac258eb111d8abe22bebd99",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 31,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-hades.md",
+      "queue_index": 97,
+      "before_sha256": "c0660db9e2e9c1a30f14565105321c034121d717205ba35b7b0732a775f6b320",
+      "after_sha256": "1cee107cbb843852895365a87a81566e736182bef22c2890a60f27bde6cfd6d4",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 32,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-jupiter.md",
+      "queue_index": 98,
+      "before_sha256": "f4178331beee84d4a2b667f5caff8f930565e925217b872f7ef0ff8cbb572251",
+      "after_sha256": "f4ba91e8c269cd5356597f471aebecf08650fd70c5775ee86664f583a04e3919",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 33,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-kronos.md",
+      "queue_index": 99,
+      "before_sha256": "a3891fc2802093ce4c2d49255ec5699d099e803cb63216facac1d31c086f88aa",
+      "after_sha256": "8b8b78ce75fefca93d0a667ee5abe9e32481df9e3574c670b2f52e1fca0ddb7c",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 34,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-mars.md",
+      "queue_index": 100,
+      "before_sha256": "a11c5c1e063966f7a0ace5ac4a959cd846931284f50b6e94863031dfae62d2b1",
+      "after_sha256": "d474b502c9f2e9a510928453d91c142b8f2f755c7cfeb9217f8cefa15b7cc575",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 35,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-mc.md",
+      "queue_index": 101,
+      "before_sha256": "dafcd4028f3e63bcdd7920ba2f79b7a6872ea2b073cafc778dc3cd5b8e6304a1",
+      "after_sha256": "fb46e76fbde42b259af04d040dc489ca102a2d3f41cc3977f9108f3a94335907",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 36,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-moon.md",
+      "queue_index": 102,
+      "before_sha256": "af9b47ff7410cd5d7deb6551095193c3d9c73daf1143add0850be5aaa554411c",
+      "after_sha256": "a423a49a83e738eadba870e4d410951f9e6a286c7107a2011cece2c0f67d7983",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 38,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-neptune.md",
+      "queue_index": 103,
+      "before_sha256": "f9a4e45c1f3411736cb56988fba0af0b410e8e4a086f4921fd71fe451a14933a",
+      "after_sha256": "88e8daad3d09fad37c7dfca5931542ee14ad7a9c48184467487f6ccd7f8922b0",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 39,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-node.md",
+      "queue_index": 104,
+      "before_sha256": "ffa5662566c6007f310d0680dbcc10dc5c9bae9420845e5d91685eb364efc27e",
+      "after_sha256": "d50cd75d25e75fb694b2f76905a280c74f89b95ce4040c260db710d5ccca5c86",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 40,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-pluto.md",
+      "queue_index": 105,
+      "before_sha256": "f635ce7b998ddcb123d6d13c728098843e94f8a5b18b81868a27af69641318e7",
+      "after_sha256": "6bbe043abc0925606aee3caa0979bcd9b08891009b845ecd77f66349b8847571",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 41,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-poseidon.md",
+      "queue_index": 106,
+      "before_sha256": "94e43f76ee6a48f1dc4dab287deb65cf9f1b18b442fda2d841de4cd323fcd464",
+      "after_sha256": "b32fca19df881fd2e168b708162514f72611cd80224a327aec9510e11585f481",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 42,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-saturn.md",
+      "queue_index": 107,
+      "before_sha256": "3f9c3776a1cadf4e474512c88000eb7cefaa24cddb7a633c5d20ca40f2440c35",
+      "after_sha256": "b8c046ad5814b6edf1c280b1fb5a09735064fc3caeb7afc92894e6043919af78",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 43,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-sun.md",
+      "queue_index": 108,
+      "before_sha256": "b31df5f43848de4a6837cc474ab4f9b8e63fba68d0021ccc4c51ebb33b99fa08",
+      "after_sha256": "286f4c2769baca748ed71d11d96ca58654793e0a364adbb78173745aa7990a29",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 44,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-uranus.md",
+      "queue_index": 109,
+      "before_sha256": "b7a0b018fd199a7470b5499fad88fd17089ecb8cf2586096543cf8e0fd2bd8e0",
+      "after_sha256": "a0d80b59c9260d9c8f4935efeded1985f845b360486d3bf7917b087316d01b2e",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 45,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-vernal-point.md",
+      "queue_index": 110,
+      "before_sha256": "30d083bca5946810c1abda098081b0c6a0e2a8f21c7fb5ae438e821d27c52a9f",
+      "after_sha256": "de2189c2d25eb4881313c8a1b1258bb7b5263bf698662adcf43c1af4a60e7903",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 46,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-apollon-equals-asc.md",
+      "queue_index": 111,
+      "before_sha256": "87e249ca7edcfc830ad14a613bb3c1ca31baf6663206561da68770c1b81bc7b4",
+      "after_sha256": "27a8e74e2afaca80dd0af4f31221fecc057a01ba90eee45eb64bb060411b9828",
+      "ledger": "activations-092.jsonl",
+      "ledger_line": 34,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-apollon-equals-pluto.md",
+      "queue_index": 112,
+      "before_sha256": "4f13dde83494f29e1a2928e0f2aa4df484f4094a0f76a3432bead9c6885e210b",
+      "after_sha256": "59880421247320d128bbc6c4cd7afa177f8d5115b2e9ac9fb3c14fa6f3165525",
+      "ledger": "activations-092.jsonl",
+      "ledger_line": 45,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-kronos.md",
+      "queue_index": 113,
+      "before_sha256": "30158a7f54a981aac60af8e638428b7a1b163d8b5c3db2ec9dead99097b50c14",
+      "after_sha256": "30158a7f54a981aac60af8e638428b7a1b163d8b5c3db2ec9dead99097b50c14",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-mars.md",
+      "queue_index": 114,
+      "before_sha256": "4f9c7ee48d822d0586721c25e39024e3102e3c5a8ec1365757255bfe06fb4c02",
+      "after_sha256": "4f9c7ee48d822d0586721c25e39024e3102e3c5a8ec1365757255bfe06fb4c02",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-mc.md",
+      "queue_index": 115,
+      "before_sha256": "2a7bda563b8724a648291edb8ce451f6b1f68e0c48ea3647612243ee3a725840",
+      "after_sha256": "2a7bda563b8724a648291edb8ce451f6b1f68e0c48ea3647612243ee3a725840",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-mercury.md",
+      "queue_index": 116,
+      "before_sha256": "d4957062543f07d2fac4e1fc04e6e206d54ce8ecc69fad101c654c076cf1c647",
+      "after_sha256": "d4957062543f07d2fac4e1fc04e6e206d54ce8ecc69fad101c654c076cf1c647",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-moon.md",
+      "queue_index": 117,
+      "before_sha256": "787b6fb0d339445deb6cd51ff900bd2426ad44760665798095abc142bbf74615",
+      "after_sha256": "787b6fb0d339445deb6cd51ff900bd2426ad44760665798095abc142bbf74615",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-neptune.md",
+      "queue_index": 118,
+      "before_sha256": "7db99234d1f3c5b1596fab3ea2f06489246029c43e49b6cf1b9f078860ddd0be",
+      "after_sha256": "7db99234d1f3c5b1596fab3ea2f06489246029c43e49b6cf1b9f078860ddd0be",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-saturn.md",
+      "queue_index": 119,
+      "before_sha256": "0b17d8323ede87b8dad1f5910edef8ee64d747391b9cdcfbb9d28db546143fdd",
+      "after_sha256": "0b17d8323ede87b8dad1f5910edef8ee64d747391b9cdcfbb9d28db546143fdd",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 12,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-sun.md",
+      "queue_index": 120,
+      "before_sha256": "4d90b699c0f59ed921aff0a1e414fb819c1dbfc19b82a448ae422aceac4f9668",
+      "after_sha256": "4d90b699c0f59ed921aff0a1e414fb819c1dbfc19b82a448ae422aceac4f9668",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-asc-equals-vulcanus.md",
+      "queue_index": 121,
+      "before_sha256": "cd56c703b9a74192ee101ce0609eff44d5050eafe2758bfc20bf7ac3eb00d605",
+      "after_sha256": "cd56c703b9a74192ee101ce0609eff44d5050eafe2758bfc20bf7ac3eb00d605",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 16,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-apollon.md",
+      "queue_index": 122,
+      "before_sha256": "e7f78a8242156157aa5fc9178308461c87634431fa1f117c6e348abf1e9e9c24",
+      "after_sha256": "e7f78a8242156157aa5fc9178308461c87634431fa1f117c6e348abf1e9e9c24",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 19,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-asc.md",
+      "queue_index": 123,
+      "before_sha256": "9bcef83c55621551a431cfd6235cbcd699eff30ad99c0a2284ef1aff1b109316",
+      "after_sha256": "9bcef83c55621551a431cfd6235cbcd699eff30ad99c0a2284ef1aff1b109316",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-hades.md",
+      "queue_index": 124,
+      "before_sha256": "8f06ca6d9bb444b3c9845281dd0dbabb9bd90fa304d67588ff758dfba9837991",
+      "after_sha256": "8f06ca6d9bb444b3c9845281dd0dbabb9bd90fa304d67588ff758dfba9837991",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 21,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-mars.md",
+      "queue_index": 125,
+      "before_sha256": "441409fc7d5528afb41a53d9e88c63aabaea9be6ec2f6ac06e12ed129fce49d0",
+      "after_sha256": "441409fc7d5528afb41a53d9e88c63aabaea9be6ec2f6ac06e12ed129fce49d0",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 24,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-mc.md",
+      "queue_index": 126,
+      "before_sha256": "296bb2eb3b0497f456f4a574928130aecef85c4efcc41fb0f8829edcb6c39dc5",
+      "after_sha256": "296bb2eb3b0497f456f4a574928130aecef85c4efcc41fb0f8829edcb6c39dc5",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-neptune.md",
+      "queue_index": 127,
+      "before_sha256": "13a5d2efb0e39eaf5942732b5cb818ee0716defae881da6000748bf9455fb603",
+      "after_sha256": "13a5d2efb0e39eaf5942732b5cb818ee0716defae881da6000748bf9455fb603",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-pluto.md",
+      "queue_index": 128,
+      "before_sha256": "6fe84ffb45894a7309c12d90934e917710be2d50f1b7b8508d92992428660825",
+      "after_sha256": "6fe84ffb45894a7309c12d90934e917710be2d50f1b7b8508d92992428660825",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 30,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-cupido-equals-poseidon.md",
+      "queue_index": 129,
+      "before_sha256": "dfffd1298babde349f60757ed6d0ce155e88abc2e6ff3fe3ae37b937725c0afd",
+      "after_sha256": "dfffd1298babde349f60757ed6d0ce155e88abc2e6ff3fe3ae37b937725c0afd",
+      "ledger": "activations-093.jsonl",
+      "ledger_line": 31,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-poseidon.md",
+      "queue_index": 130,
+      "before_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+      "after_sha256": "8a48d60f5ff27a8cd1b1d27fda64ad59d1cbe5a893b2c98bd15e073063ed2d00",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-saturn.md",
+      "queue_index": 131,
+      "before_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+      "after_sha256": "878a5cea248c45e2dae338eb44ee3e4339d6d4049a35622f34377828e9d919ae",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-uranus.md",
+      "queue_index": 132,
+      "before_sha256": "8d3aac9e34db66f0f21dcfa046d83eb4e286dcc7b6be8aaf1ba03e1330e77f74",
+      "after_sha256": "481b85f0add54449f222d038b32ae08023dfd5b92f92fcacd9c6dc8310da7564",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-venus.md",
+      "queue_index": 133,
+      "before_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+      "after_sha256": "3a967ed99ed458214ecc3125f923d992206422282af32ebcd2768ec6863ea068",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-vulcanus.md",
+      "queue_index": 134,
+      "before_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+      "after_sha256": "a8261d68911de533768258921c12bca85c95c587c2091e4084aaaeedd3567ecf",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mars-equals-zeus.md",
+      "queue_index": 135,
+      "before_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+      "after_sha256": "9de1f21e6e6066f95ad291cc6235ef298352e9701ffc521207d31c91ab0a15d2",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-admetos.md",
+      "queue_index": 136,
+      "before_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+      "after_sha256": "26aa8348a4c5d55dc3fb0795f37f59a4d3089fb93e3c148ae7f5f57f527a57c6",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-asc.md",
+      "queue_index": 137,
+      "before_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+      "after_sha256": "2a6be305fa54247f8041c0f25f6ba2955524f3bbd300e27de5cbb7f944d0c714",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 10,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-cupido.md",
+      "queue_index": 138,
+      "before_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+      "after_sha256": "f6c1f38e411743c4e149b789fabadca1d6e1dfe8affc7b1c5d99f0f70e9005ce",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 11,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-hades.md",
+      "queue_index": 139,
+      "before_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+      "after_sha256": "82baaecc7eeede9c0b1c1c321ff510a14e8d68fda1f9198d435b9e19c3d81a52",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 12,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-jupiter.md",
+      "queue_index": 140,
+      "before_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+      "after_sha256": "18d71316ef5f83240189f8bcdfe68b29b8f7350adc8c7c9b2212ed6addc82914",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 13,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-kronos.md",
+      "queue_index": 141,
+      "before_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+      "after_sha256": "01bdb76fd6c22168b0a17b51a10efd6bc4a6e9957cfd884f464321ab8f8db414",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 14,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-mars.md",
+      "queue_index": 142,
+      "before_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+      "after_sha256": "02737b5d0a61babdff46d9fee126d6f781f90111095aa34a267611ea183947b6",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 15,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-moon.md",
+      "queue_index": 143,
+      "before_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+      "after_sha256": "e209c18a6fbbc73b6df6b2dbb09a2c666487a64626940d8ad97f5f9239540be2",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 17,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-neptune.md",
+      "queue_index": 144,
+      "before_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+      "after_sha256": "df52ec3d4c85c0364d1d3d351d00ac949ad81ff2c520ea55f9996f824f96893b",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 18,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-pluto.md",
+      "queue_index": 145,
+      "before_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+      "after_sha256": "c2a906faf44495cbc37a3901c4eb5ace13b157eb8691c8f3fb6da268736d6894",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-sun.md",
+      "queue_index": 146,
+      "before_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+      "after_sha256": "08edcaa78551c544bb7e4ccf0a327dbba1a4adf3f2f1b8c90b4d93affc63a14e",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 23,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-uranus.md",
+      "queue_index": 147,
+      "before_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+      "after_sha256": "da9c5f8c17c3359b9e45e180cf27c20bd84b82e10438af009077edf7c066a6c7",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 24,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-venus.md",
+      "queue_index": 148,
+      "before_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+      "after_sha256": "355127fe93dcb733886e1c143b9668da172d2c12a587a315111298cac660e134",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mc-equals-zeus.md",
+      "queue_index": 149,
+      "before_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+      "after_sha256": "38c2391dc27c6dc2b5cf8b8108ceee1b28397dd8f42e04642cc13f3340de147c",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 27,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-mercury-equals-admetos.md",
+      "queue_index": 150,
+      "before_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "after_sha256": "367dbda741bdbcbd88522f21e33cde5ab7cb858081e65d98b809b14dbe5c75cb",
+      "ledger": "activations-095.jsonl",
+      "ledger_line": 28,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-neptune-equals-pluto.md",
+      "queue_index": 151,
+      "before_sha256": "40f8a32c904c2cba5b564cd5840295eab660a20eb7455b0802abe7aad9fb6ecd",
+      "after_sha256": "1b2960d89bed92894e642699e49457d766e50e72dc475bc56ffa9defc749f029",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-node-equals-poseidon.md",
+      "queue_index": 152,
+      "before_sha256": "d95fd1b133612e42b7c946c06baf99a27bed05b447edb99bca63d9f11d63914f",
+      "after_sha256": "06702c1396f5513ef3e016dca4c2c0b2840181144a0909306e8fd315c16f6f37",
+      "ledger": "activations-096.jsonl",
+      "ledger_line": 46,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-cupido.md",
+      "queue_index": 153,
+      "before_sha256": "8a353cf10a4efa08752397ceff762f6a18ef6925014c6c0123bb70fc98fb75d2",
+      "after_sha256": "8a353cf10a4efa08752397ceff762f6a18ef6925014c6c0123bb70fc98fb75d2",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-jupiter.md",
+      "queue_index": 154,
+      "before_sha256": "f2f97414ba0245f192c4e4f62574db9d785102397768cf519889d2b8eb7f66fc",
+      "after_sha256": "f2f97414ba0245f192c4e4f62574db9d785102397768cf519889d2b8eb7f66fc",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-kronos.md",
+      "queue_index": 155,
+      "before_sha256": "16230c76e5eb717b8b38866ffe8648ff6d0f7b87db55da975d339f0e4e2f1b01",
+      "after_sha256": "16230c76e5eb717b8b38866ffe8648ff6d0f7b87db55da975d339f0e4e2f1b01",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 4,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mars.md",
+      "queue_index": 156,
+      "before_sha256": "b9b32c63d62f52d0f0b4d715969b752c6df4a72b9da0e75a8c9662341f158cd3",
+      "after_sha256": "b9b32c63d62f52d0f0b4d715969b752c6df4a72b9da0e75a8c9662341f158cd3",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-mc.md",
+      "queue_index": 157,
+      "before_sha256": "433b919c78c7b28f1f30df3de83166c9879c7ed488e5f95a44f125ab54b452c8",
+      "after_sha256": "433b919c78c7b28f1f30df3de83166c9879c7ed488e5f95a44f125ab54b452c8",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 6,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-moon.md",
+      "queue_index": 158,
+      "before_sha256": "b13f05ea739f15644aa6b7223602ce79ab760817be25fb5349331ed2a4a4b3e8",
+      "after_sha256": "b13f05ea739f15644aa6b7223602ce79ab760817be25fb5349331ed2a4a4b3e8",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 8,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-neptune.md",
+      "queue_index": 159,
+      "before_sha256": "01c48b2a70546f866a12dd9a2c30306409aae37e6453fef0385d5d7073de466e",
+      "after_sha256": "01c48b2a70546f866a12dd9a2c30306409aae37e6453fef0385d5d7073de466e",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 9,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-poseidon.md",
+      "queue_index": 160,
+      "before_sha256": "39fa73ba0a1a2827776295bd5571e969a54d55623602691a2a4b0449e69621ae",
+      "after_sha256": "39fa73ba0a1a2827776295bd5571e969a54d55623602691a2a4b0449e69621ae",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 11,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-saturn.md",
+      "queue_index": 161,
+      "before_sha256": "8b030c7dffc25173bc08d627ffe433db3092ee38349392f9cc26df8448695c95",
+      "after_sha256": "8b030c7dffc25173bc08d627ffe433db3092ee38349392f9cc26df8448695c95",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 12,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-pluto-equals-zeus.md",
+      "queue_index": 162,
+      "before_sha256": "1f5c7a06ffa59824a2495cfebd6a6c7a9ff254cd7712e1574c29601cb3e2a085",
+      "after_sha256": "1f5c7a06ffa59824a2495cfebd6a6c7a9ff254cd7712e1574c29601cb3e2a085",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 17,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-admetos.md",
+      "queue_index": 163,
+      "before_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+      "after_sha256": "bf9966d076ef4762396ba497ba1bb81f778ffd9454a456d228c9f9d3540a7853",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 18,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-asc.md",
+      "queue_index": 164,
+      "before_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+      "after_sha256": "63fdfa7eaca963e44b3979f6b4dfca7cc05d397dd698fcdbf60de9c3fed8df0d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 20,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-cupido.md",
+      "queue_index": 165,
+      "before_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+      "after_sha256": "c065b1bfeecbd0efe20e735e8304b1cf5a9f8a42c34f5ee27cac70d5612eb082",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 21,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "queue_index": 166,
+      "before_sha256": "3b90845a2c9cb099f525c34889f1b87add3ea10d59b08e12d12f509b3e7f5c24",
+      "after_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 24,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "queue_index": 167,
+      "before_sha256": "03c90e921808b1530c1ea096130ac1fac1457c1052ee8f0f8c0bc2e2dc552049",
+      "after_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 26,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "queue_index": 168,
+      "before_sha256": "69f59aeaac1bad59f19175a9e5fc2bacee506f96c09aa5840a7b17900571e1d9",
+      "after_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 33,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "queue_index": 169,
+      "before_sha256": "ff7d88582ec295a80096cc01d9a0819665b579b686f3ee086e084c773706313c",
+      "after_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 36,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "queue_index": 170,
+      "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+      "after_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 36,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-pluto.md",
+      "queue_index": 171,
+      "before_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+      "after_sha256": "eb17205df47a42fd089cde01dee03530fe4b46ccbe231c6bdac25831b30836d3",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-saturn.md",
+      "queue_index": 172,
+      "before_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+      "after_sha256": "7ca6e75c64031721f912f184d88cea4223b6d0a69b482cb9c8729fa7f10f52b9",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-uranus.md",
+      "queue_index": 173,
+      "before_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+      "after_sha256": "80c669d2134937480c2fedb9369109f91bad8313e1e6f31378768315f7521d42",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 5,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vernal-point-venus-equals-zeus.md",
+      "queue_index": 174,
+      "before_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+      "after_sha256": "65f3f9ec5edfd665cc812fac2dc24a22afc26c39152f189d68448be2cc497dcf",
+      "ledger": "activations-099.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": true
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+      "queue_index": 175,
+      "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+      "after_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 14,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+      "queue_index": 176,
+      "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+      "after_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 15,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+      "queue_index": 177,
+      "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+      "after_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 30,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-kronos-equals-venus.md",
+      "queue_index": 178,
+      "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+      "after_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+      "queue_index": 179,
+      "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+      "after_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 7,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "queue_index": 180,
+      "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+      "after_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 25,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "queue_index": 181,
+      "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+      "after_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 26,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "queue_index": 182,
+      "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+      "after_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 27,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+      "queue_index": 183,
+      "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+      "after_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 39,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "queue_index": 184,
+      "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+      "after_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 55,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-mercury.md",
+      "queue_index": null,
+      "before_sha256": "2bf60d70cde469d3f3d5616735cfd2b37dc7cae6192844f33869e1a3595642c1",
+      "after_sha256": "74f9468c46a09889bbc6b687aacc03e8f18756ea25674bf5c8885f5a45cb1549",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 37,
+      "scope_extension": "Root-authorized complete Venus/Vulcanus cluster adjacent target; original185 queue count stays separate."
+    },
+    {
+      "path": "wiki/activations/venus-vulcanus-equals-zeus.md",
+      "queue_index": null,
+      "before_sha256": "322e3d0d830346ca686e561d2651cf81a03e3fb3e03ad3505bcd6de099e8caa4",
+      "after_sha256": "d3cc59d29d72674bfb54c9ececab5912c638b325be884723333f84574dd5e9b0",
+      "ledger": "activations-091.jsonl",
+      "ledger_line": 47,
+      "scope_extension": "Root-authorized complete Venus/Vulcanus cluster adjacent target; original185 queue count stays separate."
+    }
+  ],
+  "generated_at": "2026-10-15T14:30:33.578Z",
+  "verifier": "/root/activation_review_023_044",
+  "closure_editor": "/root/activation_review_057_059",
+  "scope": "Original185 closure D targets plus two explicitly authorized adjacent Venus/Vulcanus Mercury and Zeus checks; no change to original queue completion denominator.",
+  "original_queue_targets": 185,
+  "adjacent_scope_extensions": 2
+}

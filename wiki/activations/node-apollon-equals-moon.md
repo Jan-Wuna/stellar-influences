@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Apollon = Moon`
 - Astronomicon formula: `g/¥ = R`
 - Axis page: [Node/Apollon](../axes/node-apollon.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `153` (entry start; one-based).
+
 #### Witte Entry
 
-Union of women. Scientific or economic courses.
+Connected with many, especially women, in public through economy or science. Union of women. Scientific or economic courses.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `232`, PDF p. `115` (entry).
+
 #### ABC Entry
 
-Proliferation of women in a union, extension of the union with women, successful union with a woman, successful union with feelings, successful union with women, and trade relations with the people
+Spreading feelings within a connection, expansion of the connection to a woman, a successful connection with a woman, a successful emotional relationship, a successful woman within a connection, and trade connections to a people
+
+## Comparative Schema
+
+- core meaning: public, emotional or economic connections, with women as traditional source referents.
+- psychology: spreading feelings and successful emotional relationships are explicit.
+- body/health: no distinct bodily claim is supplied.
+- social/relationship: unions of women and contact with a people are named.
+- events/manifestations: scientific or economic courses and public commercial or scientific contacts are specific settings.
+- conflicts/notes: the historical gendered examples do not make these themes exclusive to women.
+
+## Contradictions
+
+Witte's public connections and unions of women overlap with ABC's emotional ties and trade contacts. The full Witte row is broader than its course examples alone.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon = Moon`: Union of women. Scientific or economic courses.
-- Practical focus: union of women; also scientific or economic courses.
+Node/Apollon = Moon concerns widening emotional and public connection. [Witte](#witte-entry) names contact with many, especially women, through economy or science, alongside women's unions and courses. [ABC](#abc-entry) adds feelings spreading within a tie and successful emotional relationships, with trade connections to a people (printed p. 232, PDF p. 115). These support shared feeling and participation in wider circles, while retaining the sources' gendered examples as historical referents rather than exclusive rules.
 
 ## Links
 

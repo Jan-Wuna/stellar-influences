@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Jupiter`
 - Astronomicon formula: `¢/£ = V`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 281; PDF p. 277.
+
 Happy relaxation. Loss of money through machines. Fraudulent enterprises. Good beginning with a bad progress or a bad ending.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts against financial crime, successful filthy service, success from past achievements, leading legal service, dangerous filthy deficiency, performance deficit of money, and hidden money production
+- Source reference: printed p. 438; PDF p. 218.
+
+Efforts against financial crime, successful leadership service, success from past achievements, leading legal service, dangerous lack of leadership, deficient performance of money, and hidden production of money.
+
+## Comparative Schema
+
+- Core meaning: Financial and practical results may involve success, deficient leadership, or loss.
+- Psychology: Happy relaxation is explicitly retained in Witte's entry.
+- Body/health: Neither entry specifies a bodily condition.
+- Social/relationship: Leadership and legal service, including efforts against financial crime.
+- Events/manifestations: Success from past achievements, hidden production of money, machinery losses, fraudulent enterprises, and a promising beginning ending badly.
+- Conflicts/notes: Work against financial crime differs from involvement in fraud; the formula does not establish a person's guilt.
+
+## Contradictions
+
+Successful leadership, past achievements, and happy relaxation stand beside loss and poor outcomes. The entries supply no conditions for choosing between those alternatives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Jupiter`: optimism or opportunity being compromised by flawed execution, dirty enterprise, or mechanical and industrial loss. It can show promise undermined by corrupted progress.
+In `Hades/Zeus = Jupiter`, Jupiter specifies the Hades/Zeus axis through financial results, success, and the quality of leadership. The [Witte Entry](#witte-entry) contrasts happy relaxation with machinery losses, fraudulent enterprise, and a good beginning that develops badly. The [ABC Entry](#abc-entry) preserves a constructive range in successful leadership, returns from past achievements, legal service, and efforts against financial crime. The unifying question is whether effort and resources produce sound results; the sources retain both success and failure without deciding which must occur.
 
 ## Links
 

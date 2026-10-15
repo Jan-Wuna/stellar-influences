@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Neptune Pluto Kronos](../triads/neptune-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 260 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Camouflage of unusual changes. Unnoticed great transformation. A slowly starting
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 415; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special development in metaphysics, special fine tuning, large air/water changes, self development in the air, unsichcre development of the state, priority air change, and growing importance of the water and the air see above
+Editorial translation (checked against the scan): Special development in metaphysics, developing particular sensitivity, great air/water changes, independent development in the air, uncertain development of the state, priority change of air, growing importance of water and air.
+
+## Comparative Schema
+
+- core meaning: Concealed or unnoticed major change, including an uncertain state development.
+- psychology: Camouflage and refined sensitivity are source expressions.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Government crisis and state development are explicit settings.
+- events/manifestations: A slowly developing crisis ending in breakdown; air/water changes and metaphysical development in ABC.
+- conflicts/notes: The crisis sequence is Witte's example, without a calculated timing rule or guaranteed advancement.
+
+## Contradictions
+
+Witte's concealed breakdown differs from ABC's metaphysical and air/water settings; no necessary connection between them is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Neptune`: uncertain or hidden shifts in authority; Advancement develops below the surface.
-- Practical expression: special development in metaphysics, special fine tuning, large air/water changes, self development in the air, and unsichcre development of the state.
+Neptune specifies Pluto/Kronos through major changes that may be concealed or initially unnoticed. The [Witte entry](#witte-entry) gives the concrete example of a slowly developing government crisis that eventually ends in breakdown and dissolution. The [ABC entry](#abc-entry) adds uncertain state development, metaphysics, refined sensitivity, and air or water changes. These additional settings do not turn a hidden crisis into an assured rise in authority.
 
 ## Links
 

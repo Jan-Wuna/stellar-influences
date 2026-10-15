@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Vulcanus`
 - Astronomicon formula: `Y/¦ = §`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Mighty changes of the present forms of living and conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `403`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Dissolving of a power blockade, depression through power weakness, curtailment of water force, subtle energy compaction, enormous water depth, violent blokkade resolution, stashed water energy, and grtind power restriction
+Dissolution of a power blockade, depression through weakness of power, restriction of water force, condensation of subtle energy, immense water depth, forceful dissolution of a blockade, dammed water energy, and thorough restriction of power
+
+## Comparative Schema
+
+- core meaning: powerful changes in living conditions, with forceful release or restriction among ABC's examples.
+- psychology: depression through weakness of power is ABC's historical wording.
+- body/health: the entry does not establish a clinical condition or a measured subtle-energy process.
+- social/relationship: power obstruction and restriction are named without a specific relationship role.
+- events/manifestations: forceful blockade dissolution, immense water depth, and dammed water energy are examples.
+- conflicts/notes: powerful change is explicit; the sources do not establish that this pair is normally slow or that resistance is impossible.
+
+## Contradictions
+
+ABC retains both forceful dissolution and thorough restriction of power. These do not require a single unstoppable movement through changed living conditions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Vulcanus`: Mighty changes of the present forms of living and conditions.
-- Practical focus: intensifies `Neptune/Admetos` into powerful alteration of existing conditions. It gives force and momentum to a normally slow or deprived axis, making changes in form, livelihood, or material reality larger and harder to resist.
-- Practical expression: dissolving of a power blockade, depression through power weakness, curtailment of water force, subtle energy compaction, and enormous water depth.
+In Neptune/Admetos = Vulcanus, Vulcanus specifies the pair through powerful alteration of existing living conditions. The [Witte entry](#witte-entry) states that scale of change; [ABC](#abc-entry) adds release of a power blockade and forceful dissolution, but also restriction of power and dammed water energy (printed p. 403, PDF p. 200). Its subtle-energy condensation and depressed-state phrases remain attributed source language. Force can characterize release or constraint without making every change irresistible.
 
 ## Links
 

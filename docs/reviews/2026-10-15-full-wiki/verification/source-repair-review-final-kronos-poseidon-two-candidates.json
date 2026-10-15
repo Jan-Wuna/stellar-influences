@@ -1,0 +1,21 @@
+{
+  "scope": "Two existing final5331 source candidates lacking any prior exact allowance; no new editorial scope. Independent necessary binding of original021 rows52/55.",
+  "verifier": "/root/activation_review_063_066",
+  "candidate_artifact_sha256": "e7c191ec1fe2ac6065c1556f1b630dcc878e5cda13e30d757b8a27520318ef28",
+  "paths": [
+    {
+      "path": "wiki/activations/kronos-poseidon-equals-admetos.md",
+      "before_sha256": "0e5fe29c34c92859f1ccf0745b9cb28ba8926b7e8dfa4413bafb67669d6121ea",
+      "after_sha256": "79a7d5555d3230d63179efc48d0e323ba7e7c7f1fb3194014fd81b9b152c4377",
+      "ledger": "activations-021.jsonl",
+      "ledger_line": 52
+    },
+    {
+      "path": "wiki/activations/kronos-poseidon-equals-apollon.md",
+      "before_sha256": "3602868cea812a7cb0135af314646248f508079047dfe98f70db23e4f0789a90",
+      "after_sha256": "5685e8780be8f84cd07b0163163955e29a24679072dad8f4ab19d395fc4fb460",
+      "ledger": "activations-021.jsonl",
+      "ledger_line": 55
+    }
+  ]
+}

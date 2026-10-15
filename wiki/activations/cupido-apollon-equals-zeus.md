@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Cupido Zeus Apollon](../triads/cupido-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Family increase. Family-day, convention of the family. Artistic or scientific cr
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 431).
+
 #### ABC Entry
 
-Old knowledge of a community, efforts of a trade community, successful development of a community, successful artistic achievements, successful generation community, freedom objectives of a community, and establishment of an economic community
+Editorial English translation, checked against the German scan:
+
+Old knowledge of a community; efforts of a trade community; successful leadership of a community; successful artistic accomplishments; successful procreative community (Zeugungs-Gemeinschaft); freedom goals of a community; founding an economic community.
+
+## Comparative Schema
+
+- core meaning: Family increase and artistic or scientific creation within organized association.
+- psychology: No distinct inner disposition is specified.
+- body/health: ABC names a successful procreative community without specifying fertility, illness or treatment.
+- social/relationship: Family convention and participation with many in an armed organization.
+- events/manifestations: Old communal knowledge, trade efforts, successful leadership, freedom goals and founding economic association.
+- conflicts/notes: The armed organization is one Witte example; it does not define every shared purpose.
+
+## Contradictions And Differences
+
+The armed organization is one Witte example; it does not define every shared purpose. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Zeus`: growth through directed creative work and large organized purpose. Main caution: collectivized purpose becoming too martial, programmatic, or agenda-driven.
+`Cupido/Apollon = Zeus` concerns communal creation and increase. The [Witte entry](#witte-entry) includes family increase and conventions, artistic or scientific creations and participation with many in an armed organization. The [ABC entry](#abc-entry) adds old knowledge, trade efforts, successful leadership and artistic accomplishment, freedom goals and founding an economic community. Its procreative-community clause is retained literally; these diverse forms of creation and association do not establish a uniformly martial character.
 
 ## Links
 

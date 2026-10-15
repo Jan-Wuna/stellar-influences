@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Sun Neptune](../triads/vernal-point-sun-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Sensitivity of the body. Damage to the body through general illusions or poisoning. Diseases of the blood. Not equal to demands.
 
@@ -42,13 +46,27 @@ Sensitivity of the body. Damage to the body through general illusions or poisoni
 
 #### ABC Entry
 
-Sensitive people in public, foreign people in public life, corporal weak in public, public water center, personal insecurity in public, and sensitive men in public life
+- Source page: 40; PDF page: 19 (one-based spread).
+
+Sensitive people in public, foreign people in public life, bodily weakness in public, a public water center, personal uncertainty in public, and sensitive men in public life
+
+## Comparative Schema
+
+- core meaning: Public uncertainty embodied in sensitive or weakened persons.
+- psychology: Personal uncertainty and sensitivity are explicit.
+- body/health: Witte names bodily sensitivity, poisoning damage, and blood diseases as source associations.
+- social/relationship: Sensitive men and foreign people are separate examples.
+- events/manifestations: A public water center and difficulty meeting demands.
+- conflicts/notes: Foreign people are not equated with bodily harm; the medical associations are not diagnoses.
+
+## Contradictions
+
+No direct contradiction is established. Foreign presence and a water center are neutral examples distinct from weakness or poisoning.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Sun`: sensitivity of the body, damage to the body through general illusions or poisoning, diseases of the blood, and not equal to demands.
-- Practical expression: sensitive people in public, foreign people in public life, corporal weak in public, public water center, and personal insecurity in public.
+In `Vernal Point/Neptune = Sun`, public uncertainty is expressed through concrete persons and bodily sensitivity. The [Witte entry](#witte-entry) includes weakness under demands and specific bodily harm associations. The restored [ABC entry](#abc-entry) adds personal uncertainty, sensitive people or men, foreign people, and a public water center. The synthesis retains the bodily emphasis while keeping neutral social and environmental examples separate from harm.
 
 ## Links
 

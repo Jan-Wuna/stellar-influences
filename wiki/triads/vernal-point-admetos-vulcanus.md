@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Admetos Vulcanus`
 - Astronomicon triad-set: `VP ¦ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Admetos/Vulcanus = Vernal Point](../activations/admetos-vulcanus-equals-vernal-point.md)
-- [Vernal Point/Admetos = Vulcanus](../activations/vernal-point-admetos-equals-vulcanus.md)
-- [Vernal Point/Vulcanus = Admetos](../activations/vernal-point-vulcanus-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Admetos/Vulcanus = Vernal Point](../activations/admetos-vulcanus-equals-vernal-point.md) | [Admetos/Vulcanus](../axes/admetos-vulcanus.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Admetos = Vulcanus](../activations/vernal-point-admetos-equals-vulcanus.md) | [Vernal Point/Admetos](../axes/vernal-point-admetos.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Vernal Point/Vulcanus = Admetos](../activations/vernal-point-vulcanus-equals-admetos.md) | [Vernal Point/Vulcanus](../axes/vernal-point-vulcanus.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Admetos/Vulcanus = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
-- `Admetos/Vulcanus = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `474`
-- `Vernal Point/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
-- `Vernal Point/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `55`
-- `Vernal Point/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `54`
-- `Vernal Point/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `57`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Admetos/Vulcanus = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/admetos-vulcanus-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `311`.
+- `Admetos/Vulcanus = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/admetos-vulcanus-equals-vernal-point.md#abc-entry), printed p. `474`.
+- `Vernal Point/Admetos = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-admetos-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `53`.
+- `Vernal Point/Admetos = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-admetos-equals-vulcanus.md#abc-entry), printed p. `55`.
+- `Vernal Point/Vulcanus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-vulcanus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `54`.
+- `Vernal Point/Vulcanus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-vulcanus-equals-admetos.md#abc-entry), printed p. `57`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Vernal Point`: a public under harsh fate pressure, forced to develop firmness and resistance in collective life.
-- `Vernal Point/Admetos = Vulcanus`: This formula emphasizes obstacles through the present powers and to bundle or to compress something.
-- `Vernal Point/Vulcanus = Admetos`: This formula emphasizes perseverance, limitation and reduction of power and influence, and mighty opposition or resistance.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

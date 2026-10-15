@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Vernal Point`
 - Astronomicon formula: `X/£ = VP`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Fierce acts of violence. Storms. Eruptions. The general public is subjected to forces that are tense and directed.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Agitating unrest in the ()public, dynamic public movement, new beginning in the open life, new achievements for the public, sudden fire in the public sphere, and rhythmic public design
+- Source page: 378 (printed); PDF page: 188.
+
+Agitating unrest in the public, dynamic public leadership, new beginning in the open life, new achievements for the public, sudden fire in the public sphere, and rhythmic public design
+
+## Comparative Schema
+
+- Core meaning: Directed force enters public life.
+- Psychology: Public unrest.
+- Body/health: No specific health claim.
+- Social/relationship: Public leadership and shared exposure.
+- Events/manifestations: Fire, storms, eruptions, and public achievements.
+- Conflicts/notes: Public achievement and public violence are different expressions.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Public achievement and public violence are different expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Vernal Point`: Fierce acts of violence. Storms. Eruptions. The general public is subjected to forces that are tense and directed.
-- Practical expression: agitating unrest in the ()public, dynamic public movement, new beginning in the open life, new achievements for the public, and sudden fire in the public sphere.
+Vernal Point specifies Uranus/Zeus through the public reach of tense, directed forces. New public achievements and dynamic leadership belong to the same stated range as unrest, fire, and violent eruption. The entry locates the force socially without identifying one individual's intention. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

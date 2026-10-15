@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Node`
 - Astronomicon formula: `Y/¢ = g`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 To experience disappointments in connection with others. To be deceived about one’s connections. To deal with liquids. Cloudbursts. To experience water catastrophes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `394`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Degraded dissolution of a connection, dangerous encounter in the water, in connection with deficient water, m it dirty water to be connected, harmful water connection, and connections to the unknown and hidden
+Difficult dissolution of a connection, dangerous encounter in water, connection with deficient water, being connected with dirty water, damaged water connection, and connections to unknown and hidden matters
+
+## Comparative Schema
+
+- core meaning: disappointing or difficult connections, with liquids and water conditions as distinct settings.
+- psychology: disappointment and deception about one's ties are explicit.
+- body/health: water danger is a historical example without a specified medical condition.
+- social/relationship: connections with others and encounters in water are the stated relational settings.
+- events/manifestations: difficult dissolution, dirty or deficient water, cloudbursts, and water catastrophes are named.
+- conflicts/notes: deception in a relationship is not established by involvement with water or a hidden matter.
+
+## Contradictions
+
+Witte includes both relational disappointment and dealing with liquids; ABC also gives physical water connections. These need not all describe compromised personal associations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Node`: To experience disappointments in connection with others. To be deceived about one’s connections. To deal with liquids. Cloudbursts. To experience water catastrophes.
-- Practical focus: hidden decay becomes disappointing connections and compromised associations, where one’s ties to others become unclear, deceptive, or entangled with liquid, weather, or disaster conditions.
-- Practical expression: degraded dissolution of a connection, dangerous encounter in the water, in connection with deficient water, and harmful water connection.
+In Neptune/Hades = Node, Node specifies the pair through connections that may disappoint, be misunderstood, or prove difficult to dissolve. The [Witte entry](#witte-entry) states the relational themes and also dealing with liquids; [ABC](#abc-entry) adds deficient or dirty water, a damaged water connection, and ties to hidden matters (printed p. 394, PDF p. 196). These distinguish personal association from literal connections involving water. Cloudbursts and catastrophes remain particular historical examples, without turning every tie into a deceptive or dangerous one.
 
 ## Links
 

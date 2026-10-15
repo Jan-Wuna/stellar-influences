@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Pluto](../axes/mercury-pluto.md)
 - Triad hub: [Sun Mercury Pluto](../triads/sun-mercury-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Pluto`
+- Source reference: PDF p. 165 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,22 @@ Function of the motor and vegetative nervous system. To prefer nerve strengtheni
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Pluto`
+- Source reference: printed p. 252; PDF p. 125 (one-based) (entry).
+- Translation review: corrected against the German scan at the reference above; original factor orientation retained.
+
 #### ABC Entry
 
-Development of a medic centre, development of a language centre, man speaking about evolution, change of opinion of a person, personal development in youth, changes in the thinking of a man, and change of young people
+German passage (transcribed from PDF page `125`, printed page `252`):
+
+> Entfaltung eines Medien-Zentrums, Entwicklung eines Sprach-Zentrums, Männer sprechen über Evolution, Meinungs-Änderung einer Person, persönliche Entfaltung in der Jugend, Veränderungen im Denken eines Mannes, Wandlung junger Menschen
+
+Editorial translation from the German passage: Development of a media centre; development of a language centre; men speak about evolution; a person's change of opinion; personal development in youth; changes in a man's thinking; transformation of young people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Pluto`
+- Source reference: printed p. 164; entry `0531` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +71,16 @@ A persuasive speaker, keen observer, circumspection or prudence and vision. Desi
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Pluto midpoint`
+- Source reference: PDF p. 50 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 One who communicates powerfully and in an organized manner that holds fast to what is important. Egotism expressed through the communication of extreme ideas or opinions.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 172 (entry page).
 
 - Source heading: `MERCURY/PLUTO with Planets and Points`
 - Source page: `172`
@@ -70,22 +91,21 @@ Conviction and determination to using force to locate or obtain information; add
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Persuasive, organized communication and the wish for recognition. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- psychology: Keen observation and determination, with egotism or extreme opinions possible. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- body/health: Witte's nervous-system and dietary assertions remain historical source claims; Munkasey's sexuality statement does not establish orientation.
+- social/relationship: Authority or prestige among people controlling news and information. [Munkasey](#munkasey-entry), p. 172.
+- events/manifestations: Development of media or language centers, changed personal opinions, and forceful information-seeking. [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Gendered and medical statements remain attributed; recognition does not imply correctness.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is identified in the communicative themes; the bodily and sexuality statements are distinct source-specific claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Pluto = Sun`: commanding thought, intense self-expression, and the ability to influence through clarity and concentration. Main caution: dominating intellect: self-expression can become controlling, suspicious, or too invested in winning through ideas.
+In `Mercury/Pluto = Sun`, Sun specifies developing thought through a person's conviction, observation, and persuasive presentation. Organized communication can hold attention and seek recognition, while extreme opinions can express egotism. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry). [Munkasey](#munkasey-entry), p. 172, adds determined information-seeking and status among those who control news. The historical bodily, dietary, and sexuality claims remain separately attributed and do not ground medical or identity conclusions.
 
 ## Links
 

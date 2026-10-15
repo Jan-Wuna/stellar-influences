@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Mars Chiron](../triads/sun-mars-chiron.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,11 +39,23 @@ updated_at: 2026-04-21
 
 To be able to clear anger by seeing the meaning and purpose behind it. To intu itively assert oneself in a way that fulfills spiritual purpose. One actions reveals things one did not expect, and which usually take the form of new depths of meaning and pur pose to life.
 
+## Comparative Schema
+
+- core meaning: Purpose revealed through action and assertion.
+- psychology: Understanding anger and asserting oneself intuitively.
+- body/health: No bodily condition or medical claim is given.
+- social/relationship: Self-assertion is mentioned, but no specific relationship event is established.
+- events/manifestations: Actions yield unexpected discoveries of meaning.
+- conflicts/notes: The source contains 'One actions'; the intended grammatical subject is not silently repaired.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Mars`: To be able to clear anger by seeing the meaning and purpose behind it. To intu itively assert oneself in a way that fulfills spiritual purpose. One actions reveals things one did not expect, and which usually take the form of new depths of meaning and pur pose to life.
-- Practical focus: anger becomes purposeful action through insight. It suggests asserting oneself in a way that reveals deeper meaning, so conflict or effort becomes a path toward clearer purpose, healing, and unexpected spiritual understanding.
+Mars specifies the Sun/Chiron axis through action that reveals purpose. The [Sandbach entry](#sandbach-entry) connects understanding the meaning behind anger with clearing it, then describes intuitive self-assertion that serves spiritual purpose. Action can reveal unexpected depths of meaning; the entry does not require conflict itself to be a healing practice.
 
 ## Links
 

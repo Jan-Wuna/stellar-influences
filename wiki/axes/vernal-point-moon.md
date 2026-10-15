@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/R`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `38`, chapter heading `ARIES + MOON` (normalized here as Vernal Point/Moon).
 
 Concerning female persons, a people and countries. Nations. Public. National community. Tides.
 
@@ -79,13 +83,26 @@ Concerning female persons, a people and countries. Nations. Public. National com
 
 #### ABC Pair Summary
 
+Source reference: PDF page `11`, bold pair summary.
+
 Woman in public, feelings in public, an emotional public, mother of the world, the public life of the people, hour for the public, the world of woman, and peoples of the world
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be known to the world for nurturing or feminine qualities or for one's emotional nature. Relations with the public. The ability to be accepted by the public as one of them. Pairs with Mercury
+Source reference: PDF page `204`, entry `Moon/Aries`.
+
+To be known to the world for nurturing or feminine qualities or for one's emotional nature. Relations with the public. The ability to be accepted by the public as one of them.
+
+## Comparative Schema
+
+- Core meaning: Public belonging and collective feeling unite the public or national community of the [pair summary](#pair-summary) with the emotion and acceptance themes in the [ABC entry](#abc-pair-summary) and [pair delineation](#pair-delineation).
+- Psychology: Emotional nature, nurturing, and feeling accepted as one of the public are explicit.
+- Body/health: No specific medical association appears. Tides are a separate physical-world association in the pair summary, not a bodily diagnosis.
+- Social/relationship: Peoples, nations, countries, national community, and relations with the public define a broad collective field.
+- Events/manifestations: Being known for nurturing or emotional qualities and being accepted by the public are supported expressions.
+- Conflicts/notes: The entries' female, feminine, and maternal categories are historical source language rather than universal gender restrictions. Hand's following heading, "Pairs with Mercury," has been excluded after checking PDF page `204`.
 
 ## Related Activations
 
@@ -110,11 +127,16 @@ To be known to the world for nurturing or feminine qualities or for one's emotio
 - [Vernal Point/Moon = Vulcanus](../activations/vernal-point-moon-equals-vulcanus.md)
 - [Vernal Point/Moon = Zeus](../activations/vernal-point-moon-equals-zeus.md)
 
+## Contradictions
+
+Collective populations and nations in the pair summary are broader than an individual's emotional public reception in the pair delineation. These are different scales of the theme, not an established contradiction; the gendered examples do not exhaust it.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon` is the axis of public feeling, collective mood, emotional identification, and the capacity to be accepted by or resonate with the masses.
-- Chart expression: popularity through feeling, care, belonging, nationality, and visibility through emotional responsiveness, feminine symbolism, or public receptivity. Liabilities: mood-driven public life, oversensitivity to collective reaction, and losing emotional boundaries in the need to be accepted.
+Vernal Point/Moon concerns belonging to a public and the feelings through which that belonging is expressed. Peoples, nations, and national community in the [pair summary](#pair-summary) connect with public emotion in the [ABC entry](#abc-pair-summary) and with being accepted as "one of them" in the [pair delineation](#pair-delineation). At an individual scale, the latter describes becoming known through nurturing or emotional qualities.
+
+The historical female and maternal examples remain attributed illustrations rather than limits on who can express the theme. Tides are also explicitly named in the pair summary, but they are a separate physical association; the entries do not establish emotional instability or the loss of personal boundaries.
 
 ## Links
 

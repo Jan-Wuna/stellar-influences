@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Uranus MC Admetos](../triads/uranus-mc-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To experience murder or other violent commotions. To be in danger of being murde
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 384; PDF p. 191.
+
 #### ABC Entry
 
-Blockicrte seclische Impulse, my perennial rhythm, my blockicr rhythm, my involvement in the technique, my surprising distortion, my restless cycle, minute of monotonous blockade, and sudden soul blockade
+Blocked emotional impulses, thorough emotional renewal, my enduring rhythm, my blocked rhythm, my deepening into technology, my surprising deepening, my restless circulation or cycle, a minute of technical blockage, sudden blockage of the soul.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Personal blocked impulses and rhythm, with a separate severe commotion theme in Witte.
+- psychology: Blocked emotion, restlessness and thorough emotional renewal in ABC.
+- body/health: Witte's murder-danger wording remains an attributed extreme; ABC gives no diagnosis.
+- social/relationship: Witte includes experiencing violent commotions; no particular intimate bond is specified.
+- events/manifestations: Technical blockage, deeper engagement with technology and sudden personal blockage.
+- conflicts/notes: ABC includes both enduring and blocked rhythm; its renewal clause was omitted from the old translation.
+
+## Contradictions
+
+Witte's violent and murder-danger language differs substantially from ABC's emotional rhythm, technical blockage and renewal. The excerpts do not explain how those accounts relate, so the personal rhythm claims cannot be turned into evidence of inevitable violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = MC`: To experience murder or other violent commotions. To be in danger of being murdered.
-- Practical expression: my perennial rhythm, my blockicr rhythm, my involvement in the technique, my surprising distortion, and my restless cycle.
+In `Uranus/Admetos = MC`, MC specifies interruption or consolidation as a personal experience of blocked impulses and rhythm. [ABC](#abc-entry) holds emotional renewal and deeper engagement with technology beside restlessness and sudden blockage. [Witte](#witte-entry) gives a much more severe account involving violent commotions and danger of murder. That historical claim remains attributed; it is not the necessary meaning of ABC's blocked or renewed inner rhythm.
 
 ## Links
 

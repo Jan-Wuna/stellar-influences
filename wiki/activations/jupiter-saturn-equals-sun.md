@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Sun`
 - Astronomicon formula: `V/W = S`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Dissolution of a betrothal, or marriage. The bachelor.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success by Gcduld of a people, successful people through perseverance, successful woman in old age, financial losses of woman, joy and suffering of woman, happy woman despite pain, legal problems of a woman, and storene legal abjection
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+A man's success in old age, a man's financial losses, a man's joy and sorrow, personal loss of money, a person's happiness through patience, personal happiness through perseverance, personal financial losses, and a man's legal problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 226; one-based PDF p. 228, coded entry 0783.
 
 Inconstancy, moodiness (through illness, e.g., disturbances in liver function). Happy solitude (bachelor), a man who is happy owing to the dissolution of an engagement, change of residence, gaining experience.
 
@@ -57,7 +65,9 @@ Inconstancy, moodiness (through illness, e.g., disturbances in liver function). 
 
 #### Sandbach Entry
 
-The ability to work at one’s goals steadily and with discipline. One who can be very persistent in taking into consideration the long-range picture and who has the vi tality to keep at what is being done.
+- Source reference: one-based PDF p. 78, Jupiter/Saturn, Sun paragraph.
+
+The ability to work at one’s goals steadily and with discipline. One who can be very persistent in taking into consideration the long-range picture and who has the vitality to keep at what is being done.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -66,26 +76,27 @@ The ability to work at one’s goals steadily and with discipline. One who can b
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Dreaming of a potential for actuality; feeling that you can positively influence social change; encourages you to boast a lot; increases self pride and your ability to demonstrate positive leadership before others.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal effort and changing circumstances coexist with separation ([Sandbach Entry](#sandbach-entry)).
+- Psychology: Persistence and long-range discipline contrast with moodiness and boasting in other entries.
+- Body/health: Ebertin's liver-function example is historical medical doctrine, not an established diagnosis.
+- Social/relationship: Bachelorhood and dissolved engagements are historical examples; they do not establish emotional coldness.
+- Events/manifestations: Change of residence, gained experience, and leadership are explicit possibilities.
+- Conflicts/notes: The raw ABC Sun row concerns a man and personal joy, losses, patience and perseverance; the former people/woman paragraph belonged to Moon. Sandbach's exact Sun paragraph is on PDF p. 78; vitality is normalized across a typographical split.
 
 ## Contradictions
 
-- None recorded yet.
+Discipline and personal inconstancy are materially different emphases. Neither marriage dissolution nor bachelorhood establishes an inherent lack of warmth.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Sun`: persistence, capacity to keep working at goals, and maturity gained through separation or changed circumstance. Main caution: emotional dryness or bachelor-like self-containment, where growth comes with distance but can also reduce warmth and continuity in close union.
+In `Jupiter/Saturn = Sun`, Sun makes the pair's effort and changing circumstances personal. The [Sandbach Entry](#sandbach-entry) describes vitality directed toward long-range goals, while the [Munkasey Entry](#munkasey-entry) adds leadership and self-pride, including boasting. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) retain separation, solitude, and changed residence. The [ABC Entry](#abc-entry) adds personal happiness through patience and perseverance and success in old age beside financial losses and legal problems. Personal persistence and changed attachments belong in the range without treating separation as either necessary maturity or evidence of emotional coldness.
 
 ## Links
 

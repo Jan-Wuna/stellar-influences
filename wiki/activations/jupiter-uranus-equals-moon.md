@@ -29,6 +29,8 @@ updated_at: 2026-06-20
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Moon`
 - Astronomicon formula: `V/X = R`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -40,23 +42,31 @@ updated_at: 2026-06-20
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Stimulating happy hours. Unexpected good fortune of female persons. Sudden luck and opportunity for several.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success of a people in technology, joy in the fleeting rhythm us, joyful event for the woman, money surprise by the woman, GIOck's event for the woman, new women's right, new legal feeling, and technical advantages for a people
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+A people's success in technology, joy in an emotionally expressive rhythm, a joyful event for a woman, a financial surprise through a woman, a fortunate event for a woman, new women's rights, a new sense of justice, and technical advantages for a people.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 229; one-based PDF p. 231, coded entry 0796.
 
 Good intuition, optimistic outlook, fortunate grasp and understanding of things, prudence, far-sightedness. Sudden feeling of happiness, happiness of the female sex.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 80, Jupiter/Uranus, Moon paragraph.
 
 Sudden displays of extreme emotion. To have a distorted impression of what is going on due to allowing one’s emotions and subjectivity to completely take one over.
 
@@ -67,6 +77,8 @@ Sudden displays of extreme emotion. To have a distorted impression of what is go
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 The sensitivity you have for the need to transform your life thru a change of religion, moral principles, philosophy, etc.; your inconsistency in dealing with the forces of change and revolution which occur around you daily.
 
 ### Aren Ober - Midpoint Interpretation Simplified
@@ -76,26 +88,27 @@ The sensitivity you have for the need to transform your life thru a change of re
 
 #### Ober Entry
 
+- Source reference: retained one-based PDF pp. 126–127, Jupiter/Uranus Interpretation, Moon example; paraphrase unchanged in this review.
+
 If the Moon is at Jupiter/Uranus, Ober gives sudden intuition or sudden emotional happiness, with possible sudden happiness or good fortune through a woman or the public.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden opportunity is experienced through feeling and intuition ([Ober Entry](#ober-entry), PDF pp. 126–127).
+- Psychology: Ebertin's prudent intuition contrasts with Sandbach's distorted subjective impressions.
+- Body/health: No specific bodily or medical meaning is established.
+- Social/relationship: Historical examples involving women and the public remain attributed source conventions.
+- Events/manifestations: Happy hours, shared opportunities, changed principles, and inconsistent responses to change are explicit.
+- Conflicts/notes: Raw ABC inspection confirms an emotionally expressive rhythm and a fortunate event for a woman; neither clause is damaged. Sandbach's Moon paragraph is on PDF p. 80 itself, an exact entry locator.
 
 ## Contradictions
 
-- None recorded yet.
+There is a substantive difference over perception: Ebertin describes a fortunate, prudent grasp, while Sandbach describes impressions distorted by emotion. The distinction should not be flattened into universally fortunate intuition.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Moon`: stimulating happy periods, emotional generosity, fortunate intuition, and shared enjoyment with others, especially in immediate life or domestic circumstances. Main caution: volatility: excitement can become exaggerated mood, subjectivity, or emotional overreaction.
+In `Jupiter/Uranus = Moon`, Moon brings the pair's sudden opportunity into feelings and intuitive perception. The [Witte Entry](#witte-entry) and [Ober Entry](#ober-entry) describe stimulating happiness and shared good fortune. Perceptual quality remains disputed: the [Ebertin Entry](#ebertin-entry) gives prudence and fortunate understanding, whereas the [Sandbach Entry](#sandbach-entry) gives emotional distortion. The [Munkasey Entry](#munkasey-entry) adds sensitivity and inconsistency amid changing principles. The [ABC Entry](#abc-entry) adds emotional rhythm, women's rights, a changed sense of justice and technological benefit for a people. Sudden feeling is the throughline, not infallible intuition.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¢/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `286` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Mental, cultural or spiritual isolation, poverty, deficiencies, defects. Secret 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `448`; PDF page: `223` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Old spirit, primordial, spiritual need, spiritual service, cultural past, criminal !dcen, lack of clarity, hidden culture, hidden truth, lack of reason, and nifty renunciation
+German pair summary (transcribed from printed page `448`; PDF page `223`):
+
+> Alter Geist, gefährdete Kultur, geistige Not, geistiger Dienst, kulturelle Vergangenheit, kriminelle Ideen, mangelnde Klarheit, verborgene Kultur, verborgene Wahrheit, Vernunft-Mangel, vernünftiger Verzicht
+
+Editorial translation from the German passage: Old spirit, endangered culture, spiritual or mental need, spiritual or mental service, cultural past, criminal ideas, lack of clarity, hidden culture, hidden truth, lack of reason, reasonable renunciation.
+
+## Comparative Schema
+
+- Core meaning: Mental, cultural, or spiritual isolation alongside hidden teaching and the cultural past ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Lack of clarity and the source's evaluative terms for limited understanding are represented; no clinical condition is established.
+- Body/health: "Mental" and "spiritual" deficiencies are source vocabulary here, not specified medical diagnoses.
+- Social/relationship: Isolation is explicit; the entries do not describe a particular partnership or family pattern.
+- Events/manifestations: Secret doctrine, secret sciences, antiquity, hidden culture or truth, and spiritual service are examples.
+- Conflicts/notes: Hidden culture and truth coexist with endangered culture, criminal ideas, and limited clarity. Reasonable renunciation is a distinct ABC expression; these brief terms do not assess the worth of every obscure teaching.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Old spirit, primordial, spiritual need, spiritual service, cultural past, crimin
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Poseidon`: mental, cultural, or spiritual isolation: secret science, antiquarian or hidden knowledge, private doctrine, superstition, and a mind cut off from ordinary understanding.
-- Chart expression: intelligence or belief becoming separated from the common field. It can describe genuine dedication to obscure wisdom, secret teaching, or ancient knowledge, but also oddness, incomprehensibility, mental poverty, ideological remoteness, and belief systems that drift into superstition or sterile isolation.
+`Hades/Poseidon` brings isolation and limited clarity into the sphere of thought, culture, and spiritual life. Secret doctrine and secret sciences place knowledge outside ordinary access, while antiquity and the cultural past preserve a historical dimension. Spiritual need and spiritual service are also named in the ABC summary ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+
+The sources include both hidden knowledge and adverse judgments about understanding. Neither the worth of an obscure teaching nor a person's intelligence can be settled by merging those examples. ABC also preserves endangered culture, criminal ideas, and reasonable renunciation as separate expressions ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

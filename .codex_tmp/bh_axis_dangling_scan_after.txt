@@ -1,0 +1,4 @@
+﻿Scenario: scan all wiki/axes/*.md Banzhaf/Haebler blocks for harmony/discord dangling tails
+Invocation: PowerShell targeted scan over ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology blocks
+Rules: terminal comma/semicolon/colon, ellipsis, empty label tail, or final dangling conjunction/preposition/article
+COUNT=0

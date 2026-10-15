@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Jupiter Cupido Apollon](../triads/jupiter-cupido-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ The fortune and the happiness of peace. To be joined with many in a fortunate co
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 430).
+
 #### ABC Entry
 
-Successful financial community, joy over common knowledge, common moneyRenunciation, common arts success, happiness and success of a community, happy community of actions, and legal success of a community
+Editorial English translation, checked against the German scan:
+
+Successful financial community; joy in shared knowledge; shared increase of money; shared artistic successes; happiness and success of a community; fortunate community of action; legal successes of a community.
+
+## Comparative Schema
+
+- core meaning: Fortunate broad association and shared artistic, commercial or financial success.
+- psychology: Peace, happiness and joy in shared knowledge.
+- body/health: No specific physical or medical claim.
+- social/relationship: Joining many in a fortunate community.
+- events/manifestations: Shared increase of money, artistic success, legal success and fortunate common action.
+- conflicts/notes: These favorable entries supply no caution about overconfidence or entitlement.
+
+## Contradictions And Differences
+
+These favorable entries supply no caution about overconfidence or entitlement. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Jupiter`: prosperous community, favorable association, and social or commercial blessing through broad circles. Main caution: overconfidence in group fortune or taking growth for granted.
+`Cupido/Apollon = Jupiter` describes fortune and happiness through association with many people. The [Witte entry](#witte-entry) connects peaceful community with art, science and commerce; the [ABC entry](#abc-entry) makes the shared success concrete in finance, increased money, artistic achievement, legal success and joy in common knowledge. The shared theme is favorable communal participation, without a stated psychological drawback.
 
 ## Links
 

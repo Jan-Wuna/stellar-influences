@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Vulcanus`
 - Astronomicon formula: `W/¡ = §`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Marital jealousy. To be guarded or controlled by a partnership.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of an energy community, serious art influence, enormous problems of a community, problems of violence of the community, concentration on common power, strength and perseverance of a community, and loss of power of a community
+- Source page: 355 (printed); PDF page: 176.
+
+Tasks of an energy community, influence of serious art, enormous problems of a community, problems of violence within the community, concentration on shared power, strength and endurance of a community, loss of power of a community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Power and endurance within a community can include control or violence.
+- Psychology: Marital jealousy and concentration on shared power.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Being guarded or controlled by a partnership.
+- Events/manifestations: Energy-community tasks, serious art's influence, major communal problems, and lost power.
+- Conflicts/notes: Collective strength and endurance are retained beside jealousy, coercion, or loss of power.
+
+## Contradictions
+
+Collective strength and endurance are retained beside jealousy, coercion, or loss of power.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Vulcanus`: marital jealousy, to be guarded or controlled by a partnership.
-- Practical expression: tasks of an energy community, serious art influence, enormous problems of a community, problems of violence of the community, and concentration on common power.
+In `Saturn/Cupido = Vulcanus`, Vulcanus specifies the pair through the power exercised within partnership or community. The [Witte entry](#witte-entry) stresses jealousy and being guarded or controlled; the [ABC entry](#abc-entry) adds communal strength, endurance, and concentration on shared power. Great communal problems, violence, and loss of power preserve its difficult range alongside collective capacity.
 
 ## Links
 

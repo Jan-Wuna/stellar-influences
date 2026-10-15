@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Venus`
 - Astronomicon formula: `Y/g = Q`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 Unfortunate love unions. Unions which seems to be harmonious at first, but later become untenable.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `220`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Autlosung of a love relationship, encounter with future art, joy through connections in the air, harmonious connection through fine feeling, unsafe peace contacts, unsafe love connection, and preference for connection to the water
+Dissolution of a love relationship, encounter with future art, joy through connections in the air, harmonious connection through sensitivity, uncertain peace contacts, uncertain love connection, and preference for connection to water
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `284`, entry code `1014`.
 
 #### Ebertin Entry
 
 Misconceptions with regard to other people's relationships and associations. Wrong liaisons, unfaithfulness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `111`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A love of experiencing the subtlest levels of one’s connections to others. An 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE with Planets and Points`
-- Source page: `332`
+- Source reference: printed p. `332` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Adds to the contentment and satisfaction when you find time to be alone with you
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: delicate affection and uncertain relationships, with appreciation of solitude also present.
+- psychology: daydreaming, wishful thinking, sensitivity, and satisfaction in retreat are explicit.
+- body/health: no bodily or health claim is supplied.
+- social/relationship: apparently harmonious but untenable unions, misconceptions, and unfaithfulness are source examples.
+- events/manifestations: love-relationship dissolution, future art, and comfortable artistic surroundings for solitude are named.
+- conflicts/notes: Sandbach's appreciation of fragile ties and Munkasey's contented solitude differ from inevitable romantic disappointment.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress unhappy or misread relationships. Sandbach also describes appreciation and evolving sensitivity; Munkasey emphasizes the pleasures of private retreat.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Venus`: compassionate love, refined social sensitivity, and the ability to create subtle emotional or spiritual closeness. Main caution: romantic projection: ties can become overly idealized, seductive, dependent, or quietly disappointing when reality arrives.
+In Neptune/Node = Venus, affection may be experienced as delicate or idealized while the connection remains uncertain. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe untenable unions and misconceptions about relationships; [ABC](#abc-entry) retains harmony through sensitivity beside uncertain love contacts. [Sandbach](#sandbach-entry) allows love to develop sensitivity, while [Munkasey](#munkasey-entry) describes contentment in an artistic, comfortable retreat. These are distinct forms of relating and withdrawal, without requiring dependence or eventual disappointment.
 
 ## Links
 

@@ -7,12 +7,14 @@ framework_scope: comparative
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - reinhold-ebertin-the-combination-of-stellar-influences
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
 Compare the `13` factor chapters shared by Witte and Ebertin without collapsing Hamburg School and Cosmobiological framing into one undifferentiated meaning.
+
+This research note compares source emphases. For a recurring factor's delineation, use its canonical factor page's `Derived Synthesis`; [Shared Factor Throughline](shared-factor-throughline-witte-ebertin.md#derived-synthesis) gives the compact reading method.
 
 ## Evidence Base
 
@@ -20,36 +22,36 @@ Compare the `13` factor chapters shared by Witte and Ebertin without collapsing 
 - [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
 - Shared factor pages: [Sun](../factors/sun.md), [Moon](../factors/moon.md), [Mercury](../factors/mercury.md), [Venus](../factors/venus.md), [Mars](../factors/mars.md), [Jupiter](../factors/jupiter.md), [Saturn](../factors/saturn.md), [Uranus](../factors/uranus.md), [Neptune](../factors/neptune.md), [Pluto](../factors/pluto.md), [Node](../factors/node.md), [Asc](../factors/asc.md), [MC](../factors/mc.md)
 
+The notes below use the Witte factor entry and Ebertin's principle and correspondence fields, not the sign-position extracts. Locators identify the Witte PDF keyword page and the start of each Ebertin chapter in printed pagination. They are parser-supplied locators, not a claim of visual verification of every passage.
+
 ## Analysis
 
 ### Shared Pattern
 
-- Witte usually gives a compressed Hamburg School keyword cluster.
-- Ebertin usually redistributes the same factor into principle, psychology, biology, sociology, and sometimes sign-position material.
-- Across the shared factors, the main difference is not direct contradiction. It is resolution: Witte is compact and operational, Ebertin is analytic and taxonomic.
+Witte presents short keyword clusters. Ebertin separates principles and psychological, biological, and sociological correspondences. This difference in presentation explains some overlap, especially for thought and exchange, love and art, or activity and work. It does not establish that Ebertin simply expands Witte, or that every factor has an identical center in both entries. The Sun, Neptune, and Pluto notes show differences of emphasis that a synthesis should retain.
 
 ### Factor Notes
 
-- [Sun](../factors/sun.md): Witte leans toward the living body, day, and life force. Ebertin leans toward spirit, mind, will, and authority. Shared core: central vitality and conscious direction.
-- [Moon](../factors/moon.md): Witte stresses women, the public, changeability, glands, and bodily fluids. Ebertin stresses soul, mothering, family, and fertility. Shared core: responsive, mutable, feminine life.
-- [Mercury](../factors/mercury.md): Both agree on thought, speech, exchange, and movement. Ebertin adds a stronger distinction between sound judgment and diffused or inhibited intellect.
-- [Venus](../factors/venus.md): Both center love, harmony, beauty, and attraction. Witte stays concise; Ebertin expands the factor into taste, pleasure, vice, and social-artistic settings.
-- [Mars](../factors/mars.md): Both center action, energy, impulse, and work. Ebertin more explicitly separates constructive courage from brutality or waste of force.
-- [Jupiter](../factors/jupiter.md): Both emphasize happiness, expansion, justice, success, and benefit. Ebertin pushes the factor further into religion, law, moral order, and social conduct.
-- [Saturn](../factors/saturn.md): Both emphasize inhibition, delay, separation, endurance, and hardening. Witte is more starkly material and obstructive; Ebertin is more psychological and developmental.
-- [Uranus](../factors/uranus.md): Both emphasize suddenness, tension, excitement, novelty, and technical or reforming tendencies. Ebertin adds more explicit freedom, intuition, and revolutionary independence.
-- [Neptune](../factors/neptune.md): Both emphasize uncertainty, deception, fog, and unstable states. Ebertin adds receptivity, compassion, mysticism, and mediumship in a more articulated way.
-- [Pluto](../factors/pluto.md): Both imply transformation and force. Witte frames development, turnaround, and metamorphosis; Ebertin frames invisible power, mass influence, and propagandistic force.
-- [Node](../factors/node.md): Both treat the factor relationally. Witte frames junction, network, contact, and linkage; Ebertin frames alliance, fellowship, meeting, and kinship.
-- [Asc](../factors/asc.md): Witte places the emphasis on surroundings, acquaintances, and outward appearance. Ebertin defines the ego in relation to environment and other people.
-- [MC](../factors/mc.md): Witte foregrounds ego, soul, public vocation, and the immediate moment. Ebertin foregrounds ego-consciousness, spiritual awareness, and the aim of life.
+- Sun: [Witte](../factors/sun.md#witte-factor-entry) names the living body, day, and life force; [Ebertin](../factors/sun.md#reinhold-ebertin---the-combination-of-stellar-influences) names spirit and mind, then will, vitality, and authority. Vitality overlaps, while body and conscious agency receive different weight. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `45`.
+- Moon: [Witte](../factors/moon.md#witte-factor-entry) stresses female persons, the public, changeability, glands, and bodily fluids; [Ebertin](../factors/moon.md#reinhold-ebertin---the-combination-of-stellar-influences) stresses soul, the female principle, mothering, family, and fertility. These historical gender categories remain attributed rather than serving as universal descriptions. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `48`.
+- Mercury: [Witte](../factors/mercury.md#witte-factor-entry) names thought, speech, writing, movement, and exchange of information; [Ebertin](../factors/mercury.md#reinhold-ebertin---the-combination-of-stellar-influences) centers intellect and mediation, distinguishing sound judgment from scattered or inhibited expression. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `50`.
+- Venus: [Witte](../factors/venus.md#witte-factor-entry) names love, harmony, beauty, taste, pleasure, art, and care; [Ebertin](../factors/venus.md#reinhold-ebertin---the-combination-of-stellar-influences) centers love and art, then distinguishes attraction and harmony from his negative categories of sentimentality, poor taste, and vice. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `53`.
+- Mars: [Witte](../factors/mars.md#witte-factor-entry) names action, impulse, energy, decision, and work; [Ebertin](../factors/mars.md#reinhold-ebertin---the-combination-of-stellar-influences) centers energy and separates courage and determination from brutality or wasted force. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `55`.
+- Jupiter: [Witte](../factors/jupiter.md#witte-factor-entry) names happiness, success, money, expansion, justice, and benefit; [Ebertin](../factors/jupiter.md#reinhold-ebertin---the-combination-of-stellar-influences) emphasizes law, religion, expansion, justice, moral aspirations, and their negative social counterparts. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `57`.
+- Saturn: [Witte](../factors/saturn.md#witte-factor-entry) names inhibition, delay, separation, hardening, and lasting perseverance; [Ebertin](../factors/saturn.md#reinhold-ebertin---the-combination-of-stellar-influences) centers inhibition and concentration, developing both endurance and isolation. Neither entry is solely obstructive. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `59`.
+- Uranus: [Witte](../factors/uranus.md#witte-factor-entry) names suddenness, tension, excitement, innovation, and technical or mathematical knowledge; [Ebertin](../factors/uranus.md#reinhold-ebertin---the-combination-of-stellar-influences) adds explicit freedom, intuition, rhythm, and revolutionary independence. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `61`.
+- Neptune: [Witte](../factors/neptune.md#witte-factor-entry) includes uncertainty, dissolution, deception, fog, inspiration, and mysticism; [Ebertin](../factors/neptune.md#reinhold-ebertin---the-combination-of-stellar-influences) foregrounds receptivity and sympathetic understanding while also naming confusion, deception, imagination, mysticism, and mediumship. The compassionate emphasis should not be lost in a summary of uncertainty. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `64`.
+- Pluto: [Witte](../factors/pluto.md#witte-factor-entry) centers development, growth, turnaround, and change from within; [Ebertin](../factors/pluto.md#reinhold-ebertin---the-combination-of-stellar-influences) centers invisible powers, mass influence, regeneration, and propagandistic or coercive force. Those emphases are materially different; neither is simply a longer version of the other. Locators: Witte PDF `28`; Ebertin chapter starts on printed page `67`.
+- Node: [Witte](../factors/node.md#witte-factor-entry) names junction, network, contact, linkage, and boundary relations; [Ebertin](../factors/node.md#reinhold-ebertin---the-combination-of-stellar-influences) names alliance, fellowship, meeting, and kinship. Both are relational, with distinct ranges. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `69`.
+- Asc: [Witte](../factors/asc.md#witte-factor-entry) emphasizes near surroundings, acquaintances, outward appearance, and others' influence; [Ebertin](../factors/asc.md#reinhold-ebertin---the-combination-of-stellar-influences) treats personality and the ego's relation to the environment and other people. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `71`.
+- MC: [Witte](../factors/mc.md#witte-factor-entry) names ego, soul, public vocation, and the immediate moment; [Ebertin](../factors/mc.md#reinhold-ebertin---the-combination-of-stellar-influences) foregrounds ego-consciousness, spiritual awareness, and the aim of life. Locators: Witte PDF `27`; Ebertin chapter starts on printed page `74`.
 
 ## Contradictions and Notes
 
-- No major direct contradiction appears at factor-chapter level across these `13` shared factors.
-- The strongest divergence is interpretive altitude. Witte tends to name operational keywords. Ebertin tends to classify the same factor into explicit doctrinal buckets.
-- This means future synthesis work should compare like with like: factor chapter to factor chapter, axis to axis, activation to activation.
+- The comparison identifies overlap and differences of emphasis, not a proof of complete agreement. A missing motif in one short entry is not a denial of it.
+- Historical medical, biological, moral, and gender classifications remain the sources' claims; this comparison does not endorse them as diagnoses or universal facts.
+- Compare like with like: factor chapter to factor chapter, axis to axis, activation to the identical oriented activation. Shared wording does not establish independent corroboration.
 
 ## Open Questions
 
-- Should future derived work compare the shared axis chapters next, or stay factor-first until contradiction notes are fuller?
+- Which differences become actual incompatible claims at axis or exact activation level? This factor-only comparison cannot settle that question.

@@ -1,0 +1,1322 @@
+{
+  "status": "complete",
+  "verified_by": "/root/activation_review_023_044",
+  "accepted": 29,
+  "repaired": 21,
+  "reused_exact_approvals": 7,
+  "genuine_printed_limit_retained": 1,
+  "held": 0,
+  "pages": [
+    {
+      "path": "wiki/activations/venus-chiron-equals-asc.md",
+      "before_sha256": "fa7087e451a27e9aad61cab66d26e6a3b77ff2a95d3b3c2e5194667f07b2e59b",
+      "after_sha256": "b9840b62c9a300683659a93443da4e47668bdc6b708b5557374458bd21164714",
+      "ledger": "activations-085.jsonl",
+      "reason": "Full baseline/current source, full amended085record, queued flag and dependent prose read. Complete actual Sandbach sentence, chapter heading and adjacent boundaries personally read/viewed; exact60 reference verified. Actual Sandbach heading bottomPDF58, full chapter continuation59, exact Asc paragraph60 before MC and Venus/Uranus heading. Complete sentence personally read/viewed; native printed 'at mosphere' is an internal split, not missing wording. Exact60 reference true; retain source typography and explain its provenance.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf058.png",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf059.png",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf060.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "genuine_source_limit_confirmed_with_proof",
+      "genuine_source_limit_confirmed_with_proof": [
+        "Actual Sandbach60 prints 'at mosphere'; source typography retained and owner caveat now identifies printed origin."
+      ],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-chiron-asc.md",
+          "text": "Venus/Chiron = Asc retains the split transcription at mosphere; exact wording has no new scan verification.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.",
+      "preclosure_source": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\n- PDF page: 60 (exact entry passage checked in the raw PDF text).\n\nOne’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.",
+      "current_source": "### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\n- PDF page: 60 (exact entry passage checked in the raw PDF text).\n\nOne’s personality exudes a loving and peaceful aura which creates an at mosphere of harmony and accord around one.",
+      "page_sha256": "a4229ad9fd8401801ebcb129c6a5f497071ccc4d21b0a89a0ea762599db74573",
+      "page_sha256_LF_text": "a4229ad9fd8401801ebcb129c6a5f497071ccc4d21b0a89a0ea762599db74573",
+      "owner_line": 25,
+      "owner_record_sha256": "943051781ca519398445192989ccd3e451256a1f11bfc8a3aa92de8d9259d054",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": false,
+      "raw_preparation_note": "Actual Sandbach heading bottomPDF58, full chapter continuation59, exact Asc paragraph60 before MC and Venus/Uranus heading. Complete sentence personally read/viewed; native printed 'at mosphere' is an internal split, not missing wording. Exact60 reference true; retain source typography and explain its provenance.",
+      "remaining_locator_granularity": [
+        "Sandbach PDF60 itself prints the split 'at mosphere'; retained as printed after actual visual verification, not an unverified OCR repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-apollon.md",
+      "before_sha256": "1aebf8f047608d8bfea0331125fb416bc27899136a116ecd35c10cc90a569eaa",
+      "after_sha256": "4b48542f21092e350a2df0cabd72d28e0f237256bc9c3d2e198ae73a68b80d78",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC289/PDF143 Apollon eight clauses: special art knowledge; success through peace with hierarchy; successful independence in love; successful dominance of harmony; great experiences in love; independent art trade; state peace success; experience hierarchy's benevolence. Selbständigkeit is independence, not self-governance. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-apollon.md",
+          "text": "ABC: \"successful self governance in love\" and \"self governing arts trade\" are compressed translation; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"successful self governance in love\" and \"self governing arts trade\" are compressed translation; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMany special favors. Many show willingness to help. Affections from or friendship with scientific authorities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial knowledge of the arts, success through peace with the hierarchy, successful self governance in love, successful dominance of harmony, great experiences in love, self governing arts trade, state peace success, and benevolence of the hierarchy experience",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMany special favors. Many show willingness to help. Affections from or friendship with scientific authorities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial knowledge of the arts, success through peace with the hierarchy, successful self governance in love, successful dominance of harmony, great experiences in love, self governing arts trade, state peace success, and benevolence of the hierarchy experience",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMany special favors. Many show willingness to help. Affections from or friendship with scientific authorities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nSpecial knowledge of art, success through peace with the hierarchy, successful independence in love, successful dominance of harmony, great experiences in love, independent art trade, state success in peace, and experiencing the hierarchy's benevolence.",
+      "page_sha256": "c2168da7ea82d56f12579fa1fda940f5cd78c8427eda16f580f4be04e4716add",
+      "page_sha256_LF_text": "c2168da7ea82d56f12579fa1fda940f5cd78c8427eda16f580f4be04e4716add",
+      "owner_line": 12,
+      "owner_record_sha256": "0dfb4abf95e82b298fbdff1b6e02cfd19016a7d2ecc74b748dbfb1eba4851294",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC289/PDF143 Apollon eight clauses: special art knowledge; success through peace with hierarchy; successful independence in love; successful dominance of harmony; great experiences in love; independent art trade; state peace success; experience hierarchy's benevolence. Selbständigkeit is independence, not self-governance.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-asc.md",
+      "before_sha256": "0107dbd484c5647bdc7b8b3e9e1cc95b8dee02c8ccfd20b3c27e5d60f18ea506",
+      "after_sha256": "f493e7e511a83fcac147b4444b9ccd8e2210b22776e52b96e60aa219996bed3c",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Asc eight clauses: special harmony with others; partner's dominance through beauty; harmony with independent partners; local art authority; place for special art; state peace partner; preference for respected partners; authority's environmental wishes. Selbständigen independent, Behörde public authority, not horde. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-asc.md",
+          "text": "ABC: \"shrewd partnem\", \"art at the place\", \"place for special artist\", \"environmental wishes of the horde\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-asc-kronos.md",
+          "text": "Venus/Asc = Kronos and Venus/Kronos = Asc exclude unresolved or partially damaged ABC art, partner and locality clauses. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-asc-kronos.md",
+          "text": "Venus/Asc = Kronos and Venus/Kronos = Asc exclude unresolved or partially damaged ABC art, partner and locality clauses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"shrewd partnem\", \"art at the place\", \"place for special artist\", \"environmental wishes of the horde\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAcquaintances with charitable people. To receive presents.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial Harmonic with others, dominance of the partner through beauty, harmony with shrewd partnem, art at the place, place for special artist, state peace partner, preference for respected partners, and environmental wishes of the horde",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAcquaintances with charitable people. To receive presents.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial Harmonic with others, dominance of the partner through beauty, harmony with shrewd partnem, art at the place, place for special artist, state peace partner, preference for respected partners, and environmental wishes of the horde",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nAcquaintances with charitable people. To receive presents.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nSpecial harmony with others, dominance of the partner through beauty, harmony with independent partners, artistic authority at the place, a place for special art, a state partner for peace, preference for respected partners, and the authority's wishes concerning the environment.",
+      "page_sha256": "3e2fe6c4431c5c704158751d9383669205d527092f6e0c0e829613b59fa4b5a1",
+      "page_sha256_LF_text": "3e2fe6c4431c5c704158751d9383669205d527092f6e0c0e829613b59fa4b5a1",
+      "owner_line": 13,
+      "owner_record_sha256": "8a9efd9ac7f13b658efc156bdc39afc090ae2f173b8009ba6e7799ef5babf33a",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 Asc eight clauses: special harmony with others; partner's dominance through beauty; harmony with independent partners; local art authority; place for special art; state peace partner; preference for respected partners; authority's environmental wishes. Selbständigen independent, Behörde public authority, not horde.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-hades.md",
+      "before_sha256": "5905698645e85e5dafbd1a52473afa1d8d26b4c728d2d322f7d6396fdefbcfab",
+      "after_sha256": "a67e7276be2ad6d565969a1219794598aac63a58968b0f13ee0be2ba8987a5e5",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC289/PDF143 Hades eight clauses: special love sorrow; danger to state peace; lack of harmony in old age; artistic greatness from past; deficient reputation of art; love hidden authority; preference for great danger; important service in love. Kunst art, Kummer sorrow; hidden authority is object of love, not an adjective to love. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-hades.md",
+          "text": "ABC: \"love cummer\", \"danger of peace\", \"artistic great from the past\", \"love hidden authority\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-hades-kronos.md",
+          "text": "Venus/Kronos = Hades retains unresolved ABC sorrow, peace, art and public-standing clauses. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-hades-kronos.md",
+          "text": "Venus/Kronos = Hades retains unresolved ABC sorrow, peace, art and public-standing clauses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"love cummer\", \"danger of peace\", \"artistic great from the past\", \"love hidden authority\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSympathy with poverty, with the sick and suffering.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial love cummer, danger of peace for the state, lack of harmony in old age, artistic great from the past, poor reputation of the artist, love hidden authority, preference for great danger, and important love service",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSympathy with poverty, with the sick and suffering.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial love cummer, danger of peace for the state, lack of harmony in old age, artistic great from the past, poor reputation of the artist, love hidden authority, preference for great danger, and important love service",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSympathy with poverty, with the sick and suffering.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nSpecial sorrow in love, danger to peace for the state, lack of harmony in old age, artistic greatness from the past, poor reputation of art, loving a hidden authority, preference for great danger, and important service in love.",
+      "page_sha256": "9275eb220dc88e3b2ee01e84bc312bb811b96264b210ff5f51f671676c07f5e4",
+      "page_sha256_LF_text": "9275eb220dc88e3b2ee01e84bc312bb811b96264b210ff5f51f671676c07f5e4",
+      "owner_line": 15,
+      "owner_record_sha256": "f69b073b8c84a9c905760320607f5792a8033bdde45f7305781bd6b8730ec628",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC289/PDF143 Hades eight clauses: special love sorrow; danger to state peace; lack of harmony in old age; artistic greatness from past; deficient reputation of art; love hidden authority; preference for great danger; important service in love. Kunst art, Kummer sorrow; hidden authority is object of love, not an adjective to love.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-jupiter.md",
+      "before_sha256": "72444c0f5526e824a135174ab758cec38615ec5890793b47d96d53223838ff44",
+      "after_sha256": "910a526499a8234b7e0b2e1494c9c1a4473d09472d056de0320bc6737e8d10df",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Jupiter nine clauses: special joy in love; successful art authority; state's peace success; peaceful constitutional/rule-of-law state; great legal art; love of a legal authority; state's love of law; independent legal success; priority given to money. Rechts-Staat literal constitutional/rule-of-law state, not generic right authority; narrow legal-art phrase remains uninterpreted. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-jupiter.md",
+          "text": "ABC: \"right authoritat\", \"great right art\", \"right love of the state\", \"self evident right success\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-jupiter-kronos.md",
+          "text": "Venus/Kronos = Jupiter excludes damaged ABC legal-authority clauses. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-jupiter-kronos.md",
+          "text": "Venus/Kronos = Jupiter excludes damaged ABC legal-authority clauses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"right authoritat\", \"great right art\", \"right love of the state\", \"self evident right success\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGifts through charitable persons. Endowments.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial love joy, successful art, peace success of the state, peaceful right state, great right art, love of a right authoritat, right love of the state, self evident right success, and primary love of money",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGifts through charitable persons. Endowments.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial love joy, successful art, peace success of the state, peaceful right state, great right art, love of a right authoritat, right love of the state, self evident right success, and primary love of money",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGifts through charitable persons. Endowments.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nSpecial joy in love, successful artistic authority, the state's success in peace, a peaceful constitutional state, great legal skill, love of a legal authority, the state's love of law, independent legal success, and a priority love of money.",
+      "page_sha256": "7e0dd23d7edd26d77806f50c57ed529716db6d0d231095f6638112625057e1af",
+      "page_sha256_LF_text": "7e0dd23d7edd26d77806f50c57ed529716db6d0d231095f6638112625057e1af",
+      "owner_line": 16,
+      "owner_record_sha256": "394686389c924236a4d5d5c1df6d96edad6ef45e0894d65c11feba4ed998022f",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 Jupiter nine clauses: special joy in love; successful art authority; state's peace success; peaceful constitutional/rule-of-law state; great legal art; love of a legal authority; state's love of law; independent legal success; priority given to money. Rechts-Staat literal constitutional/rule-of-law state, not generic right authority; narrow legal-art phrase remains uninterpreted.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mars.md",
+      "before_sha256": "908f801f17be15df476be27cbbb8714935aedec1116f57068fc31995ad8db78c",
+      "after_sha256": "90b4231ad74af46d8e208145b3e0f11a9b4bbb282b984cfc3275735f4c9c8889",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Mars eight clauses: special peace work; special efforts in love; state's will for peace; hierarchy's harmonious actions; harmony through independent work; self-confidence through joy in work; preference for important work; important art work. Bemühungen efforts, selbständige independent, Selbstbewußtsein self-confidence. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-mars.md",
+          "text": "ABC: \"love mitigations\" and \"self andal work\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mars-kronos.md",
+          "text": "Venus/Kronos = Mars excludes unresolved ABC love-effort and independent-work clauses. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mars-kronos.md",
+          "text": "Venus/Kronos = Mars excludes unresolved ABC love-effort and independent-work clauses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"love mitigations\" and \"self andal work\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEnergetic charitable help. Active charity. To merit benevolence through one’s activities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial peace work, special love mitigations, peace will of the state, harmony acts of the hierarchy, harmony through self andal work, self consciousness through joy at work, preference for important work, and important arts work",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEnergetic charitable help. Active charity. To merit benevolence through one’s activities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpecial peace work, special love mitigations, peace will of the state, harmony acts of the hierarchy, harmony through self andal work, self consciousness through joy at work, preference for important work, and important arts work",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nEnergetic charitable help. Active charity. To merit benevolence through one’s activities.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nSpecial peace work, special efforts in love, the state's will for peace, harmonious actions of the hierarchy, harmony through independent work, self-confidence through joy in work, preference for important work, and important artistic work.",
+      "page_sha256": "c261d54c40b5de2f3cd4fa553bed61fd470a81b0a34b3c1222389711a88883d1",
+      "page_sha256_LF_text": "c261d54c40b5de2f3cd4fa553bed61fd470a81b0a34b3c1222389711a88883d1",
+      "owner_line": 17,
+      "owner_record_sha256": "50ce43ad82d024b1a392e46c97d384e7a3ccc788a31180d63f3d9f9b182daf4d",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 Mars eight clauses: special peace work; special efforts in love; state's will for peace; hierarchy's harmonious actions; harmony through independent work; self-confidence through joy in work; preference for important work; important art work. Bemühungen efforts, selbständige independent, Selbstbewußtsein self-confidence.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mc.md",
+      "before_sha256": "4ca0e90541bc9febb218571c6b81d56af0483af93f055779ceb02601e140671d",
+      "after_sha256": "bc609afd4aa5dc9b45418eb4690c0ab7d813e053791d2d83495756342833e5a1",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 MC nine clauses: dominance of inner peace; great soul harmony; harmony matters to me; I love independence; my special preference; my artistic reputation; my love of hierarchy; my wishes to state; priority of my art. Complete opening and Selbstandigkeit independence explicitly verified. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-mc.md",
+          "text": "ABC: \"IJominanz the soul Fricdens\" and \"I love the self andigkcit\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mc-kronos.md",
+          "text": "Venus/Kronos = MC retains a damaged ABC opening and unresolved independence wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mc-kronos.md",
+          "text": "Venus/Kronos = MC retains a damaged ABC opening and unresolved independence wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"IJominanz the soul Fricdens\" and \"I love the self andigkcit\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTake part in charitable activities. Charitably disposed. Receive benefits.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIJominanz the soul Fricdens, great soul harmony, Harmony is important to me, I love the self andigkcit, my special preference, my artistic reputation, my love for hierarchy, my desire for the state, and my preference for the arts",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTake part in charitable activities. Charitably disposed. Receive benefits.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nIJominanz the soul Fricdens, great soul harmony, Harmony is important to me, I love the self andigkcit, my special preference, my artistic reputation, my love for hierarchy, my desire for the state, and my preference for the arts",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTake part in charitable activities. Charitably disposed. Receive benefits.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nDominance of inner peace, great harmony of the soul, harmony is important to me, I love independence, my special preference, my artistic reputation, my love for hierarchy, my wishes to the state, and priority for my art.",
+      "page_sha256": "9ae5848c10ed3ca517d13ae9673a2486075353cc7db4d6b3b24ed55a312f15d6",
+      "page_sha256_LF_text": "9ae5848c10ed3ca517d13ae9673a2486075353cc7db4d6b3b24ed55a312f15d6",
+      "owner_line": 18,
+      "owner_record_sha256": "8f3f90d073f9fcfb23f401f4a7a0c287b1af9f5ded40260945340ecff0e8e3a6",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 MC nine clauses: dominance of inner peace; great soul harmony; harmony matters to me; I love independence; my special preference; my artistic reputation; my love of hierarchy; my wishes to state; priority of my art. Complete opening and Selbstandigkeit independence explicitly verified.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-mercury.md",
+      "before_sha256": "d29d640a48c2f93dfa2ede4bda6ce4b234634ccf20d4e1fba379fba0f14eb569",
+      "after_sha256": "51ef0422cd47433d72572e586ecca3cb8a2c62ef4e21325afcc6e1b70a2bfc6a",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Mercury eight clauses: respected media art; special youth beauty; dominant thoughts of love; state's peace talks; young female boss; youth's self-confidence through love; priority of female youth; important art news. Kunst art not artificial; Selbstbewußtsein confidence. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-mercury.md",
+          "text": "ABC: \"important artificial news\" and \"self consciousness of youth through love\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"important artificial news\" and \"self consciousness of youth through love\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCharitable thoughts. To come to charitable acquaintances through thinking.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRespected media arts, special beauty of youth, dominant love thoughts, state peace language, young female boss, self consciousness of youth through love, priority of female youth, and important artificial news",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCharitable thoughts. To come to charitable acquaintances through thinking.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRespected media arts, special beauty of youth, dominant love thoughts, state peace language, young female boss, self consciousness of youth through love, priority of female youth, and important artificial news",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCharitable thoughts. To come to charitable acquaintances through thinking.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nRespected media art, special beauty of youth, dominant thoughts of love, the state's peace talks, a young female boss, young people's self-confidence through love, priority of female youth, and important art news.",
+      "page_sha256": "5d2dbec8a0ddec7a5e23e39dfbef81c6168b61756d0b55fce0ce026bb316182e",
+      "page_sha256_LF_text": "5d2dbec8a0ddec7a5e23e39dfbef81c6168b61756d0b55fce0ce026bb316182e",
+      "owner_line": 19,
+      "owner_record_sha256": "b8eaae67e1cd967d3526b4be17ef8ce5b919a156772dba6914886d2719c13471",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 Mercury eight clauses: respected media art; special youth beauty; dominant thoughts of love; state's peace talks; young female boss; youth's self-confidence through love; priority of female youth; important art news. Kunst art not artificial; Selbstbewußtsein confidence.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-moon.md",
+      "before_sha256": "1ec992e8d6615ad3fa19660d350e872b035e3207a919ed7dc3b97409d4749d50",
+      "after_sha256": "5bbbea1c32ef4cfeb72f0321c3d7d865fbbe3568a017477a98e640b3c3c97eac",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC288/PDF143 Moon nine clauses: respected art of woman; special love to woman; dominance of beautiful woman; dominating feeling of harmony; woman's great love; great folk art; state peace for a people; priority feelings of love; important hour of harmony. Schöne beautiful, Volks-Kunst folk art; preserve historical female examples. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-kronos-equals-moon.md",
+          "text": "ABC: \"Respected artist of a woman\", \"gentle woman\", \"great people art\"; scan not checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC: \"Respected artist of a woman\", \"gentle woman\", \"great people art\"; scan not checked."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSacrificing, benevolent woman. Philanthropists (female).\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRespected artist of a woman, special love for woman, dominance of a gentle woman, dominant harmony feeling, great love of a woman, great people art, state peace for a people, primary love feelings, and important hour of harmony",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSacrificing, benevolent woman. Philanthropists (female).\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nRespected artist of a woman, special love for woman, dominance of a gentle woman, dominant harmony feeling, great love of a woman, great people art, state peace for a people, primary love feelings, and important hour of harmony",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSacrificing, benevolent woman. Philanthropists (female).\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nA woman's respected art, special love for a woman, dominance of a beautiful woman, a dominant feeling of harmony, a woman's great love, great folk art, state peace for a people, priority feelings of love, and an important hour of harmony.",
+      "page_sha256": "ce09d96420c8ffec9df64827c78c502a39a89d6a0602e46f294549f302b677ab",
+      "page_sha256_LF_text": "ce09d96420c8ffec9df64827c78c502a39a89d6a0602e46f294549f302b677ab",
+      "owner_line": 20,
+      "owner_record_sha256": "4861b0d73f1c5f4033f17e19687527801155f640bc93401cd1208d2536b5a2f8",
+      "original_reviewer": "activations-087-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC288/PDF143 Moon nine clauses: respected art of woman; special love to woman; dominance of beautiful woman; dominating feeling of harmony; woman's great love; great folk art; state peace for a people; priority feelings of love; important hour of harmony. Schöne beautiful, Volks-Kunst folk art; preserve historical female examples.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-neptune.md",
+      "before_sha256": "feff816285b39eab3ad1ba76302013fcf2c14b97afb86d6f6b0265e49985f077",
+      "after_sha256": "93ed4d59e034a89c509db92ba31499e9901ca3d34f9f953da7b969c4d2ac151d",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC289/PDF143 Neptune eight clauses ends 'zukünftiger Friedens-Staat' (future peace state). Dissolution of great love, special sensitivity, great disappointment, great metaphysical art, great liking for water, uncertain state peace, deny priority of female principle, future peace state. Next independent Pluto glyph starts particularly harmonious development, so no development tail belongs to Neptune. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-neptune.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-neptune-kronos.md",
+          "text": "Venus/Kronos = Neptune excludes insecure ABC love-disappointment wording and a development tail potentially belonging to Pluto; no boundary repair is asserted. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-neptune-kronos.md",
+          "text": "Venus/Kronos = Neptune excludes insecure ABC love-disappointment wording and a development tail potentially belonging to Pluto; no boundary repair is asserted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPredestined nurse. To be sympathetic. Not kept a promise of help.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDissolving of a great love, special delicateness in love, great exchange in love, great metaphysical artist, great preference for water, unsafe state peace, primacy of the female principle negate, impoverished peace state Especially harmonious development, development of an artistic authoritarianity, and development",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nPredestined nurse. To be sympathetic. Not kept a promise of help.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nDissolution of a great love, special sensitivity in love, great disappointment in love, great metaphysical art, great preference for water, uncertain state peace, denying the priority of the female principle, and a future peace state.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nPredestined nurse. To be sympathetic. Not kept a promise of help.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nDissolution of a great love, special sensitivity in love, great disappointment in love, great metaphysical art, great preference for water, uncertain state peace, denying the priority of the female principle, and a future peace state.",
+      "page_sha256": "7e230e66276c9e45fa0e8b49305c8ffc9ed86d324fa9c11c2ac0c831fc5ff4ca",
+      "page_sha256_LF_text": "7e230e66276c9e45fa0e8b49305c8ffc9ed86d324fa9c11c2ac0c831fc5ff4ca",
+      "owner_line": 21,
+      "owner_record_sha256": "77053aee8152a63a6f53f5bd5975750f0834de0ff1fa4eda9811d30081a20fb2",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC289/PDF143 Neptune eight clauses ends 'zukünftiger Friedens-Staat' (future peace state). Dissolution of great love, special sensitivity, great disappointment, great metaphysical art, great liking for water, uncertain state peace, deny priority of female principle, future peace state. Next independent Pluto glyph starts particularly harmonious development, so no development tail belongs to Neptune.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-pluto.md",
+      "before_sha256": "079afa8fc1941d80792d5cf0f138f40537a0ec177b67e5afa68de64b8b8550c1",
+      "after_sha256": "b6c34590b951896ec8eeb314675a23326792f84cbb2092ebb1cb718d4af8ffab",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC289/PDF143 Pluto seven complete clauses after separate glyph: particularly harmonious development; unfolding artistic authority; development of great love; peaceful development in state; unfold independent art; develop preference for hierarchy; priority development of female principle. Previous Neptune ends future peace state; actual boundary clear. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-pluto.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-pluto-kronos.md",
+          "text": "Venus/Kronos = Pluto has an unresolved ABC paragraph boundary with the preceding Neptune entry; its ABC heading does not establish a complete formula excerpt. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-kronos.md",
+          "text": "Venus/Kronos = Pluto has an unresolved ABC paragraph boundary with the preceding Neptune entry; its ABC heading does not establish a complete formula excerpt.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGrowing benevolence of the boss, chief, government or superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\na great _love, peaceful development in the state, self sustaining artist develop, preference for the hierarchy develop, and priority development of the female principle",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nGrowing benevolence of the boss, chief, government or superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nEspecially harmonious development, unfolding of an artistic authority, development of a great love, peaceful development in the state, unfolding independent art, developing a preference for hierarchy, and priority development of the female principle.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nGrowing benevolence of the boss, chief, government or superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nEspecially harmonious development, unfolding of an artistic authority, development of a great love, peaceful development in the state, unfolding independent art, developing a preference for hierarchy, and priority development of the female principle.",
+      "page_sha256": "9637f4e06e91d299757e390442a5a66b9669c56b4db2ffe5da44a21292cbd8c2",
+      "page_sha256_LF_text": "9637f4e06e91d299757e390442a5a66b9669c56b4db2ffe5da44a21292cbd8c2",
+      "owner_line": 23,
+      "owner_record_sha256": "d8554a656c72fc1da83dba79d92d1fa1e10ae9ee17be7904c9f8dff6b94cf913",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC289/PDF143 Pluto seven complete clauses after separate glyph: particularly harmonious development; unfolding artistic authority; development of great love; peaceful development in state; unfold independent art; develop preference for hierarchy; priority development of female principle. Previous Neptune ends future peace state; actual boundary clear.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-saturn.md",
+      "before_sha256": "170862c86416a621835802537f00d0c4c23f3281718a00dfabe99c153dd2f4f7",
+      "after_sha256": "743b0c3d87853e0b5222f6bcac3557ffa33570cc633907985b02eb33f0c87c67",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC289/PDF143 Saturn nine clauses: reputation losses through love; respected beauty in old age; special harmony in old age; special love pain; peace disturbances within state; great peace problems; great loss for art; state peace tasks; state's loss of sympathy. All prior uncertainty clauses actual and separated from Uranus. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-saturn.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-saturn-kronos.md",
+          "text": "Venus/Kronos = Saturn has uncertain ABC renderings; Venus/Saturn = Kronos excludes a damaged state-peace phrase. The separate Saturn/Kronos = Venus entry reports its scan repair. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-saturn-kronos.md",
+          "text": "Venus/Kronos = Saturn has uncertain ABC renderings; Venus/Saturn = Kronos excludes a damaged state-peace phrase. The separate Saturn/Kronos = Venus entry reports its scan repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nRefusal of endowments or scholarships.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nLoss of reputation through love, prestigious beauty in old age, special harmony in old age, special love pain, peace cancellations in the state, great peace problems, great loss for the artist, state peace tasks, and sympathy losses of the state",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nRefusal of endowments or scholarships.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nLosses of reputation through love, respected beauty in old age, special harmony in old age, particular pain in love, disturbances of peace in the state, great peace problems, great loss for art, state peace tasks, and losses of sympathy for the state.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nRefusal of endowments or scholarships.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nLosses of reputation through love, respected beauty in old age, special harmony in old age, particular pain in love, disturbances of peace in the state, great peace problems, great loss for art, state peace tasks, and losses of sympathy for the state.",
+      "page_sha256": "1ee6075ee6a4e0383f0dc8c4726f65875b787de649fd3f7e16aeb74c0a2e8fbc",
+      "page_sha256_LF_text": "1ee6075ee6a4e0383f0dc8c4726f65875b787de649fd3f7e16aeb74c0a2e8fbc",
+      "owner_line": 25,
+      "owner_record_sha256": "a737d320d0c2cb798e2a0717014acb3c7376e65ddf582db49177674f9c5400d9",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC289/PDF143 Saturn nine clauses: reputation losses through love; respected beauty in old age; special harmony in old age; special love pain; peace disturbances within state; great peace problems; great loss for art; state peace tasks; state's loss of sympathy. All prior uncertainty clauses actual and separated from Uranus.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-sun.md",
+      "before_sha256": "a654de1b36e3ec550a68268f13e4223a11d70d6d55b111e7f71e650268e46656",
+      "after_sha256": "36a81056f91019b5e65775c07e3c43b43ca8f638f76535d4ed78a931b12e11eb",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC288/PDF143 Sun eight clauses: especially beautiful day; man as authority in love; dominance of bodily love; great art centre; personal harmony with hierarchy; state peace centre; preference for state persons; important person for peace. Great art centre explicitly present, no omission justified. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-sun.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/sun-venus-kronos.md",
+          "text": "Sun/Kronos = Venus and Sun/Venus = Kronos qualify damaged ABC art, stature and beauty wording. Venus/Kronos = Sun records damaged terms and a missing art-center clause; source coverage is incomplete. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-venus-kronos.md",
+          "text": "Sun/Kronos = Venus and Sun/Venus = Kronos qualify damaged ABC art, stature and beauty wording. Venus/Kronos = Sun records damaged terms and a missing art-center clause; source coverage is incomplete.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nReadiness for charitable activities. To receive the Nobel Peace Prize. To receive benevolence from the state or from superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEspecially nice day, the man as authoritat in love, dominance of corporal love, personal harmony with the Hierarchic, state peace center, preference for people of the state, and important person for peace",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nReadiness for charitable activities. To receive the Nobel Peace Prize. To receive benevolence from the state or from superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nAn especially beautiful day, the man as an authority in love, dominance of bodily love, a great art center, personal harmony with hierarchy, a state peace center, preference for people of the state, and a person important for peace.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nReadiness for charitable activities. To receive the Nobel Peace Prize. To receive benevolence from the state or from superiors.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nAn especially beautiful day, the man as an authority in love, dominance of bodily love, a great art center, personal harmony with hierarchy, a state peace center, preference for people of the state, and a person important for peace.",
+      "page_sha256": "fbc9c74e60b824df2822b40af2a3ada3e928b4f3e27fa210f1b832cffee1f9a1",
+      "page_sha256_LF_text": "fbc9c74e60b824df2822b40af2a3ada3e928b4f3e27fa210f1b832cffee1f9a1",
+      "owner_line": 26,
+      "owner_record_sha256": "f70f42d5eb3f893e5068db9b9f20f5e7f5ff1d1402ec57c795b5381fe88b851e",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC288/PDF143 Sun eight clauses: especially beautiful day; man as authority in love; dominance of bodily love; great art centre; personal harmony with hierarchy; state peace centre; preference for state persons; important person for peace. Great art centre explicitly present, no omission justified.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-vernal-point.md",
+      "before_sha256": "4dd7ac0e0abe21faade806d7f8347fe073726ed0cebe98e03709aade512c9327",
+      "after_sha256": "b176b1589d7acefd1def95cf39187fde5c2522889e25565f2c69c5500af7cffc",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC288/PDF143 VP six clauses: art's reputation in public life; special public harmony; great preference for public life; public art authority; state's public benevolence; priority of beauty in public life. Actual glyph/opening checked despite light scan. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-vernal-point.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/vernal-point-venus-kronos.md",
+          "text": "Venus/Kronos = Vernal Point retains damaged ABC opening clauses; those fragments do not establish the public's attitude. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-venus-kronos.md",
+          "text": "Venus/Kronos = Vernal Point retains damaged ABC opening clauses; those fragments do not establish the public's attitude.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGeneral charitable activity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAwareness of the arts in the frequent life, special harmony in the public sphere, great public opinion, artistic authority in the public sphere, state well being in the public sphere, and primacy of beauty in public life",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nGeneral charitable activity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nEsteem for art in public life, special harmony in public, great preference for public life, artistic authority in public, state goodwill in public, and priority of beauty in public life.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nGeneral charitable activity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `288`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nEsteem for art in public life, special harmony in public, great preference for public life, artistic authority in public, state goodwill in public, and priority of beauty in public life.",
+      "page_sha256": "f454c36942296c0cdbdd45acff5858b1bd35103a8ce95ed32c868fcf06c7dcb2",
+      "page_sha256_LF_text": "f454c36942296c0cdbdd45acff5858b1bd35103a8ce95ed32c868fcf06c7dcb2",
+      "owner_line": 28,
+      "owner_record_sha256": "40e58372ffe7e009ff9f1e6bc13c1c49c11858deabae0ac6e4c850597d554b70",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC288/PDF143 VP six clauses: art's reputation in public life; special public harmony; great preference for public life; public art authority; state's public benevolence; priority of beauty in public life. Actual glyph/opening checked despite light scan.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-vulcanus.md",
+      "before_sha256": "201b5c74817b8ea8d8c10bffb6499b3823610822643b786d4956226efefa9015",
+      "after_sha256": "63dcf2ffd82554ae4c2898f2d886cf8cb137699dfd769195c5461651f238bd23",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC289/PDF143 Vulcanus eight clauses: prefer state influence; influential peace authority; joy in hierarchy influence; great strength of love; love for strong state; state's joy in power; powerful artistic strength; state peace power. Actual names power/influence/art; no expansion into a coercion mechanism. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-vulcanus.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-kronos-vulcanus.md",
+          "text": "Venus/Kronos = Vulcanus and Venus/Vulcanus = Kronos retain damaged ABC influence, art and love-power clauses. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-kronos-vulcanus.md",
+          "text": "Venus/Kronos = Vulcanus and Venus/Vulcanus = Kronos retain damaged ABC influence, art and love-power clauses.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMighty exceptional privileges. Preferential treatment. Most-favored nation clause.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nOne of the state prefer, one sided peace authority, joy over the unity of the hierarchy, great power of love, love for the strong state, power joy of the state, powerful artistic power, and state peace power",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nMighty exceptional privileges. Preferential treatment. Most-favored nation clause.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nPreferring the influence of the state, influential authority for peace, joy over the influence of hierarchy, great strength of love, love of the strong state, the state's joy in power, powerful artistic strength, and state power for peace.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nMighty exceptional privileges. Preferential treatment. Most-favored nation clause.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nPreferring the influence of the state, influential authority for peace, joy over the influence of hierarchy, great strength of love, love of the strong state, the state's joy in power, powerful artistic strength, and state power for peace.",
+      "page_sha256": "d0ca3bf4a67bca80fce1947bc80ad7972687d5c03961669c6c12d54e475c58e4",
+      "page_sha256_LF_text": "d0ca3bf4a67bca80fce1947bc80ad7972687d5c03961669c6c12d54e475c58e4",
+      "owner_line": 29,
+      "owner_record_sha256": "cea440ff7ad6496f2307080750c4693899ad3eeddbf39456a968a1f38d290129",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC289/PDF143 Vulcanus eight clauses: prefer state influence; influential peace authority; joy in hierarchy influence; great strength of love; love for strong state; state's joy in power; powerful artistic strength; state peace power. Actual names power/influence/art; no expansion into a coercion mechanism.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-kronos-equals-zeus.md",
+      "before_sha256": "a7bedeec72f7e1c73de0a69ecd8708e882592ca3b4433ef1c2023ad89aa33ff2",
+      "after_sha256": "e96c1b2b32074c958f64f7a413e358dad88615a5444e2c593c36cdad8cd77e72",
+      "ledger": "activations-087.jsonl",
+      "reason": "Full baseline/current sources, full unique owner, queue flags and dependent prose read. Exact063066 current source+owner and explicit complete raw scope reused; no duplicate allowance. Own ABC143 full native glyph rows also personally read/viewed, including actual Neptune/Pluto boundary. ABC289/PDF143 Zeus nine clauses: beginning great love; special procreation in love; dominant art achievements; peaceful state leadership; great peace efforts; independent art direction; state achievements for art; superior shaping of harmony; preference for great achievements. Zeugung procreation, Staats-Führung state leadership, selbständig independent. Prior full scope: substantive ABC translation and paragraph-boundary repair; references and Witte punctuation verified. Read complete baseline/current Source Entries and full unique owning record; personally inspected the full immutable ABC printed288–289/PDF143 glyph rows and Witte185. Neptune/Pluto boundary restores three opening Pluto clauses and limits Neptune to its own eight clauses. Missing Sun art center, artistic authority versus authorship, public esteem/preference, art versus artist/artificial, state influence, procreation, superior shaping and female-principle priority all follow the exact German row. Witte one's punctuation and all new PDF/printed locators agree with the scans.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-abc-pdf143.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-remaining-witte-pdf185.png",
+        "docs/reviews/2026-10-15-full-wiki/ledgers/activations-087.jsonl: path=wiki/activations/venus-kronos-equals-zeus.md",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "resolved_by_existing_independent_current_approval",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-zeus-kronos.md",
+          "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/triads/venus-zeus-kronos.md",
+          "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "assignment_source_flags": [],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nCreation of institutions of public utility and charitable character. The Red Cross.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStart of a great love, special love witness, dominating arts performances, peaceful state feet, great peace efforts, self andige arts direction, state services for the arts, Tibetan harmony design, and preference for great achievements",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nCreation of institutions of public utility and charitable character. The Red Cross.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nBeginning of a great love, special procreation in love, dominant artistic achievements, peaceful state leadership, great efforts for peace, an independent artistic direction, state services for art, superior shaping of harmony, and preference for great achievements.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: PDF page `185` (one-based).\n\n#### Witte Entry\n\nCreation of institutions of public utility and charitable character. The Red Cross.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Kronos`\n- Source reference: printed page `289`; PDF page `143` (one-based).\n\n#### ABC Entry\n\nBeginning of a great love, special procreation in love, dominant artistic achievements, peaceful state leadership, great efforts for peace, an independent artistic direction, state services for art, superior shaping of harmony, and preference for great achievements.",
+      "page_sha256": "9818f4dfbebc5267b5e47926f653cd5dbcdd59dd14bdc6e8e90f6736eaf1ddbf",
+      "page_sha256_LF_text": "9818f4dfbebc5267b5e47926f653cd5dbcdd59dd14bdc6e8e90f6736eaf1ddbf",
+      "owner_line": 30,
+      "owner_record_sha256": "9c06367c42f5e3b2ea693015548cfb9c10fedb6bc10e75bbd285afa3a5231ed3",
+      "original_reviewer": "activation_review_084_088",
+      "external_approval_reused": true,
+      "raw_preparation_note": "ABC289/PDF143 Zeus nine clauses: beginning great love; special procreation in love; dominant art achievements; peaceful state leadership; great peace efforts; independent art direction; state achievements for art; superior shaping of harmony; preference for great achievements. Zeugung procreation, Staats-Führung state leadership, selbständig independent.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-admetos.md",
+      "before_sha256": "17d6720030996997691720bbe17a4a9f1af8bee1387a9c25c1d236c0e5ca58db",
+      "after_sha256": "74f280a3be06f06643cad38a5891abac161f7e83b86918d88cd38a2f73f693e3",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Admetos seven clauses: blocked harmony development; restricted love development; depressing change in love; increasing deepening of peace; thorough development in art; thorough preference for transformation; circulation changes through love. Two thorough clauses truly present; Vertiefung deepening, not generic development. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/triads/venus-pluto-admetos.md",
+          "text": "Venus/Pluto = Admetos records omissions and a weakened translation in the cached ABC wording; the entry is present but its English excerpt is incomplete. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-admetos.md",
+          "text": "Venus/Pluto = Admetos records omissions and a weakened translation in the cached ABC wording; the entry is present but its English excerpt is incomplete.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC cached entry omits native 'gri.indliche Entwicklung in der Kunst' and 'gri.indliche Vorliebe fur Transformation'; 'growing peace Development' weakens 'wachsende Friedens-Vertiefung' (printed281/PDF139). No raw repair; unclear/omitted clauses excluded."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFavor and preferment are the exception. Pleasant development for a few. Experience a profound change in politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlocked Harmony Development, restricted love Development, depressing change in love, growing peace Development, and circulatory changes through love",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFavor and preferment are the exception. Pleasant development for a few. Experience a profound change in politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlocked Harmony Development, restricted love Development, depressing change in love, growing peace Development, and circulatory changes through love",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nFavor and preferment are the exception. Pleasant development for a few. Experience a profound change in politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nBlocked development of harmony, restricted development of love, depressing change in love, growing deepening of peace, thorough development in art, a deep preference for transformation, and circulatory changes through love.",
+      "page_sha256": "04333b513cec5386e58bd3aee200e950240b26bdce0f00ac4f8f836553adc73b",
+      "page_sha256_LF_text": "04333b513cec5386e58bd3aee200e950240b26bdce0f00ac4f8f836553adc73b",
+      "owner_line": 19,
+      "owner_record_sha256": "fd226815c36d612b8f4cb9287ef1724c126e0568a685e3119114647fef242e77",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Admetos seven clauses: blocked harmony development; restricted love development; depressing change in love; increasing deepening of peace; thorough development in art; thorough preference for transformation; circulation changes through love. Two thorough clauses truly present; Vertiefung deepening, not generic development.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-asc.md",
+      "before_sha256": "e263946ccc6787a0a6fe84bb1b3d8d729017089c6f129323fb962694b9b7bc54",
+      "after_sha256": "11141a264b1a24336bea7b0a00bb5062acd4dd0b9d452b803e5e6635818a6198",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Asc seven clauses: harmonious environmental changes; harmonious partner change; nearby harmonious transformation; local artistic unfolding; develop love toward partner; love changes of location; preference for environmental changes. Vorliebe is preference, not preparation. Actual Witte181 clearly prints 'The beginning'; preserve printed 'The native show consideration to others.' Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png",
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf181.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [
+        "Printed Witte181 still reads 'The native show consideration to others'; grammar preserved."
+      ],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-asc.md",
+          "text": "Witte begins 'Tlac beginning' (PDF181 entry-start); ABC 'preparation for changes' differs from native 'Vorl icbc fur Veranderungen' (printed280/PDF139). Retained source wording; damaged details not used.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "Witte begins 'Tlac beginning' (PDF181 entry-start); ABC 'preparation for changes' differs from native 'Vorl icbc fur Veranderungen' (printed280/PDF139). Retained source wording; damaged details not used."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTlac beginning of a pleasant change in the environment. Friendlier surroundings. Others show consideration. The native show consideration to others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nHarmonious environmental changes, harmonious partner change, harmonious change in the vicinity, artistic development in the place, developing love for the partner, love of the place change, and preparation for changes in the environment\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAn attractive and fascinating personality wielding a great influence upon other people. An unusual love affair.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo be a person who crave love, or who crave a lover with whom one can have power struggles. One emanates a compelling attractiveness.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nConcentrating on the need for a polite response to those who have a destructive or punishing intent; meeting people who delight in learning or hearing about ghastly facts; creating a false sense of glamour for others.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTlac beginning of a pleasant change in the environment. Friendlier surroundings. Others show consideration. The native show consideration to others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nHarmonious environmental changes, harmonious partner change, harmonious change in the vicinity, artistic development in the place, developing love for the partner, love of the place change, and preparation for changes in the environment\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAn attractive and fascinating personality wielding a great influence upon other people. An unusual love affair.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo be a person who crave love, or who crave a lover with whom one can have power struggles. One emanates a compelling attractiveness.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nConcentrating on the need for a polite response to those who have a destructive or punishing intent; meeting people who delight in learning or hearing about ghastly facts; creating a false sense of glamour for others.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source reference: PDF page `181` (one-based); scanned Asc row checked.\n\nThe beginning of a pleasant change in the environment. Friendlier surroundings. Others show consideration. The native show consideration to others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `280`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nHarmonious changes in the environment, harmonious change of partner, harmonious change nearby, artistic development at the place, developing love for the partner, loving a change of place, and preference for changes in the environment.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAn attractive and fascinating personality wielding a great influence upon other people. An unusual love affair.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo be a person who crave love, or who crave a lover with whom one can have power struggles. One emanates a compelling attractiveness.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nConcentrating on the need for a polite response to those who have a destructive or punishing intent; meeting people who delight in learning or hearing about ghastly facts; creating a false sense of glamour for others.",
+      "page_sha256": "c848f42a4002de67d41622231bc37dc6dc3087a526a25a63f6bc49a04bed65de",
+      "page_sha256_LF_text": "60a4567767c0a9a42fac0b9238282389af23c5d351f62f049a5d2e5742706f23",
+      "owner_line": 21,
+      "owner_record_sha256": "f1249f0951ac9024ede5e52ce6e487537a02f49b6f4632404241ad4f0e26948c",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC280/PDF139 Asc seven clauses: harmonious environmental changes; harmonious partner change; nearby harmonious transformation; local artistic unfolding; develop love toward partner; love changes of location; preference for environmental changes. Vorliebe is preference, not preparation. Actual Witte181 clearly prints 'The beginning'; preserve printed 'The native show consideration to others.'",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-hades.md",
+      "before_sha256": "5750736f84dd474bdd053b9ada72b33f54cce41866ac02a59da9ce37a4e06f56",
+      "after_sha256": "65409c5789565ae2d37046ef82682d1e0fc328c094ed7539c24efb00c7956b6a",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Hades seven clauses: unfolding via love services; deficient harmony development; disadvantages via change in affection; renounce peaceful growth; preference for developments from past; growing love criminality; transformations through sorrow in love. Liebes-Kummer sorrow, not cummers. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-hades.md",
+          "text": "ABC 'transformations through love cummers' corresponds to native 'Wandlungen durch Liebes-Kummer' (printed281/PDF139); retained and excluded pending a source-checked repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-hades.md",
+          "text": "Venus/Pluto = Hades excludes the damaged final ABC phrase from confident interpretation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-hades.md",
+          "text": "Venus/Pluto = Hades excludes the damaged final ABC phrase from confident interpretation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'transformations through love cummers' corresponds to native 'Wandlungen durch Liebes-Kummer' (printed281/PDF139); retained and excluded pending a source-checked repair."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA harmonious development which is soon changing into the contrary. Ruthlessness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment through love services, poor harmony development, disadvantages by altering affection, renunciation of peaceful growth, preference for developments from the past, growing love criminality, and transformations through love cummers",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA harmonious development which is soon changing into the contrary. Ruthlessness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment through love services, poor harmony development, disadvantages by altering affection, renunciation of peaceful growth, preference for developments from the past, growing love criminality, and transformations through love cummers",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA harmonious development which is soon changing into the contrary. Ruthlessness.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDevelopment through services in love, deficient development of harmony, disadvantage through changed affection, renunciation of peaceful growth, preference for developments from the past, growing criminality in love, and transformations through sorrow in love.",
+      "page_sha256": "a63673d4a4037efa3524d7ff4d7c5af537e956735d402cef9005680600f92c10",
+      "page_sha256_LF_text": "a63673d4a4037efa3524d7ff4d7c5af537e956735d402cef9005680600f92c10",
+      "owner_line": 24,
+      "owner_record_sha256": "8bd664ab9dfb976939172fda821b951bdfdeff9b679c7a429e7041232543a2f2",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Hades seven clauses: unfolding via love services; deficient harmony development; disadvantages via change in affection; renounce peaceful growth; preference for developments from past; growing love criminality; transformations through sorrow in love. Liebes-Kummer sorrow, not cummers.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-mc.md",
+      "before_sha256": "258c5b99793f2e1151d5f1b97d00ca85b0ceadd805c8211ac7dbce0c69690e01",
+      "after_sha256": "917f7b43d1e08348b05c36f0bda5cf02200b8d84309af45024455991d00f9788",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 MC nine clauses: soulful unfolding of art; I develop harmony; I love evolution; I love changes; my peaceful development; my development in love; my preference for transformations; my growing joy; growing inner harmony. Omitted opening four clauses actual; Freude joy. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-mc.md",
+          "text": "ABC 'my growing frcude' is untranslated OCR and cached MC passage omits native opening clauses (printed280/PDF139). Retained; damaged/omitted material not added to synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'my growing frcude' is untranslated OCR and cached MC passage omits native opening clauses (printed280/PDF139). Retained; damaged/omitted material not added to synthesis."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe own harmonious development. Development of own wishes and hopes. Ready to considerate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nI love evolution, my peaceful development, my development in love, my fondness for change, my growing frcude, and growing soul harmony\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nEgo-conscious direction of the sexual urges, strong feeling of love, artistic creation. Deep feelings of love (karmic union).\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne's highest attainment in this life has to do with transmuting the lesser manifestations of love into higher ones. One may be intensely loved by the public or by people at large. Career decisions that are difficult to make.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nGrowing thru destructive tendencies and overcoming obsessive habits which do little for your personal standing; creating some protection for self or family against large destructive natural or man-made forces.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe own harmonious development. Development of own wishes and hopes. Ready to considerate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nI love evolution, my peaceful development, my development in love, my fondness for change, my growing frcude, and growing soul harmony\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nEgo-conscious direction of the sexual urges, strong feeling of love, artistic creation. Deep feelings of love (karmic union).\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne's highest attainment in this life has to do with transmuting the lesser manifestations of love into higher ones. One may be intensely loved by the public or by people at large. Career decisions that are difficult to make.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nGrowing thru destructive tendencies and overcoming obsessive habits which do little for your personal standing; creating some protection for self or family against large destructive natural or man-made forces.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe own harmonious development. Development of own wishes and hopes. Ready to considerate.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `280`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nSoulful artistic development, I develop harmony, I love evolution, I love changes, my peaceful development, my development in love, my preference for transformations, my growing joy, and growing harmony of the soul.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nEgo-conscious direction of the sexual urges, strong feeling of love, artistic creation. Deep feelings of love (karmic union).\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nOne's highest attainment in this life has to do with transmuting the lesser manifestations of love into higher ones. One may be intensely loved by the public or by people at large. Career decisions that are difficult to make.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nGrowing thru destructive tendencies and overcoming obsessive habits which do little for your personal standing; creating some protection for self or family against large destructive natural or man-made forces.",
+      "page_sha256": "a92e41e3f7c8c0258a96b83c6c24b5ff5a558214c9eceae9bd16b9fa0981eee7",
+      "page_sha256_LF_text": "98f5d118f27b02dc9ab6cfe2557d01e36b5d477ffb0b0ecf472e4799b69042c7",
+      "owner_line": 28,
+      "owner_record_sha256": "028ab254925e9400970d8cd7bd27fd3671877accdfc3e900fe2536982f94be81",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC280/PDF139 MC nine clauses: soulful unfolding of art; I develop harmony; I love evolution; I love changes; my peaceful development; my development in love; my preference for transformations; my growing joy; growing inner harmony. Omitted opening four clauses actual; Freude joy.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-mercury.md",
+      "before_sha256": "1c4f766ba5d84e74ce3271f7f639ad91ddee842e34ce83cc4f526dc6b48d6ea8",
+      "after_sha256": "259c3ab85b2583533026ceb9685cdded302f759d636502f47edc79f7fd22f41b",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Mercury seven clauses: young love development; peaceful youth development; conversations about harmonious developments; develop harmonious thoughts; develop youth beauty; preference for development conversations; growing love toward youth. Gespräche conversations rather than language, with all clauses kept. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-mercury.md",
+          "text": "ABC 'language'/'developmental language' corresponds to native 'Gesprache'/'Entwicklungs-Gesprache' (printed280/PDF139); retained, with no additional linguistic claim inferred from those phrases.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'language'/'developmental language' corresponds to native 'Gesprache'/'Entwicklungs-Gesprache' (printed280/PDF139); retained, with no additional linguistic claim inferred from those phrases."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be prepared in thought for a pleasant change. New acquaintances prepare the way for a pleasant change. To realize the pleasant change of things. Politeness facilitates acquaintance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of a young love, peaceful development of youth, language about harmonious developments, developing harmonious thoughts, developing youth beauty, fondness for developmental language, and growing love for youth\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nArtistic talent, an outsider in the arts, desire to solve problems of love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo communicate with a compelling seductiveness. A mind which inevitably falls madly in love with certain subjects.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nTo study and understand the powers of destructive forces; education in subtle forms of terrorism; gaining extreme proficiency with exotic languages; media attention for waste or disposal processes; talk of sexual diseases.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be prepared in thought for a pleasant change. New acquaintances prepare the way for a pleasant change. To realize the pleasant change of things. Politeness facilitates acquaintance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of a young love, peaceful development of youth, language about harmonious developments, developing harmonious thoughts, developing youth beauty, fondness for developmental language, and growing love for youth\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nArtistic talent, an outsider in the arts, desire to solve problems of love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo communicate with a compelling seductiveness. A mind which inevitably falls madly in love with certain subjects.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nTo study and understand the powers of destructive forces; education in subtle forms of terrorism; gaining extreme proficiency with exotic languages; media attention for waste or disposal processes; talk of sexual diseases.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be prepared in thought for a pleasant change. New acquaintances prepare the way for a pleasant change. To realize the pleasant change of things. Politeness facilitates acquaintance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `280`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDevelopment of a young love, peaceful development of youth, conversations about harmonious developments, developing harmonious thoughts, developing youthful beauty, preference for conversations about development, and growing love for youth.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nArtistic talent, an outsider in the arts, desire to solve problems of love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nTo communicate with a compelling seductiveness. A mind which inevitably falls madly in love with certain subjects.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nTo study and understand the powers of destructive forces; education in subtle forms of terrorism; gaining extreme proficiency with exotic languages; media attention for waste or disposal processes; talk of sexual diseases.",
+      "page_sha256": "9e5ce2afd9b8d2d40a58ee88b27cf0164ba974c8502e45ff4cd09b6bcd9bdec8",
+      "page_sha256_LF_text": "57d2bc6b86ef08ec599beaea001d57d28b3e6285e27d0b91121901484f5286c5",
+      "owner_line": 29,
+      "owner_record_sha256": "7d3dfc7ced40efc158f532c2acd9bae626fd21b53a320b40a8e791b32688bfbc",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC280/PDF139 Mercury seven clauses: young love development; peaceful youth development; conversations about harmonious developments; develop harmonious thoughts; develop youth beauty; preference for development conversations; growing love toward youth. Gespräche conversations rather than language, with all clauses kept.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-node.md",
+      "before_sha256": "dc14842e93fc80cc682ff09d2e490e33a5f74a1a8bd2101444a6e80025a1f7ec",
+      "after_sha256": "44ea9a811083ec6c42ac9fd50d6b27400c5f15bc24e18f72fdd25faad3a9f720",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Node seven clauses: unfold love relationship; unfold peace relationships; develop connection to art; develop harmonious contacts; growing joy in connection; growing wishes in relationship; change of love relationship. Wünsche wishes not vitrine. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-node.md",
+          "text": "ABC 'growing vitrine in a relationship' corresponds to native 'wachsende Wtinsche in einer Beziehung' (printed280/PDF139); retained and excluded from confident synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'growing vitrine in a relationship' corresponds to native 'wachsende Wtinsche in einer Beziehung' (printed280/PDF139); retained and excluded from confident synthesis."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDevelopment of harmonious connections. Consideration results in connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\ndevelopment of a love relationship, development of peace relationships, development of a connection to the arts, development of harmonious contacts, growing joy in a connection, growing vitrine in a relationship, and change of a love relationship\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAbility to exercise a fascination or an attraction upon many people, inclination to associate with other persons for better or worse.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nIn this life one is learning how to transmute obsessive attractions into the higher reality of divine and unconditional love.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nAssociation with others who have similarly enjoy using punishment or destruction; demonstrations of powerful means for ensuring financial, monetary, or agricultural gains; the creation of financial or business panics.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDevelopment of harmonious connections. Consideration results in connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\ndevelopment of a love relationship, development of peace relationships, development of a connection to the arts, development of harmonious contacts, growing joy in a connection, growing vitrine in a relationship, and change of a love relationship\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAbility to exercise a fascination or an attraction upon many people, inclination to associate with other persons for better or worse.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nIn this life one is learning how to transmute obsessive attractions into the higher reality of divine and unconditional love.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nAssociation with others who have similarly enjoy using punishment or destruction; demonstrations of powerful means for ensuring financial, monetary, or agricultural gains; the creation of financial or business panics.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nDevelopment of harmonious connections. Consideration results in connections.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `280`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDevelopment of a love relationship, development of peace relationships, development of a connection to art, developing harmonious contacts, growing joy in a connection, growing wishes in a relationship, and change of a love relationship.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nAbility to exercise a fascination or an attraction upon many people, inclination to associate with other persons for better or worse.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nIn this life one is learning how to transmute obsessive attractions into the higher reality of divine and unconditional love.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nAssociation with others who have similarly enjoy using punishment or destruction; demonstrations of powerful means for ensuring financial, monetary, or agricultural gains; the creation of financial or business panics.",
+      "page_sha256": "e7b5aa60de1a3614d81c4f338ea77a871c8f09ff96e31761836dad0a63b729fe",
+      "page_sha256_LF_text": "225fd5fed1f6553632328390cab29e88acb2a28057eb6c0c337389569a14ceec",
+      "owner_line": 32,
+      "owner_record_sha256": "68a2a491b008937a60d59409778b65617f02a4279ebbd94a4c89a6b6e8646aa9",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC280/PDF139 Node seven clauses: unfold love relationship; unfold peace relationships; develop connection to art; develop harmonious contacts; growing joy in connection; growing wishes in relationship; change of love relationship. Wünsche wishes not vitrine.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-poseidon.md",
+      "before_sha256": "f2aa7dd3f9dee91e9ffc5bd024dd0b1e8e6c554ff5d2fc101e662bfcad8e5b58",
+      "after_sha256": "118bf48aaeb8b27536adde3eb4b41cc3bba795fdc2af23cd2456c68c978e2285",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Poseidon eight clauses: develop peace through culture; unfold art ideas; art/cultural development; growing peace ideas; spiritual unfolding of love; develop spiritual art; growing harmony through clarity; unfold truth in love. Kunst art, Wahrheit truth, no dignity claim. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-poseidon.md",
+          "text": "ABC 'artificial ideas', 'artificial and cultural ideas', 'spiritual artificiality', and 'dignity in love' differ from native 'Kunst-Ideen', 'Kunst- und Kultur-Entwicklung', 'spirituelle Kunst', 'W ahrheit' (printed281/PDF139). Retained verbatim, not repaired or used.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-poseidon.md",
+          "text": "Venus/Pluto = Poseidon retains damaged ABC phrases that its activation excludes from confident synthesis. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-poseidon.md",
+          "text": "Venus/Pluto = Poseidon retains damaged ABC phrases that its activation excludes from confident synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'artificial ideas', 'artificial and cultural ideas', 'spiritual artificiality', and 'dignity in love' differ from native 'Kunst-Ideen', 'Kunst- und Kultur-Entwicklung', 'spirituelle Kunst', 'W ahrheit' (printed281/PDF139). Retained verbatim, not repaired or used."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious change or development in the philosophical, or political attitude. Consideration for the world view.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of peace through culture, developing artificial ideas, developing artificial and cultural ideas, growing peace ideas, developing spiritual unfolding of love, developing spiritual artificiality, developing growing harmony through clarity, and developing dignity in love",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious change or development in the philosophical, or political attitude. Consideration for the world view.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of peace through culture, developing artificial ideas, developing artificial and cultural ideas, growing peace ideas, developing spiritual unfolding of love, developing spiritual artificiality, developing growing harmony through clarity, and developing dignity in love",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious change or development in the philosophical, or political attitude. Consideration for the world view.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDevelopment of peace through culture, unfolding artistic ideas, development of art and culture, growing peace ideas, spiritual unfolding of love, developing spiritual art, growing harmony through clarity, and unfolding truth in love.",
+      "page_sha256": "6c0360ea0fe174c0620db37adc831c3661686ae678e4e72fd24bd236b4a46fcb",
+      "page_sha256_LF_text": "6c0360ea0fe174c0620db37adc831c3661686ae678e4e72fd24bd236b4a46fcb",
+      "owner_line": 34,
+      "owner_record_sha256": "2549718d137e0a0f40dc6635492a6531f5b744fcff845b6f34d839fe641f8f2d",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Poseidon eight clauses: develop peace through culture; unfold art ideas; art/cultural development; growing peace ideas; spiritual unfolding of love; develop spiritual art; growing harmony through clarity; unfold truth in love. Kunst art, Wahrheit truth, no dignity claim.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-saturn.md",
+      "before_sha256": "2d3673694b33b7b4cb9057a7112dd883ffb4fe73fcc23a41afa6d574c55111cc",
+      "after_sha256": "580ccc831bf8d9eaf8d1a9d514744316ac0dbb71fa10fe65d41f2fdfe6bc9aa5",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Saturn seven clauses: serious love development; serious artistic unfolding; disturbed peace development; harmony unfolding in old age; changes through disturbed harmony; changing love problems; transformation through burden on love. Gestört disturbed; all seven clauses complete. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-saturn.md",
+          "text": "ABC 'steored peace development' and 'steored harmony' are damaged translations of native 'gestorte' phrases (printed281/PDF139); retained without confident synthesis use.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'steored peace development' and 'steored harmony' are damaged translations of native 'gestorte' phrases (printed281/PDF139); retained without confident synthesis use."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInterruption of a fortunate development. Wishes and hopes come not through. Separation after short time. Not ready to show consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nserious love development, serious artistic development, steored peace development, harmony development in old age, changes through steored harmony, changing love problems, and change through strain of love\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nImmorality. A tragic love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA fear of intense passion. A tendency to shy away from anything or anyone one feels extremely attracted to. Hard lessons learned through power struggles in love relationships.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nCurbs or bans on the use of destructive impulses or weaponry; lessens the impact of destructive forces; an obligation or responsibility toward or over those who take pleasure in delivering restitution; less enjoyment from sex.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInterruption of a fortunate development. Wishes and hopes come not through. Separation after short time. Not ready to show consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nserious love development, serious artistic development, steored peace development, harmony development in old age, changes through steored harmony, changing love problems, and change through strain of love\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nImmorality. A tragic love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA fear of intense passion. A tendency to shy away from anything or anyone one feels extremely attracted to. Hard lessons learned through power struggles in love relationships.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nCurbs or bans on the use of destructive impulses or weaponry; lessens the impact of destructive forces; an obligation or responsibility toward or over those who take pleasure in delivering restitution; less enjoyment from sex.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInterruption of a fortunate development. Wishes and hopes come not through. Separation after short time. Not ready to show consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nSerious development in love, serious artistic development, disturbed development of peace, development of harmony in old age, changes through disturbed harmony, changing problems in love, and transformation through strain on love.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nImmorality. A tragic love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA fear of intense passion. A tendency to shy away from anything or anyone one feels extremely attracted to. Hard lessons learned through power struggles in love relationships.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nCurbs or bans on the use of destructive impulses or weaponry; lessens the impact of destructive forces; an obligation or responsibility toward or over those who take pleasure in delivering restitution; less enjoyment from sex.",
+      "page_sha256": "06b7e97198cb9f63e758fb921cf2756304869e9401824f4af08f5981483ac440",
+      "page_sha256_LF_text": "33f2d1382ca5cc88e8b6207fc73b05380978ece473789d9736392c4b0498adc0",
+      "owner_line": 35,
+      "owner_record_sha256": "36fb4dd9df9cd6e5ac6062cb8cd365d308bdd835fed3709a1a9e2a8cd3bb37aa",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Saturn seven clauses: serious love development; serious artistic unfolding; disturbed peace development; harmony unfolding in old age; changes through disturbed harmony; changing love problems; transformation through burden on love. Gestört disturbed; all seven clauses complete.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-sun.md",
+      "before_sha256": "91a68beef86357afbebd459bbc2010e6df4cd1c53eac1279d85072dde8796152",
+      "after_sha256": "d1b05a3127926b35699e7948e390c75a611143e91f4f4891258ab78c21fbdd92",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC280/PDF139 Sun seven clauses: art-centre development; personal wishes development; develop bodily love; develop love for man; personal unfolding in love; develop bodily beauty; develop preference for men. Kunst-Zentrum art centre, not artificial centre. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-sun.md",
+          "text": "ABC 'Development of a artificial center' corresponds to native 'Entwicklung eines Kunst-Zentrums' (printed280/PDF139); retained and excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/sun-venus-pluto.md",
+          "text": "Coverage limitation: Sun/Venus = Pluto and Venus/Pluto = Sun qualify ABC's artificial-center phrase as unreliable.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'Development of a artificial center' corresponds to native 'Entwicklung eines Kunst-Zentrums' (printed280/PDF139); retained and excluded."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious development of the body. Harmonious passing of the day. Pleasant state of nourishment for the body. To eat in pleasant surroundings. Consideration for the taste of the native.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of a artificial center, development of personal desires, developing corporal love, developing love for man, developing personal love development, developing the beauty of the body, and developing preference for men\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nGreat creativity, an unusual sense of form, deep affection. A peculiar destiny in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nWhatever one holds to be important in life one loves with a deep passion. One may derive much vitality from intensely loving. One may be profoundly in love with one’s own goals.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nMastering lower urges to be destructive; skills in demolition; achievements in extremely beautiful works of art; influences acts of elimination; delight with eliminating ego or pride; selfish acts involving sexual perversion.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious development of the body. Harmonious passing of the day. Pleasant state of nourishment for the body. To eat in pleasant surroundings. Consideration for the taste of the native.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDevelopment of a artificial center, development of personal desires, developing corporal love, developing love for man, developing personal love development, developing the beauty of the body, and developing preference for men\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nGreat creativity, an unusual sense of form, deep affection. A peculiar destiny in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nWhatever one holds to be important in life one loves with a deep passion. One may derive much vitality from intensely loving. One may be profoundly in love with one’s own goals.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nMastering lower urges to be destructive; skills in demolition; achievements in extremely beautiful works of art; influences acts of elimination; delight with eliminating ego or pride; selfish acts involving sexual perversion.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHarmonious development of the body. Harmonious passing of the day. Pleasant state of nourishment for the body. To eat in pleasant surroundings. Consideration for the taste of the native.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `280`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDevelopment of an art center, development of personal wishes, developing bodily love, developing love for a man, personal unfolding of love, developing the beauty of the body, and developing a preference for men.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nGreat creativity, an unusual sense of form, deep affection. A peculiar destiny in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nWhatever one holds to be important in life one loves with a deep passion. One may derive much vitality from intensely loving. One may be profoundly in love with one’s own goals.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nMastering lower urges to be destructive; skills in demolition; achievements in extremely beautiful works of art; influences acts of elimination; delight with eliminating ego or pride; selfish acts involving sexual perversion.",
+      "page_sha256": "dffd9cd04d10c2be9f76793c03fda8c26f98a8fd2365b133d310a8ecbe467482",
+      "page_sha256_LF_text": "53ba715772501952fef70e12d7c9d746d256e7afb2420bfc89194e601d6cd00a",
+      "owner_line": 36,
+      "owner_record_sha256": "06ebddf52075e732a4f6d9a0a43f74020b404736f5f1089d84e9749054c1f0ea",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC280/PDF139 Sun seven clauses: art-centre development; personal wishes development; develop bodily love; develop love for man; personal unfolding in love; develop bodily beauty; develop preference for men. Kunst-Zentrum art centre, not artificial centre.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-uranus.md",
+      "before_sha256": "be1ca22429eb713017b0e7df2c0aff296eb7f2161423dad0cf5b2e13002cbe33",
+      "after_sha256": "e44c81573de55dc5d34e3bae6c077a4b49871badc913deedbba6c099679ac088",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Uranus seven clauses: dynamic art change; harmonious technical development; unfold love impulses; rhythmic unfolding of art; exciting love development; unrest through changing love; restless peace development. Final clause truly present and formerly omitted. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-uranus.md",
+          "text": "ABC 'rhythmic artificial development' corresponds to native 'rhythmische Kunst-Entfaltung'; cached entry omits 'unruhige Friedcns-Entwicklung' (printed281/PDF139). Retained without repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'rhythmic artificial development' corresponds to native 'rhythmische Kunst-Entfaltung'; cached entry omits 'unruhige Friedcns-Entwicklung' (printed281/PDF139). Retained without repair."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSudden start of a harmonious development. Surprisingly give in.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDynamic alternation of the arts, harmonious development of technology, unfolding love impulses, rhythmic artificial development, exciting development of a love, and restlessness through changing love\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLove at first sight, fanatic love. A sudden awakening to love, unusual experiences in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA desire to be free of extreme attractions, and a tendency to sometimes delve into them, and at other times isolate oneself from them. Others may be extremely attracted to one’s uniqueness. Freedom through allowing love to evolve into a higher plane.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nIndifference to the destructive powers available for personal or political uses; compromises involving the extreme uses of power; friends who find delight in receiving or engaging in unusual forms of punishment.",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSudden start of a harmonious development. Surprisingly give in.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nDynamic alternation of the arts, harmonious development of technology, unfolding love impulses, rhythmic artificial development, exciting development of a love, and restlessness through changing love\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLove at first sight, fanatic love. A sudden awakening to love, unusual experiences in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA desire to be free of extreme attractions, and a tendency to sometimes delve into them, and at other times isolate oneself from them. Others may be extremely attracted to one’s uniqueness. Freedom through allowing love to evolve into a higher plane.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nIndifference to the destructive powers available for personal or political uses; compromises involving the extreme uses of power; friends who find delight in receiving or engaging in unusual forms of punishment.",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSudden start of a harmonious development. Surprisingly give in.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nDynamic change in art, harmonious development of technology, unfolding impulses of love, rhythmic artistic development, exciting developments in a love, restlessness through changing love, and restless development of peace.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nLove at first sight, fanatic love. A sudden awakening to love, unusual experiences in love.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nA desire to be free of extreme attractions, and a tendency to sometimes delve into them, and at other times isolate oneself from them. Others may be extremely attracted to one’s uniqueness. Freedom through allowing love to evolve into a higher plane.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `VENUS/PLUTO with Planets and Points`\n- Source page: `208`\n\n#### Munkasey Entry\n\nIndifference to the destructive powers available for personal or political uses; compromises involving the extreme uses of power; friends who find delight in receiving or engaging in unusual forms of punishment.",
+      "page_sha256": "b9f32b57cd284e77a4b18dd036509ebbbba0c67df9f5b47a49a00cd9a4d6ea37",
+      "page_sha256_LF_text": "f0306cc662aa6279416b832094257d279daa2f3274828b08b266509f69f2a460",
+      "owner_line": 37,
+      "owner_record_sha256": "973395d9f5dd981ab1f8eea440b8dded0027a5390c0900a7e09b6fbff92ffd15",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Uranus seven clauses: dynamic art change; harmonious technical development; unfold love impulses; rhythmic unfolding of art; exciting love development; unrest through changing love; restless peace development. Final clause truly present and formerly omitted.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-vulcanus.md",
+      "before_sha256": "0e5b1b854dfa6d6cecf4ffd861271bcf9e8271c91559c23f8caa84d7f0dbd714",
+      "after_sha256": "0eeb0aeda9ab36935c91f6fc2c5269451e1e32f41d215f63a070f8e1081adabf",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Vulcanus nine clauses: unfold love strength; peaceful power development; develop harmonious strength; desire power change; preference for energy transformation; transformation of love energy; growing influence of art; growing peace power; growing love strength. Energie-Transformation/Liebes-Energie/Kunst-Einfluß exact glyph row, no garbled filr/artifical. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [
+        "Energy transformation and energy of love are source phrases without an established physical mechanism."
+      ],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-vulcanus.md",
+          "text": "ABC 'filr energy transfonnation', 'transfonnation of loveEnergy', and 'growing artificial influence' retain damage; native has 'Energie-Transfonnation', 'LiebesEnergie', and 'Kunst-Einfluf3' (printed281/PDF139). Retained and excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'filr energy transfonnation', 'transfonnation of loveEnergy', and 'growing artificial influence' retain damage; native has 'Energie-Transfonnation', 'LiebesEnergie', and 'Kunst-Einfluf3' (printed281/PDF139). Retained and excluded."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be very struck with an occurrence or experience. Great sympathy. Mighty longing for love. A powerful affection leads to politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nunfolding of love power, peaceful power development, developing harmonious force, power change desire, preference for filr energy transfonnation, transfonnation of loveEnergy, growing artificial influence, growing peace power, and growing love power",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be very struck with an occurrence or experience. Great sympathy. Mighty longing for love. A powerful affection leads to politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nunfolding of love power, peaceful power development, developing harmonious force, power change desire, preference for filr energy transfonnation, transfonnation of loveEnergy, growing artificial influence, growing peace power, and growing love power",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be very struck with an occurrence or experience. Great sympathy. Mighty longing for love. A powerful affection leads to politeness and consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nUnfolding the strength of love, peaceful development of power, developing harmonious strength, wishing for a change of power, preference for energy transformation, transformation of the energy of love, growing artistic influence, growing power for peace, and growing strength of love.",
+      "page_sha256": "8f8d0b4aa56302d18707f56286b176bcd099b0921b08748513d9f5a396869831",
+      "page_sha256_LF_text": "8f8d0b4aa56302d18707f56286b176bcd099b0921b08748513d9f5a396869831",
+      "owner_line": 40,
+      "owner_record_sha256": "57ad54f3ea40113e314d610c57b38cf9b85b831068f8673d8de7187c00bee85f",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Vulcanus nine clauses: unfold love strength; peaceful power development; develop harmonious strength; desire power change; preference for energy transformation; transformation of love energy; growing influence of art; growing peace power; growing love strength. Energie-Transformation/Liebes-Energie/Kunst-Einfluß exact glyph row, no garbled filr/artifical.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-pluto-equals-zeus.md",
+      "before_sha256": "9bc164a06666a57cfe88ba1e4a8288c8876a63d90e1dce66b07b97b81ce145f4",
+      "after_sha256": "dad2687f5422ff6babd43643b7a30e83e44b0aa42c232c0341373cb42add7349",
+      "ledger": "activations-089.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. ABC281/PDF139 Zeus eight clauses: begin harmonious development; beginning peace development; harmonious unfolding of achievement; develop creative art; unfold love fire; transform fiery love; develop preference for achievements; growth through procreation in love. Liebes-Zeugung procreation, not denial. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-pluto-equals-zeus.md",
+          "text": "ABC 'growth through love denial' corresponds to native 'Wachstum <lurch Liebes-Zeugung' (printed281/PDF139), a material translation problem. Source retained; no inference of denial made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-zeus.md",
+          "text": "Venus/Pluto = Zeus retains a damaged final ABC phrase; its heading does not certify intact wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-pluto-zeus.md",
+          "text": "Venus/Pluto = Zeus retains a damaged final ABC phrase; its heading does not certify intact wording.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "ABC 'growth through love denial' corresponds to native 'Wachstum <lurch Liebes-Zeugung' (printed281/PDF139), a material translation problem. Source retained; no inference of denial made."
+      ],
+      "protected_baseline_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGood progress of current matters. A favorable developing pregnancy. Ripening fruits and fine prospects for the harvest. Forced consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBeginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, unfolding love fire, transforming a fiery love, developing preference for performance, and growth through love denial",
+      "preclosure_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGood progress of current matters. A favorable developing pregnancy. Ripening fruits and fine prospects for the harvest. Forced consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBeginning of a harmonious development, beginning of peace development, harmonious performance development, developing creative arts, unfolding love fire, transforming a fiery love, developing preference for performance, and growth through love denial",
+      "current_source": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nGood progress of current matters. A favorable developing pregnancy. Ripening fruits and fine prospects for the harvest. Forced consideration.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source heading: `Venus + Pluto`\n- Source reference: printed page `281`; PDF page `139` (one-based).\n\n#### ABC Entry\n\nBeginning of a harmonious development, beginning development of peace, harmonious development of achievement, developing creative art, unfolding the fire of love, transformation of a fiery love, developing a preference for achievement, and growth through procreation in love.",
+      "page_sha256": "cc85df52f6113acd3b8f325c9c61441017cda45d4b05243396a0ec913c4ff1aa",
+      "page_sha256_LF_text": "cc85df52f6113acd3b8f325c9c61441017cda45d4b05243396a0ec913c4ff1aa",
+      "owner_line": 41,
+      "owner_record_sha256": "fb3e9551a96d06f954fc89b8db82316fe434014ec982145934b8d807d267e48e",
+      "original_reviewer": "activations-089-090-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "ABC281/PDF139 Zeus eight clauses: begin harmonious development; beginning peace development; harmonious unfolding of achievement; develop creative art; unfold love fire; transform fiery love; develop preference for achievements; growth through procreation in love. Liebes-Zeugung procreation, not denial.",
+      "remaining_locator_granularity": []
+    },
+    {
+      "path": "wiki/activations/venus-venus-equals-admetos.md",
+      "before_sha256": "36f1be42443d1217b62a534443cbd561048f7dc459afc9d2d95da6a266f40b6c",
+      "after_sha256": "e8be454f338b5448623b481f6207179924a9f8cf43567baca5c7202a30abd217",
+      "ledger": "activations-091.jsonl",
+      "reason": "Full protected-baseline/current sources, full amended unique owner, all flags and affected prose read. Every newly changed block/new reference checked against personally read/viewed raw. Actual WittePDF175 Admetos complete twelve-sentence row personally read/viewed: few true/deep ties, picky, unselfish, end of love, meditation/inwardness, death of females, repressed affection, frigidity, 'Heartlessness.', death of love, without sensation, limited feeling. Heardessness is OCR, printed Heartlessness clear; historical harm/medical language retained as attributed. Saved translation/word repair and dependent prose match; other source blocks unchanged from protected baseline.",
+      "evidence": [
+        "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf175.png"
+      ],
+      "verified_by": "/root/activation_review_023_044",
+      "status": "accepted",
+      "batch": "D004",
+      "queued_target": true,
+      "discovered_adjacent": false,
+      "disposition": "repaired",
+      "genuine_source_limit_confirmed_with_proof": [],
+      "queue_flags": [
+        {
+          "holder": "wiki/activations/venus-venus-equals-admetos.md",
+          "text": "Witte 'Heardessness' unresolved; excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "assignment_source_flags": [
+        "Witte 'Heardessness' unresolved; excluded from synthesis."
+      ],
+      "protected_baseline_source": "#### Witte Entry\n\nConnected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heardessness. Death of love. Without sensation. Limited feeling.",
+      "preclosure_source": "#### Witte Entry\n\nConnected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heardessness. Death of love. Without sensation. Limited feeling.",
+      "current_source": "#### Witte Entry\n\nConnected in love and friendship with a few. Picky, but true and deep in love and friendship. Unselfish. End of a love. Meditation, turning inwards. Death of female persons. Repressed affections. Frigidity in love. Heartlessness. Death of love. Without sensation. Limited feeling.",
+      "page_sha256": "7e1ab30ec85f341afd689f885cc1c2a290826ff4da073d8ed8d7ffa7ce0d0bc1",
+      "page_sha256_LF_text": "7e1ab30ec85f341afd689f885cc1c2a290826ff4da073d8ed8d7ffa7ce0d0bc1",
+      "owner_line": 7,
+      "owner_record_sha256": "ba968dce6447f87d513e9666804f204393a49fa72f8e7398404aca4ed035615d",
+      "original_reviewer": "activations-091-092-leaf",
+      "external_approval_reused": false,
+      "raw_preparation_note": "Actual WittePDF175 Admetos complete twelve-sentence row personally read/viewed: few true/deep ties, picky, unselfish, end of love, meditation/inwardness, death of females, repressed affection, frigidity, 'Heartlessness.', death of love, without sensation, limited feeling. Heardessness is OCR, printed Heartlessness clear; historical harm/medical language retained as attributed.",
+      "remaining_locator_granularity": []
+    }
+  ]
+}

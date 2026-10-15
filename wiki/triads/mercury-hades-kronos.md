@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Hades Kronos`
 - Astronomicon triad-set: `T ¢ ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md)
-- [Mercury/Hades = Kronos](../activations/mercury-hades-equals-kronos.md)
-- [Mercury/Kronos = Hades](../activations/mercury-kronos-equals-hades.md)
+- [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md): base axis [Hades/Kronos](../axes/hades-kronos.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Hades = Kronos](../activations/mercury-hades-equals-kronos.md): base axis [Mercury/Hades](../axes/mercury-hades.md); activator [Kronos](../factors/kronos.md).
+- [Mercury/Kronos = Hades](../activations/mercury-kronos-equals-hades.md): base axis [Mercury/Kronos](../axes/mercury-kronos.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Hades/Kronos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `279`
-- `Hades/Kronos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `440`
-- `Mercury/Hades = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
-- `Mercury/Hades = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `257`
-- `Mercury/Kronos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `169`
-- `Mercury/Kronos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `261`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md#witte-entry) (PDF entry-start p. 279); [Mercury/Hades = Kronos](../activations/mercury-hades-equals-kronos.md#witte-entry) (PDF entry-start p. 167); [Mercury/Kronos = Hades](../activations/mercury-kronos-equals-hades.md#witte-entry) (PDF entry-start p. 169).
+- Udo Rudolph - ABC for Planetary Pictures: [Hades/Kronos = Mercury](../activations/hades-kronos-equals-mercury.md#abc-entry) (printed p. 440); [Mercury/Hades = Kronos](../activations/mercury-hades-equals-kronos.md#abc-entry) (printed p. 257); [Mercury/Kronos = Hades](../activations/mercury-kronos-equals-hades.md#abc-entry) (printed p. 261).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Kronos = Mercury`: writing about misery and poverty, thinking about major mean acts, or acting as an intellectual organizer within crime.
-- `Mercury/Hades = Kronos`: directs the axis upward as slander aimed at authority.
-- `Mercury/Kronos = Hades`: darkens the axis with antique power, decayed states, and high-order fraud.
+Mercury, Hades and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Hades/Kronos](../axes/hades-kronos.md)
+- [Mercury/Hades](../axes/mercury-hades.md)
+- [Mercury/Kronos](../axes/mercury-kronos.md)
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)
 - [Kronos](../factors/kronos.md)

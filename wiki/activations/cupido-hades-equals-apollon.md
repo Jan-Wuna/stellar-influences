@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
 - Triad hub: [Cupido Hades Apollon](../triads/cupido-hades-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 267 (one-based; exact activator row).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Far spread affliction. Cognizance gained by joint sufferings. Improvised accommo
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 211 (printed 425).
+
 #### ABC Entry
 
-Extension of dangerous communities, disadvantaged trade communities, adverse experience with of a community, danger to of a community, knowledge from a common past, and increase in criminality in communities
+Editorial English translation, checked against the German scan:
+
+Expansion of dangerous communities; disadvantaged trade communities; adverse experiences with a community; increased danger for a community; knowledge from a shared past; increase of criminality within communities.
+
+## Comparative Schema
+
+- core meaning: Widespread hardship and knowledge gained through shared suffering or study of the past.
+- psychology: Understanding gained through joint suffering.
+- body/health: No specific bodily condition or treatment is supplied.
+- social/relationship: Improvised accommodation with many; a study group for ancient sciences.
+- events/manifestations: Disadvantaged trade communities, increased danger, criminality and knowledge from a common past.
+- conflicts/notes: Ancient study and shared understanding remain distinct from the harmful association examples.
+
+## Contradictions And Differences
+
+Ancient study and shared understanding remain distinct from the harmful association examples. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Apollon`: large troubled groups, widespread social difficulty, or intellectual interest in what is old, marginal, or burdened by hardship. Main caution: expansion of misery instead of expansion beyond it.
+`Cupido/Hades = Apollon` concerns hardship affecting many people and the knowledge associated with shared experience. The [Witte entry](#witte-entry) joins widespread affliction and improvised accommodation with understanding gained through joint suffering and a study group for ancient sciences. The [ABC entry](#abc-entry) adds disadvantaged trade association, increased danger or criminality, and knowledge from a common past. Study of the past therefore remains visible beside the troubled communal circumstances.
 
 ## Links
 

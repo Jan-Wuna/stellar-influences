@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Venus Vulcanus`
 - Astronomicon triad-set: `R Q §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md)
-- [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md)
-- [Venus/Vulcanus = Moon](../activations/venus-vulcanus-equals-moon.md)
+- [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md): base axis [Moon/Venus](../axes/moon-venus.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md): base axis [Moon/Vulcanus](../axes/moon-vulcanus.md); activator [Venus](../factors/venus.md).
+- [Venus/Vulcanus = Moon](../activations/venus-vulcanus-equals-moon.md): base axis [Venus/Vulcanus](../axes/venus-vulcanus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Venus = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `123`
-- `Moon/Venus = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `179`
-- `Moon/Vulcanus = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
-- `Moon/Vulcanus = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `204`
-- `Venus/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `188`
-- `Venus/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `294`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md#witte-entry) (PDF entry-start p. 123); [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md#witte-entry) (PDF entry-start p. 136); [Venus/Vulcanus = Moon](../activations/venus-vulcanus-equals-moon.md#witte-entry) (PDF entry-start p. 188).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Venus = Vulcanus](../activations/moon-venus-equals-vulcanus.md#abc-entry) (printed p. 179); [Moon/Vulcanus = Venus](../activations/moon-vulcanus-equals-venus.md#abc-entry) (printed p. 204); [Venus/Vulcanus = Moon](../activations/venus-vulcanus-equals-moon.md#abc-entry) (printed p. 294).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Vulcanus`: affection and receptivity gain force, visibility, and emotional pressure; love becomes harder to ignore, whether through passion, public attention, or a compelling feminine presence.
-- `Moon/Vulcanus = Venus`: mental force, public influence, and collective feeling are drawn into attraction, harmony, and desire, often through influential women, persuasive conversation, or emotionally charged public opinion.
-- `Venus/Vulcanus = Moon`: powerful affection is received through the Moon, emphasizing passionate feeling, the wife or woman, and public or feminine response; the caution is emotional overpressure.
+Moon, Venus and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Venus](../axes/moon-venus.md)
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Venus/Vulcanus](../axes/venus-vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Venus](../factors/venus.md)
 - [Vulcanus](../factors/vulcanus.md)

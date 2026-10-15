@@ -1,0 +1,101 @@
+---
+title: Uranus/Pluto = Sun
+page_type: activation
+slug: uranus-pluto-equals-sun
+status: source_ingested
+framework_scope: comparative
+factors:
+  - Uranus
+  - Pluto
+  - Sun
+normalized_formula: Uranus/Pluto = Sun
+axis: Uranus/Pluto
+activated_by: Sun
+triad_set:
+  - Sun
+  - Uranus
+  - Pluto
+aliases:
+  []
+source_pages:
+  - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
+  - udo-rudolph-abc-fur-planetenbilder
+  - reinhold-ebertin-the-combination-of-stellar-influences
+  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
+  - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
+updated_at: 2026-05-06
+---
+
+## Identity
+
+- Formula: `Uranus/Pluto = Sun`
+- Astronomicon formula: `X/Z = S`
+- Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
+- Triad hub: [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)
+
+## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+#### Witte Entry
+
+Physical development which commences suddenly. The man who suddenly faces a changed manner of nutrition, who suddenly changes his intake of food or his meals. Days during which mealtimes are on a changed schedule.
+
+### Udo Rudolph - ABC for Planetary Pictures
+
+#### ABC Entry
+
+Exciting personal changes, eventful changes in the day, sudden change of person, different body rhythm, changes in a technical center, surprising change of person, and growing personal tensions
+
+### Reinhold Ebertin - The Combination of Stellar Influences
+
+#### Ebertin Entry
+
+Urge for independence and freedom, untiring creative work, tendency to make the highest demands on one's physical energy, strong emotional tensions. Over-excitement of the nerves, a breakdown, a catastrophe.
+
+### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+#### Sandbach Entry
+
+To have strange and/or highly unique goals. To know that change and innovation are important, and the readiness to confront whatever one has to to make change hap pen. Sudden and/or drastic turns of events that deeply affect and potentially change the way you pursue your goals, or even the goals themselves.
+
+### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source heading: `URANUS/PLUTO with Planets and Points`
+- Source page: `312`
+
+#### Munkasey Entry
+
+Adds determination to pursue unusual subjects of interest, in such fields as astrology, computers, artificial intelligence, etc.; extreme dedication to your own ideas to the exclusion of the rest of the world’s interests and needs.
+
+## Comparative Schema
+
+- core meaning: source-native activation entries are preserved side by side above.
+- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
+- body/health: bodily implications remain embedded inside the source-native entry when present.
+- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
+- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
+- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+
+## Contradictions
+
+- None recorded yet.
+
+<a id="derived-synthesis"></a>
+
+## Derived Synthesis
+
+- `Uranus/Pluto = Sun`: revolutionary identity, forceful self-reinvention, and the ability to embody major turning points in visible ways. Main caution: ego fused with upheaval: self-expression can become too extreme, destructive, or attached to being the breaker of forms.
+
+## Links
+
+- [Uranus](../factors/uranus.md)
+- [Pluto](../factors/pluto.md)
+- [Sun](../factors/sun.md)
+- [Uranus/Pluto](../axes/uranus-pluto.md)
+- [Sun Uranus Pluto](../triads/sun-uranus-pluto.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
+- [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
+- [Reinhold Ebertin - The Combination of Stellar Influences](../sources/reinhold-ebertin-the-combination-of-stellar-influences.md)
+- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
+- [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

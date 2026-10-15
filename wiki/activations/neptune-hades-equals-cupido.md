@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Cupido`
 - Astronomicon formula: `Y/¢ = ¡`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Poor and unhappy marriage. Quarrels or signs of dissolution in a community. Poor housing conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `395`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+Shared danger in water, shared water damage, sorrow in a sensitive community, lack of air in a community, air pollution through a community, disadvantages when a community dissolves, and water shortage in a community
+
+## Comparative Schema
+
+- core meaning: adverse shared conditions in marriage, housing, or community.
+- psychology: unhappiness, quarrels, and sorrow in a sensitive community are explicit.
+- body/health: air shortage and water danger are source examples without a specified medical condition.
+- social/relationship: marriage, community, and shared housing conditions are stated settings.
+- events/manifestations: shared water damage, community-caused pollution, and disadvantages of dissolution are named.
+- conflicts/notes: the entries describe poor conditions without establishing an inevitable slide toward dissolution.
+
+## Contradictions
+
+Witte emphasizes marriage and housing; ABC adds communal environmental problems and sorrow. These overlap in shared difficulty without identifying one as the cause of the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Cupido`: Poor and unhappy marriage. Quarrels or signs of dissolution in a community. Poor housing conditions.
-- Practical focus: moves hidden decline into marriage, housing, and community, showing poor living conditions, unhappy unions, and communal bonds already sliding toward quarrel or dissolution.
-- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
+In Neptune/Hades = Cupido, Cupido specifies the pair through adverse conditions shared within marriage, housing, or community. The [Witte entry](#witte-entry) names unhappy marriage, quarrels, signs of dissolution, and poor housing. [ABC](#abc-entry) adds shared water danger or damage, sorrow in a sensitive community, air pollution, and disadvantages when a community dissolves (printed p. 395, PDF p. 196). These preserve both interpersonal and material difficulties, without making one the cause of the other or forecasting the end of every community.
 
 ## Links
 

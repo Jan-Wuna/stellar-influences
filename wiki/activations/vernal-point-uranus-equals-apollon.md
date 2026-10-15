@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Apollon](../triads/vernal-point-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 Sudden events for many. Astrology.
 
@@ -42,13 +46,29 @@ Sudden events for many. Astrology.
 
 #### ABC Entry
 
-Exciting experiences in the public, success through innovations in the public, commercial competitions in the public, new knowledge in the public, technical successes in the public life, and economic reforms in the public
+- Source page: 39; PDF page: 18 (one-based spread).
+
+Exciting experiences in public, success through innovations in public, trade reforms in public, new knowledge in public, technical successes in public life, and economic reforms in public.
+
+## Comparative Schema
+
+- core meaning: Public innovation spreads through knowledge, technology and trade.
+- psychology: Excitement accompanying new experiences and discoveries.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Sudden events involve many people.
+- events/manifestations: Successful innovations, new knowledge, trade and economic reform; Witte also names astrology.
+- conflicts/notes: Astrology is Witte’s explicit field example, not a claim of demonstrated effectiveness.
+
+## Contradictions
+
+Witte emphasizes sudden collective events and astrology; ABC emphasizes successful innovation and reform. These are compatible examples with different levels of specificity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Apollon`: sudden events for many and astrology.
-- Practical expression: exciting experiences in the public, success through innovations in the public, commercial competitions in the public, new knowledge in the public, and technical successes in the public life.
+`Vernal Point/Uranus = Apollon` brings sudden events into a wider public field. ABC gives the constructive development of this excitement through innovation, new knowledge and technical success; its trade and economic reforms extend renewal into organized public activity. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Witte’s brief entry also explicitly names astrology. That is a source-specific field association alongside events affecting many people, without further detail about practice or efficacy. ([Witte](#witte-entry))
 
 ## Links
 

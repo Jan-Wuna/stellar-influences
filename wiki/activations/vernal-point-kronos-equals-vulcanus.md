@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Kronos](../axes/vernal-point-kronos.md)
 - Triad hub: [Vernal Point Kronos Vulcanus](../triads/vernal-point-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 51 (one-based).
 
 Great powers. Powerful nations.
 
@@ -42,13 +46,27 @@ Great powers. Powerful nations.
 
 #### ABC Entry
 
-Dominance of violence in the public Life, violence of the state in the public, hierarchical influence in the public, great energies in the public, public EnergyLenkung, public state influence, and state power in the public
+- Source page: 51; PDF page: 24 (one-based spread).
+
+Dominance of force or violence in public life, the force of the state in public, hierarchical influence in public, great public energies, public direction of energy, public state influence, and state power in public
+
+## Comparative Schema
+
+- core meaning: Public authority expressed as concentrated national force and influence.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Powerful nations and hierarchical influence.
+- events/manifestations: State power, direction of public energy, and coercive force.
+- conflicts/notes: German Gewalt can denote force, state power, or violence; the translation retains this range.
+
+## Contradictions
+
+No direct contradiction is established. The force of the state is not limited to interpersonal violence, while the original wording does include a coercive range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Kronos = Vulcanus`: great powers and powerful nations.
-- Practical expression: dominance of violence in the public Life, violence of the state in the public, hierarchical influence in the public, great energies in the public, and public EnergyLenkung.
+In `Vernal Point/Kronos = Vulcanus`, public authority is specified through the capacity to exert force. The [Witte entry](#witte-entry) names great powers and powerful nations. The restored [ABC entry](#abc-entry) develops the institutional scale through hierarchical influence, state power, and direction of public energy, while retaining the force or violence range of its wording. The shared emphasis is concentrated public power and its reach.
 
 ## Links
 

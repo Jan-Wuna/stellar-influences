@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Hades = Moon`
 - Astronomicon formula: `T/¢ = R`
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `167`.
+
 #### Witte Entry
 
 A low female person. Uncultured woman. Malice, spitefulness or slander by women in or through the public. Hours of bad messages.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `256`; PDF page: `127`.
+
 #### ABC Entry
 
-A woman's lack of movement, a disadvantaged young woman's thoughts, an old woman's hearty talk about the need, a people's criminal opinion, a woman's hearty thoughts, a young woman's need, and abstinence from the people's opinion
+German passage (transcribed from PDF page `127`, printed page `256`):
+
+> Bewegungs-Mangel einer Frau, benachteiligte junge Frau, Gedanken einer alten Frau, gefühlvolle Gespräche über die Not, kriminelle Meinung eines Volkes, kummervolle Gedanken der Frau, Not einer jungen Frau, Verzicht auf die Meinung des Volkes
+
+Editorial translation from the German passage: A woman's lack of movement; a disadvantaged young woman; an old woman's thoughts; emotional conversations about hardship; a people's criminal opinion; a woman's sorrowful thoughts; a young woman's distress; forgoing the people's opinion.
+
+## Comparative Schema
+
+- core meaning: Troubled or hostile messages involving women or public opinion ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: Spite and malice are Witte's attributed characterizations.
+- body/health: The ABC entry names lack of movement; it establishes no diagnosis.
+- social/relationship: Women and public communication are explicit, historically gendered subjects.
+- events/manifestations: Slander, bad messages, and a young woman's need appear in the retained entries.
+- conflicts/notes: Historical gender and moral labels remain attributed; emotional conversation and sorrowful thoughts are distinct clauses.
+
+## Contradictions
+
+The scan-verified ABC passage has been restored with its distinct clauses. These examples supplement Witte's entry without establishing that all listed conditions occur together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Moon` joins the axis to public feeling through low company, spite, and bad news.
-- Chart expression: uncultured or spiteful female influence, slander from women or through the public, and emotionally heavy periods marked by bad messages.
+In `Mercury/Hades = Moon`, Moon specifies difficult communication through women and public opinion. Witte emphasizes slander and bad messages, while ABC adds hardship, a young woman's disadvantage, an old woman's thoughts, emotional conversations, and sorrowful thoughts. These are different subjects and states, with no warrant for general judgments about women or for merging emotion with malice ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

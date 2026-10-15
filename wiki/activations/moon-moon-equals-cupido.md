@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Moon = Cupido`
 - Astronomicon formula: `R/R = ¡`
 - Axis page: [Moon/Moon](../axes/moon-moon.md)
@@ -29,15 +31,29 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: [Witte, Rudolph & Lefeldt](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), `Moon + Moon`, PDF p. `120` (entry start; one-based).
+
 #### Witte Entry
 
 The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxation, sociability or arts. Dancing clubs. Virtuosity. Routine. Feminine objects of art. The mother. The stepmother. Betrothed. The wedding hour. People’s associations. Ladies’ associations.
 
+## Comparative Schema
+
+- core meaning: family roles, association, leisure, and artistic activity ([Witte](#witte-entry)).
+- psychology: no general emotional disposition is specified; virtuosity and routine concern practiced activity.
+- body/health: no specific bodily or health implication is stated.
+- social/relationship: bride, wife, mother, stepmother, mother-in-law, and associations are historical examples.
+- events/manifestations: weddings, dancing clubs, relaxation, shaping, and arts are named.
+- conflicts/notes: these gendered roles and artistic examples do not define every woman's identity or relationships.
+
+## Contradictions
+
+One entry supplies several family and social settings. No second source is present for comparison, and the listed roles need not all apply together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon = Cupido`: The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxation, sociability or arts. Dancing clubs. Virtuosity. Routine. Feminine objects of art. The mother. The stepmother. Betrothed. The wedding hour. People’s associations. Ladies’ associations.
-- Practical focus: socializes `Moon/Moon` through marriage, family roles, leisure, and artistic association. It favors brides, wives, mothers, clubs, sociability, and patterned feminine culture, so feeling-life becomes embedded in relationship ritual, domestic identity, and the aesthetic life of groups.
+In Moon/Moon = Cupido, Cupido specifies the repeated Moon pair through belonging and shared activity. The [Witte entry](#witte-entry) connects historical family and marriage roles with people's and ladies' associations, then places leisure, dancing, art, virtuosity, and routine in the same range. The link is participation in family, social, or artistic forms; it does not establish a single domestic identity or emotional style.
 
 ## Links
 

@@ -64,21 +64,37 @@ updated_at: 2026-05-04
 
 - Axis: `Moon/Hades`
 - Astronomicon axis: `R/¢`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `MOON + HADES`
+- PDF page (one-based): `131` (pair passage and `Widow` checked against the scan).
+
 #### Pair Summary
 
-Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. V idow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.
+Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poor woman. The caring woman. Widow. Hours full of worry and anguish. Hour of fate. Stomach trouble. A people affected by misfortune. Single (solitary) woman. Base people. A low life woman. Not much soul. Ailments of female persons. Unfortunate hour.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `194–195`; PDF page (one-based): `96` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Old woman, serving woman, deprivation of a people, woman from the past, Cefahrftir the woman, gfiihls deficiency, criminal woman, hour of danger, tradition of a people, renunciation of a woman, and people in need
+Old woman, a woman who serves, deprivation of a people, woman from the past, danger for a woman, lack of feeling, criminal woman, hour of danger, tradition of a people, a woman's renunciation, a people in need.
+
+## Comparative Schema
+
+- core meaning: Hardship, deprivation and worry in emotional, female or collective life, alongside care, service and the past.
+- psychology: Resignation, anguish and lack of feeling are explicit; the caring woman and renunciation provide distinct expressions without guaranteeing a redemptive outcome.
+- body/health: Witte names uterine disease, stomach trouble and female ailments; these are attributed historical associations, not diagnoses.
+- social/relationship: Solitude, widowhood, poverty, service and people in need describe social circumstances; moral labels remain the source's judgments.
+- events/manifestations: Dangerous or unfortunate hours, collective misfortune, deprivation and traditions occur beside women from the past.
+- conflicts/notes: ABC preserves old age, tradition and service as well as danger. Neither poverty nor solitary female status establishes criminality, and the pair does not predict illness or loss.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Old woman, serving woman, deprivation of a people, woman from the past, Cefahrft
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades` is the axis of emotional deprivation, worry, solitary or burdened women, people in need, misfortune affecting a population, and ailments tied to the body or female condition.
-- Constructively it can show care for neglected people, service under hardship, memory of the past, tradition, humility, and attention to suffering that would otherwise be ignored.
-- The shadow is resignation, deprivation, danger, criminal or degraded conditions, illness, and hours of anguish or fate; read such material soberly and only when the chart context supports it.
-- Activations specify whether the Hades-Moon field becomes caregiving, bodily trouble, historical memory, public distress, or practical work with the disadvantaged.
+`Moon/Hades` brings emotional or collective life into contact with hardship, need and the past. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) places resignation, worry, poverty, solitude and widowhood beside the caring woman and a people affected by misfortune. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) adds service, old age, a woman from the past and a people's traditions, alongside deprivation, lack of feeling and danger. The pair therefore includes historical memory and service as well as distress; its content cannot be reduced to either a promise of helpfulness or a catalogue of calamities.
+
+The severe medical and moral expressions remain specific source claims. Witte's uterine and stomach associations do not establish a diagnosis, and labels such as “criminal” or “base” do not follow from poverty, widowhood or being alone. The named dangerous or unfortunate hours are part of the source's range, not a prediction from the pair alone. Particular circumstances and closing-factor meanings belong to separate [activation pages](#related-activations).
 
 ## Links
 

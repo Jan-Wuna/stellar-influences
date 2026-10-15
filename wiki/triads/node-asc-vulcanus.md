@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Asc Vulcanus`
 - Astronomicon triad-set: `g Asc §`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Vulcanus = Node](../activations/asc-vulcanus-equals-node.md)
-- [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md)
-- [Node/Vulcanus = Asc](../activations/node-vulcanus-equals-asc.md)
+- [Asc/Vulcanus = Node](../activations/asc-vulcanus-equals-node.md): base axis [Asc/Vulcanus](../axes/asc-vulcanus.md); activator [Node](../factors/node.md).
+- [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md): base axis [Node/Asc](../axes/node-asc.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Node/Vulcanus = Asc](../activations/node-vulcanus-equals-asc.md): base axis [Node/Vulcanus](../axes/node-vulcanus.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Vulcanus = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Node`: Udo Rudolph - ABC for Planetary Pictures, page `134`
-- `Node/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `82`
-- `Node/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `105`
-- `Node/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `155`
-- `Node/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `236`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Vulcanus = Node](../activations/asc-vulcanus-equals-node.md#witte-entry) (PDF entry-start p. 97); [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md#witte-entry) (PDF entry-start p. 82); [Node/Vulcanus = Asc](../activations/node-vulcanus-equals-asc.md#witte-entry) (PDF entry-start p. 155).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Vulcanus = Node](../activations/asc-vulcanus-equals-node.md#abc-entry) (printed p. 134); [Node/Asc = Vulcanus](../activations/node-asc-equals-vulcanus.md#abc-entry) (printed p. 105); [Node/Vulcanus = Asc](../activations/node-vulcanus-equals-asc.md#abc-entry) (printed p. 236).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Node`: keeping ties with forceful individuals and using their power within one's social world.
-- `Node/Asc = Vulcanus`: Influence through local connections. To be allied with influential people.
-- `Node/Vulcanus = Asc`: One’s counterpart is eager. The will to jointly accomplish something. To become enthusiastic about something together with others. To be in eagerness and excitement together with others. Others are very excited.
+Node, Asc and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Vulcanus](../axes/asc-vulcanus.md)
+- [Node/Asc](../axes/node-asc.md)
+- [Node/Vulcanus](../axes/node-vulcanus.md)
 - [Node](../factors/node.md)
 - [Asc](../factors/asc.md)
 - [Vulcanus](../factors/vulcanus.md)

@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Asc Vulcanus`
 - Astronomicon triad-set: `X Asc §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Vulcanus = Uranus](../activations/asc-vulcanus-equals-uranus.md)
-- [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md)
-- [Uranus/Vulcanus = Asc](../activations/uranus-vulcanus-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Vulcanus = Uranus](../activations/asc-vulcanus-equals-uranus.md) | [Asc/Vulcanus](../axes/asc-vulcanus.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Asc = Vulcanus](../activations/uranus-asc-equals-vulcanus.md) | [Uranus/Asc](../axes/uranus-asc.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Uranus/Vulcanus = Asc](../activations/uranus-vulcanus-equals-asc.md) | [Uranus/Vulcanus](../axes/uranus-vulcanus.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `97`
-- `Asc/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `135`
-- `Uranus/Asc = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `88`
-- `Uranus/Asc = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `117`
-- `Uranus/Vulcanus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
-- `Uranus/Vulcanus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `386`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Vulcanus = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-vulcanus-equals-uranus.md#witte-entry), one-based PDF entry-start p. `97`.
+- `Asc/Vulcanus = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-vulcanus-equals-uranus.md#abc-entry), printed p. `135`.
+- `Uranus/Asc = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-asc-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `88`.
+- `Uranus/Asc = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-asc-equals-vulcanus.md#abc-entry), printed p. `117`.
+- `Uranus/Vulcanus = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-vulcanus-equals-asc.md#witte-entry), one-based PDF entry-start p. `242`.
+- `Uranus/Vulcanus = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-vulcanus-equals-asc.md#abc-entry), printed p. `386`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus = Uranus`: abrupt fights, explosive reactions, and force that erupts without warning.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

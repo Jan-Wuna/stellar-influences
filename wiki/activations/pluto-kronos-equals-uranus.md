@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Kronos](../axes/pluto-kronos.md)
 - Triad hub: [Uranus Pluto Kronos](../triads/uranus-pluto-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF page 260 (one-based; exact activator row checked).
+
 #### Witte Entry
 
-^ Sudden decrees and enactments which moderate reform activities, make them ineffective.
+Sudden decrees and enactments which moderate reform activities, make them ineffective.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 415; PDF page 206 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Special technical developments, dominant rhythm of development, dynamic development of a hierarchy, developing new self confidence, new state changes, sudden development of authorship, and change through major reforms
+Editorial translation (checked against the scan): Special technical developments, a dominant rhythm of development, dynamic unfolding of a hierarchy, developing new self-confidence, new state changes, sudden unfolding of authority, changes through great reforms.
+
+## Comparative Schema
+
+- core meaning: Sudden enactments affecting reform, alongside dynamic hierarchy or state change.
+- psychology: New self-confidence is an ABC possibility.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Government decrees, hierarchy, and authority are explicit.
+- events/manifestations: Technical developments, sudden authority, and reforms; Witte specifically includes reforms being made ineffective.
+- conflicts/notes: An abrupt change does not necessarily mean advancement or successful reform.
+
+## Contradictions
+
+Witte's enactments curb reform; ABC includes changes through major reforms. Their different directions must remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Kronos = Uranus`: sudden advancement; Authority or capability changes through abrupt turns.
-- Practical expression: special technical developments, dominant rhythm of development, dynamic development of a hierarchy, developing new self confidence, and new state changes.
+Uranus specifies Pluto/Kronos through abrupt changes involving authority or reform. The [Witte entry](#witte-entry) is specific: sudden decrees and enactments moderate reform activities or make them ineffective. The [ABC entry](#abc-entry) instead ranges through technical development, dynamic hierarchy, sudden authority, and change through major reforms. The shared abruptness does not settle whether reform advances or is restrained.
 
 ## Links
 

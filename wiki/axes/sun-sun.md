@@ -45,6 +45,7 @@ updated_at: 2026-04-21
 
 - Axis: `Sun/Sun`
 - Astronomicon axis: `S/S`
+- Interpretation: [Read the interpretation](#derived-synthesis); related activations have their own oriented meanings.
 
 ## Source Entries
 
@@ -52,7 +53,18 @@ updated_at: 2026-04-21
 
 #### Pair Summary
 
+- Source page: PDF p. 99.
+
 The body. The living body. A physical object. The day. The daily life, the life energy, will to live, life force. The annual solar cycle. The year.
+
+## Comparative Schema
+
+- core meaning: the living body, life energy, and will to live, with an additional reference to physical objects ([Witte](#pair-summary)).
+- psychology: the summary names the will to live; it provides no further account of personality, self-image, or inner conflict.
+- body/health: bodily existence and vitality are explicit; no particular illness or health outcome is given.
+- social/relationship: the pair summary supplies no specific relationship or social-role meaning.
+- events/manifestations: daily life and the day, year, and annual solar cycle occur as source terms; the summary supplies no event-dating rule.
+- conflicts/notes: this is a repeated-factor identity supported here by one short entry. It does not establish a conflict between two different factors or a generic constructive/shadow pattern.
 
 ## Related Activations
 
@@ -81,8 +93,9 @@ The body. The living body. A physical object. The day. The daily life, the life 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on pure identity, vitality, and the person as a direct expression of selfhood.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Sun` names the source's bodily and vital theme: the living body, life energy, and the will to live. Its range also extends to a physical object and ordinary daily life. The repeated factor retains one canonical identity; the short [Witte pair summary](#pair-summary) does not supply evidence for two competing selves, a personality conflict, or a prescribed shadow expression.
+
+The source also lists the day, year, and annual solar cycle. Those terms are preserved as part of its vocabulary, without deriving a timing method or a dated event from them. More specific manifestations belong to the separately stated activations.
 
 ## Links
 

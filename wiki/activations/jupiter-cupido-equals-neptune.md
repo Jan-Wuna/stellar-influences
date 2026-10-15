@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Cupido = Neptune`
 - Astronomicon formula: `V/¡ = Y`
 - Axis page: [Jupiter/Cupido](../axes/jupiter-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 215; PDF p. 211.
+
 Marriage connected with obstacles. Mistaken investments of firms.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Joint success in metaphysics, joint success through intuition, exchange of legal community, joint joy in the Lull, uncertainty for the Gcmcinsound through money, and benefits for of a community through water
+- Source reference: printed p. 333; PDF p. 165.
+
+Shared success in metaphysics, shared success through intuition, a disappointing legal community, shared joy in the air, uncertainty for the community through money, and advantages for a community through water.
+
+## Comparative Schema
+
+- core meaning: Shared prosperity or union encounters obstacles and uncertain financial judgment, with intuitive cooperation also represented.
+- psychology: The clear ABC phrases include shared intuition and metaphysics; Witte does not provide a psychological mechanism for its obstacles.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte describes marriage with obstacles; ABC also allows shared intuitive or metaphysical success.
+- events/manifestations: Mistaken company investments, disappointing legal community, shared joy in the air, money uncertainty and benefit through water.
+- conflicts/notes: The actual ABC row confirms disappointing legal community, joy in the air and uncertainty through money; these are distinct listed expressions.
+
+## Contradictions
+
+Obstacles and disappointing legal or financial conditions coexist with success through intuition or metaphysics; neither expression erases the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Neptune`: communal happiness being clouded by illusion, uncertainty, or impractical hopes. It warns that relationship and company prosperity can be undermined when obstacles are ignored or money judgments drift out of focus.
+In `Jupiter/Cupido = Neptune`, Neptune specifies the Jupiter/Cupido axis through uncertain fulfillment and intuitive cooperation. Marriage may encounter obstacles and firms may invest mistakenly, while a community can also share success through metaphysics or intuition. Disappointing legal association and money uncertainty retain the adverse range; shared joy in the air and benefit through water remain separate source meanings. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

@@ -1,0 +1,276 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Twenty new080 Uranus/Hades full reviews. Eighteen ABC prose repairs; two ABC entries preserved (Poseidon,Vernal Point); all Witte prose preserved.",
+  "actual_source_inspection": [
+    "ABC PDF187 printed376–377 and Witte237 all twenty glyph-owned rows personally inspected.",
+    "Cupido six actual clauses replace unrelated economic/monetary-union contamination.",
+    "Apollon seven end vermehrte Gefahr erleben; following Admetos six begin Depressionen durch plötzlichen Mangel, Festigung durch überraschenden Verzicht, Kummer durch plötzliche Einschränkung.",
+    "Neptune seven include formerly omitted disadvantages through weakness and danger through water; Pluto six recover final agitation over criminality.",
+    "Moon eight recover emotional sorrow and disadvantage through emotional excitement; Asc eight restore dangerous local events/technology disadvantages; MC nine resolve Seelen-Kummer and Nachteile.",
+    "Vulcanus seven retain Macht-Verzicht as renunciation of power, Kraft zur Entbehrung as strength for privation, and Gewalt as force/violence. Zeus seven restore Führung as leadership."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-hades-equals-admetos.md",
+      "old_abc": "by sudden restriction, new disadvantages by strike, stabilizing impulses from the past, and outdated rotation technology",
+      "new_abc": "Depression through sudden lack, consolidation through surprising renunciation, sorrow through sudden restriction, new disadvantages through a strike, stabilizing impulses from the past, outdated rotation technology.",
+      "printed_page": 377,
+      "finding": "Six full clauses restored; first depression/consolidation/sorrow clauses had been absorbed into Apollon."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-apollon.md",
+      "old_abc": "Successful impulses from the past, trade in technical secrets, new secret knowledge, new knowledge about the past, sudden expansion of need, extensive technical deficiency, increased risk of experiencing depression due to sudden lack, consolidation by surprise renunciation, and grief",
+      "new_abc": "Successful impulses from the past, trade in technical secrets, new secret knowledge, new knowledge about the past, sudden expansion of need, extensive technical deficiencies, experiencing increased danger.",
+      "printed_page": 377,
+      "finding": "Seven Apollon clauses verified ending vermehrte Gefahr erleben; removed following Admetos depression/consolidation/sorrow spill."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-asc.md",
+      "old_abc": "On site activities, night work by Tcchnik on site, adverse partner stresses, new deprivations for the partner, sudden abandonment of the partner, technical deficiencies in the site, troublesome service to the partner, and defective environmental technology",
+      "new_abc": "Dangerous events at the location, disadvantages through technology at the location, adverse partner tensions, new privations for the partner, the partner's sudden renunciation, technical deficiency at the location, restless service to the partner, outdated environmental technology.",
+      "printed_page": 376,
+      "finding": "All eight clauses restored; dangerous events/technical disadvantages were mistranslated as activities/night work, partner renunciation misread as abandonment."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-cupido.md",
+      "old_abc": "Community policy, economic and monetary union, economic union, and economic and monetary",
+      "new_abc": "Danger to a technical community, shared excitement over privations, shared impulses from the past, sudden danger to a community, a technical community formed by need, surprising shared privations.",
+      "printed_page": 377,
+      "finding": "Replaced unrelated economic/monetary-union contamination with all six actual Cupido clauses, from Gefahr für eine technische Gemeinschaft through überraschende gemeinsame Entbehrungen."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-jupiter.md",
+      "old_abc": "Success through sudden renunciation, excitement of filth money, joy of old technology, inadequate rech ts impulses, new money deficiency, sudden joy of danger, sudden happiness in need, restlessness due to financial disadvantages, and hidden financial tensions",
+      "new_abc": "Success through sudden renunciation, excitement over dirty money, joy in old technology, inadequate legal impulses, a new shortage of money, sudden joy in danger, sudden good fortune in need, unrest through financial disadvantages, hidden financial tensions.",
+      "printed_page": 376,
+      "finding": "Nine clauses verified; damaged Rechts-Impulse restored as legal impulses, Schmutz-Geld retained as dirty money without imputing conduct."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-kronos.md",
+      "old_abc": "Special technical secrets, dangerous tensions in the state, great unrest by renunciation, sudden danger to the state, surprising authoritarian deficiency, unrest due to state shortages, and important impulses from the past",
+      "new_abc": "Special technical secrets, dangerous tensions in the state, great unrest through renunciation, sudden danger to the state, a surprising lack of authority, unrest over state deficiencies, important impulses from the past.",
+      "printed_page": 377,
+      "finding": "Seven clauses verified; Autoritäts-Mangel is lack of authority, not authoritarian deficiency."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mars.md",
+      "old_abc": "Excitement of dirty work, mitigating the technique of the past, dangerous surprises at work, sudden renunciation of work, tensions due to work shortage, processing technical secrets, and restlessness due to defective work",
+      "new_abc": "Excitement over dirty work, efforts concerning technology of the past, dangerous surprises at work, sudden renunciation of work, tensions over lack of work, working on technical secrets, unrest through defective work.",
+      "printed_page": 376,
+      "finding": "Seven clauses verified; Bemühungen means efforts concerning past technology, not mitigating it."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mc.md",
+      "old_abc": "Agitating Scrccn Cummers, impulses from my past, my exciting secret, my sorrow with this technique, my sudden renunciation, my technical secret, my new Night Cummers, sudden Seclen Cummers, and hidden psychic tensions",
+      "new_abc": "Agitating sorrow of the soul, impulses from my past, my exciting secret, my sorrow with technology, my sudden renunciation, my technical secret, my new disadvantages, sudden sorrow of the soul, hidden emotional tensions.",
+      "printed_page": 376,
+      "finding": "Nine clauses restored; Seelen-Kummer means sorrow of the soul, Nachteile means disadvantages, not screen/night fragments."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mercury.md",
+      "old_abc": "Excitement on criminal youth, report on dangerous events, aroused criminal youth, dangerous traffic events, language on sudden distress, language on outdated technology, new youth crime, and tension through writings from the past",
+      "new_abc": "Excitement over criminal youth, a report on dangerous events, excited criminal youth, dangerous traffic events, conversations about sudden distress, conversations about outdated technology, new youth crime, tension through writings from the past.",
+      "printed_page": 376,
+      "finding": "Eight clauses verified; Gespräche means conversations, not generic language; old-technology and historical-writings themes preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-moon.md",
+      "old_abc": "Disturbed people in need, dangerous events for a people, tension by women lack, sudden lack for a woman, unrest about the need of a people, and outdated technique of a people",
+      "new_abc": "A troubled people in need, agitation over emotional sorrow, dangerous events for a people, disadvantages through emotional excitement, tension through a lack of women, sudden lack for a woman, unrest over the distress of a people, outdated technology of a people.",
+      "printed_page": 376,
+      "finding": "Eight complete clauses restored including omitted emotional sorrow and disadvantages through emotional excitement; gendered lack-of-women wording retained as source-specific."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-neptune.md",
+      "old_abc": "plotzliche Not in the water, plotzlichcr air Mangel, Spannungen through water Mangel, Unsichcrhcit through verborgene Impulse, and verfeinerter technischer Dienst",
+      "new_abc": "Disadvantages through surprising weakness, sudden distress in water, sudden lack of air, tensions through lack of water, surprising danger through water, uncertainty through hidden impulses, refined technical service.",
+      "printed_page": 377,
+      "finding": "All seven clauses restored; formerly omitted opening weakness and water-danger clauses recovered, mixed German translated from actual scan."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-node.md",
+      "old_abc": "Dangerous events in a connection, disadvantages due to technical connections, sudden distress in a connection, sudden abandonment of a connection, surprising connection with the past, and hidden tension in a relationship",
+      "new_abc": "Dangerous events in a connection, disadvantages through technical connections, sudden distress in a connection, sudden renunciation of a connection, a surprising connection with the past, hidden tension in a relationship.",
+      "printed_page": 376,
+      "finding": "Six clauses verified; Verzicht auf eine Verbindung rendered precisely as renunciation of a connection, not involuntary abandonment."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-pluto.md",
+      "old_abc": "Dynamic development from the past, dangerous technical development, poor technical development, sudden dangerous change, and change through sudden renunciation",
+      "new_abc": "Dynamic development from the past, dangerous technical development, deficient technical unfolding, a sudden dangerous change, transformation through sudden renunciation, growing excitement over criminality.",
+      "printed_page": 377,
+      "finding": "Six clauses restored, including omitted final wachsende Aufregungen über Kriminalität; technical Entwicklung/Entfaltung distinctions retained."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-poseidon.md",
+      "old_abc": "Excitement about culture deficiency, clarity about hidden technology, lack of ideas in technology, cultural impulses from the past, sudden clarity about the past, tensions over sudden truth, and unrest by renunciation of clarity",
+      "new_abc": "Excitement about culture deficiency, clarity about hidden technology, lack of ideas in technology, cultural impulses from the past, sudden clarity about the past, tensions over sudden truth, and unrest by renunciation of clarity",
+      "printed_page": 377,
+      "finding": "All seven ABC and Witte237 clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-saturn.md",
+      "old_abc": "Excitement of privation and loss, concentration on technical deficiency, ncue problems from the past, adverse separation event, grief due to sudden losses, sudden lack of patience, and hidden technical disturbances",
+      "new_abc": "Excitement over privations and losses, concentration on technical deficiencies, new problems from the past, an adverse separation event, sorrow through sudden losses, a sudden lack of patience, hidden technical disturbances.",
+      "printed_page": 377,
+      "finding": "Seven clauses verified; ncue corrected to new and source relations preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-sun.md",
+      "old_abc": "Danger to a tcchnical centre, dangerous experience of a human being, personal impulses from the past, personal experience due to criminality, sudden danger to a man, surprising personal renunciation, and hidden tension centre",
+      "new_abc": "Danger to a technical center, a person's dangerous experience, personal impulses from the past, personal agitation over criminality, sudden danger to a man, surprising personal renunciation, a hidden center of tension.",
+      "printed_page": 376,
+      "finding": "Seven clauses verified; persönliche Erregung wegen Kriminalität is personal agitation over criminality, not an unspecified criminal experience."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-venus.md",
+      "old_abc": "Exciting love service, dangerous love event, harmonious impulses from the past, sudden harmony deficiency, sudden love despite, surprising danger to love, and hidden tensions in love",
+      "new_abc": "Exciting service in love, a dangerous event in love, harmonious impulses from the past, a sudden lack of harmony, sudden renunciation of love, surprising danger to love, hidden tensions in love.",
+      "printed_page": 376,
+      "finding": "Seven clauses verified; Liebes-Verzicht is renunciation of love, not love despite. Liebes-Dienst retained without speculative sexual expansion."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-vernal-point.md",
+      "old_abc": "dangerous events in public, public excitement about hardships, sudden distress in public, impulses from the past in public life, technical disadvantages in public life, and outdated technology in public",
+      "new_abc": "dangerous events in public, public excitement about hardships, sudden distress in public, impulses from the past in public life, technical disadvantages in public life, and outdated technology in public",
+      "printed_page": 376,
+      "finding": "All six ABC and Witte237 clauses verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-vulcanus.md",
+      "old_abc": "Dangerous influence of technology, sudden force for deprivation, powerful tensions in secret, sudden power absorption, surprising disadvantages due to violence, surprising power deficiency, and outdated technical energy",
+      "new_abc": "Dangerous influence of technology, sudden strength to endure privation, powerful hidden tensions, sudden renunciation of power, surprising disadvantages through force or violence, a surprising lack of strength, outdated technical energy.",
+      "printed_page": 377,
+      "finding": "Seven clauses verified; Macht-Verzicht is renunciation of power, not power absorption; Kraft zur Entbehrung and Gewalt range retained."
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-zeus.md",
+      "old_abc": "Beginning of hidden tensions, experiencing fire danger, joint efforts in need, technical performance community, surprising lack of goal striving, restlessness over inadequate handling, and outdated technical performance",
+      "new_abc": "Beginning hidden tensions, experiencing fire danger, shared efforts in need, a technical achievement community, a surprising lack of goal-directed striving, unrest over deficient leadership, outdated technical performance.",
+      "printed_page": 377,
+      "finding": "Seven clauses verified; mangelhafte Führung means deficient leadership, not inadequate handling; shared effort and fire danger preserved."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-hades-equals-admetos.md",
+      "sha256": "8e6d1a9e615cae8635a61700b3d7bac3ee4ce77d684015a46304ea96f901748c",
+      "source_section_sha256": "9658ddbe8805bf0b5a8cbe50d6960aa14cc10a0393a37a8009e4747bcd35728e",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-apollon.md",
+      "sha256": "8c53e5ee3104c54104756b6f9552e51b484ec07046e24c292f6119e34d42d575",
+      "source_section_sha256": "a01bd3f618b51f874c39000792ad0ec10f1f1150ff16bcd881d9d84e04c37a92",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-asc.md",
+      "sha256": "0df5f3dbd306dd47e40194c9b6509e6186bb3811f1b1e0290d0c33a89b49554a",
+      "source_section_sha256": "bdadeee5c04d890e97acd1924040c0dc1d552743d9628a02788fc5d232c88bd8",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-cupido.md",
+      "sha256": "35dcfaab3b9aea6da0a60aa30d278b571240836c5b7522b39075d513c4574e59",
+      "source_section_sha256": "f143055d229804be210c44e4d1c56c8ce6cbbc080bac137d56db9120e8e05aa1",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-jupiter.md",
+      "sha256": "69194e13d61302344b7ffe76f6050288fd17ac8d4b3c9a185afd28e1767648c8",
+      "source_section_sha256": "5d55adc86052407f1457c08c13a73ef69a50115e4f6a0bbb79e5ec3abc1032db",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-kronos.md",
+      "sha256": "dd92fa0d33e14a054c98fbbb89997006b10247416ae4d589ea2214923460f5a1",
+      "source_section_sha256": "3c7beb6b4b40ef21bd2f60b611242f0715bb90cd2ede225976d6fc1fc8349d62",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mars.md",
+      "sha256": "c2ee49d29c991ef6ea535032f6fc34ae6542bf52a459f9ed874823789763659c",
+      "source_section_sha256": "0fd9e5b17276be137388f636ab165c9ec80268ebd800e911670b61934181d270",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mc.md",
+      "sha256": "12f15bead9696986eb7bcbeb8dc253168bd735ccee2bd91603c8d2c492f3b608",
+      "source_section_sha256": "402bbdc597e301732c867984697fb246e988737b8902cf33b5d2a1c201980ecd",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-mercury.md",
+      "sha256": "caec1d23cdabff7e773a12f49befeb34d04b1d66aba61978ddae29a89900fc0d",
+      "source_section_sha256": "91d7bcf969581934387e5020a850aba3b1c4d4f477840779c613f0fb95a04845",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-moon.md",
+      "sha256": "cabe38a651e104a93a19fe00f26ec8360a5f857979fc5c9e51a217ed47c2fcac",
+      "source_section_sha256": "482ad193c3e392e49ceb329c702cccbc0976123e70e5c991ddb475074344f632",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-neptune.md",
+      "sha256": "fce7236d49f7e7084b5459815ae3c4e282f21b02dbc2852b36aee9ccc332b40f",
+      "source_section_sha256": "65ad30e4dc00f9404e424c99becfed4cda04dceee1b6ea14a409988b5f3cb524",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-node.md",
+      "sha256": "fc4f5e10ed97b726529bc8ec4cef1a98e237b25b498261ab41e46420e8b8f222",
+      "source_section_sha256": "54094e4d724aaada4b2a32257a957a0f44165c01e26ba7fcb55303a410bf7de0",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-pluto.md",
+      "sha256": "df4c1c53323efa5468abf6443b572225e8792d23ff6ad9a0fcb3a14e33a16bfb",
+      "source_section_sha256": "200b4fdea11ddd9664618ff957b4be62bd6c11d5592001827cedf2ea6df6b487",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-poseidon.md",
+      "sha256": "1b13376287f644555dd4414386b511708cf055b14a32017e3f988c41836780da",
+      "source_section_sha256": "ee5a2cf9290cfe243cc2d522d6367ea94fd13b3c9046241c8fdb2bbf0015d3a3",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-saturn.md",
+      "sha256": "35f6eb292287fc201bd18ad0f5365ff0c7b702e63fcd4b1816488b8a7eac268c",
+      "source_section_sha256": "e4dee593bf906c24390d033f3c19b2841f772721516965002a3774555287c515",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-sun.md",
+      "sha256": "43d39357adf8a6cecb18d45b614b72342c7ac35d1e13b86112a3c17344ed1647",
+      "source_section_sha256": "71b12b287cbda5206a82a3aafe925605d0aefbed9d112fcb7cc7af2939704265",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-venus.md",
+      "sha256": "17b67589d919320ab2bd660f4277fa3d41acc975391ea896e774271edf68eaa4",
+      "source_section_sha256": "92c672204bff8734f48f1622dd6918c83b82603a2e97b1c34276d7d0bf2f881d",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-vernal-point.md",
+      "sha256": "932f5be1486ec0fda62dcd9daa33babf1928b2d4d66e1a6c0a6361dc00d0a3aa",
+      "source_section_sha256": "8404c054224448fc4e75e4918c19bf98ae87fdbdf0c79094b16da263e13d37f9",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-vulcanus.md",
+      "sha256": "9cfc31dd99bb35a8a27510ede8a4cedafc5346665816c46440e802e679279db7",
+      "source_section_sha256": "c0a675db15363334bf1f330dfcbf96b5abc5295b5f7217ee7bc82d90b5c6715e",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-hades-equals-zeus.md",
+      "sha256": "8dd04560ed9a9e673b4e0144dfb0fad254b443a69d549019eddeb70225276a4f",
+      "source_section_sha256": "3cb74eecb19d87940a3a7c36b36aeb37f609192c9c48f9ee040b8db146b31b69",
+      "outcome": "changed"
+    }
+  ]
+}

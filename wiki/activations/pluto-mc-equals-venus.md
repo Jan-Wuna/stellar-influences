@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/MC](../axes/pluto-mc.md)
 - Triad hub: [Venus Pluto MC](../triads/venus-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 69 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To develop harmoniously. To get into a pleasant mood.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 82; PDF page 40 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Stirred art, harmonious soul Development, I old age the art, my peaceful development, my change through the art, my transformation through love, soul harmony develop, and transformation of the soul through love
+Editorial translation (checked against the scan): Soulful artistic development, harmonious development of the soul, I change art, my peaceful development, my changes through art, my transformation through love, developing harmony of the soul, transformation of the soul through love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: Printed page 298; PDF page 300 (one-based; coded activator entry checked).
 
 #### Ebertin Entry
 
 An unusual power of attraction, unusually strong attachments.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 118 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Powerful urges to become rich and famous so that others can notice you; demands 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Harmonious personal development alongside strong attraction and the need for respect.
+- psychology: Pleasant mood and inner harmony can coexist with intense insecurity in love.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Strong attachments, attraction to power or social standing, and desire to be admired.
+- events/manifestations: Development through art or love; pursuit of fame, wealth, or high fees are Munkasey examples.
+- conflicts/notes: Attraction and harmony do not guarantee mutual security or a successful relationship.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's pleasant development and Sandbach's insecure attachment differ in emphasis; they must not be flattened into assured partnership regeneration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/MC = Venus`: compelling public appeal, regenerative partnership in career, and the power to transform status through social and aesthetic intelligence. Main caution: seductive politics: image and affection can become tools of control, fixation, or manipulation.
+Venus specifies Pluto/MC through development involving pleasure, art, attachment, or social attraction. Harmony in the [Witte entry](#witte-entry) and transformation through love or art in [ABC](#abc-entry) coexist with unusually strong attachments in [Ebertin](#ebertin-entry). The need for respect may make love insecure or draw the person toward power in [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry) adds attraction to social standing and a wish for wealth or fame. The strength of appeal therefore does not establish mutual security or justify treating affection as manipulation.
 
 ## Links
 

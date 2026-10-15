@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Apollon](../axes/asc-apollon.md)
 - Triad hub: [Mars Asc Apollon](../triads/mars-asc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 Business activities. To receive business orders. To be commissioned for research.
 
+Source reference: one-based PDF p. 95, “Asc + Apollon,” Mars row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful activity of others, experience in environmental work, successful environmental work, partner efforts to create freedom, scientific environmental experience, environmental efforts of science, and environmental success
+Successful activity of others, experiences in work within the surroundings, successful work within the surroundings, a partner's efforts toward freedom, scientific experiences of the surroundings, scientific efforts within the surroundings, and creating successes in the surroundings.
+
+Source reference: printed p. 130 (one-based PDF p. 64), “Aszendent + Apollon,” Mars row; checked on the actual scan.
+
+## Comparative Schema
+
+- **Core meaning:** Business activity, commissioned research, and successful work involving others or the surroundings ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** ABC includes a partner's efforts toward freedom; neither entry describes a general motivational style.
+- **Body/health:** Neither entry supplies a body or health claim.
+- **Social/relationship:** Business orders or commissions and other people's successful activity connect the work with others.
+- **Events/manifestations:** Receiving business orders, research commissions, and successful scientific or practical work are explicit examples.
+- **Conflicts/notes:** Work or scientific experience within the surroundings does not identify a specialized ecological discipline; workload strain is not stated.
+
+## Contradictions
+
+Both entries connect the formula with activity and results involving others. ABC adds efforts toward freedom and scientific experience; these additions do not contradict the business and research examples, but they are not independently corroborated here.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Mars`: commercial movement, operational demands, and a near environment energized by assignments, production, or applied investigation. Main caution: overextension through activity: the network grows by workload, and contacts can become purely functional or demanding.
+In `Asc/Apollon = Mars`, Mars specifies the pair through work that becomes an assignment or produces results with others. Business orders and commissions for research make the relationship concrete: contact with the surroundings takes the form of active commercial or scientific work. ABC adds successful activity by others and a partner's efforts toward freedom, without specifying workload or relationship strain. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

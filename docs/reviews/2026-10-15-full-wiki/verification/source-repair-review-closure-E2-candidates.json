@@ -1,0 +1,75 @@
+{
+  "parent_queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-E-queue.json",
+  "parent_queue_sha256": "a6019c49446fe769b94cab74b5b316e41063c3c1d6aabde6b9481aa6d1a7e56a",
+  "paths": [
+    {
+      "path": "wiki/factors/asc.md",
+      "queue_index": 108,
+      "before_sha256": "7c3e2a879856dfa1cb2281b0d06b64d13873525b19d05a9c297b3fe1bebeb893",
+      "after_sha256": "f26705817afea705394efa9c57e7345e0511b725419222872960d7ca77ed680a",
+      "ledger": "factors-001.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mars.md",
+      "queue_index": 110,
+      "before_sha256": "d9f49bd646042180dbcbc52d7681087a19d9d48643347d7dde3e3634bc810bc2",
+      "after_sha256": "12a402b2f3f2043e7e45a281129ef80f9a4da790d04f4811debc6765543054be",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mc.md",
+      "queue_index": 111,
+      "before_sha256": "7dcb12a6fe3760f07d4a0533478d485ce1f01ef8ef56a0ce842cdd3ee2b725cb",
+      "after_sha256": "1db73963d20caa29c06701b0a63c3286e6ba7ea10a6ea5de3d7a0457ff79dcdd",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/mercury.md",
+      "queue_index": 112,
+      "before_sha256": "afb01052415a3bdbfd8b2e89adacc297aceefb35baa53af7384cc624bab96946",
+      "after_sha256": "5851b25f0b775dbd7c1c617f489521d355dc67c719147deba1798754a406f7b8",
+      "ledger": "factors-003.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/neptune.md",
+      "queue_index": 114,
+      "before_sha256": "b8b3d015dd18eb528173c84e324bab5e36272f98481a2959fd3dedbd4f795054",
+      "after_sha256": "b1b0333ee0eb1414e7247a4590f74810b213def481acbb31671d3c1a1232fba8",
+      "ledger": "factors-004.jsonl",
+      "ledger_line": 2,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/pluto.md",
+      "queue_index": 115,
+      "before_sha256": "65b0eb3b4c2ca49e0182996867dd72157633dba5ccc39678553b42f4c59d8e5c",
+      "after_sha256": "57269f82b55373f4c9ae86e4b2f2e13e394a0748432f37ed5636c46fd47a6bdf",
+      "ledger": "factors-005.jsonl",
+      "ledger_line": 1,
+      "source_entries_unchanged_from_baseline": false
+    },
+    {
+      "path": "wiki/factors/saturn.md",
+      "queue_index": 116,
+      "before_sha256": "d58a8e8c933df159e7dfe51b87d9df2af6651f304ae04c71a0899b697f3215c5",
+      "after_sha256": "eaee095da38f5c335396afbe63a1b9348fa8086ddff3f311fa05868fee2f5416",
+      "ledger": "factors-005.jsonl",
+      "ledger_line": 3,
+      "source_entries_unchanged_from_baseline": false
+    }
+  ],
+  "generated_at": "2026-10-15T14:30:34.630Z",
+  "verifier": "/root/axis_review",
+  "closure_editor": "/root/activation_review_045_066",
+  "scope": "Root-authorized seven remaining factor targets under author045066; reuse accepted prior bounded source checks, verify only new flagged Hand blocks/refs and exact current source/owner bindings.",
+  "parent_original_manifest": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-E-candidates.json",
+  "active_partition": "E2"
+}

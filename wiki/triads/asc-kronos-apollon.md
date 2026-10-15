@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Asc Kronos Apollon`
 - Astronomicon triad-set: `Asc ¤ ¥`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Asc/Apollon = Kronos](../activations/asc-apollon-equals-kronos.md)
-- [Asc/Kronos = Apollon](../activations/asc-kronos-equals-apollon.md)
-- [Kronos/Apollon = Asc](../activations/kronos-apollon-equals-asc.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Apollon = Kronos](../activations/asc-apollon-equals-kronos.md) | [Asc/Apollon](../axes/asc-apollon.md) | [Kronos](../factors/kronos.md) |
+| [Asc/Kronos = Apollon](../activations/asc-kronos-equals-apollon.md) | [Asc/Kronos](../axes/asc-kronos.md) | [Apollon](../factors/apollon.md) |
+| [Kronos/Apollon = Asc](../activations/kronos-apollon-equals-asc.md) | [Kronos/Apollon](../axes/kronos-apollon.md) | [Asc](../factors/asc.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Asc/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `131`
-- `Asc/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `94`
-- `Asc/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `129`
-- `Kronos/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `460`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Asc/Apollon = Kronos` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-apollon-equals-kronos.md#witte-entry) | one-based PDF p. 95 (entry start); printed page not established |
+| `Asc/Apollon = Kronos` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-apollon-equals-kronos.md#abc-entry) | printed p. 131; PDF p. 64 |
+| `Asc/Kronos = Apollon` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-kronos-equals-apollon.md#witte-entry) | one-based PDF p. 94 (entry start); printed page not established |
+| `Asc/Kronos = Apollon` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-kronos-equals-apollon.md#abc-entry) | printed p. 129; PDF p. 63 |
+| `Kronos/Apollon = Asc` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-apollon-equals-asc.md#witte-entry) | one-based PDF p. 299 (entry start); printed page not established |
+| `Kronos/Apollon = Asc` | [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-apollon-equals-asc.md#abc-entry) | printed p. 460; PDF p. 229 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Kronos`: noble customers, formal technical education, and immediate contact with elevated or specialized environments.
-- `Asc/Kronos = Apollon`: service under authority in scientific, technical, or intellectually specialized work, often as assistant or subordinate expert.
-- `Kronos/Apollon = Asc`: being rated above others for knowledge, experience, or ability, and moving in the company of major scientific or intellectual authorities.
+Use this hub to choose the exact orientation for the unordered set `Asc Kronos Apollon`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Neptune Apollon`
 - Astronomicon triad-set: `T Y ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Apollon = Neptune](../activations/mercury-apollon-equals-neptune.md)
-- [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
-- [Neptune/Apollon = Mercury](../activations/neptune-apollon-equals-mercury.md)
+- [Mercury/Apollon = Neptune](../activations/mercury-apollon-equals-neptune.md): base axis [Mercury/Apollon](../axes/mercury-apollon.md); activator [Neptune](../factors/neptune.md).
+- [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md): base axis [Mercury/Neptune](../axes/mercury-neptune.md); activator [Apollon](../factors/apollon.md).
+- [Neptune/Apollon = Mercury](../activations/neptune-apollon-equals-mercury.md): base axis [Neptune/Apollon](../axes/neptune-apollon.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Apollon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
-- `Mercury/Apollon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `263`
-- `Mercury/Neptune = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `164`
-- `Mercury/Neptune = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `251`
-- `Neptune/Apollon = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `251`
-- `Neptune/Apollon = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `400`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Apollon = Neptune](../activations/mercury-apollon-equals-neptune.md#witte-entry) (PDF entry-start p. 170); [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md#witte-entry) (PDF entry-start p. 164); [Neptune/Apollon = Mercury](../activations/neptune-apollon-equals-mercury.md#witte-entry) (PDF entry-start p. 251).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Apollon = Neptune](../activations/mercury-apollon-equals-neptune.md#abc-entry) (printed p. 263); [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md#abc-entry) (printed p. 251); [Neptune/Apollon = Mercury](../activations/neptune-apollon-equals-mercury.md#abc-entry) (printed p. 400).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Neptune`: makes the axis intuitive but also vulnerable to disappointment.
-- `Mercury/Neptune = Apollon`: expands the axis into highly sensitive intuitive science.
-- `Neptune/Apollon = Mercury`: This activation interprets `Neptune/Apollon` through mistaken thought, misleading speech, and the attempt to unmask error. It makes big uncertainty cognitive, so the axis works through conversations, explanations, theories, and the tension between confusion and correction.
+Mercury, Neptune and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Apollon](../axes/mercury-apollon.md)
+- [Mercury/Neptune](../axes/mercury-neptune.md)
+- [Neptune/Apollon](../axes/neptune-apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Neptune](../factors/neptune.md)
 - [Apollon](../factors/apollon.md)

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `213`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Successful creation. Fortunate activity. To bring good luck and benefits. Benefi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `336`; PDF page: `167` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Success rciches Zidstrcben, Vinanz Future, financial effort, money performance, design joy, happiness through procreation, gu'te Leishmg, Listungs joy, legal effort, and legal design
+German pair summary (transcribed from printed page `336`; PDF page `167`):
+
+> Erfolgreiches Zielstreben, Finanz-Führung, finanzielle Anstrengung, Freuden-Feuer, Geld-Erzeugung, Geld-Leistung, Gestaltungs-Freude, Glück durch Zeugung, gute Leistung, Leistungs-Freude, Rechts-Anstrengung, Rechts-Gestaltung
+
+Editorial translation from the German passage: Successful pursuit of a goal, financial leadership, financial effort, fire of joy, generation of money, financial performance, joy in shaping or creating, happiness through procreation, good performance, joy in achievement, legal effort, shaping law or rights.
+
+## Comparative Schema
+
+- **Core meaning:** Successful creation and activity that produces benefits ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** A disposition toward productive activity is supported; the entry does not establish a cheerful temperament or a general personality profile.
+- **Body/health:** Successful procreation is a source claim within the creative range, not a fertility assessment or medical prediction.
+- **Social/relationship:** Bringing benefits and beneficial acts are explicit; the less usual phrase `To be compelled to give` is retained without assuming voluntary generosity.
+- **Events/manifestations:** Producing something, money through creativity, and success connected with machines supply concrete expressions of beneficial activity.
+- **Conflicts/notes:** The pair summary includes both successful activity and compelled giving without explaining their relationship. ABC separately names financial leadership and effort, generative or creative joy, performance, and legal effort or shaping law.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Success rciches Zidstrcben, Vinanz Future, financial effort, money performance, 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Zeus`: fortunate enterprise: successful work, productive initiative, profitable creation, beneficial action, and money or growth generated through making, building, or procreating.
-- Chart expression: luck that becomes active and generative rather than passive. It favors cheerful industry, fertile effort, creative output, machinery or production, and the feeling that benefits come through doing, producing, and successfully directing energy.
+Jupiter/Zeus describes benefit produced through activity: creating something, working successfully with machines, or gaining money through creativity. Successful creation, beneficial acts, and procreation belong to the source's broader generative theme, in which action brings something useful or fortunate into being ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). The entry also mentions being compelled to give, so benefit is not always described as freely chosen generosity; ABC's separate list does not explain that qualification.
 
 ## Links
 

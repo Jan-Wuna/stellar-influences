@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Sun`
 - Astronomicon formula: `Q/¦ = S`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 To remain in rest, able to wait. Relaxation. Longing to be alone.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Perseverance of the man in love, End of love of the man, Limitation by preference of the marm, Consolidation by love of the man, strengthened man of the artificial, profound affection of a man, and I Iamwnie in a art center
+- Source page: 292 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+The man's perseverance in love, the end of love for a man, restriction through the man's preferences, consolidation through love for a man, a steady man of art, thorough affection of a man, and harmony in an art center.
+
+## Comparative Schema
+
+- Core meaning: Rest, waiting, and personal depth in love.
+- Psychology: Relaxation and longing for solitude.
+- Body/health: No specific health claim.
+- Social/relationship: Historical man-language; enduring or ended love.
+- Events/manifestations: Harmony in an art center.
+- Conflicts/notes: Solitude is explicit; it does not establish an inability to love.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Solitude is explicit; it does not establish an inability to love.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Sun`: to remain in rest, able to wait.
-- Practical expression: perseverance of the man in love, end of love of the man, limitation by preference of the marm, consolidation by love of the man, and strengthened man of the artificial.
+Sun specifies Venus/Admetos through a person able to remain still, wait, and seek solitude. ABC retains enduring affection and artistic steadiness alongside the end or restriction of love. These expressions connect personal repose with depth and limits in attachment without making solitude equivalent to lovelessness. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

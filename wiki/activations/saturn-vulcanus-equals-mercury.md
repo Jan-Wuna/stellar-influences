@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Mercury Saturn Vulcanus](../triads/mercury-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To concentrate. Talk or report about energy problems. Report on energy losses or
 
 #### ABC Entry
 
-Reports about huge tasks, discussing energy problems, reporting energy losses, thoughts about deadlocking violence, talking about power concentration, huge traffic problems, concentrated youth violence, and strong traffic disruptions
+Reports about immense tasks, discussing energy problems, reporting energy losses, thoughts about disruptive violence, discussions about concentration of power, immense traffic problems, concentrated youth violence, and severe traffic disturbances.
+
+## Comparative Schema
+
+- core meaning: Concentration and communication about energy, power and burdens.
+- psychology: Thought focused on disruptive force or concentrated power.
+- body/health: No specific bodily or medical claim is supplied.
+- social/relationship: Discussions of power and reports of energy losses.
+- events/manifestations: Large tasks, traffic problems and disturbances; ABC also names youth violence.
+- conflicts/notes: Reporting on a problem is distinct from causing it.
+
+## Contradictions
+
+The entries overlap in concentrated thought and reporting; ABC's traffic and violence examples extend the subject matter without contradicting Witte.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Mercury`: to concentrate, talk or report about energy problems, report on energy losses or shortages.
-- Practical expression: reports about huge tasks, discussing energy problems, reporting energy losses, thoughts about deadlocking violence, and talking about power concentration.
+Mercury specifies Saturn/Vulcanus through concentrated thought, discussion and reporting about demanding tasks or limited energy. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) identifies losses and shortages as subjects of communication; the [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) adds concentrated power, disruptive violence and major traffic problems. The common thread is attention directed at force and constraint, without implying that the person reporting them caused the difficulty.
 
 ## Links
 

@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Sun`
 - Astronomicon formula: `S/Y = S`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -41,22 +43,21 @@ Your personal determination to not avoid methods, procedures, or ideas which are
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Determination and faith applied to visualizing future action.
+- psychology: Commitment to dreams without avoiding important methods, procedures, or ideas.
+- body/health: No bodily condition is stated.
+- social/relationship: No specific relationship pattern is established.
+- events/manifestations: Planning and visualizing future paths of action.
+- conflicts/notes: One repeated-factor entry does not establish an independent third-factor theme.
 
 ## Contradictions
 
-- None recorded yet.
+- There is one account and no opposing passage to compare. Its confidence in planning is not a promise that a vision succeeds.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Sun`: one's personal determination to not avoid methods, procedures, or ideas which are important; the faith one bring to one's dreams and visions of the future; adds to one's ability to plan and visualize future paths of action.
+Sun specifies the Sun/Neptune axis, in this repeated-factor entry, as personal determination to keep a vision connected with important methods and ideas. Faith in the future supports the ability to plan and visualize a path of action. [Munkasey Entry](#munkasey-entry) describes commitment to that process rather than guaranteed fulfillment.
 
 ## Links
 

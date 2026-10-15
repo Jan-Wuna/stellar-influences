@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Zeus Apollon](../triads/venus-zeus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Passive vote. To be elected.
 
@@ -42,13 +46,27 @@ Passive vote. To be elected.
 
 #### ABC Entry
 
-Beginning peace success, successful love sacrifice, creative arts knowledge, trade with arts scaping, Harrnonia success through goal striving, preference for knowledge creating achievements, and procreation experiences in love
+- Source page: 287; PDF page: 142 (one-based spread).
+
+Beginning successes in peace, successful procreation in love, creative artistic knowledge, trade in artistic creations, success in harmony through striving toward a goal, preference for achievements that create knowledge, and procreative experiences in love
+
+## Comparative Schema
+
+- core meaning: Being elected alongside successful creative, peaceful, or knowledge-producing effort.
+- psychology: Goal striving is explicit; no broader disposition is supplied.
+- body/health: Procreation is historical source doctrine, not a medical prediction.
+- social/relationship: Witte names being elected; ABC names procreative experience in love.
+- events/manifestations: Peace successes, creative art knowledge, and trade in artistic creations.
+- conflicts/notes: Passive vote is source wording without a supplied explanation; love sacrifice was a mistranslation of Liebes-Zeugung.
+
+## Contradictions
+
+Election and artistic or procreative success are different applications. The short Witte entry does not establish why or how an election occurs.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Apollon`: passive vote.
-- Practical expression: beginning peace success, successful love sacrifice, creative arts knowledge, trade with arts scaping, and harrnonia success through goal striving.
+In `Venus/Zeus = Apollon`, Apollon specifies the pair through a wider field of successful or productive activity. The [ABC entry](#abc-entry) connects peace successes, creative knowledge, trade in art, and goal-directed harmony, retaining procreation as a separate historical example. The [Witte entry](#witte-entry) adds being elected and the unexplained phrase passive vote. That civic example remains visible without inventing an electoral mechanism or merging it with every creative undertaking.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Pluto Admetos`
 - Astronomicon triad-set: `Q Z ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Pluto/Admetos = Venus](../activations/pluto-admetos-equals-venus.md)
-- [Venus/Admetos = Pluto](../activations/venus-admetos-equals-pluto.md)
-- [Venus/Pluto = Admetos](../activations/venus-pluto-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Admetos = Venus](../activations/pluto-admetos-equals-venus.md) | [Pluto/Admetos](../axes/pluto-admetos.md) | [Venus](../factors/venus.md) |
+| [Venus/Admetos = Pluto](../activations/venus-admetos-equals-pluto.md) | [Venus/Admetos](../axes/venus-admetos.md) | [Pluto](../factors/pluto.md) |
+| [Venus/Pluto = Admetos](../activations/venus-pluto-equals-admetos.md) | [Venus/Pluto](../axes/venus-pluto.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Pluto/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `262`
-- `Pluto/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `418`
-- `Venus/Admetos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
-- `Venus/Admetos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `293`
-- `Venus/Pluto = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `281`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Pluto/Admetos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-admetos-equals-venus.md#witte-entry), one-based PDF entry-start p. `262`.
+- `Pluto/Admetos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-admetos-equals-venus.md#abc-entry), printed p. `418`.
+- `Venus/Admetos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-admetos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `187`.
+- `Venus/Admetos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-admetos-equals-pluto.md#abc-entry), printed p. `293`.
+- `Venus/Pluto = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-admetos.md#witte-entry), one-based PDF entry-start p. `181`.
+- `Venus/Pluto = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-admetos.md#abc-entry), printed p. `281`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Venus`: This activation emphasizes to experience a pleasant change in the existing conditions.
-- `Venus/Admetos = Pluto`: change through a deep love.
-- `Venus/Pluto = Admetos`: favor and preferment are the exception.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

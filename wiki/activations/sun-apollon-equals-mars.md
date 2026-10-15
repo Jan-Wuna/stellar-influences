@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Mars Apollon](../triads/sun-mars-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Success in peaceful industrial or scientific activity.
 
@@ -42,13 +46,27 @@ Success in peaceful industrial or scientific activity.
 
 #### ABC Entry
 
-Actions of a science center, expansion of personal activity, actions of an experienced person, creating human freedom, personal activity experiences, and personal knowledge
+Source locator: printed page 166; PDF page 82 (one-based).
+
+Actions of a science center, expansion of personal activity, actions of an experienced person, creating human freedom, personal activity experiences, and creating personal knowledge.
+
+## Comparative Schema
+
+- core meaning: Successful peaceful activity in industry or science, with expanding experienced action.
+- psychology: Experience and the creation of personal knowledge are explicit.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Creating human freedom is an ABC aim.
+- events/manifestations: Scientific-center activity, expanded personal work and knowledge creation.
+- conflicts/notes: Witte explicitly specifies peaceful activity; fighting success is not established locally.
+
+## Contradictions And Comparison Notes
+
+Both entries include scientific activity. ABC adds expanded personal action, experience and freedom without contradicting Witte's peaceful qualification.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Mars`: successful in active pursuits or successful fighting and action.
-- Practical expression: actions of a science center, expansion of personal activity, actions of an experienced person, creating human freedom, and personal activity experiences.
+For `Sun/Apollon = Mars`, success is expressed through experienced, productive activity. [Witte](#witte-entry) explicitly names peaceful industrial or scientific work; [ABC](#abc-entry) adds the actions of a scientific center, expansion of personal activity and the creation of freedom or knowledge. The common focus is what experienced action accomplishes, with peaceful work retained as Witte's actual qualification rather than replaced by an unsupported fighting interpretation.
 
 ## Links
 

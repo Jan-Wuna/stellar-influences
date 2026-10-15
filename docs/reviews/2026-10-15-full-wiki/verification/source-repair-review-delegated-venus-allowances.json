@@ -1,0 +1,242 @@
+[
+  {
+    "path": "wiki/activations/venus-zeus-equals-admetos.md",
+    "before_sha256": "4618f14bd466d359bfe104001643c81078bd20c6840f8b0ed6533c37ecf0b1cd",
+    "after_sha256": "c93d976332a55590667d39d762bba225b7e88435f4775c853f747a3b5bc7eb67",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. The full seven-clause Admetos ABC row restores Liebes-Zeugung as procreation, ending peace efforts, thorough efforts/achievements and deepening harmonious leadership; no following Vulcanus row is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-apollon.md",
+    "before_sha256": "7a41b21199f97ab48653bbd66cc9ef6191e8ddb56651b3dea77fe5efebba888c",
+    "after_sha256": "6c2127992dc3342e527d8bc2362de1ea4ae4560e8aa3c4dab3c2b404763c189e",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. The seven-clause Apollon ABC row supports procreation rather than sacrifice; artistic creations, knowledge-creating achievements and procreative experiences are retained without borrowing the adjacent Kronos or Admetos row.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-asc.md",
+    "before_sha256": "0688952ffc12f53423f2ed38c624621ab97d5b75f5df72c138355979ebf2b6a6",
+    "after_sha256": "b1def4179c89dd426bd48210d6409ba6832d0b1683d7965a2b56af63392306ae",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. The seven-clause Asc ABC row supports striving for harmony, not strife; Ort für Kunst-Gestaltung is a place for artistic creation, and the final partner-achievement clause is retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-cupido.md",
+    "before_sha256": "d2e790b9f87f5a10eaf95d6182293ea1a6d2e38d5d0bd53e54dcf60b75bd7803",
+    "after_sha256": "34a3014ba2cdb055aa009514fe0b7f9fbe80f9f669f9efc11781af84d7d688d6",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All six ABC Cupido clauses match: shared efforts are gemeinsame Anstrengungen, not lonesome efforts; the row ends with preference for shared achievements before Hades.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-hades.md",
+    "before_sha256": "b05e0ca6128331a5857219f4726f52b4e682e044fe295bc52678e1dd7e52ee6b",
+    "after_sha256": "c0a0facc4a324b606436dd220b50e7c30b857010c8df79c2035a666810c58245",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All seven ABC Hades clauses match. The final Verzicht auf Liebes-Zeugung concerns renunciation of procreation in love, not renunciation of denial; historical Witte grief/illicit-procreation wording remains unchanged.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-jupiter.md",
+    "before_sha256": "878fd44203a7eab1f528a330b5bea00c8ead0860f5ef8b1d6244b67e335542f3",
+    "after_sha256": "ff3f77503394c90f697c5f988f5f7d3da99845138481dfbd6c5a1ed37306c5d7",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Jupiter clauses match: successful peace efforts, procreation in love, financial striving, peace law, achievement, monetary contributions and harmony advantage remain within their exact row.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-kronos.md",
+    "before_sha256": "fa6eeb2ecd3225940c89dd8fd5c88a7873123fea74b74ad5165023f861d6839e",
+    "after_sha256": "3515f24e7914de9c7113deef70c5a1c71b2a31aa6f4e46df5e9ee508315a029c",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All nine ABC Kronos clauses match: besondere Liebes-Zeugung is procreation, selbständige Kunst-Richtung independent artistic direction, and the state/art and superior-harmony clauses are preserved.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-mars.md",
+    "before_sha256": "10c6c2cb29c43c295c49ef3deaf50fe547723f3fe062b3825d022b421a0ff1ac",
+    "after_sha256": "a6724ec4bc5044950362d0ae38a4d5130caa7f7c33863e30ae2b7bf5b9d3bde5",
+    "ledger": "activations-091.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Mars clauses match: beginning peace work, workplace peace, loving actions, harmony, leadership, creative work, achievement and Zeugungs-Bemühungen as procreative efforts rather than empathy.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-mc.md",
+    "before_sha256": "18777c8583b4039ffe8f2a782a960ce0551aa35918c5c43c70e59a77a0439cfd",
+    "after_sha256": "0c4c706186aeaa2f732ab6365d397f74fde4c9005995d6621e76a199a85034e8",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All ten ABC MC clauses match the complete first-person row: opening soulful creation/procreation, minute of procreation, harmony, creative soul, fire, peaceful goals, art and soul harmony. No Vernal Point or Asc spillover.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-mercury.md",
+    "before_sha256": "e643b749b7c61458581f7cb497b5d0e7ccd364305af10adf3fb0988a39d6b5f2",
+    "after_sha256": "7c8b3ff309bf8711ce0116dcae054163b0ad0dcc26c7a72f815c3281d6cc8d1e",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Mercury clauses match: demanding peace conversations, youth, harmonious conversations/traffic direction, artistic conversation, language beauty and creative media art.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-moon.md",
+    "before_sha256": "2b80768fceb8a543933d735807dd0d73b083f1380c8bc24affde90db6d82d700",
+    "after_sha256": "fd1f849ef91e915985dc8c8716100bcc86c93fedf7ce506d34a7ab2725e1b98b",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Moon clauses match: emotional striving, creative art and procreation replace the former stretching/witnessing mistranslations; folk-art and peace efforts of a people remain in the same row.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-neptune.md",
+    "before_sha256": "79a76a94d8665c62134e6a3205c8eb729166c1e171ad8e697782e9c25cec6fa5",
+    "after_sha256": "1fb3614b55f02289b2b4d51abea28b768439de49c37db3f6229ed2d36d9958bd",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Neptune clauses match, including the formerly omitted metaphysical artistic creation; feinfühlige Liebes-Zeugung is bounded to sensitive procreation and the row ends before Pluto.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-node.md",
+    "before_sha256": "c5e5e45dd2f258806888d1084330742c9d475f39361f3ce2f40602626e1bedbd",
+    "after_sha256": "a76369f94c7fd086a806fcf004c03461c15e78fdf84645ee91675be758ff9c20",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All seven ABC Node clauses match; Kunst and Kunst-Richtung mean art and artistic direction, not artificiality. The final procreation clause ends before Mercury.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-pluto.md",
+    "before_sha256": "da9f8af3eed46a2f362a80983769ef34db48da55a1d988aeda6b6dea6c82a285",
+    "after_sha256": "c4d15542452b00cf77adbc309cf772e998c3f2d2075c1c67eae16f0b922eb901",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Pluto clauses match; artistic achievements are not artificial performances, and wechselnde Kunst-Gestaltung supports changing artistic creation in the final clause.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-poseidon.md",
+    "before_sha256": "03ec93caae1cfd72dc96b290747956285fcfd55e756f128abada16f3c49da1db",
+    "after_sha256": "59de1dee6a893e6d072801d4ba25988a2d4d1898f9347cfe52d05b22d6387c8d",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. Both source prose blocks are unchanged. All eight ABC Poseidon clauses match the exact row ending schöpferische spirituelle Kunst; the new locator is independently checked in ABC as well as Witte. Witte actually prints its awkward philosophical-or-ideas wording.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-saturn.md",
+    "before_sha256": "9efd23226c7bf855027b27663b0a13676da37c499c4e4acf6d65ccf78bbbdbd0",
+    "after_sha256": "1f03ac209e1e8edee6969021ca2b7b0da4a1d46df26eff5b6b8ea0f8fa3a06a0",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All nine ABC Saturn clauses match; gestörtes Friedens-Streben is disturbed striving for peace, not strenuous peace. Both old-age clauses and the final problematic art achievement are retained.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-sun.md",
+    "before_sha256": "32437176b8ceb6c616f9d9273cf280b320a037048a56437caa4bdd43d82dafe0",
+    "after_sha256": "3dd446c2fe8cd6332cf2ee236152d6f401e71a9745a242a698af247ffdd535de",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All eight ABC Sun clauses match: Friedens-Streben and Harmonie-Streben are striving, körperliche Liebes-Zeugung is bodily procreation, and bodily beauty/achievement clauses remain as source claims.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-uranus.md",
+    "before_sha256": "a852637dce282abb9f6f23f0d4c9998844e766cccefd78d74020a9d761c07755",
+    "after_sha256": "6557906796e1cefef6fcf579b5897db43dbfc4b44af627a0c63650907e0592d2",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. All nine ABC Uranus clauses match, including dynamic harmony, technical achievement, creative impulses and surprising Liebes-Zeugung as procreation rather than testimony.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-vernal-point.md",
+    "before_sha256": "ad8561ebd97005cc9cddd70a3c516898d4cc2a4bd940fefbca6e3a995eebaa69",
+    "after_sha256": "e39bc94b52b3a9588d5491a5a3e473b30ac7fb9f7dc4aceee204c4cbb921e05c",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. The complete six-clause ABC Vernal Point row replaces the former lone public-sphere fragment; public fire, peace, harmony and all three artistic manifestations are present before MC.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/venus-zeus-equals-vulcanus.md",
+    "before_sha256": "795ded0debb5ac6b001d04e8c9f9ff7f9999befe2582c7b160240156f71d9fe6",
+    "after_sha256": "603e29eb5ccab6c2321e90dc660880eb3ffab8128cda6a4407fa9de681bb8f4c",
+    "ledger": "activations-092.jsonl",
+    "reason": "Personally viewed actual raw Witte PDF184 and ABC PDF142/printed286–287, checked every oriented glyph paragraph and neighboring boundary, and read complete original/current sections plus owning ledger. Witte prose is unchanged and its PDF locator is correct; the raw page has no visible printed folio. Both source prose blocks are unchanged. All eight ABC Vulcanus clauses match its own glyph row: art direction/influence, fiery love, peace efforts, love energy, artistic achievement, creative power and fire power. Both new source locators independently checked.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-witte-pdf184.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-venus-abc-pdf142.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  }
+]

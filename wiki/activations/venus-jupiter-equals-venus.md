@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Finding favors with people who hold strong attitudes about feminine temperaments
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Heightened charm and enjoyment of favorable circumstances ([Munkasey](#munkasey-entry)).
+- psychology: Susceptibility to flattery and satisfaction during a lucky streak ([Munkasey](#munkasey-entry)).
+- body/health: Sensuality is named, but no health condition is asserted ([Munkasey](#munkasey-entry)).
+- social/relationship: Finding favor with people whose gendered attitudes the source specifies ([Munkasey](#munkasey-entry)).
+- events/manifestations: A lucky streak supplies the entry's situational example ([Munkasey](#munkasey-entry)).
+- conflicts/notes: This repeated-factor formula has one source entry; it is not a separate three-factor triad.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is present, so cross-source agreement or disagreement cannot be assessed. Its pleasure and flattery themes are compatible possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter = Venus`: Finding favors with people who hold strong attitudes about feminine temperaments; makes it easier for one to be lulled by flattery; additional satisfaction when one hit a lucky streak; adds to one's sensuality and charm.
+With Venus repeated after the equals sign, Venus/Jupiter is specified as heightened charm, sensuality, and satisfaction when fortune is favorable. The same responsiveness can make flattery persuasive. [Munkasey's single entry](#munkasey-entry), printed p. 194, also places favor within other people's attitudes toward what he calls "feminine temperaments"; that gendered formulation remains his own framing, not a general rule about people.
 
 ## Links
 

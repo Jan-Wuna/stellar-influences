@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Moon Venus Pluto](../triads/moon-venus-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Amplifies your urges to destroy; taking pleasure in the arbitrary use of punishm
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development or intensity of feeling and response to beauty.
+- psychology: An intense emotional life, impressionability, and susceptibility to another's allure.
+- body/health: Witte's gland claim and Ebertin's procreative power/motherhood are attributed historical statements, not diagnoses or guarantees.
+- social/relationship: Strong need for relationships and developing affection; historical examples concerning women remain bounded.
+- events/manifestations: Public development, artistic development of a woman, luxury, and self-glamorizing display.
+- conflicts/notes: Munkasey's destructive urges and arbitrary punishment are a material adverse strand, not evidence of healing.
 
 ## Contradictions
 
-- None recorded yet.
+Harmonious development and benevolent feeling contrast sharply with Munkasey's enjoyment of punishment or destruction. These entries cannot be flattened into uniformly healing attachment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Moon`: profound attachment, deep emotional honesty, and the capacity to heal or bond through total feeling. Main caution: moods can become possessive, jealous, or compulsive, making closeness feel all-or-nothing.
+In `Venus/Pluto = Moon`, Moon specifies Venus/Pluto development in feeling and emotional response. The [ABC entry](#abc-entry) describes developing love and benevolent feelings; the [Ebertin](#ebertin-entry) and [Sandbach entries](#sandbach-entry) emphasize intensity, impressionability, and susceptibility to another's attractions. A separate adverse strand in [Munkasey](#munkasey-entry) includes destructive urges and arbitrary punishment, alongside luxury and self-glamorizing display. The historical gender, gland, and procreation statements remain attributed source examples rather than universal conclusions about the person.
 
 ## Links
 

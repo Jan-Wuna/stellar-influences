@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Admetos`
 - Astronomicon formula: `Y/g = ¦`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
-Connecdons or ties that cool off completely. Slow but definite breaking up of connections or unions.
+Connections or ties that cool off completely. Slow but definite breaking up of connections or unions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Perseverance of a community in the air, blocked air connection, limiting weakness in a relationship, ending an insecure connection, solid connection to the water, strengthening of an unclear relationship, and deepening of a connection by fine chair
+Perseverance of a community in the air, blocked air connection, restrictive weakness in a relationship, ending an uncertain connection, firm connection to water, strengthening of an unclear relationship, and deepening of a connection through sensitivity
+
+## Comparative Schema
+
+- core meaning: cooling or ending of a connection, with endurance or deepening also present.
+- psychology: sensitivity and uncertainty in a relationship are named.
+- body/health: restrictive weakness is not explained medically; no diagnosis is supplied.
+- social/relationship: Witte names cooling ties; ABC also names firming and deepening an unclear relationship.
+- events/manifestations: blocked air connections, connection to water, and ending an uncertain tie are explicit.
+- conflicts/notes: ABC's strengthening and deepening differ from Witte's definite breakup; an irreversible separation is not universal.
+
+## Contradictions
+
+Witte emphasizes definite breakup, whereas ABC also permits strengthening or deepening an unclear relationship. Neither side is removed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Node = Admetos`: Connecdons or ties that cool off completely. Slow but definite breaking up of connections or unions.
-- Practical focus: cools uncertain or porous ties into a slow, definite ending, showing relationships and unions that withdraw gradually until separation becomes irreversible.
-- Practical expression: perseverance of a community in the air, blocked air connection, limiting weakness in a relationship, ending an insecure connection, and solid connection to the water.
+In Neptune/Node = Admetos, uncertain connections encounter limits that can cool or end them. [Witte](#witte-entry) names slow but definite breakup; [ABC](#abc-entry) also includes perseverance, strengthening an unclear relationship, and deepening a connection through sensitivity (printed p. 221, PDF p. 109). The latter possibilities qualify a synthesis centered only on separation: the entries preserve both ending and consolidation.
 
 ## Links
 

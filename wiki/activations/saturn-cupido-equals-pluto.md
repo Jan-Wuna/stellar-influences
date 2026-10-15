@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Pluto`
 - Astronomicon formula: `W/¡ = Z`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 The start of a separation of a marriage or partnership, also the end of a separation. To start divorce proceedings. Divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community policy and economic and social cohesion
+- Source page: 355 (printed); PDF page: 176.
+
+Development of shared tasks, serious development in art, development of disturbances within a community, shared change through losses, developments of separation within a community, changing difficulties of a community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: A communal separation or development changes form, including its beginning or ending.
+- Psychology: Changing difficulties in community rather than a detailed emotional profile.
+- Body/health: No specific medical correspondence is supplied in these exact entries.
+- Social/relationship: Beginning or ending a marital separation, and divorce proceedings.
+- Events/manifestations: Developing shared tasks, serious art, and changes through losses.
+- Conflicts/notes: Witte includes both start and end of separation; the former cohesion cache did not represent ABC.
+
+## Contradictions
+
+Witte includes both start and end of separation; the former cohesion cache did not represent ABC.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Pluto`: the start of a separation of a marriage or partnership, also the end of a separation.
-- Practical expression: community policy, and social cohesion.
+In `Saturn/Cupido = Pluto`, Pluto specifies the pair through the development of separation and communal tasks. The [Witte entry](#witte-entry) explicitly includes both the beginning and the end of a marital or partner separation. The [ABC entry](#abc-entry) adds shared tasks, serious artistic development, changing difficulties, and communal change through losses, preserving development beyond a single fixed outcome.
 
 ## Links
 

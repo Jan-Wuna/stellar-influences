@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Moon](../axes/vernal-point-moon.md)
 - Triad hub: [Vernal Point Moon Mercury](../triads/vernal-point-moon-mercury.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 38 (one-based).
 
 Thinking women. Thoughts about women. Public opinion. Exchange of thoughts between peoples and nations.
 
@@ -42,13 +46,27 @@ Thinking women. Thoughts about women. Public opinion. Exchange of thoughts betwe
 
 #### ABC Entry
 
-Reports on the world of women, women's language in public, young women in public, opinions of a friendly public, people's language in public, and women's youth in public
+- Source page: 24; PDF page: 11 (one-based spread).
+
+Reports about women's world, women's public conversations, young women in public, opinions of a feelingful public, a people's public language, and female youth in public
+
+## Comparative Schema
+
+- core meaning: Public collective life expressed through thought, report, and language.
+- psychology: Thinking and emotionally colored public opinion are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Women's conversations and exchange between peoples or nations.
+- events/manifestations: Reports about women and public language.
+- conflicts/notes: Feelingful is broader than friendly; the source does not guarantee a welcoming public.
+
+## Contradictions
+
+No direct contradiction is established. The collective exchange theme is broader than the gendered examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Moon = Mercury`: thinking women, thoughts about women, public opinion, and exchange of thoughts between peoples and nations.
-- Practical expression: reports on the world of women, women's language in public, young women in public, opinions of a friendly public, and people's language in public.
+In `Vernal Point/Moon = Mercury`, public feeling and collective life become subjects of thought and communication. The [Witte entry](#witte-entry) links women's thinking and thoughts about women with public opinion and exchange between peoples or nations. The restored [ABC entry](#abc-entry) adds reports, conversations, young women, and a people's language. The common theme is collective experience articulated in words, often with an emotional coloring.
 
 ## Links
 

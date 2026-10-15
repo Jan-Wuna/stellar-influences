@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars MC Kronos`
 - Astronomicon triad-set: `U MC ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Kronos = Mars](../activations/mc-kronos-equals-mars.md)
-- [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md)
-- [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md)
+- [MC/Kronos = Mars](../activations/mc-kronos-equals-mars.md): base axis [MC/Kronos](../axes/mc-kronos.md); activator [Mars](../factors/mars.md).
+- [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md): base axis [Mars/Kronos](../axes/mars-kronos.md); activator [MC](../factors/mc.md).
+- [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md): base axis [Mars/MC](../axes/mars-mc.md); activator [Kronos](../factors/kronos.md).
 
 ## Source Coverage
 
-- `MC/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `90`
-- `Mars/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `314`
-- `Mars/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `64`
-- `Mars/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `73`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Kronos = Mars](../activations/mc-kronos-equals-mars.md#witte-entry) (PDF entry-start p. 73); [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md#witte-entry) (PDF entry-start p. 200); [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md#witte-entry) (PDF entry-start p. 64).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Kronos = Mars](../activations/mc-kronos-equals-mars.md#abc-entry) (printed p. 90); [Mars/Kronos = MC](../activations/mars-kronos-equals-mc.md#abc-entry) (printed p. 314); [Mars/MC = Kronos](../activations/mars-mc-equals-kronos.md#abc-entry) (printed p. 73).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Mars`: energizes the axis into decisive, self-judged action and executive force.
-- `Mars/Kronos = MC`: internalizes the axis as ambition, self-assertion, and the drive to act independently from a position of command.
-- `Mars/MC = Kronos`: elevates public action into honorable command, executive force, and official authority.
+Mars, MC and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Kronos](../axes/mc-kronos.md)
+- [Mars/Kronos](../axes/mars-kronos.md)
+- [Mars/MC](../axes/mars-mc.md)
 - [Mars](../factors/mars.md)
 - [MC](../factors/mc.md)
 - [Kronos](../factors/kronos.md)

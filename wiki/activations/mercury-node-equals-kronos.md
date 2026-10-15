@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Node = Kronos`
 - Astronomicon formula: `T/g = ¤`
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `141`.
+
 #### Witte Entry
 
 Correspondence with the authorities. Correspondence with superiors. Exchange of thoughts with great minds or experts, or talks about their performance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `209`; PDF page: `103`.
+
 #### ABC Entry
 
 Special links with youth, relations between the state and youth, written links with the state, self reliant opinion in relations, important relations with intellectuals, and connection with media hierarchy
 
+## Comparative Schema
+
+- core meaning: Correspondence with authorities, superiors, experts or great minds.
+- psychology: ABC includes an independent opinion within relationships.
+- body/health: No bodily or medical claim is established.
+- social/relationship: State-youth relations, important intellectual contacts and media hierarchy are ABC examples.
+- events/manifestations: Written contact with the state and discussions of experts' performance are concrete activities.
+- conflicts/notes: Authority and expertise identify the contact; respect or agreement is not guaranteed.
+
+## Contradictions
+
+No direct conflict is stated. ABC adds independent opinion within relationships, which does not require deference to the authorities named by Witte.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Node = Kronos` elevates the axis into authoritative correspondence and expert exchange.
-- Chart expression: contact with authorities, superiors, or recognized experts, and to conversations shaped by hierarchy, distinction, or respect for high-level performance.
+In `Mercury/Node = Kronos`, Kronos specifies the axis through contact with authorities, superiors and experts. Correspondence and discussion of their work connect the intellectual exchange to a particular level of responsibility or expertise. ABC adds written relations with the state, media hierarchy and important intellectual contacts, while retaining independent opinion within those relationships. The contact is authoritative in setting, without requiring personal submission or agreement ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Node Asc](../triads/sun-node-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Connection through social intercourse.
 
 #### ABC Entry
 
-Encounters with man's partnem, with other persons, personal partner relationships, personal connections in the environment, daily connections in the place, connection to people from nearby, and connection to the center of a place
+Source locator: printed page 100 / PDF page 49, Node glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Encounters with male partners, connected with other persons, personal partner relationships, personal connections in the surroundings, daily connection at the location, connection to people nearby, and connection to the center of a location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ Using meetings with others to build your ego and sense of self; friends who are 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Contacts that help establish a place among others.
+- psychology: An obliging manner and growing confidence through meetings.
+- body/health: No specific health claim is given.
+- social/relationship: Acquaintances, partners, friends, and purpose-oriented groups.
+- events/manifestations: Meetings, associations, and daily connections nearby.
+- conflicts/notes: The sources support identity through contact; approval-dependence is not explicitly asserted.
 
 ## Contradictions
 
-- None recorded yet.
+Personal recognition and contribution to a group are complementary emphases; no direct disagreement is stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Node`: networking, partnership, and a life pattern in which self-expression is continuously mirrored or negotiated with other people. Main caution: approval-dependence: personal direction can become too contingent on response, belonging, or public contact.
+Node specifies the Sun/Asc axis through making and sustaining contacts. The [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) entries emphasize meetings, local connections, and an obliging manner. [Sandbach](#sandbach-entry) extends this to helping a group stay aligned with its purpose, while [Munkasey](#munkasey-entry) describes friends and meetings that strengthen one's sense of identity and recognition.
 
 ## Links
 

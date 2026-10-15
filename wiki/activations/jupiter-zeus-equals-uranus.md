@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Zeus = Uranus`
 - Astronomicon formula: `V/£ = X`
 - Axis page: [Jupiter/Zeus](../axes/jupiter-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 213, Jupiter + Zeus, oriented activator row.
+
 Suddenly doing something.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting right handling, beginning unrest due to money, success in the technical goal striving, successful performance impulses, joy over fiery rhythms, happiness's pulse through procreation, sudden right wing efforts, and surprising design frcude
+- Source reference: printed p. 337; one-based PDF p. 167, Jupiter + Zeus, oriented activator row.
+
+Exciting legal leadership, beginning unrest because of money, success in pursuing technical goals, successful impulses toward accomplishment, joy in fiery rhythms, impulses of happiness through procreation, sudden legal efforts, and surprising joy in creating.
+
+## Comparative Schema
+
+- core meaning: Sudden activity and successful impulses toward accomplishment.
+- psychology: Excitement, surprising creative joy and unrest because of money.
+- body/health: ABC's happiness through procreation is an attributed historical expression without a clinical conclusion.
+- social/relationship: Legal leadership and sudden legal efforts are practical settings; Rechts does not mean right-wing politics.
+- events/manifestations: Suddenly doing something, pursuing technical goals and responding to productive impulses.
+- conflicts/notes: ABC includes financial unrest alongside successful activity; fiery rhythms remain literal without a specified technique.
+
+## Contradictions
+
+Witte gives only sudden action. ABC supplies successful technical effort and creative joy but also unrest because of money. These added alternatives qualify the tone without directly contradicting the brief Witte statement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Zeus = Uranus`: abrupt action, quick productive impulse, and the sudden beginning of doing or making something.
-- Chart expression: immediate initiative, inventive starts, and surprising productive movement.
+`Jupiter/Zeus = Uranus` brings activity into sudden motion. Successful impulses and pursuit of technical goals can accompany surprising joy in creating, while money may also prompt unrest. [Witte's sudden action](#witte-entry) and [ABC's eight clauses](#abc-entry) support a quick, excited pattern whose legal and financial settings should remain visible.
 
 ## Links
 

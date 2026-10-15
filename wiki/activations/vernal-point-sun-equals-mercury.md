@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Mercury](../triads/vernal-point-sun-mercury.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Young body. Relating to youth. To be in motion. Thoughts of many people on a day. Body on the move. Mental, conversational or daily news.
 
@@ -42,13 +46,27 @@ Young body. Relating to youth. To be in motion. Thoughts of many people on a day
 
 #### ABC Entry
 
-Young people in public, corporal movement in public, news center for frequentity, people traffic in public, personal language in public, and world of young man
+- Source page: 22; PDF page: 10 (one-based spread).
+
+Young people in public, bodily movement in public, a news center for the public, public passenger traffic, personal public conversations, and a young man's world
+
+## Comparative Schema
+
+- core meaning: Public personal life in motion through youth, thought, and communication.
+- psychology: Thoughts of many people and conversation are explicit.
+- body/health: A young or moving body is named without a medical claim.
+- social/relationship: Young people and personal conversations.
+- events/manifestations: News centers, passenger traffic, and daily news.
+- conflicts/notes: Youth is a particular example, not a fixed age prediction.
+
+## Contradictions
+
+No direct contradiction is established. Bodily movement and news circulation are distinct forms of public activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Mercury`: young body, relating to youth, to be in motion, thoughts of many people on a day, and body on the move.
-- Practical expression: young people in public, corporal movement in public, news center for frequentity, people traffic in public, and personal language in public.
+In `Vernal Point/Sun = Mercury`, public personal life is mobile and communicative. The [Witte entry](#witte-entry) names youth, bodily motion, thought, conversation, and daily news. The restored [ABC entry](#abc-entry) adds young people, passenger traffic, news centers, and personal conversations. The coherent emphasis is persons moving and exchanging information within the public sphere.
 
 ## Links
 

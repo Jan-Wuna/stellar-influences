@@ -11,6 +11,8 @@ normalized_axis: Neptune/Asc
 factor_a: Neptune
 factor_b: Asc
 related_activations:
+  - Neptune/Asc = Asc
+  - Neptune/Asc = Neptune
   - Neptune/Asc = Admetos
   - Neptune/Asc = Apollon
   - Neptune/Asc = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Y/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NEPTUNE/ASCENDANT`
-- Source page: `335`
+- Source heading: `ASCENDANT + NEPTUNE`
+- PDF page: `89`
 
 #### Pair Summary
 
@@ -86,9 +90,15 @@ To be deceived. Wrongly connected. Others are negative, irresolute or prejudiced
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `118`; PDF page: `58` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Others in the air, exchanged partners, expectation of the other, subtle environment, foreign place, weak partner, sensitive partner, uncertain environment, unsafe partner, refinement of the environment, and water as/in the environment
+German pair summary (transcribed from printed page `118`; PDF page `58`):
+
+> Andere in der Luft, enttäuschter Partner, Erwartung der anderen, feinstoffliche Umwelt, fremder Ort, schwacher Partner, sensibler Partner, unsichere Umwelt, unsicherer Partner, Verfeinerung der Umwelt, Wasser als/im Umfeld
+
+Editorial translation from the German passage: Others in the air, disappointed partner, expectation of others, subtle-material environment, foreign place, weak partner, sensitive partner, uncertain environment, uncertain partner, refinement of the environment, water as/in the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +182,17 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: sensitivity to others and to one's surroundings can deepen sympathy or blur the distinction between an impression and a fact.
+- psychology: impressionability, intuition, idealized identity, and a mysterious presence coexist with confusion, weak boundaries, and convincing self-deception.
+- body/health: Ebertin's sensory-deception and "Skin crawling" associations and Munkasey's substance-related cravings are historical source claims, not diagnoses or expected behavior.
+- social/relationship: care, sacrifice, platonic ideals, and subtle understanding range into exploitation, evasiveness, misplaced trust, and relationships unlike their appearance.
+- events/manifestations: Witte includes uncertainty tied to a location; Munkasey adds public glamour, distorted information, scandals, and neglected health systems.
+- conflicts/notes: Intuition is not verified knowledge; compassion and misleading impressions coexist, and specific activation outcomes remain separate.
 
 ## Related Activations
+
+- [Neptune/Asc = Asc](../activations/neptune-asc-equals-asc.md)
+- [Neptune/Asc = Neptune](../activations/neptune-asc-equals-neptune.md)
 
 - [Neptune/Asc = Admetos](../activations/neptune-asc-equals-admetos.md)
 - [Neptune/Asc = Apollon](../activations/neptune-asc-equals-apollon.md)
@@ -205,15 +218,16 @@ Enhanced needs for using drugs to alter reality; an affinity or craving for diff
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The actual ABC clause is disappointed partner, not exchanged partners. Banzhaf PDF341's complete Neptune-Ascendant harmony and discord match the saved entry and end before Neptune-Medium Coeli.
+
+ABC's complete bold pair list was checked against printed118/PDF58; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc` is the axis of impressionable identity, porous boundaries, and relationships colored by idealization, sympathy, or ambiguity. It combines sensitivity, imagination, intuition, and sacrifice with personality, appearance, and the way one meets and is perceived by others.
-- Chart expression: empathy, subtle charm, mystical or artistic presence, and a personality that reads and absorbs more than it can easily define. Liabilities: confusion about self, projection, deception, exploitation, blurred relationship boundaries, and a tendency either to idealize others or to become unreadable and elusive oneself.
+`Neptune/Asc` concerns the impressions exchanged between a person and other people or their surroundings. Sensitivity may take the form of compassion, subtle understanding, intuitive attention to motives, or an identity shaped by ideals. It may also make appearances difficult to judge: another person can be idealized, the self can be misunderstood, or an imagined relationship can replace the relationship actually present. This range is explicit in [Ebertin's psychological correspondence](#psychological-correspondence), [Sandbach's identity and relationship account](#principle-1), and [Munkasey's basic ideas](#basic-ideas).
+
+Care and sacrifice are therefore as relevant as deception. [Hand](#pair-delineation) includes caring for someone in difficulty, platonic ideals, and relationships that are not what they seem; [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) place immediate empathy beside difficulty defining boundaries. [Witte](#pair-summary) also preserves uncertainty about a location, and [Munkasey](#in-politics-or-business) extends misleading appearances to public information and institutional neglect. The pair does not establish which impression is true, who is deceiving whom, or a specific health condition. Each linked activation must supply its own further meaning.
 
 ## Links
 

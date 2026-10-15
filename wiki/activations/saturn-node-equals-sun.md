@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Node = Sun`
 - Astronomicon formula: `W/g = S`
 - Axis page: [Saturn/Node](../axes/saturn-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `145` (entry start).
+
 Separation from the husband or from a man. Inhibited encounter with persons. An object cannot be connected.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Meeting with elderly people, stressful personal relationship, serious personal relationships, contacts with an old man, personal attachment to a task, personal relationships in old age, and mature relationships
+- Source page: `216`; PDF page: `107`.
+
+Meeting with inhibited people, stressful personal relationship, serious personal relationships, contacts with an old man, personal attachment to a task, personal relationships in old age, and mature relationships
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `257`; entry code: `0903`.
 
 Desire for seclusion, tendency to feel uncomfortable or hindered in the presence of others. The separated husband, widower. Separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `92` (chapter start; exact entry page unrecorded).
 
 To have deep connections with others strongly increases one’s vitality, ability to be centered, and sense of purpose. Being held back by the past frustrates one’s ability to reach one’s goals and/or fulfill one’s purpose.
 
@@ -70,22 +80,21 @@ Your inner determination to end a line of potentially self-destructive forces wh
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal purpose affected by separation, inhibition and the use of supportive connections.
+- psychology: Desire for seclusion, discomfort with others and determination to accept needed help.
+- body/health: Sandbach links deep connection with vitality; no medical condition is specified.
+- social/relationship: Serious or mature bonds, inhibited encounters and deliberate use of friendship.
+- events/manifestations: Separation, personal commitment to a task and contacts in old age.
+- conflicts/notes: Withdrawal and purposeful help-seeking are different responses; historical gendered examples are not universal outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize both inhibited connection and the value of deep or supportive ties. The distinction concerns the condition of the bond and one's response, without a direct disagreement established here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node = Sun`: dependable partnership, principled alliance, and the ability to define oneself through meaningful commitments rather than easy popularity. Main caution: burdened selfhood: obligation to others can become so central that spontaneity and joy recede.
+In `Saturn/Node = Sun`, Sun specifies how a difficult connection affects one's personal direction: encounters can feel inhibited, separation can encourage seclusion, and old attachments can obstruct purpose ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)). Deep connection can also strengthen vitality and direction, while deliberately seeking assistance counters the tendency to discount friendship ([Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)). [ABC](#abc-entry) keeps serious relationships, personal tasks and mature bonds in view. The entries therefore connect purpose with the quality and use of one's ties; their widower and husband examples remain historical particulars.
 
 ## Links
 

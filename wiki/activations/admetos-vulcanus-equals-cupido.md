@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Admetos/Vulcanus = Cupido`
 - Astronomicon formula: `¦/§ = ¡`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 311, Cupido row.
+
 To be put in a difficult state or hard trial by or with an association. Artistic hindrances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Depressive art influence, common energy blockade, common influence through firmness, common resistance to violence, profound influence of a community, profound influence of the art, and power limitations in of a community
+Reference: printed p. 475 (one-based PDF p. 236), Cupido row.
+
+Depressive art influence, common energy blockade, common influence through firmness, common resistance to violence, profound influence of a community, profound influence of art, and power limitations in a community.
+
+## Comparative Schema
+
+- core meaning: Associations and art under constraint, with firmness and shared resistance also possible.
+- psychology: Firmness is named; no further individual temperament is described.
+- body/health: Depressive artistic influence is ABC's association, without a medical explanation.
+- social/relationship: A hard trial through or with an association; shared influence and resistance to violence.
+- events/manifestations: Artistic hindrances, shared energy blockage, and limited communal power.
+- conflicts/notes: The entries retain communal and artistic influence alongside their hindrances; they do not specifically identify family life.
+
+## Contradictions
+
+Shared resistance and influence can coexist with obstruction. The entries offer no rule turning a hard trial into either solidarity or oppressive fellowship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Cupido`: families or associations tested by severe pressure and the need to hold together under strain. Main caution: fellowship under duress: shared life can become oppressive, joyless, or blocked by relentless circumstances.
+In `Admetos/Vulcanus = Cupido`, Cupido specifies the pair through the constraints and influence of associations or artistic activity. The [Witte entry](#witte-entry) describes a hard trial by or with an association and hindrances in art. The [ABC entry](#abc-entry) adds shared energy blockage and limited communal power, but also firmness, communal or artistic influence, and common resistance to violence. The shared setting can therefore be both a source of difficulty and a means of resistance.
 
 ## Links
 

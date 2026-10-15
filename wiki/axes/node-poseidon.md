@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Mental connections. Spiritual union or connections. Connections or relationships
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `238`; PDF page: `118` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Insightful relationship, connecting insights, spiritual bonds, ideal connections, clarity of a connection, cultural connections, reasonRelationships, and truth transmitting
+German pair summary (transcribed from printed page `238`; PDF page `118`):
+
+> Einsichtsvolle Beziehung, Erkenntnisse verbinden, geistige Bindungen, ideelle Verbindungen, Klarheit einer Verbindung, Kultur-Verbindungen, Vernunft-Beziehungen, Wahrheits-Vermittlung
+
+Editorial translation from the German passage: Insightful relationship, connecting insights, spiritual bonds, ideal connections, clarity of a connection, cultural connections, relationships of reason, conveying truth.
+
+## Comparative Schema
+
+- core meaning: mental or spiritual connection through shared insight and understanding ([Pair Summary](#pair-summary); [ABC Pair Summary](#abc-pair-summary)).
+- psychology: clear and deep thinking, insight, and the clarification of a connection are explicit themes.
+- body/health: neither pair summary supplies a bodily or medical correspondence.
+- social/relationship: spiritual bonds and relationships involving philosophy, education, culture, or ideals are represented.
+- events/manifestations: exchanging insights and transmitting truth are ABC expressions; the summaries do not specify a concrete event sequence.
+- conflicts/notes: ABC Vernunft-Beziehungen is rendered as relationships of reason; it is not the former fused technical-looking word.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Insightful relationship, connecting insights, spiritual bonds, ideal connections
 - [Node/Poseidon = Vulcanus](../activations/node-poseidon-equals-vulcanus.md)
 - [Node/Poseidon = Zeus](../activations/node-poseidon-equals-zeus.md)
 
+## Contradictions
+
+Intellectual clarity, spiritual bonds and ideal connections are related emphases without being interchangeable. No explicit incompatible claim is established.
+
+ABC's complete bold pair list was checked against printed238/PDF118; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon` combines connection, alliance, and shared ties with clarity, truth, and spiritual orientation.
-- In practice, it most often shows mental connections, along with spiritual union or connections.
+`Node/Poseidon` describes a bond sustained by understanding: people connect through ideas, insight, spiritual interests, or a shared search for clarity. The [pair summary](#pair-summary) names philosophy, education, and deep thinking, while the [ABC entry](#abc-pair-summary) broadens the setting to culture, ideals, and the exchange of insights. The relationship itself may become clearer through that exchange.
+
+These summaries concern the content and quality of connection, without establishing agreement on every belief, the truth of a particular teaching, or a guaranteed event. The fused translation “reasonRelationships” adds no separate doctrine. Specific manifestations involving a third factor remain on their activation pages.
 
 ## Links
 

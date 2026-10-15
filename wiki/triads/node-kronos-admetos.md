@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Kronos Admetos`
 - Astronomicon triad-set: `g ¤ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Kronos/Admetos = Node](../activations/kronos-admetos-equals-node.md)
-- [Node/Admetos = Kronos](../activations/node-admetos-equals-kronos.md)
-- [Node/Kronos = Admetos](../activations/node-kronos-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Admetos = Node](../activations/kronos-admetos-equals-node.md) | [Kronos/Admetos](../axes/kronos-admetos.md) | [Node](../factors/node.md) |
+| [Node/Admetos = Kronos](../activations/node-admetos-equals-kronos.md) | [Node/Admetos](../axes/node-admetos.md) | [Kronos](../factors/kronos.md) |
+| [Node/Kronos = Admetos](../activations/node-kronos-equals-admetos.md) | [Node/Kronos](../axes/node-kronos.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Kronos/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `462`
-- `Node/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `235`
-- `Node/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Kronos/Admetos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-admetos-equals-node.md#witte-entry), one-based PDF entry-start p. `300`.
+- `Kronos/Admetos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-admetos-equals-node.md#abc-entry), printed p. `462`.
+- `Node/Admetos = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-admetos-equals-kronos.md#witte-entry), one-based PDF entry-start p. `154`.
+- `Node/Admetos = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-admetos-equals-kronos.md#abc-entry), printed p. `235`.
+- `Node/Kronos = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-admetos.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-admetos.md#abc-entry), printed p. `231`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Node`: connection with odd characters, association with secluded people, and social bonds formed through life apart from the generality.
-- `Node/Admetos = Kronos`: Bad contact with the authorities or the chief. The connection with leading persons, with superiors, with authorities is interrupted. Dealing with “has-beens”. Government without power.
-- `Node/Kronos = Admetos`: Official meeting with a few. Close connections with the chief or the authorities. Latent connections with authorities. Connection with dethroned persons.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

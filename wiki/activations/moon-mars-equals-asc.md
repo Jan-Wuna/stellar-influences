@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Asc`
 - Astronomicon formula: `R/U = Asc`
@@ -37,23 +39,36 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mars`
+- Source locator: printed p. 128; one-based PDF p. 124, Asc row checked on the actual scan.
+
 #### Witte Entry
 
 Acquaintances with woman or with the future wife. Working relations with other people. Working people in the near surroundings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Mars`
+- Source locator: printed p. 180; one-based PDF p. 89.
+- Editorial translation: checked against the original German scan, including the activation glyph and paragraph boundary.
+
 #### ABC Entry
 
-Work in the village of Stundc, working hours for the environment, successful action of the partner, actions of and more women, man made principle in women in the village, creating people in the village, women's environmental activities, and environmental work of a people
+Work at a place during the hour; working hours for the surroundings; the partner's feelingful action; actions of other women; the masculine principle in women at the place; a people working at the place; a woman's activities in her surroundings; a people's work on their surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source locator: printed p. 121; one-based PDF p. 123, entry 0360 (Asc); actual row checked.
 
 #### Ebertin Entry
 
 Establishment of one's rights or privileges within the family, taking over leadership. Contact with a women, with the wife.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source locator: one-based PDF p. 29, exact Ascendant entry checked; chapter begins on PDF p. 28.
 
 #### Sandbach Entry
 
@@ -62,7 +77,7 @@ One plays the role of a hot head or of a person who is willing and able to act o
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS with Planets and Points`
-- Source page: `112`
+- Source page: `112` (printed); one-based PDF p. 113, ASC entry checked.
 
 #### Munkasey Entry
 
@@ -70,22 +85,21 @@ Concentrating on the need for alleviating the anger or irritation received by th
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotionally charged action becomes visible in immediate relationships and shared work. [Witte](#witte-entry); [Sandbach](#sandbach-entry).
+- psychology: Frankness, blunt passion, acting on impulse, and finding an imaginative personal way of behaving. [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
+- body/health: No specific bodily or health claim occurs in these entries; Munkasey's complaints are not identified as medical conditions.
+- social/relationship: Work contacts, acquaintance with a woman or future wife, leadership within the family, and a search for emotionally stimulating relationships. Gendered examples remain those of the sources. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- events/manifestations: Working with nearby people, asserting family rights, arguments about women, and responding to anger or irritation expressed by complainants. [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: The work and family examples add settings to the account of passionate self-presentation; they do not establish universal courage or a protective temperament.
 
 ## Contradictions
 
-- None recorded yet.
+The entries describe different settings for contact and emotional action. No explicit mutually exclusive claim is identified, and their overlap does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Asc`: visible courage, quick emotional action, and strong protective or combative instinct in close contact. Main caution: volatility in presence: others feel the person's urgency immediately, which can warm, defend, or inflame the field.
+In `Moon/Mars = Asc`, Asc specifies the pair through encounters in the immediate environment: work relations, family assertion, and a manner others experience as frank, passionate, or impulsive. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries supply concrete work and household settings; [Sandbach](#sandbach-entry) makes the emotional charge of personal presentation explicit. [Munkasey](#munkasey-entry) adds dealing with irritation and complaints, so the contact can involve either stimulation or friction rather than assured harmony.
 
 ## Links
 

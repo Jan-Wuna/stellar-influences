@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Neptune = Pluto`
 - Astronomicon formula: `Y/Y = Z`
 - Axis page: [Neptune/Neptune](../axes/neptune-neptune.md)
@@ -29,15 +31,30 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*.
+- Source reference: PDF p. `245` (entry start; one-based).
+
 #### Witte Entry
 
 Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable transformation. Changes only recognized in the future. Developments below the radar screen. Sneaking crisis. Hidden alteration. An uncertain turnaround.
 
+## Comparative Schema
+
+- core meaning: hidden alteration and development recognized only later.
+- psychology: secrecy is stated; no distinct inner motive is supplied.
+- body/health: no health claim is present.
+- social/relationship: changes unnoticed externally describe visibility to others, without a defined relationship pattern.
+- events/manifestations: unnoticed transformation, creeping crisis, and an uncertain turnaround are named.
+- conflicts/notes: late recognition is explicit, but a fixed rate or duration of change is not given.
+
+## Contradictions
+
+Only Witte's repeated-pair entry is present; there is no independent source comparison here.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Neptune = Pluto`: Secrecies. Changes which are not noticed externally. Sneaking, unnoticeable transformation. Changes only recognized in the future. Developments below the radar screen. Sneaking crisis. Hidden alteration. An uncertain turnaround.
-- Practical focus: transforms pure uncertainty through hidden and barely visible change, showing slow crisis, unseen alteration, and turning points recognized only after they have already taken hold.
+Neptune/Neptune = Pluto emphasizes changes that are not evident while they develop. [Witte](#witte-entry) names hidden alteration, unnoticed transformation, a creeping crisis, and changes recognized only in the future (PDF p. 245, entry start). The uncertainty concerns both the visibility and direction of development; no fixed timetable is supplied.
 
 ## Links
 

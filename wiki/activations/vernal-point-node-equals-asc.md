@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Node](../axes/vernal-point-node.md)
 - Triad hub: [Vernal Point Node Asc](../triads/vernal-point-node-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 39 (one-based).
 
 Acquaintance with many people.
 
@@ -42,13 +46,27 @@ Acquaintance with many people.
 
 #### ABC Entry
 
-Public meetings on site, public partner renunciation, partner relationships in frequentity, partner renunciations in public life, meeting on a public place, and environmental renunciations in public
+- Source page: 26; PDF page: 12 (one-based spread).
+
+Local public encounters, public partner mediation, partner relationships in public, partner connections in public life, meeting in a public place, and public environmental connections
+
+## Comparative Schema
+
+- core meaning: Public connections encountered through partners, acquaintances, and places.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Acquaintance with many people and mediation between partners.
+- events/manifestations: Meetings in public places and links in the environment.
+- conflicts/notes: Mediation and connections were mistranslated as renunciation; the scan restores them.
+
+## Contradictions
+
+No direct contradiction is established after repair. The source describes meeting and connecting rather than relinquishing partners.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Node = Asc`: acquaintance with many people.
-- Practical expression: public meetings on site, public partner renunciation, partner relationships in frequentity, partner renunciations in public life, and meeting on a public place.
+In `Vernal Point/Node = Asc`, public association takes shape through people met in particular surroundings. The [Witte entry](#witte-entry) names acquaintance with many people. The restored [ABC entry](#abc-entry) adds local encounters, partner mediation, relationships, and meetings in public places. The shared focus is contact and the setting that brings people together; the former renunciation wording had no scanned support.
 
 ## Links
 

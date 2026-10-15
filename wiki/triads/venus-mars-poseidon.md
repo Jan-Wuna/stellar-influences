@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Mars Poseidon`
 - Astronomicon triad-set: `Q U ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mars/Poseidon = Venus](../activations/mars-poseidon-equals-venus.md)
-- [Venus/Mars = Poseidon](../activations/venus-mars-equals-poseidon.md)
-- [Venus/Poseidon = Mars](../activations/venus-poseidon-equals-mars.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Poseidon = Venus](../activations/mars-poseidon-equals-venus.md) | [Mars/Poseidon](../axes/mars-poseidon.md) | [Venus](../factors/venus.md) |
+| [Venus/Mars = Poseidon](../activations/venus-mars-equals-poseidon.md) | [Venus/Mars](../axes/venus-mars.md) | [Poseidon](../factors/poseidon.md) |
+| [Venus/Poseidon = Mars](../activations/venus-poseidon-equals-mars.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Mars/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
-- `Mars/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `322`
-- `Venus/Mars = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `271`
-- `Venus/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `296`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Mars/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `204`.
+- `Mars/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-poseidon-equals-venus.md#abc-entry), printed p. `322`.
+- `Venus/Mars = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `176`.
+- `Venus/Mars = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-poseidon.md#abc-entry), printed p. `271`.
+- `Venus/Poseidon = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-mars.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-mars.md#abc-entry), printed p. `296`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Venus`: creates intimate bonds through shared mental, moral, or philosophical outlook.
-- `Venus/Mars = Poseidon`: platonic love.
-- `Venus/Poseidon = Mars`: religious activities.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -28,9 +28,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 150 (entry page); source heading: `MERCURY/VENUS With Itself`.
 
 - Source heading: `MERCURY/VENUS With Itself`
 - Source page: `150`
@@ -41,22 +45,21 @@ Ideas about writing on love, beauty, and their effects on you or others; a need 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Ideas about love and beauty take written, musical or poetic form.
+- psychology: The entry stresses learning and practice in an artistic medium.
+- body/health: No health correspondence is supplied.
+- social/relationship: Love and beauty are subjects of expression; no specific relationship event is asserted.
+- events/manifestations: Handwriting, music writing and poetry are the concrete examples.
+- conflicts/notes: This repeated-factor orientation has one Munkasey entry and no distinct triad hub.
 
 ## Contradictions
 
-- None recorded yet.
+There is only one source entry here, so cross-source agreement or disagreement cannot be assessed. This repeated-factor orientation has one Munkasey entry and no distinct triad hub.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Mercury`: Ideas about writing on love, beauty, and their effects on one or others; a need for additional education in the arts, and practice with an appropriate music or art medium; a lovely handwriting; writing music or poetry.
+In Munkasey's `Mercury/Venus = Mercury`, the repeated Mercury specifies the axis through learning, writing and practice: love and beauty become subjects to articulate in words or music. [The entry](#munkasey-entry), printed p. 150, connects artistic education with handwriting, poetry and composition. It does not establish professional success or a particular relationship outcome.
 
 ## Links
 

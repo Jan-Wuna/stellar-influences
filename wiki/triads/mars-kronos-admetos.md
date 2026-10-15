@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Kronos Admetos`
 - Astronomicon triad-set: `U ¤ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Admetos = Mars](../activations/kronos-admetos-equals-mars.md)
-- [Mars/Admetos = Kronos](../activations/mars-admetos-equals-kronos.md)
-- [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md)
+- [Kronos/Admetos = Mars](../activations/kronos-admetos-equals-mars.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Mars](../factors/mars.md).
+- [Mars/Admetos = Kronos](../activations/mars-admetos-equals-kronos.md): base axis [Mars/Admetos](../axes/mars-admetos.md); activator [Kronos](../factors/kronos.md).
+- [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md): base axis [Mars/Kronos](../axes/mars-kronos.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Kronos/Admetos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `462`
-- `Mars/Admetos = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `202`
-- `Mars/Admetos = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `319`
-- `Mars/Kronos = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `315`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Admetos = Mars](../activations/kronos-admetos-equals-mars.md#witte-entry) (PDF entry-start p. 300); [Mars/Admetos = Kronos](../activations/mars-admetos-equals-kronos.md#witte-entry) (PDF entry-start p. 202); [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md#witte-entry) (PDF entry-start p. 200).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Admetos = Mars](../activations/kronos-admetos-equals-mars.md#abc-entry) (printed p. 462); [Mars/Admetos = Kronos](../activations/mars-admetos-equals-kronos.md#abc-entry) (printed p. 319); [Mars/Kronos = Admetos](../activations/mars-kronos-equals-admetos.md#abc-entry) (printed p. 315).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Mars`: an unusual order, a special commission, or reduced ordinary workload so effort can be concentrated on a particular assignment.
-- `Mars/Admetos = Kronos`: leading special work in a small circle, acting independently under narrow conditions, and exercising restricted authority.
-- `Mars/Kronos = Admetos`: hardens official force into suppression, stoppage, and heavy pressure from above.
+Mars, Kronos and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [ABC entry for Mars/Admetos = Kronos](../activations/mars-admetos-equals-kronos.md#abc-entry) retains “handboys”. This paragraph is represented with a translation limitation requiring source verification.
 
 ## Links
 
+- [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Mars/Admetos](../axes/mars-admetos.md)
+- [Mars/Kronos](../axes/mars-kronos.md)
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)

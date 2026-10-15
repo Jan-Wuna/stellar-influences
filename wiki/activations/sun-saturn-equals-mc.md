@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = MC`
 - Astronomicon formula: `S/W = MC`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 To be forsaken. To retire. Rheumatic pains. Moment (minute) of a separation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Stress for body and sea le, animated serious man, my old man, my hard man, my day of separation, my personal problems, my personal losses, and mental illness
+- Source passage: `Sonne + Saturn`; printed p. `150`; one-based PDF page `74` (oriented row checked against the scan).
+
+Burden for body and soul, a serious man ensouled, my old man, my hard man, my day of separation, my personal problems, my personal losses, a person disturbed in soul, a person matured in soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Saturn`; printed p. `94`; one-based PDF page `96`; entry code `0253` (oriented row checked against the scan).
 
 Inhibitions in the manifestation of one's own individuality, the exercise of reserve, feeling ill. Loneliness or solitude, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `15` (exact activator entry checked in the raw PDF).
 
 The slow and patient attainment of career success. To be known in the world for one’s bringing to light the deeper spiritual truths of life. Lack of confidence concerning ones work, with a tendency to gain greater confidence in it as one grows older.
 
@@ -70,22 +80,21 @@ Developing your mannerisms to appear as a more mature or serious person; no acco
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Seriousness is personally experienced through reserve, burden and loss, while purpose and patient achievement remain alternative expressions. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- psychology: Inhibited individuality and low confidence concerning work coexist with realistic goals, increasing maturity and confidence with age. [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- body/health: Witte names rheumatic pains, Ebertin feeling ill, and ABC a burden for body and soul. These remain historical associations rather than a medical conclusion. [Witte](#witte-entry) · [Ebertin](#ebertin-entry) · [ABC](#abc-entry)
+- social/relationship: Being forsaken, solitude and separation are explicit; Munkasey adds a need for security and protection. [Witte](#witte-entry) · [Ebertin](#ebertin-entry) · [Munkasey](#munkasey-entry)
+- events/manifestations: Retirement, personal losses, a separation, slow career success and becoming known for spiritual understanding are source examples. [Witte](#witte-entry) · [ABC](#abc-entry) · [Sandbach](#sandbach-entry)
+- conflicts/notes: ABC retains both a soul-disturbed and a soul-matured person. Munkasey's claim that no accomplishment is unattainable should remain his optimistic formulation alongside the other entries' limits. [ABC](#abc-entry) · [Munkasey](#munkasey-entry)
 
 ## Contradictions
 
-- None recorded yet.
+There is a material difference in emphasis between loneliness, illness and inhibited individuality, and Sandbach's patient career development or Munkasey's strong optimism. ABC itself retains both soul disturbance and soul maturity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = MC`: disciplined ambition, administrative weight, and the ability to shoulder heavy obligations in the outer life. Main caution: burdensome purpose: career and mission can become joyless, isolating, or defined more by pressure than fulfillment.
+`Sun/Saturn = MC` makes seriousness and limitation part of the person's own experience. Reserve, bodily or emotional burden, loss and solitude may inhibit individual expression, while the same personal focus can support realistic goals and slow, patient work. Sandbach allows career confidence to grow with age and public recognition for spiritual understanding; ABC keeps soul maturity beside soul disturbance. These possibilities give the formula a range from personal restriction to cultivated purpose without promising that achievement removes the burden. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

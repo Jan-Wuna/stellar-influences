@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn Neptune MC](../triads/saturn-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Sorrow through want of clearness or through resistance. To grieve over the false
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Old soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, the unfolding of the soul as a task, my developmental tasks, and my patience in privation
+Old soul in subtle substance, sensitivity of a mature soul, my tasks in the air, my patience in the air, my inhibitions in the water, my concentration on refinement, my creeping pains, and my future problems.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0934`, printed p. 264; PDF p. 266.
 
 #### Ebertin Entry
 
 Lack of clarity, peculiar and depressing circumstances. Loneliness increasing with age, disappointment, emotional suffering, mourning.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Unnecessary fears about your alleged problems; added delusions that you can not 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: uncertainty and sensitivity affecting security, purpose, or confidence in authority.
+- psychology: idealization, negative imaginings, fear, disappointment, and spiritual intuition.
+- body/health: ABC names creeping pains; Munkasey's drug-escape language remains an attributed source claim.
+- social/relationship: disillusionment with authorities, others' falseness, and loneliness.
+- events/manifestations: depressing circumstances, mourning, refinement, and disciplined inspiration.
+- conflicts/notes: ABC air, water, and subtle-substance terms are retained without inventing concrete circumstances.
 
 ## Contradictions
 
-- None recorded yet.
+- Intuition and disciplined inspiration coexist with fear and disappointment; no compassionate vocation is established by these entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Neptune`: compassionate vocation, patient work behind the scenes, and serious engagement with fragile or elusive realities. Main caution: erosion of purpose: unclear boundaries and chronic discouragement can undermine direction before it stabilizes.
+In `Saturn/MC = Neptune`, Neptune specifies the Saturn/MC axis through uncertainty about one's circumstances, security, or guiding authorities. [Witte](#witte-entry) links sorrow to lack of clarity, resistance, or others' falseness; [Ebertin](#ebertin-entry) adds disappointment and loneliness. [Sandbach](#sandbach-entry) describes both deeper spiritual intuition and the risk of idealizing authorities or imagining insecurity.
+
+[Munkasey](#munkasey-entry) similarly places fears about coping and escape through drugs beside inspiration achieved through maturity and discipline. [ABC](#abc-entry) adds sensitivity, refinement, and future problems. These entries support a range from disciplined inspiration to discouragement under unclear or feared difficulties.
 
 ## Links
 

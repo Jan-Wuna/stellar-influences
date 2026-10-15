@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Asc](../axes/mercury-asc.md)
 - Triad hub: [Mercury Mars Asc](../triads/mercury-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ASCENDANT + MERCURY`
+- Source locator: PDF p. `83` (oriented entry; scan checked).
 
 #### Witte Entry
 
@@ -43,17 +48,25 @@ Dispute with others. To be critically and sharply judged.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Merkur`
+- Source locator: printed p. `106`, PDF p. `52` (entry).
+- Text basis: translation checked against the raw scan on PDF p. `52`; supplied parser-normalized OCR was not itself visually verified.
+
 #### ABC Entry
 
-Active language partner, active traffic in the environment, others want to speak, thinking impulses of the partner, thoughts about working in the environment, discussing actions with the partner, youth work in the area, and media activity in the environment
+Active conversation partner, active traffic in the surroundings, others want to speak, thinking impulses of the partner, thoughts about work in the surroundings, discussing actions with the partner, youth work in the area, and media activity in the surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. `170`, PDF p. `172`, entry `0558` (scan checked).
 
 #### Ebertin Entry
 
 Desire for discussion, willingness to negotiate, inclination to emphasize one's own ideas or thoughts, urge to attain success in life. The realization of plans with the help of others, quarrels.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. `53` (complete Mars entry; chapter starts on p. `52`; scan checked).
 
 #### Sandbach Entry
 
@@ -62,7 +75,7 @@ Sharing ideas with others impels one to take action. A desire to work with other
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MERCURY/ASCENDANT with Planets and Points`
-- Source page: `180`
+- Source locator: printed p. `180`, PDF p. `181` (Mars entry; scan checked).
 
 #### Munkasey Entry
 
@@ -70,22 +83,21 @@ Emphasizes your need to mentally understand people and their reaction to you and
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Discussion becomes a means of acting with others, with argument as a possible outcome ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: An urge to assert ideas and understand other people's motives is described ([Ebertin](#ebertin-entry), [Munkasey](#munkasey-entry), p. 180).
+- body/health: Munkasey mentions energetic gestures and mannerisms while speaking, not a health condition.
+- social/relationship: Negotiation, working with others, feedback, criticism, and quarrels all belong to the recorded range.
+- events/manifestations: Plans realized through others, discussions of work, youth work, and local media activity are named.
+- conflicts/notes: The constructive and contentious expressions are alternatives, not a promise that discussion produces either cooperation or quarrels.
 
 ## Contradictions
 
-- None recorded yet.
+Action through discussion and sharp disagreement are compatible possibilities in these entries; no direct contradiction is established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Asc = Mars`: brisk repartee, courage in discussion, and the ability to mobilize others through words or plans. Main caution: friction: criticism, quarrels, impatience, and a style of relating that becomes combative faster than it becomes cooperative.
+In `Mercury/Asc = Mars`, Mars specifies communication with others as an impetus to act: exchanging ideas can lead to work, negotiation, and plans carried out with other people's help. The same insistence on expressing a position can appear as criticism or a quarrel, while feedback can help direct the work. This range is supported by the [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), and [Munkasey entries](#munkasey-entry) (p. 180); it does not establish courage or a general ability to mobilize people.
 
 ## Links
 

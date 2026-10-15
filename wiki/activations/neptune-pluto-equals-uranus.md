@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Uranus`
 - Astronomicon formula: `Y/Z = X`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,33 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Sudden disappear or appear again. A slow and sneaking development is suddenly interrupted or pushed ahead with a jar. Revolutionary development which suddenly takes on form.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Development of uncertainty and restlessness, development impulses through metaphysics, nervousness through creeping changes, sudden air change, technical development pre exchange, and technical future developments
+Development of uncertainty and unrest, developmental impulses through metaphysics, nervousness through creeping changes, sudden change of air, pretending technical development, and technical developments of the future
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `281–282`, entry code `1006`.
+
 #### Ebertin Entry
 
-The propensity and flair for unusual, adventurous, mystical and 60 In some cases Moon = Neptune/Pluto was found in the case of alcoholics. 61 In some cases Jupiter = Neptune/Pluto was found to indicate a gambler. 62 Uranus = Neptune/Pluto has indicated unusual catastrophes. supernatural experiences. Hyper-sensitive nerves. Peculiar discoveries.
+The propensity and flair for unusual, adventurous, mystical and supernatural experiences. Hyper-sensitive nerves. Peculiar discoveries.
+
+- Historical footnote 62 (printed p. 281): Uranus = Neptune/Pluto has indicated unusual catastrophes.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110–111` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +74,7 @@ Originality manifesting through a powerful imagination that could even have the 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +82,21 @@ Emphasizes unusual means to escape from or change reality; rebellion against art
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden interruption or acceleration of a previously gradual development.
+- psychology: nervousness, unusual experiences, powerful imagination, and disorientation are explicit.
+- body/health: Ebertin's hypersensitive nerves and catastrophe footnote are historical claims; Munkasey's drug examples are not advice or an individual diagnosis.
+- social/relationship: possible influence on others through imagination and impersonal attitudes toward destructive activity are stated.
+- events/manifestations: sudden disappearance, revolutionary development taking form, peculiar discoveries, and pretended technical progress are named.
+- conflicts/notes: the three Ebertin footnotes have separate formulas; only62 belongs here, without a catastrophe forecast.
 
 ## Contradictions
 
-- None recorded yet.
+Witte emphasizes abrupt change in development. Ebertin and Sandbach include unusual experiences and discovery or imagination, while Munkasey stresses escape, rebellion, and extremes.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Uranus`: revelatory intuition, uncompromising spiritual change, and the ability to sense when deep systems are about to rupture. Main caution: destabilized perception: awakening can become chaotic, fanatical, or too extreme to integrate safely.
+In Neptune/Pluto = Uranus, gradual development may be interrupted or abruptly pushed forward. [Witte](#witte-entry) names this shift directly; [ABC](#abc-entry) adds unrest, nervousness, sudden air change, and pretended technical development. [Ebertin](#ebertin-entry) and [Sandbach](#sandbach-entry) include unusual experiences, discoveries, powerful imagination, or disorientation; [Munkasey](#munkasey-entry) adds extreme attempts to alter reality. These claims do not establish foresight of systemic rupture, and the separate historical catastrophe footnote is not a prediction.
 
 ## Links
 

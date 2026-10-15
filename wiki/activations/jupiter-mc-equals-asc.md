@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Jupiter Asc MC](../triads/jupiter-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Asc row.
 
 The desire to make others happy. To be jolly with others. Contentment and harmony with others.
 
@@ -45,7 +49,9 @@ The desire to make others happy. To be jolly with others. Contentment and harmon
 
 #### ABC Entry
 
-The money of my partner, the joy of others about me, happiness's minute in one place, my successful partner, my frcude in the environment, my advantage in the place, my place right, psychic happiness with a partner, and soul frcude in the place
+- Source reference: printed p. 74; one-based PDF p. 36, MC + Jupiter, Asc row.
+
+My partner's money, others' joy about me, a moment of happiness in a place, my successful partner, my joy in my surroundings, my advantage at a place, my rights at a place (mein Orts-Recht), happiness of the soul with a partner, and joy of the soul at a place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ Ability to have a happy relationship with those in one's environment coupled wit
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 87, Planets activating the Jupiter/Midheaven midpoint, Ascendant paragraph.
 
 A personality that expresses much enthusiasm for growth, and exuberantly getting on with the business of living and unfolding. Some might express this in worldly terms, others in spiritual seeking, depending on one's focus and level of evolution.
 
@@ -70,22 +78,23 @@ Helps you focus on the need to absorb life’s lessons; allows you to gain from 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Happiness and growth take shape through contact with other people.
+- psychology: An enthusiastic, harmonious disposition; learning from everyday encounters also matters.
+- body/health: No specific bodily or medical claim is made in these entries.
+- social/relationship: Sociability, shared enjoyment and attention to a partner or surrounding people.
+- events/manifestations: Pleasant meetings, festivities and experiences that teach one about others.
+- conflicts/notes: ABC's joy, moment of happiness and rights at a place are legible in the scan. Its Orts-Recht does not specify a jurisdiction or concrete legal entitlement.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis between enjoyment, personal growth and learning from others; no direct incompatibility is established. ABC also names money, advantage and rights at a place; the particular legal setting of Orts-Recht is not supplied.
+
+Visually verified source rows: ABC printed p. 74, one-based PDF p. 36, Asc row; Witte one-based PDF p. 65, Meridian + Jupiter, Asc row; Sandbach one-based PDF p. 87, Ascendant paragraph under Jupiter/Midheaven. Existing Ebertin printed p. 245, entry 0865 and Munkasey printed p. 280 locators are retained; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Asc`: visible enthusiasm, happy association, festivity, and a personality that seems to embody opportunity or encouragement. Main caution: that exuberance can become overextended positivity if the promise of growth is expressed more as mood than as grounded direction.
+In `Jupiter/MC = Asc`, Asc places personal happiness and growth in encounters with others: a cheerful presence, harmonious association and shared enjoyment. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) emphasize sociability, while [Sandbach](#sandbach-entry) describes enthusiasm for unfolding one's life. [Munkasey](#munkasey-entry), supplied p. 280, adds the practical task of learning from experience and understanding other people's motives. Together these passages make growth an interpersonal experience as well as a cheerful disposition.
 
 ## Links
 

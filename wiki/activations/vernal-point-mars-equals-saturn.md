@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Saturn](../triads/vernal-point-mars-saturn.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ Hindrances or stoppage of work. The beginning of toilsome work. Acts of separati
 
 #### ABC Entry
 
-burdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, separation actions in the public, and lossful public activity
+- Source reference: printed p. `33`, one-based PDF p. `15`, complete Saturn row.
+
+German passage transcribed from the scan:
+
+> Arbeits-Aufgaben für die Öffentlichkeit, belastendes Schaffen für die Öffentlichkeit, gestörte Öffentlichkeits-Arbeit, gestörter öffentlicher Wille, hemmende Impulse aus der Öffentlichkeit, Trennungs-Handlungen in der Öffentlichkeit, verlustreiche öffentliche Tätigkeit
+
+Editorial translation: Work tasks for the public; burdensome work for the public; disturbed public work; disturbed public will; inhibiting impulses from the public; acts of separation in public; public activity involving losses.
+
+## Comparative Schema
+
+- Core meaning: Public work burdened, hindered, or brought to a stop.
+- Psychology: Public intention encounters inhibiting impulses; no fuller personality account is supplied.
+- Body/health: Witte includes death during work as a historical manifestation, without a medical mechanism or predictive condition.
+- Social/relationship: Separation takes the form of public acts.
+- Events/manifestations: Toilsome work, work stoppage, separation, and loss in public activity.
+- Conflicts/notes: ABC explicitly names public work tasks and disturbed public work and will; disturbance does not establish a particular cause.
+
+## Contradictions
+
+The entries share impeded or burdensome activity. Witte's fatal example is more severe than ABC's public losses, but neither entry states that every hindrance has that outcome. ABC also lists public work tasks and disturbance of public work and will.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Saturn`: hindrances or stoppage of work, the beginning of toilsome work, acts of separation, and death while performing work.
-- Practical expression: burdensome creation for the public, stortc public work, stort public will, impeding impulses from the public, and separation actions in the public.
+In `Vernal Point/Mars = Saturn`, Saturn specifies public activity through its burdens and interruptions: work becomes difficult, stops, or involves acts of separation and loss. This connects the [Witte Entry](#witte-entry) (PDF p. 42) with the complete [ABC Entry](#abc-entry) (printed p. 33; PDF p. 15). Witte also lists death during work; that severe historical example is retained as an attributed possibility, not a consequence established by the formula alone.
 
 ## Links
 

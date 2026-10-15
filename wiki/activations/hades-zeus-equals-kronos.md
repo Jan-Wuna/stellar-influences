@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = Kronos`
 - Astronomicon formula: `¢/£ = ¤`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 282; PDF p. 278.
+
 Miserable serving conditions, caused by mismanagement by the government. Expanded unemployment. Dissatisfaction against the existing conditions in the government. A big destructive fire.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special benefits through deprivation, danger of a gross fire, criminal state support, lack of self sufficiency, poor government support, state services from the past, hidden filtration hierarchy, and important filtration service
+- Source reference: printed p. 439; PDF p. 218.
+
+Special achievements through deprivation, danger from a major fire, criminal state leadership, lack of independent achievement, inadequate leadership of the state, state achievements from the past, hidden leadership hierarchy, and important leadership service.
+
+## Comparative Schema
+
+- Core meaning: Government mismanagement and the quality of public service.
+- Psychology: Dissatisfaction with existing government conditions.
+- Body/health: No specific bodily condition is stated.
+- Social/relationship: Hierarchy, state leadership, and difficult serving conditions.
+- Events/manifestations: Unemployment, major fire, past state achievements, and achievement through deprivation.
+- Conflicts/notes: ABC's important service and special achievements remain alongside deficient or criminal leadership.
+
+## Contradictions
+
+
+Witte emphasizes mismanagement, unemployment and dissatisfaction; ABC also includes important leadership service and special achievements through deprivation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Kronos`: bad management from above making work, industry, and public life harsher and more combustible. It can show authority worsening idleness, resentment, and destruction.
+In `Hades/Zeus = Kronos`, Kronos specifies the Hades/Zeus axis through government, leadership, and the conditions under which people serve. The [Witte Entry](#witte-entry) links miserable serving conditions and unemployment to government mismanagement, and also names a major fire. The [ABC Entry](#abc-entry) adds important service, achievements through deprivation, and a hidden hierarchy. Public leadership can therefore be burdensome or deficient, while the constructive work accomplished within those conditions remains part of the formula.
 
 ## Links
 

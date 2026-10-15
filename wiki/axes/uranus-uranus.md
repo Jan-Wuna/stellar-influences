@@ -45,6 +45,7 @@ updated_at: 2026-04-21
 
 - Axis: `Uranus/Uranus`
 - Astronomicon axis: `X/X`
+- [Read the interpretation](#derived-synthesis); this repeated-factor axis retains its canonical identity.
 
 ## Source Entries
 
@@ -52,7 +53,18 @@ updated_at: 2026-04-21
 
 #### Pair Summary
 
+- PDF page: 232.
+
 Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Nervousness. Restlessness. Spontaneity. Eccentric. Jerky expressions. Energy. Electric. Innovations. Technics. Technical or mathematical science and knowledge.
+
+## Comparative Schema
+
+- core meaning: suddenness, surprise and unforeseen tension, alongside energy, innovation and technical knowledge ([pair summary](#pair-summary)).
+- psychology: excitement, nervousness, restlessness, spontaneity and eccentric or jerky expression.
+- body/health: nervousness and jerky expression are named; no illness, diagnosis or treatment is specified.
+- social/relationship: the summary supplies no particular partner, group or relationship pattern.
+- events/manifestations: unexpected events, electrical phenomena, innovations, technology and mathematical or technical science/knowledge.
+- conflicts/notes: one source summary is represented. Repetition of Uranus preserves this page's identity without establishing an automatic increase in intensity or a specific event.
 
 ## Related Activations
 
@@ -81,8 +93,9 @@ Suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Ner
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to suddenness. Surprising, Unexpected. Unforeseen tensions. Events. Excitement. Nervousness. Restlessness. Spontaneity. Eccentric. Jerky expressions. Energy. Electric. Innovations. Technics. Technical or mathematical science and knowledge.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Uranus` names suddenness and the unexpected: events or expressions may arrive with surprise, tension, excitement or spontaneity. The sole [pair summary](#pair-summary) also includes nervousness, restlessness, eccentricity and jerky expression. These are several ways the same abrupt or excited quality can appear, without assigning a fixed personality or illness.
+
+The entry has a distinct technical range as well: energy, electricity, innovation, technology and mathematical or technical science and knowledge. Those literal meanings belong beside the experiential ones. The repeated-factor identity does not by itself establish stronger intensity, and the short summary gives no particular outcome or relationship pattern. Each closing factor must be interpreted through its own oriented activation.
 
 ## Links
 

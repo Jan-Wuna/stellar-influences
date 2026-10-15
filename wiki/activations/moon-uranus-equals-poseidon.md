@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Poseidon](../triads/moon-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,18 +40,35 @@ updated_at: 2026-05-04
 
 Hours of mental tension. Sudden public propaganda.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 spiritual impulses of the woman, cultural reform of a people, new insights about the woman, new ideas of a woman, sudden clarity of the feelings, hour of sudden enlightenment, surprising insight of a woman, and reasonable technique of a people
 
+Source locator: printed p. 187, PDF p. 92; Poseidon row visually checked.
+
+## Comparative Schema
+
+- **Core meaning:** Sudden mental stimulation, insight, or the public circulation of ideas ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Mental tension in Witte; clarity of feeling and surprising insight in ABC.
+- **Body/health:** Neither entry specifies a bodily condition.
+- **Social/relationship:** Public propaganda, cultural reform, and ABC's ideas or insights involving women.
+- **Events/manifestations:** Sudden propaganda, moments of illumination, and cultural or technical thinking.
+- **Conflicts/notes:** Illumination and propaganda carry different evaluations; the formula does not establish the truth of an idea.
+
+## Contradictions
+
+Witte emphasizes mental tension and propaganda, while ABC emphasizes clarity and new ideas. These are materially different uses of mental stimulation, not evidence that propaganda necessarily enlightens or that insight must be manipulative.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Uranus = Poseidon`: Hours of mental tension. Sudden public propaganda.
-- Practical focus: spiritualizes `Moon/Uranus` into tense thought, sudden messaging, and ideologically charged public stimulation. It channels nervous excitement into mental or propagandistic forms, where upheaval is carried by ideas as much as events.
-- Practical expression: spiritual impulses of the woman, cultural reform of a people, new insights about the woman, new ideas of a woman, and sudden clarity of the feelings.
+Poseidon specifies Moon/Uranus through sudden stimulation of thought and feeling. The [Witte entry](#witte-entry) describes mental tension and public propaganda, whereas the [ABC entry](#abc-entry) gives new ideas, surprising insight, emotional clarity, and cultural reform.
+
+The common setting is excitement carried through ideas, but the entries leave its quality open. Sudden illumination and sudden propaganda remain distinct possibilities; one should not be used to certify the truth or value of the other.
 
 ## Links
 

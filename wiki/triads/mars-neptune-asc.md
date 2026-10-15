@@ -23,31 +23,58 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Mars Neptune Asc`
 - Astronomicon triad-set: `U Y Asc`
-- This page is structural only. It does not merge the meanings of its orientations.
+- This hub groups an unordered factor set for orientation lookup. [Read the structural guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mars/Asc = Neptune](../activations/mars-asc-equals-neptune.md)
-- [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md)
-- [Neptune/Asc = Mars](../activations/neptune-asc-equals-mars.md)
+| Oriented activation | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Asc = Neptune](../activations/mars-asc-equals-neptune.md) | [Mars/Asc](../axes/mars-asc.md) | [Neptune](../factors/neptune.md) |
+| [Mars/Neptune = Asc](../activations/mars-neptune-equals-asc.md) | [Mars/Neptune](../axes/mars-neptune.md) | [Asc](../factors/asc.md) |
+| [Neptune/Asc = Mars](../activations/neptune-asc-equals-mars.md) | [Neptune/Asc](../axes/neptune-asc.md) | [Mars](../factors/mars.md) |
+
+All three possible base-axis/activator orientations are represented in the linked pages.
 
 ## Source Coverage
 
-- `Mars/Asc = Neptune`: Michael, page `248`
-- `Mars/Neptune = Asc`: Michael, page `236`
-- `Neptune/Asc = Mars`: Michael, page `336`
+Coverage follows the actual source subsections on each linked activation page. The references below are retained extraction locators; they have not been checked against page images in this hub review. A source catalog records scope, not proof that every orientation is represented.
+
+Every source named below is represented on all three linked activation pages (3/3). This is canonical-page coverage, not independent scan verification.
+
+- [Mars/Asc = Neptune: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-asc-equals-neptune.md#witte-entry) — PDF entry-start locator `85`.
+- [Mars/Asc = Neptune: Udo Rudolph - ABC for Planetary Pictures](../activations/mars-asc-equals-neptune.md#abc-entry) — printed page locator `111`, PDF locator `54`.
+- [Mars/Asc = Neptune: Reinhold Ebertin - The Combination of Stellar Influences](../activations/mars-asc-equals-neptune.md#ebertin-entry) — printed page locator `220`, entry code `0766`.
+- [Mars/Asc = Neptune: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mars-asc-equals-neptune.md#sandbach-entry) — exact complete PDF entry page `76`.
+- [Mars/Asc = Neptune: Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mars-asc-equals-neptune.md#munkasey-entry) — printed page locator `248`.
+- [Mars/Neptune = Asc: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-neptune-equals-asc.md#witte-entry) — PDF entry-start locator `195`.
+- [Mars/Neptune = Asc: Udo Rudolph - ABC for Planetary Pictures](../activations/mars-neptune-equals-asc.md#abc-entry) — printed page locator `304`, PDF locator `151`.
+- [Mars/Neptune = Asc: Reinhold Ebertin - The Combination of Stellar Influences](../activations/mars-neptune-equals-asc.md#ebertin-entry) — printed page locator `212`, entry code `0732`.
+- [Mars/Neptune = Asc: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/mars-neptune-equals-asc.md#sandbach-entry) — exact PDF entry page `73`.
+- [Mars/Neptune = Asc: Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/mars-neptune-equals-asc.md#munkasey-entry) — printed page locator `236`.
+- [Neptune/Asc = Mars: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-asc-equals-mars.md#witte-entry) — PDF entry-start locator `89`.
+- [Neptune/Asc = Mars: Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-asc-equals-mars.md#abc-entry) — printed page locator `118`, PDF locator `58`.
+- [Neptune/Asc = Mars: Reinhold Ebertin - The Combination of Stellar Influences](../activations/neptune-asc-equals-mars.md#ebertin-entry) — printed page locator `287`, entry code `1027`.
+- [Neptune/Asc = Mars: John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-asc-equals-mars.md#sandbach-entry) — exact PDF entry page `113` (chapter starts on `112`).
+- [Neptune/Asc = Mars: Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/neptune-asc-equals-mars.md#munkasey-entry) — printed page locator `336`.
+
+Witte references identify the beginning of an extracted pair entry, not an independently checked formula line.
+Read the linked source wording with its limitations; source-text issues recorded in this review are not used as hub doctrine.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+This structural map does not assess agreement between source claims. Changing the base axis or the activator changes the formula; differences between these rows are orientation differences, not contradictions. Compare claims within the same linked activation before drawing a doctrinal conclusion.
+
+<a id="derived-synthesis"></a>
+## Derived Synthesis
+
+Use the row whose base axis and activator match the formula being read. Follow its activation link for sourced interpretation and its base-axis link for the pair meaning. The shared set of Mars, Neptune and Asc is a navigation relationship; it supplies no merged interpretation across the orientations.
 
 ## Links
 

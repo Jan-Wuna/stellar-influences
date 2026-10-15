@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Uranus`
 - Astronomicon formula: `V/g = X`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Uranus row; full row checked.
+
 Unexpected good acquaintance. Successful contacts to technology.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting legal connection, successful contacts to technology, success impulses in a relationship, joy through new relationships, joyful event in a connection, refonn of legal relationships, and refonn in relations with money
+- Source reference: printed page 215; one-based PDF page 106, Mondknoten/Jupiter section, Uranus row; full German row and neighbors checked.
+
+An exciting legal connection, successful contacts with technology, impulses toward success in a relationship, joy through new relationships, a joyful event in a connection, reform of legal relationships, and reform in relationships to money
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0837; retained printed coded-entry locator.
 
 A spirited and witty companion. A sudden entering into new contacts or new business partnerships.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Uranus entry; exact paragraph checked.
 
 A genius for making connections and for expanding one’s connectedness to others. The ability to connect with others in a freely enthusiastic way.
 
@@ -66,26 +76,27 @@ A genius for making connections and for expanding one’s connectedness to other
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed-page locator, not a new PDF-page claim.
+
 Being more impersonal with your contacts; place the contributions of others to your goals in better perspective; fortunate contacts with astrological groups; peculiar views in life which cause you to pursue erroneous goals.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Unexpected acquaintances, new partnerships and freely expanding connections.
+- psychology: Spirited wit and enthusiasm; Munkasey also supplies impersonal perspective or erroneous goals.
+- body/health: No bodily condition is stated.
+- social/relationship: New business partnerships, technological contacts and astrological groups.
+- events/manifestations: Sudden contacts, joyful events and legal/financial reforms.
+- conflicts/notes: Munkasey's explicit caution concerns peculiar views leading to erroneous goals; prolonged instability is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+Witte, Ebertin and Sandbach emphasize favorable new connections. Munkasey qualifies this with impersonal assessment and the possibility of erroneous goals arising from unusual views. That difference is retained without inventing unstable duration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Uranus`: spirited companionship, surprising partnership openings, and freely enthusiastic connection with people who widen possibilities quickly. Main caution: instability: sudden good contacts can be exciting but may also prove erratic or hard to stabilize over time.
+In `Jupiter/Node = Uranus`, the [source entries](#source-entries) emphasize unexpected acquaintances, sudden partnerships and enthusiastic expansion of contact. Technology, legal ties and financial reform provide specific settings. Ebertin's witty companion and Sandbach's freely enthusiastic connection give the social tone, while Munkasey adds a more impersonal view of what others contribute to one's goals. His possibility of erroneous goals qualifies the favorable openings; the source does not require that a sudden connection later become unstable.
 
 ## Links
 

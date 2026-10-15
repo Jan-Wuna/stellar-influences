@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Node Hades`
 - Astronomicon triad-set: `S g ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Hades = Sun](../activations/node-hades-equals-sun.md)
-- [Sun/Hades = Node](../activations/sun-hades-equals-node.md)
-- [Sun/Node = Hades](../activations/sun-node-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Hades = Sun](../activations/node-hades-equals-sun.md) | [Node/Hades](../axes/node-hades.md) | [Sun](../factors/sun.md) |
+| [Sun/Hades = Node](../activations/sun-hades-equals-node.md) | [Sun/Hades](../axes/sun-hades.md) | [Node](../factors/node.md) |
+| [Sun/Node = Hades](../activations/sun-node-equals-hades.md) | [Sun/Node](../axes/sun-node.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Node/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `226`
-- `Sun/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `160`
-- `Sun/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `141`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Hades = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-hades-equals-sun.md#witte-entry), one-based PDF entry-start p. `150`.
+- `Node/Hades = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-hades-equals-sun.md#abc-entry), printed p. `226`.
+- `Sun/Hades = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-node.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-node.md#abc-entry), printed p. `160`.
+- `Sun/Node = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-hades.md#witte-entry), one-based PDF entry-start p. `102`.
+- `Sun/Node = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-hades.md#abc-entry), printed p. `141`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Sun`: To meet invalids. To be bodily disgusted and fed up with something. Bodily displeasure. To be robbed. To unite with thieves.
-- `Sun/Hades = Node`: This formula emphasizes sickness in connection or unions and poor associations.
-- `Sun/Node = Hades`: This formula emphasizes poor associations or suffering through connections.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Triad hub: [Venus Mars Jupiter](../triads/venus-mars-jupiter.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Mars`
+- Source reference: PDF page `176` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Luck with relatives and intimate acquaintances. Happy sex intercourse.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Source reference: printed page `270`; PDF page `134` (one-based).
+
 #### ABC Entry
 
-Work with money Iieben, Bemiiungen um legal, erfolgreichen artistic Aktion, Finanz-Wünsche bearbeitet, joy an the peace work, happiness in harmonischer work, love joy willen, love happiness produkte, and Preference for legal activity
+Loving work with money, efforts for legal advantages, successful artistic activity, working on financial wishes, joy in peace work, happiness in harmonious work, wanting joy in love, creating happiness in love, and preference for legal activity.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Mars`
+- Source reference: printed page `176`, coded entry `0582`.
 
 #### Ebertin Entry
 
 A healthy sex relationship. A strong physical attraction, rich soul life and expression of feeling. A happy sex relationship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Mars midpoint`
+- Source reference: PDF page `55` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Appreciating the beauty demonstrated in contests of strength or mastery of skill
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Pleasure and confidence in intimacy, devoted activity, and accomplishment.
+- Psychology: Romantic enthusiasm and confidence can accompany overcommitment or exaggerated enjoyment.
+- Body/health: Ebertin's healthy sexual relationship is an attributed description, not a clinical assessment.
+- Social/relationship: Fortunate close relations, attraction, and happy intimate contact.
+- Events/manifestations: Accomplishing many things, artistic work, legal advantages, and pleasure in strength, skill, or music.
+- Conflicts/notes: Sandbach allows inefficiency from taking on too much; Munkasey adds exaggerated intimate pleasures.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach allows inefficiency from taking on too much; Munkasey adds exaggerated intimate pleasures.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Jupiter`: romantic boldness, creative exuberance, and the ability to pursue what one loves with joyful conviction. Main caution: overextension: desire can become indulgent, boastful, or too convinced that more intensity and pleasure are always better.
+`Venus/Mars = Jupiter` expands pleasure and confidence in intimate engagement or devoted action. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize fortunate close relations, attraction, and happy sexual relationship; Ebertin's 'healthy' remains his description. The [ABC entry](#abc-entry) also names artistic work, financial wishes, legal advantages, and pleasure in peaceful or harmonious work. [Sandbach](#sandbach-entry) connects romantic enthusiasm to accomplishing much, while warning that taking on too much can impair efficiency. [Munkasey](#munkasey-entry) adds appreciation of strength, skill, and music, together with exaggerated intimate pleasure. Enjoyment and confidence therefore coexist with excess in the supported range.
 
 ## Links
 

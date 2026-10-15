@@ -1,0 +1,851 @@
+{
+  "reviewer": "a079-083",
+  "scope": "23 missing082 Uranus/Node full reviews, each counted once.",
+  "source_repairs": "17 ABC repairs, three ABC entries preserved (Admetos,Hades,VernalPoint), one soleSandbach preserved, two soleMunkasey repeated-factor entries preserved. Neptune6/Pluto6 actual boundaries restored; Witte Pluto P glyph remnant removed. All other Witte/Sandbach/Ebertin/Munkasey prose preserved. Sun Ebertin cause confirmed by enlarged actual crop.",
+  "boundary_native_proof": {
+    "Neptune": "Aufregung in Verbindung mit Wasser, Impulse für eine zukünftige Verbindung, plötzliche Auflösung einer Verbindung, Täuschung in einer neuen Beziehung, Nervosität in einer unklaren Beziehung, Unsicherheit und Unruhe in einer Verbindung",
+    "Pluto": "Aufregender Wechsel einer Verbindung, Entwicklung einer dynamischen Beziehung, Entwicklung einer neuen Verbindung, plötzliche Entwicklung einer Begegnung, plötzlicher Wandel in einer Verbindung, wachsende Unruhe in einer Verbindung"
+  },
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-node-equals-admetos.md",
+      "sha256": "7be09bdabb9bb3b1ed019ec7dfeca5e45add5c4aa7ef7f29308866d554c2bb53",
+      "source_section_sha256": "142ae3667b4d7f85f10fdc6cfcfdeb7392781109097db804fcde5d582bbcc64a",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Six ABC clauses and complete Witte entry preserved after actual scan comparison; restriction/endurance and severance alternatives retained."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-apollon.md",
+      "sha256": "bede5d4afa106e5d57134d7a8e5f335d4b16a4b47679c79be33025ac4e4f1e13",
+      "source_section_sha256": "e523bc227483af24deb14b5cdd05314493687f8c9720260e3bc2bfd82aeb4800",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored vermitteln in second ABC clause as conveying impulses toward success; all seven clauses checked."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-asc.md",
+      "sha256": "13d266a79366107fc692c4ce04f580fa5a782796eeeec3b3339a9fc73fab7c7f",
+      "source_section_sha256": "192458cf00c4295821dd1cf9a7f59df0cdeffec2d8b9f4f5a079c1382fe8f463",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Repaired Ercignisive as eventful, restored omitted restless relationships with others, and linkage with environmental reforms; all seven ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-chiron.md",
+      "sha256": "c1351292f6edbcab91928444e2aab98d9749d6539bd3933306806c7a9f5de694",
+      "source_section_sha256": "40702023789da01500ab1bfa18471a38fe6622698830dce14b6e02422e8969e0",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Sole Sandbach entry preserved; exact107 verified instead of106 chapter-start locator."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-cupido.md",
+      "sha256": "3ca63092ea92cf0f7416e080c9b447182396366cd919663e49f8a6c831f7617a",
+      "source_section_sha256": "8c095cdf06ef413110314865eed07a6f1014da94cb16277231361f30b377bd96",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Repaired repeated with of grammar while preserving all six ABC clauses and shared-rhythm wording."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-hades.md",
+      "sha256": "06121cd462a936cec1d1be575f281d8ee306a32fff097419c1a9dfea7e531bf9",
+      "source_section_sha256": "922117df07f1871a25278c15d84245297de2d4503576214000e12fb4ad979ccf",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "All six ABC clauses and Witte severe/criminal/lack-of-dynamism examples preserved after actual scan comparison."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-jupiter.md",
+      "sha256": "d4d10c7f013401d2e616acaa3463d34d29ac56d98d9fd8ca2cce8d4179030953",
+      "source_section_sha256": "41bd7466f0f523e3c7f1de11a7a7bcbc607fb79cc7b30983a7f599ca6b366883",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Replaced accounts mismatch with legal mediation (Rechts-Vermittlung), tangle with linkage to financial reform; all seven ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-kronos.md",
+      "sha256": "bebe5506286bd7f4eaf8bd4fdf80748aaeadd362cf4947da1504e06d49cc9f7d",
+      "source_section_sha256": "87f7796493eaffe81ac41da0c79f8f4076fe6a2f93048c48b6451084d68e26c7",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Replaced authorizations with authorities (Autoritäten), preserved independence (Selbständigkeit) and all seven ABC clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mars.md",
+      "sha256": "c0afb7e44683bc87a816ddeb6773d75a0a6cb52a94bd9ced105421303b752747",
+      "source_section_sha256": "9b7e0dcdcee2ce224d9bda39f0312082e731aeb36a672e08ae5a77ff602e696a",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected support to efforts toward new connections and work renunciation to job placement (Arbeits-Vermittlung); all seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mc.md",
+      "sha256": "fa2c31c0325b6a4568d062b52fdb896c9d8a1c30a532925d4a89cdf0946ddba0",
+      "source_section_sha256": "9abc41a4ff080a7009f7f4de6bcc6b6206bfc3cb99e4e399f0ffb377a5ca616a",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored My excitement during encounters from Meine Aufregungen bei Begegnungen; repaired at contacts and all seven ABC clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mercury.md",
+      "sha256": "c0486c64de29111df2925a143efd0ada251c539c8961b65e57d5b1329e3e4c37",
+      "source_section_sha256": "39007124e97e2dcd55ed20cbc743da6cd979f6945b826d8fd5bad33c0665775b",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected language contacts/announcement of languages to conversational contacts/initiation of conversations and specified news transmission; all seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-moon.md",
+      "sha256": "30b6f4c3b90a01fd2e081b7b6642671a0354888bb84e60116391bb479d968eb6",
+      "source_section_sha256": "b6f08ab2ff5b7e78a653111304b58d5ee2253e3688ecb5dc376e360a5dd759e2",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored omitted third ABC clause emotional impulses of a connection; all seven clauses verified, preserving women/people/hour examples."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-neptune.md",
+      "sha256": "3cf5631f71f3e8f234b4811ca77f7068b34c37fe834a79c85b20bc5212da811d",
+      "source_section_sha256": "3cc3c7865a77ddb71c7327d2b6e624f227dc75dacdbb3939ece2a2e546578f51",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Verified six-clause boundary: repaired exchange to deception and removed Pluto's absorbed opening clauses; actual108 glyph rows separate them."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-node.md",
+      "sha256": "74afe0ef7f8d75c2e79134e33c5fb47fd7d7505037b1134526a4fb0ccb1d26c8",
+      "source_section_sha256": "2d3d79f1ae97cfd6be68c3328034a2bef6ea19d805a8af95bc8818746a9832e6",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Sole Munkasey With Itself318 entry preserved against baseline and assigned evidence; no raw visual-proof claim."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-pluto.md",
+      "sha256": "66ef4b2d5ef5ad4175631f056a0f55c3436d8f2635fc74e24c9ae24691a33c09",
+      "source_section_sha256": "875ef388384df2cb7f40755637a76f11cdd4c7e1420724889226b2d34e0309e5",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored six complete ABC clauses, recovering first two absorbed by Neptune and third damaged opening; final Unruhe is unrest rather than difficulties. Removed Witte Pluto P glyph remnant."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-poseidon.md",
+      "sha256": "568f5ffd5787cfa9ec17afe807d8ad7ec13569601b92fd2d3fabda387a4d9479",
+      "source_section_sha256": "0d252771d695f3bf844e9499364745c67a2552cbe00e591f6f111617d304b90c",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected reference connections to reform connections and cultural events negate to mediating cultural events; geistvoll/geistig intellectual sense retained, all seven clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-saturn.md",
+      "sha256": "92ec20e333c3584cd49fb18ec294959f79096e32cc14c1cfa27991bec42f3bf6",
+      "source_section_sha256": "ad559d1e9e9c883f19f7fdfec5890821ecad9378a53953a744c327af70bed713",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected cancellation impulses to disturbance impulses (Störungs-Impulse), preserved exciting versus sudden separation clauses and all seven ABC clauses."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-sun.md",
+      "sha256": "f4f931acdf8b07bdd90fbdbe674c0f61e3f9e34589016e9a71a6e2d16f8a9796",
+      "source_section_sha256": "268f09947072ba9d2806cf6349217878db26638562efb86e7d021adb1eab14ba",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Restored seven ABC clauses, including encountering excited people, technical people and surprising connection with a man; source-specific gender preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-uranus.md",
+      "sha256": "ff0dde8d5640810f1c28ccec17cd49077dc7807dc8fa98c09623dd5482a5f564",
+      "source_section_sha256": "f4967f0c8c027eeb84c1493d3869d409aaa9fd1d5f0a2c3c1b759d9e5fc10503",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Sole Munkasey With Itself318 entry preserved against baseline/evidence; no raw visual-proof claim."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-venus.md",
+      "sha256": "7bda5a30ecafb1b584cbb2c0a2633b0a3d3970c7a502a5cfd7ddf7ca93a679b1",
+      "source_section_sha256": "9937ffa0d3a1d4aebdd11aeffba692d92c89f926eac1ffe1e5865f02565bbee3",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected connection pulses to connection impulses; all seven ABC clauses checked and remaining prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-vernal-point.md",
+      "sha256": "69b76ee92fb7f66b12542c3b6ffb05d422342b80cd4bf8f8cfcac395a62bab12",
+      "source_section_sha256": "2120b8518f157fdad4e4e379e22e4147a0b90a955c0ee6586b1d03672d43b03f",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "All five ABC clauses preserved; Spannungs-Vermittlung retains bounded ambiguity between transmission and mediation of tension, without asserting resolution."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-vulcanus.md",
+      "sha256": "b742ee1919f6e68bfe21c3aed4e5dcfc85e3c0776c280c47767c6deec6cd1821",
+      "source_section_sha256": "2f7b4da0e79e871ed23549ff3a9ae6307de6a7922227c42b4a7ac0f202445d59",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected reforestation to reform of power connections (Reformierung); all six ABC clauses verified."
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-zeus.md",
+      "sha256": "1e4ba9e25ce03b968836d334c507d494dc977142dde62155166141fd91bf1147",
+      "source_section_sha256": "18e36bbfe8868c9e7282b64e9b2e85c122717f8f6f37c967ccfb5dae64af628d",
+      "checks": "metadata/formula/anchor/route/schema6/Links/targets/source preservation passed",
+      "repair": "Corrected spatial procreation connection to disturbed procreative connection (gestörte Zeugungs-Verbindung); all seven clauses verified."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-node-equals-admetos.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Six ABC clauses and complete Witte entry preserved after actual scan comparison; restriction/endurance and severance alternatives retained."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Six ABC clauses and complete Witte entry preserved after actual scan comparison; restriction/endurance and severance alternatives retained.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "7be09bdabb9bb3b1ed019ec7dfeca5e45add5c4aa7ef7f29308866d554c2bb53"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-apollon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Restored vermitteln in second ABC clause as conveying impulses toward success; all seven clauses checked."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Restored vermitteln in second ABC clause as conveying impulses toward success; all seven clauses checked.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "bede5d4afa106e5d57134d7a8e5f335d4b16a4b47679c79be33025ac4e4f1e13"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-asc.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Repaired Ercignisive as eventful, restored omitted restless relationships with others, and linkage with environmental reforms; all seven ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Repaired Ercignisive as eventful, restored omitted restless relationships with others, and linkage with environmental reforms; all seven ABC clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed273/PDF275, code0972; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "13d266a79366107fc692c4ce04f580fa5a782796eeeec3b3339a9fc73fab7c7f"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-chiron.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Sole Sandbach entry preserved; exact107 verified instead of106 chapter-start locator."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Sole Sandbach entry preserved; exact107 verified instead of106 chapter-start locator.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "c1351292f6edbcab91928444e2aab98d9749d6539bd3933306806c7a9f5de694"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-cupido.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Repaired repeated with of grammar while preserving all six ABC clauses and shared-rhythm wording."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Repaired repeated with of grammar while preserving all six ABC clauses and shared-rhythm wording.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "3ca63092ea92cf0f7416e080c9b447182396366cd919663e49f8a6c831f7617a"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-hades.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "All six ABC clauses and Witte severe/criminal/lack-of-dynamism examples preserved after actual scan comparison."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "All six ABC clauses and Witte severe/criminal/lack-of-dynamism examples preserved after actual scan comparison.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "06121cd462a936cec1d1be575f281d8ee306a32fff097419c1a9dfea7e531bf9"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-jupiter.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Replaced accounts mismatch with legal mediation (Rechts-Vermittlung), tangle with linkage to financial reform; all seven ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Replaced accounts mismatch with legal mediation (Rechts-Vermittlung), tangle with linkage to financial reform; all seven ABC clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0968; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "d4d10c7f013401d2e616acaa3463d34d29ac56d98d9fd8ca2cce8d4179030953"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-kronos.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Replaced authorizations with authorities (Autoritäten), preserved independence (Selbständigkeit) and all seven ABC clauses."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Replaced authorizations with authorities (Autoritäten), preserved independence (Selbständigkeit) and all seven ABC clauses.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "bebe5506286bd7f4eaf8bd4fdf80748aaeadd362cf4947da1504e06d49cc9f7d"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mars.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected support to efforts toward new connections and work renunciation to job placement (Arbeits-Vermittlung); all seven clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected support to efforts toward new connections and work renunciation to job placement (Arbeits-Vermittlung); all seven clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0967; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "c0afb7e44683bc87a816ddeb6773d75a0a6cb52a94bd9ced105421303b752747"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mc.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Restored My excitement during encounters from Meine Aufregungen bei Begegnungen; repaired at contacts and all seven ABC clauses."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Restored My excitement during encounters from Meine Aufregungen bei Begegnungen; repaired at contacts and all seven ABC clauses.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed273/PDF275, code0973; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "fa2c31c0325b6a4568d062b52fdb896c9d8a1c30a532925d4a89cdf0946ddba0"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-mercury.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected language contacts/announcement of languages to conversational contacts/initiation of conversations and specified news transmission; all seven clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected language contacts/announcement of languages to conversational contacts/initiation of conversations and specified news transmission; all seven clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0965; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF106–107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "c0486c64de29111df2925a143efd0ada251c539c8961b65e57d5b1329e3e4c37"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-moon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Restored omitted third ABC clause emotional impulses of a connection; all seven clauses verified, preserving women/people/hour examples."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Restored omitted third ABC clause emotional impulses of a connection; all seven clauses verified, preserving women/people/hour examples.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0964; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF106; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "30b6f4c3b90a01fd2e081b7b6642671a0354888bb84e60116391bb479d968eb6"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-neptune.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Verified six-clause boundary: repaired exchange to deception and removed Pluto's absorbed opening clauses; actual108 glyph rows separate them."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Verified six-clause boundary: repaired exchange to deception and removed Pluto's absorbed opening clauses; actual108 glyph rows separate them.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0970; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "3cf5631f71f3e8f234b4811ca77f7068b34c37fe834a79c85b20bc5212da811d"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-node.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Sole Munkasey With Itself318 entry preserved against baseline and assigned evidence; no raw visual-proof claim."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Sole Munkasey With Itself318 entry preserved against baseline and assigned evidence; no raw visual-proof claim.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed318 With Itself; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "74afe0ef7f8d75c2e79134e33c5fb47fd7d7505037b1134526a4fb0ccb1d26c8"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-pluto.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Restored six complete ABC clauses, recovering first two absorbed by Neptune and third damaged opening; final Unruhe is unrest rather than difficulties. Removed Witte Pluto P glyph remnant."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Restored six complete ABC clauses, recovering first two absorbed by Neptune and third damaged opening; final Unruhe is unrest rather than difficulties. Removed Witte Pluto P glyph remnant.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272–273/PDF274–275, code0971; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "66ef4b2d5ef5ad4175631f056a0f55c3436d8f2635fc74e24c9ae24691a33c09"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-poseidon.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected reference connections to reform connections and cultural events negate to mediating cultural events; geistvoll/geistig intellectual sense retained, all seven clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected reference connections to reform connections and cultural events negate to mediating cultural events; geistvoll/geistig intellectual sense retained, all seven clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "568f5ffd5787cfa9ec17afe807d8ad7ec13569601b92fd2d3fabda387a4d9479"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-saturn.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected cancellation impulses to disturbance impulses (Störungs-Impulse), preserved exciting versus sudden separation clauses and all seven ABC clauses."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected cancellation impulses to disturbance impulses (Störungs-Impulse), preserved exciting versus sudden separation clauses and all seven ABC clauses.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0969; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "92ec20e333c3584cd49fb18ec294959f79096e32cc14c1cfa27991bec42f3bf6"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-sun.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Restored seven ABC clauses, including encountering excited people, technical people and surprising connection with a man; source-specific gender preserved."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Restored seven ABC clauses, including encountering excited people, technical people and surprising connection with a man; source-specific gender preserved.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0963; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF106; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "f4f931acdf8b07bdd90fbdbe674c0f61e3f9e34589016e9a71a6e2d16f8a9796"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-uranus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Sole Munkasey With Itself318 entry preserved against baseline/evidence; no raw visual-proof claim."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Sole Munkasey With Itself318 entry preserved against baseline/evidence; no raw visual-proof claim.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "Munkasey printed318 With Itself; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "ff0dde8d5640810f1c28ccec17cd49077dc7807dc8fa98c09623dd5482a5f564"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-venus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected connection pulses to connection impulses; all seven ABC clauses checked and remaining prose preserved."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected connection pulses to connection impulses; all seven ABC clauses checked and remaining prose preserved.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png.",
+        "Ebertin printed272/PDF274, code0966; verification/a079-083-ebertin-node-274.png and -275.png.",
+        "Sandbach exactPDF107; verification/a079-083-sandbach-node-106.png and -107.png.",
+        "Munkasey printed316 with Planets and Points; preserved source text against baseline and assigned evidence; no new visual-proof claim."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "7bda5a30ecafb1b584cbb2c0a2633b0a3d3970c7a502a5cfd7ddf7ca93a679b1"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-vernal-point.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "All five ABC clauses preserved; Spannungs-Vermittlung retains bounded ambiguity between transmission and mediation of tension, without asserting resolution."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "All five ABC clauses preserved; Spannungs-Vermittlung retains bounded ambiguity between transmission and mediation of tension, without asserting resolution.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [
+        "ABC Spannungs-Vermittlung remains broad between transmission and mediation; no claim of resolution or specific procedure."
+      ],
+      "evidence": [
+        "ABC printed218/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "69b76ee92fb7f66b12542c3b6ffb05d422342b80cd4bf8f8cfcac395a62bab12"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-vulcanus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected reforestation to reform of power connections (Reformierung); all six ABC clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected reforestation to reform of power connections (Reformierung); all six ABC clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "b742ee1919f6e68bfe21c3aed4e5dcfc85e3c0776c280c47767c6deec6cd1821"
+    },
+    {
+      "path": "wiki/activations/uranus-node-equals-zeus.md",
+      "reviewer": "a079-083",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Baseline filler/keyword list required evidence-linked exact-oriented synthesis and six meaningful categories; inherited partial edits required full verification.",
+        "Corrected spatial procreation connection to disturbed procreative connection (gestörte Zeugungs-Verbindung); all seven clauses verified."
+      ],
+      "changes": [
+        "Verified coherent synthesis, six meaningful categories, early route and adjacent unique stable anchor; replaced stale cached-source holds with actual bounded source differences.",
+        "Corrected spatial procreation connection to disturbed procreative connection (gestörte Zeugungs-Verbindung); all seven clauses verified.",
+        "Added exact verified locators; preserved severe, medical, gender, reproductive, spiritual and minority technical qualifications."
+      ],
+      "verification": [
+        "Read whole page/frontmatter/all represented source entries/notes/Links, canonical Uranus/Node axis and all matching assigned evidence records.",
+        "Personally inspected actual ABC108 printed218–219/Witte146 glyph rows where represented; Sandbach106–107 exact entries and Ebertin274–275 where represented. Sun cause confirmed with enlarged actual274 crop.",
+        "Read actual bounded diffs; scoped metadata/formula/anchor/route/schema6/source preservation exceptions/unchanged Links/local targets and git diff --check passed."
+      ],
+      "unresolved": [],
+      "evidence": [
+        "ABC printed219/PDF108; verification/a079-083-udo-pdf108.png.",
+        "Witte PDF146; verification/a079-083-witte-pdf146.png."
+      ],
+      "proof": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json",
+      "sha256": "1e4ba9e25ce03b968836d334c507d494dc977142dde62155166141fd91bf1147"
+    }
+  ]
+}
+

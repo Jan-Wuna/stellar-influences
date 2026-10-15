@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Neptune Poseidon](../triads/venus-neptune-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 Religious revelling. A good Neptune: fine spiritual attitude. A poor Neptune: religious delusions.
 
@@ -42,13 +46,27 @@ Religious revelling. A good Neptune: fine spiritual attitude. A poor Neptune: re
 
 #### ABC Entry
 
-Exchanged peace idea, exchanged love through truth, subtle gcisty love, joy Tibetan clear water, metaphysical artificial I dee, new spiritual artificial, weak peace ldee, and preference for metaphysical Idccn
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Disappointing peace idea, love disappointed through truth, sensitive spiritual love, joy in clear water, metaphysical art idea, inclination toward metaphysical truth, new spiritual art, weak peace idea, and preference for metaphysical ideas
+
+## Comparative Schema
+
+- core meaning: Sensitive spiritual experience with possible disappointment or delusion.
+- psychology: Fine spiritual attitude or religious delusion are Witte's conditional alternatives.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Love disappointed through truth and sensitive spiritual love.
+- events/manifestations: Metaphysical art, clear water, and new spiritual art are ABC examples.
+- conflicts/notes: Witte's good/poor Neptune qualification is source language; it supplies no clinical diagnosis.
+
+## Contradictions
+
+Fine spiritual attitude and religious delusion are explicit alternatives; ABC similarly joins subtle love with disappointing or weak peace ideas.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Neptune`: religious revelling.
-- Practical expression: exchanged peace idea, exchanged love through truth, subtle gcisty love, oy Tibetan clear water, and metaphysical artificial I dee.
+In `Venus/Poseidon = Neptune`, Neptune specifies the pair through sensitive spiritual experience whose clarity remains uncertain. The [Witte entry](#witte-entry) explicitly allows a fine spiritual attitude or religious delusion under its own good/poor qualification. The [ABC entry](#abc-entry) connects sensitive spiritual love and metaphysical art with disappointment through truth and weak peace ideas. Joy in clear water is an additional concrete image, not evidence that all spiritual experience is deceptive.
 
 ## Links
 

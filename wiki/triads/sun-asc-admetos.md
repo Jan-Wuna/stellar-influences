@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Asc Admetos`
 - Astronomicon triad-set: `S Asc ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Admetos = Sun](../activations/asc-admetos-equals-sun.md)
-- [Sun/Admetos = Asc](../activations/sun-admetos-equals-asc.md)
-- [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Admetos = Sun](../activations/asc-admetos-equals-sun.md) | [Asc/Admetos](../axes/asc-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Asc](../activations/sun-admetos-equals-asc.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Asc](../factors/asc.md) |
+| [Sun/Asc = Admetos](../activations/sun-asc-equals-admetos.md) | [Sun/Asc](../axes/sun-asc.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Asc/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
-- `Asc/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `132`
-- `Sun/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Asc = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `80`
-- `Sun/Asc = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `101`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `96`.
+- `Asc/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-admetos-equals-sun.md#abc-entry), printed p. `132`.
+- `Sun/Admetos = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-asc.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-asc.md#abc-entry), printed p. `168`.
+- `Sun/Asc = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-asc-equals-admetos.md#witte-entry), one-based PDF entry-start p. `80`.
+- `Sun/Asc = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-asc-equals-admetos.md#abc-entry), printed p. `101`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Sun`: the person rooted to a location or property who stands out from the environment and occupies a distinct position within it.
-- `Sun/Admetos = Asc`: This formula emphasizes to refuse connections with others and no desire for connections.
-- `Sun/Asc = Admetos`: This formula emphasizes one who withdraws into oneself and reserve.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

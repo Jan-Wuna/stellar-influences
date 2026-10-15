@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Mercury Venus Zeus](../triads/mercury-venus-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Acquaintances through working together. Thoughts of generation.
 
@@ -42,13 +46,27 @@ Acquaintances through working together. Thoughts of generation.
 
 #### ABC Entry
 
-Strenuous peace language, fiery youth love, joy over a creative youth, beginning Harrnonian language, harmonious traffic guidance, artistic achievements in speech, striving for beauty of language, and creative arts of the media
+- Source page: 286; PDF page: 142 (one-based spread).
+
+Demanding peace conversations, fiery youthful love, joy in creative youth, beginning harmonious conversations, harmonious traffic direction, artistic achievement in conversation, striving for beauty of language, and creative art of the media
+
+## Comparative Schema
+
+- core meaning: Connection and creative effort through thought, speech, and working together.
+- psychology: Thoughts of generation and striving for beautiful language.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Acquaintances through shared work and harmonious conversation.
+- events/manifestations: Peace talks, traffic direction, art in media, and youthful love.
+- conflicts/notes: Generation is source wording; it does not establish a concrete procreative outcome.
+
+## Contradictions
+
+Demanding peace talks and harmonious conversation describe different conditions of exchange, not necessarily a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Mercury`: acquaintances through working together.
-- Practical expression: strenuous peace language, fiery youth love, beginning Harrnonian language, and harmonious traffic guidance.
+In `Venus/Zeus = Mercury`, Mercury specifies the pair through thought and communicative work. The [Witte entry](#witte-entry) names acquaintances formed by working together and thoughts of generation. The [ABC entry](#abc-entry) makes communication concrete in peace talks, harmonious conversation, beauty of language, and creative media. Shared work and expression unify the entries while leaving generation as a separately stated topic rather than an assured event.
 
 ## Links
 

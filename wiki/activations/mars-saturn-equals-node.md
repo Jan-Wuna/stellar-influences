@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Node`
 - Astronomicon formula: `U/W = g`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 197; one-based PDF p. 193, Mars + Saturn, Node row.
+
 To be taken ill. Connected to cases of death. Funerals interruption of connections, quarrels.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Working tasks combine, serious actions in connections, striated work connections, patience in contact work, effective connections in old age, separation actions in connections, and lossful activity in connections
+- Source reference: printed p. 300; one-based PDF p. 149, Mars + Saturn, Node row.
+
+Combining work tasks, serious actions in connections, disturbed work connections, patience in contact work, energetic connections in old age, separating actions in connections, and activity involving loss in connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 206; one-based PDF p. 208, coded entry 0707.
 
 Conditions of living together with negative, weak or sick persons. Association with sick people, mourners or prisoners.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 69, Planets activating the Mars/Saturn midpoint, Node paragraph.
 
 One is learning in this lifetime how to focus one’s energy without repressing it, and to overcome one’s fears of acting. The tendency to connect with others who either frustrate or inhibit one’s actions or who help one become more focused and organized in what one does.
 
@@ -70,22 +80,21 @@ Meeting others who are able to apply restraint to your impulses; encountering pe
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Connections that restrain, organize, or frustrate action.
+- Psychology: Learning focus without self-repression is Sandbach's central distinction.
+- Body/health: Witte's illness and Ebertin's association with sick people remain attributed social or historical examples.
+- Social/relationship: Others can inhibit action or help focus it; restraint can also be brought to others' impulses.
+- Events/manifestations: Group planning, difficult work connections, quarrels, funerals, and interrupted associations.
+- Conflicts/notes: ABC names disturbed work connections alongside energetic connections in old age. Association with suffering is not a moral defect.
 
 ## Contradictions
 
-- None recorded yet.
+Inhibiting relationships and helpful discipline are explicitly different possibilities. The sources do not justify describing sick or imprisoned associates as inherently harmful.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Node`: difficult group dynamics, disciplined cooperation, and relationships that either sharpen focus or inhibit action. Main caution: binding oneself to weakness: associations can become joyless, frustrating, or overly defined by restraint, illness, mourning, or captivity.
+In `Mars/Saturn = Node`, Node specifies constrained effort through association. Other people may frustrate action, help organize it, or receive restraint from the person in question; group planning gives this mutual regulation a practical setting. See [Sandbach](#sandbach-entry) (exact Node paragraph at PDF p. 69) and [Munkasey](#munkasey-entry) (printed p. 228). [Witte](#witte-entry) (PDF p. 193), [ABC](#abc-entry) (printed p. 300), and [Ebertin](#ebertin-entry) (printed p. 206, code 0707) retain difficult connections and associations with suffering without making them inevitable or morally discrediting.
 
 ## Links
 

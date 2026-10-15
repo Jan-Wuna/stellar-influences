@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Asc Kronos](../triads/sun-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ To appear independent. To be greeted by important authority figures. Connections
 
 #### ABC Entry
 
-Authoritats person in the environment, special people in the vicinity, special day in the place, dominance of other people, self reliant people in the vicinity, state center on the place, ill reliant personal partner, and important people of the environment
+Source locator: printed page 101 / PDF page 49, Kronos glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Authority figure in the surroundings, special people nearby, special day at the location, dominance of other people, independent people nearby, state center at the location, superior personal partner, and important people in the surroundings.
+
+## Comparative Schema
+
+- core meaning: Personal contact with authority and influential people.
+- psychology: An independent appearance; awareness of dominance in others.
+- body/health: No specific health claim is given.
+- social/relationship: Relationships with prominent or self-reliant people.
+- events/manifestations: Being greeted by authority figures; dealings with a local state center.
+- conflicts/notes: The source's superior partner and authority figures specify a relationship setting, without establishing the reader's rank.
+
+## Contradictions
+
+Independence and contact with authorities describe different aspects of the same setting, not a stated contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Asc = Kronos`: a ruler and a superior personality.
-- Practical expression: special people in the vicinity, special day in the place, dominance of other people, and self reliant people in the vicinity.
+Kronos specifies the Sun/Asc axis through personal contact with authority and people of standing. The [Witte entry](#witte-entry) joins an independent appearance with being received by influential figures, while the [ABC entry](#abc-entry) places important, self-reliant, or dominant people in the immediate environment. The emphasis is access to, and conduct among, authority figures rather than proof that the person is a ruler.
 
 ## Links
 

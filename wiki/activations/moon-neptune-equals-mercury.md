@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = Mercury`
 - Astronomicon formula: `R/Y = T`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 Person endowed with much fantasy. Power of imagination.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `188`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-Exchanged young woman, fine language code, opinions on the future of a woman, news on the future of a woman, unclear issues in youth, insecurity of a woman in traffic, refined thoughts of a woman, and future of the youth of a people
+A disappointed young woman, a fine sense for language, opinions on the future of a people, news about a woman's future, unclear feelings in youth, a woman's insecurity in traffic, a woman's refined thoughts, and the future of a people's youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `132`, entry `0400`.
 
 #### Ebertin Entry
 
 Control of inner vision by intelligence or common sense, fantasy and imagination, creative thoughts, artistic talents.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `35` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Articulating dreams received about the future or past themes of living; a study 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: imaginative thought and delicate communication, with possible misunderstanding ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: fantasy, creative thought, subjective subtlety, and common-sense control of inner vision are stated.
+- body/health: no specific bodily or health condition appears in these entries.
+- social/relationship: communicating inner feelings and being misunderstood by others are explicit.
+- events/manifestations: artistic talent, articulating dreams, occult study, and news about the future are examples.
+- conflicts/notes: emotional confusion is a stated possibility; projection and weak boundaries are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin describes intelligence or common sense controlling inner vision, whereas Sandbach includes subjective subtlety and emotional confusion. These identify different possibilities for imagination rather than a direct disagreement over a single inevitable result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Mercury`: intuitive language, delicate perception, and the ability to speak from image, mood, and subtle human feeling. Main caution: mental and verbal haze: impression and projection can weaken factual clarity or reliable boundaries.
+In Moon/Neptune = Mercury, Mercury specifies the pair through imaginative thought and expression. [Witte](#witte-entry) names fantasy and imagination; [Ebertin](#ebertin-entry) adds creative thought, artistic talent, and the control of inner vision by common sense. [Munkasey](#munkasey-entry) makes the expression concrete through articulating dreams and communicating inner feelings (p. 128).
+
+Delicacy can also make communication difficult to understand: [Sandbach](#sandbach-entry) names subjective subtlety and emotional confusion. The [ABC entry](#abc-entry) preserves a fine sense for language and refined thoughts alongside disappointment and unclear feelings (printed p. 188, PDF p. 93). The supported tension is between subtle expression and intelligibility, without assuming that all imaginative thought lacks clarity.
 
 ## Links
 

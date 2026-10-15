@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Jupiter Zeus](../triads/venus-jupiter-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 Happiness through devoted activities. Good progeny.
 
@@ -42,13 +46,27 @@ Happiness through devoted activities. Good progeny.
 
 #### ABC Entry
 
-Beginning peace success, successful peace emulations, successful love denial, joy in financial pursuit, leading peace right, harmony through good performances, preference for money performances, and advantage by Harrnonia strikes
+- Source page: 286; PDF page: 142 (one-based spread).
+
+Beginning success in peace, successful peace efforts, successful procreation in love, joy in financial striving, leading peace law, harmony through good achievements, preference for monetary contributions, and advantage through striving for harmony
+
+## Comparative Schema
+
+- core meaning: Happiness and advantage through devoted or harmony-seeking activity.
+- psychology: Joy in financial striving.
+- body/health: Good progeny and successful procreation are historical associations, not predictions.
+- social/relationship: The entries supply procreative examples but no detailed relationship pattern.
+- events/manifestations: Successful peace efforts, financial contributions, and good achievements.
+- conflicts/notes: Good progeny is an attributed evaluation; Friedens-Recht is retained as peace law without an invented legal mechanism.
+
+## Contradictions
+
+The entries share an affirmative emphasis without proving that every devoted activity succeeds. The short legal phrase has no further explanation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Jupiter`: happiness through devoted activities.
-- Practical expression: beginning peace success, successful peace emulations, successful love denial, oy in financial pursuit, and leading peace right.
+In `Venus/Zeus = Jupiter`, Jupiter specifies the pair through happiness or advantage associated with devoted effort. The [Witte entry](#witte-entry) states happiness through devoted activities and uses the historical evaluation good progeny. The [ABC entry](#abc-entry) adds peace efforts, harmony through achievement, and joy in financial striving. The common thread is satisfaction in productive effort; the reproductive and legal phrases remain bounded source examples rather than promises about children or legal outcomes.
 
 ## Links
 

@@ -46,13 +46,26 @@ updated_at: 2026-04-21
 - Axis: `Jupiter/Jupiter`
 - Astronomicon axis: `V/V`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `205`
+
 #### Pair Summary
 
 Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Beneficial influences. Justice. Plenty. Expansion, abundance, goodwill, kindness.
+
+## Comparative Schema
+
+- **Core meaning:** Abundance experienced as contentment, good fortune, success, and satisfaction ([Pair Summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Gaiety, happiness, and a feeling of having enough are explicit in the summary.
+- **Body/health:** No specific bodily condition is stated; `beneficial influences` does not establish one.
+- **Social/relationship:** Goodwill, kindness, and justice give the fortunate theme an interpersonal and ethical expression.
+- **Events/manifestations:** Money, success, plenty, and expansion are named possibilities; the short entry supplies no conditions or timing.
+- **Conflicts/notes:** Only one pair summary is represented. It states positive meanings without establishing either guaranteed prosperity or an adverse meaning of excess.
 
 ## Related Activations
 
@@ -81,8 +94,7 @@ Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Benefic
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Jupiter`: pure benefic abundance: contentment, success, satisfaction, plenty, beneficial influences, kindness, and confidence that life can grow in a fortunate direction.
-- Chart expression: prosperity operating without mixture from a second planet. It favors optimism, generosity, wellbeing, enrichment, and trust in increase, while also amplifying Jupiter's tendency toward excess, easy confidence, or inflation when growth is not balanced by restraint.
+Jupiter/Jupiter gathers the theme of having enough and experiencing benefit: contentment and happiness accompany the possibilities of money, success, plenty, and expansion. The same summary extends abundance into goodwill, kindness, and justice, so material advantage and a generous social disposition sit together in this pair's stated range ([Witte, Rudolph & Lefeldt, Pair Summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)). This brief entry supplies meanings rather than a promise of fortune or a separate doctrine of excess.
 
 ## Links
 

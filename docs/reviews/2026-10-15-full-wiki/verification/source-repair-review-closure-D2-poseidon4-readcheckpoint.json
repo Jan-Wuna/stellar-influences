@@ -1,0 +1,252 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "status": "personally_inspected_raw_and_full_owner_records_pending_stable_editor_receipts",
+  "scope": "Complete current/original source deltas and full unique owner records personally read; listed actual scans personally inspected. No approval yet; later exact unchanged source/record binding may reuse completed reads.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "current_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+      "full_current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nMental or intellectual leadership. Spiritual standard of the time.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 59; PDF page: 28 (one-based spread).\n\nAuthority of truth in public, intellectual authority in public life, intellectual hierarchy in the world, great public clarity, state reason in public life, and important public ideas",
+      "original_source_delta": "- \n- - PDF page: 55 (one-based).\n+ Authoritat of truth in public, intellectual authoritat in public life, spiritual hierarchy in the world, great clarity in public, state authority in public life, and important ideas in public\n- - Source page: 59; PDF page: 28 (one-based spread).\n- \n- Authority of truth in public, intellectual authority in public life, intellectual hierarchy in the world, great public clarity, state reason in public life, and important public ideas",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Authoritat of truth in public, intellectual authoritat in public life, spiritual hierarchy in the world, great clarity in public, state authority in public life, and important ideas in public Corrected: Authority of truth in public, intellectual authority in public life, intellectual hierarchy in the world, great public clarity, state reason in public life, and important public ideas"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#abc-entry",
+            "reference": "- Source page: 59; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#abc-entry"
+          }
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected complete WittePDF55 Kronos row and ABC printed59/PDF28 six-clause Kronos row. Authority and state reason (staatliche Vernunft), all current clauses and exact references match actual scan; earlier flag is stale and prior verifier provenance retained.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": []
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "current_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+      "full_current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nPersonally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 58; PDF page: 28 (one-based spread).\n\nInwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life",
+      "original_source_delta": "- \n- - PDF page: 55 (one-based).\n+ Bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public\n- - Source page: 58; PDF page: 28 (one-based spread).\n- \n- Inwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public Corrected: Inwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [
+          "Witte's separate moment of floods phrase is preserved; its relation to the intellectual claims is unexplained and adds no timing model."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#abc-entry",
+            "reference": "- Source page: 58; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#abc-entry"
+          }
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "genuine_source_limit_confirmed_with_proof",
+        "scope": "Personally inspected WittePDF55 complete MC paragraph including literal The moment of floods. ABC printed58/PDF28 seven complete clauses match current inwardly animated culture, ideas, reason and truth; former damaged duplicate tail is absent correctly. Exact references and prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "The moment of floods is a separate unexplained printed example; its relation to intellectual claims is not supplied and no timing model is inferred."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "current_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+      "full_current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nTurning ideas into reality. Inspiration and ideas about a physical form or an object. The ideas and mindset of the current generation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 58; PDF page: 28 (one-based spread).\n\nAn intellectual center in public, a man's public ideas, physical culture in public life, personal clarity in public life, reasonable people in public, and a world-culture center",
+      "original_source_delta": "- \n- - PDF page: 55 (one-based).\n- - Source page: 58; PDF page: 28 (one-based spread).\n- \n- An intellectual center in public, a man's public ideas, physical culture in public life, personal clarity in public life, reasonable people in public, and a world-culture center\n+ Spiritual center in public, ideas of a man in public, corperculture in public life, personal clarity in public life, vemIndomitable people in frequentity, and world culture center",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Spiritual center in public, ideas of a man in public, corperculture in public life, personal clarity in public life, vemIndomitable people in frequentity, and world culture center Corrected: An intellectual center in public, a man's public ideas, physical culture in public life, personal clarity in public life, reasonable people in public, and a world-culture center"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#abc-entry",
+            "reference": "- Source page: 58; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#abc-entry"
+          }
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected complete WittePDF55 Sun row and ABC printed58/PDF28 six-clause Sun row. Physical culture, reasonable people and every current clause/new reference match actual print; old damaged-English flag is stale and prior verifier provenance retained.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "Man/body examples remain attributed source-native doctrine."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "current_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+      "full_current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nPowerful ideas. Ideas of extreme influences. Powerful floods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 59; PDF page: 28 (one-based spread).\n\nIntellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life",
+      "original_source_delta": "- - PDF page: 55 (one-based).\n- \n- Powerful ideas. Ideas of extreme influences. Powerful floods.\n+ Powerful ideas. Ideas of extreme influences. Powerful floods. -----\n+ Spiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, power of mind in public Life, strong spiritualization in public, and strong influence in public Life\n- - Source page: 59; PDF page: 28 (one-based spread).\n- \n- Intellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler.",
+          "Independent source inspection identified inherited Witte Entry corruption: Powerful ideas. Ideas of extreme influences. Powerful floods. -----"
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Spiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, power of mind in public Life, strong spiritualization in public, and strong influence in public Life Corrected: Intellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life",
+          "Additional scan-backed source repair. Original: Powerful ideas. Ideas of extreme influences. Powerful floods. ----- Corrected: Powerful ideas. Ideas of extreme influences. Powerful floods."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally viewed the full exact glyph row in source-repair-review-vernal-witte-pdf55.png and checked the bounded source and dependent-schema delta; amended this original record without duplicating coverage."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#abc-entry",
+            "reference": "- Source page: 59; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#abc-entry"
+          },
+          {
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+            "reference": "PDF page 55 (one-based)",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#witte-entry",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png"
+          }
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF55 complete Vulcanus row: Powerful floods ends at the full stop with no dash tail. ABC printed59/PDF28 seven complete clauses including reasonable influence match current English and exact references. Old dash-tail flag is stale; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+        ],
+        "limits": [
+          "Powerful floods is literal source wording; its relation to the intellectual claims is unexplained and no mechanism is reconstructed."
+        ]
+      }
+    }
+  ]
+}

@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Jupiter Hades`
 - Astronomicon triad-set: `Q V ¢`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Jupiter/Hades = Venus](../activations/jupiter-hades-equals-venus.md)
-- [Venus/Hades = Jupiter](../activations/venus-hades-equals-jupiter.md)
-- [Venus/Jupiter = Hades](../activations/venus-jupiter-equals-hades.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Jupiter/Hades](../axes/jupiter-hades.md) | Venus | [Jupiter/Hades = Venus](../activations/jupiter-hades-equals-venus.md) |
+| [Venus/Hades](../axes/venus-hades.md) | Jupiter | [Venus/Hades = Jupiter](../activations/venus-hades-equals-jupiter.md) |
+| [Venus/Jupiter](../axes/venus-jupiter.md) | Hades | [Venus/Jupiter = Hades](../activations/venus-jupiter-equals-hades.md) |
 
 ## Source Coverage
 
-- `Jupiter/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `212`
-- `Jupiter/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `334`
-- `Venus/Hades = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
-- `Venus/Hades = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `284`
-- `Venus/Jupiter = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `177`
-- `Venus/Jupiter = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `273`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Jupiter/Hades = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/jupiter-hades-equals-venus.md#witte-entry), one-based PDF entry-start p. `212`.
+- `Jupiter/Hades = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/jupiter-hades-equals-venus.md#abc-entry), printed p. `334`.
+- `Venus/Hades = Jupiter`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-hades-equals-jupiter.md#witte-entry), one-based PDF entry-start p. `183`.
+- `Venus/Hades = Jupiter`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-hades-equals-jupiter.md#abc-entry), printed p. `284`.
+- `Venus/Jupiter = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-jupiter-equals-hades.md#witte-entry), one-based PDF entry-start p. `177`.
+- `Venus/Jupiter = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-jupiter-equals-hades.md#abc-entry), printed p. `273`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Hades = Venus`: indulgent or degraded love expression, favors received while on duty, and fine arts lacking success.
-- `Venus/Hades = Jupiter`: pleasant and happy service relations.
-- `Venus/Jupiter = Hades`: love’s happiness in secrecy.
+The `Venus Jupiter Hades` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/S`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `37`, chapter heading `ARIES + SUN` (normalized here as Vernal Point/Sun).
 
 The body or object in general. The body on this Earth. The body and everything pertaining to the body. The biological. Problems and matters of daily life. Many on a day. Persons in public life. The relationship of the general public to the body. Several people.
 
@@ -79,13 +83,28 @@ The body or object in general. The body on this Earth. The body and everything p
 
 #### ABC Pair Summary
 
-The Man in Public Life, People in Public, Public Zenfrum, Pe:rsons of Public Life, Day in Public, World of Man, and World Center
+Source reference: printed page `22`, PDF page `10`, bold pair summary.
+
+Source wording: "Der Mann im öffentlichen Leben, Menschen in der Öffentlichkeit, öffentliches Zentrum, Personen des öffentlichen Lebens, Tag in der Öffentlichkeit, Welt des Mannes, Welt-Zentrum".
+
+Editorial translation, checked against the scan: The man in public life; people in public life; a public center; persons in public life; a day in public life; the world of the man; world center. The male terminology remains attributed source language.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-The desire to make connections in the larger world, to be knowm before the public, and to make an impact on the world. Can be a point of fame, if other factors in the chart give support. One's public influence, or at least influence outside of one's personal sphere.
+Source reference: PDF page `202`, entry `Sun/Aries`; "known" checked against the scan.
+
+The desire to make connections in the larger world, to be known before the public, and to make an impact on the world. Can be a point of fame, if other factors in the chart give support. One's public influence, or at least influence outside of one's personal sphere.
+
+## Comparative Schema
+
+- Core meaning: Persons, embodied life, and influence in the public world connect the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Wanting to be known and to make an impact beyond the personal sphere is explicit in the pair delineation.
+- Body/health: The pair summary names the body, biological matters, and the public's relation to the body, but supplies no specific diagnosis or medical outcome.
+- Social/relationship: Persons in public life, several people, and connections with the larger world are supported themes. The ABC entry's male categories remain historical source language rather than gender restrictions.
+- Events/manifestations: Daily-life matters, public influence, and possible fame are explicit; Hand conditions fame on support from other chart factors.
+- Conflicts/notes: ABC's public center and persons wording and Hand's "known" have been checked against the scans. Hand's fame claim retains its condition of support from other factors; public presence alone is not a promise of recognition.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ The desire to make connections in the larger world, to be knowm before the publi
 - [Vernal Point/Sun = Vulcanus](../activations/vernal-point-sun-equals-vulcanus.md)
 - [Vernal Point/Sun = Zeus](../activations/vernal-point-sun-equals-zeus.md)
 
+## Contradictions
+
+The body and ordinary daily life in the pair summary are broader than the public influence emphasized by Hand. They should not be displaced by fame: Hand explicitly makes fame conditional, and the entries do not establish leadership or inevitable recognition.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun` is the axis of public identity, social influence, and the drive to be recognized or make an impact in the larger world.
-- Chart expression: visibility, fame potential, leadership before the public, and the ability to project vitality or purpose beyond the private sphere. Liabilities: ego exposure, overinvestment in recognition, and confusing true significance with merely being seen.
+Vernal Point/Sun concerns persons and embodied life in relation to the public world. The [pair summary](#pair-summary) includes the body, biological and daily-life matters, and persons in public life; the [ABC entry](#abc-pair-summary) also places people in a public setting. The [pair delineation](#pair-delineation) adds the desire to make connections, become known, and exert influence beyond the personal sphere.
+
+Public impact is therefore one expression of a range that also includes ordinary physical and daily existence. Hand allows fame only when other factors support it, so the pair alone does not promise recognition or leadership. Its bodily and historical male categories likewise do not establish a diagnosis or restrict the theme to men.
 
 ## Links
 

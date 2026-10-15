@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Admetos Poseidon`
 - Astronomicon triad-set: `Y ¦ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Neptune](../activations/admetos-poseidon-equals-neptune.md)
-- [Neptune/Admetos = Poseidon](../activations/neptune-admetos-equals-poseidon.md)
-- [Neptune/Poseidon = Admetos](../activations/neptune-poseidon-equals-admetos.md)
+- [Admetos/Poseidon = Neptune](../activations/admetos-poseidon-equals-neptune.md): base axis [Admetos/Poseidon](../axes/admetos-poseidon.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Admetos = Poseidon](../activations/neptune-admetos-equals-poseidon.md): base axis [Neptune/Admetos](../axes/neptune-admetos.md); activator [Poseidon](../factors/poseidon.md).
+- [Neptune/Poseidon = Admetos](../activations/neptune-poseidon-equals-admetos.md): base axis [Neptune/Poseidon](../axes/neptune-poseidon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `477`
-- `Neptune/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `403`
-- `Neptune/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `254`
-- `Neptune/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `407`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Poseidon = Neptune](../activations/admetos-poseidon-equals-neptune.md#witte-entry) (PDF entry-start p. 312); [Neptune/Admetos = Poseidon](../activations/neptune-admetos-equals-poseidon.md#witte-entry) (PDF entry-start p. 252); [Neptune/Poseidon = Admetos](../activations/neptune-poseidon-equals-admetos.md#witte-entry) (PDF entry-start p. 254).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Poseidon = Neptune](../activations/admetos-poseidon-equals-neptune.md#abc-entry) (printed p. 477); [Neptune/Admetos = Poseidon](../activations/neptune-admetos-equals-poseidon.md#abc-entry) (printed p. 403); [Neptune/Poseidon = Admetos](../activations/neptune-poseidon-equals-admetos.md#abc-entry) (printed p. 407).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Neptune`: education or training that evaporates, fails to take root, or produces no real result.
-- `Neptune/Admetos = Poseidon`: This activation spiritualizes `Neptune/Admetos` through changes in one's inner or ideological concept of existence. It moves deprivation or hardening into the realm of meaning, where altered conditions force a revised philosophy of life.
-- `Neptune/Poseidon = Admetos`: This activation compresses subtle spiritual perception into deep penetration and refined discipline, breaking false ideas down through concentrated education and inward clarification.
+Neptune, Admetos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Neptune/Admetos](../axes/neptune-admetos.md)
+- [Neptune/Poseidon](../axes/neptune-poseidon.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)

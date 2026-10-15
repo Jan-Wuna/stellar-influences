@@ -1,0 +1,34 @@
+{
+  "amended_original_lines": [
+    12,
+    37,
+    38,
+    39,
+    40,
+    41
+  ],
+  "ledger_count": 54,
+  "unique_paths": 54,
+  "page_sha256": {
+    "wiki/activations/sun-pluto-equals-node.md": "670282b3f961f49eda21f2eeda473e8032640718cb32f2d739ee019714f2505e",
+    "wiki/activations/sun-poseidon-equals-uranus.md": "f81a0fd6619ca9ed8ecb808fb19d880fff3e55b201551d575f27e54b29e528df"
+  },
+  "record_sha256": {
+    "wiki/activations/sun-pluto-equals-node.md": "fe8cc61c88ac6edafa631655be52ef432d3dd1b9717812e362d0074a24ce7468",
+    "wiki/activations/sun-poseidon-equals-uranus.md": "29037d810539104c8b01775040e1f41f281c64da7cc2ef16724976175dd5cb03",
+    "wiki/activations/sun-poseidon-equals-venus.md": "df13411be069a4844b9e869a969bd7f2a653380b59c523675c6dd195090fd2d4",
+    "wiki/activations/sun-poseidon-equals-vernal-point.md": "dc557b506ce4a4f879c51c2b080075dad698ed52f17e700f0dc3be05330ec67c",
+    "wiki/activations/sun-poseidon-equals-vulcanus.md": "d0acad10fe647e692e815b7317ebf3285f46584e93431f8337f32c8ce7f073dc",
+    "wiki/activations/sun-poseidon-equals-zeus.md": "96eee0792c728269f8fb43de63eeeaab9dd3f910096cc7798ce5b65e40b7edae"
+  },
+  "proofs": [
+    "verification/source-repair-review-sun-final-witte-pdf110.png",
+    "verification/source-repair-review-sun-final-witte-pdf118.png"
+  ],
+  "scope_count": 54,
+  "scope_failures": [],
+  "source_changed_pages": 42,
+  "source_changed_blocks": 48,
+  "unresolved": [],
+  "git_diff_check_exit": 0
+}

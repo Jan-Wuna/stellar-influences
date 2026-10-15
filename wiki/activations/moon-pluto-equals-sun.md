@@ -28,6 +28,7 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
 - Formula: `Moon/Pluto = Sun`
 - Astronomicon formula: `R/Z = S`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source passage: `Moon + Pluto`, PDF p. `129` (entry start; printed page not supplied).
+
 #### Witte Entry
 
 Function of the glands of the body. General rhythm of the hours, the meals, etc. Disorderly changed course of the day. The passing of a certain hour of the day.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: `Mond + Pluto`, printed p. `190`, PDF p. `94` (row and English translation checked against the German scan).
+
 #### ABC Entry
 
-Developments between woman and man, mental changes in the mind, personal development of the woman, transfonnation of the man, hour of the transformation of a man, change of the people of a people, and changeful feelings of the man
+Developments between woman and man, personal changes of mood, personal unfolding of a woman, transformation of a man's feelings, hour of a man's change, changes in the members of a people, and changeable feelings of a man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: `Moon/Pluto`, printed p. `135`, entry `0411`.
 
 #### Ebertin Entry
 
 A sensitive nature, a person easily excited. Special experiences between husband and wife.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `36` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Corrupting elements which influence everyday situations; determination to end th
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: intense feeling becomes bound to personal purpose and the effort to change one's emotional life.
+- psychology: sensitivity, excitability, willfulness, vulnerability, and a drive for meaning are represented.
+- body/health: Witte names glandular function and daily rhythms; this is source doctrine, not evidence of a disorder.
+- social/relationship: Ebertin names special experiences between spouses; ABC describes changes between women and men.
+- events/manifestations: disrupted daily routines, changing attitudes toward people, attempts to end emotional obsessions, and possible emotional uplift.
+- conflicts/notes: Witte's bodily and hourly examples are distinct from the purpose-centered psychological entries; neither establishes the other as its cause.
 
 ## Contradictions
 
-- None recorded yet.
+- The accounts differ in scale, from daily rhythms to life purpose, without directly contradicting one another. Egotism as protection and emotional uplift are different possibilities, not guaranteed stages in one process.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Pluto = Sun`: formidable emotional presence, regenerative will, and the courage to bring hidden feeling into conscious purpose. Main caution: intense self-protection: identity can become controlling, suspicious, or too fused with emotional pressure.
+Sun specifies the Moon/Pluto pair by making intense feeling a matter of personal will and purpose. Sandbach describes the drive to transform feelings and find meaning, while also allowing egotism to serve as protection against vulnerability. Munkasey adds a determination to end emotional obsessions and the possibility of uplift as attitudes change ([Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry), p. 132).
+
+This personal process also has everyday and relational expressions: Ebertin names sensitivity and special experiences between spouses; Witte includes changed routines and bodily rhythms. These remain specific examples within the orientation, rather than grounds for assuming either commanding presence or a health condition ([Ebertin entry](#ebertin-entry), printed p. 135; [Witte entry](#witte-entry)).
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Sun Mercury](../triads/vernal-point-sun-mercury.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 Thoughts are focused upon a certain object or matter. Focussed thought. Topics of conversation. Condition of the nerves.
 
@@ -42,13 +46,27 @@ Thoughts are focused upon a certain object or matter. Focussed thought. Topics o
 
 #### ABC Entry
 
-Correspondence in the public, Public Media Centre, Public People Transport, Youth Centre in the public, Young People in the public, People in the public Transport, and Personal language in the public
+- Source page: 28; PDF page: 13 (one-based spread).
+
+Bodily movement in public, a public media center, public passenger transport, a public youth center, young people in public, people in public transport, and personal conversations in public
+
+## Comparative Schema
+
+- core meaning: Public thought focused through concrete people, movement, and centers.
+- psychology: Focused thought and topics of conversation are explicit.
+- body/health: Witte names the condition of the nerves without a diagnosis.
+- social/relationship: Young people and personal public conversations.
+- events/manifestations: Bodily movement, passenger transport, media centers, and youth centers.
+- conflicts/notes: Bodily movement was wrongly rendered as correspondence; the scan restores it.
+
+## Contradictions
+
+No direct contradiction is established. Nervous condition, public movement, and communicative centers are separate source associations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Sun`: thoughts are focused upon a certain object or matter, focussed thought, topics of conversation, and condition of the nerves.
-- Practical expression: correspondence in the public, public Media Centre, public People Transport, youth Centre in the public, and young People in the public.
+In `Vernal Point/Mercury = Sun`, public thought is made concrete in focused attention, personal conversation, and moving people. The [Witte entry](#witte-entry) emphasizes concentrated thought and mentions the condition of the nerves. The restored [ABC entry](#abc-entry) supplies bodily movement, passenger transport, young people, and media or youth centers. The reading joins specific persons and settings with the public circulation of thought, without adding a diagnosis.
 
 ## Links
 

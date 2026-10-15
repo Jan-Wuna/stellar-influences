@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Pluto = Asc`
 - Astronomicon formula: `V/Z = Asc`
 - Axis page: [Jupiter/Pluto](../axes/jupiter-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed page 214; one-based PDF page 210, Jupiter/Pluto section, Asc row; full row visually checked.
+
 Pleasant change of the surroundings, of the place or in the place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Money transactions on the ground, successful development in the environment, money development on the ground, happy transformation of the partner, developing happiness for others, developing local law, changes in local law, and favourable development in the environment
+- Source reference: printed page 330; one-based PDF page 164, Jupiter/Pluto section, Asc row; complete German row checked.
+
+Financial transactions at a place, successful development in the surroundings, financial development at a place, a happy transformation of the partner, unfolding happiness for others, developing local law, changes in local law, and favorable development in the surroundings
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 236, Jupiter/Pluto coded entry 0828; retained printed coded-entry locator.
 
 Prudence, farsightedness, organizing talent, desire for power. Personal advancement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 83, Jupiter/Pluto Ascendant entry; exact paragraph checked, chapter begins on page 82.
 
 A person with a big personality. One relates to the world with a tremendous amount of enthusiasm. To be willing to change when one needs to, and to overcome the limits of one’s identity.
 
@@ -66,26 +76,27 @@ A person with a big personality. One relates to the world with a tremendous amou
 
 #### Munkasey Entry
 
+- Source reference: printed source page 268, Jupiter/Pluto with Planets and Points; retained printed locator, not a new PDF-page claim.
+
 Focuses your personal opinions about how to use and discard others; gives added selfimportance and focus on concerns and ego definition; helps you read other people and their intentions, especially if they also seek power.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasant changes in surroundings or partner circumstances alongside personal advancement and expanded identity.
+- psychology: Enthusiasm and willingness to change in Sandbach; prudence, farsightedness and desire for power in Ebertin.
+- body/health: No bodily condition is stated.
+- social/relationship: Partner change, local financial/legal developments and reading others' power-related intentions.
+- events/manifestations: Personal advancement, organization, favorable local change and Munkasey's use/discarding of contacts.
+- conflicts/notes: ABC's am Ort means at a place, not on the ground; Munkasey's self-importance and instrumental treatment of others qualify a solely benevolent reading.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize pleasant environmental change, while Munkasey focuses on self-importance and using or discarding others. Sandbach's enthusiastic growth and Ebertin's prudent advancement should not erase that difference in interpersonal tone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Asc`: personal growth through strong will, broad impact, and readiness to change identity or circumstances when needed. Main caution: intensity outpacing proportion: a big personality can easily become overbearing or too intent on influence.
+For `Jupiter/Pluto = Asc`, the [source entries](#source-entries) describe change in the way a person meets the world and in the surrounding circumstances. Witte and ABC allow pleasant local or partner developments, including finance and law. Ebertin adds prudent organization and personal advancement; Sandbach adds strong enthusiasm and willingness to outgrow an identity's limits. Munkasey supplies a sharper qualification through self-importance and an instrumental view of other people. The orientation therefore holds favorable change beside the manner in which influence is pursued.
 
 ## Links
 

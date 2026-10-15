@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
 - Triad hub: [Cupido Zeus Vulcanus](../triads/cupido-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source reference: printed p. 277 (PDF p. 273).
 
 Union of great families through weddings or betrothals. A large community asserts itself by concentrating all power on one point. People who accomplish things their own way.
 
@@ -42,12 +46,27 @@ Union of great families through weddings or betrothals. A large community assert
 
 #### ABC Entry
 
-Commencement of joint violence, influential community, diverse arts, leading energy community, joint energy production, joint power efforts, strong generation community, and goals of an energy community
+Source reference: printed p. 435 (PDF p. 216). English wording checked against the German scan.
+
+Beginning of collective violence, an influential leadership community, influential artistic creation, a leading energy community, shared energy production, joint exertions of strength, a strong procreative community, and the goals of an energy community.
+
+## Comparative Schema
+
+- core meaning: Collective strength concentrates toward a shared purpose, leadership, production, or union.
+- psychology: People accomplishing things their own way are explicit; ruthlessness is not asserted.
+- body/health: The ABC entry includes a procreative community without a specific medical claim.
+- social/relationship: Great families united through marriage or betrothal, influential leadership, and collective self-assertion.
+- events/manifestations: Concentrating power on one point, joint energy production and effort, artistic creation, and the beginning of collective violence.
+- conflicts/notes: Shared purpose can take several forms; the entries do not make family union, artistic work, and violence interchangeable.
+
+## Contradictions
+
+The entries describe several directions for concentrated collective effort. Their differences of emphasis do not establish a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Zeus`: organized force being aimed decisively at construction, assertion, or dynastic alliance. Main caution: concentrated will turning ruthless or excessively self-assertive.
+In `Cupido/Vulcanus = Zeus`, Zeus specifies communal strength as concentrated purpose and effort. The [Witte entry](#witte-entry) links families through marriage or betrothal and describes a community asserting itself by bringing power to one point. The [ABC entry](#abc-entry) adds leadership, energy production, joint exertion, artistic creation, and a procreative community, while also naming the beginning of collective violence. The organizing theme is directed collective strength; the entries do not supply one inevitable outcome or a universal claim of ruthlessness.
 
 ## Links
 

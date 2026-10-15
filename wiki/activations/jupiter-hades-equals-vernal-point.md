@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Hades = Vernal Point`
 - Astronomicon formula: `V/¢ = VP`
 - Axis page: [Jupiter/Hades](../axes/jupiter-hades.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 212, Jupiter/Hades section, Vernal Point row.
+
 General money shortage. Inflation, swindle with money. General worries about money conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-financial, public, money shortages in the public, negative law for the public, public pleasure in the past, and public pleasure in the progress of the public
+- Source reference: printed page 334; one-based PDF page 166, Jupiter/Hades section, Vernal Point row.
+
+Old law in public life, financial crime in public life, lack of money in public life, disadvantageous law for the public, public joy over the past, and the public's renunciation of advantages
+
+## Comparative Schema
+
+- core meaning: Public financial shortage and worry in Witte; ABC adds public law, financial crime and the past.
+- psychology: General worries about money in Witte; public joy over the past in ABC.
+- body/health: No health claim is stated.
+- social/relationship: ABC explicitly places legal and financial matters in public life.
+- events/manifestations: Inflation and swindling in Witte; public financial crime, money shortage and relinquished advantages in ABC.
+- conflicts/notes: Vernal Point makes the examples public or general; a universal climate of distrust is not explicitly stated.
+
+## Contradictions
+
+Public financial worries coexist with ABC's public joy over the past. The entries list different circumstances rather than a single sequence of public decline.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Hades = Vernal Point`: scarcity becoming collective and visible. It favors public concern over money, broad financial distrust, and a social atmosphere shaped by lack or corruption.
+For `Jupiter/Hades = Vernal Point`, the [Witte entry](#witte-entry) describes general money shortage, inflation, financial swindling and widespread concern about money. The [ABC entry](#abc-entry) likewise places shortage and financial crime in public life, while adding old law, disadvantageous law, public joy over the past and the relinquishment of advantages. The orientation therefore concerns public financial and legal conditions, with memories or benefits of the past alongside present difficulties.
 
 ## Links
 

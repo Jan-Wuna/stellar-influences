@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Neptune](../triads/venus-saturn-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 To reject or repress affections. To be averse to love because of coldness. Betrayed love. A love union broken because of falsehood. Theft of clothing or jewelry.
 
@@ -45,17 +49,23 @@ To reject or repress affections. To be averse to love because of coldness. Betra
 
 #### ABC Entry
 
-Exchange through peace tortures, serious kiss of the future, stewed harmony in the water, peace torture from the air, mature love for metaphysics, creeping love problems, insecurity by stumbling peace development of harmony tortures, serious fricdens development, and gctorte love entfal-
+- Source page: 275; PDF page: 136 (one-based spread).
+
+Disappointment through disturbances of peace, serious art of the future, disturbed harmony in water, disturbance of peace from the air, mature love of metaphysics, creeping problems in love, and uncertainty through disturbance of peace
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-A cold heart, wrong ideas about love. Regained soberness, a slow cooling off of the affections. A separation caused by wrong ideas or by disappointment in love. Lovesick. 32 Venus/Saturn = Moon has often been found in connection with kidney disease. However, this combination must not always be associated with kidney disease, especially as in most diseases there are several combinations which work together. One combination must never be taken in isolation without considering the whole.
+- Source page: 182 (printed); PDF page: 184; entry code: 0609.
+
+A cold heart, wrong ideas about love. Regained soberness, a slow cooling off of the affections. A separation caused by wrong ideas or by disappointment in love. Lovesick.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 58 (one-based; exact activator paragraph and adjacent boundary visually checked).
 
 The problems encountered in relationships are of a confused or uncertain nature. To be able to perceive what the difficulties in relationships are but to not be able to find a way to solve them. Hidden negative influences encountered in relationships. To fantasize about deep and spiritual relationships.
 
@@ -70,22 +80,21 @@ Enhanced abilities to produce artistic works which bring pleasure to others, but
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uncertain or disappointed love, with a separate subtle artistic expression.
+- psychology: Cooling affections, mistaken ideas, fantasy, and difficulty finding solutions.
+- body/health: Lovesick is source language; printed footnote32 names Moon and supplies no kidney-disease claim for Neptune.
+- social/relationship: Repression of affection, betrayal, or separation through falsehood or disappointment.
+- events/manifestations: Theft of clothing or jewelry; artistic work appreciated by a serious few.
+- conflicts/notes: ABC's Pluto-row continuation is excluded; Ebertin's printed footnote32 sits below the rule and names Moon0604, outside Neptune0609.
 
 ## Contradictions
 
-- None recorded yet.
+The relationship entries emphasize uncertainty and disappointment; Munkasey's artistic mystery and charm is a different application, not proof that betrayal produces art.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Neptune`: spiritual devotion, refined compassion, and the ability to find beauty and meaning in hardship or renunciation. Main caution: love can become sorrowful, impossible, or built on disappointment, passivity, and unattainable ideals.
+In `Venus/Saturn = Neptune`, Neptune specifies the pair through uncertainty or disappointment in affection. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name repression, cooling love, falsehood, or mistaken ideas; [Sandbach](#sandbach-entry) adds awareness of problems without a solution and fantasies of profound connection. Clear [ABC wording](#abc-entry) also describes disappointment and uncertainty. [Munkasey](#munkasey-entry) supplies a distinct artistic strand: mystery and charm in simple objects, appreciated by a serious few. The source page's kidney-disease footnote32 explicitly concerns `Venus/Saturn = Moon` and is outside the Neptune paragraph.
 
 ## Links
 

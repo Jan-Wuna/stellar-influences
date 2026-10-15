@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Moon = Pluto`
 - Astronomicon formula: `R/R = Z`
 - Axis page: [Moon/Moon](../axes/moon-moon.md)
@@ -29,15 +31,29 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: [Witte, Rudolph & Lefeldt](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), `Moon + Moon`, PDF p. `120` (entry start; one-based).
+
 #### Witte Entry
 
 Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
 
+## Comparative Schema
+
+- core meaning: development and rapid or repeated personal and public change ([Witte](#witte-entry)).
+- psychology: cognition and changes of character or presentation are named.
+- body/health: brain and gland development are historical associations, without a diagnosis.
+- social/relationship: women, individuals, and the public are described in changing conditions.
+- events/manifestations: public instability, hourly changes, and changes that quickly come and go are explicit.
+- conflicts/notes: the gendered label of fickleness remains attributed to the source; extremity is not stated.
+
+## Contradictions
+
+This page contains one Witte entry. Its several examples do not supply an independent comparison or require every manifestation to occur together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Moon = Pluto`: Development of the brain and the glands. Cognition. Public changes. Unstable condition of the public. Hourly changes. Changes which come and go fast. Fickleness of female persons. Females or the public in change or transformation. Women, persons or the public who change, who show a different face, who change their character.
-- Practical focus: transforms `Moon/Moon` through rapid change, public instability, and shifting emotional character. It points to feelings, bodies, or publics that mutate quickly, making raw lunar life more developmental, extreme, and difficult to hold in one stable form.
+In Moon/Moon = Pluto, Pluto specifies the repeated Moon pair through development and changing conditions. The [Witte entry](#witte-entry) moves from cognition and development of the brain or glands to rapid public changes and people whose presentation or character changes. This joins individual development with public instability, without requiring every change to be extreme or treating the source's gendered label of fickleness as a universal judgment.
 
 ## Links
 

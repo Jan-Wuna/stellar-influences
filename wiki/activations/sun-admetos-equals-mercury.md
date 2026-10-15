@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Mercury Admetos](../triads/sun-mercury-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Depressed thinking. The mind and thoughts are busy with the soil.
 
@@ -42,13 +46,27 @@ Depressed thinking. The mind and thoughts are busy with the soil.
 
 #### ABC Entry
 
-berripped young people, movement of the earth body, restricted corperhche movement, strengthened young man, and submission of personal opinion
+Source locator: printed page 168; PDF page 83 (one-based).
+
+Enduring bodily movement, distressed young people, movement of the Earth, restricted bodily movement, a firmly established young man, resistance by young people, a thorough personal opinion, and suppression of personal opinion.
+
+## Comparative Schema
+
+- core meaning: Thought and bodily movement marked by endurance, depth or restriction.
+- psychology: Thorough personal opinion and Witte's depressed thinking.
+- body/health: Sustained or restricted bodily movement is listed without a specific diagnosis.
+- social/relationship: Young people's resistance and suppression of personal opinion.
+- events/manifestations: Thoughts occupied with soil, Earth's movement and enduring bodily activity.
+- conflicts/notes: Thorough thought and suppressed opinion are distinct; historical depressed-thinking language does not establish a disorder.
+
+## Contradictions And Comparison Notes
+
+Witte concerns thought and soil; ABC adds bodily movement, youth and personal opinion. Endurance and restriction remain parallel possibilities rather than a single uniformly negative condition.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Mercury`: depressed thinking and the mind and thoughts are busy with the soil.
-- Practical expression: berripped young people, movement of the earth body, restricted corperhche movement, strengthened young man, and submission of personal opinion.
+For `Sun/Admetos = Mercury`, the entries give thought and movement an enduring, thorough or restricted character. [Witte](#witte-entry) describes thoughts occupied with soil and depressed thinking; [ABC](#abc-entry) adds thorough personal opinion, its suppression, sustained or restricted bodily movement and resistance by young people. The account preserves both depth and constraint, with Earth's movement as a separate literal example and depressed thinking retained as source language rather than a diagnosis.
 
 ## Links
 

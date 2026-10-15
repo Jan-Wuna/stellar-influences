@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Venus`
 - Astronomicon formula: `S/Y = Q`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ Shyness. The chaste lover.
 
 #### ABC Entry
 
-Secret love of a man, personal love exchange, personal insecurity in love, personal preference for metaphysics, gentle body in the water, weakness of the carper through love, and refined corperal love
+Source locator: printed page 154 / PDF page 76, Venus glyph under Sonne + Neptun. English translation checked against the complete row.
+
+A man's secret love, personal disappointment in love, personal uncertainty in love, personal preference for metaphysics, beautiful body in water, weakening of the body through love, and refined physical love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Chastity, weak constitution, reserve in love or in the affections. Disappointmen
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Venus entry under Planets activating the Sun/Neptune midpoint.
 
 A love of bringing subtleties to light and of exploring the imagination and realms beyond the physical. A love nature which thrives on idealism and which may tend to idealize the loved one. To be a person who is self-sacrificing in love relationships.
 
@@ -70,22 +76,21 @@ Increased desires to become more attached to material objects; dreaming of livin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Affection and values shaped by ideals, reserve, and imagined beauty.
+- psychology: Idealizing the beloved, self-sacrifice, or dreaming of comfort and an easy life.
+- body/health: Historical weak-constitution/sexual claims and ABC's bodily weakening through love remain attributed examples.
+- social/relationship: Shy or reserved love, secret affection, insecurity, or disappointment.
+- events/manifestations: Exploring imagination; dreaming of beauty, wealth, comfort, or luxury.
+- conflicts/notes: The love and material-value applications are both present; neither establishes inherent attractiveness.
 
 ## Contradictions
 
-- None recorded yet.
+- The sources emphasize reserved love, idealized devotion, or material fantasy without directly negating one another. ABC's disappointment and physical-love examples supply separate applications rather than a single necessary relationship outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Venus`: artistic devotion, spiritualized love, and gentle attractiveness rooted in sensitivity rather than force. Main caution: idealized attachment: love may become self-denying, shy, disappointed, or entangled with unrealistic longing.
+Venus specifies the Sun/Neptune axis through what is loved and valued: affection may thrive on idealism or self-sacrifice, while the imagined good life may center on beauty and comfort. [Sandbach Entry](#sandbach-entry) describes the idealized beloved, and [Munkasey Entry](#munkasey-entry) supplies the material fantasy. Reserve in [Witte Entry](#witte-entry) and disappointment in [Ebertin Entry](#ebertin-entry) show how the distance between ideal and lived affection can remain difficult.
 
 ## Links
 

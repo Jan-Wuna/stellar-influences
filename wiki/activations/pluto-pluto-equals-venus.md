@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Pluto/Pluto](../axes/pluto-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 255 (one-based; entry start).
 
 #### Witte Entry
 
 Harmonious development or transformation. Development of a wish, of a hope. Beginning and harmonious development of love and affection. To give in. Consideration. Pleasant change. Thinking of the well-being of others. Glandular development.
 
+## Comparative Schema
+
+- core meaning: Transformation develops harmoniously through affection and consideration.
+- psychology: Wishes, hopes and concern for others develop.
+- body/health: Glandular development is a historical Witte association.
+- social/relationship: Love and affection may begin or develop pleasantly.
+- events/manifestations: Pleasant change and the development of a wish.
+- conflicts/notes: Giving in is one source motif, not a general instruction.
+
+## Contradictions
+
+The entry is favorable in emphasis but does not establish a guaranteed relationship outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Pluto = Venus`: harmonious development or transformation; Development of a wish, of a hope; Beginning and harmonious development of love and affection; To give in; Consideration.
+In `Pluto/Pluto = Venus`, Venus specifies transformation as pleasant or harmonious development. The [Witte entry](#witte-entry) joins growing wishes and hopes with the beginning of affection and consideration for others' well-being. Giving in belongs to that source description of accommodation; glandular development remains a separate historical bodily association.
 
 ## Links
 

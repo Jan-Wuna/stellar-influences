@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Hades`
 - Astronomicon formula: `Y/Z = ¢`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Sickness with an epidemic character. Low and vile treachery behind one’s back.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `391`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Degraded development of the future, dangerous creeping development, lack of development of intuition, adverse air change, unknown development in secret, growing insecurity due to criminality, and difficult development in the future
+Impeded future development, dangerous creeping development, deficient development of intuition, adverse change of air, unknown development in secret, growing uncertainty through criminality, and future impeded development
+
+## Comparative Schema
+
+- core meaning: difficult or dangerous hidden development, with uncertainty and covert harm among the possibilities.
+- psychology: deficient development of intuition is explicit.
+- body/health: Witte's epidemic sickness is a historical medical claim without an established mechanism.
+- social/relationship: treachery behind one's back and uncertainty through criminality are stated.
+- events/manifestations: adverse air change and impeded future development are literal examples.
+- conflicts/notes: the catalogue does not establish that hidden change causes epidemic illness or identify a particular offence.
+
+## Contradictions
+
+Witte gives epidemic illness and covert treachery; ABC adds difficult development, deficient intuition, and material examples without one common cause.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Pluto = Hades`: Sickness with an epidemic character. Low and vile treachery behind one’s back.
-- Practical focus: darkens subtle transformation into epidemic illness and covert treachery, where hidden processes turn harmful and operate behind one’s back.
-- Practical expression: degraded development of the future, dangerous creeping development, lack of development of intuition, adverse air change, and unknown development in secret.
+In Neptune/Pluto = Hades, development is described as impeded, dangerous, or hidden. [ABC](#abc-entry) names uncertain development in secret, deficient intuition, and growing uncertainty through criminality (printed p. 391, PDF p. 194). [Witte](#witte-entry) adds covert treachery and a separate historical epidemic-illness claim. These are bounded adverse examples, without a proposed causal path from hidden development to disease.
 
 ## Links
 

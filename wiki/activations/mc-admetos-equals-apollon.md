@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [MC Apollon Admetos](../triads/mc-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Admetos,” PDF p. 75.
 
 Self-sufficient. Forced to accept restrictions.
 
@@ -42,13 +46,27 @@ Self-sufficient. Forced to accept restrictions.
 
 #### ABC Entry
 
-End of my freedom, success of my firmness, my successful cycle, my brilliant success, my brilliant knowledge, strengthening my knowledge, my increasing grtindhchness, deep psychic experiences, and increasing psychic firmness
+Source: “Meridian + Admetos,” printed p. 95 (PDF p. 46).
+
+End of my freedom, success through my firmness, my successful circulation or cycle, my thorough success, my thorough knowledge, consolidating my knowledge, my increasing thoroughness, deep inner or soul experiences, and increasing inner firmness.
+
+## Comparative Schema
+
+- core meaning: Personal firmness and depth expressed through self-sufficiency, restriction, and consolidated knowledge.
+- psychology: Increasing thoroughness, deep experience, and inner firmness.
+- body/health: ABC names a successful circulation or cycle, without explaining a medical mechanism.
+- social/relationship: Self-sufficiency and accepting restrictions; no particular relationship is described.
+- events/manifestations: Success through firmness, strengthened knowledge, and an end to freedom among the examples.
+- conflicts/notes: Witte emphasizes necessary restriction; ABC also preserves successful and knowledge-deepening expressions.
+
+## Contradictions
+
+Restriction and self-sufficiency coexist with success and deeper knowledge. The entries do not establish that restriction always produces either success or failure.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Apollon` widens the axis into self-sufficiency while keeping it bounded by necessary restriction.
-- Chart expression: austere independence, broad capacity contained within limits, and a life stance that can function on its own but must accept confinement, narrowing, or imposed restraint.
+In `MC/Admetos = Apollon`, Apollon specifies personal firmness and depth through self-sufficiency, restriction, and the consolidation of knowledge. Witte names accepting restrictions; ABC pairs an end to freedom with success through firmness, thorough knowledge, and deep inner experience. The range includes limited freedom and constructive deepening, without making confinement the whole meaning or success its inevitable consequence. ([Witte](#witte-entry), PDF p. 75; [ABC](#abc-entry), printed p. 95 / PDF p. 46)
 
 ## Links
 

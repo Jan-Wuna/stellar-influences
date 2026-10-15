@@ -24,9 +24,11 @@ related_activations:
   - Sun/Node = Mercury
   - Sun/Node = Moon
   - Sun/Node = Neptune
+  - Sun/Node = Node
   - Sun/Node = Pluto
   - Sun/Node = Poseidon
   - Sun/Node = Saturn
+  - Sun/Node = Sun
   - Sun/Node = Uranus
   - Sun/Node = Venus
   - Sun/Node = Vernal Point
@@ -71,13 +73,15 @@ updated_at: 2026-05-06
 - Axis: `Sun/Node`
 - Astronomicon axis: `S/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Node/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SUN/NODE`
-- Source page: `91`
+- Source heading: `SUN + NODES`
+- Source page: PDF p. 102.
 
 #### Pair Summary
 
@@ -87,9 +91,13 @@ A physical union. Connections with the public. To be a witness. A physical fusio
 
 #### ABC Pair Summary
 
-Year of encounters, body contact, corporal connection, human bonds, person relations, personal connections, day of connection, connection with the man, and connection to the center
+- Source page: printed pp. 140–141; PDF p. 69.
+
+Year of encounters, bodily contact, physical connection, human bonds, interpersonal relationships, personal connections, day of connection, connection with the man, connection to the center.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source page: printed p. 104; PDF p. 106.
 
 #### Principle
 
@@ -109,9 +117,11 @@ Associations between male persons, good fellowship, colleagues.
 
 #### Probable Manifestations
 
-+ Physical associations, intellectual cooperation, union with the husband. Shared experiences. Relationship with the public. - The termination of associations. o/&
++ Physical associations, intellectual cooperation, union with the husband. Shared experiences. Relationship with the public. - The termination of associations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source page: PDF p. 21.
 
 #### Principle
 
@@ -122,6 +132,8 @@ Sharing a mutual purpose when one connects with other people. Awareness of the n
 The continuous breaking down and building up of the ego that leads eventually to total harmonization with the Spiritual Light. The building of real confidence.
 
 ### Robert Hand - Horoscope Symbols
+
+- Source page: PDF p. 202.
 
 #### Pair Delineation
 
@@ -161,12 +173,12 @@ The blood channels or passages around the heart; clogging of these channels with
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Personal contact, physical or intellectual association, and participation in a shared purpose. ([Pair Summary](#pair-summary), [Ebertin](#principle), [Hand](#pair-delineation))
+- psychology: The desire to associate and adapt to teamwork can support confidence and growth; attachment to familiar patterns or difficulty cooperating can obstruct it. ([Ebertin](#psychological-correspondence), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
+- body/health: Physical contact belongs to the pair summaries. Ebertin's autonomic-nervous-system association and Munkasey's heart-channel, spine, and stress claims remain separate historical correspondences, not a combined diagnosis. ([ABC Pair Summary](#abc-pair-summary), [Ebertin](#biological-correspondence), [Munkasey](#with-body-or-mind))
+- social/relationship: Fellowship, colleagues, teamwork, and close ties can help articulate a life path; unequal alliances may consume another person's time or resources. Older male and husband associations remain source examples. ([Ebertin](#sociological-correspondence), [Munkasey, source p. 91](#in-your-relationships))
+- events/manifestations: Meetings, forming groups, public contact, shared experiences, and ending associations are included. Witte also names being a witness; Munkasey extends alliance themes to business and politics. ([Pair Summary](#pair-summary), [Ebertin](#probable-manifestations), [Munkasey](#in-politics-or-business))
+- conflicts/notes: A useful connection and an exploitative one are contrasting expressions of association, not different pair identities. The summaries' day/year labels do not establish a timing layer. ([ABC Pair Summary](#abc-pair-summary), [Munkasey](#in-your-personal-life))
 
 ## Related Activations
 
@@ -183,9 +195,11 @@ The blood channels or passages around the heart; clogging of these channels with
 - [Sun/Node = Mercury](../activations/sun-node-equals-mercury.md)
 - [Sun/Node = Moon](../activations/sun-node-equals-moon.md)
 - [Sun/Node = Neptune](../activations/sun-node-equals-neptune.md)
+- [Sun/Node = Node](../activations/sun-node-equals-node.md)
 - [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md)
 - [Sun/Node = Poseidon](../activations/sun-node-equals-poseidon.md)
 - [Sun/Node = Saturn](../activations/sun-node-equals-saturn.md)
+- [Sun/Node = Sun](../activations/sun-node-equals-sun.md)
 - [Sun/Node = Uranus](../activations/sun-node-equals-uranus.md)
 - [Sun/Node = Venus](../activations/sun-node-equals-venus.md)
 - [Sun/Node = Vernal Point](../activations/sun-node-equals-vernal-point.md)
@@ -194,15 +208,14 @@ The blood channels or passages around the heart; clogging of these channels with
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries agree on association as a field while allowing both cooperation and the termination or misuse of ties. Sandbach's growth and attachment-to-the-past emphasis adds a psychological question; it does not replace the other entries' physical, intellectual, and public connections. The bodily correspondences are attributed separately rather than treated as mutual confirmation. ([Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node` is the axis of purposeful connection, fellowship, and the development of identity through contact with other people. It combines vitality, will, visibility, and selfhood with meetings, groups, teamwork, public interaction, and shared experience.
-- Chart expression: meaningful alliances, the desire to connect and participate, recognition through association, and relationships that help shape personal destiny or common purpose. Liabilities: self-centered alliances, arrogant group behavior, strained cooperation, and the breaking of ties when ego needs override mutuality.
+`Sun/Node` concerns entering into contact and finding a personal place within an association. The connection may be physical, intellectual, intimate, collegial, or public; teamwork and shared purpose give these encounters a common thread. Relationships can help clarify direction and build confidence, while meetings, group activity, and shared experiences make the theme concrete. The brief image of being a witness belongs to this public-contact range. ([Pair Summary](#pair-summary), [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences), [Hand](#pair-delineation), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
+
+The quality of a tie matters as much as making it. The sources allow helpful allies and meaningful companionship, but also alliances that use time, resources, or sexuality without mutual regard, and the ending of associations. Familiar relationship patterns can support the ego while limiting growth. These possibilities describe the shared pair field; they do not make every encounter fated, establish a medical condition, or determine an event date. ([Munkasey, source p. 91](#in-your-personal-life), [relationship entries](#in-your-relationships), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints))
 
 ## Links
 

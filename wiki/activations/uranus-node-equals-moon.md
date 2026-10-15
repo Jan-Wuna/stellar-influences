@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Moon`
 - Astronomicon formula: `X/g = R`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 146, `NODES + URANUS`, Moon entry.
+
 #### Witte Entry
 
 Sudden acquaintances with female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 218 (PDF p. 108), Node/Uranus spread, Moon entry.
+
 #### ABC Entry
 
-Exciting feelings in a connection, woman in a dynamic connection, contacts of a dynamic woman, new connection to a woman, unrest in relations with the people, and hour of a new connection
+Exciting feelings in a connection, a woman in a dynamic connection, emotional impulses of a connection, contacts of a dynamic woman, a new connection with a woman, unrest in connections with the people, and the hour of a new connection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 272 (PDF p. 274), code `0964`.
 
 #### Ebertin Entry
 
 An excitable disposition in the presence of others. Displaying quick enthusiasm for other people, new contacts with other people which are terminated quickly, sudden association with females.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 106, `Planets activating the Uranus/Node midpoint`, Moon entry (chapter begins on PDF p. 106).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Heightens the sensitivity and consideration you show when introducing changes; p
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotionally stimulating connections and a need for openness. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Quick enthusiasm, vulnerability, and possible flight from problems. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: No specific bodily condition is established. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: New acquaintances and the wish for uninhibited interaction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Sudden associations, quick endings, and reception of new ideas. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Female examples are historically specific; the entries do not establish domestic upheaval or a universal gender role. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Female examples are historically specific; the entries do not establish domestic upheaval or a universal gender role.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Moon`: intuitive group awareness, responsive friendship, and emotional awakening through unusual bonds. Main caution: unstable belonging: mood swings or domestic disruption can make closeness inconsistent and socially unsettling.
+Moon specifies Uranus/Node through quick emotional response to people and a need to connect freely. Openness can feel safe and enlivening, but vulnerability may bring withdrawal, and enthusiasm for a new acquaintance may fade quickly. The older sources' female-acquaintance examples remain historical attributions rather than a restriction of this relational pattern to women. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

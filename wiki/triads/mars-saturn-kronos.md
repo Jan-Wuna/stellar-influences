@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Saturn Kronos`
 - Astronomicon triad-set: `U W ¤`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md)
-- [Mars/Saturn = Kronos](../activations/mars-saturn-equals-kronos.md)
-- [Saturn/Kronos = Mars](../activations/saturn-kronos-equals-mars.md)
+- [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md): base axis [Mars/Kronos](../axes/mars-kronos.md); activator [Saturn](../factors/saturn.md).
+- [Mars/Saturn = Kronos](../activations/mars-saturn-equals-kronos.md): base axis [Mars/Saturn](../axes/mars-saturn.md); activator [Kronos](../factors/kronos.md).
+- [Saturn/Kronos = Mars](../activations/saturn-kronos-equals-mars.md): base axis [Saturn/Kronos](../axes/saturn-kronos.md); activator [Mars](../factors/mars.md).
 
 ## Source Coverage
 
-- `Mars/Kronos = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `315`
-- `Mars/Saturn = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `193`
-- `Mars/Saturn = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `301`
-- `Saturn/Kronos = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `227`
-- `Saturn/Kronos = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `360`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md#witte-entry) (PDF entry-start p. 200); [Mars/Saturn = Kronos](../activations/mars-saturn-equals-kronos.md#witte-entry) (PDF entry-start p. 193); [Saturn/Kronos = Mars](../activations/saturn-kronos-equals-mars.md#witte-entry) (PDF entry-start p. 227).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Kronos = Saturn](../activations/mars-kronos-equals-saturn.md#abc-entry) (printed p. 315); [Mars/Saturn = Kronos](../activations/mars-saturn-equals-kronos.md#abc-entry) (printed p. 301); [Saturn/Kronos = Mars](../activations/saturn-kronos-equals-mars.md#abc-entry) (printed p. 360).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos = Saturn`: narrows executive action into orders, restriction, and separation imposed from above.
-- `Mars/Saturn = Kronos`: turns struggle and blockage into conflict with authority and the fall of superiors.
+Mars, Saturn and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Kronos](../axes/mars-kronos.md)
+- [Mars/Saturn](../axes/mars-saturn.md)
+- [Saturn/Kronos](../axes/saturn-kronos.md)
 - [Mars](../factors/mars.md)
 - [Saturn](../factors/saturn.md)
 - [Kronos](../factors/kronos.md)

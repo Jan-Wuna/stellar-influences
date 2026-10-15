@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Uranus/Cupido = Pluto`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/¡ = Z`
 - Axis page: [Uranus/Cupido](../axes/uranus-cupido.md)
 - Triad hub: [Uranus Pluto Cupido](../triads/uranus-pluto-cupido.md)
@@ -34,21 +35,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 236.
+
 #### Witte Entry
 
-E Strongly increased birthrate. Sudden increase in the family. Increase of members in a club.
+Strongly increased birthrate. Sudden increase in the family. Increase of members in a club.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 375; PDF p. 186.
+
 #### ABC Entry
 
-tensions in of a community, new developments in art, sudden transformations in of a community, and technical development community
+Shared dynamic changes, a shared change of rhythm, development of tensions in a community, new artistic developments, sudden transformations in a community, a technical development community.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry) (PDF p. 236) and [ABC](#abc-entry) (printed p. 375; PDF p. 186).
+
+- core meaning: A community changes its rhythm, develops or suddenly grows in membership.
+- psychology: The entries describe collective change and tension rather than a fixed individual temperament.
+- body/health: Witte's increased birthrate is an attributed historical correspondence, not a fertility or medical forecast.
+- social/relationship: A family may increase, or a club may gain members.
+- events/manifestations: New art, technical development and sudden communal transformations are explicit.
+- conflicts/notes: Growth in numbers, changed rhythm and developing tension are distinct developments; one does not require the others.
+
+## Contradictions
+
+Witte emphasizes growth in family or membership while ABC emphasizes qualitative communal change. Increased birthrate remains a source claim rather than a prediction for an individual.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Cupido = Pluto`: E Strongly increased birthrate. Sudden increase in the family. Increase of members in a club.
-- Practical expression: tensions in a community, new developments in art, sudden transformations in a community, and technical development community.
+Pluto specifies Uranus/Cupido through a community changing in size or form. [Witte](#witte-entry) names an increase in the family or club membership, including the historical birthrate correspondence; [ABC](#abc-entry) names shared dynamic change, a shift of rhythm and new artistic or technical development. Tensions can develop within that transformation, but are not a necessary consequence of growth. The formula therefore holds both numerical expansion and qualitative communal change without collapsing them.
 
 ## Links
 

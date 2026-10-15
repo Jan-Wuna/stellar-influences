@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Uranus Node Admetos](../triads/uranus-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Surprising break-off of connections.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 384; PDF p. 191.
+
 #### ABC Entry
 
-Dynamic deepening of a connection, deepening contacts with technology, connected with a Blokkade event, suddenly blocked connection, sudden constraint of relations, and stabilizing impulses in a connection
+Dynamic deepening of a connection, deepening contacts with technology, connection with a blockage event, a suddenly blocked connection, sudden restriction of relationships, stabilizing impulses in a connection.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: A connection may break, become blocked, deepen or stabilize.
+- psychology: The entries supply no fuller psychological trait.
+- body/health: No bodily condition is stated.
+- social/relationship: Abrupt break-off, restriction and stabilizing impulses all concern connections.
+- events/manifestations: Technical contacts deepen, while a connection may encounter a blockage event.
+- conflicts/notes: The sudden break in Witte differs from ABC's deepening and stabilization; they cannot be treated as one guaranteed outcome.
+
+## Contradictions
+
+Witte supplies only a surprising break-off. ABC retains blockage and restriction but adds deepening and stabilization. The latter do not cancel the break-off claim, and the excerpts give no criterion for selecting between them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = Node`: Surprising break-off of connections.
-- Practical expression: dynamic deepening of a connection, deepening contacts with technology, connected with a Blokkade event, suddenly blocked connection, and sudden constraint of relations.
+In `Uranus/Admetos = Node`, Node specifies interruption or consolidation in a connection. [Witte](#witte-entry) describes an unexpected break-off; [ABC](#abc-entry) adds blocked or restricted relations but also dynamic deepening and stabilizing impulses, including deeper contacts with technology. The connection itself is the common subject, while severance and strengthening remain materially different possibilities.
 
 ## Links
 

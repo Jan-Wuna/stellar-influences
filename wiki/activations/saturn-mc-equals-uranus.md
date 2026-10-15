@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Saturn Uranus MC](../triads/saturn-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Excitement by hindrances. To experience sudden sadness. To cause a sudden quarre
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 77; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-serious mental tensions, my inhibited rhythm, my inhibiting nervousness my nervous pain, my new duties, my sudden hardness, my Czech pains, sudden pains of the soul, and restlessness of a mature soul
+Serious soul-tensions, my inhibited rhythm, my inhibiting nervousness, my nervous pains, my new duties, my sudden hardness, my technical tasks, sudden pains of the soul, and restlessness of a mature soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: code `0933`, printed p. 263; PDF p. 265.
+
 #### Ebertin Entry
 
-Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement. 57 Martha Judmaier spoke at the Conference for Cosmobiological Research in Aalen about many cases of brain tumors. In each case it was found that the horoscope of the patient had Sun = Saturn/MC. This combination has been found in other cases as well. It is, however, important not to make such a diagnosis from this one factor alone.
+Emotional excitability, desire to attain one's objectives at all costs. Making the greatest effort. A sudden emotional or occupational crisis, an emotional shock, mourning and bereavement.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Emotional detachment when assessing interpersonal qualities and status; a scient
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: tension around obstacles or authority, with unusual approaches to knowledge and progress.
+- psychology: excitability, nervous tension, great effort, or emotional detachment.
+- body/health: ABC names nervous and soul-pains; the brain-tumor footnote belongs to the Sun activation.
+- social/relationship: sudden quarrels or separation, criticism of authority, and serious research friendships.
+- events/manifestations: technical tasks, emotional or occupational crisis, and original structures of spiritual knowledge.
+- conflicts/notes: Ebertin's displaced footnote57 is preserved on Saturn/MC = Sun, to whose code0927 it belongs.
 
 ## Contradictions
 
-- None recorded yet.
+- Questioning authority and emotional crisis are separate supported expressions; general modernization or public instability is not stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Uranus`: serious reform, modernization under stress, and the ability to alter rigid conditions without denying reality. Main caution: fracture: tension between authority and rebellion can produce abrupt reversals, severance, or public instability.
+In `Saturn/MC = Uranus`, Uranus specifies the Saturn/MC axis through tension around hindrances, objectives, and authority. [Witte](#witte-entry) describes excitement, sudden sadness, quarrels, or separation; [Ebertin](#ebertin-entry) adds great effort, emotional excitability, and a sudden emotional or occupational crisis. [ABC](#abc-entry) includes inhibited rhythm, nervousness, new duties, and technical tasks.
+
+[Sandbach](#sandbach-entry) develops the questioning of inadequate authorities and an original way of structuring spiritual knowledge. [Munkasey](#munkasey-entry) adds detached or scientific assessment, serious research friendships, and unusual ways of marking progress. The supported range joins strained responses to obstacles with questioning and unconventional intellectual work.
 
 ## Links
 

@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Jupiter Pluto MC](../triads/jupiter-pluto-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Pluto row.
 
 To be delighted over growing happiness. To be happy about the way things are developing. Joy because of a lucky change.
 
@@ -45,7 +49,9 @@ To be delighted over growing happiness. To be happy about the way things are dev
 
 #### ABC Entry
 
-Successful psychic development, I develop joy, my successful development, my financial development, my changes through the right, my beneficial development, soul pleasure develop, and growing psychic happiness
+- Source reference: printed p. 75; one-based PDF p. 36, MC + Jupiter, Pluto row.
+
+Successful development of the soul, I develop joy, my successful unfolding, my financial development, my changes through the law, my advantageous development, developing joy of the soul, and growing happiness of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ A successful person with extraordinary achievements. A great gain.
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 87, Planets activating the Jupiter/Midheaven midpoint, Pluto paragraph.
 
 A driving desire for success in one’s career. An extreme need to progress in one’s career, or to expand one’s expertise. Stress caused by taking on too much in one’s profession.
 
@@ -70,22 +78,23 @@ Brings a turn-around in your outlook on life due to the study and application of
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal happiness and success develop through substantial change or achievement.
+- psychology: Strong desire for advancement; excessive professional commitments may become stressful.
+- body/health: Sandbach describes stress from taking on too much, without a medical diagnosis.
+- social/relationship: No specific relationship pattern is supplied.
+- events/manifestations: Favorable developments, large gains, exceptional achievements and growth through troubles.
+- conflicts/notes: Achievement and strain are both represented; they are not guarantees that every change succeeds.
 
 ## Contradictions
 
-- None recorded yet.
+Favorable change and stressful ambition are compatible but different emphases. ABC's meine Veränderungen durch das Recht means my changes through the law; the source does not specify a proceeding or legal mechanism.
+
+Visually verified source rows: ABC printed p. 75, one-based PDF p. 36, Pluto row; Witte one-based PDF p. 65, Meridian + Jupiter, Pluto row. Sandbach one-based PDF pp. 87, Pluto paragraph under Jupiter/Midheaven. Existing parser locators retained: Ebertin printed p. 245, entry 0863; Munkasey printed p. 280; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Pluto`: powerful progress, exceptional accomplishment, and joy in major advancement or favorable turning points. Main caution: overload: the hunger for success can become compulsive, amplifying pressure and making growth feel all-or-nothing.
+In `Jupiter/MC = Pluto`, Pluto specifies personal growth as a consequential development or turn in one's life. The [Witte entry](#witte-entry) describes joy in favorable change, and [Ebertin](#ebertin-entry) adds exceptional achievement or a large gain. [Sandbach](#sandbach-entry) gives the pressure behind advancement and the stress of taking on too much, while [Munkasey](#munkasey-entry), printed p. 280, includes changed philosophies and development through troubles. Growth can therefore be both rewarding and demanding, rather than a simple increase in outward success.
 
 ## Links
 

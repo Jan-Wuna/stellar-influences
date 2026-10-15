@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Neptune Kronos`
 - Astronomicon triad-set: `VP Y ¤`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md)
-- [Vernal Point/Kronos = Neptune](../activations/vernal-point-kronos-equals-neptune.md)
-- [Vernal Point/Neptune = Kronos](../activations/vernal-point-neptune-equals-kronos.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Neptune/Kronos](../axes/neptune-kronos.md) | Vernal Point | [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md) |
+| [Vernal Point/Kronos](../axes/vernal-point-kronos.md) | Neptune | [Vernal Point/Kronos = Neptune](../activations/vernal-point-kronos-equals-neptune.md) |
+| [Vernal Point/Neptune](../axes/vernal-point-neptune.md) | Kronos | [Vernal Point/Neptune = Kronos](../activations/vernal-point-neptune-equals-kronos.md) |
 
 ## Source Coverage
 
-- `Neptune/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `398`
-- `Vernal Point/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `51`
-- `Vernal Point/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `51`
-- `Vernal Point/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `46`
-- `Vernal Point/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `41`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Neptune/Kronos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `250`
+- `Neptune/Kronos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `398`
+- `Vernal Point/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `51`
+- `Vernal Point/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, printed page `51`
+- `Vernal Point/Neptune = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `46`
+- `Vernal Point/Neptune = Kronos`: Udo Rudolph - ABC for Planetary Pictures, printed page `41`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Vernal Point`: This activation externalizes failed leadership into the public sphere, where the wider community lives under false impressions about administration and senses incompetence in ruling circles.
-- `Vernal Point/Kronos = Neptune`: This formula emphasizes a bad leader, loss of authority, loss of power, and a government that is not officially recognized.
-- `Vernal Point/Neptune = Kronos`: This formula emphasizes leading persons disappoint the general public and diplomatic entanglements.
+The set links [Neptune/Kronos = Vernal Point](../activations/neptune-kronos-equals-vernal-point.md), [Vernal Point/Kronos = Neptune](../activations/vernal-point-kronos-equals-neptune.md), and [Vernal Point/Neptune = Kronos](../activations/vernal-point-neptune-equals-kronos.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

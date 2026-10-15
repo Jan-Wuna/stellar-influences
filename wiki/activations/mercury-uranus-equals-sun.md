@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Sun`
 - Astronomicon formula: `T/X = S`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Agility. Quick acting body. Quick at hand. Messenger.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-People's excitement through news, dynamic talk among men, personal tension with youth, rhythmic movement of a man, technical thoughts of a man, restless young man, and center for rhythmic movements
+- Source passage: `Merkur + Uranus`; printed p. `248`; one-based PDF page `123` (oriented row checked against the scan).
+
+People's excitement through news, dynamic talk among men, personal tension with youth, rhythmic movement of a man, technical thoughts of a person, restless young man, and center for rhythmic movements
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `158`; one-based PDF page `160`; entry code `0507` (actual PDF passage checked).
 
 Readiness for action, over-zealous character, premature action or hastiness, ability to grasp a situation quickly, inclination to do one's work in haste. Ingenious or inventive person. Sudden incidents, a quick adjustment to new circumstances, a surprise.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 To become suddenly aware of something important. An erratic mind can throw one off balance. The ability to communicate in an inspired manner about important matters, or the goal at hand. Independent thinking about the meaning of things, and of life in general.
 
@@ -70,22 +80,23 @@ Orienting your life toward the upgrade of mechanical, electrical, or information
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quick perception and personal determination support immediate action or technical improvement.
+- psychology: Inspired thought and readiness coexist with haste or an erratic mind.
+- body/health: Agility and rhythmic bodily movement are named, without a disease claim.
+- social/relationship: Dynamic conversations, messages and personal tensions with youth are settings.
+- events/manifestations: Sudden incidents, quick adaptation and modernization of older techniques are examples.
+- conflicts/notes: Inventive ability and premature action coexist; technical thoughts concern a person in ABC, not exclusively a man.
 
 ## Contradictions
 
-- None recorded yet.
+Rapid adaptation and inspired communication coexist with overzealous haste or loss of balance. The entries do not establish consistent leadership or contrariness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Sun`: intellectual individuality, breakthrough selfhood, and the ability to lead through fresh ideas and alert awareness. Main caution: ego-driven contrariness: self-expression can become too restless, provocative, or attached to being different.
+In `Mercury/Uranus = Sun`, Sun specifies quick, original thought as personal readiness to act and improve methods. Rapid comprehension, inspired communication and sudden awareness support adaptation, while determination can be directed toward modernizing mechanical, electrical or information processes. Witte's agile body and messenger give the quick response a concrete form. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry); [Witte](#witte-entry))
+
+Haste, overzealous action or an erratic mind can unsettle that effectiveness. ABC preserves excitement through news, rhythmic movement and tension with young people as particular personal settings. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [ABC](#abc-entry))
 
 ## Links
 

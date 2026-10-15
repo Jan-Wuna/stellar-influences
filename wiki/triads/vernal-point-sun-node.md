@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Node`
 - Astronomicon triad-set: `VP S g`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Node = Vernal Point](../activations/sun-node-equals-vernal-point.md)
-- [Vernal Point/Node = Sun](../activations/vernal-point-node-equals-sun.md)
-- [Vernal Point/Sun = Node](../activations/vernal-point-sun-equals-node.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Node = Vernal Point](../activations/sun-node-equals-vernal-point.md) | [Sun/Node](../axes/sun-node.md) | Vernal Point |
+| [Vernal Point/Node = Sun](../activations/vernal-point-node-equals-sun.md) | [Vernal Point/Node](../axes/vernal-point-node.md) | Sun |
+| [Vernal Point/Sun = Node](../activations/vernal-point-sun-equals-node.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Node |
 
 ## Source Coverage
 
-- `Sun/Node = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `140`
-- `Vernal Point/Node = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `26`
-- `Vernal Point/Sun = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Node`: Udo Rudolph - ABC for Planetary Pictures, page `22`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Node = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `102`.
+- `Sun/Node = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-vernal-point.md#abc-entry), printed p. `140`.
+- `Vernal Point/Node = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-node-equals-sun.md#witte-entry), one-based PDF entry-start p. `39`.
+- `Vernal Point/Node = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-node-equals-sun.md#abc-entry), printed p. `26`.
+- `Vernal Point/Sun = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-node.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-node.md#abc-entry), printed p. `22`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Node = Vernal Point`: This formula emphasizes connections formed through the immediate environment and circumstance.
-- `Vernal Point/Node = Sun`: This formula emphasizes bodily associated with many people and daily contacts in general.
-- `Vernal Point/Sun = Node`: This formula emphasizes bodily contact or union among several people.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

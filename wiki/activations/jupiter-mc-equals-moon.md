@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Moon Jupiter MC](../triads/moon-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 65, Meridian + Jupiter, Moon row.
 
 To be in harmony with women. To be lucky trough women.
 
@@ -45,7 +49,9 @@ To be in harmony with women. To be lucky trough women.
 
 #### ABC Entry
 
-Blessed joy feeling, my wife's money, my wife's happiness, happiness's minute of the woman, joy for my people, joy with my wife, my right feeling, my wife is successful, spiritual satisfaction of a people, and soul feeling of the woman
+- Source reference: printed p. 74; one-based PDF p. 36, MC + Jupiter, Moon row.
+
+A feeling of joy imbued with soul, my wife's money, my wife's happiness, the woman's moment of happiness, joy for my people, joy with my wife, my sense of justice, my wife is successful, satisfaction of the soul of a people, and joy of the woman's soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +62,8 @@ Cheerful soul and temperament, confidence, the joy of expectation, a harmonious 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 86, Planets activating the Jupiter/Midheaven midpoint, Moon paragraph.
 
 Having a good standing in the world, and/or a high social position makes one feel emotionally secure. The emotional need to grow spiritually, but a tendency to have moods distort the reality of it, so that sometimes you feel dejected because you think you aren’t getting anywhere, or, at other time feel elated over your progress.
 
@@ -70,22 +78,23 @@ Realizing there are additional ways you can develop your potentials; assessing t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal happiness and progress are experienced through feelings, expectation and emotional support.
+- psychology: Cheerful confidence can alternate with dejection or elation about one's progress.
+- body/health: No bodily or medical claim is made.
+- social/relationship: Witte, ABC and Ebertin give historically gendered associations with women; Munkasey adds giving or receiving consolation.
+- events/manifestations: Happy association, reassurance and reassessment of one's developing potential.
+- conflicts/notes: Sandbach makes mood a possible distortion of progress; historical references to wives or women are source-specific, not universal rules.
 
 ## Contradictions
 
-- None recorded yet.
+A cheerful disposition and mood-dependent assessments of progress can coexist. ABC's Rechts-Gefühl is a sense of justice and Glücks-Minute a moment of happiness; its wife, woman and people formulations remain attributed historical examples.
+
+Visually verified source rows: ABC printed p. 74, one-based PDF p. 36, Moon row; Witte one-based PDF p. 65, Meridian + Jupiter, Moon row; Sandbach one-based PDF p. 86, Moon paragraph under Jupiter/Midheaven. Existing parser locators retained: Ebertin printed p. 244, entry 0856; Munkasey printed p. 280; those two source images were not reopened for this bounded correction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Moon`: happy expectation, cordiality, popularity, and good fortune through women, the public, or emotional receptivity. Main caution: fluctuation: confidence in one's progress can rise and fall with mood, making emotional security too dependent on signs of approval or success.
+In `Jupiter/MC = Moon`, Moon makes personal growth and good fortune an emotional experience: hopeful expectation, reassurance and the feeling that one is developing well. The [Ebertin entry](#ebertin-entry) emphasizes confidence and a harmonious temperament; [Munkasey](#munkasey-entry), printed p. 280, links feelings and consolation with self-worth. [Sandbach](#sandbach-entry) adds the essential qualification that mood can make the same progress feel inadequate or exhilarating. The older [Witte](#witte-entry) and [ABC entries](#abc-entry) associate happiness with women or a wife; those formulations remain historically attributed.
 
 ## Links
 

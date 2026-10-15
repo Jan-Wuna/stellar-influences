@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [Venus MC Kronos](../triads/venus-mc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 Charitable inclinations. To distribute gifts. To make gifts.
 
@@ -42,13 +46,27 @@ Charitable inclinations. To distribute gifts. To make gifts.
 
 #### ABC Entry
 
-Special soul harrnonia, great spiritual harmony, great animated arts, my special goodwill, my artistic self consciousness, my special joy, my love for the boss, my self sustainability in the arts, and important soul peace
+Source: “Meridian + Kronos,” printed p. 90 (PDF p. 44).
+
+Special harmony of soul, great inner harmony, great soulful art, my special goodwill, my artistic self-confidence, my special joy, my love for the chief, my independence in art, and important inner or soul peace.
+
+## Comparative Schema
+
+- core meaning: Personal authority or independence through goodwill, generosity, harmony, and art.
+- psychology: Artistic self-confidence, joy, and inner peace.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Making gifts, charitable inclinations, goodwill, and love for a chief.
+- events/manifestations: Independent artistic work and soulful art alongside gift-giving.
+- conflicts/notes: Generosity need not come from a superior position; art and charity are distinct source expressions.
+
+## Contradictions
+
+Witte emphasizes charity and gifts; ABC also supplies art, independent creative work, inner harmony, and personal affection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Venus` softens the axis through generosity and the distribution of benefits.
-- Chart expression: noble or charitable leadership, gifts bestowed from above, and authority expressed through kindness, patronage, or beneficent taste.
+In `MC/Kronos = Venus`, Venus specifies personal authority and independence through goodwill, harmony, and artistic expression. Witte names charity and gift-giving; ABC adds soulful art, artistic self-confidence and independence, inner peace, and love for a chief. The overlap is favorable personal expression and relationship, without requiring that generosity flow from a superior position or reducing art to patronage. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 90 / PDF p. 44)
 
 ## Links
 

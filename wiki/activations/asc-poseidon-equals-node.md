@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `Asc/¨ = g`
 - Axis page: [Asc/Poseidon](../axes/asc-poseidon.md)
 - Triad hub: [Node Asc Poseidon](../triads/node-asc-poseidon.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -38,16 +39,29 @@ updated_at: 2026-05-04
 
 To keep connections with other people for mental reasons.
 
+Source reference: one-based PDF page 98, Ascendant + Poseidon, Node row.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Idea partner relationship, clear connection to the other, cultural connections of a place, convey space culture, connected with a spiritualized environment, spiritualized partnerrelationship, and poor relationship to the environment
+A partner relationship based on ideas or ideals, clear connection to the other, cultural connections of a place, conveying spatial culture, connection with spiritualized surroundings, a spiritualized partner relationship, and a reasonable relationship to the surroundings.
+
+Source reference: printed page 136, one-based PDF page 67, Aszendent + Poseidon, Node row. “Vernünftige” means reasonable, not poor. “Raum-Kultur vermitteln” is retained as conveying spatial culture; the entry does not define its practical form.
+
+## Comparative Schema
+
+- **Core meaning:** Maintaining connections for mental reasons, with ideas, culture and spiritualized relationships in ABC.
+- **Psychology:** Mental reasons for contact and clarity of connection, without a stated lack of emotional warmth.
+- **Body/health:** Neither entry gives a bodily or health delineation.
+- **Social/relationship:** A partner relationship around ideas or ideals and a reasonable relation to the surroundings.
+- **Events/manifestations:** Cultural connections of a place and conveying spatial culture; no particular institution is named.
+- **Conflicts/notes:** Both entries emphasize connection. The literal spatial-culture clause remains broad, and neither entry defines a practical or emotional deficiency.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Poseidon = Node`: study-based ties, principled friendship, and a social field held together by common thought or mutual understanding. Main caution: over-intellectualized connection that lacks warmth or practical grounding.
+`Asc/Poseidon = Node` describes connections maintained for mental reasons. The [Witte entry](#witte-entry) states that motive directly; the [ABC entry](#abc-entry) expands it into a partner relationship based on ideas or ideals, clear connection, local cultural ties and spiritualized surroundings or partnership. The common thread is an intellectual or cultural basis for relating, with ABC also naming a reasonable relationship to the surroundings. The entries leave the emotional character of those connections open.
 
 ## Links
 

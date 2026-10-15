@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Asc](../axes/node-asc.md)
 - Triad hub: [Node Asc Vulcanus](../triads/node-asc-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ Influence through local connections. To be allied with influential people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `105`, one-based PDF p. `51`; exact activating-factor row.
+
 #### ABC Entry
 
-Influenced relationships with the partner, violence in a partner connection, strong ties with the partner, strong local connection, strong partners in a connection, connection with environmental energies, and connected with places of power
+Influential relationships with the partner, violence in a partner connection, a strong bond with the partner, strong attachment to a place, a strong partner in a connection, connection with environmental energies, connection with places of power.
+
+## Comparative Schema
+
+- core meaning: Influence and strength expressed through partner or local connections.
+- psychology: No separate psychological profile is supplied.
+- body/health: ABC mentions violence in a partnership; no medical condition is described.
+- social/relationship: Alliances with influential people and strong partner ties.
+- events/manifestations: Local influence and connections with places of power.
+- conflicts/notes: Strength and influence do not make coercion inevitable; ABC retains violence as a distinct adverse possibility.
+
+## Contradictions
+
+Witte emphasizes influential alliances; ABC includes both strong bonds and violence. These express different forms of power rather than a single uniformly helpful relationship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Asc = Vulcanus`: Influence through local connections. To be allied with influential people.
-- Practical focus: influence through local connections; also to be allied with influential people.
+Vulcanus specifies Node/Asc through the strength and influence carried by a connection. The [Witte entry](#witte-entry) places this in local alliances and influential associates, while the [ABC entry](#abc-entry) includes strong ties to a partner or place and connections with places of power. ABC also explicitly includes violence within a partnership, so the strength of a bond must not be equated with its quality.
 
 ## Links
 

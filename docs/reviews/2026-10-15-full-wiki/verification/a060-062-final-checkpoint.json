@@ -1,0 +1,212 @@
+{
+  "assigned": 164,
+  "ledger_records": 164,
+  "unique_records": 164,
+  "new_full_reviews": 79,
+  "amended_existing_records": 4,
+  "structural_failures": [],
+  "unexpected_source_changes": [],
+  "source_repair_proof_records": 66,
+  "remaining_original_hold_records": [
+    {
+      "path": "wiki/activations/pluto-asc-equals-moon.md",
+      "unresolved": [
+        "ABC p.120/PDF 59: 'change of the partner, change of partner' obscures German Gefuhls-Veranderung/Partner-Gefuhle; source retained, separation inference excluded pending raw scan.",
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-neptune.md",
+      "unresolved": [
+        "ABC p.121/PDF 59: cached 'Exchange of partners, development of partners' drops Enttauschender and Feingefuhl; metaphysics phrase omitted and 'see above' referent unresolved; no raw scan repair.",
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-node.md",
+      "unresolved": [
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-poseidon.md",
+      "unresolved": [
+        "ABC p.121/PDF 59: 'future partner change' appears against German vemiinftiger Partner-Wechsel (OCR); untranslated nuance needs raw scan. Witte 'Waves in the surrounding area' undefined."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-saturn.md",
+      "unresolved": [
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-sun.md",
+      "unresolved": [
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-uranus.md",
+      "unresolved": [
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-venus.md",
+      "unresolved": [
+        "Sandbach audit supplies PDF 116 as chapter start only; exact formula page and printed bibliographic page remain unverified."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-asc-equals-vernal-point.md",
+      "unresolved": [
+        "ABC p.120/PDF 59: 'changes eins place in the public' and 'changes an public places' are damaged cached translation; no raw scan repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-kronos.md",
+      "unresolved": [
+        "ABC p.409/PDF203: 'growing self sufficiency' appears against Selbstbewusstsein (OCR) and is not used as a psychological conclusion pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mars.md",
+      "unresolved": [
+        "ABC p.408/PDF203: English 'development ... in cooperation' obscures Kunst gemeinsam entwickeln in native audit; omitted artistic nuance not silently repaired."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mc.md",
+      "unresolved": [
+        "ABC p.408/PDF203: 'Gcmeinschatl', 'I old age cine community', 'Schelic' and omitted personal artistic development require raw scan repair; garbled wording excluded."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-moon.md",
+      "unresolved": [
+        "ABC p.408/PDF203: 'joint development, development of the Community' drops Gefuhls-Entwicklung/Gemeinschafts-Gefuhl; no raw scan repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-neptune.md",
+      "unresolved": [
+        "ABC p.409/PDF203: 'Exchangeable' mismatches Enttauschende; 'see above' referent unresolved. No replacement wording asserted without raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-uranus.md",
+      "unresolved": [
+        "ABC p.409/PDF203: 'restorative development' vs unruhige Entwicklung; 'growing retrenchments' vs Refonnen (OCR); excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-venus.md",
+      "unresolved": [
+        "ABC p.408/PDF203: 'common artificial development' appears against gemeinsame Kunst-Entwicklung; source left unrepaired pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-vernal-point.md",
+      "unresolved": [
+        "ABC p.408/PDF203: 'C)public', '6publications', '() public sphere' reflect damaged Offentlichkeit OCR/translation; no raw scan repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-zeus.md",
+      "unresolved": [
+        "ABC p.409/PDF203: 'industrial development' appears against fuhrende kunstlerische Entwicklungen (OCR); source retained and industrial claim excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-admetos.md",
+      "unresolved": [
+        "ABC p.411/PDF204: 'grild changes in old age' is damaged against grilndliche (OCR); excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-apollon.md",
+      "unresolved": [
+        "ABC p.411/PDF204: 'vie! changes under deprivation' retains OCR damage and is excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-asc.md",
+      "unresolved": [
+        "ABC p.410/PDF204: 'hidden change of partner bcim' is grammatically damaged; not used to infer changing partners pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-mc.md",
+      "unresolved": [
+        "ABC p.410/PDF204: 'hidden soul en growth' is split/garbled; not used for a finer psychological claim pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-neptune.md",
+      "unresolved": [
+        "ABC p.411/PDF204: 'Risk of exchange' vs Tauschung; 'dirty water old age' vs schmutziges Wasser verandern; 'see above' referent unresolved. Excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vernal-point.md",
+      "unresolved": [
+        "ABC p.410/PDF204: 'major changes in public life' appears against verborgene Wandlungen; scale is not asserted from this mistranslation pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-vulcanus.md",
+      "unresolved": [
+        "Witte PDF258 entry-start: 'A misfortune rarely comes along' may be damaged idiom; not silently corrected or used independently."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-zeus.md",
+      "unresolved": [
+        "ABC p.411/PDF204: 'criminal developments in the financial system' appears against kriminelle Entwicklungen in der Fuhrung (OCR); no raw scan repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-admetos.md",
+      "unresolved": [
+        "ABC p.415/PDF206: 'grim', 'self governingness', 'self glorification' and 'grilnd' mistranslate/damage grundliche and Selbstandigkeit OCR; excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-apollon.md",
+      "unresolved": [
+        "ABC p.415/PDF206: 'authoritarian' renders Autoritats-Entwicklung; 'self existence' vs Selbstbewusstsein; 'self governing knowledge' also suspect. No raw scan repair."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-kronos-equals-asc.md",
+      "unresolved": [
+        "ABC p.414/PDF206: 'growing authorship of the partner' appears against wachsende Autoritat des Partners; excluded pending raw scan."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-node-equals-saturn.md",
+      "unresolved": [
+        "Sandbach PDF p.114 is a chapter-start locator; exact formula page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-node-equals-sun.md",
+      "unresolved": [
+        "Sandbach PDF p.114 is a chapter-start locator; exact formula page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-node-equals-uranus.md",
+      "unresolved": [
+        "Sandbach PDF p.114 is a chapter-start locator; exact formula page not established."
+      ]
+    },
+    {
+      "path": "wiki/activations/pluto-node-equals-venus.md",
+      "unresolved": [
+        "Sandbach PDF p.114 is a chapter-start locator; exact formula page not established."
+      ]
+    }
+  ]
+}

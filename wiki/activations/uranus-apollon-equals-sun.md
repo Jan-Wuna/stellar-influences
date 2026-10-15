@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Sun Uranus Apollon](../triads/sun-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Days of cheerful expectations. The man who puts many under tension, who causes t
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 382; PDF p. 190.
+
 #### ABC Entry
 
-Successful Tcchnisches Zcntrum, new personal experiences, personal success rhythm, sudden personal success, technically experienced man, many people in tension, restless trade center, and center for new knowledge
+A successful technical center, new personal experiences, a personal rhythm of success, sudden personal success, a technically experienced man, many people under tension, a restless trade center, a center for new knowledge.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Personal experience or a center that gathers technical knowledge and collective expectation.
+- psychology: Cheerful expectation and tension involving many people.
+- body/health: No particular bodily condition is given.
+- social/relationship: A person places many under tension; historical male examples remain attributed.
+- events/manifestations: Sudden personal success, a technical or trade center and astrological activity.
+- conflicts/notes: A center and a person are distinct examples; gendered wording is not a universal trait.
+
+## Contradictions
+
+Witte's cheerful expectation and ABC's restless trade center both retain tension. The sources' examples of a man and a knowledge center do not establish one occupation, bodily condition or exclusively male expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Sun`: Days of cheerful expectations. The man who puts many under tension, who causes tension, who appears as an astrologer.
-- Practical expression: new personal experiences, personal success rhythm, sudden personal success, technically experienced man, and many people in tension.
+In `Uranus/Apollon = Sun`, Sun specifies expanding experience through a person or center around which knowledge and expectation gather. [Witte](#witte-entry) describes cheerful anticipation and a person who puts many under tension. [ABC](#abc-entry) adds technical experience, personal success and centers of trade or new knowledge. The historical male and astrologer examples remain attributed illustrations, while collective tension accompanies the favorable expectations.
 
 ## Links
 

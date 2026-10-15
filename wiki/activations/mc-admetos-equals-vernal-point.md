@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Vernal Point MC Admetos](../triads/vernal-point-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To appear insensitive, cold or having little feeling.
 
 #### ABC Entry
 
-I at the blocking the public, I at the stabilizing the public, my ending in public, my spending in private life, my ability in public, my ability in public life, and minutes of blockage in public life
+- Source passage: `Meridian + Admetos`; printed p. `94`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+I block the public, I stabilize the public, my end in public, my endurance in public life, my firmness in public, my thoroughness in public life, minutes of blockage in public.
+
+## Comparative Schema
+
+- **Core meaning:** Personal limitation or firmness displayed in public.
+- **Psychology:** Witte describes an appearance of insensitivity, not proof of an inner absence of feeling.
+- **Body/health:** No distinct bodily or health claim is supplied.
+- **Social/relationship:** ABC explicitly places blockage and stabilization in public life.
+- **Events/manifestations:** A public ending or a period of public blockage is named.
+- **Conflicts/notes:** ABC explicitly places endurance, firmness and thoroughness in public life; its minutes-of-blockage language supplies no timing rule.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Vernal Point` externalizes the axis as visible coldness or lack of feeling.
-- Chart expression: appearing insensitive, emotionally shut down, or hard to move, with inner firmness showing outwardly as reserve or chill.
+Vernal Point specifies `MC/Admetos` through its public appearance: a person may seem cold or insensitive, and ABC situates personal obstruction or stabilization in public life. The entry concerns how limitation becomes visible; it does not establish that an outwardly reserved person lacks feeling inwardly. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 94.)
 
 ## Links
 

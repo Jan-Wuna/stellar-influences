@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+- Source page: PDF p. 226.
 
 Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. Processes without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
 
@@ -78,7 +82,18 @@ Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrance
 
 #### ABC Pair Summary
 
-Initial difficulties, efforts in old age, task design, beginning shocks, serious aspiration, fire losses, leadership problems, concentration impairment, performance problems, and problematic circulation
+- Source page: printed pp. 358–359; PDF p. 178.
+
+Initial difficulties, efforts in old age, shaping tasks, beginning disturbances, serious striving, losses through fire, leadership problems, achievement through concentration, performance problems, problematic goal-setting.
+
+## Comparative Schema
+
+- core meaning: perseverance and concentrated effort meet obstacles in beginning, carrying through, or completing purposeful activity ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- psychology: perseverance and serious aspiration coexist with anxiety, anguish, and oppression.
+- body/health: no specific bodily condition is stated; the ABC entry concerns goal-setting, not circulation.
+- social/relationship: leadership problems and separation from one's work or accomplishments; the entries do not establish a romantic relationship pattern.
+- events/manifestations: initial difficulties, achievement through concentration, fruitless processes, machine breakdowns, production losses, losses by fire, and bequeathing.
+- conflicts/notes: the ABC entry includes productive concentration beside performance and goal-setting problems; obstruction does not erase the capacity for serious effort. Specific outcomes require the oriented activation entry.
 
 ## Related Activations
 
@@ -106,8 +121,9 @@ Initial difficulties, efforts in old age, task design, beginning shocks, serious
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on bequeathing, perseverance, oppression, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Zeus` describes sustained effort meeting obstacles in activity or production. Perseverance remains explicit in the [pair summary](#pair-summary), but so do interrupted work, processes without results, and separation from accomplishments. The [ABC summary](#abc-pair-summary) adds achievement through concentration alongside initial difficulties and leadership, performance, or goal-setting problems. Serious striving can therefore produce something, while getting an undertaking started and carried through remains a central strain.
+
+Machine breakdowns, losses in production or by fire, and bequeathing are specific parts of the [pair summary's range](#pair-summary). They should remain visible without turning every obstruction into a forecast of damage. Neither pair entry establishes a specific bodily condition; a more particular outcome requires the exact activation entry.
 
 ## Links
 

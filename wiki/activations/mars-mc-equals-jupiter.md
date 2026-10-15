@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Jupiter MC](../triads/mars-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 Successful activity. To deal honestly. The desire to make oneself happy. To intend to become betrothed. Successful moment at work.
 
@@ -45,17 +49,23 @@ Successful activity. To deal honestly. The desire to make oneself happy. To inte
 
 #### ABC Entry
 
-Successful soul work, joyful soul impulses, good mental treatment, I manage with money, I handle correctly, my work success, my success Will, my money works, my joy at work, my financial activity, and my legal actions
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Successful soul work, joyful soul impulses, good psychological treatment, I work with money, I act correctly, my work success, my will to succeed, my money works, my joy at work, my financial activity, and my legal actions.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0775.
 
 Good organizer, independent, prudent, far-sighted, clear consciousness of purpose or objective in life. A person with a lucky hand in an enterprise or venture, great success. A happy attachment, getting engaged, great joy (marriage).
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF p. 77.
 
 Someone who is successful and effective at taking charge of things and being the person to manage or organize something. An enthusiasm for directing other people and working in a position of authority.
 
@@ -70,22 +80,21 @@ The role that religion or philosophy plays in helping you to become a better and
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Effective, purposeful organization and successful activity.
+- psychology: Independence, prudence, enthusiasm for directing, and philosophical self-development.
+- body/health: ABC names good psychological treatment without specifying a condition or outcome.
+- social/relationship: Management and persuasion; happy attachment or engagement is also named.
+- events/manifestations: Successful ventures and work, financial or legal activity, and engagement are source examples.
+- conflicts/notes: Munkasey's philosophical development adds a distinct emphasis to the managerial and work themes.
 
 ## Contradictions
 
-- None recorded yet.
+No direct conflict is evident. Munkasey's religion, philosophy, and persuasion concern personal development rather than the successful management emphasized elsewhere.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Jupiter`: strong management ability, confidence in authority, successful ventures, and purposeful work motivated by honest or generous intent. Main caution: overconfidence: ambition can grow larger than realism and turn success-seeking into self-righteous control.
+In `Mars/MC = Jupiter`, Jupiter specifies personal action through effectiveness, clear purpose, and the ability to organize or take charge. Honest dealing, enjoyment of work, and successful ventures connect the entries; happy attachment or engagement is another explicitly named expression, rather than a guaranteed result. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35; [Ebertin](#ebertin-entry), printed p. 223, entry 0775; [Sandbach](#sandbach-entry), PDF p. 77) Munkasey adds a separate emphasis on religion, philosophy, and persuasion in personal development. ([Munkasey entry](#munkasey-entry), printed p. 252)
 
 ## Links
 

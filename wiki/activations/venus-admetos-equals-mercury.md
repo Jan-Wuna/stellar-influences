@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Admetos = Mercury`
 - Astronomicon formula: `Q/¦ = T`
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
@@ -36,19 +38,38 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 187.
+
 Very concentrated thinking. Meditative speculation upon a thought. Aversion against new acquaintance. Aggravation at making new acquaintances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked joy in youth, depression in a youth love, consolidation of a young love, cessation of peace language, thoughts about the end of a love, lucid arts reports, harmonious language deepening, and preference for lucid language
+- Source page: 292 (printed); PDF page: 145.
+- Translation and activator boundary checked against the scanned row.
+
+Blocked joy in youth, depression in a youthful love, consolidation of a young love, discontinuing peace discussions, thoughts about the end of a love, thorough reports on art, harmonious deepening of conversation, and a preference for thorough conversations.
+
+## Comparative Schema
+
+- Core meaning: Concentrated thought around selective affection.
+- Psychology: Meditation; difficulty welcoming new acquaintances.
+- Body/health: Historical depression-in-young-love claim; no diagnosis.
+- Social/relationship: Young love consolidated or reconsidered.
+- Events/manifestations: Peace talks end; thorough art reports and conversations.
+- Conflicts/notes: Concentration does not prove social inability.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Concentration does not prove social inability.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Mercury`: very concentrated thinking.
-- Practical expression: blocked joy in youth, depression in a youth love, consolidation of a young love, cessation of peace language, and thoughts about the end of a love.
+Mercury specifies Venus/Admetos through thought that stays with a subject rather than opening readily to new acquaintances. This can become meditation, thorough conversation, or sustained attention to art. ABC also brings young love, its consolidation or ending, and interrupted peace discussions into that narrowed field of attention. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

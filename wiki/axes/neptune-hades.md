@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Damages through error. Deception. Lack of lucidity. Decay. Water catastrophes. D
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `394`; PDF page: `196` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-difficult dissolution, Danger in the water, Air criminality, Air deficiency, Air pollution, Disadvantage of weak, dirty water, Weakness of the fear, IJnbckarmtes and Unsichtes, Water deficiency, and Water damage
+German pair summary (transcribed from printed page `394`; PDF page `196`):
+
+> Erschwerte Auflösung, Gefahr im Wasser, Luft-Kriminalität, Luft-Mangel, Luft-Verschmutzung, Nachteil durch Schwäche, schmutziges Wasser, Schwächen der Vergangenheit, Unbekanntes und Verborgenes, Wasser-Mangel, Wasser-Schaden
+
+Editorial translation from the German passage: Impeded dissolution, danger in water, air criminality, lack of air, air pollution, disadvantage through weakness, dirty water, weaknesses of the past, the unknown and hidden, lack of water, water damage.
+
+## Comparative Schema
+
+- core meaning: harm through error, obscurity, decay, scarcity, or damaged environmental conditions connects the readable entries.
+- psychology: deception and lack of lucidity are explicit; the pair summaries do not give a developed personality account.
+- body/health: Witte's dropsy and grave epidemics are historical medical associations, not diagnoses; lack of air or water and drowning are named hazards.
+- social/relationship: the summaries do not delineate a distinct intimate-relationship pattern.
+- events/manifestations: water damage, polluted air or water, water shortage, cloudburst, tidal waves, and cyclones form the concrete environmental range.
+- conflicts/notes: The environmental and medical images do not establish catastrophe or illness. Luft-Kriminalität remains literal air criminality without a defined offense.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ difficult dissolution, Danger in the water, Air criminality, Air deficiency, Air
 - [Neptune/Hades = Vulcanus](../activations/neptune-hades-equals-vulcanus.md)
 - [Neptune/Hades = Zeus](../activations/neptune-hades-equals-zeus.md)
 
+## Contradictions
+
+The complete ABC list restores weaknesses of the past and the unknown and hidden; it does not supply a specific hidden-history narrative or a defined crime.
+
+ABC's complete bold pair list was checked against printed394/PDF196; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes diffuse decline, hidden damage, and weakening through confusion, contamination, secrecy, or error. It often shows vulnerability to decay, illness, polluted conditions, deceptive narratives about the past, and situations where compassion, fantasy, or poor boundaries erode judgment and resilience.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Hades` links unclear or erroneous conditions with damage, deprivation, and decay. [Witte's pair summary](#pair-summary) names deception and lack of lucidity alongside scarcity and water catastrophes. [Udo's readable phrases](#abc-pair-summary) add dirty water, air pollution, and water damage, making impaired or insufficient air and water a particularly concrete shared theme.
+
+The range includes both an obscured situation and material harm: loss caused by error, lack of necessities, and destructive weather or water conditions. Witte's historical mentions of dropsy and epidemics remain attributed medical doctrine, not evidence that a person is ill or a disaster will occur. The entries supply no specific intimate-relationship account or constructive counter-theme.
 
 ## Links
 

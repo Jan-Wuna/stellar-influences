@@ -30,13 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Uranus Zeus](../triads/vernal-point-uranus-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-& Spontaneous work in general. Manufacturing explosives. Fire spitting craters. Lightening.
+Spontaneous work in general. Manufacturing explosives. Fire spitting craters. Lightening.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
@@ -44,11 +46,23 @@ updated_at: 2026-05-04
 
 excitement about public leadership, dynamic creativity in public life, excited public leadership, new efforts in public, public reform event, and technical achievements in public
 
+## Comparative Schema
+
+- Core meaning: Spontaneous or dynamic public activity, technical achievement, and reform.
+- Psychology: Excitement about public leadership is explicit; it is not presented as a fixed character trait.
+- Body/health: Explosives and fire-emitting craters are physical examples without a medical claim.
+- Social/relationship: Excited public leadership and public reform place the activity in collective life.
+- Events/manifestations: New public efforts, technical achievements, spontaneous work, explosives manufacture, and fire-emitting craters are named.
+- Conflicts/notes: Witte prints "Lightening"; its intended sense remains unexpanded. A glyph misread as a leading ampersand was removed after checking the scan.
+
+## Contradictions
+
+Technical creativity, reform, and explosive phenomena are separate expressions, not evidence that reform must be violent. The scan confirms Witte's spelling "Lightening" (PDF p. 50), without resolving its intended sense.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Uranus`: & Spontaneous work in general, manufacturing explosives, fire spitting craters, and lightening.
-- Practical expression: excitement about public leadership, dynamic creativity in public life, excited public leadership, new efforts in public, and public reform event.
+In `Vernal Point/Zeus = Uranus`, Uranus specifies the pair as spontaneous activity and dynamic creativity that can appear in new public efforts, reform, or technical achievement. The [Witte Entry](#witte-entry) also gives literal explosive and fire-emitting examples (PDF p. 50); the [ABC Entry](#abc-entry) emphasizes public leadership and innovation (printed p. 49; PDF p. 23). These establish a range of manifestations, not an equation between social reform and physical explosion. The uncertain word "Lightening" is excluded.
 
 ## Links
 

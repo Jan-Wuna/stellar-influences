@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Poseidon = Saturn`
 - Astronomicon formula: `¡/¨ = W`
 - Axis page: [Cupido/Poseidon](../axes/cupido-poseidon.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 278; PDF p. 274.
+
 To experience obstacles from a spiritual sect or to separate from one. Education through spiritual, cultural or philosophical institutes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Spiritual community, common clarity through patience, common loss of culture, common problems with truth, concentration on arts and culture, cultural tasks of a community, and problematic community of ideas
+Source: printed p. 437; PDF p. 217, Saturn row.
+
+German: "Geistig gestörte Gemeinschaft, gemeinsame Klarheit durch Geduld, gemeinsame Kultur-Verluste, gemeinsame Probleme mit der Wahrheit, Konzentration auf Kunst und Kultur, Kultur-Aufgaben einer Gemeinschaft, problematische Ideen-Gemeinschaft".
+
+English translation: An intellectually or spiritually disturbed community; shared clarity through patience; shared cultural losses; shared problems with truth; concentration on art and culture; a community's cultural tasks; a problematic community of ideas.
+
+## Comparative Schema
+
+- Core meaning: Obstacles, separation and tasks within shared outlook, alongside education and patient clarity ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Patience and concentration on art/culture are explicit.
+- Body/health: ABC's disturbed-community phrase is collective source language, not a diagnosis.
+- Social/relationship: Obstacles from or separation from a spiritual sect and educational institutes are named.
+- Events/manifestations: Cultural losses, problems with truth, cultural tasks and shared clarity through patience are examples.
+- Conflicts/notes: Education and clarity remain substantive meanings beside constraint.
+
+## Contradictions
+
+The source range includes educational institutions and patient clarity as well as obstacles and losses. Hardship is not itself evidence of spiritual legitimacy.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon = Saturn`: ideal community becoming a source of burden, constraint, or necessary separation, sometimes maturing the person through discipline and sometimes simply limiting them. Main caution: confusing hardship with spiritual legitimacy.
+In `Cupido/Poseidon = Saturn`, Saturn specifies shared outlook through obstacles, separation and sustained work. Witte describes obstacles from a sect or separation from it, but also education through spiritual, cultural or philosophical institutes ([Witte Entry](#witte-entry)). ABC adds cultural tasks and losses, problems with truth, concentration on art and culture, and shared clarity through patience. The exact formula thus retains education and patient understanding alongside its difficult communal conditions ([ABC Entry](#abc-entry)).
 
 ## Links
 

@@ -58,7 +58,7 @@ source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
   - robert-hand-horoscope-symbols
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -67,11 +67,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/T`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+Source reference: PDF page `40`, chapter heading `ARIES + MERCURY` (normalized here as Vernal Point/Mercury).
 
 General thinking. General news. General opinion. General motion. Media and information in the general public. The youth in public life.
 
@@ -79,13 +83,28 @@ General thinking. General news. General opinion. General motion. Media and infor
 
 #### ABC Pair Summary
 
-Public thoughts, Public speech Life, Media in public, Youth in public Life, Public opinion, and Public attention Transport
+Source reference: printed page `28`, PDF page `13`, bold pair summary.
+
+Source wording: "Gedanken zur Öffentlichkeit, Gespräche im öffentlichen Leben, Medien in der Öffentlichkeit, Jugend im öffentlichen Leben, öffentliche Meinung, öffentliche Nachrichten, öffentlicher Verkehr".
+
+Editorial translation, checked against the scan: Thoughts about the public; conversations in public life; media in public life; youth in public life; public opinion; public news; public traffic or transport.
 
 ### Robert Hand - Horoscope Symbols
 
 #### Pair Delineation
 
-To be known in the world for intellect or because of involvement in communications or transportation. To be involved in communications media or in the creation of public opinion. To write, especially for publication. Pairs with Venus
+Source reference: PDF page `206`, entry `Mercury/Aries`.
+
+To be known in the world for intellect or because of involvement in communications or transportation. To be involved in communications media or in the creation of public opinion. To write, especially for publication.
+
+## Comparative Schema
+
+- Core meaning: Public thought, news, opinion, and communication recur across the [pair summary](#pair-summary), [ABC entry](#abc-pair-summary), and [pair delineation](#pair-delineation).
+- Psychology: Intellect and thinking become known or expressed in a wider sphere; the entries do not establish nervousness, gossip, or overstimulation.
+- Body/health: No specific bodily or medical association is supplied by these pair entries.
+- Social/relationship: Communications media, public opinion, and youth in public life connect ideas with collective discussion.
+- Events/manifestations: Writing for publication, communications work, transportation, and the circulation of news are explicit themes.
+- Conflicts/notes: The checked ABC paragraph distinguishes public conversations, news, and traffic. Hand's following heading, "Pairs with Venus," has been excluded after checking PDF page `206`.
 
 ## Related Activations
 
@@ -110,11 +129,16 @@ To be known in the world for intellect or because of involvement in communicatio
 - [Vernal Point/Mercury = Vulcanus](../activations/vernal-point-mercury-equals-vulcanus.md)
 - [Vernal Point/Mercury = Zeus](../activations/vernal-point-mercury-equals-zeus.md)
 
+## Contradictions
+
+The entries converge on public information and communication, with motion or transportation extending the range. No direct contradiction is established; their emphasis on a public field does not itself establish a favorable or harmful effect on public opinion.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury` is the axis of public thought, media, messaging, information flow, and the way ideas circulate through the wider world.
-- Chart expression: publication, communication networks, journalism, transport, public opinion, and being known through intellect, speech, or informational skill. Liabilities: noise, nervous overstimulation, gossip, and a public image shaped too much by commentary, trends, or mental restlessness.
+Vernal Point/Mercury describes thought and information entering public circulation. General thinking, news, opinion, and media in the [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) connect with writing for publication, communications, and publicly recognized intellect in the [pair delineation](#pair-delineation).
+
+Movement also belongs to the range: the pair summary names general motion, and the pair delineation names transportation. The axis therefore concerns both information and its wider movement or reach; it does not by itself establish the quality of the message, its truth, or a particular public reaction.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Pluto](../triads/saturn-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ A hindered and slow development is suddenly brought into motion. Change in circu
 
 #### ABC Entry
 
-serious troublesome development, concentrated technical development, slow development of nervousness, sudden loss of development, change due to ncuc lossc, growing technical problems, and changes after surprising separation
+Serious restless development, concentrated technical developments, slow unfolding of nervousness, sudden development involving losses, change through new losses, growing technical problems, and transformations after surprising separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Concealing changes to activities; termination of extreme practices which have be
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Restricted development is forced into consequential change.
+- psychology: Relentless pressure between existing structure and the need for freedom.
+- body/health: Ebertin attributes harm through major force; no specific diagnosis is given.
+- social/relationship: Quarrels, lawsuits, divorce or rebellion against one's circumstances.
+- events/manifestations: A stalled development moves; technical problems grow or rigid practices end.
+- conflicts/notes: Transformation and damaging force remain distinct outcomes.
 
 ## Contradictions
 
-- None recorded yet.
+Witte's renewed motion and Sandbach's structural transformation do not cancel Ebertin's violence and harm; movement is not necessarily improvement.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Pluto`: powerful reform, crisis-driven reinvention, and the ability to force change where conditions have become intolerable. Main caution: extremity: pressure can become ruthless, destructive, or obsessed with rupture rather than viable reconstruction.
+Pluto specifies Saturn/Uranus as pressure sufficient to force a stalled development or established structure into change. Extraordinary effort may overcome constraint, but the struggle can also become rebellion or harm through major force. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) supplies sudden motion and changed disputes; [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) describes the pull between structure and freedom, while [Ebertin](#ebertin-entry) (printed p. 247) retains the damaging extreme. The formula therefore supports consequential change without guaranteeing a beneficial reconstruction.
 
 ## Links
 

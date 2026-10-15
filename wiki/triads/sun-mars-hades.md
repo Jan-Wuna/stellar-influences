@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Mars Hades`
 - Astronomicon triad-set: `S U ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mars/Hades = Sun](../activations/mars-hades-equals-sun.md)
-- [Sun/Hades = Mars](../activations/sun-hades-equals-mars.md)
-- [Sun/Mars = Hades](../activations/sun-mars-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Hades = Sun](../activations/mars-hades-equals-sun.md) | [Mars/Hades](../axes/mars-hades.md) | [Sun](../factors/sun.md) |
+| [Sun/Hades = Mars](../activations/sun-hades-equals-mars.md) | [Sun/Hades](../axes/sun-hades.md) | [Mars](../factors/mars.md) |
+| [Sun/Mars = Hades](../activations/sun-mars-equals-hades.md) | [Sun/Mars](../axes/sun-mars.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Mars/Hades = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
-- `Mars/Hades = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `310`
-- `Sun/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `160`
-- `Sun/Mars = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `147`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Mars/Hades = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-hades-equals-sun.md#witte-entry), one-based PDF entry-start p. `198`.
+- `Mars/Hades = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-hades-equals-sun.md#abc-entry), printed p. `310`.
+- `Sun/Hades = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-mars.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-mars.md#abc-entry), printed p. `160`.
+- `Sun/Mars = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mars-equals-hades.md#witte-entry), one-based PDF entry-start p. `105`.
+- `Sun/Mars = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mars-equals-hades.md#abc-entry), printed p. `147`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Sun`: dirty everyday work, quick fatigue, low or unfamiliar labor, and serious injury or illness through sudden attack.
-- `Sun/Hades = Mars`: This formula emphasizes the worker and one who works with tools or in the soil.
-- `Sun/Mars = Hades`: This formula emphasizes unpleasant activity and toil under difficult conditions.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

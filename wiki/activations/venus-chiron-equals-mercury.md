@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Chiron = Mercury`
 - Astronomicon formula: `Q/Chiron = T`
 - Axis page: [Venus/Chiron](../axes/venus-chiron.md)
@@ -35,12 +37,29 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+- PDF page: 59 (exact entry passage checked in the raw PDF text).
+
 The ability to communicate in a way that promotes peace and love and helps others to understand the value of all ideas. Communicating about the spiritual aspects of art. The communication of spiritual love.
+
+## Comparative Schema
+
+- Core meaning: Communication expresses spiritual love.
+- Psychology: Appreciating the value in ideas.
+- Body/health: No specific health claim.
+- Social/relationship: Peaceful, loving understanding through communication.
+- Events/manifestations: Discussion of spiritual art.
+- Conflicts/notes: Valuing ideas does not establish that all ideas are factually true.
+
+These categories follow the [Sandbach entry](#sandbach-entry).
+
+## Contradictions
+
+Valuing ideas does not establish that all ideas are factually true. No second source is represented for comparison.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Chiron = Mercury`: the ability to communicate in a way that promotes peace and love and helps others to understand the value of all ideas.
+Mercury specifies Venus/Chiron through communication that brings appreciation and affection into an exchange. Helping others recognize value in ideas connects peaceful understanding with discussion of art's spiritual dimension. The entry concerns how ideas are communicated and appreciated, rather than proving every idea equally correct. ([Sandbach](#sandbach-entry).)
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Pluto = Admetos`
 - Astronomicon formula: `R/Z = ¦`
 - Axis page: [Moon/Pluto](../axes/moon-pluto.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `129` (entry start; one-based).
+
 #### Witte Entry
 
 Aversion to continuous changes. Stabilization of general conditions. Slow transition to stability.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `191`, PDF p. `94` (entry).
+
 #### ABC Entry
 
-Blocked development of a woman, narrowed development of a woman, restrictive change of women, grim development of a woman, cycle development of women, hour of depression change, and deep Gemtits changes
+Blocked development of a woman, narrowed development of a woman, a restrictive emotional change, thorough development of a woman, a woman's Kreislauf development, an hour of change in depression, and deep emotional changes
+
+## Comparative Schema
+
+- core meaning: slowed or restricted change, stabilization, and thorough development.
+- psychology: aversion to continuous changes and deep emotional changes are named.
+- body/health: ABC includes depression and the undefined Kreislauf phrase as historical associations, not clinical findings.
+- social/relationship: a woman's restricted or thorough development is ABC's recurring personal example.
+- events/manifestations: stabilizing general conditions and a slow transition to stability are explicit.
+- conflicts/notes: Kreislauf can refer to circulation or a cycle; this entry does not explain its intended referent, so it is excluded from confident synthesis.
+
+## Contradictions
+
+Witte emphasizes stabilizing conditions, while ABC includes both blocked development and thorough or deep change. Stabilization therefore need not mean an absence of development, and depth need not remove restriction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Admetos`: Aversion to continuous changes. Stabilization of general conditions. Slow transition to stability.
-- Practical focus: constricts `Moon/Pluto` into slowed transition, resistance to upheaval, and the gradual hardening of changing conditions into something fixed. It favors stabilization after flux, but often through emotional reluctance, fatigue, or a wish to stop further mutation.
-- Practical expression: blocked development of a woman, narrowed development of a woman, restrictive change of women, grim development of a woman, and cycle development of women.
+In Moon/Pluto = Admetos, Admetos specifies the pair through change that is slowed, constrained, or brought toward stability. The [Witte entry](#witte-entry) gives aversion to continuous change and a gradual transition to stable conditions. The [ABC entry](#abc-entry) preserves both blocked development and thorough development or deep emotional change (printed p. 191, PDF p. 94). The organizing issue is how change proceeds under limits; fatigue or emotional reluctance need not be added as its cause.
 
 ## Links
 

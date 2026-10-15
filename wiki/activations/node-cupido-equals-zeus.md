@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Node Cupido Zeus](../triads/node-cupido-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Wanting union and combination. To tend toward association. Creative work togethe
 
 #### ABC Entry
 
-Efforts in common, community linked to objectives, with a creative community, performance transmission of a community, association with the community of procreation, and determined contacts with of a community
+- Source passage: `Mondknoten + Cupido`; printed p. `225`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Effort within a shared connection, community joined through striving toward goals, connected with a creative community, mediation of a community's performance (Leistungs-Vermittlung), connection to a procreative community, goal-directed contacts with a community.
+
+## Comparative Schema
+
+- core meaning: Association formed through common effort, purpose, or creative work.
+- psychology: A wish for union and determination to pursue shared aims.
+- body/health: ABC includes a procreative community; no health inference follows.
+- social/relationship: People cooperate through a creative or purposeful association.
+- events/manifestations: Joint creative work and common efforts.
+- conflicts/notes: Leistungs-Vermittlung is printed, but the terse row does not specify what kind of performance, service or achievement is mediated. The native compound is retained without inventing a specialized activity.
+
+## Contradictions
+
+The wish to associate and the effort of creating together reinforce one theme. ABC's Leistungs-Vermittlung remains contextually underspecified, rather than a disagreement with Witte.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Zeus`: Wanting union and combination. To tend toward association. Creative work together with others.
-- Practical focus: wanting union and combination; also to tend toward association.
+Zeus specifies Node/Cupido through the effort to form or pursue something together. The [Witte entry](#witte-entry) joins the desire for association with creative work alongside others; the [ABC entry](#abc-entry) adds shared goals, effort, and creative community contacts. The connection is organized around what people seek to accomplish together.
 
 ## Links
 

@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Hades Zeus`
 - Astronomicon triad-set: `W ¢ £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Zeus = Saturn](../activations/hades-zeus-equals-saturn.md)
-- [Saturn/Hades = Zeus](../activations/saturn-hades-equals-zeus.md)
-- [Saturn/Zeus = Hades](../activations/saturn-zeus-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Zeus = Saturn](../activations/hades-zeus-equals-saturn.md) | [Hades/Zeus](../axes/hades-zeus.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Hades = Zeus](../activations/saturn-hades-equals-zeus.md) | [Saturn/Hades](../axes/saturn-hades.md) | [Zeus](../factors/zeus.md) |
+| [Saturn/Zeus = Hades](../activations/saturn-zeus-equals-hades.md) | [Saturn/Zeus](../axes/saturn-zeus.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Hades/Zeus = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `277`
-- `Hades/Zeus = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `439`
-- `Saturn/Hades = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `357`
-- `Saturn/Zeus = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `226`
-- `Saturn/Zeus = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `359`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Zeus = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-zeus-equals-saturn.md#witte-entry), one-based PDF entry-start p. `277`.
+- `Hades/Zeus = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-zeus-equals-saturn.md#abc-entry), printed p. `439`.
+- `Saturn/Hades = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-hades-equals-zeus.md#witte-entry), one-based PDF entry-start p. `225`.
+- `Saturn/Hades = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-hades-equals-zeus.md#abc-entry), printed p. `357`.
+- `Saturn/Zeus = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-zeus-equals-hades.md#witte-entry), one-based PDF entry-start p. `226`.
+- `Saturn/Zeus = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-zeus-equals-hades.md#abc-entry), printed p. `359`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = Saturn`: long enmity, slow destructive hate, and losses through fire, arson, or war.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

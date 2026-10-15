@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Venus Admetos`
 - Astronomicon triad-set: `S Q ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Sun/Admetos = Venus](../activations/sun-admetos-equals-venus.md)
-- [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md)
-- [Venus/Admetos = Sun](../activations/venus-admetos-equals-sun.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Admetos = Venus](../activations/sun-admetos-equals-venus.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Venus](../factors/venus.md) |
+| [Sun/Venus = Admetos](../activations/sun-venus-equals-admetos.md) | [Sun/Venus](../axes/sun-venus.md) | [Admetos](../factors/admetos.md) |
+| [Venus/Admetos = Sun](../activations/venus-admetos-equals-sun.md) | [Venus/Admetos](../axes/venus-admetos.md) | [Sun](../factors/sun.md) |
 
 ## Source Coverage
 
-- `Sun/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `104`
-- `Sun/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `145`
-- `Venus/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
-- `Venus/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Sun/Admetos = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-venus.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-venus.md#abc-entry), printed p. `168`.
+- `Sun/Venus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-venus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `104`.
+- `Sun/Venus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-venus-equals-admetos.md#abc-entry), printed p. `145`.
+- `Venus/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `187`.
+- `Venus/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-admetos-equals-sun.md#abc-entry), printed p. `292`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Venus`: This formula emphasizes the difficult release from pain and bodily crampings.
-- `Sun/Venus = Admetos`: This formula emphasizes difficult release from pain and constriction in affection or comfort.
-- `Venus/Admetos = Sun`: to remain in rest, able to wait.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

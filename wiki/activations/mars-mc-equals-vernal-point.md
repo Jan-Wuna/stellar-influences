@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Vernal Point Mars MC](../triads/vernal-point-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To give orders to many. To be a commander over many.
 
@@ -42,13 +46,27 @@ To give orders to many. To be a commander over many.
 
 #### ABC Entry
 
-I work in public and I work in public life
+Source: “Meridian + Mars,” printed p. 72 (PDF p. 35).
+
+Soulful public work, I work in public, I want to enter public life, my work in public, my actions in public life, and soul impulses from the public.
+
+## Comparative Schema
+
+- core meaning: Personal activity placed in public life or directed toward many people.
+- psychology: A wish to enter public life and inner impulses received from the public.
+- body/health: No bodily or health meaning is established.
+- social/relationship: Witte describes command over many; ABC describes public work.
+- events/manifestations: Giving orders to a large group and activity in public life.
+- conflicts/notes: Public work and command over many overlap in scale but do not imply the same degree of authority.
+
+## Contradictions
+
+ABC emphasizes public work and impulses from the public; Witte specifically adds command over many. Neither entry requires all public activity to be command.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/MC = Vernal Point` makes executive action broadly public and socially commanding.
-- Chart expression: directing many people, commanding from a public position, and having one's will or instructions operate visibly in the wider world.
+In `Mars/MC = Vernal Point`, Vernal Point specifies personal action through public life. ABC names public work, a wish to enter that field, and inner impulses from the public. Witte's giving orders to many connects this wider scale with command, which remains his particular emphasis rather than the necessary form of every public task. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 72 / PDF p. 35)
 
 ## Links
 

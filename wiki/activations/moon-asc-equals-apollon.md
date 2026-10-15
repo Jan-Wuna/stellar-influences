@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Asc = Apollon`
 - Astronomicon formula: `R/Asc = ¥`
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
@@ -34,22 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `81`.
+
 #### Witte Entry
 
 Many female acquaintances. Female customers. Many people in one place. Connected with the public through commerce and science.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `103`; PDF page: `50`.
+
 #### ABC Entry
 
-Expansion of other peoples, special hour at the place, success with other women, successful woman as partner, freedom in the environment of the mother, business women in the place, self conscious woman as partner, many women in the environment, and increasing partner skills
+German passage (transcribed from PDF page `50`, printed page `103`):
+
+> Ausdehnung anderer Völker, besondere Stunde am Ort, Erfolg bei anderen Frauen, erfolgreiche Frau als Partner, Freiheit in der Umwelt der Mutter, Gewerbe-Frauen am Ort, selbstbewußte Frau als Partner, viele Frauen im Umfeld, zunehmende Partner-Gefühle
+
+Editorial translation from the German passage: Expansion of other peoples; a special hour at the place; success with other women; a successful woman as partner; freedom in the mother's surroundings; local businesswomen; a self-confident woman as partner; many women in the surroundings; increasing feelings toward a partner.
+
+## Comparative Schema
+
+- core meaning: Many female acquaintances or customers and public connections through commerce and science.
+- psychology: ABC retains a self-confident woman as partner and increasing feelings toward a partner.
+- body/health: No distinct bodily or medical condition is supplied.
+- social/relationship: Many people in one place and many women in the surroundings are explicit.
+- events/manifestations: Trade, science, local businesswomen and expansion of other peoples are examples.
+- conflicts/notes: The source supports enlarged contact, without guaranteeing emotional rapport with every person.
+
+## Contradictions
+
+Witte emphasizes the number of acquaintances and public commercial or scientific contact; ABC also includes partner feelings and freedom around the mother. Those intimate motifs are not identical to a business clientele.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Asc = Apollon`: Many female acquaintances. Female customers. Many people in one place. Connected with the public through commerce and science.
-- Practical focus: widens `Moon/Asc` into social reach, circulation, and public exchange. It points to emotional rapport with many people, especially through trade, clientele, study, or networked environments, so the person's feeling nature becomes more publicly distributed and commercially or intellectually connected.
-- Practical expression: expansion of other peoples, special hour at the place, success with other women, successful woman as partner, and freedom in the environment of the mother.
+In `Moon/Asc = Apollon`, Apollon enlarges the pair's immediate social surroundings: many women or customers, many people in one place, and contact with the public through commerce or science. ABC adds local businesswomen, a successful or self-confident woman as partner and increasing partner feelings. The link is a wider field of nearby contact and exchange, while emotional closeness and commercial reach remain distinct possibilities rather than equivalent forms of success ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

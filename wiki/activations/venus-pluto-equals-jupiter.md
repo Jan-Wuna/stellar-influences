@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Jupiter Pluto](../triads/venus-jupiter-pluto.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Propagation of destructive impulses; many intense feelings of pleasure from acti
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intensified pleasure, creative growth, or happiness in a new development.
+- psychology: Creative desire, intense loving expression, and the possibility of excess.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Happiness in love and consideration coexist with Munkasey's destructive-force concerns.
+- events/manifestations: Artistic success, financial development, and legal advantages occur in the entries.
+- conflicts/notes: Munkasey's pleasure in power or destruction materially differs from the favorable development emphasized elsewhere.
 
 ## Contradictions
 
-- None recorded yet.
+The favorable love/artistic development and Munkasey's propagation or appeasement of destructive forces are a material difference of emphasis. The latter must not be reduced to ordinary generosity or artistic abundance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Jupiter`: big passions, persuasive charm, artistic abundance, and the ability to attract powerful opportunities or influential allies. Main caution: desire can become excessive, morally inflated, or entangled with obsession, indulgence, and risky financial or romantic overreach.
+In `Venus/Pluto = Jupiter`, Jupiter specifies Venus/Pluto development through an enlarged experience of pleasure, creativity, or love. The [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin entries](#ebertin-entry) describe happiness in new development, artistic success, and satisfaction in love; [Sandbach](#sandbach-entry) includes intense attraction expressed excessively. A distinct qualification comes from [Munkasey](#munkasey-entry): pleasure may attach to power or destruction, with an ethical question about appeasing destructive forces. That specific adverse strand remains alongside the favorable reading.
 
 ## Links
 

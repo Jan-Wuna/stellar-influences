@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Poseidon = Hades`
 - Astronomicon formula: `W/¨ = ¢`
 - Axis page: [Saturn/Poseidon](../axes/saturn-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `231` (entry start).
+
 To be mistreated during education. Defects in education. Bad conduct.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Incriminating culture of the past, cultural losses of the vrgangenhcit, Fa. of a gcisty sturgeon, hard whrness from the past, lack of patience and courage, disadvantages due to problems with the truth, and losses due to cultural crime
+- Source page: `369`; PDF page: `183`.
+
+Burdensome culture of the past, cultural losses from the past, danger of a mental disturbance, hard truth from the past, lack of patience and reason, disadvantages through problems with truth, and losses through cultural criminality.
+
+## Comparative Schema
+
+- core meaning: Harm or deficiency in education and culture, including burdens from the past.
+- psychology: Lack of patience and reason; difficulty facing truth is one named problem.
+- body/health: ABC's danger of mental disturbance is a historical attribution, not a diagnosis.
+- social/relationship: Mistreatment during education and bad conduct are Witte's examples.
+- events/manifestations: Educational defects, cultural losses and confronting hard truths from the past.
+- conflicts/notes: Cultural criminality is source wording without a defined offense or identified person; no guilt can be inferred.
+
+## Contradictions
+
+The entries share an emphasis on harmful or deficient conditions, but Witte's educational examples and ABC's historical-cultural problems are different applications. Their brevity does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Poseidon = Hades`: to be mistreated during education, defects in education, bad conduct.
-- Practical expression: incriminating culture of the past, cultural losses of the vrgangenhcit, fa. of a gcisty sturgeon, hard whrness from the past, and lack of patience.
+In `Saturn/Poseidon = Hades`, Hades specifies education and culture through their deficiencies and burdens. Mistreatment or inadequate education can shape the setting, while past culture, losses and hard truths remain difficult material in the present account ([Witte](#witte-entry), [ABC](#abc-entry)). ABC also names lack of patience and reason and disadvantages tied to problems with truth. These are source-attributed possibilities; the mental-disturbance and criminality wording establishes neither a diagnosis nor wrongdoing by any person.
 
 ## Links
 

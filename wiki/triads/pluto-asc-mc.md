@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Asc/MC = Pluto](../activations/asc-mc-equals-pluto.md)
-- [Pluto/Asc = MC](../activations/pluto-asc-equals-mc.md)
-- [Pluto/MC = Asc](../activations/pluto-mc-equals-asc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/MC = Pluto](../activations/asc-mc-equals-pluto.md) | [Asc/MC](../axes/asc-mc.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Asc = MC](../activations/pluto-asc-equals-mc.md) | [Pluto/Asc](../axes/pluto-asc.md) | [MC](../factors/mc.md) |
+| [Pluto/MC = Asc](../activations/pluto-mc-equals-asc.md) | [Pluto/MC](../axes/pluto-mc.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/MC = Pluto`: Michael, page `364`
-- `Pluto/Asc = MC`: Michael, page `348`
-- `Pluto/MC = Asc`: Michael, page `352`
+Each linked activation currently has entries from all five sources below. This is a list of canonical source coverage, not a claim that the full works have been searched. Munkasey locators retained here are printed entry pages; the other entries are linked without inventing missing page numbers.
+
+- `Asc/MC = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-mc-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-mc-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/asc-mc-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/asc-mc-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/asc-mc-equals-pluto.md#munkasey-entry), printed p. `364`.
+- `Pluto/Asc = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-mc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-mc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-asc-equals-mc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-asc-equals-mc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-asc-equals-mc.md#munkasey-entry), printed p. `348`.
+- `Pluto/MC = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-mc-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-mc-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-mc-equals-asc.md#munkasey-entry), printed p. `352`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

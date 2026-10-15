@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Node`
 - Astronomicon formula: `Q/¡ = g`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Love connections which lead to marriage. Connected in pleasant community.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Encounters with the beauty of the artist, common love relationships, common peace contacts, connections to a peace community, and connections to a artificial community
+- Source page: 282 (printed); PDF page: 140; scanned activator row checked.
+
+Encounters with the beauty of art, shared love relationships, shared peace contacts, harmony in a connection with artists, connections to a peace community, and connections to an art community.
+
+## Comparative Schema
+
+- Core meaning: Connections form shared affectionate circles.
+- Psychology: Appreciating artistic beauty together.
+- Body/health: No specific health claim.
+- Social/relationship: Love ties leading to marriage; pleasant community.
+- Events/manifestations: Connections with artists or peace communities.
+- Conflicts/notes: A tie that may lead to marriage is not proof of a completed union.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+A tie that may lead to marriage is not proof of a completed union.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Node`: love connections which lead to marriage.
-- Practical expression: encounters with the beauty of the artist, common love relationships, common peace contacts, connections to a peace community, and connections to a artificial community.
+Node specifies Venus/Cupido through the ties that bring people into pleasant or loving community. Marriage is one possible development of a love connection; artists' circles and peace contacts give the same joining movement other settings. Shared beauty helps define what draws the circle together. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

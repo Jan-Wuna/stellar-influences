@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Mars Neptune Kronos](../triads/mars-neptune-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Destruction of the power of the government, of a sovereign or ruler. Infection of the parents or ancestors.
 
@@ -42,13 +46,27 @@ Destruction of the power of the government, of a sovereign or ruler. Infection o
 
 #### ABC Entry
 
-Dissolving actions of the state, special activity in the air, particularly weak will, weak will to self governance, unclear actions of the state, important work on/in or with water, and future work of the boss
+Source: “Mars + Neptun,” printed p. 305 (PDF p. 151).
+
+Dissolving actions of the state, special activity in the air, particularly weak will, weak will toward independence, unclear actions of the state, important work on/in or with water, and future work of the boss.
+
+## Comparative Schema
+
+- core meaning: Unclear or dissolving state activity and weakened authority.
+- psychology: Weak will or difficulty with independence in ABC.
+- body/health: Infection of parents or ancestors is Witte's historical statement.
+- social/relationship: Government, rulers, bosses, and parents appear as distinct source contexts.
+- events/manifestations: Breakdown of governmental power; special air work, important water work, and a boss's future work in ABC.
+- conflicts/notes: Governmental dissolution and important air, water, or future work are distinct possibilities; authority does not necessarily collapse.
+
+## Contradictions
+
+Witte emphasizes destruction of authority, while ABC also names important work and future work of a boss. The wider range prevents reducing every example to governmental collapse.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Neptune = Kronos` weakens or dissolves sovereign power and inherited authority.
-- Chart expression: the breakdown of government or rulership, loss of command from above, and harm or infection touching parents, ancestors, or the line of authority itself.
+In `Mars/Neptune = Kronos`, Kronos specifies the pair through authority and important work whose direction may be unclear or dissolving. Witte emphasizes destruction of governmental or sovereign power; ABC adds weak will toward independence, but also special air work, important water work, and future activity of a boss. The range therefore extends beyond collapse. Witte's infection of parents or ancestors remains a separate historical medical claim. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 305 / PDF p. 151)
 
 ## Links
 

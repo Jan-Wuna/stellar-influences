@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Having more faith in the person you are; taking the image of yourself and projec
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Conscious expression of one's identity in the environment.
+- psychology: More faith in oneself and a strengthened sense of character.
+- body/health: No specific health claim is given.
+- social/relationship: A playful demeanor in one's surroundings.
+- events/manifestations: Deliberately presenting one's self-image.
+- conflicts/notes: This is one 'With Itself' entry and provides no independent comparison.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present, so no source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Sun`: Having more faith in the person one is; taking the image of oneself and projecting that more consciously into one's environment; strengthens one's character and personality; a playful disposition and demeanor.
+Sun specifies its own place within the Sun/Asc axis as more conscious personal expression. The single [Munkasey entry](#munkasey-entry), under 'SUN/ASCENDANT With Itself' on printed page 98, connects faith in oneself with deliberately projecting one's self-image into the environment. Its emphasis is strengthened character expressed with a playful demeanor; the repeated factor does not create a distinct three-factor triad.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [MC Apollon Poseidon](../triads/mc-apollon-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ A free-thinker. Breadth of spirit. Spiritually unfettered. Own conception of the
 
 Experienced mind soul, success of my clarity, my success through truth, my spiritual success, my spiritual knowledge, my cultural success, my cultural knowledge, my successful idea, knowledge of soul and mind, and increasing psychic clarity
 
+## Comparative Schema
+
+- **Core meaning:** Breadth and independence of understanding.
+- **Psychology:** Free thought and increasing inner clarity.
+- **Body/health:** No bodily or health claim is supplied.
+- **Social/relationship:** Attitudes toward religion and cultural life.
+- **Events/manifestations:** Acquiring cultural knowledge and forming a worldview.
+- **Conflicts/notes:** Spiritual success is a source motif, not a guaranteed result.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 99 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; the stated range is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Apollon` widens the axis into broad spiritual and philosophical independence.
-- Chart expression: a free-thinking worldview, spiritual breadth, and a life stance that approaches religion, belief, and culture from a spacious, self-determined perspective.
+Apollon specifies `MC/Poseidon` through breadth of understanding and an independently formed worldview. The [Witte Entry](#witte-entry) emphasizes free thought and one's attitude to religion, while the [ABC Entry](#abc-entry) adds cultural knowledge, spiritual success and increasing inner clarity. These describe an outlook and its development, not proof that a belief is true.
 
 ## Links
 

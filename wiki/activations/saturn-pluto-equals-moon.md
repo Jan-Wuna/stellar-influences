@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Moon`
 - Astronomicon formula: `W/Z = R`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 Divorced women. Persons who develop themselves too slowly, who adapt themselves by and by or separate by and by.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-The development of a woman in old age, the development of a mature woman, the patient development of a family, the problematic development of a family, the development of mature families, the alteration of a woman by separation, and the loss of a woman by alteration
+- Source page: `352`; PDF page: `175`.
+
+The development of a woman in old age, development into a mature woman, patient development of the emotional disposition, problematic emotional development, developing mature feelings, changes in a woman through separation, and losses experienced by a woman through change.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `254`; entry code: `0892`.
 
 A melancholy person, coldness of feeling or frigidity, abstemious. The tragic destiny of a woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 The relentless drive to get to the bottom of one’s subconscious and to bring up all that is there. A tremendous emotional craving to overcome one’s fears and to be transformed by spirituality.
 
@@ -70,22 +80,21 @@ Identifying and controlling emotions as you push toward goals and objectives; an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Slow or intensive emotional development, with a strong concern for control and transformation.
+- psychology: Mature feeling, melancholy, examination of the subconscious and a drive to overcome fear.
+- body/health: Ebertin's frigidity wording is historical; it establishes no diagnosis.
+- social/relationship: Gradual separation, control over habits and dealings with powerful women are source examples.
+- events/manifestations: Emotional maturation, changes through separation and inconsistent work or records.
+- conflicts/notes: Gendered tragedy and divorce examples remain attributed; they do not define every expression of the formula.
 
 ## Contradictions
 
-- None recorded yet.
+The entries span emotional maturation, coldness and a wish for transformation. These are different conditions and responses, not an established contradiction; the historical gendered claims require particular attribution.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Moon`: deep resilience, grave composure, and the capacity to hold together when life becomes austere or threatening. Main caution: emotional hardening: fear, grief, or inward pressure can become chronic and isolating if never released.
+In `Saturn/Pluto = Moon`, Moon specifies development through feeling: adaptation can be slow, separation can alter emotional life, and maturity may develop patiently through difficulty ([Witte](#witte-entry), [ABC](#abc-entry)). A more intensive expression concerns examining the subconscious and overcoming fear, spiritually framed by [Sandbach](#sandbach-entry), or identifying and controlling emotion while pursuing goals in [Munkasey](#munkasey-entry). [Ebertin's](#ebertin-entry) melancholy, coldness and tragic female destiny belong to his historical account; they do not establish a diagnosis or an unavoidable fate.
 
 ## Links
 

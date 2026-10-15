@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-10-15T13:50:44.237Z",
+  "verified_by": "/root/source_integrity_gate",
+  "decision": "accepted",
+  "scope": "Incremental McBroom source-heading follow-up after prior independent full six-source approval",
+  "path": "wiki/activations/asc-mc-equals-mercury.md",
+  "before_sha256": "47364c70e50ad301c479ef90af9f0855c3ecdb870d5367b6767976f732b1dca4",
+  "after_sha256": "62c6adb5af81e91cb7eb6578bfe39f58b0a5ed901a36f18931572333acd68e0c",
+  "before_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nVocational or business conversations. Talks about the business.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nThe local youth, the thoughts of my partner, the talk in an animated environment, the youth in my environment, my language partner, my young partner, my partner reports, my partner in the youth, and soul language of the partner\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nExchange of thoughts, use of one's critical faculties. A frank discussion between people, cooperation in the scientific or commercial sphere.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nHow one thinks about things and the ideas that one adopts either serve to enhance or frustrate personal growth. Enhancement happens when one is willing to let go of ideas that no longer serve one, and remain flexible in one’s thinking. Otherwise this combination might degenerate into a mere cleverness at avoiding personal growth.\n\n### Don McBroom - Midpoints\n\n#### McBroom Entry\n\nThoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Some people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`\n- Source page: `364`\n\n#### Munkasey Entry\n\nThe thinking or analysis you do about the effects of the daily contacts you have with the people in your life who are meaningful to you; the versatility you show when adapting to the examples of those who influence you.",
+  "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nVocational or business conversations. Talks about the business.\n\nSource reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Mercury row; checked on the actual scan.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEnsouled youth at the place, thoughts about my partner, conversations in ensouled surroundings, youth in my surroundings, my conversation partner, my young partner, my partner reports, my partner in youth, and soul language of the partner.\n\nSource reference: Udo Rudolph, printed p. 60, one-based PDF p. 29, “Meridian + Aszendent,” Mercury glyph row; checked on the actual scan. “Gedanken an meinen Partner” means thoughts about the partner, not the partner's thoughts; “Gesprächs-Partner” means conversation partner. Soul/ensouled wording remains at the source's broad level.\n\n### Reinhold Ebertin - The Combination of Stellar Influences\n\n#### Ebertin Entry\n\nExchange of thoughts, use of one's critical faculties. A frank discussion between people, cooperation in the scientific or commercial sphere.\n\nSource reference: Reinhold Ebertin, printed p. 307, one-based PDF p. 309, coded Mercury entry 1109 under “Ascendant/Medium Coeli”; checked on the actual scan.\n\n### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n\n#### Sandbach Entry\n\nHow one thinks about things and the ideas that one adopts either serve to enhance or frustrate personal growth. Enhancement happens when one is willing to let go of ideas that no longer serve one, and remain flexible in one’s thinking. Otherwise this combination might degenerate into a mere cleverness at avoiding personal growth.\n\nSource reference: John Sandbach, one-based PDF p. 122, Mercury paragraph under “Planets activating the Ascendant/Midheaven midpoint”; checked on the actual page. PDF p. 121 is the chapter start.\n\n### Don McBroom - Midpoints\n\n- Source heading: `Mercury = Asc/Mc`\n\n#### McBroom Entry\n\nThoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Somehow people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n\nSource reference: Don McBroom, printed pp. 62–63, one-based PDF pp. 73–74, Mercury = Asc/Mc paragraph and continuation; checked on both actual pages. The page-break “Some- / how” is joined as Somehow. The famous-person examples following the paragraph are outside this represented excerpt.\n\n### Michael Munkasey - Midpoints: Unleashing the Power of the Planets\n\n- Source heading: `ASCENDANT/MIDHEAVEN with Planets and Points`\n- Source page: `364`\n\n#### Munkasey Entry\n\nThe thinking or analysis you do about the effects of the daily contacts you have with the people in your life who are meaningful to you; the versatility you show when adapting to the examples of those who influence you.\n\nSource reference: Michael Munkasey, printed p. 364, one-based PDF p. 365, “ASCENDANT/MIDHEAVEN with Planets and Points,” Mer row; checked on the actual page.",
+  "baseline_diff": "--- \n\n+++ \n\n@@ -6,2 +6,4 @@\n\n \n+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Mercury row; checked on the actual scan.\n+\n ### Udo Rudolph - ABC for Planetary Pictures\n@@ -10,3 +12,5 @@\n\n \n-The local youth, the thoughts of my partner, the talk in an animated environment, the youth in my environment, my language partner, my young partner, my partner reports, my partner in the youth, and soul language of the partner\n+Ensouled youth at the place, thoughts about my partner, conversations in ensouled surroundings, youth in my surroundings, my conversation partner, my young partner, my partner reports, my partner in youth, and soul language of the partner.\n+\n+Source reference: Udo Rudolph, printed p. 60, one-based PDF p. 29, “Meridian + Aszendent,” Mercury glyph row; checked on the actual scan. “Gedanken an meinen Partner” means thoughts about the partner, not the partner's thoughts; “Gesprächs-Partner” means conversation partner. Soul/ensouled wording remains at the source's broad level.\n \n@@ -18,2 +22,4 @@\n\n \n+Source reference: Reinhold Ebertin, printed p. 307, one-based PDF p. 309, coded Mercury entry 1109 under “Ascendant/Medium Coeli”; checked on the actual scan.\n+\n ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints\n@@ -24,3 +30,7 @@\n\n \n+Source reference: John Sandbach, one-based PDF p. 122, Mercury paragraph under “Planets activating the Ascendant/Midheaven midpoint”; checked on the actual page. PDF p. 121 is the chapter start.\n+\n ### Don McBroom - Midpoints\n+\n+- Source heading: `Mercury = Asc/Mc`\n \n@@ -28,3 +38,5 @@\n\n \n-Thoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Some people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n+Thoughts, ideas, and communication come naturally. It is easy to talk with people - and to have them listen attentively. The power of communication is emphasized and is often highly developed and refined. Somehow people are as drawn to the communication style in the delivery of the message as with the songs of Homer's Sirens. There may also be deep analytical introspection in an attempt to figure out where (or if) one belongs.\n+\n+Source reference: Don McBroom, printed pp. 62–63, one-based PDF pp. 73–74, Mercury = Asc/Mc paragraph and continuation; checked on both actual pages. The page-break “Some- / how” is joined as Somehow. The famous-person examples following the paragraph are outside this represented excerpt.\n \n@@ -38 +50,3 @@\n\n The thinking or analysis you do about the effects of the daily contacts you have with the people in your life who are meaningful to you; the versatility you show when adapting to the examples of those who influence you.\n+\n+Source reference: Michael Munkasey, printed p. 364, one-based PDF p. 365, “ASCENDANT/MIDHEAVEN with Planets and Points,” Mer row; checked on the actual page.",
+  "owners": [
+    {
+      "ledger": "activations-005.jsonl",
+      "line": 54,
+      "record": {
+        "path": "wiki/activations/asc-mc-equals-mercury.md",
+        "reviewer": "activation_review_001_022",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "ABC thoughts about partner reversed into partner's thoughts; conversation partner became language partner and ensouled youth lost qualifier.",
+          "McBroom page-break Somehow became Some people; exact references absent for most entries; filler schema/contradiction, separated anchor and no route.",
+          "McBroom paragraph's correct printed62–63/PDF73–74 reference lacked an explicit local source-heading field."
+        ],
+        "changes": [
+          "Repaired all nine ABC60/PDF29 clauses and restored McBroom Somehow from actual cross-page Some-/how.",
+          "Added six exact source locators, including McBroom printed62–63/PDF73–74 and exact Sandbach122 rather than chapter start121.",
+          "Wrote meaningful six-category schema, bounded fluency-versus-growth comparison and connected two-paragraph exact-formula exchange/reflection interpretation with identifiable local support; route and anchor.",
+          "Bounded McBroom provenance follow-up only: added Mercury = Asc/Mc source-heading field, expanding the actual Mercury glyph as its canonical name. Retained existing exact printed62–63/PDF73–74 reference and scan-proven Somehow page-break join; no source prose, interpretation or new review count changed."
+        ],
+        "verification": [
+          "Read entire current page, identical baseline, manifest and all six evidence records; known-issues subset empty.",
+          "Viewed actual Witte58, ABC60/PDF29, Ebertin307/PDF309 code1109, SandbachPDF122 Mercury and Munkasey364/PDF365 Mer rows. Rendered/viewed both McBroomPDF73–74/printed62–63 pages and exact Mercury continuation before examples/Venus heading.",
+          "Compared repaired source and synthesis against all six passages, checked thoughts-about versus thoughts-of direction, excerpt boundary, canonical identity, six categories, local citations, route and adjacent anchor.",
+          "/root/activation_review_010_012 fully read the current six-source page and original complete owner record; personally read and viewed actual immutable McBroomPDF73–74/printed62–63, Mercury glyph heading and full paragraph continuation. Some- endsPDF73 and how beginsPDF74; Somehow remains correct, with examples excluded. Inspected exact follow-up diff; all text except the added heading remains identical. Frontmatter, immediate unique anchor,13relative links and whitespace pass."
+        ],
+        "unresolved": [
+          "ABC soul language and partner in youth remain broad/undefined. SandbachPDF122 has no displayed printed folio; exact PDF locator reliable."
+        ],
+        "evidence": [
+          "#witte-entry: vocational/business talk; #abc-entry: nine ensouled-youth/thought-about-partner/conversation/report/soul-language clauses; #ebertin-entry1109: critical thought/frank discussion/scientific-commercial cooperation; #sandbach-entry: flexibility versus clever avoidance; #mcbroom-entry: communication fluency/style/listeners and introspection about belonging; #munkasey-entry: analysis of daily contacts/adaptation.",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-witte-p58.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-abc-p29.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-e-p309.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-sandbach-p122.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-m-p365.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-mcbroom-p73.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-005-mcbroom-p74.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf073.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf074.png"
+        ],
+        "provenance_followup": {
+          "reviewer": "/root/activation_review_010_012",
+          "scope": "McBroom source identity and exact passage locators only; existing completed review amended in place",
+          "source_file": "Stellar Influences Vault/Book_2007_Don Mcbroom_Midpoints.pdf",
+          "source_heading": "Mercury = Asc/Mc",
+          "proof": [
+            "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf073.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf074.png"
+          ]
+        }
+      }
+    }
+  ],
+  "prior_accepted_after_sha256": "c6c01592f0d247111b68769aa6c2b117c348675c8b2e5ae08441a4e3cb016f12",
+  "incremental_hash_check": "Removing only the added Mercury = Asc/Mc source heading reproduces the prior accepted exact section hash.",
+  "actual_scan_observation": "Personally viewed actual McBroom PDF73/74 printed62/63: Mercury glyph = Asc/Mc heading, full paragraph across Some-/how page break, famous-person examples and following Venus heading remain outside excerpt.",
+  "evidence": [
+    "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf073.png",
+    "docs/reviews/2026-10-15-full-wiki/verification/a010-012-mcbroom-provenance-pdf074.png"
+  ]
+}

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Mars Cupido`
 - Astronomicon triad-set: `R U ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mars/Cupido = Moon](../activations/mars-cupido-equals-moon.md)
-- [Moon/Cupido = Mars](../activations/moon-cupido-equals-mars.md)
-- [Moon/Mars = Cupido](../activations/moon-mars-equals-cupido.md)
+- [Mars/Cupido = Moon](../activations/mars-cupido-equals-moon.md): base axis [Mars/Cupido](../axes/mars-cupido.md); activator [Moon](../factors/moon.md).
+- [Moon/Cupido = Mars](../activations/moon-cupido-equals-mars.md): base axis [Moon/Cupido](../axes/moon-cupido.md); activator [Mars](../factors/mars.md).
+- [Moon/Mars = Cupido](../activations/moon-mars-equals-cupido.md): base axis [Moon/Mars](../axes/moon-mars.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Mars/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
-- `Mars/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `308`
-- `Moon/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
-- `Moon/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `192`
-- `Moon/Mars = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `124`
-- `Moon/Mars = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `181`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mars/Cupido = Moon](../activations/mars-cupido-equals-moon.md#witte-entry) (PDF entry-start p. 197); [Moon/Cupido = Mars](../activations/moon-cupido-equals-mars.md#witte-entry) (PDF entry-start p. 130); [Moon/Mars = Cupido](../activations/moon-mars-equals-cupido.md#witte-entry) (PDF entry-start p. 124).
+- Udo Rudolph - ABC for Planetary Pictures: [Mars/Cupido = Moon](../activations/mars-cupido-equals-moon.md#abc-entry) (printed p. 308); [Moon/Cupido = Mars](../activations/moon-cupido-equals-mars.md#abc-entry) (printed p. 192); [Moon/Mars = Cupido](../activations/moon-mars-equals-cupido.md#abc-entry) (printed p. 181).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Moon`: shared activity carried into public life, especially through women, family continuity, or remarriage.
-- `Moon/Cupido = Mars`: Women who want to marry. The wedding bride. Sociable women. Men who prefer the company of women. Leisure activities. The amateur.
-- `Moon/Mars = Cupido`: This activation socializes `Moon/Mars` through shared work, cooperative domestic life, and communal effort. It favors keeping house together, working in groups, and channeling instinctive energy into family, art, or partnership structures where action is coordinated rather than solitary.
+Moon, Mars and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mars/Cupido](../axes/mars-cupido.md)
+- [Moon/Cupido](../axes/moon-cupido.md)
+- [Moon/Mars](../axes/moon-mars.md)
 - [Moon](../factors/moon.md)
 - [Mars](../factors/mars.md)
 - [Cupido](../factors/cupido.md)

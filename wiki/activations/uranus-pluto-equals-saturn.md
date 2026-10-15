@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Saturn Uranus Pluto](../triads/saturn-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ Abrupt disruption of hitherto development. Separation that cause suddenly change
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 373; PDF p. 185.
+
 #### ABC Entry
 
-growing unrest due to losses and changing problems due to nervousness see above
+Exciting changes in old age, new tasks of development, sudden change through separation, surprising development of separation, technical development involving losses, growing unrest through losses, changing problems through nervousness.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 269, entry 0957.
 
 #### Ebertin Entry
 
 One-sidedness, self-will, egoism, stubbornness, hatred. Exposure to extremely great pressure by others, separation caused through major force.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 105 (chapter start only; exact entry page not established).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Diminishes your needs to appear rebellious, but does not dispel them; your abili
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Abrupt interruption or restraint of development.
+- psychology: Stubbornness, fear of change, patience and persistence are distinct possibilities.
+- body/health: ABC mentions nervousness, but supplies no specific medical condition.
+- social/relationship: External pressure, separation and a wish for solitude.
+- events/manifestations: An interrupted course, change through separation, development involving losses, or reform pursued despite obstacles.
+- conflicts/notes: Do not turn the most severe wording into an inevitable catastrophe.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress disruption and external pressure; Sandbach and Munkasey allow cautious, patient reform. ABC adds change through separation and development involving losses. Its complete seven-clause Saturn row has been restored from printed p. 373 (PDF p. 185); the following “see above” is the Uranus row, not Saturn text.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Pluto = Saturn`: hard reform, crisis endurance, and the ability to restructure what is decaying under immense pressure. Main caution: rupture under compression: tension can become brutal, repressive, or catastrophic when breakthrough and control deadlock each other.
+In `Uranus/Pluto = Saturn`, Saturn specifies sudden development through interruption, pressure or restraint. A course can break off abruptly, yet the same desire for change may be expressed through caution and sustained effort rather than immediate rebellion. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) stress forced separation; [Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) preserve patience, persistence and a need for solitude as distinct possibilities.
 
 ## Links
 

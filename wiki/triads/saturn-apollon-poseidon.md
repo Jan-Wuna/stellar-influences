@@ -28,25 +28,30 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Apollon Poseidon`
 - Astronomicon triad-set: `W ¥ ¨`
 
+- This page is structural only. Use the [Orientation Map](#orientation-map) to choose an exact formula and open its activation page.
+
 ## Orientation Map
 
-- [Apollon/Poseidon = Saturn](../activations/apollon-poseidon-equals-saturn.md)
-- [Saturn/Apollon = Poseidon](../activations/saturn-apollon-equals-poseidon.md)
-- [Saturn/Poseidon = Apollon](../activations/saturn-poseidon-equals-apollon.md)
+- [Apollon/Poseidon = Saturn](../activations/apollon-poseidon-equals-saturn.md) — base axis [Apollon/Poseidon](../axes/apollon-poseidon.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Apollon = Poseidon](../activations/saturn-apollon-equals-poseidon.md) — base axis [Saturn/Apollon](../axes/saturn-apollon.md); activator [Poseidon](../factors/poseidon.md).
+- [Saturn/Poseidon = Apollon](../activations/saturn-poseidon-equals-apollon.md) — base axis [Saturn/Poseidon](../axes/saturn-poseidon.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Apollon/Poseidon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `308`
-- `Apollon/Poseidon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `473`
-- `Saturn/Apollon = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
-- `Saturn/Apollon = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `363`
-- `Saturn/Poseidon = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `231`
-- `Saturn/Poseidon = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `369`
+All three orientations are represented. The list includes every source entry currently present on the linked activation pages; it does not claim exhaustive coverage of the source works.
+
+- `Apollon/Poseidon = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-poseidon-equals-saturn.md#witte-entry), one-based PDF p. `308` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-poseidon-equals-saturn.md#abc-entry), printed p. `473` (PDF p. `235`).
+- `Saturn/Apollon = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-apollon-equals-poseidon.md#witte-entry), one-based PDF p. `228` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-apollon-equals-poseidon.md#abc-entry), printed p. `363` (PDF p. `180`).
+- `Saturn/Poseidon = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-poseidon-equals-apollon.md#witte-entry), one-based PDF p. `231` (entry start); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-poseidon-equals-apollon.md#abc-entry), printed p. `369` (PDF p. `183`).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Poseidon = Saturn`: a bond of similar formation or teaching, but also the possibility of separation from comrades and companions.
+Use this hub to select an orientation of the unordered set `Saturn Apollon Poseidon`. In the [Orientation Map](#orientation-map), the base axis is the pair before `=` and the activator is the factor after it. Follow the exact formula for its source entries and interpretation; this hub supplies no combined delineation.
+
+## Contradictions Across Orientations
+
+Each orientation changes which factor activates which base axis. Differences between these distinct formulas are not, by themselves, contradictions. No cross-orientation doctrine comparison has been performed here; consult the individual activation pages for source disagreements or qualifications.
 
 ## Links
 

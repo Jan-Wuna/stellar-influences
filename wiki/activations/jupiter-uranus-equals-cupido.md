@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Cupido`
 - Astronomicon formula: `V/X = ¡`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden fortunate wedding. Sudden luck in a community or society. Sudden gain in business.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful technical synthesis, success impulses of a community, joy through common event, joy over common rhythm, legal reform of the community, and tensions in a monetary community
+- Source reference: printed p. 327; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
+
+Successful technical synthesis, impulses of success within a community, excitement over community law, joy through a shared event, joy in a shared rhythm, legal reform for the community, and tensions within a financial community.
+
+## Comparative Schema
+
+- Core meaning: Sudden luck occurs in marriage, community, or business ([Witte Entry](#witte-entry)).
+- Psychology: Shared joy is explicit; a general personality profile is not supplied.
+- Body/health: No specific bodily or medical claim is established.
+- Social/relationship: Wedding and communal benefit specify the collective setting.
+- Events/manifestations: Business gain, common events, technical synthesis, and legal reform appear in the entries ([ABC Entry](#abc-entry)).
+- Conflicts/notes: ABC's excitement over community law is a separate clause beside communal legal reform. Tensions within a financial community qualify an exclusively favorable reading.
+
+## Contradictions
+
+Communal benefit and financial tension can affect different aspects of group life; the entries do not establish universal harmony.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Cupido`: happy breakthroughs in family, relationship, or organization. It favors quick beneficial shifts in communal life and business structure.
+In `Jupiter/Uranus = Cupido`, Cupido gives the pair's sudden fortune a group setting. The [Witte Entry](#witte-entry) names a fortunate wedding, community luck, and business gain; the [ABC Entry](#abc-entry) adds common events and rhythm, technical synthesis, excitement over community law and communal legal reform. Shared opportunity unifies these examples, while tensions in a monetary community remain a separate possible complication.
 
 ## Links
 

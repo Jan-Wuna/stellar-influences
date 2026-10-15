@@ -1,0 +1,106 @@
+{
+  "checked": 64,
+  "unique_paths": 64,
+  "new_full_reviews": 0,
+  "canonical_or_ledger_edits": 0,
+  "explicit_replacement_matches": 43,
+  "explicit_replacement_mismatches": 0,
+  "retained_limits": [
+    {
+      "path": "wiki/activations/uranus-asc-equals-pluto.md",
+      "limits": [
+        "Munkasey's morbid outcomes is unspecified and is not expanded."
+      ]
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-admetos.md",
+      "limits": [
+        "ABC Kreislauf permits cycle/circulation; the context does not identify a specific bodily condition."
+      ]
+    }
+  ],
+  "author_reports": {
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-asc-original8-source-recheck.json": "94a0dc41e9cd5e3762681702feca08a12f96bcaa1007a61b55f5de3a5ea1d9c8",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-asc7-source-recheck.json": "a5302e690e40d45324f45719888d46bbc75bf03278b854f29589a800e6e79f8a",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-kronos-source-recheck.json": "41a5ec32c0303aa8aeeabfe4f5032bf72f219c1fcb8f5ef0875508870ae8ce94",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-mc5-source-recheck.json": "3a3a0483c8bfc508a7c3063843553f3fc3ad77ec9e0c71dcd6be28b7b555b245",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-mc8-source-recheck.json": "43a67d57ebc874b59d1f730775253a04e25e3c08bd9f5bde0300a2dadfa827bd",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-mc9-source-recheck.json": "95116b62fb882b37fcdc0321e3304c44ec24953b874caa1a5a6087ab116c5edd",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune11-source-recheck.json": "592b51a48274de6213a74af4e95477aacebb88dc50a0f81ae2569df6e369fb80",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-neptune12-source-recheck.json": "b73d7a4f5272901a60cadc83cde8649e726391e503643c70dfa4fb7804251f0f",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-node23-source-recheck.json": "fb89d9dec4190be4b24da4e0f485a305e63c7e715604d1fe223e71f322a1ae5d",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-pluto6-source-recheck.json": "32c12c138161d8a2fc8174622251bd273253613599bd8b4ab23719c7c9440f3e",
+    "docs/reviews/2026-10-15-full-wiki/verification/a079-083-poseidon-source-recheck.json": "632bf336a17e1d0436f4f9cc1431fef5cb83bdd9cac3d626271e6f278b69ea1f"
+  },
+  "independent_raw_proof_files": {
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-witte-pdf88.png": "31a4e044c24cc452d89e917e2ba6420f815f83af68e5e0e4b69de8723ed4471f",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-abc-pdf57.png": "1295a1de918f831e17226114791a5f975bb450d9628a4864ab78c80ac8508f6c",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-ebertin-pdf278.png": "99ba7be7c94ad32f44547c08aa7eb9a5c5b262374bf21dbd4b015e42d6bd38e6",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-sandbach-pdf108.png": "b81ec1afbccce230fca53b1d491d0202b2f68b93f79dc0602bcb0df5af057f14",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-ebertin-pdf277.png": "534afacdc4ef30a298e2054980768e8be369d0ea5cdd1459a5b1fa209dd5930d",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-remaining-sandbach-pdf107.png": "08805b31aa6254951871afbcef69f25991b0e3d7ce41f64ae0517915a58c8598",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf239.png": "4049efc7a244b273112c4ad3afc5990627578d798f95aca3292d9a1cd6859d6e",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf189.png": "307d83a2e9e69170481d0c09851a140bca91bb7f534cc975d447f13c0bd9916a",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf028.png": "0321b0bbc440e18e5d8abf6600a4cd30a6989d6f8d67208422133d82f70f5e4c",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf067.png": "e9907d4e985fd93f3f666e164a9563309acf2a91890d8b76e4c18fbb0010d03c",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf038.png": "0c82fcda4cc4a3c8c12c1aba1a1c31be70567163e031bd3e09442fd9782badb4",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf281.png": "9445507ed6d8d25a9d74031a87b52e0ad2dfaa624795f3a68a8118401c295252",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf108.png": "6e6ea2ff128066ba22e0af67f6df7b10ee4adb6dd2cd182252c431bc7e8ed7f2",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf109.png": "26bd5812506c5819472ff4e0c579ef91d1f28f8009afcfe220dfe18eb25e35bf",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf325.png": "9e1a228369d9ade48611fc2d5eaf77cd55cbff7e929b226fbf45a3cd285ec8fc",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf280.png": "c3abe2f5e9281edfefa2b910433871a7867deffabe0c31807c6f0cf82f678148",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-abc-pdf038.png": "b4170d4010eb52c2a1d267769f01ef505c0bb764d7f29574904d63f777c5e9a9",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-witte-pdf067.png": "867f5e8a8dae3554cd722ddaa3bc1754c4194191947b5a7861710a799c338aa1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-ebertin-pdf280.png": "676f4eb3e03b538756a9e7c73d58ae0e1546f94ce9743994579082f793c9628e",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-sandbach-pdf108.png": "f690a7e2fdd597db29e2f16f209d600305930d7a79761aef740fdcb03a171ab8",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-sandbach-pdf109.png": "6d433ef0c12b20bcdd57459c89d34b0743e97adf922bb3be09ae0ab7b42ee3f1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf234.png": "1cfd23db90df74c505c84771f0c7ce761197b6573a600aaa5996479216d7b609",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf184.png": "14c8a813b8a931eac3662cc601a384707686fe6bfae3a4e0e82fac227f65c4c9",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf269.png": "9fe5b0497279b86cd3707c1e89831324a14f84e9da9b113310746c1f0abab24b",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf104.png": "70911f034e112368feab7e7911f5e8f50e68737fbd68988d04f7f803bc7e13e1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf105.png": "0a6845ecdf7f501d41daa5141f98e9520a2c62efb5a91dcd124880cddd6b5678",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf309.png": "2cb3ce4c3fc8dbdf8c900527f127df8548c129a7414743220aa672c823909b6d",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf268.png": "74d14e3cd0100383314c7f78526574a73333e1c4098dad39fa425b4a6a61cd62",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-witte-pdf146.png": "0d392652191a5cf6e0466660b4050bea5ce48ff7f2c2619289bdb43c2d44eee6",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-abc-pdf108.png": "82e5050dfdb94733873e90777ef5b2fb8b205f800f15032db04513c3d43a6c31",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf275.png": "d6d4e5465f087fd8e634302f2bbf3dc3da4c2e5c76147573bd82913eabb004ab",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf106.png": "725f1837e3e8194a485e896e8deec6d8286141b5a4bf182e5fc1f82dbfc3629a",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-sandbach-pdf107.png": "a7943310c4b6fc0ef4d9fd9f5eeaabcc3c5d29b5e7cf4283d08f93dcb3a2b668",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-munkasey-pdf317.png": "9276e7f8614a382c8b94c317f0c8c81a2fac0b2eed5dba7db26537e4a7ffe762",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-venus-final-ebertin-pdf274.png": "21efed613582bf2681054df0b47758ef76d3d8396dcdda5f95e5f7133e89157f",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-abc-pdf185.png": "96b45e9e40c8a900a59d164f943d28ff2cb8eb58682943ea45b220ba60f59d4e",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-witte-pdf235.png": "40448f22ce4e935c0b0a01e109900e833388fc404a30e2ece2d968769574b48f",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-ebertin-pdf271.png": "d572baf09e492d0cf4d134ecfe253695431fc4b1d6fb45a6d8f3fbfeeed26192",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-ebertin-pdf272.png": "0556102f69da0baef4ab8f41747e18752e3ae6f05546fd1ec1660542a0bd5a57",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-sandbach-pdf105.png": "1554137238376fa47ef9a87c782bf1260e05613fcc30f636b86be9d58a6a153a",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-sandbach-pdf106.png": "1ba6138ef146553e6efe2a6dc38ab49400ee1cbc3c3f919e3790a92647888a1c",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-locator-witte-pdf243.png": "0a3bff5cdb750dac46aae6e46300fde8187534683c7701c0adbeedd95b5a71c0",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-locator-udo-pdf193.png": "66f3831545215f0429fc1d2824a37ff889b1dc845e116bfbd22c8da77224adc1",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-poseidon-final-rechecks.json": "9f1b1fa899755d5fdc6b0d03ad7ded93ecdafde06d34318bd0dfd78dcfe460e8",
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-083.jsonl": "ed0b9823caa9ba6a01e3006772c371e1f1679049b153121aca482ad518e82815",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-witte-pdf242.png": "2c361617f34aff38e18ea07db9a81dd8308b6289fcd843b55dec15c13072e479",
+    "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-pluto-uranus-abc-pdf192.png": "c21b6b899ca1fbcbc49334bea8f276633813da2545d21ae37ae4df2e78fdb7fd"
+  },
+  "original_ledger_hashes": {
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-080.jsonl": "a40d8627ca3f473feeb34b41ff8e2c294a6820bb0a8ffebf932648580d007679",
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-081.jsonl": "1ade86da2cb12abe3da9a4626b416b5d365027c6377ba808262fdb6d65818df1",
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-082.jsonl": "1680c89759898a3ef0908f4d434798b179acf2c98b2846a69f2bb8549c7e4c0f",
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-083.jsonl": "ed0b9823caa9ba6a01e3006772c371e1f1679049b153121aca482ad518e82815"
+  },
+  "decisions_sha256": "81dfeb5fb9249d08a8779fa30930d9a96d7a8b9b5764ad710e1284aacbb423c3",
+  "errors": [],
+  "reviewer": "/root/factor_source_repairs",
+  "scope": "Reconcile64 stale closure-C queue targets in original080–083 against their already completed substantive repairs; no new source certification or full-page review.",
+  "inspection_boundary": {
+    "current_abc_rows_read": 64,
+    "specific_old_flags_and_repair_findings_read": 64,
+    "fresh_complete_page_and_original_record_reads": 3,
+    "remaining_completed_full_page_reviews_reused": true,
+    "fresh_raw_page_inspections": 0,
+    "prior_actual_raw_inspections_reused": true,
+    "source_membership_alone_not_used_as_repair_proof": true
+  },
+  "queue": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-C-queue.json",
+  "author_completion_receipt": "docs/reviews/2026-10-15-full-wiki/verification/a079-083-final-summary.md",
+  "note": "Every decision includes the specific historical flag, current corrected ABC row, substantive author repair and raw-verification evidence, original unique record binding and existing exact-current independent approval. Combined flags are resolved only for the named exact formula, not unowned siblings."
+}

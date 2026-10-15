@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Node MC Cupido](../triads/node-mc-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based PDF numbering; exact row checked).
 
 Psychical relationship with the family or the arts. Striving for close social relationships.
 
@@ -42,13 +46,27 @@ Psychical relationship with the family or the arts. Striving for close social re
 
 #### ABC Entry
 
-Connections in a soul community, common psychic connections, I have the whole, my relations with the community, my ties in the community, my connections with the artificial, and psychic connections in of a community
+- Source page: 67 (printed); PDF page: 32 (one-based PDF numbering; exact row checked).
+
+Bonds within a community of souls, shared inner connections, I connect the whole, my relationships with the community, my bonds within the community, my connections to art, inner connections within a community.
+
+## Comparative Schema
+
+- core meaning: inner belonging through family, community or art.
+- psychology: striving for closeness and a sense of connection with the whole.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: family ties, shared community bonds and close social relationships.
+- events/manifestations: forming or maintaining ties within a community and connections to art.
+- conflicts/notes: Witte names family and art; ABC emphasizes community and connection to the whole. These are different settings for close association, not a demonstrated disagreement.
+
+## Contradictions
+
+Witte names family and art; ABC emphasizes community and connection to the whole. These are different settings for close association, not a demonstrated disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/MC = Cupido`: Psychical relationship with the family or the arts. Striving for close social relationships.
-- Practical focus: psychical relationship with the family or the arts; also striving for close social relationships.
+Cupido specifies `Node/MC` through the inner bond that makes family, community or artistic life personally meaningful. The [Witte entry](#witte-entry) connects family and the arts with the desire for close social relationships; the [ABC entry](#abc-entry) describes shared inner connections and one's place within a community. The organizing theme is participation felt as belonging, with art as a distinct supported field of connection.
 
 ## Links
 

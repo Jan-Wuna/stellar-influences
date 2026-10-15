@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Neptune Admetos](../triads/mercury-neptune-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Neptune entry, PDF p. 171.
 
 To be in doubt. Under this configuration intuition often joins concentration, but it can also mean unsuccessful concentration.
 
@@ -42,13 +46,29 @@ To be in doubt. Under this configuration intuition often joins concentration, bu
 
 #### ABC Entry
 
-Unlocking of blocked thoughts, report on water circulation, strengthening of the future for youth, grild language about metaphysics, sensitive thoughts firming, uncertainty through news blocking, and deepening in foreign languages
+Source: “Merkur + Admetos,” Neptune entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Dissolution of blocked thoughts, a report about water circulation, strengthening the future for youth, thorough conversations about metaphysics, consolidating sensitive thoughts, uncertainty through a news blackout, immersion in foreign languages.
+
+## Comparative Schema
+
+- **Core meaning:** Intuitive or uncertain concentration.
+- **Psychology:** Doubt, intuition and the release of blocked thought.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Uncertainty associated with restricted news.
+- **Events/manifestations:** Thorough metaphysical discussion, foreign-language study, and reports about water circulation.
+- **Conflicts/notes:** Intuition, release and consolidation coexist with doubt and unsuccessful focus; none is an inevitable outcome.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte explicitly allows intuitive as well as unsuccessful concentration. ABC includes release of blocked thought, consolidating sensitive thoughts and sustained study, beside uncertainty from a news blackout. These alternatives should remain open.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Neptune` makes the axis doubtful, intuitive, and potentially unproductive.
-- Chart expression: concentration mixed with uncertainty, intuition entering heavy thought, and a risk that deep focus dissolves into vagueness or unsuccessful mental effort.
+In `Mercury/Admetos = Neptune`, Neptune specifies concentrated or restricted thought and communication through intuition, doubt, and the possibility of releasing a block. Witte holds intuitive and unsuccessful concentration apart; ABC adds consolidating sensitive thought, thorough metaphysical discussion and foreign-language study beside uncertainty from a news blackout. Sustained understanding and release remain possible alongside difficulty, while the separate water-circulation report is retained without an added physical prediction. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

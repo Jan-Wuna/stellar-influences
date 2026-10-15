@@ -27,6 +27,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/Y = R`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -41,22 +42,21 @@ An increased ability to relate to the feelings of others in a mystical and other
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Moon specifies the pair through heightened emotional rapport and romantic feelings about caring.
+- psychology: mystical identification with others' feelings accompanies a wish for tranquillity under pressure.
+- body/health: the entry supplies no specific bodily or health claim.
+- social/relationship: caring for others takes an idealized, otherworldly emotional form.
+- events/manifestations: retreat to a secluded, tranquil place is the entry's concrete response to pressure.
+- conflicts/notes: this is one Munkasey entry, not a comparison of independently corroborating sources.
 
 ## Contradictions
 
-- None recorded yet.
+- The single entry presents rapport and retreat as related expressions; it supplies no explicit internal contradiction or comparative evidence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = Moon`: An increased ability to relate to the feelings of others in a mystical and other-worldly way; retreating from pressures to a more secluded and tranquil location; romantic feelings about the nature of caring for others.
+In `Moon/Neptune = Moon`, Moon specifies the pair as a deepened feeling for others and a romantic conception of care. The same receptivity can seek relief from pressure through seclusion and tranquillity. These are the linked forms of emotional involvement and withdrawal described by [Munkasey, p. 130](#munkasey-entry); the entry does not establish a wider health or event prediction.
 
 ## Links
 

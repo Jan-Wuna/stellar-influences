@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Vulcanus`
 - Astronomicon formula: `Y/g = §`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `147` (entry start; one-based).
+
 #### Witte Entry
 
 To experience mighty disappointments through present connections. Dissolution of present connections with grave consequences.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `221`, PDF p. `109` (entry).
+
 #### ABC Entry
 
-Influence by air connection, energy weakness in a connection, detiiiuscling influence of a connection, subtle energies in a relationship, powerful uncertainty in a connection, and connection to water force
+Influence through an air connection, energy weakness in a connection, disappointing influence of a connection, subtle-material energies in a relationship, great uncertainty in a connection, and connection to the force of water
+
+## Comparative Schema
+
+- core meaning: strong disappointment or consequential dissolution in existing ties.
+- psychology: great uncertainty is explicit.
+- body/health: subtle-material energies and energy weakness are historical source language without a demonstrated mechanism.
+- social/relationship: present connections and their disappointing influence are named.
+- events/manifestations: dissolution with grave consequences, air connections, and water force are stated.
+- conflicts/notes: great consequences are Witte's example, not a compulsory result of every uncertain tie.
+
+## Contradictions
+
+Witte stresses serious consequences from present ties. ABC also names uncertainty, weak energy, and literal air or water connections without explaining a single cause.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Node = Vulcanus`: To experience mighty disappointments through present connections. Dissolution of present connections with grave consequences.
-- Practical focus: intensifies uncertain ties into grave disappointment, where existing connections break down with force and produce weighty consequences.
-- Practical expression: influence by air connection, energy weakness in a connection, detiiiuscling influence of a connection, subtle energies in a relationship, and powerful uncertainty in a connection.
+In Neptune/Node = Vulcanus, an existing connection is described through the weight of its influence or disappointment. [Witte](#witte-entry) names powerful disappointment and dissolution with grave consequences; [ABC](#abc-entry) adds disappointing influence and great uncertainty within a tie (printed p. 221, PDF p. 109). Its subtle-material energy and water-force expressions remain literal source language, without a proposed mechanism or inevitable relationship outcome.
 
 ## Links
 

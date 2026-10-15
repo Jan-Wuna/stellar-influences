@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Poseidon](../triads/vernal-point-mercury-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 Ideas or insights related to public opinion.
 
@@ -42,13 +46,27 @@ Ideas or insights related to public opinion.
 
 #### ABC Entry
 
-Spiritual speech in the public, clear opinions in the public life, public media culture, public culture language, language of truth in the public, public communication, and awareness of youth in the public
+- Source page: 29; PDF page: 13 (one-based spread).
+
+Intelligent conversations in public, clear opinions in public life, public media culture, public cultural conversations, the language of truth in public, reasonable public traffic, and truth about youth in public
+
+## Comparative Schema
+
+- core meaning: Public communication informed by insight, clarity, and truth.
+- psychology: Ideas, insight, and clear opinions are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Cultural conversations and truth about youth.
+- events/manifestations: Media culture and reasonable public traffic.
+- conflicts/notes: Intelligent conversation is broader than spiritual speech; reasonable traffic and truth were lost in translation.
+
+## Contradictions
+
+No direct contradiction is established. Clarity is a source theme, not independent verification that any public opinion is true.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Poseidon`: ideas or insights related to public opinion.
-- Practical expression: spiritual speech in the public, clear opinions in the public life, public media culture, public culture language, and language of truth in the public.
+In `Vernal Point/Mercury = Poseidon`, public thought is specified through insight and intelligibility. The [Witte entry](#witte-entry) names ideas or insights related to public opinion. The restored [ABC entry](#abc-entry) adds intelligent cultural conversation, clear views, media culture, truth, and reasonable traffic. The common theme is communication guided by understanding, with truth about youth as a specific example.
 
 ## Links
 

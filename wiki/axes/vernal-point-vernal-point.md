@@ -38,7 +38,7 @@ aliases:
   - Vernal Point/Vernal Point
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -46,13 +46,26 @@ updated_at: 2026-04-21
 - Axis: `Vernal Point/Vernal Point`
 - Astronomicon axis: `VP/VP`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
 
+Source reference: PDF page `33`, chapter heading `ARIES + ARIES` (normalized here as Vernal Point/Vernal Point).
+
 Concerning the Earth horoscope. Public life. The generality. The world public. The street. The many people we superficially know and have dealings with, without making the acquaintance. Telluric (terrestrial) influences.
+
+## Comparative Schema
+
+- Core meaning: Public life, the world at large, and terrestrial influences in the source's Earth-horoscope vocabulary.
+- Psychology: The entry does not describe an individual psychological disposition.
+- Body/health: "Telluric (terrestrial) influences" refers to the Earth; no bodily condition or health meaning is specified.
+- Social/relationship: Everyday dealings with many people who are known superficially rather than as personal acquaintances.
+- Events/manifestations: The public world and the street provide a general setting; the entry does not specify a particular event.
+- Conflicts/notes: This same-factor axis has one source entry. It supplies a public field of reference, without a second distinct factor or an established constructive/shadow polarity.
 
 ## Related Activations
 
@@ -78,14 +91,18 @@ Concerning the Earth horoscope. Public life. The generality. The world public. T
 - [Vernal Point/Vernal Point = Vulcanus](../activations/vernal-point-vernal-point-equals-vulcanus.md)
 - [Vernal Point/Vernal Point = Poseidon](../activations/vernal-point-vernal-point-equals-poseidon.md)
 
+## Contradictions
+
+Only one pair summary is present, so a comparison of source claims is unavailable. Its public and terrestrial scope supplies no separate constructive/shadow polarity or individual character judgment.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis emphasizes concerning the Earth horoscope, public life, the generality, the world public, and the street.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Vernal Point/Vernal Point` names the general public world: public life, the street, and the many people encountered without close acquaintance. The [pair summary](#pair-summary) also places this field within the Earth horoscope and calls its influences telluric, meaning terrestrial. The organizing distinction is between the broad shared world and a specifically personal relationship.
+
+Both members of this canonical axis are Vernal Point, so the entry has no second distinct factor to qualify that public field. It does not supply a personal character judgment or a particular public event; those more specific claims must be established by their own entries.
 
 ## Links
 
-- [Vernal Point](../factors/vernal-point.md)
 - [Vernal Point](../factors/vernal-point.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

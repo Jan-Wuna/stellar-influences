@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Kronos](../axes/sun-kronos.md)
 - Triad hub: [Sun Zeus Kronos](../triads/sun-zeus-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Of good extraction. Great urge to create. Outstanding qualities of leadership. T
 
 Efforts of a state man, special body performance, leadership person in the state, leadership centre of the state, creative authoritarian person, persons with special purpose, and center for special procreation
 
+## Comparative Schema
+
+- core meaning: Purposeful leadership and the urge to create.
+- psychology: Strong creative aims and leadership qualities.
+- body/health: ABC includes exceptional physical performance without medical detail.
+- social/relationship: Leadership is exercised in a state or institution.
+- events/manifestations: Creative command, judgment, or a judicial decision.
+- conflicts/notes: Witte’s ancestry example is historical attributed wording.
+
+## Contradictions
+
+The entries emphasize creative leadership and purposeful authority without a direct contradiction. Witte’s “good extraction” is an attributed ancestry claim, not a general evaluation of human worth.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Kronos = Zeus`: forceful leadership and creative command.
-- Practical expression: efforts of a state man, special body performance, leadership person in the state, leadership centre of the state, and creative authoritarian person.
+In `Sun/Kronos = Zeus`, Zeus specifies Sun/Kronos authority as purposeful creative direction. The [Witte Entry](#witte-entry) joins an urge to create with leadership and passing judgment; the [ABC Entry](#abc-entry) describes a leading person or center with a particular aim. Authority here takes shape through directing effort toward an outcome, including the distinct judicial-decision example. The source’s ancestry and procreation examples do not establish a universal condition for leadership.
 
 ## Links
 

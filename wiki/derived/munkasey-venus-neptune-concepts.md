@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Venus/Neptune` as source-native image material.
+Preserve Munkasey's concept phrases from the third page of the `Venus/Neptune` pair entry as source-native image material.
+
+For delineation, start with the [Venus/Neptune interpretation](../axes/venus-neptune.md#derived-synthesis). Munkasey's formal pair prose is in the axis page's [Munkasey source entry](../axes/venus-neptune.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets); the list below preserves a separate concept layer.
 
 ## Evidence Base
 
 - [Venus/Neptune](../axes/venus-neptune.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `205`
+- Source concept page: `205` (printed)
 
 ## Source Concepts
 
@@ -124,3 +126,5 @@ Preserve Munkasey's page-3 concept phrases for `Venus/Neptune` as source-native 
 
 - These phrases are preserved as source-native concept prompts, not as comparative doctrine.
 - They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+- The list spans artistic imagination, devotion, illusion, neglect, and escapism. Its contrasting prompts remain available individually; their presence does not mean that all occur together.
+- No factor after `=` is specified here. Use an activation page for an explicit oriented formula rather than extending a concept phrase into one.

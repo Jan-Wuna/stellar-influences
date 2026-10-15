@@ -1,0 +1,877 @@
+{
+  "status": "PASS",
+  "unique_amended_hubs": 355,
+  "proof_rows": 355,
+  "original_hub_records": 1618,
+  "unique_original_hub_paths": 1618,
+  "all_original_reviewed": true,
+  "new_full_review_records": 0,
+  "identity_ledger_proof_errors": [],
+  "source_hash_drifts": [],
+  "bad_links": [],
+  "diff_check_exit": 0,
+  "diff_check_output": "",
+  "pending_patch_artifacts": {
+    "pending-hub-patches-02.json": "APPLIED_AND_ORIGINAL_LEDGER_AMENDED_BY_OWNER",
+    "pending-hub-patches-03.json": "APPLIED_AND_ORIGINAL_LEDGER_AMENDED_BY_OWNER",
+    "pending-hub-patches.json": "APPLIED_AND_ORIGINAL_LEDGER_AMENDED_BY_OWNER"
+  },
+  "staging_orphans": [],
+  "amended_hubs_with_retained_limits": 122,
+  "retained_limits": [
+    {
+      "path": "wiki/triads/jupiter-saturn-neptune.md",
+      "unresolved": [
+        "Saturn/Neptune=Jupiter ABC Wasser-Geld is printed without a defined concrete financial/water context.",
+        "Jupiter/Saturn=Neptune ABC air/water wording specifies no technical or situational setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-venus-jupiter.md",
+      "unresolved": [
+        "Moon/Venus = Jupiter: Sandbach PDF p. 27 is a chapter start only.",
+        "Venus/Jupiter = Moon: Sandbach PDF p. 56 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/asc-cupido-vulcanus.md",
+      "unresolved": [
+        "Asc/Cupido = Vulcanus: Witte printed page is not established; retained PDF entry-start p. 91.",
+        "Asc/Vulcanus = Cupido: Witte printed page is not established; retained PDF entry-start p. 97."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-node-asc.md",
+      "unresolved": [
+        "Jupiter/Asc = Node: Sandbach PDF p. 85 is a chapter start only.",
+        "Node/Asc = Jupiter: Sandbach PDF p. 118 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-pluto-asc.md",
+      "unresolved": [
+        "Jupiter/Asc = Pluto: Sandbach PDF p. 85 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-pluto-zeus.md",
+      "unresolved": [
+        "Jupiter/Zeus = Pluto: ABC change in the performance of money does not specify a financial mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-pluto.md",
+      "unresolved": [
+        "Saturn/Pluto = Jupiter: Sandbach PDF p. 91 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-uranus.md",
+      "unresolved": [
+        "Jupiter/Uranus = Saturn: Sandbach PDF p. 80 is a chapter start only.",
+        "Saturn/Uranus = Jupiter: Sandbach PDF p. 88 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-zeus.md",
+      "unresolved": [
+        "Jupiter/Saturn = Zeus: ABC financial payments for pain have no identified mechanism or legal basis."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-admetos.md",
+      "unresolved": [
+        "Jupiter/Uranus = Admetos: ABC successful rotational rhythm does not identify a particular process or machine."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-asc.md",
+      "unresolved": [
+        "Jupiter/Asc = Uranus: Sandbach PDF p. 85 is a chapter start only.",
+        "Uranus/Asc = Jupiter: Sandbach PDF p. 107 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-neptune.md",
+      "unresolved": [
+        "Jupiter/Uranus = Neptune: source air/water examples do not identify a particular setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-pluto.md",
+      "unresolved": [
+        "Uranus/Pluto = Jupiter: Sandbach PDF p. 105 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-poseidon.md",
+      "unresolved": [
+        "Jupiter/Poseidon=Uranus ABC legal event is not specified more concretely."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-zeus.md",
+      "unresolved": [
+        "Jupiter/Uranus = Zeus: ABC happy tension at the fire does not identify a particular activity or technical setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-asc.md",
+      "unresolved": [
+        "Jupiter/Asc = Saturn: Sandbach PDF p. 85 is a chapter start only.",
+        "Saturn/Asc = Jupiter: Sandbach PDF p. 94 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-admetos-vulcanus.md",
+      "unresolved": [
+        "Jupiter/Vulcanus = Admetos: ABC does not specify what circulation or a thorough power advantage denotes in practical terms."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-asc-zeus.md",
+      "unresolved": [
+        "Asc/Zeus = Jupiter: partner-direction agency and particular local-law arrangement remain unspecified; source procreative wording supplies no clinical assessment."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-hades-admetos.md",
+      "unresolved": [
+        "Jupiter/Admetos = Hades: Witte printed220/PDF216 literally says viscous circumstances; intended adjective remains unestablished."
+      ]
+    },
+    {
+      "path": "wiki/triads/node-cupido-admetos.md",
+      "unresolved": [
+        "Node/Admetos = Cupido: Depressionen has no specified clinical or economic sense in the source."
+      ]
+    },
+    {
+      "path": "wiki/triads/uranus-zeus-vulcanus.md",
+      "unresolved": [
+        "ABC überraschend beginnende Gewalt retains a contextual force/violence range; the source does not specify one setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-venus-saturn.md",
+      "unresolved": [
+        "Venus/Saturn = Mercury: Sandbach PDF p. 57 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-cupido-vulcanus.md",
+      "unresolved": [
+        "ABC Gewalt-Gemeinschaft remains a source compound with literal community-of-force gloss; no concrete organization, motive or mechanism is specified."
+      ]
+    },
+    {
+      "path": "wiki/triads/hades-kronos-vulcanus.md",
+      "unresolved": [
+        "ABC Gewalt retains its contextual force/state-authority range; no single concrete setting is specified."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-admetos-poseidon.md",
+      "unresolved": [
+        "ABC's literal suppressed-reason-in-traffic expression remains unexplained; no mechanism is inferred."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-jupiter-asc.md",
+      "unresolved": [
+        "Mercury/Jupiter=Asc has no current Ebertin source subentry; four other works are represented.",
+        "Mercury/Jupiter=Asc Sandbach44 remains a chapter-start reference; exact entry page is unestablished."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-asc.md",
+      "unresolved": [
+        "Mercury/Asc = Neptune: Sandbach PDF p. 52 is a chapter start only.",
+        "Mercury/Neptune = Asc: Sandbach PDF p. 49 is a chapter start only.",
+        "Neptune/Asc = Mercury: Sandbach PDF p. 112 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-neptune-pluto.md",
+      "unresolved": [
+        "Sandbach's smaller 3 Highlighters- label is a real unexplained document artifact; it is retained outside interpretive prose.",
+        "Mercury/Neptune = Pluto: Sandbach PDF p. 49 is a chapter start only.",
+        "Mercury/Pluto = Neptune: Sandbach PDF p. 50 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-uranus-mc.md",
+      "unresolved": [
+        "Mercury/MC = Uranus: Sandbach PDF p. 53 is a chapter start only.",
+        "Mercury/Uranus = MC: Sandbach PDF p. 47 is a chapter start only.",
+        "Uranus/MC = Mercury: Sandbach PDF p. 108 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-venus-mc.md",
+      "unresolved": [
+        "Mercury/MC = Venus: Sandbach PDF p. 53 is a chapter start only.",
+        "Venus/MC = Mercury: Sandbach PDF p. 66 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-venus-neptune.md",
+      "unresolved": [
+        "Mercury/Neptune = Venus: Sandbach PDF p. 49 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-jupiter-apollon.md",
+      "unresolved": [
+        "ABC Wirtschafts-Geld is undefined in this row; its economic-money translation does not specify a financial instrument."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-jupiter-mc.md",
+      "unresolved": [
+        "Jupiter/MC = Moon: Sandbach PDF p. 86 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-mars-saturn.md",
+      "unresolved": [
+        "Mars/Saturn = Moon: Sandbach PDF p. 68 is a chapter start only.",
+        "Moon/Saturn = Mars: Sandbach PDF p. 31 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-mercury-asc.md",
+      "unresolved": [
+        "Moon/Asc=Mercury has no Sandbach activation in the actual complete chapter and no Ebertin subentry; sibling coverage cannot fill this orientation."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-mercury-mars.md",
+      "unresolved": [
+        "Mercury/Mars = Moon: Sandbach PDF p. 42 is a chapter start only.",
+        "Moon/Mars = Mercury: Sandbach PDF p. 28 is a chapter start only.",
+        "Moon/Mercury = Mars: Sandbach PDF p. 25 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-mercury-mc.md",
+      "unresolved": [
+        "Mercury/MC = Moon: Sandbach PDF p. 53 is a chapter start only.",
+        "Moon/Mercury = MC: Sandbach PDF p. 25 is a chapter start only.",
+        "Moon/MC = Mercury: the source's literal mobility expression does not specify its form."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-venus-mc.md",
+      "unresolved": [
+        "Venus/MC = Moon: Sandbach PDF p. 66 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-neptune-node.md",
+      "unresolved": [
+        "Moon/Neptune = Node: Sandbach PDF p. 34 is a chapter start only.",
+        "Moon/Node = Neptune: Sandbach PDF p. 37 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-cupido-apollon.md",
+      "unresolved": [
+        "The ABC water, air and future-knowledge images do not specify one practical setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-pluto-admetos.md",
+      "unresolved": [
+        "Jupiter/Pluto = Admetos: ABC Rotations-Entwicklung remains literal rotational development without a specified physical, technical or cyclic mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-vulcanus.md",
+      "unresolved": [
+        "Jupiter/Saturn = Vulcanus: Witte actually prints Buildings with are guarded; the awkward wording remains source-native and is not silently rewritten."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-uranus-node.md",
+      "unresolved": [
+        "Jupiter/Uranus = Node: Ebertin's scan-confirmed printed w'th typo is retained as source-native wording."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-asc-admetos.md",
+      "unresolved": [
+        "Mars/Admetos = Asc: Urstoff remains the source's broad primordial-matter term; a narrower material is not specified."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-asc-mc.md",
+      "unresolved": [
+        "Mars/Asc = MC Ebertin printed221/code0769 retains eoworker; no new raw repair is certified.",
+        "Asc/MC = Mars: Sandbach PDF p. 121 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-pluto-admetos.md",
+      "unresolved": [
+        "Pluto/Admetos = Mars: Kreislauf remains open to cycle/circulation; the source does not select a bodily mechanism.",
+        "Mars/Admetos = Pluto: primordial matter is a broad source term, without a specified material."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-jupiter-saturn.md",
+      "unresolved": [
+        "Mars/Saturn = Jupiter: Sandbach PDF p. 68 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-saturn-neptune.md",
+      "unresolved": [
+        "Mars/Neptune = Saturn: Sandbach PDF p. 72 is a chapter start only.",
+        "Mars/Saturn = Neptune: Sandbach PDF p. 68 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-uranus-admetos.md",
+      "unresolved": [
+        "Urstoff remains the source's broad primordial-matter term; a narrower material is not specified."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-uranus-node.md",
+      "unresolved": [
+        "Mars/Node = Uranus: Sandbach PDF p. 74 is a chapter start only.",
+        "Mars/Uranus = Node: Sandbach PDF p. 71 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-saturn-neptune.md",
+      "unresolved": [
+        "Mercury/Saturn = Neptune Witte PDF162 retains Trave!; no fresh wording repair is certified.",
+        "Mercury/Neptune = Saturn: Sandbach PDF p. 49 is a chapter start only.",
+        "Saturn/Neptune = Mercury: Sandbach PDF p. 90 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/mercury-uranus-pluto.md",
+      "unresolved": [
+        "Mercury/Pluto = Uranus: Sandbach PDF p. 50 is a chapter start only.",
+        "Uranus/Pluto = Mercury: Sandbach PDF p. 105 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-node-admetos.md",
+      "unresolved": [
+        "Node/Admetos = Neptune: subtle-material wording has no explained mechanism, and Depressionen is not assigned a clinical or economic sense."
+      ]
+    },
+    {
+      "path": "wiki/triads/mc-zeus-vulcanus.md",
+      "unresolved": [
+        "Zeus/Vulcanus = MC: Minute der Feuer-Kraft is visible source wording but undefined; no substantive mechanism is inferred."
+      ]
+    },
+    {
+      "path": "wiki/triads/node-asc-mc.md",
+      "unresolved": [
+        "Node/Asc = MC: Minute einer Verbindung am Ort remains literal, without a specified mechanism.",
+        "Asc/MC = Node: Sandbach PDF p. 121 is a chapter start only.",
+        "Node/MC = Asc: Sandbach PDF p. 120 is a chapter start only."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-cupido-poseidon.md",
+      "unresolved": [
+        "Actual WittePDF254 prints occur interests; its intended word is unknown, and occult is not silently substituted."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-asc-zeus.md",
+      "unresolved": [
+        "Asc/Zeus = Neptune: air/water goals and partner-direction agency remain unexplained; the historical childlessness claim supplies no clinical assessment."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-moon-admetos.md",
+      "unresolved": [
+        "Moon/Admetos = Sun: historical death/timing assertions do not establish a predictive timing method."
+      ]
+    },
+    {
+      "path": "wiki/triads/uranus-neptune-pluto.md",
+      "unresolved": [
+        "Uranus/Pluto = Neptune retains a Sandbach PDF p.105 chapter-start locator rather than an exact entry locator on the canonical page."
+      ]
+    },
+    {
+      "path": "wiki/triads/uranus-node-asc.md",
+      "unresolved": [
+        "Node/Asc = Uranus retains a Sandbach chapter-start-only evidence locator PDF p.118; exact entry pagination remains unverified."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-jupiter-asc.md",
+      "unresolved": [
+        "Jupiter/Asc = Venus retains a Sandbach PDF p.85 chapter-start-only reference rather than an exact entry page."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-neptune-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus = Neptune retains ABC power of peace and water energy literally; the source supplies no technical or institutional mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/saturn-uranus-asc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/saturn-uranus-mc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/saturn-uranus-neptune.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/saturn-uranus-node.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Saturn/Node = Uranus retains Sandbach PDF p.92 as a chapter-start reference."
+      ]
+    },
+    {
+      "path": "wiki/triads/saturn-uranus-pluto.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Uranus/Pluto = Saturn retains Sandbach PDF p.105 as a chapter-start-only reference; exact entry pagination remains unestablished on the canonical page."
+      ]
+    },
+    {
+      "path": "wiki/triads/uranus-asc-mc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/uranus-mc-admetos.md",
+      "unresolved": [
+        "Uranus/MC=Admetos Kreislauf permits cycle/circulation without specifying a particular bodily condition."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-node-asc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Node/Asc = Venus retains a Sandbach chapter-start-only evidence locator PDF p.118; exact entry page remains unverified."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-asc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are supplied through linked source entries."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-uranus-mc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Venus/Uranus = MC retains Sandbach PDF p.60 as a chapter-start-only reference."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-uranus-neptune.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Venus/Uranus = Neptune retains a Sandbach chapter-start-only reference PDF p.60."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-uranus-node.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Venus/Node=Uranus retains Sandbach chapter-start63 and Venus/Uranus=Node retains chapter-start60; exact entry pages are unestablished."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-uranus-pluto.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Sandbach PDF105 for Uranus/Pluto=Venus, PDF62 for Venus/Pluto=Uranus and PDF60 for Venus/Uranus=Pluto remain chapter-start references; exact formula pages have not been established."
+      ]
+    },
+    {
+      "path": "wiki/triads/vernal-point-mc-poseidon.md",
+      "unresolved": [
+        "Vernal Point/Poseidon=MC Witte's separate moment of floods is unexplained in relation to intellectual claims and supplies no timing model."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-node-asc.md",
+      "unresolved": [
+        "Moon/Asc=Node has no Sandbach activation in the actual complete chapter and no Ebertin subentry; both works occur only on sibling orientations."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-venus-neptune.md",
+      "unresolved": [
+        "The actual complete Sandbach Venus/Neptune chapter omits Moon; sibling orientations cannot supply that missing coverage."
+      ]
+    },
+    {
+      "path": "wiki/triads/node-hades-poseidon.md",
+      "unresolved": [
+        "Hades/Poseidon=Node does not specify whether reasonable renunciation means foregoing or ending a particular connection."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-asc-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=Asc uses Gewalt without settling force/power versus violence in a particular relationship."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-jupiter-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=Jupiter's legal power phrase names no office, proceeding or legal outcome."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-mars-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=Mars Gewalt-Tätigkeit permits forceful or violent activity; the brief source does not identify a specific act."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-mc-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=MC seelische Liebes-Gewalt does not specify the exact force-or-violence expression or a clinical mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-vulcanus-poseidon.md",
+      "unresolved": [
+        "Venus/Vulcanus=Poseidon geistige Gewalt permits mental/spiritual force or violence; the source does not specify expression or mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/vernal-point-venus-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=Vernal Point public Gewalt permits force/power or violence without specifying a particular public expression."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-asc-mc.md",
+      "unresolved": [
+        "Jupiter/MC=Asc ABC Orts-Recht does not specify a jurisdiction or legal entitlement."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-jupiter-mc.md",
+      "unresolved": [
+        "Jupiter/MC=Mars ABC my money works specifies no particular financial mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-uranus-neptune.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-venus-asc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-venus-vulcanus.md",
+      "unresolved": [
+        "Venus/Vulcanus=Sun Gewalt permits force/power or violence without naming a particular act."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-uranus-mc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-uranus-node.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-pluto-asc.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes.",
+        "Pluto/Asc=Venus Sandbach116 and Venus/Pluto=Asc Sandbach62 remain chapter-start locators; exact formula pages are unestablished."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-saturn-uranus.md",
+      "unresolved": [
+        "Mars/Uranus=Saturn Sandbach71 and Saturn/Uranus=Mars Sandbach88 remain chapter-start references; exact entry pages are unestablished."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-saturn-pluto.md",
+      "unresolved": [
+        "Saturn/Pluto=Mars Sandbach91 remains chapter-only; exact entry page is unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-saturn-poseidon.md",
+      "unresolved": [
+        "Witte printed197/PDF193 actually reads Interruption or a mental activity; the awkward printed phrase remains unchanged."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-mars-saturn.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are supplied through linked source entries."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-mc-poseidon.md",
+      "unresolved": [
+        "Jupiter/Poseidon=MC unusual Geist-Seele compound is literal and not further defined.",
+        "Jupiter/MC=Poseidon intellectual or spiritual right is not more specifically defined."
+      ]
+    },
+    {
+      "path": "wiki/triads/jupiter-saturn-mc.md",
+      "unresolved": [
+        "Jupiter/MC=Saturn compensation for pain and suffering does not specify an injury or legal case."
+      ]
+    },
+    {
+      "path": "wiki/triads/vernal-point-jupiter-mc.md",
+      "unresolved": [
+        "Jupiter/MC=Vernal Point public right specifies no particular entitlement or legal context."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-apollon-admetos.md",
+      "unresolved": [
+        "Venus/Apollon=Admetos science of peace specifies no discipline or method."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-asc-apollon.md",
+      "unresolved": [
+        "Venus/Apollon=Asc Kunst-Wissenschaft specifies study or scholarly knowledge of art without naming an institution."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-hades-apollon.md",
+      "unresolved": [
+        "Venus/Apollon=Hades commercial love identifies no specific transaction or practice."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-neptune-apollon.md",
+      "unresolved": [
+        "Venus/Apollon=Neptune much-water and future-knowledge phrases identify no technical setting or method."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-apollon.md",
+      "unresolved": [
+        "Witte's Venus/Apollon=Saturn paragraph actually prints of of; retained without additional meaning."
+      ]
+    },
+    {
+      "path": "wiki/triads/mc-admetos-poseidon.md",
+      "unresolved": [
+        "MC/Admetos=Poseidon literally uses Urzeugung von Geist und Seele, without explaining an origins mechanism."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-mc-admetos.md",
+      "unresolved": [
+        "MC/Admetos=Neptune literally names mein Luft-Kreislauf; the brief source does not explain the cycle's referent."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-venus-kronos.md",
+      "unresolved": [
+        "Sun/Kronos=Venus groß leaves stature versus standing open in its brief ABC row."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-venus-pluto.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are not supplied here; linked source entries are the traceability routes."
+      ]
+    },
+    {
+      "path": "wiki/triads/sun-venus-saturn.md",
+      "unresolved": [
+        "Other source/orientation numeric locators are reached through linked entries."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-jupiter-saturn.md",
+      "unresolved": [
+        "Venus/Jupiter = Saturn's canonical Sandbach pagination retains chapter-start-only PDF56; exact paragraph pagination is not yet recorded on that activation."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-hades.md",
+      "unresolved": [
+        "Historical social and criminal labels remain source-attributed."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-mc.md",
+      "unresolved": [
+        "Other numeric source locators are reached through the linked entries."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-neptune.md",
+      "unresolved": [
+        "Historical bodily and relationship claims remain source-attributed."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-pluto.md",
+      "unresolved": [
+        "Saturn/Pluto = Venus has chapter-start-only Sandbach PDF91; Venus/Pluto = Saturn has no recorded exact Sandbach entry page."
+      ]
+    },
+    {
+      "path": "wiki/triads/venus-saturn-uranus.md",
+      "unresolved": [
+        "Actual Witte179 prints One’s tend to break up with an unspecified subject. Venus/Saturn Uranus Sandbach57 is chapter-only; Saturn/Uranus Venus exact Sandbach page is unrecorded."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-neptune-admetos.md",
+      "unresolved": [
+        "ABC backed-up-water/Urstoff examples specify no technical setting or particular material; Neptune/Admetos Mars Fremd-Arbeit specifies no labor or political context."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-uranus-mc.md",
+      "unresolved": [
+        "Mars/MC = Uranus Sandbach PDF77 actually prints One need and even usual; the intended adjective remains uncertain."
+      ]
+    },
+    {
+      "path": "wiki/triads/mars-uranus-neptune.md",
+      "unresolved": [
+        "Actual Sandbach71 prints actions that are confusion or misconstrued; no intended wording is reconstructed."
+      ]
+    },
+    {
+      "path": "wiki/triads/vernal-point-jupiter-asc.md",
+      "unresolved": [
+        "Actual ABC112 repeats the public money-place clause; the repetition is retained without inventing a second setting."
+      ]
+    },
+    {
+      "path": "wiki/triads/moon-pluto-poseidon.md",
+      "unresolved": [
+        "Actual Witte PDF264/printed268 prints metal (psychic); the intended word remains uncertain."
+      ]
+    },
+    {
+      "path": "wiki/triads/neptune-kronos-apollon.md",
+      "unresolved": [
+        "Actual Witte PDF250 has a tiny unidentified mark after the leadership sentence; its identity and function remain unknown."
+      ]
+    }
+  ],
+  "snapshot_utc": "2026-10-15T16:29:42.539031+00:00",
+  "canonical_hubs_changed_by_this_reconciliation": 351,
+  "ledger_only_reconciliations": [
+    "wiki/triads/mars-neptune-kronos.md",
+    "wiki/triads/mars-neptune-admetos.md",
+    "wiki/triads/mars-neptune-vulcanus.md",
+    "wiki/triads/mars-node-apollon.md"
+  ],
+  "distinct_activation_source_bindings": 486,
+  "distinct_required_proof_files": 358,
+  "remaining_material_damage_holds_in_owned_callback_queue": [],
+  "external_handoffs": {
+    "exclusive_successor": "/root/activation_review_089_103",
+    "entire_original_ledger_files": [
+      "triads-015.jsonl",
+      "triads-016.jsonl",
+      "triads-017.jsonl",
+      "triads-018.jsonl"
+    ],
+    "proofs": [
+      "verification/hub-sun-closure-089.jsonl",
+      "verification/hub-sun-closure-018-089.jsonl"
+    ],
+    "overlapping_historical_own_row": "sun-venus-saturn: exact successor final source and original-record disposition bound in own external_followup; no new own canonical/ledger edit."
+  },
+  "scope": "Bounded recorded hub-caveat reconciliation only; completed full reviews were not repeated. Source-body certification remains with the author-distinct source auditors.",
+  "freeze": "No further canonical hub or original-ledger mutations planned by this owner.",
+  "historical_retained_check_dispositions": [
+    {
+      "path": "wiki/triads/jupiter-mc-cupido.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-B-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/jupiter-mc-zeus.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-B-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/saturn-mc-cupido.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-B-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/saturn-neptune-vulcanus.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-C-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/saturn-neptune-zeus.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-C-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-apollon.md",
+      "status": "resolved_by_exclusive_sun_successor",
+      "current_disposition": "The frozen Sun successor reconciled the independently accepted exact source repairs; no old damage warning remains in the current hub.",
+      "current_proof": "verification/hub-sun-closure-089.jsonl"
+    },
+    {
+      "path": "wiki/triads/moon-pluto-poseidon.md",
+      "status": "retained_verified_printed_source_limit",
+      "current_disposition": "Actual Witte264/printed268 prints metal (psychic); intended word remains uncertain.",
+      "current_proof": "verification/source-closure-B045-066-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/node-mc-zeus.md",
+      "status": "superseded_by_durable_source_repair",
+      "current_disposition": "The old source damage is repaired in the current canonical activation and completed original owner record; any dependent hub warning has been reconciled. This historical check adds no full review.",
+      "current_proof": "verification/source-closure-B-decisions.jsonl"
+    },
+    {
+      "path": "wiki/triads/neptune-kronos-apollon.md",
+      "status": "retained_verified_printed_source_limit",
+      "current_disposition": "Actual Witte250 has an unidentified tiny printed mark; guessed 1-apostrophe characters were removed upstream, and the hub now records only the physical observation.",
+      "current_proof": "verification/source-closure-B045-066-decisions.jsonl"
+    }
+  ]
+}

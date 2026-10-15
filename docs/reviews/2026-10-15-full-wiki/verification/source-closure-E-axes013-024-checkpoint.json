@@ -1,0 +1,206 @@
+{
+  "decisions": 16,
+  "queue_closed": 15,
+  "queue_total": 15,
+  "extra_omission_repair": [
+    "wiki/axes/moon-neptune.md"
+  ],
+  "unique_paths": 16,
+  "errors": [],
+  "git_diff_check_exit": 0,
+  "bounded_limits": [
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "unresolved": [
+        "Falis PDF3–4 literally prints Do you identity, who are you are, can' get along and Incredibly inner compulsion. Carter PDF5 literally prints ordinate past. These source wording quirks are explicitly retained; no intended replacements or new meanings inferred."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-admetos.md",
+      "unresolved": [
+        "ABC's Problem-Verdichtung remains the literal compaction of problems; the source provides no further causal explanation."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-chiron.md",
+      "unresolved": [
+        "Sandbach literally prints 'as ones grows older'; retained with an explicit grammatical-quirk note."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-neptune.md",
+      "unresolved": [
+        "Carter literally prints 'will be probably be'; retained with a source note.",
+        "Falis's conjunction chronology remains an attributed historical source statement, without current timing verification."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "unresolved": [
+        "Banzhaf's printed superscript6 callout is retained as a callout; no unverified footnote interpretation is added."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "unresolved": [
+        "Sandbach literally prints 'ones importance'; retained with a source note."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "unresolved": [
+        "Carter's actual high beneficent/self-opiniated/Sullvian/Bismark forms and absent stop after stunts are retained with an explicit source note."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "unresolved": [
+        "Sandbach's actual printed orqamzinq/thouqhts spellings are preserved with an explicit organizing-thoughts clarification.",
+        "Falis literally prints 'using physical gestures are moving around a lot of possibilities'; retained with a source note."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "unresolved": [
+        "Carter's actual They Kingdom come/Sometime/instable/Lous XIV forms and unclosed Joan of Arc parenthesis are retained with an explicit source note."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "unresolved": [
+        "Falis literally prints 'Regenerating the dead aspects yourself'; retained with an explicit source note."
+      ]
+    }
+  ],
+  "bindings": [
+    {
+      "path": "wiki/axes/moon-neptune.md",
+      "source_hash": "a32973d3dc286fa18551c1d7d2a28db40cb684d3aa742d9ce13d5de251e37ada",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "original_record_line": 1,
+      "record_line_sha256": "e8825a126a426314bad43f7ef85656a1f6789e7f50ff63c83ff45c538a31fdbe",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "source_hash": "424da015addc283d7d9a88eff09b15edd689d55df91e8e8d6906dd8683514a33",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "original_record_line": 1,
+      "record_line_sha256": "ce41db133d53fec54ed4a2cf5ae7bf58d914983634291999a05d3e845973f62e",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-admetos.md",
+      "source_hash": "d03585c5c5a9b6b1398eef9bf39cfa277d393adaf55171105017658cd0ab6e12",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 1,
+      "record_line_sha256": "38c50a970ef0ea8fbfa266c61d6b6eb73837048b10a8b4c6b1c7836f966f5edf",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-apollon.md",
+      "source_hash": "32209ffce574af9d8be7ded7b0a80928e3f31f1217a627c84cfc10c11c71edfc",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 2,
+      "record_line_sha256": "14be55f20dbf44f5e024fcf33540d572ae353b256dfa5024592cc924da3448ef",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-chiron.md",
+      "source_hash": "f120ef424f1844dc952b03d5db3d6631e377b299bf5a4388169d1522fd5aab82",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "3a443c1614a2697f4ba6276a410b218b57a9525d3d09ea433dc999076ac86e33",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-cupido.md",
+      "source_hash": "1d65eeb0da446ca0a71417c8e56266cf2a823215b4f4b984c572f927854de95a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 5,
+      "record_line_sha256": "774357030877c9e11efcc78e316883766aca93b37685153ccb9407679deab29c",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-hades.md",
+      "source_hash": "cfa7d66f71a3d50adedd44bb08d34c1b68d465289480bbf7189fa545d4c562b8",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 6,
+      "record_line_sha256": "41a7ddcebadc88416de41a9123dfe63a0528919ac6f6fe408750bdbd0cfe5263",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-kronos.md",
+      "source_hash": "9a7764c34dc28a3da2b877e3df6cd993d625943e32c86bbb419445378398cab3",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 7,
+      "record_line_sha256": "22df5474bcca823fbe5d8ad251cfd9ea00dce549de9e07d50c2c64ef0d13f556",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-mc.md",
+      "source_hash": "572b5b11a854be731eccb89d979ad39711a9c1c63eb3ad58354205df4bae31d0",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 8,
+      "record_line_sha256": "fcc8f2016a835ef655509b64ca9a69bf82035a21f9a8db097d31d623927e6d1e",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-neptune.md",
+      "source_hash": "a6f2285c5b82cebf7734078ccebfa5b3ee22da8f980e3f2c7901888c24e73b70",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "original_record_line": 9,
+      "record_line_sha256": "39a4f2bc42b1a76251c308e6f1efc2497f67bb35b679cb89dba41bfac1e7e501",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "source_hash": "b2e130fcece93189f27e12be12557be603cf7fb37863f17c77d2dba0bed1106b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "c08be0d13f70a739d1b39d9df3c257d044c43ba395b997462eedc85ff84fbc57",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "source_hash": "ebac01dc828ffb309ba9df0c650fe8aebe915a045bcf5da8f56ba67ebfe4d34b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl",
+      "original_record_line": 10,
+      "record_line_sha256": "fba2701a8410f06c07b73fe4eb39e3489631f26a73df6511e62cdfb18e07d287",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "source_hash": "f7c9d6c66e854cd47ef8508676e08f1be4f556f25be9c99a92ab9445b19a4747",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl",
+      "original_record_line": 3,
+      "record_line_sha256": "e49387fd29a38e8b9d6a9570bf0723b385e926ddeb5cc9350430bd3f4d951b71",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "source_hash": "51ce7041e082175bf45252b7b926dbf47b600d569eec57e13c06c12926341f02",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl",
+      "original_record_line": 7,
+      "record_line_sha256": "595db1e79358e85109b473d156d603e5f0051d8a39467cfd015f3bd45fef58da",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "source_hash": "219461969ec5158aa5bab386c316686f40334e711773c111cff7ee1941f1c291",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "original_record_line": 2,
+      "record_line_sha256": "541aa858444b15a211afecf123bfc6146dddc4d93c7f62786093d1ac4ff9790e",
+      "valid": true
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "source_hash": "f3fa839bfbb20a0d973f259f077160529708cd72cd369a392624293c5cc8cb03",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "d5913fac7cfb92df1fdb8cc4607a0b369ef9f3d71d80e3a5d60769cef7cb0215",
+      "valid": true
+    }
+  ],
+  "orphan_stages": []
+}

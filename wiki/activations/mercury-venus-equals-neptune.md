@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Mercury Venus Neptune](../triads/mercury-venus-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Untenable friends or acquaintances. Not to recognize acquaintances. Careless in 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 241; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Exchangeable language of peace, language about artificial water, Harrnonian language about metaphysics, harmonious ideas of the future, love weakness in youth, refined language of love, preference for movement in the air, and preference for foreign languages
+Disappointing peace conversations, conversations about art by water, harmonious conversations about metaphysics, harmonious thoughts of the future, weakness of love in youth, refined love conversations, a preference for movement in the air, a preference for foreign languages.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 146 (coded entry 0465); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ The power of seeing everything in clear pictures, fantasy and imagination, inspi
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 42 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 The ability to be very subtle when communicating, sometimes to the point that one’s meaning eludes others. Fantasies and imaginings that are communicated beautifully. To delude oneself with superficial, lazy, and/or selfish thinking.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Heightened appeal and allure, and a desire to make another’s love a subtle rea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Imagination and subtlety enter aesthetic and affectionate expression.
+- psychology: Inspiration, idealization and self-delusion all appear in the entries.
+- body/health: A fragile self-image in Munkasey is not a stated bodily diagnosis.
+- social/relationship: Sympathetic understanding may coexist with elusive communication or undermined relationships.
+- events/manifestations: Poetry, fantastic stories and beautifully communicated imaginings are concrete examples.
+- conflicts/notes: Ebertin's appreciation and lack of appreciation for beauty are contrasting possibilities, not a single settled trait.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's appreciation and lack of appreciation for beauty are contrasting possibilities, not a single settled trait.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Neptune`: inspired language, artistic diplomacy, and the ability to enchant through tone, image, and suggestion. Main caution: evasive sweetness: communication can become unrealistic, vague, or too idealized to hold firm shape.
+In `Mercury/Venus = Neptune`, Neptune specifies affectionate or artistic expression through imagination, subtle suggestion and idealized love. Poetry, fantastic stories and beautifully conveyed fantasies express its creative range; sympathy and an alluring or delicate self-image can accompany it. Subtle expression may also elude others, while superficial or selfish thought can deceive oneself. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Unstable acquaintances, disappointed peace conversations and undermined relationships keep difficulty beside the artistic possibilities. ABC also preserves art by water, metaphysical conversation, refined love talk and foreign languages. Ebertin's contrasting appreciation or absence of a sense for beauty remains a range rather than a single settled trait. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry))
 
 ## Links
 

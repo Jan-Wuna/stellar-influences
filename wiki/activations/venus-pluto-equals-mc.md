@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Triad hub: [Venus Pluto MC](../triads/venus-pluto-mc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -43,9 +45,12 @@ The own harmonious development. Development of own wishes and hopes. Ready to co
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Pluto`
+- Source reference: printed page `280`; PDF page `139` (one-based).
+
 #### ABC Entry
 
-I love evolution, my peaceful development, my development in love, my fondness for change, my growing frcude, and growing soul harmony
+Soulful artistic development, I develop harmony, I love evolution, I love changes, my peaceful development, my development in love, my preference for transformations, my growing joy, and growing harmony of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,21 @@ Growing thru destructive tendencies and overcoming obsessive habits which do lit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal development in love, wishes, or creative expression.
+- psychology: Conscious direction of urges, deep love, and overcoming destructive or obsessive habits.
+- body/health: Sexual urges are mentioned; no bodily diagnosis is supplied.
+- social/relationship: Deep love and Sandbach's possibility of being intensely loved by the public.
+- events/manifestations: Artistic creation, difficult career decisions, and protection of self/family from destructive forces.
+- conflicts/notes: Ebertin's 'karmic union' and Sandbach's higher love are attributed interpretive language, not demonstrated mechanisms.
 
 ## Contradictions
 
-- None recorded yet.
+Personal harmony, spiritual transmutation, and protection from destruction differ in focus. No direct logical contradiction is apparent, but the protective and career details cannot be inferred from affection alone.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = MC`: public magnetism, intense artistic vocation, and the ability to reshape reputation or career through depth, allure, and strategic relationship power. Main caution: public life can become entangled with scandal, manipulation, or power struggles in love and money.
+In `Venus/Pluto = MC`, MC specifies Venus/Pluto development as one's own involvement in love, wishes, and creative expression. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) foreground personal development, deep feeling, and consciously directed urges. [Sandbach](#sandbach-entry) adds the aim of transforming love's expression, public affection, and difficult career choices; [Munkasey](#munkasey-entry) gives growth through overcoming destructive habits and protecting self or family. These passages support personal change and responsibility, with public or career expressions specifically bounded to Sandbach's entry.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Sun Pluto`
 - Astronomicon triad-set: `VP S Z`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Sun/Pluto = Vernal Point](../activations/sun-pluto-equals-vernal-point.md)
-- [Vernal Point/Pluto = Sun](../activations/vernal-point-pluto-equals-sun.md)
-- [Vernal Point/Sun = Pluto](../activations/vernal-point-sun-equals-pluto.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Pluto = Vernal Point](../activations/sun-pluto-equals-vernal-point.md) | [Sun/Pluto](../axes/sun-pluto.md) | Vernal Point |
+| [Vernal Point/Pluto = Sun](../activations/vernal-point-pluto-equals-sun.md) | [Vernal Point/Pluto](../axes/vernal-point-pluto.md) | Sun |
+| [Vernal Point/Sun = Pluto](../activations/vernal-point-sun-equals-pluto.md) | [Vernal Point/Sun](../axes/vernal-point-sun.md) | Pluto |
 
 ## Source Coverage
 
-- `Sun/Pluto = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `110`
-- `Sun/Pluto = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `156`
-- `Vernal Point/Pluto = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
-- `Vernal Point/Pluto = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `42`
-- `Vernal Point/Sun = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `37`
-- `Vernal Point/Sun = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `23`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Sun/Pluto = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-pluto-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `110`.
+- `Sun/Pluto = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-pluto-equals-vernal-point.md#abc-entry), printed p. `156`.
+- `Vernal Point/Pluto = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-pluto-equals-sun.md#witte-entry), one-based PDF entry-start p. `47`.
+- `Vernal Point/Pluto = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-pluto-equals-sun.md#abc-entry), printed p. `42`.
+- `Vernal Point/Sun = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-sun-equals-pluto.md#witte-entry), one-based PDF entry-start p. `37`.
+- `Vernal Point/Sun = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-sun-equals-pluto.md#abc-entry), printed p. `23`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Pluto = Vernal Point`: This formula emphasizes changed surroundings and transformation through circumstance.
-- `Vernal Point/Pluto = Sun`: This formula emphasizes the physical condition of the living body, food intake of the body, appetite, and digestion.
-- `Vernal Point/Sun = Pluto`: This formula emphasizes motion inside the body: metabolism, growth, food products, and daily changes or developments.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

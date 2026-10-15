@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Vernal Point Sun Apollon](../triads/vernal-point-sun-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Men of success, to be known everywhere.
 
@@ -42,13 +46,27 @@ Men of success, to be known everywhere.
 
 #### ABC Entry
 
+Source locator: printed page 166; PDF page 82 (one-based).
+
 successful people in public life, man of science in public, masses of people in public, human experiences in public life, and public trade center
+
+## Comparative Schema
+
+- core meaning: Public success, visibility and wide recognition.
+- psychology: No specific inner disposition is established by these entries.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Successful people, scientists and masses of people in public life.
+- events/manifestations: Being widely known and a public trade center.
+- conflicts/notes: Public visibility does not establish success in every local or temporary condition.
+
+## Contradictions And Comparison Notes
+
+Witte's wide recognition and ABC's public settings overlap. ABC gives collective, scientific and commercial examples rather than a universal claim about circumstances.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Vernal Point`: success in the environment and success in all contingent local or temporary conditions.
-- Practical expression: successful people in public life, man of science in public, masses of people in public, human experiences in public life, and public trade center.
+For `Sun/Apollon = Vernal Point`, success and experience take a public, widely visible form. [Witte](#witte-entry) describes successful people known everywhere; [ABC](#abc-entry) places successful people, scientists, crowds and a trade center in public life. The common focus is the public reach of accomplishment and human activity, without extending the claim to success under every circumstance.
 
 ## Links
 

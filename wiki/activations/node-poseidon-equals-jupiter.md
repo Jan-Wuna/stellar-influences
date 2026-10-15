@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Poseidon](../axes/node-poseidon.md)
 - Triad hub: [Jupiter Node Poseidon](../triads/jupiter-node-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Aligned with reasonable and prudent people. Connected with wise and philosophica
 
 Successful spiritual connections, conveying financial ideas, joy through cultural relationships, joy through truth mediation, clear financial connections, clarity through legal contacts, money for cultural connections, and connection to cultural law
 
+## Comparative Schema
+
+The categories below summarize the [Witte Entry](#witte-entry) (PDF p. 156) and [ABC Entry](#abc-entry) (printed p. 238; PDF p. 118).
+
+- Core meaning: Benefit through informed intellectual or cultural relationships.
+- Psychology: Prudence, philosophical understanding and joy in sharing knowledge.
+- Body/health: No bodily or medical claim appears in these entries.
+- Social/relationship: Connections with educated people and cultural or legal contacts.
+- Events/manifestations: Sharing financial ideas and supporting cultural connections.
+- Conflicts/notes: Financial and legal examples are possible applications, not promised results.
+
+## Contradictions
+
+Witte concentrates on the people in a connection; ABC also names financial and legal contexts. This is a difference of emphasis, with no explicit incompatibility in the passages.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Poseidon = Jupiter`: Aligned with reasonable and prudent people. Connected with wise and philosophically educated people.
-- Practical focus: aligned with reasonable and prudent people; also connected with wise and philosophically educated people.
+Jupiter specifies `Node/Poseidon` as a rewarding connection through understanding, prudence or cultural knowledge. The [Witte Entry](#witte-entry) emphasizes association with philosophically educated people; the [ABC Entry](#abc-entry) extends the theme to joy in cultural relationships, financial ideas and clarity through legal contacts. The common thread is benefit mediated by informed relationships, without a guarantee of wealth, legal success or another person's wisdom.
 
 ## Links
 

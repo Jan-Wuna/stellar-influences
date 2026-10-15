@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Kronos Poseidon`
 - Astronomicon triad-set: `R ¤ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Poseidon = Moon](../activations/kronos-poseidon-equals-moon.md)
-- [Moon/Kronos = Poseidon](../activations/moon-kronos-equals-poseidon.md)
-- [Moon/Poseidon = Kronos](../activations/moon-poseidon-equals-kronos.md)
+- [Kronos/Poseidon = Moon](../activations/kronos-poseidon-equals-moon.md): base axis [Kronos/Poseidon](../axes/kronos-poseidon.md); activator [Moon](../factors/moon.md).
+- [Moon/Kronos = Poseidon](../activations/moon-kronos-equals-poseidon.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Kronos](../activations/moon-poseidon-equals-kronos.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Kronos](../factors/kronos.md).
 
 ## Source Coverage
 
-- `Kronos/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `466`
-- `Moon/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `199`
-- `Moon/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `207`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Poseidon = Moon](../activations/kronos-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 302); [Moon/Kronos = Poseidon](../activations/moon-kronos-equals-poseidon.md#witte-entry) (PDF entry-start p. 133); [Moon/Poseidon = Kronos](../activations/moon-poseidon-equals-kronos.md#witte-entry) (PDF entry-start p. 138).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Poseidon = Moon](../activations/kronos-poseidon-equals-moon.md#abc-entry) (printed p. 466); [Moon/Kronos = Poseidon](../activations/moon-kronos-equals-poseidon.md#abc-entry) (printed p. 199); [Moon/Poseidon = Kronos](../activations/moon-poseidon-equals-kronos.md#abc-entry) (printed p. 207).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Moon`: mentally active women or persons, public cultural efforts, and visible educational or artistic institutions such as lectures, concerts, theaters, and courses.
-- `Moon/Kronos = Poseidon`: Officials of universities. Ecclesiastical administrative authority. The spiritual authorities.
-- `Moon/Poseidon = Kronos`: Mentally highly attuned, to associate with such people. A major Tsunami.
+Moon, Kronos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Poseidon](../axes/kronos-poseidon.md)
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)

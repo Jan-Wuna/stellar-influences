@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Kronos](../axes/venus-kronos.md)
 - Triad hub: [Venus Kronos Apollon](../triads/venus-kronos-apollon.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,30 @@ Many special favors. Many show willingness to help. Affections from or friendshi
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Kronos`
+- Source reference: printed page `289`; PDF page `143` (one-based).
+
 #### ABC Entry
 
-Special knowledge of the arts, success through peace with the hierarchy, successful self governance in love, successful dominance of harmony, great experiences in love, self governing arts trade, state peace success, and benevolence of the hierarchy experience
+Special knowledge of art, success through peace with the hierarchy, successful independence in love, successful dominance of harmony, great experiences in love, independent art trade, state success in peace, and experiencing the hierarchy's benevolence.
+
+## Comparative Schema
+
+- core meaning: Many favors and willingness to help ([Witte](#witte-entry)).
+- psychology: Specialized artistic knowledge and experience in love ([ABC](#abc-entry)).
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Friendship with scientific authorities and goodwill from a hierarchy ([Witte](#witte-entry); [ABC](#abc-entry)).
+- events/manifestations: Special favors and success in hierarchical or artistic settings ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: ABC also specifies independence in love and independent art trade; these are particular examples, not a claim that all favor requires independence.
+
+## Contradictions
+
+No direct contradiction is evident. Scientific friendship and artistic independence are different settings within the entries' favorable range.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Kronos = Apollon`: many special favors.
-- Practical expression: special knowledge of the arts, success through peace with the hierarchy, successful self governance in love, successful dominance of harmony, and great experiences in love.
+Apollon specifies Venus/Kronos through numerous favors, willing helpers, and valuable relationships with recognized authorities. [Witte](#witte-entry) expressly includes scientific authorities. The [ABC entry](#abc-entry) adds artistic knowledge and trade, independence in love, and success through peace with a hierarchy. Together they describe goodwill extending one's access or scope, with independence among ABC's specific examples.
 
 ## Links
 

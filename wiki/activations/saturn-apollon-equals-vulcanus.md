@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Vulcanus`
 - Astronomicon formula: `W/¥ = §`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 To proceed without regard for anyone, difficulties do not deter. To apply force. Rigorous method. Supervision system.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-influence of old knowledge, successful power of concentration, enormous tasks of science, losses of power in trade, powerful success through patience, experience painful force, strong experiences of pain, and disturbing expansion of force
+- Source page: 363 (printed); PDF page: 180.
+
+Influence of old knowledge, successful power of concentration, enormous scientific tasks, losses of power in trade, mighty success through patience, experiencing painful violence, strong painful experiences, disturbing expansion of violence.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Rigorous or forceful method and powerful concentration.
+- Psychology: Undeterred effort and patient concentration.
+- Body/health: Painful experience is named without specifying a medical condition or establishing a diagnosis.
+- Social/relationship: Supervision systems and disregard for others in Witte's severe expression.
+- Events/manifestations: Large scientific tasks, losses of trading power, and disturbing expansion of violence.
+- Conflicts/notes: Forceful method is not equated with success; painful violence is also explicit.
+
+## Contradictions
+
+Forceful method is not equated with success; painful violence is also explicit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Vulcanus`: to proceed without regard for anyone, difficulties do not deter, to apply force, rigorous method.
-- Practical expression: influence of old knowledge, successful power of concentration, enormous tasks of science, losses of power in trade, and powerful success through patience.
+In `Saturn/Apollon = Vulcanus`, Vulcanus specifies the pair through rigorous method and exertion that is not deterred by difficulty in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds strong concentration and patient success, but also painful violence, trading-power losses, and disruptive expansion of force. The range includes determination and coercion without treating them as the same quality.
 
 ## Links
 

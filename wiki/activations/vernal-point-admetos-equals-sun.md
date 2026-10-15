@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Sun Admetos](../triads/vernal-point-sun-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Personal steadfastness in general. Corpse. Dwarf.
 
@@ -42,13 +46,27 @@ Personal steadfastness in general. Corpse. Dwarf.
 
 #### ABC Entry
 
-Blocked persons in public, depressed people in public life, corperlichc perseverance in public, personal steadfastness in public life, and center of public resistance
+- Source page: 54; PDF page: 26 (one-based spread).
+
+Blocked persons in public, depressed people in public life, bodily endurance in public, personal steadfastness in public life, and a center of public resistance
+
+## Comparative Schema
+
+- core meaning: Personal steadfastness or bodily endurance under public blockage.
+- psychology: Depressed people is attributed source wording.
+- body/health: Bodily endurance is named; corpse and dwarf are unexplained historical terms, not diagnoses.
+- social/relationship: People blocked in public life.
+- events/manifestations: A center of public resistance.
+- conflicts/notes: Witte's bodily labels remain source terms and do not define a person's worth or inevitable fate.
+
+## Contradictions
+
+Steadfastness and blockage describe different sides of the public situation. The isolated bodily terms have no supplied mechanism linking them to resistance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Sun`: personal steadfastness in general, corpse, and dwarf.
-- Practical expression: blocked persons in public, depressed people in public life, corperlichc perseverance in public, personal steadfastness in public life, and center of public resistance.
+In `Vernal Point/Admetos = Sun`, Sun specifies the pair through a person's endurance and position under public restriction. The [Witte entry](#witte-entry) states personal steadfastness; the [ABC entry](#abc-entry) makes this bodily and public in blocked people, endurance, and a center of resistance. Witte's isolated corpse and dwarf terms remain historical source associations with no explained mechanism, so the synthesis does not turn them into a personal diagnosis or forecast.
 
 ## Links
 

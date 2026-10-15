@@ -23,10 +23,12 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Moon/Mars = Jupiter`
 - Astronomicon formula: `R/U = V`
@@ -37,23 +39,36 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mars`
+- Source locator: printed p. 128; one-based PDF p. 124, Jupiter row checked on the actual scan.
+
 #### Witte Entry
 
 Fortunate though well regulated working conditions and working time. The affianced woman. The happy wife. Pregnancy. The rich or orderly home.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Mars`
+- Source locator: printed p. 180; one-based PDF p. 89.
+- Editorial translation: checked against the original German scan, including the activation glyph and paragraph boundary.
+
 #### ABC Entry
 
-Women's right to work, successful women's activity, women's financial activity, happy creation of a people, activating legal orders, women's right handling, people's right will, hour of work joy, and hour of legal action
+Women's right to work; successful women's activity; a woman's financial activity; a people's happy work; activating a sense of justice; a woman's legal action; a people's will for justice; an hour of joy in work; an hour of legal action.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mars`
+- Source locator: printed p. 120; one-based PDF p. 122, entry 0354 (Jupiter); actual row checked.
 
 #### Ebertin Entry
 
 The love of truth, openness, honesty, justice. A successful woman, the bride, the happy and expectant mother.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Moon/Mars midpoint`
+- Source locator: one-based PDF pp. 28–29, complete Jupiter entry crossing the page boundary; chapter begins on PDF p. 28.
 
 #### Sandbach Entry
 
@@ -62,7 +77,7 @@ Enthusiasm expressed forcefully and passionately, which may have the effect of w
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/MARS with Planets and Points`
-- Source page: `112`
+- Source page: `112` (printed); one-based PDF p. 113, Jup entry checked.
 
 #### Munkasey Entry
 
@@ -70,22 +85,21 @@ An increasing need to foster care and protection on those you feel are disadvant
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Activity and emotionally forceful initiative in relation to success, justice, support, or increased intensity. [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- psychology: Honesty and love of truth in Ebertin sit beside passionate enthusiasm and getting carried away in Sandbach. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: Witte's pregnancy and Ebertin's expectant mother are attributed historical examples, not evidence that the formula establishes pregnancy or fertility. [Witte](#witte-entry); [Ebertin](#ebertin-entry).
+- social/relationship: Happy partnership, care for disadvantaged people, women's work rights, and forceful expressions of belief. These source examples include both support and aggression. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- events/manifestations: Regulated favorable working conditions, legal action, financial activity, courageous promises, or an expansion of aggression toward ordinary people. [Witte](#witte-entry); [ABC](#abc-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: The favorable work and family examples do not cancel Sandbach's excessive emotion or Munkasey's collective aggression. Each remains part of the range.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ materially in valence: favorable work, justice, and family prospects coexist with excessive passion and expanded aggression. They are alternative emphases, not evidence that success or benevolence is guaranteed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mars = Jupiter`: courageous care, productive enthusiasm, and the ability to mobilize feeling in constructive or supportive ways. Main caution: overblown reaction: emotional force can become wasteful, preachy, or too certain of its own rightness.
+In `Moon/Mars = Jupiter`, Jupiter specifies the pair's activity through enlarged enthusiasm, claims to justice, or efforts to support others. The [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) entries supply favorable work, rights, and family examples. That expansion can also be forceful: [Sandbach](#sandbach-entry) describes passion that wards people off, and [Munkasey](#munkasey-entry) includes aggression as well as protection. The connecting theme is increased emotional initiative, with its constructive or excessive expression left open by the evidence.
 
 ## Links
 

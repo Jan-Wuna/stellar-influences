@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [Uranus MC Vulcanus](../triads/uranus-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Great excitement. Sudden exercise of personal power.
 
 #### ABC Entry
 
-Influenced psychic impulses, emanation from psychic energy, powerful scelic tensions, my technical influence, my dynamic energy, new psychic influence, and strong emotional arousal
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Influential inner impulses, renewal through psychic energy, powerful inner tensions, my technical influence, my dynamic energy, my surprising strength, new inner influence, strong inner arousal.
+
+## Comparative Schema
+
+- **Core meaning:** Sudden expression of personal power.
+- **Psychology:** Excitement, tension and strong arousal.
+- **Body/health:** Arousal and tension are not a diagnosis.
+- **Social/relationship:** Technical influence and influential inner impulses; no particular partnership outcome is supplied.
+- **Events/manifestations:** A sudden use of power.
+- **Conflicts/notes:** ABC names renewal through psychic energy, not emanation, and separately includes surprising strength. Tension and arousal remain descriptive source motifs rather than a diagnosis.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Witte's sudden personal power overlaps ABC's renewal, dynamic energy, surprising strength and strong arousal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Uranus` electrifies the axis through great excitement and sudden exercise of power.
-- Chart expression: abrupt assertion, explosive force, and a life path marked by surprising surges of influence, upheaval, or personal intensity.
+Uranus specifies `MC/Vulcanus` through great excitement and a sudden exercise of personal power in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds renewal, dynamic energy, surprising strength, strong inner arousal, tension and technical influence. This supports abrupt expression of force without turning the formula into a necessary upheaval or explosion.
 
 ## Links
 

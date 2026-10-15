@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node Hades Zeus](../triads/node-hades-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ To be criticized for short comings. To come into touch with the police on accoun
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `227`, one-based PDF p. `112`; exact activating-factor row.
+
 #### ABC Entry
 
-Dangerous fire connection, creative relationships in need, lack of effort in a connection, inadequate procreation connection, Y insists on procreation Y binding, goals of a criminal connection, and determined contacts from the past
+A dangerous fire connection, creative relationships in need, insufficient efforts within a connection, an inadequate procreative connection, forgoing a procreative connection, aims of a criminal connection, purposeful contacts from the past.
+
+## Comparative Schema
+
+- core meaning: Purposeful, creative, or fire-related contact within difficulty.
+- psychology: Criticism for shortcomings in Witte; lack of effort in ABC.
+- body/health: ABC includes inadequate procreative ties and forgoing a procreative connection as source examples; no medical condition is established.
+- social/relationship: Police contact on account of crime in Witte; creative relationships in need in ABC.
+- events/manifestations: Involvement with fire and determined contacts from the past.
+- conflicts/notes: The scan confirms forgoing a procreative connection; this attributed example does not establish a reproductive diagnosis.
+
+## Contradictions
+
+The fire theme overlaps, while creative ties in need and criticism are separate examples. ABC also names inadequate or forgone procreative ties, an additional attributed scope rather than a universal consequence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Zeus`: To be criticized for short comings. To come into touch with the police on account of crime. To be involved by fire.
-- Practical focus: to be criticized for short comings; also to come into touch with the police on account of crime.
+Zeus specifies Node/Hades through effort, purpose, or fire in a difficult connection. The [Witte entry](#witte-entry) names criticism for shortcomings, police contact on account of crime, and involvement with fire. The [ABC entry](#abc-entry) adds creative relations in need, insufficient effort, and purposeful contacts from the past. It separately names forgoing a procreative connection; this is an attributed example rather than a health prediction.
 
 ## Links
 

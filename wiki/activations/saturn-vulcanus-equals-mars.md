@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Mars Saturn Vulcanus](../triads/mars-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To be under guard, while working. To be compelled to work as a prisoner.
 
 #### ABC Entry
 
-Influential work in old age, working on energy problems, influx loss in work, enormous work tasks, concentrated violence activity, concentrated work power, problematic power action, ending violence activity, and loss of work power
+Influential work in old age, working on energy problems, loss of influence at work, immense work tasks, concentrated violent activity, concentrated working power, problematic exercise of power, disruptive violent activity, and losses of working strength.
+
+## Comparative Schema
+
+- core meaning: Work performed under concentrated power or compulsion.
+- psychology: No distinct character description; concentration is tied to work.
+- body/health: ABC names loss of working strength without a particular diagnosis.
+- social/relationship: Witte describes guarded or compulsory prisoner labor.
+- events/manifestations: Immense work tasks, energy problems and lost influence at work.
+- conflicts/notes: Forced labor is a severe source example; demanding work is a broader field.
+
+## Contradictions
+
+Witte's compulsory labor and ABC's concentrated work power differ in scope; neither makes every demanding task imprisonment.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Mars`: to be under guard, while working, to be compelled to work as a prisoner.
-- Practical expression: influential work in old age, working on energy problems, influx loss in work, enormous work tasks, and concentrated violence activity.
+Mars specifies Saturn/Vulcanus through labor bearing heavy demands and restrictions. Concentrated working power may address immense tasks, yet influence or working strength can be lost and the use of power become disruptive. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) gives guarded and compulsory labor as the severe expression; the [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) broadens the field to work and energy problems without making every instance coercive.
 
 ## Links
 

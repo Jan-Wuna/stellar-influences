@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,23 @@ Quickly defending your rights or fighting over any invasion on what you consider
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey Entry](#munkasey-entry), printed p. 250 (entry page).
+
+- Core meaning: Personal boundaries are defended quickly and forcefully.
+- Psychology: Munkasey describes a quick temper when others press or challenge one's attitudes.
+- Body/health: Exercise is explicit; no medical condition is established.
+- Social/relationship: Perceived invasions of personal space or rights can provoke a fight.
+- Events/manifestations: Rapid defence and exercising are the stated forms of action.
+- Conflicts/notes: This single 'With Itself' entry concerns perceived intrusion; it does not establish that every disagreement violates a right.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present; no comparison between independent sources can be made.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc = Mars`: Quickly defending one's rights or fighting over any invasion on what one consider to be one's personal space; a quick temper which is easily aroused by others who press one or question one's personal attitudes in life; exercising.
+In this repeated-factor formula, Mars specifies the Mars/Asc axis through a rapid defence of personal space or perceived rights. [Munkasey Entry](#munkasey-entry) connects this response with a temper readily aroused by pressure or challenges from others, and also names exercise. The bounded theme is immediate physical or interpersonal action, supported here by one source passage.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Hades = Cupido`
 - Astronomicon formula: `W/¢ = ¡`
 - Axis page: [Saturn/Hades](../axes/saturn-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 225.
+
 Marriage in a family with hereditary disease. Severe arguments or disagreements with partners, in the family or in a company.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community, common problems of the past, distress of a burdened community, lack of firsthand skills, lack of concentration of a community, pain in common distress, and hidden losses of a community
+- Source page: 357 (printed); PDF page: 177.
+
+Dangerous tasks of a community, shared problems from the past, grief within a burdened community, lack of serious art, deficient concentration within a community, pain in shared distress, hidden losses of a community.
+
+Translation checked against the full exact German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Family or communal life carries past problems, conflict, and shared distress.
+- Psychology: Grief within a burdened community and deficient concentration.
+- Body/health: Witte's hereditary-disease family example remains historical medical doctrine.
+- Social/relationship: Severe arguments within partnership, family, or company.
+- Events/manifestations: Dangerous communal tasks, hidden shared losses, and lack of serious art.
+- Conflicts/notes: Witte's hereditary-disease family example is historical doctrine, not a judgment about marriage or inheritance.
+
+## Contradictions
+
+Witte's hereditary-disease family example is historical doctrine, not a judgment about marriage or inheritance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Hades = Cupido`: marriage in a family with hereditary disease.
-- Practical expression: community, common problems of the past, distress of a burdened community, lack of firsthand skills, and lack of concentration of a community.
+In `Saturn/Hades = Cupido`, Cupido specifies the pair through conflict and burden within family, partnership, or community. The [Witte entry](#witte-entry) includes severe disagreements and a historical family-illness example; the [ABC entry](#abc-entry) adds past shared problems, grief, dangerous communal tasks, and hidden losses. Deficient concentration and lack of serious art remain specific communal associations rather than a general judgment of any family.
 
 ## Links
 

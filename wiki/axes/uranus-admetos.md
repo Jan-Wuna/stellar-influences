@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Admetos`
 - Astronomicon axis: `X/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Interpretation: [Read the interpretation](#derived-synthesis); the related activations specify distinct oriented formulas.
 
 ## Source Entries
 
@@ -72,13 +73,29 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 241.
+
 Sudden rupture-like separation. Shock commotion. Destruction through convulsive natural events. Earthquake. To break off. To break up. To break down. To tear up. Rags. Homicide. Accidents. Fissures, cracks, shreds. Separations by sudden breaks.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Uranus + Admetos`
+- Printed page: `384` (pair heading and keyword line); PDF page: `191` (spread `384-385`).
+
 #### ABC Pair Summary
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+An event involving blockage, restricting impulses, thorough reform, renewal of circulation or a cycle, sudden depression, a stabilizing event, technical blockage, technical compression, suppressed nervousness.
+
+- Translation checked against the German pair keyword line: `Blockade-Ereignis, einschränkende Impulse, gründliche Reform, Kreislauf-Erneuerung, plötzliche Depression, stabilisierendes Ereignis, technische Blockade, technische Verdichtung, unterdrückte Nervosität`. `Kreislauf-Erneuerung` retains the circulation/cycle ambiguity; the line does not specify which sense applies.
+
+## Comparative Schema
+
+- core meaning: sudden rupture or interruption, with a distinct second emphasis on blocked impulses, thorough reform, and stabilization ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: shock, suppressed nervousness, and Udo's sudden depression; the entries do not supply a broader personality diagnosis.
+- body/health: accidents and violent damage occur in Witte; Udo's circulation/cycle term is ambiguous and does not establish a medical condition.
+- social/relationship: abrupt separation and breaking off are explicit, without specifying a particular relationship or importing an activation's participants.
+- events/manifestations: fissures, cracks, breakdowns, earthquake-like rupture, technical blockage or compression, and a stabilizing or reforming event.
+- conflicts/notes: rupture and stabilization are materially different emphases. The ABC pair line supplies evidence for the latter; neither emphasis should erase the other.
 
 ## Related Activations
 
@@ -106,8 +123,9 @@ Sudden rupture-like separation. Shock commotion. Destruction through convulsive 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to sudden rupture-like separation. Shock commotion. Destruction through convulsive natural events. Earthquake. To break off. To break up. To break down. To tear up. Rags. Homicide. Accidents. Fissures, cracks, shreds. Separations by sudden breaks.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Admetos` concerns an abrupt interruption of continuity: something breaks, is blocked, or undergoes a thorough change in its established condition. The [Witte summary](#pair-summary) emphasizes rupture, shock, separation, and material cracking or breakdown. The [ABC pair summary](#abc-pair-summary) adds restricting impulses, technical blockage and compression, thorough reform, and a stabilizing event. This second emphasis prevents reading the pair only as destruction.
+
+The supported range thus runs from a sudden break to an interruption that consolidates or reforms a situation. Suppressed nervousness and sudden depression remain attributed Udo terms; his circulation/cycle wording does not establish a diagnosis. Earthquakes, homicide, and accidents are severe examples in Witte's entry, not outcomes that can be asserted from the unordered pair alone.
 
 ## Links
 

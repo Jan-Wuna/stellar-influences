@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Apollon](../axes/mercury-apollon.md)
 - Triad hub: [Mercury Kronos Apollon](../triads/mercury-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Apollon,” Kronos entry, PDF p. 170.
 
 Fashionable in speeches with many. Leading in scientific discussions.
 
@@ -42,13 +46,27 @@ Fashionable in speeches with many. Leading in scientific discussions.
 
 #### ABC Entry
 
-Authority of language science, special experiences in youth, dominance of scientific language, success of a young boss, successful independence of youth, news about state successes, and increasing successes of youth
+Source: “Merkur + Apollon,” Kronos entry, printed p. 263 / PDF p. 130. Translation checked against the German passage.
+
+Authority of linguistics, special experiences in youth, dominance of scientific conversations, success of a young chief, successful independence of youth, news about state successes, increasing successes of youth.
+
+## Comparative Schema
+
+- core meaning: Leadership and authority in scientific or linguistic exchange.
+- psychology: Independence and distinctive youthful experience.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Leading scientific discussions and a young chief's success.
+- events/manifestations: Successful youthful independence and reports of state success.
+- conflicts/notes: The source's fashionable speech is retained without making popularity or rank universal.
+
+## Contradictions
+
+Witte names fashionable speech and scientific leadership; ABC adds linguistic authority, independence and institutional success reports. These are related settings without a compulsory profession or rank.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Kronos` elevates the axis into leading and influential speech in learned settings.
-- Chart expression: authority in scientific discussion, recognized command of discourse, and an ability to lead many through fashionable, high-level, or respected communication.
+In `Mercury/Apollon = Kronos`, Kronos specifies scientific thought and extensive communication through leadership and authority in discussion. Witte includes fashionable speech with many and leading scientific discussions; ABC adds linguistic authority, youthful independence, and reports of a chief's or state's successes. These examples connect communication with prominence or independent standing, without requiring every person to hold office, possess expertise, or gain popularity. ([Witte](#witte-entry), PDF p. 170; [ABC](#abc-entry), printed p. 263 / PDF p. 130)
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Moon Pluto Cupido](../triads/moon-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Passing transformation. A people change its face, it changes the look and the be
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 408; PDF page 203.
+
 #### ABC Entry
 
-Development of a woman in the Community, joint development with women, joint development, development of the Community, development of the arts in the people, growing women's communities, and changes in a people's community
+Development of a woman within the community, shared development with a woman, shared emotional development, developing a sense of community, artistic development among a people, growing women's communities, changes within a people's community.
+
+## Comparative Schema
+
+- core meaning: Changes in a people's collective appearance and public conditions.
+- psychology: ABC names shared emotional development and developing a sense of community.
+- body/health: No bodily condition is established by the collective appearance wording.
+- social/relationship: Women's communities and changes in a people's community are ABC examples.
+- events/manifestations: Public transformation and artistic development among a people.
+- conflicts/notes: Gendered examples do not restrict the whole formula to women.
+
+## Contradictions
+
+Witte's 'passing transformation' and broader changes in a people's appearance need not mean permanent transformation. ABC's shared emotional development adds an inward dimension to its collective examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Moon`: passing transformation; A people change its face, it changes the look and the being; Changes in public conditions.
-- Practical expression: development of a woman in the Community, joint development with women, joint development, development of the Community, and development of the arts in the people.
+Moon specifies Pluto/Cupido through changes visible in a people or community. The [Witte entry](#witte-entry) describes altered public conditions and a people's changed appearance and way of being, while [ABC](#abc-entry) gives women's communities and artistic development among a people as examples. ABC also explicitly describes shared emotional development and developing a sense of community.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [MC Cupido Poseidon](../triads/mc-cupido-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Mental attitudes toward marriage, arts or community and to understand them from 
 
 spirit and soul together, clarity of a soul community, my spiritual community, my artistic idea, my cultural community, my spiritual arts, soul of a spiritual community, and connection between arts and culture
 
+## Comparative Schema
+
+- **Core meaning:** Understanding shared cultural and communal meaning.
+- **Psychology:** A comprehensive attitude toward art and community.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Marriage and cultural or spiritual community.
+- **Events/manifestations:** Artistic ideas and the connection between art and culture.
+- **Conflicts/notes:** The entries describe attitudes and associations, not an assured marriage.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 99 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; the stated range is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Cupido` socializes the axis through comprehensive understanding of marriage, art, and community.
-- Chart expression: a mental or spiritual orientation toward family, group life, and aesthetics, with the self seeking to understand communal bonds from a higher or wider viewpoint.
+Cupido specifies `MC/Poseidon` through a comprehensive understanding of marriage, art and community. The [Witte Entry](#witte-entry) names one's attitude to these bonds and activities; the [ABC Entry](#abc-entry) connects artistic ideas with a cultural or spiritual community. The unifying concern is how shared meaning takes form in communal and artistic life.
 
 ## Links
 

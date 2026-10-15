@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Saturn`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = W`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Saturn Vulcanus](../triads/sun-saturn-vulcanus.md)
@@ -44,11 +45,25 @@ Inhibition of physical strength. Diminished physical strength. To apply or to be
 
 Tasks of an energy center, burdening a person with power, violent separation of a man, hard power man, body force in old age, personal power loss, problems of a power center, and pain by corporal violence
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength is inhibited, burdened, or demanded under difficulty.
+- psychology: ABC includes the burden of power.
+- body/health: Witte's diminished strength and exertion in old age are attributed historical claims.
+- social/relationship: ABC names violent separation and personal loss of power.
+- events/manifestations: A watchman is Witte's concrete occupational example.
+- conflicts/notes: Being forced to exert strength differs from possessing abundant strength.
+
+## Contradictions
+
+Being forced to exert strength differs from possessing abundant strength. No direct contradiction is established within the available entry.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Saturn`: force under burden and strength expressed through endurance.
-- Practical expression: tasks of an energy center, burdening a person with power, violent separation of a man, hard power man, and body force in old age.
+Saturn specifies Sun/Vulcanus through inhibited or diminished strength and the burden of having to exert it. Witte's old-age example emphasizes effort still required under limitation, while ABC extends the burden to power loss and separation. The watchman is a concrete source example, not a necessary occupation. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

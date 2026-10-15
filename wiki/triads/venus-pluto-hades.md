@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Pluto Hades`
 - Astronomicon triad-set: `Q Z ¢`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Pluto/Hades = Venus](../activations/pluto-hades-equals-venus.md)
-- [Venus/Hades = Pluto](../activations/venus-hades-equals-pluto.md)
-- [Venus/Pluto = Hades](../activations/venus-pluto-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Hades = Venus](../activations/pluto-hades-equals-venus.md) | [Pluto/Hades](../axes/pluto-hades.md) | [Venus](../factors/venus.md) |
+| [Venus/Hades = Pluto](../activations/venus-hades-equals-pluto.md) | [Venus/Hades](../axes/venus-hades.md) | [Pluto](../factors/pluto.md) |
+| [Venus/Pluto = Hades](../activations/venus-pluto-equals-hades.md) | [Venus/Pluto](../axes/venus-pluto.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Pluto/Hades = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
-- `Pluto/Hades = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `410`
-- `Venus/Hades = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `183`
-- `Venus/Hades = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `285`
-- `Venus/Pluto = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `181`
-- `Venus/Pluto = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `281`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Pluto/Hades = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-hades-equals-venus.md#witte-entry), one-based PDF entry-start p. `258`.
+- `Pluto/Hades = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-hades-equals-venus.md#abc-entry), printed p. `410`.
+- `Venus/Hades = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-hades-equals-pluto.md#witte-entry), one-based PDF entry-start p. `183`.
+- `Venus/Hades = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-hades-equals-pluto.md#abc-entry), printed p. `285`.
+- `Venus/Pluto = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-pluto-equals-hades.md#witte-entry), one-based PDF entry-start p. `181`.
+- `Venus/Pluto = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-pluto-equals-hades.md#abc-entry), printed p. `281`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Hades = Venus`: This activation emphasizes unpleasant changes in affection or relationships; Loss of harmony through deteriorating conditions.
-- `Venus/Hades = Pluto`: p Changes in service relations.
-- `Venus/Pluto = Hades`: a harmonious development which is soon changing into the contrary.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

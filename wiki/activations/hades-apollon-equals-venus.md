@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `¢/¥ = Q`
 - Axis page: [Hades/Apollon](../axes/hades-apollon.md)
 - Triad hub: [Venus Hades Apollon](../triads/venus-hades-apollon.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -44,10 +45,23 @@ Through charity and friendliness poverty is relieved. Friendship, comradeship an
 
 Successful love service, dangerous freedom of love, dangerous arts trade, sorrow in love commerce, past love experiences, lack of love experiences, multiplication of harmony deficiency, and knowledge of past arts
 
+## Comparative Schema
+
+- **Core meaning:** Affection and help meet hardship, while relationships and art can also carry difficult experience.
+- **Psychology:** Attraction to occult subjects is explicit; romanticizing misery is not established.
+- **Body/health:** Poverty relief is described socially, without a distinct medical claim.
+- **Social/relationship:** Charity, comradeship, friendship, love, and their disappointments are central.
+- **Events/manifestations:** Helping people in need, difficult love experiences, art trade, and knowledge of older art are represented.
+- **Conflicts/notes:** Relief and relationship difficulty coexist as alternatives. Occult interest is a separate example, not proof of harmful conduct.
+
+## Contradictions
+
+No direct contradiction is established. The sources preserve supportive and difficult relational possibilities without requiring them to occur together.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Apollon = Venus`: grace and fellow-feeling arising within bleak conditions, but also to intimacy being shaped by bad experience and fascination with the hidden. Main caution: romanticizing misery or occultism instead of genuinely relieving suffering.
+In `Hades/Apollon = Venus`, Venus specifies the pair through friendship, affection, and art. The [Witte entry](#witte-entry) makes practical relief of poverty through charity and comradeship a central possibility, while retaining bad experiences in love and attraction to occult subjects (PDF entry start p. 280). The [ABC entry](#abc-entry) adds past or absent love experience, disharmony, art trade, and knowledge of older art (printed p. 442). The throughline is relationship or cultural activity meeting difficult circumstances; assistance should not disappear behind the adverse examples, and occult interest is not itself evidence of wrongdoing.
 
 ## Links
 

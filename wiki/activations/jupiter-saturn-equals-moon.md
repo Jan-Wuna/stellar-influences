@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Moon`
 - Astronomicon formula: `V/W = R`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 From house to house, in and out. Fortunate separation from a woman or from. Fortunate separations from other persons. Public buildings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successfully separated connection, joy and suffering of a connection, money loss in a connection, happy connections in old age, problems in a successful connection, legal problems of a connection, and satisfaction in a connection by perseverance
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+Success through the patience of a people, a successful people through perseverance, a successful woman in old age, a woman's financial losses, a woman's joy and sorrow, a happy woman despite pain, a woman's legal problems, and a disturbed sense of justice.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 226; one-based PDF p. 228, coded entry 0784.
 
 Changing moods, inclined to become easily upset. Annoyance through the female sex, changing relationships with women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 78, Jupiter/Saturn, Moon paragraph.
 
 To blow moral issues out of proportion - that is, to feel strongly like one should or should not do something, but to imbue the issue with such emotional energy that needless guilt is the result. To feel bad about not disciplining the self enough. One feels secure when working steadily and persistently on a project.
 
@@ -66,26 +76,27 @@ To blow moral issues out of proportion - that is, to feel strongly like one shou
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Planning for cyclical ups and downs; extending influence over business or social activities involving the public; a tendency to overestimate your remaining personal inventory or commodities reserve.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Emotional security and public affairs encounter fluctuation and change ([Sandbach Entry](#sandbach-entry)).
+- Psychology: Upset, needless guilt, and security through steady work are explicit possibilities.
+- Body/health: ABC mentions a woman happy despite pain, without specifying an illness or cause.
+- Social/relationship: Ebertin's statements about women remain historical gendered claims, not universal judgments.
+- Events/manifestations: Public buildings, separations, cyclical planning, and overestimated reserves are distinct examples.
+- Conflicts/notes: Witte's printed phrase from a woman or from is incomplete and remains unexpanded. The actual ABC Moon row is restored; the former connection paragraph belonged to Node. Sandbach's exact Moon paragraph is on PDF p. 78.
 
 ## Contradictions
 
-- None recorded yet.
+Steady work as a source of security and emotional fluctuation are different responses, not an established contradiction. The incomplete Witte phrase cannot be completed from context.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Moon`: feelings disciplined by duty, changing relations with women or the public, and the wish to feel safe by being persistent and responsible. Main caution: emotional overburden: moral or practical concerns can be felt too heavily, turning ordinary fluctuation into upset or needless guilt.
+In `Jupiter/Saturn = Moon`, Moon places the pair's fluctuation and discipline in feelings and public life. The [Sandbach Entry](#sandbach-entry) connects moral pressure with needless guilt, but also describes security through steady work; the [Ebertin Entry](#ebertin-entry) adds changing moods. The [Munkasey Entry](#munkasey-entry) gives an outward counterpart in cyclical planning and public activities. The [ABC Entry](#abc-entry) adds a people's success through patience and perseverance, together with a woman's joy, pain, financial or legal problems and success in old age. The common concern is managing changing conditions without assuming either permanent emotional instability or an assured stabilizing result.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Jupiter/Cupido = Poseidon`
 - Astronomicon formula: `V/¡ = ¨`
 - Axis page: [Jupiter/Cupido](../axes/jupiter-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 215; PDF p. 211.
+
 Familiar association with people of the same mental attitude or world concept.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+- Source reference: printed p. 333; PDF p. 165.
+
 Successful cultural community, knowledge of a legal community, money for a cultural community, common joy of truth, common joy of ethics, common clarity of law, happiness in spiritual community, and legal culture of the community
+
+## Comparative Schema
+
+- core meaning: Shared outlook and truth or ethics provide a basis for satisfying association.
+- psychology: The entries support common understanding, without proving that the shared belief is true.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Witte names familiar association with people of the same mental attitude or worldview.
+- events/manifestations: ABC gives cultural and spiritual communities, shared joy in truth or ethics, legal clarity, and cultural funding.
+- conflicts/notes: Similarity of outlook does not itself establish peace or moral superiority; those conclusions exceed the entries.
+
+## Contradictions
+
+- Shared worldview and cultural, ethical, or spiritual interests are compatible emphases. The entries contain no direct dispute about a particular belief.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Poseidon`: communal happiness resting on common ideals and understanding. It favors peaceful bonds formed through shared principles, education, philosophy, or spiritual outlook.
+In `Jupiter/Cupido = Poseidon`, Poseidon specifies the Jupiter/Cupido axis through an outlook held in common. Familiar association rests on a shared mental attitude or worldview, with cultural and spiritual communities, common joy in truth or ethics, legal clarity and cultural funds as specific expressions. Satisfaction lies in shared understanding; agreement alone does not establish that the outlook is correct. ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry))
 
 ## Links
 

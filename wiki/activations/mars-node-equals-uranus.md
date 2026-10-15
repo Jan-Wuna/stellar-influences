@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Uranus Node](../triads/mars-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Aggravations and excitements through them. Suddenly appearing unions or connections.
 
@@ -45,17 +49,23 @@ Aggravations and excitements through them. Suddenly appearing unions or connecti
 
 #### ABC Entry
 
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
 mediating work reforms, exciting actions during an encounter, new work connections, tensions in an energetic connection, technical work mediation, creating technical connections, and impulses of will in a relationship
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source: “Mars/Dragon's Head,” printed p. 217, entry 0753.
+
 Active cooperation, organizing activity or occupation. Sudden unions and associations, sudden experiences shared together, an upset or an excitement in an organization or within a community.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
 
 To suddenly come together with others for the purpose of doing something. A unique ability to get things done with other people or with groups.
 
@@ -70,22 +80,21 @@ Sudden disruptions when meeting with friends; accidental breaks in the thrust or
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden or excited cooperation, with new work connections and disruptions.
+- psychology: Excitement, tension, or detached presentation of information.
+- body/health: No medical effect is described.
+- social/relationship: Sudden unions and shared experiences; distinctive ability to work with groups.
+- events/manifestations: Work reforms, technical connections, organizing activity, and interrupted meetings.
+- conflicts/notes: Sudden productive gathering and sudden disruption are different possibilities; the entries do not make one inevitably become the other.
 
 ## Contradictions
 
-- None recorded yet.
+Excitement and tension coexist with Sandbach's effective joint action and Munkasey's detached presentation. Neither a uniformly agitated nor a uniformly harmonious style fits all entries.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Uranus`: dynamic teamwork, sudden shared experiences, and inventive or unconventional ways of mobilizing people. Main caution: instability in connection: the same force that rapidly unites can just as rapidly agitate, upset, or disrupt the group.
+In `Mars/Node = Uranus`, Uranus specifies shared action through sudden encounters, excited cooperation, and new ways of getting things done together. ABC includes work reforms and technical connections; Ebertin and Sandbach emphasize organizing or abruptly joining others for a purpose. Witte and Munkasey also name aggravation and disrupted meetings, while Munkasey retains detached presentations as another expression. Quick formation and interruption are therefore alternatives rather than a required cycle. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 217, entry 0753; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

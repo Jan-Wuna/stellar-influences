@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/g = T`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Triad hub: [Moon Mercury Node](../triads/moon-mercury-node.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `121`.
 
 #### Witte Entry
 
@@ -43,17 +46,23 @@ Correspondence with female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `174`; PDF p. `86`.
+
 #### ABC Entry
 
-Thinking of the connection with the woman, relationships of a young mother, talk about women's connections, news about parents' connections, communication with the woman's connections of a young woman, and connections with the female youth '
+Thinking about a connection with a woman, relationships of a young mother, conversations about women's connections, news about connections among peoples, connecting conversations with a woman, a young woman's connections, and connections with female youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source passage: printed p. `137`, entry `0424`.
 
 #### Ebertin Entry
 
 One's attitude toward associations. Desire to exchange ideas with the female sex. A critical attitude towards associations, an association of convenience.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `38` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +79,21 @@ Adapting to events and communicating effectively to others; the education you re
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Mercury specifies the pair through communication that establishes or examines emotional connections.
+- psychology: relating personal experience to others' needs accompanies a critical attitude toward associations in Ebertin.
+- body/health: no entry supplies a specific bodily or health claim.
+- social/relationship: correspondence, exchange of ideas, and speaking or writing that connects with another's emotions are explicit.
+- events/manifestations: group discussions of feelings, education opening opportunities, and news about connections among peoples are represented.
+- conflicts/notes: Ebertin also permits associations of convenience; communication does not guarantee emotional closeness or establish impressionable judgment.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's feeling connection and Ebertin's critical or convenient association describe differing motives for contact. They are not equivalent, but the entries do not assert that one excludes the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Mercury`: relational intelligence, connective language, and the ability to create belonging through words and attentive exchange. Main caution: impressionable judgment in groups: thoughts and opinions can drift too much with emotional atmosphere or social feedback.
+In `Moon/Node = Mercury`, Mercury specifies the pair as connection made through words, ideas, and discussion of feeling. [Sandbach](#sandbach-entry) describes communication that reaches another's emotions; [Munkasey, p. 136](#munkasey-entry) adds adapting personal experience to others' needs and group discussion. [Ebertin](#ebertin-entry) preserves a critical or practical approach to associations, so verbal contact need not always mean intimate rapport. The entries support communication as the medium of connection without establishing a tendency for opinions to drift with a group.
 
 ## Links
 

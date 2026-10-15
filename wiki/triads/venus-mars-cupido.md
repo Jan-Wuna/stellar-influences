@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Mars Cupido`
 - Astronomicon triad-set: `Q U ¡`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Mars/Cupido = Venus](../activations/mars-cupido-equals-venus.md)
-- [Venus/Cupido = Mars](../activations/venus-cupido-equals-mars.md)
-- [Venus/Mars = Cupido](../activations/venus-mars-equals-cupido.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Mars/Cupido](../axes/mars-cupido.md) | Venus | [Mars/Cupido = Venus](../activations/mars-cupido-equals-venus.md) |
+| [Venus/Cupido](../axes/venus-cupido.md) | Mars | [Venus/Cupido = Mars](../activations/venus-cupido-equals-mars.md) |
+| [Venus/Mars](../axes/venus-mars.md) | Cupido | [Venus/Mars = Cupido](../activations/venus-mars-equals-cupido.md) |
 
 ## Source Coverage
 
-- `Mars/Cupido = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `197`
-- `Mars/Cupido = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `308`
-- `Venus/Cupido = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `182`
-- `Venus/Cupido = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `282`
-- `Venus/Mars = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `271`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Mars/Cupido = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-cupido-equals-venus.md#witte-entry), one-based PDF entry-start p. `197`.
+- `Mars/Cupido = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-cupido-equals-venus.md#abc-entry), printed p. `308`.
+- `Venus/Cupido = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-cupido-equals-mars.md#witte-entry), one-based PDF entry-start p. `182`.
+- `Venus/Cupido = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-cupido-equals-mars.md#abc-entry), printed p. `282`.
+- `Venus/Mars = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-cupido.md#witte-entry), one-based PDF entry-start p. `176`.
+- `Venus/Mars = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-cupido.md#abc-entry), printed p. `271`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Venus`: love-based union, close acquaintance through shared work or family life, and marriage formed from genuine attraction.
-- `Venus/Cupido = Mars`: happy intercourse in married life.
-- `Venus/Mars = Cupido`: marital sex intercourse.
+The `Venus Mars Cupido` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

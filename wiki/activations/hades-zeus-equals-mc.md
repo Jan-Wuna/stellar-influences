@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Hades/Zeus = MC`
 - Astronomicon formula: `¢/£ = MC`
 - Axis page: [Hades/Zeus](../axes/hades-zeus.md)
@@ -36,18 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed p. 281; PDF p. 277.
+
 To refuse, to be negative. Inclined to idleness. To be hated, or to hate. Exposed to mean tricks. To be paralyzed, compelled to be inactive. Incendiary, arson. Personal connection with industry. To lose one’s business by fire.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-my service, my lack of goals, my dangerous goals, my personal achievements, my hidden achievements, my past achievements, my commitment to procreation, and my hidden soul guidance
+- Source reference: printed p. 438; PDF p. 218.
+
+My service at a fire, my leadership service, my lack of goal striving, my dangerous goals, my deficient achievements, my hidden achievements, my past achievements, my renunciation of procreation, and hidden guidance of the soul.
+
+## Comparative Schema
+
+- Core meaning: Personal service and aims alongside inactivity or deficient achievement.
+- Psychology: Refusal, negativity, idleness, hate, and lack of goal striving.
+- Body/health: Witte's paralysis wording concerns compelled inactivity in context; it is not a clinical diagnosis.
+- Social/relationship: Being hated or exposed to mean tricks; personal leadership service.
+- Events/manifestations: Industrial involvement, arson, business lost through fire, and hidden or past achievements.
+- Conflicts/notes: ABC's renunciation of procreation was mistranslated as commitment; a general destiny is not stated.
+
+## Contradictions
+
+
+ABC's hidden and past achievements qualify Witte's emphasis on idleness and compelled inactivity; the entries do not say that achievement is absent.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Zeus = MC`: vocation and life course being shaped by blocked effort, destructive impulse, or industrial danger. It can show a career marked by inactivity, hostile environment, or literal fire loss.
+In `Hades/Zeus = MC`, MC specifies the Hades/Zeus axis through one's own goals, activity, service, and exposure to obstruction. The [Witte Entry](#witte-entry) describes refusal or compelled inactivity, hating or being hated, and personal involvement with industry or fire loss. The [ABC Entry](#abc-entry) also preserves service, past or hidden achievements, dangerous goals, and a lack of goal striving. These passages concern the person's participation and blocked capacity to act; they do not establish a predetermined career or life course.
 
 ## Links
 

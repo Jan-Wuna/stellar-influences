@@ -1,0 +1,99 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Six concrete already-reviewed Uranus/Pluto source holds repaired; existing083 records amended in place, zero new full-review count.",
+  "actual_source_inspection": [
+    "verification/a079-083-udo-pdf185.png: actual PDF185 printed372–373, matching six glyph-owned rows personally inspected.",
+    "verification/a079-083-witte-pdf235.png: six matching Witte glyph rows personally inspected; Witte prose preserved."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-pluto-equals-neptune.md",
+      "old_abc": "Water and water increase by technology at the top",
+      "new_abc": "Subtle impulses of transformation, a creeping change in the air, a surprising change in the air, unrest through creeping changes, growing excitement through water, change in water through technology.",
+      "printed_page": 373,
+      "finding": "Restored six complete Neptune clauses beginning Feinstoffliche Transformations-Impulse and ending Wasser-Veränderung durch Technik. Following siehe oben belongs to Pluto."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-saturn.md",
+      "old_abc": "growing unrest due to losses and changing problems due to nervousness see above",
+      "new_abc": "Exciting changes in old age, new tasks of development, sudden change through separation, surprising development of separation, technical development involving losses, growing unrest through losses, changing problems through nervousness.",
+      "printed_page": 373,
+      "finding": "Restored seven Saturn clauses; old parser retained only the tail lung plus final two clauses and absorbed following Uranus siehe oben."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-venus.md",
+      "old_abc": "Harmonious impulses transform, sudden harmonious development, new artificial developments, sudden change of affection, surprising peace development, growing harmony impulses, and changing love tensions",
+      "new_abc": "Transforming harmonious impulses, sudden harmonious development, new artistic developments, a sudden change of affection, surprising development of peace, growing impulses of harmony, changing tensions in love.",
+      "printed_page": 372,
+      "finding": "All seven Venus clauses verified; Kunst-Entwicklungen corrected from artificial to artistic developments."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-vulcanus.md",
+      "old_abc": "Development, technical energy transformation, surprising force development Spiritual development impulses, cultural reform develop, new spiritual development, surprising unfolding of truth, change through spiritual impulses, and vegetable re-",
+      "new_abc": "Exciting changes in power, development of technical energies, mighty changes in technology, new strong impulses, sudden change of power, spontaneous unfolding of force or violence, technical transformation of energy, surprising development of strength.",
+      "printed_page": 373,
+      "finding": "Restored complete eight-clause Vulcanus row from Aufregende Macht-Veränderungen through überraschende Kraft-Entwicklung; removed absorbed Poseidon paragraph."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-zeus.md",
+      "old_abc": "sudden filtration change, surprising goals unfold exciting changes in the state, special exciting developments, great technical developments, restless developments in the state, state reform development, and growing",
+      "new_abc": "Strenuous developments of reform, the beginning of exciting changes, development of technical achievements, new purposeful developments, sudden changes through fire, a sudden change of leadership, surprisingly developing a drive toward a goal.",
+      "printed_page": 373,
+      "finding": "Restored seven Zeus clauses from Anstrengende Reform-Entwicklungen through überraschend Zielstreben entfalten; Führung is leadership, and following state-development material belongs Kronos."
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-poseidon.md",
+      "old_abc": "form development, growing mental tensions, and change through cultural events",
+      "new_abc": "Intellectual development impulses, developing cultural reform, new intellectual development, surprising unfolding of truth, change through spiritual impulses, rational development of reform, growing mental tensions, transformation through cultural events.",
+      "printed_page": 373,
+      "finding": "Restored all eight Poseidon clauses from Geistige Entwicklungs-Impulse through Wandlung durch Kultur-Ereignisse; repaired vernünftige Reform-Entwicklung and recovered opening formerly absorbed into Vulcanus."
+    }
+  ],
+  "records": [
+    {
+      "path": "wiki/activations/uranus-pluto-equals-neptune.md",
+      "sha256": "78e55d556579e1c3003d653934bcdc155099374ff762c01b07d316e26a39645a",
+      "source_section_sha256": "963a8f20053898d364126e19293ad984168ec68cbbb553fe625be9d9c0b51297",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-saturn.md",
+      "sha256": "38151e4f314a0d1611e04c4c156363abedc4b5b41e0027f4ffeb846a3dc213bf",
+      "source_section_sha256": "bb9bae4d4e971646a5f130d9467d829ba1301048d41ad5e7a20e2c075b094d49",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-venus.md",
+      "sha256": "221fd7a33c5d1ec883ad6427d7145da228d423c4ec4a3e2e7eacd98d49027945",
+      "source_section_sha256": "b9358d6de5f83caed27f91a86d04e7cae71726c42b2853c16e6a2fc2e2236dea",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-vulcanus.md",
+      "sha256": "4413b4c69dca18c49aeb432c877d10239f84cd52e8304496487337ba02598adb",
+      "source_section_sha256": "a1bf86ff2fa9293b9cc853e5cbb0a47a2f1f09a4743332a2a94d04f4d79e9615",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-zeus.md",
+      "sha256": "3a8080da8cb86f43f4e646ece44a2845d95559abc8a762316b72dc8e64580ef7",
+      "source_section_sha256": "b5aa3bf0078149751609014938c4f21337bbbaf01ef2b9c6ecd3c7684103f45d",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    },
+    {
+      "path": "wiki/activations/uranus-pluto-equals-poseidon.md",
+      "sha256": "5da8dc661deaff7fc81c3baa513c89ea076a6f87b01742b17aa8045d49a4a102",
+      "source_section_sha256": "5a87a47126d28f687993a99934a161c6067dc5601ff1f9063807983df89a2289",
+      "checks": "metadata/formula/adjacent anchor/route/schema6/other source prose/Links/relative targets passed"
+    }
+  ],
+  "verification": [
+    "Six complete page reads and canonical base-axis context read.",
+    "Actual diffs read in two groups; scoped identity/formula/anchor/route/schema6/other source preservation/Links and relative targets checks passed.",
+    "Scoped git diff --check passed."
+  ],
+  "same_scan_followup": [
+    "Unreviewed082 Uranus/Pluto=Jupiter/Hades/Kronos/Admetos must use own complete glyph-owned ABC185 rows rather than parser-shifted text. These pages remain in missing review queue; no new reviewed claim."
+  ],
+  "unresolved": []
+}

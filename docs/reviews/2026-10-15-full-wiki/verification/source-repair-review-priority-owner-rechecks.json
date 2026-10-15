@@ -1,0 +1,165 @@
+{
+  "scope": "Eight owner replacements independently rechecked against actual complete raw scan rows, baseline/current sections and unique amended full-page records. Seven prior material holds resolved; eighth Moon/Hades Neptune replaces inherited damaged text. No sample approval.",
+  "proof": [
+    {
+      "path": "wiki/activations/moon-hades-equals-cupido.md",
+      "before_sha256": "f3f28151ecd0759e90e138ed0400fa59deaa25fe788c8e08f065c06445fdb36a",
+      "after_sha256": "2989f7d7fbc263756aef4d5bc420b73bfc5763ae81b1810ce71afd1d77f03b66",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 1,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (Cupido row checked against the scan).\n\nPoor woman as a widow. Poor womans or a widows leisure hours. Fatal hour for family.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; one-based PDF page `96` (Cupido row checked against the scan).\n\nWoman from a shared past, shared service to women, shared emotional sorrow, community of older women, lack of feeling in the community, hour of danger for a community, a people's community of tradition.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Restored all actual ABC clauses with scan-checked printed/PDF locators.",
+        "Rebuilt six comparative categories, contradiction assessment and exact-oriented synthesis; preserved Witte prose.",
+        "Early route and adjacent synthesis anchor."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- Source passage: `Moon + Hades`; one-based PDF page `131` (Cupido row checked against the scan).\n \n@@ -10,2 +12,4 @@\n\n \n-Community policy and economic and social cohesion\n+- Source passage: `Mond + Hades`; printed p. `195`; one-based PDF page `96` (Cupido row checked against the scan).\n+\n+Woman from a shared past, shared service to women, shared emotional sorrow, community of older women, lack of feeling in the community, hour of danger for a community, a people's community of tradition.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mc.md",
+      "before_sha256": "2b71b0ce70492a5a2e1e8e36223afa8248d7a3804b65ecc618abe3de60b7f935",
+      "after_sha256": "290ec60534f20c4ec6ae6286e3432a3fcfa7f066e2a40735c5151b9aeefe0c07",
+      "ledger": "activations-042.jsonl",
+      "ledger_line": 2,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (MC row checked against the scan).\n\nDefamation through malicious women. To be enmeshed by bad women. Fiancee of low standards. Slandered, worried. Moment of loneliness or difficult circumstances for females. Tragically moment for the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; one-based PDF page `96` (MC row checked against the scan).\n\nDanger for my wife, danger for me in the hour, my emotional sorrow, my people in need, my renunciation of the woman, soul of a woman who serves, emotional distress of a people, emotional service to the woman, my people's past.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Restored all actual ABC clauses with scan-checked printed/PDF locators.",
+        "Rebuilt six comparative categories, contradiction assessment and exact-oriented synthesis; preserved Witte prose.",
+        "Early route and adjacent synthesis anchor."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+- Source passage: `Moon + Hades`; one-based PDF page `131` (MC row checked against the scan).\n \n@@ -10,2 +12,4 @@\n\n \n-My people is in need, my v is in need, a woman's soul, a people's soul, a man's soul, and my people's past\n+- Source passage: `Mond + Hades`; printed p. `194`; one-based PDF page `96` (MC row checked against the scan).\n+\n+Danger for my wife, danger for me in the hour, my emotional sorrow, my people in need, my renunciation of the woman, soul of a woman who serves, emotional distress of a people, emotional service to the woman, my people's past.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 9
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-neptune.md",
+      "before_sha256": "8422baee660b1481426f48cff1d0af08f748fc0b0065d9b85adc85276221425d",
+      "after_sha256": "e87edd52f4b2c3e9618ed07111c7518752e6840c02f13f15c44ac515f1e41536",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 1,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: one-based PDF page `131`, `MOON + HADES`, Neptune row; checked against the actual source text.\n\nPoor abandoned wife. Widow. Worries for the future, not seeing a way out. To be in low water, without resources.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `195`, PDF page `96`, `Mond + Hades`, Neptune row; all eight clauses checked against the scan.\n\nSource wording: \"Durch Not enttäuschte Frau, enttäuschende Vergangenheit eines Volkes, Feingefühl einer alten Frau, fremdes Volk in Not, Mangel einer Frau an Feingefühl, unbekannte Gefahr für die Frau, Unsicherheit durch Gemüts-Kummer, Wasser-Mangel eines Volkes\".\n\nEditorial translation, checked against the scan: A woman disappointed through hardship; a people's disappointing past; an older woman's sensitivity; a foreign people in need; a woman's lack of sensitivity; unknown danger for a woman; uncertainty through emotional grief; a people's shortage of water.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Accepted prior connected Neptune-specific synthesis and six-category schema after full reread; replaced generic contradiction boilerplate with the actual shared and collective range.",
+        "Replaced corrupted ABC cache with the exact eight-clause German quotation and scan-checked labeled translation; added verified WittePDF131 locator.",
+        "Restored sensitivity, disappointment, the past and collective need to the explanation/schema; preserved distinct emotional/material expressions and exact-oriented base-axis route."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: one-based PDF page `131`, `MOON + HADES`, Neptune row; checked against the actual source text.\n \n@@ -10,2 +12,6 @@\n\n \n-Women exchanged by need, exchangeable past of a people, F of an old woman, foreign people in need, lack of a woman's fine feeling, unknown danger to the woman, insecurity by feelings Kummer, and water deficiency of a people\n+Source reference: printed page `195`, PDF page `96`, `Mond + Hades`, Neptune row; all eight clauses checked against the scan.\n+\n+Source wording: \"Durch Not enttäuschte Frau, enttäuschende Vergangenheit eines Volkes, Feingefühl einer alten Frau, fremdes Volk in Not, Mangel einer Frau an Feingefühl, unbekannte Gefahr für die Frau, Unsicherheit durch Gemüts-Kummer, Wasser-Mangel eines Volkes\".\n+\n+Editorial translation, checked against the scan: A woman disappointed through hardship; a people's disappointing past; an older woman's sensitivity; a foreign people in need; a woman's lack of sensitivity; unknown danger for a woman; uncertainty through emotional grief; a people's shortage of water.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 8
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-uranus.md",
+      "before_sha256": "879c43cdd54f48c3dbc3cb1a1ee926e98c3da489876802fc044442f9ff796b7d",
+      "after_sha256": "06ff5fbf66bad935f0363d484dc3c2cff96a0c9aab412030aaf07128b801f89a",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 7,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nSource reference: one-based PDF page `131`, `MOON + HADES`, Uranus row; checked against the actual source text.\n\nBecoming a widow through accident. Sudden worries. To be impoverished suddenly.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSource reference: printed page `195`, PDF page `96`, `Mond + Hades`, Uranus row; all seven clauses checked against the scan.\n\nSource wording: \"Erregung einer bekümmerten Frau, plötzlicher Gemüts-Kummer, gefährliche Verluste für die Frau, Probleme im Volk durch die Vergangenheit, Reformen für ein Volk in Not, Spannungen durch Gefühls-Mangel, Stunde einer plötzlichen Gefahr\".\n\nEditorial translation, checked against the scan: Agitation of a worried woman; sudden emotional grief; dangerous losses for a woman; problems among a people because of the past; reforms for a people in need; tensions arising from a lack of feeling; an hour of sudden danger.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Accepted prior sudden-distress synthesis and schema; distinguished OCR/cache mismatch from doctrinal disagreement.",
+        "After personally inspecting actual ABC96/printed195, replaced the corrupted English with exact German quotation and labeled English translation: sudden emotional grief, reforms for a people in need, tensions from a lack of feeling.",
+        "Added verified Witte PDF131 locator and base-axis/evidence routes; carried restored collective reform/past motifs into bounded schema and synthesis."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -3,2 +3,4 @@\n\n #### Witte Entry\n+\n+Source reference: one-based PDF page `131`, `MOON + HADES`, Uranus row; checked against the actual source text.\n \n@@ -10,2 +12,6 @@\n\n \n-Excitement of a woman who is suffering, a heart attack, dangerous losses for the woman, problems in the people through the past, remorning for a people in need, tensions caused by a shortage of fish, and hour of a sudden danger\n+Source reference: printed page `195`, PDF page `96`, `Mond + Hades`, Uranus row; all seven clauses checked against the scan.\n+\n+Source wording: \"Erregung einer bekümmerten Frau, plötzlicher Gemüts-Kummer, gefährliche Verluste für die Frau, Probleme im Volk durch die Vergangenheit, Reformen für ein Volk in Not, Spannungen durch Gefühls-Mangel, Stunde einer plötzlichen Gefahr\".\n+\n+Editorial translation, checked against the scan: Agitation of a worried woman; sudden emotional grief; dangerous losses for a woman; problems among a people because of the past; reforms for a people in need; tensions arising from a lack of feeling; an hour of sudden danger.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 7
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-asc.md",
+      "before_sha256": "eb0151f206e625951638ffd2625014549a17fabbac452753c9e45f9bd1e417b4",
+      "after_sha256": "fd3196a633f3c4df45a90d932f1ecc1ee684e6f9d277578b83527fc648b6eb63",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 15,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 257 (one-based; entry start).\n\n#### Witte Entry\n\nChange in social conditions, relations. Transformation, changes in the social environment.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 408; PDF page 203.\n\n#### ABC Entry\n\nGerman passage (checked against the scan):\n\n> Entwicklung einer Orts-Gemeinschaft, gemeinsame Entfaltung mit dem Partner, gemeinsame Veränderung eines Ortes, Kunst-Entwicklungen in einem Ort, Umwelt-Veränderungen durch eine Gemeinschaft, zusammenhängende Veränderungen in einem Ort\n\nEditorial translation: Development of a local community, shared development with a partner, joint change of a place, artistic developments in a place, environmental changes through a community, interconnected changes in a place.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Transformation of social conditions and immediate relations.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity.",
+        "Replaced false 'Community policy and economic and social cohesion' with all six scan-verified clauses: local-community development, shared development with a partner, joint change of a place, local art, community environmental change, and interconnected local changes.",
+        "Retained the German passage beside an editorial translation; revised comparative schema, contradictions and source-linked synthesis to incorporate the verified reading."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -1,2 +1,4 @@\n\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n+\n+- Source locator: PDF page 257 (one-based; entry start).\n \n@@ -8,4 +10,10 @@\n\n \n+- Source locator: Printed page 408; PDF page 203.\n+\n #### ABC Entry\n \n-Community policy and economic and social cohesion\n+German passage (checked against the scan):\n+\n+> Entwicklung einer Orts-Gemeinschaft, gemeinsame Entfaltung mit dem Partner, gemeinsame Veränderung eines Ortes, Kunst-Entwicklungen in einem Ort, Umwelt-Veränderungen durch eine Gemeinschaft, zusammenhängende Veränderungen in einem Ort\n+\n+Editorial translation: Development of a local community, shared development with a partner, joint change of a place, artistic developments in a place, environmental changes through a community, interconnected changes in a place.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-hades.md",
+      "before_sha256": "c0ab825f8c1338f241c55355a4e7f9f4ccfe587b9d4fdf564b13bf8490841496",
+      "after_sha256": "fee364c72ffa9df8ede3d60334fab469cdae2ecedb8d41fa733045ec45fa6f02",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 16,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 257 (one-based; entry start).\n\n#### Witte Entry\n\nSad social and family conditions. Welfare department.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 409; PDF page 203.\n\n#### ABC Entry\n\nGerman passage (checked against the scan):\n\n> Entbehrungen einer Entwicklungs-Gemeinschaft, gefährliche Entwicklungen in der Gemeinschaft, gemeinsame Entwicklungen aus der Vergangenheit, kriminelle Entwicklung einer Gemeinschaft, mangelhafte Entwicklung einer Gemeinschaft\n\nEditorial translation: Privations in a community undergoing development, dangerous developments in the community, shared developments from the past, criminal development of a community, deficient development of a community.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Distressed social or family circumstances.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity.",
+        "Replaced false economic-cohesion/structural-funds text with all five scan-verified clauses: privation, dangerous community development, shared developments from the past, criminal development, and deficient community development.",
+        "Retained the German passage beside an editorial translation; revised comparative schema, contradictions and source-linked synthesis to incorporate the verified reading."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -1,2 +1,4 @@\n\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n+\n+- Source locator: PDF page 257 (one-based; entry start).\n \n@@ -8,4 +10,10 @@\n\n \n+- Source locator: Printed page 409; PDF page 203.\n+\n #### ABC Entry\n \n-Community policy, economic and social cohesion, and structural funds\n+German passage (checked against the scan):\n+\n+> Entbehrungen einer Entwicklungs-Gemeinschaft, gefährliche Entwicklungen in der Gemeinschaft, gemeinsame Entwicklungen aus der Vergangenheit, kriminelle Entwicklung einer Gemeinschaft, mangelhafte Entwicklung einer Gemeinschaft\n+\n+Editorial translation: Privations in a community undergoing development, dangerous developments in the community, shared developments from the past, criminal development of a community, deficient development of a community.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 5
+    },
+    {
+      "path": "wiki/activations/pluto-cupido-equals-mercury.md",
+      "before_sha256": "7632028be53fc227ced1333f7a353b129ac54a6b81b4a8d634911c5757af3a6e",
+      "after_sha256": "ceb2818c2737850fabe96845f10e83715fb0f03b923c75ba2146cbed7d69d804",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 21,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 257 (one-based; entry start).\n\n#### Witte Entry\n\nThe thoughts are on the changes in the family, or on general social conditions.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 408; PDF page 203.\n\n#### ABC Entry\n\nGerman passage (checked against the scan):\n\n> Entwicklung der Jugend in der Gemeinschaft, gemeinsame Verkehrs-Entwicklung, gemeinsame Sprach-Entwicklung, Gespräche über gemeinsame Entwicklungen, Jugend-Gemeinschaften im Wandel, wachsende Verkehrs-Gemeinschaft\n\nEditorial translation: Development of young people in the community, shared development of traffic or transport, shared language development, conversations about shared developments, youth communities undergoing change, a growing transport community.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Thinking about family and social change.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity.",
+        "Replaced false research/technological-development text with all six scan-verified clauses: youth development in community, shared traffic/transport and language development, conversations about common developments, changing youth communities, and a growing transport community.",
+        "Retained the German passage beside an editorial translation; revised comparative schema, contradictions and source-linked synthesis to incorporate the verified reading."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -1,2 +1,4 @@\n\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n+\n+- Source locator: PDF page 257 (one-based; entry start).\n \n@@ -8,4 +10,10 @@\n\n \n+- Source locator: Printed page 408; PDF page 203.\n+\n #### ABC Entry\n \n-Community programme, research and development, technological change, and research and technological development\n+German passage (checked against the scan):\n+\n+> Entwicklung der Jugend in der Gemeinschaft, gemeinsame Verkehrs-Entwicklung, gemeinsame Sprach-Entwicklung, Gespräche über gemeinsame Entwicklungen, Jugend-Gemeinschaften im Wandel, wachsende Verkehrs-Gemeinschaft\n+\n+Editorial translation: Development of young people in the community, shared development of traffic or transport, shared language development, conversations about shared developments, youth communities undergoing change, a growing transport community.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 6
+    },
+    {
+      "path": "wiki/activations/pluto-hades-equals-moon.md",
+      "before_sha256": "2a7f836431572404a011e68d70117d0126d52c31a50a4370c22b26b35a77de52",
+      "after_sha256": "7a46c65b57cf0a50d43bd7cce5bf425655c358bb1ba76de3043b0dbfac0271fc",
+      "ledger": "activations-060.jsonl",
+      "ledger_line": 42,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n- Source locator: PDF page 258 (one-based; entry start).\n\n#### Witte Entry\n\nPersons unreliable. Decline of people. People without discipline and order, excited about a nuisance, rebelling against corruption.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n- Source locator: Printed page 410; PDF page 204.\n\n#### ABC Entry\n\nGerman passage (checked against the scan):\n\n> Gefährliche Veränderung einer Frau, Entwicklungen aus der Vergangenheit eines Volkes, mangelhafte Gefühls-Entwicklung, Veränderungen für eine alte Frau, verborgene Gemüts-Veränderungen, wachsender Gefühls-Mangel\n\nEditorial translation: Dangerous change involving a woman, developments from the past of a people, deficient emotional development, changes for an old woman, hidden changes of mood, growing lack of feeling.",
+      "owner_repairs": {},
+      "owner_changes": [
+        "Difficult collective conditions and reactions against corruption.",
+        "Added six meaningful categories, bounded contradictions assessment, connected source-linked oriented interpretation, Identity route and adjacent anchor; retained source prose.",
+        "Added available source-audit locators with their printed/PDF systems and granularity.",
+        "Replaced society/vegetable mistranslations and restored the omitted hidden-mood clause. All six scan-verified clauses now include dangerous change involving a woman, a people's past, deficient emotional development, changes for an old woman, hidden mood changes, and growing lack of feeling.",
+        "Retained the German passage beside an editorial translation; revised comparative schema, contradictions and source-linked synthesis to incorporate the verified reading."
+      ],
+      "owner_unresolved": [],
+      "owner_full_read": true,
+      "baseline_diff": "--- \n\n+++ \n\n@@ -1,2 +1,4 @@\n\n ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n+\n+- Source locator: PDF page 258 (one-based; entry start).\n \n@@ -8,4 +10,10 @@\n\n \n+- Source locator: Printed page 410; PDF page 204.\n+\n #### ABC Entry\n \n-Dangerous change of a woman, developments from the past of a people, inadequate development of a society, changes for an old woman, and growing vegetable deficiency\n+German passage (checked against the scan):\n+\n+> Gefährliche Veränderung einer Frau, Entwicklungen aus der Vergangenheit eines Volkes, mangelhafte Gefühls-Entwicklung, Veränderungen für eine alte Frau, verborgene Gemüts-Veränderungen, wachsender Gefühls-Mangel\n+\n+Editorial translation: Dangerous change involving a woman, developments from the past of a people, deficient emotional development, changes for an old woman, hidden changes of mood, growing lack of feeling.",
+      "decision": "accepted_after_full_scan_recheck",
+      "abc_clauses_verified": 6
+    }
+  ]
+}

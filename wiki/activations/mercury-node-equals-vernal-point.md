@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Triad hub: [Vernal Point Mercury Node](../triads/vernal-point-mercury-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Node + Mercury`
+- Source reference: PDF p. 141 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ Exchange of ideas. News. General communication.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Merkur`
+- Source reference: printed p. 208; PDF p. 103 (one-based) (entry).
+
 #### ABC Entry
 
 encounters with youth in public, conversational relationships in public, media contacts in public life, public traffic connections, written connections in public, and language connections in public life
 
+## Comparative Schema
+
+- core meaning: Communication and exchange of ideas in public life. [Witte](#witte-entry); [ABC](#abc-entry).
+- psychology: The entries describe communication settings, not a specific inner disposition.
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Public conversational relationships, youth encounters, and media contacts. [ABC](#abc-entry).
+- events/manifestations: News circulation, written connections, and public traffic links. [Witte](#witte-entry); [ABC](#abc-entry).
+- conflicts/notes: Public scope is explicit; personal prominence or success is not established.
+
+## Contradictions
+
+No direct contradiction is identified; ABC expands Witte's brief communication statement with public settings.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Node = Vernal Point` projects the axis into general communication and shared news.
-- Chart expression: exchange of ideas in the open, ordinary circulation of information, and communication acting as a general public link rather than a private specialty.
+In `Mercury/Node = Vernal Point`, Vernal Point specifies the pair through public exchange. Ideas, news, written contacts, and conversations connect people in ordinary public life; youth encounters, media, and traffic links are concrete forms of that contact. [Witte](#witte-entry); [ABC](#abc-entry). The emphasis is on the setting and circulation of communication, with no claim here that a speaker gains prominence.
 
 ## Links
 

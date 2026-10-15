@@ -1,0 +1,16 @@
+=== lint_wiki before rebuild ===
+Invocation: tools/lint_wiki.py
+Lint passed
+ExitCode: 0
+=== rebuild_index ===
+Invocation: tools/rebuild_index.py
+<no stdout/stderr>
+ExitCode: 0
+=== query_manifest ===
+Invocation: tools/query_manifest.py
+<no stdout/stderr>
+ExitCode: 0
+=== lint_wiki after rebuild ===
+Invocation: tools/lint_wiki.py
+Lint passed
+ExitCode: 0

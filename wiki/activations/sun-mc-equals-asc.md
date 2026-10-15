@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Asc MC](../triads/sun-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ The mental and professional attitude toward others.
 
 #### ABC Entry
 
-Other person en and me, animated man in the field, soulful man as partner, my husband as partner, my criminal partner, my personal environment, minute of the day at the place, and partner for body and skeleton
+Source: ABC printed p. 62, supplied PDF p. 30, Meridian + Sonne, Asc row (eight clauses). Translation from the German scan:
+
+Other persons and I; an ensouled person in the surroundings; a soulful man as partner; my man as partner; my personal partner; my personal environment; minute of the day at the place; a partner for body and soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ One's individual attitude to other people, development of the personality. Perso
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: supplied Sandbach PDF p. 25, complete Ascendant paragraph under Sun/Midheaven.
 
 One projects oneself as being a master or an authority, or as being an im portant person in the world. At best this empowers others to feel the same way rather than feeling in any way diminished.
 
@@ -70,22 +76,21 @@ Increased concentration on needing to be forthright and honest in your assessmen
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: One’s personal and professional stance toward others.
+- psychology: Honest self-assessment and a projected sense of importance.
+- body/health: ABC names a partner for body and soul without giving a medical claim.
+- social/relationship: Personal relations, associations, and empowering others.
+- events/manifestations: Presenting accomplishments and their contribution to others.
+- conflicts/notes: The actual ABC row says personal partner; no criminality is implied.
 
 ## Contradictions
 
-- None recorded yet.
+The entries share a focus on self in relation to others. ABC explicitly names a personal partner and a partner for body and soul; these phrases neither imply criminality nor identify a specific relationship event.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Asc`: developed individuality, personal influence, and the ability to make one's path and purpose obvious to others. Main caution: overprojection of importance: identity can become too tied to status, authority, or the need to be recognized.
+In `Sun/MC = Asc`, Asc specifies Sun/MC personal direction through one’s attitude and presentation to others. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) center on personal or professional relations; the [Sandbach Entry](#sandbach-entry) describes presenting oneself as an authority in a way that can also empower others. The [Munkasey Entry](#munkasey-entry) gives this a practical test: an honest assessment of what one has accomplished and how it helps. The throughline is relating one’s own standing and contribution to the people encountered.
 
 ## Links
 

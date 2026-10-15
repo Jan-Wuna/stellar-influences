@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter MC](../triads/vernal-point-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Contemplation. One's own feeling of happiness. To be made happy.
 
@@ -42,13 +46,27 @@ Contemplation. One's own feeling of happiness. To be made happy.
 
 #### ABC Entry
 
-My success in publicity, my money for the general public, my happiness in public life, my public right, my joy in public life, my advantages in public life, and scelischcs happiness in public
+- Source page: 34; PDF page: 16 (one-based spread).
+
+My success in public, my money for the general public, my happiness in public life, my public right, my joy in public life, my advantages in public, and inner happiness in public
+
+## Comparative Schema
+
+- core meaning: Personally experienced success and happiness within public life.
+- psychology: Contemplation, felt happiness, and inner joy are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: One's resources and rights are related to the general public.
+- events/manifestations: Personal public success, money for the public, and public advantages.
+- conflicts/notes: MC is the personal standpoint in these entries; no career or timing layer is added.
+
+## Contradictions
+
+No direct contradiction is established. Inner happiness and outward public advantage are related possibilities rather than interchangeable measures.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = MC`: contemplation, one's own feeling of happiness, and to be made happy.
-- Practical expression: my success in publicity, my money for the general public, my happiness in public life, my public right, and my joy in public life.
+In `Vernal Point/Jupiter = MC`, the public theme is experienced as one's own happiness, rights, resources, and success. The [Witte entry](#witte-entry) emphasizes contemplation and the felt experience of being made happy. The restored [ABC entry](#abc-entry) connects that inward satisfaction with personal advantages and money offered to the general public. The picture thus links participation in public benefit with a personal sense of fulfillment.
 
 ## Links
 

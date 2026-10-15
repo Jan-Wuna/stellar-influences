@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Admetos`
 - Astronomicon formula: `W/¡ = ¦`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 To separate from a partnership or community for the purpose of being alone. To get into a tight spot through separation. Delayed separation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-End of a community task, consolidation through common problems, common depression problems, joint concentration on the raw material, serious grinning, separation from a depressed community, and deepening into common tasks
+- Source page: 355 (printed); PDF page: 176.
+
+End of a communal task, consolidation through shared problems, shared depression problems, shared concentration on primordial substance (Urstoff), thorough serious art, separation from a depressed community, deepening shared tasks.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Withdrawal or delayed separation alongside consolidation through shared problems.
+- Psychology: Desire to be alone; shared depression problems are also named.
+- Body/health: ABC's communal depression language is historical attribution, not a clinical finding.
+- Social/relationship: Leaving a community or partnership and possible difficulty after separation.
+- Events/manifestations: Completion of a communal task, deeper shared work, and thorough serious art.
+- Conflicts/notes: ABC's concentration on primordial substance is a distinct source association, without an explained mechanism.
+
+## Contradictions
+
+ABC's concentration on primordial substance is a distinct source association, without an explained mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Admetos`: to separate from a partnership or community for the purpose of being alone.
-- Practical expression: end of a community task, consolidation through common problems, common depression problems, joint concentration on the raw material, and serious grinning.
+In `Saturn/Cupido = Admetos`, Admetos specifies the pair through withdrawing from partnership or community in the [Witte entry](#witte-entry), which also retains delayed separation and difficulty after leaving. The [ABC entry](#abc-entry) adds consolidation through common problems and deeper shared tasks, alongside departure from a depressed community. Separation and consolidation remain different responses to the communal burden.
 
 ## Links
 

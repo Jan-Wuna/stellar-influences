@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Sun Saturn Uranus](../triads/sun-saturn-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,7 @@ Days of excitements, separations, obstacles. Sudden bodily separation. Overstrai
 
 #### ABC Entry
 
-Old technical center, serious personal surprise, gcduld with raised people, stort rhythm us of a man, personal separation from a person, sudden personal disturbances, and new tasks of the man
+An old technical center, agitating personal losses, a serious personal surprise, patience with agitated people, disturbed rhythm of a man, personal separation from a person, sudden personal disturbances, and new tasks for the person.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +72,21 @@ Finding an effective means of reconciling the forces for change with demands to 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal strength and self-expression tested by disruption and restraint.
+- psychology: Patience in discovering one's contribution; resistance or inflexibility under pressure.
+- body/health: Witte attributes overstrain, Ebertin tests of bodily strength, and Sandbach impaired vitality through repression.
+- social/relationship: Separation and attempts to reconcile change with traditional expectations.
+- events/manifestations: New personal tasks and introduction of reforms.
+- conflicts/notes: Historical male examples remain attributed; resilience is not an assurance of safety.
 
 ## Contradictions
 
-- None recorded yet.
+Resistance and constructive reconciliation coexist with overstrain and separation; the entries do not guarantee that personal strength resolves the tension.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Sun`: serious independence, principled rebellion, and the strength to keep reform anchored in reality. Main caution: self-dividing tension: will can become strained, contradictory, or overly reactive when restraint and liberation both demand priority.
+Sun specifies Saturn/Uranus through the person bearing the strain: resistance, overstrain and separation accompany the effort to express what is one's own. [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) links vitality with freedom and patient discovery of a distinctive contribution; [Ebertin](#ebertin-entry) (printed p. 247) describes severe tests of strength. [Munkasey](#munkasey-entry) (printed p. 284) adds the possibility of reconciling change with tradition. These are possible expressions of the tension, rather than proof that rebellion is always effective.
 
 ## Links
 

@@ -34,11 +34,15 @@ updated_at: 2026-06-20
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Mars Jupiter](../triads/sun-mars-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 A man happy in, or thought, his work (activity). Fortunate attack. Happy, promising actions, decisions or expressions of will. The happy fiance.
 
@@ -46,17 +50,23 @@ A man happy in, or thought, his work (activity). Fortunate attack. Happy, promis
 
 #### ABC Entry
 
+Source locator: printed page 148; PDF page 73 (one-based).
+
 Work pleasure of a person, successful work day, happiness through corporal work, human right to work, personal success actions, personal financial activity, man's legal activity, and activity in a money center
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+Source locator: printed page 90, coded entry 0234.
+
 A healthy expression of willpower and of natural urges or desires, urge to strive for something or achieve something in life, zeal and eagerness, courage. Successful activity, the happy husband, the bridegroom.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 13 (one-based), Sun/Jupiter Mars entry.
 
 Working to receive recognition for what one does. Asserting oneself with self- confidence, sometimes excessively. Enthusiasm for reaching goals stimulates one to act
 
@@ -80,22 +90,21 @@ Ober gives energetic success as teamwork, with examples such as a business deal,
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Enthusiastic, confident effort toward success, recognition or productive teamwork.
+- psychology: Courage, eagerness and restored confidence, with possible haste or excessive assertion.
+- body/health: Physical work and expression of natural urges are named without a specific bodily diagnosis.
+- social/relationship: Leadership, teamwork and the sources' happy-husband or bridegroom examples.
+- events/manifestations: Successful work, promising decisions, financial/legal activity and business agreements.
+- conflicts/notes: Excessive assertion and haste are explicit limits; waste, conflict or reckless expenditure are not independently established here.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in successful, confident action. Sandbach qualifies assertion as sometimes excessive and Munkasey adds haste; Ober's teamwork is a specific cooperative expression. Witte's printed “or thought” wording is retained as edition wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Mars`: entrepreneurial courage, strong execution, and growth through timely action. Main caution: overreach: enthusiasm can outrun judgment and turn into waste, conflict, or reckless expenditure of force.
+For `Sun/Jupiter = Mars`, enthusiasm and confidence move toward accomplishment. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) describe promising action, pleasure in work, eagerness and courage; [Sandbach](#sandbach-entry) adds acting for recognition, while [Munkasey](#munkasey-entry) emphasizes leadership and rebuilding confidence under trial. [Ober](#ober-entry) gives teamwork in a deal, agreement or contract as a concrete expression. The shared theme is effective pursuit of an aim, qualified by Sandbach's excessive assertion and Munkasey's haste; the happy-husband and bridegroom examples remain additional source particulars.
 
 ## Links
 

@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,27 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Mars Chiron Uranus`
 - Astronomicon triad-set: `U Chiron X`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Chiron/Uranus = Mars](../activations/chiron-uranus-equals-mars.md)
-- [Mars/Chiron = Uranus](../activations/mars-chiron-equals-uranus.md)
-- [Mars/Uranus = Chiron](../activations/mars-uranus-equals-chiron.md)
+- [Chiron/Uranus = Mars](../activations/chiron-uranus-equals-mars.md): base axis [Chiron/Uranus](../axes/chiron-uranus.md); activator [Mars](../factors/mars.md).
+- [Mars/Chiron = Uranus](../activations/mars-chiron-equals-uranus.md): base axis [Mars/Chiron](../axes/mars-chiron.md); activator [Uranus](../factors/uranus.md).
+- [Mars/Uranus = Chiron](../activations/mars-uranus-equals-chiron.md): base axis [Mars/Uranus](../axes/mars-uranus.md); activator [Chiron](../factors/chiron.md).
 
 ## Source Coverage
 
-- `Chiron/Uranus = Mars`: John, page `96`
-- `Mars/Chiron = Uranus`: John, page `69`
-- `Mars/Uranus = Chiron`: John, page `71`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints: [Chiron/Uranus = Mars](../activations/chiron-uranus-equals-mars.md#sandbach-entry) (PDF chapter-start p. 96; exact entry page unverified); [Mars/Chiron = Uranus](../activations/mars-chiron-equals-uranus.md#sandbach-entry) (PDF chapter-start p. 69; exact entry page unverified); [Mars/Uranus = Chiron](../activations/mars-uranus-equals-chiron.md#sandbach-entry) (PDF chapter-start p. 71; exact entry page unverified).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Mars`: healing through bold improvisation and courageous responsiveness. Main caution: impulsiveness or abandoning useful structure too quickly.
-- `Mars/Chiron = Uranus`: unique methods, inspired independence, and a refusal to resolve conflict by old formulas that no longer fit. The caution is restlessness or rebellion that breaks structure faster than it can integrate new guidance.
-- `Mars/Uranus = Chiron` encourages people to act more independently, intuitively, and in their own unexpected way.
+Mars, Chiron and Uranus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Chiron/Uranus](../axes/chiron-uranus.md)
+- [Mars/Chiron](../axes/mars-chiron.md)
+- [Mars/Uranus](../axes/mars-uranus.md)
 - [Mars](../factors/mars.md)
 - [Chiron](../factors/chiron.md)
 - [Uranus](../factors/uranus.md)

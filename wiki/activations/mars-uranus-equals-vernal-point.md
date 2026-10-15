@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
 - Triad hub: [Vernal Point Mars Uranus](../triads/vernal-point-mars-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Uranus,” PDF p. 194.
 
 To be indignant about something. General excitement. Rebellion. Uproar.
 
@@ -42,13 +46,27 @@ To be indignant about something. General excitement. Rebellion. Uproar.
 
 #### ABC Entry
 
+Source: “Mars + Uranus,” printed p. 302 (PDF p. 150).
+
 exciting actions in public, eventful actions in public, arousal of public will, exciting activity in public life, technical work in public, and surprising activity in public
+
+## Comparative Schema
+
+- core meaning: Exciting, eventful, or surprising activity in public life.
+- psychology: Indignation and arousal of public will.
+- body/health: No bodily or medical effect is described.
+- social/relationship: General excitement, rebellion, and collective uproar.
+- events/manifestations: Public technical work as well as agitation or surprising events.
+- conflicts/notes: ABC includes work without requiring rebellion; public excitement need not take one fixed form.
+
+## Contradictions
+
+Witte emphasizes indignation and uproar; ABC includes technical and other public activity. These are different expressions rather than an explicit disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Vernal Point` makes excitement, rebellion, and uproar collective and publicly felt.
-- Chart expression: general agitation, indignation, rebellion, and social climates charged with abrupt disruptive force.
+In `Mars/Uranus = Vernal Point`, Vernal Point specifies dynamic and surprising activity through public life. Witte describes indignation, rebellion, and general uproar, while ABC also includes eventful or technical work in public and the arousal of public will. Their overlap is conspicuous collective activity; the work-related examples keep the reading broader than disruption alone. ([Witte](#witte-entry), PDF p. 194; [ABC](#abc-entry), printed p. 302 / PDF p. 150)
 
 ## Links
 

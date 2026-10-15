@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Neptune`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = Y`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Neptune](../triads/sun-venus-neptune.md)
@@ -45,7 +46,11 @@ Overly sensitive in matters of love. Coolness in expressing affection. Unhappy l
 
 #### ABC Entry
 
-Fine feeling of a gentle man, secret love in the day, personal Licbcs exchange, personal harmony in the air, prsonlichc Vorlicbe for Wac;ser, Vcrneinung corporal love, and preference of a man for metaphysics
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, neptune row (seven clauses). Translation from the German scan:
+
+Fine sensitivity of a beautiful person; secret love during the day; personal disappointment in love; personal harmony in the air; personal preference for water; denial of physical love; a man's preference for metaphysics.
+
+ABC's personal harmony in the air is printed but its concrete setting is unspecified.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,23 @@ Bringing elements of fantasy when showing your affection or charm toward others;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love is colored by fantasy, idealism, and disappointment.
+- psychology: Refined tastes coexist with confused estimates of love or worth.
+- body/health: No medical diagnosis is established.
+- social/relationship: Sensitivity or coolness can complicate the expression of affection.
+- events/manifestations: Fantasies of love and love without prospects are explicit.
+- conflicts/notes: Idealism and disappointment are alternatives within the entries, not proof of a contradiction.
 
 ## Contradictions
 
-- None recorded yet.
+Idealism and disappointment remain different possibilities. ABC's personal harmony in the air is literal source wording without a specified setting or mechanism.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Neptune`: soulful artistry, ideal love, and a selfhood softened by imagination, empathy, and beauty. Main caution: idealized identity in love: charm and affection can become too vague, projected, or insufficiently bounded in reality.
+Neptune specifies Sun/Venus as love shaped by imagination and ideals, with refined aesthetic feeling but an uncertain grasp of what affection promises. Fantasy may enrich expression, yet confusion, coolness, or disappointment can follow when imagined love and the actual relationship diverge. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

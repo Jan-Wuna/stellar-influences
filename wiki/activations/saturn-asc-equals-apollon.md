@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Apollon`
 - Astronomicon formula: `W/Asc = ¥`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 Frequently obliged to take leave of others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Extension of an old place, serious trade partner, extension of environmental prob lems, problematic environmental experiences, multiplication of environmental problems, wider environmental tasks, increased disturbances in the place, and growing losses of a place
+- Source page: 115 (printed); PDF page: 56.
+
+Expansion of an old place, a serious trading partner, expansion of environmental problems, problematic environmental experiences, multiplication of environmental problems, extensive environmental tasks, increased disturbances at the place, growing losses of a place.
+
+Translation and full row boundaries checked against the German activator glyph.
+
+## Comparative Schema
+
+- Core meaning: Repeated parting and expanding environmental tasks or problems.
+- Psychology: The brief entries do not develop an individual emotional profile.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: Frequent leave-taking and a serious trading partner.
+- Events/manifestations: Expansion of an old place, environmental disturbances, and growing local losses.
+- Conflicts/notes: Expansion includes larger tasks and larger problems; it is not uniformly advantageous.
+
+## Contradictions
+
+Expansion includes larger tasks and larger problems; it is not uniformly advantageous.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Apollon`: frequently obliged to take leave of others.
-- Practical expression: extension of an old place, serious trade partner, extension of environmental prob lems, problematic environmental experiences, and multiplication of environmental problems.
+In `Saturn/Asc = Apollon`, Apollon specifies the pair through repeatedly taking leave of others in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) broadens the environmental setting: an old place expands, a trading partnership is serious, and tasks, disturbances, or losses multiply. The emphasis on scale preserves growth of difficulty as well as growth of place.
 
 ## Links
 

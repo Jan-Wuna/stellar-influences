@@ -1,0 +1,471 @@
+[
+  {
+    "path": "wiki/activations/mc-kronos-equals-asc.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF73: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF44, printed90: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf044.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mc-mc-equals-poseidon.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF57: exact oriented paragraph and all changed words/heading/locator checked. Printed flooding example explicitly confirmed; connecting explanation is absent, retained without extrapolation. Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf057.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-admetos-equals-vernal-point.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF171: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF131, printed264: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf131.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-apollon-equals-moon.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF170: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF130, printed262: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf130.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-kronos-equals-apollon.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF169: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF129, printed261: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf129.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-mars-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF160: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF120, printed242: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf120.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF151, printed149, code0471: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF43; chapter start PDF42 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-mars-equals-vernal-point.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF160: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF120, printed242: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf120.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-pluto.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF62: exact oriented paragraph and all changed words/heading/locator checked. Alternate Pluto P glyph is separate from Logical thinking prose; removal verified against actual scan. Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf062.png"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF33, printed69: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf033.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF176, printed174, code0575: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF54; chapter start PDF53 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF62: exact oriented paragraph and all changed words/heading/locator checked. Restored source period after body personally confirmed. Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf062.png"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF33, printed68: New locator checked against actual Sun row; unchanged inherited translation is excluded from certification.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf033.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF175, printed173, code0567: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF54; chapter start PDF53 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-mc-equals-vernal-point.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF62: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-witte-pdf062.png"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF33, printed68: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf033.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+    "sources": [
+      {
+        "source": "Munkasey",
+        "scope": "Actual PDF163, printed162: heading, exact oriented row and new reference checked. Actual With Itself Saturn row literally prints disobedience obeying instructions on how to behave. Ambiguity retained; no reconstructed interpretation certified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-munkasey-pdf163.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-asc.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF163: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF123, printed248: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf123.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF161, printed159, code0516: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF48–49; chapter start PDF47 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-moon.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF163: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF123, printed248: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf123.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF160, printed158, code0508: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF48; chapter start PDF47 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-uranus-equals-vernal-point.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF163: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF123, printed248: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf123.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-venus-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF159: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF119, printed240: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf119.png"
+        ]
+      },
+      {
+        "source": "Ebertin",
+        "scope": "Actual PDF148, printed146, code0459: exact coded passage and new locator checked directly in raw text. Inherited quotation outside the new reference/flagged scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF41; chapter start PDF41 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "Munkasey",
+        "scope": "Actual PDF149, printed148: heading, exact oriented row and new reference checked. Added heading/entry-page reference confirmed; unchanged inherited body excluded outside the flagged scope.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-vulcanus-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF172: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF132, printed266: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf132.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/mercury-zeus-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF168: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF128, printed258: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf128.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/moon-admetos-equals-sun.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF135: exact oriented paragraph and all changed words/heading/locator checked. Death and timing assertions are historical source language, not a forecasting rule. Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF100, printed202: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf100.png"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/moon-asc-equals-saturn.md",
+    "sources": [
+      {
+        "source": "Witte",
+        "scope": "Actual PDF81: exact oriented paragraph and all changed words/heading/locator checked.  Unchanged inherited prose outside this bounded scope excluded.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      },
+      {
+        "source": "ABC",
+        "scope": "Actual PDF50, printed103: Complete repaired glyph-owned row and every newly added locator checked.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf050.png"
+        ]
+      },
+      {
+        "source": "Sandbach",
+        "scope": "Exact oriented full paragraph actual PDF39; chapter start PDF39 checked directly in raw text. New exact reference and retained source words verified.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-limit-raw-pages.txt"
+        ]
+      }
+    ],
+    "verified_by": "/root/source_check_saturn"
+  }
+]

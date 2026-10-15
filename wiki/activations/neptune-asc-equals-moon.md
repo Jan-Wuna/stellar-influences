@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Moon`
 - Astronomicon formula: `Y/Asc = R`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To be influenced by others. Evil female influence. Doubtful female acquaintances, or classes of people in general. Fraudulent matters in the public.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Exchanged female partner, expectations of another woman, delicate female partner, weak woman as partner, insecurity of the partner struggle, refinement of the refugees to the partner, insecure woman on the spot, and water as an environment of a people
+Disappointed female partner, expectations of another woman, sensitive female partner, weak woman as partner, uncertainty of the partner's feelings, refinement of feelings toward the partner, insecure woman at the location, and water as the surroundings of a people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287`, entry code `1024`.
 
 #### Ebertin Entry
 
 States of emotional disharmony, dependence on the influences of one's environment, peculiarities in emotional life. Emotional suffering, an unfavorable relationship with females.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `112–113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ To experience temporary states of confusion and moodiness. The emotional need to
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Added compassion for the feelings and circumstances of others; an increased tend
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional sensitivity to others and the environment, with dependence or misreading among the possibilities.
+- psychology: moodiness, identification with ideals, and vulnerability to being idealized are explicit.
+- body/health: emotional suffering is Ebertin's historical description; no bodily diagnosis is supplied.
+- social/relationship: compassion and responsiveness coexist with susceptibility to others' needs and influence.
+- events/manifestations: public or consumer sensitivity, disappointed partnership, and public fraud are distinct examples.
+- conflicts/notes: Witte's evil-female wording and the sources' gendered associations are historical claims, not judgments about women generally.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize adverse influence and emotional suffering. Sandbach and Munkasey retain security through ideals and compassion, while also describing vulnerability to misreading or being swayed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Moon`: tenderness, psychic receptivity, and the ability to embody softness, care, or quiet emotional awareness. Main caution: enmeshment: identity can become too mood-dependent, porous, or vulnerable to projection and emotional drain.
+In Neptune/Asc = Moon, Moon specifies the pair through feelings shaped by others and the surrounding environment. The [Ebertin entry](#ebertin-entry) describes emotional disharmony and dependence; [ABC](#abc-entry) adds uncertain partner feelings and their refinement (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) connects security with ideals and susceptibility to being misread, while [Munkasey](#munkasey-entry) adds compassion and responsiveness to public needs. These themes distinguish caring receptivity from being readily swayed. [Witte's](#witte-entry) adverse gendered language remains attributed historical wording, without a general claim about women.
 
 ## Links
 

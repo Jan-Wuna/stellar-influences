@@ -27,24 +27,34 @@ updated_at: 2026-04-21
 - Triad-set: `Saturn Chiron Uranus`
 - Astronomicon triad-set: `W Chiron X`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Chiron/Uranus = Saturn](../activations/chiron-uranus-equals-saturn.md)
-- [Saturn/Chiron = Uranus](../activations/saturn-chiron-equals-uranus.md)
-- [Saturn/Uranus = Chiron](../activations/saturn-uranus-equals-chiron.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Uranus = Saturn](../activations/chiron-uranus-equals-saturn.md) | [Chiron/Uranus](../axes/chiron-uranus.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Chiron = Uranus](../activations/saturn-chiron-equals-uranus.md) | [Saturn/Chiron](../axes/saturn-chiron.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Chiron](../activations/saturn-uranus-equals-chiron.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Chiron](../factors/chiron.md) |
 
 ## Source Coverage
 
-- `Chiron/Uranus = Saturn`: John, page `96`
-- `Saturn/Chiron = Uranus`: John, page `87`
-- `Saturn/Uranus = Chiron`: John, page `88`
+John Sandbach is the only source currently represented on these three linked activation pages. The locators below are PDF chapter starts, not verified exact entry pages. This source-bounded coverage does not imply a search of other works.
+
+- `Chiron/Uranus = Saturn`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-uranus-equals-saturn.md#sandbach-entry), one-based PDF chapter-start p. `96`.
+- `Saturn/Chiron = Uranus`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-chiron-equals-uranus.md#sandbach-entry), one-based PDF chapter-start p. `87`.
+- `Saturn/Uranus = Chiron`: [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-uranus-equals-chiron.md#sandbach-entry), one-based PDF chapter-start p. `88`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Saturn`: healing through disruption of rigid patterns and to slow freedom gained by confronting limitation. Main caution: resisting the very surprises that are trying to free one.
-- `Saturn/Chiron = Uranus` gives flashes of insight into the purpose of restriction and a gift for organizing life in a spiritually revealing way. It can make blocked patterns suddenly intelligible; the caution is disruptive certainty or brilliance that is not grounded in practical care.
-- `Saturn/Uranus = Chiron` helps others face the fear of being themselves and recognize the spiritual value of their uniqueness. It can awaken original insight without losing seriousness; the caution is not to push individuation faster than the person can safely integrate it.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

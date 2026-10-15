@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
 - Triad hub: [Zeus Kronos Admetos](../triads/zeus-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 300, Kronos + Admetos, Zeus row.
 
 Difficult beginning of a great enterprise within narrow bounds. Special order. Special commission or position during war.
 
@@ -42,13 +46,29 @@ Difficult beginning of a great enterprise within narrow bounds. Special order. S
 
 #### ABC Entry
 
-Special perseverance achievements, blocked pursuit of self governingness, restricted state support, end of creative self governingness, end of state support, design of an important primordial substance, and fundamental superiority through goal striving
+- Source reference: printed p. 463; one-based PDF p. 230, Kronos + Admetos, Zeus row.
+
+Special achievements of perseverance, blocked pursuit of independence, restricted state leadership, end of creative independence, end of a state leadership, shaping an important primordial material, and thorough superiority through striving toward a goal.
+
+## Comparative Schema
+
+- **Core meaning:** A major undertaking beginning within narrow limits or under a special mandate.
+- **Psychology:** Perseverance and goal-directed striving are ABC themes.
+- **Body/health:** No body or health interpretation is given.
+- **Social/relationship:** Witte includes a special commission or position during war.
+- **Events/manifestations:** A difficult enterprise beginning, a special order, or blocked creative independence.
+- **Conflicts/notes:** ABC describes restrictions or an end to state leadership, rather than a promise of material aid.
+
+Evidence: [Witte entry](#witte-entry), PDF p. 300 (entry start); [ABC entry](#abc-entry), printed p. 463.
+
+## Contradictions
+
+A constrained undertaking and perseverance are compatible themes. Witte's wartime commission is a specific example; ABC's leadership and creative-independence clauses do not make war a necessary setting.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Zeus`: a difficult beginning for a large undertaking within narrow bounds, a special order, or a commission tied to exceptional conditions such as war.
-- Chart expression: concentrated strategic action under constraint, with ambition forced to operate through a highly specific or limited mandate.
+In `Kronos/Admetos = Zeus`, Zeus specifies the pair through purposeful work conducted within narrow bounds. The [Witte entry](#witte-entry) gives a difficult beginning to a great enterprise, a special order, or a wartime commission; the [ABC entry](#abc-entry) adds perseverance and limits on creative independence. The exact focus is a restricted mandate or undertaking, without making war a necessary setting.
 
 ## Links
 

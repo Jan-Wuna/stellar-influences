@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Hades Admetos`
 - Astronomicon triad-set: `S ¢ ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Admetos = Sun](../activations/hades-admetos-equals-sun.md)
-- [Sun/Admetos = Hades](../activations/sun-admetos-equals-hades.md)
-- [Sun/Hades = Admetos](../activations/sun-hades-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Admetos = Sun](../activations/hades-admetos-equals-sun.md) | [Hades/Admetos](../axes/hades-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Hades](../activations/sun-admetos-equals-hades.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Hades](../factors/hades.md) |
+| [Sun/Hades = Admetos](../activations/sun-hades-equals-admetos.md) | [Sun/Hades](../axes/sun-hades.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Hades/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `284`
-- `Hades/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `444`
-- `Sun/Admetos = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `169`
-- `Sun/Hades = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `112`
-- `Sun/Hades = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `161`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `284`.
+- `Hades/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-admetos-equals-sun.md#abc-entry), printed p. `444`.
+- `Sun/Admetos = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-hades.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-hades.md#abc-entry), printed p. `169`.
+- `Sun/Hades = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-hades-equals-admetos.md#witte-entry), one-based PDF entry-start p. `112`.
+- `Sun/Hades = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-hades-equals-admetos.md#abc-entry), printed p. `161`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos = Sun`: days lived in an oppressed mood, a person with many lacks, very few needs, and an outward life marked by deprivation.
-- `Sun/Admetos = Hades`: This formula emphasizes lack of things of household and death through exhaustion.
-- `Sun/Hades = Admetos`: This formula emphasizes illness through the soil or graves and waste matter.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

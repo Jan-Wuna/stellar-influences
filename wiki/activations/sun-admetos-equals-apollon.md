@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Apollon Admetos](../triads/sun-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Amply supplied with furniture or utensils for daily use. Elevation of the ground. Statistics of the soil. Large estates, landed property. Owner of huge possessions. Experience in matters concerning the soil.
 
@@ -42,12 +46,27 @@ Amply supplied with furniture or utensils for daily use. Elevation of the ground
 
 #### ABC Entry
 
-see above
+Source locator: printed page 169; PDF page 83 (one-based).
+
+Blocked freedom of a man, restriction of personal success, success through personal endurance, firmly established personal knowledge, personal success through thoroughness, deepening personal knowledge, and increasing personal depression.
+
+## Comparative Schema
+
+- core meaning: Witte emphasizes substantial material provision and land; ABC emphasizes endurance, thoroughness and restricted or achieved success.
+- psychology: Established or deepened knowledge; ABC also lists increasing depression.
+- body/health: Physical endurance is a capacity in ABC, not a diagnosis.
+- social/relationship: Property ownership and restricted personal freedom.
+- events/manifestations: Large estates, household equipment, soil statistics or expertise, and success through thoroughness.
+- conflicts/notes: The entries have different emphases; ABC's former “see above” belonged to the following Admetos row.
+
+## Contradictions And Comparison Notes
+
+Witte's concrete land and household examples and ABC's personal success or restriction are complementary scopes, not independent corroboration of every detail. ABC explicitly retains both success through endurance and impeded success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Apollon`: amply supplied with furniture or utensils for daily use and elevation of the ground.
+For `Sun/Admetos = Apollon`, [Witte](#witte-entry) gives a concrete picture of substantial provision: extensive property, household equipment and experience or statistics concerning soil. [ABC](#abc-entry) adds success through endurance and thoroughness, with established or deepening knowledge, while also allowing restricted freedom, restricted success and increasing depression. These are distinct material and personal expressions of the exact formula; neither extensive possessions nor successful effort is guaranteed by the other.
 
 ## Links
 

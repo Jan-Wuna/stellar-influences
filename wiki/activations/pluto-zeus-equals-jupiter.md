@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Zeus = Jupiter`
 - Astronomicon formula: `Z/£ = V`
 - Axis page: [Pluto/Zeus](../axes/pluto-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 259.
+
 Gladly accepted duties. Satisfaction out of performance of duty.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful change through efforts, joy over growing achievements, developing filthy pleasure, creative legal development, different financial management, beneficial filthy change, growing filthy success, and changing financial objectives
+- Source page: 412 (printed); PDF page: 205.
+
+Successful change through exertion, joy in growing achievements, developing joy in leadership, creative legal development, changed financial management, advantageous change of leadership, growing leadership success, changing financial goals.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Successful effort and satisfaction in carrying out duties.
+- Psychology: Glad acceptance of duties and joy in growing achievements.
+- Body/health: No medical correspondence is supplied in these exact entries.
+- Social/relationship: Leadership success and legal or financial developments.
+- Events/manifestations: Creative legal development, changed financial management, and advantageous leadership change.
+- Conflicts/notes: The favorable emphasis does not establish a guaranteed financial outcome.
+
+## Contradictions
+
+The favorable emphasis does not establish a guaranteed financial outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Zeus = Jupiter`: gladly accepted duties; Satisfaction out of performance of duty.
-- Practical expression: successful change through efforts, developing filthy pleasure, creative legal development, and different financial management.
+In `Pluto/Zeus = Jupiter`, Jupiter specifies the pair through duties willingly accepted and satisfaction in their performance, as the [Witte entry](#witte-entry) states. The [ABC entry](#abc-entry) links successful change to effort and growing achievements, extending the range to leadership, law, and financial management. The shared theme is satisfaction through productive effort rather than effortless reward.
 
 ## Links
 

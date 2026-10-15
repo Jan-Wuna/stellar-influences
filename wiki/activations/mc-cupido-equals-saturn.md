@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Saturn MC Cupido](../triads/saturn-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ The own sense of community encounters hindrances. To be a serious companion. The
 
 #### ABC Entry
 
-Common soul pain, separated soul community, I at the inhibited in the community, my duties in the community, my serious skill, my losses in the community, and soul burdened community
+- Source passage: `Meridian + Cupido`; printed p. `85`; one-based PDF page `41` (complete oriented row checked against the raw scan).
+
+Shared pains of the soul, disturbed soul community, I am inhibited within the community, my tasks within the community, my serious art, my losses through the community, inwardly burdened community.
+
+## Comparative Schema
+
+- **Core meaning:** Burden or hindrance within communal feeling.
+- **Psychology:** Serious companionship and a burdened inner state are explicit.
+- **Body/health:** Source language about soul pain is emotional description, not a medical finding.
+- **Social/relationship:** Divorce, duties, and losses through community are named.
+- **Events/manifestations:** A liking for funeral music is a distinct artistic detail.
+- **Conflicts/notes:** ABC names a disturbed community, inhibition and serious art; its soul-pain language remains emotional description, with Witte's divorce and funeral music separate examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Saturn` burdens the axis through hindrance, separation, and sobered community feeling.
-- Chart expression: blocked belonging, seriousness after relational loss, and a communal or artistic tone marked by heaviness, restraint, or mourning.
+Saturn specifies `MC/Cupido` through hindrance and seriousness in belonging. Disturbance, inhibition, communal tasks and losses can weigh on group life, while Witte adds the state of mind after divorce and a liking for funeral music; these are specific possibilities rather than a prediction of divorce or bereavement. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

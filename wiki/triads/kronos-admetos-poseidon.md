@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Kronos Admetos Poseidon`
 - Astronomicon triad-set: `¤ ¦ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Poseidon = Kronos](../activations/admetos-poseidon-equals-kronos.md)
-- [Kronos/Admetos = Poseidon](../activations/kronos-admetos-equals-poseidon.md)
-- [Kronos/Poseidon = Admetos](../activations/kronos-poseidon-equals-admetos.md)
+- [Admetos/Poseidon = Kronos](../activations/admetos-poseidon-equals-kronos.md): base axis [Admetos/Poseidon](../axes/admetos-poseidon.md); activator [Kronos](../factors/kronos.md).
+- [Kronos/Admetos = Poseidon](../activations/kronos-admetos-equals-poseidon.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Poseidon](../factors/poseidon.md).
+- [Kronos/Poseidon = Admetos](../activations/kronos-poseidon-equals-admetos.md): base axis [Kronos/Poseidon](../axes/kronos-poseidon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `312`
-- `Admetos/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `477`
-- `Kronos/Admetos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `463`
-- `Kronos/Poseidon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `303`
-- `Kronos/Poseidon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `467`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Poseidon = Kronos](../activations/admetos-poseidon-equals-kronos.md#witte-entry) (PDF entry-start p. 312); [Kronos/Admetos = Poseidon](../activations/kronos-admetos-equals-poseidon.md#witte-entry) (PDF entry-start p. 300); [Kronos/Poseidon = Admetos](../activations/kronos-poseidon-equals-admetos.md#witte-entry) (PDF entry-start p. 303).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Poseidon = Kronos](../activations/admetos-poseidon-equals-kronos.md#abc-entry) (printed p. 477); [Kronos/Admetos = Poseidon](../activations/kronos-admetos-equals-poseidon.md#abc-entry) (printed p. 463); [Kronos/Poseidon = Admetos](../activations/kronos-poseidon-equals-admetos.md#abc-entry) (printed p. 467).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Kronos`: elite instruction, special training, and the authority to educate or form others at a high level.
-- `Kronos/Admetos = Poseidon`: that firm understanding requires depth, withdrawal, and sustained search beneath appearances.
-- `Kronos/Poseidon = Admetos`: highly spiritual or cultural work meant for only a few and the formation of a true intellectual or cultural elite.
+Kronos, Admetos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Poseidon](../axes/admetos-poseidon.md)
+- [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Poseidon](../factors/poseidon.md)

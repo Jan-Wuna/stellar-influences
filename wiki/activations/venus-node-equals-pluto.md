@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Pluto Node](../triads/venus-pluto-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Changes or transformations in love relations.
 
 #### ABC Entry
 
-Development of links with the artist, Fricdens contact group, development of contact joy, changes in harmony, growing harmony in connection with each other, changing peace contacts, and developing benevolence in connections
+- Source reference: printed p. 211; one-based PDF p. 104, Venus/Node, Pluto row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Development of connections to art, developing peace contacts, unfolding joy in contact, changes in a harmonious connection, growing harmony in a connection, changing peace contacts, and developing benevolence in connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Intensity by artists or financiers; the power that you or others bring or show t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Change and intensity within love connections.
+- psychology: Strong attraction and growth through experiencing love deeply.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Transformative or inseparable unions and attraction to people or groups.
+- events/manifestations: Changing relationships, intensified attitudes, and disputes over power without corresponding work.
+- conflicts/notes: Possessiveness or inability to leave is not stated; Ebertin's inseparable union remains his specific wording.
 
 ## Contradictions
 
-- None recorded yet.
+Growing harmony, inseparable union, and power-related trouble are differing possibilities. The entries do not supply one inevitable outcome for every relationship.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Pluto`: compelling rapport, profound artistic or relational influence, and ties that alter the native's social field deeply. Main caution: possessive alliance: attraction and cooperation can become controlling, obsessive, or difficult to leave cleanly.
+In `Venus/Node = Pluto`, Pluto specifies the Venus/Node connection through change and increased intensity. The [Witte entry](#witte-entry) names transformations in love relations, and the [Sandbach entry](#sandbach-entry) describes growth through deeply felt love and attraction to people or groups. The [Ebertin entry](#ebertin-entry) includes an inseparable union, while [Munkasey](#munkasey-entry) adds power brought into encounters and trouble when power is wanted without the required work. The supported range includes development through love and difficulty in how influence is exercised.
+
+The [ABC entry](#abc-entry) gives this development concrete settings in art connections, peace contacts, unfolding joy in contact and developing benevolence.
 
 ## Links
 

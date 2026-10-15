@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Neptune = MC`
 - Astronomicon formula: `R/Y = MC`
 - Axis page: [Moon/Neptune](../axes/moon-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `128` (entry start; one-based).
+
 #### Witte Entry
 
 Sensibility. Touchiness. The sense of smell, aroma. State of dreaming. To live in a dream-world. Not facing the realities of life, not able to recognize them or to recognize them in due course. Mentally impressed through secrecies of female persons.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `188`, PDF p. `93` (entry).
+
 #### ABC Entry
 
-Exchanged people sccle, my people is exchanged, my fine wife, my exchanged friends, my wife, my wife's soul, my wife's future, and my people's future
+A disappointed collective soul, my people is disappointed, my sensitive wife, my disappointed feelings, my future wife, weakness of my wife, the soul of a sensitive woman, a woman's unsettled soul, and the future of my people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `133`, entry `0409`.
 
 #### Ebertin Entry
 
 A refined, sensitive and inspired character, artistic talent and disposition. The experience of being gripped by forebodings.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `36` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ The notoriety you gain about your ability to visualize and explain future option
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal sensitivity, imagination, and intuition in one's direction or work ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: inspiration, artistic disposition, touchiness, foreboding, and difficulty facing reality are named.
+- body/health: Witte includes smell and aroma; ABC names a wife's weakness without defining a condition.
+- social/relationship: personal feelings, a wife, a people, and commitments to others are examples.
+- events/manifestations: intuitive professional activity, explaining future options, and unfulfilled guarantees are stated.
+- conflicts/notes: artistic disposition does not establish a caring vocation; psychic language remains the source's model.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's inspired artistic character and Sandbach's intuitive professional approach differ from Witte's failure to face reality and Munkasey's unfulfilled promises. These are qualified strengths and difficulties, without evidence that one inevitably produces the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Neptune = MC`: artistic or caring vocation, inspired public sensitivity, and direction guided by intuition or symbolic meaning. Main caution: drift in outer role: purpose can become too vague, idealized, or quietly draining to sustain well.
+In Moon/Neptune = MC, MC specifies the pair through personal sensitivity and an intuitive approach to direction or work. [Ebertin](#ebertin-entry) gives inspiration and artistic disposition, and [Sandbach](#sandbach-entry) describes pursuing a profession with subtle instinctiveness (PDF p. 36). [ABC](#abc-entry) keeps the meaning personal through disappointed feelings, a sensitive wife, and the future of one's people (printed p. 188, PDF p. 93).
+
+The limit is whether imagination remains connected to what can be recognized and carried out. [Witte](#witte-entry) names living in a dream-world and not facing reality; [Munkasey](#munkasey-entry) contrasts explaining future options with guarantees left unfulfilled through dreaming (p. 128). Witte's smell and aroma remain separate sensory meanings within the entry.
 
 ## Links
 

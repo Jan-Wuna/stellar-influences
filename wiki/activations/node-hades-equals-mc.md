@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Hades](../axes/node-hades.md)
 - Triad hub: [Node MC Hades](../triads/node-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -40,15 +42,29 @@ To be forced to deal with base and vulgar people. To have to stand for insults a
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source reference: printed p. `226`, one-based PDF p. `112`; exact activating-factor row.
+
 #### ABC Entry
 
-Inadequacy of the Scelen connection, my incompatibilities in a connection, my secret obligation, my night cile in the connection, my connection with tradition, mental difficulties in distress, and scelic distress in connexion
+A deficient soul connection, my privations in a connection, my secret connection, my disadvantages in the connection, my connection to tradition, emotional relationships in distress, emotional distress in a relationship.
+
+## Comparative Schema
+
+- core meaning: Personal exposure to abusive, difficult, or professionally compromised relationships.
+- psychology: Enduring insult or abuse in Witte; ABC names privations, secrecy, disadvantages and emotional distress within a relationship.
+- body/health: No bodily or clinical diagnosis is established.
+- social/relationship: Being forced to deal with abusive people or professional criminal contacts in Witte.
+- events/manifestations: Witte includes a “fence” as a separate occupational example.
+- conflicts/notes: ABC's emotional distress is an attributed relational description, not a clinical diagnosis.
+
+## Contradictions
+
+The entries support personal involvement in difficult ties. ABC's privations, secret connection and emotional distress extend beyond Witte's criminal-contact setting; the tradition link is not inherently criminal.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = MC`: To be forced to deal with base and vulgar people. To have to stand for insults and abuse. To be connected professionally with criminals. A “fence”.
-- Practical focus: to be forced to deal with base and vulgar people; also to have to stand for insults and abuse.
+MC specifies Node/Hades through one's personal involvement in a difficult connection. The [Witte entry](#witte-entry) describes having to endure insults or abuse and professional contact with criminals; its “fence” example is a particular setting. The [ABC entry](#abc-entry) adds personal privations and disadvantages, a secret connection, tradition, and emotional distress within a relationship. These descriptions do not establish a psychological diagnosis.
 
 ## Links
 

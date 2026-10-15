@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Node Cupido`
 - Astronomicon triad-set: `S g ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Cupido = Sun](../activations/node-cupido-equals-sun.md)
-- [Sun/Cupido = Node](../activations/sun-cupido-equals-node.md)
-- [Sun/Node = Cupido](../activations/sun-node-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Cupido = Sun](../activations/node-cupido-equals-sun.md) | [Node/Cupido](../axes/node-cupido.md) | [Sun](../factors/sun.md) |
+| [Sun/Cupido = Node](../activations/sun-cupido-equals-node.md) | [Sun/Cupido](../axes/sun-cupido.md) | [Node](../factors/node.md) |
+| [Sun/Node = Cupido](../activations/sun-node-equals-cupido.md) | [Sun/Node](../axes/sun-node.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Node/Cupido = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `149`
-- `Node/Cupido = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `224`
-- `Sun/Cupido = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `111`
-- `Sun/Cupido = Node`: Udo Rudolph - ABC for Planetary Pictures, page `158`
-- `Sun/Node = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `141`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Cupido = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-cupido-equals-sun.md#witte-entry), one-based PDF entry-start p. `149`.
+- `Node/Cupido = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-cupido-equals-sun.md#abc-entry), printed p. `224`.
+- `Sun/Cupido = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-cupido-equals-node.md#witte-entry), one-based PDF entry-start p. `111`.
+- `Sun/Cupido = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-cupido-equals-node.md#abc-entry), printed p. `158`.
+- `Sun/Node = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-cupido.md#witte-entry), one-based PDF entry-start p. `102`.
+- `Sun/Node = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-cupido.md#abc-entry), printed p. `141`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Sun`: Marriages. Forms of society. Associations.
-- `Sun/Cupido = Node`: This formula emphasizes a family tie or connection and community.
-- `Sun/Node = Cupido`: This formula emphasizes family ties and close community bonds.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: Node/Cupido = Sun retains one men's-community example beside personal and art-related connections; it does not establish a universal gender rule.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

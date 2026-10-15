@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Poseidon = MC`
 - Astronomicon formula: `£/¨ = MC`
 - Axis page: [Zeus/Poseidon](../axes/zeus-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: PDF p. 296, Zeus + Poseidon, MC row; checked against the scan.
+
 To firmly stand by one’s conviction, To lead mentally. To take over the mental leadership. To be under a mental compulsion. To know ways and means of getting out. To convince and to be able to prove.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-animated culture configuration, refined creative spirit, fiery spirit soul, my spiritual goal, my clear goals, my cultural achievements, my truth proclaiming, and creative spirit soul
+Reference: printed p. 458 (PDF p. 228), Zeus + Poseidon, MC row; checked against the German scan.
+
+Soulful cultural creation, a soulful creative spirit, a fiery spirit-soul, my spiritual striving toward goals, my spiritual leadership, my clear aims, my cultural achievements, my testimony to truth, and a creative spirit-soul.
+
+## Comparative Schema
+
+- Core meaning: Personal commitment to creative thought, conviction, and intellectual leadership.
+- Psychology: Standing by conviction, convincing or proving, and mental compulsion in Witte's wording.
+- Body/health: Soul and spirit-soul are spiritual images; no bodily diagnosis is supplied.
+- Social/relationship: Taking mental leadership and offering testimony.
+- Events/manifestations: Personal cultural accomplishment, persuasion, proof, and finding ways out.
+- Conflicts/notes: Firm conviction may involve direction or pressure; it does not prove a belief true.
+
+## Contradictions
+
+The German scan supports soulful rather than "refined" creative spirit and restores the omitted personal spiritual leadership. Compulsion remains a source motif, not a clinical claim.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Poseidon = MC`: To firmly stand by one’s conviction, To lead mentally. To take over the mental leadership. To be under a mental compulsion. To know ways and means of getting out. To convince and to be able to prove.
-- Practical expression: animated culture configuration, refined creative spirit, fiery spirit soul, my spiritual goal, and my clear goals.
+In `Zeus/Poseidon = MC`, MC specifies Zeus/Poseidon as a personally owned direction of thought: one's aims, creative work, leadership, and testimony. The [Witte entry](#witte-entry) stresses conviction, persuasion, and finding ways through difficulty; the [ABC entry](#abc-entry) connects these with soulful cultural effort. Personal commitment gives an idea direction and expression.
+
+Witte also includes compulsion, so firmness need not mean confidence alone. Neither that phrase nor spirit-soul imagery establishes a medical condition.
 
 ## Links
 

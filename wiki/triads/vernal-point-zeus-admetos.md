@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Zeus Admetos`
 - Astronomicon triad-set: `VP £ ¦`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Vernal Point/Admetos = Zeus](../activations/vernal-point-admetos-equals-zeus.md)
-- [Vernal Point/Zeus = Admetos](../activations/vernal-point-zeus-equals-admetos.md)
-- [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Vernal Point/Admetos = Zeus](../activations/vernal-point-admetos-equals-zeus.md) | [Vernal Point/Admetos](../axes/vernal-point-admetos.md) | Zeus |
+| [Vernal Point/Zeus = Admetos](../activations/vernal-point-zeus-equals-admetos.md) | [Vernal Point/Zeus](../axes/vernal-point-zeus.md) | Admetos |
+| [Zeus/Admetos = Vernal Point](../activations/zeus-admetos-equals-vernal-point.md) | [Zeus/Admetos](../axes/zeus-admetos.md) | Vernal Point |
 
 ## Source Coverage
 
-- `Vernal Point/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `53`
-- `Vernal Point/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `55`
-- `Vernal Point/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `50`
-- `Vernal Point/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `49`
-- `Zeus/Admetos = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `454`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Vernal Point/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-admetos-equals-zeus.md#witte-entry), one-based PDF entry-start p. `53`.
+- `Vernal Point/Admetos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-admetos-equals-zeus.md#abc-entry), printed p. `55`.
+- `Vernal Point/Zeus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-zeus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `50`.
+- `Vernal Point/Zeus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-zeus-equals-admetos.md#abc-entry), printed p. `49`.
+- `Zeus/Admetos = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `293`.
+- `Zeus/Admetos = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-vernal-point.md#abc-entry), printed p. `454`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Zeus`: This formula emphasizes to start to tackle a difficult job and fire in the earth such as lava.
-- `Vernal Point/Zeus = Admetos`: This formula emphasizes a difficult problem is attacked, eruption of the earth, and earthquake.
-- `Zeus/Admetos = Vernal Point`: To face new problems in general. A new beginning, new environment, new circumstances.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Cupido Vulcanus](../triads/mars-cupido-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 To show great energies in the family, in community, also in art. To build up a great organization.
 
@@ -42,13 +46,27 @@ To show great energies in the family, in community, also in art. To build up a g
 
 #### ABC Entry
 
-influential work community, shared work force, violent activity of a community, violent actions against of a community, will to power of a community, powerful community work, and strong action community
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+An influential work community, shared working strength, violent activity by a community, violent actions against a community, a community's will for power, powerful community work, and a strong community of action.
+
+## Comparative Schema
+
+- core meaning: Great energy applied through family, community, art, or organization.
+- psychology: A community's will for power in ABC's entry.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Shared strength and powerful group action; violence by or against a community is also named.
+- events/manifestations: Building a great organization and influential communal work.
+- conflicts/notes: Constructive organization and violent collective activity are distinct possibilities, not interchangeable meanings.
+
+## Contradictions
+
+Witte emphasizes constructive family, artistic, and organizational effort; ABC also preserves power struggles and violence involving a community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Cupido` pours exceptional force into family, community, art, and organization-building.
-- Chart expression: great energy within family or group life, powerful communal activity, and the building or strengthening of large organizations or artistic structures.
+In `Mars/Vulcanus = Cupido`, Cupido specifies powerful effort through shared life and organized action. Witte names family, community, art, and building a great organization; ABC describes shared strength and an influential work community. ABC also distinguishes violence by a community from violence directed against one, retaining a difficult range that is separate from constructive communal work. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

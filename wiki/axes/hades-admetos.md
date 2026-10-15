@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¢/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `284` (exact bold pair summary checked against actual scan; no printed folio visible).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Scantness. Frugality. Great and deep sadness. Pessimism. Coldness. Aversion. Lac
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `444`; PDF page: `221` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Consolidation by deprivation, gross renunciation, circulatory charge, criminal drive, lack of drain, disadvantages due to depression, hidden material, deepening into the hidden, and deepening into the past
+German pair summary (transcribed from printed page `444`; PDF page `221`):
+
+> Festigung durch Entbehrungen, gründlicher Verzicht, Kreislauf-Gefährdung, kriminelle Unterdrückung, Mangel an Ausdauer, Nachteile durch Depressionen, verborgener Urstoff, Vertiefung in Verborgenes, Vertiefung in die Vergangenheit
+
+Editorial translation from the German passage: Consolidation through deprivation, thorough renunciation, danger to circulation, criminal suppression, lack of endurance, disadvantages through depression, hidden primordial material, immersion in what is hidden, immersion in the past.
+
+## Comparative Schema
+
+- Core meaning: Scarcity, attrition, and attention to depleted material or the distant past ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Deep sadness, pessimism, coldness, and aversion are explicit source descriptions; no clinical diagnosis follows.
+- Body/health: ABC names danger to circulation and disadvantages through depression, without specifying a bodily mechanism, diagnosis, or treatment.
+- Social/relationship: The Pair Summary names lack of reliability and negligence but supplies no distinct relationship scenario.
+- Events/manifestations: Worn materials, lack of raw materials, reclaiming raw material from junk, and the prehistoric or remote past are specific examples.
+- Conflicts/notes: Criminal suppression, lack of endurance, and hidden primordial material are explicit ABC terms. Its brief circulation and depression references supply neither a diagnosis nor a medical mechanism.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Consolidation by deprivation, gross renunciation, circulatory charge, criminal d
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Admetos`: entrenched deprivation: deep sadness, scantness, coldness, pessimism, attrition, worn-out material, shrinking resources, and conditions so stale or exhausted that life seems reduced to remnants.
-- Chart expression: long-standing hardship that has become fixed: scarcity of raw material, emotional deadness, frugality under duress, negligence born of exhaustion, and an oppressive sense that everything has narrowed, worn down, or been reduced to leftovers from the past. It can show scarcity, social or psychological bleakness, the remote or prehistoric past, and conditions that persist not because they are strong but because they are too depleted to move. Liabilities: despair, emotional frost, resigned pessimism, and adaptation to chronic lack as though it were normal life.
+`Hades/Admetos` connects scarcity and wear with what remains from the past. Scant resources, worn materials, and raw material recovered from junk give the material theme a concrete form; prehistory and the remote past extend the entry into historical depth ([Pair Summary](#pair-summary)).
+
+Sadness, pessimism, coldness, and aversion provide the psychological range described by the source. The ABC summary also names consolidation through deprivation and deepening into hidden or past material. Together these themes preserve both the experience of lack and attention directed toward what is hidden or old ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

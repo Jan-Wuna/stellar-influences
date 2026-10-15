@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Saturn Cupido](../triads/vernal-point-saturn-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 Divorce.
 
@@ -42,13 +46,27 @@ Divorce.
 
 #### ABC Entry
 
+- Source page: 37; PDF page: 17 (one-based spread).
+
 Tasks of the public community, burdens for the public community, serious art in public, shared losses in public, disturbances in public through of a community, and separation of a community in public
+
+## Comparative Schema
+
+- core meaning: Public burdens and separation expressed through communities and art.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Divorce, shared losses, and separation of a community.
+- events/manifestations: Communal tasks, burdens, serious art, and disturbances caused by a community.
+- conflicts/notes: Serious art and communal tasks need not imply a dissolved relationship.
+
+## Contradictions
+
+Divorce and communal separation are adverse examples; serious art and shared obligations are distinct forms of collective gravity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Cupido`: divorce.
-- Practical expression: tasks of the public community, burdens for the public community, serious art in public, shared losses in public, and disturbances in public through of a community.
+In `Vernal Point/Saturn = Cupido`, public difficulty concerns a community's responsibilities, losses, or separation. The [Witte entry](#witte-entry) gives divorce as a specific example. The [ABC entry](#abc-entry) broadens the scope to communal burdens and tasks, shared losses, serious art, and community disturbances. The synthesis preserves both the weight of shared obligations and the possibility of a collective bond ending.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Node Admetos`
 - Astronomicon triad-set: `S g ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Node/Admetos = Sun](../activations/node-admetos-equals-sun.md)
-- [Sun/Admetos = Node](../activations/sun-admetos-equals-node.md)
-- [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Admetos = Sun](../activations/node-admetos-equals-sun.md) | [Node/Admetos](../axes/node-admetos.md) | [Sun](../factors/sun.md) |
+| [Sun/Admetos = Node](../activations/sun-admetos-equals-node.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Node](../factors/node.md) |
+| [Sun/Node = Admetos](../activations/sun-node-equals-admetos.md) | [Sun/Node](../axes/sun-node.md) | [Admetos](../factors/admetos.md) |
 
 ## Source Coverage
 
-- `Node/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `154`
-- `Node/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `234`
-- `Sun/Admetos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `168`
-- `Sun/Node = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `102`
-- `Sun/Node = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `141`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Node/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `154`.
+- `Node/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-admetos-equals-sun.md#abc-entry), printed p. `234`.
+- `Sun/Admetos = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-node.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-node.md#abc-entry), printed p. `168`.
+- `Sun/Node = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-admetos.md#witte-entry), one-based PDF entry-start p. `102`.
+- `Sun/Node = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-admetos.md#abc-entry), printed p. `141`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Sun`: A few people come together for a particular reason. To be captivated in bonds.
-- `Sun/Admetos = Node`: This formula emphasizes reserve towards others and hidden connections.
-- `Sun/Node = Admetos`: This formula emphasizes hidden or restrained connections and reserve in contact with others.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Vulcanus](../axes/mars-vulcanus.md)
 - Triad hub: [Mars Zeus Vulcanus](../triads/mars-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Vulcanus,” PDF p. 203.
 
 Directed or fixed mechanical energies. Controlled mechanical energies. Management and supervision of mechanical energies.
 
@@ -42,13 +46,27 @@ Directed or fixed mechanical energies. Controlled mechanical energies. Managemen
 
 #### ABC Entry
 
-Effortful work power, tremendous work performances, creative power acts, power will of filtration, creative work energy, strong filtration work, strong procreation impulses, and activity of filtration power
+Source: “Mars + Vulkanus,” printed p. 321 (PDF p. 159).
+
+Strenuous working strength, tremendous work achievements, creative exercises of power, leadership's will for power, creative working energy, strong leadership work, strong procreative impulses, and activity of the leading power.
+
+## Comparative Schema
+
+- core meaning: Powerful effort directed or controlled through mechanical work and leadership.
+- psychology: Creative working energy and leadership's will for power.
+- body/health: ABC names procreative impulses, without a medical effect.
+- social/relationship: Management, supervision, and strong leadership work.
+- events/manifestations: Controlled mechanical energies, tremendous work achievements, and creative exercises of power.
+- conflicts/notes: Mechanical supervision and procreative impulses are separate source expressions; the entry does not identify a specific machine or institution.
+
+## Contradictions
+
+Witte emphasizes controlled mechanical energies; ABC includes leadership, work achievement, and creative or procreative impulses.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus = Zeus` directs great power into controlled mechanical or technical application.
-- Chart expression: fixed and managed mechanical energies, supervision of powerful technical forces, and disciplined command over engines, machinery, or industrial power systems.
+In `Mars/Vulcanus = Zeus`, Zeus specifies powerful effort through direction, supervision, and creative performance. Witte's concrete emphasis is mechanical energy managed or controlled; ABC adds strong leadership work, tremendous work achievements, and the leading power's activity. Its creative energy and procreative impulses extend the range beyond machinery without making those distinct expressions equivalent. ([Witte](#witte-entry), PDF p. 203; [ABC](#abc-entry), printed p. 321 / PDF p. 159)
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Node](../triads/saturn-uranus-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Attracting people who help move traditionalists toward new ideas; locating assoc
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connection is tested by differences, disruption and efforts to organize change.
+- psychology: Self-repression and difficulty opening up when individuality is not taken seriously.
+- body/health: No specific bodily or medical claim is supplied.
+- social/relationship: Torn connections, common resistance and associates who share views on change.
+- events/manifestations: Separation, disrupted relationships and collective technical tasks.
+- conflicts/notes: Association can support individuality or enforce conformity; neither is guaranteed.
 
 ## Contradictions
 
-- None recorded yet.
+Difficulty integrating and joint resistance coexist in Ebertin; disrupted ties and purposeful alliance are alternative relational expressions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Uranus = Node`: serious collective change, demanding partnerships, and the ability to challenge stale group structures through disciplined disruption. Main caution: unstable attachment: relationships can oscillate between duty and rebellion until trust gives way.
+Node specifies Saturn/Uranus through bonds that must accommodate individuality and change. Connections may be torn apart, yet people may also unite in resistance or find associates who share their approach to reform. [Witte](#witte-entry) (PDF p. 221, entry start) and [Ebertin](#ebertin-entry) (printed p. 247) ground the disruption and common opposition; [Sandbach](#sandbach-entry) (PDF p. 88, chapter start only) identifies the need for others to take one's uniqueness seriously, and [Munkasey](#munkasey-entry) (printed p. 284) describes association around managing change.
 
 ## Links
 

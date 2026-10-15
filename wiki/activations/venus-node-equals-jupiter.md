@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Jupiter Node](../triads/venus-jupiter-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Fortunate (happy) love union. Joy and happiness through pleasant connections.
 
 #### ABC Entry
 
-Successful peace reliefs, successful connections to the arts, joy over financial connections, combining money and love, glial love relationships, harmonic financial connections, and preference for legal connections
+- Source reference: printed p. 210; one-based PDF p. 104, Venus/Node, Jupiter row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Successful efforts for peace, successful connections to art, joy in financial connections, combining money and love, happy love relationships, harmonious financial connections, and preference for legal connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ The acceptance of your ideas or philosophies by others; advice given or received
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasant, fortunate connections and encouragement between people.
+- psychology: Confidence, hopeful expectations, kindness, and enthusiasm for contact.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Companionship, happy unions, shared interests, and mutual advice.
+- events/manifestations: Acceptance of ideas, agreeable financial contacts, and connections with art occur in the entries.
+- conflicts/notes: Munkasey's pomposity remains a separate possibility; ABC states happy love relationships and successful peace efforts without a medical implication.
 
 ## Contradictions
 
-- None recorded yet.
+Happy companionship and pomposity are different possibilities. ABC's happy love relationships, efforts for peace and financial or legal connections add concrete settings without guaranteeing a result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Jupiter`: popularity, benefic networks, and social ease that opens doors through grace rather than struggle. Main caution: complacent sociability: optimism about ties can become indulgent, status-seeking, or too trusting of easy support.
+In `Venus/Node = Jupiter`, Jupiter specifies the connection through confidence, kindness and encouraging companionship. The [Witte](#witte-entry), [Ebertin](#ebertin-entry) and [Sandbach entries](#sandbach-entry) support happy unions and hopeful expectations; [Munkasey](#munkasey-entry) adds advice and acceptance of ideas among people with shared interests, while retaining pomposity as a possible complication. The [ABC entry](#abc-entry) specifies successful efforts for peace and happy love relationships alongside artistic, financial and legal connections.
 
 ## Links
 

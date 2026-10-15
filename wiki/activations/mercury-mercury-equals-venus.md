@@ -27,17 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Mercury/Mercury](../axes/mercury-mercury.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source locator: PDF p. 157, one-based, entry start (not a printed-page number).
+
 Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Artistic taste. Rhythm. Salesman. Beginning of an acquaintance. To arrange tastefully. To beautify. The sense of beauty. The beautiful woman. The motherly female. To favor something. Thoughts of art.
+
+## Comparative Schema
+
+- core meaning: Thought concerned with acquaintance, affection, and aesthetic judgement.
+- psychology: Taste, favor, and thoughts of art or love.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Meeting, greeting, and beginning an acquaintance.
+- events/manifestations: Beautifying, arranging tastefully, salesmanship, and rhythm.
+- conflicts/notes: Historical female images are source associations, not requirements or universal roles.
+
+## Contradictions
+
+Only the Witte entry is represented. Its listed alternatives do not establish independent corroboration or a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Mercury = Venus` softens the axis through acquaintance, affection, beauty, and art.
-- Chart expression: love thoughts, aesthetic judgment, the beginning of relationships, tastefulness, salesmanship, and a mental life naturally drawn toward harmony, beauty, and social favor.
+Venus specifies Mercury/Mercury through social contact and aesthetic attention. The [Witte entry](#witte-entry) joins meeting or greeting others and thoughts of love to tasteful arrangement, art, beautifying, and the practical example of a salesman. Female images in the list remain historical source language; the supported interpretation does not require a particular gender or guarantee a lasting relationship.
 
 ## Links
 
@@ -45,3 +63,4 @@ Acquaintanceship. To meet or greet others. Thoughts of love. Aesthetic taste. Ar
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Mercury/Mercury](../axes/mercury-mercury.md)
+- [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

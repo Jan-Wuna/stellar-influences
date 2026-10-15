@@ -1,0 +1,132 @@
+{
+  "reviewer": "a079-083",
+  "scope": "Nine final081 Uranus/MC full reviews. Seven ABC prose repairs; two ABC entries preserved(Mars,Node); Witte Mercury missing To and Ebertin Node missing Desire restored; Sandbach Jupiter split approach repaired.",
+  "actual_source_inspection": [
+    "Actual ABC38 printed78–79/Witte67 all nine glyph-owned rows personally inspected.",
+    "ABC Jupiter8 restores fortunate soul tensions and success through dynamism; Pluto8 recovers opening dynamic development/excited impulses/personal dynamic change; Venus7 recovers preference for technology.",
+    "ABC Saturn9 starts Aufregende Stör-Minute and includes Rhythmus-Störungen/störende Seelen-Impulse; no star/cancellation/closing meanings. Moon10 restores feeling for rhythm/disposition; Sun8 generic Menschen/person distinct from male/husband examples; Mercury7 conversations in the moment, not speech rate.",
+    "Actual Ebertin280 printed278 codes0987–0993,0995 and Node281 printed279 code0996 inspected. Node starts Desire to rise; other Ebertin prose preserved.",
+    "Sandbach exact109 all nine passages inspected; Jupiter actual approach continuous. Munkasey324 source excerpts preserved against baseline/matching evidence; awkward Mercury notoriety in for remains explicitly bounded."
+  ],
+  "repairs": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-jupiter.md",
+      "old_abc": "my excitement about money, my successful rhythm, my joyful arousal, my restless soul, sudden soul joy, and psychic glick impulses",
+      "new_abc": "Fortunate emotional tensions, my excitement over money, my success through dynamism, my successful rhythm, my joyful excitement, my restless soul, sudden joy of the soul, emotional impulses of good fortune.",
+      "printed_page": 78,
+      "finding": "All eight ABC clauses restored, including fortunate emotional tensions and success through dynamism. Sandbach ap proach repaired to actual approach on109."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mars.md",
+      "old_abc": "Dynamic soul activity, I work in technology, my work rhythm, my excited actions, my nervousness at work, my sudden actions, my mental tensions, and my restless activity",
+      "new_abc": "Dynamic soul activity, I work in technology, my work rhythm, my excited actions, my nervousness at work, my sudden actions, my mental tensions, and my restless activity",
+      "printed_page": 78,
+      "finding": "All eight ABC and other source passages verified; source prose preserved."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mercury.md",
+      "old_abc": "Exciting speech per minute, animated impulses through youth, dynamic language of the soul, my nervousness in speech, my movement rhythm, my tensions in youth, and psychic tension in speech",
+      "new_abc": "Exciting conversations in the minute, soulful impulses through youth, dynamic language of the soul, my nervousness in conversation, my rhythm of movement, my tensions in youth, emotional tension in conversation.",
+      "printed_page": 78,
+      "finding": "Seven ABC clauses verified; Gespräche in der Minute means conversations in the moment, not speech-rate measurement. Witte missing To restored from67."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-moon.md",
+      "old_abc": "Exciting hour for the woman, dynamic woman soul, I excite my wife, my rhythm gesture, my excited wife, my excitement through the woman, my nervous gemtite, my people is excited, mentally excited woman, and restless people soul",
+      "new_abc": "An exciting hour for the woman, a woman's dynamic soul, I excite my wife, my feeling for rhythm, my excited wife, my excitement through the woman, my nervous disposition, my people are excited, a psychologically excited woman, a restless soul of a people.",
+      "printed_page": 78,
+      "finding": "Ten ABC clauses verified; Rhythmus-Gefühl means feeling for rhythm, Gemüt disposition; historical woman/people examples retained."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-node.md",
+      "old_abc": "Dynamic soul connection, I'm nervous about contacts, my restless connections, my connection to technology, psychic tensions in a connection, connecting psychic impulses, and connection to an excited soul",
+      "new_abc": "Dynamic soul connection, I'm nervous about contacts, my restless connections, my connection to technology, psychic tensions in a connection, connecting psychic impulses, and connection to an excited soul",
+      "printed_page": 78,
+      "finding": "Seven ABC clauses preserved. Ebertin omitted Desire restored from actual281 printed279/code0996."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-pluto.md",
+      "old_abc": "my troubled development, minute of exciting changes, developing scelic tensions, changing mental tensions, and growing mental unrest",
+      "new_abc": "Dynamic emotional development, excited soul impulses, my dynamic change, my restless development, a minute of exciting changes, developing emotional tensions, changed psychological tensions, growing emotional unrest.",
+      "printed_page": 79,
+      "finding": "All eight Pluto clauses restored, including first three omitted by parser; no neighboring Neptune clauses imported."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-saturn.md",
+      "old_abc": "Exciting star minute, impulses of a mature soul, my sudden pain, my concentrated tension, my sudden separation, my my rhythm cancellations, my technical tasks, my surprising losses, and my closing seclen impulses",
+      "new_abc": "An exciting minute of disturbance, impulses of a mature soul, my sudden pain, my concentrated tension, my sudden separation, my disturbances of rhythm, my technical tasks, my surprising losses, disturbing soul impulses.",
+      "printed_page": 79,
+      "finding": "Nine ABC clauses verified; Stör-Minute=minute of disturbance not star, Rhythmus-Störungen=disturbances not cancellations, störende=disturbing not closing."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-sun.md",
+      "old_abc": "Exciting minute of the day, dynamic soul of a man, my husband is nervous, my rhythm center, my daily restlessness, emotional arousal of a man, soul impulses of man, and restless day",
+      "new_abc": "An exciting minute of the day, a person's dynamic soul, my husband is nervous, my rhythm center, my daily unrest, emotional arousal of a man, soul impulses of a person, a restless day for me.",
+      "printed_page": 78,
+      "finding": "Eight ABC clauses verified; Menschen/person generic clauses distinguished from male/husband examples; final for me restored."
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-venus.md",
+      "old_abc": "Blessed love event, soul aroused by love, harmonious love impulses, my artistic impulses, exciting love minute, and surprising soul peace",
+      "new_abc": "A soulful event in love, a soul excited by love, harmonious love impulses, my artistic impulses, my preference for technology, an exciting minute in love, surprising peace of soul.",
+      "printed_page": 78,
+      "finding": "Seven ABC clauses restored, including omitted preference for technology; Beseeltes means soulful rather than blessed."
+    }
+  ],
+  "verification": [
+    {
+      "path": "wiki/activations/uranus-mc-equals-jupiter.md",
+      "sha256": "fc91b0242786a38b58b9d029b920369f008d490bac21cd88fcf05a9b198c27a9",
+      "source_section_sha256": "bd3cff2fed61e2af1067f4d05e19de53db27fc11dd1e11c0f39ec0b935647bfb",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mars.md",
+      "sha256": "0f1271a623c0052d8ff4daa655365bdbfafcbe2c439f4d8d8a86d868a51b7855",
+      "source_section_sha256": "8ac7d1a638ec7707b4209c8e4e84f0a3079b68c2b61f8b5fc0a11e612ac0990c",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-mercury.md",
+      "sha256": "6267cb36598eb6b63d016af58325641798edcacd0203e8ea673e1d2611689b10",
+      "source_section_sha256": "f45581037633b1850bea862c6078b6920f0d8caa1bf7e20fe1097a8f30238e0f",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-moon.md",
+      "sha256": "877c56163a42ab0718076c90fb3ba3a0aaa51f953a5458b681eb3bc510aa5983",
+      "source_section_sha256": "fdd2a7d56a7c1e23b942408ef58e889efed3fea81843c8b1b27f57894f915b85",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-node.md",
+      "sha256": "a5034da468dd6d7f4284aa9065b3362f14ec4ac11a09f362d6bd2ca4d4169ac2",
+      "source_section_sha256": "0a742cc0c6a176b148477a90eed653fdd6de312cc25dfffbb3286050b37f4ad6",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-pluto.md",
+      "sha256": "5a7d9116d2a80f0fe5d7e76670e17f66a648b593034bcf150ed217f7ad61db65",
+      "source_section_sha256": "7235bc816ae029f9dcf53b9d9b0b4ddbf1980476469390778a3abd19a0599c3e",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-saturn.md",
+      "sha256": "3ce4dae6af46ab80c3f2f21d44c6746338123cb9e280286d9fc9b84e0d7ed9d7",
+      "source_section_sha256": "4a29e332c00d9ee62ea9d3af1c59add6a90314151e9e25337820a5e7aa02e211",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-sun.md",
+      "sha256": "fa281c8b94bee512a3ee9a499f195e3c11ad418a7db2b02a52c5f5d9b5dd23ae",
+      "source_section_sha256": "d8cdd52d97d2282e59f3b76c6d1be4e68ad966acf1b788619c11c5744cc0de81",
+      "outcome": "changed"
+    },
+    {
+      "path": "wiki/activations/uranus-mc-equals-venus.md",
+      "sha256": "f045e96eeb0259c1960d4d23300e3816314f12593b6646ff87df920a1b239283",
+      "source_section_sha256": "2f4d9aff192e195fc838acc8f4e18743b5cdc943f2458395a171d27669507a8c",
+      "outcome": "changed"
+    }
+  ]
+}

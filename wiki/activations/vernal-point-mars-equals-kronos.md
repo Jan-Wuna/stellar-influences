@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Kronos](../triads/vernal-point-mars-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 The parent's authority. Governmental actions.
 
@@ -42,13 +46,27 @@ The parent's authority. Governmental actions.
 
 #### ABC Entry
 
-Public authority work, dominant public activity, government hand boys in public, creating for the state and the public, self governing public work, and priority public work
+- Source page: 33; PDF page: 15 (one-based spread).
+
+Official work for the public, dominant activity in public, actions of the state in public, creating for the state and public, independent public relations work, and priority work for the public
+
+## Comparative Schema
+
+- core meaning: Public action undertaken with authority or for the state.
+- psychology: No distinct psychological claim is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Parental authority and official public work.
+- events/manifestations: Governmental acts, dominant activity, and priority public work.
+- conflicts/notes: The scan reads actions of the state; the hand-boys wording was a line-break error.
+
+## Contradictions
+
+No direct contradiction is established. Parental authority and state acts operate at different scales.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Kronos`: the parent's authority and governmental actions.
-- Practical expression: public authority work, dominant public activity, government hand boys in public, creating for the state, and the public.
+In `Vernal Point/Mars = Kronos`, public activity is specified by authority, official responsibility, or the state. The [Witte entry](#witte-entry) names parental authority and governmental acts. The restored [ABC entry](#abc-entry) adds official work, dominant activity, independent public relations, and priority work for the public. The common emphasis is action carrying public importance or institutional authority.
 
 ## Links
 

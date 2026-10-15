@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Apollon/Admetos](../axes/apollon-admetos.md)
 - Triad hub: [Cupido Apollon Admetos](../triads/cupido-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 To be satisfied with the community in which one lives. Satisfaction over social relation or conditions. The contented artist.
 
+Source reference: PDF p. 306 (one-based), exact entry start, checked on the scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked synthesis of knowledge, restricted trade community, common knowledge deepening, profound scientific community, art deepening, spread of depression in communities, and increasing blockade of a community
+Blocked synthesis of knowledge, restricted trade community, common knowledge deepening, profound scientific community, deepening artistic success, spread of depression in communities, and increasing blockade of a community
+
+Source reference: printed p. 469 (PDF p. 233), exact activation entry. Cupido's row on the scan confirms "Kunst-Erfolg vertiefen", restoring success to the artistic phrase.
+
+## Comparative Schema
+
+- **Core meaning:** Community and artistic life experienced through satisfaction, deepening knowledge, or collective restriction. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Psychology:** Satisfaction with social conditions; the ABC entry also describes depression spreading in communities. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Body/health:** No bodily condition is specified. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Social/relationship:** Belonging to a community, shared study, and a restricted trading community are explicit settings. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Events/manifestations:** Artistic satisfaction or deepening artistic success; blocked synthesis of knowledge and increasing community blockage. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+- **Conflicts/notes:** Contentment does not establish insularity; restricted community life is a separate sourced expression. ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry))
+
+## Contradictions
+
+Witte emphasizes social satisfaction; the ABC entry includes shared deepening as well as communal restriction and depression. This is a difference in range, without an explicit claim that the same community must be both contented and depressed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Cupido`: contented social bonds, the satisfied artist, and peace within one's chosen community. Main caution: enclosed comfort: group life can become too self-satisfied, insular, or unwilling to develop beyond its existing forms.
+Cupido specifies `Apollon/Admetos` in communal and artistic life. Satisfaction with one's social conditions and the contented artist in the [Witte entry](#witte-entry) sit beside shared deepening of knowledge and artistic success in the [ABC entry](#abc-entry). The latter also preserves blocked knowledge, restricted trade, and collective depression. The formula's social setting is clear, while satisfaction and obstruction remain alternative expressions rather than a story in which comfort necessarily becomes insularity.
 
 ## Links
 

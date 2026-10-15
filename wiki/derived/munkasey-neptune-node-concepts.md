@@ -6,18 +6,20 @@ status: source_grounded
 framework_scope: modern_astrology
 source_pages:
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
-Preserve Munkasey's page-3 concept phrases for `Neptune/Node` as source-native image material.
+Preserve Munkasey's concept phrases for `Neptune/Node` as source-native image material.
+
+Start with the [Neptune/Node interpretation](../axes/neptune-node.md#derived-synthesis) for the shared pair meaning. [Munkasey's axis entry](../axes/neptune-node.md#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) contains his formal prose; this companion preserves his separate concept list.
 
 ## Evidence Base
 
 - [Neptune/Node](../axes/neptune-node.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)
-- Source concept page: `333`
+- Source concept page (printed): `333` (PDF page `334`).
 
 ## Source Concepts
 
@@ -122,5 +124,6 @@ Preserve Munkasey's page-3 concept phrases for `Neptune/Node` as source-native i
 
 ## Notes On Use
 
-- These phrases are preserved as source-native concept prompts, not as comparative doctrine.
-- They are kept off the canonical axis page's comparative schema to avoid conflating image phrases with formal delineation.
+The [Source Concepts](#source-concepts) are unranked prompts from one author. They remain outside the comparative schema and do not, by themselves, establish a third-factor activation. Use the axis page's [Related Activations](../axes/neptune-node.md#related-activations) to find the exact formula and orientation.
+
+"Devoted to Companions", "Deceived by Close Friends", and "The Mysteries of Karma" remain separate images. The list supplies no evidence about actual associates and does not define or independently substantiate karma.

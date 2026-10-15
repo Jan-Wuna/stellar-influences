@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Apollon](../axes/mercury-apollon.md)
 - Triad hub: [Mercury Node Apollon](../triads/mercury-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Apollon,” Node entry, PDF p. 170.
 
 Association with or among scientists. To unite in mental freedom. Able to speak free and openly.
 
@@ -42,13 +46,27 @@ Association with or among scientists. To unite in mental freedom. Able to speak 
 
 #### ABC Entry
 
-Think of successful connections, learn 1-landels language, success through media connections, successful links to youth, successful traffic connections, contacts between youth and science, and increasing news connections
+Source: “Merkur + Apollon,” Node entry, printed p. 262 / PDF p. 130. Translation checked against the German passage.
+
+Thinking of successful connections, initiating trade discussions, success through media connections, successful connections with youth, successful transport connections, young people's contacts with science, increasing news connections.
+
+## Comparative Schema
+
+- core meaning: Open intellectual association and successful communication links.
+- psychology: Mental freedom and the ability to speak openly.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Scientific associations, trade discussions, and youth contacts with science.
+- events/manifestations: Successful media/transport links and increasing news connections.
+- conflicts/notes: Intellectual association and practical connections are distinct settings; neither guarantees shared opinions.
+
+## Contradictions
+
+Witte stresses free scientific association, while ABC adds trade, media, transport and youth connections. They broaden the settings for exchange without requiring every connection to be a scientific community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Apollon = Node` socializes the axis into open mental fellowship and association with scientists.
-- Chart expression: joining others in free thought, speaking openly, and participating in communities built around ideas, research, or shared intellectual freedom.
+In `Mercury/Apollon = Node`, Node specifies scientific thought and extensive communication through associations and practical links. Witte joins scientific association with mental freedom and open speech; ABC names initiating trade discussions, media and transport connections, and young people's contacts with science. The relation is exchange enabled by connection, spanning intellectual fellowship and practical networks without requiring everyone involved to share an opinion or profession. ([Witte](#witte-entry), PDF p. 170; [ABC](#abc-entry), printed p. 262 / PDF p. 130)
 
 ## Links
 

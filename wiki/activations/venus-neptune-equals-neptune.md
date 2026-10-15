@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Indecisiveness about how to dress or present yourself; added needs to relax and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Uncertainty in presentation and pleasure objects, with a wish to escape physical reality.
+- Psychology: Indecision about dress and increased desire for relaxation or escape.
+- Body/health: The entry provides no specific bodily or medical claim.
+- Social/relationship: Personal presentation is explicit; no independent partnership outcome is stated.
+- Events/manifestations: Noticing defects in pretty objects or shabbiness in objects of wealth.
+- Conflicts/notes: This single repeated-pair entry focuses on presentation, the condition of objects, and escape.
 
 ## Contradictions
 
-- None recorded yet.
+- This single repeated-pair entry focuses on presentation, the condition of objects, and escape.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Neptune`: Indecisiveness about how to dress or present oneself; added needs to relax and escape more from the realities of the physical world; seeing defects in the composition of pretty objects; a shabbiness to physical objects of wealth.
+`Venus/Neptune = Neptune` makes appearance and beautiful objects uncertain sources of satisfaction. [Munkasey's repeated-pair entry](#munkasey-entry) describes indecision about dress, noticing defects in attractive objects, and shabbiness in objects of wealth. It also increases the wish to relax or escape the physical world. The connected theme is difficulty settling into material appearances or pleasures, with no separate partnership or medical result specified.
 
 ## Links
 

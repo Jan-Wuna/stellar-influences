@@ -28,6 +28,9 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+- Source locators (parser cache; not visually verified): [ABC](#abc-entry): printed p. 113 (PDF p. 55); [Witte](#witte-entry): PDF p. 86, entry start; [Ebertin](#ebertin-entry): printed p. 241, entry 0851; [Sandbach](#sandbach-entry): PDF p. 85, chapter start only; exact entry page unverified; [Munkasey](#munkasey-entry): printed p. 276.
+
 - Formula: `Jupiter/Asc = Pluto`
 - Astronomicon formula: `V/Asc = Z`
 - Axis page: [Jupiter/Asc](../axes/jupiter-asc.md)
@@ -70,22 +73,23 @@ Not afraid to use political ambitions as a means to meet the powerful and rich; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Contact with others becomes a field of development, recognition, and increasing influence.
+- psychology: Sandbach describes a driving expansion of identity that can become overwhelming.
+- body/health: No bodily disorder is specified; Sandbach's overload describes the experience of expanding identity.
+- social/relationship: Adaptability and benevolence coexist with Munkasey's warning about using others for personal ends.
+- events/manifestations: Happy changes, recognition, partner development, changes of place, and major legal battles are named possibilities.
+- conflicts/notes: ABC is located at printed p. 113 (PDF p. 55). Munkasey's political judgments remain attributed rather than adopted as neutral facts.
 
 ## Contradictions
 
-- None recorded yet.
+- Favorable adaptability and recognition stand beside exploitative or overwhelming expressions. Munkasey's value-laden political language is a source-specific judgment, not independent corroboration of harm.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Asc = Pluto`: persuasive force, broad effect on the environment, and growth that comes through deepening and strengthening the native's social power or developmental drive. Main caution: overload: the wish to expand influence can become compulsive, overwhelming, or difficult to moderate.
+In `Jupiter/Asc = Pluto`, Pluto specifies the Jupiter/Asc pair as a process of enlarging one's effect on, and adaptability to, other people. [Witte](#witte-entry) describes increasing benevolence and happy change, while [Ebertin](#ebertin-entry) names influence upon many and recognition. [ABC](#abc-entry), printed p. 113 (PDF p. 55), gives concrete forms in partner development and a change of location.
+
+The drive can also strain relationships. [Sandbach](#sandbach-entry) describes identity expansion becoming overwhelming; [Munkasey](#munkasey-entry), p. 276, includes instrumental use of others and large legal battles. These qualify the favorable manifestations without making social power inherently beneficial.
 
 ## Links
 

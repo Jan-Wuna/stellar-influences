@@ -1,0 +1,269 @@
+{
+  "group": "C",
+  "batch": 4,
+  "target_count": 23,
+  "status": "submitted_for_author_distinct_check",
+  "decisions_path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-C-decisions.jsonl",
+  "targets": [
+    {
+      "path": "wiki/activations/sun-zeus-equals-mars.md",
+      "validator_source_entries_sha256": "2656c3bd88cdd54246331882fbc34bca5ef2c0c9c27c07cf287825335598e97f",
+      "source_entries_sha256": "6844278917f246df09df1a1639da5857d1182438dd5cb308548eca57db9cd736",
+      "page_sha256": "1dd4945e5df01d69c96633a4e21f8f66a619aee8daeda2f090617f929d8289ec",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 76,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-mc.md",
+      "validator_source_entries_sha256": "ae2aeaa9c122e59d22f8d3c2b239a3f2800155308475b331f83a0e18e3d0c2c5",
+      "source_entries_sha256": "e311787281b337f951578397130d587da1707acfa724a7d21f406270f26e2221",
+      "page_sha256": "9de5730af85435c63c9c8f1727ea3dff303e295181055b16966b18bebb927606",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 77,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-mercury.md",
+      "validator_source_entries_sha256": "5f38dd65f28539655aa92111750bfc804da8f9a6fa2d68f62fce7780b33a9b79",
+      "source_entries_sha256": "76f24bdda9cf87d0bea885169c27253bba028de7622741d05986dc1688d7ebbb",
+      "page_sha256": "65f5a0fad85124e2e9c279ac327bfba7ba2466bf02dd588c460da304ea384f49",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 78,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-moon.md",
+      "validator_source_entries_sha256": "9bc90dfa1ee13ef070db6af3fbf70485804fe8bcd0fcc01a05e50dc5f6fbcfc8",
+      "source_entries_sha256": "93494b1601efcbe1e7862d7b195029d27344758d2663234b4be5778155e1d7eb",
+      "page_sha256": "fba9c67bcd3a62f705bc99b5578baf1a1bc3d4705d344438631db501e4f929fd",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 79,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-zeus-equals-neptune.md",
+      "validator_source_entries_sha256": "54958be51ee948edb7d18fb4f936b95d6231faacd31efa2af51c26a7c16991b5",
+      "source_entries_sha256": "46934299d9c41c9da075fd4fbb00ebeae548efb2da1b42bf9c4d83e2317c8fab",
+      "page_sha256": "5e45606b775598dc150b039225bf115a60d77a2bcf2e4221757a1f7655838474",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 80,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-sun-abc-pdf80.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-apollon.md",
+      "validator_source_entries_sha256": "fac036187cede3dd3b802d6e41e14c2ab356e7bd9cb1374a8b090860eb4d5ac1",
+      "source_entries_sha256": "941b584cfb152b245040d472f0a68466b544697ba4d43d8c1e9a1ff839d1fc8a",
+      "page_sha256": "defcbb441cd894b4196f64123737c3585dc36b8c161b4801674751e331c94cb9",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 81,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-asc.md",
+      "validator_source_entries_sha256": "44b10a2ed9b71749abb8ccd5fcba0bae2576766d7df4318bfe04387b96bcd981",
+      "source_entries_sha256": "f12fd76a5065b6f78953232509e52ca88190cf4087389b9e620953e1f40dee91",
+      "page_sha256": "5dd151a16b52637172df16dbb5217d1cd51b805d83adf78bca1f9131910048e4",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 82,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-cupido.md",
+      "validator_source_entries_sha256": "f555a88500170fe392b8dcd2fb13a1c60e0bb0a0e22c451ae9c4091e7dac3705",
+      "source_entries_sha256": "0ee73b2f11fb4df67408c39f9e56e3a2044725fb326a138be58d09f1d6f438b4",
+      "page_sha256": "c30e0da1401ba6e51b7f1003f0e2487372f667c7b122875d9d9564c1836bea52",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 83,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-hades.md",
+      "validator_source_entries_sha256": "8f9cdea913ffe8a21b0a934b38f2d315f2c3b458803e3e84b711feb20c5a27c7",
+      "source_entries_sha256": "6c6a32ed273731e7676336193ed5fa4706a893a5ec2fe0b3a2285459c80bbe38",
+      "page_sha256": "dce7f64349c4bd55d4f4eb2aba3b76f7b6dfab62efbb8726f60e86145fb46ce7",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 84,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-jupiter.md",
+      "validator_source_entries_sha256": "ad3d3933b146a4f3c7365354ed49855e5020a169bb2d8b49cb0ec46b8e629781",
+      "source_entries_sha256": "4bdf9c5b9d9d93592f84f87a29fe584fd13ad617b2bf30fe03c716e96d2818a4",
+      "page_sha256": "dbad9a8397aa187d37146cccec4972ac53d6223417b2e8e1c55f836fb44610b8",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 85,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-kronos.md",
+      "validator_source_entries_sha256": "010365fcdfdfa9a3fbc741cc0af28a0ec958622d2d27efb589bb00fbde662ce7",
+      "source_entries_sha256": "e19a506e2ad676f0311d06f90d38776084ec08994973a1a732e92097d485501d",
+      "page_sha256": "48d93a5d785fa9be9119675c5d6067cf1fafd9c86a7a50da552e6d9d90e3feae",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 86,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-mars.md",
+      "validator_source_entries_sha256": "65754fe46afff9fa9f6ab985704f722fc41ab94a56e3328dd133729322d25bd8",
+      "source_entries_sha256": "71a059624cfb57b0e7bf90d5b2874ebb5709feb4f937bc3eba358a84a48d8180",
+      "page_sha256": "c171525aed6ed246242a0ec8f32191386b63769b1134db0b23cd4063cb251014",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 87,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-mc.md",
+      "validator_source_entries_sha256": "e3bbc9c9251b67600edc157284979d700eaa8bef1d3b0dae13c89727b5d1511d",
+      "source_entries_sha256": "a6fc5133bc424d8727116c29fe4b723c03578f0862932823fbd00b488bbca588",
+      "page_sha256": "a65c04bc922aa2dfd64ed2b944ade55f9b58b15cefd9a33967fc891fd5f26e2b",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 88,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-mercury.md",
+      "validator_source_entries_sha256": "63c75b79b9c09b7a48a34052d21d40bb7cf2dafafc9a98dbacfc161d3492cc64",
+      "source_entries_sha256": "0c6cb40be45ef7bd949cb0a98faa37fcd4d76da83aa946eff60d80c6d8f464ae",
+      "page_sha256": "c16c50cda5c72e609b105626432c248c85746b02018b98569c8cc924b01b0d37",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 89,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-neptune.md",
+      "validator_source_entries_sha256": "c87dfef22b199d678e8971f2ec5b691b52fcc2291c50cea804e18bf1450a06b2",
+      "source_entries_sha256": "c41c3dc533c09dc4de005e1022135215052141f54e0968943cfa64b5a6000034",
+      "page_sha256": "703b5e1b9f69e9c3f736f44741e4dfbdba63d64a38b22315d1230e15942229f5",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 90,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-node.md",
+      "validator_source_entries_sha256": "3499fab18f6240f484ac6a955716d84627f0eba33a10638178f31909cc88ef79",
+      "source_entries_sha256": "b7e9483ca64ae60408ddc57035c554f1d2188bea882fd4a51c4ad7e5edebf34e",
+      "page_sha256": "d4f31dec290b72481500dacb53d1a9f324c26a577383d2c2e380e84b833cae58",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 91,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-pluto.md",
+      "validator_source_entries_sha256": "c1775e28a944a1606446f05d4efe2750e400dc4eeda09e2db7fb3aa56e1906b5",
+      "source_entries_sha256": "05bfa5fa136491c3ae234f88a0e9b38653db13573fa35dd1d779dfe945c2cfc4",
+      "page_sha256": "b7e8185ea3e3df2c24a1cdec822d7461d2ba8e465ec11ce478cfca42b0e41b0c",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 92,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-poseidon.md",
+      "validator_source_entries_sha256": "e224ee8a6d1346cfd576a27bb5199e58edc46deb12a17fde6c8313ec5c6fe12d",
+      "source_entries_sha256": "f2381efee178170fecb9898f68e66a25644726a0f867960c4f07b7e4cd01098c",
+      "page_sha256": "2e65cdbd3c9a3be18f7d7c96918c5ec96ea6a0682bc9124f6bbcd52d25a162bf",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 93,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-saturn.md",
+      "validator_source_entries_sha256": "11e537708d084dd7b87b4228dd2fa61b2e164eba716d171a7c81c1ccbd6a4a35",
+      "source_entries_sha256": "01d6ce978e41cab6a3ac00417689616e3a976646383bffb95416275303e6adee",
+      "page_sha256": "f9aa7f0b3e112f35afda716dcba23b76cc2c9c85dc21d27cccf5c69026943c88",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 94,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-uranus.md",
+      "validator_source_entries_sha256": "1b88e3f167886b6c86073ff5494585c4d10ed078b7bfb7a5c5f6dc30116624db",
+      "source_entries_sha256": "b754dbfcd03850aaf78564056c71c531f7157e0f345a28aff00fb5055416ff47",
+      "page_sha256": "bf6f56b98f3eccdf04e15fd7660d4b13a2b8e761f1e37bfaef2c0e37ab6fcd40",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 95,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-vernal-point.md",
+      "validator_source_entries_sha256": "36edb32fb5ceb22524b0e60f025194c740205cf8e78883c8792eee40d26ac773",
+      "source_entries_sha256": "6291fc0150ba2e222274e1b79eab47d00121a0614a4d9e11f7fd5a6a2c79778c",
+      "page_sha256": "cb556113b710c4953db252f4e625bc93fa27d7098e93c8bb1e03974664ba6159",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 96,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-vulcanus.md",
+      "validator_source_entries_sha256": "df5ac5b000c74622bb022b139ca99aca28649d901b7d47c4d342aea429475e98",
+      "source_entries_sha256": "a527526ab7c1ded255888e3c17afa2866057d11bca811874f9aa5789a9689740",
+      "page_sha256": "1c8217eedb7ce666b0581b85714d44027aac73e4d0621daf5b6327fa51a70ae9",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 97,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    },
+    {
+      "path": "wiki/activations/sun-venus-equals-zeus.md",
+      "validator_source_entries_sha256": "283d71beac7bb521a3f57cb55ecdfa6d13d83583a109e6c60b8e17f5b5f8f3fb",
+      "source_entries_sha256": "43663071e21ba7f14a3a7aaf9f4b9f8670ec086dedc5fe7f850a7de5178d149f",
+      "page_sha256": "bdb8e2fc19177de704ce5547c7c034f17766df4c21178423e9391e1919ad71bc",
+      "owner_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-078.jsonl",
+      "decision_line": 98,
+      "proof_paths": [
+        "docs/reviews/2026-10-15-full-wiki/verification/root-sunvenusmoon-abc-pdf71.png"
+      ]
+    }
+  ],
+  "verification": [
+    "Current exact/validator-normalized source and full-page hashes match every latest amended unique owner record.",
+    "All proof paths exist; original07855/55 review coverage remains unchanged.",
+    "All required categories and unique immediate anchors remain; no fallback staging files remain.",
+    "Final Sun/Zeus5 and Sun/Venus18 full actual ABC rows repaired; Jupiter Personen-Recht broadened after independent feedback and prior decision history preserved.",
+    "Root transferred untouched080–083 canonical/ledger closure targets to factor_source_repairs; this batch contains no such target."
+  ]
+}

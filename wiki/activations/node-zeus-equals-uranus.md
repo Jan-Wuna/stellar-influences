@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Uranus Node Zeus](../triads/uranus-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 To experience in company with others, a sudden and unexpected event. To be in a fire, in the flames.
 
@@ -42,13 +46,27 @@ To experience in company with others, a sudden and unexpected event. To be in a 
 
 #### ABC Entry
 
-Effortful new contacts, fiery tension in a relationship, new objectives in a connection, sudden connection with fire, Scottish contacts to technology, binding impulses through goal striving, and procreation event in a connection
+- Source page: 229 (printed); PDF page: 113 (one-based; exact row checked).
+
+Strenuous new contacts, fiery tension within a relationship, new goal-setting within a connection, a sudden connection with fire, creative contacts with technology, connecting impulses through pursuing goals, a procreative event within a connection.
+
+## Comparative Schema
+
+- core meaning: an unexpected event or new impulse within a creative connection.
+- psychology: fiery tension and impulses generated through striving toward goals.
+- body/health: a procreative event is a source possibility, not a fertility or medical prediction.
+- social/relationship: experiencing a sudden event with others and forming demanding new contacts.
+- events/manifestations: a shared unexpected event, fire or flames, new aims and creative technical contacts.
+- conflicts/notes: Literal fire is explicit, while technical and goal-related contacts preserve a wider range; no hazard is made inevitable.
+
+## Contradictions
+
+Literal fire is explicit, while technical and goal-related contacts preserve a wider range; no hazard is made inevitable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Uranus`: To experience in company with others, a sudden and unexpected event. To be in a fire, in the flames.
-- Practical focus: to experience in company with others, a sudden and unexpected event; also to be in a fire, in the flames.
+Uranus specifies `Node/Zeus` through a sudden event or new impulse affecting people acting together. The [Witte entry](#witte-entry) names an unexpected shared event and the literal possibility of fire or flames; the [ABC entry](#abc-entry) adds tense new contacts, revised goals and creative ties with technology. A procreative event remains another named expression. The organizing theme is the abrupt activation of the connection, rather than a requirement that every new technical contact involve danger.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto Hades Poseidon`
 - Astronomicon triad-set: `Z ¢ ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Hades/Poseidon = Pluto](../activations/hades-poseidon-equals-pluto.md)
-- [Pluto/Hades = Poseidon](../activations/pluto-hades-equals-poseidon.md)
-- [Pluto/Poseidon = Hades](../activations/pluto-poseidon-equals-hades.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Hades/Poseidon = Pluto](../activations/hades-poseidon-equals-pluto.md) | [Hades/Poseidon](../axes/hades-poseidon.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Hades = Poseidon](../activations/pluto-hades-equals-poseidon.md) | [Pluto/Hades](../axes/pluto-hades.md) | [Poseidon](../factors/poseidon.md) |
+| [Pluto/Poseidon = Hades](../activations/pluto-poseidon-equals-hades.md) | [Pluto/Poseidon](../axes/pluto-poseidon.md) | [Hades](../factors/hades.md) |
 
 ## Source Coverage
 
-- `Hades/Poseidon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `286`
-- `Hades/Poseidon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `449`
-- `Pluto/Hades = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `258`
-- `Pluto/Hades = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `411`
-- `Pluto/Poseidon = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `264`
-- `Pluto/Poseidon = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `423`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Hades/Poseidon = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/hades-poseidon-equals-pluto.md#witte-entry), one-based PDF entry-start p. `286`.
+- `Hades/Poseidon = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/hades-poseidon-equals-pluto.md#abc-entry), printed p. `449`.
+- `Pluto/Hades = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-hades-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `258`.
+- `Pluto/Hades = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-hades-equals-poseidon.md#abc-entry), printed p. `411`.
+- `Pluto/Poseidon = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-poseidon-equals-hades.md#witte-entry), one-based PDF entry-start p. `264`.
+- `Pluto/Poseidon = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-poseidon-equals-hades.md#abc-entry), printed p. `423`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Poseidon = Pluto`: adaptability to difficulty, with separation and special position gradually becoming more defined.
-- `Pluto/Hades = Poseidon`: This activation emphasizes false worldviews or deceptive spiritual development.
-- `Pluto/Poseidon = Hades`: This activation emphasizes to fail with one’s emotional or mental attitude.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

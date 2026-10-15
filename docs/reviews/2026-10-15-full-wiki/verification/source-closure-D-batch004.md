@@ -1,0 +1,7 @@
+# Closure D batch D004
+
+29 original flagged targets dispositioned: 21 source repairs, seven already repaired Kronos rows verified unchanged, and one printed Sandbach split retained. The 21 repairs cover eight Venus/Kronos ABC rows, all 12 queued Venus/Pluto ABC rows (including Witte Asc OCR), and Venus/Venus=Admetos Heartlessness. Existing original records were amended in place; no review counts were added.
+
+Complete affected ABC rows were personally read in actual PDF143/printed288–289 and PDF139/printed280–281. Actual Witte PDF175/181/185 and Sandbach PDF60 were viewed. Repairs restore omitted clauses and concrete art, independence, wish, sorrow, conversation, and procreation wording. All other source blocks, identities, frontmatter, historical gender/medical attribution, and minority strands are preserved. The raw Sandbach60 itself prints at mosphere; the current exact60 locator and wording remain valid, with a precise qualified original-record note.
+
+The per-target JSONL contains full before/after Source Entries, protected baseline and current source hashes, exact original ledger owner hashes, raw locators, and proof paths. All 29 saved metadata/six-category/anchor/local-link/unique-owner checks passed; whitespace checks passed. Two known write failures were resolved through verified apply_patch move-stage-and-back, with canonical exact expected content restored and both temporary paths absent. No global allowance is authored here; 023 performs independent exact-hash review.

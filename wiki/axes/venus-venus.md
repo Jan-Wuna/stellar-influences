@@ -46,13 +46,27 @@ updated_at: 2026-04-21
 - Axis: `Venus/Venus`
 - Astronomicon axis: `Q/Q`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `VENUS + VENUS`
+- PDF page: `174`
+
 #### Pair Summary
 
 Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities. Good will. Help. Inclination. Desire. Feeling. Female persons. Maternal, caring women.
+
+## Comparative Schema
+
+- Core meaning: Love, harmony, peace, beauty, and enjoyment unite this single-source [pair summary](#pair-summary).
+- Psychology: Inclination, desire, feeling, taste, and good will describe what attracts or pleases.
+- Body/health: Sensual pleasure is named; the entry gives no specific medical condition or health outcome.
+- Social/relationship: Affection, help, and caring are explicit. The source's references to female persons and maternal women are historical gender categories, not limits on who can express these themes.
+- Events/manifestations: Fine art, music, amenities, and acts of help give the theme concrete forms.
+- Conflicts/notes: Repeating Venus preserves one canonical factor identity. The entry does not establish an automatic intensification, a negative counterpart, or the meaning of any third-factor activation.
 
 ## Related Activations
 
@@ -78,11 +92,16 @@ Love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste
 - [Venus/Venus = Vulcanus](../activations/venus-venus-equals-vulcanus.md)
 - [Venus/Venus = Poseidon](../activations/venus-venus-equals-poseidon.md)
 
+## Contradictions
+
+Only one pair summary is present, so there is no inter-source comparison. Its gendered examples are retained as source language rather than universal claims.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Venus`: love, harmony, peace, beauty, fine art, music, pleasure, sensual pleasure, taste, amenities.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+Venus/Venus gathers affection and the enjoyment of harmony: what is loved, found beautiful, or experienced as pleasant. The [pair summary](#pair-summary) connects feeling and desire with taste, art, music, and sensual pleasure, while good will, help, and caring show the same theme in relations with others.
+
+This is a broad Venus theme supported by one entry. The repeated factor does not by itself establish stronger effects, a particular relationship event, or a health outcome; those conclusions are not supplied by this pair summary.
 
 ## Links
 

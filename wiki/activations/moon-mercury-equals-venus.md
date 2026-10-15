@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Venus`
 - Astronomicon formula: `R/T = Q`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Early love. A girl. Love of a young girl.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Movements of a gentle woman, peace news for the people, peaceful thoughts of the woman, peaceful youth of a woman, peaceful language of the people, harmonious womenLanguage, harmonious female youth, young gentle woman, and love thoughts of the woman
+Movements of a beautiful woman, peace news for the people, peaceful thoughts of a woman, peaceful youth of a people, peaceful language of the people, harmonious women's conversations, harmonious female youth, young beautiful woman, and a woman's thoughts of love
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0328`.
 
 #### Ebertin Entry
 
 The feeling of love, sense of beauty, understanding of art. Love in youth.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ The gratitude you show for the care others have placed into making your communic
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: affection and aesthetic satisfaction in communicating feelings ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: intimate conversation is soothing or gratifying; beauty and understanding of art are stated.
+- body/health: no specific bodily or health implication is stated.
+- social/relationship: early love, a lover with whom emotions can be discussed, and gratitude for family gestures are examples.
+- events/manifestations: artful emotional expression, symbols of family or heritage, and peaceful conversations or news are described.
+- conflicts/notes: the German has beautiful women and a people's peaceful youth, not gentle women or one woman's youth; people-pleasing is not stated.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is stated. Early love, artful intimate communication, family gratitude, and peaceful public language have different settings; none establishes conflict avoidance or loss of clarity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Venus`: social ease in speech, charming intelligence, and the ability to translate feeling into soothing or artful language. Main caution: people-pleasing in thought: clarity can yield too quickly to comfort, pleasing tone, or avoidance of conflict.
+In Moon/Mercury = Venus, Venus specifies the Moon/Mercury pair through affection and pleasure in expressing feelings. The [Ebertin entry](#ebertin-entry) links love with beauty and art; [Sandbach](#sandbach-entry) describes gratifying intimate conversation and an artful way of communicating emotion. [Munkasey](#munkasey-entry) adds gratitude for help with communication and appreciation of family gestures and symbols (p. 104).
+
+The [Witte entry](#witte-entry) retains early love, while the [ABC entry](#abc-entry) includes harmonious conversations, peaceful language, and love thoughts (printed p. 176, PDF p. 87). Affectionate or aesthetic expression is the supported thread; a need to please others at the expense of clarity is not stated.
 
 ## Links
 

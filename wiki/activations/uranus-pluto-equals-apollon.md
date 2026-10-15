@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Pluto = Apollon`
 - Astronomicon formula: `X/Z = ¥`
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 235, `URANUS + PLUTO`, Apollon entry.
+
 #### Witte Entry
 
 Suddenly commencing development for many which starts on a very small scale and grows to an enormous state.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 373 (PDF p. 185), Uranus/Pluto spread, Apollon entry.
+
 #### ABC Entry
 
-Metaphysics, extensive metaphysical experiences, increasing reform development Exciting changes due to limitations, blocked technical developments, sudden under dripping of a development, and tensions due to growing barriers
+Successful air technology, excitement about future knowledge, subtle-material knowledge impulses, new future science, sudden weakness in the air, surprising successes in metaphysics, extensive metaphysical experiences, and increasing reform development.
+
+## Comparative Schema
+
+- core meaning: Widening development through technology, knowledge and metaphysical inquiry. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- psychology: Excitement about future knowledge and subtle knowledge impulses. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- body/health: Sudden weakness in the air is a broad source expression, not a specific diagnosis. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- social/relationship: Witte describes development affecting many people. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- events/manifestations: Air technology, future science, metaphysical experiences and growing reform. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+- conflicts/notes: Large-scale growth and technical success coexist with weakness; metaphysical successes remain attributed doctrine. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
+
+## Contradictions
+
+Witte emphasizes a small beginning that grows enormously for many, while ABC gives technical, scientific and metaphysical settings. Weakness remains alongside success; neither scale nor success is guaranteed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Pluto = Apollon`: Suddenly commencing development for many which starts on a very small scale and grows to an enormous state.
-- Practical expression: metaphysics, extensive metaphysical experiences, increasing reform development Exciting changes due to limitations, blocked technical developments, and sudden under dripping of a development.
+Apollon specifies Uranus/Pluto through development that can widen from a small beginning to affect many. Air technology, future knowledge and reform provide concrete fields for this expansion, while metaphysical experiences and successes retain the source's spiritual range. Sudden weakness remains beside growth and success, so expansion does not establish uninterrupted progress. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

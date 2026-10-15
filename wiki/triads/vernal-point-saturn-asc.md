@@ -28,26 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Saturn Asc`
 - Astronomicon triad-set: `VP W Asc`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Saturn/Asc = Vernal Point](../activations/saturn-asc-equals-vernal-point.md)
-- [Vernal Point/Asc = Saturn](../activations/vernal-point-asc-equals-saturn.md)
-- [Vernal Point/Saturn = Asc](../activations/vernal-point-saturn-equals-asc.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Saturn/Asc](../axes/saturn-asc.md) | Vernal Point | [Saturn/Asc = Vernal Point](../activations/saturn-asc-equals-vernal-point.md) |
+| [Vernal Point/Asc](../axes/vernal-point-asc.md) | Saturn | [Vernal Point/Asc = Saturn](../activations/vernal-point-asc-equals-saturn.md) |
+| [Vernal Point/Saturn](../axes/vernal-point-saturn.md) | Asc | [Vernal Point/Saturn = Asc](../activations/vernal-point-saturn-equals-asc.md) |
 
 ## Source Coverage
 
-- `Saturn/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `87`
-- `Saturn/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `114`
-- `Vernal Point/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Saturn = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `44`
-- `Vernal Point/Saturn = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `36`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Saturn/Asc = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `87`
+- `Saturn/Asc = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `114`
+- `Vernal Point/Asc = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `36`
+- `Vernal Point/Asc = Saturn`: Udo Rudolph - ABC for Planetary Pictures, printed page `21`
+- `Vernal Point/Saturn = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `44`
+- `Vernal Point/Saturn = Asc`: Udo Rudolph - ABC for Planetary Pictures, printed page `36`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Saturn`: This formula emphasizes to be alone, lonely, to take leave of many people, fields, and villages.
-- `Vernal Point/Saturn = Asc`: This formula emphasizes separation from other people.
+The set links [Saturn/Asc = Vernal Point](../activations/saturn-asc-equals-vernal-point.md), [Vernal Point/Asc = Saturn](../activations/vernal-point-asc-equals-saturn.md), and [Vernal Point/Saturn = Asc](../activations/vernal-point-saturn-equals-asc.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

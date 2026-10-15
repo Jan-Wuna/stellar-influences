@@ -13,6 +13,7 @@ factor_b: Asc
 related_activations:
   - Node/Asc = Admetos
   - Node/Asc = Apollon
+  - Node/Asc = Asc
   - Node/Asc = Chiron
   - Node/Asc = Cupido
   - Node/Asc = Hades
@@ -23,6 +24,7 @@ related_activations:
   - Node/Asc = Mercury
   - Node/Asc = Moon
   - Node/Asc = Neptune
+  - Node/Asc = Node
   - Node/Asc = Pluto
   - Node/Asc = Poseidon
   - Node/Asc = Saturn
@@ -72,12 +74,14 @@ updated_at: 2026-05-06
 - Astronomicon axis: `g/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `NODE/ASCENDANT`
-- Source page: `355`
+- Source heading: `ASCENDANT + NODES`
+- PDF page (one-based): `82` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -85,11 +89,15 @@ Acquaintances. To establish connections. To keep in touch. Contact with the clos
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `104–105`; PDF page (one-based): `51` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Local meetings, relations with others, local contacts, partners, partner exchanges, connections in the space, connections in the nearer environment, and placement place
+Meetings at a place, relationships with others, local contacts, partner connections, mediation between partners, connections in space, connections in the nearer environment, place of mediation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `300`; PDF page: `302` (complete pair prose and boundary checked against scan).
 
 #### Principle
 
@@ -109,7 +117,7 @@ One's family, colleagues and associates, fellowship.
 
 #### Probable Manifestations
 
-+ Agreeable contacts with others, profitable teamwork. Sharing the same interests with other people. - Estrangements, separations. Increasing difficulties with regard to the relationship between people sharing the same residence. Dragon's Head/Ascendant N/A
++ Agreeable contacts with others, profitable teamwork. Sharing the same interests with other people. - Estrangements, separations. Increasing difficulties with regard to the relationship between people sharing the same residence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
@@ -123,9 +131,11 @@ The letting go of past identities and the forming of a new one which will serve 
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page (one-based): `213` (complete pair entry and `with`/`wife` checked against the scan).
+
 #### Pair Delineation
 
-Connections of a personal nature, such as wth family or relatives. Groups that one is involved with on a daily basis, in which the association is close but not quite as intimate, as, say, a husband and wfe. Connections involving some group identity.
+Connections of a personal nature, such as with family or relatives. Groups that one is involved with on a daily basis, in which the association is close but not quite as intimate, as, say, a husband and wife. Connections involving some group identity.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -161,17 +171,18 @@ The overall soundness of psychological health; support from friends or groups; h
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Personal connections within nearby surroundings, shared interests and groups, with identity affected by association.
+- psychology: A social conscience and retaining personal identity coexist with friction, misuse of contacts or ties that impede growth.
+- body/health: Ebertin lists subconscious memory and internal respiration; Munkasey discusses psychological support, pressure and group therapy. These remain attributed correspondences, not diagnoses.
+- social/relationship: Family, colleagues, familiar groups, teamwork and partner ties can be agreeable or become estranged and difficult within a shared residence.
+- events/manifestations: Meetings, keeping in touch, mediation, brokerage, connections between places and environmental limits give concrete local expressions.
+- conflicts/notes: Sandbach emphasizes releasing old identities and choosing supportive connections, while Hand also preserves daily group identity. Familiarity, common interests or a shared purpose does not guarantee harmony or a destined bond.
 
 ## Related Activations
 
 - [Node/Asc = Admetos](../activations/node-asc-equals-admetos.md)
 - [Node/Asc = Apollon](../activations/node-asc-equals-apollon.md)
+- [Node/Asc = Asc](../activations/node-asc-equals-asc.md)
 - [Node/Asc = Chiron](../activations/node-asc-equals-chiron.md)
 - [Node/Asc = Cupido](../activations/node-asc-equals-cupido.md)
 - [Node/Asc = Hades](../activations/node-asc-equals-hades.md)
@@ -182,6 +193,7 @@ The overall soundness of psychological health; support from friends or groups; h
 - [Node/Asc = Mercury](../activations/node-asc-equals-mercury.md)
 - [Node/Asc = Moon](../activations/node-asc-equals-moon.md)
 - [Node/Asc = Neptune](../activations/node-asc-equals-neptune.md)
+- [Node/Asc = Node](../activations/node-asc-equals-node.md)
 - [Node/Asc = Pluto](../activations/node-asc-equals-pluto.md)
 - [Node/Asc = Poseidon](../activations/node-asc-equals-poseidon.md)
 - [Node/Asc = Saturn](../activations/node-asc-equals-saturn.md)
@@ -194,15 +206,15 @@ The overall soundness of psychological health; support from friends or groups; h
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Familiar group identity and releasing old identities concern different possibilities in association; neither requires all existing ties to be retained or abandoned. Harmony, teamwork and estrangement all remain represented.
+- ABC's complete bold summary was retranslated from PDF51, printed104–105, restoring partner connections and mediation. Witte's exact PDF82 passage is distinct from Munkasey's printed355. Hand's `with` and `wife` were restored from the complete entry on PDF213; Ebertin's falsely merged following heading has been removed after checking printed300/PDF302.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/Asc` is the axis of personal relationship, close social environment, and identity shaped through day-to-day contact with others. It combines alliance, fellowship, and shared interest with personality, approach, and the immediate field of human interaction.
-- Chart expression: teamwork, social conscience, family and colleague ties, mediation, and the ability to maintain a recognizable self within close association. Liabilities: estrangement, environmental friction, overdependence on group approval, and difficulty separating personal identity from the pressures or expectations of one's immediate circle.
+`Node/Asc` concerns the personal connections through which someone participates in their immediate surroundings. Family, colleagues, daily groups and shared interests can provide fellowship, mutual assistance and practical teamwork. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) and [ABC](#udo-rudolph---abc-for-planetary-pictures) locate this contact in places, nearby environments and mediation; [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) and [Hand](#robert-hand---horoscope-symbols) emphasize personal associations and familiar groups. The same proximity can bring disharmony, estrangement or difficulty getting along with people who share a residence.
+
+Association also affects one's sense of self. [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) connects mutual interests and obligations with maintaining identity within society; [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) develops the release of old identities and the choice of connections that support or impede growth. These themes allow both continuity and change in a social circle without requiring either. Environmental limits, brokerage and links between places preserve the pair's practical scope, while a shared purpose does not by itself prove destiny, intimacy or benefit. Particular closing-factor meanings belong to the separate [activation pages](#related-activations).
 
 ## Links
 

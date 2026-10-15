@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [MC Admetos Poseidon](../triads/mc-admetos-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To be educated and trained. Profound mind. The own knowledge and insights stagna
 
 #### ABC Entry
 
-Knowledge of a mental blockage, consolidation of soul and spirit, spiritual and psychic deepening, cycle of spirit and soul, deep insight into the soul, original generation of spirit and soul, and resistance to my insights
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+Recognition of an inner blockage, consolidation of soul and spirit, spiritual and inner deepening, cycle of spirit and soul, deep insight into the soul, primordial generation of spirit and soul (Urzeugung von Geist und Seele), resistance to my insights.
+
+## Comparative Schema
+
+- **Core meaning:** Consolidation and deepening of understanding, with possible stagnation.
+- **Psychology:** Profound thought and awareness of an inner blockage are explicit.
+- **Body/health:** The entries offer no distinct bodily or medical account.
+- **Social/relationship:** No particular relationship outcome is stated.
+- **Events/manifestations:** Education and training are named activities; knowledge may stop developing.
+- **Conflicts/notes:** ABC literally prints Urzeugung von Geist und Seele; the row does not explain this metaphysical expression or establish an origins mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Poseidon` refines the axis through training, depth of mind, and knowledge that can become fixed.
-- Chart expression: disciplined education, profound understanding, and a serious intellectual stance that may stagnate when insight hardens into a settled point of view.
+Poseidon specifies `MC/Admetos` through concentrated understanding: education and a profound mind can deepen insight into one's inner life. That depth can also become fixed, with knowledge stagnating or insight meeting resistance; the entries support both consolidation and limitation of understanding. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

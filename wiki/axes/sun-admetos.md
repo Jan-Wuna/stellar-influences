@@ -66,11 +66,15 @@ updated_at: 2026-05-04
 - Astronomicon axis: `S/¦`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Pair Summary
+
+- Source page: PDF p. 116.
 
 Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. Homeland. That which is conservative. An object of raw material. An object under pressure. Body without motion. Body in repose. Standstill of the body. Day of death. Landed property.
 
@@ -78,7 +82,18 @@ Perseverance. Heaviness. Weight. Objects. Ground. Soil. Real estate. Landscape. 
 
 #### ABC Pair Summary
 
-Oppressed person, depressed person, earthly body, solid man, thorough person, the body's circulation, bodily standstill, physical endurance, physical resistance, rotating body, and heavy body
+- Source page: printed pp. 168–169; PDF p. 83.
+
+Oppressed person, depressed person, terrestrial body, steadfast man, thorough person, bodily circulation, bodily standstill, physical endurance, physical resistance, rotating body, heavy body.
+
+## Comparative Schema
+
+- core meaning: physical weight, pressure, persistence, and stillness, with a parallel emphasis on ground and landed material ([pair summary](#pair-summary)).
+- psychology: perseverance and thoroughness coexist with feeling oppressed or depressed; the source also names a conservative tendency.
+- body/health: physical endurance, resistance, heaviness, repose, and standstill are stated; Witte's `Day of death` is a historical association, not a death prediction or a medical conclusion.
+- social/relationship: homeland and landed property are present; no specific interpersonal pattern is established by these summaries.
+- events/manifestations: objects or raw material under pressure, soil, landscape, real estate, and a body or object at rest.
+- conflicts/notes: `rotating body` occurs in ABC alongside standstill, so the pair is not exclusively motionless. The gendered `steadfast man` is one source expression, not a restriction of the axis to men; the pair summaries supply no timing rule for their death association.
 
 ## Related Activations
 
@@ -106,8 +121,9 @@ Oppressed person, depressed person, earthly body, solid man, thorough person, th
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on a reserved or withdrawn physical state, practical limitation, and descent into depth or confinement.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Admetos` concerns physical substance that has weight, resists, endures, or comes to rest. The [pair summary](#pair-summary) connects perseverance with heaviness, an object under pressure, and a body in repose or standstill; the [ABC entry](#abc-pair-summary) adds physical endurance, resistance, and thoroughness. Its scope is therefore more concrete than a general claim of personal withdrawal.
+
+Ground, soil, raw material, landscape, homeland, and landed property form a second explicit strand of the same material emphasis. Oppression and depressed feeling are also named, while ABC's rotating body prevents treating the whole list as an absolute rule of immobility. Witte's `Day of death` remains an attributed historical association; it does not establish a forecast, timing rule, or diagnosis from this pair alone.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Saturn = Moon`
 - Astronomicon formula: `S/W = R`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
@@ -39,17 +41,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Saturn`; one-based PDF page `107` (oriented row checked against the scan).
+
 To be without a mate. A man separated from a woman. Separations from females.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of the woman with the man, patience between the woman and the man, personal tasks of the woman, problems of the woman with the man, corporal pain of the woman, mature people of a people, difficulties of the man with the woman, and separation day of the woman
+- Source passage: `Sonne + Saturn`; printed p. `150`; one-based PDF page `74` (oriented row checked against the scan).
+
+Tasks of the woman with the man, patience between the woman and the man, personal tasks of the woman, problems of the woman with the man, corporal pain of the woman, maturing people of a nation, difficulties of the man with the woman, and separation day of the woman
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Saturn`; printed p. `93`; one-based PDF page `95`; entry code `0243` (oriented row checked against the scan).
 
 Emotional depression partly in connection with organic disturbance, emotional inhibitions, fear, feelings of inferiority. Increasing loneliness, separation of females, bereavement.
 
@@ -57,7 +65,9 @@ Emotional depression partly in connection with organic disturbance, emotional in
 
 #### Sandbach Entry
 
-Security comes from having definite goals and/or working toward them in a dis ciplined manner. An emotional need to understand the meaning of life. Periodic moods in which one feels a lack of self-confidence. To organize one’s life around a central pur pose gives one a feeling of security.
+- Source passage: `Planets activating the Sun/Saturn midpoint`; one-based PDF page `14` (exact activator entry checked in the raw PDF).
+
+Security comes from having definite goals and/or working toward them in a disciplined manner. An emotional need to understand the meaning of life. Periodic moods in which one feels a lack of self-confidence. To organize one’s life around a central purpose gives one a feeling of security.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Added instincts for showing caution or self-control; forms of self-discipline wh
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional security and relationship are shaped by seriousness, definite purpose and restraint, alongside loneliness, separation and bereavement. [Witte](#witte-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry)
+- psychology: Ebertin describes depression, fear and inferiority; Sandbach allows disciplined goals to create security despite periodic low confidence, and Munkasey adds natural self-control. [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- body/health: ABC includes a woman's bodily pain; Ebertin partly connects emotional depression with organic disturbance. These are qualified historical associations, not diagnoses. [ABC](#abc-entry) · [Ebertin](#ebertin-entry)
+- social/relationship: Male-female patience and difficulties, being without a mate and separation from women coexist with Munkasey's desire for romance. [Witte](#witte-entry) · [ABC](#abc-entry) · [Munkasey](#munkasey-entry)
+- events/manifestations: Daily discipline, organizing life around a purpose, a woman's tasks and separation, and bereavement are explicit manifestations. [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
+- conflicts/notes: The gendered examples remain attributed; neither separation nor low mood is inevitable, and structured security does not erase the entries' grief and inhibition. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry)
 
 ## Contradictions
 
-- None recorded yet.
+A material tension remains between loneliness, separation and depression on one side and security through purposeful discipline, sensitivity and desire for romance on the other. The sources do not supply a rule that selects one expression.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Moon`: stoicism, emotional endurance, and the capacity to persist through discouraging conditions. Main caution: withdrawal: low spirits, fatigue, or hurt feelings can harden into isolation and chronic pessimism.
+`Sun/Saturn = Moon` puts emotional security under the pressure of serious tasks and restraint. A definite purpose and orderly daily effort can offer steadiness, but low confidence, fear or inhibition may accompany that need for structure. Relationships require patience and may involve separation or grief; the desire for romance and greater sensitivity remains present in Munkasey's entry. The interpretation holds that search for security beside the sources' explicit loneliness and bereavement. [Witte](#witte-entry) · [ABC](#abc-entry) · [Ebertin](#ebertin-entry) · [Sandbach](#sandbach-entry) · [Munkasey](#munkasey-entry)
 
 ## Links
 

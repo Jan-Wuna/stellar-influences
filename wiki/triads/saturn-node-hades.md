@@ -28,25 +28,29 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Node Hades`
 - Astronomicon triad-set: `W g ¢`
 
+This hub groups the unordered `Saturn Node Hades` set for sibling lookup. [Choose the exact orientation](#orientation-map); each linked activation keeps its own meaning.
+
 ## Orientation Map
 
-- [Node/Hades = Saturn](../activations/node-hades-equals-saturn.md)
-- [Saturn/Hades = Node](../activations/saturn-hades-equals-node.md)
-- [Saturn/Node = Hades](../activations/saturn-node-equals-hades.md)
+- [Node/Hades = Saturn](../activations/node-hades-equals-saturn.md) — base axis [Node/Hades](../axes/node-hades.md); activator [Saturn](../factors/saturn.md).
+- [Saturn/Hades = Node](../activations/saturn-hades-equals-node.md) — base axis [Saturn/Hades](../axes/saturn-hades.md); activator [Node](../factors/node.md).
+- [Saturn/Node = Hades](../activations/saturn-node-equals-hades.md) — base axis [Saturn/Node](../axes/saturn-node.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Node/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `227`
-- `Saturn/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `356`
-- `Saturn/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `145`
-- `Saturn/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `217`
+Coverage below records the source entries currently present on each linked activation page; it does not establish complete coverage of the source works. The references retained here use the page systems named beside them.
+
+- `Node/Hades = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-hades-equals-saturn.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `150`.
+- `Node/Hades = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-hades-equals-saturn.md#udo-rudolph---abc-for-planetary-pictures), printed page `227`.
+- `Saturn/Hades = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-hades-equals-node.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `225`.
+- `Saturn/Hades = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-hades-equals-node.md#udo-rudolph---abc-for-planetary-pictures), printed page `356`.
+- `Saturn/Node = Hades`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-node-equals-hades.md#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures), one-based PDF entry-start page `145`.
+- `Saturn/Node = Hades`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-node-equals-hades.md#udo-rudolph---abc-for-planetary-pictures), printed page `217`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Saturn`: To be tied to hostile people. Loss by theft or through poor company.
+Use the [Orientation Map](#orientation-map) to choose the base pair and the factor after `=`. For this triad, `Node/Hades = Saturn`, `Saturn/Hades = Node` and `Saturn/Node = Hades` are distinct reading routes. Follow the selected activation for its source entries and interpretation; the unordered triad supplies no merged meaning.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Admetos](../axes/mars-admetos.md)
 - Triad hub: [Vernal Point Mars Admetos](../triads/vernal-point-mars-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Restricted field of work. General limitations of activity. The market goes lower
 
 labor strikes in public, blocked creation in public, restriction of public work, earthworks in public, consolidated public will, thorough actions in public, and deepening into public work
 
+## Comparative Schema
+
+Evidence: [ABC Entry](#abc-entry), printed p. 318 (entry); [Witte Entry](#witte-entry), PDF p. 202 (entry start).
+
+- Core meaning: Public activity meets restriction, while work can also become concentrated and thorough.
+- Psychology: ABC includes a consolidated public will rather than only discouragement.
+- Body/health: The entries describe public work and economic conditions, without a distinct bodily claim.
+- Social/relationship: Collective work and public strikes place the restriction among many people.
+- Events/manifestations: Earthworks and work stoppages occur in ABC; falling markets and bankruptcy are Witte's examples.
+- Conflicts/notes: Economic depression here is a public condition, not a personal diagnosis; concentrated work qualifies an exclusively negative reading.
+
+## Contradictions
+
+The entries differ in emphasis; no direct contradiction is established for this exact orientation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Admetos = Vernal Point`: restricted work on a collective scale, market decline, bankruptcy, and broad depression or suppression of activity.
-- Chart expression: public contraction, shared limitation, and collective experience of slowed or damaged effort.
+Vernal Point specifies the Mars/Admetos axis as work and will operating under public or collective constraints. Restrictions and stoppages share the page with thorough public work and a consolidated will, so limitation can mean concentrating effort as well as blocking it. Falling markets and bankruptcy are particular manifestations in [Witte Entry](#witte-entry), rather than inevitable outcomes of the formula; [ABC Entry](#abc-entry) also includes earthworks and deepened engagement in public work.
 
 ## Links
 

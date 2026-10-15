@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Cupido = Mars`
 - Astronomicon formula: `Y/¡ = U`
 - Axis page: [Neptune/Cupido](../axes/neptune-cupido.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `247` (entry start; one-based).
+
 #### Witte Entry
 
 Impotence or infection of the husband. Quarrels in housing matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `392`, PDF p. `195` (entry).
+
 #### ABC Entry
 
-Community in the water, Community in the air, and insecurity of joint work
+Work community in water, refusal of work by a community, dissolution of community work, shared work in the air, shared efforts involving water, weak work community, and uncertainty in shared work
+
+## Comparative Schema
+
+- core meaning: difficulty or uncertainty in shared work, alongside marital health claims and housing quarrels in Witte.
+- psychology: no specific motive for work refusal or housing conflict is supplied.
+- body/health: Witte's impotence and infection of the husband are attributed historical claims, not diagnoses.
+- social/relationship: community work and housing disputes are explicit settings.
+- events/manifestations: work refusal, dissolution of shared work, and cooperative efforts involving water are stated.
+- conflicts/notes: the entries do not prescribe decisive action or establish enmeshment, passivity, or generalized mistrust.
+
+## Contradictions
+
+Witte's marital bodily examples and housing quarrels differ from ABC's shared-work themes. The source does not identify one as the cause of the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Cupido = Mars`: Impotence or infection of the husband. Quarrels in housing matters.
-- Practical focus: forces conflict and assertion into a vulnerable family or group field, showing quarrels, bodily strain, mistrust, or anger that break through enmeshment, passivity, or disappointed attachment. It can mark the point where blurred domestic or relational dynamics demand decisive action.
-- Practical expression: community in the water, community in the air, and insecurity of joint work.
+In Neptune/Cupido = Mars, Mars specifies the pair through shared work that may be weak, refused, dissolved, or uncertain. [ABC](#abc-entry) also retains cooperative work and efforts involving water (printed p. 392, PDF p. 195). The [Witte entry](#witte-entry) gives housing quarrels and historical claims about a husband's impotence or infection. These are distinct examples within the orientation; the entries do not connect bodily conditions to work conflict or prescribe a decisive response to supposed enmeshment.
 
 ## Links
 

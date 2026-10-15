@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Node = Neptune`
 - Astronomicon formula: `Y/g = Y`
 - Axis page: [Neptune/Node](../axes/neptune-node.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/NODE With Itself`
-- Source page: `334`
+- Source reference: printed p. `334` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ An additional sense of dreaminess about the direction your purpose or path in li
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: dreaminess about purpose and direction coupled with evasion.
+- psychology: neglect or avoidance of available help is explicit.
+- body/health: no health claim is supplied.
+- social/relationship: people able to help are avoided or neglected.
+- events/manifestations: uncertain direction in life and evading support are the named manifestations.
+- conflicts/notes: only Munkasey's repeated-pair passage is present; no distinct third factor or compulsory outcome is inferred.
 
 ## Contradictions
 
-- None recorded yet.
+This page has one repeated-pair source entry; there is no independent comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Node = Neptune`: An additional sense of dreaminess about the direction one's purpose or path in life should take; seeing evasion as a part of one's reality and thus avoiding or neglecting those who are able to help one with one's efforts.
+For Neptune/Node = Neptune, [Munkasey](#munkasey-entry) connects dreaminess about one's path with evasion that can lead to neglecting available help (printed p. 334). The concern is how uncertain purpose and avoidance affect access to support, without establishing that every private or imaginative pursuit is evasive.
 
 ## Links
 

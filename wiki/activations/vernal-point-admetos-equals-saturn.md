@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Saturn Admetos](../triads/vernal-point-saturn-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Endurance. Patience. Chronic resistance (consistently). Losses and difficulties.
 
@@ -42,13 +46,27 @@ Endurance. Patience. Chronic resistance (consistently). Losses and difficulties.
 
 #### ABC Entry
 
-By blocking local public opinion, by barred public resistance, by problematic public opinion, by painful public restrictions, and by loss of depression in public life
+- Source page: 55; PDF page: 26 (one-based spread).
+
+Public life disturbed by blockade, hard public resistance, problematic public suppression, painful restrictions in public, and public depressions involving loss
+
+## Comparative Schema
+
+- core meaning: Persistent public resistance, restriction, or loss met with endurance.
+- psychology: Patience and the source's depression vocabulary.
+- body/health: No bodily diagnosis is supplied.
+- social/relationship: Hard public resistance and suppression.
+- events/manifestations: Blockade, painful restrictions, and losses or difficulties.
+- conflicts/notes: The scan does not support loss of depression or the former repeated public-opinion phrases.
+
+## Contradictions
+
+Endurance and loss are different aspects of the entries. Patience does not establish relief from suppression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Saturn`: endurance, patience, chronic resistance (consistently), and losses and difficulties.
-- Practical expression: by blocking local public opinion, by barred public resistance, by problematic public opinion, by painful public restrictions, and by loss of depression in public life.
+In `Vernal Point/Admetos = Saturn`, Saturn specifies the pair through persistent restriction and the endurance it may require. The [Witte entry](#witte-entry) names patience, continuing resistance, losses, and difficulties. The [ABC entry](#abc-entry) places those limits in blockade, public suppression, and painful restriction. The common meaning is sustained pressure or resistance, while endurance is a possible response rather than a guarantee that the situation ends.
 
 ## Links
 

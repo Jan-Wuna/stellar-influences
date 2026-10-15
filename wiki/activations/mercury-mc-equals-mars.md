@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Mars MC](../triads/mercury-mars-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 To concentrate on work. One’s own opinions about work or activity.
 
@@ -45,17 +49,25 @@ To concentrate on work. One’s own opinions about work or activity.
 
 #### ABC Entry
 
-I think and handle, I want to write, my thinking impulses, my thoughts to work, my thoughts to youth, my thought activity, my actions to discuss, my work to youth, and my activity to youth
+German passage (transcribed from PDF page `33`, printed page `68`):
+
+> Ich denke und handle, ich will schreiben, meine Denk-Impulse, meine Gedanken zur Arbeit, meine Gedanken in der Jugend, meine Gedanken-Tätigkeit, meine Handlungen besprechen, meine Arbeit mit der Jugend, meine Tätigkeit in der Jugend
+
+Editorial translation from the German passage: I think and act; I want to write; my impulses of thought; my thoughts about work; my thoughts in youth; my mental activity; discussing my actions; my work with young people; my activity in youth.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0570.
 
 Open-minded and frank, clear understanding of everything, clear consciousness of one's life aims, outstanding thoughts and acts. Realizing one's own views or viewpoints.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 The desire to find out the ideas that are most right and true. The desire to base one’s actions of spiritual ideas. The tendency to justify what one does by pointing out the rightness of one’s ideas.
 
@@ -70,22 +82,21 @@ Added energy and activity for the efforts you go thru to mature and develop as a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Putting personal views and aims into work or action.
+- psychology: Frankness, courage, clear aims, and energy for development.
+- body/health: No specific body or health claim appears.
+- social/relationship: Working through anger accumulated from people or situations.
+- events/manifestations: Concentrating on work and realizing one's viewpoints.
+- conflicts/notes: Sandbach's self-justification is a qualification; haste was not explicitly established by these entries.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's clear aims and Munkasey's courage for growth differ from Sandbach's justification of conduct by an idea's supposed rightness. ABC supplies personal action and work examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Mars`: frankness, decisive planning, and the ability to align thought with action in a direct and purposeful way. Main caution: self-justifying haste: clarity of aim can harden into combative certainty or action taken before broader reflection.
+Mars specifies Mercury/MC through bringing personal thought into action. Concentration and opinions about work connect with clear aims, frankness, and realization of one's views. Munkasey adds courage for growth and the need to work through anger; Sandbach retains the possibility of justifying an act by insisting that an idea is right. The organizing theme is enacting a personal viewpoint, with the justification and the effectiveness of the act remaining separate questions ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry)).
 
 ## Links
 

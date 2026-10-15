@@ -1,0 +1,2 @@
+﻿Invocation: scan all wiki/axes/*.md Banzhaf/Haebler harmony/discord bullets for dangling tails.
+COUNT=0

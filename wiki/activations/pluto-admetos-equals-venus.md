@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Venus Pluto Admetos](../triads/venus-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 To experience a pleasant change in the existing conditions.
 
@@ -42,13 +46,27 @@ To experience a pleasant change in the existing conditions.
 
 #### ABC Entry
 
-Develop perseverance in love, depressive peace development, limitations in a harmonious development, grim changes in harmony, harmonious circulatory changes, and develop fondness for grinnlichkeit
+- Source page: 418 (printed); PDF page: 208 (one-based; exact row checked).
+
+Develop perseverance in love, depressive development of peace, restrictions within harmonious development, thorough changes in harmony, harmonious cyclical/circulatory changes, develop a preference for thoroughness.
+
+## Comparative Schema
+
+- core meaning: pleasant deep change with perseverance or restrictions in love and harmony.
+- psychology: perseverance in love and a developing preference for thoroughness.
+- body/health: ABC's Kreislauf wording can mean a cycle or circulation; it identifies no bodily mechanism or diagnosis.
+- social/relationship: love and peace development can meet restrictions.
+- events/manifestations: pleasant changes in existing conditions and thorough alterations of harmony.
+- conflicts/notes: ABC's restrictions qualify Witte's pleasant change; the source does not guarantee uninterrupted harmony.
+
+## Contradictions
+
+ABC's restrictions qualify Witte's pleasant change; the source does not guarantee uninterrupted harmony.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Venus`: to experience a pleasant change in the existing conditions.
-- Practical expression: develop perseverance in love, depressive peace development, limitations in a harmonious development, grim changes in harmony, and harmonious circulatory changes.
+Venus specifies `Pluto/Admetos` through a change experienced as pleasant or directed toward deeper harmony. The [Witte entry](#witte-entry) gives the favorable experience plainly; the [ABC entry](#abc-entry) adds perseverance in love, thorough changes in harmony and limits within otherwise harmonious development. The bond or condition may improve through persistence rather than effortless ease. ABC's depressive and cyclical/circulatory language remains a historical source correspondence, not a clinical conclusion.
 
 ## Links
 

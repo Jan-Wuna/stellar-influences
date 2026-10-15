@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Node = Moon`
 - Astronomicon formula: `S/g = R`
 - Axis page: [Sun/Node](../axes/sun-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 102, Moon entry under Sun + Nodes.
+
 A physical connection with a woman. Connections with the public. Mass meetings. To establish a friendship.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Year or day of encounter with the woman, corporal connection to the woman, man made collusion, human union, personal association with women, connection to a women's centre, and shortage of personal belongings
+Source locator: printed page 140 / PDF page 69, Moon glyph row under Sun + Node. English translation checked against the scan.
+
+Year or day of encounter with the woman, bodily connection to the woman, male emotional connections, human emotional bonds, personally connected with women, connection to a women's center, and linking of personal feelings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 105, entry 0291 under Sun/Dragon's Head.
 
 A compassionate sharing of feelings in associations. A man's relationship to wife, homeland and people.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 21, Moon entry under Sun/Node.
 
 The emotional need to share life’s meaning with other people, and to have meaningful relationships. To be vulnerable to others who make you feel important, be cause this makes you feel secure, with the danger of this retarding your ability to grow and change.
 
@@ -70,22 +80,21 @@ Beneficial ties with females or with groups representing women; habits which hel
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional participation and shared feeling within personal and collective ties.
+- psychology: The need for meaningful relationships; security gained from feeling important can impede growth in Sandbach's account.
+- body/health: Bodily connection is named without a specific health claim.
+- social/relationship: Compassionate sharing, women and women's groups, public connections, friendship and ties to homeland or people.
+- events/manifestations: Meetings, traditional networks, a women's center and establishing friendship.
+- conflicts/notes: Helpful networks and emotional kinship coexist with Sandbach's vulnerability qualification; gendered and year/day examples do not establish universal roles or timing.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in emotional and social connection. Sandbach adds that security through others' affirmation can hinder growth, qualifying the helpful ties and compassionate participation described elsewhere without directly denying them.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Node = Moon`: compassionate fellowship, emotional participation in the group, and strong need for meaningful relationship or kinship. Main caution: dependency: the wish to feel secure, valued, or important through others can slow growth and blur boundaries.
+In `Sun/Node = Moon`, Moon specifies the Sun/Node pair through shared feeling that makes an association personally meaningful. [ABC](#abc-entry) repeatedly names emotional connections, while [Ebertin](#ebertin-entry) describes compassionate participation and ties to wife, homeland and people. [Witte](#witte-entry) and [Munkasey](#munkasey-entry) extend the field to friendship, public meetings, women and helpful networks. [Sandbach](#sandbach-entry) identifies both the need and its limit: meaningful relationships can provide a sense of importance and security, yet vulnerability to that affirmation can slow growth and change. Emotional involvement is central, with the gendered settings remaining the sources' particular examples.
 
 ## Links
 

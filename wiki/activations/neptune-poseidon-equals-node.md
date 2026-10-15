@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Node`
 - Astronomicon formula: `Y/¨ = g`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 To have dealings with desperate people, to be connected with highly developed or occult people. To be fooled by erroneous occult teachings.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `406`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Encounter with impoverished culture, combining subtlety with clarity, clarity in a connection through intuition, connected with clear water, refined cultural connections, reason weakness in a connection, and exchanged truth in a connection
+Encounter with future culture, combining sensitivity with clarity, clarity in a connection through intuition, connected with clear water, refined cultural connections, weakness of reason in a connection, and pretended truth in a connection
+
+## Comparative Schema
+
+- core meaning: connections involving refined culture, intuitive clarity, or questionable teaching.
+- psychology: sensitivity and weakness of reason are explicit.
+- body/health: no health claim is supplied.
+- social/relationship: Witte names desperate, highly developed, or occult people and being misled by teachings.
+- events/manifestations: future cultural encounter and pretended truth within a tie are stated.
+- conflicts/notes: the source lists different contacts; occult association does not itself prove deception or personal advancement.
+
+## Contradictions
+
+Witte describes several kinds of contact and misleading occult teaching. ABC also includes clarity and refined culture alongside pretended truth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Node`: To have dealings with desperate people, to be connected with highly developed or occult people. To be fooled by erroneous occult teachings.
-- Practical focus: spiritualized uncertainty becomes selective connection, bringing contact with occult or highly developed people while also exposing one to misleading teachings and desperate influences.
-- Practical expression: encounter with impoverished culture, combining subtlety with clarity, clarity in a connection through intuition, connected with clear water, and refined cultural connections.
+In Neptune/Poseidon = Node, questions of understanding arise through cultural or spiritually framed connections. [Witte](#witte-entry) includes developed or occult contacts and being fooled by erroneous teaching; [ABC](#abc-entry) adds sensitivity joined with clarity, refined cultural ties, and pretended truth in a connection (printed p. 406, PDF p. 202). The entry distinguishes the setting of a relationship from the reliability of what it teaches.
 
 ## Links
 

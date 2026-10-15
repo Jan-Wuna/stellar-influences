@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Asc](../axes/venus-asc.md)
 - Triad hub: [Venus Pluto Asc](../triads/venus-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 84; scanned activator row checked.
 
 To make oneself popular, to be likeable. Increase of popularity. Transformations and changes through loving acquaintances.
 
@@ -45,17 +49,23 @@ To make oneself popular, to be likeable. Increase of popularity. Transformations
 
 #### ABC Entry
 
-Developing peace in the environment, developing art at the place, developing I larmonie in the Umfcld. harmonious development with the partner, artistic development of the partner, loving different places, and developing affection for the partner
+- Source page: 109 (printed); PDF page: 53; scanned activator row checked.
+
+Developing peace in the environment, developing art at the place, developing harmony in the surroundings. harmonious development with the partner, artistic development of the partner, enjoying changes of place, and developing affection for the partner
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Strong powers of attraction. Deep love experience, a fanatic attachment and love,
+- Source page: 196 (printed), entry `0671`.
+
+Strong powers of attraction. Deep love experience, a fanatic attachment and love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 65 (exact passage checked in the raw PDF text).
 
 To compel other people to admire and/or be attracted to you, and to feel a sense of power coming from that. The driving need to transmute selfish self-love into healthy self-love.
 
@@ -70,22 +80,23 @@ Pushing hard for your ideas on how to influence style and beauty; a heightened n
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **core meaning:** Attraction changes relationships and can intensify the need to influence others.
+- **psychology:** Sandbach names power through admiration and a task of changing selfish into healthy self-love.
+- **body/health:** No bodily or medical claim is established.
+- **social/relationship:** Ebertin names deep love and fanatic attachment; Witte names popularity through acquaintances.
+- **events/manifestations:** Munkasey adds pressure for style ideas, attention and resources through others.
+- **conflicts/notes:** Growing affection and popularity do not cancel the coercive alternatives of compelling admiration or fanatic attachment.
+
+The categories follow the local source entries: [ABC](#abc-entry); [Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry).
 
 ## Contradictions
 
-- None recorded yet.
+Growing affection and popularity do not cancel the coercive alternatives of compelling admiration or fanatic attachment. ABC additionally names enjoyment of changes of place.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc = Pluto`: compelling allure, artistic force, and the ability to affect others profoundly through style, affection, or controlled self-presentation. Main caution: possessive magnetism: attraction can become manipulative, obsessive, or difficult to keep light.
+In `Venus/Asc = Pluto`, Pluto specifies the Venus/Asc axis through attraction that changes a person's relations with others. [Witte](#witte-entry) describes growing popularity and changes through loving acquaintances, while [ABC](#abc-entry) adds developing affection with a partner. The intensity has another expression in [Ebertin's](#ebertin-entry) fanatic attachment and [Sandbach's](#sandbach-entry) drive to compel admiration and feel power from it. [Munkasey](#munkasey-entry) adds pressure for attention or influence over style. The range is developing connection through to controlling the response it evokes; these outcomes should remain distinct.
 
 ## Links
 

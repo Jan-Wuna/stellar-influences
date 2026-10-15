@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Venus`
 - Astronomicon formula: `Y/MC = Q`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 Ideas on love and affection are not clear and distinct. Wrong perception of love. To pretend love. Moment of deceptive peace.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `80`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-I love the water, my love ancestors, my joy in the water, my love exchange, my weak for the kiss, my refined love, my love for breathing, my love for the air, and refined soul love
+I love water, my premonitions of love, my joy in water, my disappointment in love, my weakness for art, my refined love, my preference for breathing, my preference for the air, and refined soul-love
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `290`, entry code `1038`.
 
 #### Ebertin Entry
 
 Feigning or pretending particular feelings, simulation of love. Apparent show of attachment. The art of acting.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ An appreciation of high-mindedness and of spiritual idealism. A love of present 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Helps you visualize progress or new ideas in love, arts, or music; an increased 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: love, idealized self-presentation, and artistic or social appeal under uncertain perceptions.
+- psychology: idealizing oneself, unclear feelings, refined love, and disappointment in love are explicit.
+- body/health: ABC names preference for breathing, water, and air without a health claim.
+- social/relationship: pretended affection, spiritually supportive love relationships, and social charm are stated.
+- events/manifestations: acting, visualizing art or music, displaying glamour, and advancing through charm are explicit examples.
+- conflicts/notes: Witte and Ebertin stress simulated feeling, whereas Sandbach also describes idealism in a relationship; artistic interest does not itself establish deception.
 
 ## Contradictions
 
-- None recorded yet.
+The older entries emphasize pretended love and deceptive peace. Sandbach and Munkasey include spiritual ideals, artistic visualization, and charm without requiring insincere affection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Venus`: creative work, public tact, and the ability to advance through taste, feeling, and subtle social appeal. Main caution: image idealization: career and reputation can depend too much on pleasing appearances, fantasy, or fragile approval.
+In Neptune/MC = Venus, love and artistic or social appeal can become bound to an idealized image. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize unclear or simulated affection; [Sandbach](#sandbach-entry) adds idealized self-presentation and a relationship supporting spiritual ideals. [Munkasey](#munkasey-entry) describes artistic visualization and progress through charm, while [ABC](#abc-entry) includes both refined love and disappointment in love. The entry therefore distinguishes appealing presentation from the sincerity of the feeling it presents.
 
 ## Links
 

@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Venus Saturn MC](../triads/venus-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To separate from love, women, or very agreeable things. Love’s sorrow.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation and activator boundary checked against the German row.
+
 #### ABC Entry
 
-Lost Soul Peace, love my duties, my serious skill, my love for patience, my love problems, my love for perseverance, the beauty of a mature soul, psychic harmony in old age, and love for mental tasks
+Disturbed soul-peace, loving my tasks, my serious art, my love of patience, my love-problems, my preference for endurance, beauty of a mature soul, soul-harmony in old age, and a preference for soul-related tasks.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: code `0930`, printed p. 263; PDF p. 265.
 
 #### Ebertin Entry
 
 Sad feelings, renunciation, reserve. Separation from loved ones, grief or suffering.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 96.
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Softens self-generated critical evaluations of self or others; feeling more wort
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious love and aesthetic values amid reserve, endurance, or separation.
+- psychology: sadness, self-criticism, self-worth, patience, and ethical sincerity.
+- body/health: The entries give no specific bodily claim.
+- social/relationship: separation from loved ones, spiritual aspirations in love, and felt disrespect from a lover.
+- events/manifestations: serious or spiritual art, music, loss, and pleasure or harmony in old age.
+- conflicts/notes: The sources retain both renunciation and satisfaction; historical reference to women is attributed to Witte.
 
 ## Contradictions
 
-- None recorded yet.
+- Lovesorrow and mature aesthetic or relational satisfaction are distinct possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/MC = Venus`: steady relationships in career, measured artistic or social judgment, and public grace that matures over time. Main caution: inhibited ease: fear of disorder or disappointment can cool warmth and make success feel dutiful rather than pleasurable.
+In `Saturn/MC = Venus`, Venus specifies the Saturn/MC axis through love, beauty, and values shaped by seriousness or loss. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize sorrow, reserve, renunciation, and separation from loved or agreeable things. [ABC](#abc-entry) also describes love of tasks and patience, serious art, and harmony in old age.
+
+[Sandbach](#sandbach-entry) seeks an ethically sincere relationship that advances spiritual life, while retaining the possibility of feeling disrespected by a lover. [Munkasey](#munkasey-entry) adds softened self-criticism, greater self-worth, and pleasure in traditional arts or music. The range includes affection and aesthetic satisfaction as well as grief and restraint.
 
 ## Links
 

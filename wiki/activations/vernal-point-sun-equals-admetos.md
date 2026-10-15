@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Admetos](../triads/vernal-point-sun-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 Land property, estates. Parting of the body from this Earth. Death.
 
@@ -42,13 +46,27 @@ Land property, estates. Parting of the body from this Earth. Death.
 
 #### ABC Entry
 
-Depressed people in public, restricted person in public, consolidation of a man in public life, public restriction of persons, and person stau in public
+- Source page: 23; PDF page: 10 (one-based spread).
+
+Depressed people in public, a restricted public person, consolidation of a man's position in public life, public restriction of persons, and congestion of people in public
+
+## Comparative Schema
+
+- core meaning: Public personal or bodily life restricted, consolidated, or brought to an end.
+- psychology: Depressed people are a source description.
+- body/health: Death is a severe Witte source association, without a diagnostic basis.
+- social/relationship: Restricted people and a consolidated public position.
+- events/manifestations: Land or estates and congestion of people.
+- conflicts/notes: Consolidation and landholding are distinct from death; depression is not diagnosed.
+
+## Contradictions
+
+Witte's estates and ABC's consolidation coexist with restriction and death. Stable position and ending must remain different possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Admetos`: land property, estates, parting of the body from this Earth, and death.
-- Practical expression: depressed people in public, restricted person in public, consolidation of a man in public life, and public restriction of persons.
+In `Vernal Point/Sun = Admetos`, public personal life is defined by limits, fixed position, or an ending. The [Witte entry](#witte-entry) names land and estates alongside bodily departure and death. The restored [ABC entry](#abc-entry) adds restricted or depressed people, consolidation of a man's position, and congestion. The synthesis retains firmness and limitation without treating every fixed or crowded condition as the extreme death example.
 
 ## Links
 

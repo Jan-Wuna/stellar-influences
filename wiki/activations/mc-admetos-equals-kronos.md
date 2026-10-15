@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [MC Kronos Admetos](../triads/mc-kronos-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Admetos,” PDF p. 75.
 
 Perseverance in one’s own authority.
 
@@ -42,13 +46,27 @@ Perseverance in one’s own authority.
 
 #### ABC Entry
 
-Special mental consolidation, blockade of my authoritarianism, end of my self restraint, I block the authoritarianism, I stabilize the state, my solid self confidence, my special perseverance, my great depressions, and my state restrictions
+Source: “Meridian + Admetos,” printed p. 95 (PDF p. 46).
+
+Special inner consolidation, blockage of my authority, end of my independence, I block authority, I stabilize the state, my consolidated self-confidence, my special perseverance, my great depressions, and my restriction by the state.
+
+## Comparative Schema
+
+- core meaning: Personal firmness expressed through authority, independence, self-confidence, or state restriction.
+- psychology: Perseverance and consolidated self-confidence, with depression among ABC's historical expressions.
+- body/health: No bodily mechanism is supplied; depression remains attributed source wording.
+- social/relationship: Maintaining one's authority, blocking authority, or stabilizing the state.
+- events/manifestations: Loss of independence, blocked personal authority, and state restriction.
+- conflicts/notes: Holding authority and being restricted by it are distinct directions; authority is not synonymous with authoritarianism.
+
+## Contradictions
+
+Witte names perseverance in one's authority. ABC also includes its blockage, loss of independence, and restriction by the state, so command is not always maintained.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Kronos` raises the axis into fixed authority and unwavering command.
-- Chart expression: perseverance in leadership, rigid maintenance of rank, and an authoritative life stance that does not easily bend or relinquish control.
+In `MC/Admetos = Kronos`, Kronos specifies personal firmness through authority, independence, and the state. Witte describes perseverance in one's own authority; ABC includes stabilizing the state and consolidated self-confidence, but also blocked authority, an end to independence, and state restriction. Their range covers maintaining authority and meeting limits to it, rather than establishing an unvarying position of command. ([Witte](#witte-entry), PDF p. 75; [ABC](#abc-entry), printed p. 95 / PDF p. 46)
 
 ## Links
 

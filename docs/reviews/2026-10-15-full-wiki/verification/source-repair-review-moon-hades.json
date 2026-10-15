@@ -1,0 +1,492 @@
+{
+  "scope": "All20 changed Moon/Hades Source Entries compared whole-section original/current. Only two new locator lines per section; all source prose unchanged. Actual Witte131 and ABC96 scans personally inspected per glyph row. Three materially corrupted retained blocks held; the other17 verify only locator metadata, with explicit inherited-prose limits. Available full-page owner records read; missing ledgers remain pending.",
+  "proof": [
+    {
+      "path": "wiki/activations/moon-hades-equals-admetos.md",
+      "before_sha256": "566fc0bedbe13cb89ac22a9d50792762c3526f1d5c7ba2dbd3c3566d7d3f405d",
+      "after_sha256": "7c069c863655c4c03f7dc127d2122c886a385f1425e1955ea7b919e7dbebf9f7",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nPeople dying of misery and plague.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nPerseverance of an old woman, blockade by GemOt's heart, depression risk for a woman, depressed woman in need, dangerous cycle of a woman, hearty GemOt's depression, gritty renunciation of a woman, and depression risk in the hour",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited ABC GemOt/heart/depression-risk wording remains uncorrected; actual source ends with suppression risk and distinguishes Gemüts-Kummer."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-apollon.md",
+      "before_sha256": "96d07302587d184cbc753104df1555b240077d4b3ccb5685b034672c732e1276",
+      "after_sha256": "ae2e0ca5d1a74366e16eb88bed0713929fe766aafba4305db7a0b02bee70ef13",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nTo have to care for many. Many worries. The mass of the lower people. Need and worries of a multitude of people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nSpreading the plight of a people, experiences of an old woman, successful Y passed away a woman, experiencing GemOt's heart, criminal knowledge of a woman, many dangers for the woman, knowledge of the past of a people, and increasing renunciation of a woman",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited successful-past/GemOt wording remains damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-asc.md",
+      "before_sha256": "02b40290c7d82af4b3c4b0ac19848b5a2974aafea7d14138371a66d66b2f9b4a",
+      "after_sha256": "16fbc3b9f6d0523c23e1eb73847f938ea4caa1af90a46a413ea230740827b690",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nConnection with worried, depressed persons. Acquaintance with prostitutes, or with bad women. Worries caused by others, or which one causes others.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nold woman at the place, other peoples in distress, emotional sorrow with the partner, danger for women in the environment, emotional deficiency of the partner, lacking feeling for the environment, hour of danger for the environment, past of other peoples, and polluted environment of a people",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-cupido.md",
+      "before_sha256": "f3f28151ecd0759e90e138ed0400fa59deaa25fe788c8e08f065c06445fdb36a",
+      "after_sha256": "97178af219ff44a67d8a7ecde95bc6dc67dff6161bbb29efaa4716a23f9b893b",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nPoor woman as a widow. Poor womans or a widows leisure hours. Fatal hour for family.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nCommunity policy and economic and social cohesion",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "material_hold",
+      "finding": "Actual ABC PDF96/printed195 Cupido row has seven clauses about common past/service, shared grief, older women, emotional deficiency, dangerous hour and tradition-community. Current unrelated EU-policy/cohesion sentence is material source contamination; correct locator alone is insufficient."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-jupiter.md",
+      "before_sha256": "3c7e548473cf27be31d85f64894a37da44e27aa42366a20592db8db27ccb0c0b",
+      "after_sha256": "c7aeb78936267111a08fdca0aefe0e29287a7e1755be03b060b1e08695516c22",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nHappy widowhood. The merry widow. Food or money worries. Earning money in a base, immoral way. Hour of great wastage.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nFinancial crime in a people, financial disadvantages of a woman, joy and sorrow of a people, Glock by woman from the past, lack of legal feeling, legal disadvantages for a people, advantage of a people in need, and satisfied woman in service",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited Glock is not certified as a translation; the actual word is Glück."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-kronos.md",
+      "before_sha256": "4dc99813043c97c4eb8b6eaf313eae806b8f8224c631ab12c565f1d14f489412",
+      "after_sha256": "eb3dae61f3a59b57cb838a884ad055ff80b3d0b877dd654daa8dcc1a6c670e97",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nGreat worries or cares. Parent s worries. Made poor through government. Social service for widows and orphans.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nPresence of an old woman, danger to the boss's wife, deprivation of a great woman, dangerous self being of the woman, lack of a boss's chair, great feelings Kummer, criminal authority of a people, and need of a self professed Y olkes",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited presence/self being/boss's chair/Y olkes wording remains damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mars.md",
+      "before_sha256": "db8df66be795c92f788fa389a181c6938a11f28dbbd29a81edae3cb70f6d51d9",
+      "after_sha256": "a4da60ddf272e07207431347032b16e750b2636c72812d2aad6553aa46dc4e45",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nActive, poor, common woman. Activity full of worry and care.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nWork of an old woman, work service of a woman, dangerous activities of a people, GemOts Kummer in creating, secret actions of a woman, impulses of a woman from the past, criminal women's work, and a woman's renunciation of work",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited GemOts Kummer remains untranslated or damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mc.md",
+      "before_sha256": "2b71b0ce70492a5a2e1e8e36223afa8248d7a3804b65ecc618abe3de60b7f935",
+      "after_sha256": "8a13b8f074e131bfda936b48faa6ac0121cd69fcf864145f9810c0f83d1b8b7a",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nDefamation through malicious women. To be enmeshed by bad women. Fiancee of low standards. Slandered, worried. Moment of loneliness or difficult circumstances for females. Tragically moment for the public.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nMy people is in need, my v is in need, a woman's soul, a people's soul, a man's soul, and my people's past",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "material_hold",
+      "finding": "Actual ABC PDF96/printed194 MC row starts danger for my wife, danger for me in the hour of my grief, and my people in distress; remaining clauses concern renouncing/service to a woman, psychic need/service and the people's past. Current six-clause souls text omits and substitutes substantial content. Hold until owner repair."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-mercury.md",
+      "before_sha256": "b1f32b4144d7daaea2c8e9d479ebb4d6601972a2a47beec7798862f50bebcdb4",
+      "after_sha256": "6a34eb58da2f75876f2f4944f8a2efaa72587a1d56b13fe0a1382f06e5e57c69",
+      "ledger": "",
+      "ledger_line": null,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nA brooding poor woman. Diseased brains. Worried thoughts. Stupidity.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nReports from the past of a people, danger to young women, poverty of the youth, talk about women in danger, crime of the youth, media crime of a people, reports about a people in need, and female crime of the youth",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": null,
+      "owner_changes": null,
+      "owner_unresolved": null,
+      "owner_evidence": null,
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_verified_pending_ledger",
+      "retained_prose_limit": "Inherited poverty of youth and duplicated youth-crime wording do not faithfully distinguish the printed emotional-deficit and media/youth-crime clauses."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-neptune.md",
+      "before_sha256": "8422baee660b1481426f48cff1d0af08f748fc0b0065d9b85adc85276221425d",
+      "after_sha256": "2e39bcefc17141ae46dd3fc7f0b196b9b9ade719c3c5de46da4b46c92f225699",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 1,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nPoor abandoned wife. Widow. Worries for the future, not seeing a way out. To be in low water, without resources.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nWomen exchanged by need, exchangeable past of a people, F of an old woman, foreign people in need, lack of a woman's fine feeling, unknown danger to the woman, insecurity by feelings Kummer, and water deficiency of a people",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted prior connected Neptune-specific synthesis and six-category schema after full reread; replaced generic contradiction boilerplate with the actual shared and collective range."
+      ],
+      "owner_unresolved": [
+        "ABC at printed195/PDF96 has suspect Women exchanged, exchangeable past, F of an old woman, feelings Kummer; excluded from confident synthesis; raw row not inspected."
+      ],
+      "owner_evidence": [
+        "#witte-entry: future worries, no way out, without resources; PDF131 parser start.",
+        "#abc-entry: unknown danger, water deficiency of a people; printed195/PDF96 parser locator."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "Inherited exchanged/exchangeable/F/Gemüts-Kummer wording remains damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-node.md",
+      "before_sha256": "849255fb5bcc2a2a6607a1cc7ab0e44936a3382175e3c55017bc082d228d7778",
+      "after_sha256": "24bab25f2bfdaeed17f4d164f3783599011dab7188f82413ed0203ec259feed7",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 2,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nProspect of becoming a widow. Connections which cause worries. Connection to old women.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nrelationships to the past of a people, emotional deficiency in connections, emotional connection from the past, emotional sorrow in a connection, contact with an old woman, contact with women in distress, and renunciation of the bond to women",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted prior Node-specific synthesis and six-category schema after full reread; replaced generic contradiction warning with the bounded range of the entries."
+      ],
+      "owner_unresolved": [],
+      "owner_evidence": [
+        "#witte-entry: worrying connections, old women, prospect of widowhood.",
+        "#abc-entry: emotional lack/sorrow, women in distress and past bonds."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-pluto.md",
+      "before_sha256": "8b082b52bf4330fbdb56822d645b48d5649731a0c83f8566a0aab13d935fda39",
+      "after_sha256": "4c93c6b7c56bbc72ed17a843f9a6dedca1be693dda14655cb8da6fd587ade6e9",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 3,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nP Sterility of the wife. Paralyzed by fear. Failing people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nDevelopments from the past of a people, dangerous development for cine woman, development of felony deficiency, criminal developments in cinem people, renunciation of a woman for change, growing need of a people, and change of a serving woman",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted connected Pluto-specific synthesis and schema after full reread; qualified leading P as unexplained and replaced generic contradiction boilerplate."
+      ],
+      "owner_unresolved": [
+        "Witte leading P and ABC felony deficiency/cine/cinem wording require raw verification; excluded from confident interpretation."
+      ],
+      "owner_evidence": [
+        "#witte-entry: paralyzed by fear, failing people and historical sterility claim.",
+        "#abc-entry: developments from the past and growing need of a people."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "Inherited leading P is an alternative Pluto glyph, and felony-deficiency/cine/cinem wording remains damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-poseidon.md",
+      "before_sha256": "5cf08987996429b8bc968df2649c38d537da40e465dfce2d60ce34aaabae2f6a",
+      "after_sha256": "0f0a1c6dc64e6381b558a9328143273f78fe443a1c99df2c5a8aa53e79596263",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 4,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nSad disposition. Sad mental condition. Stupidity and superstition among the people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nWomen from a past culture, mental danger for the woman, mental distress of a Y olk, clarity of an old woman, culture people of the past, disadvantages of mind and mind, hidden insights of a woman, and a woman's gut by renunciation",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted Poseidon-specific synthesis and schema after complete reread; made the sadness versus clarity range explicit in Contradictions."
+      ],
+      "owner_unresolved": [
+        "ABC mind and mind and woman's gut wording remains suspect and excluded; raw row not inspected."
+      ],
+      "owner_evidence": [
+        "#witte-entry: sad disposition and superstition among the people.",
+        "#abc-entry: older woman's clarity, hidden insights and past culture."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "Inherited mind-and-mind/gut translation remains damaged; actual final word is Vernunft (reason)."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-saturn.md",
+      "before_sha256": "f68a365fde01f20109fd50f5c9e90671413f7d332cc132997911707337243184",
+      "after_sha256": "39ee76018c0f7b573032134a333ccede64cdf51686fb775b99c5ab0839a550b5",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 5,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nHostility. Worries through enmities. Separation. Loss. Disappearance of vile things. Operative cut in the womb.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nTasks from the past of a people, burdened woman by the past, woman matured by grief, patience and renunciation of a woman, feelings Kummer in old age, hard of an old woman, inhibitions by Gef'Lihl's deficiency, and grief and pain of a woman",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted Saturn-specific connected synthesis and schema after complete reread; replaced generic contradiction boilerplate with distinct outcomes/responses and precise wording limits."
+      ],
+      "owner_unresolved": [
+        "ABC feelings Kummer, hard of an old woman and Gef'Lihl's deficiency remain suspect and excluded pending raw verification."
+      ],
+      "owner_evidence": [
+        "#witte-entry: separation, loss, disappearance of vile things, operation example.",
+        "#abc-entry: past burdens, patience, renunciation and grief."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "Inherited feelings Kummer/hard/Gef'Lihl wording remains damaged."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-sun.md",
+      "before_sha256": "d6024eb8ec64ce5efac59f4892b8a6019853317f8daa0d4ee11c691588beb09c",
+      "after_sha256": "e6c598f5d1a9c937f17a55de8233278208b4ca529532448847d3e0066fc89199",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 6,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nThe poor wife of the man. Daily repeating worries.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nservice of the woman to the man, service of the man to the woman, privations between woman and man, danger for the woman of the man, emotional sorrow for the man, people of a people in distress, persons with deficient feelings, and personal renunciation of the woman",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted prior Sun-specific synthesis and six-category schema after full reread; replaced generic Contradictions boilerplate with actual daily-worry/mutual-service emphasis."
+      ],
+      "owner_unresolved": [],
+      "owner_evidence": [
+        "#witte-entry: poor wife and daily repeating worries.",
+        "#abc-entry: service in both directions, deprivation and emotional sorrow."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-uranus.md",
+      "before_sha256": "879c43cdd54f48c3dbc3cb1a1ee926e98c3da489876802fc044442f9ff796b7d",
+      "after_sha256": "97234fbc36d24e37705d4dbbca9f53c1db4a7abc287f18c5bf27234aa6cf3e2a",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 7,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nBecoming a widow through accident. Sudden worries. To be impoverished suddenly.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nExcitement of a woman who is suffering, a heart attack, dangerous losses for the woman, problems in the people through the past, remorning for a people in need, tensions caused by a shortage of fish, and hour of a sudden danger",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted prior sudden-distress synthesis and schema; distinguished OCR/cache mismatch from doctrinal disagreement."
+      ],
+      "owner_unresolved": [
+        "ABC heart attack, remorning and shortage of fish mismatch the supplied OCR; excluded pending raw row verification."
+      ],
+      "owner_evidence": [
+        "#witte-entry: sudden worries and impoverishment.",
+        "#abc-entry: distressed woman's agitation and hour of sudden danger."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "material_hold",
+      "finding": "Actual ABC PDF96/printed195 Uranus row says sudden Gemüts-Kummer and tension through Gefühls-Mangel. Current a heart attack and shortage of fish are unsupported material mistranslations, not doctrinal variants. Hold until owner repair."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-venus.md",
+      "before_sha256": "208f366831a5c1c8f538419a12412ceddc60b2a1a7d000bcadb5acefe6159937",
+      "after_sha256": "634ec9a55577e8ee290b5e5f52f59563c4100d5513aaf3903228d0c6d6525dee",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 8,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nA loving poor woman. Street-walker. Venal love. Worries caused by love.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nDangerous love of a woman, harmony deficiency with the woman, grief through the lack of peace, love for a woman from the past, love deficiency of a woman, love service of a woman, renunciation of a woman from love, and preference for the past of a people",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted Venus-specific connected synthesis and schema; replaced suspect peace claim with supported worry/harmony and recorded translation limit; tightened Contradictions."
+      ],
+      "owner_unresolved": [
+        "ABC grief through the lack of peace translation requires raw verification; not used as a positive psychological claim."
+      ],
+      "owner_evidence": [
+        "#witte-entry: loving poor woman, worries caused by love and attributed commercial-sex examples.",
+        "#abc-entry: lack of harmony, love from the past, renunciation."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "Inherited lack of peace/love deficiency misrepresents Gefühls-Mangel/Liebes-Kummer."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-vernal-point.md",
+      "before_sha256": "d9cae3add4769df818d39f77330fe94f39eb1ffab84b4a5a63cb69cbc098a648",
+      "after_sha256": "ea49d2801d72ae80e1946f3459bafbcdb618d5c15fa3d4d2a1c4c76599251d95",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 9,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nPoor women. Poor populace. Prisoners.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\ndeprivations of a people in public, endangered women in public, emotional deficiency in public, criminal woman in public life, public distress of a people, and tradition of a people in public",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted public/collective synthesis and six-category schema after complete reading; replaced generic contradiction boilerplate with public-distress/tradition range."
+      ],
+      "owner_unresolved": [],
+      "owner_evidence": [
+        "#witte-entry: poor women, poor populace, prisoners.",
+        "#abc-entry: public distress, endangered women and public tradition."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-vulcanus.md",
+      "before_sha256": "fd41f76353cba910d2e2bbb785991ea850042b7a083cbaaf3f9ecd30df8c43c9",
+      "after_sha256": "db8b9b64b33999a93a13bd25218971f8e79ef04600a351262d7c19e2a1cddd70",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 10,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nDeplorable conditions in public or in the populace. Gang of criminals. Endangered because of criminal gangs.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nenergy of an old woman, secret power of a woman, tremendous distress of a people, criminal violence against women, powerful sorrow of a woman, deficient emotional influence, hidden power of the woman, and hidden emotional influence",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted connected force/distress synthesis and meaningful six-category schema; clarified bounded difference between danger and older woman's energy."
+      ],
+      "owner_unresolved": [],
+      "owner_evidence": [
+        "#witte-entry: deplorable conditions and danger from gangs.",
+        "#abc-entry: older woman's energy, powerful sorrow, collective distress and hidden influence."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-zeus.md",
+      "before_sha256": "f24f753c82d6f700f90aed76973369445df2c95447976ff9222aeece2fdf06da",
+      "after_sha256": "23de21d07b4d05a0afb1b4c914094b84ce95f7bee2b5d3f245185ab9aaa3ca16",
+      "ledger": "activations-043.jsonl",
+      "ledger_line": 11,
+      "retained_prose_unchanged": true,
+      "current_section": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).\n\nPrisoners of war. War-widow. To turn to ashes.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).\n\nEffortful women's service, criminal goals of a woman, performance deficiency of a woman, poor management of a people, disadvantage for creative women, traditional women's leadership, hidden achievements of a woman, and goal aspirations of an old woman",
+      "added_metadata": [
+        "- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).",
+        "- Source passage: `Mond + Hades`; printed p. `195`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified)."
+      ],
+      "owner_full_read": true,
+      "owner_changes": [
+        "Accepted Zeus-specific synthesis and schema after full reread; replaced repeated boilerplate with actual scale and outcome limits."
+      ],
+      "owner_unresolved": [],
+      "owner_evidence": [
+        "#witte-entry: prisoners of war, war widow and ashes.",
+        "#abc-entry: effortful service, disadvantages for creative women, hidden achievements and striving."
+      ],
+      "actual_witte_locator_verified": true,
+      "actual_abc_locator_verified": true,
+      "decision": "locator_delta_accepted",
+      "retained_prose_limit": "No material discrepancy identified while checking this unchanged source row; the approval concerns the new locators."
+    }
+  ]
+}

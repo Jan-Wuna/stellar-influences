@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Admetos/Poseidon = Node`
 - Astronomicon formula: `¦/¨ = g`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 312 (entry start).
+
 To be connected with educational courses, educated people, educational establishments etc.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Limited influence/3 in contacts, restricted clarity in a connection, consolidation of truth in a connection, spiritual deepening in a connection, general clarity in a connection, and underlying truth in a connection
+Reference: printed p. 476 (PDF p. 237).
+
+Limited influence in contacts, restricted clarity in a connection, consolidation of truth in a connection, intellectual deepening in a connection, thorough clarity in a connection, and suppressed truth in a connection.
+
+## Comparative Schema
+
+- core meaning: Connections through education or through shared, restricted, or deepened understanding.
+- psychology: Limited influence or restricted clarity within contact.
+- body/health: Neither entry supplies a bodily or medical meaning.
+- social/relationship: Links to educated people, courses, and institutions; truth consolidated or suppressed in a connection.
+- events/manifestations: Educational contacts and intellectual deepening through a connection.
+- conflicts/notes: The [ABC entry](#abc-entry) gives both clarity and suppressed truth; formal educational connections in the [Witte entry](#witte-entry) do not determine which applies.
+
+## Contradictions
+
+Restricted clarity and thorough clarity are alternative qualities of connection within ABC. The entries do not establish that educational institutions must narrow or clarify a relationship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Node`: academic circles, intellectual networks, and alliances formed through study, teaching, or cultural life. Main caution: institutional narrowing: connection may depend too heavily on formal systems, credentials, or closed educational milieus.
+In `Admetos/Poseidon = Node`, Node specifies the pair through connections to education and through the quality of understanding within a bond. The [Witte entry](#witte-entry) names courses, educated people, and educational establishments. The [ABC entry](#abc-entry) adds intellectual deepening and consolidated truth in a connection, while retaining limited influence, restricted clarity, and suppressed truth. The concern is what a connection permits or limits in understanding; dependence on credentials or a closed academic circle is not established.
 
 ## Links
 

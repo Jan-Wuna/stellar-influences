@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Asc](../triads/moon-uranus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Energetic wife. Acquaintance with an energetic woman. To be present, to witness, to experience an uproar or exciting event. To be kept under high tension by others. Surroundings are full of tension.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 eventful hour at the place, excited emotional nature of the partner, emotional impulses of others, impulses of other women, my woman at the place, nervous woman in the environment, hourly rhythm at the place, surprise with another woman, and environmental reforms of a people
+
+Source locator: printed p. 186, PDF p. 92; Asc row visually checked.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,39 +59,46 @@ eventful hour at the place, excited emotional nature of the partner, emotional i
 
 Restless and excitable personality, a disturbing influence upon others. An energetic and excitable woman. An upsetting experience.
 
+Source locator: printed p. 129, entry 0396.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The need to be able to relate to others in an emotionally free manner. One who can relate their caring to others in a free and uninhibited way.
 
+Source locator: PDF p. 34, Ascendant entry under “Planets activating the Moon/Uranus midpoint”; checked in the PDF text.
+
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MOON/URANUS with Planets and Points`
-- Source page: `124`
+- Source reference: printed p. `124`, PDF p. `125` (entry).
 
 #### Munkasey Entry
 
 Focusing on solving the problems to which you apply yourself; impressions from others on their appraisal of your family role; seeking attention from those meet; affecting your role within family groups or orientations.
 
+- Source-text note: the original prints `seeking attention from those meet`. The intended missing word is unknown; the omission is preserved and excluded from confident synthesis.
+
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Emotional excitement expressed through encounters, surroundings, and one's effect on others ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry)).
+- **Psychology:** Restlessness and excitability coexist with Sandbach's aim of uninhibited caring ([Sandbach](#sandbach-entry)).
+- **Body/health:** No bodily condition is specified by these activation entries.
+- **Social/relationship:** A tense partner or environment, energetic acquaintances, and the freedom to express care; Munkasey adds others' appraisals of one's family role ([Munkasey](#munkasey-entry)).
+- **Events/manifestations:** Witnessing an uproar or upsetting experience, local surprises, and attention to practical or family-role problems.
+- **Conflicts/notes:** Disturbing others and relating freely are different expressions, not interchangeable judgments about the person. Gendered examples remain source-specific.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ in emphasis: tension and upsetting encounters in Witte and Ebertin, emotional freedom in Sandbach, and appraisal of family roles in Munkasey. None establishes that free emotional expression must be disturbing or that these outcomes occur together.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Asc`: intuitive alertness, spontaneous responsiveness, and a personal field that feels lively, different, and hard to pin down. Main caution: instability in presence: others may experience the person as erratic, restless, or difficult to settle with consistently.
+Asc specifies Moon/Uranus through immediate relationships and surroundings: another person's excitement, a tense environment, or one's own restless effect on an encounter. The [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry) examples make the interpersonal setting explicit rather than defining a permanent personality defect.
+
+The expression can also be freely shared care: [Sandbach](#sandbach-entry) stresses emotional openness, while [Munkasey](#munkasey-entry) brings attention to how others perceive one's family role. The useful distinction is between allowing spontaneous feeling and handling the tension it may create between people; neither response is prescribed for every instance.
 
 ## Links
 

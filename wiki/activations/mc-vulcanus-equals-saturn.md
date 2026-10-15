@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [Saturn MC Vulcanus](../triads/saturn-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To guard or control something. Intervention to hinder or slow down something.
 
 #### ABC Entry
 
-Tasks of a strong soul, perseverance through psychic energy, straining psychic influence, influence of emotional pain, inhibitions by psychic violence, strength of a patient soul, my staggered power, my strong pain, and strong of a fixed soul
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Tasks of a strong soul, perseverance through psychic energy, burdensome psychic influence, influence of emotional pain, inhibitions through psychic violence, strength of a patient soul, my disturbed power, my intense pain, strength of a mature soul.
+
+## Comparative Schema
+
+- **Core meaning:** Power expressed through restraint and endurance.
+- **Psychology:** Patience, perseverance and burdensome inner experience.
+- **Body/health:** ABC's pain language is attributed and does not establish a condition.
+- **Social/relationship:** Control, guarding and inhibition through influence.
+- **Events/manifestations:** Intervening to slow something and enduring demanding tasks.
+- **Conflicts/notes:** ABC's gestörte Macht is disturbed power, while reife Seele is a mature soul. Pain and violence remain historical source associations rather than a diagnosis or an inevitable outcome.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Control and imposed restraint coexist with patience, maturity and endurance under burdensome influence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Saturn` hardens the axis into control, guarding, and intervention to slow events down.
-- Chart expression: disciplined power, authority used to restrain or contain, and a self that applies force by halting, supervising, or controlling what might otherwise move too far.
+Saturn specifies `MC/Vulcanus` through guarding, controlling or intervening to hinder an activity in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds perseverance and patience alongside burdensome influence, inhibition and pain. Strength is thus associated both with restraint imposed and with endurance under restraint; these different directions need not be contradictory.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Uranus = Neptune`
 - Astronomicon formula: `T/X = Y`
 - Axis page: [Mercury/Uranus](../axes/mercury-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Uranus`; one-based PDF page `163` (supplied source-map locator; not visually verified).
+
 Fruitless request. Logical thinking concerned with the metaphysics.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting future news, exchangeable events in speech, conversation about future technology, rhythmic water movements, exciting conversations about metaphysics, intuitive thought pulses, unsafe movement rhythm Exciting news development, exciting word exchange, and dynamic development
+- Source passage: `Merkur + Uranus`; printed p. `249`; one-based PDF page `123` (oriented row checked against the scan).
+
+Exciting news about the future, disappointing events in conversation, conversations about future technology, rhythmic water movements, exciting conversations about metaphysics, intuitive thought impulses, uncertain rhythm of movement.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Uranus`; printed p. `159`; entry code `0513` (supplied source-map locator; not visually verified).
 
 Inspiration, para- or supra-normal cognition or extrasensory perception, revelations, correct interpretation of visions, apparitions and similar phenomena. Grasping immaterial or intangible things. Nerve troubles.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Uranus midpoint`; one-based PDF page `48` (exact oriented passage checked in the actual PDF text).
 
 The ability to think subtly and/or intuitively. The receiving of visions and revelations. The ability to open up the minds of other people. Inspirations that are of a subtle nature, which could be confusing until one learns how to be attentive and recep tive to them.
 
@@ -70,22 +80,23 @@ Carelessness in your work or speech; sloppy habits to your eccentricity and aloo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Original thought engages subtle impressions, intuition and intangible subjects.
+- psychology: Visions and inspirations may be confusing; visualization can coexist with carelessness.
+- body/health: Ebertin's nerve-trouble association is historical, not diagnostic.
+- social/relationship: Opening others' minds and careless speech are separate interpersonal expressions.
+- events/manifestations: Metaphysical conversation, future technology, fruitless requests and imagined lifestyles are examples.
+- conflicts/notes: Ebertin's extrasensory claims remain attributed doctrine; Munkasey adds practical irresponsibility.
 
 ## Contradictions
 
-- None recorded yet.
+The entries differ materially in emphasis: some claim subtle cognition or revelations, while Munkasey stresses carelessness alongside visualization. Neither should erase the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Uranus = Neptune`: visionary thinking, inspired interpretation, and the capacity to perceive beyond ordinary mental boundaries. Main caution: erratic confusion: impressions can become unreliable, overstimulated, or too elusive to verify.
+In `Mercury/Uranus = Neptune`, Neptune specifies original thought through subtle, intuitive or intangible impressions. The entries describe inspiration, visions and metaphysical understanding, with Sandbach noting that subtle impressions may initially confuse. Ebertin's extrasensory and revelatory claims remain attributed doctrine. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Witte](#witte-entry))
+
+Visualization of a better life coexists with Munkasey's careless speech or irresponsible preparation of work. ABC adds future technology, intuitive thought impulses and uncertain rhythms of movement, while Witte retains a fruitless request. The range therefore includes both inspiration and difficulty giving it a dependable practical form. ([Munkasey](#munkasey-entry); [ABC](#abc-entry); [Witte](#witte-entry))
 
 ## Links
 

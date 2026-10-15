@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Saturn](../triads/sun-mars-saturn.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Strengthened determination to excel at whatever physical activities you desire; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Effort meeting obstruction or requiring patient control.
+- psychology: Held-back assertion, pessimism, or careful persistence.
+- body/health: Illness, weakness, and pain are attributed examples.
+- social/relationship: Separation and disappointing feedback appear in the entries.
+- events/manifestations: Interrupted work, vocational obstacles, or economical movement.
+- conflicts/notes: Determination and inhibition are different supported responses.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey’s strengthened determination differs from Ebertin’s inactivity and Sandbach’s low confidence; the entries support a range of responses to difficulty rather than one uniform outcome. Historical illness claims remain attributed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Saturn`: patient effort where easy force is unavailable, and to the task of learning how to accomplish something without haste or self-defeat. Main caution: defeated will: pessimism, inactivity, or pent-up energy can turn the drive inward and produce frustration or separation.
+In `Sun/Mars = Saturn`, Saturn specifies Sun/Mars activity through difficulty, restraint, and the need to proceed carefully. The [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) emphasize obstruction or interruption; the [Sandbach Entry](#sandbach-entry) describes patient, slow work and the pressure that can accumulate when assertion is withheld. The [Munkasey Entry](#munkasey-entry) also allows strengthened determination and economical movement. The throughline is effort negotiating limits, which can be experienced as inhibition or as disciplined persistence.
 
 ## Links
 

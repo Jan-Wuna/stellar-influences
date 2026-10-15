@@ -1,0 +1,67 @@
+{
+  "batch": "D002",
+  "targets": 20,
+  "source_changed": 16,
+  "metadata_only": 1,
+  "already_correct": 3,
+  "review_counts_added": 0,
+  "page_source_owner_proof_bindings_current": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p138.png",
+      "sha256": "fb7b2f02659a6ae17e0e31182f616e0a99eb265e04beb83bd58b662006d5bf3c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-p061.png",
+      "sha256": "182edff4b7b84a32ad05cdcb65393f8a3fc2c694c99ecee3c890a8579fc0930c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/a084-088-sandbach-venus-neptune-pages61-62.txt",
+      "sha256": "69060cd5f63f496b6c41d98778106489fdc1fd97c10f51eb98f628a6bce5b826"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf025.png",
+      "sha256": "ee4c190e25e250589df78aac9ad75e515b9c3040b595e71f6b6e475ece40a420"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf144.png",
+      "sha256": "3b5a58e62fc1bffb0873ba565e0264ddfdc50ccf0933486eabd6ac095fa08a6b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf145.png",
+      "sha256": "fca93e77ac00dcc873f72652af1e71a58d108283482caace7513150753a2a7e5"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf062.png",
+      "sha256": "7e318b4ab14fb3b6c978aa9dc3510ccc5d14081f7f9787c99bc55734a576b7cb"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf052.png",
+      "sha256": "a2e6bddae14fac83e8894ee36848e7f7e3b88092fc8f3b17b66f63d3d00a96e1"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf186.png",
+      "sha256": "4672a44de847483815f5a1c033b24edb3c8f2f10c8bafa82bbca7a004863b36c"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf187.png",
+      "sha256": "fdc05769dd5cd1b54fb14bbed8a100c92844326c206c9ec0a75f89cbc827a150"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf187.png",
+      "sha256": "2819878fe0925ba2082d05e5c0dab92bc0e7ae705ba32af45dda1e72d7e76538"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-mars-venus-tnp-remaining-ebertin-pdf188.png",
+      "sha256": "a3168ccce6e85f20f2a90f3b1575a78b3eba1466daa0f3cc4a9284b75ce2a873"
+    }
+  ],
+  "ledger_counts": {
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-085.jsonl": 55,
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-088.jsonl": 49,
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-090.jsonl": 50,
+    "docs/reviews/2026-10-15-full-wiki/ledgers/activations-092.jsonl": 55
+  },
+  "whitespace_exit_code": 0,
+  "failures": []
+}

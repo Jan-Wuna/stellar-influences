@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Chiron Asc](../triads/sun-chiron-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 To be able to identify and focus on the spiritual meaning of the present moment. One’s simple presence emanates an aura of spiritual meaning and purpose. Meaning is wanting to always shine forth through all of one’s relationships, and this can and will happen spontaneously if allowed to.
 
+## Comparative Schema
+
+- core meaning: Spiritual meaning expressed through presence.
+- psychology: Focusing attention on meaning in the present moment.
+- body/health: No bodily condition or medical claim is given.
+- social/relationship: Relationships provide the setting in which meaning is expressed.
+- events/manifestations: A presence experienced as conveying purpose.
+- conflicts/notes: The entry concerns presence and relationships, not an asserted ability to diagnose hidden realities.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Asc`: learning to intuitively see through the surface layers of one's environment and immediately perceiving the deeper meaning in what surrounds one.
+Asc specifies the Sun/Chiron axis through immediate presence and relationships. In the [Sandbach entry](#sandbach-entry), attention to the spiritual meaning of the present moment allows purpose to be expressed through one's manner of being with others. The entry stresses spontaneous expression when allowed, rather than a separate technique for penetrating appearances.
 
 ## Links
 

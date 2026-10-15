@@ -33,27 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Neptune Pluto](../triads/venus-neptune-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
+
 #### Witte Entry
 
-E Sweet, kind and friendly to the face, but actually insincere. To develop a secret sympathy.
+Sweet, kind and friendly to the face, but actually insincere. To develop a secret sympathy.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `279`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Development of a love exchange, subtle development of love, harmonious development through sensitivity, uncertain development of peace, preference for Lufl increases, preference for development of metaphysics, and growing weakness of love
+Development of a disappointment in love, sensitive unfolding of love, harmonious development through sensitivity, uncertain unfolding of peace, preference for changes of air, preference for developing metaphysics, and growing weakness in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0634`.
 
 #### Ebertin Entry
 
 Amorous aberrations caused through a strong longing in love without attaining fulfilment, tragic love, painful renunciation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Heightened suspicions felt about deceptive practices; disguising waste or unwant
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Intensifying or developing romantic fantasy, with concealed feeling or disappointed longing.
+- Psychology: Relentless fantasies, inquiry into self-sacrifice, suspicion, or deceptive persistence.
+- Body/health: The entries supply no specific bodily or medical implication.
+- Social/relationship: Secret sympathy, insincerity, tragic love, or life-changing spiritual affection.
+- Events/manifestations: Developing disappointment or subtle love; concealment and elaborate coverups in Munkasey.
+- Conflicts/notes: Sandbach's transformative love and understanding of confusion remain alongside the strongly adverse or deceptive claims.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's transformative love and understanding of confusion remain alongside the strongly adverse or deceptive claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Pluto`: profound creativity, consuming attraction, and encounters that alter the emotional and aesthetic life radically. Main caution: seductive entanglement: fantasy and power can combine into manipulation, fixation, or difficult emotional exits.
+`Venus/Neptune = Pluto` intensifies the ideal of love and the need to understand what lies behind it. [Sandbach](#sandbach-entry) joins relentless fantasy to inquiry into self-sacrifice and the possibility of transformative spiritual love. The [ABC entry](#abc-entry) allows love to unfold sensitively while disappointment or weakness also develops. [Witte](#witte-entry) names secret sympathy and a pleasant face concealing insincerity; [Ebertin](#ebertin-entry) emphasizes painful unfulfilled longing. [Munkasey](#munkasey-entry) adds suspicion, deceptive power, and coverups. The range therefore includes penetrating confusion as well as deepening concealment, without making either a judgment about an individual.
 
 ## Links
 

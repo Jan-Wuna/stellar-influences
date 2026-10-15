@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Apollon](../axes/vernal-point-apollon.md)
 - Triad hub: [Vernal Point Neptune Apollon](../triads/vernal-point-neptune-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 52 (one-based).
 
 Extensive deception. Occult sciences. On the way to organized science.
 
@@ -42,13 +46,27 @@ Extensive deception. Occult sciences. On the way to organized science.
 
 #### ABC Entry
 
-Successful trade in water, metaphysical knowledge in the public sphere, potential future science, and uncertain world economy
+- Source page: 53; PDF page: 25 (one-based spread).
+
+Successful trade in water, metaphysical knowledge in public, public science of the future, uncertain world economy, much uncertainty in public, masses of water in public, and knowledge of the future for the public
+
+## Comparative Schema
+
+- core meaning: Public knowledge or commerce marked by uncertainty, concealment, or future-oriented inquiry.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Extensive deception is stated without a specific deceiver or victim.
+- events/manifestations: Occult sciences, organized science developing, water trade, and an uncertain world economy.
+- conflicts/notes: Occult or metaphysical knowledge is not automatically identical with deception.
+
+## Contradictions
+
+Successful water trade and economic uncertainty are different possible applications. The knowledge-related phrases do not establish the validity of a forecast.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Apollon = Neptune`: extensive deception, occult sciences, and on the way to organized science.
-- Practical expression: successful trade in water, metaphysical knowledge in the public sphere, potential future science, and uncertain world economy.
+In `Vernal Point/Apollon = Neptune`, Neptune specifies the pair through uncertain or not-yet-settled public knowledge and exchange. The [Witte entry](#witte-entry) names extensive deception, occult sciences, and movement toward organized science. The [ABC entry](#abc-entry) adds metaphysical and future-oriented knowledge, an uncertain world economy, and concrete water-related examples. The reading preserves inquiry, uncertainty, and deception as distinct possibilities, without equating every unconventional study with fraud.
 
 ## Links
 

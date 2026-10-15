@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Node](../axes/mercury-node.md)
 - Triad hub: [Mercury Pluto Node](../triads/mercury-pluto-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Node + Mercury`
+- Source reference: PDF p. 141 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,11 +48,17 @@ New thought connections. Changes in perception or mode of thinking. Changes in w
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Merkur`
+- Source reference: printed p. 209; PDF p. 103 (one-based) (entry).
+
 #### ABC Entry
 
 The development of young people in links, the development of links to young people, the transformation of encounters with intellectuals, the growth of news links, the transformation of environmental connections, and changing media contacts
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Mercury/Dragon's Head`
+- Source reference: printed p. 167; entry `0551` (coded entry).
 
 #### Ebertin Entry
 
@@ -55,11 +66,16 @@ Desire to be intellectually superior.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Source heading: `Planets activating the Mercury/Node midpoint`
+- Source reference: PDF p. 51 (one-based; chapter start only). This is a chapter start, not a verified exact entry page.
+
 #### Sandbach Entry
 
 One is strongly impacted by sharing ideas with others, and such experiences can be transforming in the extreme. One may put ideas together in a way that hold one back, and hence need to “rewire” them in a way that supports one’s personal evolution.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Source reference: printed p. 176 (entry page).
 
 - Source heading: `MERCURY/NODE with Planets and Points`
 - Source page: `176`
@@ -70,22 +86,21 @@ Suspicions about the leakages of data thru spies; the removal of massive amounts
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Changes in thinking and communication through connections. [Witte](#witte-entry); [Sandbach](#sandbach-entry).
+- psychology: Intellectual superiority and the need to revise restrictive thought patterns. [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry).
+- body/health: No specific bodily or health claim appears in these entries.
+- social/relationship: Intellectual encounters and changing media contacts; information shared or removed through associates. [ABC](#abc-entry); [Munkasey](#munkasey-entry), p. 176.
+- events/manifestations: New correspondence patterns and provocative or leaked information. [Witte](#witte-entry); [Munkasey](#munkasey-entry).
+- conflicts/notes: Information-control scenarios are one part of the range; they do not establish criminal conduct or a general investigative gift.
 
 ## Contradictions
 
-- None recorded yet.
+Development and transformation coexist with superiority and suspicion. These are differences of emphasis, not mutually exclusive claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Node = Pluto`: powerful coordination, investigative groups, and the ability to influence collective thought through concentrated messaging. Main caution: coercive networking: relationships can become manipulative, suspicious, or too bound to information-control dynamics.
+In `Mercury/Node = Pluto`, Pluto specifies connections through changes in perception, writing, and the way ideas are joined. Encounters can transform thinking, while rigid combinations of ideas can also hold someone back. [Witte](#witte-entry) and [Sandbach](#sandbach-entry) support that central thread. The wish for intellectual superiority and suspicions about leaked data add a more pressured form of exchange; these are attributed possibilities, not evidence that a network is manipulative. [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry), p. 176.
 
 ## Links
 

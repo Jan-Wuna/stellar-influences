@@ -1,0 +1,1162 @@
+{
+  "decisions": 138,
+  "queue_closed": 136,
+  "queue_total": 206,
+  "metadata_extras": [
+    "wiki/activations/moon-asc-equals-mercury.md",
+    "wiki/activations/moon-asc-equals-node.md"
+  ],
+  "unique_paths": 138,
+  "errors": [],
+  "git_diff_check_exit": 0,
+  "bounded_limits": [
+    {
+      "path": "wiki/activations/node-cupido-equals-zeus.md",
+      "unresolved": [
+        "Actual ABC PDF111 printed225 has Leistungs-Vermittlung einer Gemeinschaft. The terse row does not specify the kind of performance, service or achievement mediated; native compound retained and no specialized activity inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-neptune.md",
+      "unresolved": [
+        "Actual ABC PDF46 printed95 literally names mein Luft-Kreislauf. Translation repaired as air cycle with native phrase; the terse row does not explain what this cycle denotes."
+      ]
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-poseidon.md",
+      "unresolved": [
+        "Actual ABC PDF46 printed95 literally prints Urzeugung von Geist und Seele. This metaphysical expression is legible but unexplained by the row; native phrase retained and no origins mechanism inferred."
+      ]
+    },
+    {
+      "path": "wiki/activations/mc-mc-equals-poseidon.md",
+      "unresolved": [
+        "Source's explicit large-flooding clause has no explanation connecting it to intellectual or personal themes; retained without extrapolation."
+      ]
+    },
+    {
+      "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+      "unresolved": [
+        "Munkasey's final 'disobedience obeying instructions' clause is unclear in actual source; not interpreted confidently."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "unresolved": [
+        "ABC Rechts-Kunst einer Frau is an unusual source compound retained literally; no more precise legal/artistic role is supported here."
+      ]
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-neptune.md",
+      "unresolved": [
+        "ABC superiority of a woman in water is literal at printed199/PDF98 but the brief clause gives no more specific setting; no sport/occupation/medical application inferred."
+      ]
+    }
+  ],
+  "bindings": [
+    {
+      "path": "wiki/activations/mc-apollon-equals-admetos.md",
+      "source_hash": "ca4e4ebebaa6af7d8303c709e9475cd525073b1d3510a6bfda0517ed2b7b9838",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 12,
+      "record_line_sha256": "83abb340459e8921393ed0923ecae5c9dbbcfc77a6529fdb9139b524ca087c49",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-asc.md",
+      "source_hash": "e4f2df0a37a572f730114e4fb5a0f394212158b94025664cc22d8e6b6cfb382e",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 13,
+      "record_line_sha256": "a56707010a9d14b3d903cef8a79def2303418c2e16ba087f58cff60ed73e22c4",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-cupido.md",
+      "source_hash": "c4592f5ac79f307a570c78cd12524eb02d1fac8284e338484846e95ba47daa75",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 14,
+      "record_line_sha256": "9cfa3bb3d5f95c206ac05e9f9a2037219a5421ea8f11f74788fe289385e460d7",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-hades.md",
+      "source_hash": "1ae4308a3cb205f1ab1f29225e4b486c4043391ce9fa45cbd2dd75254ba89af7",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 15,
+      "record_line_sha256": "1e81127f5df27c012a2160377d29a0fd2163c22737d948f570b158277be231e3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-jupiter.md",
+      "source_hash": "cfc17910054828f8be93d26f6a8fa173e631e28c394b3910242e67e520728068",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 16,
+      "record_line_sha256": "13738423d4093d1518e8a4abaa220a7e7248cbb9ee557fe4007dbca130323171",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-moon.md",
+      "source_hash": "cd8b22d485e8107e43e297c8ac5510b75f729f2717ba3d06b3e9c53c0b547fe5",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 20,
+      "record_line_sha256": "eba5ce9f9b1acf45894d4b5273e14a138bd530afa73bffc4dad589d0c0050533",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-neptune.md",
+      "source_hash": "3210a593b3aad93664daa2b5c762227e0b19a0d79a7e3d96cbd2be7e43afea60",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 21,
+      "record_line_sha256": "235462535e3154758c0f5c28f6690299179b04a9e8a37e8020da32d39c57fd10",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-node.md",
+      "source_hash": "f6486b41257bb0432970cd8e3ee24cada4f2432e7d9b74baab09fd755c42928c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 22,
+      "record_line_sha256": "3c749d3bd431c986bc44ba47b812c74126eeb2611973322b34220e6e9078d378",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-pluto.md",
+      "source_hash": "f0bdcb3484c61c6cf1d6fc2c3a5cb6122282d43938cafeffa86e1bf7acaf9e77",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 23,
+      "record_line_sha256": "085765250ec9736a38ecd05a6decf954198e32b082d5ec5c8b5f3cd17effcab1",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-saturn.md",
+      "source_hash": "1cd79903f7d95d82fddc573d20797c16d0add2421b9d202409f633792792827b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 25,
+      "record_line_sha256": "e07f24adaf08040ea904f3c8a1a5433f96eff017022926f66e52b56a7ebd7835",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-sun.md",
+      "source_hash": "ed5dd868e0b735aac78d780cf0e8f82949484b8024e3e08eb10be365452c4da1",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 26,
+      "record_line_sha256": "18fd8c4d4cf0080aed21392768615b2f8c9df3d59a0de94729fbae18d21bf52b",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-uranus.md",
+      "source_hash": "b079f0d19c144bf1fbed1b7443beb78e7e8269b758d9a84af1570d1392653b65",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 27,
+      "record_line_sha256": "7d9014299be491a4d8201c98110b5c682104d7881fcdc875a88559860c8b2676",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-vernal-point.md",
+      "source_hash": "8bbde9abfe9e3e5057f4310491b7f5774261d683f9ab31c53b46bc403fc66e89",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 29,
+      "record_line_sha256": "53f7f2dfbc3c3702cb8391a17cd6b5b20e41062d14cedd67345cce791a1a105b",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-vulcanus.md",
+      "source_hash": "4c42a93b2010fcf4f8604f92c7236bb0c19c9ac69f1c89d49c0bd7dc36cd7e41",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 30,
+      "record_line_sha256": "869d99a7f8e7dc1554285ced796c49c3b91944cb33a48439808ed69990ccb677",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-apollon-equals-zeus.md",
+      "source_hash": "490e1cb9aeda05c997a50f285d2b8dc01fc50c33495e661642a818fb86020583",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 31,
+      "record_line_sha256": "f820d76c8072b197593ec94d356634ba5a61f923498d4bb927a3c9cd94cd23a8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-admetos.md",
+      "source_hash": "222183939439c9038c882b0a5c30b013a6f8cd79a42e734e14922261d0a16484",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 23,
+      "record_line_sha256": "0c0c1cb364fbbf47a100e915138c3348b8f80fca3aed593833ffdf1362a31b2a",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-apollon.md",
+      "source_hash": "ba99469238f8fd1166592d217712e4484dd20e5145bd9fbacbc6a6ce7a24fcc9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 24,
+      "record_line_sha256": "f90a5871878a30dd18bfd27a9e8feb56a5f6e1527974a7dbb8ea33c923be410f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-cupido.md",
+      "source_hash": "4c22476edceb80b94a85ee06912fe3f890cdb9b03cdda6e662daabd329fdb9d6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 26,
+      "record_line_sha256": "9c7eac92373bd635c6947821b2155a8de557ae15eadfdddb5f81758130d79d7c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-hades.md",
+      "source_hash": "0435df2aa4071543e196578c33bdb5ad20a737b2cfdee53d593b32e50a467f62",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 27,
+      "record_line_sha256": "741785a377983cd011bed64b52ad0f7df13aa1d99ba766cc842be3606ef263a8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-jupiter.md",
+      "source_hash": "bc529564a7b3508371b586e072b059e9247dacce55835236deb915c976653823",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 28,
+      "record_line_sha256": "90c7802973e07d81bc3f37825e003447e42afcc322feee2784596f7cc8a71242",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-kronos.md",
+      "source_hash": "4a21ae54c2803f889f48b0f61bb2f01f219214b4b31d7752eab68db335817fe3",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 29,
+      "record_line_sha256": "e618858f072bed9fcb5ec975ef58f3a9f0321e1ce162a9a9e57517bd9d94e833",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-mars.md",
+      "source_hash": "191b388b423521fc3a75b33f0b47bcc080ec883b4eec7d31ee1ffcad363b726a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 30,
+      "record_line_sha256": "b0191f0be646146a42c8c291e7ac7205e5208337c938572b2515b2a98497fb2d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-mercury.md",
+      "source_hash": "a5d7019249d530287d0da793d71d34ceff83ca61aeab77ef0c03cb8d201b7d74",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 31,
+      "record_line_sha256": "d50a3467465e781b4ca68babf52741859a2d2844fc20185e25f5ed7a067a7070",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-neptune.md",
+      "source_hash": "e12fbf9e5b1b57a8e4873dbe8576f8168bb07f61c08799fc8609e153b60f0225",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 33,
+      "record_line_sha256": "14d0f7391d5033dc033c0daa6d306d5f74bb974a36171d12f551e4f5834b5eb7",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-node.md",
+      "source_hash": "e6cd2eb22d0c0955f8232af4b8aaadec05a6d2ebce87940c441a17f111d6d58c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 34,
+      "record_line_sha256": "ca0c91176aef2d47554bb21da1af13eb43252b3d82244d00e87397fb830d1dd1",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-poseidon.md",
+      "source_hash": "25353178fe4c4c00bf605f7f3da4cfc9de8ea3d6031ec1b2b1ac38f0730adef6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 36,
+      "record_line_sha256": "4e66e3c5df9916522ef5b9a002ddf6af081c027ff0c9c37f82de782f92d1eb96",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-saturn.md",
+      "source_hash": "e805cc2be63bd644d8093a555ee33125411ebca631ffdd1c37cc7aa529b4d5cb",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "1aaac75a33f0cc3c31187188682297bca22eaeadff668a6c01686997dd2b65b4",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-sun.md",
+      "source_hash": "568f08429224c67b8cb8ac4388d7c5d3072687d2666366d4ac9b7b03b879a1b5",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 38,
+      "record_line_sha256": "4dd5bdc320bc0977306f971583ee6752761ee19cf4ddd84584c9a30ac4fa7ec8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-uranus.md",
+      "source_hash": "0b7a3f1f562911b7ac16ff0096dd3ada4bb6624607e1f124ca50b40964e3c10a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 39,
+      "record_line_sha256": "38c8f126a20aae5ffce0a9b72af8e65b5c042879f0abdd095eb85152bb539014",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-venus.md",
+      "source_hash": "d14fcf2db9162b2a49437089376e8f428571c1233fb9ddcb5daee57b63d59426",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 40,
+      "record_line_sha256": "05af43f93b3981b4534768b0b39c9a33c4b1c266c05a15bbb1b32af42b8a88ae",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-vulcanus-equals-vernal-point.md",
+      "source_hash": "7b4068b7a0d1f6bcae264ad134b2a29156174fcfdc1c0afcc44e9397f83f3d23",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 41,
+      "record_line_sha256": "6aee28eb1a5bdb78c7cd2fe5c1229678a86fdf5f9a17e461df9d88ad91ae2dfe",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-mercury.md",
+      "source_hash": "c264fda48ad7a61eba457f126426f8ca0665d0833a721d780952d95bc141334d",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "e554b653e9c5f96f86a41ed8340664b0aaf764e3ed0fa14ca38eadd880b6b9d0",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-node.md",
+      "source_hash": "011349cc5b29305f5ffb177c0df68054a4704af3be6f4bf45e6bd4ccee43c61b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 7,
+      "record_line_sha256": "9f0093ef6502ddf251e88d63108b9c2ea2baee3f4643a8cbe52704c0a4ecaf5d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-admetos.md",
+      "source_hash": "62fb90e4cce7e8692104798aabd3554bb791e79562b39535969ca22d0e61968b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 6,
+      "record_line_sha256": "2766719ab8ae73ccf95f6049ef7166c75cba35b71b33ed0ef82209270130a363",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-asc.md",
+      "source_hash": "f5229d760eaffd64dcecc280a75f7fbac6277d04e1e51589f95e521161446e6b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 8,
+      "record_line_sha256": "043287da85eca65f627f4014314079f533569f34133f9b4589920cee644203f1",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-hades.md",
+      "source_hash": "d486ea2175e34b30877cd5c36621f365c9b11aefa326043b9b2c85937adb1694",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 9,
+      "record_line_sha256": "dbe9df03aa9d167154664581c3787c5b51dd63a58a7ca9c03e99ba6b559e9f3c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-kronos.md",
+      "source_hash": "4931aecc2bfc5a47299ed98f7a97610434b5683788d32ce282c21192faf1ce35",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 11,
+      "record_line_sha256": "79eef1f778d32915025a2fd5c892057ee9e3cae66dbfce0ca8067086ddd28718",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-mars.md",
+      "source_hash": "6864871ed56454d769d7288e01a868aa37a628b2fb6b1e1a14034ea5c869c3ac",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 12,
+      "record_line_sha256": "530e0f6c982ae14c845792f138826ecfd06e6a1b037621589029fe56dfd9e87f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-mc.md",
+      "source_hash": "19b37ec34a877ce6ddf023818bd1e4985fef02087135ae29a2879dc46292c43c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 13,
+      "record_line_sha256": "51332577bd1bc7a58113d1438039502c7113b5c3a12e89a2aa97643f827e89ef",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-mercury.md",
+      "source_hash": "1b9cb1f397e0b4cb0373ccda3bfe27f155aa8ebcf12a0a9e942485e530b869f0",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 14,
+      "record_line_sha256": "6249b627b650fbc5c3f4436fa0105413a398a13b69fb756fe2dc06b4a6f0fbd2",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-neptune.md",
+      "source_hash": "d9717c4fc69c3d10a07d00af87add8be12141b14369bb1335f1e155798464a9a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 16,
+      "record_line_sha256": "e36f1b5854b94f806c4ec121240cbd38932e464c4ecfcf0f1f7bbc60a7361d1f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-pluto.md",
+      "source_hash": "ebb3fe578080ebccecb9886c5c15a881b0b334ac4e0f6d856c6c87747d68d50a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 17,
+      "record_line_sha256": "4676902e4a03eb1f8471fb2191d457eb33ae5212c62da9823b97d24ba98f0545",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-saturn.md",
+      "source_hash": "1f34c15e5868d5860bc3fdadbff8a78f0a01351add0478dd4e40f5863f174ed6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 19,
+      "record_line_sha256": "e353aafad2bc33841beadf98789b1ee31ce0f350a0525aae1628ad965dfcd0c9",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-sun.md",
+      "source_hash": "d0e53c51faa7dc90f7316aa9906ac9ad5af54a969c5b203d1a6326409da94c7a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 20,
+      "record_line_sha256": "820a354f08cff7a4e2df4a6eeba2ef144d31c1a00acb3d8a64b2b760922eb60b",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-uranus.md",
+      "source_hash": "908f1511f825a494a76572069237ff888949a5afac37c535f9b96acb34dc693f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 21,
+      "record_line_sha256": "2cb2da86c71d035defca39e9c97b5698eed1d3fd87eb1c7757bba76e2fd2c8cc",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-vernal-point.md",
+      "source_hash": "418d5ad9970e8b163a549754210bc4d769e6c16b5d55b80832cc12a8516b5925",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 23,
+      "record_line_sha256": "2a368a1069498768a9f71d87cd1924e27d314b4d261d25fb4c332efc9fcee06f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/node-cupido-equals-zeus.md",
+      "source_hash": "e8a6f4485a3d7d848e498cac6b9b02d943dad84fd3b3c8ce4c810cfb4d62d2ea",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-056.jsonl",
+      "original_record_line": 25,
+      "record_line_sha256": "be6cb8c15d92b9fd238bded008e1e3c7c605a61bdf985afcfeef6a5e3d427f8f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+      "source_hash": "5c79681721d656b300cdd16a6cf4c8b1328de62ca7375132a9f4099ec6cbc564",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 3,
+      "record_line_sha256": "e344f9692104a9b4db829013a44c0b58afb766f0650cdc563d16f0cf972bbb66",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-asc.md",
+      "source_hash": "06071e956b2fb850fdc82757f8876afc1f54fe5cd801660b8102c20bf5facb1b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 5,
+      "record_line_sha256": "1d85700af34e4393663c006948d5c97384707223834726be6d02ecbe03055492",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+      "source_hash": "64527c55615e81b482e220e35b0740fb62b3ccc59dcef9199b3406c5bef3a9ae",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 9,
+      "record_line_sha256": "7e6816c3d4656285459787e50f81d5a997b20e22df4c5086cbe6bf7456eb1a6e",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+      "source_hash": "5207d9e58e9507d59d3325705eeebf953fd2ff482169bd6af1257043b8968bcd",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 11,
+      "record_line_sha256": "87a45bc80262d78704784aa3476e4b836a8b93ac73d216f73e1b68199d7cc70b",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-moon.md",
+      "source_hash": "2374d5bd766d5b499b03825dfd55a26efd6c55522de6bd1fe5b44cc95677710f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 12,
+      "record_line_sha256": "d815797663d4dd9746b0049cf72b701770a0ca49c6292bd0b20377a0ce05665a",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+      "source_hash": "a7b066d0181e7cbcaf92889205970a8f0efba27e8fdbb491717e1db07446f33f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 13,
+      "record_line_sha256": "c48bce5ed9b8160337c40e66130e0886b491430351e2a4d8a2183d3c409b6e2d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-node.md",
+      "source_hash": "afb8bdbbe63430fd6702b03d263db616eb162f0bf444d4e3c4aa7296f6a582c0",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 14,
+      "record_line_sha256": "5b8b5d05de4e258032bf2965e5e160e98a7f90770753c7126cdb43037e498e9f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+      "source_hash": "7e751d1c1c367fe5728269189c7637aa85b790fb2df6c4f12c22cc985ccfe00e",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 15,
+      "record_line_sha256": "af19bfb50219b79293bcf926ecc9db5cbe376d0690263ae5cb2c89a846670009",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+      "source_hash": "805e375c05e963419b2eed6792fbf3d4a79ca05c88b2cbb2d4b673001f719095",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 16,
+      "record_line_sha256": "7b652d79c776708a85fdd38f849a86307a4b27b6bbc872e243f20a7ce45b8a65",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-sun.md",
+      "source_hash": "5051c163b4ae45f1238cdf6e4e3b314bd4e589e2359fcd5a7de2c0c3163ec1c6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 17,
+      "record_line_sha256": "dad8718dcf8290d163cc38d0ce4683ea1cc2d682b766719c127accc626d4a5f5",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+      "source_hash": "8a2e0327e0bf54a99256d731355be34669ef5e1224277ea0663e3518b03029b7",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 18,
+      "record_line_sha256": "c7ff3a74c62167b5a310a78fe57fc00905175179b9c2d978b6ba216b76935d22",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-venus.md",
+      "source_hash": "5b240b13fb0876a21cdfe1cad92468f7c29838a0ff20f8b7ea9a9c68c42807a9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 19,
+      "record_line_sha256": "dfd26cd6ff8d71b34602c6d5572a757360d96ccfc96c1cc2060ed7cd3eae72ed",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+      "source_hash": "b02b0f7eb0e4630f304400fdd9b0756c151c1370d26aae12dca577af791aa666",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 20,
+      "record_line_sha256": "c0d5f4f7a68975f65919e469df45a57fb053e9f65953eae0bf8699a1918674e8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+      "source_hash": "8da9460a9556207674a1a756f176f3e93e95f8cc983240c18b46e1fda19cc4c4",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 22,
+      "record_line_sha256": "7929b739c35f87fa3c7386b77e21fb277d6f44ac396aeccff2b4f522d9929384",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-admetos.md",
+      "source_hash": "1dc4b3d75a840995d80f64c8a935e8ee2367ed9670d0e7914d6a57b5affa32b8",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 43,
+      "record_line_sha256": "694e0ca079fd9cf7a2fbbf9440ff9bbdc758a8d3b39c5962d86e1f93496b03d8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-apollon.md",
+      "source_hash": "fcad9c3e531d84c1260bbe4b5993d05194f989efa8e8ee09ef17c2e2f54922f8",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 44,
+      "record_line_sha256": "50f73932d4987a57decb6cbeb014627a6596d213986fc6345d591a464813490f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-asc.md",
+      "source_hash": "845320bad9196b036553a6c194146696b74c813973bbcedee7e05a57e996f8bc",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 45,
+      "record_line_sha256": "a84cadbf2d70a681fd07730ec54df39d6a02d70e8839878b27bc08a31667c8ce",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-cupido.md",
+      "source_hash": "702fdc98c873520937b34f8aa216daf8dd51412be418a7007058a5204b830fc6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 46,
+      "record_line_sha256": "389749b7cdd1cc0280a0d3a669b8f3f6a0620d8b80b9e9698a4a84eec162183e",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-jupiter.md",
+      "source_hash": "cc5a6b8d511f6f623a4cfce112245bc22d8fde18f4fd32df49b38b4fdf90538d",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 48,
+      "record_line_sha256": "6d7e780b696548027a557deb896d6ff1ba1723b5798a236e1468c3c46362a281",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-kronos.md",
+      "source_hash": "ad89655809af15d539485cd31929fee3b18203392dc6a5ccc785d699e6db5e31",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 49,
+      "record_line_sha256": "c62d4b60021f2d72a53fd4f83537a5ccd92dc31426bbb7588c6151d54a80ad27",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-moon.md",
+      "source_hash": "bfbfce08271c0054e64cefa0593d53b7b854e42d5e0961f4c5e54224b9a1c1d4",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 52,
+      "record_line_sha256": "4cc4c4696e9f4fe8ba40c8f063fa2f8eb2a3a58a2931d617bac962cfb9d02070",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-neptune.md",
+      "source_hash": "6d281c2808c0d1b437e9c5fe6a51a07bf356f6b13b21096404d5ba709e050793",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 53,
+      "record_line_sha256": "ba37795b54a35b09530366703a5ee0b78a0fd066b10783b8337e92c4915c07a3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-node.md",
+      "source_hash": "327645e5d8821d67d532f726c1cb0195fd7df9aa5c9c739f651ac8e7ef555869",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 54,
+      "record_line_sha256": "210c710d7e019270b9839eccc8aafcb28adcb9e2a2bb9265640d35cafc3e6de6",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-sun.md",
+      "source_hash": "9b435a46a63b145b8d59aa7a981a49042c1571e9a32bf1e6ca8090e06667ab67",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 3,
+      "record_line_sha256": "cb0bd623896f5d564909cb81a606cf870978678295d34986e51c33994ce41f7d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-venus.md",
+      "source_hash": "d2003b3e5fbe0d766c5fe4c2bd9a9b831780dcbd95316e8a17e6c27f690a8f11",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 5,
+      "record_line_sha256": "eed3051bee5fce5fb37373a9a8b4cf190378a267987293d4bc055301a8888aac",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-zeus-equals-vernal-point.md",
+      "source_hash": "fc4431e00d10ede3c518d41aced4d979169df603cb0a7e7f57a88e9e49579f92",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 6,
+      "record_line_sha256": "24c78e43fde615b46a29af0e1c1eddc4bc4244a386b264d5e21616aaada10d10",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-asc.md",
+      "source_hash": "5a82951a82ac450692af256869b3534dca2256804f91f7c4bf9b7db699325c3b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 34,
+      "record_line_sha256": "9e07ebb488be93aeb921720901dd52079bd77eeb784441eeea8196191e0f06d2",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-hades.md",
+      "source_hash": "169fdb079653b39ab94044b21538189263bb960f982609db4805ede5f13f805f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 35,
+      "record_line_sha256": "f29b909600fc51c1840d2a4dd807ccd3717677d79234dca968df55853642bce7",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-jupiter.md",
+      "source_hash": "9f0c43037bbfd94509a8a848143d0038c259de4db0b46660ac151171beaf69ed",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 36,
+      "record_line_sha256": "5733e9454495e60f8a4d80dfb369918c865bcbd6f781c6d28fcdab85f2d5ec3e",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-kronos.md",
+      "source_hash": "90189abe15e87dc64dda1393f9850c8fb0cb3309a1d9d3115d0e0deb8ae135c7",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "c0ab12abe38fd09edf793e3df80d1840ffde6bce361429b3bab7f9e5925cb00e",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-neptune.md",
+      "source_hash": "1c627c4ab3d9cf019890c434fae4731ba23c5e330e83194efe7f415f862ed40c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 41,
+      "record_line_sha256": "d0dddb318499ff5617ec9b914848a3cd76135682e4007ab154f363bab85429e0",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-node.md",
+      "source_hash": "78fa0d985f7ab47662db95a2cdc5aa1a5f7cb6a0d9f1db1d0c4938c1c94b88cd",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 42,
+      "record_line_sha256": "facfe0530be6f99df904913ee5d05d77fb400cfc7e0526aec8fd507b49916c49",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-saturn.md",
+      "source_hash": "4ea4ebca556cd821d94191b1b845f690378fcf82454c3b7e20d524c588705590",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 45,
+      "record_line_sha256": "6e765da454b5d63dae8689093774940381a29ac0121ddb92bbfec972f79175fa",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-sun.md",
+      "source_hash": "7bcad6b2f32ed57e9bfb08ad4ab781e17e514f3677a2a9304d25a9bfd996d52d",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 46,
+      "record_line_sha256": "33648e6470806721640e50be005f72d5906b330b56b3a1c475b4ae37282b5f51",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-uranus.md",
+      "source_hash": "97680eb363ae53607df1e840bef7ab6d638f1aa68d97289135fda395fbce05b3",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 47,
+      "record_line_sha256": "1bb9940eee13ff98c47be6ce61972a6c7119084d5f54d9e5f151aece533f9c47",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-cupido-equals-zeus.md",
+      "source_hash": "49b5fbc6fddb904db2cd6015152ccedd3f70811bebef0ff6665e1efeebdcef4f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 51,
+      "record_line_sha256": "bd597f6ebf7ec9fcef2e172d1eb127661219dccdcab256cdc4584fb4aeb25ad0",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-admetos.md",
+      "source_hash": "290693f5b62dde81ba0d6c98f01682b1bd0f11c95a65af23b7fa395016d739c9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 52,
+      "record_line_sha256": "73a410e37c38f3261eed780af00f5cebb9970061574f1437a2af575760e8d690",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-apollon.md",
+      "source_hash": "9ac4fe89a9331cef14d6ebfd5e7ef72f1940d0cca799c011be48c48023414366",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 53,
+      "record_line_sha256": "e299c2f9ac8c0ff09962a93a596a43e32fbba8bbfe7206eda2bda73309e56543",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-asc.md",
+      "source_hash": "e0fd5b614e144dc515e0fbc5f857a2407a5f988d7b69661cb967aa2660b158a7",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 54,
+      "record_line_sha256": "993d9f1eabe5b41cba3264050dbb44f08887326b6dce251dfa6c19717e7d21ad",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-cupido.md",
+      "source_hash": "2563875ed820b225068249fd7c82ca0ed608b440a215a98af7fbb789e698ece7",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 55,
+      "record_line_sha256": "de4388102ddc90dec2d65d59e895860fdaceb1bb44a270fb008e3d38d4a7a7d2",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-jupiter.md",
+      "source_hash": "e41869a827cba5810a9de4ef1cfe4ae02a13db912047fb78798c9c2720624cd4",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-031.jsonl",
+      "original_record_line": 1,
+      "record_line_sha256": "d0635a86b254699a4116845e0e0f3bd0aa01ed3aa0aa30531c6ab5eb339ca88b",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-node.md",
+      "source_hash": "fc2a1ba506da9e57869e908a457302334c55d18576822d0edb66bac634207293",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-031.jsonl",
+      "original_record_line": 7,
+      "record_line_sha256": "931ea1fabc0f51d1c6528fba57670fed2a0a78847ed0ff4e60f15d91cf2a4a99",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-hades-equals-saturn.md",
+      "source_hash": "bfbd4412d0cd3aad0990ff89c0c4a044f0a1a5806ddf111beaa1f7c361210c4b",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-031.jsonl",
+      "original_record_line": 10,
+      "record_line_sha256": "320168c4a01aded2e571afde8df6a23a666507c788884f534bc5b075520b508c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-neptune.md",
+      "source_hash": "92c2940341b9cd029993846c467b67aa2a8d19edfb755bd2ce7462a21b551109",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 1,
+      "record_line_sha256": "53ba43b0b19863190bf89cde8400c9964169eea381318c8290805a9ea024b5d1",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-pluto.md",
+      "source_hash": "c4de8dfad468931ca12ae436edfe79fc32e727f6c19868167a17e29d1134d3ff",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 3,
+      "record_line_sha256": "d5a3557dd1f8cd95fc76a9ea67d2236619db788e80f7060b144063322d37e3e6",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-poseidon.md",
+      "source_hash": "08349d1f7563cd9d78df7ee2958ec580582913f94661d56c764d3d7b856bea59",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "c21319d899a5f5cdfafffe9dc793d913bd9b53429af4fdbeb945a1f1ab1fa4f5",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-saturn.md",
+      "source_hash": "b74cc2ac3897810f6950fde86caceea49500d34f6b6193dfff972195a7cf5b06",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 5,
+      "record_line_sha256": "2b865db1ffab597742b7afb4979c43bcf3a93037ec924f0848d3a2f13e9173aa",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-sun.md",
+      "source_hash": "cd29df05025dd4e5e991212a818c76dee0488898618e4042b6d5d8eb2f30d656",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 6,
+      "record_line_sha256": "e8441e4991a06705afc5047faf4c0f002f5e68f091302c86433f2fdb87ed8c4f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-uranus.md",
+      "source_hash": "a599a82f69831f9955877a3eb791087c9085a02fac185221caa43381ecba1768",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 7,
+      "record_line_sha256": "3c9c6523332f1d966b7ce7eafdc82d638dc014a15a4b036bdde0b8d08506f7dd",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-venus.md",
+      "source_hash": "0108370a2dae2b5288631d6e10ec4235b191af22f0c962a16d2c23c1dd33b0a4",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 8,
+      "record_line_sha256": "821f542a5dbf9b3696480e714f8ea0087f6cec154ca96179ce4781a57006bd74",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-vernal-point.md",
+      "source_hash": "a59c8aae72028283dc8e513643443410011e4e384c45686af94982129e766271",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 9,
+      "record_line_sha256": "501ea6d54292e1fb8c5d21c1c7c1040700af5b9b2935a4bf6ec0c3d328444cc0",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-vulcanus.md",
+      "source_hash": "3bc61347bb1c4d3045a79d995d755c798586bf772daa510374a859c8e939d7ec",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 10,
+      "record_line_sha256": "6a541edca47889d6fc407992bdd05586bb86ac79e2709a11e7116cac62ac589c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-admetos-equals-zeus.md",
+      "source_hash": "a47ec398f7e0eea4fd04a12faaf264bf9f5b27a0ab6a736731c3e7350fc5c7dd",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-030.jsonl",
+      "original_record_line": 11,
+      "record_line_sha256": "d376ffcb3ca5c6da14672761e5135c78887898d8cb9f81e0c464b6275a6c9472",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-kronos-equals-asc.md",
+      "source_hash": "5f3d64ede3d20f5d1c1e556e63e4c47f1646318950d74f3394a794e1ac5538ce",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-031.jsonl",
+      "original_record_line": 19,
+      "record_line_sha256": "4decadbd5a95a53c44033dd056c856bdd0b76aa27dbb166afb3e6afe53390412",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mc-mc-equals-poseidon.md",
+      "source_hash": "e4e27196cc89b7fa0673c566a7cd175654b9152999b33aa7f2f7a1d4fa58d3d0",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-031.jsonl",
+      "original_record_line": 50,
+      "record_line_sha256": "11bb4bea70c7795ab73838af62547aab76aaf1c045f8195d94393ae52e2622ba",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-admetos-equals-vernal-point.md",
+      "source_hash": "947af7f3263155eeb6c054ae969b598b6d91de1eb7720c92fb2fc997832d834a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 25,
+      "record_line_sha256": "d7030972ffbc18c974aee3a0411d2182dca7fa4370fae31f9417241feeaef526",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-apollon-equals-moon.md",
+      "source_hash": "57d98ade51af4168be0beb37bce3e9e43dbb6d534e5a40d5a907d3c7723a4d09",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-033.jsonl",
+      "original_record_line": 36,
+      "record_line_sha256": "88ae81d3d51869c1f12cba62b4bcb086b038d621df7cdd6fcc6449fcbe28995d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-kronos-equals-apollon.md",
+      "source_hash": "bbb371b445bc38d10bdb72836cb990c19ed20a0b446d83dc7434214c519f0782",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-035.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "b7a6f64fc600578af186e51bbc3d092f9ad5f49e8bb3809c6df135fa7543c55f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-mars-equals-sun.md",
+      "source_hash": "5912c8332a7b9a85d507b6f4eedfc1c13551f91b4e9ea98e051d437296236834",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-036.jsonl",
+      "original_record_line": 18,
+      "record_line_sha256": "0d22296a6e1e200486923ed992231c17366e8d7ea2d8224f2c46b0dd3e00b6b0",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-mars-equals-vernal-point.md",
+      "source_hash": "b387da0e4f58313071881321dcea26072731aabf033a9bbd986a46ba980d12b3",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-036.jsonl",
+      "original_record_line": 21,
+      "record_line_sha256": "98a36b509a124d1e7a47afe810bef9f5382fbb31929c808dddb439c2b0c68d79",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-mc-equals-pluto.md",
+      "source_hash": "3f1de8931a5958f635a0f575f93d6773e3ee28ae5989de2d1a919079f29a31a1",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-036.jsonl",
+      "original_record_line": 38,
+      "record_line_sha256": "42fc17d2a53d2d2a4afce9e57b6435b4d1b323aaa5665261bf8d44806483c43f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-mc-equals-sun.md",
+      "source_hash": "333bf2cd6f48cd56b51cbc7db0a090f40365300500218e7cf076bd25b193ad7f",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-036.jsonl",
+      "original_record_line": 41,
+      "record_line_sha256": "7aa1deff85fb9fa2cd3bc4ee128296518e1f5e9bd0a1cb182617e0c26e0f44e3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-mc-equals-vernal-point.md",
+      "source_hash": "ad15f551384e986e1d136649bc7d85832c744dc48e5706e0c898a3281759b3cd",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-036.jsonl",
+      "original_record_line": 44,
+      "record_line_sha256": "4a78ff7076b37ff0023e318f9d8bc3d3080023b1b35f4edbcaa5c6e2f7f45198",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-saturn-equals-saturn.md",
+      "source_hash": "bdc30c9e43f8dcdf0f730b2650120f99fe08791d3bf9491fd6708015f05aef5a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-039.jsonl",
+      "original_record_line": 15,
+      "record_line_sha256": "b041fa23692b576c451101459019c49ca52217e1c351be3c3035c8d98078216c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-uranus-equals-asc.md",
+      "source_hash": "35580b9d6317eb21f04e7ad8df584c93ac3c17466499b303b24e2e88b8736b35",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-039.jsonl",
+      "original_record_line": 24,
+      "record_line_sha256": "006ef7a40062203ab440a254755f735dfc3ca95eba4dc00a2d1edbad84bfa612",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-uranus-equals-moon.md",
+      "source_hash": "b77b523dcc34ab67c4a33e69ed6cfb9de26683a7d18f97bf9e10d38e0ac8f5b9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-039.jsonl",
+      "original_record_line": 33,
+      "record_line_sha256": "9aac03275f0d2799cd24d03ab4f9eb3afa4e62ed84889585d18c143ccf2c8272",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-uranus-equals-vernal-point.md",
+      "source_hash": "589f1954f3e238a5c0f378a195446d6592bcbeebcffc69d4b74d5241deeb00d3",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-039.jsonl",
+      "original_record_line": 42,
+      "record_line_sha256": "e2326a15ba1e338350ab2db1f751437844fb3914d5f0a4f54677bcbc3b2da269",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-venus-equals-sun.md",
+      "source_hash": "e33e3213e3fe263cb0db253e70fb1e1e7afdea1f75acc16884f7bc66256775dd",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-040.jsonl",
+      "original_record_line": 16,
+      "record_line_sha256": "f094fbd306c03aee87632a4b95a39fafb269ed8883c077aefd108d8abe9eb123",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-vulcanus-equals-sun.md",
+      "source_hash": "84d3ea700a32593fb05ad8cc7107e469b528242ed6b81167104880f834ba8bc8",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-040.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "468ee3492ee61510a59f5685d45e643bdf7160b8940ea2ea7824f1586b94a9ab",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/mercury-zeus-equals-sun.md",
+      "source_hash": "cdb575f83cdf4bda57b1b47219ed716f8dcb968d6286d9c78c830851542cd3f9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl",
+      "original_record_line": 2,
+      "record_line_sha256": "b854adf95972f819bb66d3cdc85ed9a0a495f8ebb2729acc27d02aa3366b51a3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-admetos-equals-sun.md",
+      "source_hash": "a91adf305575462d3e3a9012dffd07a4e79072327e50ef7966e7420bef85baed",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-041.jsonl",
+      "original_record_line": 21,
+      "record_line_sha256": "73b876516b50542a7d7328c05794a7eb5938a679bb3518e265c1db8bb5bdcdb4",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-asc-equals-saturn.md",
+      "source_hash": "6306bb921611d5db7f77548c5917a9bce25e2a76c6e274f55b8194d19afb559c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 10,
+      "record_line_sha256": "6ffb0df364177df27562b4d16a7bb1d6bd294adcd2d8a7f52617b7a24d10b355",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-pluto.md",
+      "source_hash": "8af824e6494b7042ccc7b3d35dbaed503d33049f99bdd465a0901056c57b75d1",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 3,
+      "record_line_sha256": "8a5cd3dc15c256b46bde29bdec1330d0ac00dcfbe80271bae87d7280fdf43cff",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-poseidon.md",
+      "source_hash": "ebc0d0de65d8bf44eeaaab97f65316f293c5ea2bf3b4b1f22159467b22833404",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 4,
+      "record_line_sha256": "f178ddaf3f4ba85a7380283a0e5a6c1f8bec4fd9f438c144331a6bb78539efa3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-saturn.md",
+      "source_hash": "68b9ddaa405d842aa56bdbfd1cce4863afbf89df77487e9c9e78a4538c90fc05",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 5,
+      "record_line_sha256": "9fda9434f9f8f7b8a0e8b45d6df0ce17818e26ae45bb6754b1a290a1ddd4a9de",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-hades-equals-venus.md",
+      "source_hash": "e8afea6a766cca66343eea045084f8ac6928403eef648665179d94e83fd32534",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 8,
+      "record_line_sha256": "1e9d379d981743ee971def519df5f6f7730f1da6b7079e4de124f7c5d4469a46",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-jupiter.md",
+      "source_hash": "eb350cdcad6c297997cb13d07ecd522d30892cd3a4a56572f5ca3a2b431b07f8",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 33,
+      "record_line_sha256": "ff24f1e9082b77be54974847f26773c61743d1dd5aeaed80ac0519e38cd71d6d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-mercury.md",
+      "source_hash": "a2d181a6d232e312a1dddfca4acc4cd30cd29cf1c0b56fc03a9730e904a78449",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "13d9a757f3bcb4dee0b4969adcc002d1d251b119e3fd53bd7398416bc8779ef3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-pluto.md",
+      "source_hash": "78cec392ce01cd70dace2d5fb27e6a5ac9c4e7e080d38ba4700fd4455be1000a",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 40,
+      "record_line_sha256": "bc3caf4936d18488c7bbfef213ca8863c3ea036997266acc4e128e5fcb1e5a86",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-sun.md",
+      "source_hash": "ef6566043c49934a2b58a216bae07194ecad0101992909906b895cd3a7129fe2",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 43,
+      "record_line_sha256": "c82eb5ba40db981d367ac719fd3b04e38378d988721fbe6f46a305ffa8fc73ab",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-cupido-equals-venus.md",
+      "source_hash": "43192de2fb9effdf4ebb3b903503c6317c0e8f339cbaafeeb16a8d862e2fea21",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-042.jsonl",
+      "original_record_line": 45,
+      "record_line_sha256": "fa0eef4ccc72f84c011b846e3f38c02975b552436ac2f008cdd5634f76e4dc2d",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-jupiter-equals-node.md",
+      "source_hash": "263220795656e9906de25de89d98e6e939888036ff257ba1119950ffe0559c04",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 25,
+      "record_line_sha256": "8f55aca68bede765e6d4bf83b1a339c37c17d167edb5fefb6697e918bc76a835",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-jupiter-equals-pluto.md",
+      "source_hash": "fcc0df2f468f28bbf08216ff4c9e9147decdd129f0cb6a19719b17a424e3fb0c",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 26,
+      "record_line_sha256": "41e45f4e28b36f3e4d513a3d61d99a3e239d386c276fc220fb397a0abced0d1f",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-jupiter-equals-saturn.md",
+      "source_hash": "fa77f0a7321812b237900bc56d1953f01686bb45470a77fffc6d370f294dfcf6",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 28,
+      "record_line_sha256": "f709d9183e8d4e7870319c73f5055d028e0248f3f63cd62c5daa99689e4e0bc3",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-neptune.md",
+      "source_hash": "711ab183a208f6a420298c81005ea40f1f89a1b96736fa96fe2badc9329274ba",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 44,
+      "record_line_sha256": "57cb133ace9d8a412e32d2d8d548ccfe6085d3c2e468e0459b8eb5bcdf958678",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-pluto.md",
+      "source_hash": "5e7c240d34fcef187e8553824ef525e6ddb84cd9298b5cb4a6fba1cf3decf312",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 46,
+      "record_line_sha256": "d750d2d1864a362ca557230c56aaf8b66ea1896091260de06fdea3a9c0354d39",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-kronos-equals-zeus.md",
+      "source_hash": "282170e92d6d58b570b575ecef7cd72d8ae4e80a62c388e792cc4cdfba2cc002",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-043.jsonl",
+      "original_record_line": 54,
+      "record_line_sha256": "2792322b236fdd5258a76900f69cfd007001bf16cd5f6cf61b567f54edd85b41",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-mars-equals-venus.md",
+      "source_hash": "fc290ed7e1b232c74092fe9a9b3e11622193ca92ffd07efa11b02f8a8ae96a57",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl",
+      "original_record_line": 19,
+      "record_line_sha256": "c149dd62e0801f78c219b97e0fd4a9e883075ff24d30899e1619c0dfdabfe41c",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-node.md",
+      "source_hash": "c9a9ab6ff5eeaf5d41e7582b1ff859abe2777c5814f8fd3b4921b5e4109fefb9",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl",
+      "original_record_line": 36,
+      "record_line_sha256": "d8a92a5962d4a6ab8de2edb7ace9ed11026a5b9b1e3711eca46df383ecb8c8de",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-pluto.md",
+      "source_hash": "41538b8472901c1766375363e669eedd0cb81715d8999568f136f956de4d6733",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl",
+      "original_record_line": 37,
+      "record_line_sha256": "94c587afa86a6b13791490535694ea482713a525e711e77e71be1ab5e69ca4d8",
+      "valid": true
+    },
+    {
+      "path": "wiki/activations/moon-mc-equals-vernal-point.md",
+      "source_hash": "2b1831fcad0a37791752be492d0217ec0714b3c72696e1de8bef5947bdf3b989",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-044.jsonl",
+      "original_record_line": 43,
+      "record_line_sha256": "15cbebd13dd9901c1d209a70080b45fb4a92eb3de50e21794997437424503750",
+      "valid": true
+    }
+  ]
+}

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Cupido = Kronos`
 - Astronomicon formula: `Q/¡ = ¤`
 - Axis page: [Venus/Cupido](../axes/venus-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 182; scanned activator row checked.
+
 Marital happiness fostered by the authorities. In harmonious society with leading persons. Great instinct for art.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Renown of a harmonious community, the state's art of peace, great preference for the whole, harmonious hierarchy of a community, the rank of the gentle arts, and important Y preference for the whole
+- Source page: 283 (printed); PDF page: 140; scanned activator row checked.
+
+The reputation of a harmonious community, the state's art of peace, a great preference for the whole, a harmonious hierarchy within a community, a dominant community of artists, the precedence of the fine arts, and an important preference for the whole.
+
+## Comparative Schema
+
+- Core meaning: Shared harmony supported by authority or standing.
+- Psychology: Esteem for the whole and the fine arts.
+- Body/health: No specific health claim.
+- Social/relationship: Leading company; authorities fostering marriage.
+- Events/manifestations: State peace work and an influential artistic hierarchy.
+- Conflicts/notes: Hierarchy and official support do not imply equal standing for all members.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Hierarchy and official support do not imply equal standing for all members.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Cupido = Kronos`: marital happiness fostered by the authorities.
-- Practical expression: renown of a harmonious community, the state's art of peace, great preference for the whole, harmonious hierarchy of a community, and the rank of the gentle arts.
+Kronos specifies Venus/Cupido through the standing and organization of a harmonious group. Authorities may foster marital happiness, while leading company and an instinct for art connect social position with shared taste. ABC also gives dominant artists' communities and the precedence of the fine arts. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

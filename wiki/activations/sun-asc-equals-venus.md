@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Venus Asc](../triads/sun-venus-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Harmony in associations with women. Love relationships. Pleasant social relation
 
 #### ABC Entry
 
-Peaceful manly partner, peaceful personal environment, harmonious personal interaction, art in the vicinity, art in the village, manly love partner, partner filr corporal love, gentle people in the environment, and beauty center in the village
+Source locator: printed page 100 / PDF page 49, Venus glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Peaceful male partner, peaceful personal surroundings, harmonious personal interaction, art place nearby, art center at the location, male love partner, partner for physical love, beautiful people in the surroundings, and beauty center at the location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ Appreciation of the role others play in helping you define who you are as a pers
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Affection and enjoyment in direct relationships.
+- psychology: Appreciation of confident self-presentation and satisfaction in being recognized.
+- body/health: ABC includes physical love; no specific health claim is given.
+- social/relationship: Affection, attachment, pleasant relations, and artistic contacts.
+- events/manifestations: Love relationships and harmonious social interaction.
+- conflicts/notes: Witte's female associations and ABC's male partner and physical-love examples retain their source-specific scope.
 
 ## Contradictions
 
-- None recorded yet.
+Affectionate contact and enjoyment of appearances are compatible emphases; no direct contradiction is stated.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Venus`: diplomacy, aesthetic awareness, and smoother personal relations through warmth and receptivity. Main caution: vanity: the desire to be liked can soften resolve or make identity too dependent on admiration and comfort.
+Venus specifies the Sun/Asc axis through affectionate, enjoyable contact and appreciation of how people present themselves. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries emphasize pleasant relations, attachment, and harmony with the environment. [Sandbach](#sandbach-entry) connects this with sharing energy and enjoying confident presentation, while [Munkasey](#munkasey-entry) describes people, including artistic contacts, who help one recognize and appreciate one's identity.
 
 ## Links
 

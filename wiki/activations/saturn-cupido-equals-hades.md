@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Cupido = Hades`
 - Astronomicon formula: `W/¡ = ¢`
 - Axis page: [Saturn/Cupido](../axes/saturn-cupido.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 224.
+
 Separation of husband or wife because of adverse conditions. To separate from one partner to join a new one.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dangerous tasks of a community, common problems caused by criminality, lack of first hand skills, lack of concentration of a community, problems of a community in need, pain in common distress, and hidden losses of a community
+- Source page: 355 (printed); PDF page: 176.
+
+Dangerous tasks of a community, shared problems through crime, lack of serious art, deficient concentration within a community, problems of a community in need, pain in shared distress, hidden losses of a community.
+
+Translation and paragraph boundary checked against the full German glyph row.
+
+## Comparative Schema
+
+- Core meaning: Adverse circumstances strain partnership or a community in need.
+- Psychology: Shared distress, pain, and deficient concentration.
+- Body/health: Pain in shared distress is named without a bodily condition or diagnosis.
+- Social/relationship: Leaving a spouse or changing partners; communal problems through crime.
+- Events/manifestations: Dangerous shared tasks, hidden losses, and lack of serious art.
+- Conflicts/notes: Changing partners and communal hardship are different settings; neither supplies a universal account of separation.
+
+## Contradictions
+
+Changing partners and communal hardship are different settings; neither supplies a universal account of separation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Cupido = Hades`: separation of husband or wife because of adverse conditions, to separate from one partner to join a new one.
-- Practical expression: dangerous tasks of a community, common problems caused by criminality, lack of first hand skills, lack of concentration of a community, and problems of a community in need.
+In `Saturn/Cupido = Hades`, Hades specifies the pair through adverse conditions around partnership or community. The [Witte entry](#witte-entry) includes leaving a spouse and moving from one partnership to another; the [ABC entry](#abc-entry) gives shared need, dangerous tasks, criminal problems, and hidden losses. Deficient concentration and lack of serious art remain particular communal associations within that difficult range.
 
 ## Links
 

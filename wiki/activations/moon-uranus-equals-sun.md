@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Uranus = Sun`
 - Astronomicon formula: `R/X = S`
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `127` (entry start; one-based).
+
 #### Witte Entry
 
 Energetic woman. The man-defying woman. To lead an active life. An eventful hour of the day.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `186`, PDF p. `92` (entry).
+
 #### ABC Entry
 
-Dynamic man of a woman, excitement of manly skills, impulses of woman for man, personal tensions of a woman, personal arousal, tension between woman and man, day and hour of an event, and restless people centre
+A woman's dynamic man, arousal of a man's feelings, a woman's impulses for the man, a woman's personal tensions, personal emotional excitement, tensions between woman and man, day and hour of an event, and a restless center of the people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `129`, entry `0387`.
 
 #### Ebertin Entry
 
 A physique easily aroused by emotion, ambitious aspirations, self-willed. A nervous male type, an ambitious wife. A masculine woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `33` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ You place family and family concerns first in your life despite your inability t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional excitement expressed through an active life, independent goals, and personal or family roles.
+- psychology: ambition, self-will, emotional openness, and alertness to unusual daily events are named.
+- body/health: Ebertin's emotionally aroused physique and gender types remain historical source descriptions.
+- social/relationship: tension between woman and man and prioritizing family despite discomfort with one's role are examples.
+- events/manifestations: eventful hours, mechanical adeptness, innovation, and insight into family dynamics are stated.
+- conflicts/notes: independence and family priority concern different pressures; the entries do not establish courage or a stable identity pattern.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach emphasizes freely pursued goals and emotional openness; Munkasey retains dissatisfaction with one's family role even while family takes priority. These differing settings should remain visible rather than being reduced to confident individuality.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Sun`: vivid intuitive individuality, expressive emotional difference, and the courage to let inner truth alter life quickly. Main caution: unstable identity: self-expression can become too restless, reactive, or difficult to integrate steadily.
+In Moon/Uranus = Sun, Sun specifies the pair through personal activity and emotionally charged responses to daily life. [Witte](#witte-entry) names an active life and eventful hours, while [Sandbach](#sandbach-entry) describes independent goals, awareness of unusual occurrences, and energy from emotional openness. [ABC](#abc-entry) locates some of that excitement in tensions between woman and man (printed p. 186, PDF p. 92).
+
+The [Munkasey entry](#munkasey-entry) adds mechanical skill and insight into family dynamics, but also family priority combined with discomfort in one's role (p. 124). [Ebertin's](#ebertin-entry) bodily and gender descriptions remain historical doctrine. The shared activity does not guarantee ease in those roles.
 
 ## Links
 

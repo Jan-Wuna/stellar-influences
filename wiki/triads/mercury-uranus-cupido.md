@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Uranus Cupido`
 - Astronomicon triad-set: `T X ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Cupido = Uranus](../activations/mercury-cupido-equals-uranus.md)
-- [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md)
-- [Uranus/Cupido = Mercury](../activations/uranus-cupido-equals-mercury.md)
+- [Mercury/Cupido = Uranus](../activations/mercury-cupido-equals-uranus.md): base axis [Mercury/Cupido](../axes/mercury-cupido.md); activator [Uranus](../factors/uranus.md).
+- [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md): base axis [Mercury/Uranus](../axes/mercury-uranus.md); activator [Cupido](../factors/cupido.md).
+- [Uranus/Cupido = Mercury](../activations/uranus-cupido-equals-mercury.md): base axis [Uranus/Cupido](../axes/uranus-cupido.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
-- `Mercury/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `255`
-- `Mercury/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `163`
-- `Mercury/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `249`
-- `Uranus/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
-- `Uranus/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Cupido = Uranus](../activations/mercury-cupido-equals-uranus.md#witte-entry) (PDF entry-start p. 166); [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md#witte-entry) (PDF entry-start p. 163); [Uranus/Cupido = Mercury](../activations/uranus-cupido-equals-mercury.md#witte-entry) (PDF entry-start p. 236).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Cupido = Uranus](../activations/mercury-cupido-equals-uranus.md#abc-entry) (printed p. 255); [Mercury/Uranus = Cupido](../activations/mercury-uranus-equals-cupido.md#abc-entry) (printed p. 249); [Uranus/Cupido = Mercury](../activations/uranus-cupido-equals-mercury.md#abc-entry) (printed p. 374).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Uranus`: electrifies the axis with sudden inspiration and new artistic language.
-- `Mercury/Uranus = Cupido`: Wedding telegrams. Sudden artistic train of thoughts. Technical arts. Dramatic art.
+Mercury, Uranus and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Mercury/Uranus](../axes/mercury-uranus.md)
+- [Uranus/Cupido](../axes/uranus-cupido.md)
 - [Mercury](../factors/mercury.md)
 - [Uranus](../factors/uranus.md)
 - [Cupido](../factors/cupido.md)

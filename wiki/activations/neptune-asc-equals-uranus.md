@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Uranus`
 - Astronomicon formula: `Y/Asc = X`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 Others do not see things clearly. Sudden events brought about by others. To be involved by others through lack of understanding.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Unsettling fine tuning of the partner, aroused sensitive partner, impulses from sensitive environment, nervousness with others in the air, sudden exchange by the partner, sudden uncertainty in the environment, and surprising weakness of the partner
+Unsettling sensitivity of the partner, excited sensitive partner, impulses from a subtle environment, nervousness with others in the air, sudden disappointments through the partner, sudden uncertainty in the surroundings, and surprising weakness of the partner
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `287–288`, entry code `1030`.
 
 #### Ebertin Entry
 
 Easily succumbing to the influence of others. Sudden troubles through others, suffering illness through others. The misfortune to be hindered, harmed or defamed by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ Perceiving many layers to one’s identity give one a sense of creativity. One i
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Sudden impressions about the feelings or motives of others; unpredictable inspir
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden impressions or events involving others, with uncertainty and creative experimentation as distinct possibilities.
+- psychology: nervousness, sudden disappointment, inspiration, and exploration of identity are explicit.
+- body/health: Ebertin's illness through others is an attributed historical claim without a diagnosis.
+- social/relationship: others' lack of understanding or influence can draw the person into sudden trouble.
+- events/manifestations: surprising partner weakness, sudden environmental uncertainty, and interest in trends are stated.
+- conflicts/notes: sudden impressions and claimed perception of future upheaval are not independently verified prediction.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress trouble or unclear understanding; Sandbach includes creativity through layers of identity, while Munkasey includes sudden impressions and inspiration. These do not cancel the adverse possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Uranus`: psychic alertness, imaginative originality, and the ability to pick up subtle change quickly. Main caution: unstable permeability: self-presentation can become erratic, alienated, or too overstimulated to hold clear boundaries.
+In Neptune/Asc = Uranus, Uranus specifies the pair through sudden impressions and unexpected developments involving others. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries describe unclear understanding and sudden trouble; [ABC](#abc-entry) adds abrupt disappointment through a partner and sudden uncertainty (printed p. 119, PDF p. 58). [Sandbach](#sandbach-entry) instead emphasizes experimenting creatively with identity, and [Munkasey](#munkasey-entry) includes unpredictable inspiration and attention to trends. These alternatives retain both disturbance and creativity, without establishing reliable foresight or a general inability to maintain boundaries.
 
 ## Links
 

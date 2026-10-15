@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point MC Zeus](../triads/vernal-point-mc-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Following one’s own urge. Creative mood. Ardent desire. Enjoying activity.
 
 #### ABC Entry
 
-I at the a schopcry in life, I drive in public, I shape in public, my goal is the public, and my efforts in public life
+I am creative in public life, I lead in public, I shape public life, the public is my goal, my efforts in public life, and my achievements in public.
+
+## Comparative Schema
+
+- Core meaning: Personal creative urge expressed through shaping public life.
+- Psychology: Ardent desire, enjoyment of activity, and following one's own urge are explicit.
+- Body/health: Neither entry supplies a medical claim.
+- Social/relationship: The public becomes the object of one's efforts and goals; intimate relationships are not described.
+- Events/manifestations: Creative activity and efforts to shape public life are named without a specific event prediction.
+- Conflicts/notes: The ABC opening and leadership wording were repaired against the German scan; no transport meaning is implied.
+
+## Contradictions
+
+The personal creative mood and public goals can coexist. The ABC English was corrected against printed p. 48 (PDF p. 23): its opening describes being creative in public life, and its leadership verb means leading rather than driving a vehicle.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = MC`: following one’s own urge, creative mood, ardent desire, and enjoying activity.
-- Practical expression: i drive in public, i shape in public, my goal is the public, and my efforts in public life.
+In `Vernal Point/Zeus = MC`, MC specifies the pair through one's own urge to create and act: activity is desired and enjoyed, while public life becomes a field to shape or lead in and a goal to pursue. The connection is between inner creative motivation and publicly directed effort, rather than a promise of public success. The [Witte Entry](#witte-entry) supplies the personal motivation (PDF p. 50); the creative, leadership, and achievement language of the [ABC Entry](#abc-entry) supplies the public expression (printed p. 48; PDF p. 23).
 
 ## Links
 

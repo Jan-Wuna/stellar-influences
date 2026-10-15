@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Saturn`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = W`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Saturn](../triads/sun-venus-saturn.md)
@@ -45,7 +46,9 @@ Disharmony. Love separation of a man.
 
 #### ABC Entry
 
-Tasks of a arts center, person matured by love, serious human affection, patient peace center, harmony cancellations a day, concentration of a man on harmony, personal harmony in old age, and personal Licbcs pain
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, saturn row (eight clauses). Translation from the German scan:
+
+Tasks of an art center; a person maturing through love; serious human affection; a patient center of peace; disturbances of harmony during the day; a man's concentration on harmony; personal harmony in old age; personal pain in love.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ Lends a certain formality to how you demonstrate affection and love; adds sincer
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Love is serious, restrained, or tested by separation.
+- psychology: Shyness and uncertainty about worth can mature into clearer values.
+- body/health: Ebertin's sexual inhibition and lovesickness are attributed historical terms.
+- social/relationship: Sincerity and focus on one person coexist with difficult expression.
+- events/manifestations: Separation and demanding or austere artwork are explicit.
+- conflicts/notes: Munkasey's sincerity and Witte's separation describe different possibilities.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's sincerity and Witte's separation describe different possibilities. ABC also names maturing through love, concentration on harmony and personal pain in love.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Saturn`: faithful love, mature artistry, and steady relational self-expression that deepens through responsibility. Main caution: inhibited warmth: affection and worth can feel too conditional, cautious, or burdened by fear of rejection.
+Saturn specifies Sun/Venus through seriousness and restraint in love. Fear of expression or uncertainty about attractiveness can make affection difficult, while sincerity and simpler expectations can concentrate it on one person. The same entry range includes separation and austere artistic work, with Sandbach allowing confidence in values to increase with age. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

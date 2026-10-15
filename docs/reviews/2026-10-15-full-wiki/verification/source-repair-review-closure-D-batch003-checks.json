@@ -1,0 +1,50 @@
+{
+  "status": "accepted",
+  "all70_current_sources_unique_owner_bindings": true,
+  "strict_allowances58": true,
+  "accepted_D003": 30,
+  "new_raw_deltas19": true,
+  "existing_exact_scope_reuse11": true,
+  "held": 0,
+  "proofs": [
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf135.png",
+      "sha256": "c78012740da7c1c5ce8a3ab82e661d6d210f008e62f9925ce8e1b8441cfc5f45"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf104.png",
+      "sha256": "16af3e8e7d1b4d26279bb29b012f6da5e73261f152476d85e006afefb49a1e36"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf177.png",
+      "sha256": "ae6276a4af4c18bfa168219590be872f584b28329ceae50dfbd7ea55909b7d99"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf142.png",
+      "sha256": "527edf6b4e5fb066d2c0b901e5050f0e41fa9bd04a897f7ede7dafa57e6bf9c0"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf056.png",
+      "sha256": "e6e0616282f9c3de4d493dd9062cafb7af547931efb5e1c2f177cc097c00b5e6"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf057.png",
+      "sha256": "ee8afb5a18a06f623ab3ab620489086f3f8ffe425c4c3e55c5e119fceee7fbff"
+    }
+  ],
+  "external_banks": [
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-allowances.json",
+      "sha256": "0b330230a2d49e0212c59c65c89e164c84ee53d5525483bd5d72685bb44ada30"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-delegated-venus-remaining-audit.json",
+      "sha256": "b17f087850ab00b4067cca4b32ea3c0745b8621d61f25dc8701c15ef3d422bf2"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-callback-audit.json",
+      "sha256": "c0668d79df9d351cde30176487c49b1aa377f9ff6c477cb565fa42b38d98ab4b"
+    }
+  ],
+  "verified_by": "/root/activation_review_023_044"
+}

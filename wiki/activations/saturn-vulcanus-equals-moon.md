@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Moon Saturn Vulcanus](../triads/moon-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ The wife or woman who thinks of her advantages. Persons who are attentive and vi
 
 #### ABC Entry
 
-A mature woman, energy loss of a woman, energy of a woman of old age, energy problems for a people, enormous tasks of a people, power concentration of a people, and strong feeling storing
+Influence of a mature woman, energy loss of a woman, energy of a woman in old age, energy problems for a people, immense tasks of a people, concentration of a people's power, severe emotional disturbances, and disruptive emotional influence.
+
+## Comparative Schema
+
+- core meaning: Vigilance and influence under the burdens of personal or collective energy demands.
+- psychology: Attentiveness and strong disturbances of feeling.
+- body/health: ABC attributes energy loss and emotional disturbances; it gives no specific diagnosis.
+- social/relationship: Historical examples concern women; collective examples concern a people.
+- events/manifestations: Great public obstacles, immense collective tasks and concentration of power.
+- conflicts/notes: The gendered examples are preserved as the authors' usage.
+
+## Contradictions
+
+Influence and vigilance coexist with energy loss and disturbed feeling; neither source asserts that one cancels the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Moon`: the wife or woman who thinks of her advantages, persons who are attentive and vigilant.
-- Practical expression: a mature woman, energy loss of a woman, energy of a woman of old age, energy problems for a people, and enormous tasks of a people.
+Moon specifies Saturn/Vulcanus through attentive self-protection and the pressure carried by feelings or a collective body of people. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) names vigilance and public obstacles; the [ABC Entry](#abc-entry) (printed p. 366; PDF p. 182) adds collective tasks, concentrated power and disturbed feelings. Their examples involving a mature woman or energy in old age remain historically attributed illustrations, rather than universal claims about women.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Apollon = Vernal Point`
 - Astronomicon formula: `W/¥ = VP`
 - Axis page: [Saturn/Apollon](../axes/saturn-apollon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 228.
+
 Many separate. To separate from many or from the generality.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old knowledge in public, tasks of public trade, expansion of public problems, success in public through patience, freedom loss in public life, public success in old age, and public trade losses
+- Source page: 362 (printed); PDF page: 180.
+
+Old knowledge in public, tasks of public trade, expansion of public problems, public success through patience, loss of freedom in public life, public successes in old age, public trade losses.
+
+Translation and paragraph boundaries checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: Separation and patient method in the public setting.
+- Psychology: Patience in achieving public success.
+- Body/health: No specific medical correspondence is supplied in these entries.
+- Social/relationship: Separation from many or from the general public, and loss of public freedom.
+- Events/manifestations: Public trade tasks, expanding public problems, and trade losses.
+- Conflicts/notes: Public success and public loss are distinct stated possibilities.
+
+## Contradictions
+
+Public success and public loss are distinct stated possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Vernal Point`: many separate, to separate from many or from the generality.
-- Practical expression: old knowledge in public, tasks of public trade, expansion of public problems, success in public through patience, and freedom loss in public life.
+In `Saturn/Apollon = Vernal Point`, Vernal Point specifies the pair through public conditions. The [Witte entry](#witte-entry) emphasizes many separating or separation from the general public; the [ABC entry](#abc-entry) adds public knowledge and trade tasks, patient public success, and expanding problems or losses of freedom. The public scale joins these themes without deciding the outcome of a particular undertaking.
 
 ## Links
 

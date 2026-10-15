@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Uranus = Jupiter`
 - Astronomicon formula: `U/X = V`
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
@@ -70,22 +72,21 @@ Increased ability and desire to fight and win for your side; adds a leniency to 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Spontaneous or timely action associated with success, expansion, or confidence.
+- Psychology: Independent confidence can become excessive lack of inhibition.
+- Body/health: Witte and Ebertin's luck in injury or operations is a historical claim, not a health assurance.
+- Social/relationship: Munkasey includes fighting for one's side and greater leniency toward others.
+- Events/manifestations: Successful contests, technical work, rapid decisions, and restless financial or legal activity.
+- Conflicts/notes: Sandbach explicitly warns of going too far; past success does not establish protection from risk.
 
 ## Contradictions
 
-- None recorded yet.
+Success and expansion coexist with overreach and nervous financial action. The entries provide no guarantee that unusual actions succeed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus = Jupiter`: courageous experimentation, luck in unusual action, and confidence in doing things independently and quickly. Main caution: excess through freedom: success can encourage overreach, reckless enthusiasm, or acting as if limits no longer matter.
+In `Mars/Uranus = Jupiter`, Jupiter specifies spontaneous action through confidence, timely opportunity, and expansion. Quick perception can support successful unusual action, but reduced inhibition can also carry activity too far. See [Witte](#witte-entry) (PDF p. 194), [ABC](#abc-entry) (printed p. 302), [Ebertin](#ebertin-entry) (printed p. 208, code 0715), [Sandbach](#sandbach-entry) (chapter starts at PDF p. 71), and [Munkasey](#munkasey-entry) (printed p. 232). Historical luck-with-injury examples do not establish protection from harm.
 
 ## Links
 

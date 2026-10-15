@@ -1,0 +1,38 @@
+{
+  "status": "accepted",
+  "all99_current_source_global_unique_owner_bindings": true,
+  "own_strict_rows80": true,
+  "proofs": [
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf143.png",
+      "sha256": "3bde2f8744d94d6b4fe1e5505a8d474e93093abbace81f7c1f62a7b76c92fea5"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-abc-pdf139.png",
+      "sha256": "e27f507b5c489a975bfa1f2887214e6b907d1dffd532b1d2332cc87eda8df8e1"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf181.png",
+      "sha256": "1753ef033cb08b6d4d427c606be2662f730068a8b001fce80b553d7dd41e6777"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-witte-pdf175.png",
+      "sha256": "060536e1e5033c6f09d50d458b19742f0d299059d7fd5a1cca393d1106257afe"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf058.png",
+      "sha256": "710af4523e703f0882aaaae2a46801873385024e889ceeae8a342dbad8c9201d"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf059.png",
+      "sha256": "37835dfcc641c2bd56873db4f884a2285b85e95019356e625cf490bad47f1bdb"
+    },
+    {
+      "path": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-sandbach-pdf060.png",
+      "sha256": "e254118d20c7074773ef39c9971c68462f7cccc758ce13fcb94eacd02879a7a4"
+    }
+  ],
+  "held": 0,
+  "external_approval_bank_sha256": "0b330230a2d49e0212c59c65c89e164c84ee53d5525483bd5d72685bb44ada30",
+  "verified_by": "/root/activation_review_023_044"
+}

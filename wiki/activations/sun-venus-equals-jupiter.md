@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Jupiter`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = V`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Jupiter](../triads/sun-venus-jupiter.md)
@@ -45,7 +46,11 @@ A body animated with the joy of love. The happiness of a loving man.
 
 #### ABC Entry
 
-Success through personal harmony, successful kiss of a man, money and caring love, harmonious work day, personal love happiness, preference for a man with money, preference for the person right, and benevolent right person
+Source: ABC printed p. 144, supplied PDF p. 71, Sonne + Venus, jupiter row (eight clauses). Translation from the German scan:
+
+Success through personal harmony; a man's successful art; money and physical love; a harmonious working day; personal happiness in love; preference for a man with money; preference for law concerning persons; a benevolent person in a legal context.
+
+The short Personen-Recht/Rechts-Person wording does not identify a specific legal role or entity status.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +75,23 @@ An enhanced need to show diplomacy and tact toward others; successful ways of ch
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Affection expands with generosity and happiness in love.
+- psychology: Enthusiasm for beauty and sharing accompanies tact.
+- body/health: Witte describes the body animated by joy in love; no medical claim follows.
+- social/relationship: Generous affection, loving partnership, diplomacy, and promises are explicit.
+- events/manifestations: Gifts, artistic interests, and successful charm are named.
+- conflicts/notes: Sandbach's willingness to compensate for a loved one's shortcomings qualifies generosity; unsupported wastefulness is omitted.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. ABC adds artistic success, money, physical love and law concerning persons; its brief Rechts-Person wording does not establish an exact legal role or corporate status.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Jupiter`: popularity, generous affection, and the expansion of charm through optimism, opportunity, and visible good feeling. Main caution: indulgence: pleasure and approval can become inflated, wasteful, or too readily assumed.
+Jupiter specifies Sun/Venus as generous affection and happiness in love, extending into enthusiasm for beauty and meaningful sharing. Tact, gifts, promises, and expectations of affection give this warmth practical forms; Sandbach's readiness to compensate for a loved one's shortcomings shows how generosity can also make allowances for the relationship. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

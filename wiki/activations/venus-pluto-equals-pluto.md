@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Pluto](../axes/venus-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Using power and prestige to enhance positions of power; a need to conceal people
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Extreme change in affections or wealth, with reinforcement of power.
+- psychology: A stated need to conceal people or activities; no motive is specified.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Access to people with immense wealth or power.
+- events/manifestations: Changes in wealth and using prestige to strengthen a power position.
+- conflicts/notes: This single Munkasey entry supports the repeated-factor activation; the ethical character of concealment is not specified.
 
 ## Contradictions
 
-- None recorded yet.
+One entry is present. Its power, concealment, and change themes are not mutually exclusive, but there is no cross-source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Pluto = Pluto`: Using power and prestige to enhance positions of power; a need to conceal people or activities; great changes in one's wealth; openings to persons having immense wealth or power; extreme changes in one's affections.
+In `Venus/Pluto = Pluto`, Pluto specifies the Venus/Pluto pattern through extreme shifts in affection or wealth and the use of power to reinforce power. The [Munkasey entry](#munkasey-entry) connects this with access to very wealthy or powerful people and a need to conceal people or activities. The passage does not explain the motive for concealment or guarantee whether the changes are advantageous.
 
 ## Links
 

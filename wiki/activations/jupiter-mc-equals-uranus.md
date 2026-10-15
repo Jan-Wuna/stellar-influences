@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -32,6 +32,8 @@ updated_at: 2026-05-06
 - Astronomicon formula: `V/MC = X`
 - Axis page: [Jupiter/MC](../axes/jupiter-mc.md)
 - Triad hub: [Jupiter Uranus MC](../triads/jupiter-uranus-mc.md)
+
+[Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -70,22 +72,23 @@ Growing and maturing despite upsets or surprises which offer new insight into pe
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal progress is expressed through sudden opportunity, surprise and adjustment.
+- psychology: Optimism and timely insight coexist with insecurity when continuity is disrupted.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: New insights into oneself or other people appear in Munkasey; no fixed relationship outcome is given.
+- events/manifestations: Sudden success, recognition, technical interests, reform and erratic career development.
+- conflicts/notes: Sudden benefit and disruptive surprise are both represented; the entries do not establish steady progress.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden good fortune and disruption can accompany the same pattern of change. They are not evidence that every surprise is favorable or that any specific event timing can be inferred.
+
+Source locators in the review cache: ABC printed p. 75 (PDF p. 36); Witte PDF p. 65 (entry start); Ebertin printed p. 244, entry 0861; Sandbach PDF p. 86 (chapter start only; exact activation page unrecorded); Munkasey printed p. 280. These parser-derived locators have not been visually verified in this review.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/MC = Uranus`: sudden recognition, fortunate enterprise, and the ability to seize the right moment when circumstances shift. Main caution: irregularity: progress may come erratically, and the same suddenness that brings success can also destabilize continuity or judgment.
+In `Jupiter/MC = Uranus`, Uranus makes personal happiness and development abrupt or irregular. The [Witte](#witte-entry) and [Ebertin entries](#ebertin-entry) emphasize sudden luck and the use of an opening, while [Sandbach](#sandbach-entry) explicitly describes erratic career progress. [Munkasey](#munkasey-entry), printed p. 280, shows the other side of surprise: disrupted security can also bring insight and maturity. ABC's technical success and reform motifs, printed p. 75, fit this theme of opportunity through change.
 
 ## Links
 

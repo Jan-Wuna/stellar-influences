@@ -46,6 +46,8 @@ updated_at: 2026-04-21
 - Axis: `Node/Node`
 - Astronomicon axis: `g/g`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -53,6 +55,15 @@ updated_at: 2026-04-21
 #### Pair Summary
 
 Union. Connections. Junction. Relationships. Contacts. Establishing relations. The common link. A node. Network. Limit, boundary or border relations.
+
+## Comparative Schema
+
+- core meaning: union, connection, and the common link joining people or things ([Pair Summary](#pair-summary)).
+- psychology: the entry does not specify a motive, emotional quality, or personality pattern behind making contact.
+- body/health: no bodily or medical correspondence is given.
+- social/relationship: relationships, contacts, networks, and the establishment of relations are explicit.
+- events/manifestations: a junction or the act of establishing a connection is represented; limit, boundary, and border relations are also named.
+- conflicts/notes: this repeated-factor axis preserves the source's Node vocabulary; it does not supply two independent meanings or identify a third-factor activation.
 
 ## Related Activations
 
@@ -78,11 +89,16 @@ Union. Connections. Junction. Relationships. Contacts. Establishing relations. T
 - [Node/Node = Vulcanus](../activations/node-node-equals-vulcanus.md)
 - [Node/Node = Poseidon](../activations/node-node-equals-poseidon.md)
 
+## Contradictions
+
+Only one pair summary is present, so there is no cross-source comparison to establish. Its vocabulary includes both joining and boundary relations; the entry does not explain the circumstances of either. The evidence map supplies Witte PDF p. 139 as a chapter start, with no visually verified printed-page reference.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Node` combines connection, alliance, and shared ties with connection, alliance, and shared ties.
-- In practice, it most often shows union, along with connections.
+`Node/Node` gathers the [source's meanings of connection](#pair-summary): union, contact, a common link, and the formation of a relationship or network. Its junction imagery includes a point where things meet, while the less usual reference to limit, boundary, or border relations keeps attention on where a connection is made or defined.
+
+This is a single-source repeated-factor entry. It does not state whether a connection is welcome, lasting, intimate, or beneficial, and it supplies no separate psychological or health delineation. Those qualities cannot be inferred from the repeated Node identity alone; the linked activations retain their own additional factors and meanings.
 
 ## Links
 

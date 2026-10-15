@@ -1,0 +1,466 @@
+{
+  "status": "APPLIED_AND_ORIGINAL_LEDGER_AMENDED_BY_OWNER",
+  "date": "2026-10-15",
+  "durable_amendments_before_handoff": 47,
+  "instructions": "Apply only each exact hub patch after matching current_sha256. Do not amend ledgers or create review records. Return saved targets and hashes to owner for complete readback and exact original ledger amendment.",
+  "entries": [
+    {
+      "path": "wiki/triads/moon-jupiter-vulcanus.md",
+      "current_sha256": "a76751e3989553bd5e5e156ce3da5a955fc06d941070b144994c811308552c8b",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-jupiter-vulcanus.md\n@@\n-The [Jupiter/Vulcanus = Moon ABC entry](../activations/jupiter-vulcanus-equals-moon.md#abc-entry) retains “joyFellowed”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-jupiter-vulcanus.md",
+        "activations": [
+          "wiki/activations/jupiter-vulcanus-equals-moon.md"
+        ],
+        "replacements": [
+          [
+            "The [Jupiter/Vulcanus = Moon ABC entry](../activations/jupiter-vulcanus-equals-moon.md#abc-entry) retains “joyFellowed”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete joyFellowed warning after the complete nine-clause Jupiter/Vulcanus = Moon ABC row was restored from printed p. 344 / PDF p. 171.",
+        "evidence": [
+          "Owner activations-020.jsonl row17 checked the actual Moon glyph, restoring the feeling of joy through power, legal influence and strong inner joy."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/handoff-020-abc-p171.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mars-admetos.md",
+      "current_sha256": "a058d596561308e06147e16d8155e24cf58d30cfba4588bce6bf001ba5e8c0b3",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mars-admetos.md\n@@\n-The [Moon/Admetos = Mars ABC entry](../activations/moon-admetos-equals-mars.md#abc-entry) retains “Gemtits”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mars-admetos.md",
+        "activations": [
+          "wiki/activations/moon-admetos-equals-mars.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Admetos = Mars ABC entry](../activations/moon-admetos-equals-mars.md#abc-entry) retains “Gemtits”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete Gemtits warning after the complete eight-clause Moon/Admetos = Mars ABC row was restored from printed p. 202 / PDF p. 100.",
+        "evidence": [
+          "Owner activations-041.jsonl row13 and exact-current independent allowance verify depressive emotional impulses, feeling-led actions and suppression of feelings at work rather than damaged cached wording."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a041-udo-p100.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mars-hades.md",
+      "current_sha256": "51f08cbed673a897a4b3aae16381979eca0a80a5ee07215d4fe56e60b29256cc",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mars-hades.md\n@@\n-The [Moon/Hades = Mars ABC entry](../activations/moon-hades-equals-mars.md#abc-entry) retains “GemOts Kummer”. Its paragraph is represented with damaged wording requiring source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mars-hades.md",
+        "activations": [
+          "wiki/activations/moon-hades-equals-mars.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Hades = Mars ABC entry](../activations/moon-hades-equals-mars.md#abc-entry) retains “GemOts Kummer”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete GemOts Kummer warning after the complete eight-clause Moon/Hades = Mars ABC row was restored from printed p. 194 / PDF p. 96.",
+        "evidence": [
+          "Owner activations-042.jsonl row54 personally checked emotional grief while working and all remaining clauses against the actual Mars glyph row."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-hades-udo-pdf96.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mars-saturn.md",
+      "current_sha256": "30827b486a0e9e4c8faee8c57e08c7b75fc35dafd4d581d271337dd170cf6f40",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mars-saturn.md\n@@\n-The [Moon/Mars = Saturn ABC entry](../activations/moon-mars-equals-saturn.md#abc-entry) retains “Gefels”. Its paragraph is represented with damaged wording requiring source verification.\n-\n@@\n-[Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md#sandbach-entry) (PDF chapter-start p. 28; exact entry page unverified)\n+[Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md#sandbach-entry) (exact oriented entry, PDF p. 29)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mars-saturn.md",
+        "activations": [
+          "wiki/activations/moon-mars-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Mars = Saturn ABC entry](../activations/moon-mars-equals-saturn.md#abc-entry) retains “Gefels”. Its paragraph is represented with damaged wording requiring source verification.\n\n",
+            ""
+          ],
+          [
+            "[Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md#sandbach-entry) (PDF chapter-start p. 28; exact entry page unverified)",
+            "[Moon/Mars = Saturn](../activations/moon-mars-equals-saturn.md#sandbach-entry) (exact oriented entry, PDF p. 29)"
+          ]
+        ],
+        "reason": "Clear the obsolete Gefels warning after the full nine-clause Moon/Mars = Saturn ABC row was restored from printed p. 181 / PDF p. 89, and update its exact Sandbach p. 29 locator.",
+        "evidence": [
+          "Owner activations-044.jsonl row16 and exact-current independent allowance verify disturbed emotional actions, concentrated collective will and all nine clauses; actual Sandbach Saturn paragraph is on PDF29."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a044-source-review.jsonl",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf89.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf29.png"
+        ],
+        "unresolved": [
+          "Mars/Saturn = Moon: Sandbach PDF p. 68 is a chapter start only.",
+          "Moon/Saturn = Mars: Sandbach PDF p. 31 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mercury-asc.md",
+      "current_sha256": "f291bfbbcbe685ce2a51148a41f1b139cf3298b59571bc21609e0a8b0cb35418",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mercury-asc.md\n@@\n-[Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#source-entries) has three actual source subentries: Witte, ABC and Munkasey. Its Sandbach frontmatter declaration has no corresponding paragraph; it also has no Ebertin subentry. The siblings' entries cannot fill those gaps. Its [ABC entry](../activations/moon-asc-equals-mercury.md#abc-entry) retains “fabled 'partner language”, whose wording remains unverified.\n+[Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#source-entries) has three actual source subentries: Witte, ABC and Munkasey. Its Sandbach frontmatter declaration has no corresponding paragraph; it also has no Ebertin subentry. The siblings' entries cannot fill those gaps.\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mercury-asc.md",
+        "activations": [
+          "wiki/activations/moon-asc-equals-mercury.md"
+        ],
+        "replacements": [
+          [
+            "[Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#source-entries) has three actual source subentries: Witte, ABC and Munkasey. Its Sandbach frontmatter declaration has no corresponding paragraph; it also has no Ebertin subentry. The siblings' entries cannot fill those gaps. Its [ABC entry](../activations/moon-asc-equals-mercury.md#abc-entry) retains “fabled 'partner language”, whose wording remains unverified.",
+            "[Moon/Asc = Mercury](../activations/moon-asc-equals-mercury.md#source-entries) has three actual source subentries: Witte, ABC and Munkasey. Its Sandbach frontmatter declaration has no corresponding paragraph; it also has no Ebertin subentry. The siblings' entries cannot fill those gaps."
+          ]
+        ],
+        "reason": "Clear only the obsolete Moon/Asc = Mercury fabled-partner-language warning after its complete nine-clause ABC row was restored; retain its absent Sandbach and Ebertin subentries.",
+        "evidence": [
+          "Owner activations-042.jsonl row4 and exact-current independent allowance verify feelingful partner conversations in actual printed102/PDF50. The owner separately read Sandbach39–40 and confirmed no Mercury row; the hub's source-coverage absence remains accurate."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf50.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-sandbach-moon-asc.md"
+        ],
+        "unresolved": [
+          "Moon/Asc = Mercury has no actual Sandbach or Ebertin paragraph; Sandbach is declared only.",
+          "Mercury/Asc = Moon: Sandbach PDF p. 52 is a chapter start only.",
+          "Moon/Mercury = Asc: Sandbach PDF p. 25 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mercury-mars.md",
+      "current_sha256": "2546b0a8091d985e15c426eacda033fd40810139e738e2a2180ee08157f1f4a4",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mercury-mars.md\n@@\n-The [Mercury/Mars = Moon ABC entry](../activations/mercury-mars-equals-moon.md#abc-entry) retains “a woman's one and a half thoughts” in an unverified translation. This specific wording needs source checking; the entry remains represented and its siblings cannot establish the missing sense.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mercury-mars.md",
+        "activations": [
+          "wiki/activations/mercury-mars-equals-moon.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Mars = Moon ABC entry](../activations/mercury-mars-equals-moon.md#abc-entry) retains “a woman's one and a half thoughts” in an unverified translation. This specific wording needs source checking; the entry remains represented and its siblings cannot establish the missing sense.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete one-and-a-half-thoughts warning after the full seven-clause Mercury/Mars = Moon ABC row was restored from printed p. 242 / PDF p. 120.",
+        "evidence": [
+          "Owner activations-036.jsonl row12 and exact-current independent allowance verify Gedanken über die Handlungen einer Frau as thoughts about a woman's actions; all seven clauses are present."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a035-038-udo-p120.png"
+        ],
+        "unresolved": [
+          "Mercury/Mars = Moon: Sandbach PDF p. 42 is a chapter start only.",
+          "Moon/Mars = Mercury: Sandbach PDF p. 28 is a chapter start only.",
+          "Moon/Mercury = Mars: Sandbach PDF p. 25 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mercury-mc.md",
+      "current_sha256": "078bf9924ef66f1a4057c7d11a978d07f98cc8bbf5efe61bc0eb0e5cffd404e0",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mercury-mc.md\n@@\n-The [Mercury/MC = Moon ABC entry](../activations/mercury-mc-equals-moon.md#abc-entry) retains “Description of a woman's skeleton” and “I at the a young woman” in an unverified translation. These are specific wording limits on this represented entry.\n-\n@@\n-[Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 40; exact entry page unverified)\n+[Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md#sandbach-entry) (exact oriented entry, PDF p. 40)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mercury-mc.md",
+        "activations": [
+          "wiki/activations/mercury-mc-equals-moon.md",
+          "wiki/activations/moon-mc-equals-mercury.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/MC = Moon ABC entry](../activations/mercury-mc-equals-moon.md#abc-entry) retains “Description of a woman's skeleton” and “I at the a young woman” in an unverified translation. These are specific wording limits on this represented entry.\n\n",
+            ""
+          ],
+          [
+            "[Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md#sandbach-entry) (PDF chapter-start p. 40; exact entry page unverified)",
+            "[Moon/MC = Mercury](../activations/moon-mc-equals-mercury.md#sandbach-entry) (exact oriented entry, PDF p. 40)"
+          ]
+        ],
+        "reason": "Clear the obsolete skeleton and broken first-person wording warning after the complete ten-clause Mercury/MC = Moon ABC row was restored, and update the separately verified Moon/MC = Mercury exact Sandbach p. 40 locator.",
+        "evidence": [
+          "Owner activations-036.jsonl row35 and exact-current independent allowance verify description of a woman's soul and I am a young woman on ABC printed68/PDF33. Previously completed044 actual Sandbach PDF40 proof establishes Moon/MC = Mercury's own entry; its literal mobility sense remains unspecified."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a035-038-udo-p33.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/a044-source-review.jsonl",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf40.png"
+        ],
+        "unresolved": [
+          "Mercury/MC = Moon: Sandbach PDF p. 53 is a chapter start only.",
+          "Moon/Mercury = MC: Sandbach PDF p. 25 is a chapter start only.",
+          "Moon/MC = Mercury: the source's literal mobility expression does not specify its form."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-venus-mc.md",
+      "current_sha256": "a8d42809070a7a28dbf9c28554657bee0b3be3b47eb80938409119dbdb309c28",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-venus-mc.md\n@@\n-The [Moon/MC = Venus ABC entry](../activations/moon-mc-equals-venus.md#abc-entry) retains “I at the a gentle woman”, whose translation remains unverified. The [Moon/Venus = MC Ebertin entry](../activations/moon-venus-equals-mc.md#ebertin-entry) explicitly separates footnote20, attached to Pluto0346, from MC0349; the footnote does not supply an MC claim.\n+The [Moon/Venus = MC Ebertin entry](../activations/moon-venus-equals-mc.md#ebertin-entry) explicitly separates footnote20, attached to Pluto0346, from MC0349; the footnote does not supply an MC claim.\n@@\n-[Moon/MC = Venus](../activations/moon-mc-equals-venus.md#sandbach-entry) (PDF chapter-start p. 40; exact entry page unverified)\n+[Moon/MC = Venus](../activations/moon-mc-equals-venus.md#sandbach-entry) (exact oriented entry, PDF p. 40)\n@@\n-[Moon/Venus = MC](../activations/moon-venus-equals-mc.md#sandbach-entry) (PDF chapter-start p. 27; exact entry page unverified)\n+[Moon/Venus = MC](../activations/moon-venus-equals-mc.md#sandbach-entry) (exact oriented entry, PDF p. 28)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-venus-mc.md",
+        "activations": [
+          "wiki/activations/moon-mc-equals-venus.md",
+          "wiki/activations/moon-venus-equals-mc.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/MC = Venus ABC entry](../activations/moon-mc-equals-venus.md#abc-entry) retains “I at the a gentle woman”, whose translation remains unverified. The [Moon/Venus = MC Ebertin entry](../activations/moon-venus-equals-mc.md#ebertin-entry) explicitly separates footnote20, attached to Pluto0346, from MC0349; the footnote does not supply an MC claim.",
+            "The [Moon/Venus = MC Ebertin entry](../activations/moon-venus-equals-mc.md#ebertin-entry) explicitly separates footnote20, attached to Pluto0346, from MC0349; the footnote does not supply an MC claim."
+          ],
+          [
+            "[Moon/MC = Venus](../activations/moon-mc-equals-venus.md#sandbach-entry) (PDF chapter-start p. 40; exact entry page unverified)",
+            "[Moon/MC = Venus](../activations/moon-mc-equals-venus.md#sandbach-entry) (exact oriented entry, PDF p. 40)"
+          ],
+          [
+            "[Moon/Venus = MC](../activations/moon-venus-equals-mc.md#sandbach-entry) (PDF chapter-start p. 27; exact entry page unverified)",
+            "[Moon/Venus = MC](../activations/moon-venus-equals-mc.md#sandbach-entry) (exact oriented entry, PDF p. 28)"
+          ]
+        ],
+        "reason": "Clear the obsolete Moon/MC = Venus broken first-person translation warning and update both established Sandbach locators, preserving the distinct Ebertin footnote20 ownership note.",
+        "evidence": [
+          "Owner activations-044.jsonl row42 verifies the full eleven-clause Venus ABC row on printed64/PDF31 and exact Sandbach40. Owner activations-048.jsonl row36 and exact-current independent allowance establish Moon/Venus = MC Sandbach28 and retain footnote20 under Pluto0346 rather than MC0349."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a044-source-review.jsonl",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-abc-pdf31.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf40.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-remaining-sandbach-pdf28.png"
+        ],
+        "unresolved": [
+          "Venus/MC = Moon: Sandbach PDF p. 66 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-mercury-vulcanus.md",
+      "current_sha256": "802a32cc1512dc65ca724ed399be214db4b72c84b5664f4714eee7b01a433c79",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-mercury-vulcanus.md\n@@\n-The [Mercury/Vulcanus = Moon ABC entry](../activations/mercury-vulcanus-equals-moon.md#abc-entry) retains “fiihls stark”. That represented wording needs source verification; this hub does not infer a replacement from its sibling orientations.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-mercury-vulcanus.md",
+        "activations": [
+          "wiki/activations/mercury-vulcanus-equals-moon.md"
+        ],
+        "replacements": [
+          [
+            "The [Mercury/Vulcanus = Moon ABC entry](../activations/mercury-vulcanus-equals-moon.md#abc-entry) retains “fiihls stark”. That represented wording needs source verification; this hub does not infer a replacement from its sibling orientations.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete fiihls stark warning after the complete nine-clause Mercury/Vulcanus = Moon ABC row was restored from printed p. 266 / PDF p. 132.",
+        "evidence": [
+          "Owner activations-040.jsonl row31 and exact-current independent allowance verify emotional strength in conversation and speaking about emotional strength within the complete Moon glyph row."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf132.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-neptune-node.md",
+      "current_sha256": "ee0e9cb3fd6b3aadbc7b3818df80f54fd0144cad72f4d679fd93a544e906394b",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-neptune-node.md\n@@\n-The supplied locator for [Neptune/Node = Moon's Ebertin entry](../activations/neptune-node-equals-moon.md#ebertin-entry) is printed p.35, entry1012, but the live subentry has no page reference. That supplied page needs source verification and is not certified here. Its [ABC entry](../activations/neptune-node-equals-moon.md#abc-entry) retains “A uflosung a Gefhls connection”, a separate wording limit.\n-\n@@\n-[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#ebertin-entry) (supplied printed p. 35, entry 1012; page requires verification)\n+[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#ebertin-entry) (printed p. 284, entry 1012; PDF p. 286)\n@@\n-[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#sandbach-entry) (PDF chapter-start p. 111; exact entry page unverified)\n+[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#sandbach-entry) (exact oriented entry, PDF p. 111)\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-neptune-node.md",
+        "activations": [
+          "wiki/activations/neptune-node-equals-moon.md"
+        ],
+        "replacements": [
+          [
+            "The supplied locator for [Neptune/Node = Moon's Ebertin entry](../activations/neptune-node-equals-moon.md#ebertin-entry) is printed p.35, entry1012, but the live subentry has no page reference. That supplied page needs source verification and is not certified here. Its [ABC entry](../activations/neptune-node-equals-moon.md#abc-entry) retains “A uflosung a Gefhls connection”, a separate wording limit.\n\n",
+            ""
+          ],
+          [
+            "[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#ebertin-entry) (supplied printed p. 35, entry 1012; page requires verification)",
+            "[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#ebertin-entry) (printed p. 284, entry 1012; PDF p. 286)"
+          ],
+          [
+            "[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#sandbach-entry) (PDF chapter-start p. 111; exact entry page unverified)",
+            "[Neptune/Node = Moon](../activations/neptune-node-equals-moon.md#sandbach-entry) (exact oriented entry, PDF p. 111)"
+          ]
+        ],
+        "reason": "Clear the repaired Neptune/Node = Moon ABC dissolution warning, replace the false Ebertin printed p. 35 lead with verified printed p. 284 / PDF p. 286 code1012, and update its exact Sandbach p. 111 locator.",
+        "evidence": [
+          "Owner activations-053.jsonl row4 and exact-current independent allowance verify all seven actual ABC printed220/PDF109 clauses and the complete Ebertin1012 and Sandbach111 paragraphs; the current canonical entries carry the corrected references."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-045-066-udo-pdf109.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-045-066-ebertin-pdf286-287.md",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-uranus-neptune-sandbach-pdf111.png"
+        ],
+        "unresolved": [
+          "Moon/Neptune = Node: Sandbach PDF p. 34 is a chapter start only.",
+          "Moon/Node = Neptune: Sandbach PDF p. 37 is a chapter start only."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/moon-node-cupido.md",
+      "current_sha256": "6ed76ac6611ca347e29b837477dee86d6176cc1ece4794f897837949171d060e",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-node-cupido.md\n@@\n-The [Moon/Cupido = Node ABC entry](../activations/moon-cupido-equals-node.md#abc-entry) retains “GemOts”. This wording needs source verification; the actual paragraph remains represented and the hub supplies no repaired meaning.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-node-cupido.md",
+        "activations": [
+          "wiki/activations/moon-cupido-equals-node.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Cupido = Node ABC entry](../activations/moon-cupido-equals-node.md#abc-entry) retains “GemOts”. This wording needs source verification; the actual paragraph remains represented and the hub supplies no repaired meaning.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete GemOts warning after the complete seven-clause Moon/Cupido = Node ABC row was restored from printed p. 192 / PDF p. 95.",
+        "evidence": [
+          "Owner activations-042.jsonl row39 checked actual shared feelings, emotional connection and emotional relationships to art, restoring the complete Node glyph row."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a039-042-abc-pdf95.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-saturn-admetos.md",
+      "current_sha256": "589c0de5f35b07e39e51da6ccddb5df6c47ed0ca88fb017b3fb85ee2e850300c",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-saturn-admetos.md\n@@\n-The [Moon/Admetos = Saturn ABC entry](../activations/moon-admetos-equals-saturn.md#abc-entry) retains “end of the feelings storage”. That translated phrase needs source verification; its actual entry remains linked separately from both sibling formulas.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-saturn-admetos.md",
+        "activations": [
+          "wiki/activations/moon-admetos-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Admetos = Saturn ABC entry](../activations/moon-admetos-equals-saturn.md#abc-entry) retains “end of the feelings storage”. That translated phrase needs source verification; its actual entry remains linked separately from both sibling formulas.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete feelings-storage warning after the full seven-clause Moon/Admetos = Saturn ABC row was restored from printed p. 203 / PDF p. 100.",
+        "evidence": [
+          "Owner activations-041.jsonl row20 and exact-current independent allowance verify Ende der Gemüts-Störungen as the end of mood disturbances, retaining patience, disturbed circulation and the hour of concentration."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a041-udo-p100.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-saturn-kronos.md",
+      "current_sha256": "1d7b73bbcb8494f8857778be7b1b0aad789e0570416f80fc8bdbff87a1e82c6e",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-saturn-kronos.md\n@@\n-The [Moon/Kronos = Saturn ABC entry](../activations/moon-kronos-equals-saturn.md#abc-entry) retains “self defense woman”. That specific translated phrase needs source verification; this hub supplies no replacement meaning.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-saturn-kronos.md",
+        "activations": [
+          "wiki/activations/moon-kronos-equals-saturn.md"
+        ],
+        "replacements": [
+          [
+            "The [Moon/Kronos = Saturn ABC entry](../activations/moon-kronos-equals-saturn.md#abc-entry) retains “self defense woman”. That specific translated phrase needs source verification; this hub supplies no replacement meaning.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete self-defense-woman warning after the complete eight-clause Moon/Kronos = Saturn ABC row was restored from printed p. 199 / PDF p. 98.",
+        "evidence": [
+          "Owner activations-043.jsonl row48 and exact-current independent allowance verify Aufgaben einer selbständigen Frau as an independent woman's tasks, with old-age standing, emotional problems and mature achievement restored."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/root043-moonkronos-abc-pdf98.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/moon-venus-hades.md",
+      "current_sha256": "d069fca4bf94eb3471edb12d5ed81702283801e5bada6fbaf471156ad84fa517",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/moon-venus-hades.md\n@@\n-The [Venus/Hades = Moon ABC entry](../activations/venus-hades-equals-moon.md#abc-entry) retains “hidden love filials”. This is a specific wording limit within a represented entry, pending source verification.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/moon-venus-hades.md",
+        "activations": [
+          "wiki/activations/venus-hades-equals-moon.md"
+        ],
+        "replacements": [
+          [
+            "The [Venus/Hades = Moon ABC entry](../activations/venus-hades-equals-moon.md#abc-entry) retains “hidden love filials”. This is a specific wording limit within a represented entry, pending source verification.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete hidden-love-filials warning after the complete nine-clause Venus/Hades = Moon ABC row was restored from printed p. 284 / PDF p. 141.",
+        "evidence": [
+          "Owner activations-086.jsonl row32 and exact-current independent allowance check concealing feelings of love, sorrow in love and every other clause against the actual Moon glyph row."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a084-088-abc-p141.png"
+        ],
+        "unresolved": []
+      }
+    },
+    {
+      "path": "wiki/triads/neptune-cupido-apollon.md",
+      "current_sha256": "200ec1529442bded201a510fcca6ebb94130a68d889de9a852bc4373e68a2b68",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/neptune-cupido-apollon.md\n@@\n-The [Cupido/Apollon = Neptune ABC entry](../activations/cupido-apollon-equals-neptune.md#abc-entry) contains “Community policy, economic and social cohesion, and structural policy”. This represented translation artifact requires source review; its wording is not established astrological meaning.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/neptune-cupido-apollon.md",
+        "activations": [
+          "wiki/activations/cupido-apollon-equals-neptune.md"
+        ],
+        "replacements": [
+          [
+            "The [Cupido/Apollon = Neptune ABC entry](../activations/cupido-apollon-equals-neptune.md#abc-entry) contains “Community policy, economic and social cohesion, and structural policy”. This represented translation artifact requires source review; its wording is not established astrological meaning.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete community-policy/structural-policy artifact warning after all seven actual Cupido/Apollon = Neptune ABC clauses were restored from printed p. 431 / PDF p. 214.",
+        "evidence": [
+          "Owner activations-009.jsonl row4 and exact-current independent allowance verify the complete Neptune glyph row, including sensitivity, water, air and future knowledge."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a008-009-abc-pdf214.png"
+        ],
+        "unresolved": [
+          "The ABC water, air and future-knowledge images do not specify one practical setting."
+        ]
+      }
+    },
+    {
+      "path": "wiki/triads/neptune-cupido-hades.md",
+      "current_sha256": "b3cfdff97ea16e49acec9aecfc80e7b69974e968c5d8d7afca8cb4e37c8aee81",
+      "patch": "*** Begin Patch\n*** Update File: wiki/triads/neptune-cupido-hades.md\n@@\n-The [Cupido/Hades = Neptune ABC entry](../activations/cupido-hades-equals-neptune.md#abc-entry) begins “Community policy, economic and social cohesion” and continues with economic-union wording. This represented translation artifact requires source review; it is not established astrological meaning.\n-\n*** End Patch",
+      "config": {
+        "path": "wiki/triads/neptune-cupido-hades.md",
+        "activations": [
+          "wiki/activations/cupido-hades-equals-neptune.md"
+        ],
+        "replacements": [
+          [
+            "The [Cupido/Hades = Neptune ABC entry](../activations/cupido-hades-equals-neptune.md#abc-entry) begins “Community policy, economic and social cohesion” and continues with economic-union wording. This represented translation artifact requires source review; it is not established astrological meaning.\n\n",
+            ""
+          ]
+        ],
+        "reason": "Clear the obsolete community-policy/economic-union artifact warning after all six actual Cupido/Hades = Neptune ABC clauses were restored from printed p. 425 / PDF p. 211.",
+        "evidence": [
+          "Owner activations-009.jsonl row51 and exact-current independent allowance verify the complete row on actual ABC211, including shared-past disappointment, water danger/shortage and renunciation of metaphysics."
+        ],
+        "proof_files": [
+          "docs/reviews/2026-10-15-full-wiki/verification/a008-009-abc-pdf211.png"
+        ],
+        "unresolved": []
+      }
+    }
+  ]
+}

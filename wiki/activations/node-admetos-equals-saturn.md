@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Saturn`
 - Astronomicon formula: `g/¦ = W`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,22 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 End of an oppression. Separating connection with a few. Oppressive bonds. To pant under a heavy burden.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `235`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-Blocked reform connections, consolidation of a dynamic relationship, basic technical mediation, deepening contacts with technology, new relationships, sudden end of Y bonding, and tensions in a blocked connection
+Enduring tasks within a connection, the end of problems within a connection, consolidating serious contacts, concentration on consolidating a connection, painful depressions within a connection, and a costly restriction of a connection
+
+The entry's Depressionen wording is retained without assigning it a clinical or economic sense.
+
+## Comparative Schema
+
+- core meaning: burdensome or restricted bonds may also become firmer or cease to oppress.
+- psychology: concentration on consolidating a tie is explicit.
+- body/health: panting under a burden and painful depressions are historical descriptions, not diagnoses.
+- social/relationship: separating a connection and consolidating serious contacts are alternative expressions.
+- events/manifestations: enduring tasks, ending problems and a costly restriction are named.
+- conflicts/notes: ending oppression need not be treated as a harmful separation.
+
+## Contradictions
+
+Both burden and relief appear. Witte's ending oppression and ABC's ending problems sit beside restrictions and firming contacts, with no necessary progression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Saturn`: End of an oppression. Separating connection with a few. Oppressive bonds. To pant under a heavy burden.
-- Practical focus: end of an oppression.
-- In difficult expression, it can mark separating connection with a few.
+Node/Admetos = Saturn concerns enduring obligations and the weight or firmness of bonds. [Witte](#witte-entry) places oppressive ties beside the end of oppression; [ABC](#abc-entry) adds serious contacts being consolidated, continuing tasks, ending problems and costly restriction (printed p. 235, PDF p. 116). The range includes relief as well as burden. The panting and depressions language stays attributed, without a diagnosis or a rule that separation must be harmful.
 
 ## Links
 

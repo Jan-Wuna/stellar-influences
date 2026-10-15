@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Hades](../axes/mc-hades.md)
 - Triad hub: [MC Cupido Hades](../triads/mc-cupido-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Grief through married life, organizations or associations. I am worried about th
 
 #### ABC Entry
 
-Old soul community, common soul combination, I receive the community, criminal soul of a community, my service in the community, my sorrow of the community, my renunciation of the community, and my old community
+- Source passage: `Meridian + Hades`; printed p. `87`; one-based PDF page `42` (complete oriented row checked against the raw scan).
+
+Old soul community, shared sorrow of the soul, I am deprived of the community, criminal soul of a community, my service within the community, my sorrow with the community, my renunciation of the community, my old community.
+
+## Comparative Schema
+
+- **Core meaning:** Grief and worry associated with communal or married life.
+- **Psychology:** Worry about the future and shared sorrow are represented.
+- **Body/health:** The entries establish no particular medical condition.
+- **Social/relationship:** Marriage, associations, community service, and renunciation are named.
+- **Events/manifestations:** Troubled group involvement is represented without a certain forecast.
+- **Conflicts/notes:** ABC names shared sorrow and deprivation; its criminality phrase remains attributed historical doctrine rather than a label for a group.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Hades = Cupido` socializes the axis through grief in marriage, family, or organizations.
-- Chart expression: sorrow tied to communal or married life, worry about the future of groups, and belonging colored by anxiety, loss, or unhappy association.
+Cupido specifies `MC/Hades` through grief in marriage, organizations, or associations. Concern about the future joins ABC's sorrow and renunciation of community, placing difficulty within belonging while retaining service to a group as a distinct activity. ([Witte Entry](#witte-entry), PDF p. 71, entry start; [ABC Entry](#abc-entry), printed p. 87.)
 
 ## Links
 

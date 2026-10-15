@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Asc Zeus Admetos`
 - Astronomicon triad-set: `Asc £ ¦`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Asc/Admetos = Zeus](../activations/asc-admetos-equals-zeus.md)
-- [Asc/Zeus = Admetos](../activations/asc-zeus-equals-admetos.md)
-- [Zeus/Admetos = Asc](../activations/zeus-admetos-equals-asc.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Admetos = Zeus](../activations/asc-admetos-equals-zeus.md) | [Asc/Admetos](../axes/asc-admetos.md) | [Zeus](../factors/zeus.md) |
+| [Asc/Zeus = Admetos](../activations/asc-zeus-equals-admetos.md) | [Asc/Zeus](../axes/asc-zeus.md) | [Admetos](../factors/admetos.md) |
+| [Zeus/Admetos = Asc](../activations/zeus-admetos-equals-asc.md) | [Zeus/Admetos](../axes/zeus-admetos.md) | [Asc](../factors/asc.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Asc/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `96`
-- `Asc/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `133`
-- `Asc/Zeus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
-- `Asc/Zeus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `127`
-- `Zeus/Admetos = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `293`
-- `Zeus/Admetos = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `454`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Asc/Admetos = Zeus` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-admetos-equals-zeus.md#witte-entry) | one-based PDF p. 96 (entry start); printed page not established |
+| `Asc/Admetos = Zeus` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-admetos-equals-zeus.md#abc-entry) | printed p. 133; PDF p. 65 |
+| `Asc/Zeus = Admetos` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-zeus-equals-admetos.md#witte-entry) | one-based PDF p. 93 (entry start); printed page not established |
+| `Asc/Zeus = Admetos` | [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-zeus-equals-admetos.md#abc-entry) | printed p. 127; PDF p. 62 |
+| `Zeus/Admetos = Asc` | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-asc.md#witte-entry) | one-based PDF p. 293 (entry start); printed page not established |
+| `Zeus/Admetos = Asc` | [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-asc.md#abc-entry) | printed p. 454; PDF p. 226 |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Admetos = Zeus`: bad performance by others, fear of beginning, and weakened drive inside a fixed or inhibiting environment.
-- `Asc/Zeus = Admetos`: being forced to overcome obstacles, start under pressure, or push against heavy opposition.
-- `Zeus/Admetos = Asc`: To come into changed states through others or with others, and have to solve new tasks with them. To solve problematic tasks with other people. Facing and overcoming environmental problems.
+Use this hub to choose the exact orientation for the unordered set `Asc Zeus Admetos`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

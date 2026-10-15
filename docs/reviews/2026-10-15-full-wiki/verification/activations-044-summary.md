@@ -1,0 +1,19 @@
+# Activations 044: completed full-review checkpoint
+
+Status: COMPLETE for the assigned full-page review. All 45 of 45 original paths have complete, unique records in ledgers/activations-044.jsonl. All 45 changed against before/wiki; no assigned path remains missing. Independent source-integrity approval is a separate gate and is not claimed here.
+
+Root ceded this assignment after the triads001–012 797/797 checkpoint. The first eleven Moon/Mars pages contained inherited partial edits. Each was fully reread with its manifest, original baseline, exact evidence shard, known-issue subset and canonical axis; useful partial wording was preserved after actual-source checks. All later Moon/Mars and Moon/MC pages received the same complete review.
+
+verification/a044-source-review.jsonl has 45 page records covering all 150 represented source blocks. It preserves complete original/current source blocks and wording, typed printed/PDF/code locators, exact glyph or paragraph boundaries, and retained actual scan paths. Thirty-eight source bodies were repaired. Every added source reference is included, even where its source body stayed unchanged. The source-integrity owner was notified at the completed checkpoint.
+
+Personally viewed durable scans cover ABC PDF89 (printed180–181) and PDF31 (printed64–65); Witte PDF124 (printed128) and PDF60; Ebertin PDF122–123 (printed120–121) and PDF145–146 (printed143–144); Sandbach PDF28–29 and PDF40–41; and Munkasey PDF113/115 (printed112/114) and PDF145/147 (printed144/146). Sandbach Moon/Mars Jupiter crosses PDF28–29; Moon/MC Uranus crosses PDF40–41. Ebertin Moon/Mars Pluto0358 crosses PDF122–123 and ends before Node0359.
+
+Major repairs restore Moon/Mars Neptune's eight-clause row and the displaced seven-clause Pluto opening; restore Node's work-placement/working-hours/collective connections; and correct ABC mistranslations of feeling, art, independence, reason and leadership. Moon/MC Sun's repeated soul-of-man cache is replaced by all nine actual clauses. Its Asc row regains two omitted partner clauses; Cupido regains all eight clauses; Vernal Point's Witte sentence now ends with the actual in general. Source medical, criminal, moralizing and gendered examples remain attributed, with no diagnosis, character judgment or inevitable outcome inferred.
+
+Two source-language limits remain: Moon/Mars = Neptune retains literal Arbeits-Verneinung as negating work without an identified actor or form; Moon/Mars = Node retains mediation of working hours without an invented arrangement. These are explicit interpretation limits, not missing source evidence.
+
+Each page save passed a complete intended-content SHA256 check, followed by parsing both JSONL files. Final scoped verification confirmed exact 45-path coverage, unique complete records, baseline outcomes, preserved canonical metadata except date, all 150 proof blocks equal to both baseline and current source sections, six substantive categories, early interpretation routes, unique adjacent anchors, file/fragment links and whitespace. Actual saved synthesis diffs for all 45 pages were inspected in three bounded batches. No whole-corpus or source-gate pass is claimed.
+
+The MCP apply_patch writer intermittently failed before a Kronos checkpoint; complete source-page and ledger/proof integrity were verified unchanged. The authorized native Codex CLI apply-patch fallback saved smaller per-file hunks successfully. A temporary capacity hold was obeyed; root verified the alert was incorrect and cleared it. No data was deleted. The final read-only audit wrapper initially had transport-escaping errors; its corrected base64-embedded wrapper passed without altering content.
+
+No raw vault file, source bank, tool, test or navigation file was edited. Only assigned activation pages, their original ledger, and task-owned proof/report artifacts were changed. No commit or whole-corpus refresh was performed.

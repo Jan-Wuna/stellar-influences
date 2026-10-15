@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Zeus Poseidon](../triads/venus-zeus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 The sower of religion. To be a leader in matters of religion or faith. Missionary or pioneer of a faith. Religious fights or wars.
 
@@ -42,13 +46,27 @@ The sower of religion. To be a leader in matters of religion or faith. Missionar
 
 #### ABC Entry
 
-Efforts for love culture, beginning love for the spirit, creative artistic ideas, creative peace culture, cultural design through beauty, artistic and cultural direction, and preference for spiritual achievements
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Efforts for a culture of love, beginning love of reason, creative art ideas, creative peace culture, cultural shaping through beauty, art and cultural direction, and preference for spiritual achievements
+
+## Comparative Schema
+
+- core meaning: Initiating or directing belief, culture, and spiritual work.
+- psychology: Effort toward love culture and preference for spiritual achievement.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Religious leadership, missionary work, and pioneering a faith.
+- events/manifestations: Creative art, peace culture, and also religious fights or wars.
+- conflicts/notes: Creative peace work and religious conflict remain distinct possibilities.
+
+## Contradictions
+
+Witte includes religious wars while ABC emphasizes creative peace culture. These materially different manifestations must remain visible together.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Zeus`: the sower of religion.
-- Practical expression: efforts for love culture, beginning love for the spirit, creative artistic ideas, creative peace culture, and cultural design through beauty.
+In `Venus/Poseidon = Zeus`, Zeus specifies the pair through efforts to initiate, lead, or give direction to belief and cultural values. The [Witte entry](#witte-entry) names religious leaders, missionaries, and pioneers, while also retaining religious fights or wars. The [ABC entry](#abc-entry) emphasizes creative art, peace culture, beauty, and spiritual achievement. Direction can therefore take constructive or conflictual forms; peace is one stated expression rather than an automatic outcome.
 
 ## Links
 

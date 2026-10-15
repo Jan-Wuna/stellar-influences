@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Jupiter`
 - Astronomicon formula: `X/§ = V`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 Crowded with joy and happiness (blissfulness).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Disturbing right influence, successful influence of technology, emancipation of the right power, excitement about financial power, joy over power eminence, enormous right event, new financial power, strong joy impulse, and advantage through technical energies
+- Source page: 386 (printed); PDF page: 192.
+
+Unsettling legal influence, successful influence of technology, renewal of legal force, excitement about financial power, joy over renewal of power, major legal event, new financial power, strong joy impulse, and advantage through technical energies
+
+## Comparative Schema
+
+- Core meaning: Joy and advantage accompanying a surge of power.
+- Psychology: Strong joy and excitement over financial power.
+- Body/health: No specific health claim.
+- Social/relationship: Legal influence and financial power are social settings.
+- Events/manifestations: Technical success, new financial power, and major legal events.
+- Conflicts/notes: Legal disturbance and joy are distinct expressions, not uniform good fortune.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Legal disturbance and joy are distinct expressions, not uniform good fortune. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Jupiter`: Crowded with joy and happiness (blissfulness).
-- Practical expression: disturbing right influence, successful influence of technology, emancipation of the right power, and excitement about financial power.
+Jupiter specifies Uranus/Vulcanus through an intense upsurge of joy or a tangible advantage from technical power. ABC extends that range into law and finance, including excitement and unsettling legal influence. The common thread is the strong impact of newly available power; the legal and financial examples prevent reducing the formula to bliss alone. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

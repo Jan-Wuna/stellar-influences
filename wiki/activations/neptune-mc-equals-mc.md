@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = MC`
 - Astronomicon formula: `Y/MC = MC`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN With Itself`
-- Source page: `342`
+- Source reference: printed p. `342` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Recognizing the importance of proper credentials and attention from others; copi
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: recognition of credentials and attention, alongside reassessment of effort that produced little gain.
+- psychology: coping with disappointing results is explicit.
+- body/health: no bodily or health claim is supplied.
+- social/relationship: other people's attention and recognition of credentials form the stated social setting.
+- events/manifestations: wasted effort or resources and a better outcome after poor starts are the named manifestations.
+- conflicts/notes: this is Munkasey's repeated-pair entry, with no third distinct factor; a better outcome is a source possibility rather than a promise.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-pair passage is present, so there is no independent source comparison on this page.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = MC`: Recognizing the importance of proper credentials and attention from others; coping with situations where one has wasted much effort and resources for little gain; a better outcome after consistently poor starts.
+For Neptune/MC = MC, [Munkasey](#munkasey-entry) links recognition of credentials and attention from others with coping after much effort has yielded little gain (printed p. 342). The passage also allows a better outcome after repeated poor starts. The emphasis is on recognition and the effectiveness of effort; the single repeated-pair entry does not guarantee eventual improvement.
 
 ## Links
 

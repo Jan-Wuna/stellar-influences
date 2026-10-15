@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Finding a quiet place for examining your inner self; searches for different meth
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Quiet self-examination through mystical or contemplative practice.
+- psychology: A desire for inner control and increased meditation.
+- body/health: Sexual and bodily urges are named without a medical conclusion.
+- social/relationship: The entry focuses on inner practice rather than a relationship outcome.
+- events/manifestations: Seeking quiet, exploring mystical methods, meditation, and yoga.
+- conflicts/notes: Munkasey is the only source; repeated Neptune does not add independent support or establish therapeutic efficacy.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present; quiet self-examination and control of urges are connected aims rather than competing claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Neptune`: Finding a quiet place for examining one's inner self; searches for different methods of mystical practices for gaining an inner control on one's sexual and bodily urges; an increased need for meditation and yoga.
+In `Mars/Neptune = Neptune`, repeated Neptune specifies the pair through retreat into quiet self-examination. Munkasey links the search for mystical methods, meditation, and yoga with gaining inner control over sexual and bodily urges. This single 'With Itself' passage describes a contemplative orientation, without establishing a medical benefit or a separate relationship outcome. ([Munkasey entry](#munkasey-entry), printed p. 238)
 
 ## Links
 

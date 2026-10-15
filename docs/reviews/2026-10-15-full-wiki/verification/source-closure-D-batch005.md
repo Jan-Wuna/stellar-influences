@@ -1,0 +1,7 @@
+# Closure D batch D005
+
+24 original targets dispositioned: 23 source sections changed and one already repaired Venus/Uranus=Vernal Point verified unchanged. Changes restore 18 complete ABC rows, resolve eight Sandbach chapter-start references to actual exact paragraphs, separate the Moon0604 footnote32 from Ebertin Neptune0609, and repair two Witte Cupido rows (omitted Widespread and stray Pluto display residue). Existing090/091/093 records were amended in place, including exact evidence-object references. Zero reviews were added.
+
+Actual complete affected ABC136/137/021, Witte048/179, Ebertin184 printed182, and Sandbach057/058/060 were personally read/viewed. Witte179 really prints One's tend to break up: wording is retained with a verified grammatical limitation. Fremde retains its foreign/unfamiliar lexical range. ABC Liebes-Gewalt is explicitly preserved as sudden violence in love, with adverse and concord strands distinct. Historical gender, medical, social-judgment, and minority source claims remain attributed. Source paragraph identity, categories, frontmatter, and anchors are preserved.
+
+The JSONL saves full before/after Source Entries, raw locators/proofs, original owner and source hashes. All24 metadata/six-category/anchor/local-link/unique-owner checks and exact authored saved-content readback pass. Bounded whitespace checks pass. Four failed MCP writes were successfully applied with the authorized exact native apply_patch argv; no pending write remains. Author dispositions await D023's independent exact-hash allowance.

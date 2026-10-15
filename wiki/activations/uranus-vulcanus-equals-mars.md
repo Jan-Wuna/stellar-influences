@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Mars`
 - Astronomicon formula: `X/§ = U`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 To be exposed to great dangers, injuries, or violent acts. The accomplishments of the electric current.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Work with technical energy, exciting acts of violence, emboldenment for power, dynamic work force, influential technical activity, powerful tensions at work, and Surprising power will
+- Source page: 386 (printed); PDF page: 192.
+
+Work with technical energy, exciting acts of violence, efforts toward renewal of power, dynamic work force, influential technical activity, powerful tensions at work, and Surprising power will
+
+## Comparative Schema
+
+- Core meaning: Power discharged through work or violent action.
+- Psychology: A forceful will to act.
+- Body/health: Witte lists injuries and danger as historical claims, not predicted outcomes.
+- Social/relationship: Tensions at work.
+- Events/manifestations: Technical work, electrical accomplishments, and violent acts.
+- Conflicts/notes: Technical accomplishment and bodily danger are different expressions.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Technical accomplishment and bodily danger are different expressions. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Mars`: To be exposed to great dangers, injuries, or violent acts. The accomplishments of the electric current.
-- Practical expression: work with technical energy, exciting acts of violence, emboldenment for power, dynamic work force, and influential technical activity.
+Mars specifies Uranus/Vulcanus through force put into action: dynamic technical work and electrical accomplishment stand beside violence and exposure to injury. Work can carry powerful tension and a sudden assertion of will. Witte's bodily danger language remains attributed historical doctrine; the shared meaning is the consequential release of energy, not an inevitable accident. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

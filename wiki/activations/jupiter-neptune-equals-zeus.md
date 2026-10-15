@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Neptune = Zeus`
 - Astronomicon formula: `V/Y = £`
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: printed page 213; one-based PDF page 209, Jupiter/Neptune section, Zeus row.
+
 Earnings of money through inventions (patent lawyer).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-G!Uck's expectations, dangerous legal uncertainty, inadequate sensitivity to the law, disadvantages caused by water law, uncertainty caused by financial crime, benefits for the future by renunciation, and poor success from the past
+- Source reference: printed page 329; one-based PDF page 163, Jupiter/Neptun section, Zeus row; complete row and adjacent factor glyphs checked.
+
+Efforts toward future happiness, beginning financial weakness, disappointing money production, successful leadership through sensitivity, successful accomplishments in water, shaping water law, money through fire-water, and weak legal accomplishments
+
+## Comparative Schema
+
+- core meaning: Invention-related earnings in Witte; effort, leadership and mixed financial/legal results in ABC.
+- psychology: Effort toward future happiness and sensitivity in leadership.
+- body/health: No bodily condition is stated.
+- social/relationship: Patent lawyer in Witte; leadership and water law in ABC.
+- events/manifestations: Money through inventions or fire-water, accomplishments in water, beginning financial weakness and disappointing money production.
+- conflicts/notes: The former ABC passage belonged to Hades; Feuer-Wasser is retained literally because its precise intended scope is not explained here.
+
+## Contradictions
+
+Witte's earnings through inventions coexist with ABC's disappointing money production and financial weakness, but ABC also permits successful leadership and accomplishments. No source guarantees that invention will be profitable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Zeus`: visionary possibility becoming productive through design, innovation, or legal-intellectual application. It favors making money from imagination when ideas are concretized well enough to function.
+For `Jupiter/Neptune = Zeus`, [Witte](#witte-entry) gives earnings through inventions and the example of a patent lawyer. The correct [ABC row](#abc-entry) adds effort toward future happiness, leadership through sensitivity and accomplishments involving water or water law. It also includes financial weakness, disappointing money production and weak legal results. Money through fire-water remains a literal, unexplained source example. Productive ideas and effort can therefore have mixed results; profit is not assured.
 
 ## Links
 

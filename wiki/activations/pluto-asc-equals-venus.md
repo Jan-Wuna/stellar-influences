@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Pluto/Asc](../axes/pluto-asc.md)
 - Triad hub: [Venus Pluto Asc](../triads/venus-pluto-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 90 (one-based; entry start).
 
 #### Witte Entry
 
@@ -43,17 +47,23 @@ To desire a change in the place. Nice change in the surroundings. To think of th
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 120; PDF page 59.
+
 #### ABC Entry
 
 Others develop harmoniously, development of a art place, peaceful change in one place, harmony with the partner develop, preference for environmental changes, growing partner love, and change of the partner through love
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source locator: Printed page 295, entry 1062.
+
 #### Ebertin Entry
 
 Ability to wield an influence upon others by means of an extremely attractive personality. A strong love union.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 116 (one-based; chapter start only, not an exact formula locator).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Adds softness to an intense demeanor and helps others relate better to the inner
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Attraction and harmony accompanying change in surroundings or relationships.
+- psychology: Appreciation of intensity and personal transformation.
+- body/health: Munkasey mentions sexual pleasure; no disease or clinical claim is supplied.
+- social/relationship: Charm, affection, a strong love union, and a softer demeanor.
+- events/manifestations: Beautification of surroundings and peaceful partner development.
+- conflicts/notes: The entries do not establish manipulation or possessiveness as a main caution.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach values intensity, whereas Munkasey describes softening its outward effect. Both can coexist; neither establishes strategic manipulation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Pluto/Asc = Venus`: seductive charisma, regenerative love experience, and the ability to change relationships through emotional and aesthetic intensity. Main caution: possessive attraction: charm can become strategic, manipulative, or too entangled with control and fixation.
+Venus specifies Pluto/Asc through affection, attractiveness, and a wish to make change pleasing. Beautifying the surroundings in [Witte](#witte-entry) and harmonious partner development in [ABC](#abc-entry) connect with the strong attraction described by [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) values intense personalities and their transformation, while [Munkasey](#munkasey-entry) describes charm and softness that help others relate to that intensity. The recorded evidence does not require a theme of control or manipulation.
 
 ## Links
 

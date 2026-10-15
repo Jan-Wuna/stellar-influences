@@ -1,0 +1,14 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "accepted": 37,
+  "held": 0,
+  "pending_owner": 0,
+  "normalized_section_hashes_checked": 74,
+  "unique_owner_records_checked": 37,
+  "strict_7_field_schema": "passed",
+  "proof_images_checked": 17,
+  "exact_prior_approvals_excluded": 16,
+  "proof_links_and_hashes": "passed",
+  "scoped_trailing_whitespace": "passed",
+  "bank_sha256": "1a46b3acb7c13bb518cb6470372eb87730cd7e8fa2d1d3494d87f617e28f10fe"
+}

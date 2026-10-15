@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Asc](../axes/mars-asc.md)
 - Triad hub: [Mars Asc Hades](../triads/mars-asc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ Obstacles because of the deeds of others. To be the victim of theft. The wrong a
 
 Work service for the environment, lack of work in the place, grief through actions of others, secret activity in the environment, dangerous work in the place, criminal environmental activity, defective work in the environment, and partner impulses from the past
 
+## Comparative Schema
+
+Evidence: [Witte Entry](#witte-entry), PDF p. 85 (entry start); [ABC Entry](#abc-entry), printed p. 111 (entry).
+
+- Core meaning: Activity with others involves obstacles, mistakes, deficient work, or danger.
+- Psychology: ABC names grief caused by others' actions.
+- Body/health: Witte's danger of losing life is an attributed historical manifestation, not a prediction.
+- Social/relationship: The entries include theft by others, correcting their mistakes, service, and criminal activity.
+- Events/manifestations: Robbery, dangerous local work, concealed activity, and lack of work are named.
+- Conflicts/notes: Service and correction of mistakes must not be equated with criminal conduct; victimhood and participation are different examples.
+
+## Contradictions
+
+The entries differ in emphasis; conditional excess and different manifestations do not establish a direct contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Asc = Hades` drags the Mars/Asc axis into degrading conflict, mistakes, theft, danger, and the burden of dealing with other people's wrong actions.
-- Chart expression: being harmed, used, endangered, or dirtied by others' deeds, with the fighting spirit forced into damage control, survival, or participation in troubling environments.
+Hades specifies the Mars/Asc axis through difficulties arising in the conduct of others and the surrounding work. [Witte Entry](#witte-entry) ranges from correcting mistakes to theft and danger, while [ABC Entry](#abc-entry) adds service, deficient work, concealed activity, and grief. The thread is having to act amid harmful or inadequate conditions; providing service, suffering harm, and participating in crime remain distinct manifestations.
 
 ## Links
 

@@ -1,0 +1,2130 @@
+{
+  "scope": "Targeted closure of existing source-quality flags. These are verification leads, not confirmed defects or new full-page reviews.",
+  "group": "E",
+  "canonical_targets": 118,
+  "ledger_exclusivity": "Editor owns only canonical targets and activation ledger range assigned by root; cross-holder notes route to their current owner. No global allowance writes.",
+  "targets": [
+    {
+      "path": "wiki/axes/admetos-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/admetos-poseidon.md",
+          "text": "ABC translation not scan-verified: mental enrichment, submission of truth and other damaged native terms.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC translation not scan-verified: mental enrichment, submission of truth and other damaged native terms.",
+        "Witte exact entry citation absent; cached PDF312 is chapter_start. ABC cached printed476-477 identifies a pair spread, not verified passage boundaries."
+      ]
+    },
+    {
+      "path": "wiki/axes/admetos-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/admetos-vulcanus.md",
+          "text": "ABC OCR/translation and omitted phrase remain unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC OCR/translation and omitted phrase remain unverified.",
+        "Witte exact entry citation absent; cached PDF311 is chapter_start. ABC printed474-475/PDF236 is a cached pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/apollon-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/apollon-admetos.md",
+          "text": "Damaged ABC experience phrase not scan-verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Damaged ABC experience phrase not scan-verified.",
+        "Witte exact entry citation absent; cached PDF306 is chapter_start. ABC cached printed468-469/PDF233 is a pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/apollon-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/apollon-poseidon.md",
+          "text": "ABC success ldee and native typography not scan-verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC success ldee and native typography not scan-verified.",
+        "Witte exact entry citation absent; cached PDF308 is chapter_start. ABC printed472-473/PDF235 is a cached pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/apollon-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/apollon-vulcanus.md",
+          "text": "ABC damaged compounds, omitted final items and translation remain unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC damaged compounds, omitted final items and translation remain unverified.",
+        "Witte exact entry citation absent; cached PDF307 is chapter_start. ABC printed470-471/PDF234 is a cached pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/asc-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/asc-admetos.md",
+          "text": "ABC OCR/translation remains unverified, especially biocised environment and Greek partner.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC OCR/translation remains unverified, especially biocised environment and Greek partner.",
+        "Witte exact entry citation absent; cached PDF96 is chapter_start. ABC printed132-133/PDF65 is a cached pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/asc-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-001.jsonl",
+      "recorded_reviewer": "/root/axes_001_010/axes_001_002",
+      "issues": [
+        {
+          "holder": "wiki/axes/asc-apollon.md",
+          "text": "ABC damaged trade-place token and outcomes translation remain unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC damaged trade-place token and outcomes translation remain unverified.",
+        "Witte exact entry citation absent; cached PDF95 is chapter_start. ABC printed130-131/PDF64 is a cached pair-spread locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/asc-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/asc-mc.md",
+          "text": "Preserved Ebertin manifestation paragraph still contains stray 67 and trailing heading material; not used as additional doctrine and no unverified repair made.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Preserved Ebertin manifestation paragraph still contains stray 67 and trailing heading material; not used as additional doctrine and no unverified repair made."
+      ]
+    },
+    {
+      "path": "wiki/axes/asc-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-002.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/asc-poseidon.md",
+          "text": "Witte English Others are high sensible remains linguistically unclear; excluded from more specific inference.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte English Others are high sensible remains linguistically unclear; excluded from more specific inference."
+      ]
+    },
+    {
+      "path": "wiki/axes/chiron-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/chiron-pluto.md",
+          "text": "OCR split 'tran scending' not scan repaired",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "OCR split 'tran scending' not scan repaired",
+        "Supplied Sandbach PDF p. 99 is chapter_start, not an exact passage or printed-page verification"
+      ]
+    },
+    {
+      "path": "wiki/axes/chiron-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/chiron-uranus.md",
+          "text": "OCR splits remain unverified against scan",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "OCR splits remain unverified against scan",
+        "Sandbach PDF p. 96 supplied only as chapter_start; exact passage/bibliographic locator unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/cupido-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/cupido-apollon.md",
+          "text": "ABC translation defects require scan-aware repair; native OCR includes Handds-Geme1:nschaft and Kunst compounds",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC translation defects require scan-aware repair; native OCR includes Handds-Geme1:nschaft and Kunst compounds",
+        "Witte PDF 270 is chapter_start; ABC printed 430-431/PDF 214 is pair_spread, neither promoted to exact entry verification"
+      ]
+    },
+    {
+      "path": "wiki/axes/cupido-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/cupido-kronos.md",
+          "text": "ABC Ansehen/View and shortened art-authority wording need scan-aware translation review",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC Ansehen/View and shortened art-authority wording need scan-aware translation review",
+        "Witte PDF 269 is chapter_start; ABC printed 428-429/PDF 213 is pair_spread; exact passage page unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/cupido-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-003.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/cupido-vulcanus.md",
+          "text": "ABC policy/Cewalt wording and omitted native distinctions require scan-aware translation repair",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC policy/Cewalt wording and omitted native distinctions require scan-aware translation repair",
+        "Witte PDF 273 is chapter_start; ABC printed 434-435/PDF 216 is pair_spread; no exact entry-page verification claimed"
+      ]
+    },
+    {
+      "path": "wiki/axes/hades-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/hades-admetos.md",
+          "text": "Native Kreislauf-Gefiihrdung, kriminelle lJnterdriickung, and Mangel an Ausdaucr require scan-aware repair; no confident medical or criminal meaning imported",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Native Kreislauf-Gefiihrdung, kriminelle lJnterdriickung, and Mangel an Ausdaucr require scan-aware repair; no confident medical or criminal meaning imported",
+        "Witte PDF 284 is chapter_start; ABC printed 444-445/PDF 221 is pair_spread; exact bibliographic passage page unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/hades-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/hades-kronos.md",
+          "text": "ABC damaged authority/secrecy compounds require scan-aware review",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC damaged authority/secrecy compounds require scan-aware review",
+        "Witte PDF 279 is chapter_start; ABC printed 440-441/PDF 219 is pair_spread; exact passage/bibliographic locator unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/hades-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/hades-poseidon.md",
+          "text": "ABC primordial/nifty-renunciation and damaged ideas wording need scan-aware translation repair",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC primordial/nifty-renunciation and damaged ideas wording need scan-aware translation repair",
+        "Witte PDF 286 is chapter_start; ABC printed 448-449/PDF 223 is pair_spread; exact entry page unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/hades-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/hades-vulcanus.md",
+          "text": "Damaged ABC deficiency/power compounds require scan-aware repair",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Damaged ABC deficiency/power compounds require scan-aware repair",
+        "Witte PDF 285 is chapter_start; ABC printed 446-447/PDF 222 is pair_spread; exact bibliographic passage page remains unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/hades-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/hades-zeus.md",
+          "text": "Senior-management and procreation-waiver translations need scan-aware review; no replacement doctrine inferred from OCR",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Senior-management and procreation-waiver translations need scan-aware review; no replacement doctrine inferred from OCR",
+        "Witte PDF 277 is chapter_start; ABC printed 438-439/PDF 218 is pair_spread; exact passage page unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-admetos.md",
+          "text": "ABC summary is incomplete and mistranslated; legal/financial specifics require scan-aware repair",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC summary is incomplete and mistranslated; legal/financial specifics require scan-aware repair",
+        "Witte PDF 216 is chapter_start; ABC printed 342-343/PDF 170 is pair_spread; exact passage/bibliographic locator unverified"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-004.jsonl",
+      "recorded_reviewer": "axes_003_004",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-apollon.md",
+          "text": "ABC opening and damaged legal/money phrases require scan-aware translation review",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC opening and damaged legal/money phrases require scan-aware translation review",
+        "Witte PDF 215 is chapter_start; ABC printed 340-341/PDF 169 is pair_spread; no exact passage-page or scan verification claimed"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-asc.md",
+          "text": "Sandbach which much gusto remains preserved wording damage, excluded from added interpretation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Sandbach which much gusto remains preserved wording damage, excluded from added interpretation."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-mc.md",
+          "text": "Munkasey help you an inner personal wisdom remains damaged wording, excluded from added interpretation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Munkasey help you an inner personal wisdom remains damaged wording, excluded from added interpretation."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-005.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-pluto.md",
+          "text": "Ebertin transfusion footnote references Sun-Neptune-Pluto; preserved as source material and explicitly distinguished from pair meaning.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin transfusion footnote references Sun-Neptune-Pluto; preserved as source material and explicitly distinguished from pair meaning."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-poseidon.md",
+          "text": "ABC summary is unrelated repeated English; native OCR on cached PDF172 is also heavily damaged and remains unresolved, excluded from synthesis.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC summary is unrelated repeated English; native OCR on cached PDF172 is also heavily damaged and remains unresolved, excluded from synthesis."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-saturn.md",
+          "text": "ABC Konzentrations Achievements/Schmr:1:ens Money/Ceduld and omitted native list items remain unresolved; no confident added doctrine drawn from them.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Konzentrations Achievements/Schmr:1:ens Money/Ceduld and omitted native list items remain unresolved; no confident added doctrine drawn from them."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-uranus.md",
+          "text": "ABC Success••hnpupe/Vinanz/broken surprise phrase remain unresolved and excluded from fine distinctions.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Success••hnpupe/Vinanz/broken surprise phrase remain unresolved and excluded from fine distinctions."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-vulcanus.md",
+          "text": "Witte Benefice energy is unclear; ABC Enea·gie/Cewalt/Giddicher/Rcchts remain damaged and excluded from added meaning.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte Benefice energy is unclear; ABC Enea·gie/Cewalt/Giddicher/Rcchts remain damaged and excluded from added meaning."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/jupiter-zeus.md",
+          "text": "ABC rciches Zidstrcben/Vinanz Future/gu'te Leishmg and omitted German list items remain unresolved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC rciches Zidstrcben/Vinanz Future/gu'te Leishmg and omitted German list items remain unresolved."
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/kronos-admetos.md",
+          "text": "ABC self sandiness/strengthened authoritarianism/circulatory steering remain uncertain; cached native PDF230 confirms translation/OCR concerns but no scan-based repair made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC self sandiness/strengthened authoritarianism/circulatory steering remain uncertain; cached native PDF230 confirms translation/OCR concerns but no scan-based repair made."
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/kronos-apollon.md",
+          "text": "ABC fiille/Awareness of science/self awareness need source-language verification; excluded from confident synthesis.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC fiille/Awareness of science/self awareness need source-language verification; excluded from confident synthesis."
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/kronos-poseidon.md",
+          "text": "ABC intellectual group/spiritual self interest/useful authorship remain unresolved translation errors; no scan-verified replacement supplied.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC intellectual group/spiritual self interest/useful authorship remain unresolved translation errors; no scan-verified replacement supplied."
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-006.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/kronos-vulcanus.md",
+          "text": "ABC Authoritat's influence/self conscious force remain awkward; Gewalt range is bounded in notes, no source text changed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Authoritat's influence/self conscious force remain awkward; Gewalt range is bounded in notes, no source text changed."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-admetos.md",
+          "text": "ABC Greek actions, restricted Tatigkcit and impulses subdriick remain OCR/translation problems excluded from fine interpretation; printed318–319 is explicitly cached and not scan checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Greek actions, restricted Tatigkcit and impulses subdriick remain OCR/translation problems excluded from fine interpretation; printed318–319 is explicitly cached and not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-cupido.md",
+          "text": "ABC artificial activity remains translation uncertainty against cached Kunst-Tatigkeit; excluded as a distinct doctrine. ABC printed308–309 remains explicitly cached and not scan checked.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC artificial activity remains translation uncertainty against cached Kunst-Tatigkeit; excluded as a distinct doctrine. ABC printed308–309 remains explicitly cached and not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-hades.md",
+          "text": "ABC Work Danst remains OCR/translation damage excluded from confident interpretation; ABC printed310–311 is explicitly a cached pair-spread locator, not a scan check.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Work Danst remains OCR/translation damage excluded from confident interpretation; ABC printed310–311 is explicitly a cached pair-spread locator, not a scan check."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-jupiter.md",
+          "text": "ABC native fragments remain noisy; the cached printed298–299 pair-spread locator is labelled unverified by scan. No additional doctrine inferred from the noise.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC native fragments remain noisy; the cached printed298–299 pair-spread locator is labelled unverified by scan. No additional doctrine inferred from the noise."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-kronos.md",
+          "text": "ABC Authoritats actions and self employed work remain awkward translation wording; no scan-based text repair made; its printed314–315 locator remains explicitly cached.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Authoritats actions and self employed work remain awkward translation wording; no scan-based text repair made; its printed314–315 locator remains explicitly cached."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-007.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-mc.md",
+          "text": "ABC Action--meirmte/my wine and native mein Wine remain damaged and excluded from confident synthesis; no scan repair made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Action--meirmte/my wine and native mein Wine remain damaged and excluded from confident synthesis; no scan repair made."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-neptune.md",
+          "text": "ABC Work in loose air/Dissolvingactivities/IntuitionS••Impulses and damaged native water-air text remain unresolved, excluded from confident expansion; cached spread is explicitly not scan checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Work in loose air/Dissolvingactivities/IntuitionS••Impulses and damaged native water-air text remain unresolved, excluded from confident expansion; cached spread is explicitly not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-node.md",
+          "text": "ABC work Trefften/Kontaktwant/wirdkraftige and partly untranslated phrases remain uncertain; cached pair spread212–213 explicitly not scan checked.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC work Trefften/Kontaktwant/wirdkraftige and partly untranslated phrases remain uncertain; cached pair spread212–213 explicitly not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-poseidon.md",
+          "text": "ABC eimkhtsvoHes creation/ideeu actions/reason--handling and noisy native extraction remain damaged and excluded from confident expansion; pair-spread locator is explicitly cached.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC eimkhtsvoHes creation/ideeu actions/reason--handling and noisy native extraction remain damaged and excluded from confident expansion; pair-spread locator is explicitly cached."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-saturn.md",
+          "text": "ABC storten will/Jangsam work/repeated grim wording and partly untranslated text remain unresolved and excluded from added fine meaning; spread300–301 explicitly cached, not scan checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC storten will/Jangsam work/repeated grim wording and partly untranslated text remain unresolved and excluded from added fine meaning; spread300–301 explicitly cached, not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-008.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-uranus.md",
+          "text": "ABC over surprise actions remains awkward translation; spread302–303 is explicitly cached, not scan checked.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC over surprise actions remains awkward translation; spread302–303 is explicitly cached, not scan checked."
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mars-vulcanus.md",
+          "text": "ABC Arity KraJt/influence l 'atigkeit/Gwalt•-activity remain damaged and excluded from added finer meaning.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Arity KraJt/influence l 'atigkeit/Gwalt•-activity remain damaged and excluded from added finer meaning."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mc-apollon.md",
+          "text": "ABC cached native closing phrase after many souls is damaged and omitted in English; no reconstruction or confidence expansion made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC cached native closing phrase after many souls is damaged and omitted in English; no reconstruction or confidence expansion made."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mc-cupido.md",
+          "text": "ABC Holy Community/Holy Spirit religious translation is unsupported by cached Beseelte Gemeinschaft/beseelte Kunst and remains pending actual-source verification; no Holy Spirit doctrine inferred.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Holy Community/Holy Spirit religious translation is unsupported by cached Beseelte Gemeinschaft/beseelte Kunst and remains pending actual-source verification; no Holy Spirit doctrine inferred."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mc-hades.md",
+          "text": "ABC dangerous soul/I'm deprived of my service/soul cummer are unreliable against cached gefährdete Seele/ich entbehre, mein Dienst/Seelen-Kummer; excluded from confident expansion, source text preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC dangerous soul/I'm deprived of my service/soul cummer are unreliable against cached gefährdete Seele/ich entbehre, mein Dienst/Seelen-Kummer; excluded from confident expansion, source text preserved."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mc-kronos.md",
+          "text": "ABC great scele/my self satisfaction/my l'belief/psychic grtifle remain OCR/translation uncertainty; finer meanings excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC great scele/my self satisfaction/my l'belief/psychic grtifle remain OCR/translation uncertainty; finer meanings excluded."
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mc-poseidon.md",
+          "text": "ABC Gcist soul opening remains OCR damage; no reconstructed definition supplied.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC Gcist soul opening remains OCR damage; no reconstructed definition supplied."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-admetos.md",
+          "text": "ABC speech vertiction/N achrichten Sparrow/traffic stau remain damaged renderings; depressive vocabulary remains source language, not a clinical conclusion.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC speech vertiction/N achrichten Sparrow/traffic stau remain damaged renderings; depressive vocabulary remains source language, not a clinical conclusion."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-apollon.md",
+          "text": "ABC thought fillet corresponds to damaged cached Gedanken-Ftille; excluded from finer meaning pending actual-source verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC thought fillet corresponds to damaged cached Gedanken-Ftille; excluded from finer meaning pending actual-source verification."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-cupido.md",
+          "text": "Cached German Gesprache fiber Kunst has OCR damage; artistic conversation independently explicit in Witte, no reconstruction made.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Cached German Gesprache fiber Kunst has OCR damage; artistic conversation independently explicit in Witte, no reconstruction made."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-hades.md",
+          "text": "ABC dangerous youth/familiar language fail to reliably translate cached gefährdete Jugend/gefährliche Gespräche; source labels remain attributed and excluded from confident personality claims.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC dangerous youth/familiar language fail to reliably translate cached gefährdete Jugend/gefährliche Gespräche; source labels remain attributed and excluded from confident personality claims."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-jupiter.md",
+          "text": "ABC young C liick/writing good/traffic right remain OCR/translation problems; specialized meanings excluded.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC young C liick/writing good/traffic right remain OCR/translation problems; specialized meanings excluded."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-kronos.md",
+          "text": "ABC authorship of language/awareness of youth do not reliably represent cached Autorität der Sprache/Ansehen der Jugend; excluded from finer interpretation pending actual-source verification.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC authorship of language/awareness of youth do not reliably represent cached Autorität der Sprache/Ansehen der Jugend; excluded from finer interpretation pending actual-source verification."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "recorded_reviewer": "/root/axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-mars.md",
+          "text": "Hand self-/assertion split, Munkasey sense of sense of smell repetition and ABC man's youth remain transcription/translation defects; source prose preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Hand self-/assertion split, Munkasey sense of sense of smell repetition and ABC man's youth remain transcription/translation defects; source prose preserved."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-mc.md",
+          "text": "Seclen-Sprache/seclen language requires source-image verification; audit is parser-normalized OCR, verified_visually=false.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Seclen-Sprache/seclen language requires source-image verification; audit is parser-normalized OCR, verified_visually=false.",
+        "Ebertin printed172 and Sandbach PDF53 are chapter starts, not exact locators for every claim; missing exact passage pages were not invented."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-neptune.md",
+          "text": "Udo Cesprache uber Metaphysik and Zukunfts-Gesprache require image-checked translation; printed250-251/PDF124 is an unverified pair-spread locator.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo Cesprache uber Metaphysik and Zukunfts-Gesprache require image-checked translation; printed250-251/PDF124 is an unverified pair-spread locator.",
+        "Falis PDF41, Sandbach PDF49, Ebertin printed160 and Carter37-style locator system (here page41) are chapter starts, not exact passage boundaries."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-node.md",
+          "text": "Udo Be gegmmgen (audit spelling Begegmmgen), l\\1edien--Kontakte and omitted terms require direct source checking; printed208-209/PDF103 remains an unverified spread locator.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo Be gegmmgen (audit spelling Begegmmgen), l\\1edien--Kontakte and omitted terms require direct source checking; printed208-209/PDF103 remains an unverified spread locator.",
+        "Ebertin printed166 and Sandbach PDF51 locate chapter starts only; exact claim pages absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-pluto.md",
+          "text": "Ebertin fonnation, Falis/Sandbach word splits and Udo Entwicklung de.- Jugend remain unrepaired pending source verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin fonnation, Falis/Sandbach word splits and Udo Entwicklung de.- Jugend remain unrepaired pending source verification.",
+        "Udo printed252-253/PDF125, Ebertin printed163, Falis PDF42 and Sandbach PDF50 are parser locators, with chapter starts not promoted to exact claim pages."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-poseidon.md",
+          "text": "Udo printed268-269/PDF133 OCR vernunftige Cesprache and verntinftige,Jugend need visual source checking before translation repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo printed268-269/PDF133 OCR vernunftige Cesprache and verntinftige,Jugend need visual source checking before translation repair.",
+        "Witte PDF173 is a chapter-start audit locator; no precise printed/passage reference is established."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "recorded_reviewer": "axes_011_012",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-saturn.md",
+          "text": "Udo gestorte Jugend/gestorter Verkehr/Denk-Storungen and damaged Cedanken/A!ter need visually verified repair; printed246-247/PDF122 is pair-spread evidence only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo gestorte Jugend/gestorter Verkehr/Denk-Storungen and damaged Cedanken/A!ter need visually verified repair; printed246-247/PDF122 is pair-spread evidence only.",
+        "Ebertin printed154, Falis PDF38, Sandbach PDF45 and Carter printed/PDF-fallback37 remain chapter locators; no precise claim pages invented."
+      ]
+    },
+    {
+      "path": "wiki/axes/mercury-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/mercury-venus.md",
+          "text": "Ebertin entry retains extraction tail MercuryA/enus 5/9; no doctrinal inference drawn from it.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin entry retains extraction tail MercuryA/enus 5/9; no doctrinal inference drawn from it."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "recorded_reviewer": "axes_013_014",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-jupiter.md",
+          "text": "Udo OCR Volks-Fremle and Ebertin/Hand extraction debris remain unrepaired; evidence map is not visually verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-jupiter.md",
+          "text": "Banzhaf PDF 294 is retained from canonical entry; no supplementary raw-page record was available at review.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo OCR Volks-Fremle and Ebertin/Hand extraction debris remain unrepaired; evidence map is not visually verified.",
+        "Banzhaf PDF 294 is retained from canonical entry; no supplementary raw-page record was available at review."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "recorded_reviewer": "axes_013_014",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-mars.md",
+          "text": "Carter Marian austerity and imcompatibility remain unverified source spellings, excluded from added claims.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mars.md",
+          "text": "Banzhaf PDF293 retained without supplementary raw-page verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Carter Marian austerity and imcompatibility remain unverified source spellings, excluded from added claims.",
+        "Banzhaf PDF293 retained without supplementary raw-page verification."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "recorded_reviewer": "axes_013_014",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-mc.md",
+          "text": "Udo printed pp. 64-65 / PDF 31 pair-spread OCR is not visually verified; damaged translation remains unrepaired.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mc.md",
+          "text": "Ebertin printed 142 and Sandbach PDF 40 are chapter starts; Hand PDF 204 is entry start, not proof of every exact passage boundary.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo printed pp. 64-65 / PDF 31 pair-spread OCR is not visually verified; damaged translation remains unrepaired.",
+        "Ebertin printed 142 and Sandbach PDF 40 are chapter starts; Hand PDF 204 is entry start, not proof of every exact passage boundary."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-013.jsonl",
+      "recorded_reviewer": "axes_013_014",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-mercury.md",
+          "text": "Extraction/spelling problems remain preserved; Udo printed pp. 176-177 / PDF 87 map is not visual verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-mercury.md",
+          "text": "Banzhaf PDF 291 retained from canonical entry without supplementary raw-page verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Extraction/spelling problems remain preserved; Udo printed pp. 176-177 / PDF 87 map is not visual verification.",
+        "Banzhaf PDF 291 retained from canonical entry without supplementary raw-page verification."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-node.md",
+          "text": "Ebertin trailing Moon/Dragon's Head D/Q extraction artifact retained and explicitly excluded from doctrine; no scan-based repair claimed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin trailing Moon/Dragon's Head D/Q extraction artifact retained and explicitly excluded from doctrine; no scan-based repair claimed."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-pluto.md",
+          "text": "Ebertin trailing Moon/Pluto D/% extraction artifact retained, explicitly excluded; severe-illness qualification preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin trailing Moon/Pluto D/% extraction artifact retained, explicitly excluded; severe-illness qualification preserved."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-014.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-saturn.md",
+          "text": "Witte trough separation, Ebertin Satum and trailing Moon/Saturn D/h, and Carter unclosed correspondent quotation retained as specific source-quality limits, excluded from added doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte trough separation, Ebertin Satum and trailing Moon/Saturn D/h, and Carter unclosed correspondent quotation retained as specific source-quality limits, excluded from added doctrine."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-venus.md",
+          "text": "Udo translation needs scan verification at mapped printed pp. 178-179, PDF p. 88.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/moon-venus.md",
+          "text": "No new Banzhaf scan evidence was available; existing PDF p. 292 preserved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo translation needs scan verification at mapped printed pp. 178-179, PDF p. 88.",
+        "Ebertin printed p. 116, Sandbach PDF p. 27, Falis PDF p. 22, and Carter chapter locator 22 have only their mapped precision, not exact claim-page proof.",
+        "No new Banzhaf scan evidence was available; existing PDF p. 292 preserved."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-vulcanus.md",
+          "text": "Udo mapped German Einflufl der Geftihle and starke Gefiihle needs scan-based translation repair; printed pp. 204-205, PDF p. 101 are mapped only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo mapped German Einflufl der Geftihle and starke Gefiihle needs scan-based translation repair; printed pp. 204-205, PDF p. 101 are mapped only.",
+        "Witte mapped PDF p. 136 is chapter start; exact printed pair locator absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/moon-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/moon-zeus.md",
+          "text": "Udo phrase repairs require scan check at mapped printed pp. 196-197/PDF p. 97; German itself contains Frauen-Zide and Yolks-Fuhrer OCR.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo phrase repairs require scan check at mapped printed pp. 196-197/PDF p. 97; German itself contains Frauen-Zide and Yolks-Fuhrer OCR.",
+        "Witte mapped PDF p. 132 is chapter start; printed pair reference remains absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-admetos.md",
+          "text": "Mapped German Gestaltloses fcstigen, grilndliche Tauschung, KreislaufSch,,;ache1 needs scan; Udo spread mapped printed pp. 402-403/PDF p. 200 only.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Mapped German Gestaltloses fcstigen, grilndliche Tauschung, KreislaufSch,,;ache1 needs scan; Udo spread mapped printed pp. 402-403/PDF p. 200 only.",
+        "Witte PDF p. 252 is a chapter start, with exact printed pair locator absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-apollon.md",
+          "text": "Udo mapped printed pp. 400-401/PDF p. 199 not visually checked; lJnsicherheit OCR remains.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo mapped printed pp. 400-401/PDF p. 199 not visually checked; lJnsicherheit OCR remains.",
+        "Witte mapped chapter-start PDF p. 251 has no exact printed locator on page."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-asc.md",
+          "text": "Udo translation needs scan at mapped printed pp. 118-119/PDF p. 58.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/axes/neptune-asc.md",
+          "text": "Existing Banzhaf PDF p. 341 preserved; supplementary Banzhaf raw evidence was not yet available.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo translation needs scan at mapped printed pp. 118-119/PDF p. 58.",
+        "Ebertin p. 286 and Sandbach PDF p. 112 remain chapter-start routes; Hand PDF p. 212 is an unverified entry-start map.",
+        "Existing Banzhaf PDF p. 341 preserved; supplementary Banzhaf raw evidence was not yet available."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-cupido.md",
+          "text": "Udo entire translation requires scan-based repair; mapped printed pp. 392-393/PDF p. 195, not visually checked.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo entire translation requires scan-based repair; mapped printed pp. 392-393/PDF p. 195, not visually checked.",
+        "Witte mapped PDF p. 247 is chapter start; exact printed reference absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-hades.md",
+          "text": "Udo damaged phrases need scan at mapped printed pp. 394-395/PDF p. 196; no medical or hidden-history inference made from them.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo damaged phrases need scan at mapped printed pp. 394-395/PDF p. 196; no medical or hidden-history inference made from them.",
+        "Witte PDF p. 248 remains a mapped chapter start without exact printed pair locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-kronos.md",
+          "text": "Udo needs scan-based translation check at mapped printed pp. 398-399/PDF p. 198.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Udo needs scan-based translation check at mapped printed pp. 398-399/PDF p. 198.",
+        "Witte mapped PDF p. 250 is chapter start; printed pair locator absent."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-015.jsonl",
+      "recorded_reviewer": "axes_015_016",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-mc.md",
+          "text": "Udo scan-based review needed at mapped printed pp. 80-81/PDF p. 39.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Udo scan-based review needed at mapped printed pp. 80-81/PDF p. 39.",
+        "Ebertin p. 289 and Sandbach PDF p. 113 are only chapter starts; Hand PDF p. 212 remains an unverified entry-start locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/neptune-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/neptune-node.md",
+          "text": "Ebertin retains extraction squares around plus marker; no additional doctrine inferred from glyph debris.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin retains extraction squares around plus marker; no additional doctrine inferred from glyph debris."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-016.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-asc.md",
+          "text": "Ebertin trailing Dragon's Head/Ascendant N/A extraction artifact retained and excluded from doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin trailing Dragon's Head/Ascendant N/A extraction artifact retained and excluded from doctrine."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-hades.md",
+          "text": "ABC first phrase and cntbehren require scan/translation verification at printed pp. 226-227, PDF p. 112.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC first phrase and cntbehren require scan/translation verification at printed pp. 226-227, PDF p. 112.",
+        "Witte evidence-map PDF p. 150 is chapter-start only; exact passage/printed page not visually verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-kronos.md",
+          "text": "ABC printed pp. 230-231, PDF p. 114 are mapped pair-spread locators, not visually checked here.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Witte PDF p. 152 is a parser chapter-start locator; exact passage and printed page are unverified.",
+        "ABC printed pp. 230-231, PDF p. 114 are mapped pair-spread locators, not visually checked here."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-mc.md",
+          "text": "ABC self relief and Selbst-VerlmUpfung require scan and translation verification (printed pp. 66-67, PDF p. 32).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC self relief and Selbst-VerlmUpfung require scan and translation verification (printed pp. 66-67, PDF p. 32).",
+        "Ebertin printed chapter start 303; Hand PDF entry 213; Munkasey printed 359; Sandbach PDF chapter start 120 are parser locators not visually verified here."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-poseidon.md",
+          "text": "ABC reasonRelationships remains unrepaired pending translation/source check (printed pp. 238-239, PDF p. 118).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC reasonRelationships remains unrepaired pending translation/source check (printed pp. 238-239, PDF p. 118).",
+        "Witte PDF p. 156 is a chapter-start locator only, with exact passage/printed page unverified."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-vulcanus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-vulcanus.md",
+          "text": "ABC one sided relationships, einflullreiche Beziehungen, and Cewalt require scan/translation verification (printed pp. 236-237, PDF p. 117).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC one sided relationships, einflullreiche Beziehungen, and Cewalt require scan/translation verification (printed pp. 236-237, PDF p. 117).",
+        "Witte PDF p. 155 is only a chapter-start locator; exact passage/printed page not visually verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/node-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/node-zeus.md",
+          "text": "ABC contact struts and fiihnmg require source/translation check (printed pp. 228-229, PDF p. 113).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC contact struts and fiihnmg require source/translation check (printed pp. 228-229, PDF p. 113).",
+        "Witte PDF p. 151 is a chapter-start locator only; exact passage/printed page unverified."
+      ]
+    },
+    {
+      "path": "wiki/axes/pluto-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/pluto-admetos.md",
+          "text": "ABC damaged/mistranslated phrases require scan/translation check at printed pp. 418-419, PDF p. 208; change in the cycle is not a secure bodily delineation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC damaged/mistranslated phrases require scan/translation check at printed pp. 418-419, PDF p. 208; change in the cycle is not a secure bodily delineation.",
+        "Witte PDF p. 262 is a chapter-start locator; exact passage and printed page unverified."
+      ]
+    },
+    {
+      "path": "wiki/axes/pluto-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/pluto-apollon.md",
+          "text": "ABC development.1 and damaged economic-growth cached translation require scan verification (printed pp. 416-417, PDF p. 207).",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC development.1 and damaged economic-growth cached translation require scan verification (printed pp. 416-417, PDF p. 207).",
+        "Witte PDF p. 261 is chapter-start only; exact passage/printed page not visually verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/pluto-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-017.jsonl",
+      "recorded_reviewer": "axes_017_018",
+      "issues": [
+        {
+          "holder": "wiki/axes/pluto-asc.md",
+          "text": "Banzhaf/Haebler next-entry contamination remains preserved pending scan verification of existing PDF p. 343.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Banzhaf/Haebler next-entry contamination remains preserved pending scan verification of existing PDF p. 343.",
+        "ABC pp. 120-121/PDF59, Ebertin printed chapter start294, Hand PDF213, Munkasey printed347 and Sandbach PDF chapter start116 were not visually verified here."
+      ]
+    },
+    {
+      "path": "wiki/axes/pluto-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-018.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/pluto-node.md",
+          "text": "Ebertin trailing formula debris retained/excluded; mapped Ebertin printed292 and Banzhaf existing343 not freshly scan-verified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin trailing formula debris retained/excluded; mapped Ebertin printed292 and Banzhaf existing343 not freshly scan-verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-admetos.md",
+          "text": "ABC pain phrase needs scan-checked repair; no source passage was changed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC pain phrase needs scan-checked repair; no source passage was changed.",
+        "Witte printed claim-page reference is absent; evidence map gives only PDF chapter start 229, not a visually verified exact passage locator."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-apollon.md",
+          "text": "ABC OCR/translation fragments require checked source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC OCR/translation fragments require checked source repair.",
+        "Witte printed claim page absent; evidence map PDF228 is chapter-start only and not visually verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-chiron.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-chiron.md",
+          "text": "Split-word extraction artifacts remain verbatim; no raw-source repair performed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "Sandbach exact claim page not established: evidence map PDF87 is only a chapter-start lookup and was not visually verified.",
+        "Split-word extraction artifacts remain verbatim; no raw-source repair performed."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-cupido.md",
+          "text": "ABC translation needs scan-verified replacement; its source entry is preserved verbatim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC translation needs scan-verified replacement; its source entry is preserved verbatim.",
+        "Witte printed claim page absent; map PDF224 is chapter-start only, verified_visually=false."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-hades.md",
+          "text": "ABC omitted/damaged translation requires scan-checked repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC omitted/damaged translation requires scan-checked repair.",
+        "Witte exact printed claim page absent; parser PDF225 is chapter-start only and not visually verified."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-kronos.md",
+          "text": "ABC authority/patience phrases need scan-checked repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC authority/patience phrases need scan-checked repair.",
+        "Witte printed claim-page locator absent; evidence PDF227 is only chapter-start, verified_visually=false."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-mc.md",
+          "text": "ABC wording/omission needs raw-source checks; preserved verbatim.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC wording/omission needs raw-source checks; preserved verbatim.",
+        "Sandbach PDF95 is chapter-start only; no exact claim-page precision asserted."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "recorded_reviewer": "axes_019_020",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-neptune.md",
+          "text": "ABC OCR/omissions require source verification; no raw wording repair attempted.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "ABC OCR/omissions require source verification; no raw wording repair attempted.",
+        "Carter evidence-map67 is printed-with-PDF-fallback chapter locator, not asserted exact claim page.",
+        "Historical source health, psychic, gender and chronology claims remain attributed; no current factual/timing verification attempted."
+      ]
+    },
+    {
+      "path": "wiki/axes/saturn-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/saturn-uranus.md",
+          "text": "Ebertin note53 remains inline with manifestations and trailing Saturn/Uranus V# retained; Banzhaf out6 footnote marker retained; these artifacts supply no additional doctrine.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Ebertin note53 remains inline with manifestations and trailing Saturn/Uranus V# retained; Banzhaf out6 footnote marker retained; these artifacts supply no additional doctrine."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-chiron.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-020.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-chiron.md",
+          "text": "Source retains split extraction words such as im portant, superfi cial and pur pose; no glyph repair without scan inspection was made and no additional doctrine was inferred.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Source retains split extraction words such as im portant, superfi cial and pur pose; no glyph repair without scan inspection was made and no additional doctrine was inferred."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-jupiter.md",
+          "text": "Preserved unverified split extraction words and spelling in Falis/Carter source entries; no additional claim relies on a suspected fragment.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Preserved unverified split extraction words and spelling in Falis/Carter source entries; no additional claim relies on a suspected fragment."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-021.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-mercury.md",
+          "text": "Preserved unverified Sandbach orqamzinq/thouqhts spelling and split communi cates, and unchanged Falis/Carter source spelling; no claim beyond the intelligible source content was added.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Preserved unverified Sandbach orqamzinq/thouqhts spelling and split communi cates, and unchanged Falis/Carter source spelling; no claim beyond the intelligible source content was added."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-moon.md",
+          "text": "Unverified spelling/word splits in unchanged Falis/Carter source blocks remain preserved; source-native gender/timing claims remain attributed and are not generalized into axis predictions.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Unverified spelling/word splits in unchanged Falis/Carter source blocks remain preserved; source-native gender/timing claims remain attributed and are not generalized into axis predictions."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-neptune.md",
+          "text": "Unverified spelling and split words in unchanged Falis/Carter/Sandbach source material remain preserved; historical illness, addiction and gender claims are not treated as established individual outcomes.",
+          "kind": "source_verification_scope",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Unverified spelling and split words in unchanged Falis/Carter/Sandbach source material remain preserved; historical illness, addiction and gender claims are not treated as established individual outcomes."
+      ]
+    },
+    {
+      "path": "wiki/axes/sun-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "recorded_reviewer": "axis_review",
+      "issues": [
+        {
+          "holder": "wiki/axes/sun-pluto.md",
+          "text": "Preserved unchanged split words/spelling in Falis/Sandbach and Munkasey's selfcorruption; no extra claim relies on those fragments.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Preserved unchanged split words/spelling in Falis/Sandbach and Munkasey's selfcorruption; no extra claim relies on those fragments."
+      ]
+    },
+    {
+      "path": "wiki/factors/asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-001.jsonl",
+      "recorded_reviewer": "/root/factor_review/factors_001",
+      "issues": [
+        {
+          "holder": "wiki/factors/asc.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Rules Asc passage personally inspected on PDF27 during the targeted continuation; no printed folio is visible, so its printed bibliographic page remains unavailable.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+        "Virgo0162/Libra0163 duplication is genuinely printed72/PDF74. Authorial/editorial intent remains unresolved; both passages retained without a conflicting edition."
+      ]
+    },
+    {
+      "path": "wiki/factors/jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-002.jsonl",
+      "recorded_reviewer": "/root/factor_review/factors_002",
+      "issues": [
+        {
+          "holder": "wiki/factors/jupiter.md",
+          "text": "The Hand source-evidence record describes a PDF74-79 factor-section range, while the preserved local excerpt stops after the repaired sentence on PDF77. The subsequent integration discussion is not ingested; local coverage is explicitly an excerpt.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        },
+        {
+          "holder": "wiki/factors/jupiter.md",
+          "text": "The unchanged Hand excerpt retains OCR tokens including eveiy, famity, physical!} 7, \\vith, grow 7, w 7orld, allow 7s, dow 7n, selfs, farthering, and alwaj^s. They are not used as specialist meanings; the unviewed PDF75-76 wording has not been silently repaired.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte PDF28 has no visible printed folio; its printed bibliographic page number remains unavailable despite a verified PDF locator.",
+        "No printed folio is visible on the viewed Hand PDF74 or PDF77 images; the preserved excerpt has verified PDF bounds but no verified printed bibliographic page number.",
+        "The Hand source-evidence record describes a PDF74-79 factor-section range, while the preserved local excerpt stops after the repaired sentence on PDF77. The subsequent integration discussion is not ingested; local coverage is explicitly an excerpt.",
+        "The unchanged Hand excerpt retains OCR tokens including eveiy, famity, physical!} 7, \\vith, grow 7, w 7orld, allow 7s, dow 7n, selfs, farthering, and alwaj^s. They are not used as specialist meanings; the unviewed PDF75-76 wording has not been silently repaired."
+      ]
+    },
+    {
+      "path": "wiki/factors/mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-003.jsonl",
+      "recorded_reviewer": "factors-003",
+      "issues": [
+        {
+          "holder": "wiki/factors/mars.md",
+          "text": "Other inherited OCR outside viewed Hand PDF72–73 remains unchanged; no whole-source proofread claimed.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 28 and Hand at PDF pp. 71-74; their printed folios were not established. Ebertin's printed p. 55 is a chapter-start locator rather than a separate locator for every introductory paragraph. Hall's PDF pp. 104-121 do not identify individual attribute pages.",
+        "Other inherited OCR outside viewed Hand PDF72–73 remains unchanged; no whole-source proofread claimed."
+      ]
+    },
+    {
+      "path": "wiki/factors/mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-003.jsonl",
+      "recorded_reviewer": "factors-003",
+      "issues": [
+        {
+          "holder": "wiki/factors/mc.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 27 and Hand at PDF pp. 102-104; their printed folios were not established. Ebertin's printed p. 74 is a chapter-start locator rather than a separate locator for each introductory claim.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ]
+    },
+    {
+      "path": "wiki/factors/mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-003.jsonl",
+      "recorded_reviewer": "factors-003",
+      "issues": [
+        {
+          "holder": "wiki/factors/mercury.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Locator limits: Witte is model-located at PDF p. 27 and Hand at PDF pp. 61-67; their printed folios were not established. Ebertin's printed p. 50 is a chapter-start locator, and Hall's PDF pp. 104-121 do not pinpoint each attribute.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ]
+    },
+    {
+      "path": "wiki/factors/moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl",
+      "recorded_reviewer": "factors-004",
+      "issues": [
+        {
+          "holder": "wiki/factors/moon.md",
+          "text": "Hand Moon retains OCR damage including Along ^vith, w 7omb and ref ex; these words were not repaired from background knowledge.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte Moon passage personally inspected on PDF27 during the targeted continuation; no printed folio is visible, so its printed bibliographic page remains unavailable.",
+        "Hand Moon has a model-located section range at PDF pp. 56-61; printed folios are not supplied, and the scan was not viewed.",
+        "Hand Moon retains OCR damage including Along ^vith, w 7omb and ref ex; these words were not repaired from background knowledge."
+      ]
+    },
+    {
+      "path": "wiki/factors/neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-004.jsonl",
+      "recorded_reviewer": "factors-004",
+      "issues": [
+        {
+          "holder": "wiki/factors/neptune.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Witte Neptune has a model-located chapter start at PDF p. 28; the source-evidence record does not supply its printed folio, and the scan was not viewed.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ]
+    },
+    {
+      "path": "wiki/factors/pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-005.jsonl",
+      "recorded_reviewer": "factors-005",
+      "issues": [
+        {
+          "holder": "wiki/factors/pluto.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Printed folios are not established for Rules (known PDF p. 28), Hand (known PDF pp. 94-100), Banzhaf/Haebler (inherited PDF p. 50) and Johndro (inherited PDF pp. 24-25). These are missing printed folios, not missing passage locators; no printed numbers were invented.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ]
+    },
+    {
+      "path": "wiki/factors/saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-005.jsonl",
+      "recorded_reviewer": "factors-005",
+      "issues": [
+        {
+          "holder": "wiki/factors/saturn.md",
+          "text": "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Printed folios are not established for Rules (known PDF p. 28), Hand (known PDF pp. 79-84), Banzhaf/Haebler (inherited PDF p. 42), Johndro (inherited PDF pp. 14-17) and Hall (inherited PDF pp. 105-121). These are missing printed folios, not missing passage locators; no printed numbers were invented.",
+        "Remaining inherited Hand OCR outside the personally inspected boundary page is unchanged; the specific substantive boundary problem is resolved, not the entire excerpt proofread against every scan."
+      ]
+    },
+    {
+      "path": "wiki/factors/sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/factors-006.jsonl",
+      "recorded_reviewer": "factors-006",
+      "issues": [
+        {
+          "holder": "wiki/factors/sun.md",
+          "text": "Other inherited Hand OCR forms on PDF52–55 remain uncorrected pending exact passage inspection; the substantive father-role gap on PDF56 is resolved.",
+          "kind": "reported_damage_or_boundary",
+          "state": "changed_source_specific_hold_recheck"
+        }
+      ],
+      "source_entries_still_identical_to_original": false,
+      "assignment_source_flags": [
+        "Printed bibliographic page numbers remain unrecorded for Witte, Hand, Banzhaf/Haebler, Johndro, and Hall. Available PDF locators are Witte 27, Hand 52-56, Banzhaf/Haebler 28, Johndro 4, and Hall 104-121; no printed numbers were inferred.",
+        "Other inherited Hand OCR forms on PDF52–55 remain uncorrected pending exact passage inspection; the substantive father-role gap on PDF56 is resolved."
+      ]
+    }
+  ],
+  "source_normalization": "CRLF normalized, Source Entries only, terminal standalone section anchor removed, outerstrip."
+}

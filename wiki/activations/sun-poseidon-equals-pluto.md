@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Poseidon = Pluto`
 - Astronomicon formula: `S/¨ = Z`
 - Axis page: [Sun/Poseidon](../axes/sun-poseidon.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-The mental or spiritual development and transformation. Increasing
+- Source passage: `Sun + Poseidon`; one-based PDF page `118` (oriented row checked against the scan).
+
+The mental or spiritual development and transformation. Increasing spiritualization of body.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of a spiritual centre, ideas developing person, corporal development through the spirit, developing personal clarity, growth of spiritualized people, and transformation of personal insights
+- Source passage: `Sonne + Poseidon`; printed p. `173`; one-based PDF page `85` (oriented row checked against the scan).
+
+Development of a spiritual center, a person developing ideas, bodily unfolding through the spirit, developing personal clarity, growing personal culture, growth of a spiritualized person, transformation of personal insights.
+
+## Comparative Schema
+
+- core meaning: Mental or spiritual life develops and changes through the growth of ideas, personal clarity and culture. [Witte](#witte-entry) · [ABC](#abc-entry)
+- psychology: A person develops ideas and transforms personal insights; understanding is described as something that can grow rather than remain fixed. [ABC](#abc-entry)
+- body/health: Witte names increasing spiritualization of the body; ABC similarly gives bodily unfolding through spirit. These are spiritual descriptions, not a specific medical mechanism. [Witte](#witte-entry) · [ABC](#abc-entry)
+- social/relationship: ABC's growing personal culture and development of a spiritual center give the process both a personal setting and the setting of a spiritual center. [ABC](#abc-entry)
+- events/manifestations: Developing a spiritual center, cultivating ideas and revising personal insights are explicit manifestations. [ABC](#abc-entry)
+- conflicts/notes: Development and transformation do not by themselves establish sudden revelation or prove that later insights are truer; the entries specify growth and change. [Witte](#witte-entry) · [ABC](#abc-entry)
+
+## Contradictions
+
+No direct contradiction is stated. Both entries describe development and spiritualization, with ABC specifying ideas, clarity, culture and a spiritual center.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Poseidon = Pluto`: revelatory change and truth surfacing through transformation.
-- Practical expression: development of a spiritual centre, ideas developing person, corporal development through the spirit, developing personal clarity, and growth of spiritualized people.
+`Sun/Poseidon = Pluto` describes a spiritual or intellectual life in development. Ideas are formed, personal clarity grows and earlier insights undergo change; personal culture and a spiritual center can develop along with the person. Both entries also connect that process with the body through spiritualization or bodily unfolding. The common thread is an evolving relation between understanding, cultivation and embodiment. [Witte](#witte-entry) · [ABC](#abc-entry)
 
 ## Links
 

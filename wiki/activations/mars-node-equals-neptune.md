@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Neptune Node](../triads/mars-neptune-node.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “NODES + MARS,” PDF p. 143.
 
 Work-community which soon dissolves. Not lasting working agreements. Muddy connections in activities.
 
@@ -45,19 +49,25 @@ Work-community which soon dissolves. Not lasting working agreements. Muddy conne
 
 #### ABC Entry
 
-Dissolving of an effective link, measures to reduce pollution, by working with water, action in connection with air, in connection with work, and inconsistency with work
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
+Dissolution of an energetic connection, efforts toward a future relationship, connected through work with water, activity connected with air, uncertainty in connections involving work, and unclear work placement.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-Disharmonious attitude, demonstration of antisocial conduct when in association with others, falsehood, disappointment. Uundermining of a relationship.
+Source: “Mars/Dragon's Head,” printed p. 217 (PDF p. 219), entry 0754.
+
+Disharmonious attitude, demonstration of antisocial conduct when in association with others, falsehood, disappointment. Undermining of a relationship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-One’s action in groups is misconstrued or misunderstood. To be able to sub tly influence groups and those with whom one is connected.
+Source: “Planets activating the Mars/Node midpoint,” PDF p. 75.
+
+One’s action in groups is misconstrued or misunderstood. To be able to subtly influence groups and those with whom one is connected.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Brings insight into how others can help you but also brings false promises of he
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Uncertain, misunderstood, or dissolving cooperation alongside subtle group influence.
+- psychology: Disappointment and confused expectations, with insight into how others might help.
+- body/health: No bodily or medical effect is stated.
+- social/relationship: Unstable agreements, false promises, and efforts toward a future connection.
+- events/manifestations: Dissolving work communities, unclear work placement, air/water work ties, and confused meetings.
+- conflicts/notes: Subtle guidance and undermining ties are distinct possibilities; misunderstanding does not establish deliberate deception.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize dissolution or disappointment, while Sandbach and Munkasey also include subtle influence and guidance. ABC retains efforts toward future connections and concrete work ties.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Neptune`: subtle influence within associations and the wish to work with others toward something refined or ideal. Main caution: dissolution of trust: unclear motives or misconstrued actions can weaken teamwork and undermine bonds from within.
+In `Mars/Node = Neptune`, Neptune specifies shared action through uncertain connections and subtle influence within groups. Work agreements may dissolve, help may be falsely promised, and one's actions may be misunderstood; these do not all establish deceptive intent. Sandbach includes the capacity to influence groups subtly, while Munkasey adds imagining how to guide them. ABC's future relationships and work involving air or water keep the range wider than broken trust alone. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105; [Ebertin](#ebertin-entry), printed p. 217, entry 0754; [Sandbach](#sandbach-entry), PDF p. 75; [Munkasey](#munkasey-entry), printed p. 244)
 
 ## Links
 

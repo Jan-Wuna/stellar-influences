@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/Q = VP`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
 - Triad hub: [Vernal Point Moon Venus](../triads/vernal-point-moon-venus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,20 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source passage: PDF p. 123.
+
 Motherhood in general. Motherly.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Pleasure in public, fridlichc's people in public, harmonious hour in public, lovable woman in public life, public joy for cin people, public people art, and gentle women in public
+- Source passage: printed p. 178; PDF p. 88.
+
+Joyful feelings in public, a peaceful people in public, a harmonious hour in public, a lovable woman in public life, public joy for a people, public folk art, and beautiful women in public.
+
+Editorial translation checked against the German entry and Vernal Point row symbol in the scan, printed p. 178 (PDF p. 88).
+
+## Comparative Schema
+
+- core meaning: motherhood in general and pleasurable or harmonious public life are the two recorded emphases ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: the entries provide no developed account of individual motivation; ABC names pleasure and harmony in a public setting.
+- body/health: motherhood is named without any physiological or medical claim ([Witte](#witte-entry)).
+- social/relationship: a motherly presence and a lovable woman in public life are source examples ([Witte](#witte-entry), [ABC](#abc-entry)).
+- events/manifestations: public pleasure, a harmonious hour, and public folk art are examples in the [ABC entry](#abc-entry).
+- conflicts/notes: ABC's references to women and peoples remain source examples, not universal roles or collective traits; its public art examples extend beyond Witte's maternal wording.
+
+## Contradictions
+
+The entries offer different scopes: Witte gives general motherhood; ABC places feeling, harmony, and art in public life. Neither explicitly denies the other; their differing examples do not establish that the sources agree on every detail.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Venus = Vernal Point`: Motherhood in general. Motherly.
-- Practical focus: externalizes `Moon/Venus` into general motherhood and visible nurturing presence. It points to the loving, containing, and maternal side of feeling becoming an openly recognizable social fact.
-- Practical expression: pleasure in public, fridlichc's people in public, harmonious hour in public, lovable woman in public life, and public joy for cin people.
+The Vernal Point specifies Moon/Venus at a general or public level. [Witte](#witte-entry) gives the concise image of motherhood and a motherly presence, while [ABC](#abc-entry) describes joyful feelings, harmony, and art in public life. These support a public expression of affectionate, harmonious, or maternal feeling without establishing a particular event, profession, or role for everyone.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Mars`
 - Astronomicon formula: `R/Q = U`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,38 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `123` (entry start; one-based).
+
 #### Witte Entry
 
 The passionate woman. To become a mother. To be active because of love of the subject.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Working with a lovable woman, peace actions of a people, harmonious actions, impulses of a gentle woman, artistic creation of a people, artistic women's work, woman's love actions, and activity of a gentle woman
+Work with a lovable woman, a people's actions for peace, emotionally harmonious actions, impulses from a beautiful woman, a people's artistic creation, women's artistic work, a woman's actions of love, and a beautiful woman's activity
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `117`, PDF p. `119`, entry `0341`.
 
 #### Ebertin Entry
 
 A strongly instinctive, emotional or passionate way of living, actions are caused by feelings. A devoted wife. The desire to become a mother, a love of travel.
 
+<a id="ebertin-source-note-18"></a>
+#### Ebertin Source Note 18
+
+- Source reference: printed p. `117`, PDF p. `119`, footnote `18`.
+
+Ebertin says that in many cases the word love may be replaced by art. The same note explicitly names `Moon/Venus = Mercury` among artistically creative people; see the [Mercury source note](moon-venus-equals-mercury.md#ebertin-source-note-18). The marker is attached to Mars entry `0341`, while the Mercury statement retains its own named orientation.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `27` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +87,23 @@ A touch of impatience and abruptness to the quality of care you show to others; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action motivated by affection, emotion, or a wish to care.
+- psychology: passion and initiative coexist with agitation, impatience, or shifting attention.
+- body/health: motherhood and sexual enjoyment are source associations; no bodily condition is established.
+- social/relationship: soft assertion, active nurturing, a devoted wife, and care mixed with haste are examples.
+- events/manifestations: artistic work, peace actions, travel, and activity pursued for love of its subject are named.
+- conflicts/notes: Sandbach's gentle manner and Munkasey's abruptness differ; jealousy or possessiveness is not stated here.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach emphasizes assertion without harshness, while Munkasey describes impatience and abrupt care. Both retain active nurturing, but their different manners should not be collapsed into either assured gentleness or reactive pursuit.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Mars` channels the tender, receptive love of the Moon/Venus axis through Mars, turning affection into desire, pursuit, and active protectiveness. It points to emotional warmth that wants to act, defend, and seek closeness in immediate, embodied ways.
-- Chart expression: passionate tenderness, lively attachment, and the ability to move from care into decisive relational expression. Main caution: touchy desire, because feeling and attraction can turn quickly into jealousy, friction, or reactive pursuit.
+In Moon/Venus = Mars, Mars specifies the pair through acting on feelings and taking the initiative to care. [Witte](#witte-entry) names activity for love of its subject, and [Ebertin](#ebertin-entry) describes actions caused by feelings. [ABC](#abc-entry) gives artistic work, peaceful action, and actions of love (printed p. 178, PDF p. 88).
+
+[Sandbach](#sandbach-entry) describes soft assertion and active nurturing, but also agitation from vulnerability and easily diverted attention. [Munkasey](#munkasey-entry) adds impatient or hurried care and sexual enjoyment with a sincerely loved person (p. 108). These entries support affectionate activity with varied manners, without establishing jealousy or possessive behavior.
 
 ## Links
 

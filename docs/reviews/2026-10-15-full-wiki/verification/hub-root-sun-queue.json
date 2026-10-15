@@ -1,0 +1,320 @@
+{
+  "scope": "45 existing Sun hub caveat leads; root exclusive015/016/017 ledgers, no newreviews",
+  "targets": [
+    {
+      "path": "wiki/triads/sun-admetos-vulcanus.md",
+      "line": 40,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Vulcanus = Admetos qualifies the unreliable ABC “carnal violence” and “violent personal control” renderings. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-015.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-apollon-vulcanus.md",
+      "line": 43,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Vulcanus = Apollon excludes the damaged ABC “corper strong” and “power fillle” fragments. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-015.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-asc-vulcanus.md",
+      "line": 51,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Vulcanus = Asc excludes damaged ABC “local square,” “corver force,” and “human crawl” fragments. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-015.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-asc-zeus.md",
+      "line": 52,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Asc = Zeus qualifies the damaged ABC “creative manned partner” phrase. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-015.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-hades-vulcanus.md",
+      "line": 70,
+      "amended": false,
+      "note": "Coverage limitation: Hades/Vulcanus = Sun qualifies damaged ABC wording; Sun/Vulcanus = Hades excludes unclear ABC “personal power dispensation,” “body crafl,” and criminal-community fragments. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-015.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-jupiter-mc.md",
+      "line": 9,
+      "amended": false,
+      "note": "Coverage limitation: `Jupiter/MC = Sun` excludes damaged ABC “celebrated person” and “mental condition” renderings; its local note retains printed p. `74` as the unresolved translation's locator.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-jupiter-poseidon.md",
+      "line": 13,
+      "amended": false,
+      "note": "Coverage limitation: Jupiter/Poseidon = Sun excludes the damaged ABC “common advantage” rendering. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-jupiter-zeus.md",
+      "line": 17,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Zeus = Jupiter excludes unreliable ABC “finding financial man” and “grinning of a financial center” renderings. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-kronos-vulcanus.md",
+      "line": 21,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Vulcanus = Kronos excludes the unreliable ABC “self willed person” rendering. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-admetos.md",
+      "line": 22,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Admetos qualifies the damaged ABC “Gross daily work” rendering. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-apollon.md",
+      "line": 23,
+      "amended": false,
+      "note": "Coverage limitation: Mars/Apollon = Sun leaves a damaged ABC physical-work phrase unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-hades.md",
+      "line": 27,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Hades leaves its final ABC phrase damaged; the local note retains printed p. 147 (PDF p. 72). See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-kronos.md",
+      "line": 29,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Kronos qualifies the ABC “self employed man” rendering and an omitted damaged will-directing phrase (printed p. 147; PDF p. 72). See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-mc.md",
+      "line": 30,
+      "amended": false,
+      "note": "Coverage limitation: `Sun/Mars = MC` qualifies an appended Ebertin footnote about the separate Pluto orientation and damaged Sandbach “pubic way” wording. The activation's own source discussion explains those limits; the appended footnote is not additional MC doctrine.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-vulcanus.md",
+      "line": 37,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Vulcanus qualifies damaged ABC “individual, will”; Sun/Vulcanus = Mars leaves damaged mixed-language “carperal” action/violence fragments unresolved. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mars-zeus.md",
+      "line": 38,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Zeus qualifies damaged ABC “filthy activity” and “procreation mitigations” renderings; Sun/Zeus = Mars excludes damaged leadership renderings. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-admetos.md",
+      "line": 39,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Admetos qualifies damaged ABC body-related phrases. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-apollon.md",
+      "line": 40,
+      "amended": false,
+      "note": "Coverage limitation: MC/Apollon = Sun and Sun/MC = Apollon qualify damaged ABC body-related fragments, including “my body flour.” See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-kronos.md",
+      "line": 43,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Kronos qualifies damaged ABC “Caring superiority” and “self loathing” renderings. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-vulcanus.md",
+      "line": 45,
+      "amended": false,
+      "note": "Coverage limitation: MC/Vulcanus = Sun qualifies damaged ABC “center tlir”; Sun/Vulcanus = MC excludes damaged “seclic force” and an unreliable mental-power rendering. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mc-zeus.md",
+      "line": 46,
+      "amended": false,
+      "note": "Coverage limitation: MC/Zeus = Sun qualifies unresolved ABC OCR/translation; Sun/Zeus = MC excludes unreliable bodily/centre renderings of leadership wording. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mercury-mars.md",
+      "line": 55,
+      "amended": false,
+      "note": "Coverage limitation: Mercury/Mars = Sun marks the ABC opening as damaged and excludes it; gendered examples are source-period language. Presence of an ABC entry does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mercury-mc.md",
+      "line": 56,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Mercury marks ABC's “caring movement” wording as damaged. Mercury/MC = Sun supplies a Sandbach PDF chapter start, not a verified exact entry page.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mercury-neptune.md",
+      "line": 57,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Neptune = Mercury qualifies ABC's exchanged/carper wording as damaged; consult that entry before using its wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mercury-venus.md",
+      "line": 63,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Venus = Mercury excludes ABC's damaged art/body wording. Mercury/Venus = Sun gives a Sandbach PDF chapter start only, not an exact entry page.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-mercury-zeus.md",
+      "line": 65,
+      "amended": false,
+      "note": "Coverage limitation: Mercury/Zeus = Sun and Sun/Zeus = Mercury retain bounded damaged-ABC qualifications; those phrases are excluded from synthesis. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-moon-asc.md",
+      "line": 68,
+      "amended": false,
+      "note": "Coverage limitation: Moon/Asc = Sun excludes damaged ABC wording; Sun/Asc = Moon excludes ABC's damaged wealth/“Miltter” phrases. Moon/Asc = Sun has no canonical Ebertin entry; this is an observed wiki coverage gap, not a claim about the complete work.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-moon-chiron.md",
+      "line": 69,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Chiron = Moon excludes a damaged final insecurity clause; source presence does not certify that sentence.",
+      "ledger": "triads-016.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-moon-mars.md",
+      "line": 5,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Mars = Moon excludes damaged emotional and collective ABC phrases; source presence does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-moon-mc.md",
+      "line": 6,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Moon excludes damaged ABC translations, including the bodily clause.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-moon-zeus.md",
+      "line": 16,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Zeus = Moon excludes unreliable ABC feelings/leadership renderings. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-asc.md",
+      "line": 19,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Asc = Neptune excludes an ABC tail belonging to Pluto and a mistranslated disappointment term. Sun/Neptune = Asc also excludes mistranslated ABC phrases; consult the entry qualifications.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-mc.md",
+      "line": 23,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Neptune excludes the ABC appended development sequence pending row-boundary verification (printed p.63; PDF p.30).",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-node.md",
+      "line": 24,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Neptune = Node excludes a damaged ABC opening phrase (printed p.154; PDF p.76).",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-poseidon.md",
+      "line": 26,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Neptune = Poseidon qualifies cached ABC Persian/carper words as damaged translations. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-vulcanus.md",
+      "line": 27,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Vulcanus = Neptune retains an unreliable ABC phrase and a continuation that may cross into a following row; detailed doctrine from that tail is excluded. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-neptune-zeus.md",
+      "line": 28,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Zeus = Neptune excludes unclear ABC fire-water and air wording from confident synthesis. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-node-apollon.md",
+      "line": 30,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Node = Apollon qualifies damaged ABC bonded wording; it does not name a separate technical term. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-node-cupido.md",
+      "line": 32,
+      "amended": false,
+      "note": "Coverage limitation: Node/Cupido = Sun excludes damaged ABC English clauses from broader psychological or gender claims. See the linked activation entries for the qualification; source presence here does not certify intact wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-node-mc.md",
+      "line": 35,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Node marks ABC's caring-connections phrase as damaged body-related wording (printed p.62; PDF p.30).",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-pluto-asc.md",
+      "line": 41,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Asc = Pluto records a truncated ABC opening whose missing text belongs under Pluto, not Neptune. Pluto/Asc = Sun supplies a Sandbach chapter start only, not an exact entry locator.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-pluto-mc.md",
+      "line": 45,
+      "amended": false,
+      "note": "Coverage limitation: Sun/MC = Pluto marks ABC's leading “le” and “seclic” as damaged (printed p.63; PDF p.30).",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-saturn-asc.md",
+      "line": 52,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Asc = Saturn excludes ABC's well-established phrase because it conflicts with the scanned German wording.",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-saturn-neptune.md",
+      "line": 58,
+      "amended": false,
+      "note": "Coverage limitation: Sun/Neptune = Saturn qualifies damaged ABC exchanged/storten wording (printed p.155; PDF p.76).",
+      "ledger": "triads-017.jsonl"
+    },
+    {
+      "path": "wiki/triads/sun-uranus-asc.md",
+      "line": 67,
+      "amended": false,
+      "note": "Coverage limitation: Uranus/Asc = Sun qualifies unreliable ABC gendered phrases; they do not restrict the orientation to men.",
+      "ledger": "triads-017.jsonl"
+    }
+  ]
+}

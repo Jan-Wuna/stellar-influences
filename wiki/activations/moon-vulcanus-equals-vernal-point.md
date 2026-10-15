@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = VP`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Vernal Point Moon Vulcanus](../triads/vernal-point-moon-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To create sensation in the public. The general public is excited about the native.
+- Source passage: PDF p. 136; complete Vernal Point row checked visually.
+
+To create sensation in the public. The general public is excited about the native. General great events. Personage of great public might. Mighty nations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential woman in the public, feelings Starke in the public life, public violence against women, power of violence in the public life, power of a people in the public, and public violence in the public
+- Source passage: printed p. 204; PDF p. 101.
+
+An influential woman in public, emotional strength in public life, public violence against a woman, a woman's power in public life, a people's power in public, and an hour of violence in public.
+
+Editorial translation checked against the German scan and Vernal Point row symbol.
+
+## Comparative Schema
+
+- core meaning: power and strong feeling become publicly conspicuous ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: public excitement and emotional strength are the stated feeling themes.
+- body/health: no medical claim is supplied; public violence is an adverse event example.
+- social/relationship: influential women, powerful public figures, and collective power occupy the public setting.
+- events/manifestations: public sensation, major events, and public violence illustrate the range.
+- conflicts/notes: visibility does not establish approval; public excitement and violence cannot be equated with admiration.
+
+## Contradictions
+
+The entries give different public manifestations without directly opposing claims. Neither states that conspicuous power is necessarily respected or beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Vernal Point`: To create sensation in the public. The general public is excited about the native.
-- Practical expression: influential woman in the public, feelings Starke in the public life, public violence against women, power of violence in the public life, and power of a people in the public.
+The Vernal Point specifies Moon/Vulcanus at the level of public events and visible collective power. [Witte](#witte-entry) describes sensation, public excitement, powerful figures, and nations; [ABC](#abc-entry) adds emotional strength and a woman's public influence. Its public-violence examples keep visibility separate from approval or benefit: what commands attention may also be harmful.
 
 ## Links
 

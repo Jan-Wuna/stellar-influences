@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
 - Triad hub: [Node Cupido Hades](../triads/node-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 267 (one-based; exact activator row).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Connection with firms of insufficient economic basis. To be concerned in bankrup
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 211 (printed 424).
+
 #### ABC Entry
 
-Old art connections, encounter with dangerous communities, connected by common mystery, united in need, contacts with dangerous communities, and connected by common past
+Editorial English translation, checked against the German scan:
+
+Old art connections; encounters with endangered communities; connected through a shared secret; jointly connected in need; contacts with dangerous communities; connected through a shared past.
+
+## Comparative Schema
+
+- core meaning: Connections involving need, vulnerable firms, danger or a shared past.
+- psychology: No distinct inner disposition is specified.
+- body/health: No specific bodily condition or treatment is supplied.
+- social/relationship: Ties to economically weak firms, unity in need, art connections and a shared secret.
+- events/manifestations: Involvement in bankruptcies, witnessing a sad event and contacts with endangered or dangerous communities.
+- conflicts/notes: An endangered community and a dangerous community are distinct clauses; need does not explain the bond's motive.
+
+## Contradictions And Differences
+
+An endangered community and a dangerous community are distinct clauses; need does not explain the bond's motive. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Node`: associations that expose one to decline, failure, or the fallout of weak social and economic structures. Main caution: bonding through breakdown instead of through real support.
+`Cupido/Hades = Node` concerns connections with people or organizations in vulnerable circumstances. The [Witte entry](#witte-entry) names economically weak firms, bankruptcies and witnessing an unfortunate event. The [ABC entry](#abc-entry) adds unity in need, old art connections and bonds through a shared secret or past, distinguishing encounters with endangered communities from contacts with dangerous ones. The entries identify types of connection without asserting that failure itself is the reason for belonging.
 
 ## Links
 

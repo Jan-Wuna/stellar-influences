@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Chiron`
 - Astronomicon formula: `V/W = Chiron`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
-Your energy helps others to make their moral and ethical values more person ally supportive to them, and less based around guilt and fear.
+- Source reference: one-based PDF pp. 78–79, Jupiter/Saturn, Chiron paragraph spanning the page break.
+
+Your energy helps others to make their moral and ethical values more personally supportive to them, and less based around guilt and fear.
+
+## Comparative Schema
+
+- Core meaning: Helping others make moral values more personally supportive ([Sandbach Entry](#sandbach-entry)).
+- Psychology: Guilt and fear are the pressures the entry seeks to lessen.
+- Body/health: The passage does not establish medical treatment or a bodily condition.
+- Social/relationship: The focus is support offered to others in their ethical lives.
+- Events/manifestations: No concrete external event is specified; the described effect concerns how values function.
+- Conflicts/notes: The Chiron paragraph spans PDF pp. 78–79; the typographical split person ally is normalized to personally. This is a single-source interpretation.
+
+## Contradictions
+
+There is no second entry to compare; the absence of comparison does not establish corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Chiron`: disciplined growth becoming therapeutic and conscience-based. It favors helping others mature their principles in a way that is both humane and sustainable.
+In `Jupiter/Saturn = Chiron`, Chiron specifies the pair's moral and ethical concerns as help given to others. The [Sandbach Entry](#sandbach-entry) describes values becoming personally supportive and less organized around guilt or fear. This is a change in the way principles support a person, rather than an instruction to abandon principles; the entry supplies no medical claim or independent corroboration.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Poseidon`
 - Astronomicon formula: `VP/¡ = ¨`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -40,15 +42,30 @@ Association of philosophers, geniuses or deep thinkers.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Cupido`
+- Source reference: printed page `45`; PDF page `21` (one-based).
+
 #### ABC Entry
 
-Knowledge community in public Life, clarity in a public Community, arts and culture in public Life, culture community in public, public Ideas community, and truth about cinema community in public
+A community of understanding in public life, clarity in a public community, art and culture in public life, a cultural community in public, a public community of ideas, and truth about a community in public.
+
+## Comparative Schema
+
+- Core meaning: Public community centered on thought, ideas, or culture.
+- Psychology: Deep thought and seeking clarity are stated themes.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Associations of philosophers or deep thinkers.
+- Events/manifestations: Public knowledge, ideas, and cultural communities.
+- Conflicts/notes: The final ABC clause concerns truth about a community; it supplies no cinema example.
+
+## Contradictions
+
+No direct conflict appears; Witte's philosophical association and ABC's intellectual or cultural community are compatible examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Poseidon`: association of philosophers, geniuses or deep thinkers.
-- Practical expression: knowledge community in public Life, clarity in a public Community, arts, culture in public Life, and culture community in public.
+Poseidon specifies `Vernal Point/Cupido` through public communities organized around understanding, thought, ideas, or culture. The [Witte entry](#witte-entry) names philosophers, geniuses, and deep thinkers. The [ABC entry](#abc-entry) adds clarity within a community, art and culture, and truth about a community. These link the group's intellectual or cultural activity with understanding its collective life.
 
 ## Links
 

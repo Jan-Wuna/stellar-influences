@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Asc Hades`
 - Astronomicon triad-set: `U Asc ¢`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Hades = Mars](../activations/asc-hades-equals-mars.md)
-- [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md)
-- [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md)
+- [Asc/Hades = Mars](../activations/asc-hades-equals-mars.md): base axis [Asc/Hades](../axes/asc-hades.md); activator [Mars](../factors/mars.md).
+- [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md): base axis [Mars/Asc](../axes/mars-asc.md); activator [Hades](../factors/hades.md).
+- [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md): base axis [Mars/Hades](../axes/mars-hades.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Hades = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
-- `Asc/Hades = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `124`
-- `Mars/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
-- `Mars/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `111`
-- `Mars/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `198`
-- `Mars/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `310`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Hades = Mars](../activations/asc-hades-equals-mars.md#witte-entry) (PDF entry-start p. 92); [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md#witte-entry) (PDF entry-start p. 85); [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md#witte-entry) (PDF entry-start p. 198).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Hades = Mars](../activations/asc-hades-equals-mars.md#abc-entry) (printed p. 124); [Mars/Asc = Hades](../activations/mars-asc-equals-hades.md#abc-entry) (printed p. 111); [Mars/Hades = Asc](../activations/mars-hades-equals-asc.md#abc-entry) (printed p. 310).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Mars`: a depressed environment full of ineffective deeds, danger from others, and the need to respond actively to harm or mishap.
-- `Mars/Asc = Hades`: drags the Mars/Asc axis into degrading conflict, mistakes, theft, danger, and the burden of dealing with other people's wrong actions.
-- `Mars/Hades = Asc`: having to deal with others' damage, correct their messes, and live close to danger, including murderous intent.
+Mars, Asc and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Hades](../axes/asc-hades.md)
+- [Mars/Asc](../axes/mars-asc.md)
+- [Mars/Hades](../axes/mars-hades.md)
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)

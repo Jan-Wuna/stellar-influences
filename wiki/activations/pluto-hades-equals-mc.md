@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Hades](../axes/pluto-hades.md)
 - Triad hub: [Pluto MC Hades](../triads/pluto-mc-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 258 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Personal failure to act. To be unreliable or dishonest. Never get on in the worl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 410; PDF page 204.
+
 #### ABC Entry
 
-Development from my past, my development in service, my dangerous development, my poor development, my changes in old age, my growing deprivations, I grow by renunciation, and hidden soul en growth
+Development from my past, my unfolding through service, my dangerous development, my deficient development, my changes in old age, my growing privations, I grow through renunciation, hidden soul growth.
+
+## Comparative Schema
+
+- core meaning: Personal involvement in difficult development or decline.
+- psychology: Reassessment of one's past, development through service, or renunciation in ABC.
+- body/health: No specific clinical or bodily condition is stated.
+- social/relationship: Unreliability or dishonesty are Witte's possible character descriptions.
+- events/manifestations: Personal decline, growing deprivation, or changes in old age.
+- conflicts/notes: ABC includes growth through renunciation alongside its difficult examples.
+
+## Contradictions
+
+Witte's strongly adverse personal judgments differ from ABC's service and growth through renunciation. The constructive examples should remain visible.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Hades = MC`: to feel unhappy, dissatisfied and unqualified; To adapt badly to changes or transformations; Bad self-development or inharmonious adjustment.
-- Practical expression: development from my past, my development in service, my dangerous development, my poor development, and my changes in old age.
+MC specifies Pluto/Hades as development that concerns one's own course of life. The [Witte entry](#witte-entry) emphasizes failure to act and personal decline, with harsh judgments about reliability. [ABC](#abc-entry) also includes deprivation and poor development, but adds service, one's past, and growth through renunciation. This permits a reading of personal development under limitation without treating the source's negative judgments as a fixed identity.
 
 ## Links
 

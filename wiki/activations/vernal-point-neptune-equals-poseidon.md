@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Neptune Poseidon](../triads/vernal-point-neptune-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Fanaticism. Fanatic penetration of mental power. Uncertainties caused by major floods, smoke or vapors.
 
@@ -42,13 +46,27 @@ Fanaticism. Fanatic penetration of mental power. Uncertainties caused by major f
 
 #### ABC Entry
 
-Spirit of the future in public, public clarity through fine tuning, public culture weakness, unknown truths for the public, water cultivation for the 6public, and future ideas in public life
+- Source page: 41; PDF page: 19 (one-based spread).
+
+The spirit of the future in public, public clarity through fine sensitivity, weak public culture, unknown truths for the public, cultivation of water for the public, and future ideas in public life
+
+## Comparative Schema
+
+- core meaning: Public uncertainty brought into relation with ideas, truth, and fine perception.
+- psychology: Fanaticism and clarity through sensitivity are different source emphases.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Weak public culture and ideas for public life.
+- events/manifestations: Floods, smoke, vapors, water cultivation, and future ideas.
+- conflicts/notes: Witte's fanatic penetration phrase remains attributed; no additional mental-power mechanism is inferred.
+
+## Contradictions
+
+Witte stresses fanaticism and uncertainty; ABC includes clarity through sensitivity and future ideas. This difference remains visible rather than resolving into a uniformly clear or confused reading.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Poseidon`: fanaticism, fanatic penetration of mental power, and uncertainties caused by major floods, smoke or vapors.
-- Practical expression: spirit of the future in public, public clarity through fine tuning, public culture weakness, unknown truths for the public, and water cultivation for the 6public.
+In `Vernal Point/Neptune = Poseidon`, public uncertainty is approached through ideas and perception. The restored [ABC entry](#abc-entry) holds clarity through fine sensitivity beside unknown truths and weak culture. The [Witte entry](#witte-entry) emphasizes fanaticism and uncertainty caused by floods, smoke, or vapors. The synthesis preserves the tension between illuminating insight and confused or obsessive conviction, without deriving a mechanism beyond the source wording.
 
 ## Links
 

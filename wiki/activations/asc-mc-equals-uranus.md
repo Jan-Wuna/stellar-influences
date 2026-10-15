@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Asc/MC](../axes/asc-mc.md)
 - Triad hub: [Uranus Asc MC](../triads/uranus-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 To find oneself suddenly facing others. Professional trouble. To make a scene.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Uranus row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting minute at the place, animated technology at the place, eventful minute at the place, my dynamic partner, my excited partner, my new partner, reform of the environment, emotional tensions with the partner, and unrest in my environment
+An exciting minute at the place, ensouled technology at the place, an eventful minute at the place, my dynamic partner, my excited partner, my new partner, reform of my surroundings, inner tensions with the partner, and unrest in my surroundings.
+
+Source reference: Udo Rudolph, printed p. 61, one-based PDF p. 29, “Meridian + Aszendent,” Uranus glyph row; checked on the actual scan. “Beseelte Technik” retains ensouled technology and “seelische Spannungen” broad inner tension; “meiner Umwelt” retains my surroundings.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Exciting minute at the place, animated technology at the place, eventful minute 
 
 An excitable person, emotionalism, quick determination. Sudden experiences, excitement or upsets, spoiling of one's plans.
 
+Source reference: Reinhold Ebertin, printed p. 307, one-based PDF p. 309, coded Uranus entry 1114; checked on the actual scan.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-One evolves through allowing oneself to be one’s own unique self and to be free. Evolution may happen suddenly and/or erratically and through the vehicle of in spiration. One may have an unusual relationship to spiritual realities, and this can help others to see life and reality in a new and fresh way.
+One evolves through allowing oneself to be one’s own unique self and to be free. Evolution may happen suddenly and/or erratically and through the vehicle of inspiration. One may have an unusual relationship to spiritual realities, and this can help others to see life and reality in a new and fresh way.
+
+Source reference: John Sandbach, one-based PDF p. 122, Uranus paragraph under “Planets activating the Ascendant/Midheaven midpoint”; checked on the actual page. PDF p. 121 is the chapter start; the split word “in spiration” is joined.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -68,24 +78,27 @@ One evolves through allowing oneself to be one’s own unique self and to be fre
 
 Abrupt changes to your lifestyle or occupational circumstances which force you to reassess what you want out of life and how to attain it; extraordinary and unusual demands upon self from others; infrequent looks at progress.
 
+Source reference: Michael Munkasey, printed p. 364, one-based PDF p. 365, “ASCENDANT/MIDHEAVEN with Planets and Points,” Ura row; checked on the actual page.
+
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Sudden encounters or changes, excitement, and individual freedom in relations and personal development ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry)).
+- **Psychology:** Excitability, quick determination, inspiration, and reassessment of aims are explicit; no permanent rebellious disposition is established.
+- **Body/health:** The entries supply no specific body or health claim.
+- **Social/relationship:** Facing others suddenly, unusual demands, a dynamic or new partner, and partner tension are examples.
+- **Events/manifestations:** Professional trouble, scenes, spoiled plans, abrupt lifestyle or occupational change, reform, and infrequent review of progress are named.
+- **Conflicts/notes:** Disruption and inspired freedom are different possibilities; ensouled technology and local-minute phrases remain undefined without a timing method.
 
 ## Contradictions
 
-- None recorded yet.
+The adverse accounts of trouble, scenes, or spoiled plans differ from Sandbach's inspired freedom and fresh perspective. Munkasey makes abrupt change a trigger for reassessing aims. These possibilities should remain side by side rather than reducing every change to either liberation or failure.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Asc/MC = Uranus`: excitable individuality, abrupt developments, and growth through novelty, independence, and refusal to remain fixed in stale conditions. Main caution: instability: upsets, scenes, spoiled plans, or erratic responses can fragment the very integration this axis is trying to achieve.
+In `Asc/MC = Uranus`, Uranus specifies the pair through sudden contact, excitement, and changes in shared or professional life. Scenes, professional trouble, and spoiled plans give the disruptive range concrete forms; ABC separately names a new or dynamic partner. Munkasey adds abrupt circumstances that require reassessing what one wants and how to attain it. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry))
+
+Sandbach gives sudden or erratic development a constructive spiritual possibility through freedom, uniqueness, and inspiration, including helping others see afresh. That possibility remains alongside the upsets, without a guarantee that every change liberates the person or fragments their life. ([Sandbach](#sandbach-entry))
 
 ## Links
 

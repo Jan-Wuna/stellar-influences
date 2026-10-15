@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Neptune Pluto](../triads/vernal-point-neptune-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-E Changes below the surface. Unnoticeable general transformations.
+- PDF page: 46 (one-based).
+
+Changes below the surface. Unnoticeable general transformations.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Public life, unsafe developments in public life, increased sensitivity in public life, and future developments in public life
+- Source page: 41; PDF page: 19 (one-based spread).
+
+Change of air in public, weak public development, unclear transformations in public life, uncertain public developments, growing fine sensitivity in public life, and future developments in public life
+
+## Comparative Schema
+
+- core meaning: Public uncertainty undergoing subtle or unclear transformation.
+- psychology: Growing fine sensitivity is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Unnoticed changes affect the general public.
+- events/manifestations: Changes below the surface, air changes, and future development.
+- conflicts/notes: The scan restores the opening misplaced under Uranus and removes a stray alternative Pluto glyph.
+
+## Contradictions
+
+No direct contradiction is established. Growing sensitivity can coexist with weak or uncertain development; subtle change is not necessarily progress.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Pluto`: e Changes below the surface and unnoticeable general transformations.
-- Practical expression: public life, unsafe developments in public life, increased sensitivity in public life, and future developments in public life.
+In `Vernal Point/Neptune = Pluto`, public conditions change in ways that may remain unclear or unnoticed. The corrected [Witte entry](#witte-entry) names transformations below the surface. The restored [ABC entry](#abc-entry) adds weak or uncertain development, change of air, growing sensitivity, and future development. The shared emphasis is subtle transformation rather than a guaranteed direction of change.
 
 ## Links
 

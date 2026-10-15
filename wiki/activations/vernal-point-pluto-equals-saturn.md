@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Saturn`
 - Astronomicon formula: `VP/Z = W`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -42,13 +44,31 @@ The development is slowed-up, hindered or retarded.
 
 #### ABC Entry
 
-Blazing changes in the public life, patient developments in the public, slow growth in the public, problematic changes in the public life, and painful developments in the public life
+- Source reference: printed p. `43`, one-based PDF p. `20`, complete Saturn row.
+
+German passage transcribed from the scan:
+
+> Belastende Veränderungen im öffentlichen Leben, geduldige Entwicklungen in der Öffentlichkeit, langsames Wachstum in der Öffentlichkeit, problematische Veränderungen im öffentlichen Leben, schmerzhafte Entwicklungen im öffentlichen Leben
+
+Editorial translation: Burdensome changes in public life; patient developments in public; slow growth in public; problematic changes in public life; painful developments in public life.
+
+## Comparative Schema
+
+- Core meaning: Public development that is slowed, hindered, or difficult.
+- Psychology: Patience and painful experience are named responses or qualities.
+- Body/health: Painful development is stated, but no diagnosis or specific bodily condition is supplied.
+- Social/relationship: The named difficulties concern public life rather than a specified partnership.
+- Events/manifestations: Slow growth, obstacles, and problematic changes are concrete manifestations.
+- Conflicts/notes: ABC names burdensome changes; neither the painful nor the burdensome wording supplies a medical diagnosis.
+
+## Contradictions
+
+The entries agree on slow or difficult development. ABC adds burdensome and painful changes without contradicting the stated hindrance.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Saturn`: the development is slowed-up, hindered or retarded.
-- Practical expression: blazing changes in the public life, patient developments in the public, slow growth in the public, problematic changes in the public life, and painful developments in the public life.
+In `Vernal Point/Pluto = Saturn`, Saturn specifies public development through delay and hindrance. The [Witte entry](#witte-entry) directly describes slowed development, and the [ABC entry](#abc-entry) adds slow growth, patience, and burdensome, problematic, or painful changes in public life. These describe difficult progress without specifying a medical condition.
 
 ## Links
 

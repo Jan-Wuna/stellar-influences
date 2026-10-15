@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Uranus Apollon Poseidon](../triads/uranus-apollon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Many people are mentally influenced, inspired or enlightened. Many are kept unde
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 389; PDF p. 193.
+
 #### ABC Entry
 
-Extension of a spiritual emanation, emancipation of cultural freedom, successful cultural emanation, new ideas of science, Surprising spread of truth, future impulses of freedom, and increasing new insights
+Expansion of a spiritual renewal, renewal of cultural freedom, successful cultural renewal, new scientific ideas, surprising spread of truth, rational impulses of freedom, increasing new insights.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Ideas or inspiration reaching many people.
+- psychology: Enlightenment and mental tension are both described.
+- body/health: No bodily condition is specified.
+- social/relationship: Finding like-minded people and influencing a wider group.
+- events/manifestations: ABC includes new scientific ideas and the spread of truth.
+- conflicts/notes: Wider inspiration can coexist with collective tension; ABC adds cultural renewal and freedom.
+
+## Contradictions
+
+The entries describe ideas reaching a wider field, with Witte also retaining the tension experienced by many people. ABC adds cultural renewal, science and freedom; the overlap does not establish independent corroboration. The renewal and rational-impulse wording has been checked against printed p. 389 (PDF p. 193).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Apollon`: Many people are mentally influenced, inspired or enlightened. Many are kept under tension. To find like-minded people.
-- Practical expression: extension of a spiritual emanation, emancipation of cultural freedom, successful cultural emanation, new ideas of science, and surprising spread of truth.
+In `Uranus/Poseidon = Apollon`, Apollon specifies mental or spiritual stimulation through its spread among many people. Inspiration can connect like-minded people, while shared attention can also hold a group in tension. [Witte](#witte-entry) supports that social range; [ABC](#abc-entry) adds scientific ideas and increasing insights without establishing that every widespread idea produces enlightenment.
 
 ## Links
 

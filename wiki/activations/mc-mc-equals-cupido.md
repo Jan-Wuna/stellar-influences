@@ -27,17 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [MC/MC](../axes/mc-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
+
+### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+Source: “Meridian + Meridian,” Cupido entry, PDF p. 57.
+
 Family and community minded. Enjoying art. Artistic taste. One’s attitude toward the community, the family and the arts.
+
+## Comparative Schema
+
+- core meaning: Personal attitude toward family, community, and art.
+- psychology: Enjoyment of art and artistic taste.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: A family- or community-minded orientation.
+- events/manifestations: Artistic appreciation; no particular event or formal relationship is promised.
+- conflicts/notes: This single entry does not establish a marriage scenario or a specific group affiliation.
+
+## Contradictions
+
+No comparison between sources is possible. Family, community, and artistic taste are parallel interests within the one entry.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/MC = Cupido` socializes the axis through family, art, and communal belonging.
-- Chart expression: a personality oriented toward family, community, artistic taste, and identification with groups, marriage, or collective cultural life.
+In `MC/MC = Cupido`, Cupido specifies the repeated MC pair's personal and emotional orientation through family, community, and art. Witte describes being minded toward shared life while enjoying art and exercising artistic taste. The focus is one's attitude and appreciation; the entry does not supply a particular marriage event or require membership in a specified group. ([Witte](#witte-entry), “Meridian + Meridian,” PDF p. 57)
 
 ## Links
 
@@ -45,3 +63,4 @@ Family and community minded. Enjoying art. Artistic taste. One’s attitude towa
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [MC/MC](../axes/mc-mc.md)
+- [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)

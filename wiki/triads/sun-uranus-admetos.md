@@ -28,26 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Uranus Admetos`
 - Astronomicon triad-set: `S X ¦`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Sun/Admetos = Uranus](../activations/sun-admetos-equals-uranus.md)
-- [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md)
-- [Uranus/Admetos = Sun](../activations/uranus-admetos-equals-sun.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Sun/Admetos = Uranus](../activations/sun-admetos-equals-uranus.md) | [Sun/Admetos](../axes/sun-admetos.md) | [Uranus](../factors/uranus.md) |
+| [Sun/Uranus = Admetos](../activations/sun-uranus-equals-admetos.md) | [Sun/Uranus](../axes/sun-uranus.md) | [Admetos](../factors/admetos.md) |
+| [Uranus/Admetos = Sun](../activations/uranus-admetos-equals-sun.md) | [Uranus/Admetos](../axes/uranus-admetos.md) | [Sun](../factors/sun.md) |
 
 ## Source Coverage
 
-- `Sun/Admetos = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `116`
-- `Sun/Admetos = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `169`
-- `Sun/Uranus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `108`
-- `Sun/Uranus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `153`
-- `Uranus/Admetos = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `241`
-- `Uranus/Admetos = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `384`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Sun/Admetos = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-admetos-equals-uranus.md#witte-entry), one-based PDF entry-start p. `116`.
+- `Sun/Admetos = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-admetos-equals-uranus.md#abc-entry), printed p. `169`.
+- `Sun/Uranus = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-uranus-equals-admetos.md#witte-entry), one-based PDF entry-start p. `108`.
+- `Sun/Uranus = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-uranus-equals-admetos.md#abc-entry), printed p. `153`.
+- `Uranus/Admetos = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-admetos-equals-sun.md#witte-entry), one-based PDF entry-start p. `241`.
+- `Uranus/Admetos = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-admetos-equals-sun.md#abc-entry), printed p. `384`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Uranus`: This formula emphasizes to be a disturber and to plough.
-- `Sun/Uranus = Admetos`: This formula emphasizes disruption tied to fixed conditions and sudden disturbance in settled states.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

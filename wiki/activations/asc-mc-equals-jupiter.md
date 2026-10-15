@@ -23,7 +23,7 @@ source_pages:
   - reinhold-ebertin-the-combination-of-stellar-influences
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Asc/MC](../axes/asc-mc.md)
 - Triad hub: [Jupiter Asc MC](../triads/jupiter-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 To have professional luck. To enjoy oneself with others.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 58, “Meridian + Ascendant,” Jupiter row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Successful minute at the place, finances of my partner, joy of my partner, happiness by my partner, happiness by the minute at the place, my successful partner, my local right, my environmental success, my joy at the place, and rights of my partner
+A successful minute at the place, finances of my partner, joy of my partner, good fortune through my partner, good fortune in the minute at the place, my successful partner, my right at the place, my success in the surroundings, my joy at the place, and rights of my partner.
+
+Source reference: Udo Rudolph, printed p. 60, one-based PDF p. 29, “Meridian + Aszendent,” Jupiter glyph row; checked on the actual scan. “In der Minute” means in the minute, not by it; “Glück” retains its fortune/happiness range, and “Orts-Recht” is not further defined.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Successful minute at the place, finances of my partner, joy of my partner, happi
 
 The optimist, desire for gaiety and social entertainment within the family circle. Ability to share joy and merriment with others and to make oneself popular with others. Joy and success.
 
+Source reference: Reinhold Ebertin, printed p. 307, one-based PDF p. 309, “Ascendant/Medium Coeli,” coded Jupiter entry 1112; checked on the actual scan.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
-An overcompensating personality frustrates spiritual growth. One is enthusias tic to evolve, but if one engages in excessive effort along these lines then evolution may be retarded. One is given many chances in this lifetime to grow, and needs to make use of them rather than waste them, but must also beware of spreading oneself too thinly and of becoming involved in too many things. Excess here frustrates progress.
+An overcompensating personality frustrates spiritual growth. One is enthusiastic to evolve, but if one engages in excessive effort along these lines then evolution may be retarded. One is given many chances in this lifetime to grow, and needs to make use of them rather than waste them, but must also beware of spreading oneself too thinly and of becoming involved in too many things. Excess here frustrates progress.
+
+Source reference: John Sandbach, one-based PDF p. 122, Jupiter paragraph under “Planets activating the Ascendant/Midheaven midpoint”; actual paragraph checked. PDF p. 121 is the chapter start. The split word “enthusias tic” is joined.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -68,24 +78,27 @@ An overcompensating personality frustrates spiritual growth. One is enthusias ti
 
 Adds an awareness of the political needs and nature of others; expands on a need to develop your instincts about how to read and use the reactions of others you encounter; how you idealize the motives of others you meet.
 
+Source reference: Michael Munkasey, printed p. 364, one-based PDF p. 365, “ASCENDANT/MIDHEAVEN with Planets and Points,” Jup row; checked on the actual page.
+
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Shared joy, social opportunity, and success involving others recur, with growth qualified by the use made of those opportunities ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- **Psychology:** Optimism and awareness of others' political needs coexist with possible idealization of their motives or overcompensating effort ([Ebertin](#ebertin-entry); [Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry)).
+- **Body/health:** These entries supply no specific body or health claim.
+- **Social/relationship:** Family-circle entertainment, shared merriment, popularity, a successful partner, and the partner's finances or rights are explicit.
+- **Events/manifestations:** Professional luck, shared enjoyment, and personal or partner success are named; the local-minute clauses give no timing method.
+- **Conflicts/notes:** Favorable social conditions do not guarantee Sandbach's spiritual progress; excessive effort and too many involvements are his explicit qualifications.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize different outcomes: shared joy or success in several passages, social reading and idealization in Munkasey, and possible frustration of spiritual growth in Sandbach. These need not be mutually exclusive. External opportunity and inward progress must not be treated as the same guaranteed result.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Asc/MC = Jupiter`: fortunate public or relational conditions, joy shared with others, and a personality that gains by generosity, breadth, and confidence. Main caution: excess: trying to grow too much, too fast, or through overcompensation can dissipate the very progress this configuration promises.
+In `Asc/MC = Jupiter`, Jupiter specifies the pair through joy, opportunity, and success involving other people. Professional luck and enjoyment with others recur alongside family-circle sociability, popularity, and a successful partner. ABC also names the partner's finances and rights as particular areas of shared life. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry))
+
+The entries qualify how those opportunities are understood and used. Munkasey includes reading others' political needs or reactions and idealizing their motives. Sandbach describes chances for spiritual growth that can be frustrated by overcompensation, excessive effort, or too many involvements. Shared success therefore remains distinct from a guarantee of sound judgment or inward progress. ([Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry))
 
 ## Links
 

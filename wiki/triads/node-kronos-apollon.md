@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Node Kronos Apollon`
 - Astronomicon triad-set: `g ¤ ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Kronos/Apollon = Node](../activations/kronos-apollon-equals-node.md)
-- [Node/Apollon = Kronos](../activations/node-apollon-equals-kronos.md)
-- [Node/Kronos = Apollon](../activations/node-kronos-equals-apollon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Kronos/Apollon = Node](../activations/kronos-apollon-equals-node.md) | [Kronos/Apollon](../axes/kronos-apollon.md) | [Node](../factors/node.md) |
+| [Node/Apollon = Kronos](../activations/node-apollon-equals-kronos.md) | [Node/Apollon](../axes/node-apollon.md) | [Kronos](../factors/kronos.md) |
+| [Node/Kronos = Apollon](../activations/node-kronos-equals-apollon.md) | [Node/Kronos](../axes/node-kronos.md) | [Apollon](../factors/apollon.md) |
 
 ## Source Coverage
 
-- `Kronos/Apollon = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Node`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `Node/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `153`
-- `Node/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `233`
-- `Node/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Kronos/Apollon = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/kronos-apollon-equals-node.md#witte-entry), one-based PDF entry-start p. `299`.
+- `Kronos/Apollon = Node`: [Udo Rudolph - ABC for Planetary Pictures](../activations/kronos-apollon-equals-node.md#abc-entry), printed p. `460`.
+- `Node/Apollon = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-apollon-equals-kronos.md#witte-entry), one-based PDF entry-start p. `153`.
+- `Node/Apollon = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-apollon-equals-kronos.md#abc-entry), printed p. `233`.
+- `Node/Kronos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-kronos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `152`.
+- `Node/Kronos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/node-kronos-equals-apollon.md#abc-entry), printed p. `231`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Node`: connection with scientists, access to expert circles, and association with extremely expanded limits or far-reaching domains.
-- `Node/Apollon = Kronos`: Great and free or proud and free. Connected with authorities, courts, officials.
-- `Node/Kronos = Apollon`: Connections with scientific celebrities. Along with many other people in contact with the authorities.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

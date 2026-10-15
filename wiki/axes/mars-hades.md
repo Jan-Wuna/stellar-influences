@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¢`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `198`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Fatigue. Weariness. Atrocity, vulgar acts. To cause damages. Base services. Male
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `310`; PDF page: `154` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Work Danst, work in secret, work deficiency, serving activity, difficult creation, dangerous actions, mysterious activity, criminal acts, acts of need, and activity in the past
+German pair summary (transcribed from printed page `310`; PDF page `154`):
+
+> Arbeits-Dienst, Arbeit im Verborgenen, Arbeits-Mangel, dienende Tätigkeit, erschwertes Schaffen, gefährliche Aktionen, geheimnisvolle Tätigkeit, kriminelle Handlungen, Handlungen aus Not, Tätigkeit in der Vergangenheit
+
+Editorial translation from the German passage: Work service, work in concealment, lack of work, serving activity, difficult productive work, dangerous actions, mysterious activity, criminal acts, actions out of need, activity in the past.
+
+## Comparative Schema
+
+- core meaning: Work under difficult, deprived, concealed, or degraded conditions; the [Pair Summary](#pair-summary) also includes damaging actions.
+- psychology: Weariness and lack of activity occur in the Pair Summary, but the entries do not establish a single motive behind difficult service or harmful behavior.
+- body/health: Fatigue and "Serious sickness" are historical source associations, not diagnoses or predictions about a person.
+- social/relationship: Service, solitary work, poverty, and coercive labor are explicit themes. The source's "Male servant" is retained as historical wording rather than a universal gender rule.
+- events/manifestations: Work with waste, refuse, recycling, and historical things appears beside dangerous or criminal acts; the latter do not define all work described by the pair.
+- conflicts/notes: Difficult service, work in concealment or scarcity, and destructive or criminal conduct are distinct possibilities. Actions out of need do not make all necessary service criminal.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Work Danst, work in secret, work deficiency, serving activity, difficult creatio
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades`: harsh or damaged action: fatigue, bad or criminal deeds, severe illness, dangerous labor, dirty work, solitary service, and effort carried out under poor, oppressive, or destructive conditions.
-- Chart expression: weariness, hard service, poverty work, refuse or salvage handling, base or damaging activity, and the bodily and moral toll of acting in degraded environments. It can describe serious toil, violence, murder, slave-like labor, and work that deals with waste, history, sickness, or what has been cast off. Its shadow is cruelty, vulgarity, destructive compulsion, and action that corrodes the worker as much as the task.
+`Mars/Hades` describes effort entangled with difficult conditions: service in poverty or solitude, work with refuse and old materials, and activity that is concealed or hard to carry out. The [Pair Summary](#pair-summary) gives recycling, outflow channels, historical things, and weariness concrete places in this range; the [ABC Pair Summary](#abc-pair-summary) adds hidden work, scarcity of work, and actions taken from need.
+
+The same entries include harmful and criminal actions, but these must remain distinct from necessary service under adverse conditions. Murder, unusual death, and serious sickness are historical source associations, not outcomes inferred for a reader. ABC's Arbeits-Dienst means work service, a distinct expression alongside concealed work and actions out of need ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

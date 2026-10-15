@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Mercury`
 - Astronomicon formula: `VP/Z = T`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -44,11 +46,23 @@ general transformations in the way of thinking.
 
 Development of youth in public life, change of speech in public, media development in public, change of opinion in public life, increase of traffic in public, and change of public thinking
 
+## Comparative Schema
+
+- Core meaning: Public development expressed through changing thought, opinion, speech, and media.
+- Psychology: Changes in the way of thinking are explicit.
+- Body/health: No bodily or medical manifestation is supplied.
+- Social/relationship: Youth and public communication are named settings.
+- Events/manifestations: Media development and increasing traffic extend the theme beyond ideas alone.
+- Conflicts/notes: Traffic and youth remain specific examples; they do not define every instance of the formula.
+
+## Contradictions
+
+The entries overlap in changes of thinking; the ABC examples broaden the setting without denying that emphasis. Their common wording does not establish independent evidence.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Mercury`: general transformations in the way of thinking.
-- Practical expression: development of youth in public life, change of speech in public, media development in public, change of opinion in public life, and increase of traffic in public.
+In `Vernal Point/Pluto = Mercury`, Mercury specifies public development through changes in thinking and communication. The [Witte entry](#witte-entry) names transformation in the way of thinking; the [ABC entry](#abc-entry) makes public opinion, speech, media, youth, and traffic concrete fields of development. The organizing thread is change in public thought and exchange, with youth and traffic retained as particular manifestations.
 
 ## Links
 

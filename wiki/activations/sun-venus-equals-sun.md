@@ -24,6 +24,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Sun`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = S`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
@@ -41,22 +42,23 @@ Your sincerity in showing appreciation for the efforts of others; focusing and d
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry).
+
+- core meaning: Sincere appreciation directs attention toward loved people.
+- psychology: Attention and feelings are deliberately focused.
+- body/health: No health claim is supplied.
+- social/relationship: Recognition of others' efforts is central.
+- events/manifestations: Culture, values, and artistic ability receive emphasis.
+- conflicts/notes: This Munkasey repeated-factor entry has no independent comparison.
 
 ## Contradictions
 
-- None recorded yet.
+This Munkasey repeated-factor entry has no independent comparison. No direct contradiction is established within the available entry.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Sun`: one's sincerity in showing appreciation for the efforts of others; focusing and directing one's attention and feelings on those one love or give one's attention to; the emphasis one place on culture, values, or artistic ability.
+Sun specifies Sun/Venus through sincere appreciation and the deliberate direction of attention toward loved people. Culture and artistic ability belong to the same pattern of recognizing what matters and acknowledging others' efforts. ([Munkasey](#munkasey-entry).)
 
 ## Links
 

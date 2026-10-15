@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Asc`
 - Astronomicon formula: `Y/Z = Asc`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 To quit a matter. Hidden changes in the environment. Others with hidden plans.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-On site air change, creeping changes in the environment, exchange environmental developments, unclear development on site, unsafe partner development, water change on site, growing partner expectations, and growing uncertainty with the partner
+Change of air at the location, creeping changes in the surroundings, pretending developments in the surroundings, unclear development at the location, uncertain development of the partner, change of the water at the location, growing expectations of the partner, and growing uncertainty with the partner
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `282`, entry code `1008`.
 
 #### Ebertin Entry
 
 Being placed in a peculiar environment, tendency to surround oneself with an air of mysticism.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `111` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ One’s personality is laden with extreme subtlety. The tendency to not be who o
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Helps you to focus on your need to experience and work thru the various kinds of
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: hidden environmental or personal changes, with uncertainty about a partner or one's presentation.
+- psychology: self-idealization, extreme imaginings about identity, and studying change are explicit.
+- body/health: local air or water change is named without a health mechanism.
+- social/relationship: others' hidden plans, unclear partner development, and growing expectations are stated.
+- events/manifestations: quitting a matter, peculiar surroundings, and pretended environmental development are examples.
+- conflicts/notes: a mystical atmosphere and self-idealization do not establish magnetism or hidden power over others.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and ABC emphasize surroundings, partners, and hidden development. Sandbach describes idealized identity, Ebertin a mystical atmosphere, and Munkasey study of reality and change.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Asc`: magnetism, occult or psychological depth, and the ability to embody subtle transformation in visible ways. Main caution: self-obscuration: personality can become deceptive, overwhelmed by invisible pressures, or too identified with fantasy and hidden power.
+In Neptune/Pluto = Asc, hidden or uncertain development is encountered in surroundings, relationships, and self-presentation. [Witte](#witte-entry) names hidden environmental changes and others' concealed plans; [ABC](#abc-entry) adds pretended local development and growing uncertainty with a partner. [Ebertin](#ebertin-entry) describes peculiar surroundings or a mystical atmosphere, while [Sandbach](#sandbach-entry) emphasizes self-idealization and extreme imaginings. [Munkasey](#munkasey-entry) adds working through change and studying reality, without establishing a magnetic personality or unseen power.
 
 ## Links
 

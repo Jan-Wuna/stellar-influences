@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `U/V = g`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Node](../triads/mars-jupiter-node.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -45,7 +46,9 @@ The inception of a betrothal. Increase in family. Happy activity in union with o
 
 #### ABC Entry
 
-Relationships to work with money, successful work contacts, successful actions in connections, making financial connections, creating money trading connections, creating good connections, and establishing legal Y ties
+Connections to work with money, successful work contacts, successful actions in connections, establishing financial connections, money-trading connections, creating good connections, and establishing legal connections.
+
+- Source reference: printed p. 298, PDF p. 148, Node row; `Rechts-Verbindungen` means legal connections, without the cached stray `Y`.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,25 @@ Increased ability to push your ideas and plans with others; attracting people wh
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Initiative succeeds through cooperation, shared activity and useful connections.
+- psychology: Sandbach emphasizes motivation and the need for supportive associates, with destructive excess as a pattern to overcome.
+- body/health: No specific bodily condition is established by these entries; Witte's 'increase in family' is a social event, not a medical claim.
+- social/relationship: Witte and Ebertin name engagement and happy union; Sandbach stresses mutual good and support for self-assertion.
+- events/manifestations: Work and financial contacts in ABC accompany joint enterprise, competitive associates and Munkasey's concern about spent resources.
+- conflicts/notes: The shared cooperative theme does not guarantee harmonious partners; Sandbach retains destructive excess, and Munkasey includes resource-disposal concerns.
 
 ## Contradictions
 
-- None recorded yet.
+Cooperation is a shared emphasis, while excess and resource disposal are additional qualifications. Repeated engagement wording is not independent empirical corroboration.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Node`: teamwork, engagement, shared enterprise, and group connections that support initiative, growth, and mutual benefit. Main caution: excess in the social field: enthusiasm for cooperation can become overcommitment, pressure on partners, or inflated expectations of the group.
+Node specifies the Mars/Jupiter axis through shared activity and useful connections. Work and financial contacts in [ABC](#abc-entry) connect with happy union in [Witte](#witte-entry) and [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) adds supportive associates who allow assertion while working for mutual good.
+
+The engagement examples belong to that cooperative range. Sandbach's warning about destructive excess and [Munkasey's](#munkasey-entry) concern with spent resources qualify the enthusiastic account without turning every partnership into a problem.
+
+Evidence: [ABC](#abc-entry), printed p. 298, PDF p. 148; [Witte](#witte-entry), PDF p. 192; [Ebertin](#ebertin-entry), printed p. 203, entry 0695; [Sandbach](#sandbach-entry), PDF p. 68, Node paragraph checked directly; [Munkasey](#munkasey-entry), printed p. 224.
 
 ## Links
 

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Cupido](../axes/pluto-cupido.md)
 - Triad hub: [Mars Pluto Cupido](../triads/mars-pluto-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 257 (one-based; entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To take part in social progress. Social activities with others. Incorporations. 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 408; PDF page 203.
+
 #### ABC Entry
 
-Community in transition, development of a community in work, production of a community in development, development of a community in cooperation, growing Community work, and changing work in the Community
+A work community in change, development of a work community, unfolding collective work, establishing a development community, developing art together, growing collective work, changing work in the community.
+
+## Comparative Schema
+
+- core meaning: Active participation in collective development.
+- psychology: No distinct emotional or cognitive state is specified.
+- body/health: No bodily or health condition is stated.
+- social/relationship: Cooperation and shared work.
+- events/manifestations: Social activity, incorporation, civil administration, and changing community work.
+- conflicts/notes: ABC includes developing art together alongside collective work.
+
+## Contradictions
+
+The administrative and cooperative examples differ in setting; they do not contradict one another or define all change as conflict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Cupido = Mars`: to take part in social progress; Social activities with others; Incorporations; The work of the civil administration.
-- Practical expression: community in transition, development of a community in work, production of a community in development, development of a community in cooperation, and growing Community work.
+Mars specifies Pluto/Cupido through doing the work of collective change. Participation in social progress, incorporation, and civil administration in [Witte](#witte-entry) connects with shared work, developing art together, and changing tasks in [ABC](#abc-entry). The reading concerns practical involvement in a developing group, rather than merely belonging to it.
 
 ## Links
 

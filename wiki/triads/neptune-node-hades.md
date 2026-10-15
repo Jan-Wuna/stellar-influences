@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Node Hades`
 - Astronomicon triad-set: `Y g ¢`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Hades = Node](../activations/neptune-hades-equals-node.md)
-- [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md)
-- [Node/Hades = Neptune](../activations/node-hades-equals-neptune.md)
+- [Neptune/Hades = Node](../activations/neptune-hades-equals-node.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Node](../factors/node.md).
+- [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md): base axis [Neptune/Node](../axes/neptune-node.md); activator [Hades](../factors/hades.md).
+- [Node/Hades = Neptune](../activations/node-hades-equals-neptune.md): base axis [Node/Hades](../axes/node-hades.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `394`
-- `Neptune/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Node/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `227`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Hades = Node](../activations/neptune-hades-equals-node.md#witte-entry) (PDF entry-start p. 248); [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md#witte-entry) (PDF entry-start p. 147); [Node/Hades = Neptune](../activations/node-hades-equals-neptune.md#witte-entry) (PDF entry-start p. 150).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Hades = Node](../activations/neptune-hades-equals-node.md#abc-entry) (printed p. 394); [Neptune/Node = Hades](../activations/neptune-node-equals-hades.md#abc-entry) (printed p. 221); [Node/Hades = Neptune](../activations/node-hades-equals-neptune.md#abc-entry) (printed p. 227; separators only, no delineation).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Node`: This activation turns hidden decay into disappointing connections and compromised associations, where one’s ties to others become unclear, deceptive, or entangled with liquid, weather, or disaster conditions.
-- `Neptune/Node = Hades`: This activation darkens uncertain ties into hopelessness, poverty, and social exclusion, where one feels cut off from others without a clear path back into belonging.
-- `Node/Hades = Neptune`: Passing connection with evil things. To have to do with water. To experience water accidents. Danger of drowning.
+Neptune, Node and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Node/Hades = Neptune ABC heading](../activations/node-hades-equals-neptune.md#abc-entry) contains only dash separators, apart from the following section anchor. Its heading and locator remain, but no ABC delineation is represented there. Witte and the sibling orientations cannot provide the absent ABC wording.
 
 ## Links
 
+- [Neptune/Hades](../axes/neptune-hades.md)
+- [Neptune/Node](../axes/neptune-node.md)
+- [Node/Hades](../axes/node-hades.md)
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Hades](../factors/hades.md)

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Pluto Asc](../triads/sun-pluto-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,13 @@ No steady relationships. Always forming new relationships. Change of association
 
 #### ABC Entry
 
-The environment, the personal change of the partner, the change of people in the vicinity, the growing local centre, and the change of the personal partner
+- Source reference: printed p. 101; one-based PDF p. 49, complete Pluto row, from its own glyph through the final partner-change clause.
+
+German passage transcribed from the scan:
+
+> Entfaltung anderer Personen, Entwicklungen im Zentrum des Ortes, persönliche Veränderung der Umwelt, persönliche Wandlung des Partners, Veränderung der Menschen in der Nähe, wachsendes Orts-Zentrum, Wechsel des persönlichen Partners
+
+Editorial translation: Unfolding of other people; developments at the center of the place; personal change in the surroundings; personal transformation of the partner; changes among people nearby; a growing local center; change of personal partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +78,23 @@ Obsession with how others see you as a person; desires to create a more powerful
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Changing relationships and surroundings, with intensified personal influence.
+- psychology: Resistance to dependency and possible obsession with how one appears.
+- body/health: No specific health claim is given.
+- social/relationship: New associations, transformation or change of a partner, and attempts to affect others powerfully.
+- events/manifestations: Changes among nearby people, a developing local center and Ebertin's turn of destiny.
+- conflicts/notes: ABC's complete Pluto row concerns development and changing surroundings; it does not establish every change as a deliberate exercise of influence.
 
 ## Contradictions
 
-- None recorded yet.
+Changes among associates or in a local setting differ from forceful self-presentation. The entries do not say that every change of partner or surroundings is caused by a wish for influence.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Pluto`: profound influence, strategic self-control, and transformative pressure in one-to-one exchanges or immediate surroundings. Main caution: power struggle: identity can become controlling, defensive, or too invested in dominating the field.
+Pluto specifies the Sun/Asc axis through changing associations and an intensified concern with personal influence. The [Witte entry](#witte-entry) describes repeatedly forming new relationships, and [Ebertin](#ebertin-entry) adds the wish for influence and resistance to dependency. The [ABC entry](#abc-entry) locates change in partners, people nearby and the local surroundings, retaining developments at a place as well as interpersonal change.
+
+[Sandbach](#sandbach-entry) and [Munkasey](#munkasey-entry) connect this orientation with obsessive attention to appearances or forceful attempts to be noticed. Sandbach also distinguishes a deeper sense of personal significance from superficial display. Those psychological expressions remain distinct from ABC's changes of people and place.
 
 ## Links
 

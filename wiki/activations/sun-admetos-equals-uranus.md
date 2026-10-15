@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Sun Uranus Admetos](../triads/sun-uranus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 To be a disturber. To plough. The grave. Sudden death.
 
@@ -42,13 +46,27 @@ To be a disturber. To plough. The grave. Sudden death.
 
 #### ABC Entry
 
-Excitement of a patient, blocked body rhythm, excited blocked person, sudden corporal disability, impulses for personal consolidation, new personal limitations, and personal deepening in technology
+Source locator: printed page 169; PDF page 83 (one-based).
+
+Agitation of a distressed person, blocked bodily rhythm, an agitated blocked person, sudden physical disability, impulses toward personal strengthening, new personal limitations, and personal deepening in technology.
+
+## Comparative Schema
+
+- core meaning: Disturbance, blocked rhythm or new limitation, with impulses toward strengthening.
+- psychology: Agitation of a distressed or blocked person.
+- body/health: Sudden disability and death are historical source claims, not diagnoses or forecasts.
+- social/relationship: Witte names a disturber without specifying a relationship arrangement.
+- events/manifestations: Ploughing, the grave and deepening in technology are distinct explicit examples.
+- conflicts/notes: Personal strengthening remains alongside disruption; technical deepening does not imply a destructive event.
+
+## Contradictions And Comparison Notes
+
+The entries overlap in disturbance, but ABC also includes strengthening and technical deepening. Witte's grave and death examples should not be generalized to every manifestation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Uranus`: to be a disturber and to plough.
-- Practical expression: excitement of a patient, blocked body rhythm, excited blocked person, sudden corporal disability, and impulses for personal consolidation.
+For `Sun/Admetos = Uranus`, the entries place disturbance and agitation alongside blocked rhythm or new personal limits. [ABC](#abc-entry) also retains impulses toward strengthening and deep engagement with technology; [Witte](#witte-entry) supplies the distinct concrete examples of disturbing, ploughing and the grave. The formula therefore includes disruption and attempts at personal consolidation, while disability and sudden death remain attributed historical examples rather than expected outcomes.
 
 ## Links
 

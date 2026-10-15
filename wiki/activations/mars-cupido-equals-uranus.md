@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Cupido](../axes/mars-cupido.md)
 - Triad hub: [Mars Uranus Cupido](../triads/mars-uranus-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,12 +44,29 @@ To find surprisingly fast new or other working connections. New connections with
 
 #### ABC Entry
 
-Community policy, economic and social cohesion, and structural policy
+An unsettled work community, a dynamic work community, a shared work rhythm, a community's reform work, rhythmic community work, exciting shared activity, and a technical work community.
+
+- Source reference: printed p. 309, PDF p. 153, Uranus row; the scan has seven work-community phrases and no policy/cohesion wording.
+
+## Comparative Schema
+
+- core meaning: Shared activity becomes dynamic, unsettled or newly connected.
+- psychology: ABC describes an unsettled working community without a specific individual attitude.
+- body/health: No bodily condition is supplied.
+- social/relationship: Rapid working connections, admission to family life and a sudden wedding are Witte examples.
+- events/manifestations: Reform work, shared work rhythms and technical cooperation are ABC settings.
+- conflicts/notes: Quick connection and unsettling activity are distinct expressions; disruption is not necessarily a broken bond.
+
+## Contradictions
+
+Witte emphasizes rapid connections; ABC emphasizes dynamic and rhythmic cooperation. They do not disagree about one necessary outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Cupido = Uranus`: rapid partnership shifts, surprise weddings, and abruptly entering a new family, group, or working network where one is quickly treated as an insider.
+Uranus specifies the Mars/Cupido axis through changes in the pace and form of shared activity. [Witte](#witte-entry) names surprisingly fast work connections, being welcomed into family life and sudden marriage. [ABC](#abc-entry) broadens the working theme through dynamic or unsettled communities, shared rhythms, reform and technical cooperation. The evidence includes new connection and changing activity without equating either with a necessary separation.
+
+Evidence: Witte PDF p. 197; ABC printed p. 309, PDF p. 153.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/MC](../axes/vernal-point-mc.md)
 - Triad hub: [Vernal Point Jupiter MC](../triads/vernal-point-jupiter-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ To be merry with others. Benign attitude toward others. To feel lucky. Successfu
 
 #### ABC Entry
 
-Glicks minute in public, my money for the public, my public law, my public success, my joy in public, my advantages in public life, and spiritual joy in public life
+- Source reference: printed p. `18`, one-based PDF p. `8`, complete Jupiter row.
+
+German passage transcribed from the scan:
+
+> Glücks-Minute in der Öffentlichkeit, mein Geld für die Öffentlichkeit, mein öffentliches Recht, mein öffentlicher Erfolg, meine Freude in der Öffentlichkeit, meine Vorteile im öffentlichen Leben, seelische Freude im öffentlichen Leben
+
+Editorial translation: A fortunate minute in public; my money for the public; my public law; my public success; my joy in public; my advantages in public life; inner joy in public life.
+
+## Comparative Schema
+
+- Core meaning: A favorable and joyful personal experience of public life.
+- Psychology: Feeling lucky and approaching others benignly.
+- Body/health: No medical claim appears.
+- Social/relationship: Shared merriment and money directed toward the public.
+- Events/manifestations: Public success, advantage, joy, and ABC's public-law motif.
+- Conflicts/notes: ABC literally names a fortunate minute; the entry gives no timing technique or guarantee of success.
+
+## Contradictions
+
+Joy and favorable experience overlap; ABC adds money and law without explaining their relationship to success. These are no direct contradiction or guarantee of an outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/MC = Jupiter`: to be merry with others, benign attitude toward others, to feel lucky, and successful.
-- Practical expression: glicks minute in public, my money for the public, my public law, my public success, and my joy in public.
+In `Vernal Point/MC = Jupiter`, Jupiter specifies one's public experience through joy, favorable circumstances, and a benign attitude toward others. Shared merriment gives the success and advantage motifs a social expression. The [Witte Entry](#witte-entry) (PDF p. 35) and [ABC Entry](#abc-entry) (printed p. 18; PDF p. 8) support that connection; ABC also lists public money and law without establishing that either ensures success.
 
 ## Links
 

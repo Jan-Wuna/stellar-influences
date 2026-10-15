@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `V/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `214`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Formula of a wealthy man, or lucky and successful manager. Bankers. Independence
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `338–339`; PDF page: `168`.
+
 #### ABC Pair Summary
 
-hesoner· Advantage.) Success through self governance, Fnrnnz Cdme, Money hierarchy, great happiness, and legal
+Esteem through money, special advantage, success through independence, successful authority, financial greatness, money hierarchy, great good fortune, state governed by law, legal superiority, state funds, and important law or right.
+
+## Comparative Schema
+
+- **Core meaning:** Financial success and independence connected with management, high office, or public monetary authority ([Witte pair summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures)).
+- **Psychology:** Independence in money matters and the role of a successful manager are explicit; no adverse character trait is established.
+- **Body/health:** No bodily or health meaning is supplied by the usable pair summary.
+- **Social/relationship:** Bankers, managers, and philanthropists connect resources with positions that organize, administer, or distribute them.
+- **Events/manifestations:** Wealth, great fortune, government regulation of money and national banks, and state justice are named settings or outcomes.
+- **Conflicts/notes:** The gendered `wealthy man` belongs to the historical source wording. ABC adds esteem through money, financial hierarchy, state funds, and law; these do not establish a corruption claim.
 
 ## Related Activations
 
@@ -106,8 +121,7 @@ hesoner· Advantage.) Success through self governance, Fnrnnz Cdme, Money hierar
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos`: fortunate leadership: wealth, successful management, high finance, independence in money matters, philanthropy, state justice, and the regulation of monetary systems through top-level authority.
-- Chart expression: prosperity operating from above rather than from the ordinary level. It favors bankers, managers, state or institutional authority, elevated success, and fortune backed by legitimacy or command, while also carrying the risk that luck becomes identified with hierarchy, official privilege, or the concentrated power of financial systems.
+Jupiter/Kronos concerns financial success with the capacity to manage or administer it. Wealth and independence in money matters sit alongside successful management, banking, and philanthropy in the [Pair Summary](#pair-summary). Monetary regulation, national banks, and state justice give the theme a public scale; esteem through money, financial hierarchy, state funds, and law in the [ABC Pair Summary](#abc-pair-summary) also connect resources with social standing and authority. The pair spans personal financial independence and institutions that govern money without making wealth, rank, or their ethical use inevitable.
 
 ## Links
 

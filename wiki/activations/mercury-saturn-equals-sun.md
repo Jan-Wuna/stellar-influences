@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mercury/Saturn = Sun`
 - Astronomicon formula: `T/W = S`
 - Axis page: [Mercury/Saturn](../axes/mercury-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Mercury + Saturn`; one-based PDF page `162` (supplied source-map locator; not visually verified).
+
 Parting person. Unruly guest. Not staying long in one place. Walking, traveling.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Tasks of a youth centre, serious speech among men, thoughts of a man, problems of young people, personal concentration of thoughts, and mature thoughts of a man
+- Source passage: `Merkur + Saturn`; printed p. `246`; one-based PDF page `122` (oriented row checked against the scan).
+
+Tasks of a youth center, serious conversations among men, disturbances of a man's thoughts, problems of young people, personal concentration of thought, a person's mature thoughts, a man's thoughts of separation.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Mercury/Saturn`; printed p. `155`; entry code `0495` (supplied source-map locator; not visually verified).
 
 A person with retarded mental development, love of travel, changes, separations. Repeated changes of residence.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Mercury/Saturn midpoint`; one-based PDF page `45` (exact oriented passage checked in the actual PDF text).
 
 One’s ego is characterized by a rigid mindset. The ability to organize ideas in a meaningful manner. Negative thoughts pertaining to one’s self-esteem. One places a lot of importance on practical thinking. Difficulty communicating undermines one’s self- confidence.
 
@@ -70,22 +80,23 @@ Sharpens your mind when your will is applied to serious communications with othe
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal will and self-confidence engage serious thought and communication.
+- psychology: Practical organization and determination coexist with rigidity or negative self-appraisal.
+- body/health: Ebertin's developmental label remains historical doctrine, not a diagnosis.
+- social/relationship: Direct exchanges and serious conversations among men are examples.
+- events/manifestations: Departures, travel, changes of residence and youth-center tasks are stated manifestations.
+- conflicts/notes: Effective thought and self-doubt are both represented; historical developmental language must not determine an intelligence judgment.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey stresses sharpened and effective thinking, while Sandbach permits undermined confidence and Ebertin uses a historical developmental label. These claims should remain qualified rather than flattened.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Saturn = Sun`: reliability, intellectual maturity, and the ability to define oneself through rigor and concentration. Main caution: rigid self-definition: self-expression can become overly severe, self-critical, or restricted by fear of error.
+In `Mercury/Saturn = Sun`, Sun specifies serious thought as a personal expression of will and self-confidence. Determination can sharpen thinking and carry ideas directly to others; meaningful organization and practical reasoning coexist with a rigid mindset or self-doubt when communication is difficult. ([Munkasey](#munkasey-entry); [Sandbach](#sandbach-entry))
+
+Departing, traveling and changing residence preserve concrete manifestations, alongside ABC's youth-center tasks and serious conversations. Ebertin's historical developmental judgment remains attributed rather than diagnostic and does not override the other entries' capacity for effective thought. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry))
 
 ## Links
 

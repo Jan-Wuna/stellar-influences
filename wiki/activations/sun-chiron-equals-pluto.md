@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Chiron Pluto](../triads/sun-chiron-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 Relentless ego problems that push one to evolve into deeper identification with one’s spiritual self. To be inwardly pressured to allow one’s ego to heal and to let go of all goals that are not aligned with one’s true purpose.
 
+## Comparative Schema
+
+- core meaning: Inner pressure to align identity and goals with purpose.
+- psychology: Persistent ego difficulties and pressure to let go.
+- body/health: Healing concerns the ego; no bodily diagnosis or treatment is given.
+- social/relationship: No specific relationship setting is described.
+- events/manifestations: Releasing goals judged misaligned with one's purpose.
+- conflicts/notes: This is an attributed spiritual interpretation, not a necessary beneficial outcome.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Pluto`: profound transformation through discovering deeper purpose and exposing what is spiritually essential beneath outer forms.
+Pluto specifies the Sun/Chiron axis through persistent inner pressure to change one's relationship with the ego. The [Sandbach entry](#sandbach-entry) describes relentless ego problems as pushing a deeper identification with the spiritual self. The consequence is a need to release goals that do not accord with one's purpose; this is more specific than an unqualified promise of transformation.
 
 ## Links
 

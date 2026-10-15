@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Zeus](../axes/mercury-zeus.md)
 - Triad hub: [Mercury Asc Zeus](../triads/mercury-asc-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 168 (exact oriented entry checked against the scan); source heading: `Mercury + Zeus`.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To be asked. To ask others. A request that is hard to refuse.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 258; one-based PDF p. 128 (oriented row checked against the scan); source heading: `Merkur + Zeus`.
+
 #### ABC Entry
 
-Others speak, encourage youth for the environment, fire messages on the spot, fiery language partners, creative partner language, partner's performance report, news on environmental performance, and local traffic management
+Others lead the conversation, efforts of youth for the environment, local fire reports, fiery conversation partner, creative partner conversations, the partner's achievement report, news of achievements for the environment, local traffic direction.
+
+Editorial note: The scan reads `Andere führen das Gespräch` and `Anstrengungen der Jugend für die Umwelt`; conversation leadership and youth efforts are retained as distinct clauses.
+
+## Comparative Schema
+
+- core meaning: Directed conversation and consequential requests take form between people and in local surroundings.
+- psychology: The force of a request hard to refuse is explicit; it does not establish compliance.
+- body/health: No bodily or medical claim is supplied.
+- social/relationship: Asking and being asked coexist with others leading conversation and a fiery conversation partner.
+- events/manifestations: Creative partner conversations, performance reports, local fire reports and traffic direction provide concrete settings.
+- conflicts/notes: Direction may come from another person as well as oneself; youth efforts for the environment are distinct from encouraging youth.
+
+## Contradictions
+
+No direct contradiction is established. The entries include both giving and receiving requests; difficulty refusing a request is not proof that it was accepted.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Zeus = Asc`: To be asked. To ask others. A request that is hard to refuse.
-- Practical expression: others speak, encourage youth for the environment, fire messages on the spot, fiery language partners, and creative partner language.
+In `Mercury/Zeus = Asc`, purposeful speech takes shape in exchanges with other people: one asks or is asked, and a request can carry considerable pressure. Others may lead the conversation, while a forceful partner, creative partner discussions and reports of a partner's achievements show interpersonal direction in practice. Local fire reporting, traffic direction and youth efforts for the environment give the same orientation concrete surrounding tasks. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

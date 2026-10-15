@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Vulcanus`
 - Astronomicon formula: `X/£ = §`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Beginning of powerful unrest, dynamic filtration force, influential new beginnings, new power struggles, sudden violence efforts, strong creative impulses, technical performance force, surprising force of fire, and technical leadership power
+- Source page: 379 (printed); PDF page: 188.
+
+Beginning of powerful unrest, dynamic leadership force, influential new beginnings, new power struggles, sudden violence efforts, strong creative impulses, technical performance force, surprising force of fire, and technical leadership power
+
+## Comparative Schema
+
+- Core meaning: Powerful will carries ideas into action.
+- Psychology: Strong creative resolve.
+- Body/health: No specific health claim.
+- Social/relationship: Leadership power and a new striving for power.
+- Events/manifestations: Technical performance; mighty explosion; fire.
+- Conflicts/notes: Witte's unstoppable language is emphatic doctrine, not guaranteed success.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Witte's unstoppable language is emphatic doctrine, not guaranteed success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Vulcanus`: The will to carry through ones ideas. Nothing can stop them. Mighty explosion.
-- Practical expression: beginning of powerful unrest, dynamic filtration force, influential new beginnings, new power struggles, and sudden violence efforts.
+Vulcanus specifies Uranus/Zeus through the great force behind carrying an idea through. Creative resolve, technical performance, and influential beginnings share that intensity with power struggles and explosive fire. Witte's claim that nothing can stop the will expresses the source's emphasis, not a guarantee of invulnerability. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

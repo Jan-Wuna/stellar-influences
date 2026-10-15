@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Sun Node MC](../triads/sun-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based; exact row checked).
 
 An emotional relationship influences the body. The strives for physical bonding.
 
@@ -45,17 +49,23 @@ An emotional relationship influences the body. The strives for physical bonding.
 
 #### ABC Entry
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- Source page: 66 (printed); PDF page: 32 (one-based; exact row checked).
+
+My personal connections, my bodily connections, connected bodily and inwardly, inner connections among people, the day of an inner connection, the day and minute of an encounter, a center for soul contacts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 304 (printed); PDF page(s): 306 (one-based); entry code: 1095 (direct source text checked).
 
 Maintaining an association through shared interests. Unions based both upon physical and upon emotional factors. The inner ties of a man.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 120 (one-based; exact activation located in direct source text).
 
 One perceives the importance of growing spiritually in terms of how one relates to the world. Fear can trigger egotism that causes one to cling to old ways of relating to the world. One feels empowered when connected to one’s spiritual path.
 
@@ -70,22 +80,23 @@ Determination to find others who think like you when meeting life’s challenges
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal involvement in bonds that join emotional, physical and shared-interest dimensions.
+- psychology: determination and spiritual empowerment may coexist with fear-driven attachment to old ways.
+- body/health: Witte states that an emotional relationship influences the body; ABC and Ebertin name physical bonding, without specifying a diagnosis.
+- social/relationship: associations sustained by shared interests and contacts with responsible, mature people.
+- events/manifestations: meetings that clarify personal goals and channel ambition through others' efforts.
+- conflicts/notes: Ebertin's inner ties of a man remains historical gendered wording; Sandbach adds empowerment and fear within spiritual development.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin's inner ties of a man remains historical gendered wording; Sandbach adds empowerment and fear within spiritual development.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Sun`: confident alliance, purposeful relationship, and the ability to grow into vocation through conscious cooperation. Main caution: ego invested in shared role: identity can become too attached to recognition through partnership or to being central in a collective purpose.
+Sun specifies `Node/MC` through personal bonds that involve the person both inwardly and physically. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) join emotional connection to bodily ties or shared interests; [Munkasey](#munkasey-entry) describes purposeful meetings with mature people who help clarify goals. The association has a direct place in how someone acts and develops.
+
+[Sandbach](#sandbach-entry) adds that spiritual connection may empower this engagement, while fear can turn it toward egotism and old patterns of relating. Ebertin's male-specific formulation and Witte's body-influence statement remain attributed source claims, not universal gender rules or medical conclusions.
 
 ## Links
 

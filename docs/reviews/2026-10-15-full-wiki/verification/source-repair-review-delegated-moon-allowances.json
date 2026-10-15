@@ -1,0 +1,1423 @@
+[
+  {
+    "path": "wiki/activations/moon-moon-equals-admetos.md",
+    "before_sha256": "75144798bd5edf04714a9c867913dd5910ecae500303675ca2e350a31e9ac7ec",
+    "after_sha256": "b59bad671c60bd669614bb898b8c062c2d03fb41ddb3f17b86bacff2cdb1c6a5",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte admetos row begins 'Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The clos'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-apollon.md",
+    "before_sha256": "e3f8ff413c6a448de2eb11f7ac971039e4192860c7db1068b6c6d5cd42348581",
+    "after_sha256": "ee2a85a31a4af81c0e9db8b7ef93d08e8c21a78fbae5d4ead8bcd2c19a4b1c45",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte apollon row begins 'Experience. Many hours. Multitude of a people. Spreading of a people. Many nat'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-asc.md",
+    "before_sha256": "b667a6d4a884ad086ddd78ea25ce198c88e3c2316ba19e1f53c0818d0020ad4b",
+    "after_sha256": "dd5614d03d3f9c745b752d573482c26eae865295b9f7bb9cbf72185c0c63d345",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte asc row begins 'Acquaintances with female persons. The people of the closer surroundings. To b'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-cupido.md",
+    "before_sha256": "f2fc0f42cf6940ed61696ff010ff9998d7f45164dea452025e55fd72f5941327",
+    "after_sha256": "092909f89bbc287f3dab2d6c9fe103ddb39f1ba003a6a715b020a9a25b97cff6",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte cupido row begins 'The bride. The wife. Mother-in-law. Hours of leisure. Shaping. Hours of relaxa'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-hades.md",
+    "before_sha256": "aefd9b148ad02929afaa67dd929b279b2c7bcc8b0979ac92e446803ebd22882a",
+    "after_sha256": "00861e79a9ffeb70c2b4d0a3b437a54daf3ed045f19075257fe6806cb1f8b90a",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte hades row begins 'Resignation. Woman alone in the world. Uterine diseases. A pitiable woman. Poo'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-jupiter.md",
+    "before_sha256": "b250ca04233d5e05c357a88ba0b81ccb96edf23a8fa5339f2ced4bbcfff33164",
+    "after_sha256": "5e16cd7c7f1e22c92901981eb8b153851bde563e4904700bb1c9e79cebb3f2a2",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte jupiter row begins 'Faith. Happy hours. The fortunate (happy) woman. The fortunate nation. Happine'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-kronos.md",
+    "before_sha256": "c09d7658fdf224c6027712f646978dc4bf1ca611e5786d2db584a8ab62466ff4",
+    "after_sha256": "dffd4eca743e95ff470f1244a1723c6c034170057ee46f27d5f36f1a15e16e76",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte kronos row begins 'Greatness of mind. Noble minded. Independent minded. Landlady. Housewife. Inde'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-mars.md",
+    "before_sha256": "87057403e683a4a96993ad181c532e39cb5a5165fa80ffeda55b040bbe46c162",
+    "after_sha256": "b6d89f1f48ab80ee31a6b0c4a9684dae7ea0dd0cd459742e7d638d6bd3a77eb1",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte mars row begins 'Consciousness. The active brain. Working processes in the brain. Acts of volit'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-mc.md",
+    "before_sha256": "c1e51d60d2a5eb80ad85c2278be3e928b06ad17656f29cced369fe81c578b3b1",
+    "after_sha256": "1596526970743dfd28a7d5ad8fc001ff4336759530318fa592fecf0828d3d025",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte mc row begins 'The psychological influence of women. One’s own mind. The own attitude towards'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-mercury.md",
+    "before_sha256": "47ac999dc5a1cc1658b4c56bb5496ebe8fe4abec9cd690c75e3d338b202ad578",
+    "after_sha256": "44cae96fb31f9623ac700f19411c3939e21091724645ea2d32e23213e3e23254",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte mercury row begins 'Motion of the brain. Thinking capacity. The memory. The imaginative power. Sup'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-neptune.md",
+    "before_sha256": "08e38c06c3424ba122960b4925be9139872b6cfc21153012763e0e03a3c150a7",
+    "after_sha256": "56f1a00f43ffee525b820c7b1b1e11d5c8b357f14e9c482e1f7966f9818e87eb",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte neptune row begins 'To fall asleep. To dream. State of dreaming. Cerebral state of sleep. Not quit'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-node.md",
+    "before_sha256": "052244222c5193c2ca9c6769e7862a832e3f2c77cbbbd13790fcc251c8d391b5",
+    "after_sha256": "2f418cfc9cf3f544f1e75130757ae162024f44f15fbe11ca5b84d3d990d0bf85",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte node row begins 'Unions, associations and connections of women. Much change of connections. Peo'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-pluto.md",
+    "before_sha256": "80143a869c0e7ce932fc5028bad75014f0fc64ec17503bc1cfe4abe698035b4c",
+    "after_sha256": "6eb8f1c44f39793e1a0f3e365a15fe887afae00c92c9eed07f5f7482a42e6800",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte pluto row begins 'Development of the brain and the glands. Cognition. Public changes. Unstable c'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-poseidon.md",
+    "before_sha256": "393c6d1b0af0eeebe4a3bddfc5fc9ca0c1fc431c5308e5e923ea3d20999682fe",
+    "after_sha256": "7747fb266a53a9e2110d9457e06bd6baa7b35dc299dc61b4da7da25b0e712d06",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte poseidon row begins 'The influence of the spirit upon the soul. A people that is receptive to spiri'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-saturn.md",
+    "before_sha256": "c79831c2d3be255a4e7dbdb662075e359e3a4e68355eb33409df5324b102bc69",
+    "after_sha256": "82b9988f7b018df8a12b1e7a76a35656bc88956db980b438c7cf116f1dc14bee",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte saturn row begins 'Restrain. Separate. Despair. Depressed mind. Old, single, separated or unhappy'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-sun.md",
+    "before_sha256": "33f5779498543fb1e297935f888f7df0e5781dbdb18d4780c2620ba53386d705",
+    "after_sha256": "37d821b2869ef0f70f83d0462ef65f578b6dfd0b0f28a9091e52af28956fc0e1",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte sun row begins 'Man and woman (husband and wife). Marriage, parents, friendships, partnerships'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-uranus.md",
+    "before_sha256": "90974e3325277de360678c8c6dc1f6bc6aec251cd666c9109a34a93cb5936b72",
+    "after_sha256": "0c58e68abdd0d0e13158e11a0b816652841bc456e728b296cc0327d44e633d3d",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte uranus row begins 'Awake. Rouse. Excite. Vibrating motion. Interest. Attention. Restlessness of t'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-venus.md",
+    "before_sha256": "1d3296c54657e8d6bfa4d4c7707f222ed443835b04cf810847ff98f8309b1dfc",
+    "after_sha256": "1424e1b26676160f0c1825aa592c008b9d7998aa87592faf2d5196fced3ab0c4",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte venus row begins 'The feeling. The love. The loving woman. Hours of love. Pregnancy. Motherhood.'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-vernal-point.md",
+    "before_sha256": "be4a52166eb3a974097734c485967807bdaee87cb9ff159fa0f1321af975d927",
+    "after_sha256": "b2923367f6ac1e64c539ba21a91cec305be161b67b93b86515972f681c0bad96",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte vernal-point row begins 'Concerning female persons, a people and countries. Nations. Public. National c'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF119/printed123. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf119.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-vulcanus.md",
+    "before_sha256": "c45427cfac56c4eb9e67952f8bd057b4396f39041405f411e63d48d4e01e9cf8",
+    "after_sha256": "5c8c5869d4e1aabb03107733dd9b3579eae93491ea659615b7c06f9c141a6ec8",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte vulcanus row begins 'The mighty mind. To be Powerful. Consciousness of power. Great sensation. To a'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-moon-equals-zeus.md",
+    "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+    "after_sha256": "5d1913dba2bfd34fd3a22d8bd257cfdcea3356651d78fe4f3342df251b8e3585",
+    "ledger": "activations-045.jsonl",
+    "reason": "Locator-only change; the complete unchanged Witte zeus row begins 'A creative mind. The hours of creative work. Discipline. Hot blooded woman. Th'. I compared both full Source Entries sections and the owning ledger, and personally inspected its distinct glyph row on actual PDF120/printed124. No paragraph, wording, translation or boundary repair is included.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-witte-pdf120.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-admetos.md",
+    "before_sha256": "378c48331039c397a198e5a8f561660837b33db99785b2f8247081a34cfdb24c",
+    "after_sha256": "ddd27f16e61a93cfc65dfc281fa2fe29e520b9b3abeb2a250b250f8336d10419",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-asc.md",
+    "before_sha256": "25b2204e3af20d5c81f2f4bb7ff0aae06c30868e574bf32d5adabec35844bbf1",
+    "after_sha256": "cb14f5e80fdeb1b999b204c0d5d5e112473ee544d955e793fd152881c58fd8b3",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-chiron.md",
+    "before_sha256": "e0c9cb6f0f03448d78e58772f2aebb2a9e3ebf64e5b0277ec9d1b6e3b1163d67",
+    "after_sha256": "0edb92afd2e258278903acd653962432be3c31467ee0d2f713ad38db22d3d814",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-cupido.md",
+    "before_sha256": "5bbc61e680f27dbf61fd956c55ffc600390168ced5aa969c90f337a8a506f7ce",
+    "after_sha256": "a18f2b5f16248bed59c119b46b5a9032cd47d4b00fa53847217a613061106390",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-hades.md",
+    "before_sha256": "2463c0170789876d299460427fa8a4d719f17ef3c54978ce8977dfa67207f597",
+    "after_sha256": "fd9f4463265ac38aa67810c7242efd9c66a541db9bddad62ade73f16d8adbe8b",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC Entbehrungen=privations, kummervolle Gemüts-Verbindung=sorrowful emotional connection, gefühlvolle Beziehungen=emotional relationships; all seven clauses match the same Hades glyph row. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-jupiter.md",
+    "before_sha256": "f210c5773503363b50abf8a2f399c515be8018c38e2d09012f1d1c33cd88a6bb",
+    "after_sha256": "13586df338a4dec9904ebb94650d9cf4bd50aa7498692345af0a5d3996276ce1",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-kronos.md",
+    "before_sha256": "00254d8b197d0ce733113b545126f1fa9b161c78d4cb7c568ccce175f2496c06",
+    "after_sha256": "86272be5b34ec59c91c797054f5c5cceb957ec4ea6c8207816328476f5b5b668",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC besondere Gemüts-Verbindungen, große Volks-Verbundenheit, selbstbewußte Beziehungen, Vorrang der Gefühle establish emotional connections, attachment to the people, self-confidence and priority of feelings; all seven clauses retained. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-mc.md",
+    "before_sha256": "537c52aac6c82e803cc6f5d4f6480fb1ae1418499170920c5c2ef4cb9ce87453",
+    "after_sha256": "ca846030fb81d30f52dda7f42bd2d4ed296cc714f237a548bcdbaaebe30db569",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC complete eight-clause MC row restored: mother contact, woman’s relationships, emotional relationships, women, people, maternal bond, hour, wife. Ebertin0433 ends after soul union on actual140; next-heading contamination removed. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-mercury.md",
+    "before_sha256": "8d9dd86073c4e534134197fedc672ec9a78a3108da7565f175612c1894ea8a99",
+    "after_sha256": "53250b946d15d69c265da53ba0d0923c048158239dd18287d8f63e6709841fd0",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC Völker-Verbindungen are connections among peoples, not parents; verbindende Gespräche and Verbindungen einer jungen Frau are separate clauses. All seven clauses now represented. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-neptune.md",
+    "before_sha256": "a3d75ca2538c0d83668084f6ebf433a97760f0850c918e9dd9f0c1d1c868b4b2",
+    "after_sha256": "89edb06574a2aaf0a801b9d21a0d22412c5400d1051424ad26354af54a3059a1",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-pluto.md",
+    "before_sha256": "2345cf51018d85d2692443e1b41a8e5f7642585be5e3643784539b8459982fd7",
+    "after_sha256": "06942282306ac30942719bb29428d35dda6ec9ab339cac3f7663cf51efc53642",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Locator-only additions; all pre-existing source wording retained. Actual distinct row/label and locator verified for each added reference. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-poseidon.md",
+    "before_sha256": "acfd9aad07dd38ef8a4853725909013a00b371ca41d0eaffa71c2f047786f48f",
+    "after_sha256": "b272dc6a0f5fcd904e537bf361fd2cffc22dcc3c2d01a25a9de237d177a14fe7",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC vernünftigen Frauen=rational women, Völker-Verbindung durch Ideen=connections among peoples through ideas; seven clauses preserve cultural/intellectual scope. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-saturn.md",
+    "before_sha256": "d60d54c503c708282b439979c9b1a5703d5c633781ca6de6af4d8fddc7f7f2d9",
+    "after_sha256": "dc68ee32ef0e4c29cf8a98d787dcbb50e849dbbc4ba24f81950a65d3be306ba6",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC gestörte Gefühls-Verbindung is disturbed emotional connection; complete seven-clause Saturn paragraph retained. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-sun.md",
+    "before_sha256": "21e62e24343db5e1af560c51d2f5d8dcb12420401afd99c96d5a5ef4a5b02154",
+    "after_sha256": "24c757a0d141e947eb10cb410c04145df2f2420bb8a3251fafd61872ed03968c",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. Dash-only ABC artifact replaced by actual seven-clause Sun glyph paragraph: male/female contacts, people, personal maternal/public ties and day/hour. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-uranus.md",
+    "before_sha256": "e128790b5243c42b6b2a5b374fd93a86d7da42de5ef5c1b8b3b4c0273a8224cf",
+    "after_sha256": "bd0ded5d39d5584db3823ed6b46b6a365436fbab09c0afd253c45073baa75c85",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC eventful Völker-Beziehungen and gespannte Gemüts-Verbindung are eventful relations among peoples and tense emotional connection; Kontakte durch Gefühls-Beziehungen preserved; seven clauses match. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-venus.md",
+    "before_sha256": "03fc46c9dbef2014dd0c54f554171d753fa8dd220a50809012956ef4eef12a8e",
+    "after_sha256": "31d35408b6668184b926f5333b406bb89f3aeaa9e3ad6b53aab6e5c70bc6c089",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC Verbindung der Gefühle means connection of feelings, not communion of flesh; Volks-Kunst is folk art. Complete seven-clause Venus row preserved. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf140.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf39.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-vernal-point.md",
+    "before_sha256": "20680ed63ca34904738c7a65ee8473a16d0118f7bac7e444bccdcfd8b202ff59",
+    "after_sha256": "39d07cb9ebb5ebd923d7cba51f10f3ff050eae6dabf1c8b254353625c99bdb95",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC public-life Vermittlung/contact/maternal/hour/peoples six-clause row replaces unsupported Women’s rights; exact Vernal Point glyph and printed174 verified. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-vulcanus.md",
+    "before_sha256": "433262cb2370831a882e9dd4d07300cacdc8f15bc3e6d8f534869310ef9fffc1",
+    "after_sha256": "f96e5cc4a58b2b1d54fee03e8618774890be27fcd0848ed7105f1ab948670be9",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC complete eight clauses restore Gemüts-Einfluß in Beziehungen emotional influence; Völker connections and strong maternal bond match. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-zeus.md",
+    "before_sha256": "5a1a5987f3ef9e76f48fcbb41c3874bd54e52f63219e10da923446f3c78ea23f",
+    "after_sha256": "1e8c9a776a28c7943abb8f04ad65decfd7cd5706f2b0ad1df9355c65c142984d",
+    "ledger": "activations-046.jsonl",
+    "reason": "Full before/current Source Entries and owning ledger read. ABC anstrengende= demanding, schöpferische Gemüts-Verbindung=creative emotional connection; leistungsstarken Volk=highly productive people. Seven clauses match. Witte PDF121/printed125; ABC PDF86/printed174–175; Ebertin PDF139–140/printed137–138; Sandbach PDF37–39 as present. Unchanged Munkasey text/reference retained without a new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-admetos.md",
+    "before_sha256": "e5345372263799020e2ed069d7d8441a2afded1c480d8f6e6a522a3eb3c40b1d",
+    "after_sha256": "96ebfcf41fb3dcf3d64b5db54f76e84cf23a647d74f52fa003b61ab94bb9dced",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gemüts-Veränderung and gründliche Entwicklung restore emotional change and thorough development. Kreislauf remains explicitly ambiguous; no circulation/cycle certainty invented. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-apollon.md",
+    "before_sha256": "1bb99b260f51eef4ba08e48302eef1845bc1dffa9361be6b2f30b80c89819d75",
+    "after_sha256": "5be49b5f31c452859d65bdfd548d017ae3b986dad66b4ca63b47ab7dd3038100",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gefühls-Wissen restores knowledge through feeling in both distinct occurrences; all seven clauses remain. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-asc.md",
+    "before_sha256": "91ddd2b366fb08b3077e10fcd17b768b984dde2065ffc3bec51fb3b3a25a79a8",
+    "after_sha256": "61a8ae1c6156cd0fed1287ec4c16983655a583396db49db88fc72222e953769a",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. All seven Asc clauses restore partner changes/hour, local emotional transformation and other Völker, not merely other people. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-chiron.md",
+    "before_sha256": "6f880c8d843f2a5439a3d58cbc3433fe6a3279c70e1a2fd20465ec7d9850aa03",
+    "after_sha256": "41e41a428704f5fce3b3320c5ab979f4a48893ccb87ecb2e8e7d69821d22d189",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Locator-only change: every source phrase retained. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-cupido.md",
+    "before_sha256": "101380ba6bd8179e0cbefd6d869c7d7f0f7cf71aa177bd25079e2b00642157ce",
+    "after_sha256": "c769320f908b19ab54df9c1b6707e294705fca03f79a5399b133410bc1d6f957",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Locator-only change: every source phrase retained. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-hades.md",
+    "before_sha256": "fd69bb35859760ec000a97794871f2835ef8464e9082293e16449b0c6a089e81",
+    "after_sha256": "13010b8e71355877e658dec6fc452f5cc345777c0d23a3e927c09dbe491b7402",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gemüt means emotional nature, not household; Gemüts-Kummer is emotional sorrow, and Verzicht renunciation. Seven clauses match. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-jupiter.md",
+    "before_sha256": "cc6cdb7071d1bfcc32c39a4d68fde126fdda20a838d0047ac5735443ba506dcb",
+    "after_sha256": "955c15a0cd31f3e0ee2f326b930c1d87844d6d54f110b2d5d2ca48d448a3e334",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Glücks-Gefühl is happiness and Rechts-Gefühl a sense of justice; complete eight clauses replace damaged atmosphere/legal-environment wording. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-kronos.md",
+    "before_sha256": "562356a270e60d98c6c820fb1f801122506f5bade5efcf04c6dc209c4a9823cc",
+    "after_sha256": "a51ae2a54ae75730fd948f74d749150f7b5640ace4f4444755202e967d48a46f",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Besondere Gemüts-Veränderungen restores emotional changes; Selbständigkeit is independence. Seven clauses match. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-mars.md",
+    "before_sha256": "6b25f23f0c45ac1491fcb56dbf0ea9f4cff15b7d8d9394e739312f584bfefa21",
+    "after_sha256": "93cde01dbcd7a596427c9b225b56a290920898aa0fa359fecf1fae08b0fd98f2",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gefühls-Handlungen and Gemüts-Handlungen restore emotional actions; Tatkraft energetic development and Schaffen productive activity remain. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-mc.md",
+    "before_sha256": "cb883362c53fe35f8afedf57f7b39b0d8fd866b5ecacd299db27ed6a9575c489",
+    "after_sha256": "f4ec291d4fca8dbe39d3f84e99b1c0ed47c10795fd66fb30d8e116edc626d2d6",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Entfaltung meiner Frau and feinfühlenden Seele restore my wife and sensitive soul; nine distinct clauses include hour/minute and people’s soul. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-mercury.md",
+    "before_sha256": "8af919dcc88532456423b40ba8dbefd508856d91960d577ebbfa97242aef1952",
+    "after_sha256": "8aab8cbc7a957c0507bb4615d59eba8f91c7c5f0f5b243aef24680c3023d42c0",
+    "ledger": "activations-046.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Sprach-Gefühl is sense for language, Gemüts-Veränderung durch Gespräche emotional change through conversations. Verkehr remains explicitly ambiguous rather than asserted traffic. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-node.md",
+    "before_sha256": "55b3b1961cdacf7eb93e5f64d925bf1365c1f7f5a4fb8f8aad987f15023cdb7d",
+    "after_sha256": "d9cbcca62c147930483cdb37c1957618502643842019196ba696def275da7f9e",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gemütsbetonten/Gefühle/Gefühls-Entfaltung restore emotionally significant ties and feelings, not realms or environment; six clauses match. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it. Fresh owner locator-only follow-up: exact Sandbach paragraph starts36(Sun/Venus), crosses36–37(Saturn), or is on37(Uranus/Node); added reference matches the personally viewed raw pages. No other source text changed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-poseidon.md",
+    "before_sha256": "b4ca108b52109b13d9246e3df3056a0a4f91b38ccbb3ead6b6231dbb1a47ffc8",
+    "after_sha256": "60ce572f927471ad97ccf2457ee67d193fa66db79bae0bd4c48481d73808eddb",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Klarheit der Gefühle is clarity of feelings, not life. Seven cultural/mental clauses preserved. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-saturn.md",
+    "before_sha256": "85b15d0b217a90ba1c018b9f9e68e30b95d2e247ce9151d2a43e5c5a9578b6a2",
+    "after_sha256": "b37cbbf36172cbeefcc95b4f65f3c079d25b5fd197cf32aa728985cd042add31",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gemüts-Probleme and wechselnde Gefühle restore emotional problems/changing feelings, not changing lives; maturity and burdens retained. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it. Fresh owner locator-only follow-up: exact Sandbach paragraph starts36(Sun/Venus), crosses36–37(Saturn), or is on37(Uranus/Node); added reference matches the personally viewed raw pages. No other source text changed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-sun.md",
+    "before_sha256": "20777f8ad52971a927e910e57fcc307f0ab94a8323f9f232f96a31db737b67aa",
+    "after_sha256": "c7512671f26cf35164a7f9b8486212b04eda34bc27d29af5cbaa3fa3a44ddbc4",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Persönliche Gemüts-Veränderungen and Gefühls-Transformation des Mannes restore personal mood/feeling transformation; seven clauses match. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it. Fresh owner locator-only follow-up: exact Sandbach paragraph starts36(Sun/Venus), crosses36–37(Saturn), or is on37(Uranus/Node); added reference matches the personally viewed raw pages. No other source text changed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-uranus.md",
+    "before_sha256": "35d58425f45dfbef7b54f1508f13eb648b5a28bd4d6612f377d619b5cffb6bb6",
+    "after_sha256": "e6138965ff4299400b6882c4d16caf2b3b8763bcb4f319dc94e2e7db6330bd27",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Gefühls-Entwicklung and wechselnde Gefühle are feelings, not environment/fluids; public reform and technology remain. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it. Fresh owner locator-only follow-up: exact Sandbach paragraph starts36(Sun/Venus), crosses36–37(Saturn), or is on37(Uranus/Node); added reference matches the personally viewed raw pages. No other source text changed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-venus.md",
+    "before_sha256": "0718dbfd7387d4a24d1cd11534e25c6d40ad84d2d4825e369185665c1407bb2f",
+    "after_sha256": "d392bab8dd3db51c12b28911d463e9c88bd9ded9f90ecf17b036f5fe8dd4c918",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Volks-Kunst im Wandel is folk art undergoing change; eight clauses retain uncertain love, not a uniformly favorable account. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it. Fresh owner locator-only follow-up: exact Sandbach paragraph starts36(Sun/Venus), crosses36–37(Saturn), or is on37(Uranus/Node); added reference matches the personally viewed raw pages. No other source text changed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf36.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-vernal-point.md",
+    "before_sha256": "bf5b0ff2c134d019d5ec4bf1887d7310cb27bead15dbc7dc58c769222dc51473",
+    "after_sha256": "bbdb2c6eb60d14daf9af89d0b940c189fdfa81779ef5c105505b9ce9c9fc55e7",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Entfaltung is unfolding, not execution; five public-development clauses retain changeable public feelings. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-vulcanus.md",
+    "before_sha256": "d08187e42c37744add11910d04695ca08e1786281615849ca46d8b5aa44bcc00",
+    "after_sha256": "6f417e783defbfc6506d70aaa3df21e85582c138953301954114e9904d6421f8",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Locator-only change: every source phrase retained. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-zeus.md",
+    "before_sha256": "5e4ffbf46472ae65f31446f4b3f34f6a036b02ff424d54c73437153940059d93",
+    "after_sha256": "92b8ea2b8fbd048916518c8d81282dd6ed37af396e27877f8ca5ab70c724899e",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section and exact reverse diff reconstructing the complete original, plus owning ledger. Beginnende Gefühls-Entwicklung means beginning development of feelings, not ailment; seven clauses preserve achievement and procreation. Actual WittePDF129 distinct glyph, ABCPDF94/printed190–191 full oriented paragraph, EbertinPDF137/printed135 and SandbachPDF36–37 as present were directly checked. Unchanged Munkasey content retained; no new raw-source claim for it.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-admetos.md",
+    "before_sha256": "0c374d92a687008d1eb4bddc70189dc3e14e1e70eb823596b60df390cebd7cf3",
+    "after_sha256": "1e86384d45c31e2054b8f1f77b0d0964c9b2f5d00b98c94c641de84c77e3efc0",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Gründliche Geduld, schwere Schmerzen and blockierte Gefühle establish profound patience, severe pain and blocked feelings rather than grimness/refugees; seven clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-apollon.md",
+    "before_sha256": "aae85bf18573fbefe3dd55712aa725a2757ba82f6d915d13b263ab3c21bcb581",
+    "after_sha256": "c70f167934cdfe9211e76a1e3edff17000855c9c1fdd91e4b056d7a5fe6d2217",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Gestörter Handel is disturbed trade, Vermehrung der Gefühls-Störungen increased disturbances of feeling, not urban trade/faults; eight clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-asc.md",
+    "before_sha256": "ee8c8f885a2a1cb7eb72a3cd25cdf5f8a76292a24b3a9ef0d386a3b1e2da7e90",
+    "after_sha256": "fcf18fff271736d3265ef2dd8a505120efc597c5339365315f14c3bbbde85471",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Locator-only additions; every existing source phrase retained. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-chiron.md",
+    "before_sha256": "1018e6cf5bba9bab683707ccb621460cc4f3c462d2206d837896899fb08ff647",
+    "after_sha256": "891369c93a07b7bbe7d7249d5d94dfe6a2345a52475667599b7affd5923360bb",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Locator-only additions; every existing source phrase retained. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-cupido.md",
+    "before_sha256": "0c1a7eefe5350424c65b96761166b7d0d87a05b9af92a38149d3fd8a44c9072f",
+    "after_sha256": "0705a9bba12793170b60364a6ab40161f34f7b251ed8fe3b1e2ea6b9ab060a39",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Gestörte Volks-Kunst restores disturbed folk art; eight clauses retained. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-hades.md",
+    "before_sha256": "14070dc6981204bc280996a1a1d25adb3401f51358f6af5390efb5264739d7bc",
+    "after_sha256": "9f0932452f96d3134750280cb89013593dc3736ad67da766a0031bfd5027bf04",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Nachteile durch Gefühls-Störungen are disadvantages through emotional disturbances, not loss of life; eight historical clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-jupiter.md",
+    "before_sha256": "0396b74142ac5d6d9229852d8d6cafc9cb154681ac594afa2619297456ebb27c",
+    "after_sha256": "7ce7581bdad5c23b0bba512b968d797f56a85224e5a352d9e87713c4e778415e",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Glückliche Frau im Alter is happy older woman, not glimmering; legal problems/rights and patience remain. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-kronos.md",
+    "before_sha256": "66a5a9d20b14bf1b41fad08d49c8f94e40fd7960b52a434ec5dda74d04e0cfa6",
+    "after_sha256": "688143844c3d734f91a2f5f3e9f624d24c7f1660fdc2270b9ef4780a44a5d4e3",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Locator-only additions; every existing source phrase retained. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-mars.md",
+    "before_sha256": "2a7a7a947a9768252c3c4a27977c484d6f1bbf28a076db4c5f12800682cbae8e",
+    "after_sha256": "c66185f449a7e4a791db39a4f77f59ff1f48a904af06b8261b0106dd5ee57f89",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Ernstes Schaffen, gestörte Gefühls-Impulse and Schmerzen behandeln restore serious work, disturbed emotional impulses and treating pain; nine clauses retained. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-mc.md",
+    "before_sha256": "84b8875cb7fef4626e4ac0100253b0b4dd67051c999434538dafc3c27af50100",
+    "after_sha256": "abd18fa3921be36e11b50c0a313e805bb6ce59a1decaf73a8f805cc09c0e895c",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Complete ten-clause row restores Geduld meiner Frau and gestörte Gefühle der Seele, plus inner emotional burden and separation. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-mercury.md",
+    "before_sha256": "a343faf34c88d26fe6403704267b645836f9e91ef880f739f43b490b40537ee5",
+    "after_sha256": "dce2e022f51466b2adca47a0ceee48d5c2280a7db21a0cbbcdf7231feb2882a9",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Ernste Frauen-Gespräche and Gefühls-Störungen besprechen are serious conversations and discussing emotional disturbances, not language/cancellations; seven clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-neptune.md",
+    "before_sha256": "ee96146c0ce4b3cb8bd33fabadcf4720ba6248110e35cd003befb4b39cf3aa41",
+    "after_sha256": "5f65f7f130767a55c192baa07fd58c447ef6f4d2c16027239dde107918f70348",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Exact Neptune paragraph ends Unsicherheit durch Trennung von der Frau. Its seven clauses retain water/air meanings; the adjacent Pluto paragraph is correctly removed from this row. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-node.md",
+    "before_sha256": "7a01a9f528e82f12813b49d97d82e8df1a8f1d492f9d0f044d6bda39fed8a9b0",
+    "after_sha256": "912d0eabd5f93f9ca4742dc55160da46233481045fcbe39f15e27f6dce37526e",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Ernsten Frauen restores serious women; six connection/evening clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-pluto.md",
+    "before_sha256": "e9f536179840c79663cb69b99a525f77bcdbda6663b5aef727b7f2c1c5bd71ec",
+    "after_sha256": "ca4a325e1430a4467b59cc31c4f9c986aa68aedd351745d4a8f7e84894200aff",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Exact Pluto paragraph restores the missing evening/pain/disturbed-development opening; seven clauses retained without borrowing Neptune. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-poseidon.md",
+    "before_sha256": "88b51bd605e4ec90e17ebae92eb04d55d1488ff7723eb9c8621490984189b000",
+    "after_sha256": "21cc67333c53a08789661f0bbea8bd9ae92983d46004bab1aa56579537cfc267",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Belastende Erkenntnis and reifen Frau are burdensome insight/mature woman, not contamination/cowardice; eight clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-sun.md",
+    "before_sha256": "722c8ce71daf795b6d4cf0e133087b1d37d107ce413d3ad367d57fa9a0837c67",
+    "after_sha256": "d7f5828a51ddb65bab9ab52da26150e4bc94b8791b946b37a101078a3e02f01b",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Frau eines alten Mannes and Gefühls-Störungen des Mannes restore old man’s wife and disturbance of man’s feelings, not loss of life. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-uranus.md",
+    "before_sha256": "dd469a6290297cfd27df1690a095807969bd50f64c73570513cd7a0015d55ef7",
+    "after_sha256": "9d3c0dd8eba53385b8efe6acdcf2fa2e1a69cba2939eb7ecdda4ef482c342ae3",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Ernstes Ereignis is serious event; nervöse Gefühls-Störungen is nervous emotional disturbance, not collective collapse; eight clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-venus.md",
+    "before_sha256": "1690d7d03ea4bb0d79b3916f9c3c801f2ef232edc78e07e93b962646f6ff64b4",
+    "after_sha256": "4f8d326abbf02bae6afa4b8a47ed7fc2bfb18c62452501731e0245e4f5d1fac9",
+    "ledger": "activations-047.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Gestörter Frieden, Harmonie-Störungen, schönen Frau and Kunst restore disturbed peace/harmony, beautiful woman, art rather than kiss; eight clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf128.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf31.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf32.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-vernal-point.md",
+    "before_sha256": "72e8bfecb6acab9e8dedb7cf15d1f67ffcc0edb47d81e078da7a10f933dd7915",
+    "after_sha256": "2f54117caef74cbd986933ceba6c3945b666411664001807ae9fe2f76c498f98",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Complete six-clause public-life row restores emotional disturbance, exclusion and public losses rather than invented service termination. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-vulcanus.md",
+    "before_sha256": "8d40c2eb4c243f9b2c159457c8f53a1aa36751f792e371f938a5a67962347bf5",
+    "after_sha256": "fc812fdfaeb5021f9a823b38a6073e794924375fe3aa876f2759bcefcc1a5799",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. All eight clauses retain both forceful separation/violence and strong Gemüts-Belastung emotional burden, not militia load. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-saturn-equals-zeus.md",
+    "before_sha256": "8593788f36d97a197f0b6e348c9409589b61f0053bf5632c6c3508cdda0e14c4",
+    "after_sha256": "6c1ec6cfca429803c3ecd39e331627f1086b4ec52d0c9c2ad6dd9f87616a9359",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, exact reverse diff reconstructing complete original, and owning ledger; actual scans personally viewed. Ausdauernde is enduring, Frauen-Führung leadership, Trennungs-Streben striving for separation rather than stress; all eight clauses match. Exact oriented rows/labels: WittePDF126/printed130, ABCPDF91/printed184–185, EbertinPDF128–129/printed126–127, SandbachPDF31–32 as present. Unchanged Munkasey retained without new raw-source claim.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf126.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf91.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-admetos.md",
+    "before_sha256": "7476960b04217e75116189eeee9b816fb2bb7988253772e9a51daf9b71723783",
+    "after_sha256": "203a369c66e957962cafd660f507c31979c845bf9dd394e3e4c6e8541877507f",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Gemüt and unterdrückten/unterdrückte restore feelings, oppressed people and suppressed emotional impulses; seven clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-apollon.md",
+    "before_sha256": "8f74faec6b411673dc8b7867d9e4f215a76e2af79ad9288c3c3ab3e1221d0b57",
+    "after_sha256": "31a7c5d5f23f9cd9e61c1a7a4f7ef9655ce7ddf6e5d1b9baca1ce94b431d61ec",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Reform-Erfolge and Gefühls-Wissen restore reform successes and knowledge of feelings; all eight clauses retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-chiron.md",
+    "before_sha256": "5e1421ae58b1ef5b5dc09e37aae4e02917e2dd679adffa7b59a0c72da5d56d38",
+    "after_sha256": "5b1331520f7c06e8dd663e182fa085f25e150f675524b343195c2c4ca6d6aa44",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-cupido.md",
+    "before_sha256": "31be97713bf14dc3f57b91ad0ea63177fd1a01c5d33a5e72b4de54239f420e9f",
+    "after_sha256": "ea40a5e19e03ac15e2ccfbe8699464742a6ab3373f0594f7ed29de72bdf094ca",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Neues Gemeinschafts-Gefühl is new sense of community, not new community life; seven clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-hades.md",
+    "before_sha256": "c41d72739f875d75f155d692ee17a824aad04ed990dae40ba31a5a4639da9c1d",
+    "after_sha256": "7dcc286888daea7184120f68487c2c0087f9851693d5e2761cd0b7e9018c6328",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Gemüts-Kummer and Erschwernisse are emotional sorrow and difficulties, not heart/silence; seven clauses retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-jupiter.md",
+    "before_sha256": "74b9805c64322c99103fba35ecb22cdedceb7be504dc5facf2b044b7ee4849e3",
+    "after_sha256": "2e939b84678e78175a32f67b98e7e31bc0bf2edba8ab07f39e34bd799f6013b5",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Glücks-Gefühl and überraschendes Glück restore happiness and good fortune; Rechts-Reform is legal reform; eight clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-kronos.md",
+    "before_sha256": "db5e83dd61cd9e19ad182e8e423194606ee5da4a720b79411fbc92ad83c6815c",
+    "after_sha256": "1faf0ff41838028cb1a40bbf4c242ebf6c03cc291aee32a95282a71d8ae7c42d",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-mars.md",
+    "before_sha256": "de4de3f36e320d1c6cffd43cbb96b4c3cc25b65efb06c00621060fba8628f683",
+    "after_sha256": "8531a6820eca7effc3ccf516f61b2b7b3b8443cd93d76cb77647b444a07be5e6",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Plötzliche Gemüts-Impulse and überraschende Gefühls-Handlungen restore sudden emotional impulses and surprising emotional actions rather than specifying a woman for that clause; eight clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-mc.md",
+    "before_sha256": "3afde9a41dd1d52da4aa4e374db79c9c6a4574b087e91a2f9f230ff2c5d2322e",
+    "after_sha256": "95c5157d70a921652d9909c448c92c2612e02ad64acc509a31d2981eeea99152",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Beseelte/Erneuerung and Volks-Seele restore soulful, renewal and collective soul; eleven distinct clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-mercury.md",
+    "before_sha256": "b2646f77ace36ceca47c27f0d67b2f6fef1abe78b9a7bf4ca6f306d1459c4e4f",
+    "after_sha256": "ada898390e51965b881ad81f738ce4df42a23b635433650901e83d9951010d57",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Aufgeregtes Volk and erregten Gemütern restore excited people; missing über Gefühls-Impulse sprechen clause restored; eight clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-neptune.md",
+    "before_sha256": "15122cf33052f333e6e45cd38594006d7cf4ad958ff9eb22dc425dcea65c181e",
+    "after_sha256": "e67b44123494fd6f394335e76872a88534328183ad8a763fc1cc3dd067cd86b5",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Unklare Gefühle and enttäuschten Volkes restore unclear feelings and disappointed people; Verneinung is rejection, not yes opinion. Seven clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-node.md",
+    "before_sha256": "f224d6e033e7715f079b5e1f726ad015e4d9a9e524f62e4ccb78185364229a75",
+    "after_sha256": "88455253c5fcdcad8a89e94d3b805251b4d3243754e260e58192cc9deadece70",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Spannungsreiche Gefühls-Verbindung is emotionally tense connection, not ailment; corrupted Y-engagement means connection. Seven clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-pluto.md",
+    "before_sha256": "3c894596c40b2f85db991c5926dfeb20b0493af30286b582b3dc1b786783c0f0",
+    "after_sha256": "376b75378a3d347c15c8f9e4bd3165862614d229024a4d49a4bc9d3a2734a54b",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-poseidon.md",
+    "before_sha256": "caedcd791495a603eac29f2ea4c1aace4129d540df92ca0e95864551bd61fb5c",
+    "after_sha256": "9c1245cbe8f79678e017d9462e5ca5003d8efe9eb12ea1b3cee1cf3d14a88ef8",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-saturn.md",
+    "before_sha256": "dedea91f86e1ea9b3851db8f92bc78365f15e138fbff46a609efa32d8a7e3138",
+    "after_sha256": "f1fef76bb9ddfa3a14445875cd1541ab04040669f037ceadca18edfac7e72424",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-sun.md",
+    "before_sha256": "699f641090513ee5b037c850ff04654cd266732eca6c38ded1d4a1d941671ba5",
+    "after_sha256": "d80d5d412d6027156837a77efdb3404444b327c7ec62881f3d209ad4c39cab5f",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Männlichen Gefühle is man’s feelings, not manly skills; persönliche Gemüts-Erregung is personal emotional excitement. Eight clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-venus.md",
+    "before_sha256": "28afe1d3b7a246bd88c9928c2ec7077b55a08a10631caf73fea6fbcb2644dd14",
+    "after_sha256": "2e70838b2a31c5b1d2e451d42fc66cf0a7998ca5184e38b02af9c44a691db8cb",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Erneuerung der Volks-Kunst is renewal of folk art, not emulation; Harmonie-Gefühle are feelings of harmony. Nine clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf132.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf33.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-vernal-point.md",
+    "before_sha256": "e8204e5e2bb1bf9b039c93bfa86372cb81cf9cae5dd1e32aa97fe0d18f31e3b9",
+    "after_sha256": "83763ba3b1b50443aabb767fbc58268a0de46a6728598c7f526a6dc7001a4674",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-vulcanus.md",
+    "before_sha256": "bd63c1ed1f9588d267f295ee89b90090a45899a9d971ed6b2f09bf95dacc8832",
+    "after_sha256": "6928fbfd72e83bb626beb79737ba14b2454372e7a61cd838317ee070bd28faf7",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Locator-only additions; all source wording retained. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-zeus.md",
+    "before_sha256": "74c676fa1c6baee5acc4438ca67f77e780cb784eecb4257a98b29e87e3671aa9",
+    "after_sha256": "7633a75e6a575e2d9b4830cdb06db87a9e14d5bace8fd9da37e80fe77f762d71",
+    "ledger": "activations-048.jsonl",
+    "reason": "Read complete current source section, original reverse diff, and owning ledger; personally inspected all listed actual scans. Anstrengender Stunden-Rhythmus and feurige Gefühls-Impulse restore strenuous rhythm and fiery emotional impulses, not exercise/gymnastics; eight clauses match. Exact distinct rows: WittePDF127/printed131, ABCPDF92/printed186–187, EbertinPDF131–132/printed129–130, SandbachPDF33–34 and MunkaseyPDF125/printed124 as present. No sibling orientation borrowed.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-apollon.md",
+    "before_sha256": "c101ddbc2096f12e99d36acc8bb6727181d839391cf0a02b95969bcbe59a273f",
+    "ledger": "activations-046.jsonl",
+    "after_sha256": "d59bf939151546f75d7ff1d7b7e562db21a8f13067a49a980f89d1a969f3331b",
+    "reason": "Read full before/current source sections and updated owning ledger. Initial independent gate finding repaired by exclusive owner; I rechecked actual final delta against the same personally viewed raw glyph row. WittePDF121/printed125 actual Apollon glyph starts Far spread; repaired missing Far. ABCPDF86/printed175 same Apollon row reads Freiheit der Gefühle in Beziehungen, freedom of feelings rather than thought; seven clauses match. No other source wording changed in the follow-up.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-node-equals-mars.md",
+    "before_sha256": "b524ed94d8543cf3a61ee34269999f0ba3b9790e77a0aa930431ff6a83c1734a",
+    "ledger": "activations-046.jsonl",
+    "after_sha256": "e39b4682342df5d3fa9b13a66c52a68b4b428ebeeb9bb6592b88274ee647d6e4",
+    "reason": "Read full before/current source sections and updated owning ledger. Initial independent gate finding repaired by exclusive owner; I rechecked actual final delta against the same personally viewed raw glyph row. ABC PDF86/printed174 distinguishes first Aktive Volks-Verbindungen (connections within the people) from final Völker-Verbindungen schaffen (connections among peoples). Fresh owner correction restores that scope; job placement and emotional relationship clauses match. Witte121, Ebertin139/printed137 code0426, Sandbach38 labels independently verified. No other source wording changed in the follow-up.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf121.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf86.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf139.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf38.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-pluto-equals-neptune.md",
+    "before_sha256": "f099e49e7a663cd4aa3dd1f4d6acf789ab7103a2cff251529ea301c0dee93047",
+    "ledger": "activations-047.jsonl",
+    "after_sha256": "5201f51533a1c210abf6429a3edbf03514e5eeb7a384b8307edd6d21f75aa6b0",
+    "reason": "Read full before/current source sections and updated owning ledger. Initial independent gate finding repaired by exclusive owner; I rechecked actual final delta against the same personally viewed raw glyph row. ABC PDF94/printed191 Neptune has seven clauses ending growing uncertainty of a woman. Following Pluto glyph owns siehe oben, now removed. Enttäuschung is disappointment, not exchange; Gemüts/Gefühls changes retain feeling. Witte129, Ebertin137/printed135 code0418 and exact Sandbach37 entry/ref independently verified. No other source wording changed in the follow-up.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf129.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf94.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf137.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf37.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/moon-uranus-equals-asc.md",
+    "before_sha256": "4e0c856e77cd724d91d221923ee6b77e7560cd953fa80ce4d74c21935028be2d",
+    "ledger": "activations-048.jsonl",
+    "after_sha256": "da6034cc38730ab9ccf12e2b1a620130654c0d93b71cf210b9d5dcface265543",
+    "reason": "Complete original/current source sections, final bounded follow-up and updated owning ledger read. Added WittePDF127/printed131, ABCPDF92/printed186, EbertinPDF131/printed129 code0396 and SandbachPDF34 references match their personally viewed distinct rows/labels. Entire source wording is unchanged. Munkasey actualPDF125/printed124 really prints seeking attention from those meet; new exact locator and note correctly preserve the printed omission with intended missing word unknown, rather than inventing you.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-alfred-witte-pdf127.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-abc-pdf92.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-ebertin-pdf131.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-john-sandbach-pdf34.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-moon-munkasey-pdf125.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  }
+]

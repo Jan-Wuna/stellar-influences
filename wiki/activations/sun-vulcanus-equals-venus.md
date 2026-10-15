@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Venus`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = Q`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Venus Vulcanus](../triads/sun-venus-vulcanus.md)
@@ -42,14 +43,29 @@ Strong desire for physical love. To feel oneself strongly attracted by the other
 
 #### ABC Entry
 
-Influential art centre, love for a strong man, love influence of the carper, body force Iieben, power of human love, personal peace influence, and shanty powerful body
+Source locator: printed page 170 / PDF page 84, complete eight-clause Venus glyph row under Sonne + Vulkanus.
+
+Influential art center, joy in personal influence, love for a strong man, the body's influence in love, loving bodily strength, power of human love, personal influence for peace, and beautiful strong body.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength is experienced through attraction and physical desire.
+- psychology: Strong desire coexists with Witte's delicacy and flair.
+- body/health: Physical love is named without a health outcome.
+- social/relationship: Witte's other-sex attraction is a historical example; ABC names love for a strong man.
+- events/manifestations: Artistic influence and personal peace influence are additional ABC expressions.
+- conflicts/notes: This orientation specifies strength through desire; it must not inherit the reversed Sun/Venus = Vulcanus wording.
+
+## Contradictions
+
+This orientation specifies strength through desire; it must not inherit the reversed Sun/Venus = Vulcanus wording. ABC's bodily influence in love, loving bodily strength and beautiful strong body are explicit but remain separate source examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Venus`: Strong desire for physical love. To feel oneself strongly attracted by the other sex. Delicacy. Flair.
-- Practical focus: concentrates force into attraction, desire, and sensual magnetism. It emphasizes powerful erotic pull, strong relational appetite, and a refined flair that gives intensity a graceful or alluring form.
-- Practical expression: influential art centre, love for a strong man, love influence of the carper, body force Iieben, and power of human love.
+Venus specifies Sun/Vulcanus through strong desire for physical love and attraction to another person. Witte places delicacy and flair beside that desire, allowing intensity and refinement in the same expression; ABC adds the power of human love and an influential art center. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

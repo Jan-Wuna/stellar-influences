@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Moon/Kronos = Zeus`
 - Astronomicon formula: `R/¤ = £`
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: PDF page `133`, `MOON + KRONOS`, Zeus row.
+
 Manager (female) active in creative way.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Presence of a leading woman, special efforts of a Y olke, special achievements of a woman, hierarchical leadership of a people, creativity and self confidence of a woman, superior leadership of a people, and priority of a creative woman
+Source reference: printed page `199`, PDF page `98`, `Mond + Kronos`, Zeus row.
+
+Source wording: "Ansehen einer führenden Frau, besondere Anstrengungen eines Volkes, besondere Leistungen einer Frau, hierarchische Führung eines Volkes, Kreativität und Selbstbewußtsein einer Frau, überlegene Führung eines Volkes, Vorrang einer schöpferischen Frau".
+
+Editorial translation, checked against the scan: A leading woman's standing; a people's particular efforts; a woman's distinctive achievements; a people's hierarchical leadership; a woman's creativity and self-confidence; a people's superior leadership; a creative woman's precedence.
+
+## Comparative Schema
+
+- core meaning: Creative activity, effort, and achievement within independence, leadership, or recognized standing.
+- psychology: Creativity and self-confidence are explicit.
+- body/health: Neither entry supplies a distinct body or health claim for this orientation.
+- social/relationship: A female manager acting creatively, a leading woman's standing, and a creative woman's precedence.
+- events/manifestations: Particular collective efforts, a woman's achievements, and hierarchical or superior leadership.
+- conflicts/notes: Witte's short creative-management example and ABC's leadership clauses do not identify a particular project or a guaranteed outcome.
+
+## Contradictions
+
+The entries overlap in creative leadership or management. ABC adds effort, achievements, and collective hierarchy. Its former "presence" wording was standing or reputation; no separate appearance event is established.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos = Zeus`: Manager (female) active in creative way.
-- Practical expression: presence of a leading woman, special efforts of a Y olke, special achievements of a woman, hierarchical leadership of a people, and creativity.
+In `Moon/Kronos = Zeus`, the [pair's independence and recognized authority](../axes/moon-kronos.md#derived-synthesis) are expressed through creative activity and achievement. Witte gives a female manager acting creatively; ABC connects creativity and confidence with a woman's achievements, standing, or precedence. Its collective efforts and hierarchical leadership keep public organization within the same range. The common thread is creativity or effort exercised in a position of independence or leadership. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

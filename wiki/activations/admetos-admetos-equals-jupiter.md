@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,33 @@ updated_at: 2026-04-21
 - Axis page: [Admetos/Admetos](../axes/admetos-admetos.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 #### Witte Entry
 
-To throttle. Suppression. Terror. Rawness, crudeness. Rocks, fragments, debris, to wreck. The decrease of labor and activity. Narrowing of the field of activity. End of an action. Grave hindrances in the activity. Oppression to the point of immobility. Oppression. To work in wreckage and ruins. Very cold. Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw materials. To be lucky with raw materials. Expenditures or stoppage of income. Losses. No income. Expenses. Standstill of the currency market.
+Reference: [Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md), one-based PDF p. 309 (entry start).
+
+Rest. Happy in straitened circumstances. Gladly spent money. Gains out of raw materials. To be lucky with raw materials. Expenditures or stoppage of income. Losses. No income. Expenses. Standstill of the currency market.
+
+## Comparative Schema
+
+- core meaning: Satisfaction in restricted circumstances, with a financial range from raw-material gains to losses and standstill.
+- psychology: Being happy in straitened circumstances and spending money gladly.
+- body/health: Rest is named, without a medical explanation.
+- social/relationship: No specific relationship meaning is supplied.
+- events/manifestations: Rest, raw-material gains, expenses, losses, stopped income, and a stationary currency market.
+- conflicts/notes: The [Witte entry](#witte-entry) gives gains and losses without conditions for choosing between them; a financial outcome cannot be selected from this entry alone.
+
+## Contradictions
+
+The entry explicitly includes gains and losses, as well as contentment amid restricted means. These are alternatives within one source, not a promise of gain or a demonstrated disagreement between sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Admetos = Jupiter`: surviving tight conditions, extracting value from ruins or raw materials, and finding gain even in straitened circumstances. Main caution: throttled growth: oppression, loss of income, stoppage, or material life reduced to harsh endurance and contraction.
+In `Admetos/Admetos = Jupiter`, Jupiter specifies the repeated Admetos pair through money and satisfaction under restricted material conditions. The [Witte entry](#witte-entry) allows rest, happiness in straitened circumstances, willingly spent money, and gains from raw materials, while also naming expenses, losses, stopped income, and a standstill in the currency market. The page supports this range of outcomes; it does not supply a rule by which hardship necessarily produces gain.
 
 ## Links
 

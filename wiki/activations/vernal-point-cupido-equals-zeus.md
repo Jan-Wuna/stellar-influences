@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Zeus`
 - Astronomicon formula: `VP/¡ = £`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 48 (one-based).
+
 The founding of a corporation or club.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community in the public sphere, joint efforts in public life, and artistic design in the public sphere
+- Source page: 45; PDF page: 21 (one-based spread).
+
+Leadership community in public, shared efforts in public life, artistic creation in public, achievement community in public, founding a public community, and a goal-directed public community
+
+## Comparative Schema
+
+- core meaning: Founding or directing a public collective undertaking.
+- psychology: Shared effort and goal direction.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: A corporation, club, or public community is founded.
+- events/manifestations: Leadership, artistic creation, and shared achievement.
+- conflicts/notes: The restored ABC row includes explicit founding and leadership omitted by the cached fragment.
+
+## Contradictions
+
+Founding an organization and creating public art are different products of joint effort, without a direct source conflict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Zeus`: the founding of a corporation or club.
-- Practical expression: community in the public sphere, joint efforts in public life, and artistic design in the public sphere.
+In `Vernal Point/Cupido = Zeus`, Zeus specifies the pair through forming or directing collective public activity. The [Witte entry](#witte-entry) names founding a corporation or club. The restored [ABC entry](#abc-entry) adds leadership, shared achievement, public artistic creation, and explicit community founding. The common thread is a group undertaking given purpose and form, without making every artistic collaboration the founding of an organization.
 
 ## Links
 

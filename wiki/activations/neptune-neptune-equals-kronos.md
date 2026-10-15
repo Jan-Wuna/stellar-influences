@@ -22,6 +22,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Neptune = Kronos`
 - Astronomicon formula: `Y/Y = ¤`
 - Axis page: [Neptune/Neptune](../axes/neptune-neptune.md)
@@ -29,15 +31,30 @@ updated_at: 2026-04-21
 
 ## Source Entries
 
+- Source: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*.
+- Source reference: PDF p. `245` (entry start; one-based).
+
 #### Witte Entry
 
 Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
 
+## Comparative Schema
+
+- core meaning: diplomacy and authority under extensive uncertainty.
+- psychology: confusion of authorities and skill in deception are stated.
+- body/health: vaporized air is a literal material example, without a health claim.
+- social/relationship: superiors, the father, the boss, and authorities are named.
+- events/manifestations: incompetent management and annulment of decrees are explicit.
+- conflicts/notes: diplomacy is listed beside deception, not defined as deception; misfortune is a source possibility.
+
+## Contradictions
+
+Only Witte's repeated-pair entry is present; there is no independent source comparison here.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Neptune = Kronos`: Diplomacy. The great diplomat. Master of deception. Incompetent management. The great uncertainty. Unlimited uncertainty. Vaporized air. Misfortune to one’s superiors. Misfortune to the father. Confusion of the boss or the authorities. Annulment of decrees.
-- Practical focus: elevates doubled Neptune into diplomacy, deceptive authority, and confused leadership, showing high roles or administrations operating under vast uncertainty or compromised command.
+Neptune/Neptune = Kronos applies uncertainty to management and authority. [Witte](#witte-entry) names diplomacy, mastery of deception, incompetent management, confused authorities, and annulled decrees (PDF p. 245, entry start). These examples support a distinction between diplomatic skill and compromised authority; the entry does not make every diplomat deceptive or forecast misfortune for a father or superior.
 
 ## Links
 

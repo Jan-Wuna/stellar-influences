@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Uranus](../axes/mars-uranus.md)
 - Triad hub: [Mars Uranus Vulcanus](../triads/mars-uranus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Uranus,” PDF p. 194.
 
 To gamble with everything, to stake everything. With great, surprising power. Great collision or huge explosion.
 
@@ -42,13 +46,27 @@ To gamble with everything, to stake everything. With great, surprising power. Gr
 
 #### ABC Entry
 
-Exciting power will, disturbing energy impulses, influential work impulses, influential reform activities, tremendous technical activities, sudden acts of violence, spontaneous power activities, technical work force, and explosive will strongness
+Source: “Mars + Uranus,” printed p. 303 (PDF p. 150).
+
+Arousing will for power, disturbing energy impulses, influential work impulses, influential reform activity, tremendous technical activities, sudden acts of violence, spontaneous exercise of power, technical working force, and sudden strength of will.
+
+## Comparative Schema
+
+- core meaning: Sudden activity expressed with great force, influence, or technical power.
+- psychology: Strong will and readiness to stake everything.
+- body/health: Witte names collision and explosion; no diagnosis is supplied.
+- social/relationship: Influential reform and the exercise of power, with violence among the difficult source expressions.
+- events/manifestations: Tremendous technical activity, surprising power, and abrupt forceful events.
+- conflicts/notes: Technical force and determination are not equivalent to violent conduct; the source does not predict a specific catastrophe.
+
+## Contradictions
+
+Both entries describe strong or sudden force. ABC also includes influential work and reform, extending the range beyond Witte's extreme-risk examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Uranus = Vulcanus` magnifies shock into enormous force, extreme risk, and explosive impact.
-- Chart expression: staking everything, massive collisions, huge explosions, and surprising surges of power that can overturn the whole field at once.
+In `Mars/Uranus = Vulcanus`, Vulcanus specifies sudden and dynamic activity through great force, influential effort, and strength of will. Witte includes staking everything and surprising power; ABC gives technical work, reform, and spontaneous exercise of power as concrete settings. The same entries retain collisions, explosions, and sudden violence as severe expressions, without making those the outcome of every forceful undertaking. ([Witte](#witte-entry), PDF p. 194; [ABC](#abc-entry), printed p. 303 / PDF p. 150)
 
 ## Links
 

@@ -49,9 +49,13 @@ updated_at: 2026-04-21
 - Astronomicon axis: `Chiron/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF pages: `96–97` (complete Principle on 96; Process begins on 96 and ends on 97, checked against actual pages).
 
 #### Principle
 
@@ -59,7 +63,16 @@ The ability to be open-minded and because of this to see things in a new way by 
 
 #### Process
 
-The progressive giving up of all biases, judgments and taken-forgranted notions of how spiritual forces may manifest. The ability to spontaneously and by inspi ration create shocks and surprises, often of a subtle nature, for the purpose of awaken ing others to the spiritual dimensions of life.
+The progressive giving up of all biases, judgments and taken-for-granted notions of how spiritual forces may manifest. The ability to spontaneously and by inspi ration create shocks and surprises, often of a subtle nature, for the purpose of awaken ing others to the spiritual dimensions of life.
+
+## Comparative Schema
+
+- Core meaning: Opening perception by releasing limiting biases and recognizing unexpected spiritual messages ([Principle](#principle), [Process](#process)).
+- Psychology: Open-mindedness, less attachment to judgments, and acceptance of one's uniqueness are explicit themes.
+- Body/health: Healing refers to alienation and isolation here; the entry names no physical condition or treatment.
+- Social/relationship: Helping others recognize their distinctive gifts and feel less cut off connects individuality with belonging.
+- Events/manifestations: Omens, surprising messages, and spontaneous or subtle shocks are described as occasions for spiritual awakening.
+- Conflicts/notes: The Process actually prints the splits "inspi ration" and "awaken ing" on PDF page 97; these are retained as source wording. Its complete passage spans PDF pages 96–97.
 
 ## Related Activations
 
@@ -79,8 +92,9 @@ The progressive giving up of all biases, judgments and taken-forgranted notions 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus`: healing through liberation: freeing oneself from limiting biases, receiving sudden messages from beyond, and helping oneself and others value uniqueness rather than alienation.
-- Chart expression: open-minded spiritual experimentation, to omens, portents, and surprising insights as valid healing channels, and to a progressive release of rigid assumptions so that awakening can happen. Liabilities: instability, rebellion for its own sake, attachment to shock or novelty, and using freedom language to avoid deeper integration.
+`Chiron/Uranus` links a more open perception with relief from alienation. Releasing limiting biases makes room for unexpected messages and for recognizing one's own and others' unique gifts. The entry places omens, signs, and portents within this spiritual way of understanding experience ([Principle](#principle)).
+
+Its process is a continuing release of assumptions about how spiritual forces must appear. Surprise, including a subtle or spontaneous shock, serves the purpose of awakening others to spiritual dimensions of life ([Process](#process)).
 
 ## Links
 

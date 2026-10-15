@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Hades Kronos Vulcanus](../triads/hades-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Hades entry.
+
 #### Witte Entry
 
-The power ofthe state does not stop short of anything. Great mjusticeMUse y great powers, great misery and misfortune. Great murder caused by war
+The power of the state does not stop short of anything. Great injustice caused by great powers, great misery and misfortune. Great murder caused by war.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Hades entry.
+
 #### ABC Entry
 
-Special influence of the past, danger of great violence, dangerous power superiority, great power by renunciation, grief by state power, lack of state power, hidden influence of hierarchy, and superior criminal violence
+Special influence of the past; danger through great force; dangerous superiority of power; great strength through renunciation; sorrow through state power; a deficiency of state power; hidden influence of the hierarchy; superior criminal violence.
+
+## Comparative Schema
+
+- Core meaning: Dangerous or harmful power coexists with lack of state power and the influence of the past.
+- Psychology: Sorrow through state power and strength through renunciation are distinct ABC motifs.
+- Body/health: Misery and war killing are historical source claims, not a diagnosis or prediction.
+- Social/relationship: Unrestrained state power, hidden hierarchy, and criminal violence are explicitly adverse examples.
+- Events/manifestations: Witte names injustice and murder caused by war; ABC also includes deficient state power.
+- Conflicts/notes: The criminal and atrocity language must remain attributed; the formula does not establish wrongdoing.
+
+## Contradictions And Tensions
+
+The criminal and atrocity language must remain attributed; the formula does not establish wrongdoing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Hades`: misery caused by great powers, war-borne killing, and a state force that does not stop at cruelty or degradation.
-- Main caution: merciless government action, destructive power politics, and concentrated authority used in disastrous or inhuman ways.
+With Hades, Kronos/Vulcanus includes the harmful use of power: Witte names injustice, misery, and killing in war, while ABC adds dangerous superiority, sorrow under state power, hidden influence, and criminal violence. ABC also retains the contrasting lack of state power and strength through renunciation, with a separate influence-of-the-past motif. These are the historical entries' adverse and divergent expressions, not grounds for accusing a person or government of criminal conduct. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

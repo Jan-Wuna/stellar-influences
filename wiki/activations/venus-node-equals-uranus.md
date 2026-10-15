@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Uranus Node](../triads/venus-uranus-node.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Sudden love union. Spontaneous excitement in an agreeable relationships.
 
 #### ABC Entry
 
-Exciting encounter with the artist, encounter with new artist, harmonious impulses in relationships, harmonious connection to technology, new love connection, tensions in a harmonious connection, and mediation of peace contacts
+- Source reference: printed p. 211; one-based PDF p. 104, Venus/Node, Uranus row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: An exciting encounter with art, an encounter with new art, harmonious impulses in relationships, a harmonious connection to technology, a new love connection, tensions in a harmonious connection, and mediation of peace contacts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,23 @@ Disruptions which occur suddenly at meetings you attend; unsettling news receive
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden formation or disruption of a pleasant or loving connection.
+- psychology: Spontaneity, ease in sharing love, and excitement.
+- body/health: Ebertin's 'lovesick' is descriptive source language, not a diagnosis.
+- social/relationship: A new love connection and ease of contact, sometimes of short duration.
+- events/manifestations: Unexpected unions, disruptions at meetings, unsettling news, and shared computer or astrological interests.
+- conflicts/notes: Suddenness does not itself establish unconventional partnership or an inevitable lack of steadiness.
 
 ## Contradictions
 
-- None recorded yet.
+Ease and excitement coexist with disruption and short duration as different expressions. The entries do not require all of these to occur together.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Node = Uranus`: stimulating friendships, unconventional love, and social openings that arrive suddenly and alter the field. Main caution: instability in rapport: novelty and freedom can outrun steadiness, making attachment vivid but erratic.
+In `Venus/Node = Uranus`, Uranus specifies the Venus/Node connection through suddenness and spontaneous excitement. The [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [Sandbach entries](#sandbach-entry) describe love connections that arise quickly, with ease or uninhibited expression; Ebertin also allows short duration. The [Munkasey entry](#munkasey-entry) extends suddenness to disruptions and unsettling news at meetings, while retaining pleasant meetings around shared technical or astrological interests. The range is exciting contact with a possibility of interruption.
+
+The [ABC entry](#abc-entry) also names encounters with art or new art and mediation of peace contacts, alongside technological connections and relationship tension.
 
 ## Links
 

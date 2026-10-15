@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Moon`
 - Astronomicon formula: `W/¦ = R`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ The woman or public who feels depressed. Persons who are hindered in their motio
 
 #### ABC Entry
 
-Stress caused by inferiorities, depression caused by separation from the woman, constricted woman in old age, serious depression of the woman, patience of a subordinated people, mental concentrated woman, circulatory termination of the woman, and deep Gemtits problems
+Strain through suppressed feelings, depression through separation from a woman, a woman restricted in old age, serious depression of a woman, patience of an oppressed people, a thoroughly concentrated woman, circulatory disturbance of a woman, and deep emotional problems
+
+## Comparative Schema
+
+- Core meaning: felt restriction affecting a person or public.
+- Psychology: suppressed feelings, discouragement and concentrated endurance.
+- Body/health: restricted movement and circulatory disturbance are historical associations.
+- Social/relationship: separation, oppression and a public facing obstacles.
+- Events/manifestations: difficulties that impede movement or participation.
+- Conflicts/notes: the sources' gendered examples do not define all women or all expressions of the formula.
+
+## Contradictions
+
+Personal and public restriction are different scales of the entry, not contradictory claims. Health and gender statements remain attributed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Moon`: the woman or public who feels depressed, persons who are hindered in their motion.
-- Practical expression: stress caused by inferiorities, depression caused by separation from the woman, constricted woman in old age, serious depression of the woman, and patience of a subordinated people.
+In `Saturn/Admetos = Moon`, Moon specifies the pair through the felt experience of restriction, whether individual or public. The [Witte entry](#witte-entry) connects discouragement with impeded movement and obstacles (PDF p. 229). The [ABC entry](#abc-entry) adds suppressed feelings, separation and the patience of an oppressed people (printed p. 364; PDF p. 181). Concentrated endurance belongs to the same range as emotional burden. The gendered and medical examples are historical source claims, not universal descriptions or diagnoses.
 
 ## Links
 

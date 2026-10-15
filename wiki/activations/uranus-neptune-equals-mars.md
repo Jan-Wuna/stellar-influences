@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Mars`
 - Astronomicon formula: `X/Y = U`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Mars entry.
+
 #### Witte Entry
 
 Sudden destruction. Revolutionary deeds. Rebellion.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Mars entry.
+
 #### ABC Entry
 
-Exciting work in the water, fine tuning work in technical work, processing metaphysical experiences, creeping restlessness at work, technical work in the water, technical future work, restless work in the air, and refined work technique
+Exciting work in water, sensitivity in technical work, processing metaphysical experiences, creeping restlessness at work, technical work in water, technical work of the future, restless work in the air, and refined working technique.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0943`.
 
 #### Ebertin Entry
 
 Lack of stamina, instability, inspiration. Misdirected energy, lameness or paralysis, sadness.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Mars entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Increased tolerance for unusual activities which become your source of inspirati
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Inspired action whose effectiveness can vary. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Passion, instability, sadness, and a need for unusual stimulation. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's lameness or paralysis wording remains an attributed historical association. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: Helping humanity or leaving when disagreements become upsetting. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Technical work, pursuit of a vision, rebellion, and source-attributed destruction. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Hard work and ineffective action are compatible possibilities; no direct contradiction decides which is realized. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Inspired hard work and ineffective or misdirected action are different possibilities. Witte's destruction and Ebertin's lameness or paralysis remain attributed severe associations, not inevitable outcomes or diagnoses.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Mars`: daring imagination, activist sensitivity, and the ability to act where subtle perception and bold disruption meet. Main caution: chaotic force: confusion and speed can mix into misjudgment, wasted effort, or unstable conflict.
+Mars specifies Uranus/Neptune through action inspired by a vision but uncertain in its direction or stamina. Work may refine technical methods or pursue help for humanity, yet energy can become erratic, diffuse, or misdirected. Rebellion and sudden destruction mark Witte's severe outward range; the entries do not establish that inspired effort must take that form. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

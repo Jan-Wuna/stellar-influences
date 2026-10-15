@@ -1,0 +1,1852 @@
+[
+  {
+    "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+    "queue_index": 44,
+    "before_sha256": "516cbca8146dd9482b8b4fcb73eda4543f083e1503085aca4eee6916c238d201",
+    "after_sha256": "516cbca8146dd9482b8b4fcb73eda4543f083e1503085aca4eee6916c238d201",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 3,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be educated. Profundity of thought. To go back to the original cause. Deep thinking.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nBlockage of soul and spirit, restricted culture of the soul, manifestation of my spirit, my spiritual deepening, my thorough ideas (gründlichen Ideen), my deepening into culture, condensation of soul and spirit, stabilizing inner clarity, resistance of a spirit-soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be educated. Profundity of thought. To go back to the original cause. Deep thinking.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlockage of soul and spirit, restricted soul culture, manifestation of my spirit, my spiritual deepening, my grilndlichen ideas, my deepening into culture, psychic spiritual compaction, psychic clarity, and resistance of a spirit soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Depth of understanding and spiritual concentration.",
+        "ABC phrase 'my grilndlichen ideas' remains unresolved; German OCR has 'grilndlichen ldeen'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Depth of understanding and spiritual concentration.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored thorough ideas and stabilizing inner clarity, all nine Admetos clauses including condensation of soul/spirit.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual high-resolution ABC PDF48 halves and checked complete oriented rows: Admetos9, Asc9, Kronos10, Mercury9 and Moon9 clauses; retained printed spiritual and gender-specific vocabulary with explicit limits.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "e344f9692104a9b4db829013a44c0b58afb766f0650cdc563d16f0cf972bbb66",
+    "current_sha256": "5c79681721d656b300cdd16a6cf4c8b1328de62ca7375132a9f4099ec6cbc564",
+    "original_sha256": "516cbca8146dd9482b8b4fcb73eda4543f083e1503085aca4eee6916c238d201",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-admetos.md",
+          "text": "ABC phrase 'my grilndlichen ideas' remains unresolved; German OCR has 'grilndlichen ldeen'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mc-admetos-poseidon.md",
+          "text": "MC/Poseidon = Admetos ABC printed99/PDF48 retains grilndlichen; source wording requires verification.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC phrase 'my grilndlichen ideas' remains unresolved; German OCR has 'grilndlichen ldeen'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-admetos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 3,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC phrase 'my grilndlichen ideas' remains unresolved; German OCR has 'grilndlichen ldeen'.",
+        "MC/Poseidon = Admetos ABC printed99/PDF48 retains grilndlichen; source wording requires verification."
+      ],
+      "decision": "Restored thorough ideas and stabilizing inner clarity, all nine Admetos clauses including condensation of soul/spirit.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Admetos/Asc/Kronos/Mercury/Moon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "meine gründlichen Ideen; seelische Klarheit festigen",
+      "before_source_section_sha256": "516cbca8146dd9482b8b4fcb73eda4543f083e1503085aca4eee6916c238d201",
+      "final_source_section_sha256": "5c79681721d656b300cdd16a6cf4c8b1328de62ca7375132a9f4099ec6cbc564",
+      "final_page_sha256": "3dc73ddb22f15f75f704b7ff4f79e7e18e2654a77a2c08bf12cfef01de483985",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-asc.md",
+    "queue_index": 45,
+    "before_sha256": "a3e0a7bbd78b55e9fd2111bb9a3e0ddfabaa717ef2663a97be24f8d55de6d708",
+    "after_sha256": "a3e0a7bbd78b55e9fd2111bb9a3e0ddfabaa717ef2663a97be24f8d55de6d708",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 5,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo fuse ones ideas with those of others. The own way of thinking and mental attitude gives fulfilment to others. Others that influence my intuitive attitude.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled culture of the surroundings, insightful soul of the partner, spirit-soul of the partner (Geist-Seele), my spiritual partner, my place of culture, my insights about the partner, my idea for the surroundings, my spiritualized surroundings, inner clarity of the partner.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo fuse ones ideas with those of others. The own way of thinking and mental attitude gives fulfilment to others. Others that influence my intuitive attitude.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBcsceltc culture, transparent partner soul, Gcscelt soul of the partner, my spiritual partner, my culture place, my experiences about the partner, my idea for the environment, my changed environment, and sclisch clearness of the partner",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-asc.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Reciprocal influence of ideas in contact with others.",
+        "ABC phrases 'Bcsceltc culture', 'Gcscelt soul of the partner', 'sclisch clearness' and 'my changed environment' are unreliable; German OCR is also damaged."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Reciprocal influence of ideas in contact with others.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Repaired ensouled surroundings, insightful partner-soul, spirit-soul, spiritualized environment and partner clarity; nine complete Asc clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual high-resolution ABC PDF48 halves and checked complete oriented rows: Admetos9, Asc9, Kronos10, Mercury9 and Moon9 clauses; retained printed spiritual and gender-specific vocabulary with explicit limits.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "1d85700af34e4393663c006948d5c97384707223834726be6d02ecbe03055492",
+    "current_sha256": "06071e956b2fb850fdc82757f8876afc1f54fe5cd801660b8102c20bf5facb1b",
+    "original_sha256": "a3e0a7bbd78b55e9fd2111bb9a3e0ddfabaa717ef2663a97be24f8d55de6d708",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-asc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-asc.md",
+          "text": "ABC phrases 'Bcsceltc culture', 'Gcscelt soul of the partner', 'sclisch clearness' and 'my changed environment' are unreliable; German OCR is also damaged.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/asc-mc-poseidon.md",
+          "text": "MC/Poseidon = Asc: ABC Entry retains damaged or suspect wording \"Bcsceltc\", \"Gcscelt\", \"sclisch\".",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC phrases 'Bcsceltc culture', 'Gcscelt soul of the partner', 'sclisch clearness' and 'my changed environment' are unreliable; German OCR is also damaged."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-asc.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 5,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC phrases 'Bcsceltc culture', 'Gcscelt soul of the partner', 'sclisch clearness' and 'my changed environment' are unreliable; German OCR is also damaged.",
+        "MC/Poseidon = Asc: ABC Entry retains damaged or suspect wording \"Bcsceltc\", \"Gcscelt\", \"sclisch\"."
+      ],
+      "decision": "Repaired ensouled surroundings, insightful partner-soul, spirit-soul, spiritualized environment and partner clarity; nine complete Asc clauses.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Admetos/Asc/Kronos/Mercury/Moon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Beseelte Umwelt-Kultur; einsichtige Partner-Seele; Geist-Seele des Partners; meine vergeistigte Umwelt",
+      "before_source_section_sha256": "a3e0a7bbd78b55e9fd2111bb9a3e0ddfabaa717ef2663a97be24f8d55de6d708",
+      "final_source_section_sha256": "06071e956b2fb850fdc82757f8876afc1f54fe5cd801660b8102c20bf5facb1b",
+      "final_page_sha256": "9c61abcbadb916ac2f89b2dd48723daf972a680c5f0cc039b02670b7a7c56cea",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+    "queue_index": 46,
+    "before_sha256": "b8c3b23330608a00ffeaa2efd6ea6fb78c12c42d562e933d2f1c2d886cde6bdf",
+    "after_sha256": "b8c3b23330608a00ffeaa2efd6ea6fb78c12c42d562e933d2f1c2d886cde6bdf",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 9,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA person of refinement and education. To be on a elevated intellectual plane. Outstanding comprehensive insights. A mental leader.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nAuthority of the spirit-soul, dominating clarity of the soul, greatness of soul and spirit, my dominant spirit, my spiritual standing, my special idea, my cultural authority, my spiritual authority, my intellectual independence (geistige Selbständigkeit), my higher reason.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA person of refinement and education. To be on a elevated intellectual plane. Outstanding comprehensive insights. A mental leader.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAuthority of the spirit soul, dominant clarity of the soul, my dominant spirit, my spiritual prestige, my special I dee, my cultural authority, my spiritual authority, my spiritual self responsiveness, and my high spirit",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Cultivated insight and intellectual authority.",
+        "ABC 'my spiritual self responsiveness' and 'my high spirit' do not reliably render 'geistige Selbstandigkeit' and 'hohere Vemunft'; 'I dee' is split OCR."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Cultivated insight and intellectual authority.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored omitted greatness of soul/spirit, intellectual independence and higher reason; complete ten-clause Kronos row.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual high-resolution ABC PDF48 halves and checked complete oriented rows: Admetos9, Asc9, Kronos10, Mercury9 and Moon9 clauses; retained printed spiritual and gender-specific vocabulary with explicit limits.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "7e6816c3d4656285459787e50f81d5a997b20e22df4c5086cbe6bf7456eb1a6e",
+    "current_sha256": "64527c55615e81b482e220e35b0740fb62b3ccc59dcef9199b3406c5bef3a9ae",
+    "original_sha256": "b8c3b23330608a00ffeaa2efd6ea6fb78c12c42d562e933d2f1c2d886cde6bdf",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-kronos.md",
+          "text": "ABC 'my spiritual self responsiveness' and 'my high spirit' do not reliably render 'geistige Selbstandigkeit' and 'hohere Vemunft'; 'I dee' is split OCR.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my spiritual self responsiveness' and 'my high spirit' do not reliably render 'geistige Selbstandigkeit' and 'hohere Vemunft'; 'I dee' is split OCR."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-kronos.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 9,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my spiritual self responsiveness' and 'my high spirit' do not reliably render 'geistige Selbstandigkeit' and 'hohere Vemunft'; 'I dee' is split OCR."
+      ],
+      "decision": "Restored omitted greatness of soul/spirit, intellectual independence and higher reason; complete ten-clause Kronos row.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Admetos/Asc/Kronos/Mercury/Moon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Größe von Seele und Geist; meine geistige Selbständigkeit; meine höhere Vernunft",
+      "before_source_section_sha256": "b8c3b23330608a00ffeaa2efd6ea6fb78c12c42d562e933d2f1c2d886cde6bdf",
+      "final_source_section_sha256": "64527c55615e81b482e220e35b0740fb62b3ccc59dcef9199b3406c5bef3a9ae",
+      "final_page_sha256": "90659366312a5e375e6d4d2179678d1d7e53e135a023f05acad106195ef13813",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+    "queue_index": 47,
+    "before_sha256": "fea2b33f0f9f6187e29d2ff03fda85f602a56215e0ec8dce499713985d8cd574",
+    "after_sha256": "fea2b33f0f9f6187e29d2ff03fda85f602a56215e0ec8dce499713985d8cd574",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 11,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIdealistic way of thinking. One’s own ideas.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled youth culture, conversations about soul and spirit, my intellectual exchange, my insights in youth, my clear thoughts, my cultural reports, my cultural media, my reasonable thoughts, inner clarity in youth.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nIdealistic way of thinking. One’s own ideas.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInspired youth culture, talk about soul and spirit, my mental intercourse, my insights into youth, my clear thoughts, my cultural reports, my cultural media, my vettinous thoughts, and psychic clarity in youth",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Idealistic thinking and personal ideas.",
+        "ABC 'my vettinous thoughts' is corrupted; German OCR 'vemtinftigen Gedanken' remains unverified."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Idealistic thinking and personal ideas.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored reasonable thoughts (vernünftigen Gedanken) and clear intellectual exchange, preserving nine Mercury clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual high-resolution ABC PDF48 halves and checked complete oriented rows: Admetos9, Asc9, Kronos10, Mercury9 and Moon9 clauses; retained printed spiritual and gender-specific vocabulary with explicit limits.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "87a45bc80262d78704784aa3476e4b836a8b93ac73d216f73e1b68199d7cc70b",
+    "current_sha256": "5207d9e58e9507d59d3325705eeebf953fd2ff482169bd6af1257043b8968bcd",
+    "original_sha256": "fea2b33f0f9f6187e29d2ff03fda85f602a56215e0ec8dce499713985d8cd574",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-mercury.md",
+          "text": "ABC 'my vettinous thoughts' is corrupted; German OCR 'vemtinftigen Gedanken' remains unverified.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my vettinous thoughts' is corrupted; German OCR 'vemtinftigen Gedanken' remains unverified."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-mercury.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 11,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my vettinous thoughts' is corrupted; German OCR 'vemtinftigen Gedanken' remains unverified."
+      ],
+      "decision": "Restored reasonable thoughts (vernünftigen Gedanken) and clear intellectual exchange, preserving nine Mercury clauses.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Admetos/Asc/Kronos/Mercury/Moon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "meine vernünftigen Gedanken; mein geistiger Verkehr",
+      "before_source_section_sha256": "fea2b33f0f9f6187e29d2ff03fda85f602a56215e0ec8dce499713985d8cd574",
+      "final_source_section_sha256": "5207d9e58e9507d59d3325705eeebf953fd2ff482169bd6af1257043b8968bcd",
+      "final_page_sha256": "cf949b0a6f26e05794ebe630e111d565b805d4231bf220aaf1f4c42d780f661a",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-moon.md",
+    "queue_index": 48,
+    "before_sha256": "388daf577caf9183345092d5208e8fadc0ca7db91f180a54514c9526805abcdc",
+    "after_sha256": "388daf577caf9183345092d5208e8fadc0ca7db91f180a54514c9526805abcdc",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 12,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHighly sensitive. Comprehensive mental perception. To influence women and the public. To possess emotional intelligence or perceptive faculty.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled hour of clarity, ensouled culture of a people, a woman's spirit-soul, clear feelings of the soul, culture of my people, my insights as a woman, my spiritualized wife, my reasonable wife, my true feelings.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nHighly sensitive. Comprehensive mental perception. To influence women and the public. To possess emotional intelligence or perceptive faculty.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStundc of clarity, animated people's culture, spirit soul of the woman, clear life of the soul, culture of my people, my knowledge as a woman, my spiritualized wife, my poor wife, and my true idols",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-moon.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Sensitive and comprehensive perception.",
+        "ABC 'my poor wife' mismatches 'meine vemUnftige Frau'; 'my true idols' mismatches 'meine wahren Getlihle'; 'Stundc' is OCR damage."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Sensitive and comprehensive perception.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored ensouled hour, clear feelings, reasonable wife and true feelings in all nine Moon clauses; historical gender and time qualifications retained.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read actual high-resolution ABC PDF48 halves and checked complete oriented rows: Admetos9, Asc9, Kronos10, Mercury9 and Moon9 clauses; retained printed spiritual and gender-specific vocabulary with explicit limits.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "d815797663d4dd9746b0049cf72b701770a0ca49c6292bd0b20377a0ce05665a",
+    "current_sha256": "2374d5bd766d5b499b03825dfd55a26efd6c55522de6bd1fe5b44cc95677710f",
+    "original_sha256": "388daf577caf9183345092d5208e8fadc0ca7db91f180a54514c9526805abcdc",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-moon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-moon.md",
+          "text": "ABC 'my poor wife' mismatches 'meine vemUnftige Frau'; 'my true idols' mismatches 'meine wahren Getlihle'; 'Stundc' is OCR damage.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/moon-mc-poseidon.md",
+          "text": "MC/Poseidon = Moon ABC printed98/PDF48 retains Stundc; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my poor wife' mismatches 'meine vemUnftige Frau'; 'my true idols' mismatches 'meine wahren Getlihle'; 'Stundc' is OCR damage."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-moon.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 12,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my poor wife' mismatches 'meine vemUnftige Frau'; 'my true idols' mismatches 'meine wahren Getlihle'; 'Stundc' is OCR damage.",
+        "MC/Poseidon = Moon ABC printed98/PDF48 retains Stundc; source verification required."
+      ],
+      "decision": "Restored ensouled hour, clear feelings, reasonable wife and true feelings in all nine Moon clauses; historical gender and time qualifications retained.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Admetos/Asc/Kronos/Mercury/Moon rows",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Beseelte Stunde der Klarheit; klare Gefühle der Seele; meine vernünftige Frau; meine wahren Gefühle",
+      "before_source_section_sha256": "388daf577caf9183345092d5208e8fadc0ca7db91f180a54514c9526805abcdc",
+      "final_source_section_sha256": "2374d5bd766d5b499b03825dfd55a26efd6c55522de6bd1fe5b44cc95677710f",
+      "final_page_sha256": "f05f8e71e5288d060440524afbd6097803a2322de22b5f2e652239fe62e3dad8",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+    "queue_index": 49,
+    "before_sha256": "9a5f89a1860450d1ce8a56bed0a6c5745832ea8c992cf776b5a558daae29b269",
+    "after_sha256": "9a5f89a1860450d1ce8a56bed0a6c5745832ea8c992cf776b5a558daae29b269",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 13,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMental delicacy. Not materialistically inclined. Enthusiastic.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nDisappointed spirit-soul, sensitive spirit-soul, my disappointing truth, my spiritual uncertainty, my cultural expectations, my unclear ideas, inner clarity through sensitivity, refinement of soul and spirit, future inner clarity.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMental delicacy. Not materialistically inclined. Enthusiastic.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExchanged mind soul, subtle mind soul, myc exchangeable truth, mcinc gcist insecurity, my culture expectations, mcinc unclear Idecn, scelic clarity through fine tuning, refinement of soul and mind, indigent psychic clarity unfolding of my ideas, development of soul and mind, and myc development to yem unit",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Subtle perception and a non-material outlook.",
+        "ABC 'Exchanged mind soul' mismatches 'Enttauschte Geist-Seele'; 'indigent psychic clarity' mismatches 'zukUnftige seelische Klarheit'; 'myc development to yem unit' is unresolved OCR/translation damage."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Subtle perception and a non-material outlook.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Neptune's complete nine-clause row and removed the three opening Pluto clauses from its end.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "c48bce5ed9b8160337c40e66130e0886b491430351e2a4d8a2183d3c409b6e2d",
+    "current_sha256": "a7b066d0181e7cbcaf92889205970a8f0efba27e8fdbb491717e1db07446f33f",
+    "original_sha256": "9a5f89a1860450d1ce8a56bed0a6c5745832ea8c992cf776b5a558daae29b269",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-neptune.md",
+          "text": "ABC 'Exchanged mind soul' mismatches 'Enttauschte Geist-Seele'; 'indigent psychic clarity' mismatches 'zukUnftige seelische Klarheit'; 'myc development to yem unit' is unresolved OCR/translation damage.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/neptune-mc-poseidon.md",
+          "text": "MC/Poseidon = Neptune ABC printed99/PDF48 retains myc/mcinc gcist.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Exchanged mind soul' mismatches 'Enttauschte Geist-Seele'; 'indigent psychic clarity' mismatches 'zukUnftige seelische Klarheit'; 'myc development to yem unit' is unresolved OCR/translation damage."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-neptune.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 13,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'Exchanged mind soul' mismatches 'Enttauschte Geist-Seele'; 'indigent psychic clarity' mismatches 'zukUnftige seelische Klarheit'; 'myc development to yem unit' is unresolved OCR/translation damage.",
+        "MC/Poseidon = Neptune ABC printed99/PDF48 retains myc/mcinc gcist."
+      ],
+      "decision": "Restored Neptune's complete nine-clause row and removed the three opening Pluto clauses from its end.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Enttäuschte Geist-Seele; zukünftige seelische Klarheit ends Neptune",
+      "before_source_section_sha256": "9a5f89a1860450d1ce8a56bed0a6c5745832ea8c992cf776b5a558daae29b269",
+      "final_source_section_sha256": "a7b066d0181e7cbcaf92889205970a8f0efba27e8fdbb491717e1db07446f33f",
+      "final_page_sha256": "484363e110cb750899e92d14d99c78271546576d1de387dd6c1e4b0c7cf5a647",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified.",
+      "Material boundary defect resolved: Neptune nine clauses ends future inner clarity; Pluto eight begins unfolding ideas/development of soul and spirit/development toward reason. Complete repaired rows independently compared with actual scan, then fresh section and amended unique owner record rebound."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-node.md",
+    "queue_index": 50,
+    "before_sha256": "4bbbedc40cb4306113297b377dadf4ad1655b35555db6e260b97bbb8b1966875",
+    "after_sha256": "4bbbedc40cb4306113297b377dadf4ad1655b35555db6e260b97bbb8b1966875",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 14,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo form a mental partnership with other people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled spiritual connection, clear relationships of the soul, clarity of my feelings, my spiritual connections, my clarity in connections, my contact ideas, my cultural connections, my connection to truth, linking of soul and spirit.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo form a mental partnership with other people.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStirred spiritual connection, clear relationships of the soul, clarity of my gestures, my spiritual connections, my clarity in connections, my contact ideas, my cultural connections, my connection to the truth, and constriction of soul and spirit",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-node.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Connection through ideas and understanding.",
+        "ABC 'constriction of soul and spirit' mismatches German OCR 'Verkntipfung von Seele und Geist'; 'clarity of my gestures' mismatches 'Getlihle'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Connection through ideas and understanding.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored all nine Node clauses, correcting linking of soul and spirit and clarity of feelings.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "5b8b5d05de4e258032bf2965e5e160e98a7f90770753c7126cdb43037e498e9f",
+    "current_sha256": "afb8bdbbe63430fd6702b03d263db616eb162f0bf444d4e3c4aa7296f6a582c0",
+    "original_sha256": "4bbbedc40cb4306113297b377dadf4ad1655b35555db6e260b97bbb8b1966875",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-node.md",
+          "text": "ABC 'constriction of soul and spirit' mismatches German OCR 'Verkntipfung von Seele und Geist'; 'clarity of my gestures' mismatches 'Getlihle'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/node-mc-poseidon.md",
+          "text": "MC/Poseidon = Node excludes the unreliable ABC rendering “constriction of soul and spirit”. The activation owner retains the source-text qualification; no raw-source repair was attempted here.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'constriction of soul and spirit' mismatches German OCR 'Verkntipfung von Seele und Geist'; 'clarity of my gestures' mismatches 'Getlihle'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-node.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 14,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'constriction of soul and spirit' mismatches German OCR 'Verkntipfung von Seele und Geist'; 'clarity of my gestures' mismatches 'Getlihle'.",
+        "MC/Poseidon = Node excludes the unreliable ABC rendering “constriction of soul and spirit”. The activation owner retains the source-text qualification; no raw-source repair was attempted here."
+      ],
+      "decision": "Restored all nine Node clauses, correcting linking of soul and spirit and clarity of feelings.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Klarheit meiner Gefühle; Verknüpfung von Seele und Geist",
+      "before_source_section_sha256": "4bbbedc40cb4306113297b377dadf4ad1655b35555db6e260b97bbb8b1966875",
+      "final_source_section_sha256": "afb8bdbbe63430fd6702b03d263db616eb162f0bf444d4e3c4aa7296f6a582c0",
+      "final_page_sha256": "fead43891b8b20770a7826e1071d4ccd84112904f2c62c8d34115de07c800e01",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+    "queue_index": 51,
+    "before_sha256": "55234282d0921c8d72f3bbe260b2057b44f7a4106ffac42ed80fe82b78d03ec7",
+    "after_sha256": "55234282d0921c8d72f3bbe260b2057b44f7a4106ffac42ed80fe82b78d03ec7",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 15,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA transformation in one’s thought processes. Ones personal mental and spiritual development. To change one’s own attitude to mental insights.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nUnfolding of my ideas, development of soul and spirit, my development toward reason, my spiritual unfolding, my cultural development, my increasing spiritualization, developing soul culture, growing clarity of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA transformation in one’s thought processes. Ones personal mental and spiritual development. To change one’s own attitude to mental insights.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nmy spiritual development, my cultural development, mcinc growing spirit, soul culture developing, and growing clarity of soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Transformation of thought and understanding.",
+        "ABC 'mcinc growing spirit' contains untranslated OCR residue."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Transformation of thought and understanding.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Pluto's complete eight-clause row, including its three opening clauses previously attached to Neptune, and removed OCR residue.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "af19bfb50219b79293bcf926ecc9db5cbe376d0690263ae5cb2c89a846670009",
+    "current_sha256": "7e751d1c1c367fe5728269189c7637aa85b790fb2df6c4f12c22cc985ccfe00e",
+    "original_sha256": "55234282d0921c8d72f3bbe260b2057b44f7a4106ffac42ed80fe82b78d03ec7",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-pluto.md",
+          "text": "ABC 'mcinc growing spirit' contains untranslated OCR residue.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'mcinc growing spirit' contains untranslated OCR residue."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-pluto.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 15,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'mcinc growing spirit' contains untranslated OCR residue."
+      ],
+      "decision": "Restored Pluto's complete eight-clause row, including its three opening clauses previously attached to Neptune, and removed OCR residue.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Entfaltung meiner Ideen; Entwicklung von Seele und Geist; meine Entwicklung zur Vernunft begins Pluto",
+      "before_source_section_sha256": "55234282d0921c8d72f3bbe260b2057b44f7a4106ffac42ed80fe82b78d03ec7",
+      "final_source_section_sha256": "7e751d1c1c367fe5728269189c7637aa85b790fb2df6c4f12c22cc985ccfe00e",
+      "final_page_sha256": "69431cf5d8dda8a0240af785566111653e27acb232978962c39115673abf36c1",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified.",
+      "Material boundary defect resolved: Neptune nine clauses ends future inner clarity; Pluto eight begins unfolding ideas/development of soul and spirit/development toward reason. Complete repaired rows independently compared with actual scan, then fresh section and amended unique owner record rebound."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+    "queue_index": 52,
+    "before_sha256": "dce4e826022da411a7105e811f4e170267cb9ace9d93fcb55e5c383490759e39",
+    "after_sha256": "dce4e826022da411a7105e811f4e170267cb9ace9d93fcb55e5c383490759e39",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 16,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be brought up. Educated. To be a student.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nPatient, reasonable soul, my burdensome insights, my insight and patience, my spiritual problems, my concentration on truth, my cultural tasks, my inner pains, mature spirit-soul, disturbances of soul and spirit.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be brought up. Educated. To be a student.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nPatience of the Indomitable Soul, my incriminating insights, my insight and patience, my mental problems, my concentration on the truth, my cultural tasks, my mental pain, mature spirit soul, and impulses of soul and spirit",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Education and demanding mental development.",
+        "ABC 'Patience of the Indomitable Soul' does not reliably render 'Geduldige vemUnftige Seele'; 'incriminating' narrows 'belastenden'; 'impulses' mismatches 'Storungen'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Education and demanding mental development.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Saturn's complete nine-clause row, correcting reasonable, burdensome and disturbances.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "7b652d79c776708a85fdd38f849a86307a4b27b6bbc872e243f20a7ce45b8a65",
+    "current_sha256": "805e375c05e963419b2eed6792fbf3d4a79ca05c88b2cbb2d4b673001f719095",
+    "original_sha256": "dce4e826022da411a7105e811f4e170267cb9ace9d93fcb55e5c383490759e39",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/triads/saturn-mc-poseidon.md",
+          "text": "MC/Poseidon = Saturn excludes unreliable ABC “Indomitable Soul,” “incriminating insights” and “impulses” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Patience of the Indomitable Soul' does not reliably render 'Geduldige vemUnftige Seele'; 'incriminating' narrows 'belastenden'; 'impulses' mismatches 'Storungen'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-saturn.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 16,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "MC/Poseidon = Saturn excludes unreliable ABC “Indomitable Soul,” “incriminating insights” and “impulses” renderings. Source wording remains the activation owner's responsibility; this review makes no raw-source repair."
+      ],
+      "decision": "Restored Saturn's complete nine-clause row, correcting reasonable, burdensome and disturbances.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Geduldige vernünftige Seele; belastenden Einsichten; Störungen",
+      "before_source_section_sha256": "dce4e826022da411a7105e811f4e170267cb9ace9d93fcb55e5c383490759e39",
+      "final_source_section_sha256": "805e375c05e963419b2eed6792fbf3d4a79ca05c88b2cbb2d4b673001f719095",
+      "final_page_sha256": "fe2e9128a184899ab6b200d4a3d33eb03dc0fd99fb27809a3f5f892547b0e407",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-sun.md",
+    "queue_index": 53,
+    "before_sha256": "03c10e1b68aa308b500f196da902a5382cbc657d59a3a09a7b98ab65f1484cc0",
+    "after_sha256": "03c10e1b68aa308b500f196da902a5382cbc657d59a3a09a7b98ab65f1484cc0",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 17,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe mind of the native stipulates bodily form and appearance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nBody + soul + spirit (personality point according to Carl Perch), my cultural center, my spiritualized body, my personal idea, my personal truth, my body culture, personal inner clarity, soul and spirit of a person.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe mind of the native stipulates bodily form and appearance.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nmy culture center, my spiritualized body, my personal Idec, my personal truth, my corporal culture, and soul and spirit of a person",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-sun.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Inner life expressed in personal and bodily form.",
+        "ABC 'my personal Idec' retains OCR residue; cached body+soul+spirit/Carl Perch wording is not restored without raw-source verification."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Inner life expressed in personal and bodily form.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Sun's complete eight-clause row, including the Carl Perch attribution and personal inner clarity, and corrected idea.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "dad8718dcf8290d163cc38d0ce4683ea1cc2d682b766719c127accc626d4a5f5",
+    "current_sha256": "5051c163b4ae45f1238cdf6e4e3b314bd4e589e2359fcd5a7de2c0c3163ec1c6",
+    "original_sha256": "03c10e1b68aa308b500f196da902a5382cbc657d59a3a09a7b98ab65f1484cc0",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-sun.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-sun.md",
+          "text": "ABC 'my personal Idec' retains OCR residue; cached body+soul+spirit/Carl Perch wording is not restored without raw-source verification.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my personal Idec' retains OCR residue; cached body+soul+spirit/Carl Perch wording is not restored without raw-source verification."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-sun.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 17,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my personal Idec' retains OCR residue; cached body+soul+spirit/Carl Perch wording is not restored without raw-source verification."
+      ],
+      "decision": "Restored Sun's complete eight-clause row, including the Carl Perch attribution and personal inner clarity, and corrected idea.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Körper+Seele+Geist (Persönlichkeits-Punkt nach Carl Perch); persönliche seelische Klarheit",
+      "before_source_section_sha256": "03c10e1b68aa308b500f196da902a5382cbc657d59a3a09a7b98ab65f1484cc0",
+      "final_source_section_sha256": "5051c163b4ae45f1238cdf6e4e3b314bd4e589e2359fcd5a7de2c0c3163ec1c6",
+      "final_page_sha256": "9ed768b973614d9148e862efe1607e51957255ba621230681e4e5799120ffa28",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+    "queue_index": 54,
+    "before_sha256": "f85fa8b1de2450bdc9fccee2797b87db4425ad6af83414ea7aadfa49df837e4d",
+    "after_sha256": "f85fa8b1de2450bdc9fccee2797b87db4425ad6af83414ea7aadfa49df837e4d",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 18,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo inform. Mental clarity. Sudden realization of the truth. Recognizing ones own path to the goal of live.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nExcited spirit-soul, clear impulses of the soul, my exciting truth, my spiritual restlessness, my spiritual impulses, my cultural impulses, my new ideas, my sudden insights, soul and spirit in tension, surprising inner clarity.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo inform. Mental clarity. Sudden realization of the truth. Recognizing ones own path to the goal of live.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExcited spirit soul, clear impulses of the soul, my arousing truth, mcinc spiritual restlessness, my spiritual impulses, my culture impulses, my new ideas, mcinc sudden realizations, soul and spirit in tension, and unsurprising psychic clarity",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Sudden insight and recognition of direction.",
+        "ABC 'unsurprising psychic clarity' conflicts with OCR 'Ubcrraschendc seelische Klarhcit'; not used as evidence against sudden insight."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Sudden insight and recognition of direction.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Uranus's complete ten-clause row and corrected surprising inner clarity and OCR residue.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "c7ff3a74c62167b5a310a78fe57fc00905175179b9c2d978b6ba216b76935d22",
+    "current_sha256": "8a2e0327e0bf54a99256d731355be34669ef5e1224277ea0663e3518b03029b7",
+    "original_sha256": "f85fa8b1de2450bdc9fccee2797b87db4425ad6af83414ea7aadfa49df837e4d",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-uranus.md",
+          "text": "ABC 'unsurprising psychic clarity' conflicts with OCR 'Ubcrraschendc seelische Klarhcit'; not used as evidence against sudden insight.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'unsurprising psychic clarity' conflicts with OCR 'Ubcrraschendc seelische Klarhcit'; not used as evidence against sudden insight."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-uranus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 18,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'unsurprising psychic clarity' conflicts with OCR 'Ubcrraschendc seelische Klarhcit'; not used as evidence against sudden insight."
+      ],
+      "decision": "Restored Uranus's complete ten-clause row and corrected surprising inner clarity and OCR residue.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "überraschende seelische Klarheit",
+      "before_source_section_sha256": "f85fa8b1de2450bdc9fccee2797b87db4425ad6af83414ea7aadfa49df837e4d",
+      "final_source_section_sha256": "8a2e0327e0bf54a99256d731355be34669ef5e1224277ea0663e3518b03029b7",
+      "final_page_sha256": "387b2cc361c4b559078b0af5c5dff7b017f0c132b4fd004bc75e07bbcdeb3ad1",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-venus.md",
+    "queue_index": 55,
+    "before_sha256": "365a4c6b725bb901f1ad3d2b4b526376e9bdd3d3e7c5f509d112cb0c1d6e038b",
+    "after_sha256": "365a4c6b725bb901f1ad3d2b4b526376e9bdd3d3e7c5f509d112cb0c1d6e038b",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 19,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInclination or attitude toward freedom, religion or the beauty. Ones own disposition.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled art and culture, joy in inner clarity, spirit and soul in harmony, clarity through inner harmony, my joy in clarity, my idea of peace, my love of truth, my preference for reason, benevolent influence on the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nInclination or attitude toward freedom, religion or the beauty. Ones own disposition.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nStirred arts and culture, joy of psychic clarity, spirit and soul in harmony, clarity through psychic harmony, my joy of clarity, my peace idea, my love of truth, my love of tlir reason, and benevolent psychic influence",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-venus.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Affinity for beauty, freedom and harmony.",
+        "ABC 'my love of tlir reason' retains corrupted German OCR 'tlir Vemunft'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Affinity for beauty, freedom and harmony.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Venus's complete nine-clause row, correcting ensouled art and preference for reason.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "dfd26cd6ff8d71b34602c6d5572a757360d96ccfc96c1cc2060ed7cd3eae72ed",
+    "current_sha256": "5b240b13fb0876a21cdfe1cad92468f7c29838a0ff20f8b7ea9a9c68c42807a9",
+    "original_sha256": "365a4c6b725bb901f1ad3d2b4b526376e9bdd3d3e7c5f509d112cb0c1d6e038b",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-venus.md",
+          "text": "ABC 'my love of tlir reason' retains corrupted German OCR 'tlir Vemunft'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mc-poseidon.md",
+          "text": "MC/Poseidon = Venus excludes a damaged ABC reason-related love phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/venus-mc-poseidon.md",
+          "text": "MC/Poseidon = Venus excludes a damaged ABC reason-related love phrase.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my love of tlir reason' retains corrupted German OCR 'tlir Vemunft'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-venus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 19,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my love of tlir reason' retains corrupted German OCR 'tlir Vemunft'.",
+        "MC/Poseidon = Venus excludes a damaged ABC reason-related love phrase. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Poseidon = Venus excludes a damaged ABC reason-related love phrase."
+      ],
+      "decision": "Restored Venus's complete nine-clause row, correcting ensouled art and preference for reason.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "meine Vorliebe für Vernunft",
+      "before_source_section_sha256": "365a4c6b725bb901f1ad3d2b4b526376e9bdd3d3e7c5f509d112cb0c1d6e038b",
+      "final_source_section_sha256": "5b240b13fb0876a21cdfe1cad92468f7c29838a0ff20f8b7ea9a9c68c42807a9",
+      "final_page_sha256": "646e01d106f85a7a007b0ac1891e763481bb62c0564f74913faf321de15dc9db",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+    "queue_index": 56,
+    "before_sha256": "8cc46af3fc392ede7f6b9e59c2e34d85c9c9167b3292ddd31550f7742ded7aa4",
+    "after_sha256": "8cc46af3fc392ede7f6b9e59c2e34d85c9c9167b3292ddd31550f7742ded7aa4",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 20,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThrough mental interests being connected to the general world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nEnsouled culture in public life, the inner nature of world culture, my insights about the world, my idea in public, my culture in public life, my reason in public life, my truth for the public.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThrough mental interests being connected to the general world.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nImplications of culture in the world, the internal knowledge of world culture, my knowledge of the world, my knowledge of public life, and my truth to the public",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: World connection through mental interests.",
+        "ABC 'Implications of culture in the world' does not securely convey damaged OCR 'Bcsccltc Kultur im iHTcntlichcn Lchcn'."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: World connection through mental interests.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Vernal Point's complete seven-clause row, correcting the opening and recovering public idea, culture and reason clauses.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 98,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "c0d5f4f7a68975f65919e469df45a57fb053e9f65953eae0bf8699a1918674e8",
+    "current_sha256": "b02b0f7eb0e4630f304400fdd9b0756c151c1370d26aae12dca577af791aa666",
+    "original_sha256": "8cc46af3fc392ede7f6b9e59c2e34d85c9c9167b3292ddd31550f7742ded7aa4",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+          "text": "ABC 'Implications of culture in the world' does not securely convey damaged OCR 'Bcsccltc Kultur im iHTcntlichcn Lchcn'.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+          "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+          "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'Implications of culture in the world' does not securely convey damaged OCR 'Bcsccltc Kultur im iHTcntlichcn Lchcn'."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-vernal-point.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 20,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'Implications of culture in the world' does not securely convey damaged OCR 'Bcsccltc Kultur im iHTcntlichcn Lchcn'.",
+        "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+        "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example."
+      ],
+      "decision": "Restored Vernal Point's complete seven-clause row, correcting the opening and recovering public idea, culture and reason clauses.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "Beseelte Kultur im öffentlichen Leben; meine Idee; meine Kultur; meine Vernunft",
+      "before_source_section_sha256": "8cc46af3fc392ede7f6b9e59c2e34d85c9c9167b3292ddd31550f7742ded7aa4",
+      "final_source_section_sha256": "b02b0f7eb0e4630f304400fdd9b0756c151c1370d26aae12dca577af791aa666",
+      "final_page_sha256": "cb5825c8c313ccc3358d8cf37b8bf62de14420105e6db5450c221003233ce5b8",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed98"
+  },
+  {
+    "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+    "queue_index": 57,
+    "before_sha256": "2e6f35e37ab86b23a3c271e13f0dc28876e607d3a2e2a69298a5a3d39c576e1e",
+    "after_sha256": "2e6f35e37ab86b23a3c271e13f0dc28876e607d3a2e2a69298a5a3d39c576e1e",
+    "ledger": "activations-032.jsonl",
+    "ledger_line": 22,
+    "source_entries_unchanged_from_baseline": true,
+    "current": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo enforce mentally. To mentally prove or compel something. To affirm (testify) the truth. To demonstrate something.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source passage: `Meridian + Poseidon`; printed p. `99`; one-based PDF page `48` (complete oriented row checked against the raw scan).\n\nMy spiritual goal, my reasonable striving, my efforts toward inner clarity, my spiritual leadership, my cultural shaping, my creative ideas, my testimony to truth, achievements of soul and spirit, striving for clarity of the soul.",
+    "original": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo enforce mentally. To mentally prove or compel something. To affirm (testify) the truth. To demonstrate something.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nMy spiritual goal, my vemilnftige aspiration, my efforts for psychic clarity, my spiritual guidance, my cultural design, my creative ideas, my truth witnessing, achievements of soul and spirit, and striving for clarity of soul",
+    "ledger_record": {
+      "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+      "reviewer": "activations-032-033-leaf",
+      "full_read": true,
+      "status": "reviewed",
+      "outcome": "changed",
+      "problems": [
+        "Missing six-category Comparative Schema and Contradictions assessment.",
+        "Uncited bullet synthesis needed exact-orientation prose: Purposeful demonstration and assertion of ideas.",
+        "ABC 'my vemilnftige aspiration' remains damaged OCR/translation."
+      ],
+      "changes": [
+        "Added Identity interpretation route and six evidence-bounded categories.",
+        "Replaced bullet synthesis with connected exact-orientation interpretation: Purposeful demonstration and assertion of ideas.",
+        "Added source-subentry links, genuine entry locators and bounded contradiction/source-quality assessment.",
+        "Source-quality closure B: Restored Zeus's complete nine-clause row and corrected reasonable striving.; repaired the flagged source or metadata content and updated dependent interpretation/caveats."
+      ],
+      "verification": [
+        "Read entire page including frontmatter, source entries and links in untruncated output.",
+        "Read assigned manifest role and filtered native/cached English evidence; checked each formula orientation.",
+        "At initial full review, Source Entries, frontmatter and Links were preserved; closure B now repairs the flagged source wording against actual raw evidence.",
+        "Confirmed all six categories, Identity route and immediate anchor adjacency.",
+        "Personally read complete high-resolution ABC PDF48 halves, confirmed all nine oriented rows and Neptune/Pluto glyph boundary, and checked the complete saved source/dependent diff against those clauses.",
+        "Closure B inspected full source/context and existing owner record, reviewed the complete actual diff, and passed scoped identity/orientation/categories/anchor/link/whitespace checks; this amends the existing review without adding a count."
+      ],
+      "unresolved": [],
+      "evidence": [
+        {
+          "source": "udo-rudolph-abc-fur-planetenbilder",
+          "section": "ABC Entry",
+          "source_heading": "Meridian + Poseidon",
+          "locator": {
+            "system": "printed",
+            "page": 99,
+            "pdf_page": 48,
+            "granularity": "entry"
+          },
+          "visual_verification": true,
+          "raw_proofs": [
+            "verification/source-closure-B-abc-pdf48-left.png",
+            "verification/source-closure-B-abc-pdf48-right.png"
+          ]
+        },
+        {
+          "source": "alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures",
+          "section": "Witte Entry",
+          "source_heading": "MC + Poseidon",
+          "locator": {
+            "system": "pdf_one_based",
+            "page": 77,
+            "pdf_page": 77,
+            "granularity": "entry_start"
+          },
+          "visual_verification": false
+        },
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png",
+        "verification/source-closure-B-decisions.jsonl",
+        "verification/source-closure-B-scope-checks.json"
+      ]
+    },
+    "ledger_record_sha256": "7929b739c35f87fa3c7386b77e21fb277d6f44ac396aeccff2b4f522d9929384",
+    "current_sha256": "8da9460a9556207674a1a756f176f3e93e95f8cc983240c18b46e1fda19cc4c4",
+    "original_sha256": "2e6f35e37ab86b23a3c271e13f0dc28876e607d3a2e2a69298a5a3d39c576e1e",
+    "closure_flags": {
+      "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "recorded_reviewer": "activations-032-033-leaf",
+      "issues": [
+        {
+          "holder": "wiki/activations/mc-poseidon-equals-zeus.md",
+          "text": "ABC 'my vemilnftige aspiration' remains damaged OCR/translation.",
+          "kind": "reported_damage_or_boundary",
+          "state": "unchanged_source_reported_issue_pending"
+        },
+        {
+          "holder": "wiki/triads/mc-zeus-poseidon.md",
+          "text": "MC/Poseidon = Zeus ABC printed99/PDF48 retains vemilnftige; source verification required.",
+          "kind": "source_verification_scope",
+          "state": "unchanged_source_reported_issue_pending"
+        }
+      ],
+      "source_entries_still_identical_to_original": true,
+      "assignment_source_flags": [
+        "ABC 'my vemilnftige aspiration' remains damaged OCR/translation."
+      ]
+    },
+    "closure_editor_decision": {
+      "path": "wiki/activations/mc-poseidon-equals-zeus.md",
+      "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-032.jsonl",
+      "original_record_line": 22,
+      "reviewer": "activation_review_039_042_closure_B",
+      "status": "repaired",
+      "flags": [
+        "ABC 'my vemilnftige aspiration' remains damaged OCR/translation.",
+        "MC/Poseidon = Zeus ABC printed99/PDF48 retains vemilnftige; source verification required."
+      ],
+      "decision": "Restored Zeus's complete nine-clause row and corrected reasonable striving.",
+      "raw_locator": "ABC actual one-based PDF48 printed98–99 exact Neptune9/Node9/Pluto8/Saturn9/Sun8/Uranus10/Venus9/VernalPoint7/Zeus9 rows and glyph boundaries",
+      "proofs": [
+        "verification/source-closure-B-abc-pdf48-left.png",
+        "verification/source-closure-B-abc-pdf48-right.png"
+      ],
+      "native_check": "mein vernünftiges Streben",
+      "before_source_section_sha256": "2e6f35e37ab86b23a3c271e13f0dc28876e607d3a2e2a69298a5a3d39c576e1e",
+      "final_source_section_sha256": "8da9460a9556207674a1a756f176f3e93e95f8cc983240c18b46e1fda19cc4c4",
+      "final_page_sha256": "8b9a9df84749353fffc5da9b0068dc33a524318ec9cd96feed121919f6fbf705",
+      "unresolved": [],
+      "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+    },
+    "group": "mc-poseidon",
+    "independent_classification": "repaired",
+    "independent_verified_by": "/root/source_check_saturn",
+    "independent_proofs": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-abc-pdf048.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-B1-pending-MC-proof.md"
+    ],
+    "independent_raw_checks": [
+      "Prior complete baseline/current/context/queue/full owner reading reused. Newly saved complete ABC passage, every changed flagged claim/new reference and full amended unique owner record independently read.",
+      "All clauses compared with actual glyph-owned ABC PDF48 printed98 or99. Witte body is unchanged and excluded from substantive certification.",
+      "Historical gender, timing and metaphysical vocabulary remains source-attributed. No unstated physical mechanism, universal rule or empirical validity certified."
+    ],
+    "raw_locator": "ABC actual PDF48, printed99"
+  }
+]

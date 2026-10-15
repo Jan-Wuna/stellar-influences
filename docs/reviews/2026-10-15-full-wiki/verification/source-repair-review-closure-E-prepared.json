@@ -1,0 +1,47 @@
+{
+  "status": "consumed-final-E1",
+  "active_targets": 96,
+  "accepted": 96,
+  "held": 0,
+  "unreviewed": 0,
+  "original_universe": 118,
+  "transferred": 22,
+  "transfers": {
+    "E2": [
+      "wiki/factors/asc.md",
+      "wiki/factors/mars.md",
+      "wiki/factors/mc.md",
+      "wiki/factors/mercury.md",
+      "wiki/factors/neptune.md",
+      "wiki/factors/pluto.md",
+      "wiki/factors/saturn.md"
+    ],
+    "E3": [
+      "wiki/axes/saturn-uranus.md",
+      "wiki/axes/sun-chiron.md",
+      "wiki/axes/sun-jupiter.md",
+      "wiki/axes/sun-mercury.md",
+      "wiki/axes/sun-neptune.md",
+      "wiki/axes/sun-pluto.md"
+    ],
+    "E4": [
+      "wiki/axes/moon-jupiter.md",
+      "wiki/axes/moon-mars.md",
+      "wiki/axes/moon-mc.md",
+      "wiki/axes/moon-mercury.md",
+      "wiki/axes/moon-node.md",
+      "wiki/axes/moon-pluto.md",
+      "wiki/axes/moon-saturn.md",
+      "wiki/axes/pluto-asc.md",
+      "wiki/axes/pluto-node.md"
+    ]
+  },
+  "authoritative_artifacts": [
+    "source-repair-review-closure-E-allowances.json",
+    "source-repair-review-closure-E-audit.json",
+    "source-repair-review-closure-E-decisions.md"
+  ],
+  "allowance_sha256": "88d10c3319371288938867b0d3a48f804e8936bc27a16d78d99a6dab42daae46",
+  "note": "Earlier prepared checks are consumed. Transferred targets receive no inherited approval from E1. Current exact bindings and bounded proof scope are recorded in the authoritative artifacts."
+}
+

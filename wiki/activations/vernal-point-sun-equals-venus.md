@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Sun](../axes/vernal-point-sun.md)
 - Triad hub: [Vernal Point Sun Venus](../triads/vernal-point-sun-venus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 37 (one-based).
 
 The time of puberty. The ability and activity of love of many people. The body’s activity in, and capacity for, love.
 
@@ -42,13 +46,29 @@ The time of puberty. The ability and activity of love of many people. The body�
 
 #### ABC Entry
 
-Friendly people in public, peace center in public, peaceful people in public life, public art center, personal joy in public, and gentle people in public
+- Source page: 22; PDF page: 10 (one-based spread).
+
+Friendly people in public, a center of peace in public, peaceful people in public life, a public art center, personal joy in public, and beautiful people in public.
+
+## Comparative Schema
+
+- core meaning: Personal affection, beauty and peaceful public presence.
+- psychology: Joy and a capacity for love.
+- body/health: Witte gives puberty and the body’s capacity for love as historical associations.
+- social/relationship: Friendly, peaceful people and shared affection.
+- events/manifestations: Art centers, peace centers and personal enjoyment in public.
+- conflicts/notes: The developmental association is source doctrine, not a health assessment.
+
+## Contradictions
+
+Both entries support affection and enjoyment. Witte’s bodily development and ABC’s public art and peace are different emphases rather than opposing claims.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Sun = Venus`: the time of puberty, the ability and activity of love of many people, and the body’s activity in, and capacity for, love.
-- Practical expression: friendly people in public, peace center in public, peaceful people in public life, public art center, and personal joy in public.
+`Vernal Point/Sun = Venus` places personal affection and enjoyment in public life. Witte describes the capacity and activity of love; ABC shows its social expression through friendly, peaceful people, personal joy and appreciation of beauty. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Public art and peace centers give this agreeable presence a concrete setting. Witte also names puberty as a bodily association, which belongs to the historical entry rather than establishing a developmental prediction. ([Witte](#witte-entry), [ABC](#abc-entry))
 
 ## Links
 

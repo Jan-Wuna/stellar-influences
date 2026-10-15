@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Asc`
 - Astronomicon formula: `V/X = Asc`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Happy companionship. Others with sudden luck. Happy surprises at the place.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Excitements of the partner's finances, successful environmental impulses, financial surprise for others, ncues happiness in the near, sudden happiness with others, legal tensions in the place, tension of other money, and tchnic y parts in the place
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, Asc row.
+
+Excitement over a partner's finances, successful impulses in the surroundings, a financial surprise for others, new happiness nearby, sudden happiness with others, legal tensions at the place, tension over another's money, and technical advantages at the place.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed p. 230; one-based PDF p. 232, coded entry 0804.
 
 Ability to shape one's environment according to one's ideas and to furnish one's home according to personal taste or choice. Shared happiness with others or with a partner.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Ascendant paragraph; chapter begins on p. 80.
 
 The need to relate to others in an open and uninhibited way, and to have relationships “with no strings attached.”
 
@@ -66,26 +76,27 @@ The need to relate to others in an open and uninhibited way, and to have relatio
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Adds mental persistence or focus to your ideas for the new; eccentric mannerisms or dress in a flashy way; a personal sense of style that includes a focus on changes in life; seeking others to support your ideas for change.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Happiness and new possibilities appear through company and surroundings ([Witte Entry](#witte-entry)).
+- Psychology: Openness and a personal focus on change are explicit.
+- Body/health: The entries establish no bodily or medical claim.
+- Social/relationship: Shared happiness and freely chosen relationships coexist with seeking support for new ideas.
+- Events/manifestations: Home furnishing, distinctive dress, happy local surprises and technical advantages coexist with legal tensions and excitement over others' money.
+- Conflicts/notes: Raw ABC inspection resolves new happiness nearby and technical advantages at the place; all eight clauses are readable. Sandbach's exact Ascendant paragraph is on PDF p. 81.
 
 ## Contradictions
 
-- None recorded yet.
+Free relating and shared happiness differ in emphasis. None of the entries establishes inevitable detachment or refusal of necessary limits.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Asc`: cheerful self-presentation, uninhibited relating, the ability to shape one's surroundings according to personal ideals, and relationships that thrive on freedom and freshness. Main caution: that the desire for openness and luck can become detachment, excess, or a refusal of necessary limits.
+In `Jupiter/Uranus = Asc`, Asc places the pair's happy surprises in companionship, surroundings, and personal presentation. The [Witte Entry](#witte-entry) describes local happiness, and the [Ebertin Entry](#ebertin-entry) adds shaping a home to one's taste. The [Sandbach Entry](#sandbach-entry) emphasizes open relationships, while the [Munkasey Entry](#munkasey-entry) adds distinctive style and support for change. The [ABC Entry](#abc-entry) adds new local happiness and technical advantages, while retaining legal tensions and excitement over a partner's or another person's money. The common thread is room to express new possibilities in contact with others, with practical tensions also possible.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Node = Kronos`
 - Astronomicon formula: `U/g = ¤`
 - Axis page: [Mars/Node](../axes/mars-node.md)
@@ -34,21 +36,39 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `143` (entry start).
+
 #### Witte Entry
 
 Meeting for great activities. Blood-relatives of the father.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page (printed): `213` · PDF page: `105`
+
 #### ABC Entry
 
-Actions for connection with the boss, special actions in a connection, self conscious action in a relationship, self sustaining mediation work, establishing connections with the state, and creating important relationships
+Efforts toward connection with the chief, special actions in a connection, self-confident action in a relationship, independent mediation work, establishing connections with the state, creating important relationships.
+
+Translation checked against “Mondknoten + Mars,” Kronos row, printed p. 213 / PDF p. 105.
+
+## Comparative Schema
+
+- core meaning: Shared action linked with authority or major undertakings.
+- psychology: Self-confident action within relationships.
+- body/health: No distinct health claim is stated.
+- social/relationship: Connections with a boss, the state or paternal relatives.
+- events/manifestations: Meetings for great activity, independent mediation work, and formation of important relationships.
+- conflicts/notes: Paternal blood relationship is narrower than a general ancestral doctrine.
+
+## Contradictions
+
+The entries give institutional and family expressions of important connections; neither directly contradicts the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Node = Kronos` elevates shared action toward large undertakings, authority, and paternal or ancestral lines of force.
-- Chart expression: meetings for major activity, group effort shaped by rank or importance, and ties to powerful paternal or authoritative kinship structures.
+In `Mars/Node = Kronos`, Kronos specifies the Mars/Node axis through connections that enable substantial action: meeting for major work, approaching a superior or establishing ties with the state. ABC adds self-confident action within a relationship and independent mediation work, keeping personal confidence and independence distinct. Witte's family expression is specifically paternal blood relationship, rather than a general claim about ancestry. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105)
 
 ## Links
 

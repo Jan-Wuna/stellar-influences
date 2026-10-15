@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Node Kronos`
 - Astronomicon triad-set: `R g ¤`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Kronos = Node](../activations/moon-kronos-equals-node.md)
-- [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md)
-- [Node/Kronos = Moon](../activations/node-kronos-equals-moon.md)
+- [Moon/Kronos = Node](../activations/moon-kronos-equals-node.md): base axis [Moon/Kronos](../axes/moon-kronos.md); activator [Node](../factors/node.md).
+- [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md): base axis [Moon/Node](../axes/moon-node.md); activator [Kronos](../factors/kronos.md).
+- [Node/Kronos = Moon](../activations/node-kronos-equals-moon.md): base axis [Node/Kronos](../axes/node-kronos.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `133`
-- `Moon/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `198`
-- `Moon/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `121`
-- `Moon/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `175`
-- `Node/Kronos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `230`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Kronos = Node](../activations/moon-kronos-equals-node.md#witte-entry) (PDF entry-start p. 133); [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md#witte-entry) (PDF entry-start p. 121); [Node/Kronos = Moon](../activations/node-kronos-equals-moon.md#witte-entry) (PDF entry-start p. 152).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Kronos = Node](../activations/moon-kronos-equals-node.md#abc-entry) (printed p. 198); [Moon/Node = Kronos](../activations/moon-node-equals-kronos.md#abc-entry) (printed p. 175); [Node/Kronos = Moon](../activations/node-kronos-equals-moon.md#abc-entry) (printed p. 230).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Kronos = Node`: Connections with independent women or officials.
-- `Moon/Node = Kronos`: This activation elevates `Moon/Node` through formal unions, state-backed associations, and socially elevated female or national bonds. It favors connection that carries status, institutional support, or collective dignity, making belonging feel more official and consequential.
-- `Node/Kronos = Moon`: Acquaintance with the future wife. Acquaintance or friendship with females of official character, in official position.
+Moon, Node and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Kronos](../axes/moon-kronos.md)
+- [Moon/Node](../axes/moon-node.md)
+- [Node/Kronos](../axes/node-kronos.md)
 - [Moon](../factors/moon.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)

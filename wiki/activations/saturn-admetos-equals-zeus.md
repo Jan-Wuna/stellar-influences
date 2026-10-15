@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Zeus`
 - Astronomicon formula: `W/¦ = £`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ Cannot start anything because of present obstacles. At the beginning to face alm
 
 #### ABC Entry
 
-Restricting efforts in old age, deepening task design, starting with the most depressed, starting circulatory stress, strengthening of movement problems, loss of movement due to depression, and serious fire losses
+Restricting exertion in old age, deepening task design, beginning of serious depression, beginning circulatory strain, entrenchment of leadership problems, loss of leadership through depression, and thoroughgoing losses through fire
+
+## Comparative Schema
+
+- Core meaning: obstacles at the beginning of an undertaking.
+- Psychology: deeper task design; depression language remains attributed.
+- Body/health: ABC mentions beginning circulatory strain as a historical association.
+- Social/relationship: leadership problems may become entrenched or leadership may be lost.
+- Events/manifestations: blocked starts, restricted exertion and fire losses.
+- Conflicts/notes: leadership is not the same as physical movement.
+
+## Contradictions
+
+The entries describe a range of manifestations. Leadership is not the same as physical movement; this is a qualification, not proof of agreement across sources.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Zeus`: cannot start anything because of present obstacles, at the beginning to face almost insurmountable difficulties.
-- Practical expression: restricting efforts in old age, deepening task design, starting with the most depressed, starting circulatory stress, and strengthening of movement problems.
+In `Saturn/Admetos = Zeus`, Zeus specifies the Saturn/Admetos pair through the difficulty of beginning and directing an undertaking. The [Witte entry](#witte-entry) places nearly insurmountable obstacles at the start (PDF p. 229). The [ABC entry](#abc-entry) adds deeper task design, entrenched leadership problems and loss of leadership, as well as fire losses (printed p. 365; PDF p. 181). This is a problem of initiating and maintaining direction under restriction; the source's historical health associations do not make a failed start or illness inevitable.
 
 ## Links
 

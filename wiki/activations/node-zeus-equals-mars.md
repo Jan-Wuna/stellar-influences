@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Mars Node Zeus](../triads/mars-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 To incite to action. Spoof. To perform something together. To play tricks. To be singled out or chosen for a work. To have to do something.
 
@@ -42,13 +46,27 @@ To incite to action. Spoof. To perform something together. To play tricks. To be
 
 #### ABC Entry
 
+- Source page: 228 (printed); PDF page: 113 (one-based; exact row checked).
+
 Effortful work mediation, work in connection with fire, convey work performance, creative impulses in relationships, creative action in one connection, procreation action in one connection, and purposeful work mediation
+
+## Comparative Schema
+
+- core meaning: turning shared intent or creative contact into action and work.
+- psychology: incitement and creative impulses, including the source's tricks and spoofing.
+- body/health: ABC names procreative action as a source possibility without a medical prediction.
+- social/relationship: performing something with others and being selected for a task.
+- events/manifestations: joint work, work involving fire and purposeful mediation of work performance.
+- conflicts/notes: Tricks and provocation remain beside shared accomplishment as different source possibilities; the entry does not supply a moral judgment on a person's motives.
+
+## Contradictions
+
+Tricks and provocation remain beside shared accomplishment as different source possibilities; the entry does not supply a moral judgment on a person's motives.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Mars` turns shared purpose, fire, or coordinated intent into action: inciting others, doing work together, or being selected for a task.
-- Main caution: joint action can slip into provocation, tricks, or pressure to act before motives are clean.
+Mars specifies `Node/Zeus` through action taken to make or carry out a creative connection. The [Witte entry](#witte-entry) includes inciting others, performing a task together and being selected for work; it also preserves tricks and spoofing as less straightforward expressions. The [ABC entry](#abc-entry) adds work mediation, creative impulses, fire-related work and procreative action. The distinctive question is what the shared impulse actually sets people doing, with cooperation and provocation both retained in the evidence.
 
 ## Links
 

@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Mars Poseidon`
 - Astronomicon triad-set: `S U ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Mars/Poseidon = Sun](../activations/mars-poseidon-equals-sun.md)
-- [Sun/Mars = Poseidon](../activations/sun-mars-equals-poseidon.md)
-- [Sun/Poseidon = Mars](../activations/sun-poseidon-equals-mars.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Mars/Poseidon = Sun](../activations/mars-poseidon-equals-sun.md) | [Mars/Poseidon](../axes/mars-poseidon.md) | [Sun](../factors/sun.md) |
+| [Sun/Mars = Poseidon](../activations/sun-mars-equals-poseidon.md) | [Sun/Mars](../axes/sun-mars.md) | [Poseidon](../factors/poseidon.md) |
+| [Sun/Poseidon = Mars](../activations/sun-poseidon-equals-mars.md) | [Sun/Poseidon](../axes/sun-poseidon.md) | [Mars](../factors/mars.md) |
 
 ## Source Coverage
 
-- `Mars/Poseidon = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `204`
-- `Mars/Poseidon = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `322`
-- `Sun/Mars = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `105`
-- `Sun/Mars = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `147`
-- `Sun/Poseidon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `118`
-- `Sun/Poseidon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `172`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Mars/Poseidon = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-poseidon-equals-sun.md#witte-entry), one-based PDF entry-start p. `204`.
+- `Mars/Poseidon = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-poseidon-equals-sun.md#abc-entry), printed p. `322`.
+- `Sun/Mars = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-mars-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `105`.
+- `Sun/Mars = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-mars-equals-poseidon.md#abc-entry), printed p. `147`.
+- `Sun/Poseidon = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-poseidon-equals-mars.md#witte-entry), one-based PDF entry-start p. `118`.
+- `Sun/Poseidon = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-poseidon-equals-mars.md#abc-entry), printed p. `172`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Sun`: embodies the axis as daily mental work and visible moral conduct.
-- `Sun/Mars = Poseidon`: This formula emphasizes inspired action and active pursuit of spiritual aims.
-- `Sun/Poseidon = Mars`: This formula emphasizes inspired action and energetic pursuit of ideals.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

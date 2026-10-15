@@ -33,9 +33,13 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Venus](../axes/mercury-venus.md)
 - Triad hub: [Sun Mercury Venus](../triads/sun-mercury-venus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 159 (entry start); source heading: `Mercury + Venus`.
 
 #### Witte Entry
 
@@ -43,11 +47,15 @@ Personal meeting or greeting of friends or new acquaintances. Love of one’s ow
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 240; one-based PDF p. 119 (oriented row checked against the scan); source heading: `Merkur + Venus`.
+
 #### ABC Entry
 
-Joy in the youth center, talk to a gentle man, love of a young man, media arts center, personal thoughts on the arts, personal opinion on love, gentle words of the man, and beauty of human movement
+Joy in a youth center, conversations about a beautiful man, love of a young man, a media-art center, personal thoughts about art, a personal opinion about love, a man's beautiful words, beauty of human movement.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Evidence locator: printed p. 146 (coded entry 0459); source heading: `Mercury/Venus`.
 
 #### Ebertin Entry
 
@@ -55,11 +63,15 @@ An appreciation and keen sense of physical form, sculpture, architecture, a sens
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- Evidence locator: one-based PDF p. 41 (exact oriented passage checked in actual PDF text); source heading: `Planets activating the Mercury/Venus midpoint`.
+
 #### Sandbach Entry
 
 A potential master of beautiful communication. The ability to be very persuasive when one speaks or writes. Goals attained through the use of diplomacy and artful communication. An egotist in love with his or her own ideas.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
+
+- Evidence locator: printed p. 148 (entry page); source heading: `MERCURY/VENUS with Planets and Points`.
 
 - Source heading: `MERCURY/VENUS with Planets and Points`
 - Source page: `148`
@@ -70,22 +82,23 @@ Your determination to effectively use your physical assets to appear more attrac
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Beauty, affection and artful communication become part of personal expression.
+- psychology: Persuasion and self-satisfaction can coexist with vanity or self-glorification.
+- body/health: Attention to physical appearance and bodily form is explicit; no illness is asserted.
+- social/relationship: Personal greetings, sympathy and convincing expressions of affection occur.
+- events/manifestations: Sculpture, architecture and practically useful art are specific Ebertin examples.
+- conflicts/notes: The sources support vanity and attachment to one's own ideas; dependence on approval was not established.
 
 ## Contradictions
 
-- None recorded yet.
+The sources support vanity and attachment to one's own ideas; dependence on approval was not established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Venus = Sun`: attractive speech, likable selfhood, and the ability to lead through warmth, tact, and verbal ease. Main caution: vanity of expression: identity can become too dependent on approval, polish, or being well received.
+In `Mercury/Venus = Sun`, Sun specifies affectionate or artistic expression through the person, physical form and persuasive communication. Greetings, sympathy and convictions of love connect with sculpture, architecture, practical art or the use of one's appearance to be attractive. Beautiful speech can help attain goals, while humor and satisfaction with oneself give expression a personal tone. ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey](#munkasey-entry))
+
+Vanity, self-glorification and infatuation with one's own ideas remain difficult possibilities beside creative satisfaction. ABC's personal thoughts about art and love, a man's beautiful words and the beauty of human movement preserve particular examples without making them universal gender claims. ([Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [ABC](#abc-entry))
 
 ## Links
 

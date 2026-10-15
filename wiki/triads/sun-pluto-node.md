@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Pluto/Node = Sun](../activations/pluto-node-equals-sun.md)
-- [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md)
-- [Sun/Pluto = Node](../activations/sun-pluto-equals-node.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Node = Sun](../activations/pluto-node-equals-sun.md) | [Pluto/Node](../axes/pluto-node.md) | [Sun](../factors/sun.md) |
+| [Sun/Node = Pluto](../activations/sun-node-equals-pluto.md) | [Sun/Node](../axes/sun-node.md) | [Pluto](../factors/pluto.md) |
+| [Sun/Pluto = Node](../activations/sun-pluto-equals-node.md) | [Sun/Pluto](../axes/sun-pluto.md) | [Node](../factors/node.md) |
 
 ## Source Coverage
 
-- `Pluto/Node = Sun`: Michael, page `344`
-- `Sun/Node = Pluto`: Michael, page `92`
-- `Sun/Pluto = Node`: Michael, page `88`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Pluto/Node = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-node-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-node-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-node-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-node-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-node-equals-sun.md#munkasey-entry), printed p. `344`.
+- `Sun/Node = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-node-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-node-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-node-equals-pluto.md#munkasey-entry), printed p. `92`.
+- `Sun/Pluto = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-pluto-equals-node.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-pluto-equals-node.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-pluto-equals-node.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-pluto-equals-node.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-pluto-equals-node.md#munkasey-entry), printed p. `88`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

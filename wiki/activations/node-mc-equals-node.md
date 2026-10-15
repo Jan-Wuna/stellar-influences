@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,27 +43,25 @@ Friendships cultivated and acquired during your early life which persist and hel
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: lasting early friendships and familiarity in relating to peers.
+- psychology: learned ease in making friends and working with people, together with an innate sense of competence.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: friendships from early life that persist and provide help.
+- events/manifestations: ongoing assistance through enduring friendships and competence shown among peers.
+- conflicts/notes: Only Munkasey's With Itself entry is represented; repeated Node supplies no separate three-factor hub or competing-source comparison.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's With Itself entry is represented; repeated Node supplies no separate three-factor hub or competing-source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Node`: Friendships cultivated and acquired during one's early life which persist and help one over the years; the familiarity one gain with how to make friends and work with people; an innate ability to show competence among peers.
+In `Node/MC = Node`, Node specifies the continuity of friendship and the social familiarity it builds. The [Munkasey entry](#munkasey-entry) links early friendships that persist with knowing how to make friends, work with people and show competence among peers. The common thread is an established capacity to relate, supported by durable personal ties. This is the Node member of Munkasey's With Itself treatment and remains separate from `Node/MC = MC`.
 
 ## Links
 
 - [Node](../factors/node.md)
 - [MC](../factors/mc.md)
-- [Node](../factors/node.md)
 - [Node/MC](../axes/node-mc.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

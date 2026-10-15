@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Apollon Poseidon](../triads/venus-apollon-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 Friends, adherents or fellow-believers in religion and world conception.
 
@@ -42,13 +46,27 @@ Friends, adherents or fellow-believers in religion and world conception.
 
 #### ABC Entry
 
-Expansion of spiritual harmony, expansion of peace culture, knowledge of arts and culture, clarity through peace science, successful love of the spirit, love of spiritual freedom, success through spiritual arts, and growing joy of knowledge
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Expansion of spiritual harmony, expansion of peace culture, knowledge of arts and culture, clarity through peace science, successful love of reason, love of spiritual freedom, success through spiritual arts, and growing joy of knowledge
+
+## Comparative Schema
+
+- core meaning: Expansion of spiritual harmony, cultural understanding, and shared worldview.
+- psychology: Love of spiritual freedom and growing joy in knowledge.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Friends, adherents, or fellow believers in religion or a worldview.
+- events/manifestations: Broader peace culture, knowledge of art/culture, and spiritual artistic success.
+- conflicts/notes: Shared belief is one stated setting; the page does not establish a particular doctrine's truth.
+
+## Contradictions
+
+Fellow belief and spiritual freedom are different emphases without an explicit contradiction. Neither entry specifies how a group handles disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Apollon`: friends, adherents or fellow-believers in religion and world conception.
-- Practical expression: expansion of spiritual harmony, expansion of peace culture, knowledge of arts, culture, and clarity through peace science.
+In `Venus/Poseidon = Apollon`, Apollon specifies the Venus/Poseidon theme through wider understanding and fellowship. The [Witte entry](#witte-entry) supplies friends or fellow believers in religion and a conception of the world; the [ABC entry](#abc-entry) adds expanding spiritual harmony, peace culture, knowledge of art and culture, and joy in knowledge. The integrated meaning is shared or widening participation in ideas and culture, with spiritual freedom retained as an explicit value.
 
 ## Links
 

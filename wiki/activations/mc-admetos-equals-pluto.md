@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Admetos](../axes/mc-admetos.md)
 - Triad hub: [Pluto MC Admetos](../triads/pluto-mc-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ To keep going in the same direction of development. To remain on course.
 
 #### ABC Entry
 
-I at the blocking changes, I at the stabilizing developments, my development through perseverance, my profound changes, my circulation development, my psychic depth, my growing firmness, and changes through mental depression
+- Source passage: `Meridian + Admetos`; printed p. `95`; one-based PDF page `46` (complete oriented row checked against the raw scan).
+
+I block changes, I stabilize developments, my development through endurance, my thorough changes, my circulation development, developing inner depth, my growing firmness, changes through inner suppression.
+
+## Comparative Schema
+
+- **Core meaning:** Persistence shapes development, either supporting or obstructing change.
+- **Psychology:** Increasing firmness and developing inner depth are represented.
+- **Body/health:** ABC mentions circulation development but gives no specific medical finding.
+- **Social/relationship:** No defined partnership or social setting is supplied.
+- **Events/manifestations:** Stabilizing development, profound changes, and blocked change are stated alternatives.
+- **Conflicts/notes:** ABC distinguishes inner suppression (seelische Unterdrückung) from depression; its circulation-development phrase supplies no clinical finding.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Admetos = Pluto` deepens the axis into relentless continuation and unwavering developmental direction.
-- Chart expression: staying the course, enduring transformation without deviation, and a life process that advances through persistence rather than speed or flexibility.
+Pluto specifies `MC/Admetos` through the course of personal development: perseverance can stabilize growth and keep it moving in one direction, but the same fixity can block change. The ABC entry's growing firmness holds these possibilities together; remaining on course is not necessarily the same as remaining open to development. ([Witte Entry](#witte-entry), PDF p. 75, entry start; [ABC Entry](#abc-entry), printed p. 95.)
 
 ## Links
 

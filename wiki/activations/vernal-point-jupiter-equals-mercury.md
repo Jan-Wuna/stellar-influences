@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Mercury Jupiter](../triads/vernal-point-mercury-jupiter.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Merry mood. Talkative. News about money, stock exchange or law.
 
@@ -42,13 +46,27 @@ Merry mood. Talkative. News about money, stock exchange or law.
 
 #### ABC Entry
 
-Successful youth in public, successful public traffic, language about public funds, media successes in public, opinions about public law, public speech successes, and right thinking in public
+- Source page: 34; PDF page: 16 (one-based spread).
+
+Successful youth in public, successful public traffic, conversations about public funds, media successes in public, opinions about public law, successful public conversations, and right thinking in public
+
+## Comparative Schema
+
+- core meaning: Public success expressed through communication, traffic, and financial or legal information.
+- psychology: A merry, talkative mood and right thinking are source phrases.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Successful youth and public conversations are named.
+- events/manifestations: Media achievements and news about money, exchanges, or law.
+- conflicts/notes: Right thinking is source language and supplies no political affiliation.
+
+## Contradictions
+
+No direct contradiction is established. Public traffic, youth, and financial news are separate examples of the communication and circulation theme.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Mercury`: merry mood, talkative, and news about money, stock exchange or law.
-- Practical expression: successful youth in public, successful public traffic, language about public funds, media successes in public, and opinions about public law.
+In `Vernal Point/Jupiter = Mercury`, public advantage becomes communicable through news, discussion, media, and circulation. The [Witte entry](#witte-entry) pairs a merry, talkative mood with news about money, stock exchange, or law. The restored [ABC entry](#abc-entry) adds successful public conversations, media, traffic, and youth. The common thread is favorable exchange of information, especially where public funds and rights are involved.
 
 ## Links
 

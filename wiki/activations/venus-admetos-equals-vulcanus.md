@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Admetos](../axes/venus-admetos.md)
 - Triad hub: [Venus Admetos Vulcanus](../triads/venus-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: one-based PDF p. 187, Venus/Admetos, Vulcanus row; actual glyph and neighboring rows checked.
 
 Deep, true and passionate love.
 
@@ -42,13 +46,27 @@ Deep, true and passionate love.
 
 #### ABC Entry
 
-Persistent power of love, limited artificial influence, blocked power of joy, depression through love violence, consolidation of peace power, powerful limitations in love, strong limitation of the artificial, and preference filr persistent influence
+- Source reference: printed p. 293; one-based PDF p. 145, Venus/Admetos, Vulcanus row; complete row and neighboring glyph boundaries checked.
+
+Editorial translation, checked against the scan: Enduring power of love, limited artistic influence, blocked power of joy, depression through violence in love, consolidation of the power of peace, powerful restrictions in love, strong restriction of art, and preference for lasting influence.
+
+## Comparative Schema
+
+- **core meaning:** Love is concentrated into enduring, forceful attachment. [Sources](#source-entries).
+- **psychology:** Depth and passion are explicit; ABC also associates blocked joy and depression with coercive love, as historical interpretive language. [Sources](#source-entries).
+- **body/health:** Neither entry establishes a bodily condition; ABC's depression language is not a diagnosis. [Sources](#source-entries).
+- **social/relationship:** Devotion can coexist with powerful restrictions on affection. [Sources](#source-entries).
+- **events/manifestations:** Consolidating peace, sustaining influence and limitations on artistic influence or art are ABC manifestations. [Sources](#source-entries).
+- **conflicts/notes:** Kunst means art here, not artificial; restrictions and depression through violence remain distinct from Witte's deep, true and passionate love. [Sources](#source-entries).
+
+## Contradictions
+
+Witte's affirmative love description and ABC's restrictions differ in range without directly denying one another. ABC's limited artistic influence, restriction of art, blocked joy and depression through violence in love remain explicit alternatives; depression is attributed historical wording, not a diagnosis.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Admetos = Vulcanus`: deep, true and passionate love.
-- Practical expression: persistent power of love, limited artificial influence, blocked power of joy, depression through love violence, and consolidation of peace power.
+In `Venus/Admetos = Vulcanus`, Vulcanus specifies the axis as love held with depth, persistence and considerable force. [Witte](#witte-entry) calls the love deep, true and passionate; [ABC](#abc-entry) adds enduring love-power, lasting influence and consolidation of peace-power. Its powerful restrictions in love and blocked joy preserve a constraining expression alongside sustained devotion. Limited artistic influence and restriction of art extend the range beyond attachment; the depression-through-violence clause remains an attributed historical claim rather than a clinical conclusion.
 
 ## Links
 

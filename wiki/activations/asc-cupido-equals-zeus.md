@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Asc/Cupido = Zeus`
 - Astronomicon formula: `Asc/¡ = £`
 - Axis page: [Asc/Cupido](../axes/asc-cupido.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 91, entry start (parser evidence; not visually checked).
+
 Increase in the family. Jointly striving for a goal or objective. New buildings. To gain additional living quarters. Neighborhood.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Community of Fiery Partners, driving place, running of a community of places, joint efforts for the environment, creative community of the environment, artistic community, and environmental community
+Fiery partner community, leading art venue, leadership of a local community, joint efforts for the surroundings, creative community in the surroundings, artistic shaping of a place, and achievements of a community in the surroundings.
+
+Translation repaired against the German entry under Aszendent + Cupido, printed p. 123, one-based PDF p. 60; wording and Zeus row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Shared purpose produces family growth, living space, and community achievements.
+- **Psychology:** Joint striving toward a goal is explicit.
+- **Body/health:** Increase in the family is mentioned without a distinct medical claim.
+- **Social/relationship:** Partners, families, and neighbors form communities of effort.
+- **Events/manifestations:** New buildings, additional living quarters, local leadership, and artistic shaping of places are supported examples.
+- **Conflicts/notes:** The entries describe productive striving; exhaustion or domestic overwork is not established.
+
+## Contradictions
+
+No direct contradiction appears. Residential and family growth in Witte complements the ABC emphasis on leadership, creativity, and community effort.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Zeus`: expansion of the household, purposeful community effort, and active creation of new residential or group form. Main caution: driven domestic ambition: shared goals can turn the home-and-group field into a project machine rather than a place of rest.
+In `Asc/Cupido = Zeus`, Zeus specifies the Asc/Cupido axis as people joining their efforts to make something grow or take shape. Family increase, new buildings, and additional living quarters give this purpose a concrete residential form. Community leadership and artistic shaping of a place extend the same theme to the neighborhood: a shared aim becomes a visible achievement. The entries do not supply the former claim of domestic overwork. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 123.)
 
 ## Links
 

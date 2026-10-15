@@ -1,0 +1,59 @@
+{
+  "batch": "D005",
+  "targets": 24,
+  "source_changed": 23,
+  "abc_rows_repaired": 18,
+  "exact_sandbach_locators": 8,
+  "foreign_footnote_repair": 1,
+  "witte_row_repairs": 2,
+  "unchanged_flagged_sources": 1,
+  "review_counts_added": 0,
+  "source_page_owner_bindings_fresh": true,
+  "proofs": [
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf136.png",
+      "sha256": "76799f04f5b8aa567cf62728e0b9e1f4fd3277748c4bd99f4d2d0c6c6e72e87d"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf058.png",
+      "sha256": "86277416ea1cdbca76aa3c36ed4fa09773934fa15c0ca7088ba48cee1049a46f"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-ebertin-pdf184.png",
+      "sha256": "70cf73c533c0556466b1c9c74a0f309aac7384c5690cd1f5a8889c3d6dd5cc28"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf057.png",
+      "sha256": "cd765d719c6ab6bd0ef0764ebfcce139f8b4927f13934fbfbf96a80b682ea22b"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-sandbach-pdf060.png",
+      "sha256": "10ced1489a5bf85bc53e9844c88d17008435a1ab6d1dc19bad8b5cf83a1d4899"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf179.png",
+      "sha256": "15a895be2976daf70c0dc5fc27c4324f4a50ad0b60af9441422a4d327eb3909f"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf137.png",
+      "sha256": "e321a6330aedd3bd9c202c2f8859da0606c48a0e16fd3aa50128660344e28445"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-abc-pdf021.png",
+      "sha256": "bc488f5986b103a1ff5f6c462834e32eef3ae5ab14592da778ba16664f6a7be0"
+    },
+    {
+      "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-D-witte-pdf048.png",
+      "sha256": "389875b8244ea47c686c81e5b662885d93961da70fcf52978ca8fbe90eee8be1"
+    }
+  ],
+  "whitespace_exit_code": 0,
+  "whitespace_errors": "",
+  "failures": [],
+  "callback_public_community": {
+    "path": "wiki/activations/vernal-point-cupido-equals-mars.md",
+    "source_sha256": "f4c48e5af7b7d6d0be248a2c2da87439f5390e5a88d597fb3a73f34aae988459",
+    "owner_record_sha256": "d096b9ff5f0513308169cbdd95a64681b760d9500a99e08d67217a43538519ad",
+    "exact_saved_wording": true
+  }
+}

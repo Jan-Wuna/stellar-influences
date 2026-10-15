@@ -17,9 +17,11 @@ related_activations:
   - Mercury/Jupiter = Chiron
   - Mercury/Jupiter = Cupido
   - Mercury/Jupiter = Hades
+  - Mercury/Jupiter = Jupiter
   - Mercury/Jupiter = Kronos
   - Mercury/Jupiter = Mars
   - Mercury/Jupiter = MC
+  - Mercury/Jupiter = Mercury
   - Mercury/Jupiter = Moon
   - Mercury/Jupiter = Neptune
   - Mercury/Jupiter = Node
@@ -74,12 +76,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `T/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/JUPITER`
-- Source page: `155`
+- Source heading: `MERCURY + JUPITER`
+- PDF page: `161`
 
 #### Pair Summary
 
@@ -87,9 +91,15 @@ Cheerful mood. Liking to speak. Fluent speech. Talent for speech. Talkativeness.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `244`; PDF page: `121` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Movement joy, successful thinking, thoughts of money, happy youth, good news, young C liick, media success, right speech, right thinking, writing good, and traffic right
+German pair summary (transcribed from printed page `244`; PDF page `121`):
+
+> Bewegungs-Freude, erfolgreiches Denken, Gedanken an Geld, glückliche Jugend, gute Nachrichten, junges Glück, Medien-Erfolg, Recht-Sprechung, rechtes Denken, Schrift-Gut, Verkehrs-Recht
+
+Editorial translation from the German passage: Joy in movement, successful thinking, thoughts about money, happy youth, good news, young happiness, media success, administration of justice, right thinking, written material, traffic law.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -212,12 +222,12 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Expanding and connecting ideas to reach meaning, judgment, or a wider understanding ([Sandbach](#principle), [Hand](#pair-delineation)).
+- psychology: Intellectual enthusiasm, confidence, and optimism coexist with absent-mindedness, inflated opinions, and neglect of particulars ([Falis](#falis-entry), [Sandbach](#principle)).
+- body/health: Carter's liver and nervous-system claims and Munkasey's blood, lung, sciatic, and nervous associations remain attributed historical medical statements ([Inharmonious Aspects](#inharmonious-aspects), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Generous sharing, teaching, and learning together can deepen contact; lecturing, arrogance, or reason overriding feelings can hinder it ([Falis](#falis-entry), [In Your Relationships](#in-your-relationships)).
+- events/manifestations: Education, writing, publishing, negotiation, legal discussion, and plans for expansion are named settings ([Falis](#falis-entry), [Hand](#pair-delineation), [In Politics or Business](#in-politics-or-business)).
+- conflicts/notes: Breadth and enthusiasm need not bring precise judgment or material success. ABC's written material and traffic law are distinct from a promise of writing well; Carter's aspect families and Munkasey's thesis/anti remain conditional.
 
 ## Related Activations
 
@@ -227,9 +237,11 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 - [Mercury/Jupiter = Chiron](../activations/mercury-jupiter-equals-chiron.md)
 - [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md)
 - [Mercury/Jupiter = Hades](../activations/mercury-jupiter-equals-hades.md)
+- [Mercury/Jupiter = Jupiter](../activations/mercury-jupiter-equals-jupiter.md)
 - [Mercury/Jupiter = Kronos](../activations/mercury-jupiter-equals-kronos.md)
 - [Mercury/Jupiter = Mars](../activations/mercury-jupiter-equals-mars.md)
 - [Mercury/Jupiter = MC](../activations/mercury-jupiter-equals-mc.md)
+- [Mercury/Jupiter = Mercury](../activations/mercury-jupiter-equals-mercury.md)
 - [Mercury/Jupiter = Moon](../activations/mercury-jupiter-equals-moon.md)
 - [Mercury/Jupiter = Neptune](../activations/mercury-jupiter-equals-neptune.md)
 - [Mercury/Jupiter = Node](../activations/mercury-jupiter-equals-node.md)
@@ -245,15 +257,16 @@ Excessive fat in the blood; an inability to absorb sugars in the blood; weakness
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries agree that ideas can expand, but qualify the outcome. Carter's harmonious and conjunction passages include modest or quiet intellectual lives and explicitly limit worldly success; his inharmonious section stresses imprudent judgment. These conditions should not be collapsed into either assured prosperity or inevitable failure. The medical assertions remain attributed to their respective entries.
+
+ABC explicitly names young happiness, written material, administration of justice and traffic law. Its brief legal wording gives no particular case or jurisdiction.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Jupiter` is the axis of expansive thought, synthesis, teaching, judgment, and persuasive communication. It combines language, learning, trade, and analysis with philosophy, law, optimism, breadth, and the search for meaning.
-- Chart expression: big-picture thinking, education, writing, lecturing, negotiation, cheerful or generous speech, and the ability to connect facts into a broader principle or vision. Liabilities: exaggeration, glibness, overtalking, carelessness with detail, inflated opinions, and conclusions that outrun evidence or precision.
+`Mercury/Jupiter` concerns enlarging understanding by bringing ideas into a meaningful whole. Intellectual enthusiasm makes learning, teaching, storytelling, and persuasive speech possible expressions of the same impulse: facts are gathered for what they help one understand or communicate. [Sandbach's synthesis and development of ideas](#principle), [Falis's search for meaning](#falis-entry), and [Hand's broad judgment](#pair-delineation) support this throughline; [Munkasey](#basic-ideas) places it in education, law, business, and other widening interests.
+
+Breadth becomes a liability when confidence outruns precision. The entries also describe overtalking, exaggeration, selective attention to facts, and theoretical abundance that cannot be used well. The range is generous and expansive communication with a real need for detail and measured judgment. [Carter's separate aspect accounts](#harmonious-aspects) preserve further conditions, including quiet intellectual satisfaction and limited worldly ambition, so mental richness does not itself promise material success.
 
 ## Links
 

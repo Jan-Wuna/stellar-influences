@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `U/V = Q`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Venus Mars Jupiter](../triads/venus-mars-jupiter.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -45,7 +46,9 @@ Pregnancy. Birth of a girl. Love’s happiness connected with sexual intercourse
 
 #### ABC Entry
 
-Work on peace right, successful peace activity, g!Exceptional love activity, joy over Harrnonian impulses, joy in legal activity, joy in artistic work, love activity for money, and preference for work with money
+Work on peace law, successful peace activity, happy love activity, joy in harmonious impulses, joy in legal activity, joy in artistic work, love activity for money, and a preference for work with money.
+
+- Source reference: printed p. 298, PDF p. 148, Venus row; `glückliche Liebes-Tätigkeit` means happy love activity and `harmonische Impulse` means harmonious impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,25 @@ Admiring the ways you use your strength or force in general; adds a conflict bet
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Pleasure, affection and artistic activity expressed through doing and creating.
+- psychology: Sandbach describes passionate positivity and enjoyment, with careless overdoing; Munkasey adds tension between guile and force in competition.
+- body/health: Witte and Ebertin include sexual, procreative and birth associations, including Witte's birth-of-a-girl wording; these remain historical attributed claims.
+- social/relationship: Doing things for others, attraction and favorable love or marriage decisions are explicit themes.
+- events/manifestations: Pleasant successful work, art and music, peace activity and work with money are source examples.
+- conflicts/notes: Generous enjoyment does not remove Sandbach's warning about consequences or Munkasey's competitive conflict; ABC's happy-love and harmony wording is scan-checked.
 
 ## Contradictions
 
-- None recorded yet.
+Pleasure and creative sociability coexist with carelessness and competitive tension. The source-specific reproductive claims are not universal conclusions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Jupiter = Venus`: harmonious desire, fertile or procreative themes, artistic productivity, and the ability to act for love, enjoyment, or relational good results. Main caution: indulgent excess: pleasure and positive feeling can encourage carelessness, overdoing, or acting before considering consequences.
+Venus specifies the Mars/Jupiter axis through love expressed in doing, pleasant work and creative activity. Doing things for others in [Sandbach](#sandbach-entry) connects with artistic productivity in [Ebertin](#ebertin-entry) and [Munkasey](#munkasey-entry), while [ABC](#abc-entry) adds happy love activity, harmony and enjoyment of work.
+
+The same enthusiasm can outrun attention to consequences, and Munkasey's guile-versus-force dilemma preserves a less harmonious competitive possibility. The sexual and reproductive examples in [Witte](#witte-entry) and Ebertin remain attributed to their sources; they do not establish fertility or the sex of a child.
+
+Evidence: [ABC](#abc-entry), printed p. 298, PDF p. 148; [Witte](#witte-entry), PDF p. 192; [Ebertin](#ebertin-entry), printed p. 202, entry 0690; [Sandbach](#sandbach-entry), PDF p. 67, Venus paragraph checked directly; [Munkasey](#munkasey-entry), printed p. 224.
 
 ## Links
 

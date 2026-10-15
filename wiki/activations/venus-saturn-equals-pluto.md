@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Pluto](../triads/venus-saturn-pluto.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 178 (one-based).
 
 Separation (divorce) in an agreeable manner or after short acquaintance. Slow separation in love.
 
@@ -45,17 +49,23 @@ Separation (divorce) in an agreeable manner or after short acquaintance. Slow se
 
 #### ABC Entry
 
-Developments, changes through spatial peace, preference for emancipation, growing harmony problems, and transformation of artistic tasks
+- Source page: 275; PDF page: 136 (one-based spread).
+
+Development of disturbances in harmony, serious development toward peace, disturbed unfolding of love, changes through disturbed peace, developing a preference for seriousness, growing harmony problems, and transformation of artistic tasks
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 183; entry code: 0610.
 
 Unusually strong tension in love relationship, temporary or passing states of chaos.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 58 (one-based; exact activator paragraph and adjacent boundary visually checked).
 
 One feels greatly pressurized by a lack of love, money, or other things. A driving need to understand one’s relationships more deeply, and to perceive their spiritual dimensions.
 
@@ -70,22 +80,21 @@ Increases the intensity of your need for simple pleasures in life; trouble with 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Intensified pressure and change in love, appreciation, and separation.
+- psychology: Feeling deprived and seeking deeper understanding of relationships.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Slow or agreeable separation, strong tension, and retaliation over restricted love.
+- events/manifestations: Passing chaos, growing harmony problems, and transformed artistic tasks.
+- conflicts/notes: The scanned ABC Pluto row begins with Entwicklung von Harmonie-Storungen, formerly absorbed into Neptune.
 
 ## Contradictions
 
-- None recorded yet.
+Agreeable separation and intense tension are different manifestations. Deeper understanding is a desire in the evidence, not an assured result of pressure.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Saturn = Pluto`: enduring attachment, emotional stamina, and the capacity to transform love or value through difficult trials and hard truths. Main caution: control, fear, and deprivation can fuse into punishing relationship patterns or power-bound resentments.
+In `Venus/Saturn = Pluto`, Pluto specifies the pair through pressure and change in relationships. [Witte](#witte-entry) names slow or agreeable separation, while [Ebertin](#ebertin-entry) retains strong tension and passing chaos. [Sandbach](#sandbach-entry) connects pressure from a lack of love or money with a drive for deeper understanding. [Munkasey](#munkasey-entry) adds intensified need for simple pleasures and retaliation over restricted love; the [ABC entry](#abc-entry) supplies growing harmony problems and transformed artistic tasks. The evidence does not establish enduring attachment or guaranteed transformation for the better.
 
 ## Links
 

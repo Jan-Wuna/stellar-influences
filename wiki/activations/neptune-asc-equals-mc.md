@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = MC`
 - Astronomicon formula: `Y/Asc = MC`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 To suffer from fraudulent deeds of others. Misconceptions. Distrust.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `118`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-I exchange my partner, my partner, my partner in the air, my weak for the partner, my exchange over the partner, my uncertainty in the environment, my personal world, and my environment
+I deceive the partner, my intuitive sense for the partner, my partner in the air, my weakness for the partner, my deception concerning the partner, my uncertainty in the surroundings, uncertain personal environment, refinement of my environment, and water is my environment
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `288`, entry code `1033`.
 
 #### Ebertin Entry
 
 The misfortune to suffer from lack of resistance and stamina or from lack of self-control. Tendency to act under the influence of others and to lay oneself open to being led astray or corrupted by others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `113` (entry; chapter starts on PDF p. `112`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ One’s spiritual path in this lifetime has to do with coming into a complete id
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT with Planets and Points`
-- Source page: `336`
+- Source reference: printed p. `336` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Encourages you to become a better person by analyzing and interpreting your drea
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal uncertainty and susceptibility to others' influence, alongside discernment of illusions.
+- psychology: distrust, self-control, self-deception, and understanding dreams or schemes are explicit concerns.
+- body/health: Ebertin's lack of resistance and stamina is an attributed historical claim, without a stated condition.
+- social/relationship: being led astray by others and deceiving or sensing a partner are distinct source possibilities.
+- events/manifestations: fraud suffered through others, recognition for visions, and recognizing improbable schemes are stated.
+- conflicts/notes: Sandbach's spiritual path and Munkasey's prophecies are source interpretations, not verified spiritual or predictive capacities.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize vulnerability and deception. Sandbach's release of illusion and Munkasey's recognition of improbable schemes introduce discernment, without guaranteeing that it overcomes vulnerability.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = MC`: artistic or spiritual vocation, symbolic presence, and a life path colored by empathy, imagination, or sacrifice. Main caution: role confusion: public direction can become vague, projected upon by others, or built on unrealistic personal images.
+In Neptune/Asc = MC, MC specifies the pair through one's own uncertainty, discernment, and involvement with others. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries describe suffering fraud and being led astray; [ABC](#abc-entry) preserves both deceiving a partner and uncertainty or deception concerning the partner (printed p. 118, PDF p. 58). [Sandbach](#sandbach-entry) emphasizes letting go of unreal self-images, while [Munkasey](#munkasey-entry) includes recognizing improbable schemes. These passages place susceptibility beside efforts at discernment; they do not establish an artistic vocation or validate prophecy.
 
 ## Links
 

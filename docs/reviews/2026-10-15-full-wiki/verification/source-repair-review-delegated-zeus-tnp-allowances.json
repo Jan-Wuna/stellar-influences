@@ -1,0 +1,2012 @@
+[
+  {
+    "path": "wiki/activations/zeus-admetos-equals-apollon.md",
+    "before_sha256": "a860b558ed4a66b0837235ae285080081c20d0fb66b3a3da7c3dad36b923c5a3",
+    "after_sha256": "dc391c4a8700fbe2c755395cab537b88c7fa7ce3384753dbdef4e538a40ac8c1",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF294, apollon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, apollon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf294.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-asc.md",
+    "before_sha256": "2f43c1a4920d859d3d0c128f46f8223e43ddac9539277a3794603b9a29d6e743",
+    "after_sha256": "2ae02d570903c382d9d5de7c2bb0ce5124882051210f35619a6bf0286dd73121",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-cupido.md",
+    "before_sha256": "e9e944a0340bc19afed9a194a83ce40c603b1cd566a4fad403c52f57c6e4414c",
+    "after_sha256": "618b8f875db903585df354cb15dce58705841c710698c9b2234aab58f13d5e72",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Both Leistungs-Gemeinschaft clauses preserve achievement; full German independently checked, distinct from Arbeit/work. ABC printed455/PDF226, cupido: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded. Both Leistungs-Gemeinschaft clauses preserve achievement; full German independently checked, distinct from Arbeit/work.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-hades.md",
+    "before_sha256": "c2179d1ada9776147e6e4ce9af5f630a4d970de9828a4ab79e0bbd121d8be854",
+    "after_sha256": "88360f2ed190f3271d3bd028f924cf88eb182b110b77b5c4a3c8c75bafe92204",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, hades: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed455/PDF226, hades: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-jupiter.md",
+    "before_sha256": "db06185663c378ff8ac05f967f5e62458368013a1148d9598eb1420a18fb3cf3",
+    "after_sha256": "ff5408c254b26e6d1ddeed7a84b06c6be2fd60ced7743d538cf9258482d698df",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, jupiter: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-kronos.md",
+    "before_sha256": "af6eb13d1f1c57f4cad2caf254bd6fa146275b32410802268ef3719eb8da9702",
+    "after_sha256": "2cafcc5bd934e3b276571cfcd583d2bc97ce6d93e37d2600e89fcd532c8f08ae",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF294, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf294.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-mars.md",
+    "before_sha256": "a25cdf2cbd94553f32c10528e754d0f632cf8466248ea54b420b6d92b0cbf4f3",
+    "after_sha256": "678d3d8bc51b714d9c207639229cf08f10f7d6ba1b6aab03dbc414f0d423f14a",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, mars: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-mc.md",
+    "before_sha256": "52359158a2c5e44423ea8b34087c11617fe2300d20df9c4336eaca6b38918180",
+    "after_sha256": "50544f36b16afe6b77fb85589305acd1ad3408a7a6ffc014b43ffff352db3415",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-mercury.md",
+    "before_sha256": "cb9e4726e76fea1fbddf28a50604526264fa2cbc50c0d931955e209cb455b1a7",
+    "after_sha256": "3e6bcbbf7d09cb04846dbdb37a70df3c5d3adbac976bc09f605d650e0d485455",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, mercury: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, mercury: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-moon.md",
+    "before_sha256": "0ca2fd08ae4de28e2efd2cf2a6ea20c4203aeed86086f1debcafd501cfbfdad7",
+    "after_sha256": "7f9407427a6b88c05e03e7c5ce9ffdccfc9922c252cf5676ca1baeb2824563fa",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-neptune.md",
+    "before_sha256": "8be391dc9e1c6a36a31d1e994c069de89892ceb746c5dedfeec468ab28194265",
+    "after_sha256": "0c598fa7c4c21cc6c8adb60a6f449c89a202f4b282ce7615308dfbfa7758c64e",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, neptune: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed455/PDF226, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-node.md",
+    "before_sha256": "b405089f3bfa9cac928e642862486f9d726c132a633568c98ff9c0bcb938b25f",
+    "after_sha256": "e243bbf318dfe3c54623bbf26dd0d65cb64f4bab5f942cea98e7d9411d5a6dcc",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, node: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-pluto.md",
+    "before_sha256": "66e118af5979fc046ef74d7a01ffa10ed27456b908f65fa6450e61a86271e5ea",
+    "after_sha256": "2ee01375a50e29488fa2dba476f38662eef58a60e5d944289a4795ac35812638",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, pluto: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-poseidon.md",
+    "before_sha256": "981e038e2089ab9e800bf3aa516b821af2c2210d4bec3590f901d8de827d38d2",
+    "after_sha256": "ef2205f9229649f187acd6b9bbce2abf8931d9b7e73122c64fa7eec1d30ba2f6",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF294, poseidon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, poseidon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf294.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-saturn.md",
+    "before_sha256": "bccd2388eb1b36306dff995bb384b7fb2e5ad9fb8791e76f8586128d03f2bed0",
+    "after_sha256": "333d5570d39b52ca73bce6c26b1c0f2e6b66f1943976b29a67025026f03cdd7b",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, saturn: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-sun.md",
+    "before_sha256": "fcd67376714a9f035c3ad855a9dc5e25d936cc0877c514c5d5eb862d59d5627d",
+    "after_sha256": "69ddc53c95e8c32c8191e0e9dd2bba12a0b8e8bb3c3dc2fa497c118b1f2e8852",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-uranus.md",
+    "before_sha256": "ba7c77595bc6a23a32b0be37e3e74db8b4bd15d2548e8404bdd1a6e3c62adca3",
+    "after_sha256": "58ac841bd6f04b7c1a019aee006976d0700f147380eab8440fbb3c324aa97647",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, uranus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-venus.md",
+    "before_sha256": "865a12f335b8af65742d1be40ef3cf9cec28dbd019b73688a58e074409b7468d",
+    "after_sha256": "5d925d6fbaa2422bec316d1ac8e67efad3fefa576ecae6e03791ffe3b877b156",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-vernal-point.md",
+    "before_sha256": "8a0a1d87026dbaf87b0c01dee931c8a83ab190a4fbef190cff8b6cc95b78bd8b",
+    "after_sha256": "bda5b8ea3c100daef78c82018bc0ab1b71dbec847def1cec6fa6b9ba74d7c5df",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF293, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed454/PDF226, vernal-point: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf293.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-admetos-equals-vulcanus.md",
+    "before_sha256": "9232fb5ceb8647e2520be454ee8cad3ceea576610b5cead7c89d753aac08ed79",
+    "after_sha256": "88e7ae7afed7d944b00566753366be5948d8bb4bdce502532390cc62429c80a9",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF294, vulcanus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed455/PDF226, vulcanus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf294.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf226.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-admetos.md",
+    "before_sha256": "8645853098a2518744ba050e82fd7b4c7466be4e8847ce05df5d2f0f989cc294",
+    "after_sha256": "91adb3d25fc2e5048b41abffaf88b6ec277e103cf0a1a3ad0b1463becc15aedf",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF292, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf292.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-asc.md",
+    "before_sha256": "bcf80e735befdbd72e7172a84a1219465404bc316b02d1053d160deae9b8a703",
+    "after_sha256": "1fa5bd8240cf591c2e9f2463d9445a851f399bf9b7c2a96067068dc7ac385e4f",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-cupido.md",
+    "before_sha256": "bf36caa8cd239d1941332cec13caf720a345a824a9502e3244eeedc08babe48c",
+    "after_sha256": "61742cf15e020b0a75597080958de79bedc6cb074944dc2a85ec1a464d8b3ea8",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, cupido: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-hades.md",
+    "before_sha256": "2ba08179a68daa4ec18b98171ce82126e22fd2a6b2c07742d8a964ebe2f5d8d6",
+    "after_sha256": "52e54bfd0a895aad94224e4e256a0ba5120b747dc31b0c860ab874c45cd751c7",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, hades: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed453/PDF225, hades: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-jupiter.md",
+    "before_sha256": "920388e574b61ea5479329fc21e8f7eba5f24fd192a88b4db8538ec712ca4f6b",
+    "after_sha256": "e3f58066390e2fc23fe20824d5fc8f92dbe6eb96a74e6c0fddbca44f43bf225d",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, jupiter: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-kronos.md",
+    "before_sha256": "e27770f3b4195c818e821ee2eaab1feccef41aff1ae427915553c2498ea3ae1e",
+    "after_sha256": "42a187c4f78517c9a80c5e1881741a57063fe65a6b2d656eec422f83636171ca",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF292, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf292.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-mars.md",
+    "before_sha256": "c6961a7e3141777fbfa4ab1bb17a45e684a7b3ce4312e631812acee7389c17db",
+    "after_sha256": "7fed0bb822e47d76401695702fbead00d0bd610219cea591d44fb04da1478364",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, mars: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-mc.md",
+    "before_sha256": "8f704ba35ecc32a111d6cff5401998c8a26c0fe934f9e9799515805a86430ec4",
+    "after_sha256": "01751951056a125a6342fd030f03f55bda85b58e15f839cdae3126fb131ee968",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-mercury.md",
+    "before_sha256": "14909b9cf0928a41af94356d18fa68d0220ccbc610d13384285b8c9ac3bb36a8",
+    "after_sha256": "527b74d543df5a2d141aa896ead792dc9348e143c4f176d40b99cef84eb44492",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, mercury: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed452/PDF225, mercury: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-moon.md",
+    "before_sha256": "e0d45c4745654e671036bc5528232c25f7871d00a0a2cdbabfa9add967b98492",
+    "after_sha256": "5551664e3d25b5954823a8d49ab0f1dd2a5ab803617f389061a0540e449c68be",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-neptune.md",
+    "before_sha256": "eb0f392f830c305df4fcbea24ac27845daf678ed4edff946bb81acf467ff2233",
+    "after_sha256": "01a0a8d13063975a5f41943d056815b6bd84ef41d1ef6ed59583cb3f9b32bea9",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, neptune: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Leistungen im Wasser is achievements in water; Neptune ends Zukunfts-Wissen gestalten before Pluto. ABC printed453/PDF225, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded. Leistungen im Wasser is achievements in water; Neptune ends Zukunfts-Wissen gestalten before Pluto.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-node.md",
+    "before_sha256": "6c6cb050dd1c6e9844de7d5d55a198270067080f36eaf699f3846b2e09bfd0f5",
+    "after_sha256": "1fa3e586efecb53efc19d7489676430c0eceff635af1caafe72df8908efb754e",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, node: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-pluto.md",
+    "before_sha256": "411eda7630be53c4155041c1cac1ada717788d252e02af3016fa319a598cbf4c",
+    "after_sha256": "8732d84d9cdee87019b3831d380fb7263f0e997c7eb180a4789fdb6bbbcc8186",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, pluto: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-poseidon.md",
+    "before_sha256": "4b4dc9a128041c8c76985abaf75a7afb5fbc919576b97f77c676bfe79b9dd426",
+    "after_sha256": "8678a2a8e19f15196a317e1c302f2fab9839dff88b70a5fb63a5320ec89ca754",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF292, poseidon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. WITHDRAWN earlier scan misread: actual Wahrheits-Bezeugung supports testimony. Full German and testimony restored; false Zeugung/generation interpretation excluded. ABC printed453/PDF225, poseidon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded. WITHDRAWN earlier scan misread: actual Wahrheits-Bezeugung supports testimony. Full German and testimony restored; false Zeugung/generation interpretation excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf292.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc225-poseidon-detail.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-saturn.md",
+    "before_sha256": "c7abe06eb4940bbe14faacc4a7cf5d0e1cb3545d532df7e3760d330af6902d9f",
+    "after_sha256": "4cc196a948847915429285e47e77cf6a0897ea577bbe872e2aa28692d27eb00f",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, saturn: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-sun.md",
+    "before_sha256": "53400216ceec2470a4e86fc1fe7634e548e6c1d063ffefab602fb88e077ad8cd",
+    "after_sha256": "bd2ae67edf9774f7516a6ed9d6b36ff4b25ea9c2436254ae0d3d3520ec6188d0",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-uranus.md",
+    "before_sha256": "8bfbda6df6e1b93bec89b813fb240f6d9cc52058036b9877e51d36e131d20ce1",
+    "after_sha256": "8d0fbb591ba39723a83180cb6252539825dc8074c1eab8c52fc7b97c6381b781",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, uranus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-venus.md",
+    "before_sha256": "1cddf8968bf20b14a64b4c782dc320619c0f17b968238266427d00c0930f2d46",
+    "after_sha256": "e9537a95657cd477f757a334c0d3aca53712ce165acaeb0a489333b9b0f37bf5",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-vernal-point.md",
+    "before_sha256": "cba2399b846b401872aeb9c9a12af238641151085fd9e3f929afa87fce32fd99",
+    "after_sha256": "735adfe57b4faeb387a9c3f863aac2af2a7996c6c5a62d17ccf2818f24422015",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF291, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed452/PDF225, vernal-point: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf291.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-apollon-equals-vulcanus.md",
+    "before_sha256": "ff3b795dc1c9c992ab3b7f45207c9173102f4c0f2b6c5a03ae2473695da1f2c6",
+    "after_sha256": "b763cdfab33c9942f5680185ef8042ee4d7907285f2ba61a52059a8050e0cf86",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF292, vulcanus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed453/PDF225, vulcanus: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf292.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf225.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-admetos.md",
+    "before_sha256": "f0d86e178082c39f8743e26ec713e9d79579e93b12c25b1421112131c303bbad",
+    "after_sha256": "464ba747f6358fe65f735a1b574e456a5e727ea62028495142111d09dc3306f5",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF290, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-apollon.md",
+    "before_sha256": "0b52703b965c03d399e191b7473536e806c0f3b1bc6e3a1e6c70c8b4a59ea466",
+    "after_sha256": "bda74e299e2989dac4d3a401661d620907479b871969093234a0349edc3dffff",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF290, apollon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, apollon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-asc.md",
+    "before_sha256": "c8ba062552da6329b24db99abc5f33fc10d47ea5ce573050e9dea9a09121a68b",
+    "after_sha256": "93c16ddf86d40d5d60ce488d123ec8fa5e4941ac83cd01019208ce23e1ba78b4",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed450/PDF224, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-cupido.md",
+    "before_sha256": "d6b56074ae9e476530382b1e01ce0b9683a10663a5e93541f35cb7e340118b9c",
+    "after_sha256": "79dc705faf258961619f88b0f0365673482ff34486d3eb5af43faad19d5471da",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, cupido: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-hades.md",
+    "before_sha256": "3277fcf00c2fe952e0e16d2cc0c163656b66534580f532aed08892a67181cb39",
+    "after_sha256": "51bc43f159f1c3bac5b24ab42bd43586c1015b5540552676f999e66767efe5bc",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, hades: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, hades: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-jupiter.md",
+    "before_sha256": "0efa0c37dc1041563294b95c067c596e44cc0025f796501f53adc656e4a2e4cc",
+    "after_sha256": "d2509a7c1dd7a43ae5cc404dad6df84a0d0def4708829d852eec81f44464c9ca",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, jupiter: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, jupiter: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-mars.md",
+    "before_sha256": "6455c465176129f5881894c461f847c4141b72600ac632e3f912a7de4d1df938",
+    "after_sha256": "765a25e8744c29fc477828f06ce968ee158a67dab4402f0329932fc151d5cc9a",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, mars: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, mars: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-mc.md",
+    "before_sha256": "30af2246e62514ef7cde79e35cedd539bb77b952ba5dd9fbc0314d9bfdc4459c",
+    "after_sha256": "1dc973fefc66c21e691c15af633d7c6f46865a72bc4efe5a31821b960c396c9f",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed450/PDF224, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-mercury.md",
+    "before_sha256": "57156f20edf4f6f1f1e7c7ee3a7a22f7945c835075e309bb57aebf0b04e4a033",
+    "after_sha256": "102558e1e7f155e58222783ccc905c20444cd0134eaeaf1b44fadabe3f340ec0",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, mercury: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, mercury: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-moon.md",
+    "before_sha256": "bfb2960d15119fed032f9b3dc407fd4fd9fc26042b71b78ebb14bbf6845591f6",
+    "after_sha256": "e016005c23d948253d8b5a50889beb5bb41024ab184de37b8ba13527a954f0db",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, moon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-neptune.md",
+    "before_sha256": "32a589ce319c9c8e4e663e6cc49967b5d0dd85ac02cbedcdaf02f0c1ed5e064b",
+    "after_sha256": "45c39dfe86bee6aba00c95efc2cb24c35a07d3a706010b9d0fa9c6c1a9aa8a35",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, neptune: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed451/PDF224, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-node.md",
+    "before_sha256": "42ba69915f723ff928e4778f66be684b96d08b787f30e3e6dd24156d792fbab1",
+    "after_sha256": "f530c4f6332e4851ff645b209ff3672dcdc24bda0bfa4499a1fe13914a2282ef",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, node: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, node: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-pluto.md",
+    "before_sha256": "b780d6dc16a3c77e24b6bd467dbcbbd66ed3b119fe1864117b5616ea2180b619",
+    "after_sha256": "c35de2b3736e1456b4ee2b5cbe3a7fe1d18acac30bd76278def4be7c4e9c4194",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, pluto: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-poseidon.md",
+    "before_sha256": "1615c9550a57b5d40e3036bdbefc02da64484b4ac21604445c8c5c8a023878c2",
+    "after_sha256": "56657d5c21512cdaf369db7e2645f56f0e3307864901b26d946c71cc4d3aab64",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF290, poseidon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, poseidon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-saturn.md",
+    "before_sha256": "14e5e946c0ec625cdd104a5ef935e686e3a93828c0543b47bec8d6157facf301",
+    "after_sha256": "3ecddc393c3f9b5fe78933f6d5515728ec9972d77bc9306c0a3a94e47d5bd41d",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, saturn: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed451/PDF224, saturn: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-sun.md",
+    "before_sha256": "b8658c6214af4bdc45ee927f07206d63493eeb1d79bab58da78d4286e03257cd",
+    "after_sha256": "37231adfad071631634ac5e949ae12dc0187a1fcd1f36c13b8d2248ce701f3b4",
+    "ledger": "activations-101.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed450/PDF224, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-uranus.md",
+    "before_sha256": "9414cf4aeee368fa3aed04dd621a8f4c8868ae645e11d675818f50aca692e848",
+    "after_sha256": "3539c2ee85a0d8cb6a84e83a1b6079b71ecbda89203d73b08c3f5f84935f1a4a",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed451/PDF224, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-venus.md",
+    "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+    "after_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, venus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-vernal-point.md",
+    "before_sha256": "ec0eaa5aa8a18a7949a16ca2c5c5879cbfcbbd1d127284a1eabb96435c5bd3cc",
+    "after_sha256": "47e058f64a5645eadc0fd3ca7e60b06fd357ba98b41fc0f1f2b06fb09b42573c",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed450/PDF224, vernal-point: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-kronos-equals-vulcanus.md",
+    "before_sha256": "76a661588d5b6d47d1a42a346d121042b2d57086991561ebc08f9b023f04c3c0",
+    "after_sha256": "cfd0348691935bd93cd375da5e9a66db201e9aa117cb8aa936ffcaae0e249bd6",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF290, vulcanus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed451/PDF224, vulcanus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-admetos.md",
+    "before_sha256": "49f0d82ea5f8b94c1d677aac8c36c0e28c82602815efef3839584076ed3b99d8",
+    "after_sha256": "487c4c40b3058a72d604f83ee7d32f1c49f71ac194a1fcb3cfebd02cb5116939",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-apollon.md",
+    "before_sha256": "40e794e77a06d7dcd2d5ab35189e8e0821a5519579acf668cb2217467fb7290c",
+    "after_sha256": "51b3cb79636f1961cf980bd3895b9147f5fa38ae41820e4de90c3bac6403ed9d",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, apollon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, apollon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+    "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+    "after_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-cupido.md",
+    "before_sha256": "575e833c9f93be8fc93f0bfb7ad8326c16093e54346b2cde5797243eb21c9870",
+    "after_sha256": "0a65cea6dfcf57c77eacc4a492b93a455167b0f472270165da183c1792aa3cda",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, cupido: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed459/PDF228, cupido: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-hades.md",
+    "before_sha256": "841086cc3ae58ed504fe1d8659d6f25f9d77e77003add6bca707e759e5ccec8b",
+    "after_sha256": "6c57ee36d2eb52ada2a0af4f53135e0bdeb4795db18a517a8c08311a9440a519",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, hades: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed459/PDF228, hades: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-jupiter.md",
+    "before_sha256": "bbe5f814580f344176af81b79d4379d19d8324e58cf4463ea02f8bdaae9cb235",
+    "after_sha256": "a7d5f43811fb1b3423ee9073a5d6cf5f7a3683ae722f17fbd950135e341b95e2",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, jupiter: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-kronos.md",
+    "before_sha256": "534cb742abc8cb5c6fc6187019915c6ecdfdbb578e0925a4c81274b841344a05",
+    "after_sha256": "6f1768703a12876a0edf6ee0d28438ee609d73f5d5f671d7654464b9fbf460b7",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-mars.md",
+    "before_sha256": "dde5380176ece64b588a05a503315aade5041555a64fcb4ce34a97edd6abc695",
+    "after_sha256": "97b2cc3a3ee4fdc3de043ffbd79872261b9a5867251ac29c52a69f15be517dcb",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, mars: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-mc.md",
+    "before_sha256": "b68f42db97ce3b4e605a2145b3086e06ae84ce4cb526649a49564c340eadfe1a",
+    "after_sha256": "28d1cec08d24544641083526ae8a9126b626626fae5bbe7c868c47ae788b4f6f",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-mercury.md",
+    "before_sha256": "28e55eaeffbabc05b6cafd23cd966a60a3f0556c65427521f89d519f831dd494",
+    "after_sha256": "6b73a6cbc109962fbb0d65e3ebd429a605f9a5d5ad6c9fd10e612c40f3672c68",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, mercury: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, mercury: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-moon.md",
+    "before_sha256": "24c826e13b564d02943a9848309a6d34fce3f5cb594f1b09088de76f0f7a45f9",
+    "after_sha256": "76d6f11d339dd07eb3830ba8476b83019b979a8ee2ddae72cd878a26ff90a56c",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-neptune.md",
+    "before_sha256": "1b8567f332fe3dd13736a5e2eaa451bff996a011a07469fd5574710dd28523cf",
+    "after_sha256": "1a1390b8be80a5abb012bfa7d953c9fb263d700a879801646f5c3d38325c93f2",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, neptune: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed459/PDF228, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-node.md",
+    "before_sha256": "ebb27c47b5a39bae14b9ebc54078145ab4c52615f875cc69296de1fd44f8262e",
+    "after_sha256": "5249745bfe376661db686ebcb98c1aa25fcd296be745893e54c79bd8a353bc92",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, node: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-pluto.md",
+    "before_sha256": "92aafb044a9d7dc7dec6939a996241efa8dd54575d9f1cc21f117c2e433e7c4b",
+    "after_sha256": "c1dd173cbdd0e50c5b3f039e7d32d833e273de1c3a5141e8ef87d919b935506f",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, pluto: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed459/PDF228, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-saturn.md",
+    "before_sha256": "19e22f67348f7bab57eee196b85229f5b01a91e2eb4ae3a435c7e446bf169116",
+    "after_sha256": "1b5deba0c978b832a4ca4be76d1dce95808ceee6a82b91b127fed674134f1463",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, saturn: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-sun.md",
+    "before_sha256": "d4235fb0aa479b80d68dbc5ea910b54bacad956b89b2f6b57856bbabb33800f9",
+    "after_sha256": "75e8b4b2bbbd633fc37be3026418ff78e537406fc8d2909c4e76caf0e4c006bf",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-uranus.md",
+    "before_sha256": "d58d827acbbed840ebf7f79dd478b4f2d423d116c2544e3ad9e116244ee05d0d",
+    "after_sha256": "f6af9f17637d26328f4047bd162cd51a4ef137937b236696bb481c705136971c",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, uranus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, uranus: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-venus.md",
+    "before_sha256": "edebc11d66209d0c2e5cd0cda5f72cfb4cb528f78046f354b411642a734b93ad",
+    "after_sha256": "b317168dafb1317a81d3b9bd17f506aaaba4928845eb1f3b3ef2eabb7fa749d4",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-vernal-point.md",
+    "before_sha256": "4e9046a68df5826a62ba2a6e1722ecbe006f53174e0fd79537f4e8394d54b523",
+    "after_sha256": "c2a5d8eb8a2308e0c94d69aa3afa8319e20a5e586578596508c372f810e47879",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, vernal-point: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-poseidon-equals-vulcanus.md",
+    "before_sha256": "1183defd8134476a242288bd34325ccfdab8e987562b7c3b87b7521941c3c239",
+    "after_sha256": "ffbee509841c57d05e237e5229c1ba0bb5c0769e5096df641094a4153f6e3e15",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, vulcanus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed459/PDF228, vulcanus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+    "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+    "after_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, admetos: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+    "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+    "after_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, apollon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, apollon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+    "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+    "after_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, asc: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed456/PDF227, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-cupido.md",
+    "before_sha256": "03c9c6cee2d8949d2ed8c34af6a0471715fade79104c2b266286028a44f2ec8e",
+    "after_sha256": "c7ef801a7fb112f370db85441474764dd841bb1d09e513b3d05d60d3dfabab5e",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, cupido: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-hades.md",
+    "before_sha256": "1f71bd3e16cdaf026187c16b57954bafb163fce25be8d1709fa9d7e206ee2933",
+    "after_sha256": "9e23dec197cbbc5383c53cfc28974e7f977b320b439c0f3a5cd320ee7345fe48",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, hades: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, hades: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-jupiter.md",
+    "before_sha256": "7b330708806859243dbbb7d3ba210229294df2685cd574554bd3f52a56301881",
+    "after_sha256": "ebeef663f452f4d6f3cbdfbac67d4f2609ed1d82eaceb9ed48f3828675d1ea2b",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, jupiter: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-kronos.md",
+    "before_sha256": "1f748f3191c4e58c3eedb4ab71212908b72d989bca01bbfae1c01b0c67e16809",
+    "after_sha256": "e645d371bf7dba54f7b160eb8d172d19389b55a2f5ee75b6409a7efbe9ead540",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-mars.md",
+    "before_sha256": "6872097a8b58b4da8888488d35bba4b95c261837615e875987d2e1b0c5852158",
+    "after_sha256": "b3d31cf1db25a8a4ea90a02bc8b69a6e47c71323f5f64645492da2cef2613155",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, mars: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-mc.md",
+    "before_sha256": "8897aacfff16b1e1573d5f2a74217f22b61fda818a5c32fe21f7a3037bea556f",
+    "after_sha256": "8c97c95f44ff793c8c54a3bb40cc37484226cf0af41fd00e2bde2ab9163d2eb4",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-mercury.md",
+    "before_sha256": "33d9ec0e3ca4810bf6888888677c7ce4fb68bfa8dda07be6df5dae98c004ac79",
+    "after_sha256": "bc7b91324af1ebfda2f67bbc227a26308aec18cd802e71e99ddb11556406874f",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, mercury: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed456/PDF227, mercury: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-moon.md",
+    "before_sha256": "0db7c22951754263192a5591a24ec66e7fd3ea8fbd482abe71090f849ea328e1",
+    "after_sha256": "77fcaa70a2308f18ef4308ef38d6a16fce723ab27c94c1dd8fd24007be7ac98b",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-neptune.md",
+    "before_sha256": "f927a35cbbeed425f204722d7d85e281b42c9682431a67145abd13072f8e7d2c",
+    "after_sha256": "0c615effc614988e7111f39d2f073db7eccd65bae8eae15639dec8ca85b2bd83",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, neptune: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-node.md",
+    "before_sha256": "a5e5f7a07600fb0acf3576f2359fbdffeeed32e9c0d4c13b1bd4ef867bb41934",
+    "after_sha256": "9cc3e2b71aaec28bb7d4327070c1d8d48f35ffa128759cd7dc5d7b7c8b750e9a",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, node: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-pluto.md",
+    "before_sha256": "a24658ece4083912c13b2634728c5fa999d699ff755c1187178600d03bff663f",
+    "after_sha256": "0de68f3f270224c05641323e745a971a5c16eab834b18a68c1299ef42a37c952",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, pluto: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+    "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+    "after_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, poseidon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, poseidon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-saturn.md",
+    "before_sha256": "0d5afd2edce4d59e69409b43545028bf2e791c123a4765e667c4ac09e77c87be",
+    "after_sha256": "394259972fe7f18a1cc65b1e7a27e2b69797272b173bc432f9252a483342ac8d",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed457/PDF227, saturn: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-sun.md",
+    "before_sha256": "48630d137d1eb18bf3d5652238018eb5b39ecd774b3946a0725fccc3dde60e4e",
+    "after_sha256": "6156e6c8922da6f0f1bc8e36bacfb6d1d0875324896278b638a44a08504925d6",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-uranus.md",
+    "before_sha256": "7e072af052d649a4b4b7d2456a1cd6a566c84d4d540fbae3ee0aa0f27fea75b5",
+    "after_sha256": "25fa82ecfc17e1004e5aa296fd4fa05674f62dd6e79cc7acbfe5ec5f5110ffe3",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-venus.md",
+    "before_sha256": "0fc03318ef809f6424887d361894390c1f9f4c0f14a2d3f6ed13a682f3ab1d8c",
+    "after_sha256": "421d50caee20d0e4be8f7fc8d0d32ca69f9bfc7fb554c248b0dead7ff1236965",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, venus: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-vulcanus-equals-vernal-point.md",
+    "before_sha256": "d36a8d484fa4fc4d2147df0b1f87469d3c9058227ecb1f95492a8bf54c8670c8",
+    "after_sha256": "f18230796296192e1eb621482bc9efe1d22212c3d78a42003549d5b1022c4825",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed456/PDF227, vernal-point: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-admetos.md",
+    "before_sha256": "ddc1a1cc4268ccca3961a89ee3dc119d142390f45d2aa5ea5b46b69030a1dcc1",
+    "after_sha256": "15abebfa742398cdea83f34aa15a71760b69b3534252409db6051ad247e222e5",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF288, admetos: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf288.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-apollon.md",
+    "before_sha256": "2889a11bec8d8c8d5a5171060c3978fef3f967955cdcb7e95306c5ca9a332e2d",
+    "after_sha256": "e6831a9a57c93894994f4c4e383de9adace7306ede783ee4f8f357060d674a32",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF288, apollon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf288.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-asc.md",
+    "before_sha256": "6cbe906f1bc07912f41c46a61704c3ff9650a48ab4519cc0f444631c056590de",
+    "after_sha256": "19d8f0c73566f77468d1166b6a8ddf54351f19ce52fe4d65faa688e71705f1f0",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-cupido.md",
+    "before_sha256": "ae6243380d6496cafc1e892fe15eacff0ee93a832a4d9174129f949aaa2b2e2f",
+    "after_sha256": "42df59ed40bb80eaf333d85dbb07003ef1f5f7d9be55e546d6463f275b3a8b17",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF288, cupido: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf288.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-hades.md",
+    "before_sha256": "7d28e035dd6527ad5199f9889ccb0ecb311712feb330b0ab94e25f04e109310f",
+    "after_sha256": "1e50c36d26ab59972b4bbcc544b80b4db54f311e850373f63b8e795821e68563",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF288, hades: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf288.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-jupiter.md",
+    "before_sha256": "a419a915ea8bc58b3f0ebc9cba543bc5a9b471e8c58ec8f79f0e0b15f99cf8e6",
+    "after_sha256": "364a7ea4541b684907a9852400e97b916ae699fcf93131c41d6627acc43ce167",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, jupiter: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-kronos.md",
+    "before_sha256": "0fd93e40aff4ebd0c866c8d5865d21144d981eac0e15a287c73822fd1b640ed3",
+    "after_sha256": "25cbad2f84168b3a89b9e129856046d1daf5579409db90b86bf73c1a5f3d6add",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF288, kronos: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf288.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-mars.md",
+    "before_sha256": "3b9594656d230aec0ce6ca0ed88678c5b8278405b4604eca12bd5b8e271db28f",
+    "after_sha256": "f5fa1e2a4820f99549401503a449b6c9bee9f5f78b8889b8dc17864e5e97695e",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, mars: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-mc.md",
+    "before_sha256": "300d07e65a21a8bcce3664eb49f67fb6fa2b12c3fbe2e14a9738786f720112d1",
+    "after_sha256": "4f08be4ad450e56f23a9c586ef94175b33b70cf93df64c65a8aa994ff5d0ee93",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Printed One’ own retained; intended grammar uncertified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-mercury.md",
+    "before_sha256": "854e35af761c631edef093d7a1ef546c5b9f87445f533aef2c505e30d3220d43",
+    "after_sha256": "1bcf3bf171f8b36fc8f1000cdb820afcea89f0c710db7abefc81015ee21debb8",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, mercury: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/zeus-zeus-equals-moon.md",
+    "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+    "after_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+    "ledger": "activations-102.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Inflammable retained as printed; object unspecified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+    "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+    "after_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+    "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+    "after_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, apollon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed479/PDF238, apollon: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-asc.md",
+    "before_sha256": "69921bee41663ec40a6d9ae3bf3b640f52d7cad72ba719a72a850c46b1caaedd",
+    "after_sha256": "d956283627f534ad73843e7e3c7712dd7228e45e4b60bfd05d8ae4357a610b3b",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, asc: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-cupido.md",
+    "before_sha256": "d0997cc41aa62b67cdb4714a58ff8730f3789126796e9a680d78085386f1108e",
+    "after_sha256": "20d34f35a9809ad92c327633a98457f2979f903221b44e92a72c4b82f8768fc6",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, cupido: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-hades.md",
+    "before_sha256": "85d763a17ffd3359c35444233122b3df14ea41cb44d6008e21b2dec8e0f9f7c0",
+    "after_sha256": "406eb4ec588f73dd01bb2705c7c869df9c95b3b94883f2e0bc2b13f616ee0f9b",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, hades: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, hades: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-jupiter.md",
+    "before_sha256": "ffe247d9a3cf02fb3a270523972504032e782abb1816dfbeec8f2484a64d74c4",
+    "after_sha256": "baf1009dacf9113a5f934df27f5f97fb0500ce848d22d0410937c756141f2d98",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, jupiter: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-kronos.md",
+    "before_sha256": "8556ff03f205b66e4c879b893f52d5922081f3bb109ac2051ec036a5c9511a82",
+    "after_sha256": "3eecc64ed78626f0edcb117972918f13620e7bc9edd8bca3c4109ebce4e5d863",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-mars.md",
+    "before_sha256": "5ecb30a52b80b7352b78de47e9a68cdcc13b57b52375f0dd8b8a235ea8fa4a47",
+    "after_sha256": "18d9de62abac39f13cad615d00a8964205cc8f2a52a09840dff449c0e2ef0e50",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, mars: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-mc.md",
+    "before_sha256": "84b0d84555d85d6afbab3fe7ffc56d670e9d5acb1eb19e286cfeed506b1b8d07",
+    "after_sha256": "10a4ec4a0fc5e6a88016d616db8daea5c2d60dd009669ba1b2850864dbafa81e",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, mc: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-mercury.md",
+    "before_sha256": "5c3e8e0b7856d65b208bbcce61d360d6c593d0bed01f9266dce8f747d73b45af",
+    "after_sha256": "45fb551a1e5c94ef8abb62dd7bd9bdeb9bb8ad3c4bc82d0f4a1f32840d6733c3",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, mercury: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, mercury: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-moon.md",
+    "before_sha256": "a168aa3dccc708be2ad5ffdeb33a0d4a42202e3dc5cdeed1191db881e9f604c0",
+    "after_sha256": "07bde2898b918c4aad3c2afb327ea3f8f83d025bb00009a51e6e6c9dcc3bee8d",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, moon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-neptune.md",
+    "before_sha256": "1ce6fe227c229d337bc6c4f76b617c81ab8aecf801893444fcdda28d05c66e95",
+    "after_sha256": "6a24530e75e0e7fec5d490528561d8c3a995ddf4f2ca976cb4c806547f3c10d3",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, neptune: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, neptune: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-node.md",
+    "before_sha256": "1590f3d5b9d3c1bdf582c401a69ccad30baafda8de10f135c15ce4bdffad7b6f",
+    "after_sha256": "2736d5e4cad61607b516790bdef5f49808430b86ce750e1c9aacc16ef4a91a9d",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, node: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-pluto.md",
+    "before_sha256": "c6848d0fc96b3071c75fd554adfd220ae91f7ddbaefe68b61c1caab33f172a22",
+    "after_sha256": "a69ac9d578333a54ee3b79aff4f50cbdb74a1ce1f4f7bfc481f394375cd42ce7",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, pluto: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed479/PDF238, pluto: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-saturn.md",
+    "before_sha256": "60962c3f8efca66f3bf6461811c5d9856a66d8f3a696b900daf00e2ac269bbe7",
+    "after_sha256": "091825b72cf03626e66b7405d2a2993175f5db76b8a05e21619007ba60bfbc6e",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, saturn: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-sun.md",
+    "before_sha256": "251843f320675b7c78d1225915f2e12ba7ac69a8a17bdd759ecbdb0e875261c8",
+    "after_sha256": "0c9e20a1eaa5bee541184a9a8e2b76c186960ab04c06d199df67a85567410a91",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, sun: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+    "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+    "after_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed479/PDF238, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-venus.md",
+    "before_sha256": "ae9971e9ba57b82bd1d04eb11c57813f8311d9659930569d39caef6ca8df849a",
+    "after_sha256": "afbc95c8af625a1b335624160f55885723c823df895bae464ef94a08d18b67bc",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, venus: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-vernal-point.md",
+    "before_sha256": "b8fd05e7fdb792d0e92ef6a74f0fe73a3467b6638cc1ff7d9aae66c46dc51f99",
+    "after_sha256": "0822c84912d7b308bd9f8596c389fa915e6b2bf4538535f5961c3b260c5f116f",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed478/PDF238, vernal-point: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-poseidon-equals-zeus.md",
+    "before_sha256": "5b9455a45ea7b2442189329c83d490ba255a7b81ee8ad2bafd122555afda7dca",
+    "after_sha256": "67fa86ada0d2f32be1d8b9bd635cb0f79a3d5469a4cd7b0ad73f0fc3d08b20ed",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, zeus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, zeus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-admetos.md",
+    "before_sha256": "28c895d566c9efcdfc3a7c4fa25f2912c56843c49bb1c4f40ce2cf327988d02c",
+    "after_sha256": "bd1d30a87e39729e68e016cf78d8565e7faaf1bca0576b9625a4e89ff65cc11f",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-apollon.md",
+    "before_sha256": "69f726ac728f8d54b6b4fbf950a047f5ccb11db7e984aaa4799f7a2ea1b22283",
+    "after_sha256": "cbacf0696824fadf2c2bdc342bc70c8a89d31eb76451ece79a4369408aaffd56",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, apollon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-asc.md",
+    "before_sha256": "81618833b750c03b6646882040a98f044715df8cc7eb80b9a461f2b47bfcfbaa",
+    "after_sha256": "add0406d5874e3d19be46f7b5f06ff38ae81d9ca1135b6ad648948fbf0a6a035",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-cupido.md",
+    "before_sha256": "a3dff8fc65ebb4d9d4592686098824e9bffc0d53868245eff5fe5eee1c3290df",
+    "after_sha256": "e99d4767ec22bd7c8c47c83541a1a74124a380f4232908d37ecd1d3420e87d73",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-hades.md",
+    "before_sha256": "97ac94e86974cd2b26d3127cf411699f0f59d7e9306a7f86d157338146cf24f0",
+    "after_sha256": "f39f75c94ce05703ff1927871e3f2e17c101566a91289719ddccee99e98ca1f3",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, hades: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-jupiter.md",
+    "before_sha256": "0ac6d56413fa25cf7321239130b5ae2f5f0d1da3aa90ebcd839a8c88ef356e7c",
+    "after_sha256": "c1f5aaa0f1cacb9179cec029f5601c2dc38f623e7adfc088d5c843e3bb0ac68d",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-kronos.md",
+    "before_sha256": "d22ad71b9d61f8d69c5ba40c82a5d32673e66b4aa9b30bbd4050e5faa83abc5b",
+    "after_sha256": "4d6392b2ebaa2f414d4eba6b1f3266c3541a692b0322745f108794d4e11863d6",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-mars.md",
+    "before_sha256": "1d4708a8200fe2bdfc5bf6c38597c1e3a62ae12ef460fcae2bf2849eb44e5038",
+    "after_sha256": "b1f0e6d9ad9b0021d4f857fbc5b5f1ab2885eeddee70d90562ed57e42cd3c167",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-mc.md",
+    "before_sha256": "c2df91c8242e919e7061001be69c1878333055a600a37d732e8efce71aa6509d",
+    "after_sha256": "feafdaeb27850ab4eba5d74cb36bdcdc9245a1f34f9717b54342e03723a2a162",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-mercury.md",
+    "before_sha256": "87afdc1bf6ad180ff371845d64cfe5f963debfa10402bb0ffe3352bf34ab292e",
+    "after_sha256": "1e11afddc64a6b7427c913e89be72dddfd43461f4249f5151db7f3b317125c7d",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, mercury: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-moon.md",
+    "before_sha256": "c45427cfac56c4eb9e67952f8bd057b4396f39041405f411e63d48d4e01e9cf8",
+    "after_sha256": "d2d27442025a75a5f89cd6a7db0c10a0c27d23938b85f33d39ab485efe285b49",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Printed 'To a cause sensation.' restored; source-native quirk, not an OCR repair. Inherited 'hour or a people' intention uncertified.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-neptune.md",
+    "before_sha256": "76aa3a43ca882da838e46afb49e5748c32a5a2e433e762f3c073b4abcc92c0c2",
+    "after_sha256": "32d5e48e2aa79a3776d575cb5b1220af3ff72fdf9065ba32bfe119cb85b95c09",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, neptune: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-node.md",
+    "before_sha256": "095a30ec8fe90e1ceca36aeb1aef57cdc563acb317825349d5a55c34461f9b11",
+    "after_sha256": "a13100b617518d417dfda377da3fcb34ecc8ada52aaa214b10412871d8716306",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, node: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-pluto.md",
+    "before_sha256": "3885b3f2e25d1dd0f88a870191819261fa08b030fc3475051b11f389bc612b9c",
+    "after_sha256": "d71ab0173595bec440399878a911fcd4377b7a5f179780ed5739c5b5c16a924d",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, pluto: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-poseidon.md",
+    "before_sha256": "5b6466ad3b26ce484b7a9bb5ada4b54e5e5f1fd41622d8d1549f6423c49e382e",
+    "after_sha256": "c17cd4eb72187bc1f8b92df15b4d73966f7987c3879b63c08eeff964cd130aab",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, poseidon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-saturn.md",
+    "before_sha256": "fa827413dfdb6c8cb93b26842ceca451ccbb17585b8ecf75fd9cf7181e2b6b59",
+    "after_sha256": "0eacef49e20db7e50733d7a3afc831c40b0089a5bef9c98797e021fc747f748e",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, saturn: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-sun.md",
+    "before_sha256": "528ee8f1e74fbc92727a5e6aa4030ecb9b20f841334f955c94d5159160e7e6f4",
+    "after_sha256": "283a289797d3bd2419dba86b66a2db7bd481b443ac22b840815053b389987596",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-uranus.md",
+    "before_sha256": "67c1a5362b93d7951fe64273c5873abbe9024b56858b2e0dfb6f3409b7279b36",
+    "after_sha256": "2de57b4168267875bbe90a5696c894bf8c44f40845172e92f548b406dfde4f11",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-venus.md",
+    "before_sha256": "887e0a35633654a39efe09a2e38e6fa4c7fd66b9407b2530dc52b1c795b543b6",
+    "after_sha256": "0b79eaf3532105d6e7e8a02be1697975024ea07ece71713e529503490139e22c",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-vernal-point.md",
+    "before_sha256": "55f35192a7c94584e3cc478e5839940d932a43f0efaf7118bd19f50d7bb9b368",
+    "after_sha256": "369050b6b30585cd280a5facd2703b7c4fb392b098ecc8c4f198d3ca31f9a511",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF313, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf313.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/vulcanus-vulcanus-equals-zeus.md",
+    "before_sha256": "beb473a8cda6366c04cb191e0f99127b358f5e141348aad496040322f32f66ce",
+    "after_sha256": "10568434d771d32f398923dc6c31ce96ab4be7cd17669326aacea3553ed749e9",
+    "ledger": "activations-100.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF314, zeus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf314.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-apollon-equals-pluto.md",
+    "before_sha256": "3dec03ef71e9c650dfcf311cf2901aa6f6e7768cbad11128e3ce9b2961ca6207",
+    "after_sha256": "ef64375101ac64669bd2c9205be99db694223e9a4390e3f2f24502536c0e8a3f",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF305, pluto: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. Printed small staff confirmed; leading alternate Pluto glyph excluded from prose.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf305.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-apollon-equals-uranus.md",
+    "before_sha256": "5ff04c82bf1fad183ddad451e5953b61eaab844f5fcbbb63c1bd2a8e287326ed",
+    "after_sha256": "3a242c883617462c366cd1b653d5850837f07ab27e9165243494046cebcfc20a",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF305, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf305.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-admetos.md",
+    "before_sha256": "8a62cf9faf7afc20f651e12fb259e9af07f3cd321b6b8e2560b7d9ed5a13a076",
+    "after_sha256": "55885e0758d8b5a08c1adcef644efc836b9f0b93bf99a638ec2f00a2642debc2",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed473/PDF235, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-asc.md",
+    "before_sha256": "4326e234e4a0d1920750037363a77a322a47b89ac7fd3c4f17902dbade1a43fe",
+    "after_sha256": "8fb9514305e0e62bd24eb796c41a31490061f40e7bc698f7ac812cb33d0555db",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed472/PDF235, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-cupido.md",
+    "before_sha256": "804f27dee322660e1db7788e50f0c447dcf45b5873a35f5f5fa320b19f927237",
+    "after_sha256": "6f470dc6cd25e2a2235d198282f3cff24409d17c9a09267ade6418fefbd89041",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, cupido: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed473/PDF235, cupido: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-hades.md",
+    "before_sha256": "3120782a0131da790e564c3c756c4a2fb18e8de45188a7bbb5e12f41303e948f",
+    "after_sha256": "c8126e6d53ae6b4115693591ee8a0495183d6494dc5143e2796a32fc5a4461e4",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, hades: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed473/PDF235, hades: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-jupiter.md",
+    "before_sha256": "71f1f822cbf4d84b79719bdc3ef6d26c6c03eeb59657a1ddad70b77b05b572bb",
+    "after_sha256": "c5832ee0cc753fe1a739f60c0097482918881ff2ea6aa49b93c0cb15c2cebc23",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, jupiter: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed472/PDF235, jupiter: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-kronos.md",
+    "before_sha256": "14f535994cdbc91f58064504886124d1747e795d8464881c8e67046aaa934bad",
+    "after_sha256": "c03c3508a6ff25febc2dba3664dc06b5a9ec06441b128df0d5340b4af3f04617",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, kronos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed473/PDF235, kronos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-mars.md",
+    "before_sha256": "ebfa42fbfbef95e4dfe5a8bf934dcaeaa841af2360059c1effa4a0c1c17412dd",
+    "after_sha256": "405ced1ac1e19cdc5fbbeb70d3cd3f194d2e10cbddbad95f204982c9eb8da304",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, mars: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed472/PDF235, mars: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-poseidon-equals-mc.md",
+    "before_sha256": "9420fa4c0e7be605dd0b1bc9b5613e5f0b267ac0da5bc8649139ea4df634648c",
+    "after_sha256": "c5b16b9057cc0ffe35b000ec10563d36039a76b45fdc5e9dccd51911e978b384",
+    "ledger": "activations-002.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF308, mc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed472/PDF235, mc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf308.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf235.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-sun.md",
+    "before_sha256": "526a6ece620e7c7466587cf75759d4bfc358cb776473c351caa492c528ac0946",
+    "after_sha256": "de3ccf0dbbdfb3d61f52c6f33cea7a7bbaa71003c7d2ea3ceb48ccb32dd12980",
+    "ledger": "activations-003.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF307, sun: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed470/PDF234, sun: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf234.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-uranus.md",
+    "before_sha256": "2380db9c39bb8aff36c08c9c7a85ef3974944974e6a59c7180ac88183ef4db4b",
+    "after_sha256": "e953067c316050193db1bb2a16696b5d58098fefa6bf936f3ee1fb5772fe6ffa",
+    "ledger": "activations-003.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF307, uranus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed471/PDF234, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf234.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-venus.md",
+    "before_sha256": "f8f9e17e721ca4a20125309579d50e99c90fbba00e6f61e0ceb0aacff04089a2",
+    "after_sha256": "3cd66361bfb41162cd688cb0c5608ca58215a4ca34eb61396212440cc878e501",
+    "ledger": "activations-003.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF307, venus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed470/PDF234, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf234.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-vernal-point.md",
+    "before_sha256": "6048c6da683b76d43b127c64f6fdf4db02f071d404d5b068ed34ca8d0232eb4d",
+    "after_sha256": "3781c07ac52511e2ef1a95458930dbe4c6a0fc8d2af1c47069fca4b6b5ec1d22",
+    "ledger": "activations-003.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF307, vernal-point: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed470/PDF234, vernal-point: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf234.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  },
+  {
+    "path": "wiki/activations/apollon-vulcanus-equals-zeus.md",
+    "before_sha256": "2c5d0c7ab3ff17fffd6ecf6285cc420b809ef293efa3139b88c3e15c8fca1251",
+    "after_sha256": "14ba4bfa31c628cdcfdf80d1e377a405294465a7b18a59884eac5a6f4ecdfad6",
+    "ledger": "activations-003.jsonl",
+    "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF307, zeus: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed471/PDF234, zeus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf307.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf234.png"
+    ],
+    "verified_by": "/root/source_check_saturn"
+  }
+]

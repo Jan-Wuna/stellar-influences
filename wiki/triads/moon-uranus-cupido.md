@@ -27,27 +27,30 @@ updated_at: 2026-05-04
 
 - Triad-set: `Moon Uranus Cupido`
 - Astronomicon triad-set: `R X ¡`
+- This page is structural only. Use the exact orientation below for sourced interpretation.
 
 ## Orientation Map
 
-- [Moon/Cupido = Uranus](../activations/moon-cupido-equals-uranus.md)
-- [Moon/Uranus = Cupido](../activations/moon-uranus-equals-cupido.md)
-- [Uranus/Cupido = Moon](../activations/uranus-cupido-equals-moon.md)
+| Orientation | Base axis | Activating factor |
+| --- | --- | --- |
+| [Moon/Cupido = Uranus](../activations/moon-cupido-equals-uranus.md) | [Moon/Cupido](../axes/moon-cupido.md) | [Uranus](../factors/uranus.md) |
+| [Moon/Uranus = Cupido](../activations/moon-uranus-equals-cupido.md) | [Moon/Uranus](../axes/moon-uranus.md) | [Cupido](../factors/cupido.md) |
+| [Uranus/Cupido = Moon](../activations/uranus-cupido-equals-moon.md) | [Uranus/Cupido](../axes/uranus-cupido.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Cupido = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `130`
-- `Moon/Cupido = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `193`
-- `Moon/Uranus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `127`
-- `Moon/Uranus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `187`
-- `Uranus/Cupido = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
-- `Uranus/Cupido = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `374`
+All three orientations have canonical activation pages. The rows below list every source subentry currently present on each page. PDF page numbers are one-based.
+
+| Orientation | Represented source entries and locators |
+| --- | --- |
+| [Moon/Cupido = Uranus](../activations/moon-cupido-equals-uranus.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-cupido-equals-uranus.md#witte-entry) (PDF p. 130); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-cupido-equals-uranus.md#abc-entry) (printed p. 193) |
+| [Moon/Uranus = Cupido](../activations/moon-uranus-equals-cupido.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/moon-uranus-equals-cupido.md#witte-entry) (PDF p. 127); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/moon-uranus-equals-cupido.md#abc-entry) (printed p. 187) |
+| [Uranus/Cupido = Moon](../activations/uranus-cupido-equals-moon.md) | [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt, *Rules for Planetary Pictures*](../activations/uranus-cupido-equals-moon.md#witte-entry) (PDF p. 236); [Udo Rudolph, *ABC for Planetary Pictures*](../activations/uranus-cupido-equals-moon.md#abc-entry) (printed p. 374) |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Cupido = Uranus`: jolts the Moon/Cupido field of community, family, women's associations, leisure, and art with sudden change: abrupt marriages, excitement in associations, unexpected free time, and eccentric interests.
-- `Moon/Uranus = Cupido`: This activation socializes `Moon/Uranus` through eccentric gatherings, excited parties, and relationship pressure that feels unconventional or urgent. It suggests emotional electricity entering art, clubs, or marriage dynamics in vivid and socially disruptive ways.
+`Moon Uranus Cupido` is an unordered structural set. Choose a formula in the Orientation Map, then follow its activation page for source entries and interpretation. Changing the base axis or the activating factor leads to a distinct page; no combined interpretation is established here.
 
 ## Links
 

@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Apollon](../triads/moon-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,18 +40,35 @@ updated_at: 2026-05-04
 
 Long lasting excitement. Uproar of the masses. Spreading of an uproar.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Extension of unrest in the people, experiences with nervous woman, success of a dynamic woman, successful event in the hour, new knowledge for the woman, success of a woman, technical knowledge of a people, and restlessness through knowledge of the woman
+Spread of unrest among the people, experiences with a nervous woman, success of a dynamic woman, successful event in the hour, new knowledge for a woman, a woman's successes in reform, technical knowledge of a people, unrest through knowledge of feelings.
+
+Translation checked against the German scan: printed p. 187, PDF p. 92. “Reform-Erfolge” preserves reform as the field of success; the final phrase is “Unruhe durch Gefühls-Wissen,” not knowledge of a woman.
+
+## Comparative Schema
+
+- **Core meaning:** Excitement that spreads or lasts, with ABC also describing successful reform and acquired knowledge ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Prolonged excitement and nervousness; ABC connects unrest with knowledge of feelings.
+- **Body/health:** Neither entry gives a bodily condition; nervousness alone establishes no diagnosis.
+- **Social/relationship:** Mass uproar and spreading unrest; ABC's individual examples include a dynamic or nervous woman.
+- **Events/manifestations:** Widespread disturbance, successful events or reforms, and technical knowledge among a people.
+- **Conflicts/notes:** ABC's success and knowledge motifs broaden the range beyond Witte's uproar; they do not mean that every disturbance succeeds.
+
+## Contradictions
+
+Spreading uproar and successful reform differ in emphasis and evaluation, but the entries do not assert opposite outcomes for the same event. They should remain alternatives within this orientation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Uranus = Apollon`: Long lasting excitement. Uproar of the masses. Spreading of an uproar.
-- Practical focus: expands `Moon/Uranus` into prolonged excitement, mass unrest, and disturbance that spreads outward. It favors larger social or emotional waves of disruption, where agitation becomes collective, amplified, and harder to contain.
-- Practical expression: extension of unrest in the people, experiences with nervous woman, success of a dynamic woman, successful event in the hour, and new knowledge for the woman.
+Apollon specifies Moon/Uranus through excitement with breadth or duration: uproar spreads through a population rather than remaining a brief, isolated disturbance. This is explicit in the [Witte entry](#witte-entry) and in ABC's spreading unrest ([ABC entry](#abc-entry)).
+
+The same ABC entry also includes dynamic success, successful reform, new knowledge, and technical knowledge. The orientation therefore supports productive change as well as collective agitation; it does not require unrest to become destructive or uncontrollable.
 
 ## Links
 

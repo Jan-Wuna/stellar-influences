@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Asc](../triads/vernal-point-mars-asc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 42 (one-based).
 
 The acts of other people. Acts toward other people. Violence of others.
 
@@ -42,13 +46,27 @@ The acts of other people. Acts toward other people. Violence of others.
 
 #### ABC Entry
 
+- Source page: 32; PDF page: 15 (one-based spread).
+
 Actions in the environment of the public, work with the partner in public, public work for the environment, public environmental impulses, public will of a place, and environmental creation in public
+
+## Comparative Schema
+
+- core meaning: Public action involving other people and the immediate environment.
+- psychology: Public will associated with a place is explicit.
+- body/health: Violence is a source possibility; no personal health claim is supplied.
+- social/relationship: Acting toward others and working with a partner.
+- events/manifestations: Environmental work and impulses in the public surroundings.
+- conflicts/notes: Violence of others is one adverse example; cooperative work is also retained.
+
+## Contradictions
+
+Witte's violence example and ABC's partner or environmental work need not describe the same situation. The shared feature is action in relation to others.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Asc`: the acts of other people, acts toward other people, and violence of others.
-- Practical expression: actions in the environment of the public, work with the partner in public, public work for the environment, public environmental impulses, and public will of a place.
+In `Vernal Point/Mars = Asc`, public action is located in relations with other people and the surrounding environment. The [Witte entry](#witte-entry) distinguishes others' acts from acts directed toward them, including violence as an adverse possibility. The [ABC entry](#abc-entry) supplies partner work and activity for the environment. The reading concerns interaction through deeds, with cooperation and conflict left as separate forms.
 
 ## Links
 

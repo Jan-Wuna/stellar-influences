@@ -65,6 +65,8 @@ updated_at: 2026-05-04
 - Axis: `Sun/Kronos`
 - Astronomicon axis: `S/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- Pair order: `Kronos/Sun` identifies this same axis.
+- Interpretation: [Read the interpretation](#derived-synthesis); [source entries](#source-entries).
 
 ## Source Entries
 
@@ -72,13 +74,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- Source page: PDF p. 114.
+
 The father. The master. The boss (male or female). To be superior. Capabilities of the body. Independence. Power of the state. The king. The ruling prince. President. Disposition to leadership. To deal with officials. Official requests, summons. To be in service. One must appear before the authorities. Day of independence. (In the solar cycle: an extraordinary period.)
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Autol'itiits person, special man, corporal dominance, leading person, manly vanang, human size, human rank, personal honor, self respecting man, self conscious man, state man, and important day
+- Source page: printed pp. 164–165; PDF p. 81.
+
+Authority person, special man, physical dominance, leading person, male precedence, human greatness, human hierarchy, personal standing, independent man, self-confident person, statesman, important day.
+
+## Comparative Schema
+
+- core meaning: Authority, leadership, independence, and personal or official rank. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- psychology: Disposition to lead, independence, and self-confidence are explicit; superiority is a source theme, not evidence that the person has greater intrinsic worth. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- body/health: Bodily capabilities and physical dominance are named; neither summary specifies an illness. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
+- social/relationship: The range includes father, master, boss of either sex, ruler, and state official, as well as the person who must deal with authority. ([Pair Summary](#pair-summary))
+- events/manifestations: Official requests, summons, appearances before authorities, and being in service qualify the emphasis on exercising leadership. ([Pair Summary](#pair-summary))
+- conflicts/notes: Personal independence and standing coexist with being in service or summoned by officials. The source's gendered roles, hierarchy and male precedence do not restrict the axis to men or supply an intrinsic ranking of people.
 
 ## Related Activations
 
@@ -103,11 +118,16 @@ Autol'itiits person, special man, corporal dominance, leading person, manly vana
 - [Sun/Kronos = Vulcanus](../activations/sun-kronos-equals-vulcanus.md)
 - [Sun/Kronos = Zeus](../activations/sun-kronos-equals-zeus.md)
 
+## Contradictions
+
+Holding authority and having to answer to it are both explicit in Witte's summary. These are different positions within the same authority field, not a contradiction. Neither pair summary develops a separate adverse character pole.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on authority, superiority, and the impulse to rule or stand above others.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Sun/Kronos` places personal life in the field of authority, rank, and independence. It can describe the capacity or disposition to lead, the person holding a recognized office, or the practical experience of dealing with officials. Witte's range from parent and boss to ruler and state power gives this pair both a personal and an institutional scale. ([Pair Summary](#pair-summary))
+
+Authority is not always possessed by the person: service, official demands, and appearing before authorities are equally part of the summary. Bodily capability, physical dominance, personal standing and self-confidence add to this range without establishing an illness or a necessary conflict. The pair does not by itself determine whether a particular exercise of power is admirable or harmful, and a closing factor requires its own oriented activation entry. ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary))
 
 ## Links
 

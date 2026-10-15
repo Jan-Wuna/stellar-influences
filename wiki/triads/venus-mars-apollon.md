@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Mars Apollon`
 - Astronomicon triad-set: `Q U ¥`
 
+This hub groups an unordered factor set. Use the [orientation map](#orientation-map) to choose an exact formula; read its linked activation for interpretation.
+
 ## Orientation Map
 
-- [Mars/Apollon = Venus](../activations/mars-apollon-equals-venus.md)
-- [Venus/Apollon = Mars](../activations/venus-apollon-equals-mars.md)
-- [Venus/Mars = Apollon](../activations/venus-mars-equals-apollon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Mars/Apollon](../axes/mars-apollon.md) | Venus | [Mars/Apollon = Venus](../activations/mars-apollon-equals-venus.md) |
+| [Venus/Apollon](../axes/venus-apollon.md) | Mars | [Venus/Apollon = Mars](../activations/venus-apollon-equals-mars.md) |
+| [Venus/Mars](../axes/venus-mars.md) | Apollon | [Venus/Mars = Apollon](../activations/venus-mars-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Mars/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
-- `Mars/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `316`
-- `Venus/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
-- `Venus/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `290`
-- `Venus/Mars = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `176`
-- `Venus/Mars = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `271`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Mars/Apollon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mars-apollon-equals-venus.md#witte-entry), one-based PDF entry-start p. `201`.
+- `Mars/Apollon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mars-apollon-equals-venus.md#abc-entry), printed p. `316`.
+- `Venus/Apollon = Mars`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-apollon-equals-mars.md#witte-entry), one-based PDF entry-start p. `186`.
+- `Venus/Apollon = Mars`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-apollon-equals-mars.md#abc-entry), printed p. `290`.
+- `Venus/Mars = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mars-equals-apollon.md#witte-entry), one-based PDF entry-start p. `176`.
+- `Venus/Mars = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mars-equals-apollon.md#abc-entry), printed p. `271`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Apollon = Venus`: close friendship with many, especially through trade, commerce, or industry.
-- `Venus/Apollon = Mars`: intimate friendship through scientific or economic activity.
-- `Venus/Mars = Apollon`: many intimate friends and relatives.
+The `Venus Mars Apollon` set has three distinct choices of base pair and activator, shown above. The axis links lead to shared pair meanings; each activation link leads to the interpretation of that exact oriented formula. This structural hub supplies navigation rather than a combined delineation.
+
+## Contradictions Across Orientations
+
+The linked activation identities match the base-pair and activator assignments in the map. This structural check does not establish interpretive agreement among sources or orientations. Differences between the three formulas must be assessed on their own activation pages.
 
 ## Links
 

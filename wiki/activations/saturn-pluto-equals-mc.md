@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = MC`
 - Astronomicon formula: `W/Z = MC`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `223` (entry start).
+
 To develop slowly. Hard to adapt oneself. To separate oneself easily from something. To be inclined for divorce.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-G.:uldful development of the scele, I develop patience, my tasks change, my falyage in old age, mcinc development to maturity, my disturbance development, my control aur development, and growing soul pain
+- Source page: `352`; PDF page: `175`.
+
+Patient unfolding of the soul, I develop patience, my tasks change, my development in old age, my development toward maturity, my disturbed development, my concentration on development, and growing pain of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: `255`; entry code: `0901`.
 
 Desire to rise from difficult circumstances through the application of tenacity and endurance, severity, one-sidedness, self-sacrifice. An ascetic person, a magician or adept. Separation. (Flight.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `91` (chapter start; exact entry page unrecorded).
 
 One’s career involves spiritual transformation. An extremely serious desire to grow and to attain the fullest that one can possibly attain to.
 
@@ -70,22 +80,21 @@ Brings knowledge of how to acquire, use, and wield the types of power which can 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Concentrated personal development through difficult circumstances, with consequential use of power.
+- psychology: Tenacity, patience and a serious wish to grow; severity and one-sidedness are also attributed.
+- body/health: ABC's pain of the soul is emotional language; no bodily diagnosis is supplied.
+- social/relationship: Recognition of expertise or power; separation is another source possibility.
+- events/manifestations: Changing tasks, slow adaptation, career transformation and significant social change.
+- conflicts/notes: Spiritual transformation and ascetic examples belong to their sources' frameworks; determination does not assure attainment.
 
 ## Contradictions
 
-- None recorded yet.
+The entries stress difficult development, serious aspiration and consequential influence in different settings. They also retain separation and painful development; no direct disagreement is established.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = MC`: authority in crisis, strategic endurance, and the ability to carry consequential outer burdens without flinching. Main caution: ruthless direction: ambition and control can become so concentrated that life loses flexibility and mercy.
+In `Saturn/Pluto = MC`, MC specifies development as a serious personal undertaking: patience and tenacity are directed toward maturity or escape from difficult circumstances, while adaptation may be slow and painful ([ABC](#abc-entry), [Ebertin](#ebertin-entry), [Witte](#witte-entry)). That effort may concern vocation and the wish to attain one's fullest capacity, described spiritually by [Sandbach](#sandbach-entry), or recognized expertise and the use of power to change society in [Munkasey](#munkasey-entry). Severity, one-sidedness and separation remain part of the range; the entries do not establish that determination guarantees growth or authority.
 
 ## Links
 

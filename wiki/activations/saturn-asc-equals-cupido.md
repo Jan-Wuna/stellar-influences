@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Asc = Cupido`
 - Astronomicon formula: `W/Asc = ¡`
 - Axis page: [Saturn/Asc](../axes/saturn-asc.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 87.
+
 Separation in the family or from the dwelling.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Old local community, serious partner community, patience of a local community, common partner community, common separation from one place, common environmental problems, local community, and problems with other communities
+- Source page: 115 (printed); PDF page: 56.
+
+An old local community, a serious partnership community, patience of a local community, an inhibited partnership community, shared separation from a place, shared environmental problems, a disturbed local community, problems with other communities.
+
+Translation and full row boundaries checked against the German activator glyph.
+
+## Comparative Schema
+
+- Core meaning: Separation or disturbance in family, dwelling, or local communal life.
+- Psychology: Patience within a local community.
+- Body/health: No medical correspondence is supplied for this exact orientation.
+- Social/relationship: A serious or inhibited partnership community and shared separation from a place.
+- Events/manifestations: Old local communities, environmental problems, and disturbed local associations.
+- Conflicts/notes: The entry preserves patience within community alongside family or local separation.
+
+## Contradictions
+
+The entry preserves patience within community alongside family or local separation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Asc = Cupido`: separation in the family or from the dwelling.
-- Practical expression: old local community, serious partner community, patience of a local community, common partner community, and common separation from one place.
+In `Saturn/Asc = Cupido`, Cupido specifies the pair through family and local communal life. The [Witte entry](#witte-entry) emphasizes separation within a family or from a dwelling; the [ABC entry](#abc-entry) adds patient, serious, or inhibited communal relationships and shared environmental problems. An old community can remain the setting of patience even when its bonds or place are disturbed.
 
 ## Links
 

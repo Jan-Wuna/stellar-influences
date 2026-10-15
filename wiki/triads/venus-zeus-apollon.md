@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus Zeus Apollon`
 - Astronomicon triad-set: `Q £ ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Venus/Apollon = Zeus](../activations/venus-apollon-equals-zeus.md)
-- [Venus/Zeus = Apollon](../activations/venus-zeus-equals-apollon.md)
-- [Zeus/Apollon = Venus](../activations/zeus-apollon-equals-venus.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Venus/Apollon = Zeus](../activations/venus-apollon-equals-zeus.md) | [Venus/Apollon](../axes/venus-apollon.md) | [Zeus](../factors/zeus.md) |
+| [Venus/Zeus = Apollon](../activations/venus-zeus-equals-apollon.md) | [Venus/Zeus](../axes/venus-zeus.md) | [Apollon](../factors/apollon.md) |
+| [Zeus/Apollon = Venus](../activations/zeus-apollon-equals-venus.md) | [Zeus/Apollon](../axes/zeus-apollon.md) | [Venus](../factors/venus.md) |
 
 ## Source Coverage
 
-- `Venus/Apollon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `186`
-- `Venus/Apollon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `291`
-- `Venus/Zeus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `184`
-- `Venus/Zeus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `287`
-- `Zeus/Apollon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `291`
-- `Zeus/Apollon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `452`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Venus/Apollon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-apollon-equals-zeus.md#witte-entry), one-based PDF entry-start p. `186`.
+- `Venus/Apollon = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-apollon-equals-zeus.md#abc-entry), printed p. `291`.
+- `Venus/Zeus = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-zeus-equals-apollon.md#witte-entry), one-based PDF entry-start p. `184`.
+- `Venus/Zeus = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-zeus-equals-apollon.md#abc-entry), printed p. `287`.
+- `Zeus/Apollon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-apollon-equals-venus.md#witte-entry), one-based PDF entry-start p. `291`.
+- `Zeus/Apollon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-apollon-equals-venus.md#abc-entry), printed p. `452`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Apollon = Zeus`: leader in the fields of art and science.
-- `Venus/Zeus = Apollon`: passive vote.
-- `Zeus/Apollon = Venus`: All peaceful efforts are prosperous. Joy through artistic and scientific activity.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

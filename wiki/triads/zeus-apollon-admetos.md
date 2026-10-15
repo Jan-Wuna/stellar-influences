@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Zeus Apollon Admetos`
 - Astronomicon triad-set: `£ ¥ ¦`
 
+This is a structural hub for the unordered three-factor set. [Choose the exact orientation](#orientation-map) before reading its interpretation.
+
 ## Orientation Map
 
-- [Apollon/Admetos = Zeus](../activations/apollon-admetos-equals-zeus.md)
-- [Zeus/Admetos = Apollon](../activations/zeus-admetos-equals-apollon.md)
-- [Zeus/Apollon = Admetos](../activations/zeus-apollon-equals-admetos.md)
+The base axis is the pair before `=`; the activator is the factor after it. Each row is a distinct oriented formula.
+
+| Activation page | Base axis | Activator |
+| --- | --- | --- |
+| [Apollon/Admetos = Zeus](../activations/apollon-admetos-equals-zeus.md) | [Apollon/Admetos](../axes/apollon-admetos.md) | Zeus |
+| [Zeus/Admetos = Apollon](../activations/zeus-admetos-equals-apollon.md) | [Zeus/Admetos](../axes/zeus-admetos.md) | Apollon |
+| [Zeus/Apollon = Admetos](../activations/zeus-apollon-equals-admetos.md) | [Zeus/Apollon](../axes/zeus-apollon.md) | Admetos |
 
 ## Source Coverage
 
-- `Apollon/Admetos = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
-- `Apollon/Admetos = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `469`
-- `Zeus/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `294`
-- `Zeus/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `455`
-- `Zeus/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `292`
-- `Zeus/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `453`
+The three linked activations each contain Witte and ABC entries. Witte locators are one-based PDF entry starts; ABC locators are printed pages. These are retained hub references, not new visual source verification.
+
+- `Apollon/Admetos = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/apollon-admetos-equals-zeus.md#witte-entry), one-based PDF entry-start p. `306`.
+- `Apollon/Admetos = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/apollon-admetos-equals-zeus.md#abc-entry), printed p. `469`.
+- `Zeus/Admetos = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-admetos-equals-apollon.md#witte-entry), one-based PDF entry-start p. `294`.
+- `Zeus/Admetos = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-admetos-equals-apollon.md#abc-entry), printed p. `455`.
+- `Zeus/Apollon = Admetos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/zeus-apollon-equals-admetos.md#witte-entry), one-based PDF entry-start p. `292`.
+- `Zeus/Apollon = Admetos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/zeus-apollon-equals-admetos.md#abc-entry), printed p. `453`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Zeus`: satisfaction gained through one's own labor and the calm that comes from having done enough.
-- `Zeus/Admetos = Apollon`: Large changes of conditions. Many are forced to begin anew.
-- `Zeus/Apollon = Admetos`: To terminate an apprenticeship, a study or research work. Deep research work in a narrowed field. Suspended economics.
+Use the orientation map to select the formula with the intended base pair and activator, then read that activation page for its interpretation. For a two-factor question, follow the base-axis link in the same row. The common triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+These are different oriented formulas, so different meanings on their activation pages are not by themselves contradictions. This structural hub does not establish either agreement or disagreement across their source entries.
 
 ## Links
 

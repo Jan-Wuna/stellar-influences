@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [MC/Kronos](../axes/mc-kronos.md)
 - Triad hub: [MC Kronos Apollon](../triads/mc-kronos-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Meridian + Kronos,” PDF p. 73.
 
 To be an authority in science, commerce or trade.
 
@@ -42,13 +46,27 @@ To be an authority in science, commerce or trade.
 
 #### ABC Entry
 
-Expansion of my self gloriousness, special psychic expanse, especially experienced soul, great soul freedom, my special reputation, my self glorious knowledge, my state is successful, my great success, and increasing spiritual great
+Source: “Meridian + Kronos,” printed p. 91 (PDF p. 44).
+
+Expansion of my independence, special inner breadth, an especially experienced soul, great freedom of soul, my special reputation, my independent knowledge, my state is successful, my great success, and increasing inner or soul greatness.
+
+## Comparative Schema
+
+- core meaning: Personal authority and independence expressed through science, commerce, knowledge, and expanded scope.
+- psychology: Inner breadth, experience, freedom, and independent knowledge.
+- body/health: No bodily or medical effect is supplied.
+- social/relationship: Authority in scientific or commercial fields and special reputation.
+- events/manifestations: Expansion of independence, success, and a successful state in ABC's terms.
+- conflicts/notes: No formal rank or institutional scale is required by these entries; inner freedom and public reputation are distinct expressions.
+
+## Contradictions
+
+Witte names authority in science or trade. ABC broadens the range to independence, experience, inner freedom, reputation, and success without stating a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Apollon` expands the axis into authority over science, commerce, and trade.
-- Chart expression: leadership in broad intellectual or commercial fields, expert standing across large systems, and rank gained through knowledge, trade, or wide-reaching enterprise.
+In `MC/Kronos = Apollon`, Apollon specifies personal authority and independence through knowledge, commerce, and expanded scope. Witte names authority in science or trade; ABC adds independent knowledge, an experienced inner life, special reputation, success, and greater independence. These support expertise and breadth alongside inner freedom, without requiring formal rank or turning independence into self-glorification. ([Witte](#witte-entry), PDF p. 73; [ABC](#abc-entry), printed p. 91 / PDF p. 44)
 
 ## Links
 

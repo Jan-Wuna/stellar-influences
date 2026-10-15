@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Zeus = Hades`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/£ = ¢`
 - Axis page: [Sun/Zeus](../axes/sun-zeus.md)
 - Triad hub: [Sun Hades Zeus](../triads/sun-hades-zeus.md)
@@ -42,13 +43,29 @@ Miscarriage. A still-birth. Child-bed sickness. Engagement for something with di
 
 #### ABC Entry
 
-Absence of a creative person, fire danger in the day, dangerous day goal, criminal filthy person, lack of personal aim, personal achievements from the past, hidden leadership center, and renunciation of corporal procreation
+Source: ABC printed p. 163, supplied PDF p. 80, Sonne + Zeus, hades row (eight clauses). Translation from the German scan:
+
+Difficulties for a creative person; fire danger during the day; a dangerous daily goal; a criminal leader; lack of personal striving toward goals; personal achievements from the past; a hidden leadership center; renunciation of physical procreation.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Undertakings encounter difficulty, defeat, or destructive outcomes.
+- psychology: ABC names lack of personal striving toward goals.
+- body/health: Witte's miscarriage, stillbirth, and child-bed sickness are attributed historical claims.
+- social/relationship: Police reporting and a hidden leadership center are named.
+- events/manifestations: Defeats and bodies destroyed by fire are explicit historical examples.
+- conflicts/notes: The medical and destructive examples do not establish inevitable events.
+
+## Contradictions
+
+No direct contradiction is established. ABC names difficulties and a criminal leader as distinct examples; the historical destructive and reproductive claims do not establish an individual diagnosis or inevitable event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Zeus = Hades`: unpleasant activity and destructive fire.
-- Practical expression: absence of a creative person, fire danger in the day, dangerous day goal, criminal filthy person, and lack of personal aim.
+Hades specifies Sun/Zeus through difficult undertakings and defeat, with fire danger as a concrete destructive expression. Witte also supplies historical reproductive and childbirth misfortune and police-reporting examples; those specific statements must remain attributed rather than becoming predictions from the formula. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

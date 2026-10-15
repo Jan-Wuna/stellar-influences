@@ -20,7 +20,7 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Asc/Kronos](../axes/asc-kronos.md)
 - Triad hub: [Sun Asc Kronos](../triads/sun-asc-kronos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -38,16 +40,33 @@ updated_at: 2026-05-04
 
 To be a subordinate. To be obliged to execute orders.
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Sun row; checked on the actual scan.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Other Tvfenschen ftihren, authorities center at the place, Selbstandige persons als partner, and center the place hierarchy
+Leading other people, an authority figure for others, a local administrative center, a large local center, great people in the surroundings, personal direction of the surroundings, independent people as partners, an important personal place, and the center of the local hierarchy.
+
+Source reference: Udo Rudolph, printed p. 128, one-based PDF p. 63, “Aszendent + Kronos,” Sun glyph row; checked on the actual scan. All nine clauses are restored, including authority for others and personal direction; “selbständige” means independent.
+
+## Comparative Schema
+
+- **Core meaning:** Personal roles in authority range from executing orders to leading or directing others ([Witte](#witte-entry); [ABC](#abc-entry)).
+- **Psychology:** Neither entry establishes that obedience defines the whole self.
+- **Body/health:** Neither entry supplies a specific body or health claim.
+- **Social/relationship:** Witte gives the subordinate; ABC gives an authority figure, leading others, and independent people as partners.
+- **Events/manifestations:** Administrative and local hierarchy centers, a large local center, and an important personal place are explicit.
+- **Conflicts/notes:** The direction of authority differs materially between the entries and must remain visible.
+
+## Contradictions
+
+Witte emphasizes being subordinate and executing orders. ABC explicitly includes leading other people and personal direction of the surroundings. These are different roles in authority, so a synthesis cannot make submission the only supported expression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Sun`: visible service role, personal awareness of rank, and identity shaped by fulfilling command. Main caution: identity under authority: the self can become too defined by obedience and external direction.
+In `Asc/Kronos = Sun`, Sun specifies the pair through a person's concrete role in authority. Witte describes subordination and executing orders; ABC also describes leading others, being an authority figure, and personally directing the surroundings. Administrative or hierarchy centers and independent people as partners give further settings for that range. The direction of authority differs between the entries, which supports both receiving and exercising it without reducing the person to obedience. ([Witte entry](#witte-entry); [ABC entry](#abc-entry))
 
 ## Links
 

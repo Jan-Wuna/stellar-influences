@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Admetos](../axes/vernal-point-admetos.md)
 - Triad hub: [Vernal Point Node Admetos](../triads/vernal-point-node-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 53 (one-based).
 
 Difficulties with general connections. Resting connections.
 
@@ -42,13 +46,27 @@ Difficulties with general connections. Resting connections.
 
 #### ABC Entry
 
+- Source page: 54; PDF page: 26 (one-based spread).
+
 Fortification of public links, blocked public links, restriction of public links, connected to the public cycle, and connection to the public resistance
+
+## Comparative Schema
+
+- core meaning: Public connections restricted, resting, or more firmly established.
+- psychology: No distinct personal disposition is supplied.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Difficult, blocked, or consolidated public links.
+- events/manifestations: Connection with public resistance and public circulation.
+- conflicts/notes: Resting connections is Witte's wording; no duration or cause is given.
+
+## Contradictions
+
+Consolidation and blockage are different possible conditions of connection. Neither should be treated as the automatic meaning of all ties.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Admetos = Node`: difficulties with general connections and resting connections.
-- Practical expression: fortification of public links, blocked public links, restriction of public links, connected to the public cycle, and connection to the public resistance.
+In `Vernal Point/Admetos = Node`, Node specifies the pair through the condition of public connections. The [Witte entry](#witte-entry) names difficulties and resting connections, while the [ABC entry](#abc-entry) includes both fortification and blockage of links, as well as ties to public resistance. The common meaning is connection affected by restriction or consolidation; the entries do not establish how long a tie remains inactive or why.
 
 ## Links
 

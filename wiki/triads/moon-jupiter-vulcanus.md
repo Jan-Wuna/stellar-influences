@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Jupiter Vulcanus`
 - Astronomicon triad-set: `R V §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Vulcanus = Moon](../activations/jupiter-vulcanus-equals-moon.md)
-- [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md)
-- [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md)
+- [Jupiter/Vulcanus = Moon](../activations/jupiter-vulcanus-equals-moon.md): base axis [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md); activator [Moon](../factors/moon.md).
+- [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md): base axis [Moon/Jupiter](../axes/moon-jupiter.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md): base axis [Moon/Vulcanus](../axes/moon-vulcanus.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
-- `Jupiter/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `344`
-- `Moon/Jupiter = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `183`
-- `Moon/Vulcanus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `136`
-- `Moon/Vulcanus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `204`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Vulcanus = Moon](../activations/jupiter-vulcanus-equals-moon.md#witte-entry) (PDF entry-start p. 217); [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md#witte-entry) (PDF entry-start p. 125); [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md#witte-entry) (PDF entry-start p. 136).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Vulcanus = Moon](../activations/jupiter-vulcanus-equals-moon.md#abc-entry) (printed p. 344); [Moon/Jupiter = Vulcanus](../activations/moon-jupiter-equals-vulcanus.md#abc-entry) (printed p. 183); [Moon/Vulcanus = Jupiter](../activations/moon-vulcanus-equals-jupiter.md#abc-entry) (printed p. 204).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Vulcanus = Moon`: collective confidence, emotional trust, and a receptive environment that leans toward hope and encouragement.
-- `Moon/Jupiter = Vulcanus`: This activation intensifies `Moon/Jupiter` with force, success, and empowered optimism. It shows happiness fed by strong accomplishment or potent creative momentum, so emotional confidence grows through results, effectiveness, and the felt ability to make fortunate outcomes happen at scale.
-- `Moon/Vulcanus = Jupiter`: Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
+Moon, Jupiter and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)

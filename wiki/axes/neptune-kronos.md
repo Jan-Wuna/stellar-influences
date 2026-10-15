@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Diplomacy. The great diplomat. Master of deception. Incompetent management. The 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `398`; PDF page: `198` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-special expectations, special finesse, the great uncared for, subtle authoritarianity, great exchange, air highness, weak state, unknown Hierarchic, and future steering
+German pair summary (transcribed from printed page `398`; PDF page `198`):
+
+> Autoritäts-Schwäche, besondere Erwartungen, besonderes Feingefühl, das große Unbekannte, feinstoffliche Autorität, große Enttäuschung, Luft-Hoheit, schwacher Staat, unbekannte Hierarchie, Wasser-Behörde, Zukunfts-Lenkung
+
+Editorial translation from the German passage: Weakness of authority, special expectations, special sensitivity, the great unknown, subtle-material authority, great disappointment, air sovereignty, weak state, unknown hierarchy, water authority, direction of the future.
+
+## Comparative Schema
+
+- core meaning: authority and management meet uncertainty, subtle influence, or deception.
+- psychology: diplomacy and accomplished deception coexist with confusion and exceptional uncertainty; neither skill nor incompetence alone defines the range.
+- body/health: neither pair summary gives a specific medical correspondence; Witte's vaporized-air image is not a diagnosis.
+- social/relationship: superiors, the father, management, and the state are the named social positions affected.
+- events/manifestations: diplomacy, confused authorities, incompetent management, annulled decrees, and a weak state are explicit expressions.
+- conflicts/notes: Diplomatic skill and failure of command remain alternatives. ABC's subtle-material authority is literal vocabulary without an explained mechanism.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ special expectations, special finesse, the great uncared for, subtle authoritari
 - [Neptune/Kronos = Vulcanus](../activations/neptune-kronos-equals-vulcanus.md)
 - [Neptune/Kronos = Zeus](../activations/neptune-kronos-equals-zeus.md)
 
+## Contradictions
+
+ABC restores authority weakness, great disappointment, air sovereignty and the omitted water authority. Diplomacy and deception overlap in technique without being morally identical.
+
+ABC's complete bold pair list was checked against printed398/PDF198; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes authority under Neptunian uncertainty, where leadership, law, expertise, or high status can become idealized, undermined, deceptive, or poorly enforced. It often shows diplomacy and subtle influence mixed with confusion in command, compromised regulation, or misjudgment in elevated roles.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Kronos` concerns uncertainty or subtle influence in positions of authority. [Witte's pair summary](#pair-summary) holds diplomacy and mastery of deception beside incompetent management, confused authorities, and the annulment of decrees. The common setting is elevated responsibility or command, while the expression ranges from skillful indirect dealing to an inability to give clear direction.
+
+Witte also names misfortune to superiors or the father and the unusual physical image of vaporized air; [Udo's readable summary](#abc-pair-summary) includes special expectations, a weak state, and future steering. These details broaden the range without making every authority deceptive or every uncertain situation a failure. The entries do not establish a health condition, and their damaged translation fragments leave a more precise outcome unresolved.
 
 ## Links
 

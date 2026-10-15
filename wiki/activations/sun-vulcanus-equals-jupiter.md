@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Jupiter`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = V`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Jupiter Vulcanus](../triads/sun-jupiter-vulcanus.md)
@@ -42,13 +43,29 @@ Excellent health. Feeling of happiness through physical strength.
 
 #### ABC Entry
 
-Influential right person, successful influence of a man, successful energy center, financial power of a man, joy over body power, happiness of a man by strength, center of a financial power, and advantage by body power
+Source locator: printed page 170 / PDF page 84, Jupiter glyph under Sonne + Vulkanus. English translation checked against the complete row. Rechts-Person is rendered broadly without assigning a specific legal role or entity status.
+
+Influential person in a legal context (Rechts-Person), a man's successful influence, successful energy center, a man's financial strength, joy in bodily strength, a person's good fortune through strength, center of financial power, and advantage through bodily strength.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Strength brings enjoyment, advantage, and successful influence.
+- psychology: Happiness through physical strength is explicit.
+- body/health: Witte's excellent-health statement is an attributed historical claim.
+- social/relationship: Financial power and influential people are named.
+- events/manifestations: Successful energy centers and advantage through strength are examples.
+- conflicts/notes: The sources describe favorable expressions; they do not guarantee health or success.
+
+## Contradictions
+
+The sources describe favorable expressions; they do not guarantee health or success. ABC's Rechts-Person indicates a legal context without specifying a particular legal role or entity status.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Jupiter`: powerful good fortune and great success.
-- Practical expression: influential right person, successful influence of a man, successful energy center, and financial power of a man.
+Jupiter specifies Sun/Vulcanus as strength experienced with happiness and practical advantage. ABC extends this into successful influence and financial power. Witte's excellent-health formulation belongs to the historical source and does not make the formula a medical assurance. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

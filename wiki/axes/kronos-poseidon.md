@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¤/¨`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `302`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ The one who is near God. The great revelation. The sage. High-minded and intelle
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `466`; PDF page: `232` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Special insights, dominant idea, mental guidance, intellectual group, spiritual self interest, great clarity, culture state, cultural prestige, useful authorship, and important truth
+German pair summary (transcribed from printed page `466`; PDF page `232`):
+
+> Besondere Erkenntnisse, dominante Idee, geistige Lenkung, Geistes-Größe, geistige Selbständigkeit, große Klarheit, Kultur-Staat, kulturelles Ansehen, vernünftige Autorität, wichtige Wahrheit
+
+Editorial translation from the German passage: Particular insights, dominant idea, mental or spiritual guidance, greatness of mind, mental or spiritual independence, great clarity, cultural state, cultural standing, reasonable authority, important truth.
+
+## Comparative Schema
+
+- **Core meaning:** Intellectual or spiritual distinction expressed as insight, clarity, cultural standing, and guidance ([pair entries](#source-entries)).
+- **Psychology:** High standards of thought, a dominant idea, and mental guidance are stated. The source's `genius` and `near God` language describes its evaluative ideals, not an objective ranking of people.
+- **Body/health:** Neither entry establishes a bodily or medical condition.
+- **Social/relationship:** The sage, moral conduct, cultural prestige, and educational or cultural departments link thought with public influence and responsibility.
+- **Events/manifestations:** Revelation, important insight, and cultural or educational leadership are named expressions; no definite external event is promised.
+- **Conflicts/notes:** The entries overlap in mental distinction, independent thought, clarity, guidance and culture. Their evaluative language does not establish a factual ranking of people or a necessary defect of character.
 
 ## Related Activations
 
@@ -106,8 +125,7 @@ Special insights, dominant idea, mental guidance, intellectual group, spiritual 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon`: elevated intellect and cultural authority: the sage, superior genius, moral and intellectual greatness, revelation, high culture, education, and institutions that carry spiritual or mental leadership.
-- Chart expression: authority of mind rather than force alone. It favors intellectual nobility, cultural guidance, high educational standards, superior insight, and leadership grounded in revelation, truth, or principle, while its liabilities are elitist abstraction, ideological rigidity, and mental superiority detached from ordinary life.
+Kronos/Poseidon concerns distinction and guidance in the life of the mind. Insight, clarity, truth, and high intellectual standards connect the figure of the sage with cultural prestige and educational or cultural institutions. The shared theme is influence carried through ideas, understanding, and culture ([Witte, Rudolph & Lefeldt](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures); [Rudolph](#udo-rudolph---abc-for-planetary-pictures)). Witte's language of revelation and nearness to God gives this range a spiritual ideal, which remains his characterization rather than a factual claim of spiritual superiority.
 
 ## Links
 

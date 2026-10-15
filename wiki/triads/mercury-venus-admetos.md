@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Venus Admetos`
 - Astronomicon triad-set: `T Q ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Admetos = Venus](../activations/mercury-admetos-equals-venus.md)
-- [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md)
-- [Venus/Admetos = Mercury](../activations/venus-admetos-equals-mercury.md)
+- [Mercury/Admetos = Venus](../activations/mercury-admetos-equals-venus.md): base axis [Mercury/Admetos](../axes/mercury-admetos.md); activator [Venus](../factors/venus.md).
+- [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md): base axis [Mercury/Venus](../axes/mercury-venus.md); activator [Admetos](../factors/admetos.md).
+- [Venus/Admetos = Mercury](../activations/venus-admetos-equals-mercury.md): base axis [Venus/Admetos](../axes/venus-admetos.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Admetos = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `264`
-- `Mercury/Venus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `159`
-- `Mercury/Venus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `241`
-- `Venus/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `187`
-- `Venus/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `292`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Admetos = Venus](../activations/mercury-admetos-equals-venus.md#witte-entry) (PDF entry-start p. 171); [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md#witte-entry) (PDF entry-start p. 159); [Venus/Admetos = Mercury](../activations/venus-admetos-equals-mercury.md#witte-entry) (PDF entry-start p. 187).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Admetos = Venus](../activations/mercury-admetos-equals-venus.md#abc-entry) (printed p. 264); [Mercury/Venus = Admetos](../activations/mercury-venus-equals-admetos.md#abc-entry) (printed p. 241); [Venus/Admetos = Mercury](../activations/venus-admetos-equals-mercury.md#abc-entry) (printed p. 292).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Venus`: makes the axis socially awkward and ill-mannered.
-- `Mercury/Venus = Admetos`: To have few acquaintances. Cold behavior towards new friends. New friends given the cold shoulder. Disorderly conduct.
-- `Venus/Admetos = Mercury`: very concentrated thinking.
+Mercury, Venus and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Mercury/Venus](../axes/mercury-venus.md)
+- [Venus/Admetos](../axes/venus-admetos.md)
 - [Mercury](../factors/mercury.md)
 - [Venus](../factors/venus.md)
 - [Admetos](../factors/admetos.md)

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Pluto Zeus`
 - Astronomicon triad-set: `V Z £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md)
-- [Jupiter/Zeus = Pluto](../activations/jupiter-zeus-equals-pluto.md)
-- [Pluto/Zeus = Jupiter](../activations/pluto-zeus-equals-jupiter.md)
+- [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md): base axis [Jupiter/Pluto](../axes/jupiter-pluto.md); activator [Zeus](../factors/zeus.md).
+- [Jupiter/Zeus = Pluto](../activations/jupiter-zeus-equals-pluto.md): base axis [Jupiter/Zeus](../axes/jupiter-zeus.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Zeus = Jupiter](../activations/pluto-zeus-equals-jupiter.md): base axis [Pluto/Zeus](../axes/pluto-zeus.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Pluto = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `210`
-- `Jupiter/Pluto = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `331`
-- `Jupiter/Zeus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
-- `Jupiter/Zeus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `337`
-- `Pluto/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `259`
-- `Pluto/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `412`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md#witte-entry) (PDF entry-start p. 210); [Jupiter/Zeus = Pluto](../activations/jupiter-zeus-equals-pluto.md#witte-entry) (PDF entry-start p. 213); [Pluto/Zeus = Jupiter](../activations/pluto-zeus-equals-jupiter.md#witte-entry) (PDF entry-start p. 259).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Pluto = Zeus](../activations/jupiter-pluto-equals-zeus.md#abc-entry) (printed p. 331); [Jupiter/Zeus = Pluto](../activations/jupiter-zeus-equals-pluto.md#abc-entry) (printed p. 337); [Pluto/Zeus = Jupiter](../activations/pluto-zeus-equals-jupiter.md#abc-entry) (printed p. 412).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Pluto = Zeus`: good circumstances continuing to improve and the creation or expansion of charitable activity.
-- `Jupiter/Zeus = Pluto`: successful development, an increase of output or effect, and deep satisfaction in work that gains momentum and strength.
-- `Pluto/Zeus = Jupiter`: This activation emphasizes gladly accepted duties; Satisfaction out of performance of duty.
+Jupiter, Pluto and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Pluto](../axes/jupiter-pluto.md)
+- [Jupiter/Zeus](../axes/jupiter-zeus.md)
+- [Pluto/Zeus](../axes/pluto-zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Pluto](../factors/pluto.md)
 - [Zeus](../factors/zeus.md)

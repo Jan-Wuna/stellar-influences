@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [MC Vulcanus Poseidon](../triads/mc-vulcanus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To have spiritual or mental influence or power. To use strong mental power.
 
 #### ABC Entry
 
-Influence of culture, influence of soul and spirit, insight is my strong, knowledge of my energy, my mind is strong, my mental influence, my cultural influence, my spiritual strength, clarity of a strong soul, and strong spirit soul
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Ensouled cultural influence, influence of soul and spirit, insight is my strength, knowledge of my energy, my mind is strong, my mental influence, my cultural influence, my spiritual strength, clarity of a strong soul, strong spirit-soul (Geist-Seele).
+
+## Comparative Schema
+
+- **Core meaning:** Mental and spiritual influence.
+- **Psychology:** Insight and clarity associated with strength.
+- **Body/health:** No bodily or health condition is supplied.
+- **Social/relationship:** Influence through culture and mental activity.
+- **Events/manifestations:** Using mental power and exerting cultural influence.
+- **Conflicts/notes:** ABC explicitly calls insight a strength and distinguishes soul, spirit, culture and clarity. Geist-Seele remains its source compound; the entry does not establish a separate technical or medical concept.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Witte's mental or spiritual power overlaps ABC's influence through insight, culture and clarity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Poseidon` spiritualizes the axis through mental or spiritual power.
-- Chart expression: strong intellectual influence, forceful thought, and a life direction in which power is exercised through ideas, conviction, or concentrated mental command.
+Poseidon specifies `MC/Vulcanus` through mental or spiritual influence and the use of mental power in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) connects cultural influence, insight and inner clarity with strength. The supported emphasis is power exercised through understanding and culture, without transferring the wording of the distinct `MC/Poseidon = Vulcanus` orientation.
 
 ## Links
 

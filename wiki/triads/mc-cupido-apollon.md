@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Cupido Apollon`
 - Astronomicon triad-set: `MC ¡ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md)
-- [MC/Apollon = Cupido](../activations/mc-apollon-equals-cupido.md)
-- [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md)
+- [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md): base axis [Cupido/Apollon](../axes/cupido-apollon.md); activator [MC](../factors/mc.md).
+- [MC/Apollon = Cupido](../activations/mc-apollon-equals-cupido.md): base axis [MC/Apollon](../axes/mc-apollon.md); activator [Cupido](../factors/cupido.md).
+- [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md): base axis [MC/Cupido](../axes/mc-cupido.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Cupido/Apollon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `270`
-- `Cupido/Apollon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `430`
-- `MC/Apollon = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `74`
-- `MC/Apollon = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `93`
-- `MC/Cupido = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `85`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md#witte-entry) (PDF entry-start p. 270); [MC/Apollon = Cupido](../activations/mc-apollon-equals-cupido.md#witte-entry) (PDF entry-start p. 74); [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md#witte-entry) (PDF entry-start p. 70).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Apollon = MC](../activations/cupido-apollon-equals-mc.md#abc-entry) (printed p. 430); [MC/Apollon = Cupido](../activations/mc-apollon-equals-cupido.md#abc-entry) (printed p. 93); [MC/Cupido = Apollon](../activations/mc-cupido-equals-apollon.md#abc-entry) (printed p. 85).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = MC`: belonging to a great family or association and achieving success as an artist or scientist.
-- `MC/Apollon = Cupido`: collectivizes the axis through art, cultured circles, and peaceful networks.
-- `MC/Cupido = Apollon`: expands the axis into large families, broad social life, and wide communal affiliation.
+MC, Cupido and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Apollon](../axes/cupido-apollon.md)
+- [MC/Apollon](../axes/mc-apollon.md)
+- [MC/Cupido](../axes/mc-cupido.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Apollon](../factors/apollon.md)

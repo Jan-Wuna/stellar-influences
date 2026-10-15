@@ -33,27 +33,41 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Triad hub: [Mercury Venus Mars](../triads/mercury-venus-mars.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- Source locator: PDF p. 160, one-based, entry start (supplied source-evidence record; not a printed-page number).
+
 The pleasant voice. Harmonious debates with good friends. Discussions about sex matters. Lover’s quarrels.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `242`; PDF page: `120`.
+
 #### ABC Entry
 
-Joy of written work, peaceful youth work, harmonious working language, harmonious thought pulses, artistic media work, love impulses in youth, creative young artists, and report on peace struggles
+German passage (transcribed from PDF page `120`, printed page `242`):
+
+> Freude an schriftlicher Arbeit, friedliche Jugend-Arbeit, harmonische Arbeits-Gespräche, harmonische Gedanken-Impulse, künstlerische Medien-Arbeit, Liebes-Impulse in der Jugend, Schaffen junger Künstler, über Friedens-Bemühungen berichten
+
+Editorial translation from the German passage: Pleasure in written work; peaceful youth work; harmonious work conversations; harmonious thought impulses; artistic media work; impulses of love in youth; young artists' creative work; reporting on peace efforts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed source page: `149`; entry code: `0473`.
 
 #### Ebertin Entry
 
 Quick decision in matters of love and affection, tendency to quickly fall in love. Exaggerating or quarreling in love matters, quarreling about a beloved woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF chapter start: `42` (chapter locator; not an exact activation-page reference).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ An appeasing element amidst talk on the use of force; self satisfaction gained f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Forceful expression directed toward affection, pleasure, and valued relationships.
+- psychology: Passionate expression of values and quick decisions in love.
+- body/health: Sexual activity and athletic enjoyment appear as topics; no medical claim is made.
+- social/relationship: Pleasant discussion, verbal sparring with a partner, intimacy, and lovers' quarrels.
+- events/manifestations: Artistic media work, writing enjoyed, and talk about sex.
+- conflicts/notes: Harmony and quarrelling both occur in the entries; Ebertin's female example is historically gendered, not exclusive.
 
 ## Contradictions
 
-- None recorded yet.
+Harmony and quarrelling are alternative expressions of animated affection. ABC names reporting on peace efforts; this is distinct from treating all peace activity as struggle.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Venus`: a pleasing voice, animated charm, erotic candor, and quick decisions in matters of love or value. Main caution: relational friction: playful or passionate exchange can tip into lover's quarrels, exaggeration, or argument in affectional matters.
+Venus specifies Mercury/Mars through affection and pleasure in animated exchange: a pleasant voice or passionate statement of values can bring people closer, including through verbal sparring and discussion of sex. The [Witte](#witte-entry), [Sandbach](#sandbach-entry), and [Munkasey](#munkasey-entry) (p. 152) entries support this range; [Ebertin](#ebertin-entry) adds quick decisions in love and the possibility of exaggeration or quarrels. The attraction to lively exchange does not ensure harmony, but neither does an argument remove the affectionate context.
 
 ## Links
 

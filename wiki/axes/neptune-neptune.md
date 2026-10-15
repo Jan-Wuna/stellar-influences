@@ -46,13 +46,27 @@ updated_at: 2026-04-21
 - Axis: `Neptune/Neptune`
 - Astronomicon axis: `Y/Y`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `NEPTUNE + NEPTUNE`
+- PDF page (one-based): `244` (exact pair passage checked in raw PDF text).
+
 #### Pair Summary
 
 Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog. Haze. Poison. Gas. Wind. Denial. Mysticism. Inspiration. Fringe science. Creeping states. Uncertain developments. Liquid. Lie.
+
+## Comparative Schema
+
+- core meaning: the single pair summary joins unclear or dissolving conditions with inspiration, the unknown, and uncertain development.
+- psychology: inspiration, mysticism, deception, and denial are named, without a developed personality account.
+- body/health: poison and gas appear in the list, but no illness, symptom, or diagnosis is established.
+- social/relationship: lies and losses are included; no distinct relationship pattern is delineated.
+- events/manifestations: dissolution, loss, creeping states, and physical images of fog, haze, wind, gas, and liquid form the stated range.
+- conflicts/notes: a repeated-factor identity does not by itself establish stronger effects; this page has one source and no independent comparative corroboration.
 
 ## Related Activations
 
@@ -78,11 +92,17 @@ Deceptions. Losses. Dissolutions. Unclear. Future. The Unknown. Inspiration. Fog
 - [Neptune/Neptune = Vulcanus](../activations/neptune-neptune-equals-vulcanus.md)
 - [Neptune/Neptune = Poseidon](../activations/neptune-neptune-equals-poseidon.md)
 
+## Contradictions
+
+- Only one pair entry is present. Its inspiration and mysticism coexist with deception and dissolution; the short list does not explain how to distinguish their expression in a particular case.
+- The exact pair passage is confirmed on Witte PDF244. This PDF locator does not claim an independently checked printed folio.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes pure Neptunian conditions intensified: uncertainty, dissolution, inspiration, deception, mysticism, and drifting states without firm boundaries. It often shows fogged perception, future-oriented uncertainty, porous reality-testing, and experiences shaped as much by suggestion, atmosphere, or imagination as by solid fact.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Neptune` collects conditions that are unclear, dissolving, or not yet known. [Witte's sole pair summary](#pair-summary) places uncertain developments, losses, and deception beside inspiration, mysticism, and the future. Fog, haze, gas, wind, and liquid give concrete forms to the same range of uncertain or diffuse conditions.
+
+The entry does not decide whether an unclear experience is an inspiration, a deception, or a material process. Its references to poison and gas establish listed correspondences rather than a medical conclusion. This remains the canonical repeated-factor axis with its own activation links; repetition in the formula does not supply evidence of increased intensity or a specific outcome.
 
 ## Links
 

@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Jupiter Cupido`
 - Astronomicon triad-set: `T V ¡`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Cupido = Mercury](../activations/jupiter-cupido-equals-mercury.md)
-- [Mercury/Cupido = Jupiter](../activations/mercury-cupido-equals-jupiter.md)
-- [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md)
+- [Jupiter/Cupido = Mercury](../activations/jupiter-cupido-equals-mercury.md): base axis [Jupiter/Cupido](../axes/jupiter-cupido.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Cupido = Jupiter](../activations/mercury-cupido-equals-jupiter.md): base axis [Mercury/Cupido](../axes/mercury-cupido.md); activator [Jupiter](../factors/jupiter.md).
+- [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md): base axis [Mercury/Jupiter](../axes/mercury-jupiter.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Jupiter/Cupido = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `211`
-- `Jupiter/Cupido = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `332`
-- `Mercury/Cupido = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `166`
-- `Mercury/Cupido = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `254`
-- `Mercury/Jupiter = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `161`
-- `Mercury/Jupiter = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `245`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Cupido = Mercury](../activations/jupiter-cupido-equals-mercury.md#witte-entry) (PDF entry-start p. 211); [Mercury/Cupido = Jupiter](../activations/mercury-cupido-equals-jupiter.md#witte-entry) (PDF entry-start p. 166); [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md#witte-entry) (PDF entry-start p. 161).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Cupido = Mercury](../activations/jupiter-cupido-equals-mercury.md#abc-entry) (printed p. 332); [Mercury/Cupido = Jupiter](../activations/mercury-cupido-equals-jupiter.md#abc-entry) (printed p. 254); [Mercury/Jupiter = Cupido](../activations/mercury-jupiter-equals-cupido.md#abc-entry) (printed p. 245).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Cupido = Mercury`: thinking about happy marriage, cheerful table conversation, and information or plans concerning family or company finances.
-- `Mercury/Cupido = Jupiter`: brightens the axis through fortunate sociability and successful shared plans.
-- `Mercury/Jupiter = Cupido`: socializes the axis into festive company, ceremony, and cheerful speech.
+Mercury, Jupiter and Cupido form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Cupido](../axes/jupiter-cupido.md)
+- [Mercury/Cupido](../axes/mercury-cupido.md)
+- [Mercury/Jupiter](../axes/mercury-jupiter.md)
 - [Mercury](../factors/mercury.md)
 - [Jupiter](../factors/jupiter.md)
 - [Cupido](../factors/cupido.md)

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Node/Admetos = Asc`
 - Astronomicon formula: `g/¦ = Asc`
 - Axis page: [Node/Admetos](../axes/node-admetos.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `154` (entry start; one-based).
+
 #### Witte Entry
 
 To be home, to be on the estate. To stay in touch with home. Others are inferior and can’t develop.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `234`, PDF p. `116` (entry).
+
 #### ABC Entry
 
-End of contact with the partner, strengthening of environmental contacts, close of contact with the partner, close of contact with the environment, and link with the environment
+Endurance of a partner relationship, a blocked connection with the partner, the end of the connection to the partner, strengthening contacts with the surroundings, a thorough partner connection, deepening the connection to the surroundings, and a connection to oppressed surroundings
+
+## Comparative Schema
+
+- core meaning: home and local ties may endure, deepen, be blocked or end.
+- psychology: no particular motive for staying close to home is stated.
+- body/health: no medical condition is supplied.
+- social/relationship: partner and environmental contacts are explicit.
+- events/manifestations: being at home or on an estate and strengthening local contact are named.
+- conflicts/notes: Witte's inferiority judgement is historical evaluative language, not an established quality of other people.
+
+## Contradictions
+
+Witte's home and estate setting differs from ABC's broader partner or environmental connections. The source's judgement about others requires attribution.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Admetos = Asc`: To be home, to be on the estate. To stay in touch with home. Others are inferior and can’t develop.
-- Practical focus: to be home, to be on the estate; also to stay in touch with home.
+Node/Admetos = Asc concerns close ties to a partner or immediate surroundings. [Witte](#witte-entry) names being at home or on an estate and staying in touch with home. [ABC](#abc-entry) adds enduring or deepened partner and local connections, beside blockage, oppression and an ending (printed p. 234, PDF p. 116). These are alternative conditions of contact. Witte's judgement that others are inferior remains attributed historical wording rather than a conclusion about their worth or capacity.
 
 ## Links
 

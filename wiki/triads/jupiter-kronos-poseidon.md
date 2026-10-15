@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Kronos Poseidon`
 - Astronomicon triad-set: `V ¤ ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Kronos = Poseidon](../activations/jupiter-kronos-equals-poseidon.md)
-- [Jupiter/Poseidon = Kronos](../activations/jupiter-poseidon-equals-kronos.md)
-- [Kronos/Poseidon = Jupiter](../activations/kronos-poseidon-equals-jupiter.md)
+- [Jupiter/Kronos = Poseidon](../activations/jupiter-kronos-equals-poseidon.md): base axis [Jupiter/Kronos](../axes/jupiter-kronos.md); activator [Poseidon](../factors/poseidon.md).
+- [Jupiter/Poseidon = Kronos](../activations/jupiter-poseidon-equals-kronos.md): base axis [Jupiter/Poseidon](../axes/jupiter-poseidon.md); activator [Kronos](../factors/kronos.md).
+- [Kronos/Poseidon = Jupiter](../activations/kronos-poseidon-equals-jupiter.md): base axis [Kronos/Poseidon](../axes/kronos-poseidon.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Kronos = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `214`
-- `Jupiter/Kronos = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `339`
-- `Jupiter/Poseidon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
-- `Jupiter/Poseidon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `347`
-- `Kronos/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `302`
-- `Kronos/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `466`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Kronos = Poseidon](../activations/jupiter-kronos-equals-poseidon.md#witte-entry) (PDF entry-start p. 214); [Jupiter/Poseidon = Kronos](../activations/jupiter-poseidon-equals-kronos.md#witte-entry) (PDF entry-start p. 218); [Kronos/Poseidon = Jupiter](../activations/kronos-poseidon-equals-jupiter.md#witte-entry) (PDF entry-start p. 302).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Kronos = Poseidon](../activations/jupiter-kronos-equals-poseidon.md#abc-entry) (printed p. 339); [Jupiter/Poseidon = Kronos](../activations/jupiter-poseidon-equals-kronos.md#abc-entry) (printed p. 347); [Kronos/Poseidon = Jupiter](../activations/kronos-poseidon-equals-jupiter.md#abc-entry) (printed p. 466).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Kronos = Poseidon`: happiness and good luck through the intelligence of superiors, chiefs, or government.
-- `Jupiter/Poseidon = Kronos`: right and successful leadership through sound judgment, the intelligent superior, and judicious government.
-- `Kronos/Poseidon = Jupiter`: happiness through agreement with superiors or institutions in cultural, spiritual, or high-minded matters.
+Jupiter, Kronos and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Kronos](../axes/jupiter-kronos.md)
+- [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Kronos](../factors/kronos.md)
 - [Poseidon](../factors/poseidon.md)

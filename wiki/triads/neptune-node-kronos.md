@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Node Kronos`
 - Astronomicon triad-set: `Y g ¤`
 
+Use the [Orientation Map](#orientation-map) for structural lookup; interpretation remains on the individual activation pages.
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md)
-- [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md)
-- [Node/Kronos = Neptune](../activations/node-kronos-equals-neptune.md)
+- [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md): base axis [Neptune/Kronos](../axes/neptune-kronos.md); activator [Node](../factors/node.md).
+- [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md): base axis [Neptune/Node](../axes/neptune-node.md); activator [Kronos](../factors/kronos.md).
+- [Node/Kronos = Neptune](../activations/node-kronos-equals-neptune.md): base axis [Node/Kronos](../axes/node-kronos.md); activator [Neptune](../factors/neptune.md).
 
 ## Source Coverage
 
-- `Neptune/Kronos = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `250`
-- `Neptune/Kronos = Node`: Udo Rudolph - ABC for Planetary Pictures, page `398`
-- `Neptune/Node = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `147`
-- `Neptune/Node = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `221`
-- `Node/Kronos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `152`
-- `Node/Kronos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `231`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md#witte-entry) (PDF entry-start p. 250); [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md#witte-entry) (PDF entry-start p. 147); [Node/Kronos = Neptune](../activations/node-kronos-equals-neptune.md#witte-entry) (PDF entry-start p. 152).
+- Udo Rudolph - ABC for Planetary Pictures: [Neptune/Kronos = Node](../activations/neptune-kronos-equals-node.md#abc-entry) (printed p. 398); [Neptune/Node = Kronos](../activations/neptune-node-equals-kronos.md#abc-entry) (printed p. 221); [Node/Kronos = Neptune](../activations/node-kronos-equals-neptune.md#abc-entry) (printed p. 231).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Node`: This activation turns compromised authority into secret dealings and deceptive alliances, showing insincere contacts, covert maneuvers, and entanglement with ineffective management.
-- `Neptune/Node = Kronos`: This activation elevates dissolution into the sphere of state power, showing bad official contact, unions broken by authority, or leaders left isolated and unsupported.
-- `Node/Kronos = Neptune`: Respite. Release from prison. To be divorced. Connections among the leading people dissolve. Unsuccessful connection with the authorities.
+Neptune, Node and Kronos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
+
+The [Neptune/Node = Kronos ABC entry](../activations/neptune-node-equals-kronos.md#abc-entry) retains “Autlosung”. This specific transcription requires source checking; the paragraph remains represented independently of both sibling formulas.
 
 ## Links
 
+- [Neptune/Kronos](../axes/neptune-kronos.md)
+- [Neptune/Node](../axes/neptune-node.md)
+- [Node/Kronos](../axes/node-kronos.md)
 - [Neptune](../factors/neptune.md)
 - [Node](../factors/node.md)
 - [Kronos](../factors/kronos.md)

@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Uranus Apollon Poseidon](../triads/uranus-apollon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To reach clarity through mental exchange with similar minded people. Widening of
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 383; PDF p. 190.
+
 #### ABC Entry
 
 Spread of new ideas, dynamic success through clarity, successful cultural renewal, spiritual freedom impulses, clarity through technical knowledge, new knowledge of the mind, new cultural knowledge, sudden spiritual experiences, and increasing spiritual renewal
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: A widened mental horizon through shared ideas and clarity.
+- psychology: Intellectual or spiritual renewal and freedom impulses.
+- body/health: No bodily condition is supplied.
+- social/relationship: Mental exchange with like-minded people.
+- events/manifestations: Spread of new ideas, cultural renewal, technical clarity and spiritual experience.
+- conflicts/notes: Like-mindedness and success through clarity are source associations, not independent proof of an idea.
+
+## Contradictions
+
+Witte emphasizes clarity through exchange with like-minded people. ABC extends that to cultural renewal, technical knowledge and spiritual experience. These are compatible emphases, without proving the truth of every shared belief.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Poseidon`: To reach clarity through mental exchange with similar minded people. Widening of mental horizon.
-- Practical expression: spread of new ideas, dynamic success through clarity, successful cultural renewal, spiritual freedom impulses, and clarity through technical knowledge.
+In `Uranus/Apollon = Poseidon`, Poseidon specifies expanding knowledge through clarity and the exchange of ideas. [Witte](#witte-entry) describes a wider mental horizon reached with like-minded people. [ABC](#abc-entry) adds spreading ideas, technical clarity, cultural renewal and spiritual experience. The common thread is understanding that reaches beyond an existing horizon; agreement alone does not establish an idea's truth.
 
 ## Links
 

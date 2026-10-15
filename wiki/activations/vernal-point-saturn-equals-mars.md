@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Saturn](../axes/vernal-point-saturn.md)
 - Triad hub: [Vernal Point Mars Saturn](../triads/vernal-point-mars-saturn.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 44 (one-based).
 
 End of a job. The time for laying off work. Suspension of work. Messages of death. Death in public.
 
@@ -42,13 +46,27 @@ End of a job. The time for laying off work. Suspension of work. Messages of deat
 
 #### ABC Entry
 
-Work problems in public life, inhibited action in public, stored work in public, problems of public life work, separation actions in public, and loss of public work
+- Source page: 36; PDF page: 17 (one-based spread).
+
+Work problems in public life, inhibited public initiative, disturbed public work, working on the problems of public life, public acts of separation, and loss of public work
+
+## Comparative Schema
+
+- core meaning: Public burdens expressed through interrupted, inhibited, or difficult work.
+- psychology: Inhibited initiative is explicit.
+- body/health: Witte names death and messages of death as severe source examples.
+- social/relationship: Loss or suspension of work.
+- events/manifestations: Job endings, disturbed work, and acts of separation.
+- conflicts/notes: Working on public problems is retained as an active response; disturbed replaces stored.
+
+## Contradictions
+
+Work on problems can continue alongside inhibited or lost work. Death is a separate extreme example and is not inferred from every job ending.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Saturn = Mars`: end of a job, the time for laying off work, suspension of work, messages of death, and death in public.
-- Practical expression: work problems in public life, inhibited action in public, stored work in public, problems of public life work, and separation actions in public.
+In `Vernal Point/Saturn = Mars`, public difficulty is expressed through work and action. The [Witte entry](#witte-entry) names job endings and suspended work, alongside death-related examples. The restored [ABC entry](#abc-entry) adds inhibited initiative, disturbed work, and acts of separation, while also naming work on public problems. The reading preserves both obstructed activity and effort directed toward a difficult task.
 
 ## Links
 

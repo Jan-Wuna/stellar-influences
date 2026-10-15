@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Anger and impulsiveness added to an already ‘short fuse’ in your temper; an 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Increased anger, impulsiveness, concealment, and opposition to others.
+- psychology: A shorter temper and stronger impulse to hide activity.
+- body/health: No bodily or medical effect is described.
+- social/relationship: A heightened need to fight others' activities or intentions.
+- events/manifestations: Concealed action and combative responses.
+- conflicts/notes: The single With Itself entry describes impulses, without establishing a particular violent event or diagnosis.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's entry is present; no comparison between sources is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Mars`: Anger and impulsiveness added to an already ‘short fuse’ in one's temper; an impulses to hide one's activities from others even further; increased needs to fight against the activities and intentions of people in general.
+In `Mars/Pluto = Mars`, repeated Mars specifies intensified action through added anger and impulsiveness. Munkasey connects a shorter temper with further concealment and an increased need to oppose what other people do or intend. The passage describes that combative orientation without naming a necessary event or bodily consequence. ([Munkasey entry](#munkasey-entry), printed p. 242)
 
 ## Links
 

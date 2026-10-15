@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Vulcanus = Kronos`
 - Astronomicon formula: `¡/§ = ¤`
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 277; PDF p. 273.
+
 A society sanctioned by the state. Ingenious artistic accomplishment. Privileged class, to belong to the nobility.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special art, dominance of a power community, influence of a hierarchy community, independent authorship for of a community, common power superiority, great violence of a community, and state energy community
+Source: printed p. 435; PDF p. 216, Kronos row.
+
+German: "Besonderer Kunst-Einfluß, Dominanz einer Macht-Gemeinschaft, Einfluß einer Hierarchie-Gemeinschaft, einflußreiche Autorität für eine Gemeinschaft, gemeinsame Macht-Überlegenheit, große Gewalt einer Gemeinschaft, staatliche Energie-Gemeinschaft".
+
+English translation: Particular artistic influence; dominance of a power community; influence of a hierarchical community; influential authority for a community; shared superiority in power; great force or violence of a community; a state energy community.
+
+## Comparative Schema
+
+- Core meaning: Collective power with state recognition, hierarchy and artistic distinction ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: No individual motive or character is described.
+- Body/health: No bodily condition is named.
+- Social/relationship: State-sanctioned society, nobility and hierarchical or power communities are explicit.
+- Events/manifestations: Ingenious artistic accomplishment, artistic influence and shared power superiority are named.
+- Conflicts/notes: Historical privilege and great force/violence remain source examples without an inferred justification for dominance.
+
+## Contradictions
+
+Witte emphasizes sanction, privilege and art; ABC adds communal dominance and force. These different forms of recognized power do not establish a shared motive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Kronos`: power and organization acquiring official prestige, rank, or noble sanction. Main caution: elitism and the temptation to justify dominance through recognized status.
+In `Cupido/Vulcanus = Kronos`, Kronos specifies collective strength through state recognition, hierarchy and artistic distinction. State-sanctioned society, nobility and ingenious artistic accomplishment are Witte's examples ([Witte Entry](#witte-entry)). ABC extends the range to artistic influence, influential authority, communal dominance and superior power, with great force or violence and a state energy community also named ([ABC Entry](#abc-entry)).
 
 ## Links
 

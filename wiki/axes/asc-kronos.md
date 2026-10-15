@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `94`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Things which come to the native from above. Workman. Employee. Official. Others 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `128–129`; PDF page: `63`.
+
 #### ABC Pair Summary
 
-Others direct, reputable partner, local authority, large town, large environment, local authority::hie, self employed partner, state seat, iiberlegener partner, IJmwelt--Lenlrnng, priority of the partner, and important place
+Directing others, respected partner, authority at the place, large place, large environment, local hierarchy, independent partner, state place, superior partner, direction of the environment, precedence of the partner, and important place.
+
+## Comparative Schema
+
+- Core meaning: Authority, rank, and official influence shape the nearby environment in the [Pair Summary](#pair-summary) and the intelligible [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Dependence on others or on orders is explicit in the [Pair Summary](#pair-summary); the person's attitude toward that dependence is not specified.
+- Body/health: Neither pair entry supplies a bodily or clinical correspondence.
+- Social/relationship: Employees, officials, authorities, superiors, and a reputable or prominent partner are the supported social relations.
+- Events/manifestations: State influence, official orders, local authority, important places, and an extraordinary place are explicit across the summaries.
+- Conflicts/notes: The pair includes directing others, an independent partner, and dependence on authority. Rank or importance alone does not establish who commands in every relationship.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ Others direct, reputable partner, local authority, large town, large environment
 - [Asc/Kronos = Vulcanus](../activations/asc-kronos-equals-vulcanus.md)
 - [Asc/Kronos = Zeus](../activations/asc-kronos-equals-zeus.md)
 
+## Contradictions
+
+Contact with authority, employment, and a prominent partner are different expressions of rank or importance. Their presence does not establish that the person being interpreted always commands or always obeys.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos`: an environment shaped by hierarchy: officials nearby, orders from above, dependence on institutions or bosses, and a life lived in relation to superiors, offices, and elevated structures.
-- Chart expression: employment, official service, subordination, bureaucracy, rank, extraordinary or state-marked places, and the direct influence of authority on daily life and surroundings. Liabilities: servility, dependence, suppression of personal autonomy, excessive deference to command, and the strain of living under people or institutions that stand above the native.
+`Asc/Kronos` places authority and social rank within the immediate environment. Contact with employees, officials, or superiors, orders from authorities, and state influence connect the people nearby with structures on which one may depend in the [Pair Summary](#pair-summary). The intelligible [ABC wording](#abc-pair-summary) also names local authority, a reputable partner, and important places. The shared theme is a nearby person or place carrying rank, responsibility, or official weight; the entry does not require every such relationship to be oppressive or every person involved to hold the same position.
 
 ## Links
 

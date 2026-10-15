@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Pluto Vulcanus`
 - Astronomicon triad-set: `R Z §`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md)
-- [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md)
-- [Pluto/Vulcanus = Moon](../activations/pluto-vulcanus-equals-moon.md)
+- [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md): base axis [Moon/Pluto](../axes/moon-pluto.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md): base axis [Moon/Vulcanus](../axes/moon-vulcanus.md); activator [Pluto](../factors/pluto.md).
+- [Pluto/Vulcanus = Moon](../activations/pluto-vulcanus-equals-moon.md): base axis [Pluto/Vulcanus](../axes/pluto-vulcanus.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Pluto = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `129`
-- `Moon/Pluto = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `191`
-- `Moon/Vulcanus = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `137`
-- `Moon/Vulcanus = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `205`
-- `Pluto/Vulcanus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `263`
-- `Pluto/Vulcanus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `420`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md#witte-entry) (PDF entry-start p. 129); [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md#witte-entry) (PDF entry-start p. 137); [Pluto/Vulcanus = Moon](../activations/pluto-vulcanus-equals-moon.md#witte-entry) (PDF entry-start p. 263).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Pluto = Vulcanus](../activations/moon-pluto-equals-vulcanus.md#abc-entry) (printed p. 191); [Moon/Vulcanus = Pluto](../activations/moon-vulcanus-equals-pluto.md#abc-entry) (printed p. 205); [Pluto/Vulcanus = Moon](../activations/pluto-vulcanus-equals-moon.md#abc-entry) (printed p. 420).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Pluto = Vulcanus`: This activation intensifies `Moon/Pluto` into powerful collective upheaval and forceful transformation. It points to strong changes in public life, executive structures, or mass feeling, where emotional mutation carries weight, pressure, and large-scale consequence.
-- `Moon/Vulcanus = Pluto`: Forceful events are developing. Development is stormy and noisy. Changes among representatives of the public power start to show. Others are prepared to take over power. Great changes in a nation relating to power and might.
-- `Pluto/Vulcanus = Moon`: This activation emphasizes a people changes its entity; Great changes in the general public conditions.
+Moon, Pluto and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Pluto](../axes/moon-pluto.md)
+- [Moon/Vulcanus](../axes/moon-vulcanus.md)
+- [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
 - [Moon](../factors/moon.md)
 - [Pluto](../factors/pluto.md)
 - [Vulcanus](../factors/vulcanus.md)

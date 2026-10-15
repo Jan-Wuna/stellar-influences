@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [MC Cupido Admetos](../triads/mc-cupido-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,19 @@ Ones wishes in family or community are denied. To be avoided.
 
 Common Soul Blockade, I strengthen the community, I condense to synthesis, my resistance in the community, my depressions in the community, my limitations in the community, and my strengthening by the arts
 
+## Comparative Schema
+
+- **Core meaning:** Limits or resistance within family, community, and art.
+- **Psychology:** Wishes for belonging can meet frustration.
+- **Body/health:** ABC's depressions in community are historically attributed emotional language.
+- **Social/relationship:** Being avoided or strengthening a community are both explicit.
+- **Events/manifestations:** Denied wishes and consolidation through art are named.
+- **Conflicts/notes:** ABC's “condense to synthesis” is not defined as a technical method; the contrasting possibilities do not establish a contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Admetos` narrows the axis through denied belonging and frustrated communal wishes.
-- Chart expression: exclusion, social avoidance, and a life direction in which family or group aspirations are compressed, blocked, or left unfulfilled.
+Admetos specifies `MC/Cupido` through resistance and limitation within belonging. Denied wishes or being avoided can constrain family and community life, while ABC also names strengthening the community and finding firmness through art; group consolidation and frustrated inclusion remain distinct possibilities. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 85.)
 
 ## Links
 

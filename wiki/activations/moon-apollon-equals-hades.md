@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Apollon = Hades`
 - Astronomicon formula: `R/¥ = ¢`
 - Axis page: [Moon/Apollon](../axes/moon-apollon.md)
@@ -34,21 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `134`.
+
 #### Witte Entry
 
 To live through many sad hours. Misery in masses. Widespread poverty. People in dire need.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `201`; PDF page: `99`.
+
 #### ABC Entry
 
-Success of an old woman, dangerous trade with women, successful deprivation of a woman, success lack of a woman, criminal acts of a woman, criminal economy of a people, disadvantages of knowledge of feelings, and hidden knowledge of a woman
+German passage (transcribed from PDF page `99`, printed page `201`):
+
+> Erfolg einer alten Frau, gefährlicher Handel mit Frauen, erfolgreiche Entbehrung einer Frau, Erfolgs-Mangel einer Frau, kriminelle Handlungen einer Frau, kriminelle Wirtschaft eines Volkes, Nachteile durch Gefühls-Wissen, verborgenes Wissen einer Frau
+
+Editorial translation from the German passage: Success of an old woman; dangerous trade with women; successful deprivation of a woman; a woman's lack of success; criminal acts of a woman; a people's criminal economy; disadvantages through emotional knowledge; a woman's hidden knowledge.
+
+## Comparative Schema
+
+- core meaning: Many sad hours, widespread poverty and collective need.
+- psychology: Sadness and disadvantage through emotional knowledge occur in the entries.
+- body/health: No distinct bodily or medical condition is supplied.
+- social/relationship: ABC retains dangerous trade with women (Handel mit Frauen) and criminal acts as attributed examples.
+- events/manifestations: Mass misery and lack of success coexist with the success of an old woman in ABC.
+- conflicts/notes: The actual source's successful deprivation phrase is literal and not a general benefit claim.
+
+## Contradictions
+
+Witte emphasizes misery and poverty; ABC also includes success of an old woman. Its criminal examples are particular source associations, not descriptions of everyone with this formula.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon = Hades`: To live through many sad hours. Misery in masses. Widespread poverty. People in dire need.
-- Practical expression: success of an old woman, dangerous trade with women, successful deprivation of a woman, success lack of a woman, and criminal acts of a woman.
+In `Moon/Apollon = Hades`, Hades specifies the pair's scale and duration through many sad hours and need spread across a population. Witte's mass misery and poverty give the collective expression; ABC adds lack of success, hidden knowledge and disadvantage through emotional knowledge. Its success of an old woman and literal criminal examples remain separate possibilities. Neither widespread hardship nor a criminal role follows as a verdict on an individual ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

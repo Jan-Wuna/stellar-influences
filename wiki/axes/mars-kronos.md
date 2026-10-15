@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/¤`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `200`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ To act independently. Autocratic actions. Main formula for the great leader and 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `314`; PDF page: `156` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Authoritats actions, special actions, chief work, dominant force, great work, self conscious action, self employed work, state activity, superior action, priority activity, and important work
+German pair summary (transcribed from printed page `314`; PDF page `156`):
+
+> Autoritäts-Handlungen, besondere Aktionen, Chef-Arbeit, dominante Tatkraft, große Arbeit, selbstbewußtes Handeln, selbständige Arbeit, staatliche Aktivität, überlegene Handlung, vorrangige Tätigkeit, wichtige Arbeit
+
+Editorial translation from the German passage: Actions of authority, particular actions, work of a chief, dominant drive to act, great work, self-confident action, independent work, state activity, superior action, priority activity, important work.
+
+## Comparative Schema
+
+- core meaning: Independent or directive action, especially work carried out with authority; see the [Pair Summary](#pair-summary).
+- psychology: Self-directed and self-confident action in the [ABC Pair Summary](#abc-pair-summary) stands beside the Pair Summary's autocratic possibility.
+- body/health: Neither pair entry offers a specific bodily or medical correspondence.
+- social/relationship: Leadership, organization, the head of a household, police, and government provide different settings for command.
+- events/manifestations: State activity, enforcement of law, chief responsibilities, and work beyond the ordinary are explicit examples.
+- conflicts/notes: Independent work and institutional authority are different forms of directive action, not a demonstrated contradiction. Self-confident action and authority do not guarantee competence or exemption from law.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Authoritats actions, special actions, chief work, dominant force, great work, se
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Kronos` is the axis of independent force, executive action, and power exercised through command, law, or official authority.
-- Chart expression: autocratic initiative, leadership and organization backed by institutional strength, police or governmental enforcement, penal authority, and work that operates beyond ordinary limits or ordinary permission.
+`Mars/Kronos` describes action that directs, organizes, or takes responsibility from a position of authority. It can be independent work or command exercised through a household, the police, government, or law. The [Pair Summary](#pair-summary) links leadership and organization with autocratic action; the [ABC Pair Summary](#abc-pair-summary) adds chief work, self-directed activity, and important responsibilities.
+
+The range joins personal independence with official power without making them identical. Work beyond the ordinary refers to the scope of activity in the source; it does not imply exemption from ordinary permission or law.
 
 ## Links
 

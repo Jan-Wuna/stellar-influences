@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Kronos Apollon`
 - Astronomicon triad-set: `U ¤ ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Kronos/Apollon = Mars](../activations/kronos-apollon-equals-mars.md)
-- [Mars/Apollon = Kronos](../activations/mars-apollon-equals-kronos.md)
-- [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md)
+- [Kronos/Apollon = Mars](../activations/kronos-apollon-equals-mars.md): base axis [Kronos/Apollon](../axes/kronos-apollon.md); activator [Mars](../factors/mars.md).
+- [Mars/Apollon = Kronos](../activations/mars-apollon-equals-kronos.md): base axis [Mars/Apollon](../axes/mars-apollon.md); activator [Kronos](../factors/kronos.md).
+- [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md): base axis [Mars/Kronos](../axes/mars-kronos.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Kronos/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `299`
-- `Kronos/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `460`
-- `Mars/Apollon = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
-- `Mars/Apollon = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `317`
-- `Mars/Kronos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `200`
-- `Mars/Kronos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `315`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Kronos/Apollon = Mars](../activations/kronos-apollon-equals-mars.md#witte-entry) (PDF entry-start p. 299); [Mars/Apollon = Kronos](../activations/mars-apollon-equals-kronos.md#witte-entry) (PDF entry-start p. 201); [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md#witte-entry) (PDF entry-start p. 200).
+- Udo Rudolph - ABC for Planetary Pictures: [Kronos/Apollon = Mars](../activations/kronos-apollon-equals-mars.md#abc-entry) (printed p. 460); [Mars/Apollon = Kronos](../activations/mars-apollon-equals-kronos.md#abc-entry) (printed p. 317); [Mars/Kronos = Apollon](../activations/mars-kronos-equals-apollon.md#abc-entry) (printed p. 315).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Apollon = Mars`: the practitioner, free use of one's forces, and large-scale unfolding of scientific, commercial, or peaceful activity.
-- `Mars/Apollon = Kronos`: independent and leading activity in science, commerce, or trade and command over productive systems.
-- `Mars/Kronos = Apollon`: expands executive action into large-scale management, trade, science, and broad administrative reach.
+Mars, Kronos and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Kronos/Apollon](../axes/kronos-apollon.md)
+- [Mars/Apollon](../axes/mars-apollon.md)
+- [Mars/Kronos](../axes/mars-kronos.md)
 - [Mars](../factors/mars.md)
 - [Kronos](../factors/kronos.md)
 - [Apollon](../factors/apollon.md)

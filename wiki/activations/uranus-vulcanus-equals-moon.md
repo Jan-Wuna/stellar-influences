@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Moon`
 - Astronomicon formula: `X/§ = R`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 Hours full of decision. Eventful hours. The public is very much provoked. Surprising appearance of power and might of a nation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Unsettling influence of the people, dynamic power of a people, power emergence of a people, power impulses of of women, powerful tensions in the people, violent influence of the refugees, strongly excited woman, strong tensions of the refugees, and Surprising influence of of women
+- Source page: 386 (printed); PDF page: 192.
+
+Unsettling influence of the people, dynamic power of a people, renewal of a people's power, power impulses of the woman, powerful tensions in the people, sudden influence of feelings, strongly excited woman, strong tensions of feelings, and surprising influence of the woman
+
+## Comparative Schema
+
+- Core meaning: Public and emotional arousal around emerging power.
+- Psychology: Strong feeling and emotional tension.
+- Body/health: No clinical claim; ABC's woman-language remains historical attribution.
+- Social/relationship: Provoked public, national power, and historically gendered influence.
+- Events/manifestations: Consequential decisions and a surprising display of national might.
+- Conflicts/notes: The source's women/people associations are retained, not generalized as sex-based facts.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+The source's women/people associations are retained, not generalized as sex-based facts. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Moon`: Hours full of decision. Eventful hours. The public is very much provoked. Surprising appearance of power and might of a nation.
-- Practical expression: unsettling influence of the people, dynamic power of a people, power emergence of a people, power impulses of of women, and powerful tensions in the people.
+Moon specifies Uranus/Vulcanus through the response of a public or an emotionally stirred person. Powerful tension, consequential decisions, and the surprising emergence of national strength form one connected range. ABC also names an excited woman and the influence of feelings; these are historical source associations, not a universal description of women. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

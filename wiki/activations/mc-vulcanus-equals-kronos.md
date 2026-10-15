@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [MC Kronos Vulcanus](../triads/mc-kronos-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To have great influence. To wield the power of the state.
 
 #### ABC Entry
 
-Authority through psychic strength, dominance of psychic energy, influence of my hierarchy, great psychic influence, strength. my self gloriousness, power of my state, my special influence, my strong state, my great energy, and important psychic influence
+- Source passage: `Meridian + Vulkanus`; printed p. `97`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+Authority through psychic strength, dominance of psychic energy, influence of my hierarchy, great psychic influence, strength of my independence, power of my state, my special influence, my strong state, my great energy, important psychic influence.
+
+## Comparative Schema
+
+- **Core meaning:** Great influence within state or hierarchical power.
+- **Psychology:** An authoritative stance associated with strength.
+- **Body/health:** No bodily condition is established.
+- **Social/relationship:** Hierarchy and state authority.
+- **Events/manifestations:** Wielding state power or exercising substantial influence.
+- **Conflicts/notes:** ABC names strength of independence, alongside hierarchy and the state; it does not state self-glorification. These are examples of influence, not proof of an actual office.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Personal independence, hierarchical influence and state power are different settings for the exercise of strength.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Kronos` raises the axis into great influence and state power.
-- Chart expression: commanding authority, large-scale executive force, and the exercise of official or governmental power through overwhelming personal strength.
+Kronos specifies `MC/Vulcanus` through great influence and the exercise of state power in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds authority through inner strength, hierarchy and the power of one's state. This links personal force with an official or hierarchical setting, without establishing that a person holds office or possesses overwhelming strength.
 
 ## Links
 

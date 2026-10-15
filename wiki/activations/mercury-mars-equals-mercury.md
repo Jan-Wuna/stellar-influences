@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/Mars](../axes/mercury-mars.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Increased awareness of the mental preparation necessary when competing against o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Analysis and mental preparation for competition.
+- psychology: An increased insistence on analysis and readiness.
+- body/health: Athletics and weapons skills are mentioned; no health condition is established.
+- social/relationship: Competing against others and discussing military or athletic subjects.
+- events/manifestations: Developing weapons skills and preparing mentally before competition.
+- conflicts/notes: Only Munkasey's Mercury-activated repeated-factor entry is present; preserve its distinction from the Mars-activated entry.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source is present; the entry provides no basis for a cross-source comparison.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Mars = Mercury`: Increased awareness of the mental preparation necessary when competing against others; conversations on subjects having to do with athletics or the military; developing skills with weapons; an added insistence on analysis.
+Mercury specifies Mercury/Mars as increased attention to the thinking required before competition, according to [Munkasey's entry](#munkasey-entry) (p. 154). Analysis, discussion of athletic or military subjects, and developing weapons skills belong to that preparation. The emphasis is on mental readiness and acquired skill in this one source, rather than on importing the bravery wording of Mercury/Mars = Mars.
 
 ## Links
 

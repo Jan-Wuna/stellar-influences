@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Cupido Vulcanus`
 - Astronomicon triad-set: `MC ¡ §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Cupido/Vulcanus = MC](../activations/cupido-vulcanus-equals-mc.md)
-- [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md)
-- [MC/Vulcanus = Cupido](../activations/mc-vulcanus-equals-cupido.md)
+- [Cupido/Vulcanus = MC](../activations/cupido-vulcanus-equals-mc.md): base axis [Cupido/Vulcanus](../axes/cupido-vulcanus.md); activator [MC](../factors/mc.md).
+- [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md): base axis [MC/Cupido](../axes/mc-cupido.md); activator [Vulcanus](../factors/vulcanus.md).
+- [MC/Vulcanus = Cupido](../activations/mc-vulcanus-equals-cupido.md): base axis [MC/Vulcanus](../axes/mc-vulcanus.md); activator [Cupido](../factors/cupido.md).
 
 ## Source Coverage
 
-- `Cupido/Vulcanus = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
-- `Cupido/Vulcanus = MC`: Udo Rudolph - ABC for Planetary Pictures, page `434`
-- `MC/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `70`
-- `MC/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `85`
-- `MC/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `97`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Cupido/Vulcanus = MC](../activations/cupido-vulcanus-equals-mc.md#witte-entry) (PDF entry-start p. 273); [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md#witte-entry) (PDF entry-start p. 70); [MC/Vulcanus = Cupido](../activations/mc-vulcanus-equals-cupido.md#witte-entry) (PDF entry-start p. 76).
+- Udo Rudolph - ABC for Planetary Pictures: [Cupido/Vulcanus = MC](../activations/cupido-vulcanus-equals-mc.md#abc-entry) (printed p. 434); [MC/Cupido = Vulcanus](../activations/mc-cupido-equals-vulcanus.md#abc-entry) (printed p. 85); [MC/Vulcanus = Cupido](../activations/mc-vulcanus-equals-cupido.md#abc-entry) (printed p. 97).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = MC`: great talent for organization, outstanding artistry, and the drive to produce mighty creations.
-- `MC/Cupido = Vulcanus`: massively strengthens the axis through powerful communal feeling and strong social influence.
-- `MC/Vulcanus = Cupido`: socializes the axis through power flowing from family or community ties.
+MC, Cupido and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
+- [MC/Cupido](../axes/mc-cupido.md)
+- [MC/Vulcanus](../axes/mc-vulcanus.md)
 - [MC](../factors/mc.md)
 - [Cupido](../factors/cupido.md)
 - [Vulcanus](../factors/vulcanus.md)

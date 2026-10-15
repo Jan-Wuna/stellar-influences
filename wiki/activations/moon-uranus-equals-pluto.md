@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Uranus Pluto](../triads/moon-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Changing tenseness and excitement. Abrupt changes in a short time. Development which leads to a fast uproar of the populace.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
 Unsettling developments in the people, dynamic development of a woman, developmental impulses of a woman, sudden changes in feelings, different rhythm of hours, growing nervousness of a woman, and change through a new woman
+
+Source locator: printed p. 187, PDF p. 92; Pluto row visually checked.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Unsettling developments in the people, dynamic development of a woman, developme
 
 Self-willed, stubbornness, fanaticism, craving for sensation. Building anew upon "ruins."
 
+Source locator: printed p. 129, entry 0394.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 To war with one’s own subconscious, in that one tries to control or repress or ignore its contents, but it retaliates by relentlessly pursuing one. Strange, unusual or inexplicable emotions that are persistent and which are trying to lead one toward a transformation.
+
+Source locator: PDF p. 34, Pluto entry; checked in the PDF text.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,23 @@ Tremendous changes wrought in society thru your insights; faulty parts analyzed 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Excitement developing into rapid change or persistent pressure for transformation ([Witte](#witte-entry); [ABC](#abc-entry); [Sandbach](#sandbach-entry)).
+- **Psychology:** Stubbornness and sensation-seeking in Ebertin; persistent feelings resisted or repressed in Sandbach ([Ebertin](#ebertin-entry)).
+- **Body/health:** No bodily condition is specified by these entries.
+- **Social/relationship:** Rapid public uproar and social change through insights; ABC also describes change involving a new woman.
+- **Events/manifestations:** Abrupt developments, rebuilding, repairing faulty parts, processing waste, and inventing from extracted materials ([Munkasey](#munkasey-entry)).
+- **Conflicts/notes:** Sandbach's conflict with the subconscious is interpretive psychological language, not a diagnosis; practical repair remains a distinct sourced expression.
 
 ## Contradictions
 
-- None recorded yet.
+Abrupt external change and persistent internal emotions concern different aspects of the orientation. Reconstruction and resistance also differ in emphasis, but neither entry asserts that transformation is always quick, easy, or successful.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Pluto`: radical emotional change, fierce intuitive alertness, and the power to break entrenched feeling-patterns decisively. Main caution: destabilizing intensity: upheaval can become extreme, controlling, or too severe for gradual integration.
+Pluto specifies Moon/Uranus through developments that change the shape or intensity of excitement. [Witte](#witte-entry) describes rapid shifts and public uproar, while [ABC](#abc-entry) records sudden emotional changes and growing nervousness. [Sandbach](#sandbach-entry) gives an inward counterpart: feelings persist when a person tries to control, repress, or ignore them.
+
+Reconstruction is also explicit: [Ebertin](#ebertin-entry) names building anew on ruins, and [Munkasey](#munkasey-entry) describes repair, waste processing, and invention from materials. These support change and reworking as a shared theme without promising an effortless emotional breakthrough.
 
 ## Links
 

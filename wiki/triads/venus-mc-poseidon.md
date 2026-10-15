@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Venus MC Poseidon`
 - Astronomicon triad-set: `Q MC ¨`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Poseidon = Venus](../activations/mc-poseidon-equals-venus.md)
-- [Venus/MC = Poseidon](../activations/venus-mc-equals-poseidon.md)
-- [Venus/Poseidon = MC](../activations/venus-poseidon-equals-mc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Poseidon = Venus](../activations/mc-poseidon-equals-venus.md) | [MC/Poseidon](../axes/mc-poseidon.md) | [Venus](../factors/venus.md) |
+| [Venus/MC = Poseidon](../activations/venus-mc-equals-poseidon.md) | [Venus/MC](../axes/venus-mc.md) | [Poseidon](../factors/poseidon.md) |
+| [Venus/Poseidon = MC](../activations/venus-poseidon-equals-mc.md) | [Venus/Poseidon](../axes/venus-poseidon.md) | [MC](../factors/mc.md) |
 
 ## Source Coverage
 
-- `MC/Poseidon = Venus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
-- `MC/Poseidon = Venus`: Udo Rudolph - ABC for Planetary Pictures, page `98`
-- `Venus/MC = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `63`
-- `Venus/MC = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `71`
-- `Venus/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `189`
-- `Venus/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `296`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Poseidon = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-poseidon-equals-venus.md#witte-entry), one-based PDF entry-start p. `77`.
+- `MC/Poseidon = Venus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-poseidon-equals-venus.md#abc-entry), printed p. `98`.
+- `Venus/MC = Poseidon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-mc-equals-poseidon.md#witte-entry), one-based PDF entry-start p. `63`.
+- `Venus/MC = Poseidon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-mc-equals-poseidon.md#abc-entry), printed p. `71`.
+- `Venus/Poseidon = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-poseidon-equals-mc.md#witte-entry), one-based PDF entry-start p. `189`.
+- `Venus/Poseidon = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-poseidon-equals-mc.md#abc-entry), printed p. `296`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Venus`: sweetens the axis through love of beauty, freedom, and refined ideals.
-- `Venus/MC = Poseidon`: to revere and idolize something.
-- `Venus/Poseidon = MC`: to be faithful.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

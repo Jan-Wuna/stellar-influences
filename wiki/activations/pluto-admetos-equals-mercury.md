@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Admetos](../axes/pluto-admetos.md)
 - Triad hub: [Mercury Pluto Admetos](../triads/mercury-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 262 (one-based; exact row checked).
 
 To think about and desire changes of the existing conditions. To occupy the mind with changes which have taken place.
 
@@ -42,13 +46,27 @@ To think about and desire changes of the existing conditions. To occupy the mind
 
 #### ABC Entry
 
-Blocked traffic development, restricted media development, talk about circulatory changes, profound thought development, changes through depressive thinking, growing perseverance in languages, and growing constraint on thinking
+- Source page: 418 (printed); PDF page: 208 (one-based; exact row checked).
+
+Blocked development of traffic, restricted development of media, conversations about cyclical/circulatory changes, thorough development of thought, changes through depressive thinking, growing perseverance in conversations, increasing restriction of thinking.
+
+## Comparative Schema
+
+- core meaning: thinking about deep changes while communication or thought meets restrictions.
+- psychology: desire for change, mental preoccupation, thorough thought and increasing mental limitation.
+- body/health: ABC's Kreislauf wording can mean a cycle or circulation; it identifies no bodily mechanism or diagnosis; its depressive terms also remain historical source language.
+- social/relationship: perseverance in conversation is named without a particular type of relationship.
+- events/manifestations: restricted development of traffic or media and discussion of changes already made.
+- conflicts/notes: Thorough thought and restricted thinking are distinct possibilities; the entry does not reduce all reflection on change to depression.
+
+## Contradictions
+
+Thorough thought and restricted thinking are distinct possibilities; the entry does not reduce all reflection on change to depression.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Admetos = Mercury`: to think about and desire changes of the existing conditions; To occupy the mind with changes which have taken place.
-- Practical expression: blocked traffic development, restricted media development, talk about circulatory changes, profound thought development, and changes through depressive thinking.
+Mercury specifies `Pluto/Admetos` through thinking and communicating about changed conditions. The [Witte entry](#witte-entry) includes wanting change and mentally revisiting changes already made; the [ABC entry](#abc-entry) adds thorough thought, perseverance in conversation and restriction of thinking. Traffic and media supply concrete communication settings. The passage holds together thought that works through change and thought that becomes limited by it, while its depressive and cyclical/circulatory language remains attributed source doctrine.
 
 ## Links
 

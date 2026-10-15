@@ -11,6 +11,8 @@ normalized_axis: Asc/MC
 factor_a: Asc
 factor_b: MC
 related_activations:
+  - Asc/MC = Asc
+  - Asc/MC = MC
   - Asc/MC = Admetos
   - Asc/MC = Apollon
   - Asc/MC = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Axis: `Asc/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `ASCENDANT/MIDHEAVEN`
-- Source page: `363`
+- Source heading: `MERIDIAN + ASCENDANT`
+- PDF page: `58`
 
 #### Pair Summary
 
@@ -86,11 +90,15 @@ One’s relationship, position or attitude towards others. To join with others f
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `60–61`; PDF page: `29`.
+
 #### ABC Pair Summary
 
-Other soul, animated place, I at the place, me and others, me and you, my partner, my place, my space, my environment, minute at the place, my relationship to the nearer world, and partner soul
+Other souls, ensouled environment, ensouled place, I at the place, I and others, I and you, my partner, my place, my space, my environment, minute at the place, my relationship to the nearer environment, partner's soul, and soul partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: `306`; PDF page: `308` (complete pair entry and heading footnote 67).
 
 #### Principle
 
@@ -110,9 +118,15 @@ The personality as directed by ego-consciousness.
 
 #### Probable Manifestations
 
-Connections between the Asc. and the MC when brought out by progressions or transits indicate important periods of life which can be characterized and colored only through the addition and incorporation of other factors. 67 The mid-point AS/MC should always be examined as this, frequently has a bearing on the whole personality and because directions over this point may result in a change of life and circumstances. Ascendant/Medium Coeli A/M
+Connections between the Asc. and the MC when brought out by progressions or transits indicate important periods of life which can be characterized and colored only through the addition and incorporation of other factors.
+
+#### Source Footnote 67
+
+The mid-point AS/MC should always be examined as this, frequently has a bearing on the whole personality and because directions over this point may result in a change of life and circumstances.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: `121` (Principle and Process).
 
 #### Principle
 
@@ -129,6 +143,9 @@ The increasing ability to allow one’s identity to be determined, conditioned a
 A very important point in the horoscope, indicating one's personal attitudes concerning others. Points on this axis may exert a general influence on the chart almost as if they were conjunct the Ascendant, Descendant, Midheaven, or Imum Coeli except that the energy is not so strong. The ability to show to others what one really is or what one is really seeking in life.
 
 ### Don McBroom - Midpoints
+
+- Source heading: `The Ascendant/Midheaven Midpoint`
+- Source page: printed p. 61; one-based PDF p. 72 (admitted excerpt under “Significance of the Ascendant/Midheaven Midpoint”; section heading starts on printed p. 60, PDF p. 71).
 
 #### McBroom Entry
 
@@ -181,14 +198,17 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- Core meaning: Personal identity meets public direction and one's stance toward others in the [McBroom Entry](#mcbroom-entry), [Hand delineation](#pair-delineation), and [Stein entry](#stein-ascmc-midpoint).
+- Psychology: Integration or division between real and idealized self in [Sandbach's Principle](#principle-1) connects with learning and maturity in [Munkasey's personal entry](#in-your-personal-life). [Ebertin's psychological correspondence](#psychological-correspondence) explicitly requires further configurations before a characterization can be made.
+- Body/health: [Ebertin's biological correspondence](#biological-correspondence) historically names phenotype rather than genotype. [Munkasey's body/mind entry](#with-body-or-mind) concerns psychological maturation; neither provides a diagnosis or treatment claim here.
+- Social/relationship: Attitudes toward others and showing one's real aims in the [Hand delineation](#pair-delineation) connect with learning from other people's different needs in [Munkasey's relationship entry](#in-your-relationships). The [Pair Summary](#pair-summary) also names joining for a common objective.
+- Events/manifestations: Personal and public roles may require balance or compromise in the [McBroom Entry](#mcbroom-entry). [Munkasey's business entry](#in-politics-or-business) applies feedback and reputation to an enterprise, including difficulty finding shared goals; [Stein](#stein-ascmc-midpoint) emphasizes immediate social expression and significant action.
+- Conflicts/notes: Spiritual growth, ego/personality relations, and public/private balance are different explanatory emphases. Ebertin's footnote 67 belongs to the pair heading and is preserved separately from Probable Manifestations. Its timing references remain source-native claims and do not supply a timing model here.
 
 ## Related Activations
+
+- [Asc/MC = Asc](../activations/asc-mc-equals-asc.md)
+- [Asc/MC = MC](../activations/asc-mc-equals-mc.md)
 
 - [Asc/MC = Admetos](../activations/asc-mc-equals-admetos.md)
 - [Asc/MC = Apollon](../activations/asc-mc-equals-apollon.md)
@@ -214,15 +234,14 @@ Psychological growth experiences; the amount of maturing you do thru your reacti
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+The entries share questions of self-expression, relationship stance, and personal development, while explaining them through different frameworks. Sandbach explicitly allows a schism between real and idealized self, and McBroom allows contrast as well as compromise between personal and public sides; these are conditions within their readings, not a demonstrated contradiction. Ebertin's requirement for further configurations limits any attempt to turn the axis alone into a complete characterization.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Asc/MC` is the core angular axis of personal identity meeting life direction, public role, and relationship stance. It describes how the private self, the lived personality, and the outward course of life are brought into one working whole.
-- Chart expression: a general personality-and-destiny integrator: how one shows oneself to others, how one grows through experience, and how well outer role matches inner orientation. When supported, it gives coherence and maturity; when strained, it can show split between real self and idealized self, or difficulty aligning relationships, status, and personal development.
+`Asc/MC` concerns how personal identity becomes visible in relationships and in a public direction. The ability to show others what one really is or seeks in the [Hand delineation](#pair-delineation) connects with the meeting of personal identity and public image in the [McBroom Entry](#mcbroom-entry). Their relationship may involve common ground, compromise, or contrast. Experience and feedback from others then become opportunities to develop one's self-concept, recognize different needs, and mature, as described in [Munkasey's personal](#in-your-personal-life) and [relationship entries](#in-your-relationships).
+
+Integration is a possibility rather than an automatic result. [Sandbach's Principle](#principle-1) places growth beside the risk of a division between the real and idealized self; his spiritual account is one explanation of that tension. [Ebertin's psychological correspondence](#psychological-correspondence) sets an essential boundary: the two angles alone do not provide a complete characterization without further configurations. Read as a shared pair theme, the axis asks how one's lived personality, aims, relationships, and public role fit together, while leaving the specific expression to further evidence.
 
 ## Links
 

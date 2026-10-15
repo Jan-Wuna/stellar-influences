@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Admetos](../axes/mercury-admetos.md)
 - Triad hub: [Mercury Saturn Admetos](../triads/mercury-saturn-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mercury + Admetos,” Saturn entry, PDF p. 171.
 
 To be limited and cramped, without knowing a way out. Great pessimism.
 
@@ -42,13 +46,29 @@ To be limited and cramped, without knowing a way out. Great pessimism.
 
 #### ABC Entry
 
-Depression through separation thoughts, serious language deepening, serious depression of youth, patience in traffic stau, grilndlich conversation in the old age, problematic limitations of youth, and lossy earth movements
+Source: “Merkur + Admetos,” Saturn entry, printed p. 265 / PDF p. 131. Translation checked against the German passage.
+
+Depression through thoughts of separation, deepening serious conversations, serious depression of youth, patience in a traffic jam, thorough conversations in old age, problematic restrictions of youth, earth movements involving losses.
+
+## Comparative Schema
+
+- **Core meaning:** Limitation with no apparent outlet.
+- **Psychology:** Pessimism and thoughts of separation.
+- **Body/health:** ABC's depression wording does not establish a clinical condition.
+- **Social/relationship:** Restrictions affecting youth and thoughts about separation.
+- **Events/manifestations:** Patience in a traffic jam, serious discussion, and thorough conversations in old age; earth movements involving losses are separately named.
+- **Conflicts/notes:** Patient, sustained conversation remains alongside pessimism and restriction; no diagnosis or predicted loss is established.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 265 (entry); [Witte Entry](#witte-entry), PDF p. 171 (entry start).
+
+## Contradictions
+
+Witte emphasizes feeling cramped without an outlet. ABC also includes patience and serious or thorough conversation, preserving sustained attention alongside depressed or restrictive circumstances.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Admetos = Saturn` locks the axis into cramped limitation and severe pessimism.
-- Chart expression: thoughts cornered without outlet, oppressive mental confinement, and a heavy state in which seriousness becomes bleakness and no path forward seems visible.
+In `Mercury/Admetos = Saturn`, Saturn specifies concentrated or restricted thought and communication through limitation, seriousness, and patience. Witte stresses pessimism and not knowing a way out; ABC adds thoughts of separation and youthful restrictions, but also patient waiting in traffic and thorough conversations in old age. Sustained exchange remains possible within this heavy range. Depression and loss-bearing earth movement are attributed source expressions, without a clinical finding or physical-event forecast. ([Witte](#witte-entry), PDF p. 171; [ABC](#abc-entry), printed p. 265 / PDF p. 131)
 
 ## Links
 

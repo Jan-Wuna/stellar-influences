@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Jupiter Zeus](../triads/vernal-point-jupiter-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 50 (one-based).
 
 Successful work projects in general. To produce coins. To create something valuable.
 
@@ -42,13 +46,29 @@ Successful work projects in general. To produce coins. To create something valua
 
 #### ABC Entry
 
-Successful running in public, financial transportation in public, joysfire in public, public financial services, public legal objectives, legal services for the public, and benefits through public services
+- Source page: 48; PDF page: 23 (one-based spread).
+
+Successful public leadership, financial leadership in public, celebratory fires in public, public financial achievements, public legal goals, legal achievements for the public, and benefits through public achievements.
+
+## Comparative Schema
+
+- core meaning: Successful public projects and the creation of value.
+- psychology: Satisfaction or celebration accompanying achievement.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Effective leadership in financial or legal public activity.
+- events/manifestations: Valuable creations, coin production, financial achievements and celebratory fires.
+- conflicts/notes: Achievements and leadership were mistranslated as running, transportation and services.
+
+## Contradictions
+
+Both describe productive success. ABC adds financial and legal leadership and celebrations to Witte’s valuable work and coin production.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Jupiter`: successful work projects in general, to produce coins, and to create something valuable.
-- Practical expression: successful running in public, financial transportation in public, oysfire in public, public financial services, and public legal objectives.
+`Vernal Point/Zeus = Jupiter` connects directed public effort with successful and valuable results. Witte gives successful work projects, coin production and valuable creations; ABC develops financial leadership, financial achievements and legal goals serving the public. ([Witte](#witte-entry), [ABC](#abc-entry))
+
+Benefits through public achievements complete that practical theme. Celebratory fires give a separate festive expression rather than the destructive fire branch found in other formulas. ([ABC](#abc-entry))
 
 ## Links
 

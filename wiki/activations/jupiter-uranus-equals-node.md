@@ -29,6 +29,8 @@ updated_at: 2026-06-20
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Uranus = Node`
 - Astronomicon formula: `V/X = g`
 - Axis page: [Jupiter/Uranus](../axes/jupiter-uranus.md)
@@ -40,11 +42,15 @@ updated_at: 2026-06-20
 
 #### Witte Entry
 
+- Source reference: printed p. 212; one-based PDF p. 208, Jupiter + Uranus, oriented activator row.
+
 Sudden fortunate union. Unexpected luck in relationships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
+
+- Source reference: printed p. 326; one-based PDF p. 162, Jupiter/Uranus, oriented activator row.
 
 Successful connection to technology, successful impulses in one connection, new legal connections, sudden joy over a connection, legal events in one connection, and tensions over money in one connection
 
@@ -52,11 +58,15 @@ Successful connection to technology, successful impulses in one connection, new 
 
 #### Ebertin Entry
 
+- Source reference: printed p. 230; one-based PDF p. 232, coded entry 0803. The scan's w'th typo is retained.
+
 Ability to show oneself cheerful, gay and hopeful in the presence of others. The ability to share joy together with others, to strive together w'th others for a common purpose and to be happy in the company of others. A fortunate and new acquaintanceship.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 81, Jupiter/Uranus, Node paragraph; chapter begins on p. 80.
 
 The desire to connect with people in an experimental and/or uninhibited fashion. A need to form connections with people and/or groups who allow one a lot of freedom.
 
@@ -67,6 +77,8 @@ The desire to connect with people in an experimental and/or uninhibited fashion.
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 260, JUPITER/URANUS with Planets and Points; passage unchanged in this review.
+
 Making connections to people who can provide you with the support you need; groups of people who recognize the importance of your ideas; barriers to progress from schooled but unqualified people; old ideas reworked.
 
 ### Aren Ober - Midpoint Interpretation Simplified
@@ -76,26 +88,27 @@ Making connections to people who can provide you with the support you need; grou
 
 #### Ober Entry
 
+- Source reference: retained one-based PDF p. 127, Jupiter/Uranus Interpretation, Node example; paraphrase unchanged in this review.
+
 If the Node is at Jupiter/Uranus, Ober gives sudden beneficial connections entering life or the successful forcing of sudden healthy associations.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: New or unexpected contacts bring shared opportunity ([Witte Entry](#witte-entry)).
+- Psychology: Hopefulness and experimental openness are explicit.
+- Body/health: Ober's “healthy associations” describes a relationship quality, not a medical finding.
+- Social/relationship: Shared purpose and freedom coexist with seeking recognition and support for ideas.
+- Events/manifestations: New acquaintances, technical contacts, financial tension, and barriers from unqualified people are specific examples.
+- Conflicts/notes: Raw Ebertin0803 actually prints w'th; it is retained as a source typo. Sandbach's exact Node paragraph is on PDF p. 81. ABC's six connection clauses are readable, including legal events and financial tension.
 
 ## Contradictions
 
-- None recorded yet.
+Supportive contacts and obstructive contacts are alternative manifestations. Sandbach's wish for freedom does not itself establish unstable attachment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Uranus = Node`: lucky contacts, hopeful companionship, collective enthusiasm, and bonds formed around openness, progress, or mutual encouragement. Main caution: instability in attachment: the need for freedom can make connections exciting yet hard to anchor.
+In `Jupiter/Uranus = Node`, Node locates the pair's sudden opportunities in connection. The [Witte Entry](#witte-entry), [Ebertin Entry](#ebertin-entry), and [Ober Entry](#ober-entry) describe fortunate contact and shared joy. The [Sandbach Entry](#sandbach-entry) adds experimental, freely formed bonds, while the [Munkasey Entry](#munkasey-entry) includes both support for ideas and obstruction by unqualified people. The [ABC Entry](#abc-entry) gives technical and new legal connections, sudden joy and legal events within a bond, while retaining financial tension. Shared possibility is central, with supportive and obstructive contacts kept distinct rather than freedom implying instability.
 
 ## Links
 

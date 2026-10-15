@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mars](../axes/vernal-point-mars.md)
 - Triad hub: [Vernal Point Mars Vulcanus](../triads/vernal-point-mars-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,31 @@ Efficiency of labor. Mechanical energies.
 
 #### ABC Entry
 
-Working with energy in the public, influential creation for the public, working on orphans in the public, violence activity in the public, strength work in the public, and powerful actions in the public sphere
+- Source reference: printed p. `33`, one-based PDF p. `15`, complete Vulcanus row.
+
+German passage transcribed from the scan:
+
+> Arbeit mit Energien in der Öffentlichkeit, einflußreiches Schaffen für die Öffentlichkeit, Gewalt in der Öffentlichkeit bearbeiten, Gewalt-Tätigkeit in der Öffentlichkeit, Kraft-Arbeit in der Öffentlichkeit, machtvolle Aktionen in der Öffentlichkeit
+
+Editorial translation: Work with energies in public; influential work for the public; working on force or violence in public; activity involving force or violence in public; strength work in public; powerful actions in public.
+
+## Comparative Schema
+
+- Core meaning: Public labor expressed through energy, strength, and effectiveness.
+- Psychology: Neither entry develops an inner motive or personality account.
+- Body/health: Strength work is named, but no medical condition is established.
+- Social/relationship: Influential public activity and the use of force.
+- Events/manifestations: Efficient labor, mechanical energy, powerful actions and ABC activity involving force or violence.
+- Conflicts/notes: ABC's Gewalt permits force or violence; bearbeiten does not specify whether it is applied, opposed or otherwise worked on. No orphan reference is printed.
+
+## Contradictions
+
+Efficiency and powerful action overlap without requiring violence. ABC's force-or-violence wording is one part of its range, not a contradiction of Witte's mechanical labor. The entry does not specify the agency of working on that force or violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mars = Vulcanus`: efficiency of labor and mechanical energies.
-- Practical expression: working with energy in the public, influential creation for the public, working on orphans in the public, violence activity in the public, and strength work in the public.
+In `Vernal Point/Mars = Vulcanus`, Vulcanus specifies public work by the energy and force brought to bear: labor can become mechanically effective, influential, or powerful. The [Witte Entry](#witte-entry) (PDF p. 42) supplies efficiency and mechanical energies; the complete [ABC Entry](#abc-entry) (printed p. 33; PDF p. 15) extend this to strength and forceful public action, including a contextual force-or-violence range without making violence inevitable.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Poseidon](../axes/mars-poseidon.md)
 - Triad hub: [Mars Apollon Poseidon](../triads/mars-apollon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Poseidon,” PDF p. 204.
 
 The philosophical, moral and ethical foundation for working with others.
 
@@ -42,13 +46,27 @@ The philosophical, moral and ethical foundation for working with others.
 
 #### ABC Entry
 
-Extension of cultural work, encouragement of spiritual knowledge, successful will to truth, success through the active creation, activity in the mind science, increased mental activity, future trade activity, and increasing actions of the community
+Source: “Mars + Poseidon,” printed p. 323 (PDF p. 160).
+
+Expansion of cultural work, efforts toward mental or spiritual knowledge, a successful will for truth, success through rational work, activity in spiritual science (Geistes-Wissenschaft), increased mental activity, rational trading activity, and increasing rational actions.
+
+## Comparative Schema
+
+- core meaning: Expanded cultural or intellectual work and an ethical basis for cooperation.
+- psychology: Effort toward knowledge, truth, and rational action.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: Philosophical, moral, or ethical foundations for working with others.
+- events/manifestations: Cultural expansion, increased mental activity, rational trade, and successful work.
+- conflicts/notes: ABC's success and truth vocabulary describes its possibilities; it does not establish that shared convictions or rational claims are infallible.
+
+## Contradictions
+
+No direct conflict appears: Witte emphasizes cooperation's ethical foundation, while ABC expands cultural, intellectual, and rational activity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Poseidon = Apollon` broadens ethical or philosophical action into a shared foundation for cooperative work.
-- Chart expression: the moral, philosophical, or doctrinal basis that allows people to work together productively and on a wider scale.
+In `Mars/Poseidon = Apollon`, Apollon specifies intellectual and ethical activity through a broader field of cultural work and knowledge. Witte supplies the philosophical, moral, and ethical foundation for cooperation; ABC adds expanded culture, increased mental activity, rational work and trade, and successful efforts toward truth. The connection is shared principled work and growing inquiry, with success retained as a source possibility rather than a guarantee of correctness. ([Witte](#witte-entry), PDF p. 204; [ABC](#abc-entry), printed p. 323 / PDF p. 160)
 
 ## Links
 

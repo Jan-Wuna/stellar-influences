@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `MC Vulcanus Poseidon`
 - Astronomicon triad-set: `MC § ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [MC/Poseidon = Vulcanus](../activations/mc-poseidon-equals-vulcanus.md)
-- [MC/Vulcanus = Poseidon](../activations/mc-vulcanus-equals-poseidon.md)
-- [Vulcanus/Poseidon = MC](../activations/vulcanus-poseidon-equals-mc.md)
+- [MC/Poseidon = Vulcanus](../activations/mc-poseidon-equals-vulcanus.md): base axis [MC/Poseidon](../axes/mc-poseidon.md); activator [Vulcanus](../factors/vulcanus.md).
+- [MC/Vulcanus = Poseidon](../activations/mc-vulcanus-equals-poseidon.md): base axis [MC/Vulcanus](../axes/mc-vulcanus.md); activator [Poseidon](../factors/poseidon.md).
+- [Vulcanus/Poseidon = MC](../activations/vulcanus-poseidon-equals-mc.md): base axis [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md); activator [MC](../factors/mc.md).
 
 ## Source Coverage
 
-- `MC/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `77`
-- `MC/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `99`
-- `MC/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `76`
-- `MC/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `97`
-- `Vulcanus/Poseidon = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
-- `Vulcanus/Poseidon = MC`: Udo Rudolph - ABC for Planetary Pictures, page `478`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [MC/Poseidon = Vulcanus](../activations/mc-poseidon-equals-vulcanus.md#witte-entry) (PDF entry-start p. 77); [MC/Vulcanus = Poseidon](../activations/mc-vulcanus-equals-poseidon.md#witte-entry) (PDF entry-start p. 76); [Vulcanus/Poseidon = MC](../activations/vulcanus-poseidon-equals-mc.md#witte-entry) (PDF entry-start p. 315).
+- Udo Rudolph - ABC for Planetary Pictures: [MC/Poseidon = Vulcanus](../activations/mc-poseidon-equals-vulcanus.md#abc-entry) (printed p. 99); [MC/Vulcanus = Poseidon](../activations/mc-vulcanus-equals-poseidon.md#abc-entry) (printed p. 97); [Vulcanus/Poseidon = MC](../activations/vulcanus-poseidon-equals-mc.md#abc-entry) (printed p. 478).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Vulcanus`: massively strengthens the axis through comprehensive intellect and forceful understanding.
-- `MC/Vulcanus = Poseidon`: spiritualizes the axis through mental or spiritual power.
-- `Vulcanus/Poseidon = MC`: To be enlightened by a great mind or spirit. Self assurance, Pride. Sense of honor, dignity. To possess a remarkable mental attitude.
+MC, Vulcanus and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [MC/Poseidon](../axes/mc-poseidon.md)
+- [MC/Vulcanus](../axes/mc-vulcanus.md)
+- [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - [MC](../factors/mc.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)

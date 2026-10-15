@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Sun`
 - Astronomicon formula: `R/W = S`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 Divorced woman. The man’s widow. Daily repeating hours of being alone. To be moody or depressed because of general personal or bodily conditions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Mrs. Cine's old man, patient wife of a man, loss of life of the man, personal duties of the woman, personal pain of the woman, problems between woman and man, separation of the man from the woman, and separation of the woman from the man
+An old man's wife, a man's patient wife, disturbances of a man's feelings, a woman's personal tasks, a woman's personal pain, problems between woman and man, separation of the man from the woman, and separation of the woman from the man
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0375`.
 
 #### Ebertin Entry
 
 Self-control, the feeling of selfhood, prevailing mood influences the body constantly. Separation, suffering. The separated wife, the widow.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ How you let your concern for others dominate your life; elaborate inner rituals 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: emotional control and daily self-discipline alongside personal burdens or separation.
+- psychology: mood, defensiveness, small disappointments, and rituals for calming feelings are named.
+- body/health: Ebertin describes mood affecting the body; Sandbach connects sadness with drained vitality.
+- social/relationship: parenting, concern for others, marital separation, and widowhood are source examples.
+- events/manifestations: practical habits, long-range goals, disrupted routines, and daily solitude are stated.
+- conflicts/notes: self-discipline is a capacity; it does not establish steady mood or dependable care in every case.
 
 ## Contradictions
 
-- None recorded yet.
+Goal-directed discipline and emotionally draining sadness can coexist in these entries. Historical marital and gender examples do not define a necessary relationship outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Sun`: mature self-command, dependable care, and the ability to remain steady under emotional pressure. Main caution: burdened identity: selfhood can become too fused with heaviness, caution, or the fear of needing too much.
+In Moon/Saturn = Sun, Sun specifies the pair through the effect of emotional restraint and burden on everyday life. [Sandbach](#sandbach-entry) describes self-discipline and organized habits directed toward long-range goals, while also noting that sadness can drain vitality. [Ebertin](#ebertin-entry) connects prevailing mood with bodily experience; [Munkasey](#munkasey-entry) adds concern for others, parenting, calming rituals, and sensitivity to changes in routine (p. 120).
+
+The [Witte entry](#witte-entry) and [ABC](#abc-entry) retain solitude, personal pain, and separation between woman and man. These historical examples set limits on a purely reassuring reading of self-command; they do not predict widowhood or separation.
 
 ## Links
 

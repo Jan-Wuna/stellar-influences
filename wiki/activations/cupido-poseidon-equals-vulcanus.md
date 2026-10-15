@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Poseidon = Vulcanus`
 - Astronomicon formula: `¡/¨ = §`
 - Axis page: [Cupido/Poseidon](../axes/cupido-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 278; PDF p. 274.
+
 The power of influence through faith or worldview. Power in or through a spiritual, cultural or philosophical group.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+Source: printed p. 437; PDF p. 217, Vulcanus row.
+
 Influence of arts and culture, influential community of ideas, influential community of culture, cognition power of a community, common spiritual energy, common culture power, force of common truth, and reason influence of a community
+
+## Comparative Schema
+
+- Core meaning: Power and influence through shared faith, ideas and culture ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: ABC names shared intellectual or spiritual energy and communal reason.
+- Body/health: No bodily condition is named.
+- Social/relationship: Influential idea/cultural communities and power through a philosophical group are explicit.
+- Events/manifestations: Influence of art/culture, communal power of insight and strength from shared truth are examples.
+- Conflicts/notes: The source states power and influence without specifically describing pressure or ideological domination.
+
+## Contradictions
+
+Both entries describe influence through outlook or community; ABC adds cultural energy, insight and reason. No opposing claim is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Poseidon = Vulcanus`: doctrine and communal ideals becoming instruments of real influence, pressure, or command. Main caution: ideological domination and power justified as higher principle.
+In `Cupido/Poseidon = Vulcanus`, Vulcanus specifies shared outlook through power and influence. Witte names influence through faith or worldview and power within or through spiritual, cultural or philosophical groups ([Witte Entry](#witte-entry)). ABC connects that influence with art, culture, ideas, communal insight and energy, shared truth and reason. The formula's evidence concerns the force of shared thought and culture ([ABC Entry](#abc-entry)).
 
 ## Links
 

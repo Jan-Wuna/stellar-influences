@@ -7,18 +7,24 @@ framework_scope: comparative
 factors: []
 aliases: []
 source_pages: []
-updated_at: 2026-05-06
+updated_at: 2026-10-15
 ---
 
 ## Purpose
 
 Classify vault PDFs that are present in `Stellar Influences Vault/` but not represented by a source catalog page in `wiki/sources/`.
 
+The classifications and cataloged-file list below preserve the `2026-05-06` audit snapshot. They are scope decisions and research provenance, not delineation evidence or a current complete inventory. For interpretation, start with the [Query Guide](../query-guide.md) and canonical pages.
+
 ## Method
 
 - Compared vault PDF filenames against source catalog pages.
 - Read PDF metadata, table of contents where available, and first extracted pages.
 - Classified each uncataloged PDF as `in-scope`, `out-of-scope`, or `future schema needed` for the current wiki model.
+
+## Subsequent Catalog Coverage
+
+[Hajo Banzhaf and Anna Haebler - Keywords for Astrology](../sources/hajo-banzhaf-anna-haebler-keywords-for-astrology.md#scope-notes) now has a source catalog recording a `2026-06-20` ingest of `11` factor keyword sections and `70` unordered aspect/pair sections. It admits no oriented activations and excludes signs, houses, degrees, timing, and general narrative. Its earlier `future schema needed` classification below is retained as historical provenance, not a present claim that the source remains uncataloged. The catalog points to a reference copy outside the vault; this note does not establish byte identity between those PDF copies.
 
 ## Non-Catalog PDF Classifications
 
@@ -41,6 +47,8 @@ Classify vault PDFs that are present in `Stellar Influences Vault/` but not repr
 - `Udo-Rudolph_ABC-fur-Planetenbilder.pdf`
 
 ## Recommendations
+
+These recommendations belong to the original audit. The Banzhaf/Haebler follow-up above records the later admitted scope; it does not authorize additional ingestion from any listed PDF.
 
 - Do not ingest any non-catalog PDF directly into canonical pages yet.
 - If house material becomes a priority, define a house methodology or house keyword page type first.

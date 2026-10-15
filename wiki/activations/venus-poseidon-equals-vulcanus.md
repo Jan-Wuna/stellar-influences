@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Vulcanus Poseidon](../triads/venus-vulcanus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 Power, might, force or influence of a faith or religion or philosophy.
 
@@ -42,13 +46,27 @@ Power, might, force or influence of a faith or religion or philosophy.
 
 #### ABC Entry
 
-Influence of peaceful ideas, immense peace culture, power through true love, artificial and cultural power, love as spiritual energy, love for spiritual power, powerful love for truth, strong spiritual harmony, and spiritual violence in love
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Influence of peaceful ideas, immense peace culture, power through true love, art and cultural power, love as spiritual energy, love for spiritual power, powerful love for truth, strong spiritual harmony, and spiritual force in love
+
+## Comparative Schema
+
+- core meaning: Power and influence carried by belief, love, or culture.
+- psychology: Strong spiritual harmony and love of truth.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Love as spiritual energy and force in love.
+- events/manifestations: The influence of faith or philosophy and peaceful ideas.
+- conflicts/notes: Spiritual force may be a strong expression; the source does not specify a concrete act of violence.
+
+## Contradictions
+
+Peaceful ideas and force are both stated. The entry leaves their practical relation open rather than making power inherently peaceful.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Vulcanus`: power, might, force or influence of a faith or religion or philosophy.
-- Practical expression: influence of peaceful ideas, immense peace culture, power through true love, artificial, and cultural power.
+In `Venus/Poseidon = Vulcanus`, Vulcanus specifies the pair through the strength and influence of faith, philosophy, or cultural ideas. The [Witte entry](#witte-entry) explicitly names their power and force; the [ABC entry](#abc-entry) links peaceful ideas, artistic or cultural power, true love, and strong spiritual harmony. Its final phrase retains force within love, so the peaceful strand should not erase the question of how that influence is exercised.
 
 ## Links
 

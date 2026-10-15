@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter Kronos](../triads/sun-jupiter-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-Ruling through wealth. A good reigning sovereign. Higher officials. The contented famer. A fortune through authorities or lottery.
+Source locator: PDF page 106 (one-based).
+
+Ruling through wealth. A good reigning sovereign. Higher officials. The contented father. A fortune through authorities or lottery.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Authoritat person of law, successful state man, successful authoritat person, person of state finances, personal advantages through self governing, self governing right person, state money center, and center of state law
+Source locator: printed page 149; PDF page 73 (one-based).
+
+An authority in law, a successful statesman, a successful authority figure, a person in state finance, personal advantage through independence, a self-confident legal person, a state money center, and a center for state law.
+
+## Comparative Schema
+
+- core meaning: Benefit or success involving authority, wealth, law or independence.
+- psychology: Self-confidence and contentment are explicit in the source examples.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Sovereigns, higher officials, legal authority and a contented father.
+- events/manifestations: State finance, ruling through wealth and fortune through authorities or lottery.
+- conflicts/notes: Independence and confidence are distinct; the lottery example is a source meaning, not a forecast or strategy.
+
+## Contradictions And Comparison Notes
+
+Both entries involve authority and advantage. ABC adds legal and state-finance institutions and independence; Witte separately retains paternal contentment and lottery fortune.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Jupiter = Kronos`: great happiness and success through superiors.
-- Practical expression: successful state man, person of state finances, and personal advantages through self governing.
+For `Sun/Jupiter = Kronos`, benefit takes an authoritative, legal or state-related form. [Witte](#witte-entry) describes ruling through wealth, successful sovereign or official roles and fortune through authorities; [ABC](#abc-entry) adds legal authority, state finance and advantage through independence. Its self-confident legal person and Witte's contented father show personal forms of assurance as well. Lottery fortune remains a particular source example, rather than a basis for predicting winnings.
 
 ## Links
 

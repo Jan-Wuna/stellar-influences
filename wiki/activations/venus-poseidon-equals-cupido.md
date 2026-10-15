@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Cupido Poseidon](../triads/venus-cupido-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 189 (one-based).
 
 Religious matters within the family. Religious art. Art as a medium of religion. The religious community, confession, church.
 
@@ -42,13 +46,27 @@ Religious matters within the family. Religious art. Art as a medium of religion.
 
 #### ABC Entry
 
-Peace and culture community, common love culture, harmony a spiritual community, clarity in a love community, culture of female principle in the community, artificial and cultural community, and spiritual artificial community
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Peace and culture community, common love culture, harmony of a spiritual community, clarity in a love community, culture of the female principle in the community, art and cultural community, and spiritual art community
+
+## Comparative Schema
+
+- core meaning: Family or community expression of belief, art, and cultural harmony.
+- psychology: Shared love culture and clarity within a loving community.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Family religion, church/confession, and spiritual community.
+- events/manifestations: Religious art and art as a medium of religion.
+- conflicts/notes: ABC's female principle remains source terminology; its art terms do not mean artificiality.
+
+## Contradictions
+
+Family religion, religious art, and wider spiritual or cultural community differ in scale. No direct contradiction is evident in these entries.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Cupido`: religious matters within the family.
-- Practical expression: peace, culture community, common love culture, harmony a spiritual community, and clarity in a love community.
+In `Venus/Poseidon = Cupido`, Cupido specifies the pair through a family or community that gives belief and cultural values a shared form. The [Witte entry](#witte-entry) joins family religious matters and church or confession with art as a medium of religion. The [ABC entry](#abc-entry) extends that collective setting to peace, shared love culture, spiritual harmony, and communities devoted to art. These describe ways people express meaning together; they do not establish one required religion or family arrangement.
 
 ## Links
 

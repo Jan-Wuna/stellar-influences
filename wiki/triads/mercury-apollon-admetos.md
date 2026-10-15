@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Apollon Admetos`
 - Astronomicon triad-set: `T ¥ ¦`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Apollon/Admetos = Mercury](../activations/apollon-admetos-equals-mercury.md)
-- [Mercury/Admetos = Apollon](../activations/mercury-admetos-equals-apollon.md)
-- [Mercury/Apollon = Admetos](../activations/mercury-apollon-equals-admetos.md)
+- [Apollon/Admetos = Mercury](../activations/apollon-admetos-equals-mercury.md): base axis [Apollon/Admetos](../axes/apollon-admetos.md); activator [Mercury](../factors/mercury.md).
+- [Mercury/Admetos = Apollon](../activations/mercury-admetos-equals-apollon.md): base axis [Mercury/Admetos](../axes/mercury-admetos.md); activator [Apollon](../factors/apollon.md).
+- [Mercury/Apollon = Admetos](../activations/mercury-apollon-equals-admetos.md): base axis [Mercury/Apollon](../axes/mercury-apollon.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Apollon/Admetos = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `306`
-- `Apollon/Admetos = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `468`
-- `Mercury/Admetos = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `171`
-- `Mercury/Admetos = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `265`
-- `Mercury/Apollon = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `170`
-- `Mercury/Apollon = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `263`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Apollon/Admetos = Mercury](../activations/apollon-admetos-equals-mercury.md#witte-entry) (PDF entry-start p. 306); [Mercury/Admetos = Apollon](../activations/mercury-admetos-equals-apollon.md#witte-entry) (PDF entry-start p. 171); [Mercury/Apollon = Admetos](../activations/mercury-apollon-equals-admetos.md#witte-entry) (PDF entry-start p. 170).
+- Udo Rudolph - ABC for Planetary Pictures: [Apollon/Admetos = Mercury](../activations/apollon-admetos-equals-mercury.md#abc-entry) (printed p. 468); [Mercury/Admetos = Apollon](../activations/mercury-admetos-equals-apollon.md#abc-entry) (printed p. 265); [Mercury/Apollon = Admetos](../activations/mercury-apollon-equals-admetos.md#abc-entry) (printed p. 263).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Admetos = Mercury`: talking about one's satisfaction and mentally dwelling on settled, sufficient conditions.
-- `Mercury/Admetos = Apollon`: widens the axis only to meet broad refusal and non-acceptance.
-- `Mercury/Apollon = Admetos`: narrows the axis into specialist thought that struggles to be received or understood.
+Mercury, Apollon and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Apollon/Admetos](../axes/apollon-admetos.md)
+- [Mercury/Admetos](../axes/mercury-admetos.md)
+- [Mercury/Apollon](../axes/mercury-apollon.md)
 - [Mercury](../factors/mercury.md)
 - [Apollon](../factors/apollon.md)
 - [Admetos](../factors/admetos.md)

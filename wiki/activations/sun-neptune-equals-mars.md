@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Mars`
 - Astronomicon formula: `S/Y = U`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ Susceptible to venereal diseases. Impotence. Weak in action. To harm oneself thr
 
 #### ABC Entry
 
-Autlasung of personal work, subtle treatment of man, subtle body impulses, intuitive actions of a person, caring activity in the air, personal activities in the water, and weak will of a person
+Source locator: printed page 154 / PDF page 76, Mars glyph under Sonne + Neptun. English translation checked against the complete row; feinstoffliche bodily impulses is retained as a subtle-body term without supplying a mechanism.
+
+Dissolution of personal work, sensitive treatment of the human being, subtle bodily impulses, intuitive actions of a person, physical activity in the air, personal activities in water, and a person's weak will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Weak will to live, weak muscular power, lack of incentive to work, very little s
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Mars entry under Planets activating the Sun/Neptune midpoint. The edition prints “an/or”; retained verbatim.
 
 Taking action to help other people because of high-minded, humanitarian con cern for them. One’s actions rendered ineffective or unfulfilling due to unrealistic goals or an impractical approach to them, or a confusion as to what one’s purpose is. A driv ing urge to realize spiritual an/or high-minded goals.
 
@@ -70,22 +76,21 @@ Attempts to work out anger thru dreaming; empowers your dreams and schemes to ac
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Turning an imaginative or humanitarian aim into action, with possible ineffective effort.
+- psychology: High-minded concern and a wish to realize visions; confusion of purpose or anger can interfere.
+- body/health: Witte and Ebertin make historical sexual-health and muscular-weakness claims; these are not diagnoses.
+- social/relationship: Actions may help others; Munkasey also describes anger at others' actions.
+- events/manifestations: Visualization of change, intuitive action, or work undermined by an impractical goal.
+- conflicts/notes: The motive to act and weakness in execution coexist in the range; ABC's phrase about subtle bodily impulses supplies no further physical mechanism.
 
 ## Contradictions
 
-- None recorded yet.
+- Constructive action and ineffective effort are conditional alternatives in Sandbach. ABC adds dissolution of work, sensitive treatment, physical activity and weak will as distinct examples, without assigning a common cause.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Mars`: humanitarian drive, spiritual struggle, and the urge to realize visions through effort. Main caution: drained force: confusion of purpose, weakened will, or unhealthy desire can make action ineffective, harmful, or physically compromising.
+Mars specifies the Sun/Neptune axis through the effort to act on a vision. Humanitarian concern or intuitive purpose can motivate action, but unclear goals or an impractical approach may prevent the effort from satisfying its aim. [Sandbach Entry](#sandbach-entry) states both possibilities; [Munkasey Entry](#munkasey-entry) adds visualization as a way of activating plans and processing anger. The bodily and sexual claims in [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) remain historical attributions rather than consequences inferred from that psychological pattern.
 
 ## Links
 

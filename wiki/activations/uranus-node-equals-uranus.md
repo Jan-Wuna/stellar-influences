@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Node = Uranus`
 - Astronomicon formula: `X/g = X`
 - Axis page: [Uranus/Node](../axes/uranus-node.md)
@@ -41,22 +43,21 @@ Prompts you to become more introspective about the role that others play in your
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Reflection and creative variation in one's relation to others. ([Munkasey entry](#munkasey-entry).)
+- psychology: Introspection and changing wishes for solitude or company. ([Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical claim is supplied. ([Munkasey entry](#munkasey-entry).)
+- social/relationship: Reconsidering others' roles and one's presentation to them. ([Munkasey entry](#munkasey-entry).)
+- events/manifestations: Alternation between being alone and being with people. ([Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Only Munkasey is represented; variability does not establish a social disorder or permanent isolation. ([Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented; variability does not establish a social disorder or permanent isolation.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Node = Uranus`: Prompts one to become more introspective about the role that others play in one's life; brings an air of creativity to the way one wants to present oneself to others; brings about irregular desires to be either alone or with people.
+Uranus specifies Uranus/Node through reflection on the role other people play in one's life and creative changes in self-presentation. Munkasey links that reflection with irregular wishes for company or solitude. The repeated Uranus emphasizes variability in participation, while the single entry does not establish permanent withdrawal or the ending of a particular bond. ([Munkasey entry](#munkasey-entry).)
 
 ## Links
 

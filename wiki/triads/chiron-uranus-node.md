@@ -19,7 +19,7 @@ orientations:
 aliases: []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,24 +27,36 @@ updated_at: 2026-04-21
 - Triad-set: `Chiron Uranus Node`
 - Astronomicon triad-set: `Chiron X g`
 
+Structural lookup for this unordered factor set. [Read the orientation guidance](#derived-synthesis), then select a formula below.
+
 ## Orientation Map
 
-- [Chiron/Node = Uranus](../activations/chiron-node-equals-uranus.md)
-- [Chiron/Uranus = Node](../activations/chiron-uranus-equals-node.md)
-- [Uranus/Node = Chiron](../activations/uranus-node-equals-chiron.md)
+| Activation | Base axis | Activator |
+| --- | --- | --- |
+| [Chiron/Node = Uranus](../activations/chiron-node-equals-uranus.md) | [Chiron/Node](../axes/chiron-node.md) | [Uranus](../factors/uranus.md) |
+| [Chiron/Uranus = Node](../activations/chiron-uranus-equals-node.md) | [Chiron/Uranus](../axes/chiron-uranus.md) | [Node](../factors/node.md) |
+| [Uranus/Node = Chiron](../activations/uranus-node-equals-chiron.md) | [Uranus/Node](../axes/uranus-node.md) | [Chiron](../factors/chiron.md) |
+
+All three base-axis/activator choices are represented in the linked pages.
 
 ## Source Coverage
 
-- `Chiron/Node = Uranus`: John, page `100`
-- `Chiron/Uranus = Node`: John, page `96`
-- `Uranus/Node = Chiron`: John, page `106`
+The rows below describe the source subentries on the linked activation pages. These retained parser locators have not been checked against page images in this hub review; an entry-start or chapter-start locator is not an exact formula-page confirmation.
+
+| Orientation | Source subentry | Retained locator |
+| --- | --- | --- |
+| `Chiron/Node = Uranus` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-node-equals-uranus.md#sandbach-entry) | retained chapter-start one-based PDF p. 100; exact formula page not established |
+| `Chiron/Uranus = Node` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/chiron-uranus-equals-node.md#sandbach-entry) | retained chapter-start one-based PDF p. 96; exact formula page not established |
+| `Uranus/Node = Chiron` | [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-node-equals-chiron.md#sandbach-entry) | retained chapter-start one-based PDF p. 106; exact formula page not established |
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Node = Uranus`: unconventional connection, startling openings, and freedom in evolutionary process. Main caution: instability or mistaking novelty for depth.
-- `Chiron/Uranus = Node`: liberating connection, belonging through authenticity, and healing of isolation through right company. Main caution: seeking difference for identity's sake rather than for genuine truth.
-- `Uranus/Node = Chiron`: Your vibration helps others to free themselves from the past as well as to see the past in a new way. You also help others to be more open when they connect with others, and to seek connections that fulfill their own unique needs.
+Use this hub to choose the exact orientation for the unordered set `Chiron Uranus Node`. In each formula above, the pair before `=` is the base axis and the factor after it is the activator. Open that activation for its interpretation and attributed source entries; keep the sibling orientations separate.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differing claims between siblings do not by themselves establish a contradiction. Assess any source disagreement within the chosen activation; the coverage map here establishes routes and recorded scope only.
 
 ## Links
 

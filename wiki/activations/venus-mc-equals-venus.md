@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Increased appreciation for the efforts of others, and what they can contribute t
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Appreciation of others' contributions and one's developed inner qualities.
+- Psychology: Recognition of personal strengths and what others add to fulfillment.
+- Body/health: Well-being is broad source language; no medical condition is asserted.
+- Social/relationship: Gratitude for the efforts and support of others.
+- Events/manifestations: Wealth or success accorded to one's position.
+- Conflicts/notes: The repeated-pair entry supplies one source; appreciation and positional success are separate claims.
 
 ## Contradictions
 
-- None recorded yet.
+- The repeated-pair entry supplies one source; appreciation and positional success are separate claims.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Venus`: Increased appreciation for the efforts of others, and what they can contribute to one's well being or fulfillment; appreciation for the inner qualities and strengths one has developed; wealth and success accorded to one's position.
+`Venus/MC = Venus` deepens appreciation of what people contribute to fulfillment. [Munkasey's repeated-pair entry](#munkasey-entry) includes gratitude for others' efforts and recognition of one's own developed qualities and strengths. It also names wealth or success accorded to a position. Inner appreciation and external acknowledgment are related expressions here, with no particular material result determined.
 
 ## Links
 

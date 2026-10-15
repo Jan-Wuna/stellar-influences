@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Node](../axes/venus-node.md)
 - Triad hub: [Venus Node Cupido](../triads/venus-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Nodes + Venus`
+- Source reference: PDF page `142` (one-based).
 
 #### Witte Entry
 
@@ -40,15 +45,30 @@ A love tie that leads to marriage. To enjoy being socially together.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mondknoten + Venus`
+- Source reference: printed page `211`; PDF page `104` (one-based).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+Encounters in a harmonious community, shared joy in contact, shared contacts with art, wishing for a shared connection, harmonious connections with a community, and connection with a peace community.
+
+## Comparative Schema
+
+- Core meaning: Loving contact developed within marriage, social life, or a harmonious community.
+- Psychology: Shared enjoyment of contact and a wish for common connection.
+- Body/health: Neither activation entry supplies a bodily or medical claim.
+- Social/relationship: A love tie leading to marriage and pleasure in being socially together.
+- Events/manifestations: Shared artistic contacts and connections with a peaceful community.
+- Conflicts/notes: Marriage and communal artistic or peace-oriented contact are distinct manifestations.
+
+## Contradictions
+
+- Marriage and communal artistic or peace-oriented contact are distinct manifestations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Node = Cupido`: a love tie that leads to marriage.
-- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
+`Venus/Node = Cupido` gives loving connection a shared social or communal form. [Witte](#witte-entry) names a love tie leading to marriage and enjoyment of being together socially. The [ABC entry](#abc-entry) adds shared joy in contact, artistic connections, and links with a harmonious or peaceful community. The orientation thus joins affection to belonging and shared appreciation, without making marriage the only form that connection can take.
 
 ## Links
 

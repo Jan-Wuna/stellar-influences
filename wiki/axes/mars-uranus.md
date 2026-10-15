@@ -11,6 +11,8 @@ normalized_axis: Mars/Uranus
 factor_a: Mars
 factor_b: Uranus
 related_activations:
+  - Mars/Uranus = Mars
+  - Mars/Uranus = Uranus
   - Mars/Uranus = Admetos
   - Mars/Uranus = Apollon
   - Mars/Uranus = Asc
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/X`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/URANUS`
-- Source page: `231`
+- Source heading: `MARS + URANUS`
+- PDF page: `194`
 
 #### Pair Summary
 
@@ -88,9 +92,15 @@ Sudden event. Exciting action. Energetic act. Fighting. Wounds. Bloody injury. S
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `302`; PDF page: `150` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Work rhythm, eventful actions, new work, nervous actions, sudden action, reform activity, rhythmic impulses, exciting activity, technical work, over surprise actions, and will dynamics
+German pair summary (transcribed from printed page `302`; PDF page `150`):
+
+> Arbeits-Rhythmus, ereignisreiche Handlungen, neue Arbeit, nervöse Handlungen, plötzliches Handeln, Reform-Tätigkeit, rhythmische Impulse, spannende Tätigkeit, technische Arbeit, Überraschungs-Handlungen, Willens-Dynamik
+
+Editorial translation from the German passage: Work rhythm, eventful actions, new work, nervous actions, sudden action, reform activity, rhythmic impulses, exciting activity, technical work, surprising actions, dynamics of the will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -230,14 +240,17 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Sudden effort, independent initiative, and action that changes an established pattern; see the [Pair Summary](#pair-summary) and [Process](#process).
+- psychology: Quick determination, courage, and inventive independence coexist with impatience, tension, contrary behavior, and abrupt anger.
+- body/health: Accidents, injury, surgery, nervous strain, and muscular or energy fluctuations are attributed source associations. Ebertin explicitly states that an operation is only one possibility in [Probable Manifestations](#probable-manifestations).
+- social/relationship: Fighting for freedom, resisting authority, and maintaining individuality can animate action or make cooperation difficult; Munkasey also describes seeking shared excitement.
+- events/manifestations: New or unexpected work, technical and mathematical activity, experimentation, reform, and emergency response are supported. Military modernization and sudden hostilities are Munkasey's institutional examples.
+- conflicts/notes: Speed and independence may support an unusual achievement or a disruptive act. ABC's surprising actions and will dynamics are explicit; historical illness, suicide and longevity claims elsewhere remain source-specific.
 
 ## Related Activations
+
+- [Mars/Uranus = Mars](../activations/mars-uranus-equals-mars.md)
+- [Mars/Uranus = Uranus](../activations/mars-uranus-equals-uranus.md)
 
 - [Mars/Uranus = Admetos](../activations/mars-uranus-equals-admetos.md)
 - [Mars/Uranus = Apollon](../activations/mars-uranus-equals-apollon.md)
@@ -263,15 +276,15 @@ Muscle spasms; rapidly fluctuating energy levels; deafness from exposure to nois
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Inspired or inventive action and erratic or rebellious action are both represented. Ebertin's explicit limitation of the operation association prevents treating a dramatic example as the definition of the pair.
+- ABC's "over surprise actions" remains awkward translation wording.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Uranus` is the axis of explosive initiative, rebellion, sudden force, decisive rupture, and action that insists on freedom. It combines courage, aggression, and kinetic drive with unpredictability, independence, nervous tension, and the urge to break from restraint.
-- Chart expression: daring, quick action, technical or inventive force, radical self-assertion, emergency response, and the power to move fast when something must change immediately. Liabilities: equally clear: accidents, injuries, impulsiveness, combative defiance, volatile anger, overstrain, and action so abrupt that it destabilizes the situation or the body.
+`Mars/Uranus` describes effort released quickly and independently, often into something new. Quick decisions, technical work, reform, and experimentation belong together because they interrupt an established way of acting. The [Pair Summary](#pair-summary), [Falis Entry](#falis-entry), and [Process](#process) connect unexpected action with the search for more freedom and a more individual way of doing things.
+
+The same independence can become contrariness, and the same speed can become an abrupt or disruptive discharge. [Psychological Correspondence](#psychological-correspondence) and [In Your Relationships](#in-your-relationships) retain courage and a desire for excitement alongside tension, impatience, and difficulty accommodating others. Injury and surgery are historical associations, but Ebertin expressly limits the latter to one possibility in [Probable Manifestations](#probable-manifestations). They do not replace the broader account of inventive, rebellious, or sudden action.
 
 ## Links
 

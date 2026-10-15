@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Poseidon](../axes/mc-poseidon.md)
 - Triad hub: [Vernal Point MC Poseidon](../triads/vernal-point-mc-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ Through mental interests being connected to the general world.
 
 #### ABC Entry
 
-Implications of culture in the world, the internal knowledge of world culture, my knowledge of the world, my knowledge of public life, and my truth to the public
+- Source passage: `Meridian + Poseidon`; printed p. `98`; one-based PDF page `48` (complete oriented row checked against the raw scan).
+
+Ensouled culture in public life, the inner nature of world culture, my insights about the world, my idea in public, my culture in public life, my reason in public life, my truth for the public.
+
+## Comparative Schema
+
+- **Core meaning:** World connection through mental interests.
+- **Psychology:** Interest in understanding public life.
+- **Body/health:** No health claim is supplied.
+- **Social/relationship:** Contact with the wider world through culture and ideas.
+- **Events/manifestations:** Cultural participation and public expression of ideas.
+- **Conflicts/notes:** ABC places ensouled culture in public life; this is source vocabulary, without an additional causal claim or promise of prominence.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 98 (entry); [Witte Entry](#witte-entry), PDF p. 77 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC places ensouled culture in public life; this is source vocabulary, without an additional causal claim or promise of prominence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Poseidon = Vernal Point` externalizes the axis through connection to the world by mental interests.
-- Chart expression: a life path visibly linked to ideas, culture, or learning, where the self meets the wider world through shared intellectual concern.
+Vernal Point specifies `MC/Poseidon` through connection with the wider world by mental interests. This is explicit in the [Witte Entry](#witte-entry); the [ABC Entry](#abc-entry) adds knowledge of the world, public life and culture. The focus is participation through ideas and understanding, without implying fame or a publicly visible vocation.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Admetos](../triads/vernal-point-jupiter-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 General rest and quiet. Rich sources of raw materials. Gains from raw materials.
 
@@ -42,13 +46,27 @@ General rest and quiet. Rich sources of raw materials. Gains from raw materials.
 
 #### ABC Entry
 
-Obstacles to success in the public, financial restrictions in the public life, established funds of the general public, grim success in the public life, public money circle, and right underriding in the public
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Restrictions on success in public, financial restrictions in public life, allocated funds of the general public, thorough success in public life, public circulation of money, and suppression of rights in public
+
+## Comparative Schema
+
+- core meaning: Public prosperity considered through restriction, fixed resources, and thorough results.
+- psychology: General rest and quiet are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public funds and suppression of rights concern collective conditions.
+- events/manifestations: Raw-material gains, financial restrictions, and circulation of public money.
+- conflicts/notes: Witte emphasizes quiet and resource gains; ABC also includes financial and legal constraints.
+
+## Contradictions
+
+Gain from resources and restricted public finance are distinct possibilities. The corrected ABC phrase means thorough success, so restriction does not eliminate every successful outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Admetos`: general rest and quiet, rich sources of raw materials, and gains from raw materials.
-- Practical expression: obstacles to success in the public, financial restrictions in the public life, established funds of the general public, grim success in the public life, and public money circle.
+In `Vernal Point/Jupiter = Admetos`, public advantage depends on resources that are fixed, limited, or worked thoroughly. The [Witte entry](#witte-entry) joins general quiet with rich raw materials and gains from them. The restored [ABC entry](#abc-entry) adds allocated public funds and money circulation, but also limits on success, finance, and rights. The picture therefore holds durable material advantage alongside the conditions that constrain its public availability.
 
 ## Links
 

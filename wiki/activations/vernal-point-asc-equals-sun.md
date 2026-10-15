@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Sun`
 - Astronomicon formula: `VP/Asc = S`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -40,15 +42,30 @@ Places and countries with which we become familiar and where we are welcome.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Aszendent`
+- Source reference: printed page `20`; PDF page `9` (one-based).
+
 #### ABC Entry
 
-Other people in public, a day in public place, public place ftir people, local center ftir the public, partner center in public, and personal partners in public
+Other persons in public, a day at a public place, a public place for people, a local center for the public, a partner center in public, and personal partners in public.
+
+## Comparative Schema
+
+- Core meaning: Familiar public places and personal public contacts.
+- Psychology: Feeling welcome is explicit in the Witte entry.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Other people and personal partners in public life.
+- Events/manifestations: A day at a public place and public local centers.
+- Conflicts/notes: ABC names public places and centers; Witte specifically adds familiarity and welcome.
+
+## Contradictions
+
+No direct conflict appears; welcome and familiarity are Witte emphases, while the ABC supplies broader public-place examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Sun`: places and countries with which we become familiar and where we are welcome.
-- Practical expression: other people in public, a day in public place, partner center in public, and personal partners in public.
+Sun specifies `Vernal Point/Asc` through personal presence and contacts in public places. The Witte entry emphasizes becoming familiar with places and being welcome there; the ABC locates people, personal partners, and public centers in that setting. Familiarity is therefore a supported expression, rather than a promise that every public encounter is welcoming. ([Witte entry](#witte-entry), PDF p. 36; [ABC entry](#abc-entry), printed p. 20 / PDF p. 9.)
 
 ## Links
 

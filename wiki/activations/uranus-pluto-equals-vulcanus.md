@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Pluto](../axes/uranus-pluto.md)
 - Triad hub: [Uranus Pluto Vulcanus](../triads/uranus-pluto-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 235 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Explosive change starts suddenly. Mighty jumps ahead.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 373; PDF p. 185.
+
 #### ABC Entry
 
-Development, technical energy transformation, surprising force development Spiritual development impulses, cultural reform develop, new spiritual development, surprising unfolding of truth, change through spiritual impulses, and vegetable re-
+Exciting changes in power, development of technical energies, mighty changes in technology, new strong impulses, sudden change of power, spontaneous unfolding of force or violence, technical transformation of energy, surprising development of strength.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: A sudden powerful leap in development, with changes in power or technical energy.
+- psychology: New strong impulses are stated without a fuller psychological profile.
+- body/health: No bodily condition is supplied.
+- social/relationship: Changes of power and spontaneous force or violence are ABC associations.
+- events/manifestations: Explosive change, technical transformation of energy and surprising development of strength.
+- conflicts/notes: The eight-clause Vulcanus row ends before Poseidon's spiritual-development material.
+
+## Contradictions
+
+The entries share forceful change and development. ABC adds changes in power, technical energies and a spontaneous unfolding of force or violence; its row does not contain the following Poseidon paragraph's spiritual claims. Those boundaries have been restored from printed p. 373 (PDF p. 185).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Pluto = Vulcanus`: Explosive change starts suddenly. Mighty jumps ahead.
-- Practical expression: development, technical energy transformation, surprising force development Spiritual development impulses, cultural reform develop, and new spiritual development.
+In `Uranus/Pluto = Vulcanus`, Vulcanus specifies sudden development through the force and scale of change. [Witte](#witte-entry) gives an explosive onset and mighty leaps ahead. [ABC](#abc-entry) adds shifts in power, technical energies and the development of strength, while also preserving spontaneous force or violence. Technical transformation and power change are supported branches without a necessary violent outcome.
 
 ## Links
 

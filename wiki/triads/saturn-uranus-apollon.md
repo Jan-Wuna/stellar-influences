@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Saturn Uranus Apollon`
 - Astronomicon triad-set: `W X ¥`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Saturn/Apollon = Uranus](../activations/saturn-apollon-equals-uranus.md)
-- [Saturn/Uranus = Apollon](../activations/saturn-uranus-equals-apollon.md)
-- [Uranus/Apollon = Saturn](../activations/uranus-apollon-equals-saturn.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Apollon = Uranus](../activations/saturn-apollon-equals-uranus.md) | [Saturn/Apollon](../axes/saturn-apollon.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Apollon](../activations/saturn-uranus-equals-apollon.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Apollon](../factors/apollon.md) |
+| [Uranus/Apollon = Saturn](../activations/uranus-apollon-equals-saturn.md) | [Uranus/Apollon](../axes/uranus-apollon.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Apollon = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `228`
-- `Saturn/Apollon = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `363`
-- `Saturn/Uranus = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `221`
-- `Saturn/Uranus = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `349`
-- `Uranus/Apollon = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `240`
-- `Uranus/Apollon = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `383`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Saturn/Apollon = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-apollon-equals-uranus.md#witte-entry), one-based PDF entry-start p. `228`.
+- `Saturn/Apollon = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-apollon-equals-uranus.md#abc-entry), printed p. `363`.
+- `Saturn/Uranus = Apollon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-uranus-equals-apollon.md#witte-entry), one-based PDF entry-start p. `221`.
+- `Saturn/Uranus = Apollon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-uranus-equals-apollon.md#abc-entry), printed p. `349`.
+- `Uranus/Apollon = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-apollon-equals-saturn.md#witte-entry), one-based PDF entry-start p. `240`.
+- `Uranus/Apollon = Saturn`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-apollon-equals-saturn.md#abc-entry), printed p. `383`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Apollon = Uranus`: brings sudden originality into the Saturn/Apollon field: one's own method, breaking new ground, isolation, astrological or technical method, and sudden separation of many.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

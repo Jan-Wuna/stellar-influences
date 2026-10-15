@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Zeus](../axes/mc-zeus.md)
 - Triad hub: [MC Zeus Admetos](../triads/mc-zeus-admetos.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To overcome the difficulties of the beginning. Battles against strongest opposit
 
 #### ABC Entry
 
-Effortful psychic deepening, limitation of a fiery soul, consolidation of inner guidance, I shape with perseverance, my beginning depressions, my grilning efforts, and my performance limitations
+- Source passage: `Meridian + Zeus`; printed p. `89`; one-based PDF page `43` (complete oriented row checked against the raw scan).
+
+Strenuous inner deepening, restriction of a fiery soul, consolidation of inner leadership, I shape with perseverance, my beginning depressions, my thorough efforts, my performance limitations.
+
+## Comparative Schema
+
+- **Core meaning:** Persistent effort against opposition.
+- **Psychology:** Perseverance and effortful inner deepening.
+- **Body/health:** ABC's beginning-depression wording is attributed, not a diagnosis.
+- **Social/relationship:** Opposition and the limitation of one's efforts.
+- **Events/manifestations:** Difficult beginnings and restricted performance.
+- **Conflicts/notes:** ABC names thorough efforts (gründlichen Anstrengungen); its depression wording remains attributed rather than a diagnosis.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 89 (entry); [Witte Entry](#witte-entry), PDF p. 72 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. ABC names thorough efforts (gründlichen Anstrengungen); its depression wording remains attributed rather than a diagnosis.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus = Admetos` hardens the axis into beginnings that must fight through the strongest obstruction.
-- Chart expression: creative or vocational effort forced through blockage, resistance, and delay, with progress won only by persistent struggle against heavy opposition.
+Admetos specifies `MC/Zeus` through difficult beginnings and strong opposition in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) adds perseverance, consolidation of inner guidance and limits on performance. The combined emphasis is effort maintained under constraint; overcoming is a source motif, not a promise that every obstacle will be defeated.
 
 ## Links
 

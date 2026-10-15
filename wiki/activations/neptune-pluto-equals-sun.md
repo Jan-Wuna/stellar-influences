@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Pluto = Sun`
 - Astronomicon formula: `Y/Z = S`
 - Axis page: [Neptune/Pluto](../axes/neptune-pluto.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `246` (entry start; one-based).
+
 #### Witte Entry
 
 Unnoticeable changes in the body through changed mode of living or absorption of food. Unnoticeable changes in the body through poisons (alcohol, tobacco, drugs, etc.) or through medicaments, especially homeopathic medicine. To be hidden, to be missing.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `390`, PDF p. `194` (entry).
+
 #### ABC Entry
 
-Exchange personal development, creeping corporal change, insecure personal development, man's change through metaphysics, growing personal expectations, and center for air development
+Pretending personal development, creeping bodily change, uncertain personal development, change of the human being through metaphysics, growing personal expectations, and a center for development in the air
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `281`, entry code `0999`.
 
 #### Ebertin Entry
 
 Sensitive physique, impressionable or prone to external influence, sensitive. Peculiar diseases (consequence of overindulgence in alcohol, nicotine, etc., or from medication), succumbing to strange influences.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `110` (entry; chapter starts on PDF p. `110`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ A person who is highly aware of and conscious of extremely subtle energies, whic
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/PLUTO with Planets and Points`
-- Source page: `328`
+- Source reference: printed p. `328` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Transforming your life to shortcut, alter, or otherwise change normal or existin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: subtle personal or bodily development and attempts to alter patterns of growth.
+- psychology: intense idealism and determination to progress independently are explicit.
+- body/health: Witte and Ebertin discuss bodily changes, substances, medication, and disease; these remain historical claims without individual diagnosis or endorsement of homeopathy.
+- social/relationship: outside influences are stated without a defined relationship pattern.
+- events/manifestations: pretended personal development, growing expectations, and changes of living habits are named.
+- conflicts/notes: Sandbach's subtle-energy explanation is attributed; magnetic intensity and hidden power are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize bodily change and susceptibility. Sandbach adds intense ideals and contrasting effects of subtle energy; Munkasey emphasizes independent attempts to alter growth patterns.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Pluto = Sun`: magnetic intensity, transformative self-expression, and the ability to embody profound inner change. Main caution: identity under fog and compulsion: will can become obscured, ego can attach to hidden power, or vitality can be drained by unseen crises.
+In Neptune/Pluto = Sun, personal development is described through subtle changes and efforts to alter established patterns. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) include historical bodily and substance-related claims; [ABC](#abc-entry) adds uncertain or pretended personal development and growing expectations. [Sandbach](#sandbach-entry) emphasizes intense ideals, while [Munkasey](#munkasey-entry) describes determination to change one's path of growth. These passages do not establish magnetic power or a medical mechanism involving unseen energy.
 
 ## Links
 

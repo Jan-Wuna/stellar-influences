@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Mars/Saturn = Saturn`
 - Astronomicon formula: `U/W = W`
 - Axis page: [Mars/Saturn](../axes/mars-saturn.md)
@@ -41,22 +43,21 @@ Deficiencies in planning due to an incomplete review of plans; a loss of momentu
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Stalled effort compounded by incomplete review or loss of leadership momentum.
+- Psychology: Pressure to finish can displace prudence and caution.
+- Body/health: No specific bodily or medical claim is present.
+- Social/relationship: Bosses or leaders may fail to supply drive while completion pressure continues.
+- Events/manifestations: Planning deficiencies, stalled work, and disregard of caution.
+- Conflicts/notes: This is one Munkasey entry for a repeated-factor formula; repetition adds no independent evidence.
 
 ## Contradictions
 
-- None recorded yet.
+No second source is represented. The entry describes planning failures rather than proving that all caution is obstructive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Saturn = Saturn`: Deficiencies in planning due to an incomplete review of plans; a loss of momentum from a lack of drive by bosses or leaders; prudence and caution disregarded as pressure is brought for completing work which has stalled.
+In Munkasey's single-source `Mars/Saturn = Saturn`, Saturn specifies stalled effort through deficient preparation and weakened leadership momentum. Pressure to complete unfinished work can then lead people to disregard the caution that review requires. The [Munkasey entry](#munkasey-entry) (printed p. 230) supports this particular failure of planning, not a general rule that restraint itself prevents success.
 
 ## Links
 

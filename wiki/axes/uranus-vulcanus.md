@@ -65,6 +65,7 @@ updated_at: 2026-05-04
 - Axis: `Uranus/Vulcanus`
 - Astronomicon axis: `X/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis); each related activation retains a distinct oriented formula.
 
 ## Source Entries
 
@@ -72,13 +73,26 @@ updated_at: 2026-05-04
 
 #### Pair Summary
 
+- PDF page: 242.
+
 Sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great display of strength. Engine power. Electric energies. Electrical high tension. Lightnings. Fires. New kind of energy. Revolutionary forces.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Pair Summary
 
-Exciting forces, dynamic force, influential reform, power renewal, powerful chippings, new energy, influence of technology, sudden violence, stark pulses, technical encroachments, and unrest caused by violence
+- Printed pages: 386–387; PDF page: 192.
+
+Exciting force or violence, dynamic strength, influential reform, renewal of power, mighty tensions, new energy, influence of technology, sudden violence, strong impulse, technical energies, unrest through violence.
+
+## Comparative Schema
+
+- core meaning: the sudden appearance or release of strong forces, mighty tension and new energy ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- psychology: excitement and strong impulses are explicit; the summaries do not establish a permanently aggressive personality.
+- body/health: great strength and tension are named without a particular medical condition or treatment.
+- social/relationship: revolutionary forces, influential reform and renewal of power extend the pair into collective life; no specific intimate pattern is given.
+- events/manifestations: engine power, electrical energy/high tension, lightning, fires and explosions, alongside technological influence and sudden violence ([Witte](#pair-summary), [Udo](#abc-pair-summary)).
+- conflicts/notes: literal technical energy, social power and violence are distinct branches of the wording; one does not make the others inevitable or identify a person's responsibility for an event.
 
 ## Related Activations
 
@@ -106,8 +120,9 @@ Exciting forces, dynamic force, influential reform, power renewal, powerful chip
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis consistently points to sudden appearance of forces. Thunderbolt. Explosion. Mighty tension. Great display of strength. Engine power. Electric energies. Electrical high tension. Llightning. Fires. New kind of energy. Revolutionary forces.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Uranus/Vulcanus` describes a sudden display or release of strong forces: great tension, a strong impulse, or a new source of energy. The [Witte summary](#pair-summary) makes the technical and physical range explicit through engine power, electrical energy and high tension, lightning, fires and explosions. [Udo](#abc-pair-summary) also names dynamic strength, technical energies and the influence of technology, so this pair cannot be reduced to interpersonal aggression.
+
+The same summaries extend into power and collective change through revolutionary forces, influential reform and renewal of power. Udo also includes sudden violence and unrest through violence. These severe expressions remain alongside technical energy and strength, without establishing a fixed temperament, an inevitable violent event or responsibility for it. The short entries supply no particular illness or relationship pattern; closing-factor meanings require their own oriented activation pages.
 
 ## Links
 

@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Uranus MC](../triads/venus-uranus-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Sudden affection. To be inflamed with affection. Amateur. A favored pursuit.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `71`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-I love the rhythm, my love experiences, my harmonious impulses, my frcude at the rhythm, my joyful arousal, my new love, sudden Scelcn Harmonic, emotional restlessness through love, my love for Tcchnik, and my fondness for Neucs
+I love rhythm, my experiences in love, my harmonious impulses, my joy in rhythm, my joyful excitement, my new love, sudden harmony of the soul, emotional unrest through love, my love of technology, and my preference for novelty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0681`.
 
 #### Ebertin Entry
 
 Amorous excitability, sudden attachments without duration, inconstancy. A deep attachment which is expressed quite suddenly.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Using automated or mechanical means to create beauty, music, or artistic forms; 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sudden affection and an individual expression of love or artistic values.
+- Psychology: Excitability, emotional unrest, individual insight, or difficulty expressing romantic feeling.
+- Body/health: The entries supply no specific bodily or medical claim.
+- Social/relationship: Abrupt attachment, inconstancy, or deep affection expressed suddenly.
+- Events/manifestations: Rhythm, technology, mechanical creation of beauty, and new artistic or musical methods.
+- Conflicts/notes: Ebertin's short-lived attachment and sudden deep attachment are alternatives; originality can coexist with disruption.
 
 ## Contradictions
 
-- None recorded yet.
+- Ebertin's short-lived attachment and sudden deep attachment are alternatives; originality can coexist with disruption.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Uranus`: progressive taste, exciting public appeal, and outer opportunities that arrive through novelty and liberated value expression. Main caution: unstable reputation: change and charm can become erratic, making direction vivid but inconsistent.
+`Venus/MC = Uranus` makes affection sudden and gives values an individual form. [Witte](#witte-entry) names abrupt affection and favored pursuits; [Ebertin](#ebertin-entry) allows both inconstant attachment and deep affection expressed unexpectedly. The [ABC entry](#abc-entry) adds rhythm, technology, novelty, and emotional unrest. [Sandbach](#sandbach-entry) emphasizes a unique perception of spiritual values, while [Munkasey](#munkasey-entry) includes mechanical or new artistic methods alongside disrupted love and difficulty expressing feeling. Originality and awakening thus remain connected to, but distinct from, instability.
 
 ## Links
 

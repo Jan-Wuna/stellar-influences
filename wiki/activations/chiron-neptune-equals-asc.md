@@ -19,7 +19,7 @@ aliases:
   []
 source_pages:
   - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/Neptune](../axes/chiron-neptune.md)
 - Triad hub: [Chiron Neptune Asc](../triads/chiron-neptune-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,21 @@ updated_at: 2026-04-21
 
 A personality that emanates a subtle healing force. The ability to induce others to have a deeper awareness of their own identity.
 
+Source locator: one-based PDF page 98, exact activation paragraph; PDF page 97 is the chapter start. Checked against the actual PDF.
+
+## Comparative Schema
+
+- **Core meaning:** A personality described as radiating subtle healing and deepening others' awareness of identity.
+- **Psychology:** The stated awareness concerns other people's own identity.
+- **Body/health:** Subtle healing force is Sandbach's broad term; no bodily diagnosis or treatment is specified.
+- **Social/relationship:** One's personality influences others toward deeper self-awareness.
+- **Events/manifestations:** Emanating a subtle healing force and inducing identity awareness are the two stated expressions.
+- **Conflicts/notes:** The paragraph supplies no mechanism, confusion-healing clause, or self-sacrifice warning.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Neptune = Asc`: quiet therapeutic presence, intuitive identity, and a way of simply being that softens confusion and calls others back to themselves. Main caution: over-porosity or turning subtle influence into self-sacrifice.
+`Chiron/Neptune = Asc` describes a personality whose influence Sandbach calls subtly healing. Its specific interpersonal expression is an ability to help others become more deeply aware of their own identity. The entry leaves the mechanism and practical form of that influence unspecified. ([Sandbach Entry](#sandbach-entry))
 
 ## Links
 

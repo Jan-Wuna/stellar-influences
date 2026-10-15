@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Sun Venus Neptune](../triads/sun-venus-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Timid in love. Silent admirer. Indifferent in love.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Secret corporal love, man's love feeling, man's love weakness, harmony center on the water, personal love exchange, future of personVinches, unclear wishes of a man, and man's preference for water
+Secret bodily love, the man's sensitivity in love, the man's weakness in love, a center of harmony by the water, personal disappointment in love, personal future wishes, unclear wishes of a man, and the man's preference for water.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0627`.
 
 #### Ebertin Entry
 
 A romantic and reveling disposition, erotic imagination, a small sense of reality. Longing, lovesick, a secret love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `61` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Presenting your innate beauty in more effective, if subtle, ways; prestige from 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal vitality invested in romantic ideals, refined beauty, or hidden affection.
+- Psychology: Timidity, silent admiration, imagination, and values that energize goals.
+- Body/health: Sandbach's vitality through beauty is a subjective source description, not a medical effect.
+- Social/relationship: Secret love, longing, indifference, or giving to a loved person.
+- Events/manifestations: Artistic or film-related prestige, refined surroundings, and mystical or illusion-related influence.
+- Conflicts/notes: Sandbach's vitalized giving and goals remain alongside Witte's reticence and Ebertin's weak sense of reality.
 
 ## Contradictions
 
-- None recorded yet.
+- Sandbach's vitalized giving and goals remain alongside Witte's reticence and Ebertin's weak sense of reality.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Sun`: luminous charm, creative selfhood, and the capacity to inspire affection or sympathy through presence. Main caution: identity through fantasy: self-image can become overly idealized, passive, or dependent on emotional mirroring.
+`Venus/Neptune = Sun` makes romantic ideals or refined beauty personally important. [Sandbach](#sandbach-entry) describes being vitalized by loving, beautiful surroundings, and art, with ideals providing energy for goals. [Witte](#witte-entry) emphasizes timidity, silent admiration, or indifference; [Ebertin](#ebertin-entry) adds longing and imagination with a limited sense of reality. The [ABC entry](#abc-entry) includes secret bodily love and personal disappointment. [Munkasey](#munkasey-entry) adds subtle presentation and prestige through film or art, alongside confusion. Inspiration and reticent or disappointed affection are thus separate supported expressions.
 
 ## Links
 

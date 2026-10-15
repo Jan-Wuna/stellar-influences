@@ -28,27 +28,38 @@ updated_at: 2026-05-04
 - Triad-set: `Sun Moon Zeus`
 - Astronomicon triad-set: `S R £`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md)
-- [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md)
-- [Sun/Zeus = Moon](../activations/sun-zeus-equals-moon.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Moon/Zeus = Sun](../activations/moon-zeus-equals-sun.md) | [Moon/Zeus](../axes/moon-zeus.md) | [Sun](../factors/sun.md) |
+| [Sun/Moon = Zeus](../activations/sun-moon-equals-zeus.md) | [Sun/Moon](../axes/sun-moon.md) | [Zeus](../factors/zeus.md) |
+| [Sun/Zeus = Moon](../activations/sun-zeus-equals-moon.md) | [Sun/Zeus](../axes/sun-zeus.md) | [Moon](../factors/moon.md) |
 
 ## Source Coverage
 
-- `Moon/Zeus = Sun`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `132`
-- `Moon/Zeus = Sun`: Udo Rudolph - ABC for Planetary Pictures, page `196`
-- `Sun/Moon = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `101`
-- `Sun/Moon = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `139`
-- `Sun/Zeus = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `113`
-- `Sun/Zeus = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `162`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Moon/Zeus = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/moon-zeus-equals-sun.md#witte-entry), one-based PDF entry-start p. `132`.
+- `Moon/Zeus = Sun`: [Udo Rudolph - ABC for Planetary Pictures](../activations/moon-zeus-equals-sun.md#abc-entry), printed p. `196`.
+- `Sun/Moon = Zeus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-moon-equals-zeus.md#witte-entry), one-based PDF entry-start p. `101`.
+- `Sun/Moon = Zeus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-moon-equals-zeus.md#abc-entry), printed p. `139`.
+- `Sun/Zeus = Moon`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-zeus-equals-moon.md#witte-entry), one-based PDF entry-start p. `113`.
+- `Sun/Zeus = Moon`: [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-zeus-equals-moon.md#abc-entry), printed p. `162`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Zeus = Sun`: To master ones body. A sense for discipline and order. The daily repeated working hours. Wanting to assist. Energetic interference. Easily inflammable substance. The hour of the commencement of a fire.
-- `Sun/Moon = Zeus`: This formula emphasizes creative vitality and a strong drive to act.
-- `Sun/Zeus = Moon`: This formula emphasizes creative vitality and a strong drive to act.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

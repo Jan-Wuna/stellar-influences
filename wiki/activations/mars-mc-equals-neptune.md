@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars Neptune MC](../triads/mars-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 A fraudulent action. Inability to assert oneself. Outnumbered. To destroy something. Weakness of will. Working for the future.
 
@@ -45,17 +49,23 @@ A fraudulent action. Inability to assert oneself. Outnumbered. To destroy someth
 
 #### ABC Entry
 
-I work in the air, my work with water, mcinc BcmUhungen um metaphysics, my action weakness, my will is weak, mcinc tooKick work, metaphysical soul impulses Surfed development work, development of my work, I want to develop, and mcinc BemU-
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+Soulful sensitive action, I work in the air, my work with water, my efforts toward metaphysics, my weakness in action, my will is weak, my future work, and metaphysical soul impulses.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Medium Coeli,” printed p. 223, entry 0778.
 
 A person who is incapable of independence or gaining recognition, a lack of power to succeed in life. Making the wrong arrangements, failures.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source: “Planets activating the Mars/Midheaven midpoint,” PDF pp. 77–78.
 
 To allow one’s intuition to guide one’s actions so that spiritual forces are channeled through one into physical reality. To feel an obligation to do things to change the world. To be ineffective at asserting oneself in the world.
 
@@ -70,22 +80,21 @@ Realizing that life is more than what appears in the physical world; an inner ne
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Difficulty asserting or establishing oneself alongside intuitive or spiritual action.
+- psychology: Weak will or ineffective arrangements in some entries; intuition and religious understanding in others.
+- body/health: No specific medical effect is stated.
+- social/relationship: Difficulty gaining recognition or asserting independence.
+- events/manifestations: Failed arrangements, future work, work in air or with water, and spiritually guided activity are distinct examples; Witte also names fraud.
+- conflicts/notes: Spiritual or sensitive action and weak assertion coexist in the entries; neither establishes fraudulent intent in every case.
 
 ## Contradictions
 
-- None recorded yet.
+Spiritual guidance and ineffective assertion are held together explicitly by Sandbach. Ebertin emphasizes failure, whereas ABC and Witte also include future work; these differences prevent a uniformly unsuccessful reading.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/MC = Neptune`: idealistic striving, subtle influence, and the wish to act for something larger than personal gain. Main caution: ineffectiveness: unclear motives, weak will, or bad arrangements can turn aspiration into failure, confusion, or loss of standing.
+In `Mars/MC = Neptune`, Neptune specifies personal action through a tension between sensitive or spiritual purpose and difficulty making an effective assertion in the world. Sandbach explicitly holds intuitive action and ineffectiveness together; Ebertin stresses failed arrangements and inability to gain recognition, while Munkasey describes religious understanding and ideals that can go astray. ([Sandbach](#sandbach-entry), PDF pp. 77–78; [Ebertin](#ebertin-entry), printed p. 223, entry 0778; [Munkasey](#munkasey-entry), printed p. 252) ABC adds sensitive action, metaphysical efforts, and work in air or with water. Its future work overlaps Witte's future orientation, while Witte's fraudulent action remains a separate possibility rather than an inevitable motive. ([Witte](#witte-entry), PDF p. 64; [ABC](#abc-entry), printed p. 73 / PDF p. 35)
 
 ## Links
 

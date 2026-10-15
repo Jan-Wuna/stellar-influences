@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Admetos](../axes/sun-admetos.md)
 - Triad hub: [Vernal Point Sun Admetos](../triads/vernal-point-sun-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 120; PDF page 116 (one-based).
 
 Inflexible perseverance. To be negative or rejecting. Conservative attitude. Ground, soil.
 
@@ -42,12 +46,27 @@ Inflexible perseverance. To be negative or rejecting. Conservative attitude. Gro
 
 #### ABC Entry
 
-• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
+Source locator: printed page 168; PDF page 83 (one-based).
+
+Depressed people in public, physical endurance in public, personal restriction in public, personal resistance in public, and oppressed people in public.
+
+## Comparative Schema
+
+- core meaning: Public endurance, resistance or restriction, with inflexible perseverance in Witte.
+- psychology: Rejection or a conservative attitude; ABC's depressed people remain attributed examples.
+- body/health: Physical endurance is named without a specific bodily disorder.
+- social/relationship: Publicly restricted or oppressed people.
+- events/manifestations: Personal resistance in public; Witte also names ground and soil.
+- conflicts/notes: Endurance, rejection and oppression are distinct conditions; no room or house is specified.
+
+## Contradictions And Comparison Notes
+
+Witte's inflexible perseverance overlaps ABC's endurance and resistance. ABC's imposed restrictions and oppression should remain distinct from a person's rejecting attitude.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Admetos = Vernal Point`: to be stuck fast in a room or house and to live under difficult circumstances.
+For `Sun/Admetos = Vernal Point`, firmness or restriction has a public expression. [ABC](#abc-entry) describes endurance and personal resistance in public alongside restricted, oppressed or depressed people. [Witte](#witte-entry) adds inflexible perseverance, rejection and a conservative attitude, with ground and soil as literal examples. The entries distinguish a person's firm stance from limits imposed upon them; they do not identify a particular room or house.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Node = Moon`
 - Astronomicon formula: `V/g = R`
 - Axis page: [Jupiter/Node](../axes/jupiter-node.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF page 144, Nodes/Jupiter section, Moon row; complete row and neighbors checked.
+
 Fortunate union with a woman, or for women. Woman who is connected to money affairs, or who has relationships in the field of money or justice.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Relationship with a woman with money, successful people connection, joy in felicitous connection, happiness feelings connection, happy woman in a union, G !UcksFellow in connections, and legal obligations of a people
+- Source reference: printed page 214; one-based PDF page 106, Mondknoten/Jupiter section, Moon row; complete German wording checked.
+
+Relationship with a woman with money, successful connection between peoples, joy in a heartfelt connection, a happy emotional bond, a happy woman in a connection, a feeling of happiness in connections, and the legal obligations of a people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source reference: printed page 238, Jupiter/Dragon's Head, coded entry 0832; retained printed coded-entry locator.
 
 Attaching great importance to spiritual relationships, changing relationships. A happy union with a woman.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF page 84, Jupiter/Node Moon entry; exact paragraph checked.
 
 The emotional need to be accepted and approved of by others. Encouraging and supportive connections with others creates emotional security.
 
@@ -66,26 +76,27 @@ The emotional need to be accepted and approved of by others. Encouraging and sup
 
 #### Munkasey Entry
 
+- Source reference: printed source page 272, Jupiter/Node with Planets and Points; retained printed locator, not a newly verified PDF page.
+
 Important women who help you; increased uncertainty to feelings about contacts with or seeking help from others; an increased ability to read the intentions or motives of others; respect from the common people in life.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional security and fortunate unions, especially women in the historical examples.
+- psychology: Need for acceptance and approval in Sandbach; importance of spiritual relationships in Ebertin.
+- body/health: No bodily condition is stated.
+- social/relationship: Supportive ties, helpful women, changing relationships and uncertainty about seeking help.
+- events/manifestations: Contacts involving money or justice, connections between peoples and legal obligations.
+- conflicts/notes: The need for approval does not establish that approval causes mood changes; Munkasey also names uncertainty about contacts or help.
 
 ## Contradictions
 
-- None recorded yet.
+Supportive connections can create security in Sandbach, while Munkasey adds uncertainty about contact or asking for help and Ebertin allows changing relationships. These qualifications remain beside the favorable union examples.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Node = Moon`: warm acceptance, fortunate unions, and a strong emotional need to feel included, encouraged, and spiritually or personally connected. Main caution: relying too much on social approval for security, which can make relationships or moods more changeable than they first appear.
+In `Jupiter/Node = Moon`, the [source entries](#source-entries) make connection emotionally important: acceptance, support and a sense of belonging can provide security. Witte and Ebertin give happy unions involving women; ABC adds heartfelt bonds, financial ties and connections between peoples. Munkasey includes both helpful women and uncertainty about seeking contact or help. The orientation therefore joins emotional support with a need to understand the changing or uncertain aspects of relationships, without inventing a causal chain from approval to unstable moods.
 
 ## Links
 

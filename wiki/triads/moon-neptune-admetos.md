@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Neptune Admetos`
 - Astronomicon triad-set: `R Y ¦`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Moon/Admetos = Neptune](../activations/moon-admetos-equals-neptune.md)
-- [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md)
-- [Neptune/Admetos = Moon](../activations/neptune-admetos-equals-moon.md)
+- [Moon/Admetos = Neptune](../activations/moon-admetos-equals-neptune.md): base axis [Moon/Admetos](../axes/moon-admetos.md); activator [Neptune](../factors/neptune.md).
+- [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md): base axis [Moon/Neptune](../axes/moon-neptune.md); activator [Admetos](../factors/admetos.md).
+- [Neptune/Admetos = Moon](../activations/neptune-admetos-equals-moon.md): base axis [Neptune/Admetos](../axes/neptune-admetos.md); activator [Moon](../factors/moon.md).
 
 ## Source Coverage
 
-- `Moon/Admetos = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `135`
-- `Moon/Admetos = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `203`
-- `Moon/Neptune = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `128`
-- `Moon/Neptune = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `189`
-- `Neptune/Admetos = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `252`
-- `Neptune/Admetos = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `402`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Moon/Admetos = Neptune](../activations/moon-admetos-equals-neptune.md#witte-entry) (PDF entry-start p. 135); [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md#witte-entry) (PDF entry-start p. 128); [Neptune/Admetos = Moon](../activations/neptune-admetos-equals-moon.md#witte-entry) (PDF entry-start p. 252).
+- Udo Rudolph - ABC for Planetary Pictures: [Moon/Admetos = Neptune](../activations/moon-admetos-equals-neptune.md#abc-entry) (printed p. 203); [Moon/Neptune = Admetos](../activations/moon-neptune-equals-admetos.md#abc-entry) (printed p. 189); [Neptune/Admetos = Moon](../activations/neptune-admetos-equals-moon.md#abc-entry) (printed p. 402).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Neptune`: Nation facing destruction and misfortune. Uncertain and black future. Hour of desperation. Deceived by the personal conditions. Deluded.
-- `Moon/Neptune = Admetos`: This activation constricts `Moon/Neptune` into poor rest, brief retreat, and insufficient emotional recovery. It often shows the dream-sleep-imagination field compressed or interrupted, so sensitivity remains active while actual restoration is reduced.
-- `Neptune/Admetos = Moon`: This activation collectivizes `Neptune/Admetos` by making whole groups, publics, or women experience altered conditions of life. It shifts the axis from abstract deprivation or freezing into something socially felt, shared, and emotionally inhabited.
+Moon, Neptune and Admetos form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Moon/Admetos](../axes/moon-admetos.md)
+- [Moon/Neptune](../axes/moon-neptune.md)
+- [Neptune/Admetos](../axes/neptune-admetos.md)
 - [Moon](../factors/moon.md)
 - [Neptune](../factors/neptune.md)
 - [Admetos](../factors/admetos.md)

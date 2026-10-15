@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Asc/Hades = Mercury`
 - Astronomicon formula: `Asc/¢ = T`
 - Axis page: [Asc/Hades](../axes/asc-hades.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 92, entry start (parser evidence).
+
 To speak about evil things. To plot mean acts with others. To receive bad news.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Disadvantaged youth in the field, reports on environmental hazards, thoughts on past environment, talk about environmental pollution, youth crime in the environment, talk about partner deficiency, and hidden thoughts of the partner
+Disadvantaging young people locally, reports about environmental dangers, thoughts of past surroundings, conversations about environmental pollution, youth crime in the surroundings, speaking about lack of a partner, and hidden thoughts of the partner.
+
+Translation repaired against the German Mercury row, printed p. 124, one-based PDF p. 61; wording and row boundaries verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Speech, news, and thought concern adverse surroundings or harmful dealings.
+- **Psychology:** Thoughts of former surroundings and a partner's hidden thoughts appear in ABC; cynicism is not asserted.
+- **Body/health:** Reports of environmental hazards do not establish an illness.
+- **Social/relationship:** Witte includes plotting harmful acts with others; ABC adds talk about a missing partner and disadvantaged local youth.
+- **Events/manifestations:** Bad news, discussions of pollution, reports of dangers, and local youth crime are explicit examples.
+- **Conflicts/notes:** Reporting harm and planning it are different roles; neither establishes a fixed character judgment.
+
+## Contradictions
+
+No direct contradiction appears. Discussion and reporting can concern wrongdoing without being participation in it; Witte separately names plotting harmful acts.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Mercury`: harsh reports, low conversation, and a local mental field occupied by unpleasant content. Main caution: mental contamination: repeated contact with degraded speech or news can normalize cynicism, suspicion, or petty malice.
+In `Asc/Hades = Mercury`, Mercury specifies the Asc/Hades axis through communication about difficult surroundings. Bad news, reports of environmental dangers, and conversations about pollution put adverse conditions into words. Witte also names planning harmful acts with others, while ABC includes disadvantaged local youth, memories of earlier surroundings, and talk about a missing partner. Communicating about harm and participating in it remain distinct possibilities. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 124.)
 
 ## Links
 

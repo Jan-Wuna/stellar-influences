@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Apollon](../axes/uranus-apollon.md)
 - Triad hub: [Uranus Apollon Vulcanus](../triads/uranus-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 240.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Mighty tension and tenseness. Greatest success in astrology. Great spread of an 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 383; PDF p. 190.
+
 #### ABC Entry
 
 Influential knowledge renewal, influential impulses of science, successful power of technology, power through new knowledge, powerful tension expansion, sudden violence proliferation, technical energy science, and surprising power success
 
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: A powerful spread of innovation, knowledge or technical influence.
+- psychology: Mighty tension and tenseness.
+- body/health: No specific bodily condition is supplied.
+- social/relationship: Scientific influence and the spread of force or violence are ABC associations.
+- events/manifestations: Astrological success, energy science and technical power.
+- conflicts/notes: The intensity of expansion does not establish either truth or an inevitable violent outcome.
+
+## Contradictions
+
+Witte combines mighty tension with success and the spread of innovation. ABC adds technical power and energy science but also the spread of violence. These are distinct expressions; the source does not make every innovation violent.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Apollon = Vulcanus`: Mighty tension and tenseness. Greatest success in astrology. Great spread of an innovation.
-- Practical expression: influential knowledge renewal, influential impulses of science, successful power of technology, power through new knowledge, and powerful tension expansion.
+In `Uranus/Apollon = Vulcanus`, Vulcanus specifies expansion through strong influence and a wide spread of innovation. [Witte](#witte-entry) joins this with mighty tension and astrological success. [ABC](#abc-entry) adds influential knowledge, scientific impulses, technical power and energy science, while also naming violence spreading suddenly. Intensity and technical achievement remain visible beside that severe possibility.
 
 ## Links
 

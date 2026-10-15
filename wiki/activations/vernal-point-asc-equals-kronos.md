@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Asc = Kronos`
 - Astronomicon formula: `VP/Asc = ¤`
 - Axis page: [Vernal Point/Asc](../axes/vernal-point-asc.md)
@@ -40,15 +42,30 @@ To plan something important with others. Metropolitan areas. Capitals with gover
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Aszendent`
+- Source reference: printed page `21`; PDF page `9` (one-based).
+
 #### ABC Entry
 
-Appointed Public partner, Authoritate of a Public Place, Special Public partner Life, Large Public Place, Self Benefited Public partner, and State Place
+A respected partner in public, authority of a place in public, special partners in public life, a large public place, an independent partner in public, and a state place for the public.
+
+## Comparative Schema
+
+- Core meaning: Important public partners, places, and undertakings.
+- Psychology: Planning something important with others.
+- Body/health: No bodily condition is specified.
+- Social/relationship: The German ABC passage names respected, special, or independent partners.
+- Events/manifestations: Metropolitan areas, government capitals, elevated places, and public authority.
+- Conflicts/notes: ABC distinguishes respected, special, and independent partners; the state-place example does not make every contact governmental.
+
+## Contradictions
+
+The entries do not directly conflict. Witte emphasizes important undertakings and prominent places; ABC also distinguishes forms of public partnership.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Asc = Kronos`: to plan something important with others, metropolitan areas, capitals with governments, and highly situated places.
-- Practical expression: appointed Public partner, special Public partner Life, large Public Place, and self Benefited Public partner.
+Kronos specifies `Vernal Point/Asc` through public contacts or locations marked by importance, authority, or prominence. The [Witte entry](#witte-entry) places planning an important undertaking with others beside government capitals and metropolitan or elevated places. The [ABC entry](#abc-entry) adds respected, special, or independent partners and authority of a public place. These connect the public setting with recognized standing, without making every partner a state official.
 
 ## Links
 

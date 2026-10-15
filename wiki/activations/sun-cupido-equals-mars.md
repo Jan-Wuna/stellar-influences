@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Cupido = Mars`
 - Astronomicon formula: `S/¡ = U`
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
@@ -34,21 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: 111.
+
 #### Witte Entry
 
-Marriage bond. To celebrate one’s wedding. Nuptial night. The man active as an fol artist. Commerce or trade unions.
+Marriage bond. To celebrate one’s wedding. Nuptial night. The native as an artist. Commerce or trade unions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source page: 158 (printed); PDF page: 78.
+
 #### ABC Entry
 
-Actions of a person community, joint corporal activities, corporal work in the community, man community, artistic activity of a man, day of community work, and center of a work community
+Actions of a community of persons, joint physical activities, physical work in the community, a male action community, artistic activity of a man, a day of community work, and the center of a work community.
+
+## Comparative Schema
+
+- Core meaning: Active participation in marriage, work or art.
+- Psychology: Personal effort expressed through shared activity.
+- Body/health: Joint physical activity and physical work.
+- Social/relationship: Wedding celebration, work groups and trade unions.
+- Events/manifestations: A wedding or collaborative work gives communal membership practical form.
+- Conflicts/notes: Nuptial and gendered examples are retained as source language.
+
+## Contradictions
+
+Witte's wedding and trade-union examples complement ABC's shared physical work.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Mars`: family activities and active in a family or community.
-- Practical expression: actions of a person community, joint corporal activities, corporal work in the community, man community, and artistic activity of a man.
+Mars specifies Sun/Cupido through taking part in a community's activity. Wedding celebration and the nuptial bond place this action in marriage; artistic work, shared physical effort and trade unions place it in organized cooperation. What unifies the examples is membership enacted through work or a concrete shared undertaking, rather than membership alone. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

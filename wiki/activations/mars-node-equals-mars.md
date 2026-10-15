@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Mars/Node = Mars`
 - Astronomicon formula: `U/g = U`
 - Axis page: [Mars/Node](../axes/mars-node.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `MARS/NODE With Itself`
-- Source page: `246`
+- Source page (printed): `246`
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Gathering with friends in loud and noisy celebrations; adds further impulses for
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Energetic association and competitive self-expression.
+- psychology: An impulse to meet others and demonstrate ability.
+- body/health: No distinct health claim is stated.
+- social/relationship: Friends, new contacts and partners in fulfilling work.
+- events/manifestations: Noisy celebrations and competitive activities.
+- conflicts/notes: This is a single With Itself entry, with no independent comparison.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source entry is present, so no inter-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Node = Mars`: Gathering with friends in loud and noisy celebrations; adds further impulses for one to meet new people or to work with others who can help one find fulfillment; competitive activities which help one show one's abilities.
+In `Mars/Node = Mars`, Mars specifies the Mars/Node axis as an active urge to join others and show what one can do. Loud celebrations with friends, new working contacts and competition are different settings for the same outgoing effort toward connection and fulfillment. [Munkasey](#munkasey-entry), printed p. 246.
 
 ## Links
 

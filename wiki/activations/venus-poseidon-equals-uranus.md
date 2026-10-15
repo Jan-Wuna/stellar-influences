@@ -30,25 +30,43 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Poseidon](../axes/venus-poseidon.md)
 - Triad hub: [Venus Uranus Poseidon](../triads/venus-uranus-poseidon.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
-<•> To arrive suddenly at a closer understanding of faith, religion or one’s view. Surprises and excitements in religious matters.
+- PDF page: 189 (one-based).
+
+To arrive suddenly at a closer understanding of faith, religion or one’s view. Surprises and excitements in religious matters.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Spiritual harmony impulses, artistic and cultural events, cultural peace pulses, new peace ideas, tension through love of the truth, surprising joy through clarity, preference for new ideas, and preference for poor technology
+- Source page: 297; PDF page: 147 (one-based spread).
+
+Spiritual harmony impulses, art and cultural events, cultural peace impulses, new peace ideas, tension through love of truth, surprising joy through clarity, preference for new ideas, and preference for reasonable technology
+
+## Comparative Schema
+
+- core meaning: Sudden understanding and new impulses in belief, art, or peace.
+- psychology: Surprise, excitement, and tension through love of truth.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: No specific relationship outcome is supplied.
+- events/manifestations: Cultural events, new peace ideas, and surprising clarity.
+- conflicts/notes: Reasonable technology does not mean poor technology; sudden understanding does not certify a belief's truth.
+
+## Contradictions
+
+Surprising joy and tension coexist as different responses; neither cancels the other.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Poseidon = Uranus` brings sudden awakening into love, harmony, faith, and worldview: a closer understanding of religion or one's view can arrive abruptly, with surprises or excitement in spiritual matters.
-- Practical expression: spiritual harmony impulses, artistic or cultural events, new peace ideas, tension through love of truth, surprising joy through clarity, and preference for new ideas.
+In `Venus/Poseidon = Uranus`, Uranus specifies the pair through sudden understanding and new cultural or spiritual impulses. The [Witte entry](#witte-entry) describes abrupt insight into faith or worldview and excitement in religious matters. The [ABC entry](#abc-entry) adds cultural events, new peace ideas, tension through love of truth, and surprising joy through clarity. Its technology phrase concerns reasonableness, not low quality.
 
 ## Links
 

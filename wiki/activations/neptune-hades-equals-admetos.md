@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Admetos`
 - Astronomicon formula: `Y/¢ = ¦`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Ailments caused by cold and dampness. Death through cold and starvation. The water in the ground, subterranean springs, wells, water sources. Snow and ice.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `395`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Depression due to weakness from the past, limitation of air pollution, danger in deep water, dangerous air restriction, disadvantage in case of loss of a rigid, harmful water circulation, and safety due to performance deficiency
+Depressions because of weaknesses from the past, restriction of air pollution, danger in deep water, dangerous restriction of air, disadvantage when rigidity dissolves, damaged water circulation, and uncertainty through lack of achievement
+
+## Comparative Schema
+
+- core meaning: cold, deprivation, restriction, or material water conditions, with danger and uncertainty in ABC.
+- psychology: past weaknesses, depression, and uncertainty about deficient achievement are ABC descriptions.
+- body/health: cold-related ailments, starvation, and death are historical Witte claims, not diagnoses or forecasts.
+- social/relationship: neither entry specifies a particular relationship or group setting.
+- events/manifestations: subterranean water, springs, wells, snow, ice, restricted pollution, and deep-water danger are named.
+- conflicts/notes: ABC explicitly gives disadvantage when rigidity dissolves; release is not automatically beneficial here.
+
+## Contradictions
+
+Witte includes ordinary water sources beside severe cold and deprivation. ABC also includes restriction of pollution, so every material example should not be treated as decay or danger.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Admetos`: Ailments caused by cold and dampness. Death through cold and starvation. The water in the ground, subterranean springs, wells, water sources. Snow and ice.
-- Practical focus: compresses hidden decline into cold, damp, and deprived conditions, showing decay fixed into harsh material states such as starvation, freezing, or buried and stagnant water.
-- Practical expression: depression due to weakness from the past, limitation of air pollution, danger in deep water, dangerous air restriction, and disadvantage in case of loss of a rigid.
+In Neptune/Hades = Admetos, Admetos specifies the pair through restrictive or deprived conditions and material forms of water. The [Witte entry](#witte-entry) includes cold, dampness, wells, snow, and ice; [ABC](#abc-entry) adds deep-water danger, restricted air, damaged water circulation, and uncertainty through deficient achievement (printed p. 395, PDF p. 196). Its disadvantage when rigidity dissolves is retained rather than made a beneficial release. The severe illness and death examples remain historical source claims, without making ordinary groundwater or cold an inevitable threat.
 
 ## Links
 

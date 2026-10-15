@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Hades](../axes/cupido-hades.md)
 - Triad hub: [Cupido Hades Poseidon](../triads/cupido-hades-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 267 (one-based; exact activator row).
 
 #### Witte Entry
 
@@ -40,14 +44,31 @@ Societies, where the standards are very low in reference to mental or spiritual 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 211 (printed 425).
+
 #### ABC Entry
 
-Disadvantaged community of ideas, dangerous spiritual community, common knowledge of the past, mental lack in of a community, common cultural past, and culture and arts of the past
+Editorial English translation, checked against the German scan:
+
+Disadvantaged idea community; dangerous spiritual community; shared insights from the past; mental or spiritual lack within a community; shared cultural past; culture and art of the past.
+
+## Comparative Schema
+
+- core meaning: Communal ideas and culture related to disadvantage, danger or the past.
+- psychology: The source evaluates some communal mental or spiritual standards as low or past-bound.
+- body/health: No specific bodily condition or treatment is supplied; mental lack is source language.
+- social/relationship: An idea community, spiritual community and shared cultural past.
+- events/manifestations: Shared insights from the past; culture and art of the past.
+- conflicts/notes: Witte's critical judgment does not turn all tradition or historical culture into degraded belief.
+
+## Contradictions And Differences
+
+Witte's critical judgment does not turn all tradition or historical culture into degraded belief. Comparison is limited to the exact entries above.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Hades = Poseidon`: collective life distorted by stale belief, low-minded doctrine, or an inability to rise above degraded inherited attitudes. Main caution: confusing tradition or certainty with genuine truth or uplift.
+`Cupido/Hades = Poseidon` concerns ideas and cultural inheritance within a community. The [Witte entry](#witte-entry) critically describes societies with low mental or spiritual standards and a mentality lingering in the past. The [ABC entry](#abc-entry) adds disadvantaged idea association, dangerous spiritual community and mental lack, but also shared insights, culture and art from the past. The critical clauses and historical-cultural clauses remain distinguishable rather than condemning every tradition.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Apollon = Pluto`
 - Astronomicon formula: `Y/¥ = Z`
 - Axis page: [Neptune/Apollon](../axes/neptune-apollon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `251` (entry start; one-based).
+
 #### Witte Entry
 
 From small beginnings to mass deception and mass fraud.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `401`, PDF p. `199` (entry).
+
 #### ABC Entry
 
-Development of metaphysical knowledge, successful air development, future knowledge changes, advance exchange of evolutionary knowledge, growing knowledge of the future, and knowledge experiences through intuition
+Development of metaphysical knowledge, successful air development, changes through knowledge of the future, pretence of knowledge about evolution, growing knowledge of the future, and experiences of knowledge through intuition
+
+## Comparative Schema
+
+- core meaning: growth from small beginnings into mass deception, alongside development of claimed knowledge.
+- psychology: pretence of evolutionary knowledge and intuitive knowledge are ABC themes.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: mass fraud is Witte's explicit collective setting.
+- events/manifestations: developing metaphysical knowledge, air development, and changes through future knowledge are stated.
+- conflicts/notes: knowledge development and pretended knowledge remain distinct; growth in reach does not prove truth.
+
+## Contradictions
+
+Witte emphasizes the growth of deception; ABC includes both knowledge development and pretence. The latter prevents treating every claimed development as either authentic insight or deliberate fraud.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon = Pluto`: From small beginnings to mass deception and mass fraud.
-- Practical focus: transforms `Neptune/Apollon` from minor concealment into mass fraud and large-scale deception. It shows diffuse or speculative falsehoods gaining force and reach until they become system-wide and deeply consequential.
-- Practical expression: development of metaphysical knowledge, successful air development, future knowledge changes, advance exchange of evolutionary knowledge, and growing knowledge of the future.
+In Neptune/Apollon = Pluto, Pluto specifies the pair through development that can enlarge the reach of deception. The [Witte entry](#witte-entry) describes small beginnings becoming mass fraud; [ABC](#abc-entry) adds development of metaphysical knowledge, changes through claimed future knowledge, and pretended knowledge about evolution (printed p. 401, PDF p. 199). These retain a distinction between developing claims and misleading ones, without establishing their truth or an inevitable system-wide progression.
 
 ## Links
 

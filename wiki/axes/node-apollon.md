@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `g/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `NODES + APOLLON`
+- PDF page (one-based): `153` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Business, trade or scientific connections. Union (connection) with many. Common 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `232–233`; PDF page (one-based): `115` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Relationships to knowledge, experiences, success in connections, trade flows, contact experience, mass meetings, many connections, economic connections, knowledge sharing, and increasing connections
+Relationships to knowledge, conveying experience, success in connections, trading relationships, experience of contact, mass meetings, many connections, economic connections, transmission of knowledge, increasing connections.
+
+## Comparative Schema
+
+- core meaning: Numerous or far-reaching connections, especially in trade, science, knowledge and collective exchange.
+- psychology: Experience and knowledge are shared; these short summaries do not give a developed personality or adverse emotional profile.
+- body/health: Neither pair summary states a bodily condition or medical correspondence.
+- social/relationship: Extensive contacts and union with many coexist with common freedom or peace across social, commercial and political structures.
+- events/manifestations: Mass meetings, trade and scientific links, economic connections and transmission of experience or knowledge are explicit.
+- conflicts/notes: The summaries stress breadth and success without ranking frequency or supplying a negative pole. Many contacts do not guarantee achievement, peace or personal intimacy.
 
 ## Related Activations
 
@@ -106,8 +122,9 @@ Relationships to knowledge, experiences, success in connections, trade flows, co
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Apollon` combines connection, alliance, and shared ties with growth, reach, and widening networks.
-- In practice, it most often shows business, trade or scientific connections, along with union (connection) with many.
+`Node/Apollon` widens connection in number and reach. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) joins business, trade and scientific contacts with extensive social or political links and union with many. It also names common freedom or peace, so this breadth concerns shared conditions as well as the quantity of contacts. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) gives knowledge and experience a clear role: encounters can convey experience, transmit knowledge and extend economic or trading relationships.
+
+Mass meetings and increasing connections provide concrete collective expressions, while success in connections is one stated possibility. The summaries do not establish that breadth always brings success, peace or close personal bonds, and they supply no general adverse personality or health condition. These are shared pair meanings; the more particular circumstances of another factor belong to its exact [activation page](#related-activations).
 
 ## Links
 

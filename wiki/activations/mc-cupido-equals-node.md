@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Cupido](../axes/mc-cupido.md)
 - Triad hub: [Node MC Cupido](../triads/node-mc-cupido.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,23 @@ Seeking relationships with sociable people such as artists, groups, family or ar
 
 #### ABC Entry
 
-Enlivened relationship to the whole, common psychic contacts, bound in a soul community, inner connections of a community, my connection to the whole, my connection to the artificial, and psychic encounter in of a community
+- Source passage: `Meridian + Cupido`; printed p. `84`; one-based PDF page `41` (complete oriented row checked against the raw scan).
+
+Ensouled relationship to the whole, shared inner contacts, bound within a soul community, inner connections of a community, my connection to the whole, my connection to art, inner encounter within a community.
+
+## Comparative Schema
+
+- **Core meaning:** Bonds with sociable people and communities.
+- **Psychology:** Seeking company and belonging are represented.
+- **Body/health:** No bodily or medical meaning is supplied.
+- **Social/relationship:** Artists, family, and groups are explicit associates.
+- **Events/manifestations:** Entering communal connections and shared contacts are named.
+- **Conflicts/notes:** ABC's connection to art is distinct from artificiality; its soul-community language remains attributed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Cupido = Node` joins the axis to sociable, artistic, and family-oriented relationships.
-- Chart expression: seeking bonds with convivial people, artists, families, or groups, and building one's path through friendly and aesthetic companionship.
+Node specifies `MC/Cupido` through seeking sociable bonds and becoming connected within a community. Artists, families, and groups are explicit settings, while ABC emphasizes shared contacts and a relation to the whole; association is established, but its permanence is not. ([Witte Entry](#witte-entry), PDF p. 70, entry start; [ABC Entry](#abc-entry), printed p. 84.)
 
 ## Links
 

@@ -19,6 +19,7 @@ related_activations:
   - Venus/Mars = Hades
   - Venus/Mars = Jupiter
   - Venus/Mars = Kronos
+  - Venus/Mars = Mars
   - Venus/Mars = MC
   - Venus/Mars = Mercury
   - Venus/Mars = Moon
@@ -29,6 +30,7 @@ related_activations:
   - Venus/Mars = Saturn
   - Venus/Mars = Sun
   - Venus/Mars = Uranus
+  - Venus/Mars = Venus
   - Venus/Mars = Vernal Point
   - Venus/Mars = Vulcanus
   - Venus/Mars = Zeus
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Q/U`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/MARS`
-- Source page: `187`
+- Source heading: `VENUS + MARS`
+- PDF page: 176.
 
 #### Pair Summary
 
@@ -88,11 +92,17 @@ The blood-relationship. Intimate friendship. Sex love. To act with devotion, out
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Mars`
+- Printed pages: `270-271`; PDF page: `134` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Work joy, peace work, harmonious activity, impulses of joy, arts creatures, love acts, manly things in women, beauty of work, living things in men, desire arbcit, and like to work
+Joy in work, work for peace, harmonious activity, impulses of joy, artistic creation, acts of love, the masculine in women, beauty of work, the feminine in men, desired work, and liking to work.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 175; PDF page: 177.
 
 #### Principle
 
@@ -112,7 +122,11 @@ People in love, sex unions.
 
 #### Probable Manifestations
 
-+ An early sexual maturity, the beginning of associations based purely on sex. - Disharmonious sex life, in some cases inclination to polygamy, infidelity. 31 In astrological textbooks, aspects between Venus and Mars, especially the square and opposition, are given a very negative interpretation. This is irresponsible. After all, this is a perfectly natural tendency, for without the regenerative function there would be no more children. It has actually been noticed that disruptions in love life have occured even when there were no inharmonious aspects between Venus and Mars. Venus/Mars Q/o"
++ An early sexual maturity, the beginning of associations based purely on sex. - Disharmonious sex life, in some cases inclination to polygamy, infidelity.
+
+#### Note 31
+
+In astrological textbooks, aspects between Venus and Mars, especially the square and opposition, are given a very negative interpretation. This is irresponsible. After all, this is a perfectly natural tendency, for without the regenerative function there would be no more children. It has actually been noticed that disruptions in love life have occured even when there were no inharmonious aspects between Venus and Mars.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -180,6 +194,8 @@ The health may be affected through worry, strain, and lack of interior tranquili
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 55 (Principle and Process).
+
 #### Principle
 
 Efficiency (Marc Edmund Jones). The ability to get things done. A love of asserting oneself. To be aggressive and assertive in romance. A warm and passionate love nature.
@@ -190,9 +206,11 @@ Learning how to more and more effectively show love and align all of one’s act
 
 ### Robert Hand - Horoscope Symbols
 
+- PDF page: 206.
+
 #### Pair Delineation
 
-Passion, sexual energy, love between the sexes. The physical aspect of sexuality. Creative energy, artistic work To seek self-satisfaction in love. The balance between the need for relationship and individual self-expression and will.
+Passion, sexual energy, love between the sexes. The physical aspect of sexuality. Creative energy, artistic work. To seek self-satisfaction in love. The balance between the need for relationship and individual self-expression and will.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -229,25 +247,25 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Mars: Passion`
-- PDF page(s): `311`
+- PDF page(s): `311–312`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Graceful Lady and the Conqueror
 - shadow: The Whore and the Brute
 - comparison: Love Violence Temptation Lust Eroticism Sexuality Peace War Reconciliation Dispute Fine Rough Gentle Brutal Cultivated Primitive Indecisive Spontaneous Cautious Impulsive Giving Taking Goodwill Greed
-- general: Satisfying lust . Fighting for what a person loves . The erotic and sexual tension between man and woman .
+- general: Satisfying (♀) lust (♂). Fighting (♂) for what a person loves (♀). The erotic (♀) and sexual (♂) tension between man (♂) and woman (♀).
 - harmony: The Sensual Individual. Sensual-erotic powers of attraction. Carefree, natural relations with the opposite sex. Sure instinct in selecting a partner. Experienced passion and satisfied sexuality. Good feeling for rhythm, good taste, and the right tone.
-- discord: The Eternally Dissatisfied. Strong sexual desire—demanding, aggressive, and tactless—yet, always unsatisfied. Permanent discord between graceful eroticism and raw sexuality . Violent, brutal, aggressive, as well as self-destructive. Sexual insecurity and mistrust toward the opposite sex. Dramatic, emotionally-charged relationships.
+- discord: The Eternally Dissatisfied. Strong sexual desire—demanding, aggressive, and tactless—yet, always unsatisfied. Permanent discord between graceful eroticism (♀) and raw sexuality (♂). Violent, brutal, aggressive, as well as self-destructive. Sexual insecurity and mistrust toward the opposite sex. Dramatic, emotionally-charged relationships. Little willingness to be devoted to another person.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Affection becoming active through passion, pursuit, creative work or devotion to a cause ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary), [Hand](#pair-delineation)).
+- psychology: Warmth, assertiveness and artistic initiative can coexist with impatience, irritability, jealousy and quickly changing emotional intensity ([psychological correspondence](#psychological-correspondence), [Falis](#falis-entry), [Basic Ideas](#basic-ideas)).
+- body/health: Sexuality and physical activity are explicit; Ebertin's autonomic and reproductive claims and Munkasey's muscular and fever correspondences remain historical source assertions ([biological correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Passionate attachment and active cooperation meet the tension between mutuality and self-assertion. Witte also includes kinship and intimate friendship ([pair summary](#pair-summary), [Hand](#pair-delineation)).
+- events/manifestations: Acts of love, artistic production, dance or music, initiative in relationships, and conflict when affection and impulse pull apart ([ABC summary](#abc-pair-summary), [Carter's overview](#pair-overview), [Falis](#falis-entry)).
+- conflicts/notes: Ebertin and Carter explicitly reject blanket condemnation of Venus-Mars contacts. Their historical gender and sexual vocabulary does not establish a person's morality or relationship outcome; aspect distinctions retain their conditions ([note31](#note-31), [pair overview](#pair-overview), [aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
@@ -259,6 +277,7 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [Venus/Mars = Hades](../activations/venus-mars-equals-hades.md)
 - [Venus/Mars = Jupiter](../activations/venus-mars-equals-jupiter.md)
 - [Venus/Mars = Kronos](../activations/venus-mars-equals-kronos.md)
+- [Venus/Mars = Mars](../activations/venus-mars-equals-mars.md)
 - [Venus/Mars = MC](../activations/venus-mars-equals-mc.md)
 - [Venus/Mars = Mercury](../activations/venus-mars-equals-mercury.md)
 - [Venus/Mars = Moon](../activations/venus-mars-equals-moon.md)
@@ -269,21 +288,21 @@ Sexual pleasure; haste in sexual release; relaxing your muscles; the muscle tone
 - [Venus/Mars = Saturn](../activations/venus-mars-equals-saturn.md)
 - [Venus/Mars = Sun](../activations/venus-mars-equals-sun.md)
 - [Venus/Mars = Uranus](../activations/venus-mars-equals-uranus.md)
+- [Venus/Mars = Venus](../activations/venus-mars-equals-venus.md)
 - [Venus/Mars = Vernal Point](../activations/venus-mars-equals-vernal-point.md)
 - [Venus/Mars = Vulcanus](../activations/venus-mars-equals-vulcanus.md)
 - [Venus/Mars = Zeus](../activations/venus-mars-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Strong desire, discord and infidelity appear as possibilities in the entries, while Ebertin and Carter both challenge categorical negative judgments. Carter also allows fidelity and ardent affection. Passion and conflict should therefore remain distinct from claims about morality or inevitable partnership failure.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars` is the axis of passionate attraction, active desire, creative heat, and the union of charm with pursuit. It combines affection, beauty, sociability, and receptivity with initiative, sexuality, competition, and the drive to go after what one wants.
-- Chart expression: magnetism, erotic vitality, artistic force, romantic initiative, and the ability to turn feeling into action or attraction into conquest. Liabilities: jealousy, impatience, irritability, relationship conflict, crude sensuality, and the use of charm, sexuality, or desire in ways that inflame dissatisfaction rather than create harmony.
+`Venus/Mars` joins affection with the impulse to act on it. Passion, romantic initiative and sexual attraction are prominent, but the pair also includes working with devotion, artistic creation and joy in activity. Witte's kinship and intimate friendship broaden the relational range beyond erotic attachment, while Sandbach describes making action a more effective expression of love ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary), [Sandbach](#principle-1), [Process](#process)).
+
+The tension is between reaching for what one wants and sustaining mutuality. Warmth and assertiveness can support creative work or a relationship; impatience, jealousy and impulsive changes of feeling can turn the same energy into irritation or struggle. The sources explicitly resist making strong desire a verdict on morality, and allow ardent affection with fidelity as well as discord. The pair describes this active emotional range without settling the fate of a union ([Hand](#pair-delineation), [psychological correspondence](#psychological-correspondence), [Ebertin's note31](#note-31), [Carter's overview](#pair-overview)). Munkasey's [public expressions](#in-politics-or-business) include courtesy toward adversaries and the combination of martial skill with charm, as well as pleasure in fighting or recklessness. The sources' aspect alternatives and historical bodily claims supply no universal character judgment or medical outcome; each closing factor requires its own oriented activation.
 
 ## Links
 

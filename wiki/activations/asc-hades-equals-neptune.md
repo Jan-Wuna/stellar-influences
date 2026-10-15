@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Asc/Hades = Neptune`
 - Astronomicon formula: `Asc/¢ = Y`
 - Axis page: [Asc/Hades](../axes/asc-hades.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 92, entry start (parser evidence).
+
 Corruption and decline of the environment. Death by drowning.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Foreign traditions at the site, danger to others in the water, Lull deficiency of the partner, disadvantages by insecure partners, environmental risk in the water, environmental crime on a water, air/water pollution at the site Dangerous change development, secret part ncr change, and mangclhaflc part ncr development
+Foreign traditions at a place, danger with others in the water, the partner's lack of air, disadvantages through an uncertain partner, environmental danger in the water, environmental crime on the water, and local air/water pollution.
+
+Translation and row boundary repaired against the scan of the German Neptune row, printed p. 125, one-based PDF p. 61. “Luft-Mangel” means lack of air. The former tail beginning “Dangerous change development” belongs to the following Pluto row and has been restored there.
+
+## Comparative Schema
+
+- **Core meaning:** Environmental decline and uncertainty include concrete water and pollution hazards.
+- **Psychology:** ABC names an uncertain partner without establishing a general psychological trait.
+- **Body/health:** Witte's death by drowning and ABC's lack of air remain historical source claims, not predictions or diagnoses.
+- **Social/relationship:** Danger with others in water and disadvantage through an uncertain partner are explicit.
+- **Events/manifestations:** Water hazards, air/water pollution, environmental crime on water, and foreign local traditions are source examples.
+- **Conflicts/notes:** Foreign traditions are a separate cultural example; they are not equated with corruption. Pluto's development/change clauses are excluded.
+
+## Contradictions
+
+No direct contradiction appears. The concrete water hazards and pollution supplement Witte's environmental decline. The adjacent Pluto clauses were a damaged row boundary, not additional Neptune doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Neptune`: decaying surroundings, moral and material corruption, and environments that become unsafe through dissolution rather than direct attack. Main caution: unchecked disintegration: once the near field turns porous and corrupt, the damage can become hard to contain.
+In `Asc/Hades = Neptune`, Neptune specifies the Asc/Hades axis through declining surroundings, uncertainty in a partner, and hazards involving water or pollution. ABC gives these a concrete setting in waterborne dangers and local air/water pollution. Witte's drowning statement and ABC's lack-of-air wording remain attributed historical claims, with no inevitable bodily outcome implied. Foreign traditions at a place are another supported example, rather than evidence that foreignness itself means decline. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 125.)
 
 ## Links
 

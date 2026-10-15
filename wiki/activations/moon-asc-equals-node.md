@@ -20,7 +20,6 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-  - john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints
   - michael-munkasey-midpoints-unleashing-the-power-of-the-planets
 updated_at: 2026-05-06
 ---
@@ -32,11 +31,15 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
 - Triad hub: [Moon Node Asc](../triads/moon-node-asc.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Asc + Moon`; one-based PDF page `81` (entry starts here; supplied parser locator, not visually verified).
 
 Closer union with female persons or the public. Connected with many people.
 
@@ -44,7 +47,9 @@ Closer union with female persons or the public. Connected with many people.
 
 #### ABC Entry
 
-Community relations with the partner, with women in the environment, contacts with other people, mother's personal environment, contacts at the place at the hour, environmental relations of the people, and female partner relations
+- Source passage: `Aszendent + Mond`; printed p. `102`; PDF page `50` (complete oriented row checked against actual scan).
+
+Emotional bonds with the partner, connected with women in the environment, contacts with other peoples, the mother's personal surroundings, contacts at the place during the hour, environmental connections of peoples, female partner relationships.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -57,22 +62,21 @@ Finding people who are very sensitive and aware of the needs of others; seeking 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Emotional contact becomes an actual bond with partners, women or a wider public.
+- psychology: Seeking people responsive to emotional needs and help with emotional wounds.
+- body/health: 'Healing emotional wounds' is Munkasey's relational language; no treatment or bodily diagnosis is given.
+- social/relationship: Closer union and mutual support are central; leaving people once cared for is also retained.
+- events/manifestations: Connections with many people, supportive encounters and departures are explicit examples.
+- conflicts/notes: The complete Sandbach Moon/Ascendant chapter (one-based PDF39–40) contains no Node activation, so no Sandbach entry is admitted here. Emotional partner bonds and contacts with other peoples remain distinct ABC clauses.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. Closer union and seeking support coexist with Munkasey's possibility of leaving people once cared for.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Asc = Node`: responsiveness in relationship, strong rapport, and a life pattern in which self-presentation is continuously mirrored through others. Main caution: emotional dependence: feeling safe and connected can become too contingent on relational feedback.
+In `Moon/Asc = Node`, Node specifies emotional contact through forming or experiencing bonds. The traditional entries describe closer connections with women, partners or many people; Munkasey adds seeking sensitive people who understand one's needs and emotional hurts. His possibility of leaving people once cared for keeps the reading open to changes in attachment rather than promising permanent closeness. ([Witte](#witte-entry); [ABC](#abc-entry); [Munkasey, p. 140](#munkasey-entry))
 
 ## Links
 
@@ -83,5 +87,4 @@ Finding people who are very sensitive and aware of the needs of others; seeking 
 - [Moon Node Asc](../triads/moon-node-asc.md)
 - [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../sources/alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures.md)
 - [Udo Rudolph - ABC for Planetary Pictures](../sources/udo-rudolph-abc-fur-planetenbilder.md)
-- [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../sources/john-sandbach-midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

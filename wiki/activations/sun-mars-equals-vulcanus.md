@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Vulcanus](../triads/sun-mars-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ The man who achieves physical strength through his activity.
 
 #### ABC Entry
 
-Man's work force, individual, will, a man's violence activity, a man's power activity, a man's power centre for work, personal body force, strong work man, strong personal will, and day of will strongness
+Source locator: printed page 147 / PDF page 72, Vulcanus glyph under Sonne + Mars. English translation checked against the complete nine-clause row.
+
+The man's working strength, influence of personal will, a man's violent activity, a man's powerful activity, power center for work, personal bodily strength, strong working man, strong personal will, and day of strength of will.
+
+## Comparative Schema
+
+- core meaning: Work expressed through substantial strength and force.
+- psychology: Strong personal will in ABC.
+- body/health: Witte describes gaining physical strength through activity.
+- social/relationship: Powerful or violent activity is among ABC’s examples.
+- events/manifestations: Strengthening through exertion or forceful work.
+- conflicts/notes: ABC distinguishes influence of will, bodily strength, power and violence; these are not interchangeable descriptions of every activity.
+
+## Contradictions
+
+Strength developed through work and violent activity are different examples, not equivalent claims. ABC adds influence and strength of personal will without making all effort coercive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Mars = Vulcanus`: powerful activity and forceful exertion.
-- Practical expression: man's work force, individual, will, a man's violence activity, and a man's power activity.
+In `Sun/Mars = Vulcanus`, Vulcanus specifies Sun/Mars activity through the amount of strength and force brought into it. The [Witte Entry](#witte-entry) makes strength developed by activity the central example; the [ABC Entry](#abc-entry) adds working strength, bodily strength, and influence and strength of personal will. ABC also includes power and violence, but those examples do not make all strenuous activity coercive.
 
 ## Links
 

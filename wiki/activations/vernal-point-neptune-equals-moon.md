@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Moon Neptune](../triads/vernal-point-moon-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Sensitiveness in general. Weather sensitivity.
 
@@ -42,13 +46,27 @@ Sensitiveness in general. Weather sensitivity.
 
 #### ABC Entry
 
-Exchanged people in public, foreign folk in public, public water of a people, unsettled women in public life, sensitive women in public life, and weak hour in public
+- Source page: 40; PDF page: 19 (one-based spread).
+
+A disappointed people in public, foreign peoples in public, a people's public waters, unsettled women in public life, sensitive women in public life, and a weak public hour
+
+## Comparative Schema
+
+- core meaning: Public uncertainty expressed as collective disappointment or sensitivity.
+- psychology: Sensitivity and unsettled feeling are explicit.
+- body/health: Weather sensitivity is Witte's attributed bodily association.
+- social/relationship: A disappointed people and the source's examples of sensitive women.
+- events/manifestations: Foreign peoples, public waters, and a weak public hour.
+- conflicts/notes: Disappointed replaces exchanged; foreign peoples are not themselves an adverse condition.
+
+## Contradictions
+
+Sensitivity, collective disappointment, and foreign peoples are separate examples. The source does not make them interchangeable.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Moon`: sensitiveness in general and weather sensitivity.
-- Practical expression: exchanged people in public, foreign folk in public, public water of a people, unsettled women in public life, and sensitive women in public life.
+In `Vernal Point/Neptune = Moon`, public uncertainty is felt collectively. The [Witte entry](#witte-entry) emphasizes sensitivity, including sensitivity to weather. The restored [ABC entry](#abc-entry) adds a disappointed people, unsettled or sensitive women, public waters, and foreign peoples. The coherent theme is responsiveness and insecurity in public life, with gendered and environmental examples retained as source associations.
 
 ## Links
 

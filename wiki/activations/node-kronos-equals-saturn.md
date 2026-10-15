@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Kronos](../axes/node-kronos.md)
 - Triad hub: [Saturn Node Kronos](../triads/saturn-node-kronos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 152 (one-based PDF numbering; exact row checked).
 
 Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
 
@@ -42,14 +46,29 @@ Loss of position. Discharge from custody. Hindrances by the power of the state. 
 
 #### ABC Entry
 
-Loss of reputation in a connection, special tasks in a connection, distanced relationship to the boss, concentration on the special in a relationship, problematic connection to the state, and loss of self confidence in a connection
+- Source page: 231 (printed); PDF page: 114 (one-based PDF numbering; exact row checked).
+
+Loss of standing within a connection, special tasks within a connection, a disturbed relationship with the boss, concentration on what is special within a relationship, a problematic connection to the state, loss of self-confidence within a connection.
+
+## Comparative Schema
+
+- core meaning: strain, restriction or loss within an official or high-standing connection.
+- psychology: loss of self-confidence and concentrated attention to particular tasks or relationship concerns.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: a disturbed tie with a superior and problematic state contacts.
+- events/manifestations: loss of position, notice, hindrances by the state, arrest or discharge from custody.
+- conflicts/notes: Arrest and discharge are distinct possible official outcomes, not simultaneous claims or a promised sequence. ABC emphasizes the strain within the connection.
+
+## Contradictions
+
+Arrest and discharge are distinct possible official outcomes, not simultaneous claims or a promised sequence. ABC emphasizes the strain within the connection.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Kronos = Saturn`: Loss of position. Discharge from custody. Hindrances by the power of the state. To be under arrest. To receive notice.
-- Practical focus: loss of position; also discharge from custody.
-- In difficult expression, it can mark hindrances by the power of the state.
+Saturn specifies `Node/Kronos` through the strain or restriction of a connection with authority. The [Witte entry](#witte-entry) names loss of position, official hindrance and custody; the [ABC entry](#abc-entry) brings that pressure into the relationship with a superior and into confidence or standing within the connection. Special tasks and focused attention are also supported, so the formula is not limited to loss.
+
+Witte lists both arrest and discharge from custody. They are different possible changes in an official constraint, not a sequence promised by the formula.
 
 ## Links
 

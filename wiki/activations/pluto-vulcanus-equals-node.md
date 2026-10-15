@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Pluto/Vulcanus = Node`
 - Astronomicon formula: `Z/§ = g`
 - Axis page: [Pluto/Vulcanus](../axes/pluto-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 263.
+
 To get into a whirlpool, to be overpowered by a mighty transformation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influx/3 in a connection develop, violent change of a connection, power development in a connection, connected with a power change, changes in an influential relationship, and growing relations to power
+- Source page: 420 (printed); PDF page: 209.
+
+Developing influence in a connection, violent change of a connection, unfolding power in a connection, being connected with a change of power, changes in an influential relationship, growing connections to power.
+
+Translation checked against the exact glyph row in the German scan.
+
+## Comparative Schema
+
+- Core meaning: A connection involved in a powerful transformation, potentially overwhelming those involved.
+- Psychology: Being overpowered by a mighty transformation.
+- Body/health: No specific medical correspondence is established by these entries.
+- Social/relationship: Changing influential relationships and growing connections to power.
+- Events/manifestations: Violent change in a connection, or unfolding power within it.
+- Conflicts/notes: Witte's whirlpool image conveys overwhelming change; it need not be read as a literal water event.
+
+## Contradictions
+
+Witte's whirlpool image conveys overwhelming change; it need not be read as a literal water event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Vulcanus = Node`: to get into a whirlpool, to be overpowered by a mighty transformation.
-- Practical expression: influx/3 in a connection develop, violent change of a connection, power development in a connection, connected with a power change, and changes in an influential relationship.
+In `Pluto/Vulcanus = Node`, Node specifies `Pluto/Vulcanus` through involvement in a mighty change. The [Witte entry](#witte-entry) uses a whirlpool and being overpowered to convey its engulfing force; the [ABC entry](#abc-entry) locates change and developing power within connections and influential relationships. The same field includes gaining influence and being caught up in a violent change, without guaranteeing either outcome.
 
 ## Links
 

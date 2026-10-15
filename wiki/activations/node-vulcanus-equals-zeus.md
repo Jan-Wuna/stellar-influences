@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Vulcanus](../axes/node-vulcanus.md)
 - Triad hub: [Node Zeus Vulcanus](../triads/node-zeus-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 155 (one-based; exact row checked).
 
 Leading in a mighty connection. To be under the pressure or compulsion of a powerful organization. Threats.
 
@@ -42,13 +46,27 @@ Leading in a mighty connection. To be under the pressure or compulsion of a powe
 
 #### ABC Entry
 
-Relationships with the power of fiction, enormous efforts in a connection, power strife in a connection, strong generation connection, connection with fiery energies, connection to the power of leadership, and goal striving in an influential connection
+- Source page: 237 (printed); PDF page: 117 (one-based; exact row checked).
+
+Relationships with leadership power, enormous efforts within a connection, striving for power within a connection, a strong procreative connection, connection with fiery energies, connection to leadership power, pursuit of goals within an influential connection.
+
+## Comparative Schema
+
+- core meaning: leadership, striving and pressure within a powerful connection.
+- psychology: intense effort and the pursuit of goals or power.
+- body/health: ABC names a procreative connection without establishing fertility or a medical condition.
+- social/relationship: leadership in a strong association or submission to a powerful organization's pressure.
+- events/manifestations: threats, compulsion, strenuous efforts and connections with fiery energies.
+- conflicts/notes: Leading and being pressured are different positions within powerful association; neither alone defines the entire entry.
+
+## Contradictions
+
+Leading and being pressured are different positions within powerful association; neither alone defines the entire entry.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Vulcanus = Zeus`: Leading in a mighty connection. To be under the pressure or compulsion of a powerful organization. Threats.
-- Practical focus: leading in a mighty connection; also to be under the pressure or compulsion of a powerful organization.
+Zeus specifies `Node/Vulcanus` through the pursuit or exercise of leadership within a powerful connection. The [Witte entry](#witte-entry) includes leading a strong association as well as experiencing its pressure, compulsion or threats; the [ABC entry](#abc-entry) adds strenuous effort, power-striving and personal goals within an influential tie. Fiery energies and procreative union remain additional ABC possibilities. The distinctive tension concerns whether one directs the association's force or is compelled by it.
 
 ## Links
 

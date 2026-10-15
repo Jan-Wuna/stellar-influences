@@ -1,0 +1,1510 @@
+{
+  "verified_by": "/root/source_check_saturn",
+  "scope": "Complete baseline/current Source Entries and unique amended owner records read; actual raw proof personally inspected for every changed/flagged block and new locator. Unchanged unrelated inherited source blocks excluded.",
+  "checks": [
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+      "before_sha256": "3b90845a2c9cb099f525c34889f1b87add3ea10d59b08e12d12f509b3e7f5c24",
+      "current_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 24,
+      "ledger_record_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMental or intellectual leadership. Spiritual standard of the time.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAuthoritat of truth in public, intellectual authoritat in public life, spiritual hierarchy in the world, great clarity in public, state authority in public life, and important ideas in public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nMental or intellectual leadership. Spiritual standard of the time.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 59; PDF page: 28 (one-based spread).\n\nAuthority of truth in public, intellectual authority in public life, intellectual hierarchy in the world, great public clarity, state reason in public life, and important public ideas",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Authoritat of truth in public, intellectual authoritat in public life, spiritual hierarchy in the world, great clarity in public, state authority in public life, and important ideas in public Corrected: Authority of truth in public, intellectual authority in public life, intellectual hierarchy in the world, great public clarity, state reason in public life, and important public ideas"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#abc-entry",
+            "reference": "- Source page: 59; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-kronos.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 24,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-kronos-poseidon.md",
+            "text": "Vernal Point/Poseidon = Kronos excludes an unreliable ABC state-authority rendering; its source heading does not certify the English wording. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-kronos-poseidon.md",
+            "text": "Vernal Point/Poseidon = Kronos excludes an unreliable ABC state-authority rendering; its source heading does not certify the English wording.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+        "page_sha256": "f6f03993e2046b4325e20f31d3d6925eacbcd181217a5813aa4389c978bc87b4",
+        "owner_record_raw_sha256": "232694313200fbeb9d56b5dce4f2b528c3f08d6e323a7ea86ab07971739e60a4",
+        "reason": "Complete current page and full unique original owning record read. ABC state reason has already replaced state authority, with reason/rank/truth distinction retained; actual ABC28/Witte55 certification covers the exact claim. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-poseidon-equals-kronos.md",
+          "before_sha256": "3b90845a2c9cb099f525c34889f1b87add3ea10d59b08e12d12f509b3e7f5c24",
+          "after_sha256": "8da4ea9b790895a040cd071891f9c6e972a7ca2b3d04920c6d1f982dd045ceeb",
+          "ledger": "activations-097.jsonl",
+          "reason": "Read full baseline/current Source Entries delta and unique owning repair record. Personally viewed actual Witte PDF55: exact activating glyph, entire corresponding paragraph, neighboring boundaries and added PDF locator match. Personally viewed actual ABC printed59/PDF28: complete German own-glyph paragraph and printed/PDF numbering checked against all current English clauses, including any scan-backed wording repair. Checked ABC paragraph begins 'Authority of truth in public, intellectual authority in public li' and ends 'ublic clarity, state reason in public life, and important public ideas'. Approval binds this exact source delta; unchanged inherited wording retains source-specific ambiguity, grammar and attribution rather than gaining independent doctrinal authority.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected complete WittePDF55 Kronos row and ABC printed59/PDF28 six-clause Kronos row. Authority and state reason (staatliche Vernunft), all current clauses and exact references match actual scan; earlier flag is stale and prior verifier provenance retained.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+      "before_sha256": "03c90e921808b1530c1ea096130ac1fac1457c1052ee8f0f8c0bc2e2dc552049",
+      "current_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPersonally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nPersonally influenced by the ideas of the current time. To appear spiritualized. The own general knowledge. The moment of floods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 58; PDF page: 28 (one-based spread).\n\nInwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Bcsce!tc Kullur in the (public, besserte world culture, my insight about the Ofkntlichkcit, my clarity in the Ofktlichkcit, my ldeen in the public Life, my Reason in ckr public, my Thrheit in the ofktlichkcit, and my ldeen in the public Corrected: Inwardly animated culture in public, inwardly animated world culture, my insights about the public, my public clarity, my ideas in public life, my reason in public, and my truth in public life"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [
+          "Witte's separate moment of floods phrase is preserved; its relation to the intellectual claims is unexplained and adds no timing model."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#abc-entry",
+            "reference": "- Source page: 58; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-mc.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 26,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+            "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-mc-poseidon.md",
+            "text": "MC/Poseidon = Vernal Point has an insecure ABC culture translation; Vernal Point/Poseidon = MC retains substantial ABC damage and an unexplained separate Witte example.",
+            "kind": "reported_damage_or_boundary",
+            "state": "unchanged_source_reported_issue_pending"
+          }
+        ],
+        "source_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+        "page_sha256": "264bc56c6c4c5fdeb69558d5b0a14f2078a7a8afcfe1c0d6f5c1438695a9b192",
+        "owner_record_raw_sha256": "27f7bcc2252c9414b7bf9c694746a105fc7bc98b8afea40455bb8576aa6b3b2c",
+        "reason": "Complete current page and full unique original owning record read. All seven ABC culture/clarity/reason/truth clauses are already repaired. Actual Witte55 confirms moment of floods; its relationship to intellectual themes remains specifically unexplained. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-poseidon-equals-mc.md",
+          "before_sha256": "03c90e921808b1530c1ea096130ac1fac1457c1052ee8f0f8c0bc2e2dc552049",
+          "after_sha256": "4774addad0f8ee78ac8f6f51167e094a0e711cead55d8971e1e88e1a46193c56",
+          "ledger": "activations-097.jsonl",
+          "reason": "Read full baseline/current Source Entries delta and unique owning repair record. Personally viewed actual Witte PDF55: exact activating glyph, entire corresponding paragraph, neighboring boundaries and added PDF locator match. Personally viewed actual ABC printed58/PDF28: complete German own-glyph paragraph and printed/PDF numbering checked against all current English clauses, including any scan-backed wording repair. Checked ABC paragraph begins 'Inwardly animated culture in public, inwardly animated world cult' and ends 'ideas in public life, my reason in public, and my truth in public life'. Approval binds this exact source delta; unchanged inherited wording retains source-specific ambiguity, grammar and attribution rather than gaining independent doctrinal authority.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": [
+          "Witte's separate moment of floods phrase is preserved; its relation to the intellectual claims is unexplained and adds no timing model."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "genuine_source_limit_confirmed_with_proof",
+        "scope": "Personally inspected WittePDF55 complete MC paragraph including literal The moment of floods. ABC printed58/PDF28 seven complete clauses match current inwardly animated culture, ideas, reason and truth; former damaged duplicate tail is absent correctly. Exact references and prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "The moment of floods is a separate unexplained printed example; its relation to intellectual claims is not supplied and no timing model is inferred.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+      "before_sha256": "69f59aeaac1bad59f19175a9e5fc2bacee506f96c09aa5840a7b17900571e1d9",
+      "current_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 33,
+      "ledger_record_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTurning ideas into reality. Inspiration and ideas about a physical form or an object. The ideas and mindset of the current generation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpiritual center in public, ideas of a man in public, corperculture in public life, personal clarity in public life, vemIndomitable people in frequentity, and world culture center",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nTurning ideas into reality. Inspiration and ideas about a physical form or an object. The ideas and mindset of the current generation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 58; PDF page: 28 (one-based spread).\n\nAn intellectual center in public, a man's public ideas, physical culture in public life, personal clarity in public life, reasonable people in public, and a world-culture center",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Spiritual center in public, ideas of a man in public, corperculture in public life, personal clarity in public life, vemIndomitable people in frequentity, and world culture center Corrected: An intellectual center in public, a man's public ideas, physical culture in public life, personal clarity in public life, reasonable people in public, and a world-culture center"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#abc-entry",
+            "reference": "- Source page: 58; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-sun.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 33,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-sun-poseidon.md",
+            "text": "Vernal Point/Poseidon = Sun retains visibly damaged ABC culture and public-person wording, also repeated in its practical-expression prose. The source entry is present but its English wording remains unresolved. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          },
+          {
+            "holder": "wiki/triads/vernal-point-sun-poseidon.md",
+            "text": "Vernal Point/Poseidon = Sun retains visibly damaged ABC culture and public-person wording, also repeated in its practical-expression prose. The source entry is present but its English wording remains unresolved.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+        "page_sha256": "66c9317b1c2eec7bea27c050bfc2c127e247e3f5fd7a12cb928fe9114350fbab",
+        "owner_record_raw_sha256": "9b650709bc83090061ee0bb3d4a3c083073cfe8ee985a7a5c33bb204d43a5ec6",
+        "reason": "Complete current page and full unique original owning record read. ABC physical culture and reasonable people are already repaired; gendered man's-ideas example and absence of clinical claim retained. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-poseidon-equals-sun.md",
+          "before_sha256": "69f59aeaac1bad59f19175a9e5fc2bacee506f96c09aa5840a7b17900571e1d9",
+          "after_sha256": "d236cbdbd76930a3dff859c6e78b69590324b50edf08399dac1b8f8bab2acc4d",
+          "ledger": "activations-097.jsonl",
+          "reason": "Read full baseline/current Source Entries delta and unique owning repair record. Personally viewed actual Witte PDF55: exact activating glyph, entire corresponding paragraph, neighboring boundaries and added PDF locator match. Personally viewed actual ABC printed58/PDF28: complete German own-glyph paragraph and printed/PDF numbering checked against all current English clauses, including any scan-backed wording repair. Checked ABC paragraph begins \"An intellectual center in public, a man's public ideas, physical \" and ends 'n public life, reasonable people in public, and a world-culture center'. Approval binds this exact source delta; unchanged inherited wording retains source-specific ambiguity, grammar and attribution rather than gaining independent doctrinal authority.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected complete WittePDF55 Sun row and ABC printed58/PDF28 six-clause Sun row. Physical culture, reasonable people and every current clause/new reference match actual print; old damaged-English flag is stale and prior verifier provenance retained.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Man/body examples remain attributed source-native doctrine.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+      "before_sha256": "ff7d88582ec295a80096cc01d9a0819665b579b686f3ee086e084c773706313c",
+      "current_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+      "ledger": "activations-097.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPowerful ideas. Ideas of extreme influences. Powerful floods. -----\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nSpiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, power of mind in public Life, strong spiritualization in public, and strong influence in public Life",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 55 (one-based).\n\nPowerful ideas. Ideas of extreme influences. Powerful floods.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 59; PDF page: 28 (one-based spread).\n\nIntellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler.",
+          "Independent source inspection identified inherited Witte Entry corruption: Powerful ideas. Ideas of extreme influences. Powerful floods. -----"
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed ABC repair. Original: Spiritual energy in public Life, spiritual power in public, public CultureInfluence, power of reason in public Life, power of mind in public Life, strong spiritualization in public, and strong influence in public Life Corrected: Intellectual energy in public life, intellectual strength of the public, public cultural influence, the force of reason in public life, the power of mind in public life, strong spiritualization in public, and reasonable influence in public life",
+          "Additional scan-backed source repair. Original: Powerful ideas. Ideas of extreme influences. Powerful floods. ----- Corrected: Powerful ideas. Ideas of extreme influences. Powerful floods."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan.",
+          "Personally viewed the full exact glyph row in source-repair-review-vernal-witte-pdf55.png and checked the bounded source and dependent-schema delta; amended this original record without duplicating coverage."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#witte-entry",
+            "reference": "- PDF page: 55 (one-based).",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#abc-entry",
+            "reference": "- Source page: 59; PDF page: 28 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-097-udo-pdf28.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#abc-entry"
+          },
+          {
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+            "reference": "PDF page 55 (one-based)",
+            "passage": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md#witte-entry",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-097.jsonl",
+        "ledger_line": 36,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-vulcanus-poseidon.md",
+            "text": "The retained hub qualification about the Witte dash-only tail on Vernal Point/Poseidon = Vulcanus remains current.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+        "page_sha256": "b9a5bad5468fb9ae4da6942c29e9160f13ea9fe9a7b0374e48c9a415308cd317",
+        "owner_record_raw_sha256": "b993a98c13b40ea0618a3336ec74257bf9218c03e688271b30b80a2d62d3f143",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte55 certification expressly checked and removed nonsource dash-only tail; ABC reasonable influence also already repaired. Distinct flood example remains separate. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-poseidon-equals-vulcanus.md",
+          "before_sha256": "ff7d88582ec295a80096cc01d9a0819665b579b686f3ee086e084c773706313c",
+          "after_sha256": "e3e006a03076ad76daeacb2011605a24568e40cfd582e2bfbb86ba91d31e9b62",
+          "ledger": "activations-097.jsonl",
+          "reason": "Read complete original/current source delta and unique existing owner record, then freshly read final owner repair and dependent schema. Personally viewed Witte PDF55: entire own-glyph paragraph, boundaries and PDF locator match; nonsource trailing separators are absent from raw and removed where applicable. Personally viewed ABC printed59/PDF28: complete own-glyph German paragraph, all English clauses and both locators match; repaired public-life or many-connections clauses are directly visible where applicable. ABC begins 'Intellectual energy in public life, intellectual strength of the ' and ends 'ng spiritualization in public, and reasonable influence in public life'. Final hash binds only this exact bounded source delta; unchanged inherited wording and unexplained source examples retain their source-specific limits.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png"
+          ],
+          "verified_by": "/root/factor_source_repairs"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF55 complete Vulcanus row: Powerful floods ends at the full stop with no dash tail. ABC printed59/PDF28 seven complete clauses including reasonable influence match current English and exact references. Old dash-tail flag is stale; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-witte-pdf55.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-abc-pdf28.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-poseidon4-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Powerful floods is literal source wording; its relation to the intellectual claims is unexplained and no mechanism is reconstructed.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+      "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+      "current_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+      "ledger": "activations-098.jsonl",
+      "ledger_line": 36,
+      "ledger_record_sha256": "876df7366f0ed5ee353ed91c99ddd6ccc2ca2785af74a2ef5355d39b8fbb1c0f",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nP Developing by leaps and bounds. Mutation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nLife, transformation technology in the public sphere, growth in the public sphere, and changes in the public sphere Rhythm",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 45 (one-based).\n\nDeveloping by leaps and bounds. Mutation.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 39; PDF page: 18 (one-based spread).\n\nDynamic changes in public, reform developments in public life, transformation technology in public, growing renewals in public, and changes in public rhythm.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: P Developing by leaps and bounds. Mutation. Corrected: Developing by leaps and bounds. Mutation.",
+          "Scan-backed ABC repair. Original: Life, transformation technology in the public sphere, growth in the public sphere, and changes in the public sphere Rhythm Corrected: Dynamic changes in public, reform developments in public life, transformation technology in public, growing renewals in public, and changes in public rhythm."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/vernal-point-uranus-equals-pluto.md#witte-entry",
+            "reference": "PDF page 45 (one-based)",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-098-witte-pdf45.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-098-udo-pdf18.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vernal-point-uranus-equals-pluto.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-098.jsonl",
+        "ledger_line": 36,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/vernal-point-uranus-pluto.md",
+            "text": "The retained hub qualification about the leading Witte P token on Vernal Point/Uranus = Pluto is still current; the token also remains in activation synthesis.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+        "page_sha256": "f1950ef7ac522c3d013211a95be3ff1ec665a9ed1df2e0785bcc486e73c9ce7f",
+        "owner_record_raw_sha256": "876df7366f0ed5ee353ed91c99ddd6ccc2ca2785af74a2ef5355d39b8fbb1c0f",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte45 certification expressly checked removal of alternative Pluto graphic P, and actual ABC18 certified complete Pluto5 versus Neptune7 boundary; both source and dependent synthesis repaired. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vernal-point-uranus-equals-pluto.md",
+          "before_sha256": "10b2a5f6f96c4a975fb469d64085a1e84597b24cf953c7666d57222073ca5d8c",
+          "after_sha256": "8548d9173fca06f3ffda737f89fabb0ffb4e00865928c71555610b358bd853b8",
+          "ledger": "activations-098.jsonl",
+          "reason": "substantive translation, omitted-clause or glyph repair. Complete baseline/current source sections and full unique owner record read. Personally inspected immutable ABC printed38–39/PDF18 and Witte45 every oriented row. Restored Neptune7 versus Pluto5 boundary and removed graphic Pluto P; renewal rather than emanation/emancipation, trade reform rather than competition, deprivation rather than disappointment, art rather than artist, technical achievements and public-relations work all agree with raw. Witte severe event/death/violence assertions remain historical source wording. Every added reference verified.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-abc-pdf018.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-vernal-remaining-witte-pdf045.png",
+            "docs/reviews/2026-10-15-full-wiki/ledgers/activations-098.jsonl: path=wiki/activations/vernal-point-uranus-equals-pluto.md"
+          ],
+          "verified_by": "/root/activation_review_063_066"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-vernal-remaining-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF45 entire Pluto row: alternative Pluto glyphs precede Developing by leaps and bounds. Mutation. ABC printed39/PDF18 five complete German clauses, current translation and both exact locators match. Old leading-P flag is stale; prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-098-witte-pdf45.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-098-udo-pdf18.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+      "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+      "current_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 14,
+      "ledger_record_sha256": "ac7b19f12f8072d1a6183ff38fb4c233abb91b5f7771b0ec5efdbeeefd42d31b",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo enjoy esteem and respect in a small circle.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nBlocked mental energy, depression through mental violence, curtailment of mental violence. Condensing mental energies, grilning influence of an Idea, grilning cultural influence, vemilnftige power strengthening, and resistance against mental violence",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 315 (one-based).\n\nTo enjoy esteem and respect in a small circle.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 479; PDF page: 238 (one-based spread).\n\nBlocked mental energy, depression through mental violence, curtailment of mental violence. Condensing mental energies, thorough influence of an idea, thorough cultural influence, reasonable consolidation of power, and resistance against mental violence.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Unrecorded partial review required complete source and baseline verification; direct locators were absent from the source blocks."
+        ],
+        "changes": [
+          "Preserved the sound prior six-category schema, connected exact-formula synthesis, source links and Identity route after a complete reading.",
+          "Added direct source locators and saved the missing page-specific review checkpoint after visual source and baseline-diff verification.",
+          "Freshly verified prior ABC repair against printed479/PDF238. Original: “grilning influence of an Idea, grilning cultural influence, vemilnftige power strengthening”. Corrected: “thorough influence of an idea, thorough cultural influence, reasonable consolidation of power”."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+            "reference": "Witte PDF315",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-admetos.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-admetos.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "ledger_line": 14,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/admetos-vulcanus-poseidon.md",
+            "text": "Vulcanus/Poseidon = Admetos: ABC Entry retains damaged wording \"grilning\" and \"vemilnftige\".",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+        "page_sha256": "bdcf78fec5d543ac1594933da259787aa37855a4fe9e1d9dae0b89eee31e5160",
+        "owner_record_raw_sha256": "ac7b19f12f8072d1a6183ff38fb4c233abb91b5f7771b0ec5efdbeeefd42d31b",
+        "reason": "Complete current page and full unique original owning record read. Actual ABC238 certification covers the changed thorough-influence/cultural-influence and reasonable-consolidation phrases, replacing grilning/vemilnftige; historical depression language remains attributed. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vulcanus-poseidon-equals-admetos.md",
+          "before_sha256": "352ffdcc6a6e1cc1841d407018e5353f6c9e164a196ddfd4d6a34c329fa6a525",
+          "after_sha256": "f9f574b496b0aaa21499ccf6ed10d8264c4383214c4f868b9dea695634dca116",
+          "ledger": "activations-100.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, admetos: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed479/PDF238, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF315 Admetos row and ABC printed479/PDF238 complete eight-clause Admetos paragraph. Thorough influence of an idea/culture and reasonable consolidation of power correctly replace damaged grilning/vemilnftige. Both locators and full changed translation verified; prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Depression and mental violence remain attributed historical source language, without diagnosis; geistige Gewalt retains contextual force/violence range.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+      "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+      "current_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 15,
+      "ledger_record_sha256": "1f3281bce48bf115fb7a5ab6413e15ba79d6f27631223d2e26a1762ad76f13bd",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n^ons^ere<l by many as a person of honour and esteem. Success and honour, because one enjoys high esteem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nexpansion of a spiritual influence, influence of spiritual freedom, successful influence of an idea, successful cultural influence, extensive spiritual energy, increase of spiritual energy, and reasonable experiences of power",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 315 (one-based).\n\nConsidered by many as a person of honour and esteem. Success and honour, because one enjoys high esteem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 479; PDF page: 238 (one-based spread).\n\nexpansion of a spiritual influence, influence of spiritual freedom, successful influence of an idea, successful cultural influence, extensive spiritual energy, increase of spiritual energy, and reasonable experiences of power",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Unrecorded partial review required complete source and baseline verification; direct locators were absent from the source blocks."
+        ],
+        "changes": [
+          "Preserved the sound prior six-category schema, connected exact-formula synthesis, source links and Identity route after a complete reading.",
+          "Added direct source locators and saved the missing page-specific review checkpoint after visual source and baseline-diff verification.",
+          "Freshly verified prior Witte repair against PDF315. Original: “^ons^ere<l by many as a person of honour and esteem.” Corrected: “Considered by many as a person of honour and esteem.”"
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+            "reference": "Witte PDF315",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-apollon.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-apollon.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "ledger_line": 15,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/apollon-vulcanus-poseidon.md",
+            "text": "Vulcanus/Poseidon = Apollon: Witte Entry begins with damaged text \"^ons^ere<l\".",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+        "page_sha256": "990cf74e66fd80ce269629b79a06b95b4d06ba16756484b05dda44494b8658a6",
+        "owner_record_raw_sha256": "1f3281bce48bf115fb7a5ab6413e15ba79d6f27631223d2e26a1762ad76f13bd",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte315 certification expressly checked changed prose Considered, repairing ^ons^ere<l. Its ABC locator-only certification is not used to certify inherited English. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vulcanus-poseidon-equals-apollon.md",
+          "before_sha256": "f3c774f123c4867c4a58d75c40f2b9b7eb2f43a9f141d94e3bddfa7bc8711ebd",
+          "after_sha256": "481cced40de11c34cb0ac5149a2825043c189de96e69f3639a6ceeeef75e5ef8",
+          "ledger": "activations-100.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, apollon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed479/PDF238, apollon: full German row/folios/boundaries inspected. Locator only; inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF315 complete Apollon row: Considered by many as a person of honour and esteem begins cleanly. ABC printed479/PDF238 seven-clause Apollon row and new exact references also match current section. Old Witte damage flag is stale; prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+      "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+      "current_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+      "ledger": "activations-100.jsonl",
+      "ledger_line": 30,
+      "ledger_record_sha256": "1f06c8fc4351ff3e70f003a0e045946807d996f0b88c4691287005e1867d1550",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nij) To exercise a surprising mental influence. Suddenly come to dignity, honor or esteem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExcitement about mental violence, influential cultural event, insightful energy reform, mental energy impulses, mental reform force, tremendous mental tensions, new cultural influence, strong mental dynamics, and impoverished energy technology",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 315 (one-based).\n\nTo exercise a surprising mental influence. Suddenly come to dignity, honor or esteem.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 479; PDF page: 238 (one-based spread).\n\nExcitement about mental force or violence, an influential cultural event, insightful energy reform, mental energy impulses, mental reform strength, tremendous mental tensions, new cultural influence, strong mental dynamics, and reasonable energy technology.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: ij) To exercise a surprising mental influence. Suddenly come to dignity, honor or esteem. Corrected: To exercise a surprising mental influence. Suddenly come to dignity, honor or esteem.",
+          "Scan-backed ABC repair. Original: Excitement about mental violence, influential cultural event, insightful energy reform, mental energy impulses, mental reform force, tremendous mental tensions, new cultural influence, strong mental dynamics, and impoverished energy technology Corrected: Excitement about mental force or violence, an influential cultural event, insightful energy reform, mental energy impulses, mental reform strength, tremendous mental tensions, new cultural influence, strong mental dynamics, and reasonable energy technology."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+            "reference": "Witte PDF315 alternative Uranus glyph",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-uranus.md#witte-entry",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/vulcanus-poseidon-equals-uranus.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-100.jsonl",
+        "ledger_line": 30,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/uranus-vulcanus-poseidon.md",
+            "text": "Vulcanus/Poseidon = Uranus retains an unexplained leading Witte ij) prefix; verify before quoting. Uranus/Poseidon = Vulcanus qualifies an unreliable ABC cultural-renewal translation. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          },
+          {
+            "holder": "wiki/triads/uranus-vulcanus-poseidon.md",
+            "text": "Vulcanus/Poseidon = Uranus retains an unexplained leading Witte ij) prefix; verify before quoting. Uranus/Poseidon = Vulcanus qualifies an unreliable ABC cultural-renewal translation.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+        "page_sha256": "45bf4394b62d66f6464ff8a56ee071d5c830d00bb61b0889b0195348c7ea3f88",
+        "owner_record_raw_sha256": "1f06c8fc4351ff3e70f003a0e045946807d996f0b88c4691287005e1867d1550",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte315 changed-prose/glyph certification covers removal of ij) alternative Uranus glyph. Actual ABC238 changed clauses also verified; no approval inferred for sibling Uranus/Poseidon=Vulcanus outside this target. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/vulcanus-poseidon-equals-uranus.md",
+          "before_sha256": "bd05cdd02b27c36c8a0c06118ecd0b315f953d7371def64022789aa8fcc05656",
+          "after_sha256": "49f5452c401a4b074ecdb02d1f982c7977ee21b6bd8816c12cbb5380d619c133",
+          "ledger": "activations-100.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF315, uranus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed479/PDF238, uranus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf315.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf238.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF315 complete Uranus row and two alternative Uranus glyphs: ij) was not prose. ABC printed479/PDF238 nine clauses verified, including vernünftige Energie-Technik as reasonable energy technology, current force/violence rendering and exact references. Prior verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/witte-315.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/review-100-resume/udo-238.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-kronos-equals-venus.md",
+      "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+      "current_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 2,
+      "ledger_record_sha256": "6a99088965ed57c5cf19e4057d2df4f310db9db60c8ead00d05094a0a30df72d",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nThe capabilities of the brain. Great mental creations and projects. Able to lead and command.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nEffortful state art, special achievements through beauty, peace efforts leading, leading artist authority, groll artistic creativity, and benevolent leadership of the boss",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nReference: PDF p. 289, Zeus + Kronos, Venus row; checked against the scan.\n\nThe creative ability of the womb. Love's labor. Expansive peaceful work. To experience friendship and affection through great accomplishment. Diplomat. Peaceful military power.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nReference: printed p. 450 (PDF p. 224), Zeus + Kronos, Venus row; English translation checked against the German scan.\n\nDemanding statecraft, special achievements through beauty, peace efforts by leaders, a leading authority in art, great artistic creativity, and benevolent leadership by the boss.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-kronos-equals-venus.md",
+        "reviewer": "/root/resume_a100_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Baseline Witte brain/command passage is the Mercury row; ABC 'state art', 'peace efforts leading' and 'groll artistic creativity' damage the German wording."
+        ],
+        "changes": [
+          "Accepted scan-proven partial repair: Witte Venus restores womb, love's labor, friendship, diplomacy and peaceful military power; ABC restores demanding statecraft, leaders' peace efforts and great creativity.",
+          "Retained connected source-linked delineation, concise six categories, attributed reproductive imagery, source-repair trace and Identity navigation."
+        ],
+        "verification": [
+          "Fully read current page, metadata, both sources, repair notes and links, manifest/evidence subset; inspected source diff to before/wiki.",
+          "Freshly inspected complete Witte PDF289 Mercury/Venus rows and German Venus row on Udo PDF224 printed450.",
+          "Matched synthesis to exact Venus evidence; baseline identity, six categories, immediate anchor and relative targets passed."
+        ],
+        "unresolved": [],
+        "evidence": [
+          "#witte-entry: PDF289 Mercury/Venus boundary",
+          "#abc-entry: printed450/PDF224 Venus row",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf289.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf224.png"
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-kronos-equals-venus.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 2,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/venus-zeus-kronos.md",
+            "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine. Source wording remains the activation owner's responsibility; this review makes no raw-source repair.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          },
+          {
+            "holder": "wiki/triads/venus-zeus-kronos.md",
+            "text": "Venus/Kronos = Zeus retains unresolved ABC fragments about procreation, governance, and harmony. Zeus/Kronos = Venus now identifies and corrects the former Witte Mercury-row displacement; the displaced text is traceability material, not Venus doctrine.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+        "page_sha256": "219764698863427fbe27e2a06c01903e1dc971dc2e6db0b3fe343b95b50ce0a0",
+        "owner_record_raw_sha256": "6a99088965ed57c5cf19e4057d2df4f310db9db60c8ead00d05094a0a30df72d",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte289 changed row certification covers Mercury-to-Venus displacement, with displaced brain text retained outside sourced doctrine for traceability; actual ABC224 supports repaired statecraft/leadership/creativity. Sibling Venus/Kronos=Zeus is outside this target. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-kronos-equals-venus.md",
+          "before_sha256": "b258696c6bd460685276684a1fbbb4fa818d27e2faf0b3b49584d1ce740bf5a4",
+          "after_sha256": "47b2ddf6a9c5cb034e4acfb6d41fd33eefeb86ee6fe6ae208d242e23dc296c53",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF289, venus: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed450/PDF224, venus: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf289.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf224.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected actual WittePDF289 adjacent Mercury/Venus glyph boundary: current womb/love/peace/diplomat paragraph is Venus; former brain paragraph is Mercury and excluded. ABC printed450/PDF224 six-clause Venus row and every new reference match; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf289.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf224.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Womb and military examples remain source-native historical doctrine, not medical fact or a guaranteed outcome.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+      "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+      "current_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 7,
+      "ledger_record_sha256": "1661261c6d505fc2df3fa691ddce917990b51f9f88c45b1d9c65a8d6a863706e",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nTo be mentally influenced and impressed by others. To be under the mental guidance of others. Others show their conviction and mental attitude. They are under mental compulsion.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nAddresses of cultural sites, intellectual leadership of the partner, clear location management, clear environmental objectives, environmental design, environmental performance, local Yemunft efforts, and witnessing of the partner",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nReference: PDF p. 296, Zeus + Poseidon, Asc row; checked against the scan.\n\nTo be mentally influenced and impressed by others. To be under the mental guidance of others. Others show their conviction and mental attitude. They are under mental compulsion.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nReference: printed p. 458 (PDF p. 228), Zeus + Poseidon, Asc row; checked against the German scan.\n\nEfforts at a cultural place, spiritual leadership of the partner, clear local leadership, clear goals for the surroundings, shaping the culture of the surroundings, reasonable achievements for the surroundings, efforts of reason at a place, and the partner's testimony to truth.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Corrected ABC's Addresses of cultural sites and Yemunft damage to local effort and reason, preserving partner and surrounding-place meanings.",
+          "Unrecorded partial editorial work required complete source and baseline verification."
+        ],
+        "changes": [
+          "Preserved the existing sound partial interpretation, six categories, Identity route, direct scan locators and adjacent synthesis anchor after full review.",
+          "The partial synthesis already distinguished social influence from clinical diagnosis and retained the unresolved constructive/coercive range.",
+          "Verified existing scan-backed ABC Entry repair. Original: Addresses of cultural sites, intellectual leadership of the partner, clear location management, clear environmental objectives, environmental design, environmental performance, local Yemunft efforts, and witnessing of the partner Corrected: Reference: printed p. 458 (PDF p. 228), Zeus + Poseidon, Asc row; checked against the German scan.\n\nEfforts at a cultural place, spiritual leadership of the partner, clear local leadership, clear goals for the surroundings, shaping the culture of the surroundings, reasonable achievements for the surroundings, efforts of reason at a place, and the partner's testimony to truth."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-poseidon-equals-asc.md#witte-entry",
+            "reference": "Witte PDF page 296 (one-based), Zeus + Poseidon, asc glyph row",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf296.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/zeus-poseidon-equals-asc.md#abc-entry",
+            "reference": "ABC printed page 458; PDF page 228 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf228.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-poseidon-equals-asc.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 7,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/asc-zeus-poseidon.md",
+            "text": "Zeus/Poseidon = Asc: ABC Entry retains damaged or suspect wording \"Yemunft\".",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+        "page_sha256": "9fbf05a733deaa29ff3849dbe9c5a08cc80fef61202ff0c637e50c5370679abc",
+        "owner_record_raw_sha256": "1661261c6d505fc2df3fa691ddce917990b51f9f88c45b1d9c65a8d6a863706e",
+        "reason": "Complete current page and full unique original owning record read. Actual ABC228 changed-clause certification explicitly covers repaired reason at a place and partner truth testimony, excluding the inherited Yemunft corruption. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-poseidon-equals-asc.md",
+          "before_sha256": "dcd66a36c5d34601215b80b78f7205d78235924d9b638c1ba8a25fa39a58dfc1",
+          "after_sha256": "391659fbf0b5cabb89be26771fad8cccc1922c2277df538c45c81ac79536ccc7",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF296, asc: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. ABC printed458/PDF228, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf296.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf228.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF296 complete Asc paragraph and ABC printed458/PDF228 complete eight-clause Asc row. Current English restores efforts, cultural surroundings, reasonable achievements, efforts of reason and partner testimony to truth; all added locators match. Earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf296.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf228.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+      "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+      "current_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 25,
+      "ledger_record_sha256": "6c187efb5aa3a1e0e6e589f59e6640232811e654c1b853728a5ad05ae8936ec8",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nA great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nbeginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, contain fire force, consolidated leadership force, consolidate goals of power, creative circulatory energy, and resistance against the production of force",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 295 (one-based).\n\nA great enterprise is started on a small scale with expedients. To lay the foundation for a great work.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 457; PDF page: 227 (one-based spread).\n\nBeginning strong depressions, blockage of leadership power, depressive leadership influence, restricted energy output, containing the power of fire, consolidated leadership strength, consolidating power goals, creative circulatory energy, and resistance to the generation of force or violence.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: A great enterprise is started on a small scale with expedients. To lay the Pee el foundation for a great work. Corrected: A great enterprise is started on a small scale with expedients. To lay the foundation for a great work.",
+          "Scan-backed ABC repair. Original: beginning of strong depressions, blockage of a leadership power, depressive leadership influence, restricted energy performance, contain fire force, consolidated leadership force, consolidate goals of power, creative circulatory energy, and resistance against the production of force Corrected: Beginning strong depressions, blockage of leadership power, depressive leadership influence, restricted energy output, containing the power of fire, consolidated leadership strength, consolidating power goals, creative circulatory energy, and resistance to the generation of force or violence."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [
+          "ABC printed457 schöpferische Kreislauf-Energie (creative circulatory energy) is not explained in the paragraph.",
+          "ABC Gewalt-Erzeugung permits force/violence wording; its precise intended sense remains contextual."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-admetos.md#witte-entry",
+            "reference": "PDF page 295 (one-based); visually inspected the exact glyph row and its boundaries.",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-admetos.md#abc-entry",
+            "reference": "ABC printed456–457, PDF page227 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-vulcanus-equals-admetos.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 25,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/zeus-admetos-vulcanus.md",
+            "text": "The retained hub qualification about the Witte Pee el fragment on Zeus/Vulcanus = Admetos remains current.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+        "page_sha256": "c256d9c027513dd16c68027e6361ce60167ba215563cc2b3c36b233c9397bcf7",
+        "owner_record_raw_sha256": "6c187efb5aa3a1e0e6e589f59e6640232811e654c1b853728a5ad05ae8936ec8",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte295 changed-prose certification covers Pee el fragment removal; actual ABC227 supports repaired full clauses. Creative circulatory energy and Gewalt sense remain genuine specific context limits. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-vulcanus-equals-admetos.md",
+          "before_sha256": "fa9632fc2e2dec27896e8e66eed190dcf6b3d848fe1a2cd4e6e084e7d11b05a9",
+          "after_sha256": "1b2a0f3d330289a74bff60c437fb5e222e474efbaac4b9b5c5ca4cc447631e61",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, admetos: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, admetos: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": [
+          "ABC printed457 schöpferische Kreislauf-Energie (creative circulatory energy) is not explained in the paragraph.",
+          "ABC Gewalt-Erzeugung permits force/violence wording; its precise intended sense remains contextual."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF295 entire admetos glyph row and ABC printed457/PDF227 entire 9-clause admetos row. Witte foundation phrase has no Pee el fragment; ABC depressed beginnings and creative circulatory energy remain source-native. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Depressions and creative circulatory energy are attributed literal source language; no diagnosis or physiological mechanism is inferred.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+          "The precise Gewalt force-or-violence sense remains contextual."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+      "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+      "current_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 26,
+      "ledger_record_sha256": "3afb4619768c4a6d7cea71d8ac6064fe02eece7b93bef34363559b7a1c11c80a",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nMighty expansion and success of peaceful efforts. Successful efforts in science, “a commerce, trades and industry.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nExpansion of a fiery force, influential achievements of science, successful energy achievements, successful leadership power, successful power performance, power experiences through leadership, strong leadership success, and extensive violence generation",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 295 (one-based).\n\nMighty expansion and success of peaceful efforts. Successful efforts in science, commerce, trades and industry.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 457; PDF page: 227 (one-based spread).\n\nExpansion of a fiery force, influential scientific achievements, successful energy output, successful leadership power, successful exertion of strength, experiences of power through leadership, strong leadership success, and extensive generation of force or violence.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: Mighty expansion and success of peaceful efforts. Successful efforts in science, “a commerce, trades and industry. Corrected: Mighty expansion and success of peaceful efforts. Successful efforts in science, commerce, trades and industry.",
+          "Scan-backed ABC repair. Original: Expansion of a fiery force, influential achievements of science, successful energy achievements, successful leadership power, successful power performance, power experiences through leadership, strong leadership success, and extensive violence generation Corrected: Expansion of a fiery force, influential scientific achievements, successful energy output, successful leadership power, successful exertion of strength, experiences of power through leadership, strong leadership success, and extensive generation of force or violence."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [
+          "ABC printed457 umfangreiche Gewalt-Erzeugung does not establish whether force or violence is intended; retained as a qualified range."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-apollon.md#witte-entry",
+            "reference": "PDF page 295 (one-based); visually inspected the exact glyph row and its boundaries.",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-apollon.md#abc-entry",
+            "reference": "ABC printed456–457, PDF page227 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-vulcanus-equals-apollon.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 26,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/zeus-apollon-vulcanus.md",
+            "text": "The retained hub qualification about the Witte quotation/token fragment before commerce on Zeus/Vulcanus = Apollon remains current.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+        "page_sha256": "6c467d116a5c97c99699edc41eb5c5153aa3746caea991fad69276ecc417e5e8",
+        "owner_record_raw_sha256": "3afb4619768c4a6d7cea71d8ac6064fe02eece7b93bef34363559b7a1c11c80a",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte295 changed-prose certification covers stray quotation/a before commerce; actual ABC227 supports force-or-violence qualified range, whose sense remains open. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-vulcanus-equals-apollon.md",
+          "before_sha256": "ebc0eeafe9be6408a6ad1350482fadc7d803bf70d230530aa6e1b714d6a537d2",
+          "after_sha256": "6aeb0eaae4778fcc4d53394d943e561116f02139956eedfd0ebf2c5b13245873",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, apollon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, apollon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": [
+          "ABC printed457 umfangreiche Gewalt-Erzeugung does not establish whether force or violence is intended; retained as a qualified range."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF295 entire apollon glyph row and ABC printed457/PDF227 entire 8-clause apollon row. Witte science/commerce sentence has no quotation/token fragment. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+          "The precise Gewalt force-or-violence sense remains contextual."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+      "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+      "current_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 27,
+      "ledger_record_sha256": "05e71f9d9777823ee34d3bbbf44672617a15276698adef55b0564df686b6c646",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nToconcentrate, to center all efforts for one purpose in cooperation with others. To direct the efforts of others to one goal.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluence of local leadership, local feucr administration, local violence, enormous part ners' efforts, partner's goal of power, powerful environmental services, creative power of local authority, strong local leadership, and partner's procreation power",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 295 (one-based).\n\nTo concentrate, to center all efforts for one purpose in cooperation with others. To direct the efforts of others to one goal.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 456; PDF page: 227 (one-based spread).\n\nInfluential local leadership, the power of fire at a place, influence of force or violence at a place, enormous efforts by partners, a partner's power goal, powerful achievements in the surroundings, the creative strength of a place, strong local leadership, and a partner's procreative power.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: Toconcentrate, to center all efforts for one purpose in cooperation with others. To direct the efforts of others to one goal. Corrected: To concentrate, to center all efforts for one purpose in cooperation with others. To direct the efforts of others to one goal.",
+          "Scan-backed ABC repair. Original: Influence of local leadership, local feucr administration, local violence, enormous part ners' efforts, partner's goal of power, powerful environmental services, creative power of local authority, strong local leadership, and partner's procreation power Corrected: Influential local leadership, the power of fire at a place, influence of force or violence at a place, enormous efforts by partners, a partner's power goal, powerful achievements in the surroundings, the creative strength of a place, strong local leadership, and a partner's procreative power."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [
+          "ABC printed456 Gewalt-Einfluß am Ort leaves the exact force/violence sense open."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-asc.md#witte-entry",
+            "reference": "PDF page 295 (one-based); visually inspected the exact glyph row and its boundaries.",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-asc.md#abc-entry",
+            "reference": "ABC printed456–457, PDF page227 (one-based spread).",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-vulcanus-equals-asc.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 27,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/asc-zeus-vulcanus.md",
+            "text": "Zeus/Vulcanus = Asc: ABC Entry retains damaged or suspect wording \"feucr\" and \"part ners\".",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+        "page_sha256": "13649fe907880f9c53a6542ad7ef108dda997a6c7e04da8a265f689a826fca7f",
+        "owner_record_raw_sha256": "05e71f9d9777823ee34d3bbbf44672617a15276698adef55b0564df686b6c646",
+        "reason": "Complete current page and full unique original owning record read. Actual ABC227 changed-clause certification covers fire power and partner clauses replacing feucr/part ners; contextual force/violence range preserved. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-vulcanus-equals-asc.md",
+          "before_sha256": "6cc66035da2e44f05efa08ad0efb97e4dde98ab74d523fd4ddf1e00c968f7738",
+          "after_sha256": "6b7471d5590824cfbfa354deb2fae488109df4ab86ae0f8a76ca8ebec681378f",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, asc: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed456/PDF227, asc: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": [
+          "ABC printed456 Gewalt-Einfluß am Ort leaves the exact force/violence sense open."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF295 entire asc glyph row and ABC printed456/PDF227 entire 9-clause asc row. To concentrate spacing and ABC fire power, partner efforts and procreative power are restored. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits.",
+          "The precise Gewalt force-or-violence sense remains contextual."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+      "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+      "current_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 39,
+      "ledger_record_sha256": "e63d5708a4b3f05314b38c4e35cde6516707b8b62ba44a30e2f7a180e50c0105",
+      "original_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\nPotent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\nInfluenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, spiritual leadership power, intellectual design power, tremendous cultural effort, creative culture power, and power of power as creative power",
+      "current_source_entries": "### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures\n\n#### Witte Entry\n\n- PDF page: 295 (one-based).\n\nPotent intellectual or spiritual work, great creations of this kind. Conclusive evidence. Demonstrated mental faculties. Impressive proofs. Powerful documents.\n\n### Udo Rudolph - ABC for Planetary Pictures\n\n#### ABC Entry\n\n- Source page: 457; PDF page: 227 (one-based spread).\n\nInfluential spiritual leadership, influential cultural achievements, insightful leadership strength, fiery spiritual energy, spiritual leadership strength, spiritual shaping power, enormous cultural effort, creative cultural power, and truth as a creative force.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities.",
+          "Scan-backed Witte repair. Original: Potent intellectual or spiritual work, great creations of this kind. Conclusive. : EN eae evidence. Demonstrated mental faculties. Impressive proofs. Powerful. _- She ee documents. 24 Re es aries Corrected: Potent intellectual or spiritual work, great creations of this kind. Conclusive evidence. Demonstrated mental faculties. Impressive proofs. Powerful documents.",
+          "Scan-backed ABC repair. Original: Influenced spiritual leadership, influential cultural achievements, insightful leadership power, fiery spiritual energy, spiritual leadership power, intellectual design power, tremendous cultural effort, creative culture power, and power of power as creative power Corrected: Influential spiritual leadership, influential cultural achievements, insightful leadership strength, fiery spiritual energy, spiritual leadership strength, spiritual shaping power, enormous cultural effort, creative cultural power, and truth as a creative force."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch.",
+          "Visually inspected the full oriented source paragraph and glyph boundary in the durable scan."
+        ],
+        "unresolved": [],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-poseidon.md#witte-entry",
+            "reference": "PDF295 (one-based); exact full glyph row visually checked.",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          },
+          {
+            "passage": "wiki/activations/zeus-vulcanus-equals-poseidon.md#abc-entry",
+            "reference": "ABC printed456–457, PDF227 (one-based spread); full glyph row visually checked.",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf"
+          },
+          {
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+            "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+            "passage": "wiki/activations/zeus-vulcanus-equals-poseidon.md#abc-entry"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 39,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/triads/zeus-vulcanus-poseidon.md",
+            "text": "The retained hub qualification about the Witte EN eae / She ee / 24 Re es aries fragments on Zeus/Vulcanus = Poseidon remains current.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+        "page_sha256": "315fce3354270fa5d65d1fdec62b44a84ad593a455663e9e680f782ceebf890d",
+        "owner_record_raw_sha256": "e63d5708a4b3f05314b38c4e35cde6516707b8b62ba44a30e2f7a180e50c0105",
+        "reason": "Complete current page and full unique original owning record read. Actual Witte295 changed-prose certification covers the complete conclusive-evidence/faculties/proofs/documents paragraph and removal of EN eae/She ee/24 Re es aries artifacts; ABC227 changed truth/influence clauses also verified. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-vulcanus-equals-poseidon.md",
+          "before_sha256": "da68c013eb1c9306d855d73d4edf255fbcf650640514084012d01375a6d3e5b6",
+          "after_sha256": "437259b6f34658cbe25a72d22ac8fa0cb939fcdff43cec89dc78f3a4354f58e3",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF295, poseidon: own glyph row, full passage/boundaries inspected. Changed prose/glyphs verified; unchanged inherited wording excluded. ABC printed457/PDF227, poseidon: full German row/folios/boundaries inspected. Every changed claim raw verified; unchanged inherited English excluded.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf295.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf028.png",
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-abc-pdf227.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": []
+      },
+      "independent_raw_check": {
+        "classification": "stale_flag_cleared_with_proof",
+        "scope": "Personally inspected WittePDF295 entire poseidon glyph row and ABC printed457/PDF227 entire 9-clause poseidon row. Witte conclusive evidence and powerful documents contain no extraction fragments; ABC ends truth as a creative force. Full baseline/current wording and both added exact locators match actual print; earlier verifier provenance preserved.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-witte-pdf295.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/activations-102-udo-pdf227.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    },
+    {
+      "path": "wiki/activations/zeus-zeus-equals-moon.md",
+      "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+      "current_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+      "ledger": "activations-102.jsonl",
+      "ledger_line": 55,
+      "ledger_record_sha256": "0a6196a52cad0baa9440659db2f8a7fb06bdc21d70861fd606588110f327d78e",
+      "original_source_entries": "#### Witte Entry\n\nA creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.",
+      "current_source_entries": "#### Witte Entry\n\n- PDF page: 287 (one-based), Moon glyph row.\n\nA creative mind. The hours of creative work. Discipline. Hot blooded woman. The martial nation. A woman who has children. Procreative faculty of female person. Institutions of general benefit created by the state. Inflammable. A people lined up.",
+      "full_unique_owner_record": {
+        "path": "wiki/activations/zeus-zeus-equals-moon.md",
+        "reviewer": "activation_review_089_103",
+        "full_read": true,
+        "status": "reviewed",
+        "outcome": "changed",
+        "problems": [
+          "Original synthesis copied fragments or introduced unsupported generalities; six schema categories and contradiction limits were absent or filler."
+        ],
+        "changes": [
+          "Wrote a connected interpretation of this exact formula with six source-grounded categories and a bounded contradiction assessment.",
+          "Added Identity route, local source-heading citations, explicit locators and immediate synthesis anchor; preserved source prose except any documented scan-backed repair, and canonical identities."
+        ],
+        "verification": [
+          "Read the complete current page, source blocks, links and corresponding manifest/evidence records.",
+          "Compared each new claim with this formula's local entries; excluded the damaged wording identified below.",
+          "Checked orientation, six schema labels, local heading citation targets and immediate anchor adjacency. Actual baseline diff inspected after batch."
+        ],
+        "unresolved": [
+          "Witte PDF287 Moon row contains the unqualified word Inflammable; its object is not identified."
+        ],
+        "evidence": [
+          {
+            "passage": "wiki/activations/zeus-zeus-equals-moon.md#witte-entry",
+            "reference": "Witte PDF page287 (one-based), exact activator glyph and full row visually checked.",
+            "scan": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-witte-pdf0287.png",
+            "source_file": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf"
+          }
+        ]
+      },
+      "closure_editor_decision": {
+        "path": "wiki/activations/zeus-zeus-equals-moon.md",
+        "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-102.jsonl",
+        "ledger_line": 55,
+        "reviewer": "/root/activation_review_079_083",
+        "status": "specific_prior_raw_certification_reused",
+        "new_review_count": 0,
+        "issues": [
+          {
+            "holder": "wiki/activations/zeus-zeus-equals-moon.md",
+            "text": "Witte PDF287 Moon row contains the unqualified word Inflammable; its object is not identified.",
+            "kind": "reported_damage_or_boundary",
+            "state": "changed_source_specific_hold_recheck"
+          }
+        ],
+        "source_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+        "page_sha256": "4a5eeb0f4cd854628f92e1ef70529dba83bfa07871713a83131dfcf92d8e780e",
+        "owner_record_raw_sha256": "0a6196a52cad0baa9440659db2f8a7fb06bdc21d70861fd606588110f327d78e",
+        "reason": "Complete current page and full unique original owning record read. Previous actual Witte287 certification specifically states Inflammable is printed with unspecified object. This precise physical/context finding is reused; locator-only approval is not treated as inherited-body certification. Current exact source hash equals the prior accepted hash. No canonical or original-record redo; no new page review count.",
+        "specific_prior_certification": {
+          "path": "wiki/activations/zeus-zeus-equals-moon.md",
+          "before_sha256": "db6151154fa052daf82c1c5be819b2fc4b4b89157a33adceb64e2eb8790c167b",
+          "after_sha256": "71967e22349b8ffecb05947d52db427f97a02b60cb50195c0e1d7a8b8bc198b3",
+          "ledger": "activations-102.jsonl",
+          "reason": "Complete original/current sources, delta and unique owner record read. Witte PDF287, moon: own glyph row, full passage/boundaries inspected. Locator verified; inherited prose excluded. Inflammable retained as printed; object unspecified.",
+          "evidence": [
+            "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-zeus-tnp-witte-pdf287.png"
+          ],
+          "verified_by": "/root/source_check_saturn"
+        },
+        "prior_artifact": "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-delegated-zeus-tnp-allowances.json",
+        "current_exact_match": true,
+        "unresolved": [
+          "Witte PDF287 Moon row contains the unqualified word Inflammable; its object is not identified."
+        ]
+      },
+      "independent_raw_check": {
+        "classification": "genuine_source_limit_confirmed_with_proof",
+        "scope": "Personally inspected WittePDF287 complete Moon glyph row: literal Inflammable has no stated object. All surrounding source sentences and added exact PDF/Moon-row locator match; this is a genuine printed limit, not OCR damage.",
+        "proof": [
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-witte-pdf0287.png",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-existing11-readcheckpoint.json",
+          "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-closure-D2-final15-scope.json"
+        ],
+        "limits": [
+          "Inflammable has no identified object; preserve the exact attributed word without inventing a physical, psychological or medical meaning. Historical gender/reproductive examples are attributed, not factual diagnosis.",
+          "Approval covers this exact source delta and flagged claim; unrelated inherited wording retains its native limits."
+        ]
+      }
+    }
+  ]
+}

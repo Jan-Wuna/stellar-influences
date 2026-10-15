@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = V`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Moon Jupiter Vulcanus](../triads/moon-jupiter-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
+- Source passage: PDF p. 136; Jupiter row checked visually.
+
+To cause public interest through one's own good fortune. To spread optimism around oneself. Dealing with optimistic women, to spend happy hours with them. To be fortunate with representatives of the public and with people having financial power.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-successes of an influential woman, successful influence of a people, financial power of the people, financial force of a woman, tremendous joy of the woman, legal influence of the woman, legal feeling of the woman, legal violence against a people, and strong feeling of luck
+- Source passage: printed p. 204; PDF p. 101.
+
+Successes of an influential woman, successful influence of a people, financial power of a people, a woman's financial strength, a woman's tremendous joy, a woman's legal influence, a woman's sense of justice, legal force exercised against a people, and a strong feeling of happiness.
+
+Editorial translation checked against the German scan and Jupiter row symbol.
+
+## Comparative Schema
+
+- core meaning: public influence meets good fortune, financial power, and success ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: optimism, tremendous joy, and a strong feeling of happiness are named.
+- body/health: neither entry supplies a specific health claim.
+- social/relationship: fortunate dealings with public representatives and financially powerful people are Witte's examples.
+- events/manifestations: success, financial strength, and happy shared hours illustrate favorable expression.
+- conflicts/notes: ABC also includes legal force against a people; lawful authority is not necessarily beneficial to those subjected to it.
+
+## Contradictions
+
+Witte's optimistic emphasis and ABC's legal force are different possibilities. The adverse potential of exercised authority prevents treating every instance of success or financial power as universally beneficial.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Jupiter`: Deeds which cause great public interest. A mighty nation in battle, making great efforts, developing great energies. To exercise great influence on male persons, or representatives of the public or armed authorities.
-- Practical expression: successes of an influential woman, successful influence of a people, financial power of the people, financial force of a woman, and tremendous joy of the woman.
+Jupiter specifies Moon/Vulcanus through fortunate, confident, or successful influence. [Witte](#witte-entry) connects public interest with good fortune and optimism, including favorable dealings with financially powerful people. [ABC](#abc-entry) adds financial strength, joy, and legal influence. Its legal-force example keeps the distinction between possessing effective power and using it beneficially for everyone.
 
 ## Links
 

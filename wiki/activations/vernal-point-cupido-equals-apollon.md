@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Vernal Point/Cupido = Apollon`
 - Astronomicon formula: `VP/¡ = ¥`
 - Axis page: [Vernal Point/Cupido](../axes/vernal-point-cupido.md)
@@ -36,19 +38,36 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-Associations. Associations in science, commerce, industry or art. A religious community in general.
+- Source reference: PDF page `48` (one-based); scanned activator row checked.
+
+Widespread associations. Associations in science, commerce, industry or art. A religious community in general.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Widder + Cupido`
+- Source reference: printed page `45`; PDF page `21` (one-based).
+
 #### ABC Entry
 
-Common Public Freedom, joint success in the public, common knowledge in the public, commercial community in the public, artificial knowledge in the public Life, and public Economic Community
+Shared public freedom, shared success in public, shared knowledge in public, a trading community in public, knowledge of art in public life, and a public economic community.
+
+## Comparative Schema
+
+- Core meaning: Public associations around shared fields and resources.
+- Psychology: Shared knowledge and freedom are ABC themes.
+- Body/health: No bodily condition is specified.
+- Social/relationship: Scientific, commercial, industrial, artistic, or religious associations.
+- Events/manifestations: Joint public success and economic communities.
+- Conflicts/notes: ABC's Kunst-Wissen concerns knowledge of art; the religious association remains Witte's particular example.
+
+## Contradictions
+
+No direct conflict appears; the types of association and the ABC's shared success/knowledge describe different aspects of public community.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Cupido = Apollon`: associations, associations in science, commerce, industry or art, and a religious community in general.
-- Practical expression: common Public Freedom, joint success in the public, common knowledge in the public, commercial community in the public, and artificial knowledge in the public Life.
+Apollon specifies `Vernal Point/Cupido` through widespread public associations around knowledge, commerce, industry, art, or religion. The [ABC entry](#abc-entry) adds shared freedom, success, knowledge of art, and economic community. The organizing theme is association around a common field or resource, with breadth explicitly stated by the [Witte entry](#witte-entry).
 
 ## Links
 

@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Cupido](../axes/mercury-cupido.md)
 - Triad hub: [Mercury Cupido Zeus](../triads/mercury-cupido-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Cupido`
+- Source locator: PDF p. `166` (complete oriented entry; scan checked; no printed page number visible).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ Conferences connected with the service. To be forced into a discussion. To be cr
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Cupido`
+- Source locator: printed p. `255`, PDF p. `126` (entry).
+- Text basis: raw PDF p. `126` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Effortful Community language, beginning of common language, joint training of young people, common youth objectives, joint creative language, young performance community, achievements of the media community, and creative language skills
+Demanding community conversations, the beginning of shared conversations, joint leadership of young people, common youth aims, shared creative conversations, a young achievement-oriented community, achievements of the media community, and creative verbal art.
+
+## Comparative Schema
+
+- core meaning: Group communication is organized around service, effort, or creative work.
+- psychology: The entry includes compulsion to discuss, not a general preference for debate.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Service conferences, joint youth leadership, and shared aims are named.
+- events/manifestations: Military instruction, forced discussion, artistic activity, and media achievements are recorded.
+- conflicts/notes: Service and military examples remain specific; creative activity need not take a military form.
+
+## Contradictions
+
+The entries supply different examples within this orientation; no direct contradiction is established, and repeated themes are not proof of independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Cupido = Zeus` directs the axis into service discussions, artistic activity, and compelled debate.
-- Chart expression: conferences tied to duty or service, being pushed into discussion, and creative energy in art matters expressed through instruction, direction, or disciplined organized effort.
+In `Mercury/Cupido = Zeus`, Zeus specifies Mercury/Cupido as organized or demanding communal communication. [Witte](#witte-entry) names service conferences, forced discussion, creative art activity, and military instruction; [ABC](#abc-entry) adds the start of shared conversations, common youth aims and leadership, and creative verbal art. Duty and creative production are both represented, without turning all group creativity into command.
 
 ## Links
 

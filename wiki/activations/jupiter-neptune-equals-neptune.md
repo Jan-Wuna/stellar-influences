@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Jupiter/Neptune = Neptune`
 - Astronomicon formula: `V/Y = Y`
 - Axis page: [Jupiter/Neptune](../axes/jupiter-neptune.md)
@@ -37,31 +39,31 @@ updated_at: 2026-05-06
 
 #### Munkasey Entry
 
+- Source reference: printed source page 266, Jupiter/Neptune With Itself, Neptune paragraph; retained printed-page locator, not a newly verified PDF page.
+
 Seeing events with a religious or holiness perspective; promoting inner ideas with strange or incomprehensible theories; showing others that there is a spiritual side to life, and a life beyond physical or earthly reality.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A religious or holiness-based view of events.
+- psychology: Inner ideas promoted through unusual or incomprehensible theories.
+- body/health: Physical reality is contrasted with spiritual belief; no bodily condition is named.
+- social/relationship: Showing others a spiritual side of life is the stated interpersonal expression.
+- events/manifestations: Promotion of theories and religious interpretations of events.
+- conflicts/notes: Single-source repeated-factor activation; source statements describe a perspective, not verified evidence of a supernatural realm.
 
 ## Contradictions
 
-- None recorded yet.
+The passage describes spiritual communication alongside strange or incomprehensible theories. It gives no second-source disagreement or criterion for deciding whether a theory is true.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Neptune = Neptune`: Seeing events with a religious or holiness perspective; promoting inner ideas with strange or incomprehensible theories; showing others that there is a spiritual side to life, and a life beyond physical or earthly reality.
+In `Jupiter/Neptune = Neptune`, the [Munkasey entry](#munkasey-entry) makes religious or spiritual interpretation the central perspective. Inner ideas are conveyed to others through theories that may be unfamiliar or difficult to understand, with an effort to show a dimension of life beyond the physical. This is a description of a worldview and its communication, not evidence establishing its supernatural claims. It remains a distinct repeated-factor orientation.
 
 ## Links
 
 - [Jupiter](../factors/jupiter.md)
-- [Neptune](../factors/neptune.md)
 - [Neptune](../factors/neptune.md)
 - [Jupiter/Neptune](../axes/jupiter-neptune.md)
 - [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../sources/michael-munkasey-midpoints-unleashing-the-power-of-the-planets.md)

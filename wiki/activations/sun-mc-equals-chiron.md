@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Chiron MC](../triads/sun-chiron-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 Your energy helps others to be more aware of spiritual forces, as well as imbu ing them with greater confidence in channeling that energy to the world. You have the power to trigger the awareness of spiritual purpose in others.
 
+## Comparative Schema
+
+- core meaning: Awakening spiritual purpose and confidence in others.
+- psychology: Confidence in bringing spiritual energy into expression.
+- body/health: The entry does not establish bodily healing.
+- social/relationship: The described influence is directed toward other people.
+- events/manifestations: Helping others recognize and express a spiritual purpose.
+- conflicts/notes: This is Sandbach’s sole, explicitly spiritual account.
+
+## Contradictions
+
+Only Sandbach is present, so a cross-source comparison is unavailable. The passage supports awareness and encouragement of others, without establishing a healing profession or a public career.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Chiron`: a life direction shaped by deeper meaning and a public path that serves healing or spiritual purpose.
+In `Sun/MC = Chiron`, Chiron specifies Sun/MC purpose through an influence that helps others recognize spiritual meaning. The [Sandbach Entry](#sandbach-entry) connects awareness of spiritual forces with greater confidence in expressing that energy in the world. Within this source’s spiritual vocabulary, the emphasis is awakening purpose in other people; the short entry does not establish a healing occupation or a prescribed life path.
 
 ## Links
 

@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Mars`
 - Astronomicon formula: `Q/¢ = U`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 Activities of servants. Close acquaintance through service persons. To be called for lower service or the armed service. Comradeship. Illicit or purchasable sex unions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Peaceful work service, dangerous work peace, dangerous love actions, harmony deficiency at work, secret love activity, traditional arts creation, renunciation of harmony actions, and preference for dangerous work
+- Source page: 284 (printed); PDF page: 141; scanned activator row checked.
+
+Peaceful work service, endangered peace at work, dangerous acts of love, lack of harmony at work, secret loving activity, traditional artistic creation, renunciation of harmonious actions, and a preference for dangerous work.
+
+## Comparative Schema
+
+- Core meaning: Service and troubled affection become activity.
+- Psychology: Secret loving activity and a preference for dangerous work.
+- Body/health: No medical claim; sexual union is historical source material.
+- Social/relationship: Comradeship and acquaintances through service.
+- Events/manifestations: Armed service, traditional art, and threatened workplace peace.
+- Conflicts/notes: Occupational service and illicit sex are different source expressions.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Occupational service and illicit sex are different source expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Mars`: activities of servants.
-- Practical expression: peaceful work service, dangerous work peace, dangerous love actions, harmony deficiency at work, and secret love activity.
+Mars specifies Venus/Hades through activity performed in service or under difficult conditions of affection. Work may bring comradeship and traditional artistic creation, yet peace at work can be endangered. Witte's armed-service and sexual-union examples extend this range without making any service occupation evidence of illicit conduct. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

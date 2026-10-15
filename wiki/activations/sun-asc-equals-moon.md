@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Triad hub: [Sun Moon Asc](../triads/sun-moon-asc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -45,7 +47,9 @@ Social intercourse and physical relations with women.
 
 #### ABC Entry
 
-Other people's lives, affluent personal environment, affluent man's partner, body of the partner, local centre for Miltter, people of other people, personal partner of the woman, day - hour - place, and woman and man as partner
+Source locator: printed page 100 / PDF page 49, Moon glyph under Aszendent + Sonne. English translation checked against the complete row.
+
+Feelings of other people, feelingful personal surroundings, feelingful male partner, feeling the partner's body, local center for mothers, persons of other peoples, the woman's personal partner, day - hour - location, and woman and man as partners.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +74,21 @@ Fostering feelings of closeness to others; uncertainty over how others feel abou
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Feeling-mediated relationships and the need for meaningful recognition.
+- psychology: Mood affects self-presentation; closeness can coexist with uncertainty about others' feelings.
+- body/health: Witte mentions physical relations with women; this is not a health diagnosis.
+- social/relationship: Closeness, purposeful relationships, and the sources' explicit female associations.
+- events/manifestations: Joint activity and the attempt to occupy a meaningful role.
+- conflicts/notes: ABC's feelings, mothers and male/female partnership examples retain the source's gendered scope; they do not establish a rule for all relationships.
 
 ## Contradictions
 
-- None recorded yet.
+Closeness and uncertainty are compatible experiences; the entries do not assert a universal gender rule.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Moon`: popularity, immediacy, and the capacity to make one's inner state palpable to others. Main caution: subjectivity: mood, sensitivity, or bodily reactivity can distort judgment and make identity too dependent on circumstance.
+Moon specifies the Sun/Asc axis through feelings about contact, recognition, and belonging. The [Ebertin entry](#ebertin-entry) makes attitudes toward others depend on feeling, and [Sandbach](#sandbach-entry) connects purposeful self-presentation with mood and a need for a meaningful role. [Munkasey](#munkasey-entry) adds closeness alongside uncertainty about how one is received. Witte and Ebertin also specifically mention relationships with women; that historical gendered emphasis remains theirs rather than a rule for every relationship.
 
 ## Links
 

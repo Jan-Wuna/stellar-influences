@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Hades](../axes/mars-hades.md)
 - Triad hub: [Mercury Mars Hades](../triads/mercury-mars-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,10 +46,24 @@ Impediment in one’s speech. To run across, to meet, forbidden stupidity. Abusi
 
 Dangerous work in transport, dangerous actions of young people, dangerous thought work, lack of work for young people, news about criminal activity, harmful work reports, and talk about dirty work
 
+## Comparative Schema
+
+- core meaning: Thought, speech and reports concern harmful or difficult activity.
+- psychology: Witte names damaging and criminal thoughts; obsession is not stated.
+- body/health: Speech impediment appears in Witte as historical doctrine, not a diagnosis.
+- social/relationship: Abusive words and conversations about dirty work are explicit.
+- events/manifestations: Dangerous transport work, youth work shortage and crime news are ABC settings.
+- conflicts/notes: Witte's printed “forbidden stupidity” remains unclear and is excluded from synthesis; the severe thought examples do not establish intention or behavior.
+
+## Contradictions
+
+Witte emphasizes harmful thought and speech; ABC also includes reporting on danger or crime. Describing harmful activity is distinct from intending it.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Hades = Mercury`: corrupted communication, obsessive harmful ideas, and thought patterns that dwell on injury, crime, or ruin instead of repair.
+Mercury specifies the Mars/Hades axis through thought and communication about difficult or harmful activity. [Witte](#witte-entry) names abusive speech and damaging or criminal thoughts; [ABC](#abc-entry) also includes crime news, adverse work reports and conversations about dirty work. Reporting danger is distinct from wishing to cause it. The severe Witte examples remain attributed source language and do not establish an individual's intent, behavior or diagnosis.
+
+Evidence: Witte PDF p. 198 (printed p. 202); ABC printed p. 310, PDF p. 154. The scan confirms Witte's unclear “forbidden stupidity” wording.
 
 ## Links
 

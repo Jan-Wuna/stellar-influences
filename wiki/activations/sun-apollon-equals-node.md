@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Node Apollon](../triads/sun-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Many and far-reaching connections, with successes through them.
 
@@ -42,13 +46,27 @@ Many and far-reaching connections, with successes through them.
 
 #### ABC Entry
 
+Source locator: printed page 166; PDF page 82 (one-based).
+
 Meeting with people masses, relationships with experienced persons, successful personal relationships, contacts with people of science, personal experiences in relationships, and personal freedom in a relationship
+
+## Comparative Schema
+
+- core meaning: Success through numerous or far-reaching personal connections.
+- psychology: Personal experience is gained in relationships; no fuller inner portrait is supplied.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Successful relationships, experienced contacts, scientists and personal freedom within a bond.
+- events/manifestations: Meeting crowds and benefiting through wide connections.
+- conflicts/notes: Many connections and freedom within a relationship are separate details; neither establishes a particular formal union.
+
+## Contradictions And Comparison Notes
+
+The entries overlap in successful connections. ABC adds the people involved, collective scale and personal freedom within a relationship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Node`: success in unions and successful meeting.
-- Practical expression: meeting with people masses, relationships with experienced persons, successful personal relationships, contacts with people of science, and personal experiences in relationships.
+For `Sun/Apollon = Node`, success is linked to the reach and experience of one's connections. [Witte](#witte-entry) describes many far-reaching ties and success through them; [ABC](#abc-entry) specifies experienced people, scientists, crowds and successful personal relationships. ABC also retains personal freedom within a bond. The entries therefore connect accomplishment with a wide human network while preserving room for individual freedom within its relationships.
 
 ## Links
 

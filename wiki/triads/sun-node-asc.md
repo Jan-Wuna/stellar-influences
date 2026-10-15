@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Node/Asc = Sun](../activations/node-asc-equals-sun.md)
-- [Sun/Asc = Node](../activations/sun-asc-equals-node.md)
-- [Sun/Node = Asc](../activations/sun-node-equals-asc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Node/Asc = Sun](../activations/node-asc-equals-sun.md) | [Node/Asc](../axes/node-asc.md) | [Sun](../factors/sun.md) |
+| [Sun/Asc = Node](../activations/sun-asc-equals-node.md) | [Sun/Asc](../axes/sun-asc.md) | [Node](../factors/node.md) |
+| [Sun/Node = Asc](../activations/sun-node-equals-asc.md) | [Sun/Node](../axes/sun-node.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Node/Asc = Sun`: Michael, page `356`
-- `Sun/Asc = Node`: Michael, page `96`
-- `Sun/Node = Asc`: Michael, page `92`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Node/Asc = Sun`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/node-asc-equals-sun.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/node-asc-equals-sun.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/node-asc-equals-sun.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/node-asc-equals-sun.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/node-asc-equals-sun.md#munkasey-entry), printed p. `356`.
+- `Sun/Asc = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-asc-equals-node.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-asc-equals-node.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-asc-equals-node.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-asc-equals-node.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-asc-equals-node.md#munkasey-entry), printed p. `96`.
+- `Sun/Node = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/sun-node-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/sun-node-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/sun-node-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/sun-node-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/sun-node-equals-asc.md#munkasey-entry), printed p. `92`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

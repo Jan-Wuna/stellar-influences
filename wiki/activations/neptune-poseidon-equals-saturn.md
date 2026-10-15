@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Poseidon = Saturn`
 - Astronomicon formula: `Y/¨ = W`
 - Axis page: [Neptune/Poseidon](../axes/neptune-poseidon.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `254` (entry start; one-based).
+
 #### Witte Entry
 
 Education on psychological basis.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `407`, PDF p. `202` (entry).
+
 #### ABC Entry
 
-Focus on culture refinement, problems caused by spiritual weakness, creeping mental disturbances, refined spiritual maturity, losses caused by exchanged truth, uncertainty of a straitened mind, and impoverished cultural tasks
+Concentration on cultural refinement, problems through weakness of mind, creeping disturbances of mind, refined mental maturity, losses through pretended truth, uncertainty of a disturbed mind, and future cultural tasks
+
+## Comparative Schema
+
+- core meaning: psychologically based education and cultural or mental refinement alongside difficulty.
+- psychology: concentration, maturity, uncertainty, and problems of mind are explicit.
+- body/health: ABC's disturbed-mind language is historical, not a clinical finding.
+- social/relationship: loss through pretended truth is stated without a particular relationship setting.
+- events/manifestations: future cultural tasks and psychological education are named.
+- conflicts/notes: Witte's brief education claim does not establish a method for judging hidden motives or restructuring intuition.
+
+## Contradictions
+
+Witte gives psychological education without elaboration. ABC adds both refined maturity and disturbances or losses through pretended truth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Poseidon = Saturn`: Education on psychological basis.
-- Practical focus: disciplines subtle perception through sobering mental structure and psychological education. It tends to turn intuition or spiritual sensitivity toward serious inner study, reflective judgment, and a more defined understanding of hidden motives.
-- Practical expression: focus on culture refinement, problems caused by spiritual weakness, creeping mental disturbances, refined spiritual maturity, and losses caused by exchanged truth.
+In Neptune/Poseidon = Saturn, education and refinement are considered alongside difficulty in understanding. [Witte](#witte-entry) gives the brief phrase education on a psychological basis; [ABC](#abc-entry) adds concentrated cultural refinement, maturity, disturbed thought, and losses through pretended truth (printed p. 407, PDF p. 202). These support a bounded comparison of learning and difficulty without supplying a psychological method or diagnosis.
 
 ## Links
 

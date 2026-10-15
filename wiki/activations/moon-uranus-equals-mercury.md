@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Moon/Uranus](../axes/moon-uranus.md)
 - Triad hub: [Moon Mercury Uranus](../triads/moon-mercury-uranus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Mentally active women. News of exciting events. Excited thinking. Thinking people.
 
+Source locator: PDF p. 127.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Autgeregtes people by news, dynamic impulses of a woman, excited young woman, talk under excited GemOtern, news about unrest in the people, reform by female youth, and tense talk with the woman
+A people excited by news, dynamic impulses of a woman, excited young woman, conversations among excited people, news about unrest among the people, reform through female youth, tense conversations with a woman, speaking about emotional impulses.
+
+Translation checked against the German scan: printed p. 186, PDF p. 92, Mercury row. The final phrase about emotional impulses was missing from the former English entry.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Autgeregtes people by news, dynamic impulses of a woman, excited young woman, ta
 
 Intuition, a person with ideas, suggestive thought power, great mental activity. A thinking woman. Sudden cognition and perception, a surprise, sudden news.
 
+Source locator: printed p. 129, entry 0388.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The need to speak freely about how one is feeling. Experiencing stress in the nervous system due to sudden changes in emotions. The need to experiment when one communicates. A sudden flood of ideas that occurs periodically, and the need to be open to these and attentive to these.
+
+Source locator: PDF pp. 33–34, Mercury entry; checked across the page break in the PDF text.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,23 @@ Education to gain electrical, mechanical, or astrological skills; a sharper abil
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- **Core meaning:** Excited thinking, sudden ideas or news, and free expression of feeling ([Witte](#witte-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry)).
+- **Psychology:** Intuition and strong mental activity; Sandbach adds periodic floods of ideas and communication experiments.
+- **Body/health:** Sandbach attributes nervous-system stress to sudden emotional changes; this remains a source claim, not a diagnosis.
+- **Social/relationship:** Tense or animated conversations, discussing emotional impulses, and conveying innovative insights ([ABC](#abc-entry); [Munkasey](#munkasey-entry)).
+- **Events/manifestations:** Unexpected news, reports of public unrest, technical education, practical flexibility, and tool dexterity.
+- **Conflicts/notes:** The entries support mental excitement and communication; they do not establish contrarianism or exceptional brilliance as a fixed trait.
 
 ## Contradictions
 
-- None recorded yet.
+Sudden insight and stressful excitation have different evaluations but can coexist. Technical skill and expressive freedom add practical emphases; the entries present no direct contradiction requiring either benefit or strain to be discarded.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Uranus = Mercury`: intuitive brilliance, inventive communication, and the ability to articulate changing emotional patterns rapidly. Main caution: overstimulation: thinking and feeling can become too jumpy, erratic, or contrarian to settle clearly.
+Mercury specifies Moon/Uranus through the exchange between excited feeling, thought, and communication. News can arouse people, or sudden perceptions and ideas can seek expression: this is explicit in [Witte](#witte-entry), [ABC](#abc-entry), and [Ebertin](#ebertin-entry). [Sandbach](#sandbach-entry) adds the need to speak freely about feelings and to attend to a sudden flood of ideas.
+
+[Munkasey](#munkasey-entry) gives the inventive side a practical form in technical learning, convincing expression, flexible solutions, and dexterity. Sandbach's stress claim preserves a limit to the excited pace without turning the whole orientation into a medical or personality label.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `¡/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Printed page: `274`; PDF page: `270` (complete bold pair paragraph checked against actual scan).
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Multiplying. Expansion or extension of a community. Widespread artistic or scien
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `430`; PDF page: `214` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Community expansion, successful community, common knowledge, handds community, artificial success, artificial knowledge, artistic freedom, community knowledge, and economic community
+German pair summary (transcribed from printed page `430`; PDF page `214`):
+
+> Ausdehnung einer Gemeinschaft, erfolgreiche Gemeinschaft, gemeinsames Wissen, Handels-Gemeinschaft, Kunst-Erfolge, Kunst-Wissen, künstlerische Freiheit, Synthese der Wissenschaften, Gemeinschafts-Wissen, Wirtschafts-Gemeinschaft
+
+Editorial translation from the German passage: Expansion of a community, successful community, shared knowledge, trading community, artistic successes, knowledge of art, artistic freedom, synthesis of the sciences, community knowledge, economic community.
+
+## Comparative Schema
+
+- Core meaning: The enlargement and extension of communal life, including artistic, scientific, and economic association ([Pair Summary](#pair-summary), [ABC Pair Summary](#abc-pair-summary)).
+- Psychology: Sociability and shared knowledge are represented; an individual personality profile is not supplied.
+- Body/health: These summaries name no bodily condition or treatment.
+- Social/relationship: Large families, school classes, and the company of many people exemplify expanded association.
+- Events/manifestations: Art associations, scientific success, consumers' unions, and groups representing economic interests are explicit examples.
+- Conflicts/notes: Expansion of association includes distinct artistic, scientific, trading, and economic expressions; the pair list does not establish a separate individual temperament.
 
 ## Related Activations
 
@@ -106,8 +125,9 @@ Community expansion, successful community, common knowledge, handds community, a
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon`: enlarged association: large families, broad communities, school classes, scientific or artistic circles, economic unions, widespread sociability, and collective life growing in reach and representation.
-- Chart expression: multiplying membership, communal extension, art and science in organized form, and groups that become socially, commercially, or intellectually influential. It can show broad networked families, professional or research societies, unions of economic interest, and a life lived among many. Liabilities: sprawl, superficial association, organizational diffusion, and collective identity growing faster than cohesion or trust.
+`Cupido/Apollon` describes association growing in size and reach. Large families, school classes, widespread sociability, and artistic or scientific societies express the same movement toward being part of a wider company. Economic associations and consumers' unions give that shared activity a practical form ([Pair Summary](#pair-summary)).
+
+The ABC themes connect that expansion with shared knowledge, a successful community, trading association, artistic success and freedom, synthesis of the sciences, and economic community ([ABC Pair Summary](#abc-pair-summary)).
 
 ## Links
 

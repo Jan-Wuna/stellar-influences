@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Sun`
 - Astronomicon formula: `Q/¢ = S`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 To find oneself in a low position and dependence. To succumb to prostitution. Sexual weakness of the body. An old but beautiful body.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Danger for the man through love, dangerous preference of the man, harmony deficiency with the man, corporal love service, personal love care, personal preference for secrets, beauty of an old body, and renunciation of a person for love
+- Source page: 284 (printed); PDF page: 141; scanned activator row checked.
+
+Danger to the man through love, a dangerous preference of the man, lack of harmony with the man, bodily service in love, personal sorrow in love, a personal preference for secrets, the beauty of an old body, and a person's renunciation of love.
+
+## Comparative Schema
+
+- Core meaning: A person experiences dependence, love-sorrow, and aging beauty.
+- Psychology: Secrets and renunciation.
+- Body/health: Sexual weakness is Witte's historical claim, not a diagnosis.
+- Social/relationship: Dependence and difficult or dangerous love.
+- Events/manifestations: An old but beautiful body; bodily service in love.
+- Conflicts/notes: Male and prostitution examples remain attributed, not personal conclusions.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Male and prostitution examples remain attributed, not personal conclusions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Sun`: to find oneself in a low position and dependence.
-- Practical expression: danger for the man through love, dangerous preference of the man, harmony deficiency with the man, corporal love service, and personal love care.
+Sun specifies Venus/Hades through the person's bodily and relational experience of dependence or sorrow. Love may be dangerous, secret, or renounced, yet beauty in an old body remains explicitly valued. Witte's sexual weakness and prostitution examples remain historical source claims rather than diagnoses or judgments of the person. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

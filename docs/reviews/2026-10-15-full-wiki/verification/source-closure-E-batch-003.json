@@ -1,0 +1,450 @@
+{
+  "batch": "closure-E-003",
+  "reviewer": "/root/activation_review_035_038",
+  "count": 18,
+  "scope": "Queue indices46–63, final18 targets in ceded editor partition axes001–012. Flagged source paragraphs and original-record amendments only; untouched blocks outside proof scopes are not newly certified.",
+  "hash_contract": "LF normalized Source Entries to next level-two heading, trailing HTML anchors removed, strip; SHA256 utf8. File raw bytes; unique record normalized line.",
+  "targets": [
+    {
+      "path": "wiki/axes/mc-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p41.png"
+      ],
+      "raw_locators": [
+        "ABC printed84/PDF41, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "9fa930b8ab7a08a7583b7ded8cb67c56a0967b5ee457b1c1a2952d74614e790e",
+      "original_source_sha256": "4735cf9b5d91bce50b493256a828df28b4fb7352874d7a45c2a9ab39625cb224",
+      "before_closure_file_sha256": "c63b8610090f109690554cf4bc35ba7763c5884038f01b93daf8a42b86fdea70",
+      "unresolved": [],
+      "after_source_sha256": "f89a3d856d64e5ef54f465fc82be194770de4f6f7eac4fb6885c70b300bf9af3",
+      "after_file_sha256": "9faaa48fec3d87365ee593b44375af07854c0f37a9a44e2f2304ce995d157e6a",
+      "owner_record_line": 5,
+      "owner_record_sha256": "c68f6c65d4edebcd5edc6509365d2cca3cdb29da8cadd7a84ea06b9962eee766",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mc-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p42.png"
+      ],
+      "raw_locators": [
+        "ABC printed86/PDF42, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "7faba5e229aafafb59ce419046ae6450960b85f9fe8de1fc49a072cd1c9f6148",
+      "original_source_sha256": "7b7818b87758347b3d00f98f357318b4f470f123d0778d7156eef3dfaf6e8c34",
+      "before_closure_file_sha256": "32d41837ed4857755f20a3fb7ddcd473b4775d1fe5d5c9890f43c7dc400c8480",
+      "unresolved": [],
+      "after_source_sha256": "b66d77fb5f805110f593e8f69acbf67249f468b15718a3b8de42ea81f62d9aad",
+      "after_file_sha256": "c4f157f0d90a408e8148388c4001218c41f66a91072a7dc0a96e0d8ab2595b54",
+      "owner_record_line": 6,
+      "owner_record_sha256": "9392b593fa75af9da7d7ae0eb15ff40b0ac1825c0f0c410fe6f4ad267303b3c1",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mc-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p44.png"
+      ],
+      "raw_locators": [
+        "ABC printed90/PDF44, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "5fad36fe97f24e45c631dcde9c55f8016988d045f5da880ae087ce99c6324b5e",
+      "original_source_sha256": "ffbb6b2af456bebd5a2d2c9a400c81d78c51121c5d6d18f3b1cbfd4d1882145e",
+      "before_closure_file_sha256": "66ca9912729dca98c31913f5ab37225614fc374fcd74a1d4102f9a576417c4a5",
+      "unresolved": [],
+      "after_source_sha256": "0b2c44948b50c18c9245231b93f5d97a057d1f878d5afd73cc735b82736b7ad8",
+      "after_file_sha256": "6c52d8c5b1552c653bd742f191e4b9ddde5d816ed9199fb3edede70a0f6a0590",
+      "owner_record_line": 7,
+      "owner_record_sha256": "0ef7f9464c3b7981738afe732277a8ea357563519efbf8bae05094e87507057e",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mc-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-009.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p48.png"
+      ],
+      "raw_locators": [
+        "ABC printed98/PDF48, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "ed24d42eaf9f6c1afee068f8f7debcf51869fc8ddc15c7d09cb7e60ba15461a0",
+      "original_source_sha256": "58085c443c343c4e18aaef12466b8f27c1840601e2481e1de8db3bd57693b365",
+      "before_closure_file_sha256": "8f0a1c8cffb787b5d86ad562fab6bd0e06054cbe80535c7d84601fc14d144598",
+      "unresolved": [
+        "ABC Geist-Seele and Vergeistigung remain the source's spiritual vocabulary without an explained metaphysical mechanism."
+      ],
+      "after_source_sha256": "3596c9c97b6522c38d11133b31b74a5a944fe6241374582d65c3b66a23340a69",
+      "after_file_sha256": "4f8ca0e9e62b7d07ab8d1234f7bf876b0c763c083dcaf40cbd849c79eaf10c55",
+      "owner_record_line": 9,
+      "owner_record_sha256": "9ac0b6db44b5efa279027d591f7beb0a42916a5894698e31377bbd97b7792b77",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-admetos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p131.png"
+      ],
+      "raw_locators": [
+        "ABC printed264/PDF131, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "0483bb521992adda01d1780d287a3c05b8e9458d6fbf1b868c228f1b799f61fd",
+      "original_source_sha256": "a5afdc31326af2c746b59412ed29c03b04346e761da72c495bce66b20b157d68",
+      "before_closure_file_sha256": "6c2abc69177645e2a247a0a63eecb2142b6a09f42a25a43f6382ae3bf2a85635",
+      "unresolved": [
+        "ABC depressive and depressed wording is source vocabulary and supplies no clinical diagnosis."
+      ],
+      "after_source_sha256": "8a84019f1fdd12859ca83534df636f288554c72f3b20f0fd773a6469d6b0cec9",
+      "after_file_sha256": "58bfcd2764bdec5a50e9bb55649ffa4902d66e7049a8672959c266c7d7cc804e",
+      "owner_record_line": 2,
+      "owner_record_sha256": "8943b232ae943709ec12726a9a5c1ed52e0de2424dc3acdbd31b7f365c55f8d1",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-apollon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p130.png"
+      ],
+      "raw_locators": [
+        "ABC printed262/PDF130, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "5b42557741fcb430de63e8d1b1b750dbb69ca54ed4078d3c292348eea1190e88",
+      "original_source_sha256": "3d2c55f05c2eb3782aca6e24e3f44b13a6d490c23a1d7b8de3e5675d96b6d645",
+      "before_closure_file_sha256": "0743c6af8e0f64449c14faad06b999918afccba60dc189b06a1b1c50f13e0428",
+      "unresolved": [],
+      "after_source_sha256": "66ebe94ab2a80c29c61d62228f4ef0749efd598d7ec1cded63e0f0f6a4742268",
+      "after_file_sha256": "343eb1bcf89b78849935428a5dfbcb5935473f71088de504b9738b70d060b33b",
+      "owner_record_line": 3,
+      "owner_record_sha256": "5f80443c9088d476b53166f45859194dbe00b825737b75d95fc9a621a21667b3",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-cupido.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p126.png"
+      ],
+      "raw_locators": [
+        "ABC printed254/PDF126, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "346b43930b8d6398f0c69001c4146b85d6c57da7ae9f3554dcc2d3d2e6e8392e",
+      "original_source_sha256": "a948c7662a7a1bc32d2c94570e8e77fcf446abb75763a6868c92c3b3009c93a7",
+      "before_closure_file_sha256": "b739d463587eee78faebbf6a188daf5bd257fc6117d1bc6476ab22314e19af77",
+      "unresolved": [],
+      "after_source_sha256": "bbddd0a780e75904a2f9d0c964816fff321b5217cceb644147dea203f0ef9552",
+      "after_file_sha256": "32413b82bc3bd0091411ac09cbc74ba31bc3af69a2b933693c9f4724980a739d",
+      "owner_record_line": 6,
+      "owner_record_sha256": "12729d6deba98d71617d7e933473049bbb8c408e3279aa9055dc238a31aa20a3",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-hades.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p127.png"
+      ],
+      "raw_locators": [
+        "ABC printed256/PDF127, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "fdaa666dc948906db2999fe6bf615ae3ce7f4a4900caf4f331d678579aa5be8e",
+      "original_source_sha256": "71d4dc050a0feb8aa67dba2b226421cf953713e4e2888399420eb8f5c0f6ef49",
+      "before_closure_file_sha256": "3b4c2209c335bf4c946c7e2b316b2da7c96393c23a815ef0ae873d2bca64db19",
+      "unresolved": [],
+      "after_source_sha256": "e099d0fb326332565ee8b406de41f133f555c3494b5ddaab33a219a3dd64bc1e",
+      "after_file_sha256": "f24f2186209cefb88a3fdb2f42893c51d09fa1c370a9d7b74734087d58005459",
+      "owner_record_line": 7,
+      "owner_record_sha256": "cfe6f13cc14f14e1abea7fa07def4cc07f70eba0755b2f455c90074145c4d18b",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-jupiter.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p121.png"
+      ],
+      "raw_locators": [
+        "ABC printed244/PDF121, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "8583e78707333a579d9583efd411972d787c6de54e16b826d9c8a49cbb3f055b",
+      "original_source_sha256": "9ef5881d992d1a3b90ffaefc6ed50e557c738c3ec959322efd37e0f95257bf0c",
+      "before_closure_file_sha256": "15f18627e769d85333aa685ad7398f5cc16744da697b638aced375cdc31baf21",
+      "unresolved": [],
+      "after_source_sha256": "761868ea640c0cb1c5690c7907f7bafc29fc9c1ce7a1d002ca7f24cc483c065d",
+      "after_file_sha256": "b3b09a217d0ded9ca0967d114de2c255f537510765157c2c38ab9c5c913f3e01",
+      "owner_record_line": 8,
+      "owner_record_sha256": "d6a30b223d8a38bc8ad9369812cd07c254ca9ea4dad7d33eb0292e492686d2c3",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-kronos.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p129.png"
+      ],
+      "raw_locators": [
+        "ABC printed260/PDF129, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "df3df23b81fb07740593e17a485c65fe44bec71760283677fe17a3e56cee8dbe",
+      "original_source_sha256": "0d7a120405a45e26604e0adfabac11de6a281f5b65752ceb015292e5771c8d0c",
+      "before_closure_file_sha256": "485b120a3b447d8acd59086e4677324a4de0714abf94ec8d741baf26401c9913",
+      "unresolved": [],
+      "after_source_sha256": "bad9d56bfd3b35bf6ef5193a0b7d397b4ced600b1be2fa975fd9c256a71139df",
+      "after_file_sha256": "01c5fd80176829a26a0bab025d0ad95b792c5b0e2031b1e6719c5807dc479b50",
+      "owner_record_line": 9,
+      "owner_record_sha256": "22011347ee6cdbae1025a0f0933081edb031f12f3df033ce4b6b763f23ff6f80",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-mars.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-010.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p120.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p204.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-hand-p205.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-munkasey-p152.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p150.png"
+      ],
+      "raw_locators": [
+        "ABC printed242/PDF120, complete bold pair list",
+        "Hand PDF204–205 cross-page self-assertion; Munkasey printed151/PDF152 actual repeated wording; Ebertin printed148/PDF150 exact pair boundary"
+      ],
+      "before_closure_source_sha256": "28ee90d4036678b439601f429bdc61d4890fbdbb17c94ce94a92f7b94f770b1f",
+      "original_source_sha256": "e7b1b1ebbb66ead872e4ffc2cc184bf99d19862fa854941a4af1a71a8cfc595f",
+      "before_closure_file_sha256": "563badd28130e3f409cd54a9096f5303680766a8de52342e4427ed7b8997c91c",
+      "unresolved": [
+        "Munkasey printed151/PDF152 genuinely repeats 'sense of sense of smell'; this is retained source wording."
+      ],
+      "after_source_sha256": "a2ffd7c49a829bb3b6bb6bb3bb510b2d5c7f40571a6a7f0c71c3108a9b9483ae",
+      "after_file_sha256": "784282e50b5829b9d073de3db0711b459e245747eda5a0f1be4b84f577cd465a",
+      "owner_record_line": 10,
+      "owner_record_sha256": "438b983eeb76ad24570832223dd14c853e863a7a5eab6510a76d9861da261e51",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-mc.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p33.png"
+      ],
+      "raw_locators": [
+        "ABC printed68/PDF33, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "bda661d75dd692150f72a273f4e8f8adbc5c437d4beac1ffaad772aa513a6e86",
+      "original_source_sha256": "5313c8fbb31db70cd9f3d65f8958d63a12b9922463ad5d18d48495228209ee6b",
+      "before_closure_file_sha256": "104be3799c2211a71bed94b1ce4aeb19a11f722aaf2418abe41719ca8da2eb18",
+      "unresolved": [
+        "Ebertin printed172 and Sandbach PDF53 remain chapter-start locators; this bounded ABC repair does not certify all claim pages in those entries."
+      ],
+      "after_source_sha256": "cec425a224d51d47f81d6fd3a8823cf42886c830c4fb80b54ad59baca4da81f9",
+      "after_file_sha256": "016f08ea12d4fc780dc4495009756138c5464b5cbaee85a537491336b11d3135",
+      "owner_record_line": 1,
+      "owner_record_sha256": "9c9b306800214135434ca5674befd7b4298015f6453b0e3df660e5dd362f6c8f",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-neptune.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p124.png"
+      ],
+      "raw_locators": [
+        "ABC printed250/PDF124, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "7a7b692930f678537aa034d205d1c404f08303652fa76f78faddf0047da0fe57",
+      "original_source_sha256": "739f9d1941c3bb17fc92c5d91b8147c8ac7206af944f2b3be488a59a2e5e7a62",
+      "before_closure_file_sha256": "06d2d089f84f36771d917243e1b432b0d5456f636578191ce4c42ff6438fe576",
+      "unresolved": [
+        "Other authors' chapter-start references are retained without new exact-passage certification by this ABC repair."
+      ],
+      "after_source_sha256": "9f5b3ef037923ba044e0d1ff0b4c878637ae35c39c1b2d68a9d25ae2846cb85c",
+      "after_file_sha256": "12c28ce38052f6fd9245fe465cc780adfd2b588fb777452ee7f7df7047f7c0e3",
+      "owner_record_line": 3,
+      "owner_record_sha256": "2638e12b327ad997b674db3101d23b56d4a5d0b8fada0771f3a6273bc29c8086",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-node.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p103.png"
+      ],
+      "raw_locators": [
+        "ABC printed208/PDF103, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "eb5b5e5cd8f325f695b8c55f1f48a2e3e56bc289e7375c067baaf8fd38384eb1",
+      "original_source_sha256": "4e7dba40dde5e3e0aedb7038b7990ce51a7571d73a05469dc194d16f7da85a97",
+      "before_closure_file_sha256": "fe5a2b595a02e78e4198604211dfea9f0408e40c9f9b18abfda29691fbda1afb",
+      "unresolved": [
+        "Ebertin printed166 and Sandbach PDF51 remain chapter-start references outside this bounded ABC verification."
+      ],
+      "after_source_sha256": "d3e0b00d4ab428abdd5f64c287a2ad0482aba77a4027b346e59969a76269b9d3",
+      "after_file_sha256": "9b76b6ffd2e26e56c8bd3612dd38835750397acefe3fd7b27b37b65c90e857e6",
+      "owner_record_line": 4,
+      "owner_record_sha256": "6be679129769e6509380471f91bd7b6440de546dfbc260dce84e253d183693a1",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-pluto.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p125.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p165.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-falis-p42.png",
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-sandbach-p50.png"
+      ],
+      "raw_locators": [
+        "ABC printed252/PDF125, complete bold pair list",
+        "Ebertin printed163/PDF165; Falis PDF42 printed line-end hyphens; Sandbach PDF50 actual internal gaps"
+      ],
+      "before_closure_source_sha256": "2a3c40e17575dc0507857e7c030ef6f9dd1ab6cfdd709fe4f71a5051af4a06d0",
+      "original_source_sha256": "143d49a39af15b682d1dc095ac223ee3e78b438b553cd84ef84e26406bf91853",
+      "before_closure_file_sha256": "5f26618021cbc292e467744e66cf0436e2d7239d59b8e4af14beb99f0e817088",
+      "unresolved": [
+        "Sandbach PDF50 genuinely prints the internal spaces 'miscom munication' and 'de sire'; retained as printed artifacts."
+      ],
+      "after_source_sha256": "a7f84e816c3469cffde8c51eeaf30830d7a9354ecefdf68c6af46eae56e98350",
+      "after_file_sha256": "e6544f6e9cf0839ce6f6dbdd1d953aceebfd98b4c00ccdfe3117b19977a29988",
+      "owner_record_line": 5,
+      "owner_record_sha256": "1b7ae3d63d6cef69b1d5ebf6ad0c4a366020676fd29a4e3874add2966055c19c",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-poseidon.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p133.png"
+      ],
+      "raw_locators": [
+        "ABC printed268/PDF133, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "054be7d34a80377eeeacfee57c1c2b09ff2f25cee7bcab9c6b8e9087493547b8",
+      "original_source_sha256": "054be7d34a80377eeeacfee57c1c2b09ff2f25cee7bcab9c6b8e9087493547b8",
+      "before_closure_file_sha256": "673879f7155e40526c7cdb02e171735b8993d9c0bce4f92b7f2e986887c2a60e",
+      "unresolved": [
+        "Witte PDF173 remains a chapter-start audit locator; this ABC repair does not certify its precise pair passage."
+      ],
+      "after_source_sha256": "324a1c4a6ec059149884ff8eecb2a42ef0e29046416a6894df910352db71ae4d",
+      "after_file_sha256": "a4eab75c9154a4a68c795b42e3e954ea000ff77c61d142472aa86f0a22b2cf85",
+      "owner_record_line": 6,
+      "owner_record_sha256": "3f37a9800556220a69cc0d796365a035f170ca07d1ae4f163ec38c1348c6280e",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-saturn.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-011.jsonl",
+      "summary": "Personally scan-transcribed complete ABC bold pair list, repairing the flagged damaged translation and omitted clauses. Updated stale damage caveats and dependent prose, keeping all unrelated source blocks unchanged.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-udo-p122.png"
+      ],
+      "raw_locators": [
+        "ABC printed246/PDF122, complete bold pair list"
+      ],
+      "before_closure_source_sha256": "848b8efaa33ac0dda65001d2dea9d177808d22da17e08ad770e6f0146b779c11",
+      "original_source_sha256": "22a5bcfac861a8829aab1be7bed2a54f23e95c38ba04e076ae21dbb4afe5852e",
+      "before_closure_file_sha256": "145c8c470e0b49a15215a35a1d8e2880e060d6c174fe755b58e1a50286987e37",
+      "unresolved": [
+        "Other authors' chapter-start locators remain outside this bounded ABC repair."
+      ],
+      "after_source_sha256": "91273de22e9852c5e1a910f18bf1f54af2c17d068fc59329a65e906684de1522",
+      "after_file_sha256": "899c81edaa211fbed1a7fe7177a235088963dbbfe4fa52d639afbd0877ffd6ed",
+      "owner_record_line": 7,
+      "owner_record_sha256": "b1786b52dc9381e611dc69558528be8a5e588e2669bd6cc9a4e3fea3565c3894",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    },
+    {
+      "path": "wiki/axes/mercury-venus.md",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-012.jsonl",
+      "summary": "Removed only the falsely merged following Ebertin heading MercuryA/enus 5/9 after personally inspecting the complete pair scan; preserved all pair prose.",
+      "proofs": [
+        "docs/reviews/2026-10-15-full-wiki/verification/closure-E-ebertin-p147.png"
+      ],
+      "raw_locators": [
+        "Ebertin printed145/PDF147 exact pair prose boundary"
+      ],
+      "before_closure_source_sha256": "a81fab824350a6c803a0557e8b5b5230c51322da7a76ac0e41e9c8e08f6bad4e",
+      "original_source_sha256": "53039256c06e1de9cbd37dbcb9daa5d265cc17fb5e6a1317ba3666eb5772c415",
+      "before_closure_file_sha256": "a5de7c92d37543d5724642341fc7f923b309e878fcdeb56a45c83ba9d16d0ff4",
+      "unresolved": [],
+      "after_source_sha256": "41da57c51e686557120157dbe6c496691a2a8e04b8494c9c3c441b44f6049729",
+      "after_file_sha256": "231781ef534d7d40dab914cdb8d3d4dac098e6b9af9a34493dc6a5c2cff58cf4",
+      "owner_record_line": 2,
+      "owner_record_sha256": "d0474f03eb1518558c7cd6960abe91f56922e29c8808b403fe8a65adc537880f",
+      "scoped_check_failures": [],
+      "closure_reviewer": "/root/activation_review_035_038",
+      "scope": "Bounded source-quality closure E; existing completed original record amended without a new review count",
+      "status": "implemented_pending_independent_gate"
+    }
+  ]
+}

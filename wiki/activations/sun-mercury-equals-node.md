@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
 - Triad hub: [Sun Mercury Node](../triads/sun-mercury-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 Union of thought (a mental connection). To signal. To wink.
 
+Source locator: PDF p. 103, Sun/Mercury, Node entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Connecting thought and action, contact person in traffic, human contact language, personal language connection, personal connection with youth, connection to a media center, and center for news connections
+Connecting thought and action, a contact person in traffic, human contact conversations, a personal conversational connection, personal connection with youth, connection to a media center, and a center for news connections.
+
+Source locator: printed p. 142, PDF p. 70, Sun/Mercury, Node entry. Translation checked against the German row, including Kontakt-Gespräche and Gesprächs-Verbindung.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Connecting thought and action, contact person in traffic, human contact language
 
 The inclination to enjoy talking with people, the state of being united in thoughts with someone else. A good companion. Sociableness and entertainment, proceedings or discussions.
 
+Source locator: printed p. 82, coded entry 0203.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The need to allow oneself to embrace new ideas. The need to connect with others with whom one can share one’s ideas - and not just people who will superficially agree with you, but those who can help you to evolve your powers of thinking and communicating.
+
+Source locator: PDF p. 9, Sun/Mercury, complete Node entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Getting your messages to the right people; telling people what they want to hear
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Thought and communication forming connections with other people.
+- psychology: Openness to new ideas, shared thought and concern with communicating sincerity.
+- body/health: Winking and signaling are named without a health claim.
+- social/relationship: Companionship, discussion, reaching the right people and developing thought through exchange.
+- events/manifestations: Contact with youth or media centers, message transmission and information relevant to one's path.
+- conflicts/notes: Pleasing agreement and intellectual development are distinct; Sandbach explicitly asks for more than superficial assent.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin emphasize shared thought and companionship; ABC adds concrete contact and message settings. Munkasey includes telling people what they want to hear, whereas Sandbach asks for partners who develop thinking rather than merely agree. These are distinct communicative possibilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Node`: good companionship, shared mentality, and relationships built around humor, signaling, and intellectual rapport. Main caution: superficial agreement: the native may collect talk partners more easily than truly challenging or transformative exchanges.
+`Sun/Mercury = Node` makes communication a means of connection. [Witte](#witte-entry) gives mental union and signaling; [Ebertin](#ebertin-entry) adds enjoyment of conversation and companionship, while [ABC](#abc-entry) specifies conversational, youth and media links. [Munkasey](#munkasey-entry) focuses on reaching the right people and conveying sincerity, but also includes saying what others want to hear. [Sandbach](#sandbach-entry) supplies the distinction between superficial agreement and relationships that develop thought. The shared emphasis is exchange between people, with its value depending on more than the fact of assent.
 
 ## Links
 

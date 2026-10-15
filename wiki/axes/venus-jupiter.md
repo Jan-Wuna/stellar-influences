@@ -17,6 +17,7 @@ related_activations:
   - Venus/Jupiter = Chiron
   - Venus/Jupiter = Cupido
   - Venus/Jupiter = Hades
+  - Venus/Jupiter = Jupiter
   - Venus/Jupiter = Kronos
   - Venus/Jupiter = Mars
   - Venus/Jupiter = MC
@@ -29,6 +30,7 @@ related_activations:
   - Venus/Jupiter = Saturn
   - Venus/Jupiter = Sun
   - Venus/Jupiter = Uranus
+  - Venus/Jupiter = Venus
   - Venus/Jupiter = Vernal Point
   - Venus/Jupiter = Vulcanus
   - Venus/Jupiter = Zeus
@@ -75,12 +77,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Q/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/JUPITER`
-- Source page: `191`
+- Source heading: `VENUS + JUPITER`
+- PDF page: 177.
 
 #### Pair Summary
 
@@ -88,11 +92,17 @@ Lovers bliss. Rapture of joy. Goldsmiths. Well-balanced finances. Plump woman. H
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Jupiter`
+- Printed pages: `272-273`; PDF page: `135` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Success in Love, Financial Wishes, Peace Joy, Peace Success, Artistic Success, Love Happiness, Love for Money, and Beauty Advantage
+Success in love, financial wishes, joy in peace, success in peace, artistic success, happiness in love, legal peace, preference for money, and advantage through beauty.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 178; PDF page: 180.
 
 #### Principle
 
@@ -100,7 +110,7 @@ The joy of love, happiness in love.
 
 #### Psychological Correspondence
 
-+ A warm heart, grace, tact, attractive personality, ability to make oneself popular with others, harmonious relationships with others, an exceptionally good sense of form. - linclination to laziness, negligence, false conduct in love relationship, conceit, wastefuiness, excessive expression of feehng. C Sociable, popular, film star mannerisms.
++ A warm heart, grace, tact, attractive personality, ability to make oneself popular with others, harmonious relationships with others, an exceptionally good sense of form. - Inclination to laziness, negligence, false conduct in love relationship, conceit, wastefulness, excessive expression of feeling. C Sociable, popular, film star mannerisms.
 
 #### Biological Correspondence
 
@@ -112,7 +122,7 @@ People engaged to be married, artists.
 
 #### Probable Manifestations
 
-+ Tendency to gain popularity quickly. The stage of falling in love, becoming engaged or married, outward "happiness." - Disadvantages through wastefulness or too rich living, sickness; a love conflict. Venus/Jupiter Q/h
++ Tendency to gain popularity quickly. The stage of falling in love, becoming engaged or married, outward "happiness." - Disadvantages through wastefulness or too rich living, sickness; a love conflict.
 
 ### Michelle Falis - Planet Combinations: Astrological Brainstorms
 
@@ -164,6 +174,8 @@ The effect on health is probably slight, Venus afflictions may always cause indu
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
+- PDF page: 56 (Principle and Process).
+
 #### Principle
 
 Enthusiastic appreciation. Generosity in love. A generous display of feeling. To encourage and support the loved one. Luxury and lavishness, too much good food, too much spending. Money wasted. Many things of value come to you easily. One can become popular easily, but negatively other people may resent you or feel jealous because of your beauty, attractiveness, or because they think everything comes easily to you. To reach out too much to the loved one, creating a situation where one takes on more than one’s share of responsibility in the relationship.
@@ -173,6 +185,8 @@ Enthusiastic appreciation. Generosity in love. A generous display of feeling. To
 The expansion of one’s ability to love. The realization of the truth that the uni verse can provide endless abundance.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 206.
 
 #### Pair Delineation
 
@@ -213,25 +227,25 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 ### Hajo Banzhaf and Anna Haebler - Keywords for Astrology
 
 - Source section: `Venus-Jupiter: Happiness`
-- PDF page(s): `312`
+- PDF page(s): `312–313`
 
 #### Banzhaf/Haebler Aspect Keywords
 
 - archetype: The Artist and the Patron
 - shadow: The Vain Lady and the Pompous Fool
 - comparison: Concord Abundance Harmony Happiness Eroticism Morals Art Religion Beauty Nobility Sensuality Meaning Love Virtue Taste Value
-- general: Trust in love . Great and small happiness. Art or love as the revelation of meaning . Sense of beauty .
+- general: Trust (♃) in love (♀). Great (♃) and small (♀) happiness. Art (♀) or love (♀) as the revelation of meaning (♃). Sense (♃) of beauty (♀).
 - harmony: The Lucky Devil. Pleasant aura and good ability to make contacts. Optimistic, popular, warmhearted, enthusiastic, charming. Pampered by luck. Likes to give and win trust in personal contacts. Confidence in matters of love. Artistic talent. Cheerfulness.
 - discord: The Dissipater. Immoderate and reckless. Challenges one's good fortune, overestimating the streak of luck in the process. Goals that are set too high, exaggerated craving for recognition, and never being satisfied with what has been achieved. Extravagant demand to be pampered in one's love life. Very indolent, self-indulgent, conceited, and selfish.
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Expansive affection, generous appreciation and enjoyment of beauty, comfort and social life ([principle](#principle), [Hand](#pair-delineation), [Sandbach](#principle-1)).
+- psychology: Warmth, tact, optimism and grace of expression range into conceit, exaggeration or excess feeling ([psychological correspondence](#psychological-correspondence), [Carter](#harmonious-aspects), [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin supplies glandular and metabolic correspondences; Munkasey describes effects of indulgence and inactivity. Carter's longevity suggestion is a historical claim, alongside his caution about excess ([biological correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind), [Carter](#harmonious-aspects)).
+- social/relationship: Generosity, encouragement and popularity; lavish giving can become unequal responsibility or a demand to be pampered ([Sandbach](#principle-1), [aspect keywords](#banzhafhaebler-aspect-keywords)).
+- events/manifestations: Falling in love, engagement, artistic expression, financial enjoyment and prosperity; law, ethics and cultural exchange also recur ([pair summary](#pair-summary), [Falis](#falis-entry), [politics/business](#in-politics-or-business)).
+- conflicts/notes: Carter expressly qualifies the expectation of tranquility or marital happiness and disputes an automatic connection with indolence. Ease, excess and restless expression are possibilities rather than one fixed character ([harmonious aspects](#harmonious-aspects), [conjunction](#the-conjunction)).
 
 ## Related Activations
 
@@ -241,6 +255,7 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 - [Venus/Jupiter = Chiron](../activations/venus-jupiter-equals-chiron.md)
 - [Venus/Jupiter = Cupido](../activations/venus-jupiter-equals-cupido.md)
 - [Venus/Jupiter = Hades](../activations/venus-jupiter-equals-hades.md)
+- [Venus/Jupiter = Jupiter](../activations/venus-jupiter-equals-jupiter.md)
 - [Venus/Jupiter = Kronos](../activations/venus-jupiter-equals-kronos.md)
 - [Venus/Jupiter = Mars](../activations/venus-jupiter-equals-mars.md)
 - [Venus/Jupiter = MC](../activations/venus-jupiter-equals-mc.md)
@@ -253,21 +268,21 @@ The effects of indulgence on your body; accumulations of body fat; wasted muscle
 - [Venus/Jupiter = Saturn](../activations/venus-jupiter-equals-saturn.md)
 - [Venus/Jupiter = Sun](../activations/venus-jupiter-equals-sun.md)
 - [Venus/Jupiter = Uranus](../activations/venus-jupiter-equals-uranus.md)
+- [Venus/Jupiter = Venus](../activations/venus-jupiter-equals-venus.md)
 - [Venus/Jupiter = Vernal Point](../activations/venus-jupiter-equals-vernal-point.md)
 - [Venus/Jupiter = Vulcanus](../activations/venus-jupiter-equals-vulcanus.md)
 - [Venus/Jupiter = Zeus](../activations/venus-jupiter-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Carter's account limits a simple reading of happiness: he finds grace of expression more dependable than placidity or marital contentment, and rejects indolence as a universal result. The other entries also admit excess and difficulty, so their favorable themes should retain this qualification.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Jupiter` is the axis of abundant affection, pleasure, generosity, beauty, and social ease. It combines attraction, art, value, and harmony with growth, optimism, popularity, prosperity, and the desire to enjoy life on a larger scale.
-- Chart expression: love, grace, diplomacy, creativity, celebration, material or social good fortune, and the ability to charm, encourage, and attract goodwill. Liabilities: indulgence, vanity, laziness, wastefulness, inflated expectations, and the tendency to overdo pleasure, spending, or displays of affection and refinement.
+`Venus/Jupiter` enlarges appreciation: affection becomes generous, pleasure abundant and beauty something to enjoy or share. Warmth, tact and encouragement can bring popularity and ease in social life, while art, literature and graceful expression give feeling a cultural form. Enjoyment also reaches money, comfort, law, ethics and the search for meaning in love ([psychological correspondence](#psychological-correspondence), [Sandbach](#principle-1), [Carter](#harmonious-aspects), [Basic Ideas](#basic-ideas)).
+
+Expansion can outrun proportion. Lavish spending, exaggerated feeling, conceit or giving more than one's share can undermine the enjoyment or relationship they were meant to support. Carter's qualification matters here: grace and popularity can coexist with restlessness and an unhappy disposition or partnership. His [conjunction account](#the-conjunction) also rejects automatic indolence, while [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) retains distinct harmony/discord alternatives. The pair supports generous engagement and cultivated pleasure, with happiness depending on more than their abundance ([Sandbach](#principle-1), [inharmonious aspects](#inharmonious-aspects)). Witte's [goldsmithing and legal peace](#pair-summary) and Munkasey's [economic growth, law and foreign investment](#in-politics-or-business) extend the range beyond romance; no financial, medical or marital outcome is guaranteed, and each closing factor requires its own oriented activation.
 
 ## Links
 

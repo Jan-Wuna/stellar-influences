@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun MC Apollon](../triads/sun-mc-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To aspire with body and soul. To be successful.
 
 #### ABC Entry
 
-My successful man, my body flour, my personal success, my personal freedom, personal knowledge of the soul, mental experiences in the body, the psychic breadth of the man, and the science of body and soul
+Source: ABC printed p. 63, supplied PDF p. 30, Meridian + Sonne, Apollon row (eight clauses). Translation from the German scan:
+
+My successful man; my bodily fullness; my personal success; my personal freedom; personal knowledge of the soul; experiences of the soul in the body; the man's inner breadth; the science of body and soul.
+
+Körper-Fülle means bodily fullness here; the row gives no more specific bodily condition.
+
+## Comparative Schema
+
+- core meaning: Wholehearted aspiration and personal success.
+- psychology: Personal freedom and knowledge of inner experience in ABC.
+- body/health: ABC names bodily fullness without specifying a medical condition.
+- social/relationship: No distinct relationship pattern is established.
+- events/manifestations: Success or inquiry into body and soul.
+- conflicts/notes: Public recognition is not stated in these two entries.
+
+## Contradictions
+
+No direct contradiction is evident. ABC's bodily fullness is a broad source phrase; it does not establish a medical condition or physiological mechanism.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/MC = Apollon`: distinguished success and public recognition.
-- Practical expression: my successful man, my body flour, my personal success, my personal freedom, and personal knowledge of the soul.
+In `Sun/MC = Apollon`, Apollon specifies the Sun/MC relation of body and inner life through wholehearted aspiration and success. The [Witte Entry](#witte-entry) explicitly joins aspiring with body and soul to being successful; the [ABC Entry](#abc-entry) adds personal freedom, inner experience, and study of body and soul. The organizing theme is personal development and attainment pursued as a whole person. These entries do not specifically establish public recognition.
 
 ## Links
 

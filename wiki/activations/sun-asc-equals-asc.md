@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Asc](../axes/sun-asc.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Helps make you more aware of your effect on other people and what their needs an
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Awareness of one's effect on others and of their needs and reactions.
+- psychology: Attention to interpersonal responses and available human resources.
+- body/health: No bodily condition is supplied by this entry.
+- social/relationship: Motivating people or using the people resources available to oneself.
+- events/manifestations: Interpersonal motivation and engagement are described; no particular external event is specified.
+- conflicts/notes: This particular “With Itself” paragraph concerns effects on others; the repeated-Sun paragraph separately concerns conscious self-expression.
 
 ## Contradictions
 
-- None recorded yet.
+Only one source passage is present, so no cross-source agreement or disagreement can be established here.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Asc = Asc`: Helps make one more aware of one's effect on other people and what their needs and reactions are; an interest in the reactions and needs of others; motivating or using the people resources which are available to one.
+For `Sun/Asc = Asc`, [Munkasey's “With Itself” entry](#munkasey-entry) places attention on the effect one has on other people: their needs and reactions become part of how one engages or motivates them. Awareness and the use of available human resources are connected here, rather than presented as separate traits. This particular paragraph supplies an interpersonal focus without a bodily claim or a specific event; its wording remains distinct from the repeated-Sun paragraph.
 
 ## Links
 

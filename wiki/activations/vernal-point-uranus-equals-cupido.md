@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Cupido](../triads/vernal-point-uranus-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 To marry suddenly.
 
@@ -42,13 +46,29 @@ To marry suddenly.
 
 #### ABC Entry
 
+- Source page: 39; PDF page: 18 (one-based spread).
+
 Excited communities in public, shared renewals of public life, shared rhythm in public, reform communities in public, and impulses of synthesis in public
+
+## Comparative Schema
+
+- core meaning: Collective excitement and shared renewal.
+- psychology: A shared rhythm or impulse toward synthesis.
+- body/health: No explicit bodily or health claim in these entries.
+- social/relationship: Excited communities, reform groups and sudden marriage.
+- events/manifestations: Joint changes in public life and abruptly formed unions.
+- conflicts/notes: Witte’s marriage is a specific example within ABC’s broader communal field.
+
+## Contradictions
+
+Witte gives sudden marriage; ABC gives public communities and shared reforms. These differ in scale rather than directly disagreeing.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Cupido`: to marry suddenly.
-- Practical expression: shared renewals of public life, shared rhythm in public, and impulses of synthesis in public.
+`Vernal Point/Uranus = Cupido` connects public excitement with people acting or joining together. ABC describes communities sharing renewal, rhythm and reform; Witte’s sudden marriage gives a specific example of union occurring abruptly. ([ABC](#abc-entry), [Witte](#witte-entry))
+
+The common thread is a shared response to change, whether in a reform community or a newly formed personal union. ABC’s synthesis impulses support collective coordination without implying that every public group produces a marriage. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

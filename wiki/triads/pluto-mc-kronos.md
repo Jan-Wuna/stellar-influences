@@ -28,27 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Pluto MC Kronos`
 - Astronomicon triad-set: `Z MC ¤`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [MC/Kronos = Pluto](../activations/mc-kronos-equals-pluto.md)
-- [Pluto/Kronos = MC](../activations/pluto-kronos-equals-mc.md)
-- [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [MC/Kronos = Pluto](../activations/mc-kronos-equals-pluto.md) | [MC/Kronos](../axes/mc-kronos.md) | [Pluto](../factors/pluto.md) |
+| [Pluto/Kronos = MC](../activations/pluto-kronos-equals-mc.md) | [Pluto/Kronos](../axes/pluto-kronos.md) | [MC](../factors/mc.md) |
+| [Pluto/MC = Kronos](../activations/pluto-mc-equals-kronos.md) | [Pluto/MC](../axes/pluto-mc.md) | [Kronos](../factors/kronos.md) |
 
 ## Source Coverage
 
-- `MC/Kronos = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `73`
-- `MC/Kronos = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `91`
-- `Pluto/Kronos = MC`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `260`
-- `Pluto/Kronos = MC`: Udo Rudolph - ABC for Planetary Pictures, page `414`
-- `Pluto/MC = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `69`
-- `Pluto/MC = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `83`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `MC/Kronos = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/mc-kronos-equals-pluto.md#witte-entry), one-based PDF entry-start p. `73`.
+- `MC/Kronos = Pluto`: [Udo Rudolph - ABC for Planetary Pictures](../activations/mc-kronos-equals-pluto.md#abc-entry), printed p. `91`.
+- `Pluto/Kronos = MC`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-kronos-equals-mc.md#witte-entry), one-based PDF entry-start p. `260`.
+- `Pluto/Kronos = MC`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-kronos-equals-mc.md#abc-entry), printed p. `414`.
+- `Pluto/MC = Kronos`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-mc-equals-kronos.md#witte-entry), one-based PDF entry-start p. `69`.
+- `Pluto/MC = Kronos`: [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-mc-equals-kronos.md#abc-entry), printed p. `83`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Kronos = Pluto`: deepens the axis through the desire to dominate and develop mastery.
-- `Pluto/Kronos = MC`: This activation emphasizes personal development toward authority; The native grows into greater responsibility or rank.
-- `Pluto/MC = Kronos`: This activation emphasizes the native grows into authority, higher demands or tested capability.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

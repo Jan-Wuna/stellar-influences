@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Vulcanus Poseidon`
 - Astronomicon triad-set: `V § ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Poseidon = Vulcanus](../activations/jupiter-poseidon-equals-vulcanus.md)
-- [Jupiter/Vulcanus = Poseidon](../activations/jupiter-vulcanus-equals-poseidon.md)
-- [Vulcanus/Poseidon = Jupiter](../activations/vulcanus-poseidon-equals-jupiter.md)
+- [Jupiter/Poseidon = Vulcanus](../activations/jupiter-poseidon-equals-vulcanus.md): base axis [Jupiter/Poseidon](../axes/jupiter-poseidon.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Jupiter/Vulcanus = Poseidon](../activations/jupiter-vulcanus-equals-poseidon.md): base axis [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md); activator [Poseidon](../factors/poseidon.md).
+- [Vulcanus/Poseidon = Jupiter](../activations/vulcanus-poseidon-equals-jupiter.md): base axis [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Poseidon = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
-- `Jupiter/Poseidon = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `347`
-- `Jupiter/Vulcanus = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `217`
-- `Jupiter/Vulcanus = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `345`
-- `Vulcanus/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `315`
-- `Vulcanus/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `478`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Poseidon = Vulcanus](../activations/jupiter-poseidon-equals-vulcanus.md#witte-entry) (PDF entry-start p. 218); [Jupiter/Vulcanus = Poseidon](../activations/jupiter-vulcanus-equals-poseidon.md#witte-entry) (PDF entry-start p. 217); [Vulcanus/Poseidon = Jupiter](../activations/vulcanus-poseidon-equals-jupiter.md#witte-entry) (PDF entry-start p. 315).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Poseidon = Vulcanus](../activations/jupiter-poseidon-equals-vulcanus.md#abc-entry) (printed p. 347); [Jupiter/Vulcanus = Poseidon](../activations/jupiter-vulcanus-equals-poseidon.md#abc-entry) (printed p. 345); [Vulcanus/Poseidon = Jupiter](../activations/vulcanus-poseidon-equals-jupiter.md#abc-entry) (printed p. 478).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Vulcanus`: winning through better judgment or for good reasons.
-- `Jupiter/Vulcanus = Poseidon`: happiness through clear intelligence, righteous understanding, principled belief, and mentally or spiritually guided strength.
-- `Vulcanus/Poseidon = Jupiter`: Happiness and joy over honour and dignity that one possesses. Happiness and joy at the prestige one enjoys.
+Jupiter, Vulcanus and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Jupiter/Vulcanus](../axes/jupiter-vulcanus.md)
+- [Vulcanus/Poseidon](../axes/vulcanus-poseidon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Vulcanus](../factors/vulcanus.md)
 - [Poseidon](../factors/poseidon.md)

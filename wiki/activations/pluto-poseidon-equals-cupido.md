@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Poseidon](../axes/pluto-poseidon.md)
 - Triad hub: [Pluto Cupido Poseidon](../triads/pluto-cupido-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 264 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ To develop in cooperation with others a different outlook on life, a political d
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 423; PDF page 210 (one-based; exact activator row checked).
+
 #### ABC Entry
 
-Community policy, economic and social cohesion, economic and monetary union, and economic union
+Editorial translation (checked against the scan): Mental/spiritual synthesis development, shared mental/spiritual development, jointly growing reason, cultural changes in a community, a community for cultural development, growing clarity in a community.
+
+## Comparative Schema
+
+- core meaning: A shared change of worldview or collective mental/spiritual development.
+- psychology: Developing shared understanding, reason, and clarity.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Cooperation in a community or cultural-development group.
+- events/manifestations: Development of a philosophy or political doctrine and cultural changes within a community.
+- conflicts/notes: Shared conviction does not establish the truth of the doctrine.
+
+## Contradictions
+
+The entries connect cooperation with changing outlook and culture. The corrected ABC row does not concern monetary union.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Poseidon = Cupido`: to develop in cooperation with others a different outlook on life, a political doctrine or philosophy.
-- Practical expression: community policy, economic, social cohesion, monetary union, and economic union.
+Cupido specifies Pluto/Poseidon through a worldview developed with others. The [Witte entry](#witte-entry) names cooperation in forming a different outlook, political doctrine, or philosophy; the [ABC entry](#abc-entry) describes shared mental/spiritual development, growing reason, cultural change, and clarity within a community. The unity lies in developing understanding together, while the validity of any resulting doctrine remains unestablished.
 
 ## Links
 

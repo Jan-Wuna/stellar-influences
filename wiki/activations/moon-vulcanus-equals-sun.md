@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `R/§ = S`
 - Axis page: [Moon/Vulcanus](../axes/moon-vulcanus.md)
 - Triad hub: [Sun Moon Vulcanus](../triads/sun-moon-vulcanus.md)
+- [Read the interpretation](#derived-synthesis)
 
 ## Source Entries
 
@@ -36,19 +37,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To cause public interest through others, or others cause public interest for the native. To experience great events with others. Being connected with others through great events and having together great influence on the public, to meet these people socially.
+- Source passage: PDF p. 136; Sun row checked visually.
+
+The man who causes public interest. The daily repeating forceful events. The daily being together with people of public interest and influence.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential people of the people, masculine influence, power of the woman over the man, power of the man over the woman, power centre of a people, strong feelings of the man, strength between woman and man, and hour of the power of the man
+- Source passage: printed p. 204; PDF p. 101.
+
+Influential members of a people, a man's emotional influence, a woman's power over a man, a man's power over a woman, a people's centre of power, a man's strong feelings, strength between woman and man, and an hour of a man's strength.
+
+Editorial translation checked against the German scan and Sun row symbol.
+
+## Comparative Schema
+
+- core meaning: power appears through a publicly noticeable person and recurring forceful events ([Witte](#witte-entry), [ABC](#abc-entry)).
+- psychology: ABC names a man's emotional influence and strong feelings.
+- body/health: neither entry provides a medical claim.
+- social/relationship: daily contact with influential people and power between woman and man are source examples.
+- events/manifestations: recurring forceful events and a collective centre of power are stated settings.
+- conflicts/notes: the entries' gendered examples do not establish fixed power roles for men and women.
+
+## Contradictions
+
+The public-person and interpersonal examples differ in scale, without explicit opposing claims. ABC names power in both directions between woman and man rather than assigning it to one sex alone.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Vulcanus = Sun`: To cause public interest through others, or others cause public interest for the native. To experience great events with others. Being connected with others through great events and having together great influence on the public, to meet these people socially.
-- Practical expression: influential people of the people, masculine influence, power of the woman over the man, power of the man over the woman, and power centre of a people.
+Sun specifies Moon/Vulcanus through a person who embodies influence and through recurring contact with public power. [Witte](#witte-entry) gives a man attracting public interest and daily forceful events; [ABC](#abc-entry) adds strong feelings, collective power centres, and power operating in both directions between woman and man. These are concrete historical examples of embodied influence, not fixed rules about gender.
 
 ## Links
 

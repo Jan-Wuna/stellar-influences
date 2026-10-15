@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Asc`
 - Astronomicon formula: `Y/Asc = Asc`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -33,7 +35,7 @@ updated_at: 2026-05-06
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/ASCENDANT With Itself`
-- Source page: `338`
+- Source reference: printed p. `338` (entry).
 
 #### Munkasey Entry
 
@@ -41,22 +43,21 @@ Adds to language barriers which prevent you from understanding fully all of the 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: difficulty understanding others through language, alongside masquerade and subtle impressions.
+- psychology: attention to subtle impressions coexists with deceptive practices or illusions.
+- body/health: the entry supplies no bodily or health claim.
+- social/relationship: language barriers obstruct understanding others' attitudes and concerns.
+- events/manifestations: elaborate masquerades that mirror reality are Munkasey's explicit example.
+- conflicts/notes: this repeated-pair formula has one source and no distinct three-factor triad; its claims are not independently corroborated here.
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey is represented. Noticing subtle impressions and misunderstanding through language coexist within the entry; neither is presented as a cure for the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/Asc = Asc`: Adds to language barriers which prevent one from understanding fully all of the attitudes and concerns of others; elaborate masquerades relying on deceptive practices or illusions to mirror reality; notices subtle impressions.
+In Neptune/Asc = Asc, the repeated Asc brings the pair's concern with appearances and understanding into an explicit account of language barriers and masquerade. The [Munkasey entry](#munkasey-entry) describes incomplete understanding of others' attitudes, elaborate illusions that mirror reality, and notice of subtle impressions (printed p. 338). These are connected themes of perception and presentation, but sensitivity is not said to overcome misunderstanding. This is a single-source repeated-pair entry, without an additional triad orientation to merge into it.
 
 ## Links
 

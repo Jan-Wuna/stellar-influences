@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Sun`
 - Astronomicon formula: `R/T = S`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Brain, nerves and glandular functions. A man’s young wife. The daily plan. The daily office hours. The schedule.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `176`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Woman and man speaking, Gcspragc about women's bodies, fatherly thinking man, young man's wife, media center for the people, opinions of women, civil youth center, and day news for dac; people
+Woman and man in conversation, conversations about women's bodies, a man who thinks with feeling, a man's young wife, media center for the people, opinions of female persons, female youth center, and daily news for the people
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0327`.
 
 #### Ebertin Entry
 
 Thinking on biological lines, good intellectual powers, realistic thinking. Association or contact with the public, a man's relationship to young women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Your ability to sincerely relate to ordinary people thru your communications; yo
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: bringing emotional thought into conscious, meaningful communication and practical daily life ([Sandbach](#sandbach-entry), [Ebertin](#ebertin-entry), [Witte](#witte-entry)).
+- psychology: awareness of mood's influence on thought accompanies realistic thinking and analysis of emotional needs.
+- body/health: Witte names brain, nerves, and glandular functions; ABC includes conversations about women's bodies. These are attributed associations, not diagnoses.
+- social/relationship: communication with ordinary people, intimate thoughts, and the source's gendered relationship examples are explicit.
+- events/manifestations: schedules, daily office hours, writing about ancestral homes, and a public media center are examples.
+- conflicts/notes: the German Sun entry says a man thinks with feeling, not fatherly thinking; historical gender examples do not define a universal relationship pattern.
 
 ## Contradictions
 
-- None recorded yet.
+The entries do not state a direct contradiction. Biological and scheduling examples, realistic thought, and awareness of emotional subjectivity have different emphases; none requires treating a mood-colored thought as either always true or always mistaken.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Sun`: lively responsiveness, communicative self-definition, and a strong link between personal presence and feeling-informed intelligence. Main caution: subjectivity in self-expression: identity can become too tied to mood, opinion, or immediate reaction.
+In Moon/Mercury = Sun, Sun specifies the Moon/Mercury pair through meaningful expression and conscious attention to how feeling enters thought. [Sandbach](#sandbach-entry) describes ideas brought to light by intimate communication, feeling vitalized by it, and noticing how moods color thinking. [Munkasey](#munkasey-entry) adds sincere communication with ordinary people and analysis of one's own or others' emotional needs (p. 104).
+
+The [Witte entry](#witte-entry) retains a practical and bodily range: schedules, daily office hours, brain, nerves, and glandular functions. [Ebertin](#ebertin-entry) includes realistic and biological thinking. These particular associations broaden the formula beyond personal expression without establishing a diagnosis or a general claim about identity.
 
 ## Links
 

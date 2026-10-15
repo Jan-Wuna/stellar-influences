@@ -64,11 +64,16 @@ updated_at: 2026-05-04
 
 - Axis: `Moon/Apollon`
 - Astronomicon axis: `R/¥`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON + APOLLON`
+- PDF page (one-based): `134` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Experience. Many hours. Multitude of a people. Spreading of a people. Many natio
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `200–201`; PDF page (one-based): `99` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Expansion of a people, population growth, successful woman, womentrade, freedom of a people, freedom feelings, hour of success, many women, and people economy
+Expansion of a people, population growth, a successful woman, trade in women, freedom of a people, feelings of freedom, knowledge of feelings, hour of success, many women, national economy.
+
+## Comparative Schema
+
+- core meaning: Breadth of experience, numbers and collective life: many hours, women, people or nations.
+- psychology: Generosity, foresight, feelings of freedom and knowledge of feelings occur explicitly; the pair summaries do not describe a corresponding negative personality.
+- body/health: Population growth is collective; no individual illness, anatomy or fertility conclusion is supplied.
+- social/relationship: Multitudes, many nations and many women emphasize wider social scope; ABC also names a successful woman and freedom of a people.
+- events/manifestations: Expansion, population growth, many hours, success and the national economy are explicit motifs.
+- conflicts/notes: ABC literally includes trade in women, a distinct source expression that cannot be silently made generic commerce. Diffusion or overextension is not stated in either pair summary; success and freedom are possibilities, not guaranteed outcomes.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Expansion of a people, population growth, successful woman, womentrade, freedom 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Apollon` is the axis of experience spread across many hours, many women, many nations, multitudes, population growth, and broad collective feeling.
-- Constructively it supports foresight in groups, generous public disposition, successful women, people's economy, and the expansion or freedom of a people.
-- Its liability is diffusion: feeling can become impersonal, scattered across too many people or interests, or measured only by size, popularity, and increase.
-- Activations specify the channel through which this mass or population field expands, succeeds, trades, learns, or becomes overextended.
+`Moon/Apollon` widens experience across time, people and collective life. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) explicitly joins experience and many hours with multitudes, many women and many nations, adding generosity and foresight in groups. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) develops expansion and population growth alongside successful women, a people's freedom, feelings of freedom and knowledge of feelings. Breadth therefore includes both the scale of a population and what is learned or felt through experience.
+
+Success and the national economy give the pair public and economic expressions, while “many hours” retains a simpler meaning of duration. ABC's literal “trade in women” is a separate, troubling expression in its list; it should neither disappear into generic commerce nor define the whole pair. These short summaries do not establish an individual health condition, guarantee success or freedom, or describe a general liability of emotional diffusion. More particular circumstances belong to the separate [activation pages](#related-activations).
 
 ## Links
 

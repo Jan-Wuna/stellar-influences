@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Asc MC](../triads/venus-asc-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ To be in love with someone. To give preference for a certain place to be located
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `70`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-Bcselter Place the art, I love my partner, I like the environment, inner peace at the place, my preference for a place, soul harmony with the partner, soul fricde of the partner, and affection of my partner
+A soulful place of art, I love my partner, I love the surroundings, inner peace locally, my artistic surroundings, my preference for a place, harmony of the soul with the partner, peace of the partner's soul, and my partner's affection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `200`, coded entry `0685`.
 
 #### Ebertin Entry
 
 A harmonious personality. A personal attachment, love affair, the vow of love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `67` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Brings a strong mental focus on the need for understanding the role of love and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Personal affection expressed toward a partner, parent role, or valued place.
+- Psychology: Understanding love and beauty and reflecting on what one gives and receives.
+- Body/health: The activation entries supply no specific bodily or health claim.
+- Social/relationship: Being in love, a vow of love, high-minded affection, and a loving parental role.
+- Events/manifestations: Preference or longing for a place, artistic surroundings, and inner peace with a partner.
+- Conflicts/notes: Munkasey's exchange of effort and return adds reflection to the affectionate range.
 
 ## Contradictions
 
-- None recorded yet.
+- Munkasey's exchange of effort and return adds reflection to the affectionate range.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Asc`: attractiveness in self-presentation, diplomatic conduct, and opportunities that come through being visibly likable or refined. Main caution: image-centered identity: pleasing appearance can become too central to self-worth or direction.
+`Venus/MC = Asc` brings personal affection into an encounter or an attachment to place. [Witte](#witte-entry) names being in love and preferring or longing for a particular place; the [ABC entry](#abc-entry) adds artistic surroundings and inner harmony with a partner. [Ebertin](#ebertin-entry) describes attachment and a vow of love, while [Sandbach](#sandbach-entry) adds high-minded love and a loving parental role. [Munkasey](#munkasey-entry) makes understanding love, beauty, and what is returned for one's efforts an explicit concern. The orientation centers an affectionate relation to people and surroundings, with reciprocity as a distinct reflective theme.
 
 ## Links
 

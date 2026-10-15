@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Jupiter`
 - Astronomicon formula: `S/Y = V`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -70,22 +72,21 @@ Increases desires to slip away and live in a world of illusions and fantasies; e
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Enjoyment or success with little exertion, alongside expanded imagination.
+- psychology: Optimism despite weakness; enthusiasm for helping or mystical experience can become excess.
+- body/health: Ebertin's weakness/illness language is historical attribution, not a diagnosis.
+- social/relationship: Helping others and self-sacrifice; no specific partnership outcome is established.
+- events/manifestations: Easy work or income; visualization and escape into fantasy; ABC adds financial and legal uncertainty.
+- conflicts/notes: Easy success and financial uncertainty describe different possibilities; repeated themes are not proof of independent corroboration.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries juxtapose ease and enjoyment with escape or error; they do not specify when each applies. This is a range of outcomes, not a claim that success must accompany financial weakness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Jupiter`: spiritual generosity, success through sympathetic understanding, and the ability to enjoy life or gain help even under weakened conditions. Main caution: excess: idealism, sacrifice, or psychic enthusiasm can become inflated, indulgent, or impractically grand.
+Jupiter specifies the Sun/Neptune axis by enlarging both its enjoyment and its imaginative reach. Success or pleasure may require little exertion, while the wish to help and the power to visualize can grow into excessive sacrifice or an escape from reality. [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) supply the ease motif; [Sandbach Entry](#sandbach-entry) and [Munkasey Entry](#munkasey-entry) establish the conditional excess. Neither generosity nor fantasy guarantees practical success.
 
 ## Links
 

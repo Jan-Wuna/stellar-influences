@@ -67,9 +67,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `VP/V`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `ARIES + JUPITER`
+- PDF page: `43`
 
 #### Pair Summary
 
@@ -77,15 +82,31 @@ Good fortune in general. Success in general. General contentment or possessions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `34–35`; PDF page: `16`
+
 #### ABC Pair Summary
 
-success in public life, joy in public, happiness in public life, public gclde, -, public law, benefits in public, and satisfied public
+Success in public life, joy in public, good fortune in public life, public funds, public law, advantages in public, a contented public.
+
+German pair summary checked: “Erfolg im öffentlichen Leben, Freude in der Öffentlichkeit, Glück im öffentlichen Leben, öffentliche Gelder, öffentliches Recht, Vorteile in der Öffentlichkeit, zufriedene Öffentlichkeit”.
 
 ### Robert Hand - Horoscope Symbols
 
+- Source heading: `Jupiter/Aries`
+- PDF page: `210`
+
 #### Pair Delineation
 
-Success in the larger sphere. People known for their involvement with religion, law, philosophy, and the like. Successful people, people in positions of respect or authority. Pairs with Saturn
+Success in the larger sphere. People known for their involvement with religion, law, philosophy, and the like. Successful people, people in positions of respect or authority.
+
+## Comparative Schema
+
+- Core meaning: Success, good fortune, benefit, and respected standing in the wider world recur across the three entries.
+- Psychology: Joy, happiness, and general contentment are explicit; no inflated or complacent personality is established by the entries.
+- Body/health: These pair entries make no specific bodily or medical claim.
+- Social/relationship: Public law, international justice, religion, philosophy, and positions of respect or authority give success a social setting.
+- Events/manifestations: Money, public funds, possessions, enrichment, advantages, and success are named public or general-life themes, not guaranteed outcomes.
+- Conflicts/notes: Public prosperity, law and contentment are broader than Hand's respected public roles; neither scope guarantees wealth or authority, and no necessary negative counterpart is supplied.
 
 ## Related Activations
 
@@ -110,11 +131,16 @@ Success in the larger sphere. People known for their involvement with religion, 
 - [Vernal Point/Jupiter = Vulcanus](../activations/vernal-point-jupiter-equals-vulcanus.md)
 - [Vernal Point/Jupiter = Zeus](../activations/vernal-point-jupiter-equals-zeus.md)
 
+## Contradictions
+
+General good fortune, public funds and material benefit are broader than the respected public roles emphasized by Hand. These are differences of scope, not an established contradiction.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter` is the axis of public success, social legitimacy, collective good fortune, and visible standing in law, philosophy, belief, or respected worldly roles.
-- Chart expression: recognition, prosperity, moral or legal influence, and the ability to appear successful or beneficent in the larger sphere. Liabilities: inflated reputation, moral grandstanding, complacency, or assuming that public favor and growth automatically equal wisdom.
+Vernal Point/Jupiter describes benefit and success in the wider world, joining public good fortune with contentment, material enrichment, and lawful social relations. The [pair summary](#pair-summary) and [ABC entry](#abc-pair-summary) include money, public funds, advantages, joy, and public law; the [pair delineation](#pair-delineation) gives that broad theme a personal expression in respected roles associated with religion, law, or philosophy.
+
+The pair is therefore wider than reputation alone: it can concern collective prosperity or justice as well as a person's standing. These are the entries' thematic associations, not a guarantee of wealth, authority, or public approval.
 
 ## Links
 

@@ -32,10 +32,13 @@ updated_at: 2026-05-06
 - Astronomicon formula: `R/g = Asc`
 - Axis page: [Moon/Node](../axes/moon-node.md)
 - Triad hub: [Moon Node Asc](../triads/moon-node-asc.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source passage: PDF p. `121`.
 
 #### Witte Entry
 
@@ -43,17 +46,23 @@ Acquaintance with female persons. To have a connection with a woman.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source passage: printed p. `174`; PDF p. `86` (entry visually checked).
+
 #### ABC Entry
 
 Women's connections in the local environment, an emotional partner connection, contact with the mother in a place, connected with other peoples, local mediation for women, environmental connections of peoples, and connection with other women
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source passage: printed p. `138`, entry `0432`.
+
 #### Ebertin Entry
 
 An emotional attitude toward the women in one's environment, the inclination to maintain inner contact with others. Acquaintances with women, establishment of personal relations or contacts with others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source passage: PDF p. `38` (entry checked directly).
 
 #### Sandbach Entry
 
@@ -70,22 +79,21 @@ Concentrating on developing the ties or connections you need at this time; focus
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Asc specifies the pair through personal encounters and emotional contact in one's surroundings.
+- psychology: connections can strongly influence identity; Sandbach therefore emphasizes emotionally nourishing company.
+- body/health: no entry establishes a specific bodily or clinical condition.
+- social/relationship: acquaintances, partner and maternal connections, and inner contact with others are explicit.
+- events/manifestations: developing needed ties, private meetings, and emotionally charged encounters appear in Munkasey.
+- conflicts/notes: historical references to women are examples within these sources; relational influence alone does not establish dependency.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries emphasize different aspects of contact: local acquaintances, emotional influence on identity, and qualities of meetings. No explicit incompatibility is established; none says that every encounter is nourishing.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Node = Asc`: rapport, kin-like warmth, and a personal field shaped by responsiveness to closeness and shared feeling. Main caution: dependence on relational reassurance: self-presentation can become too contingent on being emotionally received.
+In `Moon/Node = Asc`, Asc specifies the pair through encounters that establish personal and emotional ties. [Ebertin](#ebertin-entry) describes maintaining inner contact with others, while [Munkasey, p. 136](#munkasey-entry) focuses on choosing connections and on the emotional character of meetings. [Sandbach](#sandbach-entry) explains the significance of that choice: relationships can strongly shape identity, making nourishing company a stated concern. This supports attention to the quality of contact without presuming emotional dependence.
 
 ## Links
 

@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Mars](../axes/venus-mars.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
@@ -41,22 +43,21 @@ Added immediacy for fulfillment of pleasures; yielding to impulses to find enjoy
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Immediate pursuit of pleasure through speed, competition, or danger.
+- Psychology: Impulses toward enjoyment, recklessness, racing, winning, and coveting a prize.
+- Body/health: Speed and agility are physical themes; no medical outcome is stated.
+- Social/relationship: Competition is explicit, while the entry supplies no separate partnership delineation.
+- Events/manifestations: Racing or other activities emphasizing speed, agility, and danger.
+- Conflicts/notes: A single repeated-pair entry supports this formula; enjoying risk does not determine conduct.
 
 ## Contradictions
 
-- None recorded yet.
+- A single repeated-pair entry supports this formula; enjoying risk does not determine conduct.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Mars = Mars`: Added immediacy for fulfillment of pleasures; yielding to impulses to find enjoyment in recklessness or activities where speed and agility are emphasized along with elements of danger; a need to race, to win, to covet a prize.
+`Venus/Mars = Mars` heightens the urgency of obtaining pleasure. [Munkasey's repeated-pair entry](#munkasey-entry) places enjoyment in speed, agility, and activities with an element of danger, including racing, winning, and coveting a prize. The emphasis is on the immediacy and competitive direction of desire. Recklessness belongs to the stated range, while the entry supplies no separate medical or partnership outcome.
 
 ## Links
 

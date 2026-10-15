@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Vulcanus](../triads/vernal-point-jupiter-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 Great success in general things or matters. General optimism.
 
@@ -42,13 +46,27 @@ Great success in general things or matters. General optimism.
 
 #### ABC Entry
 
-Influence of money in the public, money power in the public, power and joy in the public, powerful happiness in the public life, public law power, strong joy in the public, and V orteilen by public energies
+- Source page: 35; PDF page: 16 (one-based spread).
+
+The influence of money in public, financial power in public, strength and joy in public, powerful good fortune in public life, public legal force, strong joy in public, and advantages through public energies
+
+## Comparative Schema
+
+- core meaning: Public success amplified through strength, money, and influence.
+- psychology: General optimism and strong joy are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Financial influence and the force of public law concern collective power.
+- events/manifestations: Major success and advantages through public energies.
+- conflicts/notes: Powerful benefit is the shared emphasis; no amount of money or success is specified.
+
+## Contradictions
+
+No direct contradiction is established. Financial power, legal force, and optimism are related possibilities rather than equivalents.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Vulcanus`: great success in general things or matters and general optimism.
-- Practical expression: influence of money in the public, money power in the public, power, oy in the public, and powerful happiness in the public life.
+In `Vernal Point/Jupiter = Vulcanus`, public advantage has weight and reach. The [Witte entry](#witte-entry) emphasizes great success and general optimism. The restored [ABC entry](#abc-entry) develops the theme through the influence of money, financial power, strong joy, and the force of public law. The synthesis concerns the capacity to make public benefit effective, while leaving the scale and concrete form unspecified.
 
 ## Links
 

@@ -32,6 +32,7 @@ updated_at: 2026-05-06
 - Astronomicon formula: `S/W = g`
 - Axis page: [Sun/Saturn](../axes/sun-saturn.md)
 - Triad hub: [Sun Saturn Node](../triads/sun-saturn-node.md)
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -70,22 +71,23 @@ Association with people who are very controlled and disciplined; familiarity wit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: serious, demanding, or disciplined associations, including ties with older people.
+- psychology: relationships can diminish confidence or support self-discipline and a more secure sense of self.
+- body/health: Ebertin mentions association with sick or weak people; ABC mentions bodily problems within a connection. Neither establishes a diagnosis for the reader.
+- social/relationship: difficult bonds and seclusion coexist with cooperation that needs seriousness and organization.
+- events/manifestations: meeting older people, physical separation, and shared tasks requiring patience.
+- conflicts/notes: the entries describe both burdensome and useful associations; these possibilities do not make every serious bond harmful.
 
 ## Contradictions
 
-- None recorded yet.
+- The entries differ in the value of disciplined associations: Ebertin emphasizes difficulty and seclusion, while Munkasey describes useful cooperation. Sandbach explicitly allows either confidence-eroding or confidence-supporting contacts.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Saturn = Node`: enduring commitments, reserved social conduct, and bonds formed around obligation or shared burden. Main caution: separation: distrust, inhibition, or excessive self-protection can narrow the circle and reinforce isolation.
+Node specifies the Sun/Saturn axis through the people with whom seriousness, age, restraint, or demanding tasks are shared. These ties can be stressful or end in separation, but patience within a relationship is also part of the evidence. See the [Witte entry](#witte-entry) (PDF p. 107), [ABC entry](#abc-entry) (printed p. 150; PDF p. 74), and [Ebertin entry](#ebertin-entry) (printed p. 93, code 0251).
+
+The practical distinction is how the association affects self-discipline and confidence: it may undermine them, or provide people who value steadiness and organization. That range comes from the [Sandbach entry](#sandbach-entry) and [Munkasey entry](#munkasey-entry) (printed p. 76); it does not establish inevitable isolation or illness.
 
 ## Links
 

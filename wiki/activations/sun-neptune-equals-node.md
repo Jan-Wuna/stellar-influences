@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Sun/Neptune = Node`
 - Astronomicon formula: `S/Y = g`
 - Axis page: [Sun/Neptune](../axes/sun-neptune.md)
@@ -45,7 +47,9 @@ Acquaintance with delicate or fragile people.
 
 #### ABC Entry
 
-In the light of a personal connection, personal relationship with the water, personal contacts in the air, contacts with foreign people, and contact weakness of a person' insecure connection with the man
+Source locator: printed page 154 / PDF page 76, Node glyph under Sonne + Neptun. English translation checked against the complete six-clause row.
+
+Sensitivity of a personal connection, personal relationship to water, personal contacts in the air, contacts with unfamiliar people, weakness of a person's contact, and insecure connection with the man.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -56,6 +60,8 @@ Demonstration of a negative or weak attitude in the presence of others. Associat
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 19, complete Node entry under Planets activating the Sun/Neptune midpoint.
 
 Being connected to people who either drain one psychically, or uplift one through their higher vibrations. Wishful thinking and fantasizing about goals needs to be transformed into a real dedication to fulfilling one’s visions.
 
@@ -70,22 +76,21 @@ Meeting and associating with people who have dreams and desires similar to your 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Connections with sensitive people and others who share one's dreams.
+- psychology: Association may encourage a vision or reinforce wishful thinking.
+- body/health: Witte/Ebertin mention delicate or sick associates; these descriptions do not diagnose the reader.
+- social/relationship: Shared dreams, occult groups, fragile contacts, or relationships experienced as uplifting or draining.
+- events/manifestations: Meeting like-minded people; turning a vision into real dedication.
+- conflicts/notes: ABC places sensitivity beside weak and insecure contact, without specifying a single relationship outcome.
 
 ## Contradictions
 
-- None recorded yet.
+- Uplifting and draining connections are explicit alternatives in Sandbach. The older fragile/sick-person descriptions and Munkasey's shared-dream groups differ in emphasis without proving contradiction. ABC's sensitivity of a personal connection adds a separate relational description beside its weak and insecure contacts.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Neptune = Node`: psychic rapport, compassionate ties, and the need to turn vision into disciplined commitment with others. Main caution: enmeshment: association can amplify weakness, passivity, or fantasy if boundaries and purpose are not kept clear.
+Node specifies the Sun/Neptune axis through association: connections form around sensitivity, shared dreams, or occult interests, and those connections may uplift a person or deepen passivity and fantasy. [Munkasey Entry](#munkasey-entry) supplies the like-minded associations; [Sandbach Entry](#sandbach-entry) distinguishes draining from uplifting contacts and asks that wishful goals become dedication. The fragile or infirm associates of [Witte Entry](#witte-entry) and [Ebertin Entry](#ebertin-entry) are specific source applications, not a necessary social fate.
 
 ## Links
 

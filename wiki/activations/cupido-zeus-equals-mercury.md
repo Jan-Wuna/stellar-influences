@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Zeus = Mercury`
 - Astronomicon formula: `¡/£ = T`
 - Axis page: [Cupido/Zeus](../axes/cupido-zeus.md)
@@ -36,18 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 272; PDF p. 268.
+
 To harbor thoughts of a foundation.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Thoughts on the objectives of a community, the promotion of a youth community, joint efforts in youth, common conception ideas, the establishment of a transport community, and creative media community
+Source: printed p. 426; PDF p. 212, Mercury row.
+
+German: "Gedanken über die Ziele einer Gemeinschaft, Führung einer Jugend-Gemeinschaft, gemeinsame Anstrengungen in der Jugend, gemeinsame Zeugungs-Gedanken, Gründung einer Verkehrs-Gemeinschaft, schöpferische Medien-Gemeinschaft".
+
+English translation: Thoughts about a community's goals; leadership of a youth community; shared efforts in youth; shared procreative thoughts; founding a transport community; a creative media community.
+
+## Comparative Schema
+
+- Core meaning: Thoughts about communal founding and goals, with youth, media and transport settings ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Thoughts about founding and procreation are explicitly named.
+- Body/health: Procreative thoughts are source language without a fertility conclusion.
+- Social/relationship: Leadership of a youth community and shared efforts in youth are named.
+- Events/manifestations: Founding a transport community and a creative media community are examples.
+- Conflicts/notes: The source provides thought and concrete institutions without requiring a failed transition from concept to action.
+
+## Contradictions
+
+Witte gives the short founding-thought statement; ABC broadens it into youth, media, transport and communal goals. No opposing claim is stated.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Zeus = Mercury`: communal initiative beginning as plan, strategy, or design before it becomes concrete. Main caution: remaining in conceptual foundation mode without testing the real viability of the venture.
+In `Cupido/Zeus = Mercury`, Mercury specifies shared founding and effort through thought about establishing something and about a community's goals ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)). Youth leadership and shared youthful effort, founding a transport community and a creative media community give that thinking concrete collective settings. ABC's procreative-thought phrase remains a separate historical expression.
 
 ## Links
 

@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Mars](../axes/sun-mars.md)
 - Triad hub: [Sun Mars Pluto](../triads/sun-mars-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -70,22 +72,21 @@ Intensifies your desire to vigorously compete and excel; increases the need to c
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Work developed, organized, or pursued with extreme intensity.
+- psychology: Determination can become one-sided or power-seeking.
+- body/health: Overtaxing and lasting competitive damage are attributed examples.
+- social/relationship: Control and physical intimidation in Munkasey.
+- events/manifestations: Scheduling multiple jobs or relentless practice.
+- conflicts/notes: Practical planning and destructive extremes both remain represented.
 
 ## Contradictions
 
-- None recorded yet.
+Witte’s scheduling and ABC’s development differ in emphasis from Ebertin’s extreme effort and violence; neither cancels the other. The entries do not establish that every planned or intensive task becomes destructive.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mars = Pluto`: immense drive, strategic toughness, and the ability to sustain hard work under pressure or crisis. Main caution: violence and overtaxing: action can become ruthless, one-sided, or destructive when power takes over the purpose.
+In `Sun/Mars = Pluto`, Pluto specifies Sun/Mars activity through its development and intensity of pursuit. The [Witte Entry](#witte-entry) starts with planning and handling several jobs, while the [ABC Entry](#abc-entry) describes work and will developing or changing. The [Sandbach Entry](#sandbach-entry) takes determination as far as stopping at nothing; the [Ebertin Entry](#ebertin-entry) and [Munkasey Entry](#munkasey-entry) add overtaxing, violence, or intimidation as extremes. The range runs from organizing sustained effort to letting accomplishment become inseparable from acquiring power.
 
 ## Links
 

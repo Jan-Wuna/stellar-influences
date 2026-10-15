@@ -17,7 +17,7 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -27,16 +27,35 @@ updated_at: 2026-04-21
 - Axis page: [Zeus/Zeus](../axes/zeus-zeus.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
 
+[Read the interpretation](#derived-synthesis) and its [source entry](#witte-entry).
+
 ## Source Entries
 
 #### Witte Entry
 
-Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activirv in work Tn sens rate frnm nr intermnt activities L hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. 1 rocesses without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
+Source reference: *Rules for Planetary Pictures*, `Zeus + Zeus`, Neptune row, PDF page 288 (one-based; visually checked).
+
+Creative imagination. Wasted energies. Sterility. Without direction. Inflammable gas. Liquid fuel. Steam. Concealed weapons. To provoke somebody, to enrage him or get him angry. Failure. Impotence. Scalds. To ignite something. To be compelled to inflict losses. Offences. Setbacks. Scald burns.
+
+## Comparative Schema
+
+- Core meaning: Creative activity becomes imaginative but can lack direction, waste energy, or fail; ignition and volatile fuels supply the entry's physical imagery.
+- Psychology: Creative imagination appears beside provocation, anger, and directionlessness, rather than establishing one fixed disposition.
+- Body/health: The source lists sterility, impotence, scalds, and scald burns. These are historical associations, not grounds for diagnosing reproductive function or injury.
+- Social/relationship: Provoking or enraging someone and being compelled to inflict losses describe conflict; the entry gives no broader relationship model.
+- Events/manifestations: Setbacks, failed activity, gas, liquid fuel, steam, concealed weapons, and ignition are explicit examples.
+- Conflicts/notes: Imagination and wasted effort coexist in this single entry. The earlier ingested paragraph concerned the Saturn row and was replaced after checking the scan.
+
+## Contradictions
+
+Only one source entry is present, so no comparison between sources is possible. The corrected Neptune row differs from the previously misplaced Saturn material; that was a transcription error, not a doctrinal contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Zeus = Neptune`: Bequeathing. Perseverance. Oppression. Anxiety, anguish. Obstacles and hindrances in activirv in work Tn sens rate frnm nr intermnt activities L hindrances in activity in work. To separate from or interrupt activities. Losses while producing. Breakdown of machines. Losses by fire in establishments. 1 rocesses without result. To separate from one’s work, or to separate from accomplishments. Hindered activity. To bring about separations.
+In `Zeus/Zeus = Neptune`, Neptune specifies the pair's creative, directed activity through imagination that may lose direction or expend itself without a result. The same [Witte entry](#witte-entry) extends this problem of effective control into volatile fuels, steam, ignition, and provoked anger. The connected theme is creative energy whose expression can become diffuse, ineffective, or damaging, rather than a claim that imagination itself must fail.
+
+The [pair summary](../axes/zeus-zeus.md#pair-summary) establishes controlled activity and energy as the base theme; this exact activation supplies the difficulty in directing it. Its historical reproductive and burn terminology remains attributed to the source and establishes no diagnosis or inevitable event.
 
 ## Links
 

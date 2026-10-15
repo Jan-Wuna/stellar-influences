@@ -64,11 +64,16 @@ updated_at: 2026-05-04
 
 - Axis: `Moon/Admetos`
 - Astronomicon axis: `R/¦`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `MOON + ADMETOS`
+- PDF page (one-based): `135` (exact pair passage checked in the raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Stillness. Inner contemplation. Narrow-mindedness. Narrow conditions. The closed
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `202–203`; PDF page (one-based): `100` (bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Perseverance of a woman, limitation of feelings, blocked femininity, depression of a woman, depressed people, cramped people, solidified woman, grundliche woman, mother earth, and cycle of woman
+Endurance of a woman, depressed mood, limitation of feelings, blocked feelings, depression of a woman, a depressed people, a confined people, deepening of feelings, a steadfast woman, a thorough woman, Mother Earth, circulation of a woman.
+
+## Comparative Schema
+
+- core meaning: Stillness, containment and consolidation in emotional, female or collective life.
+- psychology: Contemplation, endurance and deep feeling range into narrow-mindedness, depressed mood and blocked feeling.
+- body/health: ABC names circulation of a woman; Witte names changes of physical state and death motifs. These are source associations, not a diagnosis or forecast.
+- social/relationship: Closed rooms, public exclusion and confined populations express restricted participation or space; ABC also names steadfastness.
+- events/manifestations: Consolidation, freezing, thawing and softening extend beyond psychological states; literal death and national decline remain severe source-specific motifs.
+- conflicts/notes: ABC's blocked feelings had been mistranslated as blocked femininity. Endurance and deepening should not be flattened into depression, nor literal death claims generalized to every instance.
 
 ## Related Activations
 
@@ -106,10 +122,9 @@ Perseverance of a woman, limitation of feelings, blocked femininity, depression 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos` is the axis of inward stillness, emotional compression, narrow or closed conditions, and public or feminine life held under limitation.
-- Constructively it gives perseverance, stoic character, deep contemplation, and the capacity to endure consolidation, waiting, or slow changes of state.
-- The liability is cramped feeling, blocked femininity, depression, exclusion from the public, and severe endings or death-hours when the sources speak literally of loss.
-- Activations show whether this compressed field freezes further, thaws, becomes public, turns bodily, or finds a practical outlet.
+`Moon/Admetos` brings emotional or collective life into stillness, containment and depth. The [Witte summary](#alfred-witte-ludwig-rudolph--hermann-lefeldt---rules-for-planetary-pictures) spans inner contemplation and a stoic character alongside narrow conditions, closed rooms and exclusion from public life. The [ABC summary](#udo-rudolph---abc-for-planetary-pictures) gives this range a clear emotional form: endurance and deepened feeling can become steadfastness, while restricted or blocked feeling can become a depressed mood. These are different possibilities within the same concentrated field, rather than a single uniformly negative condition.
+
+The sources also reach beyond individual feeling. Confined populations and Witte's dying-nation imagery concern collective restriction; consolidation, freezing, thawing and softening describe changes of physical state. Witte's explicit death motifs and ABC's circulation association remain visible at their stated scope, without making the pair a prediction of death or a medical diagnosis. “Blocked feelings” does not mean an inherently blocked female identity. The shared unordered pair establishes this range; its particular circumstances belong to separate [activation pages](#related-activations).
 
 ## Links
 

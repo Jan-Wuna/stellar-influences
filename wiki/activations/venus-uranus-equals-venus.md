@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis).
+
 - Formula: `Venus/Uranus = Venus`
 - Astronomicon formula: `Q/X = Q`
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
@@ -41,22 +43,21 @@ New temptations to indulge self which must be gratified now; increased respect f
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: an immediate impulse toward personal satisfaction and unusual insight.
+- psychology: a wish to gratify new desires now.
+- body/health: no bodily condition or health outcome is specified.
+- social/relationship: peers may value the person's unusual clarification of existing work.
+- events/manifestations: self-satisfying initiatives in life and work.
+- conflicts/notes: immediate gratification and valued insight are distinct expressions within one entry.
 
 ## Contradictions
 
-- None recorded yet.
+The single entry combines self-indulgent impulses with recognition from peers; it does not say that either cancels the other. No independent comparison is available.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Venus`: New temptations to indulge self which must be gratified now; increased respect from peers for unusual insight and clarification of existing work; added impulses to start satisfying self in all areas of life and work.
+In `Venus/Uranus = Venus`, Venus draws the pair toward the immediate satisfaction of new desires, extending the urge to please oneself into life and work. The same entry also allows an outwardly useful expression: unusual insight can clarify existing work and earn respect from peers. These are the specific possibilities supplied by [Munkasey](#munkasey-entry), p. 202, rather than a general claim about all unconventional relationships.
 
 ## Links
 

@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¥`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Embezzlement. Great corruption. Deception on a large scale. Dissolution on a lar
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `400`; PDF page: `199` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Proliferation of lJnsecurity, successful intuition, freedom in the air, metaphysical knowledge, insecure freedom, spread of metaphysics, water masses, water economy, knowledge of the future, and increasing refinement
+German pair summary (transcribed from printed page `400`; PDF page `199`):
+
+> Ausbreitung von Unsicherheit, erfolgreiche Intuition, Freiheit in der Luft, metaphysisches Wissen, unsichere Freiheit, Verbreitung der Metaphysik, Wasser-Massen, Wasser-Wirtschaft, Wissen von der Zukunft, zunehmende Verfeinerung
+
+Editorial translation from the German passage: Spread of uncertainty, successful intuition, freedom in the air, metaphysical knowledge, insecure freedom, dissemination of metaphysics, masses of water, water economy, knowledge of the future, increasing refinement.
+
+## Comparative Schema
+
+- core meaning: diffuse or uncertain conditions on a large scale connect mass deception, dissolution, investigation, and large quantities of air, gas, or water.
+- psychology: Udo includes successful intuition, metaphysical knowledge, and increasing refinement alongside spreading uncertainty.
+- body/health: neither pair summary establishes a specific illness; chemical and gaseous themes are not medical diagnoses.
+- social/relationship: the stated social reach is many people being deceived; the entries do not give a separate intimate-relationship account.
+- events/manifestations: embezzlement, corruption, chemistry, future or occult science, water masses, and water economy are explicit domains.
+- conflicts/notes: Scale does not make unconventional knowledge fraudulent or intuition verified. ABC's spreading uncertainty is legible in the source.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Proliferation of lJnsecurity, successful intuition, freedom in the air, metaphys
 - [Neptune/Apollon = Vulcanus](../activations/neptune-apollon-equals-vulcanus.md)
 - [Neptune/Apollon = Zeus](../activations/neptune-apollon-equals-zeus.md)
 
+## Contradictions
+
+Witte stresses mass deception and chemistry while ABC also names successful intuition, metaphysical knowledge and refinement; neither cancels the other.
+
+ABC's complete bold pair list was checked against printed400/PDF199; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Apollon` combines Neptunian diffusion with Apollonian scale, producing themes of large deception, mass dissolution, chemical or occult investigation, and speculative systems that can enlighten or mislead many at once. Its activations show whether that expansive uncertainty becomes economic collapse, scientific exploration, ideological error, relational disappointment, or collective revelation.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Apollon` puts diffusion and uncertainty on a broad scale. In [Witte's pair summary](#pair-summary), deception affects many people or large resources through corruption, fraud, or embezzlement; dissolution likewise occurs on a large scale. The same entry gives a material counterpart in masses of air, gas, or water, keeping the pair's range wider than psychological deception alone.
+
+Chemistry, science of the future, and occult investigation also belong to that entry, while [Udo's summary](#abc-pair-summary) adds successful intuition, metaphysical knowledge, refinement, and water economy. The common concern is something subtle, diffuse, or difficult to establish moving through a wide field. The summaries support both investigation and misleading appearances, but do not tell us which applies in a particular case; economic collapse, a specific illness, or an intimate outcome cannot be supplied from the pair alone.
 
 ## Links
 

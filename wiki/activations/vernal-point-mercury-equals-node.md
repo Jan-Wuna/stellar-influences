@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Mercury](../axes/vernal-point-mercury.md)
 - Triad hub: [Vernal Point Mercury Node](../triads/vernal-point-mercury-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 40 (one-based).
 
 General association of ideas. Communication contacts in general.
 
@@ -42,13 +46,27 @@ General association of ideas. Communication contacts in general.
 
 #### ABC Entry
 
-Relations with the public Media, language about Relations with the public Life, youth relations with the public, contacts with the youth in the public Life, public Contact language, and public relations
+- Source page: 28; PDF page: 13 (one-based spread).
+
+Relations with public media, conversations about connections in public life, youth connections in public, contacts with youth in public life, public contact conversations, and public transport connections
+
+## Comparative Schema
+
+- core meaning: Public thought and communication linked through contacts.
+- psychology: Association of ideas is explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Media relations, youth contacts, and public conversations.
+- events/manifestations: Transport connections and discussions about associations.
+- conflicts/notes: Connections are broader than professional public relations.
+
+## Contradictions
+
+No direct contradiction is established. Linked ideas, social contacts, and transport connections are different kinds of association.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Mercury = Node`: general association of ideas and communication contacts in general.
-- Practical expression: relations with the public Media, language about Relations with the public Life, youth relations with the public, contacts with the youth in the public Life, and public Contact language.
+In `Vernal Point/Mercury = Node`, public communication is organized through connections. The [Witte entry](#witte-entry) joins association of ideas with communicative contacts. The restored [ABC entry](#abc-entry) supplies media relations, youth contacts, discussions about associations, and transport links. The shared emphasis is the joining of people, ideas, and channels through which public information travels.
 
 ## Links
 

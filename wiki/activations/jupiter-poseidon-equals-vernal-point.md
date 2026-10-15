@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Poseidon = Vernal Point`
 - Astronomicon formula: `V/¨ = VP`
 - Axis page: [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 218, Jupiter + Poseidon, Vernal Point row.
+
 The general reason and intelligence. The general law conditions. World conscience.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Frcude about public culture, l"public legal, Vorteile through public:nichtkcit, and clarcs legal in the ()public
+- Source reference: printed p. 346; one-based PDF p. 172, Jupiter + Poseidon, complete Vernal Point row before MC.
+
+Successful ideas for the public, joy in public culture, money for public culture, public cultural successes, public legal culture, advantages through clarity in public, and clear law in public.
+
+## Comparative Schema
+
+- Core meaning: General reason, intelligence and world conscience, with public cultural and legal expression ([Witte Entry](#witte-entry); [ABC Entry](#abc-entry)).
+- Psychology: Conscience is described collectively; individual temperament is not specified.
+- Body/health: No bodily or medical claim is established.
+- Social/relationship: General legal conditions, public culture and ideas for the public are explicit settings.
+- Events/manifestations: ABC lists public cultural success, funding for public culture, and advantages through public clarity; these remain source examples rather than assured outcomes.
+- Conflicts/notes: The complete ABC Vernal Point row has seven public cultural/legal clauses before the MC glyph. No specific public institution or necessary outcome is identified.
+
+## Contradictions
+
+Witte's collective reason and conscience and ABC's public cultural/legal examples differ in specificity without establishing a direct disagreement.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Vernal Point`: truth and justice operating at the social or public level. It favors collective standards shaped by reason, ethical law, and widespread clarity of judgment.
+In `Jupiter/Poseidon = Vernal Point`, Vernal Point gives the pair's reason and conscience a general, collective scope. The [Witte Entry](#witte-entry) explicitly names general intelligence, legal conditions, and world conscience. This concerns public standards of understanding rather than a private judgment or a promise of just institutions. The complete [ABC Entry](#abc-entry) adds public cultural success, money for public culture, public legal culture and advantages through clarity. These give the collective theme particular settings without promising a specific institutional result.
 
 ## Links
 

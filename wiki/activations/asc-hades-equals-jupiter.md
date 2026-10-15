@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Asc/Hades = Jupiter`
 - Astronomicon formula: `Asc/¢ = V`
 - Axis page: [Asc/Hades](../axes/asc-hades.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source locator: one-based PDF p. 92, entry start (parser evidence; not visually checked).
+
 Others in need of money. Friendly or many physicians.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Success in dangerous environment, successful environmental service, financial crime of others, financial disadvantages of the partner, dangerous environmental law, money against environmental pollution, lack of money for the environment, and legal disadvantages for a place
+Success in dangerous surroundings, successful environmental service, financial crime by others, financial disadvantages of the partner, endangered environmental rights, money against environmental pollution, lack of money for the surroundings, and legal disadvantages for a place.
+
+Translation repaired against the German entry under Aszendent + Hades, printed p. 124, one-based PDF p. 61; wording and Jupiter row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Money, law, and successful service become involved in difficult surroundings.
+- **Psychology:** No distinct psychological trait is established.
+- **Body/health:** Witte mentions friendly or numerous physicians without naming a disease or promising recovery.
+- **Social/relationship:** Others need money, and partners may face financial disadvantages.
+- **Events/manifestations:** Financial crime, legal disadvantages, funds against pollution, and successful environmental service are separate ABC possibilities.
+- **Conflicts/notes:** Success and financial need coexist as alternatives; charity and dependence on rescue are not explicit.
+
+## Contradictions
+
+No direct contradiction is established. The entry includes financial and legal disadvantage as well as successful service in dangerous conditions. These are different possibilities, not a promise that goodwill resolves hardship.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Jupiter`: aid in distressed environments, charitable contact, and the possibility of goodwill amid poverty or illness. Main caution: dependence on rescue: the surrounding difficulty remains real, even when support or benevolence temporarily mitigates it.
+In `Asc/Hades = Jupiter`, Jupiter specifies the Asc/Hades axis through financial and legal circumstances within difficult surroundings. Others' need for money and a partner's financial disadvantages sit alongside successful environmental service and funding against pollution. Financial crime and legal disadvantages remain distinct adverse possibilities. Witte's friendly or numerous physicians adds a medical contact setting, without establishing illness, recovery, or charitable rescue. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 124.)
 
 ## Links
 

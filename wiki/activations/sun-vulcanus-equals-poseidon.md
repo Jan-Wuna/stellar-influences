@@ -26,6 +26,7 @@ updated_at: 2026-05-04
 ## Identity
 
 - Formula: `Sun/Vulcanus = Poseidon`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/§ = ¨`
 - Axis page: [Sun/Vulcanus](../axes/sun-vulcanus.md)
 - Triad hub: [Sun Vulcanus Poseidon](../triads/sun-vulcanus-poseidon.md)
@@ -42,13 +43,29 @@ The powerful mental influence. Radiation pressures. To possess a strong aura.
 
 #### ABC Entry
 
-Influence of a personal idea, spiritual energy in man, mental influence of man, spiritual strength center, influence of the mind on the body, strong through body culture, and truth about single minded persons
+Source locator: printed page 171 / PDF page 84, complete eight-clause Poseidon glyph row under Sonne + Vulkanus. Geist/geistig is retained broadly as mind/spirit or mental/spiritual.
+
+Influence of a personal idea, mental/spiritual energy in the human being, mental/spiritual influence upon the human being, mental/spiritual strength center, influence of a cultural center, influence of mind/spirit on the body, strength through bodily culture, and truth about influential persons.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Ideas and mental influence carry power.
+- psychology: ABC names spiritual energy and the influence of mind on body.
+- body/health: Witte's aura and radiation-pressure wording is historical doctrine.
+- social/relationship: Mental influence upon people is explicit.
+- events/manifestations: Powerful ideas and a spiritual strength center are named.
+- conflicts/notes: Aura and mind-body claims remain attributed, not verified mechanisms.
+
+## Contradictions
+
+Aura and mind-body claims remain attributed, not verified mechanisms. ABC's truth about influential persons is a separate example from influence through ideas and cultural centers.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Vulcanus = Poseidon`: powerful inspiration and force behind ideals or truth.
-- Practical expression: influence of a personal idea, spiritual energy in man, mental influence of man, spiritual strength center, and influence of the mind on the body.
+Poseidon specifies Sun/Vulcanus as power carried by ideas and mental or spiritual influence. ABC's personal idea and influence of mind on body meet Witte's image of a strong aura; these remain the sources' symbolic formulations rather than demonstrated physical mechanisms. ([Witte](#witte-entry), [ABC](#abc-entry).)
 
 ## Links
 

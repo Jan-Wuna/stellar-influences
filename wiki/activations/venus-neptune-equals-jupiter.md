@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Neptune](../axes/venus-neptune.md)
 - Triad hub: [Venus Jupiter Neptune](../triads/venus-jupiter-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Venus + Neptune`
+- Source reference: PDF page `180` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Happy enthusiasm of love. Temporary happiness in an unfortunate love affair. Onl
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Neptune`
+- Source reference: printed page `278`; PDF page `138` (one-based).
+
 #### ABC Entry
 
-Exchangeable right peace, joy and success in the water, money problems through love, love success through fine felt, love GIOck at the water, exchangeable financial desires, uncertain peace success, and advantage through love for metaphysics
+Disappointing legal peace, joy and success by the water, money problems through love, success in love through sensitivity, happiness in love by the water, disappointed financial wishes, uncertain success in peace, and advantage through love of metaphysics.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/Neptune`
+- Source reference: printed page `188`, coded entry `0631`.
 
 #### Ebertin Entry
 
 Rich imagination, romantic reverie, love of comfort, receptive to beauty and art, tendency to revel in illusions. Unreal or apparent happiness in love.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Neptune midpoint`
+- Source reference: PDF page `62` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Opens you to good advice on how to use makeup or adornments to increase your app
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Romantic enthusiasm and enlarged idealization, with happiness that may be temporary or apparent.
+- Psychology: Rich imagination, comfort-seeking, excessive giving, and idealization of a loved person.
+- Body/health: Appearance and adornment are discussed without a medical condition.
+- Social/relationship: Happy enthusiasm within an unfortunate affair and exuberant relational generosity.
+- Events/manifestations: Artistic or financial deception, disappointed financial wishes, and benefits through sensitivity or metaphysics.
+- Conflicts/notes: Momentary enjoyment and apparent happiness do not establish durable fulfillment.
 
 ## Contradictions
 
-- None recorded yet.
+- Momentary enjoyment and apparent happiness do not establish durable fulfillment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Neptune = Jupiter`: charitable affection, artistic abundance, and uplifting emotional or spiritual bonds. Main caution: idealized excess: generosity and longing can become indulgent, naive, or financially and emotionally ungrounded.
+`Venus/Neptune = Jupiter` enlarges romantic enthusiasm and imagination without securing their fulfillment. [Witte](#witte-entry) allows temporary happiness within an unfortunate affair, while [Ebertin](#ebertin-entry) describes rich reverie and happiness that may be apparent. [Sandbach](#sandbach-entry) adds exuberant giving that can become excessive idealization. The [ABC entry](#abc-entry) holds success through sensitivity beside money problems and disappointed financial wishes. [Munkasey](#munkasey-entry) adds adornment advice and excessive deception in financial, artistic, or religious pursuits. Pleasure, generosity, and illusion therefore remain closely connected but distinguishable.
 
 ## Links
 

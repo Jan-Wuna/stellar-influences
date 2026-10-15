@@ -30,25 +30,44 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Saturn](../axes/venus-saturn.md)
 - Triad hub: [Venus Saturn Cupido](../triads/venus-saturn-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
 
+- PDF page: 178 (one-based).
+
 Passing harmony with associates. To be deceived by a promise of marriage.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Venus + Saturn`
+- Source reference: printed page `275`; PDF page `136` (one-based).
+
 #### ABC Entry
 
-serious love community, peace problems of a community, steored harmony in of a community, common tasks in the arts, common love pain, separate love community, and harmonious community in old age
+A serious love community, peace problems of a community, disturbed harmony in a community, shared tasks in art, shared sorrow in love, a separated love community, and a harmonious community in old age.
+
+## Comparative Schema
+
+- core meaning: Seriousness, separation, or temporary harmony within an association.
+- psychology: Shared love pain and commitment to common artistic tasks.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Passing harmony with associates and deception by a marriage promise.
+- events/manifestations: Peace problems in a community, separated love community, or harmony in old age.
+- conflicts/notes: ABC's disturbed communal harmony coexists with harmony in old age; neither determines every group's outcome.
+
+## Contradictions
+
+Temporary harmony, separation, and harmony in old age are distinct possibilities. The promise-of-marriage example must not become a claim that every union is deceptive.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Saturn = Cupido`: passing harmony with associates.
-- Practical expression: serious love community, peace problems of a community, common tasks in the arts, and common love pain.
+In `Venus/Saturn = Cupido`, Cupido specifies the pair through the conditions of a relationship or community. The [Witte entry](#witte-entry) describes passing harmony among associates and deception by a marriage promise. The clear [ABC clauses](#abc-entry) add serious shared love, communal peace problems, common artistic tasks, and separation, while retaining harmony in old age as another possibility. The interpretation therefore includes both burdens within association and the possibility of mature shared harmony.
 
 ## Links
 

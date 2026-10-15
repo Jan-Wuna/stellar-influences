@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Uranus/Asc = Saturn`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `X/Asc = W`
 - Axis page: [Uranus/Asc](../axes/uranus-asc.md)
 - Triad hub: [Saturn Uranus Asc](../triads/saturn-uranus-asc.md)
@@ -37,23 +38,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source locator: PDF p. 88.
+
 #### Witte Entry
 
 To separate suddenly from others.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 117; PDF p. 57.
+
 #### ABC Entry
 
-Exciting partner problems, local environmental technology, concentration on environmental technology, new environmental tasks, sudden separation from the partner, exposure to one place, and shocks and tensions at the site
+Exciting partner problems, disturbed environmental technology, concentration on environmental technology, new environmental tasks, sudden separation from the partner, separation from others involving losses, surprising separation from a place, disturbances and tensions at the location.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source locator: printed p. 275; PDF p. 277; entry code `0981`.
 
 #### Ebertin Entry
 
 Feeling hindered or oppressed by others. Overcoming sudden difficulties in conjunction with others, inhibitions, separations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF p. 108 (exact Saturn entry; chapter starts on PDF p. 107).
 
 #### Sandbach Entry
 
@@ -70,22 +79,23 @@ Disapproval about your sense of individuality; brings restraint on your improper
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry) (PDF p. 88), [ABC](#abc-entry) (printed p. 117; PDF p. 57), [Ebertin](#ebertin-entry) (p. 275, entry 0981), [Sandbach](#sandbach-entry) (exact PDF p. 108), and [Munkasey](#munkasey-entry) (p. 320).
+
+- core meaning: Independence encounters restraint, difficulty, or sudden separation in contact with others.
+- psychology: Guarding freedom, shyness about being different, and greater caution are named.
+- body/health: No specific bodily condition is established.
+- social/relationship: Others may hinder, disapprove, or cooperate in overcoming difficulties.
+- events/manifestations: Sudden separation, new environmental tasks, and thorough scientific study are examples.
+- conflicts/notes: Restraint may inhibit self-expression or help make conduct more cautious and studious.
 
 ## Contradictions
 
-- None recorded yet.
+Separating from others and overcoming difficulties with them are alternative developments. ABC retains disturbed technology, new tasks, partner separation and local tensions; the complete eight-clause row has been verified on printed p. 117 (PDF p. 57), including the formerly omitted separation involving losses.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Asc = Saturn`: serious originality, disciplined nonconformity, and the effort to make freedom workable in immediate life. Main caution: nervous rigidity: when rebellion and control collide, behavior can become abrupt, brittle, or socially alienating.
+Saturn specifies Uranus/Asc through the limits met when asserting independence with others: disapproval, inhibition, or a sudden separation may make freedom feel guarded rather than easy. Restraint can also become caution and thorough study, and difficulties may be overcome jointly rather than ending the association. ([Witte](#witte-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

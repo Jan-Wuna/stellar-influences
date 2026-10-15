@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Jupiter](../axes/vernal-point-jupiter.md)
 - Triad hub: [Vernal Point Jupiter Poseidon](../triads/vernal-point-jupiter-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 43 (one-based).
 
 The common sense or reason. The knowledge that enriches the general public.
 
@@ -42,13 +46,27 @@ The common sense or reason. The knowledge that enriches the general public.
 
 #### ABC Entry
 
-Successful ideas filr the public, financial knowledge in public life, funds for public culture, cultural success in public, legal clarity in public, and awareness about public money
+- Source page: 35; PDF page: 16 (one-based spread).
+
+Successful ideas for the public, financial insights in public life, funds for public culture, cultural successes in public, legal clarity in public, and truth about public funds
+
+## Comparative Schema
+
+- core meaning: Knowledge, reason, and clear ideas that benefit public life.
+- psychology: Common sense, financial insight, and clarity are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Knowledge enriches the general public; culture receives funds.
+- events/manifestations: Cultural success and truth about public money.
+- conflicts/notes: Truth about funds is stronger and more specific than the former awareness wording.
+
+## Contradictions
+
+No direct contradiction is established. Financial insight, cultural support, and legal clarity are distinct forms of public benefit.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Jupiter = Poseidon`: the common sense or reason and the knowledge that enriches the general public.
-- Practical expression: financial knowledge in public life, funds for public culture, cultural success in public, and legal clarity in public.
+In `Vernal Point/Jupiter = Poseidon`, public enrichment comes through understanding. The [Witte entry](#witte-entry) names common sense and knowledge that benefits the general public. The restored [ABC entry](#abc-entry) makes this concrete through useful ideas, financial insight, cultural funding, legal clarity, and truth about public money. Material advantage and intellectual clarity meet where knowledge makes public resources and rights intelligible.
 
 ## Links
 

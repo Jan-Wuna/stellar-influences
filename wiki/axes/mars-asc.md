@@ -11,6 +11,8 @@ normalized_axis: Mars/Asc
 factor_a: Mars
 factor_b: Asc
 related_activations:
+  - Mars/Asc = Asc
+  - Mars/Asc = Mars
   - Mars/Asc = Admetos
   - Mars/Asc = Apollon
   - Mars/Asc = Chiron
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/ASCENDANT`
-- Source page: `247`
+- Source heading: `ASCENDANT + MARS`
+- PDF page: `85`
 
 #### Pair Summary
 
@@ -172,14 +176,17 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Action takes shape in contact with other people and the immediate environment; the [Pair Summary](#pair-summary) emphasizes others' activity, while the [Pair Delineation](#pair-delineation) emphasizes standing up to opposition.
+- psychology: Assertiveness, an identity built through doing, and resolute leadership coexist with impatience, quarrelsomeness, and forcing one's will upon others.
+- body/health: Ebertin's [Biological Correspondence](#biological-correspondence) lists accidents and surgery; Munkasey's [With Body or Mind](#with-body-or-mind) lists bodily heat, ocular pressure, and blood pressure. These remain attributed associations, not diagnoses.
+- social/relationship: Coworkers, active teamwork, shared experiences, and partners able to match an active pace are supported; contact can also become competitive or confrontational.
+- events/manifestations: Workplace activity, joint creative effort, disputes, and the energetic handling of immediate circumstances are explicit. Military readiness is a separate institutional application in [In Politics or Business](#in-politics-or-business).
+- conflicts/notes: Activity attributed to others and active self-presentation describe different sides of an encounter. The entries do not make every encounter aggressive or every assertive personality violent.
 
 ## Related Activations
+
+- [Mars/Asc = Asc](../activations/mars-asc-equals-asc.md)
+- [Mars/Asc = Mars](../activations/mars-asc-equals-mars.md)
 
 - [Mars/Asc = Admetos](../activations/mars-asc-equals-admetos.md)
 - [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md)
@@ -205,15 +212,14 @@ Pressure or heat within the ocular fluids; elevated blood pressure caused by you
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Productive teamwork and interpersonal conflict are both represented; they are alternative expressions, not mutually exclusive definitions. The focus on activity in the surroundings and the focus on identity through action remain distinct emphases.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Asc` is the axis of assertive presence, environmental friction, and the active projection of will into immediate life. It combines drive, conflict, courage, and bodily energy with identity, approach, and the way one meets other people and circumstances.
-- Chart expression: competitiveness, a fighting spirit, directness, leadership in teamwork, and the tendency to define oneself through action and resistance. Liabilities: quarrels, impatience, bullying, accident-proneness, and a style so forceful that it turns contact with others into ongoing confrontation.
+`Mars/Asc` describes action expressed through immediate contact: doing things with others, responding to their activity, and making one's own position felt. The same energy can organize productive teamwork or press so hard on another person that cooperation becomes a contest of wills. The [Pair Summary](#pair-summary), [Psychological Correspondence](#psychological-correspondence), and [Pair Delineation](#pair-delineation) connect the workplace and everyday surroundings with leadership, competition, and the capacity to stand up to opposition.
+
+An active identity also develops through what one builds, produces, or changes, as the [Sandbach entry](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) explains. Shared activity and a compatible pace can animate relationships; impatience, forcing decisions, and anger can strain them in [In Your Relationships](#in-your-relationships). The pair therefore concerns the quality of active engagement with people as much as the strength of self-assertion.
 
 ## Links
 

@@ -20,38 +20,44 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
 
 - Triad-set: `Moon Mercury Hades`
 - Astronomicon triad-set: `R T ¢`
+- [Use this structural hub](#derived-synthesis).
+
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
 
 ## Orientation Map
 
-- [Mercury/Hades = Moon](../activations/mercury-hades-equals-moon.md)
-- [Moon/Hades = Mercury](../activations/moon-hades-equals-mercury.md)
-- [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md)
+- [Mercury/Hades = Moon](../activations/mercury-hades-equals-moon.md): base axis [Mercury/Hades](../axes/mercury-hades.md); activator [Moon](../factors/moon.md).
+- [Moon/Hades = Mercury](../activations/moon-hades-equals-mercury.md): base axis [Moon/Hades](../axes/moon-hades.md); activator [Mercury](../factors/mercury.md).
+- [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md): base axis [Moon/Mercury](../axes/moon-mercury.md); activator [Hades](../factors/hades.md).
 
 ## Source Coverage
 
-- `Mercury/Hades = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
-- `Mercury/Hades = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `256`
-- `Moon/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `131`
-- `Moon/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `194`
-- `Moon/Mercury = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `122`
-- `Moon/Mercury = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `177`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Hades = Moon](../activations/mercury-hades-equals-moon.md#witte-entry) (PDF entry-start p. 167); [Moon/Hades = Mercury](../activations/moon-hades-equals-mercury.md#witte-entry) (PDF entry-start p. 131); [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md#witte-entry) (PDF entry-start p. 122).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Hades = Moon](../activations/mercury-hades-equals-moon.md#abc-entry) (printed p. 256); [Moon/Hades = Mercury](../activations/moon-hades-equals-mercury.md#abc-entry) (printed p. 194); [Moon/Mercury = Hades](../activations/moon-mercury-equals-hades.md#abc-entry) (printed p. 177).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Moon`: joins the axis to public feeling through low company, spite, and bad news.
-- `Moon/Hades = Mercury`: A brooding poor woman. Diseased brains. Worried thoughts. Stupidity.
-- `Moon/Mercury = Hades`: This activation degrades `Moon/Mercury` into poor memory, troubled thinking, and emotionally low or unstable social environments. It can show a mind pulled toward dirt, sadness, marginality, or disordered association, making communication and feeling harder to keep clean, hopeful, or settled.
+Moon, Mercury and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Hades](../axes/mercury-hades.md)
+- [Moon/Hades](../axes/moon-hades.md)
+- [Moon/Mercury](../axes/moon-mercury.md)
 - [Moon](../factors/moon.md)
 - [Mercury](../factors/mercury.md)
 - [Hades](../factors/hades.md)

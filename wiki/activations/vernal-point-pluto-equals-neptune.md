@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Vernal Point/Pluto = Neptune`
 - Astronomicon formula: `VP/Z = Y`
 - Axis page: [Vernal Point/Pluto](../axes/vernal-point-pluto.md)
@@ -42,13 +44,31 @@ A general development with undetermined direction.
 
 #### ABC Entry
 
-disappointing developments in public life, creeping changes in public, uncertain development in public life, growing sensitivity in public, and future development in public
+- Source reference: printed p. `43`, one-based PDF p. `20`, complete Neptune row.
+
+German passage transcribed from the scan:
+
+> Enttäuschende Entwicklungen im öffentlichen Leben, schleichende Wandlungen in der Öffentlichkeit, unsichere Entwicklung im öffentlichen Leben, wachsende Sensibilität in der Öffentlichkeit, zukünftige Entwicklung in der Öffentlichkeit
+
+Editorial translation: Disappointing developments in public life; creeping changes in public; uncertain development in public life; growing sensitivity in public; future development in public.
+
+## Comparative Schema
+
+- Core meaning: Public development whose direction is uncertain or whose changes unfold gradually.
+- Psychology: Disappointment and growing sensitivity are explicit possibilities.
+- Body/health: No specific bodily or medical meaning is supplied.
+- Social/relationship: The setting is public life; a particular personal relationship is not described.
+- Events/manifestations: Uncertain and creeping public changes are the concrete manifestations.
+- Conflicts/notes: The complete Neptune row ends with future development; the following Pluto glyph owns the separate "siehe oben" cross-reference. The future wording does not define a timing method.
+
+## Contradictions
+
+Undetermined direction is not itself disappointment. The ABC entry adds a possible experience of uncertain change without proving that every such development disappoints.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Pluto = Neptune`: a general development with undetermined direction.
-- Practical expression: disappointing developments in public life, creeping changes in public, uncertain development in public life, growing sensitivity in public, and future development in public.
+In `Vernal Point/Pluto = Neptune`, Neptune specifies public development through uncertainty about its direction and changes that may unfold gradually. The [Witte entry](#witte-entry) gives the undetermined direction; the [ABC entry](#abc-entry) adds disappointment, creeping change, and growing sensitivity in public life. The unifying theme is development that is difficult to define or evaluate, while disappointment remains one stated possibility.
 
 ## Links
 

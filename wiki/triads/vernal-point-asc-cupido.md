@@ -28,27 +28,39 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Asc Cupido`
 - Astronomicon triad-set: `VP Asc ¡`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md)
-- [Vernal Point/Asc = Cupido](../activations/vernal-point-asc-equals-cupido.md)
-- [Vernal Point/Cupido = Asc](../activations/vernal-point-cupido-equals-asc.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Asc/Cupido = Vernal Point](../activations/asc-cupido-equals-vernal-point.md) | [Asc/Cupido](../axes/asc-cupido.md) | [Vernal Point](../factors/vernal-point.md) |
+| [Vernal Point/Asc = Cupido](../activations/vernal-point-asc-equals-cupido.md) | [Vernal Point/Asc](../axes/vernal-point-asc.md) | [Cupido](../factors/cupido.md) |
+| [Vernal Point/Cupido = Asc](../activations/vernal-point-cupido-equals-asc.md) | [Vernal Point/Cupido](../axes/vernal-point-cupido.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Asc/Cupido = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `91`
-- `Asc/Cupido = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `121`
-- `Vernal Point/Asc = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `36`
-- `Vernal Point/Asc = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `21`
-- `Vernal Point/Cupido = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `48`
-- `Vernal Point/Cupido = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `44`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Asc/Cupido = Vernal Point`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/asc-cupido-equals-vernal-point.md#witte-entry), one-based PDF entry-start p. `91`.
+- `Asc/Cupido = Vernal Point`: [Udo Rudolph - ABC for Planetary Pictures](../activations/asc-cupido-equals-vernal-point.md#abc-entry), printed p. `122` (one-based PDF p. `60`).
+- `Vernal Point/Asc = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-asc-equals-cupido.md#witte-entry), one-based PDF entry-start p. `36`.
+- `Vernal Point/Asc = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-asc-equals-cupido.md#abc-entry), printed p. `21`.
+- `Vernal Point/Cupido = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/vernal-point-cupido-equals-asc.md#witte-entry), one-based PDF entry-start p. `48`.
+- `Vernal Point/Cupido = Asc`: [Udo Rudolph - ABC for Planetary Pictures](../activations/vernal-point-cupido-equals-asc.md#abc-entry), printed p. `44`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Cupido = Vernal Point`: dwellings, family forms, and social life as a visible part of the general public or wider collective environment.
-- `Vernal Point/Asc = Cupido`: This formula emphasizes family celebration, sociableness, brought together by art, to attend a concert, and inhabited country or area.
-- `Vernal Point/Cupido = Asc`: This formula emphasizes a Partner in a partnership, association or company.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Coverage limitation: The current Asc/Cupido = Vernal Point ABC entry corrects the inherited printed-page locator from 121 to 122, PDF 60; the corrected locator is shown above. See the linked activation entries for the qualification; source presence here does not certify intact wording.
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

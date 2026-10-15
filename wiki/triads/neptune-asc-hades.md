@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Neptune Asc Hades`
 - Astronomicon triad-set: `Y Asc ¢`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Hades = Neptune](../activations/asc-hades-equals-neptune.md)
-- [Neptune/Asc = Hades](../activations/neptune-asc-equals-hades.md)
-- [Neptune/Hades = Asc](../activations/neptune-hades-equals-asc.md)
+- [Asc/Hades = Neptune](../activations/asc-hades-equals-neptune.md): base axis [Asc/Hades](../axes/asc-hades.md); activator [Neptune](../factors/neptune.md).
+- [Neptune/Asc = Hades](../activations/neptune-asc-equals-hades.md): base axis [Neptune/Asc](../axes/neptune-asc.md); activator [Hades](../factors/hades.md).
+- [Neptune/Hades = Asc](../activations/neptune-hades-equals-asc.md): base axis [Neptune/Hades](../axes/neptune-hades.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Hades = Neptune`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `92`
-- `Asc/Hades = Neptune`: Udo Rudolph - ABC for Planetary Pictures, page `125`
-- `Neptune/Asc = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `89`
-- `Neptune/Asc = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `119`
-- `Neptune/Hades = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `248`
-- `Neptune/Hades = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `394`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Hades = Neptune](../activations/asc-hades-equals-neptune.md#witte-entry) (PDF entry-start p. 92); [Neptune/Asc = Hades](../activations/neptune-asc-equals-hades.md#witte-entry) (PDF entry-start p. 89); [Neptune/Hades = Asc](../activations/neptune-hades-equals-asc.md#witte-entry) (PDF entry-start p. 248).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Hades = Neptune](../activations/asc-hades-equals-neptune.md#abc-entry) (printed p. 125); [Neptune/Asc = Hades](../activations/neptune-asc-equals-hades.md#abc-entry) (printed p. 119); [Neptune/Hades = Asc](../activations/neptune-hades-equals-asc.md#abc-entry) (printed p. 394).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Hades = Neptune`: the rotting or collapsing of the environment itself, with contamination becoming more diffuse, hidden, or terminal.
-- `Neptune/Asc = Hades`: This activation darkens uncertain contact through others into danger, damage, or degrading consequences, where misplaced trust or confused involvement leads into harmful conditions.
-- `Neptune/Hades = Asc`: This activation personalizes deception and disappointment through one’s immediate surroundings, showing harmful confusion in local relations and bodily vulnerability to watery or wasting conditions.
+Neptune, Asc and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Hades](../axes/asc-hades.md)
+- [Neptune/Asc](../axes/neptune-asc.md)
+- [Neptune/Hades](../axes/neptune-hades.md)
 - [Neptune](../factors/neptune.md)
 - [Asc](../factors/asc.md)
 - [Hades](../factors/hades.md)

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Admetos/Vulcanus = Neptune`
 - Astronomicon formula: `¦/§ = Y`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 311, Neptune row.
+
 A change in the form of being works out in a very unfortunate way for the native.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Influential circulatory weakness, constricting water energy, strengthening by the influence of metaphysics, strengthening of power by fine feeling, weakening influence by depression, strong air compaction, compaction of subtle energies (materialization) curtailment of violent developments, end of power unfolding, and energy differentiation
+Reference: printed p. 475 (one-based PDF p. 236), Neptune row, ending at “Materialisation” before the Pluto glyph.
+
+Influential circulatory weakness, constricting water energy, strengthening by the influence of metaphysics, strengthening of power by fine feeling, weakening influence by depression, strong air compaction, and compaction of subtle energies (materialization).
+
+## Comparative Schema
+
+- core meaning: Unfortunate change in one's form of being, with weakening or consolidating influences in ABC.
+- psychology: Sensitivity can consolidate power; depression is named as a weakening influence.
+- body/health: ABC's circulatory weakness and depression are historical associations, without a diagnosis or mechanism.
+- social/relationship: No specific relationship pattern is supplied.
+- events/manifestations: Unfortunate change, constricting water energy, compressed air, or materialization of subtle energies.
+- conflicts/notes: The water, air, and metaphysical meanings remain distinct source expressions; the following Pluto row is excluded.
+
+## Contradictions
+
+ABC's consolidating and weakening influences are alternatives. They broaden the entry beyond Witte's unfortunate change without explaining when each applies.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Neptune`: difficult transitions, vulnerable states under heavy force, and conditions where weakness meets pressure badly. Main caution: ruinous softening: instability, dissolution, or mismanaged change makes hardship worse rather than easing it.
+In `Admetos/Vulcanus = Neptune`, Neptune specifies the pair through a change in one's form of being that turns out unfortunately in the [Witte entry](#witte-entry). The [ABC entry](#abc-entry) adds weakening influences alongside power consolidated through sensitivity or metaphysics. Its images of water energy, compressed air, and materialized subtle energies preserve a wider physical and metaphysical range. The attributed health language does not establish a diagnosis, and neither entry identifies mismanagement as the cause of misfortune.
 
 ## Links
 

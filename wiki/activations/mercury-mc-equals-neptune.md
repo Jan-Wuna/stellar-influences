@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Neptune MC](../triads/mercury-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 Thinking of nothing. Not able to recognize important points. To be absentminded. To be prepared for something. To receive intuitive messages.
 
@@ -45,17 +49,25 @@ Thinking of nothing. Not able to recognize important points. To be absentminded.
 
 #### ABC Entry
 
-I at the thinking of the future, I at the thinking of the air, mcinc exchange, mcinc language with strangers, my thoughts of water, my thoughts are unclear, my linguistic sensitivity, and my thinking weakness
+German passage (transcribed from PDF page `33`, printed page `69`):
+
+> Ich denke an die Zukunft, ich denke an die Luft, meine Enttäuschung bedenken, meine Gespräche mit Fremden, meine Gedanken an Wasser, meine Gedanken an Feinstoffliches, meine Gedanken sind unklar, mein sprachliches Feingefühl, meine Denk-Schwäche
+
+Editorial translation from the German passage: I think of the future; I think of air; considering my disappointment; my conversations with strangers; my thoughts of water; my thoughts about subtle matter; my thoughts are unclear; my linguistic sensitivity; my weakness of thought.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0574.
 
 Reveling in one's own thoughts, contemplation, fantastic notions, receptive to external stimuli and influences. Reverie or ecstasy, tendency to let oneself go, disappointments.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 To be able to subtly perceive the spiritual communications coming to one. An imagination that has great cleverness and complexity. The potential of one’s ideas being misapprehended by the world.
 
@@ -70,22 +82,21 @@ Allows personal or self-deceptive practices or habits to confuse your judgment a
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal thought moves through imagination, receptivity, and uncertain judgement.
+- psychology: Reverie, absentmindedness, complex imagination, and possible self-deception.
+- body/health: No specific body or health claim appears.
+- social/relationship: Subtle spiritual communication in Sandbach; ideas misapprehended by others.
+- events/manifestations: Intuitive messages, disappointment, and uneven attention to projects.
+- conflicts/notes: Munkasey's mature use of research remains beside confused judgment and lax attention.
 
 ## Contradictions
 
-- None recorded yet.
+The entries include intuitive or subtle reception and also unclear thought or disappointment. Munkasey's mature research use remains a materially different possibility from his self-deceptive habits.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Neptune`: inspired reflection, complex imagination, and a vocation or worldview shaped by dreams, symbolism, or invisible influences. Main caution: drift: absentmindedness, disappointment, or glamorized thinking can weaken clarity about where life is actually going.
+Neptune specifies Mercury/MC through receptive and imaginative thinking whose practical clarity varies. The [Witte](#witte-entry), [Ebertin](#ebertin-entry), and [Sandbach](#sandbach-entry) entries range from intuition and subtle spiritual communication to absentmindedness, reverie, and being misunderstood. [Munkasey](#munkasey-entry) (p. 184) preserves both self-deception or lax attention and a mature use of research abilities. These possibilities should remain together; the passages do not establish a single dreamy vocation.
 
 ## Links
 

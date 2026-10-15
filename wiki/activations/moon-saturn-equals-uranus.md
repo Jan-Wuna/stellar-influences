@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Uranus`
 - Astronomicon formula: `R/W = X`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 A woman with nervous disease. The suddenly separated woman. Sudden widowhood. Disturbances and sudden separations in the evening hours.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `185`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Stress of a people by technique, most recent event in the hour, excitement of an old woman, nervous collapses of a people, reform problems of a people, separation event for a woman, surprising pain of a woman, and lossy people reform
+A people's burden through technology, a serious event in the hour, excitement of an old woman, nervous disturbances of feeling, a people's reform problems, a separation event for a woman, a woman's unexpected pain, and a people's loss-laden reform
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0380`.
 
 #### Ebertin Entry
 
 Impulsive release of inner tension, desire to free oneself from inhibitions. Nervous tension, sudden mental and emotional suffering, separation.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ Abrupt feelings of gloom or dismay about your family obligations; unusual memori
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: sudden release of emotional tension and an urge to escape inhibiting or heavy feelings.
+- psychology: abrupt sadness, nervous tension, unusual vulnerability, and gloom about family duties are named.
+- body/health: Witte's nervous disease is a historical claim; Ebertin describes nervous tension.
+- social/relationship: sudden separation, unusual care, and indifference to those needing nurture are examples.
+- events/manifestations: ABC includes technological burdens and troubled reforms; Witte includes evening disturbances.
+- conflicts/notes: the entries support abrupt change and release rather than assured disciplined adaptation.
 
 ## Contradictions
 
-- None recorded yet.
+Wanting freedom from heavy feelings is not the same as achieving it. The sources include unusual expressions of care as well as indifference and sudden separation, without making these universal.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Uranus`: serious adaptation, disciplined emotional reform, and the ability to hold together while inner structures shift. Main caution: brittle containment: stored tension can break into erratic detachment, emotional rupture, or defensive volatility.
+In Moon/Saturn = Uranus, Uranus specifies the pair through abrupt changes in emotional pressure and the wish to break free of inhibitions. [Ebertin](#ebertin-entry) names impulsive release of tension; [Sandbach](#sandbach-entry) pairs a desire for freedom with sudden sadness and unusual ways of handling vulnerability. [Munkasey](#munkasey-entry) adds sudden gloom about family obligations and unconventional or indifferent responses to care needs (p. 120).
+
+The [Witte entry](#witte-entry) preserves sudden separation and historical illness or widowhood claims, while [ABC](#abc-entry) adds troubled collective reform and technological burdens (printed p. 185, PDF p. 91). These examples support disruption and release, without promising that emotional change will be orderly.
 
 ## Links
 

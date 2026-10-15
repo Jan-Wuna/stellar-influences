@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/MC = Sun`
 - Astronomicon formula: `Y/MC = S`
 - Axis page: [Neptune/MC](../axes/neptune-mc.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `68` (entry start; one-based).
+
 #### Witte Entry
 
 Personal weaknesses, secrets or want of clarity. Bodily deception. Cosmetics. Sleight-of-hand.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `80`, PDF p. `39` (entry).
+
 #### ABC Entry
 
-My subtle body, my body in the water, air in my body, my caring subtlety, my caring insecurity, my human weakness, my personal imaginings, mcinc personal exchanges, and sensitive soul in the body
+My subtle-material body, my body in water, air in my body, my bodily sensitivity, my bodily uncertainty, my human weaknesses, my personal premonitions, my personal disappointments, and a sensitive soul in the body
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `290`, entry code `1035`.
 
 #### Ebertin Entry
 
 Physical disguise, putting on an act, hiding of one's character by the pretense of qualities one does not have. Discontentment with one's occupation or work, indecisive. Tendency to waver or vacillate and inability to make up one's mind.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `114` (entry; chapter starts on PDF p. `113`).
 
 #### Sandbach Entry
 
@@ -62,7 +72,7 @@ The need to perceive the meaning inherent in the overall patterns in one’s lif
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
 - Source heading: `NEPTUNE/MIDHEAVEN with Planets and Points`
-- Source page: `340`
+- Source reference: printed p. `340` (entry).
 
 #### Munkasey Entry
 
@@ -70,22 +80,21 @@ Added personal power and self-determination for lifting yourself out of self-pit
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: personal identity and life direction considered through uncertainty, appearance, and ideals.
+- psychology: indecision, pretended qualities, personal premonitions, and disappointment are explicit.
+- body/health: ABC's subtle-material body and bodily uncertainty are historical descriptions without a medical mechanism.
+- social/relationship: putting on an act and choosing work intended to benefit others are different social expressions.
+- events/manifestations: cosmetics, sleight-of-hand, occupational dissatisfaction, and visualizing direction are named.
+- conflicts/notes: Sandbach and Munkasey allow meaningful direction and self-determination; inspired leadership and a fixed public role are not established.
 
 ## Contradictions
 
-- None recorded yet.
+Witte and Ebertin stress disguise and uncertainty. Sandbach stresses meaningful career ideals, while Munkasey describes moving beyond delusion through self-determination.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Neptune/MC = Sun`: inspired leadership, symbolic vocation, and the wish to embody a larger meaning through public life. Main caution: ego-ideal confusion: identity can be invested in the wrong role, sustained by fantasy, or weakened by uncertainty about true purpose.
+In Neptune/MC = Sun, uncertainty about oneself or one's direction can be expressed in appearance, indecision, or a search for meaningful work. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) describe disguise and pretended qualities; [ABC](#abc-entry) adds personal premonitions and disappointments. [Sandbach](#sandbach-entry) frames career ideals as meaningful and beneficial to others, while [Munkasey](#munkasey-entry) describes self-determination and clearer visualization of direction. These are distinct possibilities within the entry, without establishing a particular leadership identity.
 
 ## Links
 

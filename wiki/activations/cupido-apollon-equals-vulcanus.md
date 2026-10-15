@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Cupido/Apollon](../axes/cupido-apollon.md)
 - Triad hub: [Cupido Apollon Vulcanus](../triads/cupido-apollon-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Read the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+Source locator: PDF 270 (printed 274).
 
 #### Witte Entry
 
@@ -40,14 +44,29 @@ Family meetings. Great family festivities or celebrations. Greatest success thro
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+Source locator: PDF 214 (printed 431).
+
 #### ABC Entry
 
 Extension of violence in the Community, influential art community, successful influence of a community, common economic power, strong trade community, and increasing violence in the Community
 
+## Comparative Schema
+
+- core meaning: Large gatherings and outstanding communal success, alongside economic power and increasing Gewalt.
+- psychology: No distinct inner disposition is specified.
+- body/health: No specific physical or medical claim.
+- social/relationship: Family meetings, great festivities and an organization's conference.
+- events/manifestations: Outstanding artistic or scientific accomplishment; great economic success; strong trade association.
+- conflicts/notes: ABC's Gewalt can mean force or violence; its violent wording must not be erased by Witte's success theme.
+
+## Contradictions And Differences
+
+ABC's Gewalt can mean force or violence; its violent wording must not be erased by Witte's success theme. Comparison is limited to the exact entries above.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Apollon = Vulcanus`: force-backed collective success, strong institutions, and large gatherings carrying real weight. Main caution: collective power becoming too heavy, overpowering, or self-important.
+`Cupido/Apollon = Vulcanus` concerns the scale and influence of communal accomplishment and gathering. The [Witte entry](#witte-entry) names family celebrations, organizational conferences, outstanding artistic or scientific success and great economic success. The [ABC entry](#abc-entry) adds influential artistic association, common economic power and strong trade community, but also expanding or increasing Gewalt, rendered as violence in the entry. That separate force-or-violence range remains visible alongside the favorable achievements.
 
 ## Links
 

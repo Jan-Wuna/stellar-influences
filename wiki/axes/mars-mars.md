@@ -46,13 +46,26 @@ updated_at: 2026-04-21
 - Axis: `Mars/Mars`
 - Astronomicon axis: `U/U`
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page: `190`
+
 #### Pair Summary
 
 Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.
+
+## Comparative Schema
+
+- core meaning: The repeated-factor entry describes action, will, decision, and execution in the [Pair Summary](#pair-summary).
+- psychology: Resolve and decisiveness stand alongside impulse, impulsiveness, and passion.
+- body/health: "Inflammation" is a historical source correspondence; the entry does not establish a diagnosis or a bodily outcome.
+- social/relationship: Employment and occupation place action in working life. "Male persons" is the source's historical gender association, not a rule about who can express these themes.
+- events/manifestations: Work, execution of a decision, and mechanical accomplishment are explicitly named.
+- conflicts/notes: Repeating Mars in the page identity does not by itself establish an intensified effect. Fighting, overheating, or inevitable conflict cannot be added to this short pair entry as separate claims.
 
 ## Related Activations
 
@@ -81,8 +94,9 @@ Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Mars` is the pure axis of action, will, effort, decision, passion, labor, and direct expenditure of energy.
-- Chart expression: concentrated drive and execution: the urge to act, work, fight, build, decide, and push events forward. It is raw Mars intensified, so its gifts are force and accomplishment, while its risks are impulsiveness, inflammation, conflict, and over-heated action.
+`Mars/Mars` gathers the movement from impulse and decision into action: will becomes work, execution, or accomplishment. Resolve and energy belong to this account, as do passion and impulsiveness. Employment, occupation, and mechanical accomplishment give the otherwise broad language practical settings in the [Pair Summary](#pair-summary).
+
+This repeated-factor entry does not itself establish that the meanings are stronger than on a factor page. Its references to inflammation and male persons remain attributed historical correspondences.
 
 ## Links
 

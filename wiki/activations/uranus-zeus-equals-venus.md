@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Zeus = Venus`
 - Astronomicon formula: `X/£ = Q`
 - Axis page: [Uranus/Zeus](../axes/uranus-zeus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 238.
+
 Procreation of a girl. To be in harmony with the natural forces. To harmonize and direct the forces of nature.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Exciting peace efforts, joyful surprises, harmonious design pulses, new peace goal, new artificial direction, rhythmic artificial design, creative artificial impulses, and surprising love fire
+- Source page: 378 (printed); PDF page: 188.
+
+Exciting peace efforts, joyful surprises, harmonious design pulses, new peace goal, new artistic direction, rhythmic artistic design, creative artistic impulses, and surprising love fire
+
+## Comparative Schema
+
+- Core meaning: Harmony directs creative and natural forces.
+- Psychology: Joyful surprise and harmonious impulses.
+- Body/health: Historical girl-procreation claim; no sex prediction.
+- Social/relationship: Peace goals and sudden love.
+- Events/manifestations: Artistic creation and shaping natural forces.
+- Conflicts/notes: Artistic meaning is restored from Kunst; no child-sex prediction.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Artistic meaning is restored from Kunst; no child-sex prediction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Zeus = Venus`: Procreation of a girl. To be in harmony with the natural forces. To harmonize and direct the forces of nature.
-- Practical expression: exciting peace efforts, oyful surprises, harmonious design pulses, new peace goal, and new artificial direction.
+Venus specifies Uranus/Zeus through harmonizing and directing forces rather than merely releasing them. Peace efforts, artistic creation, and surprising love give this direction concrete forms. Witte's historical association with procreating a girl remains source doctrine, not a usable prediction of a child's sex. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

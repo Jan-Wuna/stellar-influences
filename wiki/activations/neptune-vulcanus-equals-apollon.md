@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Vulcanus = Apollon`
 - Astronomicon formula: `Y/§ = ¥`
 - Axis page: [Neptune/Vulcanus](../axes/neptune-vulcanus.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `253` (entry start; one-based).
+
 #### Witte Entry
 
 Inflation. Destruction of prosperity. Great schemes of swindles. Detection of extensive corruption.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `405`, PDF p. `201` (entry).
+
 #### ABC Entry
 
 influence through refinement of knowledge, influential trade with water, energy economy with fine substances, experiences with wind energy, success through strong intuition, sea trade power, strong influence of metaphysics, and increase of water energy
 
+## Comparative Schema
+
+- core meaning: large economic or deceptive schemes contrasted with knowledge, trade, and energy-related success.
+- psychology: strong intuition and refined knowledge are explicit.
+- body/health: fine substances and energy-economy language supply no individual health claim.
+- social/relationship: extensive corruption, swindles, and influential trade are named.
+- events/manifestations: inflation, lost prosperity, detection of corruption, wind energy, and maritime trade are stated.
+- conflicts/notes: the source does not make all energy trade or extensive knowledge corrupt.
+
+## Contradictions
+
+Witte emphasizes inflation, swindles, and corruption. ABC also includes trade, knowledge, and successful intuition without identifying those activities as fraudulent.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Vulcanus = Apollon`: Inflation. Destruction of prosperity. Great schemes of swindles. Detection of extensive corruption.
-- Practical focus: expands hidden force into large-scale distortion, inflation, or corruption. It can show powerful deceptive schemes, destructive excess around prosperity, or the exposure of broad networks of fraud and misuse.
-- Practical expression: influence through refinement of knowledge, influential trade with water, energy economy with fine substances, experiences with wind energy, and success through strong intuition.
+In Neptune/Vulcanus = Apollon, influence has an extensive economic or knowledge-related setting. [Witte](#witte-entry) names inflation, destruction of prosperity, swindles, and detection of corruption; [ABC](#abc-entry) adds refined knowledge, water trade, wind energy, and success through intuition (printed p. 405, PDF p. 201). The severe fraud examples remain distinct from the ordinary trade and energy examples, without a claim that scale itself produces corruption.
 
 ## Links
 

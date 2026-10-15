@@ -30,25 +30,45 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Zeus](../axes/mercury-zeus.md)
 - Triad hub: [Mercury Neptune Zeus](../triads/mercury-neptune-zeus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Evidence locator: one-based PDF p. 168 (exact oriented entry checked against the scan); source heading: `Mercury + Zeus`.
+
 #### Witte Entry
 
-Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
+Secret agreements. Secret laws. Destructive or fruitless requests. Unable to command. Commands without effect.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 259; one-based PDF p. 128 (oriented row checked against the scan); source heading: `Merkur + Zeus`.
+
 #### ABC Entry
 
-Talks about the achievements of water, creative language about metaphysics, creative thoughts about the future, weak thought performance, weak performance in youth, insecurity at the beginning of speech, the future of youth The development of a fiery language, the creative development of young people, and the thinking of learning
+Conversations about the achievements of water, creative conversations about metaphysics, creative thoughts about the future, weak thought performance, weak achievements among youth, uncertainty at the beginning of conversation, future goals of youth.
+
+Editorial note: Witte reads `fruitless` in the actual PDF. The ABC scan ends Neptune with `Zukunfts-Ziele der Jugend`; the following development of fiery conversation and creative youth belongs to the Pluto row.
+
+## Comparative Schema
+
+- core meaning: Purposeful speech and command encounter secrecy, ineffectiveness and uncertainty alongside creative future-oriented thought.
+- psychology: Metaphysical discussion and creative thoughts of the future coexist with weak thought performance and uncertainty at a conversation's beginning.
+- body/health: Weak thought performance is a source association rather than a medical diagnosis.
+- social/relationship: Secret agreements and uncertainty in starting conversation are interpersonal settings.
+- events/manifestations: Secret laws, destructive or fruitless requests, ineffective commands and discussion of water's achievements are examples.
+- conflicts/notes: The scan ends this row with youth's future goals; the following developmental clauses belong to Pluto.
+
+## Contradictions
+
+No direct contradiction is established. Creative future-oriented thought does not remove the separate themes of secrecy, weakness and ineffective commands.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Zeus = Neptune`: Secret agreements. Secret laws. Destructive or fruidess requests. Unable to command. Commands without effect.
-- Practical expression: talks about the achievements of water, creative language about metaphysics, creative thoughts about the future, weak thought performance, and weak performance in youth.
+In `Mercury/Zeus = Neptune`, directed communication may remain concealed or fail to produce its intended effect: secret agreements and laws stand beside destructive or fruitless requests and commands without effect. Creative discussion of metaphysics, thought about the future and youth's future goals give the orientation an imaginative subject, while weak performance and uncertainty at the beginning of a conversation describe difficulties in expression. These themes retain their own row boundary and do not inherit Pluto's development of creative thinking. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

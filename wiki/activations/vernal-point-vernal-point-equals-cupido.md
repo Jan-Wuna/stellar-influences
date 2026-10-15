@@ -26,6 +26,7 @@ updated_at: 2026-04-21
 - Astronomicon formula: `VP/VP = ¡`
 - Axis page: [Vernal Point/Vernal Point](../axes/vernal-point-vernal-point.md)
 - Repeated-pair identity: no distinct triad hub exists for this activation.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
@@ -33,10 +34,23 @@ updated_at: 2026-04-21
 
 Sociability. Joint-stock company. Getting married. Art and art products in general. Public associations and communities. Social affairs. Public collections.
 
+## Comparative Schema
+
+- core meaning: public life takes collective and social forms.
+- psychology: sociability is explicit, without a fuller personality description.
+- body/health: no bodily or medical implication is stated.
+- social/relationship: marriage, associations, and communities are named forms of joining.
+- events/manifestations: joint-stock companies, art products, social affairs, and public collections are examples.
+- conflicts/notes: personal marriage and public organizations are distinct manifestations; neither defines the other.
+
+## Contradictions
+
+- One source entry is present. Its institutional, marital, and artistic examples share a collective setting without establishing one mandatory outcome.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Vernal Point = Cupido`: sociability, joint-stock company, getting married, art and art products in general, and public associations and communities.
+In `Vernal Point/Vernal Point = Cupido`, Cupido specifies the repeated public-world pair through people joining and things gathered into shared forms. The [Witte entry](#witte-entry) ranges from sociability and marriage to public associations, communities, joint-stock companies, art products, and collections (PDF p. 34). The throughline is collective participation, while marriage, commerce, and art remain distinct examples rather than interchangeable predictions.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Cupido](../axes/sun-cupido.md)
 - Triad hub: [Sun Node Cupido](../triads/sun-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 115; PDF page 111 (one-based).
 
 To proceed to marry. Relationships with artists.
 
@@ -42,13 +46,27 @@ To proceed to marry. Relationships with artists.
 
 #### ABC Entry
 
-Meeting of persons in the community, relations of a man to the artist, joint body contacts, personal connection to the community, connections in a male community, and day of common contacts
+Source locator: printed page 158; PDF page 78 (one-based).
+
+Meeting of persons in the community, a man's relationship to art, joint body contacts, personal connection to the community, connections in a male community, and day of common contacts.
+
+## Comparative Schema
+
+- core meaning: Personal connections formed through community, marriage or art.
+- psychology: No specific inner disposition is established by these entries.
+- body/health: Shared bodily contacts are named without a specific disorder.
+- social/relationship: Proceeding to marry, relationships with artists and ties within a community.
+- events/manifestations: Community encounters and a day of common contacts.
+- conflicts/notes: ABC names a relationship to art; Witte separately names relationships with artists.
+
+## Contradictions And Comparison Notes
+
+Both entries concern concrete connections. Witte specifies marriage and artists; ABC broadens the communal setting and retains a personal relation to art itself.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Cupido = Node`: a family tie or connection and community.
-- Practical expression: meeting of persons in the community, relations of a man to the artist, joint body contacts, personal connection to the community, and connections in a male community.
+For `Sun/Cupido = Node`, shared life takes the form of an encounter or personal bond. [Witte](#witte-entry) specifies proceeding to marriage and relationships with artists; [ABC](#abc-entry) describes meeting people in a community, bodily contacts and a personal connection to the group, alongside a man's relation to art. The entries therefore connect individual ties with communal or artistic participation, without limiting every bond to a family relationship.
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `MC/£`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `72`
 
 #### Pair Summary
 
@@ -79,6 +83,15 @@ One’ own creative abilities. Hie thirst for action. The urge to work. Passion 
 #### ABC Pair Summary
 
 k h begin, I create, inner fire, my product, my goal, my efforts, my leadership, my creativity, my ideas, my suggestions, and my spiritual guidance
+
+## Comparative Schema
+
+- core meaning: Personal creative drive directed toward a goal or accomplishment ([pair summary](#pair-summary)).
+- psychology: Thirst for action, passion for work, initiative, and consciously directed energy ([pair summary](#pair-summary)).
+- body/health: Witte includes creation or fathering in the source vocabulary, but gives no medical correspondence ([pair summary](#pair-summary)).
+- social/relationship: The desire to lead and assert oneself is explicit; no specific partnership pattern is developed ([pair summary](#pair-summary)).
+- events/manifestations: Beginning, creating, producing, and carrying an effort toward a goal are supported possibilities ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- conflicts/notes: The urge to accomplish and actual accomplishment remain distinct. OCR-damaged and loosely translated ABC terms do not add secure meanings.
 
 ## Related Activations
 
@@ -103,11 +116,14 @@ k h begin, I create, inner fire, my product, my goal, my efforts, my leadership,
 - [MC/Zeus = Vernal Point](../activations/mc-zeus-equals-vernal-point.md)
 - [MC/Zeus = Vulcanus](../activations/mc-zeus-equals-vulcanus.md)
 
+## Contradictions
+
+The summaries place work, creativity, and leadership together without identifying a direct conflict. The ABC opening `k h begin` and its closing `my ideas`, `my suggestions`, and `my spiritual guidance` require checking against the OCR-damaged German; no distinct doctrine is inferred from those renderings. Witte's fathering example remains source-specific.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Zeus` is the axis of vocational drive, directed creation, leadership, and the goal-oriented use of consciously controlled energy.
-- Chart expression: a self-definition built around work, initiative, and the urge to accomplish, create, lead, or assert oneself through planned effort and forceful intention.
+`MC/Zeus` concerns the inner drive to create and accomplish something. Work, initiative, and leadership meet in a wish to direct one's energy toward a goal, rather than merely feel an impulse to act. The [pair summary](#pair-summary) makes this purposeful effort explicit through passion for work, creative ability, and the desire to lead; the legible goal, effort, and creativity terms in the [ABC summary](#abc-pair-summary) support the same emphasis. The entries describe motivation and directed effort without assuring that every intended result is achieved.
 
 ## Links
 

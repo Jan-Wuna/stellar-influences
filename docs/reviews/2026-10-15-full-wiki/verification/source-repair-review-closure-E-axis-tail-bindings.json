@@ -1,0 +1,291 @@
+{
+  "scope": "Exact stable E axis tail bindings; no new review count",
+  "targets": [
+    {
+      "path": "wiki/axes/sun-moon.md",
+      "after_source_sha256": "424da015addc283d7d9a88eff09b15edd689d55df91e8e8d6906dd8683514a33",
+      "after_file_sha256": "d287fe88a118c9e65bfbe301881d5abca5b5daae9ee0517b282e59bd760c025c",
+      "owner_record_sha256": "ce41db133d53fec54ed4a2cf5ae7bf58d914983634291999a05d3e845973f62e",
+      "owner_record_line": 1,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/sun-moon.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-022.jsonl",
+        "original_record_line": 1,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "bounded_limitation",
+        "flags": [
+          "Unverified spelling/word splits in unchanged Falis/Carter source blocks remain preserved; source-native gender/timing claims remain attributed and are not generalized into axis predictions."
+        ],
+        "decision": "Joined verified Falis line-break word splits and restored Self-satisfied; retained actual printed wording quirks explicitly, verified complete Carter5–8 passage/boundaries and joined its page-break paragraph, with exact source locators. Existing synthesis and historical qualifications preserved.",
+        "raw_locator": "Falis actual PDF3–4 complete Sun/Moon brainstorm; Carter printed/PDF5–8 complete Sun/Moon overview/aspect/example section",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-sun-moon-falis-pdf3.png",
+          "verification/source-closure-E-axes013-024-sun-moon-falis-pdf4.png",
+          "verification/source-closure-E-axes013-024-sun-moon-carter-pdf5.png",
+          "verification/source-closure-E-axes013-024-sun-moon-carter-pdf6.png",
+          "verification/source-closure-E-axes013-024-sun-moon-carter-pdf7.png",
+          "verification/source-closure-E-axes013-024-sun-moon-carter-pdf8.png"
+        ],
+        "native_check": "Actual line-break fragments personal/secure/Instinctively/Feelings/neediness/emotions/unconsciousness/Experiencing/between/fulfillment joined; Falis identity/who are you are/can'/Incredibly quirks and Carter ordinate past actually printed.",
+        "before_source_section_sha256": "fed611b4fe83e9272f874a017faef666d34f3bbe29cb5994aee9d9e00bcefbfe",
+        "final_source_section_sha256": "424da015addc283d7d9a88eff09b15edd689d55df91e8e8d6906dd8683514a33",
+        "final_page_sha256": "d287fe88a118c9e65bfbe301881d5abca5b5daae9ee0517b282e59bd760c025c",
+        "unresolved": [
+          "Falis PDF3–4 literally prints Do you identity, who are you are, can' get along and Incredibly inner compulsion. Carter PDF5 literally prints ordinate past. These source wording quirks are explicitly retained; no intended replacements or new meanings inferred."
+        ],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-admetos.md",
+      "after_source_sha256": "d03585c5c5a9b6b1398eef9bf39cfa277d393adaf55171105017658cd0ab6e12",
+      "after_file_sha256": "af710c455905cabb49ea4c8c731120bd7aa932ab24fc95bbec46b17b152da7af",
+      "owner_record_sha256": "38c50a970ef0ea8fbfa266c61d6b6eb73837048b10a8b4c6b1c7836f966f5edf",
+      "owner_record_line": 1,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-admetos.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 1,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "bounded_limitation",
+        "flags": [
+          "ABC pain phrase needs scan-checked repair; no source passage was changed."
+        ],
+        "decision": "Restored all nine ABC summary clauses, including suppressing pain; added exact ABC/Witte scan locators and reconciled the obsolete damage exclusions.",
+        "raw_locator": "ABC printed364/PDF181 complete bold pair summary (9 clauses); Witte exact bold pair summary PDF229",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf181.png",
+          "verification/source-closure-E-axes013-024-witte-pdf229.png"
+        ],
+        "native_check": "Complete native 9-clause bold pair summary read with glyph-owned activation boundaries excluded.",
+        "before_source_section_sha256": "159eae20ceb5af09ad64b790e4ec1d96cf371e8b9d6bd3a20119fc4c101d129f",
+        "final_source_section_sha256": "d03585c5c5a9b6b1398eef9bf39cfa277d393adaf55171105017658cd0ab6e12",
+        "final_page_sha256": "af710c455905cabb49ea4c8c731120bd7aa932ab24fc95bbec46b17b152da7af",
+        "unresolved": [
+          "ABC's Problem-Verdichtung remains the literal compaction of problems; the source provides no further causal explanation."
+        ],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-apollon.md",
+      "after_source_sha256": "32209ffce574af9d8be7ded7b0a80928e3f31f1217a627c84cfc10c11c71edfc",
+      "after_file_sha256": "cf4dfcaae19afc37e10624b417d35dd9564338c5e284bb83d49ee0b0bc4c7e5e",
+      "owner_record_sha256": "14be55f20dbf44f5e024fcf33540d572ae353b256dfa5024592cc924da3448ef",
+      "owner_record_line": 2,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-apollon.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 2,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "repaired",
+        "flags": [
+          "ABC OCR/translation fragments require checked source repair."
+        ],
+        "decision": "Restored all twelve ABC clauses, including omitted loss of freedom and corrupted science/pain wording; added exact ABC/Witte locators and corrected dependent exclusions.",
+        "raw_locator": "ABC printed362/PDF180 complete bold pair summary (12 clauses); Witte exact bold pair summary PDF228",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf180.png",
+          "verification/source-closure-E-axes013-024-witte-pdf228.png"
+        ],
+        "native_check": "Complete native 12-clause bold pair summary read with glyph-owned activation boundaries excluded.",
+        "before_source_section_sha256": "03e7cfc349243d67ebaf6fac34d14890734e888cb2fd71ba9c35423b742e3c51",
+        "final_source_section_sha256": "32209ffce574af9d8be7ded7b0a80928e3f31f1217a627c84cfc10c11c71edfc",
+        "final_page_sha256": "cf4dfcaae19afc37e10624b417d35dd9564338c5e284bb83d49ee0b0bc4c7e5e",
+        "unresolved": [],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-chiron.md",
+      "after_source_sha256": "f120ef424f1844dc952b03d5db3d6631e377b299bf5a4388169d1522fd5aab82",
+      "after_file_sha256": "aa08c2c814ab4497288c6fad000c68044bb0432b2bb62c5df041665c7617a02d",
+      "owner_record_sha256": "3a443c1614a2697f4ba6276a410b218b57a9525d3d09ea433dc999076ac86e33",
+      "owner_record_line": 4,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-chiron.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 4,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "bounded_limitation",
+        "flags": [
+          "Split-word extraction artifacts remain verbatim; no raw-source repair performed."
+        ],
+        "decision": "Joined three actual internal word splits with an explicit editorial note; established complete Sandbach Principle/Process at PDF87 and retained its printed grammatical quirk.",
+        "raw_locator": "Sandbach PDF87 complete Principle/Process",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-sandbach-pdf87.png"
+        ],
+        "native_check": "Actual printed internal splits Under standing, encoun tered, possi ble joined editorially; as ones grows older retained literally.",
+        "before_source_section_sha256": "ea7b82fd3a50f56416d3cd7fcf4742b5732f4d75fe1deefedccdd84de32acaa9",
+        "final_source_section_sha256": "f120ef424f1844dc952b03d5db3d6631e377b299bf5a4388169d1522fd5aab82",
+        "final_page_sha256": "aa08c2c814ab4497288c6fad000c68044bb0432b2bb62c5df041665c7617a02d",
+        "unresolved": [
+          "Sandbach literally prints 'as ones grows older'; retained with an explicit grammatical-quirk note."
+        ],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-cupido.md",
+      "after_source_sha256": "1d65eeb0da446ca0a71417c8e56266cf2a823215b4f4b984c572f927854de95a",
+      "after_file_sha256": "e6ad6ce599bc63deccaf940484220204d2e8693ebeaf8052055c17a553b8e997",
+      "owner_record_sha256": "774357030877c9e11efcc78e316883766aca93b37685153ccb9407679deab29c",
+      "owner_record_line": 5,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-cupido.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 5,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "repaired",
+        "flags": [
+          "ABC translation needs scan-verified replacement; its source entry is preserved verbatim."
+        ],
+        "decision": "Replaced the false economic-union summary with all nine actual ABC clauses; added exact ABC/Witte locators and reconciled the schema/synthesis.",
+        "raw_locator": "ABC printed354/PDF176 complete bold pair summary (9 clauses); Witte exact bold pair summary PDF224",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf176.png",
+          "verification/source-closure-E-axes013-024-witte-pdf224.png"
+        ],
+        "native_check": "Complete native 9-clause bold pair summary read with glyph-owned activation boundaries excluded.",
+        "before_source_section_sha256": "6eaacf6e650a95f6802c4d013c3dd124a2c998e14f7c540da0c45b7dff75e0ab",
+        "final_source_section_sha256": "1d65eeb0da446ca0a71417c8e56266cf2a823215b4f4b984c572f927854de95a",
+        "final_page_sha256": "e6ad6ce599bc63deccaf940484220204d2e8693ebeaf8052055c17a553b8e997",
+        "unresolved": [],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-hades.md",
+      "after_source_sha256": "cfa7d66f71a3d50adedd44bb08d34c1b68d465289480bbf7189fa545d4c562b8",
+      "after_file_sha256": "00ad9c226bf51185b253ed00bcce3bc7c975add246a02690d85c40ec99d1f7a7",
+      "owner_record_sha256": "41a7ddcebadc88416de41a9123dfe63a0528919ac6f6fe408750bdbd0cfe5263",
+      "owner_record_line": 6,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-hades.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 6,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "repaired",
+        "flags": [
+          "ABC omitted/damaged translation requires scan-checked repair."
+        ],
+        "decision": "Restored all ten ABC clauses omitted by the collapsed translation; added exact ABC/Witte locators and corrected dependent source caveats.",
+        "raw_locator": "ABC printed356/PDF177 complete bold pair summary (10 clauses); Witte exact bold pair summary PDF225",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf177.png",
+          "verification/source-closure-E-axes013-024-witte-pdf225.png"
+        ],
+        "native_check": "Complete native 10-clause bold pair summary read with glyph-owned activation boundaries excluded.",
+        "before_source_section_sha256": "ede16fdd580251163ae5329aa3909d68c0fe540887bdc7a1883160996b906071",
+        "final_source_section_sha256": "cfa7d66f71a3d50adedd44bb08d34c1b68d465289480bbf7189fa545d4c562b8",
+        "final_page_sha256": "00ad9c226bf51185b253ed00bcce3bc7c975add246a02690d85c40ec99d1f7a7",
+        "unresolved": [],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-kronos.md",
+      "after_source_sha256": "9a7764c34dc28a3da2b877e3df6cd993d625943e32c86bbb419445378398cab3",
+      "after_file_sha256": "1910f6c44763484456e96c9d3eb7e763de87aeb3909bb15a96c3cde7631d9e70",
+      "owner_record_sha256": "22df5474bcca823fbe5d8ad251cfd9ea00dce549de9e07d50c2c64ef0d13f556",
+      "owner_record_line": 7,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-kronos.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 7,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "repaired",
+        "flags": [
+          "ABC authority/patience phrases need scan-checked repair."
+        ],
+        "decision": "Corrected the complete ten-clause ABC summary's authority, patience and independence meanings; added exact ABC/Witte locators and removed obsolete corruption caveats.",
+        "raw_locator": "ABC printed360/PDF179 complete bold pair summary (10 clauses); Witte exact bold pair summary PDF227",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf179.png",
+          "verification/source-closure-E-axes013-024-witte-pdf227.png"
+        ],
+        "native_check": "Complete native 10-clause bold pair summary read with glyph-owned activation boundaries excluded.",
+        "before_source_section_sha256": "9425de575af342b921b963c783ea585dc80aabca483312fb5c9bbf552109307b",
+        "final_source_section_sha256": "9a7764c34dc28a3da2b877e3df6cd993d625943e32c86bbb419445378398cab3",
+        "final_page_sha256": "1910f6c44763484456e96c9d3eb7e763de87aeb3909bb15a96c3cde7631d9e70",
+        "unresolved": [],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-mc.md",
+      "after_source_sha256": "572b5b11a854be731eccb89d979ad39711a9c1c63eb3ad58354205df4bae31d0",
+      "after_file_sha256": "f93b260b72ce2d65c2d76e98073bfa9a155797e3ec003a84c36b1ac45aa0a9ee",
+      "owner_record_sha256": "fcc8f2016a835ef655509b64ca9a69bf82035a21f9a8db097d31d623927e6d1e",
+      "owner_record_line": 8,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-mc.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 8,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "repaired",
+        "flags": [
+          "ABC wording/omission needs raw-source checks; preserved verbatim."
+        ],
+        "decision": "Restored thirteen ABC clauses including hardness and inner tasks; separated Ebertin footnote56 from manifestations, removed repeated title/glyph debris and repaired plus marker against actual PDF264; joined verified Sandbach splits and added exact PDF95 locator.",
+        "raw_locator": "ABC printed76/PDF37 complete bold pair summary (13 clauses); Ebertin printed262/PDF264 complete entry+footnote56; Sandbach PDF95 complete Principle/Process",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf37.png",
+          "verification/source-closure-E-axes013-024-ebertin-pdf264.png",
+          "verification/source-closure-E-axes013-024-sandbach-pdf95.png"
+        ],
+        "native_check": "Complete native 13-clause bold pair summary read with glyph-owned activation boundaries excluded. Ebertin positive marker + and footnote56 verified; no repeated title/glyph prose. Sandbach three visible splits joined editorially.",
+        "before_source_section_sha256": "2cf3ea0bbb6d2f6e6732de01e947ff40b7a3895804aab6e7dbb4756fada1285f",
+        "final_source_section_sha256": "572b5b11a854be731eccb89d979ad39711a9c1c63eb3ad58354205df4bae31d0",
+        "final_page_sha256": "f93b260b72ce2d65c2d76e98073bfa9a155797e3ec003a84c36b1ac45aa0a9ee",
+        "unresolved": [],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    },
+    {
+      "path": "wiki/axes/saturn-neptune.md",
+      "after_source_sha256": "a6f2285c5b82cebf7734078ccebfa5b3ee22da8f980e3f2c7901888c24e73b70",
+      "after_file_sha256": "9397870940afabbd8546464370c5b316787fb9bffd67ce4a36fa0c422fc9c7cb",
+      "owner_record_sha256": "39a4f2bc42b1a76251c308e6f1efc2497f67bb35b679cb89dba41bfac1e7e501",
+      "owner_record_line": 9,
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+      "editor_receipt": {
+        "path": "wiki/axes/saturn-neptune.md",
+        "original_ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/axes-019.jsonl",
+        "original_record_line": 9,
+        "reviewer": "activation_review_039_042_closure_E_axes013_024",
+        "status": "bounded_limitation",
+        "flags": [
+          "ABC OCR/omissions require source verification; no raw wording repair attempted."
+        ],
+        "decision": "Restored all nine ABC clauses including sensitivity/patience, metaphysics and creeping losses; separated Ebertin footnote54 and removed repeated title/glyph debris against PDF251; established Carter's exact complete67–69 span with printed repetition preserved.",
+        "raw_locator": "ABC printed350/PDF174 complete bold pair summary (9 clauses); Ebertin printed249/PDF251 complete entry+footnote54; Carter printed/PDF67–69 complete categories+Examples",
+        "proofs": [
+          "verification/source-closure-E-axes013-024-abc-pdf174.png",
+          "verification/source-closure-E-axes013-024-ebertin-pdf251.png",
+          "verification/source-closure-E-axes013-024-carter-pdf67.png",
+          "verification/source-closure-E-axes013-024-carter-pdf68.png",
+          "verification/source-closure-E-axes013-024-carter-pdf69.png"
+        ],
+        "native_check": "Complete native 9-clause bold pair summary read with glyph-owned activation boundaries excluded. Ebertin footnote54 distinct from manifestations, printed medical claims retained; Carter complete passage matches including will be probably be.",
+        "before_source_section_sha256": "4693e06ab087c05a52b71381a974daee800088bf334c00cc3ced6bd32376c637",
+        "final_source_section_sha256": "a6f2285c5b82cebf7734078ccebfa5b3ee22da8f980e3f2c7901888c24e73b70",
+        "final_page_sha256": "9397870940afabbd8546464370c5b316787fb9bffd67ce4a36fa0c422fc9c7cb",
+        "unresolved": [
+          "Carter literally prints 'will be probably be'; retained with a source note.",
+          "Falis's conjunction chronology remains an attributed historical source statement, without current timing verification."
+        ],
+        "verification": "Actual raw scan checked; full current passage/context and original record read; dependent caveats corrected; scoped checks passed; no added full-review count."
+      }
+    }
+  ]
+}

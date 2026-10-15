@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Uranus/Vulcanus = Venus`
 - Astronomicon formula: `X/§ = Q`
 - Axis page: [Uranus/Vulcanus](../axes/uranus-vulcanus.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 242.
+
 Suddenly appearing great harmony and unity. To surprisingly experience great affection.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Dynamic power of love, influence of a new love, influential peace impulses, influential arts event, powerful impulses of harmony, new Harrnonian energies, sudden love influence, and Surprising violence in love
+- Source page: 386 (printed); PDF page: 192.
+
+Dynamic power of love, influence of a new love, influential peace impulses, influential arts event, powerful impulses of harmony, new harmonious energies, sudden love influence, and Surprising violence in love
+
+## Comparative Schema
+
+- Core meaning: Sudden affection, harmony, and the power of love.
+- Psychology: Surprising affection and strong harmonious impulses.
+- Body/health: No specific health claim.
+- Social/relationship: New love, unity, and ABC's violence-in-love possibility.
+- Events/manifestations: Peace impulses and an influential artistic event.
+- Conflicts/notes: ABC's violence in love qualifies the otherwise harmonious range.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+ABC's violence in love qualifies the otherwise harmonious range. The entries' different examples do not by themselves establish a contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Vulcanus = Venus`: Suddenly appearing great harmony and unity. To surprisingly experience great affection.
-- Practical expression: dynamic power of love, influence of a new love, influential peace impulses, influential arts event, and powerful impulses of harmony.
+Venus specifies Uranus/Vulcanus as a powerful, surprising movement toward affection and unity. Love, peace, and art can become channels for new energy. ABC also explicitly includes violence in love, so forceful attraction or renewed harmony should not be read as an assurance of safety or lasting agreement. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

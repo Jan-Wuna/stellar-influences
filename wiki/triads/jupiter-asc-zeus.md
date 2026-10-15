@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Jupiter Asc Zeus`
 - Astronomicon triad-set: `V Asc £`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Zeus = Jupiter](../activations/asc-zeus-equals-jupiter.md)
-- [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md)
-- [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md)
+- [Asc/Zeus = Jupiter](../activations/asc-zeus-equals-jupiter.md): base axis [Asc/Zeus](../axes/asc-zeus.md); activator [Jupiter](../factors/jupiter.md).
+- [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md): base axis [Jupiter/Asc](../axes/jupiter-asc.md); activator [Zeus](../factors/zeus.md).
+- [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md): base axis [Jupiter/Zeus](../axes/jupiter-zeus.md); activator [Asc](../factors/asc.md).
 
 ## Source Coverage
 
-- `Asc/Zeus = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `93`
-- `Asc/Zeus = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `126`
-- `Jupiter/Asc = Zeus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `86`
-- `Jupiter/Asc = Zeus`: Udo Rudolph - ABC for Planetary Pictures, page `113`
-- `Jupiter/Zeus = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `213`
-- `Jupiter/Zeus = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `336`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Zeus = Jupiter](../activations/asc-zeus-equals-jupiter.md#witte-entry) (PDF entry-start p. 93); [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md#witte-entry) (PDF entry-start p. 86); [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md#witte-entry) (PDF entry-start p. 213).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Zeus = Jupiter](../activations/asc-zeus-equals-jupiter.md#abc-entry) (printed p. 126); [Jupiter/Asc = Zeus](../activations/jupiter-asc-equals-zeus.md#abc-entry) (printed p. 113); [Jupiter/Zeus = Asc](../activations/jupiter-zeus-equals-asc.md#abc-entry) (printed p. 336).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Zeus = Jupiter`: being pushed toward luck, pleasure, or productive good with others.
-- `Jupiter/Asc = Zeus`: fatherhood and progress in one's work through patronage or active support.
-- `Jupiter/Zeus = Asc`: being actively engaged with people, working productively in shared space, and finding that the surroundings themselves support output.
+Jupiter, Asc and Zeus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Zeus](../axes/asc-zeus.md)
+- [Jupiter/Asc](../axes/jupiter-asc.md)
+- [Jupiter/Zeus](../axes/jupiter-zeus.md)
 - [Jupiter](../factors/jupiter.md)
 - [Asc](../factors/asc.md)
 - [Zeus](../factors/zeus.md)

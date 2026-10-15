@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Sun/Jupiter](../axes/sun-jupiter.md)
 - Triad hub: [Sun Jupiter Node](../triads/sun-jupiter-node.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: PDF page 106 (one-based).
 
 Beginning of physical happiness and well being. Lucky or successful connections. Wealthy connections.
 
@@ -45,17 +49,23 @@ Beginning of physical happiness and well being. Lucky or successful connections.
 
 #### ABC Entry
 
-Successful personal relationships, connected to a happy person, personal financial connections, personal legal connections, association of successful persons, mediation of a legal person, and advantageous personal contacts
+Source locator: printed page 148; PDF page 73 (one-based).
+
+Successful personal relationships, connected with happy people, personal financial connections, personal legal connections, association of successful persons, mediation of a legal person, and advantageous personal contacts.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-for mutual and shared happiness, desire to come into contact with happy or wealthy people, urge to obtain protection and sponsorship for one's advancement, wish to marry.
+Source locator: printed page 91; PDF page 93 (one-based), coded entry 0239.
+
+Striving for mutual and shared happiness, desire to come into contact with happy or wealthy people, urge to obtain protection and sponsorship for one's advancement, wish to marry.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+Source locator: PDF page 14 (one-based), Sun/Jupiter Node entry.
 
 Connecting with people who can help you attain success in life. The need to learn how to be approving and supportive of the self. Superficial selfaggrandizement in former lives may have created bad karma which one has to deal with now, and the way to do this is to make positive and meaningful contributions to the world around oneself.
 
@@ -70,22 +80,21 @@ Meeting and influencing other people who can be central to assisting with your s
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Successful connections that provide mutual happiness, support, resources or advancement.
+- psychology: Self-approval, political awareness and positive contribution are explicit themes.
+- body/health: Witte's beginning well-being is historical source language, not a health assessment.
+- social/relationship: Happy or wealthy contacts, sponsorship, legal/financial ties and a wish to marry.
+- events/manifestations: Meeting people who supply needed talent or resources and advantageous personal contacts.
+- conflicts/notes: Sandbach's former-life karma is attributed doctrine; opportunism or status dependence is not independently established here.
 
 ## Contradictions
 
-- None recorded yet.
+The entries overlap in helpful or fortunate connections. Sandbach also asks for self-support and meaningful contribution, framing the latter through his own former-life doctrine; Munkasey adds political awareness and practical resources.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Jupiter = Node`: successful teamwork, broad social reach, and growth through collective participation or public favor. Main caution: dependence on approval: alliances can become superficial, opportunistic, or overly tied to status.
+For `Sun/Jupiter = Node`, success is linked with people who offer support, talent or resources. [Witte](#witte-entry), [ABC](#abc-entry) and [Ebertin](#ebertin-entry) describe fortunate contacts, shared happiness and sponsorship; [Munkasey](#munkasey-entry) adds meeting and influencing people central to one's efforts. [Sandbach](#sandbach-entry) complements external help with self-approval and positive, meaningful contribution. The formula therefore concerns advantageous connections and one's participation in them, while Sandbach's karmic explanation remains attributed doctrine and Ebertin's wish to marry a particular relational expression.
 
 ## Links
 

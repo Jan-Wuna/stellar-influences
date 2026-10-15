@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Kronos Admetos Vulcanus`
 - Astronomicon triad-set: `¤ ¦ §`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Admetos/Vulcanus = Kronos](../activations/admetos-vulcanus-equals-kronos.md)
-- [Kronos/Admetos = Vulcanus](../activations/kronos-admetos-equals-vulcanus.md)
-- [Kronos/Vulcanus = Admetos](../activations/kronos-vulcanus-equals-admetos.md)
+- [Admetos/Vulcanus = Kronos](../activations/admetos-vulcanus-equals-kronos.md): base axis [Admetos/Vulcanus](../axes/admetos-vulcanus.md); activator [Kronos](../factors/kronos.md).
+- [Kronos/Admetos = Vulcanus](../activations/kronos-admetos-equals-vulcanus.md): base axis [Kronos/Admetos](../axes/kronos-admetos.md); activator [Vulcanus](../factors/vulcanus.md).
+- [Kronos/Vulcanus = Admetos](../activations/kronos-vulcanus-equals-admetos.md): base axis [Kronos/Vulcanus](../axes/kronos-vulcanus.md); activator [Admetos](../factors/admetos.md).
 
 ## Source Coverage
 
-- `Admetos/Vulcanus = Kronos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `311`
-- `Admetos/Vulcanus = Kronos`: Udo Rudolph - ABC for Planetary Pictures, page `475`
-- `Kronos/Admetos = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `300`
-- `Kronos/Admetos = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `463`
-- `Kronos/Vulcanus = Admetos`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `301`
-- `Kronos/Vulcanus = Admetos`: Udo Rudolph - ABC for Planetary Pictures, page `465`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Admetos/Vulcanus = Kronos](../activations/admetos-vulcanus-equals-kronos.md#witte-entry) (PDF entry-start p. 311); [Kronos/Admetos = Vulcanus](../activations/kronos-admetos-equals-vulcanus.md#witte-entry) (PDF entry-start p. 300); [Kronos/Vulcanus = Admetos](../activations/kronos-vulcanus-equals-admetos.md#witte-entry) (PDF entry-start p. 301).
+- Udo Rudolph - ABC for Planetary Pictures: [Admetos/Vulcanus = Kronos](../activations/admetos-vulcanus-equals-kronos.md#abc-entry) (printed p. 475); [Kronos/Admetos = Vulcanus](../activations/kronos-admetos-equals-vulcanus.md#abc-entry) (printed p. 463); [Kronos/Vulcanus = Admetos](../activations/kronos-vulcanus-equals-admetos.md#abc-entry) (printed p. 465).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Vulcanus = Kronos`: being noticed through extraordinary, harsh, or peculiar fateful events that set one apart.
-- `Kronos/Admetos = Vulcanus`: making a sensation as an odd character, drawing attention through singularity, and meeting grave obstacles because of that striking difference.
-- `Kronos/Vulcanus = Admetos`: a frozen or obsolete political order, suspended state power, and government force that has become rigid, peculiar, or inert.
+Kronos, Admetos and Vulcanus form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Admetos/Vulcanus](../axes/admetos-vulcanus.md)
+- [Kronos/Admetos](../axes/kronos-admetos.md)
+- [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - [Kronos](../factors/kronos.md)
 - [Admetos](../factors/admetos.md)
 - [Vulcanus](../factors/vulcanus.md)

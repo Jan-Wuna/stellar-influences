@@ -29,6 +29,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Mercury`
 - Astronomicon formula: `S/R = T`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -40,17 +42,23 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+Source locator: PDF page 101, Mercury entry under Sun + Moon.
+
 The train of thoughts during the hours of the day. Intimate conversations. Friendship or thoughts of marriage. Interesting days and hours. Young friendships.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-A young man's body, a language of carnal life, a language between man and woman, a young female body, a woman's body language, people's opinions, a language of human feelings, and words from personal feelings
+Source locator: printed page 138 / PDF page 68, Mercury glyph row under Sun + Moon. English translation checked against the scan.
+
+A young man's feelings, conversations about bodily feelings, conversations between man and woman, a young female body, a woman's body language, the opinions of people of the nation, the language of human feelings, and words arising from personal feeling.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source locator: printed page 78, entry 0183.
 
 One's attitude and thoughts in relation to the male and female principles, thoughts of marriage. Union of thoughts between husband and wife. Association between young people. Contemplation of marriage.
 
@@ -58,11 +66,17 @@ One's attitude and thoughts in relation to the male and female principles, thoug
 
 #### Sandbach Entry
 
+Source locator: PDF page 7, Mercury entry under Sun/Moon.
+
 Ability to balance feeling with thinking when communicating. To communicate with a rich aliveness and vitality. When one is able to think and communicate effectively one tends to feel balanced and energized. One’s finds meaning in life through gathering information and using it in contexts where it can be appreciated. Difficulties communi cating can upset one’s balance and deplete one’s vitality.
 
 ### Don McBroom - Midpoints
 
+- Source heading: `Mercury at the Sun/Moon Midpoint`
+
 #### McBroom Entry
+
+Source locator: printed page 49 / one-based PDF page 60, admitted excerpt.
 
 We expect that thoughts, ideas, and communication will be involved as the central unifying focus for the individual, and in his interactions with others.
 
@@ -77,22 +91,21 @@ Using your education and reasoning to progress thru life; absorbing the various 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Communication as a meeting point of thought, feeling and personal relationships.
+- psychology: Reasoning, learning and balancing feeling with thought; ideas provide a unifying focus.
+- body/health: ABC includes bodily feeling and body language; Sandbach relates communication to vitality without specifying a disorder.
+- social/relationship: Intimate conversation, mental rapport, young friendships and thoughts of marriage.
+- events/manifestations: Applying knowledge, gathering information, discussing feelings and considering partnership.
+- conflicts/notes: Sandbach describes both energizing communication and depletion through difficulty; thoughts of marriage are not a marriage prediction.
 
 ## Contradictions
 
-- None recorded yet.
+The entries connect thinking and relationship without a direct disagreement. Sandbach explicitly qualifies effective communication with its possible difficulty and loss of vitality; the other entries emphasize conversation, learning and mental connection.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Moon = Mercury`: lively communication, mental rapport, contemplation of union, and the ability to coordinate thought with vitality and feeling. Main caution: that imbalance in communication can unsettle the whole axis, turning nervous thought or poor dialogue into relational and emotional disequilibrium.
+In `Sun/Moon = Mercury`, Mercury specifies the Sun/Moon pair through communication that brings thought and feeling into the same exchange. [ABC](#abc-entry) names conversations about bodily feelings and words from personal feeling; [Witte](#witte-entry) and [Ebertin](#ebertin-entry) place intimate dialogue and shared thoughts within friendship and partnership. [McBroom](#mcbroom-entry) makes ideas and communication the unifying focus, while [Munkasey](#munkasey-entry) adds the use of education and experience in daily life. [Sandbach](#sandbach-entry) supplies the central qualification: effective communication can be balancing and energizing, while difficulty communicating can upset balance and deplete vitality. This supports a reading about how experience is understood and exchanged, with contemplation of marriage remaining one example.
 
 ## Links
 

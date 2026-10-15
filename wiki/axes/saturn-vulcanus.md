@@ -66,9 +66,14 @@ updated_at: 2026-05-04
 - Astronomicon axis: `W/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `SATURN + VULCANUS`
+- PDF page (one-based): `230` (exact pair passage checked in raw PDF text).
 
 #### Pair Summary
 
@@ -76,9 +81,20 @@ Custody. To guard, to preserve, to banish, to fortify or to fix something. Might
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `366–367`; PDF page (one-based): `182` (complete bold pair summary checked against the scan).
+
 #### ABC Pair Summary
 
-Old age, energy problems, energy and perseverance, enormous tasks, power of the Gcduld, power concentration, power loss, dead violence, and concentrated violence
+Influence in old age, energy problems, energy and endurance, enormous tasks, power of patience, concentration of power, loss of power, disruptive violence, concentrated violence.
+
+## Comparative Schema
+
+- core meaning: power held, guarded, concentrated, restricted, or lost ([pair summary](#pair-summary)).
+- psychology: vigilance and being on guard; ABC also names endurance, the power of patience and enormous tasks.
+- body/health: energy problems occur in ABC's broad vocabulary, but the entries establish no specific bodily diagnosis.
+- social/relationship: supervision, custody, banishment, and captivity concern the exercise or restriction of power over people.
+- events/manifestations: guarding or preserving something, fortification, imprisonment, mighty hindrance, and limitation of great forces.
+- conflicts/notes: ABC's complete bold summary was retranslated from the scan, restoring influence in old age, patience and disruptive violence. Guarding, concentrated power, violence and loss of power are different possibilities, not a single required story.
 
 ## Related Activations
 
@@ -106,8 +122,9 @@ Old age, energy problems, energy and perseverance, enormous tasks, power of the 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis centers on custody, to guard, to preserve, to banish, to fortify or to fix something, mighty hindrance, with the source repeatedly stressing Saturnian pressure, delay, or inhibition through this pair.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Saturn/Vulcanus` concerns the containment and control of power. In the [pair summary](#pair-summary), guarding, preserving, fortifying, and vigilance share a field with supervision, custody, banishment, and imprisonment. The distinction matters: holding something secure and depriving someone of freedom are both in the source, but they are not interchangeable descriptions of an event.
+
+The [ABC entry](#abc-pair-summary) adds influence in old age, energy and endurance, enormous tasks and the power of patience alongside concentrated power, power loss and disruptive or concentrated violence. The range therefore includes sustained effort and protective custody as well as mighty hindrance or curtailed force. These brief summaries do not determine who holds power, establish a medical outcome or choose a particular [activation's manifestation](#related-activations).
 
 ## Links
 

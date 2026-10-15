@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Pluto = Pluto`
 - Astronomicon formula: `W/Z = Z`
 - Axis page: [Saturn/Pluto](../axes/saturn-pluto.md)
@@ -41,22 +43,21 @@ Shows you that there are two extremes in life: good and evil; choosing one of th
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: A decisive appraisal of life's direction through perceived moral extremes.
+- psychology: Commitment to one side of a good/evil division and realistic self-assessment.
+- body/health: No bodily or health claim appears in this entry.
+- social/relationship: No specific relationship or social setting is supplied.
+- events/manifestations: Dedicating one's life to a chosen opposition and reassessing progress and direction.
+- conflicts/notes: The good/evil division belongs to Munkasey's wording; it does not establish a person's moral status.
 
 ## Contradictions
 
-- None recorded yet.
+Only one entry is represented. It places moral polarization beside realistic self-appraisal without explaining whether these are alternatives or concurrent experiences.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Pluto = Pluto`: Shows one that there are two extremes in life: good and evil; choosing one of these over the other and dedicating one's life toward elimination of the other; a realistic look at one's life, its progress, and one's future direction.
+In `Saturn/Pluto = Pluto`, Pluto specifies development as a consequential choice of direction. [Munkasey](#munkasey-entry), p. 294, describes a life organized around a perceived opposition between good and evil, including dedication to eliminating the rejected side, and also a realistic appraisal of progress and future direction. The synthesis is limited to that strong commitment and self-assessment; the source's moral division supplies no basis for deciding that a person is good or evil.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Pluto Admetos](../triads/mars-pluto-admetos.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 Plans that are only partially implemented or on a smaller scale.
 
@@ -42,13 +46,27 @@ Plans that are only partially implemented or on a smaller scale.
 
 #### ABC Entry
 
-Developing perseverance in work, developing depression through different activity, depressing will change, limiting changes in work, strengthening the will, slowing down will development, and lucid development activity
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing perseverance in work, depression through changed activity, depressing change of will, restrictive changes in work, developing firmness of will, inhibited unfolding of the will, and thorough development activity.
+
+## Comparative Schema
+
+- core meaning: Development constrained in scale or pursued through perseverance and thorough work.
+- psychology: Firmness of will alongside inhibited or depressing changes of will.
+- body/health: ABC names depression through changed activity as a historical claim, without diagnosis.
+- social/relationship: No specific relationship pattern is described.
+- events/manifestations: Partial implementation, smaller projects, restrictive work changes, and thorough development.
+- conflicts/notes: ABC retains perseverance and firm will as well as inhibition; reduced scale does not establish complete failure.
+
+## Contradictions
+
+Witte limits the extent of implementation, while ABC describes both disciplined development and discouraging restriction. The entries do not reduce all development to blocked plans.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Pluto = Admetos` compresses transformative effort into only partial realization or reduced scale.
-- Chart expression: plans that cannot fully unfold, projects implemented only in part, and large intentions forced into narrower or smaller actual form.
+In `Mars/Pluto = Admetos`, Admetos specifies developing work and plans through limits of scale, restricted change, or thorough persistence. Witte names plans implemented partly or on a smaller scale; ABC also includes building perseverance and firmness of will, alongside inhibition and depressing changes. These retain constructive effort within a limited form rather than requiring complete failure. ABC's depression statement remains an attributed source claim. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152)
 
 ## Links
 

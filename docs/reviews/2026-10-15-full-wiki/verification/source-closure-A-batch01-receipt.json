@@ -1,0 +1,560 @@
+{
+  "batch": "source-closure-A-batch01",
+  "status": "stable_pending_independent_audit",
+  "targets": 20,
+  "review_counts_added": 0,
+  "record_hash_contract": "SHA256 actual UTF8 JSONL record line excluding newline",
+  "source_hash_normalization": "UTF-8; CRLF to LF; text between Source Entries and Comparative Schema; terminal standalone synthesis anchor removed; outer strip",
+  "dispositions": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-dispositions.jsonl",
+  "active_or_reserved_paths_in_batch": [],
+  "bindings": [
+    {
+      "id": "A-001",
+      "path": "wiki/activations/hades-poseidon-equals-admetos.md",
+      "queue_index": 36,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "3842bacc9b7971e06dbe3993929c92fab619824c3dc7576d3cf83c8f719e54e1",
+      "source_entries_sha256": "e9848f86e89c0c93c1396a4d48d171825aaed0c7afa6ab886e8c51825986b952",
+      "owner_record_sha256": "e8344b683e249359b39e25984f85223e38b70698ff7d29557fc3af0478ec0c40",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-002",
+      "path": "wiki/activations/hades-poseidon-equals-asc.md",
+      "queue_index": 37,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "d19e45e93e3efae761ba59c38c98524e24f657b10173d1b175e96473ccf72c25",
+      "source_entries_sha256": "f767e63a36852f74ae25a6afd8cc8cac39eb4800c7d23f100924569e0ccce888",
+      "owner_record_sha256": "c2025108914740c54775d07fd9add989b1736586e914a63d7833dfb200e7f8d6",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-003",
+      "path": "wiki/activations/hades-poseidon-equals-jupiter.md",
+      "queue_index": 38,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "2e1c82a987e466bcbb023ea952a75e22ec8aa2834e7b4d13c1987353ce0ef5ce",
+      "source_entries_sha256": "20f2ff42ec58ef31830e5e0f56eb5bf2840ac9d4c79ab6ba544fa17d4afa2a34",
+      "owner_record_sha256": "96e0f175f4dca4e9eba5db957906e4da0573519fc0bd374cfff84485a184ab95",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not specify the practical form of dangerous financial culture or dangerous legal truth."
+      ]
+    },
+    {
+      "id": "A-004",
+      "path": "wiki/activations/hades-poseidon-equals-kronos.md",
+      "queue_index": 39,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "2cf56c390dcd28a4ae91e8ff182a58d173bff54d7e30cfa3c29e1d00cb8b178c",
+      "source_entries_sha256": "f75229fa7e76c969c79e9175094200e7a3f7f9b467ed028b348b7bb8b72e22ed",
+      "owner_record_sha256": "7d152063f233614081754951eb6ebedca2b1979d06650358e7bc1268602d0170",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-005",
+      "path": "wiki/activations/hades-poseidon-equals-mars.md",
+      "queue_index": 40,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "19fd96f35a1f5e8c4d128160bc173e365164d8064ea4180c82a2501253c8d87a",
+      "source_entries_sha256": "d5d9c5c236be18784a5d00ead5bf2047822de060fbe6c2615057d8ba257d460b",
+      "owner_record_sha256": "79ac8d82ac5c25c54558feccf135c8c6445b384b96ea629ad397740ba5f335a9",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-006",
+      "path": "wiki/activations/hades-poseidon-equals-mc.md",
+      "queue_index": 41,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "32b7640309eb0550e394ccf08d931590aadfa625e5a258e6a51138ab28ac4dc9",
+      "source_entries_sha256": "557fd396eca675d67f750f2138305f798c9a8f803751b1b258f752a68bfa36b2",
+      "owner_record_sha256": "97d291ffa2bc804896e346b45028c7cd5a97bb79a25b396ddb9291f75de042bb",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-007",
+      "path": "wiki/activations/hades-poseidon-equals-mercury.md",
+      "queue_index": 42,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "70e396e45b25bac2386ec235d9dc803af37b2ed5a6d30b761d037f1a25c5000c",
+      "source_entries_sha256": "03d3fec1f7c36e4cb5e9e016576f00fdeb50684740acd3bbc24dd55e03a02d05",
+      "owner_record_sha256": "e25aa4f6584a53062f863ecece68d293fe76f43737c46649f73c23d35527b7eb",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not state the circumstances in which conversation is reasonably forgone."
+      ]
+    },
+    {
+      "id": "A-008",
+      "path": "wiki/activations/hades-poseidon-equals-moon.md",
+      "queue_index": 43,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "ad15c5c3ad33115693fdb5cd3722f629e4318b15eb819f171f2fc6b88b8f5b42",
+      "source_entries_sha256": "3db75fec2c41ad75792eb8b5667ed219482aedffe1c419b07cc20d60ad545fd4",
+      "owner_record_sha256": "73206793409fd631b333fd00bf6e5ab5082a3e6e5ba85944549555a4c75e19de",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-009",
+      "path": "wiki/activations/hades-poseidon-equals-node.md",
+      "queue_index": 44,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "ab25371c47538f7dbd8a8ed2a31d1c20a1b70b44ff097297638f4a2d6b904982",
+      "source_entries_sha256": "d2ad57eab2430adecb573cfaea737397f34d3289c2d397f2f9eb08ac52f22545",
+      "owner_record_sha256": "4daf36a52cd067b3a05f470e35569a2531ed47453cb21b078ce9146cd7a14e3f",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not specify whether reasonable renunciation means foregoing or ending a particular connection."
+      ]
+    },
+    {
+      "id": "A-010",
+      "path": "wiki/activations/hades-poseidon-equals-pluto.md",
+      "queue_index": 45,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "1ded12f96805a8daec1f044f071e08a269804e445ee13a4b955417d0b4e2157d",
+      "source_entries_sha256": "ed260c8781bef4c9a0a7d6b08ef1a5bc15f82b1ca2a733191e47cc5a1d53c117",
+      "owner_record_sha256": "4925e319bbec0907151b0806813206e30c581fe162c604aaa50fc75d4a27a8ff",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-011",
+      "path": "wiki/activations/hades-poseidon-equals-saturn.md",
+      "queue_index": 46,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "03381204d1c41f7ef0571a71868885ebfa4ed93cf1d0a0342a29876901946780",
+      "source_entries_sha256": "293305b7e55b5a2030079da5f81ab78fd13a1c50dd4d4c5595c68c39a1ecc133",
+      "owner_record_sha256": "8ef543ecf16e2407fe307646e21544cc582038f5d1058cbbca5979f84ef51f43",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-012",
+      "path": "wiki/activations/hades-poseidon-equals-sun.md",
+      "queue_index": 47,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "3f123809114e4417f52a528477498d7bb0209fcc20fc5b75a1079df307dcc499",
+      "source_entries_sha256": "74575aa6ac72dd44e3b9445f1755c470fbcd667be825b519b6913854591590b8",
+      "owner_record_sha256": "f55f351f0af4e93ea777d0895a9c47edd16e882cf1712d208f404ddc4ed49913",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not identify a specific practice or medical condition in deficient bodily culture."
+      ]
+    },
+    {
+      "id": "A-013",
+      "path": "wiki/activations/hades-poseidon-equals-uranus.md",
+      "queue_index": 48,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "8c36aeea61316abc88679ccc0357a365dd15a7cbe8206e86c38af27098b5ab9a",
+      "source_entries_sha256": "1a7c8eb7894db908ed7870018c4f4c365b8ac913c5ca60b92a77d14ee728e3eb",
+      "owner_record_sha256": "b2e1f629a013aa6b277ba8d8e7f57f0d89edb1d38c3fc369f8bcf6986f422381",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not specify the technology or circumstances of its reasonable renunciation."
+      ]
+    },
+    {
+      "id": "A-014",
+      "path": "wiki/activations/hades-poseidon-equals-venus.md",
+      "queue_index": 49,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "8acbcee0bc5722973258bc08a5acff0c6e1cbe3a2267bcd91d4b4d00897be11e",
+      "source_entries_sha256": "f7b4a22140899c048cda5753fd9a5de1556fc6768b2841304adc35435d70c077",
+      "owner_record_sha256": "5c9f4cff7962fd344be3d9b0df12593e06b20d5f53ffe7ca84a28b7e6d14d492",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-015",
+      "path": "wiki/activations/hades-poseidon-equals-vernal-point.md",
+      "queue_index": 50,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "f886037f43f393446cee11c4374a9c506a3a68b843d3bafbb4687e9548d9a2bf",
+      "source_entries_sha256": "21bd6306efb305399044ce52522fa233b90b9e163d413492d5dd0e1bff117ec5",
+      "owner_record_sha256": "8535b599d3a3ecb098c62da7e3187de5a33e1a99998059aa5de41403ff3d973b",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-016",
+      "path": "wiki/activations/hades-poseidon-equals-vulcanus.md",
+      "queue_index": 51,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "ad4aba7e7a549955796a4954a618cdff092463ec1f77da4502e8654b783d6d13",
+      "source_entries_sha256": "49c8e38c43b5d934815b6983230f969eaa80ae62ce9e83db8bde810ea1347a18",
+      "owner_record_sha256": "06e72a097a3c8434cff7c86c872c140d5103a253d2a5a3056dff04df7ed17e20",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": [
+        "ABC does not specify the practical mechanism of hidden intellectual or spiritual force."
+      ]
+    },
+    {
+      "id": "A-017",
+      "path": "wiki/activations/hades-poseidon-equals-zeus.md",
+      "queue_index": 52,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-013.jsonl",
+      "original_reviewer": "activation_013_014",
+      "canonical_sha256": "75bd72baa35a363cebb39a2d2d87e2b9d07b0e903b234e3fb8b4016db62c7e36",
+      "source_entries_sha256": "69db2e2882d1071d0663e2276278625c92822f684e9cbc84d8d0aecd56f6e83b",
+      "owner_record_sha256": "f8de6025c4b85e40095e36363bf342af6fc1c84d620f749233a580cdf90d5448",
+      "actual_locators": [
+        "ABC printed448–449 / one-based PDF223, Hades + Poseidon, exact activator rows",
+        "Witte one-based PDF286, Hades + Poseidon, exact activator rows"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p223.png",
+          "sha256": "f692707e49c4d6441b0117fea9c463c919fa84d0ea5c276ab94f979555733301"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p286.png",
+          "sha256": "a1770f9020d0f40345d31c46a77088eba5b52ef5ccb9bcdb4b67e15cb12e6b29"
+        }
+      ],
+      "remaining_limits": []
+    },
+    {
+      "id": "A-018",
+      "path": "wiki/activations/jupiter-mc-equals-asc.md",
+      "queue_index": 65,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "c15ce459762be5ed8bc11c3406ce3b0dea93c2a33bce25ac3f29e9c656929c8b",
+      "source_entries_sha256": "b79754f671047096e5fbb526793313fe168fdcc0063066442af8afc2c6f4e4a6",
+      "owner_record_sha256": "25ed7328e2b9e9ae87bbda4aa7578b34d073a3ff830508c5aba11edd6402febf",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Asc nine-clause row",
+        "Witte PDF65 Meridian+Jupiter Asc row",
+        "Sandbach PDF87 Jupiter/Midheaven Ascendant paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p87.png",
+          "sha256": "107d2d5895129f2df49e501c64a83acb2b52718bd907f82c4ea134e1ed754dcd"
+        }
+      ],
+      "remaining_limits": [
+        "ABC mein Orts-Recht is legible, but the particular jurisdiction or legal entitlement is not specified."
+      ]
+    },
+    {
+      "id": "A-019",
+      "path": "wiki/activations/jupiter-mc-equals-kronos.md",
+      "queue_index": 66,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "6d0910c384f869b28188514188c0752e29b4b3ad860481beb1bb9e043a24e778",
+      "source_entries_sha256": "cb48b5e4847bcc513927ffb3100e1d5c260af6db55cc5c057fe638d7caba9f76",
+      "owner_record_sha256": "74a03f3afc0eda2a258de44b0a59e64786341816d232ecda062dc951a410433a",
+      "actual_locators": [
+        "ABC printed75/PDF36 MC+Jupiter Kronos nine-clause row",
+        "Witte PDF65 Meridian+Jupiter Kronos row"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        }
+      ],
+      "remaining_limits": [
+        "ABC mein Rechts-Staat names a state governed by law without specifying a particular state or political role."
+      ]
+    },
+    {
+      "id": "A-020",
+      "path": "wiki/activations/jupiter-mc-equals-mars.md",
+      "queue_index": 67,
+      "auditor": "axis_review",
+      "ledger": "docs/reviews/2026-10-15-full-wiki/ledgers/activations-017.jsonl",
+      "original_reviewer": "activation_017_018",
+      "canonical_sha256": "7e4412002b6a31bb882466d5dfd720f33d982b4a25e5bcde68bbc75718cd5d1f",
+      "source_entries_sha256": "98533ff4c496c56863267781b757320b6ebc122ef31c9f65b04aa7f8d97eabed",
+      "owner_record_sha256": "8ab62c0f754aed77a59baf01c966d8f14f67dbccfaf00acf97537c86b04b2a29",
+      "actual_locators": [
+        "ABC printed74/PDF36 MC+Jupiter Mars nine-clause row",
+        "Witte PDF65 Meridian+Jupiter Mars row",
+        "Sandbach PDF86 Jupiter/Midheaven Mars paragraph"
+      ],
+      "raw_proof": [
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-abc-p36.png",
+          "sha256": "5f256e178e595755f0e1606583e89c2eb451326fba6200f904586c7e54ac3785"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-witte-p65.png",
+          "sha256": "cc3730c8071181dca16a51eeeb7c34a0d3a36d984ac2b8d3cb7f4d0e28b42912"
+        },
+        {
+          "path": "docs/reviews/2026-10-15-full-wiki/verification/source-closure-A-sandbach-p86.png",
+          "sha256": "b891d3ed0145a635952911a2d21c70609c2c599eb9ba1172fab18e62834a7511"
+        }
+      ],
+      "remaining_limits": [
+        "ABC “my money works” supplies no particular financial mechanism."
+      ]
+    }
+  ]
+}

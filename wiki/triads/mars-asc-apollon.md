@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mars Asc Apollon`
 - Astronomicon triad-set: `U Asc ¥`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Asc/Apollon = Mars](../activations/asc-apollon-equals-mars.md)
-- [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md)
-- [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md)
+- [Asc/Apollon = Mars](../activations/asc-apollon-equals-mars.md): base axis [Asc/Apollon](../axes/asc-apollon.md); activator [Mars](../factors/mars.md).
+- [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md): base axis [Mars/Apollon](../axes/mars-apollon.md); activator [Asc](../factors/asc.md).
+- [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md): base axis [Mars/Asc](../axes/mars-asc.md); activator [Apollon](../factors/apollon.md).
 
 ## Source Coverage
 
-- `Asc/Apollon = Mars`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `95`
-- `Asc/Apollon = Mars`: Udo Rudolph - ABC for Planetary Pictures, page `130`
-- `Mars/Apollon = Asc`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `201`
-- `Mars/Apollon = Asc`: Udo Rudolph - ABC for Planetary Pictures, page `316`
-- `Mars/Asc = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `85`
-- `Mars/Asc = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `111`
+The sources below have actual subentries on the listed activation pages; this is current wiki representation, not a claim of complete source coverage.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Asc/Apollon = Mars](../activations/asc-apollon-equals-mars.md#witte-entry) (PDF entry-start p. 95); [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md#witte-entry) (PDF entry-start p. 201); [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md#witte-entry) (PDF entry-start p. 85).
+- Udo Rudolph - ABC for Planetary Pictures: [Asc/Apollon = Mars](../activations/asc-apollon-equals-mars.md#abc-entry) (printed p. 130); [Mars/Apollon = Asc](../activations/mars-apollon-equals-asc.md#abc-entry) (printed p. 316); [Mars/Asc = Apollon](../activations/mars-asc-equals-apollon.md#abc-entry) (printed p. 111).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Apollon = Mars`: outward expansion through business tasks, active exchange, and practical or research-driven engagement.
-- `Mars/Apollon = Asc`: active cooperation with others in trade, science, or commerce and a personal field organized around shared enterprise.
-- `Mars/Asc = Apollon`: turns assertive presence toward broad cooperation, especially shared technical, scientific, or economic activity with others.
+Mars, Asc and Apollon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Asc/Apollon](../axes/asc-apollon.md)
+- [Mars/Apollon](../axes/mars-apollon.md)
+- [Mars/Asc](../axes/mars-asc.md)
 - [Mars](../factors/mars.md)
 - [Asc](../factors/asc.md)
 - [Apollon](../factors/apollon.md)

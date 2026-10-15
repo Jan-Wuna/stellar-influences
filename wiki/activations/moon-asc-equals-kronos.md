@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Asc = Kronos`
 - Astronomicon formula: `R/Asc = ¤`
 - Axis page: [Moon/Asc](../axes/moon-asc.md)
@@ -34,22 +36,41 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- PDF page (entry start): `81`.
+
 #### Witte Entry
 
 Acquaintance with female state officials or independent, self-assured women. Social relations with officials.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `103`; PDF page: `50`.
+
 #### ABC Entry
 
-Other self aggressive women, local women's authorship, local horde hours, special hour in the environment, dominance of other people, self aggressive women as partners, mother's superiority in the place, and female authorship in the environment
+German passage (transcribed from PDF page `50`, printed page `103`):
+
+> Andere selbständige Frauen, Autorität der Frau am Ort, Behörden-Stunden am Ort, besondere Stunde für die Umwelt, Dominanz anderer Völker, selbständige Frau als Partner, Überlegenheit der Mutter am Ort, weibliche Autorität im Umfeld
+
+Editorial translation from the German passage: Other independent women; a woman's authority at the place; local office hours; a special hour for the surroundings; other peoples' dominance; an independent woman as partner; the mother's superiority at the place; female authority in the surroundings.
+
+## Comparative Schema
+
+- core meaning: Acquaintances and social contact with independent women or officials.
+- psychology: Independence and self-assurance are explicit qualities of women encountered.
+- body/health: No distinct bodily or medical condition is supplied.
+- social/relationship: Female authority nearby, independent partners and social relations with officials are explicit.
+- events/manifestations: Local office hours, a mother's local superiority and other peoples' dominance are ABC examples.
+- conflicts/notes: The source describes people or authority encountered; it does not automatically confer dignity or rank on the subject.
+
+## Contradictions
+
+Witte emphasizes officials and self-assured women; ABC adds authority at a place and collective dominance. Independence and domination remain distinct expressions rather than equivalent personal virtues.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Asc = Kronos`: Acquaintance with female state officials or independent, self-assured women. Social relations with officials.
-- Practical focus: elevates `Moon/Asc` through association with rank, authority, and self-possession. Emotional contact tends to run through capable or high-standing women and official networks, giving the person's social presence a more dignified, organized, and status-aware tone.
-- Practical expression: other self aggressive women, local women's authorship, local horde hours, special hour in the environment, and dominance of other people.
+In `Moon/Asc = Kronos`, Kronos specifies the pair's acquaintances and immediate surroundings through independence or authority. Witte names female state officials and self-assured women; ABC places authority in the local environment, partnership and the mother's position, alongside office hours and other peoples' dominance. The connection is contact with people or structures that hold a distinct position, while self-possession, official rank and dominance remain different possibilities rather than a guaranteed elevation of one's own status ([Witte](#witte-entry), [ABC](#abc-entry)).
 
 ## Links
 

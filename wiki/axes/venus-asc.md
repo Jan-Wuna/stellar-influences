@@ -13,6 +13,7 @@ factor_b: Asc
 related_activations:
   - Venus/Asc = Admetos
   - Venus/Asc = Apollon
+  - Venus/Asc = Asc
   - Venus/Asc = Chiron
   - Venus/Asc = Cupido
   - Venus/Asc = Hades
@@ -29,6 +30,7 @@ related_activations:
   - Venus/Asc = Saturn
   - Venus/Asc = Sun
   - Venus/Asc = Uranus
+  - Venus/Asc = Venus
   - Venus/Asc = Vernal Point
   - Venus/Asc = Vulcanus
   - Venus/Asc = Zeus
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `Q/Asc`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `VENUS/ASCENDANT`
-- Source page: `215`
+- Source heading: `ASCENDANT + VENUS`
+- PDF page: 84.
 
 #### Pair Summary
 
@@ -86,11 +90,17 @@ Lovable acquaintances. To be treated well by others. Others who long for the nat
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Aszendent + Venus`
+- Printed pages: `108-109`; PDF page: `53` (pair spread).
+- Translation checked against the German pair summary.
+
 #### ABC Pair Summary
 
-Harmony with others, joy in the place, peaceful world, artist as partner, love partner, place of peace, place of the artist, beautiful place, beauty of the other, and preference for the partner
+Harmony with others, joy in a place, peaceful surroundings, an artist as partner, a love partner, a place of peace, a place of art, a beautiful place, the other's beauty, and preference for the partner.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Printed page: 195; PDF page: 197.
 
 #### Principle
 
@@ -110,9 +120,11 @@ Members of the female sex within the environment, such as the mother or wife.
 
 #### Probable Manifestations
 
-+ A love affair, the embellishment, adornment or beautification of the environment. - Preference for associations with people who are lacking in good taste, wastefulness, indulgence in enjoyment or a pleasure-seeking nature. Venus/Ascendant 9/A
++ A love affair, the embellishment, adornment or beautification of the environment. - Preference for associations with people who are lacking in good taste, wastefulness, indulgence in enjoyment or a pleasure-seeking nature.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page: 65 (Principle and Process).
 
 #### Principle
 
@@ -123,6 +135,8 @@ A person with a loving, easy-going personality. The ability to share with others
 Learning to love oneself and to project that love into the world.
 
 ### Robert Hand - Horoscope Symbols
+
+- PDF page: 207.
 
 #### Pair Delineation
 
@@ -172,17 +186,18 @@ Your ability to feel comfortable with the image you project to others; your psyc
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Affection and beauty expressed through one's manner, appearance, personal contacts and immediate surroundings ([pair summary](#pair-summary), [Hand](#pair-delineation)).
+- psychology: Sociability, good taste and self-contentment can become vanity, laziness or concern with being liked; Munkasey adds jealousy about the impression others make ([psychological correspondence](#psychological-correspondence), [Basic Ideas](#basic-ideas)).
+- body/health: Ebertin associates the pair with proportions and complexion; Munkasey discusses comfort with one's projected image and refined taste or smell. These are source correspondences ([biological correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: Charm, compromise and putting others at ease support close contact; pleasing others can also coexist with selfish gratification or difficulty sharing oneself ([Hand](#pair-delineation), [relationships](#in-your-relationships)).
+- events/manifestations: Love connections, adornment of surroundings and art that impresses or inspires; Munkasey extends display and glamour into business and public image ([probable manifestations](#probable-manifestations), [politics/business](#in-politics-or-business)).
+- conflicts/notes: Attractive manners and a beautiful setting do not establish reciprocal affection. Munkasey's gap between ideals and actual presentation qualifies the more effortless charm described elsewhere; Banzhaf/Haebler's harmony/discord alternatives retain their aspect conditions ([Basic Ideas](#basic-ideas), [aspect keywords](#banzhafhaebler-aspect-keywords)).
 
 ## Related Activations
 
 - [Venus/Asc = Admetos](../activations/venus-asc-equals-admetos.md)
 - [Venus/Asc = Apollon](../activations/venus-asc-equals-apollon.md)
+- [Venus/Asc = Asc](../activations/venus-asc-equals-asc.md)
 - [Venus/Asc = Chiron](../activations/venus-asc-equals-chiron.md)
 - [Venus/Asc = Cupido](../activations/venus-asc-equals-cupido.md)
 - [Venus/Asc = Hades](../activations/venus-asc-equals-hades.md)
@@ -199,21 +214,21 @@ Your ability to feel comfortable with the image you project to others; your psyc
 - [Venus/Asc = Saturn](../activations/venus-asc-equals-saturn.md)
 - [Venus/Asc = Sun](../activations/venus-asc-equals-sun.md)
 - [Venus/Asc = Uranus](../activations/venus-asc-equals-uranus.md)
+- [Venus/Asc = Venus](../activations/venus-asc-equals-venus.md)
 - [Venus/Asc = Vernal Point](../activations/venus-asc-equals-vernal-point.md)
 - [Venus/Asc = Vulcanus](../activations/venus-asc-equals-vulcanus.md)
 - [Venus/Asc = Zeus](../activations/venus-asc-equals-zeus.md)
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries allow both harmonious and disharmonious dealings with the environment. Munkasey specifically separates a wish to appear gracious from actual dress, behavior or capacity to share oneself; this qualifies the outcome rather than contradicting the wish for harmony.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Asc` is the axis of charm, attractiveness, and the wish to create harmony through one's personal manner and immediate surroundings. It combines affection, beauty, pleasure, and sociability with appearance, personality, close contact, and the local environment.
-- Chart expression: grace, rapport, artistic or aesthetic self-presentation, and the ability to soothe, please, or attract others personally. Liabilities: vanity, people-pleasing, indulgence, wastefulness, jealousy, and disappointment when the hoped-for affection or appreciation is not returned.
+`Venus/Asc` concerns the way affection and beauty become visible in personal contact. Charm, an attractive manner and the ability to put others at ease can support love relationships and compromise, while taste also shapes the immediate surroundings. A pleasant place, an artist as partner and the beautification of one's environment belong to this same desire for harmony close at hand ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary), [Hand](#pair-delineation), [probable manifestations](#probable-manifestations)).
+
+Learning to love oneself can make that warmth easier to share. The wish to be appreciated can also become vanity, indulgence or an effort to tell people what they want to hear; Munkasey stresses that ideals of grace do not necessarily match actual presentation. The pair thus includes both rapport and disappointment when appearance or pleasing behavior carries more weight than mutual engagement ([Sandbach's Process](#process), [psychological correspondence](#psychological-correspondence), [Basic Ideas](#basic-ideas), [relationships](#in-your-relationships)). Munkasey's [public expressions](#in-politics-or-business) include inspiring art, displays of wealth and promotion of scenic beauty; [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords) distinguishes gracious diplomacy from vanity under harmony/discord conditions. No particular relationship or bodily outcome follows from the pair alone; each closing factor requires its own oriented activation.
 
 ## Links
 

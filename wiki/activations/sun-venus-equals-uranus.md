@@ -29,6 +29,7 @@ updated_at: 2026-05-06
 ## Identity
 
 - Formula: `Sun/Venus = Uranus`
+- [Read the interpretation](#derived-synthesis)
 - Astronomicon formula: `S/Q = X`
 - Axis page: [Sun/Venus](../axes/sun-venus.md)
 - Triad hub: [Sun Venus Uranus](../triads/sun-venus-uranus.md)
@@ -45,7 +46,9 @@ Empathetic. Refined feelings of love. Fine perception of love. Love at first sig
 
 #### ABC Entry
 
-Day peace event, Harmonic body rhythm, Man's love pulse, ncue love of a man, personal preference for technology, person I iches love Ercignis, tension by gentle humans, and Surprising human affection
+Source: ABC printed p. 145, supplied PDF p. 71, Sonne + Venus, uranus row (eight clauses). Translation from the German scan:
+
+A peace event during the day; harmonious bodily rhythm; the man's impulses of love; a man's new love; personal preference for technology; a personal event in love; tension through beautiful people; surprising human affection.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -70,22 +73,23 @@ An enhanced need to be enterprising when you show your affectionate side; surpri
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).
+
+- core meaning: Affection is sudden, original, and responsive to unusual beauty.
+- psychology: Independence and freedom in love are explicit.
+- body/health: Refined sensuality and bodily rhythm are named without a diagnosis.
+- social/relationship: Unusual partners or no-strings relationships are possibilities.
+- events/manifestations: Love at first sight and surprising demonstrations of love are concrete examples.
+- conflicts/notes: Munkasey also allows deliberate jealousy; novelty is not uniformly benign.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey also allows deliberate jealousy; novelty is not uniformly benign. ABC's new love and surprising affection coexist with tension through beautiful people.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Venus = Uranus`: stimulating affection, progressive taste, and a selfhood refreshed by unusual bonds and creative change. Main caution: unstable attraction: delight in novelty can outrun continuity and make affection vivid but harder to sustain.
+Uranus specifies Sun/Venus as sudden affection and originality in love or art. An attraction to unusual people and hidden worth can coexist with a strong need for independence. Surprising expressions of love may enliven a relationship, while Munkasey's deliberate jealousy gives a more disruptive possibility. ([Witte](#witte-entry), [ABC](#abc-entry), [Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry), [Munkasey](#munkasey-entry).)
 
 ## Links
 

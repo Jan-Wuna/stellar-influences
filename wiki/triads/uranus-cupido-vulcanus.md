@@ -28,25 +28,37 @@ updated_at: 2026-05-04
 - Triad-set: `Uranus Cupido Vulcanus`
 - Astronomicon triad-set: `X ¡ §`
 
+This is a structural lookup for an unordered three-factor set. Use the [Orientation Map](#orientation-map) to choose the exact formula; [Derived Synthesis](#derived-synthesis) explains the reading route.
+
 ## Orientation Map
 
-- [Cupido/Vulcanus = Uranus](../activations/cupido-vulcanus-equals-uranus.md)
-- [Uranus/Cupido = Vulcanus](../activations/uranus-cupido-equals-vulcanus.md)
-- [Uranus/Vulcanus = Cupido](../activations/uranus-vulcanus-equals-cupido.md)
+All three possible orientations are represented by separate activation pages.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Cupido/Vulcanus = Uranus](../activations/cupido-vulcanus-equals-uranus.md) | [Cupido/Vulcanus](../axes/cupido-vulcanus.md) | [Uranus](../factors/uranus.md) |
+| [Uranus/Cupido = Vulcanus](../activations/uranus-cupido-equals-vulcanus.md) | [Uranus/Cupido](../axes/uranus-cupido.md) | [Vulcanus](../factors/vulcanus.md) |
+| [Uranus/Vulcanus = Cupido](../activations/uranus-vulcanus-equals-cupido.md) | [Uranus/Vulcanus](../axes/uranus-vulcanus.md) | [Cupido](../factors/cupido.md) |
 
 ## Source Coverage
 
-- `Cupido/Vulcanus = Uranus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `273`
-- `Cupido/Vulcanus = Uranus`: Udo Rudolph - ABC for Planetary Pictures, page `435`
-- `Uranus/Cupido = Vulcanus`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `236`
-- `Uranus/Cupido = Vulcanus`: Udo Rudolph - ABC for Planetary Pictures, page `375`
-- `Uranus/Vulcanus = Cupido`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `242`
-- `Uranus/Vulcanus = Cupido`: Udo Rudolph - ABC for Planetary Pictures, page `387`
+This lists every source entry currently present on the three linked activation pages. Witte locators are one-based PDF entry-start pages; Udo Rudolph ABC locators are printed pages. Coverage here describes the canonical entries, not the full contents of either work.
+
+- `Cupido/Vulcanus = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/cupido-vulcanus-equals-uranus.md#witte-entry), one-based PDF entry-start p. `273`.
+- `Cupido/Vulcanus = Uranus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/cupido-vulcanus-equals-uranus.md#abc-entry), printed p. `435`.
+- `Uranus/Cupido = Vulcanus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-cupido-equals-vulcanus.md#witte-entry), one-based PDF entry-start p. `236`.
+- `Uranus/Cupido = Vulcanus`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-cupido-equals-vulcanus.md#abc-entry), printed p. `375`.
+- `Uranus/Vulcanus = Cupido`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-vulcanus-equals-cupido.md#witte-entry), one-based PDF entry-start p. `242`.
+- `Uranus/Vulcanus = Cupido`: [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-vulcanus-equals-cupido.md#abc-entry), printed p. `387`.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Uranus`: collective contests of force, abrupt access to a great society, and artistic or organizational creation achieved by superhuman effort in very little time.
+Choose the activation whose pair before `=` and activator after it match the formula being read. The linked base-axis pages describe the unordered pairs; each activation page holds its own interpretation, source entries, and qualifications. Sharing this triad set does not make the three formulas interchangeable.
+
+## Contradictions Across Orientations
+
+Different orientations are distinct formulas, so differences between their entries do not establish contradictions. This hub performs no cross-orientation doctrinal comparison; consult the individual activation pages for their source differences and limits.
 
 ## Links
 

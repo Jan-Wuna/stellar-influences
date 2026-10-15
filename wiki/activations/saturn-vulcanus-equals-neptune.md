@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Vulcanus](../axes/saturn-vulcanus.md)
 - Triad hub: [Saturn Neptune Vulcanus](../triads/saturn-neptune-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To be imprisoned or dependent, not seeing the termination. To be imprisoned or d
 
 #### ABC Entry
 
-Energy problems with air and water, huge future tasks, concentration on subtle influences, unknown energy problems, sloppy power loss, weak force in old age, uncertainty due to energy loss, and losses by W asscr violence
+Energy problems involving air and water, immense future tasks, concentration on subtle influences, unknown energy problems, creeping loss of power, weak strength in old age, uncertainty through energy loss, and losses through the force of water.
+
+## Comparative Schema
+
+- core meaning: Dependence with an uncertain end and gradually weakening power.
+- psychology: Uncertainty accompanying energy loss.
+- body/health: ABC attributes weak strength in old age without a specific diagnosis.
+- social/relationship: Witte's confinement or dependency is described as indefinite.
+- events/manifestations: Air and water energy problems, subtle influences and future tasks.
+- conflicts/notes: Indefinite means no visible termination in Witte; it does not supply a timetable.
+
+## Contradictions
+
+The sources emphasize indefinite dependence and gradual power loss; no explicit opposing account appears.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Vulcanus = Neptune`: to be imprisoned or dependent, not seeing the termination, to be imprisoned or dependent indefinitely.
-- Practical expression: energy problems with air, water, huge future tasks, concentration on subtle influences, and unknown energy problems.
+Neptune specifies Saturn/Vulcanus as constraint whose end or source is difficult to determine. Dependence may feel indefinite as power ebbs gradually and energy problems remain unknown. The [Witte Entry](#witte-entry) (PDF p. 230, entry start) grounds the lack of a visible termination; the [ABC Entry](#abc-entry) (printed p. 367; PDF p. 182) extends uncertainty to subtle influences, air and water problems, and future tasks. The entry gives no duration or specific medical cause.
 
 ## Links
 

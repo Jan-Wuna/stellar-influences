@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Jupiter`
 - Astronomicon formula: `Y/¢ = V`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liquids. Good luck in water catastrophes.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `394`, PDF p. `196` (entry).
+
 #### ABC Entry
 
 Joy of the unknown and the hidden, money through water damage, money loss through water, happiness in danger with water, criminal success on the water, defective water law, disadvantages due to money weakness, and weak by money deficiency
 
+## Comparative Schema
+
+- core meaning: favorable outcomes involving water coexist with wastefulness, loss, or financial weakness.
+- psychology: joy in unknown or hidden matters is explicit, without a general capacity to benefit from decay.
+- body/health: Witte's tuberculosis claim is historical doctrine, not a diagnosis; bathing is a separate example.
+- social/relationship: the entries do not specify a relationship setting; ABC's criminal success is a particular source claim.
+- events/manifestations: luck in water catastrophes, money through water damage, money loss, and deficient water law are named.
+- conflicts/notes: gain and loss are separate possibilities, and luck in danger is not a promise of protection.
+
+## Contradictions
+
+Both entries permit favorable water outcomes beside adverse conditions. Their juxtaposition does not make danger beneficial or establish that every financial gain arises through loss.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Jupiter`: Tuberculosis of the lungs. Wastefulness. Bathing. To be lucky with water or liquids. Good luck in water catastrophes.
-- Practical focus: gives dark or decaying conditions a paradoxical opening through water, liquids, or excess, mixing bodily weakness and wastefulness with a capacity to fare unexpectedly well amid watery danger.
-- Practical expression: oy of the unknown, the hidden, money through water damage, money loss through water, and happiness in danger with water.
+In Neptune/Hades = Jupiter, Jupiter specifies the pair through favorable and adverse outcomes involving water or resources. The [Witte entry](#witte-entry) gives luck with liquids or in water catastrophes beside wastefulness; [ABC](#abc-entry) includes both money through water damage and money loss through water, as well as financial weakness (printed p. 394, PDF p. 196). These retain gain and loss without promising protection in danger. Bathing remains a separate example, and the tuberculosis claim retains historical attribution rather than diagnostic force.
 
 ## Links
 

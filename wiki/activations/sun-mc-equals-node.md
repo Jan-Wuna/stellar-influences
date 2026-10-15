@@ -33,6 +33,8 @@ updated_at: 2026-05-06
 - Axis page: [Sun/MC](../axes/sun-mc.md)
 - Triad hub: [Sun Node MC](../triads/sun-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -41,11 +43,15 @@ updated_at: 2026-05-06
 
 The native’s relationships have, to the same extent, a physical and mental influence on him.
 
+Source locator: PDF p. 59, Meridian + Sun, Node entry.
+
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Enlivened human connection, my caring connections, my personal connections, connected to the inner being of a human being, connected to the soul of a man, spiritual relationship of a human being, and connection of body and soul
+Enlivened human connection, my physical connections, my personal connections, connected to the inner being of a human being, connected to the soul of a man, spiritual relationship of a human being, and connection of body and soul
+
+Source locator: printed p. 62, PDF p. 30, Sun/MC, Node entry. The scan reads körperlichen Verbindungen: physical connections.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -53,11 +59,15 @@ Enlivened human connection, my caring connections, my personal connections, conn
 
 Tendency to pick one's acquaintances and associates carefully, the personal search for friends and colleagues. Forming a relationship.
 
+Source locator: printed p. 112, coded entry 0324.
+
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
 
 The need to connect with people who realize the importance of one’s work. One’s spiritual path involves becoming more aware of one’s place in the world, and finding true meaning in that place.
+
+Source locator: PDF p. 25, Sun/Midheaven, complete Node entry.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Increases your ability to work with the right people or groups and have your eff
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal direction and inner life shaped through connections.
+- psychology: Careful choice of associates and awareness of one’s place.
+- body/health: Witte attributes bodily and mental influence to relationships.
+- social/relationship: Friendship, colleagues, and people who value one’s work.
+- events/manifestations: Forming relationships or finding supportive collaborators.
+- conflicts/notes: Dependency and overselectiveness are not asserted by these entries.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize connection and careful association without a direct contradiction. ABC's physical and inward connections retain the body/soul scope beside the vocational and supportive relationships in Sandbach and Munkasey.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/MC = Node`: forming useful relationships around vocation and destiny, and to seeking companions who understand the importance of one's work. Main caution: overselectiveness or dependency on the right circle: mission can become too bound to affiliation and validation.
+In `Sun/MC = Node`, Node specifies Sun/MC personal direction through relationships that affect the person inwardly and in practical life. The [Witte Entry](#witte-entry) describes bodily and mental influence through relationships; [ABC](#abc-entry) adds physical, personal and inward connections. The [Ebertin Entry](#ebertin-entry) emphasizes careful choice of friends and colleagues, while the [Sandbach Entry](#sandbach-entry) and [Munkasey Entry](#munkasey-entry) focus on people who understand the work, help it develop, or recognize its value. The shared theme is finding a meaningful place through connection, without assuming dependency or excessive selectiveness.
 
 ## Links
 

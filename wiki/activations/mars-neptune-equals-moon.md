@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Neptune](../axes/mars-neptune.md)
 - Triad hub: [Moon Mars Neptune](../triads/moon-mars-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Neptune,” PDF p. 195.
 
 Heavy disturbance of the glandular system. Infection of the woman. Atrophy of the brain. Abnormal disposition of persons.
 
@@ -45,11 +49,15 @@ Heavy disturbance of the glandular system. Infection of the woman. Atrophy of th
 
 #### ABC Entry
 
-Actions of a weak woman, active woman in the air, active people on the water, mis action of a woman, women's work on or with water, intuitive feelings, unknown feeling impulses, and a woman's will weakness
+Source: “Mars + Neptun,” printed p. 304 (PDF p. 151).
+
+Actions of a weak woman, an active woman in the air, active people by water, a woman's mistaken action, women's work on/in or with water, intuitive emotional actions, unknown emotional impulses, and a woman's weakness of will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Neptune,” printed p. 211, entry 0724.
 
 Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody women, crooks. Danger of infection.
 
@@ -57,7 +65,9 @@ Feelings of inferiority, sensitivity, nervous weakness. Weak, sick or moody wome
 
 #### Sandbach Entry
 
-Insecurities leading to confused or ineffective actions. To be vulnerable to psy chic attack. Negative moods manifest as agitating confusion.
+Source: “Planets activating the Mars/Neptune midpoint,” PDF p. 72.
+
+Insecurities leading to confused or ineffective actions. To be vulnerable to psychic attack. Negative moods manifest as agitating confusion.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Adds apprehension to struggles you have with deceptive or misleading activities;
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Insecurity or apprehension affecting the clarity and effectiveness of action.
+- psychology: Sensitivity, feelings of inferiority, agitating moods, and fluctuating anger.
+- body/health: Witte and Ebertin make historical glandular, brain, nervous, and infection claims; these do not become predictions.
+- social/relationship: Munkasey names subtle contention in romance; gendered source labels remain attributed.
+- events/manifestations: Confused action, intuitive emotional actions, and air- or water-related work are examples.
+- conflicts/notes: Gendered and stigmatizing descriptions remain attributed; mood pressure is not established as a cause of infection.
 
 ## Contradictions
 
-- None recorded yet.
+ABC's intuitive emotional actions and work settings broaden the range beyond the insecurity and harmful effects emphasized elsewhere. These examples do not negate one another or establish a single inevitable outcome.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Neptune = Moon`: nervous reactivity, susceptibility to atmosphere, and feeling-level confusion that easily spreads into everyday functioning and close relations. Main caution: emotional collapse into passivity, infection, or chaotic reactions when mood and stress overwhelm steady action.
+In `Mars/Neptune = Moon`, Moon specifies the pair through feelings that can make action apprehensive, confused, or ineffective. Sandbach stresses insecurity and agitating moods; Munkasey places subtle contention in romantic situations and describes fluctuating anger. ABC also includes intuitive emotional action and work involving air or water. The medical and gendered statements in Witte and Ebertin remain attributed historical claims. They do not establish that emotional pressure causes infection or justify applying stigmatizing labels to a person. ([Witte](#witte-entry), PDF p. 195; [ABC](#abc-entry), printed p. 304 / PDF p. 151; [Ebertin](#ebertin-entry), printed p. 211, entry 0724; [Sandbach](#sandbach-entry), PDF p. 72; [Munkasey](#munkasey-entry), printed p. 236)
 
 ## Links
 

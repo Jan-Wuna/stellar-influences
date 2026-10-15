@@ -11,6 +11,8 @@ normalized_axis: Mars/Pluto
 factor_a: Mars
 factor_b: Pluto
 related_activations:
+  - Mars/Pluto = Mars
+  - Mars/Pluto = Pluto
   - Mars/Pluto = Admetos
   - Mars/Pluto = Apollon
   - Mars/Pluto = Asc
@@ -74,18 +76,22 @@ updated_at: 2026-06-20
 - Astronomicon axis: `U/Z`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MARS/PLUTO`
-- Source page: `239`
+- Source heading: `MARS + PLUTO`
+- PDF page: `196`
 
 #### Pair Summary
 
 Organizing. Planning. Plans. Duplicate, to copy, to repeat, to multiply. To lead, to supervise or to perform several activities at the same time. To divide, to split, to branch off. To work alternately at different tasks. To do different kinds of work. To work on schedule. Transformation and change in the activity in one’s work and in the working conditions. Actively bring about change.
 
 ### Udo Rudolph - ABC for Planetary Pictures
+
+- Printed pages: `306–307` (cached pair-spread locator; scan not checked).
 
 #### ABC Pair Summary
 
@@ -183,14 +189,17 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: Sustained force used to accomplish work or bring about change; the [Pair Summary](#pair-summary) also gives practical forms such as planning, scheduling, and coordinating several activities.
+- psychology: Confidence, ambition, relentless effort, and the desire for a breakthrough can become compulsion, domination, or ruthlessness in the [Psychological Correspondence](#psychological-correspondence) and [Falis Entry](#falis-entry).
+- body/health: Ebertin's artificial substitutes for organs or limbs and Munkasey's glandular, cellular, and illness claims remain attributed source correspondences; they establish no diagnosis or treatment outcome.
+- social/relationship: Power and control can enter relations as coercion, retaliation, or abuse; the source entries also retain working with a partner and correcting plans or conditions.
+- events/manifestations: Changing working conditions, dividing tasks, overtime or piece-work, demanding sport, investigation, and drastic reform are explicit. Munkasey's military and police examples retain their institutional scope.
+- conflicts/notes: Ordinary organization and extreme force are different emphases, not proof that all planning is coercive. The historical violence and sexual claims describe possibilities within particular entries, not universal characteristics.
 
 ## Related Activations
+
+- [Mars/Pluto = Mars](../activations/mars-pluto-equals-mars.md)
+- [Mars/Pluto = Pluto](../activations/mars-pluto-equals-pluto.md)
 
 - [Mars/Pluto = Admetos](../activations/mars-pluto-equals-admetos.md)
 - [Mars/Pluto = Apollon](../activations/mars-pluto-equals-apollon.md)
@@ -216,15 +225,14 @@ An over-productive pituitary gland; active cell regeneration or production; rect
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Planning, repetition, and changing work conditions give a practical range that must remain beside the entries emphasizing extraordinary effort or destructive force. Neither range erases the other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto` is the axis of concentrated force, relentless action, survival drive, and transformative struggle. It combines initiative, aggression, sexuality, and physical effort with pressure, compulsion, control, and the urge to destroy what is corrupt or blocking progress.
-- Chart expression: extraordinary stamina, courage under duress, strategic force, deep cathartic effort, and the capacity to fight through extreme resistance or crisis. Liabilities: brutality, coercion, revenge, obsession, destructive rage, violent conflict, and the use of power in ways that overwhelm others or the body itself.
+`Mars/Pluto` describes effort that presses toward accomplishment and change. Its practical range includes organizing several activities, working to a schedule, dividing or repeating tasks, and changing the conditions of work in the [Pair Summary](#pair-summary) and [ABC Pair Summary](#abc-pair-summary). Other entries intensify the theme into exceptional output, persistence against difficult odds, and work toward a breakthrough in the [Pair Delineation](#pair-delineation) and [Sandbach entry](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints).
+
+The intensity can serve constructive change or become a need to dominate at any cost. Ambition and confidence stand beside obsession, brutality, retaliation, and coercion in [Psychological Correspondence](#psychological-correspondence), [Falis Entry](#falis-entry), and [Basic Ideas](#basic-ideas). The [Process](#process) directs attention to both the constructive and destructive consequences of one's power to change things. Routine organization and severe power struggles remain distinct parts of the range; one does not require the other.
 
 ## Links
 

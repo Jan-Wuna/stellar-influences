@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Kronos/Admetos = Mercury`
 - Astronomicon formula: `¤/¦ = T`
 - Axis page: [Kronos/Admetos](../axes/kronos-admetos.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 300, Kronos + Admetos, oriented activator row.
+
 To lead a life of odd and original thoughts. To be struck by odd thoughts. To develop new thoughts.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Special perseverance in speaking, blocked self governance in youth, solid media authorship, major traffic stau, state restriction of the media, important reports of the raw materials, traffic circuit lenting, and important speech about depressions
+- Source reference: printed p. 462; one-based PDF p. 230, Kronos + Admetos, oriented activator row.
+
+Special perseverance in speaking, blocked independence in youth, consolidated media authority, a major traffic jam, state restriction of the media, reporting on important primordial material, direction of traffic circulation, and important conversations about depressions.
+
+## Comparative Schema
+
+- core meaning: Original thoughts and sustained speech meet restricted independence and media authority.
+- psychology: Odd, original or new thoughts and perseverance in speaking.
+- body/health: Conversations about depressions are an attributed source topic, without diagnosing the speaker.
+- social/relationship: Media authority, state restrictions on media and blocked independence in youth.
+- events/manifestations: A major traffic jam, direction of traffic circulation and reporting on primordial material.
+- conflicts/notes: ABC's media authority is not authorship. Its primordial-material reporting remains literal without an inferred industry or doctrine.
+
+## Contradictions
+
+Witte concerns original and unusual thought. ABC gives speech, media, traffic and restrictions, offering concrete settings rather than a direct contradiction. Neither entry makes originality a result of exclusion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Admetos = Mercury`: original, odd, or striking thought, a mind occupied with uncommon ideas, and thinking that develops away from the normal track.
-- Chart expression: unusual concepts, eccentric intelligence, and mental work born from distance, specialization, or exclusion.
+`Kronos/Admetos = Mercury` combines unusual or original thought with perseverance in speaking. Practical expressions include media authority and reporting, while traffic congestion and state restrictions give the account a constraining side. [Witte's new thoughts](#witte-entry) and [ABC's communication and circulation settings](#abc-entry) remain distinct; the sources do not explain originality as the result of exclusion.
 
 ## Links
 

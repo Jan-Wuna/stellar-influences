@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Poseidon](../axes/kronos-poseidon.md)
 - Triad hub: [Hades Kronos Poseidon](../triads/hades-kronos-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 303 (one-based), Kronos + Poseidon, Hades entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ The educational, spiritual or cultural attitude of base people. Low kind of cult
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 467; PDF p. 232 (one-based), Kronos + Poseidon, Hades entry.
+
 #### ABC Entry
 
-Special intellectual deficiency, knowledge of criminal authority, lack of spiritual independence, great cultural crime, cultural state of the past, deficient culture of a state, lack of truth in the state, and important spiritual mystery
+Particular intellectual deficiency; insights into criminal authority; lack of intellectual independence; great cultural criminality; a cultural state of the past; a state's deficient culture; lack of truth in the state; an important intellectual secret.
+
+## Comparative Schema
+
+- Core meaning: Cultural and intellectual deficiency, concealed matters, and cultures of the past form a deliberately uneven range.
+- Psychology: Lack of intellectual independence and an important intellectual secret are ABC motifs.
+- Body/health: No specific medical or bodily claim occurs in either entry.
+- Social/relationship: Witte's social ranking and ABC's criminal authority belong to historical source judgments.
+- Events/manifestations: Past cultures, deficient state culture, and lack of truth in the state are explicit settings.
+- Conflicts/notes: Past culture is a separate motif; it does not establish that earlier cultures or people are inferior.
+
+## Contradictions And Tensions
+
+Past culture is a separate motif; it does not establish that earlier cultures or people are inferior.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Poseidon = Hades`: base cultural attitude, low-grade spiritual or educational endeavor, and engagement with cultures of the past.
-- Chart expression: decayed ideology, degraded teaching, or serious study of old, difficult, or neglected cultural material.
+With Hades, Kronos/Poseidon includes intellectual and cultural lack, secrecy, and compromised authority, alongside the separate theme of cultures of the past. ABC describes deficient state culture, loss of intellectual independence, and insights into criminal authority; Witte uses explicitly hierarchical language about people and cultural endeavor. These are historical source judgments, not grounds for classifying a person or culture as inferior or criminal. The past-culture theme remains available without turning it into a claim of decay. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

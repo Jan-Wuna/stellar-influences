@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Admetos = Venus`
 - Astronomicon formula: `Y/¦ = Q`
 - Axis page: [Neptune/Admetos](../axes/neptune-admetos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `252` (entry start; one-based).
+
 #### Witte Entry
 
 Change of living conditions for women.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `402`, PDF p. `200` (entry).
+
 #### ABC Entry
 
-Perseverance of joy in the water, loss of a blockade by love, consolidation of harmony by fine feeling, consolidation of unsafe love, profound love exchange, deepening of a preference for metaphysics, and preference for deep water
+Enduring joy in water, dissolution of a blockade through love, consolidation of harmony through sensitivity, consolidation of uncertain love, profound disappointment in love, deepening of a preference for metaphysics, and preference for deep water
+
+## Comparative Schema
+
+- core meaning: changed living conditions for women, with affection-related consolidation or disappointment.
+- psychology: sensitivity, joy, and disappointment in love are named.
+- body/health: neither entry supplies a specific bodily condition.
+- social/relationship: uncertain love becoming consolidated and love dissolving a blockade are ABC examples.
+- events/manifestations: enduring joy in water and preferences for deep water or metaphysics are listed.
+- conflicts/notes: consolidating uncertain love does not prove secure attachment; disappointment remains an explicit alternative.
+
+## Contradictions
+
+Witte gives changed conditions for women without judging the result. ABC combines supportive consolidation with profound love disappointment, retaining different evaluations.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Admetos = Venus`: Change of living conditions for women.
-- Practical focus: socializes `Neptune/Admetos` through altered conditions specifically affecting women, affection, or relational life. It suggests the axis expressing through changes in comfort, care, or the lived circumstances of feminine experience.
-- Practical expression: perseverance of joy in the water, loss of a blockade by love, consolidation of harmony by fine feeling, consolidation of unsafe love, and profound love exchange.
+In Neptune/Admetos = Venus, Venus specifies the pair through changed living conditions for women and the state of affection. The [Witte entry](#witte-entry) gives the living-condition change; [ABC](#abc-entry) adds love dissolving a blockade, harmony strengthened through sensitivity, and consolidation of uncertain love, alongside profound disappointment (printed p. 402, PDF p. 200). Its water and metaphysical preferences are particular examples. The affectionate strand does not guarantee relational security or an improved outcome.
 
 ## Links
 

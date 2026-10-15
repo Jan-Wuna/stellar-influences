@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Asc = Zeus`
 - Astronomicon formula: `Y/Asc = £`
 - Axis page: [Neptune/Asc](../axes/neptune-asc.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `89` (entry start; one-based).
+
 #### Witte Entry
 
 Others try in vain to usurp leadership. To be scalded by other people.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `119`, PDF p. `58` (entry).
+
 #### ABC Entry
 
-Efforts in the subtle environment, beginning losses in the environment, exchangeable partner services, fine tuning management of the partner, local gas fires, weak environmental efforts, and environmental efforts for the future
+Efforts in a subtle environment, beginning dissolutions in the surroundings, disappointing achievements of the partner, sensitive leadership of the partner, gas fire at the location, weak environmental efforts, and environmental efforts for the future
+
+## Comparative Schema
+
+- core meaning: effort and leadership involving others, with disappointing results or failed attempts at control.
+- psychology: sensitive leadership and disappointing achievement are explicit without a stated motive.
+- body/health: being scalded by others is Witte's historical example, not an accident prediction.
+- social/relationship: others trying unsuccessfully to take leadership and a partner's leadership are stated.
+- events/manifestations: beginning dissolution in surroundings, local gas fire, and future environmental efforts are examples.
+- conflicts/notes: the entries do not connect the scalding example causally to leadership or imply suddenness in every event.
+
+## Contradictions
+
+Witte emphasizes unsuccessful usurpation and scalding. ABC also includes sensitive leadership and effort for the future, which do not necessarily involve conflict.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Asc = Zeus`: Others try in vain to usurp leadership. To be scalded by other people.
-- Practical focus: provokes conflict around uncertain identity and leadership, showing futile attempts by others to seize control or harmful contact that strikes suddenly and forcefully.
-- Practical expression: efforts in the subtle environment, beginning losses in the environment, exchangeable partner services, fine tuning management of the partner, and local gas fires.
+In Neptune/Asc = Zeus, Zeus specifies the pair through effort and leadership involving a partner or other people. The [Witte entry](#witte-entry) describes others unsuccessfully trying to take leadership; [ABC](#abc-entry) places sensitive leadership beside disappointing partner achievements and weak or future-directed environmental efforts (printed p. 119, PDF p. 58). Witte's scalding example and ABC's gas fire remain concrete historical examples, without a stated connection to leadership. The supported tension concerns exertion and its results, rather than inevitable conflict or sudden harm.
 
 ## Links
 

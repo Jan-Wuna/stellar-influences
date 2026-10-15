@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Cupido/Vulcanus = Jupiter`
 - Astronomicon formula: `¡/§ = V`
 - Axis page: [Cupido/Vulcanus](../axes/cupido-vulcanus.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source: printed p. 277; PDF p. 273.
+
 Mighty luck or fortune of the family. Great artistic successes. Happiness through enjoying art. Great financial power. High finance.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
+Source: printed p. 434; PDF p. 216, Jupiter row.
+
 Influential financial community, influential legal community, joy over common force, joint success against violence, force from common joy, power success of a community, legal force for the community, and beneficial art influence
+
+## Comparative Schema
+
+- Core meaning: Fortune, enjoyment and success within collective power, family and art ([Witte Entry](#witte-entry), [ABC Entry](#abc-entry)).
+- Psychology: Happiness through art and joy in shared strength are explicit.
+- Body/health: No bodily condition is named.
+- Social/relationship: Family fortune and influential financial or legal communities are named.
+- Events/manifestations: Major artistic successes, high finance, success against violence and beneficial artistic influence are examples.
+- Conflicts/notes: Success against violence is distinct from exerting it; no moral-health conclusion is supplied.
+
+## Contradictions
+
+Both entries include strength and success; ABC adds legal influence and shared success against violence. These are different beneficial expressions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Cupido/Vulcanus = Jupiter`: powerful organization yielding prosperity, prestige, and successful output on a large scale. Main caution: confusing financial or artistic triumph with moral or relational health.
+In `Cupido/Vulcanus = Jupiter`, Jupiter specifies collective strength through fortune, success and shared enjoyment. Family good fortune, major artistic successes, pleasure in art and great financial power give Witte's concrete range ([Witte Entry](#witte-entry)). ABC adds influential financial or legal communities, joy in shared strength, success against violence and beneficial artistic influence, connecting communal power with advantageous participation ([ABC Entry](#abc-entry)).
 
 ## Links
 

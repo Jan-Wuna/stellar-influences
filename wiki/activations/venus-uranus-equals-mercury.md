@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Venus/Uranus](../axes/venus-uranus.md)
 - Triad hub: [Mercury Venus Uranus](../triads/mercury-venus-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 179 (one-based).
 
 To think of love spontaneously. Erotic thoughts. To make surprisingly pleasant new connections. Art impulses. One expresses immediate readiness.
 
@@ -45,17 +49,23 @@ To think of love spontaneously. Erotic thoughts. To make surprisingly pleasant n
 
 #### ABC Entry
 
-Exciting youth beauty, reports about artificial events, harmonious traffic rhythm, new youth love, sudden love thoughts, rhythmic movement skill, love experiences in youth, and preference of youth for technology
+- Source page: 276; PDF page: 137 (one-based spread).
+
+Exciting youthful beauty, reports about art events, harmonious traffic rhythm, new youthful love, sudden thoughts of love, rhythmic art of movement, love experiences in youth, and young people's preference for technology
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: 185; entry code: 0617.
 
 Artistic ideas, ability to give stimulating ideas to other people. The sudden emergence of love thoughts.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF chapter start: 60 (one-based; entry-specific page not established).
 
 One communicates in a beautifully unusual fashion. A love of experimenting with ideas. An unusual charm expressed when speaking. One is clever when it comes to creating beauty in original ways.
 
@@ -70,22 +80,21 @@ Unusual forms of beauty and appreciation communicated, discussed and/or observed
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Spontaneous love thoughts and original communication of beauty.
+- psychology: Experimenting with ideas and finding unusual ways to create beauty.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Surprisingly pleasant connections and unusual charm in speech.
+- events/manifestations: Artistic ideas, reports of art events, novels, and rhythmic movement.
+- conflicts/notes: The page supplies no basis for the old summary's inability to sustain intimacy.
 
 ## Contradictions
 
-- None recorded yet.
+The entries emphasize originality and immediacy without an explicit contradiction. Their novelty does not establish emotional detachment.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/Uranus = Mercury`: inventive taste, sparkling conversation, and the ability to connect ideas, people, and aesthetics in fresh or liberating ways. Main caution: communication can become overstimulated, provocative, or too detached to sustain intimacy.
+In `Venus/Uranus = Mercury`, Mercury specifies the pair through spontaneous ideas and unusual ways of communicating beauty or love. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) name sudden love thoughts and artistic impulses. [Sandbach](#sandbach-entry) adds original expression and experimental thought, while [Munkasey](#munkasey-entry) includes discussion and novels about unusual forms of love. The [ABC entry](#abc-entry) adds art reports, youthful love, and rhythmic movement. Together these support inventive exchange without establishing a problem sustaining intimacy.
 
 ## Links
 

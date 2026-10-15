@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = MC`
 - Astronomicon formula: `Q/¢ = MC`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 Serving, submissive soul. To grieve. Servant. Prostitute or procurer (pimp).
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-I love secrets, my love service, my love heart, my criminal desires, my preference for the old, and soul heart through love
+- Source page: 284 (printed); PDF page: 141; scanned activator row checked.
+
+Soulful old love, soulful art of the past, mysterious inner harmony, I love secrets, my service in love, my sorrow in love, my criminal wishes, my preference for the old, and inner sorrow through love.
+
+## Comparative Schema
+
+- Core meaning: Sorrow, secrecy, and service experienced inwardly.
+- Psychology: Grief, submission, and attachment to old things.
+- Body/health: No clinical diagnosis is established.
+- Social/relationship: Serving relationships; historical sexual occupations.
+- Events/manifestations: Soulful old love and art of the past.
+- Conflicts/notes: Criminal wishes and occupational labels remain attributed possibilities.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Criminal wishes and occupational labels remain attributed possibilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = MC`: serving, submissive soul.
-- Practical expression: i love secrets, my love service, my love heart, my criminal desires, and my preference for the old.
+MC specifies Venus/Hades through the inward experience of serving, grieving, or keeping love secret. ABC links those states with old affection and art of the past, while retaining criminal wishes as a separate possibility. Witte's sexual-occupation labels describe historical doctrine rather than a personal identity inferred from the formula. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Asc/Kronos = Hades`
 - Astronomicon formula: `Asc/¤ = ¢`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Source reference: Witte, Rudolph & Lefeldt, one-based PDF p. 94, “Asc + Kronos,” Hades row; checked on the actual scan.
+
 To be dismissed. To lose employment. Austerity by order of the state. To be impoverished through the state. To go to prison.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Viewed place from the past, large crime scene on site, criminal authoritat on site, poor authoritat on site, poor environmental steering, disadvantage by superior partners, adverse steering by other, and important place of the past
+A respected place from the past, extensive local crime, criminal local authority, inadequate local authority, inadequate direction of the surroundings, disadvantage through a superior partner, adverse direction by others, and an important place from the past.
+
+Translation repaired against the German entry, printed p. 129, one-based PDF p. 63; wording and the hades row verified against the scan.
+
+## Comparative Schema
+
+- **Core meaning:** Authority can bring dismissal, deprivation, or harmful direction.
+- **Psychology:** No distinct psychological trait is stated.
+- **Body/health:** No specific medical claim appears.
+- **Social/relationship:** A superior partner or other people may direct matters to one's disadvantage.
+- **Events/manifestations:** Loss of employment, state-imposed austerity or impoverishment, prison, and inadequate authority are explicit.
+- **Conflicts/notes:** A respected historical place is a separate example and need not itself be harmful.
+
+## Contradictions
+
+No direct contradiction appears. Witte emphasizes material and legal hardship under authority, while ABC also names important or respected places from the past. Historical importance is not itself evidence of criminality.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Kronos = Hades`: harsh employers, austere systems, prisonlike restrictions, and environments where hierarchy damages rather than supports. Main caution: ruin by authority: command structures can become the source of serious decline.
+In `Asc/Kronos = Hades`, Hades specifies the Asc/Kronos axis through disadvantage associated with authority and direction. Witte's examples are concrete: dismissal, lost employment, state-imposed austerity or impoverishment, and prison. ABC adds criminal or inadequate local authority and disadvantage through a superior partner. It also preserves respected or important places from the past as a distinct historical strand, which should not be reduced to institutional harm. ([Witte](#witte-entry); [ABC](#abc-entry), printed p. 129.)
 
 ## Links
 

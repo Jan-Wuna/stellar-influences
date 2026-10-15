@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Node](../axes/pluto-node.md)
 - Triad hub: [Pluto Node Hades](../triads/pluto-node-hades.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF page 148 (one-based; exact activator row checked).
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ New connections, which prove to be an absolute failure, untenable.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: Printed page 223; PDF page 110 (one-based; exact activator row checked).
+
 #### ABC Entry
 
 Development of links from the past, development of a dangerous link, poor development in a relationship, changes in a secret link, growing criminal links, and changing contacts in need
 
+## Comparative Schema
+
+- core meaning: Connections that fail or develop through danger, deficiency, secrecy, or need.
+- psychology: No specific emotional or personality profile is supplied.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: Links from the past, dangerous or criminal contacts, and secret ties.
+- events/manifestations: New connections proving untenable; changing contacts under difficult conditions.
+- conflicts/notes: The past, secrecy, and need do not by themselves establish criminality.
+
+## Contradictions
+
+Witte's absolute failure is stronger than ABC's varied conditions. The latter must not be made uniformly harmful.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Node = Hades`: harmful or deteriorating relationships; Contact with others worsens conditions.
-- Practical expression: development of links from the past, development of a dangerous link, poor development in a relationship, changes in a secret link, and growing criminal links.
+Hades specifies Pluto/Node through connections whose development may be untenable or difficult. The [Witte entry](#witte-entry) explicitly describes new connections proving an absolute failure; the [ABC entry](#abc-entry) includes dangerous or deficient relationships and criminal links, but also ties from the past, secret connections, and changing contacts in need. These settings preserve the range without treating every old, hidden, or needy connection as harmful.
 
 ## Links
 

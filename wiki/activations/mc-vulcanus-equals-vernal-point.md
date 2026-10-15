@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [Vernal Point MC Vulcanus](../triads/vernal-point-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,29 @@ To influence many people. To reveal one’s own power to the general world.
 
 #### ABC Entry
 
-The internal consciousness of the public, me and the public power, my influence in the public sphere, my power in the public sphere, life, mental influence of the public sphere, emotional influence in the public sphere, and sectarian violence in the public sphere
+- Source passage: `Meridian + Vulkanus`; printed p. `96`; one-based PDF page `47` (complete oriented row checked against the raw scan).
+
+The inner nature of the public, I and public power, my influence in public life, my power in public life, inner influence of the public, inner influence in public life, psychic violence in public life.
+
+## Comparative Schema
+
+- **Core meaning:** Personal power expressed in public life.
+- **Psychology:** Awareness of one's relation to public power.
+- **Body/health:** No health condition is supplied.
+- **Social/relationship:** Influence on many people and influence from the public.
+- **Events/manifestations:** Making one's power visible in the wider world.
+- **Conflicts/notes:** ABC describes the public's inner nature and psychic violence in public life; it supplies no sectarian identification. Influence of the public and influence within public life remain distinct clauses.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 96 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+No direct contradiction is established. Outwardly displayed power and public influence coexist with ABC's severe psychic-violence example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Vernal Point` externalizes the axis into visible influence over many people.
-- Chart expression: revealing one's power in the wider world, affecting large groups, and making personal force unmistakable on the public stage.
+Vernal Point specifies `MC/Vulcanus` through influence on many people and the revelation of personal power to the wider world. That explicit [Witte Entry](#witte-entry) is extended by the [ABC Entry](#abc-entry) into power and inner influence in public life, with psychic violence retained as a separate severe example. Public scope is supported; fame or a particular political or religious affiliation is not established.
 
 ## Links
 

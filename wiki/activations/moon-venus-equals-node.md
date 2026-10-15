@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Venus = Node`
 - Astronomicon formula: `R/Q = g`
 - Axis page: [Moon/Venus](../axes/moon-venus.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: printed p. `127`, PDF p. `123` (entry).
+
 #### Witte Entry
 
 Union of loving women. Union with the mother.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `178`, PDF p. `88` (entry).
+
 #### ABC Entry
 
-Joy about the connection with the woman, felicitous love relationship, harmony feeling at an encounter, harmonious contacts with women, with the people art connected, connection to a peaceful people, and harmonious people connections
+Joy in the connection with a woman, an emotionally rich love relationship, a feeling of harmony at an encounter, harmonious contacts with women, connection with folk art, connection with a peaceful people, and harmonious connections among peoples
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
+- Source reference: printed p. `118`, entry `0347`.
+
 #### Ebertin Entry
 
-for tenderness, the urge to be united with a beloved person, love of family and community, association with the mother.
+Longing for tenderness, the urge to be united with a beloved person, love of family and community, association with the mother.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `28` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,23 +80,23 @@ Connections to people who are receptive to your form of charm and care; you find
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: loving connection, shared feeling, and attachment to family or community.
+- psychology: longing for tenderness and developing emotional openness are named.
+- body/health: none of these entries supplies a bodily or health claim.
+- social/relationship: union with the mother, compatible partners, receptive friends, and courtesy are examples.
+- events/manifestations: love with new friends, peaceful collective connections, and connection with folk art are stated.
+- conflicts/notes: openness and compatibility are described; clinginess or dependence on reassurance is not established.
 
 ## Contradictions
 
-- None recorded yet.
+The entries largely emphasize affectionate association. Sandbach frames emotional openness as something to develop, which qualifies any assumption that harmonious contact is automatic.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Venus = Node` channels the tender, receptive love of the Moon/Venus axis through the Node, making affection social, familiar, and shared. It points to emotional belonging built through kindness, comfort, and the instinct to create harmony in bonds and community.
-- Chart expression: loving friendship, family warmth, and the feeling that tenderness is something lived with others rather than kept private. Main caution: clingingly pleasant attachment, because comfort and belonging can become too dependent on relational reassurance.
+In Moon/Venus = Node, Node specifies the pair through affectionate connections and the sharing of feelings. [Witte](#witte-entry) names union with loving women or the mother, and [Ebertin](#ebertin-entry) adds longing for tenderness, a beloved person, family, and community. [ABC](#abc-entry) includes harmonious encounters and peaceful connections among peoples (printed p. 178, PDF p. 88).
+
+[Sandbach](#sandbach-entry) treats openness and vulnerability as capacities to develop in relationships; [Munkasey](#munkasey-entry) gives receptive friends, compatible partners, courtesy, and appreciation of one's talents (p. 108). These support shared affection without establishing that belonging requires constant reassurance.
 
 ## Links
 

@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Neptune/Node = Venus](../activations/neptune-node-equals-venus.md)
-- [Venus/Neptune = Node](../activations/venus-neptune-equals-node.md)
-- [Venus/Node = Neptune](../activations/venus-node-equals-neptune.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Neptune/Node = Venus](../activations/neptune-node-equals-venus.md) | [Neptune/Node](../axes/neptune-node.md) | [Venus](../factors/venus.md) |
+| [Venus/Neptune = Node](../activations/venus-neptune-equals-node.md) | [Venus/Neptune](../axes/venus-neptune.md) | [Node](../factors/node.md) |
+| [Venus/Node = Neptune](../activations/venus-node-equals-neptune.md) | [Venus/Node](../axes/venus-node.md) | [Neptune](../factors/neptune.md) |
 
 ## Source Coverage
 
-- `Neptune/Node = Venus`: Michael, page `332`
-- `Venus/Neptune = Node`: Michael, page `204`
-- `Venus/Node = Neptune`: Michael, page `212`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Neptune/Node = Venus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/neptune-node-equals-venus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/neptune-node-equals-venus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/neptune-node-equals-venus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/neptune-node-equals-venus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/neptune-node-equals-venus.md#munkasey-entry), printed p. `332`.
+- `Venus/Neptune = Node`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-neptune-equals-node.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-neptune-equals-node.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-neptune-equals-node.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-neptune-equals-node.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-neptune-equals-node.md#munkasey-entry), printed p. `204`.
+- `Venus/Node = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/venus-node-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/venus-node-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/venus-node-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/venus-node-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/venus-node-equals-neptune.md#munkasey-entry), printed p. `212`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

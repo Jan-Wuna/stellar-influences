@@ -34,20 +34,25 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Saturn/Neptune = Uranus](../activations/saturn-neptune-equals-uranus.md)
-- [Saturn/Uranus = Neptune](../activations/saturn-uranus-equals-neptune.md)
-- [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Saturn/Neptune = Uranus](../activations/saturn-neptune-equals-uranus.md) | [Saturn/Neptune](../axes/saturn-neptune.md) | [Uranus](../factors/uranus.md) |
+| [Saturn/Uranus = Neptune](../activations/saturn-uranus-equals-neptune.md) | [Saturn/Uranus](../axes/saturn-uranus.md) | [Neptune](../factors/neptune.md) |
+| [Uranus/Neptune = Saturn](../activations/uranus-neptune-equals-saturn.md) | [Uranus/Neptune](../axes/uranus-neptune.md) | [Saturn](../factors/saturn.md) |
 
 ## Source Coverage
 
-- `Saturn/Neptune = Uranus`: Michael, page `288`
-- `Saturn/Uranus = Neptune`: Michael, page `284`
-- `Uranus/Neptune = Saturn`: Michael, page `308`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Saturn/Neptune = Uranus`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-neptune-equals-uranus.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-neptune-equals-uranus.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-neptune-equals-uranus.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-neptune-equals-uranus.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-neptune-equals-uranus.md#munkasey-entry), printed p. `288`.
+- `Saturn/Uranus = Neptune`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-uranus-equals-neptune.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-uranus-equals-neptune.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-uranus-equals-neptune.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-uranus-equals-neptune.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-uranus-equals-neptune.md#munkasey-entry), printed p. `284`.
+- `Uranus/Neptune = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/uranus-neptune-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/uranus-neptune-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/uranus-neptune-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/uranus-neptune-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/uranus-neptune-equals-saturn.md#munkasey-entry), printed p. `308`.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

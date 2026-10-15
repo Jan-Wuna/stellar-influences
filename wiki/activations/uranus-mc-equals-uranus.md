@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/MC = Uranus`
 - Astronomicon formula: `X/MC = X`
 - Axis page: [Uranus/MC](../axes/uranus-mc.md)
@@ -41,22 +43,23 @@ Realizing that there are parts to your personality which need adjusting; added d
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+Evidence: [Munkasey](#munkasey-entry) (printed p. 326).
+
+- core meaning: Self-revision and a desire for a different way of living. ([Munkasey entry](#munkasey-entry).)
+- psychology: Recognition of personal adjustments and a preferred future self. ([Munkasey entry](#munkasey-entry).)
+- body/health: No bodily or medical claim is supplied. ([Munkasey entry](#munkasey-entry).)
+- social/relationship: The hoped-for way one will be remembered gives a social horizon. ([Munkasey entry](#munkasey-entry).)
+- events/manifestations: Changes in lifestyle and exploration of new ways of living. ([Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Only Munkasey's repeated-pair entry is represented; no independent comparison or separate third factor is implied. ([Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Only Munkasey's repeated-pair entry is represented. A wish to revise one's lifestyle or personality does not identify an external event that forces the change.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/MC = Uranus`: Realizing that there are parts to one's personality which need adjusting; added desires to change or alter one's present lifestyle; seeing new ways of living and becoming more like the person one wants to be remembered.
+Uranus specifies Uranus/MC through recognizing the need to change one's own personality or way of life. In the single Munkasey entry, seeing new possibilities is connected with the person one hopes to become and be remembered as. The repeated Uranus sharpens this self-revision theme; the entry does not describe a particular external event that must force it. ([Munkasey entry](#munkasey-entry).)
 
 ## Links
 

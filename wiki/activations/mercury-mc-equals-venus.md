@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mercury/MC](../axes/mercury-mc.md)
 - Triad hub: [Mercury Venus MC](../triads/mercury-venus-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source locator: PDF p. 62, one-based, entry start (not a printed-page number).
 
 To think about acquaintances. One’s attitude about love and art.
 
@@ -45,17 +49,25 @@ To think about acquaintances. One’s attitude about love and art.
 
 #### ABC Entry
 
-Joy and harmony in youth, thoughts of a loving soul, I love to speak, I think fiendly, loving description of the soul, my harmonic thinking, my youth love, my peace language, and artistic soul language
+German passage (transcribed from PDF page `33`, printed page `68`):
+
+> Freude und Harmonie in der Jugend, Gedanken einer liebenden Seele, ich liebe es zu sprechen, ich denke friedlich, liebevolle Beschreibung der Seele, mein harmonisches Denken, meine Jugend-Liebe, meine Friedens-Gespräche, künstlerische Seelen-Sprache
+
+Editorial translation from the German passage: Joy and harmony in youth; thoughts of a loving soul; I love speaking; I think peacefully; loving description of the soul; my harmonious thinking; my youthful love; my peace conversations; artistic language of the soul.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source locator: printed p. 173, coded entry 0569.
 
 One's own thinking and feeling, contemplating on art and beauty, meditating about love problems. Determining one's own attitude toward a beloved person.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source locator: PDF p. 53, one-based, chapter start only; exact entry page unverified.
 
 To appreciate the ideas of experts, or those with authority. An appreciation of ideas that carry spiritual authority. A love of thinking about worldly things. To appreciate the complexity of ideas..
 
@@ -70,22 +82,21 @@ Developing a softness to your personality as you mature; a satisfaction about th
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personal judgement concerned with affection, art, and valued ideas.
+- psychology: Appreciation and satisfaction in the person one is becoming.
+- body/health: No specific body or health claim appears.
+- social/relationship: Attitudes toward acquaintances or a beloved person; appreciation of expertise.
+- events/manifestations: Contemplation of beauty and love problems; softened personal manner.
+- conflicts/notes: Munkasey's deceitful aims qualify the favorable accounts of appreciation and self-contentment.
 
 ## Contradictions
 
-- None recorded yet.
+Munkasey's deceitful trend remains beside the favorable descriptions; ABC's peaceful thinking does not erase that contrast.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC = Venus`: refined judgment, artistic or relational vocation, and a life path helped by tact, taste, and thoughtful affection. Main caution: pleasingness over decisiveness: one may linger in contemplation of values or relationships instead of drawing firmer conclusions and acting on them.
+Venus specifies Mercury/MC through what one appreciates in ideas, relationships, and oneself. The [Witte](#witte-entry) and [Ebertin](#ebertin-entry) entries concern love, art, beauty, and attitudes toward a beloved person; [Sandbach](#sandbach-entry) adds appreciation of complex ideas and expertise. [Munkasey](#munkasey-entry) (p. 184) describes a softer personality and contentment with one's development, but also retains a deceitful trend in aims. Contentment and appreciation therefore coexist with a distinct possibility of deceit in one's aims.
 
 ## Links
 

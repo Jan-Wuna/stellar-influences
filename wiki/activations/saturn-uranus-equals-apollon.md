@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Uranus](../axes/saturn-uranus.md)
 - Triad hub: [Saturn Uranus Apollon](../triads/saturn-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ To abandon an approved method. To be misguided. To split one s forces. Discord o
 
 #### ABC Entry
 
-Expansion of painful events, serious unrest in the economy, storten successRhythm, concentration on new knowledge, new problems of science, new extensive losses, sudden shocks in trade, and increasing refonn problems
+Expansion of painful events, serious unrest in the economy, disturbed rhythm of success, concentration on new knowledge, new problems in science, new extensive losses, sudden disturbances in trade, and increasing problems with reform.
+
+## Comparative Schema
+
+- core meaning: Disruption spreads across many people or an extensive field of activity.
+- psychology: Divided effort, misdirection and concentration on new knowledge.
+- body/health: No specific bodily claim is supplied.
+- social/relationship: Discord among many and sudden separation from many.
+- events/manifestations: Economic unrest, trade disturbances, scientific problems and extensive losses.
+- conflicts/notes: Reform and knowledge appear amid disruption; success is not assured.
+
+## Contradictions
+
+The entries emphasize collective disruption and new knowledge differently; neither states that these must exclude one another.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Uranus = Apollon`: to abandon an approved method, to be misguided, to split one's forces.
-- Practical expression: expansion of painful events, serious unrest in the economy, storten successRhythm, concentration on new knowledge, and new problems of science.
+Apollon specifies Saturn/Uranus as disruption extending across many people, commerce or knowledge. Abandoning an established method may divide effort and produce discord, while concentration on new knowledge accompanies scientific and economic problems. The [Witte Entry](#witte-entry) (PDF p. 221, entry start) and [ABC Entry](#abc-entry) (printed p. 349; PDF p. 173) support the breadth of disturbance without establishing that every change of method is misguided.
 
 ## Links
 

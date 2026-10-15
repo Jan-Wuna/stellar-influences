@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Kronos/Vulcanus](../axes/kronos-vulcanus.md)
 - Triad hub: [Saturn Kronos Vulcanus](../triads/saturn-kronos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 301 (one-based), Kronos + Vulcanus, Saturn entry.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Opposition to the existing form of government. To be controlled by the power of 
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 465; PDF p. 231 (one-based), Kronos + Vulkanus, Saturn entry.
+
 #### ABC Entry
 
-Special power of concentration, loss of influence of the boss, loss of power, loss of power of the state, problems of state power, loss of authority, loss of great energies, and important influence through patience
+Special power of concentration; loss of the chief's influence; great loss of strength; the state's loss of power; problems of state power; strong loss of authority; loss of great energies; losses of a great power; important influence through patience.
+
+## Comparative Schema
+
+- Core meaning: State power is opposed, lost, or used to control and separate.
+- Psychology: Concentration and patient influence coexist with loss of strength.
+- Body/health: Loss of energy is stated without a particular clinical diagnosis.
+- Social/relationship: Control or separation by state power and loss of a chief's influence are explicit.
+- Events/manifestations: Losses of a great power and problems of state authority occur in ABC.
+- Conflicts/notes: Patient concentration is retained alongside constraint and loss.
+
+## Contradictions And Tensions
+
+Patient concentration is retained alongside constraint and loss.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Kronos/Vulcanus = Saturn`: resistance to the existing government, being constrained by state force, and separation imposed through official power.
-- Chart expression: hard political boundary, repression, and the reality that state force can isolate or limit as much as it commands.
+With Saturn, Kronos/Vulcanus describes authority under constraint and authority imposing constraint. Witte includes opposition to a government as well as control and separation by state power. ABC adds loss of influence, authority, strength, and state power, but also concentration and influence through patience. This preserves both the difficult political range and a slower, concentrated form of effectiveness, rather than treating all restraint as total defeat. ([Witte entry](#witte-entry); [ABC entry](#abc-entry).)
 
 ## Links
 

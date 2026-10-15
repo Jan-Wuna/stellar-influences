@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Pluto/Apollon](../axes/pluto-apollon.md)
 - Triad hub: [Pluto Apollon Poseidon](../triads/pluto-apollon-poseidon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 261 (one-based; exact row checked).
 
 To experience radical transformations in the concept of the world with or together with friends, colleagues, comrades or like-minded people.
 
@@ -42,13 +46,27 @@ To experience radical transformations in the concept of the world with or togeth
 
 #### ABC Entry
 
+- Source page: 417 (printed); PDF page: 207 (one-based; exact row checked).
+
 Expansion of spiritual development, development of spiritual science, scientific development of knowledge, development of spiritual freedom, evolution of science from the mind, growing spiritual successes, and developing science of truth
+
+## Comparative Schema
+
+- core meaning: expanding knowledge or a radically changed world view shared with like-minded people.
+- psychology: intellectual or spiritual development, freedom and evolving understanding.
+- body/health: no bodily or medical claim is stated in these entries.
+- social/relationship: friends, colleagues, comrades and others with a similar outlook share the transformation.
+- events/manifestations: development of spiritual science, the study of knowledge and the source's science of truth.
+- conflicts/notes: Science of spirit and truth are the source's expressions; they do not establish the empirical validity of a doctrine.
+
+## Contradictions
+
+Science of spirit and truth are the source's expressions; they do not establish the empirical validity of a doctrine.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Poseidon`: to experience radical transformations in the concept of the world with or together with friends, colleagues, comrades or like-minded people.
-- Practical expression: expansion of spiritual development, development of spiritual science, scientific development of knowledge, development of spiritual freedom, and evolution of science from the mind.
+Poseidon specifies `Pluto/Apollon` through an expansion or radical transformation of understanding. The [Witte entry](#witte-entry) places the changed world view among friends, colleagues or like-minded people; the [ABC entry](#abc-entry) develops spiritual freedom, knowledge and the evolution of a science of spirit. The development is therefore both intellectual or spiritual and shared with others. Its science-of-truth vocabulary remains source doctrine rather than independent validation of any teaching.
 
 ## Links
 

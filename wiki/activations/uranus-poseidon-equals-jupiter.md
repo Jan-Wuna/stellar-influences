@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Poseidon](../axes/uranus-poseidon.md)
 - Triad hub: [Jupiter Uranus Poseidon](../triads/jupiter-uranus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 243 (entry start).
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ To be conscientious. Fortune and success through conscientiousness, or through c
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 388; PDF p. 193.
+
 #### ABC Entry
 
-Successful cultural emanation, successful spiritual impulses, joy over sudden truth, intellectual emancipation of law, new money culture, new legal ideas, surprising legal clarity, and powerful legal event
+Successful cultural renewal, successful spiritual impulses, joy over sudden truth, intellectual renewal of law, a new culture of money, new legal ideas, surprising legal clarity, a rational legal event.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Success associated with conscientious attention.
+- psychology: Carefulness and joy at sudden understanding.
+- body/health: No bodily claim is stated.
+- social/relationship: ABC includes legal ideas and clarity in law.
+- events/manifestations: A successful result through attention; new legal ideas.
+- conflicts/notes: ABC's legal and financial examples should not become predictions.
+
+## Contradictions
+
+Witte gives a condition for success through conscientiousness, rather than an unconditional promise of fortune. ABC adds successful renewal and legal or monetary culture. Its legal examples remain source claims rather than predictions; the rational-event and renewal wording has been verified on printed p. 388 (PDF p. 193).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Poseidon = Jupiter`: To be conscientious. Fortune and success through conscientiousness, or through carefulness and attention.
-- Practical expression: successful cultural emanation, successful spiritual impulses, intellectual emancipation of law, and new money culture.
+In `Uranus/Poseidon = Jupiter`, Jupiter specifies mental or spiritual activity through the success that careful attention can bring. Conscientiousness is the organizing condition in [Witte](#witte-entry); [ABC](#abc-entry) extends the field to new legal ideas, legal clarity and joy at a sudden truth. These examples preserve the connection between understanding and a favorable result without promising success in every instance.
 
 ## Links
 

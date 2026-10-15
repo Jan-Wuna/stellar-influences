@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Venus Jupiter Zeus](../triads/venus-jupiter-zeus.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ Realization of a desire. Lucky attainment of an aim. The wish or will to create 
 
 #### ABC Entry
 
-Successful artistic achievements, successful love witnessing, successful peace strike, fiery love happiness, joy success through harmony, financial desire strike, harmony through right strike, and creative right art
+- Source reference: printed p. 273; one-based PDF p. 135, Venus/Jupiter, Zeus row; complete actual row and adjacent glyphs checked.
+
+Editorial translation, checked against the scan: Successful artistic achievements, successful procreation in love, successful striving for peace, fiery happiness in love, leadership success through harmony, striving for financial wishes, harmony through legal efforts, and creative legal art.
+
+## Comparative Schema
+
+- core meaning: Desire directed toward realizing happiness or an aim ([Witte](#witte-entry)).
+- psychology: The wish or will to create happiness and longing for peace ([Witte](#witte-entry)).
+- body/health: Longing for family increase is named; the entry does not establish fertility or a health outcome.
+- social/relationship: Ardent happiness in love and the wish for family increase ([ABC](#abc-entry); [Witte](#witte-entry)).
+- events/manifestations: Attainment of an aim and artistic achievement ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: Striving and effort remain distinct from a prediction of success; procreation is a source claim, not a fertility assessment.
+
+## Contradictions
+
+Purposeful creative effort and happiness are compatible emphases. ABC names leadership, peace, financial and legal efforts, while its procreation clause supplies no individual fertility conclusion.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Jupiter = Zeus`: realization of a desire.
-- Practical expression: successful artistic achievements, successful love witnessing, successful peace strike, fiery love happiness, and oy success through harmony.
+Zeus specifies Venus/Jupiter through the wish and effort to bring happiness into being. [Witte](#witte-entry) links desire with fortunate attainment of an aim, including peace or an increase in the family. The [ABC entry](#abc-entry) gives artistic achievement, striving for peace and financial wishes, leadership success through harmony and harmony through legal efforts. Its successful procreation in love and creative legal art remain specific source claims rather than guarantees about an undertaking or fertility.
 
 ## Links
 

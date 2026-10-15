@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/MC](../axes/saturn-mc.md)
 - Triad hub: [Vernal Point Saturn MC](../triads/vernal-point-saturn-mc.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source reference: PDF p. 66.
 
 #### Witte Entry
 
@@ -40,15 +44,29 @@ Grieving over many people. To go ones way alone. A restrictive moment in general
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 76; PDF p. 37. Translation checked against the German row.
+
 #### ABC Entry
 
-My perseverance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and psychic burden through the public
+My endurance in public, my inhibitions in public, my public tasks, my duties in public, my problems in public, public problems through me, and soul-related burden through the public.
+
+## Comparative Schema
+
+- core meaning: personal duty and burden in public circumstances.
+- psychology: endurance, inhibition, and the experience of public burden.
+- body/health: Neither entry gives a specific bodily claim.
+- social/relationship: grief concerning many people and going one's way alone.
+- events/manifestations: public tasks, duties, restrictions, and problems caused through oneself.
+- conflicts/notes: The public setting does not itself establish fame or office.
+
+## Contradictions
+
+- The entries associate public involvement with both perseverance and limitation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/MC = Vernal Point`: grieving over many people, to go ones way alone, a restrictive moment in general public.
-- Practical expression: my perseverance in public, my inhibitions in public, my public tasks, my duties in public, and my problems in public.
+In `Saturn/MC = Vernal Point`, Vernal Point specifies the Saturn/MC axis through public responsibilities and the burden of dealing with many people. [ABC](#abc-entry) lists endurance, duties, inhibitions, and problems in public, including problems caused through oneself. [Witte](#witte-entry) adds grieving over many people, going one's way alone, and a restrictive moment in public. Personal perseverance and public sorrow or limitation belong to the same range.
 
 ## Links
 

@@ -1,0 +1,303 @@
+{
+  "assignment_count": 54,
+  "ledger_count": 54,
+  "unique_ledger_paths": 54,
+  "missing_paths": [],
+  "extra_paths": [],
+  "all_full_reviewed": true,
+  "scope_count": 54,
+  "scope_failures": [],
+  "source_prose_changed_paths": [
+    "wiki/activations/sun-pluto-equals-asc.md",
+    "wiki/activations/sun-pluto-equals-cupido.md",
+    "wiki/activations/sun-pluto-equals-hades.md",
+    "wiki/activations/sun-pluto-equals-jupiter.md",
+    "wiki/activations/sun-pluto-equals-kronos.md",
+    "wiki/activations/sun-pluto-equals-mars.md",
+    "wiki/activations/sun-pluto-equals-mc.md",
+    "wiki/activations/sun-pluto-equals-mercury.md",
+    "wiki/activations/sun-pluto-equals-neptune.md",
+    "wiki/activations/sun-pluto-equals-node.md",
+    "wiki/activations/sun-pluto-equals-poseidon.md",
+    "wiki/activations/sun-pluto-equals-saturn.md",
+    "wiki/activations/sun-pluto-equals-venus.md",
+    "wiki/activations/sun-pluto-equals-vulcanus.md",
+    "wiki/activations/sun-pluto-equals-zeus.md",
+    "wiki/activations/sun-poseidon-equals-admetos.md",
+    "wiki/activations/sun-poseidon-equals-apollon.md",
+    "wiki/activations/sun-poseidon-equals-asc.md",
+    "wiki/activations/sun-poseidon-equals-jupiter.md",
+    "wiki/activations/sun-poseidon-equals-kronos.md",
+    "wiki/activations/sun-poseidon-equals-mars.md",
+    "wiki/activations/sun-poseidon-equals-mc.md",
+    "wiki/activations/sun-poseidon-equals-mercury.md",
+    "wiki/activations/sun-poseidon-equals-moon.md",
+    "wiki/activations/sun-poseidon-equals-node.md",
+    "wiki/activations/sun-poseidon-equals-pluto.md",
+    "wiki/activations/sun-poseidon-equals-saturn.md",
+    "wiki/activations/sun-poseidon-equals-venus.md",
+    "wiki/activations/sun-poseidon-equals-vernal-point.md",
+    "wiki/activations/sun-poseidon-equals-vulcanus.md",
+    "wiki/activations/sun-poseidon-equals-zeus.md",
+    "wiki/activations/sun-saturn-equals-admetos.md",
+    "wiki/activations/sun-saturn-equals-apollon.md",
+    "wiki/activations/sun-saturn-equals-asc.md",
+    "wiki/activations/sun-saturn-equals-hades.md",
+    "wiki/activations/sun-saturn-equals-jupiter.md",
+    "wiki/activations/sun-saturn-equals-kronos.md",
+    "wiki/activations/sun-saturn-equals-mars.md",
+    "wiki/activations/sun-saturn-equals-mc.md",
+    "wiki/activations/sun-saturn-equals-mercury.md",
+    "wiki/activations/sun-saturn-equals-moon.md",
+    "wiki/activations/sun-saturn-equals-neptune.md"
+  ],
+  "source_proof_count": 45,
+  "changed_without_path_proof": [],
+  "missing_proof_or_raw_files": [],
+  "git_diff_check_exit": 0,
+  "git_diff_check_output": "warning: in the working copy of 'wiki/activations/sun-pluto-equals-chiron.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-cupido.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-hades.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-kronos.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-poseidon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-vernal-point.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-vulcanus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-pluto-equals-zeus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-admetos.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-apollon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-asc.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-cupido.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-hades.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-jupiter.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-kronos.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-mars.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-mc.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-mercury.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-moon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-neptune.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-node.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-pluto.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-saturn.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-uranus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-venus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-vernal-point.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-vulcanus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-poseidon-equals-zeus.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-admetos.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-apollon.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-chiron.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-cupido.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-hades.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'wiki/activations/sun-saturn-equals-kronos.md', LF will be replaced by CRLF the next time Git touches it\n",
+  "unresolved": [],
+  "source_prose_changed_block_count": 48,
+  "source_prose_changed_blocks": [
+    {
+      "path": "wiki/activations/sun-pluto-equals-asc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-cupido.md",
+      "source": "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-hades.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-jupiter.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-kronos.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mars.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-mercury.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-neptune.md",
+      "source": "Reinhold Ebertin - The Combination of Stellar Influences",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-neptune.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-node.md",
+      "source": "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-poseidon.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-saturn.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-venus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-vulcanus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-pluto-equals-zeus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-admetos.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-apollon.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-asc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-jupiter.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-kronos.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mars.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-mercury.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-moon.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-node.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-pluto.md",
+      "source": "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-pluto.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-saturn.md",
+      "source": "Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-venus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-vernal-point.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-vulcanus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-poseidon-equals-zeus.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-admetos.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-apollon.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-asc.md",
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-asc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-hades.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-jupiter.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-kronos.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mars.md",
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mars.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mc.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mercury.md",
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-mercury.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-moon.md",
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-moon.md",
+      "source": "Udo Rudolph - ABC for Planetary Pictures",
+      "has_path_proof": true
+    },
+    {
+      "path": "wiki/activations/sun-saturn-equals-neptune.md",
+      "source": "John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints",
+      "has_path_proof": true
+    }
+  ]
+}

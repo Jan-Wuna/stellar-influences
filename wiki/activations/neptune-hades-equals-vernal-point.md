@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Hades = Vernal Point`
 - Astronomicon formula: `Y/¢ = VP`
 - Axis page: [Neptune/Hades](../axes/neptune-hades.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `248` (entry start; one-based).
+
 #### Witte Entry
 
 The native deceives himself about his relations to the surroundings and the general world. Also the environment may not be sure how it feels about the native. Floods. Tidal waves.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `394`, PDF p. `196` (entry).
+
 #### ABC Entry
 
-Feather in public wash, criminality in public waters, air shortage in the public, public air pollution, public water shortage, polluted public waters, and wasscr damage in public
+Danger in public waters, crime in public waters, lack of air in public, public air pollution, public water shortage, polluted public waters, and water damage in public
+
+## Comparative Schema
+
+- core meaning: uncertain relations with the wider world, alongside public environmental problems.
+- psychology: self-deception and others' uncertainty about the person are Witte's themes.
+- body/health: neither entry supplies a bodily diagnosis; environmental danger is a source example.
+- social/relationship: general surroundings and public life are the stated settings.
+- events/manifestations: floods, tidal waves, public pollution, shortages, and crime in public waters are named.
+- conflicts/notes: the source does not identify self-deception as a cause of collective environmental events.
+
+## Contradictions
+
+Witte juxtaposes uncertain relations and floods; ABC specifies public environmental conditions. Neither requires a single psychological explanation for them.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Hades = Vernal Point`: The native deceives himself about his relations to the surroundings and the general world. Also the environment may not be sure how it feels about the native. Floods. Tidal waves.
-- Practical focus: externalizes self-deception and environmental uncertainty, showing confused relations with the wider world and collective exposure to overwhelming water conditions.
-- Practical expression: feather in public wash, criminality in public waters, air shortage in the public, public air pollution, and public water shortage.
+In Neptune/Hades = Vernal Point, Vernal Point specifies the pair through public surroundings and relations with the wider world. The [Witte entry](#witte-entry) describes self-deception and uncertainty about how others feel, alongside floods and tidal waves. [ABC](#abc-entry) adds public pollution, air or water shortage, water damage, and danger in public waters (printed p. 394, PDF p. 196). The shared public setting does not establish a causal connection between uncertain relations and environmental events, or predict either for a particular person.
 
 ## Links
 

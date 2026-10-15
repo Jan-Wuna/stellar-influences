@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Zeus](../axes/vernal-point-zeus.md)
 - Triad hub: [Vernal Point Zeus Poseidon](../triads/vernal-point-zeus-poseidon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,25 @@ Mind creations in the intellectual or spiritual field. To express logic. Proofs.
 
 #### ABC Entry
 
-Fundende Idea in the public, mental Fundung the public, mental Kreativit in the public Life, clarity of the public Fundung, public Culture design, nenUnftige Zielen in the public Life, and truth struggling in public Life
+A leading idea in public, intellectual or spiritual leadership of the public, intellectual or spiritual creativity in public life, clarity in public leadership, public cultural creation, reasonable goals in public life, and striving for truth in public life.
+
+## Comparative Schema
+
+- Core meaning: Intellectual or spiritual creation and public leadership, with logic, clarity, and truth as explicit themes.
+- Psychology: Intellectual creation is explicit; no broader temperament is established.
+- Body/health: The reliable passage contains no medical claim.
+- Social/relationship: ABC names intellectual or spiritual leadership of the public and cultural creation in public life.
+- Events/manifestations: Producing ideas, expressing logic, presenting proofs, and pursuing reasonable public goals are examples.
+- Conflicts/notes: ABC's corrupt leadership, creativity, and reasonable-goal phrases were retranslated from the German scan.
+
+## Contradictions
+
+Logic and proof in Witte and public intellectual leadership in ABC are compatible emphases; neither establishes that a publicly influential idea is true. The formerly corrupt ABC English was repaired against printed p. 49 (PDF p. 23).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Zeus = Poseidon`: mind creations in the intellectual or spiritual field, to express logic, and proofs.
-- Practical expression: fundende Idea in the public, mental Fundung the public, mental Kreativit in the public Life, clarity of the public Fundung, and public Culture design.
+In `Vernal Point/Zeus = Poseidon`, Poseidon specifies the pair through intellectual or spiritual creation that takes an articulated and public form: logic is expressed, proofs are presented, and ideas help direct or shape public culture. Clarity in leadership, reasonable goals, and striving for truth connect those activities without guaranteeing the truth of any particular idea. See the [Witte Entry](#witte-entry) (PDF p. 50) and the scan-checked [ABC Entry](#abc-entry) (printed p. 49; PDF p. 23).
 
 ## Links
 

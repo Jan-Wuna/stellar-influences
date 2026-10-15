@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Neptune/Kronos = Mercury`
 - Astronomicon formula: `Y/¤ = T`
 - Axis page: [Neptune/Kronos](../axes/neptune-kronos.md)
@@ -34,22 +36,37 @@ updated_at: 2026-05-04
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `250` (entry start; one-based).
+
 #### Witte Entry
 
 Great or impracticable ideas. Inventions.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `398`, PDF p. `198` (entry).
+
 #### ABC Entry
 
-Special media expectations, special features of language, exchangeable news from the state, great insecurity of young people, self sufficient air traffic, public transport, and state insecurity by the media
+Special media expectations, special sensitivity of language, disappointing news from the state, great uncertainty among youth, independent air traffic, state water traffic, and uncertainty of the state through the media
+
+## Comparative Schema
+
+- core meaning: large or impracticable ideas and inventions, with language, news, and institutional uncertainty in ABC.
+- psychology: expectation and uncertainty are explicit without making every inventive thought unrealistic.
+- body/health: neither entry supplies a bodily or health claim.
+- social/relationship: youth, media, and the state are stated settings.
+- events/manifestations: inventions, disappointing state news, independent air traffic, and state water traffic are named.
+- conflicts/notes: great and impracticable are alternatives in Witte; the source does not make all ambitious ideas unworkable.
+
+## Contradictions
+
+Witte's invention theme differs from ABC's news and traffic examples. Neither requires a common cause in compromised authority or a failed implementation.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Neptune/Kronos = Mercury`: Great or impracticable ideas. Inventions.
-- Practical focus: mentalizes compromised authority through grand but impracticable ideas, where inventive thinking can be high-reaching yet difficult to implement in workable form.
-- Practical expression: special media expectations, special features of language, exchangeable news from the state, great insecurity of young people, and self sufficient air traffic.
+In Neptune/Kronos = Mercury, Mercury specifies the pair through ideas, language, and information involving public or official settings. The [Witte entry](#witte-entry) gives great or impracticable ideas and inventions; [ABC](#abc-entry) adds sensitivity of language, disappointing state news, and uncertainty among youth or in the state (printed p. 398, PDF p. 198). Air and state water traffic remain concrete examples. The reading retains ambitious thought and uncertain information without making every invention impracticable or attributing its outcome to failed authority.
 
 ## Links
 

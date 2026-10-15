@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Moon/Saturn = Mars`
 - Astronomicon formula: `R/W = U`
 - Axis page: [Moon/Saturn](../axes/moon-saturn.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. `126` (entry start; one-based).
+
 #### Witte Entry
 
 The sickly woman. A woman separated from man. The dead wife. Disharmony. Violence bringing on sadness. The late hours after work. The weakened populace.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. `184`, PDF p. `91` (entry).
+
 #### ABC Entry
 
-Active woman in old age, working in the evening hours, activating tasks of woman, serious creation of a woman, disturbance feeling Impulse, concentrated activity of a woman, problematic women's work, treating pain of woman, and loss activity of a people
+An active woman in old age, work in evening hours, setting a woman's tasks in motion, a woman's serious work, disturbed emotional impulses, a woman's concentrated activity, problematic work by women, treating a woman's pain, and a people's activity involving loss
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. `126`, entry `0378`.
 
 #### Ebertin Entry
 
 Inhibitions or feelings of inferiority, desire to overcome difficulties, lack of determination, self-control to the point of torment, soul conflicts. Illness or separation of women.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `31` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +80,23 @@ The energy and enthusiasm with which you approach and perform your parenting rol
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: action under emotional control, uncertainty, or difficult conditions.
+- psychology: inhibition, self-control, sincere feeling, diplomacy, and soul conflict are named.
+- body/health: Witte and Ebertin retain illness and death associations; ABC names pain treatment, without establishing a clinical outcome.
+- social/relationship: parenting, protecting home or family, separation, and restrictive home life are examples.
+- events/manifestations: evening work, concentrated tasks, and initiative to break restrictive bonds are stated.
+- conflicts/notes: activity may be inhibited or mobilized; the entries do not guarantee toughness or assign bitterness as its cause.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin and Sandbach include inhibited action, while Munkasey includes urgent protective or liberating initiative. These are different expressions of action within emotional constraint, without a rule that restraint always produces endurance.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Saturn = Mars`: tough endurance, disciplined protection, and the ability to keep moving through emotionally harsh conditions. Main caution: pent-up frustration: blocked feeling can turn into bitterness, defensiveness, or harsh reaction.
+In Moon/Saturn = Mars, Mars specifies the pair through action shaped by emotional control or constraint. [Sandbach](#sandbach-entry) includes sincerity and diplomacy but also uncertainty that inhibits action; [Ebertin](#ebertin-entry) retains self-control that can become torment and conflict. [ABC](#abc-entry) gives concentrated work and tasks alongside disturbed impulses (printed p. 184, PDF p. 91).
+
+[Munkasey](#munkasey-entry) adds energy in parenting, home protection, and efforts to escape restrictive home conditions (p. 120). The [Witte entry](#witte-entry) preserves disharmony, separation, late work hours, and historical illness or death associations. The range concerns action under pressure without establishing a personal prognosis or automatic resilience.
 
 ## Links
 

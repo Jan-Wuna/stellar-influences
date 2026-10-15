@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,29 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Mercury Saturn Hades`
 - Astronomicon triad-set: `T W ¢`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Mercury/Hades = Saturn](../activations/mercury-hades-equals-saturn.md)
-- [Mercury/Saturn = Hades](../activations/mercury-saturn-equals-hades.md)
-- [Saturn/Hades = Mercury](../activations/saturn-hades-equals-mercury.md)
+- [Mercury/Hades = Saturn](../activations/mercury-hades-equals-saturn.md): base axis [Mercury/Hades](../axes/mercury-hades.md); activator [Saturn](../factors/saturn.md).
+- [Mercury/Saturn = Hades](../activations/mercury-saturn-equals-hades.md): base axis [Mercury/Saturn](../axes/mercury-saturn.md); activator [Hades](../factors/hades.md).
+- [Saturn/Hades = Mercury](../activations/saturn-hades-equals-mercury.md): base axis [Saturn/Hades](../axes/saturn-hades.md); activator [Mercury](../factors/mercury.md).
 
 ## Source Coverage
 
-- `Mercury/Hades = Saturn`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `167`
-- `Mercury/Hades = Saturn`: Udo Rudolph - ABC for Planetary Pictures, page `257`
-- `Mercury/Saturn = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `162`
-- `Mercury/Saturn = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `247`
-- `Saturn/Hades = Mercury`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `225`
-- `Saturn/Hades = Mercury`: Udo Rudolph - ABC for Planetary Pictures, page `356`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Mercury/Hades = Saturn](../activations/mercury-hades-equals-saturn.md#witte-entry) (PDF entry-start p. 167); [Mercury/Saturn = Hades](../activations/mercury-saturn-equals-hades.md#witte-entry) (PDF entry-start p. 162); [Saturn/Hades = Mercury](../activations/saturn-hades-equals-mercury.md#witte-entry) (PDF entry-start p. 225).
+- Udo Rudolph - ABC for Planetary Pictures: [Mercury/Hades = Saturn](../activations/mercury-hades-equals-saturn.md#abc-entry) (printed p. 257); [Mercury/Saturn = Hades](../activations/mercury-saturn-equals-hades.md#abc-entry) (printed p. 247); [Saturn/Hades = Mercury](../activations/saturn-hades-equals-mercury.md#abc-entry) (printed p. 356).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Saturn`: isolates the axis through exclusion, exploitation, and chronic burden.
-- `Mercury/Saturn = Hades`: Unpleasantness while traveling. Enmity and slander in that connection. Journey into imprisonment. Journey into the past.
+Mercury, Saturn and Hades form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Mercury/Hades](../axes/mercury-hades.md)
+- [Mercury/Saturn](../axes/mercury-saturn.md)
+- [Saturn/Hades](../axes/saturn-hades.md)
 - [Mercury](../factors/mercury.md)
 - [Saturn](../factors/saturn.md)
 - [Hades](../factors/hades.md)

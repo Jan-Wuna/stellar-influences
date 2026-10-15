@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Moon/Mercury = Saturn`
 - Astronomicon formula: `R/T = W`
 - Axis page: [Moon/Mercury](../axes/moon-mercury.md)
@@ -37,23 +39,34 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source heading: `Moon + Mercury`
+- Source reference: PDF p. `122` (entry start; one-based).
+
 #### Witte Entry
 
 Departure of or departure from young girls or women. Unsteady. Travelling. To change the place. To learn slowly, to remember for a long time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Mond + Merkur`
+- Source reference: printed p. `177`, PDF p. `87` (entry).
+
 #### ABC Entry
 
-Movable woman in old age, serious women's language, discussing women's problems, thoughts about the separation from the woman, young woman's feelings, hard language of the people, and problems of the female youth
+Mobile woman in old age, serious women's conversations, discussing women's problems, thoughts about separation from a woman, disturbances of feeling among youth, inhibited young woman, harsh language of the people, and problems of female youth
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Moon/Mercury`
+- Source reference: printed p. `114`, entry `0331`.
 
 #### Ebertin Entry
 
 Difficult and slow thinking, pursuit of gloomy or sad thoughts, desire to solve problems, concentration. Difficult scientific work, separation from the female sex. Taking leave, a journey.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. `26` (entry; one-based).
 
 #### Sandbach Entry
 
@@ -70,22 +83,23 @@ Restraints on your restless emotions; pessimism that creeps into imagination or 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: slow, concentrated, or inhibited thought and emotional communication ([Ebertin](#ebertin-entry), [Sandbach](#sandbach-entry)).
+- psychology: concentration and problem-solving coexist with gloomy thought, caution, and fear of criticism or rejection.
+- body/health: ABC names disturbed feelings among youth; no clinical condition is established.
+- social/relationship: separation and cautious discussion of family matters are explicit.
+- events/manifestations: slow learning with long retention, difficult scientific work, travel, departure, and discussion of problems are named.
+- conflicts/notes: Witte's movement and changing place coexist with slow thought; the entries do not make reliable judgment a guaranteed benefit.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is stated. Witte includes travelling and changing place as well as slow learning and lasting memory; these describe different dimensions. Concentration and inhibited emotional expression also need not occur to the exclusion of each other.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Moon/Mercury = Saturn`: serious intelligence, reliable judgment, and the ability to hold emotion in workable verbal form. Main caution: constriction: pessimism, worry, or inhibition can make thought and speech too burdened or emotionally tight.
+In Moon/Mercury = Saturn, Saturn specifies the Moon/Mercury pair through thought or expression that takes effort, proceeds slowly, or is held back. The [Ebertin entry](#ebertin-entry) links difficult thinking with concentration and the wish to solve problems; [Witte](#witte-entry) pairs slow learning with lasting memory. [Sandbach](#sandbach-entry) locates inhibition in communicating feelings, including fear of criticism or rejection.
+
+The social expressions include departures and separation, serious discussion of problems in the [ABC entry](#abc-entry), and caution or pessimism in family conversation in [Munkasey](#munkasey-entry) (p. 104). The formula supports sustained mental effort as well as restraint; it does not by itself establish reliable judgment.
 
 ## Links
 

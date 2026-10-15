@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Saturn/Zeus = Cupido`
 - Astronomicon formula: `W/£ = ¡`
 - Axis page: [Saturn/Zeus](../axes/saturn-zeus.md)
@@ -36,19 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: `226` (entry start).
+
 Fire losses in the family. To be hindered in one’s activity by clubs, associations, unions or communities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Procreation problems, design of artistic tasks Beginning of dangerous disturbances, burdens caused by criminal movement, mysterious tasks design, grief due to problematic objectives, and disadvantages due to initial
+- Source page: `359`; PDF page: `178`.
+
+Beginning disturbances in a community, fire losses in a community, leadership problems in a community, patient efforts of a community, shared procreation problems, and shaping artistic tasks.
+
+## Comparative Schema
+
+- core meaning: Activity hindered or effortful within a shared organization or community.
+- psychology: Patience is attributed to collective effort; no fuller individual portrait is supplied.
+- body/health: Shared procreation problems are a historical ABC claim, not a diagnosis.
+- social/relationship: Family, clubs, associations, unions and communities are explicit settings.
+- events/manifestations: Leadership difficulties, artistic tasks, community disturbances and fire losses.
+- conflicts/notes: Collective effort remains possible alongside obstruction; the entries do not make shared tasks inherently harmful.
+
+## Contradictions
+
+Both entries describe community-related difficulty; ABC also retains patient shared effort and artistic tasks. These broaden the range without directly disputing the hindrance examples.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Zeus = Cupido`: fire losses in the family, to be hindered in one’s activity by clubs, associations, unions or communities.
-- Practical expression: procreation problems, design of artistic tasks Beginning of dangerous disturbances, burdens caused by criminal movement, mysterious tasks design, and grief due to problematic objectives.
+In `Saturn/Zeus = Cupido`, Cupido specifies directed activity through the group: an association or community can hinder a person's work, while collective leadership and the beginning of shared tasks can themselves meet difficulties ([Witte](#witte-entry), [ABC](#abc-entry)). ABC also retains patient communal effort and shaping artistic tasks. The entries therefore include both impediment and work carried together; their fire-loss and procreation examples remain historical attributions rather than predicted outcomes.
 
 ## Links
 

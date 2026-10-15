@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Uranus Apollon](../triads/sun-uranus-apollon.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Sudden, unexpected honors, dignities and success. Astrological success.
 
@@ -42,13 +46,27 @@ Sudden, unexpected honors, dignities and success. Astrological success.
 
 #### ABC Entry
 
-Dynamic knowledge emulation, successful technical center, success impulses of a man, excited human masses, impulses of successful people, ncues personal knowledge, and personal technical knowledge
+Source locator: printed page 167; PDF page 82 (one-based).
+
+Dynamic renewal of knowledge, a successful technical center, success impulses of a man, excited masses of people, impulses of a successful person, new personal knowledge, and personal technical knowledge.
+
+## Comparative Schema
+
+- core meaning: Sudden success or recognition, with dynamic renewal and technical knowledge.
+- psychology: Impulses of a successful person and collective excitement.
+- body/health: No specific bodily condition is established by these entries.
+- social/relationship: Excited masses of people; no particular bond is specified.
+- events/manifestations: Unexpected honors, a successful technical center and astrological success.
+- conflicts/notes: Witte specifies unexpected recognition; new knowledge or excitement does not alone establish such an event.
+
+## Contradictions And Comparison Notes
+
+Witte emphasizes sudden recognition; ABC adds technical settings and renewed knowledge. Astrological success remains a specific source example rather than a claim about astrology's validity.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Uranus`: sudden, unexpected honors, dignities and success and astrological success.
-- Practical expression: dynamic knowledge emulation, successful technical center, success impulses of a man, excited human masses, and impulses of successful people.
+For `Sun/Apollon = Uranus`, success has an abrupt or dynamically renewed expression. [Witte](#witte-entry) names unexpected honors and success, including success in astrology; [ABC](#abc-entry) adds new or technical knowledge, a successful technical center and impulses involving a successful person or excited crowds. The passages connect recognition with suddenness and renewal, while their technical, collective and astrological examples remain distinct settings.
 
 ## Links
 

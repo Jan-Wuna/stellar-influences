@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Mars`
 - Astronomicon formula: `S/Z = U`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 Strong regeneration capacity. The kind of work decides how the body develops.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Changing a man's work, developing a person's work, personal changeMilitations, personal activity development, corporal development activity, changing a person's activity, and growing caring activity power
+- Source passage: `Sonne + Pluto`; printed p. `156`; one-based PDF page `77` (oriented row checked against the scan).
+
+Change of a man's work, a person's developmental work, personal efforts toward change, unfolding of personal activity, physical developmental activity, change of a person's activity, growing bodily vigor.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Pluto`; printed p. `102`; entry code `0282` (supplied source-map locator; not visually verified).
 
 Desire to perform record achievements, over-exertion or overtaxing one's powers, ruthlessness. Tendency to work to the point of a physical breakdown.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `20` (exact Mars entry checked in actual raw PDF text).
 
 Aggressiveness expressed in an intensely willful manner, which can potentially make it difficult to work with others. An active and relentless focus on objectives. En gaging in power struggles with other people, or a battle of wills.
 
@@ -70,22 +80,21 @@ Energetic sexual urges or other deep and basic needs; arouses your deepest inner
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development is driven through work, energetic change efforts and relentless action.
+- psychology: Intense will, basic desires and a need to succeed can become combative or ruthless.
+- body/health: Witte names regeneration and work-shaped bodily development; Ebertin includes overexertion and physical breakdown as historical possibilities.
+- social/relationship: Battles of will and difficulty working with others accompany determined problem-solving.
+- events/manifestations: Changes of work or activity, physical developmental activity and record-achievement efforts are explicit.
+- conflicts/notes: Regeneration and vigor do not guarantee stamina against overstrain; determined action and coercive struggle remain distinct.
 
 ## Contradictions
 
-- None recorded yet.
+The entries preserve both regenerative capacity and overtaxed powers. They describe different possibilities rather than guaranteeing that intense effort strengthens or breaks the body.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Mars`: exceptional stamina, battle-of-wills energy, and a refusal to back down from demanding tasks or opponents. Main caution: overstrain: ruthlessness, conflict, and the drive for record effort can push the body or the situation toward breakdown.
+In `Sun/Pluto = Mars`, concentrated will becomes work and action: efforts to change conditions, develop activity and solve problems can be relentless. The kind of work is linked with bodily development, while growing vigor and regeneration coexist with Ebertin's warning about overexertion and breakdown. Basic needs and the drive to succeed can also make cooperation difficult or turn objectives into a battle of wills. These constructive and difficult expressions remain distinct source possibilities. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

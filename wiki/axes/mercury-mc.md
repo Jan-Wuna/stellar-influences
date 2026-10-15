@@ -11,6 +11,8 @@ normalized_axis: Mercury/MC
 factor_a: Mercury
 factor_b: MC
 related_activations:
+  - Mercury/MC = MC
+  - Mercury/MC = Mercury
   - Mercury/MC = Admetos
   - Mercury/MC = Apollon
   - Mercury/MC = Asc
@@ -72,13 +74,14 @@ updated_at: 2026-06-20
 - Axis: `Mercury/MC`
 - Astronomicon axis: `T/MC`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/MIDHEAVEN`
-- Source page: `183`
+- Source heading: `MERIDIAN + MERCURY`
+- PDF page: `62`
 
 #### Pair Summary
 
@@ -86,9 +89,15 @@ One’s own observation. One’s own thinking. To meditate. Monologues. Self-tal
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `68`; PDF page: `33` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Description of the soul, soulful thinking, soulful youth, soulful speaking, I think I write, my thoughts, my youth, my opinion, my words, seclen language, psychic movement, and me and the media
+German pair summary (transcribed from printed page `68`; PDF page `33`):
+
+> Beschreibung der Seele, beseeltes Denken, beseelte Jugend, beseeltes Sprechen, ich denke, ich schreibe, meine Gedanken, meine Jugend, meine Meinung, meine Worte, Seelen-Sprache, seelische Bewegung, ich und die Medien
+
+Editorial translation from the German passage: Description of the soul, ensouled thinking, ensouled youth, ensouled speaking, I think, I write, my thoughts, my youth, my opinion, my words, language of the soul, movement of the soul, I and the media.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -172,14 +181,17 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: one's own outlook, self-knowledge, and the use of thought to define a direction in life ([Ebertin](#psychological-correspondence), [Hand](#pair-delineation)).
+- psychology: reflection and independent judgment can clarify aims; overestimation, poor self-criticism, or aimlessness can obstruct them ([Ebertin](#psychological-correspondence)).
+- body/health: Ebertin associates the pair with motor nerve centers; Munkasey lists inherited respiratory and nervous conditions. These are the authors' medical correspondences, not established diagnoses ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: exchanging insights may support mutual growth, while misjudging a partner's intentions or using dishonesty for advancement damages that process ([Munkasey](#in-your-relationships)).
+- events/manifestations: education, credentials, professional communication, and policy planning express the connection between ideas and objectives ([Munkasey](#basic-ideas), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords)).
+- conflicts/notes: Private reflection and public career expression are complementary emphases; the soul language in ABC is literal source vocabulary, not an explained mechanism.
 
 ## Related Activations
+
+- [Mercury/MC = MC](../activations/mercury-mc-equals-mc.md)
+- [Mercury/MC = Mercury](../activations/mercury-mc-equals-mercury.md)
 
 - [Mercury/MC = Admetos](../activations/mercury-mc-equals-admetos.md)
 - [Mercury/MC = Apollon](../activations/mercury-mc-equals-apollon.md)
@@ -205,15 +217,15 @@ Genetic deficiencies or strengths concerning the lungs, breathing, etc.; a famil
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- The entries support self-directed thought and vocational application at different scales; they do not establish that reflection necessarily produces career success.
+- ABC's `Seelen-Sprache` is legible on printed68/PDF33 and is translated here as language of the soul. Its spiritual vocabulary does not supply a physical mechanism.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/MC` is the axis of mental self-direction, reflective purpose, and public or vocational expression through ideas. It combines analysis, communication, learning, and mobility of mind with life direction, self-knowledge, planning, and outward role.
-- Chart expression: thoughtfulness about one's path, strategic planning, intellectual vocation, public messaging, and the need to form an individual point of view rather than merely repeating what others think. Liabilities: aimlessness, excessive self-reference, career drift driven by changing ideas, and a life course shaped more by cleverness or abstraction than grounded direction.
+`Mercury/MC` concerns forming an individual outlook and using it to direct one's life. Reflection, self-talk, and self-knowledge belong to the same theme as planning objectives and giving one's ideas a professional or public form: thought helps define what one is trying to become. Education, credentials, and the ability to revise one's picture of a possible future give this theme a practical expression ([Pair Summary](#pair-summary), [Hand](#pair-delineation), [Munkasey](#basic-ideas)).
+
+The range runs from clear aims and learning through others to aimlessness, exaggerated self-importance, or clever advancement without honest self-appraisal. Relations with colleagues, partners, and authorities can sharpen one's judgment or expose its limitations. Sandbach additionally describes spiritualized thinking and the need to reach one's own understanding despite authoritative opinions; this is a particular account of development, not a promise of public distinction. These are meanings of the pair itself; a third factor requires its own activation entry ([Ebertin](#psychological-correspondence), [Munkasey relationships](#in-your-relationships), [Banzhaf/Haebler](#banzhafhaebler-aspect-keywords), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
 
 ## Links
 

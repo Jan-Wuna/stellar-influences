@@ -29,6 +29,7 @@ updated_at: 2026-05-04
 - Astronomicon formula: `U/V = £`
 - Axis page: [Mars/Jupiter](../axes/mars-jupiter.md)
 - Triad hub: [Mars Jupiter Zeus](../triads/mars-jupiter-zeus.md)
+- [Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 ## Source Entries
 
@@ -42,13 +43,31 @@ Enforced betrothal (morally). To enforce the pay for the activities, for the wor
 
 #### ABC Entry
 
-Effortful legal work, successful procreation work, joy through procreation wills, successful work performance, driving money trading, starting trading with money, creative legal work, creative work pleasure, and advantage through work services
+Strenuous legal work, successful procreative work, joy through the will to procreate, successful work achievement, leading money trading, beginning to trade with money, creative legal work, creative joy in work, and advantage through work achievements.
+
+- Source reference: printed p. 299, PDF p. 148, Zeus row; `führender Geld-Handel` means leading money trading, and `Arbeits-Leistungen` means work achievements.
+
+## Comparative Schema
+
+- core meaning: Purposeful achievement and obtaining payment for work.
+- psychology: Witte connects success with knowing one's abilities and accomplishments; ABC adds creative enjoyment in work.
+- body/health: ABC includes procreative work and will as historical source associations; these do not establish fertility.
+- social/relationship: Witte's morally enforced betrothal is a specific historical social example, not a general model for relationships.
+- events/manifestations: Enforcing pay, creative legal work, work performance and starting money trading are explicit settings.
+- conflicts/notes: Knowing one's ability supports purposeful effort; Witte's coercive commitment and payment examples retain a distinct, less voluntary emphasis.
+
+## Contradictions
+
+Purposeful achievement and enforced obligation are different aspects of the entry. The coercive social example is not generalized into advice or a universal outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Jupiter = Zeus` turns successful action into directed enforcement, purposeful initiative, and results gained through confident use of one's abilities.
-- Chart expression: compelled commitments, insisting on payment or reward for work, and success that comes from knowing what one can do and pressing that capacity toward a chosen end.
+Zeus specifies the Mars/Jupiter axis through demonstrable performance and securing pay for work. [Witte](#witte-entry) ties success to knowledge of one's abilities and accomplishments, while [ABC](#abc-entry) emphasizes creative work, effective performance and the start of money trading.
+
+The enforcement theme should remain visible: Witte includes both demanding pay and a betrothal compelled by moral pressure. These examples qualify a purely enthusiastic reading; ABC's procreative terms remain attributed associations.
+
+Evidence: [ABC](#abc-entry), printed p. 299, PDF p. 148; [Witte](#witte-entry), PDF p. 192 (entry start).
 
 ## Links
 

@@ -11,6 +11,8 @@ normalized_axis: Mercury/Neptune
 factor_a: Mercury
 factor_b: Neptune
 related_activations:
+  - Mercury/Neptune = Mercury
+  - Mercury/Neptune = Neptune
   - Mercury/Neptune = Admetos
   - Mercury/Neptune = Apollon
   - Mercury/Neptune = Asc
@@ -74,13 +76,14 @@ updated_at: 2026-06-20
 - Axis: `Mercury/Neptune`
 - Astronomicon axis: `T/Y`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
+- [Read the interpretation](#derived-synthesis).
 
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `MERCURY/NEPTUNE`
-- Source page: `167`
+- Source heading: `MERCURY + NEPTUNE`
+- PDF page: `164`
 
 #### Pair Summary
 
@@ -88,9 +91,15 @@ Intuition. Fantasy. Imagination. Lack of clarity. Expressing uncertainly, confus
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `250`; PDF page: `124` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-subtle thinking, foreign language, thought weakness, cesprache about metaphysics, air movement, air traffic, unclear thinking, insecure youth, water movement, future of youth, and future language
+German pair summary (transcribed from printed page `250`; PDF page `124`):
+
+> Bewegung im Wasser, feinfühliges Denken, fremde Sprache, Gedanken-Schwäche, Gespräche über Metaphysik, Luft-Bewegung, Luft-Verkehr, unklares Denken, unsichere Jugend, Wasser-Bewegung, Zukunft der Jugend, Zukunfts-Gespräche
+
+Editorial translation from the German passage: Movement in water, sensitive thinking, foreign language, weakness of thought, conversations about metaphysics, movement of air, air traffic, unclear thinking, insecure youth, movement of water, future of youth, conversations about the future.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
@@ -228,14 +237,17 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: imagination and subtle, indirect communication, with a recurring difficulty distinguishing perception from invention ([Ebertin](#psychological-correspondence), [Hand](#pair-delineation)).
+- psychology: sympathetic insight, idealism, and visionary thought range into confusion, faulty judgment, and self-deception ([Ebertin](#psychological-correspondence)).
+- body/health: the historical entries associate sensitivity, nervous weakness, sensory loss, and drug reactions with the pair. These remain attributed correspondences, not clinical conclusions ([Biological Correspondence](#biological-correspondence), [With Body or Mind](#with-body-or-mind)).
+- social/relationship: sensitivity to implication can support inspired exchange, but idealizing a partner or concealing intentions can create misunderstanding ([Munkasey](#in-your-relationships), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
+- events/manifestations: poetry, images, film, symbolic language, advertising, future planning, and movement through air or water occur in the entries ([Falis](#falis-entry), [Munkasey](#basic-ideas), [Pair Summary](#pair-summary)).
+- conflicts/notes: Carter distinguishes aspect families and describes practical subtlety as well as dreaminess. Those conditional claims do not make every midpoint expression deceptive or impractical.
 
 ## Related Activations
+
+- [Mercury/Neptune = Mercury](../activations/mercury-neptune-equals-mercury.md)
+- [Mercury/Neptune = Neptune](../activations/mercury-neptune-equals-neptune.md)
 
 - [Mercury/Neptune = Admetos](../activations/mercury-neptune-equals-admetos.md)
 - [Mercury/Neptune = Apollon](../activations/mercury-neptune-equals-apollon.md)
@@ -261,15 +273,15 @@ Drug reactions which affect the nervous system; weakened lungs; vivid dreaming; 
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Creative sensitivity and unreliable judgment are alternative expressions throughout the entries. Carter's descriptions of harmonious, conjunction, and inharmonious aspects must retain their conditions rather than become unconditional midpoint predictions.
+- ABC's scan distinguishes conversations about metaphysics and conversations about the future; the former damaged English strings have been replaced from the complete bold list.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mercury/Neptune` is the axis of imagination, subtle perception, poetic or symbolic communication, and thought shaped by intuition, atmosphere, and porous boundaries. It combines language and reasoning with dream, image, spirituality, ambiguity, and the ability to imply more than one states directly.
-- Chart expression: inspired language, storytelling, music or image-thinking, sensitivity to subtext, mystical or psychic perception, and the capacity to influence indirectly. Liabilities: confusion, vagueness, misinformation, self-deception, evasiveness, and thought that drifts too far from fact, structure, or clear definition.
+`Mercury/Neptune` describes thought that works through imagination, images, intuition, and implication. It can give language poetic or symbolic depth and make subtle feelings easier to apprehend, yet the same openness leaves room for vague expression, mistaken impressions, and self-deception. Storytelling, film, music, foreign languages, and the ability to convey more than is explicitly said are recurring expressions of this shared theme ([Ebertin](#psychological-correspondence), [Falis](#falis-entry), [Munkasey](#basic-ideas), [Hand](#pair-delineation)).
+
+The pair therefore spans inspired communication and confusion, including the difference between understanding another sensitively and imagining them to fit an ideal. Indirect influence may be practical and strategic, as Carter stresses, rather than merely dreamy; the concise Witte entry also preserves the less psychological association with movement in water or air. Sandbach's clairvoyance and messages from spiritual realms remain his doctrinal extension. None of these entries makes deception, psychic ability, or a medical condition inevitable, and Carter's aspect distinctions do not specify an activation by a third factor ([Munkasey relationships](#in-your-relationships), [Carter](#harmonious-aspects), [Pair Summary](#pair-summary), [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints)).
 
 ## Links
 

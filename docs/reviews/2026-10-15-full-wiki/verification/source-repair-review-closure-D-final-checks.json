@@ -1,0 +1,21 @@
+{
+  "status": "complete",
+  "verified_by": "/root/activation_review_023_044",
+  "retained_originals": 130,
+  "adjacent_extras": 2,
+  "accepted": 132,
+  "held": 0,
+  "pending_retained": 0,
+  "transferred_to_D2": 55,
+  "strict_own_allowances": 113,
+  "all_final_source_page_global_unique_owner_bindings": true,
+  "retained_manifest_exact_coverage": true,
+  "final_rebind_complete": true,
+  "binding_manifest": "docs\\reviews\\2026-10-15-full-wiki\\verification\\source-repair-review-closure-D-audit.json",
+  "binding_count": 132,
+  "allowance_sha256": "a306a3450518cfbcaab7d20e5ddef0982e767bc1613099f112bb97a4a4d80a49",
+  "audit_sha256": "e0311c7f755dd20f3c7dd28376986947f48d674e1d85178ae6c6f6d4e44338bd",
+  "transfer_receipt_sha256": "d85e90896f3f51d3ed9b1189907dce29202c6ddf3647cbd4d17a4b5e91736970",
+  "proof_files_exist_nonempty": 64,
+  "scope": "Retained D1 only. Full132 exact bindings are in the audit whose exact hash is bound here; duplicate132-row copy omitted. All completed raw/full-source/full-record readings reused without repeat. No canonical/ledger/global mutations or reviewcounts."
+}

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Zeus](../axes/venus-zeus.md)
 - Triad hub: [Venus Node Zeus](../triads/venus-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 184 (one-based; scanned row checked).
 
 To join others for harmonious creation. To permit impregnation.
 
@@ -42,13 +46,27 @@ To join others for harmonious creation. To permit impregnation.
 
 #### ABC Entry
 
-Effortful peace connections, encounter with a creative woman, beginning of a love connection, connections to the artificial, connection with a artificial direction, preference for achievements in a connection, and procreation in a love connection
+- Source page: 286; PDF page: 142 (one-based spread).
+
+Demanding peace connections, encounter with a creative woman, beginning of a love connection, connections with art, connection with an artistic direction, preference for achievement in a connection, and procreation in a love connection
+
+## Comparative Schema
+
+- core meaning: Joining others for harmonious creation and shared achievement.
+- psychology: No distinct inner disposition is supplied.
+- body/health: Impregnation and procreation remain historical source associations.
+- social/relationship: Beginning a love connection or meeting a creative woman.
+- events/manifestations: Connections through art and demanding peace efforts.
+- conflicts/notes: The gendered example is specific source language; artistic connections do not mean artificial connections.
+
+## Contradictions
+
+The entries share association and creation without an explicit disagreement. Demanding connections do not establish the absence of harmony.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Zeus = Node`: to join others for harmonious creation.
-- Practical expression: effortful peace connections, encounter with a creative woman, beginning of a love connection, connections to the artificial, and connection with a artificial direction.
+In `Venus/Zeus = Node`, Node specifies the pair through joining others in creation. The [Witte entry](#witte-entry) states harmonious creation with others; the [ABC entry](#abc-entry) adds new love connections, artistic direction, and shared achievement, including demanding peace connections. The organizing theme is productive association, with the reproductive and women-centered examples retained as specific source applications rather than requirements of every connection.
 
 ## Links
 

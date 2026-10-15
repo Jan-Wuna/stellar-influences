@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Uranus/Admetos](../axes/uranus-admetos.md)
 - Triad hub: [Jupiter Uranus Admetos](../triads/jupiter-uranus-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source locator: PDF p. 241.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ Sudden material damages. Losses of valuable things through inattention or throug
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source locator: printed p. 384; PDF p. 191.
+
 #### ABC Entry
 
-Excitement over money blockade, depression over legal event, successful circulatory renewal, profound success of technology, sudden constraint on success, sudden right constraint, Surprising financial event, and suppressed joyful arousal
+Excitement over a money blockage, depression over a legal event, successful renewal of circulation or a cycle, thorough success in technology, sudden restriction of success, sudden restriction of rights, a surprising financial event, suppressed joyful arousal.
+
+## Comparative Schema
+
+Evidence: [Witte](#witte-entry), [ABC](#abc-entry).
+
+- core meaning: Material loss or restriction, with distinct possibilities of technical success and renewal.
+- psychology: Excitement and restlessness over loss; ABC also names depressed or suppressed joyful feelings.
+- body/health: The circulation/cycle renewal phrase and depression wording do not establish a medical condition.
+- social/relationship: Restrictions of rights and a legal event appear in ABC; no intimate relationship is specified.
+- events/manifestations: Loss of valuables, blocked money, technical success and a surprising financial event.
+- conflicts/notes: Witte links losses to inattention or indifference; ABC also preserves success, so failure is not the only claim.
+
+## Contradictions
+
+Witte gives material damage and loss through inattention or indifference. ABC also includes successful renewal and technical success alongside restricted money, rights and success. The entries do not promise financial gain or establish which outcome applies.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Uranus/Admetos = Jupiter`: Sudden material damages. Losses of valuable things through inattention or through indifference. Excitement and restlessness through these losses.
-- Practical expression: excitement over money blockade, depression over legal event, successful circulatory renewal, profound success of technology, and sudden constraint on success.
+In `Uranus/Admetos = Jupiter`, Jupiter specifies interruption or consolidation in material and legal affairs. [Witte](#witte-entry) emphasizes loss of valuables through inattention or indifference and the restlessness that follows. [ABC](#abc-entry) adds blocked money and restricted rights or success, but also retains successful circulation/cycle renewal and technical achievement. The favorable claims remain beside the losses; neither a financial gain nor a loss follows necessarily from the formula.
 
 ## Links
 

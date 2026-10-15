@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Saturn/Admetos = Hades`
 - Astronomicon formula: `W/¦ = ¢`
 - Axis page: [Saturn/Admetos](../axes/saturn-admetos.md)
@@ -42,13 +44,25 @@ Sad destiny, poverty and misery. To get into a grave dilemma through enmity, lac
 
 #### ABC Entry
 
-Discontinuations and restrictions in old age, dangerous problems densification, serious concentration on the past, criminal discrimination in old age, lack of patience and clarity, disadvantages due to circulatory disorders, and need for serious depression
+Deprivations and restrictions in old age, dangerous intensification of problems, thorough concentration on the past, criminal oppression in old age, lack of patience and thoroughness, disadvantages through circulatory disorders, and distress through serious depression
+
+## Comparative Schema
+
+- Core meaning: severe restriction compounded by deprivation or hostility.
+- Psychology: concentration on the past; distress in the source's historical language.
+- Body/health: ABC associates circulatory disorders with disadvantage; no diagnosis follows.
+- Social/relationship: poverty, enmity and hostile action can intensify confinement.
+- Events/manifestations: a grave dilemma or apparent dead end.
+- Conflicts/notes: severe conditions are listed possibilities, not inevitable outcomes.
+
+## Contradictions
+
+The entries intensify the same restrictive theme. Their severe language is a range of historical associations, not an inevitable outcome.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Admetos = Hades`: sad destiny, poverty and misery, to get into a grave dilemma through enmity, lack and hostile actions.
-- Practical expression: discontinuations, restrictions in old age, dangerous problems densification, serious concentration on the past, and criminal discrimination in old age.
+In `Saturn/Admetos = Hades`, Hades specifies the pair as restriction made harder by deprivation, hostility or accumulated problems. The [Witte entry](#witte-entry) describes poverty and a dilemma that appears to offer no exit (PDF p. 229); the [ABC entry](#abc-entry) adds restriction in old age, oppression and concentration on the past (printed p. 365; PDF p. 181). Its lack of patience and thoroughness offers another way problems may become difficult to manage. These are attributed historical possibilities, not a fixed destiny or a medical diagnosis.
 
 ## Links
 

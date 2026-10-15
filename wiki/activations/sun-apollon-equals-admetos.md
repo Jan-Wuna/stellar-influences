@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Sun/Apollon](../axes/sun-apollon.md)
 - Triad hub: [Sun Apollon Admetos](../triads/sun-apollon-admetos.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source locator: printed page 119; PDF page 115 (one-based).
 
 Can or must renounce success, glory and honor. Destined to be unsuccessful.
 
@@ -42,13 +46,27 @@ Can or must renounce success, glory and honor. Destined to be unsuccessful.
 
 #### ABC Entry
 
-Blocked trade center, human depression experiences, constrained success of man, strengthening of personal freedom, grild personal experiences, and deepening personal knowledge
+Source locator: printed page 167; PDF page 82 (one-based).
+
+Blocked trade center, a person's experiences of depression, restricted success of a man, strengthening personal freedom, thorough personal experiences, and deepening personal knowledge.
+
+## Comparative Schema
+
+- core meaning: Restricted or renounced success, alongside deepened experience and knowledge.
+- psychology: Thorough experience and experiences of depression.
+- body/health: ABC's depression language is historical attribution, not a diagnosis.
+- social/relationship: Strengthening personal freedom is explicit; no particular relationship arrangement is established.
+- events/manifestations: A blocked trade center and renunciation of glory or honor.
+- conflicts/notes: Witte's fatalistic wording remains attributed; ABC preserves freedom and knowledge despite restricted success.
+
+## Contradictions And Comparison Notes
+
+Both entries limit outward success. ABC also includes strengthening freedom and deepening knowledge, which do not amount to a promise of the honors Witte says may be renounced.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Apollon = Admetos`: successful in practical work and careful in active work.
-- Practical expression: blocked trade center, human depression experiences, constrained success of man, strengthening of personal freedom, and deepening personal knowledge.
+For `Sun/Apollon = Admetos`, the entries describe limits on outward success and recognition. [Witte](#witte-entry) frames this as renouncing success, glory or honor, using explicitly fatalistic language; [ABC](#abc-entry) gives a blocked trade center and restricted personal success, but also strengthening freedom, thorough experience and deeper knowledge. The formula therefore retains inward or experiential gains alongside external limitation, without adopting Witte's fatalism as a prediction.
 
 ## Links
 

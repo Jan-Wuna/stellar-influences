@@ -33,9 +33,14 @@ updated_at: 2026-05-06
 - Axis page: [Venus/MC](../axes/venus-mc.md)
 - Triad hub: [Venus Neptune MC](../triads/venus-neptune-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Compare the source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Meridian + Venus`
+- Source reference: PDF page `63` (one-based).
 
 #### Witte Entry
 
@@ -43,17 +48,26 @@ Hopeless desire. Love without prospects. Lover’s grief. To renounce love. Sens
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Meridian + Venus`
+- Source reference: printed page `71`; PDF page `34` (one-based).
+
 #### ABC Entry
 
-I love the water, my insecurity in the air, my insecurity in the future, my infirm love, my infirmity in the future, my insecure inner peace, I love the artificial development, I love the changes, and I love to develop within
+Sensitive harmony of the soul, my preference for metaphysics, I am uncertain in love, I love water, my uncertainty in the air, my preference for the future, my future love, and uncertain inner peace.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source heading: `Venus/MC`
+- Source reference: printed page `199`, coded entry `0682`.
 
 #### Ebertin Entry
 
 A peculiar attitude to the problem of love, shyness, unexplainable dislikes or aversions. Renunciation, the state of being unsatisfied and unhappy (in love), suffering of the soul.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source heading: `Planets activating the Venus/Midheaven midpoint`
+- Source reference: PDF page `66` (one-based; exact activation entry).
 
 #### Sandbach Entry
 
@@ -70,22 +84,21 @@ Avoiding commitment in love; enhanced needs for an artificial means of increasin
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Sensitive or idealized affection, uncertain inner peace, and renunciation or disappointment.
+- Psychology: Idealization of authority, shyness, aversion, or self-delusion about love.
+- Body/health: Suffering of the soul is emotional source language; no specific medical claim is supplied.
+- Social/relationship: Love without prospects, avoided commitment, or lack of reciprocal respect.
+- Events/manifestations: Preference for metaphysics, idealistic devotion, and artificial means of increasing beauty in Munkasey.
+- Conflicts/notes: Spiritual idealization and heightened sensitivity remain alongside strongly adverse relational descriptions.
 
 ## Contradictions
 
-- None recorded yet.
+- Spiritual idealization and heightened sensitivity remain alongside strongly adverse relational descriptions.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Venus/MC = Neptune`: artistic calling, charitable visibility, and outer direction opened by imagination or subtle allure. Main caution: diffuse ambition: public identity can drift into fantasy, image projection, or roles that are beautiful but poorly bounded.
+`Venus/MC = Neptune` makes personal affection sensitive or idealized while leaving its prospects uncertain. [Witte](#witte-entry) and [Ebertin](#ebertin-entry) emphasize grief, renunciation, shyness, or dissatisfaction in love. The [ABC entry](#abc-entry) adds delicate inner harmony, metaphysics, and uncertain love or peace. [Sandbach](#sandbach-entry) directs idealization toward authorities or someone to worship. [Munkasey](#munkasey-entry) adds avoided commitment, self-delusion, and failures of reciprocal respect. The ideal can give affection spiritual significance, while the other entries keep disappointed or unfulfilled love in view.
 
 ## Links
 

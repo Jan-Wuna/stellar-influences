@@ -29,18 +29,35 @@ updated_at: 2026-04-21
 - Axis page: [Chiron/Uranus](../axes/chiron-uranus.md)
 - Triad hub: [Sun Chiron Uranus](../triads/sun-chiron-uranus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source locator: PDF page 97 (one-based; exact activator entry checked in raw PDF text).
 
 #### Sandbach Entry
 
 To find meaning and purpose everywhere in life, in strange and surprising places and ways. Life’s meaning is experienced as ever changing and shifting in the way it opens up new and unexpected vistas of meaning.
 
+## Comparative Schema
+
+- core meaning: Meaning and purpose found in unexpected and changing forms.
+- psychology: Openness to new vistas of meaning.
+- body/health: No specific bodily condition or health claim is supplied.
+- social/relationship: No specific interpersonal or public setting is supplied.
+- events/manifestations: Finding significance in strange or surprising places and ways.
+- conflicts/notes: The entry concerns meaning, without separately defining identity or a search for novelty.
+
+## Contradictions
+
+Shifting meaning and continuing purpose are joined in the single account.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Chiron/Uranus = Sun`: awakened purpose, living meaning, and identity shaped by surprise and discovery. Main caution: chasing novelty as meaning instead of discerning what is actually revelatory.
+Sun specifies Chiron/Uranus through finding purpose and meaning in strange or surprising places and ways. The [Sandbach entry](#sandbach-entry) presents meaning as something that keeps opening into new, unexpected perspectives. The emphasis is the changing way significance is experienced, without a separate claim that identity depends on novelty.
 
 ## Links
 

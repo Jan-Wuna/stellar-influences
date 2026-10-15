@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Pluto Apollon`
 - Astronomicon triad-set: `VP Z ¥`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md)
-- [Vernal Point/Apollon = Pluto](../activations/vernal-point-apollon-equals-pluto.md)
-- [Vernal Point/Pluto = Apollon](../activations/vernal-point-pluto-equals-apollon.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Pluto/Apollon](../axes/pluto-apollon.md) | Vernal Point | [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md) |
+| [Vernal Point/Apollon](../axes/vernal-point-apollon.md) | Pluto | [Vernal Point/Apollon = Pluto](../activations/vernal-point-apollon-equals-pluto.md) |
+| [Vernal Point/Pluto](../axes/vernal-point-pluto.md) | Apollon | [Vernal Point/Pluto = Apollon](../activations/vernal-point-pluto-equals-apollon.md) |
 
 ## Source Coverage
 
-- `Pluto/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `261`
-- `Pluto/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `416`
-- `Vernal Point/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `52`
-- `Vernal Point/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, page `53`
-- `Vernal Point/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `47`
-- `Vernal Point/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, page `43`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Pluto/Apollon = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `261`
+- `Pluto/Apollon = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `416`
+- `Vernal Point/Apollon = Pluto`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `52`
+- `Vernal Point/Apollon = Pluto`: Udo Rudolph - ABC for Planetary Pictures, printed page `53`
+- `Vernal Point/Pluto = Apollon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `47`
+- `Vernal Point/Pluto = Apollon`: Udo Rudolph - ABC for Planetary Pictures, printed page `43`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Pluto/Apollon = Vernal Point`: This activation emphasizes a general transformation or change which starts from small beginnings; A changed attitude towards people in general; To set a precedent; Test case.
-- `Vernal Point/Apollon = Pluto`: This formula emphasizes r Comprehensive transformations, development of commerce and science, and changes.
-- `Vernal Point/Pluto = Apollon`: This formula emphasizes peaceful development, growth in science, commerce and industry, and changes or developments in the field of religion.
+The set links [Pluto/Apollon = Vernal Point](../activations/pluto-apollon-equals-vernal-point.md), [Vernal Point/Apollon = Pluto](../activations/vernal-point-apollon-equals-pluto.md), and [Vernal Point/Pluto = Apollon](../activations/vernal-point-pluto-equals-apollon.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 

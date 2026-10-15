@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Node/Zeus](../axes/node-zeus.md)
 - Triad hub: [Sun Node Zeus](../triads/sun-node-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 151 (one-based; exact row checked).
 
 To be a producer or procreator. Coming into personal contact with fire. To be commissioned with or to carry out a special task. To be a member of an outfit that blows things up with dynamite.
 
@@ -42,13 +46,27 @@ To be a producer or procreator. Coming into personal contact with fire. To be co
 
 #### ABC Entry
 
-Animating relationship with man, creative encounters among men, relationships through personal achievements, connections of a man with fire, and determined personal connections
+- Source page: 228 (printed); PDF page: 113 (one-based; exact row checked).
+
+A strenuous relationship with a man, creative encounters among men, relationships through personal achievements, connection to people in leadership, a man's connections with fire, goal-directed personal connections.
+
+## Comparative Schema
+
+- core meaning: personal participation in production, a special task or creative contact.
+- psychology: directed personal effort is named without a full psychological profile.
+- body/health: Witte names procreation; this remains source doctrine without a fertility or medical prediction.
+- social/relationship: creative encounters, relationships through achievement and contacts with leadership figures; ABC retains historical male-specific wording.
+- events/manifestations: producing, being commissioned for a special task, contact with fire and participation in a blasting outfit.
+- conflicts/notes: The reproductive, creative and fire-related expressions are alternative source possibilities, not one compulsory event.
+
+## Contradictions
+
+The reproductive, creative and fire-related expressions are alternative source possibilities, not one compulsory event.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Zeus = Sun`: To be a producer or procreator. Coming into personal contact with fire. To be commissioned with or to carry out a special task. To be a member of an outfit that blows things up with dynamite.
-- Practical focus: to be a producer or procreator; also coming into personal contact with fire.
+Sun specifies `Node/Zeus` through direct personal participation in producing or carrying out a task. The [Witte entry](#witte-entry) names the producer or procreator, a special commission and concrete contact with fire; the [ABC entry](#abc-entry) adds creative encounters, personal achievements and contacts with leadership figures. The unusually specific blasting-outfit example remains Witte's industrial possibility. Its productive, reproductive and fire-related settings are distinct, and ABC's male-specific wording remains historically attributed.
 
 ## Links
 

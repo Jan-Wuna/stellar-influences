@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Venus/Jupiter](../axes/venus-jupiter.md)
 - Triad hub: [Vernal Point Venus Jupiter](../triads/vernal-point-venus-jupiter.md)
 
+- [Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,23 @@ Love’s happiness. Luck and joy in the general public. Gorgeous celebrations. J
 
 successful beautifications in public life, success of peace in public, harmony through public law, public artistic successes, preference for public funds, and advantage in public life through beauty
 
+## Comparative Schema
+
+- core meaning: Love's happiness and joy in public life ([Witte](#witte-entry)).
+- psychology: Enjoyment is named; neither entry develops an individual psychological mechanism.
+- body/health: Neither entry describes a bodily or health manifestation.
+- social/relationship: Public celebrations and shared civic harmony ([Witte](#witte-entry); [ABC](#abc-entry)).
+- events/manifestations: Celebrations, jewelry, public beautification, and artistic success ([Witte](#witte-entry); [ABC](#abc-entry)).
+- conflicts/notes: ABC's public-law and public-funds themes are additional applications, not claims made by Witte.
+
+## Contradictions
+
+The two entries emphasize compatible public settings; their brevity does not establish complete agreement or independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Jupiter = Vernal Point`: love’s happiness.
-- Practical expression: successful beautifications in public life, success of peace in public, harmony through public law, public artistic successes, and preference for public funds.
+Vernal Point specifies Venus/Jupiter through happiness and beauty in public life. Private enjoyment takes a visible, shared form in celebrations, jewelry, public beautification, or artistic success. [Witte](#witte-entry) supplies the celebrations and adornment; the [ABC entry](#abc-entry) adds public peace, law, funds, and advantage through beauty. These are the settings named by the entries, without a promise that public recognition will occur.
 
 ## Links
 

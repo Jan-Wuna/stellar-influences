@@ -1,0 +1,220 @@
+{
+  "checked": [
+    {
+      "path": "wiki/activations/saturn-hades-equals-admetos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Admetos"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-apollon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Apollon"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-asc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Asc"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-cupido.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Cupido"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-jupiter.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Jupiter"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-kronos.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Kronos"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-mars.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Mars"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-mc.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = MC"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-mercury.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Mercury"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-moon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Moon"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-neptune.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Neptune"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-node.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Node"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-pluto.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Pluto"
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-poseidon.md",
+      "errors": [],
+      "metadata_unchanged": true,
+      "formula": "Saturn/Hades = Poseidon"
+    }
+  ],
+  "source_repairs": [
+    {
+      "path": "wiki/activations/saturn-hades-equals-admetos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Perseverance and patience in need, depression risk after separation, limitations and severe deprivations, augmentation of past problems, dangerous problems compaction, poor endurance and concentration, and deepening into hidden problems",
+      "new_text": "Endurance and patience in need, danger of depression after separation, restrictions and severe deprivations, investigating past problems, dangerous concentration of problems, deficient endurance and concentration, deepening hidden problems.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-asc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 356
+      },
+      "old_text": "Past problems, dangerous disturbances of a place, severe deprivation of others, grief and pain of the partner, poor concentration of the partner, disadvantage by separation from the partner, and hidden environmental problems",
+      "new_text": "Partner problems from the past, dangerous disturbances of a place, severe deprivations for others, grief and pain of the partner, deficient concentration of the partner, disadvantages through separation from the partner, hidden environmental problems.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-cupido.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Community, common problems of the past, distress of a burdened community, lack of firsthand skills, lack of concentration of a community, pain in common distress, and hidden losses of a community",
+      "new_text": "Dangerous tasks of a community, shared problems from the past, grief within a burdened community, lack of serious art, deficient concentration within a community, pain in shared distress, hidden losses of a community.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-kronos.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Deficiency of authoritat in old age, special tasks from the past, deprivation by the hard of the state, dangerous losses of the state, disadvantages due to loss of authoritat, state losses due to criminality, and hidden problems of the state",
+      "new_text": "Lack of authority in old age, special tasks from the past, deprivation through the harshness of the state, dangerous losses of the state, disadvantages through loss of authority, state losses through crime, hidden problems of the state.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-mars.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 356
+      },
+      "old_text": "Patient work in secret, working on secret tasks, hazardous work tasks, disadvantages due to loss of work, hidden work problems, losses due to work crime, abandonment of hard work, and separation from dirty work",
+      "new_text": "Patient work in concealment, working on secret tasks, dangerous work tasks, disadvantages through loss of work, hidden work problems, losses through work-related crime, renunciation of hard work, separation from dirty work.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-mc.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 356
+      },
+      "old_text": "my tasks from the past, my hard hardships, my secret problems, my manghaft concentration, my disadvantages through separation, my hidden pains, my soul--summers and pains, and mental distress in old age",
+      "new_text": "My tasks from the past, my severe deprivations, my secret problems, my deficient concentration, my disadvantages through separation, my hidden pain, inner grief and pain, inner need in old age.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-neptune.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Dissolving past problems, pollution from dirt water, dangerous problems in the air, severe deprivation in the water, concentration on secrets of metaphysics, grief and pain by the weak, and hidden losses in the water",
+      "new_text": "Dissolution of past problems, burdening through dirty water, dangerous problems in the air, severe deprivations in water, concentration on secrets of metaphysics, grief and pain through weakness, hidden losses in water.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-node.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 356
+      },
+      "old_text": "Addressing dangerous problems, distanced connection to the past, severe deprivations in one connection, grief due to loss of a connection, poor concentration in encounters, and loss of criminal connections",
+      "new_text": "Encountering dangerous problems, a disturbed connection to the past, severe deprivations within a connection, grief through loss of a connection, deficient concentration in encounters, losses through criminal connections.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-pluto.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Developments from problems of the past, development of grief and pain, difficult concentration development, adverse alteration by separation, Rcifc development by abandonment, and growing hard and deprivation",
+      "new_text": "Developments from past problems, development of grief and pain, difficulty developing concentration, adverse change through separation, development of maturity through renunciation, growing harshness and deprivations, growing danger of loss.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    },
+    {
+      "path": "wiki/activations/saturn-hades-equals-poseidon.md",
+      "source_slug": "udo-rudolph-abc-fur-planetenbilder",
+      "source_file": "Stellar Influences Vault/Udo-Rudolph_ABC-fur-Planetenbilder.pdf",
+      "locator": {
+        "pdf_page": 177,
+        "printed_page": 357
+      },
+      "old_text": "Dangerous mental disturbances, mental deficiency in old age, cultural losses from the past, grief due to loss of courage, problems caused by dangerous ideas, poor concentration on truth, and loss due to mental deficiency",
+      "new_text": "Dangerous intellectual or spiritual disturbances, intellectual or spiritual deficiency in old age, cultural losses from the past, grief through loss of reason, problems through dangerous ideas, deficient concentration on truth, losses through intellectual or spiritual deficiency.",
+      "proof_image": "docs/reviews/2026-10-15-full-wiki/verification/a063-066-abc-p177.png",
+      "inspection": "Visually read complete exact German glyph row; Node through criminal connections, Pluto renunciation and omitted loss-risk clause, Poseidon Vernunft reason explicitly checked."
+    }
+  ]
+}

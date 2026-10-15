@@ -24,6 +24,8 @@ updated_at: 2026-04-21
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Moon = Chiron`
 - Astronomicon formula: `S/R = Chiron`
 - Axis page: [Sun/Moon](../axes/sun-moon.md)
@@ -35,12 +37,27 @@ updated_at: 2026-04-21
 
 #### Sandbach Entry
 
+Source locator: PDF page 7, Chiron entry under Sun/Moon.
+
 One has the ability to bring new aliveness to other people, and to revitalize whatever one comes in contact with. Healing by bringing to light the contents of the subconscious.
+
+## Comparative Schema
+
+- Core meaning: Revitalizing other people and whatever one contacts.
+- Psychology: Bringing subconscious contents into awareness.
+- Body/health: Sandbach describes healing through disclosure of subconscious contents; no condition or treatment is specified.
+- Social/relationship: Bringing renewed aliveness to others.
+- Events/manifestations: Encounters that revitalize; making hidden inner contents visible.
+- Conflicts/notes: One brief source entry supports this orientation; it does not establish a general identity-growth narrative.
+
+## Contradictions
+
+Only Sandbach supplies an entry here, so no cross-source disagreement can be assessed.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Moon = Chiron`: emotional and personal growth through deeper meaning and discovering what truly matters beyond surface identity.
+In `Sun/Moon = Chiron`, Chiron specifies the Sun/Moon pair through the capacity to bring renewed aliveness to others and to whatever one encounters. Bringing subconscious contents to light supplies the entry's concrete account of renewal: something previously hidden becomes available to awareness. [Sandbach's entry](#sandbach-entry) calls this healing, without specifying a medical condition, treatment or guaranteed result.
 
 ## Links
 

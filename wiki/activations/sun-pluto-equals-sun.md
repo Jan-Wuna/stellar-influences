@@ -23,6 +23,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Sun`
 - Astronomicon formula: `S/Z = S`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -41,22 +43,21 @@ Increasing intensity and obsession with controlling all facets of your life and 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: The repeated Sun entry intensifies the urge to control one's life and others' lives.
+- psychology: Obsession and determination can extend to destructive means.
+- body/health: No bodily or medical condition is stated.
+- social/relationship: Controlling other people's lives is explicit, without a specified relationship type.
+- events/manifestations: Attempts to secure control through destructive methods are the passage's stated manifestation.
+- conflicts/notes: Munkasey's qualification whatever the justification preserves severity; no diagnosis or inevitable conduct follows.
 
 ## Contradictions
 
-- None recorded yet.
+One source is represented. This repeated-Sun passage must remain distinct from the repeated-Pluto entry that relinquishes ruthlessness.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Sun`: Increasing intensity and obsession with controlling all facets of one's life and the lives of others; determination to use destructive means to achieve such control (whatever one's justification or means for such action).
+In `Sun/Pluto = Sun`, Munkasey's repeated Sun directs increasing intensity toward control over one's own life and the lives of others. The entry explicitly includes determination to use destructive means, whatever justification is offered. That severe description remains the scope of this particular With Itself passage, without becoming a diagnosis or a verdict about a person's actions. ([Munkasey, p. 90](#munkasey-entry).)
 
 ## Links
 

@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Asc/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `97`
 
 #### Pair Summary
 
@@ -76,9 +80,20 @@ Others are superior. To experience force from others. Powerful, strong or forcef
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed pages: `134–135`; PDF page: `66`.
+
 #### ABC Pair Summary
 
-Energic of the partner, Cewalt in the place, Cewalt against the environment, power, place of power, partner influence, space energy, and strong partner
+Partner's energy, force or violence at the place, force or violence from others, force or violence against the environment, others' power, place of power, place of strength, partner's influence, spatial energy, and strong partner.
+
+## Comparative Schema
+
+- Core meaning: Strength, power, and force are encountered in nearby people or surroundings in the [Pair Summary](#pair-summary) and the intelligible [ABC Pair Summary](#abc-pair-summary).
+- Psychology: Strong personalities and a partner's influence are described; the entries leave the response to those influences unspecified.
+- Body/health: Natural or biological influences are named in the [Pair Summary](#pair-summary), but no medical mechanism or diagnosis is supplied.
+- Social/relationship: Powerful people nearby, force experienced from others, and a strong partner are explicit. Violence is one source-described possibility, not a necessary quality of every relation.
+- Events/manifestations: Places of power, spatial energy, and surroundings occupied by great energies extend the theme beyond personal encounters.
+- Conflicts/notes: Strength and violence are related but distinct source terms; German "Gewalt" can carry force or violence. Witte's "forcefill" remains a spelling artifact in the English source, without adding a separate claim.
 
 ## Related Activations
 
@@ -103,11 +118,14 @@ Energic of the partner, Cewalt in the place, Cewalt against the environment, pow
 - [Asc/Vulcanus = Vernal Point](../activations/asc-vulcanus-equals-vernal-point.md)
 - [Asc/Vulcanus = Zeus](../activations/asc-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+The summaries share a field of powerful people and surroundings, without specifying that all power is violent. Natural or biological influences are an additional Witte emphasis.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Asc/Vulcanus`: a near field filled with strong personalities, dominating influences, violent or forceful reactions, and surroundings charged with unusual energy or biological and natural force.
-- Chart expression: contact with powerful people, environments where strength and pressure are unmistakable, and a life shaped by questions of resistance, endurance, coercion, and force-bearing influence in the immediate world. Liabilities: intimidation, aggression, oppression, overstimulation, and a near field that becomes too harsh or power-saturated for ease.
+`Asc/Vulcanus` concerns power that is encountered close at hand. Strong personalities, force experienced from others, and powerful natural or biological surroundings in the [Pair Summary](#pair-summary) connect with a strong partner, partner influence, and places of power in the intelligible [ABC wording](#abc-pair-summary). This is a field in which another person's strength or the energy of a place matters directly. The [Pair Summary](#pair-summary) explicitly includes violent action, but the broader power theme does not make violence inevitable or establish how the person encountering it responds.
 
 ## Links
 

@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/Node](../axes/mars-node.md)
 - Triad hub: [Mars Node Apollon](../triads/mars-node-apollon.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Node + Mars,” PDF p. 143.
 
 Scientific work project. Working together with many, or in industry and commerce.
 
@@ -42,13 +46,27 @@ Scientific work project. Working together with many, or in industry and commerce
 
 #### ABC Entry
 
-Expansion of relationships by force of action, successful collaborations in one connection, creating trade contacts, effective trade connections, establishing links with science, and vie! connections at work
+Source: “Mondknoten + Mars,” printed p. 213 (PDF p. 105).
+
+Expansion of relationships through energy for action, successful efforts in a connection, creating trade contacts, energetic commercial connections, establishing connections with science, and many connections at work.
+
+## Comparative Schema
+
+- core meaning: Broadening practical cooperation through science, industry, and trade.
+- psychology: Energetic efforts to establish useful connections.
+- body/health: No bodily or medical effect is given.
+- social/relationship: Working with many and building scientific or commercial contacts.
+- events/manifestations: Scientific projects, industrial collaboration, and trade connections.
+- conflicts/notes: The related source tradition shares broad collaboration; science and commerce are named settings rather than guaranteed achievements.
+
+## Contradictions
+
+No direct conflict appears: both entries connect practical collaboration with science or commerce, with ABC emphasizing efforts to expand connections.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Node = Apollon` widens coordinated effort into science, industry, commerce, and large-scale collaboration.
-- Chart expression: scientific projects, work with many people, and active participation in industrial or commercial enterprises that require broad cooperation.
+In `Mars/Node = Apollon`, Apollon specifies shared action through a wider network of cooperation. Scientific projects, industry, and commerce provide concrete settings in Witte, while ABC describes energetic trade contacts, scientific connections, and many connections at work. Successful effort belongs to its range, but the broader theme is practical collaboration with many people rather than a guaranteed commercial result. ([Witte](#witte-entry), PDF p. 143; [ABC](#abc-entry), printed p. 213 / PDF p. 105)
 
 ## Links
 

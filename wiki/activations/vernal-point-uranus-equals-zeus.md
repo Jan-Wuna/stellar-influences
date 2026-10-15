@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Uranus](../axes/vernal-point-uranus.md)
 - Triad hub: [Vernal Point Uranus Zeus](../triads/vernal-point-uranus-zeus.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 45 (one-based).
 
 Thunderstorms. Danger by fire. Explosions.
 
@@ -42,13 +46,29 @@ Thunderstorms. Danger by fire. Explosions.
 
 #### ABC Entry
 
-Dynamic objectives in public, public reforrn services, sudden fire in public, reform efforts in public life, tensions in public leadership, and technical services in public
+- Source page: 39; PDF page: 18 (one-based spread).
+
+Dynamic objectives in public, public reform achievements, sudden fire in public, reform efforts in public life, tensions in public leadership, and technical achievements in public.
+
+## Comparative Schema
+
+- core meaning: Forceful public reform and sudden fire events.
+- psychology: Dynamic goals and effort.
+- body/health: No distinct medical claim; fire danger is an event association.
+- social/relationship: Tension within public leadership.
+- events/manifestations: Reform achievements, technical achievements, thunderstorms, fires and explosions.
+- conflicts/notes: Leadership effort and destructive fire are distinct branches.
+
+## Contradictions
+
+Both include sudden fire. ABC additionally gives directed reform and technical achievement, while Witte concentrates on storms and explosive danger.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Uranus = Zeus`: thunderstorms, danger by fire, and explosions.
-- Practical expression: dynamic objectives in public, public reforrn services, sudden fire in public, reform efforts in public life, and tensions in public leadership.
+`Vernal Point/Uranus = Zeus` connects dynamic public goals with reform effort and technical achievement. ABC places tension in public leadership within that directed activity. ([ABC](#abc-entry))
+
+A separate, more hazardous branch is shared in sudden public fire: Witte names thunderstorms, danger by fire and explosions. These examples should retain their source attribution rather than converting every reform effort into a destructive event. ([ABC](#abc-entry), [Witte](#witte-entry))
 
 ## Links
 

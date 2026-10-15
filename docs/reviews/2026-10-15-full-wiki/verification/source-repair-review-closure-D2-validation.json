@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "scope_count": 55,
+  "accepted": 55,
+  "held": 0,
+  "pending": 0,
+  "allowance_count": 54,
+  "unchanged_source_audit_only": [
+    "wiki/activations/vernal-point-mercury-equals-admetos.md"
+  ],
+  "classification_counts": {
+    "repaired": 35,
+    "stale_flag_cleared_with_proof": 17,
+    "genuine_source_limit_confirmed_with_proof": 3
+  },
+  "unique_owner_checks": 55,
+  "complete_batch_source_and_record_checks": 55,
+  "verified_proof_files": 33,
+  "personally_inspected_scan_files": 23,
+  "bank_sha256": "a86103be9157374281f1ce52916a4fd222631863a0b4b7c9b558707c7d45b57f",
+  "audit_sha256": "d7a408c9107db2144e7a28eb496b0bb2d35ee17d221194bc53a0b1e8afb028c0",
+  "decisions_sha256": "650e33b59b527b703a6f84f30e1b3ff4bd4f74d8dd82ae7c0da34ea6d22bd34e",
+  "final_snapshot_sha256": "c243cf66d6bc7b37a767f3fe013556cf12fa530a6cb98ad9aba4561807ba529f",
+  "errors": []
+}

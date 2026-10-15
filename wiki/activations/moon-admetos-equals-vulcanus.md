@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Admetos](../axes/moon-admetos.md)
 - Triad hub: [Moon Admetos Vulcanus](../triads/moon-admetos-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 135 (entry start); source heading: `Moon + Admetos`.
 
 #### Witte Entry
 
@@ -40,15 +44,33 @@ Violent effort to relieve crowded conditions. To rise up against the disfavor of
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 203; one-based PDF p. 100 (entry); source heading: `Mond + Admetos`.
+
 #### ABC Entry
 
-enduring violence in the people, restriction of the influence of women, blocked power of a people, influence by the depth of the chair, violent suppression of a woman, power strengthening of a woman, energy of a depressed woman, and strong depression of a woman
+German passage (transcribed from PDF page `100`, printed page `203`):
+
+> Andauernde Gewalt im Volk, Beschränkung des Einflusses der Frau, blockierte Macht eines Volkes, Einfluß durch Gefühls-Tiefe, gewaltsame Unterdrückung einer Frau, Macht-Festigung einer Frau, Energie einer depressiven Frau, starke Depressionen einer Frau
+
+Editorial translation from the German passage: Continuing violence among the people; restriction of a woman's influence; blocked power of a people; influence through depth of feeling; violent suppression of a woman; consolidation of a woman's power; energy of a depressed woman; severe depression of a woman.
+
+## Comparative Schema
+
+- core meaning: Forceful effort or suppression acts on restricted conditions.
+- psychology: ABC includes influence through depth of feeling as well as energy in depression.
+- body/health: ABC's depression wording remains a historical association, not a diagnosis.
+- social/relationship: A people's blocked power and suppression of a woman are source examples.
+- events/manifestations: Trying to relieve crowded conditions is Witte's concrete manifestation.
+- conflicts/notes: Resisting restriction and imposing it are opposite roles in the source range, not one moral description.
+
+## Contradictions
+
+Resisting restriction and imposing it are opposite roles in the source range, not one moral description.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Admetos = Vulcanus`: Violent effort to relieve crowded conditions. To rise up against the disfavor of fate.
-- Practical expression: enduring violence in the people, restriction of the influence of women, blocked power of a people, influence by the depth of the chair, and violent suppression of a woman.
+In `Moon/Admetos = Vulcanus`, Vulcanus specifies the axis through strong effort against constricted conditions. [Witte](#witte-entry) describes trying to relieve crowding and rise against adverse fate; [ABC](#abc-entry) also lists blocked public power and violent suppression. Force used to resist restriction and force used to impose it are different roles, neither guaranteeing liberation.
 
 ## Links
 

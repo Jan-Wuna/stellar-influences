@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Chiron Neptune](../triads/sun-chiron-neptune.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 Subtle insights into the purpose of life, which are very often far different from what they appear to be on the surface. One’s idealism is fulfilled as one lets go of the limitations imposed by one’s ego. Intuitive knowledge of how to heal the ego.
 
+## Comparative Schema
+
+- core meaning: Subtle insight into purpose beyond appearances.
+- psychology: Idealism and intuitive recognition of ego limitations.
+- body/health: Healing concerns the ego; no bodily treatment is established.
+- social/relationship: No specific relationship event is given.
+- events/manifestations: Reconsidering apparent meanings as intuitive insight develops.
+- conflicts/notes: The spiritual-healing account is Sandbach's and is not medical evidence.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Neptune`: dissolving superficial ego meanings and opening to deeper spiritual purpose through intuition and surrender.
+Neptune specifies the Sun/Chiron axis through subtle insight and a loosening of ego-imposed limits. The [Sandbach entry](#sandbach-entry) contrasts the purpose perceived intuitively with surface appearances, and connects fulfilled idealism with releasing those limits. Its healing language concerns the ego and the recognition of meaning, rather than a stated physical cure.
 
 ## Links
 

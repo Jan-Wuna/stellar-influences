@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [Node/Cupido](../axes/node-cupido.md)
 - Triad hub: [Mercury Node Cupido](../triads/mercury-node-cupido.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -42,13 +44,27 @@ A marriage proposal. A letter of invitation.
 
 #### ABC Entry
 
-Joint youth connections, common transport connection, language about common relationship, media contacts to the artist, communicating people's opinions, news connections for cinema community, and connection to a youth community
+- Source passage: `Mondknoten + Cupido`; printed p. `224`; one-based PDF page `111` (complete oriented row checked against the raw scan).
+
+Shared youth connections, shared transport link, conversations about a shared relationship, media contacts with art, conveying the people's opinions, news links for a community, connection to a youth community.
+
+## Comparative Schema
+
+- core meaning: Communication or contact that brings people into a shared association.
+- psychology: Discussion and exchange of opinions; no broader psychological trait is stated.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Invitations, marriage proposals, and youth connections.
+- events/manifestations: Letters of invitation, shared transport links, media and community communications.
+- conflicts/notes: ABC's news links are for a community, with art and public opinion named separately. The row does not identify a cinema community or film-industry setting.
+
+## Contradictions
+
+Witte's personal invitations and ABC's wider communications are different scales of contact. No direct contradiction is evident.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Cupido = Mercury`: A marriage proposal. A letter of invitation.
-- Practical focus: a marriage proposal; also a letter of invitation.
+Mercury specifies Node/Cupido through communicating or arranging a connection. A marriage proposal and a letter of invitation in the [Witte entry](#witte-entry) show words bringing people together; the [ABC entry](#abc-entry) extends this to discussion, youth contacts, shared transport, and the communication of public opinions. News links for a community remain another example of this shared communication.
 
 ## Links
 

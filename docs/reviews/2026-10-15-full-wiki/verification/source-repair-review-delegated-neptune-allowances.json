@@ -1,0 +1,922 @@
+[
+  {
+    "path": "wiki/activations/neptune-admetos-equals-apollon.md",
+    "before_sha256": "f9852211e44620dc41bd6260f248246c7f0d6050a837e9de383fcc0e1477c0be",
+    "after_sha256": "9190f508c5a546a73198bb27b8bde077ea46f4e736ca12e32a593fd5d9787bcc",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=apollon glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Expansion of circulatory weakness, experiences in deep water, a succes' and ending 'ng in knowledge of the future, and increasing deepening in metaphysics'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-asc.md",
+    "before_sha256": "3b742ea393a737ba3f6ee09a78e16ae3a73fe39c073aa299f0f58b30b8e31681",
+    "after_sha256": "0861da1db6f612acad68b9994688ffb54fa25d11bcdd932ada9a66a7b5bfe574",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=asc glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-cupido.md",
+    "before_sha256": "6e9b3ec118a61c2bc242f26e8e32ddcc17239b745f6e47283525608699bcafd9",
+    "after_sha256": "eea6a0f78369cffc00dd2eb459762f11894ba1be98727ffd2b1f2d4b78dbf59f",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=cupido glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Persistent shared weakness, a community blocked by water, joint dissol' and ending \"of a community, and a community's deepening involvement in metaphysics\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-hades.md",
+    "before_sha256": "2c20ee15460ec98a2ef3b2a90fba5b64926caef0f652d4ac7b6878ef9426913c",
+    "after_sha256": "59f94f15616c07e3907583e99ceffb8aa3f57e45351e789095948d8c2b39ecbf",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=hades glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a dangerous blockade, disappointment and restriction an' and ending 'ption, creeping hidden depression, and hidden deepening in metaphysics'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-jupiter.md",
+    "before_sha256": "cc3b2812e203dabcfdb6e7b6832fd8af4bb87101e6c335f4cc21ab5b219711fd",
+    "after_sha256": "5f119fc070b5b08026888e64fe319a0186e2304908c422f7c91bcedb2aa74a07",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=jupiter glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a financial blockade, restricted joy in water, success ' and ending 'Täuschung), and advantage through deepening involvement in metaphysics'. Literal Finanz-Schwäche festigen remains adverse and explicitly qualified; no inferred financial strengthening.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-kronos.md",
+    "before_sha256": "36142012f36db5bf7a4835c2508757c483eed474c148e3447f1bb34fd35bfc41",
+    "after_sha256": "bfad0c1bca5a1fc676eba1289bd373733945740d61738d8e50feaffb4a3bf911",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=kronos glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a large blockade, special circulatory weakness, blocked' and ending ' independent deepening in metaphysics, and important fluid circulation'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-mars.md",
+    "before_sha256": "fa8dfd9dab10a301b522d7eaf728d106ae6cf69f961830614a96c4fc7e16452b",
+    "after_sha256": "11dda9210b66d401bf4e69f89511f7b611c4720d3e4667ceda92837f24c3a087",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=mars glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Actions to dissolve blockades, work in deep water, work on water circu' and ending 'ory weakness, and resistance to Fremd-Arbeit (outside or foreign work)'. Fremd-Arbeit remains contextually unexplained; final interpretation read and makes no specific labor/political inference.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-mc.md",
+    "before_sha256": "2fd53a3f8a670a00a57579f01a210fadba2a36b687ac51bd2aa99953e56afdd6",
+    "after_sha256": "6bd95e2edaa3cc0fc6e4bf80474995520d913e7bd68481fde2bbaf4e4532b68e",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=mc glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'I consolidate formless things, I free myself from depression, I conden' and ending 'volvement in metaphysics, and insecurity through emotional suppression'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-mercury.md",
+    "before_sha256": "ae1fb1c13ce8b73e9dc0437f85d8c68d98d5b503964721d590323901bcc1f283",
+    "after_sha256": "52f0c28e73c53de7e34862161b0261551b54419df46f562d854a6ad5cd6c9390",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=mercury glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of traffic blockades, movement in deep water, blocked wate' and ending \"ng depression, and young people's deepening involvement in metaphysics\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-moon.md",
+    "before_sha256": "302027f7c31eb9e268c693093a24495ef875f9f858264c6318a3a3e0c2b0898f",
+    "after_sha256": "2cab24f44f36c0c941551ec39eb4a4c076fa3c4e81247da999c8f4b50ef910f7",
+    "ledger": "activations-049.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=moon glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"A disappointed woman's depression, restriction of water for a people, \" and ending 'ase of an emotional blockade, and deepening and refinement of feelings'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-node.md",
+    "before_sha256": "60d0ffefb41f832b1839cc30a50c716d5d29b6a2df029205151af980d66cbe07",
+    "after_sha256": "a1e093203ab224d7f3c02a4da7116799b8c7fabd7f151b1697d119180fd91a09",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=node glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of blocked connections, a relationship to deep water, disa' and ending 'ugh deception in a connection, and creeping oppression in a connection'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-pluto.md",
+    "before_sha256": "36cb849b3f7408a3a24fc47abaaa0ad9cefb6596783c7dc21c5fa15018918a46",
+    "after_sha256": "517b7cdc7ccf34eddf8e0117c880edd0732489ff4cb5d5dcfd8da8e3f48895d6",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=pluto glyph row and new locator match; removed only the alternate Pluto glyph imported as leading E/P; the following complete prose matches. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'End of an uncertain development, thorough transformation through metap' and ending ' restrictions and disappointments, and growing immersion in the future'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-poseidon.md",
+    "before_sha256": "1ade6315e6108f04528f02e47e5a7588ddd67999fadecfb8d1a484bb2b56663f",
+    "after_sha256": "79ee0c48c977820866c0c206db457adf74ba14f72171dfd3933790829536aca3",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=poseidon glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a mental or spiritual blockade, perseverance in clear a' and ending 'r, spiritual deepening in metaphysics, and deepening in future culture'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-saturn.md",
+    "before_sha256": "8741904284776b930ba53a1ad58063186937073297c98695fe5478b3490c3e0f",
+    "after_sha256": "e6f7cf1ea8bd14e1ab9d5b69e121de8a0822bd5f17f465638e75efa2850ba675",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=saturn glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Perseverance in deep water, blockade problems through water, disturbed' and ending ' of liquid, problematic circulatory weakness, and losses in deep water'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-sun.md",
+    "before_sha256": "de47f4361f817606741f1480a50c27012d41d8fb4c679756e544eb2371dd98a7",
+    "after_sha256": "f9e6a0cc6dd126fd4030587e8929a8e4cac58182c3a98aa4be5b15a65f66b706",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=sun glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"Dissolution of a personal blockade, a blocked air center, a person's f\" and ending 'pression, weak bodily resistance, and stabilization of bodily weakness'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-uranus.md",
+    "before_sha256": "90187d62bdb581458e821a3b90dc10fb3553f6953dcbeebaa12de757fffc3be8",
+    "after_sha256": "22424670b5f4717876448466069712c5972cb0507af3cf2df3eda201d4d191b1",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=uranus glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Agitation and disappointment over restrictions, dynamic deepening in m' and ending 'kade, creeping unrest through depression, and a technical air blockade'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-venus.md",
+    "before_sha256": "25172d212f5c38683ac614570aa54a541c317a3e4cf24b3b08892994e98875fa",
+    "after_sha256": "7918481dbfd7b0bbffb0fcb79ae62790cde69d22d048a681b5cef1d51851f38d",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=venus glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Enduring joy in water, dissolution of a blockade through love, consoli' and ending 'epening of a preference for metaphysics, and preference for deep water'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-vernal-point.md",
+    "before_sha256": "8fb38c04bfa1a45762e486a1139d0cf450a2383769af5a2a7438a56121a743b5",
+    "after_sha256": "78d570fe3993043685ae3674805db19531c2677ce9d1fab5d04bcc78cbe13776",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=vernal-point glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of congestion in public, public life blocked by water, res' and ending ', circulatory weakness in public, and water circulation in public life'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-vulcanus.md",
+    "before_sha256": "2bfc55ba308499667f8e1517e454a4fcc5f43521f8120445fedcd49e278b44c1",
+    "after_sha256": "2cefd8ea879398d3dd1749adf6626f6cc5216a423fee8f6a68eda964eaa63dae",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=vulcanus glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a power blockade, depression through weakness of power,' and ending ' of a blockade, dammed water energy, and thorough restriction of power'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-admetos-equals-zeus.md",
+    "before_sha256": "9052f3bd2e8ea630ce039e0cd8eae65b79be59e239d11b0e593ab62fc9ac8154",
+    "after_sha256": "2732f398afbc2e92f5796618b814f296a5b0f4d0dda1f174070dbfd4c868b74e",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF252: exact neptune/admetos=zeus glyph row and new locator match; prose unchanged. ABC PDF200: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Strenuous dissolution of depression, dissolution of a fire blockade, b' and ending ', creative deepening in metaphysics, and accomplishments in deep water'. Independent finding resolved by owner: Feuer-Wasser retained as compound with unknown referent, excluded from confident synthesis; full final page and updated050 record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf252.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf200.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-admetos.md",
+    "before_sha256": "3dcb550e38faa77e5f5637b462122b9992721631357bdb14714dbad081b53671",
+    "after_sha256": "63fd07f05c315f29ed71ec59ee1da8a32d7fd711d0716ad070bf9128f5a3d44f",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=admetos glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Successful deepening in metaphysics, dammed quantities of water, thoro' and ending 'ncertainty and depression, and resistance to the spread of metaphysics'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-asc.md",
+    "before_sha256": "b5761631f1b923af06a29e0ba9dc3e285176fb084cbf155e662be240fe888d15",
+    "after_sha256": "edd51387825dc08cefd8fa9906d4909dc54f3e6710257950b705557c6faf555b",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=asc glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Others pretend to have knowledge, spread of uncertainty at the place, ' and ending ', uncertain freedom at the place, and quantities of water at the place'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-cupido.md",
+    "before_sha256": "1574babae0165a6f63f2aa6e7779247c83f6aa2cca544b9bd0944da4359913d2",
+    "after_sha256": "ad842ba37caf8919dcea27fe615f366dc1f45e4fa7f230ecb0a347ce6c257b99",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=cupido glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Spread of uncertainty in a community, successful dissolution of a comm' and ending \"'s metaphysical experiences, and a community's knowledge of the future\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-hades.md",
+    "before_sha256": "3b3cd572960c0c17595b681c951bdc00c0bae39311e31d1e31b1fe331de1f4f3",
+    "after_sha256": "5221aa048c551b72ee10c7e7587d8c2afe9781869f5272a6a3e10236c4974f84",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=hades glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-jupiter.md",
+    "before_sha256": "556cb1ce69a850d3f0ae8e3fa6a4283a6d8f4b42bd365bb1872e2ab0d932a178",
+    "after_sha256": "95edf11031593cde2b82708d9866b714fad26bffc23b757aa2d9963c9c19f513",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=jupiter glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Disappointing financial activity, success through metaphysical knowled' and ending 'age through knowledge of the future, and increasing financial weakness'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-kronos.md",
+    "before_sha256": "0d92f0f47bd5c5e052239cad675f6aad6c001d479d42b49575e6bd16d18a9079",
+    "after_sha256": "ffaae9345d4fb7644333cfe89f252a6fe62606b8233687e10ad905df35a4ba20",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=kronos glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Spread of great uncertainty, authority through metaphysical knowledge,' and ending 'xtensive weakness of leadership, and pretence of independent knowledge'. Subtle hierarchy remains literal and unexplained; final interpretation read and supplies no institutional system.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-mars.md",
+    "before_sha256": "dc0720a920088dc8a9d7676c31aecc52cd6bc0ac697ce9c867eb388519bd2174",
+    "after_sha256": "e3235bb09bbd145bad7b31de4baf585db71c3c023a2eee1df3b30ae7f86040d6",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=mars glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Spread of uncertainty at work, success through intuitive impulses, suc' and ending 'taphysical knowledge, extensive breathing work, and much work in water'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-mc.md",
+    "before_sha256": "33068cae5665eea6bdd322376dcbe955fc872674099afb744da8ab19156fca28",
+    "after_sha256": "d87f234fbec29a116c3c557782f824dd091bdbc3ec4d459c36c89b4ae9c24f71",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=mc glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'I spread metaphysics, my metaphysical knowledge, my knowledge of the f' and ending 'edge, increasing my uncertainty, and increasing refinement of the soul'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-mercury.md",
+    "before_sha256": "cde19d7e7a3f637350304dfc7776d63b9b32b3cad3495692b14335fccb497c76",
+    "after_sha256": "989c0dcef74aec78c3399d6d4c9243e2741d3ddbadf31004bdfbc1c25e4da02b",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=mercury glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Spread of traffic uncertainty, reports on water management, disappoint' and ending 'ment, unclear dissemination of knowledge, and increasing water traffic'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-moon.md",
+    "before_sha256": "510ed7c89e8c42644410d02fe389ea05d6b54fe71015b4f17399f0d930cc41b5",
+    "after_sha256": "2dfa9781fb6c403a6e7cf72ac8da95e0e98435db469e7ae8d858dce6de666794",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=moon glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"Spread of uncertainty among a people, a woman's intuitive experiences,\" and ending \" of metaphysics among a people, and a people's knowledge of the future\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-node.md",
+    "before_sha256": "ebfaea8c4fe8607f3a7f0f203083d0e05fce091ea9c07c251e3d0bbf0dbbc006",
+    "after_sha256": "19f47fcfc1a5dd7a439268dddb660a583d168a6c3c27c5c444625647772873ad",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=node glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Encounter with quantities of water, successful connection through intu' and ending 'tion to metaphysical knowledge, and knowledge about future connections'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-pluto.md",
+    "before_sha256": "541ccdd16bc1dab4606a577df4f5f23df0b917eac587a5e8a8135bf2aee6f21b",
+    "after_sha256": "ed8cac740cd9f8f51505e9526b6d9d5d8a29dfbb0d2689332eaa86943bdb8507",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=pluto glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Development of metaphysical knowledge, successful air development, cha' and ending 'nowledge of the future, and experiences of knowledge through intuition'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-poseidon.md",
+    "before_sha256": "4716413acccf40d74d0d93d6a2a90a1e8951f71b6f72833ca41a1bba214b6155",
+    "after_sha256": "39d1baa639f7c011a0a874f8ec964c72ee4ba63318bbe08183159d7783fc17b3",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=poseidon glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-saturn.md",
+    "before_sha256": "1cc220c51fff705dab56f624dfcd0d0e4afea526aafba790e3428a32e7db8486",
+    "after_sha256": "cf63cfa4b5099b855a223e3b773c28cb5e1a36880a2f8930c68d333479fe18de",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=saturn glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-sun.md",
+    "before_sha256": "efefcb9496116e641863ad9574becb8f35f73ff8587551bf25d4418e65a96e7b",
+    "after_sha256": "4cd6afbb52750554f7283f94c3c84a92b02d252b784b1ae99006042072d94f31",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=sun glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Successful personal intuition, human deception concerning knowledge, m' and ending 'knowledge, uncertain personal freedom, and center for future knowledge'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-uranus.md",
+    "before_sha256": "38661510f94803739e9112f763cd525a0a78332face49789672ff43cb12a3d56",
+    "after_sha256": "eacb50bdef1873710d309ab9f3661dc626f2f8f566f2fe4a3a575bd2f6bf9915",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=uranus glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dynamic spread of metaphysics, successful intuitional impulses, new me' and ending 'tain freedom, unrest through much water, and pretence of new knowledge'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-venus.md",
+    "before_sha256": "1040fad0663566e9dc00e6c937b5cb6391781f4f42fce7e97f16fa3ff8d15b28",
+    "after_sha256": "b4c1044f12309979c34e99043f1f639406b38f939e5008f23d60110c6f15bad2",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=venus glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Disappointing love experiences, joy over freedom in water, harmony thr' and ending 'ce for metaphysical experiences, and increasing disappointment in love'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-vernal-point.md",
+    "before_sha256": "9519ec3854af59adfd75f5dcc8db5dce7138afe02f8f428e47da5f0cf956c08a",
+    "after_sha256": "48a92dadf32b975a5f54e1ca746fb0d2cc16f3becb5b8512a1c3f7796d315196",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=vernal-point glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Spread of uncertainty in public, successful intuitions in public life,' and ending ' management, much uncertainty in public, and masses of water in public'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-vulcanus.md",
+    "before_sha256": "448a8eb9baf55ae2a7a20e0a1a9db835563a5bb5903d040d9ea36e759c25ee5f",
+    "after_sha256": "8ed60d9445fcb57ca44093b512c59aaa388732ce75c9c9d213afab670a2bd7a2",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=vulcanus glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-apollon-equals-zeus.md",
+    "before_sha256": "4d951ef7260523e047570658912a65f3f5f577e89de9ac14e76327e44a120119",
+    "after_sha256": "459e8d42061422131bec26e7c422ceb48c7296e8d6476f68a31fba3a5ec0d89c",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF251: exact neptune/apollon=zeus glyph row and new locator match; prose unchanged. ABC PDF199: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Effortful metaphysical experiences, beginning of an uncertain freedom,' and ending ' determined dissemination of metaphysics, and shaping future knowledge'. Feuer-Wasser remains literal and unexplained, excluded from confident synthesis; final schema/synthesis read.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf251.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf199.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-admetos.md",
+    "before_sha256": "5778ff2fbc67f349250192785c09bb6c3bfd3352caf276d2c62959492a2ab8fe",
+    "after_sha256": "5c23db1eb55dc8f88ecfe122f7c5a447191810bce7d6dea74610f40055988c73",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=admetos glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Depressions of a disappointed partner, limitations in a foreign place,' and ending 'eepening into a subtle environment, and water blockade at the location'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-apollon.md",
+    "before_sha256": "ed14983a212d2d0228f8a2a74fe4e66be2f3002fdfacb73f4a1f4a89e0cd469e",
+    "after_sha256": "35344086d6e6e2755c12ad320ecab340a4a4cae502231b853cda70164d5499dc",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=apollon glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Extension of the subtle environment, experiences in a foreign place, s' and ending 'ater, much water nearby, and increasing sensitivity of the environment'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-asc.md",
+    "before_sha256": "2fa91d9a0341753671ebc9c8e4287da46c433ca354329085e5f8e5d674ec7f7a",
+    "after_sha256": "23521d5d4553a15517052e8776e01a9618473ce7e806cd7096ff8b3ae099e323",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Munkasey unchanged exact activation row and typed printed338 locator verified in actual PDF339; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf339.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-chiron.md",
+    "before_sha256": "1d859442e400feb87144305cb4e903c92e5be09479df6777a25118d6c59fee56",
+    "after_sha256": "4f1db5860e5a8a0a2c6a0165c79b60eed9f6702cca7b4054dda1a316b39c9cdc",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-cupido.md",
+    "before_sha256": "fca12e5604f05d1ecaa4e4261fbb1cbd232d3c35518e00062e448ae2ce1ec2da",
+    "after_sha256": "f4fc2839552413df5cb1913e987a88a4e624791a64928dcf21fd8c7593348617",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=cupido glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a shared environment, disappointed partner-community, s' and ending 'e water, weak local community, and uncertain partner for the community'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-hades.md",
+    "before_sha256": "7eacefad2f7cd52c2e5302fc0e5718c01a1647f54c9bfcf51b612d5b2d5fd640",
+    "after_sha256": "1ab09c03793991914032b1ce37a8ad1e5eb615bdebdfb973ac6c3a42a3c3d966",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=hades glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Disappointment and sorrow through the partner. Sensitivity of the part' and ending ' disadvantages in a foreign place, and dirty water in the surroundings'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-jupiter.md",
+    "before_sha256": "4c33c6e60b6602aa43f31d038d6f8d5274497963619860758cbe9659284700c9",
+    "after_sha256": "08875d9fd80e524e8c6c971a12409f9c1a006ae53e244c6ed66ee28fbee6f17b",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=jupiter glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Partner disappointed by the law, success of the partner through sensit' and ending 'er person, uncertain place for money, and uncertain legal surroundings'. Ebertin unchanged entry1028 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-kronos.md",
+    "before_sha256": "e238a157f24aaa038aa160e80a4e5e796b3d5d8face764aa212d1f96b1050771",
+    "after_sha256": "1b9d7ced58d7b2b85fb32826806c8dd3a25fee07c1767fb57d5d5488f9f94859",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=kronos glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"Weakness of the partner's authority, particularly sensitive partner, d\" and ending \"the partner, superior foreign partner, and denial of others' authority\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-mars.md",
+    "before_sha256": "775557a266cc48ead96fb6fe8ea69aaef24b1300cbd2608fe49cc9f88556ad74",
+    "after_sha256": "9d65a12bdebac5c561ada844aa4c9df910014dd5cc76c008e6a8aeecb503cfca",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=mars glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Activities with others in water, work with a sensitive partner, effort' and ending 'tner, activity in a foreign place, and activity with others in the air'. Ebertin unchanged entry1027 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-mc.md",
+    "before_sha256": "83ef5ef110a55e8e017314f8541d81f96881f13cca370332d2f76595ee0e3c38",
+    "after_sha256": "1291a11c4a4b3343ef99959cf9dc7cc5492736eba95cde4e4cb40c651efc3f7c",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=mc glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'I deceive the partner, my intuitive sense for the partner, my partner ' and ending 'environment, refinement of my environment, and water is my environment'. Ebertin unchanged entry1033 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-mercury.md",
+    "before_sha256": "7179d0b39114931429af93597545c978c92b94037754fcf80c3bbbae475277d9",
+    "after_sha256": "d0f56558affde8f42e98b1431168c94c1732824340efafc492fceb52b181f8d6",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=mercury glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Sensitive thoughts of the partner, conversations of a disappointed par' and ending 'y of youth in the environment, and water movements in the surroundings'. Ebertin unchanged entry1025 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-moon.md",
+    "before_sha256": "2909378e38cb640b336e17f3f3944af00fcffafc3f5f4a95ea5583742de729a7",
+    "after_sha256": "184095865e0014aa2ee74d78d660e064a035b869cf2acc98885c13048b8f6a3e",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=moon glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Disappointed female partner, expectations of another woman, sensitive ' and ending 'ecure woman at the location, and water as the surroundings of a people'. Ebertin unchanged entry1024 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf112.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-neptune.md",
+    "before_sha256": "714fa41840ef424828ed2a621e5ce2725758225cfc401df890ab3f9c2422fd00",
+    "after_sha256": "b32fb8403780f0a1f6cd3fb0c1a09de31098af26b295088e7f901a8056342feb",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Munkasey unchanged exact activation row and typed printed338 locator verified in actual PDF339; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf339.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-node.md",
+    "before_sha256": "ed671d2c1896971d326a266c919eae9b5a0c082d3a45fd7d3e2435d8ddac433a",
+    "after_sha256": "acbd1b9bb61e37e757a3d6e6d7e33b95dcdd98b13f20b4240c4bbe19a68644f2",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=node glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Encounters in uncertain surroundings, connected to a place by water, s' and ending 'inted partner, weak partner bond, and connections with others in water'. Ebertin unchanged entry1032 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-pluto.md",
+    "before_sha256": "e432ed3c96321108107faea4b69dd168d7c011a4db691581dffe1fffe2294477",
+    "after_sha256": "07207095eed4b95c2842a5568aafb2345f61a12496be56e9e17959d1c49fde87",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=pluto glyph row and new locator match; removed only the alternate Pluto glyph imported as leading E/P; the following complete prose matches. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a partner-development, disappointing partner-developmen' and ending 'rowing uncertainty in the surroundings, and growing place by the water'. Ebertin unchanged entry1031 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points. Independent finding resolved by owner: schleichende Veränderungen translated gradual changes, not bad changes; raw_confirmation corrected and full final page/updated050 record reread.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-poseidon.md",
+    "before_sha256": "81188413b0f9000b7daa8dbd60772afe5ff63ca5a907515d7e76a181a38bbeb1",
+    "after_sha256": "9a8ee34b2e09fd48941b41d1cb5b5893d8cb395677d271b00c2acc1dc5ba2cf5",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=poseidon glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"Disappointment about the partner's truth, understanding of a subtle en\" and ending ' sensitivity of the partner, and refinement of the surrounding culture'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-saturn.md",
+    "before_sha256": "045892ed1f747653a962fdc0ef63a0f72c56f65c88a6feb2955d73fab972b516",
+    "after_sha256": "4e26bc4eafa9c682bf092ac2a91453518231ecd2b935a9e5d5e3d48e1058e82f",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=saturn glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Sensitivity of a patient partner, local problems with water, problemat' and ending ', separation from the place by water, and water damage at the location'. Ebertin unchanged entry1029 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-sun.md",
+    "before_sha256": "3e223aa06799090b4c92c9a3a015c9bfbdd74dc3846c6d7fd8b167321add0936",
+    "after_sha256": "83eb06d6c60f799ee6b616cde9b4c1a12b6d2058a9f6c1c377ba0163026e8902",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=sun glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Other people in the air, sensitive person in the surroundings, disappo' and ending 'ironment, weak person as partner, and water in the center of the place'. Ebertin unchanged entry1023 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf112.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-uranus.md",
+    "before_sha256": "26f5e07617ed02014f8248c71ac8954ec718c3555f5e2a6453ce56efee14d544",
+    "after_sha256": "8b3a1f90d34fcd21afe3bff408feb360ba99f8ff0444e1d4d11bb6422e70f011",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=uranus glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Unsettling sensitivity of the partner, excited sensitive partner, impu' and ending 'ncertainty in the surroundings, and surprising weakness of the partner'. Ebertin unchanged entry1030 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf290.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-venus.md",
+    "before_sha256": "2f02a115456219b47be347b8089e5fbc360f91a32c9561cc0a1aa573290dc400",
+    "after_sha256": "b3dede846b2b1ac3fe5e9522dd76d8ab9e5a7cbb67df6bbde2c34dbaa430af81",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=venus glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning \"Disappointed love partner, harmony through the partner's sensitivity, \" and ending 'ference for a subtle environment, and preferring water as surroundings'. Ebertin unchanged entry1026 and printed287/288 locator match the actual code/glyph and complete paragraph;1030 crosses the scanned pages. Sandbach unchanged activation paragraph and exact PDF entry range verified after the Neptune/Ascendant header on112, before Neptune/Midheaven on113; preceding Node/Neptune material excluded. Munkasey unchanged exact activation row and typed printed336 locator verified in actual PDF337; With Itself rows kept distinct from Planets and Points.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-ebertin-pdf289.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-sandbach-pdf113.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-munkasey-pdf337.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-vernal-point.md",
+    "before_sha256": "3af999eb0927d586517e575dd399377a45dfcf48c71f48a31eaecefa5ec0f209",
+    "after_sha256": "c19af3cff7c6057a5831e3443de6b4779843b18a9f241c44d03c36cae8f5df5a",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=vernal-point glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; prose unchanged with a verified new locator.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-vulcanus.md",
+    "before_sha256": "5a5698ab193adb1eb2a851d59ec855f8245221e15baff4b502d11609b598affa",
+    "after_sha256": "16450cf1d5dbba2d27000399733256089cb37cebc08fe4a0b3d7af70031c4fc9",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=vulcanus glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Energy weakness of the partner, powerful subtle environment, strong we' and ending 'orce of water in the surroundings, and wind energy in the surroundings'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-asc-equals-zeus.md",
+    "before_sha256": "c04142364663e0e45c8404af4c432e224060d7814e301719f6ffa57530439078",
+    "after_sha256": "f716cabd063cba77f32f66c413c4e9f5e8032273a11bf16e3f3ab3ba7ee107ee",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF89: exact neptune/asc=zeus glyph row and new locator match; prose unchanged. ABC PDF58: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Efforts in a subtle environment, beginning dissolutions in the surroun' and ending ', weak environmental efforts, and environmental efforts for the future'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf89.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf58.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-admetos.md",
+    "before_sha256": "f9cde74c5339deeb6277d97cf972fa11917379aebd2264fa342d1a4c4ec0c6b5",
+    "after_sha256": "7fcc1fa578684ef8e2d7b04e871fb479595eb6dde5bbe8db99acd7901a3c8bdb",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=admetos glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolving shared depressions, restrictions on a community in the air,' and ending 'of a community through blockade, and oppression of a foreign community'. Thorough metaphysical community remains literal and unexplained, excluded from confident synthesis; final schema/synthesis read.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-apollon.md",
+    "before_sha256": "7702497696d09cfbdca2ee0370647ff4d922151c76d40c35e922d49413679369",
+    "after_sha256": "e9736933d1e6aac656f5316b0b25b21f308f8d1386385136b1a259c26136f559",
+    "ledger": "activations-050.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=apollon glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a successful community, shared knowledge of the future,' and ending 'tainty in a successful community, and a community pretending knowledge'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-asc.md",
+    "before_sha256": "ba46f6e9bb4922601b4a87c2b9c652adb4a84ca7875788acb26f6f5da7e59dbd",
+    "after_sha256": "22138e284750245cc83e9ce2cb7361f469136096d6dcd8d6c0c08b1bd3838f61",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=asc glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a community at the location, sensitive partner-communit' and ending 'y, uncertain partner-community, and rejection of community with others'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-hades.md",
+    "before_sha256": "34c7bc5cbb9caab88d1558cb3ed8277fd879bf60d78f62294f341fc4cdb002fc",
+    "after_sha256": "da157169256803c786882d5c6a87e6b13245bb9e80e744300ccc4fda87dc0848",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=hades glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a dangerous community, shared weaknesses from the past,' and ending 'munity, and uncertainty through art-related crime (Kunst-Kriminalität)'. Kunst-Kriminalität remains art-related crime with no inferred offense or legal setting; final schema/synthesis read.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-jupiter.md",
+    "before_sha256": "c2bf5c3f9c10c9147e4208137a6befbbdba4af341a0a715ed91e46e1cc3065f2",
+    "after_sha256": "1ef1fa6061cca6321d50eeba4244931fc26e800578458c4c5748edbd0f466a9d",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=jupiter glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a financial community, successful sensitivity of a comm' and ending 'he air, legal uncertainty of a community, and weak financial community'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-kronos.md",
+    "before_sha256": "9952973a164c21301f7f2add4c8adbc95d8b600ec7a118f12cd8a2f9b7359384",
+    "after_sha256": "41b1dfa82ddbe49f8f881a0d1c1b9e39994fe5c34bfb7e7fd900faf49f3d20d7",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=kronos glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a state community, special art in water, shared directi' and ending ' uncertain state community, and refined self-confidence in a community'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-mars.md",
+    "before_sha256": "073b86aa165ef6350c5db65367c27b64dfb6b12dbaed50c9d9a5924b68b6399b",
+    "after_sha256": "96bed311e27c4cdb98fb114b87dc6475ba206a5a99eec7463863de2a8d68ebc2",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=mars glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Work community in water, refusal of work by a community, dissolution o' and ending 's involving water, weak work community, and uncertainty in shared work'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-mc.md",
+    "before_sha256": "b6cccecfed09a99d9f39ad99bd2a8cac77b0f722045dd38705620155f47188e5",
+    "after_sha256": "9aac99d716dd14a5cac12e6e06e3370d1b4669840402f27316e5e7f444f5d1ac",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=mc glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of my community, sensitivity of a soul-community, I am dis' and ending ', my subtle community, my art in water, and my future in the community'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-mercury.md",
+    "before_sha256": "2875121f72a1a666ce59fbc85dec26a6471978ed193c2536fa0eaaa83e9077ae",
+    "after_sha256": "e03345a8581dd726b53d63b1309de831a3529ed7ac32ce2f12639e25f9a13e41",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=mercury glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a youth community, foreign art reports, tourism communi' and ending 'er, talking about a shared future, and uncertain community among youth'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-moon.md",
+    "before_sha256": "629cfaa158fdc4bc332d142c9670c84a5c5f43809ce8ffda0b2b9bc1ed7a655a",
+    "after_sha256": "7924fe47e299416f8486d015e8f64c3afc167ae0c1a6c5b8d937ba464c61c353",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=moon glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Sensitivity in a community of women, community of women in the air, co' and ending \"community, weak women in a community, and uncertain people's community\".",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  },
+  {
+    "path": "wiki/activations/neptune-cupido-equals-node.md",
+    "before_sha256": "a8fcf9647b9f62555a4390e62376d22923dbeea3c568ddf92e4b80a8b81895f9",
+    "after_sha256": "4e95dc7b2f461ec1e0cac8fff4bab4a734423b853cd9a20ce750ac3527651ebe",
+    "ledger": "activations-051.jsonl",
+    "reason": "Read complete current/original Source Entries and owning ledger record/provenance; personally viewed each applicable actual raw source paragraph and adjacent orientation boundaries. Witte PDF247: exact neptune/cupido=node glyph row and new locator match; prose unchanged. ABC PDF195: claimed printed folio and full own-glyph row verified clause by clause; complete translated repair matches the German row, beginning 'Dissolution of a shared connection, disappointing art connections, con' and ending 'connections to the community, and uncertain connections to a community'.",
+    "evidence": [
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-witte-pdf247.png",
+      "docs/reviews/2026-10-15-full-wiki/verification/source-repair-review-neptune-abc-pdf195.png"
+    ],
+    "verified_by": "/root/factor_source_repairs"
+  }
+]

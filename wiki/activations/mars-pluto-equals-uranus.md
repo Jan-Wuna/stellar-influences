@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Mars/Pluto](../axes/mars-pluto.md)
 - Triad hub: [Mars Uranus Pluto](../triads/mars-uranus-pluto.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “Mars + Pluto,” PDF p. 196.
 
 To improvise. Plans, which surprisingly put into action.
 
@@ -45,11 +49,15 @@ To improvise. Plans, which surprisingly put into action.
 
 #### ABC Entry
 
-Developing work technique, sudden change will, technical development activity, restlessness through work change, altered work rhythm, growing work reforms, changing rhythmic impulses, and unfolding will impulses
+Source: “Mars + Pluto,” printed p. 307 (PDF p. 152).
+
+Developing work technique, a sudden will to change, technical development activity, restlessness through work change, altered work rhythm, growing work reforms, changing rhythmic impulses, and unfolding impulses of will.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+Source: “Mars/Pluto,” printed p. 214 (PDF p. 216), entry 0741.
 
 Cruelty, violence, brutality. Sudden disasters or calamities of great consequence.
 
@@ -57,7 +65,9 @@ Cruelty, violence, brutality. Sudden disasters or calamities of great consequenc
 
 #### Sandbach Entry
 
-To work extremely hard at experimenting, or at something which is very unique and original. To be very aggressive about obtaining and maintaining one’s indepen dence.
+Source: “Planets activating the Mars/Pluto midpoint,” PDF p. 74.
+
+To work extremely hard at experimenting, or at something which is very unique and original. To be very aggressive about obtaining and maintaining one’s independence.
 
 ### Michael Munkasey - Midpoints: Unleashing the Power of the Planets
 
@@ -70,22 +80,21 @@ Use of whatever power or means you have available to reform, disrupt, stir-up or
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Sudden change, improvisation, technical development, or disruptive reform.
+- psychology: Restlessness, experimental drive, and aggressive pursuit of independence.
+- body/health: Ebertin names violence and disasters without a specific medical condition.
+- social/relationship: Strong assertion of independence and use of power to alter conditions.
+- events/manifestations: Unexpected implementation of plans, work reforms, technical research, and changing work rhythms.
+- conflicts/notes: Original research and improvisation remain distinct from Ebertin's brutality and calamity examples; one is not established as causing the other.
 
 ## Contradictions
 
-- None recorded yet.
+Ebertin emphasizes severe harm, while Witte's improvisation, ABC's technical development, and the later research or experimental examples retain a broader range of change.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Mars/Pluto = Uranus`: experimental breakthrough, radical assertion of freedom, and hard work thrown behind disruptive change. Main caution: catastrophic intensity: force joined to shock can produce violence, calamity, or action taken too fast and too hard to contain.
+In `Mars/Pluto = Uranus`, Uranus specifies developing action and plans through improvisation, sudden change, and experimental work. ABC gives technical development, altered rhythms, and reforms; Sandbach emphasizes originality and forceful independence, while Munkasey names research and the use of power to alter conditions. Ebertin's violence and calamities remain severe source examples, without making technical or original work necessarily catastrophic. ([Witte](#witte-entry), PDF p. 196; [ABC](#abc-entry), printed p. 307 / PDF p. 152; [Ebertin](#ebertin-entry), printed p. 214, entry 0741; [Sandbach](#sandbach-entry), PDF p. 74; [Munkasey](#munkasey-entry), printed p. 240)
 
 ## Links
 

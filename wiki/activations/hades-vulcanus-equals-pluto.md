@@ -20,10 +20,12 @@ aliases:
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis).
 
 - Formula: `Hades/Vulcanus = Pluto`
 - Astronomicon formula: `¢/§ = Z`
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
-To be powerless against meanness, wickedness and other evil things. Dissolution, the end of brute force.
+Reference: one-based PDF p. 285, Pluto row. The powerlessness and dissolution paragraph previously attached here belongs to Neptune.
+
+Evil things in the making which last a long time.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of enormous night cile, dangerous power development, poor energy development, poor power development, adverse violence development, growing criminal violence, and growing power deficiency
+Reference: printed p. 447 (one-based PDF p. 222), Pluto row.
+
+Development of enormous disadvantages, dangerous development of power, deficient development of energy, deficient unfolding of strength, adverse development of violence, hidden development of power, growing criminal violence, and growing lack of power.
+
+## Comparative Schema
+
+- Core meaning: Long-lasting harmful developments, with power or energy developing dangerously or deficiently.
+- Psychology: No individual temperament or mental state is specified.
+- Body/health: Energy-development language in ABC does not establish a specific medical condition.
+- Social/relationship: Growing criminal violence is an attributed source claim, not a judgment on a particular person or group.
+- Events/manifestations: Hidden power development, increasing disadvantages, deficient strength, or growing lack of power.
+- Conflicts/notes: Ending brute force belongs to the neighboring Neptune row. ABC's disadvantages and hidden-power clause are restored from the scan.
+
+## Contradictions
+
+ABC includes dangerous growth of power and increasing lack of power as alternatives. Witte's duration statement does not establish that harmful developments eventually collapse.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Hades/Vulcanus = Pluto`: a long struggle against overwhelming dark power, but also to the possibility that this force finally breaks down. It can show the collapse of what once seemed unbeatable.
+In `Hades/Vulcanus = Pluto`, Pluto specifies the pair through harmful developments and the way power or capacity unfolds. The [Witte entry](#witte-entry) describes harmful things developing over a long time. The [ABC entry](#abc-entry) adds dangerous or hidden power development and growing criminal violence, alongside deficient energy or strength and increasing lack of power. The common concern is an adverse developmental process, with different directions of power retained rather than a promised ending.
 
 ## Links
 

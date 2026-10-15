@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Mercury = Asc`
 - Astronomicon formula: `S/T = Asc`
 - Axis page: [Sun/Mercury](../axes/sun-mercury.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- PDF page: `103`.
+
 To be conscious of ones surroundings. Correspondence. Conversations. Acquaintances.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Other people in traffic, thinking people in the environment, young people in the environment, Kfirper language of the partner, local people traffic, personal language in the environment, personal opinion of the partner, and local language centre
+- Source page: printed `142` (PDF `70`). Translation checked against the scan.
+
+Other people in traffic, thinking people in the surroundings, young people in the surroundings, the partner's body language, local passenger traffic, personal conversations in the surroundings, the partner's personal opinion, and a local language centre.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source page: printed `82`, entry `0204`.
 
 The tendency to cultivate the exchange of ideas or thoughts, the ability to give and receive mental or intellectual stimulation, fondness for conducting negotiations.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: `9`, Sun/Mercury, complete Ascendant entry.
 
 A flair for communicating ideas by expressing them with a highly personal stamp. Relationships may be harmed by communicating that is too egotistical and/or self-centered. To think objectively about one’s own identity and outer appearance.
 
@@ -70,22 +80,23 @@ A strong mental focus when communicating to others; keeping your attention on a 
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: focused exchange of ideas with the people in one's surroundings.
+- psychology: concentration, receptivity to mental stimulation, and awareness of one's presentation.
+- body/health: body language and outer appearance are represented; no health claim is supplied.
+- social/relationship: conversations, correspondence, negotiations, and a recognizable personal voice.
+- events/manifestations: acquaintances, local communication, and passenger traffic.
+- conflicts/notes: a personal stamp can aid communication; egotistical delivery can harm relationships.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach's warning about self-centred communication qualifies the productive exchange described elsewhere; it does not contradict the ability to communicate.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Mercury = Asc`: articulate self-presentation, lively contact with others, and the ability to stamp ideas with a recognizable personal voice. Main caution: self-centered communication: too much emphasis on one's own viewpoint can strain relationships and reduce objectivity.
+In `Sun/Mercury = Asc`, Asc brings thought and communication into direct contact with other people: exchanging ideas, corresponding, negotiating, and noticing the partner's words or body language. A clear personal voice works best when sustained attention includes what others are saying. ([Witte Entry](#witte-entry), PDF 103; [ABC Entry](#abc-entry), printed 142; [Ebertin Entry](#ebertin-entry), printed 82; [Munkasey Entry](#munkasey-entry), printed 60.)
+
+The same personal stamp can narrow the exchange when communication becomes too self-centred. Sandbach therefore adds objectivity about one's identity and appearance, alongside the risk of relationship strain. This is a qualification of the communicative ability, not a denial of it. ([Sandbach Entry](#sandbach-entry).)
 
 ## Links
 

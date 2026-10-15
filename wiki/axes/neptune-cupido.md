@@ -66,6 +66,8 @@ updated_at: 2026-05-04
 - Astronomicon axis: `Y/¡`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -76,9 +78,24 @@ Unfortunate parents. Dissonance in the family or in associations. Shortage in ho
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `392`; PDF page: `195` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Community policy, economic and social cohesion, and structural funds
+German pair summary (transcribed from printed page `392`; PDF page `195`):
+
+> Auflösung einer Gemeinschaft, fremde Gemeinschaft, gemeinsame Ahnungen, gemeinsame Zukunft, Gemeinschaft in der Luft, Gemeinschaft im Wasser, Kunst der Zukunft, Kunst im Wasser, schwache Gemeinschaft, unsichere Gemeinschaft
+
+Editorial translation from the German passage: Dissolution of a community, foreign community, shared premonitions, shared future, community in the air, community in water, art of the future, art in water, weak community, uncertain community.
+
+## Comparative Schema
+
+- core meaning: Witte's pair entry centers on weakening or dissolution within marriage, family, and associations.
+- psychology: grief and dissonance coexist with ABC's shared premonitions; a fuller individual personality account is not supplied.
+- body/health: neither pair passage establishes a specific bodily or medical meaning.
+- social/relationship: the stated range includes unfortunate parents, troubled marriage, and dissonance or dissolution in partnerships and societies.
+- events/manifestations: shortage of housing and art dwindling or dying away accompany the social themes.
+- conflicts/notes: ABC's restored list spans shared premonitions, future and art as well as dissolution and weakness. The former unrelated policy-and-funds wording supplies no doctrine.
 
 ## Related Activations
 
@@ -103,11 +120,18 @@ Community policy, economic and social cohesion, and structural funds
 - [Neptune/Cupido = Vulcanus](../activations/neptune-cupido-equals-vulcanus.md)
 - [Neptune/Cupido = Zeus](../activations/neptune-cupido-equals-zeus.md)
 
+## Contradictions
+
+Witte emphasizes dissonance and dissolution; ABC adds shared future, premonitions and art. These are distinct expressions, without a promised constructive resolution.
+
+ABC's complete bold pair list was checked against printed392/PDF195; its former damaged translation has been replaced. Other source blocks outside the stated proof scope retain their existing reference precision.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- This axis describes family, marriage, or group belonging under Neptunian strain, where closeness is shaped by disappointment, blurred trust, secrecy, dependency, or gradual dissolution. It often shows unstable domestic or associative harmony, crowding or housing pressure, and idealized attachment that can erode structure from within.
-- Constructively this axis supports coherent integration; the shadow is overreach, rigidity, or internal split that undermines follow-through.
+`Neptune/Cupido` concerns the weakening of a shared life or association. [Witte's pair summary](#pair-summary) moves from family dissonance and grief in marriage or societies to dissolution of a marriage or partnership. The common issue is a union that no longer holds together harmoniously; the entry does not specify a hidden motive such as secrecy or dependency.
+
+The same summary includes housing shortages and art dwindling or dying away, so the range extends beyond intimate relationships to shared living conditions and cultural activity. No specific illness or constructive resolution is established. The scan-verified [ABC list](#abc-pair-summary) also names shared premonitions, a shared future, and art in water or of the future. These broaden the range without promising that a weakened association will recover; the linked activation pages retain their separate, oriented claims.
 
 ## Links
 

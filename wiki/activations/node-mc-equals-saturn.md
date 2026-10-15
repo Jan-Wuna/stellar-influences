@@ -33,11 +33,15 @@ updated_at: 2026-05-06
 - Axis page: [Node/MC](../axes/node-mc.md)
 - Triad hub: [Saturn Node MC](../triads/saturn-node-mc.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 61 (one-based; exact row checked).
 
 Gloom cast feelings in relationships. To lose a connection. A personal connection experiences obstacles. Hindrance through an emotional relationships.
 
@@ -45,17 +49,23 @@ Gloom cast feelings in relationships. To lose a connection. A personal connectio
 
 #### ABC Entry
 
+- Source page: 67 (printed); PDF page: 32 (one-based; exact row checked).
+
 serious soul connection, patience in the minute of a connection, inhibited soul contacts, soul encounter in old age, disturbances in a psychic connection, separation of a soul connection, and connection with a patient soul
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
+- Source page: 304 (printed); PDF page(s): 306 (one-based); entry code: 1101 (direct source text checked).
+
 A marked preference for going one's own way, withdrawal into oneself. An egoistic person, desire to be alone and tendency to shun the company of others. A person who lives alone or who cuts himself off from others.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- PDF page: 121 (one-based; exact activation located in direct source text).
 
 Frustration concerning progress in one’s career and one’s relationship to the world. The needs for a focused and steady approach to connecting to the world in a more spiritual manner. The fear of making progress in one’s career.
 
@@ -70,22 +80,23 @@ Admiration for those who have upheld principles similar to yours; frustration in
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: obstacles, withdrawal or loss in personally significant connections.
+- psychology: gloom, frustration and a wish to be alone; patience and a focused approach remain supported.
+- body/health: no bodily or medical condition is stated in these entries.
+- social/relationship: inhibited contacts, loss of like-minded friends and relationships with older or patient people.
+- events/manifestations: a disrupted or ended connection, difficulty making contacts, and sharing basic expertise.
+- conflicts/notes: ABC's patience and Sandbach's focused approach qualify the difficulties; they do not establish a promise of durable partnership.
 
 ## Contradictions
 
-- None recorded yet.
+ABC's patience and Sandbach's focused approach qualify the difficulties; they do not establish a promise of durable partnership.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Node/MC = Saturn`: durable partnership, disciplined cooperation, and the ability to build a life direction patiently with others. Main caution: burdened belonging: associations can become restrictive, dutiful without warmth, or too heavy to allow living development.
+Saturn specifies `Node/MC` through difficulty sustaining or entering a personally important connection. [Witte](#witte-entry) stresses obstacles and loss, [Ebertin](#ebertin-entry) withdrawal and the wish to go one's own way, and [Munkasey](#munkasey-entry) frustration in making contacts or losing friends with shared aims. The distance may be imposed by circumstances or actively chosen.
+
+Patience remains a meaningful alternative within the difficulty: [ABC](#abc-entry) names serious bonds and patient souls, and [Sandbach](#sandbach-entry) calls for focused, steady engagement amid fear of progress. These entries support deliberate effort without guaranteeing that the relationship will endure.
 
 ## Links
 

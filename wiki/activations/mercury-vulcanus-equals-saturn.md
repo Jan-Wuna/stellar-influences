@@ -30,9 +30,13 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Vulcanus](../axes/mercury-vulcanus.md)
 - Triad hub: [Mercury Saturn Vulcanus](../triads/mercury-saturn-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Evidence locator: one-based PDF p. 172 (entry start); source heading: `Mercury + Vulcanus`.
 
 #### Witte Entry
 
@@ -40,15 +44,31 @@ One is only concerned with thoughts of travel and separation. To guard traveller
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Evidence locator: printed p. 267; one-based PDF p. 132 (oriented row checked against the scan); source heading: `Merkur + Vulkanus`.
+
 #### ABC Entry
 
-Influence through serious speech, influential media tasks, enormous youth problems, inhibiting EintlUsse discuss, power through thought concentration, news about losses by violence, strong separation thoughts, and strong through patience in speech
+Influence through serious conversations, influential media tasks, enormous youth problems, discussing inhibiting influences, power through concentration of thought, reports of losses through violence, strong thoughts of separation, strength through patience in conversation.
+
+Editorial note: The scan reads `hemmende Einflüsse besprechen`, translated here as “discussing inhibiting influences.”
+
+## Comparative Schema
+
+- core meaning: Forceful thought concentrates on serious concerns, travel, separation and inhibiting influences.
+- psychology: Concentration and patience in conversation provide forms of mental strength.
+- body/health: No specific health claim is given; reports of violent losses are event examples.
+- social/relationship: Protecting travelers is an explicit role; influential media tasks and serious conversations provide other social settings.
+- events/manifestations: Travel and separation thoughts, enormous youth problems and news of losses through violence are named.
+- conflicts/notes: The protective role must remain alongside separation and loss; none of the examples establishes inevitable harm.
+
+## Contradictions
+
+No direct contradiction is established. Guarding travelers and thinking about separation are complementary source settings; patience and concentration also make this more than a list of restrictions.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Vulcanus = Saturn`: One is only concerned with thoughts of travel and separation. To guard travellers, to protect them.
-- Practical expression: influence through serious speech, influential media tasks, enormous youth problems, inhibiting EintlUsse discuss, and power through thought concentration.
+In `Mercury/Vulcanus = Saturn`, serious thought gains force through concentration and patient conversation about difficult or inhibiting circumstances. Travel and separation are a particular focus, including the active task of guarding and protecting travelers. Influential media work, substantial problems involving youth and reports of losses through violence add public settings for this serious attention. The protective role and strength through patience remain part of the picture alongside separation and loss. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

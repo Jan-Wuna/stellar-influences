@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Jupiter/Saturn = Node`
 - Astronomicon formula: `V/W = g`
 - Axis page: [Jupiter/Saturn](../axes/jupiter-saturn.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source reference: one-based PDF p. 207, Jupiter + Saturn, oriented activator row; printed page unconfirmed.
+
 Separation of a happy union, or happy separation of a union. Roommates.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Describe tasks successfully, successful separation language, serious legal thoughts, financial losses in youth, happy thoughts in old age, opinions on legal problems, news about legal successes, and problematic youth law
+- Source reference: printed p. 324; one-based PDF p. 161, Jupiter/Saturn, oriented activator row.
+
+A successfully separated connection, joy and sorrow of a connection, loss of money within a connection, happy connections in old age, problems within a successful connection, legal problems of a connection, and satisfaction within a connection through perseverance.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
 
-with others, harmonious living together. Desire to terminate an association.
+- Source reference: printed p. 227; one-based PDF p. 229, coded entry 0791; missing opening restored from the scan.
+
+Satisfaction with others, harmonious living together. Desire to terminate an association.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source reference: one-based PDF p. 79, Jupiter/Saturn, Node paragraph; chapter begins on p. 78. The source's Seeing out wording is retained.
 
 One is needing more of the right kind of discipline in this lifetime. Seeing out groups of people who help one to figure out what is right and wrong for you to do. The strong determination to stick with those groups or people you have bonded with and to attempt to better them.
 
@@ -66,26 +76,27 @@ One is needing more of the right kind of discipline in this lifetime. Seeing out
 
 #### Munkasey Entry
 
+- Source reference: retained printed p. 256, JUPITER/SATURN with Planets and Points; passage unchanged in this review.
+
 Finding and associating with people who help you build and progress thru the various cycles of life; help from influential persons in effecting social or personal changes; new ideas or people contacts which broaden your life.
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- Core meaning: Bonds are sustained, improved, or ended through changing circumstances ([Witte Entry](#witte-entry)).
+- Psychology: Discipline and commitment to a group are explicit in Sandbach.
+- Body/health: No bodily or medical condition is established.
+- Social/relationship: Helpful contacts coexist with the wish to terminate an association.
+- Events/manifestations: Roommates, separation, and influential help in effecting change are specific examples.
+- Conflicts/notes: Raw Ebertin0791 restores Satisfaction at the opening. Raw ABC inspection restores Node's seven connection clauses; the former thought/report paragraph belonged to Mercury. Sandbach's exact Node paragraph is on PDF p. 79.
 
 ## Contradictions
 
-- None recorded yet.
+Sandbach emphasizes sticking with a bonded group; Witte and Ebertin allow ending an association. These alternatives must remain visible rather than being recast as inevitable rigidity.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Jupiter/Saturn = Node`: serious partnership, communal duty, and connecting with people who help define what is right, workable, and sustainable. Main caution: heaviness in association: the same loyalty that sustains a bond can also keep it burdened, rigid, or half-retained after its life has changed.
+In `Jupiter/Saturn = Node`, Node gives the pair's development and separation a relational form. The [Munkasey Entry](#munkasey-entry) describes people who help one progress through change, and the [Sandbach Entry](#sandbach-entry) stresses discipline and commitment within groups. The [ABC Entry](#abc-entry) keeps joy and sorrow, financial or legal problems, happiness in old age and satisfaction through perseverance within a connection. The [Ebertin Entry](#ebertin-entry) adds satisfaction and harmonious living, while it and the [Witte Entry](#witte-entry) also allow separation or termination. The formula therefore concerns the role of bonds in adjustment, without requiring either lifelong loyalty or a break.
 
 ## Links
 

@@ -34,20 +34,27 @@ updated_at: 2026-05-06
 
 ## Orientation Map
 
-- [Pluto/Asc = Saturn](../activations/pluto-asc-equals-saturn.md)
-- [Saturn/Asc = Pluto](../activations/saturn-asc-equals-pluto.md)
-- [Saturn/Pluto = Asc](../activations/saturn-pluto-equals-asc.md)
+All three orientations are represented. Choose the exact pair before `=` and activator after it, then read that activation page.
+
+| Oriented formula | Base axis | Activator |
+| --- | --- | --- |
+| [Pluto/Asc = Saturn](../activations/pluto-asc-equals-saturn.md) | [Pluto/Asc](../axes/pluto-asc.md) | [Saturn](../factors/saturn.md) |
+| [Saturn/Asc = Pluto](../activations/saturn-asc-equals-pluto.md) | [Saturn/Asc](../axes/saturn-asc.md) | [Pluto](../factors/pluto.md) |
+| [Saturn/Pluto = Asc](../activations/saturn-pluto-equals-asc.md) | [Saturn/Pluto](../axes/saturn-pluto.md) | [Asc](../factors/asc.md) |
 
 ## Source Coverage
 
-- `Pluto/Asc = Saturn`: Michael, page `348`
-- `Saturn/Asc = Pluto`: Michael, page `300`
-- `Saturn/Pluto = Asc`: Michael, page `292`
+Each linked activation currently has entries from all five sources below. This lists canonical source coverage, not the full contents of the works. Munkasey's retained locators are printed entry pages; other entries are linked without inventing missing page numbers.
+
+- `Pluto/Asc = Saturn`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/pluto-asc-equals-saturn.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/pluto-asc-equals-saturn.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/pluto-asc-equals-saturn.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/pluto-asc-equals-saturn.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/pluto-asc-equals-saturn.md#munkasey-entry), printed p. `348`.
+- `Saturn/Asc = Pluto`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-asc-equals-pluto.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-asc-equals-pluto.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-asc-equals-pluto.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-asc-equals-pluto.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-asc-equals-pluto.md#munkasey-entry), printed p. `300`.
+- `Saturn/Pluto = Asc`: [Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures](../activations/saturn-pluto-equals-asc.md#witte-entry); [Udo Rudolph - ABC for Planetary Pictures](../activations/saturn-pluto-equals-asc.md#abc-entry); [Reinhold Ebertin - The Combination of Stellar Influences](../activations/saturn-pluto-equals-asc.md#ebertin-entry); [John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints](../activations/saturn-pluto-equals-asc.md#sandbach-entry); [Michael Munkasey - Midpoints: Unleashing the Power of the Planets](../activations/saturn-pluto-equals-asc.md#munkasey-entry), printed p. `292`.
+
+The linked entries retain these additional locators: `Pluto/Asc = Saturn` — Witte one-based PDF entry-start p. `90`; ABC printed p. `121` (PDF p. `59`); Ebertin printed p. `295`, entry `1065`; Sandbach one-based PDF chapter-start p. `116`. `Saturn/Pluto = Asc` — Witte one-based PDF entry-start p. `223`; ABC printed p. `352` (PDF p. `175`); Ebertin printed p. `254`, entry `0900`; Sandbach one-based PDF chapter-start p. `91`. Sandbach's chapter starts are not exact formula locators.
 
 ## Contradictions Across Orientations
 
-- None recorded yet.
-- Distinct meanings across orientations are preserved as orientation differences, not collapsed into one interpretation.
+The formulas have distinct base pairs and activators. Their different meanings are not contradictions merely because the same three factors recur. This structural hub makes no cross-orientation doctrinal comparison; the activation pages retain their own source differences and qualifications.
 
 ## Links
 

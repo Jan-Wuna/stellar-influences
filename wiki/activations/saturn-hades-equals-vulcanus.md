@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Saturn/Hades](../axes/saturn-hades.md)
 - Triad hub: [Saturn Hades Vulcanus](../triads/saturn-hades-vulcanus.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source reference: PDF p. 225.
 
 To be forced to endure mighty hostilities. To be placed into great danger by the enemy.
 
@@ -42,13 +46,29 @@ To be forced to endure mighty hostilities. To be placed into great danger by the
 
 #### ABC Entry
 
-Patienceful violence absorption, dangerous violence problems, power deficiency in old age, cultural influence of the past, grief by dangerous violence, disadvantages by violent separation, loss of influence from the hidden, and hidden power problems
+Patient renunciation of violence, dangerous problems involving violence, lack of strength in old age, cultural influence of the past, grief through dangerous violence, disadvantages through violent separation, disturbing influence from the hidden, and hidden problems of power.
+
+Translation checked against the German scan: printed p. 357, PDF p. 177.
+
+## Comparative Schema
+
+- Core meaning: Endurance or restraint in the presence of threatening force and concealed power.
+- Psychology: Grief under violence and the patience required to refrain from it.
+- Body/health: The ABC entry names reduced strength in old age, without specifying a disease.
+- Social/relationship: Hostility, an enemy's pressure, and violent separation.
+- Events/manifestations: Dangerous confrontation, hidden power problems, and influences carried from the past.
+- Conflicts/notes: The verified German says renunciation of violence, not absorption; enduring hostility and refusing violence are distinct responses.
+
+## Contradictions
+
+Witte emphasizes force endured from others, whereas the ABC entry also includes restraint from violence. These positions can coexist; neither establishes that the subject must perpetrate violence.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Saturn/Hades = Vulcanus`: to be forced to endure mighty hostilities, to be placed into great danger by the enemy.
-- Practical expression: patienceful violence absorption, dangerous violence problems, power deficiency in old age, cultural influence of the past, and grief by dangerous violence.
+In `Saturn/Hades = Vulcanus`, Vulcanus specifies the Saturn/Hades axis through the pressure of force: someone endures powerful hostility, faces danger, or deals with hidden power. The [Witte entry, PDF p. 225](#witte-entry) places the danger in an enemy's actions; the verified [ABC entry, printed p. 357](#abc-entry) adds grief, violent separation, and patient renunciation of violence.
+
+The passage therefore supports both the burden of coercion and restraint in responding to it. Its separate references to strength in old age and cultural influence from the past broaden the entry, without making violence a necessary event or a personal trait.
 
 ## Links
 

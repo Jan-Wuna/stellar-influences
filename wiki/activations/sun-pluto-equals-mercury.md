@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Sun/Pluto = Mercury`
 - Astronomicon formula: `S/Z = T`
 - Axis page: [Sun/Pluto](../axes/sun-pluto.md)
@@ -39,23 +41,31 @@ updated_at: 2026-05-06
 
 #### Witte Entry
 
+- Source passage: `Sun + Pluto`; one-based PDF page `110` (oriented row checked against the scan).
+
 The physical development is accelerated by much exercise. Motion exercises. Increase of physical agility. The condition of the nerves.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Development of young people, thoughts of personal changes, language about the evolution of man, developing body language, personal language development, daily changing opinions, and growing media center
+- Source passage: `Sonne + Pluto`; printed p. `156`; one-based PDF page `77` (oriented row checked against the scan).
+
+Development of young people, thoughts of personal changes, conversations about human evolution, developing body language, personal language development, daily changing opinions, and growing media center
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
 
 #### Ebertin Entry
+
+- Source passage: `Sun/Pluto`; printed p. `102`; one-based PDF page `104`; entry code `0280` (exact coded entry checked in actual PDF text).
 
 Aspiring intellectual supremacy, prudence, organization, consciousness of aim or objective, restless creative activity, orator or public speaker with suggestive powers. A nerve crisis.
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
 
 #### Sandbach Entry
+
+- Source passage: `Planets activating the Sun/Pluto midpoint`; one-based PDF page `20` (exact Mercury entry checked in actual raw PDF text).
 
 To speak in an intensely purposeful and compelling manner that may intim idate other people. Communicating in an intensely egotistical way. Ideas concerning ways of actualizing life’s meaning and purpose in a revolutionary or transformative manner.
 
@@ -70,22 +80,21 @@ A mental set where you do not easily reveal anything about your self or your lif
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Development is expressed through thought, language, exercise and purposeful communication.
+- psychology: Organization and creative intellectual striving coexist with egotistical or intimidating speech, privacy or adaptability.
+- body/health: Witte names exercise, agility and nerves; Ebertin's nerve crisis is a historical medical association.
+- social/relationship: Public speaking and articulating motives for control coexist with adapting to another's will.
+- events/manifestations: Changing opinions, youth development, body language and a growing media center are examples.
+- conflicts/notes: Compelling speech and unwillingness to reveal oneself are different modes of communication; physical exercise remains a distinct source emphasis.
 
 ## Contradictions
 
-- None recorded yet.
+No direct contradiction is established. Exercise-driven physical development and intellectual or communicative power are different emphases, while privacy and forceful expression remain alternative settings.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Sun/Pluto = Mercury`: powerful oratory, concentrated planning, and the ability to speak with transformative or intimidating effect. Main caution: nervous and mental overpressure: ideas can become obsessive, manipulative, or crisis-driven.
+In `Sun/Pluto = Mercury`, development involves thought and expression: ideas about personal change, body language and changing opinions accompany purposeful organization and compelling speech. That force can suggest or intimidate, while another expression keeps personal information private or adapts flexibly to someone else's will. Witte also preserves a physical path through exercise and agility; his nerve correspondence and Ebertin's nerve-crisis example remain historical associations. ([Witte](#witte-entry); [ABC](#abc-entry); [Ebertin](#ebertin-entry); [Sandbach](#sandbach-entry); [Munkasey, p. 88](#munkasey-entry).)
 
 ## Links
 

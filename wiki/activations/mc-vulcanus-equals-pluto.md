@@ -30,6 +30,8 @@ updated_at: 2026-05-04
 - Axis page: [MC/Vulcanus](../axes/mc-vulcanus.md)
 - Triad hub: [Pluto MC Vulcanus](../triads/pluto-mc-vulcanus.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
@@ -44,11 +46,25 @@ To bring about powerful changes.
 
 Development of psychic energy, development of my strength, evolution of a strong soul, my growing influence, my power development, strong psychic development, psychic change through violence, alteration of my influence, and growing soul force
 
+## Comparative Schema
+
+- **Core meaning:** Powerful change and development of influence.
+- **Psychology:** The growth or alteration of experienced strength.
+- **Body/health:** Inner development is named, without a clinical claim.
+- **Social/relationship:** Influence changes; ABC includes violence as a possible context.
+- **Events/manifestations:** Bringing about powerful changes and developing strength.
+- **Conflicts/notes:** The brief Witte statement does not prove that every change is deliberate or beneficial.
+
+Evidence: [ABC Entry](#abc-entry), printed p. 97 (entry); [Witte Entry](#witte-entry), PDF p. 76 (entry start).
+
+## Contradictions
+
+The entries do not establish a direct contradiction; related wording is not proof of independent corroboration.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `MC/Vulcanus = Pluto` deepens the axis into powerful transformation.
-- Chart expression: bringing about major change through force of will, using concentrated power to reshape circumstances, and developing the self by acts of decisive impact.
+Pluto specifies `MC/Vulcanus` through bringing about powerful changes in the [Witte Entry](#witte-entry). The [ABC Entry](#abc-entry) also describes the development of strength and the alteration or growth of influence, while retaining change through violence as one difficult expression. Change affects both what power does and how one's power develops; force of will is not the only stated mechanism.
 
 ## Links
 

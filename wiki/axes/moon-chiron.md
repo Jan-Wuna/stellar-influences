@@ -47,11 +47,15 @@ updated_at: 2026-04-21
 
 - Axis: `Moon/Chiron`
 - Astronomicon axis: `R/Chiron`
+
+[Read the interpretation](#derived-synthesis).
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- PDF page (one-based): `32` (exact Principle and Process checked in raw PDF text).
 
 #### Principle
 
@@ -60,6 +64,15 @@ Allowing oneself to be guided by instinct, or, when one does not do this, suffer
 #### Process
 
 The cleansing of emotions through allowing feelings to flow freely.
+
+## Comparative Schema
+
+- core meaning: Emotional clearing through trusting instinct and allowing fixed feelings to move.
+- psychology: Releasing regret and rigid security-seeking; difficulty acting on instinct or remaining stuck in past feeling supplies the difficult range.
+- body/health: Sandbach's emotional-body cleansing is spiritual language; this pair entry gives no anatomical condition or clinical treatment.
+- social/relationship: Loving family without being controlled by family drama, and seeking a spiritual family or deeper belonging.
+- events/manifestations: Letting go of the past and finding security through fluidity are processes, not a list of predicted external events.
+- conflicts/notes: One source is represented. Its greater-self and higher-forces framing remains attributed; separate activation meanings should not be substituted for the pair's Principle and Process.
 
 ## Related Activations
 
@@ -79,10 +92,9 @@ The cleansing of emotions through allowing feelings to flow freely.
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Chiron` is the axis of instinctive emotional healing, family memory, the search for spiritual family, and the cleansing of the emotional body by letting feelings move.
-- Constructively it helps the native trust instinct, release regret, see the past in a spiritual light, and find security through fluidity rather than rigid attachment.
-- The shadow is suffering from ignored instincts, stagnant feeling, family drama that controls the present, or the inability to feel safe in outer or material supports.
-- Activations show what helps the clearing process: Mars acts, Mercury names it, Venus softens it, Saturn slows it, and the angles bring it into lived contact.
+`Moon/Chiron` concerns emotional movement where feeling has become fixed around the past, family or a need for security. In [Sandbach's Principle and Process](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints), trusting instinct and allowing feelings to flow make room for releasing regret and family drama. The aim is to love family without being controlled by it, while also finding a spiritual family or deeper sense of belonging. Difficulty following instinct and stagnant feeling describe the obstacles within this process.
+
+Sandbach locates security in the greater self and protection from higher forces when material supports feel insufficient. His emphasis on fluidity gives emotional clearing a spiritual frame, rather than promising that a particular external event or clinical cure will occur. This page represents one author's pair doctrine; the distinct ways another factor participates are preserved on the [activation pages](#related-activations).
 
 ## Links
 

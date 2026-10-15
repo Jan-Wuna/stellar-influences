@@ -29,6 +29,8 @@ updated_at: 2026-04-21
 - Axis page: [Sun/Chiron](../axes/sun-chiron.md)
 - Triad hub: [Sun Jupiter Chiron](../triads/sun-jupiter-chiron.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
@@ -37,10 +39,23 @@ updated_at: 2026-04-21
 
 One’s enthusiasm has the effect of helping others to experience greater self- confidence and meaning in life. Joy and expectancy when it comes to allowing the true meaning and purpose in life to emerge on its own. A positive and generous attitude taken toward ego problems allows them to heal.
 
+## Comparative Schema
+
+- core meaning: Enthusiasm that encourages meaning and confidence.
+- psychology: Joy, expectancy, and generosity toward ego difficulties.
+- body/health: Healing refers to ego problems, not a bodily diagnosis or treatment.
+- social/relationship: Enthusiasm helps others experience greater self-confidence.
+- events/manifestations: Encouragement and allowing a sense of purpose to emerge.
+- conflicts/notes: Sandbach's spiritual-healing language remains an attributed interpretation.
+
+## Contradictions
+
+Only one Sandbach entry is present, so no independent source comparison or contradiction can be established.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Sun/Chiron = Jupiter`: to embrace life's purpose with optimism and faith and finding expansive meaning in personal evolution.
+Jupiter specifies the Sun/Chiron axis through enthusiasm, generosity, and confidence in the emergence of meaning. The [Sandbach entry](#sandbach-entry) joins one's own joy and expectancy with the effect of encouraging confidence in others. Its language of healing concerns ego problems: a generous attitude helps loosen them so that personal purpose can emerge, without establishing a bodily treatment or guaranteed cure.
 
 ## Links
 

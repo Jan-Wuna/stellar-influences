@@ -66,9 +66,13 @@ updated_at: 2026-05-04
 - Astronomicon axis: `U/§`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- PDF page: `203`
 
 #### Pair Summary
 
@@ -76,9 +80,24 @@ Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanic
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Printed source page: `320`; PDF page: `159` (bold pair summary checked against actual scan).
+
 #### ABC Pair Summary
 
-Arity KraJt, influence l 'atigkeit, energetic creation, energies in action, Gwalt•-activity, force--work, power activity, power will, creation force, strong impulses, and will force
+German pair summary (transcribed from printed page `320`; PDF page `159`):
+
+> Arbeits-Kraft, einflußreiche Tätigkeit, energisches Schaffen, Energien in Aktion, Gewalt-Tätigkeit, Kraft-Arbeit, Macht-Tätigkeit, Macht-Wille, Schaffens-Kraft, starke Impulse, Willens-Kraft
+
+Editorial translation from the German passage: Working strength, influential activity, energetic productive work, energies in action, forceful or violent activity, strength-intensive work, activity exercising power, will to power, creative power, strong impulses, strength of will.
+
+## Comparative Schema
+
+- core meaning: Force put into action through great effort, muscular strength, or mechanical energy ([pair summary](#pair-summary)).
+- psychology: Strong impulses and will directed into work; the entries also include the possibility of violence ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- body/health: Exercise and muscular strength are explicit; the summaries do not establish a disease correspondence ([pair summary](#pair-summary)).
+- social/relationship: Influence and acts of violence are named, but no specific partnership pattern is developed ([pair summary](#pair-summary), [ABC summary](#abc-pair-summary)).
+- events/manifestations: Great exertion, energetic work, and the release or handling of high mechanical energies ([pair summary](#pair-summary)).
+- conflicts/notes: Effort, influence, power and violence are different uses of force in ABC's list. Energetic productive work and willpower do not make every expression violent.
 
 ## Related Activations
 
@@ -103,11 +122,14 @@ Arity KraJt, influence l 'atigkeit, energetic creation, energies in action, Gwal
 - [Mars/Vulcanus = Vernal Point](../activations/mars-vulcanus-equals-vernal-point.md)
 - [Mars/Vulcanus = Zeus](../activations/mars-vulcanus-equals-zeus.md)
 
+## Contradictions
+
+The summaries share a theme of energy in action; they do not require every exertion to become violence. The ABC phrases `Arity KraJt`, `influence l 'atigkeit`, and `Gwalt•-activity` are damaged OCR or translation and are not used to extend the interpretation.
+
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/Vulcanus` is the axis of concentrated force, muscular power, violent effort, and the unleashing of exceptional physical or mechanical energy.
-- Chart expression: great exertion, mighty activity, acts of violence, raw power in motion, and work that deals with high energies, machinery, or direct application of massive strength.
+`Mars/Vulcanus` concerns the application of great force: sustained exertion, muscular work, and the release of mechanical energy. What unifies exercise and work with powerful machinery is energy being actively brought to bear, rather than strength remaining a potential. The [pair summary](#pair-summary) also includes acts of violence, so the same force can serve demanding work or become destructive; neither outcome is inevitable. The [ABC summary](#abc-pair-summary) adds strong impulses and will directed into creation and activity.
 
 ## Links
 

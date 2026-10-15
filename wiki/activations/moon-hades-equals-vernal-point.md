@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Moon/Hades](../axes/moon-hades.md)
 - Triad hub: [Vernal Point Moon Hades](../triads/vernal-point-moon-hades.md)
 
+- [Read the interpretation](#derived-synthesis)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- Source passage: `Moon + Hades`; one-based PDF page `131` (entry starts here; supplied parser locator, not visually verified).
 
 Poor women. Poor populace. Prisoners.
 
@@ -42,13 +46,27 @@ Poor women. Poor populace. Prisoners.
 
 #### ABC Entry
 
+- Source passage: `Mond + Hades`; printed p. `194`; PDF page `96` (entry-level locator in supplied parser-normalized German OCR; not visually verified).
+
 deprivations of a people in public, endangered women in public, emotional deficiency in public, criminal woman in public life, public distress of a people, and tradition of a people in public
+
+## Comparative Schema
+
+- core meaning: Deprivation and distress are placed in public life.
+- psychology: ABC's emotional-deficiency phrase is a traditional characterization, not a psychological diagnosis.
+- body/health: No bodily or medical condition is specified.
+- social/relationship: Poor women, an impoverished populace and prisoners are Witte's social examples.
+- events/manifestations: Public distress, endangered women and public presentation of tradition are ABC examples.
+- conflicts/notes: Public hardship does not establish criminality; ABC's criminal-woman example remains one attributed alternative.
+
+## Contradictions
+
+Both entries place deprivation in a public or collective setting. ABC additionally includes a people's publicly expressed tradition. Prisoners and criminality are attributed examples alongside hardship, not conclusions about every poor or endangered person.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Moon/Hades = Vernal Point`: Poor women. Poor populace. Prisoners.
-- Practical expression: deprivations of a people in public, endangered women in public, emotional deficiency in public, criminal woman in public life, and public distress of a people.
+In `Moon/Hades = Vernal Point`, Vernal Point specifies hardship through its public or collective setting. Witte names poor women, an impoverished populace and prisoners; ABC describes public deprivation, endangered women and a people's visible distress or tradition. The interpretation concerns hardship in public life, without inferring criminality or deficiency from a person's poverty. ([Witte](#witte-entry); [ABC](#abc-entry))
 
 ## Links
 

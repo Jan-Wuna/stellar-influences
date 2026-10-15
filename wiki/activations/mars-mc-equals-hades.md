@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Mars/MC](../axes/mars-mc.md)
 - Triad hub: [Mars MC Hades](../triads/mars-mc-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+Source: “MC + Mars,” PDF p. 64.
 
 To do things in a nasty way. Leader of a gang of criminals. A murderer. Activity of an expert in the field of waste management.
 
@@ -42,13 +46,27 @@ To do things in a nasty way. Leader of a gang of criminals. A murderer. Activity
 
 #### ABC Entry
 
-I have sorrow at work, I do not work, my work service, my work secret, my work is dangerous, my dangerous work, my work is criminal, and my past work
+Source: “Meridian + Mars,” printed p. 73 (PDF p. 35).
+
+I have sorrow at work, I forgo work, my service work, my work secret, my work is endangered, my dangerous work, my work is criminal, my deficient work, my lack of work, and my past work.
+
+## Comparative Schema
+
+- core meaning: Troubled, concealed, dangerous, or morally compromised work, alongside waste-management activity.
+- psychology: Sorrow connected with work and a willingness to forgo it in the German ABC passage.
+- body/health: Dangerous work is named, but no specific medical condition is established.
+- social/relationship: Witte includes criminal leadership as a historical example, not a character verdict.
+- events/manifestations: Waste-management work, work insecurity or lack, secret activity, and criminal acts are distinct source examples.
+- conflicts/notes: Waste management is an occupational example distinct from the criminal labels; endangered work, dangerous work, and lack of work also remain separate possibilities.
+
+## Contradictions
+
+The entries give different kinds of difficult work and work deprivation. Witte's criminal examples do not characterize his separate waste-management example.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mars/MC = Hades` drags vocational action into crude, criminal, or degrading channels.
-- Chart expression: nasty methods, destructive leadership, criminal activity, or work tied to waste, refuse, and the dirtiest or most degraded side of practical life.
+In `Mars/MC = Hades`, Hades specifies personal action through work under difficult conditions: sorrow, concealment, danger, deficiency, or lack of work. ABC distinguishes work that is endangered from work that is itself dangerous, and also names forgoing work and service work. Witte supplies very different examples, including waste management and criminal acts; these do not establish a moral judgment about every such occupation or person. The criminal labels remain his historical examples. ([Witte entry](#witte-entry), PDF p. 64; [ABC entry](#abc-entry), printed p. 73 / PDF p. 35)
 
 ## Links
 

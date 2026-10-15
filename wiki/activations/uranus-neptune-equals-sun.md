@@ -28,6 +28,8 @@ updated_at: 2026-05-06
 
 ## Identity
 
+- [Read the interpretation](#derived-synthesis)
+
 - Formula: `Uranus/Neptune = Sun`
 - Astronomicon formula: `X/Y = S`
 - Axis page: [Uranus/Neptune](../axes/uranus-neptune.md)
@@ -37,23 +39,31 @@ updated_at: 2026-05-06
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
+- Source reference: PDF p. 234, `Uranus + Neptune`, Sun entry.
+
 #### Witte Entry
 
 Days of change between tension and relaxation. The man who changes between tension and relaxation, who works energetically or not at all, who is thrown back and forth by impulses. To be a medium. Apparent death.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source reference: printed p. 370 (PDF p. 184), `Uranus + Neptun`, Sun entry.
+
 #### ABC Entry
 
-Exchangeable personal event, fine body impulses, nervousness of a person in the air, personal metaphysical experience, creeping corporal restlessness, surprising personal weakness, and center for air technology
+A disappointing personal event, fine bodily impulses, a person's nervousness in the air, a personal metaphysical experience, creeping bodily unrest, surprising personal weakness, and a center for air technology.
 
 ### Reinhold Ebertin - The Combination of Stellar Influences
+
+- Source reference: printed p. 266 (PDF p. 268), code `0939`.
 
 #### Ebertin Entry
 
 Lack of vitality, sensitive physique, impressionable. Unconsciousness, illness, lifelessness or impassiveness. (Epilepsy.)
 
 ### John Sandbach - Midpoints: A Kabbalistic Compendium of Meanings for Astrological Midpoints
+
+- Source reference: PDF p. 104, `Planets activating the Uranus/Neptune midpoint`, Sun entry (chapter begins on PDF p. 104).
 
 #### Sandbach Entry
 
@@ -70,22 +80,21 @@ Adds to the motivation you get from the insight and inspiration in your dreams o
 
 ## Comparative Schema
 
-- core meaning: source-native activation entries are preserved side by side above.
-- psychology: each source keeps its own phrasing and emphasis for the same orientation-specific formula.
-- body/health: bodily implications remain embedded inside the source-native entry when present.
-- social/relationship: interpersonal implications remain attached to each source entry instead of being collapsed.
-- events/manifestations: this page preserves the activation as an orientation-specific formula with source-backed statements only.
-- conflicts/notes: orientation-specific meaning is preserved on its own page and not merged into the triad hub.
+- core meaning: Personally experienced inspiration with variable energy and tension. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- psychology: Impressionability and motivation from dreams or meditation. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- body/health: Ebertin's illness, unconsciousness, and epilepsy examples are historical claims, not diagnoses. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- social/relationship: A wish to help humanity and experience directing confused people. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- events/manifestations: Alternating activity and inactivity, spiritual inquiry, and revealing hidden matters. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
+- conflicts/notes: Inspired motivation and physical vulnerability are distinct strands; the male, mediumship and medical examples remain attributed. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Contradictions
 
-- None recorded yet.
+Dreams and inspiration coexist with variable energy and impaired consciousness. The male, mediumship and medical examples remain historically attributed, without determining a person's health or abilities.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Uranus/Neptune = Sun`: inspired identity, luminous originality, and the courage to follow a path that feels both liberated and soulful. Main caution: unstable self-definition: ideals and intuition can outrun grounding and leave will diffuse or hard to sustain.
+Sun specifies Uranus/Neptune through a personal alternation between tension, relaxation, and uneven energy. Dreams, meditation, and the wish to disclose hidden truths can supply motivation, while the older entries also describe low vitality and impaired consciousness. Inspiration and physical vulnerability remain separate strands; the medical and mediumship examples are attributed doctrine, not an assessment of a person's health or abilities. ([Witte entry](#witte-entry); [ABC entry](#abc-entry); [Ebertin entry](#ebertin-entry); [Sandbach entry](#sandbach-entry); [Munkasey entry](#munkasey-entry).)
 
 ## Links
 

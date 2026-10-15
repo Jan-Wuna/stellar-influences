@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 - Formula: `Venus/Hades = Admetos`
 - Astronomicon formula: `Q/¢ = ¦`
 - Axis page: [Venus/Hades](../axes/venus-hades.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+- PDF page: 183; scanned activator row checked.
+
 Lack of servants. None or very few fellow workmen or colleagues.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Blocked love service, depression due to lack of love, limitations due to hidden love, restricted peace service, solid harmony in old age, grilndlicher V insists on love, deepening into old kiss, and subordinate love service
+- Source page: 285 (printed); PDF page: 141; scanned activator row checked.
+
+Blocked service in love, depression through lack of love, restrictions through hidden love, restricted service to peace, consolidated harmony in old age, thorough renunciation of love, immersion in old art, and suppressed service in love.
+
+## Comparative Schema
+
+- Core meaning: Affectionate service blocked or severely limited.
+- Psychology: Renunciation, hidden love, and lack of affection.
+- Body/health: ABC's depression wording is historical, not diagnostic.
+- Social/relationship: Few colleagues or fellow workers; restricted service.
+- Events/manifestations: Immersion in old art; consolidated harmony in age.
+- Conflicts/notes: Limited company does not establish a person's social worth.
+
+The categories follow the [Witte entry](#witte-entry) and [ABC entry](#abc-entry).
+
+## Contradictions
+
+Limited company does not establish a person's social worth.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Venus/Hades = Admetos`: lack of servants.
-- Practical expression: blocked love service, depression due to lack of love, limitations due to hidden love, restricted peace service, and solid harmony in old age.
+Admetos specifies Venus/Hades through limits on service, company, and the expression of affection. Few colleagues and blocked loving service connect the social and personal ranges. ABC also preserves consolidated harmony in age and immersion in old art, alongside renunciation and depressed feeling. ([Witte](#witte-entry); [ABC](#abc-entry).)
 
 ## Links
 

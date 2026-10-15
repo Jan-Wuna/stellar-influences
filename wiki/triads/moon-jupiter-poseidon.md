@@ -20,7 +20,7 @@ aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
   - udo-rudolph-abc-fur-planetenbilder
-updated_at: 2026-05-04
+updated_at: 2026-10-15
 ---
 
 ## Identity
@@ -28,30 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Moon Jupiter Poseidon`
 - Astronomicon triad-set: `R V ¨`
 
+This is an unordered structural hub; it contains no merged interpretation. [Read the orientation guidance](#derived-synthesis).
+
 ## Orientation Map
 
-- [Jupiter/Poseidon = Moon](../activations/jupiter-poseidon-equals-moon.md)
-- [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md)
-- [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md)
+- [Jupiter/Poseidon = Moon](../activations/jupiter-poseidon-equals-moon.md): base axis [Jupiter/Poseidon](../axes/jupiter-poseidon.md); activator [Moon](../factors/moon.md).
+- [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md): base axis [Moon/Jupiter](../axes/moon-jupiter.md); activator [Poseidon](../factors/poseidon.md).
+- [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md): base axis [Moon/Poseidon](../axes/moon-poseidon.md); activator [Jupiter](../factors/jupiter.md).
 
 ## Source Coverage
 
-- `Jupiter/Poseidon = Moon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `218`
-- `Jupiter/Poseidon = Moon`: Udo Rudolph - ABC for Planetary Pictures, page `346`
-- `Moon/Jupiter = Poseidon`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `125`
-- `Moon/Jupiter = Poseidon`: Udo Rudolph - ABC for Planetary Pictures, page `183`
-- `Moon/Poseidon = Jupiter`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `138`
-- `Moon/Poseidon = Jupiter`: Udo Rudolph - ABC for Planetary Pictures, page `206`
+Actual linked source subentries are listed below. Coverage describes current wiki representation.
+
+- Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures: [Jupiter/Poseidon = Moon](../activations/jupiter-poseidon-equals-moon.md#witte-entry) (PDF entry-start p. 218); [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md#witte-entry) (PDF entry-start p. 125); [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md#witte-entry) (PDF entry-start p. 138).
+- Udo Rudolph - ABC for Planetary Pictures: [Jupiter/Poseidon = Moon](../activations/jupiter-poseidon-equals-moon.md#abc-entry) (printed p. 346); [Moon/Jupiter = Poseidon](../activations/moon-jupiter-equals-poseidon.md#abc-entry) (printed p. 183); [Moon/Poseidon = Jupiter](../activations/moon-poseidon-equals-jupiter.md#abc-entry) (printed p. 206).
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Jupiter/Poseidon = Moon`: reasonable, wise, intelligent people and a public that approaches things sensibly.
-- `Moon/Jupiter = Poseidon`: This activation spiritualizes `Moon/Jupiter` and locates happiness in thought, insight, and refined meaning. It suggests emotional optimism nourished by study, ideals, or contemplative life, so faith is strengthened not just by comfort but by mental clarity and a sense of higher coherence.
-- `Moon/Poseidon = Jupiter`: Fortunate inspiration. Correct leadership by instinct.
+Moon, Jupiter and Poseidon form one unordered lookup set. Each formula above gives a different midpoint pair and activator. Follow the exact formula for its interpretation and source entries, its base axis for shared pair meaning, and its factor links for standalone evidence.
+
+## Contradictions Across Orientations
+
+Different wording across these formulas does not itself establish a contradiction: each formula makes a distinct claim.
 
 ## Links
 
+- [Jupiter/Poseidon](../axes/jupiter-poseidon.md)
+- [Moon/Jupiter](../axes/moon-jupiter.md)
+- [Moon/Poseidon](../axes/moon-poseidon.md)
 - [Moon](../factors/moon.md)
 - [Jupiter](../factors/jupiter.md)
 - [Poseidon](../factors/poseidon.md)

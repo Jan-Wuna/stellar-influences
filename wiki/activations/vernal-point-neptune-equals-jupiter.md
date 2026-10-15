@@ -30,11 +30,15 @@ updated_at: 2026-05-04
 - Axis page: [Vernal Point/Neptune](../axes/vernal-point-neptune.md)
 - Triad hub: [Vernal Point Jupiter Neptune](../triads/vernal-point-jupiter-neptune.md)
 
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
 #### Witte Entry
+
+- PDF page: 46 (one-based).
 
 Fraudulent money transactions.
 
@@ -42,13 +46,27 @@ Fraudulent money transactions.
 
 #### ABC Entry
 
-Public success Water, Money weakness in the public, Glticks expectations in the public Life, Public Water law, Legal weakness in the public, and Unsafe happiness in the public Life
+- Source page: 40; PDF page: 19 (one-based spread).
+
+Success in public water, financial weakness in public, expectations of good fortune in public life, public water law, legal weakness in public, and uncertain good fortune in public life
+
+## Comparative Schema
+
+- core meaning: Expected public benefit with a weak or uncertain financial or legal basis.
+- psychology: Expectations of good fortune are explicit.
+- body/health: No bodily or health claim is supplied.
+- social/relationship: Public water rights and weak legal conditions.
+- events/manifestations: Fraudulent financial transactions and success in water-related public settings.
+- conflicts/notes: Witte's fraud is specific; financial weakness alone does not establish wrongdoing.
+
+## Contradictions
+
+Success and expected good fortune coexist with financial or legal weakness and Witte's fraud example. They should not be merged into assured prosperity or universal fraud.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Vernal Point/Neptune = Jupiter`: fraudulent money transactions.
-- Practical expression: public success Water, money weakness in the public, glticks expectations in the public Life, public Water law, and legal weakness in the public.
+In `Vernal Point/Neptune = Jupiter`, public uncertainty is focused on benefit, money, and rights. The restored [ABC entry](#abc-entry) places hoped-for or uncertain fortune beside financial and legal weakness, with water-related success and law as distinct examples. The [Witte entry](#witte-entry) supplies fraudulent money transactions as an adverse possibility. The connected reading distinguishes expectation from secure benefit and weakness from demonstrated wrongdoing.
 
 ## Links
 

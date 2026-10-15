@@ -11,6 +11,8 @@ normalized_axis: Saturn/Node
 factor_a: Saturn
 factor_b: Node
 related_activations:
+  - Saturn/Node = Node
+  - Saturn/Node = Saturn
   - Saturn/Node = Admetos
   - Saturn/Node = Apollon
   - Saturn/Node = Asc
@@ -73,12 +75,14 @@ updated_at: 2026-06-20
 - Astronomicon axis: `W/g`
 - Canonical page type: comparative axis page grounded in source-native pair entries.
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
 
-- Source heading: `SATURN/NODE`
-- Source page: `295`
+- Source heading: `NODES + SATURN`
+- PDF page: `145`
 
 #### Pair Summary
 
@@ -172,14 +176,17 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 ## Comparative Schema
 
-- core meaning: source-native axis statements from each ingested source are preserved side by side above.
-- psychology: aphoristic, experiential, aspect-family, and thesis/anti formulations remain source-native instead of being flattened together.
-- body/health: sources that isolate bodily implications keep them inside their own entries, and Munkasey adds an explicit `With Body or Mind` field.
-- social/relationship: interpersonal implications remain inside their source blocks, and Munkasey's relationship thesis/anti stays separate.
-- events/manifestations: Munkasey adds politics/business axis emphases, Carter remains axis-level aspect doctrine where present, and oriented activation pages stay unchanged.
-- conflicts/notes: source `+` headings are normalized as midpoint-axis identities, and Munkasey's page-3 `CONCEPTS` list lives on the linked companion page instead of being merged into doctrine.
+- core meaning: ties and cooperation tested by duty, duration, restriction, or separation.
+- psychology: loyalty, consistency, fear of change, difficulty adapting to others, and the gradual overcoming of attachment to the past.
+- body/health: Ebertin's astral-body and shock-treatment statements and Munkasey's constriction correspondences are historical author claims, not established medical mechanisms or advice.
+- social/relationship: enduring alliances, support from older or experienced people, burdensome relationships, and difficulty maintaining a supportive group.
+- events/manifestations: severed connections, shared mourning, sponsorship, and long-standing organizational or international alliances.
+- conflicts/notes: Banzhaf/Haebler frame the North Node through life's tasks and old patterns; the other entries focus mainly on interpersonal connections. These emphases should remain visible rather than be treated as identical doctrine.
 
 ## Related Activations
+
+- [Saturn/Node = Node](../activations/saturn-node-equals-node.md)
+- [Saturn/Node = Saturn](../activations/saturn-node-equals-saturn.md)
 
 - [Saturn/Node = Admetos](../activations/saturn-node-equals-admetos.md)
 - [Saturn/Node = Apollon](../activations/saturn-node-equals-apollon.md)
@@ -205,15 +212,16 @@ The blockage or constriction of tubes or passageways in the body; blocked or con
 
 ## Contradictions
 
-- No direct contradiction is recorded yet among the ingested source entries on this axis.
-- Differences are preserved as distinct source voices, emphases, and source structures rather than flattened into one wording.
+- Long-lived relationships and termination of relationships are both explicit possibilities; the entries do not supply a rule that chooses between them.
+- Banzhaf/Haebler's task-oriented North Node account broadens the question beyond the social ties central to Witte, Ebertin, Hand, and Munkasey; it is a difference of emphasis, not proof of disagreement.
+- ABC's pair-spread locator is printed pp. 216–217 (PDF 107); Sandbach PDF 92 is only a chapter-start lookup.
 
 <a id="derived-synthesis"></a>
-
 ## Derived Synthesis
 
-- `Saturn/Node` is the axis of difficult but enduring ties, alliances shaped by duty, and associations tested by time, distance, or hardship. It combines restriction, loyalty, endurance, and separation with meetings, fellowship, cooperation, and social bonds.
-- Chart expression: serious contacts, few but consequential relationships, obligations toward others, and partnerships that must prove themselves under pressure. Liabilities: isolation, estrangement, burdensome alliances, grief through others, and the termination of ties when strain outweighs loyalty.
+`Saturn/Node` concerns the weight and durability of connections: serious alliances, obligations toward others, and the effort needed to cooperate through disappointment or restriction. The [pair summary](#pair-summary) includes both long-term connections and their severing. [Ebertin](#reinhold-ebertin---the-combination-of-stellar-influences) adds sponsorship by older or experienced people, while [Munkasey](#michael-munkasey---midpoints-unleashing-the-power-of-the-planets) emphasizes loyalty, mutual assistance, and learning to use support rather than withdrawing from it.
+
+The burden can also become inhibition, controlling contact, oppressive attachment, or separation. [Sandbach](#john-sandbach---midpoints-a-kabbalistic-compendium-of-meanings-for-astrological-midpoints) describes gradual release from fear and the past; [Banzhaf/Haebler](#hajo-banzhaf-and-anna-haebler---keywords-for-astrology) apply a related tension to perseverance in life's tasks and falling back into old patterns. Shared mourning and organizational alliances are specific source examples, not inevitable events. Historical bodily and astral claims remain attributed and supply no medical conclusion.
 
 ## Links
 

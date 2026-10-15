@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Admetos/Poseidon = Vernal Point`
 - Astronomicon formula: `¦/¨ = VP`
 - Axis page: [Admetos/Poseidon](../axes/admetos-poseidon.md)
@@ -36,18 +38,35 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: one-based PDF p. 312, Vernal Point row.
+
 The general educational facilities.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Spiritual depression in the public sphere, general clarity for the public, manifestation of truth in the public sphere, public culture blockade, strike filr reason in the public sphere, and suppression of truth in public life
+Reference: printed p. 476 (PDF p. 237), Vernal Point row, checked on the scan.
+
+Intellectual suppression in public, thorough clarity for the public, manifestation of truth in public, public cultural blockage, a strike for reason in public life, and suppression of truth in public life.
+
+## Comparative Schema
+
+- core meaning: Public educational provision and the public conditions of truth or understanding.
+- psychology: Public clarity is named; no individual temperament is described.
+- body/health: Neither entry supplies a medical meaning.
+- social/relationship: General educational facilities and public cultural life.
+- events/manifestations: Manifesting truth, cultural blockage, suppression, or a strike for reason.
+- conflicts/notes: Public provision alone does not establish either free understanding or suppression.
+
+## Contradictions
+
+Clarity and suppression are alternative public conditions in ABC, rather than a direct denial of Witte's educational facilities.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Admetos/Poseidon = Vernal Point`: educational infrastructure, public access to culture, and the social environment through which refinement is distributed. Main caution: impersonal schooling: public systems can become abstract, rigid, or widespread without truly shaping living understanding.
+In `Admetos/Poseidon = Vernal Point`, Vernal Point specifies the pair through education and understanding in public life. The [Witte entry](#witte-entry) identifies general educational facilities. The [ABC entry](#abc-entry) describes both public clarity and manifested truth, alongside cultural blockage and suppression of truth. Its strike for reason gives a concrete public action within that range; no particular quality of an educational system is guaranteed.
 
 ## Links
 

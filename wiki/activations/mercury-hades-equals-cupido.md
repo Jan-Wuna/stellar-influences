@@ -30,9 +30,14 @@ updated_at: 2026-05-04
 - Axis page: [Mercury/Hades](../axes/mercury-hades.md)
 - Triad hub: [Mercury Cupido Hades](../triads/mercury-cupido-hades.md)
 
+[Read the interpretation](#derived-synthesis).
+
 ## Source Entries
 
 ### Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures
+
+- Source heading: `Mercury + Hades`
+- Source locator: PDF p. `167` (complete oriented entry; raw scan checked).
 
 #### Witte Entry
 
@@ -40,15 +45,31 @@ To drag marriage in the mud. Artistic talent in vulgar rhetoric. Group psychothe
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
+- Source heading: `Merkur + Hades`
+- Source locator: printed p. `257`, PDF p. `127` (entry).
+- Text basis: raw PDF p. `127` visually checked; supplied evidence is parser-normalized OCR with `verified_visually=false`.
+
 #### ABC Entry
 
-Common deprivation of young people, dangers for a young community, youth shortage of a community, opinions on the common past, news about lack of Community, and language skills from the past
+Shared deprivation among young people, dangers for a young community, a community's lack of young people, opinions about the shared past, reports of deficiencies within the community, and verbal art from the past.
+
+## Comparative Schema
+
+- core meaning: Adverse or past-oriented thought enters marital, artistic, or group settings.
+- psychology: No separate psychological trait is stated beyond these shared settings.
+- body/health: Group psychotherapy is named by Witte; no condition, treatment result, or mechanism is established.
+- social/relationship: Disparaging marriage, shared youth deprivation, and dangers to a young community are recorded.
+- events/manifestations: Coarse rhetoric, opinions of a shared past, and reports of communal deficiencies are named.
+- conflicts/notes: Group psychotherapy is a separate association; the text does not say it is caused by vulgar rhetoric or marital disgrace.
+
+## Contradictions
+
+The entries describe different settings or expressions rather than a direct contradiction. Historical clinical and moral terms remain attributed; thematic overlap does not establish independent corroboration.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Mercury/Hades = Cupido` socializes the axis through degraded unions, vulgar art, and collective treatment.
-- Chart expression: marriage or group ties pulled into disgrace, artistic talent expressed through coarse rhetoric, and communal attempts to address damaged thinking through therapy or shared process.
+In `Mercury/Hades = Cupido`, Cupido specifies Mercury/Hades through shared or group settings. [Witte](#witte-entry) gives disparaging marriage, artistic talent in coarse rhetoric, and group psychotherapy as separate associations. [ABC](#abc-entry) gives shared youth deprivation, community dangers or deficiencies, common memory, and verbal art from the past. The connections are communal, but the entries do not establish that a union is degraded or that therapy necessarily follows a particular conflict.
 
 ## Links
 

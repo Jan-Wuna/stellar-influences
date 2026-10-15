@@ -25,6 +25,8 @@ updated_at: 2026-05-04
 
 ## Identity
 
+[Read the interpretation](#derived-synthesis).
+
 - Formula: `Zeus/Poseidon = Sun`
 - Astronomicon formula: `£/¨ = S`
 - Axis page: [Zeus/Poseidon](../axes/zeus-poseidon.md)
@@ -36,19 +38,37 @@ updated_at: 2026-05-04
 
 #### Witte Entry
 
+Reference: PDF p. 296, Zeus + Poseidon, Sun row; checked against the scan.
+
 Days of good mental creating. The man who mentally becomes independent, who must show his conviction and declare himself.
 
 ### Udo Rudolph - ABC for Planetary Pictures
 
 #### ABC Entry
 
-Efforts of a culture center, creation of the mind body, spiritual leadership person, clear personal goals, culture performance of a man, personal pursuit of truth, Yemunft efforts of a person, and truth testimony of a man
+Reference: printed p. 458 (PDF p. 228), Zeus + Poseidon, Sun row; checked against the German scan.
+
+Efforts of a cultural center, creation of the spirit-body, a person in spiritual leadership, clear personal goals, cultural achievement of a man, personal striving for truth, efforts of reason by a person, and a man's testimony to truth.
+
+## Comparative Schema
+
+- Core meaning: Personal creative independence and a declared direction of thought.
+- Psychology: Standing by one's conviction, clear goals, and striving for truth.
+- Body/health: Spirit-body is ABC's spiritual expression; no physiological or medical mechanism is defined.
+- Social/relationship: A person taking spiritual leadership and declaring conviction.
+- Events/manifestations: Creative mental work, cultural achievement, and testimony.
+- Conflicts/notes: The sources' male examples remain attributed and do not restrict these themes to men.
+
+## Contradictions
+
+The German scan resolves "Yemunft" as reason. The literal spirit-body expression is retained as source language, without expanding it into physiology. Witte and ABC provide personal and gendered examples rather than a direct contradiction.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Zeus/Poseidon = Sun`: Days of good mental creating. The man who mentally becomes independent, who must show his conviction and declare himself.
-- Practical expression: efforts of a culture center, spiritual leadership person, clear personal goals, culture performance of a man, and personal pursuit of truth.
+In `Zeus/Poseidon = Sun`, Sun specifies Zeus/Poseidon through personal creative independence and the need to declare a conviction. The [Witte entry](#witte-entry) names mental creativity and independence; the [ABC entry](#abc-entry) connects clear personal goals with cultural accomplishment, leadership, and testimony. The common theme is a person giving creative thought an explicit direction.
+
+The male wording remains attributed to the sources. ABC's spirit-body image supplies no bodily mechanism or health assessment.
 
 ## Links
 

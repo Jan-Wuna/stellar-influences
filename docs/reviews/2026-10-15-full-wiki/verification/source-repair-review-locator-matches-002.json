@@ -1,0 +1,493 @@
+{
+  "generated_at": "2026-10-15T10:24:55.409Z",
+  "verifier": "/root/source_integrity_gate",
+  "scope": "Per-record verification of new Witte PDF locators and optional source-heading lines only. Each complete retained entry or pair summary must match text directly extracted from the cited raw page. Unchanged ABC defects remain outside this locator approval.",
+  "raw_source": "Stellar Influences Vault/planetary expressions - Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures 2020.pdf",
+  "method": "Direct PyMuPDF get_text, with full-entry exact substring after Unicode NFKD/casefold/alphanumeric normalization. Each added source heading was also required to occur on the actual raw page. No parser map, fuzzy matching, or sampled approval.",
+  "records": [
+    {
+      "path": "wiki/activations/apollon-apollon-equals-admetos.md",
+      "before_sha256": "80113519d99b4291805f2fec949cdeaa0d2685a1ca102a24a5e61fffa904eff2",
+      "after_sha256": "9017d71dd5a282e5483d961a373767e3487b928bf9eda3a6edc9591b027f1a43",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "The feeling of satisfaction. Contentment. Satiety. To be saturated. Stagnation or standstill in trade, handicraft, commerce, industry or science. Science in a small circle, for only a few. Exclusive scientific circle. The few, the small circle. The exclusive circle.",
+      "entry_sha256": "d44ec674e2ad108297aa779b6dd157d0593c00fc411a7198dc0154d4d5f50379",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 1784,
+      "normalized_length": 214,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Admetos row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-asc.md",
+      "before_sha256": "8314df75579fbec7f2cf51a45e5b30800394e9338c353beb178175c5ab77fdbb",
+      "after_sha256": "2720760ea2a256245d10fa6f2a9c1e7b05d0a62f134e9a51afea1fa00c48d5d2",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Equalization of others. Many acquaintances. To have customers. Acquaintance with representatives of commerce, trade and science. Matters that are take place far away or come from a distant location. To get to know many places. Interests that are spreading out into new areas. For the merchant, a growing customer base and the sale of merchandise.",
+      "entry_sha256": "ddb7a1ad46d1e136ab575306e77df1bf9dd2c801983a08a172e1595e3af17284",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 521,
+      "normalized_length": 282,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Asc row. The awkward phrase “Matters that are take place” is printed in the source."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-cupido.md",
+      "before_sha256": "3d9f42edd18e4067ef5ddc83d59eeee06ad565f4c01689d2e5032d77ae2f541c",
+      "after_sha256": "c39ea6b5fc1d3dc0ff06243f33a24701b7523b858ee0754622f61d28a2a75fd9",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "Multiplying. Expansion or extension of a community. Widespread artistic or scientific association. School classes. Scientific successes. To be in the company of many. Much sociability. Art association. Great expanded society, family etc. An association representing economic interests. Consumers union. A large family. Art and science.",
+      "entry_sha256": "9920a850d10dc5f54f2b245c9f2f3ce4de9124ac6ace826ee35dd8c368a928dd",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 988,
+      "normalized_length": 277,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Cupido row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-hades.md",
+      "before_sha256": "0f4c0b561965d6a3e4a41965e5ef6cf9b1b996cebf28fe9daf6e4de6c5a87e9a",
+      "after_sha256": "29930809b94e27990fb2ba125c95134f1a706af60eb2db6ecebab5821255a35b",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "Lack of experience. Widespread poverty. Mass misery. Garbage and junk dealers. Trade with old objects. Science of the past. Knowledge of history. Occult science. Secret science. Magic. Great meanness, great vileness. Many in need.",
+      "entry_sha256": "9e0189e761c5a4f2ea92b2c4c819cd7b6956e5a44a47ea9ac566c662b2a6722b",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 1265,
+      "normalized_length": 184,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Hades row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-jupiter.md",
+      "before_sha256": "06dc51d011637181e582c0e7fbeb069ba6e16d08a59b280a40ccb7bd9a0f5262",
+      "after_sha256": "14f845b1623200d415089bc76bd547885dd0e22dc28a028da06fce204f3e87a9",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Fortune, success, honors. Much fortune and happy experiences. Good luck. Success in science. Money through science, trades or law. Capital. High finance. Multitude of money. The amount of money in circulation. Successful growth or expansion. Luck and happiness for many. Economic increase. Luck and success of enterprises.",
+      "entry_sha256": "8241c341d16ab3f9e3ab5fb845a0cbaf00b3b36d9d93e0b12134786879d01572",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1898,
+      "normalized_length": 260,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Jupiter row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-kronos.md",
+      "before_sha256": "87370347198bfac7759ec7fe619c3319308d970eff46d91a480922ca4d8a0a12",
+      "after_sha256": "cfbfb4fa76ec9f6bb5be2ea48c65a7fdf2608c3a8bd19e83c5178fb8073419b5",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "Main formula for the knowing one and the expert. Height and width. Scientific celebrity with decorations and titles. Leading scientist. Great expansion. Outstanding science, experiences, understanding. Exceptional knowledge.",
+      "entry_sha256": "4578af123679610fe0e95e0b8d93bcec3526c37fed28d460c413a0d6b768e31e",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 1596,
+      "normalized_length": 188,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Kronos row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-mars.md",
+      "before_sha256": "207a4498b8baded862fb9b2e813f5c30696264f11b02b0716efe01b077c138ac",
+      "after_sha256": "8adef851207fddd179b8a82e45f0f1a49ed75eb53ebd0583d79ffcb7e05c2307",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Generous way of acting. Peaceful, scientific or commercial activities. Successful activity. An activity is expanded and enlarged. Rising of the market. Activity in handicraft or industry. The forces of the trading market. Trading activity. Peacemaker. Scientist. Merchant.",
+      "entry_sha256": "985378603fe366843ddf4372cbd10c529f15561dfb5dfc80d12853884c8fdc5f",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1673,
+      "normalized_length": 224,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Mars row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-mc.md",
+      "before_sha256": "fc0ccbdc82dd0aff05d8bc1a9819e1b6f9dad50b37fb2be5158b05ca3777e475",
+      "after_sha256": "82b03fd779bffa56ad49ad53198edfecba0b120e3c4e7425d79edb28c9f15839",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "The mental horizon. One’s own life experiences. To be a scientist, merchant or trader. To be peaceful. To be open minded. To possess psychic wealth. Generous disposition. To be magnanimous. Glory and success for the native. A successful moment (minute).",
+      "entry_sha256": "2fd586a6b9c1a1b7355031b4eeb5b5e5d56bf789aff5cb43b217f25928d93351",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 320,
+      "normalized_length": 200,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, MC row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-mercury.md",
+      "before_sha256": "4b919b265c4da1ce8fc8cac17b2cb6544eab0a2750e5c59b10b11c55fee349ee",
+      "after_sha256": "42fc949fd458d785a9c500ed9cf6acba7e8b1d92da19c9aac70a59511ab5c8cc",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "High flight of thought. Scientific thinking. Many talks. Much speaking. Knowledge of languages. Scientific languages. Business talks. Thoughts concentrated on commerce and earnings.",
+      "entry_sha256": "3660d3213b47dd7b2d5e267740bee5eea2906db7d692da5d01bf068810fcdcf5",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1407,
+      "normalized_length": 151,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Mercury row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-moon.md",
+      "before_sha256": "e3f8ff413c6a448de2eb11f7ac971039e4192860c7db1068b6c6d5cd42348581",
+      "after_sha256": "ed99963f5eb9ba043f21995e2b8a8f3f2f3ce1fc2fc6fdbc69b825805c60550e",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Experience. Many hours. Multitude of a people. Spreading of a people. Many nations. Multitude of females. Generous disposition women or nations. A group of people who are foresighted.",
+      "entry_sha256": "81ecf3132730020945fdb239219db0fa167a380807f15d3881eac4a3b3bba214",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1053,
+      "normalized_length": 148,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Moon row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-neptune.md",
+      "before_sha256": "db2b97969b8b153cf9b9d529b63b45475a43813b9b3d4663fcdf117dbe73f188",
+      "after_sha256": "26bff29bdd393354c5f3d4bd91773ce9711cfdec4ca645c27783efcfd2f9c320",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 305,
+      "entry": "Embezzlement. Great corruption. Deception on a large scale. Dissolution on a large scale. Chemistry. Science of the future. Occult science. Masses of air, gas or water. The deception of many. Large deception, frauds.",
+      "entry_sha256": "b917d2d045a04e39eda9c93b2047144a2aaca5934c6af0714fb55289b5a54444",
+      "raw_page_text_sha256": "5eea51a0568ccca215c8e493446216af5de0663f03cc0180f2d94c264bee3d5f",
+      "normalized_start": 467,
+      "normalized_length": 172,
+      "added_metadata": [
+        "Reference: one-based PDF p. 305, Neptune row."
+      ]
+    },
+    {
+      "path": "wiki/activations/apollon-apollon-equals-node.md",
+      "before_sha256": "afe00b0827612facace1051fad108cf81ec8ad2505fc18a4123438bcd07fc911",
+      "after_sha256": "28f7f0d1c05c282bec1384f48c71b5311f0885028da155826e2321acd8ad5077",
+      "ledger": "activations-002.jsonl",
+      "pdf_page": 304,
+      "entry": "Business, trade or scientific connections. Union (connection) with many. Common freedom or peace. Wide reaching connections (in social, trade or political structures). Trading relationships. Extensive contacts. Many or wide spread connection points.",
+      "entry_sha256": "678a1f501b797697cdf9012b397584d6b635b9e40f7638c93102fb98906623eb",
+      "raw_page_text_sha256": "9b4c0dc91c26be38e5565d96755c450ca92ff939aac73e9d0184659b46f6ab61",
+      "normalized_start": 1202,
+      "normalized_length": 205,
+      "added_metadata": [
+        "Reference: one-based PDF p. 304, Node row."
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-cupido.md",
+      "before_sha256": "8c2ecb188b4f612282f746037c292a085a8dc04512c4525c51c2fdfc1894496a",
+      "after_sha256": "b446644d3f915f65855160c4d837b35fcf891a87a5d4b7c3221c67616101a018",
+      "ledger": "axes-005.jsonl",
+      "pdf_page": 211,
+      "entry": "Family happiness. Fortunate or successful partnership. Happy and successful community. Sociability. Art with success. Happy marriage. Happiness in married life. Good luck in associations and in the arts. Money through members of the family. Money through marriage. Money or gains through arts. Associations for justice or money matters. Large non-governmental organization (NGO). Financial services companies. Successful companies.",
+      "entry_sha256": "306069e4e118d66a3e0b1ef3b79540f4aabcbfdfd88aef16c6a253039a3873ab",
+      "raw_page_text_sha256": "23d4f0e1c59c8ae13d7e12e3c4dbb2503aa259697eb9299655f5352eaa1b5aee",
+      "normalized_start": 13,
+      "normalized_length": 357,
+      "added_metadata": [
+        "- PDF page: `211`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-jupiter.md",
+      "before_sha256": "aa9f6dae95c6f20d54926f283ca241514582622c86d4bede0a9457c5649ce5f3",
+      "after_sha256": "fc67435ea7b078b5adf7a284593d8f01fe12e6c3c73dc7a2b7f5b6a630a0d4f6",
+      "ledger": "axes-005.jsonl",
+      "pdf_page": 205,
+      "entry": "Gaiety. Contentment. Happiness. Good luck. Money. Success. Satisfaction. Beneficial influences. Justice. Plenty. Expansion, abundance, goodwill, kindness.",
+      "entry_sha256": "bbfcab0761b837032f57f5cbe471a240c5a95e34f5cc6d2302b4f5c76b28d24a",
+      "raw_page_text_sha256": "522f033c8040c81084abaf3e7c59881c7853b8125de9283de4a0c30ddc643251",
+      "normalized_start": 14,
+      "normalized_length": 125,
+      "added_metadata": [
+        "- PDF page: `205`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-poseidon.md",
+      "before_sha256": "9d5a3c41bde6e1485d90536124b1de6c37bdd9959c60b1778f552b73a7d32d6a",
+      "after_sha256": "be6f6fc2d70a59563881d43e8adbcd42ce6234d391d16157293f03e926f441a9",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 218,
+      "entry": "Common sense. Good instinct, insight or intelligence. Wisdom. Conscience. Mental happiness. Clear jurisdiction. Good or successful education. Understanding and reason. Friendly minded. The whole truth. The true law.",
+      "entry_sha256": "43cde8f80a63b5793a87d5f15a1f24263ebe0aed4fde3981af860c5c30f59a37",
+      "raw_page_text_sha256": "7324cdf47baeae46553f8c2b1e0c1ef01eaefc06b53b210484d0f1eb07ed30e5",
+      "normalized_start": 15,
+      "normalized_length": 176,
+      "added_metadata": [
+        "- PDF page: `218`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-saturn.md",
+      "before_sha256": "c058e692e6ff782f67ee333b6c72bdf2f3d7f4ed9c3c19ad8121abadea929bbe",
+      "after_sha256": "f2bc7bb5f7eb1d43b5532db2d8f6bdbb70fe9cede698b244ed2659d90c4ee983",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 207,
+      "entry": "“Ripe Old Age”. Inconstant success. Successful separations. Separates from luck. Buildings. Change of residence. To have no luck. Money losses. Contentment in being alone. Separation from happiness or happy separation. Basic separation formula for birth.",
+      "entry_sha256": "fa16b895f2b6d9a7cd85af5f25b693f8d48525d453521ef090e5770ab78ba0fd",
+      "raw_page_text_sha256": "fffec959366fab3444dcaebc174705a1a72e82b08ccf6f76919d368172147313",
+      "normalized_start": 13,
+      "normalized_length": 207,
+      "added_metadata": [
+        "- Source heading: `JUPITER + SATURN`",
+        "- PDF page: `207`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-uranus.md",
+      "before_sha256": "9ad67728b23666c37539cf1f3ce232234d9ef73c14f0d6396242b7896ecb0422",
+      "after_sha256": "6f1955cceaeddc14b05490e0d29fb8267c7cdd6ee671f6729f8751ff8c9bb1c1",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 208,
+      "entry": "Material success. Sudden luck. Sudden misfortune, if Jupiter posited in poor pictures. Sudden strokes of good luck. Fortunate events. Happy surprises. Success in technology. Money though technology. Electronic money. Digital currency. New money. Monetary reform.",
+      "entry_sha256": "92f0b32118d4955b1dddd0f066b4c319c7dfc3741db0520c2acf1826f2387216",
+      "raw_page_text_sha256": "f245c56f052fb9e7cfd53676ec7702acb35c718d022ce5251d8e5f6a099da3ee",
+      "normalized_start": 13,
+      "normalized_length": 215,
+      "added_metadata": [
+        "- Source heading: `JUPITER + URANUS`",
+        "- PDF page: `208`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-vulcanus.md",
+      "before_sha256": "e338505285360dbfa160055b8f9f861d402f96ad361ab96173c5c8f07e3e8281",
+      "after_sha256": "b521b93edbe63c277491e9446eb3e8a0bdf01ceffb3d90b2ba09b31253d28980",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 217,
+      "entry": "Optimism. Confidence. Huge luck. Success by force. The power of money and finances. Very influential financial power. Benefice energy. Benevolent power. Successful power. The great optimist. Excellent credit.",
+      "entry_sha256": "08fc16c3fd2106a25b4e537b33db4c83c70442f7e12d42def849453c6fc5c9a1",
+      "raw_page_text_sha256": "ce39de46331f518910b5c95d26dc65c6e85da2baf48068a20daa1fa981badf1b",
+      "normalized_start": 15,
+      "normalized_length": 170,
+      "added_metadata": [
+        "- PDF page: `217`"
+      ]
+    },
+    {
+      "path": "wiki/axes/jupiter-zeus.md",
+      "before_sha256": "62c22080dbfaa58cdf07a8f0aa9bd5f2658809781325e34c79dd0299995e2565",
+      "after_sha256": "dbb1fdd983d32a5f7ca172b108693992bdee6c5a33d7388ed9b7ef0c89a5081f",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 213,
+      "entry": "Successful creation. Fortunate activity. To bring good luck and benefits. Beneficial acts. To be compelled to give. Time of fortunate activity. To be fortunate in connection with machines. To produce something. Money through creativity. Successful procreation.",
+      "entry_sha256": "ad801badd38816c4a921ca19c3609f990df074eb47f4b7ae248f7d975d8e304b",
+      "raw_page_text_sha256": "d4f5ba84058735e70b9bfbf4ec2b1120af3955c41079a6eb4b34d6c5932fd63d",
+      "normalized_start": 11,
+      "normalized_length": 215,
+      "added_metadata": [
+        "- PDF page: `213`"
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-admetos.md",
+      "before_sha256": "28f35145bd933aaa7eefca66342e798609344b6a6ae43b502e0c14aa1dd64890",
+      "after_sha256": "ff1aa7e79ea0b0d1a31bf2283c40268eea3bfc3fb50cbbf18fe7af39e77a745a",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 300,
+      "entry": "Main formula for an odd character. Differences. Odd being. Fall of a ruler or a government. Differences in altitude. Hills. Mountains. Odd character who leads a secluded life. Great depth, cave or cleft. A life apart from others. Fall from great height.",
+      "entry_sha256": "ce46012749a685f2a47fbf3302aa192b5849aeb20c8a9c7e89ed8c13d72fc898",
+      "raw_page_text_sha256": "1b83046bdb0d4783a16099914a721ccdb166d85eb922c0314456b632f9a26e8f",
+      "normalized_start": 13,
+      "normalized_length": 200,
+      "added_metadata": [
+        "- PDF page: `300`"
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-apollon.md",
+      "before_sha256": "88770d12ed813ed9963f038f0d01c6839ffff2988f94816817cfca20764f43e3",
+      "after_sha256": "026bf568034aa1e08e3ad5bb5975f690bd2deb21913fcc73b3e641a7732d9627",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 299,
+      "entry": "Main formula for the knowing one and the expert. Height and width. Scientific celebrity with decorations and titles. Leading scientist. Great expansion. Outstanding science, experiences, understanding. Exceptional knowledge.",
+      "entry_sha256": "4578af123679610fe0e95e0b8d93bcec3526c37fed28d460c413a0d6b768e31e",
+      "raw_page_text_sha256": "258cf96f1bbffc57277465ca31c03cd02df675d169e6f64456601dac3b73e10b",
+      "normalized_start": 13,
+      "normalized_length": 188,
+      "added_metadata": [
+        "- PDF page: `299`"
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-kronos.md",
+      "before_sha256": "1311c7b6b6e2bc46111e76a71cb4ee794408ffe9d9fb9340f9ac0637e0d9b56c",
+      "after_sha256": "676caa10a8462fd51d062b9d88b358f0e41aec688516e859c753516fa84f2324",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 297,
+      "entry": "Above average. Independence. The executive power. Authority. State. Ruler. Chief. Important person. Head of the family. Manager. The independent. Personal independence. Masterful in a skill. Others are superior to the native.",
+      "entry_sha256": "a6c7e57e1c7477d92b19a9531622ff11e9dea49264bbf24c34bc1fccadae48bf",
+      "raw_page_text_sha256": "59c70b8043d8e4a80a1012b84b9473afdbdb31b7c07a32d722d1cff61e74c031",
+      "normalized_start": 12,
+      "normalized_length": 181,
+      "added_metadata": [
+        "- PDF page: `297`"
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-poseidon.md",
+      "before_sha256": "d6a5a97a2c76b05ef193650980afc563c905950b524b7d4d6dcdce9cd6e28c47",
+      "after_sha256": "ae1bdac9165549a62e6159b6424e2c25381db1d1c11d11041801d16d55766d6e",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 302,
+      "entry": "The one who is near God. The great revelation. The sage. High-minded and intellectual greatness. High standard of mentality. Greatness of mind. Culture. Mental giant. Superior genius. Moral behavior. Department of culture. Department of education. Bureau of Educational and Cultural Affairs.",
+      "entry_sha256": "3ba25ed070555946698a6669b8bb30988113989c3a237a35b90ee7639da60ffa",
+      "raw_page_text_sha256": "9d03a9c4fc4cfdcf3d9c213873a81970d38374c02529f73307303363187231ab",
+      "normalized_start": 14,
+      "normalized_length": 237,
+      "added_metadata": [
+        "- PDF page: `302`"
+      ]
+    },
+    {
+      "path": "wiki/axes/kronos-vulcanus.md",
+      "before_sha256": "ca64459bc9d087531cfeabbb5bb72c1f5b3bab50749483788ad89a437266b985",
+      "after_sha256": "91ee963e6c6b7fac878433efb9f39deae2fa4c64e201440c7f15c5e7e4223931",
+      "ledger": "axes-006.jsonl",
+      "pdf_page": 301,
+      "entry": "The top authority. The referee. The despot. A great statesman. Politics. Power of the state. Great force. Great power (nation). Supreme or executive power.",
+      "entry_sha256": "69c477ccdee715faf45f1bb176652755af8030d2bbc931af741da6b90ba8c237",
+      "raw_page_text_sha256": "264bc286ffdbefdc220530cfa084bf5150e531bb8c84e5deaa96e9d8887c75da",
+      "normalized_start": 14,
+      "normalized_length": 121,
+      "added_metadata": [
+        "- PDF page: `301`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-asc.md",
+      "before_sha256": "3b33bb89d0dbd307cff6f7ad12de3e6e25555f425f9b80efe98730f8476bbfca",
+      "after_sha256": "b0234b7016b09ced19fa16d035e2e642464b7ff67c4ff1d64fab515fee88e0d1",
+      "ledger": "axes-007.jsonl",
+      "pdf_page": 85,
+      "entry": "Actions and deeds of others or with others. Excitement. Arguments with others. To be handled energetically, leading eventually to violence. Fights. Strife. Co-worker. To be made angry by others. Excitement or action in the immediate surroundings. Actions and deeds of others. Others are in activity. Place of work. Working environment.",
+      "entry_sha256": "b6bbd4f10255a91e89db85e073cd0169e2fa60c2bb1dedfcba6343cfa7369f21",
+      "raw_page_text_sha256": "8a2f194d4a2f713fc2017a092d4587e56a6a0c7e664f9bef701ac63a5c88f148",
+      "normalized_start": 16,
+      "normalized_length": 271,
+      "added_metadata": [
+        "- Source heading: `ASCENDANT + MARS`",
+        "- PDF page: `85`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-mars.md",
+      "before_sha256": "c7f9c3dd4516722ee6a77979d8df3f239660e50d8a616177cda0f51530491d3d",
+      "after_sha256": "3ca33dd49b7e47c5e321eb3fb653ebe0f37b312c56583bf5f4b4b9908efb4d1a",
+      "ledger": "axes-007.jsonl",
+      "pdf_page": 190,
+      "entry": "Activity. Action. To act. Impulse. The Will. Decision. Work. Employment. Energy. Execute. Resolve. Impulsiveness. Passion. Inflammation. Male persons. Accomplishment (mechanical kind). Occupation.",
+      "entry_sha256": "7bc485f847175b86d18fb63ecc42b9cec0eb5b72849a93662c30d12ee0f7c674",
+      "raw_page_text_sha256": "f9ead0659f0705b1c6d70faa530c7a692c8012c9b3ccd0cea969be64615aff20",
+      "normalized_start": 8,
+      "normalized_length": 156,
+      "added_metadata": [
+        "- PDF page: `190`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-mc.md",
+      "before_sha256": "5ec3c0a6f82ca8c39530d18b6966cd46bb40800bae814891bd4e730eb0b5934e",
+      "after_sha256": "882e6fcea0087d05fc6f44ccb6a060f62a21b79327c8ad4f4c14cce3f42c2c02",
+      "ledger": "axes-007.jsonl",
+      "pdf_page": 64,
+      "entry": "Making arrangements. Giving orders. Ones own action. A agitated mind. Self-will. To feel energy. To pull oneself together. The urge to be active. Minute of action. Personal goals at work. Psychically active.",
+      "entry_sha256": "428bc38e1e96a78a2e622653fd0665d1aa35aacce725ad3d460536eff8b370ff",
+      "raw_page_text_sha256": "99c25f095d1acdbd6a3f1446c3ec105bf276d054d47c1d9fa2934100f84b0d67",
+      "normalized_start": 15,
+      "normalized_length": 164,
+      "added_metadata": [
+        "- Source heading: `MERIDIAN + MARS`",
+        "- PDF page: `64`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-vulcanus.md",
+      "before_sha256": "206eb6e484c28ceb8a7fe229dbcc903fac93d01399a90f9eb883486995023bec",
+      "after_sha256": "878acdb0de805d318a89326c2d4d4106a3d38120bcc8ebda334cf57efc896afa",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 203,
+      "entry": "Great effort. Exercise. Mighty activity. Great power. Acts of violence. Mechanical energies. Unleash power. Energetic forces in action. Muscular strength. Working in the field of high energies.",
+      "entry_sha256": "c517eaf0dcf7ce509c21e770eb72de3b5cdc6dc9a175868b62210bbca3d2ae7c",
+      "raw_page_text_sha256": "f7a410f652397d09820702755ff4915e698684638125ce5d364368d4edbbe03a",
+      "normalized_start": 15,
+      "normalized_length": 157,
+      "added_metadata": [
+        "- PDF page: `203`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mars-zeus.md",
+      "before_sha256": "c735b49ae9d9a79d76044920dce0f570760ffd0d33274a8613252d202bdac4ea",
+      "after_sha256": "7cbe33e3478401984dd6a48f6661a4372a8e28c41b51cfb0b198a2b1c0a5bea6",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 199,
+      "entry": "To heat, to fire, to burn. Shooting flames. Danger of fire. Incentive creative work, or forced creative work. Creative activity. Leading activity. Procreation. Engineering. Machines. Military engineering. Officers. To handle firearms. To act goal-oriented. An act followed by consequences. Fires, conflagrations. Directed activity. The urge for deeds. Ignition of a rocket.",
+      "entry_sha256": "bf18516b6c06aa6a884cc56fb2a2869970fec070c5165f0137c8217fc045afc9",
+      "raw_page_text_sha256": "e7c6de0bd6edbcb0d9ff3be2036e0fa0424c724bf2b97ca3c45887484ec944d5",
+      "normalized_start": 8,
+      "normalized_length": 300,
+      "added_metadata": [
+        "- PDF page: `199`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-admetos.md",
+      "before_sha256": "58cafe1950780f6aa5f5c9f31e3e40589be340572d3d9ee973ad810f95205973",
+      "after_sha256": "9d2fd914a3aa1579bc60318d8ae19b43a8bd0ea3c73adf4c10f85806e22e7776",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 75,
+      "entry": "Ones firmness, perseverance and steadfastness. To be insensible, apathetic, hard-hearted. A conservative attitude. Standing on firm ground. Going back to the primary cause of things. To feel paralyzed. A dead soul. The moment (minute) of death.",
+      "entry_sha256": "9f0d0599d64659da2961fc20349db7d91e98022e0cadfc2cde080387cd40c1bc",
+      "raw_page_text_sha256": "8d4fb8fdc28cca66d881c9433d4f4de1a16ab60d1d3a1eaabef0da285b25cfa5",
+      "normalized_start": 15,
+      "normalized_length": 195,
+      "added_metadata": [
+        "- PDF page: `75`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-apollon.md",
+      "before_sha256": "9b08f0ae49408bc9835a2cfa44af4ce10dfa31a9145ffd5aa76640e5ba3d6577",
+      "after_sha256": "31616b740140bef694a8379861524182007ff2eb3f71846b24f139827ad84ea3",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 74,
+      "entry": "The mental horizon. One’s own life experiences. To be a scientist, merchant or trader. To be peaceful. To be open minded. To possess psychic wealth. Generous disposition. To be magnanimous. Glory and success for the native. A successful moment (minute).",
+      "entry_sha256": "2fd586a6b9c1a1b7355031b4eeb5b5e5d56bf789aff5cb43b217f25928d93351",
+      "raw_page_text_sha256": "73a7ff84e7bbb50e5b8fda0ff5462191ff354b0a786c4177c03f14585b1548f5",
+      "normalized_start": 15,
+      "normalized_length": 200,
+      "added_metadata": [
+        "- PDF page: `74`"
+      ]
+    },
+    {
+      "path": "wiki/axes/mc-cupido.md",
+      "before_sha256": "4735cf9b5d91bce50b493256a828df28b4fb7352874d7a45c2a9ab39625cb224",
+      "after_sha256": "9fa930b8ab7a08a7583b7ded8cb67c56a0967b5ee457b1c1a2952d74614e790e",
+      "ledger": "axes-009.jsonl",
+      "pdf_page": 70,
+      "entry": "Family and community minded. Enjoying art. Artistic taste. One’s attitude toward the community, the family and the arts.",
+      "entry_sha256": "45706c5cde2478e67918d8ef1ede9fee3ceb084cfd3992cfc31bfd07eb9c44ac",
+      "raw_page_text_sha256": "f0efb176d29b73778cae18e0d98607e3885981d3196e719c7cc6e15c60db62c5",
+      "normalized_start": 15,
+      "normalized_length": 97,
+      "added_metadata": [
+        "- PDF page: `70`"
+      ]
+    }
+  ]
+}

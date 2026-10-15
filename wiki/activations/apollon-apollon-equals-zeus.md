@@ -17,10 +17,12 @@ triad_set:
 aliases: []
 source_pages:
   - alfred-witte-ludwig-rudolph-hermann-lefeldt-rules-for-planetary-pictures
-updated_at: 2026-04-21
+updated_at: 2026-10-15
 ---
 
 ## Identity
+
+[Read the interpretation](#derived-synthesis) · [Source entries](#source-entries)
 
 - Formula: `Apollon/Apollon = Zeus`
 - Astronomicon formula: `¥/¥ = £`
@@ -31,12 +33,27 @@ updated_at: 2026-04-21
 
 #### Witte Entry
 
+Reference: one-based PDF p. 305, Zeus row.
+
 To do research. To experiment. To learn, to study, to collect experience. Natural science. Creative art and science. Modern science. Trials. Practical research. Trade with machines.
+
+## Comparative Schema
+
+- core meaning: Learning and accumulated experience through research and experimentation.
+- psychology: Study and learning are named; project proliferation is not described.
+- body/health: No bodily or medical meaning is supplied.
+- social/relationship: No specific interpersonal pattern is described.
+- events/manifestations: Trials, natural or modern science, creative art and science, practical research, and trade in machines.
+- conflicts/notes: The entry does not state failure to finish experiments or enterprises.
+
+## Contradictions
+
+The single entry supplies complementary forms of inquiry and application without an incompatible claim or a guarantee of success.
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Apollon/Apollon = Zeus`: experimentation, modern science, applied intelligence, and growth through creative initiative and technical work. Main caution: proliferating projects: the urge to explore and produce can generate more trials, schemes, or enterprises than can be completed well.
+In `Apollon/Apollon = Zeus`, Zeus specifies the repeated pair through active inquiry that accumulates knowledge and experience. The [Witte entry](#witte-entry) brings research, experiments, trials, and study together with natural or modern science and creative art. Practical research and trade in machines extend that inquiry into applied and commercial activity.
 
 ## Links
 

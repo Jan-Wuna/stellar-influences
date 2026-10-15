@@ -28,27 +28,35 @@ updated_at: 2026-05-04
 - Triad-set: `Vernal Point Node Hades`
 - Astronomicon triad-set: `VP g ¢`
 
+This hub groups an unordered factor set for sibling lookup. [Choose an orientation](#orientation-map) before reading its activation page.
+
 ## Orientation Map
 
-- [Node/Hades = Vernal Point](../activations/node-hades-equals-vernal-point.md)
-- [Vernal Point/Hades = Node](../activations/vernal-point-hades-equals-node.md)
-- [Vernal Point/Node = Hades](../activations/vernal-point-node-equals-hades.md)
+| Base axis | Activator | Oriented activation |
+| --- | --- | --- |
+| [Node/Hades](../axes/node-hades.md) | Vernal Point | [Node/Hades = Vernal Point](../activations/node-hades-equals-vernal-point.md) |
+| [Vernal Point/Hades](../axes/vernal-point-hades.md) | Node | [Vernal Point/Hades = Node](../activations/vernal-point-hades-equals-node.md) |
+| [Vernal Point/Node](../axes/vernal-point-node.md) | Hades | [Vernal Point/Node = Hades](../activations/vernal-point-node-equals-hades.md) |
 
 ## Source Coverage
 
-- `Node/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `150`
-- `Node/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, page `226`
-- `Vernal Point/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `49`
-- `Vernal Point/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, page `46`
-- `Vernal Point/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, page `39`
-- `Vernal Point/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, page `27`
+All three orientations are represented; none is missing from the current wiki map. Each linked activation contains entries from both sources listed below. Coverage is limited to the entries on those activation pages.
+
+- `Node/Hades = Vernal Point`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `150`
+- `Node/Hades = Vernal Point`: Udo Rudolph - ABC for Planetary Pictures, printed page `226`
+- `Vernal Point/Hades = Node`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `49`
+- `Vernal Point/Hades = Node`: Udo Rudolph - ABC for Planetary Pictures, printed page `46`
+- `Vernal Point/Node = Hades`: Alfred Witte, Ludwig Rudolph & Hermann Lefeldt - Rules for Planetary Pictures, PDF page `39`
+- `Vernal Point/Node = Hades`: Udo Rudolph - ABC for Planetary Pictures, printed page `27`
 
 <a id="derived-synthesis"></a>
 ## Derived Synthesis
 
-- `Node/Hades = Vernal Point`: To be connected with unpleasant affairs. Gangs of thieves.
-- `Vernal Point/Hades = Node`: This formula emphasizes to be in touch with poor people and inmates of a poor house.
-- `Vernal Point/Node = Hades`: This formula emphasizes unpleasant associations with many people.
+The set links [Node/Hades = Vernal Point](../activations/node-hades-equals-vernal-point.md), [Vernal Point/Hades = Node](../activations/vernal-point-hades-equals-node.md), and [Vernal Point/Node = Hades](../activations/vernal-point-node-equals-hades.md). Each formula selects its own base pair and activator. Follow the exact formula for its source entries and interpretation; use the base-axis links for shared pair meaning.
+
+## Contradictions Across Orientations
+
+The map establishes three distinct formula identities and their recorded source coverage. It does not establish agreement between their meanings. Differences between orientations require comparison on the linked activation pages, where each source entry remains attached to its own formula.
 
 ## Links
 
